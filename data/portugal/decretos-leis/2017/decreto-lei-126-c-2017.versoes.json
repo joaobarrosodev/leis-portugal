@@ -1,0 +1,347 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108269607:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-115553614",
+ "dre_path": "/dr/detalhe/decreto-lei/126-c-2017-108269607",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115531072",
+    "115531073",
+    "115531074",
+    "115557275",
+    "115557276",
+    "115557277",
+    "115557278",
+    "115557279",
+    "115557280",
+    "115557281",
+    "115557282",
+    "115557283",
+    "115557284",
+    "115557285",
+    "115557286",
+    "115557287",
+    "115557288",
+    "115557289",
+    "115557290",
+    "115557291"
+   ]
+  },
+  {
+   "date": "2018-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115552672:por",
+     "title": "Decreto-Lei n.º 46/2018",
+     "published": "2018-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/46-2018-115552672"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "115531072",
+    "115531073",
+    "115531074",
+    "115557275",
+    "115557276",
+    "115557277",
+    "115557278",
+    "115557279",
+    "115557280",
+    "123628644",
+    "115557282",
+    "115557283",
+    "115557284",
+    "115557285",
+    "115557286",
+    "115557287",
+    "115557288",
+    "123628645",
+    "115557290",
+    "115557291",
+    "115557292"
+   ]
+  },
+  {
+   "date": "2019-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123610184:por",
+     "title": "Decreto-Lei n.º 99/2019",
+     "published": "2019-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/99-2019-123610184"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "115531072",
+    "115531073",
+    "123628646",
+    "115557275",
+    "115557276",
+    "115557277",
+    "123628647",
+    "115557279",
+    "115557280",
+    "123628644",
+    "115557282",
+    "123628648",
+    "123628649",
+    "115557285",
+    "115557286",
+    "115557287",
+    "115557288",
+    "123628645",
+    "115557290",
+    "115557291",
+    "115557292"
+   ]
+  }
+ ],
+ "fragments": {
+  "115531072": {
+   "fragment_id": "115553615",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 126-C/2017\n\nde 6 de outubro\n\nA contribuição para o desagravamento das condições de financiamento às empresas constitui uma das traves fundamentais do Programa do XXI Governo Constitucional, tendo em vista a promoção de uma recuperação forte e sustentada do crescimento económico nacional, tal como refletido no Programa Nacional de Reformas e seus projetos e medidas. De entre estes, destaca-se o Programa Capitalizar com o objetivo de reduzir o endividamento das empresas e contribuir para a sua recapitalização, tendo em vista o relançamento da economia e a promoção da sua competitividade.\n\nAssumem particular relevância como contributos para aquele resultado a adequada mobilização de Fundos Europeus Estruturais e de Investimento (FEEI) para a dinamização e reforço dos capitais privados disponíveis para investimento na economia Portuguesa, privilegiando por esta via o financiamento empresarial sob a forma de instrumentos de capital ou quase capital, o que permite reforçar a capitalização permanente das empresas sem que os financiamentos obtidos por estas assumam um peso excessivo nos respetivos balanços, tal como aconteceria caso a forma de financiamento utilizada fosse o crédito bancário.\n\nAcresce ao exposto que, no quadro da avaliação ex ante realizada ao mercado do financiamento às Pequenas e Médias Empresas (PME) portuguesas que sustenta os fins a prosseguir e a afetação de recursos previstas no Acordo de Parceria «Portugal 2020», celebrado entre a República Portuguesa e a Comissão Europeia, foi verificada a dificuldade de acesso daquele tipo de empresas a financiamento por via de instrumentos de capital e de quase capital, sendo, por isso, parte substancial do envelope financeiro reservado para Portugal no âmbito daquele Acordo afeto à implementação de instrumentos financeiros, cofinanciados por FEEI, destinados a colmatar as referidas falhas.\n\nAtento o sucesso alcançado na formação, crescimento e consolidação de alternativas de financiamento às empresas por iniciativas anteriores de caráter semelhante dedicadas à capitalização das PME portuguesas em fase de arranque, considera-se justificada a constituição de um fundo autónomo consignado ao fim acima referido. O referido fundo, por forma a permitir uma maior agilidade na sua gestão e evitar riscos de concentração de investimento através de um conjunto limitado de operadores privados, deve operar diretamente através da tomada de participações em empresas alvo de investimento por outros operadores de capital de risco, através de operações de coinvestimento sujeitas à apreciação do Comité de Investimento do fundo autónomo ora instituído.\n\nEsta forma de operação permitirá reduzir o número de intermediários no investimento a realizar pelo fundo autónomo agora instituído, mantendo-se contudo o mecanismo de participação conjunta de operadores públicos e privados de capital de risco, sendo o investimento liderado por estes últimos.\n\nPretende-se, assim, com o presente diploma, reforçar a oferta de instrumentos financeiros de capital e quase capital disponíveis para as empresas Portuguesas em fase de arranque, no estrito cumprimento das regras comunitárias aplicáveis em matéria de FEEI, contratos públicos e das regras de auxílios de estado nos termos do disposto no Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115531073": {
+   "fragment_id": "115553616",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei cria o Fundo de Coinvestimento 200M, adiante designado por Fundo, com a natureza de fundo autónomo.\n\n2 - O Fundo tem por objeto a realização de operações de investimento de capital e quase capital em Pequenas e Médias Empresas (PME), em regime de coinvestimento com os seguintes objetivos:\n\na) Fomentar a constituição ou capitalização de empresas, prioritariamente, nas fases de arranque (seed, start-up, later stage venture - séries A e B);\n\nb) Promover o incremento da atividade de capital de risco em Portugal, através da mobilização de entidades especializadas de capital de risco nacionais e internacionais que, para além do investimento financeiro aportado, permitam às empresas a aquisição de conhecimento e experiência técnica, comercial e financeira.\n\n3 - Fica expressamente excluída a possibilidade de investimento pelo Fundo no capital de outros fundos, qualquer que seja a respetiva natureza."
+  },
+  "115531074": {
+   "fragment_id": "115553617",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime e estratégia de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime e estratégia de investimento\n\n1 - O Fundo realiza operações de investimento de capital e quase capital, em regime de coinvestimento, em PME com projetos de inovação de produto ou processo.\n\n2 - Para efeitos do número anterior, consideram-se efetuadas em regime de coinvestimento as operações em que a intervenção do Fundo seja acompanhada pela intervenção de um coinvestidor devendo observar-se as seguintes condições, cumulativamente:\n\na) As operações a realizar pelo Fundo devem ser realizadas com outro investimento de capital ou quase capital a executar por operadores, designados como coinvestidores que devem corresponder a um dos tipos de entidades previstas no artigo 1.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado, aprovado pela Lei n.º 18/2015, de 4 de março, ou corresponder a outras entidades ou pessoas singulares que, não exercendo atividade permanente em Portugal, possam participar no capital de empresas em Portugal e tenham já realizado operações semelhantes às previstas no referido regime jurídico;\n\nb) A candidatura ao Fundo deve ser submetida pelo coinvestidor e está condicionada à existência de uma sua decisão prévia de investimento num montante igual ou superior à solicitada ao Fundo na empresa em causa;\n\nc) O Fundo e o coinvestidor não podem deter, em conjunto, na sequência da operação de investimento de capital e quase capital, metade ou mais de metade do capital ou dos direitos de voto da empresa alvo do investimento;\n\nd) O coinvestidor não pode recorrer a outros instrumentos de natureza pública ou que tenham beneficiado de financiamentos com origem em Fundos Europeus Estruturais e de Investimento (FEEI) para investir em parceria com o Fundo."
+  },
+  "115557275": {
+   "fragment_id": "115553618",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital, subscrição, realização e autonomia do seu património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capital, subscrição, realização e autonomia do seu património\n\n1 - O capital inicial do Fundo é fixado em (euro) 100 000 000,00, integralmente financiado por FEEI, realizado em numerário e será representado por 10 mil milhões de unidades de participação.\n\n2 - O capital do Fundo pode ser aumentado ou reduzido, por uma ou mais vezes, por deliberação do conselho geral, sob proposta da maioria dos seus membros, sem necessidade de alteração do presente decreto-lei.\n\n3 - As subscrições são, no mínimo, de 1 unidade de participação por participante, ao valor unitário de (euro) 0,01 cada.\n\n4 - O património do Fundo é autónomo e, como tal, não responde pelas dívidas da entidade gestora, de outros fundos por esta geridos, dos seus participantes ou de quaisquer outras entidades e agentes."
+  },
+  "115557276": {
+   "fragment_id": "115553619",
+   "type": 11,
+   "heading": "Artigo 4.º — Recursos do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recursos do Fundo\n\n1 - O Fundo dispõe dos seguintes recursos:\n\na) Contribuições da União Europeia, designadamente as provenientes dos FEEI, sujeitando-se as operações aos termos de aprovação fixados pelas autoridades de gestão dos respetivos programas financiadores, aos regulamentos nacionais e às diretivas e regulamentos europeus, nomeadamente os relativos a auxílios de Estado e aos FEEI, incluindo os requisitos previstos nos avisos e nos contratos de financiamento, aos quais se encontrem sujeitos os capitais colocados no Fundo;\n\nb) Contribuições de outros investidores públicos e instituições financeiras multilaterais;\n\nc) Rendimentos provenientes da aplicação dos seus recursos;\n\nd) Quaisquer outros rendimentos ou receitas que lhe sejam atribuídos, incluindo, mas sem limitar, os que possam provir direta ou indiretamente de dação em pagamento para cumprimento de responsabilidades incorridas por quaisquer entidades perante o Fundo.\n\n2 - As disponibilidades de tesouraria do Fundo estão sujeitas ao princípio da unidade de Tesouraria do Estado."
+  },
+  "115557277": {
+   "fragment_id": "115553620",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos do Fundo\n\nSão órgãos do Fundo:\n\na) O conselho geral;\n\nb) O comité de investimento."
+  },
+  "115557278": {
+   "fragment_id": "115553621",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - O conselho geral é composto da seguinte forma:\n\na) Um presidente, designado pelos membros do Governo responsáveis pelas áreas das finanças, do desenvolvimento e coesão e da economia;\n\nb) O presidente do comité de investimento;\n\nc) Um representante de cada entidade participante institucional público do Fundo;\n\nd) Um representante de cada um dos programas operacionais financiadores por via de FEEI;\n\ne) Um representante da entidade gestora;\n\nf) Um representante da Agência para a Competitividade e Inovação, I. P.;\n\ng) Um representante da Agência para o Investimento e Comércio Externo de Portugal, E. P. E.\n\n2 - O conselho geral do Fundo é constituído pelo número de membros que venha a resultar, em cada momento, da aplicação dos critérios previstos no número anterior.\n\n3 - Os membros do conselho geral exercem os seus mandatos por períodos renováveis de três anos, não auferindo quaisquer remunerações pelo exercício das suas funções.\n\n4 - O conselho geral reúne anualmente para aprovação dos relatórios e contas da atividade do Fundo, até 15 de julho de cada ano, e pelo menos uma vez por trimestre, sem prejuízo de reunir sempre que se justifique, mediante convocação pelo seu presidente ou quando os seus membros, em número mínimo de três, manifestem a necessidade de agendar uma reunião para deliberar sobre determinado assunto.\n\n5 - Compete ao conselho geral praticar, no interesse do Fundo, todos os atos necessários à realização do respetivo objeto, designadamente:\n\na) Aprovar, sob proposta da entidade gestora, os planos de atividade que visem assegurar a prossecução dos objetivos fixados pelos participantes e que fundamentaram a afetação de recursos;\n\nb) Aprovar, sob proposta da entidade gestora, os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nc) Aprovar os relatórios e contas da atividade do Fundo elaborados pela entidade gestora;\n\nd) Deliberar sobre aumentos e reduções do capital do Fundo, sob proposta da entidade gestora;\n\ne) Deliberar sobre propostas de regulamentos relativos à configuração de mecanismos a disponibilizar para a prossecução do objeto do Fundo, bem como à revisão dos mecanismos de apoio vigentes e no âmbito da sua atividade;\n\nf) Designar, sob proposta da entidade gestora, o revisor oficial de contas, aprovando os termos e condições da respetiva contratação;\n\ng) Aprovar, sob proposta do comité de investimento, as operações que envolvam um valor superior a (euro) 5 000 000,00 de participação do Fundo ou que perfaçam esse valor por empresa beneficiária.\n\n6 - As deliberações constantes das alíneas a), b), c) e d) do número anterior dependem de autorização prévia dos membros do Governo responsáveis pelas áreas do desenvolvimento e coesão e da economia.\n\n7 - As reuniões do conselho geral devem ser convocadas por comunicação escrita, incluindo sob forma eletrónica, com antecedência mínima de 10 dias úteis relativamente à data marcada para a reunião, na qual deve constar a respetiva ordem de trabalhos.\n\n8 - As deliberações do conselho geral podem revestir a forma de deliberação unânime por escrito.\n\n9 - O conselho geral apenas pode deliberar validamente quando estiver presente ou representada a maioria dos seus membros, sendo as deliberações tomadas por maioria absoluta de votos expressos, cabendo ao presidente, ou a quem o substituir, voto de qualidade.\n\n10 - Qualquer membro pode fazer-se representar por outro membro do conselho geral, mediante carta dirigida ao presidente, válida apenas para a reunião a que respeita."
+  },
+  "115557279": {
+   "fragment_id": "115553622",
+   "type": 11,
+   "heading": "Artigo 7.º — Comité de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comité de investimento\n\n1 - Os investimentos a realizar pelo Fundo devem ser analisados e propostos pela entidade gestora ao comité de investimento, para efeito de aprovação, ou para submissão da respetiva proposta ao conselho geral nas situações referidas na alínea g) do n.º 5 do artigo anterior, em alinhamento com as políticas públicas de apoio à economia.\n\n2 - O comité de investimento é constituído por:\n\na) Um mínimo de três e um máximo de cinco personalidades com experiência na área de investimento de capital de risco e capacidade reconhecida nos domínios académico ou profissional, designadas por despacho dos membros do Governo responsáveis pelas áreas do desenvolvimento e coesão e da economia, uma das quais assume as funções de presidente;\n\nb) Até dois representantes da entidade gestora.\n\n3 - Os membros do comité de investimento exercem os seus mandatos por períodos renováveis de três anos, podendo auferir senhas de presença nas reuniões do comité de investimento, cujo valor é fixado por deliberação do conselho geral, bem como ser reembolsados pelas despesas em que incorram com deslocações e estadas para efeito da sua presença nas referidas reuniões.\n\n4 - As reuniões do comité de investimento devem ser convocadas por comunicação escrita da entidade gestora, incluindo sob forma eletrónica, com antecedência mínima de 5 dias úteis relativamente à data marcada para a reunião, na qual deve constar a respetiva ordem de trabalhos.\n\n5 - As deliberações do comité de investimento podem ser tomadas por meios de comunicação eletrónicos, por maioria simples, devendo ser assegurado o registo escrito do sentido de voto de cada membro do comité de investimento.\n\n6 - Podem participar nas reuniões do comité de investimento os assessores indicados para o efeito pela entidade gestora, tendo em vista o esclarecimento de questões submetidas à apreciação do comité de investimento."
+  },
+  "115557280": {
+   "fragment_id": "115553623",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidade gestora\n\nA designação da entidade gestora do Fundo é formalizada através de despacho dos membros do Governo responsáveis pelas áreas do desenvolvimento e coesão e da economia, na sequência de procedimento concursal a realizar pelas entidades competentes definidas no âmbito da regulamentação dos instrumentos de financiamento do capital do Fundo."
+  },
+  "115557281": {
+   "fragment_id": "115553624",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências da entidade gestora\n\n1 - Compete à entidade gestora, na qualidade de legal representante do Fundo, exercer todos os direitos relacionados com os seus bens e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Cumprir e executar as deliberações do conselho geral;\n\nb) Estabelecer a organização interna do Fundo e definir as instruções que julgar convenientes;\n\nc) Elaborar e executar o plano de atividades do Fundo tendo presentes as orientações fixadas pelo conselho geral e participantes;\n\nd) Elaborar os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\ne) Elaborar as propostas de regulamentos que se revelem necessários ao funcionamento do Fundo;\n\nf) Praticar todos os demais atos necessários à sua correta administração e desenvolvimento;\n\ng) Manter em ordem a documentação e contabilidade do Fundo, por forma a assegurar o registo de todas as operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento;\n\nh) Acompanhar e elaborar relatórios periódicos relativos à evolução da situação económica e financeira das empresas em que o Fundo detenha aplicações e assegurar o acompanhamento da execução de projetos que o Fundo haja apoiado;\n\ni) Prestar ao conselho geral e aos participantes todas as informações sobre a execução da estratégia de investimentos, as operações realizadas e a realizar, as empresas participadas pelo Fundo, bem como sobre a evolução das contas do Fundo;\n\nj) Calcular com periodicidade trimestral o valor do Fundo, discriminando a composição da carteira de operações;\n\nk) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\nl) Estabelecer protocolos com outras entidades ou instituições públicas, independentemente da forma que as mesmas assumam, tendo em vista a contratação dos seus serviços no apoio ao Fundo, dentro da respetiva área de especialidade;\n\nm) Elaborar os relatórios e contas da atividade do Fundo;\n\nn) Remeter à Inspeção-Geral de Finanças, até 31 de maio de cada ano, os relatórios e contas da atividade do Fundo relativos ao exercício anterior, acompanhados do relatório do revisor oficial de contas;\n\no) Submeter ao conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade do Fundo relativos ao exercício anterior, acompanhados do parecer da Inspeção-Geral de Finanças e do relatório do revisor oficial de contas;\n\np) Apresentar aos membros do Governo responsáveis pelas áreas das finanças, do desenvolvimento e coesão e da economia os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da data da sua aprovação;\n\nq) Convocar as reuniões do comité de investimento e elaborar as respetivas atas, bem como prestar aos seus membros o apoio técnico de que estes possam necessitar para o exercício das respetivas funções;\n\nr) Assegurar mecanismos de publicitação da sua intervenção, bem como a divulgação e promoção dos instrumentos financeiros e dos apoios financiados pelos FEEI, que permitam que as empresas direta ou indiretamente apoiadas e o público em geral conheçam a origem do respetivo financiamento;\n\ns) Colaborar com as autoridades de gestão dos programas operacionais financiadores e demais financiadores em todas as atividades de avaliação dos recursos que lhe estão afetos;\n\nt) Assegurar o cumprimento das obrigações de reporte de informação necessário ao acompanhamento da execução física, financeira e contabilística das operações apoiadas, exigindo às empresas a assunção e cumprimento das respetivas obrigações nesse domínio;\n\nu) No âmbito do processo de acompanhamento referido na alínea anterior deve ser organizado um dossier com todos os documentos suscetíveis de comprovar as informações, declarações prestadas, bem como todos os documentos comprovativos da realização das aplicações efetuadas, que deverá ser consultável a qualquer momento pelos organismos intervenientes no financiamento do Fundo, e que deve ser mantido até três anos após a data de encerramento dos respetivos programas operacionais financiadores e;\n\nv) Garantir, para efeitos de acompanhamento, monitorização, controlo e avaliação, a existência de um sistema de informação que permita, aos financiadores e participantes do Fundo, conhecer todas as aplicações de capital e quase capital nas empresas beneficiárias, bem como recolher informação sobre indicadores, resultados e metas, assegurando o respeito pelas questões de sigilo e segregação de funções na gestão do Fundo; o sistema de informação deverá ainda disponibilizar informação sobre as aplicações sectoriais e regionais por prioridade de investimento e níveis de emprego.\n\n2 - A entidade gestora pode subcontratar a prestação de serviços de natureza técnica para o cumprimento das suas competências, mediante autorização do conselho geral."
+  },
+  "115557282": {
+   "fragment_id": "115553625",
+   "type": 11,
+   "heading": "Artigo 10.º — Remuneração da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Remuneração da entidade gestora\n\nPelo exercício da sua atividade, a entidade gestora do Fundo cobra uma comissão de gestão, fixada nos termos do despacho previsto no artigo 8.º, sujeita a autorização prévia do membro do Governo responsável pela área das finanças."
+  },
+  "115557283": {
+   "fragment_id": "115553626",
+   "type": 11,
+   "heading": "Artigo 11.º — Outros encargos a suportar pelo Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Outros encargos a suportar pelo Fundo\n\n1 - Para além da remuneração da entidade gestora, o Fundo pode ainda suportar os seguintes encargos associados à sua administração:\n\na) Remuneração dos membros do comité de investimento, do revisor oficial de contas e do auditor;\n\nb) Custos com os investimentos e desinvestimentos dos capitais, incluindo despesas associadas ao funcionamento do comité de investimento, à divulgação e comunicação do Fundo, a operações de análise e avaliação de empresas (due diligence) e à formalização das operações de investimento ou dos desinvestimentos;\n\nc) Custos operacionais com a gestão, incluindo custos judiciais, com publicidade, publicações, taxas e registos obrigatórios;\n\nd) Custos com consultores legais, financeiros e fiscais, incluindo custos associados ao contencioso em que o Fundo seja parte.\n\n2 - Os encargos supra enumerados estão sujeitos a aprovação prévia dos membros do Governo responsáveis pelas áreas do desenvolvimento e coesão e da economia."
+  },
+  "115557284": {
+   "fragment_id": "115553627",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição da carteira do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição da carteira do Fundo\n\n1 - Podem integrar a carteira do Fundo os ativos decorrentes da realização das seguintes operações:\n\na) Subscrição e aquisição de partes do capital social de empresas que se qualifiquem como PME;\n\nb) Subscrição e aquisição de obrigações ou outras formas de financiamento próprio ou alheio emitidas por empresas que se qualifiquem como PME.\n\n2 - Podem ainda integrar a carteira do Fundo:\n\na) Opções de compra e de venda de participações em empresas em cujo capital participem operadores de capital de risco;\n\nb) Garantias de qualquer tipo prestadas pelo Fundo na partilha de risco inerente a operações de capital de risco em coinvestimento com outros operadores de capital de risco."
+  },
+  "115557285": {
+   "fragment_id": "115553628",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano de atividades\n\nA entidade gestora do Fundo elabora planos de atividades, cujas metas e resultados devem estar alinhados com os indicadores relativos aos respetivos programas financiadores, de periodicidade anual, se aplicável, que devem incluir:\n\na) A estratégia de investimento e uma descrição da política de investimento;\n\nb) O orçamento operacional;\n\nc) As disposições em matéria de profissionalismo, competência e independência da gestão;\n\nd) A justificação e utilização prevista da contribuição dos programas financiadores;\n\ne) O efeito de alavancagem esperado;\n\nf) O plano de implementação de ações de divulgação, sensibilização e publicitação das operações financiadas;\n\ng) O plano de auditorias e verificações externas, sempre que aplicável."
+  },
+  "115557286": {
+   "fragment_id": "115553629",
+   "type": 11,
+   "heading": "Artigo 14.º — Prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de informações\n\nCompete à entidade gestora fixar e transmitir as necessárias instruções às empresas investidas pelo Fundo, mediante circular ou outra forma apropriada, designadamente ao reporte de informação de caráter periódico a prestar por estas à entidade gestora do Fundo."
+  },
+  "115557287": {
+   "fragment_id": "115553630",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\n1 - Para além das funções exercidas pelo revisor oficial de contas, a fiscalização do Fundo é exercida pela Inspeção-Geral de Finanças, competindo-lhe velar pelo cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer sobre as suas contas anuais.\n\n2 - Como suporte à atividade de fiscalização, a entidade gestora solicita a intervenção de auditores externos no processo de apreciação das contas anuais do Fundo."
+  },
+  "115557288": {
+   "fragment_id": "115553631",
+   "type": 11,
+   "heading": "Artigo 16.º — Períodos de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Períodos de exercício\n\nO período anual de exercício de atividade do Fundo corresponde ao ano civil."
+  },
+  "115557289": {
+   "fragment_id": "115553632",
+   "type": 11,
+   "heading": "Artigo 17.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Plano de contas\n\nO plano de contas do Fundo é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador."
+  },
+  "115557290": {
+   "fragment_id": "115553633",
+   "type": 11,
+   "heading": "Artigo 18.º — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aplicação de resultados\n\nOs resultados líquidos apurados pelo Fundo são totalmente reinvestidos neste."
+  },
+  "115557291": {
+   "fragment_id": "115553634",
+   "type": 11,
+   "heading": "Artigo 19.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extinção\n\nSem prejuízo do disposto nos normativos europeus aplicáveis, designadamente no que respeita aos prazos para elegibilidade de despesas e à duração do Fundo, em caso de extinção do Fundo, o produto da sua liquidação será destinado:\n\na) Até ao encerramento dos programas financiadores, ao orçamento destes ou, através de deliberações das autoridades de gestão, para reutilizações com o mesmo fim, em conformidade com os objetivos e segundo as regras dos programas financiadores;\n\nb) Após o encerramento dos programas financiadores, ao fim que for deliberado pela Comissão Interministerial de Coordenação do Acordo de Parceria (CIC) Portugal 2020 ou, caso a mesma já não se encontre operacional, pelos membros do Governo responsáveis pelas áreas das finanças, do desenvolvimento e coesão e da economia, quanto à aplicação e gestão dos fundos liquidados."
+  },
+  "123628644": {
+   "fragment_id": "115553624",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da entidade gestora",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Competências da entidade gestora\n\n1 - Compete à entidade gestora, na qualidade de legal representante do Fundo, exercer todos os direitos relacionados com os seus bens e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Cumprir e executar as deliberações do conselho geral;\n\nb) Estabelecer a organização interna do Fundo e definir as instruções que julgar convenientes;\n\nc) Elaborar e executar o plano de atividades do Fundo tendo presentes as orientações fixadas pelo conselho geral e participantes;\n\nd) Elaborar os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\ne) Elaborar as propostas de regulamentos que se revelem necessários ao funcionamento do Fundo;\n\nf) Praticar todos os demais atos necessários à sua correta administração e desenvolvimento;\n\ng) Utilizar os saldos do Fundo, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\nh) Autorizar as despesas, independentemente do valor, a assumir pelo Fundo na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\ni) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados;\n\nj) Manter em ordem a documentação e contabilidade do Fundo, por forma a assegurar o registo de todas as operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento;\n\nk) Acompanhar e elaborar relatórios periódicos relativos à evolução da situação económica e financeira das empresas em que o Fundo detenha aplicações e assegurar o acompanhamento da execução de projetos que o Fundo haja apoiado;\n\nl) Prestar ao conselho geral e aos participantes todas as informações sobre a execução da estratégia de investimentos, as operações realizadas e a realizar, as empresas participadas pelo Fundo, bem como sobre a evolução das contas do Fundo;\n\nm) Calcular com periodicidade trimestral o valor do Fundo, discriminando a composição da carteira de operações;\n\nn) Estabelecer protocolos com outras entidades ou instituições públicas, independentemente da forma que as mesmas assumam, tendo em vista a contratação dos seus serviços no apoio ao Fundo, dentro da respetiva área de especialidade;\n\no) Elaborar os relatórios e contas da atividade do Fundo;\n\np) Remeter à Inspeção-Geral de Finanças, até 31 de maio de cada ano, os relatórios e contas da atividade do Fundo relativos ao exercício anterior, acompanhados do relatório do revisor oficial de contas;\n\nq) Submeter ao conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade do Fundo relativos ao exercício anterior, acompanhados do parecer da Inspeção-Geral de Finanças e do relatório do revisor oficial de contas;\n\nr) Apresentar aos membros do Governo responsáveis pelas áreas das finanças, do desenvolvimento e coesão e da economia os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da data da sua aprovação;\n\ns) Convocar as reuniões do comité de investimento e elaborar as respetivas atas, bem como prestar aos seus membros o apoio técnico de que estes possam necessitar para o exercício das respetivas funções;\n\nt) Assegurar mecanismos de publicitação da sua intervenção, bem como a divulgação e promoção dos instrumentos financeiros e dos apoios financiados pelos FEEI, que permitam que as empresas direta ou indiretamente apoiadas e o público em geral conheçam a origem do respetivo financiamento;\n\nu) Colaborar com as autoridades de gestão dos programas operacionais financiadores e demais financiadores em todas as atividades de avaliação dos recursos que lhe estão afetos;\n\n2 - A entidade gestora pode subcontratar a prestação de serviços de natureza técnica para o cumprimento das suas competências, mediante autorização do conselho geral.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "123628645": {
+   "fragment_id": "115553632",
+   "type": 11,
+   "heading": "Artigo 17.º — Plano de contas",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 17.º — Plano de contas\n\n1 - O plano de contas do Fundo é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador.\n\n2 - O Fundo não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "115557292": {
+   "fragment_id": "115553635",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de agosto de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral.\n\nPromulgado em 29 de setembro de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 3 de outubro de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "123628646": {
+   "fragment_id": "115553617",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime e estratégia de investimento",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Regime e estratégia de investimento\n\n1 - O Fundo realiza operações de investimento de capital e quase capital, em regime de coinvestimento, em PME com projetos de inovação de produto ou processo.\n\n2 - Para efeitos do número anterior, consideram-se efetuadas em regime de coinvestimento as operações em que a intervenção do Fundo seja acompanhada pela intervenção de um coinvestidor devendo observar-se as seguintes condições, cumulativamente:\n\na) As operações a realizar pelo Fundo devem ser realizadas com outro investimento de capital ou quase capital a executar por operadores, designados como coinvestidores, que devem corresponder a um dos tipos de entidades previstos no artigo 1.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado, aprovado pela Lei n.º 18/2015, de 4 de março, na sua redação atual, ou corresponder a outras entidades ou pessoas singulares que possam participar no capital de empresas em Portugal e tenham já realizado operações semelhantes às previstas no referido regime jurídico;\n\nb) A candidatura ao Fundo deve ser submetida pelo coinvestidor e está condicionada à existência de uma sua decisão prévia de investimento num montante igual ou superior à solicitada ao Fundo na empresa em causa;\n\nc) O Fundo e o coinvestidor não podem deter, em conjunto, na sequência da operação de investimento de capital e quase capital, metade ou mais de metade do capital ou dos direitos de voto da empresa alvo do investimento;\n\nd) Recorrendo a outros instrumentos de natureza pública ou que tenham beneficiado de financiamentos com origem em Fundos Europeus Estruturais e de Investimento (FEEI) para investir em parceria com o Fundo, o Fundo deve assegurar o cumprimento de todas as normas nacionais e europeias, nomeadamente as que impliquem limites de acumulação de auxílios de estado ou limites de comparticipação dos FEEI.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+  },
+  "123628647": {
+   "fragment_id": "115553621",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - O conselho geral é composto da seguinte forma:\n\na) Um presidente, designado pelos membros do Governo responsáveis pelas áreas das finanças, do desenvolvimento e coesão e da economia;\n\nb) O presidente do comité de investimento;\n\nc) Um representante de cada entidade participante institucional público do Fundo;\n\nd) Um representante de cada um dos programas operacionais financiadores por via de FEEI;\n\ne) Um representante da entidade gestora;\n\nf) Designar, sob proposta da entidade gestora, o revisor oficial de contas e o auditor, aprovando os termos e condições da respetiva contratação;\n\ng) Um representante da Agência para o Investimento e Comércio Externo de Portugal, E. P. E.\n\n2 - O conselho geral do Fundo é constituído pelo número de membros que venha a resultar, em cada momento, da aplicação dos critérios previstos no número anterior.\n\n3 - Os membros do conselho geral exercem os seus mandatos por períodos renováveis de três anos, não auferindo quaisquer remunerações pelo exercício das suas funções.\n\n4 - O conselho geral reúne anualmente para aprovação dos relatórios e contas da atividade do Fundo, até 15 de julho de cada ano, e pelo menos uma vez por trimestre, sem prejuízo de reunir sempre que se justifique, mediante convocação pelo seu presidente ou quando os seus membros, em número mínimo de três, manifestem a necessidade de agendar uma reunião para deliberar sobre determinado assunto.\n\n5 - Compete ao conselho geral praticar, no interesse do Fundo, todos os atos necessários à realização do respetivo objeto, designadamente:\n\na) Aprovar, sob proposta da entidade gestora, os planos de atividade que visem assegurar a prossecução dos objetivos fixados pelos participantes e que fundamentaram a afetação de recursos;\n\nb) Aprovar, sob proposta da entidade gestora, os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nc) Aprovar os relatórios e contas da atividade do Fundo elaborados pela entidade gestora;\n\nd) Deliberar sobre aumentos e reduções do capital do Fundo, sob proposta da entidade gestora;\n\ne) Deliberar sobre propostas de regulamentos relativos à configuração de mecanismos a disponibilizar para a prossecução do objeto do Fundo, bem como à revisão dos mecanismos de apoio vigentes e no âmbito da sua atividade;\n\nf) Designar, sob proposta da entidade gestora, o revisor oficial de contas, aprovando os termos e condições da respetiva contratação;\n\ng) Aprovar, sob proposta do comité de investimento, as operações que envolvam um valor superior a (euro) 5 000 000,00 de participação do Fundo ou que perfaçam esse valor por empresa beneficiária.\n\n6 - As deliberações constantes das alíneas a), b), c) e d) do número anterior dependem de autorização prévia dos membros do Governo responsáveis pelas áreas do desenvolvimento e coesão e da economia.\n\n7 - As reuniões do conselho geral devem ser convocadas por comunicação escrita, incluindo sob forma eletrónica, com antecedência mínima de 10 dias úteis relativamente à data marcada para a reunião, na qual deve constar a respetiva ordem de trabalhos.\n\n8 - As deliberações do conselho geral podem revestir a forma de deliberação unânime por escrito.\n\n9 - O conselho geral apenas pode deliberar validamente quando estiver presente ou representada a maioria dos seus membros, sendo as deliberações tomadas por maioria absoluta de votos expressos, cabendo ao presidente, ou a quem o substituir, voto de qualidade.\n\n10 - Qualquer membro pode fazer-se representar por outro membro do conselho geral, mediante carta dirigida ao presidente, válida apenas para a reunião a que respeita.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+  },
+  "123628648": {
+   "fragment_id": "115553626",
+   "type": 11,
+   "heading": "Artigo 11.º — Outros encargos a suportar pelo Fundo",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Outros encargos a suportar pelo Fundo\n\n1 - Para além da remuneração da entidade gestora, o Fundo pode ainda suportar os seguintes encargos associados à sua administração:\n\na) Remuneração dos membros do comité de investimento estabelecida no n.º 3 do artigo 7.º, bem como do revisor oficial de contas e do auditor;\n\nb) Custos com os investimentos e desinvestimentos dos capitais, incluindo despesas associadas ao funcionamento do comité de investimento, à divulgação e comunicação do Fundo, a operações de análise e avaliação de empresas (due diligence) e à formalização das operações de investimento ou dos desinvestimentos;\n\nc) Custos operacionais com a gestão, incluindo custos judiciais, com publicidade, publicações, taxas e registos obrigatórios;\n\nd) Custos com consultores legais, financeiros e fiscais, incluindo custos associados ao contencioso em que o Fundo seja parte.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+  },
+  "123628649": {
+   "fragment_id": "115553627",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição da carteira do Fundo",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Composição da carteira do Fundo\n\n1 - Podem integrar a carteira do Fundo os ativos decorrentes da realização das seguintes operações:\n\na) Subscrição e aquisição de partes do capital social de empresas que se qualifiquem como PME;\n\nb) Subscrição e aquisição de obrigações ou outras formas de financiamento próprio ou alheio emitidas por empresas que se qualifiquem como PME.\n\n2 - Podem ainda integrar a carteira do Fundo:\n\na) Opções de compra e de venda de participações em empresas em cujo capital participem operadores de capital de risco;\n\nb) Garantias de qualquer tipo prestadas pelo Fundo na partilha de risco inerente a operações de capital de risco em coinvestimento com outros operadores de capital de risco.\n\n3 - Os ativos previstos no n.º 1 podem continuar a integrar a carteira do Fundo mesmo que as empresas em causa tenham deixado de se qualificar como PME.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2019-123610184), em vigor a partir de 2019-08-01"
+  }
+ }
+}

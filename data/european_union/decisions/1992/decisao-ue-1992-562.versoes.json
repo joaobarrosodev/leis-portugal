@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992D0562:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992D0562-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1992-12-09",
+   "future": false,
+   "celex": "31992D0562",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9e144180c81aa384",
+    "0126943b03116fa7",
+    "f95c4f4d5371f9bd",
+    "f28ec1eb1e6b420a",
+    "c14002cca544926d",
+    "f65ec5a8b5e68d53",
+    "e5d13a2388cc68da",
+    "44c26cbc197a2ccd",
+    "86ba2b14f8464a70",
+    "2cde7dd03cd33d06",
+    "5861d7863e2c85c2",
+    "463ea53b8d4aecfc"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01992D0562-20040501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 17 de Novembro de 1992. Pela Comissão",
+    "Suprime ANEXO — Definições",
+    "Suprime CAPÍTULO I — GORDURA NATURAL",
+    "Suprime CAPÍTULO II — GORDURA NATURAL",
+    "Suprime CAPÍTULO III — GORDURA NATURAL",
+    "Suprime CAPÍTULO IV — GORDURA ADICIONADA",
+    "Suprime CAPÍTULO V — GORDURA ADICIONADA",
+    "Suprime CAPÍTULO VI — GORDURA ADICIONADA",
+    "Suprime CAPÍTULO VII — DESENGORDURAMENTO"
+   ],
+   "fragments": [
+    "bc6e82fbea222a58"
+   ]
+  }
+ ],
+ "fragments": {
+  "9e144180c81aa384": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**92/562/CEE: Decisão da Comissão, de 17 de Novembro de 1992, que aprova sistemas alternativos de tratamento térmico para a transformação de matérias de alto risco** *Jornal Oficial nº L 359 de 09/12/1992 p. 0023 - 0033 Edição especial finlandesa: Capítulo 3 Fascículo 46 p. 0101 Edição especial sueca: Capítulo 3 Fascículo 46 p. 0101*\n\nDECISÃO DA COMISSÃO de 17 de Novembro de 1992 que aprova sistemas alternativos de tratamento térmico para a transformação de matérias de alto risco (92/562/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (1), e, nomeadamente, o capítulo II do seu anexo II, ponto 6, alínea c),\n\nConsiderando que, nos termos do ponto 6, alínea a), do capítulo II do anexo II da referida directiva, as matérias de alto risco devem ser aquecidas a uma temperatura interior de, pelo menos, 133 oC durante 20 minutos, à pressão de três bar, após a redução do diâmetro das partículas da matéria-prima a, pelo menos, 50 milímetros;\n\nConsiderando que é necessário definir com precisão os sistemas alternativos de tratamento pelo calor, oferecendo garantias de acordo com as disposições da Directiva 90/667/CEE;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité veterinário permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "0126943b03116fa7": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nAs instalações que transformem matérias de alto risco através de um dos sistemas, ou combinações de sistemas, descritos no anexo podem ser aprovadas pela autoridade competente, desde que satisfaçam as condições estabelecidas na Directiva 90/667/CEE e se prove à autoridade competente que, diariamente ao longo de um período de um mês, foram colhidas amostras de produto final em conformidade com as normas microbiológicas estabelecidas nos pontos 1 e 2 do capítulo III do anexo II da referida directiva."
+  },
+  "f95c4f4d5371f9bd": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs dados referentes aos pontos críticos de controlo através dos quais as instalações observam as normas microbiológicas devem ser registados e mantidos de modo a que o proprietário, o operador ou seu representante e, se for caso disso, a autoridade competente, possam controlar o funcionamento das instalações. Os parâmetros a registar e a manter são as dimensões das partículas, a temperatura crítica e, se for caso disso, o tempo de processamento, o perfil de pressão, o caudal de alimentação em matéria-prima e a taxa de reciclagem das gorduras.\n\nA pedido da Comissão, as informações em causa devem ser colocadas à sua disposição."
+  },
+  "f28ec1eb1e6b420a": {
+   "fragment_id": "Artigo 3o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 17 de Novembro de 1992. Pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 3o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 17 de Novembro de 1992. Pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 17 de Novembro de 1992. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 363 de 27. 12. 1990, p. 51."
+  },
+  "c14002cca544926d": {
+   "fragment_id": "ANEXO — Definições",
+   "type": "divisao",
+   "heading": "ANEXO — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Definições\n\nGordura natural: a gordura natural presente na maioria das matérias-primas. Pode encontrar-se presente, como auxiliar de desidratação, uma pequena quantidade de sebo reciclado, que não deve alterar o tempo de permanência das partículas no sistema.\n\nGordura adicionada: as quantidades substanciais de sebo adicionadas à matéria-prima antes da fase de esterilização. Proporções de sebo: as proporções de 0,5: 1 a 5: 1, relativamente à matéria-prima, são de uso corrente. A variação da taxa de reciclagem das gorduras poderá afectar o tempo de permanência da matéria-prima no sistema, bem como os parâmetros estabelecidos.\n\nDesengorduramento: a matéria-prima é preparada para o processo de desengorduramento por coagulação térmica seguida de prensagem mecânica. O resíduo proteico com baixo teor de gorduras é posteriormente desidratado e esterilizado.\n\nSeparação: a separação inicial, ou pré-separação, da gordura presente nas matérias desidratadas e esterilizadas. Este processo pode ser efectuado por drenagem ou centrifugação.\n\nProdução de alimentos para animais: este processo inclui, em geral, a prensagem do material separado, de modo a obter um conglomerado, excepto no caso de sistemas com pré-prensagem. Posteriormente, o conglomerado/alimento para animais é moído, com vista à obtenção de um produto comercializável."
+  },
+  "f65ec5a8b5e68d53": {
+   "fragment_id": "CAPÍTULO I — GORDURA NATURAL",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — GORDURA NATURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — GORDURA NATURAL\n\nTRATAMENTO EM DESCONTÍNUO À PRESSÃO ATMOSFÉRICA [BATCH (1) ] I. Descrição do sistema\n\n/* Quadros: ver JO */\n\nnum recipiente dotado de manta de aquecimento a vapor (frequentemente, com um rotor aquecido a vapor), para remover a humidade intrínseca, sob a forma de vapor de água, à pressão atmosférica. Após desidratação e digestão, a matéria é separada nas fracções líquida (sebo) e proteica (tecidos membranosos) por processos mecânicos ou por recurso a um solvente, antes de ser transformada em alimentos proteicos para animais.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior a... mm, deve proceder-se à sua reparação.\n\n2. Tempo de processamento: cada lote deve ser processado durante o tempo mínimo de... minutos, à temperatura mínima referida no no 3.\n\n3. Temperatura crítica: a temperatura da operação deve ser superior a... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "e5d13a2388cc68da": {
+   "fragment_id": "CAPÍTULO II — GORDURA NATURAL",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — GORDURA NATURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — GORDURA NATURAL\n\nTRATAMENTO EM DESCONTÍNUO SOB PRESSÃO [BATCH/PRESSURE (1) ] I. Descrição do sistema\n\n/* Quadros: ver JO */\n\ndimensões da matéria por trituração. Aquecer a mesma, directamente ou após desidratação prévia, num recipiente estanque, do qual se removeu o ar, até atingir as condições de pressão e temperatura desejadas; estas condições são mantidas durante o tempo prescrito através da regulação dos sistemas de aquecimento e exaustão. Procede-se em seguida ao abaixamento controlado da pressão, até atingir a pressão atmosférica, após o que a matéria é desidratada, no mesmo recipiente ou noutro dos sistemas descritos, com vista a remover toda a humidade intrínseca. Obtém-se assim um produto susceptível de ser separado, geralmente por processos mecânicos, nas fracções líquida (sebo) e proteica (tecidos membranosos), antes de ser transformado em alimentos proteicos para animais.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior a... mm, deve proceder-se à sua reparação.\n\n2. Tempo de processamento: cada lote deve ser processado durante o tempo mínimo de... minutos, à temperatura mínima referida no no 4.\n\n3. Perfil de pressão: a matéria deve ser submetida à pressão mínima de... pascal (bar) durante um mínimo de... minutos. Devem registar-se estes parâmetros para cada lote transformado.\n\n4. Temperatura crítica: a temperatura da operação deve ser superior a.... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "44c26cbc197a2ccd": {
+   "fragment_id": "CAPÍTULO III — GORDURA NATURAL",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — GORDURA NATURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — GORDURA NATURAL\n\nTRATAMENTO EM CONTÍNUO À PRESSÃO ATMOSFÉRICA [STORD (1) ] I. Descrição do sistema\n\n/* Quadros: ver JO */\n\npara um recipiente aquecido a vapor, onde a humidade natural é removida sob a forma de vapor de água, à pressão atmosférica. A progressão da matéria no recipiente é controlada por um agitador e restrições mecânicas, de modo a garantir que as operações de digestão/desidratação observem os requisitos de tempo e temperatura necessários à esterilização do produto final. Após desidratação e digestão, a matéria é separada, geralmente por processos mecânicos, nas fracções líquida (sebo) e proteica (tecidos membranosos), antes de ser transformada em alimentos proteicos para animais.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior a... mm, deve proceder-se à sua reparação.\n\n2. Caudal de alimentação em matéria-prima: este parâmetro deve situar-se entre... e... toneladas por unidade de tempo (t/t). O caudal de alimentação máximo deve ser de... toneladas por unidade de tempo. Durante os processos de arranque e de finalização, deve dar-se uma atenção especial aos restantes pontos críticos de controlo, em particular o no 3.\n\n3. Temperatura crítica: a temperatura da operação deve ser superior a.... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "86ba2b14f8464a70": {
+   "fragment_id": "CAPÍTULO IV — GORDURA ADICIONADA",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — GORDURA ADICIONADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — GORDURA ADICIONADA\n\nTRATAMENTO EM CONTÍNUO À PRESSÃO ATMOSFÉRICA [STORK DUKE (1) ] I. Descrição do sistema\n\n/* Quadros: ver JO */\n\nproceder à redução das dimensões da matéria por trituração. Em seguida, a mesma é transferida para um recipiente aquecido a vapor, no qual se mantém um nível constante de gordura líquida (sebo), a quente. A progressão da matéria através do recipiente, controlada por um agitador e por restrições mecânicas, permite efectuar a digestão profunda das gorduras, assegurando a remoção da humidade residual sob a forma de vapor de água, à pressão atmosférica, antes da descarga. Aquando desta, remove-se, em geral por drenagem e processos mecânicos, o excesso de gordura não necessário às operações de digestão/desidratação; a fracção proteica sólida (tecidos membranosos) é transformada em alimentos proteicos para animais.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior a... mm, deve proceder-se à sua reparação.\n\n2. Caudal de alimentação em matéria-prima: este parâmetro deve situar-se entre... e... toneladas por unidade de tempo (t/t). O caudal de alimentação máximo deve ser de... toneladas por unidade de tempo. Durante os processos de arranque e de finalização, deve dar-se uma atenção especial aos restantes pontos críticos de controlo, em particular o no 4.\n\n3. Taxa de reciclagem das gorduras: a taxa máxima de reciclagem das gorduras deve ser de... litros/segundo; a taxa de reciclagem deve ser registada de hora a hora.\n\n4. Temperatura crítica: a temperatura da operação deve ser superior a... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "2cde7dd03cd33d06": {
+   "fragment_id": "CAPÍTULO V — GORDURA ADICIONADA",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — GORDURA ADICIONADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — GORDURA ADICIONADA\n\nTRATAMENTO EM CONTÍNUO SOB VAZIO [CARVER-GREENFIELD (1) ] I. Descrição do sistema\n\n/* Quadros: ver JO */\n\nde vácuo, nos quais a humidade intrínseca é removida sob a forma de vapor de água. Neste processo, a purga controlada de matéria-prima entre os vários andares assegura a sua reciclagem contínua, permitindo a remoção total da humidade intrínseca do produto resultante do processo de digestão/desidratação. O produto obtido é separado, por centrifugação, nas suas fracções líquida (sebo) e proteica (tecidos membranosos). A gordura líquida é reciclada, sendo a fracção proteica sólida (tecidos membranosos) transformada em alimentos proteicos para animais.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior a... mm, deve proceder-se à sua reparação.\n\n2. Caudal de alimentação em matéria-prima: este parâmetro deve situar-se entre... e... toneladas por unidade de tempo (t/t). O caudal de alimentação máximo deve ser de... toneladas por unidade de tempo. Durante os processos de arranque e de finalização, deve dar-se uma atenção especial aos restantes pontos críticos de controlo, em particular o no 4.\n\n3. Taxa de reciclagem das gorduras: a taxa máxima de reciclagem das gorduras deve ser de... litros/segundo; a taxa de reciclagem deve ser registada de hora a hora.\n\n4. Temperatura crítica: a temperatura da operação deve ser superior a.... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "5861d7863e2c85c2": {
+   "fragment_id": "CAPÍTULO VI — GORDURA ADICIONADA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — GORDURA ADICIONADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — GORDURA ADICIONADA\n\nTRATAMENTO EM CONTÍNUO SOB PRESSÃO [CARVER-GREENFIELD MODIFICADO (1)] I. Descrição do sistema\n\n/* Quadros: ver JO */\n\nde calor tubulares aquecidos a vapor, equipados com câmaras de vácuo, nos quais a humidade intrínseca é removida sob a forma de vapor de água. Alguns permutadores de calor e câmaras são mantidos a uma pressão superior à pressão atmosférica. Neste processo, a purga controlada de matéria-prima entre os vários andares assegura a sua reciclagem contínua, permitindo a remoção total da humidade intrínseca do produto resultante do processo de digestão/desidratação. O produto obtido é separado, por centrifugação, nas suas fracções líquida (sebo) e proteica (tecidos membranosos). A gordura líquida é reciclada, sendo a fracção proteica sólida transformada em alimentos proteicos para animais.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior a... mm, deve proceder-se à sua reparação.\n\n2. Caudal de alimentação em matéria-prima: este parâmetro deve situar-se entre... e... toneladas por unidade de tempo (t/t). O caudal de alimentação máximo deve ser de... toneladas por unidade de tempo. Durante os processos de arranque e de finalização, deve dar-se uma atenção especial dos restantes pontos críticos de controlo, em particular o no 5.\n\n3. Taxa de reciclagem das gorduras: a taxa máxima de reciclagem das gorduras deve ser de... litros/segundo; a taxa de reciclagem deve ser registada de hora a hora.\n\n4. Perfil de pressão: a matéria deve ser submetida à pressão mínima de... pascal (bar) durante um mínimo de... minutos. Devem registar-se estes parâmetros para cada lote transformado.\n\n5. Temperatura crítica: a temperatura de operação deve ser superior a... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "463ea53b8d4aecfc": {
+   "fragment_id": "CAPÍTULO VII — DESENGORDURAMENTO",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — DESENGORDURAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — DESENGORDURAMENTO\n\nTRATAMENTO EM CONTÍNUO À PRESSÃO ATMOSFÉRICA\n\n[STORD/ATLAS/ALPHA LAVAL (1) ] I. Descrição do sistema Pontos críticos de controlo\n\n/* Quadros: ver JO */\n\naquecida a uma temperatura que permita a sua coagulação, após o que, por acção de forças mecânicas (geralmente por compressão) se separam as fases líquidas, constituídas por gordura e água, da fase sólida. Os sólidos são transferidos para um sistema de desidratação/digestão, de modo a remover a humidade residual, produzindo uma fracção proteica sólida e estéril (tecidos membranosos) que é transformada em alimentos proteicos para animais. A fase líquida é tratada com vista a separar e recuperar a gordura (sebo) por centrifugação. A fase aquosa é geralmente evaporada antes da desidratação final.\n\nII. Pontos críticos de controlo das instalações\n\n1. Dimensões das partículas: o diâmetro da fenda de passagem deve ser de... mm. O equipamento para a redução final das dimensões deve ser inspeccionado diariamente, registando-se o seu estado. No caso de se observarem fendas de diâmetro superior... mm, deve proceder-se à sua reparação.\n\n2. Caudal de alimentação em matéria-prima: este parâmetro deve situar-se entre... e... toneladas por unidade de tempo (t/t). O caudal de alimentação máximo deve ser de... toneladas por unidade de tempo. Durante os processos de arranque e de finalização, deve dar-se uma atenção especial aos restantes pontos críticos de controlo, em particular o no 3.\n\n3. Temperatura crítica: a temperatura da operação deve ser superior a... °C, devendo ser registada em contínuo, por um sistema adequado, para cada lote. Os produtos obtidos a temperaturas inferiores à temperatura mínima devem ser processados de novo juntamente com matérias-primas.\n\n(1) Designação industrial entre parêntesis."
+  },
+  "bc6e82fbea222a58": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992D0562 — PT — 01.05.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992D0562) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31992D0562) [de 17 de Novembro de 1992](http://publications.europa.eu/resource/celex/31992D0562) [que aprova sistemas alternativos de tratamento térmico para a transformação de matérias de alto risco](http://publications.europa.eu/resource/celex/31992D0562) [(92/562/CEE)](http://publications.europa.eu/resource/celex/31992D0562) (JO L 359, 9.12.1992, p.23)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 446/2004 da Comissão de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0446) — L 72 — 62 — 11.3.2004"
+  }
+ }
+}

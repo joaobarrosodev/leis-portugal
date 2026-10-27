@@ -1,0 +1,433 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:305591:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-889312139",
+ "dre_path": "/dr/detalhe/decreto-lei/172-1994-305591",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1994-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889282113",
+    "889282114",
+    "889282115",
+    "889282116",
+    "889282117",
+    "889282118",
+    "889282119",
+    "889282120",
+    "889282121",
+    "889282122",
+    "889282123",
+    "889282124",
+    "889282125",
+    "889282126",
+    "889282127"
+   ]
+  },
+  {
+   "date": "1995-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:230519:por",
+     "title": "Decreto-Lei n.º 60/95",
+     "published": "1995-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/60-1995-230519"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "889282113",
+    "889282114",
+    "889282115",
+    "889282116",
+    "889282154",
+    "889282118",
+    "889282119",
+    "889282120",
+    "889282155",
+    "889282156",
+    "889282157",
+    "889282124",
+    "889282125",
+    "889282126",
+    "889282127",
+    "889282128"
+   ]
+  },
+  {
+   "date": "2013-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498764:por",
+     "title": "Lei n.º 51/2013",
+     "published": "2013-07-24",
+     "dre_path": "/dr/detalhe/lei/51-2013-498764"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "889282113",
+    "889282158",
+    "889282115",
+    "889282116",
+    "889282154",
+    "889282118",
+    "889282119",
+    "889282159",
+    "889282155",
+    "889282160",
+    "889282161",
+    "889282124",
+    "889282125",
+    "889282126",
+    "889282127",
+    "889282128"
+   ]
+  },
+  {
+   "date": "2024-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:889313167:por",
+     "title": "Decreto-Lei n.º 62/2024",
+     "published": "2024-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/62-2024-889313167"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "889282113",
+    "889282162",
+    "889282115",
+    "889282116",
+    "889282163",
+    "889282118",
+    "889282119",
+    "889282164",
+    "889282168",
+    "889282165",
+    "889282166",
+    "889282124",
+    "889282167",
+    "889282126",
+    "889282127",
+    "889282128"
+   ]
+  }
+ ],
+ "fragments": {
+  "889282113": {
+   "fragment_id": "889312140",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 172/94\n\nde 25 de Junho\n\nO cumprimento das missões das Forças Armadas, incluindo a missão primordial da defesa militar do País, implica que uma das características da condição militar seja a permanente disponibilidade para o serviço, ainda que com sacrifício dos interesses pessoais dos militares, implicando esta o afastamento dos militares da sua residência habitual, por vezes necessário em resultado das suas colocações de serviço.\n\nNo sentido de minorar os inconvenientes resultantes do afastamento da residência habitual, o artigo 122.º do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 34-A/90, de 24 de Janeiro, determina a atribuição aos militares dos quadros permanentes de alojamento condigno para si e para o seu agregado familiar ou, quando tal não seja possível, de uma quantia a título de suplemento de residência. O referido artigo 122.º, no seu n.º 3, prevê ainda a atribuição de um abono compensatório das despesas resultantes da deslocação por efeito da nova colocação, para além do transporte da bagagem.\n\nO presente diploma vem regular a atribuição dos referidos direitos. Fá-lo em plena consonância com o Decreto-Lei n.º 184/89, de 2 de Junho, que determina, no seu artigo 19.º, serem os suplementos remuneratórios atribuídos em função das particularidades específicas da prestação de trabalho, e com o disposto no n.º 3 do artigo 23.º do Decreto-Lei n.º 57/90, de 14 de Fevereiro, que, no âmbito do regime remuneratório específico dos militares, prevê igualmente a atribuição de suplementos.\n\nCom o presente diploma é revogado o regime jurídico relativo ao subsídio mensal de deslocamento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "889282114": {
+   "fragment_id": "889312141",
+   "type": 11,
+   "heading": "Artigo 1.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alojamento\n\n1 - Os militares das Forças Armadas dos quadros permanentes na efectividade de serviço têm direito a alojamento condigno, para si e para o seu agregado familiar, a fornecer pelo Estado mediante o pagamento de uma contraprestação mensal, quando sejam colocados em local distanciado de mais de 30 km da localidade da sua residência habitual.\n\n2 - O Estado pode fornecer alojamento tanto em casas de habitação do património das Forças Armadas ou por si arrendadas e a estas afectas como em aquartelamento militar.\n\n3 - A condignidade do alojamento é determinada em função da condição do militar, da dimensão do agregado familiar e da segurança exigível, bem como do posto e da natureza das funções a exercer."
+  },
+  "889282115": {
+   "fragment_id": "889312142",
+   "type": 11,
+   "heading": "Artigo 2.º — Suplemento de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Suplemento de residência\n\n1 - Sem prejuízo do disposto no artigo 9.º, quando o militar tiver direito a alojamento nos termos do artigo anterior e não seja possível fornecê-lo, tem aquele direito a perceber uma quantia compensatória, sob a designação de suplemento de residência.\n\n2 - O suplemento de residência tem a natureza de ajuda de custo para todos os efeitos legais."
+  },
+  "889282116": {
+   "fragment_id": "889312143",
+   "type": 11,
+   "heading": "Artigo 3.º — Agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Agregado familiar\n\nPara os efeitos do disposto no presente diploma, considera-se que o agregado familiar do militar é constituído pelas pessoas que tenham direito aos benefícios decorrentes do Regulamento de Assistência na Doença aos Militares das Forças Armadas."
+  },
+  "889282117": {
+   "fragment_id": "889312144",
+   "type": 11,
+   "heading": "Artigo 4.º — Residência habitual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Residência habitual\n\n1 - Para os efeitos do disposto no presente diploma, considera-se que o militar tem a sua residência habitual na casa onde, tendo como referência a guarnição militar onde tem cabimento orgânico e que declare preferir, vive com estabilidade e tem organizada a sua economia doméstica.\n\n2 - A mudança de residência habitual determina a alteração a que houver lugar do suplemento de residência, de acordo com os critérios fixados no presente diploma."
+  },
+  "889282118": {
+   "fragment_id": "889312145",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição preferencial\n\nTem preferência na atribuição de alojamento o militar que se faça acompanhar do seu agregado familiar para o local em que foi colocado."
+  },
+  "889282119": {
+   "fragment_id": "889312146",
+   "type": 11,
+   "heading": "Artigo 6.º — Contraprestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contraprestação\n\nO montante da contraprestação mensal a que se refere o n.º 1 do artigo 1.º é determinado nos termos regulados para a fixação das rendas dos prédios do Estado, no interesse deste, não podendo, contudo, exceder um oitavo do total da remuneração base, acrescida do suplemento de condição militar."
+  },
+  "889282120": {
+   "fragment_id": "889312147",
+   "type": 11,
+   "heading": "Artigo 7.º — Valor do suplemento de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Valor do suplemento de residência\n\n1 - O suplemento de residência tem o valor correspondente a 17,5% da ajuda de custo por deslocações em serviço em território nacional fixada para cada posto.\n\n2 - Não se fazendo o militar acompanhar do seu agregado familiar para o concelho do local em que foi colocado ou para localidade distanciada daquele local de menos de 30 km, a percentagem referida no número anterior será de:\n\na) 15%, quando colocado nas Regiões Autónomas dos Açores ou da Madeira, ou quando, tendo residência habitual em qualquer destas regiões, for colocado no continente;\n\nb) 12,5%, quando colocado a mais de 120 km da localidade da sua residência habitual;\n\nc) 10%, nos restantes casos.\n\n3 - Não tendo o militar agregado familiar, os valores referidos no número anterior serão reduzidos em 25%, nas situações previstas na alínea a), ou em 50%, nos restantes casos.\n\n4 - Em casos excepcionais, resultantes do elevado nível dos preços correntes no mercado local de habitação, podem os Ministros da Defesa Nacional e das Finanças, por despacho conjunto, atribuir um valor de suplemento de residência superior ao fixado nos números anteriores."
+  },
+  "889282121": {
+   "fragment_id": "889312148",
+   "type": 11,
+   "heading": "Artigo 8.º — Permanência na residência habitual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Permanência na residência habitual\n\n1 - Apesar da possibilidade de alojamento por conta do Estado, pode o militar necessitar de manter a sua residência habitual, devendo declará-lo.\n\n2 - Nos casos previstos no número anterior, o militar tem direito a perceber suplemento de residência:\n\na) Nos termos do n.º 2 do artigo anterior, não usufruindo de alojamento fornecido pelo Estado;\n\nb) Correspondente a 15% do valor referido no n.º 1 do artigo anterior, usufruindo de alojamento fornecido pelo Estado.\n\n3 - O disposto neste artigo não se aplica aos militares que não têm agregado familiar."
+  },
+  "889282122": {
+   "fragment_id": "889312149",
+   "type": 11,
+   "heading": "Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência\n\nNão é conferido o direito a alojamento por conta do Estado ou a suplemento de residência quando:\n\na) O militar é colocado em local situado dentro do concelho onde tem a sua residência habitual;\n\nb) O cônjuge do militar, dele não separado judicialmente de pessoas e bens, usufrua de casa do Estado em localidade distanciada de menos de 30 km do local onde este tenha sido colocado, ou no concelho em que este local se situa, ou ainda de suplemento de residência ou equivalente, e destes direitos não prescinda;\n\nc) O militar ou o seu cônjuge, quando não separados judicialmente de pessoas e bens, disponha de habitação própria, condigna e disponível em localidade distanciada de menos de 30 km do local onde o primeiro foi colocado ou no concelho em que este local se situa;\n\nd) For assegurado o transporte diário por conta do Estado entre a localidade da residência habitual do militar e o local da colocação deste;\n\ne) O afastamento do militar da sua residência habitual se ficar a dever a deslocação em serviço pela qual perceba ajudas de custo, nos termos da legislação respectiva."
+  },
+  "889282123": {
+   "fragment_id": "889312150",
+   "type": 11,
+   "heading": "Artigo 10.º — Aquisição e caducidade do direito a alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aquisição e caducidade do direito a alojamento\n\nou a suplemento de residência\n\n1 - O direito a alojamento ou a suplemento de residência adquire-se no dia em que o militar se apresenta para iniciar funções e, sem prejuízo do disposto nos números seguintes, perdura enquanto a colocação subsistir.\n\n2 - Durante o período de colocação do militar, o direito a alojamento ou a suplemento de residência caduca a partir do momento em que aquele deixe de dispor de residência habitual, em casa própria ou do seu cônjuge, desde que não separados judicialmente de pessoas e bens, ou por qualquer deles arrendada, em localidade distanciada de mais de 30 km do local onde foi colocado, mas nunca antes de decorridos dois anos desde o momento da aquisição do direito.\n\n3 - Em qualquer caso, o direito a suplemento de residência caduca decorridos cinco anos desde o dia em que o militar se apresenta para iniciar funções."
+  },
+  "889282124": {
+   "fragment_id": "889312151",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acumulação\n\n1 - O disposto no presente diploma não prejudica a atribuição, para efeitos do disposto no n.º 3 do artigo 122.º do Estatuto dos Militares das Forças Armadas, da ajuda de custo prevista no artigo 10.º do Decreto-Lei n.º 119/85, de 22 de Abril.\n\n2 - A distância prevista no artigo 10.º do Decreto-Lei n.º 119/85 passa a ser de 30 km."
+  },
+  "889282125": {
+   "fragment_id": "889312152",
+   "type": 11,
+   "heading": "Artigo 12.º — Contagem de distâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contagem de distâncias\n\n1 - Para efeitos do presente diploma, a localidade da residência habitual do militar, bem como as localidades referidas no n.º 2 do artigo 7.º, nas alíneas b) e c) do artigo 9.º e no n.º 2 do artigo 10.º, são delimitadas pelos limites municipais respectivos.\n\n2 - As distâncias previstas no presente diploma são contadas, por estrada, considerando o percurso mais próximo a utilizar concretamente entre os limites municipais referidos no número anterior e o local da colocação do militar.\n\n3 - Relativamente aos militares nomeados para prestarem serviço em navios, considera-se que o local de colocação é o que corresponde ao porto de armamento do navio."
+  },
+  "889282126": {
+   "fragment_id": "889312153",
+   "type": 11,
+   "heading": "Artigo 13.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Produção de efeitos\n\n1 - O disposto no presente diploma aplica-se, para futuro, às situações existentes à data da sua entrada em vigor que determinem o fornecimento de alojamento ou a atribuição de suplemento de residência nos termos dos pressupostos agora fixados.\n\n2 - Da aplicação do presente diploma não pode resultar, quanto às comissões existentes à data da sua entrada em vigor, diminuição dos valores que actualmente são atribuídos a título de subsídio de deslocamento e respectivos acréscimos."
+  },
+  "889282127": {
+   "fragment_id": "889312154",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\n1 - É revogada toda a legislação respeitante ao subsídio mensal de deslocamento e ao respectivo acréscimo aplicável nas Regiões Autónomas.\n\n2 - São igualmente revogados os Decretos-Leis n.os 38782, de 14 de Junho de 1952, e 524/75, de 25 de Setembro."
+  },
+  "889282154": {
+   "fragment_id": "889312144",
+   "type": 11,
+   "heading": "Artigo 4.º — Residência habitual",
+   "in_force_from": "1995-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 4.º — Residência habitual\n\n1 - Para efeitos do disposto no presente diploma, considera-se que o militar tem a sua residência habitual na casa onde vive com estabilidade e tem organizada a sua economia doméstica.\n\n2 - A mudança de residência habitual determina a alteração a que houver lugar do suplemento de residência, de acordo com os critérios fixados no presente diploma.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282155": {
+   "fragment_id": "889312148",
+   "type": 11,
+   "heading": "Artigo 8.º — Permanência na residência habitual",
+   "in_force_from": "1995-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 8.º — Permanência na residência habitual\n\n1 - Apesar da possibilidade de alojamento por conta do Estado, pode o militar necessitar de manter a sua residência habitual, devendo declará-lo.\n\n2 - Nos casos previstos no número anterior, o militar tem direito a perceber suplemento de residência:\n\na) Nos termos do n.º 2 do artigo anterior, não usufruindo de alojamento fornecido pelo Estado;\n\nb) Correspondente a 15% ou a 25% do valor referido no n.º 1 do artigo anterior, nos casos de colocação no continente ou nas Regiões Autónomas dos Açores e da Madeira, respectivamente, usufruindo de alojamento fornecido pelo Estado.\n\n3 - O disposto neste artigo não se aplica aos militares que não têm agregado familiar.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282156": {
+   "fragment_id": "889312149",
+   "type": 11,
+   "heading": "Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência",
+   "in_force_from": "1995-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência\n\n1 - Não é conferido o direito a alojamento por conta do Estado ou a suplemento de residência quando:\n\na) O militar é colocado em local situado dentro dos limites do concelho onde tem a sua residência habitual ou em local distanciado destes limites menos de 30 km;\n\nb) O cônjuge do militar, dele não separado judicialmente de pessoas e bens, usufrua de casa do Estado em localidade distanciada de menos de 30 km do local onde este tenha sido colocado, ou no concelho em que este local se situa, ou ainda de suplemento de residência ou equivalente, e destes direitos não prescinda;\n\nc) O militar ou o seu cônjuge, quando não separados judicialmente de pessoas e bens, disponha de habitação própria, condigna e disponível em localidade distanciada de menos de 30 km do local onde o primeiro foi colocado ou no concelho em que este local se situa;\n\nd) For assegurado o transporte diário por conta do Estado entre a localidade da residência habitual do militar e o local da colocação deste;\n\ne) O afastamento do militar da sua residência habitual se ficar a dever a deslocação em serviço pela qual perceba ajudas de custo, nos termos da legislação respectiva.\n\n2 - Não é conferido o direito a suplemento de residência quando o militar é colocado em local situado dentro dos limites do concelho da colocação que, tendo nela cabimento orgânico, declarar preferir, ou em local distanciado destes limites menos de 30 km.\n\n3 - Nos casos em que o militar não declarar qualquer colocação de preferência considera-se que prefere a única colocação onde tem cabimento orgânico ou qualquer colocação dentro dos limites referidos na alínea a) do n.º 1.\n\n4 - A declaração de preferência é obrigatória nos casos em que o militar não pode ser colocado nos termos do número anterior.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282157": {
+   "fragment_id": "889312150",
+   "type": 11,
+   "heading": "Artigo 10.º — Aquisição e caducidade do direito a alojamento",
+   "in_force_from": "1995-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 10.º — Aquisição e caducidade do direito a alojamento\n\nou a suplemento de residência\n\n1 - O direito a alojamento ou a suplemento de residência adquire-se no dia em que o militar se apresenta para iniciar funções e, sem prejuízo do disposto nos números seguintes, perdura enquanto a colocação subsistir.\n\n2 - Durante o período de colocação do militar, o direito a alojamento ou a suplemento de residência caduca a partir do momento em que aquele deixe de dispor de residência habitual, em casa própria ou do seu cônjuge, desde que não separados judicialmente de pessoas e bens, ou por qualquer deles arrendada, em localidade distanciada de mais de 30 km do local onde foi colocado, mas nunca antes de decorridos dois anos desde o momento da aquisição do direito.\n\n3 - Em qualquer caso, o direito a suplemento de residência caduca decorridos cinco anos desde o dia em que o militar se apresenta para iniciar funções, mantendo-se ele colocado dentro dos limites do mesmo concelho ou em local distanciado destes limites menos de 30 km.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282128": {
+   "fragment_id": "889312155",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Maio de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.\n\nPromulgado em 1 de Junho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Junho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "889282158": {
+   "fragment_id": "889312141",
+   "type": 11,
+   "heading": "Artigo 1.º — Alojamento",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### Artigo 1.º — Alojamento\n\n1 - Os militares das Forças Armadas dos quadros permanentes na efetividade de serviço têm direito a alojamento condigno, para si e para o seu agregado familiar, a fornecer pelo Estado mediante o pagamento de uma contraprestação mensal, quando sejam colocados em local distanciado de mais de 100 km da localidade da sua residência habitual, contados de acordo com o previsto no artigo 12.º.\n\n2 - O Estado pode fornecer alojamento tanto em casas de habitação do património das Forças Armadas ou por si arrendadas e a estas afectas como em aquartelamento militar.\n\n3 - A condignidade do alojamento é determinada em função da condição do militar, da dimensão do agregado familiar e da segurança exigível, bem como do posto e da natureza das funções a exercer.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+  },
+  "889282159": {
+   "fragment_id": "889312147",
+   "type": 11,
+   "heading": "Artigo 7.º — Valor do suplemento de residência",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### Artigo 7.º — Valor do suplemento de residência\n\n1 - O suplemento de residência tem o valor correspondente a 17,5% da ajuda de custo por deslocações em serviço em território nacional fixada para cada posto.\n\n2 - Não se fazendo o militar acompanhar do seu agregado familiar para o concelho do local em que foi colocado ou para localidade de distância daquele local de menos de 100 km, a percentagem referida no número anterior será de:\n\na) 15%, quando colocado nas Regiões Autónomas dos Açores ou da Madeira, ou quando, tendo residência habitual em qualquer destas regiões, for colocado no continente;\n\nb) 12,5%, quando colocado a mais de 120 km da localidade da sua residência habitual;\n\nc) 10%, nos restantes casos.\n\n3 - Não tendo o militar agregado familiar, os valores referidos no número anterior serão reduzidos em 25%, nas situações previstas na alínea a), ou em 50%, nos restantes casos.\n\n4 - Em casos excepcionais, resultantes do elevado nível dos preços correntes no mercado local de habitação, podem os Ministros da Defesa Nacional e das Finanças, por despacho conjunto, atribuir um valor de suplemento de residência superior ao fixado nos números anteriores.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+  },
+  "889282160": {
+   "fragment_id": "889312149",
+   "type": 11,
+   "heading": "Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência\n\n1 - Não é conferido o direito a alojamento por conta do Estado ou a suplemento de residência quando:\n\na) O militar é colocado em local situado dentro dos limites do concelho onde tem a sua residência habitual ou em local distanciado destes limites menos de 100 km;\n\nb) O cônjuge do militar, dele não separado judicialmente de pessoas e bens, usufrua de casa do Estado em localidade distanciada de menos de 100 km do local onde este tenha sido colocado, ou no concelho em que este local se situa, ou ainda de suplemento de residência ou equivalente, e destes direitos não prescinda;\n\nc) O militar ou o seu cônjuge, quando não separados judicialmente de pessoas e bens, disponha de habitação própria, condigna e disponível, em localidade distanciada de menos de 100 km do local onde o primeiro foi colocado ou no concelho onde este local se situa;\n\nd) For assegurado o transporte diário por conta do Estado entre a localidade da residência habitual do militar e o local da colocação deste;\n\ne) O afastamento do militar da sua residência habitual se ficar a dever a deslocação em serviço pela qual perceba ajudas de custo, nos termos da legislação respectiva.\n\n2 - Não é conferido o direito a suplemento de residência quando o militar é colocado em local situado dentro dos limites do concelho da colocação que, tendo nela cabimento orgânico, declarar preferir, ou em local distanciado destes limites menos de 100 km.\n\n3 - Nos casos em que o militar não declarar qualquer colocação de preferência considera-se que prefere a única colocação onde tem cabimento orgânico ou qualquer colocação dentro dos limites referidos na alínea a) do n.º 1.\n\n4 - A declaração de preferência é obrigatória nos casos em que o militar não pode ser colocado nos termos do número anterior.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282161": {
+   "fragment_id": "889312150",
+   "type": 11,
+   "heading": "Artigo 10.º — Aquisição e caducidade do direito a alojamento",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 10.º — Aquisição e caducidade do direito a alojamento\n\nou a suplemento de residência\n\n1 - O direito a alojamento ou a suplemento de residência adquire-se no dia em que o militar se apresenta para iniciar funções e, sem prejuízo do disposto nos números seguintes, perdura enquanto a colocação subsistir.\n\n2 - Durante o período de colocação do militar, o direito a alojamento ou a suplemento de residência caduca a partir do momento em que aquele deixe de dispor de residência habitual, em casa própria ou do seu cônjuge, desde que não separados judicialmente de pessoas e bens, ou por qualquer deles arrendada, em localidade distanciada de mais de 100 km do local onde foi colocado, mas nunca antes de decorridos dois anos desde o momento da aquisição do direito.\n\n3 - Em qualquer caso, o direito a suplemento de residência caduca decorridos três anos desde a data em que o militar se apresenta para iniciar funções, mantendo-se ele colocado dentro dos limites do mesmo concelho ou em local distanciado destes limites menos de 50 km, exceto no caso de se manter colocado numa região autónoma na qual não tenha a sua residência habitual, situação em que o direito ao suplemento de residência caduca decorridos cinco anos.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282162": {
+   "fragment_id": "889312141",
+   "type": 11,
+   "heading": "Artigo 1.º — Alojamento",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### Artigo 1.º — Alojamento\n\n1 - Sempre que não seja possível garantir habitação por conta do Estado, os militares das Forças Armadas na efetividade de serviço têm direito a alojamento condigno, para si e para o seu agregado familiar, a fornecer pelo Estado mediante o pagamento de uma contraprestação mensal, quando sejam colocados em local distanciado a mais de 50 km da localidade da sua residência habitual, contados de acordo com o previsto no artigo 12.º.\n\n2 - O Estado pode fornecer alojamento tanto em casas de habitação do património das Forças Armadas ou por si arrendadas e a estas afectas como em aquartelamento militar.\n\n3 - A condignidade do alojamento é determinada em função da condição do militar, da dimensão do agregado familiar e da segurança exigível, bem como do posto e da natureza das funções a exercer.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+  },
+  "889282163": {
+   "fragment_id": "889312144",
+   "type": 11,
+   "heading": "Artigo 4.º — Residência habitual",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 4.º — Residência habitual\n\n1 - Para efeitos do disposto no presente diploma, considera-se que o militar tem a sua residência habitual na casa onde vive com estabilidade e tem organizada a sua economia doméstica.\n\n2 - A mudança de residência habitual determina a alteração a que houver lugar do suplemento de residência, de acordo com os critérios fixados no presente diploma.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282164": {
+   "fragment_id": "889312147",
+   "type": 11,
+   "heading": "Artigo 7.º — Valor do suplemento de residência",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### Artigo 7.º — Valor do suplemento de residência\n\n1 - O suplemento de residência tem o valor de 329,43 EUR, desde que cumulativamente se verifiquem os seguintes pressupostos:\n\na) O militar seja colocado em local distanciado a mais de 50 km da localidade da sua residência habitual;\n\nb) O militar mude efetivamente de residência; e\n\nc) Se faça acompanhar do seu agregado familiar.\n\n2 - Não se fazendo o militar acompanhar do seu agregado familiar, o suplemento de residência é reduzido para:\n\na) 282,37 EUR, quando colocado nas Regiões Autónomas dos Açores ou da Madeira, ou, quando tendo residência habitual em qualquer destas regiões, for colocado no continente;\n\nb) 235,20 EUR, quando colocado a mais de 100 km da localidade da sua residência habitual;\n\nc) 188,25 EUR, quando colocado a mais de 50 km da localidade da sua residência habitual.\n\n3 - Não tendo o militar agregado familiar, os valores referidos no número anterior são reduzidos em 25 %.\n\n4 - O suplemento mensal de residência não é devido nos seguintes casos:\n\na) Quando o militar ou cônjuge possua habitação própria até 50 km;\n\nb) Quando e enquanto a deslocação conferir direito a abono de ajudas de custo;\n\nc) Quando o cônjuge beneficie de idêntico subsídio.\n\n5 - A atribuição do subsídio mensal de residência depende da apresentação de um dos seguintes meios de prova:\n\na) Contrato de arrendamento em nome do militar ou do cônjuge;\n\nb) Recibo comprovativo de pagamento de renda de casa, em nome do militar ou do cônjuge;\n\nc) Documento comprovativo de aquisição de habitação.\n\n6 - Os montantes do suplemento de residência são automaticamente atualizados na mesma percentagem de atualização das ajudas de custo aplicáveis aos demais trabalhadores com funções públicas.\n\n7 - Em casos excecionais, resultantes do elevado nível dos preços correntes no mercado local de habitação, podem os membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, por despacho, atribuir um valor de suplemento de residência superior ao fixado nos números anteriores.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25"
+  },
+  "889282168": {
+   "fragment_id": "889312148",
+   "type": 11,
+   "heading": "Artigo 8.º — Permanência na residência habitual",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 8.º — Permanência na residência habitual\n\n1 - Apesar da possibilidade de alojamento por conta do Estado, pode o militar necessitar de manter a sua residência habitual, devendo declará-lo.\n\n2 - Nos casos previstos no número anterior, o militar tem direito a perceber suplemento de residência:\n\na) Nos termos do n.º 2 do artigo anterior, não usufruindo de alojamento fornecido pelo Estado;\n\nb) Correspondente a 15% ou a 25% do valor referido no n.º 1 do artigo anterior, nos casos de colocação no continente ou nas Regiões Autónomas dos Açores e da Madeira, respectivamente, usufruindo de alojamento fornecido pelo Estado.\n\n3 - O disposto neste artigo não se aplica aos militares que não têm agregado familiar.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282165": {
+   "fragment_id": "889312149",
+   "type": 11,
+   "heading": "Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 9.º — Inexistência do direito a alojamento ou a suplemento de residência\n\n1 - Não é conferido o direito a alojamento por conta do Estado ou a suplemento de residência quando:\n\na) O militar é colocado em local distanciado a menos de 50 km da localidade da sua residência habitual;\n\nb) O cônjuge do militar, dele não separado judicialmente de pessoas e bens, usufrua de casa do Estado em localidade distanciada a menos de 50 km do local onde este tenha sido colocado, ou de suplemento de residência ou equivalente, e destes direitos não prescinda;\n\nc) O militar ou o seu cônjuge, quando não separados judicialmente de pessoas e bens, disponha de habitação própria, condigna e disponível, em localidade distanciada a menos de 50 km do local onde o primeiro foi colocado;\n\nd) For assegurado o transporte diário por conta do Estado entre a localidade da residência habitual do militar e o local da colocação deste;\n\ne) O afastamento do militar da sua residência habitual se ficar a dever a deslocação em serviço pela qual perceba ajudas de custo, nos termos da legislação respectiva.\n\n2 - Não é conferido o direito a suplemento de residência quando o militar é colocado em local que declarar preferir ou em local distanciado a menos de 50 km daquele que declarou preferir, tendo neles cabimento orgânico.\n\n3 - Nos casos em que o militar não declarar qualquer colocação de preferência considera-se que prefere a única colocação onde tem cabimento orgânico ou qualquer colocação dentro dos limites referidos na alínea a) do n.º 1.\n\n4 - A declaração de preferência é obrigatória nos casos em que o militar não pode ser colocado nos termos do número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282166": {
+   "fragment_id": "889312150",
+   "type": 11,
+   "heading": "Artigo 10.º — Aquisição e caducidade do direito a alojamento",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+   ],
+   "markdown": "###### Artigo 10.º — Aquisição e caducidade do direito a alojamento\n\nou a suplemento de residência\n\n1 - O direito a alojamento ou a suplemento de residência adquire-se no dia em que o militar se apresenta para iniciar funções e, sem prejuízo do disposto nos números seguintes, perdura enquanto a colocação subsistir.\n\n2 - Durante o período de colocação do militar, o direito a alojamento ou a suplemento de residência caduca a partir do momento em que deixe de dispor de residência habitual em localidade distanciada a mais de 50 km do local onde foi colocado, mas nunca antes de decorridos dois anos desde o momento da aquisição do direito.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 60/95 - Diário da República n.º 83/1995, Série I-A de 1995-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1995-230519), em vigor a partir de 1995-04-12"
+  },
+  "889282167": {
+   "fragment_id": "889312152",
+   "type": 11,
+   "heading": "Artigo 12.º — Contagem de distâncias",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05"
+   ],
+   "markdown": "###### Artigo 12.º — Contagem de distâncias\n\n1 - Para efeitos do presente diploma, a localidade da residência habitual do militar, bem como as localidades referidas no n.º 2 do artigo 7.º, nas alíneas b) e c) do artigo 9.º e no n.º 2 do artigo 10.º, são delimitadas pelos limites municipais respectivos.\n\n2 - As distâncias previstas no presente diploma são contadas, por estrada, considerando o percurso mais próximo a utilizar entre a localidade de residência habitual e o local da colocação do militar.\n\n3 - Relativamente aos militares nomeados para prestarem serviço em navios, considera-se que o local de colocação é o que corresponde ao porto de armamento do navio.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05"
+  }
+ }
+}

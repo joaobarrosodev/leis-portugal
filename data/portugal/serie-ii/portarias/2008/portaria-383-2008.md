@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:1820298:por
+title: Portaria n.º 383/2008
+short_title: null
+summary: Portaria de cedência de terreno em Valado dos Frades à Câmara Municipal de Nazaré
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública - Gabinete do Secretário de Estado do Tesouro e Finanças
+proposing_entity: null
+official_number: 383/2008
+official_date: null
+publication_date: '2008-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/2008, Série II de 2008-04-07
+  number: '68'
+  series: II
+  supplement: null
+  pages: 15119 - 15119
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/04/068000000/1511915119.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1820298'
+  dre_path: /dr/detalhe/portaria/383-2008-1820298
+  internal: pt:dre:1820298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-2008-1820298
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-2008-1820298
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:13:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a4521ed32fe3b139cbccb02483713b0a6e5a015d35a4e19705d32ebc21d126af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:13:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Alienação de Solos
+- BENS Imóveis do Estado
+- Câmara Municipal
+- Nazaré
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:13:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 383/2008
+
+Pela Portaria n.º 678/2007 (2.ª série), publicada no Diário da República, 2.ª série, nº 153, de 9 de Agosto de 2007, e a coberto do Decreto-Lei nº 97/70, de 13 de Março, foi autorizada a cessão, a título definitivo e oneroso, ao Município da Nazaré, de uma parcela de terreno com a área de 296 394 m2, para instalação da Zona Industrial.
+
+Verificando-se que o artigo matricial, bem como o registo na competente Conservatória do Registo Predial mencionados na referida Portaria não correspondem ao prédio cedido, importa proceder à sua correcta identificação. Assim:
+
+Manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:
+
+1 - O ponto 1. da Portaria nº 678/2007 (2.ª série) passa a ter a seguinte redacção:
+
+" 1 - Autorizar, nos termos do artigo 1º do Decreto-Lei nº 97/70, de 13 de Março, a cessão a título definitivo, ao Município da Nazaré, de uma parcela de terreno com a área de 296 394 m2, a destacar do prédio inscrito na matriz predial rústica da Nazaré sob o artigo 1 - Secção U1 a U19, descrito na Conservatória do Registo Predial da Nazaré na ficha nº 470/19860407/Nazaré e registado, a favor do Estado, pela inscrição G-1".
+
+2 - O prazo de 90 dias para a celebração do auto de cessão a título definitivo e oneroso a que alude o n.º 5 da Portaria nº 678/2007 (2.ª série) inicia-se após a publicação da presente portaria.
+
+25 de Março de 2008. - O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina.

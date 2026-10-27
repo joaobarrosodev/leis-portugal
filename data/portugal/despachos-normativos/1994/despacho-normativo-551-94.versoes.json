@@ -1,0 +1,414 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231878:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1994-169775406",
+ "dre_path": "/dr/detalhe/despacho-normativo/551-1994-231878",
+ "source_lastmod": "2025-06-16",
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169774897",
+    "169774898",
+    "169774899",
+    "169774900",
+    "169774901",
+    "169774902",
+    "169774903",
+    "169774904",
+    "169774905",
+    "169774906",
+    "169774907",
+    "169774908",
+    "169774909",
+    "169774910",
+    "169774911",
+    "169774912"
+   ]
+  },
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:354308:por",
+     "title": "Declaração de Rectificação n.º 159/94",
+     "published": "1994-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/159-1994-354308"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º"
+   ],
+   "fragments": [
+    "169774897",
+    "169774898",
+    "169774899",
+    "169774900",
+    "169774901",
+    "921690392",
+    "169774903",
+    "169774904",
+    "169774905",
+    "169774906",
+    "169774907",
+    "169774908",
+    "169774909",
+    "169774910",
+    "169774911",
+    "169774912"
+   ]
+  },
+  {
+   "date": "1997-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:351702:por",
+     "title": "Despacho Normativo n.º 26/97",
+     "published": "1997-06-02",
+     "dre_path": "/dr/detalhe/despacho-normativo/26-1997-351702"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "169774897",
+    "921782592",
+    "921782593",
+    "921782594",
+    "169774901",
+    "921782595",
+    "921782596",
+    "921782597",
+    "921782598",
+    "921782599",
+    "169774907",
+    "921782600",
+    "921782601",
+    "921782602",
+    "921782603",
+    "169774911",
+    "169774912"
+   ]
+  },
+  {
+   "date": "1997-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:402104:por",
+     "title": "Declaração de Rectificação n.º 14-S/97",
+     "published": "1997-08-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-s-1997-402104"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 9.º"
+   ],
+   "fragments": [
+    "169774897",
+    "921782592",
+    "921782593",
+    "921782594",
+    "169774901",
+    "921782595",
+    "921782596",
+    "921782597",
+    "921782598",
+    "921943083",
+    "169774907",
+    "921782600",
+    "921782601",
+    "921782602",
+    "921782603",
+    "169774911",
+    "169774912"
+   ]
+  }
+ ],
+ "fragments": {
+  "169774897": {
+   "fragment_id": "169775407",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 551/94\n\n(IIDE0106)\n\nRegime de Apoio à Utilização do Sistema de Propriedade Industrial\n\nO Decreto-Lei n.º 177/94, de 27 de Junho, criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.\n\nNo âmbito do PEDIP II insere-se o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP), o qual se prevê, nos termos do disposto no n.º I, n.º 1, da Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho, vir a ser desenvolvido em regimes de apoio específicos.\n\nDeste modo, é, pelo presente despacho, regulamentado o Regime de Apoio à Utilização do Sistema de Propriedade Industrial.\n\nAssim, determina-se o seguinte:"
+  },
+  "169774898": {
+   "fragment_id": "169775408",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente despacho regulamenta o Regime de Apoio à Utilização do Sistema de Propriedade Industrial, previsto na alínea f) do n.º 1 do artigo 2.º do Despacho Normativo n.º 545/94 (IIDG01), o qual regula o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP).\n\n2 - O presente Regime de Apoio tem por objectivo estimular a criatividade, a actividade inventiva e a inovação a nível empresarial, institucional e individual, apoiando a utilização do instituto jurídico da Propriedade Industrial como elemento fundamental para a concepção das invenções e para a sua protecção através da obtenção dos correspondentes direitos."
+  },
+  "169774899": {
+   "fragment_id": "169775409",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão susceptíveis de apoio no âmbito do presente Regime:\n\na) A formulação de pedidos nacionais de patente;\n\nb) A formulação de pedidos de patente no estrangeiro pela via directa junto das respectivas administrações nacionais;\n\nc) A formulação de pedidos europeus e internacionais de patente;\n\nd) A formulação de pedidos de modelos de utilidade, modelos e desenhos industriais;\n\ne) A formulação de pedidos de registo de marcas quando destinadas a assinalar os produtos objecto da patente, modelo ou desenho;\n\nf) A manutenção de patentes que tenham sido concedidas há menos de três anos relativamente à data da apresentação da candidatura;\n\ng) A concepção, estudo e execução de protótipos ou de instalações experimentais."
+  },
+  "169774900": {
+   "fragment_id": "169775410",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Sem prejuízo do disposto no número seguinte, são beneficiários do presente Regime de Apoio:\n\na) As empresas industriais incluídas nas CAE 10 a 37 do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de investigação, bem como os inventores independentes associados ou não a empresas industriais;\n\nb) As instituições que desenvolvam tarefas de investigação no âmbito das CAE referidas na alínea anterior;\n\n2 - O disposto na alínea g) do artigo 2.º apenas é aplicável aos inventores independentes, associados ou não a empresas industriais."
+  },
+  "169774901": {
+   "fragment_id": "169775411",
+   "type": 11,
+   "heading": "Artigo 4.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organismo gestor\n\nO organismo responsável pela gestão deste Regime de Apoio é o Instituto Nacional da Propriedade Industrial (INPI)."
+  },
+  "169774902": {
+   "fragment_id": "169775412",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso do promotor\n\n1 - Os promotores deverão cumprir, quando aplicáveis, as seguintes condições:\n\na) Encontrar-se legalmente constituídos à data da apresentação da candidatura;\n\nb) Possuir a estrutura organizacional, os meios financeiros e os recursos humanos qualificados adequados às exigências da sua actividade e às necessidades de realização do projecto;\n\nc) Apresentar condições de viabilização auto-sustentável a prazo;\n\nd) Comprovar que dispõem de contabilidade organizada de acordo com as especificações do Plano Oficial de Contabilidade;\n\ne) Comprovar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto;\n\nf) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularidada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI);\n\ng) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-se a requerê-lo no prazo de 20 dias úteis;\n\nh) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comprometer-se a regularizá-las, devendo apresentar comprovativo de licenciamento à data de realização do contrato;\n\ni) Ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e, pretendendo, a protecção do Sistema de Propriedade Industrial;\n\n2 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do número anterior, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições."
+  },
+  "169774903": {
+   "fragment_id": "169775413",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de acesso do projecto\n\nOs projectos a apoiar deverão cumprir as seguintes condições:\n\na) Não ter sido iniciada a sua realização antes da data da apresentação da candidatura:\n\nb) Enquadrar-se nos objectivos do PEDIP II em geral e do presente Regime em particular;\n\nc) Respeitar a estrutura constante do anexo A ao presente despacho, e que deste faz parte integrante, quando se trate de projectos inseridos no âmbito da alínea g) do artigo 2.º;\n\nd) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;\n\ne) Obedecer aos requisitos legais de protecção."
+  },
+  "169774904": {
+   "fragment_id": "169775414",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\nOs critérios de selecção deverão considerar, no que se refere às alíneas a) a e) do artigo 2.º, a forma como os projectos se fundamentam numa perspectiva de mercado e obedecem aos requisitos legais de protecção;\n\n2 - No que se refere à alínea f) do artigo 2.º, o projecto deverá revelar manifesta viabilidade de aplicação e reconhecido mérito industrial ou económico, nomeadamente se a patente constituir um suporte para exportação de produtos fabricados ao abrigo da mesma.\n\n3 - No que se refere à alínea g) do artigo 2.º, deverá a sua realização ser considerada como elemento necessário para a industrialização do invento cujo pedido de patente tenha sido objecto de financiamento no âmbito deste Regime de Apoio."
+  },
+  "169774905": {
+   "fragment_id": "169775415",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicações relevantes\n\nConsideram-se aplicações relevantes as seguintes rubricas de investimento necessárias à execução do projecto:\n\n1) No que se refere às alíneas a) a e) do artigo 2.º:\n\na) Taxas relativas à fase de pedido, incluindo as duas primeiras anuidades, tratando-se de pedidos de patente ou de modelo de utilidade;\n\nb) Honorários de consultoria em matéria de propriedade industrial;\n\n2) No que se refere à alínea f) do artigo 2.º:\n\na) Taxas de manutenção;\n\nb) Honorários de consultoria em matéria de propriedade industrial;\n\n3) No que se refere aos investimentos previstos na alínea g) do artigo 2.º as despesas relativas à execução de protótipos e construção de instalações experimentais, tais como:\n\na) Adaptação de edifícios e instalações;\n\nb) Aquisição e transporte de equipamentos;\n\nc) Ferramentas;\n\nd) Aquisição de serviços;\n\ne) Matérias-primas e componentes."
+  },
+  "169774906": {
+   "fragment_id": "169775416",
+   "type": 11,
+   "heading": "Artigo 9.º — Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incentivo\n\n1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido correspondente a:\n\na) 70% das aplicações relevantes referidas no n.º 1 do artigo 8.º, até ao limite de 3000 contos;\n\nb) 70% das aplicações relevantes referidas no n.º 2 do artigo 8.º, até ao limite de 10000 contos;\n\nc) 55% das aplicações relevantes referidas no n.º 3 do artigo 8.º, até ao limite de 10000 contos;\n\n2 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento."
+  },
+  "169774907": {
+   "fragment_id": "169775417",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\n1 - A apresentação das candidaturas ao presente Regime de Apoio é contínua, devendo ser formalizada de acordo com o disposto no artigo 9.º do Despacho Normativo n.º 545/94 (SINDEPEDIP) (IIDG01).\n\n2 - As candidaturas no âmbito das alíneas a) a f) do artigo 2.º devem ser acompanhadas dos documentos referidos no anexo B ao presente despacho, do qual faz parte integrante."
+  },
+  "169774908": {
+   "fragment_id": "169775418",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência e prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência e prazo de apreciação\n\nCompete ao INPI a análise dos processos de candidatura no prazo de 60 dias úteis, contados a partir da data da sua apresentação."
+  },
+  "169774909": {
+   "fragment_id": "169775419",
+   "type": 11,
+   "heading": "Artigo 12.º — Parecer do Instituto Nacional de Engenharia e Tecnologia Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Parecer do Instituto Nacional de Engenharia e Tecnologia Industrial\n\nNo caso da alínea g) do artigo 2.º, os projectos candidatos deverão ser submetidos a parecer do Instituto Nacional de Engenharia e Tecnologia Industrial."
+  },
+  "169774910": {
+   "fragment_id": "169775420",
+   "type": 11,
+   "heading": "Artigo 13.º — Condicionantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condicionantes\n\nO pagamento do incentivo nos casos a que se refere o n.º 2 do artigo 5.º fica condicionado, quando aplicável, à apresentação da declaração de início de actividade."
+  },
+  "169774911": {
+   "fragment_id": "169775421",
+   "type": 14,
+   "heading": "Anexo A — Estrutura a que deverá presidir a elaboração do projecto, no caso de candidaturas no âmbito da alínea g) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A — Estrutura a que deverá presidir a elaboração do projecto, no caso de candidaturas no âmbito da alínea g) do artigo 2.º\n\nI - Caracterização técnica do projecto.\n\nII - Caracterização económica do projecto.\n\nNota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia."
+  },
+  "169774912": {
+   "fragment_id": "169775422",
+   "type": 14,
+   "heading": "Anexo B — Documentos a anexar obrigatoriamente às candidaturas no âmbito das alíneas a) a f) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B — Documentos a anexar obrigatoriamente às candidaturas no âmbito das alíneas a) a f) do artigo 2.º\n\na) No caso das candidaturas no âmbito das alíneas a) a e) do artigo 2.º:\n\nReivindicações;\n\nMemória descritiva;\n\nDesenhos ou fotografias, conforme o caso.\n\nb) No caso das candidaturas no âmbito da alínea f) do artigo 2.º:\n\nElementos de prova, emitidos pela administração nacional respectiva, da titularidade da patente e das anuidades em dívida."
+  },
+  "921690392": {
+   "fragment_id": "169775412",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso do promotor",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 159/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/159-1994-354308), em vigor a partir de 1994-09-30"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso do promotor\n\n1 - Os promotores deverão cumprir, quando aplicáveis, as seguintes condições:\n\na) Encontrar-se legalmente constituídos à data da apresentação da candidatura;\n\nb) Possuir a estrutura organizacional, os meios financeiros e os recursos humanos qualificados adequados às exigências da sua actividade e às necessidades de realização do projecto;\n\nc) Apresentar condições de viabilização auto-sustentável a prazo;\n\nd) Comprovar que dispõem de contabilidade organizada de acordo com as especificações do Plano Oficial de Contabilidade;\n\ne) Comprovar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto;\n\nf) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI);\n\ng) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-se a requerê-lo no prazo de 20 dias úteis;\n\nh) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comprometer-se a regularizá-las, devendo apresentar comprovativo de licenciamento à data de realização do contrato;\n\ni) Ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e, pretendendo, a protecção do Sistema de Propriedade Industrial;\n\n2 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do número anterior, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 159/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/159-1994-354308), em vigor a partir de 1994-09-30"
+  },
+  "921782592": {
+   "fragment_id": "169775408",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente despacho regulamenta o Regime de Apoio à Utilização do Sistema de Propriedade Industrial, previsto na alínea f) do n.º 1 do artigo 2.º do Despacho Normativo n.º 545/94 (IIDG01), o qual regula o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP).\n\n2 - O presente Regime de Apoio tem por objectivo estimular a criatividade, a actividade inventiva e a inovação a nível empresarial, institucional e individual, apoiando a utilização da propriedade industrial como elemento fundamental para a concepção das invenções e para a sua protecção através da obtenção dos correspondentes direitos, bem como dinamizar a progressiva internacionalização da indústria farmacêutica, através do apoio à obtenção de uma autorização de introdução no mercado (AIM) no quadro da regulamentação existente a nível internacional.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782593": {
+   "fragment_id": "169775409",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão susceptíveis de apoio no âmbito do presente Regime:\n\na) A formulação de pedidos nacionais de patente;\n\nb) A formulação de pedidos de patente no estrangeiro pela via directa junto das respectivas administrações nacionais;\n\nc) A formulação de pedidos europeus e internacionais de patente;\n\nd) A formulação de pedidos de modelos de utilidade, modelos e desenhos industriais;\n\ne) A formulação de pedidos de registo de marcas quando destinadas a assinalar os produtos objecto da patente, modelo ou desenho;\n\nf) A manutenção de patentes que tenham sido concedidas há menos de três anos relativamente à data da apresentação da candidatura;\n\ng) A concepção, estudo e execução de protótipos ou de instalações experimentais.\n\nh) No âmbito do apoio ao registo de medicamentos:\n\nFormulação de pedidos de AIM no estrangeiro junto das respectivas autoridades nacionais;\n\nFormulação de pedidos de AIM via procedimento comunitário centralizado;\n\nFormulação de pedidos de AIM via procedimento comunitário descentralizado.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782594": {
+   "fragment_id": "169775410",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nSem prejuízo do disposto no n.º 3, são beneficiários do presente Regime de Apoio:\n\n1 - No âmbito das alíneas a) a f) do artigo 2.º:\n\na) As empresas industriais incluídas nas CAE 10 a 37 do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de I&DT, bem como os inventores independentes, associados ou não a empresas industriais;\n\nb) As instituições que desenvolvam tarefas de I&DT no âmbito das CAE referidas na alínea anterior.\n\n2 - No âmbito da alínea h) do artigo 2.º, as empresas industriais incluídas na classe 2442 - Fabricação de preparações farmacêuticas do CAE constante do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de I&DT em Portugal.\n\n3 - O disposto na alínea g) do artigo 2.º apenas é aplicável aos inventores independentes, associados ou não a empresas industriais.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782595": {
+   "fragment_id": "169775412",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso do promotor",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07",
+    "Retificado pelo/a [Declaração de Rectificação n.º 159/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/159-1994-354308), em vigor a partir de 1994-09-30"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso do promotor\n\n1 - Os promotores deverão cumprir, quando aplicáveis, as seguintes condições:\n\na) Encontrar-se legalmente constituídos à data da apresentação da candidatura;\n\nb) Possuir a estrutura organizacional, os meios financeiros e os recursos humanos qualificados adequados às exigências da sua actividade e às necessidades de realização do projecto;\n\nc) Apresentar condições de viabilização auto-sustentável a prazo;\n\nd) Comprovar que dispõem de contabilidade organizada de acordo com as especificações do Plano Oficial de Contabilidade;\n\ne) Comprovar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto;\n\nf) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI);\n\ng) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-se a requerê-lo no prazo de 20 dias úteis;\n\nh) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comprometer-se a regularizá-las, devendo apresentar comprovativo de licenciamento à data de realização do contrato;\n\n2 - Os promotores de projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e pretender a protecção do Sistema da Propriedade Industrial.\n\n3 - Os promotores de projectos no âmbito da alínea h) do artigo 2.º deverão ainda demonstrar que têm capacidade financeira para o desenvolvimento da sua actividade, cumprindo, nomeadamente, a condição de cobertura do activo líquido pelos capitais próprios superior a 25%.\n\n4 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do n.º 1, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07\n\n> Retificado pelo/a [Declaração de Rectificação n.º 159/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/159-1994-354308), em vigor a partir de 1994-09-30"
+  },
+  "921782596": {
+   "fragment_id": "169775413",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de acesso do projecto",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de acesso do projecto\n\nOs projectos a apoiar deverão cumprir as seguintes condições:\n\na) Não ter sido iniciada a sua realização antes da data da apresentação da candidatura:\n\nb) Enquadrar-se nos objectivos do PEDIP II em geral e do presente Regime em particular;\n\nc) Respeitar a estrutura constante do anexo A ao presente despacho, e que deste faz parte integrante, quando se trate de projectos inseridos no âmbito da alínea g) do artigo 2.º;\n\nd) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;\n\n2 - Os projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda obedecer aos requisitos legais de protecção.\n\n3 - Os projectos a que se refere a alínea h) do artigo 2.º deverão ainda inserir-se na estratégia de médio prazo do promotor, fundamentando as opções efectuadas em termos dos produtos/mercados seleccionados para efeitos de registo.\n\n4 - Exceptuam-se do disposto na alínea a) do n.º 1 os projectos que, tendo sido propostos a incentivos ao abrigo do Despacho Normativo n.º 354-B/93, de 9 de Novembro:\n\na) Não tenham recebido apoios por razões não imputáveis ao promotor;\n\nb) Apresentem declaração de desistência à candidatura apresentada ao abrigo daquele despacho normativo.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782597": {
+   "fragment_id": "169775414",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\nOs critérios de selecção deverão considerar, no que se refere às alíneas a) a e) do artigo 2.º, a forma como os projectos se fundamentam numa perspectiva de mercado e obedecem aos requisitos legais de protecção;\n\n2 - No que se refere à alínea f) do artigo 2.º, o projecto deverá revelar manifesta viabilidade de aplicação e reconhecido mérito industrial ou económico, nomeadamente se a patente constituir um suporte para exportação de produtos fabricados ao abrigo da mesma.\n\n3 - No que se refere à alínea g) do artigo 2.º, deverá a sua realização ser considerada como elemento necessário para a industrialização do invento cujo pedido de patente tenha sido objecto de financiamento no âmbito deste Regime de Apoio.\n\n4 - No que se refere à alínea h) do artigo 2.º, deverá ser considerada a forma como os projectos se fundamentam numa perspectiva de mercado.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782598": {
+   "fragment_id": "169775415",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicações relevantes",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 8.º — Aplicações relevantes\n\nConsideram-se aplicações relevantes as seguintes rubricas de investimento necessárias à execução do projecto:\n\n1) No que se refere às alíneas a) a e) do artigo 2.º:\n\na) Taxas relativas à fase de pedido, incluindo as duas primeiras anuidades, tratando-se de pedidos de patente ou de modelo de utilidade;\n\nb) Honorários de consultoria em matéria de propriedade industrial;\n\n2) No que se refere à alínea f) do artigo 2.º:\n\na) Taxas de manutenção;\n\nb) Honorários de consultoria em matéria de propriedade industrial;\n\n3) No que se refere aos investimentos previstos na alínea g) do artigo 2.º as despesas relativas à execução de protótipos e construção de instalações experimentais, tais como:\n\na) Adaptação de edifícios e instalações;\n\nb) Aquisição e transporte de equipamentos;\n\nc) Ferramentas;\n\nd) Aquisição de serviços;\n\ne) Matérias-primas e componentes.\n\n4 - No que se refere à alínea h) do artigo 2.º:\n\na) Taxas relativas à fase de pedido;\n\nb) Assistência técnica externa na organização dos dossiers, incluindo, nomeadamente:\n\nHonorários de consultadoria;\n\nTraduções;\n\nc) Análises laboratoriais e ensaios realizados no exterior da empresa, a efectuar por exigência das autoridades competentes em matéria de AIM.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782599": {
+   "fragment_id": "169775416",
+   "type": 11,
+   "heading": "Artigo 9.º — Incentivo",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 9.º — Incentivo\n\n1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido correspondente a:\n\na) 70% das aplicações relevantes referidas no n.º 1 do artigo 8.º, até ao limite de 3000 contos;\n\nb) 70% das aplicações relevantes referidas no n.º 2 do artigo 8.º, até ao limite de 10000 contos;\n\nc) 55% das aplicações relevantes referidas no n.º 3 do artigo 8.º, até ao limite de 10000 contos;\n\nd) 60% das aplicações relevantes referidas na alínea a) do n.º 4 do artigo 8.º, até ao limite de 2500 contos, quando se trate de pedidos no estrangeiro via nacional, de 20000 contos, quando se trate de pedidos via procedimento comunitário centralizado, e de 10000 contos, nos casos de pedidos via procedimento comunitário descentralizado;\n\ne) 60% das aplicações relevantes referidas na alínea b) do n.º 4 do artigo 8.º, até ao limite de 4500 contos;\n\nf) 60% das aplicações relevantes referidas na alínea c) do n.º 4 do artigo 8.º, até ao limite de 12000 contos.\n\n2 - As taxas de incentivo a que se referem as alíneas a), e) e f) do número anterior poderão ser majoradas em 5% sempre que as empresas provem possuir sistema de garantia de qualidade certificado pelo IPQ e ou recorram aos Serviços de Infra-Estruturas Tecnológicas apoiáveis no âmbito do SINFRAPEDIP para a realização das análises laboratoriais e ensaios.\n\n3 - O limite máximo de incentivo por promotor durante o período de vigência do Programa, no que se refere às alíneas d), e) e f) do n.º 1, é de 70000 contos.\n\n4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782600": {
+   "fragment_id": "169775418",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência e prazos de apreciação",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 11.º — Competência e prazos de apreciação\n\n1 - A análise dos processos de candidatura a que se referem as alíneas a) a g) do artigo 2.º compete ao INPI, devendo estar concluída no prazo de 60 dias úteis, contados a partir da data da sua apresentação.\n\n2 - A recepção dos processos de candidatura a que se refere a alínea h) do artigo 2.º é feita pelo INPI, que os enviará à DGI no prazo máximo de cinco dias úteis, contados a partir da data da sua apresentação.\n\n3 - A DGI, na sua qualidade de organismo do Ministério da Economia que desenvolve actividades correlacionadas com esta matéria, deverá analisar os processos de candidatura referidos no número anterior no prazo de 60 dias úteis, após o que os enviará ao INPI, a fim de este os propor para apreciação em sede de Comissão de Selecção.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782601": {
+   "fragment_id": "169775419",
+   "type": 11,
+   "heading": "Artigo 12.º — Pareceres",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 12.º — Pareceres\n\n1 - Os projectos a que se refere a alínea g) do artigo 2.º deverão ser submetidos a parecer prévio do INETI.\n\n2 - Poderão ainda ser consultadas outras entidades do Ministério da Economia que desenvolvam actividades correlacionadas com estas matérias, podendo ainda, nos projectos a que se refere a alínea h) do artigo 2.º, ser consultado o Instituto Nacional da Farmácia e do Medicamento (INFARMED), na sua qualidade de autoridade nacional competente em matéria de autorização de introdução de medicamentos no mercado.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782602": {
+   "fragment_id": "169775420",
+   "type": 11,
+   "heading": "Artigo 13.º — Condicionantes",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 13.º — Condicionantes\n\nO pagamento do incentivo nos casos a que se refere o n.º 2 do artigo 5.º fica condicionado, quando aplicável, à apresentação da declaração de início de actividade.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  },
+  "921782603": {
+   "fragment_id": "921693823",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "921943083": {
+   "fragment_id": "169775416",
+   "type": 11,
+   "heading": "Artigo 9.º — Incentivo",
+   "in_force_from": "1997-08-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 14-S/97 - Diário da República n.º 200/1997, 1º Suplemento, Série I-B de 1997-08-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-s-1997-402104), em vigor a partir de 1997-08-30",
+    "Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "###### Artigo 9.º — Incentivo\n\n1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido correspondente a:\n\na) 70% das aplicações relevantes referidas no n.º 1 do artigo 8.º, até ao limite de 3000 contos;\n\nb) 70% das aplicações relevantes referidas no n.º 2 do artigo 8.º, até ao limite de 10000 contos;\n\nc) 55% das aplicações relevantes referidas no n.º 3 do artigo 8.º, até ao limite de 10000 contos;\n\nd) 60% das aplicações relevantes referidas na alínea a) do n.º 4 do artigo 8.º, até ao limite de 2500 contos, quando se trate de pedidos no estrangeiro via nacional, de 20000 contos, quando se trate de pedidos via procedimento comunitário centralizado, e de 10000 contos, nos casos de pedidos via procedimento comunitário descentralizado;\n\ne) 60% das aplicações relevantes referidas na alínea b) do n.º 4 do artigo 8.º, até ao limite de 4500 contos;\n\nf) 60% das aplicações relevantes referidas na alínea c) do n.º 4 do artigo 8.º, até ao limite de 12000 contos.\n\n2 - As taxas de incentivo a que se referem as alíneas d), e) e f) do número anterior poderão ser majoradas em 5% sempre que as empresas provem possuir sistema de garantia de qualidade certificado pelo IPQ e ou recorram aos Serviços de Infra-Estruturas Tecnológicas apoiáveis no âmbito do SINFRAPEDIP para a realização das análises laboratoriais e ensaios.\n\n3 - O limite máximo de incentivo por promotor durante o período de vigência do Programa, no que se refere às alíneas d), e) e f) do n.º 1, é de 70000 contos.\n\n4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 14-S/97 - Diário da República n.º 200/1997, 1º Suplemento, Série I-B de 1997-08-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-s-1997-402104), em vigor a partir de 1997-08-30\n\n> Alterado pelo/a [Despacho Normativo n.º 26/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702), em vigor a partir de 1997-06-07"
+  }
+ }
+}

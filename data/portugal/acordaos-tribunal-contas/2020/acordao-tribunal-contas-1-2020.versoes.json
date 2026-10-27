@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:129208061:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/acordao-tribunal-contas/2020-919674285",
+ "dre_path": "/dr/detalhe/acordao-tribunal-contas/1-2020-129208061",
+ "source_lastmod": "2025-06-02",
+ "versions": [
+  {
+   "date": "2020-02-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919653193"
+   ]
+  }
+ ],
+ "fragments": {
+  "919653193": {
+   "fragment_id": "919674286",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Acórdão do Tribunal de Contas n.º 1/2020\n\nAcórdão n.º 1/2019 - Plenário Geral\n\nRelator: Conselheiro Paulo Dá Mesquita\n\nRecurso Extraordinário de Fixação de Jurisprudência: 5/2019 - Transitado em julgado\n\n(Processo: 9/2017 da 3.ª Secção RO n.º 1/2019)\n\nAcordam os Juízes do Tribunal de Contas, em Plenário Geral:"
+  }
+ }
+}

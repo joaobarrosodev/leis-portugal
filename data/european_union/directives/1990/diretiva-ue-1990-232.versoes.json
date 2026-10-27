@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0232:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0232-20091027",
+ "dre_path": null,
+ "source_lastmod": "2009-10-27",
+ "versions": [
+  {
+   "date": "2005-06-11",
+   "future": false,
+   "celex": "01990L0232-20050611",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4c1cc0f2c2376465",
+    "4f2f5368426dff97",
+    "73a95cc592c1406d",
+    "a67848f00487af36",
+    "87a0fe1b57b26bb5",
+    "395f7038afc1a555",
+    "e06263e1653cb8c5",
+    "37d48986ca30177f",
+    "4dade8a795f159a6",
+    "7c02d3aca86342f1",
+    "224bcc4ab19b8d46",
+    "de5981170cbf1695",
+    "f1d452e8d3a69e1e",
+    "904f9b0cbfde2d74",
+    "78afbd92730bb854"
+   ]
+  },
+  {
+   "date": "2009-10-27",
+   "future": false,
+   "celex": "01990L0232-20091027",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 1.ºA",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 4.ºA",
+    "Suprime Artigo 4.ºB",
+    "Suprime Artigo 4.ºC",
+    "Suprime Artigo 4.ºD",
+    "Suprime Artigo 4.ºE",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3011a10f188489a7"
+   ]
+  }
+ ],
+ "fragments": {
+  "4c1cc0f2c2376465": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Maio de 1990\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil relativo à circulação de veículos automóveis\n\n(90/232/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0003)),\n\nConsiderando que, pela Directiva 72/166/CEE ([^4^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 84/5/CEE ([^5^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0005)), o Conselho adoptou normas para a aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil relativo à circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar essa responsabilidade;\n\nConsiderando que a Directiva 72/166/CEE impõe, no seu artigo 3.º, que cada Estado-membro tome todas as medidas adequadas para que a responsabilidade civil relativa à circulação de veículos, cujo estacionamento habitual seja no seu território, se encontre coberta por um contrato de seguro; que os danos cobertos e as modalidades desse seguro devem ser determinados no âmbito dessas medidas;\n\nConsiderando que a Directiva 84/5/CEE, com a redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal, reduziu consideravelmente as disparidades de nível e de conteùdo do seguro obrigatório de responsabilidade civil entre os Estados-membros; que ainda subsistem disparidades significativas nos riscos cobertos por esse tipo de seguro;\n\nConsiderando que deve ser garantido que as vítimas de acidentes de veículos automóveis recebam tratamento idêntico, independentemente dos locais da Comunidade onde ocorram os acidentes;\n\nConsiderando que, em particular, existem em certos Estados-membros lacunas na cobertura pelo seguro obrigatório dos passageiros de veículos automóveis; que, para proteger essa categoria particularmente vulnerável de vítimas potenciais, é conveniente que essas lacunas sejam preenchidas;\n\nConsiderando que é conveniente remover a incerteza relativa à aplicação do n.º 2, primeiro travessão, do artigo 3.º da Directiva 72/166/CEE; que qualquer apólice de seguro obrigatório de veículos automóveis deve abranger a totalidade do território da Comunidade;\n\nConsiderando que, no interesse do segurado, é conveniente, além disso, que cada apólice de seguro garanta, através de um prémio único em cada um dos Estados-membros, a cobertura exigida pela sua legislação ou a cobertura exigida pela legislação do Estado-membro de estacionamento habitual, sempre que esta última for superior;\n\nConsiderando que, nos termos do n.º 4 do artigo 1.º da Directiva 84/5/CEE, todos os Estados-membros devem criar ou autorizar a criação de um organismo que tenha por missão indemnizar as vítimas de acidentes causados por veículos não segurados ou não identificados; que, todavia, essa disposição não prejudica o direito que assiste aos Estados-membros de atribuírem ou não um carácter subsidiário à intervenção desse organismo;\n\nConsiderando, todavia, que, no caso de um acidente causado por um veículo não segurado, a vítima deve, em alguns Estados-membros, provar que a parte responsável não pode ou não quer pagar a indemnização antes de a poder reclamar ao referido organismo; que o organismo em questão está melhor colocado do que a vítima para intentar uma acção contra a parte responsável; que, consequentemente, é conveniente evitar que esse organismo possa exigir, para a indemnizar, que a vítima prove que o responsável não pode ou não quer pagar;\n\nConsiderando que, na eventualidade de um litígio entre o organismo referido e o segurador da responsabilidade civil sobre a questão de saber qual deles deve indemnizar a vítima de um acidente, os Estados-membros devem, para evitar atrasos no pagamento da indemnização à vítima, providenciar para que seja designada a parte a quem, numa primeira fase, incumbe a obrigação de indemnizar a vítima, enquanto se aguarda a resolução do litígio;\n\nConsiderando que as vítimas de acidentes de circulação deparam por vezes com dificuldades para conhecer o nome da empresa seguradora que cobre a responsabilidade civil resultante da utilização de um veículo automóvel implicado num acidente; que, no interesse dessas vítimas, é conveniente que os Estados-membros tomem as medidas necessárias para garantir que essa informação esteja disponível no mais curto espaço de tempo;\n\nConsiderando que, tendo em conta todas as considerações anteriores, é conveniente completar, de modo uniforme, as duas directivas anteriores em matéria de responsabilidade civil automóvel;\n\nConsiderando que, pelo facto de ter o efeito de reforçar a protecção dos segurados e das vítimas de acidentes, esse complemento facilitará ainda mais a passagem das fronteiras internas da Comunidade e, portanto, o estabelecimento e o funcionamento do mercado interno; que é assim conveniente tomar como base um nível elevado de protecção do consumidor;\n\nConsiderando que, nos termos do artigo 8.ºC do Tratado, é conveniente ter em conta a amplitude do esforço que deve ser efectuado por algumas economias que apresentam diferenças de desenvolvimento; que, por conseguinte, é conveniente conceder a alguns Estados-membros um regime transitório que permita uma aplicação gradual de determinadas disposições da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4f2f5368426dff97": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSem prejuízo do n.º 1, segundo parágrafo, do artigo 2.º da Directiva 84/5/CEE, o seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE cobrirá a responsabilidade por [**►C2**](http://publications.europa.eu/resource/celex/31990L0232R%2803%29) danos pessoais de todos os passageiros, excepto o condutor,**◄** resultantes da circulação de um veículo.\n\nCada Estado-Membro tomará as medidas adequadas para que qualquer disposição legal ou cláusula contratual contida numa apólice de seguro que exclua os passageiros dessa cobertura pelo facto de terem conhecimento ou deverem ter tido conhecimento de que o condutor do veículo estava sob a influência do álcool ou de qualquer outra substância tóxica no momento do acidente seja considerada nula no que se refere a esses passageiros.\n\nPara efeitos da presente directiva, o sentido da palavra «veículo» é o definido no artigo 1.º da Directiva 72/166/CEE."
+  },
+  "73a95cc592c1406d": {
+   "fragment_id": "Artigo 1.ºA",
+   "type": "artigo",
+   "heading": "Artigo 1.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.ºA\n\nO seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE assegura a cobertura dos danos pessoais e materiais sofridos por peões, ciclistas e outros utilizadores não motorizados das estradas que, em consequência de um acidente em que esteja envolvido um veículo a motor, têm direito a indemnização de acordo com o direito civil nacional. O presente artigo não prejudica nem a responsabilidade civil nem o montante das indemnizações."
+  },
+  "a67848f00487af36": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que qualquer apólice de seguro obrigatório de responsabilidade civil relativo à circulação de veículos:\n\n— abranja, com base num prémio único e durante todo o período de vigência do contrato de seguro, a totalidade do território da Comunidade, incluindo as estadias do veículo noutro Estado-Membro durante o período de vigência contratual, e\n\n— garanta, com base no mesmo prémio único, em cada um dos Estados-membros, a cobertura exigida pela respectiva legislação ou a cobertura exigida pela legislação do Estado-membro em que o veículo tem o seu estacionamento habitual, sempre que esta última for superior."
+  },
+  "87a0fe1b57b26bb5": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAo n.º 4, primeiro parágrafo, do artigo 1.º da Directiva 84/5/CEE, é aditado o seguinte período:\n\n«Todavia, os Estados-membros não permitirão que o organismo em questão subordine o pagamento da indemnização à condição de a vítima provar, seja por que meio for, que a pessoa responsável não pode ou não quer pagar.»"
+  },
+  "395f7038afc1a555": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEm caso de conflito entre o organismo referido no n.º 4 do artigo 1.º da Directiva 84/5/CEE e o segurador da responsabilidade civil quanto à questão de saber quem deve indemnizar a vítima, os Estados-membros tomarão as medidas adequadas para que seja designada a parte a quem, numa primeira fase, incumbe a obrigação de indemnizar imediatamente a vítima.\n\nSe no final for decidido que a indemnização deveria ter sido paga, total ou parcialmente, pela outra parte, esta deve reembolsar, em conformidade, a parte que pagou."
+  },
+  "e06263e1653cb8c5": {
+   "fragment_id": "Artigo 4.ºA",
+   "type": "artigo",
+   "heading": "Artigo 4.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºA\n\n1. Não obstante o disposto no segundo travessão da alínea d) do artigo 2.º da Directiva 88/357/CEE ([^6^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0015)), sempre que um veículo seja enviado de um Estado-Membro para outro deve considerar-se que o Estado-Membro em que se situa o risco é o Estado-Membro de destino a partir da data da aceitação da entrega pelo adquirente por um prazo de 30 dias, mesmo que o veículo não tenha sido formalmente registado no Estado-Membro de destino.\n\n2. No caso de ocorrer um acidente que envolva o veículo durante o período referido no n.º 1 do presente artigo, não estando o veículo coberto por um seguro, é responsável pela indemnização o organismo referido no n.º 4 do artigo 1.º da Directiva 84/5/CEE do Estado-Membro de destino, nos termos do disposto no artigo 1.º da mesma directiva."
+  },
+  "37d48986ca30177f": {
+   "fragment_id": "Artigo 4.ºB",
+   "type": "artigo",
+   "heading": "Artigo 4.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºB\n\nOs Estados-Membros assegurarão que o tomador do seguro tenha o direito de solicitar a qualquer momento uma declaração relativa aos sinistros que envolvam responsabilidade civil, provocados pelo veículo ou veículos cobertos pelo contrato de seguro durante pelo menos os cinco anos anteriores à relação contratual, ou à ausência desses sinistros. A empresa de seguros ou a entidade designada pelo Estado-Membro para prover obrigatoriamente ao seguro ou prestar a referida declaração, deve fornecê-la ao tomador do seguro no prazo de 15 dias a contar do pedido."
+  },
+  "4dade8a795f159a6": {
+   "fragment_id": "Artigo 4.ºC",
+   "type": "artigo",
+   "heading": "Artigo 4.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºC\n\nAs empresas de seguros não podem aplicar franquias às vítimas de acidentes no âmbito do seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE."
+  },
+  "7c02d3aca86342f1": {
+   "fragment_id": "Artigo 4.ºD",
+   "type": "artigo",
+   "heading": "Artigo 4.ºD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºD\n\nOs Estados-Membros tomarão as medidas necessárias para que as pessoas lesadas por acidentes causados por veículos cobertos pelo seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE tenham direito de demandar directamente a empresa de seguros que cubra a responsabilidade civil do responsável."
+  },
+  "224bcc4ab19b8d46": {
+   "fragment_id": "Artigo 4.ºE",
+   "type": "artigo",
+   "heading": "Artigo 4.ºE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºE\n\nOs Estados-Membros devem estabelecer procedimento idêntico ao previsto no n.º 6 do artigo 4.º da Directiva 2000/26/CE ([^7^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#E0016)) para a regularização de sinistros resultantes de qualquer acidente causado por veículos cobertos pelo seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE.\n\nNo caso de sinistros que podem ser regularizados pelo sistema de serviços nacionais previstos no n.º 2 do artigo 2.º da Directiva 72/166/CEE, os Estados-Membros devem estabelecer procedimento idêntico ao previsto no n.º 6 do artigo 4.º da Directiva 2000/26/CE. Para efeitos de aplicação deste procedimento, todas as referências às empresas de seguros devem ser entendidas como referências aos serviços nacionais, na acepção do ponto 3 do artigo 1.º da Directiva 72/166/CEE."
+  },
+  "de5981170cbf1695": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros tomarão as medidas necessárias para que os centros de informação criados ou aprovados nos termos do artigo 5.º da Directiva 2000/26/CE, sem prejuízo dos deveres que lhes incumbem por força da referida directiva, forneçam as informações previstas nesse artigo a qualquer parte envolvida num acidente com veículos automóveis causado por um veículo coberto pelo seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE.\n\n2. O mais tardar até 31 de Dezembro de 1995, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do n.º 1.\n\nSe for caso disso, a Comissão apresentará ao Conselho propostas adequadas."
+  },
+  "f1d452e8d3a69e1e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros tomarão todas as medidas necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Dezembro de 1992. Desse facto informarão imediatamente a Comissão.\n\n2. Em derrogação ao n.º 1:\n\n— a República Helénica, o Reino de Espanha e a República Portuguesa disporão de um prazo suplementar até 31 de Dezembro de 1995 para dar cumprimento aos artigos 1.º e 2.º,\n\n— a Irlanda disporá de um prazo até 31 de Dezembro de 1998 para dar cumprimento ao artigo 1.º no que respeita aos passageiros transportados na parte traseira dos motociclos e de um prazo até 31 de Dezembro de 1995 para dar cumprimento ao artigo 1.º no que respeita aos outros veículos, bem como para dar cumprimento ao artigo 2.º"
+  },
+  "904f9b0cbfde2d74": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "78afbd92730bb854": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0001)) JO n.º C 16 de 20. 1. 1989, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0002)) JO n.º C 304 de 4. 12. 1989, p. 41, e\n\n> JO n.º C 113 de 7. 5. 1990.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0003)) JO n.º C 159 de 26. 6. 1989, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0004)) JO n.º L 103 de 2. 5. 1972, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0005)) JO n.º L 8 de 11. 1. 1984, p. 17.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0015)) Segunda Directiva 88/357/CEE do Conselho, de 22 de Junho de 1988, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro não-vida, que fixa disposições destinadas a facilitar o exercício da livre prestação de serviços (JO L 172 de 4.7.1988, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 2000/26/CE do Parlamento Europeu e do Conselho (JO L 181 de 20.7.2000, p. 65).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5d60c96c-0cf0-412f-9c9a-af7285fab734.0018.03/DOC_1#src.E0016)) Directiva 2000/26/CE do Parlamento Europeu e do Conselho, de 16 de Maio de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes ao seguro de responsabilidade civil relativo à circulação de veículos automóveis (quarta directiva sobre o seguro automóvel) (JO L 181 de 20.7.2000, p. 65)."
+  },
+  "3011a10f188489a7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0232 — PT — 27.10.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0232) [TERCEIRA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0232) [de 14 de Maio de 1990](http://publications.europa.eu/resource/celex/31990L0232) [relativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil relativo à circulação de veículos automóveis](http://publications.europa.eu/resource/celex/31990L0232) [(90/232/CEE)](http://publications.europa.eu/resource/celex/31990L0232) (JO L 129, 19.5.1990, p.33)\n\n**revogado por:**\n\n- [Directiva 2009/103/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0103) — L 263 — 11 — 7.10.2009"
+  }
+ }
+}

@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:429641:por
+title: Portaria n.º 506/76
+short_title: null
+summary: Estabelece normas relativas à aplicação de multas a transgressões atribuídas a navios da marinha mercante e da pesca
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e Pescas e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 506/76
+official_date: null
+publication_date: '1976-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/1976, Série I de 1976-08-11
+  number: '187'
+  series: I
+  supplement: null
+  pages: 1982 - 1982
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18700/19821982.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '429641'
+  dre_path: /dr/detalhe/portaria/506-1976-429641
+  internal: pt:dre:429641:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-1976-429641
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-1976-429641
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2705ccf27d9886482723f46c454bd7a9a4da9292ea9d5aa1fbcc8e360bcf5ccf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:06:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Multa
+- Pesca
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:06:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 506/76
+
+de 11 de Agosto
+
+Considerando que algumas disposições do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca são omissas quanto aos mínimos de multas a aplicar às respectivas transgressões;
+
+Considerando a conveniênia de fixar esses mínimos em termos que visem não só a prevenção das mesmas transgressões como facilitar ou eliminar o consequente apuramento processual;
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pescas e da Marinha Mercante, ao abrigo do [Decreto-Lei n.º 281/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1975-335771), de 6 de Junho, o seguinte:
+
+1. É suprimido o § único do artigo 194.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, sendo substituído por dois parágrafos com a seguinte redacção:
+
+Art. 194.º ...
+
+§ 1.º Quando uma embarcação for encontrada a exercer a sua actividade sem ter feito matrícula, ou cujo rol de tripulação não tenha validade, o seu proprietário incorrerá em multa que não excederá 10000$00 e cujo mínimo é de 2000$00 por tripulante; o comandante, mestre ou arrais, em multa que não excederá 10000$00 e cujo mínimo será calculado na base de 1000$00 por tripulante, e cada tripulante, em multa de 500$00 a 5000$00.
+
+§ 2.º Nos casos de reincidência e para efeitos de cálculo dos mínimos e máximos das multas aplicáveis, os valores por tripulante referidos no parágrafo anterior são multiplicados por dois, três ou quatro, conforme se trate, respectivamente, de primeira, segunda ou demais reincidências.
+
+2. O artigo 202.º do RIM passa a ter a seguinte redacção:
+
+Art. 202.º Depois de encerrado o contrato de matrícula, nenhum tripulante poderá ser aumentado ou abatido sem que a alteração conste do respectivo rol, devidamente rubricada pela autoridade marítima ou consular, se a houver, sob pena, para o comandante, mestre ou arrais, de multa que não excederá 10000$00 e cujo mínimo é de 1000$00 por tripulante abatido ou aumentado e, para os tripulantes encontrados a bordo não incluídos no rol de matrícula, de multa de 500$00 a 5000$00.
+
+3. É acrescentado ao artigo 202.º do RIM um § único com a seguinte redacção:
+
+Art. 202.º ...
+
+§ único. Nos casos de reincidência e para efeitos de cálculo dos mínimos e máximos das multas aplicáveis, os valores por tripulante são multiplicados por dois, três ou quatro, conforme se trate, respectivamente, de primeira, segunda ou demais reincidências.
+
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 23 de Julho de 1976. - O Secretário de Estado das Pescas, Pedro Amadeu dos Santos Coelho. - O Secretário de Estado da Marinha Mercante, Fernando Grilo de Lima Pinheiro.

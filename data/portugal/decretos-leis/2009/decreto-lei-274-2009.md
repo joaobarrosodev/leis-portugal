@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:491203:por
+title: Decreto-Lei n.º 274/2009
+short_title: null
+summary: Regula o procedimento de consulta de entidades, públicas e privadas, realizado pelo Governo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 274/2009
+official_date: null
+publication_date: '2009-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/2009, Série I de 2009-10-02
+  number: '192'
+  series: I
+  supplement: null
+  pages: 7131 - 7132
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19200/0713107132.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/274/2009/10/02/p/dre/pt/html
+  oj: null
+  dre: '491203'
+  dre_path: /dr/detalhe/decreto-lei/274-2009-491203
+  internal: pt:dre:491203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2009-491203
+  metadata_url: https://data.dre.pt/eli/dec-lei/274/2009/10/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2009-491203
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:09:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6cfda6b8d61afe3823f520c3297ac68000bdf533058129387390c40e91f9237c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Audição do Utente
+- Processo Legislativo
+- Programa Legislar Melhor
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
+- type: cites
+  target: pt:dre:291593:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/185/1994/07/05/p/dre
+- type: cites
+  target: pt:dre:633530:por
+  label: null
+  source: null
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:09:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 274/2009
+
+de 2 de Outubro
+
+O XVII Governo Constitucional está firmemente empenhado na simplificação e na transparência como formas de desburocratizar o Estado e de facilitar a vida dos cidadãos e das empresas, tendo apresentado, no quadro do Programa Legislar Melhor, aprovado pela [Resolução do Conselho de Ministros n.º 63/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2006-633530), de 18 de Maio, um conjunto de medidas em matéria de qualidade, eficiência e exigência dos actos normativos, destinadas a simplificar e tornar mais acessível e transparente aos cidadãos todo o procedimento legislativo.
+
+Entre essas medidas de valorização da cidadania e de promoção da participação democrática está a reformulação do regime das consultas no âmbito do procedimento legislativo, acompanhado da elaboração de um código de boas práticas que estabeleça padrões comuns no envolvimento de entidades públicas e privadas na decisão de legislar.
+
+A participação efectiva dos cidadãos no procedimento de formação dos actos legislativos do Governo, bem como a recolha dos seus contributos noutros documentos relevantes para o País, constitui um instrumento indispensável para o exercício de uma cidadania activa e para o aprofundamento da democracia participativa, enquanto característica fundamental das sociedades abertas.
+
+O Governo assegura, assim, uma forma de os cidadãos poderem participar na resolução dos problemas nacionais mas também de contribuírem para a melhoria da qualidade dos actos normativos.
+
+Em múltiplos diplomas encontra-se prevista a necessidade de consulta de entidades representativas de interesses colectivos ou específicos na preparação de diploma nos quais se cure esses interesses. A metodologia e o regime previstos no [Decreto-Lei n.º 185/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1994-291593), de 5 de Julho, que regulou esta matéria até agora e que ora se revoga, são, deste modo, actualizados e aperfeiçoados.
+
+O presente decreto-lei, em ordem a garantir a certeza e a segurança do direito, vem regular o procedimento de consulta de entidades públicas e privadas, bem como as formalidades que lhes são aplicáveis. Distingue-se entre consulta directa, quando seja consultada directamente uma determinada entidade, e consulta pública, quando sejam consultados os potenciais destinatários dos actos ou diplomas a aprovar ou a consulta seja realizada de forma aberta a todos os cidadãos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente decreto-lei regula o procedimento de consulta formal de entidades, públicas e privadas, realizado pelo Governo, no âmbito da fase de elaboração e instrução dos actos e diplomas sujeitos a aprovação do Conselho de Ministros ou dos membros do Governo.
+
+2 - O presente decreto-lei não prejudica os regimes constitucionais e legais aplicáveis à audição pelo Governo dos órgãos de governo próprio das Regiões Autónomas, à audição das associações representativas dos municípios e das freguesias e à negociação colectiva e participação dos trabalhadores em regime de direito público e de direito privado, bem como outros regimes de consulta legalmente obrigatórios em razão da matéria.
+
+###### Artigo 2.º — Modalidades de consulta
+
+Sem prejuízo do disposto em lei especial, a obrigação de consulta formal pelo Governo de entidades, públicas ou privadas, no decurso do procedimento legislativo, pode ser cumprida mediante consulta directa ou consulta pública.
+
+###### Artigo 3.º — Consulta directa
+
+1 - A consulta directa realiza-se através do envio pelo ministério proponente às entidades, públicas ou privadas, da totalidade ou da parte do projecto de acto ou diploma relativamente ao qual caiba a consulta.
+
+2 - Os projectos de actos ou diplomas sujeitos a consulta directa são remetidos, preferencialmente, aos respectivos destinatários através de meios electrónicos.
+
+3 - O pedido de consulta directa deve indicar, quando aplicável, a base jurídica que determina a sua realização, a data limite para a entidade consultada se pronunciar, bem como referir o endereço de correio electrónico ou a morada para onde deve ser remetido o parecer ou os contributos da entidade consultada.
+
+4 - Nos casos de consulta directa obrigatória, tem lugar nova consulta quando, após uma audição, forem introduzidas alterações no projecto de diploma que o tornem substancialmente diferente ou inovatório.
+
+###### Artigo 4.º — Prazo da consulta directa
+
+1 - O prazo para a pronúncia da entidade consultada é de 10 dias consecutivos, quando outro prazo não seja indicado no pedido de consulta directa.
+
+2 - O prazo referido no número anterior pode ser prolongado, a pedido da entidade consultada, quando a complexidade da matéria o exigir, desde que não resulte qualquer inconveniente para o procedimento legislativo em curso, ou encurtado, em caso de urgência manifesta devidamente fundamentada.
+
+3 - Em caso de prolongamento do período da consulta, deve a entidade responsável pela consulta notificar a entidade consultada da aceitação do pedido e da nova data limite para esta se pronunciar.
+
+4 - O disposto no presente artigo não prejudica a aplicação de regimes especiais previstos na lei.
+
+###### Artigo 5.º — Consulta pública
+
+1 - A consulta pública realiza-se através da divulgação pública no Portal do Governo, por período de tempo determinado, da totalidade ou da parte do projecto de acto ou diploma relativamente ao qual caiba a consulta.
+
+2 - Pode, a título complementar, a consulta pública ser realizada em sítio na Internet da responsabilidade do ministério proponente.
+
+3 - O período da consulta pública deve ser adequado à complexidade da matéria regulada no acto ou diploma sujeito a consulta.
+
+4 - A consulta pública compreende a disponibilização do projecto de acto ou diploma sujeito a consulta, acompanhado de uma nota explicativa do mesmo, da legislação conexa aplicável e de outros documentos relevantes, sendo assegurada a possibilidade de participação directamente através do Portal do Governo, mediante formulário próprio.
+
+5 - Cabe ao ministério proponente assegurar a recolha, o tratamento e análise dos contributos remetidos no âmbito da consulta pública, sem prejuízo da respectiva articulação com a Presidência do Conselho de Ministros no decurso do procedimento legislativo.
+
+6 - A adopção da modalidade de consulta pública não dispensa a consulta directa das entidades cuja consulta se encontre legalmente prevista.
+
+###### Artigo 6.º — Referência às entidades consultadas
+
+1 - Os actos e diplomas aprovados pelo Governo cujos projectos tenham sido objecto de consulta directa contêm, na parte final do respectivo preâmbulo ou da exposição de motivos, referência às entidades consultadas e ao carácter obrigatório ou facultativo das mesmas.
+
+2 - No caso de propostas de lei, deve ser enviada cópia à Assembleia da República dos pareceres ou contributos resultantes da consulta directa às entidades cuja consulta seja constitucional ou legalmente obrigatória e que tenham sido emitidos no decurso do procedimento legislativo do Governo.
+
+###### Artigo 7.º — Código de boas práticas
+
+O Governo adopta, através de um código de boas práticas a aprovar por deliberação do Conselho de Ministros, normas complementares ao disposto no presente decreto-lei, aptas a assegurar a eficácia do procedimento de consulta formal de entidades, públicas e privadas, realizado pelo Governo.
+
+###### Artigo 8.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 185/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1994-291593), de 5 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 13 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Jorge Lacão Costa.
+
+Promulgado em 22 de Setembro de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 23 de Setembro de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,972 @@
+---
+schema_version: '1.0'
+id: pt:dre:521010:por
+title: Decreto-Lei n.º 160/2007
+short_title: null
+summary: Cria e aprova os Estatutos do OPART - Organismo de Produção Artística, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 160/2007
+official_date: null
+publication_date: '2007-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2007, Série I de 2007-04-27
+  number: '82'
+  series: I
+  supplement: null
+  pages: 2779 - 2786
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/27792786.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-10-18'
+version_history:
+  file: decreto-lei-160-2007.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-10'
+    amending: pt:dre:174867:por
+    amending_title: Decreto-Lei n.º 208/2012
+    changes:
+    - Revoga Diploma
+  - date: '2013-03-12'
+    amending: pt:dre:258755:por
+    amending_title: Decreto-Lei n.º 36/2013
+    changes:
+    - Repoe em Vigor Diploma
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Repoe em Vigor Diploma
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Repoe em Vigor Diploma
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Repoe em Vigor Diploma
+  - date: '2023-10-18'
+    amending: pt:dre:222877159:por
+    amending_title: Decreto-Lei n.º 95/2023
+    changes:
+    - Adita Artigo 17.º-A
+    - Altera Artigo 8.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/160/2007/p/cons/20231017/pt/html
+  oj: null
+  dre: '521010'
+  dre_path: /dr/detalhe/decreto-lei/160-2007-521010
+  internal: pt:dre:521010:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2007-521010
+  metadata_url: https://data.dre.pt/eli/dec-lei/160/2007/p/cons/20231017/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-223045398
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-223045398
+  retrieved_at: '2026-10-22T12:59:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8a599b02efa6fdd128193f723610f7ca841806e8a712aa7995f09ffa1e6e601e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:59:55Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-160-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auditório Nacional Carlos Alberto
+- Autonomia Patrimonial
+- Fiscal Único
+- Capital Social
+- Opart
+- Conselho de Administração
+- Contrato Programa
+- Definição de Competências
+- Estatuto
+- Integração de Trabalhadores
+- Companhia Nacional de Bailado
+- Orgânica
+- Órgãos Sociais
+- Orquestra Sinfónica Portuguesa
+relationships:
+- type: amended_by
+  target: pt:dre:174867:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867
+  date: '2012-09-07'
+- type: amended_by
+  target: pt:dre:258755:por
+  label: Repoe em Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755
+  date: '2013-03-11'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Repoe em Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Repoe em Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Repoe em Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:222877159:por
+  label: Adita Artigo 17.º-A; Altera Artigo 8.º; Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 12.º;
+    Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159
+  date: '2023-10-17'
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:209019:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/1998/04/03/p/dre
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:652773:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/245/1997/09/18/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+article_structure:
+  article_count: 39
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:59:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 160/2007
+
+Decreto-Lei n.º 160/2007
+
+de 27 de Abril
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 215/2006, de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Cultura, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+A perda da autonomia financeira dos institutos públicos de produção artística revelou-se inadequada ao cabal exercício da sua missão, o que recomenda a sua transformação em entidades públicas empresariais. Na verdade, a dinâmica da produção artística e a optimização dos recursos humanos e materiais que lhe são afectos, a definição e a concretização de estratégias de alcance plurianual que permitam assegurar níveis de excelência na criação e difusão artísticas, nas oportunidades geradas para a profissionalização e aperfeiçoamento de artistas e intérpretes, na captação e formação de novos públicos, na descentralização cultural e na internacionalização da cultura portuguesa, pressupõem instrumentos de gestão empresarial, sem os quais não é possível promover a sustentabilidade dos projectos e o efeito reprodutivo do investimento, na sua dupla dimensão cultural e económico-financeira.
+
+Com identidades bem marcadas, o Teatro Nacional de São Carlos e a Companhia Nacional de Bailado desempenham ambas a sua missão de serviço público na área de intersecção entre a música e o teatro. Orquestra, coro, cenografia, técnica de cena, música vocal ou instrumental, dança, correpetição ao piano, são exemplos de componentes necessárias, em maior ou menor grau, para a produção tanto da ópera como do bailado, entendidos como teatro musical no sentido mais lato do termo. Por outro lado, o movimento de inovação em curso nas áreas músico-teatrais aponta cada vez mais para a transdisciplinaridade, agregando contributos artísticos heterogéneos. Criar condições para uma melhor articulação dos recursos humanos e materiais disponíveis, aumentando a eficiência da sua utilização ao serviço de ambos os projectos, mas sem prejuízo das suas respectivas identidades artísticas, é o objectivo da reunião do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado num única entidade pública empresarial, OPART, E. P. E., operada no âmbito do Plano de Reforma da Administração Central do Estado e prevista na Lei Orgânica do Ministério da Cultura, aprovada pelo Decreto-Lei n.º 215/2006, de 27 de Outubro.
+
+De resto, o Teatro de São Carlos, inaugurado a 30 de Junho de 1793, associou desde o início a ópera e a dança. Em Portugal, a história do bailado está tão indissociavelmente ligada ao Teatro Nacional de São Carlos como a história da ópera. Embora desde meados do século XIX essa coexistência tenha rareado, certo é que foi sendo retomada de forma intermitente e, com maior continuidade, após a reabertura do teatro, no pós-guerra, para temporadas regulares de ópera e de bailado. No Teatro de São Carlos apresentaram-se os Ballets Russes de Diaghilev, estreou-se e actuou regularmente o grupo de bailado Verde Gaio, nasceu o Centro de Estudos de Bailado de Margarida de Abreu em 1956, e constituiu-se em 1977 a Companhia Nacional de Bailado. A separação desta como entidade autónoma data apenas de 1998, mas a consolidação da sua identidade artística, inclusive no plano internacional, acentuou-se desde que fixou residência no Teatro Camões, onde tem contribuído para a fidelização de novos públicos e para a afirmação daquele espaço como «teatro da dança».
+
+Firmemente estabelecidas a autonomia e a identidade artística de ambas as instituições, tanto mais necessário é agora aprofundar a colaboração e a coordenação entre elas. Eis o que se pretende com o OPART, E. P. E., no âmbito da qual o Teatro Nacional de São Carlos e a Companhia Nacional de Bailado continuam, porém, a funcionar como centros de produção autónomos, cada qual dotado da sua própria direcção artística, investida de todos os necessários poderes de superintendência na produção, programação, comunicação e projectos educativos, poderes indispensáveis para o desempenho das suas respectivas competências como garante da coerência e da excelência da actividade artística e da imagem que dela se projecta nacional e internacionalmente. Uma administração comum, compreendendo as duas direcções artísticas, que naquela têm assento, procederá à aprovação dos respectivos planos de actividades e orçamentos plurianuais, ocupar-se-á da gestão financeira e de pessoal, e assegurará a coordenação e complementaridade mais efectivas dos meios disponíveis para uma produção e uma programação de elevada qualidade nas áreas da música, da ópera e da dança. O OPART, E. P. E., visa, deste modo, proporcionar a ambas as unidades de produção condições para o pleno exercício da missão de serviço público que lhes cabe. Longe de se lhes sobrepor ou de as absorver, disponibiliza novos instrumentos de gestão que reforçam as suas respectivas identidades artísticas e operacionalidade.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 215.º, Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532) Revoga o Decreto-Lei n.º 208/2012, de 7 de setembro, repristinando, entre outros, o presente Decreto-Lei.
+
+> Nota: [Artigo 259.º, Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527) Durante o ano de 2015, fica suspensa a aplicação do Decreto-Lei n.º 208/2012, de 7 de setembro, sendo repristinado, entre outros, o presente Decreto-Lei.
+
+> Nota: [Artigo 258.º, Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404) Durante o ano de 2014, fica suspensa a aplicação do Decreto-Lei n.º 208/2012, de 7 de setembro, sendo repristinado, entre outros, o presente Decreto-Lei.
+
+> Nota: [Artigo 78.º, Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755) Durante o ano de 2013, fica suspensa a aplicação do Decreto-Lei n.º 208/2012, de 7 de setembro, sendo repristinado, entre outros, o presente Decreto-Lei.
+
+### Capítulo I — Disposições gerais
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 1.º — Natureza
+
+1 - É criado o Organismo de Produção Artística, Entidade Pública Empresarial, abreviadamente designado por OPART, E. P. E., que integra o Teatro Nacional de São Carlos e a Companhia Nacional de Bailado.
+
+2 - O OPART, E. P. E, reveste a natureza de entidade pública empresarial, nos termos do regime jurídico do sector empresarial do Estado.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 2.º — Regime jurídico aplicável
+
+1 - O OPART, E. P. E., rege-se pelo presente decreto-lei, pelos seus Estatutos, pelos regulamentos internos e, subsidiariamente, pelo regime jurídico do sector empresarial do Estado.
+
+2 - São aprovados os Estatutos do OPART, E. P. E., constantes do anexo ao presente decreto-lei e do qual dele fazem parte integrante.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 3.º — Tutela
+
+O OPART, E. P. E., está sujeito aos poderes de superintendência e tutela dos membros do Governo responsáveis pelas áreas das finanças e da cultura, a exercer conjunta e individualmente, nos termos e para os efeitos previstos nos seus Estatutos e no regime jurídico do sector empresarial do Estado.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 4.º — Autonomia patrimonial
+
+1 - O património próprio do OPART, E. P. E., é constituído pelos bens e direitos por si adquiridos a qualquer título.
+
+2 - O edifício do Teatro Nacional de São Carlos mantém-se no domínio público do Estado e fica afecto ao OPART, E. P. E., a quem cabe suportar todas as despesas de conservação e beneficiação.
+
+3 - O OPART, E. P. E., pode administrar e dispor dos bens que integram o seu património, com as limitações constantes do presente decreto-lei.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 5.º — Prestação de serviços
+
+1 - O OPART, E. P. E., pode exercer acessoriamente outras actividades relacionadas com o seu objecto principal, nomeadamente a prestação de serviços de consultadoria, solicitados ou contratados por entidades públicas ou privadas, nacionais ou estrangeiras.
+
+2 - O OPART, E. P. E., possui, no âmbito das actividades programadas, capacidade editorial própria para reprodução e transmissão dos bens móveis conexos com a actividade formativa e de divulgação, podendo proceder à venda ou por qualquer modo dispor do respectivo produto, assegurando os direitos editoriais ao mesmo referentes.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 6.º — Parcerias
+
+Para a prossecução dos seus objectivos e como forma de potenciar a capacidade de iniciativa e realização da sua estrutura interna, o OPART, E. P. E., pode celebrar com entidades nacionais ou estrangeiras, públicas ou privadas, acordos de colaboração técnico-artística.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 7.º — Órgãos sociais
+
+O OPART, E. P. E., tem como órgãos sociais o conselho de administração e o fiscal único, com as competências fixadas na lei e nos Estatutos.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 8.º — Estrutura orgânica
+
+1 - O OPART, E. P. E., integra obrigatoriamente os diretores artísticos do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado, assim como o diretor dos Estúdios Victor Córdon.
+
+2 - Atendendo à importância das funções de diretor artístico, de excecional interesse público e essenciais ao regular funcionamento do OPART, E. P. E., bem como às condições específicas em que os profissionais de bailado clássico ou contemporâneo acedem a pensões de reforma ou aposentação, podem candidatar-se e exercer o cargo de diretor artístico da Companhia Nacional de Bailado reformados e aposentados, mediante autorização do membro do Governo responsável pela área da Cultura.
+
+3 - É aplicável às situações previstas no número anterior, em tudo o que não o contrarie, o disposto nos artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+### Capítulo II — Disposições finais e transitórias
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 9.º — Transição de pessoal
+
+1 - Os trabalhadores do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado em regime de contrato individual de trabalho transitam para o OPART, E. P. E., mantendo a mesma situação jurídico-profissional.
+
+2 - Os funcionários que, à data da entrada em vigor do presente decreto-lei, se encontrem destacados, requisitados ou em comissão de serviço no Teatro Nacional de São Carlos ou na Companhia Nacional de Bailado mantêm-se a prestar serviço nessas situações até ao termo do respectivo destacamento, requisição ou comissão de serviço, caso tal seja confirmado pelo conselho de administração do OPART, E. P. E.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 10.º — Sucessão
+
+1 - O OPART, E. P. E., sucede automática e globalmente ao Teatro Nacional de São Carlos e à Companhia Nacional de Bailado continuando a personalidade jurídica destes, conservando a universalidade dos bens, direitos e obrigações, integrantes da sua esfera jurídica no momento da transformação.
+
+2 - Em especial, o OPART, E. P. E., sucede na universalidade de direitos e obrigações do mesmo Teatro Nacional de São Carlos e da Companhia Nacional de Bailado, sem necessidade de quaisquer outras formalidades, constituindo para esse efeito o presente decreto-lei título bastante.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 11.º — Titulares dos órgãos sociais
+
+Os actuais órgãos dirigentes mantêm-se transitoriamente investidos nas competências atribuídas até à data da nomeação dos titulares dos órgãos sociais do OPART, E. P. E.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 12.º — Regulamento interno
+
+O conselho de administração do OPART, E. P. E, elabora e remete ao membro do Governo responsável pela área da cultura para aprovação, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei, o regulamento interno do OPART, E. P. E.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 13.º — Estatutos
+
+A transformação operada pelo artigo 1.º bem como os Estatutos agora aprovados não carecem de redução a escritura pública, sendo título bastante para efeitos constitutivos e registrais a sua publicação no Diário da República.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 14.º — Contrato-programa
+
+1 - O contrato-programa a que se refere o n.º 4 do artigo 2.º dos Estatutos tem duração trienal e define os direitos e as obrigações do OPART, E. P. E.
+
+2 - A título excepcional, o primeiro contrato-programa é celebrado no prazo de 120 dias a contar da entrada em vigor do presente decreto-lei, terá a duração de dois anos e vigorará para os anos de 2008 e 2009.
+
+3 - Com a entrada em vigor do presente decreto-lei e a nomeação dos órgãos sociais do OPART, E. P. E., opera, nos termos do n.º 1 do artigo 7.º da Lei n.º 53-A/2006, de 29 de Dezembro, a transformação dos saldos orçamentais do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado em transferências correntes e de capital, que suportam as despesas de funcionamento até 31 de Dezembro de 2007.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 15.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 245/97, de 18 de Setembro;
+
+b) O Decreto-Lei n.º 88/98, de 3 de Abril.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Maria Isabel da Silva Pires de Lima.
+
+Promulgado em 23 de Abril de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 24 de Abril de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+## Anexo — ESTATUTOS DO ORGANISMO DE PRODUÇÃO ARTÍSTICA, E. P. E.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+### Capítulo I — Disposições gerais
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 1.º — Natureza, denominação, duração e sede
+
+1 - O Organismo de Produção Artística, E. P. E., abreviadamente designado por OPART, E. P. E., é uma entidade pública empresarial dotada de autonomia administrativa, financeira e patrimonial.
+
+2 - O OPART, E. P. E., é constituído por tempo indeterminado.
+
+3 - A sede social do OPART, E. P. E. é em Lisboa.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 2.º — Objecto
+
+1 - O OPART, E. P. E., prossegue fins de interesse público e tem por objecto a prestação de serviço público na área da cultura músico-teatral, compreendendo designadamente a música, a ópera e o bailado.
+
+2 - O Teatro Nacional de São Carlos e a Companhia Nacional de Bailado constituem projectos artísticos autónomos, com identidade própria, sem prejuízo da coordenação, articulação e partilha dos meios pessoais e materiais de produção e programação no âmbito do OPART, E. P. E.
+
+3 - O serviço público prestado pelo OPART, E. P. E., através do Teatro Nacional de São Carlos, compreende nomeadamente:
+
+a) A promoção de um elevado nível artístico e técnico da Orquestra Sinfónica Portuguesa, do Coro do Teatro Nacional de São Carlos e do restante pessoal afecto à produção músico-teatral;
+
+b) A programação de espectáculos e outras actividades culturais, designadamente nos campos da ópera, da música sinfónica, e coral-sinfónica, que contribuam para ampliar e aprofundar a relação com a comunidade, elevando os padrões de exigência crítica do público;
+
+c) O reforço da relação com o território nacional, afirmando a sua identidade e missão de teatro nacional;
+
+d) A promoção da internacionalização, tanto através de co-produções como através da valorização da produção própria, visando a afirmação de um projecto ou de uma identidade artística susceptíveis de projecção e de potencial atractivo internacionais;
+
+e) A criação e manutenção de um estúdio de ópera que proporcione oportunidades de profissionalização a jovens artistas e técnicos e se constitua como pólo de inovação no repertório, na prática de encenação e de representação, incluindo produção músico-teatral em língua portuguesa;
+
+f) A formação de novos públicos, designadamente através de produções itinerantes e de um programa educativo, sobretudo dirigido ao público infanto-juvenil;
+
+g) A preservação da herança cultural, recuperando e divulgando o património músico-teatral de origem nacional ou conservado em Portugal;
+
+h) A encomenda a autores portugueses de novas obras musicais ou músico-teatrais e a sua produção ou programação;
+
+i) A celebração de protocolos de cooperação, no âmbito da produção e da programação, com outros organismos de produção artística;
+
+j) A difusão das actividades através de meios radiofónicos e televisivos bem como de publicações impressas e registos fonográficos e videográficos;
+
+k) O estímulo à pesquisa, difusão e animação de informação documental, especializada nas áreas musical e músico-teatral, no quadro das novas tecnologias de informação e comunicação;
+
+l) A preservação dos acervos históricos e artísticos e valorização da memória da ópera, investigando, expondo ou musealizando testemunhos da atividade desenvolvida desde a fundação do teatro;
+
+m) Assegurar uma prática que promova a sustentabilidade, a acessibilidade e a inclusão, priorizando uma lógica de relação e proximidade na ação.
+
+4 - O serviço público prestado pelo OPART, E. P. E., através da Companhia Nacional de Bailado, compreende nomeadamente:
+
+a) A promoção de um elevado nível artístico e técnico da Companhia Nacional de Bailado e do restante pessoal afecto à produção músico-teatral no Teatro Camões;
+
+b) A programação de espectáculos e outras actividades culturais, designadamente nos campos da música e da dança, que contribuam para ampliar e aprofundar a relação com a comunidade, elevando os padrões de exigência crítica do público;
+
+c) O reforço da relação com o território nacional, afirmando a sua identidade e missão de companhia nacional;
+
+d) A promoção da internacionalização, tanto através de co-produções como através da valorização da produção própria, visando a afirmação de um projecto ou de uma identidade artística susceptíveis de projecção e de potencial atractivo internacionais;
+
+e) O treino continuado dos bailarinos profissionais que integram a Companhia, na base da formação clássica, sem prejuízo da abertura à inovação no repertório, na dança e na criação coreográfica, e a manutenção de um estúdio de bailado que proporcione oportunidades de captação e formação de jovens artistas;
+
+f) A formação de novos públicos, designadamente através de produções itinerantes e de um programa educativo, sobretudo dirigido ao público infanto-juvenil;
+
+g) A preservação da herança cultural, recuperando e divulgando o repertório de bailado clássico, romântico e moderno, bem como o repertório de origem nacional ou conservado em Portugal;
+
+h) A encomenda a músicos e coreógrafos portugueses de novas criações e a sua produção ou programação;
+
+i) A celebração de protocolos de cooperação, no âmbito da produção e da programação, com outros organismos de produção artística;
+
+j) A difusão das actividades através de meios radiofónicos e televisivos bem como de publicações impressas e registos fonográficos e videográficos;
+
+k) O estímulo à pesquisa, difusão e animação de informação documental, especializada na área do bailado, no quadro das novas tecnologias de informação e comunicação;
+
+l) A preservação e valorização da memória própria, expondo ou musealizando testemunhos históricos do bailado em Portugal.
+
+5 - O serviço público prestado pelo OPART, E. P. E., através dos Estúdios Victor Córdon (EVC) compreende nomeadamente:
+
+a) A promoção do apoio à comunidade artística independente através de uma programação que potencie a interdisciplinaridade artística nas artes performativas, com especial enfoque na dança;
+
+b) A promoção da criação artística, da experimentação, da produção, da prática, da investigação e do debate nas artes performativas e na sua transversalidade;
+
+c) O apoio a intérpretes, criadores, agentes culturais e estruturas artísticas de todo o país, contribuindo para a colaboração entre artistas e estruturas do setor;
+
+d) A potenciação da criação artística, enquanto espaço de residências artísticas e de trabalho para profissionais das artes performativas;
+
+e) A promoção, no âmbito dos seus programas, da apresentação pública de espetáculos, com especial enfoque no diálogo intercultural e transversalidade artística;
+
+f) O incentivo à experimentação, consolidação e aprofundamento de práticas do corpo que promovam a formação e o desenvolvimento técnico de intérpretes;
+
+g) A contribuição para o lançamento e consolidação de carreiras de intérpretes e criadores das artes performativas no panorama contemporâneo, captando e formando novos públicos, elevando os seus padrões de excelência e promovendo a sua internacionalização;
+
+h) A valorização da dimensão pedagógica, nomeadamente através da colaboração com escolas do ensino artístico especializado (básico e secundário) e com o ensino superior artístico a nível nacional e internacional;
+
+i) O desenvolvimento de projetos em parceria, cooperação ou coprodução com organismos de produção artística congéneres, nacionais ou internacionais, que permitam a circulação e internacionalização, contribuindo assim para a descentralização cultural e diminuição de assimetrias regionais;
+
+j) A promoção da cooperação com outras instituições, nacionais e internacionais, com especial enfoque no diálogo intercultural e que respondam estrategicamente à ação do OPART, E. P. E., e dos EVC;
+
+k) A salvaguarda e conservação do património documental e do acervo, facultando o acesso aos cidadãos e ao sector da cultura em particular;
+
+l) A promoção de uma prática que promova a sustentabilidade, a acessibilidade e a inclusão, priorizando uma lógica de relação e proximidade na ação.
+
+6 - O cumprimento, nos termos em que venham a ser definidos, das obrigações previstas no presente artigo e no contrato-programa a celebrar com o OPART, E.P.E., confere-lhe, observados os requisitos legais aplicáveis, o direito a uma indemnização compensatória, de montante a definir anualmente por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 3.º — Legislação aplicável
+
+1 - O OPART, E. P. E., rege-se pelas normas legais que lhe sejam especialmente aplicáveis, pelos presentes Estatutos e respectivos regulamentos de execução, e subsidiariamente pelo regime jurídico do sector empresarial do Estado e demais legislação aplicável às empresas públicas e, na sua falta, pelas normas de direito privado.
+
+2 - A autonomia do OPART, E. P. E., abrange os domínios de programação artística e a escolha de criadores, artistas e técnicos que a asseguram.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 4.º — Capital estatutário
+
+1 - O capital estatutário inicial do OPART, E. P. E., integralmente realizado pelo Estado é de (euro) 2000000.
+
+2 - O capital estatutário só pode ser aumentado ou reduzido por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+### Capítulo II — Órgãos sociais e estrutura orgânica
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 5.º — Órgãos sociais
+
+São órgãos do OPART, E. P. E., com as competências fixadas na lei e nos presentes Estatutos:
+
+a) O conselho de administração;
+
+b) O fiscal único.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 6.º — Estrutura orgânica
+
+A estrutura orgânica do OPART, E. P. E., integra obrigatoriamente o diretor artístico do Teatro Nacional de São Carlos, o diretor artístico da Companhia Nacional de Bailado e o diretor dos EVC.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+#### Secção I — Conselho de administração
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 7.º — Conselho de administração
+
+1 - O conselho de administração é composto pelo presidente e dois vogais.
+
+2 - Os membros do conselho de administração são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas da cultura e das finanças.
+
+3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 8.º — Competências do conselho de administração
+
+1 - Compete ao conselho de administração garantir o cumprimento dos objectivos básicos, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:
+
+a) Elaborar e submeter a aprovação dos membros do Governo responsáveis pelas áreas das finanças e da cultura os planos de actividades anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;
+
+b) Submeter à aprovação dos membros do Governo responsáveis pelas áreas das finanças e da cultura os documentos de prestação de contas, nos termos definidos na lei;
+
+c) Deliberar sobre a realização de empréstimos ou outras operações financeiras, mediante a aprovação dos membros do governo responsáveis pelas áreas das finanças e da cultura, sempre que o seu valor seja superior a 25% do capital estatutário;
+
+d) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do OPART, E. P. E;
+
+e) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;
+
+f) Designar o pessoal para cargos de direcção e chefia;
+
+g) Aprovar o regulamento disciplinar do pessoal, as condições de prestação e disciplina do trabalho;
+
+h) Aprovar e submeter a homologação do membro do Governo responsável pela área da cultura o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
+
+i) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela OPART, E. P. E.;
+
+j) Decidir sobre a admissão e gestão do pessoal, devendo ser ouvidos os directores artísticos, sempre que estiver em causa a área da produção artística;
+
+l) Autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;
+
+m) Exercer a competência em matéria disciplinar prevista na lei;
+
+n) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
+
+o) Aceitar doações, heranças ou legados;
+
+p) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, previstas no plano de investimentos.
+
+2 - O conselho de administração pode, exclusivamente sob proposta do presidente do conselho de administração, delegar as suas competências nos seus membros ou demais pessoal de direcção e chefia, definindo em acta os limites e condições do seu exercício.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 9.º — Presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração:
+
+a) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;
+
+b) Garantir a correcta execução das deliberações do conselho de administração;
+
+c) Submeter a aprovação ou autorização dos membros do Governo competente todos os actos que deles careçam;
+
+d) Representar o OPART, E. P. E., em juízo e fora dele e, em convenção arbitral, podendo designar mandatários para o efeito constituídos;
+
+e) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos;
+
+f) Exercer as competências que lhe sejam delegadas.
+
+2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 10.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne, pelo menos, quinzenalmente e extraordinariamente sempre que convocado pelo presidente ou por solicitação de dois membros do conselho de administração ou do fiscal único, sem prejuízo de fixação pelo conselho de calendário de reuniões com maior frequência.
+
+2 - Os diretores artísticos do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado, assim como o diretor dos EVC, podem participar nas reuniões do conselho de administração relativas a matérias das suas competências, sem direito de voto.
+
+3 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do OPART, E. P. E.
+
+4 - A validade das deliberações depende da presença nas reuniões da maioria dos membros do conselho, não podendo estes abster-se de votar, nem fazê-lo por correspondência ou procuração.
+
+5 - O presidente do conselho de administração tem voto de qualidade.
+
+6 - Devem ser lavradas actas de todas as reuniões, em livro próprio, assinadas por todos os membros do conselho presentes.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 11.º — Vinculação
+
+O OPART, E. P. E., obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 12.º — Estatuto dos membros
+
+1 - Aos membros do conselho de administração aplica-se o estatuto de gestor público.
+
+2 - A remuneração dos membros do conselho de administração do OPART, E. P. E., obedece ao disposto na Resolução do Conselho de Ministros n.º 16/2012, de 14 de fevereiro, e à classificação atribuída pela Resolução do Conselho de Ministros n.º 36/2012, de 26 de março, na sua redação atual.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 13.º — Dissolução do conselho de administração
+
+1 - Por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura pode o conselho de administração ser dissolvido, sem direito a indemnização, nos seguintes casos:
+
+a) Desvio substancial entre os orçamentos e a respectiva execução;
+
+b) Deterioração dos resultados da actividade;
+
+c) Outras situações previstas no estatuto do gestor público.
+
+2 - Não há lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas adequadas para evitar a verificação dos factos referidos no número anterior.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+#### Secção II — Fiscal único
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 14.º — Fiscal único
+
+1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do OPART, E. P. E.
+
+2 - O fiscal único é nomeado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura, escolhido obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por um período de três anos, apenas renovável uma vez.
+
+3 - A remuneração do fiscal único é fixada no despacho referido no número anterior.
+
+4 - O fiscal único tem sempre um suplente, que é igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.
+
+5 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à posse do respectivo substituto.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 15.º — Competências
+
+1 - O fiscal único tem as competências, os poderes e deveres estabelecidos na lei e nestes Estatutos.
+
+2 - Ao fiscal único compete, especialmente:
+
+a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Dar parecer sobre o relatório de gestão do exercício e certificar as contas de gerência;
+
+c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
+
+d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;
+
+e) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;
+
+f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;
+
+g) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;
+
+h) Dar parecer sobre a realização de investimentos e a contracção de empréstimos;
+
+i) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;
+
+j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado.
+
+3 - O fiscal único deve cumprir o seu mandato com independência, isenção e imparcialidade e os seus membros, agentes ou representantes, quando existam, devem observar o dever de estrito sigilo sobre os factos de que tenham conhecimento no exercício das suas funções ou por causa delas.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+#### Secção III — Directores artísticos
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 16.º — Directores artísticos
+
+1 - O Teatro Nacional de São Carlos e a Companhia Nacional de Bailado dispõem cada um de um director artístico.
+
+2 - Os directores artísticos são responsáveis pela elaboração da programação respectivamente do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado, bem como pela sua execução, após a aprovação pelo conselho de administração.
+
+3 - Os diretores artísticos são designados por despacho do membro do Governo responsável pela área da cultura, após conclusão de concurso para o efeito, sem prejuízo do disposto no n.º 10.
+
+4 - Para efeitos do disposto no número anterior, o membro do Governo responsável pela área da cultura aprova, por despacho, sob proposta do conselho de administração do OPART, E. P. E.:
+
+a) A carta de missão para o mandato do diretor artístico;
+
+b) O perfil pretendido para o cargo;
+
+c) Os elementos que compõem o júri de seleção;
+
+d) A remuneração a auferir pelos elementos que compõem o júri;
+
+e) O regulamento do concurso.
+
+5 - Para efeitos do disposto na alínea c) do número anterior, o júri deve ser composto por três ou cinco elementos, dele fazendo parte, obrigatoriamente, o presidente do conselho de administração do OPART, E. P. E., que preside, e, quando o júri seja composto por cinco elementos, um dos vogais do conselho de administração do OPART, E. P. E.
+
+6 - Os directores artísticos exercem a sua actividade em regime de exclusividade.
+
+7 - Excepcionalmente, e mediante autorização do membro do Governo responsável pela área da cultura, o director artístico pode acumular transitória e pontualmente outros projectos artísticos fora do OPART, E. P. E.
+
+8 - O mandato dos diretores artísticos tem a duração de quatro anos, podendo ser renovado sem necessidade de concurso, até duas vezes, por iguais períodos, por despacho do membro do Governo responsável pela área da cultura, após proposta fundamentada do conselho de administração do OPART, E. P. E., emitida com a antecedência mínima de nove meses antes do termo do mandato em curso.
+
+9 - Salvo casos excecionais, devidamente fundamentados, o mandato dos diretores artísticos deve iniciar-se a 1 de janeiro de cada ano civil.
+
+10 - Em caso de renúncia do diretor artístico ou de vacatura do cargo antes da data prevista para o termo do mandato, os diretores artísticos podem ser designados, interinamente e sem concurso, por despacho do membro do Governo responsável pela área da cultura, pelo período máximo de 12 meses, devendo nesse prazo o conselho de administração do OPART, E. P. E., e o membro do Governo responsável pela área da cultura, iniciar e concluir novo concurso, nos termos previstos nos n.os 4 e 5.
+
+11 - Os diretores artísticos do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado são coadjuvados, no exercício das suas funções, cada um, por um adjunto, designado pelo conselho de administração para o período de duração do mandato do respetivo diretor artístico.
+
+12 - A cessação de funções do diretor artístico antes da data prevista para o termo do respetivo mandato determina a cessação de funções do respetivo adjunto.
+
+13 - O conteúdo funcional dos adjuntos é definido pelo conselho de administração do OPART, E. P. E., ouvido o respetivo diretor artístico.
+
+14 - Não podem ser programadas anualmente mais de duas produções pelas quais sejam devidos direitos de autor ao diretor artístico.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+> Retificado pelo/a [Declaração de Rectificação n.º 39-A/2007 - Diário da República n.º 96/2007, 1º Suplemento, Série I de 2007-05-18](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/39-a-2007-596475), produz efeitos a partir de 2007-05-01
+
+###### Artigo 17.º — Competências dos directores artísticos
+
+1 - Compete aos directores artísticos, dentro de cada área:
+
+a) Definir os projetos artísticos que corporizem de forma integrada e coordenada a missão e os objetivos do OPART, E. P. E., para o Teatro Nacional de São Carlos e Companhia Nacional de Bailado;
+
+b) Conceber e submeter à aprovação do conselho de administração a programação anual e plurianual, integrada no quadriénio correspondente ao mandato, e garantir o seu planeamento e execução, em articulação com as unidades artísticas e técnico-artísticas;
+
+c) Acompanhar o desenvolvimento dos projetos que integram a programação, estabelecendo ou supervisionando a constituição de equipas artísticas;
+
+d) Superintender artisticamente o funcionamento e o desenvolvimento da Orquestra Sinfónica Portuguesa e do Coro do Teatro Nacional de São Carlos, em colaboração com os maestros titulares;
+
+e) Definir e propor ao conselho de administração os critérios e métodos de otimização dos recursos artísticos existentes bem como das unidades técnico-artísticas;
+
+f) Articular a programação com as três estruturas existentes e potenciar sinergias entre os corpos artísticos existentes no Teatro Nacional de São Carlos e na Companhia Nacional de Bailado;
+
+g) Realizar prospeção de projetos e oportunidades de colaboração nacional e internacional;
+
+h) Participar com o conselho de administração na elaboração da estratégia de internacionalização, de descentralização e de caráter formativo e educativo;
+
+i) Participar na definição dos requisitos e critérios para a seleção e contratação dos responsáveis e trabalhadores das unidades artísticas e técnico-artísticas;
+
+j) Colaborar na definição de estratégias de comunicação, de mediação e de campanhas de mecenato.
+
+2 - Os projetos artísticos referidos na alínea a) do número anterior devem delinear a programação anual e plurianual, abarcando quer as atividades de produção músico-teatral e de bailado respetivamente, quer as iniciativas e atividades complementares àquelas, nos termos e limites da dotação orçamental atribuída pelo conselho de administração para esse efeito.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 17.º-A — Competências do diretor dos Estúdios Victor Córdon
+
+1 - Compete ao diretor dos EVC:
+
+a) Elaborar e propor ao conselho de administração a programação dos EVC que incorpore de forma integrada e coordenada a missão e os objetivos do OPART, E. P. E.;
+
+b) Conceber e propor ao conselho de administração os planos de atividades anuais e plurianuais da respetiva unidade orgânica;
+
+c) Superintender no funcionamento a equipa administrativa e artística da respetiva unidade orgânica;
+
+d) Coordenar a produção, montagem e exibição de espetáculos;
+
+e) Supervisionar as estratégias de promoção e de comunicação.
+
+2 - Os planos de atividades anuais e plurianuais referidos na alínea b) do número anterior devem abarcar todas as atividades nos termos e limites da dotação orçamental atribuída pelo conselho de administração para esse efeito.
+
+> Aditado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+### Capítulo III — Avaliação, controlo e prestação de contas
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 18.º — Instrumentos de gestão previsional
+
+A gestão financeira e patrimonial do OPART, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
+
+a) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;
+
+b) Orçamento anual de investimento;
+
+c) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;
+
+d) Orçamento anual de tesouraria;
+
+e) Balanço previsional.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 19.º — Contabilidade
+
+O OPART, E. P. E., segue o Plano Oficial de Contabilidade.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 20.º — Deveres de informação
+
+1 - Sem prejuízo do disposto na lei quanto à prestação de informações previstas no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, o conselho de administração do OPART, E. P. E., envia aos membros do Governo responsáveis pelas áreas das finanças e da cultura os seguintes documentos destinados a aprovação:
+
+a) O relatório de gestão e as contas do exercício;
+
+b) A certificação legal de contas e o relatório do revisor oficial de contas;
+
+c) Outros elementos que o conselho de administração julgue adequados à compreensão integral da situação económica e financeira da empresa, da eficiência da gestão e das perspectivas da sua evolução.
+
+2 - O conselho de administração da empresa, ou quem este designar, enviará trimestralmente aos membros do Governo responsáveis pelas áreas das finanças e da cultura um relatório sucinto contendo a descrição da evolução da actividade face ao programado, os eventuais desvios e os controlos efectuados para sua correcção ou diminuição.
+
+3 - O fiscal único enviará trimestralmente aos membros do Governo responsáveis pelas áreas das finanças e da cultura um relatório sucinto sobre a actividade desenvolvida e a situação económica e financeira da empresa.
+
+4 - Os membros do conselho de administração são responsáveis nos termos previstos para os membros do conselho de administração das sociedades comerciais.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 95/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159), em vigor a partir de 2023-10-18
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 21.º — Receitas
+
+1 - Constituem receitas do OPART, E. P. E:
+
+a) Os rendimentos das suas actividades, incluindo os resultantes da venda de bilhetes;
+
+b) Os apoios atribuídos no âmbito do mecenato;
+
+c) As que resultem de remuneração de serviços prestados ao Estado ou a outras entidades públicas e as contrapartidas financeiras obtidas no âmbito de protocolos ou contratos com instituições públicas ou privadas, nacionais ou estrangeiras;
+
+d) O produto da venda de programas, obras bibliográficas ou fonográficas em filmes, vídeos, dispositivos, postais, cartazes, gravuras, serigrafias, obras de arte ou reproduções, bem como todo o tipo de material de merchandising quer de sua produção, quer de terceiros, cuja venda esteja autorizada;
+
+e) O produto de direitos de autor e de direitos conexos;
+
+f) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;
+
+g) Os rendimentos de direitos de que venha a ser detentor, designadamente no âmbito de contratos de gestão, cessão de exploração, arrendamento e outros espaços;
+
+h) As dotações regulares ou extraordinárias, subsídios, comparticipações ou liberalidades atribuídos por quaisquer entidades públicas ou privadas, nacionais ou estrangeiras, incluindo doações, heranças e legados;
+
+i) As receitas provenientes de aplicações financeiras;
+
+j) O produto de subscrições, quotizações ou comparticipações públicas;
+
+l) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, devam pertencer-lhe.
+
+2 - A tabela de preços de bilheteira é aprovada anualmente pelo conselho de administração e submetida a homologação do membro do Governo responsável pela área da cultura.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10
+
+###### Artigo 22.º — Documentos de prestação de contas
+
+Os instrumentos de prestação de contas do OPART, E. P. E., a elaborar anualmente com referência a 31 de Dezembro de cada ano, são, designadamente, os seguintes:
+
+a) Relatório do conselho de administração e proposta de aplicação dos resultados;
+
+b) Relatório sobre a execução anual do plano plurianual de investimentos;
+
+c) Balanço e demonstração de resultados;
+
+d) Anexo ao balanço e demonstração de resultados;
+
+e) Demonstração de fluxos de caixa;
+
+f) Relação dos empréstimos contraídos a médio e longo prazos;
+
+g) Certificação legal de contas;
+
+h) Relatório e parecer do fiscal único.
+
+> Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-01-10

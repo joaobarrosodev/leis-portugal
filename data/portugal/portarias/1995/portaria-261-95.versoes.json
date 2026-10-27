@@ -1,0 +1,754 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174131:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-989257971",
+ "dre_path": "/dr/detalhe/portaria/261-1995-174131",
+ "source_lastmod": "2025-12-17",
+ "versions": [
+  {
+   "date": "1995-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "989246166",
+    "989246167",
+    "989246168",
+    "989246169",
+    "989246170",
+    "989246171",
+    "989246172",
+    "989246173",
+    "989246174",
+    "989371575",
+    "989371576",
+    "989371577",
+    "989371578",
+    "989371579",
+    "989371580",
+    "989371581",
+    "989371582",
+    "989371583",
+    "989371584",
+    "989371585",
+    "989371586",
+    "989371587",
+    "989371588",
+    "989371589",
+    "989371590",
+    "989371591",
+    "989371592",
+    "989371593",
+    "989371594",
+    "989371595",
+    "989371596",
+    "989371597",
+    "989371598",
+    "989371599",
+    "989371600",
+    "989371601",
+    "989371602",
+    "989371603",
+    "989371604",
+    "989371605",
+    "989371606",
+    "989371607",
+    "989371608",
+    "989371609",
+    "989371610",
+    "989371611",
+    "989371612",
+    "989371613",
+    "989371614",
+    "989371615",
+    "989371616",
+    "989371617",
+    "989371618",
+    "989371619",
+    "989371620",
+    "989371621",
+    "989371622",
+    "989371623",
+    "989371624",
+    "989371625",
+    "989371626",
+    "989371627",
+    "989371628",
+    "989371629",
+    "989371630",
+    "989371631",
+    "989371632",
+    "989371633",
+    "989371634"
+   ]
+  },
+  {
+   "date": "1995-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:409099:por",
+     "title": "Declaração de Rectificação n.º 62/95",
+     "published": "1995-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/62-1995-409099"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 25.º"
+   ],
+   "fragments": [
+    "989246166",
+    "989163348",
+    "989163349",
+    "989246167",
+    "989246168",
+    "989246169",
+    "989246170",
+    "989246171",
+    "989246172",
+    "989246173",
+    "989246174",
+    "989371575",
+    "989371576",
+    "989371577",
+    "989371578",
+    "989371579",
+    "989371580",
+    "989371581",
+    "989371582",
+    "989371583",
+    "989371584",
+    "989371585",
+    "989371586",
+    "989371587",
+    "989371588",
+    "989371589",
+    "989371590",
+    "989371591",
+    "989371592",
+    "989371593",
+    "989371594",
+    "989371595",
+    "989371596",
+    "989371597",
+    "989371598",
+    "989371599",
+    "989371600",
+    "989371601",
+    "989371602",
+    "989371603",
+    "989371604",
+    "989371605",
+    "989371637",
+    "989371607",
+    "989371608",
+    "989371609",
+    "989371610",
+    "989371611",
+    "989371612",
+    "989371613",
+    "989371614",
+    "989371615",
+    "989371616",
+    "989371617",
+    "989371618",
+    "989371619",
+    "989371620",
+    "989371621",
+    "989371622",
+    "989371623",
+    "989371624",
+    "989371625",
+    "989371626",
+    "989371627",
+    "989371628",
+    "989371629",
+    "989371630",
+    "989371631",
+    "989371632",
+    "989371633",
+    "989371634"
+   ]
+  }
+ ],
+ "fragments": {
+  "989246166": {
+   "fragment_id": "989257972",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 261/95, de 31 de Março\n\nEm execução do disposto no n.º 1 do artigo 35.º do Decreto Regulamentar n.º 3/88, de 22 de Janeiro:\n\nManda o Governo, pelo Ministro da Saúde, que seja aprovado o Regulamento Interno do Hospital de Sobral Cid, anexo a esta portaria e que dela faz parte integrante."
+  },
+  "989246167": {
+   "fragment_id": "989257973",
+   "type": 1,
+   "heading": "Capítulo I — O Hospital - definição, objectivos e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — O Hospital - definição, objectivos e estrutura"
+  },
+  "989246168": {
+   "fragment_id": "989257974",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\nO Hospital de Sobral Cid, adiante designado por HSC, é uma pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, com a categoria de hospital central especializado."
+  },
+  "989246169": {
+   "fragment_id": "989371475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO HSC é um estabelecimento hospitalar que exerce actividades de saúde nos domínios da psiquiatria e da saúde mental, desenvolvendo funções de assistência, de formação e de investigação."
+  },
+  "989246170": {
+   "fragment_id": "989371476",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nA estrutura do HSC compreende serviços assistenciais, complementares de diagnóstico e terapêutica, operacionais, de gestão e formação."
+  },
+  "989246171": {
+   "fragment_id": "989371477",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços assistenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviços assistenciais\n\n1 - A actividade assistencial do HSC está organizada por serviços que englobam, na sua estrutura, as seguintes áreas funcionais:\n\na) Internamento;\n\nb) Ambulatório e hospital de dia;\n\nc) Intervenção comunitária;\n\nd) Urgência;\n\ne) Terapia ocupacional;\n\nf) Psicologia clínica;\n\ng) Psiquiatria de ligação;\n\nh) Psicoterapia;\n\ni) Serviço social.\n\n2 - A área de internamento é constituída por serviços de psiquiatria geral e de psiquiatria diferenciada; a psiquiatria geral desenvolve-se em quatro serviços de doentes agudos e crónicos; e a psiquiatria diferenciada em dois serviços - psiquiatria forense e tratamento e recuperação de doentes alcoólicos - enquanto se não criarem outros.\n\n3 - O serviço de urgência é, nos termos legais, efectuado no Hospital Geral do Centro Hospitalar de Coimbra."
+  },
+  "989246172": {
+   "fragment_id": "989371478",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de apoio e complementares de diagnóstico e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços de apoio e complementares de diagnóstico e terapêutica\n\nO Hospital dispõe ainda dos seguintes serviços de apoio e complementares de diagnóstico e terapêutica:\n\na) Farmácia;\n\nb) Reabilitação;\n\nc) Laboratório de psicologia;\n\nd) Dietética;\n\ne) Assistência religiosa;\n\nf) Gabinete do utente."
+  },
+  "989246173": {
+   "fragment_id": "989371479",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços de gestão\n\n1 - No âmbito da gestão integram-se os seguintes sectores:\n\na) Sector de planeamento e apoio à gestão;\n\nb) Sector de apoio logístico.\n\n2 - O sector de planeamento e apoio à gestão compreende as seguintes áreas:\n\na) Gestão de pessoal;\n\nb) Gestão financeira;\n\nc) Aprovisionamento;\n\nd) Gestão de doentes e arquivo clínico;\n\ne) Contencioso e apoio técnico jurídico;\n\nf) Informática;\n\ng) Estatística e microfilmagem.\n\n3 - O sector de apoio logístico compreende as seguintes áreas:\n\n3.1 - Instalações e equipamentos:\n\na) Transportes;\n\nb) Jardinagem;\n\nc) Segurança;\n\nd) Manutenção;\n\ne) Oficinas.\n\n3.2 - Lavandaria e tratamento de roupas;\n\n3.3 - Alimentação."
+  },
+  "989246174": {
+   "fragment_id": "989371480",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços de formação\n\nOs serviços de formação englobam os seguintes sectores:\n\na) Biblioteca;\n\nb) Formação permanente;\n\nc) Museu;\n\nd) Acções de natureza científica, cultural e artística."
+  },
+  "989371575": {
+   "fragment_id": "989371481",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização e funcionamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização e funcionamento dos serviços\n\nA organização e o funcionamento dos serviços serão objecto de regulamentação específica."
+  },
+  "989371576": {
+   "fragment_id": "989371482",
+   "type": 1,
+   "heading": "Capítulo II — Enumeração, natureza e competência dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Enumeração, natureza e competência dos órgãos"
+  },
+  "989371577": {
+   "fragment_id": "989371483",
+   "type": 11,
+   "heading": "Artigo 9.º — Enumeração e natureza dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Enumeração e natureza dos órgãos\n\nO HSC compreende os seguintes órgãos:\n\n1) De administração:\n\na) Conselho de administração;\n\nb) Director;\n\nc) Administrador-delegado;\n\n2) De direcção técnica:\n\na) Director clínico;\n\nb) Enfermeiro-director de serviço de enfermagem;\n\n3) De apoio técnico:\n\na) Conselho técnico;\n\nb) Comissão médica;\n\nc) Comissão de enfermagem;\n\nd) Comissão de farmácia e terapêutica;\n\ne) Direcção do internato médico;\n\nf) Comissão de ética médica;\n\ng) Comissão de higiene e segurança hospitalar;\n\nh) Comissão de humanização e qualidade dos serviços;\n\n4) De participação e consulta:\n\na) Conselho geral."
+  },
+  "989371578": {
+   "fragment_id": "989371484",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência genérica dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência genérica dos órgãos\n\n1 - A competência genérica dos vários órgãos do Hospital rege-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - As comissões de ética médica, de higiene e segurança hospitalar, de humanização e qualidade dos serviços de saúde e o gabinete do utente regem-se, respectivamente, pelos Decretos-Leis n.os 97/94, de 9 de Abril, 26/94, de 1 de Fevereiro, pelo despacho do Secretário de Estado da Saúde de 15 de Dezembro de 1992, publicado no Diário da República, 2.ª série, de 16 de Janeiro de 1993, e pelo Despacho ministerial n.º 26/86, publicado no Diário da República, 2.ª série, de 24 de Julho de 1986."
+  },
+  "989371579": {
+   "fragment_id": "989371485",
+   "type": 1,
+   "heading": "Capítulo III — Dos órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos órgãos de administração"
+  },
+  "989371580": {
+   "fragment_id": "989371486",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição, funcionamento, competência, responsabilidade e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição, funcionamento, competência, responsabilidade e mandato\n\nA composição, o funcionamento, a competência, a responsabilidade e o mandato dos órgãos de administração regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371581": {
+   "fragment_id": "989371487",
+   "type": 1,
+   "heading": "Capítulo IV — Dos órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos órgãos de direcção técnica"
+  },
+  "989371582": {
+   "fragment_id": "989371488",
+   "type": 8,
+   "heading": "Secção I — Do director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do director clínico"
+  },
+  "989371583": {
+   "fragment_id": "989371489",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma de nomeação, regime de trabalho, competência, responsabilidade e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Forma de nomeação, regime de trabalho, competência, responsabilidade e mandato\n\nOs requisitos de nomeação, regime de trabalho, competência, responsabilidade e mandato do director clínico regem-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371584": {
+   "fragment_id": "989371490",
+   "type": 11,
+   "heading": "Artigo 13.º — Adjuntos do director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Adjuntos do director clínico\n\nComo órgão de direcção técnica, o director clínico do Hospital poderá ser coadjuvado por um máximo de cinco adjuntos, por si escolhidos e nomeados pelo conselho de administração."
+  },
+  "989371585": {
+   "fragment_id": "989371491",
+   "type": 8,
+   "heading": "Secção II — Do enfermeiro-director de serviço de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do enfermeiro-director de serviço de enfermagem"
+  },
+  "989371586": {
+   "fragment_id": "989371492",
+   "type": 11,
+   "heading": "Artigo 14.º — Forma de nomeação, competência, responsabilidade e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Forma de nomeação, competência, responsabilidade e mandato\n\nA forma de nomeação, a competência, a responsabilidade e o mandato do enfermeiro-director de serviço de enfermagem regem-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371587": {
+   "fragment_id": "989371493",
+   "type": 11,
+   "heading": "Artigo 15.º — Adjuntos do enfermeiro-director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Adjuntos do enfermeiro-director\n\nComo órgão de direcção técnica, o enfermeiro-director é coadjuvado por dois adjuntos, por si escolhidos e nomeados pelo conselho de administração."
+  },
+  "989371588": {
+   "fragment_id": "989371494",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "989371589": {
+   "fragment_id": "989371495",
+   "type": 11,
+   "heading": "Artigo 16.º — Reuniões conjuntas dos órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões conjuntas dos órgãos de direcção técnica\n\n1 - Os órgãos de direcção técnica do HSC devem promover reuniões de trabalho conjuntas, tendo em vista assegurar e desenvolver as condições necessárias à harmonia e eficiência das respectivas áreas funcionais.\n\n2 - As reuniões são convocadas pelo director clínico, por sua iniciativa ou sob proposta do enfermeiro-director de serviço de enfermagem.\n\n3 - As deliberações tomadas nas reuniões conjuntas devem conformar-se com as competências estabelecidas no Decreto Regulamentar n.º 3/88, ou no presente Regulamento para cada um dos órgãos de direcção técnica e de apoio técnico ou para quaisquer cargos de direcção ou coordenação de sectores de actividade e de serviços existentes no Hospital."
+  },
+  "989371590": {
+   "fragment_id": "989371496",
+   "type": 1,
+   "heading": "Capítulo V — Dos órgãos de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Dos órgãos de apoio técnico"
+  },
+  "989371591": {
+   "fragment_id": "989371497",
+   "type": 8,
+   "heading": "Secção I — Do conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do conselho técnico"
+  },
+  "989371592": {
+   "fragment_id": "989371498",
+   "type": 11,
+   "heading": "Artigo 17.º — Composição e competência do conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Composição e competência do conselho técnico\n\n1 - O conselho técnico, presidido pelo director do Hospital, tem a composição e as competências estabelecidas no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - O conselho técnico funciona em plenário, sem prejuízo de, pontualmente e sempre que se revele necessário ou útil, poder funcionar em comissões especializadas, cabendo ao plenário decidir da oportunidade desse modo de funcionamento.\n\n3 - O conselho reúne em plenário sempre que seja convocado pelo seu presidente e, pelo menos, de três em três meses."
+  },
+  "989371593": {
+   "fragment_id": "989371499",
+   "type": 8,
+   "heading": "Secção II — Da comissão médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da comissão médica"
+  },
+  "989371594": {
+   "fragment_id": "989371500",
+   "type": 11,
+   "heading": "Artigo 18.º — Composição e competência da comissão médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Composição e competência da comissão médica\n\n1 - A composição e a competência da comissão médica obedecem ao estabelecido no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - A comissão médica reúne em plenário ordinariamente de seis em seis meses e extraordinariamente sempre que seja convocada pelo seu presidente.\n\n3 - A comissão médica pode funcionar em comissões especializadas, de âmbito restrito, cabendo ao seu presidente decidir da sua constituição, dissolução e modo de funcionamento."
+  },
+  "989371595": {
+   "fragment_id": "989371501",
+   "type": 8,
+   "heading": "Secção III — Da comissão de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da comissão de enfermagem"
+  },
+  "989371596": {
+   "fragment_id": "989371502",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição e competência da comissão de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição e competência da comissão de enfermagem\n\nA composição e a competência deste órgão regem-se integralmente pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371597": {
+   "fragment_id": "989371503",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de farmácia e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da comissão de farmácia e terapêutica"
+  },
+  "989371598": {
+   "fragment_id": "989371504",
+   "type": 11,
+   "heading": "Artigo 20.º — Composição e funcionamento da comissão de farmácia e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição e funcionamento da comissão de farmácia e terapêutica\n\n1 - A comissão de farmácia e terapêutica, presidida pelo director clínico, é constituída por quatro membros, sendo dois deles médicos, a designar pela comissão médica, e os outros técnicos superiores dos serviços farmacêuticos, a designar pelo respectivo sector profissional.\n\n2 - A comissão de farmácia e terapêutica reúne ordinariamente de seis em seis meses e sempre que seja convocada pelo seu presidente."
+  },
+  "989371599": {
+   "fragment_id": "989371505",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da comissão de farmácia e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências da comissão de farmácia e terapêutica\n\nAs competências da comissão de farmácia e terapêutica são as constantes do Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371600": {
+   "fragment_id": "989371506",
+   "type": 8,
+   "heading": "Secção V — Da direcção do internato médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Da direcção do internato médico"
+  },
+  "989371601": {
+   "fragment_id": "989371507",
+   "type": 11,
+   "heading": "Artigo 22.º — Forma de nomeação, composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Forma de nomeação, composição e competência\n\nA forma de nomeação, a composição e a competência da direcção do internato médico regem-se pelo disposto no Regulamento do Internato Complementar, aprovado pela Portaria n.º 416-B/91, de 17 de Maio."
+  },
+  "989371602": {
+   "fragment_id": "989371508",
+   "type": 8,
+   "heading": "Secção VI — Da comissão de ética médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Da comissão de ética médica"
+  },
+  "989371603": {
+   "fragment_id": "989371509",
+   "type": 11,
+   "heading": "Artigo 23.º — Composição e funcionamento da comissão de ética médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Composição e funcionamento da comissão de ética médica\n\n1 - A comissão de ética médica é composta por membros permanentes, nomeados pelo conselho de administração, elegendo de entre si um coordenador, e por membros consultivos, convidados pelo conselho de administração, sob proposta do coordenador da comissão.\n\n2 - São membros permanentes os seguintes elementos do quadro do Hospital:\n\na) Dois médicos, um dos quais provido em lugar de chefe de serviço;\n\nb) Um farmacêutico;\n\nc) Um enfermeiro, com a categoria mínima de enfermeiro-chefe;\n\nd) Um jurista.\n\n3 - Poderão ser convidados elementos com formação em Ciências Sociais e Humanas e Teologia.\n\n4 - A comissão de ética médica funciona em plenário dos seus membros permanentes, reunindo duas vezes por ano e sempre que o coordenador o julgar necessário."
+  },
+  "989371604": {
+   "fragment_id": "989371510",
+   "type": 11,
+   "heading": "Artigo 24.º — Competência da comissão de ética médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competência da comissão de ética médica\n\nÀ comissão de ética médica compete:\n\na) Estudar e dar parecer sobre normas de actuação e arbitragem na relação doente-equipa de saúde-hospital, em particular no que respeita ao sigilo médico;\n\nb) Exercer as competências que legalmente vierem a ser cometidas às comissões de ética no âmbito dos ensaios clínicos de diagnóstico e terapêutica, atentas as normas internacionais definidas pela Organização Mundial de Saúde, as Declarações de Helsínquia I e II, a Declaração do Hawai, as normas da Comunidade Europeia e as normas constantes do Código Deontológico da Ordem dos Médicos;\n\nc) Promover a divulgação, pelos meios julgados adequados, de estudos, documentos ou pareceres de teor ético-deontológico."
+  },
+  "989371605": {
+   "fragment_id": "989371511",
+   "type": 8,
+   "heading": "Secção VII — Da comissão para a humanização e qualidade dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Da comissão para a humanização e qualidade dos serviços"
+  },
+  "989371606": {
+   "fragment_id": "989371512",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição e funcionamento\n\n1 - A comissão para a humanização e qualidade dos serviços é constituída por um médico, um administrador e um enfermeiro, nomeados pelo conselho de administração durante o período do seu mandato.\n\n2 - Os membros da comissão escolherão de entre si o respectivo presidente.\n\n3 - A comissão reúne, ordinariamente uma vez por mês e sempre que convocada pelo seu presidente."
+  },
+  "989371607": {
+   "fragment_id": "989371513",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competência\n\nCompete à comissão para a humanização e qualidade dos serviços:\n\na) Actuar como órgão consultivo e de ligação entre os serviços e o conselho de administração;\n\nb) Promover a execução das acções e medidas preconizadas no programa nacional para a humanização e qualidade do atendimento nos serviços de saúde;\n\nc) Proceder ao levantamento e inventariar as condições reais do Hospital e apresentar propostas de alterações a introduzir, tendo em vista a melhoria da qualidade do serviço e da assistência hospitalar;\n\nd) Elaborar propostas para a melhoria dos cuidados médicos ao nível do desempenho profissional, da utilização dos recursos, da prevenção dos riscos e da satisfação das pessoas envolvidas, nomeadamente os utentes;\n\ne) Apoiar o gabinete do utente e a comissão de higiene e segurança hospitalar;\n\nf) Pronunciar-se, sempre que solicitada pelo director do Hospital, no âmbito das matérias da sua competência."
+  },
+  "989371608": {
+   "fragment_id": "989371514",
+   "type": 8,
+   "heading": "Secção VIII — Da comissão de higiene e segurança hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Da comissão de higiene e segurança hospitalar"
+  },
+  "989371609": {
+   "fragment_id": "989371515",
+   "type": 11,
+   "heading": "Artigo 27.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Composição e funcionamento\n\n1 - A comissão de higiene e segurança hospitalar tem a seguinte composição:\n\na) Coordenador - um médico do quadro do Hospital com a categoria de chefe de serviço;\n\nb) Uma equipa constituída por um administrador hospitalar, um enfermeiro superior, o responsável pelo serviço de instalações e equipamentos e um encarregado geral.\n\n2 - A comissão de higiene e segurança hospitalar reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo coordenador."
+  },
+  "989371610": {
+   "fragment_id": "989371516",
+   "type": 11,
+   "heading": "Artigo 28.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competência\n\nCompete à comissão de higiene e segurança hospitalar:\n\na) Participar na apreciação e verificação do estado das instalações, equipamentos e circuitos de pessoas e bens;\n\nb) Pronunciar-se sobre a qualidade dos anti-sépticos, desinfectantes e demais produtos utilizáveis na limpeza, higiene e segurança do Hospital;\n\nc) Colaborar com o serviço de formação permanente do Hospital na realização de acções de ensino e motivação de pessoal;\n\nd) Zelar pela segurança das instalações e do pessoal."
+  },
+  "989371611": {
+   "fragment_id": "989371517",
+   "type": 1,
+   "heading": "Capítulo VI — Dos órgãos de participação e consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Dos órgãos de participação e consulta"
+  },
+  "989371612": {
+   "fragment_id": "989371518",
+   "type": 8,
+   "heading": "Secção I — Do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do conselho geral"
+  },
+  "989371613": {
+   "fragment_id": "989371519",
+   "type": 11,
+   "heading": "Artigo 29.º — Composição, funcionamento e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Composição, funcionamento e competência\n\nA composição, o funcionamento e a competência do conselho geral regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371614": {
+   "fragment_id": "989371520",
+   "type": 1,
+   "heading": "Capítulo VII — Cargos de direcção e chefia dos serviços de acção médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Cargos de direcção e chefia dos serviços de acção médica"
+  },
+  "989371615": {
+   "fragment_id": "989371521",
+   "type": 11,
+   "heading": "Artigo 30.º — Director de serviço hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Director de serviço hospitalar\n\n1 - O director de serviço hospitalar é nomeado nos termos do Decreto-Lei n.º 73/90, de 6 de Março.\n\n2 - As competências genérica e específica do director de serviço são as constantes dos n.os 2 e 3 do artigo 29.º do citado decreto-lei.\n\n3 - Com salvaguarda do controlo de toda a actividade desenvolvida no respectivo serviço, cada director poderá delegar parte da sua competência nos chefes de serviço hospitalar."
+  },
+  "989371616": {
+   "fragment_id": "989371522",
+   "type": 11,
+   "heading": "Artigo 31.º — Enfermeiro-supervisor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Enfermeiro-supervisor\n\nA competência do enfermeiro-supervisor encontra-se definida no n.º 2 do artigo 8.º do Decreto-Lei n.º 437/91, de 8 de Novembro."
+  },
+  "989371617": {
+   "fragment_id": "989371523",
+   "type": 11,
+   "heading": "Artigo 32.º — Enfermeiro-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Enfermeiro-chefe\n\nA competência do enfermeiro-chefe é a que resulta das disposições conjugadas dos artigos 8.º, n.º 1, do Decreto-Lei n.º 437/91, de 8 de Novembro, e 30.º do Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "989371618": {
+   "fragment_id": "989371524",
+   "type": 1,
+   "heading": "Capítulo VIII — Níveis intermédios de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Níveis intermédios de administração"
+  },
+  "989371619": {
+   "fragment_id": "989371525",
+   "type": 11,
+   "heading": "Artigo 33.º — Centros de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Centros de responsabilidade\n\n1 - Os centros de responsabilidade regem-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, e, à medida que forem sendo criados, serão objecto de regulamentação específica, a submeter a aprovação superior.\n\n2 - A coordenação das actividades dos centros de responsabilidade é confiada a um administrador hospitalar, em quem o administrador-delegado poderá delegar as competências que lhe são próprias neste domínio.\n\n3 - Os centros de responsabilidade deverão dispor de dotação privativa, sem prejuízo da unidade orçamental do Hospital.\n\n4 - Nos termos do disposto no n.º 2 do artigo 32.º do Decreto-Lei n.º 73/90, de 6 de Outubro, e sempre que os serviços que integrem o centro de responsabilidade o permitam, será permitido, nas instalações do Hospital, o exercício de clínica privada pelos médicos que integram os centros de responsabilidade, sem prejuízo do cumprimento do horário normal de serviço, em condições a estabelecer na regulamentação específica do respectivo centro de responsabilidade.\n\n5 - O exercício da actividade privada referida no número anterior, nos termos da legislação aplicável, depende de autorização prévia do conselho de administração, concedida caso a caso, sob proposta do director clínico, ouvidos o director e o administrador do centro de responsabilidade.\n\n6 - As eventuais receitas do exercício da actividade de clínica privada facturadas pelos serviços financeiros do Hospital que revertam a favor deste constituirão, em percentagem a fixar nas regras referidas no n.º 4, receitas privativas do centro de responsabilidade.\n\n7 - As regulamentações específicas referidas no presente artigo constarão de documento a submeter a aprovação ministerial pelo conselho de administração do Hospital e nelas serão definidas as relações entre os centros de responsabilidade e os serviços do Hospital, assim como as condições de funcionamento da clínica privada, nos termos previstos no n.º 4."
+  },
+  "989371620": {
+   "fragment_id": "989371526",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições diversas"
+  },
+  "989371621": {
+   "fragment_id": "989371527",
+   "type": 11,
+   "heading": "Artigo 34.º — Grupos com interesses afins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Grupos com interesses afins\n\n1 - Os funcionários do Hospital poderão organizar-se em comissões ou grupos especialmente afectos a fins culturais, recreativos ou desportivos.\n\n2 - A Casa de Pessoal do Hospital de Sobral Cid, criada em 1986, dotada de estatutos próprios, constitui o primeiro grupo com fins recreativos, culturais e desportivos do Hospital.\n\n3 - O Hospital aceita os contributos de actividades de associações e organizações institucionalizadas, mediante adequados protocolos."
+  },
+  "989371622": {
+   "fragment_id": "989371528",
+   "type": 11,
+   "heading": "Artigo 35.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pessoal\n\n1 - O estatuto do pessoal dirigente do Hospital é o que resulta da aplicação do disposto no Decreto-Lei n.º 323/89, de 26 de Setembro, e do presente Regulamento.\n\n2 - O regime jurídico dos funcionários, agentes e contratados é o que resulta da legislação em vigor para a generalidade dos funcionários, agentes e contratados da Administração Pública e do presente Regulamento."
+  },
+  "989371623": {
+   "fragment_id": "989371529",
+   "type": 11,
+   "heading": "Artigo 36.º — Instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Instruções\n\nO Hospital fará aprovar superiormente e publicará, pelos meios que considere adequados, as instruções que se revelem necessárias ao bom funcionamento da instituição, dirigidas aos seus profissionais, doentes e público."
+  },
+  "989371624": {
+   "fragment_id": "989371530",
+   "type": 1,
+   "heading": "Capítulo X — Dos trabalhadores do Hospital de Sobral Cid",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Dos trabalhadores do Hospital de Sobral Cid"
+  },
+  "989371625": {
+   "fragment_id": "989371531",
+   "type": 11,
+   "heading": "Artigo 37.º — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direitos e deveres\n\n1 - Aos funcionários, agentes e contratados do HSC são garantidos os direitos e regalias sociais constantes da legislação geral e específica aplicável.\n\n2 - Os trabalhadores do HSC encontram-se obrigados aos deveres gerais dos funcionários e agentes da Administração Pública e aos deveres especiais dos trabalhadores da saúde.\n\n3 - O HSC garantirá, na medida das disponibilidades para o efeito, uma política de formação contínua extensível a todos os sectores profissionais, de forma a assegurar a valorização profissional e pessoal dos seus trabalhadores.\n\n4 - O HSC apoiará, na medida das suas disponibilidades, as iniciativas dos seus trabalhadores que visem a criação de melhores condições de trabalho ou sociais."
+  },
+  "989371626": {
+   "fragment_id": "989371532",
+   "type": 1,
+   "heading": "Capítulo XI — Dos utilizadores do Hospital de Sobral Cid",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Dos utilizadores do Hospital de Sobral Cid"
+  },
+  "989371627": {
+   "fragment_id": "989371533",
+   "type": 11,
+   "heading": "Artigo 38.º — Direitos e deveres dos doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Direitos e deveres dos doentes\n\n1 - O funcionamento do HSC pauta-se pelo primado do doente.\n\n2 - Os direitos e deveres dos utentes dos serviços do HSC constarão de documento a aprovar pelo conselho de administração, adaptado à especificidade do Hospital, sob proposta do director clínico e ouvida a comissão de ética, devendo ser amplamente divulgado entre todos os utilizadores do HSC.\n\n3 - O Hospital deverá garantir as acções que visem simplificar o contacto de doentes, acompanhantes e público em geral com os serviços, fornecer meios de informação e integração, bem como assegurar a dignidade do seu atendimento e estada."
+  },
+  "989371628": {
+   "fragment_id": "989371534",
+   "type": 1,
+   "heading": "Capítulo XII — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Segurança"
+  },
+  "989371629": {
+   "fragment_id": "989371535",
+   "type": 11,
+   "heading": "Artigo 39.º — Protecção e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Protecção e segurança\n\n1 - O Hospital deverá providenciar a organização e manutenção de sistemas e estruturas que visem a higiene, a protecção contra incêndios, acidentes, furtos, depredações e violência, no respeito pelos direitos dos cidadãos e nos termos da legislação aplicável.\n\n2 - Tais medidas não poderão, no entanto, impedir ou dificultar o desejável acesso do público ao Hospital, designadamente das visitas a doentes, matéria que deverá ser regulamentada, no sentido de proporcionar as melhores condições de acesso, com o mínimo de prejuízo para o normal funcionamento dos serviços e dos utentes."
+  },
+  "989371630": {
+   "fragment_id": "989371536",
+   "type": 1,
+   "heading": "Capítulo XIII — Informação interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Informação interna"
+  },
+  "989371631": {
+   "fragment_id": "989371537",
+   "type": 11,
+   "heading": "Artigo 40.º — Informação interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Informação interna\n\n1 - Os órgãos de administração do HSC deverão garantir a existência de sistemas de informação que assegurem o fornecimento de informação pertinente e fiável a todos os níveis de gestão de serviços.\n\n2 - Igualmente, e através da edição de boletins internos, devem assegurar a divulgação de orientações, normas, notícias internas ou externas, garantindo a sua necessária difusão."
+  },
+  "989371632": {
+   "fragment_id": "989371538",
+   "type": 1,
+   "heading": "Capítulo XIV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Disposições finais"
+  },
+  "989371633": {
+   "fragment_id": "989371539",
+   "type": 11,
+   "heading": "Artigo 41.º — Relacionamento com a comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Relacionamento com a comunidade\n\nO HSC privilegiará formas actuantes de convivência com a comunidade em que se integra, designadamente com unidades de saúde, instituições e serviços na área da segurança social, organizações de consumidores, autarquias locais, instituições académicas, escolas de formação profissional e quaisquer outras entidades nacionais e internacionais de interesse público."
+  },
+  "989371634": {
+   "fragment_id": "989371540",
+   "type": 11,
+   "heading": "Artigo 42.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Remissões\n\nAs remissões para os diplomas legais e regulamentares referidos no presente Regulamento considerar-se-ão efectuadas para todos aqueles que venham a regular, no todo ou em parte, as matérias neles contidas."
+  },
+  "989163348": {
+   "fragment_id": "989382397",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Saúde.\n\nAssinada em 2 de Março de 1995.\n\nO Ministro da Saúde, Adalberto Paulo da Fonseca Mendo."
+  },
+  "989163349": {
+   "fragment_id": "989382398",
+   "type": 14,
+   "heading": "Regulamento Interno do Hospital de Sobral Cid",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Regulamento Interno do Hospital de Sobral Cid"
+  },
+  "989371637": {
+   "fragment_id": "989371512",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição e funcionamento",
+   "in_force_from": "1995-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 62/95 - Diário da República n.º 126/1995, 2º Suplemento, Série I-B de 1995-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/62-1995-409099), em vigor a partir de 1995-05-31"
+   ],
+   "markdown": "###### Artigo 25.º — Composição e funcionamento\n\n1 - A Comissão para a Humanização e Qualidade dos Serviços de Saúde é constituída por um médico, um administrador, um técnico de serviço social e um enfermeiro, nomeados pelo conselho de administração durante o período do seu mandato.\n\n2 - Os membros da comissão escolherão de entre si o respectivo presidente.\n\n3 - A comissão reúne, ordinariamente uma vez por mês e sempre que convocada pelo seu presidente.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 62/95 - Diário da República n.º 126/1995, 2º Suplemento, Série I-B de 1995-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/62-1995-409099), em vigor a partir de 1995-05-31"
+  }
+ }
+}

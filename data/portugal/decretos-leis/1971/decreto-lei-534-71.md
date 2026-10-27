@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:632031:por
+title: Decreto-Lei n.º 534/71
+short_title: null
+summary: Cria na Secretaria de Estado da Indústria o Serviço de Apoio ao Investidor
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 534/71
+official_date: null
+publication_date: '1971-12-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 283/1971, Série I de 1971-12-03
+  number: '283'
+  series: I
+  supplement: null
+  pages: 1868 - 1870
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28300/18681870.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '632031'
+  dre_path: /dr/detalhe/decreto-lei/534-1971-632031
+  internal: pt:dre:632031:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1971-632031
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1971-632031
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8780fc5790191fd0fe9f4db6de2c297c798283e2257f4cb5a221aa7de75d45e2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Orgânica
+- Secretaria de Estado da Indústria
+- Serviço de Apoio ao Investidor
+relationships:
+- type: amended_by
+  target: pt:dre:182018:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:411991:por
+  label: "Determinada a integração no Fundo de Fomento Industrial do Serviço de Apoio ao Investidor, pelo DEC LEI.632/73.1973.11.28.MECO,\
+    \ DG.IS [278]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/632-1973-411991
+  date: '1973-11-28'
+- type: amended_by
+  target: pt:dre:407498:por
+  label: "Integrado o Serviço de Apoio ao Investidor no Fundo de Fomento Industrial criado pelo DEC LEI.48/74.14.02.1974.MECO,\
+    \ DG.IS [38] de 14.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1974-407498
+  date: '1974-02-14'
+- type: amended_by
+  target: pt:dre:182018:por
+  label: "Extinto pelo DEC LEI.205/85.1985.06.26.MIE, DR.IS [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1985-182018
+  date: '1985-06-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:21:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 534/71
+
+de 3 de Dezembro
+
+Em conformidade com orientações já anunciadas, encontra-se o Governo empenhado em criar condições favoráveis ao exercício da iniciativa privada no domínio industrial, com os objectivos de renovar a estrutura do sector, promover a expansão da sua produção e reforçar a sua capacidade competitiva. Nesta óptica assume particular relevo a necessidade de acelerar o ritmo de investimento industrial, orientando os capitais para aquelas aplicações que melhor possam assegurar o adequado aproveitamento dos recursos nacionais, o ajustamento da oferta à procura interna e externa e as transformações estruturais decorrentes do processo de desenvolvimento do País.
+
+Experiências internacionais demonstram amplamente que uma tal evolução do investimento industrial poderá ser muito facilitada pela actividade de serviços especializados com a finalidade de promover o interesse pela realização de novos projectos, bem como esclarecer, orientar e auxiliar os investidores actuais ou potenciais. Depois de cuidadosos estudos efectuados por uma empresa de reputação internacional, com longa experiência de organização e avaliação do funcionamento de instituições congéneres em vários países, resolveu o Governo proceder à criação, na Secretaria de Estado da Indústria, de um Serviço de Apoio ao Investidor.
+
+Prevê-se que o Serviço de Apoio ao Investidor agora criado venha a preencher três funções básicas. A primeira função será de promoção, quer através de acções de carácter geral, destinadas a pôr em evidência os factores que caracterizam o favorável clima de investimento prevalecente no País, quer por meio de iniciativas dirigidas a investidores potencialmente interessados em ramos industriais ou projectos específicos.
+
+A segunda função será de assistência ao investidor tanto na fase exploratória dos méritos das chamadas ideias de investimento como na de preparação de projectos, como ainda na de tramitação dos processos a que a realização do investimento possa dar lugar.
+
+A terceira função, com um carácter supletivo a exercer-se na medida estritamente necessária para apoiar o desempenho das duas primeiras, abrangerá aquele mínimo de investigação e de compilação de elementos estatísticos, jurídicos e documentais a que uma instituição desta natureza não pode eximir-se.
+
+A entrada em funcionamento do Serviço de Apoio ao Investidor representa mais um passo na política que vem sendo seguida no sentido de dar à iniciativa privada possibilidades acrescidas de lançar novos empreendimentos e de proceder às readaptações estruturais que as circunstâncias tornam imperiosas.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É criado na Secretaria de Estado da Indústria o Serviço de Apoio ao Investidor, ao qual compete promover o interesse pelo investimento industrial em Portugal, bem como esclarecer, orientar e auxiliar os investidores actuais ou potenciais.
+
+Art. 2.º Cabe ao Secretário de Estado da Indústria a orientação superior das actividades do Serviço de Apoio ao Investidor.
+
+Art. 3.º São atribuições do Serviço de Apoio ao Investidor:
+
+a) Promover, de modo adequado e sistemático, o interesse pelo investimento industrial em Portugal, quer através de uma acção permanente, quer através de acções ocasionais intensivas, a realizar dentro de um planeamento estabelecido de harmonia com as modernas técnicas de relações públicas;
+
+b) Esclarecer os investidores potenciais, portugueses ou estrangeiros, sobre as oportunidades, circunstâncias e vantagens do investimento industrial em Portugal, informando das condições específicas que o afectam, nomeadamente mercados de trabalho, de capital e de produtos, de fornecedores e subcontratantes, legislação aplicável e trâmites processuais;
+
+c) Orientar os investidores, de acordo com as linhas directrizes da política económica do Governo, quanto aos sectores e regiões mais adequadas aos seus desejos, tentando harmonizar estes com aquelas;
+
+d) Facultar aos investidores potenciais os contactos e visitas necessários a um conhecimento directo das realidades portuguesas que interessem à sua decisão de investir;
+
+e) Acompanhar o andamento do processo subsequente à decisão de investir, quer no relativo à sua tramitação legal, quer no aprofundamento dos contactos com as entidades privadas ou públicas que interessem ao lançamento e economia do empreendimento.
+
+Art. 4.º Além das atribuições referidas no artigo anterior, compete também ao Serviço de Apoio ao Investidor apoiar os contactos entre empresas nacionais e estrangeiras, com vista a facilitar a importação de tecnologias modernas, a adopção de novas técnicas de organização e a eventual associação para reforço da dimensão empresarial.
+
+Art. 5.º Para o desempenho das atribuições que lhe são conferidas pelos artigos 3.º e 4.º, incumbe ao Serviço de Apoio ao Investidor:
+
+a) Coligir os elementos de informação respeitantes aos sectores industriais de desenvolvimento prioritário;
+
+b) Compilar os dados estatísticos ou de qualquer outra natureza relativos aos recursos naturais cuja utilização interesse fomentar, bem como os referentes às regiões a desenvolver, incluindo os quantitativos de mão-de-obra e respectiva qualificação disponíveis em cada região;
+
+c) Compilar e manter actualizada a legislação reguladora da instalação de empresas industriais, da concessão de incentivos fiscais ou outros, do trabalho, incluindo a relativa ao emprego de mão-de-obra estrangeira, da importação e exportação de capitais e qualquer outra que interesse ao desempenho das suas atribuições;
+
+d) Estudar os meios de simplificação dos processos administrativos relacionados com o investimento industrial e propor ao Secretário de Estado da Indústria o que tiver por conveniente para tal fim;
+
+e) Divulgar, no País e no estrangeiro, as oportunidades e os elementos favoráveis ao investimento, assim como os benefícios e garantias oferecidos aos investidores;
+
+f) Promover e facilitar os contactos entre empresas nacionais e estrangeiras;
+
+g)Manter contactos permanentes com associações ou organismos patronais nacionais ou estrangeiros.
+
+Art. 6.º - 1. Para o desempenho das suas atribuições o Serviço de Apoio ao Investidor poderá solicitar directamente a colaboração de quaisquer outros serviços dependentes da Secretaria de Estado da Indústria.
+
+2. Os serviços dependentes de outros Ministérios ou Secretarias de Estado deverão pôr à disposição do Serviço de Apoio ao Investidor, pela forma que for acordada entre os Ministros ou Secretários de Estado respectivos e o Secretário de Estado da Indústria, todos os elementos e prestar-lhe toda a colaboração de que ele carecer para o desempenho das suas funções.
+
+Art. 7.º - 1. O pessoal do Serviço de Apoio ao Investidor será o constante do quadro anexo ao presente decreto-lei.
+
+2. Ao director do Serviço poderá ser atribuída uma gratificação, de quantitativo a fixar em despacho dois Ministros das Finanças e da Economia.
+
+Art. 8.º - 1. O director será nomeado por um período de três anos, renovável por uma ou mais vezes.
+
+2. Se a nomeação recair em funcionário público, o cargo será desempenhado em regime de comissão de serviço, a qual poderá ser dada por finda a todo o tempo.
+
+Art. 9.º Mediante proposta do director, aprovada por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria, poderão ser criadas no estrangeiro as delegações que se mostrem necessárias ao desempenho das funções cometidas ao Serviço de Apoio ao Investidor.
+
+Art. 10.º No prazo de noventa dias, a contar da entrada em vigor deste diploma, o director elaborará e submeterá à aprovação do Secretário de Estado da Indústria o regulamento interno do Serviço de Apoio ao Investidor.
+
+Art. 11.º No ano em curso, os encargos derivados da execução deste decreto-lei, com excepção dos vencimentos correspondentes ao pessoal do quadro, serão suportados pela dotação inscrita no artigo 380.º, n.º 2, do orçamento de despesa extraordinária do Ministério da Economia.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+Promulgado em 24 de Novembro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.
+
+Quadro do pessoal a que se refere o artigo 7.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/28300/18681870.pdf)
+
+O Ministro das Finanças e da Economia, João Augusto Dias Rosas.

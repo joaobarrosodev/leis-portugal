@@ -1,0 +1,1008 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R0336:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0336-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2006-03-04",
+   "future": false,
+   "celex": "32006R0336",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a595d0bffcf26051",
+    "5f91786b8e6eefc1",
+    "0019a61dce7e03a3",
+    "fe1799a71d19d707",
+    "2da8cbc7ec3fda52",
+    "c2b2fe257320935c",
+    "31368e545e4a5959",
+    "7b0b524d3ed27541",
+    "9daa790d2b1c5ba9",
+    "3d3c0a429a6608bf",
+    "9671ec175d0cc741",
+    "c614cd4be55fc15e",
+    "71d166437b416938",
+    "b7d9333b3a3d73bd",
+    "ec862f0266e1ea35",
+    "b58cc3898edf033b"
+   ]
+  },
+  {
+   "date": "2008-07-07",
+   "future": false,
+   "celex": "02006R0336-20080707",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0540:por",
+     "title": "REGULAMENTO (CE) N. o 540/2008 DA COMISSÃO de 16 de Junho de 2008",
+     "published": null,
+     "celex": "32008R0540"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 11.º — Alterações",
+    "Altera Artigo 14.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição [Código Internacional de Gestão da Segurança (Código ISM)]",
+    "Adita CÓDIGO INTERNACIONAL DE GESTÃO PARA A SEGURANÇA DA EXPLORAÇÃO DOS NAVIOS E A PREVENÇÃO DA POLUIÇÃO",
+    "Adita [CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)]",
+    "Adita PARTE A — EXECUÇÃO",
+    "Adita 1. Generalidades",
+    "Adita 1.1. Definições",
+    "Adita 1.2. Objectivos",
+    "Adita 1.3. Aplicação",
+    "Adita 1.4. Requisitos funcionais de um sistema de gestão da segurança (SGS)",
+    "Adita 2. Política de segurança e de protecção do ambiente",
+    "Adita 3. Responsabilidades e autoridade da companhia",
+    "Adita 4. Pessoa ou pessoas designadas",
+    "Adita 5. Responsabilidades e autoridade do comandante",
+    "Adita 6. Recursos e pessoal",
+    "Adita 7. Elaboração de planos para as operações de bordo",
+    "Adita 8. Preparação para situações de emergência",
+    "Adita 9. Comunicação e análise de inconformidades, acidentes e ocorrências potencialmente perigosas",
+    "Adita 10. Manutenção do navio e do equipamento",
+    "Adita 11. Documentação",
+    "Adita 12. Verificação, análise e avaliação pela companhia",
+    "Adita PARTE B — CERTIFICAÇÃO E VERIFICAÇÃO",
+    "Adita 13. Certificação e verificação periódica",
+    "Adita 14. Certificação provisória",
+    "Adita 15. Verificação",
+    "Adita 16. Modelos dos certificados",
+    "Adita Apêndice",
+    "Adita Modelos do documento de conformidade, do certificado de gestão da segurança, do documento de conformidade provisório e do certificado provisório de gestão da segurança",
+    "Adita DOCUMENTO DE CONFORMIDADE",
+    "Adita Certificado n.º",
+    "Adita AVERBAMENTO DE VERIFICAÇÃO ANUAL",
+    "Adita CERTIFICADO DE GESTÃO DA SEGURANÇA",
+    "Adita AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+    "Adita DOCUMENTO DE CONFORMIDADE PROVISÓRIO",
+    "Adita CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+    "Adita ANEXO II",
+    "Adita DISPOSIÇÕES DESTINADAS ÀS ADMINISTRAÇÕES E RELATIVAS À APLICAÇÃO DO CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)",
+    "Adita PARTE A — DISPOSIÇÕES GERAIS",
+    "Adita PARTE B — CERTIFICAÇÃO E NORMAS",
+    "Adita 2. Processo de certificação",
+    "Adita 3. Normas de gestão",
+    "Adita 4. Normas de competência",
+    "Adita 5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança"
+   ],
+   "fragments": [
+    "8316e19a1d36c75e",
+    "5f91786b8e6eefc1",
+    "1d47e33b3e889525",
+    "fe1799a71d19d707",
+    "2da8cbc7ec3fda52",
+    "c2b2fe257320935c",
+    "31368e545e4a5959",
+    "7b0b524d3ed27541",
+    "9daa790d2b1c5ba9",
+    "3d3c0a429a6608bf",
+    "9671ec175d0cc741",
+    "2dc0e506aac24e2c",
+    "71d166437b416938",
+    "b7d9333b3a3d73bd",
+    "2d5097bdec7686b1",
+    "d664376e2a8dcecd",
+    "642dd4e59df2ad23",
+    "1b73c8368f6e2111",
+    "13035f79ea80359f",
+    "b882475b9ab17b00",
+    "ea9a1ebe1f35b623",
+    "553f84924d08ca6b",
+    "75f7aa75e9960c98",
+    "8fa65dfc91280071",
+    "bcc30717fb8584fe",
+    "af2799ceec8e061e",
+    "8fe5d0e9565c90f2",
+    "5f6d66629c5f2117",
+    "d03888fb821e90c9",
+    "eeaddf8120c92d14",
+    "ee56dc58cdfb8981",
+    "ba53c9ae4e0a5b21",
+    "e1e13f0d74af3274",
+    "62abb3fb7babc2d1",
+    "cd8f971a1644719c",
+    "5beb6d0879acfc44",
+    "aabb9ecb1004529a",
+    "dbf66184c5abcf88",
+    "e952e2b8e95c22ba",
+    "7f8ea17181285d9a",
+    "fe97d64ad4dcf88b",
+    "ae333fc2d57e1e38",
+    "1e2c1b51269b9db9",
+    "d9b79c37809ebf13",
+    "f9239e3b1630eb9d",
+    "b472a41e995b979c",
+    "b23395a864b99804",
+    "f9239e3b1630eb9d",
+    "ea7191c3c072828c",
+    "7107c62764b0c2d0",
+    "b936b137b4878443",
+    "852174729551523b",
+    "3976a2df4583b59c",
+    "d2fc3243d3a1ac1e",
+    "47e43409cbd2f657",
+    "05fc5060f53b377e",
+    "52d899fe2f367589",
+    "01aed3a0525b9eaf",
+    "c0995145ecada0bb",
+    "c2ccb8c1597541de"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02006R0336-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que se refere ao procedimento de regulamentação com controlo",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Alterações",
+    "Altera 15. Verificação",
+    "Altera CERTIFICADO DE GESTÃO DA SEGURANÇA",
+    "Altera AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+    "Altera CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+    "Altera 5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+    "Altera Notas",
+    "Adita Artigo 12.º — Procedimento de comité",
+    "Suprime Artigo 12.º — Comité"
+   ],
+   "fragments": [
+    "b4c5df6dca2bc22e",
+    "5f91786b8e6eefc1",
+    "1d47e33b3e889525",
+    "fe1799a71d19d707",
+    "2da8cbc7ec3fda52",
+    "c2b2fe257320935c",
+    "31368e545e4a5959",
+    "7b0b524d3ed27541",
+    "9daa790d2b1c5ba9",
+    "3d3c0a429a6608bf",
+    "9671ec175d0cc741",
+    "07837cf1ccfc1394",
+    "7aef66b03549c9d7",
+    "b7d9333b3a3d73bd",
+    "2d5097bdec7686b1",
+    "d664376e2a8dcecd",
+    "642dd4e59df2ad23",
+    "1b73c8368f6e2111",
+    "13035f79ea80359f",
+    "b882475b9ab17b00",
+    "ea9a1ebe1f35b623",
+    "553f84924d08ca6b",
+    "75f7aa75e9960c98",
+    "8fa65dfc91280071",
+    "bcc30717fb8584fe",
+    "af2799ceec8e061e",
+    "8fe5d0e9565c90f2",
+    "5f6d66629c5f2117",
+    "d03888fb821e90c9",
+    "eeaddf8120c92d14",
+    "ee56dc58cdfb8981",
+    "ba53c9ae4e0a5b21",
+    "e1e13f0d74af3274",
+    "62abb3fb7babc2d1",
+    "cd8f971a1644719c",
+    "5beb6d0879acfc44",
+    "aabb9ecb1004529a",
+    "dbf66184c5abcf88",
+    "e952e2b8e95c22ba",
+    "6379e425b8c6701d",
+    "fe97d64ad4dcf88b",
+    "ae333fc2d57e1e38",
+    "1e2c1b51269b9db9",
+    "d9b79c37809ebf13",
+    "f9239e3b1630eb9d",
+    "b472a41e995b979c",
+    "8d7d1719b661a736",
+    "f9239e3b1630eb9d",
+    "c4b64484085ae1ed",
+    "7107c62764b0c2d0",
+    "95985b20c2a4c106",
+    "852174729551523b",
+    "3976a2df4583b59c",
+    "d2fc3243d3a1ac1e",
+    "47e43409cbd2f657",
+    "05fc5060f53b377e",
+    "52d899fe2f367589",
+    "01aed3a0525b9eaf",
+    "29098fac21d3fd49",
+    "01d49a7ae41111af"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02006R0336-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Alterações",
+    "Altera Artigo 12.º — Procedimento de comité",
+    "Altera 15. Verificação",
+    "Altera CERTIFICADO DE GESTÃO DA SEGURANÇA",
+    "Altera AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+    "Altera CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+    "Altera 5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+    "Altera Notas",
+    "Adita Artigo 11.º-A — Exercício da delegação"
+   ],
+   "fragments": [
+    "ef83e4087c83376f",
+    "5f91786b8e6eefc1",
+    "1d47e33b3e889525",
+    "fe1799a71d19d707",
+    "2da8cbc7ec3fda52",
+    "c2b2fe257320935c",
+    "31368e545e4a5959",
+    "7b0b524d3ed27541",
+    "9daa790d2b1c5ba9",
+    "3d3c0a429a6608bf",
+    "9671ec175d0cc741",
+    "c98d46f8f52b7ec9",
+    "fadf43faa04a94a0",
+    "8bed56cb6bd7429d",
+    "b7d9333b3a3d73bd",
+    "2d5097bdec7686b1",
+    "d664376e2a8dcecd",
+    "642dd4e59df2ad23",
+    "1b73c8368f6e2111",
+    "13035f79ea80359f",
+    "b882475b9ab17b00",
+    "ea9a1ebe1f35b623",
+    "553f84924d08ca6b",
+    "75f7aa75e9960c98",
+    "8fa65dfc91280071",
+    "bcc30717fb8584fe",
+    "af2799ceec8e061e",
+    "8fe5d0e9565c90f2",
+    "5f6d66629c5f2117",
+    "d03888fb821e90c9",
+    "eeaddf8120c92d14",
+    "ee56dc58cdfb8981",
+    "ba53c9ae4e0a5b21",
+    "e1e13f0d74af3274",
+    "62abb3fb7babc2d1",
+    "cd8f971a1644719c",
+    "5beb6d0879acfc44",
+    "aabb9ecb1004529a",
+    "dbf66184c5abcf88",
+    "e952e2b8e95c22ba",
+    "a33e049f502da272",
+    "fe97d64ad4dcf88b",
+    "ae333fc2d57e1e38",
+    "1e2c1b51269b9db9",
+    "b492053d228cb13c",
+    "f9239e3b1630eb9d",
+    "b472a41e995b979c",
+    "caac2373f6c9a47a",
+    "f9239e3b1630eb9d",
+    "14412b8da93bb11d",
+    "7107c62764b0c2d0",
+    "1190760b4bbd9bc0",
+    "852174729551523b",
+    "3976a2df4583b59c",
+    "d2fc3243d3a1ac1e",
+    "47e43409cbd2f657",
+    "05fc5060f53b377e",
+    "52d899fe2f367589",
+    "01aed3a0525b9eaf",
+    "048f18eda4f1e970",
+    "d7523010bc2082d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "a595d0bffcf26051": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativo à aplicação do Código Internacional de Gestão da Segurança na Comunidade e que revoga o Regulamento (CE) n.º 3051/95 do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr1-L_2006064PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr2-L_2006064PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) O Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição, a seguir designado «Código ISM», foi adoptado pela Organização Marítima Internacional (OMI) em 1993. O código tornou-se gradualmente obrigatório para a maior parte dos navios que operam no tráfego internacional através da incorporação, aprovada em Maio de 1994, de um capítulo IX intitulado «Gestão para a exploração segura de navios» na Convenção Internacional para a Salvaguarda da Vida Humana no Mar (SOLAS) de 1974.\n\n(2) O Código ISM foi alterado pela OMI através da Resolução MSC.104(73), adoptada em 5 de Dezembro de 2000.\n\n(3) As directrizes para a aplicação do Código ISM pelas administrações foram adoptadas pela Resolução A.788(19) da OMI, de 23 de Novembro de 1995, e subsequentemente alteradas pela Resolução A.913(22), de 29 de Novembro de 2001.\n\n(4) O Regulamento (CE) n.º 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos *ferries roll-on/roll-off* de passageiros (*ferries ro-ro*) [([^3])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr3-L_2006064PT.01000101-E0003), tornou o Código ISM obrigatório a nível da Comunidade a partir de 1 de Julho de 1996 para todos os *ferries ro-ro* de passageiros, independentemente do seu pavilhão, que efectuam serviços regulares, domésticos ou internacionais, a partir de ou para os portos dos Estados-Membros. Este regulamento foi o primeiro passo para assegurar uma aplicação uniforme e coerente do Código ISM em todos os Estados-Membros.\n\n(5) Em 1 de Julho de 1998, o Código ISM tornou-se obrigatório, nos termos do capítulo IX da Convenção SOLAS, para as companhias que exploram navios de passageiros, incluindo embarcações de passageiros de alta velocidade, navios petroleiros, navios químicos, navios de transporte de gás, navios graneleiros e embarcações de carga de alta velocidade, de arqueação bruta igual ou superior a 500 t, no tráfego internacional.\n\n(6) Em 1 de Julho de 2002, o Código ISM tornou-se obrigatório para as companhias que exploram outros navios de carga e unidades móveis de perfuração ao largo, de arqueação bruta igual ou superior a 500 t, no tráfego internacional.\n\n(7) A segurança da vida humana no mar e a protecção do ambiente podem ser reforçadas de forma eficaz mediante a aplicação estrita e obrigatória do Código ISM.\n\n(8) É desejável aplicar directamente o Código ISM aos navios que arvoram pavilhão de um Estado-Membro, bem como aos navios que, independentemente do seu pavilhão, efectuem exclusivamente viagens domésticas ou efectuem serviços regulares de transporte marítimo a partir de ou para portos dos Estados-Membros.\n\n(9) A aprovação de um novo regulamento garantirá, em virtude da sua aplicabilidade directa, a aplicação efectiva do Código ISM, subentendendo-se que cabe aos Estados-Membros decidir se aplicam o Código aos navios, independentemente do seu pavilhão, que operem exclusivamente em zonas portuárias.\n\n(10) Por conseguinte, o Regulamento (CE) n.º 3051/95 deverá ser revogado.\n\n(11) Cada Estado-Membro pode, se considerar que as companhias terão dificuldade em cumprir, na prática, determinadas disposições da parte A do Código ISM para certos navios ou categorias de navios que efectuem exclusivamente viagens domésticas nesse Estado-Membro, estabelecer derrogações totais ou parciais dessas disposições, impondo medidas que garantam um cumprimento equivalente dos objectivos do Código. Os Estados-Membros podem estabelecer processos alternativos de certificação e verificação para esses navios e companhias.\n\n(12) É necessário ter em conta a Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à inspecção pelo Estado do porto [([^4])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr4-L_2006064PT.01000101-E0004).\n\n(13) É também necessário ter em conta a Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas [([^5])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr5-L_2006064PT.01000101-E0005), a fim de definir as organizações reconhecidas para efeitos do presente regulamento, e a Directiva 98/18/CE do Conselho, de 17 de Março de 1998, relativa às regras e normas de segurança para os navios de passageiros [([^6])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr6-L_2006064PT.01000101-E0006), a fim de estabelecer o âmbito de aplicação do presente regulamento no que se refere aos navios de passageiros que efectuam viagens domésticas.\n\n(14) As medidas necessárias à alteração do anexo II serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^7])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr7-L_2006064PT.01000101-E0007).\n\n(15) Atendendo a que os objectivos do presente regulamento, nomeadamente o reforço da gestão da segurança, da segurança da exploração e da prevenção da poluição, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "5f91786b8e6eefc1": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento tem por objecto o reforço da gestão da segurança, da segurança da exploração e da prevenção da poluição, no que respeita aos navios a que se refere o n.º 1 do artigo 3.º, garantindo que as companhias que exploram esses navios cumpram o Código ISM, mediante:\n\na) O estabelecimento, aplicação e adequada manutenção, pelas companhias, de sistemas de gestão da segurança a bordo dos navios e em terra; e\n\nb) O controlo dessas actividades pelas administrações do Estado de pavilhão e do Estado do porto."
+  },
+  "0019a61dce7e03a3": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Código ISM», o Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição, adoptado pela Organização Marítima Internacional (OMI) por meio da Resolução A.741(18) da Assembleia, de 4 de Novembro de 1993, com a redacção que lhe foi dada pela Resolução MSC.104(73) da Comissão de Segurança Marítima, de 5 de Dezembro de 2000, e constante do anexo I do presente regulamento, na sua versão actualizada;\n\n2. «Organização reconhecida», um organismo reconhecido nos termos da Directiva 94/57/CE;\n\n3. «Companhia», o proprietário do navio ou qualquer outra organização ou pessoa, como o gestor de navios ou o afretador em casco nu, que tenha assumido, perante o proprietário, a responsabilidade pela exploração do navio e que, ao fazê-lo, concordou em cumprir todos os deveres e obrigações impostos pelo Código ISM;\n\n4. «Navio de passageiros», um navio, incluindo uma embarcação de alta velocidade, que transporte mais de doze passageiros, ou uma embarcação submersível de passageiros;\n\n5. «Passageiro», qualquer pessoa excepto: a) O comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas a qualquer título, a bordo do navio em serviços que a este digam respeito; e b) As crianças com menos de 1 ano de idade;\n\na) O comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas a qualquer título, a bordo do navio em serviços que a este digam respeito; e\n\nb) As crianças com menos de 1 ano de idade;\n\n6. «Embarcação de alta velocidade», uma embarcação de alta velocidade definida na regra X/1.2 da Convenção SOLAS, na sua versão actualizada. As limitações referidas na alínea f) do artigo 2.º da Directiva 98/18/CE são aplicáveis às embarcações de passageiros de alta velocidade;\n\n7. «Navio de carga», um navio, incluindo uma embarcação de alta velocidade, que não seja um navio de passageiros;\n\n8. «Viagem internacional», uma viagem marítima de um porto de um Estado-Membro ou de outro Estado para um porto situado fora desse Estado, ou vice-versa;\n\n9. «Viagem doméstica», uma viagem em zonas marítimas de um porto de um Estado-Membro para o mesmo ou outro porto desse Estado-Membro;\n\n10. «Serviços regulares de transporte marítimo», uma série de travessias marítimas efectuadas de forma a servir o tráfego entre dois ou mais pontos: a) Segundo um horário publicado; ou b) Com uma regularidade ou frequência tais que formem uma série manifestamente sistemática;\n\na) Segundo um horário publicado; ou\n\nb) Com uma regularidade ou frequência tais que formem uma série manifestamente sistemática;\n\n11. «*Ferry ro-ro* de passageiros», um navio de passageiros de mar na acepção do capítulo II-1 da Convenção SOLAS, na sua versão actualizada;\n\n12. «Embarcação submersível de passageiros», um navio móvel de transporte de passageiros explorado essencialmente debaixo de água e apoiado à superfície, por exemplo por um navio de superfície ou por instalações em terra, para efeitos de monitorização e execução de uma ou mais das seguintes funções: a) Recarga energética; b) Recarga de ar altamente pressurizado; c) Recarga dos meios de sobrevivência;\n\na) Recarga energética;\n\nb) Recarga de ar altamente pressurizado;\n\nc) Recarga dos meios de sobrevivência;\n\n13. «Unidade móvel de perfuração ao largo», um navio capaz de efectuar operações de perfuração destinadas à prospecção ou exploração de recursos do subsolo dos fundos marinhos, tais como hidrocarbonetos líquidos ou gasosos, enxofre ou sal;\n\n14. «Arqueação bruta», a arqueação bruta de um navio determinada nos termos da Convenção Internacional sobre a Arqueação dos Navios de 1969, ou, no caso dos navios que efectuam exclusivamente viagens domésticas e cuja arqueação bruta não tenha sido medida nos termos da referida Convenção, a arqueação bruta de um navio determinada nos termos da regulamentação nacional em matéria de arqueação dos navios."
+  },
+  "fe1799a71d19d707": {
+   "fragment_id": "Artigo 3.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação\n\n1. O presente regulamento é aplicável aos seguintes tipos de navios e às companhias que os exploram:\n\na) Navios de carga e de passageiros que arvorem pavilhão de um Estado-Membro e efectuem viagens internacionais;\n\nb) Navios de carga e de passageiros que efectuem exclusivamente viagens domésticas, independentemente do respectivo pavilhão;\n\nc) Navios de carga e de passageiros que efectuem serviços regulares de transporte marítimo a partir de ou para portos dos Estados-Membros, independentemente do respectivo pavilhão;\n\nd) Unidades móveis de perfuração ao largo que sejam exploradas sob a autoridade de um Estado-Membro.\n\n2. O presente regulamento não é aplicável aos seguintes tipos de navios nem às empresas que os exploram:\n\na) Navios de guerra ou de transporte de tropas e outros navios pertencentes a um Estado-Membro ou por ele explorados, utilizados exclusivamente para serviço público sem fins comerciais;\n\nb) Navios não propulsionados por meios mecânicos, barcos de madeira de construção rudimentar, iates e embarcações de recreio, excepto se forem ou se destinarem a ser tripulados e transportarem, com fins comerciais, mais de doze passageiros;\n\nc) Navios de pesca;\n\nd) Navios de carga e unidades móveis de perfuração ao largo, de arqueação bruta inferior a 500 toneladas;\n\ne) Navios de passageiros, com excepção dos *ferries ro-ro* de passageiros, nas zonas marítimas das classes C e D definidas no artigo 4.º da Directiva 98/18/CE."
+  },
+  "2da8cbc7ec3fda52": {
+   "fragment_id": "Artigo 4.º — Cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cumprimento\n\nOs Estados-Membros devem garantir que todas as companhias que exploram navios abrangidos pelo presente regulamento cumpram as disposições nele previstas."
+  },
+  "c2b2fe257320935c": {
+   "fragment_id": "Artigo 5.º — Requisitos de gestão de segurança",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de gestão de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de gestão de segurança\n\nOs navios abrangidos pelo n.º 1 do artigo 3.º e as companhias que os exploram devem preencher os requisitos da parte A do Código ISM."
+  },
+  "31368e545e4a5959": {
+   "fragment_id": "Artigo 6.º — Certificação e verificação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Certificação e verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificação e verificação\n\nOs Estados-Membros devem, para efeitos de certificação e verificação, cumprir o disposto na parte B do Código ISM."
+  },
+  "7b0b524d3ed27541": {
+   "fragment_id": "Artigo 7.º — Derrogação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Derrogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Derrogação\n\n1. Cada Estado-Membro pode, se considerar que, na prática, as companhias têm dificuldade em cumprir o disposto nos n.^os^ 6, 7, 9, 11 e 12 da parte A do Código ISM para certos navios ou categorias de navios que efectuem exclusivamente viagens domésticas nesse mesmo Estado-Membro, estabelecer derrogações totais ou parciais dessas disposições, impondo medidas que garantam um cumprimento equivalente dos objectivos do Código.\n\n2. Se, na prática, considerarem difícil a aplicação dos requisitos previstos no artigo 6.º, os Estados-Membros podem estabelecer processos alternativos de certificação e verificação para os navios e companhias para os quais tenha sido aprovada uma derrogação nos termos do n.º 1.\n\n3. Nas circunstâncias referidas no n.º 1 e, se for esse o caso, no n.º 2, é aplicável o seguinte procedimento:\n\na) O Estado-Membro em questão deve notificar a Comissão das derrogações e medidas que pretende adoptar;\n\nb) Se no prazo de seis meses a contar da notificação e nos termos do n.º 2 do artigo 12.º for decidido que as derrogações propostas não se justificam, ou que as medidas propostas são insuficientes, será solicitado ao referido Estado-Membro que altere ou não adopte as disposições propostas;\n\nc) Esse Estado-Membro deve tornar públicas quaisquer medidas adoptadas, com referência directa ao n.º 1 e, se for esse o caso, ao n.º 2.\n\n4. Na sequência de uma derrogação nos termos do n.º 1 e, se for esse o caso, do n.º 2, o Estado-Membro deve emitir um certificado nos termos do segundo parágrafo do ponto 5 da parte B do anexo II, indicando as limitações operacionais aplicáveis."
+  },
+  "9daa790d2b1c5ba9": {
+   "fragment_id": "Artigo 8.º — Validade, aceitação e reconhecimento dos certificados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Validade, aceitação e reconhecimento dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Validade, aceitação e reconhecimento dos certificados\n\n1. Os documentos de conformidade são válidos por cinco anos, no máximo, a contar da data de emissão. Os certificados de gestão da segurança são válidos por cinco anos, no máximo, a contar da data de emissão.\n\n2. Em caso de renovação dos documentos de conformidade e dos certificados de gestão da segurança, são aplicáveis as disposições pertinentes da parte B do Código ISM.\n\n3. Os Estados-Membros aceitam os documentos de conformidade, os documentos de conformidade provisórios, os certificados de gestão da segurança ou os certificados provisórios de gestão da segurança emitidos pela administração de qualquer outro Estado-Membro ou por uma organização reconhecida que actue em seu nome.\n\n4. Os Estados-Membros aceitam documentos de conformidade, documentos de conformidade provisórios, certificados de gestão da segurança e certificados provisórios de gestão da segurança emitidos por, ou em nome, das administrações de países terceiros.\n\nNo entanto, para os navios que efectuam serviços regulares de transporte marítimo, a conformidade dos documentos de conformidade, dos documentos de conformidade provisórios, dos certificados de gestão da segurança e dos certificados provisórios de gestão da segurança, emitidos em nome de administrações de países terceiros, com o Código ISM será verificada por qualquer meio adequado pelo ou pelos Estados-Membros em causa ou em seu nome, excepto se tiverem sido emitidos pela administração de um Estado-Membro ou por uma organização reconhecida."
+  },
+  "3d3c0a429a6608bf": {
+   "fragment_id": "Artigo 9.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções\n\nOs Estados-Membros devem estabelecer as regras relativas às sanções aplicáveis em caso de inobservância do presente regulamento e tomar todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "9671ec175d0cc741": {
+   "fragment_id": "Artigo 10.º — Apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação de relatórios\n\n1. Os Estados-Membros apresentam de dois em dois anos à Comissão um relatório sobre a aplicação do presente regulamento.\n\n2. A Comissão deve estabelecer, nos termos do n.º 2 do artigo 12.º, um modelo harmonizado dos relatórios.\n\n3. No prazo de seis meses a contar da recepção dos relatórios dos Estados-Membros, a Comissão deve preparar, com a assistência da Agência Europeia da Segurança Marítima, um relatório consolidado sobre a aplicação do presente regulamento, incluindo, se for caso disso, propostas de medidas. Esse relatório será enviado ao Parlamento Europeu e ao Conselho."
+  },
+  "c614cd4be55fc15e": {
+   "fragment_id": "Artigo 11.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações\n\n1. As alterações do Código ISM podem ser excluídas do âmbito de aplicação do presente regulamento nos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) e que altera determinados regulamentos em vigor no domínio da segurança marítima e da prevenção da poluição por navios [([^8])](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntr8-L_2006064PT.01000101-E0008).\n\n2. As alterações do anexo II devem ser efectuadas nos termos do n.º 2 do artigo 12.º"
+  },
+  "71d166437b416938": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) criado pelo artigo 3.º do Regulamento (CE) n.º 2099/2002.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "b7d9333b3a3d73bd": {
+   "fragment_id": "Artigo 13.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\n1. O Regulamento (CE) n.º 3051/95 do Conselho é revogado com efeitos a partir de 24 de Março de 2006.\n\n2. Os documentos de conformidade provisórios, os certificados provisórios de gestão da segurança, os documentos de conformidade e os certificados de gestão da segurança emitidos antes de 24 de Março de 2006 permanecem válidos até ao termo do seu prazo de validade ou até ao seu averbamento."
+  },
+  "ec862f0266e1ea35": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nEm relação aos navios de carga e de passageiros aos quais ainda não tenha sido exigida a conformidade com o Código ISM, o presente regulamento é aplicável a partir de 24 de Março de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 15 de Fevereiro de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. WINKLER**\n\n---"
+  },
+  "b58cc3898edf033b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc1-L_2006064PT.01000101-E0001) [JO C 302 de 7.12.2004, p. 20](http://publications.europa.eu/resource/oj/JOC_2004_302_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc2-L_2006064PT.01000101-E0002) Parecer do Parlamento Europeu de 10 de Março de 2004 ([JO C 102 E de 28.4.2004, p. 565](http://publications.europa.eu/resource/oj/JOC_2004_102_E_TOC)), Posição Comum do Conselho de 18 de Julho de 2005 ([JO C 264 E de 25.10.2005, p. 28](http://publications.europa.eu/resource/oj/JOC_2005_264_E_TOC)) e Posição do Parlamento Europeu de 13 de Dezembro de 2005 (ainda não publicada no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc3-L_2006064PT.01000101-E0003) [JO L 320 de 30.12.1995, p. 14](http://publications.europa.eu/resource/oj/JOL_1995_320_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2099/2002 ([JO L 324 de 29.11.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc4-L_2006064PT.01000101-E0004) [JO L 157 de 7.7.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_157_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE do Parlamento Europeu e do Conselho ([JO L 324 de 29.11.2002, p. 53](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc5-L_2006064PT.01000101-E0005) [JO L 319 de 12.12.1994, p. 20](http://publications.europa.eu/resource/oj/JOL_1994_319_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc6-L_2006064PT.01000101-E0006) [JO L 144 de 15.5.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_144_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/75/CE da Comissão ([JO L 190 de 30.7.2003, p. 6](http://publications.europa.eu/resource/oj/JOL_2003_190_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc7-L_2006064PT.01000101-E0007) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/55e8988b-fbec-41d7-9323-6597330684a6.0017.03/DOC_1#ntc8-L_2006064PT.01000101-E0008) [JO L 324 de 29.11.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão ([JO L 68 de 6.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_068_R_TOC))."
+  },
+  "8316e19a1d36c75e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativo à aplicação do Código Internacional de Gestão da Segurança na Comunidade e que revoga o Regulamento (CE) n.º 3051/95 do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0002)),\n\n(1) O Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição, a seguir designado «Código ISM», foi adoptado pela Organização Marítima Internacional (OMI) em 1993. O código tornou-se gradualmente obrigatório para a maior parte dos navios que operam no tráfego internacional através da incorporação, aprovada em Maio de 1994, de um capítulo IX intitulado «Gestão para a exploração segura de navios» na Convenção Internacional para a Salvaguarda da Vida Humana no Mar (SOLAS) de 1974.\n\n(2) O Código ISM foi alterado pela OMI através da Resolução MSC.104(73), adoptada em 5 de Dezembro de 2000.\n\n(3) As directrizes para a aplicação do Código ISM pelas administrações foram adoptadas pela Resolução A.788(19) da OMI, de 23 de Novembro de 1995, e subsequentemente alteradas pela Resolução A.913(22), de 29 de Novembro de 2001.\n\n(4) O Regulamento (CE) n.º 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos *ferries roll-on/roll-off* de passageiros (*ferries ro-ro*) ([^3^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0003)), tornou o Código ISM obrigatório a nível da Comunidade a partir de 1 de Julho de 1996 para todos os *ferries ro-ro* de passageiros, independentemente do seu pavilhão, que efectuam serviços regulares, domésticos ou internacionais, a partir de ou para os portos dos Estados-Membros. Este regulamento foi o primeiro passo para assegurar uma aplicação uniforme e coerente do Código ISM em todos os Estados-Membros.\n\n(5) Em 1 de Julho de 1998, o Código ISM tornou-se obrigatório, nos termos do capítulo IX da Convenção SOLAS, para as companhias que exploram navios de passageiros, incluindo embarcações de passageiros de alta velocidade, navios petroleiros, navios químicos, navios de transporte de gás, navios graneleiros e embarcações de carga de alta velocidade, de arqueação bruta igual ou superior a 500 t, no tráfego internacional.\n\n(6) Em 1 de Julho de 2002, o Código ISM tornou-se obrigatório para as companhias que exploram outros navios de carga e unidades móveis de perfuração ao largo, de arqueação bruta igual ou superior a 500 t, no tráfego internacional.\n\n(7) A segurança da vida humana no mar e a protecção do ambiente podem ser reforçadas de forma eficaz mediante a aplicação estrita e obrigatória do Código ISM.\n\n(8) É desejável aplicar directamente o Código ISM aos navios que arvoram pavilhão de um Estado-Membro, bem como aos navios que, independentemente do seu pavilhão, efectuem exclusivamente viagens domésticas ou efectuem serviços regulares de transporte marítimo a partir de ou para portos dos Estados-Membros.\n\n(9) A aprovação de um novo regulamento garantirá, em virtude da sua aplicabilidade directa, a aplicação efectiva do Código ISM, subentendendo-se que cabe aos Estados-Membros decidir se aplicam o Código aos navios, independentemente do seu pavilhão, que operem exclusivamente em zonas portuárias.\n\n(10) Por conseguinte, o Regulamento (CE) n.º 3051/95 deverá ser revogado.\n\n(11) Cada Estado-Membro pode, se considerar que as companhias terão dificuldade em cumprir, na prática, determinadas disposições da parte A do Código ISM para certos navios ou categorias de navios que efectuem exclusivamente viagens domésticas nesse Estado-Membro, estabelecer derrogações totais ou parciais dessas disposições, impondo medidas que garantam um cumprimento equivalente dos objectivos do Código. Os Estados-Membros podem estabelecer processos alternativos de certificação e verificação para esses navios e companhias.\n\n(12) É necessário ter em conta a Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à inspecção pelo Estado do porto ([^4^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0004)).\n\n(13) É também necessário ter em conta a Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas ([^5^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0005)), a fim de definir as organizações reconhecidas para efeitos do presente regulamento, e a Directiva 98/18/CE do Conselho, de 17 de Março de 1998, relativa às regras e normas de segurança para os navios de passageiros ([^6^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0006)), a fim de estabelecer o âmbito de aplicação do presente regulamento no que se refere aos navios de passageiros que efectuam viagens domésticas.\n\n(14) As medidas necessárias à alteração do anexo II serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0007)).\n\n(15) Atendendo a que os objectivos do presente regulamento, nomeadamente o reforço da gestão da segurança, da segurança da exploração e da prevenção da poluição, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "1d47e33b3e889525": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Código ISM», o Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição, adoptado pela Organização Marítima Internacional (OMI) por meio da Resolução A.741(18) da Assembleia, de 4 de Novembro de 1993, com a redacção que lhe foi dada pela Resolução MSC.104(73) da Comissão de Segurança Marítima, de 5 de Dezembro de 2000, e constante do anexo I do presente regulamento, na sua versão actualizada;\n\n2. «Organização reconhecida», um organismo reconhecido nos termos da Directiva 94/57/CE;\n\n3. «Companhia», o proprietário do navio ou qualquer outra organização ou pessoa, como o gestor de navios ou o afretador em casco nu, que tenha assumido, perante o proprietário, a responsabilidade pela exploração do navio e que, ao fazê-lo, concordou em cumprir todos os deveres e obrigações impostos pelo Código ISM;\n\n4. «Navio de passageiros», um navio, incluindo uma embarcação de alta velocidade, que transporte mais de doze passageiros, ou uma embarcação submersível de passageiros;\n\n5. «Passageiro», qualquer pessoa excepto:\n\na) O comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas a qualquer título, a bordo do navio em serviços que a este digam respeito; e\n\nb) As crianças com menos de 1 ano de idade;\n\n6. «Embarcação de alta velocidade», uma embarcação de alta velocidade definida na regra X/1.2 da Convenção SOLAS, na sua versão actualizada. As limitações referidas na alínea f) do artigo 2.º da Directiva 98/18/CE são aplicáveis às embarcações de passageiros de alta velocidade;\n\n7. «Navio de carga», um navio, incluindo uma embarcação de alta velocidade, que não seja um navio de passageiros;\n\n8. «Viagem internacional», uma viagem marítima de um porto de um Estado-Membro ou de outro Estado para um porto situado fora desse Estado, ou vice-versa;\n\n9. «Viagem doméstica», uma viagem em zonas marítimas de um porto de um Estado-Membro para o mesmo ou outro porto desse Estado-Membro;\n\n10. «Serviços regulares de transporte marítimo», uma série de travessias marítimas efectuadas de forma a servir o tráfego entre dois ou mais pontos:\n\na) Segundo um horário publicado; ou\n\nb) Com uma regularidade ou frequência tais que formem uma série manifestamente sistemática;\n\n11. «*Ferry ro-ro* de passageiros», um navio de passageiros de mar na acepção do capítulo II-1 da Convenção SOLAS, na sua versão actualizada;\n\n12. «Embarcação submersível de passageiros», um navio móvel de transporte de passageiros explorado essencialmente debaixo de água e apoiado à superfície, por exemplo por um navio de superfície ou por instalações em terra, para efeitos de monitorização e execução de uma ou mais das seguintes funções:\n\na) Recarga energética;\n\nb) Recarga de ar altamente pressurizado;\n\nc) Recarga dos meios de sobrevivência;\n\n13. «Unidade móvel de perfuração ao largo», um navio capaz de efectuar operações de perfuração destinadas à prospecção ou exploração de recursos do subsolo dos fundos marinhos, tais como hidrocarbonetos líquidos ou gasosos, enxofre ou sal;\n\n14. «Arqueação bruta», a arqueação bruta de um navio determinada nos termos da Convenção Internacional sobre a Arqueação dos Navios de 1969, ou, no caso dos navios que efectuam exclusivamente viagens domésticas e cuja arqueação bruta não tenha sido medida nos termos da referida Convenção, a arqueação bruta de um navio determinada nos termos da regulamentação nacional em matéria de arqueação dos navios."
+  },
+  "2dc0e506aac24e2c": {
+   "fragment_id": "Artigo 11.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações\n\n1. As alterações do Código ISM podem ser excluídas do âmbito de aplicação do presente regulamento nos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) e que altera determinados regulamentos em vigor no domínio da segurança marítima e da prevenção da poluição por navios ([^8^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0008)).\n\n2. As alterações do anexo II devem ser efectuadas nos termos do n.º 2 do artigo 12.º"
+  },
+  "2d5097bdec7686b1": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nEm relação aos navios de carga e de passageiros aos quais ainda não tenha sido exigida a conformidade com o Código ISM, o presente regulamento é aplicável a partir de 24 de Março de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "642dd4e59df2ad23": {
+   "fragment_id": "Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição [Código Internacional de Gestão da Segurança (Código ISM)]",
+   "type": "divisao",
+   "heading": "Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição [Código Internacional de Gestão da Segurança (Código ISM)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição [Código Internacional de Gestão da Segurança (Código ISM)]\n\n| Parte A — Execução |  |\n| --- | --- |\n| 1. | Generalidades |\n| 1.1. | Definições |\n| 1.2. | Objectivos |\n| 1.3. | Aplicação |\n| 1.4. | Requisitos funcionais de um sistema de gestão da segurança (SGS) |\n| 2. | Política de segurança e protecção do ambiente |\n| 3. | Responsabilidades e autoridade da companhia |\n| 4. | Pessoa ou pessoas designadas |\n| 5. | Responsabilidades e autoridade do comandante |\n| 6. | Recursos e pessoal |\n| 7. | Elaboração de planos para as operações de bordo |\n| 8. | Preparação para situações de emergência |\n| 9. | Comunicação e análise de inconformidades, acidentes e ocorrências potencialmente perigosas |\n| 10. | Manutenção do navio e do equipamento |\n| 11. | Documentação |\n| 12. | Verificação, análise e avaliação pela companhia |\n| Parte B — Certificação e verificação |  |\n| 13. | Certificação e verificação periódica |\n| 14. | Certificação provisória |\n| 15. | Verificação |\n| 16. | Modelos dos certificados |"
+  },
+  "1b73c8368f6e2111": {
+   "fragment_id": "CÓDIGO INTERNACIONAL DE GESTÃO PARA A SEGURANÇA DA EXPLORAÇÃO DOS NAVIOS E A PREVENÇÃO DA POLUIÇÃO",
+   "type": "divisao",
+   "heading": "CÓDIGO INTERNACIONAL DE GESTÃO PARA A SEGURANÇA DA EXPLORAÇÃO DOS NAVIOS E A PREVENÇÃO DA POLUIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÓDIGO INTERNACIONAL DE GESTÃO PARA A SEGURANÇA DA EXPLORAÇÃO DOS NAVIOS E A PREVENÇÃO DA POLUIÇÃO"
+  },
+  "13035f79ea80359f": {
+   "fragment_id": "[CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)]",
+   "type": "divisao",
+   "heading": "[CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)]"
+  },
+  "b882475b9ab17b00": {
+   "fragment_id": "PARTE A — EXECUÇÃO",
+   "type": "divisao",
+   "heading": "PARTE A — EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A — EXECUÇÃO"
+  },
+  "ea9a1ebe1f35b623": {
+   "fragment_id": "1. Generalidades",
+   "type": "divisao",
+   "heading": "1. Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Generalidades"
+  },
+  "553f84924d08ca6b": {
+   "fragment_id": "1.1. Definições",
+   "type": "divisao",
+   "heading": "1.1. Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Definições\n\nAs definições que se seguem são aplicáveis às partes A e B do presente código.\n\n1.1.1. «Código Internacional de Gestão da Segurança (Código ISM)»: o Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição, adoptado pela Assembleia, com a redacção que lhe possa vir a ser dada pela Organização.\n\n1.1.2. «Companhia»: o proprietário do navio ou qualquer outra organização ou pessoa, como o gestor de navios ou o afretador em casco nu, que tenha assumido, perante o proprietário, a responsabilidade pela exploração do navio e que, ao fazê-lo, concordou em cumprir todos os deveres e obrigações impostos pelo código.\n\n1.1.3. «Administração»: o Governo do Estado cujo pavilhão o navio está autorizado a arvorar.\n\n1.1.4. «Sistema de gestão da segurança»: um sistema estruturado e documentado que permite ao pessoal da companhia aplicar eficazmente a política da companhia em matéria de segurança e de protecção do ambiente.\n\n1.1.5. «Documento de conformidade»: o documento emitido para as companhias que cumprem o disposto no presente código.\n\n1.1.6. «Certificado de gestão da segurança»: o documento emitido a favor dos navios e que atesta que a companhia e a sua gestão a bordo operam em conformidade com o sistema de gestão da segurança aprovado.\n\n1.1.7. «Prova objectiva»: qualquer informação quantitativa ou qualitativa, registo ou declaração de factos relativos à segurança ou à existência e aplicação de um elemento do sistema de gestão da segurança, baseado em observações, medições ou ensaios e que pode ser verificado.\n\n1.1.8. «Observação»: uma declaração de factos feita por ocasião de uma inspecção da gestão da segurança e suportada por provas objectivas.\n\n1.1.9. «Inconformidade»: uma situação observada e relativamente à qual existem provas objectivas que indicam que não foi cumprida uma exigência específica.\n\n1.1.10. «Inconformidade grave»: uma irregularidade identificável que representa uma ameaça grave para a segurança do pessoal ou do navio ou um risco grave para o ambiente e requer medidas correctivas imediatas, incluindo a não aplicação efectiva e sistemática de uma disposição do presente código.\n\n1.1.11. «Aniversário»: o dia e o mês do ano correspondente à data de expiração do documento ou certificado considerado.\n\n1.1.12. «Convenção»: a Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, na sua versão alterada."
+  },
+  "75f7aa75e9960c98": {
+   "fragment_id": "1.2. Objectivos",
+   "type": "divisao",
+   "heading": "1.2. Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Objectivos\n\n1.2.1. São objectivos do código garantir a segurança no mar e prevenir os danos corporais ou a perda de vidas humanas, assim como evitar danos no ambiente, em particular no meio marinho, e danos materiais.\n\n1.2.2. Os objectivos da companhia a nível da gestão da segurança deverão consistir, nomeadamente, em:\n\n1.2.2.1. proporcionar práticas de exploração e um ambiente de trabalho seguros nos navios;\n\n1.2.2.2. estabelecer medidas de segurança contra todos os riscos identificados; e\n\n1.2.2.3. melhorar continuamente as competências do pessoal de terra e de bordo em matéria de gestão da segurança, incluindo a preparação para situações de emergência relacionadas quer com a segurança quer com a protecção do ambiente.\n\n1.2.3. O sistema de gestão da segurança deverá garantir:\n\n1.2.3.1. o cumprimento das regras e regulamentos obrigatórios; e\n\n1.2.3.2. a tomada em consideração dos códigos aplicáveis e das directrizes e normas recomendadas pela Organização, as administrações, as sociedades de classificação e as organizações do sector marítimo."
+  },
+  "8fa65dfc91280071": {
+   "fragment_id": "1.3. Aplicação",
+   "type": "divisao",
+   "heading": "1.3. Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Aplicação\n\nO disposto no presente código pode ser aplicado a todos os navios."
+  },
+  "bcc30717fb8584fe": {
+   "fragment_id": "1.4. Requisitos funcionais de um sistema de gestão da segurança (SGS)",
+   "type": "divisao",
+   "heading": "1.4. Requisitos funcionais de um sistema de gestão da segurança (SGS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.4. Requisitos funcionais de um sistema de gestão da segurança (SGS)\n\nCada companhia deverá desenvolver, aplicar e manter um SGS que preveja os seguintes requisitos funcionais:\n\n1.4.1. uma política de segurança e de protecção do ambiente;\n\n1.4.2. instruções e procedimentos de exploração segura de navios e de protecção do ambiente, em conformidade com a legislação pertinente, quer internacional quer do Estado do pavilhão;\n\n1.4.3. níveis de autoridade bem definidos e vias de comunicação entre o pessoal de terra, entre o pessoal de bordo e entre ambos;\n\n1.4.4. procedimentos para a comunicação de acidentes e de inconformidades com as disposições do presente código;\n\n1.4.5. procedimentos para a preparação e a intervenção em situações de emergência; e\n\n1.4.6. procedimentos de inspecção interna e de controlo de gestão."
+  },
+  "af2799ceec8e061e": {
+   "fragment_id": "2. Política de segurança e de protecção do ambiente",
+   "type": "divisao",
+   "heading": "2. Política de segurança e de protecção do ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Política de segurança e de protecção do ambiente\n\n2.1. A companhia deverá estabelecer uma política de segurança e de protecção do ambiente que defina como alcançar os objectivos enunciados no ponto 1.2.\n\n2.2. A companhia deverá garantir que essa política é aplicada e mantida a todos os níveis da organização, quer nos navios quer em terra."
+  },
+  "8fe5d0e9565c90f2": {
+   "fragment_id": "3. Responsabilidades e autoridade da companhia",
+   "type": "divisao",
+   "heading": "3. Responsabilidades e autoridade da companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Responsabilidades e autoridade da companhia\n\n3.1. Se a entidade responsável pela exploração do navio não for o proprietário, este deverá comunicar à administração a identificação completa dessa entidade e todos os elementos que lhe digam respeito.\n\n3.2. A companhia deverá definir e estabelecer por escrito as responsabilidades, autoridade e inter-relacionamento de todo o pessoal que dirige, executa e verifica as actividades relacionadas com a segurança e a prevenção da poluição ou que nestas se repercutem.\n\n3.3. A companhia é responsável por garantir a disponibilidade de recursos e de apoio em terra que permitam à pessoa ou pessoas designadas o desempenho das respectivas funções."
+  },
+  "5f6d66629c5f2117": {
+   "fragment_id": "4. Pessoa ou pessoas designadas",
+   "type": "divisao",
+   "heading": "4. Pessoa ou pessoas designadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Pessoa ou pessoas designadas\n\nPara garantir a segurança da exploração de cada navio e assegurar a ligação entre a companhia e as pessoas a bordo, cada companhia deverá designar, conforme adequado, uma ou mais pessoas em terra com acesso directo ao mais alto nível da direcção. A responsabilidade e a autoridade da pessoa ou pessoas designadas deverão incluir a supervisão dos aspectos da exploração de cada navio relacionados com a segurança e a prevenção da poluição e assegurar a disponibilidade de recursos e apoio em terra adequados, de acordo com as necessidades."
+  },
+  "d03888fb821e90c9": {
+   "fragment_id": "5. Responsabilidades e autoridade do comandante",
+   "type": "divisao",
+   "heading": "5. Responsabilidades e autoridade do comandante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Responsabilidades e autoridade do comandante\n\n5.1. A companhia deverá definir e estabelecer por escrito de forma clara as responsabilidades do comandante no que respeita:\n\n5.1.1. à aplicação da política da companhia em matéria de segurança e de protecção do ambiente;\n\n5.1.2. à motivação da tripulação para o cumprimento dessa política;\n\n5.1.3. à comunicação das ordens e instruções necessárias de modo claro e simples;\n\n5.1.4. à verificação do cumprimento dos requisitos especificados; e\n\n5.1.5. à análise do SGS e à comunicação das respectivas lacunas à direcção em terra.\n\n5.2. A companhia deverá garantir que o SGS aplicado a bordo do navio salienta expressamente a autoridade do comandante. A companhia deverá estabelecer no SGS que o comandante tem a autoridade suprema e a competência para tomar decisões em matéria de segurança e prevenção da poluição e para solicitar à companhia a assistência que for necessária."
+  },
+  "eeaddf8120c92d14": {
+   "fragment_id": "6. Recursos e pessoal",
+   "type": "divisao",
+   "heading": "6. Recursos e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Recursos e pessoal\n\n6.1. A companhia deverá garantir que o comandante:\n\n6.1.1. possui as qualificações necessárias para comandar;\n\n6.1.2. conhece perfeitamente o SGS da companhia; e\n\n6.1.3. conta com o apoio necessário para desempenhar com segurança as suas funções.\n\n6.2. A companhia deverá garantir que cada navio é lotado com marítimos qualificados, certificados e medicamente aptos em conformidade com os requisitos nacionais e internacionais aplicáveis.\n\n6.3. A companhia deverá estabelecer procedimentos que garantam que o pessoal recém-contratado ou afectado a novas funções relacionadas com a segurança e a protecção do ambiente é devidamente instruído nas suas funções.\n\n6.4. A companhia deverá garantir que todo o pessoal envolvido no SGS tem entendimento adequado das regras, regulamentos, códigos e directrizes relevantes.\n\n6.5. A companhia deverá estabelecer e manter procedimentos para determinar que formação poderá ser necessária para o SGS e garantir que todo o pessoal envolvido recebe essa formação.\n\n6.6. A companhia deverá estabelecer procedimentos para que os membros do pessoal do navio recebam as informações necessárias sobre o SGS numa língua de trabalho ou em línguas que compreendam.\n\n6.7. A companhia deverá garantir que os membros do pessoal do navio são capazes de comunicar eficazmente entre si para a execução das tarefas relacionadas com o SGS."
+  },
+  "ee56dc58cdfb8981": {
+   "fragment_id": "7. Elaboração de planos para as operações de bordo",
+   "type": "divisao",
+   "heading": "7. Elaboração de planos para as operações de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Elaboração de planos para as operações de bordo\n\nA companhia deverá estabelecer procedimentos para a elaboração de planos e instruções, incluindo listas de verificação se for caso disso, para as operações de bordo essenciais relacionadas com a segurança do navio e a prevenção da poluição. As várias tarefas deverão ser definidas e atribuídas a pessoal qualificado."
+  },
+  "ba53c9ae4e0a5b21": {
+   "fragment_id": "8. Preparação para situações de emergência",
+   "type": "divisao",
+   "heading": "8. Preparação para situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Preparação para situações de emergência\n\n8.1. A companhia deverá estabelecer procedimentos para a identificação, descrição e resposta a potenciais situações de emergência a bordo.\n\n8.2. A companhia deverá estabelecer programas de treinos e exercícios de preparação para intervenções de emergência.\n\n8.3. O SGS deverá prever medidas para assegurar que a organização da companhia está apta a dar resposta, em qualquer momento, a perigos, acidentes e situações de emergência em que os seus navios se envolvam."
+  },
+  "e1e13f0d74af3274": {
+   "fragment_id": "9. Comunicação e análise de inconformidades, acidentes e ocorrências potencialmente perigosas",
+   "type": "divisao",
+   "heading": "9. Comunicação e análise de inconformidades, acidentes e ocorrências potencialmente perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Comunicação e análise de inconformidades, acidentes e ocorrências potencialmente perigosas\n\n9.1. O SGS deverá prever procedimentos que garantam que as inconformidades, acidentes e ocorrências potencialmente perigosas são comunicados à companhia, investigados e analisados, com o objectivo de reforçar a segurança e a prevenção da poluição.\n\n9.2. A companhia deverá estabelecer procedimentos para a aplicação de medidas correctivas."
+  },
+  "62abb3fb7babc2d1": {
+   "fragment_id": "10. Manutenção do navio e do equipamento",
+   "type": "divisao",
+   "heading": "10. Manutenção do navio e do equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Manutenção do navio e do equipamento\n\n10.1. A companhia deverá estabelecer procedimentos que garantam que a manutenção do navio é feita em conformidade com as regras e regulamentos relevantes e com os requisitos suplementares que eventualmente tenha estabelecido.\n\n10.2. Para dar cumprimento a estas disposições, a companhia deverá garantir que:\n\n10.2.1. são realizadas inspecções a intervalos adequados;\n\n10.2.2. todas as inconformidades, bem como as respectivas causas, se conhecidas, são comunicadas;\n\n10.2.3. são tomadas as medidas correctivas necessárias; e\n\n10.2.4. são conservados registos destas actividades.\n\n10.3. A companhia deverá estabelecer, a nível do SGS, procedimentos para a identificação dos equipamentos e sistemas técnicos cuja avaria imprevista possa dar origem a situações perigosas. O SGS deverá prever medidas específicas para o reforço da fiabilidade desses equipamentos e sistemas. Tais medidas deverão incluir o ensaio regular dos dispositivos de emergência e dos equipamentos ou sistemas técnicos que não são utilizados em permanência.\n\n10.4. As inspecções referidas no ponto 10.2 e as medidas referidas no ponto 10.3 deverão fazer parte da manutenção de rotina do navio."
+  },
+  "cd8f971a1644719c": {
+   "fragment_id": "11. Documentação",
+   "type": "divisao",
+   "heading": "11. Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Documentação\n\n11.1. A companhia deverá estabelecer e manter procedimentos de controlo de todos os documentos e dados relevantes para o SGS.\n\n11.2. A companhia deverá garantir que:\n\n11.2.1. os documentos válidos estão disponíveis em todos os locais pertinentes;\n\n11.2.2. as alterações aos documentos são analisadas e aprovadas por pessoal autorizado; e\n\n11.2.3. os documentos obsoletos são imediatamente retirados de circulação.\n\n11.3. Os documentos utilizados para descrever e aplicar o SGS poderão ser designados por «manual de gestão da segurança». A documentação deverá ser conservada na forma que a companhia considerar mais adequada. Cada navio deverá ter a bordo toda a documentação que lhe disser respeito."
+  },
+  "5beb6d0879acfc44": {
+   "fragment_id": "12. Verificação, análise e avaliação pela companhia",
+   "type": "divisao",
+   "heading": "12. Verificação, análise e avaliação pela companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Verificação, análise e avaliação pela companhia\n\n12.1. A companhia deverá realizar inspecções internas para verificar se as actividades relacionadas com a segurança e a prevenção da poluição são conformes com o SGS.\n\n12.2. A companhia deverá avaliar periodicamente a eficácia do SGS e proceder, quando necessário, à sua revisão em conformidade com os procedimentos que tenha estabelecido.\n\n12.3. As inspecções deverão ser realizadas e as eventuais medidas correctivas tomadas em conformidade com procedimentos documentados.\n\n12.4. O pessoal que efectua as inspecções deverá ser alheio aos sectores a inspeccionar, a menos que tal seja impraticável devido à dimensão e natureza da companhia.\n\n12.5. Os resultados das inspecções e verificações deverão ser disponibilizados a todo o pessoal com responsabilidades no sector em questão.\n\n12.6. O pessoal dirigente responsável pelo sector inspeccionado deverá tomar medidas atempadas para corrigir as anomalias detectadas."
+  },
+  "aabb9ecb1004529a": {
+   "fragment_id": "PARTE B — CERTIFICAÇÃO E VERIFICAÇÃO",
+   "type": "divisao",
+   "heading": "PARTE B — CERTIFICAÇÃO E VERIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B — CERTIFICAÇÃO E VERIFICAÇÃO"
+  },
+  "dbf66184c5abcf88": {
+   "fragment_id": "13. Certificação e verificação periódica",
+   "type": "divisao",
+   "heading": "13. Certificação e verificação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Certificação e verificação periódica\n\n13.1. O navio deverá ser explorado por uma companhia para a qual tenha sido emitido um documento de conformidade, ou um documento de conformidade provisório em conformidade com o ponto 14.1, pertinente para esse navio.\n\n13.2. Para cada companhia que cumpra o disposto no presente código deverá ser emitido um documento de conformidade pela administração, uma organização por esta reconhecida ou, a pedido da administração, outro Governo contratante da Convenção, por um período especificado pela administração e que não deverá exceder cinco anos. Esse documento deverá ser aceite como prova de que a companhia tem capacidade para cumprir o disposto no presente código.\n\n13.3. O documento de conformidade será válido apenas para os tipos de navios nele expressamente indicados. Tal indicação deverá ter por base os tipos de navios abrangidos pela verificação inicial. Só deverão ser incluídos outros tipos de navios após verificação da capacidade da companhia para cumprir as disposições do presente código a eles aplicáveis. Os tipos de navios, neste contexto, são os referidos na regra IX/1 da Convenção.\n\n13.4. A validade de um documento de conformidade deverá ser objecto de verificação anual pela administração, uma organização por esta reconhecida ou, a pedido da administração, outro Governo contratante, nos três meses anteriores ou posteriores ao seu aniversário.\n\n13.5. O documento de conformidade deverá ser retirado pela administração ou, a pedido desta, pelo Governo contratante que o emitiu, quando a verificação anual prevista no ponto 13.4 não for requerida ou haja provas de inconformidade grave com o presente código.\n\n13.5.1. Caso o documento de conformidade seja retirado, todos os certificados de gestão da segurança e/ou certificados provisórios de gestão da segurança conexos também deverão ser retirados.\n\n13.6. A bordo do navio deverá ser conservada cópia do documento de conformidade, a fim de que o comandante, se a isso solicitado, a possa apresentar para efeitos de verificação pela administração, ou por uma organização por esta reconhecida, ou do controlo previsto na regra IX/6.2 da Convenção. A cópia do documento não terá de ser autenticada ou certificada.\n\n13.7. Para cada navio deverá ser emitido um certificado de gestão da segurança pela administração, uma organização por esta reconhecida ou, a pedido da administração, outro Governo contratante, por um período que não deverá exceder cinco anos. O certificado será emitido após verificação de que a companhia e a sua gestão a bordo operam em conformidade com o sistema de gestão da segurança aprovado. O certificado deverá ser aceite como prova de que a companhia cumpre o disposto no presente código.\n\n13.8. A validade do certificado de gestão da segurança deverá ser objecto de pelo menos uma verificação intermédia pela administração, uma organização por esta reconhecida ou, a pedido da administração, outro Governo contratante. Caso se preveja uma única verificação intermédia e o período de validade do certificado seja de cinco anos, tal verificação deverá realizar-se entre o segundo e o terceiro aniversários do certificado.\n\n13.9. Para além do disposto no ponto 13.5.1, o certificado de gestão da segurança deverá ser retirado pela administração ou, a pedido desta, pelo Governo contratante que o emitiu, quando a verificação intermédia prevista no ponto 13.8 não for requerida ou haja provas de inconformidade grave com o presente código.\n\n13.10. Não obstante o disposto nos pontos 13.2 e 13.7, quando a verificação de renovação se realize nos três meses anteriores à data de expiração do documento de conformidade ou do certificado de gestão da segurança existente, o novo documento ou certificado deverá ser válido a partir da data de realização da verificação de renovação e por um período não superior a cinco anos a contar da data de expiração do documento ou certificado existente.\n\n13.11. Quando a verificação de renovação se realize mais de três meses antes da data de expiração do documento de conformidade ou do certificado de gestão da segurança existente, o novo documento ou certificado deverá ser válido a partir da data de realização da verificação de renovação e por um período não superior a cinco anos a contar desta data."
+  },
+  "e952e2b8e95c22ba": {
+   "fragment_id": "14. Certificação provisória",
+   "type": "divisao",
+   "heading": "14. Certificação provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Certificação provisória\n\n14.1. A fim de facilitar a aplicação inicial do presente código, poderá ser emitido um documento de conformidade provisório nos seguintes casos:\n\n1. A companhia acaba de se constituir; ou\n\n2. Aos documentos de conformidade existentes devem ser acrescentados novos tipos de navios, após verificação de que a companhia dispõe de um sistema de gestão da segurança que satisfaz os objectivos enunciados no ponto 1.2.3 do presente código, na condição de que a companhia demonstre ter planos para aplicar um SGS que cumpra integralmente o disposto no presente código durante o período de validade do documento de conformidade provisório. Tal documento de conformidade provisório deverá ser emitido pela administração, uma organização por esta reconhecida ou, a pedido da administração, outro Governo contratante, por um período que não deverá exceder doze meses. A bordo do navio deverá ser conservada cópia do documento de conformidade provisório, a fim de que o comandante, se a isso solicitado, a possa apresentar para efeitos de verificação pela administração, ou por uma organização por esta reconhecida, ou do controlo previsto na regra IX/6.2 da Convenção. A cópia do documento não terá de ser autenticada ou certificada.\n\n14.2. Poderá ser emitido um certificado provisório de gestão da segurança:\n\n1. Para os navios novos, por ocasião da entrega;\n\n2. Quando a companhia assume a responsabilidade pela exploração de um navio que não explorava anteriormente; ou\n\n3. Quando o navio muda de pavilhão.\n\n14.3. A administração ou, a seu pedido, outro Governo contratante poderá, em casos especiais, prorrogar a validade de um certificado provisório de gestão da segurança por um período que não deverá exceder seis meses a contar da data de expiração do mesmo.\n\n14.4. Poderá ser emitido um certificado provisório de gestão da segurança após verificação de que:\n\n1. O documento de conformidade, ou o documento de conformidade provisório, é pertinente para o navio considerado;\n\n2. O sistema de gestão da segurança estabelecido pela companhia para o navio considerado compreende os elementos essenciais do presente código e foi avaliado por ocasião da inspecção efectuada para efeitos da emissão do documento de conformidade ou foi objecto de demonstração para efeitos da emissão do documento de conformidade provisório;\n\n3. A companhia planeia realizar uma inspecção do navio no prazo de três meses;\n\n4. O comandante e os oficiais estão familiarizados com o sistema de gestão da segurança e as disposições previstas para a sua aplicação;\n\n5. As instruções consideradas essenciais são transmitidas antes da largada do navio; e\n\n6. A informação pertinente sobre o sistema de gestão da segurança é fornecida numa língua de trabalho ou em línguas que o pessoal do navio compreenda."
+  },
+  "7f8ea17181285d9a": {
+   "fragment_id": "15. Verificação",
+   "type": "divisao",
+   "heading": "15. Verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Verificação\n\n15.1. Todas as verificações previstas no presente código deverão ser realizadas segundo procedimentos que a administração considere aceitáveis, tendo em conta as directrizes elaboradas pela Organização ([^9^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0009))."
+  },
+  "fe97d64ad4dcf88b": {
+   "fragment_id": "16. Modelos dos certificados",
+   "type": "divisao",
+   "heading": "16. Modelos dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. Modelos dos certificados\n\n16.1. O documento de conformidade, o certificado de gestão da segurança, o documento de conformidade provisório e o certificado provisório de gestão da segurança deverão obedecer aos modelos que figuram no apêndice ao presente código. Caso a língua utilizada não seja o inglês ou o francês, o texto deverá incluir uma tradução numa destas línguas.\n\n16.2. Para além do disposto no ponto 13.3, os tipos de navios indicados no documento de conformidade e no documento de conformidade provisório poderão ser objecto de averbamentos para indicar as eventuais restrições operacionais dos navios descritas no sistema de gestão da segurança."
+  },
+  "ae333fc2d57e1e38": {
+   "fragment_id": "Apêndice",
+   "type": "divisao",
+   "heading": "Apêndice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice"
+  },
+  "1e2c1b51269b9db9": {
+   "fragment_id": "Modelos do documento de conformidade, do certificado de gestão da segurança, do documento de conformidade provisório e do certificado provisório de gestão da segurança",
+   "type": "divisao",
+   "heading": "Modelos do documento de conformidade, do certificado de gestão da segurança, do documento de conformidade provisório e do certificado provisório de gestão da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelos do documento de conformidade, do certificado de gestão da segurança, do documento de conformidade provisório e do certificado provisório de gestão da segurança"
+  },
+  "d9b79c37809ebf13": {
+   "fragment_id": "DOCUMENTO DE CONFORMIDADE",
+   "type": "divisao",
+   "heading": "DOCUMENTO DE CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTO DE CONFORMIDADE\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n…\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM) para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nO presente documento de conformidade é válido até ………, sob reserva de verificação periódica.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "f9239e3b1630eb9d": {
+   "fragment_id": "Certificado n.º",
+   "type": "divisao",
+   "heading": "Certificado n.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificado n.º"
+  },
+  "b472a41e995b979c": {
+   "fragment_id": "AVERBAMENTO DE VERIFICAÇÃO ANUAL",
+   "type": "divisao",
+   "heading": "AVERBAMENTO DE VERIFICAÇÃO ANUAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVERBAMENTO DE VERIFICAÇÃO ANUAL\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com a regra IX/6.1 da Convenção e o ponto 13.4 do Código ISM, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n1.ª VERIFICAÇÃO ANUAL Assinatura: …\n\n(assinatura do funcionário autorizado)\n\nLocal: …\n\nData: …\n\n2.ª VERIFICAÇÃO ANUAL Assinatura: …\n\n(assinatura do funcionário autorizado)\n\nLocal: …\n\nData: …\n\n3.ª VERIFICAÇÃO ANUAL Assinatura: …\n\n(assinatura do funcionário autorizado)\n\nLocal: …\n\nData: …\n\n4.ª VERIFICAÇÃO ANUAL Assinatura: …\n\n(assinatura do funcionário autorizado)\n\nLocal: …\n\nData: …"
+  },
+  "b23395a864b99804": {
+   "fragment_id": "CERTIFICADO DE GESTÃO DA SEGURANÇA",
+   "type": "divisao",
+   "heading": "CERTIFICADO DE GESTÃO DA SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO DE GESTÃO DA SEGURANÇA\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada\n\nSob a autoridade do Governo de\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^10^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0010)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que o sistema de gestão da segurança do navio foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM), após verificação de que o documento de conformidade emitido para a companhia se aplica a este tipo de navio.\n\nO presente certificado de gestão da segurança é válido até ………, sob reserva de verificação periódica e na condição de o documento de conformidade permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "ea7191c3c072828c": {
+   "fragment_id": "AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+   "type": "divisao",
+   "heading": "AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com a regra IX/6.1 da Convenção e o ponto 13.8 do Código ISM, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n| VERIFICAÇÃO INTERMÉDIA (a realizar entre o segundo e o terceiro aniversários) | Assinatura: … |\n| --- | --- |\n| (assinatura do funcionário autorizado) |  |\n| Local: … |  |\n| Data: … |  |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0011) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0011) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0011) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| (^1^)Se for caso disso. Ver ponto 3.4.1 das directrizes para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas administrações [Resolução A.913(22)]. |  |"
+  },
+  "7107c62764b0c2d0": {
+   "fragment_id": "DOCUMENTO DE CONFORMIDADE PROVISÓRIO",
+   "type": "divisao",
+   "heading": "DOCUMENTO DE CONFORMIDADE PROVISÓRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTO DE CONFORMIDADE PROVISÓRIO\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR DE 1974, na sua versão alterada\n\nSob a autoridade do Governo de\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia: …\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi reconhecido como conforme com os objectivos do ponto 1.2.3 do Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM) para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nO presente documento de conformidade provisório é válido até\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "b936b137b4878443": {
+   "fragment_id": "CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+   "type": "divisao",
+   "heading": "CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974,\n\nna sua versão alterada\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^11^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0012))\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n…\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que foi cumprido o disposto no ponto 14.4 do Código ISM e que o documento de conformidade/documento de conformidade provisório ([^12^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0013)) da companhia é pertinente para este navio.\n\nO presente certificado provisório de gestão da segurança é válido até …\n\nna condição de o documento de conformidade/documento de conformidade provisório [(12)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0013) permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCertificado n.º\n\nA validade do presente certificado provisório de gestão da segurança é prorrogada até:\n\nData da prorrogação …\n\n(assinatura do funcionário devidamente autorizado que prorroga a validade do certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "3976a2df4583b59c": {
+   "fragment_id": "DISPOSIÇÕES DESTINADAS ÀS ADMINISTRAÇÕES E RELATIVAS À APLICAÇÃO DO CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DESTINADAS ÀS ADMINISTRAÇÕES E RELATIVAS À APLICAÇÃO DO CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DESTINADAS ÀS ADMINISTRAÇÕES E RELATIVAS À APLICAÇÃO DO CÓDIGO INTERNACIONAL DE GESTÃO DA SEGURANÇA (CÓDIGO ISM)\n\nParte A — Disposições gerais\n\nParte B — Certificação e normas\n\n2. Processo de certificação\n\n3. Normas de gestão\n\n4. Normas de competência\n\n5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança"
+  },
+  "d2fc3243d3a1ac1e": {
+   "fragment_id": "PARTE A — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "PARTE A — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A — DISPOSIÇÕES GERAIS\n\n1.1. Ao efectuarem as verificações e certificações requeridas pelo Código ISM para os navios abrangidos pelo presente regulamento, os Estados-Membros devem observar as exigências e normas estabelecidas na parte B do presente título.\n\n1.2. Os Estados-Membros devem igualmente ter em conta as directrizes revistas para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas administrações, adoptadas pela OMI por meio da Resolução A.913(22) de 29 de Novembro de 2001, na medida em que a parte B do presente título as não contemple."
+  },
+  "47e43409cbd2f657": {
+   "fragment_id": "PARTE B — CERTIFICAÇÃO E NORMAS",
+   "type": "divisao",
+   "heading": "PARTE B — CERTIFICAÇÃO E NORMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B — CERTIFICAÇÃO E NORMAS"
+  },
+  "05fc5060f53b377e": {
+   "fragment_id": "2. Processo de certificação",
+   "type": "divisao",
+   "heading": "2. Processo de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Processo de certificação\n\n2.1. O processo de certificação para a emissão de um documento de conformidade para uma companhia e de um certificado de gestão da segurança para um navio deve ser executado de acordo com as disposições a seguir estabelecidas.\n\n2.2. O processo de certificação deverá, regra geral, compreender as seguintes etapas:\n\n1. verificação inicial,\n\n2. verificação anual ou intermédia,\n\n3. verificação de renovação, e\n\n4. verificação adicional.\n\n2.3. As verificações devem incluir uma inspecção do sistema de gestão da segurança.\n\n2.4. Para realizar a inspecção será designado um inspector-chefe e, se for caso disso, constituída uma equipa de inspecção.\n\n2.5. O inspector-chefe designado deve estabelecer contacto com a companhia e elaborar um plano de inspecção.\n\n2.6. Será preparado um relatório de inspecção sob a direcção do inspector-chefe, que será responsável pela exactidão e exaustividade do relatório.\n\n2.7. O relatório de inspecção deve incluir o plano da inspecção, a identificação dos membros da equipa de inspecção, as datas, a identificação da companhia, os registos das observações e inconformidades, bem como observações sobre a eficácia do sistema de gestão da segurança para assegurar a realização dos objectivos especificados."
+  },
+  "52d899fe2f367589": {
+   "fragment_id": "3. Normas de gestão",
+   "type": "divisao",
+   "heading": "3. Normas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Normas de gestão\n\n3.1. Os inspectores ou a equipa de inspecção encarregues de verificar o cumprimento do Código ISM devem ser competentes no que respeita a:\n\n1. garantir o cumprimento das regras e regulamentos, incluindo a certificação dos marítimos, aplicáveis a cada tipo de navios explorado pela companhia;\n\n2. actividades de aprovação, vistoria e certificação relacionadas com os certificados marítimos;\n\n3. parâmetros a ter em conta no âmbito do sistema de gestão da segurança, de acordo com o disposto no Código ISM; e\n\n4. experiência prática da operação de navios.\n\n3.2. Para a verificação do cumprimento das disposições do Código ISM assegurar-se-á que o pessoal que presta serviços de consultoria e o pessoal envolvido no processo de certificação são independentes."
+  },
+  "01aed3a0525b9eaf": {
+   "fragment_id": "4. Normas de competência",
+   "type": "divisao",
+   "heading": "4. Normas de competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Normas de competência\n\n4.1. Competências básicas necessárias para proceder às verificações.\n\n4.1.1. O pessoal chamado a participar na verificação do cumprimento do disposto no Código ISM deverá satisfazer os critérios mínimos para os inspectores estabelecidos no ponto 2 do anexo VII da Directiva 95/21/CE.\n\n4.1.2. O referido pessoal deverá ter recebido uma formação que garanta as competências e aptidões necessárias para a verificação do cumprimento do disposto no Código ISM, nomeadamente no que respeita a:\n\na) conhecimento e compreensão do Código ISM;\n\nb) regras e regulamentos obrigatórios;\n\nc) parâmetros que as companhias devem ter em conta de acordo com o disposto no Código ISM;\n\nd) técnicas de avaliação no domínio da análise, questionário, valoração e elaboração de relatórios;\n\ne) aspectos técnicos e operacionais da gestão da segurança;\n\nf) conhecimento básico da actividade de transporte marítimo e das operações de bordo; e\n\ng) participação em pelo menos uma inspecção de um sistema de gestão relacionado com o sector marítimo.\n\n4.2. Competências necessárias para as verificações iniciais e de renovação.\n\n4.2.1. A fim de avaliar cabalmente se a companhia ou cada tipo de navio cumpre o disposto no Código ISM, para além das competências básicas atrás enumeradas, o pessoal chamado a efectuar a verificação inicial ou as verificações de renovação relativas a um documento de conformidade ou certificado de gestão da segurança deverá ainda ter competência para:\n\na) determinar se os elementos do Sistema de Gestão da Segurança (SGS) cumprem ou não o disposto no Código ISM;\n\nb) avaliar da eficácia do SGS da companhia ou de cada tipo de navio para garantir o cumprimento das regras e regulamentos, com base nos registos das vistorias regulamentares e de classificação;\n\nc) avaliar da eficácia do SGS para garantir o cumprimento de outras regras e regulamentos não contemplados nas vistorias regulamentares e de classificação e permitir a verificação do cumprimento dessas regras e regulamentos; e\n\nd) determinar se foram tidas em conta as práticas de segurança recomendadas pela OMI, as administrações, as sociedades de classificação e as organizações do sector marítimo.\n\n4.2.2. Este nível de competência poderá ser assegurado por equipas que, colectivamente, possuam o conjunto de competências necessárias."
+  },
+  "c0995145ecada0bb": {
+   "fragment_id": "5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+   "type": "divisao",
+   "heading": "5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança\n\nQuando os navios operem apenas num Estado-Membro, os Estados-Membros utilizarão os modelos que figuram no apêndice do Código ISM ou os modelos de documento de conformidade, certificado de gestão da segurança, documento de conformidade provisório e certificado provisório de gestão da segurança que figuram a seguir.\n\nEm caso de derrogação nos termos do n.º 1 e, eventualmente, do n.º 2 do artigo 7.º, os certificados emitidos devem ser diferentes dos acima referidos, indicar claramente que foi concedida uma derrogação nos termos do n.º 1 e, eventualmente, do n.º 2 do artigo 7.º do presente regulamento e incluir as restrições operacionais aplicáveis.\n\n*(Selo oficial) (Estado)*\n\nCertificado N.º\n\nEmitido nos termos das disposições [DA CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^13^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0014)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi inspeccionado e satisfaz as prescrições do Código internacional de gestão para a segurança da exploração dos navios e a prevenção da poluição (Código ISM) para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nNavio ro-ro de passageiros (*ferry* ro-ro)\n\nO presente documento de conformidade é válido até …, sob reserva de verificação periódica.\n\nData de conclusão da verificação em que se baseia o presente certificado …\n\n(dd/mm/aaaa)\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com [a regra IX/6.1 da Convenção e o ponto 13.4 do Código ISM e] ([^14^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0015)) o artigo 6.º do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n1.ª VERIFICAÇÃO ANUAL Assinado:… (assinatura do funcionário autorizado) Local: … Data: …\n\n2.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n3.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n4.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^15^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0016)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^16^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0017)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança do navio foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM), após verificação de que o documento de conformidade emitido para a companhia se aplica a este tipo de navio.\n\nO presente certificado de gestão da segurança é válido até …, sob reserva de verificação periódica e na condição de permanecer válido o documento de conformidade.\n\nData de conclusão da verificação em que se baseia o presente certificado …\n\n*(dd/mm/aaaa)*\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com [a regra IX/6.1 da Convenção e o ponto 13.8 do Código ISM e] ([^17^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0018)) o artigo 6.º do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\nVERIFICAÇÃO INTERMÉDIA (a realizar entre o segundo e o terceiro aniversários) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL ([^18^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0019)) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL [(18)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0019) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL [(18)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0019) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^19^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0020)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi reconhecido conforme com os objectivos do ponto 1.2.3 da parte A do anexo I do Regulamento (CE) n.º 336/2006 para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nNavio ro-ro de passageiros (*ferry* ro-ro)\n\nO presente documento de conformidade provisório é válido até …\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão: …\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^20^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0021)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nDistintivo do navio em números ou letras: …\n\nPorto de registo: …\n\nTipo de navio ([^21^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0022)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que foi cumprido o disposto no ponto 14.4 da parte A do anexo I do Regulamento (CE) n.º 336/2006 e que o documento de conformidade/documento de conformidade provisório ([^22^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0023)) da companhia é pertinente para este navio.\n\nO presente certificado provisório de gestão da segurança é válido até …, na condição de o documento de conformidade/documento de conformidade provisório [(22)](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#E0023) permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCertificado n.º\n\nA validade do presente certificado provisório de gestão da segurança é prorrogada até:\n\nData da prorrogação …\n\n(assinatura do funcionário devidamente autorizado que prorroga a validade do certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\n---"
+  },
+  "c2ccb8c1597541de": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0001)) JO C 302 de 7.12.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 10 de Março de 2004 (JO C 102 E de 28.4.2004, p. 565), Posição Comum do Conselho de 18 de Julho de 2005 (JO C 264 E de 25.10.2005, p. 28) e Posição do Parlamento Europeu de 13 de Dezembro de 2005 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0003)) JO L 320 de 30.12.1995, p. 14. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2099/2002 (JO L 324 de 29.11.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0004)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE do Parlamento Europeu e do Conselho (JO L 324 de 29.11.2002, p. 53).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0005)) JO L 319 de 12.12.1994, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0006)) JO L 144 de 15.5.1998, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2003/75/CE da Comissão (JO L 190 de 30.7.2003, p. 6).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0008)) JO L 324 de 29.11.2002, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão (JO L 68 de 6.3.2004, p. 10).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0009)) Ver as directrizes revistas para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas Administrações, adoptadas pela Organização por meio da Resolução A.913(22).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0010)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0012)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0013)) Riscar o que não interessa.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0014)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0015)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0016)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0017)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga; *ferry* ro-ro de passageiros.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0018)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0019)) Se aplicável. Ver ponto 13.8 do Código ISM e ponto 3.4.1 das directrizes para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas Administrações [Resolução A.913(22)].\n\n> ([^19^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0020)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0021)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0022)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga; *ferry* ro-ro de passageiros.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/f154deb8-32ce-4b33-b5af-0bc19e63ff1e.0018.03/DOC_1#src.E0023)) Riscar o que não interessa."
+  },
+  "b4c5df6dca2bc22e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativo à aplicação do Código Internacional de Gestão da Segurança na Comunidade e que revoga o Regulamento (CE) n.º 3051/95 do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0002)),\n\n(1) O Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição, a seguir designado «Código ISM», foi adoptado pela Organização Marítima Internacional (OMI) em 1993. O código tornou-se gradualmente obrigatório para a maior parte dos navios que operam no tráfego internacional através da incorporação, aprovada em Maio de 1994, de um capítulo IX intitulado «Gestão para a exploração segura de navios» na Convenção Internacional para a Salvaguarda da Vida Humana no Mar (SOLAS) de 1974.\n\n(2) O Código ISM foi alterado pela OMI através da Resolução MSC.104(73), adoptada em 5 de Dezembro de 2000.\n\n(3) As directrizes para a aplicação do Código ISM pelas administrações foram adoptadas pela Resolução A.788(19) da OMI, de 23 de Novembro de 1995, e subsequentemente alteradas pela Resolução A.913(22), de 29 de Novembro de 2001.\n\n(4) O Regulamento (CE) n.º 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos *ferries roll-on/roll-off* de passageiros (*ferries ro-ro*) ([^3^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0003)), tornou o Código ISM obrigatório a nível da Comunidade a partir de 1 de Julho de 1996 para todos os *ferries ro-ro* de passageiros, independentemente do seu pavilhão, que efectuam serviços regulares, domésticos ou internacionais, a partir de ou para os portos dos Estados-Membros. Este regulamento foi o primeiro passo para assegurar uma aplicação uniforme e coerente do Código ISM em todos os Estados-Membros.\n\n(5) Em 1 de Julho de 1998, o Código ISM tornou-se obrigatório, nos termos do capítulo IX da Convenção SOLAS, para as companhias que exploram navios de passageiros, incluindo embarcações de passageiros de alta velocidade, navios petroleiros, navios químicos, navios de transporte de gás, navios graneleiros e embarcações de carga de alta velocidade, de arqueação bruta igual ou superior a 500 t, no tráfego internacional.\n\n(6) Em 1 de Julho de 2002, o Código ISM tornou-se obrigatório para as companhias que exploram outros navios de carga e unidades móveis de perfuração ao largo, de arqueação bruta igual ou superior a 500 t, no tráfego internacional.\n\n(7) A segurança da vida humana no mar e a protecção do ambiente podem ser reforçadas de forma eficaz mediante a aplicação estrita e obrigatória do Código ISM.\n\n(8) É desejável aplicar directamente o Código ISM aos navios que arvoram pavilhão de um Estado-Membro, bem como aos navios que, independentemente do seu pavilhão, efectuem exclusivamente viagens domésticas ou efectuem serviços regulares de transporte marítimo a partir de ou para portos dos Estados-Membros.\n\n(9) A aprovação de um novo regulamento garantirá, em virtude da sua aplicabilidade directa, a aplicação efectiva do Código ISM, subentendendo-se que cabe aos Estados-Membros decidir se aplicam o Código aos navios, independentemente do seu pavilhão, que operem exclusivamente em zonas portuárias.\n\n(10) Por conseguinte, o Regulamento (CE) n.º 3051/95 deverá ser revogado.\n\n(11) Cada Estado-Membro pode, se considerar que as companhias terão dificuldade em cumprir, na prática, determinadas disposições da parte A do Código ISM para certos navios ou categorias de navios que efectuem exclusivamente viagens domésticas nesse Estado-Membro, estabelecer derrogações totais ou parciais dessas disposições, impondo medidas que garantam um cumprimento equivalente dos objectivos do Código. Os Estados-Membros podem estabelecer processos alternativos de certificação e verificação para esses navios e companhias.\n\n(12) É necessário ter em conta a Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à inspecção pelo Estado do porto ([^4^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0004)).\n\n(13) É também necessário ter em conta a Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas ([^5^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0005)), a fim de definir as organizações reconhecidas para efeitos do presente regulamento, e a Directiva 98/18/CE do Conselho, de 17 de Março de 1998, relativa às regras e normas de segurança para os navios de passageiros ([^6^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0006)), a fim de estabelecer o âmbito de aplicação do presente regulamento no que se refere aos navios de passageiros que efectuam viagens domésticas.\n\n(14) As medidas necessárias à alteração do anexo II serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0007)).\n\n(15) Atendendo a que os objectivos do presente regulamento, nomeadamente o reforço da gestão da segurança, da segurança da exploração e da prevenção da poluição, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "07837cf1ccfc1394": {
+   "fragment_id": "Artigo 11.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações\n\n1. As alterações do Código ISM podem ser excluídas do âmbito de aplicação do presente regulamento nos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) e que altera determinados regulamentos em vigor no domínio da segurança marítima e da prevenção da poluição por navios ([^8^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0008)).\n\n2. As adaptações do anexo II, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo referido no n.º 3 do artigo 12.º."
+  },
+  "7aef66b03549c9d7": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0009)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "6379e425b8c6701d": {
+   "fragment_id": "15. Verificação",
+   "type": "divisao",
+   "heading": "15. Verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Verificação\n\n15.1. Todas as verificações previstas no presente código deverão ser realizadas segundo procedimentos que a administração considere aceitáveis, tendo em conta as directrizes elaboradas pela Organização ([^10^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0010))."
+  },
+  "8d7d1719b661a736": {
+   "fragment_id": "CERTIFICADO DE GESTÃO DA SEGURANÇA",
+   "type": "divisao",
+   "heading": "CERTIFICADO DE GESTÃO DA SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO DE GESTÃO DA SEGURANÇA\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada\n\nSob a autoridade do Governo de\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^11^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0011)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que o sistema de gestão da segurança do navio foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM), após verificação de que o documento de conformidade emitido para a companhia se aplica a este tipo de navio.\n\nO presente certificado de gestão da segurança é válido até ………, sob reserva de verificação periódica e na condição de o documento de conformidade permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "c4b64484085ae1ed": {
+   "fragment_id": "AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+   "type": "divisao",
+   "heading": "AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com a regra IX/6.1 da Convenção e o ponto 13.8 do Código ISM, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n| VERIFICAÇÃO INTERMÉDIA (a realizar entre o segundo e o terceiro aniversários) | Assinatura: … |\n| --- | --- |\n| (assinatura do funcionário autorizado) |  |\n| Local: … |  |\n| Data: … |  |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0012) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0012) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0012) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| (^1^)Se for caso disso. Ver ponto 3.4.1 das directrizes para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas administrações [Resolução A.913(22)]. |  |"
+  },
+  "95985b20c2a4c106": {
+   "fragment_id": "CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+   "type": "divisao",
+   "heading": "CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974,\n\nna sua versão alterada\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^12^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0013))\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n…\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que foi cumprido o disposto no ponto 14.4 do Código ISM e que o documento de conformidade/documento de conformidade provisório ([^13^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0014)) da companhia é pertinente para este navio.\n\nO presente certificado provisório de gestão da segurança é válido até …\n\nna condição de o documento de conformidade/documento de conformidade provisório [(13)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0014) permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCertificado n.º\n\nA validade do presente certificado provisório de gestão da segurança é prorrogada até:\n\nData da prorrogação …\n\n(assinatura do funcionário devidamente autorizado que prorroga a validade do certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "29098fac21d3fd49": {
+   "fragment_id": "5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+   "type": "divisao",
+   "heading": "5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança\n\nQuando os navios operem apenas num Estado-Membro, os Estados-Membros utilizarão os modelos que figuram no apêndice do Código ISM ou os modelos de documento de conformidade, certificado de gestão da segurança, documento de conformidade provisório e certificado provisório de gestão da segurança que figuram a seguir.\n\nEm caso de derrogação nos termos do n.º 1 e, eventualmente, do n.º 2 do artigo 7.º, os certificados emitidos devem ser diferentes dos acima referidos, indicar claramente que foi concedida uma derrogação nos termos do n.º 1 e, eventualmente, do n.º 2 do artigo 7.º do presente regulamento e incluir as restrições operacionais aplicáveis.\n\n*(Selo oficial) (Estado)*\n\nCertificado N.º\n\nEmitido nos termos das disposições [DA CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^14^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0015)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi inspeccionado e satisfaz as prescrições do Código internacional de gestão para a segurança da exploração dos navios e a prevenção da poluição (Código ISM) para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nNavio ro-ro de passageiros (*ferry* ro-ro)\n\nO presente documento de conformidade é válido até …, sob reserva de verificação periódica.\n\nData de conclusão da verificação em que se baseia o presente certificado …\n\n(dd/mm/aaaa)\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com [a regra IX/6.1 da Convenção e o ponto 13.4 do Código ISM e] ([^15^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0016)) o artigo 6.º do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n1.ª VERIFICAÇÃO ANUAL Assinado:… (assinatura do funcionário autorizado) Local: … Data: …\n\n2.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n3.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n4.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^16^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0017)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^17^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0018)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança do navio foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM), após verificação de que o documento de conformidade emitido para a companhia se aplica a este tipo de navio.\n\nO presente certificado de gestão da segurança é válido até …, sob reserva de verificação periódica e na condição de permanecer válido o documento de conformidade.\n\nData de conclusão da verificação em que se baseia o presente certificado …\n\n*(dd/mm/aaaa)*\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com [a regra IX/6.1 da Convenção e o ponto 13.8 do Código ISM e] ([^18^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0019)) o artigo 6.º do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\nVERIFICAÇÃO INTERMÉDIA (a realizar entre o segundo e o terceiro aniversários) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL ([^19^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0020)) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL [(19)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0020) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL [(19)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0020) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^20^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0021)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi reconhecido conforme com os objectivos do ponto 1.2.3 da parte A do anexo I do Regulamento (CE) n.º 336/2006 para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nNavio ro-ro de passageiros (*ferry* ro-ro)\n\nO presente documento de conformidade provisório é válido até …\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão: …\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^21^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0022)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nDistintivo do navio em números ou letras: …\n\nPorto de registo: …\n\nTipo de navio ([^22^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0023)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que foi cumprido o disposto no ponto 14.4 da parte A do anexo I do Regulamento (CE) n.º 336/2006 e que o documento de conformidade/documento de conformidade provisório ([^23^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0024)) da companhia é pertinente para este navio.\n\nO presente certificado provisório de gestão da segurança é válido até …, na condição de o documento de conformidade/documento de conformidade provisório [(23)](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#E0024) permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCertificado n.º\n\nA validade do presente certificado provisório de gestão da segurança é prorrogada até:\n\nData da prorrogação …\n\n(assinatura do funcionário devidamente autorizado que prorroga a validade do certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\n---"
+  },
+  "01d49a7ae41111af": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0001)) JO C 302 de 7.12.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 10 de Março de 2004 (JO C 102 E de 28.4.2004, p. 565), Posição Comum do Conselho de 18 de Julho de 2005 (JO C 264 E de 25.10.2005, p. 28) e Posição do Parlamento Europeu de 13 de Dezembro de 2005 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0003)) JO L 320 de 30.12.1995, p. 14. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2099/2002 (JO L 324 de 29.11.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0004)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE do Parlamento Europeu e do Conselho (JO L 324 de 29.11.2002, p. 53).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0005)) JO L 319 de 12.12.1994, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0006)) JO L 144 de 15.5.1998, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2003/75/CE da Comissão (JO L 190 de 30.7.2003, p. 6).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0008)) JO L 324 de 29.11.2002, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão (JO L 68 de 6.3.2004, p. 10).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0009)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0010)) Ver as directrizes revistas para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas Administrações, adoptadas pela Organização por meio da Resolução A.913(22).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0011)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0013)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0014)) Riscar o que não interessa.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0015)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0016)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0017)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0018)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga; *ferry* ro-ro de passageiros.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0019)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0020)) Se aplicável. Ver ponto 13.8 do Código ISM e ponto 3.4.1 das directrizes para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas Administrações [Resolução A.913(22)].\n\n> ([^20^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0021)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0022)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0023)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga; *ferry* ro-ro de passageiros.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/b3ab666b-b886-4095-b4df-164469023281.0018.03/DOC_1#src.E0024)) Riscar o que não interessa."
+  },
+  "ef83e4087c83376f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativo à aplicação do Código Internacional de Gestão da Segurança na Comunidade e que revoga o Regulamento (CE) n.º 3051/95 do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c98d46f8f52b7ec9": {
+   "fragment_id": "Artigo 11.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações\n\n1. As alterações do Código ISM podem ser excluídas do âmbito de aplicação do presente regulamento nos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) e que altera determinados regulamentos em vigor no domínio da segurança marítima e da prevenção da poluição por navios ([^1^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n2. No âmbito de aplicação do presente regulamento tal como definido no artigo 3.º, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 11.º-A no que diz respeito a alterar o anexo II, a fim de ter em conta a evolução a nível internacional, nomeadamente na OMI, ou de melhorar a eficácia do presente regulamento à luz da experiência adquirida com a sua aplicação."
+  },
+  "fadf43faa04a94a0": {
+   "fragment_id": "Artigo 11.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 11.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 11.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^2^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 11.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "8bed56cb6bd7429d": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses."
+  },
+  "a33e049f502da272": {
+   "fragment_id": "15. Verificação",
+   "type": "divisao",
+   "heading": "15. Verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Verificação\n\n15.1. Todas as verificações previstas no presente código deverão ser realizadas segundo procedimentos que a administração considere aceitáveis, tendo em conta as directrizes elaboradas pela Organização ([^4^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004))."
+  },
+  "b492053d228cb13c": {
+   "fragment_id": "DOCUMENTO DE CONFORMIDADE",
+   "type": "divisao",
+   "heading": "DOCUMENTO DE CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTO DE CONFORMIDADE\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n…\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM) para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nO presente documento de conformidade é válido até …, sob reserva de verificação periódica.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "caac2373f6c9a47a": {
+   "fragment_id": "CERTIFICADO DE GESTÃO DA SEGURANÇA",
+   "type": "divisao",
+   "heading": "CERTIFICADO DE GESTÃO DA SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO DE GESTÃO DA SEGURANÇA\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada\n\nSob a autoridade do Governo de\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^*1^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0005)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que o sistema de gestão da segurança do navio foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM), após verificação de que o documento de conformidade emitido para a companhia se aplica a este tipo de navio.\n\nO presente certificado de gestão da segurança é válido até ………, sob reserva de verificação periódica e na condição de o documento de conformidade permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "14412b8da93bb11d": {
+   "fragment_id": "AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+   "type": "divisao",
+   "heading": "AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVERBAMENTO DE VERIFICAÇÃO INTERMÉDIA E DE VERIFICAÇÃO ADICIONAL (SE REQUERIDA)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com a regra IX/6.1 da Convenção e o ponto 13.8 do Código ISM, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n| VERIFICAÇÃO INTERMÉDIA (a realizar entre o segundo e o terceiro aniversários) | Assinatura: … |\n| --- | --- |\n| (assinatura do funcionário autorizado) |  |\n| Local: … |  |\n| Data: … |  |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| VERIFICAÇÃO ADICIONAL [(^1^)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) | Assinatura: … |\n|  | (assinatura do funcionário autorizado) |\n|  | Local: … |\n|  | Data: … |\n| (^*1^)Se for caso disso. Ver ponto 3.4.1 das directrizes para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas administrações [Resolução A.913(22)]. |  |"
+  },
+  "1190760b4bbd9bc0": {
+   "fragment_id": "CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+   "type": "divisao",
+   "heading": "CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO PROVISÓRIO DE GESTÃO DA SEGURANÇA\n\n*(selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições da\n\nCONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974,\n\nna sua versão alterada\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^*2^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0007))\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n…\n\n(ver ponto 1.1.2 do Código ISM)\n\nCERTIFICA-SE que foi cumprido o disposto no ponto 14.4 do Código ISM e que o documento de conformidade/documento de conformidade provisório ([^*3^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0008)) da companhia é pertinente para este navio.\n\nO presente certificado provisório de gestão da segurança é válido até …\n\nna condição de o documento de conformidade/documento de conformidade provisório [(*3)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0008) permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCertificado n.º\n\nA validade do presente certificado provisório de gestão da segurança é prorrogada até:\n\nData da prorrogação …\n\n(assinatura do funcionário devidamente autorizado que prorroga a validade do certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)"
+  },
+  "048f18eda4f1e970": {
+   "fragment_id": "5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+   "type": "divisao",
+   "heading": "5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Modelos dos documentos de conformidade e dos certificados de gestão da segurança\n\nQuando os navios operem apenas num Estado-Membro, os Estados-Membros utilizarão os modelos que figuram no apêndice do Código ISM ou os modelos de documento de conformidade, certificado de gestão da segurança, documento de conformidade provisório e certificado provisório de gestão da segurança que figuram a seguir.\n\nEm caso de derrogação nos termos do n.º 1 e, eventualmente, do n.º 2 do artigo 7.º, os certificados emitidos devem ser diferentes dos acima referidos, indicar claramente que foi concedida uma derrogação nos termos do n.º 1 e, eventualmente, do n.º 2 do artigo 7.º do presente regulamento e incluir as restrições operacionais aplicáveis.\n\n*(Selo oficial) (Estado)*\n\nCertificado N.º\n\nEmitido nos termos das disposições [DA CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^*4^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0009)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi inspeccionado e satisfaz as prescrições do Código internacional de gestão para a segurança da exploração dos navios e a prevenção da poluição (Código ISM) para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nNavio ro-ro de passageiros (*ferry* ro-ro)\n\nO presente documento de conformidade é válido até …, sob reserva de verificação periódica.\n\nData de conclusão da verificação em que se baseia o presente certificado …\n\n(dd/mm/aaaa)\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com [a regra IX/6.1 da Convenção e o ponto 13.4 do Código ISM e] ([^*5^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0010)) o artigo 6.º do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\n1.ª VERIFICAÇÃO ANUAL Assinado:… (assinatura do funcionário autorizado) Local: … Data: …\n\n2.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n3.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n4.ª VERIFICAÇÃO ANUAL Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^*6^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0011)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nNúmero ou letras do distintivo do navio: …\n\nPorto de registo: …\n\nTipo de navio ([^*7^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0012)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança do navio foi inspeccionado e cumpre o disposto no Código Internacional de Gestão para a Segurança da Exploração dos Navios e a Prevenção da Poluição (Código ISM), após verificação de que o documento de conformidade emitido para a companhia se aplica a este tipo de navio.\n\nO presente certificado de gestão da segurança é válido até …, sob reserva de verificação periódica e na condição de permanecer válido o documento de conformidade.\n\nData de conclusão da verificação em que se baseia o presente certificado …\n\n*(dd/mm/aaaa)*\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n…\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCERTIFICA-SE que, na verificação periódica efectuada em conformidade com [a regra IX/6.1 da Convenção e o ponto 13.8 do Código ISM e] ([^*8^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013)) o artigo 6.º do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade, se comprovou que o sistema de gestão da segurança cumpre o disposto no Código ISM.\n\nVERIFICAÇÃO INTERMÉDIA (a realizar entre o segundo e o terceiro aniversários) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL ([^*9^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014)) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL [(*9)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\nVERIFICAÇÃO ADICIONAL [(*9)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) Assinado: … (assinatura do funcionário autorizado) Local: … Data: …\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^*10^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0015)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nDesignação e endereço da companhia:\n\n…\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que o sistema de gestão da segurança da companhia foi reconhecido conforme com os objectivos do ponto 1.2.3 da parte A do anexo I do Regulamento (CE) n.º 336/2006 para os seguintes tipos de navios (riscar o que não interessa):\n\nNavio de passageiros\n\nEmbarcação de passageiros de alta velocidade\n\nEmbarcação de carga de alta velocidade\n\nNavio graneleiro\n\nNavio petroleiro\n\nNavio químico\n\nNavio de transporte de gás\n\nUnidade móvel de perfuração ao largo\n\nOutro navio de carga\n\nNavio ro-ro de passageiros (*ferry* ro-ro)\n\nO presente documento de conformidade provisório é válido até …\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão: …\n\n(assinatura do funcionário devidamente autorizado que emite o documento)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\n*(Selo oficial) (Estado)*\n\nCertificado n.º\n\nEmitido nos termos das disposições [da CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR de 1974, na sua versão alterada, e] ([^*11^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0016)) do Regulamento (CE) n.º 336/2006 relativo à aplicação do Código ISM na Comunidade\n\nSob a autoridade do Governo de …\n\n(designação do Estado)\n\npor …\n\n(pessoa ou organização autorizada)\n\nNome do navio: …\n\nDistintivo do navio em números ou letras: …\n\nPorto de registo: …\n\nTipo de navio ([^*12^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0017)): …\n\nArqueação bruta: …\n\nNúmero IMO: …\n\nDesignação e endereço da companhia: …\n\n[ver ponto 1.1.2 da parte A do anexo I do Regulamento (CE) n.º 336/2006]\n\nCERTIFICA-SE que foi cumprido o disposto no ponto 14.4 da parte A do anexo I do Regulamento (CE) n.º 336/2006 e que o documento de conformidade/documento de conformidade provisório ([^*13^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0018)) da companhia é pertinente para este navio.\n\nO presente certificado provisório de gestão da segurança é válido até …, na condição de o documento de conformidade/documento de conformidade provisório [(*13)](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0018) permanecer válido.\n\nEmitido em …\n\n(local de emissão do documento)\n\nData de emissão …\n\n(assinatura do funcionário devidamente autorizado que emite o certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\nCertificado n.º\n\nA validade do presente certificado provisório de gestão da segurança é prorrogada até:\n\nData da prorrogação …\n\n(assinatura do funcionário devidamente autorizado que prorroga a validade do certificado)\n\n(selo ou carimbo da autoridade emissora, consoante o caso)\n\n---"
+  },
+  "d7523010bc2082d2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 324 de 29.11.2002, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão (JO L 68 de 6.3.2004, p. 10).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0004)) Ver as directrizes revistas para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas Administrações, adoptadas pela Organização por meio da Resolução A.913(22).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0005)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga.\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0007)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga.\n\n> ([^*3^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0008)) Riscar o que não interessa.\n\n> ([^*4^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0009)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^*5^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0010)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^*6^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0011)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^*7^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0012)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga; *ferry* ro-ro de passageiros.\n\n> ([^*8^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0013)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^*9^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0014)) Se aplicável. Ver ponto 13.8 do Código ISM e ponto 3.4.1 das directrizes para a aplicação do Código Internacional de Gestão da Segurança (Código ISM) pelas Administrações [Resolução A.913(22)].\n\n> ([^*10^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0015)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^*11^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0016)) Esta menção pode ser suprimida caso se trate de navios que operem exclusivamente num Estado-Membro.\n\n> ([^*12^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0017)) Inscrever o tipo de navio, consoante o caso: navio de passageiros; embarcação de passageiros de alta velocidade; embarcação de carga de alta velocidade; navio graneleiro; navio petroleiro; navio químico; navio de transporte de gás; unidade móvel de perfuração ao largo; outro navio de carga; *ferry* ro-ro de passageiros.\n\n> ([^*13^](http://publications.europa.eu/resource/cellar/65be4cd4-e660-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0018)) Riscar o que não interessa."
+  }
+ }
+}

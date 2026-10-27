@@ -1,0 +1,1163 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0520:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0520-20221222",
+ "dre_path": null,
+ "source_lastmod": "2022-12-22",
+ "versions": [
+  {
+   "date": "2007-05-12",
+   "future": false,
+   "celex": "32007R0520",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "499453f0cd9f5d8a",
+    "ffc348f463b781ad",
+    "95110ef01b194c22",
+    "a4828efddbc52375",
+    "884298f35fc9b933",
+    "cb6408b8047f7ab1",
+    "c3c025e64a8780e2",
+    "4c8bdeab3d91ec7d",
+    "7fa3a00af5f50c41",
+    "f6c2eb219fe1b284",
+    "7d3d5242e36ccb1a",
+    "6fb84cfdd1bc3a02",
+    "aaabf7bd56fc189d",
+    "2ce85ef6190eee2c",
+    "8a6992ea3c104fd1",
+    "e97e119a34811986",
+    "c8bc3cfcac5878e0",
+    "ecabc0afc7a43c89",
+    "2a245b8627bcdcf5",
+    "dfe1d76dce446cd4",
+    "a3b195c08c38f795",
+    "01341eb56779e5f8",
+    "2ae7efd89d672135",
+    "6cc3b57c1b453c93",
+    "194972dee5d70a4a",
+    "aa7d7c609230d73e",
+    "8a5ce8f30ae675b6",
+    "0703f8dcb3fb9b78",
+    "a27f68e4560dcef2",
+    "75a844e9e19a86fa",
+    "9db704600627e53c",
+    "a12e36ff8d9f8e3e",
+    "f6c2eb219fe1b284",
+    "01341eb56779e5f8",
+    "8ae559799c1176dc",
+    "8a6992ea3c104fd1",
+    "c3808981777f7247",
+    "dc6150c3f7164399",
+    "77cdab175333c86b",
+    "662cf62f00c33127",
+    "ff59f2178cbfe54a",
+    "416181358d4217b1",
+    "ac8d76cb6ee8a676",
+    "d5c32932902dc2ec",
+    "ee8b72d52cb20d89",
+    "6ab6401b4db70555",
+    "6c266531716409c4",
+    "5e2e31706d4f4ec8",
+    "4f8efffddfe96470",
+    "199c03b11ca3d739",
+    "d9b589840566ec28",
+    "fd1f6efdb97a73cb",
+    "1203f6b84ba7d529",
+    "fe861e6928962d4c",
+    "b10288b67f8e014f",
+    "dde9cf53e9ae6c9a",
+    "0a91501976d17734",
+    "4e17bb9d1a091f17",
+    "e23312eeddf399e8",
+    "c5cba712949b014b"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "02007R0520-20080101",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1559:por",
+     "title": "REGULAMENTO (CE) N. o 1559/2007 DO CONSELHO de 17 de Dezembro de 2007",
+     "published": null,
+     "celex": "32007R1559"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Zonas",
+    "Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+    "Altera Artigo 32.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Lista das espécies altamente migradoras",
+    "Adita ANEXO II",
+    "Adita Lista dos tunídeos e espécies afins da ICCAT",
+    "Adita ANEXO III",
+    "Adita Comprimento dos navios (n.º 2 do artigo 6.º)",
+    "Adita ANEXO IV",
+    "Suprime Artigo 6.º — Pesca do atum rabilho no Mediterrâneo",
+    "Suprime Artigo 11.º — Procedimento de amostragem nas jaulas de atum rabilho"
+   ],
+   "fragments": [
+    "835df4e1e439fa00",
+    "ffc348f463b781ad",
+    "95110ef01b194c22",
+    "a4828efddbc52375",
+    "884298f35fc9b933",
+    "a7664266dfec9fee",
+    "e33432c906e37531",
+    "4c8bdeab3d91ec7d",
+    "7fa3a00af5f50c41",
+    "f6c2eb219fe1b284",
+    "7d3d5242e36ccb1a",
+    "6fb84cfdd1bc3a02",
+    "2ce85ef6190eee2c",
+    "8a6992ea3c104fd1",
+    "e97e119a34811986",
+    "c8bc3cfcac5878e0",
+    "ecabc0afc7a43c89",
+    "2a245b8627bcdcf5",
+    "a3b195c08c38f795",
+    "01341eb56779e5f8",
+    "f63e7cde8fe80249",
+    "6cc3b57c1b453c93",
+    "194972dee5d70a4a",
+    "aa7d7c609230d73e",
+    "8a5ce8f30ae675b6",
+    "0703f8dcb3fb9b78",
+    "a27f68e4560dcef2",
+    "75a844e9e19a86fa",
+    "9db704600627e53c",
+    "a12e36ff8d9f8e3e",
+    "f6c2eb219fe1b284",
+    "01341eb56779e5f8",
+    "8ae559799c1176dc",
+    "8a6992ea3c104fd1",
+    "c3808981777f7247",
+    "dc6150c3f7164399",
+    "77cdab175333c86b",
+    "662cf62f00c33127",
+    "ff59f2178cbfe54a",
+    "416181358d4217b1",
+    "ac8d76cb6ee8a676",
+    "d5c32932902dc2ec",
+    "ee8b72d52cb20d89",
+    "6ab6401b4db70555",
+    "6c266531716409c4",
+    "5e2e31706d4f4ec8",
+    "4f8efffddfe96470",
+    "199c03b11ca3d739",
+    "d9b589840566ec28",
+    "fd1f6efdb97a73cb",
+    "1203f6b84ba7d529",
+    "fe861e6928962d4c",
+    "b10288b67f8e014f",
+    "dde9cf53e9ae6c9a",
+    "0a91501976d17734",
+    "4e17bb9d1a091f17",
+    "abc1ccfae02f6c5e",
+    "d664376e2a8dcecd",
+    "909180e3708a15dd",
+    "852174729551523b",
+    "736d8c3dcecf566a",
+    "720af75c92791b10",
+    "da97d7b05dd08895",
+    "0439526b05b638ec",
+    "49560b0e55f9a4dd"
+   ]
+  },
+  {
+   "date": "2017-12-03",
+   "future": false,
+   "celex": "02007R0520-20171203",
+   "acts": [
+    {
+     "id": "eu:celex:32017R2107:por",
+     "title": "REGULAMENTO (UE) 2017/2107 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017",
+     "published": null,
+     "celex": "32017R2107"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Zonas",
+    "Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+    "Altera Notas",
+    "Suprime TÍTULO II",
+    "Suprime MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 1",
+    "Suprime ANEXO II",
+    "Suprime Lista dos tunídeos e espécies afins da ICCAT",
+    "Suprime ANEXO III",
+    "Suprime Comprimento dos navios (n.º 2 do artigo 6.º)",
+    "Suprime ANEXO IV"
+   ],
+   "fragments": [
+    "2d650a060b27eaac",
+    "ffc348f463b781ad",
+    "95110ef01b194c22",
+    "a4828efddbc52375",
+    "884298f35fc9b933",
+    "084268fcd4511dbb",
+    "6be331f707c0c81f",
+    "f6c2eb219fe1b284",
+    "7d3d5242e36ccb1a",
+    "6fb84cfdd1bc3a02",
+    "2ce85ef6190eee2c",
+    "8a6992ea3c104fd1",
+    "e97e119a34811986",
+    "c8bc3cfcac5878e0",
+    "ecabc0afc7a43c89",
+    "2a245b8627bcdcf5",
+    "a3b195c08c38f795",
+    "01341eb56779e5f8",
+    "4afe4514e4aadc14",
+    "6cc3b57c1b453c93",
+    "194972dee5d70a4a",
+    "aa7d7c609230d73e",
+    "8a5ce8f30ae675b6",
+    "0703f8dcb3fb9b78",
+    "a27f68e4560dcef2",
+    "75a844e9e19a86fa",
+    "9db704600627e53c",
+    "a12e36ff8d9f8e3e",
+    "f6c2eb219fe1b284",
+    "01341eb56779e5f8",
+    "8ae559799c1176dc",
+    "8a6992ea3c104fd1",
+    "c3808981777f7247",
+    "dc6150c3f7164399",
+    "77cdab175333c86b",
+    "662cf62f00c33127",
+    "ff59f2178cbfe54a",
+    "416181358d4217b1",
+    "ac8d76cb6ee8a676",
+    "d5c32932902dc2ec",
+    "ee8b72d52cb20d89",
+    "6ab6401b4db70555",
+    "6c266531716409c4",
+    "5e2e31706d4f4ec8",
+    "4f8efffddfe96470",
+    "199c03b11ca3d739",
+    "d9b589840566ec28",
+    "fd1f6efdb97a73cb",
+    "1203f6b84ba7d529",
+    "fe861e6928962d4c",
+    "b10288b67f8e014f",
+    "dde9cf53e9ae6c9a",
+    "0a91501976d17734",
+    "4e17bb9d1a091f17",
+    "abc1ccfae02f6c5e",
+    "d664376e2a8dcecd",
+    "6f05f9e3991db0a8",
+    "a26b55c24565f66f"
+   ]
+  },
+  {
+   "date": "2021-02-15",
+   "future": false,
+   "celex": "02007R0520-20210215",
+   "acts": [
+    {
+     "id": "eu:celex:32021R0056:por",
+     "title": "REGULAMENTO (UE) 2021/56 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de janeiro de 2021",
+     "published": null,
+     "celex": "32021R0056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Zonas",
+    "Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+    "Altera Notas",
+    "Suprime TÍTULO IV",
+    "Suprime MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 3",
+    "Suprime Artigo 21.º — Transbordo",
+    "Suprime Artigo 22.º — Limitação do número de navios",
+    "Suprime Artigo 23.º — Protecção dos golfinhos",
+    "Suprime Artigo 24.º — Pedidos de LMG",
+    "Suprime Artigo 25.º — Repartição dos LMG",
+    "Suprime Artigo 26.º — Protecção de outras espécies não alvo",
+    "Suprime Artigo 27.º — Tartarugas marinhas"
+   ],
+   "fragments": [
+    "2d650a060b27eaac",
+    "ffc348f463b781ad",
+    "95110ef01b194c22",
+    "a4828efddbc52375",
+    "884298f35fc9b933",
+    "255c6aa9c94dc0aa",
+    "21d5844fe61875e8",
+    "f6c2eb219fe1b284",
+    "7d3d5242e36ccb1a",
+    "483856cb90a7f938",
+    "2ce85ef6190eee2c",
+    "8a6992ea3c104fd1",
+    "e97e119a34811986",
+    "c8bc3cfcac5878e0",
+    "ecabc0afc7a43c89",
+    "2a245b8627bcdcf5",
+    "a3b195c08c38f795",
+    "01341eb56779e5f8",
+    "ac5a9cca9924617e",
+    "6cc3b57c1b453c93",
+    "194972dee5d70a4a",
+    "aa7d7c609230d73e",
+    "8a5ce8f30ae675b6",
+    "0703f8dcb3fb9b78",
+    "a27f68e4560dcef2",
+    "75a844e9e19a86fa",
+    "9db704600627e53c",
+    "a12e36ff8d9f8e3e",
+    "f6c2eb219fe1b284",
+    "01341eb56779e5f8",
+    "8ae559799c1176dc",
+    "8a6992ea3c104fd1",
+    "c3808981777f7247",
+    "dc6150c3f7164399",
+    "48ae5585fde12e16",
+    "4f8efffddfe96470",
+    "199c03b11ca3d739",
+    "d9b589840566ec28",
+    "fd1f6efdb97a73cb",
+    "1203f6b84ba7d529",
+    "fe861e6928962d4c",
+    "b10288b67f8e014f",
+    "dde9cf53e9ae6c9a",
+    "0a91501976d17734",
+    "4e17bb9d1a091f17",
+    "abc1ccfae02f6c5e",
+    "d664376e2a8dcecd",
+    "6f05f9e3991db0a8",
+    "640edd4c54979550"
+   ]
+  },
+  {
+   "date": "2022-11-15",
+   "future": false,
+   "celex": "02007R0520-20221115",
+   "acts": [
+    {
+     "id": "eu:celex:32022R2056:por",
+     "title": "REGULAMENTO (UE) 2022/2056 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022",
+     "published": null,
+     "celex": "32022R2056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º — Zonas",
+    "Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+    "Altera Notas",
+    "Suprime Artigo 28.º — Redução dos resíduos"
+   ],
+   "fragments": [
+    "2d650a060b27eaac",
+    "ffc348f463b781ad",
+    "95110ef01b194c22",
+    "a4828efddbc52375",
+    "884298f35fc9b933",
+    "255c6aa9c94dc0aa",
+    "033d52444ff73608",
+    "f6c2eb219fe1b284",
+    "7d3d5242e36ccb1a",
+    "483856cb90a7f938",
+    "2ce85ef6190eee2c",
+    "8a6992ea3c104fd1",
+    "e97e119a34811986",
+    "c8bc3cfcac5878e0",
+    "ecabc0afc7a43c89",
+    "2a245b8627bcdcf5",
+    "a3b195c08c38f795",
+    "01341eb56779e5f8",
+    "2500214d412b5b10",
+    "6cc3b57c1b453c93",
+    "194972dee5d70a4a",
+    "aa7d7c609230d73e",
+    "8a5ce8f30ae675b6",
+    "0703f8dcb3fb9b78",
+    "a27f68e4560dcef2",
+    "75a844e9e19a86fa",
+    "9db704600627e53c",
+    "a12e36ff8d9f8e3e",
+    "f6c2eb219fe1b284",
+    "01341eb56779e5f8",
+    "8ae559799c1176dc",
+    "8a6992ea3c104fd1",
+    "c3808981777f7247",
+    "dc6150c3f7164399",
+    "48ae5585fde12e16",
+    "4f8efffddfe96470",
+    "199c03b11ca3d739",
+    "fd1f6efdb97a73cb",
+    "1203f6b84ba7d529",
+    "fe861e6928962d4c",
+    "b10288b67f8e014f",
+    "dde9cf53e9ae6c9a",
+    "0a91501976d17734",
+    "4e17bb9d1a091f17",
+    "abc1ccfae02f6c5e",
+    "d664376e2a8dcecd",
+    "6f05f9e3991db0a8",
+    "bdd059976df717ef"
+   ]
+  },
+  {
+   "date": "2022-12-22",
+   "future": false,
+   "celex": "02007R0520-20221222",
+   "acts": [
+    {
+     "id": "eu:celex:32022R2343:por",
+     "title": "REGULAMENTO (UE) 2022/2343 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022",
+     "published": null,
+     "celex": "32022R2343"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º — Zonas",
+    "Suprime CAPÍTULO 1",
+    "Suprime Restrições à utilização de determinados tipos de navios e de artes",
+    "Suprime Artigo 5.º — Protecção do atum patudo em certas águas tropicais",
+    "Suprime Artigo 7.º — Pesca do gaiado, do atum patudo e do albacora em determinadas águas portuguesas",
+    "Suprime CAPÍTULO 2",
+    "Suprime Tamanho mínimo",
+    "Suprime Artigo 8.º — Dimensões",
+    "Suprime Artigo 9.º — Proibições",
+    "Suprime Artigo 10.º — Medição do tamanho",
+    "Suprime CAPÍTULO 3",
+    "Suprime Limitação do número de navios",
+    "Suprime Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+    "Suprime CAPÍTULO 4",
+    "Suprime Espécies não alvo e pesca desportiva e de lazer",
+    "Suprime Artigo 13.º — Espadins",
+    "Suprime Artigo 14.º — Tubarões",
+    "Suprime Artigo 15.º — Tartarugas marinhas",
+    "Suprime Artigo 16.º — Pesca desportiva e de lazer no Mediterrâneo",
+    "Suprime Artigo 17.º — Relatório",
+    "Suprime Artigo 18.º — Número de navios autorizados",
+    "Suprime Espécies não alvo",
+    "Suprime Artigo 19.º — Tubarões",
+    "Suprime Artigo 20.º — Tartarugas marinhas",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2d650a060b27eaac",
+    "ffc348f463b781ad",
+    "95110ef01b194c22",
+    "a4828efddbc52375",
+    "884298f35fc9b933",
+    "255c6aa9c94dc0aa",
+    "38cd3850aa2fcf7b",
+    "9db704600627e53c",
+    "a12e36ff8d9f8e3e",
+    "4f8efffddfe96470",
+    "199c03b11ca3d739",
+    "fd1f6efdb97a73cb",
+    "1203f6b84ba7d529",
+    "fe861e6928962d4c",
+    "b10288b67f8e014f",
+    "dde9cf53e9ae6c9a",
+    "0a91501976d17734",
+    "4e17bb9d1a091f17",
+    "abc1ccfae02f6c5e",
+    "d664376e2a8dcecd",
+    "909180e3708a15dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "499453f0cd9f5d8a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio de 2007\n\nque estabelece medidas técnicas de conservação para certas unidades populacionais de grandes migradores e que revoga o Regulamento (CE) n.º 973/2001\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nConsiderando o seguinte:\n\n(1) Pela Decisão 98/392/CE [([^1])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr1-L_2007123PT.01000301-E0001), a Comunidade aprovou a Convenção das Nações Unidas sobre o Direito do Mar, que contém certos princípios e certas regras respeitantes à conservação e à gestão dos recursos vivos do mar. No âmbito das suas obrigações internacionais mais amplas, a Comunidade participa nos esforços desenvolvidos nas águas internacionais para conservar as unidades populacionais de peixes.\n\n(2) Desde 14 de Novembro de 1997 e na sequência da Decisão 86/238/CEE [([^2])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr2-L_2007123PT.01000301-E0002), a Comunidade é parte contratante na Convenção Internacional para a Conservação dos Tunídeos do Atlântico, a seguir denominada «Convenção ICCAT».\n\n(3) A Convenção ICCAT estabelece um quadro para a cooperação regional em matéria de conservação e de gestão dos recursos de tunídeos e espécies afins do oceano Atlântico e dos mares adjacentes, através da criação de uma Comissão Internacional para a Conservação dos Tunídeos do Atlântico, a seguir denominada «ICCAT», e da adopção de recomendações em matéria de conservação e de gestão na zona da Convenção, que se tornam obrigatórias para as partes contratantes.\n\n(4) A ICCAT recomendou certas medidas técnicas para determinadas unidades populacionais de grandes migradores no Atlântico e no Mediterrâneo, nomeadamente no respeitante aos tamanhos e pesos autorizados para os peixes, às restrições aplicáveis às capturas em certas zonas ou durante certos períodos ou com determinadas artes e às limitações das capacidades. Essas recomendações são obrigatórias para a Comunidade, pelo que devem ser executadas.\n\n(5) Pela Decisão 95/399/CE [([^3])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr3-L_2007123PT.01000301-E0003), a Comunidade aprovou o Acordo que cria a Comissão do Atum do Oceano Índico. Esse acordo estabelece um quadro útil para o reforço da cooperação internacional para fins de conservação e utilização racional dos atuns e espécies afins do oceano Índico, através da criação da Comissão do Atum do Oceano Índico, a seguir denominada «IOTC», e da adopção de resoluções em matéria de conservação e de gestão na zona de competência da IOTC, que se tornam obrigatórias para as partes contratantes.\n\n(6) A IOTC aprovou uma recomendação que estabelece certas medidas técnicas para determinadas unidades populacionais de grandes migradores no oceano Índico, nomeadamente limitações das capacidades. Essa recomendação é obrigatória para a Comunidade, pelo que deve ser executada.\n\n(7) Pela Decisão 2005/938/CE [([^4])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr4-L_2007123PT.01000301-E0004), a Comunidade aprovou o Acordo sobre o Programa Internacional de Conservação dos Golfinhos. Em consequência, a Comunidade deve aplicar as disposições estabelecidas nesse acordo.\n\n(8) Os objectivos do referido acordo incluem a redução progressiva, para níveis próximos de zero, da mortalidade acidental dos golfinhos nas pescarias de atum com redes de cerco com retenida no oceano Pacífico Oriental, através da fixação de limites anuais das capturas, assim como a sustentabilidade a longo prazo das unidades populacionais de atum na área do acordo.\n\n(9) A Comunidade tem interesses de pesca no Pacífico Oriental e participou no processo para a adopção da Convenção relativa ao reforço da Comissão Interamericana do Atum Tropical, a seguir denominada «Convenção de Antígua». Pela Decisão 2005/26/CE [([^5])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr5-L_2007123PT.01000301-E0005), a Comunidade assinou a Convenção de Antígua e iniciou o processo de adesão a esta nova convenção. Na pendência da entrada em vigor da Convenção de Antígua, a Comunidade decidiu, na sua qualidade de parte não contratante cooperante na Comissão Interamericana do Atum Tropical, a seguir denominada «IATTC», aplicar as medidas técnicas adoptadas por esta organização. Convém, pois, transpor essas medidas para o direito comunitário.\n\n(10) Por força da Decisão 2005/75/CE [([^6])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr6-L_2007123PT.01000301-E0006) e com efeitos desde 25 de Janeiro de 2005, a Comunidade é parte contratante na Convenção sobre a Conservação e a Gestão das Populações de Peixes Altamente Migradores no Oceano Pacífico Ocidental e Central, a seguir denominada «Convenção WCPFC».\n\n(11) A Convenção WCPFC estabelece um quadro para a cooperação regional, com vista a assegurar a conservação a longo prazo e a exploração sustentável das unidades populacionais de peixes grandes migradores no oceano Pacífico Ocidental e Central, através da criação de uma Comissão das Pescas para o Pacífico Ocidental e Central (WCPFC).\n\n(12) É, por conseguinte, conveniente que a Comunidade aplique as disposições previstas na Convenção, bem como as medidas técnicas adoptadas pela WCPFC.\n\n(13) As medidas técnicas aprovadas por estas organizações regionais de pesca foram incorporadas no Regulamento (CE) n.º 973/2001 do Conselho, de 14 de Maio de 2001, que estabelece medidas técnicas de conservação para certas unidades populacionais de grandes migradores [([^7])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr7-L_2007123PT.01000301-E0007).\n\n(14) Uma vez que, após a aprovação do Regulamento (CE) n.º 973/2001, as organizações em causa aprovaram novas medidas técnicas e actualizaram certas medidas em vigor, é necessário revogar aquele regulamento e substituí-lo pelo presente regulamento.\n\n(15) As limitações de capacidade devem ser determinadas nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas [([^8])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr8-L_2007123PT.01000301-E0008).\n\n(16) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^9])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr9-L_2007123PT.01000301-E0009),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "95110ef01b194c22": {
+   "fragment_id": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "a4828efddbc52375": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as medidas técnicas de conservação aplicáveis à captura e ao desembarque de determinadas unidades populacionais de espécies altamente migradoras referidas no anexo I, assim como à captura de espécies acessórias."
+  },
+  "884298f35fc9b933": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nSem prejuízo do artigo 9.º, o presente regulamento é aplicável aos navios que arvoram pavilhão dos Estados-Membros e estão registados na Comunidade (a seguir denominados «navios de pesca comunitários»)."
+  },
+  "cb6408b8047f7ab1": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Espécies altamente migradoras»: as espécies constantes do anexo I;\n\n2) «Tunídeos e espécies afins da competência da ICCAT»: as espécies constantes do anexo II;\n\n3) «Limite de mortalidade dos golfinhos»: limite definido no artigo V do Acordo sobre o Programa Internacional de Conservação dos Golfinhos [([^10])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr10-L_2007123PT.01000301-E0010);\n\n4) «Pesca de lazer»: as actividades de pesca que exploram os recursos aquáticos vivos para fins recreativos ou desportivos;\n\n5) «Rede de cerco»: rede, com ou sem retenida, que captura o peixe envolvendo-o pelos lados e por baixo;\n\n6) «Rede de cerco com retenida»: qualquer rede de cerco cuja parte inferior é fechada por uma retenida, que passa pelo meio de argolas ligadas à tralha dos chumbos e permite fechar a rede como uma bolsa. A rede de cerco com retenida pode ser utilizada para a captura de pequenos pelágicos, de grandes pelágicos ou de espécies demersais;\n\n7) «Palangre»: arte de pesca constituída por uma linha principal (madre) à qual se ligam numerosas linhas secundárias (estralhos) na extremidade das quais se empata um anzol e cujo comprimento e espaçamento variam consoante a espécie-alvo. O palangre pode ser calado na horizontal ou verticalmente e ser utilizado no fundo ou perto do fundo (palangre fundeado de fundo), entre duas águas (palangre fundeado de meia-água) ou próximo da superfície (palangre derivante);\n\n8) «Anzol»: engenho de aço curvo e afiado, geralmente dotado de uma barbela. A ponta do anzol pode ser recta, eventualmente enviesada, ou curva. A haste pode ter diferentes formas e comprimentos e apresentar uma secção redonda (vulgar) ou achatada (forjada). O comprimento total do anzol é o comprimento máximo total da haste medido a partir da ponta do anzol que serve para passar a linha (geralmente com a forma de um olhal) até ao ápice da curvatura do anzol. A largura do anzol é a maior distância horizontal medida a partir da parte externa da haste até à parte externa da barbela;\n\n9) «Dispositivo de concentração de peixes»: qualquer equipamento que flutue à superfície do mar com o objectivo de atrair peixes;\n\n10) «Palangreiro de superfície»: qualquer navio equipado com linha e vara para a pesca de atum."
+  },
+  "c3c025e64a8780e2": {
+   "fragment_id": "Artigo 4.º — Zonas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:\n\n1) Zona 1 Todas as águas do oceano Atlântico e dos mares adjacentes, incluídas na zona da Convenção ICCAT definida no artigo 1.º da Convenção;\n\n2) Zona 2 Todas as águas do oceano Índico incluídas na zona de competência do Acordo que cria a IOTC, definida no artigo 2.º do acordo;\n\n3) Zona 3 Todas as águas do Pacífico Oriental incluídas na zona definida no artigo 3.º do Acordo sobre o Programa Internacional de Conservação dos Golfinhos;\n\n4) Zona 4 Todas as águas do Pacífico Ocidental e Central incluídas na zona definida no artigo 3.º da Convenção WCPFC."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "7fa3a00af5f50c41": {
+   "fragment_id": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 1",
+   "type": "divisao",
+   "heading": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 1"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "7d3d5242e36ccb1a": {
+   "fragment_id": "Restrições à utilização de determinados tipos de navios e de artes",
+   "type": "divisao",
+   "heading": "Restrições à utilização de determinados tipos de navios e de artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Restrições à utilização de determinados tipos de navios e de artes"
+  },
+  "6fb84cfdd1bc3a02": {
+   "fragment_id": "Artigo 5.º — Protecção do atum patudo em certas águas tropicais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Protecção do atum patudo em certas águas tropicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Protecção do atum patudo em certas águas tropicais\n\n1. No período compreendido entre 1 e 30 de Novembro, é proibida a pesca de atum com cercadores de rede com retenida e palangreiros de superfície na zona delimitada do seguinte modo:\n\n— limite sul: paralelo de latitude 0° S,\n\n— limite norte: paralelo de latitude 5° N,\n\n— limite oeste: meridiano de longitude 20° W,\n\n— limite este: meridiano de longitude 10° W.\n\n2. Os Estados-Membros transmitem à Comissão todos os anos, até 15 de Agosto, um relatório sobre a execução desta medida, incluindo, se for caso disso, uma lista das infracções, cometidas pelos navios de pesca que arvoram o seu pavilhão, contra as quais tenham sido instauradas acções pelas suas autoridades competentes."
+  },
+  "aaabf7bd56fc189d": {
+   "fragment_id": "Artigo 6.º — Pesca do atum rabilho no Mediterrâneo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Pesca do atum rabilho no Mediterrâneo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pesca do atum rabilho no Mediterrâneo\n\n1. É proibida a pesca do atum rabilho com rede de cerco com retenida no mar Mediterrâneo entre 16 de Julho e 15 de Agosto.\n\n2. É proibida a pesca do atum rabilho com palangres de superfície no mar Mediterrâneo por navios de mais de 24 metros entre 1 de Junho e 31 de Julho. O comprimento dos navios é definido nos termos do anexo III.\n\n3. É proibido utilizar aviões ou helicópteros em apoio a operações de pesca do atum rabilho praticadas no mar Mediterrâneo entre 1 e 30 de Junho.\n\n4. A definição dos períodos e das zonas referidos no presente artigo e o comprimento dos navios definido no anexo III podem ser alterados pela Comissão para aplicação das recomendações da ICCAT obrigatórias para a Comunidade, nos termos do artigo 30.º"
+  },
+  "2ce85ef6190eee2c": {
+   "fragment_id": "Artigo 7.º — Pesca do gaiado, do atum patudo e do albacora em determinadas águas portuguesas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Pesca do gaiado, do atum patudo e do albacora em determinadas águas portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pesca do gaiado, do atum patudo e do albacora em determinadas águas portuguesas\n\nÉ proibido manter a bordo qualquer quantidade de gaiado, atum patudo ou albacora, capturada com redes de cerco com retenida nas águas sob a soberania ou jurisdição de Portugal na subzona X do CIEM (Conselho Internacional de Exploração do Mar) a norte de 36°30′ N, bem como nas zonas CECAF (Comité das Pescas do Atlântico Centro-Leste) a norte de 31° N e a leste de 17°30′ W, ou pescar essas espécies nas referidas zonas e com as referidas artes."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "e97e119a34811986": {
+   "fragment_id": "Tamanho mínimo",
+   "type": "divisao",
+   "heading": "Tamanho mínimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tamanho mínimo"
+  },
+  "c8bc3cfcac5878e0": {
+   "fragment_id": "Artigo 8.º — Dimensões",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Dimensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dimensões\n\n1. Considera-se que uma espécie constante do anexo IV não tem o tamanho requerido se as suas dimensões forem inferiores às dimensões mínimas fixadas nesse anexo.\n\n2. As dimensões definidas no anexo IV podem ser alteradas para aplicação das recomendações da ICCAT obrigatórias para a Comunidade, nos termos do artigo 30.º"
+  },
+  "ecabc0afc7a43c89": {
+   "fragment_id": "Artigo 9.º — Proibições",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proibições\n\n1. É proibido manter a bordo, transbordar, desembarcar, transportar, armazenar, expor para colocação à venda, colocar à venda e comercializar espécies constantes do anexo IV capturadas na Zona 1 que não tenham o tamanho requerido. Essas espécies devem ser devolvidas ao mar imediatamente após a captura.\n\n2. É proibido colocar em livre prática ou comercializar na Comunidade as espécies constantes do anexo IV originárias de países terceiros, que tenham sido capturadas na Zona 1 e não tenham o tamanho requerido."
+  },
+  "2a245b8627bcdcf5": {
+   "fragment_id": "Artigo 10.º — Medição do tamanho",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medição do tamanho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medição do tamanho\n\n1. No caso de todas as espécies, com excepção dos espadins, mede-se o comprimento até à bifurcação da barbatana caudal, isto é, a distância em projecção vertical entre a extremidade da mandíbula superior e a extremidade do raio caudal mais curto.\n\n2. No caso dos espadins, o tamanho é medido da ponta da mandíbula inferior até à bifurcação da barbatana caudal."
+  },
+  "dfe1d76dce446cd4": {
+   "fragment_id": "Artigo 11.º — Procedimento de amostragem nas jaulas de atum rabilho",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de amostragem nas jaulas de atum rabilho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de amostragem nas jaulas de atum rabilho\n\n1. Cada Estado-Membro estabelece um procedimento de amostragem, a fim de estimar o número por tamanho de atuns rabilhos capturados.\n\n2. A amostragem do tamanho nas jaulas é feita com base numa amostra de 100 espécimes por cada 100 toneladas de peixe vivo ou numa amostra de 10 % do número total de peixes enjaulados. A amostra de tamanho deve ser colhida durante a colheita na exploração, de acordo com o método adoptado pela ICCAT para a comunicação dos dados no âmbito da Tarefa II.\n\n3. Serão elaborados métodos e amostragens complementares no respeitante aos peixes cultivados durante mais de um ano.\n\n4. A amostragem deve ser efectuada durante uma colheita seleccionada aleatoriamente e abranger o conjunto das jaulas. Os dados devem ser comunicados à ICCAT até 31 de Julho no respeitante à amostragem efectuada no ano anterior."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "01341eb56779e5f8": {
+   "fragment_id": "Limitação do número de navios",
+   "type": "divisao",
+   "heading": "Limitação do número de navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Limitação do número de navios"
+  },
+  "2ae7efd89d672135": {
+   "fragment_id": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atum patudo e voador do Atlântico Norte\n\n1. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número e a capacidade total, expressa em arqueação bruta (GT), dos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros que pescam o atum patudo como espécie-alvo na Zona 1. Essa determinação é efectuada:\n\na) De acordo com o número médio e a capacidade, expressa em GT, correspondentes aos navios de pesca comunitários que pescaram o atum patudo como espécie-alvo na Zona 1 no período de 1991-1992; e\n\nb) Com base na limitação do número de navios comunitários que pescam atum patudo em 2005, notificado à ICCAT em 30 de Junho de 2005.\n\n2. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de navios de pesca comunitários que pescam atum voador do Atlântico Norte como espécie-alvo. O número de navios é fixado com base nos navios de pesca comunitários que pescaram atum voador do Atlântico Norte como espécie-alvo no período de 1993-1995.\n\n3. O Conselho reparte pelos Estados-Membros, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002:\n\na) O número e a capacidade, expressa em GT, determinados nos termos do n.º 1;\n\nb) O número de navios determinado nos termos do n.º 2.\n\n4. Os Estados-Membros transmitem à Comissão todos os anos, antes de 15 de Maio, pelos meios usuais de transmissão de dados:\n\na) A lista dos navios de comprimento de fora a fora superior a 24 metros que arvoram o seu pavilhão e pescam atum patudo;\n\nb) A lista dos navios que arvoram o seu pavilhão e participam na pesca dirigida ao atum voador no Atlântico Norte.\n\nA Comissão transmite essas informações anualmente ao Secretariado da ICCAT antes de 31 de Maio.\n\n5. As listas a que se refere o n.º 4 mencionarão o número interno do «ficheiro da frota» atribuído ao navio, nos termos do anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro comunitário dos navios de pesca [([^11])](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntr11-L_2007123PT.01000301-E0011), assim como o tipo de arte utilizada."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "194972dee5d70a4a": {
+   "fragment_id": "Espécies não alvo e pesca desportiva e de lazer",
+   "type": "divisao",
+   "heading": "Espécies não alvo e pesca desportiva e de lazer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies não alvo e pesca desportiva e de lazer"
+  },
+  "aa7d7c609230d73e": {
+   "fragment_id": "Artigo 13.º — Espadins",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Espadins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Espadins\n\nOs Estados-Membros incentivam a utilização de estralhos de monofilamento nos destorcedores, a fim de facilitar a devolução voluntária ao mar dos espadins azuis e dos espadins brancos vivos."
+  },
+  "8a5ce8f30ae675b6": {
+   "fragment_id": "Artigo 14.º — Tubarões",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Tubarões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tubarões\n\n1. Os Estados-Membros incentivam a devolução ao mar dos tubarões vivos capturados acidentalmente, designadamente os juvenis.\n\n2. Os Estados-Membros incentivam a diminuição das devoluções de tubarões através da melhoria da selectividade das artes de pesca."
+  },
+  "0703f8dcb3fb9b78": {
+   "fragment_id": "Artigo 15.º — Tartarugas marinhas",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Tartarugas marinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tartarugas marinhas\n\nOs Estados-Membros incentivam a devolução ao mar das tartarugas marinhas vivas capturadas acidentalmente."
+  },
+  "a27f68e4560dcef2": {
+   "fragment_id": "Artigo 16.º — Pesca desportiva e de lazer no Mediterrâneo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Pesca desportiva e de lazer no Mediterrâneo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pesca desportiva e de lazer no Mediterrâneo\n\n1. Os Estados-Membros tomam as medidas necessárias para proibir a utilização de redes rebocadas, redes de cerco, redes de cerco com retenida, dragas, redes de emalhar, tresmalhos e palangres na pesca do atum e espécies afins, exercida no mar Mediterrâneo no quadro de actividades de pesca desportiva e de lazer.\n\n2. Os Estados-Membros asseguram que os atuns e espécies afins capturados no mar Mediterrâneo no quadro da pesca desportiva e de lazer não sejam comercializados."
+  },
+  "75a844e9e19a86fa": {
+   "fragment_id": "Artigo 17.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Relatório\n\nOs Estados-Membros transmitem anualmente à Comissão, até 15 de Agosto, um relatório sobre a execução do presente capítulo."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "a12e36ff8d9f8e3e": {
+   "fragment_id": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 2",
+   "type": "divisao",
+   "heading": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 2"
+  },
+  "8ae559799c1176dc": {
+   "fragment_id": "Artigo 18.º — Número de navios autorizados",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Número de navios autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Número de navios autorizados\n\n1. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de navios de pesca comunitários de mais de 24 metros de fora a fora autorizados a pescar na Zona 2. Esse número corresponde ao número de navios de pesca comunitários registados em 2003 no registo dos navios da IOTC. A limitação do número de navios deve corresponder à arqueação global, expressa em arqueação bruta (GT), não devendo a arqueação global ser excedida em caso de substituição de navios.\n\n2. O Conselho, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, reparte pelos Estados-Membros o número de navios determinado em conformidade com o n.º 1 do presente artigo."
+  },
+  "c3808981777f7247": {
+   "fragment_id": "Espécies não alvo",
+   "type": "divisao",
+   "heading": "Espécies não alvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies não alvo"
+  },
+  "dc6150c3f7164399": {
+   "fragment_id": "Artigo 19.º — Tubarões",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Tubarões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Tubarões\n\n1. Os Estados-Membros tomam todas as medidas necessárias para incentivar a devolução ao mar dos tubarões vivos capturados acidentalmente, designadamente os juvenis.\n\n2. Os Estados-Membros incentivam a redução das devoluções de tubarões."
+  },
+  "77cdab175333c86b": {
+   "fragment_id": "Artigo 20.º — Tartarugas marinhas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Tartarugas marinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Tartarugas marinhas\n\n1. Os Estados-Membros tomam todas as medidas necessárias para reduzir o impacto da pesca nas tartarugas marinhas, nomeadamente através da aplicação das medidas previstas nos n.^os^ 2, 3 e 4:\n\n2. A utilização de qualquer arte de pesca está sujeita às seguintes condições:\n\na) Manipulação adequada, incluindo reanimação ou rápida devolução ao mar, das tartarugas marinhas capturadas acidentalmente (anzol ou redes) ou acessoriamente;\n\nb) Presença a bordo do equipamento necessário para a devolução ao mar das tartarugas marinhas capturadas acidental ou acessoriamente.\n\n3. A utilização de redes de cerco com retenida está sujeita às seguintes condições:\n\na) Obrigação de evitar, na medida do possível, o cerco das tartarugas marinhas;\n\nb) Desenvolvimento e aplicação das especificações de artes adequadas, a fim de minimizar as capturas acessórias de tartarugas marinhas;\n\nc) Adopção de todas as medidas necessárias para soltar as tartarugas marinhas cercadas ou capturadas;\n\nd) Adopção de todas as medidas necessárias para vigiar os dispositivos de concentração de peixes (DCP) em que podem ficar presas as tartarugas marinhas, soltar as tartarugas presas e recuperar os DCP não utilizados.\n\n4. A utilização de palangres está sujeita às seguintes condições:\n\na) Desenvolvimento e introdução de combinações de formas de anzóis, tipos de isco, profundidade e concepção das redes, bem como de práticas de pesca, a fim de minimizar as capturas acidentais ou acessórias e a mortalidade das tartarugas marinhas;\n\nb) Presença a bordo do equipamento necessário para a devolução ao mar das tartarugas marinhas capturadas acidental ou acessoriamente, incluindo instrumentos para as desprender ou para cortar as linhas e chalavares."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "ff59f2178cbfe54a": {
+   "fragment_id": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 3",
+   "type": "divisao",
+   "heading": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 3"
+  },
+  "416181358d4217b1": {
+   "fragment_id": "Artigo 21.º — Transbordo",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transbordo\n\n1. É proibido utilizar navios auxiliares para apoiar os navios que pescam com dispositivos de concentração de peixes.\n\n2. É proibido aos cercadores realizar transbordos de peixes no mar."
+  },
+  "ac8d76cb6ee8a676": {
+   "fragment_id": "Artigo 22.º — Limitação do número de navios",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Limitação do número de navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Limitação do número de navios\n\n1. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de cercadores comunitários autorizados a pescar atum na Zona 3. Esse número corresponde ao número de cercadores comunitários registados no registo da IATTC em 28 de Junho de 2002.\n\n2. Os Estados-Membros transmitem à Comissão todos os anos, antes de 10 de Dezembro, a lista dos navios que arvoram o seu pavilhão e pretendem pescar atum na Zona 3. Os navios não inscritos nessa lista são considerados inactivos, não sendo autorizados a pescar no ano em curso.\n\n3. As listas mencionarão o número interno do «ficheiro da frota» atribuído ao navio, nos termos do anexo 1 do Regulamento (CE) n.º 26/2004, assim como o tipo de arte utilizada."
+  },
+  "d5c32932902dc2ec": {
+   "fragment_id": "Artigo 23.º — Protecção dos golfinhos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Protecção dos golfinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Protecção dos golfinhos\n\nSó são autorizados a realizar o cerco de cardumes ou grupos de golfinhos com redes de cerco com retenida aquando da pesca do albacora na Zona 3 os navios de pesca comunitários que operem nas condições fixadas pelo Acordo sobre o Programa Internacional de Conservação dos Golfinhos e que disponham de um limite de mortalidade dos golfinhos (LMG)."
+  },
+  "ee8b72d52cb20d89": {
+   "fragment_id": "Artigo 24.º — Pedidos de LMG",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Pedidos de LMG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pedidos de LMG\n\nTodos os anos, antes de 15 de Setembro, os Estados-Membros notificam a Comissão:\n\na) Da lista dos navios que arvorem o seu pavilhão e cuja capacidade de carga seja superior a 363 toneladas métricas (400 toneladas líquidas) que tenham solicitado um LMG para todo o ano seguinte;\n\nb) Da lista dos navios que arvorem o seu pavilhão e cuja capacidade de carga seja superior a 363 toneladas métricas (400 toneladas líquidas) que tenham solicitado um LMG para o primeiro ou o segundo semestre do ano seguinte;\n\nc) Relativamente a cada navio que solicite um LMG, de um certificado de que o navio dispõe de todos os dispositivos e equipamentos de protecção dos golfinhos e de que o seu capitão seguiu uma formação reconhecida em matéria de técnica de libertação e salvamento dos golfinhos;\n\nd) Da lista dos navios que arvorem o seu pavilhão susceptíveis de operar na zona no ano seguinte."
+  },
+  "6ab6401b4db70555": {
+   "fragment_id": "Artigo 25.º — Repartição dos LMG",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Repartição dos LMG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Repartição dos LMG\n\n1. Os Estados-Membros verificam que os pedidos de LMG estão conformes com as condições previstas no Acordo sobre o Programa Internacional de Conservação dos Golfinhos e com as medidas de conservação adoptadas pela IATTC.\n\n2. A Comissão examina as listas e a sua conformidade com as disposições do Acordo sobre o Programa Internacional de Conservação dos Golfinhos e com as medidas de conservação adoptadas pela IATTC e transmite-as ao director da IATTC. Sempre que o exame de um pedido pela Comissão revele que este não preenche as condições exigidas no presente número, a Comissão informa imediatamente o Estado-Membro em causa de que não pode transmitir ao director da IATTC a totalidade ou parte do pedido e comunica os motivos.\n\n3. A Comissão comunica a cada Estado-Membro a totalidade dos LMG a repartir pelos navios que arvorem o seu pavilhão.\n\n4. Os Estados-Membros notificam a Comissão todos os anos, antes de 15 de Janeiro, da repartição dos LMG efectuada, a distribuir pelos navios que arvorem o seu pavilhão.\n\n5. A Comissão transmite ao director da IATTC todos os anos, antes de 1 de Fevereiro, a lista e a distribuição dos LMG pelos navios de pesca comunitários."
+  },
+  "6c266531716409c4": {
+   "fragment_id": "Artigo 26.º — Protecção de outras espécies não alvo",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Protecção de outras espécies não alvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Protecção de outras espécies não alvo\n\n1. Na medida do possível, os cercadores de rede com retenida soltarão rapidamente indemnes todas as tartarugas marinhas, tubarões, espadins e veleiros, raias, doirados e outras espécies não alvo.\n\n2. Os pescadores são incentivados a elaborar e utilizar técnicas e equipamentos que facilitem a rápida devolução ao mar, em condições de segurança, de todos estes animais."
+  },
+  "5e2e31706d4f4ec8": {
+   "fragment_id": "Artigo 27.º — Tartarugas marinhas",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Tartarugas marinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Tartarugas marinhas\n\n1. Sempre que uma tartaruga marinha seja avistada na rede, devem ser envidados todos os esforços razoáveis para a salvar antes que fique enredada, os quais incluem, se necessário, o recurso a uma lancha.\n\n2. Se uma tartaruga ficar enredada, a alagem da rede deve ser suspensa mal a tartaruga saia da água e não deverá recomeçar antes de a tartaruga ter sido desenredada e solta.\n\n3. Se uma tartaruga marinha for recolhida a bordo de um navio, deverão ser aplicados todos os métodos adequados para contribuir para a reanimação da tartaruga antes de a devolver ao mar.\n\n4. É proibido aos atuneiros deitar ao mar sacos de sal ou qualquer outro tipo de resíduos plásticos.\n\n5. As tartarugas presas nos dispositivos de concentração dos peixes e outras artes de pesca devem, se possível, ser soltas.\n\n6. Os dispositivos de concentração dos peixes que não sejam utilizados na pesca devem ser recuperados."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "199c03b11ca3d739": {
+   "fragment_id": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 4",
+   "type": "divisao",
+   "heading": "MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 4"
+  },
+  "d9b589840566ec28": {
+   "fragment_id": "Artigo 28.º — Redução dos resíduos",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Redução dos resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Redução dos resíduos\n\nOs Estados-Membros tomam medidas para reduzir ao mínimo os resíduos, as devoluções, as capturas realizadas por artes perdidas ou abandonadas, a poluição proveniente de navios de pesca, a captura de peixes e de animais de espécies não alvo, assim como as repercussões nas espécies associadas ou dependentes, designadamente as espécies ameaçadas de extinção."
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "1203f6b84ba7d529": {
+   "fragment_id": "DISPOSIÇÕES DE APLICAÇÃO GERAL",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DE APLICAÇÃO GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DE APLICAÇÃO GERAL"
+  },
+  "fe861e6928962d4c": {
+   "fragment_id": "Artigo 29.º — Mamíferos marinhos",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Mamíferos marinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Mamíferos marinhos\n\n1. É proibido realizar o cerco de cardumes ou grupos de mamíferos marinhos por meio de redes de cerco com retenida.\n\n2. O n.º 1 é aplicável a todos os navios de pesca comunitários, com excepção dos navios a que se refere o artigo 23.º"
+  },
+  "b10288b67f8e014f": {
+   "fragment_id": "TÍTULO VII",
+   "type": "divisao",
+   "heading": "TÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "0a91501976d17734": {
+   "fragment_id": "Artigo 30.º — Comitologia",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Comitologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comitologia\n\nAs medidas a adoptar nos termos do n.º 4 do artigo 6.º e o n.º 2 do artigo 8.º são aprovadas nos termos do n.º 3 do artigo 30.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "4e17bb9d1a091f17": {
+   "fragment_id": "Artigo 31.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 973/2001."
+  },
+  "e23312eeddf399e8": {
+   "fragment_id": "Artigo 32.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 7 de Maio de 2007.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. SEEHOFER**\n\n---"
+  },
+  "c5cba712949b014b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc1-L_2007123PT.01000301-E0001) [JO L 179 de 23.6.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_179_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc2-L_2007123PT.01000301-E0002) [JO L 162 de 18.6.1986, p. 33](http://publications.europa.eu/resource/oj/JOL_1986_162_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc3-L_2007123PT.01000301-E0003) [JO L 236 de 5.10.1995, p. 24](http://publications.europa.eu/resource/oj/JOL_1995_236_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc4-L_2007123PT.01000301-E0004) [JO L 348 de 30.12.2005, p. 26](http://publications.europa.eu/resource/oj/JOL_2005_348_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc5-L_2007123PT.01000301-E0005) [JO L 15 de 19.1.2005, p. 9](http://publications.europa.eu/resource/oj/JOL_2005_015_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc6-L_2007123PT.01000301-E0006) [JO L 32 de 4.2.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_032_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc7-L_2007123PT.01000301-E0007) [JO L 137 de 19.5.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_137_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 831/2004 ([JO L 127 de 29.4.2004, p. 33](http://publications.europa.eu/resource/oj/JOL_2004_127_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc8-L_2007123PT.01000301-E0008) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc9-L_2007123PT.01000301-E0009) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão com a última redacção que lhe foi dada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc10-L_2007123PT.01000301-E0010) [JO L 348 de 30.12.2005, p. 28](http://publications.europa.eu/resource/oj/JOL_2005_348_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018.02/DOC_1#ntc11-L_2007123PT.01000301-E0011) [JO L 5 de 9.1.2004, p. 25](http://publications.europa.eu/resource/oj/JOL_2004_005_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1799/2006 ([JO L 341 de 7.12.2006, p. 26](http://publications.europa.eu/resource/oj/JOL_2006_341_R_TOC))."
+  },
+  "835df4e1e439fa00": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio de 2007\n\nque estabelece medidas técnicas de conservação para certas unidades populacionais de grandes migradores e que revoga o Regulamento (CE) n.º 973/2001\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\n(1) Pela Decisão 98/392/CE ([^1^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0001)), a Comunidade aprovou a Convenção das Nações Unidas sobre o Direito do Mar, que contém certos princípios e certas regras respeitantes à conservação e à gestão dos recursos vivos do mar. No âmbito das suas obrigações internacionais mais amplas, a Comunidade participa nos esforços desenvolvidos nas águas internacionais para conservar as unidades populacionais de peixes.\n\n(2) Desde 14 de Novembro de 1997 e na sequência da Decisão 86/238/CEE ([^2^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0002)), a Comunidade é parte contratante na Convenção Internacional para a Conservação dos Tunídeos do Atlântico, a seguir denominada «Convenção ICCAT».\n\n(3) A Convenção ICCAT estabelece um quadro para a cooperação regional em matéria de conservação e de gestão dos recursos de tunídeos e espécies afins do oceano Atlântico e dos mares adjacentes, através da criação de uma Comissão Internacional para a Conservação dos Tunídeos do Atlântico, a seguir denominada «ICCAT», e da adopção de recomendações em matéria de conservação e de gestão na zona da Convenção, que se tornam obrigatórias para as partes contratantes.\n\n(4) A ICCAT recomendou certas medidas técnicas para determinadas unidades populacionais de grandes migradores no Atlântico e no Mediterrâneo, nomeadamente no respeitante aos tamanhos e pesos autorizados para os peixes, às restrições aplicáveis às capturas em certas zonas ou durante certos períodos ou com determinadas artes e às limitações das capacidades. Essas recomendações são obrigatórias para a Comunidade, pelo que devem ser executadas.\n\n(5) Pela Decisão 95/399/CE ([^3^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0003)), a Comunidade aprovou o Acordo que cria a Comissão do Atum do Oceano Índico. Esse acordo estabelece um quadro útil para o reforço da cooperação internacional para fins de conservação e utilização racional dos atuns e espécies afins do oceano Índico, através da criação da Comissão do Atum do Oceano Índico, a seguir denominada «IOTC», e da adopção de resoluções em matéria de conservação e de gestão na zona de competência da IOTC, que se tornam obrigatórias para as partes contratantes.\n\n(6) A IOTC aprovou uma recomendação que estabelece certas medidas técnicas para determinadas unidades populacionais de grandes migradores no oceano Índico, nomeadamente limitações das capacidades. Essa recomendação é obrigatória para a Comunidade, pelo que deve ser executada.\n\n(7) Pela Decisão 2005/938/CE ([^4^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0004)), a Comunidade aprovou o Acordo sobre o Programa Internacional de Conservação dos Golfinhos. Em consequência, a Comunidade deve aplicar as disposições estabelecidas nesse acordo.\n\n(8) Os objectivos do referido acordo incluem a redução progressiva, para níveis próximos de zero, da mortalidade acidental dos golfinhos nas pescarias de atum com redes de cerco com retenida no oceano Pacífico Oriental, através da fixação de limites anuais das capturas, assim como a sustentabilidade a longo prazo das unidades populacionais de atum na área do acordo.\n\n(9) A Comunidade tem interesses de pesca no Pacífico Oriental e participou no processo para a adopção da Convenção relativa ao reforço da Comissão Interamericana do Atum Tropical, a seguir denominada «Convenção de Antígua». Pela Decisão 2005/26/CE ([^5^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0005)), a Comunidade assinou a Convenção de Antígua e iniciou o processo de adesão a esta nova convenção. Na pendência da entrada em vigor da Convenção de Antígua, a Comunidade decidiu, na sua qualidade de parte não contratante cooperante na Comissão Interamericana do Atum Tropical, a seguir denominada «IATTC», aplicar as medidas técnicas adoptadas por esta organização. Convém, pois, transpor essas medidas para o direito comunitário.\n\n(10) Por força da Decisão 2005/75/CE ([^6^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0006)) e com efeitos desde 25 de Janeiro de 2005, a Comunidade é parte contratante na Convenção sobre a Conservação e a Gestão das Populações de Peixes Altamente Migradores no Oceano Pacífico Ocidental e Central, a seguir denominada «Convenção WCPFC».\n\n(11) A Convenção WCPFC estabelece um quadro para a cooperação regional, com vista a assegurar a conservação a longo prazo e a exploração sustentável das unidades populacionais de peixes grandes migradores no oceano Pacífico Ocidental e Central, através da criação de uma Comissão das Pescas para o Pacífico Ocidental e Central (WCPFC).\n\n(12) É, por conseguinte, conveniente que a Comunidade aplique as disposições previstas na Convenção, bem como as medidas técnicas adoptadas pela WCPFC.\n\n(13) As medidas técnicas aprovadas por estas organizações regionais de pesca foram incorporadas no Regulamento (CE) n.º 973/2001 do Conselho, de 14 de Maio de 2001, que estabelece medidas técnicas de conservação para certas unidades populacionais de grandes migradores ([^7^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0007)).\n\n(14) Uma vez que, após a aprovação do Regulamento (CE) n.º 973/2001, as organizações em causa aprovaram novas medidas técnicas e actualizaram certas medidas em vigor, é necessário revogar aquele regulamento e substituí-lo pelo presente regulamento.\n\n(15) As limitações de capacidade devem ser determinadas nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas ([^8^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0008)).\n\n(16) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^9^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0009)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a7664266dfec9fee": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Espécies altamente migradoras»: as espécies constantes do anexo I;\n\n2) «Tunídeos e espécies afins da competência da ICCAT»: as espécies constantes do anexo II;\n\n3) «Limite de mortalidade dos golfinhos»: limite definido no artigo V do Acordo sobre o Programa Internacional de Conservação dos Golfinhos ([^10^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0010));\n\n4) «Pesca de lazer»: as actividades de pesca que exploram os recursos aquáticos vivos para fins recreativos ou desportivos;\n\n5) «Rede de cerco»: rede, com ou sem retenida, que captura o peixe envolvendo-o pelos lados e por baixo;\n\n6) «Rede de cerco com retenida»: qualquer rede de cerco cuja parte inferior é fechada por uma retenida, que passa pelo meio de argolas ligadas à tralha dos chumbos e permite fechar a rede como uma bolsa. A rede de cerco com retenida pode ser utilizada para a captura de pequenos pelágicos, de grandes pelágicos ou de espécies demersais;\n\n7) «Palangre»: arte de pesca constituída por uma linha principal (madre) à qual se ligam numerosas linhas secundárias (estralhos) na extremidade das quais se empata um anzol e cujo comprimento e espaçamento variam consoante a espécie-alvo. O palangre pode ser calado na horizontal ou verticalmente e ser utilizado no fundo ou perto do fundo (palangre fundeado de fundo), entre duas águas (palangre fundeado de meia-água) ou próximo da superfície (palangre derivante);\n\n8) «Anzol»: engenho de aço curvo e afiado, geralmente dotado de uma barbela. A ponta do anzol pode ser recta, eventualmente enviesada, ou curva. A haste pode ter diferentes formas e comprimentos e apresentar uma secção redonda (vulgar) ou achatada (forjada). O comprimento total do anzol é o comprimento máximo total da haste medido a partir da ponta do anzol que serve para passar a linha (geralmente com a forma de um olhal) até ao ápice da curvatura do anzol. A largura do anzol é a maior distância horizontal medida a partir da parte externa da haste até à parte externa da barbela;\n\n9) «Dispositivo de concentração de peixes»: qualquer equipamento que flutue à superfície do mar com o objectivo de atrair peixes;\n\n10) «Palangreiro de superfície»: qualquer navio equipado com linha e vara para a pesca de atum."
+  },
+  "e33432c906e37531": {
+   "fragment_id": "Artigo 4.º — Zonas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:\n\n1) Zona 1\n\n2) Zona 2\n\n3) Zona 3\n\n4) Zona 4"
+  },
+  "f63e7cde8fe80249": {
+   "fragment_id": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atum patudo e voador do Atlântico Norte\n\n1. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número e a capacidade total, expressa em arqueação bruta (GT), dos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros que pescam o atum patudo como espécie-alvo na Zona 1. Essa determinação é efectuada:\n\na) De acordo com o número médio e a capacidade, expressa em GT, correspondentes aos navios de pesca comunitários que pescaram o atum patudo como espécie-alvo na Zona 1 no período de 1991-1992; e\n\nb) Com base na limitação do número de navios comunitários que pescam atum patudo em 2005, notificado à ICCAT em 30 de Junho de 2005.\n\n2. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de navios de pesca comunitários que pescam atum voador do Atlântico Norte como espécie-alvo. O número de navios é fixado com base nos navios de pesca comunitários que pescaram atum voador do Atlântico Norte como espécie-alvo no período de 1993-1995.\n\n3. O Conselho reparte pelos Estados-Membros, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002:\n\na) O número e a capacidade, expressa em GT, determinados nos termos do n.º 1;\n\nb) O número de navios determinado nos termos do n.º 2.\n\n4. Os Estados-Membros transmitem à Comissão todos os anos, antes de 15 de Maio, pelos meios usuais de transmissão de dados:\n\na) A lista dos navios de comprimento de fora a fora superior a 24 metros que arvoram o seu pavilhão e pescam atum patudo;\n\nb) A lista dos navios que arvoram o seu pavilhão e participam na pesca dirigida ao atum voador no Atlântico Norte.\n\nA Comissão transmite essas informações anualmente ao Secretariado da ICCAT antes de 31 de Maio.\n\n5. As listas a que se refere o n.º 4 mencionarão o número interno do «ficheiro da frota» atribuído ao navio, nos termos do anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro comunitário dos navios de pesca ([^11^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0011)), assim como o tipo de arte utilizada."
+  },
+  "abc1ccfae02f6c5e": {
+   "fragment_id": "Artigo 32.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "909180e3708a15dd": {
+   "fragment_id": "Lista das espécies altamente migradoras",
+   "type": "divisao",
+   "heading": "Lista das espécies altamente migradoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das espécies altamente migradoras\n\n— Atum voador (ou branco ou germão): *Thunnus alalunga*\n\n— Atum rabilho: *Thunnus thynnus*\n\n— Atum patudo: *Thunnus obesus*\n\n— Gaiado (ou bonito listado ou bonito de ventre raiado): *Katsuwonus pelamis*\n\n— Bonito do Atlântico: *Sarda sarda*\n\n— Albacora: *Thunnus albacares*\n\n— Atum-barbatana-negra: *Thunnus atlanticus*\n\n— Mermas: *Euthynnus spp.*\n\n— Atum do Sul: *Thunnus maccoyii*\n\n— Judeus: *Auxis spp.*\n\n— Xaputas: *Bramidae*\n\n— Espadins: *Tetrapturus spp.*; *Makaira spp.*\n\n— Veleiros: *Istiophorus spp.*\n\n— Espadarte: *Xiphias gladius*\n\n— Agulhões: *Scomberesox spp.*; *Cololabis spp.*\n\n— Doirado; sapatorra: *Coryphaena hippurus*; *Coryphaena equiselis*\n\n— Tubarões: *Hexanchus griseus*; *Cetorhinus maximus*; *Alopiidae Rhincodon typus*; *Carcharhinide*; *Sphyrnidae*; *Isuridae*; *Lamnidae*\n\n— Cetáceos (baleias e botos): *Physeteridae*; *Balenidae*; *Eschrichtiidae*; *Monodontidae*; *Ziphiidae*; *Delphinidae*"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "736d8c3dcecf566a": {
+   "fragment_id": "Lista dos tunídeos e espécies afins da ICCAT",
+   "type": "divisao",
+   "heading": "Lista dos tunídeos e espécies afins da ICCAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos tunídeos e espécies afins da ICCAT\n\n— Atum rabilho: *Thunnus thynnus*\n\n— Atum do Sul: *Thunnus maccoyii*\n\n— Albacora: *Thunnus albacares*\n\n— Atum voador (ou branco ou germão): *Thunnus alalunga*\n\n— Atum patudo: *Thunnus obesus*\n\n— Atum-barbatana-negra: *Thunnus atlanticus*\n\n— Merma: *Euthynnus alletteratus*\n\n— Gaiado (ou bonito listado ou bonito de ventre raiado): *Katsuwonus pelamis*\n\n— Bonito do Atlântico: *Sarda sarda*\n\n— Judeu liso: *Auxis thazard*\n\n— Judeu: *Auxis rochei*\n\n— Bonito-dente de cão: *Orcynopsis unicolor*\n\n— Serra da Índia: *Acanthocybium solandri*\n\n— Serra espanhola: *Scomberomorus maculatus*\n\n— Serra real: *Scomberomorus cavalla*\n\n— Serra branca: *Scomberomorus tritor*\n\n— Serra brasileira: *Scomberomorus brasilliensis*\n\n— Serra malhada: *Scomberomorus regalis*\n\n— Veleiro do Atlântico: *Istiophorus albicans*\n\n— Espadim negro: *Makaira indica*\n\n— Espadim azul do Atlântico: *Makaira nigricans*\n\n— Espadim branco do Atlântico: *Tetrapturus albidus*\n\n— Espadarte: *Xiphias gladius*\n\n— Espadim bicudo: *Tetrapturus pfluegeri*"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "da97d7b05dd08895": {
+   "fragment_id": "Comprimento dos navios (n.º 2 do artigo 6.º)",
+   "type": "divisao",
+   "heading": "Comprimento dos navios (n.º 2 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Comprimento dos navios (n.º 2 do artigo 6.º)\n\nDefinição do comprimento dos navios pela ICCAT:\n\n— para todo o navio de pesca construído após 18 de Julho de 1982, 96 % do comprimento total, medido sobre uma linha de água situada a uma altura acima da quilha igual a 85 % do pontal mínimo de construção, medido a partir da face superior da quilha, ou o comprimento medido da face de vante da roda de proa até ao eixo da madre do leme naquela linha de água, se este comprimento for maior. Nos navios projectados com diferença de imersão, a linha de água na qual é medido este comprimento será paralela à linha de água carregada de projecto,\n\n— para todo o navio de pesca construído antes de 18 de Julho de 1982, o comprimento registado tal como se encontra inscrito no registo nacional ou noutro ficheiro de navios."
+  },
+  "0439526b05b638ec": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Espécies | Tamanhos mínimos |\n| --- | --- |\n| [▼M1](http://publications.europa.eu/resource/celex/32007R1559) ————— |  |\n| [▼B](http://publications.europa.eu/resource/celex/32007R0520) |  |\n| Espadarte (*Xiphias gladius*) [(^1^)](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#E0014) | 25 kg ou 125 cm (mandíbula inferior) |\n| (^1^)Este tamanho mínimo só é aplicável no oceano Atlântico. |  |\n\n---"
+  },
+  "49560b0e55f9a4dd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0001)) JO L 179 de 23.6.1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0002)) JO L 162 de 18.6.1986, p. 33.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0003)) JO L 236 de 5.10.1995, p. 24.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0004)) JO L 348 de 30.12.2005, p. 26.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0005)) JO L 15 de 19.1.2005, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0006)) JO L 32 de 4.2.2005, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0007)) JO L 137 de 19.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 831/2004 (JO L 127 de 29.4.2004, p. 33).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0008)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23. Decisão com a última redacção que lhe foi dada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0010)) JO L 348 de 30.12.2005, p. 28.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/d51fb6d9-761b-41c5-9a5e-f6a0b264b8f5.0018.03/DOC_1#src.E0011)) JO L 5 de 9.1.2004, p. 25. Regulamento alterado pelo Regulamento (CE) n.º 1799/2006 (JO L 341 de 7.12.2006, p. 26)."
+  },
+  "2d650a060b27eaac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio de 2007\n\nque estabelece medidas técnicas de conservação para certas unidades populacionais de grandes migradores e que revoga o Regulamento (CE) n.º 973/2001"
+  },
+  "084268fcd4511dbb": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Espécies altamente migradoras»: as espécies constantes do anexo I;\n\n2) «Tunídeos e espécies afins da competência da ICCAT»: as espécies constantes do anexo II;\n\n3) «Limite de mortalidade dos golfinhos»: limite definido no artigo V do Acordo sobre o Programa Internacional de Conservação dos Golfinhos ([^1^](http://publications.europa.eu/resource/cellar/d747fb9a-cb2c-4d5c-8599-bc26c7355386.0015.02/DOC_1#E0001));\n\n4) «Pesca de lazer»: as actividades de pesca que exploram os recursos aquáticos vivos para fins recreativos ou desportivos;\n\n5) «Rede de cerco»: rede, com ou sem retenida, que captura o peixe envolvendo-o pelos lados e por baixo;\n\n6) «Rede de cerco com retenida»: qualquer rede de cerco cuja parte inferior é fechada por uma retenida, que passa pelo meio de argolas ligadas à tralha dos chumbos e permite fechar a rede como uma bolsa. A rede de cerco com retenida pode ser utilizada para a captura de pequenos pelágicos, de grandes pelágicos ou de espécies demersais;\n\n7) «Palangre»: arte de pesca constituída por uma linha principal (madre) à qual se ligam numerosas linhas secundárias (estralhos) na extremidade das quais se empata um anzol e cujo comprimento e espaçamento variam consoante a espécie-alvo. O palangre pode ser calado na horizontal ou verticalmente e ser utilizado no fundo ou perto do fundo (palangre fundeado de fundo), entre duas águas (palangre fundeado de meia-água) ou próximo da superfície (palangre derivante);\n\n8) «Anzol»: engenho de aço curvo e afiado, geralmente dotado de uma barbela. A ponta do anzol pode ser recta, eventualmente enviesada, ou curva. A haste pode ter diferentes formas e comprimentos e apresentar uma secção redonda (vulgar) ou achatada (forjada). O comprimento total do anzol é o comprimento máximo total da haste medido a partir da ponta do anzol que serve para passar a linha (geralmente com a forma de um olhal) até ao ápice da curvatura do anzol. A largura do anzol é a maior distância horizontal medida a partir da parte externa da haste até à parte externa da barbela;\n\n9) «Dispositivo de concentração de peixes»: qualquer equipamento que flutue à superfície do mar com o objectivo de atrair peixes;\n\n10) «Palangreiro de superfície»: qualquer navio equipado com linha e vara para a pesca de atum."
+  },
+  "6be331f707c0c81f": {
+   "fragment_id": "Artigo 4.º — Zonas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:\n\n2) Zona 2\n\n3) Zona 3\n\n4) Zona 4"
+  },
+  "4afe4514e4aadc14": {
+   "fragment_id": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atum patudo e voador do Atlântico Norte\n\n1. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número e a capacidade total, expressa em arqueação bruta (GT), dos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros que pescam o atum patudo como espécie-alvo na Zona 1. Essa determinação é efectuada:\n\na) De acordo com o número médio e a capacidade, expressa em GT, correspondentes aos navios de pesca comunitários que pescaram o atum patudo como espécie-alvo na Zona 1 no período de 1991-1992; e\n\nb) Com base na limitação do número de navios comunitários que pescam atum patudo em 2005, notificado à ICCAT em 30 de Junho de 2005.\n\n2. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de navios de pesca comunitários que pescam atum voador do Atlântico Norte como espécie-alvo. O número de navios é fixado com base nos navios de pesca comunitários que pescaram atum voador do Atlântico Norte como espécie-alvo no período de 1993-1995.\n\n3. O Conselho reparte pelos Estados-Membros, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002:\n\na) O número e a capacidade, expressa em GT, determinados nos termos do n.º 1;\n\nb) O número de navios determinado nos termos do n.º 2.\n\n4. Os Estados-Membros transmitem à Comissão todos os anos, antes de 15 de Maio, pelos meios usuais de transmissão de dados:\n\na) A lista dos navios de comprimento de fora a fora superior a 24 metros que arvoram o seu pavilhão e pescam atum patudo;\n\nb) A lista dos navios que arvoram o seu pavilhão e participam na pesca dirigida ao atum voador no Atlântico Norte.\n\nA Comissão transmite essas informações anualmente ao Secretariado da ICCAT antes de 31 de Maio.\n\n5. As listas a que se refere o n.º 4 mencionarão o número interno do «ficheiro da frota» atribuído ao navio, nos termos do anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro comunitário dos navios de pesca ([^2^](http://publications.europa.eu/resource/cellar/d747fb9a-cb2c-4d5c-8599-bc26c7355386.0015.02/DOC_1#E0002)), assim como o tipo de arte utilizada."
+  },
+  "6f05f9e3991db0a8": {
+   "fragment_id": "Lista das espécies altamente migradoras",
+   "type": "divisao",
+   "heading": "Lista das espécies altamente migradoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das espécies altamente migradoras\n\n— Atum voador (ou branco ou germão): *Thunnus alalunga*\n\n— Atum rabilho: *Thunnus thynnus*\n\n— Atum patudo: *Thunnus obesus*\n\n— Gaiado (ou bonito listado ou bonito de ventre raiado): *Katsuwonus pelamis*\n\n— Bonito do Atlântico: *Sarda sarda*\n\n— Albacora: *Thunnus albacares*\n\n— Atum-barbatana-negra: *Thunnus atlanticus*\n\n— Mermas: *Euthynnus spp.*\n\n— Atum do Sul: *Thunnus maccoyii*\n\n— Judeus: *Auxis spp.*\n\n— Xaputas: *Bramidae*\n\n— Espadins: *Tetrapturus spp.*; *Makaira spp.*\n\n— Veleiros: *Istiophorus spp.*\n\n— Espadarte: *Xiphias gladius*\n\n— Agulhões: *Scomberesox spp.*; *Cololabis spp.*\n\n— Doirado; sapatorra: *Coryphaena hippurus*; *Coryphaena equiselis*\n\n— Tubarões: *Hexanchus griseus*; *Cetorhinus maximus*; *Alopiidae Rhincodon typus*; *Carcharhinide*; *Sphyrnidae*; *Isuridae*; *Lamnidae*\n\n— Cetáceos (baleias e botos): *Physeteridae*; *Balenidae*; *Eschrichtiidae*; *Monodontidae*; *Ziphiidae*; *Delphinidae*\n\n---"
+  },
+  "a26b55c24565f66f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d747fb9a-cb2c-4d5c-8599-bc26c7355386.0015.02/DOC_1#src.E0001)) JO L 348 de 30.12.2005, p. 28.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d747fb9a-cb2c-4d5c-8599-bc26c7355386.0015.02/DOC_1#src.E0002)) JO L 5 de 9.1.2004, p. 25. Regulamento alterado pelo Regulamento (CE) n.º 1799/2006 (JO L 341 de 7.12.2006, p. 26)."
+  },
+  "255c6aa9c94dc0aa": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Espécies altamente migradoras»: as espécies constantes do anexo I;\n\n2) «Tunídeos e espécies afins da competência da ICCAT»: as espécies constantes do anexo II;\n\n4) «Pesca de lazer»: as actividades de pesca que exploram os recursos aquáticos vivos para fins recreativos ou desportivos;\n\n5) «Rede de cerco»: rede, com ou sem retenida, que captura o peixe envolvendo-o pelos lados e por baixo;\n\n6) «Rede de cerco com retenida»: qualquer rede de cerco cuja parte inferior é fechada por uma retenida, que passa pelo meio de argolas ligadas à tralha dos chumbos e permite fechar a rede como uma bolsa. A rede de cerco com retenida pode ser utilizada para a captura de pequenos pelágicos, de grandes pelágicos ou de espécies demersais;\n\n7) «Palangre»: arte de pesca constituída por uma linha principal (madre) à qual se ligam numerosas linhas secundárias (estralhos) na extremidade das quais se empata um anzol e cujo comprimento e espaçamento variam consoante a espécie-alvo. O palangre pode ser calado na horizontal ou verticalmente e ser utilizado no fundo ou perto do fundo (palangre fundeado de fundo), entre duas águas (palangre fundeado de meia-água) ou próximo da superfície (palangre derivante);\n\n8) «Anzol»: engenho de aço curvo e afiado, geralmente dotado de uma barbela. A ponta do anzol pode ser recta, eventualmente enviesada, ou curva. A haste pode ter diferentes formas e comprimentos e apresentar uma secção redonda (vulgar) ou achatada (forjada). O comprimento total do anzol é o comprimento máximo total da haste medido a partir da ponta do anzol que serve para passar a linha (geralmente com a forma de um olhal) até ao ápice da curvatura do anzol. A largura do anzol é a maior distância horizontal medida a partir da parte externa da haste até à parte externa da barbela;\n\n9) «Dispositivo de concentração de peixes»: qualquer equipamento que flutue à superfície do mar com o objectivo de atrair peixes;\n\n10) «Palangreiro de superfície»: qualquer navio equipado com linha e vara para a pesca de atum."
+  },
+  "21d5844fe61875e8": {
+   "fragment_id": "Artigo 4.º — Zonas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:\n\n2) Zona 2\n\n4) Zona 4"
+  },
+  "483856cb90a7f938": {
+   "fragment_id": "Artigo 5.º — Protecção do atum patudo em certas águas tropicais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Protecção do atum patudo em certas águas tropicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Protecção do atum patudo em certas águas tropicais\n\n1.\n\nNo período compreendido entre 1 e 30 de Novembro, é proibida a pesca de atum com cercadores de rede com retenida e palangreiros de superfície na zona delimitada do seguinte modo:\n\n— limite sul: paralelo de latitude 0° S,\n\n— limite norte: paralelo de latitude 5° N,\n\n— limite oeste: meridiano de longitude 20° W,\n\n— limite este: meridiano de longitude 10° W.\n\n2. Os Estados-Membros transmitem à Comissão todos os anos, até 15 de Agosto, um relatório sobre a execução desta medida, incluindo, se for caso disso, uma lista das infracções, cometidas pelos navios de pesca que arvoram o seu pavilhão, contra as quais tenham sido instauradas acções pelas suas autoridades competentes."
+  },
+  "ac5a9cca9924617e": {
+   "fragment_id": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atum patudo e voador do Atlântico Norte\n\n1.\n\nO Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número e a capacidade total, expressa em arqueação bruta (GT), dos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros que pescam o atum patudo como espécie-alvo na Zona 1. Essa determinação é efectuada:\n\na) De acordo com o número médio e a capacidade, expressa em GT, correspondentes aos navios de pesca comunitários que pescaram o atum patudo como espécie-alvo na Zona 1 no período de 1991-1992; e\n\nb) Com base na limitação do número de navios comunitários que pescam atum patudo em 2005, notificado à ICCAT em 30 de Junho de 2005.\n\n2. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de navios de pesca comunitários que pescam atum voador do Atlântico Norte como espécie-alvo. O número de navios é fixado com base nos navios de pesca comunitários que pescaram atum voador do Atlântico Norte como espécie-alvo no período de 1993-1995.\n\n3.\n\nO Conselho reparte pelos Estados-Membros, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002:\n\na) O número e a capacidade, expressa em GT, determinados nos termos do n.º 1;\n\nb) O número de navios determinado nos termos do n.º 2.\n\n4.\n\nOs Estados-Membros transmitem à Comissão todos os anos, antes de 15 de Maio, pelos meios usuais de transmissão de dados:\n\na) A lista dos navios de comprimento de fora a fora superior a 24 metros que arvoram o seu pavilhão e pescam atum patudo;\n\nb) A lista dos navios que arvoram o seu pavilhão e participam na pesca dirigida ao atum voador no Atlântico Norte.\n\nA Comissão transmite essas informações anualmente ao Secretariado da ICCAT antes de 31 de Maio.\n\n5. As listas a que se refere o n.º 4 mencionarão o número interno do «ficheiro da frota» atribuído ao navio, nos termos do anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro comunitário dos navios de pesca ([^1^](http://publications.europa.eu/resource/cellar/92c63573-7080-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0002)), assim como o tipo de arte utilizada."
+  },
+  "48ae5585fde12e16": {
+   "fragment_id": "Artigo 20.º — Tartarugas marinhas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Tartarugas marinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Tartarugas marinhas\n\n1. Os Estados-Membros tomam todas as medidas necessárias para reduzir o impacto da pesca nas tartarugas marinhas, nomeadamente através da aplicação das medidas previstas nos n.^os^ 2, 3 e 4:\n\n2.\n\nA utilização de qualquer arte de pesca está sujeita às seguintes condições:\n\na) Manipulação adequada, incluindo reanimação ou rápida devolução ao mar, das tartarugas marinhas capturadas acidentalmente (anzol ou redes) ou acessoriamente;\n\nb) Presença a bordo do equipamento necessário para a devolução ao mar das tartarugas marinhas capturadas acidental ou acessoriamente.\n\n3.\n\nA utilização de redes de cerco com retenida está sujeita às seguintes condições:\n\na) Obrigação de evitar, na medida do possível, o cerco das tartarugas marinhas;\n\nb) Desenvolvimento e aplicação das especificações de artes adequadas, a fim de minimizar as capturas acessórias de tartarugas marinhas;\n\nc) Adopção de todas as medidas necessárias para soltar as tartarugas marinhas cercadas ou capturadas;\n\nd) Adopção de todas as medidas necessárias para vigiar os dispositivos de concentração de peixes (DCP) em que podem ficar presas as tartarugas marinhas, soltar as tartarugas presas e recuperar os DCP não utilizados.\n\n4.\n\nA utilização de palangres está sujeita às seguintes condições:\n\na) Desenvolvimento e introdução de combinações de formas de anzóis, tipos de isco, profundidade e concepção das redes, bem como de práticas de pesca, a fim de minimizar as capturas acidentais ou acessórias e a mortalidade das tartarugas marinhas;\n\nb) Presença a bordo do equipamento necessário para a devolução ao mar das tartarugas marinhas capturadas acidental ou acessoriamente, incluindo instrumentos para as desprender ou para cortar as linhas e chalavares."
+  },
+  "640edd4c54979550": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/92c63573-7080-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 5 de 9.1.2004, p. 25. Regulamento alterado pelo Regulamento (CE) n.º 1799/2006 (JO L 341 de 7.12.2006, p. 26)."
+  },
+  "033d52444ff73608": {
+   "fragment_id": "Artigo 4.º — Zonas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:\n\n2) Zona 2"
+  },
+  "2500214d412b5b10": {
+   "fragment_id": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Atum patudo e voador do Atlântico Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atum patudo e voador do Atlântico Norte\n\n1.\n\nO Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número e a capacidade total, expressa em arqueação bruta (GT), dos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros que pescam o atum patudo como espécie-alvo na Zona 1. Essa determinação é efectuada:\n\na) De acordo com o número médio e a capacidade, expressa em GT, correspondentes aos navios de pesca comunitários que pescaram o atum patudo como espécie-alvo na Zona 1 no período de 1991-1992; e\n\nb) Com base na limitação do número de navios comunitários que pescam atum patudo em 2005, notificado à ICCAT em 30 de Junho de 2005.\n\n2. O Conselho determina, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, o número de navios de pesca comunitários que pescam atum voador do Atlântico Norte como espécie-alvo. O número de navios é fixado com base nos navios de pesca comunitários que pescaram atum voador do Atlântico Norte como espécie-alvo no período de 1993-1995.\n\n3.\n\nO Conselho reparte pelos Estados-Membros, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002:\n\na) O número e a capacidade, expressa em GT, determinados nos termos do n.º 1;\n\nb) O número de navios determinado nos termos do n.º 2.\n\n4.\n\nOs Estados-Membros transmitem à Comissão todos os anos, antes de 15 de Maio, pelos meios usuais de transmissão de dados:\n\na) A lista dos navios de comprimento de fora a fora superior a 24 metros que arvoram o seu pavilhão e pescam atum patudo;\n\nb) A lista dos navios que arvoram o seu pavilhão e participam na pesca dirigida ao atum voador no Atlântico Norte.\n\nA Comissão transmite essas informações anualmente ao Secretariado da ICCAT antes de 31 de Maio.\n\n5. As listas a que se refere o n.º 4 mencionarão o número interno do «ficheiro da frota» atribuído ao navio, nos termos do anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro comunitário dos navios de pesca ([^1^](http://publications.europa.eu/resource/cellar/917f59c1-6a7a-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0002)), assim como o tipo de arte utilizada."
+  },
+  "bdd059976df717ef": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/917f59c1-6a7a-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 5 de 9.1.2004, p. 25. Regulamento alterado pelo Regulamento (CE) n.º 1799/2006 (JO L 341 de 7.12.2006, p. 26)."
+  },
+  "38cd3850aa2fcf7b": {
+   "fragment_id": "Artigo 4.º — Zonas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zonas\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:"
+  }
+ }
+}

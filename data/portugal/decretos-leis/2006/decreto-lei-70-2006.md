@@ -1,0 +1,616 @@
+---
+schema_version: '1.0'
+id: pt:dre:667533:por
+title: Decreto-Lei n.º 70/2006
+short_title: null
+summary: Cria a Fundação Museu do Douro e aprova os respectivos Estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 70/2006
+official_date: null
+publication_date: '2006-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2006, Série I-A de 2006-03-23
+  number: '59'
+  series: I
+  supplement: null
+  pages: 2171 - 2177
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/03/059a00/21712177.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-02-07'
+version_history:
+  file: decreto-lei-70-2006.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-02-07'
+    amending: pt:dre:66384002:por
+    amending_title: Decreto-Lei n.º 16/2015
+    changes:
+    - Adita Artigo 7.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Elimina Capítulo III
+    - Elimina Capítulo IV
+    - Elimina Capítulo V
+    - Elimina Capítulo I
+    - Elimina Capítulo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/70/2006/p/cons/20150202/pt/html
+  oj: null
+  dre: '667533'
+  dre_path: /dr/detalhe/decreto-lei/70-2006-667533
+  internal: pt:dre:667533:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2006-667533
+  metadata_url: https://data.dre.pt/eli/dec-lei/70/2006/p/cons/20150202/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-66485635
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-66485635
+  retrieved_at: '2026-10-22T11:58:03Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bd05d2641d604f173b7a989820accfe92fd397d6d7e08ee10db65fb575d1676e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:58:03Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-70-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundação
+- Criação de Serviços
+- Definição de Competências
+- Estatuto
+- Ministério da Cultura
+- Museu da Região do Douro
+- Região Demarcada do Douro
+- Fundação Museu do Douro
+relationships:
+- type: amended_by
+  target: pt:dre:66384002:por
+  label: Adita Artigo 7.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 1.º; Altera Artigo 3.º;
+    Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera
+    Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002
+  date: '2015-02-02'
+- type: cites
+  target: pt:dre:144987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1999/03/16/p/dre
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30-g/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:368070:por
+  label: null
+  source: http://data.dre.pt/eli/lei/176-a/1999/12/30/p/dre
+- type: cites
+  target: pt:dre:406324:por
+  label: null
+  source: http://data.dre.pt/eli/lei/125/1997/12/02/p/dre
+- type: cites
+  target: pt:dre:570557:por
+  label: null
+  source: http://data.dre.pt/eli/lei/160/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+article_structure:
+  article_count: 29
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:58:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 70/2006
+
+Decreto-Lei n.º 70/2006
+
+de 23 de Março
+
+A Região Demarcada do Douro constitui, no panorama vitivinícola nacional e mundial, um património único, pela sua história, pela diversidade e qualidade reconhecida dos seus vinhos, por uma paisagem excepcional, resultante de uma actividade humana secular na criação e valorização da viticultura de encosta.
+
+Importa preservar, valorizar e divulgar os testemunhos da cultura material e imaterial das populações que construíram a paisagem duriense. É por isso necessário investir em estruturas culturais dinâmicas que assumam esse património não só como valor de memória mas também como factor de desenvolvimento integral das pessoas, a utilizar quer no reforço da auto-estima, da identidade e da cultura das populações que aí vivem quer como instrumento de valorização das actividades associadas à vitivinicultura, ao turismo cultural e ao enoturismo. Na verdade, consagrado com o estatuto de Património Mundial pela UNESCO como paisagem cultural, evolutiva e viva, o Douro Vinhateiro assume crescente importância para o sector do turismo, cujo desenvolvimento reforçará a capacidade de sustentação das actividades tradicionais do território.
+
+A necessidade de uma instituição museológica de âmbito regional, vocacionada para a inventariação, recolha, investigação, preservação, valorização e divulgação desses testemunhos da cultura, em especial do património material e imaterial do Douro Vinhateiro, tornou-se um imperativo nacional com a aprovação e publicação da Lei n.º 125/97, de 2 de Dezembro, de criação do Museu da Região do Douro.
+
+Trata-se, de acordo com a referida lei, de uma estrutura com amplas atribuições nas áreas da museografia, da documentação e informação, da investigação e da acção cultural, adequando-se a um conceito inovador de museu de território, com estrutura polinuclear, integrando a própria relação com a região e a participação activa das populações que aí vivem.
+
+Pelas suas características e amplitude, o projecto do Museu do Douro necessita, para a sua concretização e sustentação, da colaboração estreita entre o Estado, as autarquias locais, as instituições regionais de cultura, os sectores vitivinícola e do turismo e outras entidades públicas e privadas para viabilizar a obtenção dos recursos adequados ao exercício das funções previstas na lei. Para esse efeito, é necessário criar uma estrutura institucional que corporize a colaboração entre o Estado e a sociedade civil e que seja capaz de suportar a constituição e a gestão dos espaços, das colecções, do quadro técnico e das actividades do Museu.
+
+O Governo considera que a forma institucional mais adequada para atingir os referidos objectivos é a de uma fundação, tendo em conta outros casos já existentes e de acordo com as sugestões do relatório da comissão instaladora e com a experiência efectuada pela estrutura de projecto do Museu do Douro.
+
+A Fundação Museu do Douro, instituída pelo presente diploma, respeita integralmente o conteúdo da referida lei da Assembleia da República, designadamente quanto aos fins, ao património e à organização do Museu. No capítulo da organização, o conselho de fundadores corresponde ao conselho de mecenas previsto na citada lei.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Instituição
+
+É criada, pelo presente decreto-lei, a Fundação Museu do Douro, adiante designada por Fundação, e são aprovados os respectivos Estatutos, publicados no anexo I ao presente decreto-lei, dele fazendo parte integrante.
+
+###### Artigo 2.º — Natureza, sede e duração
+
+1 - A FMD, F.P., é uma fundação pública de direito privado e utilidade pública.
+
+2 - A Fundação tem duração indeterminada e rege-se pelo presente decreto-lei e Estatutos a ele anexos e, subsidiariamente, pelo ordenamento jurídico em vigor que lhe seja aplicável.
+
+3 - A Fundação tem a sua sede na cidade de Peso da Régua, na Casa da Companhia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 3.º — Fins
+
+A Fundação tem como fins a promoção de actividades culturais, cabendo-lhe a instalação, a manutenção e a gestão do Museu da Região do Douro, criado pela Lei n.º 125/97, de 2 de Dezembro, nos termos dos respectivos estatutos.
+
+###### Artigo 4.º — Património
+
+O património da FMD, F.P., é constituído pelos bens e valores constantes do artigo 5.º dos respetivos estatutos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 5.º — Contribuição financeira
+
+1 - Pelo Ministério da Cultura será inscrita, anualmente, uma verba de (euro) 500000, para fazer face às despesas de funcionamento da Fundação e às despesas de funcionamento e actividades do Museu da Região do Douro, sem prejuízo do disposto no número seguinte.
+
+2 - Nos quatro primeiros anos, após a instalação da Fundação, a verba prevista no número anterior será de (euro) 100000 no 1.º ano, de (euro) 200000 no 2.º ano, de (euro) 300000 no 3.º ano e de (euro) 400000 no 4.º ano.
+
+3 - Sem prejuízo do disposto nos números anteriores, o Ministério da Cultura assegurará as verbas correspondentes à comparticipação nacional necessária para as obras de adaptação e equipamento do edifício sede do Museu da Região do Douro.
+
+###### Artigo 6.º — Registo
+
+O presente decreto-lei constitui título suficiente para todos os efeitos legais, incluindo os de registo predial e de inscrição matricial do imóvel sede da Fundação.
+
+###### Artigo 7.º — Isenção e benefícios fiscais
+
+1 - A Fundação goza das isenções e benefícios fiscais de que aproveitem as pessoas colectivas de utilidade pública, nos termos da legislação em vigor.
+
+2 - Os donativos concedidos à FMD, F.P., beneficiam do regime estabelecido no Estatuto dos Benefícios Fiscais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 8.º — Composição inicial dos órgãos da Fundação
+
+A composição inicial dos órgãos da Fundação é a constante do anexo II ao presente decreto-lei, que dele faz parte integrante.
+
+###### Artigo 9.º — Norma transitória
+
+No ano de 2006, a contribuição financeira prevista no artigo 5.º do presente decreto-lei referenciada a (euro) 100000 é proporcional ao tempo decorrido entre a instituição da Fundação e o fim do ano.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva - Maria Isabel da Silva Pires de Lima.
+
+Promulgado em 5 de Março de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 6 de Março de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — ESTATUTOS DA FUNDAÇÃO MUSEU DO DOURO
+
+###### Artigo 1.º — Denominação, sede e tutela
+
+1 - A Fundação Museu do Douro, F.P., adiante designada por FMD, F.P., é uma fundação pública de direito privado, dotada de órgãos e património próprio e de autonomia administrativa e financeira.
+
+2 - A FMD, F.P., rege-se pelos presentes Estatutos, pela Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e demais legislação aplicável.
+
+3 - A FMD, F.P., encontra-se sujeita à superintendência e tutela do membro do Governo responsável pela área da cultura.
+
+4 - Os municípios e as demais pessoas e entidades de natureza pública ou privada fundadores participam na gestão da FMD, F.P., nos termos e com as especificidades constantes dos presentes Estatutos.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 2.º — Âmbito
+
+O âmbito de ação da FMD, F.P., é a Região do Douro, podendo, igualmente, desenvolver a sua ação em qualquer parte do País e do estrangeiro.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 3.º — Objeto e beneficiários
+
+A FMD, F.P., prossegue fins culturais, nomeadamente museológicos, de promoção, de valorização e preservação do património material e imaterial do Douro Vinhateiro, tendo por beneficiários os cidadãos em geral.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 4.º — Atribuições
+
+1 - A FMD, F.P., tem como atribuições as atividades relacionadas com a prossecução dos seus fins, designadamente, a instalação, a manutenção e a gestão do Museu da Região do Douro, nos termos da Lei n.º 125/97, de 2 de dezembro.
+
+2 - A FMD, F.P., desenvolve as atividades estabelecidas na Lei n.º 125/97, de 2 de dezembro, bem como as que contribuam para a rentabilização do património de que é titular.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 5.º — Património
+
+O património da FMD, F.P., é constituído:
+
+a) Pela dotação inicial de (euro) 500 000, repartida por (euro) 300 000 no 1.º ano e (euro) 200 000 no 2.º, que constituem a entrada do Estado, na sua qualidade de fundador;
+
+b) Pelas dotações dos restantes fundadores, no montante global de (euro) 500 000, depositadas à ordem da FMD, F.P., que podem ser repartidas por dois anos;
+
+c) Pelas dotações de todos aqueles a quem foi concedido o estatuto de fundador nos termos da alínea b) do n.º 1 do artigo 15.º dos anteriores Estatutos, e daqueles a quem venha a ser reconhecido o estatuto de membro do conselho consultivo;
+
+d) Pelo direito de uso:
+
+i) Do imóvel designado por «Casa da Companhia», cedido pelo Estado, sito na cidade da Régua, descrito na Conservatória do Registo Civil Predial de Peso da Régua, sob o n.º 645, da freguesia de Peso da Régua, inscrito a favor do Estado pela Ap. 10 de 2004/07/17, e nela registado a favor da FMD, F.P., o direito de uso consistente na utilização do imóvel para as suas atividades e fins, pelo prazo de 30 anos, renovável por iguais períodos;
+
+ii) Do imóvel designado por «Teatrinho da Régua», sito na Rua da Ferreirinha, na cidade da Régua, cedido pelo Instituto dos Vinhos do Douro e do Porto, I. P.;
+
+iii) Da área de exposições do edifício do «Solar do Vinho do Porto» (antigo armazém 43), sito na Rua da Ferreirinha, na cidade da Régua.
+
+e) Pelos subsídios que lhe sejam atribuídos por outras entidades públicas;
+
+f) Pelos bens de qualquer tipo que a FMD, F.P., adquirir, a título oneroso ou gratuito;
+
+g) Pelos bens de qualquer tipo que lhe advierem por doação, dação em cumprimento, herança, legado ou cedência;
+
+h) Pelos rendimentos dos seus bens próprios ou provenientes da prestação de serviços;
+
+i) Pelas dotações financeiras prestadas pelo Estado, para funcionamento da FMD, F.P., nos termos do decreto-lei constitutivo desta;
+
+j) Pelas dotações financeiras anuais das autarquias locais, nos termos do Acordo de Fundadores e dos restantes fundadores na proporção das respetivas entradas, sob proposta do conselho diretivo.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 6.º — Autonomia financeira
+
+1 - A FMD, F.P., goza de autonomia financeira, devendo a sua ação estar subordinada às regras dos presentes Estatutos, da Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e da demais legislação aplicável.
+
+2 - A FMD, F.P., pode praticar todos os atos necessários à realização dos seus fins e à gestão do seu património, nos termos definidos nos presentes Estatutos, na Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e na demais legislação aplicável.
+
+3 - Os investimentos da FMD, F.P., devem respeitar o critério da otimização da gestão do seu património, de acordo com os seus fins estatutários e, nomeadamente, com respeito pelos regimes legais aplicáveis ao seu património edificado e natural.
+
+4 - A FMD, F.P., pode fazer investimentos, bem como participar no capital de sociedades comerciais ou criar sociedades, observados os requisitos legais, que sejam instrumento útil para a prossecução do objetivo de otimização da gestão do seu património, desde que necessárias ou úteis à prossecução dos seus fins estatutários, com prévia autorização dos membros do Governo responsáveis pelas áreas das finanças e da cultura, anualmente renovada, nos termos definidos nos presentes Estatutos, na Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e na demais legislação aplicável.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 7.º — Participação noutras entidades
+
+A FMD, F.P., pode, por deliberação do conselho diretivo, filiar-se ou estabelecer acordos de cooperação com instituições nacionais ou estrangeiras.
+
+> Aditado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 8.º — Órgãos da Fundação Museu do Douro, F.P.
+
+São órgãos da FMD, F.P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 9.º — Composição e remuneração do conselho diretivo
+
+1 - O conselho diretivo da FMD, F.P., é composto pelo presidente e por dois vogais.
+
+2 - O presidente do conselho diretivo é designado pelo membro do Governo responsável pela área da cultura, ouvido o conselho consultivo.
+
+3 - Os vogais são designados pelo membro do Governo responsável pela área da cultura, sendo um dos vogais proposto pelos municípios membros do conselho consultivo e o outro proposto pelas demais pessoas e entidades de natureza privada que integram o mesmo órgão.
+
+4 - O mandato dos membros do conselho diretivo é de cinco anos, renovável nos termos legais.
+
+5 - O presidente e os vogais não são remunerados, nem auferem senhas de presença, sem prejuízo do direito ao pagamento de despesas com as deslocações, decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativos às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 10.º — Competência do conselho diretivo
+
+1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e da gestão da FMD, F.P.:
+
+a) Definir a organização interna;
+
+b) Proceder ao inventário anual do património a submeter ao fiscal único;
+
+c) Definir as políticas gerais de funcionamento e exercício da atividade da FMD, F.P.;
+
+d) Definir as políticas e orientação de investimento da FMD, F.P.;
+
+e) Elaborar o orçamento e o plano anual de atividades da FMD, F.P.;
+
+f) Elaborar o balanço anual e as contas de cada exercício, obtido o parecer do fiscal único, bem como elaborar os relatórios de atividades.
+
+2 - O conselho diretivo apresenta ao membro do Governo responsável pela área da cultura, para aprovação, os documentos previstos nas alíneas e) e f) do número anterior após o parecer do conselho consultivo.
+
+3 - A FMD, F.P., é representada, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho diretivo ou por mandatários especialmente designados.
+
+4 - O conselho diretivo pode delegar competências em qualquer dos seus membros.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 11.º — Presidente do conselho diretivo
+
+1 - Sem prejuízo das competências que lhe são cometidas pela lei ou pelos presentes Estatutos, compete ao presidente convocar e presidir às reuniões do conselho diretivo.
+
+2 - O presidente indica o vogal do conselho diretivo que o substitui nas suas faltas e impedimentos.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 12.º — Funcionamento do conselho diretivo
+
+1 - O quórum do conselho diretivo é de dois membros, sendo as suas deliberações tomadas por maioria.
+
+2 - O presidente tem voto de qualidade.
+
+3 - De todas as reuniões é lavrada ata em livro próprio, assinada pelos membros presentes.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 13.º — Vinculação
+
+1 - A FMD, F.P., obriga-se pela assinatura conjunta de dois membros do conselho diretivo, sendo um deles o presidente.
+
+2 - O conselho diretivo pode, em casos devidamente justificados, constituir mandatários, atribuindo-lhes competência para atos específicos previamente aprovados, podendo, nesse caso, a FMD, F.P., ficar obrigada pela sua assinatura.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 14.º — Fiscal único
+
+1 - O fiscal único é designado e tem as competências previstas na Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, aplicável nos termos da Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, competindo-lhe ainda:
+
+a) Elaborar o parecer sobre o inventário, realizado e apresentado pelo conselho diretivo;
+
+b) Elaborar o parecer sobre se a aplicação dos rendimentos se realiza em harmonia com os fins estatutários.
+
+2 - O fiscal único é remunerado nos termos definidos para os institutos públicos de regime comum pela Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 15.º — Composição do conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais da FMD, F.P.
+
+2 - O conselho consultivo é composto por todos os fundadores referidos no anexo II ao decreto-lei que a instituiu, bem como pelo Estado Português e pelo presidente do conselho diretivo e pelas entidades e pessoas a quem foi conferida a qualidade de fundadores pelo conselho de fundadores nos termos da alínea b) do n.º 1 do artigo 15.º dos anteriores Estatutos;
+
+3 - Integram ainda o conselho consultivo as pessoas e entidades às quais venha a ser reconhecido o estatuto de membro deste órgão, na sequência de aprovação pelo conselho consultivo sob proposta do conselho diretivo;
+
+4 - O conselho consultivo elege, no início do seu mandato e de entre os seus membros, o presidente, que preside e tem voto de qualidade em caso de empate nas votações, e um vice-presidente.
+
+5 - Sempre que qualquer membro seja uma pessoa coletiva, esta designa, com mandato por um período de cinco anos, renovável, uma pessoa singular para a representar.
+
+6 - Os representantes de cada um dos municípios têm um mandato correspondente ao mandato autárquico, mantendo-se em funções enquanto não forem substituídos.
+
+7 - No caso de renúncia ou impedimento definitivo da pessoa singular designada nos termos dos n.os 5 e 6, a pessoa coletiva que a designou deve indicar o novo representante que passa a integrar o conselho consultivo.
+
+8 - Os vogais do conselho diretivo têm assento no conselho consultivo, sem direito de voto.
+
+9 - O exercício de funções de membro do conselho consultivo não é remunerado.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 16.º — Competência do conselho consultivo
+
+Sem prejuízo das competências conferidas por lei, compete ao conselho consultivo pronunciar-se sobre:
+
+a) As políticas gerais de funcionamento e exercício da atividade da FMD, F.P.;
+
+b) As políticas e orientação de investimento da FMD, F.P.;
+
+c) O orçamento e o plano anual de atividades da FMD, F.P.;
+
+d) O balanço anual e as contas de cada exercício, obtido o parecer do fiscal único, bem como sobre os relatórios de atividades apresentados pelo conselho diretivo;
+
+e) A alienação ou oneração de bens que integrem o património privativo da FMD, F.P., observados os requisitos legais;
+
+f) As questões, iniciativas, projetos e ou matérias que lhe forem colocadas pelo conselho diretivo.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 17.º — Funcionamento
+
+1 - O conselho consultivo reúne, ordinariamente, em março e novembro, para dar parecer sobre o balanço anual e as contas de cada exercício, obtido o parecer do fiscal único, e sobre o plano de atividades e o orçamento da fundação, e, extraordinariamente, sempre que seja convocado pelo seu presidente, ou, pelo menos, por quatro dos seus membros.
+
+2 - O exercício de funções de membro do conselho consultivo não é remunerado, sem prejuízo do reembolso das importâncias respeitantes a despesas de deslocação feitas ao serviço da FMD, F.P.
+
+3 - As deliberações do conselho consultivo são tomadas por maioria simples dos membros presentes.
+
+4 - O conselho consultivo emite a sua pronúncia em reunião convocada para o efeito ou mediante a emissão de pareceres individuais de cada uma das entidades que o compõem, no prazo de 20 dias a contar da solicitação para esse efeito formulada pelo seu presidente.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 18.º — Modificação dos Estatutos
+
+A alteração dos presentes Estatutos é efetuada por decreto-lei.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+###### Artigo 19.º — Extinção da Fundação Museu do Douro, F.P.
+
+1 - A FMD, F.P., é instituída por tempo indeterminado.
+
+2 - A FMD, F.P., pode ser extinta nos termos aplicáveis à extinção de fundações públicas, aplicando-se o disposto na Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 16/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002), em vigor a partir de 2015-02-07
+
+## Anexo II — Composição inicial dos órgãos da Fundação
+
+1 - O conselho de administração tem a seguinte composição inicial:
+
+Prof. Doutor Artur Cristóvão, presidente;
+
+Dr.ª Luísa Amorim, vice-presidente;
+
+Dr. Agostinho Ribeiro, vice-presidente;
+
+Engenheiro Nuno Gonçalves, presidente da Câmara Municipal do Peso da Régua, vogal;
+
+Padre Amadeu Castro, presidente da Associação dos Amigos do Museu do Douro, vogal.
+
+2 - O conselho de fundadores tem a seguinte composição inicial:
+
+Ministério da Cultura;
+
+Município de Alfândega da Fé;
+
+Município de Alijó;
+
+Município de Armamar;
+
+Município de Carrazeda de Ansiães;
+
+Município de Freixo de Espada à Cinta;
+
+Município de Lamego;
+
+Município de Mesão Frio;
+
+Município de Mirandela;
+
+Município de Murça;
+
+Município de Peso da Régua;
+
+Município de Resende;
+
+Município de São João da Pesqueira;
+
+Município de Sabrosa;
+
+Município de Santa Marta de Penaguião;
+
+Município de Tabuaço;
+
+Município de Torre de Moncorvo;
+
+Município de Vila Flor;
+
+Município de Vila Real;
+
+APDL - Administração dos Portos do Douro e Leixões;
+
+Águas de Trás-os-Montes e Alto Douro;
+
+Associação dos Amigos do Museu do Douro;
+
+Associação do Douro Histórico;
+
+Banco BPI, S. A.;
+
+Caixa de Crédito Agrícola Mútuo do Alto Douro, C. R. L.;
+
+Caixa de Crédito Agrícola Mútuo do Vale do Douro, C. R. L.;
+
+Caves Vale do Rodo, C. R. L.;
+
+COMVAL - Comércio de Válvulas, Lda.;
+
+Douro Azul, SGPS, S. A.;
+
+Escola Superior de Tecnologia e Gestão de Mirandela;
+
+IVDP - Instituto dos Vinhos do Douro e Porto;
+
+IPTM - Instituto Portuário e dos Transportes Marítimos;
+
+NERVIR - Associação Empresarial;
+
+Quinta de Ventozelo - Sociedade Agrícola e Comercial, S. A.;
+
+Quinta Nova de Nossa Senhora do Carmo;
+
+Região de Turismo do Douro Sul;
+
+Região de Turismo Serra do Marão;
+
+SOGRAPE Vinhos, S. A.;
+
+SPR Vinhos, S. A.;
+
+TOMEIFEL, Comércio e Indústria de Automóveis, Lda.;
+
+UTAD - Universidade de Trás-os-Montes e Alto Douro;
+
+Comendador José Manuel Rodrigues Berardo;
+
+José Arnaldo Coutinho - Quinta de Mosteiró;
+
+Dr. João Van Zeller.
+
+3 - O conselho fiscal tem a seguinte composição inicial:
+
+Dr. Mário José Alveirinho Carrega, presidente;
+
+Instituto Portuário e dos Transportes Marítimos, vogal;
+
+Sociedade Revisora Oficial de Contas Costa Pinho e Cambão, representada pelo Dr. Jorge Rui Reis de Pinho, vogal.
+
+4 - A comissão de fixação de remunerações para o triénio de 2006-2008 tem a seguinte composição:
+
+Dr. Valdemar Eduardo Moreira Silva Cabral;
+
+Engenheiro António Saraiva;
+
+Prof. Fernando Adriano Pinto.

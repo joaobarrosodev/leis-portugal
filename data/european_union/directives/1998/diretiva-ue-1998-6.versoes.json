@@ -1,0 +1,242 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0006:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0006-20220528",
+ "dre_path": null,
+ "source_lastmod": "2022-05-28",
+ "versions": [
+  {
+   "date": "1998-03-18",
+   "future": false,
+   "celex": "01998L0006-19980318",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ededcfdff3fc0657",
+    "889b30bae60f9b3e",
+    "f52f4f47f9c2cf10",
+    "0787efbfca1672ff",
+    "c76489cdd0c17474",
+    "f7a6aa614b9b8509",
+    "0aab21357b4e27f7",
+    "4e7d51b0184f126a",
+    "e882f4aafe33e366",
+    "faf021d394173593",
+    "6804f8fff9bf6e43",
+    "5980af79687ec45e",
+    "7760d75386c2855e",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "c9bfea9b848bef14"
+   ]
+  },
+  {
+   "date": "2022-05-28",
+   "future": false,
+   "celex": "01998L0006-20220528",
+   "acts": [
+    {
+     "id": "eu:celex:32019L2161:por",
+     "title": "DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019",
+     "published": null,
+     "celex": "32019L2161"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Notas",
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "ededcfdff3fc0657",
+    "889b30bae60f9b3e",
+    "f52f4f47f9c2cf10",
+    "ecb031b0da373090",
+    "c76489cdd0c17474",
+    "f7a6aa614b9b8509",
+    "0aab21357b4e27f7",
+    "8d71966d8ce4f8fe",
+    "4e7d51b0184f126a",
+    "b4c64173d1460d19",
+    "36432918e6e1cc2a",
+    "6804f8fff9bf6e43",
+    "5980af79687ec45e",
+    "7760d75386c2855e",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "3ad3c89f3826a1d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "ededcfdff3fc0657": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Fevereiro de 1998\n\nrelativa à defesa dos consumidores em matéria de indicações dos preços dos produtos oferecidos aos consumidores"
+  },
+  "889b30bae60f9b3e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA finalidade da presente directiva é estipular a indicação do preço de venda e do preço por unidade de medida dos produtos vendidos pelos comerciantes aos consumidores, a fim de melhorar a informação dos consumidores e de facilitar a comparação dos preços."
+  },
+  "f52f4f47f9c2cf10": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) *Preço de venda:* o preço final para uma unidade do produto ou uma determinada quantidade do produto, isto é, incluindo o IVA;\n\nb) *Preço por unidade de medida:* o preço final, incluindo o IVA e todos os outros impostos, para um quilograma, um litro, um metro, um metro quadrado ou um metro cúbico do produto ou uma outra unidade única de medida que seja utilizada de modo generalizado e habitual, no Estado-membro em causa, na comercializão de produtos específicos;\n\nc) *Produto vendido o granel:* um produto que não seja pré-embalado e que seja medido ou pesado na presença do consumidor;\n\nd) *Comerciante:* qualquer pessoa singular ou colectiva que vende ou põe à venda produtos relacionados com a sua actividade comercial ou profissional;\n\ne) *Consumidor:* qualquer pessoa singular que compre um produto para fins não relacionados com a sua actividade comercial ou profissional."
+  },
+  "0787efbfca1672ff": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O preço de venda e o preço por unidade de medida serão indicados para todos os produtos referidos no artigo 1.º, estando a indicação do preço por unidade de medida sujeita ao disposto no artigo 5.º Não é necessário indicar o preço por unidade de medida se este for idêntico ao preço de venda.\n\n2. Os Estados-membros podem decidir não aplicar o n.º 1 a:\n\n— produtos fornecidos por ocasião de uma prestação de serviços,\n\n— vendas em leilão e vendas de objectos de arte e antiguidades.\n\n3. Quanto aos produtos vendidos a granel, será indicado apenas o preço por unidade de medida.\n\n4. Qualquer publicidade que mencione o preço de venda dos produtos referidos no artigo 1.º indicara também o preço unitário, sem prejuízo do artigo 5.º"
+  },
+  "c76489cdd0c17474": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O preço de venda e o preço por unidade de medida devem ser inequívocos, facilmente reconhecíveis e perfeitamente legíveis. Os Estados-membros poderão estabelecer que o número máximo de preços a indicar seja limitado.\n\n2. O preço por unidade de medida referir-se-á a uma quantidade declarada de acordo com as disposições nacionais e comunitárias.\n\nSempre que as disposições comunitárias ou nacionais exijam a indicação do peso líquido e do peso líquido escorrido para determinados produtos pré-embalados, será suficiente indicar o preço por unidade de medida do peso líquido escorrido."
+  },
+  "f7a6aa614b9b8509": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros podem dispensar da obrigação de indicar o preço por unidade de medida os produtos para os quais tal indicação não seja útil, dada a sua natureza ou destino, ou seja susceptível de gerar confusões.\n\n2. Para efeitos de execução do disposto no n.º 1, os Estados-membros podem, no que se refere aos produtos não alimentares, estabelecer uma lista dos produtos ou categorias de produtos que continuarão sujeitos à obrigação de indicação do preço por unidade de medida."
+  },
+  "0aab21357b4e27f7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe a obrigação de indicar o preço por unidade de medida constituir um encargo excessivo para certos pequenos estabelecimentos de comércio a retalho, devido ao número de produtos à venda, à área de venda, à natureza do local de venda, a condições específicas de venda em que o produto não esteja directamente acessível ao consumidor, ou a determinadas formas de comércio, tais como certos tipos de comércio ambulante, os Estados-membros podem determinar, durante um período de transição [**►C1**](http://publications.europa.eu/resource/celex/31998L0006R%2801%29) —————**◄** a contar da data referida no n.º 1 do artigo 11.º, que a obrigação de indicar o preço por unidade de medida de produtos que não sejam vendidos a granel, e que sejam vendidos em certos pequenos estabelecimentos de comércio a retalho, não seja aplicável, sob reserva do artigo 12.º"
+  },
+  "4e7d51b0184f126a": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros tomarão as medidas adequadas para informar os interessados da transposição da presente directiva para o direito nacional."
+  },
+  "e882f4aafe33e366": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros determinarão as sanções aplicáveis às violações das disposições nacionais adoptadas em aplicação da presente directiva e tomarão toda e qualquer medida necessária para assegurar a aplicação das referidas disposições. Essas sanções devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "faf021d394173593": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O período de transição de nove anos mencionado no artigo 1.º da Directiva 95/58/CE do Parlamento Europeu e do Conselho, de 29 de Novembro de 1995, que altera a Directiva 79/581/CEE, relativa à protecção dos consumidores em matéria de indicação dos preços dos géneros alimentícios, e a Directiva 88/314/CEE, relativa à protecção dos consumidores em matéria de indicação dos preços dos produtos não alimentares ([^1^](http://publications.europa.eu/resource/cellar/3fa61834-a4ef-11ea-bb7a-01aa75ed71a1.0003.02/DOC_1#E0001)), será prorrogado até à data referida no n.º 1 do artigo 11.º da presente directiva.\n\n2. As Directivas 79/581/CEE e 88/314/CEE são revogadas com efeitos a partir da data referida no n.º 1 do artigo 11.º da presente directiva."
+  },
+  "6804f8fff9bf6e43": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva não obsta a que os Estados-membros adoptem ou mantenham disposições mais favoráveis no tocante à informação dos consumidores e à comparação dos preços, sem prejuízo das suas obrigações decorrentes do Tratado."
+  },
+  "5980af79687ec45e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 18 de Março de 2000. Do facto informarão imediatamente a Comissão. As disposições adoptadas serão aplicáveis a partir dessa data.\n\nQuando os Estados-membros adoptarem essas medidas, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. Os Estados-membros notificarão o regime de sanções previsto no artigo 8.º, bem como qualquer modificação ulterior."
+  },
+  "7760d75386c2855e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho, o mais tardar três anos a contar da data referida no n.º 1 do artigo 11.º, um relatório completo sobre a aplicação da presente directiva, especialmente sobre o artigo 6.º, acompanhado de uma proposta.\n\nNessa base, o Parlamento Europeu e o Conselho reanalisarão o disposto no artigo 6.º e decidirão, nos termos do Tratado, no prazo de três anos a contar da apresentação, pela Comissão, da proposta referida no primeiro parágrafo."
+  },
+  "c8c48c56297b2ea9": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "9c264c46c8c1b6fd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "c9bfea9b848bef14": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3fa61834-a4ef-11ea-bb7a-01aa75ed71a1.0003.02/DOC_1#src.E0001)) JO L 299 de 12.12.1995, p. 11."
+  },
+  "ecb031b0da373090": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O preço de venda e o preço por unidade de medida serão indicados para todos os produtos referidos no artigo 1.º, estando a indicação do preço por unidade de medida sujeita ao disposto no artigo 5.º Não é necessário indicar o preço por unidade de medida se este for idêntico ao preço de venda.\n\n2.\n\nOs Estados-membros podem decidir não aplicar o n.º 1 a:\n\n— produtos fornecidos por ocasião de uma prestação de serviços,\n\n— vendas em leilão e vendas de objectos de arte e antiguidades.\n\n3. Quanto aos produtos vendidos a granel, será indicado apenas o preço por unidade de medida.\n\n4. Qualquer publicidade que mencione o preço de venda dos produtos referidos no artigo 1.º indicara também o preço unitário, sem prejuízo do artigo 5.º"
+  },
+  "8d71966d8ce4f8fe": {
+   "fragment_id": "Artigo 6.º-A",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A\n\n1. Qualquer anúncio de redução de preço indica o preço anteriormente praticado pelo comerciante durante um determinado período anterior à aplicação da redução do preço.\n\n2. Entende-se por preço anteriormente praticado, o preço mais baixo praticado pelo comerciante durante um período que não seja inferior a 30 dias anterior à aplicação da redução do preço.\n\n3. Os Estados-Membros podem estabelecer regras diferentes para os bens suscetíveis de se deteriorarem ou de ficarem rapidamente fora de prazo de validade.\n\n4. Caso o produto esteja no mercado há menos de 30 dias, os Estados-Membros podem igualmente fixar um período mais curto do que o estabelecido no n.º 2.\n\n5. Os Estados-Membros podem estabelecer que, aquando do aumento gradual da redução do preço, o preço anteriormente praticado é o preço sem redução antes da primeira aplicação da redução do preço."
+  },
+  "b4c64173d1460d19": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros estabelecem as regras relativas às sanções aplicáveis em caso de violação das disposições nacionais adotadas nos termos da presente diretiva e tomam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas.\n\n2.\n\nOs Estados-Membros asseguram que, na aplicação de uma sanção, são tidos em conta, se for caso disso, os seguintes critérios não exaustivos e indicativos:\n\na) a natureza, gravidade, dimensão e duração da infração cometida;\n\nb) as medidas eventualmente adotadas pelo comerciante para atenuar ou reparar os danos causados aos consumidores;\n\nc) as eventuais infrações cometidas anteriormente pelo comerciante em causa;\n\nd) os benefícios financeiros obtidos ou os prejuízos evitados pelo comerciante em virtude da infração cometida, se os dados em causa estiverem disponíveis;\n\ne) as sanções impostas ao comerciante pela mesma infração noutros Estados-Membros em situações transfronteiriças caso a informação sobre essas sanções esteja disponível através do mecanismo estabelecido pelo Regulamento (UE) 2017/2394 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/6c0a5cd1-ec06-11ec-a534-01aa75ed71a1.0017.02/DOC_1#E0001))\n\nf) qualquer outro fator agravante ou atenuante aplicável às circunstâncias do caso concreto.\n\n3. Os Estados-Membros notificam a Comissão, até 28 de novembro de 2021, das regras e medidas a que se refere o n.º 1e notificam-na, sem demora, de qualquer alteração ulterior das mesmas."
+  },
+  "36432918e6e1cc2a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O período de transição de nove anos mencionado no artigo 1.º da Directiva 95/58/CE do Parlamento Europeu e do Conselho, de 29 de Novembro de 1995, que altera a Directiva 79/581/CEE, relativa à protecção dos consumidores em matéria de indicação dos preços dos géneros alimentícios, e a Directiva 88/314/CEE, relativa à protecção dos consumidores em matéria de indicação dos preços dos produtos não alimentares ([^2^](http://publications.europa.eu/resource/cellar/6c0a5cd1-ec06-11ec-a534-01aa75ed71a1.0017.02/DOC_1#E0002)), será prorrogado até à data referida no n.º 1 do artigo 11.º da presente directiva.\n\n2. As Directivas 79/581/CEE e 88/314/CEE são revogadas com efeitos a partir da data referida no n.º 1 do artigo 11.º da presente directiva."
+  },
+  "3ad3c89f3826a1d1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6c0a5cd1-ec06-11ec-a534-01aa75ed71a1.0017.02/DOC_1#src.E0001)) Regulamento (UE) 2017/2394 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de proteção dos consumidores e que revoga o Regulamento (CE) n.º 2006/2004 (JO L 345 de 27.12.2017, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6c0a5cd1-ec06-11ec-a534-01aa75ed71a1.0017.02/DOC_1#src.E0002)) JO L 299 de 12.12.1995, p. 11."
+  }
+ }
+}

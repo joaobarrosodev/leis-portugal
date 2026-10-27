@@ -1,0 +1,274 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492728:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-141609986",
+ "dre_path": "/dr/detalhe/portaria/773-2009-492728",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141696275",
+    "141696276",
+    "141696277",
+    "141696278",
+    "141696279",
+    "141696280",
+    "141696281",
+    "141696282",
+    "141696283",
+    "141696284",
+    "141696285",
+    "141696286"
+   ]
+  },
+  {
+   "date": "2020-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141597645:por",
+     "title": "Portaria n.º 208/2020",
+     "published": "2020-09-01",
+     "dre_path": "/dr/detalhe/portaria/208-2020-141597645"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "141696275",
+    "141696308",
+    "141696309",
+    "141696310",
+    "141696311",
+    "141696312",
+    "141696313",
+    "141696314",
+    "141696315",
+    "141696316",
+    "141696317",
+    "141696286",
+    "141696287"
+   ]
+  }
+ ],
+ "fragments": {
+  "141696275": {
+   "fragment_id": "141609987",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 773/2009\n\nde 21 de Julho\n\nO regime jurídico da segurança contra incêndio em edifícios, aprovado pelo Decreto-Lei n.º 220/2008, de 12 de Novembro, dispõe que a actividade de comercialização, instalação e manutenção de produtos e equipamentos de segurança é feita por entidades registadas na Autoridade Nacional da Protecção Civil, devendo o procedimento de registo ser definido por portaria, sem prejuízo de outras licenças, autorizações ou habilitações previstas na lei para o exercício de determinada actividade. A presente portaria define os diversos requisitos necessários ao registo nacional das referidas entidades, incluindo o requisito da capacidade técnica, pedra basilar da sua competência, determinando as condições de qualificação profissional, com base na experiência e formação dos seus técnicos responsáveis. Mais se prevê que o registo permita a identificação das entidades certificadas ao abrigo de um referencial de qualidade específico para a actividade, auditado por uma entidade terceira e independente, já que a certificação constitui a garantia de a comercialização, a instalação e a manutenção de produtos e equipamentos de segurança serem executados por entidades especializadas, com instalações e meios materiais e humanos adequados ao exercício da sua actividade.\n\nAssim:\n\nNos termos e ao abrigo do disposto no n.º 2 do artigo 23.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, manda o Governo, pelos Ministros da Administração Interna, da Economia e da Inovação e das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "141696276": {
+   "fragment_id": "141609988",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define o procedimento de registo, na Autoridade Nacional de Protecção Civil (ANPC), das entidades que exerçam a actividade de comercialização, instalação e ou manutenção de produtos e equipamentos de segurança contra incêndio em edifícios (SCIE), adiante abreviadamente designadas por entidades."
+  },
+  "141696277": {
+   "fragment_id": "141609989",
+   "type": 11,
+   "heading": "Artigo 2.º — Produtos e equipamentos de SCIE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produtos e equipamentos de SCIE\n\nPara efeitos do disposto na presente portaria, são considerados os seguintes produtos e equipamentos de SCIE:\n\na) Portas e envidraçados resistentes ao fogo e ao fumo, e seus acessórios;\n\nb) Sistemas de compartimentação e revestimentos contra incêndio;\n\nc) Sistemas automáticos e dispositivos autónomos de detecção de incêndio e gases;\n\nd) Sistemas e dispositivos de controlo de fumo;\n\ne) Extintores;\n\nf) Sistemas de extinção por água;\n\ng) Sistemas de extinção automática por agentes distintos da água e água nebulizada;\n\nh) Sinalização de segurança."
+  },
+  "141696278": {
+   "fragment_id": "141609990",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo\n\n1 - O registo das entidades é criado e mantido pela ANPC, no âmbito do sistema informático previsto no artigo 32.º do Decreto-Lei n.º 220/2008, de 12 de Novembro.\n\n2 - O registo referido no número anterior inclui os seguintes elementos informativos sobre as entidades:\n\na) Designação social e sede;\n\nb) Número de identificação fiscal (NIF);\n\nc) Contactos: telefone, fax, e-mail;\n\nd) Identificação do técnico responsável: nome, NIF, entidade acreditadora e data de acreditação;\n\ne) Serviços efectuados, no âmbito da comercialização, instalação e ou manutenção de produtos e equipamentos de SCIE;\n\nf) Identificação dos produtos e equipamentos de SCIE objecto de comercialização, instalação e ou manutenção, conforme definido no artigo 2.º da presente portaria;\n\ng) Número de certificado e âmbito da certificação, para as entidades referidas no artigo 7.º da presente portaria.\n\n3 - Os elementos informativos, referidos nas alíneas a), b), d), f) e g) do número anterior, são divulgados no sítio da ANPC."
+  },
+  "141696279": {
+   "fragment_id": "141609991",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento de registo\n\n1 - O registo das entidades é efectuado mediante requerimento destas dirigido à ANPC.\n\n2 - Podem requerer o registo as entidades que façam prova da capacidade técnica do técnico responsável, para o exercício de actividade, no âmbito da comercialização, instalação e ou manutenção dos produtos e equipamentos de SCIE previstos no artigo 2.º da presente portaria."
+  },
+  "141696280": {
+   "fragment_id": "141609992",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento\n\n1 - O pedido de registo é formulado em requerimento dirigido à ANPC, conforme modelo por esta aprovado.\n\n2 - O requerimento deve ser instruído com todos os elementos necessários ao registo, incluindo, designadamente, os seguintes documentos:\n\na) Certidão emitida pela Conservatória do Registo Comercial;\n\nb) Documento comprovativo da capacidade técnica do seu técnico responsável, acreditado pela ANPC ou por entidade por esta reconhecida;\n\nc) Cópia do certificado emitido por organismo certificador acreditado pelo Instituto Português de Acreditação (IPAC) para as entidades referidas no artigo 7.º da presente portaria.\n\n3 - O requerimento e o consequente registo apenas procedem desde que o processo esteja completa e devidamente instruído."
+  },
+  "141696281": {
+   "fragment_id": "141609993",
+   "type": 11,
+   "heading": "Artigo 6.º — Técnico responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Técnico responsável\n\n1 - Ao técnico responsável da entidade cumprem as funções de planeamento, organização, coordenação dos técnicos operadores e dos subempreiteiros, assistência técnica e controle de qualidade dos fornecimentos, montagem e execução dos trabalhos de SCIE em obra, mediante a subscrição de termo de responsabilidade.\n\n2 - A acreditação do técnico responsável é efectuada mediante a verificação respectiva qualificação profissional, atendendo, designadamente, à formação de base, à experiência profissional, ao conteúdo programático, formadores e carga horária das acções de formação específica em comercialização, instalação e ou manutenção de produtos e equipamentos de SCIE, em conformidade com os requisitos a fixar em regulamento da ANPC."
+  },
+  "141696282": {
+   "fragment_id": "141609994",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades certificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades certificadas\n\n1 - O registo no sítio da ANPC deve permitir a identificação permanentemente actualizada das entidades certificadas ao abrigo de um referencial de qualidade específico para a actividade, no âmbito do comércio, instalação e ou manutenção de produtos e equipamentos de SCIE, auditado periodicamente por uma entidade terceira e independente.\n\n2 - Para efeitos do registo previsto no número anterior, as entidades certificadas devem ser detentoras de um dos seguintes certificados:\n\na) Certificado de sistema de gestão da qualidade pela NP EN IS0 9001, emitido por organismos certificadores acreditados pelo IPAC, no âmbito do comércio, instalação e ou manutenção de produtos e equipamentos de SCIE;\n\nb) Certificado de serviço, emitido por organismos certificadores acreditados pelo IPAC, no âmbito do comércio, instalação e ou manutenção de produtos e equipamentos de SCIE, com base no referencial definido e divulgado pela ANPC no seu sítio.\n\n3 - O âmbito da certificação deve discriminar os produtos e equipamentos de SCIE objecto de comercialização, instalação e ou manutenção, previstos no artigo 2.º da presente portaria."
+  },
+  "141696283": {
+   "fragment_id": "141609995",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações das entidades registadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações das entidades registadas\n\nAs entidades registadas ao abrigo da presente portaria estão obrigadas a notificar a ANPC de todas as alterações aos dados que lhes respeitam, no prazo máximo de 10 dias após a data da sua ocorrência."
+  },
+  "141696284": {
+   "fragment_id": "141609996",
+   "type": 11,
+   "heading": "Artigo 9.º — Suspensão e cancelamento do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Suspensão e cancelamento do registo\n\n1 - Quando se verifique a falta de técnico responsável, o registo da entidade é suspenso enquanto esta se mantiver.\n\n2 - Quando se verifique a cessação de actividade, o registo da entidade é cancelado.\n\n3 - A suspensão ou cancelamento de registo são notificadas pela ANPC às entidades registadas, objecto de tais medidas."
+  },
+  "141696285": {
+   "fragment_id": "141609997",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Durante um período transitório de três anos a contar da data de publicação da presente portaria, a verificação da qualificação profissional do técnico responsável é efectuada com base na avaliação curricular dos seguintes requisitos mínimos:\n\na) Três anos de experiência na actividade e formação de produto ou serviço, para os titulares com habilitação escolar mínima obrigatória, de acordo com a data de nascimento;\n\nb) Um ano de experiência na actividade, para engenheiros reconhecidos pela Ordem dos Engenheiros (OE), ou para engenheiros técnicos reconhecidos pela Associação Nacional dos Engenheiros Técnicos (ANET).\n\n2 - As acreditações dos técnicos responsáveis, efectuadas com base nos requisitos mínimos referidos no número anterior, são emitidas pela ANPC ou por entidade por esta reconhecida, sendo válidas durante o período transitório."
+  },
+  "141696286": {
+   "fragment_id": "141609998",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação."
+  },
+  "141696308": {
+   "fragment_id": "141609988",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define o procedimento de registo, na Autoridade Nacional de Emergência e Proteção Civil (ANEPC), das entidades que têm por objeto a atividade de comercialização, instalação ou manutenção de equipamentos e sistemas de segurança contra incêndio em edifícios (SCIE), adiante abreviadamente designadas por entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696309": {
+   "fragment_id": "141609989",
+   "type": 11,
+   "heading": "Artigo 2.º — Equipamentos e sistemas de SCIE",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Equipamentos e sistemas de SCIE\n\nPara efeitos do disposto na presente portaria, considera-se equipamentos e sistemas de SCIE:\n\na) Portas e envidraçados resistentes ao fogo e ao fumo, e seus acessórios;\n\nb) Sistemas de compartimentação com qualificação de resistência ao fogo e ao fumo, e respetivos acessórios, e produtos de proteção contra o fogo por isolamento térmico;\n\nc) Sistemas automáticos e dispositivos autónomos de deteção de incêndio e de deteção de gases;\n\nd) Sistemas e dispositivos de controlo de fumo;\n\ne) Extintores;\n\nf) Sistemas de extinção por água;\n\ng) Sistemas de extinção automática por agentes distintos da água e água nebulizada;\n\nh) Sinalização de segurança.\n\ni) Sistemas e dispositivos de controlo de poluição de ar;\n\nj) Iluminação de emergência;\n\nk) Instalações de para-raios;\n\nl) Sinalização ótica para a aviação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696310": {
+   "fragment_id": "141609990",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Registo\n\n1 - O registo é criado e mantido pela ANEPC, no âmbito do sistema informático previsto no artigo 32.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual.\n\n2 - Podem efetuar o registo as entidades, singulares ou coletivas, legalmente constituídas de acordo com a legislação de um Estado-membro da União Europeia ou de um Estado parte do Acordo sobre o Espaço Económico Europeu que tenha como objeto a comercialização, instalação ou manutenção de equipamentos e sistemas de SCIE.\n\n3 - O registo inclui os seguintes elementos sobre as entidades:\n\na) Designação social e sede;\n\nb) Número de identificação fiscal;\n\nc) Contactos telefónicos e endereço de correio eletrónico;\n\nd) Equipamentos e sistemas de SCIE objeto da respetiva atividade e validade do respetivo registo, bem como as atividades de comercialização, instalação ou manutenção a eles associados;\n\ne) Nome e número de identificação fiscal do técnico responsável;\n\nf) Identificação dos equipamentos e sistemas de SCIE em relação aos quais o técnico responsável tem capacidade técnica para exercer atividade e respetiva validade;\n\ng) Número de certificado e âmbito da certificação, para as entidades detentoras do certificado obrigatório no âmbito da manutenção de extintores (NP 4413) e para as entidades com certificação de qualidade referida no artigo 7.º;\n\nh) Número de registo.\n\n4 - Os elementos informativos referidos no número anterior são divulgados no sítio da ANEPC na internet, exceto o número de identificação fiscal do técnico responsável a que se refere a alínea e) do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696311": {
+   "fragment_id": "141609991",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento de registo",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimento de registo\n\n1 - O registo das entidades é efectuado mediante requerimento destas dirigido à ANPC.\n\n2 - Podem requerer o registo as entidades que façam prova da capacidade técnica do técnico responsável, para o exercício de atividade, no âmbito da comercialização, instalação e ou manutenção dos equipamentos e sistemas de SCIE previstos no artigo 2.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696312": {
+   "fragment_id": "141609992",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Requerimento\n\n1 - O pedido de registo é formulado em requerimento dirigido ao presidente da ANEPC, através do sistema informático a que se refere o n.º 3 do artigo 3.º\n\n2 - O pedido deve ser instruído com todos os elementos necessários ao registo, nomeadamente:\n\na) Certidão de teor da descrição e de todas as inscrições em vigor, emitida pela Conservatória do Registo Comercial, que comprove que o objeto da sua atividade se relaciona ou inclui a comercialização, instalação ou manutenção de equipamentos e sistemas de SCIE;\n\nb) (Revogada.)\n\nc) Cópia do certificado emitido por organismo certificador acreditado pelo Instituto Português de Acreditação (IPAC), para as entidades referidas no artigo 7.º e para as entidades com certificação obrigatória no âmbito da manutenção de extintores (NP 4413);\n\nd) Declaração de início de atividade.\n\n3 - O pedido é ainda instruído com os seguintes dados relativos ao técnico responsável:\n\na) Número de identificação fiscal;\n\nb) Morada;\n\nc) Contacto telefónico;\n\nd) Endereço de correio eletrónico;\n\ne) Habilitações literárias;\n\nf) Comprovativo da capacidade técnica do técnico responsável proposto pela entidade requerente, emitido nos termos do n.º 3 do artigo 6.º;\n\ng) Documento comprovativo da formação profissional adequada, regulada por despacho do presidente da ANEPC.\n\n4 - No caso de entidades estrangeiras, o pedido deve ser instruído com o registo comercial e a declaração de início da atividade emitidos conforme a legislação do país de origem e o certificado emitido pelo organismo certificador do país de origem, devidamente traduzido e autenticado pelos serviços consulares.\n\n5 - O pedido de registo é apreciado quando o processo esteja devidamente instruído.\n\n6 - O registo está sujeito ao pagamento de uma taxa, nos termos da alínea h) do n.º 2 do artigo 29.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696313": {
+   "fragment_id": "141609993",
+   "type": 11,
+   "heading": "Artigo 6.º — Técnico responsável",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Técnico responsável\n\n1 - O técnico responsável desempenha as funções de planeamento, organização e controlo de qualidade da comercialização, instalação ou manutenção dos equipamentos e sistemas de SCIE, bem como de coordenação dos técnicos operadores e dos subempreiteiros.\n\n2 - O técnico responsável deve subscrever um termo de responsabilidade para o exercício das atividades de instalação ou manutenção dos equipamentos e sistemas de SCIE.\n\n3 - O reconhecimento da capacidade técnica do técnico responsável é efetuado pela ANEPC, mediante a verificação da respetiva qualificação profissional, em conformidade com os requisitos fixados em regulamento da ANEPC.\n\n4 - O reconhecimento da capacidade técnica para um determinado equipamento ou sistema de SCIE e atividade de comercialização, instalação ou manutenção a ele associada apenas é válido para uma entidade registada na ANEPC.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696314": {
+   "fragment_id": "141609994",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificação da qualidade",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Certificação da qualidade\n\n1 - A ANEPC divulga no seu sítio na internet:\n\na) O referencial de qualidade específico para a atividade, no âmbito do comércio, instalação ou manutenção de equipamentos e sistemas de SCIE, por si definido;\n\nb) As entidades com certificação da qualidade no âmbito do comércio, instalação ou manutenção de equipamentos e sistemas de SCIE.\n\n2 - Para efeitos do previsto na alínea b) do número anterior, as entidades devem ser detentoras de um dos seguintes certificados, no âmbito do comércio, instalação ou manutenção de equipamentos e sistemas de SCIE:\n\na) Certificado de sistema de gestão da qualidade pela NP EN IS0 9001, emitido por organismos certificadores acreditados pelo IPAC;\n\nb) Certificado de serviço, emitido por organismos certificadores acreditados pelo IPAC, com base no referencial de qualidade definido pela ANEPC.\n\n3 - A certificação deve discriminar os equipamentos e sistemas de SCIE e as atividades de comercialização, instalação ou manutenção a eles associados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696315": {
+   "fragment_id": "141609995",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de comunicação",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Dever de comunicação\n\nAs entidades registadas ao abrigo da presente portaria devem notificar a ANEPC de todas as alterações aos dados que lhes respeitam, no prazo máximo de 10 dias após a data da sua ocorrência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696316": {
+   "fragment_id": "141609996",
+   "type": 11,
+   "heading": "Artigo 9.º — Validade do registo",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Validade do registo\n\n1 - O registo é válido enquanto a entidade exercer a respetiva atividade e estiverem reunidos os demais requisitos previstos na presente portaria, por referência aos equipamentos e sistemas de SCIE, bem como as atividades de comercialização, instalação ou manutenção a eles associados.\n\n2 - O registo é suspenso, até à regularização da situação, quando a ANEPC verifique a falta de técnico responsável ou quando este deixe de ter o reconhecimento da sua capacidade técnica.\n\n3 - A suspensão ou o cancelamento do registo são notificados à entidade registada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696317": {
+   "fragment_id": "141609997",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": "2020-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Durante um período transitório de três anos a contar da data de publicação da presente portaria, a verificação da qualificação profissional do técnico responsável é efectuada com base na avaliação curricular dos seguintes requisitos mínimos:\n\na) Três anos de experiência na actividade e formação de produto ou serviço, para os titulares com habilitação escolar mínima obrigatória, de acordo com a data de nascimento;\n\nb) Um ano de experiência na actividade, para engenheiros reconhecidos pela Ordem dos Engenheiros (OE), ou para engenheiros técnicos reconhecidos pela Associação Nacional dos Engenheiros Técnicos (ANET).\n\n2 - As acreditações dos técnicos responsáveis, efectuadas com base nos requisitos mínimos referidos no número anterior, são emitidas pela ANPC ou por entidade por esta reconhecida, sendo válidas durante o período transitório.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 208/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/208-2020-141597645), em vigor a partir de 2020-10-01"
+  },
+  "141696287": {
+   "fragment_id": "141609999",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 8 de Junho de 2009. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 8 de Junho de 2009. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 9 de Junho de 2009."
+  }
+ }
+}

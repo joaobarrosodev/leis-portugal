@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:327782:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-891174998",
+ "dre_path": "/dr/detalhe/decreto-lei/43-1985-327782",
+ "source_lastmod": "2024-10-16",
+ "versions": [
+  {
+   "date": "1985-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "891107767",
+    "891107768",
+    "891107769",
+    "891107770",
+    "891107771",
+    "891107772",
+    "891107773",
+    "891107774"
+   ]
+  }
+ ],
+ "fragments": {
+  "891107767": {
+   "fragment_id": "891174999",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 43/85\n\nde 14 de Fevereiro\n\nConsiderando necessário dotar o comandante-chefe das Forças Armadas no arquipélago da Madeira de de um órgão de apoio próprio;\n\nConsiderando que já está criado o Comando-Chefe das Forças Armadas nos Açores, cuja estrutura se tem provado eficiente no cumprimento das missões que são atribuídas a esse Comando:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "891107768": {
+   "fragment_id": "891175000",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o Comando-Chefe das Forças Armadas no Arquipélago da Madeira (CCFAAM)."
+  },
+  "891107769": {
+   "fragment_id": "891175001",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO comandante-chefe das Forças Armadas no arquipélago da Madeira é um oficial general, devendo a sua nomeação ser feita por rotação entre os ramos."
+  },
+  "891107770": {
+   "fragment_id": "891175002",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O comandante-chefe das Forças Armadas no arquipélago da Madeira depende directamente do Chefe do Estado-Maior-General das Forças Armadas, devendo a sua missão e a competência e os meios de que dispõe constar de carta de comando próprio.\n\n2 - O comando-chefe apoia o Ministro da República no exercício das suas competências, nos termos da carta de comando."
+  },
+  "891107771": {
+   "fragment_id": "891175003",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO comandante-chefe das Forças Armadas no arquipélago da Madeira será apoiado por um estado-maior reduzido, dirigido por um chefe de estado-maior, com a seguinte composição:\n\nRepartição de Informações Militares;\n\nRepartição de Operações;\n\nSecção de Informação Interna e Relações Públicas (SIIRP);\n\nServiço de Saúde;\n\nSub-registo OTAN;\n\nSecretaria."
+  },
+  "891107772": {
+   "fragment_id": "891175004",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O comandante-chefe das Forças Armadas no arquipélago da Madeira e o seu estado-maior ficarão instalados na ilha da Madeira e serão apoiados pelo Quartel-General da Zona Militar da Madeira, designadamente no âmbito administrativo.\n\n2 - Todos os encargos decorrentes da aplicação do presente diploma serão suportados pelas dotações adequadas do Orçamento do Estado consignadas ao Estado-Maior-General das Forças Armadas."
+  },
+  "891107773": {
+   "fragment_id": "891175005",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - O quadro orgânico do estado-maior do CCFAAM consta do mapa anexo ao presente diploma e dele faz parte integrante.\n\n2 - O pessoal colocado no estado-maior do CCFAAM transitará para a situação de adido aos respectivos quadros de origem.\n\n3 - O preenchimento do referido quadro orgânico será feito por fases, por proposta do comandante-chefe, tendo em conta a disponibilidade de infra-estruturas e instalações existentes."
+  },
+  "891107774": {
+   "fragment_id": "891175006",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nTransitoriamente, as funções de comandante-chefe serão exercidas pelo comandante da Zona Militar da Madeira, dependendo de despacho do Chefe de Estado-Maior-General das Forças Armadas o termo desta situação."
+  }
+ }
+}

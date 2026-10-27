@@ -1,0 +1,409 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499236:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-169885984",
+ "dre_path": "/dr/detalhe/lei/58-2013-499236",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174689001",
+    "169886481",
+    "169886482",
+    "169886483",
+    "169886484",
+    "169886485",
+    "169886486",
+    "169886487",
+    "169886488",
+    "169886489",
+    "169886490",
+    "169886491",
+    "169886492",
+    "169886493",
+    "169886494"
+   ]
+  },
+  {
+   "date": "2020-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:143437624:por",
+     "title": "Decreto-Lei n.º 72/2020",
+     "published": "2020-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2020-143437624"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "169886480",
+    "169886481",
+    "169886482",
+    "174527173",
+    "174527174",
+    "169886485",
+    "169886486",
+    "169886487",
+    "169886488",
+    "169886489",
+    "169886490",
+    "169886491",
+    "169886492",
+    "169886493",
+    "169886494",
+    "169886495"
+   ]
+  },
+  {
+   "date": "2021-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174614573:por",
+     "title": "Decreto-Lei n.º 102/2021",
+     "published": "2021-11-19",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2021-174614573"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "174689001",
+    "174689002",
+    "174689003",
+    "174689004",
+    "174689005",
+    "174689006",
+    "174689007",
+    "174689008",
+    "174689009",
+    "174689010",
+    "174689011",
+    "174689012",
+    "174689013",
+    "174689014",
+    "174689015",
+    "174689016"
+   ]
+  }
+ ],
+ "fragments": {
+  "174689001": {
+   "fragment_id": "169885985",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-11-20",
+   "changed_by": [],
+   "markdown": "Lei n.º 58/2013\n\nde 20 de agosto\n\nAprova os requisitos de acesso e de exercício da atividade de perito qualificado para a certificação energética e de técnico de instalação e manutenção de edifícios e sistemas, conformando-o com a disciplina da Lei n.º 9/2009, de 4 de março, que transpôs a Diretiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0036\" title=\"Link para Directiva da Comunidade Europeia\">2005/36/CE</a>, do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "169886481": {
+   "fragment_id": "169885986",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece os requisitos de acesso e de exercício da atividade dos seguintes profissionais:\n\na) Perito qualificado para a certificação energética (PQ);\n\nb) Técnico de instalação e manutenção de edifícios e sistemas (TIM).\n\n2 - Os profissionais referidos no número anterior são técnicos do sistema de certificação energética (SCE), aprovado pelo Decreto-Lei n.º 118/2013, de 20 de agosto.\n\n3 - A presente lei visa ainda implementar, no âmbito da atividade dos profissionais referidos nos números anteriores, a disciplina da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, que transpõe para a ordem jurídica interna a Diretiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0036\" title=\"Link para Directiva da Comunidade Europeia\">2005/36/CE</a>, do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais."
+  },
+  "169886482": {
+   "fragment_id": "169885987",
+   "type": 11,
+   "heading": "Artigo 2.º — Qualificações profissionais dos peritos qualificados para a certificação energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Qualificações profissionais dos peritos qualificados para a certificação energética\n\nOs PQ são arquitetos, engenheiros ou engenheiros técnicos inscritos nas respetivas associações públicas profissionais, sem prejuízo do disposto nos n.os 6 e 7 do artigo 4.º, com as seguintes qualificações adicionais de acordo com o respetivo âmbito de atuação:\n\na) Para atuação em edifícios de habitação, no âmbito do Regulamento de Desempenho Energético dos Edifícios de Habitação (REH), aprovado pelo Decreto-Lei n.º 118/2013, de 20 de agosto, e em pequenos edifícios de serviços dotados de sistemas de climatização com potência nominal igual ou inferior a 25 kW, no âmbito do Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços (RECS), aprovado pelo referido decreto-lei, enquanto profissionais de categoria PQ-I:\n\ni) Arquitetos, engenheiros civis, engenheiros técnicos civis, engenheiros mecânicos, engenheiros técnicos mecânicos, engenheiros eletrotécnicos, engenheiros técnicos de energia e sistemas de potência, especialistas em engenharia de climatização ou energia;\n\nii) Cinco anos de experiência profissional em atividade de projeto ou construção de edifícios;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia;\n\nb) Para atuação em edifícios de serviços no âmbito do RECS, enquanto profissionais de categoria PQ-II:\n\ni) Engenheiros mecânicos, engenheiros técnicos mecânicos, engenheiros eletrotécnicos, engenheiros técnicos de energia e sistemas de potência, especialistas em engenharia de climatização ou energia;\n\nii) Cinco anos de experiência profissional em atividades de projeto, construção ou manutenção de sistemas de aquecimento, ventilação e ar condicionado (AVAC), ou de auditorias energéticas em edifícios abrangidos pelo RECS;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia."
+  },
+  "169886483": {
+   "fragment_id": "169885988",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualificações profissionais dos técnicos de instalação e manutenção de edifícios e sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Qualificações profissionais dos técnicos de instalação e manutenção de edifícios e sistemas\n\n1 - Sem prejuízo do disposto nos n.os 6 e 7 do artigo seguinte, o TIM deve possuir as seguintes qualificações, de acordo com o âmbito de atuação:\n\na) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados ou a instalar limitados a 100 kW de potência térmica nominal, enquanto profissional de categoria TIM-II, deve possuir qualificação de nível 2 do Quadro Nacional de Qualificações em eletromecânico de refrigeração e climatização do Catálogo Nacional de Qualificações (CNQ) ministrada por entidade formadora certificada nos termos do n.º 3;\n\nb) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados ou a instalar com mais de 100 kW de potência térmica nominal, enquanto profissional de categoria TIM-III, deve possuir qualificação de nível 4 do Quadro Nacional de Qualificações, em técnico de refrigeração e climatização do CNQ ministrada por entidade formadora certificada nos termos do n.º 3.\n\n2 - Para efeitos de verificação do disposto no número anterior, é relevante a potência térmica do equipamento, no caso de sistemas de climatização não centralizados, e a potência térmica do sistema, no caso de sistemas de climatização centralizados.\n\n3 - A certificação de entidades formadoras referidas nas alíneas a) e b) do n.º 1 é da competência da entidade fiscalizadora do SCE e segue os trâmites da Portaria n.º 851/2010, de 6 de setembro, que regula o sistema de certificação de entidades formadoras, com as adaptações constantes de portaria a aprovar pelo membro do Governo responsável pela área da energia.\n\n4 - A certificação de entidades formadoras pela entidade fiscalizadora do SCE, expressa ou tácita, é comunicada aos serviços centrais competentes do ministério responsável pela área da formação profissional, no prazo máximo de 10 dias.\n\n5 - As entidades formadoras remetem à entidade gestora do SCE, através do balcão único eletrónico dos serviços, os certificados de qualificações que emitam relativamente aos seus formandos TIM, no prazo máximo de 10 dias após a respetiva emissão.\n\n6 - A entidade gestora do SCE divulga a lista das entidades formadoras certificadas no seu sítio na Internet."
+  },
+  "169886484": {
+   "fragment_id": "169885989",
+   "type": 11,
+   "heading": "Artigo 4.º — Técnicos do sistema de certificação energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Técnicos do sistema de certificação energética\n\n1 - Sem prejuízo do disposto no n.º 7, o acesso e exercício da profissão de técnico do SCE depende da obtenção de título profissional em determinada categoria, com registo junto da entidade gestora do SCE.\n\n2 - O requerimento da emissão de título profissional e respetivo registo inclui o pedido de admissão ao exame referido no artigo 2.º e no n.º 2 do artigo 13.º e é instruído com:\n\na) Identificação do profissional e, nos casos aplicáveis, da respetiva associação pública profissional em que se encontra inscrito;\n\nb) Curriculum vitae.\n\n3 - Após a aprovação do profissional no exame referido no artigo 2.º e no n.º 2 do artigo 13.º e a comprovação da sua experiência nos termos dos mesmos artigos, a entidade gestora do SCE emite o respetivo certificado de qualificações e título profissional e procede ao seu registo como técnico do SCE.\n\n4 - Nos casos dos TIM que acedam à profissão nos termos das alíneas a) e b) do n.º 1 do artigo anterior, a entidade gestora do SCE procede automaticamente à emissão do respetivo título profissional e ao registo dos mesmos enquanto técnicos do SCE na categoria correspondente após receção do certificado de qualificação enviado pela entidade formadora em causa, nos termos do n.º 5 do artigo anterior.\n\n5 - No caso dos PQ, a entidade gestora do SCE comprova oficiosamente a inscrição do profissional na associação pública profissional respetiva previamente à realização do exame referido no artigo 2.º\n\n6 - A emissão do título profissional e o registo de técnicos do SCE que sejam profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu e pretendam estabelecer-se em território nacional para o exercício da atividade de PQ ou de TIM em determinada categoria, de acordo com o seu âmbito de atuação, são realizados de forma automática pela entidade gestora do SCE com a decisão de reconhecimento das qualificações no termo do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n7 - Os profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu que pretendam exercer a atividade de PQ ou de TIM em território nacional, em determinado âmbito de atuação e em regime de livre prestação de serviços, devem efetuar a declaração prévia referida no artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, após o que a entidade gestora do SCE procede automaticamente ao registo dos mesmos enquanto técnicos do SCE na categoria correspondente.\n\n8 - Os profissionais referidos no número anterior são equiparados a PQ ou a TIM da categoria correspondente, consoante o caso, aplicando-se-lhes todos os requisitos adequados à natureza ocasional e esporádica da sua atividade em território nacional, e todas as referências legais a PQ e a TIM, excetuadas aquelas das quais resulte o contrário.\n\n9 - A entidade gestora do SCE divulga a lista dos técnicos do SCE a operar em território nacional no seu sítio na Internet."
+  },
+  "169886485": {
+   "fragment_id": "169885990",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências e reserva de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências e reserva de atividade\n\n1 - Compete ao PQ:\n\na) Identificar e avaliar as oportunidades e recomendações de melhoria de desempenho energético dos edifícios;\n\nb) Fazer a avaliação do desempenho energético dos edifícios a certificar no âmbito do SCE, registando as oportunidades e recomendações de melhoria de desempenho energético no pré-certificado ou certificado emitido e na demais documentação complementar;\n\nc) Emitir os pré-certificados e certificados SCE;\n\nd) Colaborar nos processos de verificação de qualidade do SCE;\n\ne) Verificar e submeter ao SCE o plano de racionalização energética.\n\n2 - Compete ao TIM coordenar ou executar as atividades de planeamento, verificação, gestão da utilização de energia, instalação e manutenção relativas a edifícios e sistemas técnicos, nos termos do disposto no Decreto-Lei n.º 118/2013, de 20 de agosto.\n\n3 - As competências referidas nas alíneas b), c) e e) do n.º 1 e no número anterior são atos próprios dos técnicos do SCE, nos respetivos âmbitos de atuação e de acordo com as categorias referidas nos artigos 2.º e 3.º, sendo no entanto permitido aos TIM-III a prática dos atos próprios dos TIM-II."
+  },
+  "169886486": {
+   "fragment_id": "169885991",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres profissionais\n\n1 - Os técnicos do SCE exercem as atividades previstas no artigo anterior em conformidade com as metodologias técnicas e regulamentares do SCE, conduzindo os respetivos processos em articulação direta com a entidade gestora do SCE.\n\n2 - Constitui dever profissional dos técnicos do SCE o exercício das suas funções em condições que garantam a sua total independência e a ausência de conflitos de interesses, nomeadamente não exercendo a sua atividade relativamente a edifício de que seja proprietário ou arrendatário ou para o qual tenha subscrito ou preveja vir a subscrever projeto de arquitetura ou de especialidade, termo de responsabilidade na qualidade de diretor de obra ou de diretor de fiscalização ou que, não obstante não subscreva qualquer termo de responsabilidade, integre ou preveja integrar a equipa de direção de obra ou de direção de fiscalização de obra.\n\n3 - São igualmente deveres profissionais dos técnicos do SCE os constantes do Decreto-Lei n.º 118/2013, de 20 de agosto, nos respetivos regulamentos e nas demais disposições aplicáveis."
+  },
+  "169886487": {
+   "fragment_id": "169885992",
+   "type": 11,
+   "heading": "Artigo 7.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de (euro) 750 a (euro) 7500 a prática de atos próprios de PQ e TIM por profissionais sem o respetivo título profissional ou sem que exerçam a respetiva atividade nos termos do n.º 7 do artigo 4.º\n\n2 - Sem prejuízo do disposto no número seguinte, constitui contraordenação punível com coima de (euro) 250 a (euro) 3500 o incumprimento pelos PQ e TIM dos deveres profissionais referidos no artigo anterior.\n\n3 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 7000 a aplicação incorreta das metodologias técnicas e regulamentares previstas no REH e no RECS, quando determine o registo das seguintes situações de irregularidade técnica:\n\na) Alteração de classe energética que resulte de um desvio superior a 5 % face ao valor apurado para o rácio que conduz à determinação da classe energética obtido no decorrer do procedimento de verificação da qualidade, nos termos constantes do Decreto-Lei n.º 118/2013, de 20 de agosto;\n\nb) Incumprimento dos requisitos previstos nos artigos 26.º a 30.º e nos artigos 38.º a 49.º do Decreto-Lei n.º 118/2013, de 20 de agosto.\n\n4 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos a metade.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.\n\n6 - Em caso da prática de contraordenação com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres profissionais, e tendo em conta a culpa do infrator, pode a Direção-Geral de Energia e Geologia (DGEG) determinar a aplicação cumulativa da coima com a sanção acessória da interdição do exercício das atividades previstas no artigo 5.º, com a duração máxima de dois anos contados a partir da decisão condenatória definitiva, com cassação do respetivo título profissional.\n\n7 - A sanção de suspensão é inscrita no registo do técnico do SCE e implica a retirada do profissional em causa da lista referida no n.º 9 do artigo 4.º, durante o período da suspensão.\n\n8 - A sanção acessória aplicada aos técnicos do SCE é comunicada à respetiva associação pública profissional, nos casos aplicáveis."
+  },
+  "169886488": {
+   "fragment_id": "169885993",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução do processo e distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução do processo e distribuição do produto das coimas\n\n1 - Os processos de contraordenação são instruídos pela DGEG, cabendo ao diretor-geral de Energia e Geologia a aplicação das coimas e respetiva sanção acessória.\n\n2 - O produto das coimas é distribuído da seguinte forma:\n\na) 60 % para os cofres do Estado;\n\nb) 40 % para o Fundo de Eficiência Energética."
+  },
+  "169886489": {
+   "fragment_id": "169885994",
+   "type": 11,
+   "heading": "Artigo 9.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Legislação subsidiária\n\nÀs contraordenações previstas na presente lei aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "169886490": {
+   "fragment_id": "169885995",
+   "type": 11,
+   "heading": "Artigo 10.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Balcão único\n\n1 - Com exceção dos procedimentos contraordenacionais, todos os pedidos, comunicações e notificações previstos na presente lei, entre os profissionais e as autoridades competentes, são realizados preferencialmente por meios eletrónicos, através do balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do sítio da DGEG na Internet.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível."
+  },
+  "169886491": {
+   "fragment_id": "169885996",
+   "type": 11,
+   "heading": "Artigo 11.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação administrativa\n\nAs autoridades administrativas competentes nos termos da presente lei prestam e solicitam às autoridades competentes dos outros Estados membros da União Europeia ou do Espaço Económico Europeu e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente, nomeadamente através do sistema de informação do mercado interno, no âmbito dos procedimentos relativos a profissionais provenientes de outro Estado membro, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto."
+  },
+  "169886492": {
+   "fragment_id": "169885997",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões autónomas\n\n1 - Os atos e os procedimentos necessários à execução da presente lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades e órgãos das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - Nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 92/2010, de 26 de julho, os controlos exercidos, quer pelos organismos da administração central quer pelas entidades e órgãos competentes das administrações das regiões autónomas no âmbito da presente lei, são válidos para todo o território nacional.\n\n3 - O produto das coimas é distribuído da seguinte forma:\n\na) 60 % para os cofres do Governo Regional;\n\nb) 40 % para o Fundo de Eficiência Energética."
+  },
+  "169886493": {
+   "fragment_id": "169885998",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\n1 - Mantêm-se válidos os reconhecimentos dos PQ e TIM concedidos ao abrigo do Decreto-Lei n.º 78/2006, de 4 de abril, e do Decreto-Lei n.º 79/2006, de 4 de abril, considerando-se os profissionais em causa como detentores do respetivo título profissional nos termos da presente lei para todos os efeitos legais, devendo a entidade gestora do SCE proceder oficiosamente ao seu registo no prazo máximo de dois meses após a entrada em vigor da mesma.\n\n2 - Durante o período de cinco anos contados da data da entrada em vigor da presente lei, o acesso ao título profissional de TIM pode ainda ser atribuído a quem possuir as seguintes qualificações, de acordo com o âmbito de atuação:\n\na) TIM-II:\n\ni) Experiência profissional mínima de dois anos na área da eletromecânica de refrigeração e climatização;\n\nii) Escolaridade obrigatória em função da idade;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia;\n\nb) TIM-III:\n\ni) Experiência profissional mínima de três anos na área da refrigeração e climatização;\n\nii) Escolaridade obrigatória em função da idade;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia.\n\n3 - Os técnicos responsáveis pelo funcionamento dos edifícios (TRF), a que se refere o Decreto-Lei n.º 78/2006, de 4 de abril, e o artigo 21.º do Decreto-Lei n.º 79/2006, de 4 de abril, são equiparados a TIM-III para os efeitos previstos na presente lei, sem prejuízo do dever de inscrição no registo junto da entidade gestora do SCE por mera declaração em como pretendem exercer as funções em causa, sendo automaticamente emitidos os respetivos títulos profissionais.\n\n4 - Os técnicos com a qualificação de técnico de qualidade do ar interior (TQAI) a que se refere o artigo 22.º do Decreto-Lei n.º 79/2006, de 4 de abril, são, à data de entrada em vigor da presente lei, equiparados a TIM-II, para os efeitos previstos na presente lei, sem prejuízo do dever de atualização do registo junto da entidade gestora do SCE por mera declaração em como pretendem exercer as funções em causa, sendo automaticamente emitidos os respetivos títulos profissionais.\n\n5 - Os peritos qualificados com qualificações específicas RSECE-QAI definidas pelo protocolo a que se refere o n.º 2 do artigo 7.º do Decreto-Lei n.º 78/2006, de 4 de abril, podem, durante o prazo de dois anos após a entrada em vigor da portaria referida na subalínea iii) da alínea b) do artigo 2.º, ser equiparados a PQ-II, para os efeitos previstos na presente lei, na sequência de aprovação no exame referido naquela mesma subalínea, realizado de forma gratuita pela entidade gestora do SCE, a qual deve, após a aprovação do profissional no exame, proceder à sua inscrição no registo de técnicos do SCE e emissão do respetivo título profissional, igualmente de forma gratuita."
+  },
+  "169886494": {
+   "fragment_id": "169885999",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de dezembro de 2013."
+  },
+  "169886480": {
+   "fragment_id": "169885985",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 58/2013\n\nde 20 de agosto\n\nAprova os requisitos de acesso e de exercício da atividade de perito qualificado para a certificação energética e de técnico de instalação e manutenção de edifícios e sistemas, conformando-o com a disciplina da Lei n.º 9/2009, de 4 de março, que transpôs a Diretiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0036\" title=\"Link para Directiva da Comunidade Europeia\">2005/36/CE</a>, do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "174527173": {
+   "fragment_id": "169885988",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualificações profissionais dos técnicos de instalação e manutenção de edifícios e sistemas",
+   "in_force_from": "2020-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 3.º — Qualificações profissionais dos técnicos de instalação e manutenção de edifícios e sistemas\n\n1 - Sem prejuízo do disposto nos n.os 6 e 7 do artigo seguinte, o TIM deve possuir as seguintes qualificações, de acordo com o âmbito de atuação:\n\na) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados ou a instalar limitados a 100 kW de potência térmica nominal, enquanto profissional de categoria TIM-II, deve possuir qualificação de nível 2 do Quadro Nacional de Qualificações em eletromecânico de refrigeração e climatização do Catálogo Nacional de Qualificações (CNQ) ministrada por entidade formadora certificada;\n\nb) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados ou a instalar com mais de 100 kW de potência térmica nominal, enquanto profissional de categoria TIM-III, deve possuir qualificação de nível 4 do Quadro Nacional de Qualificações, em técnico de refrigeração e climatização do CNQ, ministrada por entidade formadora certificada.\n\n2 - Para efeitos de verificação do disposto no número anterior, é relevante a potência térmica do equipamento, no caso de sistemas de climatização não centralizados, e a potência térmica do sistema, no caso de sistemas de climatização centralizados.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+  },
+  "174527174": {
+   "fragment_id": "169885989",
+   "type": 11,
+   "heading": "Artigo 4.º — Técnicos do sistema de certificação energética",
+   "in_force_from": "2020-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 4.º — Técnicos do sistema de certificação energética\n\n1 - Sem prejuízo do disposto no n.º 7, o acesso e exercício da profissão de técnico do SCE depende da obtenção de título profissional em determinada categoria, com registo junto da entidade gestora do SCE.\n\n2 - O requerimento da emissão de título profissional e respetivo registo inclui o pedido de admissão ao exame referido no artigo 2.º e no n.º 2 do artigo 13.º e é instruído com:\n\na) Identificação do profissional e, nos casos aplicáveis, da respetiva associação pública profissional em que se encontra inscrito;\n\nb) Curriculum vitae.\n\n3 - Após a aprovação do profissional no exame referido no artigo 2.º e no n.º 2 do artigo 13.º e a comprovação da sua experiência nos termos dos mesmos artigos, a entidade gestora do SCE emite o respetivo certificado de qualificações e título profissional e procede ao seu registo como técnico do SCE.\n\n4 - Nos casos dos TIM que acedam à profissão nos termos das alíneas a) e b) do n.º 1 do artigo anterior, a entidade gestora do SCE procede automaticamente à emissão do respetivo título profissional e ao registo dos mesmos enquanto técnicos do SCE na categoria correspondente, após a apresentação do certificado de qualificação pelo interessado.\n\n5 - No caso dos PQ, a entidade gestora do SCE comprova oficiosamente a inscrição do profissional na associação pública profissional respetiva previamente à realização do exame referido no artigo 2.º\n\n6 - A emissão do título profissional e o registo de técnicos do SCE que sejam profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu e pretendam estabelecer-se em território nacional para o exercício da atividade de PQ ou de TIM em determinada categoria, de acordo com o seu âmbito de atuação, são realizados de forma automática pela entidade gestora do SCE com a decisão de reconhecimento das qualificações no termo do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n7 - Os profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu que pretendam exercer a atividade de PQ ou de TIM em território nacional, em determinado âmbito de atuação e em regime de livre prestação de serviços, devem efetuar a declaração prévia referida no artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, após o que a entidade gestora do SCE procede automaticamente ao registo dos mesmos enquanto técnicos do SCE na categoria correspondente.\n\n8 - Os profissionais referidos no número anterior são equiparados a PQ ou a TIM da categoria correspondente, consoante o caso, aplicando-se-lhes todos os requisitos adequados à natureza ocasional e esporádica da sua atividade em território nacional, e todas as referências legais a PQ e a TIM, excetuadas aquelas das quais resulte o contrário.\n\n9 - A entidade gestora do SCE divulga a lista dos técnicos do SCE a operar em território nacional no seu sítio na Internet.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+  },
+  "169886495": {
+   "fragment_id": "169886000",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 11 de julho de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 19 de agosto de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "174689002": {
+   "fragment_id": "169885986",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece os requisitos de acesso e de exercício da atividade dos seguintes profissionais:\n\na) Perito qualificado para a certificação energética (PQ);\n\nb) Técnico de instalação e manutenção de edifícios e sistemas (TIM).\n\n2 - Os profissionais referidos no número anterior são técnicos do sistema de certificação energética (SCE), aprovado pelo Decreto-Lei n.º 118/2013, de 20 de agosto.\n\n3 - A presente lei visa ainda implementar, no âmbito da atividade dos profissionais referidos nos números anteriores, a disciplina da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, que transpõe para a ordem jurídica interna a Diretiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0036\" title=\"Link para Directiva da Comunidade Europeia\">2005/36/CE</a>, do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689003": {
+   "fragment_id": "169885987",
+   "type": 11,
+   "heading": "Artigo 2.º — Qualificações profissionais dos peritos qualificados para a certificação energética",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 2.º — Qualificações profissionais dos peritos qualificados para a certificação energética\n\nOs PQ são arquitetos, engenheiros ou engenheiros técnicos inscritos nas respetivas associações públicas profissionais, sem prejuízo do disposto nos n.os 6 e 7 do artigo 4.º, com as seguintes qualificações adicionais de acordo com o respetivo âmbito de atuação:\n\na) Para atuação em edifícios de habitação, no âmbito do Regulamento de Desempenho Energético dos Edifícios de Habitação (REH), aprovado pelo Decreto-Lei n.º 118/2013, de 20 de agosto, e em pequenos edifícios de serviços dotados de sistemas de climatização com potência nominal igual ou inferior a 25 kW, no âmbito do Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços (RECS), aprovado pelo referido decreto-lei, enquanto profissionais de categoria PQ-I:\n\ni) Arquitetos, engenheiros civis, engenheiros técnicos civis, engenheiros mecânicos, engenheiros técnicos mecânicos, engenheiros eletrotécnicos, engenheiros técnicos de energia e sistemas de potência, especialistas em engenharia de climatização ou energia;\n\nii) Cinco anos de experiência profissional em atividade de projeto ou construção de edifícios;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia;\n\nb) Para atuação em edifícios de serviços no âmbito do RECS, enquanto profissionais de categoria PQ-II:\n\ni) Engenheiros mecânicos, engenheiros técnicos mecânicos, engenheiros eletrotécnicos, engenheiros técnicos de energia e sistemas de potência, especialistas em engenharia de climatização ou energia;\n\nii) Cinco anos de experiência profissional em atividades de projeto, construção ou manutenção de sistemas de aquecimento, ventilação e ar condicionado (AVAC), ou de auditorias energéticas em edifícios abrangidos pelo RECS;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689004": {
+   "fragment_id": "169885988",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualificações profissionais dos técnicos de instalação e manutenção de edifícios e sistemas",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 3.º — Qualificações profissionais dos técnicos de instalação e manutenção de edifícios e sistemas\n\n1 - Sem prejuízo do disposto nos n.os 6 e 7 do artigo seguinte, o TIM deve possuir as seguintes qualificações, de acordo com o âmbito de atuação:\n\na) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados ou a instalar limitados a 100 kW de potência térmica nominal, enquanto profissional de categoria TIM-II, deve possuir qualificação de nível 2 do Quadro Nacional de Qualificações em eletromecânico de refrigeração e climatização do Catálogo Nacional de Qualificações (CNQ) ministrada por entidade formadora certificada;\n\nb) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados ou a instalar com mais de 100 kW de potência térmica nominal, enquanto profissional de categoria TIM-III, deve possuir qualificação de nível 4 do Quadro Nacional de Qualificações, em técnico de refrigeração e climatização do CNQ, ministrada por entidade formadora certificada.\n\n2 - Para efeitos de verificação do disposto no número anterior, é relevante a potência térmica do equipamento, no caso de sistemas de climatização não centralizados, e a potência térmica do sistema, no caso de sistemas de climatização centralizados.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+  },
+  "174689005": {
+   "fragment_id": "169885989",
+   "type": 11,
+   "heading": "Artigo 4.º — Técnicos do sistema de certificação energética",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 4.º — Técnicos do sistema de certificação energética\n\n1 - Sem prejuízo do disposto no n.º 7, o acesso e exercício da profissão de técnico do SCE depende da obtenção de título profissional em determinada categoria, com registo junto da entidade gestora do SCE.\n\n2 - O requerimento da emissão de título profissional e respetivo registo inclui o pedido de admissão ao exame referido no artigo 2.º e no n.º 2 do artigo 13.º e é instruído com:\n\na) Identificação do profissional e, nos casos aplicáveis, da respetiva associação pública profissional em que se encontra inscrito;\n\nb) Curriculum vitae.\n\n3 - Após a aprovação do profissional no exame referido no artigo 2.º e no n.º 2 do artigo 13.º e a comprovação da sua experiência nos termos dos mesmos artigos, a entidade gestora do SCE emite o respetivo certificado de qualificações e título profissional e procede ao seu registo como técnico do SCE.\n\n4 - Nos casos dos TIM que acedam à profissão nos termos das alíneas a) e b) do n.º 1 do artigo anterior, a entidade gestora do SCE procede automaticamente à emissão do respetivo título profissional e ao registo dos mesmos enquanto técnicos do SCE na categoria correspondente, após a apresentação do certificado de qualificação pelo interessado.\n\n5 - No caso dos PQ, a entidade gestora do SCE comprova oficiosamente a inscrição do profissional na associação pública profissional respetiva previamente à realização do exame referido no artigo 2.º\n\n6 - A emissão do título profissional e o registo de técnicos do SCE que sejam profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu e pretendam estabelecer-se em território nacional para o exercício da atividade de PQ ou de TIM em determinada categoria, de acordo com o seu âmbito de atuação, são realizados de forma automática pela entidade gestora do SCE com a decisão de reconhecimento das qualificações no termo do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n7 - Os profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu que pretendam exercer a atividade de PQ ou de TIM em território nacional, em determinado âmbito de atuação e em regime de livre prestação de serviços, devem efetuar a declaração prévia referida no artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, após o que a entidade gestora do SCE procede automaticamente ao registo dos mesmos enquanto técnicos do SCE na categoria correspondente.\n\n8 - Os profissionais referidos no número anterior são equiparados a PQ ou a TIM da categoria correspondente, consoante o caso, aplicando-se-lhes todos os requisitos adequados à natureza ocasional e esporádica da sua atividade em território nacional, e todas as referências legais a PQ e a TIM, excetuadas aquelas das quais resulte o contrário.\n\n9 - A entidade gestora do SCE divulga a lista dos técnicos do SCE a operar em território nacional no seu sítio na Internet.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+  },
+  "174689006": {
+   "fragment_id": "169885990",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências e reserva de atividade",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 5.º — Competências e reserva de atividade\n\n1 - Compete ao PQ:\n\na) Identificar e avaliar as oportunidades e recomendações de melhoria de desempenho energético dos edifícios;\n\nb) Fazer a avaliação do desempenho energético dos edifícios a certificar no âmbito do SCE, registando as oportunidades e recomendações de melhoria de desempenho energético no pré-certificado ou certificado emitido e na demais documentação complementar;\n\nc) Emitir os pré-certificados e certificados SCE;\n\nd) Colaborar nos processos de verificação de qualidade do SCE;\n\ne) Verificar e submeter ao SCE o plano de racionalização energética.\n\n2 - Compete ao TIM coordenar ou executar as atividades de planeamento, verificação, gestão da utilização de energia, instalação e manutenção relativas a edifícios e sistemas técnicos, nos termos do disposto no Decreto-Lei n.º 118/2013, de 20 de agosto.\n\n3 - As competências referidas nas alíneas b), c) e e) do n.º 1 e no número anterior são atos próprios dos técnicos do SCE, nos respetivos âmbitos de atuação e de acordo com as categorias referidas nos artigos 2.º e 3.º, sendo no entanto permitido aos TIM-III a prática dos atos próprios dos TIM-II.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689007": {
+   "fragment_id": "169885991",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres profissionais",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres profissionais\n\n1 - Os técnicos do SCE exercem as atividades previstas no artigo anterior em conformidade com as metodologias técnicas e regulamentares do SCE, conduzindo os respetivos processos em articulação direta com a entidade gestora do SCE.\n\n2 - Constitui dever profissional dos técnicos do SCE o exercício das suas funções em condições que garantam a sua total independência e a ausência de conflitos de interesses, nomeadamente não exercendo a sua atividade relativamente a edifício de que seja proprietário ou arrendatário ou para o qual tenha subscrito ou preveja vir a subscrever projeto de arquitetura ou de especialidade, termo de responsabilidade na qualidade de diretor de obra ou de diretor de fiscalização ou que, não obstante não subscreva qualquer termo de responsabilidade, integre ou preveja integrar a equipa de direção de obra ou de direção de fiscalização de obra.\n\n3 - São igualmente deveres profissionais dos técnicos do SCE os constantes do Decreto-Lei n.º 118/2013, de 20 de agosto, nos respetivos regulamentos e nas demais disposições aplicáveis.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689008": {
+   "fragment_id": "169885992",
+   "type": 11,
+   "heading": "Artigo 7.º — Contraordenações",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 7.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de (euro) 750 a (euro) 7500 a prática de atos próprios de PQ e TIM por profissionais sem o respetivo título profissional ou sem que exerçam a respetiva atividade nos termos do n.º 7 do artigo 4.º\n\n2 - Sem prejuízo do disposto no número seguinte, constitui contraordenação punível com coima de (euro) 250 a (euro) 3500 o incumprimento pelos PQ e TIM dos deveres profissionais referidos no artigo anterior.\n\n3 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 7000 a aplicação incorreta das metodologias técnicas e regulamentares previstas no REH e no RECS, quando determine o registo das seguintes situações de irregularidade técnica:\n\na) Alteração de classe energética que resulte de um desvio superior a 5 % face ao valor apurado para o rácio que conduz à determinação da classe energética obtido no decorrer do procedimento de verificação da qualidade, nos termos constantes do Decreto-Lei n.º 118/2013, de 20 de agosto;\n\nb) Incumprimento dos requisitos previstos nos artigos 26.º a 30.º e nos artigos 38.º a 49.º do Decreto-Lei n.º 118/2013, de 20 de agosto.\n\n4 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos a metade.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.\n\n6 - Em caso da prática de contraordenação com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres profissionais, e tendo em conta a culpa do infrator, pode a Direção-Geral de Energia e Geologia (DGEG) determinar a aplicação cumulativa da coima com a sanção acessória da interdição do exercício das atividades previstas no artigo 5.º, com a duração máxima de dois anos contados a partir da decisão condenatória definitiva, com cassação do respetivo título profissional.\n\n7 - A sanção de suspensão é inscrita no registo do técnico do SCE e implica a retirada do profissional em causa da lista referida no n.º 9 do artigo 4.º, durante o período da suspensão.\n\n8 - A sanção acessória aplicada aos técnicos do SCE é comunicada à respetiva associação pública profissional, nos casos aplicáveis.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689009": {
+   "fragment_id": "169885993",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução do processo e distribuição do produto das coimas",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 8.º — Instrução do processo e distribuição do produto das coimas\n\n1 - Os processos de contraordenação são instruídos pela DGEG, cabendo ao diretor-geral de Energia e Geologia a aplicação das coimas e respetiva sanção acessória.\n\n2 - O produto das coimas é distribuído da seguinte forma:\n\na) 60 % para os cofres do Estado;\n\nb) 40 % para o Fundo de Eficiência Energética.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689010": {
+   "fragment_id": "169885994",
+   "type": 11,
+   "heading": "Artigo 9.º — Legislação subsidiária",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 9.º — Legislação subsidiária\n\nÀs contraordenações previstas na presente lei aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689011": {
+   "fragment_id": "169885995",
+   "type": 11,
+   "heading": "Artigo 10.º — Balcão único",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 10.º — Balcão único\n\n1 - Com exceção dos procedimentos contraordenacionais, todos os pedidos, comunicações e notificações previstos na presente lei, entre os profissionais e as autoridades competentes, são realizados preferencialmente por meios eletrónicos, através do balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do sítio da DGEG na Internet.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689012": {
+   "fragment_id": "169885996",
+   "type": 11,
+   "heading": "Artigo 11.º — Cooperação administrativa",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 11.º — Cooperação administrativa\n\nAs autoridades administrativas competentes nos termos da presente lei prestam e solicitam às autoridades competentes dos outros Estados membros da União Europeia ou do Espaço Económico Europeu e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente, nomeadamente através do sistema de informação do mercado interno, no âmbito dos procedimentos relativos a profissionais provenientes de outro Estado membro, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689013": {
+   "fragment_id": "169885997",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões autónomas",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 12.º — Regiões autónomas\n\n1 - Os atos e os procedimentos necessários à execução da presente lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades e órgãos das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - Nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 92/2010, de 26 de julho, os controlos exercidos, quer pelos organismos da administração central quer pelas entidades e órgãos competentes das administrações das regiões autónomas no âmbito da presente lei, são válidos para todo o território nacional.\n\n3 - O produto das coimas é distribuído da seguinte forma:\n\na) 60 % para os cofres do Governo Regional;\n\nb) 40 % para o Fundo de Eficiência Energética.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689014": {
+   "fragment_id": "169885998",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\n1 - Mantêm-se válidos os reconhecimentos dos PQ e TIM concedidos ao abrigo do Decreto-Lei n.º 78/2006, de 4 de abril, e do Decreto-Lei n.º 79/2006, de 4 de abril, considerando-se os profissionais em causa como detentores do respetivo título profissional nos termos da presente lei para todos os efeitos legais, devendo a entidade gestora do SCE proceder oficiosamente ao seu registo no prazo máximo de dois meses após a entrada em vigor da mesma.\n\n2 - Durante o período de cinco anos contados da data da entrada em vigor da presente lei, o acesso ao título profissional de TIM pode ainda ser atribuído a quem possuir as seguintes qualificações, de acordo com o âmbito de atuação:\n\na) TIM-II:\n\ni) Experiência profissional mínima de dois anos na área da eletromecânica de refrigeração e climatização;\n\nii) Escolaridade obrigatória em função da idade;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia;\n\nb) TIM-III:\n\ni) Experiência profissional mínima de três anos na área da refrigeração e climatização;\n\nii) Escolaridade obrigatória em função da idade;\n\niii) Aprovação em exame realizado pela entidade gestora do SCE, cujo conteúdo consta de portaria a aprovar pelo membro do Governo responsável pela área da energia.\n\n3 - Os técnicos responsáveis pelo funcionamento dos edifícios (TRF), a que se refere o Decreto-Lei n.º 78/2006, de 4 de abril, e o artigo 21.º do Decreto-Lei n.º 79/2006, de 4 de abril, são equiparados a TIM-III para os efeitos previstos na presente lei, sem prejuízo do dever de inscrição no registo junto da entidade gestora do SCE por mera declaração em como pretendem exercer as funções em causa, sendo automaticamente emitidos os respetivos títulos profissionais.\n\n4 - Os técnicos com a qualificação de técnico de qualidade do ar interior (TQAI) a que se refere o artigo 22.º do Decreto-Lei n.º 79/2006, de 4 de abril, são, à data de entrada em vigor da presente lei, equiparados a TIM-II, para os efeitos previstos na presente lei, sem prejuízo do dever de atualização do registo junto da entidade gestora do SCE por mera declaração em como pretendem exercer as funções em causa, sendo automaticamente emitidos os respetivos títulos profissionais.\n\n5 - Os peritos qualificados com qualificações específicas RSECE-QAI definidas pelo protocolo a que se refere o n.º 2 do artigo 7.º do Decreto-Lei n.º 78/2006, de 4 de abril, podem, durante o prazo de dois anos após a entrada em vigor da portaria referida na subalínea iii) da alínea b) do artigo 2.º, ser equiparados a PQ-II, para os efeitos previstos na presente lei, na sequência de aprovação no exame referido naquela mesma subalínea, realizado de forma gratuita pela entidade gestora do SCE, a qual deve, após a aprovação do profissional no exame, proceder à sua inscrição no registo de técnicos do SCE e emissão do respetivo título profissional, igualmente de forma gratuita.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689015": {
+   "fragment_id": "169885999",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de dezembro de 2013.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  },
+  "174689016": {
+   "fragment_id": "169886000",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "Aprovada em 11 de julho de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 19 de agosto de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), em vigor a partir de 2021-11-20"
+  }
+ }
+}

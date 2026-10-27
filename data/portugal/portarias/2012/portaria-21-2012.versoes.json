@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544436:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-907629968",
+ "dre_path": "/dr/detalhe/portaria/21-2012-544436",
+ "source_lastmod": "2025-02-17",
+ "versions": [
+  {
+   "date": "2012-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907632071"
+   ]
+  }
+ ],
+ "fragments": {
+  "907632071": {
+   "fragment_id": "907629969",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 21/2012\n\nde 24 de janeiro\n\nConsiderando que, para efeitos de fixação das bases do «Projeto de Emparcelamento Rural Integrado dos Coutos de Moura», se esgotou o período de reclamação tendo-se procedido às correções necessárias resultantes das mesmas, importa proceder à declaração de fixação das bases do referido projeto de emparcelamento.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 11.º do Decreto-Lei n.º 103/90, de 22 de março:\n\nManda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rural, no uso das suas competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, através do despacho ministerial n.º 12412/2011, de 20 de setembro, o seguinte:"
+  }
+ }
+}

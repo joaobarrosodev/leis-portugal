@@ -1,0 +1,282 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:273420:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2002-140790678",
+ "dre_path": "/dr/detalhe/lei/9-2002-273420",
+ "source_lastmod": "2026-08-19",
+ "versions": [
+  {
+   "date": "2002-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "140790776",
+    "140790777",
+    "140790778",
+    "140790779",
+    "140790780",
+    "140790781",
+    "140790782",
+    "140790783",
+    "140790784",
+    "140790785",
+    "140790786",
+    "140790787",
+    "140790788",
+    "140790790"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140631237:por",
+     "title": "Lei n.º 46/2020",
+     "published": "2020-08-20",
+     "dre_path": "/dr/detalhe/lei/46-2020-140631237"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "140790776",
+    "140790777",
+    "140790778",
+    "140790779",
+    "140790780",
+    "140790781",
+    "140790791",
+    "140790783",
+    "140790784",
+    "140790785",
+    "140790786",
+    "140790787",
+    "140790788",
+    "140790789",
+    "140790790"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993270096:por",
+     "title": "Lei n.º 73-A/2025",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/lei/73-a-2025-993270096"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "140790776",
+    "140790777",
+    "140790778",
+    "140790779",
+    "140790780",
+    "140790781",
+    "1004362899",
+    "140790783",
+    "140790784",
+    "140790785",
+    "140790786",
+    "140790787",
+    "140790788",
+    "140790789",
+    "140790790"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1156670556:por",
+     "title": "Decreto-Lei n.º 166/2026",
+     "published": "2026-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2026-1156670556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "140790776",
+    "140790777",
+    "140790778",
+    "140790779",
+    "140790780",
+    "140790781",
+    "1157973475",
+    "140790783",
+    "140790784",
+    "140790785",
+    "140790786",
+    "140790787",
+    "140790788",
+    "140790789",
+    "140790790"
+   ]
+  }
+ ],
+ "fragments": {
+  "140790776": {
+   "fragment_id": "140790679",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 9/2002\n\nde 11 de Fevereiro\n\nRegime jurídico dos períodos de prestação de serviço militar de ex-combatentes, para efeitos de aposentação e reforma\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "140790777": {
+   "fragment_id": "140790680",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei regula o regime jurídico dos períodos de prestação de serviço militar de ex-combatentes, para efeitos de aposentação ou reforma.\n\n2 - São considerados como ex-combatentes, para efeitos da presente lei:\n\na) Os ex-militares mobilizados, entre 1961 e 1975, para os territórios de Angola, Guiné e Moçambique;\n\nb) Os ex-militares aprisionados ou capturados em combate durante as operações militares que ocorreram no Estado da Índia aquando da invasão deste território por forças da União Indiana ou que se encontrassem nesse território por ocasião desse evento;\n\nc) Os ex-militares que se encontrassem no território de Timor Leste entre o dia 25 de Abril de 1974 e a saída das Forças Armadas Portuguesas desse território;\n\nd) Os ex-militares oriundos do recrutamento local que se encontrem abrangidos pelo disposto nas alíneas anteriores;\n\ne) Os militares dos quadros permanentes abrangidos por qualquer das situações previstas nas alíneas anteriores."
+  },
+  "140790778": {
+   "fragment_id": "140790681",
+   "type": 11,
+   "heading": "Artigo 2.º — Tempo relevante de serviço militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tempo relevante de serviço militar\n\nPara efeitos da presente lei, o serviço militar prestado nos termos do artigo anterior abrange o período de tempo decorrido entre o mês de incorporação e o mês de passagem à situação de disponibilidade."
+  },
+  "140790779": {
+   "fragment_id": "140790682",
+   "type": 11,
+   "heading": "Artigo 3.º — Cálculo das quotizações para a Caixa Geral de Aposentações e das contribuições para a segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cálculo das quotizações para a Caixa Geral de Aposentações e das contribuições para a segurança social\n\n1 - Os ex-combatentes subscritores da Caixa Geral de Aposentações (CGA) podem gozar dos benefícios da contagem de tempo de serviço efectivo, bem como da bonificação da contagem de tempo de serviço militar prestado em condições especiais de dificuldade ou perigo, para efeitos de pensão de aposentação.\n\n2 - Os ex-combatentes beneficiários do sistema de solidariedade e segurança social que tenham prestado serviço em condições especiais de dificuldade ou perigo podem beneficiar da bonificação da contagem de tempo acrescido, nos termos da presente lei.\n\n3 - O valor das quotizações ou contribuições a pagar é apurado com base na remuneração auferida e na taxa em vigor à data:\n\na) Da prestação do serviço, se o ex-combatente já era subscritor ou beneficiário no momento da incorporação; ou\n\nb) Da inscrição em qualquer dos regimes do sistema de protecção social, no caso contrário.\n\n4 - Nos casos em que a natureza e a antiguidade dos registos de remunerações existentes nas instituições de segurança social dificultam o conhecimento dos mesmos, há lugar à aplicação da tabela de remunerações convencionais constantes da Portaria n.º 56/94, de 21 de Janeiro, para os efeitos previstos no número anterior.\n\n5 - O disposto nos n.os 2 e 3 não prejudica a opção pelo regime previsto no Decreto-Lei n.º 311/97, de 13 de Novembro, na redacção dada pelo Decreto-Lei n.º 438/99, de 20 de Outubro, sendo a participação do Estado calculada nos termos do artigo seguinte."
+  },
+  "140790780": {
+   "fragment_id": "140790683",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade pelo pagamento das quotizações ou contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade pelo pagamento das quotizações ou contribuições\n\n1 - O financiamento de uma percentagem do custo total das quotizações ou contribuições é assegurado pelo Estado, cabendo aos beneficiários ou subscritores a responsabilidade do remanescente.\n\n2 - A percentagem referida no número anterior é determinada com base nos escalões constantes do mapa anexo à presente lei, os quais reflectem os escalões previstos no artigo 68.º do Código do Imposto sobre o Rendimento das Pessoas Singulares."
+  },
+  "140790781": {
+   "fragment_id": "140790684",
+   "type": 11,
+   "heading": "Artigo 5.º — Prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prestações\n\nO pagamento das quotizações e contribuições pode ser feito de uma só vez ou em prestações, nos termos previstos no Decreto-Lei n.º 498/72, de 9 de Dezembro, ou no Decreto-Lei n.º 311/97, de 13 de Novembro, conforme os casos."
+  },
+  "140790782": {
+   "fragment_id": "140790685",
+   "type": 11,
+   "heading": "Artigo 6.º — Complemento especial de pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Complemento especial de pensão\n\nAos beneficiários do regime de solidariedade do sistema de segurança social é atribuído um complemento especial de 3,5% ao valor da respectiva pensão por cada ano de prestação de serviço militar ou duodécimo daquele complemento por cada mês de serviço, nos termos do artigo 2.º"
+  },
+  "140790783": {
+   "fragment_id": "140790686",
+   "type": 11,
+   "heading": "Artigo 7.º — Acréscimo vitalício de pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acréscimo vitalício de pensão\n\n1 - Os ex-combatentes subscritores da CGA, bem como os beneficiários do regime de segurança social que tenham prestado serviço em condições especiais de dificuldade ou perigo e que, ao abrigo da legislação em vigor, tiverem já pago quotizações ou contribuições referentes ao período de tempo acrescido de bonificação têm direito a um acréscimo à sua pensão.\n\n2 - O acréscimo vitalício de pensão referido no número anterior resulta da conversão da percentagem do custo das quotizações ou contribuições pagas, devidamente actualizadas nos termos do Decreto-Lei n.º 329/93, de 25 de Setembro, que, nos termos da presente lei, é financiado pelo Orçamento do Estado.\n\n3 - O disposto nos números anteriores não prejudica a aplicação do artigo 13.º-A do Decreto-Lei n.º 311/97, de 13 de Novembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 438/99, de 20 de Outubro."
+  },
+  "140790784": {
+   "fragment_id": "140790687",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação a situações consolidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação a situações consolidadas\n\nO regime previsto na presente lei é aplicável a situações consolidadas no âmbito de cada um dos sistemas de protecção social, bem como aos cidadãos deficientes militares, desde que os interessados o requeiram, nos termos do artigo seguinte."
+  },
+  "140790785": {
+   "fragment_id": "140790688",
+   "type": 11,
+   "heading": "Artigo 9.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requerimento\n\n1 - Os ex-combatentes referidos no artigo 1.º devem requerer à CGA, aos centros distritais de solidariedade e segurança social ou nos postos consulares, até 31 de Outubro de 2002, a contagem do tempo de serviço militar para efeitos de aposentação ou reforma.\n\n2 - O requerimento é entregue na Direcção-Geral de Pessoal e Recrutamento Militar do Ministério da Defesa Nacional, sendo posteriormente remetido ao ramo das Forças Armadas onde o requerente prestou serviço, para ser instruído com certidão do tempo de cumprimento do serviço militar, com indicação expressa do tempo de serviço prestado em condições especiais de dificuldade ou perigo.\n\n3 - Os formulários dos requerimentos de certidão a que se refere o número anterior são aprovados por portaria do Ministro da Defesa Nacional.\n\n4 - Cabe ao Governo publicitar o conteúdo da presente lei, com especial incidência nos aspectos procedimentais, através dos meios institucionais e de comunicação social adequados."
+  },
+  "140790786": {
+   "fragment_id": "140790689",
+   "type": 11,
+   "heading": "Artigo 10.º — Informatização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informatização\n\n1 - Os ramos das Forças Armadas devem informatizar os dados dos ex-combatentes referidos no artigo 1.º, a fim de tornar mais expedita a certificação do tempo de serviço para efeitos do n.º 2 do artigo anterior.\n\n2 - A informatização a que se refere o número anterior deve ser compatibilizada com as já existentes ou em implantação na CGA ou no sistema de informação da segurança social."
+  },
+  "140790787": {
+   "fragment_id": "140790690",
+   "type": 11,
+   "heading": "Artigo 11.º — Satisfação de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Satisfação de encargos\n\n1 - Os encargos decorrentes da aprovação da presente lei são suportados pelo Orçamento do Estado, sem prejuízo do pagamento da percentagem das quotizações ou contribuições que couber a cada subscritor ou beneficiário.\n\n2 - Cumpre ao Estado garantir à CGA e, bem assim, ao orçamento da segurança social:\n\na) A diferença de realização de valores contributivos por parte dos subscritores e beneficiários, para efeitos de fixação da pensão de aposentação ou reforma;\n\nb) A diferença entre os valores das contribuições pagas ao abrigo do disposto no n.º 2 do artigo 4.º da presente lei e as que seriam pagas:\n\ni) Em caso de opção pelo regime constante do Decreto-Lei n.º 311/97, de 13 de Novembro;\n\nii) Ao abrigo do n.º 3 do artigo 13.º do Decreto-Lei n.º 498/72, de 9 de Dezembro;\n\nc) Os montantes do complemento especial de pensão a que se refere o artigo 6.º"
+  },
+  "140790788": {
+   "fragment_id": "140790691",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentação\n\n1 - A presente lei é, se necessário e outra forma não seja exigível, regulamentada por portaria conjunta dos Ministros da Defesa Nacional, das Finanças e do Trabalho e da Solidariedade.\n\n2 - A regulamentação a que se refere o número anterior pode, se necessário, caso a natureza e a antiguidade dos registos de remunerações existentes nas instituições de segurança social dificultem o conhecimento dos mesmos, prever critérios supletivos para a determinação da remuneração e taxa aplicáveis, sem prejuízo do disposto no n.º 3 do artigo 3.º da presente lei."
+  },
+  "140790790": {
+   "fragment_id": "140790693",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 4.º do presente diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 4.º do presente diploma)\n\n(ver mapa no documento original)"
+  },
+  "140790791": {
+   "fragment_id": "140790685",
+   "type": 11,
+   "heading": "Artigo 6.º — Complemento especial de pensão",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 46/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Complemento especial de pensão\n\nAos beneficiários do regime de solidariedade do sistema de segurança social é atribuído um complemento especial de pensão de 7 % ao valor da respetiva pensão por cada ano de prestação de serviço militar ou duodécimo daquele complemento por cada mês de serviço, nos termos do artigo 2.º\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 46/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), em vigor a partir de 2021-01-01"
+  },
+  "140790789": {
+   "fragment_id": "140790692",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Dezembro de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 25 de Janeiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 31 de Janeiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1004362899": {
+   "fragment_id": "140790685",
+   "type": 11,
+   "heading": "Artigo 6.º — Complemento especial de pensão",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 248.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 46/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Complemento especial de pensão\n\nAos beneficiários do regime de solidariedade do sistema de segurança social é atribuído um complemento especial de pensão de 10,5 % ao valor da respetiva pensão por cada ano de prestação de serviço militar ou duodécimo daquele complemento por cada mês de serviço, nos termos do artigo 2.º\n\n> Alterado pelo/a Artigo 248.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 46/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), em vigor a partir de 2021-01-01"
+  },
+  "1157973475": {
+   "fragment_id": "140790685",
+   "type": 11,
+   "heading": "Artigo 6.º — Complemento especial de pensão",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 248.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 46/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Complemento especial de pensão\n\n1 - Aos beneficiários do regime de solidariedade do sistema de segurança social é atribuído um complemento especial de pensão de 10,5 % ao valor da respetiva pensão por cada ano de prestação de serviço militar ou duodécimo daquele complemento por cada mês de serviço, nos termos do artigo 2.º\n\n2 - O complemento especial de pensão previsto no número anterior é ainda atribuído, nos mesmos termos, aos titulares da prestação social única com idade igual ou superior à idade normal de pensão de velhice do regime geral de segurança social.\n\n> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 248.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 46/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), em vigor a partir de 2021-01-01"
+  }
+ }
+}

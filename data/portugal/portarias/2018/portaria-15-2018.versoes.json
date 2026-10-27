@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114509691:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114509721",
+ "dre_path": "/dr/detalhe/portaria/15-2018-114509691",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114510175",
+    "114510176",
+    "114510177",
+    "114510178"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114545476:por",
+     "title": "Declaração de Retificação n.º 2/2018",
+     "published": "2018-01-18",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/2-2018-114545476",
+     "date": "2018-01-12"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "114510175": {
+   "fragment_id": "114509722",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 15/2018\n\nde 11 de janeiro\n\nO Decreto-Lei n.º 97/2015, de 1 de junho, alterado pelo Decreto-Lei n.º 115/2017, de 7 de setembro criou o Sistema Nacional de Avaliação de Tecnologias de Saúde (SiNATS), estabelece um regime específico de comparticipação dos dispositivos médicos, introduzindo uma mudança do paradigma no modo de utilização e aquisição das tecnologias de saúde.\n\nO regime de preços máximos e comparticipação aplicável aos reagentes (tiras-teste) para determinação de glicemia, cetonemia e cetonúria e às agulhas, seringas e lancetas destinadas a pessoas com diabetes beneficiárias do Serviço Nacional de Saúde (SNS) encontra-se previsto na Portaria n.º 35/2016, de 1 de março.\n\nDeste modo, é necessário proceder à atualização do regime de comparticipação do Estado no preço dos reagentes (tiras-teste) para determinação de glicemia, cetonemia e cetonúria, e das agulhas, seringas, lancetas e outros dispositivos médicos para a mesma finalidade previsto na referida portaria, atendendo à entrada no mercado de outros dispositivos médicos, nomeadamente no que se refere à fixação de preços.\n\nNesta conformidade, a presente portaria inclui no regime de comparticipação do Estado no preço de outros dispositivos médicos utilizados na vigilância da diabetes, com vista à manutenção da eficiência no funcionamento do sistema de comparticipações, e dos objetivos da política de prevenção e autocontrolo daquela doença.\n\nAssim:\n\nAo abrigo do disposto na alínea b) do n.º 7 do artigo 5.º e nos n.os 2, 3 e 7 do artigo 23.º do Decreto-Lei n.º 97/2015, de 1 de junho, alterado pelo Decreto-Lei n.º 115/2017, de 7 de setembro, manda o Governo, pela Secretária de Estado da Saúde, o seguinte:"
+  },
+  "114510176": {
+   "fragment_id": "114509723",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração da Portaria n.º 35/2016, de 1 de março."
+  },
+  "114510177": {
+   "fragment_id": "114509724",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 35/2016, de 1 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 35/2016, de 1 de março\n\nOs artigos 5.º e 6.º passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - Os PVP máximos dos dispositivos médicos, quando destinados aos utentes do SNS, como tal devidamente identificados e que apresentem prescrição médica, são os seguintes:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) Sensor para determinação de glicose intersticial - 53,00 EUR.\n\n3 - [...].\n\n4 - [...].\n\nArtigo 6.º\n\n[...]\n\n1 - O Estado comparticipa o preço dos dispositivos médicos quando destinados a beneficiários do SNS que apresentem prescrição médica, nos termos seguintes:\n\na) O valor máximo da comparticipação do Estado no custo de aquisição das tiras-teste para determinação de glicose intersticial para pessoas com diabetes corresponde a 85 % do PVP máximo referido no n.º 2 do artigo 5.º;\n\nb) [...].\n\n2 - [...].\n\n3 - [...].»"
+  },
+  "114510178": {
+   "fragment_id": "114509725",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação, produzindo efeitos a 08 de janeiro de 2018."
+  }
+ }
+}

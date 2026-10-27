@@ -1,0 +1,565 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:601741:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-34546175",
+ "dre_path": "/dr/detalhe/portaria/127-2009-601741",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108311268",
+    "50995675",
+    "50995775",
+    "50995875",
+    "50995975",
+    "50996075",
+    "50996175",
+    "50996275",
+    "50996375",
+    "50996475",
+    "50996575",
+    "50996675",
+    "50996775",
+    "50996875",
+    "50996975",
+    "50997075",
+    "50997175",
+    "50997275",
+    "50997375",
+    "50997475"
+   ]
+  },
+  {
+   "date": "2010-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:332681:por",
+     "title": "Portaria n.º 298/2010",
+     "published": "2010-06-01",
+     "dre_path": "/dr/detalhe/portaria/298-2010-332681"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51941375",
+    "50995675",
+    "50995775",
+    "50995875",
+    "50995975",
+    "51941575",
+    "51941675",
+    "50996275",
+    "51941775",
+    "50996475",
+    "50996575",
+    "50996675",
+    "50996775",
+    "51941875",
+    "51941975",
+    "51942075",
+    "50997175",
+    "50997275",
+    "50997375",
+    "50997475",
+    "50997575"
+   ]
+  },
+  {
+   "date": "2015-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67250220:por",
+     "title": "Portaria n.º 140/2015",
+     "published": "2015-05-20",
+     "dre_path": "/dr/detalhe/portaria/140-2015-67250220"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "108311268",
+    "108311269",
+    "108311270",
+    "108311271",
+    "108311272",
+    "108311273",
+    "108311274",
+    "108315075",
+    "108315076",
+    "108315077",
+    "108315078",
+    "108315079",
+    "108315080",
+    "108315081",
+    "108315082",
+    "108315083",
+    "108315084",
+    "108315085",
+    "108315086",
+    "108315087",
+    "108315088"
+   ]
+  }
+ ],
+ "fragments": {
+  "108311268": {
+   "fragment_id": "35165975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-05-21",
+   "changed_by": [],
+   "markdown": "O Governo tem vindo a proceder à racionalização e sistematização do edifício legislativo que enquadra e regula as medidas de política que visam promover a coesão social através do emprego e da qualificação profissional. No âmbito deste processo, reveste-se de particular valor estratégico a revisão da regulamentação das medidas activas de emprego que, em complementaridade aos instrumentos de protecção social, procuram melhorar os níveis de empregabilidade e estimular a reinserção no mercado de trabalho dos trabalhadores que se encontram em situação de desemprego.\n\nA criação dos gabinetes de inserção profissional (GIP) integra-se no conjunto destas medidas, pois a existência de estruturas de apoio ao emprego - com elevada flexibilidade, capacidade de actuação em proximidade aos territórios e às populações e em estreita articulação com a rede de centros de emprego e formação do IEFP - são um elemento central para uma inserção mais rápida e mais sustentada no mercado de emprego.\n\nRelativamente ao modelo de funcionamento das actuais estruturas de apoio foram significativamente alargadas as áreas de intervenção, que abrangem agora, nomeadamente: i) o apoio à procura activa de emprego, ii) o acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional; iii) a captação de ofertas junto de entidades empregadoras; iv) a divulgação de ofertas de emprego e actividades de colocação; v) o encaminhamento para ofertas de qualificação, e a vi) divulgação e encaminhamento para medidas de apoio ao emprego, qualificação e empreendedorismo. Altera-se ainda, de forma profunda, o modelo de funcionamento, através da contratualização de objectivos quantitativos e qualitativos, bem como o princípio da avaliação regular da sua actividade, tendo em vista uma significativa melhoria da capacidade de apoio aos desempregados.\n\nPor fim, com este novo modelo, dá-se uma aproximação da oferta geográfica do Instituto do Emprego e Formação Profissional, I. P., já de si muito disseminada pelo território nacional, às necessidades locais, como forma de assegurar uma acção mais incisiva, localizada e personalizada em prol do emprego.\n\nCom a criação dos GIP, o Governo cumpre, igualmente, um compromisso que assumiu com os parceiros sociais no Acordo Tripartido para Um Novo Sistema de Regulação das Relações Laborais, das Políticas de Emprego e da Protecção Social em Portugal, no sentido de melhorar a eficácia dos serviços de apoio ao emprego, bem como cria as condições legais necessárias para executar uma das medidas específicas de apoio ao emprego da Iniciativa para o Investimento e o Emprego.\n\nAssim:\n\nAo abrigo do disposto no Decreto-Lei n.º 132/99, de 21 de Abril, manda o Governo, pelo Secretário de Estado do Emprego e da Formação Profissional, o seguinte:"
+  },
+  "50995675": {
+   "fragment_id": "36103575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma cria e regula o funcionamento dos gabinetes de inserção profissional, adiante designadas por GIP."
+  },
+  "50995775": {
+   "fragment_id": "36103675",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nEntende-se por GIP a organização ou serviço que preste apoio a jovens e adultos desempregados para a definição ou desenvolvimento do seu percurso de inserção ou reinserção no mercado de trabalho, em estreita cooperação com os centros de emprego."
+  },
+  "50995875": {
+   "fragment_id": "36103775",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades promotoras\n\nPodem promover a criação de GIP as entidades públicas ou privadas sem fins lucrativo, nomeadamente:\n\na) Autarquias locais;\n\nb) Instituições particulares de solidariedade social;\n\nc) Outras associações relevantes na dinamização e desenvolvimento local;\n\nd) Associações de imigrantes e para imigrantes;\n\ne) Associações sindicais e de empregadores;\n\nf) Escolas com oferta de vias profissionalizantes de nível secundário."
+  },
+  "50995975": {
+   "fragment_id": "36103875",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos gerais da entidade promotora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos gerais da entidade promotora\n\nA entidade promotora deve reunir cumulativamente os seguintes requisitos:\n\na) Encontrar-se regularmente constituída e devidamente registada;\n\nb) Dispor de contabilidade organizada, desde que legalmente exigido, de acordo com as normas do Plano Oficial de Contabilidade aplicável;\n\nc) Ter a situação contributiva regularizada perante a administração tributária e a segurança social;\n\nd) Ter a sua situação regularizada no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objectivos, designadamente os concedidos pelo Instituto do Emprego e Formação Profissional, I. P.;\n\ne) Cumprir com os demais requisitos e obrigações inerentes aos apoios comunitários;\n\nf) Cumprir os demais requisitos previstos em regulamentação específica elaborada pelo Instituto do Emprego e Formação Profissional, I. P., e no respectivo contrato;\n\ng) Não pode ter sido condenada, com decisão transitada em julgado, por crime de fraude na obtenção de subsídio de natureza pública."
+  },
+  "50996075": {
+   "fragment_id": "36103975",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividades dos GIP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actividades dos GIP\n\n1 - O GIP pode desenvolver as seguintes actividades:\n\na) Informação profissional para jovens e adultos desempregados;\n\nb) Apoio à procura activa de emprego;\n\nc) Acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional;\n\nd) Captação de ofertas junto de entidades empregadoras;\n\ne) Divulgação de ofertas de emprego e actividades de colocação;\n\nf) Encaminhamento para ofertas de qualificação;\n\ng) Divulgação e encaminhamento para medidas de apoio ao emprego, qualificação e empreendedorismo;\n\nh) Divulgação de programas comunitários que promovam a mobilidade no emprego e na formação profissional no espaço europeu;\n\ni) Motivação e apoio à participação em ocupações temporárias ou actividades em regime de voluntariado, que facilitem a inserção no mercado de trabalho;\n\nj) Controlo de apresentação periódica dos beneficiários das prestações de desemprego;\n\nk) Outras actividades consideradas necessárias aos desempregados inscritos nos centros de emprego.\n\n2 - O Instituto do Emprego e Formação Profissional, I. P., é responsável por desenvolver sistemas de informação adequados ao eficaz desenvolvimento das actividades contratadas com o GIP."
+  },
+  "50996175": {
+   "fragment_id": "36104075",
+   "type": 11,
+   "heading": "Artigo 6.º — Autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autorização de funcionamento\n\n1 - O GIP está sujeito a concessão de autorização de funcionamento pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - A autorização de funcionamento resulta de aprovação em processo de candidatura e da contratualização dos objectivos para o GIP, de acordo com as actividades previstas no artigo anterior.\n\n3 - A autorização referida no n.º 1 tem a validade de dois anos, podendo a entidade promotora candidatar-se a novo processo de autorização.\n\n4 - A autorização de funcionamento pode ser prolongada até ao encerramento dp período de candidatura imediatamente subsequente, caso caduque fora dos períodos de candidatura."
+  },
+  "50996275": {
+   "fragment_id": "36104175",
+   "type": 11,
+   "heading": "Artigo 7.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Candidatura\n\n1 - O Instituto do Emprego e Formação Profissional, I. P., estabelece um ou mais períodos anuais de candidatura para autorização de funcionamento de GIP.\n\n2 - A análise e hierarquização das candidaturas têm em consideração, entre outros, os seguintes critérios:\n\na) O contexto sócio-económico das regiões em que se localizem, nomeadamente a menor acessibilidade aos centros de emprego, o nível e a evolução previsível do desemprego e o risco de exclusão social;\n\nb) As actividades que se propõem desenvolver, de acordo com o artigo 5.º;\n\nc) A experiência das entidades promotoras em actividades nos domínios do emprego, formação, acção social e empreendedorismo;\n\nd) A adequação das instalações, em particular os espaços de acolhimento e atendimento;\n\ne) A habilitação e a experiência profissional dos animadores;\n\nf) A progressiva integração do GIP na entidade promotora e a potencial autonomia técnica e financeira;\n\ng) A avaliação do cumprimento dos objectivos contratualmente definidos, no caso de candidatura a nova autorização de funcionamento por parte de entidade promotora a quem tenha sido autorizada um GIP."
+  },
+  "50996375": {
+   "fragment_id": "36104275",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato de objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contrato de objectivos\n\nApós aprovação da candidatura, o Instituto do Emprego e Formação Profissional, I. P., celebra com a entidade promotora um contrato de objectivos onde constam:\n\na) As actividades previstas no artigo 5.º que assegurem a coerência e complementaridade da acção do GIP, com as actividades desenvolvidas pelo centro de emprego associado, bem como com a acção de outras entidades que promovam actividades conexas;\n\nb) Os objectivos quantitativos para cada área;\n\nc) Os níveis qualitativos de desempenho a atingir."
+  },
+  "50996475": {
+   "fragment_id": "36104375",
+   "type": 11,
+   "heading": "Artigo 9.º — Animador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Animador\n\n1 - A actividade do GIP é assegurada por um animador, titular de licenciatura e com formação específica adequada, definida no regulamento específico.\n\n2 - O animador é designado pela entidade promotora do GIP e pode exercer a actividade a tempo completo ou tempo parcial.\n\n3 - O animador pode ser coadjuvado por outros colaboradores designados pela entidade promotora."
+  },
+  "50996575": {
+   "fragment_id": "36104475",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoios técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoios técnicos\n\n1 - No âmbito da presente portaria, o Instituto do Emprego e Formação Profissional, I. P., concede apoios técnicos ao GIP, compreendendo nomeadamente:\n\na) Formação específica adequada, inicial e contínua, do animador;\n\nb) Material de informação e instrumentos técnico-pedagógicos, para distribuição ou consulta dos utentes;\n\nc) Suportes informativos, nomeadamente informáticos, para apoio das funções do animador e acompanhamento da actividade do GIP;\n\nd) Divulgação de ofertas de emprego e formação profissional;\n\ne) Promoção de informações e contactos entre os animadores, aos níveis adequados, para aperfeiçoamento da respectiva actividade.\n\n2 - A Agência Nacional para a Qualificação, I. P., concede apoios técnicos ao GIP, compreendendo, nomeadamente, a divulgação de ofertas de qualificação para jovens e adultos e dos perfis profissionais constantes do Catálogo Nacional de Qualificações."
+  },
+  "50996675": {
+   "fragment_id": "36104575",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoios financeiros\n\n1 - Para a prossecução dos objectivos contratualmente definidos, e em função dos mesmos, o GIP pode beneficiar dos apoios definidos nos números seguintes.\n\n2 - Para adaptação de instalações e aquisição de equipamento é concedido um subsídio não reembolsável até ao montante de (euro) 5000.\n\n3 - Para despesas de funcionamento é concedido um subsídio não reembolsável anual no valor de três vezes o indexante dos apoios sociais (IAS).\n\n4 - Para comparticipação nas retribuições do animador e outros colaboradores, quando o GIP funcione a tempo completo, é concedido um subsídio não reembolsável, em montantes decrescentes tendo em vista a sua progressiva autonomia, com os seguintes limites:\n\na) 24 vezes o IAS, no primeiro ano de funcionamento;\n\nb) 20 vezes o IAS, no segundo ano de funcionamento.\n\n5 - Se o GIP funcionar a tempo parcial, os limites do subsídio não reembolsável referidos no número anterior são reduzidos para metade."
+  },
+  "50996775": {
+   "fragment_id": "36104675",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoios complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apoios complementares\n\n1 - Durante a execução do contrato, pode ser alargado o âmbito da contratualização a actividades previstas no artigo 5.º e ainda não contratualizadas, ou níveis adicionais de actividade para as já contratadas, tendo em conta as necessidades detectadas ao nível do desemprego e da exclusão social na região, podendo para estes fins ser atribuído apoios técnicos e financeiros complementares com o limite máximo equivalente a três vezes o valor definido na alínea a) do n.º 4 do artigo anterior.\n\n2 - Os apoios a conceder, assim como a sua formalização, são objecto de regulamentação específica do Instituto do Emprego e Formação Profissional, I. P."
+  },
+  "50996875": {
+   "fragment_id": "36104775",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e avaliação das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento e avaliação das actividades\n\n1 - O nível de execução contratual é avaliado regularmente pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - Os apoios contratualizados podem ser reduzidos no final do primeiro ano se, após avaliação, a execução das actividades for inferior à contratualizada.\n\n3 - Nas avaliações dos níveis qualitativos de desempenho, o Instituto do Emprego e Formação Profissional, I. P., tem em conta o grau de satisfação dos utentes."
+  },
+  "50996975": {
+   "fragment_id": "36104875",
+   "type": 11,
+   "heading": "Artigo 14.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Impedimentos\n\nFicam impedidas de se candidatar ao presente programa, durante um período de dois anos, as entidades promotoras de GIP cuja autorização de funcionamento tenha sido retirada por incumprimento imputável à entidade."
+  },
+  "50997075": {
+   "fragment_id": "36104975",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Incumprimento\n\n1 - O incumprimento das obrigações relativas aos apoios financeiros concedidos no âmbito do presente diploma, e sem prejuízo de participação criminal por crime de fraude na obtenção de subsídio de natureza pública, implica a revogação destes e a restituição do montante correspondente aos apoios recebidos.\n\n2 - Se o incumprimento for parcial, há lugar à restituição proporcional dos apoios recebidos.\n\n3 - A restituição deve ser feita no prazo de 60 dias a contar da notificação às entidades, após os quais são devidos juros de mora à taxa legal.\n\n4 - Compete ao Instituto do Emprego e Formação Profissional, I. P., apreciar o incumprimento e revogar os apoios concedidos ou autorizar a restituição proporcional em caso de incumprimento parcial do projecto."
+  },
+  "50997175": {
+   "fragment_id": "36105075",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamentação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamentação específica\n\nO Instituto do Emprego e Formação Profissional, I. P., aprova em regulamento específico para as candidaturas, os respectivos prazos de decisão, as modalidades de pagamento dos apoios, os modelos de termo de aceitação, os contratos e demais aspectos técnicos necessários à correcta implementação do programa."
+  },
+  "50997275": {
+   "fragment_id": "36105175",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nCom a entrada em vigor do presente diploma são revogados o Despacho Normativo n.º 27/96, de 3 de Agosto, e a Portaria n.º 295/93, de 13 de Março."
+  },
+  "50997375": {
+   "fragment_id": "36105275",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime transitório\n\n1 - Às UNIVA existentes à data da entrada em vigor da presente portaria é aplicável, até ao fim do respectivo período de acreditação anual, o disposto no Despacho Normativo n.º 27/96, de 3 de Agosto.\n\n2 - Aos clubes de emprego existentes à data da entrada em vigor da presente portaria é aplicável, até à respectiva extinção, que terá de ser efectuada no prazo de seis meses, o disposto na Portaria n.º 295/93, de 13 de Março.\n\n3 - Sem prejuízo do disposto nos números anteriores, a entidade promotora de UNIVA ou clube de emprego, se pretender manter actividade para além do período de acreditação ou autorização, deverá apresentar candidatura a GIP.\n\n4 - A entidade promotora que se candidate e obtenha autorização de funcionamento de um GIP e que simultaneamente seja promotora de uma UNIVA ou clube de emprego não pode acumular os apoios."
+  },
+  "50997475": {
+   "fragment_id": "36105375",
+   "type": 11,
+   "heading": "Artigo 19.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia seguinte à sua publicação."
+  },
+  "51941375": {
+   "fragment_id": "35165975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "O Governo tem vindo a proceder à racionalização e sistematização do edifício legislativo que enquadra e regula as medidas de política que visam promover a coesão social através do emprego e da qualificação profissional. No âmbito deste processo, reveste-se de particular valor estratégico a revisão da regulamentação das medidas activas de emprego que, em complementaridade aos instrumentos de protecção social, procuram melhorar os níveis de empregabilidade e estimular a reinserção no mercado de trabalho dos trabalhadores que se encontram em situação de desemprego.\n\nA criação dos gabinetes de inserção profissional (GIP) integra-se no conjunto destas medidas, pois a existência de estruturas de apoio ao emprego - com elevada flexibilidade, capacidade de actuação em proximidade aos territórios e às populações e em estreita articulação com a rede de centros de emprego e formação do IEFP - são um elemento central para uma inserção mais rápida e mais sustentada no mercado de emprego.\n\nRelativamente ao modelo de funcionamento das actuais estruturas de apoio foram significativamente alargadas as áreas de intervenção, que abrangem agora, nomeadamente: i) o apoio à procura activa de emprego, ii) o acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional; iii) a captação de ofertas junto de entidades empregadoras; iv) a divulgação de ofertas de emprego e actividades de colocação; v) o encaminhamento para ofertas de qualificação, e a vi) divulgação e encaminhamento para medidas de apoio ao emprego, qualificação e empreendedorismo. Altera-se ainda, de forma profunda, o modelo de funcionamento, através da contratualização de objectivos quantitativos e qualitativos, bem como o princípio da avaliação regular da sua actividade, tendo em vista uma significativa melhoria da capacidade de apoio aos desempregados.\n\nPor fim, com este novo modelo, dá-se uma aproximação da oferta geográfica do Instituto do Emprego e Formação Profissional, I. P., já de si muito disseminada pelo território nacional, às necessidades locais, como forma de assegurar uma acção mais incisiva, localizada e personalizada em prol do emprego.\n\nCom a criação dos GIP, o Governo cumpre, igualmente, um compromisso que assumiu com os parceiros sociais no Acordo Tripartido para Um Novo Sistema de Regulação das Relações Laborais, das Políticas de Emprego e da Protecção Social em Portugal, no sentido de melhorar a eficácia dos serviços de apoio ao emprego, bem como cria as condições legais necessárias para executar uma das medidas específicas de apoio ao emprego da Iniciativa para o Investimento e o Emprego.\n\nAssim:\n\nAo abrigo do disposto no Decreto-Lei n.º 132/99, de 21 de Abril, manda o Governo, pelo Secretário de Estado do Emprego e da Formação Profissional, o seguinte:\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "51941575": {
+   "fragment_id": "36103975",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividades dos GIP",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 5.º — Actividades dos GIP\n\n1 - O GIP pode desenvolver as seguintes actividades:\n\na) Informação profissional para jovens e adultos desempregados;\n\nb) Apoio à procura activa de emprego;\n\nc) Acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional;\n\nd) Captação de ofertas junto de entidades empregadoras;\n\ne) Divulgação de ofertas de emprego e colocação de desempregados ou candidatos a emprego nas ofertas disponíveis e adequadas;\n\nf) Encaminhamento para ofertas de qualificação;\n\ng) Divulgação e encaminhamento para medidas de apoio ao emprego, qualificação e empreendedorismo;\n\nh) Divulgação de programas comunitários que promovam a mobilidade no emprego e na formação profissional no espaço europeu;\n\ni) Motivação e apoio à participação em ocupações temporárias ou actividades em regime de voluntariado, que facilitem a inserção no mercado de trabalho;\n\nj) Controlo de apresentação periódica dos beneficiários das prestações de desemprego;\n\nk) Outras actividades consideradas necessárias aos desempregados inscritos nos centros de emprego.\n\n2 - O Instituto do Emprego e Formação Profissional, I. P., é responsável por desenvolver sistemas de informação adequados ao eficaz desenvolvimento das actividades contratadas com o GIP.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "51941675": {
+   "fragment_id": "36104075",
+   "type": 11,
+   "heading": "Artigo 6.º — Autorização de funcionamento",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 6.º — Autorização de funcionamento\n\n1 - O GIP está sujeito a concessão de autorização de funcionamento pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - A autorização de funcionamento resulta de aprovação em processo de candidatura e da contratualização dos objectivos para o GIP, de acordo com as actividades previstas no artigo anterior.\n\n3 - A autorização referida no n.º 1 tem a validade de um ano, podendo a entidade promotora candidatar-se a novo processo de autorização.\n\n4 - A autorização de funcionamento pode ser prolongada até ao encerramento dp período de candidatura imediatamente subsequente, caso caduque fora dos períodos de candidatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "51941775": {
+   "fragment_id": "36104275",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato de objectivos",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 8.º — Contrato de objectivos\n\nApós aprovação da candidatura, o Instituto do Emprego e Formação Profissional, I. P., celebra com a entidade promotora um contrato de objectivos, de onde constam, designadamente:\n\na) As actividades previstas no artigo 5.º que assegurem a coerência e complementaridade da acção do GIP, com as actividades desenvolvidas pelo centro de emprego associado, bem como com a acção de outras entidades que promovam actividades conexas;\n\nb) Os objectivos quantitativos para cada área;\n\nc) Os níveis qualitativos de desempenho a atingir.\n\nd) As obrigações a que se encontra vinculada a entidade promotora tendo em vista o cumprimento dos objectivos contratualizados, considerando os apoios que lhe sejam concedidos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "51941875": {
+   "fragment_id": "36104775",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e avaliação das actividades",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02, produz efeitos a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 13.º — Acompanhamento e avaliação das actividades\n\n1 - O nível de execução contratual é avaliado regularmente pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - Os apoios contratualizados podem ser reduzidos em qualquer altura da vigência do contrato se, após a devida avaliação, se verificar que a execução contratual é inferior à contratualizada.\n\n3 - Nas avaliações dos níveis qualitativos de desempenho, o Instituto do Emprego e Formação Profissional, I. P., tem em conta o grau de satisfação dos utentes.\n\n4 - Sem prejuízo do disposto no n.º 1 do artigo 15.º, nas situações em que, decorrente da avaliação a que se refere o n.º 1, se verifique o incumprimento dos objectivos contratualizados, durante dois anos consecutivos, considera-se, de imediato, revogada a respectiva autorização de funcionamento com a consequente impossibilidade de renovação do contrato.\n\n5 - Até 31 de Dezembro de cada ano, o Instituto do Emprego e Formação Profissional procede à elaboração de um relatório, que submete à consideração da tutela, do qual deve constar a avaliação do nível de execução contratual a que se refere o n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02, produz efeitos a partir de 2010-06-02"
+  },
+  "51941975": {
+   "fragment_id": "36104875",
+   "type": 11,
+   "heading": "Artigo 14.º — Impedimentos",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 14.º — Impedimentos\n\nFicam impedidas de se candidatar ao presente programa as entidades promotoras de GIP cuja autorização de funcionamento tenha sido revogada por incumprimento que lhes seja imputável.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "51942075": {
+   "fragment_id": "36104975",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento",
+   "in_force_from": "2010-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 15.º — Incumprimento\n\n1 - O incumprimento por parte das entidades promotoras das obrigações inerentes aos objectivos contratualizados e à correcta aplicação dos apoios financeiros concedidos no âmbito do presente diploma, sem prejuízo da participação criminal por ilícito dessa natureza a que possa dar lugar, determina a imediata cessação de todo o tipo de apoios a que possam ter direito, constituindo igualmente a respectiva entidade promotora na obrigação de restituir o valor correspondente aos apoios financeiros entretanto concedidos.\n\n2 - Se o incumprimento for parcial, há lugar à restituição proporcional dos apoios recebidos.\n\n3 - A restituição deve ser feita no prazo de 60 dias a contar da notificação às entidades, após os quais são devidos juros de mora à taxa legal.\n\n4 - Compete ao Instituto do Emprego e Formação Profissional, I. P., apreciar o incumprimento e revogar os apoios concedidos ou autorizar a restituição proporcional em caso de incumprimento parcial do projecto.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "50997575": {
+   "fragment_id": "36105475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009."
+  },
+  "108311269": {
+   "fragment_id": "36103575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma cria e regula o funcionamento dos gabinetes de inserção profissional, adiante designadas por GIP.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108311270": {
+   "fragment_id": "36103675",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito\n\nEntende-se por GIP a organização ou serviço que preste apoio a jovens e adultos desempregados para a definição ou desenvolvimento do seu percurso de inserção ou reinserção no mercado de trabalho, em estreita cooperação com os centros de emprego.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108311271": {
+   "fragment_id": "36103775",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades promotoras",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 3.º — Entidades promotoras\n\nPodem promover a criação de GIP as entidades públicas ou privadas sem fins lucrativo, nomeadamente:\n\na) Autarquias locais;\n\nb) Instituições particulares de solidariedade social;\n\nc) Outras associações relevantes na dinamização e desenvolvimento local;\n\nd) Associações de imigrantes e para imigrantes;\n\ne) Associações sindicais e de empregadores;\n\nf) Escolas com oferta de vias profissionalizantes de nível secundário.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108311272": {
+   "fragment_id": "36103875",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos gerais da entidade promotora",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos gerais da entidade promotora\n\nA entidade promotora deve reunir cumulativamente os seguintes requisitos:\n\na) Encontrar-se regularmente constituída e devidamente registada;\n\nb) Dispor de contabilidade organizada, desde que legalmente exigido, de acordo com as normas do Plano Oficial de Contabilidade aplicável;\n\nc) Ter a situação contributiva regularizada perante a administração tributária e a segurança social;\n\nd) Ter a sua situação regularizada no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objectivos, designadamente os concedidos pelo Instituto do Emprego e Formação Profissional, I. P.;\n\ne) Cumprir com os demais requisitos e obrigações inerentes aos apoios comunitários;\n\nf) Cumprir os demais requisitos previstos em regulamentação específica elaborada pelo Instituto do Emprego e Formação Profissional, I. P., e no respectivo contrato;\n\ng) Não pode ter sido condenada, com decisão transitada em julgado, por crime de fraude na obtenção de subsídio de natureza pública.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108311273": {
+   "fragment_id": "36103975",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividades dos GIP",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 5.º — Actividades dos GIP\n\n1 - O GIP pode desenvolver as seguintes actividades:\n\na) Informação profissional para jovens e adultos desempregados;\n\nb) Apoio à procura activa de emprego;\n\nc) Acompanhamento personalizado dos desempregados em fase de inserção ou reinserção profissional;\n\nd) Captação de ofertas junto de entidades empregadoras;\n\ne) Divulgação de ofertas de emprego e colocação de desempregados ou candidatos a emprego nas ofertas disponíveis e adequadas;\n\nf) Encaminhamento para ofertas de qualificação;\n\ng) Divulgação e encaminhamento para medidas de apoio ao emprego, qualificação e empreendedorismo;\n\nh) Divulgação de programas comunitários que promovam a mobilidade no emprego e na formação profissional no espaço europeu;\n\ni) Motivação e apoio à participação em ocupações temporárias ou actividades em regime de voluntariado, que facilitem a inserção no mercado de trabalho;\n\nj) Controlo de apresentação periódica dos beneficiários das prestações de desemprego;\n\nk) Outras actividades consideradas necessárias aos desempregados inscritos nos centros de emprego.\n\n2 - O Instituto do Emprego e Formação Profissional, I. P., é responsável por desenvolver sistemas de informação adequados ao eficaz desenvolvimento das actividades contratadas com o GIP.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "108311274": {
+   "fragment_id": "36104075",
+   "type": 11,
+   "heading": "Artigo 6.º — Autorização de funcionamento",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 6.º — Autorização de funcionamento\n\n1 - O GIP está sujeito a concessão de autorização de funcionamento pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - A autorização de funcionamento resulta de aprovação em processo de candidatura e da contratualização dos objectivos para o GIP, de acordo com as actividades previstas no artigo anterior.\n\n3 - A autorização referida no n.º 1 tem a validade de um ano, podendo a entidade promotora candidatar-se a novo processo de autorização.\n\n4 - A autorização de funcionamento pode ser prolongada até ao encerramento dp período de candidatura imediatamente subsequente, caso caduque fora dos períodos de candidatura.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "108315075": {
+   "fragment_id": "36104175",
+   "type": 11,
+   "heading": "Artigo 7.º — Candidatura",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 7.º — Candidatura\n\n1 - O Instituto do Emprego e Formação Profissional, I. P., estabelece um ou mais períodos anuais de candidatura para autorização de funcionamento de GIP.\n\n2 - A análise e hierarquização das candidaturas têm em consideração, entre outros, os seguintes critérios:\n\na) O contexto sócio-económico das regiões em que se localizem, nomeadamente a menor acessibilidade aos centros de emprego, o nível e a evolução previsível do desemprego e o risco de exclusão social;\n\nb) As actividades que se propõem desenvolver, de acordo com o artigo 5.º;\n\nc) A experiência das entidades promotoras em actividades nos domínios do emprego, formação, acção social e empreendedorismo;\n\nd) A adequação das instalações, em particular os espaços de acolhimento e atendimento;\n\ne) A habilitação e a experiência profissional dos animadores;\n\nf) A progressiva integração do GIP na entidade promotora e a potencial autonomia técnica e financeira;\n\ng) A avaliação do cumprimento dos objectivos contratualmente definidos, no caso de candidatura a nova autorização de funcionamento por parte de entidade promotora a quem tenha sido autorizada um GIP.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315076": {
+   "fragment_id": "36104275",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato de objectivos",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 8.º — Contrato de objectivos\n\nApós aprovação da candidatura, o Instituto do Emprego e Formação Profissional, I. P., celebra com a entidade promotora um contrato de objectivos, de onde constam, designadamente:\n\na) As actividades previstas no artigo 5.º que assegurem a coerência e complementaridade da acção do GIP, com as actividades desenvolvidas pelo centro de emprego associado, bem como com a acção de outras entidades que promovam actividades conexas;\n\nb) Os objectivos quantitativos para cada área;\n\nc) Os níveis qualitativos de desempenho a atingir.\n\nd) As obrigações a que se encontra vinculada a entidade promotora tendo em vista o cumprimento dos objectivos contratualizados, considerando os apoios que lhe sejam concedidos.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "108315077": {
+   "fragment_id": "36104375",
+   "type": 11,
+   "heading": "Artigo 9.º — Animador",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 9.º — Animador\n\n1 - A actividade do GIP é assegurada por um animador, titular de licenciatura e com formação específica adequada, definida no regulamento específico.\n\n2 - O animador é designado pela entidade promotora do GIP e pode exercer a actividade a tempo completo ou tempo parcial.\n\n3 - O animador pode ser coadjuvado por outros colaboradores designados pela entidade promotora.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315078": {
+   "fragment_id": "36104475",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoios técnicos",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 10.º — Apoios técnicos\n\n1 - No âmbito da presente portaria, o Instituto do Emprego e Formação Profissional, I. P., concede apoios técnicos ao GIP, compreendendo nomeadamente:\n\na) Formação específica adequada, inicial e contínua, do animador;\n\nb) Material de informação e instrumentos técnico-pedagógicos, para distribuição ou consulta dos utentes;\n\nc) Suportes informativos, nomeadamente informáticos, para apoio das funções do animador e acompanhamento da actividade do GIP;\n\nd) Divulgação de ofertas de emprego e formação profissional;\n\ne) Promoção de informações e contactos entre os animadores, aos níveis adequados, para aperfeiçoamento da respectiva actividade.\n\n2 - A Agência Nacional para a Qualificação, I. P., concede apoios técnicos ao GIP, compreendendo, nomeadamente, a divulgação de ofertas de qualificação para jovens e adultos e dos perfis profissionais constantes do Catálogo Nacional de Qualificações.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315079": {
+   "fragment_id": "36104575",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoios financeiros",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 11.º — Apoios financeiros\n\n1 - Para a prossecução dos objectivos contratualmente definidos, e em função dos mesmos, o GIP pode beneficiar dos apoios definidos nos números seguintes.\n\n2 - Para adaptação de instalações e aquisição de equipamento é concedido um subsídio não reembolsável até ao montante de (euro) 5000.\n\n3 - Para despesas de funcionamento é concedido um subsídio não reembolsável anual no valor de três vezes o indexante dos apoios sociais (IAS).\n\n4 - Para comparticipação nas retribuições do animador e outros colaboradores, quando o GIP funcione a tempo completo, é concedido um subsídio não reembolsável, em montantes decrescentes tendo em vista a sua progressiva autonomia, com os seguintes limites:\n\na) 24 vezes o IAS, no primeiro ano de funcionamento;\n\nb) 20 vezes o IAS, no segundo ano de funcionamento.\n\n5 - Se o GIP funcionar a tempo parcial, os limites do subsídio não reembolsável referidos no número anterior são reduzidos para metade.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315080": {
+   "fragment_id": "36104675",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoios complementares",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 12.º — Apoios complementares\n\n1 - Durante a execução do contrato, pode ser alargado o âmbito da contratualização a actividades previstas no artigo 5.º e ainda não contratualizadas, ou níveis adicionais de actividade para as já contratadas, tendo em conta as necessidades detectadas ao nível do desemprego e da exclusão social na região, podendo para estes fins ser atribuído apoios técnicos e financeiros complementares com o limite máximo equivalente a três vezes o valor definido na alínea a) do n.º 4 do artigo anterior.\n\n2 - Os apoios a conceder, assim como a sua formalização, são objecto de regulamentação específica do Instituto do Emprego e Formação Profissional, I. P.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315081": {
+   "fragment_id": "36104775",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e avaliação das actividades",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02, produz efeitos a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 13.º — Acompanhamento e avaliação das actividades\n\n1 - O nível de execução contratual é avaliado regularmente pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - Os apoios contratualizados podem ser reduzidos em qualquer altura da vigência do contrato se, após a devida avaliação, se verificar que a execução contratual é inferior à contratualizada.\n\n3 - Nas avaliações dos níveis qualitativos de desempenho, o Instituto do Emprego e Formação Profissional, I. P., tem em conta o grau de satisfação dos utentes.\n\n4 - Sem prejuízo do disposto no n.º 1 do artigo 15.º, nas situações em que, decorrente da avaliação a que se refere o n.º 1, se verifique o incumprimento dos objectivos contratualizados, durante dois anos consecutivos, considera-se, de imediato, revogada a respectiva autorização de funcionamento com a consequente impossibilidade de renovação do contrato.\n\n5 - Até 31 de Dezembro de cada ano, o Instituto do Emprego e Formação Profissional procede à elaboração de um relatório, que submete à consideração da tutela, do qual deve constar a avaliação do nível de execução contratual a que se refere o n.º 1.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02, produz efeitos a partir de 2010-06-02"
+  },
+  "108315082": {
+   "fragment_id": "36104875",
+   "type": 11,
+   "heading": "Artigo 14.º — Impedimentos",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 14.º — Impedimentos\n\nFicam impedidas de se candidatar ao presente programa as entidades promotoras de GIP cuja autorização de funcionamento tenha sido revogada por incumprimento que lhes seja imputável.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "108315083": {
+   "fragment_id": "36104975",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+   ],
+   "markdown": "###### Artigo 15.º — Incumprimento\n\n1 - O incumprimento por parte das entidades promotoras das obrigações inerentes aos objectivos contratualizados e à correcta aplicação dos apoios financeiros concedidos no âmbito do presente diploma, sem prejuízo da participação criminal por ilícito dessa natureza a que possa dar lugar, determina a imediata cessação de todo o tipo de apoios a que possam ter direito, constituindo igualmente a respectiva entidade promotora na obrigação de restituir o valor correspondente aos apoios financeiros entretanto concedidos.\n\n2 - Se o incumprimento for parcial, há lugar à restituição proporcional dos apoios recebidos.\n\n3 - A restituição deve ser feita no prazo de 60 dias a contar da notificação às entidades, após os quais são devidos juros de mora à taxa legal.\n\n4 - Compete ao Instituto do Emprego e Formação Profissional, I. P., apreciar o incumprimento e revogar os apoios concedidos ou autorizar a restituição proporcional em caso de incumprimento parcial do projecto.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2010 - Diário da República n.º 106/2010, Série I de 2010-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681), em vigor a partir de 2010-06-02"
+  },
+  "108315084": {
+   "fragment_id": "36105075",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamentação específica",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 16.º — Regulamentação específica\n\nO Instituto do Emprego e Formação Profissional, I. P., aprova em regulamento específico para as candidaturas, os respectivos prazos de decisão, as modalidades de pagamento dos apoios, os modelos de termo de aceitação, os contratos e demais aspectos técnicos necessários à correcta implementação do programa.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315085": {
+   "fragment_id": "36105175",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nCom a entrada em vigor do presente diploma são revogados o Despacho Normativo n.º 27/96, de 3 de Agosto, e a Portaria n.º 295/93, de 13 de Março.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315086": {
+   "fragment_id": "36105275",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime transitório",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 18.º — Regime transitório\n\n1 - Às UNIVA existentes à data da entrada em vigor da presente portaria é aplicável, até ao fim do respectivo período de acreditação anual, o disposto no Despacho Normativo n.º 27/96, de 3 de Agosto.\n\n2 - Aos clubes de emprego existentes à data da entrada em vigor da presente portaria é aplicável, até à respectiva extinção, que terá de ser efectuada no prazo de seis meses, o disposto na Portaria n.º 295/93, de 13 de Março.\n\n3 - Sem prejuízo do disposto nos números anteriores, a entidade promotora de UNIVA ou clube de emprego, se pretender manter actividade para além do período de acreditação ou autorização, deverá apresentar candidatura a GIP.\n\n4 - A entidade promotora que se candidate e obtenha autorização de funcionamento de um GIP e que simultaneamente seja promotora de uma UNIVA ou clube de emprego não pode acumular os apoios.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315087": {
+   "fragment_id": "36105375",
+   "type": 11,
+   "heading": "Artigo 19.º — Produção de efeitos",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "###### Artigo 19.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia seguinte à sua publicação.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  },
+  "108315088": {
+   "fragment_id": "36105475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+   ],
+   "markdown": "O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009.\n\n> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/140-2015-67250220), em vigor a partir de 2015-05-21"
+  }
+ }
+}

@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:394159:por
+title: Decreto n.º 88/82
+short_title: null
+summary: Estrutura as carreiras de inspector e médico da Secretaria de Estado da Emigração e Comunidades Portuguesas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Secretaria de Estado da Emigração e Comunidades Portuguesas
+proposing_entity: null
+official_number: 88/82
+official_date: null
+publication_date: '1982-07-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/1982, Série I de 1982-07-17
+  number: '163'
+  series: I
+  supplement: null
+  pages: 2145 - 2146
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16300/21452146.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '394159'
+  dre_path: /dr/detalhe/decreto/88-1982-394159
+  internal: pt:dre:394159:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/88-1982-394159
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/88-1982-394159
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bb236e69d09473cd22900ab4c035d04526e8f931af29df650f05ad62178b5052
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Médico
+- Quadro de Pessoal
+- Secretaria de Estado da Emigração e das Comunidades Portuguesas
+relationships:
+- type: amended_by
+  target: pt:dre:613056:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:428224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:01:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 88/82
+
+de 17 de Julho
+
+O [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, veio não só definir os critérios gerais que devem presidir ao ordenamento de várias carreiras do funcionalismo público como ainda criar as condições legais que permitiram corrigir numerosas situações de injustiça, originadas pelo estado de subvalorização em que se encontravam múltiplas carreiras e categorias.
+
+Sucede, porém, que aquele diploma não contempla todas as situações de injustiça existentes. Estão neste caso as categorias de inspector e médico da Secretaria de Estado da Emigração e Comunidades Portuguesas, a que corresponde a letra H da tabela de vencimentos, integradas por funcionários, no geral, com mais de 20 anos de serviço naquelas categorias.
+
+O presente decreto estrutura as carreiras de inspector e médico, em conformidade com os princípios estabelecidos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+
+Simultaneamente, uma vez que tanto os serviços médicos como a delegação no Porto, integrados por médicos e inspectores, são dirigidos por 2 funcionários médicos com categorias correspondentes a letra F, são os mesmos colocados nos lugares de médico de 1.ª classe, tendo em vista a manutenção das suas posições hierárquicas.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º São criadas no quadro de pessoal da Secretaria de Estado da Emigração e Comunidades Portuguesas as carreiras de inspector e médico, as quais substituem as actuais categorias de inspector e médico e constam do quadro anexo ao presente diploma.
+
+Art. 2.º - 1 - A carreira de inspector desenvolve-se pelas categorias de coordenador, principal, de 1 classe e de 2.ª classe, a que são atribuídas, respectivamente, as letras C, D, E e G.
+
+2 - O provimento do lugar de inspector-coordenador far-se-á de entre os inspectores principais licenciados, com o mínimo de 3 anos na categoria e de 9 anos na carreira, classificação de serviço de Muito Bom e mediante provas de apreciação curricular, que incluirão a discussão de trabalho apresentado para o efeito.
+
+3 - O provimento dos lugares de inspector principal e de 1.ª classe far-se-á, respectivamente, de entre inspectores de 1.ª classe e de 2.ª classe, com o mínimo de permanência de 3 anos na categoria e classificação de serviço não inferior a Bom.
+
+4 - O provimento dos lugares de inspector de 2.ª classe far-se-á, mediante provas de selecção, de entre indivíduos habilitados com licenciatura, possuidores de comprovados conhecimentos das línguas francesa e inglesa e aptidão para o exercício das respectivas funções.
+
+Art. 3.º - 1 - A carreira de médico desenvolve-se pelas categorias de assessor, principal, de 1.ª classe e de 2.ª classe, a que são atribuídas, respectivamente, as letras C, D, E e G.
+
+2 - O provimento de lugar de médico assessor far-se-á de entre os médicos principais com um mínimo de 3 anos na categoria e de 9 anos na carreira, classificação de serviço de Muito Bom e mediante provas de apreciação curricular, que incluirão a discussão de trabalho apresentado para o efeito.
+
+3 - O provimento dos lugares de médico principal e de 1.ª classe far-se-á, respectivamente, de entre médicos de 1.ª classe e de 2.ª classe com o mínimo de permanência de 3 anos na categoria e classificação não inferior a Bom.
+
+4 - O provimento dos lugares de médico de 2.ª classe far-se-á, mediante concurso documental, de entre licenciados em Medicina inscritos na Ordem dos Médicos.
+
+Art. 4.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontrem providos, a qualquer título, nas categorias de inspector e médico do quadro do pessoal técnico da Secretaria de Estado da Emigração e Comunidades Portuguesas transitam, respectivamente, para as categorias de inspector de 2.ª classe e de médico de 2.ª classe das respectivas carreiras, criadas pelo artigo 1.º do presente diploma.
+
+2 - Os funcionários providos como inspector-chefe (médico) do quadro de pessoal da Secretaria de Estado da Emigração e Comunidades Portuguesas e como chefe de repartição, a que se refere o despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Secretário de Estado da Administração Pública de 31 de Outubro de 1979, publicado no Diário da República, 2.ª série, n.º 282, de 7 de Dezembro do mesmo ano, transitam para a categoria de médico de 1.ª classe da respectiva carreira, criada pelo artigo 1.º do presente diploma.
+
+3 - Aos funcionários a que se referem os números anteriores será contado o tempo de serviço prestado nas anteriores categorias, extintas por força deste diploma, para efeitos de progressão nas novas carreiras, criadas pelo artigo 1.º
+
+4 - As transições a que se reportam os n.os 1 e 2 far-se-ão mediante diplomas de provimento, visados pelo Tribunal de Contas, e publicadas no Diário da República.
+
+Art. 5.º - 1 - São revogados os n.os 7, 8 e 9 do artigo 3.º do [Decreto n.º 375/76](https://diariodarepublica.pt/dr/detalhe/decreto/375-1976-428224), de 19 de Maio.
+
+2 - São extintos os lugares de inspector-chefe (médico) inspector e médico do quadro do pessoal da Secretaria de Estado da Emigração e Comunidades Portuguesas constantes do anexo ao diploma referido no número anterior.
+
+Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Vasco Luís Caldeira Coelho Futscher Pereira - José Manuel Meneres Sampaio Pimentel.
+
+Promulgado em 6 de Julho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Anexo a que se referem, respectivamente, os artigos 1.º e 4.º do Decreto n.º 88/82
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/16300/21452146.pdf)

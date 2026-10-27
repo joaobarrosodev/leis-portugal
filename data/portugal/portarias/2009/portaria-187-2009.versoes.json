@@ -1,0 +1,642 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:602058:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-215459626",
+ "dre_path": "/dr/detalhe/portaria/187-2009-602058",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-02-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215515721",
+    "215460766",
+    "215460767",
+    "215460768",
+    "215460769",
+    "215460770",
+    "215460771",
+    "215460772",
+    "215460773",
+    "215460774"
+   ]
+  },
+  {
+   "date": "2009-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629987:por",
+     "title": "Portaria n.º 678-A/2009",
+     "published": "2009-06-23",
+     "dre_path": "/dr/detalhe/portaria/678-a-2009-629987"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "215460765",
+    "215460766",
+    "215522581",
+    "215522582",
+    "215522583",
+    "215522584",
+    "215460771",
+    "215460772",
+    "215460773",
+    "215460774",
+    "215522575"
+   ]
+  },
+  {
+   "date": "2010-05-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:614301:por",
+     "title": "Portaria n.º 246/2010",
+     "published": "2010-05-03",
+     "dre_path": "/dr/detalhe/portaria/246-2010-614301"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "215460765",
+    "215522660",
+    "215522661",
+    "215522582",
+    "215522662",
+    "215522663",
+    "215460771",
+    "215522664",
+    "215460773",
+    "215460774",
+    "215522575"
+   ]
+  },
+  {
+   "date": "2011-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:277614:por",
+     "title": "Portaria n.º 120/2011",
+     "published": "2011-03-29",
+     "dre_path": "/dr/detalhe/portaria/120-2011-277614"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "215460765",
+    "215522670",
+    "215522671",
+    "215522582",
+    "215522662",
+    "215522663",
+    "215460771",
+    "215522664",
+    "215460773",
+    "215460774",
+    "215522575"
+   ]
+  },
+  {
+   "date": "2012-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177796:por",
+     "title": "Portaria n.º 177/2012",
+     "published": "2012-05-31",
+     "dre_path": "/dr/detalhe/portaria/177-2012-177796"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "215460765",
+    "215515677",
+    "215515679",
+    "215522582",
+    "215515678",
+    "215522663",
+    "215460771",
+    "215522664",
+    "215460773",
+    "215460774",
+    "215522575"
+   ]
+  },
+  {
+   "date": "2013-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261123:por",
+     "title": "Portaria n.º 186/2013",
+     "published": "2013-05-21",
+     "dre_path": "/dr/detalhe/portaria/186-2013-261123"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "215460765",
+    "215515705",
+    "215515706",
+    "215515707",
+    "215515708",
+    "215515709",
+    "215460771",
+    "215522664",
+    "215460773",
+    "215460774",
+    "215522575"
+   ]
+  },
+  {
+   "date": "2023-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215486102:por",
+     "title": "Portaria n.º 198/2023",
+     "published": "2023-07-11",
+     "dre_path": "/dr/detalhe/portaria/198-2023-215486102"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215515721",
+    "215515722",
+    "215515723",
+    "215515724",
+    "215515725",
+    "215515726",
+    "215515727",
+    "215515728",
+    "215515729",
+    "215515730",
+    "215515731"
+   ]
+  }
+ ],
+ "fragments": {
+  "215515721": {
+   "fragment_id": "215459627",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-16",
+   "changed_by": [],
+   "markdown": "Portaria n.º 187/2009\n\nde 20 de Fevereiro\n\nA Portaria n.º 612/2007, de 21 de Maio, procedeu à repartição da quota de pescada branca do Sul, tendo igualmente estabelecido o respectivo modelo de gestão.\n\nA experiência recolhida nos anos de 2007 e 2008 demonstrou, porém, a necessidade de serem introduzidos ajustamentos no modelo então adoptado, quer no que diz respeito à repartição da quota global de pescada branca do Sul quer à inclusão de um conjunto de normativos que contribuam para uma mais adequada gestão desta pescaria. Relativamente a este último aspecto, importa assegurar que as embarcações não abrangidas pelo anexo à citada portaria tenham acesso à captura daquela espécie, em todas as zonas do continente, nas respectivas épocas tradicionais de pesca, pelo que ora se prevê a repartição, por zonas, da parte da quota global que lhes fica reservada.\n\nForam ouvidas as associações do sector envolvidas na pescaria.\n\nAssim:\n\nNos termos do disposto no n.º 1 e na alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "215460766": {
+   "fragment_id": "215459628",
+   "type": 11,
+   "heading": "Artigo 1.º — Repartição da quota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Repartição da quota\n\n1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação comunitária é distribuída da seguinte forma, tomando por base as capturas verificadas no triénio de 2004 a 2006:\n\na) 82 % são repartidos, sob a forma de quotas individuais, pelas embarcações que, entre os anos de 2001 e 2006 inclusive, tenham registado capturas de tal espécie superiores a 5 t em, pelo menos, um daqueles anos;\n\nb) 16 % destinam-se a ser capturados pelas restantes embarcações, mantendo os padrões históricos de actividade e limitados a 3 t por embarcação, de acordo com a seguinte repartição por zona:\n\ni) 6 % para as embarcações registadas na zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;\n\nii) 5 % para as embarcações registadas na zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;\n\niii) 5 % para as embarcações registadas na zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António;\n\nc) A percentagem remanescente da quota nacional destina-se a acomodar eventuais reduções da mesma por sobrepesca transitada de anos anteriores.\n\n2 - A repartição por embarcação a que se refere a alínea a) do número anterior respeitará a média das capturas de pescada branca do Sul registadas pelas mesmas, tomando por base os dois melhores anos do triénio de 2004 a 2006 e constará de lista a aprovar pelo director-geral das Pescas e Aquicultura, a publicitar no sítio www.dgpa.min-agricultura.pt.\n\n3 - Sem prejuízo do disposto no número seguinte, a mudança de porto de registo das embarcações a que se refere a alínea b) do n.º 1 e que implique mudança entre as zonas indicadas nas respectivas subalíneas determina a proibição de captura de pescada branca do Sul.\n\n4 - O disposto no número anterior não tem aplicação nos casos em que a mudança de porto de registo resulta da venda da embarcação."
+  },
+  "215460767": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferência de quotas\n\n1 - Sem prejuízo do disposto no número seguinte, é admitida a transferência de quotas ou parte de quotas entre as embarcações constantes da lista referida no n.º 2 do artigo 1.º desde que previamente comunicada à Direcção-Geral das Pescas e Aquicultura (DGPA), em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito.\n\n2 - A transferência de quotas entre embarcações de diferentes proprietários ou armadores está sujeita às seguintes condições:\n\na) Só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano;\n\nb) Limita-se a 75 % da quota inicialmente atribuída à embarcação cedente.\n\n3 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respectiva quota é objecto de redistribuição, no ano seguinte, por despacho do director-geral das Pescas e Aquicultura, respeitando a proporcionalidade prevista nas alíneas a) e b) do n.º 1 do artigo 1.º\n\n4 - O incumprimento da obrigação de comunicação prévia, ou de qualquer das condições a que se refere o n.º 2, determina a ineficácia total da transferência.\n\n5 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º"
+  },
+  "215460768": {
+   "fragment_id": "215459630",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão da quota individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gestão da quota individual\n\n1 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º é responsável pela gestão da quota atribuída.\n\n2 - Para efeitos de cálculo das quantidades capturadas é tomada por base a estimativa de peso à saída de água, utilizando-se, para o efeito, os seguintes factores de conversão:\n\ni) Eviscerado - 1,11;\n\nii) Eviscerado e descabeçado - 1,40."
+  },
+  "215460769": {
+   "fragment_id": "215459631",
+   "type": 11,
+   "heading": "Artigo 4.º — Esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Esforço de pesca\n\n1 - Para efeitos de gestão do esforço de pesca, os armadores das embarcações incluídas na lista referida no n.º 2 do artigo 1.º ficam obrigados a:\n\na) Comunicar à DGPA, antes do início de cada período de gestão, que decorre entre 1 de Fevereiro e 31 de Janeiro do ano seguinte, as artes com que prevêem operar no período em causa, excepto no caso de embarcações licenciadas para uma única arte de pesca;\n\nb) Manter a bordo um plano de pesca onde conste, numa base diária, a arte ou artes que pretendem utilizar, o qual constitui, para todos os efeitos legais, um registo obrigatório.\n\n2 - O plano de pesca referido no número anterior é elaborado pela DGPA, prevendo uma actividade contínua com as artes regulamentadas, sendo remetido ao armador até 31 de Janeiro de cada ano.\n\n3 - Os armadores que pretendam alterar o plano de pesca enviado nos termos do número anterior têm de apresentar à DGPA, até 28 de Fevereiro de cada ano, uma proposta de alteração do mesmo para apreciação e validação, sob pena da obrigação de cumprimento do plano elaborado por aquele organismo, sem prejuízo das alterações pontuais previstas no n.º 5 do presente artigo.\n\n4 - No início de cada período de gestão e relativamente a cada uma das embarcações a que se refere o n.º 1, a DGPA informa os respectivos armadores das condições de exercício da actividade a que ficam obrigados e das medidas de acompanhamento adoptadas.\n\n5 - A partir das verificações mensais dos dias de pesca já utilizados, a DGPA comunica aos armadores das embarcações referidas no n.º 1 do presente artigo, com uma antecedência mínima de 20 dias seguidos, relativamente à data de termo do plano de pesca, a data a partir da qual deixa de ser permitida a operação com as artes regulamentadas, devendo esta comunicação ser mantida a bordo como parte do plano de pesca das embarcações.\n\n6 - Com base na comunicação referida no número anterior, podem ser apresentados à DGPA, para apreciação e validação, novos planos de pesca para o período de gestão remanescente, até 30 dias seguidos após a data de expedição da comunicação da DGPA.\n\n7 - É obrigatória a comunicação à DGPA, com uma antecedência mínima de vinte e quatro horas, por telecópia ou correio electrónico, através dos endereços indicados para o efeito no sítio da DGPA, das alterações na execução do plano de pesca validado, que diga respeito à operação das embarcações com artes regulamentadas, sempre que a mesma seja determinada por situações de trânsito entre portos, atravessamento da área regulamentada ou utilização de artes não regulamentadas.\n\n8 - Tratando-se de embarcações licenciadas para mais do que uma arte regulamentada, ou, independentemente do seu número, para artes regulamentadas e não regulamentadas, a comunicação prévia a que se refere o número anterior tem de ser feita com uma antecedência mínima de vinte e quatro horas.\n\n9 - A cedência de dias de pesca, nas condições previstas na regulamentação comunitária aplicável, fica sujeita a autorização prévia da DGPA, sendo limitada a 75 % dos dias atribuídos em cada período de gestão à embarcação cedente, não sendo permitida qualquer cedência nos últimos 15 dias úteis que antecedem a data de termo do plano de pesca ou da data comunicada nos termos do n.º 5 do presente artigo."
+  },
+  "215460770": {
+   "fragment_id": "215459632",
+   "type": 11,
+   "heading": "Artigo 5.º — Proibição de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Proibição de pesca\n\n1 - É proibida a pesca de pescada branca do Sul sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação constante da lista referida no n.º 2 do artigo 1.º, haja pescado a totalidade da respectiva quota individual ou, independentemente de tal facto, quando haja sido encerrada a captura relativamente a todas as embarcações de tal lista;\n\nb) Quando, tratando-se de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, seja encerrada a pesca na zona do respectivo registo ou relativamente a todas as zonas de pesca;\n\nc) Por todas as embarcações da frota nacional, quando for determinado o encerramento total da pesca de pescada branca do Sul, em virtude de as capturas anuais efectuadas terem atingido o limite da quota portuguesa.\n\n2 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n3 - Sem prejuízo das contra-ordenações a que haja lugar, sempre que se verifique que qualquer embarcação constante da lista referida no n.º 2 do artigo 1.º pescou em quantidades superiores à respectiva quota, o excedente capturado é deduzido na respectiva quota do(s) ano(s) seguinte(s), até integral compensação daquele excesso.\n\n4 - As embarcações que se viram impossibilitadas de pescar a totalidade da respectiva quota, devido ao excesso de capturas feitas por outras, são compensadas, na medida das disponibilidades, na quota do ano seguinte."
+  },
+  "215460771": {
+   "fragment_id": "215459633",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo e comunicação\n\nSem prejuízo de outras obrigações constantes do presente diploma ou de outra legislação nacional ou comunitária, os armadores, mestres ou capitães de quaisquer embarcações ficam obrigados ao registo, no diário de pesca, das quantidades de pescada branca do Sul que devolverem ao mar."
+  },
+  "215460772": {
+   "fragment_id": "215459634",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposição transitória\n\n1 - Os dias de pesca utilizados desde 1 de Fevereiro de 2009 até à entrada em vigor do presente diploma são contabilizados no período de gestão que se iniciou naquela data.\n\n2 - As quantidades capturadas e desembarcadas desde 1 de Janeiro de 2009 até à entrada em vigor do presente diploma serão contabilizados na quota relativa a 2009.\n\n3 - Caso, à data de entrada em vigor do presente diploma, alguma embarcação já tenha ultrapassado a quota individual atribuída, fica imediatamente proibida de pescar pescada branca do Sul, aplicando-se-lhe o disposto no n.º 3 do artigo 5.º\n\n4 - Excepcionalmente, no ano de 2009, é permitida a transferência de quotas antes de 1 de Maio."
+  },
+  "215460773": {
+   "fragment_id": "215459635",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disposições finais\n\n1 - As quotas atribuídas nos termos da presente portaria não constituem direitos adquiridos, podendo ser, a todo o tempo, retiradas ou diminuídas em resultado de decisões nacionais ou comunitárias no âmbito da conservação e gestão de recursos.\n\n2 - As embarcações que substituam outras constantes da lista prevista no n.º 2 do artigo 1.º mantêm as quotas das embarcações substituídas, ficando sujeitas ao cumprimento das condições decorrentes do regulamento anual de TAC e quotas e do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R2166\" title=\"Link para Regulamento da Comunidade Europeia\">2166/2005</a>, do Conselho, de 20 de Dezembro."
+  },
+  "215460774": {
+   "fragment_id": "215459636",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogada a Portaria n.º 612/2007, de 21 de Maio."
+  },
+  "215460765": {
+   "fragment_id": "215459627",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 187/2009\n\nde 20 de Fevereiro\n\nA Portaria n.º 612/2007, de 21 de Maio, procedeu à repartição da quota de pescada branca do Sul, tendo igualmente estabelecido o respectivo modelo de gestão.\n\nA experiência recolhida nos anos de 2007 e 2008 demonstrou, porém, a necessidade de serem introduzidos ajustamentos no modelo então adoptado, quer no que diz respeito à repartição da quota global de pescada branca do Sul quer à inclusão de um conjunto de normativos que contribuam para uma mais adequada gestão desta pescaria. Relativamente a este último aspecto, importa assegurar que as embarcações não abrangidas pelo anexo à citada portaria tenham acesso à captura daquela espécie, em todas as zonas do continente, nas respectivas épocas tradicionais de pesca, pelo que ora se prevê a repartição, por zonas, da parte da quota global que lhes fica reservada.\n\nForam ouvidas as associações do sector envolvidas na pescaria.\n\nAssim:\n\nNos termos do disposto no n.º 1 e na alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "215522581": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quotas",
+   "in_force_from": "2009-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de quotas\n\n1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre:\n\na) As embarcações a que se refere o n.º 2 do artigo 1.º, constantes da lista aí prevista;\n\nb) As embarcações constantes da lista a que se refere o n.º 2 do artigo 1.º e embarcações referidas na alínea b) do n.º 1 do mesmo artigo.\n\n2 - A transferência de quotas a que se refere a alínea a) do n.º 1 tem de ser previamente comunicada à Direcção-Geral das Pescas e Aquicultura (DGPA), em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.\n\n3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.\n\n4 - A transferência de quotas prevista na alínea b) do n.º 1 está sujeita, sob pena de ineficácia, a autorização prévia da DGPA, devendo esta ser solicitada em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, quando reunidas as seguintes condições relativas à embarcação a favor da qual é feita a transferência:\n\na) Não estar licenciada para redes de emalhar de um pano da classe de malhagem 60 mm-79 mm;\n\nb) Ter capturado 3 t da espécie pescada branca ou, alternativamente, já se encontrar encerrada a pesca para o conjunto de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, registadas na zona respectiva.\n\n5 - As autorizações a que se refere o número anterior estão ainda sujeitas às seguintes condicionantes:\n\na) A quantidade mínima de pescada passível de transferência é de 1 t;\n\nb) A quantidade máxima de pescada que cada embarcação pode pescar, em cada ano, em resultado da transferência de quotas e da utilização das possibilidades de pesca nela previstas, é de 5 t;\n\nc) As quantidades de pescada a ser transferidas apenas podem ser capturadas a partir da data de autorização da transferência comunicada pela DGPA aos interessados.\n\n6 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respectiva quota é objecto de redistribuição, no ano seguinte, por despacho do director-geral das Pescas e Aquicultura, respeitando a proporcionalidade prevista nas alíneas a) e b) do n.º 1 do artigo 1.º\n\n7 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º\n\n8 - As capturas efectuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis, nem constituem direitos para os efeitos de alterações à chave de repartição.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522582": {
+   "fragment_id": "215459630",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão das capturas",
+   "in_force_from": "2009-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 3.º — Gestão das capturas\n\n1 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º ou referidas na alínea b) do n.º 1 do artigo 1.º é responsável pela gestão das quotas atribuídas ou das quantidades disponíveis por via da transferência de quotas, respectivamente.\n\n2 - Para efeitos de cálculo das quantidades capturadas é tomada por base a estimativa de peso à saída de água, utilizando-se, para o efeito, os seguintes factores de conversão:\n\na) Eviscerado - 1,11;\n\nb) Eviscerado e descabeçado - 1,40.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522583": {
+   "fragment_id": "215459631",
+   "type": 11,
+   "heading": "Artigo 4.º — Esforço de pesca",
+   "in_force_from": "2009-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Esforço de pesca\n\n1 - Para efeitos de gestão do esforço de pesca, os armadores das embarcações incluídas na lista referida no n.º 2 do artigo 1.º ficam obrigados a:\n\na) Comunicar à DGPA, antes do início de cada período de gestão, que decorre entre 1 de Fevereiro e 31 de Janeiro do ano seguinte, as artes com que prevêem operar no período em causa, excepto no caso de embarcações licenciadas para uma única arte de pesca;\n\nb) Manter a bordo um plano de pesca onde conste, numa base diária, a arte ou artes que pretendem utilizar, o qual constitui, para todos os efeitos legais, um registo obrigatório.\n\n2 - O plano de pesca referido no número anterior é elaborado pela DGPA, prevendo uma actividade contínua com as artes regulamentadas, sendo remetido ao armador até 31 de Janeiro de cada ano.\n\n3 - Os armadores que pretendam alterar o plano de pesca enviado nos termos do número anterior têm de apresentar à DGPA, até 28 de Fevereiro de cada ano, uma proposta de alteração do mesmo para apreciação e validação, sob pena da obrigação de cumprimento do plano elaborado por aquele organismo, sem prejuízo das alterações pontuais previstas no n.º 5 do presente artigo.\n\n4 - No início de cada período de gestão e relativamente a cada uma das embarcações a que se refere o n.º 1, a DGPA informa os respectivos armadores das condições de exercício da actividade a que ficam obrigados e das medidas de acompanhamento adoptadas.\n\n5 - A partir das verificações mensais dos dias de pesca já utilizados, a DGPA comunica aos armadores das embarcações referidas no n.º 1 do presente artigo, com uma antecedência mínima de 20 dias seguidos, relativamente à data de termo do plano de pesca, a data a partir da qual deixa de ser permitida a operação com as artes regulamentadas, devendo esta comunicação ser mantida a bordo como parte do plano de pesca das embarcações.\n\n6 - Com base na comunicação referida no número anterior, podem ser apresentados à DGPA, para apreciação e validação, novos planos de pesca para o período de gestão remanescente, até 30 dias seguidos após a data de expedição da comunicação da DGPA.\n\n7 - Sem prejuízo do disposto no número seguinte, é obrigatória a comunicação prévia à DGPA, por telecópia ou correio electrónico, através dos endereços indicados para o efeito no sítio da DGPA, das alterações na execução do plano de pesca validado, que diga respeito à operação das embarcações com artes regulamentadas, sempre que a mesma seja determinada por situações de trânsito entre portos, atravessamento da área regulamentada ou utilização de artes não regulamentadas.\n\n8 - Tratando-se de embarcações licenciadas para mais do que uma arte regulamentada, ou, independentemente do seu número, para artes regulamentadas e não regulamentadas, a comunicação prévia a que se refere o número anterior tem de ser feita com uma antecedência mínima de vinte e quatro horas.\n\n9 - A transferência de dias de pesca, nas condições previstas na regulamentação comunitária aplicável, fica sujeita a autorização prévia da DGPA, a qual tem de ser solicitada com uma antecedência mínima de 15 dias relativamente à data pretendida, sendo objecto de decisão no prazo de 10 dias.\n\n10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objecto de redistribuição, por despacho do director-geral das Pescas e Aquicultura, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522584": {
+   "fragment_id": "215459632",
+   "type": 11,
+   "heading": "Artigo 5.º — Proibição de pesca",
+   "in_force_from": "2009-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 5.º — Proibição de pesca\n\n1 - É proibida a pesca de pescada branca do Sul sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação constante da lista referida no n.º 2 do artigo 1.º, haja pescado a totalidade da respectiva quota individual ou, independentemente de tal facto, quando haja sido encerrada a captura relativamente a todas as embarcações de tal lista;\n\nb) Quando, tratando-se de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, seja encerrada a pesca na zona do respectivo registo ou relativamente a todas as zonas de pesca, a menos que a embarcação em causa tenha beneficiado de transferência de quota, nos termos previstos no artigo 2.º;\n\nc) Por todas as embarcações da frota nacional, quando for determinado o encerramento total da pesca de pescada branca do Sul, em virtude de as capturas anuais efectuadas terem atingido o limite da quota portuguesa.\n\n2 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n3 - Sem prejuízo das contra-ordenações a que haja lugar, sempre que se verifique que qualquer embarcação constante da lista referida no n.º 2 do artigo 1.º pescou em quantidades superiores à respectiva quota, o excedente capturado é deduzido na respectiva quota do(s) ano(s) seguinte(s), até integral compensação daquele excesso.\n\n4 - As embarcações que se viram impossibilitadas de pescar a totalidade da respectiva quota, devido ao excesso de capturas feitas por outras, são compensadas, na medida das disponibilidades, na quota do ano seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522575": {
+   "fragment_id": "215459637",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Fevereiro de 2009."
+  },
+  "215522660": {
+   "fragment_id": "215459628",
+   "type": 11,
+   "heading": "Artigo 1.º — Repartição da quota",
+   "in_force_from": "2010-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 1.º — Repartição da quota\n\n1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação comunitária é distribuída da seguinte forma:\n\na) 74 % são repartidos, sob a forma de quotas individuais, pelas embarcações que desembarcaram mais de 5 t de pescada ou mais de 2,5 t de lagostim num dos anos de 2007 ou 2008;\n\nb) 24 % destinam-se a ser capturados pelas restantes embarcações, mantendo os padrões históricos de actividade e limitados a 3 t por embarcação, de acordo com a seguinte repartição por zona:\n\ni) 9 % para as embarcações registadas na zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;\n\nii) 9 % para as embarcações registadas na zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;\n\niii) 6 % para as embarcações registadas na zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António;\n\nc) A percentagem remanescente da quota nacional destina-se a acomodar eventuais reduções da mesma por sobrepesca transitada de anos anteriores.\n\n2 - A repartição por embarcação a que se refere a alínea a) do número anterior respeitará a média das capturas de pescada branca do Sul registadas pelas mesmas, tomando por base os dois melhores anos do triénio de 2004 a 2006, ajustada em função do previsto no n.º 6 do artigo 2.º, arredondada à centena de quilograma, com um mínimo de 3 t, e constará de lista a aprovar pelo director-geral das Pescas e Aquicultura, a publicitar no sítio www.dgpa.min-agricultura.pt.\n\n3 - Sem prejuízo do disposto no número seguinte, a mudança de porto de registo das embarcações a que se refere a alínea b) do n.º 1 e que implique mudança entre as zonas indicadas nas respectivas subalíneas determina a proibição de captura de pescada branca do Sul.\n\n4 - O disposto no número anterior não tem aplicação nos casos em que a mudança de porto de registo resulta da venda da embarcação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215522661": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quotas",
+   "in_force_from": "2010-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de quotas\n\n1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre:\n\na) As embarcações a que se refere o n.º 2 do artigo 1.º, constantes da lista aí prevista;\n\nb) As embarcações constantes da lista a que se refere o n.º 2 do artigo 1.º e embarcações referidas na alínea b) do n.º 1 do mesmo artigo.\n\n2 - A transferência de quotas a que se refere a alínea a) do n.º 1 tem de ser previamente comunicada à Direcção-Geral das Pescas e Aquicultura (DGPA), em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.\n\n3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.\n\n4 - A transferência de quotas prevista na alínea b) do n.º 1 está sujeita, sob pena de ineficácia, a autorização prévia da DGPA, devendo esta ser solicitada em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, quando reunidas as seguintes condições relativas à embarcação a favor da qual é feita a transferência:\n\na) Não estar licenciada para redes de emalhar de um pano da classe de malhagem 60 mm-79 mm;\n\nb) Ter capturado 3 t da espécie pescada branca ou, alternativamente, já se encontrar encerrada a pesca para o conjunto de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, registadas na zona respectiva.\n\n5 - As autorizações a que se refere o número anterior estão ainda sujeitas aos seguintes condicionalismos:\n\na) Apenas podem ser autorizadas duas transferências em cada ano civil;\n\nb) A quantidade máxima de pescada que cada embarcação pode pescar, em cada ano, em resultado da transferência de quotas e da utilização das possibilidades de pesca nela previstas, é de 5 t;\n\nc) As quantidades de pescada a ser transferidas apenas podem ser capturadas a partir da data de autorização da transferência comunicada pela DGPA aos interessados.\n\n6 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respectiva quota é objecto de redistribuição, no ano seguinte, por despacho do director-geral das Pescas e Aquicultura, respeitando a proporcionalidade prevista nas alíneas a) e b) do n.º 1 do artigo 1.º\n\n7 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º\n\n8 - As capturas efectuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis, nem constituem direitos para os efeitos de alterações à chave de repartição.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522662": {
+   "fragment_id": "215459631",
+   "type": 11,
+   "heading": "Artigo 4.º — Esforço de pesca",
+   "in_force_from": "2010-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Esforço de pesca\n\n1 - É obrigatória a comunicação prévia à DGPA por telecópia, ou correio electrónico, através dos endereços indicados para o efeito no sítio da DGPA, por parte dos armadores ou dos mestres das embarcações de pesca referidas no n.º 2 do artigo 1.º:\n\na) Da data prevista para o início da actividade de pesca com as artes regulamentadas de arrasto, redes de emalhar de um pano e palangre de fundo, a menos que as embarcações em causa apenas disponham de licença para a utilização de artes regulamentadas;\n\nb) Da data de alteração da utilização de uma arte regulamentada para não regulamentada ou vice-versa no caso de embarcações que disponham de licença para o exercício da pesca com artes regulamentadas e não regulamentadas;\n\nc) Das situações de trânsito entre portos ou atravessamento de área regulamentada.\n\n2 - Os armadores ou os mestres das embarcações são obrigados a manter a bordo, juntamente com a licença de pesca, cópia das comunicações feitas no cumprimento do número anterior, e respectivo comprovativo de envio, sob pena de, não constando, se considerarem como inexistentes para todos os legais efeitos, sem prejuízo do disposto nos números seguintes.\n\n3 - Não tendo sido dado cumprimento ao disposto nos números anteriores, a embarcação só pode manter a bordo artes regulamentadas, desde que arrumadas nos termos do artigo 47.º do Regulamento (CE) n.º 1224/2009, do Conselho, de 20 de Novembro.\n\n4 - No início de cada período de gestão e relativamente a cada uma das embarcações a que se refere o n.º 1, a DGPA informa os respectivos armadores das condições de exercício da actividade a que ficam obrigados e das medidas de acompanhamento adoptadas.\n\n5 - Mensalmente, até ao dia 5 de cada mês, é remetido à DGPA, através dos meios de comunicação referidos no n.º 1 do artigo 4.º, relatório da actividade mensal exercida no mês anterior, de acordo com modelo disponibilizado pela DGPA.\n\n6 - A DGPA disponibiliza, na sua página na Internet (www.dgpa.min-agricultura.pt) o apuramento dos dias de actividade de cada embarcação.\n\n7 - Os armadores podem, no prazo de uma semana, informar a DGPA de alterações que considerem pertinentes relativamente a esse apuramento, anexando a documentação de suporte.\n\n8 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º é responsável pela gestão da sua actividade sendo proibida a pesca com as artes regulamentadas se tiver atingido o número máximo de dias que foi autorizado a pescar.\n\n9 - A transferência de dias de pesca, nas condições previstas na regulamentação comunitária aplicável, fica sujeita a autorização prévia da DGPA, a qual tem de ser solicitada com uma antecedência mínima de 15 dias relativamente à data pretendida, sendo objecto de decisão no prazo de 10 dias.\n\n10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objecto de redistribuição, por despacho do director-geral das Pescas e Aquicultura, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522663": {
+   "fragment_id": "215459632",
+   "type": 11,
+   "heading": "Artigo 5.º — Proibição de pesca",
+   "in_force_from": "2010-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 5.º — Proibição de pesca\n\n1 - É proibida a pesca de pescada branca do Sul sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação constante da lista referida no n.º 2 do artigo 1.º, haja pescado a totalidade da respectiva quota individual ou, independentemente de tal facto, quando haja sido encerrada a captura relativamente a todas as embarcações de tal lista;\n\nb) Quando, tratando-se de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, a quota ali prevista se encontre esgotada, ou seja encerrada a pesca na zona do respectivo registo por a quota da respectiva zona se encontrar esgotada, não sendo permitida, neste caso, a pesca, manutenção a bordo ou desembarque de pescada noutra zona, a menos que a embarcação em causa tenha beneficiado de transferência de quota, nos termos previstos na alínea b) do n.º 1 do artigo 2.º\n\nc) Por todas as embarcações da frota nacional, quando for determinado o encerramento total da pesca de pescada branca do Sul, em virtude de as capturas anuais efectuadas terem atingido o limite da quota portuguesa.\n\n2 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n3 - Sem prejuízo das contra-ordenações a que haja lugar, sempre que se verifique que qualquer embarcação constante da lista referida no n.º 2 do artigo 1.º pescou em quantidades superiores à respectiva quota, o excedente capturado é deduzido na respectiva quota do(s) ano(s) seguinte(s), até integral compensação daquele excesso.\n\n4 - As embarcações que se viram impossibilitadas de pescar a totalidade da respectiva quota, devido ao excesso de capturas feitas por outras, são compensadas, na medida das disponibilidades, na quota do ano seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215522664": {
+   "fragment_id": "215459634",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposição transitória",
+   "in_force_from": "2010-05-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 7.º — Disposição transitória\n\n1 - Os dias de pesca utilizados desde 1 de Fevereiro de 2009 até à entrada em vigor do presente diploma são contabilizados no período de gestão que se iniciou naquela data.\n\n2 - As quantidades capturadas e desembarcadas desde 1 de Janeiro de 2009 até à entrada em vigor do presente diploma serão contabilizados na quota relativa a 2009.\n\n3 - Caso, à data de entrada em vigor do presente diploma, alguma embarcação já tenha ultrapassado a quota individual atribuída, fica imediatamente proibida de pescar pescada branca do Sul, aplicando-se-lhe o disposto no n.º 3 do artigo 5.º\n\n4 - Excepcionalmente, no ano de 2009, é permitida a transferência de quotas antes de 1 de Maio.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215522670": {
+   "fragment_id": "215459628",
+   "type": 11,
+   "heading": "Artigo 1.º — Repartição da quota",
+   "in_force_from": "2011-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 1.º — Repartição da quota\n\n1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação comunitária é distribuída da seguinte forma:\n\na) 62 % são repartidos, sob a forma de quotas individuais, pelas embarcações que estejam abrangidas por restrições de actividade no âmbito do Plano de Recuperação da Pescada e Lagostim, nos termos da legislação da União Europeia aplicável;\n\nb) 36 % destinam-se a ser capturados pelas restantes embarcações, mantendo os padrões históricos de actividade e limitados a 4,9 t por embarcação, de acordo com a seguinte repartição por zona:\n\ni) 19 % para as embarcações registadas na zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;\n\nii) 9 % para as embarcações registadas na zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;\n\niii) 8 % para as embarcações registadas na zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António;\n\nc) A percentagem remanescente da quota nacional destina-se a acomodar eventuais reduções da mesma por sobre pesca transitada de anos anteriores.\n\n2 - A repartição por embarcação a que se refere a alínea a) do número anterior respeitará a média das capturas de pescada branca do Sul registadas pelas mesmas, tomando por base os dois melhores anos do triénio de 2004 a 2006, ajustada em função do previsto no n.º 5 do presente artigo e no n.º 6 do artigo 2.º, arredondada à centena de quilograma, e constará de lista a aprovar pelo director-geral das Pescas e Aquicultura, a publicitar no sítio www.dgpa.min-agricultura.pt.\n\n3 - Sem prejuízo do disposto no número seguinte, a mudança de porto de registo das embarcações a que se refere a alínea b) do n.º 1 e que implique mudança entre as zonas indicadas nas respectivas subalíneas determina a proibição de captura de pescada branca do Sul.\n\n4 - O disposto no número anterior não tem aplicação nos casos em que a mudança de porto de registo resulta da venda da embarcação.\n\n5 - As quotas por embarcação a atribuir às embarcações cuja quota em 2010, calculada com base no n.º 2, sejam inferiores a 5 t são ajustadas para este valor e, além disso, as quotas em 2010 cujo valor seja inferior a 20 t são majoradas na percentagem de 4 % da quota a dividir pelo número de embarcações nessa situação.\n\n6 - As embarcações abrangidas por limitações de esforço até ao ano de 2010 e que, para 2011, não estejam abrangidas pela alínea a) do n.º 1, mas que tenham registo de desembarques em 2010 superiores a 5 t, podem continuar a dispor de quota individual, calculada nos termos do n.º 2, devendo solicitá-lo à DGPA no prazo de 10 dias após a publicação da presente portaria, ficando, nesse caso, abrangidas pelo regime de controlo do esforço previstos no artigo 4.º da presente portaria.\n\n7 - Nesse caso, a percentagem prevista nas alíneas a) e b) do presente artigo é ajustada em função do histórico de capturas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215522671": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quotas",
+   "in_force_from": "2011-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de quotas\n\n1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre as embarcações a que se refere a alínea a) do n.º 1 do artigo 1.º, constantes da lista aí prevista, e a cedência de quotas a favor das embarcações do n.º 6 do artigo 1.º mas não destas para as primeiras.\n\n2 - A transferência de quotas tem de ser previamente comunicada à Direcção-Geral das Pescas e Aquicultura (DGPA), em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.\n\n3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.\n\n4 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respectiva quota é objecto de redistribuição, no ano seguinte, por despacho do director-geral das Pescas e Aquicultura, respeitando a proporcionalidade prevista nas alíneas a) e b) do n.º 1 do artigo 1.º\n\n5 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º\n\n6 - As capturas efectuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis, nem constituem direitos para os efeitos de alterações à chave de repartição.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515677": {
+   "fragment_id": "215459628",
+   "type": 11,
+   "heading": "Artigo 1.º — Repartição da quota",
+   "in_force_from": "2012-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 1.º — Repartição da quota\n\n1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação da União Europeia é distribuída da seguinte forma:\n\na) 71 % são repartidos, sob a forma de quotas individuais, pelas embarcações que estejam abrangidas por restrições de atividade no âmbito do Plano de Recuperação da pescada e do lagostim, nos termos da legislação europeia aplicável;\n\nb) 27 % destinam-se a ser capturados pelas restantes embarcações, mantendo os padrões históricos da atividade e limitados a 4,9 toneladas por embarcação, de acordo com a seguinte repartição por zona:\n\ni) 13 % para as embarcações registadas na zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;\n\nii) 8 % para as embarcações registadas na zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;\n\niii) 6 % para as embarcações registadas na zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António;\n\nc) A percentagem remanescente da quota nacional destina-se a acomodar eventuais reduções da mesma por sobrepesca transitada de anos anteriores e, na medida do possível, as quantidades a atribuir às embarcações referidas no n.º 6.\n\n2 - A repartição por embarcação a que se refere a alínea a) do número anterior tem por base as quotas atribuídas em 2011, majoradas numa quantidade fixa que resulta da repartição de 15 % da quota nacional por todas as embarcações com quota atribuída, arredondada à centena de quilograma e constará de lista a aprovar pelo Diretor-Geral dos Recursos Naturais, Segurança e Serviços Marítimos, a publicitar no sítio www.dgrm.min-agricultura.pt.\n\n3 - Sem prejuízo do disposto no número seguinte, a mudança de porto de registo das embarcações a que se refere a alínea b) do n.º 1 e que implique mudança entre as zonas indicadas nas respectivas subalíneas determina a proibição de captura de pescada branca do Sul.\n\n4 - O disposto no número anterior não tem aplicação nos casos em que a mudança de porto de registo resulta da venda da embarcação.\n\n5 - As quotas das embarcações que já tenham estado incluídas no Plano da Recuperação da pescada e lagostim noutros anos, que não em 2011, são calculadas com base no histórico 2004-2006, com quota ajustada a 2011 e majorada nos termos do n.º 2.\n\n6 - As embarcações abrangidas por limitações de esforço de pesca em 2011, ao abrigo da Portaria n.º 187/2009, de 20 de fevereiro, mas que, em 2012, não estejam abrangidas pela alínea a) do n.º 1 e apresentem registo de descargas, em 2011, superiores a 5 toneladas, podem continuar a dispor de quota individual, calculada nos termos do n.º 2, ficando, nesse caso, abrangidas pelo regime de controlo do esforço de pesca previsto no artigo 4.º da presente portaria.\n\n7 - Verificando-se a situação prevista no número anterior, a percentagem estabelecida nas alíneas a) e c) do n.º 1 é ajustada em conformidade com a saída de embarcações incluídas na alínea b).\n\n8 - As embarcações incluídas na alínea b) do n.º 1 que ultrapassem as 5 toneladas durante o período de gestão passam a ter a atividade restringida nos termos da regulamentação europeia, sendo esta proporcional ao período em que integrem o plano de recuperação e sem quota atribuída.\n\n9 - Eventuais aumentos da quota nacional resultantes da não utilização integral da quota do ano anterior são repartidos numa quantidade fixa por todas as embarcações com quota atribuída, constantes dos n.os 1 e 6 do presente artigo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215515679": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quotas",
+   "in_force_from": "2012-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de quotas\n\n1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre as embarcações a que se refere a alínea a) do n.º 1 do artigo 1.º, constantes da lista aí prevista, e a cedência de quotas a favor das embarcações do n.º 6 do artigo 1.º mas não destas para as primeiras.\n\n2 - A transferência de quotas tem de ser previamente comunicada à Direcção-Geral das Pescas e Aquicultura (DGRM), em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.\n\n3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.\n\n4 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respectiva quota é objecto de redistribuição, no ano seguinte, por despacho do director-geral das Pescas e Aquicultura, respeitando a proporcionalidade prevista nas alíneas a) e b) do n.º 1 do artigo 1.º\n\n5 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º\n\n6 - As capturas efectuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis, nem constituem direitos para os efeitos de alterações à chave de repartição.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515678": {
+   "fragment_id": "215459631",
+   "type": 11,
+   "heading": "Artigo 4.º — Esforço de pesca",
+   "in_force_from": "2012-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Esforço de pesca\n\n1 - É obrigatória a comunicação prévia à DGRM por telecópia, ou correio electrónico, através dos endereços indicados para o efeito no sítio da DGRM, por parte dos armadores ou dos mestres das embarcações de pesca referidas no n.º 2 do artigo 1.º:\n\na) Da data prevista para o início da actividade de pesca com as artes regulamentadas de arrasto, redes de emalhar de um pano e palangre de fundo, a menos que as embarcações em causa apenas disponham de licença para a utilização de artes regulamentadas;\n\nb) Da data de alteração da utilização de uma arte regulamentada para não regulamentada ou vice-versa no caso de embarcações que disponham de licença para o exercício da pesca com artes regulamentadas e não regulamentadas;\n\nc) Das situações de trânsito entre portos ou atravessamento de área regulamentada.\n\n2 - Os armadores ou os mestres das embarcações são obrigados a manter a bordo, juntamente com a licença de pesca, cópia das comunicações feitas no cumprimento do número anterior, e respectivo comprovativo de envio, sob pena de, não constando, se considerarem como inexistentes para todos os legais efeitos, sem prejuízo do disposto nos números seguintes.\n\n3 - Não tendo sido dado cumprimento ao disposto nos números anteriores, a embarcação só pode manter a bordo artes regulamentadas, desde que arrumadas nos termos do artigo 47.º do Regulamento (CE) n.º 1224/2009, do Conselho, de 20 de Novembro.\n\n4 - No início de cada período de gestão e relativamente a cada uma das embarcações a que se refere o n.º 1, a DGRM informa os respectivos armadores das condições de exercício da actividade a que ficam obrigados e das medidas de acompanhamento adoptadas.\n\n5 - Mensalmente, até ao dia 5 de cada mês, é remetido à DGRM, através dos meios de comunicação referidos no n.º 1, o relatório da atividade mensal exercida no mês anterior, de acordo com modelo disponibilizado pela DGRM, podendo ser excluídas desta obrigatoriedade, por despacho do Diretor-Geral, publicitado na sua página na Internet (www.dgrm.min-agricultura.pt), as embarcações relativamente às quais se verifique que é possível obter as informações necessárias ao controlo do esforço de pesca através das comunicações de atividade via diário de pesca eletrónico.\n\n6 - A DGRM disponibiliza, na sua página na Internet (www.dgpa.min-agricultura.pt) o apuramento dos dias de actividade de cada embarcação.\n\n7 - Os armadores podem, no prazo de uma semana, informar a DGRM de alterações que considerem pertinentes relativamente a esse apuramento, anexando a documentação de suporte.\n\n8 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º é responsável pela gestão da sua actividade sendo proibida a pesca com as artes regulamentadas se tiver atingido o número máximo de dias que foi autorizado a pescar.\n\n9 - A transferência de dias de pesca, nas condições previstas na regulamentação comunitária aplicável, fica sujeita a autorização prévia da DGRM, a qual tem de ser solicitada com uma antecedência mínima de 15 dias relativamente à data pretendida, sendo objecto de decisão no prazo de 10 dias.\n\n10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objecto de redistribuição, por despacho do director-geral das Pescas e Aquicultura, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515705": {
+   "fragment_id": "215459628",
+   "type": 11,
+   "heading": "Artigo 1.º — Repartição e gestão da quota",
+   "in_force_from": "2013-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 1.º — Repartição e gestão da quota\n\n1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação da União Europeia é repartida, anualmente, por despacho do diretor-geral da Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), entre os seguintes conjuntos de embarcações:\n\na) Embarcações abrangidas por restrições de atividade no âmbito do plano de recuperação da pescada branca do Sul e do lagostim ou abrangidas pelo disposto no n.º 5;\n\nb) Restantes embarcações, mediante a seguinte distribuição geográfica:\n\ni) Zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;\n\nii) Zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;\n\niii) Zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António.\n\n2 - A repartição da quota a que se refere a alínea a) do número anterior é efetuada anualmente em função das embarcações que, por via da regulamentação europeia, fiquem incluídas, com restrições da atividade, no plano de recuperação da pescada branca do Sul e do lagostim ou abrangidas pelo disposto no n.º 5, tendo por base a chave de repartição verificada no ano anterior, constando de lista a publicitar nos termos do n.º 10.\n\n3 - A variação anual verificada na quota portuguesa de pescada, incluindo, caso aplicável, o aumento resultante da não utilização integral desta quota no ano anterior, é repercutida, de forma proporcional, nos grupos de embarcações previstos no n.º 1.\n\n4 - Verificando-se o aumento da quota disponível para o conjunto de embarcações a que se refere a alínea a) do n.º 1, este é distribuído, de forma equitativa, pelas embarcações em causa.\n\n5 - As embarcações que, num determinado ano, deixem de estar incluídas, com restrições da atividade, no plano de recuperação da pescada branca do Sul e do lagostim, podem manter-se no plano, dispondo da respetiva quota individual, desde que, no ano anterior, apresentem um registo de descargas igual ou superior a 5 toneladas.\n\n6 - As embarcações que, num determinado ano, passem a integrar o conjunto de embarcações com restrições de atividade, ficam sujeitas a um limite anual de descargas de pescada branca do Sul definido no despacho referido no n.º 1.\n\n7 - As embarcações incluídas na alínea b) do n.º 1 que ultrapassem as 5 toneladas num determinado período de gestão passam a ter a atividade restringida no período de gestão em causa, nos termos da regulamentação europeia, sendo esta proporcional ao período em que integrem o plano de recuperação, não tendo quota atribuída e estando sujeitas a um limite anual de descargas de pescada definido no despacho referido no n.º 1.\n\n8 - Sem prejuízo do disposto no número seguinte, a mudança de porto de registo no decurso de um determinado ano, das embarcações a que se refere a alínea b) do n.º 1 e que implique mudança entre as zonas indicadas nas respetivas subalíneas determina a proibição de captura de pescada branca do Sul no ano em causa.\n\n9 - O disposto no número anterior não tem aplicação nos casos em que a mudança de porto de registo resulta da venda da embarcação.\n\n10 - A repartição das quotas prevista nos n.º 1 e n.º 2 é divulgada na página da Internet da DGRM em www.dgrm.min-agricultura.pt.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215515706": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quota",
+   "in_force_from": "2013-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de quota\n\n1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre as embarcações a que se refere a alínea a) do n.º 1 do artigo 1.º, e a cedência de quotas a favor das embarcações a que se refere o n.º 7 do artigo 1.º, até ao limite definido no despacho referido no n.º 1 do mesmo artigo.\n\n2 - A transferência de quotas é previamente comunicada à DGRM, em documento subscrito pelos proprietários ou armadores das embarcações envolvidas ou pelas respetivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.\n\n3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.\n\n4 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respetiva quota é objecto de redistribuição no ano seguinte, do modo previsto no n.º 4 do artigo 1.º, por despacho do diretor-geral da DGRM.\n\n5 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º\n\n6 - As capturas efetuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515707": {
+   "fragment_id": "215459630",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão das capturas",
+   "in_force_from": "2013-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 3.º — Gestão das capturas\n\n1 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º é responsável pela gestão das quotas atribuídas ou das quantidades disponíveis por via da transferência de quotas.\n\n2 - Para efeitos de cálculo das quantidades capturadas é tomada por base a estimativa de peso à saída de água, utilizando-se, para o efeito, os seguintes factores de conversão:\n\na) Eviscerado - 1,11;\n\nb) Eviscerado e descabeçado - 1,40.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515708": {
+   "fragment_id": "215459631",
+   "type": 11,
+   "heading": "Artigo 4.º — Esforço de pesca",
+   "in_force_from": "2013-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Esforço de pesca\n\n1 - É obrigatória a comunicação prévia à DGRM, por telecópia ou correio eletrónico, através dos endereços indicados para o efeito no sítio da Internet da DGRM, por parte dos armadores ou dos mestres das embarcações de pesca referidas nos n.º 2 e n.º 7 do artigo 1.º:\n\na) Da data prevista para o início da atividade de pesca com as artes regulamentadas de arrasto, redes de emalhar de um pano e palangre de fundo, a menos que as embarcações em causa apenas disponham de licença para a utilização de artes regulamentadas;\n\nb) Da data de alteração da utilização de uma arte regulamentada para não regulamentada ou vice-versa no caso de embarcações que disponham de licença para o exercício da pesca com artes regulamentadas e não regulamentadas;\n\nc) Das situações de trânsito entre portos ou atravessamento de área regulamentada.\n\n2 - Os armadores ou os mestres das embarcações são obrigados a manter a bordo, juntamente com a licença de pesca, cópia das comunicações feitas no cumprimento do número anterior, e respectivo comprovativo de envio, sob pena de, não constando, se considerarem como inexistentes para todos os legais efeitos, sem prejuízo do disposto nos números seguintes.\n\n3 - Não tendo sido dado cumprimento ao disposto nos números anteriores, a embarcação só pode manter a bordo artes regulamentadas, desde que arrumadas nos termos do artigo 47.º do Regulamento (CE) n.º 1224/2009, do Conselho, de 20 de Novembro.\n\n4 - No início de cada período de gestão e relativamente a cada uma das embarcações a que se refere o n.º 1, a DGRM informa os respetivos armadores das condições de exercício da atividade a que ficam obrigados e das medidas de acompanhamento adotadas.\n\n5 - Mensalmente, até ao dia 8 de cada mês, é remetido à DGRM, através dos meios de comunicação referidos no n.º 1, o relatório da atividade mensal exercida no mês anterior, de acordo com modelo disponibilizado pela DGRM, podendo ser excluídas desta obrigatoriedade, por despacho do diretor-geral da DGRM, publicitado na sua página na Internet, as embarcações relativamente às quais se verifique que é possível obter as informações necessárias ao controlo do esforço de pesca através das comunicações de atividade via diário de pesca eletrónico.\n\n6 - A DGRM disponibiliza, na sua página na Internet, o apuramento dos dias de atividade de cada embarcação.\n\n7 - Os armadores podem, no prazo de 10 dias, informar a DGRM de alterações que considerem relevantes relativamente a esse apuramento, anexando a documentação de suporte.\n\n8 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º ou abrangidas pelo n.º 7 do mesmo artigo é responsável pela gestão da sua atividade sendo proibida a captura de pescada branca do Sul, com artes regulamentadas, em quantidades iguais ou superiores a 4 % do peso vivo total do pescado capturado em cada maré após ter sido atingido o número máximo de dias que foi autorizado a pescar.\n\n9 - A transferência de dias de pesca, nas condições previstas na regulamentação comunitária aplicável, fica sujeita a autorização prévia da DGRM, a qual tem de ser solicitada com uma antecedência mínima de 15 dias relativamente à data pretendida, sendo objeto de decisão no prazo de 10 dias.\n\n10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objeto de redistribuição, por despacho do diretor-geral da DGRM, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515709": {
+   "fragment_id": "215459632",
+   "type": 11,
+   "heading": "Artigo 5.º — Proibição de pesca",
+   "in_force_from": "2013-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 5.º — Proibição de pesca\n\n1 - É proibida a pesca de pescada branca do Sul sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação constante da lista referida no n.º 2 do artigo 1.º, haja pescado a totalidade da respectiva quota individual ou, independentemente de tal facto, quando haja sido encerrada a captura relativamente a todas as embarcações de tal lista;\n\nb) Quando, tratando-se de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, a quota ali prevista se encontre esgotada, tenha sido atingido o limite de descargas definido no despacho referido no n.º 1 do artigo 1.º ou seja encerrada a pesca na zona do respetivo registo por a quota da respetiva zona se encontrar esgotada, não sendo permitida, neste caso, a pesca, manutenção a bordo ou desembarque de pescada noutra zona;\n\nc) Por todas as embarcações da frota nacional, quando for determinado o encerramento total da pesca de pescada branca do Sul, em virtude de as capturas anuais efectuadas terem atingido o limite da quota portuguesa.\n\n2 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n3 - Sem prejuízo das contra-ordenações a que haja lugar, sempre que se verifique que qualquer embarcação constante da lista referida no n.º 2 do artigo 1.º pescou em quantidades superiores à respectiva quota, o excedente capturado é deduzido na respectiva quota do(s) ano(s) seguinte(s), até integral compensação daquele excesso.\n\n4 - As embarcações que se viram impossibilitadas de pescar a totalidade da respectiva quota, devido ao excesso de capturas feitas por outras, são compensadas, na medida das disponibilidades, na quota do ano seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515722": {
+   "fragment_id": "215459628",
+   "type": 11,
+   "heading": "Artigo 1.º — Repartição e gestão da quota",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 1.º — Repartição e gestão da quota\n\n1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação da União Europeia é repartida, anualmente, por despacho do diretor-geral da Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), entre os seguintes conjuntos de embarcações:\n\na) Embarcações abrangidas por restrições de atividade no âmbito do plano de recuperação da pescada branca do Sul e do lagostim ou abrangidas pelo disposto no n.º 5;\n\nb) Restantes embarcações, mediante a seguinte distribuição geográfica:\n\ni) Zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;\n\nii) Zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;\n\niii) Zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António.\n\n2 - A repartição da quota a que se refere a alínea a) do número anterior é efetuada anualmente em função das embarcações que, por via da regulamentação europeia, fiquem incluídas, com restrições da atividade, no plano de recuperação da pescada branca do Sul e do lagostim ou abrangidas pelo disposto no n.º 5, tendo por base a chave de repartição verificada no ano anterior, constando de lista a publicitar nos termos do n.º 10.\n\n3 - A variação anual verificada na quota portuguesa de pescada, incluindo, caso aplicável, o aumento resultante da não utilização integral desta quota no ano anterior, é repercutida, de forma proporcional, nos grupos de embarcações previstos no n.º 1.\n\n4 - Verificando-se o aumento da quota disponível para o conjunto de embarcações a que se refere a alínea a) do n.º 1, este é distribuído, de forma equitativa, pelas embarcações em causa.\n\n5 - As embarcações que, num determinado ano, deixem de estar incluídas, com restrições da atividade, no plano de recuperação da pescada branca do Sul e do lagostim, podem manter-se no plano, dispondo da respetiva quota individual, desde que, no ano anterior, apresentem um registo de descargas igual ou superior a 5 toneladas.\n\n6 - As embarcações que, num determinado ano, passem a integrar o conjunto de embarcações com restrições de atividade, ficam sujeitas a um limite anual de descargas de pescada branca do Sul definido no despacho referido no n.º 1.\n\n7 - As embarcações incluídas na alínea b) do n.º 1 que ultrapassem as 5 toneladas num determinado período de gestão passam a ter a atividade restringida no período de gestão em causa, nos termos da regulamentação europeia, sendo esta proporcional ao período em que integrem o plano de recuperação, não tendo quota atribuída e estando sujeitas a um limite anual de descargas de pescada definido no despacho referido no n.º 1.\n\n8 - Sem prejuízo do disposto no número seguinte, a mudança de porto de registo no decurso de um determinado ano, das embarcações a que se refere a alínea b) do n.º 1 e que implique mudança entre as zonas indicadas nas respetivas subalíneas determina a proibição de captura de pescada branca do Sul no ano em causa.\n\n9 - O disposto no número anterior não tem aplicação nos casos em que a mudança de porto de registo resulta da venda da embarcação.\n\n10 - A repartição das quotas prevista nos n.º 1 e n.º 2 é divulgada na página da Internet da DGRM em www.dgrm.min-agricultura.pt.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215515723": {
+   "fragment_id": "215459629",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de quota",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de quota\n\n1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre as embarcações a que se refere a alínea a) do n.º 1 do artigo 1.º, e a cedência de quotas a favor das embarcações a que se refere o n.º 7 do artigo 1.º, até ao limite definido no despacho referido no n.º 1 do mesmo artigo.\n\n2 - A transferência de quotas é previamente comunicada à DGRM, em documento subscrito pelos proprietários ou armadores das embarcações envolvidas ou pelas respetivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.\n\n3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.\n\n4 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respetiva quota é objecto de redistribuição no ano seguinte, do modo previsto no n.º 4 do artigo 1.º, por despacho do diretor-geral da DGRM.\n\n5 - A transferência de quantidade de pescada branca do Sul que a embarcação cedente já não possui em virtude de a ter utilizado determina que as quantidades capturadas são contabilizadas na embarcação que efectivamente as pescou, considerando-se, se esse for o caso, como pesca proibida, nos termos do artigo 5.º\n\n6 - As capturas efetuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2011 - Diário da República n.º 62/2011, Série I de 2011-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614), em vigor a partir de 2011-03-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515724": {
+   "fragment_id": "215459630",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão das capturas",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 3.º — Gestão das capturas\n\n1 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º é responsável pela gestão das quotas atribuídas ou das quantidades disponíveis por via da transferência de quotas.\n\n2 - Para efeitos de cálculo das quantidades capturadas é tomada por base a estimativa de peso à saída de água, utilizando-se, para o efeito, os seguintes factores de conversão:\n\na) Eviscerado - 1,11;\n\nb) Eviscerado e descabeçado - 1,40.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515725": {
+   "fragment_id": "215459631",
+   "type": 11,
+   "heading": "Artigo 4.º — Esforço de pesca",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Esforço de pesca\n\n1 - É obrigatória a comunicação prévia à DGRM, por telecópia ou correio eletrónico, através dos endereços indicados para o efeito no sítio da Internet da DGRM, por parte dos armadores ou dos mestres das embarcações de pesca referidas nos n.º 2 e n.º 7 do artigo 1.º:\n\na) Da data prevista para o início da atividade de pesca com as artes regulamentadas de arrasto, redes de emalhar de um pano e palangre de fundo, a menos que as embarcações em causa apenas disponham de licença para a utilização de artes regulamentadas;\n\nb) Da data de alteração da utilização de uma arte regulamentada para não regulamentada ou vice-versa no caso de embarcações que disponham de licença para o exercício da pesca com artes regulamentadas e não regulamentadas;\n\nc) Das situações de trânsito entre portos ou atravessamento de área regulamentada.\n\n2 - Os armadores ou os mestres das embarcações são obrigados a manter a bordo, juntamente com a licença de pesca, cópia das comunicações feitas no cumprimento do número anterior, e respectivo comprovativo de envio, sob pena de, não constando, se considerarem como inexistentes para todos os legais efeitos, sem prejuízo do disposto nos números seguintes.\n\n3 - Não tendo sido dado cumprimento ao disposto nos números anteriores, a embarcação só pode manter a bordo artes regulamentadas, desde que arrumadas nos termos do artigo 47.º do Regulamento (CE) n.º 1224/2009, do Conselho, de 20 de Novembro.\n\n4 - No início de cada período de gestão e relativamente a cada uma das embarcações a que se refere o n.º 1, a DGRM informa os respetivos armadores das condições de exercício da atividade a que ficam obrigados e das medidas de acompanhamento adotadas.\n\n5 - Mensalmente, até ao dia 8 de cada mês, é remetido à DGRM, através dos meios de comunicação referidos no n.º 1, o relatório da atividade mensal exercida no mês anterior, de acordo com modelo disponibilizado pela DGRM, podendo ser excluídas desta obrigatoriedade, por despacho do diretor-geral da DGRM, publicitado na sua página na Internet, as embarcações relativamente às quais se verifique que é possível obter as informações necessárias ao controlo do esforço de pesca através das comunicações de atividade via diário de pesca eletrónico.\n\n6 - A DGRM disponibiliza, na sua página na Internet, o apuramento dos dias de atividade de cada embarcação.\n\n7 - Os armadores podem, no prazo de 10 dias, informar a DGRM de alterações que considerem relevantes relativamente a esse apuramento, anexando a documentação de suporte.\n\n8 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º ou abrangidas pelo n.º 7 do mesmo artigo é responsável pela gestão da sua atividade sendo proibida a captura de pescada branca do Sul, com artes regulamentadas, em quantidades iguais ou superiores a 4 % do peso vivo total do pescado capturado em cada maré após ter sido atingido o número máximo de dias que foi autorizado a pescar.\n\n9 - A transferência de dias de pesca, nas condições previstas na regulamentação comunitária aplicável, fica sujeita a autorização prévia da DGRM, a qual tem de ser solicitada com uma antecedência mínima de 15 dias relativamente à data pretendida, sendo objeto de decisão no prazo de 10 dias.\n\n10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objeto de redistribuição, por despacho do diretor-geral da DGRM, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 177/2012 - Diário da República n.º 106/2012, Série I de 2012-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796), em vigor a partir de 2012-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515726": {
+   "fragment_id": "215459632",
+   "type": 11,
+   "heading": "Artigo 5.º — Proibição de pesca",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+   ],
+   "markdown": "###### Artigo 5.º — Proibição de pesca\n\n1 - É proibida a pesca de pescada branca do Sul sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação constante da lista referida no n.º 2 do artigo 1.º, haja pescado a totalidade da respectiva quota individual ou, independentemente de tal facto, quando haja sido encerrada a captura relativamente a todas as embarcações de tal lista;\n\nb) Quando, tratando-se de embarcações referidas na alínea b) do n.º 1 do artigo 1.º, a quota ali prevista se encontre esgotada, tenha sido atingido o limite de descargas definido no despacho referido no n.º 1 do artigo 1.º ou seja encerrada a pesca na zona do respetivo registo por a quota da respetiva zona se encontrar esgotada, não sendo permitida, neste caso, a pesca, manutenção a bordo ou desembarque de pescada noutra zona;\n\nc) Por todas as embarcações da frota nacional, quando for determinado o encerramento total da pesca de pescada branca do Sul, em virtude de as capturas anuais efectuadas terem atingido o limite da quota portuguesa.\n\n2 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n3 - Sem prejuízo das contra-ordenações a que haja lugar, sempre que se verifique que qualquer embarcação constante da lista referida no n.º 2 do artigo 1.º pescou em quantidades superiores à respectiva quota, o excedente capturado é deduzido na respectiva quota do(s) ano(s) seguinte(s), até integral compensação daquele excesso.\n\n4 - As embarcações que se viram impossibilitadas de pescar a totalidade da respectiva quota, devido ao excesso de capturas feitas por outras, são compensadas, na medida das disponibilidades, na quota do ano seguinte.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2013 - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123), em vigor a partir de 2013-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 678-A/2009 - Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), em vigor a partir de 2009-06-24"
+  },
+  "215515727": {
+   "fragment_id": "215459633",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo e comunicação",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Registo e comunicação\n\nSem prejuízo de outras obrigações constantes do presente diploma ou de outra legislação nacional ou comunitária, os armadores, mestres ou capitães de quaisquer embarcações ficam obrigados ao registo, no diário de pesca, das quantidades de pescada branca do Sul que devolverem ao mar.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+  },
+  "215515728": {
+   "fragment_id": "215459634",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposição transitória",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16",
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+   ],
+   "markdown": "###### Artigo 7.º — Disposição transitória\n\n1 - Os dias de pesca utilizados desde 1 de Fevereiro de 2009 até à entrada em vigor do presente diploma são contabilizados no período de gestão que se iniciou naquela data.\n\n2 - As quantidades capturadas e desembarcadas desde 1 de Janeiro de 2009 até à entrada em vigor do presente diploma serão contabilizados na quota relativa a 2009.\n\n3 - Caso, à data de entrada em vigor do presente diploma, alguma embarcação já tenha ultrapassado a quota individual atribuída, fica imediatamente proibida de pescar pescada branca do Sul, aplicando-se-lhe o disposto no n.º 3 do artigo 5.º\n\n4 - Excepcionalmente, no ano de 2009, é permitida a transferência de quotas antes de 1 de Maio.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 246/2010 - Diário da República n.º 85/2010, Série I de 2010-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2010-614301), em vigor a partir de 2010-05-04"
+  },
+  "215515729": {
+   "fragment_id": "215459635",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições finais",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+   ],
+   "markdown": "###### Artigo 8.º — Disposições finais\n\n1 - As quotas atribuídas nos termos da presente portaria não constituem direitos adquiridos, podendo ser, a todo o tempo, retiradas ou diminuídas em resultado de decisões nacionais ou comunitárias no âmbito da conservação e gestão de recursos.\n\n2 - As embarcações que substituam outras constantes da lista prevista no n.º 2 do artigo 1.º mantêm as quotas das embarcações substituídas, ficando sujeitas ao cumprimento das condições decorrentes do regulamento anual de TAC e quotas e do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R2166\" title=\"Link para Regulamento da Comunidade Europeia\">2166/2005</a>, do Conselho, de 20 de Dezembro.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+  },
+  "215515730": {
+   "fragment_id": "215459636",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+   ],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogada a Portaria n.º 612/2007, de 21 de Maio.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+  },
+  "215515731": {
+   "fragment_id": "215459637",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+   ],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Fevereiro de 2009.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 198/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/198-2023-215486102), em vigor a partir de 2023-07-16"
+  }
+ }
+}

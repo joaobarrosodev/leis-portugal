@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:439140:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-920134044",
+ "dre_path": "/dr/detalhe/portaria/1271-2008-439140",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "2008-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920131958"
+   ]
+  }
+ ],
+ "fragments": {
+  "920131958": {
+   "fragment_id": "920134045",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1271/2008\n\nde 6 de Novembro\n\nCom fundamento no disposto no artigo 26.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Pampilhosa da Serra:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  }
+ }
+}

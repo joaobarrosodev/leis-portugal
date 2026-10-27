@@ -1,0 +1,456 @@
+---
+schema_version: '1.0'
+id: pt:dre:356346:por
+title: Decreto Regulamentar Regional n.º 22/2006/A
+short_title: null
+summary: Aprova a orgânica do Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Secretaria Regional da Economia
+proposing_entity: null
+official_number: 22/2006/A
+official_date: null
+publication_date: '2006-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2006, Série I-B de 2006-06-29
+  number: '124'
+  series: I
+  supplement: null
+  pages: 4628 - 4632
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/124b00/46284632.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/22/2006/06/29/a/dre/pt/html
+  oj: null
+  dre: '356346'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/22-2006-356346
+  internal: pt:dre:356346:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2006-356346
+  metadata_url: https://data.dre.pt/eli/decregulreg/22/2006/06/29/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2006-356346
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e96a248039cfa7301e8f8592e757cc2a40a2a8c43f1a939a115b8ca92c69888e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Conselho Diretivo
+- Direcção Regional do Orçamento e Tesouro
+- Fiscal Único
+- Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:191142:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Secretário Regional do Turismo e Transportes, do Fundo Regional de\
+    \ Apoio à Coesão e ao Desenvolvimento Económico, anteriormente no âmbito da Secretaria Regional da Economia, pelo DRR.24/2012/A.27.11.2012.PG-RAA,\
+    \ DR.IS [229] de 27.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:237385:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2005/07/20/a/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+article_structure:
+  article_count: 23
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:30:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 22/2006/A
+
+O [Decreto Legislativo Regional n.º 17/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2005-237385), de 20 de Julho, definiu o enquadramento jurídico do Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico, abreviadamente designado por Fundo Regional de Coesão, o qual integra um conjunto de instrumentos de intervenção pública vocacionados para a promoção da coesão económica, social e territorial de modo a favorecer o crescimento sustentado da economia regional. Importa, por isso, fixar as competências dos órgãos e serviços que integram o Fundo Regional de Coesão e definir o modo do seu funcionamento.
+
+O presente diploma visa cumprir aquele objectivo, dotando o Fundo Regional de Coesão de uma estrutura adequada ao cumprimento da sua missão procurando que seja, por um lado, funcional, e por outro, eficiente e eficaz nas intervenções que venha a realizar no âmbito da coordenação e gestão dos recursos financeiros que lhe são atribuídos.
+
+Assim, em execução do disposto no n.º 2 do artigo 6.º do [Decreto Legislativo Regional n.º 17/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2005-237385), de 20 de Julho, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovada a orgânica do Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico, abreviadamente designado por Fundo Regional de Coesão e o respectivo quadro de pessoal, constantes dos anexos I e II ao presente diploma, do qual fazem parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 4 de Maio de 2006.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 7 de Junho de 2006.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
+
+## ANEXO I — Orgânica do Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico
+
+TÍTULO I
+
+Órgãos, serviços e suas competências
+
+### CAPÍTULO I — Órgãos e suas competências
+
+###### Artigo 1.º — Órgãos
+
+O Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico, abreviadamente designado por Fundo Regional de Coesão, tem os seguintes órgãos:
+
+a) O conselho directivo;
+
+b) O fiscal único.
+
+#### SECÇÃO I — Conselho directivo
+
+###### Artigo 2.º — Função
+
+O conselho directivo é o órgão colegial responsável pela definição da actuação do Fundo Regional de Coesão, bem como pela direcção dos respectivos serviços, em conformidade com a lei e com as orientações governamentais.
+
+###### Artigo 3.º — Composição e nomeação
+
+1 - O conselho directivo é um órgão colegial composto por um presidente e dois vogais.
+
+2 - O presidente será substituído, nas suas faltas e impedimentos, pelo vogal que indicar e na sua falta pelo vogal mais antigo.
+
+###### Artigo 4.º — Duração e cessação do mandato
+
+O mandato dos membros do conselho directivo é de três anos, sendo renovável por iguais períodos.
+
+###### Artigo 5.º — Competência
+
+1 - Compete ao conselho directivo, no âmbito da orientação e gestão do Fundo Regional de Coesão:
+
+a) Definir a orientação geral e a política de gestão do Fundo Regional de Coesão e acompanhar a sua execução;
+
+b) Exercer os poderes relativos aos actos necessários à prossecução das atribuições do Fundo Regional de Coesão;
+
+c) Elaborar e propor à aprovação superior o plano de actividades e assegurar a respectiva execução;
+
+d) Elaborar o relatório anual das actividades;
+
+e) Elaborar o orçamento anual e assegurar a respectiva execução;
+
+f) Autorizar, mediante a assinatura do presidente e de um vogal, a realização e o pagamento de despesas;
+
+g) Arrecadar e gerir as receitas e autorizar as despesas;
+
+h) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;
+
+i) Aprovar a conta de gerência do exercício e promover o seu envio ao membro do Governo Regional com competência em matéria de economia, à Direcção Regional do Orçamento e Tesouro e à Secção Regional dos Açores do Tribunal de Contas;
+
+j) Contrair empréstimos mediante prévia autorização dos membros do Governo Regional com competência nas áreas da economia e das finanças;
+
+k) Celebrar, nos termos gerais, contratos de tarefa, de avença ou de trabalho necessários à prossecução das atribuições do Fundo Regional de Coesão;
+
+l) Gerir o património do Fundo Regional de Coesão, podendo adquirir, alienar ou onerar bens móveis, imóveis e direitos;
+
+m) Praticar os actos necessários à participação do Fundo Regional de Coesão no capital social de empresas públicas e privadas e no património social de associações, em conformidade com o disposto na lei, mediante prévia autorização do Conselho do Governo Regional;
+
+n) Exercer os poderes de direcção, gestão e disciplina do pessoal e praticar os actos respeitantes ao pessoal previstos na lei;
+
+o) Aprovar o regulamento interno e os projectos de regulamentos que sejam necessários ao desempenho das atribuições do Fundo Regional de Coesão, bem como praticar os demais actos de gestão necessários ao bom funcionamento dos serviços;
+
+p) Designar um secretário, a quem caberá certificar os actos e deliberações;
+
+q) Deliberar sobre a concessão de apoios financeiros à concretização de acções que pela sua natureza contribuam para o desenvolvimento económico da Região;
+
+r) Contratar com terceiros o fornecimento de bens ou a prestação de serviços que tenham por objecto matérias que se integrem no âmbito das atribuições do Fundo Regional de Coesão;
+
+s) Deliberar sobre a atribuição de apoios financeiros à implementação de contratos-programa, envolvendo parceiros públicos ou privados, em matérias que pela sua natureza contribuam para o desenvolvimento económico da Região.
+
+2 - O conselho directivo poderá delegar as suas competências no presidente e nos vogais.
+
+3 - Os actos administrativos da autoria do conselho directivo são impugnáveis junto dos tribunais administrativos, nos termos das leis do processo administrativo.
+
+###### Artigo 6.º — Funcionamento
+
+1 - O conselho directivo reúne ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a pedido de um dos vogais, o convoque.
+
+2 - Quando a natureza das matérias a tratar o aconselhe, o presidente poderá convocar funcionários do Fundo Regional de Coesão ou convidar representantes de quaisquer entidades públicas ou privadas a participar nas reuniões do conselho, sem direito a voto.
+
+###### Artigo 7.º — Formas de votação
+
+1 - As deliberações são tomadas por maioria dos membros do conselho, cabendo ao presidente voto de qualidade, em caso de empate.
+
+2 - As deliberações deverão ser consignadas em acta, que será assinada por todos os membros presentes na reunião ou apenas pelo presidente, no caso daqueles terem assinado a minuta da acta.
+
+###### Artigo 8.º — Competência do presidente
+
+1 - Compete, em especial, ao presidente do conselho directivo:
+
+a) Representar o Fundo Regional de Coesão em juízo e fora dele;
+
+b) Convocar as reuniões, estabelecer a ordem do dia, dirigir os trabalhos e assegurar o cumprimento das respectivas deliberações;
+
+c) Assegurar as relações com os órgãos de tutela e com os demais serviços da administração regional;
+
+d) Solicitar pareceres ao órgão de fiscalização;
+
+e) Passar certidões;
+
+f) Assinar e visar toda a correspondência recebida e expedida;
+
+g) Exercer as competências que lhe sejam delegadas pelo conselho directivo.
+
+2 - O presidente pode delegar ou subdelegar competências nos vogais.
+
+###### Artigo 9.º — Responsabilidade dos membros
+
+1 - Os membros do conselho directivo são solidariamente responsáveis pelos actos praticados no exercício das suas funções.
+
+2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração registada na respectiva acta, bem como os membros ausentes que tenham declarado por escrito o seu desacordo, que igualmente será registado em acta.
+
+###### Artigo 10.º — Estatuto dos membros
+
+1 - O presidente e os vogais do conselho directivo exercem o cargo a tempo inteiro.
+
+2 - Os cargos de presidente e de vogais do conselho directivo são equiparados, respectivamente, para todos os efeitos, a subdirector regional e a director de serviços.
+
+#### SECÇÃO II — Órgão de fiscalização
+
+###### Artigo 11.º — Função
+
+O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do Fundo Regional de Coesão.
+
+###### Artigo 12.º — Designação, mandato e remuneração
+
+1 - O fiscal único é nomeado por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de economia obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas.
+
+2 - O mandato tem a duração de três anos e é renovável por uma única vez mediante despacho conjunto dos membros do Governo referidos no número anterior.
+
+3 - No caso de cessação de mandato, o fiscal único mantém-se no exercício de funções até à efectiva substituição ou à declaração governamental de cessação de funções.
+
+4 - A remuneração do fiscal único é aprovada por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de economia, publicado no Jornal Oficial.
+
+###### Artigo 13.º — Competências
+
+1 - Compete ao fiscal único:
+
+a) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial e analisar a contabilidade;
+
+b) Dar parecer sobre o orçamento e suas revisões e alterações, bem como sobre o plano de actividades na perspectiva da sua cobertura orçamental;
+
+c) Dar parecer sobre o relatório de gestão de exercício e contas de gerência, incluindo documento de certificação legal de contas;
+
+d) Dar parecer sobre aquisição, arrendamento, alienação e oneração de bens imóveis;
+
+e) Manter o conselho directivo informado sobre os resultados das verificações e exames a que proceda;
+
+f) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;
+
+g) Propor à tutela ou ao conselho directivo a realização de auditorias externas, quando isso se revelar necessário ou conveniente;
+
+h) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho directivo, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado.
+
+2 - O prazo para a elaboração dos pareceres referidos no número anterior é de 15 dias a contar da recepção dos documentos a que respeitam.
+
+3 - Para o exercício da sua competência, o fiscal único tem direito a:
+
+a) Obter do conselho directivo as informações e os esclarecimentos que repute necessários;
+
+b) Ter livre acesso a todos os serviços e à documentação do Fundo Regional de Coesão, podendo requisitar a presença dos respectivos responsáveis e solicitar os esclarecimentos que considere necessários;
+
+c) Tomar ou propor as providências que considere indispensáveis.
+
+### CAPÍTULO II — Serviços e suas competências
+
+###### Artigo 14.º — Serviços
+
+O Fundo Regional de Coesão integra os seguintes serviços:
+
+a) Divisão de Planeamento e Estatística;
+
+b) Secção Administrativa e Financeira.
+
+#### SECÇÃO I
+
+##### Divisão de Planeamento e Estatística
+
+###### Artigo 15.º — Competências
+
+1 - Compete à Divisão de Planeamento e Estatística:
+
+a) Promover estudos e elaborar pareceres de natureza técnica em matéria de planeamento com interesse específico para as actividades a desenvolver;
+
+b) Promover a implementação de um sistema informático para registo e tratamento estatístico de toda a informação relacionada com as atribuições do Fundo Regional de Coesão;
+
+c) Proceder à recolha, análise, tratamento e difusão da informação estatística necessária;
+
+d) Prestar apoio técnico aos órgãos do Fundo Regional de Coesão;
+
+e) Conferir e elaborar a informação relativa aos pedidos de requisição de fundos a enviar à Direcção Regional de Orçamento e Tesouro;
+
+f) Conferir os documentos suporte das comparticipações financeiras a pagar pelo Fundo Regional de Coesão, relativas à uniformização dos preços dos combustíveis;
+
+g) Emitir os pareceres que lhe forem solicitados sobre projectos de regulamentação na área dos combustíveis ou outros abastecimentos à Região Autónoma dos Açores, no âmbito das atribuições do Fundo Regional de Coesão;
+
+h) Manter actualizada toda a informação relativa aos combustíveis na Região Autónoma dos Açores;
+
+i) Acompanhar a operação de planeamento do navio de transporte de combustíveis inter-ilhas, através do registo das quantidades transportadas por viagem, produtos e ilhas;
+
+j) Colaborar no acompanhamento de estudos e projectos que venham a ser desencadeados no domínio do abastecimento de combustíveis à Região;
+
+k) Acompanhar a evolução dos preços dos diferentes combustíveis no continente bem como propor as alterações aos preços a praticar na Região Autónoma dos Açores que se mostrem necessárias;
+
+l) Acompanhar e controlar a execução financeira das candidaturas do Fundo Regional de Coesão aos programas comunitários;
+
+m) Apurar mensalmente o montante das taxas de ISP que incidem sobre os combustíveis líquidos.
+
+2 - A Divisão de Planeamento e Estatística é dirigida por um chefe de divisão, que depende directamente do conselho directivo.
+
+#### SECÇÃO II
+
+#### Secção Administrativa e Financeira
+
+###### Artigo 16.º — Competências
+
+Compete à Secção Administrativa e Financeira:
+
+a) Colaborar na preparação dos orçamentos do Fundo Regional de Coesão e proceder ao controlo orçamental das receitas e despesas nele previstas;
+
+b) Elaborar a conta de gerência;
+
+c) Processar e pagar os vencimentos e outras remunerações devidas ao pessoal;
+
+d) Assegurar o processamento das despesas resultantes da execução orçamental;
+
+e) Organizar e manter actualizado o inventário e o cadastro dos bens;
+
+f) Conferir, processar e arquivar os documentos contabilísticos;
+
+g) Garantir a conservação e limpeza dos edifícios, bem como a manutenção e conservação eficiente dos equipamentos e redes de comunicações internas;
+
+h) Organizar os processos relativos a aquisições de bens e serviços necessários ao funcionamento do Fundo Regional de Coesão;
+
+i) Organizar os processos de liquidação de receitas e despesas e de execução de reposições;
+
+j) Organizar e processar a movimentação de fundos, controlando as respectivas contas correntes;
+
+k) Organizar e remeter à Direcção Regional do Orçamento e Tesouro e ao Tribunal de Contas os mapas anuais de movimentações das verbas orçamentadas;
+
+l) Elaborar as estatísticas decorrentes da contabilidade efectuada;
+
+m) Executar as acções e o expediente relativos ao recrutamento, gestão corrente e mobilidade do pessoal, bem como os actos que sejam inerentes ao respectivo regime jurídico;
+
+n) Manter actualizado o ficheiro central de pessoal e elaborar o balanço social, nos termos da lei aplicável;
+
+o) Organizar e manter actualizado o cadastro e registo biográfico do pessoal;
+
+p) Proceder ao controlo da assiduidade e pontualidade do pessoal;
+
+q) Emitir parecer sobre os assuntos de pessoal a submeter a despacho do conselho directivo;
+
+r) Receber, registar, distribuir e assegurar a expedição da correspondência;
+
+s) Assegurar a recolha e o tratamento da bibliografia e demais documentação técnica de interesse para o Fundo Regional de Coesão;
+
+t) Seleccionar e tratar as informações veiculadas pelos órgãos de comunicação social relativas às competências do Fundo Regional de Coesão;
+
+u) Proceder à difusão de legislação, ordens de serviço, documentação e demais informação relacionada com as atribuições do Fundo Regional de Coesão;
+
+v) Executar o expediente geral do Fundo Regional de Coesão, bem como os respectivos registos e arquivo;
+
+w) Promover a circulação, reprodução e arquivo da documentação.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 17.º — Estrutura do quadro de pessoal
+
+O quadro de pessoal do Fundo Regional de Coesão é o constante do mapa anexo a este diploma, do qual faz parte integrante, e agrupa-se de acordo com a seguinte classificação:
+
+a) Pessoal de direcção superior;
+
+b) Pessoal de direcção intermédia;
+
+c) Pessoal de chefia;
+
+d) Pessoal técnico superior;
+
+e) Pessoal administrativo;
+
+f) Pessoal auxiliar.
+
+###### Artigo 18.º — Condições e regras de ingresso e acesso
+
+As condições e regras de ingresso e acesso do pessoal do Fundo Regional de Coesão são as estabelecidas no [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, alterado pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho, e as previstas no presente diploma e na legislação regional e geral complementar.
+
+###### Artigo 19.º — Pessoal de direcção intermédia
+
+O pessoal de direcção intermédia é provido de acordo com o disposto na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com a redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
+
+TÍTULO II
+
+Administração financeira
+
+###### Artigo 20.º — Depósitos bancários
+
+As disponibilidades do Fundo Regional de Coesão são obrigatoriamente depositadas à sua ordem em qualquer instituição de crédito ligada ao sistema central de tesouraria da Região, sem prejuízo de poder ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser efectuadas em dinheiro, de acordo com as instruções da Direcção Regional do Orçamento e Tesouro.
+
+###### Artigo 21.º — Movimentação de valores
+
+1 - A movimentação de valores processa-se mediante duas assinaturas, a do presidente e de um vogal do conselho directivo.
+
+2 - A movimentação de valores relativos ao fundo de maneio processa-se mediante duas assinaturas, sendo uma da chefe de secção Administrativa e Financeira e a outra de um membro do conselho directivo.
+
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46284632.pdf)

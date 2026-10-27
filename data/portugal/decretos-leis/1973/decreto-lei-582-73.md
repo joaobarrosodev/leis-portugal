@@ -1,0 +1,395 @@
+---
+schema_version: '1.0'
+id: pt:dre:412618:por
+title: Decreto-Lei n.º 582/73
+short_title: null
+summary: Organiza a Direcção-Geral dos Assuntos Culturais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 582/73
+official_date: null
+publication_date: '1973-11-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 258/1973, Série I de 1973-11-05
+  number: '258'
+  series: I
+  supplement: null
+  pages: 2100 - 2104
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/11/25800/21002104.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '412618'
+  dre_path: /dr/detalhe/decreto-lei/582-1973-412618
+  internal: pt:dre:412618:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1973-412618
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1973-412618
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 64e6155a360edbe4dade8ede0a384cb972d4963e391e5a6ec3cfca1c76d7ba38
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Geral dos Assuntos Culturais
+- Gestão de Recursos Humanos
+- Gestão Orçamental
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:442304:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:161105:por
+  label: "Alterado o art. 17º pelo DEC LEI.132/75.14.03.1975.MEC, DG.IS [62] de 14.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1975-161105
+  date: '1975-03-14'
+- type: amended_by
+  target: pt:dre:197079:por
+  label: "Alteradas as alíneas f) e g) do n.º 1 do artigo 13.º, pelo DEC LEI.498-C/79.21.12.1979.MCCI, DR.IS [293]Supl de\
+    \ 21.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-c-1979-197079
+  date: '1979-12-21'
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:411987:por
+  label: "Rectificada a alínea e) do artigo 6.º e o n.º 1 do artigo 21.º, pela RECT.DD231.29.11.1973.PC, DG.IS [279] de 29.11.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-411987
+  date: '1973-11-29'
+- type: repealed_by
+  target: pt:dre:442304:por
+  label: "Revogados os artigos 10.º a 15.º pelo DEC LEI.102/80.09.05.1980.PCM, DR.IS [107]Supl de 09.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1980-442304
+  date: '1980-05-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:29:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 582/73
+
+de 5 de Novembro
+
+A Lei Orgânica do Ministério da Educação Nacional, promulgada pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, determinou que as atribuições até então confiadas à Direcção-Geral do Ensino Superior e das Belas-Artes passassem a ser da competência das Direcções-Gerais do Ensino Superior e dos Assuntos Culturais.
+
+Foi, em consequência, criada de novo a Direcção-Geral dos Assuntos Culturais, à qual passa a incumbir o apoio e coordenação das funções de natureza cultural, nomeadamente as que dizem respeito às letras e artes, academias, propriedade literária e artística, bens de valor histórico, artístico e arqueológico, museus, bibliotecas, arquivos e teatros do Estado.
+
+A política cultural a prosseguir pelo Governo, tendo por objectivo fundamental garantir aos Portugueses o acesso aos benefícios da cultura, incidirá sobre a pesquisa, a descoberta, a conservação e a inventariação do património cultural, nos seus aspectos materiais, institucionais e humanos, na medida em que são ponto de partida para a dinamização da actividade, da criatividade e da receptividade culturais. O fomento cultural englobará aspectos de criação, animação e difusão e a intensificação dos meios de intercâmbio externo, promovendo o encontro enriquecedor com outras expressões da cultura e dando especial atenção aos vários centros de expressão cultural portuguesa no Mundo.
+
+O apoio financeiro às actividades referidas e à concessão de bolsas de estudo no País e no estrangeiro, para fins de índole cultural ou artística, será assegurado pelo Fundo de Fomento Cultural, que funciona junto da Direcção-Geral dos Assuntos Culturais.
+
+Nestes termos:
+
+De acordo com os artigos 33.º e 34.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Organização da Direcção-Geral dos Assuntos Culturais
+
+I - Das atribuições e competência
+
+Artigo 1.º A Direcção-Geral dos Assuntos Culturais é um serviço central do Ministério da Educação Nacional, ao qual cabe o fomento e protecção das letras e artes, a promoção e apoio das actividades culturais em geral e que tem por atribuições:
+
+a) Promover a pesquisa, inventariação, classificação, conservação e defesa do património cultural da Nação;
+
+b) Executar a política cultural superiormente definida, orientando e coordenando a acção cultural directamente exercida pelo Estado e pelos órgãos não estaduais da administração pública e, bem assim, fomentando e apoiando as actividades culturais dos indivíduos e das instituições particulares;
+
+c) Promover a expansão da cultura portuguesa no estrangeiro, no âmbito dos planos superiormente aprovados e propostos através do órgão de coordenação da acção cultural externa do Ministério da Educação Nacional e em colaboração com os serviços competentes do Ministério dos Negócios Estrangeiros.
+
+Art. 2.º Na prossecução das atribuições definidas no artigo anterior, compete à Direcção-Geral dos Assuntos Culturais:
+
+a) Superintender nos teatros, museus, bibliotecas e arquivos pertencentes ao Estado, autarquias locais e organismos ou entidades subsidiadas pelo Estado que dependam do Ministério da Educação Nacional;
+
+b) Fomentar, orientar ou apoiar actividades de descoberta, estudo e classificação dos bens móveis e imóveis que pelo seu valor histórico, artístico, arqueológico, bibliográfico e documental, etnográfico ou paisagístico constituam elementos do património cultural da Nação e, bem assim, organizar o seu cadastro e assegurar a sua conservação, defesa e valorização;
+
+c) Inventariar, coordenar e apoiar as associações científicas e culturais existentes no País, desde que os respectivos estatutos devam ser aprovados pelo Ministro da Educação Nacional;
+
+d) Promover a realização de estudos e informação sobre os elementos necessários à prossecução da acção cultural do Ministério da Educação Nacional;
+
+e) Promover a concessão de bolsas e subsídios de estudo dentro e fora do País e assegurar as condições indispensáveis ao pleno rendimento e efectiva integração dos bolseiros nas actividades nacionais;
+
+f) Organizar ou subsidiar iniciativas de natureza cultural, nomeadamente missões, visitas, viagens de estudo, exposições, espectáculos, concertos, cursos, conferências, congressos e outras manifestações análogas, bem como a edição de livros e documentos, discos e fitas gravadas, diapositivos e filmes de interesse cultural e a execução e aquisição de obras de arte;
+
+g) Fomentar o estudo e divulgação da cultura portuguesa no estrangeiro, sem prejuízo das atribuições próprias do Instituto de Alta Cultura e das Universidades e em articulação com os outros serviços do Ministério da Educação Nacional e com os do Ministério dos Negócios Estrangeiros.
+
+II - Dos órgãos e serviços
+
+Art. 3.º - 1. A Direcção-Geral dos Assuntos Culturais compreende os seguintes serviços:
+
+a) Direcção de Serviços de Fomento e Coordenação da Acção Cultural Interna;
+
+b) Divisão do Património Cultural;
+
+c) Divisão de Fomento das Relações Culturais Externas;
+
+d) Serviços de Inspecção;
+
+e) Gabinete de Estudos e Documentação;
+
+f) Repartição Administrativa.
+
+2. Junto da Direcção-Geral dos Assuntos Culturais funciona o Fundo de Fomento Cultural, dotado de autonomia administrativa e financeira.
+
+Art. 4.º - 1. Compete à Direcção de Serviços de Fomento e Coordenação da Acção Cultural Interna:
+
+a) Superintender nas bibliotecas, arquivos e museus dependentes do Ministério da Educação Nacional, quer pertençam ao Estado, quer a autarquias locais ou quaisquer entidades subsidiadas pelo Estado;
+
+b) Organizar planos de aquisições para museus, bibliotecas e arquivos do Estado;
+
+c) Organizar planos de divulgação intensiva dos museus, bibliotecas e arquivos, nomeadamente através de exposições, visitas e publicações;
+
+d) Estudar a ampliação das bibliotecas, arquivos e museus, bem como a criação dos novos que seja necessário instituir;
+
+e) Publicar o Boletim das Bibliotecas e Arquivos de Portugal, o boletim Museus de Portugal e outros de reconhecido interesse para a divulgação do património cultural;
+
+f) Promover ou auxiliar a edição de livros e documentos, discos e fitas gravadas, diapositivos e filmes de interesse cultural e a execução e aquisição de obras de arte;
+
+g) Manter actualizado o cadastro de todas as instituições, dependentes ou não do Ministério da Educação Nacional, através das quais é prosseguida a acção cultural do sector público;
+
+h) Assegurar o registo da propriedade literária e artística;
+
+i) Estudar e propor a concessão de bolsas de estudo e subsídios a artistas e investigadores;
+
+j) Assegurar as condições indispensáveis ao pleno rendimento e efectiva integração dos bolseiros nas actividades nacionais;
+
+l) Estudar e propor a concessão de equiparação a bolseiro aos artistas e investigadores cujos planos de trabalhos de reconhecido interesse exijam dispensa temporária, total ou parcial, do exercício das respectivas funções públicas;
+
+m) Superintender nos teatros do Estado, bem como nas actividades das companhias de teatro, ópera, bailado, orquestras e outros agrupamentos musicais e artísticos dependentes do Ministério da Educação Nacional;
+
+n) Estudar e propor a concessão de subsídios a instituições não estaduais destinadas a iniciativas culturais e artísticas de reconhecido mérito, tais como edição de publicações periódicas ou não periódicas, instalação de museus e restauro de obras de arte;
+
+o) Promover ou auxiliar a realização de exposições, espectáculos, concertos, cursos, conferências, congressos e outras manifestações culturais e artísticas ou cooperar nessas iniciativas;
+
+p) Inventariar, coordenar e apoiar as associações científicas e culturais existentes no País cujos estatutos tenham sido aprovados pelo Ministério da Educação Nacional;
+
+q) Organizar e instruir os processos relativos à aprovação dos estatutos das associações referidas na alínea anterior e manter actualizado o respectivo cadastro.
+
+2. A Direcção de Serviços de Fomento e Coordenação da Acção Cultural Interna compreende duas divisões, uma consagrada à gestão e dinamização dos museus, bibliotecas, arquivos e instituições análogas e outra orientada predominantemente para a criação e difusão cultural em outros domínios.
+
+Art. 5.º Compete à Divisão do Património Cultural:
+
+a) Promover, organizar e manter actualizado o inventário e classificação das espécies artísticas, arqueológicas, etnográficas e documentais, quer em poder do Estado, quer de autarquias locais ou de particulares, e dos elementos ou conjuntos de valor artístico, histórico, arqueológico, etnográfico ou paisagístico classificados como monumentos nacionais, imóveis de interesse público ou valores concelhios;
+
+b) Patrocinar a criação e apoiar o funcionamento de organismos destinados à defesa e valorização do património cultural;
+
+c) Apoiar e coordenar a actividade dos institutos, centros de estudo, laboratórios e oficinas de conservação e beneficiação do património cultural pertencentes aos serviços do Ministério da Educação Nacional;
+
+d) Propor a aquisição de obras ou espécies de reconhecido valor cultural;
+
+e) Impedir a exportação não autorizada de espécies com valor, ainda que não inventariadas, podendo recorrer para esse efeito a quaisquer autoridades e serviços públicos;
+
+f) Exercer, em nome do Estado, o direito de preferência nos casos de alienação de espécies valiosas ou de interesse, ainda que não inventariadas;
+
+g) Promover a suspensão de quaisquer trabalhos não autorizados em imóveis classificados e nas respectivas zonas de protecção, bem como nos bens móveis inventariados ou em processo de inventariação;
+
+h) Propor outras providências destinadas à defesa, conservação e valorização do património cultural.
+
+Art. 6.º Compete à Divisão de Fomento das Relações Culturais Externas, em colaboração com o Ministério dos Negócios Estrangeiros:
+
+a) Estudar e propor a concessão de subsídios para missões de estudo ou estágios no estrangeiro;
+
+b) Instituir a concessão de bolsas de estudo para aperfeiçoamento cultural no estrangeiro;
+
+c) Assegurar o expediente relativo a acordos culturais e outras formas de intercâmbio e fomento cultural com o estrangeiro;
+
+d) Promover relações culturais com entidades estrangeiras, públicas e privadas, em coordenação com os outros departamentos do Ministério da Educação Nacional e com os serviços do Ministério dos Negócios Estrangeiros;
+
+e) Participar, conjuntamente com o Instituto de Alta Cultura, na orientação dos institutos de cultura portuguesa no estrangeiro, nos termos definidos pelo Ministério da Educação Nacional;
+
+f) Prestar apoio técnico às realizações de interesse cultural no estrangeiro, quer da iniciativa de serviços do Ministério da Educação Nacional, quer de outras entidades;
+
+g) Fomentar o estudo e divulgação da cultura portuguesa no estrangeiro e outras formas de intercâmbio e fomento cultural, sem prejuízo das atribuições próprias do Instituto de Alta Cultura;
+
+h) Promover ou auxiliar a tradução e edição em países estrangeiros de obras representativas das diferentes expressões da cultura portuguesa;
+
+i) Promover e coordenar o intercâmbio cultural com instituições portuguesas ou estrangeiras.
+
+Art. 7.º Compete aos Serviços de Inspecção, de acordo com a orientação superiormente definida e em coordenação com os outros serviços:
+
+a) Exercer funções de inspecção técnica e apoio, nomeadamente às bibliotecas, arquivos e museus do Estado, das autarquias locais e dos organismos e entidades subsidiadas pelo Estado;
+
+b) Apoiar a actividade e funcionamento de instituições, associações, sociedades e centros literários, científicos e culturais e outros centros de criação, animação e difusão culturais;
+
+c) Propor providências destinadas à defesa, conservação e valorização do património cultural do País e colaborar na organização do respectivo cadastro.
+
+Art. 8.º Compete ao Gabinete de Estudos e Documentação:
+
+a) Preparar e coordenar planos e relatórios de actividades e projectos de acção cultural e, bem assim, recolher e tratar os respectivos elementos estatísticos;
+
+b) Promover e organizar actividades bibliográficas e documentais de informação cultural;
+
+c) Realizar, em colaboração com os Serviços de Inspecção, inquéritos e sondagens.
+
+Art. 9.º Compete à Repartição Administrativa:
+
+a) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral;
+
+b) Assegurar a gestão dos organismos dependentes da Direcção-Geral;
+
+c) Prestar apoio administrativo aos órgãos e serviços da Direcção-Geral.
+
+Art. 10.º O Fundo de Fomento Cultural, que substitui a Comissão Administrativa de Acção Cultural, prevista no artigo 11.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, goza de autonomia administrativa e financeira, competindo-lhe especialmente a planificação das actividades culturais propostas pelos diversos serviços da Direcção-Geral, segundo um esquema de prioridades superiormente definido, administrando as verbas que para esse fim lhe sejam consignadas.
+
+Art. 11.º O Fundo de Fomento Cultural tem por órgão o Conselho Administrativo, presidido pelo director-geral dos Assuntos Culturais e constituído pelo chefe da Repartição Administrativa, por um representante da Direcção-Geral da Contabilidade Pública, por três vogais designados pelo Ministro da Educação Nacional e por um secretário, igualmente escolhido pelo Ministro de entre os funcionários superiores da Direcção-Geral dos Assuntos Culturais.
+
+Art. 12.º Ao Conselho Administrativo compete:
+
+a) Dar parecer sobre o plano de fomento cultural e elaborar o projecto de orçamento;
+
+b) Organizar a contabilidade e fiscalizar a sua escrituração;
+
+c) Proceder à cobrança das receitas e pagamento das despesas;
+
+d) Apresentar superiormente as contas do exercício findo.
+
+Art. 13.º - 1. Constituem receitas do Fundo de Fomento Cultural:
+
+a) As dotações para o efeito inscritas no orçamento do Ministério da Educação Nacional;
+
+b) Os saldos de gerências anteriores;
+
+c) As receitas das visitas aos museus e outros organismos dependentes do Ministério da Educação Nacional e sob a superintendência da Direcção-Geral dos Assuntos Culturais;
+
+d) As receitas dos trabalhos de conservação e beneficiação efectuados pelo Instituto de José de Figueiredo, pelo Laboratório de Conservação do Museu Monográfico de Conímbriga e por outros serviços do Ministério da Educação Nacional com objectivos afins;
+
+e) Os rendimentos da edição ou reedição de obras de arte, gravuras, documentos históricos ou livros raros existentes em museus, bibliotecas ou arquivos dependentes do Ministério da Educação Nacional;
+
+f) A receita da venda dos livros da Colecção Educativa do Ministério da Educação Nacional;
+
+g) Os rendimentos cobrados por serviços prestados, materiais fornecidos, publicações, filmes, diapositivos, gravações em fita e discos editados, espectáculos realizados e, em geral, por quaisquer outras actividades organizadas pela Direcção-Geral;
+
+h) Os demais subsídios ou comparticipações de outras entidades públicas;
+
+i) Quaisquer donativos, heranças ou legados parculares para fins de acção cultural;
+
+j) Quaisquer outras receitas não proibidas por lei.
+
+2. As receitas à disposição do Fundo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e a sua movimentação será isenta de imposto do selo e prémio de transferência.
+
+Art. 14.º Aos membros do Conselho Administrativo do Fundo de Fomento Cultural poderão ser atribuídas gratificações de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, tendo ainda direito a ajudas de custo, bem como a senhas de presença.
+
+Art. 15.º As normas de funcionamento do Fundo de Fomento Cultural serão definidas por portaria do Ministro da Educação Nacional.
+
+III - Do pessoal
+
+Art. 16.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+
+2. A Direcção-Geral disporá ainda de pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II anexo ao presente decreto-lei, o qual será integrado no quadro único a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+
+3. Os quadros referidos nos números anteriores poderão ser alterados por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+
+4. O pessoal da Direcção-Geral será distribuído pelos respectivos serviços mediante despacho do director-geral.
+
+Art. 17.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:
+
+a) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional da Educação;
+
+b) Os lugares de inspector superior, de inspector-chefe e de inspector-orientador de 1.ª classe serão providos de entre funcionários de categoria imediatamente inferior ou de entre diplomados com curso superior adequado de reconhecida competência;
+
+c) Os lugares de director de serviços e de adjunto do director-geral serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior adequado;
+
+d) O lugar de documentalista de 1.ª classe será provido de entre diplomados com curso superior e habilitados com o curso de bibliotecário-arquivista ou com o estágio de preparação técnica de bibliotecários, arquivistas e documentalistas.
+
+2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.
+
+Art. 18.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas inscritas para vencimentos e salários, seja contratado além dos quadros pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias da Direcção-Geral.
+
+2. A utilização das disponibilidades de vencimentos do pessoal dos quadros para efeitos do disposto no presente artigo carece de prévia autorização do Ministro das Finanças.
+
+3. Poderão os Ministros das Finanças e da Educação Nacional autorizar procedimento igual ao referido nos números anteriores relativamente aos serviços e organismos dependentes da Direcção-Geral.
+
+Art. 19.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+
+IV - Disposições finais e transitórias
+
+Art. 20.º Os museus de arte, história, arqueologia e etnografia, as bibliotecas e arquivos não considerados como organismos dependentes da Direcção-Geral dos Assuntos Culturais, pertencentes ao Estado, corpos administrativos, organismos e entidades subsidiadas pelo Estado, ficam subordinados, para efeitos de fiscalização técnica, ao Ministério da Educação Nacional, através dos serviços competentes da Direcção-Geral dos Assuntos Culturais.
+
+Art. 21.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral dos Assuntos Culturais será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se no provimento do lugar de director-geral o disposto no n.º 2 do artigo 20.º do mesmo decreto-lei.
+
+2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados para a Direcção-Geral dos Assuntos Culturais, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, observando-se, quanto a técnicos especialistas, o disposto na lei geral.
+
+3. O pessoal que actualmente presta serviço nas condições do número anterior e que não for possível prover, nos termos previstos no mesmo, transita para a Direcção-Geral na situação em que se encontrar à data da publicação deste decreto-lei.
+
+Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados no ano de 1973 pelas dotações inscritas na Secretaria-Geral e na Direcção-Geral dos Assuntos Culturais, do orçamento do Ministério da Educação Nacional aprovado para o corrente ano económico.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
+
+Promulgado em 23 de Outubro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+MAPA I
+
+Pessoal integrado no quadro único a que se refere o n.º 1 do artigo 16.º do Decreto-Lei n.º 582/73, de 5 de Novembro
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/25800/21002104.pdf)
+
+MAPA II
+
+Pessoal a que se refere o n.º 2 do artigo 16.º do Decreto-Lei n.º 582/73, de 5 de Novembro
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/25800/21002104.pdf)
+
+Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
+
+O Ministro da Educação Nacional, José Veiga Simão.

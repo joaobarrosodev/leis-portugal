@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:476332:por
+title: Decreto-Lei n.º 317/74
+short_title: null
+summary: Permite a reversão de certos abonos que a lei atribui aos titulares dos cargos de governador civil a favor dos funcionários
+  que exercem as correspondentes funções
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna e da Coordenação Económica
+proposing_entity: null
+official_number: 317/74
+official_date: null
+publication_date: '1974-07-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 158/1974, Série I de 1974-07-09
+  number: '158'
+  series: I
+  supplement: null
+  pages: 797 - 797
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15800/07970797.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '476332'
+  dre_path: /dr/detalhe/decreto-lei/317-1974-476332
+  internal: pt:dre:476332:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1974-476332
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1974-476332
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8af2542880b6baac1d1a8e29174d14aec28bbeca6400af887dbda98404b7e169
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governador Civil
+- Governo Civil
+- Remuneração
+- Secretário
+- Subsídio
+- Substituição de Funções
+relationships:
+- type: amended_by
+  target: pt:dre:670001:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:523193:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:32:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 317/74
+
+de 9 de Julho
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Enquanto se mantiver a situação referida no artigo 1.º, n.º 2, do [Decreto-Lei n.º 170/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1974-523193), de 25 de Abril, e sem prejuízo dos abonos que lhes são devidos pelo desempenho do lugar em que estão providos, os funcionários que exercerem as correspondentes funções têm ainda direito ao abono das despesas de representação e ao do sexto do vencimento que couberem ao cargo de governador civil do respectivo distrito.
+
+Art. 2.º O pagamento dos abonos a que alude a segunda parte do artigo anterior far-se-á mediante o processamento das respectivas folhas, independentemente de qualquer outra formalidade, incluindo o visto do Tribunal de Contas.
+
+Visto e aprovado em Conselho de Ministros. - Francisco Sá Carneiro - Joaquim Jorge Magalhães Mota - Vasco Vieira de Almeida.
+
+Promulgado em 3 de Julho de 1974.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

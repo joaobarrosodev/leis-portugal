@@ -1,0 +1,265 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004D0003:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0003-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2004-01-06",
+   "future": false,
+   "celex": "32004D0003",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fc6aad8cb6869a43",
+    "c8383cc11ad2af26",
+    "4c3deabe10072e0f",
+    "a13b4bdc80299e46",
+    "d7eb63f2defdc500",
+    "c7c8791c7b332488",
+    "f1dcd38a5979a2f4",
+    "a482883169a4e4fb",
+    "f911ba02013dcafa"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "celex": "02004D0003-20160101",
+   "acts": [
+    {
+     "id": "eu:celex:32014D0105:por",
+     "title": "DECISÃO DE EXECUÇÃO DA COMISSÃO de 24 de fevereiro de 2014",
+     "published": null,
+     "celex": "32014D0105"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita ANEXO III",
+    "Adita Notas",
+    "Suprime ANEXO I — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO II — Decisão revogada e alterações sucessivas",
+    "Suprime ANEXO III — Quadro de correspondência"
+   ],
+   "fragments": [
+    "9aa246100eae7638",
+    "67a2953415748e93",
+    "4c3deabe10072e0f",
+    "79a5f8aff258258f",
+    "d7eb63f2defdc500",
+    "baf0bb5a9316dacd",
+    "58cfa67ef3f87afe",
+    "229415a76903f62d",
+    "7126c05a19a2f406",
+    "88bb71b1e484b33c"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02004D0003-20210101",
+   "acts": [
+    {
+     "id": "eu:celex:32020D2113:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2020/2113 DA COMISSÃO de 16 de dezembro de 2020",
+     "published": null,
+     "celex": "32020D2113"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1433078b8151853e",
+    "28d64d74ce634858",
+    "4c3deabe10072e0f",
+    "79a5f8aff258258f",
+    "d7eb63f2defdc500",
+    "baf0bb5a9316dacd",
+    "2b5fe6b5a727182e",
+    "229415a76903f62d",
+    "7126c05a19a2f406",
+    "ab2279ff3ff4fd01"
+   ]
+  }
+ ],
+ "fragments": {
+  "fc6aad8cb6869a43": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2004/3/CE: Decisão da Comissão, de 19 de Dezembro de 2003, que autoriza medidas mais restritivas do que as previstas nos anexos I e II da Directiva 2002/56/CE do Conselho, a adoptar relativamente a certas doenças, no que se refere à comercialização de batatas de semente em todo o território de determinados Estados-Membros ou em partes destes (Texto relevante para efeitos do EEE) [notificada com o número C(2003) 4833]** *Jornal Oficial nº L 002 de 06/01/2004 p. 0047 - 0049*\n\nDecisão da Comissão\n\nde 19 de Dezembro de 2003\n\nque autoriza medidas mais restritivas do que as previstas nos anexos I e II da Directiva 2002/56/CE do Conselho, a adoptar relativamente a certas doenças, no que se refere à comercialização de batatas de semente em todo o território de determinados Estados-Membros ou em partes destes\n\n[notificada com o número C(2003) 4833]\n\n(Texto relevante para efeitos do EEE)\n\n(2004/3/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/56/CE do Conselho, de 13 de Junho de 2002, relativa à comercialização de batatas de semente(1), com a última redacção que lhe foi dada pela Directiva 2003/61/CE(2), e, nomeadamente, o n.o 2 do seu artigo 17.o,\n\nTendo em conta os pedidos apresentados pela Alemanha, Irlanda, Portugal, Finlândia e Reino Unido,\n\nConsiderando o seguinte:\n\n(1) A Decisão 93/231/CEE da Comissão de 30 de Março de 1993, que autoriza medidas mais restritivas do que as previstas nos anexos I e II da Directiva 66/403/CEE do Conselho, a adoptar relativamente a certas doenças, no que se refere à comercialização de batatas de semente em todo o território de determinados Estados-Membros ou em partes destes(3), foi por várias vezes alterada(4), sendo conveniente por uma questão de lógica e clareza proceder à codificação da referida decisão.\n\n(2) A Directiva 2002/56/CE fixou as tolerâncias relativamente a certos organismos prejudiciais.\n\n(3) A referida Directiva 2002/56/CE permite ainda que os Estados-Membros sujeitem as batatas de semente por si produzidas a condições mais restritivas.\n\n(4) A Irlanda, relativamente a todo o seu território, a Alemanha, a Finlândia e o Reino Unido, relativamente a partes dos respectivos territórios, e Portugal, para zonas dos Açores acima dos 300 metros de altitude, desejam aplicar tais disposições da Directiva 2002/56/CE no que se refere a organismos especialmente prejudiciais para a cultura de batata nessas regiões.\n\n(5) A Comissão, através da Directiva 93/17/CEE(5), determinou as classes das batatas de semente de base, bem como as condições e as designações aplicáveis a essas classes. As batatas de semente correspondentes a essas classes devem ser consideradas próprias para comercialização nos territórios dos Estados-Membros, a autorizar nos termos do n.o 2 do artigo 17.o da referida Directiva 2002/56/CE.\n\n(6) Na sequência de uma comparação entre as condições registadas na Irlanda, em todo o seu território, na Alemanha, na Finlândia e no Reino Unido, em certas partes dos respectivos territórios, e em Portugal, para zonas dos Açores acima dos 300 metros de altitude, no que se refere à respectiva produção nacional de batatas de semente e às classes comunitárias das batatas de semente de base, pode-se concluir que:\n\n- a \"classe CE 1\" corresponde a condições mais restritivas,\n\n- a \"classe CE 2\" é equivalente à produção nacional para batata de semente, e\n\n- a \"classe CE 3\" é equivalente à produção nacional para a produção de batatas.\n\n(7) A Irlanda, em todo o seu território, a Alemanha, a Finlândia e o Reino Unido, em certas partes dos respectivos territórios, e Portugal, para zonas dos Açores acima dos 300 metros de altitude, devem ser autorizados a restringir a comercialização de batatas de semente unicamente às classes comunitárias de batata de semente de base definidas na Directiva 93/17/CEE.\n\n(8) Essa autorização está em conformidade com as obrigações dos Estados-Membros nos termos das normas comuns fitossanitárias definidas na Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais contra a sua propagação no interior da Comunidade(6), com a última redacção que lhe foi dada pela Directiva 2003/47/CE da Comissão(7).\n\n(9) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "c8383cc11ad2af26": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros enumerados na coluna 1 do anexo I, relativamente à comercialização de batatas de semente nas regiões correspondentes constantes da coluna 2 do referido anexo, são autorizados a restringir a comercialização de batatas de semente às batatas de semente de base das seguintes classes comunitárias definidas na Directiva 93/17/CEE:\n\na) Para a produção de batata de semente, \"classe CE 1\" ou \"classe CE 2\";\n\nb) Para a produção de batata, \"classe CE 1\", \"classe CE 2\" ou \"classe CE 3\"."
+  },
+  "4c3deabe10072e0f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSerá criado pelos Estados-Membros em questão, e controlado pela Comissão, um sistema permanente de inspecções oficiais regulares sistemáticas da manutenção da conformidade com as condições para autorização, que inclua a comunicação dos respectivos resultados."
+  },
+  "a13b4bdc80299e46": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA autorização referida no artigo 1.o será revogada imediatamente caso se verifique que deixaram de ser preenchidas as referidas condições supra."
+  },
+  "d7eb63f2defdc500": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Decisão 93/231/CEE é revogada.\n\nAs referências à decisão revogada devem entender-se como sendo feitas para a presente decisão e devem ser lidas de acordo com o quadro de correspondência constante do anexo III."
+  },
+  "c7c8791c7b332488": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 19 de Dezembro de 2003.\n\nPela Comissão\n\nO Presidente\n\nRomano Prodi\n\n(1) JO L 193 de 20.7.2002, p. 60.\n\n(2) JO L 165 de 3.7.2003, p. 23.\n\n(3) JO L 106 de 30.4.1993, p. 11.\n\n(4) Ver anexo II.\n\n(5) JO L 106 de 30.4.1993, p. 7.\n\n(6) JO L 169 de 10.7.2000, p. 1.\n\n(7) JO L 138 de 5.6.2003, p. 47."
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "a482883169a4e4fb": {
+   "fragment_id": "ANEXO II — Decisão revogada e alterações sucessivas",
+   "type": "divisao",
+   "heading": "ANEXO II — Decisão revogada e alterações sucessivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Decisão revogada e alterações sucessivas\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "f911ba02013dcafa": {
+   "fragment_id": "ANEXO III — Quadro de correspondência",
+   "type": "divisao",
+   "heading": "ANEXO III — Quadro de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Quadro de correspondência\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "9aa246100eae7638": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2003\n\nque autoriza medidas mais restritivas do que as previstas nos anexos I e II da Directiva 2002/56/CE do Conselho, a adoptar relativamente a certas doenças, no que se refere à comercialização de batatas de semente em todo o território de determinados Estados-Membros ou em partes destes\n\n[notificada com o número C(2003) 4833]\n\n(Texto relevante para efeitos do EEE)\n\n(2004/3/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/56/CE do Conselho, de 13 de Junho de 2002, relativa à comercialização de batatas de semente ([^1^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0002)), e, nomeadamente, o n.º 2 do seu artigo 17.º,\n\nTendo em conta os pedidos apresentados pela Alemanha, Irlanda, Portugal, Finlândia e Reino Unido,\n\n(1) A Decisão 93/231/CEE da Comissão de 30 de Março de 1993, que autoriza medidas mais restritivas do que as previstas nos anexos I e II da Directiva 66/403/CEE do Conselho, a adoptar relativamente a certas doenças, no que se refere à comercialização de batatas de semente em todo o território de determinados Estados-Membros ou em partes destes ([^3^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0003)), foi por várias vezes alterada ([^4^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0004)), sendo conveniente por uma questão de lógica e clareza proceder à codificação da referida decisão.\n\n(2) A Directiva 2002/56/CE fixou as tolerâncias relativamente a certos organismos prejudiciais.\n\n(3) A referida Directiva 2002/56/CE permite ainda que os Estados-Membros sujeitem as batatas de semente por si produzidas a condições mais restritivas.\n\n(4) A Irlanda, relativamente a todo o seu território, a Alemanha, a Finlândia e o Reino Unido, relativamente a partes dos respectivos territórios, e Portugal, para zonas dos Açores acima dos 300 metros de altitude, desejam aplicar tais disposições da Directiva 2002/56/CE no que se refere a organismos especialmente prejudiciais para a cultura de batata nessas regiões.\n\n(5) A Comissão, através da Directiva 93/17/CEE ([^5^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0005)), determinou as classes das batatas de semente de base, bem como as condições e as designações aplicáveis a essas classes. As batatas de semente correspondentes a essas classes devem ser consideradas próprias para comercialização nos territórios dos Estados-Membros, a autorizar nos termos do n.º 2 do artigo 17.º da referida Directiva 2002/56/CE.\n\n(6) Na sequência de uma comparação entre as condições registadas na Irlanda, em todo o seu território, na Alemanha, na Finlândia e no Reino Unido, em certas partes dos respectivos territórios, e em Portugal, para zonas dos Açores acima dos 300 metros de altitude, no que se refere à respectiva produção nacional de batatas de semente e às classes comunitárias das batatas de semente de base, pode-se concluir que: — a «classe CE 1» corresponde a condições mais restritivas, — a «classe CE 2» é equivalente à produção nacional para batata de semente, e — a «classe CE 3» é equivalente à produção nacional para a produção de batatas.\n\n(7) A Irlanda, em todo o seu território, a Alemanha, a Finlândia e o Reino Unido, em certas partes dos respectivos territórios, e Portugal, para zonas dos Açores acima dos 300 metros de altitude, devem ser autorizados a restringir a comercialização de batatas de semente unicamente às classes comunitárias de batata de semente de base definidas na Directiva 93/17/CEE.\n\n(8) Essa autorização está em conformidade com as obrigações dos Estados-Membros nos termos das normas comuns fitossanitárias definidas na Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais contra a sua propagação no interior da Comunidade ([^6^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0006)), com a última redacção que lhe foi dada pela Directiva 2003/47/CE da Comissão ([^7^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0007)).\n\n(9) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "67a2953415748e93": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros enumerados na coluna 1 do anexo I, relativamente à comercialização de batatas de semente nas regiões correspondentes constantes da coluna 2 do referido anexo, são autorizados a restringir a comercialização de batatas de semente às batatas de semente de base, do seguinte modo:\n\na) Para a produção de batata de semente, qualquer das seguintes:\n\ni) batatas de semente de base que preencham as condições da «classe da União S», previstas no anexo I, ponto 1, alínea a), subalíneas ii) a v), e ponto 1, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE da Comissão ([^8^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#E0008)), ou\n\nii) batatas de semente de base que preencham as condições da «classe da União SE», previstas no anexo I, ponto 2, alínea a), subalíneas ii) a v), e ponto 2, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE;\n\nb) Para a produção de batata, qualquer das seguintes:\n\ni) batatas de semente de base que preencham as condições da «classe da União S», previstas no anexo I, ponto 1, alínea a), subalíneas ii) a v), e ponto 1, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE, ou\n\nii) batatas de semente de base que preencham as condições da «classe da União SE», previstas no anexo I, ponto 2, alínea a), subalíneas ii) a v), e ponto 2, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE, ou\n\niii) batatas de semente de base que preencham as condições da «classe da União SE», previstas no anexo I, ponto 3, alínea a), subalíneas ii) a v), e ponto 3, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE."
+  },
+  "79a5f8aff258258f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA autorização referida no artigo 1.º será revogada imediatamente caso se verifique que deixaram de ser preenchidas as referidas condições *supra*."
+  },
+  "baf0bb5a9316dacd": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "58cfa67ef3f87afe": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nEstado-Membro Região\n\nAlemanha Bundesland Mecklenburg-Vorpommern — Gemeinde Groß Lüsewitz — Ortsteile Lindenhof und Pentz der Gemeinde Metschow — Gemeinden Böhlendorf, Breesen, Langsdorf sowie Ortsteil Grammow der Gemeinde Grammow — Gemeinden Hohenbrünzow, Hohenmocker, Ortsteil Ganschendorf der Gemeinde Sarow sowie Ortsteil Leistenow der Gemeinde Utzedel — Gemeinden Ranzin, Lüssow und Gribow — Gemeinde Pelsin\n\nIrlanda Todo o território\n\nPortugal Açores (zonas a mais de 300 m de altitude)\n\nFinlândia Municípios de Liminka e Tyrnävä\n\nReino Unido — Cumbria, Northumberland (Inglaterra) — Irlanda do Norte — Escócia"
+  },
+  "229415a76903f62d": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDecisão 93/231/CEE JO L 106 de 30.4.1993, p. 11\n\nDecisão 95/21/CE JO L 28 de 7.2.1995, p. 13\n\nDecisão 95/76/CE JO L 60 de 18.3.1995, p. 31\n\nDecisão 96/332/CE JO L 127 de 25.5.1996, p. 31\n\nDecisão 2003/242/CE JO L 89 de 5.4.2003, p. 24"
+  },
+  "7126c05a19a2f406": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDecisão 93/231/CEE Presente decisão\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nArtigo 4.º —\n\n— Artigo 4.º\n\nArtigo 5.º Artigo 5.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "88bb71b1e484b33c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 60.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0003)) JO L 106 de 30.4.1993, p. 11.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0004)) Ver anexo II.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0005)) JO L 106 de 30.4.1993, p. 7.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0006)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0007)) JO L 138 de 5.6.2003, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/193b9e6e-3ec5-4b75-8e39-770c4d502df6.0015.02/DOC_1#src.E0008)) Diretiva de Execução 2014/20/UE da Comissão, de 6 de fevereiro de 2014, que determina as classes da União de batatas de semente de base e de semente certificada e as condições e designações aplicáveis a essas classes (JO L 38 de 7.2.2014, p. 32)."
+  },
+  "1433078b8151853e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2003\n\nque autoriza medidas mais restritivas do que as previstas nos anexos I e II da Directiva 2002/56/CE do Conselho, a adoptar relativamente a certas doenças, no que se refere à comercialização de batatas de semente em todo o território de determinados Estados-Membros ou em partes destes\n\n[notificada com o número C(2003) 4833]\n\n(Texto relevante para efeitos do EEE)\n\n(2004/3/CE)"
+  },
+  "28d64d74ce634858": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros enumerados na coluna 1 do anexo I, relativamente à comercialização de batatas de semente nas regiões correspondentes constantes da coluna 2 do referido anexo, são autorizados a restringir a comercialização de batatas de semente às batatas de semente de base, do seguinte modo:\n\na) Para a produção de batata de semente, qualquer das seguintes:\n\ni) batatas de semente de base que preencham as condições da «classe da União S», previstas no anexo I, ponto 1, alínea a), subalíneas ii) a v), e ponto 1, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE da Comissão ([^1^](http://publications.europa.eu/resource/cellar/6c4a0653-6558-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0001)), ou\n\nii) batatas de semente de base que preencham as condições da «classe da União SE», previstas no anexo I, ponto 2, alínea a), subalíneas ii) a v), e ponto 2, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE;\n\nb) Para a produção de batata, qualquer das seguintes:\n\ni) batatas de semente de base que preencham as condições da «classe da União S», previstas no anexo I, ponto 1, alínea a), subalíneas ii) a v), e ponto 1, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE, ou\n\nii) batatas de semente de base que preencham as condições da «classe da União SE», previstas no anexo I, ponto 2, alínea a), subalíneas ii) a v), e ponto 2, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE, ou\n\niii) batatas de semente de base que preencham as condições da «classe da União SE», previstas no anexo I, ponto 3, alínea a), subalíneas ii) a v), e ponto 3, alínea b), subalíneas i) a iv), da Diretiva de Execução 2014/20/UE."
+  },
+  "2b5fe6b5a727182e": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Estado-Membro [(^1^)](http://publications.europa.eu/resource/cellar/6c4a0653-6558-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0002) | Região |\n| --- | --- |\n| Alemanha | — Bundesland Mecklenburg-Vorpommern — Gemeinde Groß Lüsewitz — Ortsteile Lindenhof und Pentz der Gemeinde Metschow — Gemeinden Böhlendorf, Breesen, Langsdorf sowie Ortsteil Grammow der Gemeinde Grammow — Gemeinden Hohenbrünzow, Hohenmocker, Ortsteil Ganschendorf der Gemeinde Sarow sowie Ortsteil Leistenow der Gemeinde Utzedel — Gemeinden Ranzin, Lüssow und Gribow — Gemeinde Pelsin |\n| Irlanda | Todo o território |\n| Portugal | Açores (zonas a mais de 300 m de altitude) |\n| Finlândia | Municípios de Liminka e Tyrnävä |\n| Reino Unido [(^1^)](http://publications.europa.eu/resource/cellar/6c4a0653-6558-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0002) | Irlanda do Norte |\n| (^1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para efeitos do presente anexo, as referências ao Estado-Membro incluem o Reino Unido no que diz respeito à Irlanda do Norte. |  |"
+  },
+  "ab2279ff3ff4fd01": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6c4a0653-6558-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva de Execução 2014/20/UE da Comissão, de 6 de fevereiro de 2014, que determina as classes da União de batatas de semente de base e de semente certificada e as condições e designações aplicáveis a essas classes (JO L 38 de 7.2.2014, p. 32)."
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0087:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0087-20051226",
+ "dre_path": null,
+ "source_lastmod": "2005-12-26",
+ "versions": [
+  {
+   "date": "2005-12-06",
+   "future": false,
+   "celex": "32005L0087",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "595d5198079bc2db",
+    "f14d00f782226c51",
+    "e4629d8061895fb9",
+    "395e142882ff894a",
+    "96bec1a1c53a1261",
+    "c0db3a7daab6bc89",
+    "b5943c2937d5d2cb"
+   ]
+  }
+ ],
+ "fragments": {
+  "595d5198079bc2db": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Dezembro de 2005\n\nque altera o anexo I da Directiva 2002/32/CE do Parlamento Europeu e do Conselho, relativa às substâncias indesejáveis nos alimentos para animais, no que respeita ao chumbo, flúor e cádmio\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/32/CE do Parlamento Europeu e do Conselho, de 7 de Maio de 2002, relativa às substâncias indesejáveis nos alimentos para animais [([^1])](http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0016.03/DOC_1#ntr1-L_2005318PT.01001901-E0001), nomeadamente o n.º 1 do artigo 8.º,\n\nTendo em conta o Regulamento (CE) n.º 1831/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos aditivos destinados à alimentação animal [([^2])](http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0016.03/DOC_1#ntr2-L_2005318PT.01001901-E0002), nomeadamente a terceira frase do n.º 2 do artigo 13.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2002/32/CE estabelece a proibição da utilização de produtos destinados à alimentação animal com uma concentração de substâncias indesejáveis que exceda os limites máximos previstos no respectivo anexo I.\n\n(2) Quando a Directiva 2002/32/CE foi adoptada, a Comissão declarou que se procederia a uma revisão das disposições previstas no anexo I da referida directiva com base em avaliações científicas de risco actualizadas e tendo em conta a proibição de qualquer diluição de produtos contaminados não conformes destinados à alimentação animal.\n\n(3) Em 2 de Junho de 2004, o Painel Científico dos Contaminantes da Cadeia Alimentar da Autoridade Europeia para a Segurança dos Alimentos (AESA) adoptou um parecer sobre um pedido da Comissão relacionado com o chumbo como substância indesejável nos alimentos para animais.\n\n(4) A contaminação dos alimentos com chumbo é uma questão preocupante a nível da saúde pública. O chumbo acumula-se moderadamente nos tecidos renal e hepático, o tecido muscular contém quantidades residuais muito baixas e a transferência através do leite é limitada. Por conseguinte, os alimentos de origem animal não constituem uma fonte importante de exposição humana ao chumbo.\n\n(5) Os ovinos e caprinos parecem ser as espécies mais sensíveis no que toca à toxicidade aguda do chumbo. Registaram-se intoxicações individuais, resultantes da ingestão de alimentos para animais produzidos com matérias-primas originárias de zonas poluídas ou da ingestão acidental de fontes de chumbo. Todavia, os teores detectados em matérias-primas comerciais para a alimentação animal na União Europeia não induzem sinais clínicos de toxicidade.\n\n(6) As disposições jurídicas existentes relativamente ao chumbo nos produtos destinados à alimentação animal são de um modo geral adequadas para garantir que estes produtos não representam qualquer perigo para a saúde humana ou animal nem afectam negativamente a produção pecuária.\n\n(7) Os ovinos e caprinos parecem ser as espécies mais sensíveis e as forragens verdes constituem uma grande parte da sua ração diária, sendo por isso importante prever a revisão do limite máximo de chumbo nas forragens verdes, a fim de que possa eventualmente ser de novo reduzido.\n\n(8) Além disso, é adequado estabelecer um limite máximo de chumbo nos aditivos pertencentes aos grupos funcionais dos oligoelementos, dos agentes aglutinantes e antiaglomerantes bem como para as pré-misturas. O limite máximo estabelecido para as pré-misturas leva em linha de conta os aditivos com o maior teor de chumbo e não a sensibilidade ao chumbo das diferentes espécies de animais. A fim de proteger a saúde pública e animal, é assim da responsabilidade do produtor de pré-misturas assegurar que, além do cumprimento dos limites máximos para as pré-misturas, as instruções de utilização da pré-mistura sejam conformes com os limites máximos para os alimentos complementares e para os alimentos completos destinados aos animais.\n\n(9) Em 22 de Setembro de 2004, o Painel Científico dos Contaminantes da Cadeia Alimentar da AESA adoptou um parecer sobre um pedido da Comissão relacionado com o flúor como substância indesejável nos alimentos para animais.\n\n(10) O fluoreto acumula-se sobretudo nos tecidos calcificados. Em contraste, a transmissão para os tecidos comestíveis, incluindo o leite e os ovos, é limitada. Assim, as concentrações em fluoreto nos alimentos de origem animal só marginalmente contribuem para a exposição humana.\n\n(11) Na União Europeia, os teores de fluoreto nas pastagens, plantas herbáceas e alimentos compostos para animais são normalmente reduzidos e, por conseguinte, a exposição dos animais ao fluoreto está regra geral abaixo do teor que causa efeitos prejudiciais. No entanto, em determinadas zonas geográficas e, incidentalmente, na proximidade de zonas industriais com emissões elevadas de fluoreto, uma exposição excessiva ao fluoreto está associada a anomalias nos dentes e no esqueleto.\n\n(12) As disposições jurídicas existentes relativamente ao flúor nos produtos destinados à alimentação animal são adequadas para garantir que estes produtos não representam qualquer perigo para a saúde humana ou animal nem afectam negativamente a produção pecuária.\n\n(13) O procedimento de extracção utilizado tem uma grande influência sobre o resultado analítico, pelo que é adequado determinar o procedimento de extracção. Podem usar se procedimentos equivalentes, para os quais se tenha demonstrado uma eficiência de extracção igual.\n\n(14) O teor de flúor em crustáceos marinhos, como o *krill* marinho, deve ser alterado a fim de ter em conta novas técnicas de transformação que melhoram a qualidade nutricional e reduzem a perda de biomassa mas que também resultam em teores mais elevados de flúor no produto final.\n\n(15) A Directiva 84/547/CEE da Comissão, de 26 de Outubro de 1984, que altera os anexos da Directiva 70/524/CEE do Conselho relativa aos aditivos na alimentação para animais [([^3])](http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0016.03/DOC_1#ntr3-L_2005318PT.01001901-E0003), estabelece um limite máximo para o flúor na vermiculite (E 561). O âmbito de aplicação da Directiva 2002/32/CE prevê a possibilidade de estabelecimento de limites máximos de substâncias indesejáveis nos aditivos para a alimentação animal, e as normas que regem as substâncias indesejáveis deveriam ser coligidas num único texto por motivos de maior clareza.\n\n(16) Em 2 de Junho de 2004, o Painel Científico dos Contaminantes da Cadeia Alimentar da AESA adoptou um parecer sobre um pedido da Comissão relacionado com o cádmio como substância indesejável nos alimentos para animais.\n\n(17) A contaminação dos alimentos com cádmio é uma questão preocupante a nível da saúde pública. A acumulação de cádmio nos tecidos dos animais depende da concentração na alimentação e da duração da exposição. O ciclo de vida reduzido de animais como os suínos de engorda e as aves de capoeira minimiza o risco de se atingirem concentrações indesejáveis de cádmio nos tecidos comestíveis desses animais. Pelo contrário, os ruminantes e os equídeos podem estar expostos ao cádmio presente nas pastagens durante a totalidade do seu ciclo de vida. Em diversas regiões, tal pode resultar numa acumulação indesejável de cádmio, em especial nos rins.\n\n(18) O cádmio é uma substância tóxica para todas as espécies animais. Na maioria das espécies de animais domésticos, incluindo os suínos, considerados a espécie mais sensível, é improvável a observação de sintomas clínicos evidentes se as concentrações de cádmio na alimentação se situarem abaixo dos 5 mg/kg de alimento para animais.\n\n(19) As disposições jurídicas existentes relativamente ao cádmio nos produtos destinados à alimentação animal são adequadas para garantir que estes produtos não representam qualquer perigo para a saúde humana ou animal nem afectam negativamente a produção pecuária.\n\n(20) Actualmente, não se encontra fixado qualquer limite máximo para os alimentos para animais de companhia nem para as matérias-primas para a alimentação animal de origem mineral, com excepção dos fosfatos. É adequado fixar um limite máximo para estes produtos destinados à alimentação animal. É igualmente adequado alterar o limite máximo actual de cádmio em alimentos para peixes, a fim de ter em consideração recentes desenvolvimentos na formulação desses alimentos, com a incorporação de proporções mais elevadas de óleo de peixe e de farinha de peixe. Além disso, é adequado estabelecer um limite máximo de cádmio nos aditivos pertencentes aos grupos funcionais dos oligoelementos, dos agentes aglutinantes e antiaglomerantes, bem como para as pré-misturas. O limite máximo estabelecido para as pré-misturas leva em linha de conta os aditivos com o maior teor de cádmio e não a sensibilidade ao cádmio das diferentes espécies de animais. Tal como previsto no artigo 16.º do Regulamento (CE) n.º 1831/2003, a fim de proteger a saúde pública e animal, é da responsabilidade do produtor de pré-misturas assegurar que, além do cumprimento dos limites máximos para as pré-misturas, as instruções de utilização da pré-mistura sejam conformes com os limites máximos para os alimentos complementares e para os alimentos completos destinados aos animais.\n\n(21) As Directivas 2002/32/CE e 84/547/CEE devem, por conseguinte, ser alteradas em conformidade.\n\n(22) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f14d00f782226c51": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 2002/32/CE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "e4629d8061895fb9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSem prejuízo das outras condições para a autorização do aditivo vermiculite, pertencente ao grupo dos agentes aglutinantes, antiaglomerantes e coagulantes, tal como estabelecido pela Directiva 70/524/CEE, o teor máximo de flúor é o estabelecido no anexo da presente directiva."
+  },
+  "395e142882ff894a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados Membros-porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, 12 meses após a sua entrada em vigor. Os Estados-Membros comunicarão imediatamente à Comissão o texto dessas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "96bec1a1c53a1261": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "c0db3a7daab6bc89": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 5 de Dezembro de 2005.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "b5943c2937d5d2cb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0016.03/DOC_1#ntc1-L_2005318PT.01001901-E0001) [JO L 140 de 30.5.2002, p. 10](http://publications.europa.eu/resource/oj/JOL_2002_140_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2005/8/CE da Comissão ([JO L 27 de 29.1.2005, p. 44](http://publications.europa.eu/resource/oj/JOL_2005_027_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0016.03/DOC_1#ntc2-L_2005318PT.01001901-E0002) [JO L 268 de 18.10.2003, p. 29](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 378/2005 da Comissão ([JO L 59 de 5.3.2005, p. 8](http://publications.europa.eu/resource/oj/JOL_2005_059_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0016.03/DOC_1#ntc3-L_2005318PT.01001901-E0003) [JO L 297 de 15.11.1984, p. 40](http://publications.europa.eu/resource/oj/JOL_1984_297_R_TOC)."
+  }
+ }
+}

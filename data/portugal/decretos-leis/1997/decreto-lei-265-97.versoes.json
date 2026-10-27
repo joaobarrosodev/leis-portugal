@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661566:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-202935939",
+ "dre_path": "/dr/detalhe/decreto-lei/265-1997-661566",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202964602",
+    "202964603",
+    "202964604"
+   ]
+  }
+ ],
+ "fragments": {
+  "202964602": {
+   "fragment_id": "202935940",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 265/97\n\nde 2 de Outubro\n\nTem-se entendido que o Decreto-Lei n.º 10/91, de 9 de Janeiro, o qual estabelece o regime do contrato de locação financeira de imóveis para habitação, não foi alterado pelo Decreto-Lei n.º 149/95, de 24 de Junho, constituindo direito especial.\n\nConsiderou-se que, face à quantidade de contratos de locação financeira de imóveis para habitação registados, por um lado, e, por outro, pelo respectivo regime jurídico, não se justificava que este tipo de contratos não fosse sujeito ao regime geral. Por isso, foi revogado o Decreto-Lei n.º 10/91 e foram introduzidas algumas alterações no Decreto-Lei n.º 149/95 - designadamente prevendo situações de propriedade horizontal -, por forma que o regime geral melhor acomode os contratos que tenham aquele objecto.\n\nEstabelece-se, assim, um regime jurídico uniforme para o contrato de locação financeira, independentemente do respectivo objecto.\n\nRelativamente à forma dos contratos passou a exigir-se a certificação notarial de existência da licença de construção ou de utilização para os contratos que tenham por objecto imóveis enquanto para aqueles que tenham por objecto móveis sujeitos a registo passou a exigir-se a formalidade prevista no artigo 2.º do Decreto-Lei n.º 250/96, de 24 de Dezembro.\n\nEstendeu-se ainda a aplicabilidade da providência cautelar de entrega judicial e cancelamento de registo aos contratos que têm por objecto bens imóveis.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "202964603": {
+   "fragment_id": "202935941",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 3.º, 10.º, 11.º, 20.º e 21.º do Decreto-Lei n.º 149/95, de 24 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - Os contratos de locação financeira podem ser celebrados por documento particular, exigindo-se, no caso de bens imóveis, o reconhecimento presencial das assinaturas das partes e a certificação, pelo notário, da existência da licença de utilização ou de construção.\n\n2 - A assinatura das partes nos contratos de locação financeira de bens móveis sujeitos a registo deve conter a indicação, feita pelo respectivo signatário, do número, data e entidade emitente do bilhete de identidade ou documento equivalente emitido pela autoridade competente de um dos países da União Europeia ou do passaporte.\n\n3 - A locação financeira dos bens referidos nos números anteriores fica sujeita a registo na conservatória competente.\n\nArtigo 10.º\n\n[...]\n\n1 - São, nomeadamente, obrigações do locatário:\n\na) ...\n\nb) Pagar, em caso de locação de fracção autónoma, as despesas correntes necessárias à função das partes comuns de edifício e aos serviços de interesse comum;\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\nh) Comunicar ao locador, dentro de 15 dias, a cedência do gozo do bem, quando permitida ou autorizada nos termos da alínea anterior;\n\ni) [Anterior alínea h).]\n\nj) [Anterior alínea i).]\n\nk) [Anterior alínea j).]\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Exercer, na locação de fracção autónoma, os direitos próprios do locador, com excepção dos que, pela sua natureza, somente por aquele possam ser exercidos;\n\nf) [Anterior alínea e).]\n\nArtigo 11.º\n\n[...]\n\n1 - ...\n\n2 - (Anterior n.º 3.)\n\n3 - Em qualquer dos casos previstos nos números anteriores, o locador pode opor-se à transmissão da posição contratual, provando não oferecer o cessionário garantias bastantes à execução do contrato.\n\n4 - ...\n\nArtigo 20.º\n\n[...]\n\nA antecipação das rendas, a título de garantia, não pode ser superior a 6 ou a 18 meses, conforme o contrato tenha por objecto, respectivamente, bens móveis ou imóveis.\n\nArtigo 21.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O tribunal ordenará a providência requerida se a prova produzida revelar a probabilidade séria da verificação dos requisitos referidos no n.º 1, podendo, no entanto, exigir que o locador preste caução adequada.\n\n5 - ...\n\n6 - ...\n\n7 - (Anterior n.º 8.)\n\n8 - O disposto nos números anteriores é aplicável a todos os contratos de locação financeira, qualquer que seja o seu objecto.»"
+  },
+  "202964604": {
+   "fragment_id": "202935942",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ revogado o Decreto-Lei n.º 10/91, de 9 de Janeiro."
+  }
+ }
+}

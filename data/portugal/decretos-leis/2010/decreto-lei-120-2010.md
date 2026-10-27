@@ -1,0 +1,285 @@
+---
+schema_version: '1.0'
+id: pt:dre:307656:por
+title: Decreto-Lei n.º 120/2010
+short_title: null
+summary: Regula a constituição e funcionamento da Comissão de Protecção às Vítimas de Crimes, em regulamentação da Lei n.º
+  104/2009, de 14 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 120/2010
+official_date: null
+publication_date: '2010-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2010, Série I de 2010-10-27
+  number: '209'
+  series: I
+  supplement: null
+  pages: 4885 - 4887
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20900/0488504887.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/120/2010/10/27/p/dre/pt/html
+  oj: null
+  dre: '307656'
+  dre_path: /dr/detalhe/decreto-lei/120-2010-307656
+  internal: pt:dre:307656:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2010-307656
+  metadata_url: https://data.dre.pt/eli/dec-lei/120/2010/10/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2010-307656
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:12:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8936bf0def3d2a04ebcf029f8b2538279260f1cfb2b74e0029753743630193e2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Protecção às Vítimas de Crimes
+- Crime
+- Definição de Competências
+- Indemnização
+- Ministério da Justiça
+- Orgânica
+- Presidente
+- Protecção à Vítima
+- Violência
+- Vítima
+relationships:
+- type: amended_by
+  target: pt:dre:622306:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Justiça dos serviços, organismos e estruturas identificados no Dec\
+    \ Lei 206/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 15º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: cites
+  target: pt:dre:171509:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/1/1999/02/15/p/dre
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/423/1991/10/30/p/dre
+- type: cites
+  target: pt:dre:434007:por
+  label: null
+  source: http://data.dre.pt/eli/lei/129/1999/08/20/p/dre
+- type: cites
+  target: pt:dre:489757:por
+  label: null
+  source: http://data.dre.pt/eli/lei/104/2009/09/14/p/dre
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:656590:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/4/1993/02/22/p/dre
+article_structure:
+  article_count: 17
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:12:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 120/2010
+
+de 27 de Outubro
+
+A [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro, aprovou o regime aplicável ao adiantamento pelo Estado das indemnizações devidas às vítimas de crimes violentos e de violência doméstica, revogando a [Lei n.º 129/99](https://diariodarepublica.pt/dr/detalhe/lei/129-1999-434007), de 20 de Agosto, e o [Decreto-Lei n.º 423/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1991-322286), de 30 de Outubro.
+
+O [Decreto Regulamentar n.º 4/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1993-656590), de 22 de Fevereiro, alterado pelo [Decreto Regulamentar n.º 1/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1999-171509), de 15 de Fevereiro, que agora se revoga, regulamentava a anteriormente designada Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos que passa a designar-se por Comissão de Protecção às Vítimas de Crimes.
+
+O regime anterior previa que os requerimentos de adiantamento de indemnização fossem dirigidos ao Ministro da Justiça, competindo à Comissão instruir os pedidos e elaborar os respectivos pareceres que deveriam ser posteriormente homologados pelo Ministro da Justiça, que detinha o poder de decisão. O novo regime criado pela [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro, que agora se regulamenta, alargou a competência da Comissão, passando os requerimentos a ser dirigidos a esta Comissão que passa também a decidir os pedidos de adiantamento da indemnização. De acordo com o previsto no n.º 1 do artigo 23.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro, com a entrada em vigor da presente regulamentação e a tomada de posse dos membros da nova Comissão de Protecção às Vítimas de Crimes, extingue-se a actual Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos, prevista no artigo 6.º do [Decreto-Lei n.º 423/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1991-322286), de 30 de Outubro, e no [Decreto Regulamentar n.º 4/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1993-656590), de 22 de Fevereiro, cessando assim as funções dos seus membros.
+
+Para dar efectiva aplicação ao novo sistema, importa, pois, regulamentá-lo através do presente decreto-lei, garantindo, nos termos do seu artigo 24.º, a constituição, o funcionamento e o exercício dos poderes e deveres da Comissão de Protecção às Vítimas de Crimes.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposição geral
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei regula a constituição, o funcionamento e o exercício de poderes e deveres da Comissão de Protecção às Vítimas de Crimes.
+
+2 - O presente decreto-lei altera o [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro.
+
+### CAPÍTULO II — Comissão de Protecção às Vítimas de Crimes
+
+###### Artigo 2.º — Natureza
+
+A Comissão de Protecção às Vítimas de Crimes, doravante designada por Comissão, é um órgão administrativo independente responsável, por si ou através dos seus membros, pela concessão de adiantamentos de indemnização por parte do Estado às vítimas de crimes violentos e de violência doméstica, que funciona junto do Ministério da Justiça.
+
+###### Artigo 3.º — Composição
+
+1 - A Comissão é composta pelos seguintes membros:
+
+a) Dois membros, incluindo o presidente, indicados pelo membro do Governo responsável pela área da justiça;
+
+b) Um magistrado judicial indicado pelo Conselho Superior da Magistratura;
+
+c) Um magistrado do Ministério Público indicado pelo Conselho Superior do Ministério Público; e
+
+d) Um advogado indicado pelo Conselho Geral da Ordem dos Advogados.
+
+2 - Os membros da Comissão são designados por despacho do membro do Governo responsável pela área da justiça, que especifica quem exerce funções a tempo inteiro.
+
+###### Artigo 4.º — Membros da Comissão
+
+1 - Os membros da Comissão são designados por três anos, podendo a designação ser renovada por igual período.
+
+2 - O presidente da Comissão exerce as suas funções em comissão de serviço.
+
+3 - Para além do presidente da Comissão, dois outros membros da Comissão podem exercer funções, a tempo inteiro, em comissão de serviço.
+
+4 - Os restantes membros da Comissão exercem as respectivas funções sem prejuízo das correspondentes à situação jurídico-funcional de origem.
+
+5 - Os membros da Comissão mantêm-se em funções até serem substituídos.
+
+6 - Os membros da Comissão a exercer funções em comissão de serviço optam pela remuneração base devida na situação jurídico-funcional de origem que esteja constituída por tempo indeterminado.
+
+7 - Os membros da Comissão a que se refere o n.º 4 têm direito a uma senha de presença por cada sessão em que participem, de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da justiça.
+
+8 - O serviço da Comissão tem carácter urgente.
+
+###### Artigo 5.º — Membros suplentes
+
+1 - No despacho de designação dos membros efectivos da Comissão são também designados os respectivos membros suplentes.
+
+2 - Os membros suplentes participam nos trabalhos da Comissão em substituição dos membros efectivos quando:
+
+a) Se verifique a situação prevista no n.º 5 do artigo 7.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro;
+
+b) Se verifiquem quaisquer situações de impedimento definitivo ou prolongado.
+
+###### Artigo 6.º — Apoio
+
+1 - A Secretaria-Geral do Ministério da Justiça presta o apoio logístico e administrativo à Comissão.
+
+2 - A Comissão dispõe de mapa de pessoal, com limite de três trabalhadores, para prestar apoio técnico, devendo recorrer preferencialmente ao recrutamento através de instrumentos de mobilidade.
+
+3 - A Comissão não pode estabelecer relações jurídicas de emprego público por tempo indeterminado.
+
+### CAPÍTULO III — Procedimento
+
+###### Artigo 7.º — Requerimento de adiantamento de indemnização
+
+O requerimento para a concessão do adiantamento de indemnização pelo Estado é apresentado à Comissão, nos termos do previsto no artigo 10.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro.
+
+###### Artigo 8.º — Diligências instrutórias
+
+1 - As diligências instrutórias realizadas pela Comissão, nos termos do artigo 13.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro, e que consistam na tomada de declarações a qualquer pessoa cujos conhecimentos se mostrem úteis à instrução do pedido são reduzidas a escrito.
+
+2 - A prática dos actos previstos no número anterior pode ser delegada no pessoal de apoio à Comissão.
+
+###### Artigo 9.º — Trâmites processuais
+
+1 - A tramitação processual decorre sob a directa orientação do presidente da Comissão, ou do membro da Comissão responsável pelo processo que, oficiosamente ou a requerimento, procede a todas as diligências instrutórias que se revelem necessárias à instrução do pedido.
+
+2 - O presidente da Comissão, ou o membro da Comissão responsável pelo processo, antes de declarar encerrada a instrução, pode ouvir os restantes membros para que sugiram a realização de outras diligências com interesse para a decisão, a efectuar dentro do prazo previsto no n.º 1 do artigo 14.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro.
+
+###### Artigo 10.º — Decisão do pedido
+
+1 - Concluída a instrução, o presidente ou o membro da Comissão responsável pelo processo decide de imediato sobre a concessão da indemnização e qual o respectivo montante.
+
+2 - No caso dos pedidos de adiantamento de indemnização previstos na alínea c) do n.º 4 do artigo 7.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro, a concessão da indemnização e a fixação do respectivo montante é deliberada pela Comissão, por maioria dos membros incluindo o presidente, sob proposta do presidente ou do membro responsável pela instrução.
+
+3 - Na decisão do pedido é ponderada a circunstância de a vítima não ter deduzido o pedido cível ou dele ter desistido, quando em razão disso resulte inviabilizada a sub-rogação a que se refere o artigo 15.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro.
+
+###### Artigo 11.º — Notificações
+
+No âmbito do processo relativo à concessão da indemnização, as notificações são efectuadas preferencialmente por meios electrónicos.
+
+###### Artigo 12.º — Legislação aplicável
+
+Em tudo o que não contrarie o disposto no presente decreto-lei, a actividade processual da comissão é regulada, com as necessárias adaptações, pelo Código do Procedimento Administrativo.
+
+### CAPÍTULO IV — Alterações legislativas
+
+###### Artigo 13.º — Alteração ao [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro
+
+O artigo 24.º do [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, passa a ter a seguinte redacção:
+
+«Artigo 24.º
+
+[...]
+
+1 - A Comissão de Protecção às Vítimas de Crimes é um órgão administrativo independente responsável, por si ou através dos seus membros, pela concessão de adiantamentos de indemnização por parte do Estado às vítimas de crimes violentos e de violência doméstica.
+
+2 - ...»
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 14.º — Membros da Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes
+
+Os membros da Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes, designada ao abrigo do [Decreto-Lei n.º 423/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1991-322286), de 30 de Outubro, e do [Decreto Regulamentar n.º 4/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1993-656590), de 22 de Fevereiro, cessam as suas funções no momento da tomada de posse da Comissão de Protecção às Vítimas de Crimes, designada ao abrigo da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro.
+
+###### Artigo 15.º — Processos pendentes
+
+Os processos da Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes são transferidos para a Comissão de Protecção às Vítimas de Crimes.
+
+###### Artigo 16.º — Encargos com processos de vítimas de crimes violentos e de violência conjugal
+
+Sem prejuízo do disposto no artigo 26.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro, os encargos resultantes dos processos de vítimas de crimes violentos e de violência conjugal, ao abrigo do [Decreto-Lei n.º 423/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1991-322286), de 30 de Outubro, e da [Lei n.º 129/99](https://diariodarepublica.pt/dr/detalhe/lei/129-1999-434007), de 20 de Agosto, são suportados pela verba inscrita no orçamento da Secretaria-Geral do Ministério da Justiça, nos termos previstos no n.º 1 do artigo 9.º da [Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de Setembro.
+
+###### Artigo 17.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar n.º 4/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1993-656590), de 22 de Fevereiro, alterado pelo [Decreto Regulamentar n.º 1/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1999-171509), de 15 de Fevereiro.
+
+Visto e aprovado em Conselho de Ministros de 9 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins.
+
+Promulgado em 14 de Outubro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 14 de Outubro de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

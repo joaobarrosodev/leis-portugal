@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985R0417:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R0417-19971201",
+ "dre_path": null,
+ "source_lastmod": "1997-12-01",
+ "versions": [
+  {
+   "date": "1985-02-22",
+   "future": false,
+   "celex": "31985R0417",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "072fedbc8c8b4515",
+    "f333c1e96a2a64f3",
+    "bdc3e9a7707c50f6",
+    "e0ff0b49f08fedc1",
+    "280ab384ff5c63df",
+    "1c54d05e96bb0cf7",
+    "c86328f8590f96bb",
+    "744afd382103aa32",
+    "05f3223033a72af7",
+    "7c96d6a30a0ae434",
+    "fd93b7053c32b05c"
+   ]
+  }
+ ],
+ "fragments": {
+  "072fedbc8c8b4515": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 417/85 da Comissão, de 19 de Dezembro de 1984, relativo à aplicação do nº 3 do artigo 85º do Tratado a certas categorias de acordos de especialização** *Jornal Oficial nº L 053 de 22/02/1985 p. 0001 - 0004 Edição especial finlandesa: Capítulo 8 Fascículo 1 p. 0064 Edição especial espanhola: Capítulo 08 Fascículo 2 p. 0162 Edição especial sueca: Capítulo 8 Fascículo 1 p. 0064 Edição especial portuguesa: Capítulo 08 Fascículo 2 p. 0162*\n\nREGULAMENTO (CEE) No 417/85 DA COMISSÃO de 19 de Dezembro de 1984 relativo à aplicação do no 3 do artigo 85o do Tratado a certas categorias de acordos de especialização\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 2821/71 do Conselho de 20 de Dezembro de 1971, relativo à aplicação do no 3 do artigo 85o do Tratado a certas categorias de acordos, decisões e práticas concertadas (1), com a última redacção que lhe foi dada pelo Acto de Adesão da Grécia e, nomeadamente, o seu artigo 1o,\n\nApós publicação do projecto de regulamento (2),\n\nApós consulta do Comité Consultivo em matéria de acordos, decisões e práticas concertadas e de posições dominantes,\n\n(1) Considerando que, por força do Regulamento (CEE) no 2821/71, a Comissão tem competência para aplicar, por meio de regulamento, o no 3 do artigo 85o do Tratado a certas categorias de acordos, decisões e práticas concertadas, abrangidos pelo disposto do no 1 do artigo 85o, que tenham por objecto a especialização, incluindo os acordos necessários à sua realização;\n\n(2) Considerando que os acordos de especialização da produção actual ou futura podem ser abrangidos pelo disposto no no 1 do artigo 85o do Tratado;\n\n(3) Considerando que os acordos de especialização da produção contribuem, em geral, para melhorar a produção ou a distribuição dos produtos, dado que as empresas podem concentrar as suas actividades no fabrico de certos produtos, trabalhar assim de maneira mais racional e oferecer esses produtos a preços mais favoráveis; que se pode esperar de uma concorrência efectiva que os utilizadores beneficiem equitativamente do lucro dai resultante;\n\n(4) Considerando que estas vantagens decorrem de igual modo, tanto dos acordos de especialização pelos quais cado uma das partes renuncia, em favor de outra, a fabricar certos produtos, como dos acordos segundo os quais os participantes se obrigam a só fabricar ou a só mandar fabricar determinados produtos conjuntamente;\n\n(5) Considerando que o presente regulamento deve decidir as restrições de concorrência que podem figurar num acordo de especialização; que as restrições de concorrência que, além da renúncia recíproca ao fabrico, sejam assim admitidas, constituem normalmente uma condição essencial para a conclusão e a realização do acordo; que estas restrições são, portanto, em geral, necessárias para proporcionar às partes e aos utilizadores as vantagens pretendidas através da especialização; que pode deixar-se aos co-contratantes o cuidado de decidir quais daquelas disposições irão inserir nos seus acordos;\n\n(6) Considerando que a isenção deve ser limitada aos acordos que não dêem qualquer possibilidade de eliminar a concorrência numa parte substancial dos produtos em causa; que o presente regulamento só é pois aplicável desde que nem a quota de mercado detida pelas empresas participantes nem o seu volume de vendas excedam determinadas ordens de grandeza;\n\n(7) Considerando que, no entanto, se mostra adequado oferecer às empresas que excedam o volume de vendas fixado no presente regulamento um meio simplificado para beneficiar da segurança jurídica representada pela isenção por categoria; que tal meio deve, ao mesmo tempo, permitir à Comissão assegurar uma vigilância eficaz e simplificar o controlo administrativo dos acordos, decisões e práticas concertadas;\n\n(8) Considerando que, a fim de facilitar a conclusão de acordos de especialização a longo prazo, acordos que podem ter para as empresas interessadas incidências de ordem estrutural, deve fixar-se o período de vigência do regulamento em treze anos; que se durante este período se alterarem sensivelmente as circunstâncias em atenção às quais o regulamento tenha sido adoptado, a Comissão procederá às necessárias adaptações do regulamento;\n\n(9) Considerando que os acordos, decisões e práticas concertadas que ficam automaticamente isentados por força do presente regulamento não têm que ser notificados; que, no entanto, as empresas conservam a possibilidade de pedir uma decisão nos termos do Regulamento no 17 do Conselho (3), com a última redacção que lhe foi dada pelo Acto de Adesão da Grécia,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f333c1e96a2a64f3": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nNos termos do no 3 do artigo 85o do Tratado e nas condições previstas no presente regulamento, o no 1 do artigo 85o do Tratado é declarado inaplicável aos acordos em que as empresas se obriguem reciprocamente, no período de vigência do acordo, para fins de especialização:\n\na) Quer a não fabricar elas próprias ou a não mandar fabricar determinados produtos e a deixar aos outros contratantes a liberdade de fabricar ou de mandar fabricar estes produtos;\n\nb) Quer a só fabricar ou a só mandar fabricar determinados produtos conjuntamente."
+  },
+  "bdc3e9a7707c50f6": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Não pode ser imposta aos contratantes, além da obrigação enunciada no artigo 1o, qualquer restrição de concorrência que não seja:\n\na) A obrigação de não concluir com terceiros acordos de especialização respeitantes a produtos idênticos ou considerados similares pelos utilizadores em razão das suas propriedades, preço e uso;\n\nb) A obrigação de se abastecer de produtos objecto da especialização exclusivamente junto de co-contratantes, de uma empresa comum ou de uma terceira empresa à qual os contratantes confiem em conjunto o fabrico desses produtos, salvo se existirem condições de abastecimento mais favoráveis que os co-contratantes ou a empresa comum ou a terceira empresa encarregada do fabrico não estejam dispostas a oferecer;\n\nc) A obrigação de confiar a co-contratantes a distribuição exclusiva dos produtos objecto da especialização, desde que os utilizadores ou os intermediários possam obter os produtos referidos no contrato junto de outros fornecedores e os co-contratantes não restrinjam essas possibilidades de compra.\n\n2. O disposto no artigo 1o é igualmente aplicável quando os co-contratantes assumam obrigações previstas no no 1, mas dando-lhes um alcançe mais limitado que o admitido no referido número.\n\n3. As seguintes obrigações não constituem obstáculo à aplicabilidade do artigo 1o:\n\na) A obrigação de fornecer aos co-contratantes os produtos objecto da especialização e de respeitar, neste aspecto, qualidades mínimas;\n\nb) A obrigação de assegurar, em relação aos produtos objecto da especialização, a armazenagem de quantidades mínimas e de peças sobressalentes desses produtos;\n\nc) A obrigação de assegurar, em relação aos produtos objecto da especialização, o serviço de assistência à clientela e a garantia."
+  },
+  "e0ff0b49f08fedc1": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O disposte no artigo 1o só é aplicável:\n\na) Quando os produtos objecto da especialização e os outros produtos das empresas participantes considerados similares pelo utilizador em razão das suas propriedades preço e uso não representem, no mercado comum ou numa parte substancial deste, mais de 20 % do mercado do conjunto dos produtos,\n\ne\n\nb) Quando o volume de vendas total realizado durante um ano financeiro pelo conjunto das empresas participantes não exceda 500 milhões de ECUs.\n\n2. O disposto no artigo 1o continua a ser aplicável se, durante dois anos financeiros consecutivos, a quota de mercado prevista na alínea a) do no 1 ou o volume de vendas previsto na alínea b) do no 1 não tiver sido excedido em mais de um décimo.\n\n3. Quando os limites referidos nos nos º 1 e 2 forem excedidos, o disposto no artigo 1o continua a aplicar-se durante o período de seis meses a contar do termo do ano financeiro em que o limite tenha sido excedido."
+  },
+  "280ab384ff5c63df": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Beneficiam igualmente da isenção prevista no artigo 1o os acordos em que participem empresas cujo volume de vendas total exceda o limite definido na alínea b) do no 1 e no no 2 do artigo 3o, desde que os acordos em questão sejam, nos termos do Regulamento no 27 da Comissão (4), notificados à Comissão e esta, no prazo de seis meses, não se oponha à isenção.\n\n2. O prazo de seis meses começa a correr no dia em que a notificação for recebida pela Comissão. No entanto, quando a notificação for remetida por carta registada, este prazo começa a correr na data do carimbo dos correios do local de expedição.\n\n3. O disposto no no 1 só se aplica se:\n\na) A notificação ou uma comunicação que a acompanhe se referirem expressamente ao presente artigo;\n\nb) As informações a prestar aquando da notificação estiverem completas e de acordo com os factos.\n\n4. No que respeita aos acordos já notificados aquando da entrada em vigor do presente regulamento, as disposições do no 1 podem ser invocadas numa comunicação à Comissão, que se refira à notificação e, expressamente, a este artigo. É aplicável mutatis mutandis o disposto no no 2 e na alínea b) do no 3.\n\n5. A Comissão pode opor-se à isenção. Deve opor-se quando um Estado-membro o pedir, no prazo de três meses a contar da data da transmissão ao Estado-membro da notificação referida no no 1 ou da comunicação referida no no 4 do presente artigo. Este pedido deve ser fundamentado em considerações relativas às regras de concorrência do Tratado.\n\n6. A Comissão pode em qualquer momento levantar a oposição à isenção. No entanto, quando a oposição resultar do pedido de um Estado-membro e este o mantiver, a oposição só pode ser leventada após consulta do Comité Consultivo em matéria de acordos, decisões e práticas concertadas e de posições dominantes.\n\n7. Se a oposição for levantada porque as empresas interessadas demonstraram que estão preenchidas as condições do no 3 do artigo 85o, a isenção produz efeitos a partir da data da notificação.\n\n8. Se a oposição for levantada porque as empresas interessadas modificaram o acordo de modo a preencher as condições do no 3 do artigo 85o, a isenção produz efeitos a partir da data em que as modificações entrem em vigor.\n\n9. Se a Comissão se opuser e a oposição não for levantada, os efeitos da notificação regem-se pelo disposto no Regulamento no 17."
+  },
+  "1c54d05e96bb0cf7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. As informações obtidas nos termos do artigo 4o só podem ser utilizadas para os fins referidos no presente regulamento.\n\n2. A Comissão e as autoridades dos Estados-membros, bem como os seus funcionários e outros agentes, não divulgarão as informações obtidas nos termos do presente regulamento e que, pela sua natureza, estejam abrangidas pelo segredo profissional.\n\n3. O disposto nos nos 1 e 2 não prejudica a publicação de informações gerais ou estudos que não contenham informações relativas a empresas ou associações de empresas determinadas."
+  },
+  "c86328f8590f96bb": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO volume de vendas total, na acepção do no 1, alínea b), do artigo 3o, resulta dos volumes de vendas, líquidos de imposições e taxas, realizados no decurso do último ano financeiro pelas empresas participantes em relação a todos os produtos e serviços. Não inclui as transacções realizadas entre as empresas participantes ou entre estas e uma terceira, encarregada do fabrico pelo conjunto dos co-contratantes."
+  },
+  "744afd382103aa32": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Para efeitos de aplicação do no 1, alíneas a) e b), do artigo 3o e do artigo 6o, consideram-se empresas participantes:\n\na) As empresas parte no acordo;\n\nb) As empresas nas quais uma parte no acordo disponha, directa ou indirectamente:\n\n- de mais de metade do capital ou do capital de exploração,\n\nou\n\n- de mais de metade dos direitos de voto,\n\nou\n\n- do poder de designar mais de metade dos membros do conselho fiscal ou de administração ou dos órgãos que representam legalmente a empresa,\n\nou\n\n- do direito de gerir os negócios da empresa;\n\nc) As empresas que disponham, numa empresa parte no acordo, directa ou indirectamente, dos direitos ou poderes enumerados na alínea b);\n\nd) As empresas nas quais uma empresa referida na alínea c) disponha, directa ou indirectamente, dos direitos ou poderes enumerados na alínea b).\n\n2. São igualmente consideradas empresas participantes aquelas nas quais várias empresas referidas nas alíneas a) a d) no no 1 disponham, em conjunto, directa ou indirectamente, dos direitos ou poderes enumerados na alínea b) do no 1."
+  },
+  "05f3223033a72af7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nNos termos do artigo 7o do Regulamento (CEE) no 2821/71, a Comissão pode retirar o benefício da aplicação do presente regulamento se verificar que, em determinado caso, um acordo isentado por força do presente regulamento tem, no entanto, certos efeitos incompatíveis com as condições previstas no no 3 do artigo 85o do Tratado e, nomeadamente, quando:\n\na) O acordo não provocar uma racionalização substancial ou os utilizadores não receberem uma parte equitativa do lucro daí resultante;\n\nb) Os produtos objecto da especialização não fizerem, no mercado comum ou numa parte substancial deste, uma concorrência efectiva a produtos idênticos ou considerados similares pelo utilizador em razão das suas propriedades, preço e uso."
+  },
+  "7c96d6a30a0ae434": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAs disposições do presente regulamento aplicam-se mutatis mutandis às decisões de associações de empresas e às práticas concertadas."
+  },
+  "fd93b7053c32b05c": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O presente regulamento entra em vigor em 1 de Março de 1985. É aplicável até 31 de Dezembro de 1997.\n\n2. É revogado o Regulamento (CEE) no 3604/82 da Comissão (5).\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 19 de Dezembro de 1984.\n\nPela Comissão\n\nFrans ANDRIESSEN\n\nMembro da Comissão\n\n(1) JO no L 285 de 29. 12. 1971, p. 46.(2) JO no C 211 de 11. 8. 1984, p. 2.(3) JO no 13 de 21. 2. 1962, p. 204/62.(4) JO no 35 de 10. 5. 1962, p. 1118/62.(5) JO no L 376 de 31. 12. 1982, p. 33."
+  }
+ }
+}

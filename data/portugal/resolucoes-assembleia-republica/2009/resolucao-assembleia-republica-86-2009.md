@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:489713:por
+title: Resolução da Assembleia da República n.º 86/2009
+short_title: null
+summary: Aprova as alterações aos Estatutos do Instituto Internacional de Língua Portuguesa (IILP), adoptadas na X Reunião
+  Ordinária do Conselho de Ministros da Comunidade de Países de Língua Portuguesa (CPLP), realizada em Luanda nos dias 19
+  e 20 de Julho de 2005
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 86/2009
+official_date: null
+publication_date: '2009-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/2009, Série I de 2009-09-15
+  number: '179'
+  series: I
+  supplement: null
+  pages: 6326 - 6327
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0632606327.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/86/2009/09/15/p/dre/pt/html
+  oj: null
+  dre: '489713'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/86-2009-489713
+  internal: pt:dre:489713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2009-489713
+  metadata_url: https://data.dre.pt/eli/resolassrep/86/2009/09/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2009-489713
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c833a225b5198d587d6c3a972ba7e04e2e7318c0b0e5f3c13e7d8773ca7dc621
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:23:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- Instituto Internacional da Língua Portuguesa
+- Luanda
+relationships:
+- type: amended_by
+  target: pt:dre:489714:por
+  label: "Ratificadas as alterações aos Estatutos, pelo DEC.89/2009.15.09.2009.PR, DR.IS [179] de 15.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/89-2009-489714
+  date: '2009-09-15'
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:23:48Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 86/2009
+
+Aprova as alterações aos Estatutos do Instituto Internacional de Língua Portuguesa (IILP), aprovadas na X Reunião Ordinária do Conselho de Ministros da CPLP, realizada em Luanda nos dias 19 e 20 de Julho de 2005.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar as alterações aos Estatutos do Instituto Internacional de Língua Portuguesa (IILP), aprovadas na X Reunião Ordinária do Conselho de Ministros da CPLP, realizada em Luanda nos dias 19 e 20 de Julho de 2005, constantes da Resolução sobre as Alterações aos Estatutos do IILP, cujo texto, na versão autenticada na língua portuguesa, se publica em anexo.
+
+Aprovada em 3 de Julho de 2009.
+
+O Presidente da Assembleia da República, Jaime Gama.
+
+RESOLUÇÃO SOBRE AS ALTERAÇÕES AOS ESTATUTOS DO IILP
+
+O Conselho de Ministros da Comunidade dos Países de Língua Portuguesa (CPLP), reunido em Luanda, na X Reunião Ordinária, nos dias 19 e 20 de Julho de 2005:
+
+Tendo decidido que o estreitamento das relações entre o Instituto Internacional da Língua Portuguesa (IILP) e os órgãos da CPLP é condição essencial à prossecução dos objectivos não só daquela instituição mas da própria organização;
+
+Tendo, para esse efeito, atribuído à CPLP a responsabilidade pela aprovação do Orçamento de Funcionamento do IILP, que manterá a sua autonomia científica e administrativa;
+
+Tendo, para este efeito, adoptado uma resolução que introduziu as necessárias alterações aos Estatutos da CPLP:
+
+decide aprovar as alterações aos Estatutos do IILP, conforme o documento em anexo, fazendo simultaneamente as necessárias alterações ao articulado.
+
+Feita em Luanda, em 20 de Julho de 2005.
+
+Pela República de Angola:
+
+João Bernardo Miranda.
+
+Pela República Federativa do Brasil:
+
+Celso Amorim.
+
+Pea República de Cabo Verde:
+
+Victor Borges.
+
+Pela República da Guiné-Bissau:
+
+Soares Sambu.
+
+Pela República de Moçambique:
+
+Alcinda António de Abreu.
+
+Pela República Portuguesa:
+
+Diogo Freitas do Amaral.
+
+Pela República Democrática de São Tomé e Príncipe:
+
+Ovídio Pequeno.
+
+Pela República Democrática de Timor-Leste:
+
+Roque Rodrigues.
+
+ESTATUTOS DO IILP
+
+(alterações)
+
+###### Artigo 1.º — Objecto
+
+1 - O Instituto Internacional da Língua Portuguesa (IILP) é uma instituição da Comunidade dos Países da Língua Portuguesa que goza de personalidade jurídica e é dotada de autonomia científica, administrativa e patrimonial.
+
+...
+
+3 - Na sua actuação o IILP tomará em consideração as orientações gerais da CPLP, nomeadamente expressas pela Conferência de Chefes de Estado e de Governo, pelo Conselho de Ministros e pelo Comité de Concertação Permanente.
+
+...
+
+###### Artigo 3.º — Órgãos
+
+1 - São órgãos do IILP o conselho científico e a direcção executiva.
+
+...
+
+###### Artigo 4.º — Conselho científico
+
+1 - O conselho científico é constituído por representantes governamentais e ou pelos coordenadores das comissões nacionais de cada um dos Estados membros.
+
+2 - Compete ao conselho científico:
+
+...
+
+[É suprimida a actual alínea b).]
+
+[A actual alínea c) é renomeada, transformando-se em b).]
+
+c) Apresentar propostas sobre as orientações do IILP;
+
+[A actual alínea e) é renomeada, transformando-se em d).]
+
+e) Apreciar o relatório, as contas e a proposta do orçamento do IILP;
+
+[A actual alínea g) é renomeada, transformando-se em f).]
+
+[A actual alínea h) é renomeada, transformando-se em g).]
+
+h) Pronunciar-se sobre as propostas de alteração dos Estatutos que lhe sejam submetidas por um ou mais Estados membros;
+
+[A actual alínea j) é renomeada, transformando-se em i).]
+
+j) Apreciar qualquer outro assunto de interesse do IILP.
+
+[É suprimida a actual alínea k).]
+
+3 - As deliberações serão adoptadas por consenso.
+
+4 - O conselho científico reúne-se, em princípio, na sede do IILP, ordinariamente, uma vez por ano e, extraordinariamente, quando solicitada por dois terços dos Estados membros.
+
+5 - O conselho científico pode autorizar a presença de convidados e observadores nas suas reuniões.
+
+###### Artigo 5.º — Presidente do conselho científico
+
+1 - O presidente do conselho científico é eleito de forma rotativa, para um mandato de dois anos.
+
+2 - No final do primeiro mandato, é facultado ao Estado membro cujo nacional ocupa o cargo de presidente do conselho científico apresentar candidatura, por mais um mandato de dois anos.
+
+...
+
+4 - Compete ao presidente do conselho científico:
+
+a) Convocar as reuniões ordinárias e extraordinárias do conselho científico;
+
+b) Presidir às reuniões do conselho científico;
+
+c) Velar pelo cumprimento e execução das deliberações do conselho científico.
+
+###### Artigo 6.º — Director executivo
+
+1 - O director executivo é eleito pelo Conselho de Ministros, obedecendo ao critério da rotatividade alfabética, para um mandato de dois anos, renovável uma vez.
+
+...
+
+3 - Compete ao director executivo:
+
+a) Gerir o IILP, chefiar e coordenar os seus serviços de acordo com os planos e programas aprovados pelo conselho científico e as orientações do Presidente;
+
+b) Propor e apresentar ao conselho científico o plano de actividades, tendo por base os projectos e programas apresentados pelas comissões nacionais dos Estados membros;
+
+...
+
+d) Submeter ao Comité de Concertação Permanente da CPLP as contas do exercício findo e apresentar a proposta de orçamento para o exercício seguinte acompanhado do respectivo plano de actividades;
+
+e) Submeter ao conselho científico o relatório de actividades;
+
+[As actuais alíneas e), f) e g) são renomeadas, transformando-se, respectivamente, em f), g) e h).]
+
+...
+
+###### Artigo 7.º — Comissões nacionais
+
+...
+
+2 - Compete às comissões nacionais:
+
+a) Apresentar e propor ao conselho científico projectos e programas, que deverão ser integrados no plano de actividades por este aprovado;
+
+...
+
+c) Assegurar a execução dos projectos e actividades que, de acordo com o Plano aprovado pelo conselho científico, sejam da competência do respectivo Estado membro.
+
+...
+
+###### Artigo 8.º — Escritórios regionais
+
+1 - O IILP poderá ter escritórios regionais, com funções técnico-científicas e de assessoria, nos Estados membros, devendo a sua criação ser objecto de acordo com a direcção executiva do IILP, à qual ficarão vinculados, estando o tal acordo sujeito a aprovação do Comité de Concertação Permanente. Os custos integrais da sua manutenção e actividades, incluindo a cessão e ou contratação de recursos humanos, serão da responsabilidade do Estado membro anfitrião.
+
+2 - O Estado membro anfitrião poderá indicar os recursos humanos que trabalharão no escritório, desde que custeie a sua participação integralmente, ficando o IILP isento de quaisquer responsabilidades trabalhistas referentes a esta participação.
+
+(Os artigos seguintes são renumerados.)
+
+###### Artigo 11.º — Alterações
+
+...
+
+2 - O director executivo comunicará aos restantes Estados membros e ao presidente do conselho científico as propostas de alteração referidas no número anterior, que as submeterá ao Comité de Concertação Permanente, para encaminhamento ao Conselho de Ministros, para aprovação.
+
+...

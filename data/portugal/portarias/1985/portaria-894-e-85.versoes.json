@@ -1,0 +1,363 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249492:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890538665",
+ "dre_path": "/dr/detalhe/portaria/894-e-1985-249492",
+ "source_lastmod": "2024-10-10",
+ "versions": [
+  {
+   "date": "1985-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249502:por",
+     "title": "Declaração",
+     "published": "1985-11-23",
+     "dre_path": "/dr/detalhe/declaracao/1985-249502"
+    }
+   ],
+   "changes": [
+    "Retifica 8.º",
+    "Retifica 12.º"
+   ],
+   "fragments": [
+    "890536191",
+    "890536215",
+    "890536214",
+    "890536213",
+    "890536212",
+    "890536211",
+    "890536210",
+    "890536209",
+    "890536249",
+    "890536207",
+    "890536206",
+    "890536205",
+    "890536250",
+    "890536203",
+    "890536202",
+    "890536201",
+    "890536200",
+    "890536199",
+    "890536198",
+    "890536197",
+    "890536196",
+    "890536195",
+    "890536194",
+    "890536192",
+    "890536193"
+   ]
+  },
+  {
+   "date": "1986-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546463:por",
+     "title": "Portaria n.º 968/85",
+     "published": "1985-12-31",
+     "dre_path": "/dr/detalhe/portaria/968-1985-546463"
+    }
+   ],
+   "changes": [
+    "Altera 12.º"
+   ],
+   "fragments": [
+    "890536191",
+    "890536215",
+    "890536214",
+    "890536213",
+    "890536212",
+    "890536211",
+    "890536210",
+    "890536209",
+    "890536249",
+    "890536207",
+    "890536206",
+    "890536205",
+    "890536251",
+    "890536203",
+    "890536202",
+    "890536201",
+    "890536200",
+    "890536199",
+    "890536198",
+    "890536197",
+    "890536196",
+    "890536195",
+    "890536194",
+    "890536192",
+    "890536193"
+   ]
+  },
+  {
+   "date": "1986-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191821:por",
+     "title": "Portaria n.º 28/86",
+     "published": "1986-01-22",
+     "dre_path": "/dr/detalhe/portaria/28-1986-191821"
+    }
+   ],
+   "changes": [
+    "Altera 18.º"
+   ],
+   "fragments": [
+    "890536191",
+    "890536215",
+    "890536214",
+    "890536213",
+    "890536212",
+    "890536211",
+    "890536210",
+    "890536209",
+    "890536249",
+    "890536207",
+    "890536206",
+    "890536205",
+    "890536251",
+    "890536203",
+    "890536202",
+    "890536201",
+    "890536200",
+    "890536199",
+    "890536252",
+    "890536197",
+    "890536196",
+    "890536195",
+    "890536194",
+    "890536192",
+    "890536193"
+   ]
+  }
+ ],
+ "fragments": {
+  "890536191": {
+   "fragment_id": "890538666",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 894-E/85\n\nde 23 de Novembro\n\nA revisão dos preços do leite deve enquadrar-se no âmbito da política de rendimentos e preços adoptada pelo Governo e que, entre outros objectivos, visa diminuir o ritmo de inflação em Portugal.\n\nAo abrigo do disposto no artigo 2.º do Decreto-Lei n.º 45835, de 27 de Junho de 1964, do Decreto-Lei n.º 138/79, de 18 de Maio, e no artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, aprovar o seguinte:"
+  },
+  "890536215": {
+   "fragment_id": "890673996",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\n1 - A classificação do leite para efeitos de pagamento à produção é feita com base nas seguintes classes:\n\nClasse A - leite prioritariamente destinado ao consumo em natureza;\n\nClasse B - leite destinado à industrialização e eventualmente ao consumo em natureza como leite comum;\n\nClasse C - leite sem qualidade para consumo em natureza e que apenas poderá ser destinado a algumas utilizações industriais.\n\n2 - Sempre que o leite entregue pelos produtores nos locais de recolha levante suspeitas de alteração ou sobre a sua genuinidade, deverá ser separado e devidamente identificado para apreciação ulterior no centro de concentração.\n\n3 - Os leites que estejam considerados impróprios para consumo humano, tais como os que apresentam pus, sangue ou substâncias estranhas à sua composição química, coloração, cheiro ou sabores nitidamente anormais, que coagulem pela ebulição ou excedam em impurezas o grau 4 da escala portuguesa, deverão ser inutilizados e o produtor não terá direito a receber por eles qualquer valorização.\n\n4 - Os mapas de volume de leite classificado serão, para efeito de pagamento de subsídios pela Junta Nacional dos Produtos Pecuários, subscritos pelas entidades que efectuam a recolha de leite e a sua autenticidade garantida pelos serviços competentes das direcções regionais do Ministério da Agricultura, Pescas e Alimentação.\n\n5 - O controle da qualidade do leite ao nível das concentrações será assegurado pelos serviços competentes das direcções regionais do Ministério da Agricultura, Pescas e Alimentação, com a colaboração da Direcção-Geral da Pecuária."
+  },
+  "890536214": {
+   "fragment_id": "890673995",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\n1 - No continente, nas zonas de recolha organizada e nas zonas de recolha não organizada onde se procede à classificação oficial do leite, os preços a praticar, por litro de leite, no centro de tratamento ou fábrica, são os seguintes:\n\nLeite da classe A - 47$00;\n\nLeite da classe B - 43$00;\n\nLeite da classe C - 14$00.\n\n2 - No continente, nas zonas de recolha não organizada e onde se não procede à classificação oficial do leite, os preços a praticar, por litro de leite, são os previstos no n.º 1 para o leite da classe B e entendem-se no centro de tratamento ou fábrica.\n\n3 - Os preços referidos nos n.os 1 e 2 incluem a totalidade dos encargos até agora designados por 1.º escalão do ciclo do leite, podendo aos mesmos ser deduzidos os encargos relativos às operações mencionadas no artigo 15.º do Regulamento dos Centros de Concentração de Leite, aprovado pelo Decreto Regulamentar n.º 7/81, de 31 de Janeiro, quando estes forem suportados pelo utilizador.\n\n4 - Para os encargos da concentração referidos no n.º 3 é estipulado o valor de 1$00 por litro.\n\n5 - Os preços referidos nos números anteriores entendem-se para o litro de leite com 3,5% de teor butiroso, sujeito à valorização ou desvalorização de $40 por cada 0,1% de gordura."
+  },
+  "890536213": {
+   "fragment_id": "890673994",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nÀs entidades que efectuarem a recolha de leite é imputada a responsabilidade pela qualidade do produto até ao centro de concentração ou até ao centro de tratamento ou fábrica, no caso de o transporte ser efectuado por aquelas entidades."
+  },
+  "890536212": {
+   "fragment_id": "890673993",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nOs produtores e cooperativas de produtores das zonas de recolha organizada do continente que procedam à instalação de equipamento de ordenha mecânica e ou de refrigeração de leite anexa à ordenha, nas condições expressas no n.º 8.º da presente portaria, beneficiação de um subsídio de 40% a fundo perdido sobre o custo e a montagem do equipamento que consta da lista anexa a este diploma."
+  },
+  "890536211": {
+   "fragment_id": "890673992",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\n1 - Os produtores e cooperativas de produtores das áreas de recolha organizada do continente que utilizem ordenha mecânica e ou refrigeração anexa à ordenha, nas condições expressas no n.º 8.º da presente portaria, receberão os seguintes subsídios por cada litro de leite da classe A e de leite especial:\n\na) 1$00, se procederem simultaneamente à ordenha mecânica e à refrigeração;\n\nb) $20, se realizarem apenas a ordenha mecânica;\n\nc) $80, se procederem apenas à refrigeração.\n\n2 - O subsídio de $20 por litro concedido ao leite obtido por ordenha mecânica deverá ser anulado a partir da revisão de preços de 1986."
+  },
+  "890536210": {
+   "fragment_id": "890673991",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\n1 - Poderão eventualmente ser contemplados com o subsídio previsto no n.º 4.º os produtores de zonas de recolha não organizada do continente cujos pedidos, apreciados caso a caso pelos serviços competentes do Ministério da Agricultura, Pescas e Alimentação, sejam aprovados.\n\n2 - Os produtores de zona de recolha não organizada mas onde se proceda à classificação oficial de leite receberão os subsídios previstos no n.º 5.º desta portaria."
+  },
+  "890536209": {
+   "fragment_id": "890673990",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nAs cooperativas de produtores e as uniões de cooperativas das zonas de recolha organizada que procedam à instalação nos postos de recepção de leite de equipamento de refrigeração e ou de equipamento de recuperação de calor no sistema de refrigeração, nas condições expressas no n.º 8.º da presente portaria, beneficiarão de um subsídio de 40% a fundo perdido sobre o custo e a montagem do equipamento adquirido."
+  },
+  "890536249": {
+   "fragment_id": "890673989",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "1985-11-23",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-249502), em vigor a partir de 1985-11-23"
+   ],
+   "markdown": "###### 8.º\n\n1 - No continente, a concessão dos subsídios referidos nos n.os 4.º, 5.º, 6.º e 7.º dependerá da aprovação das instalações de equipamentos pelos serviços competentes das direcções regionais, em coordenação com a Direcção-Geral da Pecuária.\n\n2 - No continente, para a concessão dos subsídios aos produtores referidos nos n.os 4.º e 5.º será solicitado parecer das cooperativas de produtores a cujas áreas sociais respeitem.\n\n3 -A atribuição destes subsídios é da responsabilidade da Junta Nacional dos Produtos Pecuários, cabendo, no entanto, às organizações cooperativas que procedam à recolha e concentração exclusivamente na sua área social a efectivação do pagamento das dotações referidas no n.º 5.º desta portaria.\n\n4 - Os encargos decorrentes do pagamento dos subsídios referidos nos n.os 4.º, 5.º, 6.º e 7.º serão suportados pelo Fundo de Abastecimento.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-249502), em vigor a partir de 1985-11-23"
+  },
+  "890536207": {
+   "fragment_id": "890673988",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\n1 - Os tipos de leite para consumo em natureza comercializada no continente, com excepção do leite especial pasteurizado, deverão apresentar o seguinte teor butiroso:\n\n... Percentagem\n\nLeite pasteurizado ... 2,5\n\nLeite comum ... 2,5\n\nLeite utrapasteurizado gordo ... 2,5\n\nLeite ultrapasteurizado meio gordo ... 1,5\n\nLeite ultrapasteurizado magro ... 0,5\n\nLeite esterilizado gordo ... 2,5\n\nLeite esterilizado meio gordo ... 1,5\n\nLeite esterilizado magro ... 0,5\n\n2 - Estas percentagens entendem-se como valores mínimos, exceptuando-se os valores indicados para os leites ultrapasteurizado e esterilizado magros, que se consideram como máximos."
+  },
+  "890536206": {
+   "fragment_id": "890673982",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nPor despacho dos Secretários de Estado da Alimentação e do Comércio Interno, sob proposta da Junta Nacional dos Produtos Pecuários, ouvidas as entidades que procedem ao tratamento do leite, poderão ser definidos os quantitativos máximos destinados à comercialização como leites aromatizados."
+  },
+  "890536205": {
+   "fragment_id": "890673981",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nFicam sujeitos, no continente, ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, o leite pasteurizado, o leite comum tratado, o leite ultrapasteurizado de fabrico continental, o leite esterilizado de fabrico continental e o leite especial pasteurizado."
+  },
+  "890536250": {
+   "fragment_id": "890673980",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": "1985-11-23",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-249502), em vigor a partir de 1985-11-23"
+   ],
+   "markdown": "###### 12.º\n\n1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista se este se abastecer no centro de tratamento.\n\n3 - Nos centros de consumo poderá ser deduzida da margem máxima do retalhista a importância de $30 por embalagem, quando colocada no estabelecimento de venda a retalho.\n\n4 - Os consumidores colectivos, a indústria e os estabelecimentos hoteleiros e similares só poderão ser abastecidos de leite pasteurizado acondicionado em bilhas seladas, em garrafas e em embalagens perdidas.\n\n5 - O preço máximo de entrega na entidade utilizadora de leite pasteurizado acondicionado em bilhas seladas, em garrafas e embalagens perdidas destinadas a consumidores colectivos e a estabelecimentos hoteleiros e similares é de 50$80 por litro, podendo ser acrescida a importância de $50 por embalagem, quando se observarem as condições do n.º 2 deste número.\n\n6 - O preço máximo de entrega na entidade utilizadora do leite pasteurizado acondicionado em bilhas seladas destinado à indústria é de 52$24 por litro, em garrafa ou embalagem perdida.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-249502), em vigor a partir de 1985-11-23"
+  },
+  "890536203": {
+   "fragment_id": "890673979",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nO preço máximo de venda ao público do leite comum (leite da classe B) tratado, nos postos de abastecimento, é de 52$50 por litro, em garrafas ou embalagem perdida."
+  },
+  "890536202": {
+   "fragment_id": "890673978",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º\n\n1 - Os preços máximos do leite ultrapasteurizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento, sempre que este efectue tal operação.\n\n3 - É permitida a absorção da margem máxima de distribuição pelo retalhista sempre que este efectue tal operação, adquirindo no centro de tratamento uma quantidade igual ou superior a 1200 l."
+  },
+  "890536201": {
+   "fragment_id": "890673977",
+   "type": 11,
+   "heading": "15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º\n\n1 - Os preços máximos do leite esterilizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.\n\n3 - É permitida a absorção da margem máxima de distribuição pelo retalhista sempre que este efectue tal operação, adquirindo no centro de tratamento uma quantidade igual ou superior a 1200 l."
+  },
+  "890536200": {
+   "fragment_id": "890673975",
+   "type": 11,
+   "heading": "16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 16.º\n\n1.º - 1 - A classificação do leite para efeitos de pagamento à produção é feita com base nas seguintes classes:\n\nClasse A - leite prioritariamente destinado ao consumo em natureza;\n\nClasse B - leite destinado à industrialização e eventualmente ao consumo em natureza como leite comum;\n\nClasse C - leite sem qualidade para consumo em natureza e que apenas poderá ser destinado a algumas utilizações industriais.\n\n2 - Sempre que o leite entregue pelos produtores nos locais de recolha levante suspeitas de alteração ou sobre a sua genuinidade, deverá ser separado e devidamente identificado para apreciação ulterior no centro de concentração.\n\n3 - Os leites que estejam considerados impróprios para consumo humano, tais como os que apresentam pus, sangue ou substâncias estranhas à sua composição química, coloração, cheiro ou sabores nitidamente anormais, que coagulem pela ebulição ou excedam em impurezas o grau 4 da escala portuguesa, deverão ser inutilizados e o produtor não terá direito a receber por eles qualquer valorização.\n\n4 - Os mapas de volume de leite classificado serão, para efeito de pagamento de subsídios pela Junta Nacional dos Produtos Pecuários, subscritos pelas entidades que efectuam a recolha de leite e a sua autenticidade garantida pelos serviços competentes das direcções regionais do Ministério da Agricultura, Pescas e Alimentação.\n\n5 - O controle da qualidade do leite ao nível das concentrações será assegurado pelos serviços competentes das direcções regionais do Ministério da Agricultura, Pescas e Alimentação, com a colaboração da Direcção-Geral da Pecuária.\n\n2.º - 1 - No continente, nas zonas de recolha organizada e nas zonas de recolha não organizada onde se procede à classificação oficial do leite, os preços a praticar, por litro de leite, no centro de tratamento ou fábrica, são os seguintes:\n\nLeite da classe A - 47$00;\n\nLeite da classe B - 43$00;\n\nLeite da classe C - 14$00.\n\n2 - No continente, nas zonas de recolha não organizada e onde se não procede à classificação oficial do leite, os preços a praticar, por litro de leite, são os previstos no n.º 1 para o leite da classe B e entendem-se no centro de tratamento ou fábrica.\n\n3 - Os preços referidos nos n.os 1 e 2 incluem a totalidade dos encargos até agora designados por 1.º escalão do ciclo do leite, podendo aos mesmos ser deduzidos os encargos relativos às operações mencionadas no artigo 15.º do Regulamento dos Centros de Concentração de Leite, aprovado pelo Decreto Regulamentar n.º 7/81, de 31 de Janeiro, quando estes forem suportados pelo utilizador.\n\n4 - Para os encargos da concentração referidos no n.º 3 é estipulado o valor de 1$00 por litro.\n\n5 - Os preços referidos nos números anteriores entendem-se para o litro de leite com 3,5% de teor butiroso, sujeito à valorização ou desvalorização de $40 por cada 0,1% de gordura.\n\n3.º Às entidades que efectuarem a recolha de leite é imputada a responsabilidade pela qualidade do produto até ao centro de concentração ou até ao centro de tratamento ou fábrica, no caso de o transporte ser efectuado por aquelas entidades.\n\n4.º Os produtores e cooperativas de produtores das zonas de recolha organizada do continente que procedam à instalação de equipamento de ordenha mecânica e ou de refrigeração de leite anexa à ordenha, nas condições expressas no n.º 8.º da presente portaria, beneficiação de um subsídio de 40% a fundo perdido sobre o custo e a montagem do equipamento que consta da lista anexa a este diploma.\n\n5.º - 1 - Os produtores e cooperativas de produtores das áreas de recolha organizada do continente que utilizem ordenha mecânica e ou refrigeração anexa à ordenha, nas condições expressas no n.º 8.º da presente portaria, receberão os seguintes subsídios por cada litro de leite da classe A e de leite especial:\n\na) 1$00, se procederem simultaneamente à ordenha mecânica e à refrigeração;\n\nb) $20, se realizarem apenas a ordenha mecânica;\n\nc) $80, se procederem apenas à refrigeração.\n\n2 - O subsídio de $20 por litro concedido ao leite obtido por ordenha mecânica deverá ser anulado a partir da revisão de preços de 1986.\n\n6.º - 1 - Poderão eventualmente ser contemplados com o subsídio previsto no n.º 4.º os produtores de zonas de recolha não organizada do continente cujos pedidos, apreciados caso a caso pelos serviços competentes do Ministério da Agricultura, Pescas e Alimentação, sejam aprovados.\n\n2 - Os produtores de zona de recolha não organizada mas onde se proceda à classificação oficial de leite receberão os subsídios previstos no n.º 5.º desta portaria.\n\n7.º As cooperativas de produtores e as uniões de cooperativas das zonas de recolha organizada que procedam à instalação nos postos de recepção de leite de equipamento de refrigeração e ou de equipamento de recuperação de calor no sistema de refrigeração, nas condições expressas no n.º 8.º da presente portaria, beneficiarão de um subsídio de 40% a fundo perdido sobre o custo e a montagem do equipamento adquirido.\n\n8.º - 1 - No continente, a concessão dos subsídios referidos nos n.os 4.º, 5.º, 6.º e 7.º dependerá da aprovação das instalações de equipamentos pelos serviços competentes das direcções regionais, em coordenação com a Direcção-Geral da Pecuária.\n\n2 - No continente, para a concessão dos subsídios aos produtores referidos nos n.os 4.º e 5.º será solicitado parecer das cooperativas de produtores a cujas áreas sociais respeitem.\n\n3 - A atribuição destes subsídios é da responsabilidade da Junta Nacional dos Produtos Pecuários, cabendo, no entanto, às organizações cooperativas que procedam à recolha e concentração exclusivamente na sua área social a efectivação do pagamento das dotações referidas no n.º 5.º desta portaria.\n\n4 - Os encargos decorrentes do pagamento dos subsídios referidos nos n.os 4.º, 5.º, 6.º e 7.º serão suportados pelo Fundo de Abastecimento.\n\n9.º - 1 - Os tipos de leite para consumo em natureza comercializada no continente, com excepção do leite especial pasteurizado, deverão apresentar o seguinte teor butiroso:\n\n... Percentagem\n\nLeite pasteurizado ... 2,5\n\nLeite comum ... 2,5\n\nLeite utrapasteurizado gordo ... 2,5\n\nLeite ultrapasteurizado meio gordo ... 1,5\n\nLeite ultrapasteurizado magro ... 0,5\n\nLeite esterilizado gordo ... 2,5\n\nLeite esterilizado meio gordo ... 1,5\n\nLeite esterilizado magro ... 0,5\n\n2 - Estas percentagens entendem-se como valores mínimos, exceptuando-se os valores indicados para os leites ultrapasteurizado e esterilizado magros, que se consideram como máximos.\n\n10.º Por despacho dos Secretários de Estado da Alimentação e do Comércio Interno, sob proposta da Junta Nacional dos Produtos Pecuários, ouvidas as entidades que procedem ao tratamento do leite, poderão ser definidos os quantitativos máximos destinados à comercialização como leites aromatizados.\n\n11.º Ficam sujeitos, no continente, ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, o leite pasteurizado, o leite comum tratado, o leite ultrapasteurizado de fabrico continental, o leite esterilizado de fabrico continental e o leite especial pasteurizado.\n\n12.º - 1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista se este se abastecer no centro de tratamento.\n\n3 - Nos centros de consumo poderá ser deduzida da margem máxima do retalhista a importância de $30 por embalagem, quando colocada no estabelecimento de venda a retalho.\n\n4 - Os consumidores colectivos, a indústria e os estabelecimentos hoteleiros e similares só poderão ser abastecidos de leite pasteurizado acondicionado em bilhas seladas, em garrafas e em embalagens perdidas.\n\n5 - O preço máximo de entrega na entidade utilizadora de leite pasteurizado acondicionado em bilhas seladas, em garrafas e embalagens perdidas destinadas a consumidores colectivos e a estabelecimentos hoteleiros e similares é de 50$80 por litro, podendo ser acrescida a importância de $50 por embalagem, quando se observarem as condições do n.º 2 deste número.\n\n6 - O preço máximo de entrega na entidade utilizadora do leite pasteurizado acondicionado em bilhas seladas destinado à indústria é de 51$64 por litro, em garrafa ou embalagem perdida.\n\n13.º O preço máximo de venda ao público do leite comum (leite da classe B) tratado, nos postos de abastecimento, é de 52$50 por litro, em garrafas ou embalagem perdida.\n\n14.º - 1 - Os preços máximos do leite ultrapasteurizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento, sempre que este efectue tal operação.\n\n3 - É permitida a absorção da margem máxima de distribuição pelo retalhista sempre que este efectue tal operação, adquirindo no centro de tratamento uma quantidade igual ou superior a 1200 l.\n\n15.º - 1 - Os preços máximos do leite esterilizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.\n\n3 - É permitida a absorção da margem máxima de distribuição pelo retalhista sempre que este efectue tal operação, adquirindo no centro de tratamento uma quantidade igual ou superior a 1200 l.\n\n16.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se este se abastecer no centro de tratamento.\n\n3 - Nos centros de consumo poderá ser deduzida da margem máxima do retalhista a importância de $30 por embalagem, quando colocada no estabelecimento de venda a retalho."
+  },
+  "890536199": {
+   "fragment_id": "890538674",
+   "type": 11,
+   "heading": "17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 17.º\n\n1 - Nas zonas de recolha organizada, só é autorizada a venda ao público do leite não tratado da classe A nos postos de recepção ou salas colectivas de ordenha mecânica quando não houver distribuição de leite tratado.\n\n2 - O leite não tratado da classe A nas condições previstas no n.º 1 será vendido ao público ao preço máximo de 45$00 por litro."
+  },
+  "890536198": {
+   "fragment_id": "890538673",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 18.º\n\n1 - O Fundo de Abastecimento suportará o subsídio de 1$74 por litro de leite pasteurizado.\n\n2 - O Fundo de Abastecimento suportará o montante de $80 por litro de leite pasteurizado, ultrapasteurizado, esterilizado, especial pasteurizado e comum tratado que entregará ao Gabinete de Combate à Peripneumonia."
+  },
+  "890536197": {
+   "fragment_id": "890538672",
+   "type": 11,
+   "heading": "19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 19.º\n\nAs taxas de transporte de leite a granel para abastecimento de Lisboa, a suportar pelo Fundo de Abastecimento, são fixadas nos montantes seguintes, por litro:\n\nDe Évora - 1$40;\n\nDe Caia - 2$10."
+  },
+  "890536196": {
+   "fragment_id": "890538671",
+   "type": 11,
+   "heading": "20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 20.º\n\nOs encargos referidos nos n.os 18.º e 19.º serão liquidados pela Junta Nacional dos Produtos Pecuários mediante documentação comprovativa, a apresentar pelas entidades nele citadas."
+  },
+  "890536195": {
+   "fragment_id": "890538670",
+   "type": 11,
+   "heading": "21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 21.º\n\nÉ revogada a Portaria n.º 31-E/85, de 12 de Janeiro."
+  },
+  "890536194": {
+   "fragment_id": "890538669",
+   "type": 11,
+   "heading": "22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 22.º\n\nEsta portaria entra em vigor no dia 1 de Dezembro.\n\nMinistérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio."
+  },
+  "890536192": {
+   "fragment_id": "890538667",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 23 de Novembro de 1985.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins."
+  },
+  "890536193": {
+   "fragment_id": "890538668",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nLista anexa a que se refere o n.º 4 da Portaria n.º 894-E/85\n\n1) Bombas de leite.\n\n2) Dispositivos automáticos de lavagem e desinfecção.\n\n3) Esquentadores termoacumuladores para aquecimento de águas de lavagem do equipamento.\n\n4) Máquinas de ordenha e respectiva tubagem de condução de leite.\n\n5) Motores geradores de corrente para exclusivo apoio às instalações de ordenha e refrigeração.\n\n6) Tanques de refrigeração.\n\n7) Vasos colectores e medidores.\n\n8) Equipamento de desinfecção automática dos tetos.\n\n9) Equipamento de recuperação de calor do sistema de refrigeração.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins."
+  },
+  "890536251": {
+   "fragment_id": "890673980",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": "1986-01-01",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 968/85 - Diário da República n.º 301/1985, 7º Suplemento, Série I de 1985-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/968-1985-546463), em vigor a partir de 1986-01-01",
+    "Retificado pelo/a [Declaração - Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-249502), em vigor a partir de 1985-11-23"
+   ],
+   "markdown": "###### 12.º\n\n1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:\n\n(ver documento original)\n\n2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista se este se abastecer no centro de tratamento.\n\n3 - Nos centros de consumo poderá ser deduzida da margem máxima do retalhista a importância de $30 por embalagem, quando colocada no estabelecimento de venda a retalho.\n\n4 - Os consumidores colectivos, a indústria e os estabelecimentos hoteleiros e similares só poderão ser abastecidos de leite pasteurizado acondicionado em bilhas seladas, em garrafas e em embalagens perdidas.\n\n5 - O preço máximo de entrega na entidade utilizadora de leite pasteurizado acondicionado em bilhas seladas, em garrafas e embalagens perdidas destinadas a consumidores colectivos e a estabelecimentos hoteleiros e similares é de 50$80 por litro, podendo ser acrescida a importância de $50 por embalagem, quando se observarem as condições do n.º 2 deste número.\n\n6 - O preço máximo de entrega na entidade utilizadora do leite pasteurizado acondicionado em bilhas seladas destinado à indústria é de 52$24 por litro, em garrafa ou embalagem perdida.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 968/85 - Diário da República n.º 301/1985, 7º Suplemento, Série I de 1985-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/968-1985-546463), em vigor a partir de 1986-01-01\n\n> Retificado pelo/a [Declaração - Diário da República n.º 270/1985, 2º Suplemento, Série I de 1985-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-249502), em vigor a partir de 1985-11-23"
+  },
+  "890536252": {
+   "fragment_id": "890538673",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": "1986-01-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 28/86 - Diário da República n.º 18/1986, Série I de 1986-01-22](https://diariodarepublica.pt/dr/detalhe/portaria/28-1986-191821), em vigor a partir de 1986-01-27"
+   ],
+   "markdown": "###### 18.º\n\n1 - O Fundo de Abastecimento suportará o subsídio de 1$74 por litro de leite pasteurizado.\n\n2 - O Fundo de Abastecimento suportará o montante de $80 por litro de leite pasteurizado, ultrapasteurizado, esterilizado, especial pasteurizado e comum tratado, que entregará à Direcção-Geral da Pecuária.\n\n> Alterado pelo/a [Portaria n.º 28/86 - Diário da República n.º 18/1986, Série I de 1986-01-22](https://diariodarepublica.pt/dr/detalhe/portaria/28-1986-191821), em vigor a partir de 1986-01-27"
+  }
+ }
+}

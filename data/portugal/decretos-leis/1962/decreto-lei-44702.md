@@ -1,0 +1,454 @@
+---
+schema_version: '1.0'
+id: pt:dre:237464:por
+title: Decreto-Lei n.º 44702
+short_title: null
+summary: Cria inspecções de crédito e seguros ou do comércio bancário nas províncias ultramarinas, altera a constituição e
+  funcionamento dos fundos cambiais existentes e cria os mesmos fundos em determinadas províncias do ultramar - Revoga várias
+  disposições legislativas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho e Ministérios das Finanças e do Ultramar
+proposing_entity: null
+official_number: '44702'
+official_date: null
+publication_date: '1962-11-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 265/1962, 1º Suplemento, Série I de 1962-11-17
+  number: '265'
+  series: I
+  supplement: null
+  pages: 1521 - 1526
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/11/26501/15211526.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '237464'
+  dre_path: /dr/detalhe/decreto-lei/44702-1962-237464
+  internal: pt:dre:237464:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cac01df50ee50a26670a1a8211482f39dac25c2799c093a965df2e438277de74
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- CABO Verde.Colónia Portuguesa
+- Conselho de Câmbios
+- Conselho Provincial de Crédito e Seguros
+- Definição de Competências
+- Fundo Cambial
+- Gestão Financeira
+- Governador
+- Gratificação
+- Inspecção Provincial de Crédito e Seguros
+- Integração de Trabalhadores
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Pessoal de Inspecção
+- Recrutamento de Pessoal
+- Remuneração
+- Timor.Colónia Portuguesa
+relationships:
+- type: amended_by
+  target: pt:dre:216289:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:154848:por
+  label: "Alterado o art. 43º [relativamente à entrada em vigor, que é fixada para 01.03.1963] pelo DEC LEI.44828.31.12.1962.PC,\
+    \ DG.IS [299] de 31.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44828-1962-154848
+  date: '1962-12-31'
+- type: cites
+  target: pt:dre:152105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649372:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216289:por
+  label: "Revogado pelo DEC LEI.49304.16.10.1969.MF, DG.IS [243] de 16.10.1969, a partir da data de publicação do diploma\
+    \ previsto no nº 2 do art. 7º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49304-1969-216289
+  date: '1969-10-16'
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:42:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44702
+
+Para execução do previsto no [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, especialmente nos seus artigos 2.º, 43.º e 44.º, torna-se necessário que sejam criadas inspecções de crédito e seguros ou do comércio bancário nas províncias ultramarinas e se proceda à revisão da constituição e funcionamento dos fundos cambiais já existentes, de modo a ajustá-los aos fins visados pelo citado decreto-lei.
+
+Além disso, pareceu ser de toda a conveniência a criação de fundos cambiais naquelas províncias ultramarinas onde tem vigorado o regime instituído pelo [Decreto n.º 8440](https://diariodarepublica.pt/dr/detalhe/decreto/8440-1922-208825), de 21 de Outubro de 1922.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+### CAPÍTULO I — Das inspecções de crédito e seguros e do comércio bancário
+
+Artigo 1.º Nas províncias de Angola e Moçambique haverá uma Inspecção de Crédito e Seguros, que constituirá um serviço público com autonomia administrativa e financeira e em que serão integrados os serviços de fiscalização técnica da indústria seguradora, criados pelo [Decreto n.º 37076](https://diariodarepublica.pt/dr/detalhe/decreto/37076-1948-372792), de 29 de Setembro de 1948, devendo o respectivo pessoal ser nomeado de harmonia com as disposições do Estatuto do Funcionalismo Ultramarino. Nas restantes províncias ultramarinas este serviço público denominar-se-á inspecção do comércio bancário e terá as atribuições estabelecidas no presente decreto-lei.
+
+Art. 2.º Os inspectores e subinspectores de crédito e seguros serão, nas províncias de governo geral, nomeados pelo Ministro do Ultramar, ouvido o governador, e terão, respectivamente, as categorias correspondentes às letras D e E do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 30 de Julho de 1956.
+
+Nas restantes províncias os cargos de inspector bancário serão exercidos pelos funcionários que chefiarem os serviços de Fazenda e contabilidade.
+
+§ único. Aos inspectores bancários nas províncias de governo simples será atribuída uma gratificação, a fixar pelo Ministro do Ultramar, sobre proposta do governador da província.
+
+Art. 3.º Os lugares de inspector e subinspector de crédito e seguros serão providos em indivíduos habilitados com o curso de Economia, Finanças ou Ciências Económicas e Financeiras, cujo curriculum o justifique.
+
+§ único. Os actuais presidentes dos Conselhos de Câmbios de Angola e Moçambique transitarão, por simples despacho ou portaria, sem dependência de quaisquer formalidades e com dispensa das habilitações a que se refere o corpo deste artigo, para os lugares de inspector de crédito e seguros a que se refere o artigo 2.º
+
+Art. 4.º O pessoal dos actuais serviços dos conselhos de câmbios transitará, por simples despacho ou portaria e sem dependência de quaisquer formalidades, para os lugares dos quadros das inspecções a que se refere o artigo 1.º correspondentes às suas categorias.
+
+Art. 5.º Nas províncias de governo-geral as inspecções de crédito e seguros disporão de serviços centrais, compreendendo:
+
+a) Repartição de Secretaria e Contabilidade;
+
+b) Repartição do Regime de Operações com o Exterior, abrangendo as secções técnicas que forem consideradas indispensáveis em regulamento a publicar pelo governador da respectiva província;
+
+c) Inspecção Bancária;
+
+d) Inspecção de Seguros
+
+e) Repartição de Estatística das Operações com o Exterior.
+
+§ 1.º As inspecções bancárias, a que se refere a alínea c) do corpo do presente artigo, serão chefiadas por um funcionário com a categoria da letra F do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), habilitado com curso superior considerado idóneo para o exercício do cargo, de preferência o curso de Economia, Finanças ou Ciências Económicas e Financeiras.
+
+§ 2.º As inspecções de seguros, a que se refere a alínea d) do presente artigo, terão a competência legalmente atribuída aos serviços de fiscalização técnica da indústria seguradora, criados pelo [Decreto n.º 37076](https://diariodarepublica.pt/dr/detalhe/decreto/37076-1948-372792), que naquelas são integrados, ocupando os inspectores de seguros dos referidos serviços os lugares de inspector ou subinspector de crédito e seguros, conforme for julgado conveniente, para onde transitarão sem dependência de quaisquer formalidades, considerando-se extintos os lugares de inspector de seguros, criados pelo [Decreto n.º 39419](https://diariodarepublica.pt/dr/detalhe/decreto/39419-1953-649372), de 7 de Novembro de 1953, em Angola e pela [Portaria n.º 7643](https://diariodarepublica.pt/dr/detalhe/portaria/7643-1933-317697), de 31 de Dezembro de 1948, em Moçambique.
+
+Art. 6.º Nas províncias de governo simples as inspecções do comércio bancário disporão também de serviços centrais, compreendendo:
+
+a) Secção de Secretaria e Contabilidade;
+
+b) Secção do Regime das Operações com o Exterior, a que competirá também a fiscalização dos bancos comerciais, quando existam na província;
+
+c) Secção da Estatística das Operações com o Exterior.
+
+Art. 7.º Os governadores das províncias ultramarinas poderão, sobre proposta das inspecções a que se refere o artigo 1.º, criar delegações privativas destas inspecções nas localidades onde existam dependências dos bancos estabelecidos nas províncias.
+
+§ único. Nas localidades onde não forem criadas as delegações privativas a que se refere o corpo deste artigo as suas funções poderão ficar a cargo da respectiva dependência do banco emissor ou de serviço público adequado.
+
+Art. 8.º São atribuições das Inspecções de crédito e seguros e das inspecções de comércio bancário referidas no artigo 1.º, sob a superintendência do respectivo governo provincial e sem prejuízo do estabelecido no § 2.º do artigo 5.º:
+
+a) Assegurar, em colaboração com os bancos emissores das províncias ultramarinas, o regular funcionamento do mercado de câmbios da província, em conformidade com as disposições legais e contratuais que regularem as relações entre as referidas inspecções e estes bancos, da legislação e regulamentação cambial em vigor e dos acordos de compensação e de pagamentos, bilaterais ou multilaterais, celebrados pelo Estado ou pelo Banco de Portugal, por conta e ordem do Estado.
+
+b) Estabelecer diàriamente as taxas de câmbio que as instituições autorizadas a exercer o comércio de câmbios na mesma província deverão praticar;
+
+c) Propor superiormente as medidas que considerem adequadas em face das circunstâncias especiais da situação da respectiva província quanto a pagamentos no exterior;
+
+d) Propor ao Ministro do Ultramar, por intermédio do governador da província, nos termos do § 2.º do artigo 6.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, a adopção de directivas monetárias diversas das que vigorarem no continente e ilhas adjacentes;
+
+c) Propor ao governador da província a criação de delegações da sobredita inspecção;
+
+f) Propor ao governador da província o que tiver por conveniente quanto à delegação de funções prevista no § único do artigo 7.º;
+
+g) Apreciar os pedidos que lhe forem apresentados pelos interessados quanto à liquidação de operações respeitantes a importação, exportação ou reexportação de mercadorias, de invisíveis correntes e de capitais entre a respectiva província e o estrangeiro ou outro território nacional, bem como os pedidos referentes às próprias operações de importação e exportação de capitais ou a quaisquer operações cambiais, quando, nos termos da legislação ou regulamentação aplicável, a realização destas últimas operações, das liquidações ou a forma que a estas se pretenda dar estiverem sujeitas a autorização especial e prévia das sobreditas inspecções;
+
+h) Pronunciarem-se sobre a emissão de boletins de registo prévio de importação, exportação ou reexportação de mercadorias em moeda diversa daquela que lhes deveria corresponder nos termos das directivas monetárias em vigor na província ultramarina, tendo em conta o parecer do Banco de Portugal;
+
+i) Fiscalizar o cumprimento das disposições legais e regulamentares sobre o exercício do comércio de câmbios e o regime das operações de pagamentos entre os territórios nacionais, zelando pelo cumprimento das referidas disposições e verificando as respectivas transgressões, especialmente por exame à escrita;
+
+j) Dar pareceres e prestar informações que sobre assuntos de natureza cambial ou referentes aos pagamentos entre os territórios nacionais lhes forem solicitados superiormente;
+
+l) Elaborar, até 31 de Marco de cada ano, os quadros da balança de pagamentos entre a província e o estrangeiro, bem como da balança de pagamentos entre a mesma província e os outros territórios nacionais;
+
+m) Elaborar, até 31 de Maio de cada ano, o relatório sobre a situação do mercado cambial da mesma província e a evolução dos pagamentos com os outros territórios nacionais durante o ano anterior;
+
+n) Dirigir e administrar o fundo cambial da mesma província, referido no capítulo III do presente decreto-lei;
+
+o) Quaisquer outras atribuições que lhes sejam cometidas por lei ou regulamento.
+
+§ único. Dos quadros da balança de pagamentos mencionados na alínea l) e do relatório a que se refere a alínea m) serão imediatamente enviadas cópias ao Banco de Portugal, como banco central e de reserva da zona do escudo.
+
+Art. 9.º No exercício das suas atribuições, as inspecções de crédito e seguros ou do comércio bancário observarão as directivas que lhes forem fixadas pelo Ministro do Ultramar ou pelo governador da respectiva província ultramarina, em obediência à política económica e monetária geral do País.
+
+Art. 10.º Ao estabelecerem as taxas de câmbio mencionadas na alínea b) do artigo 8.º, as inspecções terão em devida atenção os câmbios legalmente estabelecidos para o continente e ilhas adjacentes e o que sobre câmbios estiver determinado em acordos de compensação e de pagamentos ou outros de natureza monetário-cambial celebrados pelo Estado ou pelo Banco de Portugal por conta e ordem do Estado, designadamente na secção 3.ª do artigo IV do Acordo relativo ao Fundo Monetário Internacional, aprovado, para adesão, pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183), de 21 de Novembro de 1960.
+
+§ único. As inspecções comunicarão semanalmente ao Banco de Portugal, como banco central e de reserva da zona do escudo, os câmbios de compra e venda de moedas estrangeiras que estabelecerem.
+
+Art. 11.º No exercício das suas atribuições, poderão as inspecções corresponder-se entre si, com a Inspecção-Geral de Crédito e Seguros, com o Banco de Portugal e com os bancos emissores das províncias ultramarinas, com quaisquer serviços públicos, organismos de coordenação económica ou corporativos da respectiva província, e ainda com as instituições de crédito, as casas de câmbio e quaisquer outras empresas privadas que exerçam a sua actividade na mesma província, quando se trate de assuntos de mero expediente.
+
+Art. 12.º Compete aos inspectores de crédito e seguros ou do comércio bancário, conforme os casos:
+
+a) Dirigir, sob a orientação do governador da província, os serviços da inspecção, inclusive a parte relativa às inspecções de seguros, nos casos referidos no § 2.º do artigo 5.º;
+
+b) Admitir e fiscalizar o respectivo pessoal;
+
+c) Propor o quadro dos serviços das inspecções, bem como as alterações que julgar necessárias;
+
+d) Submeter ao governador da província o relatório anual da inspecção e os assuntos que careçam do seu despacho;
+
+e) Exercer as demais atribuições que por lei, regulamento ou delegação do Ministro do Ultramar ou do governador da província lhes forem cometidas.
+
+Art. 13.º O subinspector de crédito e seguros coadjuvará o respectivo inspector e desempenhará especialmente a parte das suas funções que pelo inspector lhe for confiada, podendo ficar encarregado, por inerência, de chefiar a inspecção de seguros.
+
+Art. 14.º Os encargos das inspecções do comércio bancário serão suportados pelas receitas dos fundos cambiais referidos no capítulo III do presente decreto-lei. Os encargos das inspecções de crédito e seguros serão suportados não só pelas receitas dos mencionados fundos cambiais, mas também por aquelas a que se refere o artigo 2.º do [Decreto n.º 37076](https://diariodarepublica.pt/dr/detalhe/decreto/37076-1948-372792), de 29 de Setembro de 1948.
+
+Art. 15.º Enquanto persistirem as circunstâncias que caracterizam a situação actual da província de Macau, as atribuições da respectiva inspecção serão as indicadas nas alíneas g), i) e j) do artigo 12.º, na parte relativa ao regime dos pagamentos entre a província e os outros territórios nacionais, e nas alíneas l) e m) do mesmo artigo 8.º
+
+§ único. Os encargos da inspecção do comércio bancário da província de Macau serão suportados por forma semelhante à dos encargos das inspecções do comércio bancário das outras províncias e a determinar por acordo entre o governador da província e o banco emissor.
+
+### CAPÍTULO II — Dos conselhos de câmbios
+
+Art. 16.º Junto de cada um dos serviços mencionados no artigo 1.º haverá um conselho de câmbios, com funções consultivas, o qual será presidido, por inerência e sem direito a qualquer gratificação especial, pelo inspector de crédito e seguros nas províncias de governo-geral e pelo inspector bancário nas restantes províncias.
+
+Art. 17.º Em cada província ultramarina, serão vogais do conselho de câmbios:
+
+a) O funcionário que dirigir os serviços de economia e estatística geral;
+
+b) O presidente ou director do organismo, ou o funcionário que chefiar os serviços, a que competir o licenciamento e o registo prévio das operações de importação, exportação ou reexportação de mercadorias;
+
+c) Um representante do banco emissor da província, a designar pelo mesmo banco;
+
+d) Um representante dos bancos comerciais autorizados a exercer o comércio de câmbios na respectiva província;
+
+c) Dois representantes das actividades económicas.
+
+§ 1.º Os vogais dos conselhos de câmbios mencionados nas alíneas d) e e) do presente artigo serão eleitos anualmente.
+
+§ 2.º Quando os assuntos a apreciar pelos conselhos de câmbios o justificarem, poderá o presidente do mesmo conselho solicitar, nas províncias de governo-geral, que se façam representar por funcionário qualificado os serviços de Fazenda e contabilidade ou os serviços das alfândegas e, nas outras províncias, os citados serviços das alfândegas.
+
+§ 3.º Os representantes dos serviços referidos no parágrafo anterior terão voto deliberativo sobre os assuntos para cuja apreciação foram convocados.
+
+§ 4.º Os vogais dos conselhos de câmbios e os representantes dos serviços referidos no § 2.º serão remunerados por senhas de presença, cuja importância será fixada por portaria expedida pelo governador da província respectiva.
+
+Art. 18.º Os membros dos conselhos de câmbios serão substituídos, nas suas faltas e impedimentos, pela forma seguinte:
+
+a) O presidente, nas províncias de governo-geral, pelo subinspector de crédito e seguros, que será o vice-presidente do conselho, e, nas províncias de governo simples, pelo funcionário que legalmente deva substituir aquele que chefiar os serviços de Fazenda e contabilidade;
+
+b) Os vogais referidos nas alíneas a) e b) do artigo anterior pelo funcionário que for seu substituto legal;
+
+c) O representante do banco emissor pelo empregado do mesmo banco que por este for, para o efeito, designado;
+
+d) Os representantes dos bancos comerciais e das entidades cambiais pelos substitutos que estes bancos e actividades designarem anualmente.
+
+Art. 19.º Os conselhos de câmbios serão secretariados pelos chefes de secretaria e contabilidade das respectivas inspecções.
+
+Art. 20.º Os conselhos de câmbios poderão pronunciar-se sobre as matérias que constituem atribuições das inspecções de crédito e seguros ou do comércio bancário, sendo sempre ouvidos relativamente aos assuntos a que se referem as alíneas a), c), e) e f) do artigo 8.º e devendo apreciar os quadros e relatórios referidos nas alíneas l) e m) do mesmo artigo.
+
+Art. 21.º Os conselhos de câmbios reunirão, ordinàriamente, uma vez por semana e, extraordinàriamente, sempre que forem convocados pelo respectivo presidente.
+
+Art. 22.º Os conselhos de câmbios não se julgarão constituídos nem poderão deliberar vàlidamente sem estarem presentes, pelo menos, três dos seus membros, efectivos ou substitutos.
+
+§ 1.º Nos conselhos de câmbios em que haja vice-presidente este deverá assistir a todas as reuniões.
+
+§ 2.º O vice-presidente, salvo quando substitua o presidente, terá voto meramente consultivo e não influirá na formação do quórum.
+
+§ 3.º As deliberações dos conselhos de câmbios serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
+
+Art. 23.º O funcionário que, nos termos do artigo 19.º, secretaria o conselho de câmbios lavrará as respectivas actas, de modo que as mesmas possam ser aprovadas na sessão do conselho seguinte àquela a que respeitam.
+
+### CAPÍTULO III — Dos fundos cambiais
+
+Art. 24.º Em cada uma das províncias ultramarinas, com excepção de Macau, haverá um fundo cambial, que exercerá as funções de caixa central de reserva de ouro, divisas e outros meios de pagamento sobre o exterior das mesmas províncias.
+
+Art. 25.º Os fundos cambiais terão personalidade jurídica e serão geridos pelas inspecções de crédito e seguros ou do comércio bancário das respectivas províncias.
+
+Art. 26.º Os bancos emissores das respectivas províncias ultramarinas exercerão, de harmonia com o disposto no presente decreto-lei e nos termos a acordar com o Estado, as funções de agentes dos mencionados fundos cambiais.
+
+Art. 27.º Como caixa central de reserva da província, competirá ao fundo cambial, de modo especial, assegurar quer as liquidações das operações cambiais requeridas pela economia da província, quer a regularidade dos pagamentos entre a mesma província e os outros territórios nacionais, exercendo tais funções em conformidade com a legislação e regulamentação cambial aplicável e os acordos de compensação e de pagamentos bilaterais ou multilaterais assinados pelo Estado, ou pelo Banco de Portugal por conta e ordem do Estado, e em conformidade com as disposições legais, regulamentares e contratuais aplicáveis aos pagamentos entre os territórios nacionais.
+
+Art. 28.º De harmonia com o disposto no artigo anterior, os fundos cambiais são obrigados a adquirir o ouro amoedado ou não e a moeda estrangeira que para tal fim lhes sejam oferecidas pelas instituições autorizadas a exercer o comércio de câmbios na respectiva província, bem como a vender às referidas instituições a moeda estrangeira que for indispensável para assegurar as liquidações das operações cambiais requeridas pela economia da província.
+
+§ único. Os fundos cambiais não serão obrigados:
+
+a) A adquirir ou vender moedas estrangeiras relativamente às quais não estejam estabelecidos câmbios de compra e venda;
+
+b) A adquirir haveres ou valores que não forem pagáveis à vista ou em prazo igual ou inferior a 90 dias.
+
+Art. 29.º Ainda de harmonia com o disposto no artigo 27.º, os fundos cambiais são obrigados a adquirir os meios de pagamento sobre outros territórios nacionais que para tal fim lhes forem oferecidos pelas instituições de crédito na respectiva província referidas no artigo 2.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, bem como a facultar às mesmas instituições meios de pagamento, sobre os aludidos territórios nacionais, necessários para assegurar as liquidações com estes territórios requeridas pela economia da província.
+
+§ único. A aquisição a que se refere este artigo fica sujeita à regra constante da alínea b) do parágrafo único do artigo anterior.
+
+Art. 30.º Os bancos emissores ultramarinos emitirão a moeda necessária para a aquisição pelos fundos cambiais do ouro, da moeda estrangeira e dos meios de pagamento sobre outros territórios nacionais que os ditos fundos, no exercício das suas atribuições de caixas centrais de reserva das respectivas províncias ultramarinas, adquirirem.
+
+§ único. As emissões efectuadas nos termos do presente artigo não serão tidas em consideração para efeito dos limites de circulação fixados relativamente a cada província, de acordo com as disposições legais ou contratuais reguladoras dos privilégios de emissão de notas bancárias.
+
+Art. 31.º Os bancos emissores ultramarinos abrirão nos seus livros uma conta para cada fundo cambial, sob a designação de «Fundo cambial da província de ... - c/ meios de pagamento sobre o exterior», nas quais se escriturarão as disponibilidades dos fundos cambiais em ouro, divisas ou meios de pagamento sobre outros territórios nacionais que foram por eles adquiridas e confiadas aos respectivos bancos emissores, ou entregues para crédito de contas de reserva da repectiva província, abertas no Banco de Portugal nos termos legais. Os ditos bancos emissores abrirão também nos seus livros uma conta para cada fundo cambial, sob a designação de «Fundo cambial da província de ... - c/ emissão monetária», nas quais serão escrituradas as responsabilidades dos fundos cambiais pela moeda que os mesmos bancos tenham emitido nos termos do artigo 30.º
+
+§ único. Os bancos emissores ultramarinos deverão distinguir na sua escrita, mediante a abertura e movimentação de contas adequadas, a parte que, das contas abertas em seu nome e representativas de disponibilidades em ouro, divisas ou meios de pagamento sobre outros territórios nacionais, constitua fundos próprios dos mesmos bancos, da parte que corresponda às suas responsabilidades para com os fundos cambiais, separando nesta os saldos existentes nas contas de reserva a que se refere o artigo anterior.
+
+Art. 32.º As disponibilidades em moeda estrangeira dos fundos cambiais que não tiverem sido entregues nas respectivas contas de reserva abertas no Banco de Portugal, na medida em que não forem necessárias para assegurar, quer a liquidação de operações com o estrangeiro ou de pagamentos interterritoriais requeridos pela economia da respectiva província ultramarina, quer a regularização de débitos líquidos resultantes de operações interterritoriais, poderão, a pedido dos fundos cambiais e por conta destes, ser aplicadas pelos correspondentes bancos emissores ultramarinos em operações a prazo, liquidáveis dentro de 30 dias, sendo os rendimentos desta aplicação deduzidos das inerentes despesas ou encargos creditados aos ditos fundos.
+
+Art. 33.º Constituem receitas dos fundos cambiais:
+
+a) As diferenças de câmbios apuradas nas operações de compra e venda de divisas realizadas entre os fundos e as instituições autorizadas a exercer o comércio de câmbios na respectiva província;
+
+b) Os lucros das aplicações realizadas por conta e ordem dos fundos de disponibilidades destes;
+
+c) A participação nos prémios de transferência e nos prémios de cobrança, entre a respectiva província e os outros territórios nacionais, auferidos pelas instituições de crédito;
+
+d) A participação nas diferenças de câmbio obtidas pelas instituições de crédito autorizadas a exercer o comércio de câmbios na província correspondente;
+
+e) A taxa sobre o valor das transacções de notas e moedas estrangeiras e de cheques turísticos realizadas pelas casas de câmbio;
+
+f) As multas por transgressões de natureza cambial ou ao regime dos pagamentos entre os territórios nacionais;
+
+g) Outras receitas que por lei ou regulamento lhe sejam atribuídas.
+
+§ 1.º A participação referida na alínea c) será anualmente fixada pelo governador da província respectiva, sobre proposta da inspecção de crédito e seguros ou da do comércio bancário dessa província, não podendo exceder 1/4 das importâncias efectivamente cobradas, como prémios de transferência ou de cobrança, pelas ditas instituições de crédito.
+
+§ 2.º A participação indicada na alínea d) será também fixada anualmente pelo governador da província, sobre proposta da inspecção de crédito e seguros ou da do comércio bancário, não podendo exceder 1/4 dos lucros apurados por diferenças de câmbio nas operações realizadas pelas instituições de crédito.
+
+§ 3.º A taxa referida na alínea e) será, do mesmo modo, fixada anualmente pelo governador da província, sobre proposta da inspecção de crédito e seguros ou da do comércio bancário, não podendo exceder 1/16 por cento.
+
+§ 4.º As receitas mencionadas nas alíneas c), d) e e) serão apuradas e entregues mensalmente aos fundos cambiais.
+
+Art. 34.º As receitas de cada fundo cambial, mencionadas no artigo precedente, serão depositadas à ordem da correspondente inspecção de crédito e seguros ou do comércio bancário no banco emissor da província respectiva, numa conta especial, sob a designação de «Fundo cambial da província de ... - c/ resultados». Por força das disponibilidades assim constituídas e das receitas a que se refere o artigo 2.º do [Decreto n.º 37076](https://diariodarepublica.pt/dr/detalhe/decreto/37076-1948-372792), serão satisfeitos os encargos indicados no artigo 14.º e outros do fundo cambial, para o que o inspector de crédito e seguros ou o inspector do comércio bancário fará os saques necessários sobre os saldos da conta antes mencionada e utilizará as receitas a que se refere o dito artigo 2.º do [Decreto n.º 37076](https://diariodarepublica.pt/dr/detalhe/decreto/37076-1948-372792).
+
+Art. 35.º O orçamento das receitas de cada fundo cambial, bem como das receitas referidas no artigo 2.º do [Decreto n.º 37076](https://diariodarepublica.pt/dr/detalhe/decreto/37076-1948-372792), e das despesas que por essas receitas deverão ser suportadas será elaborado pelo inspector de crédito e seguros ou pelo inspector do comércio bancário, conforme o caso, e, acompanhado do parecer do respectivo conselho de câmbios, submetido a aprovação do governador da província até 20 de Novembro do ano anterior àquele a que respeitar.
+
+Art. 36.º As contas de gerência relativas ao orçamento referido no artigo anterior e respeitantes a cada exercício serão encerradas com referência a 31 de Dezembro e remetidas para julgamento até 31 de Maio do ano seguinte ao tribunal competente.
+
+Art. 37.º Os saldos das contas de gerência apurados em cada exercício manter-se-ão na conta referida no artigo 34.º e à ordem da inspecção de crédito e seguros ou da do comércio bancário para cobertura de eventuais prejuízos.
+
+§ único. Quando as disponibilidades constituídas na conta mencionada no artigo 34.º atingirem quantitativos relativamente avultados, superiores, pelo menos, ao total das despesas dos dois anos anteriores, poderá a inspecção de crédito e seguros ou a do comércio bancário, mediante autorização do governador da província, aplicar o excedente na aquisição de títulos de obrigação de dívida pública ou por outra forma que for aprovada pelo Ministro do Ultramar.
+
+Art. 38.º Os encargos ou prejuízos dos fundos cambiais que não puderem ser suportados pelas disponibilidades constituídas na conta referida no artigo 34.º ou pela liquidação das aplicações efectuadas nos termos do § único do artigo anterior sê-lo-ão pela respectiva província ultramarina.
+
+§ único. A importância dos encargos ou prejuízos suportados pela província ultramarina nos termos do presente artigo será reembolsada na medida em que o permitirem os saldos das contas de gerência apurados em exercícios subsequentes.
+
+### CAPÍTULO IV — Disposições finais
+
+Art. 39.º As disponibilidades sobre o exterior arrecadadas, nos termos do artigo 4.º do [Decreto n.º 8440](https://diariodarepublica.pt/dr/detalhe/decreto/8440-1922-208825), de 21 de Outubro de 1922, com a nova redacção dada pelo [Decreto n.º 32207](https://diariodarepublica.pt/dr/detalhe/decreto/32207-1942-315690), de 19 de Agosto de 1942, nas províncias ultramarinas de Cabo Verde, Guiné e S. Tomé e Príncipe serão, na sua totalidade, entregues aos fundos cambiais criados nas mesmas províncias pelo presente decreto-lei.
+
+Art. 40.º Enquanto persistirem as circunstâncias a que alude o artigo 15.º, na província de Macau as funções atribuídas aos fundos cambiais pelos artigos 24.º, 27.º, 28.º e 29.º serão exercidas pelo banco emissor da mesma província.
+
+Art. 41.º Fica o governador de cada província ultramarina autorizado a fixar, sobre proposta do inspector de crédito e seguros ou do inspector do comércio bancário, conforme o caso e com observância do disposto no artigo 5.º ou no artigo 6.º, os quadros de pessoal contratado dos serviços das inspecções que se mostrarem desde já necessários para assegurar o desempenho das funções atribuídas às ditas inspecções pelo presente decreto-lei.
+
+Art. 42.º São revogados os Decretos n.os 8440, de 21 de Outubro de 1922, e 14198, de 1 de Setembro de 1927, o artigo 6.º do [Decreto n.º 19381](https://diariodarepublica.pt/dr/detalhe/decreto/19381-1931-211035), de 24 de Fevereiro de 1931, os capítulos II, III, IV e VI e o artigo 54.º do [Decreto n.º 19773](https://diariodarepublica.pt/dr/detalhe/decreto/19773-1931-525394), de 27 de Maio de 1931, o [Decreto n.º 20694](https://diariodarepublica.pt/dr/detalhe/decreto/20694-1931-513197), de 31 de Dezembro de 1931, o artigo 6.º do [Decreto n.º 20723](https://diariodarepublica.pt/dr/detalhe/decreto/20723-1932-484627), de 7 de Janeiro de 1932, os artigos 7.º a 44.º, inclusive, do [Decreto n.º 21154](https://diariodarepublica.pt/dr/detalhe/decreto/21154-1932-153758), de 22 de Abril de 1932, o [Decreto n.º 21912](https://diariodarepublica.pt/dr/detalhe/decreto/21912-1932-597139), de 26 de Novembro de 1932, o artigo 9.º do Decreto n.º 23287, de 2 de Dezembro de 1933, o [Decreto n.º 32207](https://diariodarepublica.pt/dr/detalhe/decreto/32207-1942-315690), de 19 de Agosto de 1942, a Portaria Ministerial n.º 6, de 1 de Setembro de 1945, o [Decreto-Lei n.º 36827](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36827-1948-152105), de 12 de Abril de 1948, o [Decreto-Lei n.º 37084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37084-1948-371655), de 4 de Outubro de 1948, com excepção dos artigos 9.º e 10.º, o [Decreto n.º 38037](https://diariodarepublica.pt/dr/detalhe/decreto/38037-1950-486519), de 7 de Novembro de 1950, a [Portaria n.º 13793](https://diariodarepublica.pt/dr/detalhe/portaria/13793-1952-427413), de 5 de Janeiro de 1952, o [Decreto-Lei n.º 40483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40483-1955-248842), de 31 de Dezembro de 1955, e o Diploma Legislativo Ministerial n.º 86, de 26 de Outubro de 1961.
+
+Art. 43.º O presente diploma entra em vigor no dia 1 de Janeiro de 1963.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 17 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

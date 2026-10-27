@@ -1,0 +1,894 @@
+---
+schema_version: '1.0'
+id: pt:dre:1034984893:por
+title: Declaração de Retificação n.º 88/2026/2
+short_title: null
+summary: Retifica a Deliberação n.º 1271/2025.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Educação, Ciência e Inovação - Comissão Nacional de Acesso ao Ensino Superior
+proposing_entity: null
+official_number: 88/2026/2
+official_date: null
+publication_date: '2026-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2026, Série II de 2026-02-04
+  number: '24'
+  series: II
+  supplement: null
+  pages: 88 - 127
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/02/024000000/0008800127.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1034984893'
+  dre_path: /dr/detalhe/declaracao-retificacao/88-2026-1034984893
+  internal: pt:dre:1034984893:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/88-2026-1034984893
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/88-2026-1034984893
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1119ce6894a4667bd96fb4a32660d3014208413f07b8c8716654ad1ffab7c383
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:938604542:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:06:19Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 88/2026/2
+
+Para os devidos efeitos se declara que a [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, contém inexatidões nos anexos i e ii, que divulgam as provas de ingresso para a candidatura de 2026-2027 e de 2027-2028, que assim se retificam:
+
+Ensino Superior Público
+
+1 - Nas pp. 239 e 609 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação9070 - Design de Comunicação | 03 DesenhoeUma das seguintes provas:10 Geometria Descritiva12 Hist. da Cultura e das Artes18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação9070 - Design de Comunicação | Um dos seguintes conjuntos:03 Desenho10 Geometria Descritivaou03 Desenho12 Hist. da Cultura e das Artesou03 Desenho18 Portuguêsou10 Geometria Descritiva12 Hist. da Cultura e das Artes |
+
+2 - Nas pp. 239 e 609 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação9084 - Educação Social | 18 PortuguêseUma das seguintes provas:04 Economia09 Geografia11 História02 Biologia e Geologia06 Filosofia17 Matemática Aplicada às Ciências Sociais |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação9084 - Educação Social | Duas das seguintes provas:04 Economia09 Geografia11 História18 Português |
+
+3 - Nas pp. 240 e 610 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação9879 - Educação Social (regime pós-laboral) | 18 PortuguêseUma das seguintes provas:04 Economia09 Geografia11 História02 Biologia e Geologia06 Filosofia17 Matemática Aplicada às Ciências Sociais |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação9879 - Educação Social (regime pós-laboral) | Duas das seguintes provas:04 Economia09 Geografia11 História18 Português |
+
+4 - Nas pp. 240 e 610 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação8337 - Imagem Animada | 03 DesenhoeUma das seguintes provas:10 Geometria Descritiva12 Hist. da Cultura e das Artes18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3081 - Universidade do Algarve - Escola Superior de Educação e Comunicação8337 - Imagem Animada | Duas das seguintes provas:03 Desenho10 Geometria Descritiva12 Hist. da Cultura e das Artes18 Português |
+
+5 - Nas pp. 23 e 393 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0300 - Universidade de AveiroL217 - Engenharia de Computadores e Informática | Um dos seguintes conjuntos:02 Biologia e Geologia19 Matemática Aou07 Física e Química19 Matemática A |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0300 - Universidade de AveiroL217 - Engenharia de Computadores e Informática | Um dos seguintes conjuntos:02 Biologia e Geologia19 Matemática Aou07 Física e Química19 Matemática Aou18 Português19 Matemática A |
+
+6 - Nas pp. 246 e 247 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3012 - Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de ÁguedaL021 - Gestão Comercial | Um dos seguintes conjuntos:02 Biologia e Geologia16 Matemáticaou04 Economia18 Portuguêsou04 Economia16 Matemática07 Física e Química18 Portuguêsou09 Geografia16 Matemáticaou16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3012 - Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de ÁguedaL021 - Gestão Comercial | Um dos seguintes conjuntos:02 Biologia e Geologia16 Matemática |
+|  | ou04 Economia18 Portuguêsou04 Economia16 Matemáticaou07 Física e Química18 Portuguêsou09 Geografia16 Matemáticaou16 Matemática18 Português |
+
+7 - Nas pp. 36 e 407 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0508 - Universidade de Coimbra (Campus Figueira da Foz)9013 - Biologia Marinha | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química16 Matemática |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0521 - Universidade de Coimbra - Faculdade de Ciências e Tecnologia (Campus Figueira da Foz)9013 - Biologia Marinha | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química16 Matemática |
+
+8 - Nas pp. 38 e 408 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0501 - Universidade de Coimbra - Faculdade de Ciências e TecnologiaL209 - Engenharia Eletrotécnica e de Computadores | 02 Biologia e Geologia19 Matemática Aou07 Física e Química19 Matemática Aou10 Geometria Descritiva19 Matemática A |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0501 - Universidade de Coimbra - Faculdade de Ciências e TecnologiaL209 - Engenharia Eletrotécnica e de Computadores | Um dos seguintes conjuntos:02 Biologia e Geologia19 Matemática A |
+|  | ou07 Física e Química19 Matemática Aou10 Geometria Descritiva19 Matemática A |
+
+9 - Nas pp. 38, 39 e 408 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0501 - Universidade de Coimbra - Faculdade de Ciências e Tecnologia9125 - Engenharia Química | 07 Física e Química19 Matemática Aou02 Biologia e Geologia07 Física e Química19 Matemática Aou07 Física e Química18 Português19 Matemática Aou07 Física e Química13 Inglês19 Matemática A |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0501 - Universidade de Coimbra - Faculdade de Ciências e Tecnologia9125 - Engenharia Química | Um dos seguintes conjuntos:07 Física e Química19 Matemática Aou02 Biologia e Geologia07 Física e Química19 Matemática Aou07 Física e Química18 Português19 Matemática Aou07 Física e Química13 Inglês19 Matemática A |
+
+10 - Nas pp. 44, 414 e 415 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, a seguinte informação, indevidamente inserida na secção relativa ao Ensino Superior Público Universitário, deverá ser considerada na secção relativa ao Ensino Superior Público Politécnico, sem alteração relativamente ao elenco de provas de ingresso, respetivamente entre as pp. 116 e 249 e entre as pp. 485 e 620:
+
+|  |  |
+| --- | --- |
+| 7240 - Universidade de Coimbra - Escola Superior de Enfermagem de Coimbra9500 - Enfermagem | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia17 Matemática Aplicada às Ciências Sociaisou02 Biologia e Geologia16 Matemática |
+
+11 - Na p. 62 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 1506 - Universidade de Lisboa - Faculdade de LetrasL288 - Estudos de Cultura e Comunicação Intercultural | 06 Filosofia18 Portuguêsou11 História18 Portuguêsou13 Inglês18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 1506 - Universidade de Lisboa - Faculdade de LetrasL288 - Estudos de Cultura e Comunicação Intercultural | Duas das seguintes provas:06 Filosofia11 História13 Inglês18 Português |
+
+12 - Na p. 63 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 1506 - Universidade de Lisboa - Faculdade de Letras9139 - Filosofia | 06 Filosofia11 Históriaou06 Filosofia18 Portuguêsou06 Filosofia16 Matemática |
+
+deve ler-se:
+
+| 1506 - Universidade de Lisboa - Faculdade de Letras9139 - Filosofia | Duas das seguintes provas:06 Filosofia11 História16 Matemática18 Português |
+| --- | --- |
+
+13 - Nas pp. 75 e 445 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 1307 - Universidade da Madeira - Faculdade de Ciências Exatas e da EngenhariaL367 - Engenharia Física e Computacional | 07 Física e Química16 Matemática |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 1307 - Universidade da Madeira - Faculdade de Ciências Exatas e da EngenhariaL367 - Engenharia Física e Computacional | 07 Física e Química19 Matemática A |
+
+14 - Nas pp. 75 e 445 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 1307 - Universidade da Madeira - Faculdade de Ciências Exatas e da EngenhariaA012 - Matemática (ensino em inglês) | Um dos seguintes conjuntos:07 Física e Química19 Matemática Aou04 Economia19 Matemática Aou19 Matemática A18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 1307 - Universidade da Madeira - Faculdade de Ciências Exatas e da EngenhariaA012 - Matemática (ensino em inglês) | Um dos seguintes conjuntos:02 Biologia e Geologia19 Matemática Aou04 Economia19 Matemática Aou07 Física e Química19 Matemática Aou19 Matemática A18 Português |
+
+15 - Na p. 92 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0902 - Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas9046 - Ciências Musicais | Um dos seguintes conjuntos:12 História da Cultura e Artes18 Portuguêsou16 Matemática18 Portuguêsou11 História18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0902 - Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas9046 - Ciências Musicais | Um dos seguintes conjuntos:12 História da Cultura e Artes18 Portuguêsou16 Matemática18 Portuguêsou11 História18 Portuguêsou12 História da Cultura e Artes16 Matemática |
+
+16 - Na p. 98 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0906 - Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação9155 - Gestão de Informação | 19 Matemática AeUma das seguintes provas:02 Biologia e Geologia;04 Economia;07 Física e Química;09 Geografia;10 Geometria Descritiva18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0906 - Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação9155 - Gestão de Informação | Um dos seguintes conjuntos:19 Matemática A02 Biologia e Geologiaou19 Matemática A04 Economia |
+|  | ou19 Matemática A07 Física e Químicaou16 Matemática09 Geografiaou16 Matemática13 Inglêsou16 Matemática18 Português |
+
+17 - Nas pp. 98 e 99 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0906 - Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação8259 - Sistemas e Tecnologias de Informação | 19 Matemática AeUma das seguintes provas:02 Biologia e Geologia04 Economia07 Física e Química09 Geografia10 Geometria Descritiva18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0906 - Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação8259 - Sistemas e Tecnologias de Informação | Um dos seguintes conjuntos:19 Matemática A02 Biologia e Geologiaou19 Matemática A04 Economiaou19 Matemática A07 Física e Químicaou16 Matemática09 Geografiaou16 Matemática13 Inglêsou16 Matemática18 Português |
+
+18 - Na p. 460 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 0902 - Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas9020 - Ciência Política e Relações Internacionais | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou11 História18 Portuguêsou04 Economia18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 0902 - Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas9020 - Ciência Política e Relações Internacionais | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou11 História18 Portuguêsou04 Economia18 Portuguêsou09 Geografia18 Portuguêsou11 História17 Matemática Aplicada às Ciências Sociaisou04 Economia17 Matemática Aplicada às Ciências Sociais |
+
+19 - Nas pp. 108 e 477 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, a seguinte informação, indevidamente inserida na secção relativa ao Ensino Superior Público Universitário, deverá ser considerada na secção relativa ao Ensino Superior Público Politécnico, sem alteração relativamente ao elenco de provas de ingresso, respetivamente entre as pp. 16 e 249 e entre as pp. 485 e 620:
+
+|  |  |
+| --- | --- |
+| 7270 - Universidade do Porto - Escola Superior de Enfermagem do Porto9500 - Enfermagem | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia16 Matemáticaou02 Biologia e Geologia18 Português |
+
+20 - Na p. 477 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, incluir:
+
+|  |  |
+| --- | --- |
+| 1201 - Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias9003 - Agronomia | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química16 Matemática18 Português |
+
+21 - Na p. 111 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 1203 - Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia9052 - Comunicação e Multimédia | 18 PortuguêseUma das seguintes provas:03 Desenho06 Filosofia10 Geometria Descritiva12 História da Cultura e das Artes13 Inglês17 Matemática Aplicada às Ciências Sociais |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 1203 - Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia9052 - Comunicação e Multimédia | Um dos seguintes conjuntos:10 Geometria Descritiva18 Portuguêsou03 Desenho18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Portuguêsou10 Geometria Descritiva17 Matemática Aplicada às Ciências Sociaisou03 Desenho10 Geometria Descritivaou12 História da Cultura e das Artes18 Português |
+
+22 - Na p. 112 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 1203 - Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e TecnologiaL209 - Engenharia Eletrotécnica e de Computadores | 19 Matemática AeUma das seguintes provas:02 Biologia e Geologia03 Desenho04 Economia07 Física e Química10 Geometria Descritiva18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 1203 - Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e TecnologiaL209 - Engenharia Eletrotécnica e de Computadores | 19 Matemática AeUma das seguintes provas:02 Biologia e Geologia04 Economia07 Física e Química09 Geografia10 Geometria Descritiva18 Português |
+
+23 - Na p. 491 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3021 - Instituto Politécnico de Beja - Escola Superior Agrária9003 - Agronomia | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química16 Matemática18 Português04 Economia09 Geografia |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3021 - Instituto Politécnico de Beja - Escola Superior Agrária9003 - Agronomia | Um dos seguintes conjuntos:02 Biologia e Geologia16 Matemáticaou02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia04 Economia |
+|  | ou02 Biologia e Geologia09 Geografiaou07 Física e Química04 Economiaou16 Matemática18 Português |
+
+24 - Nas pp. 135 e 505 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 7015 - Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança9504 - Fisioterapia | Um dos seguintes conjuntos:02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia16 Matemática |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 7016 - Escola Superior de Saúde de Bragança (Chaves)9504 - Fisioterapia | Um dos seguintes conjuntos:02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia16 Matemática |
+
+25 - Nas pp. 142 e 512 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3052 - Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco9850 - Desporto e Atividade Física | Um dos seguintes conjuntos:09 Geografia17 Matemática Aplicada às Ciências Sociaisou09 Geografia18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3052 - Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco9850 - Desporto e Atividade Física | Duas das seguintes provas:02 Biologia e Geologia09 Geografia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+26 - Nas pp. 143 e 512 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3052 - Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco9485 - Secretariado | Um dos seguintes conjuntos:04 Economia18 Portuguêsou11 História18 Portuguêsou13 Inglês18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3052 - Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco9485 - Secretariado | 18 PortuguêseUma das seguintes provas:04 Economia06 Filosofia09 Geografia11 História13 Inglês17 Matemática Aplicada às Ciências Sociais |
+
+27 - Nas pp. 143 e 512 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3052 - Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco9238 - Serviço Social | Um dos seguintes conjuntos:09 Geografia18 Portuguêsou11 História18 Portuguêsou09 Geografia11 História |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3052 - Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco9238 - Serviço Social | Duas das seguintes provas:04 Economia09 Geografia11 História18 Português |
+
+28 - Nas pp. 147 e 517 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, incluir:
+
+|  |  |
+| --- | --- |
+| 3034 - Instituto Politécnico do Cávado e do Ave - Escola Superior de Hotelaria e TurismoL373 - Gastronomia e Sustentabilidade Alimentar | Um dos seguintes conjuntos:18 Português11 Históriaou18 Português09 Geografiaou18 Português06 Filosofiaou18 Português13 Inglêsou18 Português04 Economiaou04 Economia17 Matemática Aplicada às Ciências Sociais |
+
+29 - Na p. 153 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3062 - Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra9731 - Desporto e Lazer | Um dos seguintes conjuntos:02 Biologia e Geologia18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Portuguêsou07 Física e Química18 Portuguêsou19 Matemática A18 Portuguêsou16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3062 - Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra9731 - Desporto e Lazer | 18 PortuguêseUma das seguintes provas:02 Biologia e Geologia06 Filosofia07 Física e Química17 Matemática Aplicada às Ciências Sociais16 Matemática19 Matemática A |
+
+30 - Na p. 179 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3113 - Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social9191 - Jornalismo | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou09 Geografia18 Portuguêsou11 História18 Portuguêsou06 Filosofia11 História |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3113 - Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social9191 - Jornalismo | Duas das seguintes provas:06 Filosofia09 Geografia11 História18 Português |
+
+31 - Nas pp. 189 e 559 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3125 - Instituto Politécnico de Portalegre - Escola Superior de Biociências de Elvas9563 - Desporto | Duas das seguintes provas:02 Biologia e Geologia16 Matemática18 Português00 Geografia |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3125 - Instituto Politécnico de Portalegre - Escola Superior de Biociências de Elvas9563 - Desporto | Duas das seguintes provas:02 Biologia e Geologia09 Geografia16 Matemática18 Português |
+
+32 - Nas pp. 195 e 565 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, deve ser removida a seguinte informação:
+
+|  |  |
+| --- | --- |
+| 3131 - Instituto Politécnico do Porto - Escola Superior de EducaçãoL248 - Gestão do Património Cultural (regime pós-laboral) | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou06 Filosofia12 Hist. da Cultura e das Artesou12 Hist. da Cultura e das Artes18 Portuguêsou06 Filosofia11 Históriaou11 História18 Portuguêsou12 Hist. da Cultura e das Artes13 Inglês |
+
+33 - Nas pp. 206 e 576 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3134 - Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto9043 - Ciências e Tecnologias da Documentação e Informação | Duas das seguintes provas:11 História17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3134 - Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto9043 - Ciências e Tecnologias da Documentação e Informação | Duas das seguintes provas:09 Geografia11 História17 Matemática Aplicada às Ciências Sociais18 Português |
+
+34 - Nas pp. 206 e 576 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3134 - Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto9716 - Comércio Internacional | Duas das seguintes provas:04 Economia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3134 - Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto9716 - Comércio Internacional | Duas das seguintes provas:04 Economia13 Inglês17 Matemática Aplicada às Ciências Sociais18 Português |
+
+35 - Nas pp. 206 e 576 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3134 - Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto9866 - Comércio Internacional (regime pós-laboral) | Duas das seguintes provas:04 Economia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+| 3134 - Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto9866 - Comércio Internacional (regime pós-laboral) | Duas das seguintes provas:04 Economia13 Inglês17 Matemática Aplicada às Ciências Sociais18 Português |
+| --- | --- |
+
+36 - Na p. 568 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9837 - Música, variante de Composição | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9837 - Música, variante de Composição | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+37 - Na p. 568 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9838 - Música, variante de Jazz | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9838 - Música, variante de Jazz | Um dos seguintes conjuntos:06 Filosofia13 Inglês |
+|  | ou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+38 - Nas pp. 568 e 569 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9839 - Música, variante de Música Antiga | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9839 - Música, variante de Música Antiga | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Português |
+|  | ou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+39 - Na p. 569 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9840 - Música, variante de Produção e Tecnologias da Música | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3132 - Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espetáculo9840 - Música, variante de Produção e Tecnologias da Música | Um dos seguintes conjuntos:06 Filosofia13 Inglêsou13 Inglês18 Portuguêsou13 Inglês17 Matemática Aplicada às Ciências Sociais |
+|  | ou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+40 - Na p. 572 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 7230 - Instituto Politécnico do Porto - Escola Superior de Saúde9549 - Farmácia | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia19 Matemática Aou02 Biologia e Geologia07 Física e Química19 Matemática A |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 7230 - Instituto Politécnico do Porto - Escola Superior de Saúde9549 - Farmácia | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Química ou02 Biologia e Geologia19 Matemática A |
+
+41 - Nas pp. 203 e 572 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, deve ser incluída a seguinte informação:
+
+|  |  |
+| --- | --- |
+| 7230 - Instituto Politécnico do Porto - Escola Superior de SaúdeL354 - Física Aplicada à Saúde | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química16 Matemática |
+
+42 - Nas pp. 220 e 221 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3241 - Instituto Politécnico de Tomar - Escola Superior de Gestão de TomarL207 - Turismo e Gestão do Património Cultural | Um dos seguintes conjuntos:17 Matemática Aplicada às Ciências Sociais18 Português |
+|  | ou11 História13 Inglêsou04 Economia18 Portuguêsou11 História18 Portuguêsou04 Economia13 Inglêsou11 História17 Matemática Aplicada às Ciências Sociais |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3241 - Instituto Politécnico de Tomar - Escola Superior de Gestão de TomarL207 - Turismo e Gestão do Património Cultural | Um dos seguintes conjuntos:04 Economia18 Portuguêsou11 História18 Portuguêsou04 Economia11 Históriaou17 Matemática Aplicada às Ciências Sociais18 Portuguêsou11 História13 Inglêsou04 Economia13 Inglês |
+
+43 - Na p. 222 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3242 - Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar9380 - Conservação e Restauro | Um dos seguintes conjuntos:12 Hist. da Cultura e das Artes18 Portuguêsou10 Geometria Descritiva12 Hist. da Cultura e das Artes |
+|  | ou18 Português11 Históriaou03 Desenho12 Hist. da Cultura e das Artesou03 Desenho18 Portuguêsou02 Biologia e Geologia07 Física e Química |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3242 - Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar9380 - Conservação e Restauro | Um dos seguintes conjuntos:12 História da Cultura e das Artes11 Históriaou10 Geometria Descritiva12 História da Cultura e das Artesou10 Geometria Descritiva11 Históriaou03 Desenho12 História da Cultura e das Artesou03 Desenho10 Geometria Descritivaou02 Biologia e Geologia07 Física e Química |
+
+44 - Na p. 224 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 3242 - Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar9645 - Fotografia | Um dos seguintes conjuntos:03 Desenho12 Hist. da Cultura e das Artesou10 Geometria Descritiva12 Hist. da Cultura e das Artesou03 Desenho18 Português |
+|  | ou11 História18 Portuguêsou12 Hist. da Cultura e das Artes18 Portuguêsou07 Física e Química18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 3242 - Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar9645 - Fotografia | Um dos seguintes conjuntos:03 Desenho12 História da Cultura e das Artesou10 Geometria Descritiva12 História da Cultura e das Artesou10 Geometria Descritiva11 Históriaou11 História18 Portuguêsou12 História da Cultura e das Artes18 Portuguêsou07 Física e Química16 Matemática |
+
+Ensino Superior Privado
+
+45 - Na página 256 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4010 - Escola Superior Artística do Porto9243 - Teatro | Um dos seguintes conjuntos:12 História da Cultura e das Artes13 Inglêsou12 História da Cultura e das Artes18 Portuguêsou13 Inglês18 Português |
+|  | ou11 História18 Portuguêsou06 Filosofia18 Portuguêsou03 Filosofia12 História da Cultura e das Artes |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4010 - Escola Superior Artística do Porto9243 - Teatro | Um dos seguintes conjuntos:12 História da Cultura e das Artes13 Inglêsou12 História da Cultura e das Artes18 Portuguêsou13 Inglês18 Portuguêsou11 História18 Portuguêsou06 Filosofia18 Portuguêsou06 Filosofia12 História da Cultura e das Artes |
+
+46 - Na p. 259 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4300 - Instituto Superior de Gestão9147 - Gestão | Um dos seguintes conjuntos:04 Economia16 Matemáticaou04 Economia18 Portuguêsou04 Economia09 Geografiaou16 Matemática09 Geografia |
+|  | ou09 Geografia18 Portuguêsou16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4300 - Instituto Superior de Gestão9147 - Gestão | Um dos seguintes conjuntos:04 Economia16 Matemáticaou04 Economia18 Portuguêsou04 Economia09 Geografiaou04 Economia11 Históriaou04 Economia17 Matemática Aplicada às Ciências Sociaisou09 Geografia18 Português |
+
+47 - Na p. 260 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4300 - Instituto Superior de Gestão9157 - Gestão de Recursos Humanos | Um dos seguintes conjuntos:04 Economia18 Portuguêsou04 Economia09 Geografiaou18 Português09 Geografiaou18 Português17 Matemática Aplicada às Ciências Sociaisou06 Filosofia18 Portuguêsou09 Geografia17 Matemática Aplicada às Ciências Sociais |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4300 - Instituto Superior de Gestão9157 - Gestão de Recursos Humanos | Um dos seguintes conjuntos:04 Economia18 Portuguêsou04 Economia09 Geografiaou04 Economia16 Matemáticaou04 Economia17 Matemática Aplicada às Ciências Sociaisou04 Economia11 Históriaou18 Português09 Geografia |
+
+48 - Nas pp. 262 e 263 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4375 - Instituto Superior Manuel Teixeira Gomes9078 - Direito | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou09 Geografia18 Portuguêsou13 Inglês18 Portuguêsou04 Economia18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4375 - Instituto Superior Manuel Teixeira Gomes9078 - Direito | Um dos seguintes conjuntos:04 Economia18 Portuguêsou06 Filosofia18 Portuguêsou09 Geografia18 Português |
+|  | ou11 História18 Portuguêsou13 Inglês18 Portuguêsou06 Filosofia11 História |
+
+49 - Nas pp. 268 e 639 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4520 - Instituto Superior de Serviço Social do Porto9833 - Gerontologia | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou09 Geografia18 Portuguêsou11 História18 Portuguêsou16 Matemática18 Portuguêsou02 Biologia e Geologia11 Históriaou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4520 - Instituto Superior de Serviço Social do PortoL388 - Gerontologia | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou09 Geografia18 Portuguêsou11 História18 Portuguêsou16 Matemática18 Português |
+|  | ou02 Biologia e Geologia11 Históriaou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+50 - Na p. 269 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4650 - Instituto Universitário de Ciências da Saúde - CESPUL294 - Ciências Forenses | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia16 Matemáticaou02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia06 Filosofiaou06 Filosofia09 Geografia |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4650 - Instituto Universitário de Ciências da Saúde - CESPUL294 - Ciências Forenses | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química16 Matemática18 Português |
+
+51 - Na p. 643 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4260 - Instituto Universitário Egas Moniz9847 - Medicina Veterinária | 02 Biologia e GeologiaeUma das seguintes provas:04 Economia06 Filosofia07 Física e Química09 Geografia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4260 - Instituto Universitário Egas Moniz9847 - Medicina Veterinária | 02 Biologia e GeologiaeUma das seguintes provas:04 Economia06 Filosofia07 Física e Química09 Geografia16 Matemática18 Português |
+
+52 - Nas pp. 277 e 651 e 652 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 2220 - Universidade Católica Portuguesa - Faculdade de Ciências Humanas9139 - Filosofia | Um dos seguintes conjuntos:06 Filosofia18 Portuguêsou06 Filosofia11 Históriaou06 Filosofia13 Inglêsou06 Filosofia09 Geografia Aou06 Filosofia04 Economia Aou06 Filosofia12 História e Cultura das Artes |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 2220 - Universidade Católica Portuguesa - Faculdade de Ciências Humanas9139 - Filosofia | 06 FilosofiaeUmas das seguintes provas:04 Economia09 Geografia11 História12 História da Cultura e das Artes13 Inglês18 Português |
+
+53 - Na p. 661 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4350 - Universidade Europeia9554 - Ciências da Nutrição | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Química ou02 Biologia e Geologia18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4350 - Universidade Europeia9554 - Ciências da Nutrição | 02 Biologia e GeologiaeUma das seguintes provas:04 Economia06 Filosofia07 Física e Química09 Geografia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+54 - Nas pp. 285 e 662 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4350 - Universidade Europeia9119 - Engenharia Informática | 16 MatemáticaeUma das seguintes provas:02 Biologia e Geologia04 Economia07 Física e Química09 Geografia13 Inglês18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4350 - Universidade EuropeiaL400 - Engenharia Informática | 16 MatemáticaeUma das seguintes provas:02 Biologia e Geologia04 Economia07 Física e Química09 Geografia13 Inglês18 Português |
+
+55 - Na p. 287 e 664 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4350 - Universidade Europeia0732 - Relações Internacionais | Duas das seguintes provas:09 Geografia11 História18 Português06 Filosofia |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4350 - Universidade Europeia9229 - Relações Internacionais | Duas das seguintes provas:09 Geografia11 História18 Português06 Filosofia |
+
+56 - Nas pp. 290, 667 e 668 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 2750 - Universidade Fernando PessoaL247 - Criminologia | Um dos seguintes conjuntos:02 Biologia e Geologia06 Filosofiaou02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia18 Portuguêsou04 Economia18 Portuguêsou06 Filosofia11 Históriaou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 2750 - Universidade Fernando PessoaL247 - Criminologia (EaD) | Um dos seguintes conjuntos:02 Biologia e Geologia06 Filosofiaou02 Biologia e Geologia07 Física e Química |
+|  | ou02 Biologia e Geologia18 Portuguêsou04 Economia18 Portuguêsou06 Filosofia11 Históriaou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+57 - Nas pp. 302 e 679 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, deve ser removida a seguinte informação:
+
+|  |  |
+| --- | --- |
+| 2450 - Universidade Lusíada - Centro Universitário Lusíada - Norte - Vila Nova de Famalicão9089 - Engenharia Civil | 07 Física e Química16 Matemática |
+
+58 - Nas pp. 318, 319 e 696 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 2920 - Universidade Lusófona - Centro Universitário Lusófona - Porto9026 - Ciências da Educação | Um dos seguintes conjuntos:17 Matemática Aplicada às Ciências Sociais18 Portuguêsou11 História18 Portuguêsou06 Filosofia18 Portuguêsou06 Filosofia17 Matemática Aplicada às Ciências Sociais18 Portuguêsou02 Biologia e Geologia17 Matemática Aplicada às Ciências Sociaisou02 Biologia e Geologia18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 2920 - Universidade Lusófona - Centro Universitário Lusófona - Porto9026 - Ciências da Educação | Um dos seguintes conjuntos:02 Biologia e Geologia17 Matemática Aplicada às Ciências Sociaisou06 Filosofia17 Matemática Aplicada às Ciências Sociaisou02 Biologia e Geologia18 Portuguêsou06 Filosofia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+
+59 - Nas pp. 701 e 702 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 2920 - Universidade Lusófona - Centro Universitário Lusófona - Porto8166 - Gestão e Desenvolvimento de Recursos Humanos | Um dos seguintes conjuntos:09 Geografia17 Matemática Aplicada às Ciências Sociaisou04 Economia18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Portuguêsou09 Geografia18 Portuguêsou09 Geografia18 Portuguêsou06 Filosofia18 Portuguêsou13 Inglês18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 2920 - Universidade Lusófona - Centro Universitário Lusófona - Porto8166 - Gestão e Desenvolvimento de Recursos Humanos | Um dos seguintes conjuntos:09 Geografia17 Matemática Aplicada às Ciências Sociaisou04 Economia18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Portuguêsou09 Geografia18 Portuguêsou06 Filosofia18 Portuguêsou13 Inglês18 Português |
+
+60 - Nas pp. 327 e 705 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4630 - Universidade da Maia9736 - Educação Física e Desporto | Duas das seguintes provas:02 Biologia e Geologia09 Geografia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4630 - Universidade da Maia9707 - Ciências do Desporto | Duas das seguintes provas:02 Biologia e Geologia09 Geografia17 Matemática Aplicada às Ciências Sociais18 Português |
+
+61 - Nas pp. 341 e 720 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, incluir:
+
+|  |  |
+| --- | --- |
+| 4091 - Escola Superior de Saúde da Cruz Vermelha Portuguesa - LisboaL068 - Ciências Biomédicas Laboratoriais | Um dos seguintes conjuntos:02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia16 Matemática |
+
+62 - Nas pp. 342 e 720 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4091 - Escola Superior de Saúde da Cruz Vermelha Portuguesa - LisboaL136 - Osteopatia | 02 Biologia e Geologia07 Física e Químicaou02 Biologia e Geologia18 Portuguêsou02 Biologia e Geologia16 Matemática |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4091 - Escola Superior de Saúde da Cruz Vermelha Portuguesa - LisboaL136 - Osteopatia | 02 Biologia e Geologia07 Física e Química |
+
+63 - Nas pp. 355 e 733 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4582 - Instituto Politécnico da Maia - Escola Superior de Tecnologia e GestãoL137 - Tecnologias de Informação, Web e Multimédia | Um dos seguintes conjuntos:07 Física e Química19 Matemática Aou04 Economia19 Matemática Aou16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4582 - Instituto Politécnico da Maia - Escola Superior de Tecnologia e GestãoL137 - Tecnologias de Informação, Web e Multimédia | 19 Matemática AeUma das seguintes provas:02 Biologia e Geologia04 Economia07 Física e Química09 Geografia18 Português |
+
+64 - Na p. 360 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4280 - Instituto Superior de Ciências Empresariais e do Turismo9152 - Gestão de Empresas | 18 PortuguêseUma das seguintes provas:04 Economia06 Filosofia |
+|  | 11 História13 Inglês17 Matemática Aplicada às Ciências Sociais16 Matemática |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4280 - Instituto Superior de Ciências Empresariais e do Turismo9152 - Gestão de Empresas | 18 PortuguêseUma das seguintes provas:04 Economia06 Filosofia09 Geografia11 História13 Inglês17 Matemática Aplicada às Ciências Sociais |
+
+65 - Na página 361 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da Administração9084 - Educação Social | Duas das seguintes provas:11 História18 Portuguêsou02 Biologia e Geologia18 Portuguêsou06 Filosofia11 História |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da Administração9084 - Educação Social | Um dos seguintes conjuntos:02 Biologia e Geologia18 Portuguêsou06 Filosofia18 Portuguêsou09 Geografia18 Portuguêsou11 História18 Portuguêsou17 Matemática Aplicada às Ciências Sociais18 Português |
+|  | ou06 Filosofia11 História |
+
+66 - Na p. 361 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da Administração9218 - Proteção Civil | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química09 Geografia16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da Administração9218 - Proteção Civil | Um dos seguintes conjuntos:02 Biologia e Geologia18 Portuguêsou07 Física e Química18 Portuguêsou09 Geografia18 Portuguêsou16 Matemática18 Portuguêsou07 Física e Química09 Geografia |
+
+67 - Na p. 739 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da Administração9218 - Proteção Civil | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química09 Geografia16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da Administração9218 - Proteção Civil | 18 PortuguêseUma das seguintes provas:02 Biologia e Geologia07 Física e Química09 Geografia16 Matemática |
+
+68 - Na p. 361 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da AdministraçãoL264 - Segurança e Saúde no Trabalho | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química09 Geografia16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da AdministraçãoL264 - Segurança e Saúde no Trabalho | Um dos seguintes conjuntos:02 Biologia e Geologia18 Portuguêsou07 Física e Química18 Portuguêsou09 Geografia18 Portuguêsou16 Matemática18 Portuguêsou02 Biologia e Geologia09 Geografia |
+
+69 - Na p. 740 da [Deliberação n.º 1271/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/1271-2025-938604542), da Comissão Nacional de Acesso ao Ensino Superior, publicada no Diário da República, 2.ª série, n.º 194, de 8 de outubro de 2025, onde se lê:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da AdministraçãoL264 - Segurança e Saúde no Trabalho | Duas das seguintes provas:02 Biologia e Geologia07 Física e Química09 Geografia16 Matemática18 Português |
+
+deve ler-se:
+
+|  |  |
+| --- | --- |
+| 4277 - Instituto Superior de Ciências da Informação e da AdministraçãoL264 - Segurança e Saúde no Trabalho | 18 PortuguêseUma das seguintes provas:02 Biologia e Geologia07 Física e Química09 Geografia16 Matemática |
+
+27 de janeiro de 2026. - O Presidente da Comissão Nacional de Acesso ao Ensino Superior, António Fontainhas Fernandes.
+
+319957237
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:3px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl5 { min-height:88px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:176px; } .Tbl10 { min-height:136px; } .Tbl11 { min-height:76px; } .Tbl12 { min-height:137px; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:92px; } .Tbl18 { min-height:260px; } .Tbl19 { min-height:40px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { min-height:229px; } .Tbl23 { min-height:61px; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { min-height:122px; } .Tbl27 { min-height:214px; } .Tbl28 { min-height:183px; } .Tbl29 { min-height:79px; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl32 { min-height:31px; } .Tbl33 { min-height:86px; } .Tbl34 { min-height:275px; } .Tbl35 { min-height:264px; } .Tbl36 { min-height:132px; } .Tbl37 { margin-top:9px; } .Tbl38 { min-height:149px; } .Tbl39 { margin-top:7px; } .Tbl40 { min-height:309px; } .Tbl41 { margin-top:8px; } .Tbl42 { min-height:107px; } .Tbl43 { min-height:271px; } .Tbl44 { min-height:225px; } .Tbl45 { min-height:189px; } .Tbl46 { margin-top:6px; } .Tbl47 { min-height:59px; } .Tbl48 { min-height:73px; } .Tbl49 { min-height:74px; } .Tbl50 { margin-top:5px; } .Tbl51 { min-height:240px; } .Tbl52 { min-height:153px; } .Tbl53 { min-height:178px; } .Tbl54 { min-height:85px; } .Tbl55 { min-height:259px; } .Tbl56 { min-height:254px; } .Tbl57 { min-height:127px; } .Tbl58 { min-height:341px; } .Tbl59 { min-height:278px; } .Tbl60 { min-height:325px; } .Tbl61 { min-height:71px; } .Tbl62 { min-height:223px; } .Tbl63 { min-height:46px; } .Tbl64 { min-height:212px; } .Tbl65 { min-height:99px; } .Tbl66 { min-height:216px; } .Tbl67 { min-height:103px; }

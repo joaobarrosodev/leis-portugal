@@ -1,0 +1,311 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:625995:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-34555675",
+ "dre_path": "/dr/detalhe/decreto-lei/252-1994-625995",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-10-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47426875",
+    "46563975",
+    "46564075",
+    "46564175",
+    "46564275",
+    "46564375",
+    "46564475",
+    "46564575",
+    "46564675",
+    "46564775",
+    "46564875",
+    "46564975",
+    "46565075",
+    "46565175",
+    "46565275",
+    "46565375",
+    "46565475",
+    "46565575"
+   ]
+  },
+  {
+   "date": "1995-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:276220:por",
+     "title": "Declaração de Rectificação n.º 2-A/95",
+     "published": "1995-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/2-a-1995-276220"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma",
+    "Retifica Artigo 6.º"
+   ],
+   "fragments": [
+    "47428575",
+    "46563975",
+    "46564075",
+    "46564175",
+    "46564275",
+    "46564375",
+    "47419975",
+    "46564575",
+    "46564675",
+    "46564775",
+    "46564875",
+    "46564975",
+    "46565075",
+    "46565175",
+    "46565275",
+    "46565375",
+    "46565475",
+    "46565575",
+    "46565675"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:406483:por",
+     "title": "Decreto-Lei n.º 334/97",
+     "published": "1997-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/334-1997-406483",
+     "date": "1995-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2019-10-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124417105:por",
+     "title": "Lei n.º 92/2019",
+     "published": "2019-09-04",
+     "dre_path": "/dr/detalhe/lei/92-2019-124417105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "47426875",
+    "46563975",
+    "46564075",
+    "46564175",
+    "47426775",
+    "46564375",
+    "47419975",
+    "46564575",
+    "46564675",
+    "46564775",
+    "124445309",
+    "46564975",
+    "46565075",
+    "46565175",
+    "46565275",
+    "46565375",
+    "46565475",
+    "46565575",
+    "46565675"
+   ]
+  }
+ ],
+ "fragments": {
+  "47426875": {
+   "fragment_id": "35175475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1995-07-01",
+   "changed_by": [],
+   "markdown": "O presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0250\" title=\"Link para Directiva da Comunidade Europeia\">91/250/CEE</a>, do Conselho, de 14 de Maio, relativa à protecção jurídica dos programas de computador.\n\nDe acordo com a melhor técnica decidiu-se criar um diploma próprio onde se condensem todas as normas específicas de protecção dos programas de computador, ao invés de se proceder a alterações no Código do Direito de Autor e dos Direitos Conexos.\n\nNa verdade, os conceitos nucleares de protecção dos programas de computador transportam novas realidades que não são facilmente subsumíveis às existentes no direito de autor, muito embora a equiparação a obras literárias possa permitir, pontualmente, uma aproximação.\n\nA transposição obedece também à consideração de que o ordenamento jurídico interno contém normas e princípios efectivos, com consagração no direito objectivo, que tornam dispensável uma mera tradução.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 21/94, de 17 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46563975": {
+   "fragment_id": "35495475",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0250\" title=\"Link para Directiva da Comunidade Europeia\">91/250/CEE</a>, do Conselho, de 14 de Maio, relativa à protecção jurídica dos programas de computador.\n\n2 - Aos programas de computador que tiverem carácter criativo é atribuída protecção análoga à conferida às obras literárias.\n\n3 - Para efeitos de protecção, equipara-se ao programa de computador o material de concepção preliminar daquele programa."
+  },
+  "46564075": {
+   "fragment_id": "35495575",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - A protecção atribuída ao programa de computador incide sobre a sua expressão, sob qualquer forma.\n\n2 - Esta tutela não prejudica a liberdade das ideias e dos princípios que estão na base de qualquer elemento do programa ou da sua interoperabilidade, como a lógica, os algoritmos ou a linguagem de programação."
+  },
+  "46564175": {
+   "fragment_id": "35495675",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoria\n\n1 - Aplicam-se ao programa de computador as regras sobre autoria e titularidade vigentes para o direito de autor.\n\n2 - O programa que for realizado no âmbito de uma empresa presume-se obra colectiva.\n\n3 - Quando um programa de computador for criado por um empregado no exercício das suas funções, ou segundo instruções emanadas do dador de trabalho, ou por encomenda, pertencem ao destinatário do programa os direitos a ele relativos, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato.\n\n4 - As regras sobre atribuição do direito ao programa aplicam-se sem prejuízo do direito a remuneração especial do criador intelectual quando se verificarem os pressupostos das alíneas a) e b) do n.º 4 do artigo 14.º do Código do Direito de Autor e dos Direitos Conexos.\n\n5 - O n.º 2 do artigo 15.º daquele Código não é aplicável no domínio dos programas de computador."
+  },
+  "46564275": {
+   "fragment_id": "35495775",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Duração\n\n1 - O direito sobre o programa atribuído ao criador intelectual extingue-se 50 anos após a morte deste.\n\n2 - O prazo de protecção do programa atribuído originalmente a outras entidades extingue-se 50 anos após a primeira publicação ou comunicação ao público do programa.\n\n3 - À contagem dos prazos aplicam-se as regras gerais de contagem em matéria de direito de autor.\n\n4 - Sempre que o direito for originariamente atribuído a pessoa diferente do criador intelectual, como no caso da obra colectiva, o prazo conta-se a partir da primeira divulgação do programa."
+  },
+  "46564375": {
+   "fragment_id": "35495875",
+   "type": 11,
+   "heading": "Artigo 5.º — Reprodução e transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reprodução e transformação\n\nO titular do programa pode fazer ou autorizar:\n\na) A reprodução, permanente ou transitória, por qualquer processo ou forma, de todo ou de parte do programa;\n\nb) Qualquer transformação do programa e a reprodução do programa derivado, sem prejuízo dos direitos de quem realiza a transformação."
+  },
+  "46564475": {
+   "fragment_id": "35495975",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos do utente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos do utente\n\n1 - Não obstante o disposto no artigo anterior, todo o utente legítimo pode, sem autorização do titular do programa:\n\na) Providenciar uma cópia de apoio no âmbito dessa utilização;\n\nb) Observar, estudar ou ensaiar o funcionamento do programa, para determinar as ideias e os princípios que estiverem na base de algum dos seus elementos, quando efectuar qualquer operação de carregamento, visualização, execução, transmissão ou armazenamento.\n\n2 - É nula qualquer estipulação em contrário ao disposto no número anterior.\n\n3 - O utente legítimo de um programa pode sempre, para utilizar o programa ou para corrigir erros, carregá-lo, visualizá-lo, executá-lo, transmiti-lo e armazená-lo, mesmo se esses actos implicarem operações previstas no n.º 1, salvo estipulação contratual referente a algum ponto específico."
+  },
+  "46564575": {
+   "fragment_id": "35496075",
+   "type": 11,
+   "heading": "Artigo 7.º — Descompilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descompilação\n\n1 - A descompilação das partes de um programa necessárias à interoperabilidade desse programa de computador com outros programas é sempre lícita, ainda que envolva operações previstas nos artigos anteriores, quando for a via indispensável para a obtenção de informações necessárias a essa interoperabilidade.\n\n2 - Têm legitimidade para realizar a descompilação o titular da licença de utilização ou outra pessoa que possa licitamente utilizar o programa, ou pessoas por estes autorizadas, se essas informações não estiverem já fácil e rapidamente disponíveis.\n\n3 - É nula qualquer estipulação em contrário ao disposto nos números anteriores.\n\n4 - As informações obtidas não podem:\n\na) Ser utilizadas para um acto que infrinja direitos de autor sobre o programa originário;\n\nb) Lesar a exploração normal do programa originário ou causar um prejuízo injustificado aos interesses legítimos do titular do direito;\n\nc) Ser comunicadas a outrem quando não for necessário para a interoperabilidade do programa criado independentemente.\n\n5 - O programa criado nos termos da alínea c) do número anterior não pode ser substancialmente semelhante, na sua expressão, ao programa originário."
+  },
+  "46564675": {
+   "fragment_id": "35496175",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito de pôr em circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito de pôr em circulação\n\n1 - O titular do programa de computador tem o direito de pôr em circulação originais ou cópias desse programa e o direito de locação dos exemplares.\n\n2 - Qualquer acto de disposição produz o esgotamento do direito de pôr em circulação, mas não afecta a subsistência do direito de locação do programa."
+  },
+  "46564775": {
+   "fragment_id": "35496275",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos do titular originário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos do titular originário\n\n1 - São ainda garantidos ao titular originário do programa o direito à menção do nome no programa e o direito à reivindicação da autoria deste.\n\n2 - Se o programa tiver um criador intelectual individualizável, cabe-lhe, em qualquer caso, o direito a ser reconhecido como tal e de ter o seu nome mencionado no programa."
+  },
+  "46564875": {
+   "fragment_id": "35496375",
+   "type": 11,
+   "heading": "Artigo 10.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limites\n\n1 - Sempre que forem compatíveis, são aplicáveis aos programas de computador os limites estabelecidos para o direito de autor, nomeadamente os constantes do artigo 75.º do Código do Direito de Autor e dos Direitos Conexos, mas o uso privado só será admitido nos termos do presente diploma.\n\n2 - É livre a análise de programas como objecto de pesquisa científica ou de ensino."
+  },
+  "46564975": {
+   "fragment_id": "35496475",
+   "type": 11,
+   "heading": "Artigo 11.º — Autonomia privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autonomia privada\n\n1 - Os negócios relativos a direitos sobre programas de computador são disciplinados pelas regras gerais dos contratos e pelas disposições dos contratos típicos em que se integram ou com que ofereçam maior analogia.\n\n2 - São aplicáveis a estes negócios as disposições dos artigos 40.º, 45.º a 51.º e 55.º do Código do Direito de Autor e dos Direitos Conexos.\n\n3 - As estipulações contratuais são sempre entendidas de maneira conforme à boa fé e com o âmbito justificado pelas finalidades do contrato."
+  },
+  "46565075": {
+   "fragment_id": "35496575",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo\n\nÉ admitida a inscrição do programa no registo da propriedade literária, para efeitos daquele registo."
+  },
+  "46565175": {
+   "fragment_id": "35496675",
+   "type": 11,
+   "heading": "Artigo 13.º — Apreensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apreensão\n\n1 - Aplicam-se à apreensão de cópias ilícitas de programas de computador as disposições relativas à apreensão de exemplares contrafeitos em matéria de direito de autor.\n\n2 - Podem igualmente ser apreendidos dispositivos em comercialização que tenham por finalidade exclusiva facilitar a supressão não autorizada ou a neutralização de qualquer salvaguarda técnica eventualmente colocada para proteger um programa de computador.\n\n3 - O destino dos objectos apreendidos será determinado na sentença final."
+  },
+  "46565275": {
+   "fragment_id": "35496775",
+   "type": 11,
+   "heading": "Artigo 14.º — Tutela penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tutela penal\n\n1 - Um programa de computador é penalmente protegido contra a reprodução não autorizada.\n\n2 - É aplicável ao programa de computador o disposto no n.º 1 do artigo 9.º da Lei n.º 109/91, de 17 de Agosto."
+  },
+  "46565375": {
+   "fragment_id": "35496875",
+   "type": 11,
+   "heading": "Artigo 15.º — Tutela por outras disposições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tutela por outras disposições legais\n\nA tutela instituída pelo presente diploma não prejudica a vigência de regras de diversa natureza donde possa resultar uma protecção do programa, como as emergentes da disciplina dos direitos de patente, marcas, concorrência desleal, segredos comerciais e das topografias dos semicondutores ou do direito dos contratos."
+  },
+  "46565475": {
+   "fragment_id": "35496975",
+   "type": 11,
+   "heading": "Artigo 16.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Vigência\n\n1 - A protecção dos programas de computador inicia-se na data da entrada em vigor do presente diploma, mas os programas anteriormente criados são protegidos durante o tempo que gozariam ainda de protecção se esta lei fosse já vigente ao tempo da sua criação.\n\n2 - A aplicação do presente diploma não prejudica os contratos concluídos nem os direitos adquiridos antes da sua entrada em vigor, mas as regras sobre a invalidade das estipulações aplicam-se também a estes contratos."
+  },
+  "46565575": {
+   "fragment_id": "35497075",
+   "type": 11,
+   "heading": "Artigo 17.º — Tutela internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Tutela internacional\n\n1 - A tutela internacional é subordinada à reciprocidade material.\n\n2 - Na medida em que assim for estabelecido por convenção internacional, aplica-se o princípio do tratamento nacional.\n\n3 - Os programas que nos países de origem respectivos tiverem tombado no domínio público não voltam a ser protegidos.\n\n4 - É considerado autor quem assim for qualificado pela lei do país de origem respectivo; em caso de colisão de qualificações aplica-se a lei que se aproxime mais da lei portuguesa."
+  },
+  "47428575": {
+   "fragment_id": "35175475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1995-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 2-A/95 - Diário da República n.º 26/1995, Suplemento n.º 3, Série I-A de 1995-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-a-1995-276220), em vigor a partir de 1995-01-31"
+   ],
+   "markdown": "O presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0250\" title=\"Link para Directiva da Comunidade Europeia\">91/250/CEE</a>, do Conselho, de 14 de Maio, relativa à protecção jurídica dos programas de computador.\n\nDe acordo com a melhor técnica decidiu-se criar um diploma próprio onde se condensem todas as normas específicas de protecção dos programas de computador, ao invés de se proceder a alterações no Código do Direito de Autor e dos Direitos Conexos.\n\nNa verdade, os conceitos nucleares de protecção dos programas de computador transportam novas realidades que não são facilmente subsumíveis às existentes no direito de autor, muito embora a equiparação a obras literárias possa permitir, pontualmente, uma aproximação.\n\nA transposição obedece também à consideração de que o ordenamento jurídico interno contém normas e princípios efectivos, com consagração no direito objectivo, que tornam dispensável uma mera tradução.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 21/94, de 17 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a [Declaração de Rectificação n.º 2-A/95 - Diário da República n.º 26/1995, Suplemento n.º 3, Série I-A de 1995-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-a-1995-276220), em vigor a partir de 1995-01-31"
+  },
+  "47419975": {
+   "fragment_id": "35495975",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos do utente",
+   "in_force_from": "1995-01-31",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 2-A/95 - Diário da República n.º 26/1995, Suplemento n.º 3, Série I-A de 1995-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-a-1995-276220), em vigor a partir de 1995-01-31"
+   ],
+   "markdown": "###### Artigo 6.º — Direitos do utente\n\n1 - Não obstante o disposto no artigo anterior, todo o utente legítimo pode, sem autorização do titular do programa:\n\na) Providenciar uma cópia de apoio no âmbito dessa utilização;\n\nb) Observar, estudar ou ensaiar o funcionamento do programa, para determinar as ideias e os princípios que estiverem na base de algum dos seus elementos, quando efectuar qualquer operação de carregamento, visualização, execução, transmissão ou armazenamento.\n\n2 - É nula qualquer estipulação em contrário ao disposto no número anterior.\n\n3 - O utente legítimo de um programa pode sempre, para utilizar o programa ou para corrigir erros, carregá-lo, visualizá-lo, executá-lo, transmiti-lo e armazená-lo, mesmo se esses actos implicarem operações previstas no artigo anterior, salvo estipulação contratual\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 2-A/95 - Diário da República n.º 26/1995, Suplemento n.º 3, Série I-A de 1995-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-a-1995-276220), em vigor a partir de 1995-01-31"
+  },
+  "46565675": {
+   "fragment_id": "35497175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 7 de Outubro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Outubro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "47426775": {
+   "fragment_id": "35495775",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração",
+   "in_force_from": "1995-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1995-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Duração\n\n1 - O direito sobre o programa atribuído ao criador intelectual extingue-se 50 anos após a morte deste.\n\n2 - O prazo de protecção do programa atribuído originalmente a outras entidades extingue-se 50 anos após a primeira publicação ou comunicação ao público do programa.\n\n3 - À contagem dos prazos aplicam-se as regras gerais de contagem em matéria de direito de autor.\n\n4 - Sempre que o direito for originariamente atribuído a pessoa diferente do criador intelectual, como no caso da obra colectiva, o prazo conta-se a partir da primeira divulgação do programa.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1995-07-01"
+  },
+  "124445309": {
+   "fragment_id": "35496375",
+   "type": 11,
+   "heading": "Artigo 10.º — Limites",
+   "in_force_from": "2019-10-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04"
+   ],
+   "markdown": "###### Artigo 10.º — Limites\n\n1 - Sempre que forem compatíveis, são aplicáveis aos programas de computador os limites estabelecidos para o direito de autor, nomeadamente os constantes do artigo 75.º do Código do Direito de Autor e dos Direitos Conexos, mas o uso privado só será admitido nos termos do presente diploma.\n\n2 - É livre a análise de programas como objecto de pesquisa científica ou de ensino.\n\n3 - São aplicáveis aos programas de computador as utilizações permitidas em benefício de pessoas cegas, com deficiência visual ou com outras dificuldades de acesso a textos impressos, previstas no artigo 82.º-B do Código de Direito de Autor e dos Direitos Conexos.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04"
+  }
+ }
+}

@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:459671:por
+title: Portaria n.º 1058/80
+short_title: null
+summary: Aprova o Regulamento da Bolsa de Estudos Prof. Engenheiro Costa André Júnior
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 1058/80
+official_date: null
+publication_date: '1980-12-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 285/1980, Série I de 1980-12-11
+  number: '285'
+  series: I
+  supplement: null
+  pages: 4129 - 4129
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28500/41294129.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '459671'
+  dre_path: /dr/detalhe/portaria/1058-1980-459671
+  internal: pt:dre:459671:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1980-459671
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1980-459671
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 66ed92ed5acca2f2860141067474e7a6ec33ec4cfc8ee99fdbf2be93d9e9780c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bolsa de Estudos
+- Definição de Competências
+- Instituto Superior Técnico
+- Lisboa
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: corrected_by
+  target: pt:dre:568479:por
+  label: Rectificada pela DECL.DD6267.09.11.1981.PCM, DR.IS [266] de 18.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-568479
+  date: '1981-11-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:09:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1058/80
+
+de 11 de Dezembro
+
+Considerando que o Prof. Engenheiro Costa André Júnior doou à Universidade Técnica de Lisboa a importância de 1180000$00 para serem destinados à atribuição de bolsas a alunos carenciados do Instituto Superior Técnico:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, aprovar o Regulamento da Bolsa de Estudos Prof. Engenheiro Costa André Júnior como segue.
+
+Ministério da Educação e Ciência, 27 de Novembro de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
+
+REGULAMENTO DA BOLSA DE ESTUDOS PROF. ENGENHEIRO COSTA ANDRÉ JÚNIOR
+
+Artigo 1.º É criada no Instituto Superior Técnico, da Universidade Técnica de Lisboa, a Bolsa de Estudos Prof. Engenheiro Costa André Júnior, constituída com base no capital inicial de 1180000$00, doados por aquele professor universitário, e que vão ser convertidos em títulos de empréstimo amortizáveis do Estado, depositados em conta bancária própria da Reitoria da Universidade Técnica de Lisboa.
+
+Art. 2.º Os títulos de empréstimo amortizáveis serão adquiridos pela Reitoria da Universidade Técnica de Lisboa por subscrição ou na Bolsa, conforme se tornar mais vantajoso, e sempre que sejam amortizados será o seu produto convertido em novos títulos de forma a conseguir o máximo rendimento.
+
+Art. 3.º - 1 - A Bolsa, no primeiro ano da sua atribuição, terá o valor anual de 74000$00, destinados a serem repartidos em partes iguais por dois alunos do Instituto Superior Técnico, e o seu montante será corrigido nos anos seguintes de acordo com a taxa oficial de inflação.
+
+2 - Em cada ano, além do primeiro, o valor da bolsa será o do ano anterior acrescido do montante da taxa de inflação verificada nesse ano.
+
+3 - Quando, por efeito das sucessivas indexações, conforme estipulado no número anterior, se verificar que o valor da bolsa não preenche os fins do artigo 5.º, os Serviços Sociais da Universidade Técnica de Lisboa deverão propor ao reitor a correcção desse valor de modo a conservar o seu poder de compra inicial.
+
+4 - O valor corrigido, nos termos do número anterior, constituirá a base para a determinação do montante da bolsa nos anos seguintes.
+
+Art. 4.º - 1 - Quando o valor anual da bolsa, calculado nos termos do artigo anterior, exceder o valor do capital residual, será este o montante da última bolsa.
+
+2 - A bolsa subsistirá até se esgotar a totalidade do capital.
+
+Art. 5.º - 1 - A bolsa destina-se a alunos carecidos dos meios económicos necessários à continuação dos seus estudos e que se encontrem nas condições legais fixadas para a obtenção das bolsas de estudo atribuídas pelos Serviços Sociais da Universidade Técnica de Lisboa.
+
+2 - A bolsa será atribuída de preferência a alunos que iniciem os seus cursos.
+
+3 - O aluno a quem no ano anterior foi atribuída a bolsa, e no ano seguinte possa ser preterido por outro concorrente considerado mais necessitado, terá sempre preferência se a não atribuição da bolsa puser em causa a continuação dos seus estudos.
+
+4 - Em igualdade de circunstâncias para a atribuição da bolsa, goza de preferência o aluno que tiver obtido maior classificação no semestre anterior ou na habilitação de ingresso no ensino superior.
+
+Art. 6.º A bolsa será paga no termo de cada semestre escolar na proporção de metade do seu montante a cada contemplado.
+
+Art. 7.º Compete aos Serviços Sociais da Universidade de Lisboa, de acordo com os regulamentos em vigor sobre a concessão de bolsas de estudo, organizar os processos dos concorrentes e graduá-los.
+
+Art. 8.º A bolsa será paga por despacho do reitor da Universidade Técnica e constará de documento que identifique o benemérito.
+
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

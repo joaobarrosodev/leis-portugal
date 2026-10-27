@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0074:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0074-20100901",
+ "dre_path": null,
+ "source_lastmod": "2010-09-01",
+ "versions": [
+  {
+   "date": "1993-09-22",
+   "future": false,
+   "celex": "31993L0074",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "05fee3578db61eba",
+    "a209ab6e43485fc9",
+    "bd2895d47770379a",
+    "8bdabd73447bb70d",
+    "b10680f29ad33ab4",
+    "6256f658cc4efc6a",
+    "969cee76d8f1b067",
+    "4be7e770dac4550c",
+    "932fdab1912756b7",
+    "b87d3772bbeca4a9",
+    "32af340e6ccb888a",
+    "96d725bc6d4571c5",
+    "bbce457ebee83ebf",
+    "a7e1d5bf79c7d25d",
+    "10220b9774fa9034"
+   ]
+  },
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "celex": "01993L0074-20100901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "60f20c25a03b0d33"
+   ]
+  }
+ ],
+ "fragments": {
+  "05fee3578db61eba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/74/CEE do Conselho, de 13 de Setembro de 1993, relativa aos alimentos para animais com objectivos nutricionais específicos** *Jornal Oficial nº L 237 de 22/09/1993 p. 0023 - 0027 Edição especial finlandesa: Capítulo 3 Fascículo 52 p. 0145 Edição especial sueca: Capítulo 3 Fascículo 52 p. 0145*\n\nDIRECTIVA 93/74/CEE DO CONSELHO de 13 de Setembro de 1993 relativa aos alimentos para animais com objectivos nutricionais específicos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os alimentos para animais com objectivos nutricionais específicos tendem a ocupar um lugar cada vez mais importante na alimentação dos animais de estimação; que estes produtos também são utilizados na criação de animais de rendimento;\n\nConsiderando que, em alguns Estados-membros, os alimentos abrangidos pela presente directiva são já comercializados de modo a chamar a atenção dos utilizadores para a sua composição específica;\n\nConsiderando que é conveniente estabelecer uma definição comum dos produtos em questão; que essa definição deve prever que os produtos presumivelmente destinados a suprir necessidades nutricionais específicas possuam uma composição particular e/ou sejam fabricados de acordo com processos especiais; que é essencial estabelecer o princípio em função do qual esses alimentos se devem distinguir claramente, pelas suas características e pelo seu objectivo, tanto dos alimentos correntes como dos alimentos medicamentosos;\n\nConsiderando que os alimentos para animais com objectivos nutricionais específicos são alimentos cuja composição e elaboração devem ser especialmente estudadas, de modo a responder às necessidades nutricionais específicas das categorias de animais de estimação ou de rendimento cujo processo de assimilação, absorção ou metabolismo possa ser momentaneamente ou esteja perturbado temporária ou irreversivelmente perturbado;\n\nConsiderando que, ao regulamentar a comercialização dos alimentos para animais com objectivos nutricionais específicos, é necessário assegurar que a ingestão desses alimentos pelos animais tenha resultados benéficos; que, por isso, os alimentos devem ser sempre de qualidade comercializável; que não devem constituir qualquer risco para a saúde animal ou humana nem para o ambiente, nem ser comercializados de modo susceptível de induzir em erro;\n\nConsiderando que apresente directiva é aplicável sem prejuízo de outras disposições comunitárias sobre alimentação dos animais, principalmente das normas aplicáveis aos alimentos compostos;\n\nConsiderando que é necessário fornecer ao utilizador uma informação exacta e elucidativa sobre os alimentos para animais com objectivos nutricionais específicos;\n\nConsiderando que, para distinguir os alimentos que satisfazem os critérios definidos na presente directiva dos outros alimentos, a designação desses alimentos deve ser acompanhada de um qualificativo único, ou seja, « dietético »;\n\nConsiderando que, tal como para os alimentos correntes, é conveniente declarar, pelo menos, o teor dos constituintes analíticos que determinam directamente a qualidade do alimento; que se deve prever a declaração do teor em determinados constituintes analíticos suplementares que conferem ao alimento as suas propriedades dietéticas;\n\nConsiderando que é necessário que todos os produtores de alimentos para animais com objectivos nutricionais específicos tenham a possibilidade de indicar no rótulo um determinado número de elementos de informação úteis ao utilizador;\n\nConsiderando que não é necessário sujeitar o fornecimento dos alimentos para animais com objectivos nutricionais específicos à apresentação de uma receita veterinária, uma vez que esses produtos não contêm medicamentos na acepção da Directiva 65/65/CEE do Conselho, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas sobre especialidades farmacêuticas (4), mas que, para assegurar uma utilização adequada dos alimentos de natureza muito específica, é conveniente avisar o utilizador de que, antes de os empregar, é recomendável consultar um especialista;\n\nConsiderando no entanto que, para os alimentos destinados a suprir necessidades nutricionais dos animais cujo processo de assimilação, absorção ou metabolismo esteja irreversivelmente perturbado ou que se encontrem num estado patológico que exija vigilância médica, há que prever a possibilidade de se estabelecerem regras de rotulagem adicionais que recomendem ao utilizador o pedido de um parecer prévio de um veterinário, em vez da recomendação geral de consultar um especialista;\n\nConsiderando que é igualmente necessário elaborar, a nível comunitário, uma lista positiva das finalidades previstas para os alimentos para animais com objectivos nutricionais específicos indicando a utilização precisa, as características nutricionais essenciais, as declarações obrigatórias e facultativas e as disposições específicas de rotulagem; que, dada a importância dessa lista na execução da presente directiva, se deve proceder à sua adopção em tempo útil;\n\nConsiderando que a comercialização de alimentos para animais com objectivos nutricionais específicos conformes às disposições da presente directiva não deve ser sujeita a qualquer restrição relativa à sua composição, características de fabrico, apresentação ou rotulagem;\n\nConsiderando que, no caso de um produto apresentar um perigo para a saúde animal ou humana ou para o ambiente, se deve prever a possibilidade de qualquer Estado-membro solicitar à Comissão, justificando circunstanciadamente o seu pedido, que tome as medidas adequadas;\n\nConsiderando que, nos casos em que o Conselho confere à Comissão competência para a aplicação de normas em matéria de alimentos para animais com objectivos nutricionais específicos, se deve prever um processo de estreita cooperação entre os Estados-membros e a Comissão no Comité permanente dos alimentos para animais, instituído pela Decisão 70/372/CEE do Conselho (5);\n\nConsiderando que é imperativo assegurar uma fiscalização eficaz dos alimentos para animais com objectivos nutricionais específicos; que, em determinadas circunstâncias, os meios usuais colocados à disposição dos serviços de fiscalização podem não permitir verificar se o alimento em causa possui efectivamente as propriedades nutricionais específicas que lhe são atribuídas; que, deste modo, é necessário prever que, em caso de necessidade, o responsável pela colocação no mercado do género em causa preste assistência ao serviço de fiscalização no exercício das suas actividades,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a209ab6e43485fc9": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Esta directiva diz respeito aos alimentos para animais com objectivos nutricionais específicos.\n\n2. Os Estados-membros preverão que os alimentos para animais com objectivos nutricionais específicos só podem ser colocados no mercado se\n\n- preencherem as condições previstas no artigo 3o,\n\n- estiverem rotulados nos termos do artigo 5o e\n\n- a finalidade constar da lista aprovada nos termos do artigo 6o e satisfizer as outras disposições previstas nesta lista."
+  },
+  "bd2895d47770379a": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva, entende-se por:\n\na) « Alimentos para animais », os produtos de origem vegetal ou animal, no estado natural, frescos ou conservados, e os derivados da sua transformação industrial, assim como as substâncias orgânicas ou inorgânicas, simples ou em misturas, contendo ou não aditivos, destinados à alimentação animal por via oral;\n\nb) « Alimentos compostos para animais », as misturas de produtos de origem vegetal ou animal, no estado natural, frescas ou conservadas, e os produtos derivados da sua transformação industrial ou de substâncias orgânicas ou inorgânicas, contendo ou não aditivos, destinados à alimentação animal por via oral, sob a forma de alimentos completos ou de alimentos complementares;\n\nc) « Alimentos para animais com objectivos nutricionais específicos », os alimentos compostos que, em virtude da sua composição específica ou do seu processo específico de fabrico, se distinguem nitidamente tanto dos alimentos correntes como dos produtos definidos na Directiva 90/167/CEE do Conselho, de 26 de Março de 1990, que estabelece as condições de preparação, colocação no mercado e utilização dos alimentos medicamentosos para animais na Comunidade (6), e se presumem destinados a suprir necessidades nutricionais específicas;\n\nd) « Objectivo nutricional específico », a satisfação das necessidades nutricionais específicas de determinadas categorias de animais de estimação ou de rendimento, cujo processo de assimilação, absorção ou metabolismo possa ser temporariamente perturbado ou esteja temporária ou irreversivelmente perturbado, podendo, por isso, beneficiar da ingestão de alimentos adequados ao seu estado."
+  },
+  "8bdabd73447bb70d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros estipularão que a natureza ou composição dos alimentos para animais referidos no no 1 do artigo 1o seja de molde a que os mesmos sejam adequados ao objectivo nutricional específico a que se destinam."
+  },
+  "b10680f29ad33ab4": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA presente directiva é aplicável, sob reserva das disposições específicas nela previstas, sem prejuízo das disposições comunitárias sobre:\n\na) Alimentos compostos para animais;\n\nb) Aditivos utilizados nos alimentos para animais;\n\nc) Substâncias e produtos indesejáveis na alimentação dos animais;\n\nd) Alguns produtos utilizados na alimentação dos animais."
+  },
+  "6256f658cc4efc6a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nPara além das disposições sobre a rotulagem previstas no artigo 5o da Directiva 79/373/CEE, de 2 de Abril de 1979, relativa à comercialização de alimentos compostos para animais (7), os Estados-membros determinarão que:\n\n1. As menções suplementares adiante referidas devem constar do espaço reservado para o efeito na embalagem, no recipiente ou no rótulo dos alimentos referidos no no 1 do artigo 1o:\n\na) O qualificativo « dietético » juntamente com a designação do alimento;\n\nb) A finalidade exacta, ou seja o objectivo nutricional específico;\n\nc) A indicação das características nutricionais essenciais do alimento;\n\nd) As declarações previstas na coluna 4 do anexo relativas ao objectivo nutricional específico;\n\ne) O prazo de utilização recomendado para o alimento.\n\nAs indicações referidas nas alíneas a) a e) devem estar em conformidade com o conteúdo da lista de finalidades referida no anexo e com as disposições gerais a estabelecer nos termos da alínea b) do artigo 6o\n\n2. Podem ser fornecidas outras indicações para além das referidas no no 1, no espaço previsto para o efeito, desde que estejam previstas na alínea a) do artigo 6o\n\n3. Sem prejuízo da alínea e) do artigo 5oE da Directiva 79/373/CEE, a rotulagem dos alimentos referidos no no 1 do artigo 1o pode fazer referência a um estado patológico específico, desde que esse estado corresponda ao objectivo nutricional definido na lista de finalidades elaborada nos termos da alínea a) do artigo 6o\n\n4. O rótulo ou o modo de emprego dos alimentos referidos no no 1 do artigo 1o deve apresentar a menção « Recomenda-se a consulta a um especialista antes da utilização ».\n\nPode, contudo, prever-se, na lista de finalidades constante do anexo, que, para alimentos dietéticos específicos, esta menção seja substituída por uma recomendação de pedido de parecer prévio de um veterinário.\n\n5. O disposto no no 5 do artigo 5oC da Directiva 79/373/CEE é igualmente aplicável aos alimentos referidos no no 1 do artigo 1o, destinados a animais que não os de estimação.\n\n6. A rotulagem dos alimentos referidos no no 1 do artigo 1o pode, além disso, evidenciar a presença ou o fraco teor de um ou de vários constituintes analíticos essenciais que caracterizam o alimento. Nesse caso, o teor mínimo ou máximo do ou dos constituintes analíticos expresso em percentagem de peso do alimento deve ser claramente indicado, na lista dos constituintes analíticos declarados.\n\n7. O qualificativo « dietético » é reservado exclusivamente para os alimentos referidos no no 1 do artigo 1o\n\nNa rotulagem e apresentação desses alimentos, são proibidos quaisquer qualificativos que não o de « dietético ».\n\n8. Não obstante o disposto no no 3 do artigo 5oC da Directiva 79/373/CEE, a declaração dos ingredientes pode ser feita sob a forma de categorias que agrupem vários ingredientes, mesmo que seja exigida a declaração de alguns ingredientes pelo seu nome específico para justificar as características nutritivas do alimento."
+  },
+  "969cee76d8f1b067": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nDe acordo com o procedimento previsto no artigo 9o:\n\na) Será elaborada uma lista de finalidades nos termos do anexo, o mais tardar, em 30 de Junho de 1994. Essa lista incluirá:\n\n- as indicações referidas no no 1, alíneas b), c), d) e e) do artigo 5o, e\n\n- sempre que necessário, as indicações referidas no no 2 e no segundo parágrafo do no 4 do artigo 5o;\n\nb) Podem ser estabelecidas disposições gerais relativas à aplicação das indicações referidas na alínea a), incluindo tolerâncias aplicáveis;\n\nc) As medidas adoptadas nos termos das alíneas a) e b) podem ser alteradas em função da evolução dos conhecimentos científicos e técnicos."
+  },
+  "4be7e770dac4550c": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros assegurarão que, por razões relacionadas com as disposições da presente directiva, os alimentos para animais referidos no no 1 do artigo 1o não sejam sujeitos a outras restrições de comercialização além das previstas na presente directiva."
+  },
+  "932fdab1912756b7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Se um Estado-membro observar que a utilização de um dos alimentos referidos no no 1 do artigo 1o ou a sua utilização nas condições previstas, apresenta perigo para a saúde animal ou humana ou para o ambiente, informará imediata e circunstanciadamente a Comissão.\n\n2. A Comissão dará início, o mais rapidamente possível, ao processo previsto no artigo 9o, para adoptar as eventuais medidas adequadas."
+  },
+  "b87d3772bbeca4a9": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Quando seja feita referência ao procedimento definido no presente artigo, o Comité permanente dos alimentos para animais, adiante designado « comité », será convocado pelo presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a adoptar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo acima referido. O presidente não participa na votação.\n\n3. A Comissão adoptará as medidas projectadas, desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "32af340e6ccb888a": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nSão aplicáveis as seguintes disposições especiais, para permitir uma fiscalização oficial eficaz dos alimentos referidos no no 1 do artigo 1o:\n\n1. Os Estados-membros tomarão todas as disposições úteis para que, durante a produção e a comercialização, o controlo da observância das condições previstas na presente directiva seja efectuado pelo menos por amostragem.\n\n2. Se for caso disso, a autoridade competente está habilitada a exigir ao responsável pela colocação do produto no mercado a apresentação de dados e informações que provem a conformidade dos alimentos com o disposto na presente directiva.\n\nSe esses dados tiverem sido objecto de uma publicação facilmente acessível, bastará uma referência a esta última."
+  },
+  "96d725bc6d4571c5": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs directivas adiante mencionadas são alteradas do seguinte modo:\n\n1. No no 2, do artigo 1o, da Directiva 74/63/CEE do Conselho, de 17 de Dezembro de 1973, relativa à fixação de teores máximos em substâncias e produtos indesejáveis nos alimentos para animais (8), é aditada a seguinte alínea:\n\n« f) Aos alimentos para animais com objectivos nutricionais específicos. »;\n\n2. Na Directiva 79/373/CEE:\n\na) No no 2 do artigo 1o, é aditada a seguinte alínea:\n\n« h) Aos alimentos para animais com objectivos nutricionais específicos. »;\n\nb) No segundo parágrafo do artigo 5oE, o primeiro travessão passa a ter a seguinte redacção:\n\n« - não podem ter por objectivo declarar a presença ou o teor de constituintes analíticos que não aqueles cuja declaração está prevista no artigo 5o da presente directiva ou no ponto 2 do artigo 5o da Directiva 93/74/CEE do Conselho, de 13 de Setembro de 1993, relativa aos alimentos para animais com objectivos nutricionais específicos (*);\n\n(*) JO no L 237 de 22. 9. 1993, p. 23. ».\n\n3. No no 2, do artigo 1o da Directiva 82/471/CEE do Conselho, de 30 de Junho de 1982, relativa a certos produtos utilizados na alimentação dos animais (9) é aditada a seguinte alínea:\n\n« f) Aos alimentos para animais com objectivos nutricionais específicos. »."
+  },
+  "bbce457ebee83ebf": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 30 de Junho de 1995. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "a7e1d5bf79c7d25d": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Setembro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nPh. MAYSTADT\n\n(1) JO no C 231 de 9. 9. 1992, p. 6.\n\n(2) JO no C 21 de 25. 1. 1993, p. 73.\n\n(3) JO no C 73 de 15. 3. 1993, p. 25.\n\n(4) JO no 22 de 9. 2. 1965, p. 369/65.\n\n(5) JO no L 170 de 3. 8. 1970, p. 1.\n\n(6) JO no L 92 de 7. 4. 1990, p. 42.\n\n(7) JO no L 86 de 6. 4. 1979, p. 30.\n\n(8) JO no L 38 de 11. 2. 1974, p. 31.\n\n(9) JO no L 213 de 21. 7. 1982, p. 8."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "60f20c25a03b0d33": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0074 — PT — 01.09.2010 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0074) [DIRECTIVA 93/74/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0074) [de 13 de Setembro de 1993](http://publications.europa.eu/resource/celex/31993L0074) [relativa aos alimentos para animais com objectivos nutricionais específicos](http://publications.europa.eu/resource/celex/31993L0074) (JO L 237, 22.9.1993, p.23)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 767/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0767) — L 229 — 1 — 1.9.2009"
+  }
+ }
+}

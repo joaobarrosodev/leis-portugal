@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:1688616:por
+title: Resolução n.º 41/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 41/2001 (2.ª série)
+official_date: null
+publication_date: '2001-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/2001, Série II de 2001-03-27
+  number: '73'
+  series: II
+  supplement: null
+  pages: 5380 - 5380
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/03/073000000/0538005380.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1688616'
+  dre_path: /dr/detalhe/resolucao/41-2001-1688616
+  internal: pt:dre:1688616:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/41-2001-1688616
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/41-2001-1688616
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 774a1d800419eaa47fe7d6ff2f420b48fab4038ef76c5f407890c03c0be065b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Empregos
+- Administrador Delegado
+- Conselho de Administração
+- Instituto das Estradas de Portugal
+- Instituto para a Conservação e Exploração da REDE Rodoviária
+- Instituto para a Construção Rodoviária
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:890915:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:890915:por
+  label: "Exoneradas as personalidades nomeadas pelo presente diploma, pela RES.76-A/2002(2ªSÉRIE).2002.11.07.PCM DR.IIS [258]SUPL\
+    \ DE 08/NOV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/76-a-2002-890915
+  date: '2002-11-07'
+- type: cites
+  target: pt:dre:393003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618336:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:10:51Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 41/2001 (2.ª série)
+
+Resolução n.º 41/2001 (2.ª série). - Pelo [Decreto-Lei n.º 237/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1999-393003), de 25 de Junho, foram criados o Instituto das Estradas de Portugal - IEP, o Instituto para a Construção Rodoviária - ICOR e o Instituto para a Conservação e Exploração da Rede Rodoviária - ICERR.
+
+Nos termos do artigo 6.º, n.º 1, dos Estatutos do Instituto das Estradas de Portugal - IEP, do artigo 6.º, n.º 1, dos Estatutos do Instituto para a Construção Rodoviária - ICOR e do artigo 6.º, n.º 1, dos Estatutos do Instituto para a Conservação e Exploração da Rede Rodoviária - ICERR, compete ao Conselho de Ministros nomear os membros dos respectivos conselhos de administração.
+
+Assim:
+
+Nos termos da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1.º Nomear presidente do conselho de administração do Instituto de Estradas de Portugal - IEP o engenheiro Pedro Eduardo Passos da Cunha Serra.
+
+2.º Nomear vogais do conselho de administração do Instituto de Estradas de Portugal - IEP o engenheiro Artur Pato Mendes de Magalhães e o licenciado Álvaro Jaime Neves da Silva.
+
+3.º Nomear vice-presidente do Instituto para a Conservação e Exploração da Rede Rodoviária - ICERR o engenheiro José Alberto Alves Nunes do Valle.
+
+4.º Nomear o vogal executivo do Instituto para a Conservação e Exploração da Rede Rodoviária - ICERR o licenciado Álvaro Jaime Neves da Silva.
+
+5.º Nomear administrador-delegado do Instituto para a Construção Rodoviária - ICOR o engenheiro Artur Pato Mendes de Magalhães.
+
+6.º Os ora nomeados engenheiro Pedro Eduardo Passos da Cunha Serra, engenheiro Artur Pato Mendes de Magalhães e licenciado Álvaro Jaime Neves da Silva exercem as suas funções em regime de acumulação, nos termos do artigo 7.º do Decreto-Lei n.º 464/82, de 9 de Dezembro, e da [Resolução do Conselho de Ministros n.º 29/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-1989-618336), de 26 de Agosto, auferindo por esse facto uma remuneração adicional a fixar por despacho conjunto dos Ministros das Finanças e do Equipamento Social.
+
+7.º Para os efeitos dos números anteriores, são requisitados o engenheiro Artur Pato Mendes de Magalhães e o licenciado Álvaro Jaime Neves da Silva, respectivamente, ao Instituto Português do Património Arquitectónico e ao Conselho Económico e Social.
+
+8.º A presente resolução produz efeitos a partir de 15 de Março de 2001.
+
+15 de Março de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

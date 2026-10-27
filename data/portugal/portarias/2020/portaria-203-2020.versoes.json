@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140821542:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-140821565",
+ "dre_path": "/dr/detalhe/portaria/203-2020-140821542",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "140854184",
+    "140854185",
+    "140854186",
+    "140854187"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:143853828:por",
+     "title": "Declaração de Retificação n.º 36/2020",
+     "published": "2020-09-28",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/36-2020-143853828",
+     "date": "2020-08-22"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "140854184": {
+   "fragment_id": "140821566",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 203/2020\n\nde 21 de agosto\n\nSumário: Altera a Portaria n.º 102/2015, de 7 de abril, que estabelece os critérios de atribuição da autorização para a instalação do sobre-equipamento de centros eletroprodutores eólicos.\n\nA Portaria n.º 102/2015, de 7 de abril, veio balizar os critérios de atribuição da autorização para a instalação do sobre-equipamento, estabelecendo a ausência de efeitos negativos no preço da eletricidade, no défice tarifário e nos encargos com sobrecustos futuros do Sistema Elétrico Nacional (SEN), a aferir em sede de consulta obrigatória à Entidade Reguladora dos Serviços Energéticos (ERSE), como condição para emissão da referida autorização.\n\nPosteriormente, e com base no estudo efetuado pela ERSE que estimou o valor médio de mercado, a Portaria n.º 43/2019, de 31 de janeiro, veio dispensar o parecer obrigatório daquela entidade nos casos em que, à luz do referido estudo, se mostrasse alcançado o objetivo que justificava a sua intervenção.\n\nNo entanto, e tendo presente que a situação atual, em contexto de pandemia, também tem repercussões na evolução do valor médio de mercado que tem percorrido uma trajetória em sentido descendente, importa assegurar a sincronia entre as decisões sobre os procedimentos para autorização do sobre-equipamento e a evolução dos referidos valores.\n\nNeste sentido, e porque o estudo que fundamentou a dispensa de intervenção da ERSE já não se mostra, aos dias de hoje, atualizado, importa garantir a intervenção daquela entidade de modo a assegurar o cumprimento dos critérios estabelecidos para a autorização dos procedimentos de instalação de sobre-equipamento.\n\nPor outro lado, as evidentes vantagens inerentes à aceleração dos procedimentos administrativos de autorização de instalação de sobre-equipamento aconselham a que o parecer obrigatório da ERSE seja dispensado quando o titular do centro eletroprodutor a sobre equipar opte, expressamente, pelo regime de remuneração geral.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e da Energia, ao abrigo do disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 94/2014, de 24 de junho, e da subalínea ii) da alínea d) do n.º 1 do Despacho n.º 12149-A/2019, do Ministro do Ambiente e Ação Climática, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, na sua redação atual, o seguinte:"
+  },
+  "140854185": {
+   "fragment_id": "140821567",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração da Portaria n.º 102/2015, de 7 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração da Portaria n.º 102/2015, de 7 de abril\n\nÉ alterado o artigo 7.º da Portaria n.º 102/2015, de 7 de abril, na sua atual redação, nos seguintes termos:\n\n«Artigo 7.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - A consulta da ERSE prevista no número anterior é dispensada caso o titular do centro eletroprodutor a sobre-equipar opte, expressamente, pela aplicação do regime de remuneração geral à energia produzida pelo sobre-equipamento.\n\n5 - (Revogado.)»"
+  },
+  "140854186": {
+   "fragment_id": "140821568",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposição transitória e final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposição transitória e final\n\nO disposto na presente portaria não prejudica as autorizações dos procedimentos para instalação do sobre-equipamento que tenham sido emitidas até à sua entrada em vigor."
+  },
+  "140854187": {
+   "fragment_id": "140821569",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R1255:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1255-20070105",
+ "dre_path": null,
+ "source_lastmod": "2007-01-05",
+ "versions": [
+  {
+   "date": "1997-07-02",
+   "future": false,
+   "celex": "31997R1255",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8446521b9f4b6fb",
+    "19147f92ec13ea77",
+    "3c27eb028abc2fbb",
+    "d0c919a631f5667f",
+    "04364d85f0bc3004",
+    "665593e8baab161e",
+    "25345f47eac173e3",
+    "c3832d643ab78054",
+    "d61a7e9f45bc9d40"
+   ]
+  },
+  {
+   "date": "2007-01-05",
+   "future": false,
+   "celex": "01997R1255-20070105",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1040:por",
+     "title": "REGULAMENTO (CE) N. o 1040/2003 DO CONSELHO de 11 de Junho de 2003",
+     "published": null,
+     "celex": "32003R1040"
+    },
+    {
+     "id": "eu:celex:32005R0001:por",
+     "title": "REGULAMENTO (CE) N. o 1/2005 DO CONSELHO de 22 de Dezembro de 2004",
+     "published": null,
+     "celex": "32005R0001"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 6.º–A",
+    "Adita Artigo 6.ºB",
+    "Adita Artigo 7.º",
+    "Adita ANEXO I",
+    "Adita CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS POSTOS DE CONTROLO",
+    "Adita A. MEDIDAS SANITÁRIAS E HIGIÉNICAS",
+    "Adita B. CONSTRUÇÃO E INSTALAÇÕES",
+    "Adita C. OPERAÇÃO",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime ANEXO I — CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS PONTOS DE PARAGEM"
+   ],
+   "fragments": [
+    "814f13616d8e1872",
+    "da90cce0ffdefb5b",
+    "f983c013b585ca05",
+    "f6259d85b555ff9b",
+    "45bca4f00adfe28e",
+    "253d30ce4b5f53ff",
+    "5d8e97d9330e4c0b",
+    "7e4ed713cb45b1db",
+    "01df7c78aa9c0aff",
+    "5495fb766c1c7f15",
+    "d664376e2a8dcecd",
+    "fdbc6c90010f289e",
+    "9534717b01f0a71c",
+    "14089b8fe5c554f2",
+    "5bf0e6500c692666",
+    "4fddade09ded3435"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8446521b9f4b6fb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1255/97 do Conselho de 25 de Junho de 1997 relativo aos critérios comunitários exigidos nos pontos de paragem e que adapta a guia de marcha prevista no anexo da Directiva 91/628/CEE** *Jornal Oficial nº L 174 de 02/07/1997 p. 0001 - 0006*\n\nREGULAMENTO (CE) Nº 1255/97 DO CONSELHO de 25 de Junho de 1997 relativo aos critérios comunitários exigidos nos pontos de paragem e que adapta a guia de marcha prevista no anexo da Directiva 91/628/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE (1), e, nomeadamente, o nº 2 do artigo 13º e o artigo 14º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, a fim de melhorar o bem-estar de certas categorias de animais transportados, a Directiva 91/628/CEE estabelece exigências relativas aos períodos máximos de viagem, decorridos os quais os animais devem ser descarregados, alimentados e abeberados e ter um período de repouso de, pelo menos, 24 horas antes de retomarem viagem;\n\nConsiderando que essas interrupções obrigatórias dos transportes dos animais a longas distâncias serão efectuadas em pontos de paragem;\n\nConsiderando que é necessário estabelecer critérios aplicáveis em toda a Comunidade aos pontos de paragem, de modo a dar aos animais que neles sejam alojados condições óptimas de bem-estar e, simultaneamente, ter em conta determinadas questões acessórias ligadas à saúde dos animais;\n\nConsiderando que, para facilitar o controlo do funcionamento dos pontos de paragem e dos veículos e animais que aí passam, é necessário determinar a manutenção de certos registos e resolver certas questões administrativas;\n\nConsiderando que, para garantir que a viagem dos animais transportados prossiga nas melhores condições possíveis de bem-estar, convirá que a autoridade competente se certifique da aptidão dos animais para prosseguir viagem;\n\nConsiderando que, enquanto se aguarda a adopção de medidas relativas à cobrança de uma taxa comunitária pelas despesas incorridas com o controlo veterinário tendo em vista a certificação de que os animais estão aptos a prosseguir viagem, convirá precisar que os Estados-membros podem, no respeito pelas regras gerais do Tratado, determinar, que essas despesas ficam a cargo do operador em questão;\n\nConsiderando que, para garantir o respeito de determinadas regras aplicáveis aos pontos de paragem, convirá adaptar a guia de marcha prevista no capítulo VIII do anexo da Directiva 91/628/CEE às novas disposições;\n\nConsiderando que, numa primeira fase, é importante adoptar as normas aplicáveis aos pontos de paragem que acolhem solípedes domésticos e animais domésticos das espécies bovina, ovina, caprina e suína;\n\nConsiderando que o Comité científico veterinário recomendou, para os pontos de paragem, determinados requisitos mínimos que foram tomados em consideração,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "19147f92ec13ea77": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento é aplicável exclusivamente aos pontos de paragem que acolham durante, pelo menos, 24 horas solípedes domésticos e animais domésticos das espécies bovina, ovina, caprina e suína na Comunidade, nos termos do capítulo VII do anexo da Directiva 91/628/CEE e sem prejuízo das Directivas 64/432/CEE (2), 80/213/CEE (3), 85/511/CEE (4), 89/608/CEE (5), 90/425/CEE (6), 90/426/CEE (7), 91/68/CEE (8), 91/496/CEE (9), 92/102/CEE (10) e 93/119/CE (11).\n\n2. Os pontos de paragem referidos no nº 1 devem satisfazer os critérios comunitários estabelecidos no presente regulamento."
+  },
+  "3c27eb028abc2fbb": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos do presente regulamento, são aplicáveis, na medida do necessário, as definições constantes do artigo 2º das Directivas 64/432/CEE, 90/425/CEE, 91/496/CEE e 91/628/CEE."
+  },
+  "d0c919a631f5667f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros devem zelar por que os pontos de paragem sejam aprovados pela autoridade competente do Estado-membro em cujo território se situem.\n\n2. Para efeitos da concessão dessa aprovação, a autoridade competente, na acepção do nº 6 do artigo 2º da Directiva 90/425/CEE, deve zelar por que os pontos de paragem satisfaçam os requisitos constantes do anexo I do presente regulamento; estes pontos de paragem devem além disso:\n\na) Estar situados numa zona não sujeita a proibição ou restrição nos termos da legislação comunitária pertinente;\n\nb) Estar sob controlo de um veterinário oficial que zele, em particular, pelo respeito pelas disposições do presente regulamento;\n\nc) Operar em conformidade com todas as disposições comunitárias pertinentes relativas ao cumprimento das regras de polícia sanitária, ao movimento de animais e à protecção dos animais no momento do abate;\n\nd) Ser objecto de inspecções regulares com vista a assegurar que as condições de aprovação continuem a ser satisfeitas.\n\n3. A autoridade competente atribui um número de aprovação a cada ponto de paragem aprovado. A referida aprovação pode ser limitada a uma ou mais espécies particulares ou a determinadas categorias de animais e estatuto sanitário. A autoridade competente notifica à Comissão a lista de pontos de paragem aprovados, bem como as eventuais actualizações dessa lista. A Comissão comunica estes dados aos Estados-membros no quadro do Comité veterinário permanente.\n\n4. A autoridade competente pode suspender ou revogar a aprovação do ponto de paragem em causa em caso de incumprimento do presente artigo ou outras disposições pertinentes do presente regulamento, bem como em caso de alteração do estatuto sanitário da zona de localização ou de infracção às regras de bem-estar dos animais. A aprovação pode ser de novo atribuída depois de a autoridade competente se certificar de que o ponto de paragem respeita de novo todas as disposições do presente regulamento."
+  },
+  "04364d85f0bc3004": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os pontos de paragem devem ser utilizados exclusivamente para receber, alimentar, abeberar, fazer repousar, alojar, cuidar e expedir os animais que neles transitam.\n\n2. No entanto, em derrogação do nº 1 do presente artigo, os Estados-membros podem igualmente aprovar como pontos de paragem os centros de agrupamento, definidos na alínea o) do artigo 2º da Directiva 64/432/CEE, desde que, quando sejam utilizados como pontos de paragem:\n\na) Satisfaçam tanto os requisitos pertinentes do artigo 11º da Directiva 64/432/CEE como os requisitos do presente regulamento;\n\nb) A utilização dessas instalações seja exclusivamente destinada a esta actividade durante o período em causa;\n\nc) Não sejam utilizados para compra e venda dos animais abrangidos no presente regulamento.\n\n3. Apenas os animais com o mesmo estatuto sanitário certificado específico da espécie em causa e para os quais os pontos de paragem estão aprovados poderão estar presentes no mesmo momento nos pontos de paragem, a fim de evitar quaisquer riscos que possam comprometer o seu estatuto sanitário."
+  },
+  "665593e8baab161e": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO proprietário ou qualquer pessoa singular ou colectiva que explore um ponto de paragem é responsável pelo cumprimento das disposições pertinentes do presente regulamento, estando para o efeito obrigado a:\n\na) Admitir somente os animais certificados e identificados em conformidade com as legislações comunitárias pertinentes, em especial no que se refere às disposições referidas no nº 3 do artigo 3º Para tal, verifica ou providencia a verificação dos documentos sanitários ou outros documentos de acompanhamento específicos das espécies ou categorias em questão e, de forma aleatória, das marcas de identificação dos animais;\n\nb) Zelar por que, sem prejuízo das disposições previstas no ponto 3 da parte B do anexo I, os animais presentes nos pontos de paragem ficam no mesmo grupo que constitui a remessa de origem e por que cada remessa seja alojada em instalações completamente separadas cuja gestão deve ser efectuada segundo as instruções do veterinário oficial, nomeadamente a fim de evitar quaisquer contactos que possam pôr em perigo o estatuto sanitário dos animais;\n\nc) Zelar por que os animais presentes nos pontos de paragem sejam alimentados e abeberados em tempo oportuno atendendo à espécie em questão e dispor para o efeito das quantidades adequadas de alimentos e de líquidos para abeberamento;\n\nd) Cuidar dos animais presentes nos pontos de paragem e, quando for necessário, tomar todas as disposições necessárias para garantir o respectivo bem-estar e o respeito pelos requisitos de saúde animal;\n\ne) Em caso de necessidade, recorrer a um veterinário para:\n\n- ministrar tratamento veterinário apropriado aos animais que adoeçam ou se firam enquanto estiverem sob a sua responsabilidade, e\n\n- se necessário, mandar proceder ao abate de urgência, à occisão ou à eutanásia do animal em causa, em conformidade com as disposições da Directiva 93/119/CE;\n\nf) Utilizar pessoal com as aptidões, as capacidades profissionais e os conhecimentos apropriados e que, para esse fim, disponha de formação específica adquirida quer na empresa, quer numa instituição de formação, ou possua experiência profissional equivalente que o habilite a proceder à manipulação dos animais em causa, bem como a dispensar os cuidados apropriados aos referidos animais em caso de necessidade;\n\ng) Tomar as medidas necessárias para assegurar que todos os indivíduos que manipulam animais no ponto de paragem respeitem as disposições pertinentes em matéria de bem-estar dos animais;\n\nh) Inscrever em registo ou suporte informático, a conservar e a manter à disposição da autoridade competente durante, pelo menos, três anos os dados a que se refere o ponto 7 da parte C do anexo I;\n\ni) Assinalar o mais rapidamente à autoridade competente as anomalias verificadas."
+  },
+  "25345f47eac173e3": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Antes de os animais deixarem o ponto de paragem, o veterinário oficial, ou outro veterinário designado para o efeito pela autoridade competente, confirmará, na guia de marcha adaptada para o efeito de acordo com o anexo II, que os animais estão aptos para prosseguir viagem.\n\nOs Estados-membros podem determinar que as despesas incorridas pelo referido controlo veterinário ficarão a cargo do operador em questão.\n\n2. As regras relativas ao intercâmbio de informações entre autoridades para efeitos do cumprimento dos requisitos do presente regulamento são fixadas nos termos do nº 3 do artigo 6º da Directiva 91/628/CEE."
+  },
+  "c3832d643ab78054": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 25 de Junho de 1997.\n\nPelo Conselho\n\nO Presidente\n\nJ. VAN AARTSEN\n\n(1) JO nº L 340 de 11. 12. 1991, p. 17. Directiva com a última redacção que lhe foi dada pela Directiva 95/29/CE (JO nº L 148 de 30. 6. 1995, p. 52).\n\n(2) JO nº L 121 de 29. 7. 1964, p. 1977/64. Directiva com a última redacção que lhe foi dada pela Directiva 95/29/CE.\n\n(3) JO nº L 47 de 21. 2. 1980, p. 1.\n\n(4) JO nº L 315 de 26. 11. 1985, p. 11. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(5) JO nº L 351 de 2. 12. 1989, p. 34.\n\n(6) JO nº L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE (JO nº L 62 de 15. 3. 1993, p. 49).\n\n(7) JO nº L 224 de 18. 8. 1990, p. 42. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(8) JO nº L 46 de 19. 2. 1991, p. 19. Directiva com a última redacção que lhe foi dada pela Directiva 94/953/CE (JO nº L 371 de 31. 12. 1994, p. 14).\n\n(9) JO nº L 268 de 24. 9. 1991, p. 56. Directiva com a última redacção que lhe foi dada pela Directiva 96/43/CE (JO nº L 162 de 1. 7. 1996, p. 1).\n\n(10) JO nº L 355 de 5. 12. 1992, p. 32. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(11) JO nº L 340 de 31. 12. 1993, p. 21."
+  },
+  "d61a7e9f45bc9d40": {
+   "fragment_id": "ANEXO I — CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS PONTOS DE PARAGEM",
+   "type": "divisao",
+   "heading": "ANEXO I — CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS PONTOS DE PARAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS PONTOS DE PARAGEM\n\nA. MEDIDAS SANITÁRIAS E HIGIÉNICAS\n\n1. Os pontos de paragem devem:\n\na) Dispor de equipamento adequado para a limpeza e desinfecção de todos os edifícios, equipamentos, instalações e veículos;\n\nb) Ser construídos com materiais que possam ser conveniente e facilmente limpos e desinfectados;\n\nc) Ser limpos e desinfectados antes e após cada utilização de acordo com as instruções do veterinário oficial.\n\n2. O responsável pelo ponto de paragem deve fornecer equipamentos limpos e vestuário de protecção, que devem ficar reservados exclusivamente às pessoas que entrem no ponto de paragem, e facultar os equipamentos apropriados para a limpeza e desinfecção dos mesmos.\n\n3. As camas dos animais devem ser removidas sempre que uma remessa de animais abandone o recinto e, após limpeza e desinfecção nos termos da alínea c) do ponto 1, ser substituídas por camas frescas.\n\n4. Os pontos de paragem devem ser completamente evacuados de animais por um período de, pelo menos 24 horas após no máximo seis dias de utilização e após terem sido efectuadas as operações de limpeza e desinfecção e antes da chegada de uma nova remessa.\n\nB. CONSTRUÇÃO E INSTALAÇÕES\n\n1. Para além das disposições aplicáveis aos meios de transporte no que se refere à carga e descarga de animais, previstas no ponto 4 da parte A do capítulo I do anexo da Directiva 91/628/CEE, todos os pontos de paragem devem dispor de instalações e equipamento adequados para carregar e descarregar os animais dos meios de transporte. Em especial, esses equipamento e instalações devem dispor de um revestimento do chão não escorregadio e, se necessário, de uma protecção lateral. As pontes, rampas e passadiços devem ter parapeitos, corrimões ou qualquer outro meio de protecção para evitar que os animais caiam. As rampas de carga e descarga devem ter a mínima inclinação possível. Os corredores devem dispor de revestimentos do chão que minimizem os riscos de escorregamento e estar concebidos de modo a minimizar os riscos de ferimentos para os animais. Há que providenciar em especial para que não haja qualquer fenda ou degrau entre o pavimento de veículo e a rampa ou entre a rampa e o pavimento da zona de descarga que obrigue os animais a saltar ou os possa levar a escorregar ou a tropeçar.\n\nA partir de 1 de Julho de 1999, todos os pontos de paragem devem estar equipados permanentemente com um número suficiente de rampas fixas ou móveis construídas e instaladas de modo a que os animais não sejam obrigados a subir ou descer um declive superior a 20 ° durante a carga e descarga.\n\n2. Todas as instalações dos pontos de paragem utilizadas para alojar os animais devem:\n\na) Ter revestimentos do chão que minimizem o risco de escorregamento e não causem ferimentos aos animais;\n\nb) Dispor de um telhado e de uma protecção lateral adequada para proteger os animais de condições meteorológicas adversas;\n\nc) Dispor de instalações adequadas para a detenção, inspecção, exame eventual, alimentação e abeberamento dos animais, bem como para a armazenagem dos alimentos;\n\nd) Dispor, em função da capacidade de acolhimento, de ventilação e drenagem adequados à espécie de animais alojados;\n\ne) Dispor de iluminação natural ou artificial suficiente para permitir a inspecção de todos os animais em qualquer momento. Se for caso disso, deverá estar disponível uma iluminação de emergência;\n\nf) Dispor do equipamento necessário para prender os animais que o necessitem. Esta operação deve ser efectuada de modo a não causar dor ou sofrimento desnecessários aos animais e a permitir-lhes comer, beber e deitar-se sem dificuldades;\n\ng) Dispor, em função das espécies albergadas, de espaço suficiente para que os animais possam deitar-se ao mesmo tempo e alcançar sem dificuldade as instalações de abeberamento e de alimentação;\n\nh) Dispor de um abastecimento adequado de camas. Estas devem ser colocadas em cada recinto de acordo com as necessidades de cada espécie ou categoria de animais alojados;\n\ni) Ser construídas e mantidas de modo a evitar que os animais entrem em contacto com qualquer objecto contundente ou perigoso ou com uma superfície cortante que possa causar-lhes ferimentos.\n\n3. Os pontos de paragem devem ter instalações adequadas para alojar separadamente os animais doentes, feridos ou que necessitem de cuidados especiais.\n\n4. Os pontos de paragem devem ser dotados de instalações apropriadas para todas as pessoas que os frequentem e utilizem.\n\n5. Os pontos de paragem devem dispor dos dispositivos adequados para o armazenamento e a eliminação dos resíduos e para a armazenagem dos cadáveres enquanto se aguarda a sua remoção e destruição em conformidade com a Directiva 90/667/CEE (1).\n\nC. OPERAÇÃO\n\n1. Os animais devem ser descarregados o mais rapidamente possível após a sua chegada. Se no entanto for inevitável uma demora, convirá, tendo em conta particularmente as condições climáticas e os períodos de espera, garantir aos animais as melhores condições de bem-estar possíveis.\n\n2. Durante a carga e descarga, procurar-se-á não assustar, excitar ou maltratar os animais e garantir que não caiam. Os animais não devem ser içados nem arrastados pela cabeça, chifres, orelhas, patas, cauda ou velo, nem manipulados de um modo que lhes cause dor ou sofrimento desnecessários. Se for caso disso, devem ser conduzidos individualmente.\n\n3. No que se refere à deslocação de animais em todas as instalações:\n\na) Devem ser previstas passagens de modo a aproveitar as tendências gregárias dos animais;\n\nb) Os instrumentos destinados à condução dos animais devem ser utilizados apenas para esse efeito. Na medida do possível, deve evitar-se a utilização de aparelhos de descarga eléctrica, os quais poderão ser utilizados em bovinos e suínos adultos que recusem mover-se, desde que os choques não durem mais do que dois segundos, sejam convenientemente espaçados e os animais disponham do espaço para avançar. Esses choques só podem ser aplicados nos músculos dos quartos traseiros;\n\nc) Não se deve bater nos animais nem deve ser exercida qualquer pressão numa parte especialmente sensível do seu corpo. Em especial, não se deve esmagar, torcer ou partir as caudas dos animais, nem tocar-lhes nos olhos. Não se lhes deve dar murros nem pontapés;\n\nd) As pessoas que manipulem animais no ponto de paragem não podem possuir nem utilizar aguilhões ou outros instrumentos ponteagudos. Podem ser utilizados bastões ou outros instrumentos de condução, desde que não sejam susceptíveis de causar ferimentos ou sofrimento desnecessários quando em contacto com o corpo de um animal.\n\n4. Em caso de chegada de animais que tenham sido submetidos a temperaturas elevadas em condições de tempo húmido, devem ser refrescados o mais rapidamente possível através dos meios adequados,\n\n5. A alimentação e o abeberamento dos animais devem ser efectuados de modo a garantir que cada animal alojado no ponto de paragem possa dispor ao menos de uma quantidade suficiente de água limpa e de alimentos adequados para satisfazer as suas necessidades biológicas durante a sua estadia e durante o tempo previsto da sua viagem até ao próximo ponto onde será alimentado. Os pontos de paragem só podem acolher animais com necessidades alimentares especiais, como os vitelos jovens que necessitam de uma alimentação líquida, se dispuserem do equipamento e pessoal necessários para satisfazer as necessidades especiais dos referidos animais.\n\n6. A condição e o estado dos animais devem ser inspeccionados por um membro do pessoal do ponto de paragem aquando da sua chegada, e pelo menos uma vez de 12 em 12 horas durante a sua estadia no ponto de paragem.\n\n7. O registo a que se refere a alínea h) do artigo 5º da presente directiva deve incluir os seguintes dados:\n\na) Data e hora de conclusão da descarga e reinício da carga dos animais, para cada remessa;\n\nb) Data e duração do vazio sanitário previsto no ponto 4 da parte A do presente anexo;\n\nc) Número(s) do(s) certificado(s) sanitário(s) relativo(s) a cada remessa;\n\nd) Quaisquer observações consideradas úteis relativas à saúde ou ao bem-estar dos animais, e em particular:\n\n- características e número dos animais encontrados mortos no momento da descarga no ponto de paragem ou que morreram durante a sua estadia,\n\n- características e número dos animais encontrados gravemente feridos no momento da descarga, durante a sua permanência ou considerados inaptos para prosseguir viagem;\n\ne) Nomes e endereços do transportador e dos condutores e números de placas de matrícula dos veículos.\n\n(1) JO nº L 363 de 27. 12. 1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994."
+  },
+  "814f13616d8e1872": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho de 1997\n\nrelativo aos critérios comunitários exigidos nos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** e que adapta a guia de marcha prevista no anexo da Directiva 91/628/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE ([^1^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 2 do artigo 13.º e o artigo 14.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, a fim de melhorar o bem-estar de certas categorias de animais transportados, a Directiva 91/628/CEE estabelece exigências relativas aos períodos máximos de viagem, decorridos os quais os animais devem ser descarregados, alimentados e abeberados e ter um período de repouso de, pelo menos, 24 horas antes de retomarem viagem;\n\nConsiderando que essas interrupções obrigatórias dos transportes dos animais a longas distâncias serão efectuadas em [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**;\n\nConsiderando que é necessário estabelecer critérios aplicáveis em toda a Comunidade aos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**, de modo a dar aos animais que neles sejam alojados condições óptimas de bem-estar e, simultaneamente, ter em conta determinadas questões acessórias ligadas à saúde dos animais;\n\nConsiderando que, para facilitar o controlo do funcionamento dos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** e dos veículos e animais que aí passam, é necessário determinar a manutenção de certos registos e resolver certas questões administrativas;\n\nConsiderando que, para garantir que a viagem dos animais transportados prossiga nas melhores condições possíveis de bem-estar, convirá que a autoridade competente se certifique da aptidão dos animais para prosseguir viagem;\n\nConsiderando que, enquanto se aguarda a adopção de medidas relativas à cobrança de uma taxa comunitária pelas despesas incorridas com o controlo veterinário tendo em vista a certificação de que os animais estão aptos a prosseguir viagem, convirá precisar que os Estados-membros podem, no respeito pelas regras gerais do Tratado, determinar, que essas despesas ficam a cargo do operador em questão;\n\nConsiderando que, para garantir o respeito de determinadas regras aplicáveis aos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**, convirá adaptar a guia de marcha prevista no capítulo VIII do anexo da Directiva 91/628/CEE às novas disposições;\n\nConsiderando que, numa primeira fase, é importante adoptar as normas aplicáveis aos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** que acolhem solípedes domésticos e animais domésticos das espécies bovina, ovina, caprina e suína;\n\nConsiderando que o Comité científico veterinário recomendou, para os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**, determinados requisitos mínimos que foram tomados em consideração,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "da90cce0ffdefb5b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os postos de controlo são locais onde os animais devem repousar durante pelo menos 12 horas, nos termos do ponto 1.5 ou da alínea b) do ponto 1.7 do capítulo V do anexo I do Regulamento (CE) n.º 1/2005 ([^2^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#E0002))\n\n2. Os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** referidos no n.º 1 devem satisfazer os critérios comunitários estabelecidos no presente regulamento."
+  },
+  "f983c013b585ca05": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, são aplicáveis, na medida do necessário, as definições constantes do artigo 2.º das Directivas 64/432/CEE, 90/425/CEE, 91/496/CEE e 91/628/CEE."
+  },
+  "f6259d85b555ff9b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A autoridade competente deve aprovar e atribuir um número de aprovação a cada posto de controlo. Essa aprovação pode ser limitada a uma determinada espécie ou a determinadas categorias de animais e de estatutos sanitários. Os Estados-Membros devem notificar a Comissão da lista de postos de controlo aprovados, bem como das eventuais actualizações dessa lista.\n\nOs Estados-Membros devem também notificar a Comissão das regras de execução do n.º 2 do artigo 4.º, em especial do período de utilização como postos de controlo e da dupla utilização das instalações aprovadas.\n\n2. Nos termos do n.º 2 do artigo 31.º do Regulamento (CE) n.º 1/2005, a Comissão estabelecerá uma lista dos postos de controlo, sob proposta das autoridades competentes dos Estados-Membros.\n\n3. Os Estados-Membros só poderão propor postos de controlo para inclusão na lista depois de as autoridades competentes terem verificado que estes cumprem os devidos requisitos e os terem aprovado. Para efeitos dessa aprovação, a autoridade competente definida no n.º 6 do artigo 2.º da Directiva 90/425/CEE deve assegurar que os postos de controlo cumpram todos os requisitos constantes do anexo I do presente regulamento; além disso, os postos de controlo devem:\n\na) Estar situados numa zona que não esteja sujeita a proibições nem restrições nos termos da legislação comunitária pertinente;\n\nb) Estar sob controlo de um veterinário oficial que assegurará, *inter alia*, o cumprimento do disposto no presente regulamento;\n\nc) Funcionar de acordo com todas as normas comunitárias aplicáveis no que respeita à saúde animal, à circulação dos animais e à sua protecção aquando do abate;\n\nd) Ser sujeitos a inspecções periódicas, pelo menos bianualmente, para verificação de que continuam a ser preenchidos os requisitos da aprovação.\n\n4. Quando motivos graves, em especial de saúde ou de bem-estar dos animais, o exigirem, qualquer Estado-Membro deve suspender a utilização de um posto de controlo localizado no seu território e informar a Comissão e os outros Estados-Membros da referida suspensão e dos seus motivos. A suspensão da utilização do posto de controlo só pode ser anulada depois de a Comissão e os outros Estados-Membros terem sido informados dos respectivos motivos.\n\n5. Nos termos do n.º 2 do artigo 31.º do Regulamento (CE) n.º 1/2005, a Comissão pode suspender a utilização de um posto de controlo ou retirá-lo da lista se os controlos no local efectuados pelos seus peritos nos termos do artigo 28.º daquele regulamento revelarem qualquer incumprimento da legislação comunitária aplicável."
+  },
+  "45bca4f00adfe28e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** serão exclusivamente usados para receber, alimentar, abeberar, fazer repousar, alojar, cuidar e expedir os animais que neles transitam.\n\n2. No entanto, em derrogação do n.º 1, os Estados-Membros podem igualmente aprovar como [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** as instalações dos centros de agrupamento, definidos na alínea o) do artigo 2.º da Directiva 64/432/CEE e no ponto 3 da alínea b) do artigo 2.º da Directiva 91/68/CEE, desde que sejam conformes com as disposições pertinentes do n.º 3 do presente artigo e do ponto 4 da parte A do anexo I do presente regulamento durante todo o período em que funcionarem como [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**.\n\n3. Só podem estar presentes, no mesmo momento, num [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**, animais:\n\na) Com o mesmo estatuto sanitário certificado, incluindo, quando adequado, quaisquer garantias adicionais exigidas pela legislação comunitária; e\n\nb) Cujo estatuto sanitário tenha sido certificado:\n\ni) como estando em conformidade com as normas aplicáveis à categoria de animais da espécie em questão, de acordo com a legislação veterinária comunitária referida no anexo A da Directiva 90/425/CEE.\n\nii) no caso dos bovinos e porcinos destinados a serem exportados para um país terceiro em aplicação do n.º 1 do artigo 2.º da Decisão 93/444/CEE ([^3^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#E0003));\n\nc) Pertencentes à categoria de animais para a qual o [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** foi aprovado.\n\n4. A autoridade competente do local de partida deve comunicar qualquer circulação de animais que passe pelos postos de controlo através do sistema de intercâmbio de informações a que se refere o artigo 20.º da Directiva 90/425/CEE."
+  },
+  "253d30ce4b5f53ff": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO proprietário ou qualquer pessoa singular ou colectiva que explore um [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** é responsável pelo cumprimento das disposições pertinentes do presente regulamento, estando para o efeito obrigado a:\n\na) Admitir somente os animais certificados e identificados em conformidade com as legislações comunitárias pertinentes, em especial no que se refere às disposições referidas no n.º 3 do artigo 3.º Para tal, verifica ou providencia a verificação dos documentos sanitários ou outros documentos de acompanhamento específicos das espécies ou categorias em questão e, de forma aleatória, das marcas de identificação dos animais;\n\nc) Zelar por que os animais presentes nos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** sejam alimentados e abeberados em tempo oportuno atendendo à espécie em questão e dispor para o efeito das quantidades adequadas de alimentos e de líquidos para abeberamento;\n\nd) Cuidar dos animais presentes nos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** e, quando for necessário, tomar todas as disposições necessárias para garantir o respectivo bem-estar e o respeito pelos requisitos de saúde animal;\n\ne) Em caso de necessidade, recorrer a um veterinário para:\n\n— ministrar tratamento veterinário apropriado aos animais que adoeçam ou se firam enquanto estiverem sob a sua responsabilidade, e\n\n— se necessário, mandar proceder ao abate de urgência, à occisão ou à eutanásia do animal em causa, em conformidade com as disposições da Directiva 93/119/CE;\n\nf) Utilizar pessoal com as aptidões, as capacidades profissionais e os conhecimentos apropriados e que, para esse fim, disponha de formação específica adquirida quer na empresa, quer numa instituição de formação, ou possua experiência profissional equivalente que o habilite a procede à manipulação dos animais em causa, bem como a dispensar os cuidados apropriados aos referidos animais em caso de necessidade;\n\ng) Tomar as medidas necessárias para assegurar que todos os indivíduos que manipulam animais no [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** respeitem as disposições pertinentes em matéria de bem-estar dos animais;\n\nh) Comunicar à autoridade competente, até um dia útil após a saída de cada remessa, os dados a que se refere o ponto 7 da parte C do anexo I e inscrevê-los num registo ou numa base de dados, a conservar e a manter à disposição da autoridade competente durante, pelo menos, três anos;\n\ni) Assinalar o mais rapidamente à autoridade competente as anomalias verificadas."
+  },
+  "5d8e97d9330e4c0b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Antes de os animais deixarem o posto de controlo, o veterinário oficial, ou o veterinário designado para o efeito pela autoridade competente, confirmará no diário de viagem a que se refere o anexo II do Regulamento (CE) n.º 1/2005 que os animais estão aptos para prosseguir viagem. Os Estados-Membros podem determinar que as despesas decorrentes do controlo veterinário fiquem a cargo do operador em questão.\n\n2. As regras relativas ao intercâmbio de informações entre autoridades para efeitos do cumprimento dos requisitos do presente regulamento são fixadas nos termos do n.º 2 do artigo 31.º do Regulamento (CE) n.º 1/2005."
+  },
+  "7e4ed713cb45b1db": {
+   "fragment_id": "Artigo 6.º–A",
+   "type": "artigo",
+   "heading": "Artigo 6.º–A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º–A\n\nO presente regulamento será alterado pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão, em especial tendo em vista a sua adaptação ao progresso científico e tecnológico, excepto no que se refere às alterações do anexo que se revelem necessárias para a sua adaptação à situação zoossanitária serão aprovadas nos termos do n.º 2 do artigo 31.º do Regulamento (CE) n.º 1/2005."
+  },
+  "01df7c78aa9c0aff": {
+   "fragment_id": "Artigo 6.ºB",
+   "type": "artigo",
+   "heading": "Artigo 6.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.ºB\n\n[**►M2**](http://publications.europa.eu/resource/celex/32005R0001) Os Estados-Membros aplicarão o disposto no artigo 26.º do Regulamento (CE) n.º 1/2005 para punir quaisquer infracções às disposições do presente regulamento e tomarão todas as medidas necessárias para garantir a sua execução.**◄** Os Estados-Membros notificarão essas disposições à Comissão até 1 de Maio de 2004, bem como qualquer alteração posterior das mesmas no mais breve prazo possível."
+  },
+  "5495fb766c1c7f15": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "fdbc6c90010f289e": {
+   "fragment_id": "CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS POSTOS DE CONTROLO",
+   "type": "divisao",
+   "heading": "CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS POSTOS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS POSTOS DE CONTROLO"
+  },
+  "9534717b01f0a71c": {
+   "fragment_id": "A. MEDIDAS SANITÁRIAS E HIGIÉNICAS",
+   "type": "divisao",
+   "heading": "A. MEDIDAS SANITÁRIAS E HIGIÉNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. MEDIDAS SANITÁRIAS E HIGIÉNICAS\n\n1. Os postos de controlo devem:\n\na) Estar localizados e ser concebidos, construídos e utilizados de forma a assegurar uma biossegurança suficiente que impeça a propagação de doenças infecciosas graves a outras explorações e entre remessas consecutivas de animais que passem por essas instalações;\n\nb) Ser construídos, equipados e utilizados de forma a assegurar que possam ser levados a cabo os processos de limpeza e desinfecção, devendo existir um local próprio para a lavagem dos camiões; essas instalações devem poder funcionar em todas as condições meteorológicas;\n\nc) Ser limpos e desinfectados antes e após cada utilização, de acordo com as instruções do veterinário oficial.\n\n2. O pessoal e o equipamento que entrem em contacto com os animais devem estar exclusivamente afectos às instalações em questão, a menos que tenham sido sujeitos a um processo de limpeza e desinfecção depois de terem estado em contacto com os animais ou com as suas fezes ou urina. Em especial, o responsável pelo posto de controlo deve fornecer equipamento e vestuário de protecção limpos, que devem ficar reservados exclusivamente às pessoas que entrem no posto de controlo, e facultar os equipamentos apropriados para a limpeza e desinfecção dos mesmos.\n\n3. As camas dos animais devem ser removidas sempre que uma remessa de animais abandone o recinto e, após limpeza e desinfecção nos termos da alínea c) do ponto 1, ser substituídas por camas frescas.\n\n4. As camas, as fezes e a urina dos animais não devem ser recolhidas das instalações, a menos que tenham sido sujeitas a um tratamento adequado destinado a evitar a propagação de doenças animais.\n\n5. Devem ser observados períodos adequados de vazio sanitário entre duas remessas consecutivas de animais, devendo estes períodos, se necessário, ser adaptados consoante os animais provenham de uma região, zona ou compartimento semelhante. Em especial, os postos de controlo devem ser completamente evacuados de animais por um período de pelo menos 24 horas após, no máximo, 6 dias de utilização e após terem sido efectuadas as operações de limpeza e desinfecção e antes da chegada de uma nova remessa.\n\n6. Antes de aceitarem animais, os postos de controlo devem:\n\na) Ter iniciado as operações de limpeza e desinfecção, pelo menos, 24 horas após a saída de todos os animais que os ocupavam anteriormente, nos termos do n.º 3 do artigo 4.º do presente regulamento;\n\nb) Ter ficado livres de animais até que as operações de limpeza e desinfecção tenham sido concluídas a contento do veterinário oficial."
+  },
+  "14089b8fe5c554f2": {
+   "fragment_id": "B. CONSTRUÇÃO E INSTALAÇÕES",
+   "type": "divisao",
+   "heading": "B. CONSTRUÇÃO E INSTALAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. CONSTRUÇÃO E INSTALAÇÕES\n\n1. Para além das disposições aplicáveis aos meios de transporte no que se refere ao carregamento e descarregamento de animais, previstas nos capítulos II e III do anexo I do Regulamento (CE) n.º 1/2005, todos os postos de controlo devem dispor de instalações e equipamento adequados para carregar e descarregar os animais dos meios de transporte. Em especial, esses equipamento e instalações devem dispor de um revestimento do chão não escorregadio e, se necessário, de protecção lateral. As pontes, rampas e passadiços devem ter parapeitos, corrimões ou qualquer outro meio de protecção para evitar que os animais caiam. As rampas de carregamento e descarregamento devem ter a mínima inclinação possível. Os corredores devem dispor de revestimentos do chão que minimizem os riscos de escorregamento e estar concebidos de modo a minimizar os riscos de ferimentos para os animais. Há que providenciar em especial para que não haja qualquer fenda ou degrau entre o pavimento do veículo e a rampa ou entre a rampa e o pavimento da zona de descarregamento que obrigue os animais a saltar ou os possa levar a escorregar ou a tropeçar.\n\n2. Todas as instalações dos [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** utilizadas para alojar os animais devem: a) Ter revestimentos do chão que minimizem o risco de escorregamento e não causem ferimentos aos animais; b) Dispor de um telhado e de uma protecção lateral adequada para proteger os animais de condições meterológicas adversas; c) Dispor de instalações adequadas para a detenção, inspecção, exame eventual, alimentação e abeberamento dos animais, bem como para a armazenagem dos alimentos; d) Dispor, em função da capacidade de acolhimento, de ventilação e drenagem adequados à espécie de animais alojados; e) Dispor de iluminação natural ou artificial suficiente para permitir a inspecção de todos os animais em qualquer momento. Se for caso disso, deverá estar disponível uma iluminação de emergência; f) Dispor do equipamento necessário para prender os animais que o necessitem. Esta operação deve ser efectuada de modo a não causar dor ou sofrimento desnecessários aos animais e a permitir-lhes comer, beber e deitar-se sem dificuldades; g) Dispor, em função das espécies albergadas, de espaço suficiente para que os animais possam deitar-se ao mesmo tempo e alcançar sem dificuldade as instalações de abeberamento e de alimentação; h) Dispor de um abastecimento adequado de camas. Estas devem ser colocadas em cada recinto de acordo com as necessidades de cada espécie ou categoria de animais alojados; i) Ser construídas e mantidas de modo a evitar que os animais entrem em contacto com qualquer objecto contundente ou perigoso ou com uma superfície cortante que possa causar-lhes ferimentos.\n\n3. Os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** devem ter instalações adequadas para alojar separadamente os animais doentes, feridos ou que necessitem de cuidados especiais.\n\n4. Os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** devem ser dotados de instalações apropriadas para todas as pessoas que os frequentem e utilizem.\n\n5. Os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** devem dispor dos dispositivos adequados para o armazenamento e a eliminação dos resíduos e para a armazenagem dos cadáveres enquanto se aguarda a sua remoção e destruição em conformidade com a Directiva 90/667/CEE ([^4^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#E0004))."
+  },
+  "5bf0e6500c692666": {
+   "fragment_id": "C. OPERAÇÃO",
+   "type": "divisao",
+   "heading": "C. OPERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. OPERAÇÃO\n\n1. Os animais devem ser descarregados o mais rapidamente possível após a sua chegada. Se no entanto for inevitável uma demora, convirá, tendo em conta particularmente as condições climáticas e os períodos de espera, garantir aos animais as melhores condições de bem-estar possíveis.\n\n2. Durante a carga e descarga, procurar-se-á não assustar, excitar ou maltratar os animais e garantir que não caiam. Os animais não devem ser içados nem arrastados pela cabeça, chifres, orelhas, patas, cauda ou velo, nem manipulados de um modo que lhes cause dor ou sofrimento desnecessários. Se for caso disso, devem ser conduzidos individualmente.\n\n3. No que se refere à deslocaçao de animais em todas as instalações: a) Devem ser previstas passagens de modo a aproveitar as tendências gregárias dos animais; b) Os instrumentos destinados à condução dos animais devem ser utilizados apenas para esse efeito. Na medida do possível, deve evitar-se a utilização de aparelhos de descarga eléctrica, os quais poderão ser utilizados em bovinos e suínos adultos que recusem mover-se, desde que os choques não durem mais do que dois segundos, sejam convenientemente espaçados e os animais disponham do espaço para avançar. Esses choques só podem ser aplicados nos músculos dos quartos traseiros; c) Não se beve bater nos animais nem deve ser exercida qualquer pressão numa parte especialmente sensível do seu corpo. Em especial, não se deve esmagar, torcer ou partir as caudas dos animais, nem tocar-lhes nos olhos. Não se lhes deve dar murros nem pontapés; d) As pessoas que manipulem animais no [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** não podem possuir nem utilizar aguilhões ou outros instrumentos ponteagudos. Podem ser utilizados bastões ou outros instrumentos de condução, desde que não sejam susceptíveis de causar ferimentos ou sofrimento desnecessários quando em contacto com o corpo de um animal.\n\n4. Em caso de chegada de animais que tenham sido submetidos a temperaturas elevadas em condições de tempo húmido, devem ser refrescados o mais rapidamente possível através dos meios adequados,\n\n5. A alimentação e o abeberamento dos animais devem ser efectuados de modo a garantir que cada animal alojado no [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** possa dispor ao menos de uma quantidade suficiente de água limpa e de alimentos adequados para satisfazer as suas necessidades biológicas durante a sua estadia e durante o tempo previsto da sua viagem até ao próximo ponto onde será alimentado. Os [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** só podem acolher animais com necessidades alimentares especiais, como os vitelos jovens que necessitam de uma alimentação líquida, se dispuserem do equipamento e pessoal necessários para satisfazer as necessidades especiais dos referidos animais.\n\n6. A condição e o estado dos animais devem ser inspeccionados por um membro do pessoal do [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** aquando da sua chegada, e pelo menos uma vez de 12 em 12 horas durante a sua estadia no [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄**.\n\n7. O registo a que se refere a alínea h) do artigo 5.º da presente directiva deve incluir os seguintes dados: a) Data e hora de conclusão da descarga e reinício da carga dos animais, para cada remessa; b) Data e duração do vazio sanitário previsto no ponto 4 da parte A do presente anexo; c) Número(s) do(s) certificado(s) sanitário(s) relativo(s) a cada remessa; d) Quaisquer observações consideradas úteis relativas à saúde ou ao bem-estar dos animais, e em particular: — características e número dos animais encontrados mortos no momento da descarga no [**►M2**](http://publications.europa.eu/resource/celex/32005R0001) postos de controlo**◄** ou que morreram durante a sua estadia, — características e número dos animais encontrados gravemente feridos no momento da descarga, durante a sua permanência ou considerados inaptos para prosseguir viagem; e) Nomes e endereços do transportador e dos condutores e números de placas de matrícula dos veículos.\n\n---"
+  },
+  "4fddade09ded3435": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#src.E0001)) JO n.º L 340 de 11.12.1991, p. 17. Directiva com a última redacção que lhe foi dada pela Directiva 95/29/CE (JO n.º L 148 de 30.6.1995, p. 52).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#src.E0002)) JO L 3 de 5.1.2005.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#src.E0003)) JO L 208 de 19.8.1993, p. 34.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1#src.E0004)) JO n.º L 363 de 27.12.1990, p. 51. Directiva com à última redacção que lhe foi dada pelo Acto de Adesão de 1994."
+  }
+ }
+}

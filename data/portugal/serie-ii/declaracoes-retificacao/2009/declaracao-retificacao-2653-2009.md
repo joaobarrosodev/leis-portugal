@@ -1,0 +1,440 @@
+---
+schema_version: '1.0'
+id: pt:dre:2242375:por
+title: Declaração de Rectificação n.º 2653/2009
+short_title: null
+summary: Rectifica o aviso n.º 18 529-F/2009, publicado em suplemento do Diário da República, 2.ª série, n.º 203, de 20 de
+  Outubro de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministérios do Trabalho e da Solidariedade Social e da Educação - Agência Nacional para a Qualificação, I. P.
+proposing_entity: null
+official_number: 2653/2009
+official_date: null
+publication_date: '2009-10-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2009, Série II de 2009-10-29
+  number: '210'
+  series: II
+  supplement: null
+  pages: 44094 - 44095
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/10/210000000/4409444095.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2242375'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2653-2009-2242375
+  internal: pt:dre:2242375:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2653-2009-2242375
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2653-2009-2242375
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fadbcbcc31b8a836ce5036e510ab8cc146016e857853a967a37e862bb8b6ea7d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:170309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682837:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:08:15Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 2653/2009
+
+Para os devidos efeitos se declara que o aviso n.º 18 529-F/2009, de 20 de Outubro, que procede à abertura de um procedimento concursal comum destinado ao imediato recrutamento para ocupação de postos de trabalho da carreira e categoria de técnico superior previstos, e não ocupados, no mapa de pessoal da Agência Nacional para a Qualificação, I. P. (área funcional do Departamento Financeiro e de Organização), publicado em suplemento do Diário da República, 2.ª série, n.º 203, de 20 de Outubro de 2009, saiu com as seguintes incorrecções que assim se rectificam:
+
+No anexo ao aviso n.º 18 529-F/2009, de 20 de Outubro, onde se lê:
+
+«Site da Agência Nacional para a Qualificação (www.anq.gov.pt)
+
+Site do Catálogo Nacional de Qualificações (www.catalogo.anq.gov.pt)
+
+Site da Iniciativa Novas Oportunidades (www.novasoportunidades.gov.pt)
+
+[Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017) de 31 de Dezembro - regula o Sistema Nacional de Qualificações
+
+Brochura do Catálogo Nacional de Qualificações, Agência Nacional para a Qualificação (disponível no site da ANQ) Reforma da Formação Profissional - [Resolução do Conselho de Ministros n.º 173/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2007-629163) de 7 de Novembro
+
+Site da comissão europeia (http://ec.europa.eu)
+
+[Decreto-Lei n.º 276-C/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-c-2007-569550), de 31 de Julho - Orgânica da ANQ, I. P.;
+
+Portaria n.º 959/2007, de 21 de Agosto - Estatutos da ANQ, I. P.;
+
+[Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro - Orgânica do ME;
+
+[Decreto-Lei n.º 211/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639), de 27 de Outubro - Orgânica do MTSS;
+
+[Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro - Regime de Contrato de Trabalho em Funções Públicas;
+
+[Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro - Sistema Integrado de Avaliação do Desempenho;
+
+[Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro - Regime de Vinculação, Carreiras e Remunerações.
+
+[Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), 20/2 (Lei de Bases da Contabilidade Pública).
+
+[Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), 26/08, (Lei Orgânica do Tribunal de Contas + [Lei n.º 35/2007](https://diariodarepublica.pt/dr/detalhe/lei/35-2007-636951), de 13 /08 e Lei n.º
+
+48/2006, 29/08). Lei n.º 91/01, 20/8 (Lei de enquadramento orçamental) + lei Org.n.º 2/02, 28/08 da Assembleia da Republica + Lei n.º 23/03, 02/07 + Lei n.º 48/04, 24/08).
+
+Lei n.º 2/04, 15/01, (Estatuto do Pessoal Dirigente).
+
+Lei n.º 3/04, 15/01, (Lei quadro dos Institutos Públicos).
+
+Lei n.º 12-A/08, 27/02 (Regime de Vinculação de Carreiras e Remunerações).
+
+Lei n.º 59/08, 11/09 (Regime de Contrato de Trabalho em Funções Públicas).
+
+Lei n.º 64-A/08, 31/12 (Orçamento de Estado).
+
+[Decreto-Lei n.º 183/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1996-213805), 27/9 (Regras Plano e Relatório Anual de Actividades).
+
+[Decreto-Lei n.º 232/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1997-641123), 3/9 (POCP).
+
+[Decreto-Lei n.º 166/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1998-478249), 25/6 + DR 27/99, 12/11 (Sistema de Controlo Interno).
+
+[Decreto-Lei n.º 71/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1995-230110), 15/4 (Regras de alterações orçamentais).
+
+[Decreto-Lei n.º 171/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1994-305585), 24/6 (Classificações Funcionais).
+
+[Decreto-Lei n.º 191/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1999-310379), 5/6 (Tesouraria Única).
+
+Decreto-Lei n.º 280/07, 7/8 (Regime do Património Imobiliário).
+
+[Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), (Regime da Administração Financeira do Estado).
+
+[Decreto-Lei n.º 232/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1997-641123), 03/09 (Plano Oficial de Contabilidade Pública).
+
+[Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), 28/07 (Regime financeiro dos serviços e organismos da Administração Pública).
+
+[Decreto-Lei n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2002-284358), 14/02 (Classificação económica das receitas e despesas públicas).
+
+Decreto-Lei n.º 259/08, 18/08 (Regime de Horário de Trabalho na Administração Pública).
+
+Decreto-Lei n.º 158/09, 13/07 (Modelo de Normalização Contabilística).
+
+[Decreto-Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1999-170309), 12/02 (Sistema de Inventário Permanente + Decreto-Lei n.º 79/03, 24/04).
+
+[Decreto-Lei n.º 381/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1989-549430), 11/09 (Normas aplicáveis aos motoristas da Administração Pública e de institutos públicos).
+
+Decretos-Lei de Execução Orçamental.
+
+Portaria 671/2000, (Cadastro e Inventário dos Bens do Estado/CIBE).
+
+Portaria n.º 609/09, 5/6 (Registo de Trabalho Extraordinário).
+
+Resolução n.º 1/2004, (Documentos de prestação de contas para a Administração Central definidos pelo Tribunal de Contas).
+
+Normas interpretativas e Avisos relacionados com o tema:
+
+A Lei de Enquadramento Orçamental - Anotada e Comentada. Guilherme Waldemar d'Oliveira Martins, Maria d'Oliveira Martins, Guilherme d'Oliveira Martins; Editor: Livraria Almedina, 2007.
+
+Análise Financeira - métodos e técnicas. CARVALHO das NEVES; J, Texto Editora.
+
+Contabilidade de Gestão. CAIADO, António; Lisboa: Vislis Editores, 1997.
+
+Contabilidade Pública. Casos práticos. CAIADO, António; Lisboa: Áreas Editores, 2007.
+
+Da Racionalidade das Decisões Orçamentais à Racionalidade Económica. CABRAL, Nazaré da Costa; Editor: Livraria Almedina, 2008.
+
+Finanças Públicas - Gestão e Controlo dos Dinheiros Públicos. MORENO, Carlos; 2.ª Edição, Universidade Autónoma de Lisboa, Lisboa, 2000.
+
+Gestão das Organizações Públicas e Controlo do Imobilizado. FRADE, Carlos Manuel; Áreas Editora, 2003.
+
+Gestão e controlo de dinheiros públicos. MORENO, Carlos; Lisboa. Universidade Autónoma, 1998.
+
+Gestão Financeira da Administração Pública Central. SILVA, António M. Barbosa da; Áreas Editora, Lisboa, 2002.
+
+Gestão Orçamental Pública. PINTO, A. Calado e Santos, P. Gomes; Publisher Team, Lisboa, 2005.
+
+Gestão Orçamental - Exames Resolvidos e Exercícios Propostos. 1.ª Edição, Lisboa: Rei dos Livros
+
+IVA - Imposto sobre o Valor Acrescentado - Anotado e Comentado. LIMA, Emanuel Vidal; Porto Editora, 2003.
+
+Manual da Classificação Orçamental das Despesas Públicas. MONTEIRO, José Augusto; DGAP.
+
+Manual do Plano Oficial de Contabilidade Pública. CAIADO, António C. Pires e CORREIA, Ana Calado; Áreas Editora, Lisboa, 2002.
+
+O apuramento dos custos e a informação de apoio à decisão. FRANCO, V.,OLIVEIRA,A., MORAIS,A.,OLIVEIRA,B., LOURENÇO,I.,JESUS, M.A., MAJOR, M. J. e SERRASQUEIRO, R.; Publisher Team, Lisboa, 2005.
+
+Orçamento anual e instrumentos de avaliação do desempenho organizacional. FRANCO, V., OLIVEIRA, A., MORAIS, A., OLIVEIRA, B., JESUS, M.A., MAJOR, M.J. e SERRASQUEIRO, R.; Publisher Team: Lisboa, 2006.»
+
+deve ler-se:
+
+«Site da Agência Nacional para a Qualificação (www.anq.gov.pt).
+
+Site do Catálogo Nacional de Qualificações (www.catalogo.anq.gov.pt).
+
+Site da Iniciativa Novas Oportunidades (www.novasoportunidades.gov.pt).
+
+[Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de Dezembro - regula o Sistema Nacional de Qualificações.
+
+Brochura do Catálogo Nacional de Qualificações, Agência Nacional para a Qualificação (disponível no site da ANQ).
+
+Reforma da Formação Profissional - [Resolução do Conselho de Ministros n.º 173/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2007-629163), de 7 de Novembro.
+
+Site da comissão europeia (http://ec.europa.eu).
+
+[Decreto-Lei n.º 276-C/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-c-2007-569550), de 31 de Julho - Orgânica da ANQ, I. P.
+
+Portaria n.º 959/2007, de 21 de Agosto - Estatutos da ANQ, I. P.
+
+[Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro - Orgânica do ME.
+
+[Decreto-Lei n.º 211/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639), de 27 de Outubro - Orgânica do MTSS.
+
+[Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro (Lei de Bases da Contabilidade Pública).
+
+[Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto (Lei Orgânica do Tribunal de Contas + [Lei n.º 35/2007](https://diariodarepublica.pt/dr/detalhe/lei/35-2007-636951), de 13 de Agosto, e [Lei n.º 48/2006](https://diariodarepublica.pt/dr/detalhe/lei/48-2006-540821), de 29 de Agosto).
+
+[Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91-2001-516051), de 20 de Agosto (Lei de enquadramento orçamental) + Lei orgânica n.º 2/2002, de 28 de Agosto, da Assembleia da República + [Lei n.º 23/2003](https://diariodarepublica.pt/dr/detalhe/lei/23-2003-667122), de 2 de Julho + [Lei n.º 48/2004](https://diariodarepublica.pt/dr/detalhe/lei/48-2004-479597), de 24 de Agosto).
+
+[Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro (Estatuto do Pessoal Dirigente).
+
+[Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro (lei quadro dos Institutos Públicos).
+
+[Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro (Orçamento de Estado).
+
+[Decreto-Lei n.º 183/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1996-213805), de 27 de Setembro (Regras Plano e Relatório Anual de Actividades).
+
+[Decreto-Lei n.º 232/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1997-641123), de 3 de Setembro (POCP).
+
+[Decreto-Lei n.º 166/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1998-478249), de 25 de Junho + [Decreto Regulamentar n.º 27/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1999-682837), de 12 de Novembro (Sistema de Controlo Interno).
+
+[Decreto-Lei n.º 71/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1995-230110), de 15 de Abril (regras de alterações orçamentais).
+
+[Decreto-Lei n.º 171/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1994-305585), de 24 de Junho (classificações funcionais).
+
+[Decreto-Lei n.º 191/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1999-310379), de 5 de Junho (Tesouraria Única).
+
+[Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de Agosto (Regime do Património Imobiliário).
+
+[Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho (Regime da Administração Financeira do Estado).
+
+[Decreto-Lei n.º 232/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1997-641123), de 3 de Setembro (Plano Oficial de Contabilidade Pública).
+
+[Decreto-Lei n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2002-284358), de 14 de Fevereiro (classificação económica das receitas e despesas públicas).
+
+Decreto-Lei n.º 259/2008, de 18 de Agosto (Regime de Horário de Trabalho na Administração Pública).
+
+Decreto-Lei n.º 158/09, de 13 de Julho (Modelo de Normalização Contabilística).
+
+[Decreto-Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1999-170309), de 12 de Fevereiro (Sistema de Inventário Permanente + [Decreto-Lei n.º 79/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2003-239795), 24 de Abril).
+
+[Decreto-Lei n.º 381/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1989-549430), de 11 de Setembro (normas aplicáveis aos motoristas da Administração Pública e de institutos públicos).
+
+Decretos-Lei de Execução Orçamental.
+
+[Portaria n.º 671/2000](https://diariodarepublica.pt/dr/detalhe/portaria/671-2000-328400) (Cadastro e Inventário dos Bens do Estado/CIBE).
+
+Portaria n.º 609/09, de 5/ de Junho (Registo de Trabalho Extraordinário).
+
+Resolução n.º 1/2004 (documentos de prestação de contas para a administração central definidos pelo Tribunal de Contas).
+
+Normas interpretativas e avisos relacionados com o tema:
+
+A Lei de Enquadramento Orçamental - Anotada e Comentada. Guilherme Waldemar d'Oliveira Martins, Maria d'Oliveira Martins, Guilherme d'Oliveira Martins; editor: Livraria Almedina, 2007.
+
+Análise Financeira - Métodos e técnicas. Carvalho das Neves; J. Texto Editora.
+
+Contabilidade de Gestão. Caiado, António; Lisboa: Vislis Editores, 1997.
+
+Contabilidade Pública. Casos práticos. Caiado, António; Lisboa: Áreas Editores, 2007.
+
+Da Racionalidade das Decisões Orçamentais à Racionalidade Económica. Cabral, Nazaré da Costa; editor: Livraria Almedina, 2008.
+
+Finanças Públicas - Gestão e Controlo dos Dinheiros Públicos. Moreno, Carlos; 2.ª edição, Universidade Autónoma de Lisboa, Lisboa, 2000.
+
+Gestão das Organizações Públicas e Controlo do Imobilizado. Frade, Carlos Manuel; Áreas Editora, 2003.
+
+Gestão e controlo de dinheiros públicos. Moreno, Carlos; Lisboa. Universidade Autónoma, 1998.
+
+Gestão Financeira da Administração Pública Central. Silva, António M. Barbosa da; Áreas Editora, Lisboa, 2002.
+
+Gestão Orçamental Pública. Pinto, A. Calado e Santos, P. Gomes; Publisher Team, Lisboa, 2005.
+
+Gestão Orçamental - Exames Resolvidos e Exercícios Propostos. 1.ª edição, Lisboa: Rei dos Livros.
+
+IVA - Imposto sobre o Valor Acrescentado - Anotado e Comentado. Lima, Emanuel Vidal; Porto Editora, 2003.
+
+Manual da Classificação Orçamental das Despesas Públicas. Monteiro, José Augusto; DGAP.
+
+Manual do Plano Oficial de Contabilidade Pública. Caiado, António C. Pires e Correia, Ana Calado; Áreas Editora, Lisboa, 2002.
+
+O apuramento dos custos e a informação de apoio à decisão. Franco, V., Oliveira, A., Morais, A., Oliveira, B., Lourenço, I., Jesus, M. A., Major, M. J. e Serrasqueiro, R.; Publisher Team, Lisboa, 2005.
+
+Orçamento anual e instrumentos de avaliação do desempenho organizacional. Franco, V., Oliveira, A., Morais, A., Oliveira, B., Jesus, M. A., Major, M. J. e Serrasqueiro, R.; Publisher Team: Lisboa, 2006.»
+
+22 de Outubro de 2009. - O Presidente, Luís Capucha.
+
+202483885

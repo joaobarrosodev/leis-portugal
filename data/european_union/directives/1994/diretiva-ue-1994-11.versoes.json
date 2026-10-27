@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0011:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0011-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1994-04-19",
+   "future": false,
+   "celex": "31994L0011",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3f8f0d819cd30d66",
+    "e4853faf9648c004",
+    "1a6260ee0544bf59",
+    "8582df70b18fe7e3",
+    "ff309265d7c0463d",
+    "168f6215a7ca764c",
+    "7ea2bca00a07779f",
+    "5a950509f5ddb635",
+    "d6440f17ae8dfa9a",
+    "0a0bd5364ecbe45c"
+   ]
+  }
+ ],
+ "fragments": {
+  "3f8f0d819cd30d66": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/11/CE do Parlamento Europeu e do Conselho, de 23 de Março de 1994, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à rotulagem dos materiais utilizados nos componentes principais dos artigos de calçado para venda ao consumidor** *Jornal Oficial nº L 100 de 19/04/1994 p. 0037 - 0041 Edição especial finlandesa: Capítulo 13 Fascículo 26 p. 0039 Edição especial sueca: Capítulo 13 Fascículo 26 p. 0039*\n\nDIRECTIVA 94/11/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Março de 1994 relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à rotulagem dos materiais utilizados nos componentes principais dos artigos de calçado para venda ao consumidor\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado,\n\nConsiderando que em alguns Estados-membros foi aprovada regulamentação para a rotulagem dos artigos de calçado com o objectivo de proteger e informar o público e de garantir os legítimos interesses da indústria;\n\nConsiderando que as disparidades existentes nessa regulamentação podem criar entraves ao comércio na Comunidade, prejudicando, pois, o funcionamento do mercado interno;\n\nConsiderando que, para evitar os problemas resultantes da coexistência de sistemas diferentes, é necessário especificar os elementos que devem integrar um sistema comum de rotulagem dos artigos de calçado;\n\nConsiderando que a resolução do Conselho, de 9 de Novembro de 1989, sobre as futuras prioridades para o relançamento da política de defesa dos consumidores (3), preconiza a melhoria da informação do consumidor relativamente aos produtos;\n\nConsiderando que a introdução de um sistema que reduza o risco de fraudes, através da indicação rigorosa dos materiais utilizados nos principais componentes dos artigos de calçado, serve os interesses dos consumidores e da indústria do calçado;\n\nConsiderando que na resolução do Conselho, de 5 de Abril de 1993, relativa às futuras medidas em matéria de rotulagem dos produtos no interesse do consumidor (4), se considera a rotulagem um meio importante para se conseguir uma melhor informação e transparência para o consumidor e para garantir o funcionamento harmonioso do mercado interno;\n\nConsiderando que a harmonização das legislações nacionais constitui o meio adequado para suprimir esses entraves à liberdade de comércio; que este objectivo não pode ser alcançado satisfatoriamente pelos Estados-membros a título individual; que a presente directiva se limita a estabelecer os requisitos indispensáveis à livre circulação dos produtos aos quais se aplica,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "e4853faf9648c004": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva é aplicável à rotulagem dos materiais utilizados nos componentes principais dos artigos de calçado para venda ao consumidor.\n\nPara efeitos do disposto na presente directiva, entende-se por «artigos de calçado»: os produtos com solas aplicadas, destinados a proteger ou a cobrir o pé, incluindo as partes comercializadas separadamente objecto do anexo I.\n\nO anexo II contém uma lista não exaustiva dos produtos abrangidos pela presente directiva.\n\nNão são abrangidos pela presente directiva:\n\n- os sapatos em segunda mão,\n\n- os sapatos protectores, abrangidos pela Directiva 89/686/CEE (5),\n\n- os artigos de calçado abrangidos pela Directiva 76/769/CEE (6),\n\n- os sapatos de brinquedo.\n\n2. A rotulagem deve incluir informações relativas à composição dos artigos de calçado, em conformidade com o disposto no artigo 4º i) A rotulagem deve conter informações relativas às três partes do artigo de calçado, conforme definidas no anexo I, ou seja:\n\na) parte superior (corte),\n\nb) forro de gáspea e palmilha de acabamento e c) sola.\n\nii) A composição do artigo de calçado deve ser indicada de acordo com o disposto no artigo 4º e por meio quer de pictogramas quer de textos indicando os materiais específicos em conformidade com o anexo I.\n\niii) Para a determinação dos materiais da parte superior nos termos do disposto no nº 1 do artigo 4º e no anexo I, são irrelevantes os acessórios ou reforços, tais como orlas, protectores de tornozelos, adornos, fivelas, presilhas, ilhoses ou dispositivos semelhantes.\n\niv) Quanto à sola, a classificação é baseada no volume dos materiais que a constituem, em conformidade com o disposto no artigo 4º"
+  },
+  "1a6260ee0544bf59": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar que só sejam colocados no mercado os artigos de calçado que satisfaçam os requisitos de rotulagem estabelecidos na presente directiva, sem prejuízo de outras disposições comunitárias aplicáveis.\n\n2. Se forem colocados no mercado artigos de calçado que não estejam em conformidade com as disposições relativas aos requisitos de rotulagem, o Estado-membro em questão deve tomar as medidas adequadas previstas na respectiva legislação nacional."
+  },
+  "8582df70b18fe7e3": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nSem prejuízo de outras disposições comunitárias aplicáveis, os Estados-membros não podem proibir ou dificultar a colocação no mercado de artigos de calçado que respeitem os requisitos de rotulagem da presente directiva mediante a aplicação de disposições nacionais não harmonizadas no domínio da rotulagem de certos artigos de calçado ou dos artigos de calçado em geral."
+  },
+  "ff309265d7c0463d": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A rotulagem deve conter informações sobre o material que, determinado em conformidade com o anexo I, represente, pelo menos, 80 % da área da parte superior, do forro da gáspea e palmilha de acabamento do artigo de calçado, e pelo menos, 80 % do volume da sola. Se nenhum material representar pelo menos 80 %, devem ser fornecidas informações sobre os dois principais materiais que entram na composição do artigo de calçado.\n\n2. Estas informações devem ser apostas no próprio artigo de calçado. O fabricante, ou o seu mandatário estabelecido na Comunidade, pode optar, quer por pictogramas quer, pelo menos, por indicações escritas na ou nas línguas que podem ser escolhidas pelo Estado-membro de consumo, de acordo com o Tratado, os quais são definidos e ilustrados no anexo I. Os Estados-membros deverão acautelar, nas respectivas legislações nacionais, que os consumidores sejam devidamente informados acerca do significado desses pictogramas, zelando por que essas disposições não criem entraves às trocas.\n\n3. Na acepção da presente directiva, a rotulagem consiste em munir das informações prescritas pelo menos uma das peças de calçado em cada par. Pode ser feita através de impressão, colagem, gofragem ou por meio de suporte preso ao calçado.\n\n4. A rotulagem deve ser visível, bem presa e acessível e as dimensões dos pictogramas suficientemente grandes para facilitar a compreensão das informações contidas. O rótulo não deve poder induzir o consumidor em erro.\n\n5. O fabricante, ou o seu mandatário estabelecido na Comunidade, é obrigado a fornecer o rótulo e é responsável pela exactidão das informações nele contidas. Se nem o fabricante nem o seu mandatário estiverem estabelecidos na Comunidade, esta obrigação cabe à pessoa responsável pela primeira colocação no mercado na Comunidade. Cabe ao retalhista a responsabilidade de assegurar que o calçado que vende esteja dotado dos rótulos adequados exigidos pela presente directiva."
+  },
+  "168f6215a7ca764c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nAs informações exigidas por força da presente directiva poderão ser acompanhadas de informações escritas complementares, eventualmente apostas na etiqueta. Todavia, em conformidade com o disposto no artigo 3º, os Estados-membros não podem proibir ou dificultar a comercialização dos artigos de calçado que respondam às exigências da presente directiva."
+  },
+  "7ea2bca00a07779f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 23 de Setembro de 1995. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros aplicarão as disposições a que se refere o nº 1 a partir de 23 de Março de 1996. Às mercadorias em armazém facturadas ou entregues ao retalhista antes desta data não são aplicáveis as referidas disposições até 23 de Setembro de 1997.\n\n3. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n4. A Comissão submeterá à apreciação do Conselho, três anos após a aplicação da presente directiva, um relatório de avaliação que tenha em conta as dificuldades eventuais com que depararam os operadores na aplicação das disposições da presente directiva e apresentará eventualmente propostas de revisão adequadas."
+  },
+  "5a950509f5ddb635": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Março de 1994.\n\nPelo Parlamento Europeu O Presidente E. KLEPSCH Pelo Conselho O Presidente Th. PANGALOS\n\n(1) JO nº C 74 de 25. 3. 1992, p. 10.\n\n(2) JO nº C 287 de 4. 11. 1992, p. 36.\n\n(3) JO nº C 294 de 22. 11. 1989, p. 1.\n\n(4) JO nº C 110 de 20. 4. 1993, p. 3.\n\n(5) JO nº L 399 de 30. 12. 1989, p. 18.\n\n(6) JO nº L 262 de 27. 9. 1976, p. 201."
+  },
+  "d6440f17ae8dfa9a": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. Definição das partes do artigo de calçado a identificar e pictogramas ou indicações escritas correspondentes\n\nPictograma Indicação escrita a) Parte superior (corte) É a face exterior do elemento estrutural ligado à sola.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nF Tige D Obermaterial IT Tomaia NL Bovendeel EN Upper DK Overdel GR AAÐÁÍÙ ÌAAÑÏÓ ES Empeine P Parte superior b) Forro do gáspea e palmilha de acabamento É o forro da parte superior e da palmilha, que constituem o interior do artigo de calçado.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nF Doublure et semelle de propreté D Futter und Decksohle IT Fodera e Sottopiede NL Voering en inlegzool EN Lining and sock DK Foring og bindsaal GR OEÏAEÑAAÓ ES Forro y plantilla P Forro e palmilha c) Sola É face inferior do artigo de calçado sujeita a desgaste por atrito e ligada à parte superior.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nF Semelle estérieure D Laufsohle IT Suola esterna NL Buitenzool EN Sole DK Ydersaal GR ÓÏËÁ ES Suela P Sola\n\n2. Definição dos materiais e pictogramas correspondentes\n\nOs pictogramas referentes aos materiais devem ser apostos, na etiqueta, junto dos pictogramas respeitantes às três partes do artigo de calçado referidas no artigo 4º e na parte 1 deste anexo.\n\nPictograma Indicação textual a) i) Couros e peles curtidas (curtidos) Termo genérico aplicável a peles que conservam a respectiva estrutura fibrosa original mais ou menos intacta, mas que foram curtidas para se tornarem imputrescíveis. O pelo ou a lã podem ou não ter sido eliminados. Consideram-se também «curtidos» as peles que foram divididas (serradas) em camadas ou segmentos, quer a divisão tenha ocorrido antes quer após o curtimento. Mas se a pele curtida tiver sido desintegrada mecânica e/ou quimicamente em partículas fibrosas, pequenas partículas ou pó e sido de seguida reconstituída, após combinação ou não com um agente ligante, em folhas ou outras formas, o produto final obtido não pode ser nessas circunstâncias denominado «couro» ou «pele curtida». Se o couro ou a pele curtida tiverem uma superfície de revestimento ou uma superfície contracolada, estas camadas superficiais não devem ter espressura superior a 0,15 mm, qualquer que tenha sido o modo da sua aplicação à pele. Estão assim abrangidos todos os couros sem prejuízo de outras obrigações legais como, por exemplo, a Convenção de Washington.\n\nNo caso de se utilizar a referência «couro de flor integral» nas informações escritas suplementares e facultativas referidas no artigo 5º, essa referência aplicar-se-á a uma pele que comporte a sua flor de origem tal como esta se apresenta quando a epiderme foi retirada e sem que tenha sido retirada qualquer película por polimento, desfloramento ou fendimento.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nF Cuir D Leder IT Cuoio NL Leder EN Leather DK Laeder GR AEAAÑÌÁ ES Cuero P Couros e peles curtidas Pictograma Indicação textual a) ii) Couro revestido Couro em que a espessura da superfície de revestimento ou de contracolagem não excede um terço da espessura total do produto, sendo no entanto superior a 0,15 mm.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nF Cuir enduit D Beschichtetes Leder IT Cuoio rivestito NL Gecoat leder EN Coated leather DK Overtrukket laeder GR AAÐAAÍAEAAAEÕÌAAÍÏ AEAAÑÌÁ ES Cuero untado P Couro revestido b) Têxteis naturais e têxteis sintéticos ou não tecidos Entende-se por «têxteis» todos os produtos abrangidos pela Directiva 71/307/CEE, tendo em conta todas as suas alterações.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nF Textile D Textil IT Tessili NL Textiel EN Textile DK Tekstilmaterialer GR ÕOEÁÓÌÁ ES Textil P Têxteis c) Todos os outros materiais >REFERÊNCIA A UM GRÁFICO>\n\nF Autres matériaux D Sonstiges Material IT Altre materie NL Overige materialen EN Other materials DK Andre materialer GR ÁËËÁ ÕËÉÊÁ ES Otros materiales P Outros materiais"
+  },
+  "0a0bd5364ecbe45c": {
+   "fragment_id": "ANEXO II — EXEMPLOS DE ARTIGOS DE CALÇADO ABRANGIDOS PELA DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO II — EXEMPLOS DE ARTIGOS DE CALÇADO ABRANGIDOS PELA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — EXEMPLOS DE ARTIGOS DE CALÇADO ABRANGIDOS PELA DIRECTIVA\n\nOs «artigos de calçado» podem incluir desde as sandálias cuja parte superior consista simplesmente em cordões ou tiras ajustáveis às botas de mosqueteiro cujo cano cobre a perna e a coxa. Entre os produtos incluídos contam-se, portanto:\n\ni) Sapatos de entrada baixa, de tipo corrente, rasos, de meio tacão ou de salto alto, de interior ou de exterior;\n\nii) Botins, meias botas, botas de cano alto e botas de mosqueteiro;\n\niii) Sandálias de tipos diversos, alpercatas (sapatos com a parte superior em lona e solas de matérias vegetais entrançadas); sapatos de ténis, sapatos para corrida pedestre e outros desportos; sapatos para banho e outro calçado de lazer;\n\niv) Calçado especial de desporto que disponha, ou possa dispor, de pitões, pregos, batentes, presilhas, barras ou dispositivos afins, bem como as botas de patinagem, botas de esqui e calçado para esqui de fundo, botas para luta, botas para pugilismo e sapatos para ciclismo. Inclui-se igualmente o calçado fixado em patins de rodas ou para gelo;\n\nv) Sapatilhas de dança;\n\nvi) Sapatos obtidos de uma peça única, nomeadamente por moldagem de borracha ou plásticos, com exclusão dos artigos descartáveis de material pouco consistente (papel, películas de material plástico, etc., sem solas aplicadas);\n\nvii) Galochas para usar com outro calçado e que, em alguns casos, não dispõem de tacões;\n\nviii) Calçado descartável, com solas aplicadas, geralmente destinado a ser utilizado uma única vez;\n\nix) Calçado ortopédico.\n\nPor uma questão de homogeneidade e de clareza, e sob reserva das disposições mencionadas na descrição dos produtos abrangidos pela presente directiva, poder-se-ão considerar, em geral, incluídos no âmbito de aplicação da presente directiva os produtos previstos no capítulo 64 da Nomenclatura Combinada (NC)."
+  }
+ }
+}

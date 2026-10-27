@@ -1,0 +1,2222 @@
+---
+schema_version: '1.0'
+id: pt:dre:592339:por
+title: Decreto-Lei n.º 26/2004
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 49/2003, de 22 de Agosto, aprova o Estatuto do Notariado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 26/2004
+official_date: null
+publication_date: '2004-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2004, Série I-A de 2004-02-04
+  number: '29'
+  series: I
+  supplement: null
+  pages: 568 - 587
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/02/029a00/05680587.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-03-01'
+version_history:
+  file: decreto-lei-26-2004.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-03'
+    amending: pt:dre:565249:por
+    amending_title: Lei n.º 51/2004
+    changes:
+    - Altera Artigo 40.º
+  - date: '2011-01-30'
+    amending: pt:dre:280947:por
+    amending_title: Decreto-Lei n.º 15/2011
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Capítulo VI
+    - Adita Artigo 40.º-A
+    - Adita Artigo 40.º-B
+    - Adita Artigo 40.º-C
+    - Adita Artigo 40.º-D
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Capítulo VI
+    - Altera Artigo 45.º
+    - Altera Capítulo VII
+    - Altera Capítulo VIII
+    - Altera Capítulo IX
+    - Altera Capítulo X
+  - date: '2015-10-15'
+    amending: pt:dre:70297420:por
+    amending_title: Lei n.º 155/2015
+    changes:
+    - Adita Artigo 27.º-A
+    - Adita Artigo 27.º-B
+    - Adita Artigo 27.º-C
+    - Adita Artigo 28.º-A
+    - Adita Artigo 84.º-A
+    - Adita Artigo 130.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+    - Altera Artigo 40.º
+    - Altera Artigo 40.º-A
+    - Altera Artigo 40.º-D
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 48.º
+    - Altera Artigo 51.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Secção II
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Secção III
+  - date: '2024-03-01'
+    amending: pt:dre:225397115:por
+    amending_title: Lei n.º 69/2023
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 30.º-A
+    - Adita Artigo 40.º-E
+    - Adita Artigo 121.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 27.º-B
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Secção III
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 40.º-A
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 47.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 65.º
+    - Altera Artigo 67.º
+    - Altera Artigo 70.º
+    - Altera Artigo 75.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/26/2004/p/cons/20231207/pt/html
+  oj: null
+  dre: '592339'
+  dre_path: /dr/detalhe/decreto-lei/26-2004-592339
+  internal: pt:dre:592339:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339
+  metadata_url: https://data.dre.pt/eli/dec-lei/26/2004/p/cons/20231207/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-186141213
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-186141213
+  retrieved_at: '2026-10-22T12:51:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 39efa1274dfac50f1f697f07346ce5ce340fd83de89649d032e98eaafb9d503a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:51:37Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-26-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bastonário
+- Cartório Notarial
+- Formação Profissional
+- Concurso
+- Conselho do Notariado
+- Definição de Competências
+- Diretor Geral
+- Cessação de Actividade
+- Infracção Disciplinar
+- Estatuto do Notariado
+- Registos e Notariado
+- FE Pública
+- Fiscalização
+- Ministro da Justiça
+- Horário de Funcionamento
+- Notário
+- Numerus Clausus
+- Oficial dos Registos e do Notariado
+- Ordem dos Notários
+- Privatização
+- Profissão Independente
+- Estágio de Formação
+- Quadro de Pessoal
+- Segurança Social
+- Substituição de Funções
+relationships:
+- type: amended_by
+  target: pt:dre:565249:por
+  label: Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/51-2004-565249
+  date: '2004-10-29'
+- type: amended_by
+  target: pt:dre:280947:por
+  label: Adita Artigo 1.º-A; Adita Capítulo VI; Adita Artigo 40.º-A; Adita Artigo 40.º-B; Adita Artigo 40.º-C; Adita Artigo
+    40.º-D; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo
+    27.º; Altera Capítulo VI; Altera Artigo 45.º; Altera Capítulo VII; Altera Capítulo VIII; Altera Capítulo IX; Altera Capítulo
+    X
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947
+  date: '2011-01-25'
+- type: amended_by
+  target: pt:dre:70297420:por
+  label: Adita Artigo 27.º-A; Adita Artigo 27.º-B; Adita Artigo 27.º-C; Adita Artigo 28.º-A; Adita Artigo 84.º-A; Adita Artigo
+    130.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 16.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 30.º;
+    Altera Artigo 35.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420
+  date: '2015-09-15'
+- type: amended_by
+  target: pt:dre:225397115:por
+  label: Adita Artigo 7.º-A; Adita Artigo 30.º-A; Adita Artigo 40.º-E; Adita Artigo 121.º-A; Altera Artigo 4.º; Altera Artigo
+    8.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo
+    27.º-B; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Secção III; Altera Artigo 31.º; Altera Artigo
+    32.º; Altera Artigo 33.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115
+  date: '2023-12-07'
+- type: cites
+  target: celex:32014R0910
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229304:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/361/1998/11/18/p/dre
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:656094:por
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2003/08/22/p/dre
+- type: transposes
+  target: celex:32005L0036
+  label: null
+  source: null
+- type: transposes
+  target: celex:32006L0100
+  label: null
+  source: null
+article_structure:
+  article_count: 144
+  section_count: 35
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:51:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26/2004
+
+Decreto-Lei n.º 26/2004
+
+de 4 de Fevereiro
+
+Consta do Programa do XV Governo Constitucional um plano alargado de reformas estruturais a levar a cabo na Administração Pública Portuguesa, com o propósito de a tornar mais moderna e eficiente, diminuindo o seu peso na economia nacional, sem prejuízo da garantia do exercício das funções de soberania que pela Constituição lhe estão cometidas.
+
+É nesse âmbito que se insere a privatização do notariado, que o Governo elegeu como uma das reformas mais relevantes na área da Administração Pública em geral, e da justiça em particular, pelo significado que a mesma reveste. Na verdade, é a primeira vez que no nosso país uma profissão muda completamente o seu estatuto, passando do regime da função pública para o regime de profissão liberal.
+
+O Governo concretiza com esta medida uma progressiva transferência de competências que, pela sua natureza, são comprovadamente exercidas com mais eficiência por profissionais liberais, que ao mesmo tempo prestam um serviço de melhor qualidade e com menores encargos para o erário público.
+
+O notariado constitui um dos elementos integrantes do sistema da justiça que configura e dá suporte ao funcionamento de uma economia de mercado, enquanto instrumento ao serviço da segurança e da certeza das relações jurídicas e, consequentemente, do desenvolvimento social e económico. Com esta reforma, a actividade notarial não só ganha ainda maior relevância, pelo apelo constante ao delegatário da fé pública, consultor imparcial e independente das partes, exercendo uma função preventiva de litígios, mas também vê abrirem-se perante si novos horizontes, num espaço económico baseado na concorrência.
+
+Desde a sua origem até à década de 40 do século passado, o notariado português acompanhou a evolução dos seus congéneres europeus integrados no sistema do notariado latino, que no entanto veio a ser interrompido em pleno Estado Novo, com a «funcionarização» do notariado.
+
+Desde então, Portugal constitui-se como excepção relativamente aos demais países da União Europeia que integram o sistema do notariado latino; o notário português outorga a fé pública por delegação do Estado e na sua subordinação hierárquica, enquanto no sistema latino o notário exerce a mesma função no quadro de uma profissão liberal.
+
+Cada sistema notarial deve traduzir o modelo de sociedade e o sistema de Direito vigentes. E tanto a fisionomia que a actual Constituição Portuguesa confere à primeira como a raiz romano-germânica do segundo impõem a consagração entre nós do modelo do notariado latino.
+
+Parte integrante da política de justiça, o sector do notariado deve ser, pois, objecto de um processo de modernização e reforma, que há-de, em primeira linha, garantir a certeza e a segurança das relações sociais e económicas e assegurar o rigoroso cumprimento de elevados padrões técnicos e deontológicos.
+
+Com a presente reforma, e consequente adopção do sistema de notariado latino, consagra-se uma nova figura de notário, que reveste uma dupla condição, a de oficial, enquanto depositário de fé pública delegada pelo Estado, e a de profissional liberal, que exerce a sua actividade num quadro independente. Na verdade, esta dupla condição do notário, decorrente da natureza das suas funções, leva a que este fique ainda na dependência do Ministério da Justiça em tudo o que diga respeito à fiscalização e disciplina da actividade notarial enquanto revestida de fé pública e à Ordem dos Notários, que concentrará a sua acção na esfera deontológica dos notários.
+
+Como princípios fundamentais da reforma consagraram-se o numerus clausus e a delimitação territorial da função. Foram razões de certeza e segurança jurídicas que a função notarial prossegue que levou a optar-se por tal solução. Com efeito, no novo sistema, a par dos restantes países membros do notariado latino, o notário exercerá a sua função no quadro de uma profissão liberal, mas são-lhe atribuídas prerrogativas que o farão participar da autoridade pública, devendo, por isso, o Estado controlar o exercício da actividade notarial, a fim de garantir a realização dos valores servidos pela fé pública, que ficariam necessariamente afectados caso se consagrasse um sistema de livre acesso à função. Por outro lado, só por esta via se assegura a implantação em todo o território nacional de serviços notariais, ao determinar o número de notários existentes e respectiva localização e delimitação territorial da competência, assegurando em contrapartida uma remuneração mínima aos notários que, pela sua localização, não produzam rendimentos suficientes para suportarem os encargos do cartório, comparticipações essas realizadas através do fundo de compensação inserido no âmbito da Ordem dos Notários.
+
+Previu-se também não só o exercício em exclusivo da actividade notarial, assente na elevada qualificação técnica e profissional dos notários, comprovada através de estágios, provas e concursos, mas também a independência e imparcialidade dos mesmos em relação às partes, mediante a definição de incompatibilidades para o desempenho da função.
+
+Contemplou-se igualmente um elenco de direitos, em que se realça a prerrogativa do uso do selo branco enquanto símbolo da fé pública delegada, a definição de uma tabela remuneratória dos actos a praticar no exercício da actividade e a definição de um regime de substituição dos notários. Paralelamente, procedeu-se à enumeração dos deveres a que o notário fica adstrito, como seja o de obediência à lei e ao Estatuto do Notariado, de deontologia, de sigilo, por forma a assegurar a respectiva função social como servidor da justiça e do Direito, criando-se ainda a obrigação de subscrição de seguro profissional como forma de garantia concedida aos particulares.
+
+Tratando-se de uma reforma de grande complexidade e inovação, geradora de naturais perturbações no meio notarial, impõe-se que a mesma se concretize de modo progressivo, por forma que a transição do sistema em vigor para novo modelo notarial se faça sem atropelos a direitos e expectativas legítimas dos notários e funcionários a ela afectos.
+
+Assim, estabeleceu-se um período transitório de dois anos, durante o qual coexistirão notários públicos e privados, na dupla condição de oficial público e profissional liberal, no termo do qual só este último sistema vigorará. Durante este período transitório, os notários terão de optar pelo modelo privado ou, em alternativa, manter o vínculo à função pública, sendo, neste caso, integrados em conservatórias dos registos.
+
+Quanto aos funcionários, estes poderão, com o acordo do notário titular da licença, aderir ao regime privado ou, em alternativa, manter o vínculo à função pública e, tal como os notários, integrados em conservatórias dos registos. Ao transferirem-se para o regime privado, poderá ser concedida aos oficiais uma licença sem vencimento por cinco anos, no termo da qual poderão regressar à função pública, com garantia do direito à integração em conservatórias dos registos.
+
+Foram cumpridos os procedimentos da Lei n.º 23/98, de 26 de Maio.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses, a Comissão Nacional de Protecção de Dados, a Ordem dos Advogados e a Câmara dos Solicitadores.
+
+Assim:
+
+No uso de autorização legislativa concedida pelo artigo 1.º da Lei n.º 49/2003, de 22 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único
+
+Aprovação do Estatuto do Notariado
+
+É aprovado o Estatuto do Notariado, que consta de anexo ao presente diploma e que dele faz parte integrante.
+
+Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 23 de Janeiro de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 27 de Janeiro de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+ANEXO
+
+ESTATUTO DO NOTARIADO
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Notário e função notarial
+
+###### Artigo 1.º — Natureza
+
+1 - O notário é o jurista a cujos documentos escritos, elaborados no exercício da sua função, é conferida fé pública.
+
+2 - O notário é, simultaneamente, um oficial público que confere autenticidade aos documentos e assegura o seu arquivamento e um profissional liberal que actua de forma independente, imparcial e por livre escolha dos interessados.
+
+3 - A natureza pública e privada da função notarial é incindível.
+
+###### Artigo 1.º-A — Atribuição e reconhecimento da qualidade de notário
+
+1 - Podem exercer a profissão de notário em Portugal:
+
+a) Os profissionais que tenham adquirido ou vierem a adquirir essa qualidade nos termos do presente Estatuto;
+
+b) Os profissionais que como tal tenham sido reconhecidos;
+
+c) Os nacionais de Estados membros da União Europeia legalmente habilitados a exercer a profissão de notário e que reúnam as condições previstas no presente Estatuto.
+
+2 - O Conselho do Notariado é a autoridade competente para atribuir e reconhecer a qualidade de notário em Portugal.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 2.º — Classe única de notários
+
+No território da República Portuguesa há uma classe única de notários.
+
+###### Artigo 3.º — Dependência
+
+O notário está sujeito à fiscalização e acção disciplinar do Ministro da Justiça e dos órgãos competentes da Ordem dos Notários.
+
+###### Artigo 4.º — Atos da profissão de notário
+
+1 - Compete, em geral, ao notário redigir o instrumento público conforme a vontade dos interessados, a qual deve indagar, interpretar e adequar ao ordenamento jurídico, esclarecendo-os do seu valor e alcance e exercer todas as demais competências que lhe sejam atribuídas por lei.
+
+2 - São atos próprios exclusivos de notário:
+
+a) Lavrar escrituras públicas, testamentos públicos, instrumentos de aprovação, depósito e abertura de testamentos cerrados e de testamentos internacionais, instrumentos de protesto de títulos de crédito e procurações conferidas também no interesse de procurador ou de terceiro e os respetivos substabelecimentos;
+
+b) Lavrar outros instrumentos públicos nos livros de notas e fora deles;
+
+c) Exarar termos de autenticação em documentos particulares ou de reconhecimento da autoria da letra com que esses documentos estão escritos ou das assinaturas neles apostas;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) Passar certidões de instrumentos públicos, de registos e de outros documentos arquivados, extrair públicas-formas de documentos que para esse fim lhe sejam presentes ou conferir com os respectivos originais e certificar as fotocópias extraídas pelos interessados;
+
+h) Lavrar instrumentos para receber a declaração, com carácter solene ou sob juramento, de honorabilidade e de não se estar em situação de falência, nomeadamente para efeitos do preenchimento dos requisitos condicionantes, na ordem jurídica comunitária, da liberdade de estabelecimento ou de prestação de serviços;
+
+i) (Revogada.)
+
+j) Transmitir por via electrónica o teor dos instrumentos públicos, registos e outros documentos que se achem arquivados no cartório a outros serviços públicos perante os quais tenham de fazer fé e receber os que lhe forem transmitidos, por esses serviços, nas mesmas condições;
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) Conservar os documentos que por lei devam ficar no arquivo notarial e os que lhe forem confiados com esse fim, aplicando as regras de arquivo electrónico que cumpram as especificações técnicas fixadas pela Ordem dos Notários no quadro das suas competências de reorganização dos sistemas de arquivo notarial;
+
+o) Liquidar por via electrónica, a pedido do contribuinte e nos termos por este declarados, o Imposto Municipal Sobre as Transmissões Onerosas de Imóveis e outros impostos, tendo em conta os negócios jurídicos a celebrar ou celebrados, nos casos e nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça;
+
+p) Apresentar por via electrónica, a pedido dos interessados e de acordo com as respectivas declarações, pedidos de alteração, nos termos do artigo 13.º da Lei n.º 7/2007, de 5 de Fevereiro, de morada fiscal do adquirente, de isenção de Imposto Municipal sobre Imóveis relativo a habitação própria e permanente e de inscrição ou actualização de prédio urbano na matriz, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça;
+
+q) Apresentar por via electrónica, a pedido do contribuinte e de acordo com as respectivas declarações, a participação a que se refere o artigo 26.º do Código do Imposto do Selo, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça;
+
+r) (Revogada.)
+
+s) Exercer as demais funções que resultam das disposições do presente Estatuto ou de outros preceitos legais.
+
+3 - O disposto no número anterior não prejudica o exercício dos atos nele previsto por pessoas não inscritas na Ordem dos Notários, desde que legalmente autorizadas para o efeito.
+
+4 - Os notários têm, ainda, competência para:
+
+a) Passar certificados de vida e identidade, do desempenho de cargos públicos, de gerência ou de administração de pessoas coletivas, ou de outros factos que tenham verificado;
+
+b) Certificar, ou fazer e certificar, traduções de documentos;
+
+c) Lavrar instrumentos de atas de reuniões de órgãos sociais e presidir às assembleias gerais de quaisquer entidades públicas ou privadas;
+
+d) Intervir nos atos jurídicos extrajudiciais a que os interessados pretendam dar garantias especiais de certeza e autenticidade;
+
+e) Intervir em processos de mediação e de arbitragem;
+
+f) Promover, em representação dos interessados, os registos necessários à proteção de propriedade industrial e praticar junto do Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.), todos os atos necessários para o efeito;
+
+g) Prestar informação jurídica relativa a atos notariais;
+
+h) Emitir certificados sucessórios europeus;
+
+i) Legalizar documentos através da aposição de apostilas, nos termos a fixar por portaria do membro do Governo responsável pela área da justiça;
+
+j) Proceder à desocupação do locado no âmbito do procedimento especial de despejo.
+
+5 - Os atos referidos no número anterior não são atos expressamente reservados pela lei aos notários para efeitos do artigo 30.º da Lei n.º 2/2013, de 10 de janeiro.
+
+6 - A solicitação dos interessados, o notário pode requisitar por qualquer via, a outros serviços públicos, os documentos necessários à instrução dos actos da sua competência.
+
+7 - Incumbe ao notário, a pedido dos interessados, preencher a requisição de registo, em impresso de modelo aprovado, e remetê-la à competente conservatória do registo predial ou comercial, acompanhada dos respectivos documentos e preparo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 5.º — Cartórios notariais
+
+1 - O notário exerce as suas funções em instalações próprias, denominadas cartórios notariais.
+
+2 - Os cartórios notariais são organizados e dimensionados por forma a assegurar uma prestação de serviços de elevada qualidade e prontidão.
+
+3 - Os notários podem associar-se em sociedades exclusivamente de notários, nos termos legalmente previstos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 6.º — Numerus clausus
+
+1 - Na sede de cada município existe, pelo menos, um notário, cuja actividade está dependente da atribuição de licença.
+
+2 - O número de notários e a área de localização dos respetivos cartórios constam de mapa notarial aprovado por decreto-lei, ouvidos a direção da Ordem dos Notários e o Conselho do Notariado.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 7.º — Competência territorial
+
+1 - A competência do notário é exercida na circunscrição territorial do município em que está instalado o respectivo cartório.
+
+2 - Sem prejuízo do disposto no número anterior, o notário pode praticar todos os actos da sua competência ainda que respeitem a pessoas domiciliadas ou a bens situados fora da respectiva circunscrição territorial.
+
+3 - Excepcionalmente, e desde que as circunstâncias o justifiquem, a competência do notário pode ser exercida em mais de uma circunscrição territorial contígua, mediante despacho do Ministro da Justiça, ouvida a Ordem dos Notários.
+
+###### Artigo 7.º-A — Prática de atos por notário associado
+
+1 - Em cada cartório notarial pode exercer funções notariais, de acordo com o artigo 4.º, um notário associado.
+
+2 - O notário associado exerce funções nos termos da secção ii do presente capítulo.
+
+3 - O notário associado é livremente escolhido pelo notário titular de licença de instalação de entre os notários que integram a bolsa de notários, cabendo-lhe assegurar o pagamento dos respetivos honorários.
+
+4 - Ao notário associado é vedado o exercício de funções notariais simultaneamente em mais do que um cartório notarial.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 8.º — Prática de actos por trabalhadores
+
+1 - O notário pode, sob sua responsabilidade, autorizar trabalhadores com formação adequada a praticar determinados actos ou certas categorias de actos, sendo as respectivas condições mínimas definidas por portaria do membro do Governo responsável pela área da justiça, ouvida a Ordem dos Notários.
+
+2 - É vedada a autorização a que se refere o número anterior para a prática de actos titulados por escritura pública, testamentos públicos, instrumentos de aprovação, de abertura e de depósito de testamentos cerrados ou de testamentos internacionais e respectivos averbamentos, actas de reuniões de órgãos sociais, procurações e termos de autenticação previstos nas alíneas a) a g) do artigo 22.º do Decreto-Lei n.º 116/2008, de 4 de Julho.
+
+3 - A autorização referida no n.º 1 deve ser expressa e o respectivo texto afixado no cartório notarial em local acessível ao público, devendo ainda ser registada e permanentemente actualizada por via electrónica junto da Ordem dos Notários.
+
+4 - O registo referido no número anterior constitui requisito de validade da intervenção do colaborador e do documento em causa, devendo ser publicitado no sítio da Ordem dos Notários, com acesso livre.
+
+5 - O conselho supervisor da Ordem dos Notários fiscaliza o cumprimento das condições a que se refere o n.º 1, podendo determinar a recusa ou o cancelamento do registo referido no n.º 3, nos casos de falta de idoneidade do trabalhador para a prática dos atos mencionados no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 9.º — Substituição do notário
+
+1 - Nas ausências e impedimentos temporários que sejam susceptíveis de causar prejuízo sério aos utentes, o notário é substituído por outro notário por ele designado, obtido o consentimento deste.
+
+2 - Quando não seja possível a substituição nos termos do número anterior, a direção da Ordem dos Notários designa o notário substituto e promove as medidas que tiver por convenientes, tendo em vista, designadamente, assegurar a guarda e conservação do arquivo, de acordo com os critérios a fixar por regulamento aprovado pela assembleia geral da Ordem dos Notários, sob proposta da direção.
+
+3 - A direcção da Ordem dos Notários procede ainda à designação do notário substituto, nos termos do número anterior, nos casos de:
+
+a) Suspensão do exercício da actividade notarial;
+
+b) Ausência injustificada do notário por mais de 30 dias seguidos;
+
+c) Cessação definitiva do exercício da actividade do notário.
+
+4 - A identificação do notário substituto e quaisquer medidas adoptadas por causa da substituição devem ser afixadas no cartório notarial em local acessível ao público.
+
+5 - A fim de garantir as substituições, a Ordem dos Notários mantém uma bolsa de notários.
+
+6 - A substituição vigora até à cessação do impedimento, ausência temporária, suspensão ou até à atribuição da licença de instalação do cartório por meio de concurso.
+
+7 - As despesas necessárias à concretização da substituição, designadamente para a transferência do arquivo, são da responsabilidade do notário substituído.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção II — Princípios da actividade notarial
+
+###### Artigo 10.º — Enumeração
+
+O notário exerce as suas funções em nome próprio e sob sua responsabilidade, com respeito pelos princípios da legalidade, autonomia, imparcialidade, exclusividade e livre escolha.
+
+###### Artigo 11.º — Princípio da legalidade
+
+1 - O notário deve apreciar a viabilidade de todos os actos cuja prática lhe é requerida, em face das disposições legais aplicáveis e dos documentos apresentados ou exibidos, verificando especialmente a legitimidade dos interessados, a regularidade formal e substancial dos referidos documentos e a legalidade substancial do acto solicitado.
+
+2 - O notário deve recusar a prática de actos:
+
+a) Que forem nulos, não couberem na sua competência ou pessoalmente estiver impedido de praticar;
+
+b) Sempre que tenha dúvidas sobre a integridade das faculdades mentais dos participantes, salvo se no acto intervierem, a seu pedido ou a instância dos outorgantes, dois peritos médicos que, sob juramento ou compromisso de honra, abonem a sanidade mental daqueles.
+
+3 - O notário não pode recusar a sua intervenção com fundamento na anulabilidade ou ineficácia do acto, devendo, contudo, advertir os interessados da existência do vício e consignar no instrumento a advertência feita.
+
+###### Artigo 12.º — Princípio da autonomia
+
+O notário exerce as suas funções com independência, quer em relação ao Estado quer a quaisquer interesses particulares.
+
+###### Artigo 13.º — Princípio da imparcialidade
+
+1 - O notário tem a obrigação de manter equidistância relativamente a interesses particulares susceptíveis de conflituar, abstendo-se, designadamente, de assessorar apenas um dos interessados num negócio.
+
+2 - Nenhum notário pode praticar actos notariais nos seguintes casos:
+
+a) Quando neles tenha interesse pessoal;
+
+b) Quando neles tenha interesse o seu cônjuge, ou pessoa em situação análoga há mais de dois anos, algum parente ou afim em linha recta ou até ao 2.º grau da linha colateral;
+
+c) Quando neles intervenha como procurador ou representante legal o seu cônjuge, ou pessoa em situação análoga há mais de dois anos, algum parente ou afim em linha recta ou até ao 2.º grau da linha colateral.
+
+###### Artigo 14.º — Extensão dos impedimentos
+
+1 - Os impedimentos do notário são extensivos aos seus trabalhadores.
+
+2 - Exceptuam-se as procurações e os substabelecimentos com simples poderes forenses e os reconhecimentos de letra e de assinatura apostas em documentos que não titulem actos de natureza contratual, nos quais os trabalhadores podem intervir, ainda que o representado, representante ou signatário seja o próprio notário.
+
+###### Artigo 15.º — Princípio da exclusividade
+
+1 - As funções do notário são exercidas em regime de exclusividade, sendo incompatíveis com quaisquer outras funções remuneradas, públicas ou privadas.
+
+2 - Exceptuam-se do disposto no número anterior:
+
+a) A participação em actividades docentes e de formação, quando autorizadas pela Ordem dos Notários;
+
+b) A participação em conferências, colóquios e palestras;
+
+c) A percepção de direitos de autor.
+
+###### Artigo 16.º — Princípio da livre escolha
+
+1 - Sem prejuízo das normas relativas à competência territorial, e de normas constantes de diplomas que atribuem outras competências específicas aos notários, os interessados escolhem livremente o notário.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção III — Retribuição do notário
+
+###### Artigo 17.º — Princípios gerais
+
+1 - O notário é retribuído pela prática dos actos notariais, nos termos constantes de tabela aprovada por portaria do Ministério da Justiça.
+
+2 - A tabela pode determinar montantes fixos, variáveis entre mínimos e máximos, ou livres e é revista periodicamente pelo menos de dois em dois anos.
+
+3 - Sempre que os montantes a fixar sejam variáveis ou livres deve o notário proceder com moderação, tendo em conta, designadamente, o tempo gasto, a dificuldade do assunto, a importância do serviço prestado e o contexto sócio-económico dos interessados.
+
+###### Artigo 18.º — Conta dos actos
+
+Em relação a cada ato notarial efetuado, bem como a todos os outros atos cuja competência lhe seja legalmente atribuída, o notário deve elaborar a respetiva conta, com a especificação de todas as verbas que a compõem e mencionar nela, por extenso, a importância total a cobrar, incluindo as verbas devidas a um interveniente por outro interveniente no ato ou procedimento, em virtude desse mesmo ato ou procedimento.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 19.º — Pagamento da conta
+
+1 - O pagamento da conta respeitante a ato notarial fica a cargo de quem requereu a prática do ato, sendo a responsabilidade dos interessados solidária.
+
+2 - O pagamento da conta respeitante a outros atos cuja competência seja legalmente atribuída ao notário é efetuado nos termos previstos em legislação própria.
+
+3 - O pagamento da conta pode ser exigido judicialmente, pelo notário ou por interveniente, credor de outro interveniente de acordo com a conta, quando não satisfeito voluntariamente, servindo de título executivo a conta assinada pelo notário no que respeita aos montantes constantes da tabela e encargos legais ou da legislação que defina os custos do procedimento.
+
+4 - O notário pode exigir, no âmbito da prática de atos notariais, a título de provisão, quantias por conta dos honorários ou despesas, sob pena de recusa da prática do ato, exceto dos testamentos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção IV — Horário dos cartórios notariais
+
+###### Artigo 20.º — Abertura ao público
+
+O horário de abertura ao público dos cartórios notariais é fixado em portaria do Ministério da Justiça, ouvida a Ordem dos Notários.
+
+### Capítulo II — Direitos e deveres do notário
+
+###### Artigo 21.º — Prerrogativa de uso de símbolo da fé pública
+
+1 - O notário tem direito a usar, como símbolo da fé pública, selo branco, de forma circular, representando em relevo o escudo da República Portuguesa, circundado pelo nome do notário e pela identificação do respectivo cartório, de acordo com o modelo aprovado por portaria do Ministério da Justiça.
+
+2 - Quando o notário elabore documentos eletrónicos, tem direito a usar um selo eletrónico qualificado, nos termos do Decreto-Lei n.º 12/2021, de 9 de fevereiro, que assegura a execução na ordem jurídica interna do Regulamento (UE) 910/2014, relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno.
+
+3 - O selo branco, pertença de cada notário, é registado na Ordem dos Notários e não pode ser alterado sem autorização do conselho supervisor da Ordem.
+
+4 - Em caso de cessação definitiva de funções, o Conselho do Notariado deve ser informado de imediato, podendo autorizar o uso do selo branco e o uso do selo eletrónico pelo substituto designado pela direção da Ordem dos Notários, devendo, nesses casos, fazer-se expressa menção da situação em que é usado o selo branco ou o selo eletrónico.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 22.º — Direito a identificação
+
+O notário tem direito a afixar no exterior do cartório notarial o seu nome, título académico e horário de abertura ao público.
+
+###### Artigo 23.º — Deveres dos notários
+
+1 - Constituem deveres dos notários:
+
+a) Cumprir as leis e as normas deontológicas;
+
+b) Desempenhar as suas funções com subordinação aos objectivos do serviço solicitado e na perspectiva da prossecução do interesse público;
+
+c) Prestar os seus serviços a todos quantos os solicitem, salvo se tiver fundamento legal para a sua recusa;
+
+d) Guardar sigilo profissional sobre todos os factos e elementos cujo conhecimento lhe advenha exclusivamente do exercício das suas funções;
+
+e) Não praticar qualquer acto sem que se mostrem cumpridas as obrigações de natureza tributária ou relativas à segurança social, que o hajam de ser antes da sua realização;
+
+f) Comunicar ao órgão competente da administração fiscal a realização de quaisquer actos de que resultem obrigações de natureza tributária;
+
+g) Prestar informações que lhe forem solicitadas pelo Ministério da Justiça para fins estatísticos;
+
+h) Satisfazer pontualmente as suas obrigações, especialmente para com o Estado, a Ordem dos Notários e os seus trabalhadores;
+
+i) Dirigir o serviço de forma a assegurar o bom funcionamento do cartório;
+
+j) Denunciar os crimes de que tomar conhecimento no exercício das suas funções e por causa delas, designadamente os crimes de natureza económica, financeira e de branqueamento de capitais;
+
+l) Não solicitar ou angariar clientes, por si ou por interposta pessoa;
+
+m) Contratar e manter seguro de responsabilidade civil profissional, cujas condições mínimas são fixadas por portaria dos membros do Governo responsáveis pelas áreas da justiça e das finanças.
+
+2 - Os factos e elementos cobertos pelo sigilo profissional só podem ser revelados nos termos previstos nas disposições legais pertinentes e, ainda, por decisão do órgão competente da Ordem dos Notários, ponderados os interesses em conflito.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 24.º — Segurança social
+
+Os notários integram-se no regime de segurança social dos trabalhadores independentes.
+
+### Capítulo III — Acesso à função notarial e atribuição do título de notário
+
+#### Secção I — Requisitos gerais de acesso
+
+###### Artigo 25.º — Requisitos de acesso à função notarial
+
+Para adquirir a qualidade de notário em Portugal, são requisitos indispensáveis os seguintes:
+
+a) (Revogada.)
+
+b) Ser maior de idade;
+
+c) Não estar inibido do exercício de funções públicas ou interdito para o exercício de funções notariais;
+
+d) Possuir um dos seguintes graus em Direito:
+
+i) Grau de licenciado em Direito;
+
+ii) Grau académico superior estrangeiro em Direito a que tenha sido conferida equivalência ao grau a que se refere a subalínea anterior ou que tenha sido reconhecido com o nível deste.
+
+e) Ter frequentado o estágio notarial;
+
+f) Ter obtido aprovação no exame final de estágio, nos termos do presente Estatuto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+#### Secção II — Estágio
+
+###### Artigo 26.º — Início de estágio
+
+1 - Quem possuir os requisitos previstos nas alíneas b) a d) do artigo anterior pode requerer à Ordem dos Notários a inscrição no estágio notarial.
+
+2 - A inscrição no estágio pode ocorrer a todo o tempo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 27.º — Estágio
+
+1 - O estágio tem a duração máxima de 12 meses, contados da data de inscrição no estágio e até à inscrição na Ordem como notário, e é realizado sob orientação de notário com, pelo menos, cinco anos de exercício de funções notariais, livremente escolhido pelo estagiário ou designado pela Ordem dos Notários.
+
+2 - O estágio destina-se a habilitar os estagiários com os conhecimentos técnico-profissionais e deontológicos essenciais para a prática dos atos da função notarial, encontrando-se dividido em duas fases, sendo que:
+
+a) A fase inicial destina-se a garantir a iniciação aos aspetos técnicos da profissão e um adequado conhecimento das suas regras e exigências deontológicas, de forma a assegurar que os estagiários, ao transitarem para a fase complementar, estão aptos à prática dos atos da função notarial, no âmbito das suas competências;
+
+b) A fase complementar visa o desenvolvimento e aprofundamento das exigências práticas e deontológicas da profissão, intensificando o contacto pessoal do estagiário com o funcionamento dos cartórios, seus utentes e trabalhadores, e com todos os aspetos e instituições relevantes para a função notarial.
+
+3 - A duração do estágio, bem como de cada uma das fases previstas no número anterior, são reduzidas a metade se o estagiário for:
+
+a) Doutor em Direito;
+
+b) Magistrado judicial ou do Ministério Público, desde que não tenha tido classificação de serviço inferior a Bom;
+
+c) Conservador de registos, desde que não tenha tido avaliação final de desempenho inferior a 'adequado';
+
+d) Advogado inscrito na Ordem dos Advogados durante pelo menos cinco anos.
+
+e) Colaborador de notário em exercício de funções com competências delegadas há pelo menos um ano.
+
+4 - A duração do estágio e das respetivas fases é igualmente reduzida a metade se o estagiário for ajudante ou escriturário dos registos e do notariado, desde que não tenha tido avaliação final de desempenho inferior a 'adequado'.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 27.º-A — Abertura dos períodos de estágio
+
+1 - Cabe à Ordem dos Notários promover a abertura do período de estágio, o qual deve ocorrer uma vez por ano.
+
+2 - A Ordem dos Notários publica o anúncio da abertura de período de estágio no seu sítio na Internet, indicando a data de início do mesmo, com, pelo menos, seis semanas de antecedência.
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 27.º-B — Patrono
+
+1 - O notário patrono é o principal responsável pela orientação e direção do exercício profissional do estagiário, cabendo-lhe promover a formação durante o estágio e apreciar a aptidão e idoneidade ética e deontológica do estagiário para o exercício da profissão, emitindo para o efeito a informação do estágio prevista no artigo 29.º
+
+2 - O notário patrono está vinculado ao cumprimento dos seguintes deveres:
+
+a) Permitir ao estagiário o acesso ao seu cartório e a utilização deste, nas condições e com as limitações que venha a estabelecer;
+
+b) Facilitar o acesso à utilização dos equipamentos do cartório, designadamente de telefones, telecópia, computadores e outros nas condições e com as limitações que venha a determinar;
+
+c) Permitir que o estagiário assista aos atos notariais que pratique e respetivas diligências preparatórias e complementares, quando este o solicite ou quando o interesse das questões em causa o recomende;
+
+d) Permitir que o estagiário tenha acesso aos documentos notariais por si preparados e elaborados, bem como aos seus livros e respetivos documentos notariais nas condições e com as limitações que venha a determinar;
+
+e) Aconselhar, orientar e informar o estagiário durante todo o tempo de formação;
+
+f) Elaborar o plano de estágio;
+
+g) Verificar se o estagiário comparece regular e continuamente no cartório e respeita os horários de atendimento ao público;
+
+h) Elaborar a informação de estágio conforme previsto no presente Estatuto e no regulamento de estágio;
+
+i) Cumprir as formalidades legais inerentes à realização do estágio.
+
+3 - O notário patrono pode, sob sua responsabilidade, autorizar o estagiário a praticar determinados atos ou categorias de atos, nos termos previstos no artigo 8.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 27.º-C — Deveres dos estagiários
+
+São deveres dos estagiários durante todo o seu período de estágio:
+
+a) Observar escrupulosamente as regras, condições e limitações referentes à utilização dos equipamentos e instalações do cartório do notário patrono;
+
+b) Guardar respeito e lealdade para com o notário patrono;
+
+c) Submeter-se ao plano de estágio definido pelo notário patrono;
+
+d) Colaborar com o notário patrono sempre que este o solicite e efetuar os trabalhos que lhe sejam determinados, desde que se revelem compatíveis com a atividade do estágio;
+
+e) Colaborar com assiduidade, pontualidade, empenho, zelo e competência em todas as atividades e trabalhos que lhe sejam submetidos, bem como na atividade diária do cartório;
+
+f) Guardar sigilo profissional;
+
+g) Comunicar à direção da Ordem dos Notários qualquer facto que possa condicionar ou limitar o pleno cumprimento das normas estatutárias e regulamentares inerentes ao estágio;
+
+h) Cumprir em plenitude todas as demais obrigações deontológicas e regulamentares no exercício da função notarial;
+
+i) Indicar a qualidade de estagiário e a autorização prevista no n.º 3 do artigo anterior, nos atos que pratique, durante a fase complementar de estágio;
+
+j) Elaborar relatório final de estágio, nos termos previstos no presente Estatuto e no regulamento de estágio.
+
+Artigo 27.º-D
+
+Seguros do estagiário
+
+No momento da inscrição, o estagiário deve apresentar comprovativo de subscrição da apólice de seguro de grupo disponibilizada pela Ordem dos Notários, ou contratada por si, relativo a:
+
+a) Seguro de acidentes pessoal que cubra os riscos que possam ocorrer durante e por causa do estágio;
+
+b) Seguro de responsabilidade civil profissional que cubra, durante a realização do estágio, os riscos inerentes ao desempenho das tarefas que enquanto estagiário lhe forem atribuídas, conforme o estabelecido na apólice respetiva, renovando-o sempre que necessário até à sua conclusão e que vigora enquanto aquela inscrição se mantiver ativa.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 28.º — Organização do estágio e remuneração
+
+1 - Os estagiários não podem, durante a fase inicial do estágio, praticar atos da função notarial.
+
+2 - Durante a fase complementar, os estagiários podem praticar os atos da função notarial que o notário patrono autorizar, com as restrições constantes do n.º 2 do artigo 8.º, devendo indicar nos atos que pratiquem a qualidade de estagiário e a autorização.
+
+3 - (Revogado.)
+
+4 - Sempre que a realização do estágio implique a prestação de trabalho, deve ser garantida ao estagiário a remuneração correspondente às funções desempenhadas, em valor não inferior à remuneração mínima mensal garantida acrescida de 25 % do seu montante.
+
+5 - Para efeitos do disposto no número anterior, presume-se que o estágio implica prestação de trabalho.
+
+6 - A remuneração do estágio pode ser suportada pelo fundo de compensação previsto no Estatuto da Ordem dos Notários, nos termos a definir pela assembleia geral, sob proposta da direção.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 28.º-A — Suspensão e prorrogação do estágio
+
+1 - O estagiário pode, livre e unilateralmente, requerer à direção da Ordem dos Notários a suspensão do seu estágio, por tempo determinado ou indeterminado.
+
+2 - Finda a suspensão, o estágio retoma na mesma fase em que foi suspenso, sendo que se a suspensão se prolongar por prazo superior a um ano, o estagiário deve reiniciar a fase em que se encontra, sujeitando-se às normas regulamentares em vigor à data do reinício.
+
+3 - O tempo de estágio pode ser prorrogado a solicitação do estagiário, devidamente justificada e acompanhada de parecer do notário patrono, sendo apreciado e decidido pela direção da Ordem dos Notários.
+
+4 - A prorrogação só pode ser concedida por uma única vez e por período nunca superior a seis meses.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 29.º — Informação do estágio
+
+Dentro do prazo estabelecido no artigo 27.º, o notário patrono elabora uma informação do estágio, na qual se pronuncia sobre a aptidão do estagiário para o exercício da função notarial.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 30.º — Regulamentação do estágio
+
+As regras do estágio, incluindo a organização, duração e o programa do estágio notarial, a elaboração da informação do estágio, a designação do júri perante o qual é realizado o exame final e os termos da realização do exame final, regem-se pelas normas do presente Estatuto e por regulamento aprovado pelo conselho supervisor da Ordem dos Notários, sob proposta da direção da Ordem, o qual apenas produz efeitos após homologação pelo membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 30.º-A — Taxas
+
+1 - Em caso de carência económica comprovada, fica o estagiário isento do pagamento de quaisquer taxas relativas ao acesso à profissão, mediante requerimento ao conselho supervisor da Ordem.
+
+2 - O estagiário pode solicitar o diferimento do pagamento das taxas relativas ao acesso à profissão, mediante requerimento devidamente fundamentado ao conselho supervisor.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+#### Secção III — Exame final
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 31.º — Exame final de estágio
+
+1 - A avaliação do estágio realiza-se através de um exame final, organizado pela Ordem dos Notários, que se destina a avaliar os conhecimentos e as competências necessárias ao exercício da função notarial.
+
+2 - A definição das matérias a avaliar em exame final deve garantir a não sobreposição com matérias ou unidades curriculares que integram o curso conferente da necessária habilitação académica.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 32.º — Júri do exame
+
+1 - A avaliação final do estágio é da responsabilidade de um júri independente.
+
+2 - O júri é designado pelo conselho supervisor da Ordem dos Notários e integra:
+
+a) Um notário, com pelo menos cinco anos de exercício da profissão, que preside;
+
+b) Um membro designado pelo membro do Governo responsável pela área da justiça;
+
+c) Uma personalidade de reconhecido mérito com qualificação no domínio do direito privado, administrativo, fiscal, notarial e registal, que não seja membro da Ordem dos Notários.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+#### Secção IV — Atribuição do título de notário
+
+###### Artigo 33.º — Atribuição
+
+1 - A atribuição do título de notário depende da aprovação no exame final de estágio.
+
+2 - Os notários são graduados segundo o seu mérito, tendo em conta as classificações obtidas no exame final de estágio e as constantes dos respetivos títulos académicos.
+
+3 - A graduação estabelecida nos termos do número anterior tem a validade de dois anos, prorrogável por deliberação fundamentada da direcção da Ordem dos Notários.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+### Capítulo IV — Concurso para atribuição de licença
+
+###### Artigo 34.º — Concurso de licenciamento
+
+1 - As licenças para instalação de cartório notarial são postas a concurso consoante as vagas existentes.
+
+2 - O concurso é aberto por aviso do Ministério da Justiça, publicado no Diário da República, ouvida a Ordem dos Notários.
+
+3 - As vagas são preenchidas de acordo com a graduação dos candidatos e as referências de localização dos cartórios manifestadas no respectivo pedido de licença.
+
+4 - Os notários que integrem a bolsa de notários gozam de bonificações específicas na graduação, de acordo com o número e a duração das substituições efectuadas, nos termos a definir pela Ordem dos Notários.
+
+###### Artigo 35.º — Atribuição de licença
+
+1 - As licenças de instalação de cartório notarial são atribuídas por despacho do Ministro da Justiça.
+
+2 - O notário só pode ser titular de uma licença.
+
+3 - Os notários a quem tenha sido atribuída licença obrigam-se a exercer a sua atividade ao abrigo dessa mesma licença pelo período mínimo de dois anos, durante o qual ficam impedidos de se candidatarem a nova licença.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 36.º — Bolsa de notários
+
+1 - Os notários que não concorram a licença de cartório notarial ou não a obtenham no concurso podem integrar a bolsa de notários da Ordem dos Notários.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+### Capítulo V — Instalação do cartório notarial e posse dos notários
+
+###### Artigo 37.º — Prazos de instalação e da posse
+
+1 - Atribuída a licença, o notário tem 90 dias para proceder à instalação do cartório notarial.
+
+2 - O prazo previsto no número anterior é suscetível de prorrogação, mediante requerimento devidamente fundamentado, dirigido ao Conselho do Notariado.
+
+3 - A posse deve ocorrer nos 15 dias subsequentes à instalação do cartório notarial.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 38.º — Posse
+
+1 - O notário inicia a atividade com a tomada de posse mediante juramento perante o bastonário da Ordem dos Notários e o presidente do Conselho do Notariado.
+
+2 - No ato da tomada de posse é entregue ao notário o selo branco e a autorização de uso do selo eletrónico.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 39.º — Notários sem licença de cartório notarial
+
+Os notários que integram a bolsa de notários tomam posse em conjunto perante o bastonário da Ordem dos Notários e o presidente do Conselho do Notariado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 40.º — Ausência de tomada de posse
+
+1 - A ausência injustificada de tomada de posse implica perda da licença de instalação de cartório notarial ou renúncia à integração na bolsa de notários, consoante os casos.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - A perda da licença nos termos do n.º 1 impede o notário, no ano subsequente, de se apresentar novamente a concurso.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Alterado pelo/a [Lei n.º 51/2004 - Diário da República n.º 255/2004, Série I-A de 2004-10-29](https://diariodarepublica.pt/dr/detalhe/lei/51-2004-565249), em vigor a partir de 2004-11-03
+
+### Capítulo VI — Reconhecimento de qualificações profissionais
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 40.º-A — Liberdade de estabelecimento em Portugal
+
+1 - Pode estabelecer-se em Portugal para o exercício de actividade de notário, em plena igualdade de direitos e deveres com os notários portugueses, o profissional que possua um título de formação exigido noutro Estado membro da União Europeia para nele exercer essa actividade.
+
+2 - O título de formação mencionado no número anterior deve:
+
+a) Ter sido emitido por uma autoridade competente para o efeito;
+
+b) Comprovar o nível de qualificação profissional no mínimo equivalente a uma formação de ensino pós-secundário com duração mínima de três anos.
+
+3 - Pode ainda estabelecer-se em Portugal o profissional que tenha exercido, a tempo inteiro, a actividade de notário durante dois anos no decurso dos 10 anos anteriores, num Estado membro da União Europeia que não regulamente esta actividade, desde que possua um título de formação equivalente ao previsto na alínea d) do artigo 25.º, emitido por uma autoridade competente para o efeito.
+
+4 - Os profissionais mencionados nos números anteriores ficam sujeitos a atribuição de licença para instalação de cartório notarial nos termos dos artigos 34.º e 35.º ou a integração na bolsa de notários prevista no artigo 36.º
+
+5 - Os profissionais que se estabeleçam em Portugal nos termos previstos no presente artigo devem usar o título profissional de 'notário', nos termos e para os efeitos do disposto no artigo 33.º, sendo-lhes aplicável o disposto no presente Estatuto e na demais legislação aplicável aos notários.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 40.º-B — Liberdade de prestação de serviços
+
+1 - São aplicáveis os artigos 3.º a 5.º e 7.º da Lei n.º 9/2009, de 4 de Março, à actuação em Portugal de notário que se encontre estabelecido noutro Estado membro da União Europeia, ao abrigo do princípio da livre prestação de serviços.
+
+2 - Para o efeito do número anterior, o notário que pretenda prestar o serviço de forma não permanente em Portugal deve dar prévio conhecimento de tal facto ao Ministério da Justiça, através do IRN, I. P., que o comunica à Ordem dos Notários e à Direcção-Geral dos Impostos (DGCI).
+
+3 - Na prestação de serviços de notariado em Portugal os notários estabelecidos noutros Estados membros da União Europeia estão sujeitos às regras profissionais e deontológicas aplicáveis aos notários portugueses, sem prejuízo das regras do Estado de origem a que devam continuar a sujeitar-se, nos termos do artigo 40.º-D do presente Estatuto.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 40.º-C — Uso de título profissional
+
+1 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo 40.º-A deve usar o título profissional de «notário», nos termos e para os efeitos do disposto no artigo 33.º do presente Estatuto.
+
+2 - No caso previsto no número anterior, o exercício da actividade em Portugal encontra-se sujeito às regras a que se submetem os notários que tenham adquirido essa qualidade nos termos do capítulo iii do presente Estatuto.
+
+3 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo anterior usa unicamente o título profissional do país em que se encontre estabelecido, na língua oficial desse país.
+
+4 - No caso previsto no número anterior e sempre que o título de notário não exista no país de estabelecimento, o prestador deve usar o seu título de formação numa das línguas oficiais desse país.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 40.º-D — Responsabilidade disciplinar
+
+1 - Os notários estabelecidos noutros Estados membros da União Europeia e que prestem serviços em Portugal com o título profissional de origem estão sujeitos às sanções disciplinares previstas para os notários estabelecidos em Portugal, devendo o respectivo processo disciplinar ser instruído em colaboração com a organização profissional equivalente do Estado de origem, a qual é informada da sanção aplicada.
+
+2 - A responsabilidade disciplinar perante o Ministério da Justiça e a Ordem dos Notários é independente da responsabilidade disciplinar perante a organização profissional do respectivo Estado de origem.
+
+3 - A comunicação pela organização profissional do respectivo Estado de origem dos factos que determinaram a instauração de um processo disciplinar ou a aplicação de uma sanção a um notário que também exerça a sua actividade em Portugal vale como participação disciplinar para efeitos do disposto no regulamento disciplinar.
+
+4 - O notário que tenha sido suspenso ou proibido de exercer a profissão pela organização profissional do Estado de origem fica automaticamente impedido de exercer a sua actividade em Portugal enquanto durar aquela suspensão ou proibição.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 40.º-E — Organizações associativas de profissionais de outros Estados-Membros
+
+1 - As representações permanentes em Portugal de organizações associativas de profissionais equiparados por lei a notários constituídas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu para o exercício de atividade profissional, cujo gerente ou administrador seja um profissional e cujo capital com direito de voto caiba maioritariamente aos profissionais em causa e ou a outras organizações associativas cujo capital e direitos de voto caibam maioritariamente àqueles profissionais, são equiparadas a sociedades de notários para efeitos do presente Estatuto.
+
+2 - Os requisitos de capital referidos no número anterior não são aplicáveis caso a organização associativa não disponha de capital social, aplicando-se, em seu lugar, o requisito de atribuição da maioria de direitos de voto aos profissionais ali referidos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+### Capítulo VII — Cessação da actividade notarial e seus efeitos
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+#### Secção I — Cessação de actividade e readmissão
+
+###### Artigo 41.º — Enumeração
+
+O notário cessa a actividade nos seguintes casos:
+
+a) Exoneração;
+
+b) Limite de idade;
+
+c) Incapacidade;
+
+d) Morte;
+
+e) Interdição definitiva do exercício da actividade.
+
+###### Artigo 42.º — Exoneração
+
+1 - O notário é exonerado pelo Conselho do Notariado, a todo o momento e a seu pedido, mediante requerimento apresentado com a antecedência mínima de 90 dias.
+
+2 - O notário deve informar a Ordem dos Notários da data em que pretende ser exonerado com a antecedência mínima de 90 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 43.º — Limite de idade
+
+1 - O limite de idade para o exercício da função notarial é de 70 anos.
+
+2 - O notário deve informar a Ordem dos Notários da data em que atinge o limite de idade para o exercício da sua função com a antecedência mínima de 90 dias.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 44.º — Cessação de actividade por incapacidade
+
+1 - Cessa a atividade por incapacidade o notário que sofra de perturbação física ou psíquica que impossibilite o desempenho normal da sua função, comprovada por junta médica competente, requerida pelo Conselho do Notariado.
+
+2 - No caso previsto no número anterior e sempre que a situação o justifique, o Conselho do Notariado pode determinar a imediata suspensão da actividade do notário.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 45.º — Readmissão
+
+Os notários que tenham cessado a actividade por incapacidade, nos termos do artigo anterior, e que façam prova de que não subsistem os motivos que determinaram o seu afastamento podem requerer de novo licença de cartório notarial, de acordo com o disposto nos artigos 34.º e 35.º do presente Estatuto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 46.º — Interdição definitiva do exercício de actividade
+
+O notário cessa definitivamente o exercício da actividade notarial na sequência de sanção disciplinar ou criminal que a determine.
+
+#### Secção II — Efeitos da cessação de actividade
+
+###### Artigo 47.º — Encerramento do cartório notarial
+
+1 - Em caso de cessação de atividade, o notário encerra o cartório e informa de imediato o Conselho do Notariado e a Ordem dos Notários do encerramento.
+
+2 - Se a cessação de actividade ocorrer por morte do notário, o cartório notarial, com todos os bens nele contidos, é de imediato encerrado pelo trabalhador do notário com autorização para a prática de actos notariais ou, havendo vários, pelo trabalhador mais antigo e, sendo igual a antiguidade, pelo mais velho, que providencia pela imediata substituição das fechaduras de acesso ao cartório.
+
+3 - Não havendo trabalhador com autorização para a prática de actos notariais, o dever referido no número anterior recai sobre o trabalhador mais antigo ou, em caso de igualdade, sobre o mais velho.
+
+4 - O trabalhador que, nos termos dos números anteriores, tiver encerrado o cartório notarial deve informar de imediato o Ministério da Justiça e a Ordem dos Notários do encerramento.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 48.º — Substituição
+
+Conhecida a situação referida no artigo anterior, a direção da Ordem dos Notários designa de imediato um notário para, a título transitório, assegurar o funcionamento do cartório e ou a guarda do arquivo, de acordo com os critérios a fixar por regulamento aprovado pela assembleia geral da Ordem dos Notários, sob proposta da direção.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 49.º — Inventário dos bens do cartório
+
+O notário substituto elabora o inventário dos bens do cartório e do respectivo arquivo, acompanhado de informação circunstanciada do estado do serviço.
+
+###### Artigo 50.º — Cessação da actividade do notário
+
+A cessação da actividade do notário titular de licença de instalação de cartório notarial determina a realização de concurso para atribuição de nova licença.
+
+###### Artigo 51.º — Depósito dos livros e documentos notariais
+
+1 - Se, na sequência de revisão do mapa notarial, o lugar do notário que haja cessado a actividade for extinto, o Conselho do Notariado determina que os seus livros e documentos notariais sejam entregues definitivamente a outro ou outros notários, que devem providenciar pela sua guarda e conservação.
+
+2 - É notário depositário o outro notário do município ou, havendo mais de um, o titular da licença mais antiga.
+
+3 - O Conselho do Notariado deve notificar o notário designado nos termos do número anterior para, no prazo de 10 dias e na presença de um trabalhador indicado pelo Conselho, transferir do antigo cartório notarial os livros e documentos notariais que ficam à sua guarda.
+
+4 - No fim daquele prazo, o notário remete ao Conselho do Notariado o inventário dos livros e documentos notariais e, bem assim, o selo branco, tratando-se de notário falecido, e demais documentos ou bens que devem ser entregues ao Conselho do Notariado.
+
+5 - O Conselho do Notariado promove a publicação, por extracto, no Diário da República e em jornal da circunscrição territorial respectiva, bem como a afixação na porta do cartório notarial, da transferência dos livros e documentos notariais, com a indicação do encerramento do cartório e do local onde os mesmos podem ser consultados.
+
+6 - Caso não seja possível, nos termos do disposto nos números anteriores, assegurar a entrega, a outro notário ou notários, dos livros e documentos notariais, os mesmos devem ser entregues à Ordem dos Notários que se responsabiliza pela sua guarda, conservação e digitalização, tendo em vista a criação de um sistema de arquivo eletrónico de documentos notariais.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+### Capítulo VIII — Conselho do Notariado
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 52.º — Conselho do Notariado
+
+1 - O membro do Governo responsável pela área da justiça exerce as suas competências de fiscalização e ação disciplinar através do Conselho do Notariado, que funciona no âmbito do Ministério da Justiça.
+
+2 - O Conselho do Notariado é composto pelo bastonário da Ordem dos Notários, pelo presidente do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), por um elemento designado pelo membro do Governo responsável pela área da justiça, por um notário indicado pela Ordem dos Notários e por um jurista de reconhecido mérito, cooptado pelos anteriores.
+
+3 - O presidente do Conselho do Notariado é designado pelo membro do Governo responsável pela área da justiça, de entre os membros referidos no número anterior não pertencentes à Ordem dos Notários.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 53.º — Competência do Conselho do Notariado
+
+Compete ao Conselho do Notariado:
+
+a) (Revogada.)
+
+b) Realizar os concursos para atribuição de licença de instalação de cartório notarial;
+
+c) Designar o notário depositário dos livros e documentos notariais dos cartórios extintos;
+
+d) Promover a publicação da transferência dos livros e documentos notariais dos cartórios extintos para os cartórios onde podem ser consultados;
+
+e) Exercer acção disciplinar sobre os notários nos termos do presente Estatuto;
+
+f) Emitir parecer sobre as iniciativas legislativas do Governo relativas à atividade notarial, designadamente à elaboração do mapa notarial, ao conteúdo do exame final de estágio para obtenção do título de notário e aos requisitos da atribuição de licença de instalação de cartório notarial;
+
+g) Acompanhar e assegurar a execução do processo de transformação do notariado para o regime constante do presente Estatuto;
+
+h) Determinar a cessação da actividade do notário, bem como a sua readmissão, nos casos previstos no presente Estatuto;
+
+i) Exercer as demais funções que o membro do Governo responsável pela área da justiça, a lei ou o presente Estatuto lhe confira.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 54.º — Funcionamento
+
+O Conselho do Notariado reúne ordinariamente uma vez por mês e extraordinariamente sempre que o seu presidente ou a maioria dos seus membros considere conveniente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 55.º — Senhas de presença
+
+Os membros do Conselho do Notariado recebem uma senha de presença de valor fixado por despacho conjunto dos Ministros das Finanças e da Justiça por cada reunião em que participem.
+
+###### Artigo 56.º — Apoio administrativo e financeiro
+
+1 - Cabe ao IRN, I. P., e à Ordem dos Notários fornecer o apoio administrativo e financeiro ao Conselho do Notariado, bem como apoio ao exercício da sua ação disciplinar.
+
+2 - O apoio dado por cada uma das entidades referidas no número anterior é fixado por protocolo homologado pelo membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+### Capítulo IX — Fiscalização
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+###### Artigo 57.º — Fiscalização da actividade notarial
+
+1 - Compete ao membro do Governo responsável pela área da justiça, através do Conselho do Notariado, a fiscalização da atividade notarial, mediante a realização de inspeções, em tudo o que se relacione com o exercício da função notarial.
+
+2 - No âmbito da função referida no número anterior, compete ao membro do Governo responsável pela área da justiça:
+
+a) Elaborar o regulamento das inspecções;
+
+b) Determinar a realização de inspecções, através dos serviços de inspecção do Ministério da Justiça;
+
+c) Designar os inspectores e proceder à distribuição dos processos de inspecção;
+
+d) Apreciar e decidir sobre as propostas e sugestões constantes dos relatórios de inspecção;
+
+e) Exercer competência disciplinar sobre os notários;
+
+f) Exercer as demais competências que neste domínio lhe sejam cometidas por lei.
+
+3 - A Ordem dos Notários e o IRN, I. P., apoiam a atividade de fiscalização da atividade notarial.
+
+4 - O Conselho do Notariado, caso se verifique perigo iminente para a conservação dos arquivos notariais, designadamente devido a problemas estruturais nas instalações ou de segurança, ou impossibilidade de acesso aos mesmos, devido a doença prolongada ou ausência do notário sem se lograr o contacto com o próprio ou com algum dos seus trabalhadores pode tomar posse imediata dos arquivos, podendo requerer, para o efeito, o auxílio das forças policiais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 58.º — Inspecções
+
+O Ministro da Justiça pode determinar a realização de inspecções, por sua iniciativa, a pedido do notário, ou ainda em consequência de participações ou de queixas.
+
+###### Artigo 59.º — Medidas urgentes ou de carácter disciplinar
+
+1 - Sempre que, no decurso de uma visita de inspeção, sejam detetadas situações que exijam a adoção de medidas urgentes ou irregularidades suscetíveis de configurar infração disciplinar, o inspetor deve, no primeiro caso, comunicá-las imediatamente ao Conselho do Notariado e, no segundo, lavrar o competente auto, que deve enviar, também de imediato, à mesma entidade.
+
+2 - O auto referido no número anterior tem valor de auto de notícia, para efeitos de procedimento disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+### Capítulo X — Disciplina
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+#### Secção I — Disposições gerais
+
+###### Artigo 60.º — Âmbito de aplicação
+
+Os notários são disciplinarmente responsáveis perante o membro do Governo responsável pela área da justiça e a Ordem dos Notários, nos termos do presente Estatuto e do Estatuto da Ordem dos Notários.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 61.º — Infracção disciplinar
+
+1 - Considera-se infração disciplinar toda a ação ou omissão que viole algum dos deveres inerentes ao exercício da fé pública notarial ou os demais deveres dos notários previstos no presente Estatuto, no Estatuto da Ordem dos Notários, nos respetivos regulamentos, no Código do Notariado, na tabela de custos dos atos notariais e em quaisquer outras disposições reguladoras da atividade notarial.
+
+2 - As infrações disciplinares previstas no presente Estatuto e demais disposições legais e regulamentares aplicáveis são puníveis a título de dolo ou negligência.
+
+3 - A tentativa é punível com a sanção aplicável à infração consumada especialmente atenuada.
+
+4 - A infração disciplinar é:
+
+a) Leve, quando o arguido viole de forma pouco intensa os deveres profissionais a que se encontra adstrito no exercício da profissão;
+
+b) Grave, quando o arguido viole de forma séria os deveres profissionais a que se encontra adstrito no exercício da profissão;
+
+c) Muito grave, quando o arguido viole os deveres profissionais a que está adstrito no exercício da profissão, afetando com a sua conduta, de tal forma, a dignidade e o prestígio profissional, que fique definitivamente inviabilizado o exercício daquela.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 62.º — Jurisdição disciplinar
+
+1 - Os notários estão sujeitos ao poder disciplinar do membro do Governo responsável pela área da justiça e da Ordem dos Notários.
+
+2 - (Revogado.)
+
+3 - A suspensão ou o cancelamento da inscrição na Ordem dos Notários não faz cessar a responsabilidade disciplinar por infrações anteriormente praticadas pelo notário enquanto tal.
+
+4 - Durante o tempo de suspensão da inscrição o notário continua sujeito ao poder disciplinar do membro do Governo responsável pela área da justiça e da Ordem dos Notários.
+
+5 - A punição com a sanção de interdição definitiva do exercício da atividade profissional não faz cessar a responsabilidade disciplinar do notário relativamente às infrações por ele cometidas antes da decisão definitiva que tenha aplicado aquela sanção.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 63.º — Independência da responsabilidade disciplinar
+
+1 - A responsabilidade disciplinar é independente da responsabilidade civil ou criminal decorrente da prática do mesmo facto.
+
+2 - A responsabilidade disciplinar prevista no presente Estatuto coexiste com qualquer outra prevista por lei, sendo o processo disciplinar promovido independentemente de qualquer outro e nele se resolvendo todas as questões que interessarem à decisão da causa, sem prejuízo do disposto no número seguinte.
+
+3 - Quando, com fundamento nos mesmos factos, tiver sido instaurado processo criminal contra notário pode ser ordenada a suspensão do processo disciplinar quanto a esses factos, por prazo determinado, até que seja proferida decisão final.
+
+4 - A suspensão do processo disciplinar, nos termos do número anterior, é comunicada pela entidade responsável pela instrução do processo à autoridade judiciária competente, a qual deve ordenar a remessa à entidade responsável pela instrução do processo de cópia do despacho de acusação e, se a ele houver lugar, do despacho de pronúncia.
+
+5 - Decorrido o prazo fixado nos termos do n.º 9 do artigo seguinte sem que a questão tenha sido resolvida, a questão é decidida no processo disciplinar.
+
+6 - Sempre que, em processo penal contra notário, for designado dia para a audiência de julgamento, o tribunal deve ordenar a remessa à Ordem dos Notários e ao Conselho do Notariado, preferencialmente por via eletrónica, do despacho de acusação, do despacho de pronúncia e da contestação, se tiver sido apresentada, bem como quaisquer outros elementos solicitados pela direção ou pelo bastonário da Ordem dos Notários ou pelo Conselho do Notariado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 64.º — Prescrição do procedimento disciplinar
+
+1 - O procedimento disciplinar extingue-se, por efeito de prescrição, logo que sobre a prática da infração tiver decorrido o prazo de três anos, salvo o disposto no número seguinte.
+
+2 - Se a infração disciplinar constituir simultaneamente infração criminal para a qual a lei estabeleça prescrição sujeita a prazo mais longo, o procedimento disciplinar apenas prescreve após o decurso deste último prazo.
+
+3 - O prazo de prescrição do procedimento disciplinar corre desde o dia em que o facto se tiver consumado.
+
+4 - Para efeitos do disposto no número anterior o prazo de prescrição só corre:
+
+a) Nas infrações instantâneas, desde o momento da sua prática;
+
+b) Nas infrações continuadas, desde o dia da prática do último ato;
+
+c) Nas infrações permanentes, desde o dia em que cessar a consumação.
+
+5 - O procedimento disciplinar também prescreve se, desde o conhecimento da infração pela entidade com competência disciplinar ou desde a participação efetuada nos termos do n.º 1 do artigo seguinte, não se iniciar o processo disciplinar competente no prazo de um ano.
+
+6 - A prescrição é de conhecimento oficioso, podendo o arguido, no entanto, requerer a continuação do processo.
+
+7 - O prazo de prescrição do processo disciplinar interrompe-se com a notificação ao arguido:
+
+a) Da instauração do processo disciplinar;
+
+b) Da acusação.
+
+8 - Após cada período de interrupção começa a correr novo prazo de prescrição.
+
+9 - A prescrição do procedimento disciplinar tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal de prescrição acrescido de metade.
+
+10 - O prazo de prescrição do processo disciplinar suspende-se durante o tempo em que:
+
+a) O processo disciplinar estiver suspenso, a aguardar despacho de acusação ou de pronúncia em processo penal;
+
+b) O processo disciplinar estiver pendente, a partir da notificação da acusação nele proferida.
+
+11 - A suspensão do prazo de prescrição do procedimento disciplinar não pode ultrapassar o prazo máximo de 18 meses.
+
+12 - O prazo de prescrição volta a correr a partir do dia em que cessar a causa da suspensão.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção II — Do exercício da ação disciplinar
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 65.º — Exercício da ação disciplinar
+
+1 - Têm legitimidade para participar ao Conselho do Notariado ou à Ordem dos Notários factos suscetíveis de constituir infração disciplinar:
+
+a) Qualquer órgão da Ordem dos Notários;
+
+b) O Ministério Público;
+
+c) IRN, I. P.;
+
+d) Qualquer pessoa que tenha conhecimento que um notário praticou infração disciplinar.
+
+2 - Os tribunais e quaisquer outras autoridades devem dar conhecimento à Ordem dos Notários da prática, por notário, de factos suscetíveis de constituir infração disciplinar, a qual, quando entenda que, em virtude dos factos participados, o processo disciplinar deve ser instaurado pelo Conselho do Notariado, o comunica a esta entidade.
+
+3 - Sem prejuízo do disposto na lei de processo penal acerca do segredo de justiça, o Ministério Público e os órgãos de polícia criminal remetem à Ordem certidão das denúncias, participações ou queixas apresentadas contra notários e que possam consubstanciar factos suscetíveis de constituir infração disciplinar, as quais devem ser remetidas ao Conselho do Notariado quando o processo disciplinar deva ser instaurado por este.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 66.º — Desistência da participação
+
+1 - A desistência da participação disciplinar pelo participante extingue o processo disciplinar, salvo se a infração imputada afetar o prestígio da atividade notarial ou da Ordem dos Notários ou a dignidade do notário visado e, neste caso, este manifestar intenção de que o processo prossiga.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 67.º — Instauração do processo disciplinar
+
+1 - Qualquer órgão da Ordem dos Notários, oficiosamente ou tendo por base queixa, denúncia ou participação apresentada por pessoa devidamente identificada ou por entidade prevista no artigo 65.º, contendo factos suscetíveis de integrarem infração disciplinar do notário, comunica, de imediato, os factos ao órgão da Ordem dos Notários competente para a instauração de processo disciplinar.
+
+2 - Sem prejuízo do disposto no número seguinte, nos casos em que a queixa, denúncia ou participação seja dirigida ao Conselho do Notariado e este entenda que, em virtude dos factos participados, o processo disciplinar deve ser instaurado pela Ordem dos Notários, o Conselho do Notariado efetua a comunicação prevista no número anterior.
+
+3 - Quando o Conselho do Notariado ou a Ordem dos Notários conclua que a participação é infundada, dela dá conhecimento ao notário visado e são emitidas as certidões que o mesmo entenda necessárias para a tutela dos seus direitos e interesses legítimos.
+
+4 - O processo disciplinar contra o bastonário ou contra qualquer membro em efetividade de funções do conselho supervisor ou do conselho disciplinar só pode ser instaurado por deliberação da assembleia geral, aprovada por maioria absoluta, ou pelo Conselho do Notariado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 68.º — Legitimidade processual
+
+1 - As pessoas com interesse direto, pessoal e legítimo relativamente aos factos participados podem solicitar à entidade responsável pela instrução do processo a sua intervenção no mesmo, requerendo e alegando o que tiverem por conveniente.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 69.º — Direito subsidiário
+
+1 - Sem prejuízo do disposto no presente Estatuto, o processo disciplinar rege-se por regulamento disciplinar, sendo subsidiariamente aplicáveis as normas procedimentais previstas na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.
+
+2 - O regulamento disciplinar previsto no número anterior aplica-se aos processos instaurados e instruídos quer pelo Conselho do Notariado quer pela Ordem dos Notários, e é proposto pela Ordem dos Notários e aprovado pelo Conselho do Notariado.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção III — Das sanções disciplinares
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 70.º — Aplicação de sanções disciplinares
+
+1 - As sanções disciplinares são as seguintes:
+
+a) Advertência;
+
+b) Repreensão registada;
+
+c) Multa, de montante até ao valor da alçada da Relação, ou, no caso de pessoas coletivas ou equiparadas, até ao valor do triplo da alçada da Relação
+
+d) Suspensão do exercício profissional até ao máximo de cinco anos;
+
+e) Interdição definitiva do exercício da atividade profissional.
+
+2 - A aplicação das sanções previstas nas alíneas a) a c) do número anterior é da competência do Conselho do Notariado e da Ordem dos Notários.
+
+3 - Sem prejuízo do disposto no número seguinte, a aplicação das sanções previstas nas alíneas d) e e) do n.º 1 é da competência exclusiva do Conselho do Notariado.
+
+4 - A aplicação das sanções previstas nas alíneas d) e e) do n.º 1 é, no entanto, da competência da Ordem dos Notários nos casos em que, nos termos do n.º 10 do artigo 83.º, a Ordem dos Notários tenha competência exclusiva para instruir e decidir o processo disciplinar.
+
+5 - A sanção de advertência é aplicada a infrações leves no exercício da profissão e tem por finalidade evitar a repetição da conduta lesiva.
+
+6 - A sanção de repreensão registada consiste num juízo de reprovação pela infração cometida e é aplicável a infrações leves no exercício da profissão às quais, em razão da culpa do arguido, não caiba mera advertência.
+
+7 - A sanção de multa é fixada em quantia certa, em função da gravidade e das consequências da infração cometida e é aplicável a infrações graves.
+
+8 - A sanção de suspensão consiste no afastamento total do exercício da profissão durante o período de cumprimento da sanção e é aplicável quando, tendo em conta a natureza da profissão, a infração disciplinar seja grave, pondo em causa a integridade física das pessoas ou lesando de forma grave a honra ou o património alheios ou valores equivalentes.
+
+9 - A sanção de interdição definitiva do exercício da atividade profissional consiste no afastamento total do exercício da profissão, sem prejuízo de reabilitação e é aplicável a infrações muito graves, que afetem de tal forma a dignidade e o prestígio profissionais que inviabilizem definitivamente o exercício da atividade profissional em causa, pondo em causa a integridade física, a vida, ou lesando de forma muito grave a honra ou o património alheio ou valores equivalentes.
+
+10 - A aplicação de sanção mais grave que a de repreensão registada a notário que exerça algum cargo nos órgãos da Ordem dos Notários determina a imediata destituição desse cargo, sem dependência de deliberação da assembleia geral nesse sentido.
+
+11 - A tentativa é punível com a sanção aplicável à infração consumada, especialmente atenuada.
+
+12 - O produto das multas reverte a favor do Estado, nos casos em que a multa tenha sido aplicada pelo Conselho do Notariado, ou a favor do fundo de compensação previsto no Estatuto da Ordem dos Notários, nas proporções de 80 % e 20 %, respetivamente, nos casos em que a multa tenha sido aplicada pela Ordem.
+
+13 - Sempre que a infração resulte da violação de um dever por omissão, o cumprimento das sanções aplicadas não dispensa o infrator do cumprimento daquele, se tal ainda for possível.
+
+14 - A aplicação de sanção de interdição definitiva do exercício da atividade profissional determina o cancelamento automático da inscrição do arguido da Ordem dos Notários, no seguimento da receção da comunicação da aplicação daquela sanção.
+
+15 - A aplicação de sanção de suspensão do exercício da atividade profissional determina a suspensão da inscrição do arguido da Ordem dos Notários, no seguimento da receção da comunicação da aplicação daquela sanção.
+
+16 - As sanções são sempre registadas e produzem unicamente os efeitos declarados no presente Estatuto.
+
+17 - Cumulativamente ou não com qualquer das sanções previstas no presente Estatuto, pode ser imposta a restituição total ou parcial de honorários.
+
+18 - Independentemente da decisão final do processo, pode ser imposta a restituição de quantias ou documentos que hajam sido confiados ao notário.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 71.º — Graduação
+
+1 - Na determinação da medida das sanções deve atender-se aos antecedentes profissionais e disciplinares do arguido, ao grau de culpa, à gravidade e às consequências da infração, à situação económica do arguido e a todas as demais circunstâncias agravantes ou atenuantes.
+
+2 - São circunstâncias atenuantes:
+
+a) O exercício efetivo da profissão de notário por um período superior a cinco anos, seguidos ou interpolados, sem qualquer sanção disciplinar;
+
+b) A confissão espontânea da infração ou das infrações;
+
+c) A colaboração do arguido para a descoberta da verdade;
+
+d) A reparação dos danos causados pela conduta lesiva;
+
+e) Ter o arguido atuado sob influência de ameaça grave;
+
+f) Ter sido a conduta do arguido determinada por motivo honroso, por forte solicitação ou tentação do próprio utente;
+
+g) Ter havido atos demonstrativos de arrependimento sincero do arguido, nomeadamente a reparação, até onde lhe era possível, dos danos causados;
+
+h) Ter decorrido muito tempo sobre a prática da infração, mantendo o arguido boa conduta;
+
+i) A provocação.
+
+3 - São circunstâncias agravantes:
+
+a) A premeditação na prática da infração e na preparação da mesma;
+
+b) O conluio;
+
+c) A reincidência, considerando-se como tal a prática de infração antes de decorrido o prazo de cinco anos após o dia em que se tornar definitiva a condenação por cometimento de infração anterior;
+
+d) A acumulação de infrações, sempre que duas ou mais infrações sejam cometidas no mesmo momento ou quando outra seja cometida antes de ter sido punida a anterior;
+
+e) O facto de a infração ou infrações serem cometidas durante o cumprimento de sanção disciplinar ou no decurso do período de suspensão de sanção disciplinar;
+
+f) A produção de prejuízos de valor considerável, entendendo-se como tal sempre que exceda o valor de metade da alçada dos tribunais da Relação.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 72.º — Aplicação de sanções acessórias
+
+1 - Cumulativamente com a aplicação das sanções disciplinares, podem ser aplicadas, a título de sanções acessórias:
+
+a) Frequência obrigatória de ações de formação suplementares às ações de formação obrigatórias;
+
+b) Restituição de quantias, documentos ou objetos;
+
+c) Perda, total ou parcial, de honorários e do custeio de despesas;
+
+d) Perda do produto do benefício obtido pelo infrator.
+
+2 - As sanções acessórias podem ser cumuladas entre si.
+
+3 - Na aplicação das sanções acessórias deve atender-se aos critérios previstos no n.º 1 do artigo anterior.
+
+4 - O resultado da aplicação das sanções acessórias previstas nas alíneas c) e d) do n.º 1 considera-se perdido a favor do fundo de compensação da Ordem dos Notários.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 73.º — Unidade e acumulação de infrações
+
+Sem prejuízo da aplicação das sanções acessórias referidas no artigo anterior, não pode aplicar-se ao mesmo notário mais do que uma sanção disciplinar por cada facto punível.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 74.º — Suspensão da execução das sanções
+
+1 - Tendo em consideração o grau de culpa, o comportamento do arguido e as demais circunstâncias da prática da infração, as sanções disciplinares inferiores à interdição definitiva do exercício da atividade profissional podem ser suspensas na sua execução por um período compreendido entre um e cinco anos.
+
+2 - Cessa a suspensão da execução da sanção sempre que, relativamente ao notário punido, seja proferida decisão final de condenação em novo processo disciplinar.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 75.º — Aplicação das sanções de suspensão superior a dois anos e interdição definitiva do exercício da atividade profissional
+
+1 - A aplicação da sanção de suspensão superior a dois anos ou a de interdição definitiva do exercício da atividade profissional só pode ter lugar após audiência pública, nos termos previstos no regulamento disciplinar.
+
+2 - A sanção de suspensão por período superior a dois anos e a sanção de interdição definitiva do exercício da atividade profissional só podem ser aplicadas pela Ordem dos Notários nos termos do n.º 11 do artigo 83.º, por deliberação que reúna a maioria qualificada de dois terços dos membros do órgão disciplinarmente competente.
+
+3 - A sanção de interdição definitiva do exercício da atividade profissional só pode ser aplicada às infrações muito graves, não podendo ter origem no incumprimento pelo notário do dever de pagar quotas.
+
+4 - O incumprimento pelo notário do dever de pagar quotas e de contribuir para o fundo de compensação pode dar lugar à aplicação de sanção disciplinar de suspensão quando se apure que é culposo e se prolongue por período superior a 12 meses, cessando ou extinguindo-se a sanção quando ocorra o pagamento voluntário.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 76.º — Execução das sanções
+
+1 - Compete à direção da Ordem dos Notários e ao Conselho do Notariado, com a colaboração daquela e na medida do requerido, dar execução às decisões proferidas em sede de processo disciplinar, designadamente praticando os atos necessários à efetiva suspensão ou cancelamento da inscrição na Ordem dos Notários dos notários a quem sejam aplicadas as sanções de suspensão e de interdição definitiva de exercício da atividade profissional, respetivamente.
+
+2 - A aplicação de sanção de suspensão ou de interdição definitiva de exercício da atividade profissional implica a proibição temporária ou definitiva, respetivamente, da prática de qualquer ato profissional e a entrega da cédula profissional na sede da Ordem dos Notários ou na respetiva delegação regional em que o arguido tenha o seu domicílio profissional, nos casos aplicáveis.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 77.º — Início de produção de efeitos das sanções disciplinares
+
+1 - As sanções disciplinares iniciam a produção dos seus efeitos no dia seguinte àquele em que a decisão se torne definitiva.
+
+2 - Se, na data em que a decisão se tornar definitiva, estiver suspensa a inscrição do arguido, o cumprimento da sanção disciplinar de suspensão tem início no dia seguinte ao do levantamento da suspensão.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 78.º — Prazo para pagamento da multa
+
+1 - As multas aplicadas nos termos da alínea c) do n.º 1 do artigo 70.º devem ser pagas no prazo de 30 dias a contar do início de produção de efeitos da sanção respetiva.
+
+2 - Ao notário que não pague a multa no prazo referido no número anterior é suspensa a inscrição, mediante decisão do órgão disciplinarmente competente, a qual lhe é comunicada.
+
+3 - A suspensão só pode ser levantada após comprovado o pagamento da importância em dívida.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 79.º — Comunicação e publicidade
+
+1 - A aplicação das sanções referidas nas alíneas b) a e) do n.º 1 do artigo 70.º é comunicada pelo Conselho do Notariado ou pela direção da Ordem, consoante a sanção seja determinada pelo Conselho do Notariado ou pelo órgão competente da Ordem dos Notários, à sociedade de profissionais por conta da qual o arguido prestava serviços à data dos factos e, caso não seja a mesma, à sociedade de profissionais por conta da qual o arguido prestava serviços à data da condenação pela prática da infração disciplinar.
+
+2 - Quando a sanção aplicada for de suspensão efetiva ou de interdição definitiva de exercício da atividade profissional, é-lhe dada publicidade por meio de edital publicado no sítio da Internet da Ordem dos Notários e num dos jornais diários mais lidos de âmbito nacional, durante três dias seguidos, dele constando a identidade, o número da cédula profissional e o domicílio profissional do notário arguido, bem como as normas violadas e a sanção aplicada.
+
+3 - O edital referido no número anterior é enviado a todos os tribunais, conservatórias, cartórios notariais e repartições de finanças.
+
+4 - Se for decidida a suspensão preventiva ou aplicada sanção de suspensão ou de interdição definitiva de exercício da atividade profissional, a direção da Ordem dos Notários deve inserir a correspondente anotação nas listas permanentes de associados divulgada por meios informáticos.
+
+5 - As sanções disciplinares previstas nas alíneas a) a c) do n.º 1 do artigo 70.º e a suspensão preventiva prevista no artigo 86.º do presente Estatuto são publicitadas quando tal for determinado pela decisão que as aplique.
+
+6 - A publicidade das sanções disciplinares, da suspensão preventiva e das sanções acessórias é promovida pelo órgão disciplinarmente competente, sendo efetuada a expensas do infrator.
+
+7 - Sem prejuízo do disposto no número anterior, o Conselho do Notariado ou a Ordem dos Notários, consoante os casos, restitui o montante pago pelo arguido para dar publicidade à sua suspensão preventiva sempre que este não venha a ser condenado no âmbito do respetivo procedimento disciplinar.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 80.º — Prescrição das sanções disciplinares
+
+1 - As sanções disciplinares prescrevem nos seguintes prazos:
+
+a) As de advertência e repreensão registada, no prazo de dois anos;
+
+b) A de multa, no prazo de dois anos;
+
+c) A de suspensão do exercício da atividade profissional, no prazo de três anos;
+
+d) A de interdição definitiva de exercício da atividade profissional, no prazo de cinco anos.
+
+2 - O prazo de prescrição corre desde o dia seguinte àquele em que a decisão se torne definitiva.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 81.º — Princípio do cadastro na Ordem
+
+1 - O processo individual dos associados na Ordem dos Notários inclui um cadastro, do qual constam as sanções disciplinares referidas nas alíneas b) a e) do n.º 1 do artigo 70.º e as sanções acessórias que lhe tenham sido aplicadas.
+
+2 - O cadastro é gerido pela direção da Ordem dos Notários, com base nos elementos comunicados pelos órgãos disciplinares da Ordem e pelo Conselho do Notariado.
+
+3 - A condenação de um notário em processo penal é comunicada à Ordem dos Notários para efeito de averbamento ao respetivo cadastro.
+
+4 - As sanções referidas nas alíneas b) e c) do n.º 1 do artigo 70.º são eliminadas do cadastro após o decurso do prazo de cinco anos a contar do seu cumprimento.2 - No caso de concluir pelo arquivamento do processo ou por que este fique a aguardar a produção de melhor prova, deve elaborar relatório fundamentado, propondo que se arquive.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção IV — Do processo
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 82.º — Obrigatoriedade do processo disciplinar
+
+1 - A aplicação de uma sanção disciplinar é sempre precedida do apuramento dos factos e da responsabilidade disciplinar em processo próprio, nos termos previstos no presente Estatuto e no regulamento disciplinar.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 83.º — Instauração, instrução e decisão do processo
+
+1 - São competentes para a instauração e instrução de processo de inquérito ou de processo disciplinar o Conselho do Notariado e a Ordem dos Notários, através do órgão competente para o efeito nos termos do Estatuto da Ordem dos Notários.
+
+2 - Sempre que qualquer das entidades referidas no número anterior proceda à instauração de novo processo deve notificar à outra entidade essa instauração, incluindo os eventuais factos que a justificaram.
+
+3 - Sempre que o processo disciplinar for instaurado pela Ordem dos Notários, o Conselho do Notariado deve, no prazo de 15 dias a contar da notificação efetuada nos termos do número anterior, comunicar se pretende que o processo lhe seja remetido para que seja instruído por instrutor por si nomeado.
+
+4 - Caso o Conselho do Notariado informe não pretender que o processo lhe seja remetido para instrução, ou não responda no prazo fixado, o órgão competente da Ordem dos Notários deve proceder à nomeação do instrutor do processo.
+
+5 - Sempre que, no âmbito de um processo que esteja a ser instruído por instrutor nomeado pela Ordem dos Notários este tiver conhecimento de factos suscetíveis de consubstanciarem novas infrações, deve dar imediato conhecimento dos mesmos ao Conselho do Notariado.
+
+6 - Efetuada a notificação prevista no número anterior, o Conselho do Notariado pode, no prazo de 15 dias, solicitar a remessa do processo disciplinar, passando esse processo a ser instruído por instrutor nomeado pelo Conselho do Notariado.
+
+7 - Recebida a comunicação prevista no n.º 5 e com vista a informar a tomada de decisão a que alude o número anterior, o Conselho do Notariado pode solicitar ao instrutor nomeado pela Ordem dos Notários a realização de qualquer diligência instrutória.
+
+8 - Concluída a instrução do processo por instrutor nomeado pela Ordem dos Notários, e caso este proponha, no relatório final, a aplicação de sanção que, nos termos do n.º 3 do artigo 70.º, só possa ser aplicada pelo Conselho do Notariado, é o processo remetido a esta entidade.
+
+9 - Nos casos em que o instrutor proponha, no relatório final, a aplicação de alguma das sanções previstas nas alíneas a) a c) do n.º 1 do artigo 70.º ou o arquivamento dos autos, é o processo remetido à entidade que o instaurou, para que seja proferida decisão.
+
+10 - O disposto nos números anteriores não é aplicável aos processos disciplinares na parte em que estejam em causa a violação de deveres dos notários exclusivamente para com a Ordem dos Notários, nos termos do respetivo Estatuto, competindo nesses casos exclusivamente à Ordem dos Notários a instauração, instrução e decisão do processo disciplinar.
+
+11 - Nos casos previstos no número anterior, a Ordem dos Notários pode proceder à aplicação das sanções previstas nas alíneas d) e e) do n.º 1 do artigo 70.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 84.º — Formas do processo
+
+1 - A ação disciplinar comporta as seguintes formas:
+
+a) Processo de inquérito;
+
+b) Processo disciplinar.
+
+2 - O processo de inquérito é aplicável quando não seja possível identificar claramente a existência de uma infração disciplinar ou o respetivo infrator, impondo-se a realização de diligências sumárias para o esclarecimento ou a concretização dos factos em causa.
+
+3 - Aplica-se o processo disciplinar sempre que existam indícios de que determinado associado praticou factos devidamente concretizados, suscetíveis de constituir infração disciplinar.
+
+4 - Depois de averiguada a identidade do infrator, ou, logo que se mostrem minimamente concretizados ou esclarecidos os factos participados, sendo eles suscetíveis de constituir infração disciplinar, é proposta a imediata conversão do processo de inquérito em processo disciplinar, mediante parecer sucintamente fundamentado.
+
+5 - Quando a participação seja manifestamente inviável ou infundada, deve a mesma ser liminarmente arquivada, dando-se cumprimento ao disposto no n.º 3 do artigo 67.º
+
+6 - Se da análise da conduta de um associado realizada no âmbito do processo de inquérito resultar prova bastante da prática de infração disciplinar abstratamente punível com sanção de advertência ou de repreensão registada, o órgão disciplinar que nomeou o instrutor pode determinar a suspensão provisória do processo mediante a imposição ao arguido de regras de conduta ou do pagamento de uma determinada quantia, a título de caução, sempre que se verifiquem os seguintes pressupostos:
+
+a) Ausência de aplicação anterior de suspensão provisória do processo pelo mesmo tipo de infração;
+
+b) Ausência de um grau de culpa elevado.
+
+7 - No caso previsto no número anterior são aplicáveis ao arguido as seguintes medidas:
+
+a) Pagamento, no prazo de 10 dias úteis, de uma quantia entre 1 a 5 UC, no caso de pessoas singulares, ou entre 2 e 8 UC, no caso de pessoas coletivas ou equiparadas;
+
+b) Implementação de um plano de reestruturação da sua atividade, nos termos e prazo que forem definidos;
+
+c) Frequência de ações de formação, nos termos e prazo que forem definidos.
+
+8 - O incumprimento das medidas determinadas, a que se refere o número anterior, implica a continuação do processo disciplinar suspenso provisoriamente nos termos dos n.os 6 e 7.
+
+9 - Se o infrator cumprir as medidas determinadas, o processo é arquivado e são-lhe devolvidas as quantias pagas.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 84.º-A — Tramitação do processo
+
+1 - Na instrução do processo deve o relator procurar atingir a verdade material, removendo todos os obstáculos ao seu regular e rápido andamento e recusando, fundamentadamente, tudo o que for impertinente, inútil ou dilatório.
+
+2 - A forma dos atos, quando não esteja expressamente regulada, deve ajustar-se ao fim em vista e limitar-se ao indispensável para o alcançar.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 85.º — Exercício do direito de defesa
+
+1 - Se o arguido estiver impossibilitado de organizar a sua defesa por motivo de doença ou incapacidade física devidamente comprovadas, pode nomear um representante especialmente mandatado para esse efeito.
+
+2 - No caso de o arguido não poder exercer o direito referido no número anterior, o instrutor deve nomear-lhe imediatamente um tutor, preferindo a pessoa a quem competiria a tutela no caso de interdição, nos termos da lei civil.
+
+3 - A nomeação referida no número anterior é restrita ao processo disciplinar, podendo o representante usar de todos os meios de defesa facultados ao arguido.
+
+4 - O incidente de incapacidade mental pode ser suscitado pelo instrutor, pelo próprio ou por qualquer familiar deste.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 86.º — Apresentação da defesa
+
+1 - A defesa deve expor clara e concisamente os factos e as razões que a fundamentam.
+
+2 - Com a defesa deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer quaisquer diligências, que podem ser recusadas, quando manifestamente impertinentes ou desnecessárias para o argumento dos factos.
+
+3 - O arguido deve indicar os factos sobre os quais incidirá a prova, sendo convidado a fazê-lo, sob pena de indeferimento, na falta de indicação.
+
+4 - Não podem ser indicadas mais de 5 testemunhas por cada facto e o seu total não pode exceder o número de 20, sem prejuízo do disposto no artigo seguinte.
+
+5 - A falta de resposta dentro do prazo marcado vale como efectiva audiência do arguido.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 87.º — Realização de novas diligências
+
+1 - O instrutor pode ordenar a realização de novas diligências que considere necessárias para o apuramento da verdade.
+
+2 - Realizadas as diligências a que se refere o número anterior, o arguido tem o direito de ser ouvido no procedimento antes de ser tomada a decisão final, devendo fixar-se-lhe para o efeito um prazo não inferior a 10 dias.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+#### Secção V — Das garantias
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 88.º — Decisões recorríveis
+
+1 - As decisões tomadas em matéria disciplinar são impugnáveis nos termos do Código de Processo nos Tribunais Administrativos.
+
+2 - As decisões de mero expediente ou referentes à disciplina dos trabalhos não são passíveis de impugnação nos termos do número anterior.
+
+3 - Sem prejuízo do disposto nos números anteriores, têm legitimidade para recorrer jurisdicionalmente das decisões tomadas em matéria disciplinar pelo órgão disciplinar da Ordem dos Notários:
+
+a) A direção da Ordem;
+
+b) O provedor dos destinatários dos serviços;
+
+c) O Ministério Público;
+
+d) Qualquer pessoa direta ou indiretamente afetada pelos factos suscetíveis de constituir infração disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 89.º — Revisão
+
+1 - É admissível a revisão de decisão definitiva proferida pela entidade com competência disciplinar sempre que:
+
+a) Uma decisão judicial transitada em julgado declarar falsos quaisquer elementos ou meios de prova que tenham sido determinantes para a decisão revidenda;
+
+b) Uma decisão judicial transitada em julgado tiver dado como provado crime cometido por membro ou membros do órgão que proferiu a decisão revidenda e relacionado com o exercício das suas funções no processo;
+
+c) Os factos que serviram de fundamento à decisão condenatória forem inconciliáveis com os que forem dados como provados noutra decisão definitiva e da oposição resultarem graves dúvidas sobre a justiça da condenação;
+
+d) Se tenham descoberto novos factos ou meios de prova que, por si ou cominados com os que foram apreciados no processo, suscitem graves dúvidas sobre a justiça da decisão condenatória proferida.
+
+2 - A simples alegação de ilegalidade, formal ou substancial, do processo e decisão disciplinares não constitui fundamento para a revisão.
+
+3 - A revisão é admissível ainda que o processo se encontre extinto ou a sanção prescrita ou cumprida.
+
+4 - O exercício do direito de revisão é regulado pelas disposições aplicáveis do regulamento disciplinar.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 90.º — Reabilitação
+
+1 - No caso de aplicação de sanção de interdição definitiva do exercício da atividade profissional, o notário pode ser reabilitado, mediante requerimento devidamente fundamentado para a entidade que proferiu a decisão e desde que se preencham cumulativamente os seguintes requisitos:
+
+a) Tenham decorrido mais de cinco anos desde que a decisão que aplicou a sanção se tornou irrecorrível;
+
+b) O reabilitando tenha revelado boa conduta, podendo, para o demonstrar, utilizar quaisquer meios de prova legalmente admissíveis.
+
+2 - Caso seja deferida a reabilitação, o notário reabilitado recupera plenamente os seus direitos e é dada a publicidade devida, nos termos dos n.os 2 a 6 do artigo 79.º, com as necessárias adaptações.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 91.º — Notificação
+
+1 - A decisão é comunicada ao arguido, observando-se o disposto no artigo 82.º
+
+2 - Na data em que se fizer a notificação ao arguido será igualmente notificado o instrutor, o presidente da direcção da Ordem dos Notários e também o participante, desde que este o tenha requerido.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 92.º — Prazo para decisão
+
+1 - O processo disciplinar deve ser instruído e apresentado para decisão no prazo de seis meses contados da data da notificação ao instrutor do despacho que o mandou instaurar.
+
+2 - Este prazo pode ser prorrogado até 90 dias, em casos de excepcional complexidade, por despacho fundamentado da entidade que tiver instaurado o processo.
+
+3 - Não sendo cumpridos os prazos constantes deste artigo, é o processo redistribuído a outro instrutor nos mesmos termos e condições, devendo os factos ser comunicados à entidade competente para efeito de procedimento disciplinar, a instaurar contra o instrutor faltoso.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 93.º — Garantias impugnatórias
+
+As decisões proferidas no processo disciplinar são susceptíveis de reclamação e de recurso hierárquico, nos termos previstos neste Estatuto e também das disposições aplicáveis do Código do Procedimento Administrativo.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 94.º — Garantias jurisdicionais
+
+Das decisões do Ministro da Justiça e do Conselho do Notariado que apliquem sanções disciplinares cabe impugnação junto dos tribunais administrativos nos termos gerais.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 95.º — Processo de inquérito
+
+1 - O Ministro da Justiça ou o Conselho do Notariado podem ordenar inquéritos sempre que não esteja concretizada a infracção ou não seja conhecido o infractor e ainda quando se torne necessário proceder a averiguações destinadas ao esclarecimento dos factos.
+
+2 - O processo de inquérito regula-se pelas normas aplicáveis ao processo disciplinar em tudo o que não esteja especialmente previsto.
+
+3 - Finda a instrução do processo, que deve estar concluída no prazo máximo de 90 dias, o instrutor emite um parecer fundamentado, em que propõe o prosseguimento do processo como disciplinar ou o seu arquivamento, consoante considere que existem ou não indícios suficientes da prática de infracção disciplinar.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 96.º — Requisitos da revisão
+
+1 - A revisão dos processos disciplinares é admitida a todo o tempo, quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inexistência dos factos que determinaram a condenação e que não pudessem ter sido utilizados pelo arguido no processo disciplinar.
+
+2 - A revisão pode conduzir à revogação ou alteração da decisão proferida no processo revisto, não podendo em caso algum ser agravada a pena.
+
+3 - A pendência de recurso hierárquico ou impugnação junto dos tribunais administrativos não prejudica o requerimento da revisão do processo disciplinar.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 97.º — Legitimidade
+
+1 - O interessado na revisão de um processo disciplinar ou, nos casos previstos no n.º 1 do artigo 85.º, o seu representante apresentam requerimento nesse sentido ao Ministro da Justiça.
+
+2 - O requerimento deve indicar as circunstâncias ou meios de prova não considerados no processo disciplinar que ao requerente parecem justificar a revisão e será instruído com os documentos indispensáveis.
+
+3 - A simples alegação de ilegalidade, de forma ou de fundo, do processo da decisão disciplinar não constitui fundamento para a revisão.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 98.º — Decisão
+
+1 - Recebido o requerimento é proferida decisão concedendo ou não a revisão do processo.
+
+2 - Da decisão que não conceder a revisão cabe impugnação junto dos tribunais administrativos.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 99.º — Trâmites
+
+Apresentado o pedido de revisão, este é apensado ao processo disciplinar, nomeando-se instrutor diferente do primeiro que marcará ao interessado prazo não inferior a 10 nem superior a 20 dias para responder por escrito aos artigos de acusação constantes do processo a rever, seguindo-se os termos dos artigos 82.º e 85.º e seguintes.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 100.º — Efeito sobre o cumprimento da pena
+
+A revisão do processo não suspende o cumprimento da pena.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 101.º — Efeitos da revisão procedente
+
+1 - No caso de procedência da revisão, será revogada ou alterada a decisão proferida no processo revisto.
+
+2 - A revogação produz os seguintes efeitos:
+
+a) Cancelamento do averbamento da decisão punitiva;
+
+b) Anulação dos efeitos da pena.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 102.º — Direitos do arguido
+
+Em casos de revogação ou alteração da pena de interdição definitiva do exercício da actividade, se a titularidade da licença tiver sido transmitida por força das disposições legais que regulam a atribuição de licenças para o exercício da actividade notarial, o arguido tem direito a requerer a atribuição, sem sujeição a concurso, de uma licença de instalação de cartório notarial no mesmo município onde era titular aquando da aplicação da pena caso houver concurso aberto para esse efeito na data da revogação ou alteração da pena ou, no caso de o não haver, a requerer a atribuição da primeira licença de cartório que seja posta a concurso imediatamente a seguir à referida data.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 103.º — Produção de efeitos das penas
+
+A pena começa a produzir os seus efeitos legais no dia seguinte ao da notificação ao arguido da decisão punitiva ou, não podendo este ser notificado, 15 dias após a publicação de aviso nos termos do n.º 3 do artigo 82.º
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 104.º — Destino das multas
+
+1 - As multas aplicadas nos termos do presente diploma constituem receita do fundo de compensação, previsto no Estatuto da Ordem dos Notários.
+
+2 - Se o arguido condenado em multa não a pagar no prazo de 30 dias contadas da data da notificação, a importância respectiva será cobrada em processo de execução, a requerer pelo Ministério Público, com base em certidão da decisão punitiva, que para o efeito lhe será remetida.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+###### Artigo 105.º — Direito subsidiário
+
+Na falta de previsão do presente Estatuto, aplicam-se subsidiariamente ao procedimento disciplinar as regras do Código do Procedimento Administrativo e do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local e as normas gerais de direito penal e processual penal.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+### Capítulo XI — Regime transitório
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2011 - Diário da República n.º 17/2011, Série I de 2011-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947), em vigor a partir de 2011-01-30
+
+#### Secção I — Período de transição
+
+###### Artigo 106.º — Duração
+
+1 - A transição do actual para o novo regime do notariado deve operar-se num período de dois anos contados da data de entrada em vigor do presente Estatuto.
+
+2 - Durante o período de transição deve proceder-se ao processo de transformação dos actuais cartórios, à abertura de concursos para atribuição de licenças, à resolução das situações funcionais dos notários e dos oficiais que deixem de exercer funções no notariado e demais operações jurídicas e materiais necessárias à transição.
+
+#### Secção II — Dos notários
+
+###### Artigo 107.º — Regime
+
+1 - É reconhecida aos actuais notários a possibilidade de optarem por uma das seguintes situações:
+
+a) Transição para o novo regime do notariado;
+
+b) Integração em serviço da Direcção-Geral dos Registos e do Notariado.
+
+2 - A opção referida na alínea a) do número anterior é feita mediante requerimento de admissão ao concurso para a atribuição de licença dirigido ao Ministro da Justiça e entregue na Direcção-Geral dos Registos e do Notariado, no prazo de 30 dias a contar da abertura do concurso previsto no artigo 123.º deste diploma.
+
+3 - Da ausência de entrega do requerimento presume-se, após o decurso do período referido no número anterior, que o notário faz a opção referida na alínea b) do n.º 1.
+
+4 - É reconhecido aos notários que optarem pelo novo regime de notariado, previsto na alínea a) do n.º 1, o benefício de uma licença sem vencimento com a duração máxima de cinco anos contados da data de início de funções.
+
+5 - O notário beneficiário da licença prevista no número anterior pode requerer a todo o tempo o regresso ao serviço na Direcção-Geral dos Registos e do Notariado para lugar no quadro paralelo criado nos termos do n.º 1 do artigo 109.º deste diploma.
+
+6 - O notário que, ao abrigo do número precedente, requeira o regresso ao serviço fica inibido de novamente se habilitar a concurso para atribuição de licença de instalação de cartório notarial.
+
+> Nota: [Artigo 28.º, Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662) concede aos notários e oficiais do notariado que o requeiram a possibilidade de prorrogação, por mais um ano, da duração máxima da licença de que beneficiam, ao abrigo do n.º 4 do presente artigo, nos casos em que esta caduque em 2022.
+
+> Nota: [Artigo 161.º, Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990) prorroga, até ao período de três anos, a duração máxima da licença reconhecida aos notários e aos oficiais do notariado que, ao abrigo do disposto no n.º 4 do presente artigo e no n.º 2 do artigo 108.º do presente decreto-lei, exerçam tal direito no ano em curso e nos dois anos subsequentes, sendo este regime aplicável e de efeitos retroactivos a 15 de Fevereiro de 2010.
+
+#### Secção III — Dos oficiais do notariado
+
+###### Artigo 108.º — Regime
+
+1 - Os oficiais do notariado abrangidos pelo processo de transformação são integrados em serviço da Direcção-Geral dos Registos e do Notariado, nos termos do artigo seguinte.
+
+2 - É reconhecido aos oficiais a possibilidade de transitarem para o novo regime de notariado, desde que obtido o acordo de um notário, podendo beneficiar, neste caso, de uma licença sem vencimento com a duração máxima de cinco anos contados da data do respectivo início de funções.
+
+3 - A licença referida no número anterior será requerida pelo interessado e autorizada por despacho do Ministro da Justiça.
+
+4 - Os oficiais em gozo de licença referida neste artigo podem a todo o tempo regressar ao serviço, no âmbito da Direcção-Geral dos Registos e do Notariado, para lugar do quadro paralelo criado nos termos do n.º 1 do artigo seguinte.
+
+> Nota: [Artigo 28.º, Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662) concede aos notários e oficiais do notariado que o requeiram a possibilidade de prorrogação, por mais um ano, da duração máxima da licença de que beneficiam, ao abrigo do n.º 2 do presente artigo, nos casos em que esta caduque em 2022.
+
+> Nota: [Artigo 161.º, Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990) prorroga, até ao período de três anos, a duração máxima da licença reconhecida aos notários e aos oficiais do notariado que, ao abrigo do disposto no n.º 4 do artigo 107.º e no n.º 2 do presente artigo, exerçam tal direito no ano em curso e nos dois anos subsequentes, sendo este regime aplicável e de efeitos retroactivos a 15 de Fevereiro de 2010.
+
+#### Secção IV — Quadros de pessoal paralelos
+
+###### Artigo 109.º — Regime
+
+1 - Na data de entrada em vigor do presente diploma são criados, por município, quadros de pessoal paralelos com o número de lugares correspondente ao número dos funcionários dos cartórios notariais abrangidos pelo presente diploma e a extinguir quando vagarem.
+
+2 - Os notários e os oficiais que prestam serviço nos cartórios notariais abrangidos pelo presente diploma são integrados no quadro de pessoal paralelo do município onde prestam serviço, com manutenção do direito à sua categoria funcional.
+
+3 - Os notários e os oficiais mantêm-se a prestar serviço no mesmo cartório até à tomada de posse do notário que iniciar funções nos termos previstos no presente diploma.
+
+4 - A afectação do pessoal referido no n.º 2 do presente artigo aos serviços externos dos registos localizados na área do respectivo município processa-se por despacho do director-geral dos Registos e do Notariado em lugar de categoria funcional equivalente e de acordo com as regras estabelecidas na lei orgânica dos serviços e nos regulamentos dos registos e do notariado, aplicáveis com as necessárias adaptações.
+
+5 - A afectação referida no número anterior pode fazer-se para qualquer outro município, a requerimento do interessado e por conveniência dos serviços.
+
+###### Artigo 110.º — Dos notários
+
+1 - (Revogado).
+
+2 - A integração dos notários nos serviços externos dos registos faz-se para lugares vagos ou, se tal se mostrar necessário, em lugares de segundo-conservador, a extinguir quando vagar, de categoria funcional equivalente e de acordo com as regras estabelecidas na lei orgânica dos serviços e nos regulamentos dos registos e do notariado, aplicáveis com as necessárias adaptações.
+
+> Nota: [Artigo 15.º, Decreto-Lei n.º 145/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2019-124917021) ressalva os efeitos remuneratórios que decorrem das normas em vigor à data da abertura dos procedimentos concursais para ocupação de postos de trabalho de conservador e oficial de registo.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 145/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2019-124917021), produz efeitos a partir de 2020-01-01
+
+###### Artigo 111.º — Dos ajudantes
+
+1 - (Revogado).
+
+2 - A Direcção-Geral dos Registos e do Notariado fica obrigada a promover a realização de acções de formação específica de modo a possibilitar a integração dos ajudantes, tendo em vista a obtenção de habilitação adequada e certificada para o exercício de funções na carreira de ajudante dos registos.
+
+3 - Os ajudantes do notariado que no período de três anos após a afectação não frequentem acções de formação promovidas pela Direcção-Geral dos Registos e do Notariado ficam inibidos de se apresentar a concurso de promoção no âmbito da Direcção-Geral.
+
+4 - O referido no número anterior é igualmente aplicável aos ajudantes que, tendo beneficiado da licença prevista no n.º 2 do artigo 108.º, regressem aos serviços da Direcção-Geral dos Registos e do Notariado.
+
+> Nota: [Artigo 15.º, Decreto-Lei n.º 145/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2019-124917021) ressalva os efeitos remuneratórios que decorrem das normas em vigor à data da abertura dos procedimentos concursais para ocupação de postos de trabalho de conservador e oficial de registo.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 145/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2019-124917021), produz efeitos a partir de 2020-01-01
+
+###### Artigo 112.º — Dos escriturários
+
+1 - A afectação dos escriturários prevista no n.º 4 do artigo 109.º aos serviços externos dos registos provoca o alargamento automático do quadro de pessoal do serviço correspondente, considerando-se o escriturário nele integrado sem perda da antiguidade aferida à data da integração.
+
+2 - A Direcção-Geral dos Registos e do Notariado diligenciará a realização de acções de formação de modo a possibilitar uma adequada integração dos escriturários.
+
+#### Secção V — Protecção social
+
+###### Artigo 113.º — Regime dos notários
+
+1 - Os notários que transitem do actual para o novo regime de notariado mantêm a sua inscrição na Caixa Geral de Aposentações e continuam a ser beneficiários dos Serviços Sociais do Ministério da Justiça, salvo se optarem pelo regime da segurança social dos trabalhadores independentes, sendo, neste caso, eliminada a sua inscrição nestas instituições.
+
+2 - Mantendo-se a inscrição na Caixa Geral de Aposentações nos termos do número anterior, a remuneração relevante para efeitos de desconto de quotas não pode ser inferior à correspondente média mensal das remunerações percebidas no ano imediatamente anterior à data da transição para o novo regime e a pensão de aposentação determina-se pela média mensal das remunerações sujeitas a desconto de quotas auferidas nos últimos três anos, com exclusão dos subsídios de férias e de Natal ou prestações equivalentes, com o limite estabelecido no n.º 5 do artigo 47.º do Estatuto da Aposentação.
+
+3 - No caso referido no número anterior, os notários pagam as suas quotas à Caixa Geral de Aposentações no prazo fixado no n.º 1 do artigo 8.º do Estatuto da Aposentação e no n.º 1 do artigo 17.º do Estatuto das Pensões de Sobrevivência.
+
+4 - Os notários que se mantenham na situação prevista na parte inicial do n.º 1 do presente artigo pagam à Caixa Geral de Aposentações, para além da quota prevista no n.º 2, uma contribuição de igual montante para financiamento desta Caixa.
+
+5 - Os notários que se aposentem ao abrigo do Estatuto da Aposentação continuam a descontar nos termos dos números anteriores para a Caixa Geral de Aposentações, enquanto não cessarem a actividade nos termos previstos no artigo 41.º do presente Estatuto.
+
+6 - Em caso de opção pelo regime de segurança social dos trabalhadores independentes, o tempo de serviço prestado até à data de cancelamento da inscrição na Caixa Geral de Aposentações é considerado pela segurança social para o cálculo da pensão unificada regulada pelo Decreto-Lei n.º 361/98, de 18 de Novembro.
+
+7 - O regime de protecção definido nos números anteriores é igualmente aplicável aos conservadores dos registos que, durante o período transitório, venham a exercer actividade notarial ao abrigo do presente Estatuto.
+
+###### Artigo 114.º — Regime dos oficiais do notariado
+
+1 - Os oficiais do notariado que ao transitarem do actual para o novo regime do notariado requeiram licença sem vencimento prevista no n.º 2 do artigo 108.º e se encontrem inscritos na Caixa Geral de Aposentações podem optar, enquanto durar aquela licença, pela manutenção da sua inscrição naquela Caixa e pela continuação da situação de beneficiários dos Serviços Sociais do Ministério da Justiça, salvo se optarem pelo regime de segurança social dos trabalhadores por conta de outrem.
+
+2 - Mantendo-se a inscrição na Caixa Geral de Aposentações nos termos do número anterior, a remuneração a considerar na base de cálculo das quotas e pensões dos oficiais é a correspondente à média mensal das remunerações percebidas no ano imediatamente antecedente à data da transição, actualizada na proporção do aumento das remunerações da função pública.
+
+3 - No termo do prazo da licença sem vencimento a que se refere o n.º 1 do presente artigo, e optando os oficiais pela transição definitiva para novo regime do notariado, podem os mesmos manter a sua inscrição na Caixa Geral de Aposentações, continuando beneficiários dos Serviços Sociais do Ministério da Justiça.
+
+4 - Os notários entregam mensalmente à Caixa Geral de Aposentações as quotas devidas pelo pessoal ao seu serviço inscrito nesta Caixa, acrescidas de uma contribuição de igual montante.
+
+###### Artigo 115.º — Encargos com pensões
+
+O Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça suporta os encargos com as pensões já atribuídas ou a atribuir que, nos termos da legislação aplicável, sejam da sua responsabilidade.
+
+#### Secção VI — Licença e processo de transformação dos cartórios
+
+###### Artigo 116.º — Âmbito
+
+São objecto do processo de transformação os cartórios notariais actualmente instalados e abrangidos pelo presente diploma.
+
+###### Artigo 117.º — Início
+
+O processo de transformação inicia-se com a atribuição ao notário de licença de instalação de cartório notarial.
+
+###### Artigo 118.º — Operações de transformação
+
+O processo de transformação envolve todas as operações jurídicas e materiais necessárias à transmissão dos meios postos ao serviço dos actuais cartórios, bem como a transferência do respectivo acervo documental.
+
+###### Artigo 119.º — Duração
+
+1 - O prazo máximo do processo de transformação é de 90 dias contados da data da atribuição da licença.
+
+2 - Excepcionalmente, o prazo referido no número anterior poderá ser alargado a pedido do notário.
+
+3 - Dentro do prazo referido no n.º 1 deve o notário comunicar à Direcção-Geral dos Registos e do Notariado a sede do cartório onde se propõe exercer funções e a identificação dos funcionários que transitem para o novo regime de notariado.
+
+###### Artigo 120.º — Das instalações
+
+1 - Os notários titulares de cartórios notariais que por obtenção de licença ao abrigo do presente Estatuto se encontrem sediados em instalações do Estado ou de outras entidades públicas, bem como em instalações arrendadas ao Estado ou outras entidades públicas, devem deixá-las livres e devolutas no prazo máximo de 60 dias, salvo acordo em contrário com o notário.
+
+2 - No caso dos espaços arrendados, o Ministério da Justiça providencia, caso se justifique, pela manutenção do arrendamento a favor do Estado ou outras entidades públicas, ou pela cessação do mesmo em caso contrário.
+
+###### Artigo 121.º — Arquivo e equipamentos
+
+1 - O acervo documental existente no cartório notarial abrangido pelo processo de transformação é transferido para o notário que suceda na titularidade do mesmo.
+
+2 - O mobiliário e equipamento dos actuais cartórios que sejam propriedade do Estado são transferidos para o notário que suceda na titularidade do mesmo, se o desejar, pelo seu valor de avaliação, com dedução do valor de depreciação, servindo de título bastante à transmissão o disposto no presente artigo.
+
+3 - No dia imediato à tomada de posse, o notário procede ao inventário do cartório de que passe a ser titular, constituindo-se fiel depositário dos livros e documentos existentes.
+
+4 - No acto de inventário estará presente, para além do notário titular, o director-geral dos Registos e do Notariado, ou quem por este for designado, e o anterior notário ou o respectivo substituto.
+
+###### Artigo 121.º-A — Acervo documental público
+
+O acervo documental a que se refere o n.º 1 do artigo anterior respeita aos livros e documentos de natureza notarial, não abrangendo os documentos atinentes à gestão de recursos humanos nem os documentos contabilísticos, que continuam a integrar o arquivo do IRN, I. P.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+#### Secção VII — Posse
+
+###### Artigo 122.º — Início de funções
+
+O notário inicia funções após tomada de posse, que tem lugar no prazo máximo de 15 dias a contar da conclusão do processo de transformação.
+
+#### Secção VIII — Disposições finais
+
+###### Artigo 123.º — Primeiro concurso
+
+1 - É reconhecido o direito de se apresentarem ao primeiro concurso para atribuição de licença de instalação de cartório notarial aos notários, aos conservadores dos registos, aos adjuntos de conservador e de notário e aos auditores dos registos e do notariado.
+
+2 - O concurso é documental e, na graduação dos concorrentes, deve ter-se em conta a classificação de serviço, a antiguidade no notariado, o currículo do interessado e, no caso dos auditores, a classificação obtida no procedimento de ingresso.
+
+3 - A graduação é numérica e deve resultar da ponderação atribuída aos critérios referidos no número anterior.
+
+4 - O notário que concorra ao lugar de que é titular à data de abertura do concurso goza de preferência absoluta na atribuição da respectiva licença.
+
+###### Artigo 124.º — Concursos subsequentes
+
+Concluído o concurso referido no artigo anterior, o Ministério da Justiça, durante o período transitório, deve abrir novos concursos para atribuição de licenças de instalação de cartórios notariais, de acordo com o número de lugares vagos e respectiva localização geográfica previstos no mapa notarial anexo ao presente Estatuto.
+
+###### Artigo 125.º — Formação e estágio
+
+1 - Tendo em vista a implementação da presente reforma, o Ministério da Justiça promove a realização de cursos de formação de notariado, incluindo estágio, para licenciados em Direito, a decorrer em instituições universitárias e cartórios notariais, com o objectivo de habilitar os formandos com o título de notário.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 69/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/69-2023-225397115), em vigor a partir de 2024-03-01
+
+###### Artigo 126.º — Aplicação aos actuais notários
+
+1 - O presente Estatuto aplica-se aos notários que iniciem funções no âmbito do mesmo.
+
+2 - Os notários que, durante o período transitório, continuem a exercer a respectiva função permanecem sujeitos à disciplina orgânica dos serviços dos Registos e do Notariado estabelecida no Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, e ao estabelecido no Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, bem como a todas as demais disposições legais que presentemente lhes são aplicáveis.
+
+###### Artigo 127.º — Notários privativos e cartório de competência especializada
+
+Os notários privativos e cartórios de competência especializada são regidos por diploma próprio.
+
+###### Artigo 128.º — Competências atribuídas aos órgãos da Ordem dos Notários
+
+Até à tomada de posse dos membros eleitos nas primeiras eleições para os órgãos sociais da Ordem dos Notários, cabe ao director-geral dos Registos e do Notariado exercer as competências que por este Estatuto lhes são atribuídas, designadamente as de natureza disciplinar, sem prejuízo das competências cometidas à comissão instaladora da Ordem dos Notários.
+
+###### Artigo 129.º — Revisão do regime do notariado
+
+O presente Estatuto deve ser revisto no prazo de cinco anos, visando, designadamente, a transferência das competências do Ministério da Justiça para a Ordem dos Notários.
+
+###### Artigo 130.º — Lei n.º 9/2009, de 4 de março
+
+O disposto na Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.º 41/2012, de 28 de agosto e n.º 25/2014, de 2 de maio, que transpõe para a ordem jurídica interna a Diretiva 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro, relativa ao reconhecimentos das qualificações profissionais, e a Diretiva 2006/100/CE, do Conselho, de 20 de novembro, que adapta determinadas diretivas no domínio da livre circulação de pessoas, em virtude da adesão da Bulgária e da Roménia, não é aplicável ao exercício da atividade de notário nem ao reconhecimento das qualificações necessárias a esse exercício.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15
+
+## Anexo — Mapa notarial
+
+(de acordo com o artigo 6.º, n.º 2)
+
+(ver mapa no documento original)
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15](https://diariodarepublica.pt/dr/detalhe/lei/155-2015-70297420), em vigor a partir de 2015-10-15

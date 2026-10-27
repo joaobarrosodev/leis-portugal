@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:605507:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-835767840",
+ "dre_path": "/dr/detalhe/portaria/293-2009-605507",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-03-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835804197",
+    "835804198",
+    "835804199",
+    "835804200",
+    "835804201",
+    "835804202",
+    "835804203",
+    "835804204",
+    "835804205",
+    "835804206",
+    "835804207",
+    "835804208",
+    "835804209",
+    "835804210",
+    "835804211",
+    "835804212"
+   ]
+  },
+  {
+   "date": "2023-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835638817:por",
+     "title": "Decreto-Lei n.º 120-A/2023",
+     "published": "2023-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/120-a-2023-835638817"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "835804197",
+    "835804198",
+    "835804199",
+    "835804213",
+    "835804214",
+    "835804217",
+    "835804215",
+    "835804218",
+    "835804201",
+    "835804202",
+    "835804203",
+    "835804204",
+    "835804205",
+    "835804206",
+    "835804207",
+    "835804208",
+    "835804209",
+    "835804210",
+    "835804211",
+    "835804212"
+   ]
+  }
+ ],
+ "fragments": {
+  "835804197": {
+   "fragment_id": "835767841",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 293/2009\n\nde 24 de Março\n\nO Programa de Gestão do Património Imobiliário do Estado, previsto no artigo 113.º do Decreto-Lei n.º 280/2007, de 7 de Agosto, e aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, preconizou a constituição de um fundo, no âmbito do Ministério das Finanças e da Administração Pública, com a natureza de património autónomo sem personalidade jurídica, tendo por objecto o financiamento de operações de reabilitação e de conservação dos imóveis do Estado.\n\nAssim, através do Decreto-Lei n.º 24/2009, de 21 de Janeiro, foi criado o Fundo de Reabilitação e Conservação Patrimonial, com um capital inicial de 10 milhões de euros e cujo objecto consiste no financiamento de operações de recuperação, reconstrução, reabilitação e conservação dos imóveis da propriedade do Estado. Aquele diploma determina que o regulamento de gestão do Fundo deve definir as condições relativas às mencionadas operações e ao respectivo financiamento, sendo aprovado por portaria do membro responsável pela área das finanças. Nesta conformidade, importa dar cumprimento ao estabelecido no Decreto-Lei n.º 24/2009, de 21 de Janeiro, permitindo, desta forma, que o Fundo inicie a sua actividade e que sejam executadas operações concretas necessárias à valorização e à preservação do património imobiliário do Estado.\n\nAssim:\n\nEm cumprimento do disposto nos artigos 2.º e 9.º do Decreto-Lei n.º 24/2009, de 21 de Janeiro, e ao abrigo do disposto nas alíneas c) e g) do artigo 199.º da Constituição, manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:"
+  },
+  "835804198": {
+   "fragment_id": "835767842",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento de Gestão do Fundo de Reabilitação e Conservação Patrimonial, anexo à presente portaria e da qual faz parte integrante."
+  },
+  "835804199": {
+   "fragment_id": "835767843",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "835804200": {
+   "fragment_id": "835767844",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão financeira do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gestão financeira do Fundo\n\n1 - Compete à DGTF proceder à gestão de tesouraria e de outros eventuais activos financeiros do Fundo, centralizando as receitas, processando as despesas e aplicando as disponibilidades respectivas, maximizando a sua capitalização, de acordo com a programação financeira aprovada pela comissão directiva.\n\n2 - A aplicação das disponibilidades do Fundo é efectuada pela DGTF, através de uma conta aberta especificamente para o efeito junto do Instituto de Gestão da Tesouraria do Crédito Público.\n\n3 - A DGTF elabora, até 31 de Janeiro de cada ano, as demonstrações financeiras do Fundo, as quais são remetidas à comissão directiva tendo em vista a sua integração no relatório de gestão e contas a que se refere a alínea c) do n.º 1 do artigo anterior."
+  },
+  "835804201": {
+   "fragment_id": "835767845",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários e âmbito\n\n1 - Podem ser beneficiários do Fundo os serviços utilizadores dos imóveis da propriedade do Estado que apresentem a respectiva candidatura nos termos previstos no presente Regulamento, na sequência dos planos de conservação e reabilitação dos imóveis que lhe estão afectos, elaborados em cumprimento do disposto no n.º 5.1 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, que aprovou o Programa de Gestão do Património Imobiliário do Estado.\n\n2 - O financiamento do Fundo não abrange:\n\na) Os imóveis classificados da propriedade do Estado não afectos ao funcionamento de serviços públicos;\n\nb) Os imóveis da propriedade do Estado utilizados pelas entidades a favor das quais reverta integralmente o produto da alienação e oneração do património do Estado;\n\nc) As obras de conservação ou beneficiação que sirvam apenas para a modernização das respectivas instalações;\n\nd) As obras em imóveis disponíveis para alienação;\n\ne) As operações de intervenção cujo orçamento global estimado seja inferior a (euro) 100 000, salvo obras urgentes ou prioritárias face à gravidade extrema das deficiências de solidez, segurança e salubridade do imóvel ou à sua especial localização.\n\n3 - As comparticipações financeiras atribuídas ao abrigo do presente Regulamento não são cumuláveis com quaisquer outras de que o imóvel venha a ser objecto, no âmbito de programa ou instrumento financeiro de âmbito comunitário."
+  },
+  "835804202": {
+   "fragment_id": "835767846",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1 - As candidaturas ao Fundo são apresentadas à comissão directiva, pelas unidades de gestão patrimonial previstas no n.º 7.1 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro.\n\n2 - As candidaturas referidas no número anterior são instruídas com um estudo prévio composto pelos seguintes elementos:\n\na) Memória descritiva, contendo, designadamente:\n\ni) Identificação e descrição do imóvel, bem como elementos registrais e matriciais existentes;\n\nii) Área objecto das operações de intervenção;\n\niii) Âmbito, conteúdo e calendarização das operações de intervenção;\n\niv) Localização do edifício, com identificação da rua e do número de polícia;\n\nv) Levantamento fotográfico das áreas de intervenção;\n\nvi) Fotografias do exterior do edifício;\n\nb) Custo estimado da intervenção com discriminação das operações;\n\nc) Indicação do montante da comparticipação financeira a que se candidata."
+  },
+  "835804203": {
+   "fragment_id": "835767847",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão das candidaturas\n\n1 - Apenas são admitidas as candidaturas que:\n\na) Tenham por objecto operações de intervenção abrangidas pelo financiamento do Fundo nos termos do artigo 4.º;\n\nb) Tenham sido devidamente instruídas nos termos do artigo anterior.\n\n2 - No prazo de 10 dias a contar da data da apresentação das candidaturas, a comissão directiva procede à notificação das unidades de gestão patrimonial cujas candidaturas não tenham sido admitidas com base nos fundamentos previstos no número anterior."
+  },
+  "835804204": {
+   "fragment_id": "835767848",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de apreciação das candidaturas\n\n1 - A comissão directiva procede à apreciação e hierarquização das candidaturas admitidas, tendo em conta os seguintes critérios:\n\na) A tipologia das operações de intervenção constantes do projecto apresentado; e\n\nb) O montante total do financiamento submetido a candidatura e a respectiva calendarização.\n\n2 - Para os efeitos previstos na alínea a) do número anterior, a apreciação das candidaturas tem em conta o carácter estrutural das operações de intervenção, sendo conferida prioridade às:\n\na) Obras urgentes ou prioritárias face à gravidade extrema das deficiências de solidez, segurança e salubridade do imóvel ou à sua especial localização;\n\nb) Intervenções de conservação e reabilitação, nomeadamente ao nível da cobertura, dos vãos, das canalizações, das instalações eléctricas ou electromecânicas, bem como as destinadas a promover a eficiência energética dos imóveis."
+  },
+  "835804205": {
+   "fragment_id": "835767849",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo para apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazo para apreciação das candidaturas\n\n1 - As candidaturas são apreciadas pela comissão directiva no prazo de 60 dias a contar da data da respectiva apresentação.\n\n2 - A comissão directiva pode solicitar a junção dos elementos que entenda necessários para a apreciação da candidatura, caso em que se suspende o prazo previsto no número anterior."
+  },
+  "835804206": {
+   "fragment_id": "835767850",
+   "type": 11,
+   "heading": "Artigo 9.º — Aprovação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aprovação das candidaturas\n\n1 - A comissão directiva notifica a unidade de gestão patrimonial cuja candidatura foi aprovada, indicando o montante máximo da comparticipação financeira que é atribuída pelo Fundo para a realização da operação de intervenção, a qual não pode exceder 80 % do custo estimado da operação.\n\n2 - Nas situações previstas na alínea a) do n.º 2 do artigo 7.º, pode a comissão executiva proceder à atribuição de uma comparticipação financeira de percentagem superior à indicada no número anterior.\n\n3 - A atribuição da comparticipação financeira prevista nos números anteriores está dependente da celebração do respectivo contrato de financiamento a que se refere o artigo 10.º\n\n4 - As candidaturas que não sejam aprovadas por insuficiência de fundos são objecto de nova apreciação logo que esteja assegurada a necessária cobertura financeira para o efeito e desde que não tenham decorrido mais de seis meses sobre a data da sua apresentação.\n\n5 - A comissão directiva deve informar as unidades de gestão patrimonial da situação prevista no número anterior.\n\n6 - O disposto no n.º 4 não prejudica a apresentação de nova candidatura nos termos do presente Regulamento."
+  },
+  "835804207": {
+   "fragment_id": "835767851",
+   "type": 11,
+   "heading": "Artigo 10.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contrato de financiamento\n\n1 - As condições de atribuição e suspensão do financiamento pelo Fundo, bem como os demais direitos e deveres das partes, constituem o objecto do contrato de financiamento.\n\n2 - O contrato de financiamento é celebrado entre a comissão directiva e o serviço utilizador do imóvel, cuja candidatura foi aprovada.\n\n3 - Para efeito de celebração do contrato de financiamento, devem ser apresentados, no prazo de 20 dias úteis a contar da data da notificação da respectiva aprovação, os seguintes documentos:\n\na) Projecto de execução;\n\nb) Declaração de compromisso que ateste que as candidaturas apresentadas não são objecto de apoio através de outro programa ou instrumento financeiro de âmbito comunitário;\n\nc) Comprovativo de que o serviço beneficiário dispõe de dotação orçamental para assegurar a parcela que não é objecto de comparticipação por parte do Fundo.\n\n4 - O contrato de financiamento deve ser celebrado no prazo de 10 dias úteis a contar da data da apresentação do projecto de execução e dos demais elementos referidos no número anterior, sob pena de caducidade do acto de aprovação das candidaturas."
+  },
+  "835804208": {
+   "fragment_id": "835767852",
+   "type": 11,
+   "heading": "Artigo 11.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento e fiscalização\n\n1 - Cabe às unidades de gestão patrimonial efectuar o acompanhamento do contrato de financiamento, competindo-lhes, designadamente:\n\na) Aferir do cumprimento do projecto de execução da obra;\n\nb) Informar a comissão directiva do Fundo do cumprimento das várias fases do projecto, tendo em vista o desembolso da comparticipação financeira;\n\nc) Realizar a vistoria final para verificação de conformidade da obra com as condições estabelecidas no projecto de execução e no contrato.\n\n2 - Todas as operações materiais de fiscalização e acompanhamento da obra são reduzidas a auto."
+  },
+  "835804209": {
+   "fragment_id": "835767853",
+   "type": 11,
+   "heading": "Artigo 12.º — Desembolso dos montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Desembolso dos montantes\n\n1 - O Fundo fica vinculado a financiar os projectos que são aprovados pela comissão directiva nos termos dos números seguintes e dos respectivos contratos de financiamento.\n\n2 - O contrato de financiamento pode estipular que, no momento da sua celebração, seja efectuado um desembolso até 25 % do valor da comparticipação financeira aprovada.\n\n3 - A disponibilização do montante correspondente ao remanescente do financiamento a conceder pelo Fundo é efectuada de forma fraccionada, à medida que se encontrem executadas as várias fases do projecto apresentado, após confirmação pela unidade de gestão patrimonial, nos termos do artigo anterior.\n\n4 - A última parcela da comparticipação fica condicionada à confirmação da conclusão das operações de intervenção e à prévia fiscalização das mesmas pelas unidades de gestão patrimonial competentes."
+  },
+  "835804210": {
+   "fragment_id": "835767854",
+   "type": 11,
+   "heading": "Artigo 13.º — Incumprimento e resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Incumprimento e resolução do contrato\n\n1 - O não cumprimento das obrigações fixadas no contrato de financiamento celebrado nos termos do artigo 10.º confere à comissão directiva o direito de suspender os pagamentos acordados.\n\n2 - Caso a entidade beneficiária venha a dar cumprimento às obrigações em falta, a comissão directiva pode retomar os pagamentos acordados.\n\n3 - O disposto nos números anteriores não prejudica o direito de a comissão directiva resolver o contrato, nos termos gerais de direito.\n\n4 - A resolução do contrato prevista no número anterior implica a restituição das comparticipações financeiras entregues, a efectuar no prazo de 60 dias a contar da data da notificação."
+  },
+  "835804211": {
+   "fragment_id": "835767855",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deveres de informação\n\nA comissão directiva pode levar ao conhecimento das unidades de gestão patrimonial e de outras entidades necessárias à prossecução dos seus objectivos, através do meio que considere mais conveniente, quaisquer informações complementares directamente relacionadas com o financiamento do Fundo, cuja divulgação considere necessária à protecção dos seus interesses."
+  },
+  "835804212": {
+   "fragment_id": "835767856",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afectos, apurados após a respectiva liquidação, é determinado por despacho do membro do Governo responsável pela área das finanças."
+  },
+  "835804213": {
+   "fragment_id": "835767857",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 2 de Março de 2009."
+  },
+  "835804214": {
+   "fragment_id": "835767858",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE GESTÃO DO FUNDO DE REABILITAÇÃO E CONSERVAÇÃO PATRIMONIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE GESTÃO DO FUNDO DE REABILITAÇÃO E CONSERVAÇÃO PATRIMONIAL"
+  },
+  "835804217": {
+   "fragment_id": "835767861",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissão directiva",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "###### Artigo 2.º — Comissão directiva\n\n1 - Compete à comissão directiva assegurar a gestão do Fundo, devendo, para o efeito, designadamente:\n\na) Assegurar as relações do Fundo com o Conselho de Coordenação de Gestão Patrimonial e com as unidades de gestão patrimonial previstos no n.º 7 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, com os serviços utilizadores dos imóveis e com a ESTAMO - Participações Imobiliárias, S. A;\n\nb) Estabelecer, em nome do Fundo, as relações institucionais que se mostrem necessárias à prossecução dos seus objectivos;\n\nc) Elaborar anualmente até 31 de Março, com referência ao ano anterior, o relatório de gestão e contas do Fundo, incidindo, designadamente, sobre:\n\ni) Operações de financiamento aprovadas;\n\nii) Operações em curso;\n\niii) Aplicações do Fundo;\n\niv) Aquisição e alienação de activos;\n\nv) Balanço;\n\nvi) Demonstração de resultados;\n\nvii) Demonstração dos fluxos de caixa;\n\nd) Apreciar, hierarquizar e aprovar as candidaturas apresentadas relativas às operações de recuperação, reconstrução, reabilitação e conservação dos imóveis do Estado;\n\ne) Proceder à aprovação da programação financeira do Fundo.\n\n2 - O relatório de gestão e contas, previsto na alínea c) do número anterior, é aprovado pelo membro do Governo responsável pela área das finanças, após parecer da Inspecção-Geral de Finanças.\n\n3 - O Fundo funciona junto da ESTAMO - Participações Imobiliárias, S. A., a qual assegura o apoio técnico, logístico e administrativo à comissão directiva.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23"
+  },
+  "835804215": {
+   "fragment_id": "835767859",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento aprova as regras que regulam a gestão do Fundo de Reabilitação e Conservação Patrimonial, adiante designado por Fundo.\n\n2 - O Fundo tem por objecto e finalidade o financiamento, a fundo perdido, de operações de recuperação, reconstrução, reabilitação e conservação dos imóveis da propriedade do Estado."
+  },
+  "835804218": {
+   "fragment_id": "835767844",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão financeira do Fundo",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "###### Artigo 3.º — Gestão financeira do Fundo\n\n1 - Compete à ESTAMO - Participações Imobiliárias, S. A. proceder à gestão de tesouraria e de outros eventuais activos financeiros do Fundo, centralizando as receitas, processando as despesas e aplicando as disponibilidades respectivas, maximizando a sua capitalização, de acordo com a programação financeira aprovada pela comissão directiva.\n\n2 - A aplicação das disponibilidades do Fundo é efectuada pela ESTAMO - Participações Imobiliárias, S. A., através de uma conta aberta especificamente para o efeito junto do Instituto de Gestão da Tesouraria do Crédito Público.\n\n3 - A ESTAMO - Participações Imobiliárias, S. A. elabora, até 31 de Janeiro de cada ano, as demonstrações financeiras do Fundo, as quais são remetidas à comissão directiva tendo em vista a sua integração no relatório de gestão e contas a que se refere a alínea c) do n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23"
+  }
+ }
+}

@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:401561:por
+title: Portaria n.º 23075
+short_title: null
+summary: Determina que os lugares do pessoal de enfermagem dos quadros e mapas dos hospitais e serviços hospitalares oficiais,
+  aprovados ao abrigo do Decreto-Lei n.º 46309, sejam atribuídos ao sexo masculino ou feminino, conforme as necessidades dos
+  serviços
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde e Assistência
+proposing_entity: null
+official_number: '23075'
+official_date: null
+publication_date: '1967-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 296/1967, Série I de 1967-12-22
+  number: '296'
+  series: I
+  supplement: null
+  pages: 2393 - 2393
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29600/23932393.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401561'
+  dre_path: /dr/detalhe/portaria/23075-1967-401561
+  internal: pt:dre:401561:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23075-1967-401561
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23075-1967-401561
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:39:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 90c5178787556606a1d984187a7cb9d1442b56ca23ef5a3849a3b0043f7353ac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:236718:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:39:14Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23075
+
+Nos termos do artigo 1.º do [Decreto-Lei n.º 46309](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46309-1965-236718), de 27 de Abril de 1965:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência:
+
+Os lugares do pessoal de enfermagem dos quadros e mapas dos hospitais e serviços hospitalares oficiais, aprovados ao abrigo do citado [Decreto-Lei n.º 46309](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46309-1965-236718), serão atribuídos ao sexo masculino ou feminino, conforme as necessidades dos serviços, mediante despacho do Ministro da Saúde e Assistência publicado no Diário do Governo.
+
+Ministérios das Finanças e da Saúde e Assistência, 22 de Dezembro de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

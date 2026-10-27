@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0273:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0273-20180207",
+ "dre_path": null,
+ "source_lastmod": "2018-02-07",
+ "versions": [
+  {
+   "date": "2008-03-29",
+   "future": false,
+   "celex": "32008R0273",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "81c4e1d80a7ca3c8",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "61e959b1f5f9408b",
+    "f9904eec6652143c",
+    "f85c587de0325cf2",
+    "dafcf4008a97847a",
+    "661a31c9b58d1e0d",
+    "1c75f1218478295a",
+    "bffa3bccf505f4fb",
+    "c5519c9875bd9e1d",
+    "77dbd8a400fcda20",
+    "6d9bf5f312cbe616",
+    "7fb21e4bf0b37c4a",
+    "fe34e238a6c161ab",
+    "10e5e811737f7536",
+    "a157ca13a60361ba",
+    "6ac12a0afd2ea914",
+    "7c4ece7655aa79a1",
+    "717f9e204e250aec",
+    "25a634e885c31015",
+    "1e7a0903d2eed348",
+    "966d3b11fd5a17ca",
+    "578911cdd1e95265",
+    "9d322bffbf05e867",
+    "7c0525827d161dca",
+    "5dbb97d3d75d006f",
+    "71c6776956c9248f",
+    "9e7443e8560f78da"
+   ]
+  },
+  {
+   "date": "2018-02-07",
+   "future": false,
+   "celex": "02008R0273-20180207",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto e domínio de aplicação",
+    "Suprime Artigo 2.º — Métodos de rotina",
+    "Suprime CAPÍTUILO II",
+    "Suprime MÉTODOS DE ANÁLISE",
+    "Suprime Artigo 3.º — Avaliação da conformidade de uma remessa com os limites legais",
+    "Suprime Artigo 4.º — Exame organoléptico",
+    "Suprime Artigo 5.º — Marcadores",
+    "Suprime Artigo 6.º — Detecção de caseína de leite de vaca",
+    "Suprime Artigo 7.º — Detecção de coliformes",
+    "Suprime Artigo 8.º — Determinação do teor de lactose",
+    "Suprime Artigo 9.º — Detecção de soro de coagulação",
+    "Suprime Artigo 10.º — Detecção de leitelho",
+    "Suprime Artigo 11.º — Detecção de resíduos de substâncias antimicrobianas",
+    "Suprime Artigo 12.º — Determinação do teor de leite em pó desnatado",
+    "Suprime Artigo 13.º — Detecção de amido",
+    "Suprime Artigo 14.º — Determinação do teor de humidade da nata desidratada",
+    "Suprime Artigo 15.º — Determinação do teor de humidade do leitelho ácido em pó",
+    "Suprime Artigo 16.º — Determinação do grau de pureza da matéria gorda láctea",
+    "Suprime CAPÍTULO III",
+    "Suprime DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 17.º — Garantia da qualidade",
+    "Suprime Artigo 18.º — Amostragem e contestação dos resultados das análises",
+    "Suprime Artigo 19.º — Período de transição",
+    "Suprime Artigo 20.º — Revogações",
+    "Suprime Artigo 21.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d3ce79617f0c70df"
+   ]
+  }
+ ],
+ "fragments": {
+  "81c4e1d80a7ca3c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Março de 2008\n\nque estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita aos métodos a utilizar para a análise e a avaliação da qualidade do leite e dos produtos lácteos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos [([^1])](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntr1-L_2008088PT.01000101-E0001), nomeadamente os artigos 10.º e 15.º, o n.º 3 do artigo 26.º, o n.º 1 do artigo 29.º e o n.º 4 do artigo 31.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 213/2001 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntr2-L_2008088PT.01000101-E0002) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita aos métodos a utilizar para a análise e a avaliação da qualidade do leite e dos produtos lácteos. À luz da evolução técnica no domínio das metodologias de análise, é necessário proceder a novas alterações substanciais. Por motivos de clareza e de eficácia e tendo em conta o elevado número e a natureza técnica dessas alterações, o Regulamento (CE) n.º 213/2001 deve ser revogado e ser substituído por um novo regulamento.\n\n(2) As características de composição e de qualidade do leite e dos produtos lácteos fixadas no âmbito dos regimes previstos pelo Regulamento (CE) n.º 1255/1999 devem ser verificadas, de modo a garantir o seu cumprimento estrito.\n\n(3) Os métodos de referência a utilizar nas referidas verificações são, muitas vezes, métodos publicados por organismos internacionais, como o Comité Europeu de Normalização (CEN), a Federação Internacional dos Lacticínos (FIL), a Organização Internacional de Normalização (ISO) e a AOAC International (associação científica dedicada à excelência analítica), e regularmente actualizados pelos organismos em causa. Em certos casos, encontra-se estabelecido um método de referência comunitário; noutros casos, a regulamentação comunitária não especifica qualquer método de referência. A fim de garantir uma aplicação uniforme dos métodos de referência, deve ser estabelecida uma lista de métodos de referência, prevendo a possibilidade de a Comissão proceder às adaptações dessa lista que venham a revelar-se necessárias.\n\n(4) Não deve ser excluída a possibilidade de utilização de métodos de rotina, pelo que interessa especificar as condições mínimas para a sua utilização.\n\n(5) Para uma prática uniforme na avaliação dos resultados analíticos, há que estabelecer também procedimentos comuns, o mesmo sucedendo em relação ao exame organoléptico dos produtos em causa e ao reexame dos resultados que sejam objecto de contestação.\n\n(6) No que respeita a determinadas análises, não existem actualmente métodos de referência validados de aceitação internacional, pelo que não se encontram disponíveis quaisquer informações sobre variações interlaboratoriais de resultados analíticos. Assim, afigura-se oportuno fixar métodos a nível comunitário, validados em conformidade com normas estabelecidas internacionalmente e que possam ser aplicados como métodos de referência.\n\n(7) O Regulamento (CE) n.º 1898/2005 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntr3-L_2008088PT.01000101-E0003) estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita a medidas com vista ao escoamento de nata, manteiga e manteiga concentrada no mercado comunitário e prevê a marcação da nata, da manteiga e da manteiga concentrada em certas circunstâncias, de modo a garantir a correcta utilização final desses produtos. A marcação é importante para um funcionamento adequado do regime. A fim de garantir a igualdade de tratamento de todos os operadores participantes, devem ser estabelecidos métodos comuns para a determinação de alguns desses marcadores.\n\n(8) Nos termos do artigo 9.º do Regulamento (CE) n.º 1255/1999, pode ser concedida uma ajuda à armazenagem privada dos queijos à base de leite de ovelha. O artigo 31.º do referido regulamento estipula que os mesmos produtos podem beneficiar de uma restituição especial. Está prevista a importação para a Comunidade em condições preferenciais, a partir de determinados países terceiros, de queijos à base de leite de ovelha, de leite de cabra e de leite de búfala ou de misturas de leites de ovelha, cabra e búfala. Em virtude das disposições supracitadas, é necessário verificar, mediante inspecções adequadas, que não foi incorporado leite de vaca nos produtos em causa. Consequentemente, deve estabelecer-se um método de referência comunitário para a detecção de leite de vaca, sem prejuízo da aplicação de métodos de rotina, desde que conformes a determinados critérios.\n\n(9) Nos termos do Regulamento (CEE) n.º 2921/90 da Comissão, de 10 de Outubro de 1990, relativo à concessão de ajudas ao leite desnatado com vista ao fabrico de caseína e de caseinatos [([^4])](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntr4-L_2008088PT.01000101-E0004), deve comprovar-se a ausência de coliformes. O método de referência internacionalmente aceite para a detecção de coliformes no leite e nos produtos lácteos é a norma ISO 4831. Com base nessa norma, foi estabelecido um método de referência comunitário para a detecção dos coliformes.\n\n(10) O Regulamento (CEE) n.º 2658/87 do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum [([^5])](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntr5-L_2008088PT.01000101-E0005) diferencia as taxas dos direitos aduaneiros aplicáveis aos alimentos compostos para animais abrangidos pela posição pautal 2309, em função do teor de produtos lácteos. A fim de garantir a aplicação uniforme das disposições em causa, há que estabelecer um método de determinação do teor de lactose que mereça aceitação geral e cuja utilização seja obrigatória em todos os Estados-Membros.\n\n(11) O Regulamento (CE) n.º 1255/1999 estipula que a manteiga e o leite em pó desnatado destinados a intervenção e o leite em pó desnatado destinado à alimentação animal devem respeitar determinadas exigências de qualidade. É, pois, oportuno fixar métodos de referência para a verificação do cumprimento das referidas exigências.\n\n(12) Alguns métodos são estabelecidos pela primeira vez no presente regulamento. Deve ser previsto um prazo suficiente, a partir da data de entrada em vigor do presente regulamento, para que os laboratórios possam introduzir e começar a aplicar correctamente esses métodos. Sempre que um método de referência constante do anexo I seja revisto e publicado pela Organização de Desenvolvimento e Normas, deve ser concedido aos laboratórios um prazo de seis meses para actualizarem os seus procedimentos analíticos, de modo a cumprirem as novas normas.\n\n(13) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "61e959b1f5f9408b": {
+   "fragment_id": "Artigo 1.º — Objecto e domínio de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e domínio de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e domínio de aplicação\n\n1. O presente regulamento fixa determinados métodos de referência para a análise química, física e microbiológica e para o exame organoléptico do leite e dos produtos lácteos no âmbito dos regimes previstos pela organização comum de mercado no sector do leite e dos produtos lácteos, estabelecida pelo Regulamento (CE) n.º 1255/1999, bem como as regras de aplicação desses métodos.\n\n2. A lista dos métodos de referência aplicáveis às análises referidas no n.º 1 é estabelecida no anexo I do presente regulamento.\n\n3. A Comissão actualiza a lista em conformidade com o procedimento estabelecido no artigo 42.º do Regulamento (CE) n.º 1255/1999."
+  },
+  "f9904eec6652143c": {
+   "fragment_id": "Artigo 2.º — Métodos de rotina",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Métodos de rotina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Métodos de rotina\n\nPodem ser utilizados métodos de rotina nas análises previstas pela legislação comunitária, na condição de serem devidamente calibrados e regularmente aferidos em relação ao método de referência. Os resultados são comparados tendo em conta os erros sistemáticos, a repetibilidade e a reprodutibilidade.\n\nEm caso de litígio, os resultados obtidos pelo método de referência serão determinantes.\n\nOs Estados-Membros informam a Comissão da utilização de métodos de rotina nas análises referidas no artigo 1.º"
+  },
+  "f85c587de0325cf2": {
+   "fragment_id": "CAPÍTUILO II",
+   "type": "divisao",
+   "heading": "CAPÍTUILO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTUILO II"
+  },
+  "dafcf4008a97847a": {
+   "fragment_id": "MÉTODOS DE ANÁLISE",
+   "type": "divisao",
+   "heading": "MÉTODOS DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE ANÁLISE"
+  },
+  "661a31c9b58d1e0d": {
+   "fragment_id": "Artigo 3.º — Avaliação da conformidade de uma remessa com os limites legais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Avaliação da conformidade de uma remessa com os limites legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação da conformidade de uma remessa com os limites legais\n\nCom excepção da análise dos marcadores, o cumprimento das exigências legais de composição é avaliado com base no anexo II do presente regulamento."
+  },
+  "1c75f1218478295a": {
+   "fragment_id": "Artigo 4.º — Exame organoléptico",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Exame organoléptico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exame organoléptico\n\n1. No que respeita ao leite e aos produtos lácteos, com excepção da manteiga destinada à armazenagem pública, os Estados-Membros utilizam como método de referência para o exame organoléptico a norma IDF 99C:1997 ou outros métodos comparáveis, que comunicam à Comissão.\n\nPara avaliar o desempenho dos provadores e a fiabilidade dos resultados dos exames organolépticos, aplicam-se os procedimentos descritos no anexo III.\n\n2. No que respeita à manteiga destinada à armazenagem pública, aplicam-se os procedimentos descritos no anexo III para avaliar o desempenho dos provadores e a fiabilidade dos resultados dos exames organolépticos.\n\nO método descrito no anexo IV é aplicado como método de referência para o exame organoléptico."
+  },
+  "bffa3bccf505f4fb": {
+   "fragment_id": "Artigo 5.º — Marcadores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Marcadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Marcadores\n\n1. O método de análise descrito no anexo V é utilizado como método de referência para a determinação do teor de triglicéridos do ácido enântico na manteiga, no *butteroil* e na nata.\n\n2. O método de análise descrito no anexo VI é utilizado como método de referência para a determinação da vanilina na manteiga concentrada, na manteiga e na nata.\n\n3. O método de análise descrito no anexo VII é utilizado como método de referência para a determinação do teor de éster etílico do ácido β-apo-8'-caroténico da manteiga concentrada e da manteiga.\n\n4. O método de análise descrito no anexo VIII é utilizado como método de referência para a determinação do teor de β-sitosterol e de estigmasterol da manteiga e da manteiga concentrada.\n\n5. Considera-se que a manteiga concentrada, a manteiga e a nata foram marcadas em conformidade com as regras comunitárias aplicáveis se os resultados obtidos corresponderem às especificações dos pontos 10 e 11 do anexo V e do ponto 8 dos anexos VI, VII e VIII."
+  },
+  "c5519c9875bd9e1d": {
+   "fragment_id": "Artigo 6.º — Detecção de caseína de leite de vaca",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Detecção de caseína de leite de vaca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Detecção de caseína de leite de vaca\n\n1. O método de análise de referência descrito no anexo IX é utilizado para garantir que o queijo que deve ser produzido exclusivamente com leite de ovelha, leite de cabra ou leite de búfala, ou com misturas de leites de ovelha, cabra e búfala, não contenha caseína de leite de vaca.\n\nConsidera-se que se encontra presente caseína de leite de vaca se o teor de caseína de leite de vaca da amostra analisada for igual ou superior ao teor da amostra de referência com 1 % de leite de vaca, conforme é descrito no anexo IX.\n\n2. Os métodos de rotina para a detecção de caseína de leite de vaca nos queijos referidos no n.º 1 podem ser utilizados nas seguintes condições:\n\na) o limite de detecção é, no máximo, 0,5 % e\n\nb) não podem observar-se falsos resultados positivos e\n\nc) a caseína de leite de vaca é detectável com a sensibilidade requerida, mesmo após longos períodos de cura, como pode acontecer nas condições habituais de comercialização.\n\nCaso alguma das condições acima referidas não seja satisfeita, devem ser usados os métodos de referência descritos no anexo IX."
+  },
+  "77dbd8a400fcda20": {
+   "fragment_id": "Artigo 7.º — Detecção de coliformes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Detecção de coliformes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Detecção de coliformes\n\nPara a detecção de coliformes na manteiga, no leite em pó desnatado, na caseína e nos caseinatos, utiliza-se o método de referência descrito no anexo X."
+  },
+  "6d9bf5f312cbe616": {
+   "fragment_id": "Artigo 8.º — Determinação do teor de lactose",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Determinação do teor de lactose",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Determinação do teor de lactose\n\nO teor de lactose dos produtos incluídos na posição NC 2309 é determinado pelo método de referência descrito no anexo XI."
+  },
+  "7fb21e4bf0b37c4a": {
+   "fragment_id": "Artigo 9.º — Detecção de soro de coagulação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Detecção de soro de coagulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Detecção de soro de coagulação\n\n1. Para a detecção de soro de coagulação no leite em pó desnatado destinado à armazenagem pública, utiliza-se o método de referência descrito no anexo XII.\n\n2. Para a detecção de soro de coagulação no leite em pó desnatado e misturas destinados à alimentação animal, utiliza-se o método de referência descrito no anexo XII. Caso seja detectada a presença de soro de coagulação, deve aplicar-se o anexo XIII."
+  },
+  "fe34e238a6c161ab": {
+   "fragment_id": "Artigo 10.º — Detecção de leitelho",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Detecção de leitelho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Detecção de leitelho\n\nPara a detecção de leitelho no leite em pó desnatado, utiliza-se o método de referência descrito no anexo XIV."
+  },
+  "10e5e811737f7536": {
+   "fragment_id": "Artigo 11.º — Detecção de resíduos de substâncias antimicrobianas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Detecção de resíduos de substâncias antimicrobianas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Detecção de resíduos de substâncias antimicrobianas\n\nPara a detecção de resíduos de substâncias antimicrobianas no leite em pó desnatado, utiliza-se o método de referência descrito no anexo XV."
+  },
+  "a157ca13a60361ba": {
+   "fragment_id": "Artigo 12.º — Determinação do teor de leite em pó desnatado",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Determinação do teor de leite em pó desnatado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Determinação do teor de leite em pó desnatado\n\nPara a determinação do teor de leite em pó desnatado nos alimentos compostos para animais, utiliza-se o método de referência descrito no anexo XVI."
+  },
+  "6ac12a0afd2ea914": {
+   "fragment_id": "Artigo 13.º — Detecção de amido",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Detecção de amido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Detecção de amido\n\nPara a detecção de amido no leite em pó desnatado, no leite em pó desnaturado e nos alimentos compostos para animais utiliza-se o método de referência descrito no anexo XVII."
+  },
+  "7c4ece7655aa79a1": {
+   "fragment_id": "Artigo 14.º — Determinação do teor de humidade da nata desidratada",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Determinação do teor de humidade da nata desidratada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Determinação do teor de humidade da nata desidratada\n\nPara a determinação do teor de humidade da nata desidratada utiliza-se o método de referência descrito no anexo XVIII."
+  },
+  "717f9e204e250aec": {
+   "fragment_id": "Artigo 15.º — Determinação do teor de humidade do leitelho ácido em pó",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Determinação do teor de humidade do leitelho ácido em pó",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Determinação do teor de humidade do leitelho ácido em pó\n\nPara a determinação do teor de humidade do leitelho ácido em pó destinado a ser incorporado em alimentos para animais, utiliza-se o método de referência descrito no anexo XIX."
+  },
+  "25a634e885c31015": {
+   "fragment_id": "Artigo 16.º — Determinação do grau de pureza da matéria gorda láctea",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Determinação do grau de pureza da matéria gorda láctea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Determinação do grau de pureza da matéria gorda láctea\n\nPara a determinação do grau de pureza da matéria gorda láctea, utiliza-se o método de referência descrito no anexo XX."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "578911cdd1e95265": {
+   "fragment_id": "Artigo 17.º — Garantia da qualidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Garantia da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Garantia da qualidade\n\nAs análises são realizadas por laboratórios que disponham de um sistema de garantia da qualidade analítica, incluindo procedimentos internos de controlo da qualidade. Os laboratórios não-acreditados participam em processos de avaliação da proficiência pelo menos uma vez por ano, não devendo os respectivos resultados divergir mais de 2σR (desvio-padrão da reprodutibilidade do método de referência) do valor consensual. Deve encontrar-se disponível para consulta, no laboratório, uma descrição pormenorizada dos sistemas utilizados.\n\nOs laboratórios acreditados em conformidade com as normas referidas no artigo 12.º do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais [([^6])](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntr6-L_2008088PT.01000101-E0006) ficam isentos da obrigação de participar nessas avaliações da proficiência."
+  },
+  "9d322bffbf05e867": {
+   "fragment_id": "Artigo 18.º — Amostragem e contestação dos resultados das análises",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Amostragem e contestação dos resultados das análises",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Amostragem e contestação dos resultados das análises\n\n1. A amostragem é efectuada em conformidade com a regulamentação relevante para o produto em causa. Caso não existam disposições específicas relativas à amostragem, aplicam-se as disposições da norma ISO 707|IDF 50, Leite e produtos lácteos — Orientações para a amostragem.\n\n2. Os relatórios laboratoriais dos resultados analíticos devem incluir elementos suficientes para a avaliação dos resultados em conformidade com os anexos II e XXI.\n\n3. Para a realização das análises previstas pela legislação comunitária, devem colher-se amostras em duplicado.\n\n4. Se um operador não aceitar determinados resultados analíticos, aplica-se o procedimento descrito no anexo XXI.\n\n5. Se o fabricante conseguir provar, nos cinco dias úteis seguintes à colheita das amostras, que esta não foi efectuada correctamente, procede-se a nova colheita da amostra, na medida do possível. Caso não seja possível colher novas amostras, a remessa deve ser aceite."
+  },
+  "7c0525827d161dca": {
+   "fragment_id": "Artigo 19.º — Período de transição",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Período de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Período de transição\n\nA avaliação da conformidade nos termos do anexo II do presente regulamento tem lugar no prazo de 12 meses a contar da data de entrada em vigor do mesmo. Os Estados-Membros comunicam imediatamente à Comissão, sempre que necessário, qualquer problema importante sério que tenham tido nesse período com o procedimento de controlo estatístico."
+  },
+  "5dbb97d3d75d006f": {
+   "fragment_id": "Artigo 20.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogações\n\nÉ revogado o Regulamento (CE) n.º 213/2001.\n\nAs referências ao regulamento revogado entendem-se como feitas ao presente regulamento, segundo o quadro de correspondência do anexo XXII."
+  },
+  "71c6776956c9248f": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 31 de Março de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 5 de Março de 2008.\n\n***Pela Comissão***\n\n**Mariann FISCHER BOEL**\n\n***Membro da Comissão***\n\n---"
+  },
+  "9e7443e8560f78da": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntc1-L_2008088PT.01000101-E0001) [JO L 160 de 26.6.1999, p. 48](http://publications.europa.eu/resource/oj/JOL_1999_160_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1152/2007 ([JO L 258 de 4.10.2007, p. 3](http://publications.europa.eu/resource/oj/JOL_2007_258_R_TOC)). O Regulamento (CE) n.º 1255/1999 será substituído pelo Regulamento (CE) n.º 1234/2007 ([JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC)) a partir de 1 de Julho de 2008.\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntc2-L_2008088PT.01000101-E0002) [JO L 37 de 7.2.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_037_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntc3-L_2008088PT.01000101-E0003) [JO L 308 de 25.11.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_308_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1546/2007 ([JO L 337 de 21.12.2007, p. 68](http://publications.europa.eu/resource/oj/JOL_2007_337_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntc4-L_2008088PT.01000101-E0004) [JO L 279 de 11.10.1990, p. 22](http://publications.europa.eu/resource/oj/JOL_1990_279_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1487/2006 ([JO L 278 de 10.10.2006, p. 8](http://publications.europa.eu/resource/oj/JOL_2006_278_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntc5-L_2008088PT.01000101-E0005) [JO L 256 de 7.9.1987, p. 1](http://publications.europa.eu/resource/oj/JOL_1987_256_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1352/2007 da Comissão ([JO L 303 de 21.11.2007, p. 3](http://publications.europa.eu/resource/oj/JOL_2007_303_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018.02/DOC_1#ntc6-L_2008088PT.01000101-E0006) [JO L 165 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_165_R_TOC)."
+  },
+  "d3ce79617f0c70df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R0273 — PT — 07.02.2018 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R0273) [REGULAMENTO (CE) N.º 273/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R0273) [de 5 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0273) [que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita aos métodos a utilizar para a análise e a avaliação da qualidade do leite e dos produtos lácteos](http://publications.europa.eu/resource/celex/32008R0273) (JO L 088, 29.3.2008, p.1)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) 2018/150 da Comissão de 30 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0150) — L 26 — 14 — 31.1.2018"
+  }
+ }
+}

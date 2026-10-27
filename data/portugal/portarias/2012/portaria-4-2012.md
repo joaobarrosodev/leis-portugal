@@ -1,0 +1,296 @@
+---
+schema_version: '1.0'
+id: pt:dre:477133:por
+title: Portaria n.º 4/2012
+short_title: null
+summary: Estabelece as regras de formação dos preços dos medicamentos, da sua alteração e da sua revisão anual, bem como os
+  respectivos prazos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e do Emprego e da Saúde
+proposing_entity: null
+official_number: 4/2012
+official_date: null
+publication_date: '2012-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2012, Série I de 2012-01-02
+  number: '1'
+  series: I
+  supplement: null
+  pages: 8 - 11
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/01/00100/0000800011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/4/2012/01/02/p/dre/pt/html
+  oj: null
+  dre: '477133'
+  dre_path: /dr/detalhe/portaria/4-2012-477133
+  internal: pt:dre:477133:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2012-477133
+  metadata_url: https://data.dre.pt/eli/port/4/2012/01/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2012-477133
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 675e1132ba42ff655f7a0b857f80b60686bd1447a643079f55318164a0e177d7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação Económica de Medicamentos
+- Comércio
+- Definição de Competências
+- Direção Geral das Atividades Económicas
+- Indústria Farmacêutica
+- Infarmed
+- Medicamento
+- Preço
+- Preço de Venda
+relationships:
+- type: amended_by
+  target: pt:dre:67644326:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:145786:por
+  label: "Suspensa, no que se refere aos prazos, a aplicação do disposto nos n.º 1 do art. 5.º e n.º 1 do art. 6.º pela PORT.411-A/2012.14.12.2012.MS,\
+    \ DR.IS [242-Supl] de 14.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-a-2012-145786
+  date: '2012-12-14'
+- type: amended_by
+  target: pt:dre:600359:por
+  label: "Dada nova redação ao art. 10º pela PORT.335-A/2013.15.11.2013.MS, DR.IS [222-2ºSupl] de 15.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-a-2013-600359
+  date: '2013-11-15'
+- type: amended_by
+  target: pt:dre:483925:por
+  label: "Determinada a suspensão, em 2014, da aplicação do art. 6.º, pela PORT.367/2013.23.12.2013.MS, DR.IS [248] de 23.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-2013-483925
+  date: '2013-12-23'
+- type: amended_by
+  target: pt:dre:58849150:por
+  label: Determinada a suspensão no ano de 2015 da aplicação do art. 6.º pelo(a) Portaria n.º 231-A/2014 - Diário da República
+    n.º 219/2014, 1º Suplemento, Série I de 2014-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-a-2014-58849150
+  date: '2014-11-12'
+- type: cites
+  target: pt:dre:146065:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2011/11/29/p/dre
+- type: cites
+  target: pt:dre:207801:por
+  label: null
+  source: http://data.dre.pt/eli/port/312-a/2010/06/11/p/dre
+- type: cites
+  target: pt:dre:374643:por
+  label: null
+  source: http://data.dre.pt/eli/port/112-b/2011/03/22/p/dre
+- type: cites
+  target: pt:dre:642687:por
+  label: null
+  source: http://data.dre.pt/eli/port/337-a/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:671941:por
+  label: null
+  source: http://data.dre.pt/eli/port/1041-a/2010/10/07/p/dre
+- type: repealed_by
+  target: pt:dre:67644326:por
+  label: Revogado, a partir de 01.07.2015, o presente diploma, na redação da Port 335-A/2013 de 15-nov, pelo(a) Portaria n.º
+    195-C/2015 - Diário da República n.º 125/2015, 1º Suplemento, Série I de 2015-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-c-2015-67644326
+  date: '2015-06-30'
+article_structure:
+  article_count: 13
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:53:58Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 4/2012
+
+de 2 de janeiro
+
+O [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, estabeleceu o novo regime de preços dos medicamentos de uso humano sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados, determinando que as matérias previstas no articulado e os respectivos procedimentos sejam regulamentados por portaria dos membros do Governo responsáveis pelas áreas da economia e da saúde.
+
+Importa assim estabelecer as regras de formação dos preços dos medicamentos, da sua alteração e da sua revisão anual, bem como os respectivos prazos.
+
+Concretiza-se também a redução de preço de medicamentos genéricos em relação aos medicamentos originadores, prevista no Memorando de Entendimento sobre as Condicionalidades de Política Económica firmado pelo Governo Português com o Fundo Monetário Internacional, a União Europeia e o Banco Central Europeu.
+
+Definem-se também os prazos a aplicar em 2012, excepcionalmente, de forma a operacionalizar a revisão de preços neste ano, com benefício para o Serviço Nacional de Saúde e os Utentes da revisão de preços estabelecida.
+
+Assim, ao abrigo do artigo 14.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, manda o Governo, pelos Ministros da Economia e do Emprego e da Saúde, o seguinte:
+
+#### SECÇÃO I — Regras gerais
+
+###### Artigo 1.º — Pedidos de autorização de preços
+
+1 - Os pedidos de autorização de preços dos medicamentos, nos termos do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, devidamente instruídos, são apresentados pelos titulares de autorização de introdução no mercado (AIM), ou pelos seus representantes legais, no ponto único de recepção a que se refere o artigo 15.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro.
+
+2 - Os titulares de AIM, ou os seus representantes legais, não carecem de instruir os seus pedidos com documentação que haja sido emitida pela Direcção-Geral das Actividades Económicas (DGAE).
+
+###### Artigo 2.º — Suspensão de prazos
+
+Os prazos para autorização previstos neste diploma suspendem-se sempre que, pela autoridade competente, sejam solicitados ao requerente elementos considerados necessários à instrução e decisão do pedido.
+
+###### Artigo 3.º — Alteração dos preços autorizados
+
+1 - São considerados preços máximos os preços de venda ao público (PVP) autorizados pela DGAE ou, no caso de medicamentos comparticipados, os definidos em sede de comparticipação.
+
+2 - Salvo disposição em contrário, os titulares de AIM, ou os seus representantes legais, podem proceder a variações daqueles preços, desde que a nível inferior ao estipulado no número antecedente, e voltar a praticar os PVP autorizados, os quais são, para efeitos de aplicação do presente diploma, os preços oficialmente aprovados.
+
+3 - As alterações dos preços efectuadas por iniciativa dos titulares de AIM, ou dos seus representantes legais, nos termos do número antecedente, devem coincidir com o 1.º dia de cada mês, sempre que estejam em causa medicamentos comparticipados.
+
+4 - As alterações dos preços de todos os medicamentos devem ser sempre comunicadas através do ponto único de recepção, até 20 dias antes da data da sua concretização.
+
+###### Artigo 4.º — Autorização inicial dos preços
+
+Os preços autorizados pela DGAE, nos termos dos artigos 6.º e 8.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, podem ser praticados pelos titulares das AIM, ou os seus representantes legais, após recepção das respectivas comunicações ou, na falta de qualquer comunicação por parte da DGAE, no prazo de 30 dias, contados da data de recepção do pedido, considerando-se, neste caso, tacitamente autorizados os preços propostos pelo requerente.
+
+###### Artigo 5.º — Revisão anual dos preços de medicamentos não genéricos
+
+1 - Para efeitos do disposto no artigo 7.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, os titulares de autorização de AIM, ou os seus representantes legais, apresentam, no ponto único de recepção, até 15 de Dezembro de cada ano, as listagens dos preços a praticar, os quais entram em vigor no dia 1 de Janeiro seguinte.
+
+2 - A revisão anual dos preços processa-se do seguinte modo:
+
+a) O PVP a autorizar é o resultante da aplicação das regras definidas no artigo 6.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, conjugadas com o disposto no artigo 7.º, sem prejuízo do disposto nas alíneas seguintes.
+
+b) Nos casos em que da aplicação do disposto na alínea anterior resulte um PVP superior ao que se encontra em vigor, este mantém-se inalterado.
+
+c) Quando não existir medicamento não genérico idêntico ou similar nos países de referência, o PVP praticado mantém-se inalterado.
+
+3 - Ficam excepcionados da aplicação do disposto no presente artigo as apresentações de medicamentos não genéricos cujos PVP em vigor sejam inferiores ou iguais a (euro) 5,00.
+
+4 - Nos casos em que a DGAE detecte uma incorrecta ou inadequada actualização dos preços resultantes da aplicação deste artigo, comunica aos titulares de AIM, ou aos seus representantes legais, e ao INFARMED os novos preços corrigidos, os quais entram em vigor no prazo de cinco dias úteis após a recepção da comunicação.
+
+###### Artigo 6.º — Revisão anual dos preços de medicamentos genéricos
+
+1 - Para efeitos do disposto no artigo 8.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, os titulares de autorização de AIM, ou os seus representantes legais, apresentam, no ponto único de recepção, até 15 de Janeiro de cada ano, as listagens dos preços a praticar, os quais entram em vigor no dia 1 de Fevereiro seguinte.
+
+2 - Os PVP dos medicamentos genéricos são objecto de revisão anual em função do preço máximo, administrativamente fixado, do medicamento de referência com igual dosagem e na mesma forma farmacêutica.
+
+3 - Sem prejuízo do disposto no número seguinte, os PVP dos medicamentos genéricos devem ser reduzidos, até ao valor correspondente a 50% do preço máximo, administrativamente fixado, do medicamento de referência com igual dosagem e na mesma forma farmacêutica.
+
+4 - Nos casos em que os preços de venda ao armazenista (PVA) de todas as apresentações do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, sejam inferiores a (euro) 10, os PVP dos medicamentos genéricos devem ser reduzidos, até ao valor correspondente a 75% do preço máximo administrativamente fixado.
+
+5 - Nas situações em que da aplicação do disposto nos n.os 3 e 4 do presente artigo resulte um PVP superior ao que se encontra em vigor, este mantém-se inalterado.
+
+6 - No caso de não existir medicamento de referência em nenhuma dosagem do medicamento genérico que, no âmbito da revisão, possa constituir base para a determinação do PVP, mantém-se inalterado o PVP em vigor.
+
+7 - No caso de existir medicamento de referência apenas em dosagens diferentes da do medicamento genérico objecto de revisão, considera-se para este efeito o PVP do medicamento de referência da dosagem mais aproximada.
+
+8 - Para efeitos do disposto neste artigo deve observar-se o disposto nos n.os 3 e 4 do artigo 8.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, disponibilizando o INFARMED, para o efeito, informação sobre os medicamentos de referência relativos aos medicamentos genéricos.
+
+9 - Ficam excepcionados da aplicação do disposto no presente artigo as apresentações de medicamentos genéricos cujos PVP em vigor sejam inferiores ou iguais a (euro) 3,25.
+
+10 - Nos casos em que a DGAE detecte uma incorrecta ou inadequada actualização dos preços resultantes da aplicação deste artigo, comunica aos titulares de AIM, ou aos seus representantes legais, e ao INFARMED os novos preços corrigidos, os quais entram em vigor no prazo de cinco dias úteis após a recepção da comunicação.
+
+#### SECÇÃO II — Procedimentos para comparação de preços
+
+###### Artigo 7.º — Preços dos medicamentos não genéricos
+
+1 - As comparações de preços previstas nos n.os 4 e 5 do artigo 6.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, obedecem ao disposto nos números seguintes.
+
+2 - A comparação a efectuar tem como referência a apresentação de menor dimensão em Portugal, cujo PVA é determinado com base na comparação, em cada um dos países de referência, com o PVA da apresentação de dimensão mais aproximada ou, caso sejam equidistantes, com a de menor dimensão de entre estas.
+
+3 - A comparação a efectuar relativamente a cada país, prevista nas alíneas a) e b) do n.º 4 do artigo 6.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, devem respeitar, prioritariamente, o mesmo acondicionamento do medicamento.
+
+4 - A comparação a efectuar relativamente a cada país, prevista na alínea b) do n.º 4 do artigo 6.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, deverá ter em consideração, quando estiver em causa uma dosagem diferente, a proporcionalidade entre as dosagens da substância activa em causa.
+
+5 - Tratando-se de associação de duas ou mais substâncias activas, a comparação a efectuar deverá respeitar a proporção entre elas.
+
+6 - Para efeitos do disposto na alínea b) do n.º 4 do artigo 6.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, e para a fixação em Portugal de PVP para apresentações de dimensão diferente, os preços são estabelecidos tendo em consideração a proporcionalidade entre as dimensões das apresentações em causa e a aplicação dos seguintes critérios, reportados ao preço com que se estabelece a comparação:
+
+a) No caso de relação de um para até três, inclusive, ou o inverso, redução de até 3% ou aumento de até 3% no preço;
+
+b) No caso de relação de um para mais de três, ou o inverso, redução de 5% ou aumento de 5% no preço.
+
+7 - O câmbio a utilizar para a conversão, em euros, do preço do país de origem, quando este não pertença à zona euro, é o praticado pelo Banco de Portugal no 1.º dia útil do mês relativo à data do registo do pedido de autorização de preço.
+
+###### Artigo 8.º — Preços dos medicamentos genéricos
+
+1 - As comparações dos PVP dos medicamentos genéricos com os dos medicamentos de referência reportam-se à mesma dosagem, forma farmacêutica e apresentação.
+
+2 - No caso de a apresentação do medicamento genérico não ter correspondência directa com a do medicamento de referência, o PVP da apresentação deste último é determinado tendo em consideração os critérios definidos nas alíneas a) e b) do n.º 6 do artigo anterior, reportados ao preço com que se estabelece a comparação.
+
+###### Artigo 9.º — Importação paralela
+
+1 - No caso de o medicamento considerado não ter preço aprovado e a sua apresentação não ter correspondência directa com as dos medicamentos idênticos ou essencialmente similares, a comparação é feita de acordo com os critérios definidos nas alíneas a) e b) do n.º 6 do artigo 7.º, reportados ao preço com que se estabelece a comparação.
+
+2 - O disposto no n.º 4 do artigo 6.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, é aplicável com as necessárias adaptações.
+
+#### SECÇÃO III — Disposições finais e transitórias
+
+###### Artigo 10.º — Transição de preços
+
+1 - A partir da data de entrada em vigor dos novos preços, a indústria não pode colocar nos distribuidores por grosso, nem nas farmácias, medicamentos que apresentem preços diferentes dos resultantes do disposto no presente diploma.
+
+2 - Os medicamentos abrangidos pelo presente diploma que se encontrem nos distribuidores grossistas e nas farmácias marcados com o preço antigo, no dia anterior ao da entrada em vigor dos novos preços, poderão ser escoados com aquele preço:
+
+a) Pelo prazo de 60 dias, contados a partir dessa data, no caso dos distribuidores grossistas;
+
+b) Pelo prazo de 90 dias, contados a partir da mesma data, no caso das farmácias.
+
+3 - É permitida a remarcação de preços pela indústria nas instalações das farmácias ou dos distribuidores grossistas.
+
+###### Artigo 11.º — Disposições transitórias
+
+1 - Excepcionalmente no ano de 2012 os titulares de autorização de AIM, ou os seus representantes legais, apresentam, no ponto único de recepção, as listagens dos preços a praticar:
+
+a) Até 15 de Março relativamente aos medicamentos abrangidos pelo artigo 7.º do Decreto-lei n.º 112/2011, de 29 de Novembro, que entram em vigor no dia 1 de Abril de 2012;
+
+b) Até 15 de Abril relativamente aos medicamentos abrangidos pelo artigo 9.º do Decreto-lei n.º 112/2011, de 29 de Novembro, que entram em vigor no dia 1 de Maio de 2012.
+
+2 - Até à entrada em vigor da portaria que regulamenta o ponto único de recepção, os pedidos de autorização de novos PVP são apresentados à DGAE e os PVP resultantes de revisão anual são comunicados simultaneamente à DGAE e ao INFARMED.
+
+3 - Até à entrada em vigor da portaria que regulamenta o ponto único de recepção a DGAE define e publica na sua página electrónica o formato, o suporte e os requisitos do pedido, bem como os documentos que, obrigatória ou facultativamente, devem acompanhá-lo.
+
+4 - Até à entrada em vigor da portaria que regulamenta as deduções a que se refere o n.º 5 do artigo 3.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de Novembro, mantém-se em vigor o disposto na [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de Outubro.
+
+###### Artigo 12.º — Norma revogatória
+
+São revogadas a [Portaria n.º 312-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2010-207801), de 11 de Junho, alterada pela [Portaria n.º 337-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/337-a-2010-642687), de 16 de Junho, e pela [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de Outubro, e a [Portaria n.º 112-B/2011](https://diariodarepublica.pt/dr/detalhe/portaria/112-b-2011-374643), de 22 de Março.
+
+###### Artigo 13.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 27 de Dezembro de 2011.
+
+O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira.

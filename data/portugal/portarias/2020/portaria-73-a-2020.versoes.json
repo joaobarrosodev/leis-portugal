@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130366467:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-130472663",
+ "dre_path": "/dr/detalhe/portaria/73-a-2020-130366467",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "130472875",
+    "130472876",
+    "130472877",
+    "130472878",
+    "130472879",
+    "130472880",
+    "130472881",
+    "130472882"
+   ]
+  }
+ ],
+ "fragments": {
+  "130472875": {
+   "fragment_id": "130472664",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 73-A/2020\n\nde 17 de março\n\nSumário: Procede à requisição civil de trabalhadores da estiva e portuários.\n\nA Resolução do Conselho de Ministros n.º 10-C/2020, de 17 de março, reconheceu a necessidade de se proceder à requisição civil dos trabalhadores portuários em situação de greve, declarada pelo Sindicato Nacional dos Estivadores, Trabalhadores do Tráfego, Conferentes Marítimos e Outros (SETC) das 8 horas do dia 9 de março de 2020 às 8 horas do dia 30 de março de 2020 e das 8 horas do dia 16 de março de 2020 às 8 horas do dia 30 de março de 2020.\n\nAo abrigo do disposto na referida resolução, decreta-se, com efeito imediato, a requisição civil dos trabalhadores portuários aderentes à greve nas empresas em que se encontra comprovado o incumprimento dos serviços decretados pelo Despacho n.º 9/2020, do Secretário de Estado Adjunto, do Trabalho e da Formação Profissional e do Secretário de Estado Adjunto e das Comunicações, de 6 de março de 2020.\n\nAssim:\n\nEm execução da Resolução do Conselho de Ministros n.º 10-C/2020, de 17 de março, e ao abrigo dos n.os 2 e 4 do artigo 4.º do Decreto-Lei n.º 637/74, de 20 de novembro, e do n.º 3 do artigo 541.º do Código do Trabalho, manda o Governo, pelo Ministro das Infraestruturas e da Habitação, o seguinte:"
+  },
+  "130472876": {
+   "fragment_id": "130472665",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria requisita os trabalhadores da estiva e portuários que exerçam funções nas empresas em que se encontra comprovado o incumprimento dos serviços decretados pelo Despacho n.º 9/2020, do Secretário de Estado Adjunto, do Trabalho e da Formação Profissional e do Secretário de Estado Adjunto e das Comunicações, de 6 de março de 2020, no seguimento da greve declarada pelo Sindicato Nacional dos Estivadores, Trabalhadores do Tráfego, Conferentes Marítimos e Outros (SETC).\n\n2 - A greve a que se refere o número anterior foi comunicada através dos pré-avisos subscritos a 21 de fevereiro de 2020 e 1 de março de 2020 pelo SETC, para vigorar das 8 horas do dia 9 de março de 2020 às 8 horas do dia 30 de março de 2020 e das 8 horas do dia 16 de março de 2020 às 8 horas do dia 30 de março de 2020."
+  },
+  "130472877": {
+   "fragment_id": "130472666",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisição civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisição civil\n\n1 - Os trabalhadores da estiva e portuários a requisitar são os que exerçam funções nas empresas em que se encontra comprovado o incumprimento dos serviços decretados pelo Despacho n.º 9/2020, do Secretário de Estado Adjunto, do Trabalho e da Formação Profissional e do Secretário de Estado Adjunto e das Comunicações, de 6 de março de 2020.\n\n2 - Os trabalhadores da estiva e portuários a requisitar são os que se mostrem necessários para o cumprimento dos serviços definidos no despacho referido no número anterior, com especial prioridade para os serviços definidos para as regiões autónomas dos Açores e da Madeira.\n\n3 - Para os efeitos previstos no número anterior, devem as administrações das empresas abrangidas pela presente portaria comunicar à estrutura sindical que declarou a greve ou a quem a represente para o efeito, com a antecedência mínima de 48 horas relativamente a cada dia de greve, os atos incluídos nos serviços ao abrigo do citado despacho conjunto, bem como os meios humanos necessários para os assegurar.\n\n4 - Após a referida comunicação, a associação sindical dispõe de 24 horas para indicar os trabalhadores necessários a assegurar a realização dos atos incluídos nos serviços fixados no Despacho n.º 9/2020.\n\n5 - Na falta de designação dos trabalhadores da estiva e portuários, nas 24 horas que antecedem cada dia de greve, compete às administrações das empresas abrangidas pela presente portaria requisitar os trabalhadores necessários a assegurar os mencionados serviços, segundo o mesmo critério que assiste à associação sindical.\n\n6 - Para os efeitos previstos no número anterior, os trabalhadores da estiva e portuários a requisitar devem corresponder aos que se disponibilizem para assegurar funções em serviços mínimos, e, na sua ausência ou insuficiência, os que constem da escala de serviço.\n\n7 - A requisição civil visa a prestação, pelos trabalhadores da estiva e portuários a que se referem os números anteriores, das funções inerentes ao seu conteúdo funcional, no âmbito da estrutura organizativa em que se inserem, bem como dos deveres a que estão obrigados, com salvaguarda da regulamentação legal e convencional aplicável.\n\n8 - Os trabalhadores da estiva e portuários requisitados que aleguem impossibilidade de cumprimento por motivo de doença devem fazer prova dessa situação mediante certificado de incapacidade temporária, a emitir pelo Serviço Nacional de Saúde, o qual deve ser imediatamente entregue ao empregador.\n\n9 - A situação de doença referida no número anterior pode ser verificada por médico, nos termos previstos na legislação aplicável.\n\n10 - A oposição, sem motivo atendível, à verificação da doença a que se refere o número anterior determina que a ausência seja considerada injustificada, nos termos da lei.\n\n11 - Nos termos do n.º 4 do artigo 254.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, a apresentação de declaração médica com intuito fraudulento constitui falsa declaração para efeitos de justa causa de despedimento."
+  },
+  "130472878": {
+   "fragment_id": "130472667",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA presente requisição civil produz efeitos até ao dia 30 de março de 2020 ou até fim da greve, se este ocorrer primeiro."
+  },
+  "130472879": {
+   "fragment_id": "130472668",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade responsável pela execução da requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade responsável pela execução da requisição\n\nA autoridade responsável pela execução da requisição é o Ministro das Infraestruturas e da Habitação."
+  },
+  "130472880": {
+   "fragment_id": "130472669",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para atos de gestão corrente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência para atos de gestão corrente\n\nA competência para a prática de atos de gestão decorrentes da requisição civil incumbe à administração de cada uma das empresas referidas no artigo 1.º"
+  },
+  "130472881": {
+   "fragment_id": "130472670",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime laboral aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime laboral aplicável\n\nDurante o período da requisição civil, os trabalhadores requisitados mantêm-se sujeitos ao regime jurídico e disciplinar que decorre do seu vínculo laboral."
+  },
+  "130472882": {
+   "fragment_id": "130472671",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\n1 - A presente portaria entra imediatamente em vigor.\n\n2 - Nos dias e períodos compreendidos entre as 8 horas do dia 18 de março de 2020 e as 8 horas do dia 30 de março de 2020, os trabalhadores portuários a requisitar devem corresponder aos que se disponibilizem para assegurar funções em serviços mínimos e, na sua ausência ou insuficiência, os que constem da escala de serviço."
+  }
+ }
+}

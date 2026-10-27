@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:455471:por
+title: Portaria n.º 935/2008
+short_title: null
+summary: Aprova o regulamento de extensão das alterações dos CCT entre a ATP - Associação Têxtil e Vestuário de Portugal e
+  a FESETE - Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal e entre
+  a mesma associação de empregadores e o SINDEQ - Sindicato Democrático da Energia, Química, Têxtil e Indústrias Diversas
+  e outro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 935/2008
+official_date: null
+publication_date: '2008-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2008, Série I de 2008-08-19
+  number: '159'
+  series: I
+  supplement: null
+  pages: 5743 - 5744
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15900/0574305744.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/935/2008/08/19/p/dre/pt/html
+  oj: null
+  dre: '455471'
+  dre_path: /dr/detalhe/portaria/935-2008-455471
+  internal: pt:dre:455471:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/935-2008-455471
+  metadata_url: https://data.dre.pt/eli/port/935/2008/08/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/935-2008-455471
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 10fa6dba3e0485438d38e51e674efeccf03ecf15dddc290ce31957a35042ecc5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação Nacional das Indústrias do Vestuário e Confecção
+- Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
+- Indústria Têxtil
+- Regulamento de Extensão
+- Relações de Trabalho
+- Tabela Salarial
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:35:20Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 935/2008
+
+de 19 de Agosto
+
+As alterações aos contratos colectivos de trabalho entre a ATP - Associação Têxtil e Vestuário de Portugal e a FESETE - Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal e entre a mesma associação de empregadores e o SINDEQ - Sindicato Democrático da Energia, Química, Têxtil e Indústrias Diversas e outro, publicadas no Boletim do Trabalho e Emprego, n.os 8 e 15, de 29 de Fevereiro de 2008 e de 22 de Abril de 2008, respectivamente, abrangem as relações de trabalho entre empregadores e trabalhadores representados pelas associações que os outorgaram.
+
+As associações subscritoras requereram a extensão das alterações referidas às relações de trabalho em que sejam parte empregadores dos mesmos sectores de actividade não filados na associação de empregadores outorgante, com exclusão dos filiados na ANIVEC/APIV - Associação Nacional das Indústrias de Vestuário e Confecção, na ANIL - Associação Nacional dos Industriais de Lanifícios e na ANIT-LAR - Associação Nacional das Indústrias de Têxteis Lar e aos trabalhadores ao seu serviço.
+
+As convenções actualizam as tabelas salariais. Não foi possível proceder ao estudo de avaliação de impacte da extensão das tabelas salariais, com base no apuramento dos quadros de pessoal de 2005, nomeadamente, porque em 2006 as convenções alteraram o número dos níveis de retribuição e procederam à total reestruturação do elenco profissional.
+
+As convenções actualizam, ainda, o valor do subsídio de refeição. Não se dispõe de dados estatísticos que permitam avaliar o impacte desta prestação. Considerando a finalidade da extensão e que a mesma foi objecto de extensões anteriores, justifica-se incluí-la na extensão.
+
+As convenções abrangem as indústrias têxtil, de lanifícios e de vestuário. Para as indústrias têxtil, nomeadamente têxteis lar, e de lanifícios existem convenções colectivas celebradas pela Associação Nacional dos Industriais de Lanifícios (ANIL) e pela Associação Nacional das Indústrias de Têxteis Lar (ANIT-LAR); a indústria do vestuário é abrangida por convenções colectivas de trabalho celebradas pela Associação Nacional das Indústrias de Vestuário e Confecção (ANIVEC/APIV). Todas estas convenções têm sido objecto de extensão. A extensão anterior do CCT celebrado pela ATP - Associação Têxtil e Vestuário de Portugal excluiu do seu âmbito os empregadores filiados nas associações de empregadores acima referidas e, quanto à indústria de lanifícios, apenas abrangeu os empregadores nela filiados, por se verificar que a ATP representava um número muito reduzido de empresas de lanifícios com pequeno número de trabalhadores e que a ANIL representava um número de empresas muito superior que empregavam muito mais trabalhadores. Não existindo justificação para alterar o âmbito da extensão anterior, a presente extensão exclui da sua aplicação os empregadores filiados na Associação Nacional das Indústrias de Têxteis Lar (ANIT-LAR) e na Associação Nacional das Indústrias de Vestuário e Confecção (ANIVEC/APIV). Quanto à indústria de lanifícios, as convenções celebradas pela Associação Nacional dos Industriais de Lanifícios (ANIL) são aplicáveis a toda a indústria de lanifícios, com exclusão das empresas filiadas na ATP que serão abrangidas pela presente extensão.
+
+Dado que, nas indústrias têxtil e de vestuário, todas as convenções existentes são celebradas por associações de empregadores representativas, a presente extensão abrange as empresas filiadas na ATP, bem como as empresas não filiadas em qualquer das associações em concorrência com as extensões das convenções celebradas pela ANIT-LAR e pela ANIVEC/APIV.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 24, de 29 de Junho de 2008, na sequência do qual a FEPCES - Federação Portuguesa dos Sindicatos do Comércio, Escritórios e Serviços deduziu oposição.
+
+Esta federação invoca a existência de regulamentação colectiva específica constante do contrato colectivo de trabalho celebrado com a então Associação Portuguesa das Indústrias de Malha e Confecção e outras, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 13, de 8 de Abril de 1995, com última publicação no Boletim do Trabalho e Emprego, 1.ª série, n.º 19, de 22 de Maio de 2003, bem como a constante do contrato colectivo de trabalho celebrado com a ATP - Associação Têxtil e Vestuário de Portugal, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 30, de 15 de Agosto de 2005. Considerando que o regulamento de extensão só pode ser emitido na falta de instrumentos de regulamentação colectiva de trabalho negociais, de acordo com o artigo 3.º do Código do Trabalho, são excluídas do âmbito da extensão as relações de trabalho em que sejam parte trabalhadores filiados em sindicatos inscritos na federação oponente.
+
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas dos sectores de actividade abrangidos pelas convenções, a extensão assegura para as tabelas salariais e para o subsídio de refeição retroactividade idêntica à das convenções.
+
+A extensão das convenções tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+
+Embora as convenções tenham área nacional, a extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a extensão é apenas aplicável no território do continente.
+
+Assim:
+
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º
+
+1 - As condições de trabalho constantes das alterações dos contratos colectivos de trabalho entre a ATP - Associação Têxtil e Vestuário de Portugal e a FESETE - Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal e entre a mesma associação de empregadores e o SINDEQ - Sindicato Democrático da Energia, Química, Têxtil e Indústrias Diversas e outro, publicadas no Boletim do Trabalho e Emprego, n.os 8 e 15, de 29 de Fevereiro de 2008 e de 22 de Abril de 2008, respectivamente, são estendidas, no território do continente:
+
+a) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que exerçam as actividades económicas abrangidas pelas convenções, com excepção da indústria de lanifícios, e trabalhadores ao seu serviço das profissões e categorias profissionais nelas previstas;
+
+b) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que exerçam as actividades económicas abrangidas pelas convenções e trabalhadores ao seu serviço das profissões e categorias profissionais nelas previstas não representados pelas associações sindicais outorgantes.
+
+2 - O disposto na alínea a) do número anterior não se aplica aos empregadores filiados na ANIT-LAR - Associação Nacional das Indústrias de Têxteis Lar e na ANIVEC/APIV - Associação Nacional das Indústrias de Vestuário e Confecção.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e o valor do subsídio de refeição produzem efeitos desde 1 de Janeiro de 2008.
+
+3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de três.
+
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 6 de Agosto de 2008.

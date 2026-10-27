@@ -1,0 +1,447 @@
+---
+schema_version: '1.0'
+id: pt:dre:140566:por
+title: Decreto n.º 44337
+short_title: null
+summary: Regula a distribuição do pessoal docente, técnico e auxiliar da Faculdade de Medicina da Universidade de Coimbra
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: '44337'
+official_date: null
+publication_date: '1962-05-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 106/1962, Série I de 1962-05-10
+  number: '106'
+  series: I
+  supplement: null
+  pages: 702 - 704
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/05/10600/07020704.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '140566'
+  dre_path: /dr/detalhe/decreto/44337-1962-140566
+  internal: pt:dre:140566:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44337-1962-140566
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44337-1962-140566
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d7c4a633f8ecac446c495e59bdbf169dabcce56a99a27ab2913d9ed94e26cc97
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:517864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669130:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:29:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44337
+
+Tendo em vista o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 44206](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44206-1962-517864), de 24 de Fevereiro de 1962;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Na Faculdade de Medicina da Universidade de Coimbra corresponde um professor catedrático a cada uma das seguintes disciplinas:
+
+Anatomia Descritiva.
+
+Histologia e Embriologia.
+
+Fisiologia.
+
+Bacteriologia e Parasitologia.
+
+Anatomia Patológica.
+
+Farmacologia.
+
+Propedêutica Médica e Semiótica Laboratorial.
+
+Higiene e Medicina Social.
+
+Patologia Médica.
+
+Patologia Cirúrgica.
+
+Terapêutica Médica.
+
+Medicina Operatória.
+
+Clínica Obstétrica.
+
+Ginecologia.
+
+Clínica Médica.
+
+Clínica Cirúrgica.
+
+Urologia.
+
+Clínica Pediátrica e Puericultura.
+
+Medicina Legal e Toxicologia Forense.
+
+Psiquiatria.
+
+§ único. Os dois restantes professores catedráticos considerar-se-ão adstritos às disciplinas que o Ministro da Educação Nacional designar em atenção às necessidades do serviço e sobre proposta do Conselho Escolar.
+
+Art. 2.º Os lugares de professor extraordinário distribuir-se-ão da forma seguintes pelos diversos grupos e subgrupos de disciplinas:
+
+Grupos e subgrupos:
+
+... Número de professores
+
+1.º grupo:
+
+Subgrupo A ... 1
+
+Subgrupo B ... 1
+
+2.º grupo ... 1
+
+Subgrupo B ... 1
+
+3.º grupo ... 1
+
+4.º grupo ... 1
+
+5.º grupo ... 2
+
+6.º grupo ... 2
+
+7.º grupo ... 2
+
+8.º grupo ... 1
+
+9.º grupo ... 1
+
+10.º grupo ... 1
+
+§ único. Os três restantes professores extraordinários considerar-se-ão adstritos aos grupos e subgrupos que o Ministro da Educação Nacional designar em atenção às necessidades do serviço e sobre proposta do Conselho Escolar.
+
+Art. 3.º Os lugares de assistentes distribuir-se-ão da forma seguinte pelas diversas disciplinas:
+
+Disciplinas:
+
+... Número de assistentes:
+
+Biologia Médica ... 1
+
+Anatomia Descritiva ... 1
+
+Anatomia Topográfica ... 1
+
+Histologia e Embriologia ... 3
+
+Fisiologia ... 2
+
+Química Fisiológica ... 2
+
+Bacteriologia e Parasitologia ... 2
+
+Patologia Geral ... 2
+
+Anatomia Patológica ... 2
+
+Farmacologia ... 2
+
+Propedêutica Médica e Semiótica Laboratorial ... 2
+
+Terapêutica Geral e Hidrologia ... 1
+
+Propedêutica Cirúrgica ... 1
+
+Semiótica Radiológica ... 1
+
+Higiene e Medicina Social ... 2
+
+Deontologia ... 1
+
+Ortopedia ... 1
+
+Patologia Médica ... 2
+
+Terapêutica Médica ... 1
+
+Patologia Cirúrgica ... 3
+
+Medicina Operatória ... 2
+
+Clínica Obstétrica ... 3
+
+Ginecologia ... 2
+
+Dermatologia e Venereologia ... 1
+
+Oftalmologia ... 2
+
+Neurologia ... 1
+
+Clínica Médica ... 3
+
+Pneumotisiologia ... 1
+
+Clínica de Doenças Infecciosas ... 1
+
+Clínica Cirúrgica ... 3
+
+Urologia ... 1
+
+Clínica Pediátrica e Puericultura ... 2
+
+Medicina Legal e Toxicologia Forense ... 3
+
+Psiquiatria ... 2
+
+Art. 4.º É o seguinte o quadro, por serviços, do pessoal técnico e auxiliar:
+
+Serviço e categoria dos funcionários:
+
+... Número de funcionários
+
+Anatomia normal:
+
+Chefe de serviço ... 1
+
+Preparador ... 1
+
+Catalogador ... 1
+
+Histologia e embriologia:
+
+Preparador-conservador ... 1
+
+Preparador ... 1
+
+Ajudante de preparador ... 1
+
+Catalogador ... 1
+
+Fotógrafo ... 1
+
+Fisiologia:
+
+Chefe de serviço ... 1
+
+Preparador-conservador ... 1
+
+Preparador ... 1
+
+Química fisiológica e laboratório de radioisótopos:
+
+Técnico de energia nuclear ... 1
+
+Analista ... 1
+
+Preparador-conservador ... 1
+
+Preparador ... 2
+
+Ajudante de preparador ... 1
+
+Auxiliar de laboratório ... 1
+
+Bacteriologia e parasitologia:
+
+Chefe de serviço ... 1
+
+Analista ... 2
+
+Preparador ... 2
+
+Ajudante de preparador ... 2
+
+Patologia geral:
+
+Analista ... 1
+
+Preparador ... 1
+
+Ajudante de preparador ... 4
+
+Catalogador ... 1
+
+Auxiliar de laboratório ... 1
+
+Anatomia patológica:
+
+Prossector ... 1
+
+Ajudante de prossector ... 2
+
+Analista ... 1
+
+Preparador ... 6
+
+Fotógrafo ... 2
+
+Auxiliar de laboratório ... 3
+
+Farmacologia:
+
+Preparador-conservador ... 1
+
+Ajudante de preparador ... 2
+
+Catalogador ... 1
+
+Fotógrafo ... 1
+
+Higiene e medicina social:
+
+Chefe de serviço ... 1
+
+Analista ... 1
+
+Preparador ... 1
+
+Catalogador ... 1
+
+Medicina operatória:
+
+Preparador ... 1
+
+Clínica cirúrgica:
+
+Preparador-conservador ... 2
+
+Medicina legal e toxicologia forense:
+
+Catalogador ... 1
+
+Clínica obstétrica:
+
+Auxiliar de clínica ... 1
+
+Clínica pediátrica e puericultura:
+
+Auxiliar de clínica ... 1
+
+6.º grupo (medicina interna):
+
+Auxiliar de clínica ... 4
+
+7.º grupo (cirurgia geral):
+
+Auxiliar de clínica ... 4
+
+Laboratório de análises clínicas:
+
+Chefe de serviço ... 1
+
+Analista ... 2
+
+Preparador ... 1
+
+Laboratório de clínica cirúrgica:
+
+Analista ... 1
+
+Preparador ... 1
+
+Laboratório de química biológica e físico-química:
+
+Analista ... 1
+
+Preparador ... 1
+
+Laboratório de electrologia:
+
+Chefe de serviço ... 1
+
+Laboratório de ortopedia:
+
+Chefe de serviço ... 1
+
+Laboratório de radiologia:
+
+Chefe de serviço ... 1
+
+Preparador ... 1
+
+Montador de máquinas ... 1
+
+Serviços de estomatologia:
+
+Chefe de serviço ... 1
+
+Biblioteca:
+
+Segundo-bibliotecário ... 1
+
+Catalogador ... 2
+
+Auxiliar de laboratório ... 2
+
+Serviços centrais - Secretaria e oficinas:
+
+Bedel (ver nota a) ... 1
+
+Catalogador ... 2
+
+Auxiliar de laboratório ... 1
+
+Artífice ... 4
+
+Maquinista ... 1
+
+Tratador de animais ... 2
+
+(nota a) Lugar exercido por um aspirante da Secretaria da Universidade (artigo 1.º do [Decreto-Lei n.º 38841](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38841-1952-669130), de 29 de Julho de 1952).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 10 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Lopes de Almeida.

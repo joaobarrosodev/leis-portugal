@@ -1,0 +1,1161 @@
+---
+schema_version: '1.0'
+id: pt:dre:639318:por
+title: Decreto-Lei n.º 241/2007
+short_title: null
+summary: Define o regime jurídico aplicável aos bombeiros portugueses no território continental
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 241/2007
+official_date: null
+publication_date: '2007-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/2007, Série I de 2007-06-21
+  number: '118'
+  series: I
+  supplement: null
+  pages: 3925 - 3933
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11800/39253933.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- As alterações introduzidas ao presente diploma pela Lei n.º 19/2025, de 26 de fevereiro de 2025, entram em vigor com a lei
+  do Orçamento do Estado para 2026.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-01'
+version_history:
+  file: decreto-lei-241-2007.versoes.json
+  count: 7
+  source_lastmod: '2026-08-17'
+  versions:
+  - date: '2007-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-29'
+    amending: pt:dre:493012:por
+    amending_title: Lei n.º 48/2009
+    changes:
+    - Adita Artigo 1.º-A
+    - Altera Artigo 1.º
+    - Entrada Vigor Diploma
+  - date: '2012-11-26'
+    amending: pt:dre:257040:por
+    amending_title: Declaração de Retificação n.º 3/2013; Declaração de Retificação n.º 4-A/2013; Decreto-Lei n.º 249/2012
+    changes:
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Entrada Vigor Diploma
+    - Retifica Artigo 34.º
+    - Retifica Artigo 35.º
+    - Retifica Artigo 35.º-A
+    - Adita Artigo 35.º-A
+    - Adita Artigo 35.º-B
+    - Adita Artigo 48.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 46.º
+  - date: '2017-06-03'
+    amending: pt:dre:107458721:por
+    amending_title: Lei n.º 38/2017
+    changes:
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+  - date: '2019-04-02'
+    amending: pt:dre:121748967:por
+    amending_title: Decreto-Lei n.º 45/2019
+    changes:
+    - Altera Artigo 40.º
+  - date: '2019-05-17'
+    amending: pt:dre:122317423:por
+    amending_title: Decreto-Lei n.º 64/2019
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 46.º
+    - Revoga Artigo 11.º
+  - date: '2025-01-01'
+    amending: pt:dre:901667918:por
+    amending_title: Lei n.º 45-A/2024
+    changes:
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/241/2007/p/cons/20260803/pt/html
+  oj: null
+  dre: '639318'
+  dre_path: /dr/detalhe/decreto-lei/241-2007-639318
+  internal: pt:dre:639318:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318
+  metadata_url: https://data.dre.pt/eli/dec-lei/241/2007/p/cons/20260803/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34562975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34562975
+  retrieved_at: '2026-10-22T13:48:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-17T00:00:00Z'
+integrity:
+  source_sha256: 88bbfeff50b2dd798ca4bf42ebfe04861742de8eac49ceed09df9dd44ae45ba0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:48:34Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-241-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Ajuda Judicial
+- Tempo de Serviço
+- Aposentação
+- Assistência Médica
+- Assistência Medicamentosa
+- Bonificação de Pensões
+- Cartão de Identificação
+- Contribuições da Segurança Social
+- Ensino Oficial
+- Carreira Profissional
+- Caixa Geral de Aposentações
+- Formas de Provimento
+- Fundo de Proteção Social do Bombeiro
+- Isenção de Taxas e Emolumentos
+- Bombeiro
+- Limite de Idade
+- Pensão de Invalidez
+- Pensão de Velhice
+- Doença Profissional
+- Prestações da Segurança Social
+- Proteção Social
+- Regime Jurídico
+- Condições de Higiene e Segurança no Trabalho
+- Ensino Superior
+- Mobilidade de Pessoal
+- Segurança Social
+- Seguro de Acidentes Pessoais
+- Seguro Social Voluntário
+- Autoridade Nacional de Protecção Civil
+- Educação Pré-escolar
+- Subsídio de Estudos
+- Subsídio por Morte
+- TAXA Moderadora
+- Autarquia Local
+- Fardamento
+relationships:
+- type: amended_by
+  target: pt:dre:493012:por
+  label: Adita Artigo 1.º-A; Altera Artigo 1.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:191076:por
+  label: Altera Artigo 34.º; Altera Artigo 35.º; Entrada Vigor Diploma; Retifica Artigo 34.º; Retifica Artigo 35.º; Retifica
+    Artigo 35.º-A; Adita Artigo 35.º-A; Adita Artigo 35.º-B; Adita Artigo 48.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera
+    Artigo 6.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera
+    Artigo 27.º; Altera Artigo 29.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076
+  date: '2012-11-21'
+- type: amended_by
+  target: pt:dre:257040:por
+  label: Altera Artigo 34.º; Altera Artigo 35.º; Entrada Vigor Diploma; Retifica Artigo 34.º; Retifica Artigo 35.º; Retifica
+    Artigo 35.º-A; Adita Artigo 35.º-A; Adita Artigo 35.º-B; Adita Artigo 48.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera
+    Artigo 6.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera
+    Artigo 27.º; Altera Artigo 29.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2013-257040
+  date: '2013-01-18'
+- type: amended_by
+  target: pt:dre:289588:por
+  label: Altera Artigo 34.º; Altera Artigo 35.º; Entrada Vigor Diploma; Retifica Artigo 34.º; Retifica Artigo 35.º; Retifica
+    Artigo 35.º-A; Adita Artigo 35.º-A; Adita Artigo 35.º-B; Adita Artigo 48.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera
+    Artigo 6.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera
+    Artigo 27.º; Altera Artigo 29.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-a-2013-289588
+  date: '2013-01-18'
+- type: amended_by
+  target: pt:dre:107458721:por
+  label: Adita Artigo 26.º-A; Adita Artigo 26.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/38-2017-107458721
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:121748967:por
+  label: Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967
+  date: '2019-04-01'
+- type: amended_by
+  target: pt:dre:122317423:por
+  label: Adita Artigo 6.º-A; Adita Artigo 6.º-B; Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 17.º; Altera Artigo
+    18.º; Altera Artigo 46.º; Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423
+  date: '2019-05-16'
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918
+  date: '2024-12-31'
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:521451:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/36/1994/02/08/p/dre
+- type: cites
+  target: pt:dre:616188:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/297/2000/11/17/p/dre
+article_structure:
+  article_count: 59
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:48:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 241/2007
+
+Os bombeiros portugueses reclamam há muitos anos uma reforma do que se convencionou chamar de «estatuto social».
+
+Esse estatuto, vertido em vários diplomas, carece de integração e de valorização institucional e a sua revisão leva a que se consagrem reivindicações que têm toda a razão de ser.
+
+Esta iniciativa vai, portanto, no sentido de criar um regime jurídico dos bombeiros portugueses que determine deveres e direitos, defina as regalias a que têm acesso e as condições em que esse acesso se concretiza, determine as responsabilidades do Estado e das autarquias locais perante cada uma das obrigações resultantes e clarifique as responsabilidades do Fundo de Protecção Social do Bombeiro, que é gerido, desde 1932, pela Liga dos Bombeiros Portugueses.
+
+No presente decreto-lei definem-se as regras de exercício da função, por parte dos bombeiros voluntários dos quadros de comando e activo, bem como as incompatibilidades entre o exercício da função de bombeiro e a prestação de serviços ou fornecimento de bens à entidade detentora do mesmo corpo de bombeiros.
+
+Pela primeira vez se contempla a justa inclusão dos bombeiros que prestaram serviço nas associações humanitárias existentes nos territórios das antigas colónias portuguesas, concedendo-lhes os mesmos direitos dos bombeiros dos quadros de reserva e de honra.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias e, a título facultativo, a Liga dos Bombeiros Portugueses e a Associação Nacional dos Bombeiros Profissionais.
+
+Foram, ainda, cumpridos os procedimentos de negociação e participação dos trabalhadores da Administração Pública, nos termos da Lei n.º 23/98, de 16 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei define o regime jurídico aplicável aos bombeiros portugueses no território nacional, sem prejuízo das competências dos órgãos de governo próprio das regiões autónomas.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 48/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), em vigor a partir de 2010-04-29
+
+###### Artigo 1.º-A — Recenseamento Nacional dos Bombeiros Portugueses
+
+1 - O Recenseamento Nacional dos Bombeiros Portugueses (RNBP), regulado pelo Decreto-Lei n.º 49/2008, de 14 de Março, inclui também os bombeiros das regiões autónomas, cujos recenseamentos são efectuados pelos serviços regionais competentes e integram a base de dados nacional.
+
+2 - Os serviços regionais competentes articulam, na medida do necessário, com os serviços do RNBP, as acções e os procedimentos adequados à implementação da presente lei.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 48/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), em vigor a partir de 2010-04-29
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Bombeiro» o indivíduo que, integrado de forma profissional ou voluntária num corpo de bombeiros, tem por actividade cumprir as missões deste, nomeadamente a protecção de vidas humanas e bens em perigo, mediante a prevenção e extinção de incêndios, o socorro de feridos, doentes ou náufragos, e a prestação de outros serviços previstos nos regulamentos internos e demais legislação aplicável;
+
+b) «Corpo de bombeiros» a unidade operacional, oficialmente homologada e tecnicamente organizada, preparada e equipada para o cabal exercício das missões previstas na lei;
+
+c) «Entidade detentora de corpo de bombeiros» a entidade pública ou privada, designadamente o município ou a associação humanitária de bombeiros que cria, detém ou mantém um corpo de bombeiros.
+
+### Capítulo II — Dos bombeiros
+
+#### Secção I — Dos deveres, direitos e regalias dos bombeiros
+
+###### Artigo 3.º — Âmbito
+
+1 - Os bombeiros inseridos em quadros de pessoal homologados pela Autoridade Nacional de Protecção Civil e os bombeiros voluntários dos corpos de bombeiros mistos detidos pelos municípios gozam dos direitos e estão sujeitos aos deveres definidos nos artigos seguintes.
+
+2 - Sem prejuízo das disposições constantes dos diplomas orgânicos dos serviços ou dos regulamentos das entidades a que estejam vinculados, o disposto no presente decreto-lei aplica-se também aos bombeiros profissionais.
+
+###### Artigo 4.º — Deveres
+
+1 - São deveres do bombeiro dos quadros de comando e ativo:
+
+a) Cumprir a lei, o Estatuto e os regulamentos;
+
+b) Defender o interesse público e exercer as funções que lhe forem confiadas com dedicação, competência, zelo, assiduidade, obediência e correcção;
+
+c) Zelar pela actualização dos seus conhecimentos técnicos e participar nas acções de formação que lhe forem facultadas;
+
+d) Cumprir as normas de higiene e segurança;
+
+e) Cumprir as normas de natureza operacional, com pontualidade e exercício efectivo das funções;
+
+f) Cumprir com prontidão as ordens relativas ao serviço emanadas dos superiores hierárquicos;
+
+g) Usar o fardamento e equipamento adequado às acções em que participe.
+
+2 - São deveres especiais dos elementos integrantes do quadro de comando:
+
+a) Garantir a unidade do corpo de bombeiros;
+
+b) Velar e garantir a prontidão operacional;
+
+c) Assegurar a articulação operacional permanente com as estruturas de comando operacionais de nível distrital;
+
+d) Assegurar, nos termos da lei, a articulação com o respectivo serviço municipal de protecção civil;
+
+e) Garantir a articulação operacional com os corpos de bombeiros limítrofes;
+
+f) Zelar pela segurança e saúde dos bombeiros;
+
+g) Planear e desenvolver as actividades formativas e operacionais;
+
+h) Elaborar as normas internas necessárias ao bom funcionamento do corpo de bombeiros, bem como as estatísticas operacionais;
+
+i) Garantir a articulação, com correcção e eficiência, entre o corpo de bombeiros e a respectiva entidade detentora, com respeito pelo regime jurídico do corpo de bombeiros e pelos fins da mesma entidade.
+
+3 - Os bombeiros que integram os quadros de reserva e honra estão sujeitos aos deveres referidos no n.º 1, à exceção da alínea e).
+
+4 - São ainda deveres do bombeiro os que resultem de lei ou regulamento aplicáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 5.º — Direitos
+
+1 - São direitos dos bombeiros dos quadros de comando e activo:
+
+a) Usar uniforme e distintivos nos termos da regulamentação própria;
+
+b) Receber condecorações pelo mérito e abnegação demonstrados no exercício das suas funções, nos termos de regulamento próprio;
+
+c) Beneficiar de regime próprio de segurança social;
+
+d) Receber indemnizações, subsídios e pensões, bem como outras regalias legalmente previstas, em caso de acidente de serviço ou doença contraída ou agravada em serviço;
+
+e) Frequentar cursos, colóquios e seminários tendo em vista a sua educação e formação pessoal, bem como a instrução, formação e aperfeiçoamento como bombeiro;
+
+f) Beneficiar de seguro de acidentes pessoais, uniformizado e actualizado, por acidentes ocorridos no exercício das funções de bombeiro, ou por causa delas, que abranja os riscos de morte e invalidez permanente, incapacidade temporária e despesas de tratamento;
+
+g) Beneficiar de vigilância médica da saúde através de inspecções médico-sanitárias periódicas e ainda da vacinação adequada, estabelecida para os profissionais de risco;
+
+h) Ser integralmente ressarcido, através de um fundo próprio, das comparticipações ou pagamentos a seu cargo das despesas com assistência médico-medicamentosa, médico-cirúrgica e dos elementos e exames auxiliares de diagnóstico, internamentos hospitalares, tratamentos termais, próteses, fisioterapia e recuperação funcional, desde que tais encargos não devam ser suportados por outras entidades, por virtude de lei ou de contrato existente e válido, e decorram de acidente de serviço ou doença contraída ou agravada em serviço ou por causa dele;
+
+i) Ter acesso a um sistema de segurança, higiene e saúde no trabalho organizado nos termos da legislação vigente, com as necessárias adaptações;
+
+j) Beneficiar da bonificação em tempo, para efeitos de aposentação ou reforma, relativamente aos anos de serviço prestado como bombeiro.
+
+2 - São ainda direitos dos bombeiros os que resultem de outras leis ou regulamentos aplicáveis, nomeadamente de esquemas de incentivos ao voluntariado.
+
+3 - Os bombeiros que integram os quadros de reserva e honra beneficiam dos direitos referidos nas alíneas a), b), d), f) e h) do n.º 1.
+
+4 - Os elementos pertencentes à carreira de bombeiro especialista beneficiam dos direitos referidos nas alíneas a), b), d), e), f), g) e h) do n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 6.º — Regalias no âmbito da educação
+
+1 - Aos bombeiros dos corpos profissionais, mistos ou voluntários, são concedidas as seguintes regalias:
+
+a) Relevação de faltas às aulas motivadas pela comparência em actividade operacional, quando requerida pelo comandante do corpo de bombeiros;
+
+b) Realizarem, em data a combinar com o docente ou de acordo com as normas internas em vigor no estabelecimento de ensino, os testes escritos a que não tenham podido comparecer comprovadamente por motivo do cumprimento de actividade operacional.
+
+2 - Aos bombeiros dos corpos profissionais, mistos ou voluntários, com pelo menos dois anos de serviço efectivo é concedida ainda a faculdade de requererem em cada ano lectivo até cinco exames para além dos exames nas épocas normais e especiais, já consagradas na legislação em vigor, com um limite máximo de dois por disciplina.
+
+3 - Os bombeiros voluntários do quadro de comando e das carreiras de oficial bombeiro e bombeiro do quadro ativo, com pelo menos dois anos de serviço efetivo, têm direito ao reembolso das propinas e das taxas de inscrição pagas pela frequência dos ensinos secundário ou superior, desde que, cumulativamente:
+
+a) Não tenham beneficiado desta regalia para o mesmo grau académico;
+
+b) Tenham tido aproveitamento no ano letivo anterior, salvo tratando-se de início de curso.
+
+4 - Para efeitos do disposto no número anterior, o tempo de serviço é contado a partir da data de admissão no corpo de bombeiros, desde que tenha sido efetuado o ingresso nas respetivas carreiras.
+
+5 - Quando o estabelecimento de ensino superior se situar fora do território nacional, o benefício referido no n.º 3 apenas será concedido se o curso for reconhecido pela entidade competente para o efeito.
+
+6- Os descendentes dos bombeiros falecidos, acidentados em serviço ou vítimas de doença ou invalidez permanente contraída ou agravada em serviço ou por causa dele gozam das seguintes regalias:
+
+a) Prioridade, em igualdade de condições e aptidões, no ingresso em jardins-escola, infantários, estabelecimentos de ensino pré-escolar e afins;
+
+b) Atribuição de um subsídio correspondente à taxa de inscrição em estabelecimento de ensino pré-escolar da rede pública ou da rede privada;
+
+c) Reembolso de propinas e de taxas de inscrição pagas pela frequência dos ensinos secundário ou superior, devendo, para o efeito, comprovar documentalmente a qualidade de bombeiro do progenitor, bem como o aproveitamento no ano letivo anterior, salvo quando se trate do início do curso respetivo;
+
+d) Preferência na atribuição de subsídios de estudo, desde que tenham aproveitamento no ano lectivo anterior, salvo se se tratar de início de curso;
+
+e) Subsídios para custear as despesas de recuperação se forem deficientes motores, mentais, sensoriais ou de fala, a atribuir através do Fundo de Protecção Social do Bombeiro.
+
+7 - Os descendentes de primeiro grau de bombeiros voluntários dos quadros de comando e ativo com pelo menos 15 anos de serviço têm direito ao reembolso das propinas e da taxa de inscrição paga pela frequência do ensino superior, desde que tenham tido aproveitamento no ano letivo anterior, salvo se se tratar de início de curso.
+
+8 - Os bombeiros voluntários dos quadros de comando e ativo têm direito ao reembolso de 50 % das despesas suportadas com berçários, creches e estabelecimentos da educação pré-escolar, da rede pública, da rede do setor social e solidário com acordo de cooperação com o Estado e da rede privada, relativas a descendentes em primeiro grau.
+
+9 - O montante máximo a conceder, para pagamento dos benefícios referidos no n.º 3, no n.º 5, nas alíneas b) e c) do n.º 6 e no número anterior é de um salário mínimo nacional, em vigor no início do ano letivo a que as propinas, taxas de inscrição e despesas se reportam.
+
+10 - O montante máximo a conceder, para pagamento dos benefícios referidos no n.º 7, é o equivalente a 50 % do valor referido no número anterior.
+
+11 - Compete à Liga dos Bombeiros Portugueses, através do Fundo de Proteção Social do Bombeiro, a atribuição dos benefícios referidos nos números anteriores, após apreciação, por parte da Autoridade Nacional de Proteção Civil, dos processos de candidatura instruídos pela respetiva entidade detentora do corpo de bombeiros.
+
+12 - A organização dos processos de candidatura referidos no número anterior é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 6.º-A — Benefícios no âmbito dos municípios
+
+1 - Sem prejuízo dos poderes regulamentares que lhes são conferidos, os municípios, no âmbito das suas políticas sociais, podem comparticipar atividades de interesse municipal para os bombeiros, nomeadamente de âmbito social, cultural, desportivo e recreativo.
+
+2 - As comparticipações podem ser concretizadas através de protocolos ou parcerias com entidades legalmente existentes na área do respetivo município.
+
+3 - As comparticipações referidas no número anterior podem revestir a forma de concessão de subsídios, isenção ou redução de impostos, de taxas, de tarifas e preços, bem como de autorização para utilização de infraestruturas e equipamentos, ou outras consideradas de interesse para promover o exercício do voluntariado de bombeiros.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+###### Artigo 6.º-B — Outros benefícios
+
+1 - Os bombeiros voluntários beneficiam ainda das seguintes regalias:
+
+a) Desconto de 50 % na anuidade enquanto associado da Fundação Inatel;
+
+b) Redução de 50 % em todas as taxas e emolumentos cobradas pelos organismos tutelados pelo membro do Governo responsável pela área da administração interna;
+
+c) Acesso aos refeitórios da Administração central e local do Estado nas mesmas condições que os trabalhadores em funções públicas;
+
+d) Entrada gratuita nos museus e monumentos nacionais afetos à Direção-Geral do Património Cultural.
+
+2 - As regalias atribuídas aos bombeiros através de outros instrumentos, nomeadamente leis, protocolos ou regulamentos, mantêm-se em vigor, com exceção daquelas de idêntica natureza e finalidade às que se encontram previstas no presente decreto-lei.
+
+3 - O disposto nos números anteriores não prejudica a possibilidade de outras entidades públicas ou privadas atribuírem outros tipos de benefícios sociais aos bombeiros voluntários.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+###### Artigo 7.º — Patrocínio judiciário
+
+1 - Os bombeiros têm direito a assistência e patrocínio judiciário nos processos judiciais em que sejam demandados ou demandantes por factos ocorridos no âmbito do exercício de funções.
+
+2 - O direito a assistência e ao patrocínio judiciário referidos no número anterior são regulados em diploma próprio.
+
+###### Artigo 8.º — Pensão de preço de sangue
+
+1 - O Estado garante às famílias dos bombeiros voluntários que venham a falecer, por acidente ocorrido no exercício da actividade de bombeiro ou por doença contraída ou agravada no seu desempenho, ou por causa dele, uma pensão de preço de sangue, segundo o regime vigente para os trabalhadores da Administração Pública.
+
+2 - Origina ainda o direito à pensão de preço de sangue a incapacidade absoluta e permanente para o trabalho quando tal resulte de ferimentos ou acidentes ocorridos no desempenho da sua missão.
+
+3 - O quantitativo da pensão a conceder aos beneficiários não sofre qualquer redução quando dos atos que lhe dão origem tenha resultado o falecimento ou a incapacidade absoluta e permanente do seu autor para o trabalho e é cumulável com quaisquer outras pensões.
+
+4 - O processo para a concessão desta pensão é instruído pelo corpo de bombeiros e submetido a parecer da Autoridade Nacional de Protecção Civil.
+
+> Alterado pelo/a Artigo 323.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+###### Artigo 9.º — Acidentes em serviço e doenças profissionais
+
+1 - Em matéria de acidentes em serviço e doenças profissionais aplica-se aos bombeiros profissionais a legislação em vigor.
+
+2 - A protecção nas doenças profissionais e nos acidentes em serviço de voluntariado é assegurada aos bombeiros voluntários nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da segurança social.
+
+> Republicado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 10.º — Bonificação de tempo de serviço para efeitos de pensão
+
+1 - Os bombeiros voluntários portugueses que reúnam, pelo menos, 15 anos de serviço no quadro ativo ou de comando têm direito a uma bonificação de tempo de serviço para efeitos de pensão, independentemente do regime de proteção social que os abranja.
+
+2 - A bonificação prevista no número anterior corresponde a 15 % do tempo de serviço prestado como bombeiro voluntário nos quadros ativo e de comando, com o limite máximo de cinco anos de bonificação.
+
+3 - A percentagem de aumento a que se refere o número anterior não dispensa o pagamento, nos termos legais, das correspondentes contribuições para a Caixa Geral de Aposentações ou para a segurança social, que são suportadas em partes iguais pelo interessado e pelo Fundo de Proteção Social do Bombeiro.
+
+4 - Para efeitos do disposto nos números anteriores, as contribuições são calculadas com base na taxa aplicável sobre a base de incidência contributiva legalmente definida, nos termos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+5 - Compete à Autoridade Nacional de Emergência e Proteção Civil a certificação das condições de atribuição da bonificação prevista no presente artigo.
+
+6 - A bonificação prevista no presente artigo aplica-se aos beneficiários do regime de proteção social convergente, nos termos do regime geral de segurança social, com as necessárias adaptações.
+
+7 - O disposto no presente artigo não exclui a aplicação de regime mais favorável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+> Republicado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 11.º — Bonificação de pensões
+
+1 - Os bombeiros voluntários dos quadros de comando e activo têm direito a uma bonificação de pensão, de quantitativo equivalente ao previsto no artigo anterior, determinado em função do tempo de serviço prestado e quando estejam abrangidos pelos regimes contributivos de segurança social.
+
+2 - Os termos e condições necessários para a concretização do benefício referido no número anterior, nomeadamente no que se refere ao pagamento das contribuições correspondentes, são definidos por portaria  dos membros do Governo responsáveis pelas áreas da administração interna e da solidariedade social.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+> Republicado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+#### Secção II — Segurança social
+
+###### Artigo 12.º — Regime de protecção social
+
+O pessoal que exerça as funções de bombeiro em regime de voluntariado que, por não desempenhar qualquer actividade profissional, não beneficie de protecção social nem se encontre em situação que determine o direito à protecção no desemprego é enquadrado no regime de seguro social voluntário, nos termos do disposto nos artigos seguintes.
+
+###### Artigo 13.º — Seguro social voluntário
+
+Pode beneficiar do regime do seguro social voluntário a que se refere o artigo anterior o bombeiro que preencha, cumulativamente, os seguintes requisitos:
+
+a) Ter mais de 18 anos;
+
+b) Estar na situação de actividade nos quadros de comando ou activo;
+
+c) Ter exercido a actividade de bombeiro voluntário, nos quadros de comando ou activo, nos 12 meses imediatamente anteriores;
+
+d) Não estar abrangido por regime obrigatório de protecção social pelo exercício simultâneo de actividade profissional;
+
+e) Não se encontrar em situação que determine direito à protecção no desemprego;
+
+f) Não ser pensionista da função pública ou de qualquer regime de segurança social.
+
+###### Artigo 14.º — Requerimento
+
+1 - O enquadramento e benefício do seguro social voluntário dependem da manifestação de vontade do interessado, mediante requerimento apresentado pelo próprio e instruído com os seguintes documentos:
+
+a) Cartão de cidadão ou bilhete de identidade;
+
+b) Declaração, emitida pela Autoridade Nacional de Protecção Civil, comprovativa da categoria e do exercício da actividade de bombeiro voluntário, nos 12 meses anteriores ao requerimento;
+
+c) Declaração do interessado, exarada sob compromisso de honra, de que preenche os requisitos constantes das alíneas d) e e) do artigo anterior.
+
+2 - O pedido de benefício do regime do seguro social voluntário e, se for caso disso, a inscrição na segurança social são apresentados nos serviços de segurança social da área do corpo de bombeiros a que pertença o interessado.
+
+###### Artigo 15.º — Apreciação e decisão
+
+1 - Os serviços de segurança social competentes apreciam e decidem o pedido no prazo de 30 dias a contar da apresentação do requerimento devidamente instruído.
+
+2 - A decisão é notificada ao interessado e comunicada à entidade detentora do corpo de bombeiros e à Autoridade Nacional de Protecção Civil.
+
+###### Artigo 16.º — Início, cessação e reinício do enquadramento e da atribuição de benefícios
+
+1 - O enquadramento e a atribuição de benefícios produzem efeitos desde o 1.º dia do mês em que for deferido o requerimento do interessado.
+
+2 - O beneficiário pode, a todo o tempo, requerer a cessação da atribuição de benefícios, declarando-o, por escrito, aos serviços da segurança social competentes, com conhecimento à entidade detentora do corpo de bombeiros a que pertence e ao comando distrital de operações de socorro.
+
+3 - A atribuição do benefício cessa ainda quando o beneficiário deixar de preencher algum dos requisitos constantes do artigo 13.º do presente decreto-lei.
+
+4 - O beneficiário tem o dever de informar, por escrito, o corpo de bombeiros a que pertence, no prazo de oito dias, do início de actividade profissional que determine a cessação do enquadramento e da atribuição de benefícios.
+
+5 - A entidade detentora do corpo de bombeiros comunica ao comando distrital de operações de socorro e aos serviços de segurança social competentes o motivo de cessação do enquadramento e da atribuição de benefícios, até ao termo do mês seguinte àquele em que se verificou o facto gerador da cessação.
+
+6 - A cessação da atribuição de benefícios produz efeitos desde a data em que ocorreu o facto determinante da mesma.
+
+7 - O benefício pode ser retomado, a requerimento do beneficiário, quando se comprove a verificação dos seus requisitos e desde que decorridos seis meses sobre a cessação.
+
+###### Artigo 17.º — Esquema de prestações
+
+1 - O bombeiro abrangido pelo seguro social voluntário tem direito a:
+
+a) Prestações de doenças profissionais;
+
+b) Pensão de invalidez;
+
+c) Pensão de velhice;
+
+d) Pensão de sobrevivência;
+
+e) Subsídio por morte.
+
+2 - O bombeiro pode optar por ter proteção também na eventualidade de doença e parentalidade, mediante o pagamento da respetiva contribuição.
+
+3 - Para efeitos do disposto nos números anteriores, a atividade prestada como bombeiro voluntário considera-se equiparada a atividade profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+###### Artigo 18.º — Obrigação contributiva
+
+1 - As contribuições para a segurança social do pessoal abrangido pelo regime de seguro social voluntário são calculadas pela aplicação da taxa contributiva relativa ao âmbito material escolhido à base de incidência contributiva escolhida, nos termos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+2 - (Revogado.)
+
+3 - O pagamento das contribuições referidas no n.º 1 é efetuado pelas entidades detentoras dos corpos de bombeiros, sendo ressarcidas pelo Fundo de Proteção Social do Bombeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+#### Secção III — Assistência
+
+###### Artigo 19.º — Assistência médica e medicamentosa
+
+1 - Nos casos de acidente ou doença comprovadamente contraída ou agravada em serviço, podem os bombeiros voluntários beneficiar gratuitamente de assistência médica e medicamentosa, através do Fundo de Protecção Social do Bombeiro, na parte não coberta por outras entidades, em razão da lei ou de contrato.
+
+2 - A assistência médica e medicamentosa prevista no número anterior abrange:
+
+a) Especialidades médicas;
+
+b) Elementos auxiliares de diagnóstico;
+
+c) Encargos médico-cirúrgicos;
+
+d) Comparticipação do beneficiário em despesas de internamento hospitalar;
+
+e) Tratamentos termais;
+
+f) Próteses;
+
+g) Fisioterapia;
+
+h) Recuperação funcional.
+
+3 - Os mecanismos de atribuição deste benefício, que reveste carácter complementar e não pode constituir duplicação de regalias, são estabelecidos no regulamento do Fundo de Protecção Social do Bombeiro.
+
+4 - Não são passíveis de subsídio as despesas de assistência médica e medicamentosa, para além dos valores previstos nas tabelas aplicadas em estabelecimentos hospitalares oficiais, salvo se forem tratamentos especializados ali não realizáveis, ou que sejam objecto de aprovação prévia pelo órgão gestor do Fundo de Protecção Social do Bombeiro.
+
+###### Artigo 20.º — Subsídios para despesas de recuperação
+
+1 - Com o objectivo de custear despesas de recuperação, no caso de deficientes motores, mentais, sensoriais ou de fala, são assegurados subsídios adequados, através do Fundo de Protecção Social do Bombeiro, nos termos do respectivo regulamento.
+
+2 - São beneficiários dos subsídios para despesas de recuperação os filhos dos bombeiros falecidos em serviço ou por doença contraída ou agravada em serviço ou por causa dele.
+
+3 - No caso de descendentes de bombeiros profissionais, o subsídio referido no n.º 1 reveste carácter complementar dos encargos do organismo responsável, em função da entidade patronal, suportando o Fundo de Protecção Social do Bombeiro, neste caso, a diferença entre o valor dos encargos assumidos pelo organismo responsável e o montante por si normalmente atribuído nas mesmas circunstâncias.
+
+###### Artigo 21.º — Vigilância médica de saúde
+
+1- Sem prejuízo do apetrechamento das estruturas de bombeiros no que respeita à realização das inspecções médico-sanitárias, indispensáveis ao exercício da função de bombeiro, quer em fase de admissão quer no decurso das várias fases de progressão na carreira, devem ser realizadas as inspecções médico-sanitárias periódicas previstas na alínea g) do n.º 1 do artigo 5.º do presente decreto-lei.
+
+2 - As inspeções médico-sanitárias referidas no número anterior são asseguradas pela Autoridade Nacional de Proteção Civil, e suportadas pelo Fundo de Proteção Social do Bombeiro, mediante protocolo a celebrar com a Liga dos Bombeiros Portugueses.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 22.º — Isenção de taxas moderadoras
+
+1 - Os bombeiros beneficiam de isenção de pagamento de taxas moderadoras no âmbito do Serviço Nacional de Saúde, nos termos do disposto na alínea g) do artigo 4.º do Decreto-Lei n.º 113/2011, de 29 de novembro.
+
+2 - Os bombeiros devem identificar-se mediante a apresentação de cartão de identificação de bombeiro ou outro que o substitua nos termos legais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+#### Secção IV — Regime de seguros
+
+###### Artigo 23.º — Seguro de acidentes pessoais
+
+1 - Os municípios suportam os encargos com o seguro de acidentes pessoais dos bombeiros profissionais e voluntários.
+
+2 - As condições mínimas do seguro, incluindo os limites de capital seguro e riscos cobertos, são fixadas por portaria dos membros do Governo responsáveis pelas áreas da administração interna e das finanças, ouvido o Conselho Nacional de Bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 24.º — Informação
+
+As entidades detentoras de corpos de bombeiros devem manter, permanentemente atualizada, no Recenseamento Nacional dos Bombeiros Portugueses, a informação necessária dos beneficiários do seguro de acidentes pessoais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 25.º — Acumulação
+
+Os direitos decorrentes do seguro a que se refere a presente subsecção não prejudicam e são acumuláveis com o direito à pensão de preço de sangue a que haja lugar.
+
+### Capítulo III — Actividade operacional
+
+#### Secção I — Faltas, licenças e serviço em situação de emergência
+
+###### Artigo 26.º — Faltas para exercício de actividade operacional
+
+1 - Os bombeiros voluntários dos quadros de comando e activo podem faltar ao trabalho para o cumprimento de missões atribuídas aos corpos de bombeiros a que pertençam, incluindo a frequência de acções de formação, sem perda de remuneração ou quaisquer outros direitos e regalias, desde que o número de faltas não exceda, em média, três dias por mês.
+
+2 - A falta referida no número anterior é precedida de comunicação escrita e fundamentada do próprio, confirmada pelo comandante do corpo de bombeiros, podendo a comunicação ser feita verbalmente em caso de extrema urgência, caso em que é posteriormente confirmada por escrito pelo comandante, no prazo de três dias.
+
+3 - A entidade patronal só pode opor-se à falta do seu colaborador, nos termos dos números anteriores, em caso de manifesto e grave prejuízo para a empresa, em função de circunstâncias excepcionais e inopinadas, devidamente fundamentadas.
+
+4 - Para efeitos da frequência de cursos de formação na Escola Nacional de Bombeiros, os bombeiros voluntários têm a faculdade de faltar ao trabalho, sem perda de direitos, até ao máximo de 15 dias por ano, sendo as respectivas entidades patronais compensadas dos salários pagos pelos dias de trabalho perdidos.
+
+5 - As faltas ao serviço dos bombeiros voluntários que ocorram nos termos dos n.os 1, 2 e 4 consideram-se justificadas.
+
+6 - A Autoridade Nacional de Protecção Civil, quando proceda à requisição de bombeiros voluntários, compensa estes dos salários e outras remunerações perdidos.
+
+7 - A organização dos processos referidos nos n.os 4 e 6 é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 26.º-A — Regime excecional de dispensa de serviço
+
+1 - Sem prejuízo do disposto no artigo anterior, durante o período crítico determinado no âmbito do Sistema de Defesa da Floresta contra Incêndios é estabelecido um regime excecional de dispensa de serviço público dos trabalhadores da administração direta e indireta do Estado, bem como da administração autónoma, que cumulativamente detenham a qualidade de bombeiro voluntário, quando sejam chamados pelo respetivo corpo de bombeiros para combater um incêndio florestal.
+
+2 - Para efeitos do disposto no número anterior:
+
+a) O comandante do corpo de bombeiros informa o imediato superior hierárquico do trabalhador, por qualquer meio ao seu dispor, sobre o dia e a hora a partir dos quais ele é chamado;
+
+b) A informação a que se refere a alínea anterior é, logo que possível, confirmada por documento escrito, devidamente assinado;
+
+c) Quando a chamada ao serviço do corpo de bombeiros ocorrer em período de férias, estas consideram-se interrompidas, sendo os dias correspondentes gozados em data a acordar com o dirigente do serviço;
+
+d) Terminada a chamada ao serviço do corpo de bombeiros, o respetivo comandante confirma junto do imediato superior hierárquico do trabalhador, por documento escrito, devidamente assinado, os dias em que aquela ocorreu.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 38/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2017-107458721), em vigor a partir de 2017-06-03
+
+###### Artigo 26.º-B — Extensão do regime excecional de dispensa de serviço
+
+O regime excecional de dispensa de serviço público previsto no artigo anterior é ainda aplicável:
+
+a) Em caso de declaração de alerta especial, de nível vermelho, pela Autoridade Nacional de Proteção Civil;
+
+b) Quando esteja em causa a participação em dispositivo especial constituído nos termos previstos no Sistema Integrado de Operações de Proteção e Socorro;
+
+c) Quando seja acionado plano de emergência de proteção civil, de âmbito municipal ou distrital, pelas entidades competentes.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 38/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2017-107458721), em vigor a partir de 2017-06-03
+
+###### Artigo 27.º — Licenças
+
+1 - Aos bombeiros voluntários que integram os quadros de comando e ativo podem ser concedidas licenças no âmbito da atividade do corpo de bombeiros, nomeadamente por motivo de férias, doença e parentalidade.
+
+2 - As licenças têm a duração máxima de um ano.
+
+3 - Tem competência para conceder licenças:
+
+a) A entidade detentora do corpo de bombeiros, quando se trate de licenças requeridas pelos elementos da estrutura de comando, devendo, de imediato, comunicar o facto à Autoridade Nacional de Proteção Civil e ao município respetivo;
+
+b) O comandante do corpo de bombeiros, nos restantes casos.
+
+4 - As licenças por motivo de férias dos elementos da estrutura de comando devem ser comunicadas, com a antecedência mínima de 15 dias, à Autoridade Nacional de Proteção Civil, devendo a operacionalidade do corpo de bombeiros estar assegurada durante o período da licença com a presença de, pelo menos, um elemento do comando.
+
+5 - As licenças dos bombeiros profissionais são concedidas nos termos da legislação respetiva, devendo as dos comandantes ser comunicadas, com a antecedência mínima de 15 dias, à Autoridade Nacional de Proteção Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 28.º — Serviço em situação de emergência
+
+Os bombeiros profissionais que integram corpos mistos e voluntários podem desempenhar funções, no mesmo corpo de bombeiros e como trabalho voluntário, para além das horas normais de trabalho, desde que essas funções se desenvolvam em situações consideradas de emergência.
+
+#### Secção II — Mobilidade e impedimentos
+
+###### Artigo 29.º — Mobilidade
+
+1 - Aos bombeiros voluntários do quadro activo é permitida a transferência entre corpos de bombeiros, a requerimento do interessado, desde que satisfeitas as seguintes condições:
+
+a) Existência de vaga no quadro do corpo de destino;
+
+b) (Revogada.)
+
+c) O pedido não ser feito por motivos disciplinares.
+
+2 - Aos bombeiros do quadro de reserva é também permitida a transferência desde que:
+
+a) Seja para ocupar vaga no quadro ativo do corpo de bombeiro de destino; e
+
+b) O pedido não seja efetuado por motivos disciplinares.
+
+3 - Os pedidos de transferência referidos nos números anteriores são efetuados a requerimento dos interessados, dirigido à Autoridade Nacional de Proteção Civil, acompanhado de parecer dos comandantes e das entidades detentoras, tanto de origem, como de destino.
+
+4 - O bombeiro transferido mantém a carreira, a categoria, antiguidade e demais direitos adquiridos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 30.º — Residência obrigatória
+
+1 - Os elementos do quadro de comando têm residência dentro da área do concelho do respectivo corpo de bombeiros ou concelhos limítrofes.
+
+2 - A Autoridade Nacional de Protecção Civil pode autorizar os elementos dos quadros de comando dos corpos de bombeiros voluntários a residirem fora da área dos concelhos previstos no número anterior desde que a facilidade de comunicações permita rápida deslocação e o comando operacional possa ser efectivo e permanentemente exercido por um elemento do comando.
+
+3 - Nos corpos de bombeiros profissionais e mistos pertencentes ao município, a autorização a que se refere o número anterior é concedida pelo presidente da câmara municipal.
+
+###### Artigo 31.º — Impedimentos
+
+1 - O exercício de funções num corpo de bombeiros impede o exercício, em simultâneo, de funções noutro corpo de bombeiros ou em qualquer outra organização pública ou privada cuja actividade colida com os fins e interesses da entidade detentora do corpo de bombeiros, nomeadamente nos domínios do socorro, do transporte de doentes e da prevenção e segurança contra riscos de incêndio.
+
+2 - Os elementos do quadro de comando e do quadro activo estão impedidos de exercer funções de presidência dos órgãos sociais da respectiva associação humanitária de bombeiros.
+
+3 - Nos corpos de bombeiros que sejam detidos por associações humanitárias é vedado o exercício de funções nas estruturas de comando a elementos que detenham empresas comerciais, industriais ou de serviços com quem o corpo de bombeiros ou a entidade sua detentora mantenham relação contratual relacionada com a actividade operacional do mesmo corpo.
+
+4 - No exercício das suas funções, os elementos dos corpos de bombeiros não podem tomar parte em actos comerciais ou de outra natureza que ofendam a ética e deontologia ou ponham em causa a imagem e o bom nome dos bombeiros.
+
+### Capítulo IV — Estrutura de comando e carreiras
+
+###### Artigo 32.º — Estrutura de comando
+
+1 - O provimento da estrutura de comando dos corpos de bombeiros voluntários ou mistos não pertencentes ao município é feito por designação de entre indivíduos com idades compreendidas entre os 25 e os 60 anos, nos termos seguintes:
+
+a) O comandante é designado pela entidade detentora do corpo de bombeiros, preferencialmente de entre os oficiais bombeiros ou, na sua falta ou por razões devidamente fundamentadas, de entre bombeiros da categoria mais elevada, habilitados com o 12.º ano ou equivalente com, pelo menos, cinco anos de atividade nos quadros do corpo de bombeiros;
+
+b) O 2.º comandante e o adjunto de comando são designados pela entidade detentora, sob proposta do comandante, de entre os oficiais bombeiros ou, na sua falta ou por razões devidamente fundamentadas, de entre bombeiros da categoria mais elevada ou de entre outros elementos que integram o respetivo quadro ativo, habilitados com o 12.º ano ou equivalente com, pelo menos, cinco anos de atividade;
+
+c) Podem ainda ser designados para a estrutura de comando indivíduos de reconhecido mérito no desempenho de anteriores funções de liderança ou de comando, em corpos de bombeiros ou fora destes;
+
+d) As designações previstas nas alíneas anteriores estão sujeitas a homologação pela Autoridade Nacional de Proteção Civil.
+
+2 - O limite máximo de idade para a permanência no quadro de comando é de 65 anos.
+
+3 - A designação dos elementos da estrutura de comando não pertencentes à carreira de oficial bombeiro deve ser precedida de avaliação destinada a aferir as capacidades físicas e psicotécnicas dos candidatos, bem como a aprovação em curso de formação, nos termos de regulamento da Autoridade Nacional de Proteção Civil.
+
+4 - As designações para os cargos a exercer na estrutura de comando dos corpos de bombeiros voluntários ou mistos detidos por associações humanitárias de bombeiros são exercidas em regime de comissão de serviço, pelo período de cinco anos, automaticamente renováveis por iguais períodos se o órgão de administração da associação não notificar, por escrito, o interessado, com a antecedência mínima de 45 dias, contados de forma contínua, sobre a data de termo da comissão, a decisão devidamente fundamentada de não renovar a comissão.
+
+5 - No início de cada comissão de serviço, a entidade detentora entrega ao comandante uma carta de missão da qual constam os principais objetivos, cujos parâmetros são definidos por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
+
+6 - O incumprimento da carta de missão é motivo fundamentado para a não renovação da comissão.
+
+7 - Da decisão de não renovação da comissão de serviço cabe recurso para a comissão arbitral prevista no artigo 33.º, a interpor no prazo contínuo de 15 dias a contar da data de notificação da decisão de não renovar a comissão.
+
+8 - O titular do cargo de comando do corpo de bombeiros voluntário ou misto detido por associação humanitária de bombeiros que pertença ao quadro ativo e cuja comissão não seja renovada é integrado na carreira de oficial bombeiro, na condição de supranumerário, com parecer favorável da entidade detentora, de acordo com os critérios seguintes:
+
+a) Em oficial bombeiro de 1.ª, no final de uma comissão;
+
+b) Em oficial bombeiro principal, no final de duas comissões;
+
+c) Em oficial bombeiro superior, no final de três ou mais comissões.
+
+9 - O titular do cargo de comando do corpo de bombeiros voluntário ou misto detido por associação humanitária que pertença ao quadro ativo e que, depois de cumprir uma comissão, requeira a cessação de exercício de funções por razões profissionais ou de saúde é integrado na carreira de oficial bombeiro, na condição de supranumerário, de acordo com os critérios referidos no número anterior.
+
+10 - Os titulares do cargo de comando referidos nos n.os 8 e 9 podem, em alternativa, requerer o regresso ao quadro ativo na categoria respetiva, à passagem ao quadro de reserva ou ao quadro de honra, verificados os respetivos pressupostos.
+
+11 - O provimento na estrutura de comando dos corpos de bombeiros profissionais ou mistos na dependência de municípios é feito de acordo com o regime a definir em decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 33.º — Comissões arbitrais
+
+1 - Para apreciação e decisão dos recursos interpostos das decisões de não renovação do exercício do cargo de comando a que se refere o n.º 7 do artigo anterior são criadas comissões arbitrais compostas pelo presidente da assembleia geral da associação humanitária de bombeiros, que preside, por um representante designado pela Autoridade Nacional de Proteção Civil e por um elemento indicado pela Liga de Bombeiros Portugueses.
+
+2 - As deliberações da comissão arbitral são lavradas em acta e têm carácter vinculativo.
+
+3 - A comissão arbitral deverá apreciar e decidir sobre o recurso interposto no prazo de 60 dias contados a partir do dia seguinte ao da receção do recurso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 34.º — Carreira de oficial bombeiro
+
+1 - A carreira de oficial bombeiro é composta pelas seguintes categorias:
+
+a) Oficial bombeiro superior;
+
+b) Oficial bombeiro principal;
+
+c) Oficial bombeiro de 1.ª;
+
+d) Oficial bombeiro de 2.ª;
+
+e) Estagiário.
+
+2 - A carreira de oficial bombeiro dos corpos de bombeiros profissionais ou mistos na dependência dos municípios desenvolve-se de acordo com o regime a definir em decreto-lei.
+
+3 - A carreira de oficial bombeiro dos corpos de bombeiros mistos não dependentes do município ou voluntários desenvolve-se nos termos de regulamento a elaborar pela Autoridade Nacional da Proteção Civil, ouvida a Liga dos Bombeiros Portugueses e o Conselho Nacional de Bombeiros, homologado pelo Ministro da Administração Interna, de acordo com o disposto nos números seguintes.
+
+4 - A categoria de estagiário é atribuída durante a frequência do estágio de ingresso, com a duração mínima de um ano.
+
+5 - Podem ser admitidos como estagiários na carreira de oficial bombeiro os indivíduos habilitados com licenciatura adequada, com idades compreendidas entre 20 e 45 anos.
+
+6 - O tempo de frequência em estágio apenas releva para efeito de atribuição de regalias e antiguidade no corpo de bombeiros, desde que a sua duração não seja superior a dois anos e seja seguida de um ingresso.
+
+7 - O ingresso na carreira de oficial bombeiro é feito na categoria de oficial bombeiro de 2.ª, após aproveitamento em estágio, sem prejuízo do previsto no número seguinte.
+
+8 - Os bombeiros pertencentes aos quadros de comando e ativo podem, por via de ingresso especial, candidatar-se à carreira de oficial bombeiro, desde que sejam possuidores de licenciatura adequada, com pelo menos três anos de serviço e que preencham as condições definidas no regulamento referido no n.º 3.
+
+9 - O acesso às restantes categorias de carreira de oficial bombeiro voluntário faz-se por promoção, mediante concurso, de entre os candidatos com, pelo menos, três anos de serviço com classificação de Muito bom ou cinco anos de serviço com classificação de Bom, na categoria anterior.
+
+10- Os ingressos e acessos na carreira de oficial bombeiro voluntário estão condicionados ao número de vagas existentes nas respetivas categorias e são preenchidos respetivamente pela ordem de classificação obtida pelos candidatos na formação inicial ou no concurso, o qual é válido para vagas abertas no prazo máximo de dois anos.
+
+11 - O limite de idade para permanência na carreira de oficial bombeiro é de 65 anos.
+
+12 - A Autoridade Nacional de Proteção Civil, ouvida a Escola Nacional de Bombeiros e o Conselho Nacional de Bombeiros, define os conteúdos programáticos dos cursos de ingresso e promoção da carreira de oficial bombeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 3/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2013-257040), em vigor a partir de 2012-11-26
+
+> Rectificado pelo/a Anexo do/a [Declaração de Retificação n.º 4-A/2013 - Diário da República n.º 13/2013, 1º Suplemento, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-a-2013-289588), em vigor a partir de 2012-11-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 35.º — Carreira de bombeiro voluntário
+
+1 - A carreira de bombeiro é composta pelas seguintes categorias:
+
+a) Chefe;
+
+b) Subchefe;
+
+c) Bombeiro de 1.ª;
+
+d) Bombeiro de 2.ª;
+
+e) Bombeiro de 3.ª;
+
+f) Estagiário.
+
+2 - A categoria de estagiário é atribuída durante a frequência do estágio para ingresso, com a duração mínima de um ano.
+
+3 - Podem ser admitidos a estágio os indivíduos com idades compreendidas entre os 17 e os 45 anos.
+
+4 - O tempo de frequência em estágio apenas releva para efeito de atribuição de regalias e antiguidade no corpo de bombeiros, desde que a sua duração não seja superior a dois anos e seja seguida de um ingresso.
+
+5 - A carreira de bombeiro voluntário dos corpos de bombeiros mistos ou voluntários desenvolve-se nos termos de regulamento a elaborar pela Autoridade Nacional da Proteção Civil, ouvida a Liga dos Bombeiros Portugueses e o Conselho Nacional de Bombeiros, homologado pelo Ministro da Administração Interna, de acordo com o disposto nos números seguintes.
+
+6 - O ingresso na carreira de bombeiro voluntário é feito na categoria de bombeiro de 3.ª de entre os estagiários aprovados no respetivo estágio, independentemente da existência de vaga na categoria, sendo as vagas preenchidas pela ordem de classificação obtida pelos candidatos na formação inicial.
+
+7 - Sempre que, em resultado dos ingressos referidos no número anterior, se verifique que o número de lugares preenchidos excede a dotação global da carreira, o quadro de pessoal é obrigatoriamente alterado no prazo de seis meses.
+
+8 - O acesso às restantes categorias da carreira de bombeiro voluntário faz-se por promoção, mediante concurso de avaliação curricular e prestação de provas de conhecimento, de entre os candidatos com, pelo menos, três anos de serviço com a classificação de Muito bom ou cinco anos de classificação de Bom na categoria anterior.
+
+9 - Os acessos na carreira de bombeiro voluntário estão condicionados ao número de vagas existentes nas respetivas categorias e são preenchidos pela ordem de classificação obtidas pelos candidatos na formação inicial ou no concurso, o qual é válido para vagas abertas no prazo máximo de dois anos.
+
+10 - O limite de idade de permanência na carreira de bombeiro voluntário é de 65 anos.
+
+11- A Autoridade Nacional de Proteção Civil, ouvida a Escola Nacional de Bombeiros enquanto autoridade pedagógica do setor e o Conselho Nacional de Bombeiros, define os conteúdos programáticos dos cursos de ingresso e promoção da carreira de bombeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 3/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2013-257040), em vigor a partir de 2012-11-26
+
+> Rectificado pelo/a Anexo do/a [Declaração de Retificação n.º 4-A/2013 - Diário da República n.º 13/2013, 1º Suplemento, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-a-2013-289588), em vigor a partir de 2012-11-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 35.º-A — Carreira de bombeiro especialista
+
+1- A carreira de bombeiro especialista é constituída por elementos que, devido à sua especialização, integram o quadro ativo em apoio ao corpo de bombeiros, em funções diretamente associadas a essa especialidade, reportadas a uma área funcional nos termos previstos nos números seguintes.
+
+2 - A carreira de bombeiro especialista dos corpos de bombeiros mistos ou voluntários desenvolve-se nos termos de regulamento a elaborar pela Autoridade Nacional de Proteção Civil, ouvida a Liga dos Bombeiros Portugueses e o Conselho Nacional de Bombeiros, homologado pelo Ministro da Administração Interna, de acordo com o disposto nos números seguintes.
+
+3 - A carreira de bombeiro especialista prevê as seguintes áreas funcionais:
+
+a) Emergência pré-hospitalar;
+
+b) Prevenção e segurança contra incêndios;
+
+c) Socorros a náufragos e buscas subaquáticas;
+
+d) Busca e salvamento;
+
+e) Condução e manutenção de veículos;
+
+f) Músicos e fanfarristas.
+
+4 - Excecionalmente, pode a Autoridade Nacional de Proteção Civil aprovar outras áreas funcionais com justificado relevo para o corpo de bombeiros, mediante proposta do comandante e parecer favorável da entidade detentora.
+
+5 - Podem ingressar na carreira de bombeiro especialista os elementos que:
+
+a) Detenham habilitação académica ou profissional específica para o cumprimento das missões do corpo de bombeiros;
+
+b) Tenham idade compreendida entre os 18 e os 55 anos.
+
+6 - Os oficiais bombeiros e os bombeiros voluntários do quadro ativo que detenham habilitação académica ou profissional definida no número anterior podem requerer a integração na carreira de bombeiro especialista.
+
+7 - Compete ao comandante do corpo de bombeiros apreciar e decidir sobre a mudança de carreira definida no número anterior.
+
+8 - A carreira de bombeiro especialista não possui qualquer progressão.
+
+9 - O número de bombeiros na carreira de bombeiro especialista não conta para efeitos de dotação do quadro de pessoal.
+
+10 - A dotação da carreira de bombeiro especialista não pode exceder os 30 % do quadro de pessoal homologado.
+
+11 - Os músicos e fanfarristas não contam para a dotação prevista no número anterior.
+
+12 - A idade limite para permanência na carreira de especialista é de 65 anos.
+
+13 - A Autoridade Nacional de Proteção Civil, ouvida a Escola Nacional de Bombeiros e o Conselho Nacional de Bombeiros, define os conteúdos programáticos do curso de ingresso na carreira de bombeiro especialista.
+
+> Rectificado pelo/a Anexo do/a [Declaração de Retificação n.º 4-A/2013 - Diário da República n.º 13/2013, 1º Suplemento, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-a-2013-289588), em vigor a partir de 2012-11-26
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 35.º-B — Readmissões
+
+1 - Os elementos do quadro ativo e de reserva que tenham solicitado a sua demissão poderão requerer a sua readmissão no corpo de bombeiros anterior ou num outro desde que:
+
+a) O pedido de demissão não tenha sido originado por razões disciplinares;
+
+b) Exista vaga no quadro ativo, na carreira e categoria que o elemento detinha à data da demissão;
+
+c) O elemento tenha uma idade inferior a 65 anos.
+
+2 - Os pedidos de readmissão são efetuados a requerimento dos interessados, dirigidos à Autoridade Nacional de Proteção Civil, acompanhados de parecer do comandante e da entidade detentora do corpo de bombeiros.
+
+3 - Nos casos em que seja requerida a readmissão num outro corpo de bombeiros que não o de origem, o pedido de readmissão referido no número anterior deve ser igualmente acompanhado do parecer do comandante do corpo de bombeiros do qual o elemento se tenha demitido.
+
+4 - A readmissão é sempre efetuada na categoria que o elemento detinha no momento da sua demissão, sendo igualmente necessário o cumprimento dos seguintes requisitos:
+
+a) No caso de elementos com mais de três anos de ausência, exige-se prova de conhecimentos das matérias constantes dos cursos ou módulos de formação exigidos para a categoria e um período de estágio de três meses;
+
+b) No caso de elementos com menos de três anos de ausência, exige-se um período de estágio de três meses.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 36.º — Avaliação
+
+1 - Os bombeiros dos quadros de comando e ativo estão sujeitos a avaliação periódica do seu desempenho, a qual releva para efeitos de progressão na carreira dos bombeiros do quadro ativo.
+
+2 - A avaliação deve privilegiar o mérito e o cumprimento dos objetivos previamente fixados.
+
+3 - A avaliação dos bombeiros do quadro de comando deve privilegiar o cumprimento dos objetivos fixados na carta de missão referida no n.º 5 do artigo 32.º
+
+4 - O sistema de avaliação dos bombeiros dos quadros de comando e ativo consta de regulamento elaborado pela Autoridade Nacional de Proteção Civil, ouvido o Conselho Nacional de Bombeiros, a homologar pelo membro do Governo responsável pela administração interna.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+### Capítulo V — Regime disciplinar
+
+###### Artigo 37.º — Bombeiros voluntários
+
+1 - Aos bombeiros voluntários aplica-se regulamento disciplinar próprio, aprovado por portaria do Ministro da Administração Interna, salvaguardado o disposto nos artigos seguintes.
+
+2 - O estatuto disciplinar dos trabalhadores que exercem funções públicas aplica-se subsidiariamente aos bombeiros voluntários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 38.º — Penas disciplinares
+
+1 - Aos bombeiros voluntários podem ser aplicadas as seguintes penas:
+
+a) Advertência;
+
+b) Repreensão escrita;
+
+c) Suspensão de 10 até 180 dias;
+
+d) Demissão.
+
+2 - As penas de advertência e repreensão escrita são aplicadas por faltas leves de serviço, sem dependência de processo escrito mas com audiência e defesa do arguido.
+
+3 - As penas de suspensão e de demissão são aplicadas mediante processo disciplinar.
+
+4 - A pena de demissão determina, sem prejuízo de anulação da pena, a impossibilidade de novo ingresso em qualquer corpo de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 39.º — Efeitos das penas
+
+A pena de suspensão determina enquanto durar a suspensão:
+
+a) O não exercício do cargo ou função;
+
+b) A proibição do uso de uniforme e de entrada na área operacional do quartel, salvo convocação do comandante;
+
+c) A perda da contagem do tempo de serviço durante o cumprimento da pena.
+
+###### Artigo 40.º — Competência disciplinar
+
+1 - A aplicação da pena de advertência é da competência de todos os superiores hierárquicos em relação aos bombeiros que lhes estejam subordinados.
+
+2 - A aplicação das penas de repreensão escrita, de suspensão e de demissão é da competência do comandante do corpo de bombeiros.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 41.º — Recursos
+
+1 - (Revogado.)
+
+2 - Das decisões, em matéria disciplinar, do comandante do corpo de bombeiros misto ou voluntário, cuja entidade detentora seja uma associação humanitária de bombeiros, cabe recurso hierárquico, a interpor no prazo de 15 dias, para o conselho disciplinar desta, constituído pelos presidentes da assembleia geral, da direção e do conselho fiscal, que, no prazo de 60 dias, decide.
+
+3 - Das decisões aplicadas nos termos do n.º 3 do artigo anterior cabe recurso hierárquico facultativo para o presidente da Autoridade Nacional de Protecção Civil.
+
+4 - Das decisões proferidas nos termos dos números anteriores cabe recurso contencioso nos termos gerais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 42.º — Comunicação, publicação e registo das penas
+
+A aplicação de pena disciplinar de repreensão escrita ou superior é publicada em ordem de serviço, registada no processo individual do arguido no Recenseamento Nacional de Bombeiros Portugueses e comunicada à entidade detentora do corpo de bombeiros e à Autoridade Nacional de Proteção Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+### Capítulo VI — Identificação e fardamento
+
+###### Artigo 43.º — Cartões de identificação
+
+1 - Os bombeiros têm direito a cartão de identificação.
+
+2 - Compete à Direção Nacional de Bombeiros assegurar a emissão do cartão de identificação de bombeiro, a partir do Recenseamento Nacional de Bombeiros Portugueses.
+
+3 - O modelo do cartão de identificação de bombeiro é aprovado por despacho da Autoridade Nacional de Proteção Civil, ouvido o Conselho Nacional de Bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 44.º — Fardamento
+
+Os bombeiros dispõem de fardamento próprio, segundo plano de uniformes, insígnias e identificações, aprovado por portaria do membro do Governo responsável pela área da administração interna, ouvido o Conselho Nacional de Bombeiros.
+
+### Capítulo VII — Disposições transitórias e finais
+
+###### Artigo 45.º — Extensão do âmbito de aplicação
+
+O disposto nas alíneas b) e f) do n.º 1 do artigo 5.º e nos artigos 19.º, 20.º, 22.º e 23.º do presente decreto-lei aplica-se aos elementos que integram os órgãos executivos das associações humanitárias de bombeiros e da Liga dos Bombeiros Portugueses nas condições previstas para os bombeiros voluntários dos quadros activo e de comando.
+
+###### Artigo 46.º — Encargos financeiros
+
+1 - O Fundo de Proteção Social do Bombeiro, criado pela portaria do Ministério do Interior, de 4 de junho de 1932, com as inovações da Portaria n.º 233/87, de 28 de março, no âmbito da Liga dos Bombeiros Portugueses, suporta os encargos previstos nos artigos 6.º, 8.º, 10.º, 18.º, 19.º, 20.º e 21.º
+
+2 - Os encargos previstos no número anterior não podem exceder 85 % do montante anualmente transferido pelo Estado para o Fundo de Proteção Social do Bombeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423), em vigor a partir de 2019-05-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 47.º — Casa de repouso do bombeiro
+
+O Estado apoia a criação e manutenção da casa de repouso do bombeiro, nos termos a definir por despacho dos competentes membros do Governo.
+
+###### Artigo 48.º — Bombeiros das antigas colónias portuguesas
+
+1 - Os direitos e regalias dos bombeiros integrantes dos quadros de reserva e de honra são aplicáveis aos bombeiros que exerceram funções em associações humanitárias de bombeiros nos territórios das antigas colónias e preencham as condições previstas neste decreto-lei para aqueles quadros.
+
+2 - Compete à Autoridade Nacional de Protecção Civil a verificação dos requisitos legais para aplicação do disposto no número anterior.
+
+###### Artigo 48.º-A — Regime transitório de carreiras
+
+Os oficiais bombeiros e os bombeiros voluntários do atual quadro ativo, na condição de supranumerários, podem ser integrados na carreira de bombeiro especialista, cujas condições são definidas por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 249/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), em vigor a partir de 2012-11-26
+
+###### Artigo 49.º — Regulamentação
+
+A regulamentação prevista no presente decreto-lei é aprovada no prazo de 180 dias a contar da publicação deste.
+
+###### Artigo 50.º — Norma revogatória
+
+São revogadas:
+
+a) A Lei n.º 21/87, de 20 de Junho;
+
+b) O Decreto-Lei n.º 36/94, de 8 de Fevereiro;
+
+c) O Decreto-Lei n.º 297/2000, de 17 de Novembro.
+
+###### Artigo 51.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do 3.º mês após a sua publicação, sem prejuízo do disposto no artigo 49.º
+
+Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - José Manuel Santos de Magalhães - Emanuel Augusto dos Santos - Alberto Bernardes Costa - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor.
+
+Promulgado em 7 de Junho de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 8 de Junho de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

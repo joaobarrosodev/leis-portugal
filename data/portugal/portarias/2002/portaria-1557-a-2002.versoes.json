@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:694190:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-934788659",
+ "dre_path": "/dr/detalhe/portaria/1557-a-2002-694190",
+ "source_lastmod": "2025-09-10",
+ "versions": [
+  {
+   "date": "2002-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "934788801",
+    "934788803",
+    "934788804",
+    "934788805",
+    "934788806",
+    "934788807",
+    "934788808",
+    "934788809"
+   ]
+  }
+ ],
+ "fragments": {
+  "934788801": {
+   "fragment_id": "934788660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1557-A/2002\n\nde 30 de Dezembro\n\nAs preocupações crescentes quanto ao estado de conservação da gamba, recurso que tem constituído, nos últimos anos, uma parte importante das capturas da frota de arrasto de crustáceos, levaram pela primeira vez à adopção de medidas específicas de protecção, através da Portaria n.º 1124/99, de 29 de Dezembro, posteriormente alterada pela Portaria n.º 248/2001, de 22 de Março.\n\nA constatação de dificuldades ao nível da eficácia das medidas ali vertidas e do seu controlo levaram à revogação da citada legislação tendo em vista a implementação de medidas mais eficazes em 2003, objectivo a que agora se dá corpo.\n\nPor outro lado, também o lagostim tem vindo a ser considerado como «recurso explorado fora de limites biológicos de segurança», a exigir medidas de protecção específicas para além do estabelecimento anual de quota.\n\nAs restrições agora previstas têm em consideração os pareceres do Instituto Nacional de Investigação Agrária e das Pescas que aconselham uma paragem da pesca dirigida à gamba no 1.º trimestre do ano e ao lagostim entre Setembro e Novembro, em ambos os casos para protecção dos juvenis.\n\nConsiderando igualmente que a malhagem mínima comunitária prevista para a pesca dirigida ao lagostim é de 70 mm e que as embarcações que pescam crustáceos dispõem apenas de licença para uma só classe de malhagem, no caso a classe entre 55 mm e 59 mm, importa prever, na pesca dirigida àquela espécie, a possibilidade de licenciamento simultâneo para duas classes de malhagem.\n\nAs medidas de gestão ora previstas para os recursos de crustáceos capturados pelo arrasto deverão ser revistas para o ano de 2004, em função dos resultados obtidos e da evolução do estado dos recursos.\n\nAssim:\n\nAo abrigo dos artigos 3.º e 49.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:"
+  },
+  "934788803": {
+   "fragment_id": "934788665",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nAs embarcações de arrasto licenciadas no ano de 2002 para a classe de malhagem 55 mm-59 mm, ao abrigo do Regulamento da Pesca por Arte de Arrasto, anexo à Portaria n.º 1102-E/2000, de 22 de Novembro, podem ser simultaneamente licenciadas para a classe de malhagem igual ou superior a 70 mm, durante o ano de 2003."
+  },
+  "934788804": {
+   "fragment_id": "934788666",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA percentagem de espécies alvo relativa à classe de malhagem 55 mm-59 mm, prevista no anexo ao Regulamento referido no número anterior, é reduzida para 20% quando existirem a bordo, em condições de serem utilizadas, na mesma maré, redes de arrasto de diferentes malhagens."
+  },
+  "934788805": {
+   "fragment_id": "934788667",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nEntre 1 e 31 de Janeiro é interdito:\n\na) O exercício da actividade de pesca às embarcações licenciadas para arrasto na classe de malhagem 55 mm-59 mm;\n\nb) A captura, manutenção a bordo, transbordo e desembarque de qualquer espécie de crustáceos, ainda que como captura acessória, às embarcações licenciadas para arrasto na classe de malhagem 65 mm-69 mm ou para classe de malhagem igual ou superior a 70 mm;\n\nc) A captura, manutenção a bordo, transbordo e desembarque de gamba (Parapenaeus longisrostris), camarão vermelho (Aristeus antennatus), camarão púrpura (Aristaeomorpha foliacea), lagostim (Nephrops norvegicus) e carabineiro cardeal (Aristeopsis edwardsiana) por qualquer embarcação licenciada para outras artes em águas sob soberania ou jurisdição nacionais."
+  },
+  "934788806": {
+   "fragment_id": "934788668",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nPor despacho do director-geral das Pescas e Aquicultura, sob proposta do Instituto Nacional de Investigação Agrária e das Pescas, poderão ser fixados outros períodos de interdição da pesca do lagostim (Nephrops norvegicus) no período compreendido entre 1 de Setembro e 31 de Dezembro, ainda que como captura acessória, independentemente das artes para que as embarcações se encontrem licenciadas."
+  },
+  "934788807": {
+   "fragment_id": "934788669",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nAs embarcações licenciadas para o arrasto em qualquer classe de malhagem de mais de 54 mm, quando simultaneamente licenciadas para o uso de outra arte, estão proibidas de, numa mesma maré, utilizar ou ter a bordo outra arte que não o arrasto, desde que este esteja em condições de operar."
+  },
+  "934788808": {
+   "fragment_id": "934788670",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nAs embarcações que pretendam usar da faculdade prevista no n.º 1.º da presente portaria dispõem de 20 dias úteis contados a partir da data de entrada em vigor do presente diploma para requerer o licenciamento respectivo à Direcção-Geral das Pescas e Aquicultura."
+  },
+  "934788809": {
+   "fragment_id": "934788671",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nA presente portaria entra em vigor no dia 1 de Janeiro de 2003 e cessa a sua vigência em 31 de Dezembro de 2003."
+  }
+ }
+}

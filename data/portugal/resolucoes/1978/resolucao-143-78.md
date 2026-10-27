@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:329206:por
+title: Resolução n.º 143/78
+short_title: null
+summary: Designa o major Vítor Manuel Rodrigues Alves para substituir, durante o seu impedimento, o capitão Rodrigo Manuel
+  Lopes de Sousa e Castro no exercício das suas funções de presidente dos Serviços de Apoio do Conselho da Revolução e de
+  superintendente do Serviço de Coordenação da Extinção da PIDE/DGS e LP
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 143/78
+official_date: null
+publication_date: '1978-09-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 224/1978, Série I de 1978-09-28
+  number: '224'
+  series: I
+  supplement: null
+  pages: 2039 - 2040
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/09/22400/20392040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329206'
+  dre_path: /dr/detalhe/resolucao/143-1978-329206
+  internal: pt:dre:329206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/143-1978-329206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/143-1978-329206
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: be610087b1dfa5660a296ab398f93a0bd537d6224b20f19a09a550dd14088972
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho da Revolução
+- Legião Portuguesa
+- Pide-dgs
+- Serviço de Coordenação da Extinção da Pide-dgs e LP
+- Serviços de Apoio ao Conselho da Revolução
+- Substituição de Funções
+relationships:
+- type: amended_by
+  target: pt:dre:329021:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:329021:por
+  label: Exonerado o major Vítor Manuel Rodrigues Alves, das funções, para as quais havia sido interinamente nomeado, pelo(a)
+    Resolução n.º 145/78 - Diário da República n.º 225/1978, Série I de 1978-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/145-1978-329021
+  date: '1978-09-29'
+- type: cites
+  target: pt:dre:245514:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:11:51Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 143/78
+
+Nos termos do artigo 2.º do [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), de 21 de Maio, o Conselho da Revolução designa o major Vítor Manuel Rodrigues Alves para substituir, durante o seu impedimento, o capitão Rodrigo Manuel Lopes de Sousa e Castro, nomeando-o interinamente para exercer as funções de presidente dos Serviços de Apoio do Conselho da Revolução, com efeitos a partir do dia 4 de Setembro de 1978.
+
+O Conselho da Revolução resolveu ainda designar o major Vítor Manuel Rodrigues Alves para substituir, durante o seu impedimento, o capitão Rodrigo Manuel Lopes de Sousa e Castro no exercício das suas funções de superintendente do Serviço de Coordenação da Extinção da PIDE/DGS e LP, nomeando-o interinamente para o respectivo cargo, com efeitos a partir de 4 de Setembro de 1978.
+
+Aprovada em Conselho da Revolução em 8 de Setembro de 1978.
+
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.

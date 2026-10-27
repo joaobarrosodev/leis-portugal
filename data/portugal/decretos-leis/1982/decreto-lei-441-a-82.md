@@ -1,0 +1,356 @@
+---
+schema_version: '1.0'
+id: pt:dre:444200:por
+title: Decreto-Lei n.º 441-A/82
+short_title: null
+summary: Estabelece disposições relativas às cooperativas de ensino
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Educação
+proposing_entity: null
+official_number: 441-A/82
+official_date: null
+publication_date: '1982-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 257/1982, 1º Suplemento, Série I de 1982-11-06
+  number: '257'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3742-(1) a 3742-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25701/00010004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-06-28'
+version_history:
+  file: decreto-lei-441-a-82.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1982-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-04-13'
+    amending: pt:dre:187955:por
+    amending_title: Decreto-Lei n.º 100-B/85
+    changes:
+    - Altera Artigo 22.º
+  - date: '2006-06-30'
+    amending: pt:dre:620286:por
+    amending_title: Decreto-Lei n.º 76-A/2006
+    changes:
+    - Altera Artigo 16.º
+  - date: '2026-06-28'
+    amending: pt:dre:1135578394:por
+    amending_title: Decreto-Lei n.º 122/2026
+    changes:
+    - Altera Artigo 11.º
+    - Revoga Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/441-a/1982/p/cons/20260623/pt/html
+  oj: null
+  dre: '444200'
+  dre_path: /dr/detalhe/decreto-lei/441-a-1982-444200
+  internal: pt:dre:444200:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-a-1982-444200
+  metadata_url: https://data.dre.pt/eli/dec-lei/441-a/1982/p/cons/20260623/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-34498875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-34498875
+  retrieved_at: '2026-10-22T11:45:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c32795f6f1421db9eb1845eba78025eea9fa714edec5a365eb02d90a56e6b178
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:55Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-441-a-82.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cooperativa de Ensino
+- Ensino
+relationships:
+- type: amended_by
+  target: pt:dre:187955:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955
+  date: '1985-04-08'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:1135578394:por
+  label: Altera Artigo 11.º; Revoga Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2026-1135578394
+  date: '2026-06-23'
+article_structure:
+  article_count: 29
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 441-A/82
+
+A existência de cooperativas de ensino constitui uma solução hoje largamente divulgada para resolver carências diversas, especialmente as emergentes de situações excepcionais como, por exemplo, o ensino a deficientes. Mas não só neste campo o cooperativismo de ensino se tem projectado.
+
+Às 102 cooperativas de ensino existentes não são estranhas experiências diversificadas, abrangendo todos os graus do ensino, desde a educação pré-escolar até ao ensino superior.
+
+Os objectivos da política educativa nacional e os superiores interesses envolvidos neste domínio impõem que, com total respeito pela autonomia e liberdade do movimento cooperativo, se definam as bases em que terá de assentar o sector cooperativo do ensino.
+
+A individualização das 2 realidades - cooperativas e estabelecimento de ensino - torna-se indispensável de modo a permitir a fiscalização do Estado na salvaguarda dos objectivos e da dignidade do ensino, sem que seja posta em causa a independência da cooperativa.
+
+Nestes termos e considerando a natureza específica do ramo das cooperativas de ensino, previsto na alínea l) do n.º 1 do artigo 4.º do Código Cooperativo:
+
+O Governo decreta nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Âmbito)
+
+As cooperativas de ensino e suas organizações de grau superior regem-se pelas disposições do presente diploma e, nas suas omissões, pelas do Código Cooperativo.
+
+###### Artigo 2.º — (Noção)
+
+1 - São cooperativas de ensino as que tenham por objecto principal a manutenção de um estabelecimento de ensino.
+
+2 - A utilização da forma cooperativa não isenta da obrigatoriedade da conformidade do exercício da sua actividade com a lei, da obtenção de autorizações e licenças e de outras formalidades exigíveis nos termos legais, devendo as entidades de quem dependam as referidas autorizações e licenças ter em conta a especial natureza e função social das cooperativas.
+
+###### Artigo 3.º — (Classificação)
+
+1 - As cooperativas de ensino classificam-se quanto ao objecto e quanto aos cooperadores.
+
+2 - Quanto ao objecto dividem-se em:
+
+a) Cooperativas de educação escolar;
+
+b) Cooperativas de educação especial e integração;
+
+c) Cooperativas de formação técnica ou profissional;
+
+d) Cooperativas de educação permanente;
+
+e) Cooperativas polivalentes.
+
+3 - Quanto aos cooperadores, dividem-se em:
+
+a) Cooperativas de utentes;
+
+b) Cooperativas de prestação de serviços;
+
+c) Cooperativas mistas.
+
+###### Artigo 4.º — (Cooperativas de educação escolar)
+
+São cooperativas de educação escolar as que visam manter um estabelecimento destinado a ministrar o ensino compreendido no sistema educativo.
+
+###### Artigo 5.º — (Cooperativas de educação especial e integração)
+
+São cooperativas de educação especial e integração as que visam manter um estabelecimento destinado a ministrar a educação especial e a integração sócio-profissional dos educandos.
+
+###### Artigo 6.º — (Cooperativas de formação técnica ou profissional)
+
+São cooperativas de formação técnica ou profissional as que visam manter um estabelecimento destinado a ministrar formação especializada quer através de cursos técnicos, quer de cursos de formação profissional, podendo estes últimos ser de reciclagem ou aperfeiçoamento.
+
+###### Artigo 7.º — (Cooperativas de educação permanente)
+
+São cooperativas de educação permanente as que visam manter um estabelecimento destinado a ministrar a educação extra-escolar, designadamente a dos adultos.
+
+###### Artigo 8.º — (Cooperativas polivalentes)
+
+1 - São cooperativas polivalentes as que, nos termos do n.º 3 do artigo 4.º do Código Cooperativo, visem a manutenção de estabelecimento de ensino destinado à prossecução simultânea de actividades referidas no n.º 2 do artigo 3.º deste decreto-lei.
+
+2 - As cooperativas de educação escolar cujos estabelecimentos sejam de ensino superior não poderão constituir-se sob a forma polivalente, pois é-lhes vedada a prossecução de actividades referentes a outros níveis de ensino.
+
+###### Artigo 9.º — (Cooperativas de utentes)
+
+São cooperativas de utentes as constituídas exclusivamente por alunos do estabelecimento de ensino da cooperativa e ou seus pais encarregados de educação.
+
+###### Artigo 10.º — (Cooperativas de prestação de serviços)
+
+1 - São cooperativas de prestação de serviços as constituídas exclusivamente por docentes e investigadores ou por docentes, investigadores e outros trabalhadores do estabelecimento de ensino ou da cooperativa.
+
+2 - Os docentes a que se refere o número anterior só poderão ser membros se possuírem as habilitações legais definidas pelo Ministério da Educação para um dos graus de ensino oficial ministrados no ou nos estabelecimentos de ensino a cargo da cooperativa e desempenharem de forma efectiva as suas funções nesses estabelecimentos.
+
+###### Artigo 11.º — (Cooperativas mistas)
+
+1 - São cooperativas mistas as constituídas por utentes e prestadores de serviços do estabelecimento de ensino ou da cooperativa.
+
+2 - [Revogado.]
+
+3 - [Revogado.]
+
+4 - A perda da qualidade de aluno ou de prestador de serviços nos termos do artigo anterior implica a perda da qualidade de membro da cooperativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2026 - Diário da República n.º 119/2026, Série I de 2026-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2026-1135578394), em vigor a partir de 2026-06-28.
+
+###### Artigo 12.º — (Membros)
+
+1 - Nas cooperativas de ensino poderão existir as seguintes categorias de membros:
+
+a) Membros efectivos;
+
+b) Membros beneméritos ou honorários.
+
+2:
+
+a) São membros efectivos os referidos nos artigos 9.º e 10.º deste decreto-lei;
+
+b) São membros beneméritos ou honorários as pessoas que directa ou indirectamente promovam ou contribuam para o desenvolvimento da cooperativa.
+
+3 - Os membros beneméritos ou honorários têm direito a participar nas assembleias gerais, sem direito a voto.
+
+###### Artigo 13.º — (Cooperativas de ensino superior)
+
+1 - Nas cooperativas que mantenham estabelecimentos de ensino superior só podem ser admitidos como membros efectivos, para além dos referidos no artigo 10.º do presente diploma, os alunos ordinários com aprovação em, pelo menos, 2 cadeiras de um dos cursos nelas ministrado.
+
+2 - Para efeitos do número anterior, consideram-se alunos ordinários os que pretendem obter os graus académicos superiormente homologados, encontrando-se, para o efeito, inscritos e matriculados nas cadeiras dos respectivos cursos e frequentando normalmente as aulas e os exercícios e trabalhos escolares prescritos, em regime de tempo completo.
+
+3 - Às restantes categorias de alunos que existam ou venham a ser criadas aplica-se o estatuto do membro honorário.
+
+4 - A perda da qualidade de aluno ou de prestador de serviços nos termos do artigo 10.º implica a perda da qualidade de membro da cooperativa.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 122/2026 - Diário da República n.º 119/2026, Série I de 2026-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2026-1135578394), em vigor a partir de 2026-06-28.
+
+###### Artigo 14.º — (Formação cooperativa e pedagógica)
+
+1 - Para melhor prossecução dos seus objectivos, as cooperativas de ensino promoverão cursos específicos para a formação cooperativa e profissional quer dos seus membros, quer dos membros de cooperativas de outros ramos.
+
+2 - A formação cooperativa destinada aos alunos do respectivo estabelecimento de ensino deverá, designadamente, compreender a leccionação de disciplina do cooperativismo.
+
+3 - Para a prossecução dos objectivos previstos no n.º 1 deste artigo, as cooperativas de ensino deverão elaborar, até 1 de Outubro de cada ano, um plano de actividades referindo as acções de formação a desenvolver, do qual deverão dar conhecimento ao Instituto António Sérgio do Sector Cooperativo (Inscoop).
+
+###### Artigo 15.º — (Organizações cooperativas de grau superior)
+
+As cooperativas que se caracterizem por desenvolver actividades da mesma zona específica integradas neste ramo do sector cooperativo poderão constituir uniões e federações nacionais, nos termos previstos no Código Cooperativo.
+
+###### Artigo 16.º — (Forma de constituição)
+
+A constituição das cooperativas de ensino deve ser reduzida a escrito, salvo se forma mais solene for exigida para a transmissão dos bens que representem o capital social inicial da cooperativa.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 17.º — (Capital social)
+
+1 - O capital social das cooperativas de ensino não pode ser inferior a 50000$00, excepto as de ensino superior, cujo mínimo será de 1 milhão de escudos.
+
+2 - Aos membros admitidos posteriormente à constituição da cooperativa poderá ser exigida a realização de uma jóia, de montante a fixar nos estatutos, nos termos do Código Cooperativo.
+
+###### Artigo 18.º — (Prerrogativas, isenção e subsídios)
+
+As cooperativas de ensino que funcionem nos termos do Código Cooperativo e se enquadrem nos objectivos do sistema educativo gozam dos apoios previstos no n.º 1 do artigo 8.º e no artigo 9.º do Decreto-Lei n.º 553/80 e beneficiam das isenções fiscais fixadas no artigo 9.º do mesmo diploma, sem prejuízo do disposto no Decreto-Lei n.º 456/80.
+
+###### Artigo 19.º — (Reserva para integração profissional)
+
+1 - As cooperativas de educação especial e integração criarão obrigatoriamente uma reserva destinada à integração profissional dos educandos.
+
+2 - Reverterão para esta reserva:
+
+a) Um mínimo de 2,5% dos excedentes anuais líquidos;
+
+b) Os subsídios e donativos que forem especialmente destinados às finalidades desta reserva;
+
+c) Uma contribuição especial, cujo montante será fixado pelos estatutos, a cobrar aos cooperadores.
+
+###### Artigo 20.º — (Distribuição de excedentes)
+
+1 - Os excedentes anuais líquidos gerados pelas cooperativas de ensino terão a aplicação prevista no artigo 71.º do Código Cooperativo, não havendo, contudo, lugar à remuneração dos títulos de capital.
+
+2 - O montante das reversões para as reservas obrigatórias não pode ser inferior a 50% do valor que poderá retornar aos cooperadores, nos termos da alínea h) do artigo 3.º do mesmo diploma.
+
+###### Artigo 21.º — (Início de actividades)
+
+Para os efeitos previstos no n.º 1 do artigo 93.º do Código Cooperativo, é considerado início de actividade a apresentação às entidades competentes dos requerimentos de que as leis e regulamentos façam depender o exercício de actividade que a cooperativa visa prosseguir.
+
+###### Artigo 22.º — (Início da actividade escolar)
+
+1 - Nenhuma cooperativa de ensino pode iniciar o funcionamento da actividade escolar do estabelecimento de ensino a seu cargo antes da autorização do Ministro da Educação.
+
+2 - (Revogado).
+
+3 - A decisão que recuse a autorização será sempre fundamentada e dela cabe recurso para o Supremo Tribunal Administrativo.
+
+> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 100-B/85 - Diário da República n.º 81/1985, Suplemento n.º 1, Série I de 1985-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), em vigor a partir de 1985-04-13
+
+###### Artigo 23.º — (Órgãos académicos dos estabelecimentos de ensino)
+
+1 - O estatuto dos estabelecimentos de ensino sob a responsabilidade administrativa das cooperativas de ensino, exceptuando-se os de ensino superior, terão de conter, obrigatoriamente, indicação dos órgãos académicos previstos nos artigos 42.º e seguintes do Decreto-Lei n.º 553/80, de 21 de Novembro.
+
+2 - Nos estabelecimentos de ensino onde se ministre o ensino superior deverão existir, pelo menos, os seguintes órgãos académicos:
+
+a) Reitor ou director;
+
+b) Conselho científico;
+
+c) Conselho pedagógico;
+
+d) Conselho disciplinar.
+
+3 - A forma de eleição, a composição e o funcionamento dos órgãos académicos referidos no número anterior e outros que os estabelecimentos de ensino proponham, reger-se-ão, obrigatoriamente, pelo estatuto do respectivo estabelecimento de ensino, desde que não contrarie o disposto quanto a idênticos órgãos do ensino superior oficial.
+
+4 - Os docentes e investigadores a contratar pela direcção da cooperativa serão obrigatoriamente propostos pelo conselho científico do estabelecimento de ensino.
+
+###### Artigo 24.º — (Adaptação das entradas mínimas de capital)
+
+O prazo previsto no n.º 2 do artigo 23.º do Código Cooperativo é aplicável à actualização do capital por parte dos membros da cooperativa que já tivessem tal qualidade à data da escritura pública, pela qual for efectuada a adaptação dos Estatutos do Código Cooperativo.
+
+###### Artigo 25.º — (Subsídios)
+
+Os subsídios concedidos pelo Governo ou institutos públicos destinados à aquisição de imobilizações corpóreas são insusceptíveis de repartição entre os membros, sendo lançados em conta de balanço, a incluir na situação líquida.
+
+###### Artigo 26.º — (Adaptação de estatutos)
+
+1 - A adaptação de estatutos das cooperativas de ensino ao Código Cooperativo deverá ser efectuada nos prazos previstos no referido Código.
+
+2 - No prazo de 30 dias após a publicação do presente diploma, terão de ser adaptados os estatutos das cooperativas de ensino que, no especificamente respeitante ao ensino, contenham disposições contrárias a este.
+
+###### Artigo 27.º — (Legislação especial)
+
+Em tudo quanto respeite à actividade educativa no âmbito do ensino oficial, as cooperativas de ensino regular-se-ão pela respectiva legislação especial, desde que esta não seja contrária ao disposto no Código Cooperativo.
+
+###### Artigo 28.º — (Dúvidas)
+
+As dúvidas decorrentes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da Educação e do membro do Governo em quem o Primeiro-Ministro delegar as suas competências referentes ao Instituto António Sérgio do Sector Cooperativo (Inscoop).
+
+###### Artigo 29.º — (Revogação)
+
+É revogado o Decreto-Lei n.º 310/81, de 17 de Novembro.
+
+Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 3 de Novembro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

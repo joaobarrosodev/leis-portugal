@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:471487:por
+title: Portaria n.º 22069
+short_title: null
+summary: Mandam abonar às embaixadas de Portugal junto de vários países, com efeitos a partir de 1 de Julho próximo, várias
+  quantias a fim de ocorrer ao pagamento de salários ao pessoal assalariado em serviço nas mesmas embaixadas - Alteram a Portaria
+  n.º 21834
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Políticos e da Administração Interna
+proposing_entity: null
+official_number: '22069'
+official_date: null
+publication_date: '1966-06-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 139/1966, Série I de 1966-06-17
+  number: '139'
+  series: I
+  supplement: null
+  pages: 1102 - 1102
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/06/13900/11021102.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471487'
+  dre_path: /dr/detalhe/portaria/22069-1966-471487
+  internal: pt:dre:471487:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22069-1966-471487
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22069-1966-471487
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b82b812ffa675ff6ba864229f0b5d83198c012513ea5f6b6251daa3f742f5925
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:490002:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:17:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22069
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, abonar à Embaixada de Portugal em Otava, com efeitos a partir de 1 de Julho próximo futuro, pela verba do n.º 4) do artigo 22.º, capítulo 3.º, do orçamento em vigor, as importâncias abaixo designadas, a fim de ocorrer ao pagamento de salários ao pessoal assalariado em serviço na Embaixada, ficando assim alterada, a partir daquela data, a [Portaria n.º 21834](https://diariodarepublica.pt/dr/detalhe/portaria/21834-1966-490002), de 26 de Janeiro de 1966:
+
+... Dólares canadianos
+
+Dactilógrafo ... 340,00
+
+Dactilógrafo ... 340,00
+
+Contínuo ... 280,00
+
+... 960,00
+
+Ministério dos Negócios Estrangeiros, 17 de Junho de 1966. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
+
+(Não carece de visto ou de anotação do Tribunal de Contas).

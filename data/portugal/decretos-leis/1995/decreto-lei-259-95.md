@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:575730:por
+title: Decreto-Lei n.º 259/95
+short_title: null
+summary: Regula o exercício da actividade de comércio por grosso, quando exercida de forma não sedentária
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 259/95
+official_date: null
+publication_date: '1995-09-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/1995, Série I-A de 1995-09-30
+  number: '227'
+  series: I
+  supplement: null
+  pages: 6074 - 6076
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/227a00/60746076.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/259/1995/09/30/p/dre/pt/html
+  oj: null
+  dre: '575730'
+  dre_path: /dr/detalhe/decreto-lei/259-1995-575730
+  internal: pt:dre:575730:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1995-575730
+  metadata_url: https://data.dre.pt/eli/dec-lei/259/1995/09/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1995-575730
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c7a9d45799998df87fbd749ef7bcc3bd709140f6ac85acd8071fba40b8939ea1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Câmara Municipal
+- Comércio por Grosso
+- Definição de Competências
+- Feira
+- Feirante
+- Fiscalização
+- Inspecção Geral das Actividades Económicas
+- Licenciamento
+- Profissão Comercial
+- Regime Jurídico
+- Registo Comercial
+- Regulamento Interno
+relationships:
+- type: amended_by
+  target: pt:dre:179063:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:175785:por
+  label: "Alterada a redacção dos arts. 1º, 2º, 3º, 5º, 6º, 8º e 11º e aditado um art. 11º-A pelo DEC LEI.101/98.1998.04.21.MECO\
+    \ DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1998-175785
+  date: '1998-04-21'
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390066:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/251/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/258/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247227:por
+  label: "Revogado, a partir de 09.05.2008, o Dec Lei 252/86 de 25-Ago, com a alteração constante do presente diploma, pelo\
+    \ DEC LEI.42/2008.10.03.2008.MEI, DR.IS [49] de 10.03.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2008-247227
+  date: '2008-03-10'
+- type: repealed_by
+  target: pt:dre:179063:por
+  label: "Revogado, a partir de 01.09.2012, com a alteração constante do Dec Lei 101/98 de 21-abr, pelo DEC LEI.173/2012.02.08.2012.MEE,\
+    \ DR.IS [149] de 02.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2012-179063
+  date: '2012-08-02'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:39:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 259/95
+
+de 30 de Setembro
+
+A definição de regras que balizem o exercício da actividade de comércio por grosso, quando exercida de forma não sedentária, torna-se necessária, dada a expansão e o desenvolvimento que esta actividade tem conhecido nos últimos anos.
+
+E essa necessidade é tanto maior quanto é certo que o comércio a retalho não sedentário exercido por feirantes já dispõe na nossa ordem jurídica de disciplina própria, constante do [Decreto-Lei n.º 252/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1986-219122), de 25 de Agosto.
+
+Mostra-se importante, designadamente, indicar com clareza os locais em que aquele tipo de comércio pode ser realizado e as condições que os mesmos devem preencher, no sentido de melhorar as condições em que tais vendas se processam. Houve o cuidado de estabelecer prazos razoáveis, que permitam a realização das obras e adaptações necessárias ao cumprimento das novas exigências.
+
+Um importante papel é reconhecido às câmaras municipais, a quem compete autorizar a realização das feiras e mercados, aprovar os regulamentos que disciplinam o seu funcionamento e exercer a respectiva fiscalização.
+
+Por outro lado, teve o legislador presente a importância que esta forma de comércio ainda reveste para alguns agentes económicos, permitindo o escoamento da produção de pequenas unidades industriais e o abastecimento de muitos comerciantes retalhistas estabelecidos.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses, bem como diversas estruturas representativas dos comerciantes interessados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito e noção
+
+1 - A actividade de comércio por grosso, tal como é definida na alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 339/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1985-181042), de 21 de Agosto, quando exercida de forma não sedentária, rege-se pelo disposto no presente diploma.
+
+2 - Para efeitos do presente diploma, entende-se por comércio não sedentário aquele em que a presença do comerciante nos locais de venda não reveste um carácter fixo e permanente.
+
+3 - O exercício da actividade referida no número anterior só pode realizar-se nos seguintes locais:
+
+a) Feiras e mercados;
+
+b) Armazéns ou instalações cobertas, destinados ao exercício do comércio;
+
+c) Em locais não afectos permanentemente ao exercício do comércio, nomeadamente salões ou feiras de exposição.
+
+4 - O disposto no presente diploma não é aplicável à venda em mercados abastecedores.
+
+###### Artigo 2.º — Venda em feiras e mercados
+
+Compete às câmaras municipais autorizar a instalação e funcionamento de feiras e mercados grossistas, quando os interesses económicos locais o aconselhem e tendo em conta os equipamentos comerciais existentes, depois de recolhidos os pareceres dos sindicatos, das associações patronais e das associações de consumidores.
+
+###### Artigo 3.º — Autorização
+
+Nas feiras e mercados apenas podem exercer a actividade de comércio por grosso os comerciantes que estejam devidamente autorizados pela câmara municipal respectiva.
+
+###### Artigo 4.º — Registo
+
+1 - As câmaras municipais devem organizar um registo dos comerciantes que tenham sido autorizados a exercer a actividade de venda por grosso em feiras e mercados, na área do respectivo município.
+
+2 - As câmaras municipais devem enviar anualmente à Direcção-Geral do Comércio, até 31 de Março do ano seguinte, uma lista de todos os comerciantes que tenham sido autorizados a exercer a actividade referida no número anterior.
+
+3 - A lista referida no número anterior pode ser substituída por suporte informático adequado e deverá conter: nome, firma ou denominação social, domicílio ou sede, número de inscrição no Registo Nacional de Pessoas Colectivas, ramo de comércio e local de venda.
+
+###### Artigo 5.º — Proibição
+
+1 - Nas feiras e mercados grossistas só podem efectuar-se operações comerciais por grosso.
+
+2 - Quando, no mesmo recinto e no mesmo dia, se realizem feiras retalhistas, devem as câmaras municipais tomar as providências necessárias à salvaguarda do disposto no número anterior.
+
+###### Artigo 6.º — Condições das feiras
+
+1 - Os locais em que se realizam as feiras e mercados devem:
+
+a) Dispor das infra-estruturas necessárias;
+
+b) Ser amplos, de forma a permitir o fácil acesso e trânsito dos comerciantes e a realização de operações de carga e descarga de mercadorias;
+
+c) Ser vedados de forma estável e permanente, com controlo das entradas e saídas, de modo a garantir o acesso restrito a compradores e vendedores;
+
+d) Dispor de uma cobertura permanente;
+
+e) Facultar a cada comerciante um espaço de venda, delimitado dos restantes, com as dimensões adequadas ao seu volume de negócios e à natureza das transacções efectuadas;
+
+f) O espaço de venda referido na alínea anterior deverá ter afixada de forma visível, no período de funcionamento da feira, a identificação do comerciante.
+
+2 - As feiras e mercados actualmente existentes dispõem do prazo de 270 dias, contados a partir da data de entrada em vigor do presente diploma, para se adaptarem às condições previstas no número anterior.
+
+3 - Após o prazo estabelecido no número anterior, e no que se refere à alínea e) do n.º 1, podem as câmaras municipais, fundamentadamente, em casos excepcionais após consulta ao Ministério do Comércio e Turismo e ouvidas as associações patronais, sindicais e de consumidores, autorizar provisoriamente o funcionamento de feiras e mercados que não disponham de cobertura adequada.
+
+4 - A deliberação autárquica que autorizar o funcionamento previsto no número anterior fixará a data a partir da qual a feira deve dotar-se de cobertura permanente.
+
+###### Artigo 7.º — Regulamento interno
+
+1 - Cada feira grossista disporá obrigatoriamente de um regulamento interno, onde se contenham as normas relativas à sua organização e funcionamento.
+
+2 - Do regulamento interno devem constar:
+
+a) As condições de admissão dos comerciantes e o modo de processamento das respectivas autorizações de instalação;
+
+b) Os direitos e obrigações dos utentes, compradores e vendedores;
+
+c) O regime jurídico da adjudicação e transmissão dos locais de venda;
+
+d) As cauções ou outras formas de garantia exigidas aos titulares de locais de venda;
+
+e) As principais normas de funcionamento, nomeadamente as que se referem a horários, condições de acesso, documentação exigida para a entrada e saída das mercadorias e sua comercialização, taxas a pagar pelos utentes, operações de carga, descarga, circulação e estacionamento;
+
+f) O respectivo regime disciplinar.
+
+3 - As entidades responsáveis pela instalação e o funcionamento das feiras actualmente existentes dispõem do prazo de 270 dias, contados a partir da data da entrada em vigor do presente diploma, para aprovação dos respectivos regulamentos internos.
+
+4 - Os regulamentos internos devem ser objecto de divulgação pública adequada, nomeadamente através dos órgãos de comunicação social local.
+
+###### Artigo 8.º — Venda em armazéns ou instalações cobertas
+
+1 - Salvo o disposto no artigo seguinte, a actividade de comércio por grosso, de forma não sedentária, só pode ser exercida em armazéns, ou outras instalações cobertas, que tenham sido devidamente licenciados pelas câmaras municipais para essa finalidade.
+
+2 - O referido no número anterior não dispensa do cumprimento do [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de Novembro, quando for caso disso.
+
+3 - A entidade responsável pela gestão dos locais referidos no presente artigo deve promover a aprovação de um regulamento interno, que obedecerá, com as necessárias adaptações, ao disposto no artigo anterior.
+
+###### Artigo 9.º — Venda em salões ou feiras de exposição
+
+1 - A título excepcional, podem as câmaras municipais autorizar o exercício do comércio por grosso, com carácter não sedentário, em outros locais não afectos permanentemente ao exercício do comércio, nomeadamente salões ou feiras de exposição, desde que o comuniquem previamente à Direcção-Geral do Comércio.
+
+2 - A entidade responsável pela gestão dos locais referidos no número anterior deve promover a aprovação de um regulamento interno, que obedecerá, com as necessárias adaptações, ao disposto no artigo 7.º
+
+###### Artigo 10.º — Fiscalização
+
+1 - A fiscalização do cumprimento das disposições do presente diploma compete à Inspecção-Geral das Actividades Económicas e às câmaras municipais, sem prejuízo das competências das autoridades policiais.
+
+2 - A instrução dos processos e a aplicação das coimas e respectivas sanções acessórias são da competência das câmaras municipais.
+
+###### Artigo 11.º — Sanções
+
+1 - A realização de operações de comércio não sedentário fora das condições previstas no presente diploma é punida com coima:
+
+a) De 10000$00 a 100000$00, quando haja violação do disposto no n.º 1 do artigo 5.º e no n.º 1 do artigo 9.º;
+
+b) De 50000$00 a 500000$00, quando haja violação, por pessoa singular, do disposto no artigo 3.º e no n.º 1 do artigo 8.º;
+
+c) De 300000$00 a 3000000$00, quando haja violação, por pessoa colectiva, do disposto no artigo 3.º e no n.º 1 do artigo 8.º
+
+2 - Quando haja violação do disposto no n.º 1 do artigo 8.º e no n.º 1 do artigo 9.º, podem ainda as câmaras municipais determinar, a título de sanção acessória, o encerramento dos locais que estejam a funcionar sem autorização.
+
+3 - Os objectos apreendidos, nos termos do artigo 74.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, que venham a ser declarados perdidos a título de sanção acessória revertem para o respectivo município.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o artigo 17.º do [Decreto-Lei n.º 252/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1986-219122), de 25 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 251/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1993-390066), de 14 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Manuel Dias Loureiro - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Filipe Alves Monteiro - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 15 de Setembro de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 19 de Setembro de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

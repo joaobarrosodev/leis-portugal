@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:305183:por
+title: Lei n.º 552-A
+short_title: null
+summary: Lei n.º 552-A, autorizando a Câmara Municipal de Faro a alienar terrenos baldios que se destinem a construções urbanas
+jurisdiction: portugal
+territory: null
+document_type: lei
+document_type_label: Lei
+issuing_authority:
+- Ministério do Interior - Direcção Geral da Administração Política e Civil
+proposing_entity: null
+official_number: 552-A
+official_date: null
+publication_date: '1916-05-29'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 105/1916, 1º Suplemento, Série I de 1916-05-29
+  number: '105'
+  series: I
+  supplement: null
+  pages: 504A - 504A
+  pdf_url: https://files.diariodarepublica.pt/1s/1916/05/10501/504A504A.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '305183'
+  dre_path: /dr/detalhe/lei/552-a-1916-305183
+  internal: pt:dre:305183:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/lei/552-a-1916-305183
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/lei/552-a-1916-305183
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Baldio
+- Câmara Municipal
+- Faro
+relationships:
+- type: repealed_by
+  target: pt:dre:211599:por
+  label: "Revogado o § único do art. 1º, pela Lei.1802.20.07.1925.MI, DG.IS [159] de 20.07.1925\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1802-1925-211599
+  date: '1925-07-20'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:49:54Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Lei n.º 552-A
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1916/05/10501/504A504A.pdf)

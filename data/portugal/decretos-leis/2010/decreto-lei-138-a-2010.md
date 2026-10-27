@@ -1,0 +1,437 @@
+---
+schema_version: '1.0'
+id: pt:dre:666880:por
+title: Decreto-Lei n.º 138-A/2010
+short_title: null
+summary: Cria, no âmbito da Estratégia Nacional para a Energia 2020, a tarifa social de fornecimento de energia eléctrica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 138-A/2010
+official_date: null
+publication_date: '2010-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28
+  number: '250'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5970-(2) a 5970-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25001/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-15'
+version_history:
+  file: decreto-lei-138-a-2010.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-15'
+    amending: pt:dre:58895505:por
+    amending_title: Decreto-Lei n.º 172/2014
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 8.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 6.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 13.º
+  - date: '2020-11-27'
+    amending: pt:dre:149707127:por
+    amending_title: Decreto-Lei n.º 100/2020
+    changes:
+    - Altera Artigo 2.º
+  - date: '2022-01-15'
+    amending: pt:dre:177634016:por
+    amending_title: Decreto-Lei n.º 15/2022
+    changes:
+    - Revoga Capítulo I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º-A
+    - Revoga Capítulo II
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Capítulo IV
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/138-a/2010/p/cons/20220114/pt/html
+  oj: null
+  dre: '666880'
+  dre_path: /dr/detalhe/decreto-lei/138-a-2010-666880
+  internal: pt:dre:666880:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-2010-666880
+  metadata_url: https://data.dre.pt/eli/dec-lei/138-a/2010/p/cons/20220114/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-58908492
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-58908492
+  retrieved_at: '2026-10-22T11:56:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c1a459857d3395f04749f6a85e0d59488ed5ab6d035b619883171ab5a7f9e6bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:24Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-138-a-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pobreza
+- Financiamento
+- Energia Elétrica
+- Insuficiência Económica
+- Entidade Reguladora dos Serviços Energéticos
+- Preço
+- Rede Nacional de Transporte de Energia Elétrica
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:58895505:por
+  label: Adita Artigo 2.º-A; Adita Artigo 8.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505
+  date: '2014-11-14'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Altera Artigo 2.º; Altera Artigo 2.º-A; Altera Artigo 6.º; Revoga Artigo 10.º; Revoga Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:149707127:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2020-149707127
+  date: '2020-11-26'
+- type: amended_by
+  target: pt:dre:177634016:por
+  label: Revoga Capítulo I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 2.º-A; Revoga Capítulo II; Revoga Artigo 3.º;
+    Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Capítulo IV; Revoga
+    Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
+- type: cites
+  target: celex:32009L0072
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/72/oj
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 138-A/2010
+
+Decreto-Lei n.º 138-A/2010
+
+de 28 de Dezembro
+
+No Programa do XVIII Governo Constitucional e na Estratégia Nacional para a Energia 2020 (ENE 2020), aprovada pela Resolução do Conselho de Ministros n.º 29/2010, de 15 de Abril, é atribuída especial relevância à construção do mercado interno de energia e à concretização do Mercado Ibérico de Electricidade (MIBEL), tendo em vista impulsionar a liberalização do sector energético nacional, num quadro de protecção dos consumidores.
+
+A garantia de acesso por todos os consumidores ao serviço essencial de fornecimento de energia eléctrica, independentemente de quem o presta, suscita a necessidade de ser assegurado o abastecimento, nomeadamente aos clientes economicamente vulneráveis.
+
+Também a situação de crescente incremento e volatilidade dos custos energéticos que se tem verificado internacionalmente e a intenção de prosseguir o aprofundamento da harmonização no âmbito do mercado eléctrico justificam o estabelecimento de medidas concretas de protecção destes consumidores economicamente mais vulneráveis, em linha com as orientações europeias, presentes na legislação em vigor e reforçadas com a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0072" title="Link para Directiva da Comunidade Europeia">2009/72/CE</a>, do Parlamento Europeu e do Conselho, de 13 de Julho, relativa ao mercado interno da electricidade.
+
+Neste contexto, o presente decreto-lei cria a tarifa social aplicável aos clientes de energia eléctrica que se encontrem numa situação de carência sócio-económica, optando-se, por um critério de elegibilidade que coincide com as prestações atribuídas pelo sistema de segurança social. Nestes termos, podem pedir a aplicação da tarifa social os beneficiários: i) do complemento solidário para idosos; ii) do rendimento social de inserção; iii) do subsídio social de desemprego; iv) do primeiro escalão do abono de família, e v) da pensão social de invalidez.
+
+Estes clientes podem dirigir-se aos respectivos comercializadores de energia eléctrica para solicitar a aplicação da tarifa social, autorizando os mesmos a verificar junto das instituições de segurança social competentes se o cliente é beneficiário de alguma das prestações sociais previstas no presente decreto-lei para efeitos de aplicação da tarifa social. Transitoriamente, até 30 de Junho de 2011, os pedidos apresentados junto dos comercializadores de energia eléctrica devem ser acompanhados de declaração emitida pela instituição de segurança social competente, atestando que o cliente é beneficiário de alguma das prestações sociais previstas no presente decreto-lei.
+
+A existência de uma tarifa social protege os interesses das famílias e outros grupos de consumidores economicamente mais vulneráveis através de um modelo tarifário que lhes garanta uma situação de tendencial estabilidade tarifária, nomeadamente mediante a utilização de descontos.
+
+Para o ano de 2011, o aumento anual de tarifa para os beneficiários da tarifa social não será superior a 1 % por referência à tarifa de venda a clientes finais em baixa tensão normal dos comercializadores de último recurso aplicada em 2010.
+
+O financiamento deste desconto é assegurado pelos titulares de centros electroprodutores em regime ordinário, nomeadamente os beneficiários de incentivos relacionados com a garantia de potência, nos termos da Portaria n.º 765/2010, de 20 de Agosto, publicada ao abrigo do artigo 33.º-A do Decreto-Lei n.º 172/2006, de 23 de Agosto, alterado pelo Decreto-Lei n.º 264/2007, de 24 de Julho.
+
+Foram ouvidos os órgãos de Governo próprio das Regiões Autónomas, a Entidade Reguladora dos Serviços Energéticos e a Comissão Nacional de Protecção de Dados.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 306.º, Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016) O presente diploma é revogado pelo Decreto-Lei n.º 15/2022, porém, o seu regime sancionatório (artigo 8.º-A) mantém-se em vigor até que seja objeto de atualização.
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei tem como objecto a criação da tarifa social de fornecimento de energia eléctrica a aplicar a clientes finais economicamente vulneráveis.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 2.º — Clientes finais elegíveis
+
+1 - Para efeitos do disposto no presente decreto-lei, consideram-se elegíveis os clientes finais economicamente vulneráveis, ou seja, as pessoas singulares que se encontrem em situação de carência económica e que, tendo o direito de acesso ao serviço essencial de fornecimento de energia elétrica, devem ser protegidas, nomeadamente no que respeita a preços.
+
+2 - Para efeitos do disposto no número anterior, são considerados clientes finais economicamente vulneráveis os que se encontram nas seguintes situações:
+
+a) Os beneficiários do complemento solidário para idosos;
+
+b) Os beneficiários do rendimento social de inserção;
+
+c) Os beneficiários de prestações de desemprego;
+
+d) Os beneficiários do abono de família;
+
+e) Os beneficiários de pensão social de invalidez do regime especial de proteção na invalidez ou do complemento da prestação social para a inclusão;
+
+f) Os beneficiários da pensão social de velhice.
+
+3 - Para efeitos do disposto no n.º 1 são ainda considerados clientes finais economicamente vulneráveis as pessoas singulares que, no universo dos clientes finais de energia elétrica em baixa tensão normal, obtenham um rendimento anual inferior ao rendimento anual máximo, ainda que não beneficiem de qualquer prestação social.
+
+4 - Considera-se economicamente vulnerável o cliente final que integre um agregado familiar cujo rendimento total anual seja igual ou inferior a (euro) 5808,00, acrescido de 50 % por cada elemento do agregado familiar que não aufira qualquer rendimento, incluindo o próprio, até um máximo de 10.
+
+5 - Para efeitos do disposto no número anterior, considera-se agregado familiar, em cada ano, o conjunto de pessoas constituído pelo cliente final e os dependentes a seu cargo nos termos definidos no Código do IRS.
+
+6 - O apuramento do rendimento máximo anual é feito nos termos do n.º 2 do artigo 3.º da Portaria n.º 311-D/2011, de 27 de dezembro.
+
+7 - O rendimento anual máximo é anualmente revisto, com vista à sua adequação à situação vigente no setor elétrico.
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2020 - Diário da República n.º 231/2020, Série I de 2020-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2020-149707127), em vigor a partir de 2020-11-27
+
+> Alterado pelo/a Artigo 199.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+###### Artigo 2.º-A — Monitorização
+
+1 - A Direção-Geral de Energia e Geologia, em articulação com as entidades da Segurança Social e a Autoridade Tributária e Aduaneira, elabora um relatório, dirigido ao membro do Governo responsável pela área da energia e com periodicidade anual, com indicação do número de clientes finais que beneficiam da tarifa social.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 199.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+### Capítulo II — Fixação e financiamento da tarifa social
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 3.º — Fixação da tarifa social
+
+1 - A tarifa social é calculada mediante a aplicação de um desconto na tarifa de acesso às redes em baixa tensão normal, nos termos a definir no regulamento tarifário aplicável ao sector eléctrico.
+
+2 - O valor do desconto referido no número anterior é determinado através de despacho do membro do Governo responsável pela energia, ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+3 - [Revogado].
+
+4 - O despacho previsto no número anterior é publicado até 20 de Setembro de cada ano, para que possa produzir efeitos no cálculo das tarifas de energia eléctrica para o ano seguinte.
+
+5 - [Revogado].
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+###### Artigo 4.º — Financiamento
+
+1 - O financiamento dos custos com a aplicação da tarifa social incide sobre todos os titulares de centros electroprodutores em regime ordinário, na proporção da potência instalada de cada centro electroprodutor.
+
+2 - Os custos referidos no número anterior são devidos à entidade concessionária da Rede Nacional de Transporte de Energia Eléctrica, enquanto operador do sistema, sendo permitida a compensação entre estes montantes e aqueles que resultem de incentivos tarifários aos titulares de centros electroprodutores, nomeadamente dos incentivos relativos à garantia de potência, concedidos nos termos da Portaria n.º 765/2010, de 20 de Agosto.
+
+3 - O cálculo dos montantes de proveitos obtidos com o financiamento dos custos com a tarifa social pelos titulares dos centros electroprodutores, bem como a sua imputação aos operadores intervenientes na cadeia de valor do sector eléctrico até à atribuição da tarifa social pelo operador da rede de distribuição são determinados de acordo com o estabelecido no regulamento tarifário aplicável ao sector eléctrico.
+
+4 - Para efeitos do disposto no presente artigo, entende-se por titulares de centros eletroprodutores em regime ordinário, os que exercem a atividade de produção que não esteja abrangida por um regime jurídico especial de produção de eletricidade, nos termos do artigo 18.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, bem como, os titulares dos aproveitamentos hidroelétricos com potência superior a 10 MVA.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+### Capítulo III — Atribuição e aplicação da tarifa social
+
+###### Artigo 5.º — Condições de atribuição
+
+1 - Os clientes finais economicamente vulneráveis que podem beneficiar da tarifa social devem reunir cumulativamente as seguintes condições:
+
+a) Serem titulares de contrato de fornecimento de energia eléctrica;
+
+b) O consumo de energia eléctrica destinar-se exclusivamente a uso doméstico, em habitação permanente;
+
+c) As instalações serem alimentadas em baixa tensão normal com potência contratada inferior ou igual a 6,9 kVA.
+
+2 - Cada cliente final economicamente vulnerável apenas pode beneficiar da tarifa social num único ponto de ligação às redes de distribuição de energia eléctrica em baixa tensão.
+
+3 - Na atribuição da tarifa social devem ser assegurados os princípios da transparência, da igualdade de tratamento e da não discriminação.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+###### Artigo 6.º — Processamento
+
+1 - A Direção-Geral de Energia e Geologia promove a fixação do número de clientes finais que beneficiam da tarifa social, nos termos de protocolo a definir pelos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia.
+
+2 - Para efeitos do disposto no número anterior, devem os comercializadores de energia elétrica remeter para a Direção-Geral de Energia e Geologia a informação necessária à identificação dos titulares de contratos de fornecimento de energia elétrica.
+
+3 - O tratamento de dados pessoais previsto nos números anteriores carece de parecer prévio da Comissão Nacional de Proteção de Dados.
+
+4 - Identificados os potenciais beneficiários, é remetida informação individual a cada beneficiário com a advertência de que, querendo, deve opor-se à atribuição da tarifa social no prazo de 30 dias, sob pena de a mesma ser automaticamente atribuída.
+
+5 - A manutenção da tarifa social depende da confirmação, por parte da Direção-Geral de Energia e Geologia, em setembro de cada ano, da condição de cliente final economicamente vulnerável, nos termos do artigo 2.º
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 199.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+###### Artigo 7.º — Aplicação
+
+1 - A aplicação da tarifa social aos clientes finais economicamente vulneráveis é da responsabilidade dos comercializadores que com eles tenham celebrado contrato de fornecimento de energia eléctrica.
+
+2 - O desconto inerente à tarifa social deve ser identificado de forma clara e visível nas facturas enviadas pelos comercializadores aos clientes que beneficiem do respectivo regime.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 8.º — Divulgação de informação
+
+Os comercializadores de energia eléctrica devem promover a divulgação de informação sobre a existência da tarifa social e a sua aplicação aos clientes finais economicamente vulneráveis, através dos meios considerados adequados ao seu efectivo conhecimento, designadamente nas suas páginas na Internet e em documentação que acompanhe as facturas enviadas aos clientes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 8.º-A — Regime sancionatório
+
+1 - Sem prejuízo da responsabilidade criminal a que possa haver lugar nos termos da lei, a prestação de falsas declarações pelo cliente final ao comercializador relativas aos critérios de elegibilidade previstos nos n.os 2 e 3 do artigo 2.º e que visem a aplicação da tarifa social em benefício daquele, constitui contraordenação punível com coima até ao montante máximo de (euro) 2 500,00.
+
+2 - A negligência é punível, reduzindo-se para metade do montante máximo previsto no número anterior.
+
+3 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.
+
+4 - Os processos de contraordenação previstos no presente decreto-lei são instruídos pela Direção-Geral de Energia e Geologia (DGEG), cabendo ao diretor-geral da DGEG a aplicação das coimas.
+
+5 - O produto da aplicação das coimas reverte a favor das seguintes entidades:
+
+a) 60 % para o Estado;
+
+b) 40 % para a DGEG.
+
+6 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15
+
+### Capítulo IV — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 9.º — Regulamentação
+
+A portaria prevista no n.º 4 artigo 6.º deve ser publicada no prazo de 60 dias após a data de entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 10.º — Variação da tarifa social para 2011
+
+O limite máximo de variação tarifária anual referido no n.º 3 do artigo 3.º, a considerar no cálculo das tarifas de energia eléctrica para 2011, é de 1 % por referência à tarifa de venda a clientes finais em baixa tensão normal dos comercializadores de último recurso aplicada em 2010.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Revogado pelo/a Artigo 199.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01
+
+###### Artigo 11.º — Revisão do regime da tarifa social
+
+A caracterização do regime da tarifa social e do seu financiamento deve ser revista em 2013 e, posteriormente, nos últimos seis meses de cada período subsequente de quatro anos, com vista à sua adequação à situação então vigente no sector eléctrico.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 12.º — Aplicação às Regiões Autónomas
+
+1 - O desconto previsto no artigo 3.º aplica-se às Regiões Autónomas dos Açores e da Madeira, no âmbito da convergência tarifária a aplicar pela ERSE, nos termos do Decreto-Lei n.º 29/2006, de 16 de Fevereiro, e do regulamento tarifário, sem prejuízo dos actos e dos procedimentos necessários à sua execução competirem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa.
+
+2 - O regime de financiamento da tarifa social estabelecido pelo presente decreto-lei não se aplica aos produtores de electricidade das Regiões Autónomas dos Açores e da Madeira.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 13.º — Regime transitório
+
+1 - Transitoriamente, até 30 de Junho de 2011, os pedidos apresentados junto dos comercializadores de energia eléctrica, nos termos do n.º 1 do artigo 6.º, devem ser acompanhados de declaração emitida pela instituição de segurança social competente, atestando que o cliente é beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º
+
+2 - A declaração referida no número anterior é remetida, oficiosamente, a todos os beneficiários das prestações sociais previstas no n.º 2 do artigo 2.º, pelas instituições de segurança social competentes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Revogado pelo/a Artigo 199.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Maria Helena dos Santos André.
+
+Promulgado em 26 de Dezembro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de Dezembro de 2010.
+
+Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.

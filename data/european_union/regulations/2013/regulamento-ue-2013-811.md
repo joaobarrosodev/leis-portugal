@@ -1,0 +1,427 @@
+---
+schema_version: '1.0'
+id: eu:celex:32013R0811:por
+title: Regulamento Delegado (UE) n. ° 811/2013 da Comissão, de 18 de fevereiro de 2013
+short_title: null
+summary: Regulamento Delegado (UE) n. ° 811/2013 da Comissão, de 18 de fevereiro de 2013 , que complementa a Diretiva 2010/30/UE
+  do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aquecedores de ambiente, aquecedores combinados,
+  sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar e sistemas mistos de
+  aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2013/811
+official_date: null
+publication_date: '2013-09-06'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 239 de 6.9.2013
+  number: '239'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2013-09-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+version_history:
+  file: regulamento-ue-2013-811.versoes.json
+  count: 1
+  source_lastmod: '2017-03-07'
+  versions:
+  - date: '2013-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: 32013R0811
+  eli: http://data.europa.eu/eli/reg_del/2013/811/oj
+  oj: oj:JOL_2013_239_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32013R0811:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32013R0811
+  metadata_url: http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T16:20:57Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-24T22:24:25.283+02:00'
+integrity:
+  source_sha256: 2ad4b76870bde802c7ae353c2825854af964d94ffea68749d95b1200aa53a100
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:20:57Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2013-811.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aquecimento
+- economia de energia
+- energia elétrica
+- especificação técnica
+- informação do consumidor
+- rendimento energético
+- rotulagem
+relationships:
+- type: amended_by
+  target: celex:32014R0518
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3c046412-dd8b-11e3-8cd4-01aa75ed71a1
+  date: '2014-05-17'
+- type: amended_by
+  target: celex:32017R0254
+  label: null
+  source: http://publications.europa.eu/resource/cellar/33ad5b53-f349-11e6-8a35-01aa75ed71a1
+  date: '2017-02-15'
+- type: based_on
+  target: celex:32010L0030
+  label: null
+  source: http://publications.europa.eu/resource/cellar/679fb9fa-c6ea-4366-8a52-eed017a9a227
+  date: '2010-06-16'
+- type: cited_by
+  target: pt:dre:152422622:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31998L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62dd72e1-3993-48dc-ba0e-e84e7531cb4c
+- type: cites
+  target: celex:32009L0125
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49
+- type: cites
+  target: celex:32010L0075
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c7191b72-4e07-4712-86d6-d3ae5e4f0082
+- type: corrected_by
+  target: celex:32013R0811R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0164ca56-c543-11e3-9fe4-01aa75ed71a1
+  date: '2014-04-16'
+- type: corrected_by
+  target: celex:32013R0811R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cadf0103-e749-11e6-ad7c-01aa75ed71a1
+  date: '2017-01-31'
+- type: corrected_by
+  target: celex:32013R0811R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/557f1aed-e13c-11e7-9749-01aa75ed71a1
+  date: '2017-12-15'
+article_structure:
+  article_count: 8
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T16:20:57Z'
+  warnings:
+  - '02013R0811-20140606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0811-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  errors: []
+---
+
+# Regulamento Delegado (UE) n. ° 811/2013 da Comissão, de 18 de fevereiro de 2013
+
+de 18 de fevereiro de 2013
+
+que complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aquecedores de ambiente, aquecedores combinados, sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar e sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013239PT.01000101-E0001), nomeadamente o artigo 10.º,
+
+Considerando o seguinte:
+
+(1) A Diretiva 2010/30/UE estabelece que a Comissão deve adotar atos delegados no que respeita à rotulagem dos produtos relacionados com a energia que representem um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.
+
+(2) A energia consumida pelos aquecedores de ambiente e pelos aquecedores combinados que fornecem aquecimento ambiente e aquecimento de água representa uma parte significativa da procura total de energia na União. Os aquecedores de ambiente e aquecedores combinados com funcionalidade equivalente apresentam uma grande disparidade em termos de eficiência energética. A margem para reduzir o seu consumo de energia é significativa e inclui a sua combinação com dispositivos de controlo de temperatura e dispositivos solares adequados. Os aquecedores de ambiente, aquecedores combinados e sistemas mistos que associam esses aquecedores a dispositivos de controlo de temperatura e dispositivos solares devem, pois, ser abrangidos por requisitos de rotulagem energética.
+
+(3) Os aquecedores de ambiente e aquecedores combinados que são concebidos para utilizar combustíveis gasosos ou líquidos produzidos predominantemente (mais de 50 %) a partir de biomassa têm características técnicas específicas que requerem análises técnicas, económicas e ambientais suplementares. Em função do resultado de tais análises, devem ser estabelecidos em dada ulterior, se adequado, requisitos de rotulagem energética para esses aquecedores.
+
+(4) Devem ser estabelecidas disposições harmonizadas em matéria de rotulagem e indicações uniformes relativas aos produtos no que respeita à eficiência energética dos aquecedores de ambiente e aquecedores combinados a fim de incentivar os fabricantes a melhorarem a eficiência energética destes aquecedores, encorajar os utilizadores finais a comprarem produtos eficientes em termos energéticos e contribuir para o funcionamento do mercado interno.
+
+(5) No que respeita às poupanças significativas de energia e de custos para cada tipo de aquecedor, o presente regulamento deve introduzir uma nova escala de rotulagem de A^++^ a G para a função de aquecimento ambiente dos aquecedores de ambiente com caldeira, aquecedores de ambiente com cogeração, aquecedores de ambiente com bomba de calor, aquecedores combinados com caldeira e aquecedores combinados com bomba de calor. Enquanto as classes A a G abrangem os diversos tipos de caldeiras tradicionais quando não associados a tecnologias de cogeração e de utilização de energias renováveis, as classes A^+^ e A^++^ devem promover a utilização de cogeração e de fontes de energia renováveis.
+
+(6) Além disso, é conveniente introduzir uma nova escala de rotulagem de A-G para a função de aquecimento de água dos aquecedores combinados com caldeira e aquecedores combinados com bomba de calor, em harmonia com o Regulamento Delegado (UE) n.º 812/2013 da Comissão, de 18 de fevereiro de 2013, que complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aquecedores de água, reservatórios de água quente e sistemas mistos de aquecedor de água e dispositivo solar [([^2])](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013239PT.01000101-E0002).
+
+(7) Quatro anos mais tarde, devem ser acrescentadas as classes A^+++^ e A^+^ às classes de aquecimento ambiente sazonal e de aquecimento de água, respetivamente, a menos que o reexame do regulamento chegue a uma conclusão diferente, a fim de acelerar a penetração no mercado de aquecedores de ambiente e aquecedores combinados que utilizam fontes de energia renováveis, de elevada eficiência.
+
+(8) O presente regulamento deve garantir que os consumidores obtenham informações comparativas mais exatas sobre o desempenho dos aquecedores com bomba de calor com base no método de cálculo e de medição da eficiência sazonal aplicado a três zonas climáticas europeias. A Comissão conferiu um mandato aos organismos europeus de normalização para investigar se deve ser desenvolvido um método semelhante para outros aquecedores. As estações de aquecimento normalizadas europeias para os aquecedores com caldeira, os aquecedores com cogeração e os aquecedores solares poderiam ser consideradas na revisão do presente regulamento.
+
+(9) O nível de potência sonora de um aquecedor pode constituir um aspeto importante para o utilizador final. Devem ser incluídas informações sobre os níveis de potência sonora nos rótulos dos aquecedores de ambiente e dos aquecedores combinados.
+
+(10) Espera-se que o efeito combinado do presente regulamento e do Regulamento (UE) n.º 813/2013, de 2 de agosto de 2013, relativo à aplicação da Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de conceção ecológica aplicáveis aos aquecedores de ambiente e aquecedores combinados [([^3])](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2013239PT.01000101-E0003) venha a resultar em poupanças anuais de energia estimadas em cerca de 1 900 PJ (cerca de 45 Mtep) até 2020, o que correspondente a cerca de 110 Mt de emissões de CO2 em comparação com uma situação em que não fossem adotadas quaisquer medidas.
+
+(11) As informações fornecidas no rótulo devem ser obtidas através de métodos de medição e de cálculo fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição e de cálculo reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adotadas pelos organismos europeus de normalização a pedido da Comissão, em conformidade com os procedimentos estabelecidos na Diretiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^4])](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2013239PT.01000101-E0004), para fins de estabelecimento de requisitos de conceção ecológica.
+
+(12) O presente regulamento deve especificar um modelo e conteúdo uniformes para o rótulo de produto dos aquecedores de ambiente e dos aquecedores combinados.
+
+(13) Além disso, o presente regulamento deve especificar os requisitos para a ficha de produto e a documentação técnica dos aquecedores de ambiente e dos aquecedores combinados.
+
+(14) O presente regulamento deve também especificar os requisitos relativos às informações a fornecer para quaisquer formas de vendas à distância de aquecedores de ambiente e aquecedores combinados e nos anúncios publicitários e material técnico de promoção desses aquecedores.
+
+(15) Para além dos rótulos e fichas de produto para os aquecedores de ambiente autónomos e os aquecedores combinados, estabelecidos no presente regulamento, os rótulos e fichas de sistema misto baseados nas fichas de produto elaboradas pelos fornecedores devem assegurar que o utilizador final tem acesso fácil a informações sobre o desempenho energético dos sistemas mistos de aquecedores com dispositivos solares e/ou dispositivos de controlo de temperatura. A classe de eficiência mais elevada, A^+++^, pode ser alcançada por estes sistemas mistos.
+
+(16) É conveniente prever uma revisão das disposições do presente regulamento à luz do progresso tecnológico,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1. O presente regulamento estabelece requisitos de rotulagem energética e de fornecimento de informações complementares sobre os aquecedores de ambiente e aquecedores combinados com uma potência calorífica nominal ≤ 70 kW, sistemas mistos de aquecedor de ambiente ≤ 70 kW, dispositivo de controlo de temperatura e dispositivo solar e sistemas mistos de aquecedor combinado ≤ 70 kW, dispositivo de controlo de temperatura e dispositivo solar.
+
+2. O presente regulamento não é aplicável:
+
+(a) aos aquecedores especificamente concebidos para utilizar combustíveis gasosos ou líquidos produzidos predominantemente a partir de biomassa;
+
+(b) aos aquecedores que utilizam combustíveis sólidos;
+
+(c) aos aquecedores abrangidos pelo âmbito da Diretiva 2010/75/UE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2013239PT.01000101-E0005);
+
+(d) aos aquecedores que produzem calor exclusivamente para o fornecimento de água quente potável ou para fins sanitários;
+
+(e) aos aquecedores destinados ao aquecimento e distribuição de meios gasosos de transferência de calor, como vapor ou ar;
+
+(f) aos aquecedores de ambiente com cogeração com uma capacidade elétrica máxima de 50 kW ou superior.
+
+###### Artigo 2.º — Definições
+
+Para além das definições que figuram no artigo 2.º da Diretiva 2010/30/CE, são aplicáveis para efeitos do presente regulamento as seguintes definições:
+
+(1) **«Aquecedor»**: um aquecedor de ambiente ou um aquecedor combinado;
+
+(2) **«Aquecedor de ambiente»**: um dispositivo que
+
+(a) fornece calor a um sistema de aquecimento central a água a fim de alcançar e manter a um nível desejado a temperatura no interior de um espaço fechado, como um edifício, uma habitação ou uma sala, e
+
+(b) está equipado com um ou mais geradores de calor;
+
+(3) **«Aquecedor combinado»**: um aquecedor de ambiente concebido para também fornecer água quente potável ou para fins sanitários a determinados níveis de temperatura, quantidades e caudais durante determinados intervalos, e que está ligado a um fornecimento externo de água potável ou para fins sanitários;
+
+(4) **«Sistema de aquecimento central a água»**: um sistema que utiliza água como meio de transferência para a distribuição de calor gerado centralmente a emissores térmicos tendo em vista o aquecimento ambiente de edifícios ou partes de edifícios;
+
+(5) **«Gerador de calor»**: a parte do aquecedor que gera o calor utilizando um ou mais dos seguintes processos:
+
+(a) Queima de combustíveis fósseis e/ou combustíveis de biomassa;
+
+(b) Utilização do efeito de Joule em elementos de aquecimento por resistência elétrica;
+
+(c) Captação de calor ambiente a partir de uma fonte atmosférica, aquática ou geotérmica, e/ou de calor residual;
+
+(6) **«Potência calorífica nominal» (*Prated*)**: a potência calorífica declarada à saída de um aquecedor quando fornece aquecimento ambiente e, se aplicável, aquecimento de água em condições nominais normais, expressa em kW; para os aquecedores de ambiente com bomba de calor e os aquecedores combinados com bomba de calor, as condições nominais normais para determinar a potência calorífica nominal são as condições de projeto de referência, como estabelecido no anexo VII, quadro 10;
+
+(7) **«Condições nominais normais»**: as condições de funcionamento dos aquecedores em condições climáticas médias para estabelecer a potência calorífica nominal, a eficiência energética do aquecimento ambiente sazonal, a eficiência energética do aquecimento de água e o nível de potência sonora;
+
+(8) **«Biomassa»**: a fração biodegradável de produtos, resíduos e detritos de origem biológica provenientes da agricultura (incluindo substâncias de origem vegetal e animal), da exploração florestal e de indústrias afins, incluindo a pesca e a aquicultura, bem como a fração biodegradável de resíduos industriais e urbanos;
+
+(9) **«Combustível de biomassa»**: um combustível líquido ou gasoso produzido a partir de biomassa;
+
+(10) **«Combustível fóssil»**: um combustível líquido ou gasoso de origem fóssil;
+
+(11) **«Aquecedor de ambiente com cogeração»**: um aquecedor de ambiente que gera simultaneamente calor e eletricidade num mesmo processo;
+
+(12) **«Dispositivo de controlo de temperatura»**: o equipamento de interface com o utilizador final para a determinação dos valores e duração da temperatura interior pretendida, e que comunica dados relevantes a uma interface do aquecedor, como uma unidade central de processamento, contribuindo assim para regular a(s) temperatura(s) no interior;
+
+(13) **«Dispositivo solar»**: um sistema exclusivamente solar, um coletor solar, um reservatório de água quente solar ou uma bomba no circuito do coletor, que são comercializados separadamente;
+
+(14) **«Sistema exclusivamente solar»**: um dispositivo que está equipado com um ou mais coletores solares e reservatórios de água quente solares e, eventualmente, bombas no circuito dos coletores e noutros componentes, que é comercializado como uma só unidade e não está equipado com um gerador de calor, com a eventual exceção de um ou mais aquecedores de imersão auxiliares;
+
+(15) **«Coletor solar»**: um dispositivo concebido para absorver a radiação solar global e transferir a energia térmica assim produzida para um fluido que passa através dele;
+
+(16) **«Reservatório de água quente»**: um recipiente destinado a armazenar água quente para fornecimento de água quente e/ou de aquecimento ambiente, incluindo eventuais aditivos, que não está equipado com um gerador de calor, com a possível exceção de um ou mais aquecedores de imersão auxiliares;
+
+(17) **«Reservatório de água quente solar»**: um reservatório de água quente que armazena energia térmica produzida por um ou mais coletores solares;
+
+(18) **«Aquecedor de imersão auxiliar»**: um aquecedor que utiliza o efeito de Joule em resistências elétricas, está integrado num reservatório de água quente e só gera calor quando a fonte externa de calor sofre perturbações (por exemplo, durante os períodos de manutenção) ou não funciona, ou que faz parte de um reservatório de água quente solar e fornece calor quando a fonte de calor solar não é suficiente para proporcionar os níveis de conforto necessários;
+
+(19) **«Sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar»**: um sistema proposto ao utilizador final que contém um ou mais aquecedores de ambiente, um ou mais dispositivos de controlo de temperatura e/ou um ou mais dispositivos solares;
+
+(20) **«Sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar»**: um sistema proposto ao utilizador final que contém um ou mais aquecedores combinados com um ou mais dispositivos de controlo de temperatura e/ou um ou mais dispositivos solares;
+
+(21) **«Eficiência energética do aquecimento ambiente sazonal» (*ηs*)**: o rácio entre a procura de aquecimento ambiente numa dada estação de aquecimento, fornecido por um aquecedor de ambiente, um aquecedor combinado, um sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar ou um sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar, e o consumo anual de energia necessário para satisfazer esta procura, expresso em %;
+
+(22) **«Eficiência energética do aquecimento de água» (*ηwh*)**: o rácio entre a energia útil na água potável ou para fins sanitários fornecida por um aquecedor combinado ou um sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar e a energia necessária para a sua geração, expresso em %;
+
+(23) **«Nível de potência sonora» (*LWA*)**: o nível de potência sonora ponderado A, no interior e/ou no exterior, expresso em dB.
+
+Para efeitos dos anexos II a VIII, são estabelecidas definições adicionais no anexo I.
+
+###### Artigo 3.º — Responsabilidades dos fornecedores e calendário
+
+1. A partir de 26 de setembro de 2015, os fornecedores que colocam no mercado e/ou em serviço aquecedores de ambiente, incluindo os integrados em sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar, devem assegurar que:
+
+(a) É fornecido para cada aquecedor de ambiente um rótulo impresso conforme com o formato e o conteúdo informativo estabelecidos no ponto 1.1 do anexo III de acordo com as classes de eficiência energética do aquecimento ambiente sazonal que constam do ponto 1 do anexo II, tendo em conta que: no caso dos aquecedores de ambiente com bomba de calor, o rótulo impresso é fornecido, pelo menos, na embalagem do gerador de calor; no caso dos aquecedores de ambiente destinados a serem utilizados em sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar, é fornecido para cada aquecedor de ambiente um segundo rótulo conforme com o formato e o conteúdo informativo estabelecidos no ponto 3 do anexo III;
+
+(b) É fornecida para cada aquecedor de ambiente uma ficha de produto, como estabelecido no ponto 1 do anexo IV, tendo em conta que: no caso dos aquecedores de ambiente com bomba de calor, a ficha de produto é fornecida, pelo menos, para o gerador de calor; no caso dos aquecedores de ambiente destinados a serem utilizados em sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar, é fornecida uma segunda ficha, como estabelecido no ponto 5 do anexo IV;
+
+(c) A documentação técnica prevista no ponto 1 do anexo V é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;
+
+(d) Toda a publicidade relativa a um modelo específico de aquecedor de ambiente e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo;
+
+(e) Todo o material técnico de promoção relativo a um modelo específico de aquecedor de ambiente e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo;
+
+A partir de 26 de setembro de 2019, é fornecido para cada aquecedor de ambiente um rótulo impresso conforme com o formato e o conteúdo informativo estabelecidos no ponto 1.2 do anexo III de acordo com as classes de eficiência energética do aquecimento ambiente sazonal que constam do ponto 1 do anexo II, tendo em conta que: no caso dos aquecedores de ambiente com bomba de calor, o rótulo impresso é fornecido, pelo menos, na embalagem do gerador de calor.
+
+2. A partir de 26 de setembro de 2015, os fornecedores que colocam no mercado e/ou em serviço aquecedores combinados, incluindo os integrados em sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar, devem assegurar que:
+
+(a) É fornecido para cada aquecedor combinado um rótulo impresso conforme com o formato e o conteúdo informativo estabelecidos no ponto 2.1 do anexo III de acordo com as classes de eficiência energética do aquecimento sazonal e as classes de eficiência energética do aquecimento de água que constam dos pontos 1 e 2 do anexo II, tendo em conta que: no caso dos aquecedores combinados com bomba de calor, o rótulo impresso é fornecido, pelo menos, na embalagem do gerador de calor; no caso dos aquecedores combinados destinados a serem utilizados em sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar, é fornecido para cada aquecedor combinado um segundo rótulo conforme com o formato e o conteúdo informativo estabelecidos no ponto 4 do anexo III;
+
+(b) É fornecida para cada aquecedor combinado uma ficha de produto, como estabelecido no ponto 2 do anexo IV, tendo em conta que: no caso dos aquecedores combinados com bomba de calor, a ficha de produto é fornecida, pelo menos, para o gerador de calor; no caso dos aquecedores combinados destinados a serem utilizados em sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar, é fornecida uma segunda ficha, como estabelecido no ponto 6 do anexo IV;
+
+(c) A documentação técnica prevista no ponto 2 do anexo V é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;
+
+(d) Toda a publicidade relativa a um modelo específico de aquecedor combinado e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo;
+
+(e) Todo o material técnico de promoção relativo a um modelo específico de aquecedor combinado e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo.
+
+A partir de 26 de setembro de 2019, é fornecido para cada aquecedor combinado um rótulo impresso conforme com o formato e o conteúdo informativo estabelecidos no ponto 2.2 do anexo III de acordo com as classes de eficiência energética do aquecimento ambiente sazonal e com as classes de eficiência energética do aquecimento de água que constam dos pontos 1 e 2 do anexo II, tendo em conta que: no caso dos aquecedores combinados com bomba de calor, o rótulo impresso é fornecido, pelo menos, na embalagem do gerador de calor.
+
+3. A partir de 26 de setembro de 2015, os fornecedores que colocam no mercado e/ou em serviço dispositivos de controlo de temperatura devem assegurar que:
+
+(a) É disponibilizada uma ficha de produto, como previsto no ponto 3 do anexo IV;
+
+(b) A documentação técnica prevista no ponto 3 do anexo V é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão.
+
+4. A partir de 26 de setembro de 2015, os fornecedores que colocam no mercado e/ou em serviço dispositivos solares devem assegurar que:
+
+(a) É disponibilizada uma ficha de produto, como previsto no ponto 4 do anexo IV;
+
+(b) A documentação técnica prevista no ponto 4 do anexo V é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão.
+
+5. A partir de 26 de setembro de 2015, os fornecedores que colocam no mercado e/ou em serviço sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar devem assegurar que:
+
+(a) É fornecido para cada sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar um rótulo impresso conforme com o formato e o conteúdo informativo estabelecidos no ponto 3 do anexo III de acordo com as classes de eficiência energética do aquecimento ambiente sazonal que constam do ponto 1 do anexo II;
+
+(b) É disponibilizada uma ficha de produto, como previsto no ponto 5 do anexo IV, para cada sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar;
+
+(c) A documentação técnica prevista no ponto 5 do anexo V é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;
+
+(d) Toda a publicidade relativa a um modelo específico de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo;
+
+(e) Todo o material técnico de promoção relativo a um modelo específico de sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo.
+
+6. A partir de 26 de setembro de 2015, os fornecedores que colocam no mercado e/ou em serviço sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar devem assegurar que:
+
+(a) É fornecido para cada sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar um rótulo impresso conforme com o formato e o conteúdo informativo estabelecidos no ponto 4 do anexo III de acordo com as classes de eficiência energética do aquecimento ambiente sazonal e as classes de eficiência energética do aquecimento de água que constam dos pontos 1 e 2 do anexo II;
+
+(b) É disponibilizada uma ficha de produto, como previsto no ponto 6 do anexo IV, para cada sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar;
+
+(c) A documentação técnica prevista no ponto 6 do anexo V é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;
+
+(d) Toda a publicidade relativa a um modelo específico de sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo;
+
+(e) Todo o material técnico de promoção relativo a um modelo específico de sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo.
+
+###### Artigo 4.º — Responsabilidades dos distribuidores
+
+1. Os distribuidores de aquecedores de ambiente devem assegurar que:
+
+(a) Cada aquecedor de ambiente ostenta, no ponto de venda, o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, n.º 1, como previsto no ponto 1 do anexo III, colocado na parte externa frontal do aparelho, por forma a ser claramente visível;
+
+(b) Os aquecedores de ambiente postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o aquecedor de ambiente exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do ponto 1 do anexo VI;
+
+(c) Toda a publicidade relativa a um modelo específico de aquecedor de ambiente e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo;
+
+(d) Todo o material técnico de promoção relativo a um modelo específico de aquecedor de ambiente e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo.
+
+2. Os distribuidores de aquecedores combinados devem assegurar que:
+
+(a) Cada aquecedor combinado ostenta, no ponto de venda, o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, n.º 2, como previsto no ponto 2 do anexo III, colocado na parte externa frontal do aparelho, por forma a ser claramente visível;
+
+(b) Os aquecedores combinados postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o aquecedor combinado exposto, são comercializados com as informações que os fornecedores devem facultar nos termos do ponto 2 do anexo VI;
+
+(c) Toda a publicidade relativa a um modelo específico de aquecedor combinado e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo;
+
+(d) Todo o material técnico de promoção relativo a um modelo específico de aquecedor combinado e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo.
+
+3. Os distribuidores de sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar devem assegurar, com base no rótulo e nas fichas facultados pelos fornecedores em conformidade com o artigo 3.º, n.^os^ 1, 3, 4 e 5, que:
+
+(a) Toda a oferta de um sistema misto específico inclui a eficiência energética do aquecimento ambiente sazonal e a classe de eficiência energética do aquecimento ambiente sazonal desse sistema em condições climáticas médias, mais frias ou mais quentes, conforme o caso, exibindo no sistema misto o rótulo estabelecido no ponto 3 do anexo III e fornecendo a ficha prevista no ponto 5 do anexo IV, devidamente preenchida de acordo com as características desse sistema misto;
+
+(b) Os sistemas mistos de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar exposto, são comercializados com as informações fornecidas nos termos do ponto 3 do anexo VI;
+
+(c) Toda a publicidade relativa a um modelo específico de sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo;
+
+(d) Todo o material técnico de promoção relativo a um modelo específico de sistema misto de aquecedor de ambiente, dispositivo de controlo de temperatura e dispositivo solar e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal em condições climáticas médias para esse modelo.
+
+4. Os distribuidores de sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar devem assegurar, com base no rótulo e nas fichas facultados pelos fornecedores em conformidade com o artigo 3.º, n.^os^ 2, 3, 4 e 6, que:
+
+(a) Toda a oferta de um sistema misto específico de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar inclui a eficiência energética do aquecimento ambiente sazonal, a eficiência energética do aquecimento de água, a classe de eficiência energética do aquecimento ambiente sazonal e a classe de eficiência energética do aquecimento de água desse sistema em condições climáticas médias, mais frias ou mais quentes, conforme o caso, exibindo no sistema misto o rótulo estabelecido no ponto 4 do anexo III e fornecendo a ficha prevista no ponto 6 do anexo IV, devidamente preenchida de acordo com as características desse sistema misto;
+
+(b) Os sistemas mistos de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar exposto, são comercializados com as informações fornecidas nos termos do ponto 4 do anexo VI;
+
+(c) Toda a publicidade relativa a um modelo específico de sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar e que contenha informações sobre a energia ou o preço inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo;
+
+(d) Todo o material técnico de promoção relativo a um modelo específico de sistema misto de aquecedor combinado, dispositivo de controlo de temperatura e dispositivo solar e que descreva os seus parâmetros técnicos específicos inclui uma referência à classe de eficiência energética do aquecimento ambiente sazonal e à classe de eficiência energética do aquecimento de água em condições climáticas médias para esse modelo.
+
+###### Artigo 5.º — Métodos de medição e de cálculo
+
+As informações a facultar nos termos dos artigos 3.º e 4.º devem ser obtidas por procedimentos de medição e de cálculo fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição e cálculo reconhecidos como os mais avançados, em conformidade com o previsto no anexo VII.
+
+###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado
+
+Os Estados-Membros devem aplicar o procedimento previsto no anexo VIII ao avaliarem a conformidade da classe de eficiência energética do aquecimento ambiente sazonal, a classe de eficiência energética do aquecimento de água, a eficiência energética do aquecimento ambiente sazonal, a eficiência energética do aquecimento de água e o nível de potência sonora declarados dos aquecedores.
+
+###### Artigo 7.º — Revisão
+
+A Comissão deve rever o presente regulamento com base no progresso tecnológico o mais tardar cinco anos após a sua entrada em vigor. A revisão deve avaliar, nomeadamente, as eventuais alterações significativas na quota de mercado dos diferentes tipos de aquecedores no que respeita aos rótulos previstos nos pontos 1.2. e 2.2. do anexo III, a viabilidade e a utilidade de indicar a eficiência do aquecedor para além da eficiência das bombas de calor com base em estações de aquecimento normalizadas, a adequação das fichas e rótulos de sistema previstos nos pontos 3 e 4 do anexo III e nos pontos 5 e 6 do anexo IV e a conveniência de incluir os dispositivos passivos de recuperação de calor no âmbito do presente regulamento.
+
+###### Artigo 8.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 18 de fevereiro de 2013.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013239PT.01000101-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013239PT.01000101-E0002) Ver página 83 do presente Jornal Oficial.
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2013239PT.01000101-E0003) Ver página 136 do presente Jornal Oficial.
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2013239PT.01000101-E0004) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/eae3c4fe-171e-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2013239PT.01000101-E0005) [JO L 334 de 17.12.2010, p. 17](http://publications.europa.eu/resource/oj/JOL_2010_334_R_TOC).

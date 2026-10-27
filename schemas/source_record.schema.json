@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/joaobarrosodev/leis-portugal/schemas/source_record.schema.json",
+  "title": "Registo de fonte documental",
+  "description": "Metadados operacionais, técnicos e jurídicos de uma fonte integrada ou investigada.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "jurisdiction", "publisher", "homepage", "access", "status", "reuse"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "name": {"type": "string", "minLength": 2},
+    "jurisdiction": {"type": "string", "minLength": 2},
+    "publisher": {"type": "string", "minLength": 2},
+    "homepage": {"type": "string", "format": "uri"},
+    "access": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type"],
+      "properties": {
+        "type": {"type": "string", "minLength": 2},
+        "metadata_endpoint": {"type": ["string", "null"]},
+        "sparql_endpoint": {"type": ["string", "null"], "format": "uri"},
+        "content_endpoint": {"type": ["string", "null"]},
+        "content_base": {"type": ["string", "null"], "format": "uri"}
+      }
+    },
+    "status": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["operational"],
+      "properties": {
+        "operational": {"type": "string", "enum": ["operational", "investigated_not_operational", "planned", "deprecated"]},
+        "last_verified_at": {"type": ["string", "null"], "format": "date"},
+        "verified_scope": {"type": ["string", "null"]}
+      }
+    },
+    "reuse": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "summary"],
+      "properties": {
+        "status": {"type": "string", "enum": ["permitted", "permitted_with_conditions", "restricted", "unresolved"]},
+        "reference": {"type": ["string", "null"]},
+        "summary": {"type": "string", "minLength": 2}
+      }
+    },
+    "limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "known": {"type": ["string", "null"]},
+        "rate_limit_policy": {"type": ["string", "null"]}
+      }
+    }
+  }
+}

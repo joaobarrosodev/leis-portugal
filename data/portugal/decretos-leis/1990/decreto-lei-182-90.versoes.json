@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:574928:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-855748194",
+ "dre_path": "/dr/detalhe/decreto-lei/182-1990-574928",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1990-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "855752377",
+    "855752378"
+   ]
+  },
+  {
+   "date": "1990-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:528466:por",
+     "title": "Declaração",
+     "published": "1990-06-30",
+     "dre_path": "/dr/detalhe/declaracao/1990-528466"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "855752377",
+    "888960135",
+    "855752379"
+   ]
+  }
+ ],
+ "fragments": {
+  "855752377": {
+   "fragment_id": "855748195",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 182/90\n\nde 6 de Junho\n\nO Decreto-Lei n.º 136/79, de 18 de Maio, determina, relativamente às caixas económicas sob a forma de sociedade anónima, que as respectivas acções sejam nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\nO mesmo diploma estipula ainda que nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do respectivo capital social.\n\nEstes normativos constituem sério obstáculo à recuperação de caixas económicas que sejam objecto de uma acção de saneamento. Na verdade, operações desta natureza podem aconselhar ou impor que, de uma parte, entidades com fins lucrativos sejam autorizadas a tomar participações em caixas económicas, em resultado, nomeadamente, da conversão dos seus créditos em capital, e, de outra parte, designadamente por efeito desta conversão, se possa verificar uma maior concentração do capital das instituições em apreço.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "855752378": {
+   "fragment_id": "855748196",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nO artigo 4.º do Decreto-Lei n.º 136/79, de 18 de Maio, passa a ter a seguinte redacção:\n\nArtigo 4.º\n\nAcções de caixas que são sociedades anónimas\n\n1 - Sem prejuízo do disposto no n.º 3, nas caixas económicas que existem sob a forma de sociedades anónimas, as respectivas acções serão nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\n2 - Nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do capital social, salvo o disposto no número seguinte.\n\n3 - O Ministro das Finanças, ouvido o Banco de Portugal, pode autorizar, em circunstâncias excepcionais devidamente justificadas, que acções representativas do capital social de caixas económicas possam ser averbadas a favor de pessoas colectivas com fim lucrativo e que seja excedido o limite referido no número anterior."
+  },
+  "888960135": {
+   "fragment_id": "855748196",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "1990-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 149/1990, 1º Suplemento, Série I de 1990-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-528466), em vigor a partir de 1990-06-30"
+   ],
+   "markdown": "###### Artigo único\n\nArtigo único. O artigo 4.º do Decreto-Lei n.º 136/79, de 18 de Maio, passa a ter a seguinte redacção:\n\nArtigo 4.º\n\nAcções de caixas que são sociedades anónimas\n\n1 - Sem prejuízo do disposto no n.º 3, nas caixas económicas que existem sob a forma de sociedades anónimas, as respectivas acções serão nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\n2 - Nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do capital social, salvo o disposto no número seguinte.\n\n3 - O Ministro das Finanças, ouvido o Banco de Portugal, pode autorizar, em circunstâncias excepcionais devidamente justificadas, que acções representativas do capital social de caixas económicas possam ser averbadas a favor de pessoas colectivas com fim lucrativo e que seja excedido o limite referido no número anterior.\n\n4 - O capital social das caixas económicas referidas neste artigo, integralmente realizado, não pode ser inferior a 40000 contos.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 149/1990, 1º Suplemento, Série I de 1990-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-528466), em vigor a partir de 1990-06-30"
+  },
+  "855752379": {
+   "fragment_id": "855748197",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 25 de Maio de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Maio de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

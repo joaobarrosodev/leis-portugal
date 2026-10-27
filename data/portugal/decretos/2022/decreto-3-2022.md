@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:186362060:por
+title: Decreto n.º 3/2022
+short_title: null
+summary: Procede à desafetação e submissão ao regime florestal total de parcelas de terreno sitas no município da Marinha
+  Grande
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 3/2022
+official_date: null
+publication_date: '2022-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/2022, Série I de 2022-07-20
+  number: '139'
+  series: I
+  supplement: null
+  pages: 4 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13900/0000400007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/3/2022/07/20/p/dre/pt/html
+  oj: null
+  dre: '186362060'
+  dre_path: /dr/detalhe/decreto/3-2022-186362060
+  internal: pt:dre:186362060:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2022-186362060
+  metadata_url: https://data.dre.pt/eli/dec/3/2022/07/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2022-186362060
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 06a5ba91d60cd8a071e9b55a38f2aa0b0d93ec287d03ca0c855c4006e57e9238
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Leiria
+- Mata Nacional de Leiria
+- Ordenamento do Território
+- Ordenamento Florestal
+- Regime Florestal
+relationships: []
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:25:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 3/2022
+
+de 20 de julho
+
+Foi identificada a necessidade de a Câmara Municipal da Marinha Grande proceder à requalificação dos atuais pavilhões de apoio à arte xávega da Praia da Vieira, com o objetivo de os reabilitar de forma a acolherem as artes de pesca das campanhas da praia e permitir aos visitantes experienciar a cultura e a tradição da arte xávega e as suas ligações à cultura avieira.
+
+Dos oito pavilhões a requalificar, três e parte de um estão inseridos na Mata Nacional de Leiria, localizando-se no topo noroeste do talhão 18, área contígua à área urbana da povoação da Praia da Vieira, na freguesia de Vieira de Leiria, no concelho da Marinha Grande.
+
+Assim, torna-se necessário ocupar uma parcela de terreno da Mata Nacional de Leiria, com a dimensão de 1448,2 m2, área estritamente necessária para a execução da operação urbanística de reabilitação do edificado e da zona envolvente, de forma a assegurar a circulação e o acesso às construções.
+
+A cedência da requerida parcela de terreno implica que esta seja excluída, pelo presente decreto, do regime florestal total.
+
+A diminuição do património fundiário do Estado afeto ao uso florestal, decorrente da exclusão de 1448,2 m2 da Mata Nacional de Leiria, é compensada com a submissão ao mesmo regime de outra área de 2318,5 m2, propriedade do município da Marinha Grande.
+
+A referida desafetação não tem qualquer impacte negativo no ordenamento e gestão florestal da Mata Nacional de Leiria, nem nos fins prosseguidos pelo regime florestal.
+
+O presente decreto é elaborado em cumprimento do disposto no Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, que define a submissão de terrenos ao regime florestal, e no Decreto de 24 de dezembro de 1903, publicado no Diário do Governo, n.º 294, de 30 de dezembro de 1903, que aprova a regulamentação para a execução do regime florestal.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto procede à desafetação e submissão ao regime florestal total de parcelas de terreno sitas no município da Marinha Grande.
+
+###### Artigo 2.º — Desafetação do regime florestal total
+
+1 - É desafetada do regime florestal total a parcela de terreno com a área de 1448,2 m2, localizada na Praia da Vieira, integrada na Mata Nacional de Leiria, identificada na planta constante do anexo i do presente decreto e do qual faz parte integrante.
+
+2 - A parcela de terreno a que se refere o número anterior destina-se à execução da operação urbanística de reabilitação do edificado já existente e da área envolvente.
+
+###### Artigo 3.º — Submissão ao regime florestal total
+
+1 - É submetida ao regime florestal total, nos termos do disposto nos artigos 25.º, 26.º, 28.º e 32.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, a parcela de terreno com a área de 2318,5 m2, delimitada na planta constante do anexo ii do presente decreto e do qual faz parte integrante.
+
+2 - A parcela referida no número anterior é incorporada na Mata Nacional de Leiria.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de julho de 2022. - António Luís Santos da Costa - Jorge Moreno Delgado.
+
+Assinado em 12 de julho de 2022.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 13 de julho de 2022.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
+
+Área a desafetar do regime florestal total
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/13900/0000400007.pdf)
+
+## ANEXO II — (a que se refere o n.º 1 do artigo 3.º)
+
+Área a submeter ao regime florestal total
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/13900/0000400007.pdf)
+
+115517295

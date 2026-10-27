@@ -1,0 +1,505 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175865938:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-175920107",
+ "dre_path": "/dr/detalhe/decreto-lei/113-2021-175865938",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175920037",
+    "175920038",
+    "175920039",
+    "175920040",
+    "175920041",
+    "175920042",
+    "175920043",
+    "175920044",
+    "175920045",
+    "175920046",
+    "175920047",
+    "175920048",
+    "175920049",
+    "175920050",
+    "175920051",
+    "175920052",
+    "175920053",
+    "175920054",
+    "175920055",
+    "175920056",
+    "175920057",
+    "175920058",
+    "175920059",
+    "175920060",
+    "175920061",
+    "175920062",
+    "175920063",
+    "175920064",
+    "175920065",
+    "175920066",
+    "175920067",
+    "175920068",
+    "175920069",
+    "175920070",
+    "175920071",
+    "175920072",
+    "175920073",
+    "175920074",
+    "175926475",
+    "175926476",
+    "175926477",
+    "175926478",
+    "175926479",
+    "175926480"
+   ]
+  },
+  {
+   "date": "2023-08-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215980339:por",
+     "title": "Lei n.º 35/2023",
+     "published": "2023-07-21",
+     "dre_path": "/dr/detalhe/lei/35-2023-215980339"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "175920037",
+    "175920038",
+    "175920039",
+    "175920040",
+    "175920041",
+    "175920042",
+    "175920043",
+    "175920044",
+    "175920045",
+    "216056062",
+    "175920047",
+    "175920048",
+    "175920049",
+    "175920050",
+    "175920051",
+    "175920052",
+    "175920053",
+    "175920054",
+    "175920055",
+    "175920056",
+    "175920057",
+    "175920058",
+    "175920059",
+    "175920060",
+    "175920061",
+    "175920062",
+    "175920063",
+    "175920064",
+    "175920065",
+    "175920066",
+    "175920067",
+    "175920068",
+    "175920069",
+    "175920070",
+    "175920071",
+    "175920072",
+    "175920073",
+    "175920074",
+    "175926475",
+    "175926476",
+    "175926477",
+    "175926478",
+    "175926479",
+    "175926480",
+    "175926481"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448",
+     "date": "2023-10-29"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "175920037": {
+   "fragment_id": "175920108",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 113/2021\n\nde 14 de dezembro\n\nSumário: Estabelece os princípios gerais e as regras da organização e funcionamento dos serviços de saúde mental.\n\nA saúde mental é uma componente fundamental do bem-estar dos indivíduos e as perturbações mentais são, de entre as doenças crónicas, a primeira causa de incapacidade em Portugal, justificando cerca de um terço dos anos potenciais de vida perdidos.\n\nAs perturbações psiquiátricas têm uma prevalência de 22,9 %, colocando Portugal num preocupante segundo lugar entre os países europeus, com 60 % destes doentes sem terem acesso a cuidados de saúde mental. Especificamente, a depressão afeta 10 % dos portugueses e, em 2017, o suicídio foi responsável por quase 15 000 anos potenciais de vida perdidos.\n\nSem prejuízo do caminho já percorrido, desde a aprovação da Lei de Saúde Mental pela Lei n.º 36/98, de 24 de julho, e do Decreto-Lei n.º 35/99, de 5 de fevereiro, no sentido da integração da saúde mental na rede hospitalar de cuidados gerais, com o encerramento progressivo dos hospitais psiquiátricos associado a uma aposta no desenvolvimento de cuidados em ambulatório e na comunidade, de que foi exemplo o alargamento da Rede Nacional de Cuidados Continuados Integrados às pessoas com doença mental, através do Decreto-Lei n.º 8/2010, de 28 de janeiro, a verdade é que, por razões diversas, as respostas implementadas em Portugal são ainda insuficientes, com assinaláveis assimetrias geográficas.\n\nApesar do Plano Nacional de Saúde Mental, aprovado pela Resolução do Conselho de Ministros n.º 49/2008, de 6 de março, ter tido como aspeto central a reforma dos serviços de saúde mental, conforme orientações do Plano de Ação em Saúde Mental 2013-2020 da Organização Mundial da Saúde, o seu processo de implementação foi interrompido pelo Programa de Assistência Económica e Financeira 2011-2014, sendo urgente recuperar o atraso entretanto verificado.\n\nNesse sentido, a Base 13 da nova Lei de Bases da Saúde, aprovada em anexo à Lei n.º 95/2019, de 4 de setembro, estabelece que os cuidados de saúde mental devem ser centrados nas pessoas, reconhecendo a sua individualidade, necessidades específicas e nível de autonomia, assim como evitando a sua estigmatização, discriminação negativa ou desrespeito em contexto de saúde, e devem ser prestados através de uma abordagem interdisciplinar e integrada, prioritariamente ao nível da comunidade.\n\nA este nível, cabe ao Estado promover a melhoria da saúde mental das pessoas e da sociedade em geral, designadamente através da promoção do bem-estar mental, da prevenção e identificação atempada das doenças mentais e dos riscos a elas associados.\n\nTendo em vista a concretização dos referidos preceitos e objetivos, o Governo inseriu no Plano de Recuperação e Resiliência, apresentado à Comissão Europeia no âmbito do Instrumento de Recuperação e Resiliência da União Europeia, designado Next Generation EU, e nos termos do Mecanismo de Recuperação e Resiliência criado através do Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, a conclusão da Reforma da Saúde Mental como uma das linhas de reformas e investimentos da Componente 01, relativa ao Serviço Nacional de Saúde, a concretizar até 2026.\n\nNesse âmbito, foi assumido o compromisso de elaboração e aprovação de um novo diploma legal que estabelecesse os princípios orientadores da organização, gestão e avaliação dos serviços de saúde mental, para cuja apresentação de proposta inicial a Ministra da Justiça e a Ministra da Saúde constituíram e nomearam um grupo de trabalho, através do Despacho n.º 6324/2020, de 5 de junho, publicado no Diário da República, 2.ª série, n.º 114, de 15 de junho de 2020, e demais despachos subsequentes.\n\nO presente decreto-lei resulta, em grande parte, do trabalho desenvolvido pelo mencionado grupo de trabalho, acolhendo os seguintes aspetos inovadores, face ao previsto no Decreto-Lei n.º 35/99, de 5 de fevereiro, na sua redação atual, que agora se revoga: i) consagração do princípio geral segundo o qual a organização e funcionamento dos serviços de saúde mental devem orientar-se para a recuperação integral das pessoas com doença mental; ii) consagração do princípio geral de acordo com o qual a execução das políticas e planos de saúde mental deve ser avaliada, devendo incluir a participação de entidades independentes, nomeadamente representantes de associações de utentes e de familiares; iii) planeamento da política de saúde mental através de três instrumentos fundamentais, a saber, o Plano Nacional de Saúde, o Plano Nacional de Saúde Mental e Planos Regionais de Saúde Mental; iv) organização dos serviços de saúde mental segundo um modelo que inclui órgãos consultivos de âmbito nacional, regional e local, estruturas de coordenação de âmbito nacional e regional e serviços de saúde mental de nível regional e local; v) coordenação das políticas de saúde mental a nível nacional, por uma equipa de elementos, incluindo um coordenador nacional das políticas de saúde mental, à qual incumbe, especificamente, promover e avaliar a execução das mencionadas políticas, nomeadamente através do acompanhamento da execução do Plano Nacional de Saúde Mental; vi) prestação de cuidados de saúde mental em hospitais e centros hospitalares psiquiátricos de forma marcadamente residual, tendo em vista a desinstitucionalização e a reinserção na comunidade das pessoas com doença mental neles residentes, bem como o processo de integração dos cuidados de nível local aí prestados nos serviços locais de saúde mental; e vii) integração dos serviços de saúde mental com os cuidados de saúde primários e com os cuidados continuados integrados e serviços de reabilitação psicossocial, assegurando a necessária continuidade de cuidados.\n\nAtravés deste mesmo diploma, concretiza-se igualmente um alinhamento com os principais instrumentos estratégicos nacionais e internacionais em matéria de direitos das pessoas com deficiência, nomeadamente a Convenção sobre os Direitos das Pessoas com Deficiência, adotada pela Organização das Nações Unidas, os princípios 17 e 18 do Pilar Europeu dos Direitos Sociais, a Estratégia sobre os Direitos das Pessoas com Deficiência 2021-2030, da Comissão Europeia, e a Estratégia Nacional para a Inclusão de Pessoas com Deficiência 2021-2025.\n\nForam ouvidos o Conselho Nacional de Saúde Mental e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175920038": {
+   "fragment_id": "175920109",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "175920039": {
+   "fragment_id": "175920110",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece os princípios gerais e as regras da organização e funcionamento dos serviços de saúde mental."
+  },
+  "175920040": {
+   "fragment_id": "175920111",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO disposto no presente decreto-lei aplica-se a todas as instituições do Serviço Nacional de Saúde (SNS), incluindo as que, no todo ou em parte, sejam geridas por outras entidades, privadas ou do setor social, nos termos da Lei de Bases da Saúde, aprovada em anexo à Lei n.º 95/2019, de 4 de setembro, e do Estatuto do SNS, aprovado em anexo ao Decreto-Lei n.º 11/93, de 15 de janeiro, na sua redação atual, no respeito pelos princípios gerais da Lei de Saúde Mental, aprovada pela Lei n.º 36/98, de 24 de julho, na sua redação atual."
+  },
+  "175920041": {
+   "fragment_id": "175920112",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - Os cuidados de saúde mental são prestados por instituições do SNS e por entidades privadas ou do setor social, nos termos da lei, as quais atuam também nos domínios da prevenção da doença mental e da promoção da saúde mental, do bem-estar e qualidade de vida das pessoas.\n\n2 - A prestação de cuidados de saúde mental deve centrar-se nas necessidades e condições específicas das pessoas que deles necessitam, em função da sua diferenciação etária, e ser prioritariamente promovida a nível da comunidade, no meio menos restritivo possível.\n\n3 - As unidades de internamento de pessoas em fase aguda de doença mental devem localizar-se em serviços locais ou regionais de saúde mental.\n\n4 - A organização e o funcionamento dos serviços de saúde mental devem orientar-se para a recuperação integral das pessoas.\n\n5 - A execução da política de saúde mental deve garantir o envolvimento de todos os serviços e organismos públicos das áreas governativas com intervenção direta ou indireta na área da saúde mental, nomeadamente da cidadania e igualdade, da justiça, da ciência, tecnologia e ensino superior, da educação, do trabalho, solidariedade e segurança social e da habitação, operando num modelo de intervenção multinível.\n\n6 - A execução das políticas e dos planos de saúde mental deve ser regularmente avaliada e envolver a participação de entidades independentes, nomeadamente de representantes de associações de utentes e de familiares.\n\n7 - O funcionamento dos serviços de saúde mental deve promover a participação da comunidade e dos cidadãos nos seus órgãos consultivos, nos termos dos respetivos regulamentos internos, e o envolvimento de associações de utentes e de familiares na sua gestão efetiva, designadamente, através do acompanhamento da atividade realizada e da apresentação de recomendações com vista à melhoria da respetiva resposta.\n\n8 - Além das previstas no número anterior, devem ser implementadas outras formas de participação ativa, como o voluntariado para colaboração em atividades dos serviços de saúde mental, nomeadamente no âmbito do apoio domiciliário, da reabilitação psicossocial e inserção na comunidade e de ações de educação para a saúde."
+  },
+  "175920042": {
+   "fragment_id": "175920113",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrumentos de planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instrumentos de planeamento\n\n1 - São instrumentos de planeamento da política de saúde mental o Plano Nacional de Saúde, o Plano Nacional de Saúde Mental e os Planos Regionais de Saúde Mental.\n\n2 - O Plano Nacional de Saúde Mental e os Planos Regionais de Saúde Mental são revistos de cinco em cinco anos.\n\n3 - A promoção da execução das políticas e planos de saúde mental compete à área governativa da saúde, em estreita articulação com as áreas governativas da justiça, da educação e do trabalho, solidariedade e segurança social.\n\n4 - A promoção da execução dos Planos Regionais de Saúde Mental compete às Administrações Regionais de Saúde, I. P. (ARS, I. P.), através das Coordenações Regionais de Saúde Mental."
+  },
+  "175920043": {
+   "fragment_id": "175920114",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de organização dos serviços de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modelo de organização dos serviços de saúde mental\n\nOs serviços de saúde mental estão organizados de acordo com o seguinte modelo:\n\na) Órgãos consultivos de âmbito nacional, regional e local;\n\nb) Estruturas de coordenação de âmbito nacional e regional;\n\nc) Serviços de saúde mental de nível local e regional."
+  },
+  "175920044": {
+   "fragment_id": "175920115",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos consultivos de âmbito nacional, regional e local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos consultivos de âmbito nacional, regional e local"
+  },
+  "175920045": {
+   "fragment_id": "175920116",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos consultivos\n\n1 - O Conselho Nacional de Saúde Mental (CNSM) é o órgão consultivo do Governo em matéria de política de saúde mental, nele estando representadas as entidades com intervenção na área da saúde mental a nível nacional, nomeadamente as áreas governativas relevantes, os serviços e organismos públicos, as associações públicas profissionais e as associações de utentes e de familiares.\n\n2 - Os Conselhos Regionais de Saúde Mental (CRSM) são órgãos consultivos das ARS, I. P., neles estando representadas as entidades com intervenção na área da saúde mental a nível regional, nomeadamente os serviços regionais e locais de saúde mental, os agrupamentos de centros de saúde e as associações de utentes e de familiares.\n\n3 - Os Conselhos Locais de Saúde Mental (CLSM) são órgãos consultivos dos serviços locais de saúde mental, neles estando representadas as entidades com intervenção na área da saúde mental a nível local, nomeadamente os representantes do poder local, as comissões de proteção de crianças e jovens e as associações de utentes e de familiares."
+  },
+  "175920046": {
+   "fragment_id": "175920117",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências e composição do Conselho Nacional de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências e composição do Conselho Nacional de Saúde Mental\n\n1 - Ao CNSM compete emitir pareceres e apresentar propostas e recomendações, a pedido do membro do Governo responsável pela área da saúde ou por sua iniciativa, designadamente sobre:\n\na) Os princípios e objetivos em que deve assentar a definição da política de saúde mental;\n\nb) Os direitos e deveres dos utentes dos serviços de saúde mental;\n\nc) O Plano Nacional de Saúde Mental e os Planos Regionais de Saúde Mental;\n\nd) Os programas de saúde mental;\n\ne) A formação e a investigação em saúde mental.\n\n2 - O CNSM tem a seguinte composição:\n\na) Um presidente, designado pelo membro do Governo responsável pela área da saúde;\n\nb) Um elemento designado pelo membro do Governo responsável pela área da defesa nacional;\n\nc) Um elemento designado pelo membro do Governo responsável pela área da justiça;\n\nd) Dois elementos designados pelo membro do Governo responsável pelas áreas do trabalho, da solidariedade e segurança social, sendo um da área da segurança social e outro da área do emprego;\n\ne) Um elemento designado pelo membro do Governo responsável pela área da ciência, tecnologia e ensino superior;\n\nf) Um elemento designado pelo membro do Governo responsável pela área da educação;\n\ng) Três elementos designados pelo membro do Governo responsável pela área da saúde, sendo um da área dos cuidados de saúde primários, outro da área dos cuidados hospitalares e outro da área dos cuidados continuados integrados;\n\nh) O coordenador nacional das políticas de saúde mental;\n\ni) Um representante da Direção-Geral da Saúde;\n\nj) Um representante do Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências;\n\nk) Um representante da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.);\n\nl) Um representante da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.;\n\nm) Um representante do Instituto da Segurança Social, I. P. (ISS, I. P.);\n\nn) Um representante do Instituto Nacional para a Reabilitação, I. P.;\n\no) Um representante da Comissão para a Cidadania e a Igualdade de Género (CIG);\n\np) Um representante do Alto Comissariado para as Migrações, I. P.;\n\nq) Os coordenadores regionais de saúde mental;\n\nr) Um representante do Colégio de Psiquiatria e outro do Colégio de Psiquiatria da Infância e da Adolescência, da Ordem dos Médicos;\n\ns) Dois representantes do Colégio da Especialidade de Enfermagem de Saúde Mental e Psiquiátrica, da Ordem dos Enfermeiros;\n\nt) Dois representantes do Colégio de Especialidade da Psicologia Clínica e da Saúde, da Ordem dos Psicólogos Portugueses;\n\nu) Dois assistentes sociais, indicados pela respetiva associação pública profissional, e um terapeuta ocupacional, indicado pela respetiva associação representativa, devendo pelo menos dois pertencer a serviços de saúde mental da infância e da adolescência;\n\nv) Três representantes de três sociedades científicas da área da saúde mental, indicados pela Coordenação Nacional das Políticas de Saúde Mental, sendo um do setor da infância e da adolescência;\n\nw) Um representante da Confederação Nacional das Instituições de Solidariedade, um representante da União das Misericórdias Portuguesas, um representante da União das Mutualidades Portuguesas e um representante da Confederação Cooperativa Portuguesa, CCRL;\n\nx) Um representante das instituições particulares de solidariedade social e um representante das federações de âmbito nacional com intervenção na área da saúde mental, indicados pela Coordenação Nacional das Políticas de Saúde Mental;\n\ny) Dois representantes dos institutos religiosos com intervenção na área da saúde mental;\n\nz) Dois representantes de associações de utentes dos serviços de saúde mental e dois representantes de associações de familiares, indicados pela Coordenação Nacional das Políticas de Saúde Mental;\n\naa) O presidente da Comissão para Acompanhamento da Execução do Regime Jurídico do Internamento Compulsivo.\n\n3 - O mandato dos membros do CNSM é de três anos."
+  },
+  "175920047": {
+   "fragment_id": "175920118",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento do Conselho Nacional de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento do Conselho Nacional de Saúde Mental\n\n1 - O CNSM reúne pelo menos duas vezes por ano e sempre que convocado pelo presidente, por sua iniciativa ou a pedido de metade dos seus membros.\n\n2 - O CNSM funciona junto da área governativa da saúde, em plenário ou em comissões especializadas, nos termos de regulamento interno por si elaborado e aprovado por despacho do membro do Governo responsável pela área da saúde.\n\n3 - De acordo com a natureza das matérias a tratar, podem participar nas reuniões do CNSM, sem direito a voto, especialistas convidados pelo presidente, por sua iniciativa ou por indicação de qualquer dos membros.\n\n4 - Os membros do CNSM e os especialistas convidados a que se refere o número anterior não auferem qualquer tipo de remuneração, sem prejuízo do pagamento de ajudas de custo e deslocações a que tenham direito, nos termos legais."
+  },
+  "175920048": {
+   "fragment_id": "175920119",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências e composição dos Conselhos Regionais de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências e composição dos Conselhos Regionais de Saúde Mental\n\n1 - Aos CRSM compete:\n\na) Emitir parecer sobre o respetivo Plano Regional de Saúde Mental;\n\nb) Emitir parecer sobre as propostas da respetiva Coordenação Regional de Saúde Mental consideradas necessárias à melhoria da prestação de cuidados de saúde mental.\n\n2 - Cada CRSM tem a seguinte composição:\n\na) O coordenador regional de saúde mental, que preside;\n\nb) Os diretores dos serviços regionais de saúde mental da região;\n\nc) Os diretores dos serviços locais de saúde mental da região;\n\nd) Dois representantes dos agrupamentos de centros de saúde (ACES) da região, a indicar pelo conselho diretivo da respetiva ARS, I. P.;\n\ne) O coordenador da respetiva Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências;\n\nf) Um enfermeiro especialista em enfermagem de saúde mental e psiquiátrica, um psicólogo e um assistente social, indicados pelos respetivos órgãos regionais das associações públicas profissionais, devendo pelo menos um pertencer a serviços de saúde mental da infância e da adolescência;\n\ng) Um representante regional da Confederação Nacional das Instituições de Solidariedade, um representante regional da União das Misericórdias Portuguesas, um representante regional da União das Mutualidades Portuguesas e um representante da Confederação Cooperativa Portuguesa, CCRL;\n\nh) Um representante das instituições do setor social e solidário com intervenção na área da saúde mental na região, indicado pelo conselho diretivo da respetiva ARS, I. P.;\n\ni) Um representante de cada instituto religioso com atividade na área da saúde mental na região;\n\nj) Um representante do setor social e solidário da Rede Nacional de Apoio às Vítimas de Violência Doméstica (RNAVVD), indicado pela CIG;\n\nk) Dois representantes de associações de utentes dos serviços de saúde mental e dois representantes de associações de familiares, indicados pelo conselho diretivo da respetiva ARS, I. P.;\n\nl) Um representante dos centros distritais de segurança social da respetiva região, indicado pelo conselho diretivo do ISS, I. P.;\n\nm) Um representante dos Núcleos de Planeamento e Intervenção Sem-Abrigo (NPISA) existentes na região, a indicar pelo Núcleo Executivo do Grupo de Implementação, Monitorização e Avaliação Estratégica (GIMAE), da Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo (ENIPSSA);\n\nn) Um representante da delegação regional do Instituto do Emprego e Formação Profissional, I. P.;\n\no) Um representante da direção de serviços regional territorialmente competente da Direção-Geral dos Estabelecimentos Escolares;\n\np) Um representante da equipa técnica regional territorialmente competente da Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens.\n\n3 - Caso não existam, na região, serviços de saúde mental da infância e da adolescência de âmbito regional, também integra o respetivo CRSM um representante daquelas áreas funcionais.\n\n4 - O mandato dos membros dos CRSM é de três anos."
+  },
+  "175920049": {
+   "fragment_id": "175920120",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento dos Conselhos Regionais de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento dos Conselhos Regionais de Saúde Mental\n\n1 - Cada CRSM rege-se por um regulamento interno por si elaborado e aprovado pelo conselho diretivo da respetiva ARS, I. P., podendo funcionar por secções, correspondentes a áreas específicas de intervenção.\n\n2 - Podem participar nas reuniões dos CRSM membros das respetivas Coordenações Regionais de Saúde Mental, sem direito a voto.\n\n3 - De acordo com a natureza das matérias a tratar, podem também participar nas reuniões dos CRSM especialistas, sem direito a voto, convidados pelo respetivo presidente, por sua iniciativa ou por indicação de qualquer dos membros.\n\n4 - O apoio técnico e administrativo a cada CRSM é assegurado pelos serviços da respetiva ARS, I. P.\n\n5 - Os membros dos CRSM não auferem qualquer tipo de remuneração, sem prejuízo do pagamento de ajudas de custo e deslocações a que tenham direito, nos termos legais."
+  },
+  "175920050": {
+   "fragment_id": "175920121",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências, composição e funcionamento dos Conselhos Locais de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências, composição e funcionamento dos Conselhos Locais de Saúde Mental\n\n1 - Compete aos CLSM:\n\na) Emitir parecer sobre os planos de atividades do respetivo serviço local de saúde mental;\n\nb) Emitir parecer sobre os relatórios de atividades do respetivo serviço local de saúde mental;\n\nc) Apresentar propostas de melhoria do funcionamento do respetivo serviço local de saúde mental.\n\n2 - Cada CLSM tem a seguinte composição:\n\na) Um elemento designado pela comunidade intermunicipal da área de atuação do respetivo serviço local de saúde mental, que preside;\n\nb) Um representante de cada município abrangido pelo respetivo serviço local de saúde mental, indicado através de deliberação aprovada em câmara municipal;\n\nc) Dois representantes do serviço local de saúde mental, indicados pela respetiva coordenação, sendo um deles da área da saúde mental da infância e adolescência;\n\nd) Um representante do ACES territorialmente competente, a indicar pelo respetivo diretor executivo;\n\ne) Um representante de associações de utentes do respetivo serviço local de saúde mental e um representante de associações de familiares;\n\nf) Um representante do centro distrital de segurança social, indicado pelo conselho diretivo do ISS, I. P.;\n\ng) Um representante dos NPISA territorialmente competentes, a indicar pelo Núcleo Executivo do GIMAE da ENIPSSA;\n\nh) Um representante das escolas ou agrupamentos de escolas, indicado pelo delegado regional de educação territorialmente competente;\n\ni) Um representante de instituições particulares de solidariedade social com intervenção na área da saúde mental, indicado pelo órgão executivo da associação representativa das mesmas;\n\nj) Um representante do setor social e solidário da RNAVVD, a indicar pela CIG;\n\nk) Um representante das comissões de proteção de crianças e jovens.\n\n3 - O mandato dos membros dos CLSM é de três anos.\n\n4 - O funcionamento de cada CLSM rege-se por regulamento interno, por si elaborado e aprovado pelo diretor do respetivo serviço local de saúde mental.\n\n5 - O apoio técnico e administrativo a cada CLSM é assegurado pelo respetivo serviço local de saúde mental.\n\n6 - Os membros dos CLSM não auferem qualquer tipo de remuneração, sem prejuízo do pagamento de ajudas de custo e deslocações a que tenham direito, nos termos legais."
+  },
+  "175920051": {
+   "fragment_id": "175920122",
+   "type": 1,
+   "heading": "Capítulo III — Estruturas de coordenação de âmbito nacional e regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estruturas de coordenação de âmbito nacional e regional"
+  },
+  "175920052": {
+   "fragment_id": "175920123",
+   "type": 11,
+   "heading": "Artigo 12.º — Coordenação Nacional das Políticas de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Coordenação Nacional das Políticas de Saúde Mental\n\n1 - A Coordenação Nacional das Políticas de Saúde Mental funciona na dependência do membro do Governo responsável pela área da saúde, em articulação com os serviços e organismos do Ministério da Saúde.\n\n2 - A Coordenação Nacional das Políticas de Saúde Mental tem a seguinte composição:\n\na) O coordenador nacional das políticas de saúde mental, a designar pelo membro do Governo responsável pela área da saúde;\n\nb) Os coordenadores regionais de saúde mental;\n\nc) Um psiquiatra da infância e adolescência, um enfermeiro especialista em enfermagem de saúde mental e psiquiátrica, um psicólogo, um assistente social, um terapeuta ocupacional, sem prejuízo de outros profissionais de saúde especializados, a designar pelo membro do Governo responsável pela área da saúde, sob proposta do coordenador nacional das políticas de saúde mental.\n\n3 - À Coordenação Nacional das Políticas de Saúde Mental incumbe participar na definição, promover e avaliar a execução e apresentar propostas para a revisão das políticas de saúde mental, nomeadamente através do acompanhamento da execução do Plano Nacional de Saúde Mental.\n\n4 - O coordenador nacional das políticas de saúde mental e os elementos que integram a Coordenação Nacional têm direito à afetação de tempo específico para a realização das respetivas funções, não lhes sendo devida qualquer remuneração, sem prejuízo dos abonos de ajudas de custo e de transporte aplicáveis, nos termos legais em vigor."
+  },
+  "175920053": {
+   "fragment_id": "175920124",
+   "type": 11,
+   "heading": "Artigo 13.º — Coordenações Regionais de Saúde Mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Coordenações Regionais de Saúde Mental\n\n1 - As Coordenações Regionais de Saúde Mental funcionam junto de cada uma das ARS, I. P.\n\n2 - Cada Coordenação Regional de Saúde Mental tem a seguinte composição:\n\na) Um coordenador regional de saúde mental, a designar pelo conselho diretivo da respetiva ARS, I. P., ouvido o coordenador nacional das políticas de saúde mental;\n\nb) Um representante dos ACES, a indicar pelo conselho diretivo da respetiva ARS, I. P.;\n\nc) Um elemento responsável pelo acompanhamento do Plano Regional da Saúde para as Demências, a indicar pelo conselho diretivo da respetiva ARS, I. P.;\n\nd) Um psiquiatra, um psiquiatra da infância e adolescência, um enfermeiro especialista em enfermagem de saúde mental e psiquiátrica, um psicólogo, um assistente social, um terapeuta ocupacional, sem prejuízo de outros profissionais de saúde especializados, a designar pelo conselho diretivo da respetiva ARS, I. P.\n\n3 - Às Coordenações Regionais de Saúde Mental compete:\n\na) Colaborar, ao nível da sua área geográfica de intervenção, na definição das políticas de saúde mental;\n\nb) Elaborar e rever o respetivo Plano Regional de Saúde Mental;\n\nc) Promover a execução do respetivo Plano Regional de Saúde Mental;\n\nd) Avaliar a execução dos planos de atividades dos respetivos serviços regionais e locais de saúde mental;\n\ne) Dar parecer sobre a criação, transformação e extinção de unidades nos serviços locais de saúde mental da respetiva região;\n\nf) Realizar diagnósticos das necessidades de intervenção de âmbito regional e local, definir as prioridades e o tipo de intervenção a efetuar, bem como os recursos a afetar;\n\ng) Proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos serviços e estabelecimentos de saúde, apoiar a sua implementação e monitorizar a respetiva execução;\n\nh) Desenvolver estudos sobre as intervenções realizadas na respetiva região pelos serviços regionais e locais de saúde mental;\n\ni) Desenvolver e aplicar metodologias de avaliação das diversas ações desenvolvidas ou apoiadas, atualizar diagnósticos, elaborar relatórios e analisar as respetivas conclusões;\n\nj) Assegurar, ao nível da respetiva região, a articulação com a Coordenação Nacional das Políticas de Saúde Mental para o desenvolvimento de programas e projetos, apresentando a esta Coordenação Nacional um relatório de atividades anual até ao final do primeiro trimestre;\n\nk) Planear e promover a articulação interinstitucional e intersectorial e incentivar a participação das instituições da comunidade, públicas ou privadas, no desenvolvimento de ações de promoção, prevenção, tratamento e reabilitação, no âmbito dos programas nacionais promovidos pela Coordenação Nacional das Políticas de Saúde Mental.\n\n4 - Os elementos que integram as Coordenações Regionais de Saúde Mental têm direito à afetação de tempo específico para a realização das respetivas funções, não lhes sendo devida qualquer remuneração, sem prejuízo dos abonos de ajudas de custo e de transporte aplicáveis, nos termos legais em vigor."
+  },
+  "175920054": {
+   "fragment_id": "175920125",
+   "type": 1,
+   "heading": "Capítulo IV — Serviços de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Serviços de saúde mental\n\nArtigo 14.º\n\nOrganização\n\nSem prejuízo do disposto na secção iii do presente capítulo, os serviços de saúde mental organizam-se em serviços locais e regionais."
+  },
+  "175920055": {
+   "fragment_id": "175920126",
+   "type": 8,
+   "heading": "Secção I — Serviços locais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços locais de saúde mental"
+  },
+  "175920056": {
+   "fragment_id": "175920127",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços locais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviços locais de saúde mental\n\n1 - Os serviços locais de saúde mental são departamentos ou serviços hospitalares, aos quais compete assegurar a prestação de cuidados de saúde mental, em ambulatório ou em internamento, à população de uma determinada área geográfica, através de uma rede de programas e serviços que assegurem a continuidade de cuidados.\n\n2 - Os serviços locais de saúde mental integram, designadamente, as seguintes áreas funcionais:\n\na) Cuidados ambulatórios e outras intervenções na comunidade, bem como o desenvolvimento de programas de promoção da saúde e prevenção e tratamento da doença, a assegurar, em cada setor geodemográfico com 100 000 a 200 000 habitantes, designadamente recorrendo à telessaúde;\n\nb) Internamento de pessoas em fase aguda de doença, sem prejuízo do disposto no artigo 25.º;\n\nc) Hospitalização de dia;\n\nd) Atendimento permanente das situações de urgência psiquiátrica, em serviços de urgência hospitalar ou no âmbito de estruturas de intervenção na crise;\n\ne) Prestação de cuidados especializados a doentes internados em ligação com outras especialidades;\n\nf) Prestação de cuidados e acompanhamento aos doentes integrados em unidades e entidades prestadoras de cuidados continuados, nomeadamente unidades e equipas de cuidados continuados integrados de saúde mental da Rede Nacional de Cuidados Continuados Integrados.\n\n3 - Os cuidados em ambulatório e as outras intervenções na comunidade dos serviços locais de saúde mental são assegurados por equipas comunitárias de saúde mental, que abrangem toda a área assistencial a cargo do serviço.\n\n4 - Os cuidados de saúde mental da infância e da adolescência de âmbito local são assegurados através de equipas multiprofissionais específicas, organizadas sob a forma de serviço ou de unidade funcional, de acordo com a dimensão da população alvo e sob a responsabilidade de um psiquiatra da infância e da adolescência.\n\n5 - As atividades de reabilitação psicossocial dos serviços locais de saúde mental são desenvolvidas por meios próprios ou em colaboração com outras estruturas, nos termos do artigo 28.º"
+  },
+  "175920057": {
+   "fragment_id": "175920128",
+   "type": 11,
+   "heading": "Artigo 16.º — Criação, alteração ou extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Criação, alteração ou extinção\n\nOs serviços locais de saúde mental são criados, alterados ou extintos por portaria do membro do Governo responsável pela área da saúde, a qual define a respetiva área geográfica, de acordo com o Plano Nacional de Saúde Mental e os Planos Regionais de Saúde Mental."
+  },
+  "175920058": {
+   "fragment_id": "175920129",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento\n\n1 - Os cuidados prestados nos serviços locais de saúde mental são assegurados por equipas multidisciplinares, que integram profissionais das áreas da psiquiatria, enfermagem, psicologia, serviço social, terapia ocupacional e psicomotricidade, devendo integrar outros profissionais sempre que a especificidade dos referidos cuidados o justifique.\n\n2 - As equipas mencionadas no número anterior funcionam sob a chefia de um profissional de saúde com formação e experiência reconhecida, designado pelo diretor do departamento ou serviço, a quem compete:\n\na) Planear, coordenar e monitorizar as atividades desenvolvidas;\n\nb) Promover o trabalho interdisciplinar;\n\nc) Promover a formação contínua dos profissionais da equipa;\n\nd) Promover a melhoria da qualidade dos cuidados através da avaliação de estruturas, processos e resultados;\n\ne) Promover a realização de atividades de investigação, nomeadamente nas áreas com potencial impacto no acesso e na prestação de cuidados.\n\n3 - A dotação de recursos humanos para os serviços locais de saúde mental faz-se de acordo com a dimensão populacional da área assistencial, sendo obrigatoriamente refletida nos planos de atividades e orçamento das entidades onde se inserem.\n\n4 - O financiamento dos serviços locais de saúde mental deve obedecer a um modelo que tenha em conta as especificidades das áreas funcionais que integram e das equipas que os asseguram."
+  },
+  "175920059": {
+   "fragment_id": "175920130",
+   "type": 11,
+   "heading": "Artigo 18.º — Equipas comunitárias de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Equipas comunitárias de saúde mental\n\n1 - As equipas comunitárias de saúde mental asseguram a prestação de cuidados a uma população de 50 000 a 100 000 habitantes, pela qual assumem responsabilidade, dando resposta às suas necessidades, em estreita articulação com os utentes e respetivas famílias e com os elementos significativos da comunidade.\n\n2 - As equipas comunitárias de saúde mental são responsáveis por assegurar, em registo contínuo, todas as funções necessárias num nível de atendimento especializado e diferenciado, incluindo avaliação de necessidades, diagnóstico, consulta, intervenções terapêuticas, visitas domiciliárias e intervenções de reabilitação, tendo como objetivo a recuperação global da pessoa com doença mental.\n\n3 - A atividade das equipas comunitárias de saúde mental integra obrigatoriamente:\n\na) Consulta externa;\n\nb) Psicoterapias e acompanhamento psicológico individual;\n\nc) Terapias e intervenções de grupo;\n\nd) Visitas domiciliárias;\n\ne) Articulação com outras estruturas comunitárias com o objetivo de promover a saúde mental, nas vertentes da literacia e promoção da saúde, prevenção da doença, intervenção terapêutica e reabilitação psicossocial;\n\nf) Articulação com os cuidados de saúde primários e cuidados continuados integrados;\n\ng) Intervenção social;\n\nh) Intervenções comunitárias centradas no utente;\n\ni) Intervenções estruturadas, nomeadamente psicoeducativas, programas de tratamento assertivo, intervenção neuropsicológica, terapias de mediação corporal e terapia ocupacional.\n\n4 - As equipas comunitárias de saúde mental desenvolvem as suas atividades fora do hospital, relativamente à população pela qual são responsáveis, em articulação com as outras áreas funcionais do respetivo serviço local de saúde mental, outras estruturas de saúde, locais de trabalho ou quaisquer entidades significativas para a promoção da saúde mental.\n\n5 - As equipas comunitárias de saúde mental dispõem de instalações próprias e dos meios indispensáveis ao acompanhamento dos utentes no domicílio e à articulação com outras entidades.\n\n6 - As equipas comunitárias de saúde mental funcionam, em articulação com os cuidados de saúde primários, de acordo com os seguintes modelos:\n\na) Modelo de gestão de casos, no seguimento de pessoas com doenças mentais graves;\n\nb) Modelo de cuidados colaborativos, no seguimento de pessoas com doenças mentais comuns.\n\n7 - As equipas comunitárias de saúde mental são criadas nos termos seguintes:\n\na) Até 2025, são criadas 40 equipas comunitárias de saúde mental, conforme previsto no Plano de Recuperação e Resiliência (PRR);\n\nb) A partir de 2026, o número de equipas comunitárias de saúde mental a criar é fixado, anualmente, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde."
+  },
+  "175920060": {
+   "fragment_id": "175920131",
+   "type": 11,
+   "heading": "Artigo 19.º — Centros de responsabilidade integrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Centros de responsabilidade integrados\n\n1 - Os serviços locais devem organizar-se através de centros de responsabilidade integrados (CRI), nos termos da lei, com as adaptações decorrentes da natureza específica e do âmbito de intervenção dos cuidados de saúde mental.\n\n2 - Os incentivos institucionais e financeiros a atribuir aos CRI referidos no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde."
+  },
+  "175920061": {
+   "fragment_id": "175920132",
+   "type": 11,
+   "heading": "Artigo 20.º — Direção dos serviços locais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direção dos serviços locais de saúde mental\n\n1 - A direção de cada serviço local de saúde mental compete ao diretor do respetivo departamento ou serviço.\n\n2 - A designação do diretor do departamento ou serviço faz-se nos termos da lei, de entre médicos psiquiatras ou psiquiatras da infância e da adolescência.\n\n3 - O diretor do serviço local de saúde mental é coadjuvado por um enfermeiro especialista em enfermagem de saúde mental e psiquiátrica e por um administrador hospitalar, designados, sob sua proposta, pelo conselho de administração do respetivo estabelecimento hospitalar."
+  },
+  "175920062": {
+   "fragment_id": "175920133",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências dos diretores dos serviços locais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências dos diretores dos serviços locais de saúde mental\n\n1 - Sem prejuízo das competências que lhes sejam conferidas por lei, aos diretores dos serviços locais de saúde mental compete:\n\na) Elaborar o plano de atividades, de acordo com o Plano Nacional de Saúde Mental e o Plano Regional de Saúde Mental, bem como o respetivo relatório de atividades;\n\nb) Elaborar e executar os programas a desenvolver na área da saúde mental;\n\nc) Assegurar que a comunidade e os cidadãos dispõem de informação sobre o acesso à prestação de cuidados de saúde mental e os direitos e deveres dos utentes;\n\nd) Assegurar a participação da comunidade local e dos cidadãos no funcionamento do serviço, em particular das associações de utentes e de familiares;\n\ne) Propor ao conselho de administração do respetivo estabelecimento hospitalar acordos com vista à articulação das atividades desenvolvidas pelo serviço local de saúde mental com outros serviços, unidades ou instituições, integrados ou não no SNS, nomeadamente os serviços regionais de saúde mental e os ACES da mesma área de intervenção.\n\n2 - Cada diretor pode delegar as competências identificadas no número anterior no enfermeiro especialista e no administrador que o coadjuvam, bem como nos responsáveis pelas áreas funcionais do respetivo serviço local de saúde mental."
+  },
+  "175920063": {
+   "fragment_id": "175920134",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conselho técnico\n\n1 - Cada serviço local de saúde mental dispõe de um conselho técnico, com funções consultivas e de assessoria, composto pelos responsáveis das várias áreas funcionais e por representantes dos respetivos grupos profissionais.\n\n2 - Compete ao conselho técnico colaborar na elaboração do regulamento interno, do plano de atividades, da proposta de orçamento e do relatório de atividades, bem como na definição dos programas a desenvolver, pronunciando-se sobre todas as questões que lhe sejam submetidas pelo diretor do respetivo serviço local de saúde mental.\n\n3 - O funcionamento do conselho técnico rege-se por regulamento interno, por si elaborado e aprovado pelo diretor do respetivo serviço local de saúde mental."
+  },
+  "175920064": {
+   "fragment_id": "175920135",
+   "type": 8,
+   "heading": "Secção II — Serviços regionais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços regionais de saúde mental"
+  },
+  "175920065": {
+   "fragment_id": "175920136",
+   "type": 11,
+   "heading": "Artigo 23.º — Serviços regionais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Serviços regionais de saúde mental\n\n1 - Têm âmbito regional os serviços de saúde mental que, pelo elevado grau de especialização das respetivas valências ou pela eficiência de distribuição de recursos, não seja possível ou justificável implementar a nível local, nos termos do Plano Nacional de Saúde Mental.\n\n2 - Aos serviços regionais de saúde mental compete prestar apoio e funcionar de forma complementar aos serviços locais de saúde mental da respetiva região, bem como desenvolver atividades no âmbito da formação e investigação, de acordo com o planeamento definido a nível nacional para o setor.\n\n3 - Os serviços regionais de saúde mental estão integrados em estabelecimentos hospitalares, devendo organizar-se através de CRI, nos termos da lei, com as adaptações decorrentes da natureza específica e do âmbito de intervenção dos cuidados de saúde mental.\n\n4 - A criação, alteração ou extinção de serviços regionais de saúde mental, bem como a definição da respetiva área geográfica e sede, fazem-se por portaria do membro do Governo responsável pela área da saúde.\n\n5 - Os serviços de psiquiatria forense de âmbito regional não integrados nos serviços prisionais são regulados pelo Decreto-Lei n.º 70/2019, de 24 de maio."
+  },
+  "175920066": {
+   "fragment_id": "175920137",
+   "type": 11,
+   "heading": "Artigo 24.º — Serviços de saúde mental da infância e da adolescência de âmbito regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Serviços de saúde mental da infância e da adolescência de âmbito regional\n\n1 - Sem prejuízo do disposto no artigo anterior e da reestruturação da rede hospitalar, consideram-se serviços de âmbito regional os departamentos ou serviços de saúde mental da infância e da adolescência do Centro Hospitalar Universitário do Porto, E. P. E., do Centro Hospitalar e Universitário de Coimbra, E. P. E., e do Centro Hospitalar Universitário de Lisboa Central, E. P. E.\n\n2 - Para além das valências especializadas de âmbito regional, os departamentos ou serviços referidos no número anterior prestam cuidados de saúde mental à população infantil e adolescente das áreas geodemográficas em que esses cuidados não estão disponíveis nos respetivos serviços regionais e locais de saúde mental."
+  },
+  "175920067": {
+   "fragment_id": "175920138",
+   "type": 8,
+   "heading": "Secção III — Hospitais e centros hospitalares psiquiátricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Hospitais e centros hospitalares psiquiátricos"
+  },
+  "175920068": {
+   "fragment_id": "175920139",
+   "type": 11,
+   "heading": "Artigo 25.º — Atribuições dos hospitais e centros hospitalares psiquiátricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Atribuições dos hospitais e centros hospitalares psiquiátricos\n\nAos hospitais e centros hospitalares psiquiátricos incumbe:\n\na) Continuar a assegurar os cuidados de saúde mental de nível local nas áreas geodemográficas pelas quais sejam responsáveis à data de entrada em vigor do presente decreto-lei, até ser concluída a integração de todos os referidos cuidados nos serviços locais de saúde mental, nos termos nele previstos;\n\nb) Assegurar a prestação de cuidados de saúde mental aos doentes de evolução prolongada que neles se encontram institucionalizados e promover a humanização e melhoria das suas condições de vida, desenvolvendo programas de reabilitação adaptados às necessidades específicas daqueles doentes e apoiando a sua reinserção na comunidade;\n\nc) Promover o processo de desinstitucionalização das pessoas com doença mental residentes nessas instituições, de acordo com o Plano Nacional de Saúde Mental."
+  },
+  "175920069": {
+   "fragment_id": "175920140",
+   "type": 1,
+   "heading": "Capítulo V — Integração de cuidados de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Integração de cuidados de saúde mental"
+  },
+  "175920070": {
+   "fragment_id": "175920141",
+   "type": 11,
+   "heading": "Artigo 26.º — Articulação e continuidade de cuidados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Articulação e continuidade de cuidados\n\nOs serviços de saúde mental devem trabalhar de forma articulada com os cuidados de saúde primários, com os cuidados continuados integrados e com outros serviços envolvidos na reabilitação psicossocial, nomeadamente de apoio social, de educação, de emprego e de habitação, assegurando a necessária continuidade de cuidados."
+  },
+  "175920071": {
+   "fragment_id": "175920142",
+   "type": 11,
+   "heading": "Artigo 27.º — Colaboração com os cuidados de saúde primários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Colaboração com os cuidados de saúde primários\n\n1 - Os serviços de saúde mental celebram com os cuidados de saúde primários da mesma área de influência protocolos que assegurem uma colaboração regular no desenvolvimento de programas de promoção e prevenção da saúde mental e na prestação de cuidados de saúde mental à população.\n\n2 - Os protocolos referidos no número anterior devem definir os princípios orientadores da colaboração a desenvolver na área de treino e formação em saúde mental, na supervisão e seguimento de casos e na referenciação de doentes."
+  },
+  "175920072": {
+   "fragment_id": "175920143",
+   "type": 11,
+   "heading": "Artigo 28.º — Colaboração com os cuidados continuados integrados e com a área da reabilitação psicossocial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Colaboração com os cuidados continuados integrados e com a área da reabilitação psicossocial\n\n1 - Os serviços de saúde mental são responsáveis pela referenciação para unidades e entidades prestadoras de cuidados continuados, nomeadamente para as unidades e equipas de cuidados continuados integrados de saúde mental da RNCCI, e pelo acompanhamento clínico dos doentes referenciados.\n\n2 - As unidades e entidades prestadoras de cuidados continuados referidas no número anterior podem, excecionalmente, assegurar o acompanhamento clínico, desde que fique garantida a articulação com os serviços locais de saúde mental da respetiva área geográfica.\n\n3 - Os serviços de saúde mental celebram protocolos de colaboração que contribuam para a reabilitação psicossocial das pessoas com doença mental, nomeadamente nas áreas da habitação, do emprego, do apoio social, da educação e da ocupação de tempos livres com as seguintes entidades:\n\na) Serviços públicos e pessoas coletivas de direito público, de direito privado e do setor social, preferencialmente da sua área geográfica de intervenção;\n\nb) Associações representativas de utentes e ou familiares de pessoas com doença mental.\n\n4 - A integração profissional das pessoas com doença mental obedece aos princípios definidos pelos membros do Governo responsáveis pelas áreas do emprego e da saúde, através de portaria que regulamenta a cooperação nas áreas do emprego e formação profissional."
+  },
+  "175920073": {
+   "fragment_id": "175920144",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "175920074": {
+   "fragment_id": "175920145",
+   "type": 11,
+   "heading": "Artigo 29.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dotação orçamental\n\nO disposto no presente decreto-lei é financiado, entre outras, pelas verbas inscritas para este fim no PRR."
+  },
+  "175926475": {
+   "fragment_id": "175920146",
+   "type": 11,
+   "heading": "Artigo 30.º — Utilização de meios telemáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Utilização de meios telemáticos\n\nAs reuniões dos órgãos previstos no presente decreto-lei devem ser preferencialmente realizadas por meios telemáticos."
+  },
+  "175926476": {
+   "fragment_id": "175920147",
+   "type": 11,
+   "heading": "Artigo 31.º — Designações para as estruturas de coordenação de âmbito nacional e regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Designações para as estruturas de coordenação de âmbito nacional e regional\n\n1 - O coordenador nacional das políticas de saúde mental e os elementos que integram a Coordenação Nacional das Políticas de Saúde Mental são designados num prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei, nos termos previstos nas alíneas a) e c) do n.º 2 do artigo 12.º\n\n2 - Os coordenadores regionais de saúde mental e os elementos que integram as Coordenações Regionais de Saúde Mental são designados num prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei, nos termos previstos no n.º 2 do artigo 13.º"
+  },
+  "175926477": {
+   "fragment_id": "175920148",
+   "type": 11,
+   "heading": "Artigo 32.º — Integração de cuidados de nível local nos serviços locais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Integração de cuidados de nível local nos serviços locais de saúde mental\n\nO processo de integração de cuidados de saúde mental de nível local nos serviços locais de saúde mental, referido na alínea a) do artigo 25.º, deve estar concluído até ao final de 2025."
+  },
+  "175926478": {
+   "fragment_id": "175920149",
+   "type": 11,
+   "heading": "Artigo 33.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Legislação subsidiária\n\nSem prejuízo do disposto no presente decreto-lei, os serviços de saúde mental regem-se pelo disposto na legislação aplicável aos estabelecimentos hospitalares integrados no SNS, bem como na legislação específica das carreiras dos profissionais de saúde."
+  },
+  "175926479": {
+   "fragment_id": "175920150",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 35/99, de 5 de fevereiro, na sua redação atual."
+  },
+  "175926480": {
+   "fragment_id": "175920151",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "216056062": {
+   "fragment_id": "175920117",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências e composição do Conselho Nacional de Saúde Mental",
+   "in_force_from": "2023-08-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 53.º do/a [Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2023-215980339), em vigor a partir de 2023-08-20",
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 7.º — Competências e composição do Conselho Nacional de Saúde Mental\n\n1 - Ao CNSM compete emitir pareceres e apresentar propostas e recomendações, a pedido do membro do Governo responsável pela área da saúde ou por sua iniciativa, designadamente sobre:\n\na) Os princípios e objetivos em que deve assentar a definição da política de saúde mental;\n\nb) Os direitos e deveres dos utentes dos serviços de saúde mental;\n\nc) O Plano Nacional de Saúde Mental e os Planos Regionais de Saúde Mental;\n\nd) Os programas de saúde mental;\n\ne) A formação e a investigação em saúde mental.\n\n2 - O CNSM tem a seguinte composição:\n\na) Um presidente, designado pelo membro do Governo responsável pela área da saúde;\n\nb) Um elemento designado pelo membro do Governo responsável pela área da defesa nacional;\n\nc) Um elemento designado pelo membro do Governo responsável pela área da justiça;\n\nd) Dois elementos designados pelo membro do Governo responsável pelas áreas do trabalho, da solidariedade e segurança social, sendo um da área da segurança social e outro da área do emprego;\n\ne) Um elemento designado pelo membro do Governo responsável pela área da ciência, tecnologia e ensino superior;\n\nf) Um elemento designado pelo membro do Governo responsável pela área da educação;\n\ng) Três elementos designados pelo membro do Governo responsável pela área da saúde, sendo um da área dos cuidados de saúde primários, outro da área dos cuidados hospitalares e outro da área dos cuidados continuados integrados;\n\nh) O coordenador nacional das políticas de saúde mental;\n\ni) Um representante da Direção-Geral da Saúde;\n\nj) Um representante do Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências;\n\nk) Um representante da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.);\n\nl) Um representante da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.;\n\nm) Um representante do Instituto da Segurança Social, I. P. (ISS, I. P.);\n\nn) Um representante do Instituto Nacional para a Reabilitação, I. P.;\n\no) Um representante da Comissão para a Cidadania e a Igualdade de Género (CIG);\n\np) Um representante da Agência para a Integração, Migrações e Asilo, I. P.;\n\nq) Os coordenadores regionais de saúde mental;\n\nr) Um representante do Colégio de Psiquiatria e outro do Colégio de Psiquiatria da Infância e da Adolescência, da Ordem dos Médicos;\n\ns) Dois representantes do Colégio da Especialidade de Enfermagem de Saúde Mental e Psiquiátrica, da Ordem dos Enfermeiros;\n\nt) Dois representantes do Colégio de Especialidade da Psicologia Clínica e da Saúde, da Ordem dos Psicólogos Portugueses;\n\nu) Dois assistentes sociais, indicados pela respetiva associação pública profissional, e um terapeuta ocupacional, indicado pela respetiva associação representativa, devendo pelo menos dois pertencer a serviços de saúde mental da infância e da adolescência;\n\nv) Três representantes de três sociedades científicas da área da saúde mental, indicados pela Coordenação Nacional das Políticas de Saúde Mental, sendo um do setor da infância e da adolescência;\n\nw) Um representante da Confederação Nacional das Instituições de Solidariedade, um representante da União das Misericórdias Portuguesas, um representante da União das Mutualidades Portuguesas e um representante da Confederação Cooperativa Portuguesa, CCRL;\n\nx) Um representante das instituições particulares de solidariedade social e um representante das federações de âmbito nacional com intervenção na área da saúde mental, indicados pela Coordenação Nacional das Políticas de Saúde Mental;\n\ny) Dois representantes dos institutos religiosos com intervenção na área da saúde mental;\n\nz) Dois representantes de associações de utentes dos serviços de saúde mental e dois representantes de associações de familiares, indicados pela Coordenação Nacional das Políticas de Saúde Mental;\n\naa) O presidente da comissão para o acompanhamento da execução do regime jurídico do tratamento involuntário.\n\n3 - O mandato dos membros do CNSM é de três anos.\n\n> Alterado pelo/a Artigo 53.º do/a [Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2023-215980339), em vigor a partir de 2023-08-20\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "175926481": {
+   "fragment_id": "175920152",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de dezembro de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - João Alberto Sobrinho Teixeira - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - Hugo Santos Mendes.\n\nPromulgado em 9 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 10 de dezembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114808601"
+  }
+ }
+}

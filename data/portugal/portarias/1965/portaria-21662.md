@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:511616:por
+title: Portaria n.º 21662
+short_title: null
+summary: Modifica o modo de remuneração dos fretes marítimos pagos às empresas de navegação pelo transporte de malas de correio
+  e de encomendas postais entre o continente e as ilhas adjacentes e entre a metrópole e as províncias ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Marinha, do Ultramar e das Comunicações
+proposing_entity: null
+official_number: '21662'
+official_date: null
+publication_date: '1965-11-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 254/1965, Série I de 1965-11-09
+  number: '254'
+  series: I
+  supplement: null
+  pages: 1439 - 1440
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/11/25400/14391440.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '511616'
+  dre_path: /dr/detalhe/portaria/21662-1965-511616
+  internal: pt:dre:511616:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21662-1965-511616
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21662-1965-511616
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ef30d98d469a48b7ab866f6b6ae38b2769e88d16d6126c43839f112dfb2ab65d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:357965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357966:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:08:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21662
+
+Os fretes marítimos pagos às empresas de navegação pelo transporte de malas de correio e de encomendas postais entre o continente e as ilhas adjacentes e entre a metrópole e as províncias ultramarinas são ainda os estabelecidos em 1957, apesar do sensível agravamento que desde então se verificou no custo de exploração dos navios.
+
+As referidas empresas expuseram o seu desejo de que esses fretes fossem revistos, nos termos das cláusulas aplicáveis dos respectivos contratos de transporte.
+
+De há muito que a Junta Nacional da Marinha Mercante vem observando que tais fretes estão longe de ser compensadores. Se é certo que os atrasos e dificuldades nos embarques, provenientes do facto de os armadores não terem interesse em transportar mais do que as quantidades convencionadas, se traduzem em prejuízo para os expedidores e os destinatários das remessas, também se afigura que o actual estado de coisas é igualmente prejudicial para os armadores.
+
+É, portanto, de interesse do público, dos serviços postais e das empresas de navegação que tal situação seja modificada. Para proceder ao respectivo estudo foi, por portaria de 21 de Outubro de 1964, nomeada uma comissão, a qual apresentou agora o resultado dos seus trabalhos.
+
+Nestes termos, e tendo em vista o disposto no artigo 5.º do [Decreto-Lei n.º 31421](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31421-1941-357966), de 26 de Julho de 1941, e na alínea a) da base V da [Portaria n.º 9845](https://diariodarepublica.pt/dr/detalhe/portaria/9845-1941-357965), da mesma data:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Marinha, do Ultramar e das Comunicações, que o transporte marítimo de malas postais efectuado pelas empresas nacionais de navegação seja remunerado do seguinte modo:
+
+A) Serviço nacional:
+
+A(índice 1) - Regime metropolitano
+
+Zonas interinsular e CAM:
+
+... Por quilograma
+
+Malas de correspondência ... $60
+
+Malas de encomendas ... 1$20
+
+A(índice 2) - Regime ultramarino
+
+a) Metrópole-ultramar e vice-versa:
+
+Malas de correspondência ... 1$20
+
+Malas de encomendas:
+
+Zona I (províncias da Guiné e de Cabo Verde) ... 1$70
+
+Zona II (províncias de S. Tomé e Príncipe e de Angola) ... 2$20
+
+Zona III (província de Moçambique) ... 3$20
+
+Zona IV (Estado da Índia e províncias de Macau e Timor) ... 4$20
+
+A(índice 3) - Serviço interprovincial
+
+1) Na mesma zona:
+
+Malas de correspondência ... 1$20
+
+Malas de encomendas ... 1$20
+
+2) Entre zonas diferentes:
+
+Malas de correspondência ... 1$20
+
+Malas de encomendas ... 2$20
+
+B) Serviço internacional:
+
+Malas de correspondência originárias de território português ... 1$20
+
+C) As taxas de frete marítimo referidas nas alíneas antecedentes são devidas aos armadores passados 60 dias sobre a data da publicação desta portaria.
+
+Ministérios da Marinha, do Ultramar e das Comunicações, 9 de Novembro, de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

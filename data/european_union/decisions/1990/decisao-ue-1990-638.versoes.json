@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990D0638:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990D0638-20061222",
+ "dre_path": null,
+ "source_lastmod": "2006-12-22",
+ "versions": [
+  {
+   "date": "1990-12-12",
+   "future": false,
+   "celex": "31990D0638",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5349aba1f4647b28",
+    "3509dd3b9cba218e",
+    "cb57f2ed44fb5322",
+    "8aee48bcc6efda93",
+    "d607bf262a97f46a"
+   ]
+  },
+  {
+   "date": "1992-07-29",
+   "future": false,
+   "celex": "01990D0638-19920729",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita ANEXO I — Critérios a ter em conta nos programas de erradicação",
+    "Adita ANEXO II — Critérios a ter em conta nos programas de vigilância",
+    "Adita ANEXO III — Critérios a adoptar nos programas de luta contra a raiva",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "b50dec18607fb7c5",
+    "b1f433b2830680f9",
+    "2be20998594e6e48",
+    "b64cd84a1ddd5fce",
+    "5583713b09c558a3",
+    "bd1de22c5115d8b8"
+   ]
+  },
+  {
+   "date": "2006-12-22",
+   "future": false,
+   "celex": "01990D0638-20061222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO I — Critérios a ter em conta nos programas de erradicação",
+    "Suprime ANEXO II — Critérios a ter em conta nos programas de vigilância",
+    "Suprime ANEXO III — Critérios a adoptar nos programas de luta contra a raiva"
+   ],
+   "fragments": [
+    "ba0e723512040844"
+   ]
+  }
+ ],
+ "fragments": {
+  "5349aba1f4647b28": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**90/638/CEE: Decisão do Conselho, de 27 de Novembro de 1990, que estabelece os critérios comunitários aplicáveis às acções de erradicação e de vigilância de determinadas doenças dos animais** *Jornal Oficial nº L 347 de 12/12/1990 p. 0027 - 0029 Edição especial finlandesa: Capítulo 3 Fascículo 35 p. 0188 Edição especial sueca: Capítulo 3 Fascículo 35 p. 0188*\n\nDECISÃO DO CONSELHO de 27 de Novembro de 1990 que estabelece os critérios comunitários aplicáveis às acções de erradicação e de vigilância de determinadas doenças dos animais (90/638/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário (1) e, nomeadamente, o n° 2 do seu artigo 24o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, nos termos do n° 2 do artigo 24° da Decisão 90/424/CEE, é necessário estabelecer critérios comunitários aplicáveis à acção financeira da Comunidade para a erradicação e vigilância de determinadas doenças animais;\n\nConsiderando que os referidos critérios devem garantir a eficácia da acção empreendida e permitir que os Estados-membros apresentem à Comissão programas destinados a assegurar a erradicação rápida ou a vigilância adequada das doenças em questão,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "3509dd3b9cba218e": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\nPara serem aprovados ao abrigo da acção prevista no n° 1 do artigo 24° da Decisão 90/424/CEE, os programas apresentados pelos Estados-membros à Comissão devem respeitar:\n\n- para os programas de erradicação, os critérios estabelecidos no anexo I,\n\n- para os programas de vigilância, os critérios estabelecidos no anexo II."
+  },
+  "cb57f2ed44fb5322": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\nOs Estados-membros são destinatários da presente decisão.\n\nFeito em Bruxelas, em 27 de Novembro de 1990. Pelo Conselho O Presidente V. SACCOMANDI"
+  },
+  "8aee48bcc6efda93": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nCritérios a ter em conta nos programas de erradicação Os programas de erradicação devem incluir, pelo menos:\n\n1. Uma descrição da situação epidemiológica da doença;\n\n2. Uma análise das custas provisórias e uma estimativa dos benefícios prováveis do programa;\n\n3. A duração prevista do programa, bem como o objectivo a atingir no seu termo;\n\n4. A designação de uma autoridade central responsável encarregada do controlo e da coordenação dos serviços competentes para a execução do programa;\n\n5. A descrição e a delimitação da zona geográfica e administrativa em que o programa vai ser aplicado;\n\n6. Um regime que garanta a obrigatoriedade de declaração de presunção ou de confirmação de um caso ou de um foco de doença na zona em causa;\n\n7. Os procedimentos de controlo do programa e, nomeadamente, as regras relativas aos movimentos dos animais susceptíveis e ao exame regular das explorações ou zonas em causa;\n\n8. Um sistema de registo das explorações abrangidas pelo programa;\n\n9. Medidas que permitam identificar a origem dos animais;\n\n10. Os diferentes estatutos aplicáveis às explorações ou zonas e os objectivos a atingir em cada estatuto, bem como as condições aplicáveis aos movimentos dos animais entre diferentes estatutos e as consequências de uma eventual perda do estatuto;\n\n11. Se necessário, uma definição dos métodos de análise, de ensaios e de amostragem em função da doença;\n\n12. As medidas a tomar caso se verifiquem resultados positivos, nomeadamente, aquando do controlo efectuado, em conformidade com as disposições do programa. Estas medidas devem incluir todos os meios necessários para a rápida erradicação da doença, em função dos conhecimentos epidemiológicos e dos métodos de profilaxia específicos da doença; por exemplo:\n\na) Abate dos animais atingidos ou contaminados ou que se suspeita estarem atingidos ou contaminados:\n\n- quer com destruição ou utilização das carcaças após tratamento para fins que não sejam a alimentação humana, desde que os tratamentos utilizados ofereçam garantias suficientes em matéria de protecção da saúde humana e/ou animal,\n\n- quer com a utilização posterior da carne, desde que tal não apresente qualquer perigo para a saúde humana;\n\nb) Destruição de todos os produtos susceptíveis de transmitir a doença ou tratamento dos referidos produtos de maneira a evitar qualquer contaminação;\n\nc) Procedimento de desinfecção das explorações infectadas;\n\nd) Escolhas efectuadas no que se refere ao tratamento terapêutico e à profilaxia;\n\ne) Procedimento de repovoamento, com animais sãos, das explorações que tenham sido objecto de medidas de abate;\n\nf) Criação de uma zona de vigilância em torno da exploração infectada;\n\n13. Se necessário, regras que conduzam à indemnização adequada dos criadores, em caso de abate dos animais, o mais rapidamente possível;\n\n14. O compromisso da autoridade referida no ponto 4 de informar de forma regular e adequada os serviços da Comissão."
+  },
+  "d607bf262a97f46a": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nCritérios a ter em conta nos programas de vigilância Os programas de vigilância devem incluir, pelo menos:\n\n1. Os critérios referidos nos pontos 1 a 9, 12, 13 e 14 do anexo I;\n\n2. Um regime de ensaios de vigilância baseado numa pesquisa serológica, microbiológica, patológica ou epidemiológica ou qualquer outro método adequado à doença;\n\n3. Um regime que permita o controlo da ausência da doença à luz da sua epidemiologia."
+  },
+  "b50dec18607fb7c5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1990D0638 — PT — 29.07.1992 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990D0638:PT:NOT) [DECISÃO DO CONSELHO de 27 de Novembro de 1990 que estabelece os critérios comunitários aplicáveis às acções de erradicação e de vigilância de determinadas doenças dos animais (90/638/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990D0638:PT:NOT) (JO L 347, 12.12.1990, p.27)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0065:PT:NOT) | [Directiva 92/65/CEE do Conselho de 13 de Julho de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0065:PT:NOT) | L 268 | 54 | 14.9.1992 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990D0638:PT:NOT)\n\nDECISÃO DO CONSELHO\n\nde 27 de Novembro de 1990\n\nque estabelece os critérios comunitários aplicáveis às acções de erradicação e de vigilância de determinadas doenças dos animais\n\n(90/638/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([1](http://publications.europa.eu/resource/cellar/3bfa02b2-a5de-4406-a4b4-7501901e5c92.0018.02/DOC_1#E0001)) e, nomeadamente, o n.o 2 do seu artigo 24.o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, nos termos do n.o 2 do artigo 24.o da Decisão 90/424/CEE, é necessário estabelecer critérios comunitários aplicáveis à acção financeira da Comunidade para a erradicação e vigilância de determinadas doenças animais;\n\nConsiderando que os referidos critérios devem garantir a eficácia da acção empreendida e permitir que os Estados-membros apresentem à Comissão programas destinados a assegurar a erradicação rápida ou a vigilância adequada das doenças em questão,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "b1f433b2830680f9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara serem aprovados ao abrigo da acção prevista no n.o 1 do artigo 24.o da Decisão 90/424/CEE, os programas apresentados pelos Estados-membros à Comissão devem respeitar:\n\n— para os programas de erradicação, os critérios estabelecidos no anexo I,\n\n— para os programas de vigilância, os critérios estabelecidos no anexo II,\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0065:PT:NOT)\n\n— para os programas de luta contra a raiva: os critérios estabelecidos no anexo III.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990D0638:PT:NOT)"
+  },
+  "2be20998594e6e48": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros são destinatários da presente decisão."
+  },
+  "b64cd84a1ddd5fce": {
+   "fragment_id": "ANEXO I — Critérios a ter em conta nos programas de erradicação",
+   "type": "divisao",
+   "heading": "ANEXO I — Critérios a ter em conta nos programas de erradicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Critérios a ter em conta nos programas de erradicação\n\nOs programas de erradicação devem incluir, pelo menos:\n\n1. Uma descrição da situação epidemiológica da doença;\n\n2. Uma análise das custas provisórias e uma estimativa dos benefícios prováveis do programa;\n\n3. A duração prevista do programa, bem como o objectivo a atingir no seu termo;\n\n4. A designação de uma autoridade central responsável encarregada do controlo e da coordenação dos serviços competentes para a execução do programa;\n\n5. A descrição e a delimitação da zona geográfica e administrativa em que o programa vai ser aplicado;\n\n6. Um regime que garanta a obrigatoriedade de declaração de presunção ou de confirmação de um caso ou de um foco de doença na zona em causa;\n\n7. Os procedimentos de controlo do programa e, nomeadamente, as regras relativas aos movimentos dos animais susceptíveis e ao exame regular das explorações ou zonas em causa;\n\n8. Um sistema de registo das explorações abrangidas pelo programa;\n\n9. Medidas que permitam identificar a origem dos animais;\n\n10. Os diferentes estatutos aplicáveis às explorações ou zonas e os objectivos a atingir em cada estatuto, bem como as condições aplicáveis aos movimentos dos animais entre diferentes estatutos e as consequências de uma eventual perda do estatuto;\n\n11. Se necessário, uma definição dos métodos de análise, de ensaios e de amostragem em função da doença;\n\n12. As medidas a tomar caso se verifiquem resultados positivos, nomeadamente, aquando do controlo efectuado, em conformidade com as disposições do programa. Estas medidas devem incluir todos os meios necessários para a rápida erradicação da doença, em função dos conhecimentos epidemiológicos e dos métodos de profilaxia específicos da doença; por exemplo:\n\na) Abate dos animais atingidos ou contaminados ou que se suspeita estarem atingidos ou contaminados:\n\n— quer com destruição ou utilização das carcaças após tratamento para fins que não sejam a alimentação humana, desde que os tratamentos utilizados ofereçam garantias suficientes em matéria de protecção da saúde humana e/ou animal,\n\n— quer com a utilização posterior da carne, desde que tal não apresente qualquer perigo para a saúde humana;\n\nb) Destruição de todos os produtos susceptíveis de transmitir a doença ou tratamento dos referidos produtos de maneira a evitar qualquer contaminação;\n\nc) Procedimento de desinfecção das explorações infectadas;\n\nd) Escolhas efectuadas no que se refere ao tratamento terapêutico e à profilaxia;\n\ne) Procedimento de repovoamento, com animais sãos, das explorações que tenham sido objecto de medidas de abate;\n\nf) Criação de uma zona de vigilância em torno da exploração infectada;\n\n13. Se necessário, regras que conduzam à indemnização adequada dos criadores, em caso de abate dos animais, o mais rapidamente possível;\n\n14. O compromisso da autoridade referida no ponto 4 de informar de forma regular e adequada os serviços da Comissão."
+  },
+  "5583713b09c558a3": {
+   "fragment_id": "ANEXO II — Critérios a ter em conta nos programas de vigilância",
+   "type": "divisao",
+   "heading": "ANEXO II — Critérios a ter em conta nos programas de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Critérios a ter em conta nos programas de vigilância\n\nOs programas de vigilância devem incluir, pelo menos:\n\n1. Os critérios referidos nos pontos 1 a 9, 12, 13 e 14 do anexo I;\n\n2. Um regime de ensaios de vigilância baseado numa pesquisa serológica, microbiológica, patológica ou epidemiológica ou qualquer outro método adequado à doença;\n\n3. Um regime que permita o controlo da ausência da doença à luz da sua epidemiologia.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0065:PT:NOT)"
+  },
+  "bd1de22c5115d8b8": {
+   "fragment_id": "ANEXO III — Critérios a adoptar nos programas de luta contra a raiva",
+   "type": "divisao",
+   "heading": "ANEXO III — Critérios a adoptar nos programas de luta contra a raiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Critérios a adoptar nos programas de luta contra a raiva\n\nOs programas de luta contra a raiva devem incluir, pelo menos:\n\na) Os critérios referidos nos pontos 1 a 7 do anexo I;\n\nb) Informações pormenorizadas sobre a ou as regiões em que ocorrerá a imunização oral das raposas e sobre os seus limites naturais. Essa(s) região(ões) abrangerá(ão) no mínimo 6 000 km2 ou a totalidade do território de um Estado-membro e poderá(ão) incluir zonas limítrofes de países terceiros;\n\nc) Informações pormenorizadas sobre as vacinas propostas, o sistema de distribuição, a densidade e a frequência da colocação dos engodos;\n\nd) Se for caso disso, todos os pormenores, o custo e o objectivo das acções de conservação ou de preservação da flora e da fauna empreendidas por organizações benévolas no território abrangido por esses projectos.\n\n([1](http://publications.europa.eu/resource/cellar/3bfa02b2-a5de-4406-a4b4-7501901e5c92.0018.02/DOC_1#src.E0001)) JO n.o L 224 de 18. 8. 1990, p. 19."
+  },
+  "ba0e723512040844": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01990D0638 — PT — 22.12.2006 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31990D0638) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31990D0638) [de 27 de Novembro de 1990](http://publications.europa.eu/resource/celex/31990D0638) [que estabelece os critérios comunitários aplicáveis às acções de erradicação e de vigilância de determinadas doenças dos animais](http://publications.europa.eu/resource/celex/31990D0638) [(90/638/CEE)](http://publications.europa.eu/resource/celex/31990D0638) (JO L 347, 12.12.1990, p.27)\n\n**revogado por:**\n\n- [Decisão do Conselho de 19 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006D0965) — L 397 — 22 — 30.12.2006"
+  }
+ }
+}

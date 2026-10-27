@@ -1,0 +1,87 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1039107599:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2026-1039107631",
+ "dre_path": "/dr/detalhe/portaria/62-2026-1039107599",
+ "source_lastmod": "2026-02-19",
+ "versions": [
+  {
+   "date": "2026-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1053378383:por",
+     "title": "Portaria n.º 82/2026/1",
+     "published": "2026-02-19",
+     "dre_path": "/dr/detalhe/portaria/82-2026-1053378383"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "1039200075",
+    "1054961469",
+    "1054961470",
+    "1039200675",
+    "1039200875",
+    "1039201075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1039200075": {
+   "fragment_id": "1039199975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em resposta aos danos provocados e à excecionalidade das condições climatéricas ocorridas na madrugada do dia 28 de janeiro, o Governo, através da Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, declarou a situação de calamidade, entretanto prorrogada através da Resolução do Conselho de Ministros n.º 15-C/2026, de 1 de fevereiro.\n\nA tempestade Kristin, a mais recente e severa do alinhamento sucessivo de tempestades verificadas em território nacional no final do mês de janeiro de 2026, teve uma expressão intensa em vários concelhos, provocando ocorrências significativas em todo o território nacional.\n\nAtenta a extensão dos danos já verificados, bem como a potencial evolução de outros fenómenos adversos, decorrentes de precipitação e vento anómalos, como cheias e deslizamentos de terras, considera-se adequado, a par das medidas excecionais e dos apoios a atribuir na decorrência da declaração de calamidade nos termos das referidas resoluções, determinar a isenção do pagamento de taxas pela renovação do cartão de cidadão perdido, extraviado ou inutilizado e pela emissão de cartão de cidadão nos casos de perda, extravio ou inutilização de bilhete de identidade vitalício, por motivo comprovadamente imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de situação de calamidade decorrente da tempestade Kristin e nos concelhos adicionalmente identificados como afetados por despacho, nos termos constantes dos n.<sup>os </sup>2 e 3 da Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 34.º da Lei n.º 7/2007, de 5 de fevereiro, na sua redação atual, e no uso das competências delegadas pela Ministra da Justiça, através do Despacho n.º 9883/2025, publicado no Diário da República, 2.ª série, n.º 159, de 20 de agosto de 2025, manda o Governo, pela Secretária de Estado da Justiça, o seguinte:"
+  },
+  "1054961469": {
+   "fragment_id": "1039200175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 82/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/82-2026-1053378383), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece um regime excecional e temporário de isenção do pagamento de taxas pela renovação do cartão de cidadão perdido, extraviado ou inutilizado e pela emissão de cartão de cidadão nos casos de perda, extravio ou inutilização de bilhete de identidade vitalício, por motivo imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de calamidade determinada pela Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, e respetivas prorrogações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 82/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/82-2026-1053378383), em vigor a partir de 2026-02-20"
+  },
+  "1054961470": {
+   "fragment_id": "1039200375",
+   "type": 11,
+   "heading": "Artigo 2.º — Renovação do cartão de cidadão",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 82/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/82-2026-1053378383), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Renovação do cartão de cidadão\n\n1 - A renovação, solicitada até 30 dias após a cessação da declaração de calamidade, do cartão de cidadão perdido, extraviado ou inutilizado por motivo imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de calamidade determinada pela Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, e respetivas prorrogações, bem como nos concelhos adicionalmente identificados como afetados por despacho, nos termos daquela resolução, está isenta do pagamento de taxas, desde que não haja lugar a alteração dos dados do titular.\n\n2 - A emissão de cartão de cidadão, solicitada até 30 dias após a cessação da declaração de calamidade, nos casos de perda, extravio ou inutilização de bilhete de identidade vitalício, por motivo imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de calamidade determinada pela Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, e respetivas prorrogações, bem como nos concelhos adicionalmente identificados como afetados por despacho, nos termos daquela resolução, está isenta do pagamento de taxas, desde que não haja lugar a alteração dos dados do titular.\n\n3 - O motivo que determinou a perda, extravio ou inutilização pode ser atestado por trabalhador que exerça funções de atendimento nos espaços cidadão, fixos ou móveis, por declaração emitida pelo município ou pela junta de freguesia da área afetada ou por declaração sob compromisso de honra do titular do cartão de cidadão ou do bilhete de identidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 82/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/82-2026-1053378383), em vigor a partir de 2026-02-20"
+  },
+  "1039200675": {
+   "fragment_id": "1039200575",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nA presente portaria produz efeitos a 28 de janeiro de 2026."
+  },
+  "1039200875": {
+   "fragment_id": "1039200775",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1039201075": {
+   "fragment_id": "1039200975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Justiça, Ana Luísa da Silva Gonçalves Machado, em 4 de fevereiro de 2026."
+  }
+ }
+}

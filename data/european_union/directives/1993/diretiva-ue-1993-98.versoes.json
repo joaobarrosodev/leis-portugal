@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0098:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0098-20070116",
+ "dre_path": null,
+ "source_lastmod": "2007-01-16",
+ "versions": [
+  {
+   "date": "1993-11-24",
+   "future": false,
+   "celex": "31993L0098",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ad6828bf08c8d0cd",
+    "d495dbff703ad35e",
+    "678fda5239b6c59b",
+    "e1b546af38d78940",
+    "d625d75e5f6a4374",
+    "1857945fc42fd107",
+    "b5a4d188ea06554a",
+    "2dd2d417a8067b05",
+    "cb93e8583abeee8c",
+    "64fffa13e11517b5",
+    "8ee5f107e17024f6",
+    "94f9c1b1b36b486c",
+    "7e6fb436d8cf6be4",
+    "25826e44483fa320",
+    "abc8596b3e5a975d"
+   ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "celex": "01993L0098-20070116",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º — Duração dos direitos de autor",
+    "Suprime Artigo 2º — Obras cinematográficas ou audiovisuais",
+    "Suprime Artigo 3º — Prazo dos direitos conexos",
+    "Suprime Artigo 4º — Protecção de obras anteriores não publicadas",
+    "Suprime Artigo 5º — Publicações críticas e científicas",
+    "Suprime Artigo 6º — Protecção das fotografias",
+    "Suprime Artigo 7º — Protecção relativamente a países terceiros",
+    "Suprime Artigo 8º — Cálculo dos prazos",
+    "Suprime Artigo 9º — Direitos morais",
+    "Suprime Artigo 10º — Aplicação no tempo",
+    "Suprime Artigo 11º — Adaptações técnicas",
+    "Suprime Artigo 12º — Processo de notificação",
+    "Suprime Artigo 13º — Disposições gerais",
+    "Suprime Artigo 14º"
+   ],
+   "fragments": [
+    "685d3a1c9e7224f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "ad6828bf08c8d0cd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/98/CEE do Conselho, de 29 de Outubro de 1993, relativa à harmonização do prazo de protecção dos direitos de autor e de certos direitos conexos** *Jornal Oficial nº L 290 de 24/11/1993 p. 0009 - 0013 Edição especial finlandesa: Capítulo 13 Fascículo 25 p. 0075 Edição especial sueca: Capítulo 13 Fascículo 25 p. 0075*\n\nDIRECTIVA 93/98/CEE DO CONSELHO de 29 de Outubro de 1993 relativa à harmonização do prazo de protecção dos direitos de autor e de certos direitos conexos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 2 do seu artigo 57º e os seus artigos 66º e 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n1. Considerando que a Convenção de Berna para a protecção de obras literárias e artísticas e a Convenção internacional para a protecção dos artistas, intérpretes ou executantes, dos produtores de fonogramas e dos organismos de radiodifusão (Convenção de Roma) apenas prevêem prazos mínimos de protecção dos direitos a que se referem, deixando aos Estados contratantes a possibilidade de protegerem os referidos direitos por prazos mais longos; que certos Estados-membros utilizaram esta faculdade; que, por outro lado, determinados Estados-membros não aderiram à Convenção de Roma;\n\n2. Considerando que, em virtude da utilização daquela faculdade por parte dos Estados-membros, as legislações nacionais actualmente em vigor em matéria de prazos de protecção dos direitos de autor e dos direitos conexos contêm disparidades que podem entravar a livre circulação das mercadorias, bem como a livre prestação de serviços, e falsear as condições de concorrência no mercado comum; que é necessário, por conseguinte, na perspectiva do bom funcionamento do mercado interno, harmonizar as legislações dos Estados-membros de modo a que os prazos de protecção sejam idênticos em toda a Comunidade;\n\n3. Considerando que a harmonização deve incidir não apenas sobre o prazo de protecção enquanto tal, mas também sobre algumas das suas modalidades, tais como o momento a partir do qual esse prazo é calculado;\n\n4. Considerando que as disposições da presente directiva não afectam a aplicação pelos Estados-membros das disposições do nº 2, alíneas b), c) e d), e do nº 3 do artigo 14ºA da Convenção de Berna;\n\n5. Considerando que o prazo mínimo de protecção de cinquenta anos após a morte do autor, previsto na Convenção de Berna, se destinava a proteger o autor e as duas primeiras gerações dos seus descendentes; que o aumento da duração de vida média na Comunidade faz com que esse prazo tenha deixado de ser suficiente para abranger duas gerações;\n\n6. Considerando que determinados Estados-membros previram um prazo superior a cinquenta anos após a morte do autor, a fim de compensar os efeitos das guerras mundiais sobre a exploração das obras;\n\n7. Considerando que, no que diz respeito ao prazo de protecção dos direitos conexos, determinados Estados-membros optaram por um prazo de cinquenta anos após a publicação lícita ou a difusão lícita junto do público;\n\n8. Considerando que, na posição da Comunidade adoptada nas negociações do Uruguay Round no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT), se deve prever, no que toca aos produtores de fonogramas, um prazo de protecção de cinquenta anos após a primeira publicação;\n\n9. Considerando que o respeito pelos direitos adquiridos decorre dos princípios gerais do direito protegidos pela ordem jurídica comunitária; que a harmonização do prazo de protecção dos direitos de autor e dos direitos conexos não pode, por conseguinte, ter por efeito reduzir a protecção de que gozam actualmente os respectivos beneficiários na Comunidade; que, para reduzir ao mínimo os efeitos das medidas transitórias e permitir o funcionamento do mercado interno na prática, a harmonização do prazo de protecção deve ocorrer com base no longo prazo;\n\n10. Considerando que, na sua comunicação de 17 de Janeiro de 1991 «Seguimento a dar ao Livro Branco - programa de trabalho da Comissão em matéria de direitos de autor e dos direitos conexos», a Comissão sublinhou a necessidade de harmonizar os direitos de autor e sublinhou igualmente a necessidade de harmonizar os direitos com eles conexos a um elevado nível de protecção, uma vez que esses direitos são fundamentais para a criação intelectual e que a sua protecção permite assegurar a manutenção e o desenvolvimento da criatividade, no interesse dos autores, das indústrias culturais, dos consumidores e da sociedade no seu conjunto;\n\n11. Considerando que, para instituir um nível de protecção elevado, que responda simultaneamente às exigências do mercado interno e à necessidade de criar um clima jurídico favorável ao desenvolvimento harmonioso da criatividade literária e artística na Comunidade, o prazo de protecção dos direitos de autor deve ser harmonizado em setenta anos após a morte do autor ou setenta anos após a colocação lícita da obra à disposição do público e, relativamente aos direitos conexos, em cinquenta anos após a ocorrência do evento que faz desencadear o prazo;\n\n12. Considerando que, nos termos do nº 5 do artigo 2º da Convenção de Berna, as colecções são protegidas quando, devido à selecção e organização do respectivo conteúdo, constituam criações intelectuais; que essas obras são protegidas como tal, sem prejuízo dos direitos de autor de cada uma das obras que constituem essas colecções; que, por conseguinte, podem ser aplicados prazos específicos de protecção às obras integradas em colecções;\n\n13. Considerando que, sempre que uma ou mais pessoas singulares forem identificadas como autores, o prazo de protecção deve ser calculado a partir da sua morte; que a autoria de toda ou de parte de uma obra é uma questão de facto que pode dever ser decidada pelos tribunais nacionais;\n\n14. Considerando que, nos termos das convenções de Berna e de Roma, os prazos de protecção devem ser calculados a partir do primeiro dia do ano subsequente ao respectivo facto gerador;\n\n15. Considerando que o artigo 1º da Directiva 91/250/CEE do Conselho, de 14 de Maio de 1991, relativa à protecção jurídica dos programas de computador (4), prevê que os Estados-membros protejam os programas de computador, através de direitos de autor, enquanto obras literárias na acepção da Convenção de Berna; que a presente directiva procede à harmonização do prazo de protecção das obras literárias na Comunidade; que é assim necessário revogar o artigo 8º da Directiva 91/250/CEE, que só instaura uma harmonização provisória do prazo de protecção dos programas de computador;\n\n16. Considerando que os artigos 11º e 12º da Directiva 92/100/CEE do Conselho, de 19 de Novembro de 1992, relativa ao direito de locação e de empréstimo e a determinados direitos conexos aos direitos de autor no domínio da propriedade intelectual (5), apenas prevêem um prazo mínimo de protecção dos direitos, sem prejuízo de posterior harmonização; que uma vez que a presente directiva prevê essa harmonização posterior, esses artigos devem ser revogados;\n\n17. Considerando que a protecção das fotografias nos Estados-membros é objecto de regimes diferentes; que, a fim de obter uma harmonização suficiente do prazo de protecção das obras fotográficas, e nomeadamente das que, dado o seu carácter artístico ou profissional têm importância no âmbito do mercado interno, é necessário definir o nível de originalidade requerido na presente directiva; que uma obra fotográfica, na acepção da Convenção de Berna, deve ser considerada como original sempre que for criação intelectual própria do respectivo autor, reflectindo a sua personalidade, sem que outros critérios, tais como o mérito ou finalidade, sejam tomados em consideração; que a protecção das outras fotografias pode ser deixada à lei nacional;\n\n18. Considerando que, para evitar discrepâncias no prazo de protecção dos direitos conexos, é necessário prever, para o respectivo cálculo, o mesmo ponto de partida em toda a Comunidade; que no cálculo do prazo de protecção devem ser tomadas em consideração a actuação, a fixação, a difusão, a publicação e a comunicação lícitas ao público, ou seja, os meios de tornar perceptível às pessoas em geral, por todas as formas adequadas, um objecto sobre o qual incide um direito conexo, independentemente do país em que seja efectuada essa actuação, fixação, difusão, publicação ou comunicação lícitas ao público;\n\n19. Considerando que os direitos dos organismos de radiodifusão sobre as suas emissões, independentemente destas serem efectuadas com ou sem fio, incluindo por cabo ou satélite, não devem ser perpétuos; que é, assim, necessário que o prazo de protecção se inicie com a primeira difusão de determinada emissão; que esta disposição se destina a evitar que comece a decorrer um novo prazo quando uma emissão é idêntica a outra anterior;\n\n20. Considerando que os Estados-membros devem continuar a dispor da faculdade de manter ou introduzir outros direitos conexos, especialmente no que se refere à protecção de publicações científicas ou críticas, que, para garantir a transparência a nível comunitário, é contudo necessário que os Estados-membros que introduzam novos direitos conexos desse facto notifiquem a Comissão;\n\n21. Considerando a necessidade de especificar que a harmonização é objecto da presente directiva não se aplica aos direitos morais;\n\n22. Considerando que, quanto às obras cujo país de origem, na acepção da Convenção de Berna, é um país terceiro e cujo autor não é nacional um Estado-membro da Comunidade, deve aplicar-se uma comparabilidade dos prazos de protecção, desde que o prazo concedido na Comunidade não possa ser mais longo que o previsto na presente directiva;\n\n23. Considerando que quando o titular de um direito de autor, que não seja nacional de um Estado-membro da Comunidade, beneficie de protecção por força de um acordo internacional, o prazo de protecção dos direitos conexos deve ser o mesmo que o previsto na presente directiva, sem que possa ultrapassar o prazo fixado no país de que o titular é nacional;\n\n24. Considerando que a aplicação das disposições em matéria de comparabilidade dos prazos de protecção não pode ter por efeito a criação de situações de conflito dos Estados-membros com as suas obrigações internacionais;\n\n25. Considerando que, para o bom funcionamento do mercado interno, é conveniente que a presente directiva seja aplicada a partir de 1 de Julho de 1995;\n\n26. Considerando que os Estados-membros devem ter a faculdade de adoptar disposições relativas à interpretação, adaptação e posterior execução de contratos sobre a exploração de obras protegidas e outras produções abrangidas desde que celebrados antes da dilação do prazo de protecção resultante da presente directiva;\n\n27. Considerando que o respeito pelos direitos adquiridos e pelas expectativas legítimas faz parte do sistema jurídico comunitário; que os Estados-membros devem poder prever nomeadamente que, em certas circunstâncias, os direitos de autor e direitos conexos que forem restabelecidos em aplicação da presente directiva não impliquem pagamentos por parte de pessoas que tenham explorado de boa fé obras que nessa época eram do domínio público,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d495dbff703ad35e": {
+   "fragment_id": "Artigo 1º — Duração dos direitos de autor",
+   "type": "artigo",
+   "heading": "Artigo 1º — Duração dos direitos de autor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Duração dos direitos de autor\n\n1. O prazo de protecção dos direitos de autor sobre obras literárias e artísticas, na acepção do artigo 2º da Convenção de Berna, decorre durante a vida do autor e setenta anos após a sua morte, independentemente do momento em que a obra tenha sido licitamente tornada acessível ao público.\n\n2. No caso de co-autoria de uma obra, o prazo previsto no nº 1 será calculado a partir da morte do último co-autor sobrevivente.\n\n3. No caso de obras anónimas ou sob pseudónimo, o prazo de protecção é de setenta anos após o momento em que a obra foi licitamente tornada acessível ao público. Todavia, quando o pseudónimo adoptado pelo autor não deixar dúvidas sobre a sua identidade durante o período de tempo artás referido ou se o autor revelar a sua identidade durante o período a que se refere a primeira frase do presente número, aplica-se o prazo de protecção previsto no nº 1.\n\n4. Sempre que um Estado-membro adoptar disposições específicas em matéria de direitos de autor em relação a obras colectivas ou designar uma pessoa colectiva como titular de direitos de autor, o prazo de protecção deve ser calculado de acordo com o disposto no nº 3, excepto se as pessoas singulares que tiverem criado a obra como tal estiverem identificadas nas versões da obra tornadas acessíveis ao público. O presente número não prejudica os direitos dos autores identificados cujas contribuições identificáveis estejam incluídas nessas obras, às quais são aplicáveis as disposições dos nºs 1 e 2.\n\n5. Relativamente às obras publicadas em volumes, partes, fascículos, números ou episódios, cujo prazo de protecção decorre a partir do momento em que a obra foi licitamente tornada acessível ao público, o prazo de protecção decorre relativamente a cada elemento considerado individualmente.\n\n6. A protecção cessa relativamente às obras cujo prazo de protecção não seja calculado a partir da morte do autor ou autores e que não tenham sido licitamente tornadas acessíveis ao público no prazo de setenta anos a contar da sua criação."
+  },
+  "678fda5239b6c59b": {
+   "fragment_id": "Artigo 2º — Obras cinematográficas ou audiovisuais",
+   "type": "artigo",
+   "heading": "Artigo 2º — Obras cinematográficas ou audiovisuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Obras cinematográficas ou audiovisuais\n\n1. O realizador principal de uma obra cinematográfica ou audiovisual será considerado autor ou co-autor. Os Estados-membros terão a faculdade de designar outros co-autores.\n\n2. O prazo de protecção de uma obra cinematográfica ou audiovisual expira setenta anos após a morte do último dos seguintes sobreviventes, quer sejam ou não considerados co-autores: o realizador principal, o autor do argumento cinematográfico, o autor do diálogo e o compositor de música especificamente criada para utilização em obras cinematográficas ou audiovisuais."
+  },
+  "e1b546af38d78940": {
+   "fragment_id": "Artigo 3º — Prazo dos direitos conexos",
+   "type": "artigo",
+   "heading": "Artigo 3º — Prazo dos direitos conexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Prazo dos direitos conexos\n\n1. Os direitos dos artistas-intérpretes ou executantes caducam cinquenta anos após a data da representação ou da execução. Contudo, se a fixação desta tiver sido licitamente publicada ou comunicada ao público dentro deste período, os direitos caducam cinquenta anos após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.\n\n2. Os direitos dos produtores de fonogramas caducam cinquenta anos após a fixação. No entanto, se o fonograma for licitamente publicado ou comunicado ao público durante este período, os direitos caducam cinquenta anos após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.\n\n3. Os direitos dos produtores da primeira fixação de um filme caducam cinquenta anos após a fixação. Contudo, se o filme for licitamente publicado ou comunicado ao público durante este período, os direitos caducam cinquenta anos após a data da primeira publicação ou comunicação ao público, consoante a que tiver ocorrido em primeiro lugar. O termo «filme» designa uma obra cinematográfica ou audiovisual ou imagens em movimento, acompanhadas ou não de som.\n\n4. Os direitos dos organismos de radiodifusão caducam cinquenta anos após a primeira difusão, quer a emissão seja efectuada com ou sem fio, incluindo cabo ou satélite."
+  },
+  "d625d75e5f6a4374": {
+   "fragment_id": "Artigo 4º — Protecção de obras anteriores não publicadas",
+   "type": "artigo",
+   "heading": "Artigo 4º — Protecção de obras anteriores não publicadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Protecção de obras anteriores não publicadas\n\nQualquer pessoa que, depois de expirar a prazo de protecção dos direitos de autor, licitamente publicar ou comunicar ao público uma obra anterior não publicada, beneficiará da protecção equivalente aos direitos patrimoniais do autor. O prazo de protecção desses direitos é de vinte e cinco anos a contar da data em que a obra tenha sido pela primeira vez licitamente publicada ou comunicada ao público."
+  },
+  "1857945fc42fd107": {
+   "fragment_id": "Artigo 5º — Publicações críticas e científicas",
+   "type": "artigo",
+   "heading": "Artigo 5º — Publicações críticas e científicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Publicações críticas e científicas\n\nOs Estados-membros podem proteger as publicações críticas e científicas de obras caídas no domínio público. O prazo máximo de protecção destes direitos é de trinta anos a contar da primeira publicação lícita."
+  },
+  "b5a4d188ea06554a": {
+   "fragment_id": "Artigo 6º — Protecção das fotografias",
+   "type": "artigo",
+   "heading": "Artigo 6º — Protecção das fotografias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Protecção das fotografias\n\nAs fotografias originais, na acepção de que são a criação intelectual do próprio autor, são protegidas nos termos do artigo nº 1. Não se aplica qualquer outro critério para determinar se podem beneficiar de protecção. Os Estados-membros podem prever a protecção de outras fotografias."
+  },
+  "2dd2d417a8067b05": {
+   "fragment_id": "Artigo 7º — Protecção relativamente a países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 7º — Protecção relativamente a países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Protecção relativamente a países terceiros\n\n1. Relativamente às obras cujo país de origem, na acepção da Convenção de Berna, seja um país terceiro e cujo autor não seja nacional de um Estado-membro da Comunidade, a protecção concedida nos Estados-membros termina, o mais tardar, na data do termo do prazo de protecção concedido no país de origem da obra, não podendo ultrapassar o prazo previsto no artigo 1º\n\n2. Os prazos de protecção previstos no artigo 3º aplicam-se igualmente aos titulares que não sejam nacionais de Estados-membros da Comunidade, desde que lhes seja concedida protecção pelos Estados-membros. No entanto, sem prejuízo das obrigações internacionais dos Estados-membros, o prazo de protecção concedido por estes termina, o mais tardar, na data do termo do prazo de protecção concedido no país de que o titular é nacional e não pode exceder o prazo previsto no artigo 3º\n\n3. Os Estados-membros que, à data de adopção da presente directiva, nomeadamente em cumprimento das suas obrigações internacionais, concedem um prazo de protecção mais longo que o resultante das disposições constantes dos nºs 1 e 2, podem manter esta protecção até à celebração de acordos internacionais em matéria de prazos de protecção dos direitos de autor ou dos direitos conexos."
+  },
+  "cb93e8583abeee8c": {
+   "fragment_id": "Artigo 8º — Cálculo dos prazos",
+   "type": "artigo",
+   "heading": "Artigo 8º — Cálculo dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Cálculo dos prazos\n\nOs prazos previstos na presente directiva são calculados a partir do primeiro dia do ano subsequente ao respectivo facto gerador."
+  },
+  "64fffa13e11517b5": {
+   "fragment_id": "Artigo 9º — Direitos morais",
+   "type": "artigo",
+   "heading": "Artigo 9º — Direitos morais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Direitos morais\n\nA presente directiva não prejudica as disposições dos Estados-membros em matéria de direitos morais."
+  },
+  "8ee5f107e17024f6": {
+   "fragment_id": "Artigo 10º — Aplicação no tempo",
+   "type": "artigo",
+   "heading": "Artigo 10º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Aplicação no tempo\n\n1. Quando num determinado Estado-membro, à data referida no nº 1 do artigo 13º, já esteja a decorrer um prazo de protecção mais longo que o previsto na presente directiva, esta não terá por efeito reduzir o prazo de protecção naquele Estado-membro.\n\n2. Os prazos de protecção previstos na presente directiva aplicam-se a todas as obras e outras produções protegidas pela legislação de pelo menos um Estado-membro, na data a que se refere o nº 1 do artigo 13º ao abrigo das disposições aplicáveis em matéria de direitos de autor ou de direitos conexos, ou que correspondam aos critérios de protecção previstos na Directiva 92/100/CEE.\n\n3. A presente directiva não prejudica os actos de exploração realizados antes da data prevista no nº 1 do artigo 13º Os Estados-membros adoptarão as disposições necessárias para proteger em especial os direitos adquiridos te terceiros.\n\n4. Os Estados-membros dispõem da faculdade de não aplicar as disposições do nº 1 do artigo 2º às obras cinematográficas ou audovisuais criadas antes de 1 de Julho de 1994.\n\n5. Os Estados-membros poderão determinar a data a partir da qual se deverá aplicar o nº 1 do artigo 2º, desde que essa data não seja posterior a 1 de Julho de 1997."
+  },
+  "94f9c1b1b36b486c": {
+   "fragment_id": "Artigo 11º — Adaptações técnicas",
+   "type": "artigo",
+   "heading": "Artigo 11º — Adaptações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Adaptações técnicas\n\n1. É revogado o artigo 8º da Directiva 91/250/CEE.\n\n2. São revogados os artigos 11º e 12º da Directiva 92/100/CEE."
+  },
+  "7e6fb436d8cf6be4": {
+   "fragment_id": "Artigo 12º — Processo de notificação",
+   "type": "artigo",
+   "heading": "Artigo 12º — Processo de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Processo de notificação\n\nOs Estados-membros comunicarão imediatamente à Comissão qualquer projecto governamental de concessão de novos direitos conexos, que incluirá os principais motivos que justificam a sua introdução, bem como o prazo protecção previsto."
+  },
+  "25826e44483fa320": {
+   "fragment_id": "Artigo 13º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 13º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Disposições gerais\n\n1. Os Estados-membres porão em vigor até 1 de Julho de 1995, o mais tardar, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento ao disposto nos artigos 1º a 11º da presente directiva.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou serem acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domíno regido pela presente directiva.\n\n2. Os Estados-membros aplicarão o disposto no artigo 12º a partir da data de notificação da presente directiva aos Estados-membros."
+  },
+  "abc8596b3e5a975d": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Outubro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nR. URBAIN\n\n(1) JO nº C 92 de 11. 4. 1992, p. 6 e\n\nJO nº C 27 de 30. 1. 1993, p. 7.\n\n(2) JO nº C 337 de 21. 12. 1992, p. 205 e decisão de 25 de Outubro de 1993 (ainda não publicada no Jornal Oficial).\n\n(3) JO nº C 287 de 4. 11. 1992, p. 53.\n\n(4) JO nº L 122 de 17. 5. 1991, p. 42.\n\n(5) JO nº L 346 de 27. 11. 1992, p. 61."
+  },
+  "685d3a1c9e7224f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0098 — PT — 16.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0098) [DIRECTIVA 93/98/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0098) [de 29 de Outubro de 1993](http://publications.europa.eu/resource/celex/31993L0098) [relativa à harmonização do prazo de protecção dos direitos de autor e de certos direitos conexos](http://publications.europa.eu/resource/celex/31993L0098) (JO L 290, 24.11.1993, p.9)\n\n**revogado por:**\n\n- [Directiva 2006/116/CE do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0116) — L 372 — 12 — 27.12.2006"
+  }
+ }
+}

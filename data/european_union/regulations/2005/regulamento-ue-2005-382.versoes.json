@@ -1,0 +1,1218 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R0382:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0382-20090323",
+ "dre_path": null,
+ "source_lastmod": "2009-03-23",
+ "versions": [
+  {
+   "date": "2006-03-19",
+   "future": false,
+   "celex": "02005R0382-20060319",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cd5f1ecef16dc58f",
+    "f6c2eb219fe1b284",
+    "5d66c65d42d19ab4",
+    "9ef97bdfc8b01ac8",
+    "d964c518bba516cc",
+    "dcb369848a523ffb",
+    "ee0517383f62e3fb",
+    "8a6992ea3c104fd1",
+    "02abfd2acff3bd4e",
+    "80895d9521d6a590",
+    "daed0b13f3dbd44c",
+    "724b0de603c52a19",
+    "f56ffe7bbc48929b",
+    "a7e3148f3435822c",
+    "f03f55f7f41101b4",
+    "613d475c3993202a",
+    "034d97d2cdd5d63a",
+    "648049de739434af",
+    "a3b195c08c38f795",
+    "b7b5dde5c1f39c40",
+    "f0b83639a4c23ad1",
+    "bb8d8faf6429ed3d",
+    "455ae546c106690e",
+    "0e4623512c1a743a",
+    "6cc3b57c1b453c93",
+    "07f04d4a302420f0",
+    "913f20afc28affce",
+    "fb96e2cd3e2a5327",
+    "cd4ca8da948f30c9",
+    "dbdf553db2c75883",
+    "d84ff3591cc7b20b",
+    "ba538fa7b6eb44e8",
+    "b65dc917c9ced8b9",
+    "6944a5f7942f960c",
+    "0f2dae944dc15a26",
+    "1b519ef9c0cf3dcc",
+    "25f0076428167d51",
+    "afa4e5a38ed822e1",
+    "4fb9fa49488f060a",
+    "47858455157b62ca",
+    "50eb75daaa901c95",
+    "35acf8ab8459c0e9",
+    "f0e4f38de52944ec",
+    "3c86a15ddc0878af",
+    "e17a2adcfbbdd4cc",
+    "090a07f9aa0a8fa4",
+    "e46a1e1fd45dee44",
+    "03bcc3b3547973bf",
+    "906b320adabe224c",
+    "fee7c0f6661bbf52",
+    "57dc862067f3014c",
+    "ce63901812a9f9d8",
+    "14f38467b790764a",
+    "540b95097b047d7c",
+    "170448104865cc82",
+    "5209e285416053af",
+    "0499f2bed7b32cbe",
+    "720af75c92791b10",
+    "4fb6ed271ea97446",
+    "020bc8bb172a7743",
+    "1a910e150ccb019b"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02005R0382-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1913:por",
+     "title": "REGULAMENTO (CE) N. o 1913/2006 DA COMISSÃO de 20 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R1913"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+    "Altera Artigo 35.º — Período transitório facultativo",
+    "Altera ANEXO I",
+    "Altera Notas",
+    "Suprime Artigo 22.º — Taxa de câmbio"
+   ],
+   "fragments": [
+    "77f25d05bbac3067",
+    "f6c2eb219fe1b284",
+    "5d66c65d42d19ab4",
+    "9ef97bdfc8b01ac8",
+    "45a75d8ac0197363",
+    "dcb369848a523ffb",
+    "ee0517383f62e3fb",
+    "8a6992ea3c104fd1",
+    "02abfd2acff3bd4e",
+    "80895d9521d6a590",
+    "daed0b13f3dbd44c",
+    "724b0de603c52a19",
+    "f56ffe7bbc48929b",
+    "a7e3148f3435822c",
+    "460fac07632177e8",
+    "613d475c3993202a",
+    "034d97d2cdd5d63a",
+    "648049de739434af",
+    "a3b195c08c38f795",
+    "b7b5dde5c1f39c40",
+    "f0b83639a4c23ad1",
+    "bb8d8faf6429ed3d",
+    "455ae546c106690e",
+    "0e4623512c1a743a",
+    "6cc3b57c1b453c93",
+    "07f04d4a302420f0",
+    "913f20afc28affce",
+    "fb96e2cd3e2a5327",
+    "cd4ca8da948f30c9",
+    "dbdf553db2c75883",
+    "ba538fa7b6eb44e8",
+    "b65dc917c9ced8b9",
+    "6944a5f7942f960c",
+    "0f2dae944dc15a26",
+    "1b519ef9c0cf3dcc",
+    "25f0076428167d51",
+    "afa4e5a38ed822e1",
+    "4fb9fa49488f060a",
+    "47858455157b62ca",
+    "50eb75daaa901c95",
+    "35acf8ab8459c0e9",
+    "f0e4f38de52944ec",
+    "3c86a15ddc0878af",
+    "e17a2adcfbbdd4cc",
+    "090a07f9aa0a8fa4",
+    "e46a1e1fd45dee44",
+    "03bcc3b3547973bf",
+    "906b320adabe224c",
+    "fee7c0f6661bbf52",
+    "57dc862067f3014c",
+    "ce63901812a9f9d8",
+    "9e7f8d301a0db429",
+    "540b95097b047d7c",
+    "170448104865cc82",
+    "efba717f37906161",
+    "0499f2bed7b32cbe",
+    "720af75c92791b10",
+    "4fb6ed271ea97446",
+    "020bc8bb172a7743",
+    "ffcf111793a70b6b"
+   ]
+  },
+  {
+   "date": "2007-02-11",
+   "future": false,
+   "celex": "02005R0382-20070211",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0116:por",
+     "title": "REGULAMENTO (CE) N. o 116/2007 DA COMISSÃO de 7 de Fevereiro de 2007",
+     "published": null,
+     "celex": "32007R0116"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+    "Altera Artigo 34.º-A — Existências em 31 de Março de 2006",
+    "Altera Artigo 35.º — Período transitório facultativo",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "233d870ecb713e64",
+    "f6c2eb219fe1b284",
+    "5d66c65d42d19ab4",
+    "9ef97bdfc8b01ac8",
+    "295a5f0c1ca22440",
+    "dcb369848a523ffb",
+    "ee0517383f62e3fb",
+    "8a6992ea3c104fd1",
+    "02abfd2acff3bd4e",
+    "80895d9521d6a590",
+    "daed0b13f3dbd44c",
+    "724b0de603c52a19",
+    "f56ffe7bbc48929b",
+    "a7e3148f3435822c",
+    "bb914f81c86da49a",
+    "613d475c3993202a",
+    "034d97d2cdd5d63a",
+    "648049de739434af",
+    "a3b195c08c38f795",
+    "b7b5dde5c1f39c40",
+    "f0b83639a4c23ad1",
+    "bb8d8faf6429ed3d",
+    "455ae546c106690e",
+    "0e4623512c1a743a",
+    "6cc3b57c1b453c93",
+    "07f04d4a302420f0",
+    "913f20afc28affce",
+    "fb96e2cd3e2a5327",
+    "cd4ca8da948f30c9",
+    "dbdf553db2c75883",
+    "ba538fa7b6eb44e8",
+    "b65dc917c9ced8b9",
+    "6944a5f7942f960c",
+    "0f2dae944dc15a26",
+    "1b519ef9c0cf3dcc",
+    "25f0076428167d51",
+    "afa4e5a38ed822e1",
+    "4fb9fa49488f060a",
+    "47858455157b62ca",
+    "50eb75daaa901c95",
+    "35acf8ab8459c0e9",
+    "f0e4f38de52944ec",
+    "3c86a15ddc0878af",
+    "e17a2adcfbbdd4cc",
+    "090a07f9aa0a8fa4",
+    "e46a1e1fd45dee44",
+    "03bcc3b3547973bf",
+    "906b320adabe224c",
+    "fee7c0f6661bbf52",
+    "57dc862067f3014c",
+    "77dff33bae14f3bb",
+    "6383d0f8f971b787",
+    "540b95097b047d7c",
+    "170448104865cc82",
+    "2a4d89f4b112cd03",
+    "0499f2bed7b32cbe",
+    "720af75c92791b10",
+    "4fb6ed271ea97446",
+    "020bc8bb172a7743",
+    "49af12d184e95d7e"
+   ]
+  },
+  {
+   "date": "2008-04-01",
+   "future": false,
+   "celex": "02005R0382-20080401",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1388:por",
+     "title": "REGULAMENTO (CE) N. o 1388/2007 DA COMISSÃO de 27 de Novembro de 2007",
+     "published": null,
+     "celex": "32007R1388"
+    },
+    {
+     "id": "eu:celex:32008R0232:por",
+     "title": "REGULAMENTO (CE) N. o 232/2008 DA COMISSÃO de 14 de Março de 2008",
+     "published": null,
+     "celex": "32008R0232"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Produtos elegíveis para a ajuda",
+    "Altera Artigo 5.º — Aprovação das empresas de transformação",
+    "Altera Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar",
+    "Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+    "Altera Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar",
+    "Altera Artigo 12.º — Contabilidade das existências das empresas de transformação",
+    "Altera Artigo 14.º — Contratos",
+    "Altera Artigo 26.º — Controlos in loco das empresas de transformação",
+    "Altera Artigo 28.º — Relatórios dos controlos",
+    "Altera Artigo 33.º — Comunicações dos Estados-Membros à Comissão",
+    "Altera Artigo 35.º — Período transitório facultativo",
+    "Altera ANEXO I",
+    "Altera Notas",
+    "Adita Artigo 22.º-A — Sistemas de inspecção",
+    "Suprime Artigo 8.º — Obrigações relativas ao fabrico das forragens"
+   ],
+   "fragments": [
+    "818c04ce845ee60e",
+    "f6c2eb219fe1b284",
+    "5d66c65d42d19ab4",
+    "9ef97bdfc8b01ac8",
+    "40f861113f53b9e3",
+    "a32c04708023c928",
+    "ee0517383f62e3fb",
+    "8a6992ea3c104fd1",
+    "02abfd2acff3bd4e",
+    "4df29221b9ff6309",
+    "65154bb11f8c5b37",
+    "724b0de603c52a19",
+    "a7e3148f3435822c",
+    "66ade6f7f2a77876",
+    "82788a9fa38490bc",
+    "d6be22534f067667",
+    "648049de739434af",
+    "a3b195c08c38f795",
+    "b7b5dde5c1f39c40",
+    "359802ba04291cf9",
+    "bb8d8faf6429ed3d",
+    "455ae546c106690e",
+    "0e4623512c1a743a",
+    "6cc3b57c1b453c93",
+    "07f04d4a302420f0",
+    "913f20afc28affce",
+    "fb96e2cd3e2a5327",
+    "cd4ca8da948f30c9",
+    "dbdf553db2c75883",
+    "ba538fa7b6eb44e8",
+    "b65dc917c9ced8b9",
+    "50d57826cec6cf97",
+    "6944a5f7942f960c",
+    "0f2dae944dc15a26",
+    "1b519ef9c0cf3dcc",
+    "7d1a0b1c8b67710f",
+    "afa4e5a38ed822e1",
+    "e79305fdacbf03d2",
+    "47858455157b62ca",
+    "50eb75daaa901c95",
+    "35acf8ab8459c0e9",
+    "f0e4f38de52944ec",
+    "3c86a15ddc0878af",
+    "e17a2adcfbbdd4cc",
+    "090a07f9aa0a8fa4",
+    "e46a1e1fd45dee44",
+    "164a7bd8394e427c",
+    "906b320adabe224c",
+    "fee7c0f6661bbf52",
+    "57dc862067f3014c",
+    "77dff33bae14f3bb",
+    "7fb1e79fe9259b23",
+    "540b95097b047d7c",
+    "170448104865cc82",
+    "a5c99a42c8d69128",
+    "0499f2bed7b32cbe",
+    "720af75c92791b10",
+    "4fb6ed271ea97446",
+    "020bc8bb172a7743",
+    "6092ef87d96de74c"
+   ]
+  },
+  {
+   "date": "2009-03-23",
+   "future": false,
+   "celex": "02005R0382-20090323",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0230:por",
+     "title": "REGULAMENTO (CE) N. o 230/2009 DA COMISSÃO de 19 de Março de 2009",
+     "published": null,
+     "celex": "32009R0230"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+    "Altera Artigo 12.º — Contabilidade das existências das empresas de transformação",
+    "Altera Artigo 18.º — Data de apresentação dos pedidos de ajuda",
+    "Altera Artigo 35.º — Período transitório facultativo",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "5f2e3e0eacafb4ef",
+    "f6c2eb219fe1b284",
+    "5d66c65d42d19ab4",
+    "9ef97bdfc8b01ac8",
+    "0b28a585dee96b74",
+    "a32c04708023c928",
+    "ee0517383f62e3fb",
+    "8a6992ea3c104fd1",
+    "02abfd2acff3bd4e",
+    "4df29221b9ff6309",
+    "65154bb11f8c5b37",
+    "724b0de603c52a19",
+    "a7e3148f3435822c",
+    "3e6c75374f257e7d",
+    "82788a9fa38490bc",
+    "b87cd0ca2f3a0429",
+    "648049de739434af",
+    "a3b195c08c38f795",
+    "b7b5dde5c1f39c40",
+    "359802ba04291cf9",
+    "bb8d8faf6429ed3d",
+    "455ae546c106690e",
+    "0e4623512c1a743a",
+    "6cc3b57c1b453c93",
+    "07f04d4a302420f0",
+    "c4a1d1f3b6c8cf30",
+    "fb96e2cd3e2a5327",
+    "cd4ca8da948f30c9",
+    "dbdf553db2c75883",
+    "ba538fa7b6eb44e8",
+    "b65dc917c9ced8b9",
+    "50d57826cec6cf97",
+    "6944a5f7942f960c",
+    "0f2dae944dc15a26",
+    "1b519ef9c0cf3dcc",
+    "7d1a0b1c8b67710f",
+    "afa4e5a38ed822e1",
+    "e79305fdacbf03d2",
+    "47858455157b62ca",
+    "50eb75daaa901c95",
+    "35acf8ab8459c0e9",
+    "f0e4f38de52944ec",
+    "3c86a15ddc0878af",
+    "e17a2adcfbbdd4cc",
+    "090a07f9aa0a8fa4",
+    "e46a1e1fd45dee44",
+    "164a7bd8394e427c",
+    "906b320adabe224c",
+    "fee7c0f6661bbf52",
+    "57dc862067f3014c",
+    "77dff33bae14f3bb",
+    "2f73617defe55f84",
+    "540b95097b047d7c",
+    "170448104865cc82",
+    "67622370e1584fd3",
+    "0499f2bed7b32cbe",
+    "720af75c92791b10",
+    "4fb6ed271ea97446",
+    "020bc8bb172a7743",
+    "d68d36717bc3fb73"
+   ]
+  }
+ ],
+ "fragments": {
+  "cd5f1ecef16dc58f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Março de 2005\n\nque estabelece normas de execução do Regulamento (CE) n.º 1786/2003 do Conselho sobre a organização comum do mercado das forragens secas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1786/2003 do Conselho, de 29 de Setembro de 2003, sobre a organização comum do mercado das forragens secas ([^1^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0001)), nomeadamente o artigo 20.º,\n\nTendo em conta o Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001, (CE) n.º 1454/2001, (CE) n.º 1868/94, (CE) n.º 1251/1999, (CE) n.º 1254/1999, (CE) n.º 1673/2000, (CEE) n.º 2358/71 e (CE) n.º 2529/2001 ([^2^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0002)), nomeadamente o n.º 2, segundo parágrafo, do artigo 71.º,\n\n(1) Dado que o Regulamento (CE) n.º 1786/2003 substitui o Regulamento (CE) n.º 603/95 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0003)), há que adoptar novas normas de execução. Por conseguinte, é conveniente revogar o Regulamento (CE) n.º 785/95 da Comissão, de 6 de Abril de 1995, que estabelece normas de execução do Regulamento (CE) n.º 603/95 do Conselho que institui a organização comum de mercado no sector das forragens secas ([^4^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0004)).\n\n(2) Por razões de clareza, convém estabelecer determinadas definições.\n\n(3) Atendendo aos requisitos estabelecidos no artigo 9.º do Regulamento (CE) n.º 1786/2003, é conveniente ter em conta a qualidade mínima dos produtos em causa, expressa em humidade e teor de proteínas. Face aos usos comerciais, é conveniente diferenciar a humidade em função de certos processos de fabrico.\n\n(4) É conveniente excluir do benefício das ajudas previstas no Regulamento (CE) n.º 1786/2003 as forragens provenientes de superfícies para as quais já seja concedida uma ajuda prevista no título IV do Regulamento (CE) n.º 1782/2003.\n\n(5) O Regulamento (CE) n.º 1786/2003 prevê, no artigo 13.º, que os Estados-Membros criem sistemas de inspecção que permitam verificar se cada empresa ou comprador de forragens para desidratar observou as condições estabelecidas no mesmo regulamento. Com vista a facilitar tal inspecção e assegurar a observância das condições que conferem o direito à ajuda, é conveniente prever que as empresas de transformação e os compradores de forragens para desidratar sejam objecto de um processo de aprovação. Com o mesmo objectivo, é conveniente determinar as indicações necessárias que devem constar dos pedidos de ajuda, da contabilidade das existências e das declarações de entrega das empresas de transformação. Por último, é necessário indicar os restantes documentos comprovativos a apresentar.\n\n(6) A observância dos requisitos de qualidade das forragens secas deve ser objecto de controlos rigorosos, baseados na regular colheita de amostras dos produtos acabados que saem da empresa. Em caso de mistura desses produtos com outras matérias, deve ser realizada uma colheita de amostras antes de se proceder à mistura.\n\n(7) A fim de verificar a correspondência entre as quantidades de matérias-primas entregues às empresas e as quantidades de forragens secas delas saídas, é necessário que as mesmas procedam à pesagem sistemática das forragens a transformar e determinem a respectiva humidade.\n\n(8) Para facilitar a comercialização das forragens a transformar e permitir às autoridades competentes a realização dos controlos necessários para verificar o direito à ajuda, é preciso que os contratos celebrados entre as empresas e os agricultores sejam estabelecidos antes da entrega das matérias-primas e apresentados às autoridades competentes antes de uma determinada data, que lhes permita ter conhecimento do volume de produção previsível. Para o efeito, é indispensável que os contratos sejam estabelecidos por escrito e mencionem, nomeadamente, a data de celebração, a campanha de comercialização em causa, os nomes e endereços das partes contratantes, a natureza dos produtos a transformar e a identificação da parcela agrícola em que as forragens a transformar tenham sido cultivadas.\n\n(9) Em certos casos, os contratos não são aplicáveis, devendo ser estabelecidas pelas empresas de transformação declarações de entrega, sujeitas às condições por que se regem os contratos.\n\n(10) Para assegurar a aplicação uniforme do regime de ajuda, é conveniente estatuir as regras de pagamento desta.\n\n(11) O Regulamento (CE) n.º 1786/2003 prevê uma série de controlos a efectuar em cada etapa do processo de produção, incluindo o recurso ao sistema integrado de gestão e de controlo previsto pelo Regulamento (CE) n.º 1782/2003. É, pois, oportuno relacionar os controlos relativos à identificação das parcelas agrícolas em causa com os controlos efectuados no âmbito desse sistema.\n\n(12) Tratando-se de um regime referido no anexo V do Regulamento (CE) n.º 1782/2003, e a fim de evitar qualquer concessão injustificada de ajuda, é conveniente que as autoridades competentes procedam a controlos cruzados das parcelas agrícolas mencionadas nos contratos e/ou declarações de entrega e das declaradas pelos produtores nos seus pedidos de ajuda únicos.\n\n(13) Para assegurar o cumprimento das condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento, nomeadamente no que se refere ao direito à ajuda, e a fim de reprimir os abusos, é conveniente prever certas reduções e exclusões da ajuda, tendo presentes o princípio da proporcionalidade e os problemas específicos resultantes de casos de força maior e de circunstâncias excepcionais. As reduções e exclusões devem ser ponderadas em função da gravidade da irregularidade cometida e podem atingir a exclusão total do benefício da ajuda durante um determinado período.\n\n(14) Para assegurar uma correcta gestão do mercado das forragens secas, é necessário que sejam regularmente transmitidas à Comissão determinadas informações.\n\n(15) A fim de preparar o relatório sobre o sector, previsto para 2008 em conformidade com o artigo 23.º do Regulamento (CE) n.º 1786/2003, convém prever comunicações sobre as superfícies forrageiras e o consumo de energia ligado à produção de forragens secas.\n\n(16) Em conformidade com o artigo 21.º do Regulamento (CE) n.º 1786/2003, é necessário adoptar uma medida transitória relativamente às existências em 31 de Março de 2005.\n\n(17) Em caso de aplicação do período transitório facultativo previsto no artigo 71.º do Regulamento (CE) n.º 1782/2003, devem ser estabelecidas as condições da ajuda referida no mesmo artigo.\n\n(18) O Regulamento (CE) n.º 1786/2003 é aplicável a partir de 1 de Abril de 2005, data do início da campanha de comercialização de 2005/2006. O presente regulamento deve, pois, ser aplicável a partir da mesma data.\n\n(19) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão conjunto dos cereais e dos pagamentos directos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "5d66c65d42d19ab4": {
+   "fragment_id": "OBJECTO, DEFINIÇÕES E CONDIÇÕES DE ELEGIBILIDADE PARA A AJUDA",
+   "type": "divisao",
+   "heading": "OBJECTO, DEFINIÇÕES E CONDIÇÕES DE ELEGIBILIDADE PARA A AJUDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO, DEFINIÇÕES E CONDIÇÕES DE ELEGIBILIDADE PARA A AJUDA"
+  },
+  "9ef97bdfc8b01ac8": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as normas de execução do Regulamento (CE) n.º 1786/2003 sobre a organização comum do mercado das forragens secas."
+  },
+  "d964c518bba516cc": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Forragens secas», os produtos referidos no artigo 1.º do Regulamento (CE) n.º 1786/2003, distinguindo as seguintes categorias:\n\na) «Forragens desidratadas»: os produtos que tenham sido submetidos a uma secagem artificial ao calor, referidos na alínea a), primeiro e terceiro parágrafos, do mesmo artigo, entre os quais os «produtos forrageiros semelhantes», a saber, todos os produtos forrageiros herbáceos que tenham sido submetidos a uma secagem artificial ao calor abrangidos pelo código NC 1214 90 90, nomeadamente:\n\n— as leguminosas herbáceas,\n\n— as gramíneas herbáceas,\n\n— os cereais colhidos verdes, com a planta inteira e os grãos imaturos, referidos no anexo IX, ponto I, do Regulamento (CE) n.º 1782/2003;\n\nb) «Forragens secas ao sol»: os produtos referidos na alínea a), segundo e quarto parágrafos, do artigo 1.º do Regulamento (CE) n.º 1786/2003 secos por processos que não o calor artificial e moídos;\n\nc) «Concentrados de proteínas»: os produtos referidos na alínea b), primeiro parágrafo, do artigo 1.º do Regulamento (CE) n.º 1786/2003;\n\nd) «Produtos desidratados»: os produtos referidos na alínea b), segundo parágrafo, do artigo 1.º do Regulamento (CE) n.º 1786/2003.\n\n2. «Empresa de transformação», a empresa de transformação de forragens secas referida no artigo 7.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que efectue uma das seguintes operações:\n\na) Desidratação de forragens frescas, utilizando um secador que satisfaça as condições seguintes:\n\n— temperatura do ar à entrada não inferior a 250 ºC; no entanto, os secadores de bandas com uma temperatura do ar à entrada não inferior a 110 ºC que tenham beneficiado de uma aprovação antes do início da campanha de comercialização de 1999/2000 não são obrigados a respeitar esta condição,\n\n— duração de passagem das forragens a desidratar não superior a três horas,\n\n— em caso de secagem por camadas de forragens, espessura de cada camada não superior a 1 metro;\n\nb) A moagem das forragens secas ao sol;\n\nc) O fabrico de concentrados de proteínas.\n\n3. «Comprador de forragens para secar e/ou triturar», a pessoa singular ou colectiva referida na alínea c), subalínea iii), do artigo 10.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que compre aos produtores forragens frescas para as entregar às empresas de transformação.\n\n4. «Lote», uma quantidade determinada de forragens de qualidade uniforme quanto à sua composição, humidade e teor de proteínas, saída de uma só vez da empresa de transformação.\n\n5. «Mistura», um produto destinado ao consumo animal que contenha forragens secas, que tenham sido secas e/ou trituradas pela empresa de transformação, e suplementos.\n\n6. «Parcelas agrícolas», as parcelas identificadas em conformidade com o sistema de identificação das parcelas agrícolas do sistema integrado de gestão e de controlo, referido nos artigos 18.º e 20.º do Regulamento (CE) n.º 1782/2003 e no artigo 6.º do Regulamento (CE) n.º 796/2004 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0005)).\n\n7. «Pedido de ajuda único», o pedido de ajuda referido no artigo 22.º do Regulamento (CE) n.º 1782/2003 e nos artigos 12.º e 14.º do Regulamento (CE) n.º 796/2004.\n\n8. «Destinatário final de um lote de forragens secas», a última pessoa a receber esse lote na forma que possuía à saída da empresa de transformação, a fim de transformar a forragem seca ou de a utilizar na alimentação animal."
+  },
+  "dcb369848a523ffb": {
+   "fragment_id": "Artigo 3.º — Produtos elegíveis para a ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos elegíveis para a ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos elegíveis para a ajuda\n\nPara efeitos do presente regulamento, são elegíveis para o benefício da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1783/2003 as forragens secas que satisfaçam as exigências de colocação no mercado com destino à alimentação animal e que:\n\na) Saiam, no seu estado inalterado ou em mistura, do recinto da empresa de transformação ou, no caso de não poderem ser armazenadas nesse recinto, de qualquer local de armazenagem exterior que ofereça garantias suficientes para efeitos do controlo das forragens armazenadas e tenha sido previamente aprovado pela autoridade competente;\n\nb) Apresentem, no momento da sua saída da empresa de transformação, as seguintes características:\n\ni) Humidade máxima:\n\n— 12 %, para as forragens secas ao sol, forragens desidratadas que tenham sido sujeitas a moagem, concentrados de proteínas e produtos desidratados,\n\n— 14 %, para as outras forragens desidratadas;\n\nii) Teor mínimo de proteínas brutas totais em relação ao extracto seco:\n\n— 15 %, para as forragens desidratadas, forragens secas ao sol e produtos desidratados,\n\n— 45 %, para os concentrados de proteínas.\n\nO direito à ajuda fica limitado às quantidades de produtos obtidos por secagem de forragens produzidas em parcelas utilizadas para fins agrícolas na acepção do artigo 51.º do Regulamento (CE) n.º 1782/2003."
+  },
+  "ee0517383f62e3fb": {
+   "fragment_id": "Artigo 4.º — Exclusão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusão\n\nSão excluídas do benefício da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 as forragens provenientes de superfícies que beneficiem de um regime de ajuda previsto no título IV do Regulamento (CE) n.º 1782/2003.\n\nNo entanto, no caso das superfícies que beneficiem da ajuda às sementes referida no capítulo 9 do título IV do Regulamento (CE) n.º 1782/2003, a exclusão do benefício da ajuda à transformação em forragens secas limitar-se-á às plantas forrageiras cujas sementes tenham sido colhidas.\n\nPor outro lado, as superfícies que beneficiem de um pagamento por superfície para as culturas arvenses referido no capítulo 10 do título IV do Regulamento (CE) n.º 1782/2003 podem beneficiar da ajuda à transformação em forragens secas, desde que tenham sido inteiramente semeadas com culturas arvenses de acordo com as condições locais."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "02abfd2acff3bd4e": {
+   "fragment_id": "EMPRESAS DE TRANSFORMAÇÃO E COMPRADORES DE FORRAGENS PARA SECAR E/OU TRITURAR",
+   "type": "divisao",
+   "heading": "EMPRESAS DE TRANSFORMAÇÃO E COMPRADORES DE FORRAGENS PARA SECAR E/OU TRITURAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EMPRESAS DE TRANSFORMAÇÃO E COMPRADORES DE FORRAGENS PARA SECAR E/OU TRITURAR"
+  },
+  "80895d9521d6a590": {
+   "fragment_id": "Artigo 5.º — Aprovação das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Aprovação das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aprovação das empresas de transformação\n\nPara efeitos da aprovação referida no ponto 2 do artigo 2.º, a empresa de transformação:\n\na) Apresentará à autoridade competente um processo que contenha:\n\ni) uma descrição do seu recinto, que indique, nomeadamente, os locais utilizados para a entrada dos produtos a transformar e os destinados à saída das forragens secas, os locais de armazenagem dos produtos utilizados para a transformação e dos produtos acabados e a localização das instalações de transformação,\n\nii) uma descrição das instalações técnicas, nomeadamente dos fornos de desidratação e das instalações de trituração, com indicação da capacidade de evaporação horária e da temperatura de funcionamento, e das instalações de pesagem, destinadas às operações previstas no ponto 2 do artigo 2.º,\n\niii) a lista dos suplementos incorporados antes ou durante o processo de desidratação, bem como a lista indicativa dos outros produtos utilizados no fabrico e dos produtos acabados,\n\niv) os modelos dos registos da contabilidade das existências referida no artigo 12.º;\n\nb) Colocará à disposição da autoridade competente a sua contabilidade das existências e financeira actualizada;\n\nc) Facilitará as operações de controlo;\n\nd) Respeitará as condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento.\n\nEm caso de alteração de um ou mais elementos do processo referido no primeiro parágrafo da alínea a), a empresa de transformação informará do facto a autoridade competente no prazo de dez dias, a fim de obter a confirmação da aprovação."
+  },
+  "daed0b13f3dbd44c": {
+   "fragment_id": "Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar\n\nPara efeitos da aprovação referida no ponto 3 do artigo 2.º, o comprador de forragens para secar e/ou triturar:\n\na) Manterá um registo dos produtos em causa, do qual constem pelo menos as compras e vendas diárias por produto, com, para cada lote, menção da sua quantidade, da referência ao contrato celebrado com o produtor que entregou o produto e, se for caso disso, da empresa de transformação destinatária;\n\nb) Colocará à disposição da autoridade competente a sua contabilidade das existências e financeira actualizada;\n\nc) Facilitará as operações de controlo;\n\nd) Respeitará as condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento."
+  },
+  "724b0de603c52a19": {
+   "fragment_id": "Artigo 7.º — Atribuição e retirada das aprovações",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atribuição e retirada das aprovações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuição e retirada das aprovações\n\nAs aprovações referidas nos pontos 2 e 3 do artigo 2.º são solicitadas pelos interessados antes do início da campanha de comercialização.\n\nAs aprovações são concedidas pela autoridade competente de cada Estado-Membro antes do início da campanha de comercialização. Em casos excepcionais, pode ser concedida pela autoridade competente uma aprovação provisória por um período não superior a dois meses a partir do início da campanha em causa. Nesses casos, a empresa é considerada aprovada até à concessão da aprovação definitiva pela autoridade competente.\n\nSem prejuízo do artigo 30.º, quando uma ou várias das condições previstas nos artigos 5.º e 6.º deixarem de estar satisfeitas, a autoridade competente retirará a aprovação, a não ser que a empresa de transformação ou o comprador de forragens para secar e/ou triturar adopte as medidas necessárias para satisfazer de novo essas condições num prazo a fixar em função da gravidade do problema."
+  },
+  "f56ffe7bbc48929b": {
+   "fragment_id": "Artigo 8.º — Obrigações relativas ao fabrico das forragens",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Obrigações relativas ao fabrico das forragens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações relativas ao fabrico das forragens\n\nNo caso de uma empresa de transformação proceder ao fabrico, por um lado, de forragens desidratadas e/ou de concentrados de proteínas e, por outro, de forragens secas ao sol:\n\na) O fabrico das forragens desidratadas deve ser efectuado em locais ou lugares distintos daqueles onde se procede ao fabrico das forragens secas ao sol;\n\nb) Os produtos obtidos a partir dos dois processos de fabrico devem ser armazenados em locais distintos;\n\nc) É proibido misturar na empresa produtos de grupos diferentes."
+  },
+  "a7e3148f3435822c": {
+   "fragment_id": "Artigo 9.º — Obrigações relativas à introdução e à saída de produtos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Obrigações relativas à introdução e à saída de produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações relativas à introdução e à saída de produtos\n\nAntes de introduzir no seu recinto produtos que não sejam forragens para secar e/ou triturar, com vista ao fabrico de misturas, a empresa de transformação informará desse facto a autoridade competente do Estado-Membro em causa, especificando a natureza e as quantidades dos produtos introduzidos.\n\nSe a introdução disser respeito a forragens que tenham sido secas e/ou trituradas por outra empresa de transformação, a empresa indicará, além disso, à autoridade competente a sua origem e a sua utilização posterior. Neste caso, a introdução só pode ser efectuada sob o controlo da autoridade competente e nas condições por esta fixadas.\n\nAs forragens secas saídas de uma empresa de transformação só podem ser reintroduzidas no recinto da mesma com vista a uma nova operação de embalagem, sob o controlo da autoridade competente e nas condições por esta fixadas.\n\nOs produtos introduzidos ou reintroduzidos no recinto da empresa de transformação, em conformidade com o presente artigo, não podem ser armazenados com as forragens secas e/ou trituradas pela empresa em causa. Além disso, serão incluídos na contabilidade da empresa, em conformidade com o n.º 1 do artigo 12.º"
+  },
+  "f03f55f7f41101b4": {
+   "fragment_id": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas\n\n1. A colheita de amostras e a pesagem das forragens secas, previstas no n.º 2 do artigo 13.º do Regulamento (CE) n.º 1786/2003, serão efectuadas pela empresa de transformação aquando da saída das forragens secas da empresa.\n\nNo entanto, sempre que as forragens secas sejam misturadas na empresa de transformação, a colheita de amostras e a pesagem serão realizadas antes das operações de mistura.\n\nNo caso de a mistura ser efectuada antes ou durante a secagem, será colhida uma amostra após a secagem; essa amostra será acompanhada de uma nota que indique tratar-se de uma mistura e que especifique a natureza do suplemento, a sua denominação, o seu teor de matéria azotada total em relação ao extracto seco e a taxa de incorporação no produto acabado.\n\n2. A autoridade competente pode exigir que cada empresa de transformação lhe comunique, com pelo menos dois dias úteis de antecedência, cada saída ou mistura de forragens secas, especificando as respectivas datas e quantidades, de forma a permitir-lhe efectuar qualquer controlo necessário.\n\nA autoridade competente procederá regularmente, no decurso de cada campanha, a colheitas de amostras e a pesagens em relação a, pelo menos, 5 % em peso das forragens secas saídas da empresa e a, pelo menos, 5 % em peso das forragens secas misturadas.\n\n3. A determinação da humidade e do teor de proteínas brutas totais, prevista no artigo 3.º, será efectuada através da colheita de amostras por quantidades de 110 toneladas, no máximo, em cada lote de forragens secas saídas da empresa de transformação ou nela misturadas, segundo o método definido pelas Directivas 76/371/CEE ([^6^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0006)), 71/393/CEE ([^7^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0007)) e 72/199/CEE ([^8^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0008)) da Comissão.\n\nEm caso de saída ou de mistura de vários lotes de qualidade uniforme no que respeita à composição em espécies, à humidade e ao teor de proteínas, cujo peso total seja inferior ou igual a 110 toneladas, será colhida uma amostra em cada lote. No entanto, a análise far-se-á com base numa mistura representativa dessas amostras."
+  },
+  "613d475c3993202a": {
+   "fragment_id": "Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar\n\n1. As empresas de transformação determinarão, por pesagem sistemática, as quantidades exactas de forragens para desidratar e, se for caso disso, de forragens secas ao sol, que lhes forem entregues para transformação.\n\n2. A obrigação de pesagem sistemática não é aplicável se a produção da empresa em causa não exceder 1 000 toneladas por campanha e se essa empresa apresentar provas consideradas suficientes pela autoridade competente do Estado-Membro de que não tem possibilidade de utilizar um sistema de pesagem público situado num raio de 5 km. Neste caso, as quantidades entregues podem ser determinadas mediante aplicação de qualquer outro método aprovado previamente pela referida autoridade competente.\n\n3. A humidade média das quantidades de forragens para desidratar será medida pela empresa de transformação por comparação das quantidades utilizadas com as quantidades de forragens secas obtidas.\n\n4. Antes do final do primeiro mês de cada trimestre, as empresas de transformação comunicarão à autoridade competente a humidade média referida no n.º 3, verificada durante o trimestre anterior nas forragens para desidratar que tenham transformado."
+  },
+  "034d97d2cdd5d63a": {
+   "fragment_id": "Artigo 12.º — Contabilidade das existências das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Contabilidade das existências das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contabilidade das existências das empresas de transformação\n\n1. A contabilidade das existências das empresas de transformação, prevista na alínea a) do artigo 10.º do Regulamento (CE) n.º 1786/2003, é estabelecida em conjunção com a contabilidade financeira e deve permitir um acompanhamento diário:\n\na) Das quantidades de produtos que entram para ser desidratados e/ou triturados, indicando, relativamente a cada recepção:\n\n— a data de entrada,\n\n— a quantidade,\n\n— a ou as espécies referidas no artigo 1.º do Regulamento (CE) n.º 1786/2003, no caso das forragens destinadas a desidratação e, se for caso disso, secas ao sol,\n\n— a humidade verificada nas forragens para desidratar,\n\n— as referências do contrato e/ou da declaração de entrega previstos nos artigos 14.º ou 15.º do presente regulamento;\n\nb) Das quantidades produzidas e das quantidades de todos os suplementos que possam ter sido utilizados no fabrico;\n\nc) Das quantidades saídas, indicando, para cada lote, a data de saída, a humidade e o teor de proteínas verificados;\n\nd) Das quantidades de forragens secas para as quais uma empresa de transformação já tenha beneficiado de ajuda e que sejam introduzidas ou reintroduzidas no recinto da empresa;\n\ne) Das existências de forragens secas no final de cada campanha;\n\nf) Dos produtos utilizados para mistura ou suplemento às forragens secas e/ou trituradas pela empresa, especificando a sua natureza, denominação, teor de matéria azotada em relação ao extracto seco e taxa de incorporação no produto acabado.\n\n2. As empresas de transformação manterão uma contabilidade das existências separada para as forragens desidratadas, as forragens secas ao sol, os concentrados de proteínas e os produtos desidratados.\n\n3. Uma empresa que desidrate ou trate igualmente produtos que não as forragens secas manterá uma contabilidade de existências separada para as suas outras actividades de desidratação ou tratamento."
+  },
+  "648049de739434af": {
+   "fragment_id": "Artigo 13.º — Documentos comprovativos da contabilidade das existências",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Documentos comprovativos da contabilidade das existências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Documentos comprovativos da contabilidade das existências\n\n1. As empresas de transformação porão à disposição da autoridade competente, a pedido desta, nomeadamente os seguintes documentos comprovativos:\n\na) Os elementos que permitam determinar a capacidade de produção da empresa;\n\nb) A indicação das existências de combustível na empresa no início e no final da produção;\n\nc) As facturas de compra de combustível e os registos de consumo de electricidade no decurso do período de produção;\n\nd) A indicação das horas de funcionamento dos secadores e, em relação às forragens secas ao sol, dos trituradores;\n\ne) Um balanço completo do consumo de energia, em conformidade com o anexo I;\n\nf) Os contratos e/ou declarações de entrega.\n\n2. As empresas de transformação que vendam o seu produto porão à disposição da autoridade competente, além dos documentos referidos no n.º 1, as facturas de compra das forragens para secar e/ou para triturar, bem como as facturas de venda das forragens secas, as quais indicarão, nomeadamente, a quantidade e composição do produto vendido, bem como o nome e endereço do comprador.\n\nAs empresas que transformem a produção dos seus membros e lhes entreguem as forragens secas porão à disposição da autoridade competente, além dos documentos referidos no n.º 1, as notas de saída ou quaisquer outros documentos contabilísticos, aprovados pela autoridade competente, as quais indicarão, nomeadamente, a quantidade e composição do produto entregue, bem como os nomes dos recipiendários.\n\nAs empresas que produzam forragens secas por conta do agricultor e lhe entreguem essa produção porão à disposição da autoridade competente, além dos documentos referidos no n.º 1, as facturas dos custos de produção, as quais indicarão, nomeadamente, a quantidade e composição das forragens secas produzidas, bem como o nome do agricultor."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "b7b5dde5c1f39c40": {
+   "fragment_id": "CONTRATOS E DECLARAÇÕES DE ENTREGA",
+   "type": "divisao",
+   "heading": "CONTRATOS E DECLARAÇÕES DE ENTREGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTRATOS E DECLARAÇÕES DE ENTREGA"
+  },
+  "f0b83639a4c23ad1": {
+   "fragment_id": "Artigo 14.º — Contratos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos\n\n1. Além das indicações previstas no artigo 12.º do Regulamento (CE) n.º 1786/2003, de cada contrato referido nas subalíneas i) e iii) da alínea c) do artigo 10.º do mesmo regulamento constarão, nomeadamente:\n\na) Os apelidos, nomes próprios e endereços das partes contratantes;\n\nb) A data da sua celebração;\n\nc) A campanha de comercialização em causa;\n\nd) A ou as espécies de forragens para transformar e a sua quantidade previsível;\n\ne) A identificação da ou das parcelas agrícolas em que são cultivadas as forragens para transformar, com referência ao pedido de ajuda único em que tenham sido declaradas essas parcelas, em conformidade com o n.º 1 do artigo 14.º do Regulamento (CE) n.º 796/2004 e, no caso de ser celebrado um contrato ou realizada uma declaração de entrega antes da data de apresentação do pedido de ajuda único, o compromisso de declarar as referidas parcelas nesse pedido.\n\n2. Sempre que uma empresa de transformação executar um contrato de empreitada referido no n.º 2 do artigo 12.º do Regulamento (CE) n.º 1786/2003, celebrado com um produtor agrícola independente ou um ou vários dos seus próprios membros, esse contrato indicará igualmente:\n\na) O produto acabado a entregar;\n\nb) Os custos a pagar pelo produtor."
+  },
+  "bb8d8faf6429ed3d": {
+   "fragment_id": "Artigo 15.º — Declarações de entrega",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Declarações de entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Declarações de entrega\n\n1. No caso de uma empresa que transforme a sua própria produção ou de um agrupamento que transforme a produção dos seus membros, será estabelecida uma declaração de entrega de que constarão, pelo menos:\n\na) A data de entrega ou, se for caso disso, uma data indicativa, se a entrega ocorrer após a data de apresentação da declaração de entrega à autoridade competente;\n\nb) As quantidades de forragens recebidas ou a receber;\n\nc) A ou as espécies de forragens a transformar;\n\nd) Se for caso disso, o nome e endereço do membro do agrupamento que procede à entrega;\n\ne) A identificação da ou das parcelas agrícolas em que são cultivadas as forragens para transformar, com referência ao pedido de ajuda único em que tenham sido declaradas essas parcelas, em conformidade com o n.º 1 do artigo 14.º do Regulamento (CE) n.º 796/2004 e, no caso de ser celebrado um contrato ou realizada uma declaração de entrega antes da data de apresentação do pedido de ajuda único, o compromisso de declarar as referidas parcelas nesse pedido.\n\n2. No caso de uma empresa que tenha sido abastecida por um comprador aprovado, será estabelecida uma declaração de entrega de que constarão, pelo menos:\n\na) A identificação do comprador aprovado;\n\nb) A data de entrega ou, se for caso disso, uma data indicativa, se a entrega ocorrer após a data de apresentação da declaração à autoridade competente;\n\nc) As quantidades de forragem recebidas ou a receber, discriminadas segundo os contratos celebrados entre os compradores e os produtores, com menção das referências desses mesmos contratos;\n\nd) A ou as espécies de forragens para transformar;\n\ne) A identificação da ou das parcelas agrícolas em que são cultivadas as forragens para transformar, com referência ao pedido de ajuda único em que tenham sido declaradas essas parcelas, em conformidade com o n.º 1 do artigo 14.º do Regulamento (CE) n.º 796/2004 e, no caso de ser celebrado um contrato ou realizada uma declaração de entrega antes da data de apresentação do pedido de ajuda único, o compromisso de declarar as referidas parcelas nesse pedido."
+  },
+  "455ae546c106690e": {
+   "fragment_id": "Artigo 16.º — Data do contrato ou da declaração",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Data do contrato ou da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Data do contrato ou da declaração\n\nOs contratos e as declarações de entrega previstos nos artigos 14.º e 15.º serão estabelecidos por escrito pelo menos dois dias úteis antes da data de entrega.\n\nNo entanto, os Estados-Membros podem prever para esse efeito um período de dois a oito dias úteis antes da data de entrega."
+  },
+  "0e4623512c1a743a": {
+   "fragment_id": "Artigo 17.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comunicações\n\nAs empresas de transformação e os compradores de forragens para secar e/ou triturar transmitirão à autoridade competente, até ao dia 15 de cada mês, uma lista recapitulativa dos contratos celebrados no mês anterior e das declarações de entrega estabelecidas no mês anterior.\n\nA lista incluirá, nomeadamente:\n\na) A identidade do co-contratante da empresa de transformação ou do comprador aprovado, ou do declarante no caso de uma empresa que transforme a sua própria produção ou de um agrupamento que transforme a produção dos seus membros;\n\nb) A data do contrato ou da declaração de entrega;\n\nc) As referências de identificação das parcelas agrícolas;\n\nd) As referências do pedido de ajuda único em causa.\n\nA autoridade competente pode solicitar que a lista lhe seja transmitida por via electrónica."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "07f04d4a302420f0": {
+   "fragment_id": "PEDIDOS DE AJUDA E PAGAMENTO DA AJUDA",
+   "type": "divisao",
+   "heading": "PEDIDOS DE AJUDA E PAGAMENTO DA AJUDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PEDIDOS DE AJUDA E PAGAMENTO DA AJUDA"
+  },
+  "913f20afc28affce": {
+   "fragment_id": "Artigo 18.º — Data de apresentação dos pedidos de ajuda",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Data de apresentação dos pedidos de ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Data de apresentação dos pedidos de ajuda\n\n1. Para beneficiar da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, a empresa de transformação apresentará um pedido de ajuda relativo às saídas da mesma empresa verificadas durante um determinado mês, o mais tardar 45 dias após o final desse mês.\n\n2. Salvo em caso de força maior ou circunstâncias excepcionais:\n\na) A apresentação de um pedido após o termo do prazo referido no n.º 1 implicará uma redução de 1 % por dia útil dos montantes a que a empresa teria direito se o pedido tivesse sido apresentado atempadamente;\n\nb) Se o atraso for superior a 25 dias, o pedido não é admissível.\n\n3. Nenhum pedido de ajuda a título de uma campanha pode ser apresentado após o dia 15 de Abril seguinte ao termo da mesma, salvo em caso de força maior ou circunstâncias excepcionais."
+  },
+  "fb96e2cd3e2a5327": {
+   "fragment_id": "Artigo 19.º — Conteúdo dos pedidos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Conteúdo dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conteúdo dos pedidos\n\n1. Do pedido de ajuda constarão pelo menos:\n\na) O apelido, o nome próprio, o endereço e a assinatura do requerente;\n\nb) As quantidades relativamente às quais é solicitada a ajuda, discriminadas por lote;\n\nc) A data em que cada lote saiu do recinto da empresa;\n\nd) A indicação de que foram colhidas amostras em cada lote, em conformidade com o n.º 3 do artigo 10.º, aquando da saída da empresa de transformação ou aquando da mistura na referida empresa das forragens secas produzidas, bem como todas as informações necessárias para a identificação dessas amostras;\n\ne) A indicação, por lote, de todos os suplementos eventuais, especificando a sua natureza, denominação, teor de matéria azotada em relação ao extracto seco e taxa de incorporação no produto acabado;\n\nf) No caso de mistura, a indicação, por lote, do teor de proteínas brutas totais das forragens, secas pela empresa, contidas na mistura, após dedução do teor de matéria azotada total correspondente aos suplementos.\n\n2. A ajuda a conceder a uma empresa de transformação apenas diz respeito às forragens secas e/ou trituradas nessa empresa, após dedução do peso de todos os suplementos."
+  },
+  "cd4ca8da948f30c9": {
+   "fragment_id": "Artigo 20.º — Adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Adiantamentos\n\n1. Para poder beneficiar de um pedido em conformidade com o n.º 1 do artigo 7.º do Regulamento (CE) n.º 1786/2003, o requerente fará acompanhar o pedido de ajuda de uma declaração que certifique a constituição da caução prevista no mesmo número.\n\n2. Os Estados-Membros tomarão todas as medidas necessárias para verificar o direito à ajuda no prazo de 90 dias a contar da data de apresentação do pedido."
+  },
+  "dbdf553db2c75883": {
+   "fragment_id": "Artigo 21.º — Montante final da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Montante final da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Montante final da ajuda\n\n1. A Comissão fixará, de acordo com o procedimento previsto no n.º 2 do artigo 18.º do Regulamento (CE) n.º 1786/2003, o montante final da ajuda referido no n.º 2 do artigo 4.º do mesmo regulamento. Esse montante será calculado com base nas comunicações efectuadas pelos Estados-Membros, em conformidade com o n.º 1, segundo parágrafo, do artigo 33.º do presente regulamento.\n\n2. No caso de, na sequência de verificações posteriores, um ou vários Estados-Membros efectuarem uma segunda comunicação, devidamente motivada, em conformidade com o n.º 1, segundo parágrafo, do artigo 33.º, que corrija a primeira no sentido da alta, esta segunda comunicação só pode ser tomada em consideração se o montante final da ajuda, calculado com base na primeira comunicação, não for afectado. As quantidades de forragens secas não tomadas em consideração por esse motivo serão, nesse caso, afectadas à campanha seguinte.\n\n3. O saldo previsto no n.º 3 do artigo 7.º do Regulamento (CE) n.º 1786/2003 será pago, se for caso disso, no prazo de 60 dias a contar da data em que a Comissão publique no *Jornal Oficial da União Europeia* o montante final da ajuda para a campanha de comercialização em causa."
+  },
+  "d84ff3591cc7b20b": {
+   "fragment_id": "Artigo 22.º — Taxa de câmbio",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Taxa de câmbio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Taxa de câmbio\n\nO facto gerador da taxa de câmbio aplicável à ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 é o primeiro dia do mês em que, para um dado lote, ocorre a saída das forragens secas do recinto da empresa de transformação aprovada."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "b65dc917c9ced8b9": {
+   "fragment_id": "CONTROLOS",
+   "type": "divisao",
+   "heading": "CONTROLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLOS"
+  },
+  "6944a5f7942f960c": {
+   "fragment_id": "Artigo 23.º — Princípios gerais dos controlos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Princípios gerais dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Princípios gerais dos controlos\n\n1. Os controlos administrativos e *in loco* previstos pelo presente regulamento serão efectuados de forma a assegurar a verificação eficaz do cumprimento dos requisitos de concessão da ajuda.\n\n2. Se a empresa de transformação impedir a realização de um controlo *in loco*, os pedidos de ajuda em causa serão rejeitados."
+  },
+  "0f2dae944dc15a26": {
+   "fragment_id": "Artigo 24.º — Controlos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Controlos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Controlos administrativos\n\n1. Os controlos administrativos têm por objectivo permitir a detecção de irregularidades, nomeadamente através de controlos cruzados.\n\nAs autoridades competentes procederão a controlos cruzados das parcelas agrícolas declaradas no pedido de ajuda único, nos contratos e/ou nas declarações de entrega e das parcelas de referência constantes do sistema de identificação das parcelas agrícolas, para verificar que as superfícies em si são elegíveis a título da ajuda e evitar qualquer concessão injustificada de ajuda.\n\n2. A comunicação de irregularidades detectadas pelos controlos cruzados será seguida dos procedimentos administrativos adequados e, se for caso disso, de um controlo *in loco*."
+  },
+  "1b519ef9c0cf3dcc": {
+   "fragment_id": "Artigo 25.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Controlos in loco\n\n1. Os controlos *in loco* serão efectuados sem aviso prévio. Contudo, desde que o objectivo do controlo não fique comprometido, pode efectuar-se a sua notificação prévia com a antecedência estritamente necessária. Excepto em casos devidamente justificados, essa antecedência não pode exceder 48 horas.\n\n2. Se for o caso, os controlos *in loco* previstos pelo presente regulamento e quaisquer outros controlos previstos na regulamentação comunitária serão realizados simultaneamente.\n\n3. Se os controlos *in loco* revelarem a existência de irregularidades significativas numa região ou numa empresa de transformação, as autoridades competentes aumentarão em conformidade o número, a frequência e o alcance dos controlos *in loco* das empresas em causa durante o ano em curso e no ano seguinte.\n\n4. Os Estados-Membros estabelecerão os critérios de selecção da amostra de controlo. Se os controlos realizados relativamente a essa amostra revelarem a existência de irregularidades, a dimensão e o âmbito da amostra serão alargados em conformidade."
+  },
+  "25f0076428167d51": {
+   "fragment_id": "Artigo 26.º — Controlos in loco das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Controlos in loco das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Controlos in loco das empresas de transformação\n\n1. As autoridades competentes procederão à verificação, pelo menos uma vez por campanha, da contabilidade das existências referida no artigo 12.º de todas as empresas de transformação, especialmente, da relação entre a contabilidade das existências e a contabilidade financeira.\n\n2. As autoridades competentes verificarão, por amostragem, os documentos comprovativos da contabilidade das existências das empresas de transformação.\n\nNo entanto, no que diz respeito às novas empresas aprovadas, a verificação incidirá na totalidade dos pedidos apresentados durante o seu primeiro ano de actividade."
+  },
+  "afa4e5a38ed822e1": {
+   "fragment_id": "Artigo 27.º — Controlos in loco dos outros intervenientes",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Controlos in loco dos outros intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Controlos in loco dos outros intervenientes\n\n1. As autoridades competentes procederão regularmente a controlos suplementares dos fornecedores da matéria-prima e dos operadores a que tenham sido entregues as forragens secas.\n\nEsses controlos incidirão em:\n\na) 5 %, no mínimo, dos lotes que tenham sido objecto de um pedido de ajuda, para verificar a rastreabilidade até ao destinatário final;\n\nb) 5 %, no mínimo, dos contratos e das declarações de entrega, para verificar a parcela de proveniência dos produtos fornecidos às empresas de transformação.\n\n2. Os intervenientes a submeter a controlos *in loco* serão seleccionados pela autoridade competente com base numa análise de risco que terá em conta:\n\na) O montante das ajudas;\n\nb) A evolução das ajudas relativamente ao ano anterior;\n\nc) Os resultados dos controlos realizados nos anos anteriores;\n\nd) Outros parâmetros a definir pelos Estados-Membros.\n\nA autoridade competente procederá anualmente a uma avaliação da eficácia dos parâmetros da análise de risco utilizados nos anos anteriores.\n\n3. A autoridade competente conservará sistematicamente registos das razões da selecção de cada agricultor para um controlo *in loco*. O inspector que realize um controlo *in loco* será informado dessas razões antes do início do controlo."
+  },
+  "4fb9fa49488f060a": {
+   "fragment_id": "Artigo 28.º — Relatórios dos controlos",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Relatórios dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Relatórios dos controlos\n\n1. Cada controlo *in loco* deve ser objecto de um relatório que permita passar em revista os pormenores dos controlos realizados.\n\n2. A pessoa que é objecto do controlo terá a possibilidade de assinar o relatório e de acrescentar observações. Essa pessoa receberá cópia do relatório do controlo."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "50eb75daaa901c95": {
+   "fragment_id": "REDUÇÕES E EXCLUSÕES",
+   "type": "divisao",
+   "heading": "REDUÇÕES E EXCLUSÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REDUÇÕES E EXCLUSÕES"
+  },
+  "35acf8ab8459c0e9": {
+   "fragment_id": "Artigo 29.º — Reduções e exclusões aplicáveis nos casos de sobredeclaração por parte das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Reduções e exclusões aplicáveis nos casos de sobredeclaração por parte das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reduções e exclusões aplicáveis nos casos de sobredeclaração por parte das empresas de transformação\n\nSe a quantidade de forragens secas indicada num ou em vários pedidos de ajuda for superior à quantidade elegível em conformidade com o artigo 3.º, serão aplicáveis as seguintes regras:\n\na) Sempre que a diferença verificada num pedido de ajuda não exceda 20 % das quantidades elegíveis, o montante da ajuda será calculado com base na quantidade elegível, reduzida do dobro da diferença verificada;\n\nb) Sempre que a diferença verificada num pedido de ajuda exceda 20 % das quantidades elegíveis, o pedido de ajuda será rejeitado;\n\nc) Sempre que a diferença verificada num pedido de ajuda não exceda 20 % das quantidades elegíveis, mas ocorra após uma primeira constatação similar durante a mesma campanha, o pedido de ajuda será rejeitado;\n\nd) Sempre que a diferença verificada num pedido de ajuda exceda 50 % das quantidades elegíveis ou seja de novo verificada uma diferença superior a 20 % e inferior a 50 % durante a mesma campanha de comercialização, não será concedida qualquer ajuda para a campanha em curso.\n\nO montante a recuperar será deduzido dos pagamentos a efectuar a título da ajuda a que a empresa tenha direito com base nos pedidos de ajuda que apresentar nas campanhas seguintes àquela em que a diferença seja verificada.\n\nSempre que se verificar que as irregularidades referidas no primeiro parágrafo foram cometidas deliberadamente pela empresa de transformação, o beneficiário será privado da ajuda durante a campanha em curso e na seguinte."
+  },
+  "f0e4f38de52944ec": {
+   "fragment_id": "Artigo 30.º — Reduções e exclusões aplicáveis no caso de inobservância de certas condições de aprovação pelas empresas de transformação e pelos compradores aprovados",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Reduções e exclusões aplicáveis no caso de inobservância de certas condições de aprovação pelas empresas de transformação e pelos compradores aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reduções e exclusões aplicáveis no caso de inobservância de certas condições de aprovação pelas empresas de transformação e pelos compradores aprovados\n\nSempre que se verificar que a contabilidade das existências não satisfaz as condições referidas no artigo 12.º ou que não pode ser estabelecida a relação entre a contabilidade das existências, a contabilidade financeira e os documentos comprovativos, será imposta à empresa de transformação, sem prejuízo das reduções e exclusões referidas no artigo 29.º, uma redução compreendida entre 10 % e 30 % do montante da ajuda solicitada para a campanha em curso, em função da gravidade das infracções verificadas.\n\nSe as mesmas irregularidades se produzirem de novo num período de dois anos após a primeira verificação, a aprovação da empresa de transformação será retirada pelas autoridades competentes por, no mínimo, uma campanha e, no máximo, três campanhas."
+  },
+  "3c86a15ddc0878af": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 7"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "090a07f9aa0a8fa4": {
+   "fragment_id": "Artigo 31.º — Força maior e circunstâncias excepcionais",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Força maior e circunstâncias excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Força maior e circunstâncias excepcionais\n\nOs casos de força maior ou as circunstâncias excepcionais, bem como as provas a eles relativas consideradas suficientes pela autoridade competente, devem ser comunicados, por escrito, à autoridade competente no prazo de dez dias úteis a contar da data em que o responsável da empresa de transformação o possa fazer."
+  },
+  "e46a1e1fd45dee44": {
+   "fragment_id": "Artigo 32.º — Medidas adicionais e assistência mútua entre Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Medidas adicionais e assistência mútua entre Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Medidas adicionais e assistência mútua entre Estados-Membros\n\n1. Os Estados-Membros adoptarão as medidas adicionais necessárias para a correcta aplicação da organização comum de mercado no sector das forragens secas e prestar-se-ão assistência mútua para efeitos da execução dos controlos previstos no presente regulamento. A este respeito, quando o presente regulamento não preveja as reduções e exclusões pertinentes, os Estados-Membros podem aplicar sanções nacionais adequadas contra empresas de transformação ou outros participantes na comercialização, tais como os agricultores ou os compradores envolvidos no processo de concessão de ajudas, a fim de assegurar o cumprimento das condições de concessão da ajuda.\n\n2. Os Estados-Membros prestar-se-ão assistência mútua para assegurar a eficácia dos controlos e permitir a verificação da autenticidade dos documentos apresentados e/ou a exactidão dos dados comunicados."
+  },
+  "03bcc3b3547973bf": {
+   "fragment_id": "Artigo 33.º — Comunicações dos Estados-Membros à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Comunicações dos Estados-Membros à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comunicações dos Estados-Membros à Comissão\n\n1. Os Estados-Membros comunicarão à Comissão, no início de cada trimestre, as quantidades de forragens secas para as quais tenham sido apresentados no decurso do trimestre anterior pedidos relativos à ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, repartidas pelos meses em que essas quantidades saíram da empresa de transformação.[**►M1**](http://publications.europa.eu/resource/celex/32006R0432) Estas comunicações não incluem as quantidades referidas nos artigos 34.º e 34.º-A do presente regulamento.**◄**\n\nO mais tardar em 31 de Maio de cada ano, os Estados-Membros comunicarão à Comissão as quantidades de forragens secas para as quais tenha sido reconhecido o direito à ajuda durante a campanha de comercialização anterior.[**►M1**](http://publications.europa.eu/resource/celex/32006R0432) No que diz respeito às campanhas de comercialização de 2005/2006 e de 2006/2007, estas quantidades não incluem as quantidades referidas nos artigos 34.º e 34.º-A. Os Estados-Membros devem comunicar igualmente à Comissão, até 31 de Maio de 2006, as quantidades de forragens secas existentes nas empresas de transformação em 31 de Março de 2006 e que, de acordo com o disposto no artigo 34.º-A, foram objecto de um pedido para beneficiar, na campanha de comercialização de 2006/2007, da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003.**◄**\n\nNa comunicação dos dados referidos no primeiro e segundo parágrafos, os mesmos serão discriminados de acordo com as categorias referidas no ponto 1 do artigo 2.º Esses dados serão utilizados pela Comissão para verificar o cumprimento da quantidade máxima garantida.\n\n2. Os Estados-Membros comunicarão à Comissão:\n\na) O mais tardar em 30 de Abril de cada ano, as quantidades estimadas de forragens secas presentes nas empresas de transformação em 31 de Março do mesmo ano;\n\nb) O mais tardar em 30 de Abril de 2005, as quantidades de forragens secas presentes nas empresas de transformação em 31 de Março de 2005 e abrangidas pelo disposto no artigo 34.º;\n\nc) O mais tardar em 31 de Maio de cada ano, o número de novas aprovações, de aprovações retiradas e de aprovações provisórias relativas à campanha de comercialização anterior;\n\nd) O mais tardar em 31 de Maio de cada ano, as estatísticas relativas aos controlos efectuados ao abrigo dos artigos 23.º a 28.º e as reduções e exclusões aplicadas ao abrigo dos artigos 29.º, 30.º e 31.º na campanha de comercialização anterior, em conformidade com o anexo III;\n\ne) O mais tardar em 31 de Maio de cada ano, um balanço do consumo de energia utilizada para a produção de forragens desidratadas, em conformidade com o anexo I, bem como a evolução das superfícies consagradas às leguminosas e outras forragens verdes, em conformidade com o anexo II, na campanha de comercialização anterior;\n\nf) No mês seguinte ao final de cada semestre, as humidades médias verificadas durante o semestre anterior nas forragens para desidratar e comunicadas pelas empresas de transformação, em conformidade com o n.º 4 do artigo 11.º;\n\ng) O mais tardar em 1 de Maio de 2005, as medidas adoptadas para a execução do Regulamento (CE) n.º 1786/2003 e do presente regulamento, especialmente as sanções nacionais previstas no artigo 30.º do presente regulamento."
+  },
+  "906b320adabe224c": {
+   "fragment_id": "CAPÍTULO 8",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 8"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "57dc862067f3014c": {
+   "fragment_id": "Artigo 34.º — Existências em 31 de Março de 2005",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Existências em 31 de Março de 2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Existências em 31 de Março de 2005\n\n1. As forragens secas produzidas durante a campanha de comercialização de 2004/2005 e que ainda não tenham saído da empresa de transformação ou de um dos locais de armazenagem referido no artigo 3.º, alínea a), do presente regulamento antes de 31 de Março de 2005 podem beneficiar da ajuda prevista no artigo 3.º do Regulamento (CE) n.º 603/95 na campanha de comercialização de 2005/2006, desde que:\n\na) Respeitem as condições estabelecidas no artigo 3.º do presente regulamento;\n\nb) Saiam da empresa de transformação sob o controlo da autoridade competente nas condições previstas nos artigos 10.º e 11.º do presente regulamento;\n\nc) Sejam contabilizadas no âmbito das quantidades nacionais garantidas concedidas aos Estados-Membros em causa para a campanha de comercialização de 2004/2005;\n\nd) Tenham sido declaradas e certificadas durante a campanha de comercialização de 2004/2005.\n\n2. As autoridades competentes dos Estados-Membros em causa adoptarão as medidas de controlo necessárias para garantir o cumprimento do disposto no n.º 1."
+  },
+  "ce63901812a9f9d8": {
+   "fragment_id": "Artigo 34.º-A — Existências em 31 de Março de 2006",
+   "type": "artigo",
+   "heading": "Artigo 34.º-A — Existências em 31 de Março de 2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º-A — Existências em 31 de Março de 2006\n\n1. As forragens secas produzidas durante a campanha de comercialização de 2005/2006 que não tenham saído da empresa de transformação ou de um dos locais de armazenagem referidos na alínea a) do artigo 3.º do presente regulamento até 31 de Março de 2006 podem beneficiar, na campanha de comercialização de 2006/2007, da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, a título da campanha de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, desde que:\n\na) Respeitem as condições estabelecidas no artigo 3.º do presente regulamento;\n\nb) Saiam da empresa de transformação sob o controlo da autoridade competente nas condições previstas nos artigos 10.º e 11.º do presente regulamento;\n\nc) Sejam contabilizadas no âmbito das quantidades nacionais garantidas concedidas aos Estados-Membros em causa para a campanha de comercialização de 2005/2006;\n\nd) Tenham sido declaradas e certificadas durante a campanha de comercialização de 2005/2006.\n\n2. As autoridades competentes dos Estados-Membros em causa adoptarão todas as medidas de controlo necessárias para garantir o cumprimento do disposto no n.º 1."
+  },
+  "14f38467b790764a": {
+   "fragment_id": "Artigo 35.º — Período transitório facultativo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Período transitório facultativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Período transitório facultativo\n\n1. Os Estados-Membros que apliquem um período transitório facultativo, de acordo com o artigo 71.º do Regulamento (CE) n.º 1782/2003 pagarão às empresas de transformação, para que estas a transfiram para os produtores, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, com base nas quantidades elegíveis a título da campanha de comercialização de 2005/2006.\n\nEsta ajuda é fixada com base nas quantidades potencialmente elegíveis, até ao limite máximo orçamental indicado no anexo IV do Regulamento (CE) n.º 118/2005 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0015)).\n\nPor quantidades potencialmente elegíveis, entende-se a soma das quantidades reconhecidas como elegíveis para a ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 durante a campanha de comercialização de 2005/2006 e das quantidades produzidas durante a campanha de comercialização de 2005/2006 que tenham sido objecto de um pedido para beneficiar da referida ajuda na campanha de comercialização de 2006/2007, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, em conformidade com o disposto no artigo 34.º-A. Estas quantidades potencialmente elegíveis não incluem as quantidades referidas no artigo 34.º\n\n2. No caso de a empresa de transformação ser abastecida com forragens provenientes de outro Estado-Membro, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, só será paga às empresas de transformação para que estas a transfiram para o produtor se este se encontrar num Estado-Membro que aplique o período transitório facultativo.\n\n3. A ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003 será fixada em conformidade com o procedimento referido no n.º 2 do artigo 18.º do Regulamento (CE) n.º 1786/2003.\n\nA ajuda será paga às empresas de transformação no prazo de trinta dias úteis a contar da data em que a Comissão publicar os respectivos montantes no *Jornal Oficial da União Europeia*. Para as quantidades reconhecidas como elegíveis para a ajuda após esta data de publicação, o pagamento será efectuado nos trinta dias úteis seguintes à data do reconhecimento da elegibilidade para ajuda.\n\nAs empresas de transformação transferirão a ajuda para os produtores no prazo de quinze dias úteis após o pagamento pelo Estado-Membro."
+  },
+  "540b95097b047d7c": {
+   "fragment_id": "Artigo 36.º — Disposição relativa à campanha de 2004/2005",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Disposição relativa à campanha de 2004/2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Disposição relativa à campanha de 2004/2005\n\nÉ revogado o Regulamento (CE) n.º 785/95.\n\nTodavia, as disposições desse regulamento aplicáveis à gestão do regime de ajuda em vigor durante a campanha de comercialização de 2004/2005 permanecem em vigor até ao apuramento final dos resultados dessa campanha."
+  },
+  "170448104865cc82": {
+   "fragment_id": "Artigo 37.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Abril de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "5209e285416053af": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | Objecto | Unidade | Quantidade |\n| --- | --- | --- | --- |\n| a | Produção de forragens desidratadas | Tonelada de forragens desidratadas |  |\n| b | Humidade média na entrada | % |  |\n| c | Humidade média na saída | % |  |\n| d | Temperatura média do ar à entrada dos secadores | Grau Celsius |  |\n| e | Consumo específico médio | Megajoule por quilograma de forragens desidratadas |  |\n| *Preencher por cada tipo de combustível utilizado* [(^1^)](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#E0011): Tipo de combustível: |  |  |  |\n| f | Poder calorífico específico médio | Megajoule por tonelada de combustível |  |\n| g | Quantidade utilizada | Tonelada de combustível |  |\n| h | Energia produzida | Megajoule |  |\n| (^1^)Gás, carvão, lignite, fuel-óleo, biomassa, etc. |  |  |  |"
+  },
+  "0499f2bed7b32cbe": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n|  | Códigos Cronos-Eurostat | Forragens verdes | Superfície (milhares de hectares) |\n| --- | --- | --- | --- |\n| a | 2611 + 2670 | a = b + c Forragens verdes cultivadas em terras aráveis, das quais: |  |\n| b | 2611 | b) Forragens anuais (milho forrageiro, outras) |  |\n| c | 2670 | c) Forragens plurianuais (trevo, luzerna, prados e pastagens temporários) |  |\n| d | 2672 | Das quais: luzerna |  |\n| e | 0002 | Superfície total dos prados e pastagens permanentes |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "4fb6ed271ea97446": {
+   "fragment_id": "A. Estatísticas dos controlos — População sujeita a controlos",
+   "type": "divisao",
+   "heading": "A. Estatísticas dos controlos — População sujeita a controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Estatísticas dos controlos — População sujeita a controlos\n\n| A. Aprovações das empresas de transformação |  |\n| --- | --- |\n| A.1. Número de empresas aprovadas para a campanha |  |\n| A.2. Número de novas aprovações |  |\n| A.3. Número de aprovações retiradas |  |\n| A.4. das quais, retiradas por menos de uma campanha |  |\n| A.5. das quais, retiradas por uma ou mais campanhas |  |\n| B. Aprovações dos compradores de forragens para secar e/ou triturar |  |\n| B.1. Número de compradores de forragens para secar e/ou triturar aprovados para a campanha |  |\n| B.2. Número de novas aprovações |  |\n| B.3. Número de aprovações retiradas |  |\n| B.4. das quais, retiradas por menos de uma campanha |  |\n| B.5. das quais, retiradas por uma ou mais campanhas |  |\n| C. Contratos |  |\n| C.1. Número de contratos |  |\n| C.2. Número de agricultores em causa |  |\n| C.3. Número de parcelas incluídas nos contratos |  |\n| C.4. Superfície (em hectares) abrangida pelos contratos |  |\n| D. Declarações de entrega |  |\n| D.1. Número de declarações de entrega |  |\n| D.2. Número de agricultores em causa |  |\n| D.3. Número de parcelas incluídas nas declarações de entrega |  |\n| D.4. Superfície (em hectares) abrangida pelas declarações de entrega |  |\n| E. Pedidos apresentados |  |\n| E.1. Número de pedidos apresentados |  |\n| E.2. Número de lotes em causa |  |\n| E.3. Quantidade transformada |  |\n| E.4. Quantidade saída (objecto dos pedidos de ajuda) |  |"
+  },
+  "020bc8bb172a7743": {
+   "fragment_id": "B. Estatísticas dos controlos — Número de controlos e resultados",
+   "type": "divisao",
+   "heading": "B. Estatísticas dos controlos — Número de controlos e resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Estatísticas dos controlos — Número de controlos e resultados\n\n| A. **Controlo das superfícies declaradas nos contratos e nos pedidos de ajuda únicos** | Número de agricultores | Número de contratos | Número de parcelas | Superfície | Quantidades declaradas não elegíveis | Sanções nacionais (artigo 32.º) |\n| --- | --- | --- | --- | --- | --- | --- |\n| A.1. Controlos administrativos: |  |  |  |  |  |  |\n| A.1.1. Casos de dupla declaração da mesma superfície, por um ou vários requerentes |  |  |  |  |  |  |\n| A.1.2. Casos de não correspondência entre o contrato (ou a declaração de entrega) e o pedido de ajuda único |  |  |  |  |  |  |\n| A.2. Controlos *in loco* das superfícies declaradas: |  |  |  |  |  |  |\n| A.2.1. Número de controlos *in loco* |  |  |  |  |  |  |\n| A.2.2. Casos sem anomalias |  |  |  |  |  |  |\n| A.2.3. Casos de sobredeclaração |  |  |  |  |  |  |\n| A.2.4. Casos de subdeclaração |  |  |  |  |  |  |\n| A.2.5. Tipo de cultura diferente da declarada |  |  |  |  |  |  |\n| A.2.6. Outras infracções |  |  |  |  |  |  |\n\n| B. **Controlos dos compradores de forragens para secar e/ou triturar** | Número de compradores | Número de contratos |\n| --- | --- | --- |\n| B.1. Número de controlos *in loco* |  |  |\n| B.2. Casos sem anomalias |  |  |\n| B.3. Casos de irregularidades na contabilidade das existências |  |  |\n| B.4. Outras infracções |  |  |\n\n| C. **Controlos das empresas de transformação** | Número de empresas | Número de pedidos | Número de lotes | Quantidade de forragens secas saídas | Quantidade de forragens secas misturadas |\n| --- | --- | --- | --- | --- | --- |\n| C.1. Controlos administrativos: |  |  |  |  |  |\n| C.1.1. Pedidos tardios: atraso até 25 dias |  |  |  |  |  |\n| C.1.2. Pedidos tardios: atraso superior a 25 dias |  |  |  |  |  |\n| C.1.3. Falta de notificação prévia da saída |  |  |  |  |  |\n| C.1.4. Inobservância dos critérios de humidade e/ou teor de proteínas |  |  |  |  |  |\n| C.1.5. Outras irregularidades detectadas |  |  |  |  |  |\n| C.2. Controlos *in loco* das empresas de transformação: |  |  |  |  |  |\n| C.2.1. Número de controlos *in loco* |  |  |  |  |  |\n| C.2.2. Número de amostras colhidas (n.º 2 do artigo 10.º) |  |  |  |  |  |\n| C.2.3. Falta de notificação prévia da saída |  |  |  |  |  |\n| C.2.4. Inobservância dos critérios de humidade e/ou teor de proteínas |  |  |  |  |  |\n| C.2.5. Irregularidades na pesagem |  |  |  |  |  |\n| C.2.6. Não correspondência entre a contabilidade das existências e a contabilidade financeira |  |  |  |  |  |\n| C.2.7. Outros casos de irregularidades na contabilidade das existências |  |  |  |  |  |\n| C.2.8. Outras irregularidades detectadas |  |  |  |  |  |\n| C.3. Sanções aplicadas (artigo 29.º): |  |  |  |  |  |\n| C.3.1. Diferença inferior ou igual a 20 % [alínea a) do artigo 29.º] |  |  |  |  |  |\n| C.3.2. Reincidência de diferença inferior ou igual a 20 % [alínea c) do artigo 29.º] |  |  |  |  |  |\n| C.3.3. Diferença superior a 20 % e inferior ou igual a 50 % [alínea b) do artigo 29.º] |  |  |  |  |  |\n| C.3.4. Reincidência de diferença superior a 20 % e inferior a 50 % [alínea d) do artigo 29.º] |  |  |  |  |  |\n| C.3.5. Diferença superior a 50 % [alínea d) do artigo 29.º] |  |  |  |  |  |\n| C.3.6. Irregularidade intencional (terceiro parágrafo do artigo 29.º) |  |  |  |  |  |\n| C.3.7. Sanções financeiras de 10 % a 30 % (artigo 30.º) |  |  |  |  |  |\n\n| D. **Controlo da rastreabilidade dos produtos (n.º 1 do artigo 27.º)** | Número de lotes | Quantidade de forragens secas saídas | Quantidade de forragens secas misturadas |\n| --- | --- | --- | --- |\n| D.1. Controlo da realidade das compras de forragens para secar e triturar (entrega e pagamento) |  |  |  |\n| D.2. Controlo da realidade (recepção e pagamento) das saídas de forragens secas para o primeiro intermediário («empresas de comercialização») |  |  |  |\n| D.3. Controlo da realidade (recepção e pagamento) das saídas de forragens secas para o destinatário final |  |  |  |\n\n---"
+  },
+  "1a910e150ccb019b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0001)) JO L 270 de 21.10.2003, p. 114. Regulamento alterado pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0002)) JO L 270 de 21.10.2003, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 118/2005 da Comissão (JO L 24 de 27.1.2005, p. 15).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0003)) JO L 63 de 21.3.1995, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0004)) JO L 79 de 7.4.1995, p. 5. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1413/2001 (JO L 191 de 13.7.2001, p. 8).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0005)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0006)) JO L 102 de 15.4.1976, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0007)) JO L 279 de 20.12.1971, p. 7.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0008)) JO L 123 de 29.5.1972, p. 6.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/70eb7f42-11d7-4a3e-8502-2900d0267411.0016.03/DOC_1#src.E0015)) JO L 24 de 27.1.2005, p. 15."
+  },
+  "77f25d05bbac3067": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Março de 2005\n\nque estabelece normas de execução do Regulamento (CE) n.º 1786/2003 do Conselho sobre a organização comum do mercado das forragens secas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1786/2003 do Conselho, de 29 de Setembro de 2003, sobre a organização comum do mercado das forragens secas ([^1^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0001)), nomeadamente o artigo 20.º,\n\nTendo em conta o Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001, (CE) n.º 1454/2001, (CE) n.º 1868/94, (CE) n.º 1251/1999, (CE) n.º 1254/1999, (CE) n.º 1673/2000, (CEE) n.º 2358/71 e (CE) n.º 2529/2001 ([^2^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0002)), nomeadamente o n.º 2, segundo parágrafo, do artigo 71.º,\n\n(1) Dado que o Regulamento (CE) n.º 1786/2003 substitui o Regulamento (CE) n.º 603/95 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0003)), há que adoptar novas normas de execução. Por conseguinte, é conveniente revogar o Regulamento (CE) n.º 785/95 da Comissão, de 6 de Abril de 1995, que estabelece normas de execução do Regulamento (CE) n.º 603/95 do Conselho que institui a organização comum de mercado no sector das forragens secas ([^4^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0004)).\n\n(2) Por razões de clareza, convém estabelecer determinadas definições.\n\n(3) Atendendo aos requisitos estabelecidos no artigo 9.º do Regulamento (CE) n.º 1786/2003, é conveniente ter em conta a qualidade mínima dos produtos em causa, expressa em humidade e teor de proteínas. Face aos usos comerciais, é conveniente diferenciar a humidade em função de certos processos de fabrico.\n\n(4) É conveniente excluir do benefício das ajudas previstas no Regulamento (CE) n.º 1786/2003 as forragens provenientes de superfícies para as quais já seja concedida uma ajuda prevista no título IV do Regulamento (CE) n.º 1782/2003.\n\n(5) O Regulamento (CE) n.º 1786/2003 prevê, no artigo 13.º, que os Estados-Membros criem sistemas de inspecção que permitam verificar se cada empresa ou comprador de forragens para desidratar observou as condições estabelecidas no mesmo regulamento. Com vista a facilitar tal inspecção e assegurar a observância das condições que conferem o direito à ajuda, é conveniente prever que as empresas de transformação e os compradores de forragens para desidratar sejam objecto de um processo de aprovação. Com o mesmo objectivo, é conveniente determinar as indicações necessárias que devem constar dos pedidos de ajuda, da contabilidade das existências e das declarações de entrega das empresas de transformação. Por último, é necessário indicar os restantes documentos comprovativos a apresentar.\n\n(6) A observância dos requisitos de qualidade das forragens secas deve ser objecto de controlos rigorosos, baseados na regular colheita de amostras dos produtos acabados que saem da empresa. Em caso de mistura desses produtos com outras matérias, deve ser realizada uma colheita de amostras antes de se proceder à mistura.\n\n(7) A fim de verificar a correspondência entre as quantidades de matérias-primas entregues às empresas e as quantidades de forragens secas delas saídas, é necessário que as mesmas procedam à pesagem sistemática das forragens a transformar e determinem a respectiva humidade.\n\n(8) Para facilitar a comercialização das forragens a transformar e permitir às autoridades competentes a realização dos controlos necessários para verificar o direito à ajuda, é preciso que os contratos celebrados entre as empresas e os agricultores sejam estabelecidos antes da entrega das matérias-primas e apresentados às autoridades competentes antes de uma determinada data, que lhes permita ter conhecimento do volume de produção previsível. Para o efeito, é indispensável que os contratos sejam estabelecidos por escrito e mencionem, nomeadamente, a data de celebração, a campanha de comercialização em causa, os nomes e endereços das partes contratantes, a natureza dos produtos a transformar e a identificação da parcela agrícola em que as forragens a transformar tenham sido cultivadas.\n\n(9) Em certos casos, os contratos não são aplicáveis, devendo ser estabelecidas pelas empresas de transformação declarações de entrega, sujeitas às condições por que se regem os contratos.\n\n(10) Para assegurar a aplicação uniforme do regime de ajuda, é conveniente estatuir as regras de pagamento desta.\n\n(11) O Regulamento (CE) n.º 1786/2003 prevê uma série de controlos a efectuar em cada etapa do processo de produção, incluindo o recurso ao sistema integrado de gestão e de controlo previsto pelo Regulamento (CE) n.º 1782/2003. É, pois, oportuno relacionar os controlos relativos à identificação das parcelas agrícolas em causa com os controlos efectuados no âmbito desse sistema.\n\n(12) Tratando-se de um regime referido no anexo V do Regulamento (CE) n.º 1782/2003, e a fim de evitar qualquer concessão injustificada de ajuda, é conveniente que as autoridades competentes procedam a controlos cruzados das parcelas agrícolas mencionadas nos contratos e/ou declarações de entrega e das declaradas pelos produtores nos seus pedidos de ajuda únicos.\n\n(13) Para assegurar o cumprimento das condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento, nomeadamente no que se refere ao direito à ajuda, e a fim de reprimir os abusos, é conveniente prever certas reduções e exclusões da ajuda, tendo presentes o princípio da proporcionalidade e os problemas específicos resultantes de casos de força maior e de circunstâncias excepcionais. As reduções e exclusões devem ser ponderadas em função da gravidade da irregularidade cometida e podem atingir a exclusão total do benefício da ajuda durante um determinado período.\n\n(14) Para assegurar uma correcta gestão do mercado das forragens secas, é necessário que sejam regularmente transmitidas à Comissão determinadas informações.\n\n(15) A fim de preparar o relatório sobre o sector, previsto para 2008 em conformidade com o artigo 23.º do Regulamento (CE) n.º 1786/2003, convém prever comunicações sobre as superfícies forrageiras e o consumo de energia ligado à produção de forragens secas.\n\n(16) Em conformidade com o artigo 21.º do Regulamento (CE) n.º 1786/2003, é necessário adoptar uma medida transitória relativamente às existências em 31 de Março de 2005.\n\n(17) Em caso de aplicação do período transitório facultativo previsto no artigo 71.º do Regulamento (CE) n.º 1782/2003, devem ser estabelecidas as condições da ajuda referida no mesmo artigo.\n\n(18) O Regulamento (CE) n.º 1786/2003 é aplicável a partir de 1 de Abril de 2005, data do início da campanha de comercialização de 2005/2006. O presente regulamento deve, pois, ser aplicável a partir da mesma data.\n\n(19) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão conjunto dos cereais e dos pagamentos directos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "45a75d8ac0197363": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Forragens secas», os produtos referidos no artigo 1.º do Regulamento (CE) n.º 1786/2003, distinguindo as seguintes categorias:\n\na) «Forragens desidratadas»: os produtos que tenham sido submetidos a uma secagem artificial ao calor, referidos na alínea a), primeiro e terceiro parágrafos, do mesmo artigo, entre os quais os «produtos forrageiros semelhantes», a saber, todos os produtos forrageiros herbáceos que tenham sido submetidos a uma secagem artificial ao calor abrangidos pelo código NC 1214 90 90, nomeadamente:\n\n— as leguminosas herbáceas,\n\n— as gramíneas herbáceas,\n\n— os cereais colhidos verdes, com a planta inteira e os grãos imaturos, referidos no anexo IX, ponto I, do Regulamento (CE) n.º 1782/2003;\n\nb) «Forragens secas ao sol»: os produtos referidos na alínea a), segundo e quarto parágrafos, do artigo 1.º do Regulamento (CE) n.º 1786/2003 secos por processos que não o calor artificial e moídos;\n\nc) «Concentrados de proteínas»: os produtos referidos na alínea b), primeiro parágrafo, do artigo 1.º do Regulamento (CE) n.º 1786/2003;\n\nd) «Produtos desidratados»: os produtos referidos na alínea b), segundo parágrafo, do artigo 1.º do Regulamento (CE) n.º 1786/2003.\n\n2. «Empresa de transformação», a empresa de transformação de forragens secas referida no artigo 7.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que efectue uma das seguintes operações:\n\na) Desidratação de forragens frescas, utilizando um secador que satisfaça as condições seguintes:\n\n— temperatura do ar à entrada não inferior a 250 ºC; no entanto, os secadores de bandas com uma temperatura do ar à entrada não inferior a 110 ºC que tenham beneficiado de uma aprovação antes do início da campanha de comercialização de 1999/2000 não são obrigados a respeitar esta condição,\n\n— duração de passagem das forragens a desidratar não superior a três horas,\n\n— em caso de secagem por camadas de forragens, espessura de cada camada não superior a 1 metro;\n\nb) A moagem das forragens secas ao sol;\n\nc) O fabrico de concentrados de proteínas.\n\n3. «Comprador de forragens para secar e/ou triturar», a pessoa singular ou colectiva referida na alínea c), subalínea iii), do artigo 10.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que compre aos produtores forragens frescas para as entregar às empresas de transformação.\n\n4. «Lote», uma quantidade determinada de forragens de qualidade uniforme quanto à sua composição, humidade e teor de proteínas, saída de uma só vez da empresa de transformação.\n\n5. «Mistura», um produto destinado ao consumo animal que contenha forragens secas, que tenham sido secas e/ou trituradas pela empresa de transformação, e suplementos.\n\n6. «Parcelas agrícolas», as parcelas identificadas em conformidade com o sistema de identificação das parcelas agrícolas do sistema integrado de gestão e de controlo, referido nos artigos 18.º e 20.º do Regulamento (CE) n.º 1782/2003 e no artigo 6.º do Regulamento (CE) n.º 796/2004 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0005)).\n\n7. «Pedido de ajuda único», o pedido de ajuda referido no artigo 22.º do Regulamento (CE) n.º 1782/2003 e nos artigos 12.º e 14.º do Regulamento (CE) n.º 796/2004.\n\n8. «Destinatário final de um lote de forragens secas», a última pessoa a receber esse lote na forma que possuía à saída da empresa de transformação, a fim de transformar a forragem seca ou de a utilizar na alimentação animal."
+  },
+  "460fac07632177e8": {
+   "fragment_id": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas\n\n1. A colheita de amostras e a pesagem das forragens secas, previstas no n.º 2 do artigo 13.º do Regulamento (CE) n.º 1786/2003, serão efectuadas pela empresa de transformação aquando da saída das forragens secas da empresa.\n\nNo entanto, sempre que as forragens secas sejam misturadas na empresa de transformação, a colheita de amostras e a pesagem serão realizadas antes das operações de mistura.\n\nNo caso de a mistura ser efectuada antes ou durante a secagem, será colhida uma amostra após a secagem; essa amostra será acompanhada de uma nota que indique tratar-se de uma mistura e que especifique a natureza do suplemento, a sua denominação, o seu teor de matéria azotada total em relação ao extracto seco e a taxa de incorporação no produto acabado.\n\n2. A autoridade competente pode exigir que cada empresa de transformação lhe comunique, com pelo menos dois dias úteis de antecedência, cada saída ou mistura de forragens secas, especificando as respectivas datas e quantidades, de forma a permitir-lhe efectuar qualquer controlo necessário.\n\nA autoridade competente procederá regularmente, no decurso de cada campanha, a colheitas de amostras e a pesagens em relação a, pelo menos, 5 % em peso das forragens secas saídas da empresa e a, pelo menos, 5 % em peso das forragens secas misturadas.\n\n3. A determinação da humidade e do teor de proteínas brutas totais, prevista no artigo 3.º, será efectuada através da colheita de amostras por quantidades de 110 toneladas, no máximo, em cada lote de forragens secas saídas da empresa de transformação ou nela misturadas, segundo o método definido pelas Directivas 76/371/CEE ([^6^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0006)), 71/393/CEE ([^7^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0007)) e 72/199/CEE ([^8^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0008)) da Comissão.\n\nEm caso de saída ou de mistura de vários lotes de qualidade uniforme no que respeita à composição em espécies, à humidade e ao teor de proteínas, cujo peso total seja inferior ou igual a 110 toneladas, será colhida uma amostra em cada lote. No entanto, a análise far-se-á com base numa mistura representativa dessas amostras."
+  },
+  "9e7f8d301a0db429": {
+   "fragment_id": "Artigo 35.º — Período transitório facultativo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Período transitório facultativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Período transitório facultativo\n\n1. Os Estados-Membros que apliquem um período transitório facultativo, de acordo com o artigo 71.º do Regulamento (CE) n.º 1782/2003 pagarão às empresas de transformação, para que estas a transfiram para os produtores, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, com base nas quantidades elegíveis a título da campanha de comercialização de 2005/2006.\n\nEsta ajuda é fixada com base nas quantidades potencialmente elegíveis, até ao limite máximo orçamental indicado no anexo IV do Regulamento (CE) n.º 118/2005 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0009)).\n\nPor quantidades potencialmente elegíveis, entende-se a soma das quantidades reconhecidas como elegíveis para a ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 durante a campanha de comercialização de 2005/2006 e das quantidades produzidas durante a campanha de comercialização de 2005/2006 que tenham sido objecto de um pedido para beneficiar da referida ajuda na campanha de comercialização de 2006/2007, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, em conformidade com o disposto no artigo 34.º-A. Estas quantidades potencialmente elegíveis não incluem as quantidades referidas no artigo 34.º\n\n2. No caso de a empresa de transformação ser abastecida com forragens provenientes de outro Estado-Membro, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, só será paga às empresas de transformação para que estas a transfiram para o produtor se este se encontrar num Estado-Membro que aplique o período transitório facultativo.\n\n3. A ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003 será fixada em conformidade com o procedimento referido no n.º 2 do artigo 18.º do Regulamento (CE) n.º 1786/2003.\n\nA ajuda será paga às empresas de transformação no prazo de trinta dias úteis a contar da data em que a Comissão publicar os respectivos montantes no *Jornal Oficial da União Europeia*. Para as quantidades reconhecidas como elegíveis para a ajuda após esta data de publicação, o pagamento será efectuado nos trinta dias úteis seguintes à data do reconhecimento da elegibilidade para ajuda.\n\nAs empresas de transformação transferirão a ajuda para os produtores no prazo de quinze dias úteis após o pagamento pelo Estado-Membro."
+  },
+  "efba717f37906161": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | Objecto | Unidade | Quantidade |\n| --- | --- | --- | --- |\n| a | Produção de forragens desidratadas | Tonelada de forragens desidratadas |  |\n| b | Humidade média na entrada | % |  |\n| c | Humidade média na saída | % |  |\n| d | Temperatura média do ar à entrada dos secadores | Grau Celsius |  |\n| e | Consumo específico médio | Megajoule por quilograma de forragens desidratadas |  |\n| *Preencher por cada tipo de combustível utilizado* [(^1^)](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#E0010): Tipo de combustível: |  |  |  |\n| f | Poder calorífico específico médio | Megajoule por tonelada de combustível |  |\n| g | Quantidade utilizada | Tonelada de combustível |  |\n| h | Energia produzida | Megajoule |  |\n| (^1^)Gás, carvão, lignite, fuel-óleo, biomassa, etc. |  |  |  |"
+  },
+  "ffcf111793a70b6b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0001)) JO L 270 de 21.10.2003, p. 114. Regulamento alterado pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0002)) JO L 270 de 21.10.2003, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 118/2005 da Comissão (JO L 24 de 27.1.2005, p. 15).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0003)) JO L 63 de 21.3.1995, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0004)) JO L 79 de 7.4.1995, p. 5. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1413/2001 (JO L 191 de 13.7.2001, p. 8).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0005)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0006)) JO L 102 de 15.4.1976, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0007)) JO L 279 de 20.12.1971, p. 7.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0008)) JO L 123 de 29.5.1972, p. 6.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/99f3d49c-e15a-4491-94fb-732c12f486c4.0016.03/DOC_1#src.E0009)) JO L 24 de 27.1.2005, p. 15."
+  },
+  "233d870ecb713e64": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Março de 2005\n\nque estabelece normas de execução do Regulamento (CE) n.º 1786/2003 do Conselho sobre a organização comum do mercado das forragens secas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1786/2003 do Conselho, de 29 de Setembro de 2003, sobre a organização comum do mercado das forragens secas ([^1^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0001)), nomeadamente o artigo 20.º,\n\nTendo em conta o Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001, (CE) n.º 1454/2001, (CE) n.º 1868/94, (CE) n.º 1251/1999, (CE) n.º 1254/1999, (CE) n.º 1673/2000, (CEE) n.º 2358/71 e (CE) n.º 2529/2001 ([^2^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0002)), nomeadamente o n.º 2, segundo parágrafo, do artigo 71.º,\n\n(1) Dado que o Regulamento (CE) n.º 1786/2003 substitui o Regulamento (CE) n.º 603/95 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0003)), há que adoptar novas normas de execução. Por conseguinte, é conveniente revogar o Regulamento (CE) n.º 785/95 da Comissão, de 6 de Abril de 1995, que estabelece normas de execução do Regulamento (CE) n.º 603/95 do Conselho que institui a organização comum de mercado no sector das forragens secas ([^4^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0004)).\n\n(2) Por razões de clareza, convém estabelecer determinadas definições.\n\n(3) Atendendo aos requisitos estabelecidos no artigo 9.º do Regulamento (CE) n.º 1786/2003, é conveniente ter em conta a qualidade mínima dos produtos em causa, expressa em humidade e teor de proteínas. Face aos usos comerciais, é conveniente diferenciar a humidade em função de certos processos de fabrico.\n\n(4) É conveniente excluir do benefício das ajudas previstas no Regulamento (CE) n.º 1786/2003 as forragens provenientes de superfícies para as quais já seja concedida uma ajuda prevista no título IV do Regulamento (CE) n.º 1782/2003.\n\n(5) O Regulamento (CE) n.º 1786/2003 prevê, no artigo 13.º, que os Estados-Membros criem sistemas de inspecção que permitam verificar se cada empresa ou comprador de forragens para desidratar observou as condições estabelecidas no mesmo regulamento. Com vista a facilitar tal inspecção e assegurar a observância das condições que conferem o direito à ajuda, é conveniente prever que as empresas de transformação e os compradores de forragens para desidratar sejam objecto de um processo de aprovação. Com o mesmo objectivo, é conveniente determinar as indicações necessárias que devem constar dos pedidos de ajuda, da contabilidade das existências e das declarações de entrega das empresas de transformação. Por último, é necessário indicar os restantes documentos comprovativos a apresentar.\n\n(6) A observância dos requisitos de qualidade das forragens secas deve ser objecto de controlos rigorosos, baseados na regular colheita de amostras dos produtos acabados que saem da empresa. Em caso de mistura desses produtos com outras matérias, deve ser realizada uma colheita de amostras antes de se proceder à mistura.\n\n(7) A fim de verificar a correspondência entre as quantidades de matérias-primas entregues às empresas e as quantidades de forragens secas delas saídas, é necessário que as mesmas procedam à pesagem sistemática das forragens a transformar e determinem a respectiva humidade.\n\n(8) Para facilitar a comercialização das forragens a transformar e permitir às autoridades competentes a realização dos controlos necessários para verificar o direito à ajuda, é preciso que os contratos celebrados entre as empresas e os agricultores sejam estabelecidos antes da entrega das matérias-primas e apresentados às autoridades competentes antes de uma determinada data, que lhes permita ter conhecimento do volume de produção previsível. Para o efeito, é indispensável que os contratos sejam estabelecidos por escrito e mencionem, nomeadamente, a data de celebração, a campanha de comercialização em causa, os nomes e endereços das partes contratantes, a natureza dos produtos a transformar e a identificação da parcela agrícola em que as forragens a transformar tenham sido cultivadas.\n\n(9) Em certos casos, os contratos não são aplicáveis, devendo ser estabelecidas pelas empresas de transformação declarações de entrega, sujeitas às condições por que se regem os contratos.\n\n(10) Para assegurar a aplicação uniforme do regime de ajuda, é conveniente estatuir as regras de pagamento desta.\n\n(11) O Regulamento (CE) n.º 1786/2003 prevê uma série de controlos a efectuar em cada etapa do processo de produção, incluindo o recurso ao sistema integrado de gestão e de controlo previsto pelo Regulamento (CE) n.º 1782/2003. É, pois, oportuno relacionar os controlos relativos à identificação das parcelas agrícolas em causa com os controlos efectuados no âmbito desse sistema.\n\n(12) Tratando-se de um regime referido no anexo V do Regulamento (CE) n.º 1782/2003, e a fim de evitar qualquer concessão injustificada de ajuda, é conveniente que as autoridades competentes procedam a controlos cruzados das parcelas agrícolas mencionadas nos contratos e/ou declarações de entrega e das declaradas pelos produtores nos seus pedidos de ajuda únicos.\n\n(13) Para assegurar o cumprimento das condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento, nomeadamente no que se refere ao direito à ajuda, e a fim de reprimir os abusos, é conveniente prever certas reduções e exclusões da ajuda, tendo presentes o princípio da proporcionalidade e os problemas específicos resultantes de casos de força maior e de circunstâncias excepcionais. As reduções e exclusões devem ser ponderadas em função da gravidade da irregularidade cometida e podem atingir a exclusão total do benefício da ajuda durante um determinado período.\n\n(14) Para assegurar uma correcta gestão do mercado das forragens secas, é necessário que sejam regularmente transmitidas à Comissão determinadas informações.\n\n(15) A fim de preparar o relatório sobre o sector, previsto para 2008 em conformidade com o artigo 23.º do Regulamento (CE) n.º 1786/2003, convém prever comunicações sobre as superfícies forrageiras e o consumo de energia ligado à produção de forragens secas.\n\n(16) Em conformidade com o artigo 21.º do Regulamento (CE) n.º 1786/2003, é necessário adoptar uma medida transitória relativamente às existências em 31 de Março de 2005.\n\n(17) Em caso de aplicação do período transitório facultativo previsto no artigo 71.º do Regulamento (CE) n.º 1782/2003, devem ser estabelecidas as condições da ajuda referida no mesmo artigo.\n\n(18) O Regulamento (CE) n.º 1786/2003 é aplicável a partir de 1 de Abril de 2005, data do início da campanha de comercialização de 2005/2006. O presente regulamento deve, pois, ser aplicável a partir da mesma data.\n\n(19) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão conjunto dos cereais e dos pagamentos directos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "295a5f0c1ca22440": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Forragens secas», os produtos referidos no artigo 1.º do Regulamento (CE) n.º 1786/2003, distinguindo as seguintes categorias:\n\na) «Forragens desidratadas»: os produtos que tenham sido submetidos a uma secagem artificial ao calor, referidos na alínea a), primeiro e terceiro parágrafos, do mesmo artigo, entre os quais os «produtos forrageiros semelhantes», a saber, todos os produtos forrageiros herbáceos que tenham sido submetidos a uma secagem artificial ao calor abrangidos pelo código NC 1214 90 90, nomeadamente:\n\n— as leguminosas herbáceas,\n\n— as gramíneas herbáceas,\n\n— os cereais colhidos verdes, com a planta inteira e os grãos imaturos, referidos no anexo IX, ponto I, do Regulamento (CE) n.º 1782/2003;\n\nb) «Forragens secas ao sol»: os produtos referidos na alínea a), segundo e quarto parágrafos, do artigo 1.º do Regulamento (CE) n.º 1786/2003 secos por processos que não o calor artificial e moídos;\n\nc) «Concentrados de proteínas»: os produtos referidos na alínea b), primeiro parágrafo, do artigo 1.º do Regulamento (CE) n.º 1786/2003;\n\nd) «Produtos desidratados»: os produtos referidos na alínea b), segundo parágrafo, do artigo 1.º do Regulamento (CE) n.º 1786/2003.\n\n2. «Empresa de transformação», a empresa de transformação de forragens secas referida no artigo 7.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que efectue uma das seguintes operações:\n\na) Desidratação de forragens frescas, utilizando um secador que satisfaça as condições seguintes:\n\n— temperatura do ar à entrada não inferior a 250 ºC; no entanto, os secadores de bandas com uma temperatura do ar à entrada não inferior a 110 ºC que tenham beneficiado de uma aprovação antes do início da campanha de comercialização de 1999/2000 não são obrigados a respeitar esta condição,\n\n— duração de passagem das forragens a desidratar não superior a três horas,\n\n— em caso de secagem por camadas de forragens, espessura de cada camada não superior a 1 metro;\n\nb) A moagem das forragens secas ao sol;\n\nc) O fabrico de concentrados de proteínas.\n\n3. «Comprador de forragens para secar e/ou triturar», a pessoa singular ou colectiva referida na alínea c), subalínea iii), do artigo 10.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que compre aos produtores forragens frescas para as entregar às empresas de transformação.\n\n4. «Lote», uma quantidade determinada de forragens de qualidade uniforme quanto à sua composição, humidade e teor de proteínas, saída de uma só vez da empresa de transformação.\n\n5. «Mistura», um produto destinado ao consumo animal que contenha forragens secas, que tenham sido secas e/ou trituradas pela empresa de transformação, e suplementos.\n\n6. «Parcelas agrícolas», as parcelas identificadas em conformidade com o sistema de identificação das parcelas agrícolas do sistema integrado de gestão e de controlo, referido nos artigos 18.º e 20.º do Regulamento (CE) n.º 1782/2003 e no artigo 6.º do Regulamento (CE) n.º 796/2004 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0005)).\n\n7. «Pedido de ajuda único», o pedido de ajuda referido no artigo 22.º do Regulamento (CE) n.º 1782/2003 e nos artigos 12.º e 14.º do Regulamento (CE) n.º 796/2004.\n\n8. «Destinatário final de um lote de forragens secas», a última pessoa a receber esse lote na forma que possuía à saída da empresa de transformação, a fim de transformar a forragem seca ou de a utilizar na alimentação animal."
+  },
+  "bb914f81c86da49a": {
+   "fragment_id": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas\n\n1. A colheita de amostras e a pesagem das forragens secas, previstas no n.º 2 do artigo 13.º do Regulamento (CE) n.º 1786/2003, serão efectuadas pela empresa de transformação aquando da saída das forragens secas da empresa.\n\nNo entanto, sempre que as forragens secas sejam misturadas na empresa de transformação, a colheita de amostras e a pesagem serão realizadas antes das operações de mistura.\n\nNo caso de a mistura ser efectuada antes ou durante a secagem, será colhida uma amostra após a secagem; essa amostra será acompanhada de uma nota que indique tratar-se de uma mistura e que especifique a natureza do suplemento, a sua denominação, o seu teor de matéria azotada total em relação ao extracto seco e a taxa de incorporação no produto acabado.\n\n2. A autoridade competente pode exigir que cada empresa de transformação lhe comunique, com pelo menos dois dias úteis de antecedência, cada saída ou mistura de forragens secas, especificando as respectivas datas e quantidades, de forma a permitir-lhe efectuar qualquer controlo necessário.\n\nA autoridade competente procederá regularmente, no decurso de cada campanha, a colheitas de amostras e a pesagens em relação a, pelo menos, 5 % em peso das forragens secas saídas da empresa e a, pelo menos, 5 % em peso das forragens secas misturadas.\n\n3. A determinação da humidade e do teor de proteínas brutas totais, prevista no artigo 3.º, será efectuada através da colheita de amostras por quantidades de 110 toneladas, no máximo, em cada lote de forragens secas saídas da empresa de transformação ou nela misturadas, segundo o método definido pelas Directivas 76/371/CEE ([^6^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0006)), 71/393/CEE ([^7^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0007)) e 72/199/CEE ([^8^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0008)) da Comissão.\n\nEm caso de saída ou de mistura de vários lotes de qualidade uniforme no que respeita à composição em espécies, à humidade e ao teor de proteínas, cujo peso total seja inferior ou igual a 110 toneladas, será colhida uma amostra em cada lote. No entanto, a análise far-se-á com base numa mistura representativa dessas amostras."
+  },
+  "77dff33bae14f3bb": {
+   "fragment_id": "Artigo 34.º-A — Existências em 31 de Março de 2006",
+   "type": "artigo",
+   "heading": "Artigo 34.º-A — Existências em 31 de Março de 2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º-A — Existências em 31 de Março de 2006\n\n1. Em derrogação ao n.º 3 do artigo 18.º do presente regulamento, as forragens secas produzidas durante a campanha de comercialização de 2005/2006 e que não tenham saído da empresa de transformação ou de um dos locais de armazenagem referidos na alínea a) do artigo 3.º do presente regulamento até 31 de Março de 2006 podem beneficiar da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, a título da campanha de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, desde que:\n\na) Respeitem as condições estabelecidas no artigo 3.º do presente regulamento;\n\nb) Saiam da empresa de transformação durante a campanha de comercialização de 2006/2007 sob o controlo da autoridade competente nas condições previstas nos artigos 10.º e 11.º do presente regulamento;\n\nc) Sejam contabilizadas no âmbito das quantidades nacionais garantidas concedidas aos Estados-Membros em causa para a campanha de comercialização de 2005/2006;\n\nd) Tenham sido declaradas e certificadas durante a campanha de comercialização de 2005/2006.\n\n2. As autoridades competentes dos Estados-Membros em causa adoptarão todas as medidas de controlo necessárias para garantir o cumprimento do disposto no n.º 1.\n\n3. Sem prejuízo do período de 90 dias previsto para a verificação do direito à ajuda, referida no n.º 2 do artigo 20.º, as ajudas a que os beneficiários têm direito são pagas nas condições seguintes:\n\na) A ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 é paga às empresas de transformação no prazo de 30 dias úteis seguintes à decisão de pagamento do organismo pagador;\n\nb) A ajuda referida no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003 é paga nos prazos previstos no n.º 3, segundo parágrafo, do artigo 35.º do presente regulamento."
+  },
+  "6383d0f8f971b787": {
+   "fragment_id": "Artigo 35.º — Período transitório facultativo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Período transitório facultativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Período transitório facultativo\n\n1. Os Estados-Membros que apliquem um período transitório facultativo, de acordo com o artigo 71.º do Regulamento (CE) n.º 1782/2003 pagarão às empresas de transformação, para que estas a transfiram para os produtores, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, com base nas quantidades elegíveis a título da campanha de comercialização de 2005/2006.\n\nEsta ajuda é fixada com base nas quantidades potencialmente elegíveis, até ao limite máximo orçamental indicado no anexo IV do Regulamento (CE) n.º 118/2005 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0009)).\n\nPor quantidades potencialmente elegíveis, entende-se a soma das quantidades reconhecidas como elegíveis para a ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 durante a campanha de comercialização de 2005/2006 e das quantidades produzidas durante a campanha de comercialização de 2005/2006 que tenham sido objecto de um pedido para beneficiar da referida ajuda na campanha de comercialização de 2006/2007, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, em conformidade com o disposto no artigo 34.º-A. Estas quantidades potencialmente elegíveis não incluem as quantidades referidas no artigo 34.º\n\n2. No caso de a empresa de transformação ser abastecida com forragens provenientes de outro Estado-Membro, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, só será paga às empresas de transformação para que estas a transfiram para o produtor se este se encontrar num Estado-Membro que aplique o período transitório facultativo.\n\n3. A ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003 será fixada em conformidade com o procedimento referido no n.º 2 do artigo 18.º do Regulamento (CE) n.º 1786/2003.\n\nA ajuda será paga às empresas de transformação no prazo de trinta dias úteis a contar da data em que a Comissão publicar os respectivos montantes no *Jornal Oficial da União Europeia*. Para as quantidades reconhecidas como elegíveis para a ajuda após esta data de publicação, o pagamento será efectuado nos trinta dias úteis seguintes à data do reconhecimento da elegibilidade para ajuda.\n\nAs empresas de transformação transferirão a ajuda para os produtores no prazo de quinze dias úteis após o pagamento pelo Estado-Membro."
+  },
+  "2a4d89f4b112cd03": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | Objecto | Unidade | Quantidade |\n| --- | --- | --- | --- |\n| a | Produção de forragens desidratadas | Tonelada de forragens desidratadas |  |\n| b | Humidade média na entrada | % |  |\n| c | Humidade média na saída | % |  |\n| d | Temperatura média do ar à entrada dos secadores | Grau Celsius |  |\n| e | Consumo específico médio | Megajoule por quilograma de forragens desidratadas |  |\n| *Preencher por cada tipo de combustível utilizado* [(^1^)](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#E0010): Tipo de combustível: |  |  |  |\n| f | Poder calorífico específico médio | Megajoule por tonelada de combustível |  |\n| g | Quantidade utilizada | Tonelada de combustível |  |\n| h | Energia produzida | Megajoule |  |\n| (^1^)Gás, carvão, lignite, fuel-óleo, biomassa, etc. |  |  |  |"
+  },
+  "49af12d184e95d7e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0001)) JO L 270 de 21.10.2003, p. 114. Regulamento alterado pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0002)) JO L 270 de 21.10.2003, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 118/2005 da Comissão (JO L 24 de 27.1.2005, p. 15).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0003)) JO L 63 de 21.3.1995, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0004)) JO L 79 de 7.4.1995, p. 5. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1413/2001 (JO L 191 de 13.7.2001, p. 8).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0005)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0006)) JO L 102 de 15.4.1976, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0007)) JO L 279 de 20.12.1971, p. 7.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0008)) JO L 123 de 29.5.1972, p. 6.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/40731479-168a-4120-8fa6-ae44703e6093.0016.03/DOC_1#src.E0009)) JO L 24 de 27.1.2005, p. 15."
+  },
+  "818c04ce845ee60e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Março de 2005\n\nque estabelece normas de execução do Regulamento (CE) n.º 1786/2003 do Conselho sobre a organização comum do mercado das forragens secas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1786/2003 do Conselho, de 29 de Setembro de 2003, sobre a organização comum do mercado das forragens secas ([^1^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0001)), nomeadamente o artigo 20.º,\n\nTendo em conta o Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001, (CE) n.º 1454/2001, (CE) n.º 1868/94, (CE) n.º 1251/1999, (CE) n.º 1254/1999, (CE) n.º 1673/2000, (CEE) n.º 2358/71 e (CE) n.º 2529/2001 ([^2^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0002)), nomeadamente o n.º 2, segundo parágrafo, do artigo 71.º,\n\n(1) Dado que o Regulamento (CE) n.º 1786/2003 substitui o Regulamento (CE) n.º 603/95 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0003)), há que adoptar novas normas de execução. Por conseguinte, é conveniente revogar o Regulamento (CE) n.º 785/95 da Comissão, de 6 de Abril de 1995, que estabelece normas de execução do Regulamento (CE) n.º 603/95 do Conselho que institui a organização comum de mercado no sector das forragens secas ([^4^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0004)).\n\n(2) Por razões de clareza, convém estabelecer determinadas definições.\n\n(3) Atendendo aos requisitos estabelecidos no artigo 9.º do Regulamento (CE) n.º 1786/2003, é conveniente ter em conta a qualidade mínima dos produtos em causa, expressa em humidade e teor de proteínas. Face aos usos comerciais, é conveniente diferenciar a humidade em função de certos processos de fabrico.\n\n(4) É conveniente excluir do benefício das ajudas previstas no Regulamento (CE) n.º 1786/2003 as forragens provenientes de superfícies para as quais já seja concedida uma ajuda prevista no título IV do Regulamento (CE) n.º 1782/2003.\n\n(5) O Regulamento (CE) n.º 1786/2003 prevê, no artigo 13.º, que os Estados-Membros criem sistemas de inspecção que permitam verificar se cada empresa ou comprador de forragens para desidratar observou as condições estabelecidas no mesmo regulamento. Com vista a facilitar tal inspecção e assegurar a observância das condições que conferem o direito à ajuda, é conveniente prever que as empresas de transformação e os compradores de forragens para desidratar sejam objecto de um processo de aprovação. Com o mesmo objectivo, é conveniente determinar as indicações necessárias que devem constar dos pedidos de ajuda, da contabilidade das existências e das declarações de entrega das empresas de transformação. Por último, é necessário indicar os restantes documentos comprovativos a apresentar.\n\n(6) A observância dos requisitos de qualidade das forragens secas deve ser objecto de controlos rigorosos, baseados na regular colheita de amostras dos produtos acabados que saem da empresa. Em caso de mistura desses produtos com outras matérias, deve ser realizada uma colheita de amostras antes de se proceder à mistura.\n\n(7) A fim de verificar a correspondência entre as quantidades de matérias-primas entregues às empresas e as quantidades de forragens secas delas saídas, é necessário que as mesmas procedam à pesagem sistemática das forragens a transformar e determinem a respectiva humidade.\n\n(8) Para facilitar a comercialização das forragens a transformar e permitir às autoridades competentes a realização dos controlos necessários para verificar o direito à ajuda, é preciso que os contratos celebrados entre as empresas e os agricultores sejam estabelecidos antes da entrega das matérias-primas e apresentados às autoridades competentes antes de uma determinada data, que lhes permita ter conhecimento do volume de produção previsível. Para o efeito, é indispensável que os contratos sejam estabelecidos por escrito e mencionem, nomeadamente, a data de celebração, a campanha de comercialização em causa, os nomes e endereços das partes contratantes, a natureza dos produtos a transformar e a identificação da parcela agrícola em que as forragens a transformar tenham sido cultivadas.\n\n(9) Em certos casos, os contratos não são aplicáveis, devendo ser estabelecidas pelas empresas de transformação declarações de entrega, sujeitas às condições por que se regem os contratos.\n\n(10) Para assegurar a aplicação uniforme do regime de ajuda, é conveniente estatuir as regras de pagamento desta.\n\n(11) O Regulamento (CE) n.º 1786/2003 prevê uma série de controlos a efectuar em cada etapa do processo de produção, incluindo o recurso ao sistema integrado de gestão e de controlo previsto pelo Regulamento (CE) n.º 1782/2003. É, pois, oportuno relacionar os controlos relativos à identificação das parcelas agrícolas em causa com os controlos efectuados no âmbito desse sistema.\n\n(12) Tratando-se de um regime referido no anexo V do Regulamento (CE) n.º 1782/2003, e a fim de evitar qualquer concessão injustificada de ajuda, é conveniente que as autoridades competentes procedam a controlos cruzados das parcelas agrícolas mencionadas nos contratos e/ou declarações de entrega e das declaradas pelos produtores nos seus pedidos de ajuda únicos.\n\n(13) Para assegurar o cumprimento das condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento, nomeadamente no que se refere ao direito à ajuda, e a fim de reprimir os abusos, é conveniente prever certas reduções e exclusões da ajuda, tendo presentes o princípio da proporcionalidade e os problemas específicos resultantes de casos de força maior e de circunstâncias excepcionais. As reduções e exclusões devem ser ponderadas em função da gravidade da irregularidade cometida e podem atingir a exclusão total do benefício da ajuda durante um determinado período.\n\n(14) Para assegurar uma correcta gestão do mercado das forragens secas, é necessário que sejam regularmente transmitidas à Comissão determinadas informações.\n\n(15) A fim de preparar o relatório sobre o sector, previsto para 2008 em conformidade com o artigo 23.º do Regulamento (CE) n.º 1786/2003, convém prever comunicações sobre as superfícies forrageiras e o consumo de energia ligado à produção de forragens secas.\n\n(16) Em conformidade com o artigo 21.º do Regulamento (CE) n.º 1786/2003, é necessário adoptar uma medida transitória relativamente às existências em 31 de Março de 2005.\n\n(17) Em caso de aplicação do período transitório facultativo previsto no artigo 71.º do Regulamento (CE) n.º 1782/2003, devem ser estabelecidas as condições da ajuda referida no mesmo artigo.\n\n(18) O Regulamento (CE) n.º 1786/2003 é aplicável a partir de 1 de Abril de 2005, data do início da campanha de comercialização de 2005/2006. O presente regulamento deve, pois, ser aplicável a partir da mesma data.\n\n(19) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão conjunto dos cereais e dos pagamentos directos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "40f861113f53b9e3": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Forragens secas», os produtos referidos no artigo 1.º do Regulamento (CE) n.º 1786/2003;\n\n2. «Outros produtos forrageiros semelhantes», todos os produtos forrageiros herbáceos que tenham sido submetidos a secagem artificial ao calor, abrangidos pelo código NC 1214 90 90, nomeadamente:\n\n— as leguminosas herbáceas,\n\n— as gramíneas herbáceas,\n\n— os cereais colhidos verdes, com a planta inteira e os grãos imaturos, referidos no anexo IX, ponto I, do Regulamento (CE) n.º 1782/2003;\n\n3. «Empresa de transformação», a empresa de transformação de forragens secas referida no artigo 7.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa;\n\n4. «Comprador de forragens para secar e/ou triturar», a pessoa singular ou colectiva referida na alínea c), subalínea iii), do artigo 10.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que compre aos produtores forragens frescas para as entregar às empresas de transformação;\n\n5. «Lote», uma quantidade determinada de forragens de qualidade uniforme quanto à sua composição, humidade e teor de proteínas, saída de uma só vez da empresa de transformação;\n\n6. «Mistura», um produto destinado ao consumo animal que contenha forragens secas, que tenham sido secas e/ou trituradas pela empresa de transformação, e suplementos.\n\n7. «Parcelas agrícolas», as parcelas identificadas em conformidade com o sistema de identificação das parcelas agrícolas do sistema integrado de gestão e de controlo, referido nos artigos 18.º e 20.º do Regulamento (CE) n.º 1782/2003 e no artigo 6.º do Regulamento (CE) n.º 796/2004 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0005));\n\n8. «Pedido de ajuda único», o pedido de ajuda referido no artigo 22.º do Regulamento (CE) n.º 1782/2003 e nos artigos 12.º e 14.º do Regulamento (CE) n.º 796/2004;\n\n9. «Destinatário final de um lote de forragens secas», a última pessoa a receber esse lote na forma que possuía à saída da empresa de transformação, a fim de transformar a forragem seca ou de a utilizar na alimentação animal."
+  },
+  "a32c04708023c928": {
+   "fragment_id": "Artigo 3.º — Produtos elegíveis para a ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos elegíveis para a ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos elegíveis para a ajuda\n\nPara efeitos de aplicação do presente regulamento, são elegíveis para a ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 as forragens secas que, para além das indicações previstas no artigo 9.º do referido regulamento, correspondam às exigências de colocação no mercado de alimentação animal que saiam, no seu estado inalterado ou em mistura, do recinto da empresa de transformação ou, no caso de não poderem ser armazenadas nesse recinto, de qualquer local de armazenagem exterior que ofereça garantias suficientes para efeitos do controlo das forragens armazenadas e tenha sido previamente aprovado pela autoridade competente.\n\nO direito à ajuda fica limitado às quantidades de produtos obtidos por secagem de forragens produzidas em parcelas utilizadas para fins agrícolas na acepção do artigo 51.º do Regulamento (CE) n.º 1782/2003."
+  },
+  "4df29221b9ff6309": {
+   "fragment_id": "Artigo 5.º — Aprovação das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Aprovação das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aprovação das empresas de transformação\n\nPara efeitos da aprovação referida no ponto 2 do artigo 2.º, a empresa de transformação:\n\na) Apresentará à autoridade competente um processo que contenha:\n\ni) uma descrição do seu recinto, que indique, nomeadamente, os locais utilizados para a entrada dos produtos a transformar e os destinados à saída das forragens secas, os locais de armazenagem dos produtos utilizados para a transformação e dos produtos acabados e a localização das instalações de transformação,\n\nii) uma descrição das instalações técnicas, nomeadamente das instalações de secagem artificial ao calor e das instalações de trituração, com indicação da capacidade de evaporação horária e da temperatura de funcionamento, bem como das instalações de pesagem, que permitam obter um produto final que respeite as características de humidade e o teor mínimo de proteínas previstos no artigo 9.º do Regulamento (CE) n.º 1786/2003,\n\niii) a lista dos suplementos incorporados antes ou durante o processo de desidratação, bem como a lista indicativa dos outros produtos utilizados no fabrico e dos produtos acabados,\n\niv) os modelos dos registos da contabilidade das existências referida no artigo 12.º;\n\nb) Colocará à disposição da autoridade competente a sua contabilidade das existências e financeira actualizada;\n\nc) Facilitará as operações de controlo;\n\nd) Respeitará as condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento.\n\nEm caso de alteração de um ou mais elementos do processo referido no primeiro parágrafo da alínea a), a empresa de transformação informará do facto a autoridade competente no prazo de dez dias, a fim de obter a confirmação da aprovação."
+  },
+  "65154bb11f8c5b37": {
+   "fragment_id": "Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar\n\nPara efeitos da aprovação referida no ponto 3 do artigo 2.º, o comprador de forragens para secar e/ou triturar:\n\na) Manterá um registo dos produtos em causa, do qual constem pelo menos as compras e vendas diárias por produto, com, para cada lote, menção da sua quantidade, da referência ao contrato celebrado com o produtor que entregou o produto e, se for caso disso, da empresa de transformação destinatária;\n\nb) Colocará à disposição da autoridade competente a sua contabilidade das existências e financeira actualizada;\n\nc) Facilitará as operações de controlo."
+  },
+  "66ade6f7f2a77876": {
+   "fragment_id": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas\n\n1. A colheita de amostras e a pesagem das forragens secas, previstas no n.º 2 do artigo 13.º do Regulamento (CE) n.º 1786/2003, serão efectuadas pela empresa de transformação aquando da saída das forragens secas da empresa.\n\nNo entanto, sempre que as forragens secas sejam misturadas na empresa de transformação, a colheita de amostras e a pesagem serão realizadas antes das operações de mistura.\n\nNo caso de a mistura ser efectuada antes ou durante a secagem, será colhida uma amostra após a secagem; essa amostra será acompanhada de uma nota que indique tratar-se de uma mistura e que especifique a natureza do suplemento, a sua denominação, o seu teor de matéria azotada total em relação ao extracto seco e a taxa de incorporação no produto acabado.\n\n2. A autoridade competente pode exigir que cada empresa de transformação lhe comunique, com pelo menos dois dias úteis de antecedência, cada saída ou mistura de forragens secas, especificando as respectivas datas e quantidades, de forma a permitir-lhe efectuar qualquer controlo necessário.\n\nA autoridade competente procederá regularmente, no decurso de cada campanha, a colheitas de amostras e a pesagens em relação a, pelo menos, 5 % em peso das forragens secas saídas da empresa e a, pelo menos, 5 % em peso das forragens secas misturadas.\n\n3. [**►M4**](http://publications.europa.eu/resource/celex/32007R1388) A determinação da humidade e do teor de proteínas brutas totais, previstos no artigo 9.º do Regulamento (CE) n.º 1786/2003, será efectuada através da colheita de amostras por quantidades de 110 toneladas, no máximo, em cada lote de forragens secas saídas da empresa de transformação ou nela misturadas, segundo o método definido pelas Directivas 76/371/CEE ([^6^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0006)), 71/393/CEE ([^7^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0007)) e 72/199/CEE ([^8^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0008)) da Comissão.**◄**\n\nEm caso de saída ou de mistura de vários lotes de qualidade uniforme no que respeita à composição em espécies, à humidade e ao teor de proteínas, cujo peso total seja inferior ou igual a 110 toneladas, será colhida uma amostra em cada lote. No entanto, a análise far-se-á com base numa mistura representativa dessas amostras."
+  },
+  "82788a9fa38490bc": {
+   "fragment_id": "Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar\n\n1. As empresas de transformação determinarão, por pesagem sistemática, a quantidade exacta de forragens para secar e/ou triturar que lhes forem entregues para transformação.\n\n2. A obrigação de pesagem sistemática não é aplicável se a produção da empresa em causa não exceder 1 000 toneladas por campanha e se essa empresa apresentar provas consideradas suficientes pela autoridade competente do Estado-Membro de que não tem possibilidade de utilizar um sistema de pesagem público situado num raio de 5 km. Neste caso, as quantidades entregues podem ser determinadas mediante aplicação de qualquer outro método aprovado previamente pela referida autoridade competente.\n\n3. A humidade média das quantidades de forragens para desidratar será medida pela empresa de transformação por comparação das quantidades utilizadas com as quantidades de forragens secas obtidas.\n\n4. Antes do final do primeiro mês de cada trimestre, as empresas de transformação comunicarão à autoridade competente a humidade média referida no n.º 3, verificada durante o trimestre anterior nas forragens para desidratar que tenham transformado."
+  },
+  "d6be22534f067667": {
+   "fragment_id": "Artigo 12.º — Contabilidade das existências das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Contabilidade das existências das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contabilidade das existências das empresas de transformação\n\n1. A ajuda prevista no n.º 1 do artigo 86.º do Regulamento (CE) n.º 1234/2007 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0009)) só pode ser concedida às empresas de transformação dos produtos enumerados na parte IV do anexo I do mesmo regulamento que satisfaçam as seguintes condições:\n\na) Manterem uma contabilidade das existências que inclua, pelo menos, as seguintes informações:\n\ni) as quantidades de forragens frescas e, se for caso disso, de forragens secas ao sol, transformadas; todavia, se a situação especial da empresa o exigir, as quantidades podem ser estimadas com base nas superfícies semeadas,\n\nii) as quantidades de forragens secas produzidas e as quantidades (e qualidade) saídas da empresa de transformação;\n\nb) Fornecerem quaisquer outros documentos comprovativos necessários à verificação do direito à ajuda.\n\n2. A contabilidade das existências das empresas de transformação, prevista no n.º 1, é estabelecida em conjunção com a contabilidade financeira e deve permitir um acompanhamento diário:\n\na) Das quantidades de produtos que entram para ser desidratados e/ou triturados, indicando, relativamente a cada recepção:\n\ni) a data de entrada,\n\nii) a quantidade,\n\niii) a ou as espécies referidas na parte IV do anexo I do Regulamento (CE) n.º 1234/2007, no caso das forragens destinadas a desidratação e, se for caso disso, secas ao sol,\n\niv) a humidade verificada nas forragens para desidratar,\n\nv) as referências do contrato e/ou da declaração de entrega previstos nos artigos 14.º ou 15.º do presente regulamento;\n\nb) Das quantidades produzidas e das quantidades de todos os suplementos que possam ter sido utilizados no fabrico;\n\nc) Das quantidades saídas, indicando, para cada lote, a data de saída, a humidade e o teor de proteínas verificados;\n\nd) Das quantidades de forragens secas a título das quais uma empresa de transformação já tenha beneficiado de ajuda e que sejam introduzidas ou reintroduzidas no recinto da empresa;\n\ne) Das existências de forragens secas no final de cada campanha de comercialização;\n\nf) Dos produtos utilizados para mistura ou suplemento às forragens secas e/ou trituradas pela empresa, especificando a sua natureza, denominação, teor de matéria azotada em relação ao extracto seco e taxa de incorporação no produto acabado.\n\n3. As empresas de transformação manterão uma contabilidade das existências separada para todas as categorias de forragens secas previstas na parte IV do anexo I do Regulamento (CE) n.º 1234/2007.\n\n4. Uma empresa de transformação que desidrate ou trate igualmente produtos que não sejam forragens secas manterá uma contabilidade de existências separada para as suas outras actividades de desidratação ou tratamento."
+  },
+  "359802ba04291cf9": {
+   "fragment_id": "Artigo 14.º — Contratos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos\n\n1. De cada contrato referido no n.º 1, alíneas a) e c), do artigo 86.º do Regulamento (CE) n.º 1234/2007 constarão, nomeadamente:\n\na) O preço a pagar ao produtor das forragens frescas e, se for caso disso, secas ao Sol;\n\nb) A superfície cuja colheita se destine a ser entregue à empresa de transformação;\n\nc) As condições de entrega e de pagamento;\n\nd) Os nomes e endereços das partes contratantes;\n\ne) A data da sua celebração;\n\nf) A campanha de comercialização em causa;\n\ng) A ou as espécies de forragens para transformar e a sua quantidade previsível;\n\nh) A identificação da ou das parcelas agrícolas em que são cultivadas as forragens para transformar, com referência ao pedido de ajuda único em que tenham sido declaradas essas parcelas, em conformidade com o n.º 1 do artigo 14.º do Regulamento (CE) n.º 796/2004, e, no caso de um contrato ser celebrado ou uma declaração de entrega ser realizada antes da data de apresentação do pedido de ajuda único, o compromisso de declarar as referidas parcelas nesse pedido.\n\n2. Sempre que uma empresa de transformação executar um contrato de empreitada para a transformação de forragens, referido no n.º 1, alínea a), do artigo 86.º do Regulamento (CE) n.º 1234/2007, celebrado com um produtor agrícola independente ou com um ou vários dos seus próprios membros, esse contrato indicará igualmente:\n\na) O produto acabado a entregar;\n\nb) Os custos a pagar pelo produtor."
+  },
+  "50d57826cec6cf97": {
+   "fragment_id": "Artigo 22.º-A — Sistemas de inspecção",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A — Sistemas de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A — Sistemas de inspecção\n\n1. Os Estados-Membros devem criar sistemas de inspecção que permitam verificar se cada empresa de transformação observou:\n\na) As condições estabelecidas nos artigos 1.º, 3.º e 86.º a 89.º do Regulamento (CE) n.º 1234/2007 e nos artigos 12.º e 14.º do presente regulamento;\n\nb) A correspondência entre as quantidades abrangidas pelos pedidos de ajuda e as quantidades de forragens secas que satisfaçam as normas mínimas de qualidade saídas da empresa de transformação.\n\n2. As forragens secas devem ser pesadas e devem ser colhidas amostras delas no momento da saída da empresa de transformação.\n\n3. Os Estados-Membros devem notificar previamente a Comissão das disposições que tencionem adoptar em aplicação do n.º 1."
+  },
+  "7d1a0b1c8b67710f": {
+   "fragment_id": "Artigo 26.º — Controlos in loco das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Controlos in loco das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Controlos in loco das empresas de transformação\n\n1. As autoridades competentes procederão à verificação, pelo menos uma vez por campanha, da contabilidade das existências, referida no artigo 12.º, de todas as empresas de transformação, especialmente da relação entre a contabilidade das existências e a contabilidade financeira, incluindo os extractos bancários e as facturas a elas relativas.\n\n2. As autoridades competentes verificarão, por amostragem, os documentos comprovativos da contabilidade das existências das empresas de transformação.\n\nNo entanto, no que diz respeito às novas empresas aprovadas, a verificação incidirá na totalidade dos pedidos apresentados durante o seu primeiro ano de actividade."
+  },
+  "e79305fdacbf03d2": {
+   "fragment_id": "Artigo 28.º — Relatórios dos controlos",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Relatórios dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Relatórios dos controlos\n\n1. Cada controlo *in loco* deve ser objecto de um relatório de controlo pormenorizado que permita passar em revista os pormenores dos controlos realizados, incluindo os documentos e registos examinados.\n\n2. A pessoa que é objecto do controlo terá a possibilidade de assinar o relatório e de acrescentar observações. Essa pessoa receberá cópia do relatório do controlo."
+  },
+  "164a7bd8394e427c": {
+   "fragment_id": "Artigo 33.º — Comunicações dos Estados-Membros à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Comunicações dos Estados-Membros à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comunicações dos Estados-Membros à Comissão\n\n1. Os Estados-Membros comunicarão à Comissão, no início de cada trimestre, as quantidades de forragens secas para as quais tenham sido apresentados no decurso do trimestre anterior pedidos relativos à ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, repartidas pelos meses em que essas quantidades saíram da empresa de transformação.[**►M1**](http://publications.europa.eu/resource/celex/32006R0432) Estas comunicações não incluem as quantidades referidas nos artigos 34.º e 34.º-A do presente regulamento.**◄**\n\nO mais tardar em 31 de Maio de cada ano, os Estados-Membros comunicarão à Comissão as quantidades de forragens secas para as quais tenha sido reconhecido o direito à ajuda durante a campanha de comercialização anterior.[**►M1**](http://publications.europa.eu/resource/celex/32006R0432) No que diz respeito às campanhas de comercialização de 2005/2006 e de 2006/2007, estas quantidades não incluem as quantidades referidas nos artigos 34.º e 34.º-A. Os Estados-Membros devem comunicar igualmente à Comissão, até 31 de Maio de 2006, as quantidades de forragens secas existentes nas empresas de transformação em 31 de Março de 2006 e que, de acordo com o disposto no artigo 34.º-A, foram objecto de um pedido para beneficiar, na campanha de comercialização de 2006/2007, da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003.**◄**\n\nNa comunicação dos dados referidos no primeiro e segundo parágrafos, os mesmos serão discriminados de acordo com as categorias referidas no ponto 1 do artigo 2.º Esses dados serão utilizados pela Comissão para verificar o cumprimento da quantidade máxima garantida.\n\n2. Os Estados-Membros comunicarão à Comissão:\n\na) O mais tardar em 30 de Abril de cada ano, as quantidades estimadas de forragens secas presentes nas empresas de transformação em 31 de Março do mesmo ano;\n\nb) O mais tardar em 30 de Abril de 2005, as quantidades de forragens secas presentes nas empresas de transformação em 31 de Março de 2005 e abrangidas pelo disposto no artigo 34.º;\n\nc) O mais tardar em 31 de Maio de cada ano, o número de novas aprovações, de aprovações retiradas e de aprovações provisórias relativas à campanha de comercialização anterior;\n\nd) O mais tardar em 31 de Maio de cada ano, as estatísticas relativas aos controlos efectuados ao abrigo dos artigos 23.º a 28.º e as reduções e exclusões aplicadas ao abrigo dos artigos 29.º, 30.º e 31.º na campanha de comercialização anterior, em conformidade com o anexo III;\n\ne) O mais tardar em 31 de Maio de cada ano, um balanço do consumo de energia utilizada para a produção de forragens desidratadas, em conformidade com o anexo I do presente regulamento, bem como a evolução das superfícies consagradas às leguminosas e outras forragens verdes transformadas nas condições previstas no n.º 1 do artigo 86.º do Regulamento (CE) n.º 1234/2007, em conformidade com o anexo II do presente regulamento, na campanha de comercialização anterior;\n\nf) No mês seguinte ao final de cada semestre, as humidades médias verificadas durante o semestre anterior nas forragens para desidratar e comunicadas pelas empresas de transformação, em conformidade com o n.º 4 do artigo 11.º;\n\ng) O mais tardar em 1 de Maio de 2005, as medidas adoptadas para a execução do Regulamento (CE) n.º 1786/2003 e do presente regulamento, especialmente as sanções nacionais previstas no artigo 30.º do presente regulamento."
+  },
+  "7fb1e79fe9259b23": {
+   "fragment_id": "Artigo 35.º — Período transitório facultativo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Período transitório facultativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Período transitório facultativo\n\n1. Os Estados-Membros que apliquem um período transitório facultativo, de acordo com o artigo 71.º do Regulamento (CE) n.º 1782/2003 pagarão às empresas de transformação, para que estas a transfiram para os produtores, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, com base nas quantidades elegíveis a título da campanha de comercialização de 2005/2006.\n\nEsta ajuda é fixada com base nas quantidades potencialmente elegíveis, até ao limite máximo orçamental indicado no anexo IV do Regulamento (CE) n.º 118/2005 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0010)).\n\nPor quantidades potencialmente elegíveis, entende-se a soma das quantidades reconhecidas como elegíveis para a ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 durante a campanha de comercialização de 2005/2006 e das quantidades produzidas durante a campanha de comercialização de 2005/2006 que tenham sido objecto de um pedido para beneficiar da referida ajuda na campanha de comercialização de 2006/2007, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, em conformidade com o disposto no artigo 34.º-A. Estas quantidades potencialmente elegíveis não incluem as quantidades referidas no artigo 34.º\n\n2. No caso de a empresa de transformação ser abastecida com forragens provenientes de outro Estado-Membro, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, só será paga às empresas de transformação para que estas a transfiram para o produtor se este se encontrar num Estado-Membro que aplique o período transitório facultativo.\n\n3. A ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003 será fixada em conformidade com o procedimento referido no n.º 2 do artigo 18.º do Regulamento (CE) n.º 1786/2003.\n\nA ajuda será paga às empresas de transformação no prazo de trinta dias úteis a contar da data em que a Comissão publicar os respectivos montantes no *Jornal Oficial da União Europeia*. Para as quantidades reconhecidas como elegíveis para a ajuda após esta data de publicação, o pagamento será efectuado nos trinta dias úteis seguintes à data do reconhecimento da elegibilidade para ajuda.\n\nAs empresas de transformação transferirão a ajuda para os produtores no prazo de quinze dias úteis após o pagamento pelo Estado-Membro."
+  },
+  "a5c99a42c8d69128": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | Objecto | Unidade | Quantidade |\n| --- | --- | --- | --- |\n| a | Produção de forragens desidratadas | Tonelada de forragens desidratadas |  |\n| b | Humidade média na entrada | % |  |\n| c | Humidade média na saída | % |  |\n| d | Temperatura média do ar à entrada dos secadores | Grau Celsius |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1388) |  |  |  |\n| e1 | Consumo específico médio | Megajoule por quilograma de forragens desidratadas |  |\n| e2 | Energia utilizada por tonelada de água evaporada | Megajoule por quilograma de água evaporada |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006R0432) |  |  |  |\n| *Preencher por cada tipo de combustível utilizado* [(^1^)](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#E0011): Tipo de combustível: |  |  |  |\n| f | Poder calorífico específico médio | Megajoule por tonelada de combustível |  |\n| g | Quantidade utilizada | Tonelada de combustível |  |\n| h | Energia produzida | Megajoule |  |\n| (^1^)Gás, carvão, lignite, fuel-óleo, biomassa, etc. |  |  |  |"
+  },
+  "6092ef87d96de74c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0001)) JO L 270 de 21.10.2003, p. 114. Regulamento alterado pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0002)) JO L 270 de 21.10.2003, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 118/2005 da Comissão (JO L 24 de 27.1.2005, p. 15).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0003)) JO L 63 de 21.3.1995, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0004)) JO L 79 de 7.4.1995, p. 5. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1413/2001 (JO L 191 de 13.7.2001, p. 8).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0005)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0006)) JO L 102 de 15.4.1976, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0007)) JO L 279 de 20.12.1971, p. 7.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0008)) JO L 123 de 29.5.1972, p. 6.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0009)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/13ce025e-4083-4ddc-8312-c4ad8be81276.0016.03/DOC_1#src.E0010)) JO L 24 de 27.1.2005, p. 15."
+  },
+  "5f2e3e0eacafb4ef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Março de 2005\n\nque estabelece normas de execução do Regulamento (CE) n.º 1786/2003 do Conselho sobre a organização comum do mercado das forragens secas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1786/2003 do Conselho, de 29 de Setembro de 2003, sobre a organização comum do mercado das forragens secas ([^1^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0001)), nomeadamente o artigo 20.º,\n\nTendo em conta o Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001, (CE) n.º 1454/2001, (CE) n.º 1868/94, (CE) n.º 1251/1999, (CE) n.º 1254/1999, (CE) n.º 1673/2000, (CEE) n.º 2358/71 e (CE) n.º 2529/2001 ([^2^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0002)), nomeadamente o n.º 2, segundo parágrafo, do artigo 71.º,\n\n(1) Dado que o Regulamento (CE) n.º 1786/2003 substitui o Regulamento (CE) n.º 603/95 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0003)), há que adoptar novas normas de execução. Por conseguinte, é conveniente revogar o Regulamento (CE) n.º 785/95 da Comissão, de 6 de Abril de 1995, que estabelece normas de execução do Regulamento (CE) n.º 603/95 do Conselho que institui a organização comum de mercado no sector das forragens secas ([^4^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0004)).\n\n(2) Por razões de clareza, convém estabelecer determinadas definições.\n\n(3) Atendendo aos requisitos estabelecidos no artigo 9.º do Regulamento (CE) n.º 1786/2003, é conveniente ter em conta a qualidade mínima dos produtos em causa, expressa em humidade e teor de proteínas. Face aos usos comerciais, é conveniente diferenciar a humidade em função de certos processos de fabrico.\n\n(4) É conveniente excluir do benefício das ajudas previstas no Regulamento (CE) n.º 1786/2003 as forragens provenientes de superfícies para as quais já seja concedida uma ajuda prevista no título IV do Regulamento (CE) n.º 1782/2003.\n\n(5) O Regulamento (CE) n.º 1786/2003 prevê, no artigo 13.º, que os Estados-Membros criem sistemas de inspecção que permitam verificar se cada empresa ou comprador de forragens para desidratar observou as condições estabelecidas no mesmo regulamento. Com vista a facilitar tal inspecção e assegurar a observância das condições que conferem o direito à ajuda, é conveniente prever que as empresas de transformação e os compradores de forragens para desidratar sejam objecto de um processo de aprovação. Com o mesmo objectivo, é conveniente determinar as indicações necessárias que devem constar dos pedidos de ajuda, da contabilidade das existências e das declarações de entrega das empresas de transformação. Por último, é necessário indicar os restantes documentos comprovativos a apresentar.\n\n(6) A observância dos requisitos de qualidade das forragens secas deve ser objecto de controlos rigorosos, baseados na regular colheita de amostras dos produtos acabados que saem da empresa. Em caso de mistura desses produtos com outras matérias, deve ser realizada uma colheita de amostras antes de se proceder à mistura.\n\n(7) A fim de verificar a correspondência entre as quantidades de matérias-primas entregues às empresas e as quantidades de forragens secas delas saídas, é necessário que as mesmas procedam à pesagem sistemática das forragens a transformar e determinem a respectiva humidade.\n\n(8) Para facilitar a comercialização das forragens a transformar e permitir às autoridades competentes a realização dos controlos necessários para verificar o direito à ajuda, é preciso que os contratos celebrados entre as empresas e os agricultores sejam estabelecidos antes da entrega das matérias-primas e apresentados às autoridades competentes antes de uma determinada data, que lhes permita ter conhecimento do volume de produção previsível. Para o efeito, é indispensável que os contratos sejam estabelecidos por escrito e mencionem, nomeadamente, a data de celebração, a campanha de comercialização em causa, os nomes e endereços das partes contratantes, a natureza dos produtos a transformar e a identificação da parcela agrícola em que as forragens a transformar tenham sido cultivadas.\n\n(9) Em certos casos, os contratos não são aplicáveis, devendo ser estabelecidas pelas empresas de transformação declarações de entrega, sujeitas às condições por que se regem os contratos.\n\n(10) Para assegurar a aplicação uniforme do regime de ajuda, é conveniente estatuir as regras de pagamento desta.\n\n(11) O Regulamento (CE) n.º 1786/2003 prevê uma série de controlos a efectuar em cada etapa do processo de produção, incluindo o recurso ao sistema integrado de gestão e de controlo previsto pelo Regulamento (CE) n.º 1782/2003. É, pois, oportuno relacionar os controlos relativos à identificação das parcelas agrícolas em causa com os controlos efectuados no âmbito desse sistema.\n\n(12) Tratando-se de um regime referido no anexo V do Regulamento (CE) n.º 1782/2003, e a fim de evitar qualquer concessão injustificada de ajuda, é conveniente que as autoridades competentes procedam a controlos cruzados das parcelas agrícolas mencionadas nos contratos e/ou declarações de entrega e das declaradas pelos produtores nos seus pedidos de ajuda únicos.\n\n(13) Para assegurar o cumprimento das condições previstas no Regulamento (CE) n.º 1786/2003 e no presente regulamento, nomeadamente no que se refere ao direito à ajuda, e a fim de reprimir os abusos, é conveniente prever certas reduções e exclusões da ajuda, tendo presentes o princípio da proporcionalidade e os problemas específicos resultantes de casos de força maior e de circunstâncias excepcionais. As reduções e exclusões devem ser ponderadas em função da gravidade da irregularidade cometida e podem atingir a exclusão total do benefício da ajuda durante um determinado período.\n\n(14) Para assegurar uma correcta gestão do mercado das forragens secas, é necessário que sejam regularmente transmitidas à Comissão determinadas informações.\n\n(15) A fim de preparar o relatório sobre o sector, previsto para 2008 em conformidade com o artigo 23.º do Regulamento (CE) n.º 1786/2003, convém prever comunicações sobre as superfícies forrageiras e o consumo de energia ligado à produção de forragens secas.\n\n(16) Em conformidade com o artigo 21.º do Regulamento (CE) n.º 1786/2003, é necessário adoptar uma medida transitória relativamente às existências em 31 de Março de 2005.\n\n(17) Em caso de aplicação do período transitório facultativo previsto no artigo 71.º do Regulamento (CE) n.º 1782/2003, devem ser estabelecidas as condições da ajuda referida no mesmo artigo.\n\n(18) O Regulamento (CE) n.º 1786/2003 é aplicável a partir de 1 de Abril de 2005, data do início da campanha de comercialização de 2005/2006. O presente regulamento deve, pois, ser aplicável a partir da mesma data.\n\n(19) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão conjunto dos cereais e dos pagamentos directos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "0b28a585dee96b74": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Forragens secas», os produtos referidos no artigo 1.º do Regulamento (CE) n.º 1786/2003;\n\n2. «Outros produtos forrageiros semelhantes», todos os produtos forrageiros herbáceos que tenham sido submetidos a secagem artificial ao calor, abrangidos pelo código NC 1214 90 90, nomeadamente:\n\n— as leguminosas herbáceas,\n\n— as gramíneas herbáceas,\n\n— os cereais colhidos verdes, com a planta inteira e os grãos imaturos, referidos no anexo IX, ponto I, do Regulamento (CE) n.º 1782/2003;\n\n3. «Empresa de transformação», a empresa de transformação de forragens secas referida no artigo 7.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa;\n\n4. «Comprador de forragens para secar e/ou triturar», a pessoa singular ou colectiva referida na alínea c), subalínea iii), do artigo 10.º do Regulamento (CE) n.º 1786/2003, devidamente aprovada pelo Estado-Membro de que dependa, que compre aos produtores forragens frescas para as entregar às empresas de transformação;\n\n5. «Lote», uma quantidade determinada de forragens de qualidade uniforme quanto à sua composição, humidade e teor de proteínas, saída de uma só vez da empresa de transformação;\n\n6. «Mistura», um produto destinado ao consumo animal que contenha forragens secas, que tenham sido secas e/ou trituradas pela empresa de transformação, e suplementos.\n\n7. «Parcelas agrícolas», as parcelas identificadas em conformidade com o sistema de identificação das parcelas agrícolas do sistema integrado de gestão e de controlo, referido nos artigos 18.º e 20.º do Regulamento (CE) n.º 1782/2003 e no artigo 6.º do Regulamento (CE) n.º 796/2004 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0005));\n\n8. «Pedido de ajuda único», o pedido de ajuda referido no artigo 22.º do Regulamento (CE) n.º 1782/2003 e nos artigos 12.º e 14.º do Regulamento (CE) n.º 796/2004;\n\n9. «Destinatário final de um lote de forragens secas», a última pessoa a receber esse lote na forma que possuía à saída da empresa de transformação, a fim de transformar a forragem seca ou de a utilizar na alimentação animal."
+  },
+  "3e6c75374f257e7d": {
+   "fragment_id": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas\n\n1. A colheita de amostras e a pesagem das forragens secas, previstas no n.º 2 do artigo 13.º do Regulamento (CE) n.º 1786/2003, serão efectuadas pela empresa de transformação aquando da saída das forragens secas da empresa.\n\nNo entanto, sempre que as forragens secas sejam misturadas na empresa de transformação, a colheita de amostras e a pesagem serão realizadas antes das operações de mistura.\n\nNo caso de a mistura ser efectuada antes ou durante a secagem, será colhida uma amostra após a secagem; essa amostra será acompanhada de uma nota que indique tratar-se de uma mistura e que especifique a natureza do suplemento, a sua denominação, o seu teor de matéria azotada total em relação ao extracto seco e a taxa de incorporação no produto acabado.\n\n2. A autoridade competente pode exigir que cada empresa de transformação lhe comunique, com pelo menos dois dias úteis de antecedência, cada saída ou mistura de forragens secas, especificando as respectivas datas e quantidades, de forma a permitir-lhe efectuar qualquer controlo necessário.\n\nA autoridade competente procederá regularmente, no decurso de cada campanha, a colheitas de amostras e a pesagens em relação a, pelo menos, 5 % em peso das forragens secas saídas da empresa e a, pelo menos, 5 % em peso das forragens secas misturadas.\n\n3. [**►M4**](http://publications.europa.eu/resource/celex/32007R1388) A determinação da humidade e do teor de proteínas brutas totais, previstos no artigo 9.º do Regulamento (CE) n.º 1786/2003, será efectuada através da colheita de amostras por quantidades de 110 toneladas, no máximo, em cada lote de forragens secas saídas da empresa de transformação ou nela misturadas, segundo o método definido pelas Directivas 76/371/CEE ([^6^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0006)), 71/393/CEE ([^7^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0007)) e 72/199/CEE ([^8^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0008)) da Comissão.**◄**\n\nEm caso de saída ou de mistura de vários lotes de qualidade uniforme no que respeita à composição em espécies, à humidade e ao teor de proteínas, cujo peso total seja inferior ou igual a 110 toneladas, será colhida uma amostra em cada lote. No entanto, a análise far-se-á com base numa mistura representativa dessas amostras."
+  },
+  "b87cd0ca2f3a0429": {
+   "fragment_id": "Artigo 12.º — Contabilidade das existências das empresas de transformação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Contabilidade das existências das empresas de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contabilidade das existências das empresas de transformação\n\n1. A ajuda prevista no n.º 1 do artigo 86.º do Regulamento (CE) n.º 1234/2007 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0009)) só pode ser concedida às empresas de transformação dos produtos enumerados na parte IV do anexo I do mesmo regulamento que satisfaçam as seguintes condições:\n\na) Manterem uma contabilidade das existências que inclua, pelo menos, as seguintes informações:\n\ni) as quantidades de forragens frescas e, se for caso disso, de forragens secas ao sol, transformadas; todavia, se a situação especial da empresa o exigir, as quantidades podem ser estimadas com base nas superfícies semeadas,\n\nii) as quantidades de forragens secas produzidas e as quantidades (e qualidade) saídas da empresa de transformação;\n\nb) Fornecerem quaisquer outros documentos comprovativos necessários à verificação do direito à ajuda.\n\n2. A contabilidade das existências das empresas de transformação, prevista no n.º 1, é estabelecida em conjunção com a contabilidade financeira e deve permitir um acompanhamento diário:\n\na) Das quantidades de produtos que entram para ser desidratados e/ou triturados, indicando, relativamente a cada recepção:\n\ni) a data de entrada,\n\nii) a quantidade,\n\niii) a ou as espécies referidas na parte IV do anexo I do Regulamento (CE) n.º 1234/2007, no caso das forragens destinadas a desidratação e, se for caso disso, secas ao sol,\n\niv) a humidade verificada nas forragens para desidratar,\n\nv) as referências do contrato e/ou da declaração de entrega previstos nos artigos 14.º ou 15.º do presente regulamento;\n\nb) Das quantidades produzidas e das quantidades de todos os suplementos que possam ter sido utilizados no fabrico;\n\nc) Das quantidades saídas, indicando, para cada lote, a data de saída, a humidade e o teor de proteínas verificados;\n\nd) Das quantidades de forragens secas a título das quais uma empresa de transformação já tenha beneficiado de ajuda e que sejam introduzidas ou reintroduzidas no recinto da empresa;\n\ne) Das existências de forragens secas no final de cada campanha de comercialização;\n\nf) Dos produtos utilizados para mistura ou suplemento às forragens secas e/ou trituradas pela empresa, especificando a sua natureza, denominação, teor de matéria azotada em relação ao extracto seco e taxa de incorporação no produto acabado.\n\n3. As empresas de transformação manterão uma contabilidade das existências separada para todas as categorias de forragens secas previstas na parte IV do anexo I do Regulamento (CE) n.º 1234/2007.\n\n4. Uma empresa de transformação que desidrate ou trate igualmente produtos que não sejam forragens secas manterá uma contabilidade de existências separada para as suas outras actividades de desidratação ou tratamento."
+  },
+  "c4a1d1f3b6c8cf30": {
+   "fragment_id": "Artigo 18.º — Data de apresentação dos pedidos de ajuda",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Data de apresentação dos pedidos de ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Data de apresentação dos pedidos de ajuda\n\n1. Para beneficiar da ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003, a empresa de transformação apresentará um pedido de ajuda relativo às saídas da mesma empresa verificadas durante um determinado mês, o mais tardar 45 dias após o final desse mês.\n\n2. Salvo em caso de força maior ou circunstâncias excepcionais:\n\na) A apresentação de um pedido após o termo do prazo referido no n.º 1 implicará uma redução de 1 % por dia útil dos montantes a que a empresa teria direito se o pedido tivesse sido apresentado atempadamente;\n\nb) Se o atraso for superior a 25 dias, o pedido não é admissível.\n\n3. Em derrogação do n.º 1, nenhum pedido de ajuda a título de uma campanha pode ser apresentado após o dia 30 de Abril seguinte ao termo da mesma, salvo em caso de força maior ou circunstâncias excepcionais."
+  },
+  "2f73617defe55f84": {
+   "fragment_id": "Artigo 35.º — Período transitório facultativo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Período transitório facultativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Período transitório facultativo\n\n1. Os Estados-Membros que apliquem um período transitório facultativo, de acordo com o artigo 71.º do Regulamento (CE) n.º 1782/2003 pagarão às empresas de transformação, para que estas a transfiram para os produtores, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, com base nas quantidades elegíveis a título da campanha de comercialização de 2005/2006.\n\nEsta ajuda é fixada com base nas quantidades potencialmente elegíveis, até ao limite máximo orçamental indicado no anexo IV do Regulamento (CE) n.º 118/2005 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0010)).\n\nPor quantidades potencialmente elegíveis, entende-se a soma das quantidades reconhecidas como elegíveis para a ajuda prevista no artigo 4.º do Regulamento (CE) n.º 1786/2003 durante a campanha de comercialização de 2005/2006 e das quantidades produzidas durante a campanha de comercialização de 2005/2006 que tenham sido objecto de um pedido para beneficiar da referida ajuda na campanha de comercialização de 2006/2007, a título da campanha de comercialização de 2005/2006, assim como, se for caso disso, da ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, em conformidade com o disposto no artigo 34.º-A. Estas quantidades potencialmente elegíveis não incluem as quantidades referidas no artigo 34.º\n\n2. No caso de a empresa de transformação ser abastecida com forragens provenientes de outro Estado-Membro, a ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003, só será paga às empresas de transformação para que estas a transfiram para o produtor se este se encontrar num Estado-Membro que aplique o período transitório facultativo.\n\n3. A ajuda prevista no n.º 2, segundo parágrafo, do artigo 71.º do Regulamento (CE) n.º 1782/2003 será fixada em conformidade com o procedimento referido no n.º 2 do artigo 18.º do Regulamento (CE) n.º 1786/2003.\n\nA ajuda será paga às empresas de transformação no prazo de trinta dias úteis a contar da data em que a Comissão publicar os respectivos montantes no *Jornal Oficial da União Europeia*. Para as quantidades reconhecidas como elegíveis para a ajuda após esta data de publicação, o pagamento será efectuado nos trinta dias úteis seguintes à data do reconhecimento da elegibilidade para ajuda.\n\nAs empresas de transformação transferirão a ajuda para os produtores no prazo de quinze dias úteis após o pagamento pelo Estado-Membro."
+  },
+  "67622370e1584fd3": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | Objecto | Unidade | Quantidade |\n| --- | --- | --- | --- |\n| a | Produção de forragens desidratadas | Tonelada de forragens desidratadas |  |\n| b | Humidade média na entrada | % |  |\n| c | Humidade média na saída | % |  |\n| d | Temperatura média do ar à entrada dos secadores | Grau Celsius |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1388) |  |  |  |\n| e1 | Consumo específico médio | Megajoule por quilograma de forragens desidratadas |  |\n| e2 | Energia utilizada por tonelada de água evaporada | Megajoule por quilograma de água evaporada |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006R0432) |  |  |  |\n| *Preencher por cada tipo de combustível utilizado* [(^1^)](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#E0011): Tipo de combustível: |  |  |  |\n| f | Poder calorífico específico médio | Megajoule por tonelada de combustível |  |\n| g | Quantidade utilizada | Tonelada de combustível |  |\n| h | Energia produzida | Megajoule |  |\n| (^1^)Gás, carvão, lignite, fuel-óleo, biomassa, etc. |  |  |  |"
+  },
+  "d68d36717bc3fb73": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0001)) JO L 270 de 21.10.2003, p. 114. Regulamento alterado pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0002)) JO L 270 de 21.10.2003, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 118/2005 da Comissão (JO L 24 de 27.1.2005, p. 15).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0003)) JO L 63 de 21.3.1995, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0004)) JO L 79 de 7.4.1995, p. 5. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1413/2001 (JO L 191 de 13.7.2001, p. 8).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0005)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0006)) JO L 102 de 15.4.1976, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0007)) JO L 279 de 20.12.1971, p. 7.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0008)) JO L 123 de 29.5.1972, p. 6.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0009)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1#src.E0010)) JO L 24 de 27.1.2005, p. 15."
+  }
+ }
+}

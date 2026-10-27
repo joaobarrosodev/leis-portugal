@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:146059:por
+title: Decreto-Lei n.º 633/70
+short_title: null
+summary: Dá nova redacção aos n.os 1.º e 2.º do artigo 1.º e aos artigos 3.º e 7.º a 13.º da tabela de emolumentos consulares,
+  aprovada pelo Decreto-Lei n.º 46641 - Revoga o disposto no artigo 22.º da referida tabela e os artigos 3.º, 4.º e 5.º do
+  Decreto-Lei n.º 47010
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Serviços Centrais
+proposing_entity: null
+official_number: 633/70
+official_date: null
+publication_date: '1970-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1970, Série I de 1970-12-22
+  number: '295'
+  series: I
+  supplement: null
+  pages: 1922 - 1923
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/12/29500/19221923.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '146059'
+  dre_path: /dr/detalhe/decreto-lei/633-1970-146059
+  internal: pt:dre:146059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1970-146059
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1970-146059
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d97d1b6f50e2437fa4072e1f33b5ddc76b7115b85e02aa36ab73fd013888c7a3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Emolumento Consular
+- TAXA de Câmbio
+relationships:
+- type: amended_by
+  target: pt:dre:613932:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:379968:por
+  label: "Alterados os arts. 1º, 20º e 22º do Dec Lei 46641 de 13-Nov 1965, na redacção do presente diploma, pelo DEC LEI.463/82.1982.11.30.MNE\
+    \ DR.IS [277]\07]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/463-1982-379968
+  date: '1982-11-30'
+- type: amended_by
+  target: pt:dre:613932:por
+  label: Alterados os n.ºs 4 e 7 do art. 1.º da Tabela de Emolumentos Consulares, aprovada pelo Dec Lei 46641 de 13-nov 1965,
+    na redação do diploma, pelo DEC LEI.84/89.23.03.1989.MNE, DR.IS [69] de 23.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1989-613932
+  date: '1989-03-23'
+- type: cites
+  target: pt:dre:472903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511670:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:17:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 633/70
+
+de 22 de Dezembro
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os n.os 1.º e 2.º do artigo 1.º e os artigos 3.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 13.º da tabela de emolumentos consulares, aprovada pelo [Decreto-Lei n.º 46641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46641-1965-511670), de 13 de Novembro de 1965, passam a ter a seguinte redacção:
+
+###### ARTIGO 1.º — 1.º Inscrição ... 25$00
+
+§ único. Será isenta de emolumentos e compensações a primeira inscrição de indivíduos portadores de passaporte de emigrante, qualquer que seja o momento em que se apresentarem a solicitá-la e a de quaisquer outros nacionais até trinta dias após a sua chegada ao país em que se encontram.
+
+2.º Cédula ou certificado de inscrição com validade por cinco anos ... 100$00
+
+###### ARTIGO 3.º
+
+Além do emolumento correspondente a qualquer acto, nenhum outro emolumento será exigido pelo registo do acto, quando este for prescrito. Cobrar-se-á no entanto sempre, a título de compensação pessoal e por cada acto praticado, uma importância equivalente a 30 por cento do emolumento que competir a esse acto, efectuando-se a distribuição do total cobrado àquele título da forma que for determinada por despacho ministerial.
+
+###### ARTIGO 7.º
+
+O tempo de serviço ou expediente ordinário será de seis horas por dia e quanto possível regulado pelos usos locais, excepto ao sábado, em que não ultrapassará três horas. Os titulares ou gerentes dos serviços consulares deverão submeter à Secretaria de Estado, para conhecimento e aprovação, o horário a adoptar.
+
+###### ARTIGO 8.º
+
+Quando o interessado pretender que certo acto se pratique na chancelaria com urgência ou fora das horas de serviço, deverá solicitá-lo por escrito.
+
+###### ARTIGO 9.º
+
+O funcionário consular só poderá prestar o serviço fora das horas de expediente nos dias úteis, ou aos domingos e dias feriados, desde que o acto cuja realização se pretende diga respeito à navegação ou revista um carácter de extrema urgência.
+
+###### ARTIGO 10.º
+
+Pelos actos solicitados nos termos dos artigos 8.º e 9.º serão cobrados emolumentos correspondentes ao dobro dos que normalmente seriam cobrados.
+
+###### ARTIGO 11.º
+
+O interessado que reclamar a presença do funcionário consular para praticar algum acto ou intervir em qualquer diligência que tenha de efectuar-se fora da chancelaria deverá satisfazer prèviamente, além do emolumento e compensação devidos, as despesas de transporte do funcionário consular e de quem tiver indispensàvelmente que o acompanhar.
+
+###### ARTIGO 12.º
+
+O total da compensação cobrada nos termos do artigo 3.º da presente tabela deverá ser mencionado a seguir ao recibo indicado no artigo 20.º da mesma tabela.
+
+###### ARTIGO 13.º
+
+Aos emolumentos correspondentes aos actos passados em impressos fornecidos pelos postos consulares acresce o preço do respectivo impresso, que será fixado pela Secretaria de Estado.
+
+§ único. Por cada prova de fotocópia extraída nas chancelarias consulares será cobrada dos interessados a taxa fixada pela Secretaria de Estado.
+
+Art. 2.º É revogado o disposto no artigo 22.º da tabela de emolumentos consulares e os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 47010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47010-1966-472903), de 16 de Maio de 1966.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício.
+
+Promulgado em 14 de Dezembro de 1970.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

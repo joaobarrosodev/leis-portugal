@@ -1,0 +1,200 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32022R2578:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2578-20240201",
+ "dre_path": null,
+ "source_lastmod": "2024-02-01",
+ "versions": [
+  {
+   "date": "2024-02-01",
+   "future": false,
+   "celex": "02022R2578-20240201",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66801653aadd5b99",
+    "226c39ffd0a88dad",
+    "e87ac208ba891c20",
+    "93416bf6fa1176c1",
+    "ef40c82c4d1cf16f",
+    "f0f8c960bfdbce9b",
+    "31f0fcc27d531500",
+    "9fec3d7f02d027c9",
+    "7d94d3b669b697da",
+    "6f653f5229fb78b1",
+    "25c65eff6263135a",
+    "ba724662ac7db26b",
+    "3f27ba6b7aec25a2",
+    "f44a544a06e0cada",
+    "de7a6019d3394884",
+    "fa973a1c63550bde",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "f57988372b98119d",
+    "707543f3b93bab22"
+   ]
+  }
+ ],
+ "fragments": {
+  "66801653aadd5b99": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de dezembro de 2022\n\nque cria um mecanismo de correção do mercado para proteger os cidadãos da União e a economia de preços excessivamente elevados"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e87ac208ba891c20": {
+   "fragment_id": "OBJETO, ÂMBITO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJETO, ÂMBITO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJETO, ÂMBITO E DEFINIÇÕES"
+  },
+  "93416bf6fa1176c1": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\nO presente regulamento cria um mecanismo temporário de correção do mercado («MCM») para as ordens colocadas para a negociação de derivados de TTF e de derivados ligados a outros pontos de negociação virtual (VTP) nos termos do artigo 95.º, a fim de limitar episódios de preços do gás excessivamente elevados na União, que não refletem os preços do mercado mundial."
+  },
+  "ef40c82c4d1cf16f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n(1) «Derivado do TTF», um derivado de mercadorias, na aceção do artigo 2.º, n.º 1, ponto 30, do Regulamento (UE) n.º 600/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ff2ed646-ba30-11ee-b164-01aa75ed71a1.0021.02/DOC_1#E0001)), negociado num mercado regulamentado, cujo subjacente consiste numa transação no ponto de negociação virtual do Title Transfer Facility (TTF), mercado de transferência de títulos operado pela Gasunie Transport Services B.V.;\n\n(2) «Derivado ligado a outro VTP», um derivado de mercadorias, na aceção do artigo 2.º, n.º 1, ponto 30, do Regulamento (UE) n.º 600/2014, negociado num mercado regulamentado, cujo subjacente consiste numa transação de gás num no ponto de negociação na União;\n\n(3) Pontos de negociação virtual ou «VTP», um ponto comercial não físico dentro de um sistema de entrada-saída em que se realiza a transação de gases entre um vendedor e um comprador sem necessidade de reservar capacidade de transporte ou de distribuição;\n\n(4) «Derivado com vencimento a um mês mais próximo do TTF (front month)», um derivado do TTF cuja data de termo é a mais próxima de entre os derivados com prazo de vencimento de um mês negociados num determinado mercado regulamentado;\n\n(5) «Derivado com vencimento a um ano mais próximo do TTF (front-year)», um derivado do TTF cuja data de termo é a mais próxima de entre os derivados com um prazo de vencimento de doze meses negociados num determinado mercado regulamentado;\n\n(6) «Preço de referência», na medida em que esteja disponível, o preço médio diário determinado:\n\n— pela avaliação do preço do GNL Northwest Europe Marker definida como a média diária do «Daily Spot Nothwest Europe Marker (NWE)», administrado pela Platts Benchmark B.V., Países Baixos, e pela «Northwest Europe des – half-month 2», administrado pela Argus Benchmark Administration B.V., Países Baixos; com uma conversão USD por milhão de unidades térmicas métricas britânicas (MMBTu) em EUR por MWh, com base na taxa de câmbio do euro do Banco Central Europeu («BCE») e numa taxa de conversão de 1 MMBTu para 0,293071 kWh;\n\n— pela avaliação do preço do GNL Mediterranean Marker, definida como a média diária do «Daily Spot Mediterranean Marker (MED)», administrado pela Platts Benchmark B.V., Países Baixos, e a média diária de «Iberian peninsula des – half-month 2», «Italy des – half-month 2» e «Greece des – half-month 2», administrados pela Argus Benchmark Administration B.V., Países Baixos; com uma conversão USD por MMBTu em EUR por MWh, com base na taxa de câmbio do euro do BCEe numa taxa de conversão de 1 MMBTu para 0,293071 kWh;\n\n— pela avaliação do preço do GNL Northeast Asia Marker, definida como a média diária do GNL «Japan/Korea DES 2 Half-Month», administrado pela Platts Benchmark B.V., Países Baixos, e «Northeast Asia des (ANEA) – half-month 2», administrado pela Argus Benchmark Administration B.V., Países Baixos; com uma conversão de USD por milhão de MMBTu em EUR por MWh, com base na taxa de câmbio do euro do BCE e numa taxa de conversão de 1 MMBTu para 0,293071 (kWh);\n\n— pelo preço de liquidação dos derivados com vencimento mais próximo do NBP, publicado pela ICE Futures Europe, Reino Unido; com uma conversão de Sterling pence por termo em EUR por MWh, com base na taxa de câmbio do euro do BCE e numa taxa de conversão de 1 termo para 29,3071(kWh);\n\n— pelas avaliações diárias dos preços realizadas pela ACER nos termos do artigo 18.º do Regulamento (UE) 2022/2576;\n\n7. «Mercado regulamentado», um mercado regulamentado na aceção do artigo 4.º, n.º 1, ponto 21, da Diretiva 2014/65/UE;\n\n8. «Operador de mercado», um operador de mercado na aceção do artigo 4.º, n.º 1, ponto 18, da Diretiva 2014/65/UE."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "31f0fcc27d531500": {
+   "fragment_id": "MECANISMO DE CORREÇÃO DO MERCADO",
+   "type": "divisao",
+   "heading": "MECANISMO DE CORREÇÃO DO MERCADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MECANISMO DE CORREÇÃO DO MERCADO"
+  },
+  "9fec3d7f02d027c9": {
+   "fragment_id": "Artigo 3.º — Acompanhamento do preço",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acompanhamento do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acompanhamento do preço\n\n1. A ACER acompanha constantemente a evolução do preço de referência, do preço de liquidação dos derivados com vencimento a um mês mais próximo do TTF (front-month) e do preço de liquidação de derivados com vencimento a um mês mais próximo (front-month) ligados a outras VTP.\n\n2. Para efeitos do n.o 1, a Platts Benchmark B.V. (Países Baixos) notifica diariamente à ACER, até às [21h00] (hora da Europa Central), as avaliações diárias dos preços do GNL dos seguintes marcadores: «Daily Spot Mediterranean Marker (MED)», «Daily Spot Northwest Europe Marker (NEW)» e «Japan Korea Marker (JKM)».\n\n3. Para efeitos do n.o 1, a Argus Benchmark Administration B.V (Países Baixos) notifica diariamente à ACER, até às 21h00 (hora da Europa Central), as avaliações diárias dos preços do GNL dos seguintes marcadores: «Northwest Europe des – half-month 2», «Iberian peninsula des – half-month 2», «Italy des – half-month 2», «Greece des – half-month 2» e «Northeast Asia des (ANEA) – half-month 2».\n\n4. A ACER calcula diariamente o preço de referência diário com base nas informações recebidas nos termos do n.º 1. A ACER publica diariamente o preço de referência diário no seu sítio Web até às 23h59 (hora da Europa Central)."
+  },
+  "7d94d3b669b697da": {
+   "fragment_id": "Artigo 4.º — Evento de correção do mercado",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Evento de correção do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Evento de correção do mercado\n\n1.\n\nO MCM para o preço de liquidação dos derivados com vencimento a um ano mais próximo do TTF (front-year) é é ativado quando ocorra um evento de correção do mercado. Um evento de correção do mercado ocorre quando o preço de liquidação dos derivados com vencimento mais próximo do TTF, publicado pela ICE Endex B.V., Países Baixos:\n\na) É superior a 180 EUR/MWh durante três dias úteis; e\n\nb) é 35 EUR mais elevado do que o preço de referência durante o período a que se refere a alínea a).\n\n2. Após a adoção do ato de execução referido no artigo 9.º, n.º 1, ocorre também um evento de correção do mercado relacionado com derivados ligados a outros VTP nas condições definidas nesse ato de execução, em conformidade com os critérios previstos no artigo 9.º, n.º 2.\n\n3. Caso constate a ocorrência de um evento de correção do mercado, a ACER publica um aviso respeitante a essa ocorrência («aviso de evento de correção do mercado») no seu sítio Web, de forma clara e visível, o mais tardar às 23h59 (hora da Europa Central) e informa o Conselho, a Comissão, o BCE a ESMA sobre o evento em causa.\n\n4. Os operadores dos mercados no mercado de derivados do TTF e os participantes no mercado de derivados do TTF acompanham diariamente o sítio Web da ACER.\n\n5. A partir do dia seguinte ao da publicação do aviso de evento de correção do mercado, os operadores de mercados não podem aceitar e os participantes no mercado de derivados do TTF não podem apresentar ordens de derivados de TTF que caduquem no período compreendido entre a data de termo dos derivados com vencimento mais próximo do TTF e a data de termo dos derivados com vencimento a um ano mais próximo do TTF, com preços que sejam 35 EUR mais elevados do que o preço de referência publicado pela ACER no dia anterior («limite de licitação dinâmico»). Se o preço de referência for inferior a EUR 145/MWh, o limite de licitação dinâmico mantém-se na soma de 145 EUR e 35 EUR.\n\n6. Após a adoção do ato de execuçãoreferido no do artigo 9.º, n.º 1, é aplicável um limite de licitação dinâmico a derivados ligados a outros VTP nas condições definidas nesse ato de execução, em conformidade com os critérios previstos no artigo 9.º, n.º 2.\n\n7. Uma vez ativado pela ACER, o limite de licitação dinâmico é aplicável durante, pelo menos, [20 dias úteis], a menos que tenha sido suspenso pela Comissão, em conformidade com o artigo 6.º ou desativado em conformidade com o artigo 5.º, n.º 1.\n\n8. A fim de permitir à Comissão suspender rapidamente e se necessário, através de uma decisão de execução, a ativação do MCM pela ACER, em caso de os resultados do acompanhamento realizado pela ACER nos termos do artigo 3.º, n.º 1 do presente regulamento, revelarem indícios concretos de que está iminente um evento de correção do mercado nos termos do artigo 4.º, n.º 1, alínea b), a Comissão convida sem demora o BCE, a ESMA e, se adequado, a Rede Europeia dos Operadores das Redes de Transporte de Gás (REORTG) e o Grupo de Coordenação do Gás criado pelo Regulamento (UE) 2017/1938 a apresentarem uma avaliação do impacto de um eventual evento de correção do mercado na segurança do aprovisionamento, nos fluxos de gás intra-União e na estabilidade financeira. Essa avaliação tem em conta a evolução dos preços noutros mercados organizados importantes, nomeadamente na Ásia ou nos Estados Unidos da América, tal como refletida nas avaliações «Joint Japan Korea Marker» ou «Henry Hub Gas Price Assessment», ambas administradas pela Platts Benchmark B.V. (Países Baixos) e publicadas pela S&P Global Inc., sedeada em Nova Iorque.\n\n9. Depois de avaliar o efeito do limite de licitação dinâmico no consumo de gás e eletricidade e aferir os progressos realizados no cumprimento das metas de redução da procura previstas nos artigos 3.º e 5.º do Regulamento (UE) 2022/1369 e nos artigos 3.º e 4.º do Regulamento (UE) 2022/1854, a Comissão pode igualmente propor uma alteração do Regulamento (UE) 2022/1369 a fim de o adaptar à nova situação.\n\n10. No caso de se verificar um evento de correção do mercado, a Comissão solicita ao BCE, sem demora injustificada, um parecer sobre o risco de perturbações não intencionais para a estabilidade e o bom funcionamento dos mercados de derivados de energia."
+  },
+  "6f653f5229fb78b1": {
+   "fragment_id": "Artigo 5.º — Desativação do MCM",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Desativação do MCM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Desativação do MCM\n\n1. O limite de licitação dinâmico, é desativado 20 dias úteis após o evento de correção do mercado, em conformidade com o artigo 4.º, n.º 5, ou posteriormente, se o preço de referência for inferior a 145 EUR/MWh durante três dias úteis consecutivos.\n\n2. Quando a Comissão declarar uma emergência a nível regional ou da União, nomeadamente em caso de deterioração significativa da situação do aprovisionamento de gás que conduza a uma situação em que o aprovisionamento de gás é insuficiente para satisfazer a restante procura de gás («racionamento»), em conformidade com o artigo 12.º, n.º 1, do Regulamento (UE) 2017/1938, o limite de licitação dinâmico é desativado\n\n3. A ACER publica um aviso no seu sítio Web sem demora e notifica o Conselho, a Comissão, o BCE e a ESMA de que ocorreu um evento de desativação nos termos do n.º 1 («aviso de desativação»)."
+  },
+  "25c65eff6263135a": {
+   "fragment_id": "Artigo 6.º — Suspensão do MCM",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Suspensão do MCM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Suspensão do MCM\n\n1. A ESMA, a ACER, a REORTG e o Grupo de Coordenação do Gás acompanham constantemente os efeitos do limite de licitação dinâmico nos mercados financeiros e de energia e na segurança do aprovisionamento em caso da ativação do MCM.\n\n2.\n\nTendo por base o acompanhamento a que se refere o n.º 1, a Comissão suspende o o MCM («decisão de suspensão») por meio de uma decisão de execução, quando se registarem perturbações não intencionais do mercado, ou riscos manifestos de tais perturbações, que afetem negativamente a segurança do aprovisionamento, os fluxos de gás intra-União ou a estabilidade financeira. Na sua avaliação, a Comissão pondera, nomeadamente, se a ativação doMCM:\n\na) Põe em causa a segurança do aprovisionamento de gás da União; o elemento a ter em conta na avaliação dos riscos para a segurança do aprovisionamento é um potencial desvio significativo de uma das componentes do preço de referência, em relação à tendência histórica e uma diminuição significativa das importações trimestrais de GNL para a União em relação ao mesmo trimestre do ano anterior;\n\nb) Ocorre durante um período em que as metas de redução obrigatória da procura nos termos do artigo 5.º do Regulamento (UE) 2022/1369 não são cumpridas a nível da União, prejudica os progressos alcançados no sentido da consecução da meta de poupança de gás prevista no artigo 3.º do Regulamento (UE) 2022/1369, tendo em conta a necessidade de assegurar que os sinais de preços incentivam a redução da procura, ou conduz a um aumento global do consumo de gás de 15 % num mês ou 10 % em dois meses consecutivos em relação ao respetivo consumo médio nos mesmos meses durante os cinco anos consecutivos anteriores a 1 de fevereiro de 2023, tendo em conta os dados sobre o consumo de gás e a redução da procura que o Estados-Membros comunicam nos termos do artigo 8.º do Regulamento (UE) 2022/1369;\n\nc) Impede fluxos de gás intra-União baseados no mercado, de acordo com os dados do acompanhamento da ACER;\n\nd) Afeta, de acordo com um relatório da ESMA sobre o impacto da do MCM pela ESMA e qualquer parecer do BCE solicitado pela Comissão para o efeito, a estabilidade e o bom funcionamento dos mercados de derivados de energia, em particular; se conduzir a um aumento significativo dos pedidos de margens adicionais ou a uma diminuição das transações de derivados do TTF na União num mês, em relação ao mesmo mês do ano anterior ou a uma mudança significativa das transações de derivados do TTF para instalações comerciais fora da União;\n\ne) Conduz a diferenças substanciais dos preços de mercado do gás nos diferentes mercados organizados em toda a União, bem como noutros mercados organizados pertinentes, nomeadamente na Ásia ou nos Estados Unidos da América, tal como refletidos nas avaliações «Joint Japan Korea Marker» ou «Henry Hub Gas Price Assessment», ambas administradas pela Platts Benchmarks B.V., Países Baixos;\n\nf) Afeta a validade de contratos de fornecimento de gás existentes, incluindo contratos de fornecimento de gás a longo prazo.\n\n3. As decisões de suspensão são adotadas sem demora injustificada e publicadas no *Jornal Oficial da União Europeia*. O limite de licitação dinâmico, deixa de ser aplicável a partir do dia seguinte ao da publicação de uma decisão de suspensão e durante o prazo especificado nessa decisão de suspensão.\n\n4. A ACER, a ESMA, a REORTG e o Grupo de Coordenação do Gás assistem a Comissão na execução das tarefas previstas nos artigos 4.º, 5.º e 6.º. O relatório da ESMA nos termos do n.º 2, alínea d), do presente artigo é publicado o mais tardar 48 horas após um pedido da Comissão ou, em casos urgentes, no próprio dia.\n\n5. No exercício das suas funções nos termos dos artigos 4.º, 5.º e 6.º, a Comissão pode consultar o BCE para pedir o seu parecer sobre qualquer questão relacionada com as suas atribuições nos termos do artigo 127.º, n.º 5, do TFUE, que consistem em contribuir para a boa condução das políticas no que se refere à supervisão prudencial das instituições de crédito e à estabilidade do sistema financeiro."
+  },
+  "ba724662ac7db26b": {
+   "fragment_id": "Artigo 7.º — Sigilo profissional",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sigilo profissional\n\n1. As informações confidenciais recebidas, trocadas e transmitidas ao abrigo do presente regulamento ficam sujeitas às condições de sigilo profissional estabelecidas no presente artigo.\n\n2. Todas as pessoas que trabalhem ou tenham trabalhado por conta da ACER ou para qualquer autoridade, empresa do mercado, pessoa singular ou coletiva na qual a autoridade competente tenha delegado as suas competências, incluindo os auditores ou peritos mandatados por essa autoridade, ficam sujeitas à obrigação de sigilo profissional.\n\n3. As informações abrangidas pelo sigilo profissional não podem ser comunicadas a qualquer outra pessoa ou autoridade, exceto por força de disposições do direito da União ou do direito nacional.\n\n4. Todas as informações trocadas entre as autoridades competentes nos termos do presente regulamento que digam respeito a condições comerciais ou operacionais ou a outros assuntos económicos ou pessoais são consideradas confidenciais e ficam sujeitas ao dever de sigilo profissional, salvo se a autoridade competente declarar, no momento da sua comunicação, que a informação em causa pode ser divulgada, ou se a divulgação for necessária para efeitos de processos judiciais."
+  },
+  "3f27ba6b7aec25a2": {
+   "fragment_id": "Artigo 8.º — Avaliação dos efeitos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Avaliação dos efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação dos efeitos\n\n1. A ESMA e a ACER avaliam os efeitos do MCM nos mercados financeiros e de energia e na segurança do aprovisionamento, mormente a fim de verificar se os principais elementos do MCM continuam a ser adequados à luz da evolução dos mercados financeiros e da energia e à luz da segurança do aprovisionamento.\n\n2. Na avaliação dos efeitos, a ESMA e a ACER efetuam, em especial, uma análise dos critérios previstos no artigo 9.º. A avaliação verifica, nomeadamente, se a limitação aos derivados do TTF conduziu a uma arbitragem por participantes no mercado entre derivados corrigidos e não corrigidos, com impacto negativo nos mercados financeiros ou da energia, e em detrimento dos consumidores.\n\n3.\n\nA ESMA e a ACER também avaliam se:\n\na) a exclusão da negociação no mercado de balcão do âmbito de aplicação do presente regulamento conduziu a mudanças significativas da negociação de derivados do TTF para mercados de balcão, pondo em risco a estabilidade dos mercados financeiros ou da energia;\n\nb) o MCM conduziu a uma diminuição significativa das transações de derivados do TTF na União, a uma mudança significativa da negociação de derivados do TTF para plataformas de negociação fora da União;\n\n4.\n\nAlém disso, a ESMA e a ACER avaliam se é necessário rever os seguintes aspetos:\n\na) os elementos tidos em conta para o preço de referência;\n\nb) as condições previstas no artigo 4.º, n.º 1;\n\nc) o limite de licitação dinâmico.\n\n5. Os relatórios da ESMA e da ACER nos termos do n.º 1 são apresentados à Comissão até 1 de março de 2023. Até 23 de janeiro de 2023, a ESMA e a ACER publicam um relatório de dados preliminar sobre a introdução do MCM."
+  },
+  "f44a544a06e0cada": {
+   "fragment_id": "Artigo 9.º — Alargamento do MCM a derivados ligados a outros VTP",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Alargamento do MCM a derivados ligados a outros VTP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alargamento do MCM a derivados ligados a outros VTP\n\n1. Com base na avaliação a que se refere o artigo 8.º, n.º 1, a Comissão define, até 31 de março de 2023, por meio de um ato de execução, os pormenores técnicos da aplicação do MCM aos derivados ligados a outros VTP, em conformidade com o n.º 2 do presente artigo. Esse ato de execução é adotado nos termos do artigo 11.º, n.º 2.\n\nCaso a aplicação do MCM a derivados ligados a outros VTP tenha efeitos negativos significativos nos mercados financeiros ou do gás, de acordo com os critérios estabelecidos no n.º 2 do presente artigo, a Comissão exclui, excecionalmente, determinados derivados do âmbito de aplicação do MCM.\n\n2.\n\nA Comissão seleciona as modalidades técnicas da execução, bem como os derivados ligados a outros VTP, que possam ter de ser excluídos do âmbito do MCM, nomeadamente com base nos seguintes critérios:\n\na) Disponibilidade de informações sobre os preços dos derivados ligados a outras VTP;\n\nb) A liquidez dos derivados ligados a outros VTP;\n\nc) O impacto do alargamento do MCM a derivados ligados a outros VTP nos fluxos de gás intra-União e na segurança do aprovisionamento;\n\nd) O impacto do alargamento do MCM a derivados ligados a outros VTP na estabilidade dos mercados financeiros, tendo em conta o impacto de eventuais margens adicionais a título de garantia."
+  },
+  "de7a6019d3394884": {
+   "fragment_id": "Artigo 10.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reexame\n\nA Comissão pode, se adequado, propor uma alteração do presente regulamento a fim de incluir os derivados negociados no mercado de balcão no âmbito de aplicação do presente regulamento, ou rever os elementos tidos em conta para o preço de referência, nomeadamente considerando a possibilidade de atribuir a esses elementos uma ponderação diferente, as condições para a ativação do MCM estabelecidas no artigo 4.º, n.º 1, alíneas a) e b), e o limite de licitação dinâmico. Antes de apresentar a referida proposta, a Comissão consulta o BCE, a ESMA, a ACER, a REORTG e o Grupo de Coordenação do Gás e, se adequado, outras partes interessadas."
+  },
+  "fa973a1c63550bde": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité. Esse comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "f57988372b98119d": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor em 1 de fevereiro de 2023. [**►M1**](http://publications.europa.eu/resource/celex/32023R2920) O presente regulamento é aplicável até 31 de janeiro de 2025.**◄**\n\n2. O artigo 4.º é aplicável a partir de 15 de fevereiro de 2023.\n\n3. O artigo 8.º, n.º 2, é aplicável a partir de 1 de janeiro de 2023.\n\n4.\n\nO presente regulamento não se aplica:\n\na) Aos contratos de derivados de TTF celebrados antes de 1 de fevereiro de 2023;\n\nb) À compra e venda de derivados de TTF a fim de compensar ou reduzir os contratos de derivados de TTF celebrados antes de 1 de fevereiro de 2023;\n\nc) À compra e venda de derivados de TTF no âmbito de um processo de gestão de incumprimento de uma CCP, incluindo transações no mercado de balcão registadas pelo mercado regulamentado para efeitos de compensação.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "707543f3b93bab22": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ff2ed646-ba30-11ee-b164-01aa75ed71a1.0021.02/DOC_1#src.E0001)) Regulamento (UE) n. ° 600/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo aos mercados de instrumentos financeiros e que altera o Regulamento (UE) n.° 648/2012 (JO L 173 de 12.6.2014, p. 84)."
+  }
+ }
+}

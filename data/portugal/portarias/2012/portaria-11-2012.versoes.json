@@ -1,0 +1,641 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:477150:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-69963386",
+ "dre_path": "/dr/detalhe/portaria/11-2012-477150",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69963360",
+    "69963361",
+    "69963362",
+    "69963363",
+    "69963364",
+    "69963365",
+    "69963366",
+    "69963367",
+    "69963368",
+    "69963369",
+    "69963370",
+    "69963371",
+    "69963372",
+    "69963373",
+    "69963374",
+    "69964875",
+    "69964876",
+    "69964877",
+    "69964878",
+    "69964879",
+    "69964880",
+    "69964881",
+    "69964882",
+    "69964883",
+    "69964884",
+    "69964885",
+    "69964886",
+    "69964887"
+   ]
+  },
+  {
+   "date": "2015-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69956140:por",
+     "title": "Portaria n.º 231/2015",
+     "published": "2015-08-06",
+     "dre_path": "/dr/detalhe/portaria/231-2015-69956140"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "69963360",
+    "69963361",
+    "69963362",
+    "69963363",
+    "69964888",
+    "69963364",
+    "69964894",
+    "69963366",
+    "69963367",
+    "69963368",
+    "69963369",
+    "69963370",
+    "69963371",
+    "69963372",
+    "69964895",
+    "69963374",
+    "69964875",
+    "69964876",
+    "69964877",
+    "69964878",
+    "69964879",
+    "69964880",
+    "69964881",
+    "69964882",
+    "69964883",
+    "69964896",
+    "69964885",
+    "69964886",
+    "69964887"
+   ]
+  },
+  {
+   "date": "2024-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:839655448:por",
+     "title": "Portaria n.º 27/2024",
+     "published": "2024-01-30",
+     "dre_path": "/dr/detalhe/portaria/27-2024-839655448"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 21.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "69963360",
+    "69963361",
+    "69963362",
+    "69963363",
+    "69964888",
+    "69963364",
+    "839789698",
+    "69963366",
+    "839789699",
+    "69963368",
+    "839789700",
+    "69963370",
+    "839789701",
+    "840370715",
+    "840370716",
+    "840370717",
+    "840370732",
+    "840370733",
+    "840370734",
+    "840370735",
+    "840370736",
+    "840370737",
+    "840370738",
+    "840370747",
+    "840370748",
+    "840370749",
+    "840370750",
+    "840370751",
+    "840370752",
+    "840370753",
+    "840370756",
+    "840370759",
+    "840370760",
+    "840370761"
+   ]
+  }
+ ],
+ "fragments": {
+  "69963360": {
+   "fragment_id": "69963387",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 11/2012\n\nde 11 de janeiro\n\nO Decreto-Lei n.º 98/2011, de 21 de Setembro, definiu a missão e as atribuições do Instituto Português do Desporto e Juventude, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelo Ministro do Estado e das Finanças e pelo Ministro Adjunto e dos Assuntos Parlamentares, o seguinte:"
+  },
+  "69963361": {
+   "fragment_id": "69963388",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os Estatutos do Instituto Português do Desporto e Juventude, I. P., abreviadamente designado por IPDJ, I. P."
+  },
+  "69963362": {
+   "fragment_id": "69963389",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 662-J/2007, de 31 de maio;\n\nb) A Portaria n.º 662-L/2007, de 31 de maio, alterada pela Portaria n.º 1326/2010, de 30 de dezembro."
+  },
+  "69963363": {
+   "fragment_id": "69963390",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "69963364": {
+   "fragment_id": "69963391",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DO INSTITUTO PORTUGUÊS DO DESPORTO E JUVENTUDE, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DO INSTITUTO PORTUGUÊS DO DESPORTO E JUVENTUDE, I. P."
+  },
+  "69963365": {
+   "fragment_id": "69963392",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços do IPDJ, I. P., é constituída pelas seguintes unidades orgânicas de primeiro nível, que se subordinam hierárquica e funcionalmente ao Conselho Diretivo.\n\na) O Departamento de Informação, Comunicação e Relações Internacionais;\n\nb) O Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nc) O Departamento Jurídico e de Auditoria;\n\nd) O Departamento de Desporto;\n\ne) O Departamento de Juventude;\n\nf) O Departamento de Infra-estruturas;\n\ng) O Departamento de Formação e Qualificação;\n\nh) O Departamento de Medicina Desportiva;\n\ni) O Centro Desportivo Nacional do Jamor;\n\nj) O Departamento das Pousadas de Juventude.\n\n2 - Por deliberação do Conselho Diretivo podem ser criadas, modificadas ou extintas unidades orgânicas de segundo nível, integradas ou não em unidades orgânicas de primeiro nível, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n3 - Sem prejuízo do disposto no número anterior, são, desde já, criadas:\n\na) A Divisão de Recursos Humanos, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nb) A Divisão de Recursos Financeiros, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nc) A Divisão de Aprovisionamento e Património, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nd) A Divisão de Desporto Federado, integrada no Departamento de Desporto;\n\ne) A Divisão de Programas, integrada no Departamento de Juventude;\n\nf) A Divisão das Infra-estruturas Desportivas, integrada no Departamento de Infra-estruturas;\n\ng) A Divisão de Infra-estruturas Tecnológicas, integrada no Departamento de Infra-estruturas;\n\nh) A Divisão de Formação em Tecnologias de Informação e Comunicação (TIC), integrada no Departamento de Formação e Qualificação;\n\ni) A delegação do Porto do Departamento de Medicina Desportiva.\n\n4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo de 15, incluindo as referidas no número anterior.\n\n5 - A organização interna do IPDJ, I. P., pode incluir, ainda, até quatro equipas multidisciplinares, criadas por deliberação do Conselho Diretivo, nas áreas de edificação ou reconstrução de espaços desportivos e juvenis do IPDJ, estatísticas e estudos juvenis, bem como investigação e desenvolvimento nas áreas do desporto e juventude, sendo os respetivos chefes de equipa equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.\n\n6 - O IPDJ, I. P., dispõe de serviços territorialmente desconcentrados, com a natureza de unidades orgânicas de primeiro nível, designadas por Direções Regionais, cujo âmbito territorial corresponde ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUT II) do continente.\n\n7 - O IPDJ, I. P., assegura a criação de postos de atendimento locais até um número máximo de sessenta, na dependência das Direções Regionais em que territorialmente se integram, competindo-lhes divulgar os programas e iniciativas públicas nacionais e internacionais dirigidas aos jovens bem como garantir o acesso de proximidade a serviços que contribuem para a sua formação e desenvolvimento."
+  },
+  "69963366": {
+   "fragment_id": "69963393",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - As unidades orgânicas de primeiro nível são dirigidas por diretores e as de segundo nível por chefes de divisão, respetivamente cargos de direção intermédia de 1.º e 2.º graus.\n\n2 - Os serviços territorialmente desconcentrados são dirigidos por Diretores Regionais, cargos de direção intermédia de 1.º grau."
+  },
+  "69963367": {
+   "fragment_id": "69963394",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Informação, Comunicação e Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamento de Informação, Comunicação e Relações Internacionais\n\n1 - O Departamento de Informação, Comunicação, e Relações Internacionais assegura a comunicação interna e externa do IPDJ, I. P.\n\n2 - Ao Departamento de Informação, Comunicação e Relações Internacionais, abreviadamente designado por DICRI, compete:\n\na) Assegurar um serviço de informação direta aos cidadãos sobre a atividade desenvolvida pelo IPDJ, I. P., promovendo a publicação e edição de estudos e trabalhos nas áreas do desporto e da juventude;\n\nb) Executar e acompanhar a política de informação do IPJD, I. P., privilegiando a utilização da rede de pontos locais de atendimento, dos portais do desporto e da juventude e das linhas de apoio telefónico;\n\nc) Apoiar tecnicamente os serviços de âmbito regional na definição e produção de conteúdos;\n\nd) Dinamizar plataformas digitais integradas para reforço das relações interassociativas;\n\ne) Organizar e manter um sistema de monitorização, recolha e sistematização de dados sobre o desporto e a juventude;\n\nf) Assegurar a gestão e acesso ao arquivo histórico, garantindo uma adequada conservação do património documental;\n\ng) Acompanhar a execução da política internacional nas áreas do desporto e da juventude, em articulação com outros departamentos da Administração Pública;\n\nh) Emitir pareceres, quando solicitado, sobre instrumentos de cooperação internacional nos domínios do desporto e da juventude;\n\ni) Apoiar a cooperação externa nas áreas do desporto e da juventude, em especial, com os países da CPLP, bem como da União Europeia e do Conselho da Europa;\n\nj) Dar apoio às Direções Regionais no âmbito dos projetos e ações transfronteiriços;\n\nk) Assegurar a presença do IPDJ, I. P., em feiras, exposições, festivais e outros eventos considerados de interesse para os praticantes desportivos e para os jovens;\n\nl) Incentivar a participação dos jovens na partilha e divulgação de informação, no respeito pelos princípios da Carta Europeia de Informação aos Jovens;\n\nm) Reforçar os laços dos jovens lusodescendentes e da cultura portuguesa;\n\nn) Promover o Dia Internacional da Juventude;\n\no) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963368": {
+   "fragment_id": "69963395",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Recursos Humanos, Financeiros e Patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Recursos Humanos, Financeiros e Patrimoniais\n\n1 - O Departamento de Recursos Humanos, Financeiros e Patrimoniais assegura o apoio administrativo e financeiro aos órgãos e serviços do IPDJ, I. P., bem como a gestão dos recursos humanos, financeiros e patrimoniais no quadro dos objetivos e finalidades do IPDJ, I. P., promovendo a adoção das melhores práticas.\n\n2 - Ao Departamento de Recursos Humanos, Financeiros e Patrimoniais, abreviadamente designado por DRHFP, compete:\n\na) O planeamento e a coordenação dos recursos humanos, financeiros e patrimoniais, de acordo com os objetivos estratégicos e operacionais do IPDJ, I. P.;\n\nb) Em articulação com o Departamento de Comunicação e Relações Internacionais a disponibilização de informação de gestão considerada relevante, para além da que seja legalmente obrigatória a ser divulgada em plataformas informáticas e sítios web, públicos e internos;\n\nc) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963369": {
+   "fragment_id": "69963396",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento Jurídico e de Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento Jurídico e de Auditoria\n\n1 - O Departamento Jurídico e de Auditoria é responsável pela prestação de apoio e assessoria jurídicas, pela coordenação e pelo desenvolvimento e aperfeiçoamento do quadro legal que incida direta e indiretamente no desporto e na juventude, bem como realizar auditorias internas.\n\n2 - Ao Departamento Jurídico e de Auditoria, abreviadamente designado por DJA, compete:\n\na) Prestar assessoria ao Conselho Diretivo;\n\nb) Colaborar na elaboração de diplomas legais;\n\nc) Intervir nos processos judiciais em que o IPDJ, I. P., seja parte;\n\nd) Informar, dar parecer e prestar assessoria nos procedimentos administrativos;\n\ne) Assegurar a organização sistemática de legislação, jurisprudência e doutrina, nacional e estrangeira, de interesse para a atividade do IPDJ, I. P.;\n\nf) Acompanhar os processos de infração e de pré-contencioso instaurados contra o Estado Português, em matérias que envolvam as áreas do desporto e da juventude;\n\ng) Promover a realização de auditorias internas regulares às unidades orgânicas do IPDJ, I. P.;\n\nh) Colaborar e acompanhar as ações externas de controlo efetuadas aos serviços do IPDJ, I. P.;\n\ni) Verificar a conformidade dos estatutos e regulamentos das federações desportivas dotadas do estatuto de utilidade pública desportiva;\n\nj) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963370": {
+   "fragment_id": "69963397",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento de Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento de Desporto\n\n1 - O Departamento de Desporto promove e apoia a prática desportiva regular e de alto rendimento.\n\n2 - Ao Departamento de Desporto, abreviadamente designado por DD, compete:\n\na) Promover a mobilização da população em geral para a prática desportiva;\n\nb) Apoiar, nos termos legais, os clubes de praticantes e as associações promotoras de desporto;\n\nc) Assegurar os procedimentos inerentes ao apoio técnico, material e financeiro ao desenvolvimento de ações no âmbito do desporto, na base de reconhecimento de interesse público;\n\nd) Estimular e apoiar a execução de projetos que tenham como finalidade o reforço da participação das mulheres e dos jovens na prática do desporto;\n\ne) Apoiar a dinamização e operacionalização de projetos de cooperação interssetorial, em especial do desporto escolar e no ensino superior e nas áreas da saúde e da inclusão social;\n\nf) Prestar uma atenção específica ao apoio a atribuir à promoção e desenvolvimento do desporto junto das pessoas com deficiência e da população sénior;\n\ng) Organizar e manter atualizado o registo nacional de pessoas singulares e coletivas, distinguidas por feitos e méritos desportivos;\n\nh) Apoiar, acompanhar e avaliar a execução dos Programas de Preparação Olímpica e Paralímpica;\n\ni) Elaborar e manter atualizada a Carta Desportiva Nacional, assegurando que os dados constantes da mesma são integrados no sistema estatístico nacional;\n\nj) Propor as medidas necessárias para assegurar a articulação horizontal entre o IPDJ, I. P., e os diferentes organismos da Administração Pública e os setores Empresarial e de Inovação e Desenvolvimento;\n\nk) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963371": {
+   "fragment_id": "69963398",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Departamento de Juventude\n\n1 - O Departamento de Juventude assegura a relação com os jovens, as associações juvenis, as associações de estudantes e entidades equiparadas, e grupos informais de jovens ou entidades que desenvolvam atividades para jovens em particular, enquadradas em programas específicos de apoio às suas atividades ou iniciativas, nos termos da lei.\n\n2 - Ao Departamento de Juventude, abreviadamente designado por DJ, compete:\n\na) Coordenar, organizar e manter atualizado o Registo Nacional do Associativismo Jovem (RNAJ);\n\nb) Coordenar e organizar o processo de reconhecimento das Associações Juvenis;\n\nc) Coordenar, organizar e manter atualizado o sítio web oficial de publicação do reconhecimento das associações juvenis;\n\nd) Coordenar os processos de candidatura aos programas de apoio ao associativismo jovem, nomeadamente, os apoios técnicos e financeiros;\n\ne) Gerir e dinamizar o Cartão Jovem, nas suas diversas modalidades;\n\nf) Coordenar e organizar o processo de atribuição do estatuto de dirigente associativo jovem, nos termos da lei;\n\ng) Acompanhar os processos de pedido de declaração de utilidade pública e do Mecenato em sede do Estatuto dos Benefícios Fiscais;\n\nh) Proceder ao controlo e avaliação dos apoios atribuídos no âmbito das competências conferidas;\n\ni) Avaliar, gerir e coordenar a execução dos contratos-programa e das parcerias no âmbito das suas competências;\n\nj) Promover o associativismo como escola de cidadania e de aquisição de competências;\n\nk) Fomentar e apoiar a participação cívica e democrática dos jovens;\n\nl) Promover o Dia do Associativismo Jovem;\n\nm) Acompanhar e organizar o processo de licenciamento de campos de férias e manter atualizado o registo das entidades licenciadas;\n\nn) Propor todas as medidas necessárias para assegurar a articulação horizontal entre o IPDJ, I. P., e os diferentes organismos da Administração Pública;\n\no) Criar, organizar e manter atualizados os registos nacionais de entidades promotoras de voluntariado e empreendedorismo jovem;\n\np) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963372": {
+   "fragment_id": "69963399",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Infra-estruturas\n\n1 - O Departamento de Infra-estruturas é responsável pela gestão, promoção e qualificação do património edificado e das infraestruturas tecnológicas do IPDJ, I. P.\n\n2 - Ao Departamento de Infra-estruturas, abreviadamente designado por DIE, compete:\n\na) Acompanhar a elaboração e execução de projetos relativos às infraestruturas próprias do IPDJ, I. P.;\n\nb) Promover o desenvolvimento de estudos e proceder à escolha e divulgação de informação técnica relevante sobre planeamento, programação, gestão, construção e modernização de infraestruturas da sua propriedade;\n\nc) Elaborar os procedimentos relativos a empreitadas de obras públicas;\n\nd) Prestar apoio técnico a terceiros, designadamente através de pareceres e consultoria técnica no processo de modernização das infraestruturas;\n\ne) Promover, incentivar e apoiar iniciativas de ecossustentabilidade visando a diminuição do consumo de água e energia e a eficiência na gestão de resíduos;\n\nf) Definir os requisitos, apoiar a instalação, garantir o funcionamento, assegurar a gestão e manter atualizadas as infraestruturas informáticas e de comunicações;\n\ng) Elaborar e executar o plano estratégico de sistemas de informação e comunicações na componente do domínio das infraestruturas informáticas e dos sistemas de comunicações associados;\n\nh) Promover a elaboração de estudos e propostas, em articulação com outras autoridades administrativas e com as organizações representativas do sistema desportivo, tendo em vista a melhoria da qualidade das infraestruturas, em especial no domínio da segurança, salubridade e funcionalidade técnico-desportiva;\n\ni) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963373": {
+   "fragment_id": "69963400",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Formação e Qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Departamento de Formação e Qualificação\n\n1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação, nas áreas do desporto, juventude e tecnologias de informação e comunicação.\n\n2 - Ao Departamento de Formação e Qualificação, abreviadamente designado por DFQ, compete:\n\na) Incentivar e apoiar programas e ações que visem assegurar a formação inicial e contínua;\n\nb) Estimular e apoiar a introdução de mecanismos técnicos e científicos que promovam a formação à distância;\n\nc) Homologar cursos de formação profissional e emitir os respetivos certificados de formação;\n\nd) Implementar mecanismos de fiscalização e controlo;\n\ne) Promover e apoiar a organização e realização de conferências, colóquios e seminários ou eventos análogos, no âmbito da formação e qualificação;\n\nf) Promover e reforçar o sistema de cooperação com os estabelecimentos de ensino;\n\ng) Promover e apoiar a execução do Programa Nacional de Formação de Treinadores (PNT), com vista à melhoria das competências e à qualificação destes agentes desportivos;\n\nh) Definir, gerir e concretizar processos formativos, transversalmente às atribuições específicas da área da juventude do IPDJ, I. P., no quadro da educação não formal;\n\ni) Assegurar, no âmbito do Sistema Nacional de Certificação Profissional, um regime de certificação na área do desporto;\n\nj) Assegurar a formação de formadores em associativismo juvenil;\n\nk) Assegurar a formação de uma rede nacional de voluntariado juvenil;\n\nl) Promover e apoiar ações de formação especializadas, nomeadamente na vertente do atendimento a jovens e de animação juvenil;\n\nm) Assegurar a constituição de uma rede nacional de voluntários;\n\nn) Promover a adoção de melhores práticas, em especial o estabelecimento de modelos objetivos de avaliação segundo critérios de mérito, transparência, qualidade e clareza da informação prestada interna ou externamente;\n\no) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69963374": {
+   "fragment_id": "69963401",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Medicina Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento de Medicina Desportiva\n\n1 - O Departamento de Medicina Desportiva presta apoio médico-desportivo aos praticantes desportivos.\n\n2 - Ao Departamento de Medicina Desportiva, abreviadamente designado por DMD, compete:\n\na) Garantir a prestação de cuidados de saúde aos praticantes em regime de alto rendimento e seleções nacionais, bem como acompanhar a sua avaliação funcional e controlo do treino;\n\nb) Definir e aperfeiçoar os critérios de avaliação médico-desportiva para os candidatos à prática desportiva, bem como assegurar a realização de exames de classificação, sempre que solicitados por indicação médica;\n\nc) Dar resposta a outros praticantes desportivos mediante referenciação médica e apoiada em acordos e protocolos a celebrar com entidades e organismos de saúde;\n\nd) Apoiar a formação de profissionais de saúde e do desporto, promovendo a realização de cursos e estágios de aperfeiçoamento nas diferentes áreas da medicina desportiva e do desporto;\n\ne) Colaborar com o Ministério da Saúde e a Ordem dos Médicos no processo de formação e credenciação de especialistas em medicina desportiva;\n\nf) Estabelecer protocolos de investigação com outras instituições no âmbito da medicina desportiva;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n3 - À delegação do Porto compete exercer as competências previstas no número anterior, no âmbito daquela área geográfica."
+  },
+  "69964875": {
+   "fragment_id": "69963402",
+   "type": 11,
+   "heading": "Artigo 11.º — Centro Desportivo Nacional do Jamor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Centro Desportivo Nacional do Jamor\n\n1 - O Centro Desportivo Nacional do Jamor gere as infraestruturas desportivas e a unidade de alojamento que o integram.\n\n2 - Ao Centro Desportivo Nacional do Jamor, abreviadamente designado por CDNJ, compete:\n\na) Assegurar a gestão das instalações desportivas nele integradas, promovendo a melhoria das condições dos serviços de apoio, quer no que respeita às atividades de preparação desportiva dos praticantes em regime de alto rendimento e das seleções nacionais, quer no âmbito da generalização da prática desportiva;\n\nb) Garantir a gestão da unidade de alojamento dos praticantes em regime de alto rendimento e que integram as seleções nacionais, bem como dos agentes desportivos que orientam e conduzem a sua preparação desportiva e participação competitiva;\n\nc) Assegurar o acompanhamento das obras no âmbito das intervenções de modernização e reabilitação das suas instalações, em articulação com o Departamento de Infra-estruturas;\n\nd) Garantir uma adequada qualificação e ordenamento paisagísticos da respetiva zona de intervenção;\n\ne) Apoiar o desenvolvimento das atividades desportivas que possam ter lugar nas instalações desportivas que lhe estão afetas;\n\nf) Propor a adoção de programas que visem a promoção e desenvolvimento da prática desportiva inclusiva;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964876": {
+   "fragment_id": "69963403",
+   "type": 11,
+   "heading": "Artigo 12.º — Departamento de Pousadas de Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Departamento de Pousadas de Juventude\n\n1 - O Departamento de Pousadas de Juventude assegura a gestão e coordenação das estruturas que compõem a rede nacional de turismo juvenil.\n\n2 - Ao Departamento de Pousadas de Juventude, abreviadamente designado por DPJ, compete:\n\na) Gerir, administrar e conservar as infraestruturas da sua propriedade ou outras cuja exploração tenha contratado, bem como as infraestruturas que lhe sejam afetas para a prossecução dos seus fins, em articulação com o Departamento de Infra-estruturas;\n\nb) Propor acordos de cedência ou concessão de exploração, com entidades públicas ou privadas, relativos às unidades de alojamento integrantes da rede nacional;\n\nc) Assegurar a prestação de serviços, no âmbito do seu objeto, a entidades públicas ou privadas;\n\nd) Definir as orientações comerciais e de nível de serviço a prestar pelas unidades de alojamento integrantes da rede nacional;\n\ne) Analisar e dar parecer sobre propostas de entidades públicas ou privadas que queiram integrar a rede nacional de turismo juvenil;\n\nf) Assegurar o regular funcionamento e atualização de conteúdos dos sítios web ou plataformas informáticas da Rede de Pousadas, em articulação com a Divisão de Infra-estruturas Tecnológicas;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964877": {
+   "fragment_id": "69963404",
+   "type": 11,
+   "heading": "Artigo 13.º — Divisão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Divisão de Recursos Humanos\n\nÀ Divisão de Recursos Humanos, abreviadamente designada por DRH, compete:\n\na) Elaborar os instrumentos de gestão dos recursos humanos, nomeadamente o mapa anual de pessoal e o balanço social;\n\nb) Elaborar os projetos de regulação normativa no âmbito da gestão dos recursos humanos;\n\nc) Promover os atos de gestão relativos à admissão, contratação, promoção e cessação de funções do pessoal;\n\nd) Promover a qualificação profissional do pessoal, bem como elaborar o plano anual de formação e assegurar a sua execução;\n\ne) Assegurar a aplicação do sistema integrado de gestão e avaliação do desempenho na Administração Pública;\n\nf) Assegurar o cumprimento da legislação e da regulamentação vigentes sobre segurança e saúde no trabalho;\n\ng) Assegurar a expedição e a receção do expediente, bem como elaborar e promover normas e procedimentos de boa gestão e conservação arquivística e documental;\n\nh) Assegurar o planeamento, organização e coordenação do serviço cívico dos objetores de consciência;\n\ni) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964878": {
+   "fragment_id": "69963405",
+   "type": 11,
+   "heading": "Artigo 14.º — Divisão de Recursos Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Divisão de Recursos Financeiros\n\nÀ Divisão de Recursos Financeiros, abreviadamente designada por DRF, compete:\n\na) Preparar a proposta de orçamento, elaborar a conta de gerência e os relatórios de execução orçamental;\n\nb) Assegurar a gestão financeira, bem como a contabilidade geral, analítica e de tesouraria;\n\nc) Garantir a arrecadação da receita e o processamento e liquidação da despesa, numa ótica de legalidade e regularidade financeira;\n\nd) Assegurar o acompanhamento da execução dos planos anuais e plurianuais numa perspetiva de gestão e controlo orçamental;\n\ne) Assegurar a existência de adequados sistemas de controlo interno;\n\nf) Assegurar a afetação dos recursos financeiros aos serviços, tendo em vista a execução do plano de atividades aprovado;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964879": {
+   "fragment_id": "69963406",
+   "type": 11,
+   "heading": "Artigo 15.º — Divisão de Aprovisionamento e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Divisão de Aprovisionamento e Património\n\nÀ Divisão de Aprovisionamento e Património, abreviadamente designada por DAP, compete:\n\na) Elaborar os procedimentos relativos à aquisição de bens e serviços, bem como garantir o cumprimento das demais obrigações decorrentes da contratação pública;\n\nb) Assegurar a gestão dos contratos, das existências bem como a respetiva logística, nomeadamente do economato;\n\nc) Assegurar a gestão do inventário e cadastro do património móvel e imóvel do IPDPJ, I. P.;\n\nd) Garantir a segurança dos equipamentos e das instalações próprias e afetas;\n\ne) Assegurar a gestão e manutenção da frota automóvel;\n\nf) Articular com as Direções Regionais todos os procedimentos necessários ao cumprimento da legislação e regulamentação aplicável à área da contratação pública, com vista à sua boa execução;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964880": {
+   "fragment_id": "69963407",
+   "type": 11,
+   "heading": "Artigo 16.º — Divisão de Desporto Federado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divisão de Desporto Federado\n\nÀ Divisão de Desporto Federado, abreviadamente designada por DDF, compete:\n\na) Instruir os processos relativos ao apoio técnico, material e financeiro a conceder no âmbito do desporto federado;\n\nb) Apoiar a preparação e a participação dos praticantes desportivos, designadamente dos praticantes desportivos em regime de alto rendimento e das seleções nacionais, nas principais competições internacionais;\n\nc) Promover e apoiar a organização de eventos desportivos, em obediência a critérios de relevância desportiva e social e de sustentabilidade económica, subordinando, em particular, os apoios financeiros à aprovação prévia e expressa do IPDJ, I. P.;\n\nd) Organizar e manter atualizado o registo nacional de federações desportivas, clubes e demais entidades com intervenção na área do desporto;\n\ne) Organizar e manter atualizado o registo nacional de pessoas singulares ou coletivas, distinguidas por feitos e méritos desportivos;\n\nf) Garantir uma permanente articulação com as entidades públicas e privadas que desenvolvam ações no âmbito do desporto federado;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964881": {
+   "fragment_id": "69963408",
+   "type": 11,
+   "heading": "Artigo 17.º — Divisão de Programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divisão de Programas\n\n1 - A Divisão de Programas assegura a coordenação e a gestão dos programas e projetos do IPDJ, I. P., dirigidos aos jovens.\n\n2 - À Divisão de Programas, abreviadamente designada por DP, compete:\n\na) Promover a implementação de programas e projetos dirigidos aos jovens, nomeadamente, no âmbito da cidadania, ocupação de tempos livres, promoção de estilos de vida saudáveis, prevenção e segurança rodoviárias, voluntariado, mobilidade e intercâmbio, saúde, cultura, ambiente e empreendedorismo e assegurar a coordenação dos programas e projetos do IPDJ, I. P.;\n\nb) Propor a criação de programas e projetos dirigidos aos jovens, que proporcionem a sua emancipação, autonomia e independência, nomeadamente o acesso à habitação;\n\nc) Promover a realização de parcerias com entidades públicas ou privadas no âmbito de programas a realizar;\n\nd) Acompanhar o desenvolvimento e execução dos programas junto das Direções Regionais e dos serviços desconcentrados;\n\ne) Divulgar, promover e aprofundar as melhores práticas, em especial na gestão de programas, no contexto do associativismo;\n\nf) Proceder ao controlo e avaliação dos apoios atribuídos no âmbito das competências conferidas;\n\ng) Incentivar a participação dos jovens em organizações, iniciativas e programas nacionais, comunitários e internacionais;\n\nh) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964882": {
+   "fragment_id": "69963409",
+   "type": 11,
+   "heading": "Artigo 18.º — Divisão das Infra-estruturas Desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Divisão das Infra-estruturas Desportivas\n\nÀ Divisão das Infra-estruturas Desportivas, abreviadamente designada por DIED, compete:\n\na) Promover a conservação, gestão e manutenção dos equipamentos e instalações do IPDJ, I. P., ou que lhe estejam afetos;\n\nb) Analisar, acompanhar e dar parecer sobre os programas e planos de ordenamento do território em matéria de infraestruturas desportivas, no quadro da promoção e desenvolvimento de redes de equipamentos e serviços desportivos;\n\nc) Organizar e manter atualizados, em base de dados, registos de informação respeitantes à segurança de infraestruturas desportivas, bem como das licenças emitidas e condições de funcionamento dos recintos desportivos;\n\nd) Promover e coordenar a elaboração do cadastro e o registo de dados e indicadores, para efeitos de caracterização do parque de infraestruturas desportivas nacional, em articulação com os serviços responsáveis pelos restantes fatores de desenvolvimento desportivo, no âmbito da elaboração da Carta Desportiva Nacional;\n\ne) Valorizar as zonas de implantação das infraestruturas desportivas e de acolhimento para os jovens em especial, em articulação com as entidades públicas locais e regionais;\n\nf) Exercer, relativamente às infraestruturas, as atribuições legalmente conferidas ao IPDJ, I. P., incluindo a coordenação e acompanhamento dos procedimentos de vistoria e licenciamento nos casos previstos na lei;\n\ng) Acompanhar, no quadro da cooperação técnica e financeira, os programas de intervenção em infraestruturas desportivas, designadamente no âmbito dos contratos-programa celebrados entre o IPDJ, I. P., e outras entidades;\n\nh) Assegurar a gestão das infraestruturas desportivas, promovendo a melhoria das condições dos serviços de apoio ao desenvolvimento da prática desportiva;\n\ni) Participar na transposição de normas e especificações técnicas europeias e internacionais, no âmbito do Sistema Nacional de Qualidade e do Comité Europeu de Normalização (CEN), aplicáveis a infraestruturas desportivas, assegurando a sua divulgação e adoção generalizadas;\n\nj) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964883": {
+   "fragment_id": "69963410",
+   "type": 11,
+   "heading": "Artigo 19.º — Divisão de Infra-estruturas Tecnológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Divisão de Infra-estruturas Tecnológicas\n\nÀ Divisão de Infra-estruturas Tecnológicas, abreviadamente designada por DIET, compete:\n\na) Assegurar a operacionalização e integração do sistema de informação e comunicações do IPDJ, I. P., otimizando os recursos tecnológicos disponíveis;\n\nb) Gerir o sistema de informação e comunicações do IPDJ, I. P., de forma integrada, assegurando transversalmente a componente técnica especializada no domínio das infraestruturas informáticas e dos sistemas de comunicações associados;\n\nc) Promover e afetar recursos para a componente de Inovação e Desenvolvimento;\n\nd) Garantir a atualização técnica dos recursos humanos do IPDJ, I. P., através de ações de formação contínua específicas;\n\ne) Organizar e manter atualizado um inventário dos meios informáticos, de comunicação e da rede de utilizadores, de forma integrada com o inventário geral dos bens e instalações do IPDJ, I. P.;\n\nf) Apoiar os utilizadores no uso das tecnologias de informação e comunicação;\n\ng) Participar na realização das ações necessárias à racionalização, simplificação e modernização dos circuitos administrativos e de suporte de informação com recurso às novas tecnologias de informação;\n\nh) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964884": {
+   "fragment_id": "69963411",
+   "type": 11,
+   "heading": "Artigo 20.º — Divisão de Formação em Tecnologias de Informação e Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divisão de Formação em Tecnologias de Informação e Comunicação\n\n1 - A Divisão de Formação em TIC promove a difusão dos conhecimentos técnicos e científicos, em particular os que respeitam às TIC, visando contribuir para o reforço da generalização da utilização das TIC.\n\n2 - À Divisão de Formação em TIC, abreviadamente designada por DFTIC, compete:\n\na) Divulgar, de uma forma extensiva e sistemática, o conhecimento das tecnologias da informação, na perspetiva da sua imediata aplicação às necessidades da comunidade envolvente;\n\nb) Proporcionar o acesso às tecnologias da informação e comunicação, estimulando a procura científico-tecnológica;\n\nc) Promover ações de formação e informação;\n\nd) Articular com as direções regionais a atividade dos centros de formação em tecnologias de informação;\n\ne) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964885": {
+   "fragment_id": "69963412",
+   "type": 11,
+   "heading": "Artigo 21.º — Direções Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direções Regionais\n\n1 - As Direções Regionais asseguram e acompanham as atividades desenvolvidas e apoiadas pelo IPDJ, I. P., a nível regional, em estreita colaboração com os serviços da Sede.\n\n2 - Compete às Direções Regionais:\n\na) Garantir uma permanente articulação com as demais entidades públicas e privadas, singulares ou coletivas que, na respetiva área de atuação, desenvolvem ações no âmbito do desporto e da juventude;\n\nb) Promover e monitorizar o estabelecimento de indicadores sobre a situação do desporto e da juventude, ao nível regional, permitindo uma melhor deteção das necessidades das populações em matéria de desporto e atividade associativa juvenil;\n\nc) Proceder ao estabelecimento de registos, em base de dados, de agentes e organismos desportivos, de associações juvenis e estudantis, bem como de infraestruturas desportivas, procedendo à sua atualização regular e divulgação pública;\n\nd) Executar as medidas necessárias ao desenvolvimento, concretização e gestão dos programas destinados aos jovens, em articulação com parceiros ao nível local, e de acordo com as orientações dos serviços centrais;\n\ne) Assegurar as ações de formação integradas nos projetos dinamizados pelo IPDJ, I. P., para o desenvolvimento de competências em novas tecnologias, na área geográfica da sua intervenção;\n\nf) Assegurar o controlo e o acompanhamento das lojas e postos da juventude, responsáveis principais pelo relacionamento presencial com os jovens e seus representantes, complementando os serviços por estes prestados e apoiando o respetivo funcionamento e gestão;\n\ng) Propor a criação de programas regionais nas áreas do desporto e da juventude;\n\nh) Zelar pela representação institucional, bem como promover a imagem do IPDJ, I. P., na respetiva área geográfica;\n\ni) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "69964886": {
+   "fragment_id": "69963413",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselhos Consultivos Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conselhos Consultivos Regionais\n\n1 - Junto de cada Direção Regional funciona o respetivo Conselho Consultivo Regional (CCR), que é a estrutura representativa da realidade associativa desportiva e juvenil da região.\n\n2 - Ao CCR cabe apresentar propostas, sugestões ou recomendações sobre as ações, iniciativas e programas promovidos pelo IPDJ, I. P., no âmbito da respetiva região.\n\n3 - O CCR tem a seguinte composição:\n\na) O Diretor Regional do IPDJ, I. P., que preside;\n\nb) Um representante designado pelas federações distritais de associações de jovens inscritas no RNAJ;\n\nc) Um representante designado pelas Associações de Estudantes do Ensino Superior;\n\nd) Um representante designado pelas Associações de Estudantes do Ensino Básico e Secundário;\n\ne) Um representante designado pelas Associações Distritais de Desporto Federado;\n\nf) Um representante designado pelas Associações Distritais de Desporto não Federado;\n\ng) Um representante designado pelas Associações Distritais de Municípios.\n\n4 - O CCR reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo Diretor Regional, ou a pedido de um terço dos seus membros.\n\n5 - O CCR elabora o seu regulamento interno."
+  },
+  "69964887": {
+   "fragment_id": "69963414",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\nO Departamento referido no artigo 12.º e a Divisão referida no artigo 20.º iniciam a sua atividade após a conclusão do processo de dissolução da MOVIJOVEM, CIPRL, e da extinção da Fundação para o Desenvolvimento das Tecnologias de informação (FDTI)."
+  },
+  "69964888": {
+   "fragment_id": "69963415",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 9 de janeiro de 2012.\n\nO Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas."
+  },
+  "69964894": {
+   "fragment_id": "69963392",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2015-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços do IPDJ, I. P., é constituída pelas seguintes unidades orgânicas de primeiro nível, que se subordinam hierárquica e funcionalmente ao Conselho Diretivo.\n\na) O Departamento de Informação, Comunicação e Relações Internacionais;\n\nb) O Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nc) O Departamento Jurídico e de Auditoria;\n\nd) O Departamento de Desporto;\n\ne) O Departamento de Juventude;\n\nf) O Departamento de Infra-estruturas;\n\ng) O Departamento de Formação e Qualificação;\n\nh) O Departamento de Medicina Desportiva;\n\ni) O Centro Desportivo Nacional do Jamor;\n\nj) Revogada.\n\n2 - Por deliberação do Conselho Diretivo podem ser criadas, modificadas ou extintas unidades orgânicas de segundo nível, integradas ou não em unidades orgânicas de primeiro nível, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n3 - Sem prejuízo do disposto no número anterior, são, desde já, criadas:\n\na) A Divisão de Recursos Humanos, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nb) A Divisão de Recursos Financeiros, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nc) A Divisão de Aprovisionamento e Património, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nd) A Divisão de Desporto Federado, integrada no Departamento de Desporto;\n\ne) A Divisão de Programas, integrada no Departamento de Juventude;\n\nf) A Divisão das Infra-estruturas Desportivas, integrada no Departamento de Infra-estruturas;\n\ng) A Divisão de Infra-estruturas Tecnológicas, integrada no Departamento de Infra-estruturas;\n\nh) Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao conselho diretivo;\n\ni) A delegação do Porto do Departamento de Medicina Desportiva.\n\n4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo de 15, incluindo as referidas no número anterior.\n\n5 - A organização interna do IPDJ, I. P., pode incluir, ainda, até quatro equipas multidisciplinares, criadas por deliberação do Conselho Diretivo, nas áreas de edificação ou reconstrução de espaços desportivos e juvenis do IPDJ, estatísticas e estudos juvenis, bem como investigação e desenvolvimento nas áreas do desporto e juventude, sendo os respetivos chefes de equipa equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.\n\n6 - O IPDJ, I. P., dispõe de serviços territorialmente desconcentrados, com a natureza de unidades orgânicas de primeiro nível, designadas por Direções Regionais, cujo âmbito territorial corresponde ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUT II) do continente.\n\n7 - O IPDJ, I. P., assegura a criação de postos de atendimento locais até um número máximo de sessenta, na dependência das Direções Regionais em que territorialmente se integram, competindo-lhes divulgar os programas e iniciativas públicas nacionais e internacionais dirigidas aos jovens bem como garantir o acesso de proximidade a serviços que contribuem para a sua formação e desenvolvimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+  },
+  "69964895": {
+   "fragment_id": "69963400",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Formação e Qualificação",
+   "in_force_from": "2015-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+   ],
+   "markdown": "###### Artigo 9.º — Departamento de Formação e Qualificação\n\n1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação, nas áreas do desporto e juventude.\n\n2 - Ao Departamento de Formação e Qualificação, abreviadamente designado por DFQ, compete:\n\na) Incentivar e apoiar programas e ações que visem assegurar a formação inicial e contínua;\n\nb) Estimular e apoiar a introdução de mecanismos técnicos e científicos que promovam a formação à distância;\n\nc) Homologar cursos de formação profissional e emitir os respetivos certificados de formação;\n\nd) Implementar mecanismos de fiscalização e controlo;\n\ne) Promover e apoiar a organização e realização de conferências, colóquios e seminários ou eventos análogos, no âmbito da formação e qualificação;\n\nf) Promover e reforçar o sistema de cooperação com os estabelecimentos de ensino;\n\ng) Promover e apoiar a execução do Programa Nacional de Formação de Treinadores (PNT), com vista à melhoria das competências e à qualificação destes agentes desportivos;\n\nh) Definir, gerir e concretizar processos formativos, transversalmente às atribuições específicas da área da juventude do IPDJ, I. P., no quadro da educação não formal;\n\ni) Assegurar, no âmbito do Sistema Nacional de Certificação Profissional, um regime de certificação na área do desporto;\n\nj) Assegurar a formação de formadores em associativismo juvenil;\n\nk) Assegurar a formação de uma rede nacional de voluntariado juvenil;\n\nl) Promover e apoiar ações de formação especializadas, nomeadamente na vertente do atendimento a jovens e de animação juvenil;\n\nm) Assegurar a constituição de uma rede nacional de voluntários;\n\nn) Promover a adoção de melhores práticas, em especial o estabelecimento de modelos objetivos de avaliação segundo critérios de mérito, transparência, qualidade e clareza da informação prestada interna ou externamente;\n\no) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+  },
+  "69964896": {
+   "fragment_id": "69963411",
+   "type": 11,
+   "heading": "Artigo 20.º — Divisão de Modernização Administrativa e Desenvolvimento Organizacional",
+   "in_force_from": "2015-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+   ],
+   "markdown": "###### Artigo 20.º — Divisão de Modernização Administrativa e Desenvolvimento Organizacional\n\nÀ Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao Conselho Diretivo, abreviadamente designada por DMADO, compete:\n\na) Avaliar, planear, coordenar, acompanhar e executar ações e medidas efetivas de simplificação e modernização administrativa, que permitam obter mais ampla racionalização dos circuitos e processos de trabalho administrativo com vista à racionalização e à modernização do IPDJ, I. P.;\n\nb) Alinhar os projetos com os objetivos organizacionais, procurando a sua gestão integrada;\n\nc) Promover a utilização de metodologias inovadoras de gestão pública, estimulando a transversalidade entre as unidades orgânicas e a colaboração em projetos inovadores;\n\nd) Incentivar e acompanhar a inovação organizacional em prol da melhoria do desempenho do IPDJ, I. P., nomeadamente através do apoio à definição de estratégias de organização, estrutura interna e funcionamento dos serviços;\n\ne) Participar na definição da política de qualidade;\n\nf) Apoiar o conselho diretivo na conceção e implementação de políticas e estratégias para as áreas de sistemas de informação, atendimento e relação com o utente, modernização administrativa, envolvimento dos cidadãos e transparência;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo conselho diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+  },
+  "839789698": {
+   "fragment_id": "69963392",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços do IPDJ, I. P., é constituída pelas seguintes unidades orgânicas de primeiro nível, que se subordinam hierárquica e funcionalmente ao Conselho Diretivo.\n\na) O Departamento de Informação, Comunicação e Relações Internacionais;\n\nb) O Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nc) O Departamento Jurídico;\n\nd) O Departamento de Desporto;\n\ne) O Departamento de Políticas de Juventude e Associativismo;\n\nf) O Departamento de Programas de Juventude;\n\ng) O Departamento de Infra-estruturas;\n\nh) O Departamento de Formação e Qualificação;\n\ni) O Departamento de Fiscalização e Auditoria;\n\nj) Revogada.\n\nk) O Departamento de Medicina Desportiva;\n\nl) O Centro Desportivo Nacional do Jamor.\n\n2 - Por deliberação do Conselho Diretivo podem ser criadas, modificadas ou extintas unidades orgânicas de segundo nível, integradas ou não em unidades orgânicas de primeiro nível, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n3 - Sem prejuízo do disposto no número anterior, são, desde já, criadas:\n\na) A Divisão de Recursos Humanos, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nb) A Divisão de Recursos Financeiros, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nc) A Divisão de Aprovisionamento e Património, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;\n\nd) A Divisão de Contraordenações e Contencioso, integrada no Departamento Jurídico;\n\ne) A Divisão de Desporto Federado, integrada no Departamento de Desporto;\n\nf) A Divisão de Programas, integrada no Departamento de Programas de Juventude;\n\ng) A Divisão das Infra-estruturas Desportivas, integrada no Departamento de Infra-estruturas;\n\nh) A Divisão de Infra-estruturas Tecnológicas, integrada no Departamento de Infra-estruturas;\n\ni) Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao conselho diretivo;\n\nj) A Delegação do Porto do Departamento de Medicina Desportiva, integrada no Departamento de Medicina Desportiva;\n\nk) A Divisão de Programas Sociais Norte e Centro, integrada no Departamento de Programas de Juventude;\n\nl) A Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas, integrada no Departamento de Programas de Juventude.\n\n4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo de 18, incluindo as referidas no número anterior.\n\n5 - A organização interna do IPDJ, I. P., pode incluir, ainda, até quatro equipas multidisciplinares, criadas por deliberação do Conselho Diretivo, nas áreas de desenvolvimento e prossecução de políticas, programas, planos e iniciativas relacionadas com os temas de direitos humanos, integridade no desporto, capacitação dos tecidos associativos desportivo e jovem, bem como de investigação, estatística e análise de dados nos setores do desporto e juventude, sendo os respetivos chefes de equipa equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.\n\n6 - O IPDJ, I. P., dispõe de serviços territorialmente desconcentrados, com a natureza de unidades orgânicas de primeiro nível, designadas por Direções Regionais, cujo âmbito territorial corresponde ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUT II) do continente.\n\n7 - O IPDJ, I. P., assegura a gestão de um sistema de atendimento multicanal, podendo criar postos de atendimento locais até um número máximo de 60, preferencialmente na dependência das Direções Regionais em que territorialmente se integram, com o objetivo de divulgar os programas e iniciativas públicas nacionais e internacionais no âmbito das suas atribuições, bem como garantir o acesso de proximidade a serviços que contribuem para a formação e desenvolvimento dos jovens.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+  },
+  "839789699": {
+   "fragment_id": "69963394",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Informação, Comunicação e Relações Internacionais",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 3.º — Departamento de Informação, Comunicação e Relações Internacionais\n\n1 - O Departamento de Informação, Comunicação, e Relações Internacionais assegura a comunicação interna e externa do IPDJ, I. P.\n\n2 - Ao Departamento de Informação, Comunicação e Relações Internacionais, abreviadamente designado por DICRI, compete:\n\na) Assegurar um serviço de informação direta aos cidadãos sobre a atividade desenvolvida pelo IPDJ, I. P., promovendo a publicação e edição de estudos e trabalhos nas áreas do desporto e da juventude;\n\nb) Executar e acompanhar a política de informação do IPJD, I. P., privilegiando a utilização da rede de pontos locais de atendimento, dos portais do desporto e da juventude e das linhas de apoio telefónico;\n\nc) Apoiar tecnicamente os serviços de âmbito regional na definição e produção de conteúdos;\n\nd) Dinamizar plataformas digitais integradas para reforço das relações interassociativas;\n\ne) Organizar e manter um sistema de monitorização, recolha e sistematização de dados sobre o desporto e a juventude;\n\nf) Assegurar a gestão e acesso ao arquivo histórico, garantindo uma adequada conservação do património documental;\n\ng) Acompanhar a execução da política internacional nas áreas do desporto e da juventude, em articulação com outros departamentos da Administração Pública;\n\nh) Emitir pareceres, quando solicitado, sobre instrumentos de cooperação internacional nos domínios do desporto e da juventude;\n\ni) Apoiar a cooperação externa nas áreas do desporto e da juventude, em especial, com os países da CPLP, bem como da União Europeia e do Conselho da Europa;\n\nj) Dar apoio às Direções Regionais no âmbito dos projetos e ações transfronteiriços;\n\nk) Assegurar a presença do IPDJ, I. P., em feiras, exposições, festivais e outros eventos considerados de interesse para os praticantes desportivos e para os jovens;\n\nl) (Revogada.)\n\nm) Reforçar os laços dos jovens lusodescendentes e da cultura portuguesa;\n\nn) (Revogada.)\n\no) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "839789700": {
+   "fragment_id": "69963396",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento Jurídico",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento Jurídico\n\n1 - O Departamento Jurídico é responsável pela prestação de apoio e assessoria jurídica e pela coordenação, desenvolvimento e aperfeiçoamento do quadro legal que regule direta ou indiretamente as áreas do desporto e da juventude.\n\n2 - Ao Departamento Jurídico, abreviadamente designado por DJ, compete:\n\na) Prestar assessoria ao Conselho Diretivo;\n\nb) Colaborar na elaboração de diplomas legais;\n\nc) Intervir nos processos judiciais em que o IPDJ, I. P., seja parte;\n\nd) Informar, dar parecer e prestar assessoria nos procedimentos administrativos;\n\ne) Assegurar a organização sistemática de legislação, jurisprudência e doutrina, nacional e estrangeira, de interesse para a atividade do IPDJ, I. P.;\n\nf) Acompanhar os processos de infração e de pré-contencioso que envolvam as áreas do desporto e da juventude;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) Verificar a conformidade dos estatutos e regulamentos das federações desportivas dotadas do estatuto de utilidade pública desportiva;\n\nj) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "839789701": {
+   "fragment_id": "69963398",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Políticas de Juventude e Associativismo",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 7.º — Departamento de Políticas de Juventude e Associativismo\n\n1 - O Departamento de Políticas de Juventude e Associativismo assegura a relação com as demais entidades que contribuam para o desenvolvimento de políticas de juventude, assim como com os jovens, as associações juvenis, as associações de estudantes e entidades equiparadas, e grupos informais de jovens ou entidades que desenvolvam atividades para jovens em particular, enquadradas em programas específicos de apoio às suas atividades ou iniciativas, nos termos do Regime Jurídico do Associativismo Jovem.\n\n2 - Ao Departamento de Políticas de Juventude e Associativismo, abreviadamente designado por DPJA, compete:\n\na) Coordenar, organizar e manter atualizado o Registo Nacional do Associativismo Jovem (RNAJ);\n\nb) Coordenar e organizar o processo de reconhecimento das Associações Juvenis;\n\nc) Coordenar, organizar e manter atualizado o sítio web oficial de publicação do reconhecimento das associações juvenis;\n\nd) Coordenar os processos de candidatura aos programas de apoio ao associativismo jovem, nomeadamente, os apoios técnicos e financeiros;\n\ne) Acompanhar a dinamização do Cartão Jovem, nas suas diversas modalidades;\n\nf) Coordenar e organizar o processo de atribuição do estatuto de dirigente associativo jovem, nos termos da lei;\n\ng) Acompanhar os processos de pedido de declaração de utilidade pública e do Mecenato em sede do Estatuto dos Benefícios Fiscais;\n\nh) Proceder ao controlo e avaliação dos apoios atribuídos no âmbito das competências conferidas;\n\ni) Avaliar, gerir e coordenar a execução dos protocolos, contratos-programa e parcerias a estabelecer no âmbito das suas competências;\n\nj) Promover o associativismo como escola de cidadania e de aquisição de competências;\n\nk) Fomentar e apoiar a participação cívica e democrática dos jovens;\n\nl) Promover o Dia do Associativismo Jovem;\n\nm) (Revogada.)\n\nn) Propor todas as medidas necessárias para assegurar a articulação horizontal entre o IPDJ, I. P., e os diferentes organismos da Administração Pública;\n\no) (Revogada.)\n\np) Promover o Dia Internacional da Juventude;\n\nq) Incentivar a participação dos jovens na partilha e divulgação de informação, no respeito pelos princípios da Carta Europeia de Informação aos Jovens;\n\nr) Promover e apoiar ações de formação especializadas, nomeadamente na vertente do atendimento a jovens e de animação juvenil;\n\ns) Definir, gerir e concretizar processos formativos, transversalmente às atribuições específicas da área da juventude do IPDJ, I. P., no quadro da educação não formal;\n\nt) Assegurar a formação de formadores em associativismo juvenil;\n\nu) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "840370715": {
+   "fragment_id": "840370647",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Departamento de Programas de Juventude",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 7.º-A — Departamento de Programas de Juventude\n\n1 - O Departamento de Programas de Juventude assegura o desenvolvimento e execução de programas na área da juventude, através da relação com jovens e entidades parceiras que desenvolvam atividades e projetos.\n\n2 - Ao Departamento de Programas de Juventude, abreviadamente designado por DPJ, compete, nomeadamente:\n\na) Assegurar a relação com os jovens e as entidades que desenvolvam atividades e projetos para jovens;\n\nb) Proceder ao controlo e avaliação dos apoios atribuídos no âmbito das competências conferidas;\n\nc) Avaliar, gerir e coordenar a execução dos protocolos e das parcerias no âmbito das suas competências;\n\nd) Assegurar a formação de uma rede nacional de voluntariado juvenil;\n\ne) Acompanhar e organizar o processo de licenciamento de campos de férias e manter atualizado o registo das entidades licenciadas;\n\nf) Criar, organizar e manter atualizados os registos nacionais de entidades promotoras de voluntariado e empreendedorismo jovem;\n\ng) Desenvolver estratégias de intervenção no âmbito do Programa Escolhas que visem combater o insucesso escolar, valorizando o papel dos estabelecimentos de ensino enquanto agentes de socialização e de promoção da mobilidade social numa ótica de maior proximidade com a comunidade;\n\nh) Promover o apoio científico e técnico para uma avaliação global do Programa Escolhas;\n\ni) Monitorizar a atribuição de apoios financeiros no âmbito do Programa Escolhas;\n\nj) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "840370716": {
+   "fragment_id": "69963399",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Infra-estruturas\n\n1 - O Departamento de Infra-estruturas é responsável pela gestão, promoção e qualificação do património edificado e das infraestruturas tecnológicas do IPDJ, I. P.\n\n2 - Ao Departamento de Infra-estruturas, abreviadamente designado por DIE, compete:\n\na) Acompanhar a elaboração e execução de projetos relativos às infraestruturas próprias do IPDJ, I. P.;\n\nb) Promover o desenvolvimento de estudos e proceder à escolha e divulgação de informação técnica relevante sobre planeamento, programação, gestão, construção e modernização de infraestruturas da sua propriedade;\n\nc) Elaborar os procedimentos relativos a empreitadas de obras públicas;\n\nd) Prestar apoio técnico a terceiros, designadamente através de pareceres e consultoria técnica no processo de modernização das infraestruturas;\n\ne) Promover, incentivar e apoiar iniciativas de ecossustentabilidade visando a diminuição do consumo de água e energia e a eficiência na gestão de resíduos;\n\nf) Definir os requisitos, apoiar a instalação, garantir o funcionamento, assegurar a gestão e manter atualizadas as infraestruturas informáticas e de comunicações;\n\ng) Elaborar e executar o plano estratégico de sistemas de informação e comunicações na componente do domínio das infraestruturas informáticas e dos sistemas de comunicações associados;\n\nh) Promover a elaboração de estudos e propostas, em articulação com outras autoridades administrativas e com as organizações representativas do sistema desportivo, tendo em vista a melhoria da qualidade das infraestruturas, em especial no domínio da segurança, salubridade e funcionalidade técnico-desportiva;\n\ni) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370717": {
+   "fragment_id": "69963400",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Formação e Qualificação",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+   ],
+   "markdown": "###### Artigo 9.º — Departamento de Formação e Qualificação\n\n1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação na área do desporto.\n\n2 - Ao Departamento de Formação e Qualificação, abreviadamente designado por DFQ, compete:\n\na) Incentivar e apoiar programas e ações que visem assegurar a formação inicial e contínua;\n\nb) Estimular e apoiar a introdução de mecanismos técnicos e científicos que promovam a formação à distância;\n\nc) Homologar cursos de formação profissional e emitir os respetivos certificados de formação;\n\nd) Implementar mecanismos de fiscalização e controlo;\n\ne) Promover e apoiar a organização e realização de conferências, colóquios e seminários ou eventos análogos, no âmbito da formação e qualificação;\n\nf) Promover e reforçar o sistema de cooperação com os estabelecimentos de ensino;\n\ng) Promover e apoiar a execução do Programa Nacional de Formação de Treinadores (PNT), com vista à melhoria das competências e à qualificação destes agentes desportivos;\n\nh) (Revogada.)\n\ni) Assegurar, no âmbito do Sistema Nacional de Certificação Profissional, um regime de certificação na área do desporto;\n\nj) (Revogada.)\n\nk) (Revogada.)\n\nl) (Revogada.)\n\nm) (Revogada.)\n\nn) Promover a adoção de melhores práticas, em especial o estabelecimento de modelos objetivos de avaliação segundo critérios de mérito, transparência, qualidade e clareza da informação prestada interna ou externamente;\n\no) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+  },
+  "840370732": {
+   "fragment_id": "840370648",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Departamento de Fiscalização e Auditoria",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 9.º-A — Departamento de Fiscalização e Auditoria\n\n1 - O Departamento de Fiscalização e Auditoria compreende e prossegue a ação de fiscalização e auditoria no âmbito das competências do Instituto.\n\n2 - Ao Departamento de Fiscalização e Auditoria, abreviadamente designado por DFA, compete, nomeadamente:\n\na) Exercer as competências de fiscalização das sociedades desportivas, nomeadamente mediante a realização de inquéritos, inspeções, sindicâncias e auditorias;\n\nb) Executar e instruir todas as ações de auditoria, fiscalização e inspeção, sindicância e inquéritos que por lei estejam cometidas ao IPDJ, I. P.;\n\nc) Elaborar e submeter a deliberação do Conselho Diretivo as propostas finais resultantes da execução e instrução das ações prosseguidas;\n\nd) Elaborar o plano anual de fiscalizações, auditorias, inspeções, sindicâncias e inquéritos ordinários;\n\ne) Propor a execução de fiscalizações extraordinárias que possam resultar de queixas ou denúncias;\n\nf) Analisar, informar e propor o encaminhamento das denúncias recebidas;\n\ng) Gerir o Portal das Denúncias;\n\nh) Elaborar o relatório de atividades de execução anual;\n\ni) Organizar, coordenar e gerir toda a informação necessária ao cumprimento das ações fiscalizadoras e inspetivas a realizar;\n\nj) Proceder a atividades de controlo interno, em estreita articulação com o Departamento de Recursos Humanos, Financeiros e Patrimoniais, de modo a avaliar a organização, funcionamento, fiabilidade e qualidade dos sistemas de controlo, tendo em vista a identificação de problemas e a formulação de recomendações;\n\nk) Desenvolver um sistema interno de gestão de risco;\n\nl) Preparar dados estatísticos e informação no domínio do controlo interno;\n\nm) Elaborar, gerir e executar um programa de auditorias internas da qualidade;\n\nn) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "840370733": {
+   "fragment_id": "69963401",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Medicina Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento de Medicina Desportiva\n\n1 - O Departamento de Medicina Desportiva presta apoio médico-desportivo aos praticantes desportivos.\n\n2 - Ao Departamento de Medicina Desportiva, abreviadamente designado por DMD, compete:\n\na) Garantir a prestação de cuidados de saúde aos praticantes em regime de alto rendimento e seleções nacionais, bem como acompanhar a sua avaliação funcional e controlo do treino;\n\nb) Definir e aperfeiçoar os critérios de avaliação médico-desportiva para os candidatos à prática desportiva, bem como assegurar a realização de exames de classificação, sempre que solicitados por indicação médica;\n\nc) Dar resposta a outros praticantes desportivos mediante referenciação médica e apoiada em acordos e protocolos a celebrar com entidades e organismos de saúde;\n\nd) Apoiar a formação de profissionais de saúde e do desporto, promovendo a realização de cursos e estágios de aperfeiçoamento nas diferentes áreas da medicina desportiva e do desporto;\n\ne) Colaborar com o Ministério da Saúde e a Ordem dos Médicos no processo de formação e credenciação de especialistas em medicina desportiva;\n\nf) Estabelecer protocolos de investigação com outras instituições no âmbito da medicina desportiva;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n3 - À delegação do Porto compete exercer as competências previstas no número anterior, no âmbito daquela área geográfica."
+  },
+  "840370734": {
+   "fragment_id": "69963402",
+   "type": 11,
+   "heading": "Artigo 11.º — Centro Desportivo Nacional do Jamor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Centro Desportivo Nacional do Jamor\n\n1 - O Centro Desportivo Nacional do Jamor gere as infraestruturas desportivas e a unidade de alojamento que o integram.\n\n2 - Ao Centro Desportivo Nacional do Jamor, abreviadamente designado por CDNJ, compete:\n\na) Assegurar a gestão das instalações desportivas nele integradas, promovendo a melhoria das condições dos serviços de apoio, quer no que respeita às atividades de preparação desportiva dos praticantes em regime de alto rendimento e das seleções nacionais, quer no âmbito da generalização da prática desportiva;\n\nb) Garantir a gestão da unidade de alojamento dos praticantes em regime de alto rendimento e que integram as seleções nacionais, bem como dos agentes desportivos que orientam e conduzem a sua preparação desportiva e participação competitiva;\n\nc) Assegurar o acompanhamento das obras no âmbito das intervenções de modernização e reabilitação das suas instalações, em articulação com o Departamento de Infra-estruturas;\n\nd) Garantir uma adequada qualificação e ordenamento paisagísticos da respetiva zona de intervenção;\n\ne) Apoiar o desenvolvimento das atividades desportivas que possam ter lugar nas instalações desportivas que lhe estão afetas;\n\nf) Propor a adoção de programas que visem a promoção e desenvolvimento da prática desportiva inclusiva;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370735": {
+   "fragment_id": "69963403",
+   "type": 11,
+   "heading": "Artigo 12.º — Departamento de Pousadas de Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Departamento de Pousadas de Juventude\n\n1 - O Departamento de Pousadas de Juventude assegura a gestão e coordenação das estruturas que compõem a rede nacional de turismo juvenil.\n\n2 - Ao Departamento de Pousadas de Juventude, abreviadamente designado por DPJ, compete:\n\na) Gerir, administrar e conservar as infraestruturas da sua propriedade ou outras cuja exploração tenha contratado, bem como as infraestruturas que lhe sejam afetas para a prossecução dos seus fins, em articulação com o Departamento de Infra-estruturas;\n\nb) Propor acordos de cedência ou concessão de exploração, com entidades públicas ou privadas, relativos às unidades de alojamento integrantes da rede nacional;\n\nc) Assegurar a prestação de serviços, no âmbito do seu objeto, a entidades públicas ou privadas;\n\nd) Definir as orientações comerciais e de nível de serviço a prestar pelas unidades de alojamento integrantes da rede nacional;\n\ne) Analisar e dar parecer sobre propostas de entidades públicas ou privadas que queiram integrar a rede nacional de turismo juvenil;\n\nf) Assegurar o regular funcionamento e atualização de conteúdos dos sítios web ou plataformas informáticas da Rede de Pousadas, em articulação com a Divisão de Infra-estruturas Tecnológicas;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370736": {
+   "fragment_id": "69963404",
+   "type": 11,
+   "heading": "Artigo 13.º — Divisão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Divisão de Recursos Humanos\n\nÀ Divisão de Recursos Humanos, abreviadamente designada por DRH, compete:\n\na) Elaborar os instrumentos de gestão dos recursos humanos, nomeadamente o mapa anual de pessoal e o balanço social;\n\nb) Elaborar os projetos de regulação normativa no âmbito da gestão dos recursos humanos;\n\nc) Promover os atos de gestão relativos à admissão, contratação, promoção e cessação de funções do pessoal;\n\nd) Promover a qualificação profissional do pessoal, bem como elaborar o plano anual de formação e assegurar a sua execução;\n\ne) Assegurar a aplicação do sistema integrado de gestão e avaliação do desempenho na Administração Pública;\n\nf) Assegurar o cumprimento da legislação e da regulamentação vigentes sobre segurança e saúde no trabalho;\n\ng) Assegurar a expedição e a receção do expediente, bem como elaborar e promover normas e procedimentos de boa gestão e conservação arquivística e documental;\n\nh) Assegurar o planeamento, organização e coordenação do serviço cívico dos objetores de consciência;\n\ni) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370737": {
+   "fragment_id": "69963405",
+   "type": 11,
+   "heading": "Artigo 14.º — Divisão de Recursos Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Divisão de Recursos Financeiros\n\nÀ Divisão de Recursos Financeiros, abreviadamente designada por DRF, compete:\n\na) Preparar a proposta de orçamento, elaborar a conta de gerência e os relatórios de execução orçamental;\n\nb) Assegurar a gestão financeira, bem como a contabilidade geral, analítica e de tesouraria;\n\nc) Garantir a arrecadação da receita e o processamento e liquidação da despesa, numa ótica de legalidade e regularidade financeira;\n\nd) Assegurar o acompanhamento da execução dos planos anuais e plurianuais numa perspetiva de gestão e controlo orçamental;\n\ne) Assegurar a existência de adequados sistemas de controlo interno;\n\nf) Assegurar a afetação dos recursos financeiros aos serviços, tendo em vista a execução do plano de atividades aprovado;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370738": {
+   "fragment_id": "69963406",
+   "type": 11,
+   "heading": "Artigo 15.º — Divisão de Aprovisionamento e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Divisão de Aprovisionamento e Património\n\nÀ Divisão de Aprovisionamento e Património, abreviadamente designada por DAP, compete:\n\na) Elaborar os procedimentos relativos à aquisição de bens e serviços, bem como garantir o cumprimento das demais obrigações decorrentes da contratação pública;\n\nb) Assegurar a gestão dos contratos, das existências bem como a respetiva logística, nomeadamente do economato;\n\nc) Assegurar a gestão do inventário e cadastro do património móvel e imóvel do IPDPJ, I. P.;\n\nd) Garantir a segurança dos equipamentos e das instalações próprias e afetas;\n\ne) Assegurar a gestão e manutenção da frota automóvel;\n\nf) Articular com as Direções Regionais todos os procedimentos necessários ao cumprimento da legislação e regulamentação aplicável à área da contratação pública, com vista à sua boa execução;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370747": {
+   "fragment_id": "840370649",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Divisão de Contraordenações e Contencioso",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 15.º-A — Divisão de Contraordenações e Contencioso\n\n1 - À Divisão de Contraordenações e Contencioso, abreviadamente designada por DCC, compete, nomeadamente:\n\na) Responder a todas as solicitações pré-contenciosas, tais como as resultantes de sinistros no CDNJ, pedidos indemnizatórios, cumprimento e incumprimento de contratos, protocolos, cumprimento de programas e de apoios ao associativismo jovem, e contenciosas;\n\nb) Informar e acompanhar os processos de contraordenação em que o IPDJ, I. P., seja parte;\n\nc) Instruir e propor decisão nos processos de contraordenação da competência do IPDJ, I. P.;\n\nd) Informar e acompanhar os processos em fase de recurso e de execução;\n\ne) Acompanhar o processo de liquidação de coimas;\n\nf) Gerir a plataforma das contraordenações;\n\ng) Acompanhar os processos judiciais em que o IPDJ, I. P., seja parte;\n\nh) Instruir os inquéritos e processos disciplinares internos.\n\n2 - São ainda da competência da Divisão de Contraordenações e Contencioso todas as matérias que lhe sejam atribuídas por deliberação do Conselho Diretivo, bem como pelo diretor do Departamento Jurídico no âmbito das suas competências.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "840370748": {
+   "fragment_id": "69963407",
+   "type": 11,
+   "heading": "Artigo 16.º — Divisão de Desporto Federado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divisão de Desporto Federado\n\nÀ Divisão de Desporto Federado, abreviadamente designada por DDF, compete:\n\na) Instruir os processos relativos ao apoio técnico, material e financeiro a conceder no âmbito do desporto federado;\n\nb) Apoiar a preparação e a participação dos praticantes desportivos, designadamente dos praticantes desportivos em regime de alto rendimento e das seleções nacionais, nas principais competições internacionais;\n\nc) Promover e apoiar a organização de eventos desportivos, em obediência a critérios de relevância desportiva e social e de sustentabilidade económica, subordinando, em particular, os apoios financeiros à aprovação prévia e expressa do IPDJ, I. P.;\n\nd) Organizar e manter atualizado o registo nacional de federações desportivas, clubes e demais entidades com intervenção na área do desporto;\n\ne) Organizar e manter atualizado o registo nacional de pessoas singulares ou coletivas, distinguidas por feitos e méritos desportivos;\n\nf) Garantir uma permanente articulação com as entidades públicas e privadas que desenvolvam ações no âmbito do desporto federado;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370749": {
+   "fragment_id": "69963408",
+   "type": 11,
+   "heading": "Artigo 17.º — Divisão de Programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divisão de Programas\n\n1 - A Divisão de Programas assegura a coordenação e a gestão dos programas e projetos do IPDJ, I. P., dirigidos aos jovens.\n\n2 - À Divisão de Programas, abreviadamente designada por DP, compete:\n\na) Promover a implementação de programas e projetos dirigidos aos jovens, nomeadamente, no âmbito da cidadania, ocupação de tempos livres, promoção de estilos de vida saudáveis, prevenção e segurança rodoviárias, voluntariado, mobilidade e intercâmbio, saúde, cultura, ambiente e empreendedorismo e assegurar a coordenação dos programas e projetos do IPDJ, I. P.;\n\nb) Propor a criação de programas e projetos dirigidos aos jovens, que proporcionem a sua emancipação, autonomia e independência, nomeadamente o acesso à habitação;\n\nc) Promover a realização de parcerias com entidades públicas ou privadas no âmbito de programas a realizar;\n\nd) Acompanhar o desenvolvimento e execução dos programas junto das Direções Regionais e dos serviços desconcentrados;\n\ne) Divulgar, promover e aprofundar as melhores práticas, em especial na gestão de programas, no contexto do associativismo;\n\nf) Proceder ao controlo e avaliação dos apoios atribuídos no âmbito das competências conferidas;\n\ng) Incentivar a participação dos jovens em organizações, iniciativas e programas nacionais, comunitários e internacionais;\n\nh) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370750": {
+   "fragment_id": "69963409",
+   "type": 11,
+   "heading": "Artigo 18.º — Divisão das Infra-estruturas Desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Divisão das Infra-estruturas Desportivas\n\nÀ Divisão das Infra-estruturas Desportivas, abreviadamente designada por DIED, compete:\n\na) Promover a conservação, gestão e manutenção dos equipamentos e instalações do IPDJ, I. P., ou que lhe estejam afetos;\n\nb) Analisar, acompanhar e dar parecer sobre os programas e planos de ordenamento do território em matéria de infraestruturas desportivas, no quadro da promoção e desenvolvimento de redes de equipamentos e serviços desportivos;\n\nc) Organizar e manter atualizados, em base de dados, registos de informação respeitantes à segurança de infraestruturas desportivas, bem como das licenças emitidas e condições de funcionamento dos recintos desportivos;\n\nd) Promover e coordenar a elaboração do cadastro e o registo de dados e indicadores, para efeitos de caracterização do parque de infraestruturas desportivas nacional, em articulação com os serviços responsáveis pelos restantes fatores de desenvolvimento desportivo, no âmbito da elaboração da Carta Desportiva Nacional;\n\ne) Valorizar as zonas de implantação das infraestruturas desportivas e de acolhimento para os jovens em especial, em articulação com as entidades públicas locais e regionais;\n\nf) Exercer, relativamente às infraestruturas, as atribuições legalmente conferidas ao IPDJ, I. P., incluindo a coordenação e acompanhamento dos procedimentos de vistoria e licenciamento nos casos previstos na lei;\n\ng) Acompanhar, no quadro da cooperação técnica e financeira, os programas de intervenção em infraestruturas desportivas, designadamente no âmbito dos contratos-programa celebrados entre o IPDJ, I. P., e outras entidades;\n\nh) Assegurar a gestão das infraestruturas desportivas, promovendo a melhoria das condições dos serviços de apoio ao desenvolvimento da prática desportiva;\n\ni) Participar na transposição de normas e especificações técnicas europeias e internacionais, no âmbito do Sistema Nacional de Qualidade e do Comité Europeu de Normalização (CEN), aplicáveis a infraestruturas desportivas, assegurando a sua divulgação e adoção generalizadas;\n\nj) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370751": {
+   "fragment_id": "69963410",
+   "type": 11,
+   "heading": "Artigo 19.º — Divisão de Infra-estruturas Tecnológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Divisão de Infra-estruturas Tecnológicas\n\nÀ Divisão de Infra-estruturas Tecnológicas, abreviadamente designada por DIET, compete:\n\na) Assegurar a operacionalização e integração do sistema de informação e comunicações do IPDJ, I. P., otimizando os recursos tecnológicos disponíveis;\n\nb) Gerir o sistema de informação e comunicações do IPDJ, I. P., de forma integrada, assegurando transversalmente a componente técnica especializada no domínio das infraestruturas informáticas e dos sistemas de comunicações associados;\n\nc) Promover e afetar recursos para a componente de Inovação e Desenvolvimento;\n\nd) Garantir a atualização técnica dos recursos humanos do IPDJ, I. P., através de ações de formação contínua específicas;\n\ne) Organizar e manter atualizado um inventário dos meios informáticos, de comunicação e da rede de utilizadores, de forma integrada com o inventário geral dos bens e instalações do IPDJ, I. P.;\n\nf) Apoiar os utilizadores no uso das tecnologias de informação e comunicação;\n\ng) Participar na realização das ações necessárias à racionalização, simplificação e modernização dos circuitos administrativos e de suporte de informação com recurso às novas tecnologias de informação;\n\nh) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370752": {
+   "fragment_id": "69963411",
+   "type": 11,
+   "heading": "Artigo 20.º — Divisão de Modernização Administrativa e Desenvolvimento Organizacional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+   ],
+   "markdown": "###### Artigo 20.º — Divisão de Modernização Administrativa e Desenvolvimento Organizacional\n\nÀ Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao Conselho Diretivo, abreviadamente designada por DMADO, compete:\n\na) Avaliar, planear, coordenar, acompanhar e executar ações e medidas efetivas de simplificação e modernização administrativa, que permitam obter mais ampla racionalização dos circuitos e processos de trabalho administrativo com vista à racionalização e à modernização do IPDJ, I. P.;\n\nb) Alinhar os projetos com os objetivos organizacionais, procurando a sua gestão integrada;\n\nc) Promover a utilização de metodologias inovadoras de gestão pública, estimulando a transversalidade entre as unidades orgânicas e a colaboração em projetos inovadores;\n\nd) Incentivar e acompanhar a inovação organizacional em prol da melhoria do desempenho do IPDJ, I. P., nomeadamente através do apoio à definição de estratégias de organização, estrutura interna e funcionamento dos serviços;\n\ne) Participar na definição da política de qualidade;\n\nf) Apoiar o conselho diretivo na conceção e implementação de políticas e estratégias para as áreas de sistemas de informação, atendimento e relação com o utente, modernização administrativa, envolvimento dos cidadãos e transparência;\n\ng) Assegurar as demais funções que lhe sejam cometidas pelo conselho diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 231/2015 - Diário da República n.º 152/2015, Série I de 2015-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/231-2015-69956140), em vigor a partir de 2015-08-07"
+  },
+  "840370753": {
+   "fragment_id": "69963412",
+   "type": 11,
+   "heading": "Artigo 21.º — Direções Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direções Regionais\n\n1 - As Direções Regionais asseguram e acompanham as atividades desenvolvidas e apoiadas pelo IPDJ, I. P., a nível regional, em estreita colaboração com os serviços da Sede.\n\n2 - Compete às Direções Regionais:\n\na) Garantir uma permanente articulação com as demais entidades públicas e privadas, singulares ou coletivas que, na respetiva área de atuação, desenvolvem ações no âmbito do desporto e da juventude;\n\nb) Promover e monitorizar o estabelecimento de indicadores sobre a situação do desporto e da juventude, ao nível regional, permitindo uma melhor deteção das necessidades das populações em matéria de desporto e atividade associativa juvenil;\n\nc) Proceder ao estabelecimento de registos, em base de dados, de agentes e organismos desportivos, de associações juvenis e estudantis, bem como de infraestruturas desportivas, procedendo à sua atualização regular e divulgação pública;\n\nd) Executar as medidas necessárias ao desenvolvimento, concretização e gestão dos programas destinados aos jovens, em articulação com parceiros ao nível local, e de acordo com as orientações dos serviços centrais;\n\ne) Assegurar as ações de formação integradas nos projetos dinamizados pelo IPDJ, I. P., para o desenvolvimento de competências em novas tecnologias, na área geográfica da sua intervenção;\n\nf) Assegurar o controlo e o acompanhamento das lojas e postos da juventude, responsáveis principais pelo relacionamento presencial com os jovens e seus representantes, complementando os serviços por estes prestados e apoiando o respetivo funcionamento e gestão;\n\ng) Propor a criação de programas regionais nas áreas do desporto e da juventude;\n\nh) Zelar pela representação institucional, bem como promover a imagem do IPDJ, I. P., na respetiva área geográfica;\n\ni) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo."
+  },
+  "840370756": {
+   "fragment_id": "840370650",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Divisão de Programas Sociais Norte e Centro",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 21.º-A — Divisão de Programas Sociais Norte e Centro\n\nÀ Divisão de Programas Sociais Norte e Centro compete, nomeadamente:\n\na) Promover a consolidação dos projetos locais, designadamente no âmbito do Programa Escolhas implantados por instituições locais, regionais e centrais que se mobilizem para a procura de respostas integradas às situações de exclusão social, escolar e profissional das crianças e jovens mais vulneráveis, promovendo uma integração mais efetiva;\n\nb) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "840370759": {
+   "fragment_id": "840370651",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas",
+   "in_force_from": "2024-01-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+   ],
+   "markdown": "###### Artigo 21.º-B — Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas\n\nÀ Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas compete, nomeadamente:\n\na) Promover a consolidação dos projetos locais, designadamente no âmbito do Programa Escolhas implantados por instituições locais, regionais e centrais que se mobilizem para a procura de respostas integradas às situações de exclusão social, escolar e profissional das crianças e jovens mais vulneráveis, promovendo uma integração mais efetiva;\n\nb) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 27/2024 - Diário da República n.º 21/2024, Série I de 2024-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448), em vigor a partir de 2024-01-31"
+  },
+  "840370760": {
+   "fragment_id": "69963413",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselhos Consultivos Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conselhos Consultivos Regionais\n\n1 - Junto de cada Direção Regional funciona o respetivo Conselho Consultivo Regional (CCR), que é a estrutura representativa da realidade associativa desportiva e juvenil da região.\n\n2 - Ao CCR cabe apresentar propostas, sugestões ou recomendações sobre as ações, iniciativas e programas promovidos pelo IPDJ, I. P., no âmbito da respetiva região.\n\n3 - O CCR tem a seguinte composição:\n\na) O Diretor Regional do IPDJ, I. P., que preside;\n\nb) Um representante designado pelas federações distritais de associações de jovens inscritas no RNAJ;\n\nc) Um representante designado pelas Associações de Estudantes do Ensino Superior;\n\nd) Um representante designado pelas Associações de Estudantes do Ensino Básico e Secundário;\n\ne) Um representante designado pelas Associações Distritais de Desporto Federado;\n\nf) Um representante designado pelas Associações Distritais de Desporto não Federado;\n\ng) Um representante designado pelas Associações Distritais de Municípios.\n\n4 - O CCR reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo Diretor Regional, ou a pedido de um terço dos seus membros.\n\n5 - O CCR elabora o seu regulamento interno."
+  },
+  "840370761": {
+   "fragment_id": "69963414",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\nO Departamento referido no artigo 12.º e a Divisão referida no artigo 20.º iniciam a sua atividade após a conclusão do processo de dissolução da MOVIJOVEM, CIPRL, e da extinção da Fundação para o Desenvolvimento das Tecnologias de informação (FDTI)."
+  }
+ }
+}

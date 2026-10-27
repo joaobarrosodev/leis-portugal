@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540797:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-156233888",
+ "dre_path": "/dr/detalhe/lei/46-2006-540797",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156233984",
+    "156233985",
+    "156233986",
+    "156233987",
+    "156233988",
+    "156233989",
+    "156233990",
+    "156233991",
+    "156233992",
+    "156233993",
+    "156233994",
+    "156233995",
+    "156233996",
+    "156233997",
+    "156233998",
+    "156233999",
+    "156234000",
+    "156234001",
+    "156234002",
+    "156234003",
+    "156234004",
+    "156234005",
+    "156234006"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174480833:por",
+     "title": "Lei n.º 75/2021",
+     "published": "2021-11-18",
+     "dre_path": "/dr/detalhe/lei/75-2021-174480833"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "156233984",
+    "156233985",
+    "156233986",
+    "156233987",
+    "174595355",
+    "156233989",
+    "156233990",
+    "156233991",
+    "156233992",
+    "156233993",
+    "156233994",
+    "156233995",
+    "156233996",
+    "174595356",
+    "156233998",
+    "156233999",
+    "156234000",
+    "156234001",
+    "156234002",
+    "156234003",
+    "156234004",
+    "156234005",
+    "156234006",
+    "156234007"
+   ]
+  }
+ ],
+ "fragments": {
+  "156233984": {
+   "fragment_id": "156233889",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 46/2006\n\nde 28 de Agosto\n\nProíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "156233985": {
+   "fragment_id": "156233890",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "156233986": {
+   "fragment_id": "156233891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei tem por objecto prevenir e proibir a discriminação, directa ou indirecta, em razão da deficiência, sob todas as suas formas, e sancionar a prática de actos que se traduzam na violação de quaisquer direitos fundamentais, ou na recusa ou condicionamento do exercício de quaisquer direitos económicos, sociais, culturais ou outros, por quaisquer pessoas, em razão de uma qualquer deficiência.\n\n2 - O disposto na presente lei aplica-se igualmente à discriminação de pessoas com risco agravado de saúde."
+  },
+  "156233987": {
+   "fragment_id": "156233892",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente lei vincula todas as pessoas singulares e colectivas, públicas ou privadas.\n\n2 - O disposto na presente lei não prejudica a vigência e a aplicação das disposições de natureza legislativa, regulamentar ou administrativa que beneficiem as pessoas com deficiência com o objectivo de garantir o exercício, em condições de igualdade, dos direitos nela previstos."
+  },
+  "156233988": {
+   "fragment_id": "156233893",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos da presente lei, entende-se por:\n\na) «Discriminação directa» a que ocorre sempre que uma pessoa com deficiência seja objecto de um tratamento menos favorável que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável;\n\nb) «Discriminação indirecta» a que ocorre sempre que uma disposição, critério ou prática aparentemente neutra seja susceptível de colocar pessoas com deficiência numa posição de desvantagem comparativamente com outras pessoas, a não ser que essa disposição, critério ou prática seja objectivamente justificado por um fim legítimo e que os meios utilizados para o alcançar sejam adequados e necessários;\n\nc) «Pessoas com risco agravado de saúde» pessoas que sofrem de toda e qualquer patologia que determine uma alteração orgânica ou funcional irreversível, de longa duração, evolutiva, potencialmente incapacitante, sem perspectiva de remissão completa e que altere a qualidade de vida do portador a nível físico, mental, emocional, social e económico e seja causa potencial de invalidez precoce ou de significativa redução de esperança de vida;\n\nd) «Discriminação positiva» medidas destinadas a garantir às pessoas com deficiência o exercício ou o gozo, em condições de igualdade, dos seus direitos."
+  },
+  "156233989": {
+   "fragment_id": "156233894",
+   "type": 1,
+   "heading": "Capítulo II — Práticas discriminatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Práticas discriminatórias"
+  },
+  "156233990": {
+   "fragment_id": "156233895",
+   "type": 11,
+   "heading": "Artigo 4.º — Práticas discriminatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Práticas discriminatórias\n\nConsideram-se práticas discriminatórias contra pessoas com deficiência as acções ou omissões, dolosas ou negligentes, que, em razão da deficiência, violem o princípio da igualdade, designadamente:\n\na) A recusa de fornecimento ou o impedimento de fruição de bens ou serviços;\n\nb) O impedimento ou a limitação ao acesso e exercício normal de uma actividade económica;\n\nc) A recusa ou o condicionamento de venda, arrendamento ou subarrendamento de imóveis, bem como o acesso ao crédito bancário para compra de habitação, assim como a recusa ou penalização na celebração de contratos de seguros;\n\nd) A recusa ou o impedimento da utilização e divulgação da língua gestual;\n\ne) A recusa ou a limitação de acesso ao meio edificado ou a locais públicos ou abertos ao público;\n\nf) A recusa ou a limitação de acesso aos transportes públicos, quer sejam aéreos, terrestres ou marítimos;\n\ng) A recusa ou a limitação de acesso aos cuidados de saúde prestados em estabelecimentos de saúde públicos ou privados;\n\nh) A recusa ou a limitação de acesso a estabelecimentos de ensino, públicos ou privados, assim como a qualquer meio de compensação/apoio adequado às necessidades específicas dos alunos com deficiência;\n\ni) A constituição de turmas ou a adopção de outras medidas de organização interna nos estabelecimentos de ensino público ou privado, segundo critérios de discriminação em razão da deficiência, salvo se tais critérios forem justificados pelos objectivos referidos no n.º 2 do artigo 2.º;\n\nj) A adopção de prática ou medida por parte de qualquer empresa, entidade, órgão, serviço, funcionário ou agente da administração directa ou indirecta do Estado, das Regiões Autónomas ou das autarquias locais, que condicione ou limite a prática do exercício de qualquer direito;\n\nl) A adopção de acto em que, publicamente ou com intenção de ampla divulgação, pessoa singular ou colectiva, pública ou privada, emita uma declaração ou transmita uma informação em virtude da qual um grupo de pessoas seja ameaçado, insultado ou aviltado por motivos de discriminação em razão da deficiência;\n\nm) A adopção de medidas que limitem o acesso às novas tecnologias."
+  },
+  "156233991": {
+   "fragment_id": "156233896",
+   "type": 11,
+   "heading": "Artigo 5.º — Discriminação no trabalho e no emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Discriminação no trabalho e no emprego\n\n1 - Consideram-se práticas discriminatórias contra pessoas com deficiência, para além do disposto no Código do Trabalho:\n\na) A adopção de procedimento, medida ou critério, directamente pelo empregador ou através de instruções dadas aos seus trabalhadores ou a agência de emprego, que subordine a factores de natureza física, sensorial ou mental a oferta de emprego, a cessação de contrato de trabalho ou a recusa de contratação;\n\nb) A produção ou difusão de anúncios de ofertas de emprego, ou outras formas de publicidade ligada à pré-selecção ou ao recrutamento, que contenham, directa ou indirectamente, qualquer especificação ou preferência baseada em factores de discriminação em razão da deficiência;\n\nc) A adopção pelo empregador de prática ou medida que no âmbito da relação laboral discrimine um trabalhador ao seu serviço.\n\n2 - É proibido despedir, aplicar sanções ou prejudicar por qualquer outro meio o trabalhador com deficiência por motivo do exercício de direito ou de acção judicial contra prática discriminatória.\n\n3 - As práticas discriminatórias definidas no n.º 1 não constituirão discriminação se, em virtude da natureza da actividade profissional em causa ou do contexto da sua execução, a situação de deficiência afecte níveis e áreas de funcionalidade que constituam requisitos essenciais e determinantes para o exercício dessa actividade, na condição de o objectivo ser legítimo e o requisito proporcional.\n\n4 - Para efeitos de aplicação do disposto no número anterior deverá ser analisada a viabilidade de a entidade empregadora levar a cabo as medidas adequadas, em função das necessidades de uma situação concreta, para que a pessoa portadora de deficiência tenha acesso a um emprego, ou que possa nele progredir, ou para que lhe seja ministrada formação, excepto se essas medidas implicarem encargos desproporcionados para a entidade empregadora.\n\n5 - Os encargos não são considerados desproporcionados quando forem suficientemente compensados por medidas promovidas pelo Estado em matéria de integração profissional de cidadãos com deficiência.\n\n6 - A decisão da entidade empregadora relativa à alínea a) do n.º 1 e a aferição do disposto nos n.os 4 e 5 do presente artigo carecem sempre de parecer prévio do Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência (SNRIPD)."
+  },
+  "156233992": {
+   "fragment_id": "156233897",
+   "type": 11,
+   "heading": "Artigo 6.º — Ónus da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ónus da prova\n\n1 - Cabe a quem alegar a discriminação em razão da deficiência fundamentá-la, apresentando elementos de facto susceptíveis de a indiciarem, incumbindo à outra parte provar que as diferenças de tratamento não assentam em nenhum dos factores indicados nos artigos 4.º e 5.º\n\n2 - O disposto no número anterior não se aplica aos processos de natureza penal e contra-ordenacional."
+  },
+  "156233993": {
+   "fragment_id": "156233898",
+   "type": 11,
+   "heading": "Artigo 7.º — Indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Indemnização\n\n1 - A prática de qualquer acto discriminatório contra pessoa com deficiência confere-lhe o direito a uma indemnização, por danos patrimoniais e não patrimoniais, nos termos gerais.\n\n2 - Na fixação da indemnização o tribunal deve atender ao grau de violação dos interesses em causa, ao poder económico dos autores das infracções e às condições da pessoa alvo da prática discriminatória.\n\n3 - As sentenças condenatórias proferidas em sede de responsabilidade civil são, após trânsito em julgado, obrigatoriamente publicadas, a expensas dos responsáveis, numa das publicações periódicas diárias de maior circulação do país, por extracto, do qual devem constar apenas os factos comprovativos da prática discriminatória em razão da deficiência, a identidade dos ofendidos e dos condenados e as indemnizações fixadas.\n\n4 - A publicação da identidade dos ofendidos depende do consentimento expresso destes manifestado até ao final da audiência de julgamento.\n\n5 - A publicação tem lugar no prazo de cinco dias a contar da notificação judicial."
+  },
+  "156233994": {
+   "fragment_id": "156233899",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos competentes"
+  },
+  "156233995": {
+   "fragment_id": "156233900",
+   "type": 11,
+   "heading": "Artigo 8.º — Extensão de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Extensão de competências\n\n1 - A aplicação da presente lei será acompanhada pelo SNRIPD.\n\n2 - Para além das atribuições e competências previstas no Decreto Regulamentar n.º 56/97, de 31 de Dezembro, e no n.º 4 do artigo 5.º da presente lei, compete ao SNRIPD emitir parecer obrigatório não vinculativo em todos os processos de inquérito, disciplinares e sindicâncias instaurados pela Administração Pública por actos proibidos pela presente lei e praticados por titulares de órgãos, funcionários e agentes da Administração Pública.\n\n3 - Compete ainda ao SNRIPD apresentar ao Governo um relatório anual que incluirá obrigatoriamente uma menção à informação recolhida sobre prática de actos discriminatórios e sanções eventualmente aplicadas."
+  },
+  "156233996": {
+   "fragment_id": "156233901",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "156233997": {
+   "fragment_id": "156233902",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - A prática de qualquer acto discriminatório referido no capítulo II da presente lei por pessoa singular constitui contra-ordenação punível com coima graduada entre 5 e 10 vezes o valor da retribuição mínima mensal garantida, sem prejuízo do disposto no n.º 5 e da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber.\n\n2 - A prática de qualquer acto discriminatório referido no capítulo II da presente lei por pessoa colectiva de direito privado ou de direito público constitui contra-ordenação punível com coima graduada entre 20 e 30 vezes o valor da retribuição mínima mensal garantida, sem prejuízo do disposto no n.º 5 e da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber.\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - A requerimento do agente, a entidade competente para a aplicação das coimas ou o tribunal podem ordenar que a coima seja total ou parcialmente substituída por dias de trabalho em estabelecimentos, obras do Estado ou de outras pessoas colectivas de direito público ou de instituições particulares de solidariedade social cuja principal vocação seja a prestação de serviços às pessoas com deficiência e suas famílias, quando concluírem que esta forma de cumprimento se adequa à gravidade da contra-ordenação e às circunstâncias do caso.\n\n5 - A prática de qualquer acto discriminatório referido no artigo 5.º constitui contra-ordenação muito grave, aplicando-se o regime contra-ordenacional previsto no Código do Trabalho."
+  },
+  "156233998": {
+   "fragment_id": "156233903",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\n1 - Em função da gravidade da infracção e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás;\n\nh) Publicidade da decisão condenatória;\n\ni) Advertência ou censura públicas aos autores da prática discriminatória.\n\n2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva."
+  },
+  "156233999": {
+   "fragment_id": "156233904",
+   "type": 11,
+   "heading": "Artigo 11.º — Reincidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reincidência\n\nEm caso de reincidência, os limites mínimo e máximo das coimas previstas no artigo 9.º da presente lei são elevados para o dobro."
+  },
+  "156234000": {
+   "fragment_id": "156233905",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo\n\n1 - As entidades administrativas com competência para aplicar coimas no âmbito da presente lei e os tribunais comunicam todas as decisões comprovativas de prática discriminatória em função da deficiência ao SNRIPD, que organiza um registo das mesmas.\n\n2 - As entidades referidas no número anterior podem solicitar, no decurso de qualquer processo baseado na violação do direito à igualdade de tratamento, informação ao SNRIPD sobre a existência de qualquer decisão já transitada em julgado relativa à entidade em causa.\n\n3 - A informação referida no número anterior deve ser prestada às entidades requerentes no prazo de oito dias a contar da notificação."
+  },
+  "156234001": {
+   "fragment_id": "156233906",
+   "type": 11,
+   "heading": "Artigo 13.º — Concurso de infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Concurso de infracções\n\n1 - Se o mesmo facto constituir, simultaneamente, ilícito penal e contra-ordenação, o agente é punido sempre a título penal.\n\n2 - As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente."
+  },
+  "156234002": {
+   "fragment_id": "156233907",
+   "type": 11,
+   "heading": "Artigo 14.º — Omissão de dever",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Omissão de dever\n\nSempre que a contra-ordenação resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensa o agente do seu cumprimento, se este ainda for possível."
+  },
+  "156234003": {
+   "fragment_id": "156233908",
+   "type": 11,
+   "heading": "Artigo 15.º — Direitos processuais das organizações de pessoas com deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direitos processuais das organizações de pessoas com deficiência\n\n1 - As associações de pessoas portadoras de deficiência, previstas na Lei n.º 127/99, de 20 de Agosto, e, bem assim, todas as outras organizações cujo escopo principal seja a representação, a defesa e a promoção dos direitos e interesses das pessoas com deficiência, ou a prestação de serviços às pessoas com deficiência e suas famílias, têm legitimidade para intervir, em representação ou em apoio do interessado e com a aprovação deste, nos respectivos processos jurisdicionais.\n\n2 - As entidades referidas no número anterior, quando o requeiram, gozam do direito a acompanharem o processo contra-ordenacional pela prática de qualquer acto discriminatório referido no capítulo II da presente lei.\n\n3 - Em caso de crime cometido contra pessoa com deficiência, e praticado em razão dessa deficiência, as entidades referidas no n.º 1 gozam do direito de se constituírem como assistentes nos respectivos processos-crime."
+  },
+  "156234004": {
+   "fragment_id": "156233909",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "156234005": {
+   "fragment_id": "156233910",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamentação\n\nCompete ao Governo, no âmbito da regulamentação da presente lei, tomar as medidas necessárias para o acompanhamento da sua aplicação, definir as entidades administrativas com competência para a aplicação das coimas pela prática dos actos discriminatórios referidos no capítulo II e as entidades beneficiárias do produto das coimas, no prazo de 120 dias após a sua publicação."
+  },
+  "156234006": {
+   "fragment_id": "156233911",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação, salvo quanto às disposições com incidência orçamental, que entram em vigor com o Orçamento do Estado subsequente à sua aprovação."
+  },
+  "174595355": {
+   "fragment_id": "156233893",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 75/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/75-2021-174480833), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos da presente lei, entende-se por:\n\na) «Discriminação directa» a que ocorre sempre que uma pessoa com deficiência seja objecto de um tratamento menos favorável que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável;\n\nb) «Discriminação indirecta» a que ocorre sempre que uma disposição, critério ou prática aparentemente neutra seja susceptível de colocar pessoas com deficiência numa posição de desvantagem comparativamente com outras pessoas, a não ser que essa disposição, critério ou prática seja objectivamente justificado por um fim legítimo e que os meios utilizados para o alcançar sejam adequados e necessários;\n\nc) 'Pessoas com risco agravado de saúde' pessoas que sofrem de toda e qualquer patologia que determine uma alteração orgânica ou funcional, de longa duração, evolutiva, potencialmente incapacitante e que altere a qualidade de vida do portador a nível físico, mental, emocional, social e económico e seja causa potencial de invalidez precoce ou de significativa redução de esperança de vida;\n\nd) «Discriminação positiva» medidas destinadas a garantir às pessoas com deficiência o exercício ou o gozo, em condições de igualdade, dos seus direitos.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 75/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/75-2021-174480833), em vigor a partir de 2022-01-01"
+  },
+  "174595356": {
+   "fragment_id": "156233902",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 75/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/75-2021-174480833), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - A prática de qualquer ato discriminatório referido no capítulo ii da presente lei ou a violação do acordo que concretiza o disposto no artigo 15.º-A do Decreto-Lei n.º 72/2008, de 16 de abril, por pessoa singular constitui contraordenação punível com coima graduada entre 5 e 10 vezes o valor da retribuição mínima mensal garantida, sem prejuízo do disposto no n.º 5 e da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber.\n\n2 - A prática de qualquer ato discriminatório referido no capítulo ii da presente lei ou a violação do acordo que concretiza o disposto no artigo 15.º-A do Decreto-Lei n.º 72/2008, de 16 de abril, por pessoa coletiva de direito privado ou de direito público constitui contraordenação punível com coima graduada entre 20 e 30 vezes o valor da retribuição mínima mensal garantida, sem prejuízo do disposto no n.º 5 e da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber.\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - A requerimento do agente, a entidade competente para a aplicação das coimas ou o tribunal podem ordenar que a coima seja total ou parcialmente substituída por dias de trabalho em estabelecimentos, obras do Estado ou de outras pessoas colectivas de direito público ou de instituições particulares de solidariedade social cuja principal vocação seja a prestação de serviços às pessoas com deficiência e suas famílias, quando concluírem que esta forma de cumprimento se adequa à gravidade da contra-ordenação e às circunstâncias do caso.\n\n5 - A prática de qualquer acto discriminatório referido no artigo 5.º constitui contra-ordenação muito grave, aplicando-se o regime contra-ordenacional previsto no Código do Trabalho.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 75/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/75-2021-174480833), em vigor a partir de 2022-01-01"
+  },
+  "156234007": {
+   "fragment_id": "156233912",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Julho de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 11 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 12 de Agosto de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

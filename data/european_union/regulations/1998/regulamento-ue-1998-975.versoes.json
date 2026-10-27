@@ -1,0 +1,285 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0975:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0975-20140722",
+ "dre_path": null,
+ "source_lastmod": "2014-07-22",
+ "versions": [
+  {
+   "date": "1998-05-11",
+   "future": false,
+   "celex": "31998R0975",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a7905dc824d2df8e",
+    "44c70a55305762f8",
+    "517db1372955cb44"
+   ]
+  },
+  {
+   "date": "1999-01-01",
+   "future": false,
+   "celex": "01998R0975-19990101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º"
+   ],
+   "fragments": [
+    "3211f8953aba6b1c",
+    "a7043901143c134a",
+    "77a173ae325a318a"
+   ]
+  },
+  {
+   "date": "2012-07-19",
+   "future": false,
+   "celex": "01998R0975-20120719",
+   "acts": [
+    {
+     "id": "eu:celex:31999R0423:por",
+     "title": "REGULAMENTO (CE) N. o 423/1999 DO CONSELHO de 22 de Fevereiro de 1999",
+     "published": null,
+     "celex": "31999R0423"
+    },
+    {
+     "id": "eu:celex:32012R0566:por",
+     "title": "REGULAMENTO (UE) N. o 566/2012 DO CONSELHO de 18 de junho de 2012",
+     "published": null,
+     "celex": "32012R0566"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 1.º-B",
+    "Adita Artigo 1.º-C",
+    "Adita Artigo 1.º-D",
+    "Adita Artigo 1.º-E",
+    "Adita Artigo 1.º-F",
+    "Adita Artigo 1.º-G",
+    "Adita Artigo 1.º-H",
+    "Adita Artigo 1.º-I",
+    "Adita Artigo 1.º-J",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "b62be233f838ca0b",
+    "aeb27ff54d09c2ca",
+    "10e8da72ca051728",
+    "5f1f90c3b8a3533a",
+    "1f7d597b00ec68bf",
+    "ea2e6a037b16c839",
+    "8ce92940583c9daf",
+    "5d6de13bd9dfd690",
+    "5861494c2c8ddf0c",
+    "c72785d7afe7a199",
+    "311defe4c62237f1",
+    "959e11cb4b5994e1",
+    "12f77a5829dcec48",
+    "200fdeba8fbc0182"
+   ]
+  },
+  {
+   "date": "2014-07-22",
+   "future": false,
+   "celex": "01998R0975-20140722",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 1.º-A",
+    "Suprime Artigo 1.º-B",
+    "Suprime Artigo 1.º-C",
+    "Suprime Artigo 1.º-D",
+    "Suprime Artigo 1.º-E",
+    "Suprime Artigo 1.º-F",
+    "Suprime Artigo 1.º-G",
+    "Suprime Artigo 1.º-H",
+    "Suprime Artigo 1.º-I",
+    "Suprime Artigo 1.º-J",
+    "Suprime Artigo 2.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "9b60f5556403c4a5"
+   ]
+  }
+ ],
+ "fragments": {
+  "a7905dc824d2df8e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 975/98 do Conselho de 3 de Maio de 1998 relativo aos valores faciais e às especificações técnicas das moedas em euros destinadas a circulação** *Jornal Oficial nº L 139 de 11/05/1998 p. 0006 - 0008*\n\nREGULAMENTO (CE) Nº 975/98 DO CONSELHO de 3 de Maio de 1998 relativo aos valores faciais e às especificações técnicas das moedas em euros destinadas a circulação\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 105ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Banco Central Europeu (2),\n\nDeliberando nos termos do artigo 189ºC do Tratado (3),\n\n(1) Considerando que, na reunião do Conselho Europeu de Madrid, de 15 e 16 de Dezembro de 1995, foram decididas as condições de transição para a moeda única, que prevêem a introdução de moedas em euros o mais tardar até 1 de Janeiro de 2002; que a data exacta para a emissão de moedas em euros será determinada quando o Conselho adoptar o seu regulamento relativo à introdução do euro, imediatamente após a decisão dos Estados-membros sobre a adopção do euro como moeda única, a tomar o mais cedo possível em 1998;\n\n(2) Considerando que, nos termos do nº 2 do artigo 105ºA do Tratado, os Estados-membros podem emitir moedas metálicas, sem prejuízo da aprovação do volume da respectiva emissão pelo Banco Central Europeu (BCE) e que o Conselho, deliberando nos termos do artigo 189ºC e após consulta do BCE, pode adoptar medidas para harmonizar as denominações e especificações técnicas de todas as moedas metálicas destinadas a circulação, na medida do necessário para permitir a sua fácil circulação na Comunidade;\n\n(3) Considerando que o Instituto Monetário Europeu indicou que os valores faciais das notas variarão entre 5 e 500 euros; que os valores faciais das notas e das moedas metálicas deverão necessariamente assegurar a facilidade dos pagamentos em numerário de montantes expressos em euros e cents;\n\n(4) Considerando que os directores das Casas da Moeda da Comunidade Europeia receberam um mandato do Conselho para estudar e elaborar uma proposta exaustiva relativa a um sistema europeu único de cunhagem de moeda; que apresentaram um relatório em Novembro de 1996 e um relatório revisto em Fevereiro de 1997, indicando os valores faciais e as especificações técnicas (diâmetro, espessura, peso, cor, composição e bordos) das novas moedas em euros;\n\n(5) Considerando que o novo sistema europeu único de cunhagem deverá induzir a confiança pública e comportar inovações tecnológicas que o tornem seguro, fiável e eficaz;\n\n(6) Considerando que a aceitação do novo sistema pelo público constitui um dos principais objectivos do sistema europeu de cunhagem da Comunidade; que a confiança pública no novo sistema dependerá das características físicas das moedas em euros, que deverão ter uma utilização o mais fácil possível;\n\n(7) Considerando que se consultaram associações de consumidores, a União Europeia de Cegos e representantes do sector das máquinas de venda automática, a fim de tomar em conta os requisitos específicos de categorias importantes de utilizadores de moedas; que, a fim de garantir uma transição harmoniosa para o euro e de facilitar a aceitação do novo sistema de moedas pelos utilizadores, será necessário garantir uma distinção fácil entre as moedas através de características visuais e tácteis;\n\n(8) Considerando que o reconhecimento e a familiarização com as novas moedas em euros deverão ser facilitados pelo estabelecimento de uma correlação entre o seu diâmetro e o seu valor facial;\n\n(9) Considerando a necessidade de garantir certas características especiais de segurança, a fim de reduzir a possibilidade de falsificação das moedas de 1 e 2 euros, tendo em conta o seu elevado valor; que a técnica de fabrico de moedas compostas por três camadas e com uma combinação de duas cores diferentes é a que garante actualmente maiores condições de segurança;\n\n(10) Considerando que a aposição das moedas de uma face europeia e de uma face nacional expressa adequadamente a ideia de união monetária europeia entre os Estados-membro, e poderá aumentar significativamente o grau de aceitação das moedas;\n\n(11) Considerando que em 30 de Junho de 1994, o Parlamento Europeu e o Conselho adoptaram a Directiva 94/27/CE (4) que limita a utilização do níquel em determinados produtos, reconhecendo que o níquel pode provocar alergias, em certas condições; que as moedas não estão abrangidas pela referida directiva; que, todavia, alguns Estados-membros utilizam já uma liga isenta de níquel - designada por ouro nórdico - no seu actual sistema de cunhagem, por questões relacionadas com a saúde pública; que parece ser desejável uma redução do teor de níquel das moedas ao efectuar-se a passagem para um novo sistema de cunhagem;\n\n(12) Considerando que, assim sendo, é conveniente dar em princípio seguimento à proposta dos directores das Casas da Moeda, adaptando-a apenas na medida do necessário para ter especialmente em conta as exigências específicas de categorias importantes de utilizadores de moedas e a necessidade de reduzir o teor de níquel nas moedas;\n\n(13) Considerando que, de entre todas as especificações técnicas prescritas para as moedas em euros, apenas o valor relativo à espessura se reveste de carácter indicativo, uma vez que a espessura real de uma moeda depende do diâmetro e do peso que forem determinados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "44c70a55305762f8": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA primeira série de moedas em euros será composta por oito valores faciais entre 1 cent e 2 euros, com as seguintes especificações técnicas:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "517db1372955cb44": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros, nos termos do Tratado e sob reserva do disposto no nº 1 do artigo 109ºK e dos Protocolos nºs 11 e 12.\n\nFeito em Bruxelas, em 3 de Maio de 1998.\n\nPelo Conselho\n\nO Presidente\n\nG. BROWN\n\n(1) JO C 208 de 9. 7. 1997, p. 5 e JO C 386 de 20. 12. 1997, p. 12.\n\n(2) Parecer emitido em 25 de Junho de 1997 (JO C 205 de 5. 7. 1997, p. 18).\n\n(3) Parecer do Parlamento Europeu de 6 de Novembro de 1997 (JO C 358 de 24. 11. 1997, p. 24), posição comum do Conselho de 20 de Novembro de 1997 (JO C 23 de 23. 1. 1998, p. 1) e decisão do Parlamento Europeu de 17 de Dezembro de 1997 (JO C 14 de 19. 1. 1998).\n\n(4) JO L 188 de 22. 7. 1994, p. 1."
+  },
+  "3211f8953aba6b1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1998R0975 — PT — 01.01.1999 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0975:PT:NOT) [REGULAMENTO (CE) N.o 975/98 DO CONSELHO de 3 de Maio de 1998 relativo aos valores faciais e às especificações técnicas das moedas em euros destinadas a circulação](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0975:PT:NOT) (JO L 139, 11.5.1998, p.6)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R0423:PT:NOT) | [Regulamento (CE) n.o 423/1999 do Conselho de 22 de Fevereiro de 1999](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R0423:PT:NOT) | L 52 | 2 | 27.2.1999 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0975:PT:NOT)\n\nREGULAMENTO (CE) N.o 975/98 DO CONSELHO\n\nde 3 de Maio de 1998\n\nrelativo aos valores faciais e às especificações técnicas das moedas em euros destinadas a circulação\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 105.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Banco Central Europeu ([2](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.oC do Tratado ([3](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#E0003)),\n\n(1) Considerando que, na reunião do Conselho Europeu de Madrid, de 15 e 16 de Dezembro de 1995, foram decididas as condições de transição para a moeda única, que prevêem a introdução de moedas em euros o mais tardar até 1 de Janeiro de 2002; que a data exacta para a emissão de moedas em euros será determinada quando o Conselho adoptar o seu regulamento relativo à introdução do euro, imediatamente após a decisão dos Estados-membros sobre a adopção do euro como moeda única, a tomar o mais cedo possível em 1998;\n\n(2) Considerando que, nos termos do n.o 2 do artigo 105.oA do Tratado, os Estados-membros podem emitir moedas metálicas, sem prejuízo da aprovação do volume da respectiva emissão pelo Banco Central Europeu (BCE) e que o Conselho, deliberando nos termos do artigo 189.oC e após consulta do BCE, pode adoptar medidas para harmonizar as denominações e especificações técnicas de todas as moedas metálicas destinadas a circulação, na medida do necessário para permitir a sua fácil circulação na Comunidade;\n\n(3) Considerando que o Instituto Monetário Europeu indicou que os valores faciais das notas variarão entre 5 e 500 euros; que os valores faciais das notas e das moedas metálicas deverão necessariamente assegurar a facilidade dos pagamentos em numerário de montantes expressos em euros e cents;\n\n(4) Considerando que os directores das Casas da Moeda da Comunidade Europeia receberam um mandato do Conselho para estudar e elaborar uma proposta exaustiva relativa a um sistema europeu único de cunhagem de moeda; que apresentaram um relatório em Novembro de 1996 e um relatório revisto em Fevereiro de 1997, indicando os valores faciais e as especificações técnicas (diâmetro, espessura, peso, cor, composição e bordos) das novas moedas em euros;\n\n(5) Considerando que o novo sistema europeu único de cunhagem deverá induzir a confiança pública e comportar inovações tecnológicas que o tornem seguro, fiável e eficaz;\n\n(6) Considerando que a aceitação do novo sistema pelo público constitui um dos principais objectivos do sistema europeu de cunhagem da Comunidade; que a confiança pública no novo sistema dependerá das características físicas das moedas em euros, que deverão ter uma utilização o mais fácil possível;\n\n(7) Considerando que se consultaram associações de consumidores, a União Europeia de Cegos e representantes do sector das máquinas de venda automática, a fim de tomar em conta os requisitos específicos de categorias importantes de utilizadores de moedas; que, a fim de garantir uma transição harmoniosa para o euro e de facilitar a aceitação do novo sistema de moedas pelos utilizadores, será necessário garantir uma distinção fácil entre as moedas através de características visuais e tácteis;\n\n(8) Considerando que o reconhecimento e a familiarização com as novas moedas em euros deverão ser facilitados pelo estabelecimento de uma correlação entre o seu diâmetro e o seu valor facial;\n\n(9) Considerando a necessidade de garantir certas características especiais de segurança, a fim de reduzir a possibilidade de falsificação das moedas de 1 e 2 euros, tendo em conta o seu elevado valor; que a técnica de fabrico de moedas compostas por três camadas e com uma combinação de duas cores diferentes é a que garante actualmente maiores condições de segurança;\n\n(10) Considerando que a aposição das moedas de uma face europeia e de uma face nacional expressa adequadamente a ideia de união monetária europeia entre os Estados-membro, e poderá aumentar significativamente o grau de aceitação das moedas;\n\n(11) Considerando que em 30 de Junho de 1994, o Parlamento Europeu e o Conselho adoptaram a Directiva 94/27/CE ([4](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#E0004)) que limita a utilização do níquel em determinados produtos, reconhecendo que o níquel pode provocar alergias, em certas condições; que as moedas não estão abrangidas pela referida directiva; que, todavia, alguns Estados-membros utilizam já uma liga isenta de níquel — designada por ouro nórdico — no seu actual sistema de cunhagem, por questões relacionadas com a saúde pública; que parece ser desejável uma redução do teor de níquel das moedas ao efectuar-se a passagem para um novo sistema de cunhagem;\n\n(12) Considerando que, assim sendo, é conveniente dar em princípio seguimento à proposta dos directores das Casas da Moeda, adaptando-a apenas na medida do necessário para ter especialmente em conta as exigências específicas de categorias importantes de utilizadores de moedas e a necessidade de reduzir o teor de níquel nas moedas;\n\n(13) Considerando que, de entre todas as especificações técnicas prescritas para as moedas em euros, apenas o valor relativo à espessura se reveste de carácter indicativo, uma vez que a espessura real de uma moeda depende do diâmetro e do peso que forem determinados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a7043901143c134a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA primeira série de moedas em euros será composta por oito valores faciais entre 1 cent e 2 euros, com as seguintes especificações técnicas:\n\n| Valor facial (euro) | Diâmetro em mm | Espessura em mm [(1)](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#E0005) | Peso em gramas | Forma | Cor | Composição | Bordo |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 2 | 25,75 | 1,95 | 8,5 | Redonda | Parte extena branca | Cobre-níquel (Cu75Ni25) | Inscrição no bordo |\n| Parte interna amarela | Três camadas Latão de níquel/níquel/latão de níquel CuZn20Ni5/Ni12/CuZn20Ni5 |  |  |  |  |  |  |\n| 1 | 23,25 | 2,125 | 7,5 | Redonda | Parte externa amarela | Latão de níquel (CuZn20Ni5) | Serrilhado descontínuo |\n| Parte interna branca | Três camadas Cu75Ni25/Ni7/Cu75Ni25 |  |  |  |  |  |  |\n| 0,50 | 24,25 | [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) 1,88 ◄ | [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) 7,8 ◄ | Redonda | Amarela | «Ouro nórdico» Cu89Al5Zn5Sn1 | [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) rebordos com serrilha ou estrias (fine scallops) ◄ |\n| 0,20 | 22,25 | 1,63 | 5,7 | «Flor espanhola» (Redonda com entalhes no bordo) | Amarela | «Ouro nórdico» Cu89Al5Zn5Sn1 | Liso |\n| 0,10 | 19,75 | 1,51 | 4,1 | Redonda | Amarela | «Ouro nórdico» Cu89Al5Zn5Sn1 | [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) rebordos com serrilha ou estrias (fine scallops) ◄ |\n| 0,05 | 21,25 | 1,36 | 3,9 | Redonda | Cor de cobre | Aço revestido a cobre | Liso |\n| 0,02 | 18,75 | 1,36 | 3 | Redonda | Cor de cobre | Aço revestido a cobre | Liso com uma serrilha |\n| 0,01 | 16,25 | 1,36 | 2,3 | Redonda | Cor de cobre | Aço revestido a cobre | Liso |\n| (1) Os valores relativos à espessura têm carácter indicativo. |  |  |  |  |  |  |  |"
+  },
+  "77a173ae325a318a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros, nos termos do Tratado e sob reserva do disposto no n.o 1 do artigo 109.oK e dos Protocoles n.o s 11 e 12.\n\n([1](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#src.E0001)) JO C 208 de 9. 7. 1997, p. 5 e JO C 386 de 20. 12. 1997, p. 12.\n\n([2](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#src.E0002)) Parecer emitido em 25 de Junho de 1997 (JO C 205 de 5. 7. 1997, p. 18).\n\n([3](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 6 de Novembro de 1997 (JO C 358 de 24. 11. 1997, p. 24), posição comum do Conselho de 20 de Novembro de 1997 (JO C 23 de 23. 1. 1998, p. 1) e decisão do Parlamento Europeu de 17 de Dezembro de 1997 (JO C 14 de 19. 1. 1998).\n\n([4](http://publications.europa.eu/resource/cellar/9252e6a4-efdd-41d8-a5f7-da82c9fe7e9a.0018.02/DOC_1#src.E0004)) JO L 188 de 22. 7. 1994, p. 1."
+  },
+  "b62be233f838ca0b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio de 1998\n\nrelativo aos valores faciais e às especificações técnicas das moedas em euros destinadas a circulação\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 105.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#E0001)),\n\nTendo em conta o parecer do Banco Central Europeu ([^2^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#E0002)),\n\nDeliberando nos termos do artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#E0003)),\n\n(1) Considerando que, na reunião do Conselho Europeu de Madrid, de 15 e 16 de Dezembro de 1995, foram decididas as condições de transição para a moeda única, que prevêem a introdução de moedas em euros o mais tardar até 1 de Janeiro de 2002; que a data exacta para a emissão de moedas em euros será determinada quando o Conselho adoptar o seu regulamento relativo à introdução do euro, imediatamente após a decisão dos Estados-membros sobre a adopção do euro como moeda única, a tomar o mais cedo possível em 1998;\n\n(2) Considerando que, nos termos do n.º 2 do artigo 105.ºA do Tratado, os Estados-membros podem emitir moedas metálicas, sem prejuízo da aprovação do volume da respectiva emissão pelo Banco Central Europeu (BCE) e que o Conselho, deliberando nos termos do artigo 189.ºC e após consulta do BCE, pode adoptar medidas para harmonizar as denominações e especificações técnicas de todas as moedas metálicas destinadas a circulação, na medida do necessário para permitir a sua fácil circulação na Comunidade;\n\n(3) Considerando que o Instituto Monetário Europeu indicou que os valores faciais das notas variarão entre 5 e 500 euros; que os valores faciais das notas e das moedas metálicas deverão necessariamente assegurar a facilidade dos pagamentos em numerário de montantes expressos em euros e cents;\n\n(4) Considerando que os directores das Casas da Moeda da Comunidade Europeia receberam um mandato do Conselho para estudar e elaborar uma proposta exaustiva relativa a um sistema europeu único de cunhagem de moeda; que apresentaram um relatório em Novembro de 1996 e um relatório revisto em Fevereiro de 1997, indicando os valores faciais e as especificações técnicas (diâmetro, espessura, peso, cor, composição e bordos) das novas moedas em euros;\n\n(5) Considerando que o novo sistema europeu único de cunhagem deverá induzir a confiança pública e comportar inovações tecnológicas que o tornem seguro, fiável e eficaz;\n\n(6) Considerando que a aceitação do novo sistema pelo público constitui um dos principais objectivos do sistema europeu de cunhagem da Comunidade; que a confiança pública no novo sistema dependerá das características físicas das moedas em euros, que deverão ter uma utilização o mais fácil possível;\n\n(7) Considerando que se consultaram associações de consumidores, a União Europeia de Cegos e representantes do sector das máquinas de venda automática, a fim de tomar em conta os requisitos específicos de categorias importantes de utilizadores de moedas; que, a fim de garantir uma transição harmoniosa para o euro e de facilitar a aceitação do novo sistema de moedas pelos utilizadores, será necessário garantir uma distinção fácil entre as moedas através de características visuais e tácteis;\n\n(8) Considerando que o reconhecimento e a familiarização com as novas moedas em euros deverão ser facilitados pelo estabelecimento de uma correlação entre o seu diâmetro e o seu valor facial;\n\n(9) Considerando a necessidade de garantir certas características especiais de segurança, a fim de reduzir a possibilidade de falsificação das moedas de 1 e 2 euros, tendo em conta o seu elevado valor, que a técnica de fabrico de moedas compostas por três camadas e com uma combinação de duas cores diferentes é a que garante actualmente maiores condições de segurança;\n\n(10) Considerando que a aposição das moedas de uma face europeia e de uma face nacional expressa adequadamente a ideia de união monetária europeia entre os Estados-membro, e poderá aumentar significativamente o grau de aceitação das moedas;\n\n(11) Considerando que em 30 de Junho de 1994, o Parlamento Europeu e o Conselho adoptaram a Directiva 94/27/CEC) ([^4^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#E0004)) que limita a utilização do níquel em determinados produtos, reconhecendo que o níquel pode provocar alergias, em certas condições; que as moedas não estão abrangidas pela referida directiva; que, todavia, alguns Estados-membros utilizam já uma liga isenta de níquel — designada por ouro nórdico — no seu actual sistema de cunhagem, por questões relacionadas com a saúde pública; que parece ser desejável uma redução do teor de níquel das moedas ao efectuar-se a passagem para um novo sistema de cunhagem;\n\n(12) Considerando que, assim sendo, é conveniente dar em princípio seguimento à proposta dos directores das Casas da Moeda, adaptando-a apenas na medida do necessário para ter especialmente em conta as exigências específicas de categorias importantes de utilizadores de moedas e a necessidade de reduzir o teor de níquel nas moedas;\n\n(13) Considerando que, de entre todas as especificações técnicas prescritas para as moedas em euros, apenas o valor relativo à espessura se reveste de carácter indicativo, uma vez que a espessura real de uma moeda depende do diâmetro e do peso que forem determinados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "aeb27ff54d09c2ca": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA primeira série de moedas em euros será composta por oito valores faciais entre 1 cent e 2 euros, com as seguintes especificações técnicas:\n\n| Valor facial (euro) | Diâmetro em mm | Espessura em mm [(^1^)](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#E0005) | Peso em gramas | Forma | Cor | Composição | Bordo |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 2 | 25,75 | 1,95 | 8,5 | Redonda | Parte extena branca Parte interna amarela | Cobre-níquel (Cu75Ni25) Três camadas Latão de níquel/níquel/latão de níquel CuZn20Ni5/Nil2/CuZn20Ni5 | Inscrição no bordo Serrilhado fino |\n| 1 | 23,25 | 2,125 | 7,5 | Redonda | Parte externa amarela Parte interna branca | Latão de níquel (CuZn20Ni5) Três camadas Cu75Ni25/Ni7/Cu75Ni25 | Serrilhado descontínuo |\n| 0,50 | 24,25 | [**►M1**](http://publications.europa.eu/resource/celex/31999R0423) 1,88**◄** | [**►M1**](http://publications.europa.eu/resource/celex/31999R0423) 7,8**◄** | Redonda | Amarela | «Ouro nórdico» Cu89A15Zn5Snl | [**►M1**](http://publications.europa.eu/resource/celex/31999R0423) rebordos com serrilha ou estrias *(fine scallops)* **◄** |\n| 0,20 | 22,25 | 1,63 | 5,7 | «Flor espanhola» (Redonda com entalhes no bordo) | Amarela | «Ouro nórdico» Cu89A15Zn5Snl | Liso |\n| 0,10 | 19,75 | 1,51 | 4,1 | Redonda | Amarela | «Ouro nórdico» Cu89A15Zn5Snl | [**►M1**](http://publications.europa.eu/resource/celex/31999R0423) rebordos com serrilha ou estrias *(fine scallops)* **◄** |\n| 0,05 | 21,25 | 1,36 | 3,9 | Redonda | Cor de cobre | Aço revestido a cobre | Liso |\n| 0,02 | 18,75 | 1,36 | 3 | Redonda | Cor de cobre | Aço revestido a cobre | Liso com uma serrilha |\n| 0,01 | 16,25 | 1,36 | 2,3 | Redonda | Cor de cobre | Aço revestido a cobre | Liso |\n| (^1^)Os valores relativos à espessura têm carácter indicativo. |  |  |  |  |  |  |  |"
+  },
+  "10e8da72ca051728": {
+   "fragment_id": "Artigo 1.º-A",
+   "type": "artigo",
+   "heading": "Artigo 1.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A\n\nPara efeitos do presente regulamento, são plicáveis as seguintes definições:\n\n1) «Moedas correntes»: moedas de euro destinadas à circulação, cujos valores faciais e especificações técnicas são estabelecidos no artigo 1.º;\n\n2) «Moedas correntes normais»: moedas de euro destinadas à circulação, com exceção das moedas comemorativas;\n\n3) «Moedas comemorativas»: moedas correntes de euro destinadas a comemorar um tema específico, como especificado no artigo 1.º-H do presente regulamento."
+  },
+  "5f1f90c3b8a3533a": {
+   "fragment_id": "Artigo 1.º-B",
+   "type": "artigo",
+   "heading": "Artigo 1.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-B\n\nAs moedas correntes apresentam uma face europeia comum e uma face nacional distintiva."
+  },
+  "1f7d597b00ec68bf": {
+   "fragment_id": "Artigo 1.º-C",
+   "type": "artigo",
+   "heading": "Artigo 1.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-C\n\n1. A face nacional das moedas correntes não pode reproduzir qualquer indicação do valor facial da moeda ou de parte deste. Não pode reproduzir tão-pouco a designação da moeda única ou da sua subdivisão, exceto se essa indicação decorrer da utilização de um alfabeto diferente.\n\n2. Não obstante o disposto no n.º 1, a inscrição à volta do bordo das moedas de 2 euros pode, conter uma indicação do valor facial, desde que só sejam utilizados o algarismo «2» ou o termo «euro», no alfabeto pertinente, ou ambos."
+  },
+  "ea2e6a037b16c839": {
+   "fragment_id": "Artigo 1.º-D",
+   "type": "artigo",
+   "heading": "Artigo 1.º-D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-D\n\nA face nacional de todos os valores faciais das moedas correntes ostenta o nome ou uma abreviação do nome do Estado-Membro emissor."
+  },
+  "8ce92940583c9daf": {
+   "fragment_id": "Artigo 1.º-E",
+   "type": "artigo",
+   "heading": "Artigo 1.º-E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-E\n\n1. A face nacional das moedas correntes ostenta 12 estrelas que circundam por completo o desenho nacional, incluindo a indicação do ano e o nome do Estado-Membro emissor. Tal não obsta a que alguns elementos do desenho entrem no círculo de estrelas, desde que todas as estrelas estejam clara e integralmente visíveis. As 12 estrelas são representadas tal como surgem na bandeira da União.\n\n2. O desenho para a face nacional das moedas correntes é escolhido tendo em conta que as moedas em euros circulam em todos os Estados-Membros cuja moeda é o euro"
+  },
+  "5d6de13bd9dfd690": {
+   "fragment_id": "Artigo 1.º-F",
+   "type": "artigo",
+   "heading": "Artigo 1.º-F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-F\n\n1. As alterações nos desenhos utilizados para as faces nacionais das moedas correntes apenas podem ser introduzidas de quinze em quinze anos, sem prejuízo das alterações necessárias para prevenir a contrafação da moeda.\n\n2. Sem prejuízo do n.º 1, podem ser efetuadas alterações nos desenhos utilizados para as faces nacionais das moedas correntes em caso de mudança do Chefe de Estado representado numa moeda. A carência temporária ou a ocupação provisória do cargo de Chefe de Estado não conferem o direito suplementar de efetuar aquelas alterações."
+  },
+  "5861494c2c8ddf0c": {
+   "fragment_id": "Artigo 1.º-G",
+   "type": "artigo",
+   "heading": "Artigo 1.º-G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-G\n\nAté 20 de julho de 2062, os Estados-Membros emissores atualizam as faces nacionais das suas moedas correntes normais, por forma a cumprir plenamente o presente regulamento."
+  },
+  "c72785d7afe7a199": {
+   "fragment_id": "Artigo 1.º-H",
+   "type": "artigo",
+   "heading": "Artigo 1.º-H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-H\n\n1. As moedas comemorativas ostentam um desenho nacional diferente do das moedas correntes normais e devem apenas comemorar temas de grande relevância nacional ou europeia. As moedas comemorativas emitidas coletivamente por todos os Estados-Membros cuja moeda é o euro apenas devem comemorar temas de alta relevância europeia e o seu desenho não deve prejudicar os eventuais requisitos constitucionais desses Estados-Membros.\n\n2. A inscrição à volta do bordo das moedas comemorativas é idêntica à das moedas correntes normais.\n\n3. As moedas comemorativas só podem ter o valor facial de 2 euros."
+  },
+  "311defe4c62237f1": {
+   "fragment_id": "Artigo 1.º-I",
+   "type": "artigo",
+   "heading": "Artigo 1.º-I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-I\n\n1. Os Estados-Membros devem informar-se mutuamente dos projetos de desenhos das novas faces nacionais das moedas correntes, e, para as moedas comemorativas, do volume estimado da emissão, antes da aprovação formal desses desenhos.\n\n2. Os poderes para aprovar faces nacionais novas ou alteradas de moedas correntes são conferidos ao Conselho que delibera por maioria qualificada em conformidade com o procedimento estabelecido nos números 3 a 7.\n\nQuando são tomadas as decisões referidas no presente artigo, é suspenso o direito de voto dos Estados-Membros cuja moeda não seja o euro.\n\n3. Para efeitos do n.º 1, o Estado-Membro emissor envia os projetos de desenhos das moedas correntes ao Conselho, à Comissão e aos restantes Estados-Membros cuja moeda é o euro, em princípio pelo menos três meses antes da data prevista da emissão.\n\n4. No prazo de sete dias a contar do envio referido no n.º 3, os Estados-Membros cuja moeda é o euro podem, num parecer fundamentado dirigido ao Conselho e à Comissão, levantar objeções ao projeto de desenho proposto pelo Estado-Membro emissor se este projeto for suscetível de criar reações negativas junto dos seus cidadãos.\n\n5. Se a Comissão considerar que o projeto de desenho não respeita os requisitos técnicos estabelecidos no presente regulamento, apresenta, no prazo de sete dias a contar do envio referido no n.º 3, uma avaliação negativa ao Conselho.\n\n6. Se nos prazos referidos respetivamente nos n.^os^ 4 e 5 nenhum parecer fundamento ou negativo tiver sido submetido ao Conselho, considera-se que o Conselho adotou a decisão de aprovação do desenho no dia seguinte à expiração do prazo referido no n.º 5.\n\n7. Nos restantes casos, o Conselho decide sem demora aprovar o projeto de desenho, a menos que, no prazo de sete dias a contar de um parecer fundamentado ou de uma avaliação negativa, o Estado-Membro emissor retire a projeto apresentado e informe o Conselho da sua intenção de apresentar um novo projeto de desenho.\n\n8. Todas as informações pertinentes sobre novos desenhos nacionais das moedas correntes são publicadas pela Comissão no *Jornal Oficial da União Europeia*."
+  },
+  "959e11cb4b5994e1": {
+   "fragment_id": "Artigo 1.º-J",
+   "type": "artigo",
+   "heading": "Artigo 1.º-J",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-J\n\nOs artigos 1.º-C, 1.º-D e 1.º-E, bem como o artigo 1.º-H, n.º 2:\n\na) Não se aplicam às moedas correntes emitidas ou produzidas antes de 19 de julho de 2012;\n\nb) Não se aplicam, durante um período transitório que expira em 20 de julho de 2062, aos desenhos que já são utilizados legalmente nas moedas correntes em 19 de julho de 2012. As moedas correntes que tenham sido emitidas ou produzidas durante o período transitório podem ter o estatuto de moeda legal sem limite de tempo."
+  },
+  "12f77a5829dcec48": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros, nos termos do Tratado e sob reserva do disposto no n.º 1 do artigo 109.ºK e dos Protocoles n.^os^ 11 e 12.\n\n---"
+  },
+  "200fdeba8fbc0182": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#src.E0001)) JO C 208 de 9.7.1997, p. 5 e JO C 386 de 20.12.1997, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#src.E0002)) Parecer emitido em 25 de Junho de 1997 (JO C 205 de 5.7.1997, p. 18).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#src.E0003)) Parecer do Parlamento Europeu de 6 de Novembro de 1997 (JO C 358 de 24.11.1997, p. 24), posição comum do Conselho de 20 de Novembro de 1997 (JO C 23 de 23.1.1998, p. 1) e decisão do Parlamento Europeu de 17 de Dezembro de 1997 (JO C 14 de 19.1.1998).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1c1d28cf-6743-4547-a066-251cf5af36b9.0019.03/DOC_2#src.E0004)) JO L 188 de 22.7.1994, p. 1."
+  },
+  "9b60f5556403c4a5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998R0975 — PT — 22.07.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998R0975) [REGULAMENTO (CE) N.º 975/98 DO CONSELHO](http://publications.europa.eu/resource/celex/31998R0975) [de 3 de Maio de 1998](http://publications.europa.eu/resource/celex/31998R0975) [relativo aos valores faciais e às especificações técnicas das moedas em euros destinadas a circulação](http://publications.europa.eu/resource/celex/31998R0975) (JO L 139, 11.5.1998, p.6)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 729/2014 do Conselho de 24 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0729) — L 194 — 1 — 2.7.2014"
+  }
+ }
+}

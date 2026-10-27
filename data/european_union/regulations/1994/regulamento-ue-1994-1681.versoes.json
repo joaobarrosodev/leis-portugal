@@ -1,0 +1,382 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R1681:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1681-20070116",
+ "dre_path": null,
+ "source_lastmod": "2007-01-16",
+ "versions": [
+  {
+   "date": "1994-07-12",
+   "future": false,
+   "celex": "31994R1681",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bfc0dbe89fc38a00",
+    "98e0af13f6735e9d",
+    "5e7934319dd13de0",
+    "583afee4054aa5cc",
+    "c59a3bf4a3123468",
+    "d163d1552191dd0a",
+    "e7e0c78e07d5009a",
+    "955558c477cc9171",
+    "b025d0b401992157",
+    "ed069f346e874f39",
+    "2f9e28afc30fc5b1",
+    "99a1e906a1d0450c",
+    "175a38ae28807c00",
+    "275b6d67f3f1a1af"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01994R1681-20060101",
+   "acts": [
+    {
+     "id": "eu:celex:32005R2035:por",
+     "title": "REGULAMENTO (CE) N. o 2035/2005 DA COMISSÃO de 12 de Dezembro de 2005",
+     "published": null,
+     "celex": "32005R2035"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º"
+   ],
+   "fragments": [
+    "a52474de891ebe30",
+    "6dee8d9af8b3e877",
+    "3735738714f5fa74",
+    "eec52d2c7bebc5b4",
+    "fb300342f70a3ccd",
+    "b02a40b9f02cf18d",
+    "e7c658b76e5e9f9a",
+    "0ff41bb8a48bc4cd",
+    "791d0f1213317d97",
+    "ade88d3ab05b96cc",
+    "d7fc6a40c10fb3af",
+    "0194d8518d430286",
+    "a3ffa9371e0bdb8c",
+    "08fb52493cbb9b4c",
+    "39dcc5da11ef51ad",
+    "d9374bcd1c0297e8",
+    "5e72e3b45d0f2d1b"
+   ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "celex": "01994R1681-20070116",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 1.º-A",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 6.º-A",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 8.º-A",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "7686d12498dfc7ed"
+   ]
+  }
+ ],
+ "fragments": {
+  "bfc0dbe89fc38a00": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1681/94 da Comissão, de 11 de Julho de 1994, relativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio** *Jornal Oficial nº L 178 de 12/07/1994 p. 0043 - 0046 Edição especial finlandesa: Capítulo 14 Fascículo 1 p. 0205 Edição especial sueca: Capítulo 14 Fascículo 1 p. 0205*\n\nREGULAMENTO (CE) Nº 1681/94 DA COMISSÃO de 11 de Julho de 1994 relativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 4253/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) nº 2052/88 no que respeita à coordenação entre as intervenções dos diferentes fundos estruturais, por um lado, e entre estas e as do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes, por outro (1), alterado pelo Regulamento (CEE) nº 2082/93 (2) e, nomeadamente, o nº 1, quarto parágrafo, do seu artigo 23º,\n\nApós consulta do Comité Consultivo para o Desenvolvimento e a Reconversão das Regiões e do Comité ao abrigo do artigo 124º do Tratado,\n\nConsiderando que o artigo 23º do Regulamento (CEE) nº 4253/88 define os princípios que regem, na Comunidade, a luta contra as irregularidades e a recuperação dos montantes perdidos na sequência de casos de abuso ou negligência no domínio dos fundos estruturais;\n\nConsiderando que o presente regulamento abrange igualmente o instrumento financeiro de coesão, uma vez que o nº 3 do artigo 9º do Regulamento (CEE) nº 792/93 do Conselho, de 30 de Março de 1993, que institui um instrumento financeiro de coesão (3), alterado pelo Regulamento (CE) nº 566/94 (4), torna aplicável, mutatis mutandis, o artigo 23º do Regulamento (CEE) nº 4253/88 naquele domínio;\n\nConsiderando que as normas previstas no presente regulamento se devem aplicar a todas as formas de intervenção financeira previstas no Regulamento (CEE) nº 4254/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as regras de execução do Regulamento (CEE) nº 2052/88 no que respeita ao Fundo Europeu de Desenvolvimento Regional (5), alterado pelo Regulamento (CEE) nº 2083/93 (6), no Regulamento (CEE) nº 4255/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) nº 2052/88 no que respeita ao Fundo Social Europeu (7), alterado pelo Regulamento (CEE) nº 2084/93 (8), no Regulamento (CEE) nº 4256/88 do Conselho, de 19 de Dezembro de 1988, que estabelece disposições de aplicação do Regulamento (CEE) nº 2052/88 no que respeita ao Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA), secção « Orientação » (9), alterado pelo Regulamento (CEE) nº 2085/93 (10), no Regulamento (CEE) nº 2080/93 do Conselho, de 20 de Julho de 1993, que estabelece as regras de execução do Regulamento (CEE) nº 2052/88 no que respeita ao instrumento financeiro de orientação das pescas (11), e no Regulamento (CEE) nº 792/93;\n\nConsiderando que o presente regulamento apenas prevê alguns dos aspectos das obrigações que incumbem aos Estados-membros por força do nº 1, primeiro e segundo parágrafos, do artigo 23º do Regulamento (CEE) nº 4253/88 e que, consequentemente, o presente regulamento não deve prejudicar o cumprimento das restantes obrigações decorrentes da aplicação do referido artigo 23º;\n\nConsiderando que, a fim de assegurar à Comunidade um melhor conhecimento das medidas adoptadas pelos Estados-membros no âmbito da luta contra as irregularidades, é conveniente precisar as medidas nacionais que devem ser comunicadas à Comissão;\n\nConsiderando que, a fim de conhecer a natureza das práticas irregulares e os efeitos financeiros das irregularidades, assim como de recuperar os montantes pagos indevidamente, é necessário que os Estados-membros comuniquem trimestralmente à Comissão os casos de irregularidades descobertas; que esta comunicação deve ser completada por indicações sobre o andamento dos processos judiciais ou administrativos;\n\nConsiderando que é oportuno que a Comissão seja sistematicamente informada dos processos judiciais ou administrativos tendentes a punir as pessoas que tenham cometido irregularidades; que se afigura igualmente oportuno assegurar uma informação sistemática sobre as medidas tomadas pelos Estados-membros para proteger os interesses financeiros da Comunidade;\n\nConsiderando que é conveniente especificar os procedimentos aplicáveis entre os Estados-membros e a Comissão nos casos em que se verifique que os montantes perdidos na sequência de uma irregularidade são irrecuperáveis;\n\nConsiderando que é conveniente fixar um montante mínimo a partir do qual os casos de irregularidades devam ser comunicados automaticamente pelos Estados-membros;\n\nConsiderando que as normas nacionais relativas ao processo penal e à cooperação judicial entre Estados-membros em matéria penal não devem ser afectadas pelo disposto no presente regulamento;\n\nConsiderando que é oportuno prever a possibilidade de uma participação comunitária nas custas judiciais e nas despesas directamente relacionadas com o processo judicial;\n\nConsiderando que, a fim de prevenir casos de irregularidades, deve ser reforçada a cooperação entre os Estados-membros e a Comissão, zelando simultaneamente por que esta acção seja conduzida com observância das regras em matéria de confidencialidade;\n\nConsiderando que é conveniente precisar que o disposto no presente regulamento se aplica igualmente aos casos de pagamentos que deveriam ter sido efectuados no âmbito dos fundos estruturais ou dum instrumento financeiro com fins estruturais, e não o foram na sequência de uma irregularidade;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das estruturas agrícolas e do desenvolvimento rural e do Comité permanente das estruturas da pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "98e0af13f6735e9d": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nSem prejuízo das obrigações que decorrem directamente da aplicação do artigo 23º do Regulamento (CEE) nº 4253/88, o presente regulamento diz respeito a todas as formas de intervenção financeira previstas nos Regulamentos (CEE) nº 4254/88, (CEE) nº 4255/88, (CEE) nº 4256/88, (CEE) nº 2080/93 e (CEE) nº 792/93.\n\nSempre que uma medida for financiada pelas duas secções do FEOGA, as comunicações relativas às irregularidades aferentes ao referido financiamento serão feitas em conformidade com o disposto no Regulamento (CEE) nº 595/91 do Conselho (12), devendo ser feita referência a esse facto no âmbito das comunicações efectuadas por força do presente regulamento.\n\nO presente regulamento não afecta a aplicação nos Estados-membros das normas relativas ao processo penal ou à cooperação judicial entre Estados-membros em matéria penal."
+  },
+  "5e7934319dd13de0": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros comunicarão à Comissão, no prazo de três meses a contar da data da entrada em vigor do presente regulamento:\n\n- as disposições legislativas, regulamentares e administrativas relativas à aplicação das medidas previstas no nº 1 do artigo 23º do Regulamento (CEE) nº 4253/88,\n\n- a relação dos serviços e organismos encarregados da aplicação dessas medidas, assim como as disposições essenciais sobre as funções e funcionamento desses serviços e organismos e sobre os procedimentos que lhes incumbem aplicar.\n\n2. Os Estados-membros comunicarão imediatamente à Comissão as alterações respeitantes às indicações fornecidas nos termos do nº 1.\n\n3. A Comissão examinará as comunicações dos Estados-membros e informá-los-á sobre as conclusões que delas extrair. A Comissão manterá com os Estados-membros os contactos apropriados necessários à aplicação do presente artigo."
+  },
+  "583afee4054aa5cc": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. No decurso dos dois meses seguintes ao final de cada trimestre, os Estados-membros enviarão à Comissão um relatório sobre os casos de irregularidades que tenham sido objecto de um primeiro auto administrativo ou judicial.\n\nPara este fim, fornecerão, na medida do possível, informações precisas relativamente:\n\n- ao/aos fundo(s) estrutural(ais) ou instrumento financeiro em causa, objectivo, quadro comunitário de apoio e identificação da forma de intervenção ou da acção em causa,\n\n- à disposição que foi transgredida,\n\n- à natureza e à importância da despesa; nos casos em que não tenha sido efectuado qualquer pagamento, os montantes que teriam sido indevidamente pagos se a irregularidade não tivesse sido verificada, com excepção dos erros ou negligências cometidos mas detectados antes do pagamento e que não dão lugar a qualquer sanção administrativa ou judicial,\n\n- ao montante total e à sua repartição entre as diferentes fontes de financiamento,\n\n- ao período durante o qual ou ao momento em que a irregularidade foi cometida,\n\n- às práticas utilizadas para cometer a irregularidade,\n\n- à maneira como foi descoberta a irregularidade,\n\n- aos serviços ou organismos nacionais que procederam à verificação da irregularidade,\n\n- às consequências financeiras, à eventual suspensão de pagamentos e às possibilidades de recuperação,\n\n- à data e à fonte da primeira informação que permitiu suspeitar da existência de uma irregularidade,\n\n- à data da verificação da irregularidade,\n\n- se for caso disso, aos Estados-membros e aos países terceiros em causa,\n\n- à identificação das pessoas singulares e colectivas implicadas, excepto no caso de esta indicação não poder ser útil no âmbito da luta contra as irregularidades devido à natureza da irregularidade em causa.\n\n2. No caso das informações referidas no nº 1, nomeadamente as relativas às práticas utilizadas para cometer a irregularidade, assim como à maneira como foi descoberta, não estarem disponíveis, os Estados-membros completá-las-ao, na medida do possível, na altura em que transmitirem à Comissão os relatórios trimestrais seguintes.\n\n3. Se as disposições nacionais previrem o segredo de justiça, a comunicação das informações fica sujeita à autorização da autoridade competente."
+  },
+  "c59a3bf4a3123468": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nCada um dos Estados-membros comunicará imediatamente à Comissão e, se for caso disso, aos demais Estados-membros interessados, as irregularidades verificadas ou presumidas:\n\n- de que se receiem efeitos muito rápidos fora do seu território\n\ne/ou\n\n- que revelem o emprego duma nova prática irregular."
+  },
+  "d163d1552191dd0a": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. No decurso dos dois meses seguintes ao final de cada trimestre, os Estados-membros informarão a Comissão, fazendo referência a todas as comunicações anteriormente feitas nos termos do artigo 3º, dos processos instaurados na sequência das irregularidades comunicadas, bem como das alterações significativas verificadas nesses processos, nomeadamente:\n\n- dos montantes das recuperações efectuadas ou esperadas,\n\n- das providências cautelares adoptadas pelos Estados-membros para salvaguardar a recuperação dos montantes pagos indevidamente,\n\n- dos processos administrativos e judiciais instaurados com vista à recuperação dos montantes indevidamente pagos e à aplicação de sanções,\n\n- das razões do eventual abandono dos processos de recuperação; na medida do possível, a Comissão será informada antes de ser tomada uma decisão,\n\n- do eventual abandono das acções penais.\n\nOs Estados-membros comunicarão à Comissão as decisões administrativas ou judiciais, ou os elementos essenciais destas, relativos ao encerramento destes processos.\n\n2. Sempre que um Estado-membro considere que não se pode efectuar ou esperar a recuperação de um montante informará a Comissão, numa comunicação especial, do montante não recuperado e das razões pelas quais esse montante deve ficar, na sua opinião, a cargo da Comunidade ou do Estado-membro. Estas informações devem ser suficientemente pormenorizadas para permitir à Comissão adoptar no mais curto prazo possível, após concertação com as autoridades do respectivo Estado-membro, uma decisão sobre a imputabilidade das consequências financeiras na acepção do nº 1, terceiro travessão, do artigo 23º do Regulamento (CEE) nº 4253/88.\n\n3. No caso referido no nº 2, a Comissão pode pedir expressamente ao Estado-membro que prossiga o processo de recuperação."
+  },
+  "e7e0c78e07d5009a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nNo caso de não existir qualquer irregularidade a assinalar no decurso dum período de referência, os Estados-membros comunicarão esse facto à Comissão no prazo previsto no nº 1 do artigo 3º"
+  },
+  "955558c477cc9171": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nNo caso de as autoridades competentes de um Estado-membro, a pedido expresso da Comissão, decidirem intentar ou prosseguir uma acção judicial destinada a recuperar os montantes pagos indevidamente, a Comissão pode obrigar-se a reembolsar inteira ou parcialmente ao Estado-membro as custas judiciais e as despesas directamente relacionadas com essa acção, mediante a apresentação de documentos comprovativos, mesmo no caso de esta não proceder."
+  },
+  "b025d0b401992157": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A Comissão manterá com os Estados-membros interessados os contactos apropriados para completar as informações fornecidas sobre as irregularidades referidas no artigo 3º e os processos previstos no artigo 5º, especialmente sobre as possibilidades de recuperação.\n\n2. Independentemente dos contactos referidos no nº 1, a Comissão informará os Estados-membros quando a natureza da irregularidade deixar presumir que se possa recorrer noutros Estados-membros a práticas idênticas ou análogas.\n\n3. A Comissão organizará, a nível comunitário, reuniões de informação destinadas aos representantes dos Estados-membros interessados, a fim de com eles examinar as informações obtidas com base nos artigos 3º, 4º e 5º e no nº 1 do presente artigo, nomeadamente no que respeita aos ensinamentos a tirar relativamente a irregularidades, medidas de prevenção e repressão.\n\n4. No caso de a aplicação de certas disposições em vigor revelar qualquer lacuna prejudicial aos interesses da Comunidade, os Estados-membros e a Comissão consultar-se-ao, quer a pedido de um Estado-membro quer a pedido da Comissão, a fim de suprir tal lacuna."
+  },
+  "ed069f346e874f39": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA Comissão informará regularmente os Estados-membros, no quadro do Comité consultivo para coordenação no domínio da luta contra a fraude, da ordem de grandeza dos montantes referentes às irregularidades descobertas e das diversas categorias de irregularidades, tendo em conta a sua natureza e com indicação do respectivo número. Os comités referidos nos artigos 27º, 28º e 29º do Regulamento (CEE) nº 4253/88 serão igualmente informados."
+  },
+  "2f9e28afc30fc5b1": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros e a Comissão tomarão as medidas de segurança necessárias para que sejam mantidas confidenciais as informações trocadas entre si.\n\n2. As informações referidas no presente regulamento não podem, designadamente, ser transmitidas a pessoas que não sejam as que, pela natureza das suas funções, devem conhecê-las, nos Estados-membros ou nas instituições comunitárias, a menos que o Estado-membro que as comunicar tenha expressamente consentido essa transmissão.\n\n3. Os nomes de pessoas singulares ou colectivas só podem ser comunicados a outro Estado-membro ou a outra instituição comunitária no caso de esta comunicação ser necessária com vista à prevenção ou à repressão de irregularidades ou à verificação de alegadas irregularidades.\n\n4. As informações comunicadas ou obtidas, seja de que forma for, ao abrigo do presente regulamento, ficarão abrangidas pelo segredo profissional e beneficiarão da protecção concedida às informações análogas pelo direito nacional do Estado-membro que as recebeu e pelas disposições correspondentes aplicáveis às instituições comunitárias.\n\nAlém disso, essas informações não podem ser utilizadas para fins diferentes dos previstos no presente regulamento, a menos que as autoridades que as forneceram tenham para tal dado o seu expresso consentimento, e na condição de as disposições em vigor no Estado-membro em que se encontra a autoridade que as recebeu não se oporem a tal comunicação ou utilização.\n\n5. O disposto nos nºs 1 a 4 não prejudica a utilização das informações obtidas nos termos do presente regulamento, no âmbito de acções judiciais ou de processos instaurados na sequência do não cumprimento da regulamentação comunitária relativos aos fundos estruturais e aos instrumentos financeiros com fins estruturais. A autoridade competente do Estado-membro que forneceu essas informações será informada de tal utilização.\n\n6. Sempre que um Estado-membro notificar a Comissão de que da continuação de um inquérito se concluiu que uma pessoa singular ou colectiva, cujo nome lhe foi comunicado ao abrigo do presente regulamento, não esteve implicada numa irregularidade, a Comissão informará imediatamente do facto as entidades a quem comunicou esse nome nos termos do presente regulamento. Essa pessoa deixará de ser tratada como implicada na irregularidade em causa, com base na primeira notificação."
+  },
+  "99a1e906a1d0450c": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nEm caso de co-financiamento por um fundo estrutural ou por um instrumento financeiro com fins estruturais e por um Estado-membro, os montantes recuperados serão repartidos entre a Comunidade e o Estado-membro, proporcionalmente às despesas respectivas já efectuadas."
+  },
+  "175a38ae28807c00": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. No caso de as irregularidades incidirem sobre montantes inferiores a 4 000 ecus a cargo do orçamento comunitário, os Estados-membros só transmitirão à Comissão as informações previstas nos artigos 3º e 5º se esta instituição as pedir expressamente.\n\n2. O montante referido no nº 1 será convertido em moeda nacional mediante a aplicação das taxas de câmbio publicadas no Jornal Oficial das Comunidades Europeias, série C, em vigor no primeiro dia útil do ano em que forem transmitidas as informações sobre as irregularidades."
+  },
+  "275b6d67f3f1a1af": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO período compreendido entre o dia de entrada em vigor e o final do trimestre em curso será considerado como um trimestre para efeitos dos artigos 3º e 5º\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 11 de Julho de 1994.\n\nPela Comissão\n\nPeter SCHMIDHUBER\n\nMembro da Comissão\n\n(1) JO nº L 374 de 31. 12. 1988, p. 1.\n\n(2) JO nº L 193 de 31. 7. 1993, p. 20.\n\n(3) JO nº L 79 de 1. 4. 1993, p. 74.\n\n(4) JO nº L 72 de 16. 3. 1994, p. 1.\n\n(5) JO nº L 374 de 31. 12. 1988, p. 15.\n\n(6) JO nº L 193 de 31. 7. 1993, p. 34.\n\n(7) JO nº L 374 de 31. 12. 1988, p. 21.\n\n(8) JO nº L 193 de 31. 7. 1993, p. 39.\n\n(9) JO nº L 374 de 31. 12. 1988, p. 25.\n\n(10) JO nº L 193 de 31. 7. 1993, p. 44.\n\n(11) JO nº L 193 de 31. 7. 1993, p. 1.\n\n(12) JO nº L 67 de 14. 3. 1991, p. 11."
+  },
+  "a52474de891ebe30": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Julho de 1994\n\nrelativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 4253/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) n.º 2052/88 no que respeita à coordenação entre as intervenções dos diferentes fundos estruturais, por um lado, e entre estas e as do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes, por outro ([^1^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0001)), alterado pelo Regulamento (CEE) n.º 2082/93 ([^2^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0002)) e, nomeadamente, o n.º 1, quarto parágrafo, do seu artigo 23.º,\n\nApós consulta do Comité Consultivo para o Desenvolvimento e a Reconversão das Regiões e do Comité ao abrigo do artigo 124.º do Tratado,\n\nConsiderando que o artigo 23.º do Regulamento (CEE) n.º 4253/88 define os princípios que regem, na Comunidade, a luta contra as irregularidades e a recuperação dos montantes perdidos na sequência de casos de abuso ou negligência no domínio dos fundos estruturais;\n\nConsiderando que o presente regulamento abrange igualmente o instrumento financeiro de coesão, uma vez que o n.º 3 do artigo 9.º do Regulamento (CEE) n.º 792/93 do Conselho, de 30 de Março de 1993, que institui um instrumento financeiro de coesão ([^3^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0003)), alterado pelo Regulamento (CE) n.º 566/94 ([^4^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0004)), torna aplicável, *mutatis mutandis,* o artigo 23.º do Regulamento (CEE) n.º 4253/88 naquele domínio;\n\nConsiderando que as normas previstas no presente regulamento se devem aplicar a todas as formas de intervenção financeira previstas no Regulamento (CEE) n.º 4254/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as regras de execução do Regulamento (CEE) n.º 2052/88 no que respeita ao Fundo Europeu de Desenvolvimento Regional ([^5^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0005)), alterado pelo Regulamento (CEE) n.º 2083/93 ([^6^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0006)), no Regulamento (CEE) n.º 4255/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) n.º 2052/88 no que respeita ao Fundo Social Europeu ([^7^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0007)), alterado pelo Regulamento (CEE) n.º 2084/93 ([^8^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0008)), no Regulamento (CEE) n.º 4256/88 do Conselho, de 19 de Dezembro de 1988, que estabelece disposições de aplicação do Regulamento (CEE) n.º 2052/88 no que respeita ao Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA), secção «Orientação» ([^9^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0009)), alterado pelo Regulamento (CEE) n.º 2085/93 ([^10^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0010)), no Regulamento (CEE) n.º 2080/93 do Conselho, de 20 de Julho de 1993, que estabelece as regras de execução do Regulamento (CEE) n.º 2052/88 no que respeita ao instrumento financeiro de orientação das pescas ([^11^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0011)), e no Regulamento (CEE) n.º 792/93;\n\nConsiderando que o presente regulamento apenas prevê alguns dos aspectos das obrigações que incumbem aos Estados-membros por força do n.º 1, primeiro e segundo parágrafos, do artigo 23.º do Regulamento (CEE) n.º 4253/88 e que, consequentemente, o presente regulamento não deve prejudicar o cumprimento das restantes obrigações decorrentes da aplicação do referido artigo 23.º;\n\nConsiderando que, a fim de assegurar à Comunidade um melhor conhecimento das medidas adoptadas pelos Estados-membros no âmbito da luta contra as irregularidades, é conveniente precisar as medidas nacionais que devem ser comunicadas à Comissão;\n\nConsiderando que, a fim de conhecer a natureza das práticas irregulares e os efeitos financeiros das irregularidades, assim como de recuperar os montantes pagos indevidamente, é necessário que os Estados-membros comuniquem trimestralmente à Comissão os casos de irregularidades descobertas; que esta comunicação deve ser completada por indicações sobre o andamento dos processos judiciais ou administrativos;\n\nConsiderando que é oportuno que a Comissão seja sistematicamente informada dos processos judiciais ou administrativos tendentes a punir as pessoas que tenham cometido irregularidades; que se afigura igualmente oportuno assegurar uma informação sistemática sobre as medidas tomadas pelos Estados-membros para proteger os interesses financeiros da Comunidade;\n\nConsiderando que é conveniente especificar os procedimentos aplicáveis entre os Estados-membros e a Comissão nos casos em que se verifique que os montantes perdidos na sequência de uma irregularidade são irrecuperáveis;\n\nConsiderando que é conveniente fixar um montante mínimo a partir do qual os casos de irregularidades devam ser comunicados automaticamente pelos Estados-membros;\n\nConsiderando que as normas nacionais relativas ao processo penal e à cooperação judicial entre Estados-membros em matéria penal não devem ser afectadas pelo disposto no presente regulamento;\n\nConsiderando que é oportuno prever a possibilidade de uma participação comunitária nas custas judiciais e nas despesas directamente relacionadas com o processo judicial;\n\nConsiderando que, a fim de prevenir casos de irregularidades, deve ser reforçada a cooperação entre os Estados-membros e a Comissão, zelando simultaneamente por que esta acção seja conduzida com observância das regras em matéria de confidencialidade;\n\nConsiderando que é conveniente precisar que o disposto no presente regulamento se aplica igualmente aos casos de pagamentos que deveriam ter sido efectuados no âmbito dos fundos estruturais ou dum instrumento financeiro com fins estruturais, e não o foram na sequência de uma irregularidade;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das estruturas agrícolas e do desenvolvimento rural e do Comité permanente das estruturas da pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6dee8d9af8b3e877": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Sem prejuízo das obrigações que decorrem directamente da aplicação do artigo 23.º do Regulamento (CEE) n.º 4253/88 e do artigo 38.º do Regulamento (CE) n.º 1260/1999, o presente regulamento diz respeito a todas as formas de intervenção financeira previstas nos Regulamentos (CEE) n.º 4254/88, (CEE) n.º 4255/88, (CEE) n.º 4256/88, (CEE) n.º 2080/93, bem como nos Regulamentos (CE) n.º 1783/1999, (CE) n.º 1784/1999 e (CE) n.º 1263/1999. O presente regulamento é igualmente aplicável às intervenções financiadas ao abrigo do primeiro travessão do n.º 2 do artigo 35.º do Regulamento (CE) n.º 1257/1999 (secção Orientação).\n\n2. A comunicação de irregularidades no âmbito dos programas Interreg previstos na alínea a) do n.º 1 do artigo 20.º do Regulamento (CE) n.º 1260/1999, bem como de qualquer outro programa com carácter transnacional, compete ao Estado-Membro em que foram incorridas as despesas. O Estado-Membro informa simultaneamente a autoridade de gestão e a autoridade de pagamento do programa, bem como a pessoa ou o serviço designado para emitir a declaração aquando do encerramento, em conformidade com o artigo 15.º do Regulamento (CE) n.º 438/2001."
+  },
+  "3735738714f5fa74": {
+   "fragment_id": "Artigo 1.º-A",
+   "type": "artigo",
+   "heading": "Artigo 1.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Irregularidade»: qualquer violação de uma disposição do direito comunitário que resulte de um acto ou de uma omissão de um operador económico que tenha ou possa ter por efeito lesar o orçamento geral das Comunidades Europeias através da imputação de uma despesa indevida no orçamento comunitário;\n\n2) «Operador económico»: qualquer pessoa singular ou colectiva, bem como as outras entidades que participem na realização da intervenção dos fundos, à excepção dos Estados-Membros no exercício das suas prerrogativas de poder público;\n\n3) «Primeiro auto administrativo ou judicial»: é a primeira avaliação escrita de uma autoridade competente, quer administrativa, quer judicial, que conclua, com base em factos concretos, da existência de uma irregularidade, sem prejuízo da possibilidade de esta conclusão vir a ser revista ou retirada posteriormente na sequência do desenrolar do processo administrativo ou judicial;\n\n4) «Suspeita de fraude»: uma irregularidade que dá lugar ao início de um processo administrativo e/ou judicial ao nível nacional com o fim de determinar a existência de um comportamento intencional, em especial de uma fraude como a prevista na alínea a) do n.º 1 do artigo 1.º da Convenção relativa à protecção dos interesses financeiros das Comunidades Europeias;\n\n5) «Falência»: processos de insolvência na acepção da alínea a) do artigo 2.º do Regulamento (CE) n.º 1346/2000 do Conselho ([^12^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#E0013))."
+  },
+  "eec52d2c7bebc5b4": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No decurso dos dois meses seguintes ao final de cada trimestre, os Estados-Membros enviarão à Comissão um relatório sobre os casos de irregularidades que tenham sido objecto de um primeiro auto administrativo e/ou judicial.\n\nPara este fim, fornecerão, em todo o caso, informações precisas relativamente:\n\na) Ao(s) fundo(s) estrutural(ais) ou instrumento financeiro em causa, ao objectivo, à identificação da forma de intervenção ou da acção em causa e ao número ARINCO ou código CCI (Código Comum de Identificação);\n\nb) À disposição que foi transgredida;\n\nc) À data e à fonte da primeira informação que permitiu suspeitar da existência da irregularidade;\n\nd) Às práticas utilizadas para cometer a irregularidade;\n\ne) Se for caso disso, se esta prática indicia uma suspeição de fraude;\n\nf) À maneira como foi descoberta a irregularidade;\n\ng) Se for caso disso, aos Estados-Membros e países terceiros em causa;\n\nh) Ao momento ou ao período durante o qual a irregularidade foi cometida;\n\ni) Aos serviços ou organismos nacionais que procederam à verificação da irregularidade e aos serviços responsáveis pelo seguimento administrativo e/ou judicial;\n\nj) À data do primeiro auto administrativo ou judicial da irregularidade;\n\nk) À identificação das pessoas singulares e/ou colectivas implicadas ou de outras entidades que participem, excepto no caso de esta indicação não poder ser útil no âmbito da luta contra as irregularidades devido à natureza da irregularidade em causa;\n\nl) Ao montante total do orçamento aprovado para a operação e à repartição do seu co-financiamento entre contribuição comunitária, nacional, privada e outra;\n\nm) Ao montante afectado pela irregularidade e à sua repartição entre contribuição comunitária, nacional, privada e outra; nos casos em que não tenha sido efectuado qualquer pagamento de contribuição pública às pessoas e/ou outras entidades identificadas na alínea k), aos montantes que teriam sido indevidamente pagos se a irregularidade não tivesse sido verificada;\n\nn) À eventual suspensão de pagamentos e às possibilidades de recuperação;\n\no) À natureza da despesa irregular.\n\nEm derrogação ao estabelecido no primeiro parágrafo, não devem ser comunicados os casos seguintes:\n\n— o caso em que o único aspecto que constitui uma irregularidade consista numa falta de execução parcial ou total da operação co-financiada pelo orçamento comunitário na sequência da falência do beneficiário final e/ou do destinatário último. No entanto, devem ser comunicadas as irregularidades que precedem uma falência e qualquer suspeita de fraude;\n\n— os casos assinalados à autoridade administrativa pelo beneficiário final ou o destinatário último voluntariamente ou antes da sua descoberta pela autoridade competente, tanto antes como após a concessão da contribuição pública;\n\n— os casos em que a autoridade administrativa verifica existir um erro ao nível da elegibilidade do projecto financiado e procede à sua correcção antes do pagamento da contribuição pública.\n\n2. No caso das informações referidas no n.º 1, nomeadamente as relativas às práticas utilizadas para cometer a irregularidade, assim como à maneira como foi descoberta, não estarem disponíveis, os Estados-membros completá-las-ão, na medida do possível, na altura em que transmitirem à Comissão os relatórios trimestrais seguintes.\n\n3. Se as disposições nacionais previrem o segredo de justiça, a comunicação das informações fica sujeita à autorização da autoridade competente."
+  },
+  "fb300342f70a3ccd": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCada um dos Estados-membros comunicará imediatamente à Comissão e, se for caso disso, aos demais Estados-membros interessados, as irregularidades verificadas ou presumidas:\n\n— de que se receiem efeitos muito rápidos fora do seu território\n\n— e/ou\n\n— que revelem o emprego duma nova prática irregular."
+  },
+  "b02a40b9f02cf18d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. No decurso dos dois meses seguintes ao final de cada trimestre, os Estados-membros informarão a Comissão, fazendo referência a todas as comunicações anteriormente feitas nos termos do artigo 3.º, dos processos instaurados na sequência das irregularidades comunicadas, bem como das alterações significativas verificadas nesses processos, nomeadamente:\n\n— dos montantes das recuperações efectuadas ou esperadas,\n\n— das providências cautelares adoptadas pelos Estados-membros para salvaguardar a recuperação dos montantes pagos indevidamente,\n\n— dos processos administrativos e judiciais instaurados com vista à recuperação dos montantes indevidamente pagos e à aplicação de sanções,\n\n— das razões do eventual abandono dos processos de recuperação; na medida do possível, a Comissão será informada antes de ser tomada uma decisão,\n\n— do eventual abandono das acções penais.\n\nOs Estados-Membros comunicarão à Comissão as decisões administrativas ou judiciais, ou os elementos essenciais destas, relativas ao encerramento destes processos e indicarão em especial se os elementos verificados revelam ou não uma suspeita de fraude.\n\n2. Sempre que um Estado-Membro considere que não se pode efectuar ou esperar a recuperação de um montante, informará a Comissão, numa comunicação especial, do montante não recuperado e das razões pelas quais esse montante deve ficar, na sua opinião, a cargo da Comunidade ou do Estado-Membro.\n\nEstas informações devem ser suficientemente pormenorizadas para permitir à Comissão adoptar no mais curto prazo possível, após concertação com as autoridades do respectivo Estado-Membro, uma decisão sobre a imputabilidade:\n\n— das consequências financeiras na acepção do terceiro travessão do n.º 1 do artigo 23.º do Regulamento (CEE) n.º 4253/88;\n\n— dos montantes implicados no que diz respeito às formas de intervenções regidas pelo Regulamento (CE) n.º 1260/1999.\n\nA comunicação deve incluir pelo menos:\n\na) Uma cópia do acto de concessão da contribuição;\n\nb) A data do último pagamento ao beneficiário final e/ou destinatário último;\n\nc) Uma cópia da ordem de recuperação;\n\nd) Se necessário, uma cópia do documento que atesta a insolvência do beneficiário final ou do destinatário último;\n\ne) Uma descrição sucinta das medidas tomadas, bem como as respectivas datas, pelo Estado-Membro para recuperar o montante em questão.\n\n3. No caso referido no n.º 2, a Comissão pode pedir expressamente ao Estado-membro que prossiga o processo de recuperação."
+  },
+  "e7c658b76e5e9f9a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo caso de não existir qualquer irregularidade a assinalar no decurso dum período de referência, os Estados-membros comunicarão esse facto à Comissão no prazo previsto no n.º 1 do artigo 3.º"
+  },
+  "0ff41bb8a48bc4cd": {
+   "fragment_id": "Artigo 6.º-A",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A\n\nAs informações exigidas pelos artigos 3.º e 4.º e pelo n.º 1 do artigo 5.º devem ser transmitidas tanto quanto possível por via electrónica, mediante utilização do módulo previsto para este efeito pela Comissão, através de uma ligação protegida."
+  },
+  "791d0f1213317d97": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo caso de as autoridades competentes de um Estado-membro, a pedido expresso da Comissão, decidirem intentar ou prosseguir uma acção judicial destinada a recuperar os montantes pagos indevidamente, a Comissão pode obrigar-se a reembolsar inteira ou parcialmente ao Estado-membro as custas judiciais e as despesas directamente relacionadas com essa acção, mediante a apresentação de documentos comprovativos, mesmo no caso de esta não proceder."
+  },
+  "ade88d3ab05b96cc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão manterá com os Estados-membros interessados os contactos apropriados para completar as informações fornecidas sobre as irregularidades referidas no artigo 3.º e os processos previstos no artigo 5.º, especialmente sobre as possibilidades de recuperação.\n\n2. Independentemente dos contactos referidos no n.º 1, a Comissão informará os Estados-membros quando a natureza da irregularidade deixar presumir que se possa recorrer noutros Estados-membros a práticas idênticas ou análogas.\n\n3. A Comissão organizará, a nível comunitário, reuniões de informação destinadas aos representantes dos Estados-membros interessados, a fim de com eles examinar as informações obtidas com base nos artigos 3.º, 4.º e 5.º e no n.º 1 do presente artigo, nomeadamente no que respeita aos ensinamentos a tirar relativamente a irregularidades, medidas de prevenção e repressão.\n\n4. No caso de a aplicação de certas disposições em vigor revelar qualquer lacuna prejudicial aos interesses da Comunidade, os Estados-membros e a Comissão consultar-se-ão, quer a pedido de um Estado-membro quer a pedido da Comissão, a fim de suprir tal lacuna."
+  },
+  "d7fc6a40c10fb3af": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\nA Comissão pode utilizar todas as informações de carácter geral ou operacional comunicadas pelos Estados-Membros em aplicação do presente regulamento para efectuar análises de risco com recurso a ferramentas informáticas adequadas, e elaborar, com base nas informações obtidas, relatórios e dispositivos de alerta para melhor apreender os riscos identificados."
+  },
+  "0194d8518d430286": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Comissão informará regularmente os Estados-membros, no quadro do Comité consultivo para coordenação no domínio da luta contra a fraude, da ordem de grandeza dos montantes referentes às irregularidades descobertas e das diversas categorias de irregularidades, tendo em conta a sua natureza e com indicação do respectivo número. [**►M1**](http://publications.europa.eu/resource/celex/32005R2035) Os comités referidos nos artigos 48.º, 49.º, 50.º e 51.º do Regulamento (CE) n.º 1260/1999 serão igualmente informados.**◄**"
+  },
+  "a3ffa9371e0bdb8c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros e a Comissão tomarão as medidas de segurança necessárias para que sejam mantidas confidenciais as informações trocadas entre si.\n\n2. As informações referidas no presente regulamento não podem, designadamente, ser transmitidas a pessoas que não sejam as que, pela natureza das suas funções, devem conhecê-las, nos Estados-membros ou nas instituições comunitárias, a menos que o Estado-membro que as comunicar tenha expressamente consentido essa transmissão.\n\n3. Sempre que se proceda ao tratamento de dados de carácter pessoal no âmbito da aplicação do presente regulamento, a Comissão e os Estados-Membros velam pelo respeito das disposições comunitárias e nacionais relativas à protecção destes dados, em especial as previstas pela Directiva 95/46/CE e, se for caso disso, pelo Regulamento (CE) n.º 45/2001.\n\n4. As informações comunicadas ou obtidas, seja de que forma for, ao abrigo do presente regulamento, ficarão abrangidas pelo segredo profissional e beneficiarão da protecção concedida às informações análogas pelo direito nacional do Estado-membro que as recebeu e pelas disposições correspondentes aplicáveis às instituições comunitárias.\n\nAlém disso, essas informações não podem ser utilizadas para fins diferentes dos previstos no presente regulamento, a menos que as autoridades que as forneceram tenham para tal dado o seu expresso consentimento, e na condição de as disposições em vigor no Estado-membro em que se encontra a autoridade que as recebeu não se oporem a tal comunicação ou utilização.\n\n5. O disposto nos n.^os^ 1 a 4 não prejudica a utilização das informações obtidas nos termos do presente regulamento, no âmbito de acções judiciais ou de processos instaurados na sequência do não cumprimento da regulamentação comunitária relativos aos fundos estruturais e aos instrumentos financeiros com fins estruturais. A autoridade competente do Estado-membro que forneceu essas informações será informada de tal utilização.\n\n6. Sempre que um Estado-membro notificar a Comissão de que da continuação de um inquérito se concluiu que uma pessoa singular ou colectiva, cujo nome lhe foi comunicado ao abrigo do presente regulamento, não esteve implicada numa irregularidade, a Comissão informará imediatamente do facto as entidades a quem comunicou esse nome nos termos do presente regulamento. Essa pessoa deixará de ser tratada como implicada na irregularidade em causa, com base na primeira notificação."
+  },
+  "08fb52493cbb9b4c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nEm caso de co-financiamento por um fundo estrutural ou por um instrumento financeiro com fins estruturais e por um Estado-membro, os montantes recuperados serão repartidos entre a Comunidade e o Estado-membro, proporcionalmente às despesas respectivas já efectuadas."
+  },
+  "39dcc5da11ef51ad": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. No caso de as irregularidades incidirem sobre montantes inferiores a 10 000 euros a cargo do orçamento comunitário, os Estados-Membros só transmitirão à Comissão as informações previstas nos artigos 3.º e 5.º se esta última as solicitar expressamente.\n\n2. Os Estados-Membros que não adoptaram o euro como divisa à data da verificação da irregularidade devem converter em euros o montante das despesas em causa em moeda nacional. Este montante será convertido em euros mediante a utilização da taxa contabilística mensal da Comissão do mês durante o qual a despesa foi ou seria registada nas contas da autoridade de pagamento do programa operacional em questão. Esta taxa é publicada mensalmente por via electrónica pela Comissão."
+  },
+  "d9374bcd1c0297e8": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO período compreendido entre o dia de entrada em vigor e o final do trimestre em curso será considerado como um trimestre para efeitos dos artigos 3.º e 5.º\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "5e72e3b45d0f2d1b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0001)) JO n.º L 374 de 31. 12. 1988, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0002)) JO n.º L 193 de 31. 7. 1993, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0003)) JO n.º L 79 de 1. 4. 1993, p. 74.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0004)) JO n.º L 72 de 16. 3. 1994, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0005)) JO n.º L 374 de 31. 12. 1988, p. 15.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0006)) JO n.º L 193 de 31. 7. 1993, p. 34.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0007)) JO n.º L 374 de 31. 12. 1988, p. 21.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0008)) JO n.º L 193 de 31. 7. 1993, p. 39.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0009)) JO n.º L 374 de 31. 12. 1988, p. 25.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0010)) JO n.º L 193 de 31. 7. 1993, p. 44.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0011)) JO n.º L 193 de 31. 7. 1993, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/1ab24dfd-6529-4156-a185-070849185590.0017.03/DOC_1#src.E0013)) JO L 160 de 30.6.2000, p. 1."
+  },
+  "7686d12498dfc7ed": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R1681 — PT — 16.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994R1681) [REGULAMENTO (CE) N.º 1681/94 DA COMISSÃO](http://publications.europa.eu/resource/celex/31994R1681) [de 11 de Julho de 1994](http://publications.europa.eu/resource/celex/31994R1681) [relativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio](http://publications.europa.eu/resource/celex/31994R1681) (JO L 178, 12.7.1994, p.43)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1828/2006 da Comissão de 8 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1828) — L 371 — 1 — 27.12.2006"
+  }
+ }
+}

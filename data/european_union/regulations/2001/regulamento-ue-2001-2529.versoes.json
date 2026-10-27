@@ -1,0 +1,1253 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R2529:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2529-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "2001-12-22",
+   "future": false,
+   "celex": "32001R2529",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51fcfc5777fd2983",
+    "ff4dfbe43817757e",
+    "1c0f2ee51e4be6c6",
+    "e6fbdaf8dabeeb57",
+    "750fcb0be91e567a",
+    "d7f070e1ffd0ed09",
+    "6f8d37d6f0e48073",
+    "fc7032aade8ee393",
+    "e011f999a28afdb0",
+    "a99633c4ba9e0f73",
+    "e86819a5e085909b",
+    "fdd3bbc32a7a6d70",
+    "7f6f796b32ed6225",
+    "d5f19eea6e8f6e9d",
+    "33fce6c9772560a6",
+    "f285ecd6a0fbd0ca",
+    "1ec4029922d1bf10",
+    "e2b700e603dd6893",
+    "efc3d0330883971d",
+    "53712b5355653e50",
+    "6148dcfa93755fe6",
+    "083f00ba8c4bdf54",
+    "af8cfbe37ec156f4",
+    "6f5cb62cf1fb96f5",
+    "44f18670f604575f",
+    "682c8fbba80406f3",
+    "93f780864686ac50",
+    "efefed47a4799480",
+    "2795308a0b21de5d",
+    "08c5282af94f0b41",
+    "7165e5385dcf46c8",
+    "dc9c4cd52f061de7",
+    "ec6ddeb4ed5244b1",
+    "f796dbdc2f9d408b",
+    "4a8050b53b6e19a8",
+    "ccb2952c826fa5a2",
+    "c85b51a2bf8f8d10",
+    "4130a04d539315e5",
+    "8857d89c7b3452b8",
+    "0e54afa630af2e58",
+    "bd1db476a7e182b5",
+    "982e9e398c86ef80",
+    "8970eb726734b49f",
+    "155882b02d8ae03d",
+    "e127ab64da9dd5c8"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02001R2529-20040501",
+   "acts": [
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 31.º",
+    "Adita TÍTULO I",
+    "Adita MERCADO INTERNO",
+    "Adita CAPÍTULO I",
+    "Adita PAGAMENTOS DIRECTOS",
+    "Adita Secção 1",
+    "Adita Prémio por ovelha e por cabra",
+    "Adita Secção 2",
+    "Adita Prémio complementar",
+    "Adita Secção 3",
+    "Adita Disposições comuns",
+    "Adita Secção 4",
+    "Adita Limites individuais",
+    "Adita CAPÍTULO II",
+    "Adita PAGAMENTOS COMPLEMENTARES",
+    "Adita Artigo 11.º-A",
+    "Adita CAPÍTULO III",
+    "Adita Armazenagem privada",
+    "Adita TÍTULO II",
+    "Adita REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Adita Artigo 14.º",
+    "Adita TÍTULO III",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita ANEXO III",
+    "Adita Notas",
+    "Suprime TÍTULO I — MERCADO INTERNO",
+    "Suprime CAPÍTULO I — PAGAMENTOS DIRECTOS",
+    "Suprime Secção 1 — Prémio por ovelha e por cabra",
+    "Suprime Secção 2 — Prémio complementar",
+    "Suprime Secção 3 — Disposições comuns",
+    "Suprime Secção 4 — Limites individuais",
+    "Suprime CAPÍTULO II — PAGAMENTOS COMPLEMENTARES",
+    "Suprime CAPÍTULO III — Armazenagem privada",
+    "Suprime TÍTULO II — REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Suprime Artigo 14.º — As taxas de direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o artigo 1.o",
+    "Suprime TÍTULO III — DISPOSIÇÕES GERAIS",
+    "Suprime ANEXO I — DIREITOS INDIVIDUAIS AO PRÉMIO POR OVELHA E POR CABRA",
+    "Suprime ANEXO II — MONTANTES GLOBAIS A QUE SE REFERE O ARTIGO 11.o",
+    "Suprime ANEXO III — QUADRO DE CORRESPONDÊNCIA"
+   ],
+   "fragments": [
+    "bd16255077f8649f",
+    "f633585684a34186",
+    "ffc348f463b781ad",
+    "bff0910fce5bf8eb",
+    "736a73d1052c0842",
+    "226c39ffd0a88dad",
+    "8c4b9bd8326876b5",
+    "acd430ebe8c3c758",
+    "3869c2effa545d25",
+    "05573be134590b41",
+    "22bcc4527c5f599b",
+    "18e5b2282eff7afa",
+    "3d7ced112099f692",
+    "31b104c224957adf",
+    "b426821733183e1b",
+    "e66b8427f7f19165",
+    "cdb82526e4700e4d",
+    "9b861bf0ca46532b",
+    "b5d7193d82983e30",
+    "5e1003faad09f500",
+    "75139ebf39a5428a",
+    "9ac1231040fb1db7",
+    "8a6a80bdc79590d4",
+    "f0f8c960bfdbce9b",
+    "91b2f9b03b692579",
+    "445cd437e0ed6e30",
+    "52b530d7262f2f65",
+    "1e7a0903d2eed348",
+    "656dd057228d9929",
+    "8f6499c881a7f665",
+    "4c8bdeab3d91ec7d",
+    "f5d98f8f882aae17",
+    "64eb2d9c62aac694",
+    "eca8e48d44bbfe3e",
+    "40d2d436f4c90809",
+    "5c0762cbafc7b14a",
+    "c71a47847bae4d25",
+    "9f12c37f2064482b",
+    "0b96bbb3c37fc1fb",
+    "9db704600627e53c",
+    "e17a2adcfbbdd4cc",
+    "8626c333d2c81105",
+    "9c0c5907689a291f",
+    "b02d29023190a637",
+    "1b49c88b10b36fcd",
+    "bf86d0fec79e079e",
+    "e5f2e3420030ad7a",
+    "059c1f4671f39e45",
+    "eff9695537bb4a25",
+    "39e241323d8f1827",
+    "8b6650c18d71eda7",
+    "45a8d66c72aa8f89",
+    "2c8110a74439edbb",
+    "f79260b74efbe031",
+    "2d004840ce48d5c1",
+    "93a6b054314e11bd",
+    "618b238cad209e9d"
+   ]
+  },
+  {
+   "date": "2005-01-01",
+   "future": false,
+   "celex": "02001R2529-20050101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1782:por",
+     "title": "REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1782"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera Notas",
+    "Suprime Artigo 3.º",
+    "Suprime Secção 1",
+    "Suprime Prémio por ovelha e por cabra",
+    "Suprime Artigo 4.º",
+    "Suprime Secção 2",
+    "Suprime Prémio complementar",
+    "Suprime Artigo 5.º",
+    "Suprime Secção 3",
+    "Suprime Disposições comuns",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Secção 4",
+    "Suprime Limites individuais",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º"
+   ],
+   "fragments": [
+    "ff848769f535063e",
+    "f633585684a34186",
+    "ffc348f463b781ad",
+    "bff0910fce5bf8eb",
+    "736a73d1052c0842",
+    "226c39ffd0a88dad",
+    "8c4b9bd8326876b5",
+    "f0f8c960bfdbce9b",
+    "91b2f9b03b692579",
+    "52b530d7262f2f65",
+    "1e7a0903d2eed348",
+    "656dd057228d9929",
+    "8f6499c881a7f665",
+    "4c8bdeab3d91ec7d",
+    "f5d98f8f882aae17",
+    "64eb2d9c62aac694",
+    "eca8e48d44bbfe3e",
+    "40d2d436f4c90809",
+    "5c0762cbafc7b14a",
+    "c71a47847bae4d25",
+    "9f12c37f2064482b",
+    "0b96bbb3c37fc1fb",
+    "9db704600627e53c",
+    "e17a2adcfbbdd4cc",
+    "8626c333d2c81105",
+    "9c0c5907689a291f",
+    "b02d29023190a637",
+    "1b49c88b10b36fcd",
+    "bf86d0fec79e079e",
+    "e5f2e3420030ad7a",
+    "059c1f4671f39e45",
+    "eff9695537bb4a25",
+    "39e241323d8f1827",
+    "8b6650c18d71eda7",
+    "45a8d66c72aa8f89",
+    "2c8110a74439edbb",
+    "6c1760bbe9329318",
+    "2d004840ce48d5c1",
+    "93a6b054314e11bd",
+    "365902dd58abbe69"
+   ]
+  },
+  {
+   "date": "2005-12-02",
+   "future": false,
+   "celex": "02001R2529-20051202",
+   "acts": [
+    {
+     "id": "eu:celex:32005R1913:por",
+     "title": "REGULAMENTO (CE) N. o 1913/2005 DO CONSELHO de 23 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R1913"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 22.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "8016264daad7a570",
+    "f633585684a34186",
+    "ffc348f463b781ad",
+    "bff0910fce5bf8eb",
+    "736a73d1052c0842",
+    "226c39ffd0a88dad",
+    "8c4b9bd8326876b5",
+    "f0f8c960bfdbce9b",
+    "91b2f9b03b692579",
+    "52b530d7262f2f65",
+    "1e7a0903d2eed348",
+    "656dd057228d9929",
+    "8f6499c881a7f665",
+    "4c8bdeab3d91ec7d",
+    "f5d98f8f882aae17",
+    "64eb2d9c62aac694",
+    "eca8e48d44bbfe3e",
+    "40d2d436f4c90809",
+    "5c0762cbafc7b14a",
+    "c71a47847bae4d25",
+    "9f12c37f2064482b",
+    "0b96bbb3c37fc1fb",
+    "9db704600627e53c",
+    "e17a2adcfbbdd4cc",
+    "8626c333d2c81105",
+    "9c0c5907689a291f",
+    "c63b7aa33160dac2",
+    "1b49c88b10b36fcd",
+    "bf86d0fec79e079e",
+    "e5f2e3420030ad7a",
+    "059c1f4671f39e45",
+    "eff9695537bb4a25",
+    "39e241323d8f1827",
+    "8b6650c18d71eda7",
+    "45a8d66c72aa8f89",
+    "2c8110a74439edbb",
+    "9ba99c0be343707b",
+    "2d004840ce48d5c1",
+    "93a6b054314e11bd",
+    "e5e0b432703a3544"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "02001R2529-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime MERCADO INTERNO",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO I",
+    "Suprime PAGAMENTOS DIRECTOS",
+    "Suprime CAPÍTULO II",
+    "Suprime PAGAMENTOS COMPLEMENTARES",
+    "Suprime Artigo 11.º-A",
+    "Suprime CAPÍTULO III",
+    "Suprime Armazenagem privada",
+    "Suprime Artigo 12.º",
+    "Suprime TÍTULO II",
+    "Suprime REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime TÍTULO III",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2962d272242241bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "51fcfc5777fd2983": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2529/2001 do Conselho, de 19 de Dezembro de 2001, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino** *Jornal Oficial nº L 341 de 22/12/2001 p. 0003 - 0014*\n\nRegulamento (CE) n.o 2529/2001 do Conselho\n\nde 19 de Dezembro de 2001\n\nque estabelece a organização comum de mercado no sector das carnes de ovino e caprino\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.o e 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando o seguinte:\n\n(1) As disposições relativas à organização comum de mercado no sector das carnes de ovino e caprino foram estabelecidas em vários regulamentos. Por razões de clareza, esses regulamentos devem ser revogados e substituídos por um novo regulamento. O Regulamento (CEE) n.o 2644/80 do Conselho, de 14 de Outubro de 1980, que estabelece as regras gerais relativas à intervenção no sector das carnes de ovino e caprino(4), o Regulamento (CEE) n.o 3901/89 do Conselho, de 12 de Dezembro de 1989, que estabelece a definição dos borregos engordados para obtenção de carcaças pesadas(5), o Regulamento (CEE) n.o 1323/90 do Conselho, de 14 de Maio de 1990, que institui uma ajuda específica à criação de ovinos e caprinos em determinadas zonas desfavorecidas da Comunidade(6), o Regulamento (CEE) n.o 3493/90 do Conselho, de 27 de Novembro de 1990, que estabelece as regras gerais relativas à concessão do prémio em benefício dos produtores de carne de ovino e caprino(7), o Regulamento (CEE) n.o 338/91 do Conselho, de 5 de Fevereiro de 1991, que determina a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas(8), e o Regulamento (CE) n.o 2467/98 do Conselho, de 3 de Novembro de 1998, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino(9), são substituídos por novas disposições do presente regulamento e devem, pois, ser revogados.\n\n(2) A organização comum dos mercados agrícolas pode tomar diversas formas, consoante os produtos.\n\n(3) Para atingir os objectivos estabelecidos no artigo 33.o do Tratado, nomeadamente estabilizar os mercados e assegurar um nível de vida decente à população agrícola em causa, é necessário prever determinadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado. Devem ser previstas medidas respeitantes ao mercado interno que incluam, nomeadamente, um prémio aos produtores de carnes de ovino e de caprino e um regime de armazenagem privada.\n\n(4) O montante do prémio a conceder aos produtores deve ter em consideração as diversas especializações dos sistemas de produção na Comunidade. O prémio relativo às cabras deve ser concedido aos produtores em zonas específicas onde a criação de caprinos seja essencialmente orientada para a produção de carne de caprino e onde as técnicas de criação de caprinos e da de ovinos sejam de natureza semelhante.\n\n(5) Deve, também, ser previsto o pagamento de um prémio complementar aos produtores de zonas em que a produção de ovinos e caprinos constitua uma actividade tradicional ou contribua de forma significativa para a economia rural. A concessão do prémio complementar deve limitar-se aos produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em zonas desfavorecidas, definidas em conformidade com o Regulamento (CE) n.o 1257/1999, de 27 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos(10).\n\n(6) É oportuno, por razões administrativas, que a data de início de pagamento dos prémios coincida com o início do ano orçamental. A fim de alcançar o impacto económico desejado, os prémios devem ser concedidos dentro de certos prazos.\n\n(7) É necessário prever a possibilidade de alterar os montantes dos prémios na sequência de evoluções da produção, da produtividade e do mercado.\n\n(8) Para não incentivar a produção e o aumento das despesas será conveniente manter limites máximos individuais para os produtores. O número total de direitos ao prémio de cada Estado-Membro deve ser fixado com base nos níveis já estabelecidos.\n\n(9) Os novos produtores e os produtores já em actividade cujos limites máximos individuais não correspondam, por razões diversas, a alterações nos seus efectivos não devem ser excluídos do direito ao prémio. Deve, pois, ser prevista a criação de reservas nacionais, a alimentar e administrar de acordo com critérios comunitários. Pela mesma razão, a transferência dos direitos ao prémio, sem transferência da exploração que lhes está associada, deve ser sujeita a regras segundo as quais parte dos direitos transferidos seja retirada sem pagamento compensatório e atribuída a essa reserva nacional.\n\n(10) A fim de permitir que os produtores reduzam a sua produção durante um período limitado, os Estados-Membros devem ser autorizados a prever a possibilidade de uma transferência temporária dos direitos ao prémio.\n\n(11) Deve ser criado um vínculo entre as zonas ou localizações sensíveis e a produção ovina e caprina, a fim de assegurar a manutenção desta, especialmente nas zonas em que essa produção é importante para a economia local.\n\n(12) As condições de produção de carne de ovino e caprino bem como a situação dos produtores em termos de rendimento variam significativamente em diferentes zonas de produção da Comunidade. É, pois, adequado prever um quadro flexível de pagamentos comunitários complementares a determinar e efectuar pelos Estados-Membros no respeito de montantes globais fixos e segundo certos critérios comuns, a fim de responder adequadamente às disparidades estruturais e naturais e às diversas necessidades do sector. Os montantes globais devem ser atribuídos a cada Estado-Membro com base na sua parte dos prémios pagos. Os critérios comuns destinam-se, nomeadamente, a evitar que os pagamentos complementares tenham efeitos discriminatórios e a ter plenamente em conta os compromissos multilaterais relevantes da Comunidade. É nomeadamente essencial que os Estados-Membros sejam obrigados a agir exclusivamente com base em critérios objectivos, de forma a respeitar plenamente o conceito de igualdade de tratamento e a evitar distorções do mercado e da concorrência.\n\n(13) As medidas de intervenção revestem a forma de ajudas à armazenagem privada, que são as que menos afectam a comercialização normal dos produtos. A fim de assegurar a aplicação adequada desta ajuda, a Comissão deve ser plenamente informada da evolução dos preços no mercado comum da carne de ovino e de caprino.\n\n(14) Como regra geral, sempre que se encontrarem reunidos determinados critérios em matéria de preços de mercado, a concessão das ajudas à armazenagem privada deve ser decidida por via de concurso. No entanto, a concessão das ajudas à armazenagem privada, no âmbito de uma fixação antecipada do montante da ajuda, poderá melhorar a eficácia dessas medidas sempre que se verifique a necessidade de se recorrer urgentemente à armazenagem privada devido a uma situação de mercado particularmente difícil numa ou mais zonas de cotação. É, pois, necessário autorizar a Comissão a recorrer ao processo de fixação antecipada do montante da ajuda, sempre que se verifique essa situação de mercado, mesmo que não tenham sido satisfeitos os critérios em matéria de preços de mercado em questão.\n\n(15) O regime de comércio, juntamente com os regimes de preços, de prémios e de intervenções e compreendendo um regime de direitos niveladores à importação, tem como objectivo, em princípio, a estabilização do mercado comunitário.\n\n(16) As autoridades competentes devem encontrar-se preparadas para seguir continuamente o movimento de trocas comerciais, a fim de poderem apreciar a evolução do mercado e aplicar, eventualmente e se necessário, as medidas previstas pelo presente regulamento. É conveniente prever a possibilidade de recurso a um regime de certificados de importação e, caso necessário, de exportação, que inclua a constituição de uma caução que garanta a realização das operações para as quais são requeridos esses certificados.\n\n(17) A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar da importação de determinados produtos agrícolas, a importação de um ou vários desses produtos deve ser sujeita, se estiverem reunidas certas condições, ao pagamento de um direito à importação adicional.\n\n(18) É adequado, em certas condições, atribuir à Comissão a competência de iniciar e gerir os contingentes pautais decorrentes de acordos internacionais, celebrados em conformidade com o Tratado ou resultantes de outros actos do Conselho.\n\n(19) Como complemento do sistema atrás descrito, convém prever, na medida do necessário ao seu bom funcionamento, a possibilidade de proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo ou passivo, quando a situação do mercado o exija.\n\n(20) O regime dos direitos aduaneiros permite renunciar a qualquer outra medida de protecção nas fronteiras externas da Comunidade. Contudo, o mecanismo dos preços e dos direitos aduaneiros comuns pode, em circunstâncias excepcionais, ser inadequado. Para não deixar, nesses casos, o mercado comunitário sem protecção contra possíveis perturbações, na sequência da remoção das barreiras à importação, a Comunidade deve poder tomar rapidamente todas as medidas necessárias. Essas medidas devem estar em conformidade com as obrigações da Comunidade, incluindo as suas obrigações internacionais.\n\n(21) Podem também ter que ser tomadas medidas quando o mercado da Comunidade é perturbado ou ameaça ser perturbado, em consequência de uma subida ou descida sensível dos preços.\n\n(22) As restrições à livre circulação, resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem provocar dificuldades no mercado de um ou mais Estados-Membros. Podem ter de ser introduzidas medidas excepcionais de apoio ao mercado para remediar tais situações.\n\n(23) O bom funcionamento de um mercado único assente em preços comuns ficaria comprometido com a concessão de certas ajudas. Assim, as disposições do Tratado que regem os auxílios estatais devem ser aplicáveis à carne de ovino e de caprino.\n\n(24) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/486/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(11).\n\n(25) As despesas efectuadas pelos Estados-Membros, em consequência das obrigações resultantes do presente regulamento, enquadram-se no âmbito do Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum(12).\n\n(26) O impacto ambiental da produção de ovinos e caprinos em determinadas regiões da Comunidade constitui motivo de preocupação. A Comissão deve elaborar um relatório sobre esta matéria com base na experiência adquirida, se necessário acompanhado de propostas.\n\n(27) A transição das disposições do Regulamento (CE) n.o 2467/98 para as previstas no presente regulamento pode dar origem a dificuldades que não são abordadas no presente regulamento. A fim de fazer face a essas dificuldades, a Comissão deve ser autorizada a adoptar medidas de transição. A Comissão deve também ser autorizada a resolver problemas práticos específicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ff4dfbe43817757e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA organização comum de mercado no sector da carne de ovino e caprino inclui um regime de mercado interno e um regime de comércio e abrange os seguintes produtos:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "1c0f2ee51e4be6c6": {
+   "fragment_id": "TÍTULO I — MERCADO INTERNO",
+   "type": "divisao",
+   "heading": "TÍTULO I — MERCADO INTERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — MERCADO INTERNO"
+  },
+  "e6fbdaf8dabeeb57": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCom o objectivo de incentivar as iniciativas profissionais e interprofissionais que permitam facilitar a adaptação da oferta às exigências do mercado, podem ser tomadas, para os produtos referidos no artigo 1.o, as seguintes medidas comunitárias:\n\na) Medidas tendentes a permitir uma melhor orientação da produção animal;\n\nb) Medidas tendentes a promover uma melhor organização da produção, da transformação e da comercialização;\n\nc) Medidas tendentes a melhorar a qualidade;\n\nd) Medidas tendentes a permitir o estabelecimento de previsões a curto e a longo prazo, mediante o conhecimento dos meios de produção utilizados;\n\ne) Medidas tendentes a facilitar a verificação da evolução dos preços no mercado.\n\nAs regras gerais relativas a estas medidas são aprovadas nos termos do n.o 2 do artigo 37.o do Tratado."
+  },
+  "750fcb0be91e567a": {
+   "fragment_id": "CAPÍTULO I — PAGAMENTOS DIRECTOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — PAGAMENTOS DIRECTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — PAGAMENTOS DIRECTOS"
+  },
+  "d7f070e1ffd0ed09": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do presente título, entende-se por:\n\na) \"Produtor\", um agricultor individual, quer seja pessoa singular ou colectiva, ou grupo de pessoas singulares ou colectivas, independentemente do estatuto jurídico atribuído pela legislação nacional a esse grupo ou aos respectivos membros, cuja exploração se localize em território comunitário e que se dedique à criação de ovinos ou de caprinos;\n\nb) \"Exploração\", qualquer unidade de produção gerida pelo produtor e localizada no interior do território de um determinado Estado-Membro;\n\nc) \"Ovelha\", qualquer fêmea da espécie ovina que já tenha parido pelo menos uma vez ou tenha, pelo menos, um ano;\n\nd) \"Cabra\", qualquer fêmea da espécie caprina que já tenha parido pelo menos uma vez ou tenha, pelo menos, um ano."
+  },
+  "6f8d37d6f0e48073": {
+   "fragment_id": "Secção 1 — Prémio por ovelha e por cabra",
+   "type": "divisao",
+   "heading": "Secção 1 — Prémio por ovelha e por cabra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1 — Prémio por ovelha e por cabra"
+  },
+  "fc7032aade8ee393": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O produtor que possua ovelhas na sua exploração pode beneficiar, a seu pedido, de um prémio pela manutenção de ovelhas (prémio por ovelha).\n\n2. O produtor que possua cabras na sua exploração pode beneficiar, a seu pedido, de um prémio pela manutenção de cabras (prémio por cabra). O prémio é concedido aos produtores em zonas específicas nas quais a produção obedeça aos dois critérios seguintes:\n\n1. A criação de cabras deve ser principalmente orientada para a produção de carne de caprino;\n\n2. As técnicas de criação dos caprinos e ovinos devem ser da mesma natureza.\n\nUma lista dessas zonas é estabelecida nos termos do n.o 2 do artigo 25.o\n\n3. O prémio por ovelha e o prémio por cabra são concedidos sob a forma de um pagamento anual por animal elegível, por ano civil e por produtor, até aos limites máximos individuais. O número de animais para os quais é apresentado um pedido de prémio é determinado pelo Estado-Membro. Esse mínimo não pode ser inferior a 10 nem superior a 50.\n\n4. Por ovelha, o montante do prémio é de 21 euros. No entanto, no caso dos produtores que comercializem leite de ovelha ou produtos à base de leite de ovelha, o prémio por ovelha é de 16,8 euros.\n\n5. Por cabra, o montante do prémio é de 16,8 euros.\n\n6. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "e011f999a28afdb0": {
+   "fragment_id": "Secção 2 — Prémio complementar",
+   "type": "divisao",
+   "heading": "Secção 2 — Prémio complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 — Prémio complementar"
+  },
+  "a99633c4ba9e0f73": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Nas zonas em que a produção de ovinos ou caprinos constitua uma actividade tradicional ou contribua significativamente para a economia rural é pago aos produtores um prémio complementar. Os Estados-Membros definem essas zonas. Em qualquer caso, o prémio complementar só é concedido aos produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em zonas desfavorecidas, definidas em conformidade com o Regulamento (CE) n.o 1257/1999.\n\n2. O prémio complementar é também concedido aos produtores que pratiquem a transumância, desde que:\n\na) Pelo menos 90 % dos animais para os quais é pedido prémio pastem, durante pelo menos 90 dias consecutivos, numa zona elegível estabelecida em conformidade com o n.o 1; e\n\nb) As sedes das suas explorações estejam situadas em zonas geográficas bem definidas, em relação às quais esteja comprovado pelo Estado-Membro que a transumância corresponde a uma prática tradicional da criação de ovinos e/ou caprinos e que esses movimentos de animais são necessários devido à inexistência de forragens em quantidade suficiente durante o período de transumância.\n\n3. O montante do prémio complementar é fixado em 7 euros por ovelha e por cabra. O prémio complementar é concedido em condições idênticas às estabelecidas para a concessão do prémio por ovelha e do prémio por cabra.\n\n4. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "e86819a5e085909b": {
+   "fragment_id": "Secção 3 — Disposições comuns",
+   "type": "divisao",
+   "heading": "Secção 3 — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 — Disposições comuns"
+  },
+  "fdd3bbc32a7a6d70": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O prémio é pago ao produtor beneficiário em função do número de ovelhas e/ou cabras mantidas na sua exploração durante um período mínimo, a determinar nos termos do n.o 2 do artigo 25.o\n\nOs pagamentos são efectuados assim que estejam concluídas as inspecções previstas no Regulamento (CEE) n.o 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários(13), mas não antes de 16 de Outubro do ano civil relativamente ao qual tenham sido pedidos, nem depois de 31 de Março do ano civil seguinte.\n\n2. Quando for aplicável um regulamento que estabeleça novas regras relativas à identificação e registo dos ovinos e caprinos, para serem elegíveis para o prémio os animais deverão ser identificados e registados de acordo com essas regras."
+  },
+  "7f6f796b32ed6225": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs montantes dos prémios podem ser alterados, à luz da evolução da produção, da produtividade e do mercado, nos termos do n.o 2 do artigo 37.o do Tratado."
+  },
+  "d5f19eea6e8f6e9d": {
+   "fragment_id": "Secção 4 — Limites individuais",
+   "type": "divisao",
+   "heading": "Secção 4 — Limites individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4 — Limites individuais"
+  },
+  "33fce6c9772560a6": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A partir de 1 de Janeiro de 2002, o limite máximo individual por produtor, sob reserva dos n.os 2 e 3, será igual ao número de direitos ao prémio desse produtor em 31 de Dezembro de 2001, segundo as regras comunitárias aplicáveis.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para assegurar que, a partir de 1 de Janeiro de 2002, a soma dos direitos ao prémio nos seus territórios não exceda os limites máximos nacionais estabelecidos no anexo I e que possam ser mantidas as reservas nacionais referidas no artigo 10.o\n\n3. Sempre que as medidas tomadas em conformidade com o n.o 2 exijam uma redução dos limites máximos individuais dos produtores, essa redução deve ser efectuada sem pagamento compensatório e decidida com base em critérios objectivos.\n\nEsses critérios incluem:\n\na) A taxa a que os produtores utilizaram os seus limites máximos individuais durante os três anos de referência anteriores a 2001;\n\nb) Circunstâncias naturais especiais ou a aplicação de sanções, de que resulte o não pagamento ou um pagamento reduzido do prémio durante, pelo menos, um ano de referência;\n\nc) Outras circunstâncias excepcionais que tenham por efeito que os pagamentos efectuados relativamente a um ano de referência, pelo menos, não correspondam à situação real determinada para os anos anteriores.\n\n4. Os direitos ao prémio que tenham sido retirados por força da medida tomada em conformidade com o n.o 2 devem ser abolidos.\n\n5. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "f285ecd6a0fbd0ca": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Sempre que um produtor venda ou transfira de outro modo a sua exploração, pode transferir todos os seus direitos ao prémio para a pessoa que retomar a exploração.\n\n2. O produtor também pode transferir, integral ou parcialmente, os seus direitos para outros produtores sem transferir a sua exploração.\n\nNo caso de transferência de direitos sem transferência de exploração, uma parte dos direitos ao prémio transferidos, não superior a 15 %, é cedida, sem compensação para a reserva nacional do Estado-Membro em que a sua exploração está situada, para redistribuição gratuita.\n\nOs Estados-Membros podem adquirir direitos ao prémio de produtores que concordem, numa base voluntária, em ceder os seus direitos, no todo ou em parte. Neste caso, os pagamentos pela aquisição de tais direitos podem ser efectuados a esses produtores tanto a partir dos orçamentos nacionais como com base no quinto travessão do n.o 2 do artigo 11.o\n\nEm derrogação do disposto no n.o 1 e em circunstâncias devidamente justificadas, os Estados-Membros podem dispor que, no caso de venda ou transferência da exploração, a transferência de direitos seja efectuada por intermédio da reserva nacional.\n\n3. Os Estados-Membros podem tomar as medidas necessárias para evitar que os direitos ao prémio sejam retirados a zonas sensíveis ou a regiões em que a produção de ovinos seja especialmente importante para a economia local.\n\n4. Os Estados-Membros podem autorizar, antes de uma data por eles fixada, transferências temporárias da parte dos direitos ao prémio que o produtor que deles dispõe não tencione utilizar.\n\n5. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 25.o\n\nEssas regras de execução podem dizer, nomeadamente, respeito a:\n\na) Disposições que permitam aos Estados-Membros resolver problemas específicos relacionados com a transferência de direitos ao prémio por produtores que não sejam proprietários das superfícies ocupadas pelas suas explorações; e\n\nb) Regras específicas relativas ao número mínimo de direitos ao prémio que pode ser objecto de uma transferência parcial."
+  },
+  "1ec4029922d1bf10": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Cada Estado-Membro mantém uma reserva nacional de direitos ao prémio.\n\n2. Quaisquer direitos ao prémio, retirados nos termos do n.o 2 do artigo 9.o ou de outras disposições comunitárias, são acrescentados à reserva nacional.\n\n3. Os Estados-Membros podem atribuir direitos ao prémio a produtores, dentro dos limites das suas reservas nacionais. Ao fazê-lo, devem dar precedência em particular aos produtores que se iniciem na profissão, a jovens agricultores ou a outros produtores prioritários.\n\n4. As regras de execução do presente artigo, em especial as regras relativas à retirada e à reafectação de direitos ao prémio não utilizados, são aprovadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "e2b700e603dd6893": {
+   "fragment_id": "CAPÍTULO II — PAGAMENTOS COMPLEMENTARES",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — PAGAMENTOS COMPLEMENTARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PAGAMENTOS COMPLEMENTARES"
+  },
+  "efc3d0330883971d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-Membros devem efectuar anualmente pagamentos complementares cujo total corresponda aos montantes globais estabelecidos no anexo II.\n\nOs Estados-Membros podem decidir aumentar os montantes globais indicados no anexo II mediante a redução dos montantes dos pagamentos a que se refere o artigo 4.o A redução dos montantes, que pode ser aplicada numa base regional, não deve ser superior a um euro.\n\nOs pagamentos devem ser efectuados, em cada ano, em função de critérios objectivos tais como, em particular, as estruturas e condições de produção relevantes, e de modo a assegurar a igualdade de tratamento entre os produtores e a evitar distorções do mercado e da concorrência. Os pagamentos devem ser efectuados dentro do prazo fixado no artigo 6.o Além disso, estes pagamentos não dependem das flutuações dos preços de mercado e podem ser efectuados numa base regional.\n\n2. Nestes pagamentos podem incluir-se, nomeadamente:\n\n- os pagamentos aos produtores que se dediquem a tipos específicos de produção, em particular relacionados com a qualidade, importantes para a economia local ou para a protecção do ambiente,\n\n- o aumento do prémio a que se refere o artigo 4.o Os montantes complementares podem ser sujeitos à aplicação de requisitos relativos ao factor densidade dos animais, a determinar pelo Estado-Membro em função das condições locais,\n\n- o apoio à reestruturação de explorações de produtores ou à criação de organizações de produtores,\n\n- os pagamentos por superfície aos produtores, a conceder por hectare de superfície forrageira de que o produtor dispõe durante o ano civil em causa e relativamente à qual não sejam pedidos, a título do mesmo ano, pagamentos ao abrigo do regime de apoio aos produtores de determinadas culturas arvenses, do regime de ajuda para as forragens secas e de regimes comunitários de ajuda para outras culturas permanentes ou hortícolas,\n\n- os pagamentos aos produtores que cedam voluntariamente os seus direitos ao abrigo do n.o 2 do artigo 9.o,\n\n- o apoio à melhoria e à racionalização da transformação e comercialização da carne de ovino e caprino.\n\n3. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "53712b5355653e50": {
+   "fragment_id": "CAPÍTULO III — Armazenagem privada",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Armazenagem privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Armazenagem privada"
+  },
+  "6148dcfa93755fe6": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão pode decidir conceder uma ajuda à armazenagem privada sempre que se verifique uma situação de mercado especialmente difícil numa ou mais zonas de cotação. Por zona de cotação, entende-se:\n\na) A Grã-Bretanha,\n\nb) A Irlanda do Norte,\n\nc) Cada um dos outros Estados-Membros considerado separadamente.\n\nA concessão de ajuda é decidida no âmbito de um processo de concurso.\n\nNo entanto, pode decidir-se conceder essa ajuda no âmbito de um procedimento de fixação antecipada, caso se verifique a necessidade de recorrer urgentemente à armazenagem privada.\n\n2. As regras de execução do presente artigo são aprovadas e a concessão de ajudas à armazenagem privada é decidida nos termos do n.o 2 do artigo 25.o"
+  },
+  "083f00ba8c4bdf54": {
+   "fragment_id": "TÍTULO II — REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "TÍTULO II — REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — REGIME COMERCIAL COM PAÍSES TERCEIROS"
+  },
+  "af8cfbe37ec156f4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Todas as importações para a Comunidade ou exportações a partir da Comunidade, dos produtos a que se refere o artigo 1.o podem estar sujeitas à apresentação de um certificado de importação ou de exportação.\n\nO certificado de importação e de exportação é válido em toda a Comunidade.\n\nO certificado é emitido pelos Estados-Membros, a pedido do interessado, seja qual for o local do seu estabelecimento na Comunidade, sem prejuízo das medidas tomadas em aplicação do artigo 16.o\n\nA emissão desse certificado pode estar subordinada à constituição de uma garantia que cubra o compromisso de importar ou exportar durante o prazo de validade do certificado e que, salvo caso de força maior, ficará perdida, na totalidade ou em parte, se a operação não for realizada nesse período ou se apenas o for parcialmente.\n\n2. A lista dos produtos relativamente aos quais são exigidos certificados de exportação, o prazo de validade dos certificados e as outras regras de execução do presente artigo são aprovados nos termos do n.o 2 do artigo 25.o"
+  },
+  "6f5cb62cf1fb96f5": {
+   "fragment_id": "Artigo 14.º — As taxas de direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o artigo 1.o",
+   "type": "artigo",
+   "heading": "Artigo 14.º — As taxas de direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o artigo 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — As taxas de direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o artigo 1.o"
+  },
+  "44f18670f604575f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar das importações de determinados produtos referidos no artigo 1.o, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de um ou vários produtos é sujeita ao pagamento de um direito de importação adicional, se estiverem reunidas as condições a determinar pela Comissão, nos termos do n.o 4, salvo se não houver risco de as importações perturbarem o mercado comunitário ou se os efeitos forem desproporcionados relativamente ao objectivo pretendido.\n\n2. As importações efectuadas a um preço inferior ao nível notificado pela Comunidade à Organização Mundial do Comércio (\"preço de desencadeamento\") podem ser sujeitas a um direito de importação adicional.\n\nSe o volume das importações em qualquer ano em que os efeitos nocivos referidos no n.o 1 se manifestem ou possam vir a manifestar-se exceder um nível baseado nas oportunidades de acesso ao mercado, definidas como a percentagem do consumo interno representada pelas importações durante os três anos precedentes (\"volume de desencadeamento\"), pode ser imposto um direito de importação adicional.\n\n3. Os preços de importação a ter em linha de conta para a imposição de um direito de importação adicional, em conformidade com o primeiro parágrafo do n.o 2, são definidos com base nos preços de importação CIF da remessa em causa.\n\nPara este efeito, os preços de importação CIF são verificados com base nos preços representativos do produto em questão no mercado mundial ou no mercado comunitário de importação do produto.\n\n4. A Comissão aprova as regras de execução do presente artigo nos termos do n.o 2 do artigo 25.o Essas regras devem, nomeadamente, dizer respeito aos produtos a que podem ser aplicados direitos de importação adicionais."
+  },
+  "682c8fbba80406f3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os contingentes pautais relativos aos produtos referidos no artigo 1.o, que decorram dos acordos celebrados em conformidade com o artigo 300.o do Tratado ou de qualquer outro acto do Conselho, são abertos e geridos segundo as regras de execução aprovadas nos termos do n.o 2 do artigo 25.o\n\n2. A gestão dos contingentes pode efectuar-se mediante aplicação de um dos métodos seguintes, ou através de uma combinação dos mesmos:\n\na) Método baseado na ordem cronológica de apresentação dos pedidos (segundo o princípio \"primeiro a chegar, primeiro a ser servido\");\n\nb) Método de repartição proporcional às quantidades solicitadas na apresentação dos pedidos (segundo o método \"de análise simultânea\");\n\nc) Método baseado na tomada em consideração dos fluxos comerciais tradicionais (segundo o método \"beneficiários tradicionais/novos beneficiários\").\n\nPodem ser estabelecidos outros métodos adequados, que deverão evitar qualquer discriminação entre os operadores interessados.\n\n3. O método de gestão estabelecido deve atender, sempre que adequado, às necessidades de abastecimento do mercado comunitário e à necessidade de salvaguardar o equilíbrio desse mercado.\n\n4. As regras de execução a que se refere o n.o 1 devem:\n\na) Prever a abertura dos contingentes numa base anual e, se necessário, de acordo com um escalonamento adequado;\n\nb) Determinar o método administrativo a utilizar;\n\nc) Incluir, se for caso disso, garantias respeitantes à natureza, proveniência e origem do produto, bem como, se tal se justificar, à manutenção dos fluxos comerciais tradicionais;\n\nd) Prever disposições relativas ao reconhecimento do documento que permita verificar as garantias referidas na alínea c); e\n\ne) Estabelecer as condições de emissão e o prazo de validade dos certificados de importação."
+  },
+  "93f780864686ac50": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Na medida do necessário ao bom funcionamento da organização comum de mercado dos produtos referidos no artigo 1.o do presente regulamento, o Conselho, deliberando sob proposta da Comissão, segundo o processo de votação previsto no n.o 2 do artigo 37.o do Tratado, pode, em casos especiais, proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo ou passivo em relação aos produtos referidos no referido artigo 1.o\n\n2. Em derrogação do n.o 1, no caso de a situação referida no mesmo número ser excepcionalmente urgente e de o mercado comunitário ser ou correr o risco de ser perturbado pelo regime de aperfeiçoamento activo ou passivo, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decide das medidas necessárias; estas são notificadas ao Conselho e aos Estados-Membros, têm um prazo de validade máxima de seis meses e são imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, toma uma decisão no prazo de uma semana a contar da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter ao Conselho a decisão da Comissão, no prazo de uma semana a contar da data da sua comunicação. O Conselho, deliberando por maioria qualificada, pode confirmar, alterar ou anular a decisão da Comissão.\n\nSe, no prazo de três meses, o Conselho não tiver tomado qualquer decisão, considera-se anulada a decisão da Comissão."
+  },
+  "efefed47a4799480": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. As regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação são aplicáveis à classificação dos produtos referidos no artigo 1.o A nomenclatura pautal resultante da aplicação do presente regulamento deve ser integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposições em contrário do presente regulamento, ou aprovadas nos termos de uma das disposições deste, são proibidas, nas trocas comerciais com países terceiros:\n\na) A cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "2795308a0b21de5d": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Se, devido a um aumento das importações ou exportações, o mercado comunitário de um ou vários produtos referidos no artigo 1.o do presente regulamento sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 33.o do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou risco de perturbação.\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprova as regras gerais de aplicação do presente número e define os casos e limites em que os Estados-Membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no n.o 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decide das medidas necessárias. A Comissão deve notificar os Estados-Membros dessas medidas, que são imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, toma uma decisão no prazo de três dias úteis a contar da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter ao Conselho a decisão da Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reúne-se imediatamente. Deliberando por maioria qualificada, pode alterar ou anular a medida em causa.\n\n4. As disposições do presente artigo são aplicadas no respeito das obrigações da Comunidade, incluindo as suas obrigações internacionais."
+  },
+  "08c5282af94f0b41": {
+   "fragment_id": "TÍTULO III — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO III — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — DISPOSIÇÕES GERAIS"
+  },
+  "7165e5385dcf46c8": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs Estados-Membros verificam os preços dos ovinos e da carne de ovino com base em regras a estabelecer pela Comissão nos termos do n.o 2 do artigo 25.o"
+  },
+  "dc9c4cd52f061de7": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Quando se verificar uma subida ou uma descida sensível de preços no mercado da Comunidade, se esta situação for susceptível de persistir e, por esse motivo, esse mercado for ou correr o risco de ser perturbado, podem ser adoptadas as medidas necessárias nos termos do n.o 2 do artigo 25.o\n\n2. As regras de execução do presente artigo são aprovadas pela Comissão nos termos do n.o 2 do artigo 25.o"
+  },
+  "ec6ddeb4ed5244b1": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA fim de ter em conta as limitações à livre circulação que poderiam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas, nos termos do n.o 2 do artigo 25.o, medidas excepcionais de apoio ao mercado afectado por estas limitações. Estas medidas só podem ser tomadas na medida em que tal seja estritamente necessário para apoiar esse mercado e apenas durante esse período."
+  },
+  "f796dbdc2f9d408b": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSalvo disposições contrárias do presente regulamento, os artigos 87.o, 88.o e 89.o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1.o do presente regulamento."
+  },
+  "4a8050b53b6e19a8": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros e a Comissão comunicam reciprocamente os dados necessários à aplicação do presente regulamento.\n\nAs regras de comunicação e de difusão dos dados são aprovadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "ccb2952c826fa5a2": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A Comissão é assistida pelo Comité de Gestão \"Ovinos e Caprinos\", composto por representantes dos Estados-Membros e presidido pelo representante da Comissão.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "c85b51a2bf8f8d10": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSão aprovadas nos termos do n.o 2 do artigo 25.o todas as medidas necessárias e devidamente justificadas para responder, em caso de urgência, a problemas práticos, específicos e imprevisíveis.\n\nEssas medidas podem derrogar certas partes do presente regulamento, mas só na medida e pelo prazo estritamente necessário."
+  },
+  "4130a04d539315e5": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO Regulamento (CE) n.o 1258/1999 e as disposições aprovadas para aplicação do mesmo são aplicáveis às despesas efectuadas pelos Estados-Membros, em consequência das obrigações resultantes do presente regulamento."
+  },
+  "8857d89c7b3452b8": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 31 de Dezembro de 2005, um relatório sobre as consequências ambientais da criação de ovinos e caprinos em determinadas regiões da Comunidade bem como sobre o impacto do regime de prémios e sobre o funcionamento do sistema de pagamento adicionais tendo em conta a melhoria da identificação e do registo dos ovinos e caprinos. Se for caso disso, o relatório deve ser acompanhado de propostas. O relatório deve ter em conta, nomeadamente, os relatórios apresentados pelos Estados-Membros sobre a aplicação das medidas previstas nos termos do artigo 3.o do Regulamento (CE) n.o 1259/1999."
+  },
+  "0e54afa630af2e58": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs Regulamentos (CEE) n.o 2644/80, (CEE) n.o 3901/89, (CEE) n.o 1323/90, (CEE) n.o 3493/90, (CEE) n.o 338/91 e (CE) n.o 2467/98 são revogados.\n\nAs referências aos regulamentos revogados devem entender-se como sendo feitas ao presente regulamento e ser lidas de acordo com o quadro de correspondência que consta do anexo III."
+  },
+  "bd1db476a7e182b5": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAs medidas necessárias para facilitar a transição das disposições dos regulamentos mencionados no artigo 29.o para o regime estabelecido no presente regulamento são adoptadas nos termos do n.o 2 do artigo 25.o"
+  },
+  "982e9e398c86ef80": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n2. O presente regulamento é aplicável a partir de 1 de Janeiro de 2002.\n\n3. Os Regulamentos (CEE) n.o 2644/80, (CEE) n.o 3901/89, (CEE) n.o 1323/90, (CEE) n.o 3493/90, (CEE) n.o 338/91 e (CE) n.o 2467/98 continuarão a ser aplicáveis no que diz respeito à campanha de comercialização de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 19 de Dezembro de 2001.\n\nPelo Conselho\n\nO Presidente\n\nA. Neyts-Uyttebroeck\n\n(1) JO C 213 E de 31.7.2001, p. 275.\n\n(2) Parecer emitido em 25 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n(3) Parecer emitido em 17 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n(4) JO L 275 de 18.10.1980, p. 8.\n\n(5) JO L 375 de 23.12.1989, p. 4. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.o 1266/95 (JO L 123 de 3.6.1995, p. 3).\n\n(6) JO L 132 de 23.5.1990, p. 17. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 193/98 (JO L 20 de 27.1.1998, p. 18).\n\n(7) JO L 337 de 4.12.1990, p. 7. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2825/2000 (JO L 328 de 23.12.2000, p. 1).\n\n(8) JO L 41 de 14.2.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2536/97 (JO L 347 de 18.12.1997, p. 6).\n\n(9) JO L 312 de 20.11.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.o 1669/2000 (JO L 193 de 29.7.2000, p. 8).\n\n(10) JO L 160 de 26.6.1999, p. 80.\n\n(11) JO L 184 de 17.7.1999, p. 23.\n\n(12) JO L 160 de 26.6.1999, p. 103.\n\n(13) JO L 355 de 5.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 495/2001 (JO L 72 de 14.3.2001, p. 6)."
+  },
+  "8970eb726734b49f": {
+   "fragment_id": "ANEXO I — DIREITOS INDIVIDUAIS AO PRÉMIO POR OVELHA E POR CABRA",
+   "type": "divisao",
+   "heading": "ANEXO I — DIREITOS INDIVIDUAIS AO PRÉMIO POR OVELHA E POR CABRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DIREITOS INDIVIDUAIS AO PRÉMIO POR OVELHA E POR CABRA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "155882b02d8ae03d": {
+   "fragment_id": "ANEXO II — MONTANTES GLOBAIS A QUE SE REFERE O ARTIGO 11.o",
+   "type": "divisao",
+   "heading": "ANEXO II — MONTANTES GLOBAIS A QUE SE REFERE O ARTIGO 11.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MONTANTES GLOBAIS A QUE SE REFERE O ARTIGO 11.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "e127ab64da9dd5c8": {
+   "fragment_id": "ANEXO III — QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — QUADRO DE CORRESPONDÊNCIA\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "bd16255077f8649f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2001\n\nque estabelece a organização comum de mercado no sector das carnes de ovino e caprino\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0003)),\n\n(1) As disposições relativas à organização comum de mercado no sector das carnes de ovino e caprino foram estabelecidas em vários regulamentos. Por razões de clareza, esses regulamentos devem ser revogados e substituídos por um novo regulamento. O Regulamento (CEE) n.º 2644/80 do Conselho, de 14 de Outubro de 1980, que estabelece as regras gerais relativas à intervenção no sector das carnes de ovino e caprino ([^4^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0004)), o Regulamento (CEE) n.º 3901/89 do Conselho, de 12 de Dezembro de 1989, que estabelece a definição dos borregos engordados para obtenção de carcaças pesadas ([^5^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0005)), o Regulamento (CEE) n.º 1323/90 do Conselho, de 14 de Maio de 1990, que institui uma ajuda específica à criação de ovinos e caprinos em determinadas zonas desfavorecidas da Comunidade ([^6^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0006)), o Regulamento (CEE) n.º 3493/90 do Conselho, de 27 de Novembro de 1990, que estabelece as regras gerais relativas à concessão do prémio em benefício dos produtores de carne de ovino e caprino ([^7^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0007)), o Regulamento (CEE) n.º 338/91 do Conselho, de 5 de Fevereiro de 1991, que determina a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas ([^8^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0008)), e o Regulamento (CE) n.º 2467/98 do Conselho, de 3 de Novembro de 1998, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino ([^9^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0009)), são substituídos por novas disposições do presente regulamento e devem, pois, ser revogados.\n\n(2) A organização comum dos mercados agrícolas pode tomar diversas formas, consoante os produtos.\n\n(3) Para atingir os objectivos estabelecidos no artigo 33.º do Tratado, nomeadamente estabilizar os mercados e assegurar um nível de vida decente à população agrícola em causa, é necessário prever determinadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado. Devem ser previstas medidas respeitantes ao mercado interno que incluam, nomeadamente, um prémio aos produtores de carnes de ovino e de caprino e um regime de armazenagem privada.\n\n(4) O montante do prémio a conceder aos produtores deve ter em consideração as diversas especializações dos sistemas de produção na Comunidade. O prémio relativo às cabras deve ser concedido aos produtores em zonas específicas onde a criação de caprinos seja essencialmente orientada para a produção de carne de caprino e onde as técnicas de criação de caprinos e da de ovinos sejam de natureza semelhante.\n\n(5) Deve, também, ser previsto o pagamento de um prémio complementar aos produtores de zonas em que a produção de ovinos e caprinos constitua uma actividade tradicional ou contribua de forma significativa para a economia rural. A concessão do prémio complementar deve limitar-se aos produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em zonas desfavorecidas, definidas em conformidade com o Regulamento (CE) n.º 1257/1999, de 27 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos ([^10^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0010)).\n\n(6) É oportuno, por razões administrativas, que a data de início de pagamento dos prémios coincida com o início do ano orçamental. A fim de alcançar o impacto económico desejado, os prémios devem ser concedidos dentro de certos prazos.\n\n(7) É necessário prever a possibilidade de alterar os montantes dos prémios na sequência de evoluções da produção, da produtividade e do mercado.\n\n(8) Para não incentivar a produção e o aumento das despesas será conveniente manter limites máximos individuais para os produtores. O número total de direitos ao prémio de cada Estado-Membro deve ser fixado com base nos níveis já estabelecidos.\n\n(9) Os novos produtores e os produtores já em actividade cujos limites máximos individuais não correspondam, por razões diversas, a alterações nos seus efectivos não devem ser excluídos do direito ao prémio. Deve, pois, ser prevista a criação de reservas nacionais, a alimentar e administrar de acordo com critérios comunitários. Pela mesma razão, a transferência dos direitos ao prémio, sem transferência da exploração que lhes está associada, deve ser sujeita a regras segundo as quais parte dos direitos transferidos seja retirada sem pagamento compensatório e atribuída a essa reserva nacional.\n\n(10) A fim de permitir que os produtores reduzam a sua produção durante um período limitado, os Estados-Membros devem ser autorizados a prever a possibilidade de uma transferência temporária dos direitos ao prémio.\n\n(11) Deve ser criado um vínculo entre as zonas ou localizações sensíveis e a produção ovina e caprina, a fim de assegurar a manutenção desta, especialmente nas zonas em que essa produção é importante para a economia local.\n\n(12) As condições de produção de carne de ovino e caprino bem como a situação dos produtores em termos de rendimento variam significativamente em diferentes zonas de produção da Comunidade. É, pois, adequado prever um quadro flexível de pagamentos comunitários complementares a determinar e efectuar pelos Estados-Membros no respeito de montantes globais fixos e segundo certos critérios comuns, a fim de responder adequadamente às disparidades estruturais e naturais e às diversas necessidades do sector. Os montantes globais devem ser atribuídos a cada Estado-Membro com base na sua parte dos prémios pagos. Os critérios comuns destinam-se, nomeadamente, a evitar que os pagamentos complementares tenham efeitos discriminatórios e a ter plenamente em conta os compromissos multilaterais relevantes da Comunidade. É nomeadamente essencial que os Estados-Membros sejam obrigados a agir exclusivamente com base em critérios objectivos, de forma a respeitar plenamente o conceito de igualdade de tratamento e a evitar distorções do mercado e da concorrência.\n\n(13) As medidas de intervenção revestem a forma de ajudas à armazenagem privada, que são as que menos afectam a comercialização normal dos produtos. A fim de assegurar a aplicação adequada desta ajuda, a Comissão deve ser plenamente informada da evolução dos preços no mercado comum da carne de ovino e de caprino.\n\n(14) Como regra geral, sempre que se encontrarem reunidos determinados critérios em matéria de preços de mercado, a concessão das ajudas à armazenagem privada deve ser decidida por via de concurso. No entanto, a concessão das ajudas à armazenagem privada, no âmbito de uma fixação antecipada do montante da ajuda, poderá melhorar a eficácia dessas medidas sempre que se verifique a necessidade de se recorrer urgentemente à armazenagem privada devido a uma situação de mercado particularmente difícil numa ou mais zonas de cotação. É, pois, necessário autorizar a Comissão a recorrer ao processo de fixação antecipada do montante da ajuda, sempre que se verifique essa situação de mercado, mesmo que não tenham sido satisfeitos os critérios em matéria de preços de mercado em questão.\n\n(15) O regime de comércio, juntamente com os regimes de preços, de prémios e de intervenções e compreendendo um regime de direitos niveladores à importação, tem como objectivo, em princípio, a estabilização do mercado comunitário.\n\n(16) As autoridades competentes devem encontrar-se preparadas para seguir continuamente o movimento de trocas comerciais, a fim de poderem apreciar a evolução do mercado e aplicar, eventualmente e se necessário, as medidas previstas pelo presente regulamento. É conveniente prever a possibilidade de recurso a um regime de certificados de importação e, caso necessário, de exportação, que inclua a constituição de uma caução que garanta a realização das operações para as quais são requeridos esses certificados.\n\n(17) A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar da importação de determinados produtos agrícolas, a importação de um ou vários desses produtos deve ser sujeita, se estiverem reunidas certas condições, ao pagamento de um direito à importação adicional.\n\n(18) É adequado, em certas condições, atribuir à Comissão a competência de iniciar e gerir os contingentes pautais decorrentes de acordos internacionais, celebrados em conformidade com o Tratado ou resultantes de outros actos do Conselho.\n\n(19) Como complemento do sistema atrás descrito, convém prever, na medida do necessário ao seu bom funcionamento, a possibilidade de proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo ou passivo, quando a situação do mercado o exija.\n\n(20) O regime dos direitos aduaneiros permite renunciar a qualquer outra medida de protecção nas fronteiras externas da Comunidade. Contudo, o mecanismo dos preços e dos direitos aduaneiros comuns pode, em circunstâncias excepcionais, ser inadequado. Para não deixar, nesses casos, o mercado comunitário sem protecção contra possíveis perturbações, na sequência da remoção das barreiras à importação, a Comunidade deve poder tomar rapidamente todas as medidas necessárias. Essas medidas devem estar em conformidade com as obrigações da Comunidade, incluindo as suas obrigações internacionais.\n\n(21) Podem também ter que ser tomadas medidas quando o mercado da Comunidade é perturbado ou ameaça ser perturbado, em consequência de uma subida ou descida sensível dos preços.\n\n(22) As restrições à livre circulação, resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem provocar dificuldades no mercado de um ou mais Estados-Membros. Podem ter de ser introduzidas medidas excepcionais de apoio ao mercado para remediar tais situações.\n\n(23) O bom funcionamento de um mercado único assente em preços comuns ficaria comprometido com a concessão de certas ajudas. Assim, as disposições do Tratado que regem os auxílios estatais devem ser aplicáveis à carne de ovino e de caprino.\n\n(24) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/486/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^11^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0011)).\n\n(25) As despesas efectuadas pelos Estados-Membros, em consequência das obrigações resultantes do presente regulamento, enquadram-se no âmbito do Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^12^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0012)).\n\n(26) O impacto ambiental da produção de ovinos e caprinos em determinadas regiões da Comunidade constitui motivo de preocupação. A Comissão deve elaborar um relatório sobre esta matéria com base na experiência adquirida, se necessário acompanhado de propostas.\n\n(27) A transição das disposições do Regulamento (CE) n.º 2467/98 para as previstas no presente regulamento pode dar origem a dificuldades que não são abordadas no presente regulamento. A fim de fazer face a essas dificuldades, a Comissão deve ser autorizada a adoptar medidas de transição. A Comissão deve também ser autorizada a resolver problemas práticos específicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f633585684a34186": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA organização comum de mercado no sector da carne de ovino e caprino inclui um regime de mercado interno e um regime de comércio e abrange os seguintes produtos:\n\n|  | *Código NC* | *Designação das mercadorias* |\n| --- | --- | --- |\n| a) | 0104 10 30 | Borregos (até um ano de idade) |\n| 0104 10 80 | Animais vivos da espécie ovina, excepto reprodutores de raça pura e borregos |  |\n| 0104 20 90 | Animais vivos da espécie caprina, excepto reprodutores de raça pura |  |\n| 0204 | Carnes de animais das espécies ovina e caprina, frescas, refrigeradas ou congeladas |  |\n| 0210 99 21 | Carnes de animais das espécies ovina e caprina, não desossadas, salgadas ou em salmoura, secas ou defumadas |  |\n| 0210 99 29 | Carnes de animais das espécies ovina e caprina, desossadas, salgadas ou em salmoura, secas ou defumadas |  |\n| b) | 0104 10 10 | Animais vivos da espécie ovina, reprodutores de raça pura |\n| 0104 20 10 | Animais vivos da espécie caprina, reprodutores de raça pura |  |\n| 0206 80 99 | Miudezas comestíveis de animais das espécies ovina e caprina, frescas ou refrigeradas excepto miudezas destinadas à fabricação de produtos farmacêuticos |  |\n| 0206 90 99 | Miudezas comestíveis de animais das espécies ovina e caprina, congeladas, excepto miudezas destinadas à fabricação de produtos farmacêuticos |  |\n| 0210 99 60 | Miudezas comestíveis de animais das espécies ovina e caprina, salgadas ou em salmoura, secas ou defumadas |  |\n| ex150200 90 | Gorduras de animais das espécies ovina e caprina, excepto as do código 1503 |  |\n| c) | 1602 90 72 1602 90 74 | Outras preparações e conservas de carne ou miudezas de ovinos ou de caprinos; misturas de carne ou de miudezas cozidas e de carne e miudezas não cozidas |\n| d) | 1602 90 76 1602 90 78 | Outras preparações e conservas de carne ou miudezas de ovinos ou de caprinos, excepto as não cozidas ou as misturas. |"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "bff0910fce5bf8eb": {
+   "fragment_id": "MERCADO INTERNO",
+   "type": "divisao",
+   "heading": "MERCADO INTERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MERCADO INTERNO"
+  },
+  "736a73d1052c0842": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCom o objectivo de incentivar as iniciativas profissionais e interprofissionais que permitam facilitar a adaptação da oferta às exigências do mercado, podem ser tomadas, para os produtos referidos no artigo 1.º, as seguintes medidas comunitárias:\n\na) Medidas tendentes a permitir uma melhor orientação da produção animal;\n\nb) Medidas tendentes a promover uma melhor organização da produção, da transformação e da comercialização;\n\nc) Medidas tendentes a melhorar a qualidade;\n\nd) Medidas tendentes a permitir o estabelecimento de previsões a curto e a longo prazo, mediante o conhecimento dos meios de produção utilizados;\n\ne) Medidas tendentes a facilitar a verificação da evolução dos preços no mercado.\n\nAs regras gerais relativas a estas medidas são aprovadas nos termos do n.º 2 do artigo 37.º do Tratado."
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "8c4b9bd8326876b5": {
+   "fragment_id": "PAGAMENTOS DIRECTOS",
+   "type": "divisao",
+   "heading": "PAGAMENTOS DIRECTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTOS DIRECTOS"
+  },
+  "acd430ebe8c3c758": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do presente título, entende-se por:\n\na) «Produtor», um agricultor individual, quer seja pessoa singular ou colectiva, ou grupo de pessoas singulares ou colectivas, independentemente do estatuto jurídico atribuído pela legislação nacional a esse grupo ou aos respectivos membros, cuja exploração se localize em território comunitário e que se dedique à criação de ovinos ou de caprinos;\n\nb) «Exploração», qualquer unidade de produção gerida pelo produtor e localizada no interior do território de um determinado Estado-Membro;\n\nc) «Ovelha», qualquer fêmea da espécie ovina que já tenha parido pelo menos uma vez ou tenha, pelo menos, um ano;\n\nd) «Cabra», qualquer fêmea da espécie caprina que já tenha parido pelo menos uma vez ou tenha, pelo menos, um ano."
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "05573be134590b41": {
+   "fragment_id": "Prémio por ovelha e por cabra",
+   "type": "divisao",
+   "heading": "Prémio por ovelha e por cabra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prémio por ovelha e por cabra"
+  },
+  "22bcc4527c5f599b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O produtor que possua ovelhas na sua exploração pode beneficiar, a seu pedido, de um prémio pela manutenção de ovelhas (prémio por ovelha).\n\n2. O produtor que possua cabras na sua exploração pode beneficiar, a seu pedido, de um prémio pela manutenção de cabras (prémio por cabra). O prémio é concedido aos produtores em zonas específicas nas quais a produção obedeça aos dois critérios seguintes:\n\n1. A criação de cabras deve ser principalmente orientada para a produção de carne de caprino;\n\n2. As técnicas de criação dos caprinos e ovinos devem ser da mesma natureza.\n\nUma lista dessas zonas é estabelecida nos termos do n.º 2 do artigo 25.º\n\n3. O prémio por ovelha e o prémio por cabra são concedidos sob a forma de um pagamento anual por animal elegível, por ano civil e por produtor, até aos limites máximos individuais. O número de animais para os quais é apresentado um pedido de prémio é determinado pelo Estado-Membro. Esse mínimo não pode ser inferior a 10 nem superior a 50.\n\n4. Por ovelha, o montante do prémio é de 21 euros. No entanto, no caso dos produtores que comercializem leite de ovelha ou produtos à base de leite de ovelha, o prémio por ovelha é de 16,8 euros.\n\n5. Por cabra, o montante do prémio é de 16,8 euros.\n\n6. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "3d7ced112099f692": {
+   "fragment_id": "Prémio complementar",
+   "type": "divisao",
+   "heading": "Prémio complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prémio complementar"
+  },
+  "31b104c224957adf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Nas zonas em que a produção de ovinos ou caprinos constitua uma actividade tradicional ou contribua significativamente para a economia rural é pago aos produtores um prémio complementar. Os Estados-Membros definem essas zonas. Em qualquer caso, o prémio complementar só é concedido aos produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em zonas desfavorecidas, definidas em conformidade com o Regulamento (CE) n.º 1257/1999.\n\n2. O prémio complementar é também concedido aos produtores que pratiquem a transumância, desde que:\n\na) Pelo menos 90 % dos animais para os quais é pedido prémio pastem, durante pelo menos 90 dias consecutivos, numa zona elegível estabelecida em conformidade com o n.º 1; e\n\nb) As sedes das suas explorações estejam situadas em zonas geográficas bem definidas, em relação às quais esteja comprovado pelo Estado-Membro que a transumância corresponde a uma prática tradicional da criação de ovinos e/ou caprinos e que esses movimentos de animais são necessários devido à inexistência de forragens em quantidade suficiente durante o período de transumância.\n\n3. O montante do prémio complementar é fixado em 7 euros por ovelha e por cabra. O prémio complementar é concedido em condições idênticas às estabelecidas para a concessão do prémio por ovelha e do prémio por cabra.\n\n4. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "e66b8427f7f19165": {
+   "fragment_id": "Disposições comuns",
+   "type": "divisao",
+   "heading": "Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns"
+  },
+  "cdb82526e4700e4d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O prémio é pago ao produtor beneficiário em função do número de ovelhas e/ou cabras mantidas na sua exploração durante um período mínimo, a determinar nos termos do n.º 2 do artigo 25.º\n\nOs pagamentos são efectuados assim que estejam concluídas as inspecções previstas no Regulamento (CEE) n.º 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários ([^13^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E0013)), mas não antes de 16 de Outubro do ano civil relativamente ao qual tenham sido pedidos, nem depois de 31 de Março do ano civil seguinte.\n\n2. Quando for aplicável um regulamento que estabeleça novas regras relativas à identificação e registo dos ovinos e caprinos, para serem elegíveis para o prémio os animais deverão ser identificados e registados de acordo com essas regras."
+  },
+  "9b861bf0ca46532b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs montantes dos prémios podem ser alterados, à luz da evolução da produção, da produtividade e do mercado, nos termos do n.º 2 do artigo 37.º do Tratado."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "5e1003faad09f500": {
+   "fragment_id": "Limites individuais",
+   "type": "divisao",
+   "heading": "Limites individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Limites individuais"
+  },
+  "75139ebf39a5428a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A partir de 1 de Janeiro de 2002, o limite máximo individual por produtor, sob reserva dos n.^os^ 2 e 3, será igual ao número de direitos ao prémio desse produtor em 31 de Dezembro de 2001, segundo as regras comunitárias aplicáveis.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para assegurar que, a partir de 1 de Janeiro de 2002, a soma dos direitos ao prémio nos seus territórios não exceda os limites máximos nacionais estabelecidos no Anexo I e que possam ser mantidas as reservas nacionais referidas no artigo 10.º. A República Checa, a Estónia, Chipre, a Letónia, a Lituânia, a Hungria, Malta, a Polónia, a Eslovénia e a Eslováquia devem repartir limites máximos individuais pelos produtores e estabelecer as reservas nacionais a partir do número global de direitos ao prémio reservados para cada um desses países tal como consta do Anexo I, o mais tardar um ano após a data da adesão.\n\n3. Sempre que as medidas tomadas em conformidade com o n.º 2 exijam uma redução dos limites máximos individuais dos produtores, essa redução deve ser efectuada sem pagamento compensatório e decidida com base em critérios objectivos.\n\nEsses critérios incluem:\n\na) A taxa a que os produtores utilizaram os seus limites máximos individuais durante os três anos de referência anteriores a 2001;\n\nb) Circunstâncias naturais especiais ou a aplicação de sanções, de que resulte o não pagamento ou um pagamento reduzido do prémio durante, pelo menos, um ano de referência;\n\nc) Outras circunstâncias excepcionais que tenham por efeito que os pagamentos efectuados relativamente a um ano de referência, pelo menos, não correspondam à situação real determinada para os anos anteriores.\n\n4. Os direitos ao prémio que tenham sido retirados por força da medida tomada em conformidade com o n.º 2 devem ser abolidos.\n\n5. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "9ac1231040fb1db7": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Sempre que um produtor venda ou transfira de outro modo a sua exploração, pode transferir todos os seus direitos ao prémio para a pessoa que retomar a exploração.\n\n2. O produtor também pode transferir, integral ou parcialmente, os seus direitos para outros produtores sem transferir a sua exploração.\n\nNo caso de transferência de direitos sem transferência de exploração, uma parte dos direitos ao prémio transferidos, não superior a 15 %, é cedida, sem compensação para a reserva nacional do Estado-Membro em que a sua exploração está situada, para redistribuição gratuita.\n\nOs Estados-Membros podem adquirir direitos ao prémio de produtores que concordem, numa base voluntária, em ceder os seus direitos, no todo ou em parte. Neste caso, os pagamentos pela aquisição de tais direitos podem ser efectuados a esses produtores tanto a partir dos orçamentos nacionais como com base no quinto travessão do n.º 2 do artigo 11.º\n\nEm derrogação do disposto no n.º 1 e em circunstâncias devidamente justificadas, os Estados-Membros podem dispor que, no caso de venda ou transferência da exploração, a transferência de direitos seja efectuada por intermédio da reserva nacional.\n\n3. Os Estados-Membros podem tomar as medidas necessárias para evitar que os direitos ao prémio sejam retirados a zonas sensíveis ou a regiões em que a produção de ovinos seja especialmente importante para a economia local.\n\n4. Os Estados-Membros podem autorizar, antes de uma data por eles fixada, transferências temporárias da parte dos direitos ao prémio que o produtor que deles dispõe não tencione utilizar.\n\n5. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 25.º\n\nEssas regras de execução podem dizer, nomeadamente, respeito a:\n\na) Disposições que permitam aos Estados-Membros resolver problemas específicos relacionados com a transferência de direitos ao prémio por produtores que não sejam proprietários das superfícies ocupadas pelas suas explorações; e\n\nb) Regras específicas relativas ao número mínimo de direitos ao prémio que pode ser objecto de uma transferência parcial."
+  },
+  "8a6a80bdc79590d4": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Cada Estado-Membro mantém uma reserva nacional de direitos ao prémio.\n\n2. Quaisquer direitos ao prémio, retirados nos termos do n.º 2 do artigo 9.º ou de outras disposições comunitárias, são acrescentados à reserva nacional.\n\n3. Os Estados-Membros podem atribuir direitos ao prémio a produtores, dentro dos limites das suas reservas nacionais. Ao fazê-lo, devem dar precedência em particular aos produtores que se iniciem na profissão, a jovens agricultores ou a outros produtores prioritários.\n\n4. As regras de execução do presente artigo, em especial as regras relativas à retirada e à reafectação de direitos ao prémio não utilizados, são aprovadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "91b2f9b03b692579": {
+   "fragment_id": "PAGAMENTOS COMPLEMENTARES",
+   "type": "divisao",
+   "heading": "PAGAMENTOS COMPLEMENTARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTOS COMPLEMENTARES"
+  },
+  "445cd437e0ed6e30": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-Membros devem efectuar anualmente pagamentos complementares cujo total corresponda aos montantes globais estabelecidos no anexo II.\n\nOs Estados-Membros podem decidir aumentar os montantes globais indicados no anexo II mediante a redução dos montantes dos pagamentos a que se refere o artigo 4.º A redução dos montantes, que pode ser aplicada numa base regional, não deve ser superior a um euro.\n\nOs pagamentos devem ser efectuados, em cada ano, em função de critérios objectivos tais como, em particular, as estruturas e condições de produção relevantes, e de modo a assegurar a igualdade de tratamento entre os produtores e a evitar distorções do mercado e da concorrência. Os pagamentos devem ser efectuados dentro do prazo fixado no artigo 6.º Além disso, estes pagamentos não dependem das flutuações dos preços de mercado e podem ser efectuados numa base regional.\n\n2. Nestes pagamentos podem incluir-se, nomeadamente:\n\n— os pagamentos aos produtores que se dediquem a tipos específicos de produção, em particular relacionados com a qualidade, importantes para a economia local ou para a protecção do ambiente,\n\n— o aumento do prémio a que se refere o artigo 4.º Os montantes complementares podem ser sujeitos à aplicação de requisitos relativos ao factor densidade dos animais, a determinar pelo Estado-Membro em função das condições locais,\n\n— o apoio à reestruturação de explorações de produtores ou à criação de organizações de produtores,\n\n— os pagamentos por superfície aos produtores, a conceder por hectare de superfície forrageira de que o produtor dispõe durante o ano civil em causa e relativamente à qual não sejam pedidos, a título do mesmo ano, pagamentos ao abrigo do regime de apoio aos produtores de determinadas culturas arvenses, do regime de ajuda para as forragens secas e de regimes comunitários de ajuda para outras culturas permanentes ou hortícolas,\n\n— os pagamentos aos produtores que cedam voluntariamente os seus direitos ao abrigo do n.º 2 do artigo 9.º,\n\n— o apoio à melhoria e à racionalização da transformação e comercialização da carne de ovino e caprino.\n\n3. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "52b530d7262f2f65": {
+   "fragment_id": "Artigo 11.º-A",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A\n\nOs montantes globais referidos no n.º 1 do artigo 11.º são aplicados segundo o calendário de aumentos estabelecido no artigo 1.º-A do Regulamento (CE) n.º 1259/1999 do Conselho."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "656dd057228d9929": {
+   "fragment_id": "Armazenagem privada",
+   "type": "divisao",
+   "heading": "Armazenagem privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Armazenagem privada"
+  },
+  "8f6499c881a7f665": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão pode decidir conceder uma ajuda à armazenagem privada sempre que se verifique uma situação de mercado especialmente difícil numa ou mais zonas de cotação. Por zona de cotação, entende-se:\n\na) A Grã-Bretanha,\n\nb) A Irlanda do Norte,\n\nc) Cada um dos outros Estados-Membros considerado separadamente.\n\nA concessão de ajuda é decidida no âmbito de um processo de concurso.\n\nNo entanto, pode decidir-se conceder essa ajuda no âmbito de um procedimento de fixação antecipada, caso se verifique a necessidade de recorrer urgentemente à armazenagem privada.\n\n2. As regras de execução do presente artigo são aprovadas e a concessão de ajudas à armazenagem privada é decidida nos termos do n.º 2 do artigo 25.º"
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "f5d98f8f882aae17": {
+   "fragment_id": "REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME COMERCIAL COM PAÍSES TERCEIROS"
+  },
+  "64eb2d9c62aac694": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Todas as importações para a Comunidade ou exportações a partir da Comunidade, dos produtos a que se refere o artigo 1.º podem estar sujeitas à apresentação de um certificado de importação ou de exportação.\n\nO certificado de importação e de exportação é válido em toda a Comunidade.\n\nO certificado é emitido pelos Estados-Membros, a pedido do interessado, seja qual for o local do seu estabelecimento na Comunidade, sem prejuízo das medidas tomadas em aplicação do artigo 16.º\n\nA emissão desse certificado pode estar subordinada à constituição de uma garantia que cubra o compromisso de importar ou exportar durante o prazo de validade do certificado e que, salvo caso de força maior, ficará perdida, na totalidade ou em parte, se a operação não for realizada nesse período ou se apenas o for parcialmente.\n\n2. A lista dos produtos relativamente aos quais são exigidos certificados de exportação, o prazo de validade dos certificados e as outras regras de execução do presente artigo são aprovados nos termos do n.º 2 do artigo 25.º"
+  },
+  "eca8e48d44bbfe3e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs taxas de direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o artigo 1.º"
+  },
+  "40d2d436f4c90809": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar das importações de determinados produtos referidos no artigo 1.º, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de um ou vários produtos é sujeita ao pagamento de um direito de importação adicional, se estiverem reunidas as condições a determinar pela Comissão, nos termos do n.º 4, salvo se não houver risco de as importações perturbarem o mercado comunitário ou se os efeitos forem desproporcionados relativamente ao objectivo pretendido.\n\n2. As importações efectuadas a um preço inferior ao nível notificado pela Comunidade à Organização Mundial do Comércio («preço de desencadeamento») podem ser sujeitas a um direito de importação adicional.\n\nSe o volume das importações em qualquer ano em que os efeitos nocivos referidos no n.º 1 se manifestem ou possam vir a manifestar-se exceder um nível baseado nas oportunidades de acesso ao mercado, definidas como a percentagem do consumo interno representada pelas importações durante os três anos precedentes («volume de desencadeamento»), pode ser imposto um direito de importação adicional.\n\n3. Os preços de importação a ter em linha de conta para a imposição de um direito de importação adicional, em conformidade com o primeiro parágrafo do n.º 2, são definidos com base nos preços de importação CIF da remessa em causa.\n\nPara este efeito, os preços de importação CIF são verificados com base nos preços representativos do produto em questão no mercado mundial ou no mercado comunitário de importação do produto.\n\n4. A Comissão aprova as regras de execução do presente artigo nos termos do n.º 2 do artigo 25.º Essas regras devem, nomeadamente, dizer respeito aos produtos a que podem ser aplicados direitos de importação adicionais."
+  },
+  "5c0762cbafc7b14a": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os contingentes pautais relativos aos produtos referidos no artigo 1.º, que decorram dos acordos celebrados em conformidade com o artigo 300.º do Tratado ou de qualquer outro acto do Conselho, são abertos e geridos segundo as regras de execução aprovadas nos termos do n.º 2 do artigo 25.º\n\n2. A gestão dos contingentes pode efectuar-se mediante aplicação de um dos métodos seguintes, ou através de uma combinação dos mesmos:\n\na) Método baseado na ordem cronológica de apresentação dos pedidos (segundo o princípio «primeiro a chegar, primeiro a ser servido»);\n\nb) Método de repartição proporcional às quantidades solicitadas na apresentação dos pedidos (segundo o método «de análise simultânea»);\n\nc) Método baseado na tomada em consideração dos fluxos comerciais tradicionais (segundo o método «beneficiários tradicionais/novos beneficiários»).\n\nPodem ser estabelecidos outros métodos adequados, que deverão evitar qualquer discriminação entre os operadores interessados.\n\n3. O método de gestão estabelecido deve atender, sempre que adequado, às necessidades de abastecimento do mercado comunitário e à necessidade de salvaguardar o equilíbrio desse mercado.\n\n4. As regras de execução a que se refere o n.º 1 devem:\n\na) Prever a abertura dos contingentes numa base anual e, se necessário, de acordo com um escalonamento adequado;\n\nb) Determinar o método administrativo a utilizar;\n\nc) Incluir, se for caso disso, garantias respeitantes à natureza, proveniência e origem do produto, bem como, se tal se justificar, à manutenção dos fluxos comerciais tradicionais;\n\nd) Prever disposições relativas ao reconhecimento do documento que permita verificar as garantias referidas na alínea c); e\n\ne) Estabelecer as condições de emissão e o prazo de validade dos certificados de importação."
+  },
+  "c71a47847bae4d25": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Na medida do necessário ao bom funcionamento da organização comum de mercado dos produtos referidos no artigo 1.º do presente regulamento, o Conselho, deliberando sob proposta da Comissão, segundo o processo de votação previsto no n.º 2 do artigo 37.º do Tratado, pode, em casos especiais, proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo ou passivo em relação aos produtos referidos no referido artigo 1.º\n\n2. Em derrogação do n.º 1, no caso de a situação referida no mesmo número ser excepcionalmente urgente e de o mercado comunitário ser ou correr o risco de ser perturbado pelo regime de aperfeiçoamento activo ou passivo, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decide das medidas necessárias; estas são notificadas ao Conselho e aos Estados-Membros, têm um prazo de validade máxima de seis meses e são imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, toma uma decisão no prazo de uma semana a contar da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter ao Conselho a decisão da Comissão, no prazo de uma semana a contar da data da sua comunicação. O Conselho, deliberando por maioria qualificada, pode confirmar, alterar ou anular a decisão da Comissão.\n\nSe, no prazo de três meses, o Conselho não tiver tomado qualquer decisão, considera-se anulada a decisão da Comissão."
+  },
+  "9f12c37f2064482b": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. As regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação são aplicáveis à classificação dos produtos referidos no artigo 1.º A nomenclatura pautal resultante da aplicação do presente regulamento deve ser integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposições em contrário do presente regulamento, ou aprovadas nos termos de uma das disposições deste, são proibidas, nas trocas comerciais com países terceiros:\n\na) A cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "0b96bbb3c37fc1fb": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Se, devido a um aumento das importações ou exportações, o mercado comunitário de um ou vários produtos referidos no artigo 1.º do presente regulamento sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 33.º do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou risco de perturbação.\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprova as regras gerais de aplicação do presente número e define os casos e limites em que os Estados-Membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no n.º 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decide das medidas necessárias. A Comissão deve notificar os Estados-Membros dessas medidas, que são imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, toma uma decisão no prazo de três dias úteis a contar da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter ao Conselho a decisão da Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reúne-se imediatamente. Deliberando por maioria qualificada, pode alterar ou anular a medida em causa.\n\n4. As disposições do presente artigo são aplicadas no respeito das obrigações da Comunidade, incluindo as suas obrigações internacionais."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "8626c333d2c81105": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs Estados-Membros verificam os preços dos ovinos e da carne de ovino com base em regras a estabelecer pela Comissão nos termos do n.º 2 do artigo 25.º"
+  },
+  "9c0c5907689a291f": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Quando se verificar uma subida ou uma descida sensível de preços no mercado da Comunidade, se esta situação for susceptível de persistir e, por esse motivo, esse mercado for ou correr o risco de ser perturbado, podem ser adoptadas as medidas necessárias nos termos do n.º 2 do artigo 25.º\n\n2. As regras de execução do presente artigo são aprovadas pela Comissão nos termos do n.º 2 do artigo 25.º"
+  },
+  "b02d29023190a637": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA fim de ter em conta as limitações à livre circulação que poderiam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas, nos termos do n.º 2 do artigo 25.º, medidas excepcionais de apoio ao mercado afectado por estas limitações. Estas medidas só podem ser tomadas na medida em que tal seja estritamente necessário para apoiar esse mercado e apenas durante esse período."
+  },
+  "1b49c88b10b36fcd": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSalvo disposições contrárias do presente regulamento, os artigos 87.º, 88.º e 89.º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1.º do presente regulamento."
+  },
+  "bf86d0fec79e079e": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros e a Comissão comunicam reciprocamente os dados necessários à aplicação do presente regulamento.\n\nAs regras de comunicação e de difusão dos dados são aprovadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "e5f2e3420030ad7a": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A Comissão é assistida pelo Comité de Gestão «Ovinos e Caprinos», composto por representantes dos Estados-Membros e presidido pelo representante da Comissão.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "059c1f4671f39e45": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSão aprovadas nos termos do n.º 2 do artigo 25.º todas as medidas necessárias e devidamente justificadas para responder, em caso de urgência, a problemas práticos, específicos e imprevisíveis.\n\nEssas medidas podem derrogar certas partes do presente regulamento, mas só na medida e pelo prazo estritamente necessário."
+  },
+  "eff9695537bb4a25": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO Regulamento (CE) n.º 1258/1999 e as disposições aprovadas para aplicação do mesmo são aplicáveis às despesas efectuadas pelos Estados-Membros, em consequência das obrigações resultantes do presente regulamento."
+  },
+  "39e241323d8f1827": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 31 de Dezembro de 2005, um relatório sobre as consequências ambientais da criação de ovinos e caprinos em determinadas regiões da Comunidade bem como sobre o impacto do regime de prémios e sobre o funcionamento do sistema de pagamento adicionais tendo em conta a melhoria da identificação e do registo dos ovinos e caprinos. Se for caso disso, o relatório deve ser acompanhado de propostas. O relatório deve ter em conta, nomeadamente, os relatórios apresentados pelos Estados-Membros sobre a aplicação das medidas previstas nos termos do artigo 3.º do Regulamento (CE) n.º 1259/1999."
+  },
+  "8b6650c18d71eda7": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs Regulamentos (CEE) n.º 2644/80, (CEE) n.º 3901/89, (CEE) n.º 1323/90, (CEE) n.º 3493/90, (CEE) n.º 338/91 e (CE) n.º 2467/98 são revogados.\n\nAs referências aos regulamentos revogados devem entender-se como sendo feitas ao presente regulamento e ser lidas de acordo com o quadro de correspondência que consta do anexo III."
+  },
+  "45a8d66c72aa8f89": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAs medidas necessárias para facilitar a transição das disposições dos regulamentos mencionados no artigo 29.º para o regime estabelecido no presente regulamento são adoptadas nos termos do n.º 2 do artigo 25.º"
+  },
+  "2c8110a74439edbb": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\n2. O presente regulamento é aplicável a partir de 1 de Janeiro de 2002.\n\n3. Os Regulamentos (CEE) n.º 2644/80, (CEE) n.º 3901/89, (CEE) n.º 1323/90, (CEE) n.º 3493/90, (CEE) n.º 338/91 e (CE) n.º 2467/98 continuarão a ser aplicáveis no que diz respeito à campanha de comercialização de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "f79260b74efbe031": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Estado-Membro | Direitos (x 1000) |\n| --- | --- |\n| Bélgica | 70 |\n| República Checa | 66,733 |\n| Dinamarca | 104 |\n| Alemanha | 2 432 |\n| Estónia | 48 |\n| Grécia | 11 023 |\n| Espanha | 19 580 |\n| França | 7 842 |\n| Irlanda | 4 956 |\n| Itália | 9 575 |\n| Chipre | 472,401 |\n| Letónia | 18,437 |\n| Lituânia | 17,304 |\n| Luxemburgo | 4 |\n| Hungria | 1 146 |\n| Malta | 8,485 |\n| Países Baixos | 930 |\n| Áustria | 206 |\n| Polónia | 335,88 |\n| Portugal [(^1^)](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#E1001) | 2 690 |\n| Eslovénia | 84,909 |\n| Eslováquia | 305,756 |\n| Finlândia | 80 |\n| Suécia | 180 |\n| Reino Unido | 19 492 |\n| Total | 81 667,905 |\n| (^1^)Com exclusão do programa de extensificação estabelecido no Regulamento (CE) n.º 1017/94 do Conselho, de 26 de Abril de 1994, relativo à reconversão de terras actualmente consagradas às culturas arvenses para a produção animal extensiva em Portugal (JO L 112 de 3.5.1994, p. 2). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2582/2001 (JO L 345 de 29.12.2001, p. 5). |  |"
+  },
+  "2d004840ce48d5c1": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| (expressos em milhares de euros) |  |\n| --- | --- |\n| Bélgica | 64 |\n| República Checa | 71 |\n| Dinamarca | 79 |\n| Alemanha | 1 793 |\n| Estónia | 51 |\n| Grécia | 8 767 |\n| Espanha | 18 827 |\n| França | 7 083 |\n| Irlanda | 4 875 |\n| Itália | 6 920 |\n| Chipre | 441 |\n| Letónia | 19 |\n| Lituânia | 18 |\n| Luxemburgo | 4 |\n| Hungria | 1 212 |\n| Malta | 9 |\n| Países Baixos | 743 |\n| Áustria | 185 |\n| Polónia | 355 |\n| Portugal | 2 275 |\n| Eslovénia | 86 |\n| Eslováquia | 323 |\n| Finlândia | 61 |\n| Suécia | 162 |\n| Reino Unido | 20 162 |"
+  },
+  "93a6b054314e11bd": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nQUADRO DE CORRESPONDÊNCIA\n\nRegulamento (CEE) n.º 1323/90 Presente regulamento\n\nArtigo 1.º Artigo 5.º\n\nRegulamento (CEE) n.º 3493/90 Presente regulamento\n\nArtigo 1.º, n.º 1 —\n\nArtigo 1.º, n.º 2 —\n\nArtigo 1.º, n.º 3 —\n\nArtigo 1.º, n.º 4 Artigo 3.º, alínea a)\n\nArtigo 1.º, n.º 5 Artigo 3.º, alínea b)\n\nArtigo 2.º Artigo 5.º\n\nArtigo 3.º —\n\nArtigo 4.º —\n\nRegulamento (CE) n.º 2467/98 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º —\n\nArtigo 4.º Artigo 20.º\n\nArtigo 5.º, n.º 1 Artigo 4.º, n.º 1\n\nArtigo 5.º, n.^os^ 2. e 3 Artigo 4º, n.º 4\n\nArtigo 5.º, n.º 4 —\n\nArtigo 5.º, n.º 5 Artigo 4.º, n.º 2\n\nArtigo 5.º, n.º 6 Artigo 6.º\n\nArtigo 5.º, n.^os^ 7, 8, 9 e 10 —\n\nArtigo 6.º, n.º 1, 2 e 3 —\n\nArtigo 6.º, n.º 4, alínea a) —\n\nArtigo 6.º, n.º 4, alínea b) Artigo 9.º, n.^os^ 1 e 2\n\nArtigo 6.º, n.º 4, alínea c) Artigo 9.º, n.^os^ 2 e 3\n\nArtigo 6.º, n.º 4, alínea d) Artigo 9.º, n.º 4\n\nArtigo 6.º, n.º 4, alínea e) —\n\nArtigo 6.º, n.º 4, alínea f) Artigo 9.º, n.º 5\n\nArtigo 6.º, n.º 5 —\n\nArtigo 6.º, n.º 6 —\n\nArtigo 7.º Artigo 10.º\n\nArtigo 8.º —\n\nArtigo 9.º —\n\nArtigo 10.º Artigo 8.º, n.º 2\n\nArtigo 11.º —\n\nArtigo 12.º Artigo 12.º\n\nArtigo 13.º —\n\nArtigo 14.º Artigo 13.º\n\nArtigo 15.º Artigo 14.º\n\nArtigo 16.º Artigo 15.º\n\nArtigo 17.º Artigo 16.º\n\nArtigo 18.º Artigo 17.º\n\nArtigo 19.º Artigo 18.º\n\nArtigo 20.º Artigo 19.º\n\nArtigo 21.º Artigo 22.º\n\nArtigo 22.º Artigo 23.º\n\nArtigo 23.º Artigo 24.º\n\nArtigo 25.º Artigo 25.º\n\nArtigo 26.º —\n\nArtigo 27.º —\n\nArtigo 28.º —\n\n---"
+  },
+  "618b238cad209e9d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0001)) JO C 213 E de 31.7.2001, p. 275.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0002)) Parecer emitido em 25 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0003)) Parecer emitido em 17 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0004)) JO L 275 de 18.10.1980, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0005)) JO L 375 de 23.12.1989, p. 4. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1266/95 (JO L 123 de 3.6.1995, p. 3).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0006)) JO L 132 de 23.5.1990, p. 17. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 193/98 (JO L 20 de 27.1.1998, p. 18).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0007)) JO L 337 de 4.12.1990, p. 7. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2825/2000 (JO L 328 de 23.12.2000, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0008)) JO L 41 de 14.2.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2536/97 (JO L 347 de 18.12.1997, p. 6).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0009)) JO L 312 de 20.11.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1669/2000 (JO L 193 de 29.7.2000, p. 8).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0010)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0012)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/bacaa298-072f-4a21-9b62-2ef747a2992f.0010.03/DOC_1#src.E0013)) JO L 355 de 5.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 495/2001 (JO L 72 de 14.3.2001, p. 6)."
+  },
+  "ff848769f535063e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2001\n\nque estabelece a organização comum de mercado no sector das carnes de ovino e caprino\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0003)),\n\n(1) As disposições relativas à organização comum de mercado no sector das carnes de ovino e caprino foram estabelecidas em vários regulamentos. Por razões de clareza, esses regulamentos devem ser revogados e substituídos por um novo regulamento. O Regulamento (CEE) n.º 2644/80 do Conselho, de 14 de Outubro de 1980, que estabelece as regras gerais relativas à intervenção no sector das carnes de ovino e caprino ([^4^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0004)), o Regulamento (CEE) n.º 3901/89 do Conselho, de 12 de Dezembro de 1989, que estabelece a definição dos borregos engordados para obtenção de carcaças pesadas ([^5^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0005)), o Regulamento (CEE) n.º 1323/90 do Conselho, de 14 de Maio de 1990, que institui uma ajuda específica à criação de ovinos e caprinos em determinadas zonas desfavorecidas da Comunidade ([^6^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0006)), o Regulamento (CEE) n.º 3493/90 do Conselho, de 27 de Novembro de 1990, que estabelece as regras gerais relativas à concessão do prémio em benefício dos produtores de carne de ovino e caprino ([^7^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0007)), o Regulamento (CEE) n.º 338/91 do Conselho, de 5 de Fevereiro de 1991, que determina a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas ([^8^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0008)), e o Regulamento (CE) n.º 2467/98 do Conselho, de 3 de Novembro de 1998, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino ([^9^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0009)), são substituídos por novas disposições do presente regulamento e devem, pois, ser revogados.\n\n(2) A organização comum dos mercados agrícolas pode tomar diversas formas, consoante os produtos.\n\n(3) Para atingir os objectivos estabelecidos no artigo 33.º do Tratado, nomeadamente estabilizar os mercados e assegurar um nível de vida decente à população agrícola em causa, é necessário prever determinadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado. Devem ser previstas medidas respeitantes ao mercado interno que incluam, nomeadamente, um prémio aos produtores de carnes de ovino e de caprino e um regime de armazenagem privada.\n\n(4) O montante do prémio a conceder aos produtores deve ter em consideração as diversas especializações dos sistemas de produção na Comunidade. O prémio relativo às cabras deve ser concedido aos produtores em zonas específicas onde a criação de caprinos seja essencialmente orientada para a produção de carne de caprino e onde as técnicas de criação de caprinos e da de ovinos sejam de natureza semelhante.\n\n(5) Deve, também, ser previsto o pagamento de um prémio complementar aos produtores de zonas em que a produção de ovinos e caprinos constitua uma actividade tradicional ou contribua de forma significativa para a economia rural. A concessão do prémio complementar deve limitar-se aos produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em zonas desfavorecidas, definidas em conformidade com o Regulamento (CE) n.º 1257/1999, de 27 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos ([^10^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0010)).\n\n(6) É oportuno, por razões administrativas, que a data de início de pagamento dos prémios coincida com o início do ano orçamental. A fim de alcançar o impacto económico desejado, os prémios devem ser concedidos dentro de certos prazos.\n\n(7) É necessário prever a possibilidade de alterar os montantes dos prémios na sequência de evoluções da produção, da produtividade e do mercado.\n\n(8) Para não incentivar a produção e o aumento das despesas será conveniente manter limites máximos individuais para os produtores. O número total de direitos ao prémio de cada Estado-Membro deve ser fixado com base nos níveis já estabelecidos.\n\n(9) Os novos produtores e os produtores já em actividade cujos limites máximos individuais não correspondam, por razões diversas, a alterações nos seus efectivos não devem ser excluídos do direito ao prémio. Deve, pois, ser prevista a criação de reservas nacionais, a alimentar e administrar de acordo com critérios comunitários. Pela mesma razão, a transferência dos direitos ao prémio, sem transferência da exploração que lhes está associada, deve ser sujeita a regras segundo as quais parte dos direitos transferidos seja retirada sem pagamento compensatório e atribuída a essa reserva nacional.\n\n(10) A fim de permitir que os produtores reduzam a sua produção durante um período limitado, os Estados-Membros devem ser autorizados a prever a possibilidade de uma transferência temporária dos direitos ao prémio.\n\n(11) Deve ser criado um vínculo entre as zonas ou localizações sensíveis e a produção ovina e caprina, a fim de assegurar a manutenção desta, especialmente nas zonas em que essa produção é importante para a economia local.\n\n(12) As condições de produção de carne de ovino e caprino bem como a situação dos produtores em termos de rendimento variam significativamente em diferentes zonas de produção da Comunidade. É, pois, adequado prever um quadro flexível de pagamentos comunitários complementares a determinar e efectuar pelos Estados-Membros no respeito de montantes globais fixos e segundo certos critérios comuns, a fim de responder adequadamente às disparidades estruturais e naturais e às diversas necessidades do sector. Os montantes globais devem ser atribuídos a cada Estado-Membro com base na sua parte dos prémios pagos. Os critérios comuns destinam-se, nomeadamente, a evitar que os pagamentos complementares tenham efeitos discriminatórios e a ter plenamente em conta os compromissos multilaterais relevantes da Comunidade. É nomeadamente essencial que os Estados-Membros sejam obrigados a agir exclusivamente com base em critérios objectivos, de forma a respeitar plenamente o conceito de igualdade de tratamento e a evitar distorções do mercado e da concorrência.\n\n(13) As medidas de intervenção revestem a forma de ajudas à armazenagem privada, que são as que menos afectam a comercialização normal dos produtos. A fim de assegurar a aplicação adequada desta ajuda, a Comissão deve ser plenamente informada da evolução dos preços no mercado comum da carne de ovino e de caprino.\n\n(14) Como regra geral, sempre que se encontrarem reunidos determinados critérios em matéria de preços de mercado, a concessão das ajudas à armazenagem privada deve ser decidida por via de concurso. No entanto, a concessão das ajudas à armazenagem privada, no âmbito de uma fixação antecipada do montante da ajuda, poderá melhorar a eficácia dessas medidas sempre que se verifique a necessidade de se recorrer urgentemente à armazenagem privada devido a uma situação de mercado particularmente difícil numa ou mais zonas de cotação. É, pois, necessário autorizar a Comissão a recorrer ao processo de fixação antecipada do montante da ajuda, sempre que se verifique essa situação de mercado, mesmo que não tenham sido satisfeitos os critérios em matéria de preços de mercado em questão.\n\n(15) O regime de comércio, juntamente com os regimes de preços, de prémios e de intervenções e compreendendo um regime de direitos niveladores à importação, tem como objectivo, em princípio, a estabilização do mercado comunitário.\n\n(16) As autoridades competentes devem encontrar-se preparadas para seguir continuamente o movimento de trocas comerciais, a fim de poderem apreciar a evolução do mercado e aplicar, eventualmente e se necessário, as medidas previstas pelo presente regulamento. É conveniente prever a possibilidade de recurso a um regime de certificados de importação e, caso necessário, de exportação, que inclua a constituição de uma caução que garanta a realização das operações para as quais são requeridos esses certificados.\n\n(17) A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar da importação de determinados produtos agrícolas, a importação de um ou vários desses produtos deve ser sujeita, se estiverem reunidas certas condições, ao pagamento de um direito à importação adicional.\n\n(18) É adequado, em certas condições, atribuir à Comissão a competência de iniciar e gerir os contingentes pautais decorrentes de acordos internacionais, celebrados em conformidade com o Tratado ou resultantes de outros actos do Conselho.\n\n(19) Como complemento do sistema atrás descrito, convém prever, na medida do necessário ao seu bom funcionamento, a possibilidade de proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo ou passivo, quando a situação do mercado o exija.\n\n(20) O regime dos direitos aduaneiros permite renunciar a qualquer outra medida de protecção nas fronteiras externas da Comunidade. Contudo, o mecanismo dos preços e dos direitos aduaneiros comuns pode, em circunstâncias excepcionais, ser inadequado. Para não deixar, nesses casos, o mercado comunitário sem protecção contra possíveis perturbações, na sequência da remoção das barreiras à importação, a Comunidade deve poder tomar rapidamente todas as medidas necessárias. Essas medidas devem estar em conformidade com as obrigações da Comunidade, incluindo as suas obrigações internacionais.\n\n(21) Podem também ter que ser tomadas medidas quando o mercado da Comunidade é perturbado ou ameaça ser perturbado, em consequência de uma subida ou descida sensível dos preços.\n\n(22) As restrições à livre circulação, resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem provocar dificuldades no mercado de um ou mais Estados-Membros. Podem ter de ser introduzidas medidas excepcionais de apoio ao mercado para remediar tais situações.\n\n(23) O bom funcionamento de um mercado único assente em preços comuns ficaria comprometido com a concessão de certas ajudas. Assim, as disposições do Tratado que regem os auxílios estatais devem ser aplicáveis à carne de ovino e de caprino.\n\n(24) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/486/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^11^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0011)).\n\n(25) As despesas efectuadas pelos Estados-Membros, em consequência das obrigações resultantes do presente regulamento, enquadram-se no âmbito do Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^12^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E0012)).\n\n(26) O impacto ambiental da produção de ovinos e caprinos em determinadas regiões da Comunidade constitui motivo de preocupação. A Comissão deve elaborar um relatório sobre esta matéria com base na experiência adquirida, se necessário acompanhado de propostas.\n\n(27) A transição das disposições do Regulamento (CE) n.º 2467/98 para as previstas no presente regulamento pode dar origem a dificuldades que não são abordadas no presente regulamento. A fim de fazer face a essas dificuldades, a Comissão deve ser autorizada a adoptar medidas de transição. A Comissão deve também ser autorizada a resolver problemas práticos específicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6c1760bbe9329318": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Estado-Membro | Direitos (x 1000) |\n| --- | --- |\n| Bélgica | 70 |\n| República Checa | 66,733 |\n| Dinamarca | 104 |\n| Alemanha | 2 432 |\n| Estónia | 48 |\n| Grécia | 11 023 |\n| Espanha | 19 580 |\n| França | 7 842 |\n| Irlanda | 4 956 |\n| Itália | 9 575 |\n| Chipre | 472,401 |\n| Letónia | 18,437 |\n| Lituânia | 17,304 |\n| Luxemburgo | 4 |\n| Hungria | 1 146 |\n| Malta | 8,485 |\n| Países Baixos | 930 |\n| Áustria | 206 |\n| Polónia | 335,88 |\n| Portugal [(^1^)](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#E1001) | 2 690 |\n| Eslovénia | 84,909 |\n| Eslováquia | 305,756 |\n| Finlândia | 80 |\n| Suécia | 180 |\n| Reino Unido | 19 492 |\n| **Total** | **81 667,905** |\n| (^1^)Com exclusão do programa de extensificação estabelecido no Regulamento (CE) n.º 1017/94 do Conselho, de 26 de Abril de 1994, relativo à reconversão de terras actualmente consagradas às culturas arvenses para a produção animal extensiva em Portugal (JO L 112 de 3.5.1994, p. 2). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2582/2001 (JO L 345 de 29.12.2001, p. 5). |  |"
+  },
+  "365902dd58abbe69": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0001)) JO C 213 E de 31.7.2001, p. 275.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0002)) Parecer emitido em 25 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0003)) Parecer emitido em 17 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0004)) JO L 275 de 18.10.1980, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0005)) JO L 375 de 23.12.1989, p. 4. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1266/95 (JO L 123 de 3.6.1995, p. 3).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0006)) JO L 132 de 23.5.1990, p. 17. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 193/98 (JO L 20 de 27.1.1998, p. 18).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0007)) JO L 337 de 4.12.1990, p. 7. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2825/2000 (JO L 328 de 23.12.2000, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0008)) JO L 41 de 14.2.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2536/97 (JO L 347 de 18.12.1997, p. 6).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0009)) JO L 312 de 20.11.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1669/2000 (JO L 193 de 29.7.2000, p. 8).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0010)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/f24b05e7-740d-4b37-9ce5-48efa046409c.0016.03/DOC_1#src.E0012)) JO L 160 de 26.6.1999, p. 103."
+  },
+  "8016264daad7a570": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2001\n\nque estabelece a organização comum de mercado no sector das carnes de ovino e caprino\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0003)),\n\n(1) As disposições relativas à organização comum de mercado no sector das carnes de ovino e caprino foram estabelecidas em vários regulamentos. Por razões de clareza, esses regulamentos devem ser revogados e substituídos por um novo regulamento. O Regulamento (CEE) n.º 2644/80 do Conselho, de 14 de Outubro de 1980, que estabelece as regras gerais relativas à intervenção no sector das carnes de ovino e caprino ([^4^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0004)), o Regulamento (CEE) n.º 3901/89 do Conselho, de 12 de Dezembro de 1989, que estabelece a definição dos borregos engordados para obtenção de carcaças pesadas ([^5^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0005)), o Regulamento (CEE) n.º 1323/90 do Conselho, de 14 de Maio de 1990, que institui uma ajuda específica à criação de ovinos e caprinos em determinadas zonas desfavorecidas da Comunidade ([^6^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0006)), o Regulamento (CEE) n.º 3493/90 do Conselho, de 27 de Novembro de 1990, que estabelece as regras gerais relativas à concessão do prémio em benefício dos produtores de carne de ovino e caprino ([^7^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0007)), o Regulamento (CEE) n.º 338/91 do Conselho, de 5 de Fevereiro de 1991, que determina a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas ([^8^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0008)), e o Regulamento (CE) n.º 2467/98 do Conselho, de 3 de Novembro de 1998, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino ([^9^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0009)), são substituídos por novas disposições do presente regulamento e devem, pois, ser revogados.\n\n(2) A organização comum dos mercados agrícolas pode tomar diversas formas, consoante os produtos.\n\n(3) Para atingir os objectivos estabelecidos no artigo 33.º do Tratado, nomeadamente estabilizar os mercados e assegurar um nível de vida decente à população agrícola em causa, é necessário prever determinadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado. Devem ser previstas medidas respeitantes ao mercado interno que incluam, nomeadamente, um prémio aos produtores de carnes de ovino e de caprino e um regime de armazenagem privada.\n\n(4) O montante do prémio a conceder aos produtores deve ter em consideração as diversas especializações dos sistemas de produção na Comunidade. O prémio relativo às cabras deve ser concedido aos produtores em zonas específicas onde a criação de caprinos seja essencialmente orientada para a produção de carne de caprino e onde as técnicas de criação de caprinos e da de ovinos sejam de natureza semelhante.\n\n(5) Deve, também, ser previsto o pagamento de um prémio complementar aos produtores de zonas em que a produção de ovinos e caprinos constitua uma actividade tradicional ou contribua de forma significativa para a economia rural. A concessão do prémio complementar deve limitar-se aos produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em zonas desfavorecidas, definidas em conformidade com o Regulamento (CE) n.º 1257/1999, de 27 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos ([^10^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0010)).\n\n(6) É oportuno, por razões administrativas, que a data de início de pagamento dos prémios coincida com o início do ano orçamental. A fim de alcançar o impacto económico desejado, os prémios devem ser concedidos dentro de certos prazos.\n\n(7) É necessário prever a possibilidade de alterar os montantes dos prémios na sequência de evoluções da produção, da produtividade e do mercado.\n\n(8) Para não incentivar a produção e o aumento das despesas será conveniente manter limites máximos individuais para os produtores. O número total de direitos ao prémio de cada Estado-Membro deve ser fixado com base nos níveis já estabelecidos.\n\n(9) Os novos produtores e os produtores já em actividade cujos limites máximos individuais não correspondam, por razões diversas, a alterações nos seus efectivos não devem ser excluídos do direito ao prémio. Deve, pois, ser prevista a criação de reservas nacionais, a alimentar e administrar de acordo com critérios comunitários. Pela mesma razão, a transferência dos direitos ao prémio, sem transferência da exploração que lhes está associada, deve ser sujeita a regras segundo as quais parte dos direitos transferidos seja retirada sem pagamento compensatório e atribuída a essa reserva nacional.\n\n(10) A fim de permitir que os produtores reduzam a sua produção durante um período limitado, os Estados-Membros devem ser autorizados a prever a possibilidade de uma transferência temporária dos direitos ao prémio.\n\n(11) Deve ser criado um vínculo entre as zonas ou localizações sensíveis e a produção ovina e caprina, a fim de assegurar a manutenção desta, especialmente nas zonas em que essa produção é importante para a economia local.\n\n(12) As condições de produção de carne de ovino e caprino bem como a situação dos produtores em termos de rendimento variam significativamente em diferentes zonas de produção da Comunidade. É, pois, adequado prever um quadro flexível de pagamentos comunitários complementares a determinar e efectuar pelos Estados-Membros no respeito de montantes globais fixos e segundo certos critérios comuns, a fim de responder adequadamente às disparidades estruturais e naturais e às diversas necessidades do sector. Os montantes globais devem ser atribuídos a cada Estado-Membro com base na sua parte dos prémios pagos. Os critérios comuns destinam-se, nomeadamente, a evitar que os pagamentos complementares tenham efeitos discriminatórios e a ter plenamente em conta os compromissos multilaterais relevantes da Comunidade. É nomeadamente essencial que os Estados-Membros sejam obrigados a agir exclusivamente com base em critérios objectivos, de forma a respeitar plenamente o conceito de igualdade de tratamento e a evitar distorções do mercado e da concorrência.\n\n(13) As medidas de intervenção revestem a forma de ajudas à armazenagem privada, que são as que menos afectam a comercialização normal dos produtos. A fim de assegurar a aplicação adequada desta ajuda, a Comissão deve ser plenamente informada da evolução dos preços no mercado comum da carne de ovino e de caprino.\n\n(14) Como regra geral, sempre que se encontrarem reunidos determinados critérios em matéria de preços de mercado, a concessão das ajudas à armazenagem privada deve ser decidida por via de concurso. No entanto, a concessão das ajudas à armazenagem privada, no âmbito de uma fixação antecipada do montante da ajuda, poderá melhorar a eficácia dessas medidas sempre que se verifique a necessidade de se recorrer urgentemente à armazenagem privada devido a uma situação de mercado particularmente difícil numa ou mais zonas de cotação. É, pois, necessário autorizar a Comissão a recorrer ao processo de fixação antecipada do montante da ajuda, sempre que se verifique essa situação de mercado, mesmo que não tenham sido satisfeitos os critérios em matéria de preços de mercado em questão.\n\n(15) O regime de comércio, juntamente com os regimes de preços, de prémios e de intervenções e compreendendo um regime de direitos niveladores à importação, tem como objectivo, em princípio, a estabilização do mercado comunitário.\n\n(16) As autoridades competentes devem encontrar-se preparadas para seguir continuamente o movimento de trocas comerciais, a fim de poderem apreciar a evolução do mercado e aplicar, eventualmente e se necessário, as medidas previstas pelo presente regulamento. É conveniente prever a possibilidade de recurso a um regime de certificados de importação e, caso necessário, de exportação, que inclua a constituição de uma caução que garanta a realização das operações para as quais são requeridos esses certificados.\n\n(17) A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar da importação de determinados produtos agrícolas, a importação de um ou vários desses produtos deve ser sujeita, se estiverem reunidas certas condições, ao pagamento de um direito à importação adicional.\n\n(18) É adequado, em certas condições, atribuir à Comissão a competência de iniciar e gerir os contingentes pautais decorrentes de acordos internacionais, celebrados em conformidade com o Tratado ou resultantes de outros actos do Conselho.\n\n(19) Como complemento do sistema atrás descrito, convém prever, na medida do necessário ao seu bom funcionamento, a possibilidade de proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo ou passivo, quando a situação do mercado o exija.\n\n(20) O regime dos direitos aduaneiros permite renunciar a qualquer outra medida de protecção nas fronteiras externas da Comunidade. Contudo, o mecanismo dos preços e dos direitos aduaneiros comuns pode, em circunstâncias excepcionais, ser inadequado. Para não deixar, nesses casos, o mercado comunitário sem protecção contra possíveis perturbações, na sequência da remoção das barreiras à importação, a Comunidade deve poder tomar rapidamente todas as medidas necessárias. Essas medidas devem estar em conformidade com as obrigações da Comunidade, incluindo as suas obrigações internacionais.\n\n(21) Podem também ter que ser tomadas medidas quando o mercado da Comunidade é perturbado ou ameaça ser perturbado, em consequência de uma subida ou descida sensível dos preços.\n\n(22) As restrições à livre circulação, resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem provocar dificuldades no mercado de um ou mais Estados-Membros. Podem ter de ser introduzidas medidas excepcionais de apoio ao mercado para remediar tais situações.\n\n(23) O bom funcionamento de um mercado único assente em preços comuns ficaria comprometido com a concessão de certas ajudas. Assim, as disposições do Tratado que regem os auxílios estatais devem ser aplicáveis à carne de ovino e de caprino.\n\n(24) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/486/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^11^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0011)).\n\n(25) As despesas efectuadas pelos Estados-Membros, em consequência das obrigações resultantes do presente regulamento, enquadram-se no âmbito do Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^12^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0012)).\n\n(26) O impacto ambiental da produção de ovinos e caprinos em determinadas regiões da Comunidade constitui motivo de preocupação. A Comissão deve elaborar um relatório sobre esta matéria com base na experiência adquirida, se necessário acompanhado de propostas.\n\n(27) A transição das disposições do Regulamento (CE) n.º 2467/98 para as previstas no presente regulamento pode dar origem a dificuldades que não são abordadas no presente regulamento. A fim de fazer face a essas dificuldades, a Comissão deve ser autorizada a adoptar medidas de transição. A Comissão deve também ser autorizada a resolver problemas práticos específicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c63b7aa33160dac2": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A fim de ter em conta as limitações à livre circulação que possam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas medidas excepcionais de apoio do mercado afectado por essas limitações, nos termos do n.º 2 do artigo 25.º. Essas medidas são tomadas a pedido do Estado-Membro ou dos Estados-Membros em causa. Só podem ser tomadas se o Estados-Membro ou os Estados-Membros em causa tiverem adoptado medidas veterinárias e sanitárias para pôr rapidamente termo às epizootias e na medida e pelo período estritamente necessários ao apoio desse mercado.\n\n2. A Comunidade participa no financiamento das medidas excepcionais referidas no n.º 1, tomadas em relação directa com as medidas veterinárias e sanitárias, até ao limite de 50 % das despesas suportadas pelos Estados-Membros e, em caso de luta contra a febre aftosa, de 60 % dessas despesas.\n\n3. Os Estados-Membros devem assegurar que, caso os produtores contribuam para as despesas suportadas pelos Estados-Membros, tal facto não provoque distorções de concorrência entre produtores de diferentes Estados-Membros.\n\n4. Os artigos 87.º, 88.º e 89.º do Tratado não se aplicam à contribuição financeira dos Estados-Membros a favor das medidas referidas no n.º 1."
+  },
+  "9ba99c0be343707b": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Estado-Membro | Direitos (x 1000) |\n| --- | --- |\n| Bélgica | 70 |\n| República Checa | 66,733 |\n| Dinamarca | 104 |\n| Alemanha | 2 432 |\n| Estónia | 48 |\n| Grécia | 11 023 |\n| Espanha | 19 580 |\n| França | 7 842 |\n| Irlanda | 4 956 |\n| Itália | 9 575 |\n| Chipre | 472,401 |\n| Letónia | 18,437 |\n| Lituânia | 17,304 |\n| Luxemburgo | 4 |\n| Hungria | 1 146 |\n| Malta | 8,485 |\n| Países Baixos | 930 |\n| Áustria | 206 |\n| Polónia | 335,88 |\n| Portugal [(^1^)](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#E0014) | 2 690 |\n| Eslovénia | 84,909 |\n| Eslováquia | 305,756 |\n| Finlândia | 80 |\n| Suécia | 180 |\n| Reino Unido | 19 492 |\n| **Total** | **81 667,905** |\n| (^1^)Com exclusão do programa de extensificação estabelecido no Regulamento (CE) n.º 1017/94 do Conselho, de 26 de Abril de 1994, relativo à reconversão de terras actualmente consagradas às culturas arvenses para a produção animal extensiva em Portugal (JO L 112 de 3.5.1994, p. 2). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2582/2001 (JO L 345 de 29.12.2001, p. 5). |  |"
+  },
+  "e5e0b432703a3544": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0001)) JO C 213 E de 31.7.2001, p. 275.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0002)) Parecer emitido em 25 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0003)) Parecer emitido em 17 de Outubro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0004)) JO L 275 de 18.10.1980, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0005)) JO L 375 de 23.12.1989, p. 4. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1266/95 (JO L 123 de 3.6.1995, p. 3).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0006)) JO L 132 de 23.5.1990, p. 17. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 193/98 (JO L 20 de 27.1.1998, p. 18).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0007)) JO L 337 de 4.12.1990, p. 7. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2825/2000 (JO L 328 de 23.12.2000, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0008)) JO L 41 de 14.2.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2536/97 (JO L 347 de 18.12.1997, p. 6).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0009)) JO L 312 de 20.11.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1669/2000 (JO L 193 de 29.7.2000, p. 8).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0010)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/8224b4b8-4d75-4c38-b008-2a005c9d1c0c.0017.03/DOC_1#src.E0012)) JO L 160 de 26.6.1999, p. 103."
+  },
+  "2962d272242241bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R2529 — PT — 01.07.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R2529) [REGULAMENTO (CE) N.º 2529/2001 DO CONSELHO](http://publications.europa.eu/resource/celex/32001R2529) [de 19 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001R2529) [que estabelece a organização comum de mercado no sector das carnes de ovino e caprino](http://publications.europa.eu/resource/celex/32001R2529) (JO L 341, 22.12.2001, p.3)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

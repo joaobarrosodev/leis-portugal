@@ -1,0 +1,357 @@
+---
+schema_version: '1.0'
+id: pt:dre:147580:por
+title: Decreto-Lei n.º 487/70
+short_title: null
+summary: Introduz alterações ao Estatuto Judiciário, aprovado pelo Decreto-Lei n.º 44278
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 487/70
+official_date: null
+publication_date: '1970-10-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 244/1970, Série I de 1970-10-21
+  number: '244'
+  series: I
+  supplement: null
+  pages: 1506 - 1508
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24400/15061508.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '147580'
+  dre_path: /dr/detalhe/decreto-lei/487-1970-147580
+  internal: pt:dre:147580:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1970-147580
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1970-147580
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:15:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 57ba0cc29e9a9573867d31f1972479765acf21ada622c38f299705b4631baf18
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Círculo Judicial
+- Criação de Lugares
+- Estatuto Judiciário
+- Integração de Serviços
+- Lisboa
+- Mafra
+- Magistrado Judicial
+- Porto
+- Santarém
+- Secretário
+- Tribunal da Relação
+- Tribunal de Comarca
+- Vila Franca de Xira
+relationships:
+- type: amended_by
+  target: pt:dre:602770:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:602770:por
+  label: "Extinta a comarca de Mafra, que pertencia ao cìrculo judicial das Caldas da Rainha, passando a integrar-se no 1º\
+    \ círculo judicial de Lisboa pelo presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ, DR.IS [17] de 26.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516272:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147193:por
+  label: Rectificado [relativamente ao art. 5º] pela DECL.DD10077.13.11.1970.PC, DG.IS [264] de 13.11.1970
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1970-147193
+  date: '1970-11-13'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:15:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 487/70
+
+de 21 de Outubro
+
+1. São conhecidas as dificuldades com que se debatem as Relações, especialmente as de Lisboa e do Porto, em face do aumento do número de processos que a elas aflui e da insuficiência dos quadros para combater as acumulações de serviço provocadas por doenças e outros impedimentos dos juízes e vacaturas de lugares.
+
+Em 1969 foram distribuídos na Relação de Lisboa mais 74 processos do que no ano anterior. A cada um dos 20 desembargadores desta Relação coube relatar cerca de 80 processos e intervir como adjunto em mais 160. Verifica-se que o aumento anual correspondeu quase ao trabalho de um juiz deste alto tribunal. Foram julgados, ao todo, 1438 processos.
+
+O problema da Relação do Porto não assume essa gravidade, embora o número de processos distribuídos exceda, sem dúvida, a capacidade do quadro de juízes.
+
+Acresce que não é só o aumento da distribuição que aflige as Relações. Sucede também que os quadros se encontram frequentemente desfalcados: as doenças e as transferências de juízes e as vacaturas de lugares têm dado origem a perturbações de grande relevo no ritmo e rendimento do trabalho. Assim, a Relação do Porto, durante quase todo o ano de 1969, funcionou pràticamente com 12 juízes, os quais julgaram 847 processos - o que corresponde a uma média de 70 processos por desembargador ao efectivo serviço.
+
+Aproveita-se também a oportunidade para adequar o número e as atribuições dos inspectores judiciais às crescentes exigências do serviço.
+
+2. O sistema de dupla corregedoria previsto pelo n.º 2 da base V da [Lei n.º 2113](https://diariodarepublica.pt/dr/detalhe/lei/2113-1962-516272), de 11 de Abril de 1962, não se afigura idóneo, nas actuais circunstâncias, para resolver o problema do excessivo movimento processual que se verifica em alguns círculos judiciais, designadamente no de Lisboa. Bastará notar que, durante o ano de 1969, foram neste círculo distribuídos mais 128 processos cíveis do que processos criminais. Aliás, no relatório do [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, que aprovou o Estatuto Judiciário vigente, reconhecem-se as dificuldades de tal sistema.
+
+Há, portanto, que recorrer à revisão da área dos círculos judiciais e à eventual criação de novos círculos que essa revisão venha a tornar aconselhável, de acordo com o n.º 2 da base II da mencionada lei.
+
+A revisão geral da área dos círculos é tarefa que exige cuidadosa ponderação de múltiplos factores. Mas isto não obsta a que se tomem entretanto as medidas de indiscutível necessidade relativas aos casos mais nítidos e isentos de dúvidas.
+
+Dos 8 círculos judiciais em que, durante 1969, se verificou uma distribuição superior a 200 processos, torna-se possível tomar desde já uma providência legislativa útil quanto a três: Lisboa, Santarém e Caldas da Rainha, que ocupam os 1.º, 2.º e 5.º lugares na escala de grandeza da distribuição.
+
+No círculo judicial de Lisboa verificou-se que a distribuição tinha sofrido em 1969 um aumento de 95 processos em relação ao ano transacto. Comparando-se este aumento com os totais das distribuições cível e crime nos círculos de Évora (64 processos), Castelo Branco (77 processos) e Ponta Delgada (88 processos), torna-se evidente a necessidade de evitar a criação de uma situação incomportável.
+
+Registe-se, ainda, que, o movimento total do círculo de Lisboa em 1969 foi de 384 processos - número que, confrontado com o de dias úteis do ano, permitirá fazer ideia do enorme esforço exigido a quem teve a responsabilidade de estudar e decidir tão volumosa quantidade de causas.
+
+No círculo judicial de Santarém a distribuição subiu a 265 processos em 1969, o que excede largamente a média da distribuição no mesmo ano: 157 processos por círculo. O movimento total naquele círculo atingiu 339 processos. E verifica-se que a comarca de Vila Franca de Xira o sobrecarrega com um volume de trabalho equivalente ao dos dois juízos da sede.
+
+Um pouco melhor é a situação no círculo das Caldas da Rainha, com 210 processos distribuídos e um total de 224 movimentados no ano já referido. Mas a deslocação da comarca de Mafra deste círculo reduzirá o movimento a proporções mais convenientes.
+
+Em conclusão: o meio indicado de distribuir mais equitativamente o excessivo trabalho que se verifica consiste em retirar aos círculos de Santarém e das Caldas da Rainha as comarcas de Vila Franca de Xira e de Mafra e estabelecer com estas comarcas e as do actual círculo de Lisboa dois círculos judiciais, ambos com sede em Lisboa.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É aumentado de dois juízes desembargadores o quadro da Relação de Lisboa e de um juiz desembargador o quadro da Relação do Porto.
+
+Art. 2.º Os artigos 20.º, 451.º e 452.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+
+Art. 20.º - 1. ...
+
+2. ...
+
+3. Quando o serviço de uma Relação se encontre consideràvelmente atrasado ou em risco de aglomeração extraordinária por causas duradouras de carácter excepcional, podem ser nomeados para essa Relação os juízes que, além do quadro, se reputem necessários para alcançar a normalização ou evitar a acumulação do serviço. A nomeação será feita de entre os juízes do terço superior da escala de antiguidade da 1.ª classe com a classificação de Muito bom.
+
+4. Os juízes a que se refere o número anterior são nomeados em comissão de serviço, por períodos renováveis de um ano, até ocuparem a vaga que lhes competir no quadro de qualquer das Relações. Finda a comissão sem que se tenha verificado o ingresso nesses quadros, o comissionado será colocado como inspector judicial, nos termos do n.º 1 do artigo 451.º
+
+Art. 451.º - 1. Para o exercício da sua actividade disciplinar e para proceder a estudos respeitantes a matérias das suas atribuições, dispõe o Conselho Superior Judiciário de seis inspectores judiciais, nomeados pelo Ministro da Justiça entre juízes desembargadores ou juízes de direito de 1.ª classe. Tendo em consideração as conveniências do serviço, pode o Ministro da Justiça nomear inspectores judiciais extraordinários, em comissão de serviço, recrutados entre os juízes que possam ser nomeados para o quadro ordinário de inspectores judiciais.
+
+2. ...
+
+3. ...
+
+Art. 452.º - 1. Para secretariar os inspectores judiciais haverá secretários, recrutados pelo Conselho entre os chefes de secretaria. O número de secretários será fixado pelo Ministro da Justiça, sob proposta do Conselho, tendo em consideração as necessidades do serviço.
+
+2. ...
+
+Art. 3.º As comarcas do actual círculo judicial de Lisboa e as comarcas de Mafra, do círculo judicial das Caldas da Rainha, e de Vila Franca de Xira, do círculo judicial de Santarém, passam a integrar-se em dois novos círculos:
+
+a) O 1.º círculo judicial de Lisboa, constituído pelas comarcas de Cascais, Mafra e Sintra;
+
+b) O 2.º círculo judicial de Lisboa, constituído pelas comarcas de Loures, Oeiras e Vila Franca de Xira.
+
+Art. 4.º - 1. O actual presidente do círculo judicial de Lisboa considera-se provido, independentemente de posse ou de qualquer outra formalidade, no lugar de presidente do 1.º círculo judicial de Lisboa.
+
+2. Os círculos judiciais criados por este diploma só começarão a funcionar depois de empossado o presidente do 2.º círculo.
+
+3. Até ao começo do funcionamento dos novos círculos, os círculos judiciais das Caldas da Rainha e de Santarém mantêm a sua actual composição e continua a existir o círculo judicial de Lisboa.
+
+4. Os tribunais colectivos das comarcas do círculo judicial de Lisboa e das comarcas de Mafra e de Vila Franca de Xira conservam a competência de que gozam à data deste diploma, mesmo depois de integrados nos círculos criados pelo artigo anterior, relativamente às acções que tenham o visto do respectivo presidente.
+
+Art. 5.º Nos mapas I, IV, V e VIII anexos ao Estatuto Judiciário são introduzidas as seguintes alterações:
+
+MAPA I
+
+(Artigos 11.º e 20.º, n.º 1)
+
+Juízes dos tribunais superiores
+
+...
+
+Relação de Lisboa:
+
+Presidente e 22 juízes desembargadores
+
+Relação do Porto
+
+Presidente e 15 juízes desembargadores
+
+...
+
+MAPA IV
+
+(Artigo 2.º, n.º 4)
+
+Círculos judiciais
+
+...
+
+Caldas da Rainha
+
+Sede nas Caldas da Rainha
+
+Comarcas compreendidas: Alenquer, Caldas da Rainha, Lourinhã, Rio Maior e Torres Vedras.
+
+...
+
+1.º círculo de Lisboa
+
+Sede em Lisboa
+
+Comarcas compreendidas: Cascais, Mafra e Sintra
+
+2.º círculo de Lisboa
+
+Sede em Lisboa
+
+Comarcas compreendidas: Loures, Oeiras e Vila Franca de Xira.
+
+...
+
+Santarém
+
+Sede em Santarém
+
+Comarcas compreendidas: Benavente, Cartaxo, Golegã, Santarém e Torres Novas.
+
+...
+
+MAPA V
+
+(Artigos 29.º, n.º 1, 31.º e 32.º)
+
+Composição dos tribunais colectivos
+
+...
+
+Círculo judicial das Caldas da Rainha
+
+2.º vogal nas comarcas de: Alenquer - o juiz do 1.º juízo do Tribunal de Execução das Penas de Lisboa; Caldas da Rainha - o juiz de Rio Maior; Lourinhã - o juiz de Torres Vedras; Rio Maior - o juiz das Caldas da Rainha; Torres Vedras - o juiz da Lourinhã.
+
+...
+
+1.º círculo judicial de Lisboa
+
+2.º vogal nas comarcas de: Cascais, 1.º juízo - o juiz do 2.º juízo; Cascais, 2.º juízo - o juiz do 1.º juízo; Mafra - o juiz do 10.º Juízo Correccional de Lisboa; Sintra - o juiz de Mafra.
+
+2 º círculo judicial de Lisboa
+
+2.º vogal nas comarcas de: Loures - o juiz do 2.º Juízo do Tribunal de Execução das Penas de Lisboa; Oeiras - o juiz do 9.º Juízo Correccional de Lisboa; Vila Franca de Xira - o juiz de Alenquer.
+
+...
+
+Círculo judicial de Santarém
+
+2.º vogal nas comarcas de: Benavente - o juiz do Cartaxo; Cartaxo - o juiz de Benavente; Golegã - o juiz de Torres Novas; Santarém, 1.º Juízo - o juiz do 2.º Juízo; Santarém, 2.º Juízo - o juiz do 1.º Juízo; Torres Novas - o juiz da Golegã.
+
+...
+
+MAPA VIII
+
+(Artigo 10.º)
+
+Comarcas e julgamentos municipiais
+
+Comarcas
+
+...
+
+Cascais (2.ª classe):
+
+Sede - Cascais.
+
+Distrito judicial - Lisboa.
+
+Círculo judicial - 1.º círculo de Lisboa.
+
+...
+
+Loures (2.ª classe):
+
+Sede - Loures.
+
+Distrito judicial - Lisboa.
+
+Círculo judicial - 2.º círculo de Lisboa.
+
+...
+
+Mafra (3.ª classe):
+
+Sede - Mafra.
+
+Distrito judicial - Lisboa.
+
+Círculo judicial - 1.º círculo de Lisboa.
+
+...
+
+Oeiras (2.ª classe):
+
+Sede - Oeiras.
+
+Distrito judicial - Lisboa.
+
+Círculo judicial - 2.º círculo de Lisboa.
+
+...
+
+Sintra (2.ª classe):
+
+Sede - Sintra.
+
+Distrito judicial - Lisboa.
+
+Círculo judicial - 1.º círculo de Lisboa.
+
+...
+
+Vila Franca de Xira (2.ª classe):
+
+Sede - Vila Franca de Xira.
+
+Distrito judicial - Lisboa.
+
+Círculo judicial - 2.º círculo de Lisboa.
+
+...
+
+Art. 6.º Os encargos a que der lugar a execução deste decreto-lei serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
+
+Promulgado em 30 de Setembro de 1970.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:584988:por
+title: Resolução do Conselho de Ministros n.º 6/2002
+short_title: null
+summary: Aprova, para o corrente ano, a atribuição de indemnizações às empresas que prestam serviço público
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 6/2002
+official_date: null
+publication_date: '2002-01-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2002, Série I-B de 2002-01-08
+  number: '6'
+  series: I
+  supplement: null
+  pages: 148 - 149
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/01/006b00/01480149.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/6/2002/01/08/p/dre/pt/html
+  oj: null
+  dre: '584988'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/6-2002-584988
+  internal: pt:dre:584988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2002-584988
+  metadata_url: https://data.dre.pt/eli/resolconsmin/6/2002/01/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2002-584988
+  consolidated_url: null
+  retrieved_at: '2026-10-26T23:41:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0102fdee4ffb6eebc2a1cbf1463d42b01cc20f45dbae684b1ebd5b044849ca5f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T23:41:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa
+- Serviço Público
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T23:41:49Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 6/2002
+
+O Orçamento do Estado para 2001, aprovado pela Lei n.º 30-C/2001, de 29 de Dezembro, contempla uma dotação para indemnizações compensatórias a atribuir a empresas que prestam serviço público, cuja distribuição se torna necessário definir, de acordo com o disposto no artigo 35.º do Decreto-Lei n.º 77/2001, de 5 de Março.
+
+Esta distribuição tem em conta os regimes legais, bem como os compromissos concretos decorrentes de contratos de concessão e convénios outorgados pelo Estado, relativos à prestação de serviço público, em vigor no corrente ano.
+
+Assim, nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar, para o corrente ano, a distribuição de indemnizações compensatórias às empresas pelos montantes constantes do quadro anexo à presente resolução, da qual faz parte integrante.
+
+2 - Considerar que as verbas distribuídas revestem a seguinte natureza:
+
+a) A indemnização compensatória à CP - Caminhos de Ferro Portugueses, E. P., enquadra-se no âmbito das disposições comunitárias aplicáveis (Regulamentos CEE n.os [1191/69](http://data.europa.eu/eli/reg/1969/1191/oj?locale=pt), do Conselho, de 26 de Junho, [1107/70](http://data.europa.eu/eli/reg/1970/1107/oj?locale=pt), do Conselho, de 4 de Junho, e [1893/91](http://data.europa.eu/eli/reg/1991/1893/oj?locale=pt), do Conselho, de 20 de Junho), respeitando às obrigações de explorar, de transportar e tarifária;
+
+b) A indemnização compensatória à REFER - Rede Ferroviária Nacional, E. P., enquadra-se no âmbito das disposições nacionais e comunitárias aplicáveis, nos seguintes termos:
+
+Decreto-Lei n.º 189-B/99, de 2 de Junho, relativamente à compensação do Estado às reduções ocorridas na taxa de utilização da infra-estrutura a pagar pelo operador do eixo ferroviário Norte-Sul;
+
+Regulamentos CEE n.os [1192/69](http://data.europa.eu/eli/reg/1969/1192/oj?locale=pt), do Conselho, de 26 de Junho, e [1107/70](http://data.europa.eu/eli/reg/1970/1107/oj?locale=pt), do Conselho, de 4 de Junho, respeitando a normalização de contas;
+
+c) As indemnizações compensatórias à CARRIS - Companhia Carris de Ferro de Lisboa, S. A., ao ML - Metropolitano de Lisboa, E. P., à STCP - Sociedade de Transportes Colectivos do Porto, S. A., à SOFLUSA - Sociedade Fluvial de Transportes, S. A., e à TRANSTEJO - Transportes Tejo, S. A., decorrem das obrigações assumidas em termos de exploração, de transportes e de tarifas;
+
+d) A indemnização compensatória à LUSA - Agência de Notícias de Portugal, S. A., decorre do contrato de 26 de Janeiro de 2001, relativo à prestação de um serviço noticioso e informativo de interesse público;
+
+e) A indemnização compensatória à RTP - Radiotelevisão Portuguesa, S. A., decorre do contrato de concessão de 31 de Dezembro de 1996, relativo à prestação do serviço público de televisão, enquadrando-se na Lei n.º 21/92, de 14 de Agosto;
+
+f) A indemnização compensatória à OMNI - Aviação e Tecnologia, Lda., decorre do convénio de 27 de Agosto de 2000, relativo a serviços de transporte aéreo regular nas rotas Lisboa-Bragança, e vice-versa, e Bragança-Vila Real-Lisboa, e vice-versa, enquadrando-se no Decreto-Lei n.º 138/99, de 23 de Abril, que regula a fixação de obrigações de serviço público e as ajudas do Estado relativamente a serviços aéreos para regiões insulares, periféricas ou em desenvolvimento;
+
+g) A indemnização compensatória à SATA Internacional, Serviço de Transportes Aéreos, S. A., decorre do contrato de concessão de 26 de Dezembro de 1998, relativo a serviços de transporte aéreo regular nas rotas Ponta Delgada-Lisboa, e vice-versa, Ponta Delgada-Porto, e vice-versa, e Ponta Delgada - Funchal, e vice-versa, enquadrando-se no Decreto-Lei n.º 138/99, de 23 de Abril, que regula a fixação de obrigações de serviço público e as ajudas do Estado relativamente a serviços aéreos para regiões insulares, periféricas ou em desenvolvimento;
+
+h) A indemnização compensatória à TAP - Transportes Aéreos Portugueses, S. A., enquadra-se no Decreto-Lei n.º 138/99, de 23 de Abril, que regula a fixação de obrigações de serviço público e as ajudas do Estado relativamente a serviços aéreos para regiões insulares, periféricas ou em desenvolvimento, traduzindo-se nos seguintes sistemas:
+
+i) Compensação financeira, nos termos do contrato de concessão de 26 de Dezembro de 1998, relativa a serviços de transporte aéreo regular para as rotas Terceira-Lisboa, e vice-versa, e Horta-Lisboa, e vice-versa;
+
+ii) Subsídio ao preço do bilhete nos termos das disposições específicas do Decreto-Lei n.º 138/99, de 23 de Abril, para as rotas Lisboa-Funchal, e vice-versa, Porto-Funchal, e vice-versa, Lisboa-Porto Santo, e vice-versa, e Funchal-Porto Santo, e vice-versa;
+
+i) A indemnização compensatória à BRISA - Auto-Estradas de Portugal, S. A., destina-se ao pagamento da comparticipação do Estado no valor das taxas de portagem, nos termos do Decreto-Lei n.º 130/2000, de 13 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 254/2000, de 17 de Outubro.
+
+3 - Autorizar que, em casos especiais e devidamente justificados, possam ser redistribuídas, entre as empresas prestadoras de serviço público, por despacho conjunto do Ministro das Finanças e do ministro responsável pelo sector de actividade das represas envolvidas, as verbas cuja distribuição é agora aprovada.
+
+4 - Estabelecer as seguintes regras quanto à forma de disponibilização das verbas a que se refere a presente resolução:
+
+a) A Direcção-Geral do Tesouro processará as indemnizações às empresas consideradas nas alíneas a) a c) do n.º 2 da presente resolução numa prestação única, salvo determinação expressa do Ministro das Finanças estabelecendo procedimento diferente;
+
+b) A Direcção-Geral do Tesouro processará as indemnizações às empresas consideradas nas alíneas d) a i) do n.º 2 da presente resolução nos termos dos respectivos instrumentos reguladores referidos nas mesmas alíneas;
+
+c) As indemnizações compensatórias pressupõem a observância das condições de prestação do serviço público que as justificam.
+
+5 - A presente resolução produz efeitos a contar da data da sua assinatura.
+
+Presidência do Conselho de Ministros, 19 de Dezembro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/006b00/01480149.pdf)

@@ -1,0 +1,769 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0881:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0881-20160615",
+ "dre_path": null,
+ "source_lastmod": "2016-06-15",
+ "versions": [
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "02004R0881-20090101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "abbc857243baa15a",
+    "f6c2eb219fe1b284",
+    "cf184c6be250b213",
+    "c6a5e4b34a02fe4c",
+    "049bf445003aa740",
+    "bc7c52d07c2345cd",
+    "4b42bdc342602fda",
+    "2be0df1572cab063",
+    "8a6992ea3c104fd1",
+    "282a7d9b8e723a3c",
+    "e9c6143ea0d85298",
+    "41f4cfa7b06792e1",
+    "a932aa8006f46ab5",
+    "28312c610735980e",
+    "ba4fee25e76c978d",
+    "47dfd491a7f6e462",
+    "6e9502ab00dd0969",
+    "594ad6d5ebf7157a",
+    "a3b195c08c38f795",
+    "7e1b72c4a685597b",
+    "b73518d2655f8abd",
+    "f6aa964b0082c9f9",
+    "a8627fd7a96248ba",
+    "106db6ffddebdadd",
+    "4f664ef2e35b3726",
+    "5f1d41397831b0ff",
+    "99b38a466f48452b",
+    "fac35f6bad23c81f",
+    "ac079276e3c8a442",
+    "de2d080d57e27928",
+    "5d326ed91b51f2c8",
+    "facc87a73516e6af",
+    "1360b798f6cc7494",
+    "76f95a8c0a5c4eb2",
+    "1b85507b7b7a8944",
+    "00853f2cf0ac254f",
+    "79f984e0307c1a23",
+    "6cc3b57c1b453c93",
+    "b86d3f64fc1da4e5",
+    "4d2fb8503ad8796b",
+    "357eeb3195edc612",
+    "c43a4d0512ec135c",
+    "dc1afdcd483d8549",
+    "ba538fa7b6eb44e8",
+    "d8ef928da5b17f22",
+    "23f07c3757514ffa",
+    "3e4aa20d1891ee94",
+    "1274eb370516fc62",
+    "d26b2d6cdaea2536",
+    "1aef4ab691ca10f4",
+    "153644f618c60762",
+    "05480deb5c318e38",
+    "b1ec32d773526235",
+    "264ba3e08a478a48",
+    "b7339e51db735ea8",
+    "1ecf7ffa49579ea0",
+    "ab21be4ba6fb0cce",
+    "dd0152b05ba082d2",
+    "55b54f330fae2665",
+    "4071cf24d24f249d",
+    "9f1b40d4b36ccd8c",
+    "47858455157b62ca",
+    "6e028bd1d966d922",
+    "52a459004a488a4b",
+    "005c6b6bc801099e",
+    "6e6bf32eda8c24bb",
+    "f4f007dd7537bf06",
+    "3c86a15ddc0878af",
+    "966d3b11fd5a17ca",
+    "6964901b0f5f4e5d",
+    "c3b94efc8391315f",
+    "6014088c7ee405e8",
+    "44f33cd7bbe35aae"
+   ]
+  },
+  {
+   "date": "2016-06-15",
+   "future": false,
+   "celex": "02004R0881-20160615",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO 1",
+    "Suprime OS PRINCÍPIOS",
+    "Suprime Artigo 1.º — Criação e objectivos da Agência",
+    "Suprime Artigo 2.º — Tipologia dos actos da Agência",
+    "Suprime Artigo 3.º — Composição dos grupos de trabalho",
+    "Suprime Artigo 4.º — Consulta dos parceiros sociais",
+    "Suprime Artigo 5.º — Consulta dos clientes dos serviços de transporte ferroviário de mercadorias e dos passageiros",
+    "Suprime CAPÍTULO 2",
+    "Suprime SEGURANÇA",
+    "Suprime Artigo 6.º — Apoio técnico",
+    "Suprime Artigo 7.º — Certificados de segurança",
+    "Suprime Artigo 9.º — Acompanhamento dos desempenhos em matéria de segurança",
+    "Suprime CAPÍTULO 2-A",
+    "Suprime NORMAS NACIONAIS, ACEITAÇÃO CRUZADA E PARECERES TÉCNICOS",
+    "Suprime Artigo 9.º-A — Normas nacionais",
+    "Suprime Artigo 9.º-B — Classificação das normas nacionais",
+    "Suprime Artigo 10.º — Pareceres técnicos",
+    "Suprime CAPÍTULO 3",
+    "Suprime INTEROPERABILIDADE",
+    "Suprime Artigo 12.º — Apoio técnico fornecido pela Agência",
+    "Suprime Artigo 13.º — Organismos notificados",
+    "Suprime Artigo 14.º — Acompanhamento da interoperabilidade",
+    "Suprime Artigo 15.º — Interoperabilidade no interior do sistema ferroviário comunitário",
+    "Suprime CAPÍTULO 3-A",
+    "Suprime MANUTENÇÃO DOS VEÍCULOS",
+    "Suprime Artigo 16.º — Certificação das oficinas de manutenção",
+    "Suprime Artigo 16.º-A — Certificação das entidades responsáveis pela manutenção",
+    "Suprime CAPÍTULO 3-B",
+    "Suprime PESSOAL FERROVIÁRIO",
+    "Suprime Artigo 16.º-B — Maquinistas",
+    "Suprime Artigo 16.º-C — Pessoal de acompanhamento",
+    "Suprime Artigo 17.º — Competências e formação profissionais",
+    "Suprime CAPÍTULO 3-C",
+    "Suprime REGISTOS E BASE DE DADOS PÚBLICA DA AGÊNCIA",
+    "Suprime Artigo 18.º — Registos",
+    "Suprime Artigo 19.º — Acessibilidade de documentos e registos",
+    "Suprime CAPÍTULO 4",
+    "Suprime ATRIBUIÇÕES ESPECÍFICAS",
+    "Suprime Artigo 20.º — Estudos",
+    "Suprime Artigo 21.º — Promoção da inovação",
+    "Suprime Artigo 21.º-A — ERTMS",
+    "Suprime Artigo 21.º-B — Assistência à Comissão",
+    "Suprime CAPÍTULO 5",
+    "Suprime ESTRUTURA INTERNA E FUNCIONAMENTO",
+    "Suprime Artigo 22.º — Estatuto jurídico",
+    "Suprime Artigo 23.º — Privilégios e imunidades",
+    "Suprime Artigo 24.º — Pessoal",
+    "Suprime Artigo 25.º — Criação e competências do Conselho de Administração",
+    "Suprime Artigo 26.º — Composição do Conselho de Administração",
+    "Suprime Artigo 27.º — Presidência do Conselho de Administração",
+    "Suprime Artigo 28.º — Reuniões",
+    "Suprime Artigo 29.º — Votação",
+    "Suprime Artigo 30.º — Funções e competências do director executivo",
+    "Suprime Artigo 31.º — Nomeação do pessoal da Agência",
+    "Suprime Artigo 32.º — Audição do director executivo",
+    "Suprime Artigo 33.º — Visitas aos Estados-Membros",
+    "Suprime Artigo 34.º — Responsabilidade",
+    "Suprime Artigo 35.º — Línguas",
+    "Suprime Artigo 36.º — Participação de países terceiros",
+    "Suprime Artigo 37.º — Transparência",
+    "Suprime CAPÍTULO 6",
+    "Suprime DISPOSIÇÕES FINANCEIRAS",
+    "Suprime Artigo 38.º — Orçamento",
+    "Suprime Artigo 39.º — Execução e controlo orçamentais",
+    "Suprime Artigo 40.º — Regulamento Financeiro",
+    "Suprime Artigo 41.º — Luta contra a fraude",
+    "Suprime CAPÍTULO 7",
+    "Suprime DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 42.º — Início das actividades da Agência",
+    "Suprime Artigo 43.º — Avaliação",
+    "Suprime Artigo 44.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4cf8b0d308d34d71"
+   ]
+  }
+ ],
+ "fragments": {
+  "abbc857243baa15a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque institui a Agência Ferroviária Europeia\n\n(«regulamento relativo à Agência»)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadament, o n.º 1 do seu artigo 71.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0004)), tendo em conta o projecto comum aprovado pelo Comité de Conciliação, em 23 de Março de 2004,\n\n(1) A constituição progressiva de um espaço ferroviário europeu sem fronteiras exige uma acção comunitária no domínio da regulamentação técnica aplicável aos caminhos-de-ferro, no que respeita tanto aos aspectos técnicos como aos de segurança, sendo, aliás, os dois indissociáveis.\n\n(2) A Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^5^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0005)), estabelece a abertura progressiva dos direitos de acesso à infra-estrutura a qualquer empresa ferroviária comunitária que disponha de uma licença e pretenda efectuar serviços de transporte de mercadorias.\n\n(3) A Directiva 95/18/CE do Conselho, de 19 de Junho de 1995, relativa às licenças das empresas de transporte ferroviário ([^6^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0006)), estabelece que qualquer empresa ferroviária deve dispor de uma licença e que uma licença emitida num Estado-Membro é válida em toda a Comunidade.\n\n(4) A Directiva 2001/14/CE do Parlamento Europeu e do Conselho, de 26 de Fevereiro de 2001, relativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação da segurança ([^7^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0007)), estabelece um novo enquadramento com vista à constituição de um espaço ferroviário europeu sem fronteiras.\n\n(5) As diferenças nos domínios técnico e operacional entre os sistemas ferroviários dos Estados-Membros compartimentaram os mercados ferroviários nacionais e impediram um desenvolvimento dinâmico deste sector à escala europeia. A Directiva 96/48/CE do Conselho, de 23 de Julho de 1996, relativa à interoperabilidade do sistema ferroviário transeuropeu de alta velocidade ([^8^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0008)), e a Directiva 2001/16/CE do Parlamento Europeu e do Conselho, de 19 de Março de 2001, relativa à interoperabilidade do sistema ferroviário transeuropeu convencional ([^9^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0009)), definem requisitos essenciais e estabelecem um mecanismo para a definição de especificações técnicas de interoperabilidade obrigatórias.\n\n(6) A prossecução simultânea dos objectivos de segurança e de interoperabilidade exige um trabalho técnico de vulto que deve ser dirigido por um organismo especializado. Por este motivo, é necessário criar, no actual quadro institucional e no respeito do equilíbrio de poderes na Comunidade, uma agência europeia para a segurança e a interoperabilidade ferroviária (a seguir designada «Agência»). A criação desta Agência permitirá abordar, de modo conjunto e com um nível de competência elevado, os objectivos de segurança e de interoperabilidade para a rede ferroviária europeia, contribuindo deste modo para a revitalização do sector ferroviário e para os objectivos gerais da política comum de transportes.\n\n(7) A fim de promover a constituição de um espaço ferroviário europeu sem fronteiras e de contribuir para a revitalização do sector ferroviário, reforçando as suas vantagens fundamentais em matéria de segurança, a Agência deve contribuir para o desenvolvimento de uma cultura ferroviária europeia genuína e constituir um instrumento essencial de diálogo, de concertação e de intercâmbio entre todos os intervenientes no sector, no respeito pelas competências de cada um.\n\n(8) A Directiva 2004/49/CE do Parlamento Europeu e do Conselho, de 30 de Abril de 2004, relativa à segurança dos caminhos-de-ferro da Comunidade («directiva relativa à segurança ferroviária») ([^10^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0010)), prevê o desenvolvimento de indicadores comuns de segurança, objectivos comuns de segurança e métodos comuns de segurança. A elaboração destes instrumentos exige uma competência técnica independente.\n\n(9) Para facilitar os procedimentos de atribuição dos certificados de segurança às empresas ferroviárias, é essencial elaborar um modelo harmonizado para o certificado de segurança e um modelo harmonizado para o pedido de certificado de segurança.\n\n(10) A directiva relativa à segurança ferroviária prevê o exame, na perspectiva da segurança e da interoperabilidade, das medidas de segurança nacionais. Para tal, é indispensável um parecer assente numa competência independente e neutra.\n\n(11) No domínio da segurança, é importante garantir a máxima transparência e assegurar uma circulação eficaz da informação. Não existe ainda uma análise dos desempenhos baseada em indicadores comuns e que relacione todos os intervenientes no sector, sendo pois conveniente criar esse instrumento. No que se refere aos aspectos estatísticos, é necessária uma cooperação estreita com o Eurostat.\n\n(12) Os organismos nacionais de segurança ferroviária, as entidades reguladoras e as outras autoridades nacionais devem ter a possibilidade de pedir um parecer técnico independente quando necessitam de informação relativa a vários Estados-Membros.\n\n(13) A Directiva 2001/16/CE prevê que, até 20 de Abril de 2004, esteja elaborado um primeiro grupo de especificações técnicas de interoperabilidade (ETI). Para realizar estes trabalhos, a Comissão mandatou a Associação Europeia para a Interoperabilidade Ferroviária (AEIF), que agrupa os fabricantes de material ferroviário e os operadores e gestores de infra-estruturas. É importante preservar a experiência desenvolvida pelos profissionais do sector no âmbito da AEIF. A continuidade dos trabalhos e a evolução no tempo das ETI exigem um quadro técnico permanente.\n\n(14) Há que reforçar a interoperabilidade da rede transeuropeia, devendo a escolha dos novos projectos de investimento a apoiar pela Comunidade respeitar o objectivo da interoperabilidade, em conformidade com o disposto na Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes ([^11^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0011)).\n\n(15) A fim de assegurar a continuidade dos trabalhos, os grupos de trabalho a criar pela Agência deverão basear-se, conforme os casos, na composição da AEIF, com a inclusão de membros suplementares.\n\n(16) A manutenção do material circulante é um elemento importante do sistema de segurança. Não existe um verdadeiro mercado europeu da manutenção do material ferroviário, por falta de um sistema de certificação das oficinas de manutenção. Esta situação implica custos suplementares para o sector e gera trajectos sem carga. Importa, assim, desenvolver progressivamente um sistema europeu de certificação das oficinas de manutenção.\n\n(17) As competências profissionais exigidas para a condução dos comboios constituem um elemento importante, tanto para a segurança como para a interoperabilidade na Europa. Além disso, são um pré-requisito para a livre circulação dos trabalhadores no sector ferroviário. Esta questão deve ser abordada no respeito do quadro em vigor no domínio do diálogo social. A Agência deve fornecer o apoio técnico necessário ao tratamento desta questão ao nível europeu.\n\n(18) O registo é, desde logo, um acto de reconhecimento da aptidão do material circulante para circular em condições especificadas. O registo deve ser efectuado de modo transparente e não discriminatório e deve incumbir à autoridade pública. A Agência deve fornecer apoio técnico na instauração de um sistema de registo.\n\n(19) Para garantir a máxima transparência e igualdade no acesso de todas as partes à informação relevante, os documentos previstos no processo de interoperabilidade devem ser postos à disposição do público. O mesmo se aplica às licenças e certificados de segurança. A Agência deve proporcionar um meio eficaz de intercâmbio desta informação.\n\n(20) A promoção da inovação em matéria de segurança ferroviária e de interoperabilidade é uma tarefa importante que a Agência deve encorajar. Qualquer assistência financeira prestada no âmbito das actividades da Agência neste domínio não deverá provocar quaisquer distorções no mercado relevante.\n\n(21) Para desempenhar as suas tarefas de forma adequada, a Agência deve dispor de personalidade jurídica e de um orçamento autónomo financiado essencialmente por uma contribuição da Comunidade. Para garantir a independência da Agência na sua gestão diária e nos pareceres e recomendações que emite, é importante que o director executivo da Agência tenha plenas responsabilidades e que o pessoal da Agência seja independente.\n\n(22) Para garantir efectivamente o exercício das actividades da Agência, os Estados-Membros e a Comissão estarão representados num Conselho de Administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, definir procedimentos de trabalho transparentes no tocante à tomada de decisões pela Agência, aprovar o seu programa de trabalho, aprovar o respectivo orçamento, definir uma política de visitas aos Estados-Membros e nomear o director executivo.\n\n(23) Para garantir a transparência das decisões do Conselho de Administração, os representantes dos sectores em causa assistirão às deliberações, mas sem direito a voto, pois este está reservado aos representantes dos poderes públicos, que respondem perante as autoridades de controlo democrático. Os representantes de cada sector serão nomeados pela Comissão em função da sua representatividade ao nível europeu relativamente às empresas ferroviárias, aos gestores de infra-estruturas, à indústria ferroviária, aos sindicatos de trabalhadores, aos passageiros e aos clientes do serviço de transporte de mercadorias.\n\n(24) Os trabalhos da Agência devem ser realizados de modo transparente. Deve ser garantido o controlo efectivo pelo Parlamento Europeu, que, para tal, deve ter a possibilidade de ouvir o director executivo da Agência. A Agência deverá ainda aplicar a legislação comunitária pertinente relativa ao acesso do público a documentos.\n\n(25) Nos últimos anos, à medida que foram sendo criadas mais agências descentralizadas, a autoridade orçamental procurou melhorar a transparência e o controlo da gestão do financiamento comunitário que lhes é atribuído, em particular no que respeita à inscrição das taxas no orçamento, ao controlo financeiro, ao poder de quitação, às contribuições para o regime de pensões e aos procedimentos orçamentais internos (código de conduta). De um modo semelhante, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Anti-Fraude (OLAF) ([^12^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0012)), devem aplicar-se sem quaisquer restrições à Agência, que deverá ficar também sujeita ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias em matéria de inquéritos internos do Organismo Europeu de Luta Anti-Fraude (OLAF) ([^13^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0013)).\n\n(26) Atendendo a que os objectivos da acção encarada, a saber, a criação de um organismo especializado encarregado de elaborar soluções comuns no domínio da segurança e da interoperabilidade ferroviárias, não podem ser suficientemente realizados pelos Estados-Membros, e podem, pois, ser melhor alcançados ao nível comunitário, devido ao carácter colectivo dos trabalhos a efectuar, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "cf184c6be250b213": {
+   "fragment_id": "OS PRINCÍPIOS",
+   "type": "divisao",
+   "heading": "OS PRINCÍPIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OS PRINCÍPIOS"
+  },
+  "c6a5e4b34a02fe4c": {
+   "fragment_id": "Artigo 1.º — Criação e objectivos da Agência",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação e objectivos da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação e objectivos da Agência\n\nO presente regulamento cria a Agência Ferroviária Europeia, a seguir denominada «Agência».\n\nA Agência tem como objectivo contribuir, no plano técnico, para a aplicação da legislação comunitária destinada a melhorar a posição competitiva do sector ferroviário através do reforço do grau de interoperabilidade dos sistemas ferroviários e a desenvolver uma abordagem comum no domínio da segurança do sistema ferroviário europeu, com vista à realização de um espaço ferroviário europeu sem fronteiras e garantindo um nível de segurança elevado.\n\nNa prossecução destes objectivos, a Agência terá plenamente em conta o processo de alargamento da União Europeia e os condicionalismos específicos das ligações ferroviárias com países terceiros.\n\nA Agência tem competência exclusiva quanto às tarefas e competências que lhe são atribuídas."
+  },
+  "049bf445003aa740": {
+   "fragment_id": "Artigo 2.º — Tipologia dos actos da Agência",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Tipologia dos actos da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipologia dos actos da Agência\n\nA Agência pode:\n\na) Dirigir recomendações à Comissão respeitantes à aplicação dos artigos 6.º, 7.º, 9.º-B, 12.º, 14.º, 16.º, 16.º-A, 16.º-B, 16.º-C, 17.º e 18.º; e\n\nb) Emitir pareceres a apresentar à Comissão, nos termos dos artigos 9.º-A, 10.º, 13.º e 15.º, e às autoridades competentes dos Estados-Membros, nos termos do artigo 10.º."
+  },
+  "bc7c52d07c2345cd": {
+   "fragment_id": "Artigo 3.º — Composição dos grupos de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Composição dos grupos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição dos grupos de trabalho\n\n[**►M1**](http://publications.europa.eu/resource/celex/32008R1335) 1. Para elaborar as recomendações previstas nos artigos 6.º, 7.º, 9.º-B, 12.º, 14.º, 16.º, 17.º e 18.º, a Agência cria um número limitado de grupos de trabalho.**◄** Estes grupos basear-se-ão, por um lado, na especialização atingida pelos profissionais do sector ferroviário, nomeadamente na experiência adquirida pela AEIF e, por outro, na especialização das autoridades nacionais competentes. A Agência certificar-se-á da representatividade e competência dos seus grupos de trabalho e assegurará que estes integrem uma representação adequada dos sectores da indústria e dos utentes que forem afectados pelas medidas que venham a ser propostas pela Comissão com base nas recomendações que lhe forem dirigidas pela Agência. As actividades dos grupos de trabalho deverão ser transparentes.\n\nSempre que os trabalhos previstos nos artigos 6.º, 12.º, 16.º e 17.º tenham impacto directo nas condições de trabalho, de saúde ou de segurança no sector ferroviário, os representantes das organizações de trabalhadores devem participar nos grupos de trabalho em questão.\n\n2. A Agência deve comunicar o programa de trabalho aprovado aos organismos representativos do sector ferroviário que actuem ao nível europeu. A lista desses organismos será elaborada pelo comité a que se refere o artigo 21.º da Directiva 96/48/CE. Cada organismo e/ou grupo de organismos transmitirá à Agência uma lista dos peritos mais qualificados e mandatados para os representar em cada grupo de trabalho.\n\n3. As autoridades nacionais responsáveis pela segurança definidas no artigo 16.º da directiva relativa à segurança ferroviária ou, em função do assunto, as autoridades nacionais competentes, nomeiam os respectivos representantes nos grupos de trabalho em que pretendam participar.\n\n4. Em caso de necessidade, a Agência poderá designar para os grupos de trabalho peritos independentes de reconhecida competência na matéria visada.\n\n5. Os grupos de trabalho são presididos por um representante da Agência."
+  },
+  "4b42bdc342602fda": {
+   "fragment_id": "Artigo 4.º — Consulta dos parceiros sociais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Consulta dos parceiros sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Consulta dos parceiros sociais\n\nA Agência consultará os parceiros sociais, no quadro do Comité de Diálogo Sectorial instituído nos termos da Decisão 98/500/CE ([^14^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0014)), sobre os trabalhos previstos nos artigos 6.º, 7.º, 12.º, 16.º e 17.º, sempre que estes tenham impacto directo no ambiente social ou nas condições de trabalho dos trabalhadores do sector.\n\nEstas consultas terão lugar antes de a Agência apresentar as suas recomendações à Comissão. A Agência terá em devida conta estas consultas e estará sempre disponível para prestar esclarecimentos adicionais quanto às suas recomendações. Os pareceres emitidos pelo Comité de Diálogo Sectorial serão transmitidos pela Agência à Comissão e pela Comissão ao comité a que se refere o artigo 21.º da Directiva 96/48/CE."
+  },
+  "2be0df1572cab063": {
+   "fragment_id": "Artigo 5.º — Consulta dos clientes dos serviços de transporte ferroviário de mercadorias e dos passageiros",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Consulta dos clientes dos serviços de transporte ferroviário de mercadorias e dos passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Consulta dos clientes dos serviços de transporte ferroviário de mercadorias e dos passageiros\n\nA Agência consultará as organizações representativas dos clientes dos serviços de transporte ferroviário de mercadorias e dos passageiros sobre os trabalhos previstos nos artigos 6.º e 12.º, sempre que estes tenham impacto directo sobre esses clientes e passageiros. A lista das organizações a consultar é elaborada pelo comité a que se refere o artigo 21.º da Directiva 96/48/CE.\n\nEstas consultas terão lugar antes de a Agência apresentar as suas propostas à Comissão. A Agência terá em devida conta estas consultas e estará sempre disponível para prestar esclarecimentos adicionais quanto às suas propostas. Os pareceres emitidos pelas organizações em causa serão transmitidos pela Agência à Comissão e pela Comissão ao comité a que se refere o artigo 21.º da Directiva 96/48/CE."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "282a7d9b8e723a3c": {
+   "fragment_id": "SEGURANÇA",
+   "type": "divisao",
+   "heading": "SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SEGURANÇA"
+  },
+  "e9c6143ea0d85298": {
+   "fragment_id": "Artigo 6.º — Apoio técnico",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio técnico\n\n1. A Agência recomendará à Comissão os métodos comuns de segurança (MCS) e os objectivos comuns de segurança (OCS), previstos nos artigos 6.º e 7.º da directiva relativa à segurança ferroviária.\n\n2. A Agência recomendará à Comissão, a pedido desta ou do comité a que se refere o artigo 21.º da Directiva 96/48/CE, ou por sua própria iniciativa, outras medidas no domínio da segurança.\n\n3. Durante o período transitório que antecede a adopção dos OCS, dos MCS e das especificações técnicas de interoperabilidade (ETI), bem como para as questões relativas ao material e à infra-estrutura não abrangida pelas ETI, a Agência pode formular recomendações úteis à Comissão. A Agência garantirá a coerência entre estas recomendações e as ETI existentes ou em preparação.\n\n4. A Agência deve apresentar uma análise custo-benefício circunstanciada em apoio às recomendações que apresente nos termos do presente artigo.\n\n5. A Agência organizará e facilitará a cooperação das autoridades nacionais de segurança e dos organismos de investigação definidos nos artigos 16.º e 21.º da directiva relativa à segurança ferroviária."
+  },
+  "41f4cfa7b06792e1": {
+   "fragment_id": "Artigo 7.º — Certificados de segurança",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Certificados de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificados de segurança\n\nTendo em vista a aplicação dos artigos 10.º e 15.º da directiva relativa à segurança ferroviária, respeitante à harmonização dos certificados de segurança, a Agência elaborará e recomendará um modelo harmonizado para o certificado de segurança, incluindo uma versão electrónica, e um modelo harmonizado para o pedido de certificado de segurança, incluindo a lista dos elementos essenciais a fornecer."
+  },
+  "a932aa8006f46ab5": {
+   "fragment_id": "Artigo 9.º — Acompanhamento dos desempenhos em matéria de segurança",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acompanhamento dos desempenhos em matéria de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento dos desempenhos em matéria de segurança\n\n1. A Agência estabelecerá uma rede com as autoridades nacionais responsáveis pela segurança e com as autoridades nacionais responsáveis pelos inquéritos previstos na directiva relativa à segurança ferroviária, a fim de definir o conteúdo dos indicadores comuns de segurança enumerados no anexo I dessa directiva e de recolher os dados relevantes em matéria de segurança ferroviária.\n\n2. Com base nos indicadores comuns de segurança, nos relatórios nacionais sobre segurança e acidentes e nas suas próprias informações, a Agência apresentará de dois em dois anos um relatório, que será tornado público, sobre os desempenhos no domínio da segurança. O primeiro desses relatórios será publicado no terceiro ano de funcionamento da Agência.\n\n3. A Agência apoiar-se-á nos dados coligidos pelo Eurostat e cooperará com este organismo para evitar a duplicação de esforços e garantir a coerência metodológica entre os indicadores comuns de segurança e os indicadores utilizados nos outros modos de transporte."
+  },
+  "28312c610735980e": {
+   "fragment_id": "CAPÍTULO 2-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2-A"
+  },
+  "ba4fee25e76c978d": {
+   "fragment_id": "NORMAS NACIONAIS, ACEITAÇÃO CRUZADA E PARECERES TÉCNICOS",
+   "type": "divisao",
+   "heading": "NORMAS NACIONAIS, ACEITAÇÃO CRUZADA E PARECERES TÉCNICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NORMAS NACIONAIS, ACEITAÇÃO CRUZADA E PARECERES TÉCNICOS"
+  },
+  "47dfd491a7f6e462": {
+   "fragment_id": "Artigo 9.º-A — Normas nacionais",
+   "type": "artigo",
+   "heading": "Artigo 9.º-A — Normas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-A — Normas nacionais\n\n1. A Agência realiza, a pedido da Comissão, um exame técnico das novas normas nacionais transmitidas à Comissão nos termos do artigo 8.º da directiva relativa à segurança ferroviária ou do n.º 3 do artigo 17.º da Directiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 2008, relativa à interoperabilidade do sistema ferroviário comunitário ([^15^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0015)) (a seguir referida como «directiva relativa à interoperabilidade ferroviária»).\n\n2. A Agência analisa a compatibilidade das normas a que se refere o n.º 1 com os MCS e as ETI em vigor. A Agência analisa igualmente se essas normas permitem alcançar os OCS em vigor.\n\n3. Se, após análise dos elementos de fundamentação comunicados pelo Estado-Membro, a Agência considerar que uma dessas normas não é compatível com as ETI ou com os MCS, ou que não permite alcançar os OCS, apresenta um parecer à Comissão no prazo de dois meses após a transmissão das normas à Agência pela Comissão."
+  },
+  "6e9502ab00dd0969": {
+   "fragment_id": "Artigo 9.º-B — Classificação das normas nacionais",
+   "type": "artigo",
+   "heading": "Artigo 9.º-B — Classificação das normas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-B — Classificação das normas nacionais\n\n1. A Agência facilita a aceitação pelos Estados-Membros de veículos que entraram em serviço noutro Estado-Membro, de acordo com os procedimentos previstos nos n.ºs 2 a 4.\n\n2. Até 19 de Janeiro de 2009, a Agência revê a lista de parâmetros da Secção 1 do Anexo VII da directiva relativa à interoperabilidade ferroviária e dirige as recomendações que considerar adequadas à Comissão.\n\n3. A Agência elabora um projecto de documento de referência que estabeleça a correspondência entre as normas nacionais aplicadas pelos Estados-Membros para a entrada de veículos em serviço. Esse documento deve conter as normas nacionais de cada Estado-Membro para cada um dos parâmetros indicados no Anexo VII da directiva relativa à interoperabilidade ferroviária e deve precisar o grupo, referido na Secção 2 desse anexo, a que as mesmas pertencem. Essas normas compreendem as normas notificadas no âmbito do n.º 3 do artigo 17.º da directiva relativa à interoperabilidade ferroviária, designadamente as notificadas na sequência da aprovação das ETI (casos específicos, pontos em aberto, derrogações) e as notificadas no âmbito do artigo 8.º da directiva relativa à segurança ferroviária.\n\n4. A fim de reduzir progressivamente as normas nacionais pertencentes ao grupo B referido na Secção 2 do Anexo VII da directiva relativa à interoperabilidade ferroviária, a Agência elabora regularmente um projecto de actualização do documento de referência e transmite-o à Comissão. A primeira versão do documento deve ser apresentada à Comissão até 1 de Janeiro de 2010.\n\n5. Para efeitos da aplicação do presente artigo, a Agência recorre à cooperação das autoridades nacionais responsáveis pela segurança criadas ao abrigo do n.º 5 do artigo 6.º e institui um grupo de trabalho de acordo com os princípios enunciados no artigo 3.º."
+  },
+  "594ad6d5ebf7157a": {
+   "fragment_id": "Artigo 10.º — Pareceres técnicos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pareceres técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pareceres técnicos\n\n1. As entidades reguladoras nacionais a que se refere o artigo 30.º da Directiva 2001/14/CE podem, no âmbito dos casos que venham a apreciar, pedir um parecer técnico à Agência sobre aspectos ligados à segurança.\n\n2. Os comités previstos no artigo 35.º da Directiva 2001/14/CE e no artigo 11.ºA da Directiva 91/440/CEE, podem, no âmbito das respectivas competências, pedir um parecer técnico à Agência sobre aspectos ligados à segurança.\n\n2-A. A Agência pode ser convidada a emitir pareceres técnicos:\n\na) Pelas autoridades nacionais responsáveis pela segurança ou pela Comissão, sobre a equivalência das normas nacionais em relação a um ou mais parâmetros enumerados na Secção 1 do Anexo VII da directiva relativa à interoperabilidade ferroviária;\n\nb) Pela instância de recurso competente referida no n.º 7 do artigo 21.º da directiva relativa à interoperabilidade ferroviária, quando uma autoridade nacional responsável pela segurança competente decide recusar a entrada em serviço de um veículo ferroviário.\n\n2-B. A Agência pode ser convidada pela Comissão a emitir pareceres técnicos sobre alterações urgentes das ETI, nos termos do n.º 1 do artigo 7.º da directiva relativa à interoperabilidade ferroviária.\n\n3. A Agência apresentará o seu parecer no prazo de dois meses. Este parecer é tornado público pela Agência numa versão da qual tenha sido retirada toda a matéria confidencial do ponto de vista comercial."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "7e1b72c4a685597b": {
+   "fragment_id": "INTEROPERABILIDADE",
+   "type": "divisao",
+   "heading": "INTEROPERABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTEROPERABILIDADE"
+  },
+  "b73518d2655f8abd": {
+   "fragment_id": "Artigo 12.º — Apoio técnico fornecido pela Agência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Apoio técnico fornecido pela Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apoio técnico fornecido pela Agência\n\nA Agência contribuirá para o desenvolvimento e a realização da interoperabilidade ferroviária em consonância com os princípios e definições estabelecidos nas Directivas 96/48/CE e 2001/16/CE Para o efeito, a Agência:\n\na) Organizará e conduzirá, por mandato da Comissão, os trabalhos de elaboração dos projectos de ETI efectuados pelos grupos de trabalho a que se refere o artigo 3.º, e transmitirá à Comissão os projectos de ETI;\n\nb) Assegurará a revisão das ETI em função do progresso técnico e da evolução do mercado e das exigências sociais e proporá à Comissão os projectos de adaptação das ETI que considere necessários;\n\nc) Assegurará a coordenação entre o desenvolvimento e a actualização das ETI, por um lado, e o desenvolvimento das normas europeias que se revelem necessárias para a interoperabilidade, por outro; manterá ainda contactos com os organismos europeus de normalização;\n\nd) Prestará assistência à Comissão na organização e promoção da cooperação dos organismos notificados, conforme referido no n.º 5 do artigo 20.º das Directivas 96/48/CE e 2001/16/CE;\n\ne) Aconselhará e apresentará recomendações à Comissão sobre as condições de trabalho de todo o pessoal que desempenha tarefas de segurança cruciais."
+  },
+  "f6aa964b0082c9f9": {
+   "fragment_id": "Artigo 13.º — Organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organismos notificados\n\n1. Sem prejuízo da responsabilidade dos Estados-Membros em relação aos organismos notificados por eles designados, a Agência pode controlar, a pedido da Comissão, a qualidade dos trabalhos desses organismos. Se adequado, apresenta um parecer à Comissão.\n\n2. Sem prejuízo da responsabilidade dos Estados-Membros, a Agência efectua controlos, a pedido da Comissão, caso esta, nos termos do n.º 4 do artigo 28.º da directiva relativa à interoperabilidade ferroviária, considere que um organismo notificado não cumpre os critérios referidos no Anexo VIII dessa directiva, destinados a certificar-se de que os referidos critérios são cumpridos. A Agência apresenta um parecer à Comissão."
+  },
+  "a8627fd7a96248ba": {
+   "fragment_id": "Artigo 14.º — Acompanhamento da interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Acompanhamento da interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acompanhamento da interoperabilidade\n\n1. A Agência recomendará, a pedido da Comissão, procedimentos para a implementação da interoperabilidade dos sistemas ferroviários que facilitem a coordenação entre os operadores e entre os gestores de infra-estruturas, nomeadamente para organizar a migração dos sistemas.\n\n2. A Agência acompanhará os progressos da interoperabilidade dos sistemas ferroviários. Apresentará e publicará um relatório bienal sobre os progressos da interoperabilidade. O primeiro desses relatórios será publicado no segundo ano de actividade da Agência."
+  },
+  "106db6ffddebdadd": {
+   "fragment_id": "Artigo 15.º — Interoperabilidade no interior do sistema ferroviário comunitário",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Interoperabilidade no interior do sistema ferroviário comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Interoperabilidade no interior do sistema ferroviário comunitário\n\nSem prejuízo das derrogações previstas no artigo 7.º da directiva relativa à interoperabilidade ferroviária, a Agência examina, do ponto de vista da interoperabilidade, a pedido da Comissão, os projectos de concepção e/ou construção, de renovação ou de valorização do subsistema para os quais seja apresentado um pedido de apoio financeiro comunitário. A Agência emite um parecer sobre a conformidade do projecto com as ETI aplicáveis num prazo a acordar com a Comissão em função da importância do projecto e dos recursos disponíveis, que não pode ser superior a dois meses."
+  },
+  "4f664ef2e35b3726": {
+   "fragment_id": "CAPÍTULO 3-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3-A"
+  },
+  "5f1d41397831b0ff": {
+   "fragment_id": "MANUTENÇÃO DOS VEÍCULOS",
+   "type": "divisao",
+   "heading": "MANUTENÇÃO DOS VEÍCULOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MANUTENÇÃO DOS VEÍCULOS"
+  },
+  "99b38a466f48452b": {
+   "fragment_id": "Artigo 16.º — Certificação das oficinas de manutenção",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Certificação das oficinas de manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Certificação das oficinas de manutenção\n\nNo prazo de três anos a contar do início das suas actividades, a Agência desenvolverá um sistema europeu de certificação das oficinas de manutenção do material circulante e formulará recomendações com vista à realização do sistema.\n\nEstas recomendações abordarão nomeadamente os seguintes pontos:\n\n— sistema estruturado de gestão,\n\n— pessoal que possua as competências necessárias,\n\n— instalações e instrumentos,\n\n— documentação técnica e prescrições relativas à manutenção.\n\nEssas recomendações devem ser compatíveis com as responsabilidades já atribuídas às empresas ferroviárias, tal como previsto no artigo 4.º da directiva relativa à segurança ferroviária, e às entidades responsáveis pela manutenção, tal como previsto no artigo 14.º-A da referida directiva, e devem ter plenamente em conta os mecanismos de certificação das empresas ferroviárias e das entidades responsáveis pela manutenção."
+  },
+  "fac35f6bad23c81f": {
+   "fragment_id": "Artigo 16.º-A — Certificação das entidades responsáveis pela manutenção",
+   "type": "artigo",
+   "heading": "Artigo 16.º-A — Certificação das entidades responsáveis pela manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A — Certificação das entidades responsáveis pela manutenção\n\n1. Até 1 de Julho de 2010, a Agência deve enviar à Comissão uma recomendação tendo em vista a aplicação do sistema de certificação das entidades responsáveis pela manutenção de acordo com o n.º 5 do artigo 14.º-A da directiva relativa à segurança ferroviária.\n\nA avaliação e a recomendação da Agência devem incidir nomeadamente sobre os aspectos que se seguem, tendo devidamente em conta as eventuais relações das entidades responsáveis pela manutenção com outras partes, como os detentores, as empresas ferroviárias e os gestores de infra-estruturas:\n\na) Adequação dos sistemas da entidade responsável pela manutenção, designadamente os processos operacionais e de gestão, a fim de assegurar a manutenção efectiva e segura dos veículos;\n\nb) Conteúdo e especificações de um sistema de certificação adaptado à manutenção dos vagões;\n\nc) Tipo de organismos competentes em matéria de certificação e requisitos a impor a esses organismos;\n\nd) Formato e validade dos certificados a emitir às entidades responsáveis pela manutenção;\n\ne) Inspecções e controlos técnicos e operacionais.\n\n2. No prazo de três anos após a aprovação pela Comissão do sistema de certificação da manutenção a que se refere o n.º 5 do artigo 14.º-A da directiva relativa à segurança ferroviária, a Agência transmite à Comissão um relatório de avaliação da aplicação do sistema. Dentro do mesmo prazo, a Agência transmite também à Comissão uma recomendação tendo em vista definir o conteúdo e as especificações de um sistema de certificação similar no caso das entidades responsáveis pela manutenção de outros veículos, tais como locomotivas, veículos de passageiros, unidades eléctricas múltiplas (UEM) e unidades múltiplas a diesel (UMD).\n\n3. A Agência avalia as medidas alternativas decididas em conformidade com o n.º 8 do artigo 14.º-A da directiva relativa à segurança ferroviária, no contexto do seu relatório sobre o desempenho da segurança a que se refere o n.º 2 do artigo 9.º do presente regulamento."
+  },
+  "ac079276e3c8a442": {
+   "fragment_id": "CAPÍTULO 3-B",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3-B"
+  },
+  "de2d080d57e27928": {
+   "fragment_id": "PESSOAL FERROVIÁRIO",
+   "type": "divisao",
+   "heading": "PESSOAL FERROVIÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PESSOAL FERROVIÁRIO"
+  },
+  "5d326ed91b51f2c8": {
+   "fragment_id": "Artigo 16.º-B — Maquinistas",
+   "type": "artigo",
+   "heading": "Artigo 16.º-B — Maquinistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-B — Maquinistas\n\n1. No que diz respeito a assuntos relacionados com a Directiva 2007/59/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007, relativa à certificação dos maquinistas de locomotivas e comboios no sistema ferroviário da Comunidade ([^16^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0016)) (a seguir denominada «directiva relativa aos maquinistas»), a Agência:\n\na) Elabora um projecto de modelo comunitário para a licença de condução, para o certificado e a cópia autenticada do certificado e para as suas características físicas, tendo em conta medidas antifalsificação;\n\nb) Coopera com as autoridades competentes para assegurar a interoperabilidade dos registos das licenças de condução e dos certificados dos maquinistas. Para o efeito, a Agência elabora um projecto de parâmetros fundamentais dos registos a criar, tais como os dados a registar, o seu formato e o protocolo de intercâmbio de dados, os direitos de acesso, a duração da conservação dos dados e os procedimentos aplicáveis em caso de falência;\n\nc) Elabora um projecto de critérios comunitários para a escolha dos examinadores e dos exames;\n\nd) Avalia a evolução da certificação dos maquinistas mediante a apresentação à Comissão, no prazo de quatro anos a contar da aprovação dos parâmetros fundamentais dos registos, conforme previsto no n.º 4 do artigo 22.º da directiva relativa aos maquinistas, de um relatório com eventuais melhorias a introduzir no sistema e medidas relativas ao exame teórico e prático dos conhecimentos profissionais dos candidatos para o certificado harmonizado de material rolante e respectiva infra-estrutura;\n\ne) Até 4 de Dezembro de 2012, examina a possibilidade de utilização de cartões com circuito integrado que combinem a licença de condução e os certificados previstos no artigo 4.º da directiva relativa aos maquinistas, e realiza uma análise de custo-benefício desses cartões. A Agência elabora um projecto de especificações técnicas e funcionais desses cartões;\n\nf) Apoia a cooperação entre os Estados-Membros com vista à aplicação da directiva relativa aos maquinistas e organiza reuniões adequadas com os representantes das autoridades competentes;\n\ng) A pedido da Comissão, efectua uma análise de custo-benefício da aplicação das disposições da directiva relativa aos maquinistas aos maquinistas que trabalhem exclusivamente no território do Estado-Membro requerente. A análise de custo-benefício deve cobrir um período de 10 anos. Essa análise de custo-benefício deve ser apresentada à Comissão no prazo de dois anos a contar da criação dos registos de acordo com o n.º 1 do artigo 37.º da directiva relativa aos maquinistas;\n\nh) A pedido da Comissão, efectua outra análise de custo-benefício, que deve apresentar à Comissão o mais tardar 12 meses antes do fim do prazo de derrogação temporária eventualmente concedida pela Comissão;\n\ni) Assegura que o sistema estabelecido ao abrigo das alíneas a) e b) do n.º 2 do artigo 22.º da directiva relativa aos maquinistas cumpre o disposto no Regulamento (CE) n.º 45/2001do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([^17^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0017)).\n\n2. No que diz respeito a assuntos relacionados com a directiva relativa aos maquinistas, a Agência formula recomendações sobre:\n\na) A alteração dos códigos comunitários para os diferentes tipos das categorias A e B a que se refere o n.º 3 do artigo 4.º da directiva relativa aos maquinistas;\n\nb) Os códigos que reflectem informações adicionais ou restrições médicas de utilização impostas por uma autoridade competente de acordo com o Anexo II da directiva relativa aos maquinistas.\n\n3. A Agência pode apresentar um pedido fundamentado às autoridades competentes para obter informações sobre o estatuto das licenças de condução de maquinistas."
+  },
+  "facc87a73516e6af": {
+   "fragment_id": "Artigo 16.º-C — Pessoal de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 16.º-C — Pessoal de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-C — Pessoal de acompanhamento\n\nNos termos do artigo 28.º da directiva relativa aos maquinistas, a Agência determina, num relatório a apresentar até 4 de Junho de 2009, e tendo em conta a ETI relativa à exploração e gestão do tráfego elaborada ao abrigo das Directivas 96/48/CE e 2001/16/CE, o perfil e as tarefas dos outros membros da tripulação que efectuam tarefas críticas em termos de segurança e cujas qualificações profissionais contribuem, por essa razão, para a segurança ferroviária, que deverão ser regulados a nível comunitário através de um sistema de licenças e/ou certificados que pode ser semelhante ao sistema estabelecido pela directiva relativa aos maquinistas."
+  },
+  "1360b798f6cc7494": {
+   "fragment_id": "Artigo 17.º — Competências e formação profissionais",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Competências e formação profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências e formação profissionais\n\n1. A Agência formula recomendações sobre a definição dos critérios comuns para a determinação das competências profissionais e a avaliação do pessoal envolvido no funcionamento e na manutenção do sistema ferroviário, não abrangido pelos artigos 16.º-B ou 16.º-C.\n\n2. A Agência formulará recomendações para a implantação de um sistema de acreditação dos centros de formação.\n\n3. A Agência favorecerá e apoiará o intercâmbio de maquinistas e formadores entre companhias ferroviárias estabelecidas nos diversos Estados-Membros."
+  },
+  "76f95a8c0a5c4eb2": {
+   "fragment_id": "CAPÍTULO 3-C",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3-C"
+  },
+  "1b85507b7b7a8944": {
+   "fragment_id": "REGISTOS E BASE DE DADOS PÚBLICA DA AGÊNCIA",
+   "type": "divisao",
+   "heading": "REGISTOS E BASE DE DADOS PÚBLICA DA AGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGISTOS E BASE DE DADOS PÚBLICA DA AGÊNCIA"
+  },
+  "00853f2cf0ac254f": {
+   "fragment_id": "Artigo 18.º — Registos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Registos\n\n1. A Agência elabora e recomenda à Comissão especificações comuns relativas:\n\na) Aos registos de matrícula nacionais de acordo com o artigo 33.º da directiva relativa à interoperabilidade ferroviária, incluindo disposições relativas ao intercâmbio de dados e um modelo normalizado para o pedido de registo;\n\nb) Ao registo europeu dos tipos de veículos autorizados de acordo com o artigo 34.º da directiva relativa à interoperabilidade ferroviária, incluindo disposições relativas ao intercâmbio de dados com as autoridades nacionais responsáveis pela segurança;\n\nc) Ao registo da infra-estrutura de acordo com o artigo 35.º da directiva relativa à interoperabilidade ferroviária.\n\n2. A Agência cria e mantém um registo dos tipos de veículos autorizados pelos Estados-Membros para entrada em serviço na rede ferroviária comunitária, de acordo com o artigo 34.º da directiva relativa à interoperabilidade ferroviária. A Agência elabora igualmente um projecto de modelo de declaração de conformidade-tipo, de acordo com o n.º 4 do artigo 26.º dessa directiva."
+  },
+  "79f984e0307c1a23": {
+   "fragment_id": "Artigo 19.º — Acessibilidade de documentos e registos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Acessibilidade de documentos e registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acessibilidade de documentos e registos\n\n1. A Agência deve facultar ao público os seguintes documentos e registos, previstos na directiva relativa à interoperabilidade ferroviária e na directiva relativa à segurança ferroviária:\n\na) As declarações «CE» de verificação dos subsistemas;\n\nb) As declarações «CE» de conformidade dos componentes de que dispõem as autoridades nacionais responsáveis pela segurança;\n\nc) As licenças emitidas nos termos da Directiva 95/18/CE;\n\nd) Os certificados de segurança emitidos de acordo com o artigo 10.º da directiva relativa à segurança ferroviária;\n\ne) Os relatórios de investigação enviados à Agência de acordo com o artigo 24.º da directiva relativa à segurança ferroviária;\n\nf) As normas nacionais notificadas à Comissão de acordo com o artigo 8.º da directiva relativa à segurança ferroviária e com o n.º 6 do artigo 5.º e o n.º 3 do artigo 17.º da directiva relativa à interoperabilidade ferroviária;\n\ng) A ligação aos registos de matrícula nacionais;\n\nh) A ligação aos registos de infra-estruturas;\n\ni) O registo europeu dos tipos de veículos autorizados;\n\nj) O registo dos pedidos de alterações e das alterações planeadas das especificações do ERTMS;\n\nk) O registo das marcas dos detentores mantido pela Agência de acordo com a ETI relativa à exploração e gestão do tráfego.\n\n2. As regras práticas de transmissão dos documentos referidos no n.º 1 devem ser debatidas e acordadas pelos Estados-Membros e pela Comissão com base num projecto preparado pela Agência.\n\n3. Quando transmitirem os documentos referidos no n.º 1, os organismos em causa podem indicar aqueles que, por razões de segurança, não devem ser revelados ao público.\n\n4. As autoridades nacionais responsáveis pela emissão dos documentos a que se referem as alíneas c) e d) do n.º 1 devem notificar a Agência, no prazo de um mês, de cada decisão individual de emissão, renovação, alteração ou revogação.\n\n5. A Agência pode acrescentar nesta base de dados pública qualquer documento público ou qualquer ligação pertinentes para os objectivos do presente regulamento."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "b86d3f64fc1da4e5": {
+   "fragment_id": "ATRIBUIÇÕES ESPECÍFICAS",
+   "type": "divisao",
+   "heading": "ATRIBUIÇÕES ESPECÍFICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ATRIBUIÇÕES ESPECÍFICAS"
+  },
+  "4d2fb8503ad8796b": {
+   "fragment_id": "Artigo 20.º — Estudos",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estudos\n\nSempre que a realização das tarefas que lhe são confiadas pelo presente regulamento o exija, a Agência pode mandar realizar estudos que financiará com o seu próprio orçamento."
+  },
+  "357eeb3195edc612": {
+   "fragment_id": "Artigo 21.º — Promoção da inovação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Promoção da inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Promoção da inovação\n\nA Comissão pode confiar à Agência, de acordo com o programa de trabalho e o orçamento da Agência, a tarefa de promover inovações destinadas a melhorar a interoperabilidade e a segurança ferroviárias, nomeadamente no que respeita à utilização das novas tecnologias da informação e dos sistemas de determinação da posição e de acompanhamento."
+  },
+  "c43a4d0512ec135c": {
+   "fragment_id": "Artigo 21.º-A — ERTMS",
+   "type": "artigo",
+   "heading": "Artigo 21.º-A — ERTMS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-A — ERTMS\n\n1. A Agência, em coordenação com a Comissão, assume as atribuições enunciadas nos n.ºs 2 a 5 a fim de:\n\na) Assegurar o desenvolvimento coerente do ERTMS;\n\nb) Contribuir para que o equipamento do ERTMS instalado nos Estados-Membros respeite as especificações em vigor.\n\n2. A Agência estabelece um procedimento de gestão dos pedidos de alterações das especificações do ERTMS. Para o efeito, a Agência estabelece e mantém um registo dos pedidos de alterações e das alterações planeadas às especificações do ERTMS.\n\nA Agência só recomenda a adopção de uma nova versão quando a versão anterior estiver suficientemente implantada. A elaboração de novas versões não deve prejudicar o ritmo de instalação do ERTMS, a estabilidade das especificações necessárias para optimizar a produção do equipamento do ERTMS, o retorno dos investimentos das empresas ferroviárias e o planeamento eficaz da instalação do ERTMS.\n\n3. A Agência apoia os esforços da Comissão em relação à elaboração de um plano da UE de instalação do ERTMS e à coordenação dos trabalhos de instalação do ERTMS nos corredores transeuropeus de transporte.\n\n4. A Agência elabora uma estratégia de gestão das diferentes versões do ERTMS a fim de assegurar a compatibilidade técnica e operacional entre redes e veículos equipados com versões diferentes e de incentivar uma instalação rápida da versão em vigor e de eventuais novas versões.\n\nNos termos do n.º 9 do artigo 6.º da directiva relativa à interoperabilidade ferroviária, a Agência deve assegurar que as versões sucessivas do equipamento do ERTMS sejam retrocompatíveis, a partir da versão aprovada pela Comissão em 23 de Abril de 2008.\n\nNo que respeita ao equipamento do ERTMS que entrou em serviço antes de 23 de Abril de 2008, ou cuja instalação ou actualização se encontrava numa fase avançada nessa data, a Agência prepara um relatório de avaliação que determinará:\n\na) Os custos adicionais a suportar pelos responsáveis pela instalação precoce do sistema em consequência da introdução da versão aprovada pela Comissão em 23 de Abril de 2008;\n\nb) Todos os mecanismos possíveis, nomeadamente financeiros, para apoiar a migração das versões anteriores para a versão a que se refere a alínea a).\n\nA Comissão toma as medidas adequadas no prazo de um ano a partir da data de recepção do relatório de avaliação da Agência.\n\n5. A Agência cria e preside um grupo de trabalho ad hoc de organismos notificados a fim de verificar se os procedimentos de verificação «CE» efectuados pelos organismos notificados no contexto dos projectos específicos do ERTMS são aplicados de forma coerente. A Agência coopera também com as autoridades nacionais responsáveis pela segurança a fim de verificar se os procedimentos de autorização de entrada em funcionamento são aplicados de forma coerente. Se a Agência considerar que existe um risco de falta de compatibilidade técnica e operacional entre redes e veículos equipados com material submetido a estes procedimentos, informa imediatamente a Comissão a esse respeito para que esta tome as medidas apropriadas.\n\n6. Caso surjam incompatibilidades técnicas entre redes e veículos no quadro de projectos ERMTS específicos, os organismos notificados e as autoridades nacionais responsáveis pela segurança devem assegurar que a Agência possa obter todas as informações relevantes sobre os procedimentos de verificação «CE» e de entrada em serviço aplicados, bem como sobre as condições operacionais. Caso seja necessário, a Agência recomenda à Comissão medidas adequadas.\n\n7. A Agência avalia o processo de certificação do equipamento ERTMS apresentando à Comissão, até 1 de Janeiro de 2011, um relatório que contenha, se adequado, as melhorias a efectuar.\n\n8. Com base no relatório a que se refere o n.º 7, a Comissão avalia os custos e os benefícios da utilização de um tipo único de equipamento de laboratório, de uma via única de referência e/ou de um organismo único de certificação a nível da Comunidade. Esse organismo de certificação deve satisfazer os critérios enunciados no Anexo VIII da directiva relativa à interoperabilidade ferroviária. A Comissão pode apresentar um relatório e, se tal for adequado, uma proposta legislativa para melhorar o sistema de certificação do ERTMS."
+  },
+  "dc1afdcd483d8549": {
+   "fragment_id": "Artigo 21.º-B — Assistência à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 21.º-B — Assistência à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-B — Assistência à Comissão\n\n1. Dentro dos limites da alínea b) do n.º 2 do artigo 30.º, a Agência assiste a Comissão, a pedido desta, na aplicação da legislação comunitária destinada a melhorar o nível de interoperabilidade dos sistemas ferroviários e a elaborar uma abordagem comum da segurança do sistema ferroviário europeu.\n\n2. A assistência é limitada no tempo e no âmbito, sendo prestada sem prejuízo das restantes atribuições confiadas à Agência por força do presente regulamento, e pode incluir:\n\na) A comunicação de informação sobre as modalidades de aplicação de aspectos específicos da legislação comunitária;\n\nb) A prestação de aconselhamento técnico em questões que requeiram conhecimentos específicos;\n\nc) A recolha de informação através da cooperação das autoridades nacionais responsáveis pela segurança e dos organismos de investigação prevista no n.º 5 do artigo 6.º.\n\n3. O director executivo apresenta pelo menos uma vez por ano um relatório ao Conselho de Administração sobre a aplicação do presente artigo, nomeadamente sobre o seu impacto em termos de recursos."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "d8ef928da5b17f22": {
+   "fragment_id": "ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "type": "divisao",
+   "heading": "ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA INTERNA E FUNCIONAMENTO"
+  },
+  "23f07c3757514ffa": {
+   "fragment_id": "Artigo 22.º — Estatuto jurídico",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Estatuto jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estatuto jurídico\n\n1. A Agência é um organismo da Comunidade, dotado de personalidade jurídica.\n\n2. Em cada um dos Estados-Membros, a Agência goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pelas legislações nacionais. Pode, designadamente, adquirir ou alienar bens móveis e imóveis e estar em juízo.\n\n3. A Agência é representada pelo seu director executivo."
+  },
+  "3e4aa20d1891ee94": {
+   "fragment_id": "Artigo 23.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Privilégios e imunidades\n\nÉ aplicável à Agência e ao seu pessoal o protocolo relativo aos privilégios e imunidades das Comunidades Europeias."
+  },
+  "1274eb370516fc62": {
+   "fragment_id": "Artigo 24.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência o Estatuto dos funcionários das Comunidades Europeias, o regime aplicável aos outros agentes das Comunidades Europeias e as normas de execução dessas disposições, aprovadas de comum acordo pelas instituições das Comunidades Europeias.\n\n2. Sem prejuízo do disposto no artigo 26.º, as competências conferidas à autoridade investida do poder de nomeação e à autoridade habilitada a celebrar contratos pelos referidos Estatuto e regime aplicável aos outros agentes serão exercidas pela Agência no que diz respeito ao seu próprio pessoal.\n\n3. Sem prejuízo do disposto no n.º 1 do artigo 26.º, o pessoal da Agência é composto por:\n\n— agentes temporários recrutados pela Agência por um período máximo de cinco anos entre os profissionais do sector com base nas suas qualificações e na sua experiência em matéria de segurança e interoperabilidade ferroviárias,\n\n— funcionários afectados ou destacados pela Comissão ou pelos Estados-Membros por um período máximo de cinco anos, e\n\n— outros agentes, na acepção do Regime aplicável aos Outros Agentes das Comunidades Europeias, contratados para tarefas de execução ou de secretariado.\n\nDurante os primeiros 10 anos de funcionamento da Agência, o período de cinco anos referido no primeiro travessão do primeiro parágrafo pode ser prorrogado por um período adicional de três anos, no máximo, se tal for necessário para assegurar a continuidade dos serviços da Agência.\n\n4. Os peritos que participam nos grupos de trabalho organizados pela Agência não pertencem ao pessoal da Agência. As suas despesas de deslocação e estadia ficam a cargo da Agência, segundo regras e tabelas aprovadas pelo Conselho de Administração."
+  },
+  "d26b2d6cdaea2536": {
+   "fragment_id": "Artigo 25.º — Criação e competências do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Criação e competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Criação e competências do Conselho de Administração\n\n1. É criado um Conselho de Administração.\n\n2. O Conselho de Administração:\n\na) Nomeia o director executivo, nos termos do artigo 31.º;\n\nb) Aprova, até 30 de Abril de cada ano, o relatório geral da Agência referente ao ano anterior e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão;\n\nc) Aprova, até 30 de Novembro de cada ano e tendo em conta o parecer da Comissão, o programa de trabalho da Agência para o ano seguinte e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão. Este programa de trabalho é aprovado sem prejuízo do processo orçamental anual da Comunidade. Se, no prazo de 15 dias a contar da data de aprovação do programa de trabalho, a Comissão manifestar o seu desacordo com o programa, o Conselho de Administração volta a analisá-lo e aprova-o no prazo de dois meses, eventualmente alterado, em segunda leitura, por maioria de dois terços, incluindo os representantes da Comissão, ou por unanimidade dos representantes dos Estados-Membros;\n\nd) Exerce as suas funções no que diz respeito ao orçamento da Agência, em conformidade com o disposto no capítulo 6;\n\ne) Estabelece procedimentos para a tomada de decisões pelo director executivo;\n\nf) Define uma política de visitas a realizar nos termos do artigo 33.º;\n\ng) Exerce o poder disciplinar sobre o director executivo e os chefes de unidade referidos no n.º 3 do artigo 30.º;\n\nh) Aprova o seu regulamento interno.\n\n3. O programa de trabalho da Agência determina, para cada actividade, os objectivos perseguidos. Em geral, cada actividade e/ou cada resultado devem ser objecto de um relatório dirigido à Comissão."
+  },
+  "1aef4ab691ca10f4": {
+   "fragment_id": "Artigo 26.º — Composição do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Composição do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Composição do Conselho de Administração\n\n1. O Conselho de Administração é composto por um representante de cada Estado-Membro e por quatro representantes da Comissão, e ainda por seis representantes, sem direito a voto, estes últimos representando ao nível europeu os seguintes grupos:\n\na) Empresas ferroviárias;\n\nb) Gestores de infra-estruturas;\n\nc) Indústria ferroviária;\n\nd) Sindicatos;\n\ne) Passageiros;\n\nf) Clientes do serviço de transporte ferroviário de mercadorias.\n\nPara cada um destes grupos, a Comissão nomeia um representante e um suplente a partir de uma lista de quatro nomes apresentada pelas respectivas organizações europeias, com vista a assegurar uma representação adequada de todos os interesses.\n\nOs membros do Conselho de Administração, bem como os respectivos suplentes, são nomeados com base na sua experiência e especialização pertinentes.\n\n2. Os Estados-Membros e a Comissão nomeiam os respectivos membros do Conselho de Administração, bem como um suplente.\n\n3. A duração do mandato é de cinco anos, podendo ser renovado uma vez.\n\n4. Se for caso disso, a participação de representantes de países terceiros e as respectivas condições serão estabelecidas nas regras a que se refere o n.º 2 do artigo 36.º"
+  },
+  "153644f618c60762": {
+   "fragment_id": "Artigo 27.º — Presidência do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Presidência do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Presidência do Conselho de Administração\n\n1. O Conselho de Administração elegerá de entre os seus membros um presidente e um vice-presidente. O vice-presidente substitui o presidente em caso de impedimento deste.\n\n2. A duração do mandato do presidente e do vice-presidente é de três anos, podendo ser renovado uma vez. No entanto, se o seu mandato enquanto membro do Conselho de Administração caducar durante a vigência do mandato de presidente ou de vice-presidente, este caduca também automaticamente na mesma data."
+  },
+  "05480deb5c318e38": {
+   "fragment_id": "Artigo 28.º — Reuniões",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reuniões\n\n1. O Conselho de Administração reúne-se por convocação do seu presidente. O director executivo da Agência participa nas reuniões.\n\n2. O Conselho de Administração reunirá pelo menos duas vezes por ano. Pode também reunir-se por iniciativa do seu presidente, a pedido da Comissão, a pedido da maioria dos seus membros ou de um terço dos representantes dos Estados-Membros no Conselho de Administração."
+  },
+  "b1ec32d773526235": {
+   "fragment_id": "Artigo 29.º — Votação",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Votação\n\nSalvo disposição em contrário, o Conselho de Administração delibera por maioria de dois terços dos membros com direito a voto. Cada um dos membros com direito a voto dispõe de um voto."
+  },
+  "264ba3e08a478a48": {
+   "fragment_id": "Artigo 30.º — Funções e competências do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Funções e competências do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Funções e competências do director executivo\n\n1. A Agência é gerida pelo seu director executivo, que agirá em total independência no exercício das suas funções, sem prejuízo das competências respectivas da Comissão e do Conselho de Administração.\n\n2. O director executivo:\n\na) Preparará o programa de trabalho e, após consulta à Comissão, submetê-lo-á ao Conselho de Administração;\n\nb) Tomará as disposições necessárias para dar execução ao programa de trabalho; tanto quanto possível, responderá a todos os pedidos de assistência da Comissão relacionados com as tarefas da Agência em conformidade com o presente regulamento;\n\nc) Tomará as medidas necessárias, nomeadamente a adopção de instruções administrativas internas e a publicação de comunicações, para assegurar o funcionamento da Agência em conformidade com o presente regulamento;\n\nd) Estabelecerá um sistema eficaz de acompanhamento, para poder comparar os resultados da Agência com os seus objectivos operacionais e uma prática de avaliação periódica que corresponda às normas profissionais reconhecidas. Nesta base, o director executivo preparará anualmente um projecto de relatório geral que apresentará ao Conselho de Administração;\n\ne) Exercerá, em relação ao pessoal da Agência, as competências previstas no n.º 2 do artigo 24.º;\n\nf) Elaborará um projecto de mapa previsional das receitas e despesas da Agência, nos termos do artigo 38.º, e executará o orçamento, nos termos do artigo 39.º\n\n3. O director executivo pode ser assistido por um ou mais chefes de unidade. Em caso de ausência ou impedimento do director executivo, um dos chefes de unidade substituí-lo-á nas suas funções."
+  },
+  "b7339e51db735ea8": {
+   "fragment_id": "Artigo 31.º — Nomeação do pessoal da Agência",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Nomeação do pessoal da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Nomeação do pessoal da Agência\n\n1. O director executivo é nomeado pelo Conselho de Administração em função dos seus méritos e de comprovadas capacidades de administração e de gestão, bem como da sua competência e experiência no sector ferroviário. O Conselho de Administração delibera por maioria de quatro quintos de todos os membros com direito a voto. A Comissão pode propor um ou mais candidatos.\n\nO Conselho de Administração tem o poder de exonerar o director executivo, de acordo com o mesmo procedimento.\n\n2. O director executivo nomeia os outros membros do pessoal da Agência em conformidade com o artigo 24.º\n\n3. A duração do mandato do director executivo é de cinco anos. Este mandato é renovável uma vez."
+  },
+  "1ecf7ffa49579ea0": {
+   "fragment_id": "Artigo 32.º — Audição do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Audição do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Audição do director executivo\n\nO director executivo apresenta anualmente ao Parlamento Europeu o relatório geral sobre as actividades da Agência. O Parlamento Europeu ou o Conselho podem ainda, em qualquer momento, ouvir o director executivo sobre qualquer assunto relacionado com as actividades da Agência."
+  },
+  "ab21be4ba6fb0cce": {
+   "fragment_id": "Artigo 33.º — Visitas aos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Visitas aos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Visitas aos Estados-Membros\n\n1. A fim de executar as tarefas que lhe são confiadas nos artigos 9.º, 9.º-A, 10.º, 13.º e 15.º, a Agência pode efectuar visitas aos Estados-Membros, de acordo com a política definida pelo Conselho de Administração. As autoridades nacionais dos Estados-Membros devem facilitar o trabalho do pessoal da Agência.\n\n2. A Agência informa o Estado-Membro em causa da visita prevista, da identidade dos funcionários da Agência mandatados, bem como da data do início da mesma. Os funcionários da Agência mandatados para essas visitas fá-las-ão mediante a apresentação de uma decisão do director executivo especificando o objectivo e a finalidade da sua visita.\n\n3. No fim de cada visita, a Agência redige um relatório e envia-o à Comissão e ao Estado-Membro interessado."
+  },
+  "dd0152b05ba082d2": {
+   "fragment_id": "Artigo 34.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Responsabilidade\n\n1. A responsabilidade contratual da Agência é regulada pela lei aplicável ao contrato em causa.\n\n2. O Tribunal de Justiça das Comunidades Europeias é competente para decidir com fundamento em cláusula compromissória constante de um contrato celebrado pela Agência.\n\n3. Em matéria de responsabilidade extracontratual, a Agência deve indemnizar, de acordo com os princípios gerais de direito comuns aos Estados-Membros, os danos causados pelos seus serviços ou pelos seus agentes no exercício das suas funções.\n\n4. O Tribunal de Justiça das Comunidades Europeias é competente para conhecer dos litígios relativos à reparação dos danos referidos no n.º 3.\n\n5. A responsabilidade pessoal dos agentes perante a Agência é regulada pelas disposições do Estatuto ou do regime que lhes é aplicável."
+  },
+  "55b54f330fae2665": {
+   "fragment_id": "Artigo 35.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Línguas\n\n1. O Conselho de Administração decidirá sobre o regime linguístico da Agência. A pedido de um membro do Conselho de Administração, esta decisão será tomada por unanimidade. Os Estados-Membros podem dirigir-se à Agência na língua comunitária da sua preferência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência serão assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "4071cf24d24f249d": {
+   "fragment_id": "Artigo 36.º — Participação de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Participação de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Participação de países terceiros\n\n1. A Agência está aberta à participação dos países europeus e dos países abrangidos pela Política Europeia de Vizinhança que tenham celebrado acordos com a Comunidade Europeia que prevejam a aprovação e aplicação, por estes países, do direito comunitário nas matérias reguladas pelo presente regulamento.\n\n2. Em conformidade com as disposições pertinentes desses acordos, serão estabelecidas regras para definir as modalidades da participação daqueles países nos trabalhos da Agência, nomeadamente no que respeita à natureza e âmbito desta participação. As referidas regras incluirão, nomeadamente, disposições relativas às contribuições financeiras e ao pessoal. Poderão ainda prever uma representação sem direito a voto no Conselho de Administração."
+  },
+  "9f1b40d4b36ccd8c": {
+   "fragment_id": "Artigo 37.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Transparência\n\nO Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^18^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0018)), é aplicável aos documentos que estejam na posse da Agência.\n\nO Conselho de Administração adoptará as medidas práticas relativas à aplicação do Regulamento (CE) n.º 1049/2001 até 1 de Outubro de 2004.\n\nAs decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça das Comunidades Europeias, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "6e028bd1d966d922": {
+   "fragment_id": "DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINANCEIRAS"
+  },
+  "52a459004a488a4b": {
+   "fragment_id": "Artigo 38.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Orçamento\n\n1. Todas as receitas e despesas da Agência devem constar das previsões relativas a cada exercício orçamental, que coincidirá com o ano civil, e devem ser inscritas no orçamento da Agência. As receitas e despesas inscritas no orçamento devem ser equilibradas.\n\n2. As receitas da Agência provêm:\n\n— de uma contribuição da Comunidade,\n\n— de uma eventual contribuição dos países terceiros que participem nos trabalhos da Agência nos termos do artigo 36.º,\n\n— das taxas aplicáveis a publicações, acções de formação e quaisquer outros serviços prestados pela Agência.\n\n3. As despesas da Agência incluem os encargos de pessoal, administrativos, de infra-estruturas e de funcionamento.\n\n4. Com base num projecto do director executivo, o Conselho de Administração elabora anualmente o projecto de previsão de receitas e despesas da Agência para o exercício seguinte. Até 31 de Março, o Conselho de Administração apresenta à Comissão o referido projecto, que incluirá um projecto do quadro de pessoal.\n\n5. A Comissão transmitirá o mapa previsional de receitas e despesas ao Parlamento Europeu e ao Conselho (adiante designados «autoridade orçamental»), juntamente com o anteprojecto de orçamento geral da União Europeia.\n\n6. Com base no mapa previsional de receitas e despesas, a Comissão procederá à inscrição no anteprojecto de orçamento geral da União Europeia das previsões que considere necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submeterá à apreciação da autoridade orçamental nos termos do disposto no artigo 272.º do Tratado.\n\n7. A autoridade orçamental autorizará as dotações a título da subvenção destinada à Agência. A autoridade orçamental aprovará o quadro de pessoal da Agência.\n\n8. O orçamento será aprovado pelo Conselho de Administração, tornando-se definitivo após a aprovação definitiva do orçamento geral da União Europeia. O orçamento será adaptado em conformidade, se for caso disso.\n\n9. O Conselho de Administração notificará, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis, dos quais informará a Comissão. Sempre que um ramo da autoridade orçamental anunciar a intenção de emitir um parecer, transmiti-lo-á ao Conselho de Administração no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "005c6b6bc801099e": {
+   "fragment_id": "Artigo 39.º — Execução e controlo orçamentais",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Execução e controlo orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Execução e controlo orçamentais\n\n1. Cabe ao director executivo dar execução ao orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunicará ao contabilista da Comissão as contas provisórias, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados, nos termos do disposto no artigo 128.º do Regulamento Financeiro geral.\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmitirá ao Tribunal de Contas as contas provisórias da Agência, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício será igualmente enviado ao Parlamento Europeu e ao Conselho.\n\nO Tribunal de Contas examina essas contas nos termos do artigo 248.º do Tratado. Publica anualmente um relatório sobre as actividades da Agência.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento Financeiro geral, o director executivo elaborará as contas definitivas da Agência, sob sua própria responsabilidade, e transmiti-las-á, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emitirá um parecer sobre as contas definitivas da Agência.\n\n6. O director executivo transmitirá ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas, acompanhadas do parecer do Conselho de Administração, até ao dia 1 de Julho seguinte ao exercício encerrado.\n\n7. As contas definitivas serão publicadas.\n\n8. O director executivo enviará ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Enviará igualmente esta resposta ao Conselho de Administração.\n\n9. O director executivo submeterá à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro geral, qualquer informação necessária ao bom desenrolar do processo de quitação relativo ao exercício em causa.\n\n10. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dará ao director executivo, antes de 30 de Abril do ano N+2, quitação pela execução do orçamento do exercício N."
+  },
+  "6e6bf32eda8c24bb": {
+   "fragment_id": "Artigo 40.º — Regulamento Financeiro",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Regulamento Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regulamento Financeiro\n\nApós consulta da Comissão, o Conselho de Administração aprovará a regulamentação financeira aplicável à Agência. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 ([^19^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#E0019)) se as exigências específicas do funcionamento da Agência assim o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "f4f007dd7537bf06": {
+   "fragment_id": "Artigo 41.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Luta contra a fraude\n\n1. Tendo em vista a luta contra a fraude, a corrupção e outros actos ilícitos, o Regulamento (CE) n.º 1073/1999 é plenamente aplicável.\n\n2. A Agência aderirá ao Acordo Interinstitucional, de 25 de Maio de 1999, relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF), e adoptará imediatamente as disposições necessárias que se aplicam a todo o pessoal da Agência.\n\n3. As decisões de financiamento e os acordos e instrumentos de execução delas decorrentes devem prever expressamente que o Tribunal de Contas e o OLAF poderão, se necessário, proceder a controlos no local, junto dos beneficiários das dotações da Agência."
+  },
+  "3c86a15ddc0878af": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 7"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "6964901b0f5f4e5d": {
+   "fragment_id": "Artigo 42.º — Início das actividades da Agência",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Início das actividades da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Início das actividades da Agência\n\nA Agência estará operacional no prazo de 24 meses a contar da data de entrada em vigor do presente regulamento."
+  },
+  "c3b94efc8391315f": {
+   "fragment_id": "Artigo 43.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Avaliação\n\nCinco anos após a entrada em funções da Agência, a Comissão procederá a uma avaliação da execução do presente regulamento, dos resultados obtidos pela Agência e dos seus métodos de trabalho. Esta avaliação terá em conta o parecer dos representantes do sector ferroviário, dos parceiros sociais e das organizações de clientes. Os resultados da avaliação devem ser tornados públicos. Se necessário, a Comissão proporá alterações ao presente regulamento.\n\nNeste contexto, a Comissão deve, se necessário, apresentar uma proposta de revisão das disposições do presente regulamento, à luz da evolução no que se refere às agências reguladoras, de acordo com o disposto no artigo 251.º do Tratado. O Parlamento Europeu e o Conselho devem examinar essa proposta e, em particular, considerar a eventual necessidade de rever a composição do Conselho de Administração, em conformidade com o quadro geral a adoptar para as agências reguladoras."
+  },
+  "6014088c7ee405e8": {
+   "fragment_id": "Artigo 44.º",
+   "type": "artigo",
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "44f33cd7bbe35aae": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0001)) JO C 126 E de 28.5.2002, p. 323.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0002)) JO C 61 de 14.3.2003, p. 131.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0003)) JO C 66 de 19.3.2003, p. 5.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 14 de Janeiro de 2003 (JO C 38 E de 12.2.2004, p. 135), posição comum do Conselho de 26 de Junho de 2003 (JO C 270 E de 11.11.2003, p. 48) e posição do Parlamento Europeu de 23 de Outubro de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 22 de Abril de 2004 e decisão do Conselho de 26 de Abril de 2004.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0005)) JO L 237 de 24.8.1991, p. 25. Directiva alterada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (JO L 75 de 15.3.2001, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0006)) JO L 143 de 27.6.1995, p. 70. Directiva alterada pela Directiva 2001/13/CE do Parlamento Europeu e do Conselho (JO L 75 de 15.3.2001, p. 26).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0007)) JO L 75 de 15.3.2001, p. 29. Directiva alterada pela Decisão 2002/844/CE da Comissão (JO L 289 de 26.10.2002, p. 30).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0008)) JO L 235 de 17.9.1996, p. 6. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0009)) JO L 110 de 20.4.2001, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0010)) Ver página 16 do presente Jornal Oficial.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0011)) JO L 228 de 9.9.1996, p. 1. Decisão alterada pela Decisão n.º 1346/2001/CE (JO L 185 de 6.7.2001, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0012)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0013)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0014)) Decisão 98/500/CE da Comissão, de 20 de Maio de 1998, relativa à criação de comités de diálogo sectorial para promover o diálogo entre os parceiros sociais a nível europeu (JO L 225 de 12.8.1998, p. 27).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0015)) JO L 191 de 18.7.2008, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0016)) JO L 315 de 3.12.2007, p. 51.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0017)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0018)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/03e61096-d9a1-4cb4-9eb2-761f6b971920.0018.03/DOC_1#src.E0019)) Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias (JO L 357 de 31.12.2002, p. 72)."
+  },
+  "4cf8b0d308d34d71": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004R0881 — PT — 15.06.2016 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004R0881) [REGULAMENTO (CE) N.º 881/2004 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32004R0881) [de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0881) [que institui a Agência Ferroviária Europeia](http://publications.europa.eu/resource/celex/32004R0881) [(«regulamento relativo à Agência»)](http://publications.europa.eu/resource/celex/32004R0881) (JO L 164, 30.4.2004, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2016/796 do Parlamento Europeu e do Conselho de 11 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0796) — L 138 — 1 — 26.5.2016"
+  }
+ }
+}

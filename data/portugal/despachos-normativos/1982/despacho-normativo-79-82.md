@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:392412:por
+title: Despacho Normativo n.º 79/82
+short_title: null
+summary: Define a competência territorial dos governos civis para a aceitação dos documentos a apresentar pelas empresas seguradoras
+  a que se refere o n.º 3.º da Portaria n.º 650/79, de 6 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Administração Interna - Secretaria de Estado da Administração Interna
+proposing_entity: null
+official_number: 79/82
+official_date: null
+publication_date: '1982-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/1982, Série I de 1982-05-21
+  number: '115'
+  series: I
+  supplement: null
+  pages: 1357 - 1358
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11500/13571358.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392412'
+  dre_path: /dr/detalhe/despacho-normativo/79-1982-392412
+  internal: pt:dre:392412:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/79-1982-392412
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/79-1982-392412
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 83035b07a2835aa9bf17138342206310f1425edfeff3420cdebfacbf5ed84304
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Governo Civil
+- Seguro
+- Seguro de Responsabilidade Civil Automóvel
+relationships:
+- type: amended_by
+  target: pt:dre:308508:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:308508:por
+  label: Alterado o n.º 2.2 pelo(a) Despacho Normativo n.º 29/83 - Diário da República n.º 22/1983, Série I de 1983-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-1983-308508
+  date: '1983-01-27'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568570:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:21:35Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 79/82
+
+Tendo sido suscitadas dúvidas sobre o critério de repartição, pelas diversas secretarias do governo civil, da competência territorial para aceitação do documento, em duplicado, a que se refere o n.º 3.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, e havendo conveniência em estabelecer, para a aplicação do visto, pelos governadores civis, um procedimento compatível com a forma como presentemente se encontra organizada, pelas empresas seguradoras, a actividade de emissão de cartões de seguro obrigatório de responsabilidade civil automóvel, determino, no uso da competência que em mim foi delegada, relativamente aos governos civis, pelo [Despacho Normativo n.º 329/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/329-1981-568570), de 15 de Outubro, publicado no Diário da Republica, a série, n.º 258, de 9 de Novembro, o seguinte:
+
+1 - São competentes para a aceitação do documento, em duplicado, a que se refere o n.º 3.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, as secretarias do governo civil da residência ou sede do segurado.
+
+2 - Enquanto as empresas seguradoras não tiverem organizado o processo burocrático de emissão de cartões de seguro obrigatório de responsabilidade civil automóvel de modo a poder ser apurada a quantidade de cartões emitidos a favor de pessoas singulares ou colectivas residentes ou sediadas em cada um dos distritos, deverá ser observado o seguinte procedimento:
+
+2.1 - Com base nos elementos fornecidos pelas empresas seguradoras, o Instituto Nacional de Seguros deverá organizar e apresentar, mensalmente, nas diversas secretarias dos governos civis da residência ou sede dos segurados, uma participação, em duplicado, discriminando, relativamente a cada uma das empresas seguradoras que operam no território do continente:
+
+2.1.1 - Tomando como referência o ano civil anterior, a percentagem representativa do número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos a favor de pessoas singulares ou colectivas domiciliadas na área do distrito relativamente à totalidade de cartões emitidos a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
+
+2.1.2 - O número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos no mês anterior àquele a que a participação se reporta a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
+
+2.1.3 - O número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos, no mesmo mês, a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente, vieram posteriormente a ser anulados;
+
+2.1.4 - O número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos, no mesmo mês, a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente, vieram, posteriormente, a ser substituídos por outros.
+
+2.2 - A quantia referida no n.º 2.3 será calculada por aplicação da fórmula:
+
+E = d x C(índice 1) - (C(índice 2) + C(índice 3)) x T
+
+em que:
+
+d designa, com referência ao ano civil anterior àquele a que a participação se reporta, a percentagem representativa do número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos a favor de pessoas singulares ou colectivas domiciliadas na área do distrito relativamente à totalidade de cartões emitidos a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
+
+C(índice 1) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos no mês anterior àquele a que a participação se reporta a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
+
+C(índice 2) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos, no mesmo mês, a favor de pessoas singulares domiciliadas em qualquer lugar do território do continente, vieram, posteriormente, a ser anulados;
+
+C(índice 3) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos, no mesmo mês, a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente, vieram, posteriormente, a ser substituídos por outros;
+
+T representa a taxa a que se referem o artigo 791.º, n.º 1, do Código Administrativo, e o artigo 56.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, acrescida dos respectivos adicionais, quando legalmente previstos;
+
+E representa a quantia devida por cada empresa seguradora ao cofre privativo do governo civil.
+
+2.3 - A participação referida no n.º 2.1, que será expedida sob registo postal, deverá ser feita acompanhar da remessa, por cheque ou vale do correio, da quantia correspondente ao produto da taxa legalmente fixada pelo número de cartões que as seguradoras presumivelmente terão emitido a favor de pessoas singulares ou colectivas domiciliadas na área do respectivo distrito, apurada pela fórmula constante do n.º 2.2.
+
+2.3.1 - Sempre que se verifique atraso no processo de cobrança dos custos dos cartões de seguro de responsabilidade civil automóvel pelas empresas seguradoras aos respectivos segurados e essa circunstância seja devidamente certificada pelo conselho directivo do Instituto Nacional de Seguros, o pagamento da quantia referida no n.º 2.2 será diferido até ao último dia útil do 3.º mês imediato àquele em que os cartões foram emitidos.
+
+2.3.2 - Na participação referida no n.º 2.3, deverá ser feita discriminação da quantia devida por cada uma das empresas seguradoras que no mês anterior operaram no respectivo distrito.
+
+2.4 - A taxa referida no n.º 2.2 continuará a constituir encargo, a suportar integralmente pelas pessoas, singulares ou colectivas, seguradas.
+
+2.5 - A aposição do visto, por cada governador civil, no duplicado da participação referida no n.º 2.1 implica a presunção de que se encontram visados todos os cartões de seguro obrigatório de responsabilidade civil automóvel emitidos pelas empresas seguradoras no mês anterior àquele a que a participação se reporta a favor de pessoas singulares ou colectivas domiciliadas na área do respectivo distrito.
+
+2.5.1 - A presunção referida no n.º 2.4 não pode ser ilidida por prova em contrário.
+
+2.6 - O duplicado da participação, depois de visado pelo governador civil e acompanhado do documento comprovativo do recebimento da quantia legalmente devida, a processar em duplicado, deve ser devolvido, sob registo postal, pela secretaria do governo civil ao Instituto Nacional de Seguros.
+
+3 - O Instituto Nacional de Seguros deverá adoptar as providências necessárias à execução do estatuído neste despacho.
+
+4 - Sem prejuízo do disposto no número seguinte, o procedimento estabelecido neste diploma começará a ser aplicado a todos os cartões emitidos a partir do dia 1 de Agosto de 1982.
+
+5 - Aos cartões emitidos no período compreendido entre 1 de Agosto de 1982 e 31 de Julho de 1983 será aplicado o procedimento prescrito neste diploma, com as seguintes adaptações:
+
+5.1 - As participações a que se refere o n.º 2.1 serão elaboradas, mensalmente, com indicação do número de cartões que nesse período foram emitidos, anulados e substituídos por outros, e remetidas às secretarias dos governos civis, conjuntamente com a receita prevista no n.º 2.2, até ao último dia útil do mês imediato.
+
+5.2 - Servirá de base para o cálculo da percentagem identificada com a letra d na fórmula referida no n.º 2.2 uma relação discriminativa da distribuição, em 31 de Março de 1982, por empresa seguradora e por distritos, da carteira de seguro obrigatório de responsabilidade civil automóvel, a remeter, até ao termo do próximo mês de Julho, pelo Instituto Nacional de Seguros ao Gabinete do Secretário de Estado da Administração Interna.
+
+5.3 - O exercício pelas empresas seguradoras da faculdade consignada no n.º 2.3.1 fica dependente de autorização, que só pode ser concedida, excepcionalmente, por despacho do Secretário de Estado da Administração Interna, sob proposta do Instituto Nacional de Seguros.
+
+Secretaria de Estado da Administração Interna, 12 de Abril de 1982. - O Secretário de Estado da Administração Interna, Carlos Manuel de Sousa Encarnação.

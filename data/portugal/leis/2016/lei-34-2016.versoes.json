@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75194223:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2016-75204078",
+ "dre_path": "/dr/detalhe/lei/34-2016-75194223",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75185006",
+    "75185007",
+    "75185008",
+    "75185009",
+    "75185010",
+    "75185011"
+   ]
+  }
+ ],
+ "fragments": {
+  "75185006": {
+   "fragment_id": "75204079",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 34/2016\n\nde 24 de agosto\n\nElimina a obrigatoriedade de apresentação quinzenal dos desempregados (oitava alteração ao Decreto-Lei n.º 220/2006, de 3 de novembro, que estabelece o regime jurídico de proteção social da eventualidade de desemprego dos trabalhadores por conta de outrem).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "75185007": {
+   "fragment_id": "75204080",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à oitava alteração ao Decreto-Lei n.º 220/2006, de 3 de novembro, eliminando a obrigatoriedade de apresentação quinzenal dos desempregados e reforçando o acompanhamento personalizado para o emprego."
+  },
+  "75185008": {
+   "fragment_id": "75204081",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração do Decreto-Lei n.º 220/2006, de 3 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração do Decreto-Lei n.º 220/2006, de 3 de novembro\n\nOs artigos 17.º, 41.º, 46.º, 48.º, 49.º, 70.º, 82.º e 85.º do Decreto-Lei n.º 220/2006, de 3 de novembro, que estabelece o regime jurídico de proteção social da eventualidade de desemprego dos trabalhadores por conta de outrem, alterado pelo Decreto-Lei n.º 68/2009, de 20 de março, pela Lei n.º 5/2010, de 5 de maio, pelos Decretos-Leis n.os 72/2010, de 18 de junho, e 64/2012, de 5 de março, pela Lei n.º 66-B/2013, de 31 de dezembro, e pelos Decretos-Leis n.os 13/2013, de 25 de janeiro, e 167-E/2013, de 31 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 17.º\n\nAcompanhamento personalizado para o emprego\n\n1 - O acompanhamento personalizado para o emprego no âmbito do PPE é um sistema de acompanhamento integrado centrado no beneficiário das prestações de desemprego com o objetivo de garantir:\n\na) Apoio, acompanhamento e orientação do beneficiário;\n\nb) Ativação na procura de emprego, através da formação e aquisição de competências; e\n\nc) Monitorização e fiscalização do cumprimento das obrigações previstas na lei, garantindo o rigor na utilização destas prestações.\n\n2 - O acompanhamento personalizado para o emprego inclui, nomeadamente:\n\na) Elaboração conjunta do PPE, que deve ser feito até ao período máximo de 15 dias após a inscrição do beneficiário no centro de emprego;\n\nb) Atualização e reavaliação regular do PPE;\n\nc) Sessões de procura de emprego acompanhada;\n\nd) Sessões coletivas de caráter informativo, nomeadamente sobre direitos e deveres dos beneficiários, mercado de emprego e oferta formativa, programas disponíveis no serviço público de emprego;\n\ne) Sessões de divulgação de ofertas e planos formativos adequados ao perfil de cada beneficiário;\n\nf) Ações de desenvolvimento de competências para a empregabilidade; e\n\ng) Outras sessões regulares de atendimento personalizado.\n\nArtigo 41.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) (Revogada.)\n\ng) ...\n\n2 - ...\n\nArtigo 46.º\n\n[...]\n\nÀ justificação das recusas de emprego conveniente, das recusas ou desistências de trabalho socialmente necessário, formação profissional, controle e acompanhamento personalizado ou outra medida ativa de emprego, aplica-se o disposto nos artigos 44.º e 45.º, com as necessárias adaptações.\n\nArtigo 48.º\n\n[...]\n\n1 - Determina advertência escrita o primeiro incumprimento injustificado:\n\na) ...\n\nb) ...\n\nc) No âmbito de ações de controlo, acompanhamento personalizado e avaliação promovidas pelos centros de emprego;\n\nd) (Revogada.)\n\n2 - (Anterior n.º 3.)\n\nArtigo 49.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) (Revogada.)\n\n2 - ...\n\n3 - Nos casos previstos nas alíneas f), g) e h) do n.º 1, a anulação da inscrição só tem lugar nas situações em que o beneficiário já tenha sido advertido por escrito nos termos do artigo anterior.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\nArtigo 70.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Convocar os beneficiários das prestações de desemprego para comparência no serviço público de emprego, ou outro local a definir em função do objetivo e proximidade com a residência do beneficiário, no âmbito de ações de controlo não periódicas, acompanhamento personalizado e avaliação;\n\nf) ...\n\ng) Avaliar a justificação das faltas de comparência do beneficiário a convocatória do serviço público de emprego;\n\nh) ...\n\ni) ...\n\nj) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\nArtigo 82.º\n\n[...]\n\n1 - ...\n\n2 - (Revogado.)\n\n3 - ...\n\n4 - (Revogado.)\n\nArtigo 85.º\n\n[...]\n\n1 - As modalidades e formas de execução do PPE e a realização e demonstração probatória da procura ativa de emprego, bem como outras vertentes relevantes para a concretização das obrigações, são objeto de regulamentação própria.\n\n2 - ...\n\n3 - ...»"
+  },
+  "75185009": {
+   "fragment_id": "75204082",
+   "type": 11,
+   "heading": "Artigo 3.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regulamentação\n\nA regulamentação prevista no artigo 85.º do Decreto-Lei n.º 220/2006, de 3 de novembro, na sua redação atual, deve ser promovida no prazo de 30 dias após a entrada em vigor da presente lei."
+  },
+  "75185010": {
+   "fragment_id": "75204083",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nA presente lei revoga a alínea f) do n.º 1 do artigo 41.º, a alínea d) do n.º 1 do artigo 48.º, a alínea j) do n.º 1 do artigo 49.º e os n.os 2 e 4 do artigo 82.º do Decreto-Lei n.º 220/2006, de 3 de novembro."
+  },
+  "75185011": {
+   "fragment_id": "75204084",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de outubro de 2016."
+  }
+ }
+}

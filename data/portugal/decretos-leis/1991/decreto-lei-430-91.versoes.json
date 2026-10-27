@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321699:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-854714293",
+ "dre_path": "/dr/detalhe/decreto-lei/430-1991-321699",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "854714392",
+    "854714393",
+    "854714394",
+    "854714395",
+    "854714396",
+    "854714397",
+    "854714398"
+   ]
+  },
+  {
+   "date": "2008-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448970:por",
+     "title": "Decreto-Lei n.º 88/2008",
+     "published": "2008-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/88-2008-448970"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "854714392",
+    "854714393",
+    "854714394",
+    "854714400",
+    "854714401",
+    "854714397",
+    "854714398",
+    "854714399"
+   ]
+  }
+ ],
+ "fragments": {
+  "854714392": {
+   "fragment_id": "854714294",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 430/91\n\nde 2 de Novembro\n\nA progressiva liberalização do sistema financeiro nacional, visando potenciar uma concorrência saudável e alcançar ganhos de eficiência, tem constituído uma preocupação importante e permanente das autoridades no decurso dos últimos anos.\n\nO actual estádio de desenvolvimento económico e financeiro, o presente contexto e a forma de definição da política monetária e o recente conjunto de regulamentação de natureza prudencial sobre o sistema financeiro configuram um quadro genérico em que se torna possível prosseguir, com segurança, aquele processo liberalizador.\n\nConsidera-se adequado, na presente situação, proceder à flexibilização do quadro normativo que regula a constituição de depósitos, eliminando, designadamente, as restrições de natureza administrativa que impendem sobre os depósitos a prazo e sobre os depósitos constituídos em regime especial.\n\nDo mesmo passo, introduz-se no ordenamento jurídico português uma nova modalidade de instrumento financeiro designado «depósito a prazo não mobilizável antecipadamente», com as características do depósito a prazo, mas sobre o qual recai o impedimento legal de mobilização antecipada. Esta nova modalidade é potencialmente interessante para aplicações de poupança estáveis, com vantagens para as instituições de crédito e para os aforradores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "854714393": {
+   "fragment_id": "854714295",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Os depósitos de disponibilidades monetárias nas instituições de crédito revestirão uma das seguintes modalidades:\n\na) Depósitos à ordem;\n\nb) Depósitos com pré-aviso;\n\nc) Depósitos a prazo;\n\nd) Depósitos a prazo não mobilizáveis antecipadamente;\n\ne) Depósitos constituídos em regime especial.\n\n2 - Os depósitos à ordem são exigíveis a todo o tempo.\n\n3 - Os depósitos com pré-aviso são apenas exigíveis depois de prevenido o depositário, por escrito, com a antecipação fixada na cláusula do pré-aviso, livremente acordada entre as partes.\n\n4 - Os depósitos a prazo são exigíveis no fim do prazo por que foram constituídos, podendo, todavia, as instituições de crédito conceder aos seus depositantes, nas condições acordadas, a sua mobilização antecipada.\n\n5 - Os depósitos a prazo não mobilizáveis antecipadamente são apenas exigíveis no fim do prazo por que foram constituídos, não podendo ser reembolsados antes do decurso desse mesmo prazo."
+  },
+  "854714394": {
+   "fragment_id": "854714296",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - São considerados depósitos em regime especial todos os depósitos não enquadráveis nas alíneas a) a d) do n.º 1 do artigo 1.º, ou previstos em normas legais ou regulamentares.\n\n2 - A criação de depósitos em regime especial é livre, devendo, no entanto, ser dado conhecimento das suas características, com uma antecedência mínima de 30 dias, ao Banco de Portugal, o qual poderá nesse prazo formular as recomendações que entender necessárias."
+  },
+  "854714395": {
+   "fragment_id": "854714297",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Na data de constituição dos depósitos referidos nas alíneas c) e d) do n.º 1 do artigo 1.º, as instituições depositárias devem proceder à emissão de um título nominativo, representativo do depósito.\n\n2 - O título referido no número anterior não pode ser transmitido por acto entre vivos, salvo a favor da instituição emitente em situações de mobilização antecipada, nos casos em que esta é admitida.\n\n3 - Do título a que este artigo se refere devem constar os elementos essenciais da operação, designadamente:\n\na) O valor do depósito, em algarismos e por extenso;\n\nb) O prazo por que foi constituído o depósito e a data de vencimento;\n\nc) As condições em que o depósito pode ser mobilizado antes do vencimento, se for caso disso;\n\nd) A taxa de juro convencionada, incluindo a taxa aplicável nas situações de reembolso antecipado, se for caso disso;\n\ne) A forma e o calendário do pagamento dos juros;\n\nf) As condições em que o depósito pode ser renovado, na ausência de declaração de depositante, se for caso disso."
+  },
+  "854714396": {
+   "fragment_id": "854714298",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nFicam excluídos do âmbito de aplicação deste diploma os depósitos constituídos ao abrigo da legislação especial."
+  },
+  "854714397": {
+   "fragment_id": "854714299",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs depósitos existentes à data de entrada em vigor deste diploma mantêm-se sujeitos, até ao seu vencimento, ao regime que lhes era aplicável."
+  },
+  "854714398": {
+   "fragment_id": "854714300",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão revogados os Decretos-Leis n.º 729-E/75, de 22 de Dezembro, e 75-B/77, de 28 de Fevereiro."
+  },
+  "854714400": {
+   "fragment_id": "854714297",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2008-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Na data de constituição dos depósitos referidos nas alíneas c) e d) do n.º 1 do artigo 1.º, as instituições depositárias devem proceder à emissão de um título nominativo, representativo do depósito.\n\n2 - O título referido no número anterior não pode ser transmitido por acto entre vivos, salvo a favor da instituição emitente em situações de mobilização antecipada, nos casos em que esta é admitida.\n\n3 - Do título a que este artigo se refere devem constar os elementos essenciais da operação, designadamente:\n\na) O valor do depósito, em algarismos e por extenso;\n\nb) O prazo por que foi constituído o depósito e a data de vencimento;\n\nc) As condições em que o depósito pode ser mobilizado antes do vencimento, se for caso disso;\n\nd) A taxa de juro convencionada, incluindo a taxa aplicável nas situações de reembolso antecipado, se for caso disso;\n\ne) A forma e o calendário do pagamento dos juros;\n\nf) As condições em que o depósito pode ser renovado, na ausência de declaração de depositante, se for caso disso.\n\n4 - Nos depósitos abrangidos pelo disposto no presente decreto-lei, o cálculo dos juros deve adoptar a convenção de mercado actual/360, correspondente ao número de dias efectivamente decorridos no período a que se refere o cálculo do juro corrido do depósito e a um ano de 360 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28"
+  },
+  "854714401": {
+   "fragment_id": "854714298",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2008-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1- Ficam excluídos do âmbito de aplicação deste diploma os depósitos constituídos ao abrigo da legislação especial.\n\n2 - No caso dos depósitos constituídos ao abrigo de legislação especial, é aplicável o disposto no n.º 4 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28"
+  },
+  "854714399": {
+   "fragment_id": "854714301",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 16 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Outubro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,942 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0062:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0062-20180704",
+ "dre_path": null,
+ "source_lastmod": "2018-07-04",
+ "versions": [
+  {
+   "date": "1994-12-31",
+   "future": false,
+   "celex": "31994L0062",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "97f119493bcb260b",
+    "6fedc1764609f525",
+    "4a121d9342b404a9",
+    "a63058f006eb574f",
+    "b776dea1bb112bf7",
+    "af1a8021e99a7c29",
+    "63ecfcacbc2384c5",
+    "98712420f8e1871e",
+    "e620dac657af605b",
+    "72c1b0cc75a4ca92",
+    "328fdb8793988a22",
+    "f8799105583bfbac",
+    "29c791cabb500e8f",
+    "2db4ed126d4376b2",
+    "8fcf2faccc3a3aff",
+    "79ba4c75d006fdc5",
+    "5b7324795f982a4f",
+    "5161ad98c203de74",
+    "c5e236a15520b44e",
+    "7d0cbf5cb0fcd3b1",
+    "bbf2d9a4c005e403",
+    "c8c84e26dde063db",
+    "855f4630a8cce5d6",
+    "bc5b72ddc1e17337",
+    "2347d8814538a3f4",
+    "f1a232b380c00614",
+    "481b5753ad6c92bb",
+    "7ccaeccb92a854f2",
+    "18715577d94347b7"
+   ]
+  },
+  {
+   "date": "2018-07-04",
+   "future": false,
+   "celex": "01994L0062-20180704",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32004L0012:por",
+     "title": "DIRECTIVA 2004/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Fevereiro de 2004",
+     "published": null,
+     "celex": "32004L0012"
+    },
+    {
+     "id": "eu:celex:32005L0020:por",
+     "title": "DIRECTIVA 2005/20/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Março de 2005",
+     "published": null,
+     "celex": "32005L0020"
+    },
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "M4",
+     "published": null,
+     "celex": "32009R0219"
+    },
+    {
+     "id": "eu:celex:32013L0002:por",
+     "title": "DIRETIVA 2013/2/UE DA COMISSÃO de 7 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013L0002"
+    },
+    {
+     "id": "eu:celex:32015L0720:por",
+     "title": "DIRETIVA (UE) 2015/720 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015",
+     "published": null,
+     "celex": "32015L0720"
+    },
+    {
+     "id": "eu:celex:32018L0852:por",
+     "title": "DIRETIVA (UE) 2018/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018",
+     "published": null,
+     "celex": "32018L0852"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Âmbito",
+    "Adita Artigo 3.º — Definições",
+    "Adita Artigo 4.º — Prevenção",
+    "Adita Artigo 5.º — Reutilização",
+    "Adita Artigo 6.º — Valorização e reciclagem",
+    "Adita Artigo 6.º-A — Regras para calcular o cumprimento das metas",
+    "Adita Artigo 6.º-B — Relatório de alerta precoce",
+    "Adita Artigo 7.º — Sistemas de recuperação, recolha e valorização",
+    "Adita Artigo 8.º — Marcação e sistema de identificação",
+    "Adita Artigo 8.º-A — Medidas específicas relativas a rótulos ou marcas para sacos de plástico biodegradáveis e compostáveis",
+    "Adita Artigo 9.º — Requisitos essenciais",
+    "Adita Artigo 10.º — Normalização",
+    "Adita Artigo 11.º — Níveis de concentração de metais pesados nas embalagens",
+    "Adita Artigo 12.º",
+    "Adita Sistemas de informação e relatórios",
+    "Adita Artigo 13.º — Informação para os utilizadores das embalagens",
+    "Adita Artigo 14.º — Planos de gestão",
+    "Adita Artigo 15.º — Instrumentos económicos",
+    "Adita Artigo 16.º — Notificação",
+    "Adita Artigo 18.º — Liberdade de colocação no mercado",
+    "Adita Artigo 19.º — Adaptação ao progresso científico e técnico",
+    "Adita Artigo 20.º — Medidas específicas",
+    "Adita Artigo 20.º-A — Relatório sobre os sacos de plástico",
+    "Adita Artigo 21.º — Procedimento de comité",
+    "Adita Artigo 21.º-A — Exercício da delegação",
+    "Adita Artigo 22.º — Transposição para o direito nacional",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 25.º",
+    "Adita ANEXO I",
+    "Adita EXEMPLOS ILUSTRATIVOS DOS CRITÉRIOS A QUE SE REFERE O ARTIGO 3.º, N.º 1",
+    "Adita Exemplos para o critério referido na alínea i)",
+    "Adita Exemplos para o critério referido na alínea ii)",
+    "Adita Exemplos para o critério referido na alínea iii)",
+    "Adita ANEXO II",
+    "Adita REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS",
+    "Adita 1. Requisitos específicos de fabrico e composição das embalagens",
+    "Adita 2. Requisitos específicos da possibilidade de reutilização das embalagens",
+    "Adita 3. Requisitos específicos da possibilidade de valorização das embalagens",
+    "Adita a) Embalagens valorizáveis sob a forma de reciclagem do material",
+    "Adita b) Embalagens valorizáveis sob a forma de valorização energética",
+    "Adita c) Embalagens valorizáveis sob a forma de composto",
+    "Adita d) Embalagens biodegradáveis",
+    "Adita ANEXO III",
+    "Adita DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)",
+    "Adita QUADRO 1",
+    "Adita Quantidade de embalagens (primárias, secundárias e terciárias) consumidas no território nacional",
+    "Adita QUADRO 2",
+    "Adita Quantidade de embalagens (primárias, secundárias e terciárias) reutilizadas no território nacional",
+    "Adita QUADRO 3",
+    "Adita Quantidade de resíduas de embalagens valorizados e eliminados do território nacional",
+    "Adita QUADRO 4",
+    "Adita Quantidades de resíduos de embalagens reciclados ou valorizados no território nacional",
+    "Adita ANEXO IV",
+    "Adita PLANO DE EXECUÇÃO A APRESENTAR NOS TERMOS DO ARTIGO 6.º, N.º 1-A, ALÍNEA D)",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º — A Directiva 85/339/CEE é revogada na data referida no nº 1 do artigo 22º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime ANEXO I — SISTEMA DE IDENTIFICAÇÃO",
+    "Suprime ANEXO II — REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS",
+    "Suprime ANEXO III — DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)"
+   ],
+   "fragments": [
+    "11323fc3cf696137",
+    "04f3864fac64b6b4",
+    "2f828e15a075626b",
+    "64902bfeb4f3f992",
+    "d39da6834a14f080",
+    "1da71273f0c8e54d",
+    "b4ec5f51dbc4b3b0",
+    "268e5d197e7a131d",
+    "e76beb1c3ed80cc6",
+    "20f13e71482bef29",
+    "29fcf72fb1ffdd77",
+    "c14f615face285cb",
+    "8bdcf3a1a7f198fe",
+    "41e98bc997dfd206",
+    "38c17d69be7790e0",
+    "22d7efb2e686a893",
+    "b675e242593a86e9",
+    "b696dd4025ddeae6",
+    "fb20d794e3b50209",
+    "ee8ab183e4e71727",
+    "4b09a03b65a86f4b",
+    "86914c29d7a8304c",
+    "e248d28204e2d17a",
+    "f571a44b88c6237b",
+    "735c4d08b82dc5ee",
+    "2af3e237b5ed982f",
+    "bc2f2c4ce4e636f0",
+    "6c05935781e9967a",
+    "0d77ece853aeb74a",
+    "ba9682a6498f2f6a",
+    "3a3833e0f560af18",
+    "d664376e2a8dcecd",
+    "a4ec61da8e5ea17b",
+    "357e4d99189b2886",
+    "67d55aadfd33ea9c",
+    "0d295bca57a97c78",
+    "852174729551523b",
+    "4955ea6b53239d5e",
+    "9b292b7cfb3fc9b1",
+    "cc3b4039b10ad9ca",
+    "9bb4e5947a51c186",
+    "e51729769bf2a050",
+    "9c0d5c0b9878ff29",
+    "fbf1240b70e20dbd",
+    "fbdf2d9a237de141",
+    "720af75c92791b10",
+    "ddd13c5a43261be4",
+    "9af0897e16700022",
+    "6f41d3b2189a5acc",
+    "cded9408f076c119",
+    "80a5047fc4b182b5",
+    "17f23c719a5dda55",
+    "3fb8dd568a3b1760",
+    "43b4a1ea496cf1ff",
+    "2cee39254d31d803",
+    "e03a0eb4d5b2eef3",
+    "eeaaabb9faece457",
+    "4f8ba186ca87eb02"
+   ]
+  }
+ ],
+ "fragments": {
+  "97f119493bcb260b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa a embalagens e resíduos de embalagens** *Jornal Oficial nº L 365 de 31/12/1994 p. 0010 - 0023 Edição especial finlandesa: Capítulo 15 Fascículo 13 p. 0266 Edição especial sueca: Capítulo 15 Fascículo 13 p. 0266*\n\nDIRECTIVA 94/62/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 1994 relativa a embalagens e resíduos de embalagens\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3);\n\nConsiderando que é necessário harmonizar as diferentes disposições e medidas nacionais relativas à gestão das embalagens e dos resíduos de embalagens a fim de, por um lado, evitar ou reduzir o seu impacte no ambiente, garantindo assim um elevado nível de protecção do ambiente, e, por outro lado, assegurar o funcionamento do mercado interno e evitar entraves ao comércio e distorções e restrições de concorrência na Comunidade;\n\nConsiderando que a melhor forma de evitar a produção de resíduos de embalagens é reduzir a quantidade global de embalagens;\n\nConsiderando que, em relação aos objectivos da presente directiva é importante respeitar, como princípio geral, que as medidas tomadas num Estado-membro para proteger o ambiente não prejudiquem a capacidade de outros Estados-membros para cumprir os objectivos da directiva;\n\nConsiderando que a redução dos resíduos é uma condição necessária para o crescimento sustentável expressamente mencionado no Tratado da União Europeia;\n\nConsiderando que a presente directiva deve abranger todo o tipo de embalagens em circulação no mercado e todos os resíduos de embalagens; que, por conseguinte, a Directiva 85/339/CEE do Conselho, de 27 de Junho de 1985, relativa às embalagens para líquidos alimentares (4), deve ser revogada;\n\nConsiderando que as embalagens desempenham uma função social e económica fundamental e que, portanto, as medidas previstas na presente directiva se aplicarão sem prejuízo de quaisquer outras disposições legislativas relevantes que interfiram na qualidade e transporte de embalagens ou na embalagem de mercadorias;\n\nConsiderando que, de acordo com a estratégia comunitária de gestão de resíduos, enunciada na resolução do Conselho, de 7 de Maio de 1990, sobre política de resíduos (5), e na Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos (6), a gestão de embalagens e resíduos de embalagens incluirá, como primeira prioridade, a prevenção da produção de resíduos de embalagens e, como princípios fundamentais, a reutilização de embalagens, a reciclagem e outras formas de valorização dos resíduos de embalagens e, por conseguinte, a redução da eliminação final de tais resíduos;\n\nConsiderando que, na expectativa de resultados científicos e tecnológicos em matéria de processos de valorização, deve-se optar, de preferência, pela reutilização e pela reciclagem, preferíveis em termos de impacte ambiental; que, por esse motivo, devem ser criados, nos Estados-membros, sistemas que garantam o retorno de embalagens usadas e/ou de resíduos de embalagens; que as análises do ciclo de vida devem ser completadas o mais rapidamente possível de modo a justificar uma hierarquia bem definida entre embalagens reutilizáveis, recicláveis e valorizáveis;\n\nConsiderando que a prevenção da produção de resíduos de embalagens deverá ser realizada por meio de medidas adequadas, incluindo iniciativas tomadas nos Estados-membros de acordo com os objectivos da presente directiva;\n\nConsiderando que, nos termos do Tratado, os Estados-membros poderão incentivar o uso de sistemas de reutilização de embalagens que possam ser reutilizadas respeitando o ambiente por forma a beneficiar da contribuição deste método para a protecção desse mesmo ambiente;\n\nConsiderando que, do ponto de vista ambiental, a reciclagem deve constituir uma parte importante da valorização, principalmente para reduzir o consumo de energia e de matérias-primas primárias e a eliminação final de resíduos;\n\nConsiderando que a valorização energética constitui um meio eficaz de valorização dos resíduos de embalagens;\n\nConsiderando que os objectivos estabelecidos nos Estados-membros relativamente à valorização e à reciclagem de resíduos de embalagens devem ficar compreendidos dentro de certos limites, por forma a ter em conta as diferentes situações nos Estados-membros e a evitar que se criem entraves ao comércio e se dê origem a distorções de concorrência;\n\nConsiderando que, para se alcançarem resultados a médio prazo e se criarem perspectivas a longo prazo para os operadores económicos, os consumidores e as autorizades públicas, é oportuno fixar uma data a médio prazo para a consecução dos referidos objectivos e uma data a longo prazo para os objectivos que deverão ser fixados numa fase posterior, a fim de alargar substancialmente esses objectivos;\n\nConsiderando que o Parlamento Europeu e o Conselho, baseando-se em relatórios da Comissão, deverão analisar a experiência prática adquirida nos Estados-membros com o cumprimento dos referidos objectivos e os resultados da investigação científica e das técnicas de avaliação, com os ecobalanços;\n\nConsiderando que os Estados-membros, que possuem ou venham a desenvolver programas que ultrapassem os referidos objectivos devem poder cumpri-los no interesse de uma protecção do ambiente de alto nível, desde que essas medidas evitem distorções no mercado interno e não impeçam o cumprimento da presente directiva por outros Estados-membros; que a Comissão deve confirmar essas medidas depois de uma verificação adequada;\n\nConsiderando, por outro lado, que alguns Estados-membros, devido a características próprias, poderão ser autorizados a adoptar objectivos mais modestos, na condição de atingirem um objectivo mínimo de valorização dentro do prazo normal e os objectivos normais num prazo posterior;\n\nConsiderando que a gestão das embalagens e resíduos de embalagens exige que se estabeleçam sistemas de retorno, recolha e valorização nos Estados-membros; que esses sistemas deverão ser abertos à participação de todas as partes interessadas e concebidos por forma a evitar a discriminação contra produtos importados, entraves ao comércio ou distorções de concorrência e a garantir um rendimento óptimo das embalagens e resíduos de embalagens, nos termos do Tratado;\n\nConsiderando que a questão da marcação das embalagens, a nível comunitário, requer um estudo mais pormenorizado, mas deverá ser decidida pela Comunidade num futuro próximo;\n\nConsiderando que, a fim de reduzir o impacte das embalagens e dos resíduos de embalagens no ambiente e evitar entraves ao comércio e distorções de concorrência, é também necessário definir os requisitos essenciais relacionados com a composição e natureza das embalagens reutilizáveis e valorizáveis, incluindo as recicláveis;\n\nConsiderando que é necessário limitar a presença de metais nocivos e de outras substâncias nas embalagens, tendo em conta o seu impacte no ambiente (nomeadamente, a sua provável presença nas emissões ou nas cinzas quando as embalagens são incineradas ou nos resíduos de lixiviação aquando da sua deposição em aterros); que é necessário, como primeiro passo para reduzir a toxicidade dos resíduos de embalagens, impedir a adjunção destes metais pesados nocivos nas embalagens, ou controlar o impedimento de fugas desses elementos para o ambiente, prevendo-se derrogações em casos específicos a determinar pela Comissão nos termos do procedimento do comité;\n\nConsiderando que para atingir um elevado grau de reciclagem e para evitar problemas de ordem sanitária e de segurança a quem recolhe ou manipula resíduos de embalagens, é fundamental que esses resíduos sejam triados na origem;\n\nConsiderando que os requisitos para o fabrico de embalagens não se deverão aplicar a embalagens utilizadas para um determinado produto antes da data de entrada em vigor da presente directiva; que é também necessário um período de transição para a comercialização das embalagens;\n\nConsiderando que os prazos das disposições relativas à colocação no mercado das embalagens que preencham todos os requisitos essenciais devem ter em conta o facto de as normas europeias estarem a ser elaboradas pelo organismo de normalização competente; que, contudo, se deverão aplicar imediatamente as disposições sobre os meios de prova de conformidade das normas nacionais;\n\nConsiderado que se deverá apoiar a criação de normas europeias relativas aos requisitos essenciais e a outros aspectos afins;\n\nConsiderando que as medidas previstas na presente directiva supõem o desenvolvimento de capacidades de valorização e reciclagem e saídas de mercado para os materiais de embalagem reciclados;\n\nConsiderando que a inclusão de material reciclado nas embalagens não deve contrariar as disposições aplicáveis em matéria de higiene, saúde e segurança do consumidor;\n\nConsiderando que são necessários dados à escala comunitária sobre a quantidade de embalagens e resíduos de embalagens, a fim de se poder acompanhar o cumprimento dos objectivos da presente directiva;\n\nConsiderando que é essencial que todos os que estiverem envolvidos na produção, utilização, importação e distribuição de embalagens e produtos embalados se tornem mais conscientes da medida em que as embalagens se transformam em resíduos e que, de acordo com o princípio do poluidor-pagador, assumam a responsabilidade por esses resíduos; que a elaboração e execução das medidas previstas na presente directiva devem envolver e exigir, sempre que adequado, a estreita cooperação de todos os pareceiros num espírito de responsabilidade partilhada;\n\nConsiderando que o consumidor desempenha um papel-chave na gestão das embalagens e resíduos de embalagens e deve, portanto, ser convenientemente informado a fim de alterar as suas atitudes e comportamentos;\n\nConsiderando que a inclusão de um capítulo específico sobre a gestão de embalagens e de resíduos de embalagens nos planos de gestão de resíduos exigidos pela Directiva 75/442/CEE contribuirá para a aplicação efectiva da presente directiva;\n\nConsiderando que, a fim de facilitar o cumprimento dos objectivos da presente directiva, a utilização de instrumentos económicos nos termos do Tratado pode ser necessária para a Comunidade e os Estados-membros, de modo a evitar novas formas de proteccionismo;\n\nConsiderando que, sem prejuízo do disposto na Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (1), os Estados-membros devem notificar a Comissão dos projectos das medidas que tencionam adoptar, de forma a que se possa verificar a sua conformidade com a presente directiva;\n\nConsiderando que a adaptação ao progresso científico e técnico do sistema de identificação das embalagens e da estrutura das bases de dados deverá ser assegurada pela Comissão em conformidade com um procedimento do comité;\n\nConsiderando que é necessário prever a possibilidade de tomar medidas específicas para fazer face às dificuldades de aplicação da presente directiva, recorrendo-se, quando necessário, ao mesmo procedimento do comité,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "6fedc1764609f525": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nObjecto 1. A presente directiva tem por objecto a harmonização das disposições nacionais respeitantes à gestão de embalagens e de resíduos de embalagens a fim de, por um lado, prevenir e reduzir o seu impacte no ambiente, em todos os Estados-membros, assim como em países terceiros, assegurando assim um elevado nível de protecção do ambiente, e, por outro lado, garantir o funcionamento do mercado interno e evitar entraves ao comércio e distorções e restrições de concorrência na Comunidade.\n\n2. Para o efeito, a presente directiva prevê medidas que visam como primeira prioridade prevenir a produção de resíduos de embalagens e prevê igualmente, como princípios fundamentais, a reutilização das embalagens, a reciclagem e as outras formas de valorização dos resíduos de embalagens, e por conseguinte a redução da eliminação final desses resíduos."
+  },
+  "4a121d9342b404a9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nÂmbito 1. A presente directiva abrange todas as embalagens colocadas no mercado da Comunidade e todos os resíduos de embalagens, sejam eles utilizados ou produzidos a nível da indústria, do comércio, de escritórios, lojas ou serviços, a nível doméstico ou a qualquer outro nível, e independentemente do material utilizado.\n\n2. A presente directiva é aplicável sem prejuízo dos requisitos em vigor em matéria de qualidade das embalagens, tais como os relativos à segurança, à protecção da saúde e à higiene dos produtos embalados, e igualmente sem prejuízo dos requisitos em vigor em matéria de transporte ou do disposto na Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos (2)."
+  },
+  "a63058f006eb574f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nDefinições Para efeitos da presente directiva, entende-se por:\n\n1. «Embalagem», todos os produtos feitos de quaisquer materiais, seja qual for a sua natureza, utilizados para conter, proteger, movimentar, entregar e apresentar mercadorias, desde as matérias-primas até aos produtos transformados, e desde o produtor até ao utilizador ou consumidor. Todos os artigos «descartáveis» utilizados para os mesmos fins devem ser considerados embalagens.\n\nA definição de «embalagem» engloba apenas:\n\na) Embalagem de venda ou embalagem primária, ou seja, qualquer embalagem concebida com o objectivo de constituir uma unidade de venda ao utilizador ou consumidor final no ponto de compra;\n\nb) Embalagem grupada ou embalagem secundária, ou seja, qualquer embalagem concebida com o objectivo de constituir, no ponto de compra, uma grupagem de determinado número de unidades de venda, quer estas sejam vendidas como tal ao utilizador ou consumidor final, quer sejam apenas utilizadas como meio de reaprovisionamento do ponto de venda; este tipo de embalagem pode ser retirado do produto sem afectar as suas características;\n\nc) Embalagem de transporte ou embalagem terciária, ou seja, qualquer embalagem concebida com o objectivo de facilitar a movimentação e o transporte de uma série de unidades de venda ou embalagens grupadas, a fim de evitar danos físicos durante a movimentação e o transporte. A embalagem de transporte não inclui os contentores para transporte rodoviário, ferroviário, marítimo e aéreo.\n\n2. «Resíduos de embalagem», qualquer embalagem ou material de embalagem abrangido pela definição de resíduo na Directiva 75/442/CEE, excluindo os resíduos de produção;\n\n3. «Gestão dos resíduos de embalagens», a gestão dos resíduos definida na Directiva 75/442/CEE;\n\n4. «Prevenção», a diminuição da quantidade e da nocividade para o ambiente de:\n\n- materiais e substâncias utilizados nas embalagens e nos resíduos de embalagens,\n\n- embalagens e resíduos de embalagens, a nível do processo de produção e nas fases de comercialização, distribuição, utilização e eliminação,\n\nem especial através do desenvolvimento de produtos e tecnologias «limpas»;\n\n5. «Reutilização» qualquer operação pela qual uma embalagem, concebida e projectada para perfazer um número mínimo de viagens ou rotações no seu ciclo de vida, é enchida de novo, com ou sem apoio de produtos auxiliares presentes no mercado que permitam o novo enchimento da própria embalagem, ou reutilizada para o mesmo fim para que foi concebida; as embalagens reutilizadas passarão a resíduos de embalagens ao deixarem de ser reutilizadas;\n\n6. «Valorização», qualquer das operações aplicáveis previstas no anexo II.B da Directiva 75/442/CEE;\n\n7. «Reciclagem», o reprocessamento, num processo de produção, dos resíduos para o fim inicial ou para outros fins, incluindo a reciclagem orgânica, mas não a valorização energética;\n\n8. «Valorização energética», a utilização de resíduos de embalagens combustíveis para a produção de energia através de incineração directa com ou sem outros tipos de resíduos, mas com recuperação do calor;\n\n9. «Reciclagem orgânica», o tratamento aeróbio (compostagem) ou anaeróbio (biometanização), através de microrganismos e em condições controladas, das partes biodegradáveis dos resíduos de embalagens, com produção de resíduos orgânicos estabilizados ou de metano. A deposição em aterros não pode ser considerada como forma de reciclagem orgânica;\n\n10. «Eliminação», qualquer das operações aplicáveis previstas no anexo II.A da Directiva 75/442/CEE;\n\n11. «Operadores económicos» no domínio das embalagens, os fornecedores de materiais de embalagem, os produtores e transformadores de embalagens, os embaladores e utilizadores, os importadores, os comerciantes e os distribuidores, as autoridades e organismos públicos;\n\n12. «Acordo voluntário», qualquer acordo formal entre as autoridades públicas competentes do Estado-membro e os sectores de actividade interessados, que deve ser aberto a todos os parceiros que pretendam dar-lhe cumprimento, de modo a contribuir para a realização dos objectivos da presente directiva."
+  },
+  "b776dea1bb112bf7": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nPrevenção 1. Os Estados-membros devem assegurar que, para além das medidas de prevenção de formação de resíduos de embalagens, adoptadas nos termos do artigo 9º, sejam tomadas outras medidas de prevenção, que podem consistir em programas de acção nacionais ou acções análogas, adoptadas, se for caso disso, em consulta com os operadores económicos, e destinadas a reunir e a beneficiar das múltiplas iniciativas dos Estados-membros no domínio da prevenção. Esses programas ou acções devem respeitar os objectivos da presente directiva, nos termos do nº 1 do artigo 1º 2. A Comissão contribuirá para a promoção da prevenção, incentivando a elaboração de normas europeias adequadas nos termos do artigo 10º"
+  },
+  "af1a8021e99a7c29": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nReutilização Os Estados-membros podem incentivar o uso de sistemas de reutilização das embalagens susceptíveis de serem reutilizadas em moldes que respeitem o ambiente, nos termos do Tratado."
+  },
+  "63ecfcacbc2384c5": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nValorização e reciclagem 1. A fim de dar cumprimento aos objectivos da presente directiva, os Estados-membros tomarão as medidas necessárias para atingir os seguintes objectivos no conjunto do seu território:\n\na) O mais tardar cinco anos a contar da data de aplicação da presente directiva, serão valorizados um mínimo de 50 % e um máximo de 65 %, em peso, dos resíduos de embalagens;\n\nb) Dentro deste objectivo global, e no mesmo prazo, serão reciclados entre um mínimo de 25 % e um máximo de 45 %, em peso, da totalidade dos materiais de embalagem contidos nos resíduos de embalagens, com um mínimo de 15 % para cada material de embalagem;\n\nc) O mais tardar dez anos a contar da data de aplicação da presente directiva, será valorizada e reciclada uma percentagem de resíduos de embalagens a determinar pelo Conselho nos termos da alínea b) do nº 3, a fim de aumentar significativamente os objectivos referidos nas alíneas a) e b).\n\n2. Sempre que necessário, os Estados-membros incentivarão o uso de materiais provenientes de resíduos de embalagens reciclados para o fabrico de embalagens e outros produtos.\n\n3. a) O Parlamento Europeu e o Conselho avaliarão com base num relatório intercalar da Comissão, e, quatro anos a contar da data referida na alínea a) do nº 1, com base num relatório final, a experiência adquirida nos Estados-membros no cumprimento dos objectivos referidos nas alíneas a) e b) do nº 1 e nº 2, bem como os resultados da investigação científica e das técnicas de avaliação, tais como os ecoblanços.\n\nb) O mais tardar seis meses antes do final da primeira fase de cinco anos referida na alínea a) do nº 1, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, definirá os objectivos quantitativos para a segunda fase de cinco anos referida na alínea c) do nº 1. Esse processo repetir-se-á posteriormente, de cinco em cinco anos.\n\n4. As medidas e objectivos referidos nas alíneas a) e b) do nº 1 serão publicados pelos Estados-membros e serão objecto de uma campanha de informação destinada ao grande público e aos operadores económicos.\n\n5. A Grécia, a Irlanda e Portugal, em virtude das suas características específicas, respectivamente o elevado número de pequenas ilhas, a existência de áreas rurais e montanhosas e o actual baixo nível de consumo de embalagens, podem decidir:\n\na) Realizar, o mais tardar cinco anos a contar da data de aplicação da presente directiva, objectivos menos ambiciosos do que os fixados nas alíneas a) e b) do nº 1 e no nº 2, devendo, porém, atingir um mínimo de 25 % para a valorização;\n\nb) Adiar simultaneamente a realização dos objectivos referidos nas alíneas a) e b) do nº 1 e no nº 2 para uma data que não deverá, porém, ser posterior a 31 de Dezembro de 2005.\n\n6. Os Estados-membros que tenham estabelecido ou venham a estabelecer programas mais avançados do que os objectivos referidos nas alíneas a) e b) do nº 1, e que, para esse efeito, prevejam capacidades adequadas de reciclagem e de valorização ficam autorizados a cumprir esses objectivos a fim de manter um elevado nível de protecção do ambiente, com a condição de essas medidas não causarem distorções do mercado interno e não impedirem o cumprimento da directiva por outros Estados-membros. Os Estados-membros manterão a Comissão informada. A Comissão confirmará essas medidas, após ter verificado, em cooperação com os Estados-membros, que as mesmas obedecem às considerações acima referidas e não constituem meios arbitrários de discriminação ou uma restrição dissimulada ao comércio entre Estados-membros."
+  },
+  "98712420f8e1871e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSistemas de recuperação, recolha e valorização 1. Os Estados-membros tomarão as medidas necessárias para assegurar a criação de sistemas que garantam:\n\na) A recuperação e/ou a recolha das embalagens usadas e/ou dos resíduos de embalagens provenientes do consumidor ou de qualquer outro utilizador final ou do fluxo de resíduos, de forma a canalizá-los para as soluções alternativas de gestão mais adequadas;\n\nb) A reutilização ou valorização incluindo a reciclagem das embalagens e/ou dos resíduos de embalagens recolhidos;\n\na fim de atingir os objectivos definidos na presente directiva.\n\nEstes sistemas serão abertos à participação dos operadores económicos dos sectores abrangidos e à participação das autoridades públicas competentes e aplicar-se-ão também aos produtos importados em condições não discriminatórias, incluindo as modalidades ou quaisquer tarifas de acesso aos sistemas, e serão concebidos de modo a evitar entraves ao comércio ou distorções da concorrência, nos termos do Tratado.\n\n2. As medidas referidas no nº 1 farão parte de uma política extensiva a todas as embalagens e resíduos de embalagens e terão especialmente em conta as exigências em matéria de protecção do ambiente e de defesa da saúde, segurança e higiene dos consumidores, a protecção da qualidade, da autenticidade e das características técnicas das mercadorias embaladas e dos materiais utilizados, bem como a protecção dos direitos de propriedade industrial e comercial."
+  },
+  "e620dac657af605b": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nMarcação e sistema de identificação 1. O mais tardar dois anos a contar de data de entrada em vigor da presente directiva, o Conselho, de acordo com as condições previstas no Tratado, decidirá da marcação das embalagens.\n\n2. Para facilitar a recolha, reutilização e valorização, incluindo a reciclagem, as embalagens indicarão a natureza do ou dos materiais de embalagem utilizados, para efeitos de identificação e classificação pela respectiva indústria.\n\nAs numerações e abreviaturas em que se baseará o sistema de identificação serão estabelecidas pela Comissão, com base no anexo I e nos termos do procedimento previsto no artigo 21º, o mais tardar doze meses a contar da data de entrada em vigor da presente directiva. A Comissão designará, nos termos do mesmo procedimento, os materiais que serão sujeitos ao sistema de identificação.\n\n3. A marcação adequada será aposta na própria embalagem ou no rótulo, devendo ser claramente visível e de fácil leitura. A marcação terá uma duração adequada, inclusivamente depois da abertura da embalagem."
+  },
+  "72c1b0cc75a4ca92": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nRequisitos essenciais 1. Três anos a contar da data de entrada em vigor da presente directiva, os Estados-membros garantirão que só possam ser colocadas no mercado embalagens que preencham todos os requisitos essenciais enunciados na presente directiva e no anexo II.\n\n2. A partir da data referida no nº 1 do artigo 22º, os Estados-membros presumirão que as embalagens preencham todos os requisitos essenciais enunciados na presente directiva e no anexo II, desde que respeitem:\n\na) As normas harmonizadas pertinentes cujos números de referência tenham sido publicados no Jornal Oficial das Comunidades Europeias; os Estados-membros publicarão os números de referência das normas nacionais de transposição das referidas normas harmonizadas;\n\nb) As normas nacionais pertinentes referidas no nº 3, sempre que, nas áreas abrangidas por essas normas, não existam normas harmonizadas.\n\n3. Os Estados-membros comunicarão à Comissão os textos das respectivas normas nacionais, a que se refere a alínea b) do nº 2, que considerem preencher os requisitos do presente artigo. A Comissão transmiti-los-á imediatamente aos restantes Estados-membros.\n\nOs Estados-membros publicarão as referências dessas normas. A Comissão assegurará a publicação dessas referências no Jornal Oficial das Comunidades Europeias.\n\n4. Se um Estado-membro ou a Comissão considerarem que as normas referidas no nº 2 não preenchem integralmente os requisitos essenciais referidos no nº 1, a Comissão ou o Estado-membro em questão submeterão a questão à apreciação do comité instituído pela Directiva 83/189/CEE, apresentando-lhe a devida justificação. O comité emitirá o seu parecer sem demora.\n\nEm função do parecer do comité, a Comissão informará os Estados-membros da eventual necessidade de retirarem as referidas normas das publicações mencionadas nos nºs 2 e 3."
+  },
+  "328fdb8793988a22": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nNormalização Sempre que necessário, a Comissão promoverá a elaboração de normas europeias relativas aos requisitos essenciais referidos no anexo II.\n\nA Comissão promoverá, em especial, a elaboração de normas europeias relativas a:\n\n- critérios e metodologias de análise do ciclo de vida da embalagem,\n\n- métodos de medição e verificação da presença de metais pesados e de outras substâncias perigosas na embalagem e sua libertação no ambiente a partir de embalagens e resíduos de embalagens,\n\n- critérios referentes à existência de um teor mínimo de material reciclado nas embalagens, para tipos de embalagem adequados,\n\n- critérios a adoptar quanto aos métodos de reciclagem,\n\n- critérios a adoptar quanto aos métodos de compostagem e ao composto produzido,\n\n- critérios a adoptar quanto à marcação das embalagens."
+  },
+  "f8799105583bfbac": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nNíveis de concentração de metais pesados nas embalagens 1. Os Estados-membros assegurarão que a soma dos níveis de concentração de chumbo, cádmio, mercúrio e crómio hexavalente presentes nas embalagens ou nos componentes de embalagens não exceda os seguintes valores:\n\n- 600 ppm em peso, dois anos a contar da data referida no nº1 do artigo 22º da presente directiva,\n\n- 250 ppm em peso, três anos a contar da data referida no nº 1 do artigo 22º da presente directiva,\n\n- 100 ppm em peso, cinco anos a contar da data referida no nº 1 do artigo 22º da presente directiva.\n\n2. Os níveis de concentração referidos no nº 1 não são aplicáveis às embalagens feitas exclusivamente de cristal de chumbo, na definição que lhe é dada na Directiva 69/493/CEE (1).\n\n3. A Comissão determinará, nos termos do procedimento previsto no artigo 21º:\n\n- as condições em que os níveis de concentração acima referidos não serão aplicáveis a materiais reciclados e a circuitos de produtos numa cadeia fechada e controlada,\n\n- os tipos de embalagens isentos do requisito referido no terceiro travessão do nº 1."
+  },
+  "29c791cabb500e8f": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nSistemas de informação 1. Os Estados-membros tomarão as medidas necessárias para garantir a criação de bases de dados relativos às embalagens e resíduos de embalagens, caso ainda não existam, de modo a permitir que tanto eles como a Comissão acompanhem o cumprimento dos objectivos da presente directiva.\n\n2. Para o efeito, as bases de dados devem, em particular, fornecer informações sobre o volume, características e evolução dos fluxos de embalagens e resíduos de embalagens (incluindo as informações sobre o conteúdo tóxico ou perigoso dos materiais de embalagem e dos componentes utilizados no seu fabrico), a nível de cada Estado-membro.\n\n3. Para harmonizar as características e apresentação dos dados obtidos, e para compatibilizar os dados dos diferentes Estados-membros, a transmissão desses dados à Comissão pelos Estados-membros respeitará os formatos a adoptar pela Comissão no prazo de um ano a contar da data de adopção da presente directiva, nos termos do procedimento previsto no artigo 21º, com base no anexo III.\n\n4. Os Estados-membros terão em consideração os problemas específicos das pequenas e médias empresas no fornecimento de dados pormenorizados.\n\n5. Os dados obtidos serão fornecidos juntamente com os relatórios nacionais referidos no artigo 17º e actualizados nos relatórios subsequentes.\n\n6. Os Estados-membros exigirão a todos os operadores económicos interessados a apresentação às autoridades competentes de dados fiáveis sobre o seu sector, impostos pelo presente artigo."
+  },
+  "2db4ed126d4376b2": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nInformação para os utilizadores das embalagens Os Estados-membros tomarão medidas, durante os dois anos seguintes à data referida no nº 1 do artigo 22º, para assegurar que todos os utilizadores de embalagens, em especial os consumidores, disponham das informações necessárias sobre:\n\n- os sistemas de recuperação, recolha e valorização de que dispõem,\n\n- a possibilidade de contribuírem para reutilização, valorização e reciclagem de embalagens e resíduos de embalagens,\n\n- o significado das marcações nas embalagens existentes no mercado,\n\n- os elementos adequados dos planos de gestão das embalagens e resíduos de embalagens, referidos no artigo 14º"
+  },
+  "8fcf2faccc3a3aff": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nPlanos de gestão Para realizar os objectivos e as medidas previstos na presente directiva, os Estados-membros incluirão nos planos de gestão de resíduos exigidos no artigo 7º da Directiva 75/442/CEE, um capítulo específico sobre gestão de embalagens e resíduos de embalagens, incluindo as medidas tomadas nos termos dos artigos 4º e 5º"
+  },
+  "79ba4c75d006fdc5": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nInstrumentos económicos O Conselho, deliberando com base nas disposições aplicáveis do Tratado, adoptará instrumentos económicos destinados a promover o cumprimento dos objectivos da presente directiva. Na falta dessas medidas, os Estados-membros podem adoptar medidas destinadas a cumprir esses objectivos, de acordo com os princípios que regulam a política de ambiente da Comunidade, designadamente o princípio do «poluidor-pagador», e em observância das obrigações decorrentes do Tratado."
+  },
+  "5b7324795f982a4f": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nNotificação 1. Sem prejuízo da Directiva 83/189/CEE, e antes de adoptarem essas medidas, os Estados-membros notificarão a Comissão dos projectos de medidas que tencionem adoptar no âmbito da presente directiva, excepto das medidas de natureza fiscal, mas incluindo as especificações técnicas associadas a medidas fiscais de incentivo ao cumprimento dessas especificações técnicas, para que a Comissão possa analisá-las à luz das disposições existentes, seguindo em cada caso o procedimento da directiva acima referida.\n\n2. Se a medida proposta for também de natureza técnica na acepção da Directiva 83/189/CEE, os Estados-membros em questão, ao cumprirem as formalidades de notificação referidas na presente directiva, podem indicar que a notificação é igualmente válida para a Directiva 83/189/CEE."
+  },
+  "5161ad98c203de74": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nObrigação de apresentar relatórios Os Estados-membros apresentarão um relatório sobre a aplicação da presente directiva à Comissão, nos termos do artigo 5º da Directiva 91/692/CEE do Conselho, de 23 de Dezembro de 1991, relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente (1). O primeiro relatório abrangerá o período de 1995 a 1997."
+  },
+  "c5e236a15520b44e": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nLiberdade de colocação no mercado Os Estados-membros não impedirão a colocação no mercado do seu território de embalagens que estejam em conformidade com o disposto na presente directiva."
+  },
+  "7d0cbf5cb0fcd3b1": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nAdaptação ao progresso científico e técnico As alterações necessárias para adaptar ao progresso científico e técnico o sistema de identificação, referido no nº 2 do artigo 8º, no último travessão do artigo 10º e no anexo I, bem como os programas relacionados com o sistema de bases de dados referidos no nº 3 do artigo 12º e no anexo III, serão adoptados nos termos do procedimento previsto no artigo 21º"
+  },
+  "bbf2d9a4c005e403": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nMedidas específicas 1. A Comissão determinará, de acordo com o procedimento previsto no artigo 21º, as medidas técnicas necessárias para solucionar quaisquer dificuldades de aplicação das disposições da presente directiva, nomeadamente às embalagens primárias para dispositivos médicos e produtos farmacêuticos, às pequenas embalagens e às embalagens de luxo.\n\n2. A Comissão apresentará também ao Parlamento Europeu e ao Conselho um relatório sobre qualquer outra medida a tomar, eventualmente acompanhado de uma proposta."
+  },
+  "c8c84e26dde063db": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nProcedimento de comitologia 1. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo que não pode em caso algum ultrapassar três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "855f4630a8cce5d6": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nTransposição para o direito nacional 1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 30 de Junho de 1996. Desse facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adaptadas pelos Estados-membros.\n\n3. Além disso, os Estados-membros comunicarão à Comissão todas as disposições legislativas, regulamentares e administrativas existentes adoptadas no âmbito da presente directiva.\n\n4. Os requisitos para o fabrico das embalagens não se aplicarão, de qualquer modo, às embalagens utilizadas para um dado produto antes da data de entrada em vigor da presente directiva.\n\n5. Os Estados-membros autorizarão, por um período não superior a cinco anos a contar da data de entrada em vigor da presente directiva, a colocação no mercado de embalagens fabricadas antes desta data e que estejam em conformidade com o respectivo direito nacional vigente."
+  },
+  "bc5b72ddc1e17337": {
+   "fragment_id": "Artigo 23º — A Directiva 85/339/CEE é revogada na data referida no nº 1 do artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 23º — A Directiva 85/339/CEE é revogada na data referida no nº 1 do artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º — A Directiva 85/339/CEE é revogada na data referida no nº 1 do artigo 22º"
+  },
+  "2347d8814538a3f4": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "f1a232b380c00614": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Dezembro de 1994.\n\nPelo Parlamento Europeu O Presidente K. HAENSCH Pelo Conselho O Presidente K. KINKEL\n\n(1) JO nº C 263 de 12. 10. 1992, p. 1 e JO nº 285 de 21.10.1993, p. 1.\n\n(2) JO nº C 129 de 10. 5. 1993, p. 18.\n\n(3) Parecer do Parlamento Europeu de 23 de Junho de 1994 (JO nº C 194 de 19. 7. 1994, p. 177), posição comum do Conselho de 4 de Março de 1994 e decisão do Parlamento Europeu de 8 de Maio de 1994 (JO nº C 205 de 25. 7. 1994, p. 163). Confirmado em 2 de Dezembro de 1993 (JO nº C 342 de 20. 12. 1993, p. 15). Projecto comum do Comité de conciliação, de 8 de Novembro de 1994.\n\n(4) JO nº L 176 de 6. 7. 1985, p. 18.\n\n(5) JO nº C 122 de 18. 5. 1990, p. 2.\n\n(6) JO nº L 194 de 25. 7. 1975, p. 47. Directiva com a última redacção que lhe foi dada pela Directiva 91/156/CEE (JO nº L 78 de 26. 3. 1991, p. 32).\n\n(1) JO nº L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Directiva 92/400/CEE (JO nº L 221 de 6. 8. 1992, p. 55).\n\n(2) JO nº L 377 de 31. 12. 1991, p. 20.\n\n(1) JO nº L 326 de 29. 12. 1969, p. 36.\n\n(1) JO nº L 377 de 31. 12. 1991, p. 48."
+  },
+  "481b5753ad6c92bb": {
+   "fragment_id": "ANEXO I — SISTEMA DE IDENTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO I — SISTEMA DE IDENTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — SISTEMA DE IDENTIFICAÇÃO\n\nPara os plásticos, utilizar-se-á uma numeração de 1 a 19; para o papel e o cartão, de 20 a 39; para o metal, de 40 a 49; para a madeira, de 50 a 59; para os têxteis, de 60 a 69; para o vidro, de 70 a 79.\n\nA identificação pode também ser feita utilizando a sigla do ou dos materiais utilizados (por exemplo: HDPE - polietileno de alta densidade (high density polyethylene). Para a identificação dos materiais, podem ser utilizados números, siglas ou ambos. As referidas formas de identificação devem ser inscritas no centro ou por baixo da marca que identifica o carácter reutilizável ou valorizável da embalagem."
+  },
+  "7ccaeccb92a854f2": {
+   "fragment_id": "ANEXO II — REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS",
+   "type": "divisao",
+   "heading": "ANEXO II — REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS\n\n1. Requisitos específicos de fabrico e composição das embalagens - As embalagens devem ser fabricadas de forma a que o respectivo peso e volume não excedam o valor mínimo necessário para manter níveis de segurança, higiene e aceitação adequados para o produto embalado e para o consumidor.\n\n- As embalagens devem ser concebidas, produzidas e comercializadas de forma a permitir a sua reutilização, valorização, ou reciclagem e a minimizar o impacte sobre o ambiente quando são eliminados os resíduos de embalagens ou o remanescente das operações de gestão de resíduos de embalagens.\n\n- As embalagens devem ser fabricadas de modo a minimizar a presença de substâncias nocivas e outras substâncias e matérias perigosas no material das embalagens ou de qualquer dos seus componentes no que diz respeito à sua presença em emissões, cinzas ou lixiviados, aquando da incineração ou descarga em aterros sanitários das embalagens ou do remanescente das operações de gestão de resíduos de embalagens.\n\n2. Requisitos específicos da possibilidade de reutilização das embalagens Devem ser preenchidos cumulativamente os seguintes requisitos:\n\n- as propriedades físicas e as características das embalagens devem permitir um certo número de viagens ou rotações, em condições de utilização normais previsíveis,\n\n- as embalagens usadas devem poder ser tratadas de forma a respeitar os requisitos de saúde e segurança dos trabalhadores,\n\n- os requisitos específicos das embalagens valorizáveis devem ser cumpridos quando as embalagens deixam de ser reutilizadas e se transformam em resíduos.\n\n3. Requisitos específicos da possibilidade de valorização das embalagens a) Embalagens valorizáveis sob a forma de reciclagem do material As embalagens devem ser fabricadas de forma a permitir a reciclagem de uma certa percentagem, em peso, dos materiais utilizados no fabrico de produtos comercializáveis, em cumprimento das normas em vigor na Comunidade. A determinação da referida percentagem pode variar segundo o tipo de material que constitui a embalagem.\n\nb) Embalagens valorizáveis sob a forma de valorização energética Os resíduos de embalagens tratados para efeitos de valorização energética devem ter um poder calorífico inferior mínimo que permita optimizar a valorização energética.\n\nc) Embalagens valorizáveis sob a forma de composto Os resíduos de embalagens tratados para efeitos de compostagem devem ser recolhidos separadamente e devem ser biodegradáveis, de forma a não entravar o processo ou actividade de compostagem em que são introduzidos.\n\nd) Embalagens biodegradáveis Os resíduos de embalagens biodegradáveis deverão ter características que permitam uma decomposição física, química, térmica ou biológica de que resulte que a maioria do composto final acabe por se decompor em dióxido de carbono, biomassa e água."
+  },
+  "18715577d94347b7": {
+   "fragment_id": "ANEXO III — DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)",
+   "type": "divisao",
+   "heading": "ANEXO III — DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)\n\n1. Em relação às embalagens tanto primárias como secundárias ou terciárias:\n\na) As quantidades, para cada grande categoria de materiais, das embalagens consumidas no território nacional (produzidas &minus; exportadas + importadas) (quadro 1);\n\nb) As quantidades reutilizadas (quadro 2).\n\n2. Em relação aos resíduos de embalagens, tanto domésticos como não domésticos:\n\na) As quantidades, para cada grande categoria de materiais, valorizadas e eliminadas no território nacional (produzidas &minus; exportadas + importadas) (quadro 3);\n\nb) As quantidades recicladas e as quantidades valorizadas para cada grande categoria de materiais (quadro 4).\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "11323fc3cf696137": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 1994\n\nrelativa a embalagens e resíduos de embalagens"
+  },
+  "04f3864fac64b6b4": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva tem por objecto a harmonização das disposições nacionais respeitantes à gestão de embalagens e de resíduos de embalagens a fim de, por um lado, prevenir e reduzir o seu impacte no ambiente, em todos os Estados-membros, assim como em países terceiros, assegurando assim um elevado nível de protecção do ambiente, e, por outro lado, garantir o funcionamento do mercado interno e evitar entraves ao comércio e distorções e restrições de concorrência na Comunidade.\n\n2. Para esse efeito, a presente diretiva estabelece medidas que visam, como primeira prioridade, evitar a produção de resíduos de embalagens e, como princípios fundamentais adicionais, a reutilização das embalagens, a reciclagem e as outras formas de valorização dos resíduos de embalagens, e, por conseguinte, a redução da eliminação final desses resíduos, a fim de contribuir para a transição para uma economia circular."
+  },
+  "2f828e15a075626b": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1. A presente directiva abrange todas as embalagens colocadas no mercado da Comunidade e todos os resíduos de embalagens, sejam eles utilizados ou produzidos a nível da indústria, do comércio, de escritórios, lojas ou serviços, a nível doméstico ou a qualquer outro nível, e independentemente do material utilizado.\n\n2. A presente directiva é aplicável sem prejuízo dos requisitos em vigor em matéria de qualidade das embalagens, tais como os relativos à segurança, à protecção da saúde e à higiene dos produtos embalados, e igualmente sem prejuízo dos requisitos em vigor em matéria de transporte ou do disposto na Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^1^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0001))."
+  },
+  "64902bfeb4f3f992": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Embalagem», todos os produtos feitos de quaisquer materiais, seja qual for a sua natureza, utilizados para conter, proteger, movimentar, entregar e apresentar mercadorias, desde as matérias-primas até aos produtos transformados, e desde o produtor até ao utilizador ou consumidor. Todos os artigos «descartáveis» utilizados para os mesmos fins devem ser considerados embalagens.\n\na) Embalagem de venda ou embalagem primária, ou seja, qualquer embalagem concebida com o objectivo de constituir uma unidade de venda ao utilizador ou consumidor final no ponto de compra;\n\nb) Embalagem grupada ou embalagem secundária, ou seja, qualquer embalagem concebida com o objectivo de constituir, no ponto de compra, uma grupagem de determinado número de unidades de venda, quer estas sejam vendidas como tal ao utilizador ou consumidor final, quer sejam apenas utilizadas como meio de reaprovisionamento do ponto de venda; este tipo de embalagem pode ser retirado do produto sem afectar as suas características;\n\nc) Embalagem de transporte ou embalagem terciária, ou seja, qualquer embalagem concebida com o objectivo de facilitar a movimentação e o transporte de uma série de unidades de venda ou embalagens grupadas, a fim de evitar danos físicos durante a movimentação e o transporte. A embalagem de transporte não inclui os contentores para transporte rodoviário, ferroviário, marítimo e aéreo.\n\ni) Serão considerados embalagens os artigos que se enquadrem na definição dada acima, sem prejuízo de outras funções que a embalagem possa igualmente desempenhar, a menos que o artigo seja parte integrante de um produto e seja necessário para conter, suportar ou conservar esse produto ao longo da sua vida e todos os elementos se destinem a ser utilizados, consumidos ou eliminados em conjunto.\n\nii) Serão considerados embalagens os artigos que se destinem a um enchimento no ponto de venda e os artigos «descartáveis» vendidos, cheios ou concebidos para e destinados a um enchimento no ponto de venda, desde que desempenhem uma função de embalagem.\n\niii) Os componentes de embalagens e os elementos acessórios integrados em embalagens serão considerados parte das embalagens em que estão integrados. Os elementos acessórios directamente apensos ou apostos a um produto e que desempenhem uma função de embalagem serão considerados embalagens, a menos que sejam parte integrante desse produto e todos os elementos se destinem a ser consumidos ou eliminados em conjunto.\n\n1-A. «Plástico», um polímero na aceção do artigo 3.º, n.º 5, do Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0002)), ao qual podem ter sido acrescentados aditivos ou outras substâncias e que pode constituir o principal componente estrutural de sacos;\n\n1-B. «Saco de plástico», um saco, com ou sem pega, feito de plástico, que é fornecido ao consumidor no ponto de venda de mercadorias ou produtos;\n\n1-C. «Saco de plástico leve», um saco de plástico com uma parede de espessura inferior a 50 μm;\n\n1-D. «Saco de plástico muito leve», um saco de plástico com uma parede de espessura inferior a 15 μm necessário para efeitos de higiene ou fornecido como embalagem primária de alimentos a granel quando isso ajudar a evitar o desperdício de alimentos;\n\n1-E. «Saco de plástico oxodegradável», um saco de plástico feito de matéria plástica que inclui aditivos que catalisam a fragmentação da matéria plástica em microfragmentos;\n\n2. «Resíduos de embalagens», qualquer embalagem ou material de embalagem abrangido pela definição de resíduos estabelecida no artigo 3.º da Diretiva 2008/98/CE, excluindo os resíduos de produção;\n\n2-A. «Embalagem reutilizável», embalagem que tenha sido concebida, projetada e colocada no mercado para perfazer múltiplas viagens ou rotações no seu ciclo de vida através de um novo enchimento ou da reutilização para o mesmo fim para que foi concebida;\n\n2-B. «Embalagem compósita», embalagem constituída por duas ou mais camadas de materiais diferentes, que não podem ser separadas manualmente e que formam uma unidade única e integral, que consiste num recipiente interior e num invólucro exterior e que pode ser enchida, armazenada, transportada e esvaziada como tal;\n\n2-C. São aplicáveis as definições de «resíduos», «gestão de resíduos», «recolha», «recolha seletiva», «prevenção», «reutilização», «tratamento», «valorização», «reciclagem», «eliminação» e «regime de responsabilidade alargada do produtor» estabelecidas no artigo 3.º da Diretiva 2008/98/CE;\n\n11. «Operadores económicos» no domínio das embalagens, os fornecedores de materiais de embalagem, os produtores e transformadores de embalagens, os embaladores e utilizadores, os importadores, os comerciantes e os distribuidores, as autoridades e organismos públicos;\n\n12. «Acordo voluntário», qualquer acordo formal entre as autoridades públicas competentes do Estado-membro e os sectores de actividade interessados, que deve ser aberto a todos os parceiros que pretendam dar-lhe cumprimento, de modo a contribuir para a realização dos objectivos da presente directiva."
+  },
+  "d39da6834a14f080": {
+   "fragment_id": "Artigo 4.º — Prevenção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prevenção\n\n1. Os Estados-Membros asseguram que, para além das medidas tomadas nos termos do artigo 9.º, são tomadas outras medidas preventivas a fim de evitar a produção de resíduos de embalagens e a minimizar o impacto ambiental das embalagens.\n\nAs outras medidas preventivas referidas podem consistir em programas nacionais, incentivos através de regimes de responsabilidade alargada do produtor para reduzir ao mínimo o impacto ambiental das embalagens ou em ações análogas, adotadas, se for caso disso, em consulta com os operadores económicos, as organizações de consumidores e as organizações ambientais e concebidas para reunir e aproveitar as múltiplas iniciativas dos Estados-Membros em matéria de prevenção.\n\nOs Estados-Membros utilizam instrumentos económicos e outras medidas de incentivo à aplicação da hierarquia dos resíduos, como os indicados no anexo IV-A da Diretiva 2008/98/CE ou outros instrumentos e medidas adequados.\n\n1-A. Os Estados-Membros tomam medidas com o objetivo de conseguir uma redução sustentada do consumo de sacos de plástico leves nos seus territórios.\n\nEssas medidas podem incluir o recurso a metas nacionais de redução, mantendo ou introduzindo instrumentos económicos e restrições à colocação no mercado, em derrogação do artigo 18.º, desde que tais restrições sejam proporcionadas e não discriminatórias.\n\nEssas medidas podem variar em função do impacto ambiental dos sacos de plástico leves ao serem valorizados ou eliminados, das suas propriedades de compostagem, da sua durabilidade ou da sua pretendida utilização específica.\n\nAs medidas tomadas pelos Estados-Membros devem incluir uma das seguintes medidas, ou ambas:\n\na) a adoção de medidas que garantam que o nível de consumo anual não exceda 90 sacos de plástico leves por pessoa até 31 de dezembro de 2019 e 40 sacos de plástico leves por pessoa até 31 de dezembro de 2025, ou metas equivalentes expressas em peso. Os sacos de plástico muito leves podem ser excluídos dos objetivos nacionais de consumo;\n\nb) a adoção de instrumentos que garantam que, até 31 de dezembro de 2018, os sacos de plástico leves não sejam fornecidos gratuitamente nos pontos de venda de mercadorias ou produtos, a menos que sejam aplicados instrumentos igualmente eficazes. Os sacos de plástico muito leves podem ser excluídos dessas medidas.\n\nA partir de 27 de maio de 2018, os Estados-Membros prestam informações sobre o consumo anual de sacos de plástico leves quando fornecerem dados sobre embalagens e resíduos de embalagens à Comissão nos termos do artigo 12.º.\n\nAté partir de 27 de maio de 2016, a Comissão adota um ato de execução que estabelece a metodologia para o cálculo do consumo anual por pessoa de sacos de plástico leves e adapta os modelos de relatório adotados nos termos do artigo 12.º, n.º 3. Esse ato de execução é adotado pelo procedimento de regulamentação a que se refere o artigo 21.º, n.º 2.\n\n1-B. Sem prejuízo do artigo 15.º, os Estados-Membros podem tomar medidas, como instrumentos económicos e metas nacionais de redução, no que diz respeito a qualquer tipo de sacos de plástico, independentemente da espessura da sua parede.\n\n1-C. A Comissão e os Estados-Membros devem incentivar ativamente, pelo menos durante o primeiro ano após 27 de novembro de 2016, campanhas de informação e sensibilização do público sobre o impacto ambiental negativo do consumo excessivo de sacos de plástico leves.\n\n2. A Comissão contribuirá para a promoção da prevenção, incentivando a elaboração de normas europeias adequadas, nos termos do artigo 10.º Estas normas devem procurar reduzir ao mínimo o impacte ambiental das embalagens, nos termos dos artigos 9.º e 10.º"
+  },
+  "1da71273f0c8e54d": {
+   "fragment_id": "Artigo 5.º — Reutilização",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reutilização\n\n1.\n\nDe acordo com a hierarquia dos resíduos estabelecida no artigo 4.º da Diretiva 2008/98/CE, os Estados-Membros tomam medidas para incentivar o aumento da parte de embalagens reutilizáveis colocadas no mercado e de sistemas de reutilização de embalagens de forma ambientalmente correta e em conformidade com o Tratado, sem pôr em risco a higiene alimentar e a segurança dos consumidores. Essas medidas podem incluir, entre outras:\n\na) A utilização de sistemas de consignação;\n\nb) O estabelecimento de metas qualitativas ou quantitativas;\n\nc) A utilização de incentivos económicos;\n\nd) A fixação de uma percentagem mínima de embalagens reutilizáveis colocadas no mercado em cada ano e para cada fluxo de embalagens.\n\n2. Os Estados-Membros podem decidir alcançar um nível ajustado das metas referidas no artigo 6.º, n.º 1, alíneas f) a i), em relação a um dado ano, tendo em conta a parte média, nos três anos anteriores, de embalagens de venda reutilizáveis colocadas no mercado pela primeira vez e reutilizadas no âmbito de um sistema de reutilização das embalagens.\n\nO nível ajustado é calculado subtraindo:\n\na) Das metas fixadas no artigo 6.º, n.º 1, alíneas f) e h), a parte das embalagens de venda reutilizáveis referidas no primeiro parágrafo do presente número no total das embalagens de venda colocadas no mercado; e\n\nb) Das metas fixadas no artigo 6.º, n.º 1, alíneas g) e i), a parte das embalagens de venda reutilizáveis referidas no primeiro parágrafo do presente número, contendo o respetivo material de embalagem, no total das embalagens de venda contendo esse material colocadas no mercado.\n\nNo cálculo dos níveis ajustados das metas, não podem ser tidos em conta mais de cinco pontos percentuais dessa proporção.\n\n3. Os Estados-Membros podem ter em conta as quantidades de embalagens de madeira reparadas para reutilização no cálculo das metas fixadas no artigo 6.º, n.º 1, alínea f), alínea g), subalínea ii), alínea h) e alínea i), subalínea ii).\n\n4. A fim de assegurar condições uniformes de aplicação dos n.^os^ 2 e 3 do presente artigo, a Comissão adota até 31 de março de 2019 atos de execução que estabelecem regras para o cálculo, a verificação e a comunicação de dados e para o cálculo das metas estabelecidas no n.º 3 do presente artigo. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 21.º, n.º 2.\n\n5. Até 31 de dezembro de 2024, a Comissão analisa os dados sobre embalagens reutilizáveis fornecidos pelos Estados-Membros nos termos do artigo 12.º e do anexo III, a fim de ponderar a viabilidade de estabelecer metas quantitativas para a reutilização de embalagens, incluindo as regras de cálculo, e quaisquer outras medidas que promovam a reutilização de embalagens. Para esse efeito, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório, acompanhado, se for caso disso, de uma proposta legislativa."
+  },
+  "b4ec5f51dbc4b3b0": {
+   "fragment_id": "Artigo 6.º — Valorização e reciclagem",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Valorização e reciclagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Valorização e reciclagem\n\n1.\n\nPara cumprirem os objectivos estabelecidos na presente directiva, os Estados-Membros tomarão as medidas necessárias para atingirem as seguintes metas em todo o seu território:\n\na) Até 30 de Junho de 2001, serão valorizados ou incinerados em instalações de incineração de resíduos com recuperação de energia entre, no mínimo, 50 % e, no máximo, 65 % em peso dos resíduos de embalagens;\n\nb) Até 31 de Dezembro de 2008, serão valorizados ou incinerados em instalações de incineração de resíduos com recuperação de energia, no mínimo, 60 % em peso dos resíduos de embalagens;\n\nc) Até 30 de Junho de 2001, serão reciclados entre, no mínimo, 25 % e, no máximo, 45 % em peso da totalidade dos materiais de embalagem contidos nos resíduos de embalagens, com 15 %, no mínimo, em peso, para cada material de embalagem;\n\nd) Até 31 de Dezembro de 2008, serão reciclados entre, no mínimo, 55 % e, no máximo, 80 % em peso dos resíduos de embalagens;\n\ne) Até 31 de Dezembro de 2008, serão alcançados os seguintes objectivos mínimos de reciclagem para os materiais contidos nos resíduos de embalagens:\n\ni) 60 % em peso para o vidro,\n\nii) 60 % em peso para o papel e cartão.\n\niii) 50 % em peso para os metais.\n\niv) 22,5 % em peso para os plásticos, contando exclusivamente o material que for reciclado sob a forma de plásticos,\n\nv) 15 % em peso para a madeira;\n\nf) Até 31 de dezembro de 2025, devem ser reciclados pelo menos 65 %, em peso, de todos os resíduos de embalagens;\n\ng) Até 31 de dezembro de 2025, devem ser cumpridas as seguintes metas mínimas, em peso, no que respeita à reciclagem dos seguintes materiais específicos contidos nos resíduos de embalagens:\n\ni) 50 % do plástico,\n\nii) 25 % da madeira,\n\niii) 70 % dos metais ferrosos,\n\niv) 50 % do alumínio,\n\nv) 70 % do vidro,\n\nvi) 75 % do papel e do cartão;\n\nh) Até 31 de dezembro de 2030, devem ser reciclados pelo menos 70 %, em peso, de todos os resíduos de embalagens;\n\ni) Até 31 de dezembro de 2030, devem ser cumpridas as seguintes metas mínimas, em peso, no que respeita à reciclagem dos seguintes materiais específicos contidos nos resíduos de embalagens:\n\ni) 55 % do plástico,\n\nii) 30 % da madeira,\n\niii) 80 % dos metais ferrosos,\n\niv) 60 % do alumínio,\n\nv) 75 % do vidro,\n\nvi) 85 % do papel e do cartão.\n\n1-A.\n\nSem prejuízo do disposto no n.º 1, alíneas f) e h), os Estados-Membros podem prorrogar os prazos para cumprimento das metas a que se refere o n.º 1, alínea g), subalíneas i) a vi), e alínea i), subalíneas i) a vi), por um máximo de cinco anos, nas seguintes condições:\n\na) A derrogação seja limitada a um máximo de 15 pontos percentuais de uma única meta ou repartida entre duas metas;\n\nb) Em consequência da derrogação, a taxa de reciclagem para uma única meta não seja reduzida para um nível inferior a 30 %;\n\nc) Em consequência da derrogação, a taxa de reciclagem para uma única meta referida no n.º 1, alínea g), subalíneas v) e vi), e alínea i), subalíneas v) e vi), não seja reduzida para um nível inferior a 60 %; e\n\nd) O mais tardar 24 meses antes do termo do respetivo prazo fixado no n.º 1, alínea g) ou alínea i), do presente artigo, o Estado-Membro notifique a Comissão da sua intenção de prorrogar esse prazo e apresente um plano de execução nos termos do anexo IV da presente diretiva. Os Estados-Membros podem combinar esse plano com um plano de execução apresentado nos termos do artigo 11.º, n.º 3, alínea b), da Diretiva 2008/98/CE.\n\n1-B. No prazo de três meses a contar da receção do plano de execução apresentado por força do n.º 1-A, alínea d), a Comissão pode solicitar a um Estado-Membro que reveja esse plano de execução se a Comissão considerar que o plano não cumpre os requisitos estabelecidos no anexo IV. O Estado-Membro em causa apresenta um plano revisto no prazo de três meses a contar da receção do pedido da Comissão.\n\n1-C. Até 31 de dezembro de 2024, a Comissão reexamina as metas fixadas no n.º 1, alíneas h) e i), tendo em vista mantê-las ou, se for caso disso, aumentá-las. Para esse efeito, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho um relatório, acompanhado, se for caso disso, de uma proposta legislativa.\n\n4.\n\nOs Estados-Membros fomentarão, se necessário, a utilização dos materiais obtidos com a reciclagem dos resíduos de embalagens no fabrico de embalagens e outros produtos, ao:\n\na) Melhorarem as condições de comercialização desses materiais;\n\nb) Reverem a legislação em vigor que proíbe a utilização desses materiais.\n\n6. Os Estados-Membros publicarão as medidas e objectivos referidos no n.º 1, que devem ser objecto de uma campanha de informação do público e dos operadores económicos.\n\n7.\n\nEm virtude da sua situação específica, ou seja, respectivamente, do elevado número de pequenas ilhas, da existência de zonas rurais e montanhosas e do actual baixo nível de consumo de embalagens, a Grécia, a Irlanda e Portugal decidem:\n\na) Cumprir, até 30 de Junho de 2001, objectivos inferiores aos fixados nas alíneas a) e c) do n.º 1, mas atingindo, pelo menos, 25 % da recuperação ou incineração em instalações de incineração de resíduos com recuperação de energia;\n\nb) Adiar ao mesmo tempo o cumprimento dos objectivos das alíneas a) e c) do n.º 1 para uma data-limite ulterior que não deverá, contudo, ser posterior a 31 de Dezembro de 2005;\n\nc) Adiar o cumprimento dos objectivos referidos nas alíneas b), d) e e) do n.º 1 para uma data à sua escolha, que não deverá, contudo, ser posterior a 31 de Dezembro de 2011.\n\n10. Os Estados-Membros que tenham estabelecido ou venham a estabelecer programas que ultrapassem os objectivos máximos previstos no n.º 1 e que disponham para o efeito de capacidades adequadas de reciclagem e valorização, são autorizados a prosseguir esses objectivos em prol de um elevado nível de protecção ambiental, desde que tais medidas evitem distorções do mercado interno e não obstem ao cumprimento da presente directiva por outros Estados-Membros. Os Estados-Membros informarão a Comissão do facto. A Comissão confirmará essas medidas, depois de ter verificado, em cooperação com os Estados-Membros, se são consentâneas com as referidas considerações e não constituem um meio arbitrário de discriminação ou uma restrição dissimulada ao comércio entre Estados-Membros.\n\n11. Os Estados-Membros cuja adesão à União Europeia foi feita nos termos do Tratado de Adesão de 16 de Abril de 2003 poderão postergar o cumprimento das metas referidas no n.º 1, alíneas b), d) e e), até uma data de sua própria escolha, a qual não deve ultrapassar as datas de 31 de Dezembro de 2012 no que respeita à República Checa, à Estónia, a Chipre, à Lituânia, à Hungria, à Eslovénia e à Eslováquia, 31 de Dezembro de 2013 no que respeita a Malta, 31 de Dezembro de 2014 no que respeita à Polónia e 31 de Dezembro de 2015 no que respeita à Letónia."
+  },
+  "268e5d197e7a131d": {
+   "fragment_id": "Artigo 6.º-A — Regras para calcular o cumprimento das metas",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A — Regras para calcular o cumprimento das metas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — Regras para calcular o cumprimento das metas\n\n1.\n\nPara calcular se as metas fixadas no artigo 6.º, n.º 1, alíneas f) a i), foram cumpridas:\n\na) Os Estados-Membros calculam o peso dos resíduos de embalagens gerados e reciclados num determinado ano civil. Pode considerar-se que a quantidade de resíduos de embalagens gerados num Estado-Membro é igual à quantidade de embalagens colocadas no mercado no mesmo ano nesse Estado-Membro;\n\nb) O peso dos resíduos de embalagens reciclados é calculado como o peso das embalagens que se tornaram resíduos que, após terem sido objeto de todas as operações de controlo, triagem e outras operações preliminares necessárias para remover os materiais constituintes dos resíduos que não são visados pelas operações posteriores de reprocessamento e para assegurar uma reciclagem de alta qualidade, entram na operação de reciclagem pela qual os materiais constituintes dos resíduos são efetivamente reprocessados em produtos, materiais ou substâncias.\n\n2. Para efeitos do n.º 1, alínea a), o peso dos resíduos de embalagens reciclados é medido quando os resíduos entram na operação de reciclagem.\n\nEm derrogação do primeiro parágrafo, o peso dos resíduos de embalagens reciclados pode ser medido à saída de qualquer operação de triagem, desde que:\n\na) Esses resíduos à saída da triagem sejam posteriormente reciclados;\n\nb) O peso dos materiais ou substâncias que são removidos por outras operações anteriores à operação de reciclagem e não são posteriormente reciclados não seja incluído no peso dos resíduos comunicados como reciclados.\n\n3. Os Estados-Membros devem criar um sistema eficaz de controlo da qualidade e rastreabilidade dos resíduos de embalagens, para garantir o respeito das condições estabelecidas no n.º 1, alínea a), e no n.º 2, alíneas a) e b), do presente artigo. Para garantir a fiabilidade e exatidão dos dados recolhidos sobre resíduos de embalagens reciclados, o sistema pode consistir em registos eletrónicos criados nos termos do artigo 35.º, n.º 4, da Diretiva 2008/98/CE, especificações técnicas relativas aos requisitos de qualidade dos resíduos triados ou taxas médias de perda para os resíduos triados para vários tipos de resíduos e práticas de gestão de resíduos, respetivamente. As taxas médias de perda só devem ser utilizadas quando não for possível obter dados fiáveis de outra forma e devem ser calculadas com base nas regras de cálculo estabelecidas no ato delegado adotado nos termos do artigo 11.º-A, n.º 10, da Diretiva 2008/98/CE.\n\n4. Para calcular se as metas fixadas no artigo 6.º, n.º 1, alíneas f) a i), foram cumpridas, a quantidade de resíduos de embalagens biodegradáveis que entra no tratamento aeróbio ou anaeróbio pode ser contabilizada como reciclada quando esse tratamento gerar um composto, digerido, ou outro produto resultante do tratamento com quantidades semelhantes de teor reciclado em relação aos resíduos que entram no tratamento, destinado a ser utilizado como produto, material ou substância reciclados. Caso o produto resultante do tratamento seja utilizado nos solos, os Estados-Membros só podem contabilizá-lo como reciclado se desta utilização resultar um benefício para a agricultura ou uma melhoria ambiental.\n\n5. A quantidade de materiais constituintes dos resíduos de embalagens que deixaram de ser resíduos em resultado de uma operação preparatória antes de serem reprocessados pode ser contabilizada como reciclada, desde que esses materiais se destinem a posterior reprocessamento em produtos, materiais ou substâncias a utilizar para o seu fim original ou para outros fins. Todavia, os materiais que deixaram de ser resíduos e que se destinam a ser utilizados como combustíveis ou outros meios de produção de energia, ou a ser incinerados, utilizados como enchimento ou depositados em aterro, não podem ser contabilizados para o cumprimento das metas de reciclagem.\n\n6. Para calcular se as metas fixadas no artigo 6.º, n.º 1, alíneas f) a i), foram cumpridas, os Estados-Membros podem ter em conta a reciclagem de metais separados após a incineração de resíduos proporcionalmente à parte que representa a quantidade de resíduos de embalagens incinerados, desde que os metais reciclados respeitem determinados critérios de qualidade estabelecidos no ato de execução adotado nos termos do artigo 11.º-A, n.º 9, da Diretiva 2008/98/CE.\n\n7. Os resíduos de embalagens enviados para outro Estado-Membro para fins de reciclagem nesse outro Estado-Membro só podem ser contabilizados para o cumprimento das metas fixadas no artigo 6.º, n.º 1, alíneas f) a i), relativamente ao Estado-Membro em que foram recolhidos.\n\n8. Os resíduos de embalagens exportados a partir da União só são contabilizados para o cumprimento das metas fixadas no artigo 6.º, n.º 1, da presente diretiva, relativamente ao Estado-Membro em que foram recolhidos se os requisitos do n.º 3 do presente artigo forem respeitados e se, em conformidade com o Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0006)), o exportador conseguir provar que a transferência de resíduos cumpre os requisitos do referido regulamento e que o tratamento dos resíduos de embalagens fora da União teve lugar em condições globalmente equivalentes às previstas no direito ambiental da União aplicável.\n\n9. A fim de assegurar condições uniformes de aplicação dos n.^os^ 1 a 5 do presente artigo, a Comissão adota, até 31 de março de 2019, atos de execução que estabelecem regras para o cálculo, a verificação e a comunicação de dados, nomeadamente no que diz respeito ao peso dos resíduos de embalagens gerados. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 21.º, n.º 2."
+  },
+  "e76beb1c3ed80cc6": {
+   "fragment_id": "Artigo 6.º-B — Relatório de alerta precoce",
+   "type": "artigo",
+   "heading": "Artigo 6.º-B — Relatório de alerta precoce",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-B — Relatório de alerta precoce\n\n1. A Comissão, em cooperação com a Agência Europeia do Ambiente, elabora relatórios sobre os progressos registados no cumprimento das metas estabelecidas no artigo 6.º, n.º 1, alíneas f) a i), o mais tardar três anos antes do termo de cada um dos prazos nelas fixados.\n\n2.\n\nOs relatórios referidos no n.º 1 devem incluir os seguintes elementos:\n\na) Uma estimativa do grau de cumprimento das metas por Estado-Membro;\n\nb) Uma lista dos Estados-Membros em risco de incumprimento das metas nos prazos fixados, acompanhada de recomendações adequadas para os Estados-Membros em causa;\n\nc) Exemplos das melhores práticas utilizadas na União e suscetíveis de fornecer orientações para se avançar no sentido do cumprimento das metas."
+  },
+  "20f13e71482bef29": {
+   "fragment_id": "Artigo 7.º — Sistemas de recuperação, recolha e valorização",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Sistemas de recuperação, recolha e valorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sistemas de recuperação, recolha e valorização\n\n1.\n\nA fim de cumprir os objetivos estabelecidos na presente diretiva, os Estados-Membros tomam as medidas necessárias para assegurar a criação de sistemas que garantam:\n\na) A recuperação e/ou a recolha das embalagens usadas e/ou dos resíduos de embalagens provenientes do consumidor ou de qualquer outro utilizador final ou do fluxo de resíduos, de forma a canalizá-los para as soluções alternativas de gestão mais adequadas;\n\nb) A reutilização ou valorização incluindo a reciclagem das embalagens e/ou dos resíduos de embalagens recolhidos.\n\nEsses sistemas devem ser abertos à participação dos operadores económicos dos sectores abrangidos e à participação das autoridades públicas competentes. Devem aplicar-se igualmente aos produtos importados em condições não discriminatórias, incluindo as modalidades ou quaisquer tarifas requeridas para acesso aos sistemas, e devem ser concebidos de modo a evitar entraves ao comércio ou distorções da concorrência, nos termos do Tratado.\n\n2. Os Estados-Membros asseguram que, até 31 de dezembro de 2024, sejam estabelecidos regimes de responsabilidade alargada do produtor para todas as embalagens, nos termos dos artigos 8.º e 8.º-A da Diretiva 2008/98/CE.\n\n3. As medidas referidas nos n.^os^ 1 e 2 fazem parte de uma política extensiva a todas as embalagens e resíduos de embalagens e ter especialmente em conta as exigências em matéria de proteção do ambiente e da saúde, segurança e higiene dos consumidores, de proteção da qualidade, autenticidade e características técnicas das mercadorias embaladas e dos materiais utilizados, bem como de proteção dos direitos de propriedade industrial e comercial.\n\n4. Os Estados-Membros tomam medidas para promover uma reciclagem de alta qualidade dos resíduos de embalagens e para cumprir os padrões de qualidade indispensáveis aos setores de reciclagem em causa. Para esse efeito, o artigo 11.º, n.º 1, da Diretiva 2008/98/CE é aplicável aos resíduos de embalagens, designadamente de embalagens compósitas."
+  },
+  "29fcf72fb1ffdd77": {
+   "fragment_id": "Artigo 8.º — Marcação e sistema de identificação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Marcação e sistema de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Marcação e sistema de identificação\n\n1. O mais tardar dois anos a contar de data de entrada em vigor da presente directiva, o Conselho, de acordo com as condições previstas no Tratado, decidirá da marcação das embalagens.\n\n2. Para facilitar a recolha, reutilização e valorização, incluindo a reciclagem, as embalagens devem indicar a natureza do ou dos materiais de embalagem utilizados, para permitir a sua identificação e classificação pelo sector interessado, com base na Decisão 97/129/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0007)).\n\n3. A marcação adequada será aposta na própria embalagem ou no rótulo, devendo ser claramente visível e de fácil leitura. A marcação terá uma duração adequada, inclusivamente depois da abertura da embalagem."
+  },
+  "c14f615face285cb": {
+   "fragment_id": "Artigo 8.º-A — Medidas específicas relativas a rótulos ou marcas para sacos de plástico biodegradáveis e compostáveis",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Medidas específicas relativas a rótulos ou marcas para sacos de plástico biodegradáveis e compostáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Medidas específicas relativas a rótulos ou marcas para sacos de plástico biodegradáveis e compostáveis\n\nAté partir de 27 de maio de 2017, a Comissão adota um ato de execução que estabelece as especificações dos rótulos ou das marcas, a fim de assegurar o reconhecimento em toda a União dos sacos de plástico biodegradáveis e compostáveis e fornecer aos consumidores as informações corretas sobre as propriedades de compostagem desses sacos. Esse ato de execução é adotado pelo procedimento de regulamentação a que se refere o artigo 21.º, n.º 2.\n\nNo prazo de dezoito meses após a adoção desse ato de execução, os Estados-Membros asseguram que os sacos de plástico biodegradáveis e compostáveis sejam rotulados de acordo com as especificações estabelecidas no referido ato de execução."
+  },
+  "8bdcf3a1a7f198fe": {
+   "fragment_id": "Artigo 9.º — Requisitos essenciais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisitos essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos essenciais\n\n1. Três anos a contar da data de entrada em vigor da presente directiva, os Estados-membros garantirão que só possam ser colocadas no mercado embalagens que preencham todos os requisitos essenciais enunciados na presente directiva e no anexo II.\n\n2.\n\nA partir da data referida no n.º 1 do artigo 22.º, os Estados-membros presumirão que as embalagens preencham todos os requisitos essenciais enunciados na presente directiva e no anexo II, desde que respeitem:\n\na) As normas harmonizadas pertinentes cujos números de referência tenham sido publicados no *Jornal Oficial das Comunidades Europeias*; os Estados-membros publicarão os números de referência das normas nacionais de transposição das referidas normas harmonizadas;\n\nb) As normas nacionais pertinentes referidas no n.º 3, sempre que, nas áreas abrangidas por essas normas, não existam normas harmonizadas.\n\n3. Os Estados-membros comunicarão à Comissão os textos das respectivas normas nacionais, a que se refere a alínea b) do n.º 2, que considerem preencher os requisitos do presente artigo. A Comissão transmiti-los-á imediatamente aos restantes Estados-membros.\n\nOs Estados-membros publicarão as referências dessas normas. A Comissão assegurará a publicação dessas referências no *Jornal Oficial das Comunidades Europeias*.\n\n4. Se um Estado-membro ou a Comissão considerarem que as normas referidas no n.º 2 não preenchem integralmente os requisitos essenciais referidos no n.º 1, a Comissão ou o Estado-membro em questão submeterão a questão à apreciação do comité instituído pela Directiva 83/189/CEE, apresentando-lhe a devida justificação. O comité emitirá o seu parecer sem demora.\n\nEm função do parecer do comité, a Comissão informará os Estados-membros da eventual necessidade de retirarem as referidas normas das publicações mencionadas nos n.^os^ 2 e 3.\n\n5. Até 31 de dezembro de 2020, a Comissão examina a viabilidade de reforçar os requisitos essenciais tendo em vista, designadamente, melhorar a conceção com vista à reutilização e promover a reciclagem de alta qualidade, e de tornar a sua aplicação mais substancial. Para esse efeito, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório, acompanhado, se for caso disso, de uma proposta legislativa."
+  },
+  "41e98bc997dfd206": {
+   "fragment_id": "Artigo 10.º — Normalização",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Normalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Normalização\n\nSempre que necessário, a Comissão promoverá a elaboração de normas europeias relativas aos requisitos essenciais referidos no anexo II.\n\nA Comissão promoverá, em especial, a elaboração de normas europeias relativas a:\n\n— critérios e metodologias de análise do ciclo de vida da embalagem,\n\n— métodos de medição e verificação da presença de metais pesados e de outras substâncias perigosas na embalagem e sua libertação no ambiente a partir de embalagens e resíduos de embalagens,\n\n— critérios referentes à existência de um teor mínimo de material reciclado nas embalagens, para tipos de embalagem adequados,\n\n— critérios a adoptar quanto aos métodos de reciclagem,\n\n— critérios a adoptar quanto aos métodos de compostagem e ao composto produzido,\n\n— critérios a adoptar quanto à marcação das embalagens."
+  },
+  "38c17d69be7790e0": {
+   "fragment_id": "Artigo 11.º — Níveis de concentração de metais pesados nas embalagens",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Níveis de concentração de metais pesados nas embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Níveis de concentração de metais pesados nas embalagens\n\n1.\n\nOs Estados-membros assegurarão que a soma dos níveis de concentração de chumbo, cádmio, mercúrio e crómio hexavalente presentes nas embalagens ou nos componentes de embalagens não exceda os seguintes valores:\n\n— 600 ppm em peso, dois anos a contar da data referida no n.º1 do artigo 22.º da presente directiva,\n\n— 250 ppm em peso, três anos a contar da data referida no n.º 1 do artigo 22.º da presente directiva,\n\n— 100 ppm em peso, cinco anos a contar da data referida no n.º 1 do artigo 22.º da presente directiva.\n\n2. Os níveis de concentração referidos no n.º 1 não são aplicáveis às embalagens feitas exclusivamente de cristal de chumbo, na definição que lhe é dada na Directiva 69/493/CEE ([^5^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0008)).\n\n3. A Comissão adota atos delegados nos termos do artigo 21.º-A, a fim de completar a presente diretiva, determinando em que condições os níveis de concentração referidos no n.º 1 do presente artigo não são aplicáveis aos materiais reciclados e aos circuitos de produtos numa cadeia fechada e controlada, bem como determinando os tipos de embalagens isentos do cumprimento do requisito estabelecido no n.º 1, terceiro travessão, do presente artigo."
+  },
+  "22d7efb2e686a893": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º"
+  },
+  "b675e242593a86e9": {
+   "fragment_id": "Sistemas de informação e relatórios",
+   "type": "divisao",
+   "heading": "Sistemas de informação e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Sistemas de informação e relatórios\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir a criação de bases de dados relativos às embalagens e resíduos de embalagens, caso ainda não existam, de modo a permitir que tanto eles como a Comissão acompanhem o cumprimento dos objectivos da presente directiva.\n\n2. As bases de dados a que se refere o n.º 1 devem incluir os dados baseados no anexo III e devem fornecer, em particular, informações sobre o volume, características e evolução dos fluxos de embalagens e resíduos de embalagens a nível de cada Estado-Membro, incluindo informações sobre a toxicidade ou perigosidade dos materiais de embalagem e dos componentes utilizados no seu fabrico.\n\n3-A. Os Estados-Membros comunicam à Comissão os dados relativos à aplicação do artigo 6.º, n.º 1, alíneas a) a i), e os dados relativos a embalagens reutilizáveis, para cada ano civil.\n\nOs dados são comunicados por via eletrónica no prazo de 18 meses a contar do final do ano de referência em relação ao qual foram recolhidos. Os dados são comunicados de acordo com o modelo estabelecido pela Comissão com base no anexo III, em conformidade com o n.º 3-D do presente artigo.\n\nO primeiro período de referência relativo às metas fixadas no artigo 6.º, n.º 1, alíneas f) a i), e os dados relativos a embalagens reutilizáveis, começa no primeiro ano civil completo após a adoção do ato de execução que estabelece o modelo do relatório em que os dados devem ser comunicados, em conformidade com o n.º 3-D do presente artigo, e abrange os dados relativos a esse período de referência.\n\n3-B. Os dados comunicados pelos Estados-Membros nos termos do presente artigo são acompanhados de um relatório de controlo da qualidade e de um relatório sobre as medidas tomadas nos termos do artigo 6.º-A, n.^os^ 3 e 8, incluindo informações detalhadas sobre as taxas médias de perda, se aplicável.\n\n3-C. A Comissão analisa os dados comunicados nos termos do presente artigo e publica um relatório sobre os resultados dessa análise. O relatório avalia a organização da recolha de dados, as fontes dos dados e a metodologia utilizadas nos Estados-Membros, bem como a exaustividade, a fiabilidade, a atualidade e a coerência dos dados. Esta avaliação pode incluir recomendações específicas para melhorias. O relatório é elaborado após a data da primeira comunicação dos dados pelos Estados-Membros e, posteriormente, de quatro em quatro anos.\n\n3-D. Até 31 de março de 2019, a Comissão adota atos de execução para estabelecer o modelo de relatório em que os dados devem ser comunicados a que se refere o n.º 3-A do presente artigo. Para efeitos da apresentação do relatório sobre a aplicação do artigo 6.º, n.º 1, alíneas a) a e), da presente diretiva, os Estados-Membros utilizam o modelo estabelecido na Decisão 2005/270/CE da Comissão ([^6^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0009)). Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 21.º, n.º 2, da presente diretiva.\n\n4. Os Estados-membros terão em consideração os problemas específicos das pequenas e médias empresas no fornecimento de dados pormenorizados.\n\n6. Os Estados-membros exigirão a todos os operadores económicos interessados a apresentação às autoridades competentes de dados fiáveis sobre o seu sector, impostos pelo presente artigo."
+  },
+  "b696dd4025ddeae6": {
+   "fragment_id": "Artigo 13.º — Informação para os utilizadores das embalagens",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Informação para os utilizadores das embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação para os utilizadores das embalagens\n\nOs Estados-membros tomarão medidas, durante os dois anos seguintes à data referida no n.º 1 do artigo 22.º, para assegurar que todos os utilizadores de embalagens, em especial os consumidores, disponham das informações necessárias sobre:\n\n— os sistemas de recuperação, recolha e valorização de que dispõem,\n\n— a possibilidade de contribuírem para reutilização, valorização e reciclagem de embalagens e resíduos de embalagens,\n\n— o significado das marcações nas embalagens existentes no mercado,\n\n— os elementos adequados dos planos de gestão das embalagens e resíduos de embalagens, referidos no artigo 14.º\n\nOs Estados-Membros fomentarão igualmente campanhas de informação e consciencialização dos consumidores."
+  },
+  "fb20d794e3b50209": {
+   "fragment_id": "Artigo 14.º — Planos de gestão",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Planos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Planos de gestão\n\nPara realizar os objectivos e as medidas previstos na presente directiva, os Estados-membros incluirão nos planos de gestão de resíduos exigidos no artigo 7.º da Directiva 75/442/CEE, um capítulo específico sobre gestão de embalagens e resíduos de embalagens, incluindo as medidas tomadas nos termos dos artigos 4.º e 5.º"
+  },
+  "ee8ab183e4e71727": {
+   "fragment_id": "Artigo 15.º — Instrumentos económicos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Instrumentos económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrumentos económicos\n\nO Conselho, deliberando com base nas disposições aplicáveis do Tratado, adoptará instrumentos económicos destinados a promover o cumprimento dos objectivos da presente directiva. Na falta dessas medidas, os Estados-membros podem adoptar medidas destinadas a cumprir esses objectivos, de acordo com os princípios que regulam a política de ambiente da Comunidade, designadamente o princípio do «poluidor-pagador», e em observância das obrigações decorrentes do Tratado."
+  },
+  "4b09a03b65a86f4b": {
+   "fragment_id": "Artigo 16.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Notificação\n\n1. Sem prejuízo da Directiva 83/189/CEE, e antes de adoptarem essas medidas, os Estados-membros notificarão a Comissão dos projectos de medidas que tencionem adoptar no âmbito da presente directiva, excepto das medidas de natureza fiscal, mas incluindo as especificações técnicas associadas a medidas fiscais de incentivo ao cumprimento dessas especificações técnicas, para que a Comissão possa analisá-las à luz das disposições existentes, seguindo em cada caso o procedimento da directiva acima referida.\n\n2. Se a medida proposta for também de natureza técnica na acepção da Directiva 83/189/CEE, os Estados-membros em questão, ao cumprirem as formalidades de notificação referidas na presente directiva, podem indicar que a notificação é igualmente válida para a Directiva 83/189/CEE."
+  },
+  "86914c29d7a8304c": {
+   "fragment_id": "Artigo 18.º — Liberdade de colocação no mercado",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Liberdade de colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Liberdade de colocação no mercado\n\nOs Estados-membros não impedirão a colocação no mercado do seu território de embalagens que estejam em conformidade com o disposto na presente directiva."
+  },
+  "e248d28204e2d17a": {
+   "fragment_id": "Artigo 19.º — Adaptação ao progresso científico e técnico",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Adaptação ao progresso científico e técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Adaptação ao progresso científico e técnico\n\n1. A Comissão adota os atos de execução necessários para adaptar o sistema de identificação referido no artigo 8.º, n.º 2, e no artigo 10.º, segundo parágrafo, sexto travessão, ao progresso científico e técnico. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 21.º, n.º 2.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 21.º-A, para alterar a lista do anexo I com exemplos ilustrativos para a definição de embalagem."
+  },
+  "f571a44b88c6237b": {
+   "fragment_id": "Artigo 20.º — Medidas específicas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Medidas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Medidas específicas\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 21.º-A, a fim de completar a presente diretiva sempre que necessário para resolver quaisquer dificuldades de aplicação do disposto na presente diretiva, nomeadamente no que diz respeito aos materiais inertes de embalagem colocados no mercado da União em quantidades muito pequenas (isto é, aproximadamente 0,1 % em peso), às embalagens primárias para dispositivos médicos e produtos farmacêuticos, às pequenas embalagens e às embalagens de luxo."
+  },
+  "735c4d08b82dc5ee": {
+   "fragment_id": "Artigo 20.º-A — Relatório sobre os sacos de plástico",
+   "type": "artigo",
+   "heading": "Artigo 20.º-A — Relatório sobre os sacos de plástico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º-A — Relatório sobre os sacos de plástico\n\n1. Até 27 de novembro de 2021, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho em que avalia a eficácia das medidas previstas no artigo 4.º, n.º 1-A, a nível da União, tendentes a combater a produção de lixo, a mudar os comportamentos dos consumidores e a promover a prevenção de resíduos. Se a avaliação revelar que as medidas adotadas não são eficazes, a Comissão analisa outras vias possíveis para alcançar uma redução do consumo de sacos de plástico leves, incluindo a fixação de metas realistas e exequíveis a nível da União, e apresenta uma proposta legislativa, se for caso disso.\n\n2. Até 27 de maio de 2017, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho em que avalia o impacto da utilização de sacos de plásticos oxodegradáveis no ambiente e apresenta uma proposta legislativa, se for caso disso.\n\n3. Até 27 de maio de 2017, a Comissão avalia os impactos do ciclo de vida das diferentes possibilidades de redução do consumo de sacos de plástico muito leves e apresenta uma proposta legislativa, se for caso disso."
+  },
+  "2af3e237b5ed982f": {
+   "fragment_id": "Artigo 21.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 39.º da Diretiva 2008/98/CE. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0011)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "bc2f2c4ce4e636f0": {
+   "fragment_id": "Artigo 21.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 21.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 11.º, n.º 3, no artigo 19.º, n.º 2, e no artigo 20.º é conferido à Comissão por um prazo de cinco anos a contar de 4 de julho de 2018. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 11.º, n.º 3, no artigo 19.º, n.º 2, e no artigo 20.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^8^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#E0012)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 11.º, n.º 3, do artigo 19.º, n.º 2, e do artigo 20.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "6c05935781e9967a": {
+   "fragment_id": "Artigo 22.º — Transposição para o direito nacional",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transposição para o direito nacional\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 30 de Junho de 1996. Desse facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adaptadas pelos Estados-membros.\n\n3. Além disso, os Estados-membros comunicarão à Comissão todas as disposições legislativas, regulamentares e administrativas existentes adoptadas no âmbito da presente directiva.\n\n3-A. Desde que os objetivos fixados no artigo 4.º e no artigo 6.º sejam alcançados, os Estados-Membros podem transpor o artigo 4.º, n.º 1-A, e o artigo 7.º mediante acordos entre as autoridades competentes e os setores económicos envolvidos.\n\nEstes acordos devem satisfazer os seguintes requisitos:\n\na) Ter força vinculativa;\n\nb) Especificar os objectivos e respectivos prazos;\n\nc) Ser publicados no jornal oficial nacional ou num documento oficial a que o público tenha igualmente acesso, e transmitidos à Comissão;\n\nd) Os resultados obtidos devem ser periodicamente controlados, comunicados às autoridades competentes e à Comissão e colocados à disposição do público nas condições especificadas no acordo;\n\ne) As autoridades competentes devem assegurar a análise dos progressos realizados em virtude do acordo;\n\nf) Em caso de desrespeito do acordo, os Estados-Membros devem aplicar as disposições pertinentes da presente directiva através de disposições legislativas, regulamentares ou administrativas.\n\n4. Os requisitos para o fabrico das embalagens não se aplicarão, de qualquer modo, às embalagens utilizadas para um dado produto antes da data de entrada em vigor da presente directiva.\n\n5. Os Estados-membros autorizarão, por um período não superior a cinco anos a contar da data de entrada em vigor da presente directiva, a colocação no mercado de embalagens fabricadas antes desta data e que estejam em conformidade com o respectivo direito nacional vigente."
+  },
+  "0d77ece853aeb74a": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA Directiva 85/339/CEE é revogada na data referida no n.º 1 do artigo 22.º"
+  },
+  "ba9682a6498f2f6a": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "3a3833e0f560af18": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "a4ec61da8e5ea17b": {
+   "fragment_id": "EXEMPLOS ILUSTRATIVOS DOS CRITÉRIOS A QUE SE REFERE O ARTIGO 3.º, N.º 1",
+   "type": "divisao",
+   "heading": "EXEMPLOS ILUSTRATIVOS DOS CRITÉRIOS A QUE SE REFERE O ARTIGO 3.º, N.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXEMPLOS ILUSTRATIVOS DOS CRITÉRIOS A QUE SE REFERE O ARTIGO 3.º, N.º 1"
+  },
+  "357e4d99189b2886": {
+   "fragment_id": "Exemplos para o critério referido na alínea i)",
+   "type": "divisao",
+   "heading": "Exemplos para o critério referido na alínea i)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Exemplos para o critério referido na alínea i)"
+  },
+  "67d55aadfd33ea9c": {
+   "fragment_id": "Exemplos para o critério referido na alínea ii)",
+   "type": "divisao",
+   "heading": "Exemplos para o critério referido na alínea ii)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Exemplos para o critério referido na alínea ii)"
+  },
+  "0d295bca57a97c78": {
+   "fragment_id": "Exemplos para o critério referido na alínea iii)",
+   "type": "divisao",
+   "heading": "Exemplos para o critério referido na alínea iii)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Exemplos para o critério referido na alínea iii)\n\nEtiquetas diretamente apensas ao produto ou a ele apostas\n\nEtiquetas de identificação por radiofrequências (RFID)"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "4955ea6b53239d5e": {
+   "fragment_id": "REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS",
+   "type": "divisao",
+   "heading": "REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS EMBALAGENS"
+  },
+  "9b292b7cfb3fc9b1": {
+   "fragment_id": "1. Requisitos específicos de fabrico e composição das embalagens",
+   "type": "divisao",
+   "heading": "1. Requisitos específicos de fabrico e composição das embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Requisitos específicos de fabrico e composição das embalagens\n\n— As embalagens devem ser fabricadas de forma a que o respectivo peso e volume não excedam o valor mínimo necessário para manter níveis de segurança, higiene e aceitação adequados para o produto embalado e para o consumidor.\n\n— As embalagens devem ser concebidas, produzidas e comercializadas de forma a permitir a sua reutilização ou valorização, incluindo a reciclagem, de acordo com a hierarquia dos resíduos, e a minimizar o impacto sobre o ambiente quando são eliminados os resíduos de embalagens ou o remanescente das operações de gestão de resíduos de embalagens.\n\n— As embalagens devem ser fabricadas de modo a minimizar a presença de substâncias nocivas e outras substâncias e matérias perigosas no material das embalagens ou de qualquer dos seus componentes no que diz respeito à sua presença em emissões, cinzas ou lixiviados, aquando da incineração ou descarga em aterros sanitários das embalagens ou do remanescente das operações de gestão de resíduos de embalagens."
+  },
+  "cc3b4039b10ad9ca": {
+   "fragment_id": "2. Requisitos específicos da possibilidade de reutilização das embalagens",
+   "type": "divisao",
+   "heading": "2. Requisitos específicos da possibilidade de reutilização das embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Requisitos específicos da possibilidade de reutilização das embalagens\n\nDevem ser preenchidos cumulativamente os seguintes requisitos:\n\n— as propriedades físicas e as características das embalagens devem permitir um certo número de viagens ou rotações, em condições de utilização normais previsíveis,\n\n— as embalagens usadas devem poder ser tratadas de forma a respeitar os requisitos de saúde e segurança dos trabalhadores,\n\n— os requisitos específicos das embalagens valorizáveis devem ser cumpridos quando as embalagens deixam de ser reutilizadas e se transformam em resíduos."
+  },
+  "9bb4e5947a51c186": {
+   "fragment_id": "3. Requisitos específicos da possibilidade de valorização das embalagens",
+   "type": "divisao",
+   "heading": "3. Requisitos específicos da possibilidade de valorização das embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Requisitos específicos da possibilidade de valorização das embalagens"
+  },
+  "e51729769bf2a050": {
+   "fragment_id": "a) Embalagens valorizáveis sob a forma de reciclagem do material",
+   "type": "divisao",
+   "heading": "a) Embalagens valorizáveis sob a forma de reciclagem do material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### a) Embalagens valorizáveis sob a forma de reciclagem do material\n\nAs embalagens devem ser fabricadas de forma a permitir a reciclagem de uma certa percentagem, em peso, dos materiais utilizados no fabrico de produtos comercializáveis, em cumprimento das normas em vigor na Comunidade. A determinação da referida percentagem pode variar segundo o tipo de material que constitui a embalagem."
+  },
+  "9c0d5c0b9878ff29": {
+   "fragment_id": "b) Embalagens valorizáveis sob a forma de valorização energética",
+   "type": "divisao",
+   "heading": "b) Embalagens valorizáveis sob a forma de valorização energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### b) Embalagens valorizáveis sob a forma de valorização energética\n\nOs resíduos de embalagens tratados para efeitos de valorização energética devem ter um poder calorífico inferior mínimo que permita optimizar a valorização energética."
+  },
+  "fbf1240b70e20dbd": {
+   "fragment_id": "c) Embalagens valorizáveis sob a forma de composto",
+   "type": "divisao",
+   "heading": "c) Embalagens valorizáveis sob a forma de composto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### c) Embalagens valorizáveis sob a forma de composto\n\nOs resíduos de embalagens tratados para efeitos de compostagem devem ser suficientemente biodegradáveis para não entravar a recolha seletiva nem o processo ou a atividade de compostagem em que são introduzidos;"
+  },
+  "fbdf2d9a237de141": {
+   "fragment_id": "d) Embalagens biodegradáveis",
+   "type": "divisao",
+   "heading": "d) Embalagens biodegradáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### d) Embalagens biodegradáveis\n\nOs resíduos de embalagens biodegradáveis devem ter características que permitam uma decomposição física, química, térmica ou biológica de que resulte que a maioria do composto final acabe por se decompor em dióxido de carbono, biomassa e água. As embalagens de plástico oxodegradáveis não devem ser consideradas biodegradáveis."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "ddd13c5a43261be4": {
+   "fragment_id": "DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)",
+   "type": "divisao",
+   "heading": "DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DADOS A INCLUIR PELOS ESTADOS-MEMBROS NOS SEUS BANCOS DE DADOS SOBRE EMBALAGENS E RESÍDUOS DE EMBALAGENS (DE ACORDO COM OS QUADROS ANEXOS 1 A 4)\n\n1. Em relação às embalagens tanto primárias como secundárias ou terciárias: a) As quantidades, para cada grande categoria de materiais, das embalagens consumidas no território nacional (produzidas - exportadas + importadas) (quadro 1); b) As quantidades reutilizadas (quadro 2).\n\n2. Em relação aos resíduos de embalagens, tanto domésticos como não domésticos: a) As quantidades, para cada grande categoria de materiais, valorizadas e eliminadas no território nacional (produzidas - exportadas + importadas) (quadro 3); b) As quantidades recicladas e as quantidades valorizadas para cada grande categoria de materiais (quadro 4)."
+  },
+  "9af0897e16700022": {
+   "fragment_id": "QUADRO 1",
+   "type": "divisao",
+   "heading": "QUADRO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO 1"
+  },
+  "6f41d3b2189a5acc": {
+   "fragment_id": "Quantidade de embalagens (primárias, secundárias e terciárias) consumidas no território nacional",
+   "type": "divisao",
+   "heading": "Quantidade de embalagens (primárias, secundárias e terciárias) consumidas no território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quantidade de embalagens (primárias, secundárias e terciárias) consumidas no território nacional\n\n[**►(^1^) M7**](http://publications.europa.eu/resource/celex/32018L0852)"
+  },
+  "cded9408f076c119": {
+   "fragment_id": "QUADRO 2",
+   "type": "divisao",
+   "heading": "QUADRO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO 2"
+  },
+  "80a5047fc4b182b5": {
+   "fragment_id": "Quantidade de embalagens (primárias, secundárias e terciárias) reutilizadas no território nacional",
+   "type": "divisao",
+   "heading": "Quantidade de embalagens (primárias, secundárias e terciárias) reutilizadas no território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quantidade de embalagens (primárias, secundárias e terciárias) reutilizadas no território nacional\n\n[**►(^1^)(^2^)(^3^)(^4^) M7**](http://publications.europa.eu/resource/celex/32018L0852)"
+  },
+  "17f23c719a5dda55": {
+   "fragment_id": "QUADRO 3",
+   "type": "divisao",
+   "heading": "QUADRO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO 3"
+  },
+  "3fb8dd568a3b1760": {
+   "fragment_id": "Quantidade de resíduas de embalagens valorizados e eliminados do território nacional",
+   "type": "divisao",
+   "heading": "Quantidade de resíduas de embalagens valorizados e eliminados do território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quantidade de resíduas de embalagens valorizados e eliminados do território nacional\n\n[**►(^1^)(^2^) M7**](http://publications.europa.eu/resource/celex/32018L0852)"
+  },
+  "43b4a1ea496cf1ff": {
+   "fragment_id": "QUADRO 4",
+   "type": "divisao",
+   "heading": "QUADRO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO 4"
+  },
+  "2cee39254d31d803": {
+   "fragment_id": "Quantidades de resíduos de embalagens reciclados ou valorizados no território nacional",
+   "type": "divisao",
+   "heading": "Quantidades de resíduos de embalagens reciclados ou valorizados no território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quantidades de resíduos de embalagens reciclados ou valorizados no território nacional\n\n[**►(^1^)(^2^) M7**](http://publications.europa.eu/resource/celex/32018L0852)"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "eeaaabb9faece457": {
+   "fragment_id": "PLANO DE EXECUÇÃO A APRESENTAR NOS TERMOS DO ARTIGO 6.º, N.º 1-A, ALÍNEA D)",
+   "type": "divisao",
+   "heading": "PLANO DE EXECUÇÃO A APRESENTAR NOS TERMOS DO ARTIGO 6.º, N.º 1-A, ALÍNEA D)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PLANO DE EXECUÇÃO A APRESENTAR NOS TERMOS DO ARTIGO 6.º, N.º 1-A, ALÍNEA D)\n\nO plano de execução a apresentar nos termos do artigo 6.º, n.º 1-A, alínea d), deve conter os seguintes elementos:\n\n1) Uma avaliação das taxas (passadas, presentes e futuras) de reciclagem, deposição em aterro e outros tratamentos de resíduos de embalagens, e dos fluxos de que são compostos;\n\n2) Uma avaliação da execução dos planos de gestão de resíduos e dos programas de prevenção de resíduos existentes nos termos dos artigos 28.º e 29.º da Diretiva 2008/98/CE;\n\n3) Os motivos pelos quais o Estado-Membro considera que poderá não conseguir cumprir a meta pertinente estabelecida no artigo 6.º, n.º 1, alíneas g) e i), no prazo nele fixado e uma estimativa da prorrogação do prazo necessária para cumprir essa meta;\n\n4) As medidas necessárias para cumprir as metas estabelecidas no artigo 6.º, n.º 1, alíneas g) e i), da presente diretiva, aplicáveis ao Estado-Membro durante a prorrogação do prazo, incluindo os instrumentos económicos adequados e outras medidas de incentivo à aplicação da hierarquia dos resíduos prevista no artigo 4.º, n.º 1, e no anexo IV-A da Diretiva 2008/98/CE;\n\n5) Um calendário de execução das medidas identificadas no ponto 4, a definição da entidade responsável pela sua execução e uma avaliação do seu contributo individual para o cumprimento das metas aplicáveis em caso de prorrogação do prazo;\n\n6) Informações sobre o financiamento da gestão de resíduos em consonância com o princípio do poluidor-pagador;\n\n7) Medidas destinadas a melhorar a qualidade dos dados, se for o caso, tendo em vista melhorar o planeamento e a monitorização do desempenho em matéria de gestão de resíduos.\n\n---"
+  },
+  "4f8ba186ca87eb02": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0001)) JO n.º L 377 de 31.12.1991, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0002)) Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição de substâncias químicas (REACH), que cria a Agência Europeia dos Produtos Químicos, que altera a Diretiva 1999/45/CE e revoga o Regulamento (CEE) n.º 793/93 do Conselho e o Regulamento (CE) n.º 1488/94 da Comissão, bem como a Diretiva 76/769/CEE do Conselho e as Diretivas 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE da Comissão (JO L 396 de 30.12.2006, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0006)) Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho, de 14 de junho de 2006, relativo a transferências de resíduos (JO L 190 de 12.7.2006, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0007)) JO L 50 de 20.2.1997, p. 28.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0008)) JO n.º L 326 de 29.12.1969, p. 36.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0009)) Decisão 2005/270/CE da Comissão, de 22 de março de 2005, que estabelece os formulários relativos ao sistema de bases de dados nos termos da Diretiva 94/62/CE do Parlamento Europeu e do Conselho relativa a embalagens e resíduos de embalagens (JO L 86 de 5.4.2005, p. 6).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0011)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2#src.E0012)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

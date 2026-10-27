@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:462046:por
+title: Resolução n.º 363/80
+short_title: null
+summary: Prorroga até 31 de Dezembro de 1980 os prazos estabelecidos nos n.os 4 e 6 da Resolução n.º 175/79, de 16 de Maio
+  (cessação da intervenção do Estado nas empresas do grupo Habitat)
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 363/80
+official_date: null
+publication_date: '1980-10-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 237/1980, Série I de 1980-10-13
+  number: '237'
+  series: I
+  supplement: null
+  pages: 3354 - 3354
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23700/33543354.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '462046'
+  dre_path: /dr/detalhe/resolucao/363-1980-462046
+  internal: pt:dre:462046:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/363-1980-462046
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/363-1980-462046
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 626725e6647a41a474786a0319098052912254534a84525563a6f9baaa739805
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:33:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa Intervencionada
+- Intervenção do Estado
+- Prorrogação de Prazo
+relationships:
+- type: amended_by
+  target: pt:dre:226642:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:381694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678852:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:33:30Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 363/80
+
+A [Resolução n.º 72/80](https://diariodarepublica.pt/dr/detalhe/resolucao/72-1980-678852), de 12 de Fevereiro, prorrogou até 31 de Dezembro de 1980 o prazo até ao termo do qual as empresas Habitat - Empreendimentos Imobiliários, S. A. R. L., Concivil - Construção Civil, Lda., Soficosa - Sociedade de Financiamentos e de Construções, Lda., e Micorel - Miraflores Construções Residenciais, Lda., devem requerer ao Ministro das Finanças e do Plano a reavaliação do seu activo imobilizado corpóreo, originariamente fixado no n.º 6 da [Resolução n.º 175/79](https://diariodarepublica.pt/dr/detalhe/resolucao/175-1979-383225), de 16 de Maio (segundo parágrafo).
+
+Por seu lado, os prazos estabelecidos nos n.os 4 e 6 (primeiro parágrafo) da [Resolução n.º 175/79](https://diariodarepublica.pt/dr/detalhe/resolucao/175-1979-383225) vieram a sofrer prorrogações através das Resoluções n.os [319/80](https://diariodarepublica.pt/dr/detalhe/resolucao/319-1980-464268), de 5 de Setembro, e [213-I/80](https://diariodarepublica.pt/dr/detalhe/resolucao/213-i-1980-381694), de 16 de Junho, respectivamente, cujo termo se situa em 30 de Setembro de 1980.
+
+Convindo uniformizar os prazos supra-referidos e subsistindo os motivos que fundamentaram aquelas prorrogações:
+
+O Conselho de Ministros, reunido em 24 de Setembro de 1980, resolveu prorrogar até 31 de Dezembro de 1980 os prazos estabelecidos nos n.os 4 e 6 da [Resolução n.º 175/79](https://diariodarepublica.pt/dr/detalhe/resolucao/175-1979-383225), de 16 de Maio.
+
+Presidência do Conselho de Ministros, 24 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

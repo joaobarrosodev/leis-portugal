@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174244811:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-936770293",
+ "dre_path": "/dr/detalhe/decreto-lei/96-2021-174244811",
+ "source_lastmod": "2025-09-26",
+ "versions": [
+  {
+   "date": "2021-11-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "936698013",
+    "936698014",
+    "936698015",
+    "936698016",
+    "936698017",
+    "936698018",
+    "936698019",
+    "936698020",
+    "936698021",
+    "936698022",
+    "936698023"
+   ]
+  },
+  {
+   "date": "2025-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:936526997:por",
+     "title": "Decreto-Lei n.º 110/2025",
+     "published": "2025-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/110-2025-936526997"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "936698013",
+    "936698014",
+    "936698015",
+    "936698016",
+    "936698025",
+    "936698018",
+    "936698019",
+    "936698020",
+    "936698021",
+    "936698022",
+    "936698023",
+    "936698024"
+   ]
+  }
+ ],
+ "fragments": {
+  "936698013": {
+   "fragment_id": "936770294",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 96/2021\n\nde 12 de novembro\n\nSumário: Estabelece um regime de integração, em obras públicas, de obras de arte para fruição pública.\n\nO presente decreto-lei estabelece um regime de integração, em obras públicas, de obras de arte para fruição pública, criando um instrumento de promoção de arte no território nacional através de roteiros de arte pública como fator de descentralização e democratização da cultura e de promoção da coesão territorial.\n\nO programa do XXII Governo Constitucional estabelece como objetivos o reforço e a diversificação da oferta cultural, bem como a visibilidade e o acesso às artes através de experiências inovadoras e envolventes. É, assim, missão do Governo promover estratégias e implementar políticas que valorizem a arte, de modo a fazer chegar a cultura às pessoas, a criar focos de interesse cultural e a reforçar o investimento em cultura.\n\nEsta política iniciou-se com a constituição da Comissão para a Aquisição de Arte Contemporânea, através do Despacho n.º 5186/2019, publicado no Diário da República, 2.ª série, n.º 101, de 27 de maio.\n\nImporta, pois, alargar esta política de aquisições, continuando a promover a arte no território, através de integração de obras de artes em infraestruturas e equipamentos públicos. Com efeito, as infraestruturas e os equipamentos públicos têm grande potencial para integração de obras de arte, em particular de arte pública, com forte impacto no território e nos cidadãos, sendo plataformas ideais para a fruição pública de arte por parte das comunidades.\n\nConsidera o Governo tratar-se do momento oportuno para promover a arte no território nacional, através da criação da obrigação de, nos contratos de empreitada de obras públicas e de concessão de obras públicas, se integrarem obras de arte.\n\nEm primeiro lugar, o Estado, os institutos públicos e as empresas públicas do setor empresarial do Estado passam a ter de prever a integração de obras de arte no âmbito de contratos de empreitada de obras públicas ou de concessão de obras públicas, que incidem sobre infraestruturas e equipamentos públicos, nos casos em que o respetivo valor do contrato seja igual ou superior a (euro) 5 000 000,00.\n\nEm segundo lugar, o valor da obra de arte corresponde a 1 % do preço base, quando este seja fixado, do contrato a celebrar. O valor da obra de arte não fica, assim, dependente do preço constante das propostas apresentadas para a adjudicação do contrato, garantindo-se ainda que os concorrentes conhecem desde o início, no momento em que elaboram as propostas, qual o valor que é atribuído para a conceção, produção e/ou execução da obra de arte. Nos casos em que não haja lugar à fixação do preço base, o valor de obra da arte é determinado pela entidade adjudicante, tendo como referência o valor mínimo de (euro) 50 000,00.\n\nEm terceiro lugar, como regra, determina-se que a entidade adjudicante proceda à escolha do artista e respetiva obra de arte, permitindo-se, contudo, que, em casos excecionais devidamente fundamentados, a escolha possa recair na entidade responsável pela elaboração do projeto de execução da obra pública ou até, em determinadas condições, no adjudicatário do procedimento de formação do contrato de empreitada de obras públicas ou de concessão de obras públicas. Em qualquer destas hipóteses a contratação do artista escolhido, que concebe, produz e/ou executa a obra de arte, é realizada diretamente pelo referido adjudicatário.\n\nEm quarto lugar, complementarmente, é criada uma comissão consultiva de obras de arte em obras públicas composta por personalidades de reconhecido mérito académico e/ou profissional nas áreas artístico-culturais, bem como nas áreas de arquitetura ou engenharia, à qual compete, nomeadamente, quando solicitado pelas entidades adjudicantes, sugerir o artista que deve conceber, produzir e/ou executar a obra de arte.\n\nFinalmente, prevê-se a obrigação de as entidades adjudicantes comunicarem à Direção-Geral das Artes as obras de arte integradas nas obras públicas, de modo a que estas sejam anualmente publicitadas e sejam criados roteiros de arte pública que as incluam.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, a Ordem dos Arquitetos, a Ordem dos Engenheiros, a Autoridade da Concorrência e as associações representativas do setor da construção.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "936698014": {
+   "fragment_id": "936770295",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime de integração, em obras públicas, de obras de arte para fruição pública."
+  },
+  "936698015": {
+   "fragment_id": "936770296",
+   "type": 11,
+   "heading": "Artigo 2.º — Obras de arte em obras públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obras de arte em obras públicas\n\n1 - É obrigatória a integração de obras de arte nas obras públicas abrangidas pelo presente decreto-lei.\n\n2 - Com exclusão das obras de arquitetura, são consideradas obras de arte as previstas nas alíneas f) a j) do artigo 2.º do Código do Direito de Autor e dos Direitos Conexos, aprovado em anexo ao Decreto-Lei n.º 63/85, de 14 de março, na sua redação atual, devendo estas ter um caráter permanente ou duradouro."
+  },
+  "936698016": {
+   "fragment_id": "936770297",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito subjetivo\n\n1 - O presente decreto-lei aplica-se ao Estado, aos institutos públicos e às empresas públicas do setor empresarial do Estado, na qualidade de entidades adjudicantes.\n\n2 - Salvo nos casos em que da sua aplicação possa resultar uma reposição do equilíbrio financeiro do contrato de concessão em vigor, o presente decreto-lei é também aplicável a concessionários que, por lei ou por contrato, se encontrem submetidos a regras de contratação pública.\n\n3 - O presente decreto-lei pode também ser facultativamente aplicado por quaisquer outras entidades adjudicantes."
+  },
+  "936698017": {
+   "fragment_id": "936770298",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito objetivo\n\n1 - O presente decreto-lei aplica-se aos procedimentos de formação de contratos de empreitada de obras públicas e de concessão de obras públicas de valor igual ou superior a (euro) 5 000 000,00 e que tenham por objeto infraestruturas ou equipamentos públicos.\n\n2 - O presente decreto-lei não é aplicável:\n\na) A procedimentos de ajuste direto ou de consulta prévia;\n\nb) A procedimentos de formação de contratos de empreitada ou de concessão cuja obra pública:\n\ni) Seja objetivamente inapta a integrar obras de arte, nomeadamente obras de conservação, de reabilitação, de demolição ou de restauro; ou\n\nii) Em razão da sua localização, nomeadamente por se localizar no subsolo, determine a insuscetibilidade de fruição pelo público de obras de arte.\n\n3 - Sem prejuízo do disposto no n.º 1, a entidade adjudicante que assim o determine pode aplicar o regime previsto no presente decreto-lei a contratos de valor inferior ao aí estabelecido."
+  },
+  "936698018": {
+   "fragment_id": "936770299",
+   "type": 11,
+   "heading": "Artigo 5.º — Valor das obras de arte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Valor das obras de arte\n\n1 - O valor das obras de arte corresponde a um dos seguintes montantes:\n\na) 1 % do preço base;\n\nb) Nos casos em que não seja obrigatória a definição de preço base no caderno de encargos, a um valor fixado pela entidade adjudicante, igual ou superior a (euro) 50 000,00.\n\n2 - O valor das obras de arte compreende todos os custos com a criação e conceção da obra de arte, designadamente os custos dos suportes físicos das obras de arte e dos trabalhos para a sua integração na obra pública.\n\n3 - Nos casos previstos na alínea a) do n.º 1, por decisão fundamentada da entidade adjudicante, o valor das obras de arte pode ser superior a 1 % do preço base.\n\n4 - Salvo decisão fundamentada em contrário da entidade adjudicante, o valor das obras de arte não pode exceder (euro) 1 000 000,00."
+  },
+  "936698019": {
+   "fragment_id": "936770300",
+   "type": 11,
+   "heading": "Artigo 6.º — Escolha e aquisição das obras de arte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Escolha e aquisição das obras de arte\n\n1 - O tipo de obras de arte e o artista responsável pela sua conceção, produção e/ou execução são escolhidos pela entidade adjudicante, devendo tais elementos constar, como aspetos da execução do contrato não submetidos à concorrência:\n\na) Do caderno de encargos do procedimento de formação do contrato de aquisição de serviços do projeto de execução da obra pública; e/ou\n\nb) Do projeto de execução ou do programa preliminar incluído no caderno de encargos do procedimento de formação do contrato de empreitada ou de concessão de obras públicas.\n\n2 - Em casos excecionais e devidamente fundamentados, a escolha do tipo de obras de arte e do artista responsável pela sua conceção, produção e/ou execução pode ser efetuada:\n\na) Pelo adjudicatário do procedimento de formação do contrato de aquisição de serviços do projeto de execução da obra pública; ou\n\nb) Pelo adjudicatário do procedimento de formação do contrato de empreitada ou de concessão de obras públicas, nos casos em que a elaboração do projeto de execução constitua um aspeto da execução do contrato a celebrar.\n\n3 - Cabe ao empreiteiro ou concessionário adjudicatário proceder à subcontratação do artista, com respeito pelas especificações técnicas necessárias à conceção, produção e/ou execução das obras de arte a integrar na obra pública."
+  },
+  "936698020": {
+   "fragment_id": "936770301",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão consultiva de obras de arte em obras públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão consultiva de obras de arte em obras públicas\n\n1 - É criada uma comissão consultiva de obras de arte em obras públicas (Comissão), que funciona na dependência do membro do Governo responsável pela área da cultura, tendo por missão coadjuvar as entidades adjudicantes na escolha do tipo de obras de arte e dos artistas.\n\n2 - A Comissão pode ser consultada a todo o tempo pelas entidades adjudicantes para sugerir, nomeadamente:\n\na) A área artística ou a tipologia das obras de arte a integrar na obra pública;\n\nb) Artistas que concebam, produzam e/ou executem obras de arte adequadas a integrar na obra pública.\n\n3 - Os membros da Comissão são escolhidos de entre personalidades de reconhecido mérito académico e/ou profissional nas áreas artístico-culturais, bem como nas áreas de arquitetura ou engenharia, aos quais são devidas senhas de presença.\n\n4 - As regras de composição, funcionamento e seleção dos membros da Comissão são regulamentadas por despacho do membro do Governo responsável pela área da cultura."
+  },
+  "936698021": {
+   "fragment_id": "936770302",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicidade\n\n1 - A Direção-Geral das Artes (DGArtes) elabora um relatório anual relativo às obras de arte integradas nas obras públicas ao abrigo do presente decreto-lei, com base na informação prestada pelas entidades adjudicantes, as quais devem comunicar as obras de arte integradas nas obras públicas no prazo de 30 dias após a respetiva receção definitiva.\n\n2 - Para a promoção de arte no território nacional, a DGArtes cria e dinamiza roteiros de arte pública, incluindo as obras de arte integradas nas obras públicas, como fator de descentralização e democratização da cultura e de promoção da coesão territorial.\n\n3 - A DGArtes disponibiliza os dados, informações, documentos e outros conteúdos que, pela sua natureza e nos termos legais, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt."
+  },
+  "936698022": {
+   "fragment_id": "936770303",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação no tempo\n\n1 - O presente decreto-lei aplica-se aos procedimentos de formação de contratos de empreitada e de concessão de obras públicas que se iniciem após a respetiva data de entrada em vigor.\n\n2 - O presente decreto-lei não é aplicável aos procedimentos em relação aos quais o projeto de execução esteja na fase de anteprojeto, esteja em elaboração ou já tenha sido aprovado."
+  },
+  "936698023": {
+   "fragment_id": "936770304",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2022."
+  },
+  "936698025": {
+   "fragment_id": "936770298",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito objetivo",
+   "in_force_from": "2025-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2025 - Diário da República n.º 185/2025, Série I de 2025-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2025-936526997), em vigor a partir de 2025-09-30"
+   ],
+   "markdown": "###### Artigo 4.º — Âmbito objetivo\n\n1 - O presente decreto-lei aplica-se aos procedimentos de formação de contratos de empreitada de obras públicas e de concessão de obras públicas de valor igual ou superior a (euro) 5 000 000,00 e que tenham por objeto infraestruturas ou equipamentos públicos.\n\n2 - O presente decreto-lei não é aplicável:\n\na) A procedimentos de ajuste direto ou de consulta prévia;\n\nb) A procedimentos de formação de contratos de empreitada ou de concessão cuja obra pública:\n\ni) Seja objetivamente inapta a integrar obras de arte, nomeadamente obras de conservação, de reabilitação, de demolição ou de restauro; ou\n\nii) Em razão da sua localização, nomeadamente por se localizar no subsolo, determine a insuscetibilidade de fruição pelo público de obras de arte.\n\nc) A procedimentos de formação de contratos destinados à promoção de habitação pública ou de custos controlados.\n\n3 - Sem prejuízo do disposto no n.º 1, a entidade adjudicante que assim o determine pode aplicar o regime previsto no presente decreto-lei a contratos de valor inferior ao aí estabelecido.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2025 - Diário da República n.º 185/2025, Série I de 2025-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2025-936526997), em vigor a partir de 2025-09-30"
+  },
+  "936698024": {
+   "fragment_id": "936770305",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de outubro de 2021. - Augusto Ernesto Santos Silva - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - Jorge Filipe Teixeira Seguro Sanches - Patrícia Alexandra Costa Gaspar - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Ângelo Nelson Rosário de Souza - Graça Maria da Fonseca Caetano Gonçalves - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - Eduardo Nuno Rodrigues e Pinheiro - Pedro Nuno de Oliveira Santos - Ana Maria Pereira Abrunhosa - Maria do Céu de Oliveira Antunes - Ricardo da Piedade Abreu Serrão Santos.\n\nPromulgado em 6 de novembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 9 de novembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114719097"
+  }
+ }
+}

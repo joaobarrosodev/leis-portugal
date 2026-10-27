@@ -1,0 +1,297 @@
+---
+schema_version: '1.0'
+id: pt:dre:174830:por
+title: Decreto Regulamentar Regional n.º 25/2012/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 25/2012/M
+official_date: null
+publication_date: '2012-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/2012, Série I de 2012-09-03
+  number: '170'
+  series: I
+  supplement: null
+  pages: 5069 - 5071
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/09/17000/0506905071.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/25/2012/09/03/m/dre/pt/html
+  oj: null
+  dre: '174830'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/25-2012-174830
+  internal: pt:dre:174830:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2012-174830
+  metadata_url: https://data.dre.pt/eli/decregulreg/25/2012/09/03/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2012-174830
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 94109f692389ca28ca21ffd91173ee04eeac11d868937466fd8418a399b93923
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direção Regional de Planeamento Recursos e Gestão de Obras Públicas
+- Extinção de Carreiras
+- Extinção de Serviços
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretário Regional do Equipamento Social
+- Transferência de Competências
+- Vice-presidência do Governo Regional
+relationships:
+- type: amended_by
+  target: pt:dre:75195062:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:58683385:por
+  label: Alterado o art. 5.º da orgânica aprovada pelo presente diploma pelo(a) Decreto Regulamentar Regional n.º 11/2014/M
+    - Diário da República n.º 211/2014, Série I de 2014-10-31, que a republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2014-58683385
+  date: '2014-10-31'
+- type: cites
+  target: pt:dre:145229:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/9/2011/12/19/m/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8/2011/11/14/m/dre
+- type: cites
+  target: pt:dre:249979:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/7/2008/04/21/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:670491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75195062:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 20/2016/M - Diário da República n.º 163/2016, Série I de 2016-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2016-75195062
+  date: '2016-08-25'
+article_structure:
+  article_count: 14
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:47:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 25/2012/M
+
+Aprova a orgânica da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas
+
+O [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, que aprovou a estrutura orgânica da Vice-Presidência do Governo Regional, integrou nos termos da alínea h) do n.º 1 do seu artigo 6.º, no âmbito dos seus serviços centrais, a Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas.
+
+Esta Direção Regional reflete o modelo organizativo plasmado no [Decreto Regulamentar Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2011-146269), de 14 de novembro, que cometeu o setor dos edifícios e equipamentos públicos e das obras públicas à missão da Vice-Presidência.
+
+É, neste contexto, que o presente decreto regulamentar regional aprova a estrutura orgânica da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas cuja missão visa assegurar as funções de apoio técnico e logístico aos serviços executores de obras públicas que integravam a estrutura da extinta Secretaria Regional do Equipamento Social, nos domínios do Planeamento, Recursos e Gestão, procurando promover a necessária transversalidade e eficiência dos serviços, assim como a otimização e racionalização do funcionamento das estruturas governativas.
+
+Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º, ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, das alíneas f) e m) do artigo 2.º e do artigo 9.º do [Decreto Regulamentar Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2011-146269), de 14 de novembro, e da alínea h) do n.º 1 e do n.º 3 do artigo 6.º da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A orgânica da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas, abreviadamente designada por DRPRGOP, é aprovada em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º — Extinção e fusão de serviços
+
+1 - É extinta a Auditoria Regional do Equipamento Social.
+
+2 - São extintos, sendo objeto de fusão, o Gabinete do Secretário Regional, o Gabinete de Gestão e Controlo Orçamental e o Gabinete de Pessoal e Administração da extinta Secretaria Regional do Equipamento Social, sendo as suas atribuições integradas na DRPRGOP.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 9 de agosto de 2012.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 24 de agosto de 2012.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO — (a que se refere o artigo 1.º do diploma preambular)
+
+Orgânica da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas
+
+### CAPÍTULO I — Natureza, missão e atribuições
+
+###### Artigo 1.º — Natureza
+
+A DRPRGOP é um serviço executivo, central, integrado na estrutura da Vice-Presidência do Governo Regional e sob a administração direta da Região Autónoma da Madeira, que prossegue as atribuições de apoio técnico e logístico relativas aos setores da Administração Pública, a que se refere as alíneas f) e m) do n.º 1 do artigo 2.º do [Decreto Regulamentar Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2011-146269), de 14 de novembro.
+
+###### Artigo 2.º — Missão
+
+A DRPRGOP tem por missão assegurar as funções de apoio técnico e logístico à Direção Regional de Infraestruturas e Equipamentos e à Direção Regional de Edifícios Públicos, nos domínios da gestão dos recursos humanos, do apoio técnico-jurídico e contencioso, da documentação de informação, da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental.
+
+###### Artigo 3.º — Atribuições
+
+Na prossecução da sua missão, são atribuições da DRPRGOP:
+
+a) Prestar aos serviços e organismos executores de obras públicas, o apoio técnico e administrativo, que lhe for solicitado, que não se inclua nas atribuições próprias dos mesmos;
+
+b) Prestar, na área das suas atribuições, o apoio administrativo e logístico no âmbito da identificação dos imóveis necessários à concretização das obras públicas, a executar pelos serviços da Vice-Presidência;
+
+c) Coordenar, na sua área setorial, a preparação e acompanhamento da execução dos planos anuais e plurianuais dos investimentos;
+
+d) Emitir pareceres e informações jurídicas, promover a preparação de projetos de diplomas e de outros atos normativos, e prestar apoio jurídico-contencioso no domínio das suas atribuições no setor da hidráulica e das obras públicas;
+
+e) Coordenar e acompanhar a tramitação processual dos diferentes procedimentos administrativos de contratação pública sujeita ao regime jurídico aplicável aos contratos públicos;
+
+f) Coordenar a utilização, gestão e manutenção dos equipamentos e viaturas ao serviço do Governo Regional e promover a aquisição e gestão dos materiais destinados à manutenção dos mesmos e às obras promovidas por administração direta;
+
+g) Promover, em articulação com a Direção Regional de Infraestruturas e Equipamentos e a Direção Regional de Edifícios Públicos, a gestão dos recursos humanos e das instalações a eles afetas;
+
+h) Promover e coordenar, no domínio da sua atuação, os estudos necessários à fundamentação e formulação das propostas sectoriais de políticas públicas cometidas à Vice-Presidência e desenvolver as medidas necessárias à sua implementação;
+
+i) Assegurar a divulgação, dentro da sua área funcional, das leis, regulamentos, instruções, diretivas, despachos e demais normas jurídicas e contratuais, necessárias ao seu normal funcionamento;
+
+j) Programar e coordenar a implementação de medidas conducentes a promover de forma permanente e integrada, a inovação, a modernização e a política de qualidade do setor das obras públicas que não se inclua nas atribuições próprias dos demais serviços.
+
+### CAPÍTULO II — Direção superior e serviço dependente
+
+#### SECÇÃO ÚNICA — Cargo, competências e serviço dependente do diretor regional
+
+###### Artigo 4.º — Diretor regional
+
+1 - A DRPRGOP é dirigida pelo Diretor Regional de Planeamento, Recursos e Gestão de Obras Públicas, adiante designado por diretor regional, cargo de direção superior do 1.º grau.
+
+2 - No desempenho das suas funções, compete, designadamente, ao diretor regional:
+
+a) Coligir as informações respeitantes ao andamento dos serviços e assegurar o funcionamento harmonioso de todos eles;
+
+b) Preparar e coordenar os assuntos a submeter a despacho e assegurar a transmissão ao exterior e aos serviços dos despachos, ordens e instruções do Vice-Presidente do Governo Regional;
+
+c) Coordenar, dentro da sua área funcional, a divulgação de instruções, circulares ou outras normas de caráter genérico destinadas aos serviços executores de obras públicas sob tutela da Vice-Presidência do Governo Regional;
+
+d) Determinar a realização de estudos e outros trabalhos considerados necessários à Direção Regional;
+
+e) Contratar com fornecedores no âmbito das suas competências;
+
+f) Autorizar despesas de acordo com competências atribuídas por lei;
+
+g) Definir e propor para decisão superior, tudo o que se torne necessário ao adequado funcionamento da Direção Regional.
+
+3 - O diretor regional pode, nos termos da lei, delegar, com possibilidades de subdelegação, algumas das suas competências.
+
+4 - O diretor regional é substituído nas suas faltas e impedimentos nos termos do disposto no artigo 41.º do Código do Procedimento Administrativo.
+
+5 - Na direta dependência do diretor regional funciona o Gabinete de Administração, Pessoal e Controlo Orçamental.
+
+###### Artigo 5.º — Gabinete de Administração, Pessoal e Controlo Orçamental
+
+1 - O Gabinete de Administração, Pessoal e Controlo Orçamental, adiante designado por GAPCO, é o serviço que tem por missão coordenar a gestão dos recursos humanos, orçamentais, e patrimoniais móveis não mecânicos, assegurando os procedimentos administrativos dessa gestão e a coordenar e executar o procedimento relativo à cabimentação e processamento de despesas, da Direção de Regional de Planeamento, Recursos e Gestão de Obras Públicas, da Direção Regional de Infraestruturas e Equipamentos e da Direção Regional de Edifícios Públicos.
+
+2 - O GAPCO é dirigido por um diretor, equiparado para todos os efeitos legais, a subdiretor regional, cargo de direção superior do 2.º grau.
+
+### CAPÍTULO III — Estrutura orgânica
+
+###### Artigo 6.º — Tipo de organização interna
+
+A DRPRGOP obedece ao modelo de organização interna de estrutura hierarquizada.
+
+###### Artigo 7.º — Dotação de cargos de direção
+
+A dotação de cargos de direção superior do 1.º e 2.º graus e de direção intermédia do 1.º grau consta do mapa anexo que faz parte integrante do presente diploma, no qual se inclui ainda a dotação do cargo de chefe de departamento.
+
+###### Artigo 8.º — Carreiras a extinguir
+
+1 - Os postos de trabalho existentes na DRPRGOP relativos à carreira de coordenador, prevista no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, são extintos à medida que vagarem.
+
+2 - Os postos de trabalho relativos ao cargo de chefe de departamento extinguem-se nos termos do previsto no artigo 21.º do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto.
+
+3 - À carreira de coordenador e à categoria correspondente ao cargo de chefe de departamento, a que se referem os números anteriores, é aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 9.º — Norma transitória
+
+1 - A estrutura hierarquizada da DRPRGOP é constituída por unidades orgânicas nucleares e flexíveis, departamentos e secções, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro.
+
+2 - Até a aprovação da organização interna da DRPRGOP, mantém-se em vigor a anterior estrutura dos serviços constantes no [Decreto Regulamentar Regional n.º 7/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2008-249979), de 21 de abril, alterado pelo [Decreto Regulamentar Regional n.º 6/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2011-670491), de 6 de julho, na parte relativa ao Gabinete do Secretário Regional, ao Gabinete de Gestão e Controlo Orçamental e ao Gabinete de Pessoal e Administração, bem como se mantêm as comissões de serviço dos titulares de cargos de direção intermédia.
+
+###### Artigo 10.º — Procedimentos concursais pendentes
+
+Mantêm-se os procedimentos concursais de recrutamento de pessoal, dos serviços objeto de fusão, pendentes à data da entrada em vigor do presente diploma.
+
+###### Artigo 11.º — Transição de pessoal
+
+A transição de pessoal far-se-á para igual carreira e categoria, através de lista nominativa a aprovar por despacho do Vice-Presidente do Governo Regional.
+
+MAPA ANEXO
+
+(a que se refere o artigo 7.º da orgânica da DRPRGOP)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0506905071.pdf)

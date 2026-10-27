@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:1152409217:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 24/2026/M
+short_title: null
+summary: Apresenta à Assembleia da República a quinta alteração à Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade
+  dos recursos hídricos.
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 24/2026/M
+official_date: null
+publication_date: '2026-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2026, Série I de 2026-07-27
+  number: '143'
+  series: I
+  supplement: null
+  pages: 46 - 48
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14300/0004600048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/24/2026/07/27/m/dre/pt/html
+  oj: null
+  dre: '1152409217'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2026-1152409217
+  internal: pt:dre:1152409217:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2026-1152409217
+  metadata_url: https://data.dre.pt/eli/resolalram/24/2026/07/27/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2026-1152409217
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6e67de7162662463c172996fa5445792d154ad8b96d6c0410d78a5a5b2ccc073
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa
+- Assembleia Legislativa Regional
+- Domínio Público
+- Estatuto Político-Administrativo da Região Autónoma da Madeira
+- Iniciativa Legislativa
+- Madeira.região Autónoma
+- Recursos Hídricos
+relationships:
+- type: cites
+  target: pt:dre:220061174:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
+- type: cites
+  target: pt:dre:25676901:por
+  label: null
+  source: http://data.dre.pt/eli/lei/34/2014/06/19/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:503829:por
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2013/11/21/p/dre
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2016/08/23/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:47:57Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 24/2026/M
+
+Proposta de lei à Assembleia da República - Quinta alteração à [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, que estabelece a titularidade dos recursos hídricos
+
+A condição arquipelágica da Madeira e dos Açores constitui dos principais fundamentos da dimensão atlântica do Estado Português. Mais de 80 % da Zona Económica Exclusiva nacional resulta diretamente da existência territorial das Regiões Autónomas, realidade que projeta Portugal como uma das maiores potências marítimas da União Europeia e lhe confere uma posição geoestratégica particularmente relevante no Atlântico.
+
+A profundidade oceânica do território nacional, a expressão do espaço marítimo sob soberania e jurisdição portuguesas e uma parte substancial da relevância estratégica que o País detém em matérias relacionadas com o mar encontram, assim, nos arquipélagos atlânticos o seu principal, senão quase exclusivo, suporte territorial e geográfico.
+
+A relevância constitucional, territorial e estratégica das Regiões Autónomas na afirmação marítima do Estado Português exige, por isso, uma correspondência efetiva ao nível do modelo de governação do domínio público marítimo.
+
+A projeção atlântica nacional, esmagadoramente sustentada pela realidade arquipelágica dos Açores e da Madeira, impõe o reconhecimento de uma participação material das Regiões Autónomas na definição das políticas públicas relativas ao mar e no exercício dos respetivos poderes de gestão e administração, em conformidade com o princípio autonómico consagrado constitucionalmente e com a especial vinculação territorial que mantêm relativamente aos espaços marítimos adjacentes aos respetivos arquipélagos.
+
+A atual redação da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, ao estabelecer no artigo 4.º que o domínio público marítimo pertence exclusivamente ao Estado, consagra uma formulação desajustada da realidade autonómica portuguesa, desconsiderando o quadro constitucional, nomeadamente o artigo 84.º da Constituição da República Portuguesa, que remete para a lei a definição dos bens que integram o domínio público do Estado, o domínio público das regiões autónomas e o domínio público das autarquias locais, bem como o seu regime, condições de utilização e limites.
+
+O artigo 2.º da referida [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, estabelece que o domínio público hídrico compreende o domínio público marítimo, o domínio público lacustre e fluvial e o domínio público das restantes águas, e que o domínio público hídrico pode pertencer ao Estado, às Regiões Autónomas e aos municípios e freguesias.
+
+Não obstante serem já reconhecidos às Regiões Autónomas determinados poderes, permanece ausente do regime jurídico vigente um verdadeiro modelo de participação plena na definição das políticas públicas relativas ao mar, bem como nos poderes de gestão e administração.
+
+O regime atualmente consagrado tem vindo a revelar-se, manifestamente, insuficiente perante a centralidade que o mar assume na afirmação económica, territorial, ambiental e geoestratégica do Estado Português. Aliás, a jurisprudência do Tribunal Constitucional tem estado dividida sobre a matéria do domínio público marítimo, deixando a porta aberta para o mecanismo de cogestão ou gestão partilhada entre Estado e Regiões Autónomas, com salvaguarda da soberania nacional.
+
+A presente iniciativa legislativa visa, precisamente, proceder a uma correção deste desajustamento entre a norma constitucional e a lei, reconhecendo expressamente que o domínio público marítimo nas áreas territoriais dos Açores e da Madeira implica determinantemente a participação das respetivas Regiões Autónomas na definição das políticas públicas e no exercício dos poderes de administração, gestão e jurisdição.
+
+A solução ora concretizada salvaguarda a soberania do Estado, pois a relevância marítima e oceânica nacional resulta, precisamente, da existência dos territórios insulares. Ademais, concretiza a indivisibilidade da soberania nacional, com o reconhecimento da legitimidade político-administrativa das Regiões Autónomas para intervirem ativamente na gestão dos espaços marítimos.
+
+Esta alteração permite criar as condições legais necessárias para concretizar o preceito constitucional e, assim, as Regiões Autónomas podem desenvolver mecanismos legislativos próprios para o mar territorial integrado nos respetivos territórios, sempre em conformidade com as especificidades regionais e com as exigências decorrentes da proteção ambiental, da valorização económica sustentável e da salvaguarda do interesse público.
+
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+
+###### Artigo 1.º — Alteração à [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro
+
+Os artigos 4.º, 13.º e 14.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, alterada pelas Leis n.os[78/2013](https://diariodarepublica.pt/dr/detalhe/lei/78-2013-503829), de 21 de novembro, [34/2014](https://diariodarepublica.pt/dr/detalhe/lei/34-2014-25676901), de 19 de junho, [31/2016](https://diariodarepublica.pt/dr/detalhe/lei/31-2016-75170439), de 23 de agosto, e pela [Lei Orgânica n.º 2/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), de 18 de agosto, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - O domínio público marítimo pertence ao Estado, sem prejuízo dos poderes das Regiões Autónomas, respeitantes à definição das políticas públicas, gestão, administração, fiscalização, aproveitamento e utilização dos bens.
+
+2 - O previsto no número anterior salvaguarda os estatutos político-administrativos das Regiões Autónomas e o princípio da soberania e da unidade do Estado em matéria de segurança e defesa.
+
+Artigo 13.º
+
+[...]
+
+Os leitos dominiais que forem abandonados pelas águas, ou lhes forem conquistados, não acrescem às parcelas privadas da margem que porventura lhes sejam contíguas, continuando integrados no domínio público se não excederem as larguras fixadas no artigo 11.º e entrando automaticamente no domínio privado do Estado ou da respetiva Região Autónoma, no caso contrário.
+
+Artigo 14.º
+
+[...]
+
+1 - [...]
+
+2 - Se as parcelas privadas contíguas a leitos dominiais forem invadidas pelas águas que nelas permaneçam sem que haja corrosão dos terrenos, os respetivos proprietários conservam o seu direito de propriedade, mas o Estado ou as Regiões Autónomas podem expropriar essas parcelas.»
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2026.
+
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119949126

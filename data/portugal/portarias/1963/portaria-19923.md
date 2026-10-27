@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:693229:por
+title: Portaria n.º 19923
+short_title: null
+summary: Determina que o Governo da província ultramarina de Timor abra créditos destinados a reforçar verbas consignadas
+  à execução do programa de execução da 2.ª fase do Plano de Fomento, inscritas na tabela de despesa extraordinária do orçamento
+  geral em vigor naquela província
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '19923'
+official_date: null
+publication_date: '1963-06-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 151/1963, Série I de 1963-06-28
+  number: '151'
+  series: I
+  supplement: null
+  pages: 802 - 802
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/06/15100/08020802.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '693229'
+  dre_path: /dr/detalhe/portaria/19923-1963-693229
+  internal: pt:dre:693229:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19923-1963-693229
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19923-1963-693229
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:30:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6ae092f1952f0338f132ddea3b4920ed6e9233d1387073a05ac883a8f20f7c55
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito Especial
+- Orçamento
+- Reforço de Verbas
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431981:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:30:44Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19923
+
+Considerando o que o Governo da província de Timor propôs no sentido de serem utilizados saldos de dotações de objectivos do programa de execução do II Plano de Fomento de 1962 no reforço de dotações de objectivos correspondentes inscritos no programa aprovado para o ano em curso;
+
+Atendendo a que esses recursos são absolutamente indispensáveis à satisfação de despesas provenientes da execução dos programas aprovados;
+
+Tendo em vista a autorização dada pelo Conselho Económico em sessão de 17 de Outubro de 1961:
+
+Manda o Governo da República Portuguesa, pelo Ministro dó Ultramar, nos termos dos artigos 13.º, 11.º, alínea h), e 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o disposto no artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo de Timor abra os seguintes créditos especiais:
+
+1) Um de 3314264$84, tomando como contrapartida igual importância a sair do subsídio reembolsável da metrópole, autorizado pelo [Decreto-Lei n.º 40379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40379-1955-248070), de 15 de Novembro de 1955, destinado a reforçar com estas quantias as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
+
+Capítulo 12.º, artigo 235.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
+
+II) «Comunicações e transportes»:
+
+3) «Pequenos portos e aquisição de embarcações» ... 60355$45
+
+4) «Aeroportos e material aeronáutico» ... 3253909$39
+
+... 3314264$84
+
+2) Um de 13963666$68, tomando como contrapartida igual quantia a sair das disponibilidades do subsídio da metrópole, autorizado pelo [Decreto-Lei n.º 42479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42479-1959-431981), de 31 de Agosto de 1959, para reforçar estas verbas da mesma tabela de despesa com as seguintes importâncias:
+
+Capítulo 12.º, artigo 235.º «Plano de Fomento - Programa de execução da 2.ª fase, 1963»:
+
+I) «Aproveitamento de recursos»:
+
+1) «Agricultura, silvicultura e pecuária»:
+
+a) «Fomento agrário» ... 12625$20
+
+b) «Fomento florestal» ... 196385$00
+
+c) «Fomento pecuário» ... 206800$10
+
+2) «Indústrias»:
+
+a) «Estudo e financiamento de indústrias» ... 224336$60
+
+II) «Comunicações e transportes»:
+
+1) «Execução do plano rodoviário» ... 4923029$01
+
+3) «Pequenos portos e aquisição de embarcações» ... 53046$65
+
+5) «Telecomunicações» ... 1859745$10
+
+III) «Instrução e saúde»:
+
+1) «Construção e apetrechamento de instalações escolares» ... 1306892$51
+
+2) «Construção e equipamento de instalações hospitalares e congéneres» ... 826945$00
+
+IV) «Melhoramentos locais»:
+
+1) «Urbanização, incluindo a construção de edifícios públicos ou de interesse geral» ... 824047$80
+
+2) «Saneamento urbano» ... 167793$80
+
+3) «Abastecimento de água e energia» ... 792918$61
+
+V) «Equipamento de serviços públicos»:
+
+1) «Instalação para serviços públicos» ... 1759921$30
+
+2) «Apetrechamento mecânico e oficinal» ... 809180$00
+
+... 13963666$68
+
+Ministério do Ultramar, 28 de Junho de 1963. - Pelo Ministro do Ultramar, Mário Ângelo Morais de Oliveira, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Timor. - M. de Oliveira.

@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522975:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-949827571",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2001-522975",
+ "source_lastmod": "2025-11-24",
+ "versions": [
+  {
+   "date": "2001-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "949908485",
+    "949908477",
+    "949908478",
+    "949908479",
+    "949908480"
+   ]
+  }
+ ],
+ "fragments": {
+  "949908485": {
+   "fragment_id": "949827572",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 13/2001/A\n\nReserva florestal de recreio da Prainha\n\nPelo Decreto Legislativo Regional n.º 15/87/A, de 24 de Julho, estabeleceu-se o regime jurídico das reservas florestais. Mais tarde, pelo Decreto Legislativo Regional n.º 16/89/A, de 30 de Agosto, foram criadas algumas reservas florestais de recreio na Região Autónoma dos Açores;\n\nO Parque Florestal de Recreio da Prainha, cuja construção foi iniciada em 1988, abrange uma área de 11,97 ha e tem uma extensão de cerca de 2068 m de caminhos, cujas bermas se encontram ajardinadas com várias espécies ornamentais (hibiscos, azáleas, escalónias, hortênsias, etc.);\n\nA flora deste Parque é essencialmente composta por pinheiro-bravo (Pinus pinaster), faia-da-terra (Myrica faya) e incenso (Pittosporum undulatum), existindo ainda uma área específica, com cerca de 452 m2, na qual se encontram expostos diversos exemplares de vegetação endémica dos Açores;\n\nNeste Parque estão implantados dois imóveis de grande valor histórico e patrimonial, nomeadamente a casa e a adega, típicas da ilha do Pico, construídas na sua totalidade em pedra basáltica, constituindo, assim, autênticas reproduções do casario mais genuíno e típico das primeiras habitações desta ilha;\n\nO seu enquadramento paisagístico permite ainda ao visitante não só usufruir de uma excelente panorâmica sobre a Ponta do Mistério da Prainha, mas também apreciar, em dias de fraca neblusidade e como pano de fundo, uma das vistas panorâmicas mais espectaculares sobre a ilha de São Jorge;\n\nFace ao exposto, e porque o Parque Florestal de Recreio da Prainha constitui uma importante área florestal, sob administração regional, cujo aproveitamento principal se relaciona com a ocupação dos tempos livres das populações e visitantes, enquadra-se indubitavelmente no conceito que preside à criação das reservas florestais de recreio:\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º da Lei n.º 61/98, de 27 de Agosto, Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa Regional dos Açores decreta o seguinte:"
+  },
+  "949908477": {
+   "fragment_id": "949827573",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criada a reserva florestal de recreio da Prainha, na freguesia da Prainha, concelho de São Roque, na ilha do Pico."
+  },
+  "949908478": {
+   "fragment_id": "949827574",
+   "type": 11,
+   "heading": "Artigo 2.º — Área e limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Área e limites\n\nA reserva florestal de recreio da Prainha ocupa uma área aproximada de 11,97 ha, confrontando a norte com Maria Gabriela Neves Oliveira e Francisco Rodrigues Moreira, a sul com a estrada regional n.º 1 e José Pereira da Terra, a leste com Jose Vieira Serpa e herdeiros de Lídio Garcia e a oeste com José António Machado e Amaro António Machado, conforme planta anexa ao presente diploma, do qual faz parte integrante."
+  },
+  "949908479": {
+   "fragment_id": "949908775",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\nÀ reserva florestal de recreio da Prainha é aplicável o regime jurídico constante do Decreto Legislativo Regional n.º 15/87/A, de 24 de Julho, bem como o disposto nos artigos 2.º e seguintes do Decreto Legislativo Regional n.º 16/89/A, de 30 de Agosto, e respectiva regulamentação."
+  },
+  "949908480": {
+   "fragment_id": "949908776",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

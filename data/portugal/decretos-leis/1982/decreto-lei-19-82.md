@@ -1,0 +1,483 @@
+---
+schema_version: '1.0'
+id: pt:dre:600723:por
+title: Decreto-Lei n.º 19/82
+short_title: null
+summary: Estabelece normas sobre transporte aéreo não regular
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 19/82
+official_date: null
+publication_date: '1982-01-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/1982, Série I de 1982-01-28
+  number: '23'
+  series: I
+  supplement: null
+  pages: 201 - 205
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/01/02300/02010205.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2004-08-24'
+version_history:
+  file: decreto-lei-19-82.versoes.json
+  count: 4
+  source_lastmod: '2024-08-30'
+  versions:
+  - date: '1982-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-05-19'
+    amending: pt:dre:374831:por
+    amending_title: Decreto-Lei n.º 169/88
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 28.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+  - date: '1991-03-23'
+    amending: pt:dre:475948:por
+    amending_title: Decreto-Lei n.º 111/91
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 22.º
+  - date: '2004-08-24'
+    amending: pt:dre:480517:por
+    amending_title: Decreto-Lei n.º 208/2004
+    changes:
+    - Altera Artigo 28.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 39.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/19/1982/p/cons/20040819/pt/html
+  oj: null
+  dre: '600723'
+  dre_path: /dr/detalhe/decreto-lei/19-1982-600723
+  internal: pt:dre:600723:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1982-600723
+  metadata_url: https://data.dre.pt/eli/dec-lei/19/1982/p/cons/20040819/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-886181524
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-886181524
+  retrieved_at: '2026-10-22T13:13:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-30T00:00:00Z'
+integrity:
+  source_sha256: b7e413de94c62be35a0adde2ed0e388650a311764b3361a2a0763522499efeb8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:13:56Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-19-82.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aviação Civil
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:374831:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 16.º; Altera Artigo 20.º; Altera Artigo 28.º; Revoga Artigo 8.º;
+    Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831
+  date: '1988-05-14'
+- type: amended_by
+  target: pt:dre:475948:por
+  label: Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 15.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948
+  date: '1991-03-18'
+- type: amended_by
+  target: pt:dre:480517:por
+  label: Altera Artigo 28.º; Revoga Artigo 27.º; Revoga Artigo 29.º; Revoga Artigo 30.º; Revoga Artigo 31.º; Revoga Artigo
+    32.º; Revoga Artigo 35.º; Revoga Artigo 36.º; Revoga Artigo 37.º; Revoga Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517
+  date: '2004-08-19'
+article_structure:
+  article_count: 42
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:13:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 19/82
+
+Decreto-Lei n.º 19/82
+
+de 28 de Janeiro
+
+1. O transporte aéreo tem hoje, no sistema global dos transportes, importância económica e social por demais reconhecida para dispensar qualquer esforço justificativo da atenção que, na prática da totalidade dos países, lhe é consagrada. A problemática ligada ao seu desenvolvimento, como instrumento orientado para a resposta a crescentes necessidades colectivas, insere-se efectivamente num quadro vasto e complexo de interacções que, no plano interno como no espaço internacional, impõem soluções ponderadas no contexto dos interesses legítimos em jogo. A tomada de consciência que nos últimos tempos vem incidindo sobre as questões levantadas pelo uso das aeronaves, designadamente em relação com a energia, o ambiente e a ocupação do espaço, o comércio mundial, o movimento turístico e a formação dos grandes espaços económicos, origina, por sua vez, acentuadas pressões nos poderes públicos em ordem à adopção de medidas susceptíveis de promover o melhor equilíbrio entre a satisfação das necessidades de transportes e a utilização rentável, eficaz e segura dos meios mais apropriados.
+
+2. As ligações aéreas satisfazem necessidades e preenchem funções cuja importância no contexto político-geográfico do nosso país justifica o empenhamento do Estado na preparação de medidas institucionais que permitam a sua acção nas formas mais adequadas à satisfação do interesse público. É o caso do transporte regular que, estando vedado a empresas privadas pela Lei n.º 46/77, de 8 de Julho, é hoje objecto principal da actividade de uma empresa pública em regime de exclusividade, salvaguardados, não obstante, os serviços regionais dos Açores e os internacionais executados por transportadores estrangeiros ao abrigo das convenções e acordos de que Portugal seja ou venha a ser signatário.
+
+3. Outras situações existem, contudo, que, pelo seu manifesto interesse comercial ou pelos efeitos que induzem em determinadas actividades económicas, podem vir a tornar-se domínio de interesse para o desenvolvimento da iniciativa privada. Estão nestas condições os serviços aéreos não regulares, cuja importância no panorama da indústria do transporte aéreo se tem revelado crescente nos últimos 20 anos.
+
+Esta expansão, conjugada com a progressiva diversificação das necessidades que a incentivam, e a obrigação da defesa de um justo equilíbrio entre os múltiplos interesses ligados a essas actividades de transporte ou por elas afectados justificam a imposição de certos condicionamentos ao seu exercício, aliás previstos no artigo 5.º da Convenção sobre a Aviação Civil Internacional. No plano nacional a regulamentação correspondente foi objecto do Decreto-Lei n.º 274/78, de 4 de Julho, que, no entanto, se refere exclusivamente às condições de exploração de serviços aéreos internacionais não regulares, executados por transportadores já para esse efeito autorizados.
+
+4. Ao fixar os princípios que irão reger a exploração da indústria do transporte aéreo não regular, teve-se em conta a carência do nosso país de experiência significativa em tal domínio de actividade, não obstante a tentativa que conduziu à publicação do Decreto-Lei n.º 46898, de 10 de Março de 1966. Com efeito, mercê do repetido exercício do direito de opção pela então concessionária nacional do transporte aéreo, primeiro, e da profunda reformulação do quadro legal das actividades económicas, depois, aquela iniciativa legislativa operou, em quase exclusividade, o licenciamento do transporte aéreo privativo de empresas sem ter conseguido acolher qualquer iniciativa de importância significativa em termos de transporte aéreo público não regular. Por isso, o presente diploma, definindo, embora, as linhas essenciais do regime de licenciamento e exploração, reserva a possibilidade de, para cada caso concreto, no acto da concessão da licença, poderem ser estabelecidas as restrições julgadas convenientes. Procura-se, contudo, dar às entidades licenciadas a garantia do uso equilibrado deste poder ao sujeitar o seu exercício ao dever de fundamentação.
+
+5. A imperiosidade de velar pela segurança e comodidade dos utentes e de terceiros conduziu à necessidade de impor exigências de demonstração da capacidade técnica e financeira dos interessados no licenciamento para uma qualquer das modalidades previstas de transporte aéreo, em ordem a obter-se, tanto quanto possível, a garantia de apropriado nível profissional. Na mesma linha de orientação se impõe o seguro obrigatório de responsabilidade civil para cobertura de riscos próprios do transporte, incluindo danos eventualmente causados a terceiros à superfície. Saliente-se, ainda, para além da verificação da idoneidade do requerente, a ênfase atribuída às questões relacionadas com a economia do transporte por razão não apenas da sua indispensável operacionalidade, como, especialmente, em atinência a uma cabal justificação dos encargos que, em termos de equipamento e energia importados e bem assim de qualidade do ambiente, implicam para o País investimentos do tipo dos exigidos em aviação.
+
+6. De momento crê-se que o conjunto de normas que enforma o presente diploma constitui, sem prejuízo de eventuais correcções que a experiência venha a aconselhar, o regime adequado ao licenciamento e exploração do transporte aéreo não regular.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+Para os efeitos do presente diploma, consideram-se transporte aéreo não regular quaisquer voos ou séries de voos, operados sem sujeição a normas sobre regularidade, continuidade ou frequência, destinados a satisfazer necessidades específicas de transporte de passageiros e respectiva bagagem, de carga ou correio, mediante remuneração ou em execução de um contrato de fretamento, por conta de uma ou mais pessoas, um ou outro respeitantes a toda a capacidade da aeronave.
+
+###### Artigo 2.º
+
+- 1 - A indústria de transporte aéreo não regular apenas pode ser explorada por empresas licenciadas para o efeito pelo Ministro da Habitação, Obras Públicas e Transportes.
+
+2 - (Revogado.)
+
+3 - Aos transportes aéreos internacionais não regulares, efectuados por transportadores estrangeiros, aplicar-se-ão as convenções e os acordos de que Portugal for signatário, ou, na sua falta, a lei e as regras mandadas aplicar na autorização dada caso a caso.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 3.º
+
+- 1 - Não carecem de licenciamento as empresas públicas que explorem o transporte aéreo não regular nos termos dos respectivos estatutos.
+
+2 - Igualmente são dispensadas de licença as actividades de transporte aéreo em aeronaves do Estado, no exercício das competências e atribuições dos serviços que as operam.
+
+###### Artigo 4.º
+
+As licenças para exploração da indústria de transportes aéreos não regulares só serão concedidas a empresas que reúnam cumulativamente os seguintes requisitos:
+
+a) Idoneidade e eficácia comerciais;
+
+b) Capacidade técnica e financeira adequada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 5.º
+
+- 1 - Os pedidos para a concessão das licenças a que se refere o artigo anterior serão feitos em requerimento dirigido ao Ministro da Habitação, Obras Públicas e Transportes, definindo claramente o âmbito da licença pretendida, e entregues na Direcção-Geral da Aviação Civil, acompanhados dos elementos comprovativos do preenchimento dos requisitos exigidos, designadamente:
+
+a) Certidão da escritura social e, no caso de sociedade a constituir, do respectivo projecto;
+
+b) Certificados de registo comercial e criminal do requerente ou, no caso de se tratar de uma sociedade comercial, dos indivíduos encarregados da administração, direcção ou gerência social, comprovativos de inexistência dos seguintes factos:
+
+I) Proibição legal do exercício do comércio;
+
+II) Inibição do exercício do comércio, por ter sido declarada a insolvência ou falência, enquanto não for levantada a inibição ou decretada a reabilitação do falido;
+
+III) Condenação com trânsito em julgado, não suspensa, por crime doloso contra a propriedade, em pena de prisão não inferior a 1 ano, salvo havendo reabilitação;
+
+IV) Condenação por trânsito em julgado, em pena inferior a 6 meses de prisão por crime contra a saúde pública ou a economia nacional, salvo havendo reabilitação;
+
+V) Condenação pela prática de concorrência ilícita ou desleal, salvo havendo reabilitação.
+
+2 - Os requerimentos deverão ser acompanhados dos projectos do «Manual de operações» e seus complementos e do «Manual do serviço de manutenção».
+
+3 - Os requerimentos deverão ainda ser instruídos com o estudo das condições de exploração e avaliação económica e financeira do empreendimento, destinado especificamente a provar a viabilidade do projecto.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 111/91 - Diário da República n.º 64/1991, Série I-A de 1991-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948), em vigor a partir de 1991-03-23
+
+###### Artigo 6.º
+
+- 1 - O exercício da indústria do transporte aéreo não regular está condicionado à existência de uma frota mínima a fixar caso a caso no título da licença, permanentemente afecta ao serviço da empresa, da sua propriedade ou alugada a prazo, devendo as aeronaves estar registadas e certificadas em Portugal.
+
+2 - O emprego eventual de aeronaves em regime de contrato de aluguer ou fretamento ou a cedência a entidade nacional ou estrangeira de aeronaves de propriedade do titular da licença carecem de autorização da Direcção-Geral da Aviação Civil, que fixará, quando a concede, as condições de prazo e operação que julgar convenientes.
+
+###### Artigo 7.º
+
+- 1 - O quadro de pessoal das empresas licenciadas nos termos do artigo 2.º, n.º 1, nomeadamente o de pessoal de operação, de manutenção e engenharia, deverá ser integrado, pelos menos, em 90%, por indivíduos de nacionalidade portuguesa.
+
+2 - O Ministro da Habitação, Obras Públicas e Transportes, sempre que as circunstâncias o aconselhem, poderá fixar uma percentagem diferente da imposta no número anterior.
+
+###### Artigo 8.º
+
+- 1 - As licenças a que se refere o n.º 2 do artigo 2.º apenas serão concedidas a entidades que reúnam os requisitos constantes do artigo 4.º, n.º 1.
+
+2 - Os requerimentos deverão ser elaborados de acordo com o disposto no artigo 5.º, n.os 1 e 2, devendo ainda ser acompanhados de uma memória descritiva detalhada dos fundamentos do pedido.
+
+> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 9.º
+
+As empresas licenciadas nos termos do artigo anterior apenas poderão transportar pessoal ou mercadorias dessas empresas e em aviões da sua propriedade.
+
+> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 10.º
+
+O titular de uma licença concedida ao abrigo deste decreto-lei deverá dispor no território nacional de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil, nos termos da regulamentação em vigor.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 111/91 - Diário da República n.º 64/1991, Série I-A de 1991-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948), em vigor a partir de 1991-03-23
+
+###### Artigo 11.º
+
+As licenças concedidas nos termos do presente diploma são intransmissíveis.
+
+###### Artigo 12.º
+
+- 1 - A Direcção-Geral da Aviação Civil elaborará um processo administrativo sobre cada pedido, podendo solicitar ao requerente todos os elementos adicionais que considere necessários à respectiva instrução.
+
+2 - O processo referido no número anterior será submetido a despacho ministerial com parecer da Direcção-Geral da Aviação Civil.
+
+3 - Os despachos que concedem as licenças serão publicados na 2.ª série do Diário da República.
+
+###### Artigo 13.º
+
+- 1 - As licenças serão concedidas pelo prazo máximo de 10 anos, podendo ser sucessivamente prorrogadas.
+
+2 - As prorrogações deverão ser requeridas com a antecedência de 6 meses relativamente ao termo do prazo por que a licença foi concedida ou da prorrogação em curso.
+
+###### Artigo 14.º
+
+- 1 - Os títulos das licenças conterão sempre as condições, nomeadamente de ordem técnica e financeira, e as limitações quanto ao tipo de equipamento, tipo de exploração, mercados ou áreas geográficas para que o licenciamento é feito e o respectivo prazo.
+
+2 - A licença emitida pode, sempre que as condições do processo de instrução assim o aconselhem, incluir condições e restrições diferentes das constantes do pedido de licenciamento.
+
+3 - Poderá o Ministro da Habitação, Obras Públicas e Transportes fixar, por portaria, uma classificação de licenças e, eventualmente, as condições específicas associadas a cada tipo.
+
+###### Artigo 15.º
+
+O exercício dos direitos conferidos pela licença estará permanente condicionado à posse de um certificado de operador válido.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 111/91 - Diário da República n.º 64/1991, Série I-A de 1991-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948), em vigor a partir de 1991-03-23
+
+###### Artigo 16.º
+
+As alterações ao pacto social das sociedades titulares de licenças concedidas ao abrigo do presente diploma, bem como a ocorrência superveniente de qualquer facto que conduza à alteração ou inexistência das condições e requisitos referidos nos artigos 4.º, 5.º, n.º 2, e 6.º serão obrigatoriamente comunicadas à Direcção-Geral da Aviação Civil pelos titulares das respectivas licenças, no prazo máximo de dez dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 17.º
+
+- 1 - Sempre que o interesse público o justifique, poderão ser alteradas, por despacho ministerial, as condições em que a licença foi concedida.
+
+2 - Os titulares das licenças poderão solicitar ao Ministro da Habitação, Obras Públicas e Transportes a alteração das condições de licenciamento mediante requerimento fundamentado entregue na Direcção-Geral da Aviação Civil.
+
+3 - As modificações aprovadas serão integradas na licença e vigorarão até ao termo desta ou durante o período que for fixado.
+
+###### Artigo 18.º
+
+Os preços e demais condições do transporte serão submetidos pelos transportadores à prévia aprovação da Direcção-Geral da Aviação Civil, nos prazos que por esta vierem a ser estabelecidos.
+
+###### Artigo 19.º
+
+- 1 - A titularidade de uma licença concedida ao abrigo do n.º 1 do artigo 2.º não dispensa o requisito de autorização ou notificação prévias para a realização de qualquer voo ou série de voos não regulares ao abrigo da mesma, nos termos que vierem a ser definidos por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+
+2 - Os voos ou séries de voos para o estrangeiro que tenham sido objecto de autorização ou notificação prévias podem a todo o tempo estar sujeitos a limitações adicionais ou ser interditos pelo Ministro da Habitação, Obras Públicas e Transportes ou pela Direcção-Geral da Aviação Civil quando razões de, respectivamente, interesse político ou segurança operacional o exijam.
+
+###### Artigo 20.º
+
+- 1 - As entidades licenciadas ao abrigo do n.º 1 do artigo 2.º devem fornecer periodicamente à Direcção-Geral da Aviação Civil, nos prazos e condições que vierem a ser estabelecidos, dados estatísticos sobre o tráfego e a economia da exploração, bem como quaisquer outros elementos úteis à fiscalização referida no artigo 33.º ou necessários à boa execução do presente diploma.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 21.º
+
+- 1 - Os titulares de licenças para a exploração da indústria de transporte aéreo não regular devem organizar a sua contabilidade segundo o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 47/77, de 7 de Fevereiro.
+
+2 - A contabilidade da exploração que constitui o objecto da licença deve ser individualizada, mesmo relativamente a outras actividades afins ou subsidiárias exploradas pela mesma entidade.
+
+###### Artigo 22.º
+
+- 1 - Pela concessão, alteração, suspensão e prorrogação das licenças previstas neste diploma é devido o pagamento das taxas anuais que forem fixadas em portaria do Ministro das Obras Públicas, Transportes e Comunicações.
+
+2 - Sem prejuízo do disposto no número anterior, será sempre devido o reembolso da totalidade das despesas suportadas pela Direcção-Geral da Aviação Civil em actos do âmbito das atribuições que lhe estão cometidas, nos casos em que devam ser executados em local, data ou horário diferentes dos prescritos nas instruções apropriadas emitidas por aquela mesma Direcção-Geral.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 111/91 - Diário da República n.º 64/1991, Série I-A de 1991-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948), em vigor a partir de 1991-03-23
+
+###### Artigo 23.º
+
+As licenças previstas neste diploma podem ser canceladas a pedido do respectivo titular ou por despacho ministerial quando, neste caso, ocorra motivo de interesse público que assim o imponha.
+
+###### Artigo 24.º
+
+- 1 - Os titulares das licenças concedidas ao abrigo deste diploma respondem civilmente pelos danos causados a passageiros, bagagem e carga, bem como a terceiros.
+
+2 - Para garantia do disposto no número anterior, é obrigatória a contratação do seguro de responsabilidade civil que possa resultar da respectiva actividade, em condições não inferiores às exigidas para o transporte aéreo regular.
+
+3 - Sem prejuízo de quaisquer outras disposições legais aplicáveis, a caducidade ou cessação da garantia referida no n.º 2 antecedente implica a suspensão dos efeitos da licença.
+
+###### Artigo 25.º
+
+A requerimento do interessado, poderá o Ministro da Habitação, Obras Públicas e Transportes suspender temporariamente os efeitos da licença, sem prejuízo do respectivo prazo de validade.
+
+###### Artigo 26.º
+
+Serão canceladas as licenças concedidas com fundamento em declarações falsas ou pressupostos afectados por erro, sem prejuízo da responsabilidade criminal a que houver lugar.
+
+###### Artigo 27.º
+
+- 1 - Serão canceladas as licenças para o exercício da indústria de transporte aéreo não regular cujos titulares tenham interrompido a sua exploração por um período igual ou superior a 1 ano sem autorização ou que, por qualquer forma, não preencham os fins para que foram concedidas.
+
+2 - No caso contemplado no número anterior, ao autor será aplicada uma coima entre 100000$00 e 500000$00.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 28.º
+
+1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:
+
+a) A realização de actividades de transporte aéreo com violação das condições impostas no título da licença;
+
+b) O não cumprimento do disposto no artigo 16.º;
+
+c) A falta de autorização ou notificação prévias, nos termos do artigo 19.º;
+
+d) A exploração da licença por entidade diversa do seu titular;
+
+e) O exercício de actividade de transporte aéreo em qualquer das modalidades previstas no presente diploma, por entidade que não esteja devidamente licenciada.
+
+2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações graves:
+
+a) O exercício de actividade de transporte aéreo em qualquer das modalidades previstas no presente diploma, por entidade que seja titular de licença não válida;
+
+b) A interrupção não autorizada de exploração da actividade de transporte aéreo não regular por um período igual ou superior a um ano, pelos respectivos titulares das licenças;
+
+c) A violação das condições de transporte aprovadas.
+
+3 - A licença pode ser cancelada no caso das infracções previstas nas alíneas a), b), c) e d) do n.º 1 e na alínea b) do número anterior.
+
+4 - No caso da alínea e) do n.º 1 e da alínea a) do n.º 2, o agente é notificado para, no prazo de quarenta e oito horas, cessar tal actividade, sob pena da apreensão e perda a favor do Estado das aeronaves e do restante equipamento.
+
+5 - Em caso de reincidência, e sem prejuízo da aplicação da coima respectiva, o equipamento a que se refere o número anterior é imediatamente apreendido e perdido a favor do Estado.
+
+6 - Nos casos das alíneas d) e e) do n.º 1 e da alínea a) do n.º 2, quando o transporte tiver sido contratado através de agente intermediário, a este é aplicada coima no montante previsto pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, para as contra-ordenações muito graves.
+
+7 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/88 - Diário da República n.º 112/1988, Série I de 1988-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1988-374831), em vigor a partir de 1988-05-19
+
+###### Artigo 29.º
+
+A exploração da licença por entidade diversa do seu titular implica o seu cancelamento, bem como a aplicação de coima de 250000$00 a 1000000$00.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 30.º
+
+- 1 - Aquele que sem estar devidamente licenciado ou, sendo titular de licença não válida, exercer uma actividade de transporte aéreo em qualquer das modalidades previstas neste diploma, além de lhe ser cominada uma coima entre 250000$00 e 1000000$00, será notificado para, no prazo de 48 horas, cessar tal actividade, sob pena da apreensão e perda a favor do Estado das aeronaves e do restante equipamento utilizado.
+
+2 - Em caso de reincidência e sem prejuízo da aplicação da coima a que houver lugar, o equipamento a que se refere o número anterior será imediatamente apreendido e perdido a favor do Estado.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 31.º
+
+- 1 - Será ainda aplicada coima entre 25000$00 e 100000$00 a cada um dos utilizadores do transporte facultado nas condições dos artigos 29.º e 30.º, excepto nos casos em que se prove ter o transportador, directamente ou por interposta pessoa, iludido a irregularidade através de falsificação ou viciação de documentos, de publicidade enganosa ou, quando ocorra suspensão dos efeitos de licença de que seja titular, do uso indevido desta.
+
+2 - Quando o transporte tiver sido contratado através de agente intermediário, a este será aplicada coima entre 100000$00 e 500000$00.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 32.º
+
+Pela inobservância de qualquer das disposições deste diploma a que não corresponda outra sanção, será o autor passível de coima entre 25000$00 e 50000$00.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 33.º
+
+Compete à Direcção-Geral da Aviação Civil fiscalizar a observância do disposto no presente diploma e nas normas regulamentares.
+
+###### Artigo 34.º
+
+Os processos relativos às infracções ao disposto no presente diploma e suas disposições regulamentares são instruídos pela Direcção-Geral da Aviação Civil.
+
+###### Artigo 35.º
+
+- 1 - A aplicação de coimas até 200000$00 é da competência do director-geral da Aviação Civil.
+
+2 - A aplicação de multa acima do montante referido no número anterior, bem como o cancelamento das licenças, é da competência do Ministro da Habitação, Obras Públicas e Transportes, sob proposta da Direcção-Geral da Aviação Civil.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 36.º
+
+- 1 - A graduação das coimas será estabelecida com base na gravidade da contra-ordenação e no facto de haver ou não reincidência.
+
+2 - Em caso de reincidência, o valor da coima a aplicar será sempre elevado para o dobro.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 37.º
+
+As coimas aplicadas nos termos do presente diploma constituem receita do Estado.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 38.º
+
+Os créditos por coimas devidas ao Estado têm privilégio creditório sobre as aeronaves e restante equipamento utilizado pelo infractor.
+
+###### Artigo 39.º
+
+Das decisões proferidas ao abrigo deste diploma caberá recurso hierárquico necessário para o Ministro da Habitação, Obras Públicas e Transportes.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 40.º
+
+A Direcção-Geral da Aviação Civil emitirá as instruções necessárias para assegurar o cumprimento efectivo do disposto neste decreto-lei e seus regulamentos.
+
+###### Artigo 41.º
+
+O Ministro da Habitação, Obras Públicas e Transportes, através de portaria, expedirá os regulamentos necessários à boa execução deste decreto-lei.
+
+###### Artigo 42.º
+
+As dúvidas emergentes da interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+
+Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 18 de Janeiro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

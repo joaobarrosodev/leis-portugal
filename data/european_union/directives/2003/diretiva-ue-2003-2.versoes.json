@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0002-20090601",
+ "dre_path": null,
+ "source_lastmod": "2009-06-01",
+ "versions": [
+  {
+   "date": "2003-01-09",
+   "future": false,
+   "celex": "32003L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79288a1b17c8b641",
+    "3b0baed36a58f456",
+    "e7370409681d0731",
+    "271594770ecf7591",
+    "0197236a915a8368",
+    "983eb9b9b46bc504"
+   ]
+  }
+ ],
+ "fragments": {
+  "79288a1b17c8b641": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/2/CE da Comissão, de 6 de Janeiro de 2003, relativa a restrições à colocação no mercado e à utilização de arsénio (décima adaptação ao progresso técnico da Directiva 76/769/CEE do Conselho) (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 004 de 09/01/2003 p. 0009 - 0011*\n\nDirectiva 2003/2/CE da Comissão\n\nde 6 de Janeiro de 2003\n\nrelativa a restrições à colocação no mercado e à utilização de arsénio (décima adaptação ao progresso técnico da Directiva 76/769/CEE do Conselho)\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/769/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas(1), com a última redacção que lhe foi dada pela Directiva 2002/62/CE da Comissão(2), e, em particular, o seu artigo 2.oA, introduzido pela Directiva 89/678/CEE do Conselho(3),\n\nConsiderando o seguinte:\n\n(1) A Directiva 89/677/CEE do Conselho(4) que altera pela oitava vez a Directiva 76/769/CEE coloca restrições à colocação no mercado e à utilização de arsénico.\n\n(2) No contexto de uma revisão da legislação comunitária respeitante ao uso de compostos de arsénico para a protecção da madeira, na sequência da adesão da Áustria, da Finlândia e da Suécia à União Europeia, em 1995, foram realizadas uma avaliação do risco e uma análise das vantagens e das deficiências da introdução de maiores restrições ao uso do arsénico em certos produtos para a protecção da madeira(5).\n\n(3) A avaliação do risco foi entregue ao Comité Científico da Toxicidade, Ecotoxicidade e do Ambiente (CCTEA) para revisão pelos \"pares\"(6) e o comité concluiu que os principais riscos tinham sido identificados correctamente. Entre eles contam-se os riscos para a saúde humana, decorrentes da eliminação de madeira tratada com produtos de protecção que contenham cobre, crómio e arsénico e, em particular, riscos para a saúde das crianças decorrentes do uso de madeira tratada com este tipo de produtos em espaços de recreio para crianças. Também foi identificado um risco para o ambiente aquático em certas águas marinhas.\n\n(4) O CCTEA assinalou ainda que, dada a grave falta de conhecimentos em relação à madeira tratada com arsénico em aterros, seria aconselhável ter alguma cautela, limitando a protecção da madeira com produtos à base de arsénico às situações em que for absolutamente necessário.\n\n(5) Noutra avaliação dos efeitos do arsénico sobre a saúde(7), o CCTEA concluiu que a substância é genotóxica, além de ser um conhecido carcinogéneo, e que poderá ser adequado considerar que não existe um limiar para o efeito carcinogéneo.\n\n(6) Os desperdícios de madeira tratada com este tipo de produtos foram classificados como resíduos perigosos, de acordo com a Decisão 2000/532/CE da Comissão, de 3 de Maio de 2000, que substitui a Decisão 94/3/CE, que estabelece uma lista de resíduos em conformidade com a alínea a) do artigo 1.o da Directiva 75/442/CEE do Conselho relativa aos resíduos, e a Decisão 94/904/CE do Conselho, que estabelece uma lista de resíduos perigosos em conformidade com o n.o 4 do artigo 1.o da Directiva 91/689/CEE do Conselho relativa aos resíduos perigosos(8), com a última redacção que lhe foi dada pela Decisão 2001/573/CE do Conselho(9).\n\n(7) A Directiva 98/8/CE do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 1998, relativa à colocação de produtos biocidas no mercado(10) contém disposições para harmonizar a autorização de biocidas a nível comunitário e o Regulamento (CE) n.o 1896/2000 da Comissão, de 7 de Setembro de 2000, referente à primeira fase do programa referido no n.o 2 do artigo 16.o da Directiva 98/8/CE, relativa aos produtos biocidas(11) exige que os produtos de protecção da madeira sejam avaliados prioritariamente no programa de análise previsto na Directiva 98/8/CE. O arsénico foi identificado e notificado como substância activa, dentro do prazo fixado no Regulamento (CE) n.o 1896/2000. Até 28 de Março de 2004, terá de ser apresentado um processo completo para avaliação do arsénico enquanto substância existente.\n\n(8) No que diz respeito à avaliação do risco e tendo em conta o princípio de precaução, enquanto se aguarda a harmonização das regras ao abrigo da Directiva 98/8/CE ou uma decisão, de acordo com o n.o 3 do artigo 6.o do Regulamento n.o 1896/2000, é necessário adaptar ao progresso técnico as restrições ao arsénico constantes da Directiva 76/769/CEE. A presente directiva não se aplica à madeira tratada com produtos de protecção que contenham cobre, crómio e arsénico e que já esteja a ser utilizada.\n\n(9) A presente directiva deve aplicar-se sem prejuízo da legislação comunitária que estabelece os requisitos mínimos de protecção dos trabalhadores, como a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho(12), a Directiva 90/394/CEE do Conselho, de 28 de Junho de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho (sexta directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE)(13), com a última redacção que lhe foi dada pela Directiva 1999/38/CE(14) e pela Directiva 98/24/CE do Conselho, de 7 de Abril de 1998, relativa à protecção da segurança e da saúde dos trabalhadores contra os riscos ligados à exposição a agentes químicos no trabalho (décima quarta directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE)(15).\n\n(10) As medidas previstas na presente directiva são conformes ao parecer do Comité de Adaptação ao Progresso Técnico das directivas relativas à eliminação dos obstáculos técnicos ao comércio das substâncias e preparações perigosas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3b0baed36a58f456": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 76/769/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "e7370409681d0731": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva até 30 de Junho de 2003. Desse facto informarão imediatamente a Comissão. Os Estados-Membros aplicarão essas disposições até 30 de Junho de 2004.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "0197236a915a8368": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 6 de Janeiro de 2003.\n\nPela Comissão\n\nErkki Liikanen\n\nMembro da Comissão\n\n(1) JO L 262 de 27.9.1976, p. 201.\n\n(2) JO L 183 de 12.7.2002, p. 58.\n\n(3) JO L 398 de 30.12.1989, p. 24.\n\n(4) JO L 398 de 30.12.1989, p. 19.\n\n(5) Assessment of the Risks to Health and to the Environment of Arsenic in Wood Preservatives and of the Effects of Further Restrictions on its marketing and use, 1998.\n\n(6) http://europa.eu.int/comm/ food/fs/sc/sct/out18_en.html.\n\n(7) http://europa.eu.int/comm/ food/fs/sc/sct/out106_en.html.\n\n(8) JO L 226 de 6.9.2000, p. 3.\n\n(9) JO L 203 de 28.7.2001, p. 18.\n\n(10) JO L 123 de 24.4.1998, p. 1.\n\n(11) JO L 228 de 8.9.2000, p. 6.\n\n(12) JO L 183 de 29.6.1989, p. 1.\n\n(13) JO L 196 de 26.7.1990, p. 1.\n\n(14) JO L 138 de 1.6.1999, p. 66.\n\n(15) JO L 131 de 5.5.1998, p. 11."
+  },
+  "983eb9b9b46bc504": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nO ponto 20 do anexo I da Directiva 76/769/CEE passa a ter a seguinte redacção:\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

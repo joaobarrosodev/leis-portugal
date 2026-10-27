@@ -1,0 +1,448 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32022R2105:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2105-20241111",
+ "dre_path": null,
+ "source_lastmod": "2024-11-11",
+ "versions": [
+  {
+   "date": "2022-11-04",
+   "future": false,
+   "celex": "02022R2105-20221104",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "05dd69219e8c2ce5",
+    "6b4e4a92eaa2f247",
+    "42566a1b8ba7ac91",
+    "69f050e76892b7c8",
+    "bce8efd7a8cbe56b",
+    "4f14f69564aad0bd",
+    "656571ce71ede3a0",
+    "c4af004f0982b3d4",
+    "91f04c9fd87d04c5",
+    "37852fbdd5a59c1e",
+    "afc081f5bd34f07b",
+    "14687177be809211",
+    "8e724eb2dbd25172",
+    "1faae75bceca323d",
+    "10139b8f644e69a5",
+    "ba1f2bd7702d31cc",
+    "d664376e2a8dcecd",
+    "0bcdcd779fef1340",
+    "852174729551523b",
+    "4d3797fadca17023",
+    "a5a82632374a1131",
+    "5dcb3798d49db677",
+    "f3be30358074a001",
+    "720af75c92791b10",
+    "f0e0ec3a1ff709a2",
+    "a4bc07c44f3ab935",
+    "e03a0eb4d5b2eef3",
+    "8315c5c5093b4b4c",
+    "3c77b85e5064d777",
+    "4a298921c47cf15f",
+    "5a5f538d5e1792d4",
+    "9e2cbf7f906e9762",
+    "5a4ec16176370ce7"
+   ]
+  },
+  {
+   "date": "2024-11-11",
+   "future": false,
+   "celex": "02022R2105-20241111",
+   "acts": [
+    {
+     "id": "eu:celex:32024R2707:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2024/2707 DA COMISSÃO de 21 de outubro de 2024",
+     "published": null,
+     "celex": "32024R2707"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade",
+    "Altera Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade",
+    "Altera Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional",
+    "Altera MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES",
+    "Altera AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS",
+    "Altera 1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS",
+    "Altera 2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS",
+    "Altera ANEXO V",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "05dd69219e8c2ce5",
+    "6b4e4a92eaa2f247",
+    "84c3e351c95dada9",
+    "69f050e76892b7c8",
+    "03065ca3bc8f20e6",
+    "4f14f69564aad0bd",
+    "57d076f4cb8c6e66",
+    "c4af004f0982b3d4",
+    "91f04c9fd87d04c5",
+    "37852fbdd5a59c1e",
+    "afc081f5bd34f07b",
+    "14687177be809211",
+    "8e724eb2dbd25172",
+    "1faae75bceca323d",
+    "10139b8f644e69a5",
+    "ba1f2bd7702d31cc",
+    "d664376e2a8dcecd",
+    "d5472ab2a6014f09",
+    "852174729551523b",
+    "5ee8cff656b72e97",
+    "927242b6f4731fb0",
+    "49fdfd50620f1f6d",
+    "f3be30358074a001",
+    "720af75c92791b10",
+    "f0e0ec3a1ff709a2",
+    "a4bc07c44f3ab935",
+    "e03a0eb4d5b2eef3",
+    "8315c5c5093b4b4c",
+    "3c77b85e5064d777",
+    "4a298921c47cf15f",
+    "5a5f538d5e1792d4",
+    "e34af03959580b2e",
+    "39917fe8f7411b0b"
+   ]
+  }
+ ],
+ "fragments": {
+  "05dd69219e8c2ce5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de julho de 2022\n\nque estabelece as regras relativas aos controlos de conformidade das normas de comercialização do azeite e aos métodos de análise das características do azeite"
+  },
+  "6b4e4a92eaa2f247": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento estabelece regras sobre:\n\na) Os controlos de conformidade com as normas de comercialização dos azeites referidos no artigo 2.º do Regulamento Delegado (UE) 2022/2104 e a sua aplicação pelos operadores;\n\nb) A cooperação e a assistência entre as autoridades competentes no que diz respeito aos controlos de conformidade referidos na alínea a);\n\nc) Os registos a manter pelos operadores que produzem ou detêm azeite e a aprovação dos embaladores;\n\nd) Os métodos de análise para a determinação das características do azeite."
+  },
+  "42566a1b8ba7ac91": {
+   "fragment_id": "Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade\n\n1. Os Estados-Membros devem efetuar controlos de conformidade do azeite para averiguar a aplicação das normas de comercialização estabelecidas no Regulamento Delegado (UE) 2022/2104, com base na análise de risco referida no artigo 3.º.\n\n2. Os Estados-Membros devem verificar se os operadores cumprem as obrigações que lhes incumbem por força do artigo 5.º, n.º 1.\n\n3. Cada Estado-Membro deve comunicar à Comissão, em conformidade com o Regulamento Delegado (UE) 2017/1183 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0001)), o nome e o endereço da(s) autoridade(s) competente(s) para efetuar os controlos de conformidade previstos no presente regulamento. A Comissão informa os outros Estados-Membros e, a pedido, qualquer parte interessada, dessas autoridades competentes. Os Estados-Membros devem comunicar à Comissão todas as alterações que venham a ocorrer."
+  },
+  "69f050e76892b7c8": {
+   "fragment_id": "Artigo 3.º — Frequência dos controlos de conformidade e análise de risco",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Frequência dos controlos de conformidade e análise de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Frequência dos controlos de conformidade e análise de risco\n\n1. Para efeitos do disposto no presente artigo, entende-se por «azeite comercializado» a quantidade total de azeite disponibilizado no mercado de um Estado-Membro e dele exportado.\n\n2. Os Estados-Membros devem efetuar, no mínimo, um controlo de conformidade por ano por cada mil toneladas de azeite comercializado no seu território.\n\n3. Os Estados-Membros devem zelar por que os controlos de conformidade sejam efetuados seletivamente, com base numa análise de risco e com a frequência adequada, para garantir que o azeite comercializado corresponde à categoria declarada.\n\n4.\n\nOs critérios de avaliação do risco são, designadamente:\n\na) A categoria de azeite, na aceção do artigo 2.º do Regulamento Delegado (UE) 2022/2104, o período de produção, o seu preço em relação ao de outros óleos vegetais, as operações de loteamento e de acondicionamento, as instalações e condições de armazenamento, o país de origem, o país de destino, o meio de transporte e o volume do lote;\n\nb) A posição do operador na cadeia de comercialização, o volume e valor comercializado pelo operador, a gama de categorias de azeite que o operador comercializa e o tipo de atividade em causa (extração, armazenamento, refinação, loteamento, acondicionamento ou venda a retalho);\n\nc) Constatações de controlos precedentes, incluindo o número e o tipo de defeitos detetados, a qualidade habitual do azeite comercializado e o desempenho do equipamento técnico utilizado;\n\nd) A fiabilidade dos sistemas de garantia de qualidade ou de autocontrolo dos operadores, relativos à conformidade com as normas de comercialização;\n\ne) O local de realização do controlo de conformidade, nomeadamente se é o primeiro ponto de entrada na União, o último ponto de saída da União ou o local onde os azeites são produzidos, embalados, carregados ou vendidos ao consumidor final;\n\nf) Qualquer outra informação suscetível de indicar um risco de não conformidade.\n\n5.\n\nOs Estados-Membros devem estabelecer previamente:\n\na) Os critérios de avaliação do risco de não conformidade dos lotes;\n\nb) Com base numa análise de risco, para cada categoria de risco, o número mínimo de operadores ou lotes, e/ou as quantidades mínimas, a submeter a um controlo de conformidade.\n\n6. Se os controlos revelarem irregularidades significativas, os Estados-Membros devem aumentar a frequência dos controlos efetuados em relação ao estádio de comercialização, à categoria de azeite, à origem dos mesmos ou a outros critérios."
+  },
+  "bce8efd7a8cbe56b": {
+   "fragment_id": "Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade\n\n1. Se for detetada alguma irregularidade e o operador indicado no rótulo estiver estabelecido noutro Estado-Membro, o Estado-Membro em causa deve apresentar um pedido de verificação, em conformidade com o Regulamento de Execução (UE) 2019/1715 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0002)), ao Estado-Membro em que está estabelecido o operador constante do rótulo.\n\n2.\n\nAlém dos requisitos estabelecidos no artigo 16.º do Regulamento de Execução (UE) 2019/1715, o pedido referido no n.º 1 do presente artigo deve ser acompanhado de todas as informações necessárias para a verificação, nomeadamente:\n\na) Da data da amostragem ou da compra do azeite em causa;\n\nb) Do nome ou designação social e do endereço do estabelecimento em que teve lugar a amostragem ou a compra do azeite em causa;\n\nc) Do número dos lotes em questão;\n\nd) Da cópia de todos os rótulos que se encontram na embalagem do azeite em causa;\n\ne) Dos resultados da análise ou de outras peritagens contraditórias, com indicação dos métodos utilizados e do nome e endereço do laboratório ou do perito;\n\nf) Se aplicável, do nome e do endereço do fornecedor do azeite em questão, tal como declarados pelo estabelecimento de venda.\n\n3. Além dos requisitos estabelecidos no artigo 22.º do Regulamento de Execução (UE) 2019/1715, o Estado-Membro ao qual o pedido é dirigido deve colher amostras o mais tardar antes do final do mês seguinte ao do pedido e verificar as indicações na rotulagem em causa. Deve responder no prazo de três meses a contar da data do pedido."
+  },
+  "4f14f69564aad0bd": {
+   "fragment_id": "Artigo 5.º — Obrigações dos operadores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos operadores\n\n1. Para efeitos dos controlos de conformidade, os operadores do lagar devem manter, até à fase de engarrafamento, registos das entradas e saídas relativos a cada categoria de azeite de que disponham.\n\n2.\n\nA pedido do Estado-Membro em que está estabelecido o operador constante do rótulo, o operador deve fornecer documentação relativa ao cumprimento dos requisitos referidos nos artigos 6.º, 8.º e 10.º do Regulamento Delegado (UE) 2022/2104 com base num ou mais dos seguintes elementos:\n\na) Elementos reais ou cientificamente estabelecidos;\n\nb) Resultados de análises ou de registos automáticos de amostras representativas;\n\nc) Informações administrativas ou contabilísticas mantidas em conformidade com as regulamentações da União e nacionais."
+  },
+  "656571ce71ede3a0": {
+   "fragment_id": "Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional\n\n1. Os Estados-Membros têm a possibilidade de aprovar os embaladores situados no seu território.\n\n2.\n\nSempre que decidam fazer uso do disposto no n.º 1, os Estados-Membros devem conceder a aprovação e atribuir uma identificação alfanumérica aos embaladores que o solicitem e que satisfaçam as seguintes condições:\n\na) Disporem de instalações de acondicionamento;\n\nb) Comprometerem-se a recolher e a conservar a documentação referida no artigo 5.º;\n\nc) Disporem de um sistema de armazenamento que permita verificar a proveniência dos azeites cuja rotulagem do local de origem é obrigatória em conformidade com o artigo 8.º, n.º 1, do Regulamento Delegado (UE) 2022/2104.\n\n3. Sempre que decidam fazer uso do disposto no n.º 1, os Estados-Membros devem comunicar à Comissão as modalidades pertinentes, em conformidade com a Diretiva (UE) 2015/1535 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0003))."
+  },
+  "c4af004f0982b3d4": {
+   "fragment_id": "Artigo 7.º — Métodos de análise para a determinação das características dos azeites",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Métodos de análise para a determinação das características dos azeites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de análise para a determinação das características dos azeites\n\nAs características dos azeites estabelecidas no anexo I do Regulamento Delegado (UE) 2022/2104 são determinadas em conformidade com os métodos de análise estabelecidos no anexo I do presente regulamento."
+  },
+  "91f04c9fd87d04c5": {
+   "fragment_id": "Artigo 8.º — Amostragem para os controlos de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Amostragem para os controlos de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Amostragem para os controlos de conformidade\n\n1. A colheita de amostras para os controlos de conformidade deve ser efetuada de acordo com as normas internacionais EN ISO 661, relativa à preparação das amostras para análise, e EN ISO 5555, relativa à amostragem. Todavia, para os lotes de azeite embalado, a amostragem deve ser efetuada em conformidade com o anexo II. No caso dos azeites a granel cuja amostragem não possa ser realizada de acordo com a norma EN ISO 5555, a amostragem deve ser realizada segundo as instruções da autoridade competente do Estado-Membro.\n\n2. Sem prejuízo da norma EN ISO 5555 e do capítulo 6 da norma EN ISO 661, as amostras devem ser colocadas, o mais rapidamente possível, ao abrigo da luz e de temperaturas elevadas e ser enviadas para análise, ao laboratório, o mais tardar no quinto dia útil após a sua colheita. Caso contrário, as amostras devem ser conservadas de modo a que não se degradem nem deteriorem antes de chegarem ao laboratório, durante o seu transporte ou armazenamento."
+  },
+  "37852fbdd5a59c1e": {
+   "fragment_id": "Artigo 9.º — Verificação das características dos azeites",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Verificação das características dos azeites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Verificação das características dos azeites\n\n1.\n\nOs Estados-Membros devem verificar a conformidade dos azeites com as características dos azeites estabelecidas no anexo I do Regulamento Delegado (UE) 2022/2104:\n\na) Por qualquer ordem; ou\n\nb) Seguindo a ordem indicada no fluxograma do anexo III do presente regulamento, até que seja possível tomar uma das decisões nele referidas.\n\n2. Para efeitos da verificação prevista no n.º 1, as análises para determinação do teor de acidez, do índice de peróxidos, K232, K268 ou K270, ΔΚ, ésteres etílicos de ácidos gordos, ceras e, se for caso disso, das características organoléticas, devem ser efetuadas antes da data de durabilidade mínima, no caso do azeite embalado. No caso das amostras de azeites a granel, as referidas análises devem ser efetuadas no prazo de seis meses após o mês em que as amostras foram colhidas.\n\n3. Não se aplica qualquer prazo à verificação de outras características do azeite estabelecidas no anexo I do Regulamento Delegado (UE) 2022/2104.\n\n4. No caso do azeite embalado, salvo no caso de a colheita da amostra ter ocorrido menos de dois meses antes da data de durabilidade mínima, se os resultados das análises não corresponderem às características da categoria de azeite declarada, o operador objeto da colheita deve ser informado, o mais tardar, um mês antes da data de durabilidade mínima.\n\n5. Para efeitos da determinação das características do azeite pelos métodos indicados no anexo I do presente regulamento, os resultados das análises são diretamente comparados com os limites estabelecidos no anexo I do Regulamento Delegado (UE) 2022/2104, que têm em conta a repetibilidade e reprodutibilidade dos métodos de análise utilizados.\n\n6. As regras do presente artigo são aplicáveis a cada amostra primária colhida em conformidade com o anexo II."
+  },
+  "afc081f5bd34f07b": {
+   "fragment_id": "Artigo 10.º — Painéis de provadores",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Painéis de provadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Painéis de provadores\n\n1. Para efeitos dos controlos de conformidade, os painéis de provadores, aprovados pelos Estados-Membros no seu território, avaliam as características organoléticas dos azeites virgens estabelecidas no anexo I do Regulamento Delegado (UE) 2022/2104 e apresentam um relatório sobre essas características e sobre a categoria.\n\n2.\n\nAs condições de aprovação dos painéis de provadores devem ser estabelecidas pelos Estados-Membros, nomeadamente de modo a assegurar que:\n\na) As exigências do método referido no anexo I, ponto 5, para a determinação das características organoléticas do azeite virgem sejam respeitadas;\n\nb) O presidente do painel receba formação reconhecida para o efeito pelo Estado-Membro;\n\nc) A validade da aprovação dependa de um exame anual do desempenho do painel de provadores pelo Estado-Membro.\n\n3. Os Estados-Membros devem comunicar à Comissão, em conformidade com o Regulamento Delegado (UE) 2017/1183, a lista dos painéis de provadores aprovados no seu território e informar sem demora a Comissão de qualquer alteração dessa lista.\n\n4. Se nenhum painel de provadores no território de um Estado-Membro cumprir as condições de aprovação referidas no n.º 2, o Estado-Membro deve recorrer a um painel de provadores aprovado noutro Estado-Membro."
+  },
+  "14687177be809211": {
+   "fragment_id": "Artigo 11.º — Verificação das características organoléticas dos azeites virgens",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Verificação das características organoléticas dos azeites virgens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Verificação das características organoléticas dos azeites virgens\n\n1. As características organoléticas dos azeites virgens estabelecidas no anexo I do Regulamento Delegado (UE) 2022/2104 são consideradas conformes com a categoria declarada se um painel de provadores aprovado por um Estado-Membro confirmar a categoria.\n\n2. Se o painel de provadores não confirmar a categoria declarada no respeitante às características organoléticas, as autoridades competentes devem fazer realizar, sem demora, duas contra-análises, a pedido do operador sujeito ao controlo, por outros painéis de provadores aprovados. Pelo menos um dos painéis de provadores deve ter sido aprovado pelo Estado-Membro em que o azeite foi produzido. As características em apreço serão consideradas conformes com as declaradas se as duas contra-análises confirmarem a categoria declarada. Caso contrário, sejam quais forem os defeitos detetados nas contra-análises, a categoria declarada deve ser declarada não conforme com as características e as despesas das contra-análises devem ser imputadas ao operador sujeito ao controlo.\n\n3. Se o azeite for produzido fora da União, as duas contra-análises devem ser efetuadas por dois painéis de provadores diferentes daquele que inicialmente determinou a não conformidade.\n\n4. Ao efetuar contra-avaliações, os painéis de provadores devem avaliar o azeite em duas sessões de prova distintas. Os resultados das duas sessões para o azeite objeto da contra-avaliação devem ser estatisticamente homogéneos. Se tal não suceder, a amostra deve ser reanalisada duas vezes. Os valores comunicados das características organoléticas do azeite objeto da contra-avaliação devem ser calculados como a média dos valores obtidos para essas características nas duas sessões estatisticamente homogéneas."
+  },
+  "8e724eb2dbd25172": {
+   "fragment_id": "Artigo 12.º — Teor de óleo dos bagaços e outros resíduos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Teor de óleo dos bagaços e outros resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Teor de óleo dos bagaços e outros resíduos\n\n1. O teor de óleo dos bagaços e outros resíduos da extração do azeite (códigos NC 2306 90 11 e 2306 90 19 ) é determinado em conformidade com o método constante do anexo IV.\n\n2. O teor de óleo referido no n.º 1 é expresso em percentagem do seu peso em relação ao extrato seco."
+  },
+  "1faae75bceca323d": {
+   "fragment_id": "Artigo 13.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções\n\n1. Caso se verifique um incumprimento das normas de comercialização estabelecidas no Regulamento Delegado (UE) 2022/2104, os Estados-Membros devem aplicar sanções efetivas, proporcionadas e dissuasivas, a determinar em função da gravidade da irregularidade detetada.\n\n2. Até 31 de maio de cada ano, os Estados-Membros devem comunicar à Comissão, em conformidade com o Regulamento Delegado (UE) 2017/1183, as medidas tomadas para o efeito e, sem demora, eventuais alterações dessas medidas."
+  },
+  "10139b8f644e69a5": {
+   "fragment_id": "Artigo 14.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comunicação de informações\n\nAté 31 de maio de cada ano, os Estados-Membros devem apresentar à Comissão, em conformidade com o Regulamento Delegado (UE) 2017/1183, um relatório sobre a aplicação do presente regulamento durante o ano civil anterior. Devem constar desse relatório, no mínimo, os resultados dos controlos de conformidade efetuados aos azeites, apresentados de acordo com o modelo estabelecido no anexo V do presente regulamento."
+  },
+  "ba1f2bd7702d31cc": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "0bcdcd779fef1340": {
+   "fragment_id": "MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES",
+   "type": "divisao",
+   "heading": "MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES\n\n|  | Características dos azeites | Método do COI a utilizar |\n| --- | --- | --- |\n| 1 | Acidez | COI/T.20/Doc. n.º 34 (*Determinação dos ácidos gordos livres, método a frio*) |\n| 2 | Índice de peróxidos | COI/T.20/Doc. n.º 35 (*Determinação do índice de peróxidos*) |\n| 3 | Monopalmitato de 2-glicerilo | COI/T.20/Doc. n.º 23 (*Determinação da percentagem de monopalmitato de 2-glicerilo*) |\n| 4 | K232, K268 ou K270, ΔK | COI/T.20/Doc. n.º 19 (*Análise por espetrofotometria no ultravioleta*) |\n| 5 | Características organoléticas | COI/T.20/Doc. n.º 15 (*Análise sensorial dos azeites* – *Método para avaliação organolética de azeites virgens*) – com exceção dos seus pontos 4.4 e 10.4 |\n| 6 | Composição de ácidos gordos, incluindo isómeros trans | COI/T.20/Doc. n.º 33 (*Determinação dos ésteres metílicos de ácidos gordos por cromatografia em fase gasosa*) |\n| 7 | Ésteres etílicos de ácidos gordos, ceras | COI/T.20/Doc. n.º 28 (*Determinação do teor de ceras, de ésteres metílicos de ácidos gordos e de ésteres etílicos de ácidos gordos por cromatografia em fase gasosa com coluna capilar*) |\n| 8 | Esteróis totais, composição esterólica, eritrodiol, uvaol e álcoois alifáticos | COI/T.20/Doc. n.º 26 (*Determinação da composição e do teor de esteróis, diálcoois triterpénicos e álcoois alifáticos por cromatografia em fase gasosa com coluna capilar*) |\n| 9 | Estigmastadienos | COI/T-20/Doc. n.º 11 (*Determinação dos estigmastadienos nos óleos vegetais*) COI/T-20/Doc. n.º16 (*Determinação de esterenos em óleos vegetais refinados*) |\n| 10 | ΔNCE42 | COI/T.20/Doc. n.º 20 (*Determinação da diferença entre o teor real e o teor teórico de triacilgliceróis com NCE42*) |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "4d3797fadca17023": {
+   "fragment_id": "AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS",
+   "type": "divisao",
+   "heading": "AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS\n\nO presente método de amostragem é aplicável a lotes de azeite acondicionado em embalagens. O método de amostragem depende da capacidade da embalagem (inferior ou igual a 5 litros, ou superior a 5 litros).\n\nPara efeitos do presente anexo, entende-se por:\n\na) «Embalagem», o recipiente que está em contacto direto com o azeite;\n\nb) «Lote», um conjunto de unidades de venda produzidas, fabricadas e acondicionadas em circunstâncias tais que o azeite nelas contido seja considerado homogéneo relativamente a todas as características analíticas. A individualização dos lotes deve respeitar o disposto na Diretiva 2011/91/UE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0004));\n\nc) «Incremento», a quantidade de azeite contida numa embalagem de capacidade inferior ou igual a 5 litros ou extraída de uma embalagem de capacidade superior a 5 litros, quando as embalagens são selecionadas de um ponto aleatório do lote."
+  },
+  "a5a82632374a1131": {
+   "fragment_id": "1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS",
+   "type": "divisao",
+   "heading": "1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS\n\nA constituição das amostras primárias para embalagens de capacidade inferior ou igual a 5 litros deve ser conforme com o quadro 1.\n\n*Quadro 1*\n\nQuantidade mínima das amostras primárias:\n\nCapacidade das embalagens Proveniência do azeite da amostra primária\n\na) 750 ml ou mais a) uma embalagem;\n\nb) menos de 750 ml b) número mínimo de embalagens cuja capacidade total seja de, pelo menos, 750 ml\n\nO conteúdo da amostra primária deve ser homogeneizado antes de se efetuarem as diferentes avaliações e análises.\n\nA constituição de amostras primárias para embalagens de capacidade superior a 5 litros deve ser feita a partir do número total de incrementos extraídos do número mínimo de embalagens estabelecido no quadro 2. A seleção das embalagens a partir do lote deve ser aleatória. Uma vez constituída, a amostra primária deve ter volume suficiente para ser divisível em múltiplos exemplos.\n\n*Quadro 2*\n\nNúmero mínimo de embalagens a selecionar aleatoriamente\n\nNúmero de embalagens do lote Número mínimo de embalagens a selecionar\n\nAté 10 1\n\nEntre … 11 e 150 2\n\nEntre … 151 e 500 3\n\nEntre … 501 e 1 500 4\n\nEntre … 1 501 e 2 500 5\n\n> 2 500 por 1 000 embalagens uma embalagem suplementar\n\nApós a homogeneização do conteúdo de cada embalagem, extrai-se e verte-se o incremento para o mesmo recipiente e homogeneíza-se mexendo o azeite, tomando a precaução de evitar ao máximo a incorporação de ar.\n\nVerte-se a amostra primária assim preparada numa série de embalagens de capacidade não inferior a 1 litro, passando cada uma delas a constituir um exemplo individual da amostra primária. Deve proceder-se ao enchimento de cada embalagem individual de modo a reduzir ao mínimo a camada de ar superior, após o que se fecha convenientemente a embalagem e se procede à sua selagem, para assegurar que o produto é inviolável. Rotulam-se as embalagens individuais para que possam ser corretamente identificadas."
+  },
+  "5dcb3798d49db677": {
+   "fragment_id": "2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS",
+   "type": "divisao",
+   "heading": "2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS\n\n2.1. O Estado-Membro pode aumentar, em função das suas necessidades (por exemplo, realização da avaliação organolética por um laboratório diferente do que realiza as análises químicas, contra-análises, etc.), o número de amostras primárias.\n\n2.2. A autoridade competente pode aumentar o número de amostras primárias, de acordo com o seguinte quadro:\n\n*Quadro 3*\n\nNúmero de amostras primárias em função da dimensão do lote\n\nDimensão do lote (litros) Número de amostras primárias\n\nInferior a 7 500 2\n\nIgual ou superior a 7 500 e inferior a 25 000 3\n\nIgual ou superior a 25 000 e inferior a 75 000 4\n\nIgual ou superior a 75 000 e inferior a 125 000 5\n\nIgual ou superior a 125 000 6 + 1 uma por cada 50 000 litros suplementares\n\n2.3. A constituição de cada amostra primária deve processar-se conforme referido nos pontos 1.1 e 1.2.\n\n2.4. Durante a seleção aleatória de embalagens para incrementos, as embalagens selecionadas para uma amostra primária devem ser contíguas às embalagens selecionadas para outra amostra primária. É necessário anotar a localização de cada embalagem selecionada aleatoriamente e identificá-la inequivocamente."
+  },
+  "f3be30358074a001": {
+   "fragment_id": "3. ANÁLISES E RESULTADOS",
+   "type": "divisao",
+   "heading": "3. ANÁLISES E RESULTADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. ANÁLISES E RESULTADOS\n\n3.1. Se todos os resultados das análises para todas as amostras primárias forem conformes com as características da categoria de azeite declarada, todo o lote em causa é declarado conforme.\n\n3.2. Se algum dos resultados das análises de uma ou mais amostras primárias não for conforme com as características da categoria de azeite declarada, todo o lote amostrado é declarado não conforme."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "f0e0ec3a1ff709a2": {
+   "fragment_id": "FLUXOGRAMAS PARA VERIFICAÇÃO DA CONFORMIDADE DE AMOSTRAS DE AZEITE COM A CATEGORIA DECLARADA",
+   "type": "divisao",
+   "heading": "FLUXOGRAMAS PARA VERIFICAÇÃO DA CONFORMIDADE DE AMOSTRAS DE AZEITE COM A CATEGORIA DECLARADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FLUXOGRAMAS PARA VERIFICAÇÃO DA CONFORMIDADE DE AMOSTRAS DE AZEITE COM A CATEGORIA DECLARADA"
+  },
+  "a4bc07c44f3ab935": {
+   "fragment_id": "Quadro geral",
+   "type": "divisao",
+   "heading": "Quadro geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Quadro geral\n\n[**►(^1^)(^2^)(^3^)(^4^)(^5^)(^6^) C1**](http://publications.europa.eu/resource/celex/32022R2105R%2801%29)\n\n[**►(^1^)(^2^)(^3^)(^4^)(^5^)(^6^) C1**](http://publications.europa.eu/resource/celex/32022R2105R%2801%29)\n\n[**►(^1^)(^2^)(^3^)(^4^) C1**](http://publications.europa.eu/resource/celex/32022R2105R%2801%29)\n\n[**►(^1^)(^2^)(^3^)(^4^) C1**](http://publications.europa.eu/resource/celex/32022R2105R%2801%29)\n\n[**►(^1^)(^2^)(^3^)(^4^) C1**](http://publications.europa.eu/resource/celex/32022R2105R%2801%29)"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "8315c5c5093b4b4c": {
+   "fragment_id": "Método de medição do teor de óleo dos bagaços e outros resíduos",
+   "type": "divisao",
+   "heading": "Método de medição do teor de óleo dos bagaços e outros resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de medição do teor de óleo dos bagaços e outros resíduos"
+  },
+  "3c77b85e5064d777": {
+   "fragment_id": "1. MATERIAIS",
+   "type": "divisao",
+   "heading": "1. MATERIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. MATERIAIS\n\n— aparelho de Soxhlet munido de um balão de 200 a 250 ml,\n\n— banho de aquecimento elétrico (banho de areia, banho de água, etc.) ou placa de aquecimento,\n\n— balança analítica,\n\n— estufa regulada a 80 °C, no máximo,\n\n— estufa com aquecimento elétrico munido de um depósito de termorregulação regulado a 103 °C ± 2 °C, que permita realizar uma insuflação de ar ou uma pressão reduzida,\n\n— triturador mecânico fácil de limpar e que permita a trituração dos resíduos de azeitona sem aquecimento e sem alteração sensível do teor de humidade, matéria volátil ou produtos extraíveis pelo hexano,\n\n— cartucho de extração e algodão hidrófilo ou filtro de papel, isento de produtos extraíveis pelo hexano,\n\n— exsicador,\n\n— peneiro com orifícios de 1 mm de diâmetro,\n\n— pedra-pomes em pequenos grãos, previamente seca.\n\nn-Hexano de grau técnico cujo resíduo, na evaporação completa, deve ser inferior a 0,002 g por 100 ml."
+  },
+  "4a298921c47cf15f": {
+   "fragment_id": "2. PROCEDIMENTO",
+   "type": "divisao",
+   "heading": "2. PROCEDIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. PROCEDIMENTO\n\nTritura-se a amostra para laboratório, se necessário, num triturador mecânico previamente bem limpo a fim de a reduzir a partículas que possam atravessar completamente o peneiro.\n\nUtiliza-se cerca de um vigésimo da amostra para perfazer a limpeza do triturador, deita-se essa parte fora, tritura-se o restante que se recolhe, mistura-se com cuidado e analisa-se sem demora.\n\nPesa-se com uma precisão de 0,01 g, logo após o final da trituração, uma toma para análise com aproximadamente 10 g.\n\nColoca-se a toma no cartucho e tapa-se este com o tampão de algodão hidrófilo. No caso de se ter utilizado um filtro de papel, embala-se a toma nesse papel.\n\nSe o bagaço estiver muito húmido (teor de água e de matérias voláteis superior a 10%) efetua-se uma pré-secagem colocando durante um espaço de tempo conveniente o cartucho cheio (ou filtro de papel) na estufa aquecida a 80 °C, no máximo, para reduzir o teor de água e de matérias voláteis a menos de 10%.\n\nPesa-se, com uma precisão de 1 mg, o balão contendo um a dois grãos de pedra-pomes, previamente seco na estufa a 103 °C ± 2 °C e depois arrefecido durante pelo menos uma hora num exsicador.\n\nColoca-se no aparelho de Soxhlet o cartucho (ou filtro de papel) que contém a toma. Verte-se para o balão a quantidade necessária de hexano. Adapta-se o balão ao aparelho de Soxhlet, coloca-se o conjunto sobre um banho com aquecimento elétrico. Regula-se o aquecimento em condições tais que o refluxo seja pelo menos de três gotas por segundo (ebulição moderada, não tumultuosa). Após quatro horas de extração, deixa-se arrefecer. Tira-se o cartucho do aparelho de Soxhlet e coloca-se numa corrente de ar a fim de eliminar a maior parte do solvente que o impregna.\n\nDespeja-se o cartucho no microtriturador e tritura-se o mais possível. Volta-se a colocar quantitativamente a mistura no cartucho e este no aparelho de Soxhlet.\n\nRecomeça-se a extração ainda durante duas horas utilizando o mesmo balão que contém a primeira extração.\n\nA solução obtida no balão de extração deve ser límpida. Se o não for, filtra-se por filtro de papel lavando várias vezes o primeiro balão e o filtro com hexano. Recolhe-se o filtrado e o solvente de lavagem num segundo balão previamente seco e pesado com uma precisão de 1 mg.\n\nElimina-se, por destilação sobre banho de aquecimento elétrico, a maior parte do solvente. Eliminam-se os últimos vestígios de solvente aquecendo o balão na estufa a 103 °C ± 2 °C durante 20 minutos. Facilita-se esta eliminação quer insuflando ar de vez em quando ou de preferência um gás inerte quer submetendo-o a pressão reduzida.\n\nDeixa-se arrefecer o balão num exsicador durante pelo menos uma hora e pesa-se com uma precisão de 1 mg.\n\nVolta-se a aquecer durante 10 minutos nas mesmas condições, arrefece-se no exsicador e pesa-se.\n\nA diferença entre os resultados destas duas pesagens deve ser inferior ou igual a 10 mg. Caso contrário, volta-se a aquecer durante períodos de dez minutos, seguidos de arrefecimento e de pesagem, até que a diferença de massa seja inferior ou igual a 10 mg. Tenha-se em consideração a última pesagem do balão.\n\nEfetuam-se duas determinações na mesma amostra para análise."
+  },
+  "5a5f538d5e1792d4": {
+   "fragment_id": "3. EXPRESSÃO DOS RESULTADOS",
+   "type": "divisao",
+   "heading": "3. EXPRESSÃO DOS RESULTADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. EXPRESSÃO DOS RESULTADOS\n\na) O extrato, expresso em percentagem em massa, do produto tal como se apresenta é:\n\n| S | = | é a percentagem em massa do extrato do produto tal como se apresenta. |\n| --- | --- | --- |\n\n| m0 | = | é a massa, em gramas, da toma para análise. |\n| --- | --- | --- |\n\n| m1 | = | é a massa, em gramas, do extrato após secagem. |\n| --- | --- | --- |\n\nb) O extrato é referido à matéria seca utilizando a seguinte fórmula:\n\n| S | = | é a percentagem em massa do extrato do produto tal como se apresenta [ver alínea a)]. |\n| --- | --- | --- |\n\n| U | = | é o seu teor de humidade e de matérias voláteis. |\n| --- | --- | --- |\n\nA diferença entre os resultados das duas determinações, efetuadas simultaneamente ou rapidamente uma após a outra pelo mesmo analista, não deve ser superior a 0,2 g de extrato com hexano para 100 g de amostra.\n\nCaso contrário, repete-se a análise com outras duas tomas. Se ainda desta vez a diferença ultrapassar 0,2 g, toma-se como resultado a média aritmética das quatro determinações efetuadas."
+  },
+  "9e2cbf7f906e9762": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nModelo para a comunicação dos resultados dos controlos de conformidade a que se refere o artigo 14.º, em conformidade com o Regulamento Delegado (UE) 2017/1183 da Comissão\n\n|  | **Rotulagem** | **Parâmetros químicos** | **Características organoléticas** [(^4^)](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0008) | **Conclusão final** |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Amostra** | **Categoria** | **País de origem** | **Local da inspeção** [(^1^)](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0005) | **Denominação legal** | **Local de origem** | **Condições de armazenamento** | **Informações erradas** | **Legibilidade** | **C/NC** [(^3^)](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0007) | **Parâmetros fora dos limites** **Sim/Não** | **Em caso afirmativo, qual ou quais** [(^2^)](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0006) | **C/NC** [(^3^)](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0007) | **Mediana dos defeitos** | **Mediana do frutado** | **C/NC** [(^3^)](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0007) | **Ações necessárias** | **Sanções** |\n| (^1^) Mercado interno (lagar, engarrafadores, retalho), exportação, importação. (^2^) Cada característica do azeite especificada no anexo I do Regulamento Delegado (UE) 2022/2104 deve ser indicada por um código. (^3^) Conforme ou não conforme. (^4^) Exigido apenas para azeites virgens na aceção do anexo VII, parte VIII, ponto 1, do Regulamento (UE) n.º 1308/2013. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n---"
+  },
+  "5a4ec16176370ce7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento Delegado (UE) 2017/1183 da Comissão, de 20 de abril de 2017, que complementa os Regulamentos (UE) n.º 1307/2013 e (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à notificação de informações e documentos à Comissão (JO L 171 de 4.7.2017, p. 100).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento de Execução (UE) 2019/1715 da Comissão, de 30 de setembro de 2019, que estabelece regras aplicáveis ao funcionamento do sistema de gestão da informação sobre os controlos oficiais e dos seus componentes de sistema (Regulamento IMSOC) (JO L 261 de 14.10.2019, p. 37).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Diretiva (UE) 2015/1535 do Parlamento Europeu e do Conselho, de 9 de setembro de 2015, relativa a um procedimento de informação no domínio das regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 241 de 17.9.2015, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d8285b5c-85ed-11ed-9887-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2011/91/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício (JO L 334 de 16.12.2011, p. 1)."
+  },
+  "84c3e351c95dada9": {
+   "fragment_id": "Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigações dos Estados-Membros no que diz respeito aos controlos de conformidade\n\n1. Os Estados-Membros devem efetuar controlos de conformidade do azeite para averiguar a aplicação das normas de comercialização estabelecidas no Regulamento Delegado (UE) 2022/2104, com base na análise de risco referida no artigo 3.º.\n\n2. Os Estados-Membros devem verificar se os operadores cumprem as obrigações que lhes incumbem por força do artigo 5.º, n.º 1.\n\n3. Cada Estado-Membro deve comunicar à Comissão, em conformidade com o Regulamento Delegado (UE) 2017/1183 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0001)), o nome e o endereço da(s) autoridade(s) competente(s) para efetuar os controlos de conformidade previstos no presente regulamento. A Comissão informa os outros Estados-Membros e, a pedido, qualquer parte interessada, dessas autoridades competentes. Os Estados-Membros devem comunicar à Comissão todas as alterações que venham a ocorrer."
+  },
+  "03065ca3bc8f20e6": {
+   "fragment_id": "Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação entre Estados-Membros no que diz respeito aos controlos de conformidade\n\n1. Se for detetada alguma irregularidade e o operador indicado no rótulo estiver estabelecido noutro Estado-Membro, o Estado-Membro em causa deve apresentar um pedido de verificação, em conformidade com o Regulamento de Execução (UE) 2019/1715 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0002)), ao Estado-Membro em que está estabelecido o operador constante do rótulo.\n\n2.\n\nAlém dos requisitos estabelecidos no artigo 16.º do Regulamento de Execução (UE) 2019/1715, o pedido referido no n.º 1 do presente artigo deve ser acompanhado de todas as informações necessárias para a verificação, nomeadamente:\n\na) Da data da amostragem ou da compra do azeite em causa;\n\nb) Do nome ou designação social e do endereço do estabelecimento em que teve lugar a amostragem ou a compra do azeite em causa;\n\nc) Do número dos lotes em questão;\n\nd) Da cópia de todos os rótulos que se encontram na embalagem do azeite em causa;\n\ne) Dos resultados da análise ou de outras peritagens contraditórias, com indicação dos métodos utilizados e do nome e endereço do laboratório ou do perito;\n\nf) Se aplicável, do nome e do endereço do fornecedor do azeite em questão, tal como declarados pelo estabelecimento de venda.\n\n3. Além dos requisitos estabelecidos no artigo 22.º do Regulamento de Execução (UE) 2019/1715, o Estado-Membro ao qual o pedido é dirigido deve colher amostras o mais tardar antes do final do mês seguinte ao do pedido e verificar as indicações na rotulagem em causa. Deve responder no prazo de três meses a contar da data do pedido.\n\n4. Se uma amostra de azeite virgem extra não cumprir o limite fixado para a mediana dos defeitos organoléticos no quadro A do anexo I do Regulamento Delegado (UE) 2022/2104, os Estados-Membros em causa devem notificar esse facto como incumprimento, em conformidade com o artigo 16.º do Regulamento de Execução (UE) 2019/1715, salvo se as autoridades nacionais suspeitarem de uma ação intencional por parte de empresas ou particulares com o objetivo de enganar os compradores e daí retirar vantagens indevidas."
+  },
+  "57d076f4cb8c6e66": {
+   "fragment_id": "Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação facultativa dos embaladores a nível nacional\n\n1. Os Estados-Membros têm a possibilidade de aprovar os embaladores situados no seu território.\n\n2.\n\nSempre que decidam fazer uso do disposto no n.º 1, os Estados-Membros devem conceder a aprovação e atribuir uma identificação alfanumérica aos embaladores que o solicitem e que satisfaçam as seguintes condições:\n\na) Disporem de instalações de acondicionamento;\n\nb) Comprometerem-se a recolher e a conservar a documentação referida no artigo 5.º;\n\nc) Disporem de um sistema de armazenamento que permita verificar a proveniência dos azeites cuja rotulagem do local de origem é obrigatória em conformidade com o artigo 8.º, n.º 1, do Regulamento Delegado (UE) 2022/2104.\n\n3. Sempre que decidam fazer uso do disposto no n.º 1, os Estados-Membros devem comunicar à Comissão as modalidades pertinentes, em conformidade com a Diretiva (UE) 2015/1535 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0003))."
+  },
+  "d5472ab2a6014f09": {
+   "fragment_id": "MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES",
+   "type": "divisao",
+   "heading": "MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DAS CARACTERÍSTICAS DOS AZEITES\n\n|  | Características dos azeites | Método do COI a utilizar |\n| --- | --- | --- |\n| 1 | Acidez | COI/T.20/Doc. n.º 34 (*Determinação dos ácidos gordos livres, método a frio*) |\n| 2 | Índice de peróxidos | COI/T.20/Doc. n.º 35 (*Determinação do índice de peróxidos*) |\n| 3 | Monopalmitato de 2-glicerilo | COI/T.20/Doc. n.º 23 (*Determinação da percentagem de monopalmitato de 2-glicerilo*) |\n| 4 | K232, K268 ou K270, ΔK | COI/T.20/Doc. n.º 19 (*Análise por espetrofotometria no ultravioleta*) |\n| 5 | Características organoléticas | COI/T.20/Doc. n.º 15 (*Análise sensorial dos azeites* – *Método para avaliação organolética de azeites virgens*) – com exceção dos seus pontos 4.4 e 10.4 |\n| 6 | Composição de ácidos gordos, incluindo isómeros trans | COI/T.20/Doc. n.º 33 (*Determinação dos ésteres metílicos de ácidos gordos por cromatografia em fase gasosa*) |\n| 7 | Ésteres etílicos de ácidos gordos, ceras | [**►M1**](http://publications.europa.eu/resource/celex/32024R2707) COI/T.20/Doc. n.º 28 (*Determinação do teor de ceras e de ésteres etílicos de ácidos gordos por cromatografia em fase gasosa com coluna capilar*)**◄** |\n| 8 | Esteróis totais, composição esterólica, eritrodiol, uvaol e álcoois alifáticos | COI/T.20/Doc. n.º 26 (*Determinação da composição e do teor de esteróis, diálcoois triterpénicos e álcoois alifáticos por cromatografia em fase gasosa com coluna capilar*) |\n| 9 | Estigmastadienos | COI/T-20/Doc. n.º 11 (*Determinação dos estigmastadienos nos óleos vegetais*) COI/T-20/Doc. n.º16 (*Determinação de esterenos em óleos vegetais refinados*) |\n| 10 | ΔNCE42 | COI/T.20/Doc. n.º 20 (*Determinação da diferença entre o teor real e o teor teórico de triacilgliceróis com NCE42*) |"
+  },
+  "5ee8cff656b72e97": {
+   "fragment_id": "AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS",
+   "type": "divisao",
+   "heading": "AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AMOSTRAGEM DE AZEITE ENTREGUE EM EMBALAGENS\n\nO presente método de amostragem é aplicável a lotes de azeite acondicionado em embalagens. O método de amostragem depende da capacidade da embalagem (inferior ou igual a 5 litros, ou superior a 5 litros).\n\nPara efeitos do presente anexo, entende-se por:\n\na) «Embalagem», o recipiente que está em contacto direto com o azeite;\n\nb) «Lote», um conjunto de unidades de venda produzidas, fabricadas e acondicionadas em circunstâncias tais que o azeite nelas contido seja considerado homogéneo relativamente a todas as características analíticas. A individualização dos lotes deve respeitar o disposto na Diretiva 2011/91/UE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0004));\n\nc) «Incremento», a quantidade de azeite contida numa embalagem de capacidade inferior ou igual a 5 litros ou extraída de uma embalagem de capacidade superior a 5 litros, quando as embalagens são selecionadas de um ponto aleatório do lote."
+  },
+  "927242b6f4731fb0": {
+   "fragment_id": "1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS",
+   "type": "divisao",
+   "heading": "1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. COMPOSIÇÃO DAS AMOSTRAS PRIMÁRIAS\n\nA constituição das amostras primárias para embalagens de capacidade inferior ou igual a 5 litros deve ser conforme com o quadro 1.\n\n*Quadro 1*\n\nQuantidade mínima das amostras primárias:\n\n| Capacidade das embalagens | Proveniência do azeite da amostra primária |  |  |\n| --- | --- | --- | --- |\n| a) | 750 ml ou mais | a) | pelo menos, uma embalagem; |\n| b) | menos de 750 ml | b) | número mínimo de embalagens cuja capacidade total seja de, pelo menos, 750 ml |\n\nO conteúdo da amostra primária deve ser homogeneizado antes de se efetuarem as diferentes avaliações e análises.\n\nA constituição de «amostras primárias» para embalagens de capacidade superior a 5 litros deve ser feita a partir do número total de incrementos extraídos do número mínimo de embalagens estabelecido no quadro 2. A seleção das embalagens a partir do lote deve ser aleatória. Uma vez constituída, a amostra primária deve ter volume suficiente para ser divisível em múltiplas unidades.\n\n*Quadro 2*\n\nNúmero mínimo de embalagens a selecionar aleatoriamente\n\nNúmero de embalagens do lote Número mínimo de embalagens a selecionar\n\nAté 10 1\n\nEntre … 11 e 150 2\n\nEntre … 151 e 500 3\n\nEntre … 501 e 1 500 4\n\nEntre … 1 501 e 2 500 5\n\n> 2 500 por 1 000 embalagens uma embalagem suplementar\n\nApós a homogeneização do conteúdo de cada embalagem, extrai-se e verte-se o incremento para o mesmo recipiente e homogeneíza-se mexendo o azeite, tomando a precaução de evitar ao máximo a incorporação de ar.\n\nVerte-se a amostra primária assim preparada numa série de embalagens de capacidade não inferior a 1 litro, passando cada uma delas a constituir um exemplo individual da amostra primária. Deve proceder-se ao enchimento de cada embalagem individual de modo a reduzir ao mínimo a camada de ar superior, após o que se fecha convenientemente a embalagem e se procede à sua selagem, para assegurar que o produto é inviolável. Rotulam-se as embalagens individuais para que possam ser corretamente identificadas."
+  },
+  "49fdfd50620f1f6d": {
+   "fragment_id": "2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS",
+   "type": "divisao",
+   "heading": "2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. AUMENTO DO NÚMERO DE AMOSTRAS PRIMÁRIAS\n\n2.1. O número de amostras primárias pode ser aumentado por cada Estado-Membro, consoante as suas necessidades.\n\n2.2. [**►M1**](http://publications.europa.eu/resource/celex/32024R2707) Ao verificar a homogeneidade de um lote, a autoridade competente pode aumentar o número de amostras primárias, de acordo com o seguinte quadro:**◄**\n\n*Quadro 3*\n\nNúmero de amostras primárias em função da dimensão do lote\n\nDimensão do lote (litros) Número de amostras primárias\n\nInferior a 7 500 2\n\nIgual ou superior a 7 500 e inferior a 25 000 3\n\nIgual ou superior a 25 000 e inferior a 75 000 4\n\nIgual ou superior a 75 000 e inferior a 125 000 5\n\nIgual ou superior a 125 000 6 + 1 uma por cada 50 000 litros suplementares\n\n2.3. A constituição de cada amostra primária deve processar-se conforme referido nos pontos 1.1 e 1.2.\n\n2.4. Durante a seleção aleatória de embalagens para incrementos, as embalagens selecionadas para uma amostra primária devem ser contíguas às embalagens selecionadas para outra amostra primária. É necessário anotar a localização de cada embalagem selecionada aleatoriamente e identificá-la inequivocamente."
+  },
+  "e34af03959580b2e": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nModelo para a comunicação dos resultados dos controlos de conformidade a que se refere o artigo 14.º, em conformidade com o Regulamento Delegado (UE) 2017/1183 da Comissão\n\n|  | **Rotulagem** | **Parâmetros químicos** | **Características organoléticas** [(^4^)](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0008) | **Conclusão final** |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Amostra** | **Categoria** | **País de origem** | **Local da inspeção** [(^1^)](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0005) | **Denominação legal** | **Local de origem** | **Condições de armazenamento** | **Informações erradas** | **Legibilidade** | **C/NC** [(^3^)](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0007) | **Parâmetros fora dos limites** **Sim/Não** | **Em caso afirmativo, qual ou quais** [(^2^)](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0006) | **C/NC** [(^3^)](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0007) | **Mediana dos defeitos** | **Mediana do frutado** | **C/NC** [(^3^)](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0007) | **Ações necessárias** | **Sanções** |\n| (^1^) Mercado interno (lagar, engarrafadores, retalho), exportação, importação. (^2^) Cada característica do azeite especificada no anexo I do Regulamento Delegado (UE) 2022/2104 deve ser indicada por um código. (^3^) Conforme ou não conforme. (^4^) Exigido apenas para azeites virgens na aceção do anexo VII, parte VIII, ponto 1, do Regulamento (UE) n.º 1308/2013. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n---"
+  },
+  "39917fe8f7411b0b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento Delegado (UE) 2017/1183 da Comissão, de 20 de abril de 2017, que complementa os Regulamentos (UE) n.º 1307/2013 e (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à notificação de informações e documentos à Comissão (JO L 171 de 4.7.2017, p. 100).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento de Execução (UE) 2019/1715 da Comissão, de 30 de setembro de 2019, que estabelece regras aplicáveis ao funcionamento do sistema de gestão da informação sobre os controlos oficiais e dos seus componentes de sistema (Regulamento IMSOC) (JO L 261 de 14.10.2019, p. 37).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Diretiva (UE) 2015/1535 do Parlamento Europeu e do Conselho, de 9 de setembro de 2015, relativa a um procedimento de informação no domínio das regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 241 de 17.9.2015, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bc72c912-ac13-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2011/91/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício (JO L 334 de 16.12.2011, p. 1)."
+  }
+ }
+}

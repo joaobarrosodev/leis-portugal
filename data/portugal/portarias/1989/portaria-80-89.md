@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:610443:por
+title: Portaria n.º 80/89
+short_title: null
+summary: Fixa as normas processuais e as condições em que devem ser concedidas as equivalências dos cursos de técnico de diagnóstico
+  e terapêutica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 80/89
+official_date: null
+publication_date: '1989-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/1989, Série I de 1989-02-02
+  number: '28'
+  series: I
+  supplement: null
+  pages: 434 - 434
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/02800/04340434.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '610443'
+  dre_path: /dr/detalhe/portaria/80-1989-610443
+  internal: pt:dre:610443:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1989-610443
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1989-610443
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:01:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fc35490043201a2c7763b729ed26978c3a070a847c5654428dc813d377013b25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Profissional
+- Equivalência de Habilitações Literárias
+- Pessoal Técnico de Diagnóstico e Terapêutica
+relationships:
+- type: amended_by
+  target: pt:dre:541444:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:541444:por
+  label: "Revogada pela DEC LEI.415/93.23.12.1993.MS, DR.IS-A [298] de 23.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1993-541444
+  date: '1993-12-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:01:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 80/89
+
+de 2 de Fevereiro
+
+O [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro, prevê, no n.º 2 do seu artigo 6.º, a equivalência parcial ou total de cursos de técnicos de diagnóstico e terapêutica adquiridos por cidadãos portugueses em organismos estrangeiros.
+
+Não estabelecendo o citado decreto-lei normas para a concessão dessas equivalências, o Departamento de Recursos Humanos do Ministério da Saúde tem analisado os pedidos que têm vindo a ser formulados em analogia com os procedimentos já estabelecidos para situações semelhantes, nomeadamente no respeitante aos cursos de enfermagem.
+
+Com base na experiência já realizada, importa fixar as normas processuais e as condições em que devem ser concedidas as equivalências dos cursos referidos.
+
+Assim, tendo em conta o n.º 2 do artigo 6.º do [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro:
+
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+
+1.º A equivalência referida no n.º 2 do artigo 6.º do [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro, sem prejuízo do que for objecto de acordos ou convenções internacionais, poderá ser concedida quando se verifique que os diplomados com cursos estrangeiros satisfazem cumulativamente os requisitos seguintes:
+
+a) Serem titulares de diplomas oficialmente reconhecidos no respectivo país para o exercício profissional de actividades de conteúdo funcional correspondente a qualquer das constantes da [Portaria n.º 256-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/256-a-1986-427650), de 28 de Maio;
+
+b) Possuírem um número de anos de escolaridade igual ou superior ao legalmente exigido no acesso ao ensino superior em Portugal à data da realização do respectivo curso;
+
+c) Possuírem cursos cujos planos de estudo e programas sejam idênticos aos dos cursos leccionados nas escolas técnicas dos serviços de saúde e na Escola de Reabilitação do Alcoitão.
+
+2.º O Departamento de Recursos Humanos do Ministério da Saúde organizará o processo de equivalência, submetendo-o a despacho superior após elaboração de parecer, recorrendo às escolas técnicas dos serviços de saúde e à Escola de Reabilitação do Alcoitão ou a outras entidades sempre que julgar conveniente.
+
+3.º Aos diplomados com cursos que satisfaçam as condições previstas nas alíneas a) e b) do artigo 1.º, mas cujos planos de estudos e programas não sejam totalmente equivalentes à formação conferida pelos cursos nacionais, poderá ser concedida uma equivalência parcial, desde que o respectivo curso tenha uma duração total que corresponda, no mínimo, a dois terços da duração global do correspondente curso nacional.
+
+4.º Os diplomados a quem tenha sido concedida equivalência parcial poderão, como alunos supranumerários, frequentar, nas escolas técnicas dos serviços de saúde e na Escola de Reabilitação do Alcoitão, as disciplinas e o estágio de que careçam para completar o curso, sendo creditadas as disciplinas ou estágios em que obtiveram equivalência.
+
+5.º A admissão nas referidas escolas dos indivíduos referidos no número anterior processar-se-á nos mesmos termos estabelecidos nos n.os 3.º e 4.º da [Portaria n.º 907/87](https://diariodarepublica.pt/dr/detalhe/portaria/907-1987-498547), de 27 de Novembro.
+
+6.º Para que seja conferida a equivalência total ou parcial deverão os candidatos fazer prova do domínio suficiente da língua portuguesa, falada ou escrita, em função da natureza da profissão respectiva.
+
+7.º A equivalência deve ser solicitada em requerimento dirigido ao Ministro da Saúde, acompanhado dos seguintes documentos:
+
+a) Fotocópia autenticada ou pública-forma do diploma do curso que possui, extraída depois de no original ter sido reconhecida a assinatura do funcionário que assina o diploma. Este reconhecimento, nos termos processuais em vigor, deverá ser feito por agente diplomático ou consular português no Estado respectivo, sendo a assinatura deste agente autenticada com o selo branco consular respectivo;
+
+b) Currículo escolar do curso frequentado, passado em seu nome pela escola, do qual conste a duração total do curso, disciplinas, programas e respectiva duração em horas, devidamente traduzido e autenticado;
+
+c) Certificado de habilitações literárias, onde conste o número de anos de escolaridade.
+
+8.º No verso dos diplomas a que foi conferida a equivalência total constará:
+
+a) Curso oficial português a que foi concedida equivalência;
+
+b) Indicação da entidade que autorizou a equivalência, data do despacho e legislação aplicada;
+
+c) Assinatura do director-geral que tiver a seu cargo a coordenação das escolas, autenticada com o selo branco.
+
+9.º As escolas técnicas dos serviços de saúde e a Escola de Reabilitação do Alcoitão averbarão no verso dos diplomas dos indivíduos que frequentarem os cursos, após a concessão da equivalência parcial, as disciplinas e os estágios em que obtiveram aproveitamento, com a indicação de que correspondem à totalidade do curso.
+
+Ministério da Saúde.
+
+Assinada em 29 de Dezembro de 1988.
+
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

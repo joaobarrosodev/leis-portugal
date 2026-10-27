@@ -1,0 +1,426 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:147234:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1996-1024687754",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/17-1996-147234",
+ "source_lastmod": "2026-05-26",
+ "versions": [
+  {
+   "date": "1996-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1025257175",
+    "1025257375",
+    "1025257575",
+    "1025257775",
+    "1025257975",
+    "1025258175",
+    "1025258375",
+    "1025258575",
+    "1025258775",
+    "1025258975",
+    "1025259175",
+    "1025259375",
+    "1025259575",
+    "1025259775",
+    "1025259975",
+    "1025260175",
+    "1025260375",
+    "1025260575",
+    "1025260775",
+    "1025260975",
+    "1025261175",
+    "1025261375",
+    "1025261575",
+    "1025261775",
+    "1025261975",
+    "1025262175",
+    "1025262375",
+    "1025262575",
+    "1025262775",
+    "1025262975",
+    "1025263175",
+    "1025263375",
+    "1025263575",
+    "1025263775",
+    "1025263975",
+    "1025264175",
+    "1025264375",
+    "1025264575"
+   ]
+  },
+  {
+   "date": "1997-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235333:por",
+     "title": "Declaração de Rectificação n.º 4-J/97",
+     "published": "1997-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/4-j-1997-235333"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 21.º"
+   ],
+   "fragments": [
+    "1025257175",
+    "1025257375",
+    "1025257575",
+    "1025257775",
+    "1025257975",
+    "1025258175",
+    "1025258375",
+    "1025258575",
+    "1025258775",
+    "1025258975",
+    "1025259175",
+    "1025259375",
+    "1025259575",
+    "1025259775",
+    "1025259975",
+    "1025260175",
+    "1025260375",
+    "1025260575",
+    "1025260775",
+    "1025260975",
+    "1025261175",
+    "1124136175",
+    "1025261575",
+    "1025261775",
+    "1025261975",
+    "1025262175",
+    "1025262375",
+    "1025262575",
+    "1025262775",
+    "1025262975",
+    "1025263175",
+    "1025263375",
+    "1025263575",
+    "1025263775",
+    "1025263975",
+    "1025264175",
+    "1025264375",
+    "1025264575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1025257175": {
+   "fragment_id": "1025257075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O regime de recrutamento e selecção do pessoal e do processo de concurso para admissão ao curso de formação de guardas da Polícia de Segurança Pública (PSP), aprovado pelo Decreto Regulamentar n.º 50/86, de 3 de Outubro, não sofreu qualquer alteração desde a sua entrada em vigor, não obstante o regime geral de recrutamento e selecção de pessoal para a Administração Pública ter sido revisto pelo Decreto-Lei n.º 498/88, de 30 de Dezembro, actualizado pelo Decreto-Lei n.º 215/95, de 22 de Agosto.\n\nPor outro lado, foi entretanto publicado o Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, com o objectivo essencial de reformar e modernizar a Administração Pública para que seja possível cumprir cabalmente as importantes tarefas que lhe cabem nestes últimos anos do século XX.\n\nAcresce ainda que algumas disposições do Decreto Regulamentar n.º 50/86 contrariam o disposto em normas legais de hierarquia superior e outras são de duvidosa adequação à lei fundamental.\n\nImporta, por isso, actualizar o regime jurídico estabelecido pelo Decreto Regulamentar n.º 50/86, corrigindo as suas imperfeições e aproximando-o, na medida do possível, do regime geral, tendo, no entanto, em consideração a realidade específica da PSP.\n\nAssim:\n\nAo abrigo do disposto no artigo 54.º do Decreto-Lei n.º 321/94, de 29 de Dezembro, e no n.º 2 do artigo 16.º do Regulamento da Escola Prática de Polícia, aprovado pelo Decreto-Lei n.º 37/87, de 26 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1025257375": {
+   "fragment_id": "1025257275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma define os princípios gerais do recrutamento e selecção de pessoal e do processo de concurso para admissão e frequência do curso de formação de guardas da Polícia de Segurança Pública (PSP)."
+  },
+  "1025257575": {
+   "fragment_id": "1025257475",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\nO recrutamento e a selecção de pessoal obedecem aos seguintes princípios:\n\na) Igualdade de condições e de oportunidades para todos os candidatos;\n\nb) Liberdade de candidatura;\n\nc) Divulgação atempada dos métodos e critérios de selecção a utilizar e dos respectivos programas e sistemas de classificação;\n\nd) Aplicação de métodos e critérios objectivos de avaliação;\n\ne) Neutralidade na composição do júri;\n\nf) Direito de recurso."
+  },
+  "1025257775": {
+   "fragment_id": "1025257675",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de concurso e prazo de validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de concurso e prazo de validade\n\n1 - A abertura do concurso é da competência do comandante-geral, cumprido o disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 375/88, de 21 de Outubro, e inicia-se com a publicação do respectivo aviso de abertura no Diário da República, 2.ª série.\n\n2 - O aviso de abertura é publicitado em, pelo menos, um órgão da comunicação social de expansão nacional e através de folhetos de divulgação.\n\n3 - O concurso é válido para o curso de formação de guardas a ministrar no ano lectivo a que diz respeito.\n\n4 - O prazo de validade previsto no número anterior pode ser prorrogado, por despacho do comandante-geral, por mais um curso de formação de guardas, desde que cumulativamente se verifiquem as seguintes condições:\n\na) O número de candidatos admitidos ao concurso tenha sido superior ao quíntuplo dos lugares postos a concurso;\n\nb) O número de candidatos aprovados no concurso e não admitidos ao curso, constantes da última lista de classificação final homologada, seja igual ou superior ao número de guardas provisórios a admitir;\n\nc) Tenha sido proferido despacho nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 375/88, de 21 de Outubro."
+  },
+  "1025257975": {
+   "fragment_id": "1025257875",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição e composição do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituição e composição do júri\n\n1 - A constituição do júri do concurso deve constar do despacho de abertura, sem prejuízo de este poder ser alterado até à data do início das provas, sempre que se mostre necessário.\n\n2 - O júri é composto por um presidente e por dois ou quatro vogais efectivos.\n\n3 - A presidência do júri compete ao 2.º comandante-geral, podendo delegá-la em qualquer outro dirigente.\n\n4 - O despacho referido no n.º 1 designa o vogal efectivo que substitui o presidente nas suas faltas e impedimentos.\n\n5 - O despacho constitutivo do júri designa ainda os vogais suplentes, em número igual ao de efectivos.\n\n6 - Por cada centro de selecção a funcionar é nomeado pelo presidente um júri delegado."
+  },
+  "1025258175": {
+   "fragment_id": "1025258075",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento do júri\n\n1 - O júri só pode funcionar quando estiverem presentes todos os seus membros, sendo as respectivas deliberações tomadas por maioria e sempre por votação nominal.\n\n2 - Das reuniões do júri são lavradas actas contendo as deliberações adoptadas e os respectivos fundamentos.\n\n3 - Os particulares têm direito de acesso às actas nos termos do n.º 2 do artigo 268.º da Constituição da República Portuguesa e da Lei n.º 65/93, de 26 de Agosto, na redacção da Lei n.º 8/95, de 29 de Março.\n\n4 - O júri é secretariado por um vogal por ele escolhido ou por um funcionário a designar, para esse efeito, pelo presidente."
+  },
+  "1025258375": {
+   "fragment_id": "1025258275",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do júri\n\n1 - O júri é responsável por todas as operações do concurso.\n\n2 - Para coadjuvar na realização das operações do concurso, o júri pode propor superiormente o recurso a entidades alheias à PSP."
+  },
+  "1025258575": {
+   "fragment_id": "1025258475",
+   "type": 11,
+   "heading": "Artigo 7.º — Conteúdo do aviso de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conteúdo do aviso de abertura\n\nDo aviso de abertura devem constar os seguintes elementos:\n\na) Menção expressa do presente diploma, bem como, se for o caso, de qualquer outro especialmente aplicável ao concurso;\n\nb) Finalidade do concurso e respectivo prazo de validade;\n\nc) Composição do júri;\n\nd) Indicação do número de candidatos a admitir;\n\ne) Requisitos gerais e especiais de admissão;\n\nf) Entidade, com o respectivo endereço, à qual deve ser apresentado o requerimento de candidatura;\n\ng) Métodos de selecção e critérios de avaliação;\n\nh) Indicação das fases eliminatórias;\n\ni) Forma e prazo de apresentação das candidaturas, indicação dos documentos necessários para a apreciação dos candidatos e, bem assim, indicação dos documentos cuja apresentação inicial é dispensável;\n\nj) Locais de aplicação dos métodos de selecção;\n\n1) Quaisquer outras indicações consideradas necessárias para o esclarecimento dos interessados."
+  },
+  "1025258775": {
+   "fragment_id": "1025258675",
+   "type": 11,
+   "heading": "Artigo 8.º — Requerimento de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requerimento de admissão\n\n1 - A admissão ao concurso é requerida mediante o preenchimento de formulário próprio, de modelo a aprovar por despacho do Ministro da Administração Interna.\n\n2 - Os pedidos de admissão ao concurso, bem como os documentos que os devam instruir, podem ser entregues pessoalmente ou remetidos pelo correio, com aviso de recepção.\n\n3 - A entrega pessoal pode ser efectuada em qualquer departamento da PSP, que a regista e remete de imediato ao Comando-Geral.\n\n4 - Consideram-se entregues dentro do prazo os pedidos registados nos termos do número anterior ou cujos avisos de recepção tenham sido expedidos até ao último dia do prazo fixado no aviso de abertura."
+  },
+  "1025258975": {
+   "fragment_id": "1025258875",
+   "type": 11,
+   "heading": "Artigo 9.º — Documentação a apresentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Documentação a apresentar\n\n1 - Os pedidos de admissão a concurso devem ser acompanhados da documentação prevista na alínea i) do artigo 7.º\n\n2 - Com excepção da certidão esclarecedora da situação militar, a declaração de compromisso de honra, em alíneas separadas, exarada no respectivo formulário, dispensa a apresentação dos correspondentes documentos na fase da candidatura, a menos que expressamente se estabeleça de outra forma no respectivo aviso de abertura.\n\n3 - A apresentação dos documentos inicialmente dispensados ou de outros julgados indispensáveis é exigida aos candidatos quando for julgado conveniente, ao longo de todo o processo, até à passagem a guarda.\n\n4 - Para o efeito do disposto no número anterior, os candidatos são avisados por uma das seguintes formas:\n\na) Globalmente, por meio de aviso publicado no Diário da República, 2.ª série, quando o elevado número de candidatos a notificar torne inviável outra forma;\n\nb) Individualmente, por meio de carta com aviso de recepção, a remeter para a residência mencionada no respectivo requerimento pelo interessado;\n\nc) Afixação de aviso nos diversos departamentos da PSP, a qual não dispensa, no entanto, pelo menos uma das antecedentes."
+  },
+  "1025259175": {
+   "fragment_id": "1025259075",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo de candidatura\n\nO prazo para apresentação de candidaturas a concurso é de 20 dias úteis, contados a partir da data da publicação do respectivo aviso de abertura no Diário da República, 2.ª série."
+  },
+  "1025259375": {
+   "fragment_id": "1025259275",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos de admissão a concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos de admissão a concurso\n\n1 - Só podem ser admitidos ao concurso os candidatos que preencham cumulativamente os seguintes requisitos:\n\na) Ter nacionalidade portuguesa;\n\nb) Não ter menos de 21 nem ter completado 25 anos de idade à data do encerramento do prazo da candidatura;\n\nc) Ter pelo menos 1,60 m ou 1,65 m de altura, respectivamente para candidatos femininos e para candidatos masculinos;\n\nd) Possuir a robustez física necessária para o desempenho da função de agente da PSP e não sofrer de doença contagiosa;\n\ne) Ter como habilitações literárias mínimas o 9.º ano de escolaridade ou equivalente;\n\nf) Não ter sido condenado por qualquer crime doloso;\n\ng) Ter bom comportamento moral e civil;\n\nh) Não ter reprovado por mais de duas vezes em anterior curso de formação de guardas;\n\ni) Não estar abrangido pelo estatuto de objector de consciência;\n\nj) Sendo candidato masculino, estar na efectividade do serviço militar, tê-lo cumprido em qualquer unidade das Forças Armadas ou, quando não cumprido o serviço militar por amparo, excesso de contingente ou outro, tenha cumprido a Lei do Serviço Militar Obrigatório e tenha sido considerado apto na respectiva junta de inspecção;\n\nl) No caso de ter cumprido ou estar a cumprir o serviço militar, ser classificado na 1.ª ou 2.ª classes de comportamento;\n\nm) Não estar inibido do exercício de funções públicas ou interdito para o exercício das funções a que se candidata.\n\n2 - Não é exigível qualquer documento comprovativo do requisito previsto na alínea g) do número anterior, podendo, no entanto, o candidato ser convidado, por escrito, a responder a questionários sobre a sua personalidade e a apresentar referências abonatórias.\n\n3 - A realização dos testes que se revelem necessários ao cumprimento do estipulado no número anterior é efectuada por entidade idónea e externa à PSP.\n\n4 - A recusa a qualquer das diligências previstas no n.º 2, em qualquer fase do processo de concurso, constitui motivo de exclusão.\n\n5 - O disposto na alínea j) do n.º 1 não é aplicável quando o candidato não tenha sido submetido à junta de inspecção por motivo que lhe não seja imputável e disso faça prova.\n\n6 - A presunção de inaptidão decorrente da parte final da alínea j) do n.º 1 pode ser ilidida mediante a apresentação de atestado comprovativo da actual aptidão, passado pelo delegado de saúde da área da residência do candidato."
+  },
+  "1025259575": {
+   "fragment_id": "1025259475",
+   "type": 11,
+   "heading": "Artigo 12.º — Comprovação de requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comprovação de requisitos\n\nPara além dos documentos exigíveis comprovativos dos diversos requisitos referidos no artigo anterior, os enunciados nas alíneas c) e d) do n.º 1 do artigo anterior são comprovados pela junta médica de inspecção, nos termos do presente regulamento."
+  },
+  "1025259775": {
+   "fragment_id": "1025259675",
+   "type": 11,
+   "heading": "Artigo 13.º — Elaboração e publicação da lista de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elaboração e publicação da lista de candidatos\n\n1 - Findo o prazo de apresentação de candidaturas, o júri elabora, com a colaboração dos serviços de pessoal e de informática, no prazo de 20 dias úteis, a lista dos candidatos admitidos e excluídos do concurso, com indicação sucinta dos motivos da exclusão, prazo esse que pode ser prorrogado por igual período em casos devidamente fundamentados, designadamente o elevado número de candidatos, por despacho do comandante-geral.\n\n2 - Concluída a elaboração da lista, o júri promove a publicação na 2.ª série do Diário da República de um aviso informando os interessados do local ou locais onde podem consultar a lista e a afixação da mesma na data da publicação do referido aviso.\n\n3 - Os candidatos excluídos podem recorrer para o comandante-geral no prazo de 10 dias úteis a contar da data da afixação da lista a que se refere o n.º 2.\n\n4 - O recurso tem efeito suspensivo.\n\n5 - O prazo de decisão do recurso é de 10 dias úteis.\n\n6 - Sempre que seja dado provimento ao recurso, o júri promove, no prazo de cinco dias contados da data da decisão, o envio para publicação na 2.ª série do Diário da República e a afixação, nos termos do n.º 2, da alteração à lista dos candidatos."
+  },
+  "1025259975": {
+   "fragment_id": "1025259875",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação dos métodos de selecção\n\nA aplicação dos métodos de selecção nunca pode ter início antes de decorridos 20 dias úteis sobre a publicação da lista de candidatos ou da respectiva alteração, nos termos do n.º 6 do artigo anterior."
+  },
+  "1025260175": {
+   "fragment_id": "1025260075",
+   "type": 11,
+   "heading": "Artigo 15.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Métodos de selecção\n\n1 - No concurso são utilizados os seguintes métodos de selecção:\n\na) Inspecção médica, perante uma junta médica;\n\nb) Provas físicas;\n\nc) Exame psicológico.\n\n2 - Todos os métodos de selecção têm carácter eliminatório, podendo ser aplicados por fases, igualmente eliminatórias.\n\n3 - No termo da aplicação de cada método ou fase eliminatória, os candidatos eliminados são notificados da deliberação do júri, podendo, no prazo de cinco dias úteis, recorrer da mesma para o comandante-geral.\n\n4 - O prazo da decisão do recurso é de 10 dias úteis."
+  },
+  "1025260375": {
+   "fragment_id": "1025260275",
+   "type": 11,
+   "heading": "Artigo 16.º — Objectivo dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Objectivo dos métodos de selecção\n\n1 - As provas físicas destinam-se a avaliar o desenvolvimento e a destreza física dos concorrentes, bem como a sua capacidade e resistência para a função policial.\n\n2 - A inspecção médica tem por objectivo avaliar o estado de saúde física e mental dos candidatos, tendo em conta a especificidade da função policial.\n\n3 - O exame psicológico tem por fim apurar as capacidades intelectuais, de avaliação e intervenção, e os aspectos de carácter, de motivação e de personalidade dos candidatos para o exercício da função policial.\n\n4 - A entrevista é conduzida, no mínimo, por dois entrevistadores."
+  },
+  "1025260575": {
+   "fragment_id": "1025260475",
+   "type": 11,
+   "heading": "Artigo 17.º — Conteúdo dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conteúdo dos métodos de selecção\n\n1 - A inspecção médica tem a orientação e tabela de inaptidões constantes de despacho a aprovar pelo Ministro da Administração Interna, devendo o seu resultado ser exarado em formulário próprio, a aprovar nos mesmos termos.\n\n2 - As provas físicas são fixadas por despacho do Ministro da Administração Interna.\n\n3 - O exame psicológico consta de aplicação de técnicas de avaliação psicológica adequadas ao perfil da função."
+  },
+  "1025260775": {
+   "fragment_id": "1025260675",
+   "type": 11,
+   "heading": "Artigo 18.º — Locais de aplicação dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Locais de aplicação dos métodos de selecção\n\nOs locais de aplicação dos métodos de selecção são indicados no aviso de abertura do concurso."
+  },
+  "1025260975": {
+   "fragment_id": "1025260875",
+   "type": 11,
+   "heading": "Artigo 19.º — Sistema de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sistema de classificação\n\n1 - O resultado da inspecção médica é expresso por Apto e Inapto, a inscrever no formulário referido no n.º 1 do artigo 17.º, do qual consta também a devida justificação.\n\n2 - O resultado das provas físicas é igualmente expresso por Apto e Inapto, devendo no boletim de selecção constar a devida justificação.\n\n3 - O exame psicológico tem a seguinte forma classificativa:\n\na) Testes:\n\nGrupo 5 (Muito desfavorável) - 4 valores - excluído;\n\nGrupo 4 (Desfavorável) - 8 valores - excluído;\n\nGrupo 3 - 12 valores;\n\nGrupo 2 - 16 valores;\n\nGrupo 1 - 20 valores;\n\nb) Entrevista:\n\nNão favorável - 4 valores - excluído;\n\nCom reservas - 8 valores - excluído;\n\nFavorável - 12 valores;\n\nBastante favorável - 16 valores;\n\nFavorável preferencialmente - 20 valores.\n\n4 - Os fundamentos da classificação da entrevista constam de fichas apropriadas, a aprovar pelo júri, tendo em conta os objectivos definidos pelo n.º 3 do artigo 16.º, as quais são assinadas pelos entrevistadores."
+  },
+  "1025261175": {
+   "fragment_id": "1025261075",
+   "type": 11,
+   "heading": "Artigo 20.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Classificação final\n\n1 - A classificação final resulta da média aritmética dos resultados obtidos no exame psicológico e na entrevista e dos valores atribuídos às habilitações literárias.\n\n2 - Para efeitos de classificação, as habilitações literárias correspondem aos seguintes valores:\n\na) 9.º ano de escolaridade ou equivalente - 14;\n\nb) 10.º ano de escolaridade ou equivalente - 15;\n\nc) 11.º ano de escolaridade ou equivalente - 17;\n\nd) 12.º ano de escolaridade ou equivalente - 18;\n\ne) Superior ao 12.º ano - 20.\n\n3 - Em caso de igualdade de classificação, são factores de preferência, pela ordem indicada, os seguintes:\n\na) Ter prestado um mínimo de 12 meses de serviço militar em regime de voluntariado;\n\nb) Ter maiores habilitações literárias;\n\nc) Possuir maior número de qualificações profissionais ou técnicas com interesse para a PSP;\n\nd) Ter menos idade.\n\n4 - Na determinação de todas as médias aritméticas referidas no presente diploma, a aproximação deve ser até às centésimas."
+  },
+  "1025261375": {
+   "fragment_id": "1025261275",
+   "type": 11,
+   "heading": "Artigo 21.º — Lista de classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Lista de classificação final\n\n1 - Finda a aplicação dos métodos de selecção, o júri procede, no prazo de 20 dias úteis, à classificação final provisória e ordenação dos candidatos, elaborando acta, da qual conste a lista dos aprovados e dos excluídos, bem como a respectiva fundamentação.\n\n2 - O prazo previsto no número anterior pode ser excepcionalmente prorrogado, no máximo, até 20 dias úteis, por despacho do comandante-geral.\n\n3 - A acta a que se refere o n.º 1 é afixada nos centros de selecção e nos demais departamentos da PSP, disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo.\n\n4 - O júri pode dispensar a audiência a que se refere o número anterior quando, nos termos da alínea b) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo e atento o elevado número de candidatos, seja razoavelmente de prever que essa diligência possa comprometer a execução das operações do concurso dentro dos prazos previstos.\n\n5 - Findo o prazo referido no número anterior, o júri reúne, no prazo de 10 dias úteis, para apreciar as observações eventualmente apresentadas pelos interessados e efectuar as diligências pertinentes, se for caso disso, lavrando-se acta donde conste a lista de classificação final.\n\n6 - A acta a que se refere o número anterior é homologada pelo comandante-geral no prazo de oito dias úteis."
+  },
+  "1025261575": {
+   "fragment_id": "1025261475",
+   "type": 11,
+   "heading": "Artigo 22.º — Divulgação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Divulgação dos resultados\n\n1 - No prazo de cinco dias após a homologação, deve ser remetida a lista de classificação final para publicação no Diário da República, 2.ª série.\n\n2 - A lista de classificação final é afixada em cada centro de selecção e noutros departamentos da PSP."
+  },
+  "1025261775": {
+   "fragment_id": "1025261675",
+   "type": 11,
+   "heading": "Artigo 23.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Recurso\n\n1 - Da homologação pelo comandante-geral cabe recurso hierárquico, com efeito suspensivo, a interpor para o Ministro da Administração Interna no prazo de 10 dias úteis a contar da publicação da lista de classificação final no Diário da República.\n\n2 - O prazo de decisão do recurso é de 10 dias úteis."
+  },
+  "1025261975": {
+   "fragment_id": "1025261875",
+   "type": 11,
+   "heading": "Artigo 24.º — Admissão e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Admissão e notificação\n\n1 - Os candidatos são admitidos como guardas provisórios, segundo a ordem da classificação obtida no concurso, até ao número de vagas previstas no artigo 7.º, alínea d).\n\n2 - Para o efeito do disposto no número anterior, os candidatos são avisados individualmente, sendo-lhes solicitados os documentos necessários à instrução do processo de admissão."
+  },
+  "1025262175": {
+   "fragment_id": "1025262075",
+   "type": 11,
+   "heading": "Artigo 25.º — Não admissão ao curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Não admissão ao curso\n\n1 - O candidato aprovado em concurso não é convocado para a frequência do curso nos seguintes casos:\n\na) Se os documentos exigidos não forem entregues no prazo fixado;\n\nb) Se os documentos apresentados não fizerem prova bastante das condições exigidas.\n\n2 - A falta de comparência na data estabelecida para início do curso é tida como desistência."
+  },
+  "1025262375": {
+   "fragment_id": "1025262275",
+   "type": 11,
+   "heading": "Artigo 26.º — Banda de música",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Banda de música\n\nA admissão de candidatos com destino à banda de música da PSP rege-se pelo disposto no Decreto-Lei n.º 88/81, de 28 de Abril."
+  },
+  "1025262575": {
+   "fragment_id": "1025262475",
+   "type": 11,
+   "heading": "Artigo 27.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Falsas declarações\n\nSem prejuízo da sanção penal que ao caso couber, a falsidade das declarações prestadas sob compromisso de honra no pedido de admissão determina a exclusão do declarante."
+  },
+  "1025262775": {
+   "fragment_id": "1025262675",
+   "type": 11,
+   "heading": "Artigo 28.º — Duração do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Duração do curso\n\n1 - Os cursos de formação de guardas da PSP, a funcionar na Escola Prática de Polícia (EPP), têm a duração de um ano lectivo, podendo, por despacho do Ministro da Administração Interna, o prazo ser reduzido a seis meses, tendo em conta as necessidades operacionais da PSP.\n\n2 - Os candidatos que tenham cumprido o serviço militar ficam dispensados da instrução correspondente, a decorrer nas primeiras três semanas do curso."
+  },
+  "1025262975": {
+   "fragment_id": "1025262875",
+   "type": 11,
+   "heading": "Artigo 29.º — Interrupção do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Interrupção do curso\n\n1 - O curso pode ser interrompido:\n\na) A pedido do guarda provisório;\n\nb) Por faltas à instrução justificadas por doença, durante um décimo dos dias úteis do curso, seguidas ou interpoladas, se o conselho escolar concluir que tal é impeditivo de normal aproveitamento.\n\n2 - Nos casos referidos no número anterior, pode o interessado requerer ao comandante-geral da PSP a sua admissão à frequência do curso seguinte, com dispensa de provas e exames, com excepção da inspecção médica, desde que, satisfazendo as condições de admissão, haja parecer favorável do conselho escolar."
+  },
+  "1025263175": {
+   "fragment_id": "1025263075",
+   "type": 11,
+   "heading": "Artigo 30.º — Desistência do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Desistência do curso\n\n1 - O guarda provisório pode, em qualquer altura, desistir da frequência do curso, mediante requerimento dirigido ao comandante da EPP.\n\n2 - No caso previsto no número anterior, o guarda provisório está obrigado à devolução dos artigos e material escolar que lhe tenham sido distribuídos."
+  },
+  "1025263375": {
+   "fragment_id": "1025263275",
+   "type": 11,
+   "heading": "Artigo 31.º — Exclusão do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Exclusão do curso\n\n1 - É excluído da frequência do curso, por despacho do comandante-geral da PSP, o guarda provisório que até final do mesmo sofra condenação ou punição que possa afectar o exercício da função policial.\n\n2 - O comandante da EPP pode, sob proposta do conselho escolar, submeter à apreciação do comandante-geral a exclusão de um guarda provisório em qualquer altura do curso por falta de aproveitamento."
+  },
+  "1025263575": {
+   "fragment_id": "1025263475",
+   "type": 11,
+   "heading": "Artigo 32.º — Classificação no final do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Classificação no final do curso\n\n1 - A classificação final dos guardas provisórios é calculada pela média aritmética das notas obtidas nas provas escritas, orais, práticas e físicas realizadas ao longo do curso, com aplicação dos seguintes coeficientes:\n\na) Testes - coeficiente 3;\n\nb) Temas - coeficiente 2;\n\nc) Físicas - coeficiente 1;\n\n2 - A nota de mérito, graduada de 0 a 20 valores, é obtida com base na observação do comportamento dos guardas provisórios.\n\n3 - A nota de mérito não conta para a classificação final, sem prejuízo do disposto nos números seguintes.\n\n4 - É reprovado o guarda provisório que, no conjunto da nota de mérito ou das provas físicas, não atinja média igual ou superior a 10 valores, sem arredondamento.\n\n5 - É também reprovado o guarda provisório que obtenha média inferior a 9,5 valores no conjunto das provas de avaliação escrita.\n\n6 - Em caso de igualdade de classificação, são sucessivamente factores de desempate:\n\na) Melhor classificação no conjunto das provas escritas de avaliação;\n\nb) Melhor classificação nas provas físicas;\n\nc) Melhor nota de mérito."
+  },
+  "1025263775": {
+   "fragment_id": "1025263675",
+   "type": 11,
+   "heading": "Artigo 33.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Nomeação\n\n1 - Concluído com aproveitamento o curso de formação de guardas, os guardas provisórios ingressam no quadro como guardas de 2.ª classe, nos termos da Lei Orgânica da PSP.\n\n2 - O ingresso faz-se por despacho do Ministro da Administração Interna, exarado em lista nominativa a publicar em ordem de serviço do Comando-Geral da PSP.\n\n3 - A lista referida no número anterior é ordenada tendo em conta a classificação obtida na frequência do curso, dela constando obrigatoriamente o comando em que o guarda fica colocado e o número de matrícula que lhe for atribuído."
+  },
+  "1025263975": {
+   "fragment_id": "1025263875",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente diploma, é aplicável o regime geral do recrutamento e selecção de pessoal para a Administração Pública."
+  },
+  "1025264175": {
+   "fragment_id": "1025264075",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nSão revogados os Decretos Regulamentares n.os 50/86, de 3 de Outubro, e 60/94, de 6 de Outubro."
+  },
+  "1025264375": {
+   "fragment_id": "1025264275",
+   "type": 11,
+   "heading": "Artigo 36.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma transitória\n\nO presente diploma não se aplica aos concursos e cursos pendentes à data da sua entrada em vigor."
+  },
+  "1025264575": {
+   "fragment_id": "1025264475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 3 de Outubro de 1996.\n\nAntónio Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 27 de Novembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Novembro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1124136175": {
+   "fragment_id": "1025261275",
+   "type": 11,
+   "heading": "Artigo 21.º — Lista de classificação final",
+   "in_force_from": "1997-01-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 4-J/97 - Diário da República n.º 26/1997, 3º Suplemento, Série I-B de 1997-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-j-1997-235333), em vigor a partir de 1997-01-31."
+   ],
+   "markdown": "###### Artigo 21.º — Lista de classificação final\n\n1 - Finda a aplicação dos métodos de selecção, o júri procede, no prazo de 20 dias úteis, à classificação final provisória e ordenação dos candidatos, elaborando acta, da qual conste a lista dos aprovados e dos excluídos, bem como a respectiva fundamentação.\n\n2 - O prazo previsto no número anterior pode ser excepcionalmente prorrogado, no máximo, até 20 dias úteis, por despacho do comandante-geral.\n\n3 - A acta a que se refere o n.º 1 é afixada nos centros de selecção e nos demais departamentos da PSP, com o aviso de que os interessados têm o prazo de 10 dias úteis para efeitos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo.\n\n4 - O júri pode dispensar a audiência a que se refere o número anterior quando, nos termos da alínea b) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo e atento o elevado número de candidatos, seja razoavelmente de prever que essa diligência possa comprometer a execução das operações do concurso dentro dos prazos previstos.\n\n5 - Findo o prazo referido no número anterior, o júri reúne, no prazo de 10 dias úteis, para apreciar as observações eventualmente apresentadas pelos interessados e efectuar as diligências pertinentes, se for caso disso, lavrando-se acta donde conste a lista de classificação final.\n\n6 - A acta a que se refere o número anterior é homologada pelo comandante-geral no prazo de oito dias úteis.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 4-J/97 - Diário da República n.º 26/1997, 3º Suplemento, Série I-B de 1997-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-j-1997-235333), em vigor a partir de 1997-01-31."
+  }
+ }
+}

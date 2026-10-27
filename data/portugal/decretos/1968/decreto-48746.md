@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:262673:por
+title: Decreto n.º 48746
+short_title: null
+summary: Dá nova redacção aos artigos 8.º e 9.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações
+proposing_entity: null
+official_number: '48746'
+official_date: null
+publication_date: '1968-12-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 286/1968, Série I de 1968-12-05
+  number: '286'
+  series: I
+  supplement: null
+  pages: 1787 - 1788
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/12/28600/17871788.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '262673'
+  dre_path: /dr/detalhe/decreto/48746-1968-262673
+  internal: pt:dre:262673:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48746-1968-262673
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48746-1968-262673
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:05:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1b85fb173f97448223dbf6d442f5843e1bf407cde1416fe39f83bb5483b3891d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:05:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48746
+
+Sem prejuízo dos estudos em curso para uma revisão geral das disposições do Código da Estrada, reconhece-se ser vantajoso fazer, desde já, uma actualização dos preceitos em vigor relativos a prioridade de passagem e a cruzamento de veículos, adaptando-os às novas necessidades e características do trânsito rodoviário e ao teor das conclusões estabelecidas, sobre tais matérias, pela Conferência Europeia dos Ministros de Transportes e pela Comissão Económica para a Europa, a que o nosso país aderiu e que o crescente tráfego internacional aconselha a adoptar imediatamente, por evidentes razões de uniformidade e segurança.
+
+Nestes termos:
+
+Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Os artigos 8.º e 9.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+
+###### ARTIGO 8.º — Prioridade de passagem
+
+1. A prioridade de passagem permite aos condutores que dela gozem, uma vez tomadas as indispensáveis precauções, não modificar a sua velocidade ou direcção e obriga todos os outros a abrandar ou a parar por forma a facultar-lhes passagem.
+
+2. Têm prioridade de passagem:
+
+a) Os condutores que se apresentem pela direita nas praças, cruzamentos e entroncamentos, devendo, porém, respeitar as prioridades previstas nas alíneas seguintes;
+
+b) Os condutores que transitem pelas auto-estradas, em relação a todos o veículos que se apresentem nos respectivos ramais de acesso, incluindo os veículos e colunas indicados nas alíneas c) e d);
+
+c) As ambulâncias e os veículos de bombeiros e da polícia e, de uma maneira geral, os que transportem, em serviço urgente, doentes ou feridos, desde que assinalem adequadamente a sua marcha;
+
+d) As colunas militares ou militarizadas, que devem, no entanto, adoptar as medidas necessárias para não embaraçar o trânsito e para prevenir acidentes.
+
+3. devem ceder passagem:
+
+a) Os condutores que saiam de qualquer parque de estacionamento, prédio ou caminho particular;
+
+b) Os condutores de velocípedes sem motor, de veículos de tracção animal e de animais, salvo perante os condutores na situação da alínea anterior.
+
+4. Estas regras de prioridade são aplicáveis sempre que não exista sinalização especial que defina outro modo de proceder.
+
+5. Os condutores não devem entrar num cruzamento ou entroncamento, mesmo que o direito de prioridade ou sinalização automática os autorizem a avançar, se for previsível que a intensidade do tráfego os obrigará a imobilizar-se dentro desse cruzamento ou entroncamento, dificultando ou impedindo a passagem.
+
+6. A contravenção do disposto neste artigo será punida com a multa de 300$00, salvo no caso de contravenção do disposto no n.º 5, que será punida com a multa de 100$00.
+
+###### ARTIGO 9.º — Cruzamento de veículos
+
+1. Quando, na mesma via, se encontrem dois veículos, transitando em sentidos opostos, cada um dos condutores deve deixar livre uma distância lateral suficiente, entre o seu veículo e aquele com que vai cruzar, de modo a que a manobra se faça com segurança.
+
+2. Se não for possível efectuar o cruzamento nas condições indicadas, por a via se encontrar parcialmente obstruída, o condutor que tiver de contornar o obstáculo deve reduzir a velocidade ou parar, de modo a dar passagem ao outro.
+
+3. Se o impedimento não puder ser resolvido por aplicação do disposto no número anterior, recuará o veículo que se encontre mais próximo do local em que o cruzamento seja possível; nas vias de inclinação acentuada recuará o que for a subir, excepto se essa manobra for manifestamente mais fácil para o veículo que desce.
+
+4. Exceptuam-se das limitações impostas nos n.os 2 e 3:
+
+a) Ambulâncias e os veículos de bombeiros e da polícia e, de uma maneira geral, os que transportem, em serviço urgente, doentes ou feridos, desde que assinalem adequadamente a sua marcha;
+
+b) As colunas militares ou militarizadas, que devem, no entanto, adoptar as medidas necessárias para não embaraçar o trânsito e para prevenir acidentes.
+
+5. Os veículos, ou conjuntos articulados de veículos, cuja largura total exceda 2 m, ou cujo comprimento total, incluindo a carga, exceda 8 m, devem diminuir a velocidade ou parar, a fim de facilitarem o cruzamento com outros veículos, sempre que a largura livre da faixa de rodagem, o perfil transversal ou o estado de conservação da via não permitam o cruzamento com a necessária segurança.
+
+6. A contravenção do disposto neste artigo será punida com a multa de 200$00.
+
+Art. 2.º O presente decreto entra em vigor no dia 1 de Janeiro de 1969.
+
+Marcello Caetano - José Estêvão Abranches Couceiro do Canto Moniz.
+
+Promulgado em 22 de Novembro de 1968.
+
+Publique-se.
+
+Presidência da República, 5 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -1,0 +1,430 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:671201:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-58908554",
+ "dre_path": "/dr/detalhe/decreto-lei/102-2011-671201",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180032776",
+    "58912581",
+    "58912582",
+    "58912583",
+    "58912584",
+    "58912585",
+    "58912586",
+    "58912587",
+    "58912588",
+    "58912589",
+    "58912590",
+    "58912591",
+    "58912592",
+    "58912593",
+    "58912594",
+    "58912595"
+   ]
+  },
+  {
+   "date": "2014-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58895505:por",
+     "title": "Decreto-Lei n.º 172/2014",
+     "published": "2014-11-14",
+     "dre_path": "/dr/detalhe/decreto-lei/172-2014-58895505"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "58912580",
+    "58912581",
+    "58912582",
+    "58912583",
+    "58912584",
+    "58912585",
+    "58912586",
+    "58912587",
+    "58912597",
+    "58912589",
+    "58912590",
+    "58912591",
+    "58912598",
+    "58912593",
+    "58912594",
+    "58912595",
+    "58912596"
+   ]
+  },
+  {
+   "date": "2016-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73958532:por",
+     "title": "Lei n.º 7-A/2016",
+     "published": "2016-03-30",
+     "dre_path": "/dr/detalhe/lei/7-a-2016-73958532"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180032776",
+    "180032777",
+    "180032778",
+    "180032779",
+    "180032780",
+    "180032781",
+    "180032782",
+    "180032783",
+    "180032784",
+    "180032785",
+    "180032786",
+    "180032787",
+    "180032788",
+    "180032789",
+    "180032790",
+    "180032791",
+    "180032792"
+   ]
+  }
+ ],
+ "fragments": {
+  "180032776": {
+   "fragment_id": "58908555",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-03-31",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 102/2011\n\nde 30 de Setembro\n\nO Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, e o Decreto-Lei n.º 101/2011, de 30 de Setembro, instituíram tarifas sociais de fornecimento de energia eléctrica e de gás natural, pretendendo assegurar mecanismos de protecção dos consumidores finais economicamente vulneráveis face à situação de crescente incremento e volatilidade dos custos energéticos.\n\nProcurou-se, pois, tornar efectiva a garantia de acesso de todos os consumidores aos bens essenciais que, hoje em dia, a energia eléctrica e o gás natural inequivocamente constituem, através da promoção, para os grupos sociais que se encontrem em situação economicamente mais vulnerável, de uma tendencial estabilidade tarifária mediante a concessão de descontos nas tarifas de acesso às redes.\n\nA prossecução destes objectivos decorre, aliás, também do Terceiro Pacote da Energia da União Europeia (Directivas n.os <a href=\"eurlex.asp?ano=2009&id=309L0072\" title=\"Link para Directiva da Comunidade Europeia\">2009/72/CE</a> e <a href=\"eurlex.asp?ano=2009&id=309L0073\" title=\"Link para Directiva da Comunidade Europeia\">2009/73/CE</a>, do Parlamento Europeu e do Conselho, de 13 de Julho) que, estabelecendo regras comuns para os mercados internos de electricidade e de gás natural, obriga à adopção de medidas de protecção dos consumidores vulneráveis.\n\nFace à actual conjuntura financeira e económica, é necessário adoptar medidas adicionais e complementares de protecção dos consumidores, tendo em conta, nomeadamente, o significativo aumento do preço do fornecimento de gás natural e de electricidade e os efeitos das medidas necessárias para consolidação das contas públicas e o relançamento da economia nacional, especialmente sentidos no universo de consumidores mais vulnerável.\n\nPelo presente diploma é criado o apoio social extraordinário ao consumidor de energia (ASECE), destinado às pessoas singulares que se encontrem em situação de beneficiar do regime da tarifa social de electricidade ou de gás natural, as quais poderão agora cumular tal tarifa social com um desconto ao preço do fornecimento de energia eléctrica e de gás natural.\n\nO ASECE insere-se ainda na linha de actuação prevista no Programa de Emergência Social, apresentado em 5 de Agosto de 2011.\n\nForam ouvidas a Entidade Reguladora dos Serviços Energéticos e a Comissão Nacional de Protecção de Dados.\n\nFoi promovida a audição do Conselho Nacional do Consumo, que optou por se manifestar por meio dos membros que o compõem.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "58912581": {
+   "fragment_id": "58908556",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "58912582": {
+   "fragment_id": "58908557",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei cria o apoio social extraordinário ao consumidor de energia (ASECE).\n\n2 - O ASECE é um apoio social correspondente a um desconto no preço de electricidade e de gás natural de que são beneficiários os clientes finais economicamente vulneráveis."
+  },
+  "58912583": {
+   "fragment_id": "58908558",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São considerados clientes elegíveis para efeitos da aplicação do ASECE os clientes finais economicamente vulneráveis definidos nos termos do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, e do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de Setembro, e que reúnam as condições de atribuição identificadas no artigo 5.º dos respectivos diplomas.\n\n2 - Os clientes elegíveis para aplicação do ASECE podem beneficiar deste apoio social independentemente de lhes ter sido atribuída qualquer tarifa social e podem cumular a sua aplicação com a tarifa social de energia eléctrica, de gás natural ou ambas."
+  },
+  "58912584": {
+   "fragment_id": "58908559",
+   "type": 1,
+   "heading": "Capítulo II — Fixação e financiamento do ASECE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Fixação e financiamento do ASECE"
+  },
+  "58912585": {
+   "fragment_id": "58908560",
+   "type": 11,
+   "heading": "Artigo 3.º — Fixação do ASECE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fixação do ASECE\n\n1 - O ASECE é calculado mediante a aplicação de um desconto em percentagem nas facturas de electricidade e de gás natural dos clientes finais elegíveis.\n\n2 - O desconto a que se refere o número anterior incide sobre o preço bruto do fornecimento excluído de IVA e demais impostos, contribuições e taxas que sejam aplicáveis.\n\n3 - O valor do desconto referido no número anterior é fixado anualmente por portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia."
+  },
+  "58912586": {
+   "fragment_id": "58908561",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Financiamento\n\nO Estado suportará os custos da aplicação do ASECE devidos às empresas comercializadoras de electricidade e de gás natural."
+  },
+  "58912587": {
+   "fragment_id": "58908562",
+   "type": 1,
+   "heading": "Capítulo III — Aplicação do ASECE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Aplicação do ASECE"
+  },
+  "58912588": {
+   "fragment_id": "58908563",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido\n\n1 - Para efeitos de aplicação do ASECE, o comercializador de electricidade ou de gás natural verifica, por solicitação do cliente final, junto das instituições de segurança social competentes, se o cliente final é beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, e no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de Setembro.\n\n2 - A manutenção do ASECE depende da confirmação periódica das condições de elegibilidade previstas no artigo 2.º do presente diploma.\n\n3 - Os procedimentos, os modelos e as demais condições necessárias à atribuição, aplicação e manutenção do ASECE, bem como à sua fiscalização, são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia."
+  },
+  "58912589": {
+   "fragment_id": "58908564",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação\n\n1 - A aplicação do ASECE aos clientes finais economicamente vulneráveis é da responsabilidade dos comercializadores que com eles tenham celebrado um contrato de fornecimento de electricidade ou um contrato de gás natural.\n\n2 - O valor correspondente ao ASECE deve ser identificado de forma clara e visível nas facturas enviadas pelos comercializadores aos clientes que beneficiem do respectivo regime."
+  },
+  "58912590": {
+   "fragment_id": "58908565",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferências trimestrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferências trimestrais\n\n1 - Até ao dia 20 do primeiro mês de cada trimestre, os comercializadores de electricidade e de gás natural dão conhecimento aos operadores das redes de distribuição de energia eléctrica e de gás natural definidos nos termos do Regulamento Tarifário do Sector Eléctrico e do Regulamento Tarifário do Sector do Gás (Operadores das Redes de Distribuição) das verbas decorrentes da aplicação do ASECE, bem como do número de clientes beneficiários do estatuto de cliente final economicamente vulnerável relativo ao trimestre imediatamente anterior.\n\n2 - Até ao final do primeiro mês de cada trimestre, os operadores das redes de distribuição enviam ao Instituto de Gestão Financeira da Segurança Social, I. P., um relatório com a informação mencionada no número anterior, discriminada por comercializador de energia, dando conhecimento do mesmo à Entidade Reguladora dos Serviços Energéticos (ERSE).\n\n3 - O Estado, através do Instituto de Gestão Financeira da Segurança Social, I. P., transfere o montante correspondente ao ASECE relativo ao trimestre em causa para os operadores das redes de distribuição, até ao final do segundo mês de cada trimestre.\n\n4 - Os operadores das redes de distribuição transferem em cinco dias úteis os montantes recebidos do Estado, nos termos do número anterior, para os comercializadores de electricidade e de gás natural mencionados no n.º 1."
+  },
+  "58912591": {
+   "fragment_id": "58908566",
+   "type": 11,
+   "heading": "Artigo 8.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Monitorização\n\n1 - Os comercializadores de energia eléctrica e de gás natural abrangidos pela aplicação do ASECE enviam anualmente à ERSE um relatório certificado por uma empresa de auditoria, comprovando o número de clientes abrangidos pelo ASECE, os montantes concedidos nesse ano a esses clientes e os montantes recebidos trimestralmente do Estado, evidenciando igualmente o respectivo saldo dos fluxos financeiros ocorridos.\n\n2 - O relatório mencionado no número anterior tem de garantir uma correspondência dos montantes relativos ao ASECE nas contas estatutárias aprovadas pelos órgãos sociais de cada empresa comercializadora de energia eléctrica e de gás natural.\n\n3 - Os operadores das redes de distribuição, sem prejuízo do disposto nos regulamentos tarifários do sector eléctrico e do gás natural, têm de manter actualizado um registo dos clientes beneficiários do ASECE.\n\n4 - A ERSE emite anualmente uma notificação de conformidade da informação constante nos relatórios de auditoria enviados pelas empresas comercializadoras de energia com a informação disponibilizada pelos operadores das redes de distribuição, mencionada no número anterior.\n\n5 - Para efeitos do presente artigo e por razões de harmonização, a ERSE definirá os termos e as condições das auditorias a realizar."
+  },
+  "58912592": {
+   "fragment_id": "58908567",
+   "type": 11,
+   "heading": "Artigo 9.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Divulgação de informação\n\n1 - Os comercializadores de energia eléctrica e de gás natural devem promover a divulgação de informação sobre a existência do ASECE e a sua aplicação aos clientes finais economicamente vulneráveis e em documentação que acompanhe as facturas enviadas aos clientes de energia eléctrica fornecidos em baixa tensão normal com potência de consumo igual ou inferior a 4,6 kVA e aos clientes de gás natural fornecido em baixa pressão com consumo anual igual ou inferior a 500 m3.\n\n2 - Os comercializadores de energia eléctrica e de gás natural devem divulgar, nos respectivos sítios na Internet, a informação referida no artigo anterior."
+  },
+  "58912593": {
+   "fragment_id": "58908568",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "58912594": {
+   "fragment_id": "58908569",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nA portaria prevista no n.º 3 do artigo 3.º para o primeiro período de aplicação do ASECE, a portaria prevista no n.º 3 do artigo 5.º e o regulamento previsto no n.º 5 do artigo 8.º devem ser publicados no prazo de 30 dias após a data de entrada em vigor do presente decreto-lei."
+  },
+  "58912595": {
+   "fragment_id": "58908570",
+   "type": 11,
+   "heading": "Artigo 11.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir de 1 de Outubro de 2011."
+  },
+  "58912580": {
+   "fragment_id": "58908555",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 102/2011\n\nde 30 de Setembro\n\nO Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, e o Decreto-Lei n.º 101/2011, de 30 de Setembro, instituíram tarifas sociais de fornecimento de energia eléctrica e de gás natural, pretendendo assegurar mecanismos de protecção dos consumidores finais economicamente vulneráveis face à situação de crescente incremento e volatilidade dos custos energéticos.\n\nProcurou-se, pois, tornar efectiva a garantia de acesso de todos os consumidores aos bens essenciais que, hoje em dia, a energia eléctrica e o gás natural inequivocamente constituem, através da promoção, para os grupos sociais que se encontrem em situação economicamente mais vulnerável, de uma tendencial estabilidade tarifária mediante a concessão de descontos nas tarifas de acesso às redes.\n\nA prossecução destes objectivos decorre, aliás, também do Terceiro Pacote da Energia da União Europeia (Directivas n.os <a href=\"eurlex.asp?ano=2009&id=309L0072\" title=\"Link para Directiva da Comunidade Europeia\">2009/72/CE</a> e <a href=\"eurlex.asp?ano=2009&id=309L0073\" title=\"Link para Directiva da Comunidade Europeia\">2009/73/CE</a>, do Parlamento Europeu e do Conselho, de 13 de Julho) que, estabelecendo regras comuns para os mercados internos de electricidade e de gás natural, obriga à adopção de medidas de protecção dos consumidores vulneráveis.\n\nFace à actual conjuntura financeira e económica, é necessário adoptar medidas adicionais e complementares de protecção dos consumidores, tendo em conta, nomeadamente, o significativo aumento do preço do fornecimento de gás natural e de electricidade e os efeitos das medidas necessárias para consolidação das contas públicas e o relançamento da economia nacional, especialmente sentidos no universo de consumidores mais vulnerável.\n\nPelo presente diploma é criado o apoio social extraordinário ao consumidor de energia (ASECE), destinado às pessoas singulares que se encontrem em situação de beneficiar do regime da tarifa social de electricidade ou de gás natural, as quais poderão agora cumular tal tarifa social com um desconto ao preço do fornecimento de energia eléctrica e de gás natural.\n\nO ASECE insere-se ainda na linha de actuação prevista no Programa de Emergência Social, apresentado em 5 de Agosto de 2011.\n\nForam ouvidas a Entidade Reguladora dos Serviços Energéticos e a Comissão Nacional de Protecção de Dados.\n\nFoi promovida a audição do Conselho Nacional do Consumo, que optou por se manifestar por meio dos membros que o compõem.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "58912597": {
+   "fragment_id": "58908563",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido",
+   "in_force_from": "2014-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido\n\n1 - Para efeitos de aplicação do ASECE, o comercializador de eletricidade ou de gás natural verifica, por solicitação do cliente final, junto das instituições competentes, se o cliente final observa algum dos requisitos previstos nos n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, e no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de setembro.\n\n2 - A manutenção do ASECE depende da confirmação periódica das condições de elegibilidade previstas no artigo 2.º do presente diploma.\n\n3 - Os procedimentos, os modelos e as demais condições necessárias à atribuição, aplicação e manutenção do ASECE, bem como à sua fiscalização, são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+  },
+  "58912598": {
+   "fragment_id": "58908567",
+   "type": 11,
+   "heading": "Artigo 9.º — Divulgação de informação",
+   "in_force_from": "2014-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+   ],
+   "markdown": "###### Artigo 9.º — Divulgação de informação\n\n1 - Os comercializadores de energia elétrica e de gás natural devem promover a divulgação de informação sobre a existência do ASECE e a sua aplicação aos clientes finais economicamente vulneráveis e em documentação que acompanhe as faturas enviadas aos clientes de energia elétrica fornecidos em baixa tensão normal com potência de consumo igual ou inferior a 6,9 kVA e aos clientes de gás natural fornecido em baixa pressão com consumo anual igual ou inferior a 500 m3.\n\n2 - Os comercializadores de energia eléctrica e de gás natural devem divulgar, nos respectivos sítios na Internet, a informação referida no artigo anterior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+  },
+  "58912596": {
+   "fragment_id": "58908571",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 27 de Setembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 28 de Setembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "180032777": {
+   "fragment_id": "58908556",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032778": {
+   "fragment_id": "58908557",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei cria o apoio social extraordinário ao consumidor de energia (ASECE).\n\n2 - O ASECE é um apoio social correspondente a um desconto no preço de electricidade e de gás natural de que são beneficiários os clientes finais economicamente vulneráveis.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032779": {
+   "fragment_id": "58908558",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São considerados clientes elegíveis para efeitos da aplicação do ASECE os clientes finais economicamente vulneráveis definidos nos termos do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, e do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de Setembro, e que reúnam as condições de atribuição identificadas no artigo 5.º dos respectivos diplomas.\n\n2 - Os clientes elegíveis para aplicação do ASECE podem beneficiar deste apoio social independentemente de lhes ter sido atribuída qualquer tarifa social e podem cumular a sua aplicação com a tarifa social de energia eléctrica, de gás natural ou ambas.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032780": {
+   "fragment_id": "58908559",
+   "type": 1,
+   "heading": "Capítulo II — Fixação e financiamento do ASECE",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "### Capítulo II — Fixação e financiamento do ASECE\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032781": {
+   "fragment_id": "58908560",
+   "type": 11,
+   "heading": "Artigo 3.º — Fixação do ASECE",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 3.º — Fixação do ASECE\n\n1 - O ASECE é calculado mediante a aplicação de um desconto em percentagem nas facturas de electricidade e de gás natural dos clientes finais elegíveis.\n\n2 - O desconto a que se refere o número anterior incide sobre o preço bruto do fornecimento excluído de IVA e demais impostos, contribuições e taxas que sejam aplicáveis.\n\n3 - O valor do desconto referido no número anterior é fixado anualmente por portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032782": {
+   "fragment_id": "58908561",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 4.º — Financiamento\n\nO Estado suportará os custos da aplicação do ASECE devidos às empresas comercializadoras de electricidade e de gás natural.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032783": {
+   "fragment_id": "58908562",
+   "type": 1,
+   "heading": "Capítulo III — Aplicação do ASECE",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "### Capítulo III — Aplicação do ASECE\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032784": {
+   "fragment_id": "58908563",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido\n\n1 - Para efeitos de aplicação do ASECE, o comercializador de eletricidade ou de gás natural verifica, por solicitação do cliente final, junto das instituições competentes, se o cliente final observa algum dos requisitos previstos nos n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, e no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de setembro.\n\n2 - A manutenção do ASECE depende da confirmação periódica das condições de elegibilidade previstas no artigo 2.º do presente diploma.\n\n3 - Os procedimentos, os modelos e as demais condições necessárias à atribuição, aplicação e manutenção do ASECE, bem como à sua fiscalização, são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+  },
+  "180032785": {
+   "fragment_id": "58908564",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 6.º — Aplicação\n\n1 - A aplicação do ASECE aos clientes finais economicamente vulneráveis é da responsabilidade dos comercializadores que com eles tenham celebrado um contrato de fornecimento de electricidade ou um contrato de gás natural.\n\n2 - O valor correspondente ao ASECE deve ser identificado de forma clara e visível nas facturas enviadas pelos comercializadores aos clientes que beneficiem do respectivo regime.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032786": {
+   "fragment_id": "58908565",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferências trimestrais",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 7.º — Transferências trimestrais\n\n1 - Até ao dia 20 do primeiro mês de cada trimestre, os comercializadores de electricidade e de gás natural dão conhecimento aos operadores das redes de distribuição de energia eléctrica e de gás natural definidos nos termos do Regulamento Tarifário do Sector Eléctrico e do Regulamento Tarifário do Sector do Gás (Operadores das Redes de Distribuição) das verbas decorrentes da aplicação do ASECE, bem como do número de clientes beneficiários do estatuto de cliente final economicamente vulnerável relativo ao trimestre imediatamente anterior.\n\n2 - Até ao final do primeiro mês de cada trimestre, os operadores das redes de distribuição enviam ao Instituto de Gestão Financeira da Segurança Social, I. P., um relatório com a informação mencionada no número anterior, discriminada por comercializador de energia, dando conhecimento do mesmo à Entidade Reguladora dos Serviços Energéticos (ERSE).\n\n3 - O Estado, através do Instituto de Gestão Financeira da Segurança Social, I. P., transfere o montante correspondente ao ASECE relativo ao trimestre em causa para os operadores das redes de distribuição, até ao final do segundo mês de cada trimestre.\n\n4 - Os operadores das redes de distribuição transferem em cinco dias úteis os montantes recebidos do Estado, nos termos do número anterior, para os comercializadores de electricidade e de gás natural mencionados no n.º 1.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032787": {
+   "fragment_id": "58908566",
+   "type": 11,
+   "heading": "Artigo 8.º — Monitorização",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 8.º — Monitorização\n\n1 - Os comercializadores de energia eléctrica e de gás natural abrangidos pela aplicação do ASECE enviam anualmente à ERSE um relatório certificado por uma empresa de auditoria, comprovando o número de clientes abrangidos pelo ASECE, os montantes concedidos nesse ano a esses clientes e os montantes recebidos trimestralmente do Estado, evidenciando igualmente o respectivo saldo dos fluxos financeiros ocorridos.\n\n2 - O relatório mencionado no número anterior tem de garantir uma correspondência dos montantes relativos ao ASECE nas contas estatutárias aprovadas pelos órgãos sociais de cada empresa comercializadora de energia eléctrica e de gás natural.\n\n3 - Os operadores das redes de distribuição, sem prejuízo do disposto nos regulamentos tarifários do sector eléctrico e do gás natural, têm de manter actualizado um registo dos clientes beneficiários do ASECE.\n\n4 - A ERSE emite anualmente uma notificação de conformidade da informação constante nos relatórios de auditoria enviados pelas empresas comercializadoras de energia com a informação disponibilizada pelos operadores das redes de distribuição, mencionada no número anterior.\n\n5 - Para efeitos do presente artigo e por razões de harmonização, a ERSE definirá os termos e as condições das auditorias a realizar.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032788": {
+   "fragment_id": "58908567",
+   "type": 11,
+   "heading": "Artigo 9.º — Divulgação de informação",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+   ],
+   "markdown": "###### Artigo 9.º — Divulgação de informação\n\n1 - Os comercializadores de energia elétrica e de gás natural devem promover a divulgação de informação sobre a existência do ASECE e a sua aplicação aos clientes finais economicamente vulneráveis e em documentação que acompanhe as faturas enviadas aos clientes de energia elétrica fornecidos em baixa tensão normal com potência de consumo igual ou inferior a 6,9 kVA e aos clientes de gás natural fornecido em baixa pressão com consumo anual igual ou inferior a 500 m3.\n\n2 - Os comercializadores de energia eléctrica e de gás natural devem divulgar, nos respectivos sítios na Internet, a informação referida no artigo anterior.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2014 - Diário da República n.º 221/2014, Série I de 2014-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), em vigor a partir de 2014-11-15"
+  },
+  "180032789": {
+   "fragment_id": "58908568",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032790": {
+   "fragment_id": "58908569",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nA portaria prevista no n.º 3 do artigo 3.º para o primeiro período de aplicação do ASECE, a portaria prevista no n.º 3 do artigo 5.º e o regulamento previsto no n.º 5 do artigo 8.º devem ser publicados no prazo de 30 dias após a data de entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032791": {
+   "fragment_id": "58908570",
+   "type": 11,
+   "heading": "Artigo 11.º — Produção de efeitos",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 11.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir de 1 de Outubro de 2011.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "180032792": {
+   "fragment_id": "58908571",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 27 de Setembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 28 de Setembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  }
+ }
+}

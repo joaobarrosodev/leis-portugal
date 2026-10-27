@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:412836:por
+title: Decreto n.º 477/73
+short_title: null
+summary: Cria nos Serviços de Saúde e Assistência dos Estados de Angola e Moçambique serviços especializados de saúde mental
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Saúde e Assistência
+proposing_entity: null
+official_number: 477/73
+official_date: null
+publication_date: '1973-09-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 227/1973, Série I de 1973-09-27
+  number: '227'
+  series: I
+  supplement: null
+  pages: 1668 - 1669
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/09/22700/16681669.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '412836'
+  dre_path: /dr/detalhe/decreto/477-1973-412836
+  internal: pt:dre:412836:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/477-1973-412836
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/477-1973-412836
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 53af3aa8cd23eea16ae0e465d34b37d58cb2710edfbb3f51d3852e216b054e0c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:199975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292913:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:29:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 477/73
+
+de 27 de Setembro
+
+Tendo sido criadas nos Estados de Angola e Moçambique as condições básicas indispensáveis ao funcionamento de serviços especializados de saúde mental previstos no artigo 26.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, chegou a oportunidade de se promover a sua criação, dotando-os ao mesmo tempo de uma orgânica que lhes permita estender, a sua acção ao conjunto dos respectivos territórios.
+
+Reconhece-se ainda a conveniência de, por um lado, integrar nestes serviços todas as actividades que no sector público se dedicam a este tipo de assistência e, por outro lado, atribuir-se-lhes funções de orientação e fiscalização dos organismos ou estabelecimentos existentes de assistência psiquiátrica privada.
+
+Nestes termos, ouvidos os Governos-Gerais de Angola e Moçambique;
+
+Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgência, usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+Artigo 1.º - 1. São criados nos Serviços de Saúde e Assistência dos Estados de Angola e Moçambique serviços especializados de saúde mental, de acordo com o disposto no artigo 26.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
+
+2. Os Serviços de Saúde Mental terão a sua sede nas capitais dos respectivos Estados e funcionarão nos centros de saúde mental nelas localizados.
+
+Art. 2.º - 1. Os Serviços de Saúde Mental de Angola e Moçambique dispõem de autonomia técnica e administrativa e têm por finalidade a promoção da saúde mental das respectivas populações, mediante acções de ordem profiláctica, terapêutica e recuperadora.
+
+2. A acção profiláctica compreenderá medidas de carácter preventivo, designadamente pedagógicas e de higiene mental, individuais ou colectivas, devendo incidir especialmente sobre a infância e a adolescência.
+
+3. A acção terapêutica consistirá no tratamento das doenças e correcção das anomalias mentais, bem como no tratamento das toxicomanias, em regime ambulatório, domiciliário ou de internamento.
+
+4. A acção recuperadora realizar-se-á pela aplicação de medidas psico-pedagógicas, sociais e outras, destinadas à readaptação dos portadores de doenças e anomalias mentais, bem como de toxicomanias, com vista à sua integração no meio social.
+
+Art. 3.º Aos serviços especializados de saúde mental competirá:
+
+a) Orientar, coordenar e fiscalizar, sob o ponto de vista técnico, toda a acção profiláctica, terapêutica ou recuperadora no domínio das doenças e anomalias mentais e das toxicomanias, a exercer através dos vários estabelecimentos ou organismos de carácter público ou privado;
+
+b) Assegurar o funcionamento dos estabelecimentos de assistência psiquiátrica dependentes dos Serviços de Saúde e Assistência, incluindo as consultas neuro-psico-pedagógicas previstas no [Decreto n.º 46504](https://diariodarepublica.pt/dr/detalhe/decreto/46504-1965-292913), de 27 de Agosto de 1965;
+
+c) Estimular e favorecer as iniciativas particulares que contribuam para a realização de qualquer das formas de actividade que promovam a saúde mental, dando parecer sobre os pedidos de instalação e funcionamento dos estabelecimentos adequados, bem assim sobre os seus regulamentos internos;
+
+d) Promover a colaboração mútua com os Serviços de Justiça, Educação, Assistência Pública e Instituto de Trabalho, Previdência e Acção Social, no sentido de resolver os problemas que a cada um se apresentem no domínio da saúde mental.
+
+Art. 4.º Os Serviços de Saúde Mental serão chefiados por médicos psiquiatras de reconhecida capacidade e experiência, a nomear pelo Ministro do Ultramar, por proposta dos Governadores-Gerais, ouvidos os respectivos Serviços de Saúde e Assistência, sendo-lhes atribuída a letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+
+Art. 5.º As nomeações dos chefes dos serviços especializados de saúde mental serão feitas em comissão de serviço renovável nos termos da lei.
+
+Art. 6.º Os chefes dos Serviços de Saúde Mental serão coadjuvados na sua função executiva por um conselho técnico, com a composição e atribuições que vierem a ser definidas no regulamento dos respectivos Serviços.
+
+Art. 7.º - 1. Para efeitos de organização e actuação dos Serviços de Saúde Mental, os territórios dos Estados de Angola e Moçambique são divididos em zonas, correspondendo, em regra, às zonas hospitalares, apoiando a sua acção em centros de saúde mental chefiados por médicos psiquiatras.
+
+2. Os centros de saúde mental dependem directamente dos respectivos chefes dos serviços especializados e, através deles, das Direcções Provinciais de Saúde e Assistência.
+
+3. Além dos centros de saúde mental das sedes das zonas, poderão ser criados organismos idênticos noutras localidades, sendo-lhes definidas as respectivas áreas de influência.
+
+Art. 8.º - 1. Passam a depender dos centros de saúde mental os seguintes departamentos e estabelecimentos oficiais de assistência psiquiátrica:
+
+a) Serviços de psiquiatria dos hospitais centrais e regionais;
+
+b) Clínicas psiquiátricas anexas aos mesmos hospitais;
+
+c) Hospitais psiquiátricos e estabelecimentos para doentes mentais crónicos.
+
+2. São integrados nos centros de saúde mental os departamentos ou organismos oficiais já existentes que se ocupem deste tipo de assistência.
+
+Art. 9.º - 1. Os serviços especializados de saúde mental disporão de pessoal técnico, administrativo e auxiliar necessário ao bom funcionamento dos mesmos.
+
+2. Ficam desde já autorizados os Governos-Gerais de Angola e Moçambique a criar nos quadros dos Serviços de Saúde e Assistência os lugares necessários ao regular funcionamento dos Serviços de Saúde Mental, com excepção dos lugares dos quadros comuns, cuja criação e provimento obedecerão aos trâmites legais em vigor.
+
+Art. 10.º Os Governadores-Gerais de Angola e Moçambique determinarão, no prazo máximo de seis meses, a publicação dos regulamentos orgânicos dos serviços criados pelo presente decreto.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 6 de Setembro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais dos Estados de Angola e Moçambique. - J. da Silva Cunha.

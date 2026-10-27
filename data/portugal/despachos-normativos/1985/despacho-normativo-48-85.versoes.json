@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183034:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1985-892301208",
+ "dre_path": "/dr/detalhe/despacho-normativo/48-1985-183034",
+ "source_lastmod": "2024-10-22",
+ "versions": [
+  {
+   "date": "1985-07-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "892302195"
+   ]
+  },
+  {
+   "date": "1985-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:267836:por",
+     "title": "Declaração",
+     "published": "1985-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-267836"
+    }
+   ],
+   "changes": [
+    "Retifica ANEXO"
+   ],
+   "fragments": [
+    "892302195",
+    "892302196",
+    "892302200"
+   ]
+  }
+ ],
+ "fragments": {
+  "892302195": {
+   "fragment_id": "892301209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 48/85\n\nA estrutura básica das actuais directivas monetárias remonta a 1976 (declaração da Secretaria de Estado do Tesouro publicada no Diário da República, 1.ª série, n.º 141, de 18 de Junho de 1976).\n\nA evolução entretanto ocorrida nos mercados cambiais internacionais aconselha, porém, a adequação das aludidas directivas monetárias.\n\nAssim, ao abrigo do disposto na alínea c) do artigo 25.º do Decreto-Lei n.º 44698, de 17 de Novembro de 1962, e de acordo com o proposto pelo Banco de Portugal, determina-se o seguinte:\n\n1 - Na emissão dos boletins de registo prévio de comércio externo e na liquidação das respectivas transacções passam a ser adoptadas as directivas constantes do mapa anexo ao presente despacho normativo.\n\n2 - Na emissão de facturas e de quaisquer outros documentos contratuais respeitantes a operações classificadas como de invisíveis correntes, somente podem ser consideradas como moeda de valoração e de liquidação as previstas nas directivas a que alude o n.º 1, tomando-se as entradas de invisíveis correntes como correspondentes a exportações e as saídas a importações.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) As situações contempladas em legislação especial;\n\nb) As transferências para Portugal relativas a seguros e transferências privadas, as quais podem ser efectuadas em escudos.\n\n4 - As operações de capitais só podem ser efectuadas e liquidadas do seguinte modo:\n\na) As importações de capitais devem ser efectuadas e liquidadas nas moedas indicadas relativamente à exportação ou reexportação de mercadorias;\n\nb) As exportações de capitais devem ser efectuadas e liquidadas nas moedas previstas para a importação de mercadorias.\n\n5 - A utilização de moeda diferente ou não prevista nas directivas ou nos números anteriores carece de autorização prévia do Banco de Portugal."
+  },
+  "892302196": {
+   "fragment_id": "892301210",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Secretaria de Estado do Tesouro, 7 de Junho de 1985. - O Secretário de Estado do Tesouro, António d'Almeida."
+  },
+  "892302200": {
+   "fragment_id": "892301211",
+   "type": 14,
+   "heading": "ANEXO",
+   "in_force_from": "1985-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 200/1985, 2º Suplemento, Série I de 1985-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-267836), em vigor a partir de 1985-08-31"
+   ],
+   "markdown": "## ANEXO\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração - Diário da República n.º 200/1985, 2º Suplemento, Série I de 1985-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-267836), em vigor a partir de 1985-08-31"
+  }
+ }
+}

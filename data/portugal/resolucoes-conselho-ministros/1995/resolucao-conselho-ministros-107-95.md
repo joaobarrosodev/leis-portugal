@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:668905:por
+title: Resolução do Conselho de Ministros n.º 107/95
+short_title: null
+summary: Adjudica provisoriamente à Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A., a concessão do
+  exclusivo da exploração de jogos de fortuna ou azar nos casinos de Vilamoura e do Barlavento e do Sotavento
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 107/95
+official_date: null
+publication_date: '1995-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 241/1995, Série I-B de 1995-10-18
+  number: '241'
+  series: I
+  supplement: null
+  pages: 6464 - 6464
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/10/241b00/64646464.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/107/1995/10/18/p/dre/pt/html
+  oj: null
+  dre: '668905'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/107-1995-668905
+  internal: pt:dre:668905:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1995-668905
+  metadata_url: https://data.dre.pt/eli/resolconsmin/107/1995/10/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1995-668905
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:33:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 12f711c73df58e0a5cd403d2efd43e9d3da8a3c38b5d60851df5dfd7b1eb34f9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação
+- Concurso Público
+- Contrato de Concessão
+- Empresa
+- Estabelecimento de Jogos
+- Jogos de Fortuna e Azar
+- Sociedade Anónima
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: pt:dre:145228:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/1/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:33:16Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 107/95
+
+O [Decreto Regulamentar n.º 1/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1995-145228), de 19 de Janeiro, determinou a abertura de concursos públicos para a adjudicação da concessão da exploração de três casinos no Algarve, os casinos de Vilamoura, do Barlavento e do Sotavento.
+
+Em cumprimento do disposto naquele diploma, foram abertos concursos públicos, por anúncio publicado no Diário da República, 3.ª série, n.º 29, de 3 de Fevereiro de 1995.
+
+Apresentaram-se aos referidos concursos os seguintes concorrentes:
+
+a) Concurso para adjudicação da concessão da exploração do casino de Vilamoura:
+
+Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.;
+
+b) Concurso para adjudicação da concessão da exploração do casino do Barlavento;
+
+i) M. & J. Pestana, Sociedade de Turismo da Madeira, S. A., ITI, Sociedade de Investimentos Turísticos na Ilha da Madeira, S. A., e Salvor, Sociedade de Investimento Hoteleiro, S. A.;
+
+ii) Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.;
+
+c) Concurso para adjudicação da concessão da exploração do casino do Sotavento:
+
+i) Sociedade Figueira-Praia, S. A.;
+
+ii) Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.
+
+Em 14 de Julho, o Ministro do Comércio e Turismo, através do seu Despacho n.º 708/95-DI, tendo em conta o relatório elaborado pela comissão criada pelo n.º 1 do artigo 3.º do [Decreto Regulamentar n.º 1/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1995-145228), admitiu aos concursos todos os concorrentes.
+
+No dia 21 de Julho, em acto público, procedeu-se, na Inspecção-Geral de Jogos, à abertura e leitura das propostas propriamente ditas.
+
+Em 26 de Julho, a mencionada comissão procedeu, em conformidade com o disposto nos n.os 1 e 2 do artigo 8.º do mencionado [Decreto Regulamentar n.º 1/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1995-145228), à graduação das propostas, nos seguintes termos:
+
+a) Quanto ao Casino de Vilamoura:
+
+A única concorrente, Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.;
+
+b) Quanto ao casino do Barlavento:
+
+Em primeiro lugar, Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.;
+
+Em segundo lugar, M. & J. Pestana, Sociedade de Turismo da Madeira, S. A., ITI, Sociedade de Investimentos Turísticos na Ilha da Madeira, S. A., e Salvor, Sociedade de Investimento Hoteleiro, S. A.;
+
+c) Quanto ao casino do Sotavento:
+
+Em primeiro lugar, Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.;
+
+Em segundo lugar, Sociedade Figueira-Praia, S. A.
+
+Por último, o Conselho Consultivo de Jogos, no seu parecer n.º 73/95, de 26 de Julho, emitido ao abrigo da alínea c) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio, concordou com o relatório elaborado pela referida comissão, propondo, em consequência, a adjudicação da concessão da exploração de jogos de fortuna ou azar nos três aludidos casinos à Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A.
+
+Considerando a graduação das propostas efectuada pela comissão criada pelo n.º 1 do artigo 3.º do Decreto Regulamentar;
+
+Considerando o parecer do Conselho Consultivo de Jogos n.º 73/95, de 26 de Julho;
+
+Assim:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+Adjudicar provisoriamente, ao abrigo do n.º 1 do artigo 12.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, e do n.º 6 do artigo 11.º do [Decreto Regulamentar n.º 1/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1995-145228), de 19 de Janeiro, à Solverde, Sociedade de Investimentos Turísticos da Costa Verde, S. A., a concessão do exclusivo da exploração de jogos de fortuna ou azar nos casinos de Vilamoura e do Barlavento e do Sotavento, pelos valores e nos termos das propostas apresentadas a concurso.
+
+Presidência do Conselho de Ministros, 14 de Setembro de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

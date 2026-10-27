@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:428659:por
+title: Portaria n.º 236/96
+short_title: null
+summary: Desafecta do domínio público hídrico uma parcela de terreno sita em Alhandra, município de Vila Franca de Xira
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 236/96
+official_date: null
+publication_date: '1996-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/1996, Série I-B de 1996-06-29
+  number: '149'
+  series: I
+  supplement: null
+  pages: 1688 - 1688
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/06/149b00/16881688.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/236/1996/06/29/p/dre/pt/html
+  oj: null
+  dre: '428659'
+  dre_path: /dr/detalhe/portaria/236-1996-428659
+  internal: pt:dre:428659:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-1996-428659
+  metadata_url: https://data.dre.pt/eli/port/236/1996/06/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-1996-428659
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:20:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3b3e2533b32d3e57f777f85ce9d08f41117e02ba1b22402bb2a2f460dd186746
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração do Porto de Lisboa
+- Autarquia Local
+- Domínio Público Hídrico
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:444403:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:20:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 236/96
+
+de 29 de Junho
+
+Pretendendo a Câmara Municipal de Vila Franca de Xira construir um complexo desportivo em terreno marginal ao rio Tejo, em Alhandra, pertencente à CIMIANTO - Sociedade Técnica de Hidráulica, S. A.;
+
+Considerando que esta Sociedade se mostrou disponível para a cedência desse terreno à autarquia desde que a parcela do domínio público hídrico que lhe fica a montante, com cerca de 11000 m2, assinalada na planta anexa, cujo uso privativo lhe está licenciado pela Administração do Porto de Lisboa, possa ser transferida para a sua propriedade;
+
+Considerando o interesse social do empreendimento que a autarquia pretende levar a efeito e o facto de a referida parcela dominial não ter interesse para a actividade portuária;
+
+Considerando que a Comissão do Domínio Público Marítimo, pelo parecer n.º 5435, de 6 de Fevereiro de 1992, é favorável à desafectação da parcela dominial, cumprindo-se, por isso, o disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 450/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1983-444403), de 26 de Dezembro:
+
+Nestes termos, ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 450/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1983-444403), de 26 de Dezembro:
+
+Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, o seguinte:
+
+1.º Desafectar do domínio público hídrico a parcela de terreno sita em Alhandra, município de Vila Franca de Xira, com cerca de 11000 m2 de superfície, indicada na planta anexa, afecta à Administração do Porto de Lisboa.
+
+2.º A parcela dominial objecto de desafectação destina-se a ser vendida ao município de Vila Franca de Xira, tendo em vista a sua permuta por um terreno da CIMIANTO - Sociedade Técnica de Hidráulica, S. A., que se situa a jusante daquela, a fim de o município aí construir um complexo gimnodesportivo.
+
+3.º No caso de não se concretizarem a venda e a permuta referidas no artigo anterior, fica sem efeito a desafectação, revertendo a parcela para o domínio público do Estado afecto à Administração do Porto de Lisboa.
+
+Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+Assinada em 18 de Junho de 1996.
+
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/149b00/16881688.pdf)

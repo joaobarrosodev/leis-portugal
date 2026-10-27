@@ -1,0 +1,516 @@
+---
+schema_version: '1.0'
+id: pt:dre:520472:por
+title: Decreto-Lei n.º 70/2007
+short_title: null
+summary: Regula as práticas comerciais com redução de preço nas vendas a retalho praticadas em estabelecimentos comerciais,
+  com vista ao escoamento das existências, ao aumento do volume de vendas ou a promover o lançamento de um produto não comercializado
+  anteriormente pelo agente económico
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 70/2007
+official_date: null
+publication_date: '2007-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2007, Série I de 2007-03-26
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1736 - 1739
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06000/17361739.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-04-03'
+version_history:
+  file: decreto-lei-70-2007.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-03-01'
+    amending: pt:dre:66229856:por
+    amending_title: Decreto-Lei n.º 10/2015
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Revoga Artigo 14.º
+  - date: '2019-10-13'
+    amending: pt:dre:123968666:por
+    amending_title: Decreto-Lei n.º 109/2019
+    changes:
+    - Adita Artigo 17.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+  - date: '2022-05-28'
+    amending: pt:dre:175744207:por
+    amending_title: Decreto-Lei n.º 109-G/2021
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+  - date: '2023-04-03'
+    amending: pt:dre:208124552:por
+    amending_title: Lei n.º 10/2023
+    changes:
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/70/2007/p/cons/20230303/pt/html
+  oj: null
+  dre: '520472'
+  dre_path: /dr/detalhe/decreto-lei/70-2007-520472
+  internal: pt:dre:520472:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2007-520472
+  metadata_url: https://data.dre.pt/eli/dec-lei/70/2007/p/cons/20230303/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34524175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34524175
+  retrieved_at: '2026-10-22T11:48:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: db635e317918c9b43626123a2a8b893c1efab241c469eb266bdc5ba56894090b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:48:48Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-70-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Comercial
+- Comércio a Retalho
+- Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
+- Contra-ordenação
+- Fiscalização
+- Direcção Geral da Empresa
+- Preço de Venda
+- Profissão Comercial
+- Promoção de Produtos
+- Saldos
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:505008:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-a-2007-505008
+  date: '2007-05-25'
+- type: amended_by
+  target: pt:dre:66229856:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 10.º;
+    Altera Artigo 13.º; Altera Artigo 16.º; Altera Artigo 17.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
+- type: amended_by
+  target: pt:dre:123968666:por
+  label: Adita Artigo 17.º-A; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo
+    13.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666
+  date: '2019-08-14'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:175744207:por
+  label: Adita Artigo 5.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207
+  date: '2021-12-10'
+- type: amended_by
+  target: pt:dre:208124552:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/10-2023-208124552
+  date: '2023-03-03'
+- type: cites
+  target: celex:32004R2006
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R2394
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/67/2003/04/08/p/dre
+- type: cites
+  target: pt:dre:301011:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/359/1991/09/21/p/dre
+- type: cites
+  target: pt:dre:664318:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/370/1993/10/29/p/dre
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:48:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 70/2007
+
+O Decreto-Lei n.º 253/86, de 25 de Agosto, que define as práticas comerciais restritivas da leal concorrência, visando a defesa do consumidor, tem revelado na prática vários desajustamentos que resultam, por um lado, de uma formulação pouco precisa na regulação das práticas comerciais com redução de preço nas vendas a retalho praticadas em estabelecimentos comerciais e, por outro, do desvirtuamento dessas práticas em face das necessidades actuais do mercado.
+
+Com vista a criar um ambiente mais favorável ao desenvolvimento do comércio retalhista, o Governo entende necessário alterar aquele regime, uniformizando e clarificando certos aspectos relativos às práticas comerciais com redução de preço, de forma a dotá-las de regras próprias de oportunidade para os agentes económicos. As práticas comerciais com redução de preço integram, com exclusão de quaisquer outras, as modalidades da venda em saldos, das promoções e da liquidação de produtos.
+
+Neste contexto, procede-se também à antecipação das datas dos dois períodos anuais permitidos para a venda em saldos, de modo a possibilitar um maior escoamento das existências do estabelecimento comercial num espaço mais alargado de tempo. Relativamente às promoções, define-se esta modalidade de venda e clarificam-se as situações em que a mesma se pode realizar e as regras a que está sujeita. No que respeita à liquidação de produtos são aplicadas as regras gerais estabelecidas para as restantes modalidades de venda com redução de preço.
+
+Por outro lado, atendendo às novas formas e canais de escoamento do excesso de produção, excluem-se do âmbito de aplicação do presente diploma as vendas directas ao consumidor efectuadas pelas empresas industriais de produtos que não passam no controlo de qualidade.
+
+Entendeu-se igualmente necessário clarificar o modo como os direitos dos consumidores devem ser exercidos, estabelecendo-se que durante os períodos de vendas com redução de preço o exercício destes direitos, nomeadamente do direito à informação e do direito à garantia dos bens e serviços, não sofre qualquer limitação.
+
+Para além destes aspectos, o Governo decide ainda legislar no sentido de garantir o direito à informação dos consumidores, nomeadamente no que respeita à venda de produtos com defeito; de reforçar os direitos dos consumidores permitindo a utilização nas vendas com redução de preço dos meios de pagamento habitualmente disponíveis e de possibilitar ao consumidor, mediante acordo com o comerciante, a substituição do produto adquirido, independentemente do motivo e sem prejuízo da aplicação do regime jurídico das garantias dos bens de consumo a que se refere o Decreto-Lei n.º 67/2003, de 8 de Abril.
+
+Foi promovida a audição ao Conselho Nacional do Consumo (CNC).
+
+Foram consultadas a Associação Portuguesa das Empresas de Distribuição (APED) e a Confederação do Comércio e Serviços de Portugal (CCP).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei regula as práticas comerciais com redução de preço, com vista ao escoamento das existências, ao aumento do volume de vendas ou a promover o lançamento de um produto não comercializado anteriormente pelo agente económico.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente decreto-lei aplica-se:
+
+a) Às vendas a retalho praticadas nos estabelecimentos comerciais;
+
+b) À oferta de serviços, com as devidas adaptações;
+
+c) Às vendas a retalho efetuadas à distância, ao domicílio, ou por outros métodos fora dos estabelecimentos, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos do presente decreto-lei, entende-se por práticas comerciais com redução de preço as seguintes modalidades de venda:
+
+a) «Saldos», a venda de produtos praticada a um preço inferior ao preço mais baixo anteriormente praticado no mesmo estabelecimento comercial, com o objetivo de promover o escoamento acelerado das existências;
+
+b) «Promoções», a venda promovida com vista a potenciar a venda de determinados produtos ou o lançamento de um produto não comercializado anteriormente pelo agente económico no mesmo estabelecimento comercial, bem como o desenvolvimento da atividade comercial:
+
+i) A um preço inferior ao preço mais baixo anteriormente praticado ou com condições mais vantajosas do que as utilizadas nos períodos de vendas sem redução de preço, praticadas no mesmo estabelecimento comercial; ou
+
+ii) Tratando-se de um produto não comercializado anteriormente pelo agente económico, a um preço inferior ao preço a praticar após o período de redução ou com condições mais vantajosas do que as utilizadas após este período;
+
+c) «Liquidação» a venda de produtos com um carácter excepcional que se destine ao escoamento acelerado com redução de preço da totalidade ou de parte das existências do estabelecimento, resultante da ocorrência de motivos que determinem a interrupção da venda ou da actividade no estabelecimento.
+
+2 - Para efeitos de aplicação do presente decreto-lei, entende-se por:
+
+a) «Preço mais baixo anteriormente praticado», o preço mais baixo a que o produto foi vendido nos últimos 30 dias consecutivos anteriores à aplicação da redução do preço;
+
+b) «Percentagem de redução», a percentagem de redução relativamente ao preço mais baixo anteriormente praticado ou, tratando-se de um produto não comercializado anteriormente pelo agente económico naquele estabelecimento, relativamente ao preço a praticar após o período de redução.
+
+c) «Produtos agrícolas e alimentares perecíveis», os produtos agrícolas e alimentares que, pela sua natureza ou devido à sua fase de transformação, sejam suscetíveis de se tornarem impróprios para venda no prazo de 30 dias após a data de colheita, produção ou transformação.
+
+3 - Só são permitidas as práticas comerciais com redução de preço nas modalidades referidas no n.º 1.
+
+4 - É proibida a utilização de expressões similares para anunciar vendas com redução de preços que se integrem nas definições constantes do n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 4.º — Informação para a concorrência leal na venda com redução de preço
+
+1 - Na venda com redução de preço deve ser indicada de modo inequívoco, a modalidade de venda, o tipo de produtos, o preço mais baixo anteriormente praticado, bem como a data de início e o período de duração.
+
+2 - É proibido vender com redução de preço produtos adquiridos após a data de início da venda com redução, mesmo que o seu preço venha a ser igual ao praticado durante o período de redução.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - Para efeitos do disposto no n.º 1, no caso de aumento gradual e ininterrupto da redução de preço, considera-se que o preço mais baixo anteriormente praticado é o preço antes da aplicação da primeira redução do preço.
+
+6 - O disposto no n.º 1 não obsta a que o operador económico possa efetuar anúncios ou declarações gerais de reduções de preços em comunicações publicitárias.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 5.º — Preço de referência
+
+1 - A redução de preço anunciada deve ser real, por referência ao preço mais baixo anteriormente praticado para o mesmo produto ou, quando se trate de um produto não comercializado anteriormente pelo agente económico, por referência ao preço a praticar após o período de redução.
+
+2 - (Revogado).
+
+3 - O preço a praticar na venda com redução de preço deve respeitar o disposto no regime jurídico das práticas individuais restritivas de comércio relativamente às vendas com prejuízo, aprovado pelo Decreto-Lei n.º 166/2013, de 27 de dezembro.
+
+4 - Exceptuam-se do disposto no número anterior, a venda com redução de preço sob a forma de venda em saldos e as liquidações.
+
+5 - Incumbe ao operador económico a prova documental do preço mais baixo anteriormente praticado e, no caso de serem utilizadas condições mais vantajosas do que as utilizadas nos períodos de vendas sem redução de preço, a prova de que a vantagem é real e concretizável
+
+6 - No caso de produtos agrícolas e alimentares perecíveis ou de produtos que se encontrem a quatro semanas da expiração da sua data de validade, a redução de preço anunciada deve ser real por referência ao preço mais baixo anteriormente praticado durante os últimos 15 dias consecutivos em que o produto esteve à venda ou durante o período total de disponibilização do produto ao público, caso este seja inferior.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 5.º-A — Comparação real
+
+1 - A comparação ao preço de referência tem de ser clara e deve observar o seguinte:
+
+a) Utilização da mesma unidade de medida, não sendo admitido que o preço a praticar na venda com redução de preço seja expresso numa unidade de medida menor do que a unidade com a qual é comparada;
+
+b) Comparação de produtos na mesma condição, sendo proibida, designadamente, a comparação de bens vendidos em embalagem com o valor unitário de cada produto que as integra.
+
+2 - No caso de produtos introduzidos pela primeira vez no mercado, sempre que seja anunciado o preço a praticar após o fim do período de venda com redução de preço, o operador económico deve demonstrar que esse preço é efetivamente praticado por um período razoável nos três meses seguidos à promoção.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28
+
+###### Artigo 6.º — Afixação de preços em estabelecimentos comerciais
+
+Na realização de práticas comerciais abrangidas pelo presente decreto-lei em estabelecimentos comerciais, a afixação de preços obedece, sem prejuízo do disposto no Decreto-Lei n.º 138/90, de 26 de abril, na sua redação atual, aos seguintes requisitos:
+
+a) Os letreiros, etiquetas ou listas devem exibir, de forma bem visível, o novo preço e o preço mais baixo anteriormente praticado, sem prejuízo da indicação adicional e facultativa da percentagem de redução;
+
+b) No caso de se tratar de um conjunto de produtos perfeitamente identificados, pode ser indicada, em substituição do novo preço, a percentagem de redução uniformemente aplicada ou um preço único para o conjunto referido, mantendo nos produtos que o compõem o seu preço inicial;
+
+c) No caso de se tratar do lançamento de um produto não comercializado anteriormente pelo agente económico, deve constar o preço promocional e o preço efectivo a praticar findo o período promocional;
+
+d) No caso de venda de produtos com condições promocionais deve constar especificamente o preço mais baixo anteriormente praticado e o preço promocional, o respetivo período de duração e, caso existam, os encargos inerentes às mesmas, à luz do disposto no Decreto-Lei n.º 133/2009, de 2 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 7.º — Obrigações do comerciante
+
+1 - Quando esgotadas as existências de um produto determinado com indicação da sua espécie e marca, o comerciante é obrigado a anunciar o esgotamento das mesmas e a dar por terminada a respectiva operação de venda com redução de preço.
+
+2 - O comerciante é obrigado a aceitar todos os meios de pagamento habitualmente disponíveis, não podendo efectuar qualquer variação no preço aplicado ao produto em função do meio de pagamento utilizado.
+
+###### Artigo 8.º — Substituição do produto
+
+O comerciante pode, mediante acordo com o consumidor, proceder à substituição do produto adquirido, independentemente do motivo, desde que:
+
+a) O estado de conservação do produto corresponda ao do momento em que o mesmo foi adquirido no estabelecimento pelo consumidor;
+
+b) Seja apresentado o respectivo comprovativo da compra com indicação expressa da possibilidade de efectuar a substituição do produto;
+
+c) Seja efetuada pelo menos nos primeiros cinco dias úteis a contar da data da sua aquisição e sem prejuízo da aplicação do regime jurídico das garantias dos bens de consumo a que se refere o Decreto-Lei n.º 84/2021, de 18 de outubro.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28
+
+###### Artigo 9.º — Produtos com defeito
+
+1 - A venda de produtos com defeito deve ser anunciada de forma inequívoca por meio de letreiros ou rótulos.
+
+2 - Os produtos com defeito devem estar expostos em local previsto para o efeito e destacados da venda dos restantes produtos.
+
+3 - Nos produtos com defeito deve ser colocada uma etiqueta que assinale de forma precisa o respectivo defeito.
+
+4 - A inobservância do disposto nos n.os 2 e 3 implica a obrigatoriedade de troca do produto por outro que preencha a mesma finalidade ou a devolução do respectivo valor, mediante a apresentação do respectivo comprovativo de compra.
+
+###### Artigo 10.º — Venda em saldos
+
+1 - A venda em saldos pode realizar-se em qualquer período do ano, desde que não ultrapasse, no seu conjunto, a duração de 124 dias por ano.
+
+2 - É proibida a venda em saldos de produtos expressamente adquiridos para esse efeito presumindo-se, em tal situação, os produtos adquiridos e recepcionados no estabelecimento comercial pela primeira vez ou no mês anterior ao período de redução.
+
+3 - (Revogado).
+
+4 - Na venda em saldos devem ser cumpridas as disposições constantes dos artigos 4.º a 9.º do presente decreto-lei.
+
+5 - A venda em saldos fica sujeita a uma declaração emitida pelo operador económico dirigida à Autoridade de Segurança Alimentar e Económica (ASAE), com uma antecedência mínima de cinco dias úteis, através do Portal «e.Portugal», da qual deve constar:
+
+a) A identificação e domicílio do comerciante ou da sede da empresa;
+
+b) A morada do estabelecimento e, caso se realizem vendas à distância, o endereço eletrónico da página (URL);
+
+c) Número de identificação fiscal;
+
+d) Indicação da data de início e fim do período de saldos em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 47-A/2007 - Diário da República n.º 101/2007, 1º Suplemento, Série I de 2007-05-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-a-2007-505008), em vigor a partir de 2007-04-25
+
+###### Artigo 11.º — Promoções
+
+1 - As promoções podem ocorrer em qualquer momento considerado oportuno pelo comerciante.
+
+2 - Nas promoções devem ser cumpridas as disposições constantes dos artigos 4.º a 9.º do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+###### Artigo 12.º — Liquidação
+
+1 - A venda de produtos em liquidação ocorre num dos seguintes casos:
+
+a) Venda efectuada em cumprimento de uma decisão judicial;
+
+b) Cessação total ou parcial da actividade comercial;
+
+c) Mudança de ramo;
+
+d) Trespasse ou cessão de exploração do estabelecimento comercial;
+
+e) Realização de obras que inviabilizem a prática comercial no estabelecimento durante o período de execução das mesmas;
+
+f) Danos provocados, no todo ou em parte, nas existências por motivo de força maior.
+
+2 - Na liquidação devem ser cumpridas as disposições constantes dos artigos 4.º a 9.º
+
+###### Artigo 13.º — Declaração da liquidação
+
+1 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo anterior, a venda sob a forma de liquidação fica sujeita a uma declaração emitida pelo operador económico dirigida à ASAE, através do Portal «e.Portugal».
+
+2 - A declaração referida no número anterior é remetida à ASAE até 15 dias úteis antes da data prevista para o início da liquidação, da qual consta:
+
+a) A identificação e domicílio do comerciante ou da sede da empresa;
+
+b) A morada do estabelecimento e, caso se realizem vendas à distância, endereço eletrónico da página (URL);
+
+c) Número de identificação fiscal;
+
+d) Factos que justificam a realização da liquidação;
+
+e) Identificação dos produtos a vender;
+
+f) Indicação da data de início e fim do período da liquidação, que não deve exceder 90 dias.
+
+3 - A liquidação dos produtos deve ter lugar no estabelecimento onde os mesmos são habitualmente comercializados, salvo impossibilidade por motivo de obras, por privação de posse do espaço em causa, ou qualquer outro motivo de ordem prática ou jurídica.
+
+4 - Caso não seja possível processar a liquidação nos termos do número anterior, o comerciante comunica à ASAE as razões que a impeçam.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 14.º — Prazo para nova liquidação
+
+O mesmo comerciante não pode proceder a nova liquidação no mesmo estabelecimento antes de decorrido o prazo de dois anos sobre a realização da anterior, salvo nos casos previstos nas alíneas a) e f) do n.º 1 do artigo 12.º
+
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 15.º — Fiscalização e instrução dos processos
+
+A fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos processos de contra-ordenação são da competência da Autoridade de Segurança Alimentar e Económica.
+
+###### Artigo 16.º — Contra-ordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação ao disposto nos n.os 3 e 4 do artigo 3.º e nos artigos 4.º a 14.º
+
+2 - Na determinação da coima a aplicar pela prática das contraordenações referidas no número anterior, o decisor tem em conta, para além do disposto no RJCE:
+
+a) A natureza, gravidade, dimensão e duração da infração cometida;
+
+b) As medidas eventualmente adotadas pelo infrator para atenuar ou reparar os danos causados aos consumidores;
+
+c) As eventuais infrações cometidas anteriormente pelo infrator em causa;
+
+d) Os benefícios financeiros obtidos ou os prejuízos evitados pelo infrator em virtude da infração cometida, se os dados em causa estiveram disponíveis;
+
+e) Nas situações transfronteiriças, as sanções impostas ao infrator pela mesma infração noutros Estados-Membros, caso a informação sobre essas sanções esteja disponível ao abrigo do mecanismo estabelecido no Regulamento (UE) 2017/2394, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de proteção dos consumidores e que revoga o Regulamento (CE) n.º 2006/2004.
+
+3 - A competência para a aplicação das respetivas coimas cabe ao inspetor-geral da ASAE.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 10/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/10-2023-208124552), em vigor a partir de 2023-04-03
+
+> Alterado pelo/a Artigo 74.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 17.º — Produto das coimas
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 74.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+###### Artigo 17.º-A — Regiões Autónomas
+
+1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais.
+
+2 - O produto resultante da aplicação das coimas pelas Regiões Autónomas constitui receita própria.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666), em vigor a partir de 2019-10-13
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 253/86, de 26 de Agosto, e o artigo 72.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Fernando Pereira Serrasqueiro.
+
+Promulgado em 7 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 8 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,269 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0226:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0226-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1991-04-23",
+   "future": false,
+   "celex": "31991L0226",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "02f8971d409e62fe",
+    "a34c0d789456dde2",
+    "5598f3ca52eb2efa",
+    "a5410ad0b424b5a8",
+    "dc7f28d855e770ad",
+    "e39c547dd8156f2f",
+    "8845b94813c92b5d",
+    "cba6f93a14bfe337",
+    "ceb02b4548fbff86",
+    "5f7ab86668230e13",
+    "7b9d3fef5fb973e9",
+    "1662d172c318e3a0",
+    "7ba2f97c5d393ca0",
+    "aa9c2800cbc7fde1",
+    "dfd5a65e13fc1eb2",
+    "31f6ed6234217716",
+    "eff0c4e004f67fed",
+    "1ff67e495546dfac",
+    "320cc0033763ad0e",
+    "3e1b3958133c791f",
+    "e986dbce62e193f6"
+   ]
+  },
+  {
+   "date": "2010-04-09",
+   "future": false,
+   "celex": "01991L0226-20100409",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o. — Os Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE, conforme",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o. — Os Estados-membros são destinatários da presente",
+    "Suprime ANEXO III: — Definições",
+    "Suprime ANEXO III: — Prescrições relativas à homologação CEE dos dispositivos antiprojecção",
+    "Suprime ANEXO III: — Prescrições relativas à recepção CEE de um tipo de veículo no que se refere à instalação dos sistemas antiprojecção",
+    "Suprime ANEXO IV: — Conformidade da produção",
+    "Suprime ANEXO I",
+    "Suprime Parte do sistema antiprojecção que pode consistir num",
+    "Suprime ANEXO II — PRESCRIÇÕES RELATIVAS À HOMOLOGAÇÃO CEE DOS DISPOSITIVOS ANTIPROJECÇÃO",
+    "Suprime ANEXO III — PRESCRIÇÕES RELATIVAS À RECEPÇÃO CEE DE UM TIPO DE VEÍCULO NO QUE SE REFERE À INSTALAÇÃO DOS SISTEMAS ANTIPROJECÇÃO",
+    "Suprime ANEXO IV — CONFORMIDADE DA PRODUÇÃO CESSAÇÃO DA PRODUÇÃO"
+   ],
+   "fragments": [
+    "f026c881d1118247"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01991L0226-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "3342ef9875001fa9"
+   ]
+  }
+ ],
+ "fragments": {
+  "02f8971d409e62fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/226/CEE do Conselho, de 27 de Março de 1991, relativa à aproximação das legislações dos Estados-Membros respeitantes aos sistemas antiprojecção de determinadas categorias de veículos a motor e seus reboques** *Jornal Oficial nº L 103 de 23/04/1991 p. 0005 - 0028 Edição especial finlandesa: Capítulo 13 Fascículo 20 p. 0071 Edição especial sueca: Capítulo 13 Fascículo 20 p. 0071*\n\nDIRECTIVA DO CONSELHO de 27 de Março de 1991 relativa à aproximação das legislações dos Estados-membros respeitantes aos sistemas antiprojecção de determinadas categorias de veículos a motor e seus reboques (91/226/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o.A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é importante aprovar as medidas destinadas a estabelecer progressivamente o mercado interno ao longo de um período que termina em 31 de Dezembro de 1992; que o mercado interno abrange um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que as prescrições técnicas estabelecidas pelas legislações nacionais para determinadas categorias de veículos a motor e seus reboques dizem respeito, nomeadamente, aos sistemas antiprojecção desses veículos;\n\nConsiderando que essas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, para, nomeadamente, permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE de que trata a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (4), com a última redacção que lhe foi dada pela Directiva 87/403/CEE (5);\n\nConsiderando que, para melhorar a segurança rodoviária, é importante equipar todos os veículos comerciais pesados e com determinada velocidade mínima, de fábrica, com sistemas antiprojecção destinados a reter a água;\n\nConsiderando que é desejável estabelecer um ensaio único do desempenho desses sistemas no momento da sua instalação nos diversos tipos de veículos para permitir concretizar um\n\npasso importante no sentido de melhorar a situação; que para a homologação CEE desses dispositivos antiprojecção, foram tomados em consideração os dois tipos de dispositivos que se encontram actualmente no mercado, ou seja, dispositivos do tipo por absorção de energia e do tipo separador ar/água e que foi necessário prever dois ensaios diferentes, consoante o tipo de dispositivo homologado;\n\nConsiderando que, com base nos estudos, investigação e ensaios em curso se introduzirá, logo que possível, um ensaio do desempenho dos tipos de veículos equipados com estes sistemas;\n\nConsiderando que os Estados-membros deverão ter em conta o facto de que o fenómeno da projecção de água depende também do tipo de piso das estradas, do tipo de esculturas do piso dos pneumáticos e ainda da velocidade e características aerodinâmicas do veículo;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base em prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a34c0d789456dde2": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\n1. Cada Estado-membro procederá à homologação de qualquer tipo de dispositivo, a seguir denominado «dispositivo antiprojecção», destinado a reduzir as projecções de água provocadas pelos pneumáticos dos veículos em movimento, desde que corresponda às prescrições de construção e ensaio previstas no anexo II, tendo em conta as definições dadas no anexo I.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo homologado, se preciso em colaboração com as autoridades competentes dos outros Estados-membros. Para este efeito, os Estados-membros aplicarão as prescrições previstas no anexo IV."
+  },
+  "5598f3ca52eb2efa": {
+   "fragment_id": "Artigo 2o. — Os Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE, conforme",
+   "type": "artigo",
+   "heading": "Artigo 2o. — Os Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE, conforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o. — Os Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE, conforme\n\ncom o modelo estabelecido no apêndice 3 do anexo II, para cada tipo de dispositivo antiprojecção que homologuem por força do artigo 1o.\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre dispositivos antiprojecção cujo tipo tenha sido homologado por força do artigo 1o. e outros dispositivos antiprojecção."
+  },
+  "a5410ad0b424b5a8": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\nOs Estados-membros não podem proibir a colocação no mercado de dispositivos antiprojecção por motivos relacionados com a sua construção e desempenho se estes ostentarem a marca de homologação CEE.\n\nContudo, esta disposição não impede que um Estado-membro tome essas medidas relativamente a dispositivos antiprojecção que ostentem a marca de homologação CEE mas que, de forma sistemática, não estejam conformes com o tipo homologado.\n\nNeste caso, o Estado-membro informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão. É igualmente aplicável o disposto no artigo 5o.\n\nOs dispositivos antiprojecção são considerados não conformes com o tipo homologado, nos termos do segundo parágrafo, se não tiverem sido respeitadas as prescrições do anexo II."
+  },
+  "dc7f28d855e770ad": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nAs autoridades competentes de cada Estado-membro enviarão às autoridades competentes dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação CEE estabelecidas para cada tipo de dispositivo antiprojecção que homologuem ou recusem homologar."
+  },
+  "e39c547dd8156f2f": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\n1. Se as autoridades competentes do Estado-membro que tiver procedido à homologação CEE verificarem que quaisquer dispositivos antiprojecção, acompanhados de um certificado de conformidade com um mesmo tipo, não estão conformes com o tipo que esse Estado homologou, tomarão as medidas necessárias para que seja de novo assegurada a conformidade da produção com o tipo homologado. As autoridades competentes desse Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir, se necessário, até à revogação da homologação CEE.\n\nAs referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ao mutuamente, no prazo de um mês, da revogação de uma homologação CEE, por meio de uma cópia do certificado de homologação, assinada e datada e ostentando em letras grandes as palavras «REVOGADA HOMOLOGAÇÃO CEE», bem como dos motivos que justificam essa medida.\n\n3. Se o Estado-membro que tiver procedido à homologação CEE contestar a falta de conformidade de que foi informado, os Estados-membros interessados tentarão resolver a questão. A Comissão será mantida informada. Se necessário, a Comissão procederá às consultas adequadas para resolver o problema."
+  },
+  "8845b94813c92b5d": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nQualquer decisão de recusa ou revogação de homologação CEE ou de proibição de colocação no mercado ou de utilização, tomada por força das disposições adoptadas em aplicação da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos em que esses recursos podem ser interpostos."
+  },
+  "cba6f93a14bfe337": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\nPara efeitos do disposto na presente directiva, entende-se por «veículo» qualquer veículo a motor da categoria N e qualquer reboque da categoria O, de acordo com as definições dessas categorias constantes do anexo I da Directiva 70/156/CEE."
+  },
+  "ceb02b4548fbff86": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional, nem recusar ou proibir a venda, o registo, a colocação em circulação ou a utilização de veículos por motivos relacionados com os seus sistemas antiprojecção, se estes forem instalados em conformidade com o disposto no anexo III e se os dispositivos antiprojecção com que esses veículos estiverem equipados ostentarem a marca de homologação CEE."
+  },
+  "5f7ab86668230e13": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições constantes dos anexos da presente directiva serão adoptadas pela Comissão em conformidade com\n\no procedimento previsto no artigo 13o. da Directiva\n\n70/156/CEE."
+  },
+  "7b9d3fef5fb973e9": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva\n\nantes de 10 Abril de 1992 e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva.\n\n3. Quando os Estados-membros adoptarem as disposições referidas no no. 1, estas devem incluir uma referência à presente directiva ou fazerem-se acompanhar dessa referência quando forem publicadas oficialmente. Compete aos Estados-membros decretar as modalidades dessa referência."
+  },
+  "1662d172c318e3a0": {
+   "fragment_id": "Artigo 11o. — Os Estados-membros são destinatários da presente",
+   "type": "artigo",
+   "heading": "Artigo 11o. — Os Estados-membros são destinatários da presente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o. — Os Estados-membros são destinatários da presente\n\ndirectiva.\n\nFeito em Bruxelas, em 27 de Março de 1991.\n\nPelo Conselho\n\nO Presidente\n\nR. GOEBBELS\n\nLISTA DOS ANEXOS"
+  },
+  "7ba2f97c5d393ca0": {
+   "fragment_id": "ANEXO III: — Definições",
+   "type": "divisao",
+   "heading": "ANEXO III: — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III: — Definições"
+  },
+  "aa9c2800cbc7fde1": {
+   "fragment_id": "ANEXO III: — Prescrições relativas à homologação CEE dos dispositivos antiprojecção",
+   "type": "divisao",
+   "heading": "ANEXO III: — Prescrições relativas à homologação CEE dos dispositivos antiprojecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III: — Prescrições relativas à homologação CEE dos dispositivos antiprojecção\n\nApêndice 1: Ensaios dos dispositivos antiprojecção do tipo por absorção de energia\n\nApêndice 2:\n\nEnsaios dos dispositivos antiprojecção do tipo separador ar/água\n\nApêndice 3:\n\nModelo de marca de homologação CEE\n\nApêndice 4:\n\nModelo de ficha de homologação CEE"
+  },
+  "dfd5a65e13fc1eb2": {
+   "fragment_id": "ANEXO III: — Prescrições relativas à recepção CEE de um tipo de veículo no que se refere à instalação dos sistemas antiprojecção",
+   "type": "divisao",
+   "heading": "ANEXO III: — Prescrições relativas à recepção CEE de um tipo de veículo no que se refere à instalação dos sistemas antiprojecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III: — Prescrições relativas à recepção CEE de um tipo de veículo no que se refere à instalação dos sistemas antiprojecção\n\nApêndice:\n\nAnexo à ficha de recepção CEE de um modelo de veículo no que respeita à instalação dos sistemas antiprojecção"
+  },
+  "31f6ed6234217716": {
+   "fragment_id": "ANEXO IV: — Conformidade da produção",
+   "type": "divisao",
+   "heading": "ANEXO IV: — Conformidade da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV: — Conformidade da produção\n\nCessação da produção\n\nFIGURAS:\n\n(1 a 9)\n\n(1) JO no. C 203 de 14. 8. 1989, p. 16.(2)\n\nJO no. C 96 de 17. 4. 1990, p. 92 e decisão de 13 de Março de 1991 (ainda não publicada no Jornal Oficial).(3)\n\nJO no. C 62 de 12. 3. 1990, p. 2.(4)\n\nJO no. L 42 de 23. 2. 1970, p. 1.(5)\n\nJO no. L 220 de 8. 8. 1987, p. 44."
+  },
+  "eff0c4e004f67fed": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nDEFINIÇÕES Para efeitos da presente directiva, aplicam-se as seguintes definições:\n\n1. Sistema antiprojecção\n\nSistema destinado a reduzir a pulverização da água projectada para cima pelos pneumáticos do veículo em movimento. O sistema antiprojecção é constituído, conforme o caso, por guarda-lamas, pára-lamas e saias exteriores equipados com um dispositivo antiprojecção.\n\n2. Guarda-lamas\n\nElemento rígido ou semi-rígido destinado a reter a água, lama ou pedras projectadas pelos pneumáticos em movimento e a dirigi-las para o solo. Os guarda-lamas podem, total ou parcialmente, fazer parte integrante da carroçaria ou de outros elementos do veículo como, por exemplo, a parte inferior da superfície de carga, etc.\n\n3. Pára-lamas\n\nElemento flexível fixado verticalmente por detrás da roda, na parte inferior do quadro ou da superfície de carga ou no guarda-lamas.\n\nO pára-lamas serve também para reduzir o risco que representam os pequenos objectos, em especial pedras, levantados do solo pelo pneumático em movimento e projectados para cima ou lateralmente em direcção aos outros utentes da estrada.\n\n4. Dispositivo antiprojecção"
+  },
+  "1ff67e495546dfac": {
+   "fragment_id": "Parte do sistema antiprojecção que pode consistir num",
+   "type": "divisao",
+   "heading": "Parte do sistema antiprojecção que pode consistir num",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte do sistema antiprojecção que pode consistir num\n\n4.1. Separador ar/água\n\nElemento que faz parte da saia exterior e/ou do pára-lamas e que deixa passar o ar, reduzindo ao mesmo tempo as projecções de água pulverizada.\n\n4.2. Absorvedor de energia\n\nElemento que faz parte do guarda-lamas e/ou do pára-lamas e/ou da saia exterior e que absorve a energia das projecções de água, reduzindo assim as projecções de água pulverizada.\n\n5. Saia exterior\n\nElemento situado num plano aproximadamente vertical e paralelo ao plano longitudinal do veículo. A saia exterior pode fazer parte de um guarda-lamas ou da carroçaria do veículo.\n\n6. Rodas direccionais\n\nSão rodas accionadas pelo dispositivo de direcção do veículo.\n\n7. Eixo auto-estabilizante\n\nÉ um eixo que gira em torno de um ponto central, de modo a poder descrever um arco horizontal. Para efeitos do disposto na presente directiva, um eixo auto-estabilizante do tipo «pivotante» é considerado um eixo equipado de rodas direccionais e tratado como tal.\n\n8. Rodas autodireccionais\n\nRodas não accionadas pelo dispositivo de direcção do veículo que podem mudar de direcção com ângulo não superior a 20o devido ao atrito exercido pelo solo.\n\n9. Eixo elevável\n\nEixo que pode ser levantado da estrada durante a utilização normal do veículo.\n\n10. Veículo sem carga\n\nVeículo com carroçaria ou com um ou mais elementos representativos e, se for caso disso, com líquido de arrefecimento, lubrificantes, combustível, ferramentas, roda sobressalente e condutor com uma massa avaliada em 75 quilogramas.\n\n11. Piso do pneumático\n\nÉ a parte do pneumático que se encontra em contacto com a estrada e que serve para assegurar a aderência.\n\n12. Tipo de dispositivo antiprojecção\n\nConjunto dos dispositivos que não diferem entre si no que se refere às seguintes características principais:\n\n- princípio físico adoptado para reduzir as projecções (absorção de energia da água, separação ar/água),\n\n- materiais,\n\n- forma e\n\n- dimensões (na medida em que possam influenciar o comportamento do material)."
+  },
+  "320cc0033763ad0e": {
+   "fragment_id": "ANEXO II — PRESCRIÇÕES RELATIVAS À HOMOLOGAÇÃO CEE DOS DISPOSITIVOS ANTIPROJECÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — PRESCRIÇÕES RELATIVAS À HOMOLOGAÇÃO CEE DOS DISPOSITIVOS ANTIPROJECÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PRESCRIÇÕES RELATIVAS À HOMOLOGAÇÃO CEE DOS DISPOSITIVOS ANTIPROJECÇÃO\n\n0.\n\nEspecificações gerais\n\n0.1.\n\nOs dispositivos antiprojecção devem ser construídos de modo a funcionarem correctamente aquando de uma utilização normal em estradas molhadas. Além disso, não devem ter vícios de construção ou defeitos de fabrico que prejudiquem o seu bom funcionamento.\n\n1.\n\nEnsaios a efectuar\n\n1.1.\n\nOs dispositivos antiprojecção, consoante o seu princípio físico de funcionamento, serão submetidos aos ensaios pertinentes descritos nos apêndices 1 e 2, e devem respeitar os resultados exigidos indicados no ponto 4 dos referidos apêndices.\n\n2.\n\nPedido de homologação CEE\n\n2.1.\n\nO pedido de homologação CEE de um tipo de dispositivo antiprojecção deve ser apresentado pelo fabricante ou pelo seu mandatário.\n\n2.2.\n\nPara cada tipo de dispositivo, o pedido será acompanhado dos seguintes documentos em triplicado, bem como das informações e materiais a seguir especificados:\n\n2.2.1.\n\nUma descrição técnica do dispositivo antiprojecção que indique o seu princípio físico de funcionamento e o ensaio a que deve ser submetido, os materiais utilizados, bem como um ou vários desenhos suficientemente pormenorizados e a uma escala adequada para permitir a identificação.\n\n2.2.2.\n\nQuatro amostras: três amostras para os ensaios e uma quarta a conservar pelo laboratório para quaisquer verificações posteriores. O laboratório pode exigir mais amostras.\n\n2.3.\n\nInscrições\n\nAs amostras devem ostentar de forma indelével e legível a marca de fabrico ou denominação comercial e a indicação do tipo e ter uma zona de dimensão suficiente para a marca de homologação CEE.\n\n3.\n\nHomologação CEE\n\n3.0.\n\nAntes de proceder às operações para concessão da homologação CEE, a autoridade competente deve verificar se o fabricante está sujeito a sistemas eficazes de controlo da conformidade da produção.\n\n3.1.\n\nA homologação CEE é concedida a um tipo de dispositivo antiprojecção se as amostras representativas do tipo de dispositivo a homologar satisfizerem os ensaios pertinentes descritos nos apêndices\n\n1 ou 2.\n\n3.2.\n\nÉ atribuído um número de homologação a qualquer tipo de dispositivo antiprojecção homologado CEE.\n\n3.3.\n\nQualquer dispositivo antiprojecção conforme com um tipo homologado em aplicação da presente directiva deve ostentar uma marca de homologação CEE. A marca de homologação deve ser aposta no dispositivo de modo a que seja indelével e nitidamente legível mesmo quando o dispositivo estiver montado no veículo.\n\n3.4.\n\nA marca de homologação CEE, cujo modelo é indicado no apêndice 3, é composta por:\n\n3.4.1.\n\nUm rectângulo dentro do qual está colocada a letra «e» seguida do número ou do grupo de letras distintivo do Estado-membro que concedeu a homologação CEE: 1 para a Alemanha, 2 para a França, 3 para a Itália, 4 para os Países Baixos, 6 para a Bélgica, 9 para a Espanha, 11 para o Reino Unido, 13 para o Luxemburgo, 18 para a Dinamarca, 21 para Portugal, EL para a Grécia e IRL para a Irlanda;\n\n3.4.2.\n\nO número de homologação CEE (correspondente ao número indicado na ficha de homologação cujo modelo figura no apêndice 4) colocado na proximidade do rectângulo, quer por baixo da letra «e», quer à esquerda ou à direita desta mesma letra. Os algarismos do número de homologação são colocados do mesmo lado da letra «e» e no mesmo sentido. É necessário evitar a utilização de algarismos romanos nos números de homologação, a fim de evitar quaisquer confusões com outros símbolos;\n\n3.4.3.\n\nA letra «A» ou «S», conforme o dispositivo for do tipo por absorção de energia (A) ou do tipo separador ar/água (S), colocada em qualquer posição por cima e perto do rectângulo.\n\nApêndice 1 Ensaios dos dispositivos antiprojecção do tipo por absorção de energia\n\n1.\n\nPrincípio\n\nO objectivo deste ensaio é quantificar a capacidade de um dispositivo para reter a água dirigida contra si por uma série de jactos. O aparelho de ensaio destina-se a reproduzir as condições em que o dispositivo vai funcionar quando montado no veículo, no que diz respeito ao volume e velocidade da água levantada do solo pelo piso do pneumático.\n\n2.\n\nEquipamento\n\nO aparelho de ensaio está representado na figura 8. Os ensaios devem ser realizados em ambiente sem correntes de ar.\n\n3.\n\nProcedimento\n\n3.1.\n\nFixar uma amostra de 500 (+0/-5) milímetros de largura e 750 milímetros de altura do material a ensaiar, na estrutura vertical do equipamento de ensaio, certificando-se de que a amostra fica bem dentro dos limites do colector e de que nenhum obstáculo possa deflectir a água, quer antes quer depois do seu impacte.\n\n3.2.\n\nRegular o caudal de água para 0,675 (± 0,01) l/s e dirigir pelo menos 90 l para a amostra a partir de uma distância horizontal de 500 (± 2) milímetros (figura 8).\n\n3.3.\n\nDeixar a águar escorrer da amostra para o colector e calcular a diferença (em percentagem) entre a quantidade de água recolhida e a quantidade de água projectada.\n\n3.4.\n\nRepetir o ensaio cinco vezes e calcular a percentagem média da quantidade de água recolhida.\n\n4.\n\nResultados\n\n4.1.\n\nA média da percentagem de água recolhida calculada no final de cinco ensaios não deve ser inferior a 70 % do volume de água projectado sobre o dispositivo.\n\n4.2.\n\nSe as percentagens mais elevada e mais baixa de água recolhida variarem em relação à percentagem média mais do que 5 %, o ensaio não será válido e terá de ser repetido.\n\nSe no segundo ensaio voltar a acontecer o mesmo e se o valor inferior não satisfizer as prescrições do ponto 4.1, será recusada a homologação.\n\n4.3.\n\nSe a posição vertical do dispositivo influenciar os resultados obtidos, o procedimento descrito nos pontos 3.1 e 3.4 deve ser repetido nas posições que dão lugar à maior e à menor percentagem de água recolhida; continuam a ser aplicáveis as prescrições do ponto 4.2.\n\nA prescrição do ponto 4.1 contunua a ser aplicável para indicar os resultados de cada ensaio.\n\nApêndice 2 Ensaios dos dispositivos antiprojecção do tipo separador ar/água\n\n1.\n\nPrincípio\n\nO objectivo deste ensaio é determinar a eficácia de um material poroso destinado a reter a água com que foi aspergido mediante um pulverizador de pressão ar/água.\n\nO equipamento utilizado para o ensaio deve reproduzir as condições às quais seria submetido o material, quanto ao volume e à velocidade das projecções de água produzidas pelos pneumáticos, se estivesse fixado num veículo.\n\n2.\n\nEquipamento\n\n2.1.\n\nO aparelho de ensaio encontra-se representado na figura 9.\n\n3.\n\nProcedimento\n\n3.1.\n\nFixar verticalmente uma amostra de 305×100 milímetros no equipamento de ensaio; assegurar-se de que não existe espaço vazio entre a amostra e a placa superior curva e de que o tabuleiro se encontra no seu lugar. Encher o reservatório do pulverizador exactamente com um litro de água e colocá-lo tal como indicado no diagrama.\n\n3.2.\n\nO pulverizador deve ser regulado do seguinte modo:\n\npressão (pressão no pulverizador): 5 bar + 10 %/-0 %,\n\ncaudal: 1 litro/minuto ± 5 segundos,\n\npulverização: circular, com cerca de 50 milímetros de diâmetro a 200 milímetros da amostra, agulha de 5 milímetros de diâmetro.\n\n3.3\n\nPulverizar até que não haja mais nebulização de água e tomar nota do tempo decorrido. Deixar a água escorrer da amostra para o tabuleiro durante sessenta segundos e medir o volume de água recolhida. Medir a quantidade de água que reste eventualmente no reservatório do pulverizador. Calcular a percentagem do volume de água recolhida em relação ao volume de água pulverizada.\n\n3.4.\n\nRepetir o ensaio cinco vezes e calcular a percentagem média da quantidade de água recolhida. Antes de cada ensaio, assegurar-se de que o tabuleiro, o reservatório do pulverizador e o recipiente de medida estão secos.\n\n3.5.\n\nDurante o ensaio, a temperatura ambiente deve ser de 21o (+/-3o) C.\n\n4.\n\nResultados\n\n4.1.\n\nA média da percentagem de água recolhida calculada no final de cinco ensaios não deve ser inferior a 85 % do volume de água projectado sobre o dispositivo.\n\n4.2.\n\nSe as percentagens mais elevada e mais baixa de água recolhida variarem em relação à percentagem média mais do que 5 %, o ensaio não será válido e terá de ser repetido.\n\nSe no segundo ensaio voltar a acontecer o mesmo e se o valor inferior não satisfizer as prescrições do ponto 4.1, será recusada a homologação.\n\n4.3.\n\nSe a posição vertical do dispositivo influenciar os resultados obtidos, o procedimento descrito nos pontos 3.1 e 3.4 deve ser repetido nas posições que dão lugar à maior e à menor percentagem de água recolhida; continuam a ser aplicáveis as prescrições do ponto 4.2.\n\nA prescrição do ponto 4.1 continua a ser aplicável para indicar os resultados de cada ensaio.\n\nApêndice 3 Modelo de marca de homologação CEE Apêndice 4 MODELO DE FICHA DE HOMOLOGAÇÃO CEE [Formato máximo: A4 (210 × 297 mm)] e...\n\nDenominação da autoridade\n\nadministrativa\n\nComunicação relativa à homologação CEE, à recusa, à revogação ou à extensão da homologação CEE de um tipo de dispositivo antiprojecção\n\nNúmero de homologação CEE:..........................Número de extensão:.\n\n1. Marca de fabrico ou denominação comercial do dispositivo:.\n\n2. Tipo e denominação comercial do dispositivo:.\n\n.\n\n3. Princípio de funcionamento do dispositivo: por absorção de energia/separador ar/água (*):.\n\n4. Nome e endereço do fabricante:.\n\n5. Nome e endereço do seu eventual mandatário:.\n\n.\n\n.\n\n6. Características dos dispositivos antiprojecção [descrição sumária, marca de fabrico ou denominação, número(s)]:.\n\n.\n\n.\n\n.\n\n7. Data em que o dispositivo foi apresentado para homologação CEE:.\n\n8. Serviço técnico encarregado dos ensaios de homologação CEE:.\n\n.\n\n9. Data e número do relatório emitido por esse serviço técnico:.\n\n.\n\n10. Data da homologação CEE/recusa/revogação/extensão da homologação CEE (*):.\n\n.\n\n11. Razão(ões) para a eventual extensão da homologação CEE:.\n\n.\n\n12. Local:.\n\n13. Data:.\n\n14. Assinatura:.\n\n15. Vão apensos os documentos que constituem a ficha de homologação e a sua lista, arquivados pela autoridade competente que concedeu a homologação; a pedido, podem ser obtidas cópias de toda ou de parte desta documentação.\n\n16. Observações eventuais:.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n(*) Riscar o que não interessa."
+  },
+  "3e1b3958133c791f": {
+   "fragment_id": "ANEXO III — PRESCRIÇÕES RELATIVAS À RECEPÇÃO CEE DE UM TIPO DE VEÍCULO NO QUE SE REFERE À INSTALAÇÃO DOS SISTEMAS ANTIPROJECÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — PRESCRIÇÕES RELATIVAS À RECEPÇÃO CEE DE UM TIPO DE VEÍCULO NO QUE SE REFERE À INSTALAÇÃO DOS SISTEMAS ANTIPROJECÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PRESCRIÇÕES RELATIVAS À RECEPÇÃO CEE DE UM TIPO DE VEÍCULO NO QUE SE REFERE À INSTALAÇÃO DOS SISTEMAS ANTIPROJECÇÃO\n\nÂMBITO DE APLICAÇÃO\n\n0.1.\n\nQualquer veículo da categoria N2 cuja massa máxima exceda 7,5 toneladas e das categorias N3, 03 e 04 deve ser construído e/ou equipado com sistemas antiprojecção de modo a satisfazer as prescrições a seguir indicadas.\n\n0.2.\n\nAs exigências acima contidas relativas aos dispositivos antiprojecção definidos no ponto 4 do anexo I não são obrigtórias para os veículos quadro-cabina, para os veículos sem carroçaria, para os veículos «fora de estrada» tal como definidos na Directiva 70/156/CEE, nem para os veículos em que a presença de dispositivos antiprojecção é incompatível com a sua utilização. Todavia, estes dispositivos quando montados nestes veículos deverão satisfazer as prescrições da presente directiva.\n\nPEDIDO DE RECEPÇÃO CEE\n\n1.1.\n\nO pedido de recepção CEE de um modelo de veículo, no que diz respeito à instalação do seu sistema antiprojecção, deve ser apresentado pelo fabricante do veículo ou pelo seu mandatário.\n\n1.2.\n\nDeve ser acompanhado dos seguintes documentos, em triplicado, e das informações a seguir indicadas:\n\n1.2.1.\n\nDescrição técnica do sistema antiprojecção e um ou mais desenhos numa escala apropriada suficientemente pormenorizados para permitir a identificação.\n\n1.3.\n\nDeve ser apresentado ao serviço técnico encarregado dos ensaios de recepção um veículo representativo do modelo de veículo a recepcionar, equipado do seu sistema antiprojecção.\n\nRECEPÇÃO CEE\n\n2.\n\nÀ ficha de recepção CEE será anexada uma ficha, em conformidade com o modelo que consta do apêndice.\n\nPRESCRIÇÕES GERAIS\n\n3.\n\nEixos\n\n3.1.\n\nEixos eleváveis\n\nSe um veículo estiver equipado com um ou vários eixos que possam ser levantados, o sistema antiprojecção deve cobrir todas as rodas quando o eixo estiver em baixo e as rodas em contacto com a estrada quando o eixo estiver levantado.\n\n3.2.\n\nEixos auto-estabilizantes\n\nSe um veículo estiver equipado com um eixo auto-estabilizante, o sistema antiprojecção deve satisfazer as condições aplicáveis aos eixos equipados com rodas não direccionais se estiver montado na parte pivotante. Se não estiver nessa parte, deve satisfazer as condições aplicáveis aos eixos equipados com rodas direccionais.\n\n4.\n\nPosição da saia exterior\n\n4.1.\n\nNo caso de rodas não direccionais, a distância «c» entre o plano longitudinal tangente ao flanco externo do pneumático excluindo qualquer dilatação do pneumático junto do solo e a aresta interna da saia não deve exceder 75 milímetros, a não ser que o raio da aresta interna da saia tal como definido nos pontos 7.2, 8.2 e 9.2 não seja superior a 1,0 R, caso em que não deve exceder 100 milímetros (figura 1).\n\n4.2.\n\nNo caso de rodas direccionais e autodireccionais, a distância «c» não deve exceder 100 milímetros.\n\n5.\n\nEstado do veículo\n\nPara verificação das disposições da presente directiva, o veículo deve encontrar-se nas seguintes condições:\n\na) Deve estar sem carga e com as rodas na posição direita;\n\nb)\n\nNo caso dos semi-reboques, as superfícies de carga devem estar horizontais;\n\nc)\n\nOs pneumáticos devem estar cheios à sua pressão normal.\n\n6.\n\nSistema antiprojecção\n\n6.1.\n\nOs sistemas antiprojecção devem satisfazer as especificações que constam dos pontos 7 ou 9.\n\n6.2.\n\nOs sistemas antiprojecção das rodas não direccionais ou autodireccionais, covertos pela base da carroçaria ou pela parte inferior da superfície de carga, devem satisfazer quer as especificações que constam dos pontos 7 ou 9, quer as especificações que constam do ponto 8.\n\nPRESCRIÇÕES ESPECIAIS\n\n7.\n\nPrescrições relativas aos sistemas antiprojecção por absorção de energia para eixos equipados com rodas direccionais ou autodireccionais ou não direccionais\n\n7.1.\n\nGuarda-lamas\n\n7.1.1.\n\nOs guarda-lamas devem cobrir a zona imediatamente acima, à frente e atrás do pneumático ou pneumáticos bem como estes últimos, da seguinte maneira:\n\na) No caso de um eixo único ou de eixos múltiplos, em que a distância «d» (figura 4) entre os pneumáticos montados em eixos adjacentes exceda 300 milímetros, a aresta anterior C (figura 2) deve prolongar-se para a frente até atingir uma linha O-Z que faça um ângulo th com a horizontal, no máximo igual a 30o, para eixos equipados com rodas direccionais, ou a 20o, para eixos equipados com rodas não direccionais.\n\nA aresta posterior (figura 2) deve prolongar-se para baixo, de modo a não ficar mais do que 100 milímetros acima de uma linha horizontal que passa pelo centro da roda.\n\nb)\n\nNo caso de eixos múltiplos em que a distância «d» entre os pneumáticos montados em eixos adjacentes não exceda 300 milímetros, o guarda-lamas deve ser conforme o indicado na figura 4a).\n\nc)\n\nO guarda-lamas deve ter uma largura total «q» (figura 1) pelo menos suficiente para cobrir toda a largura do pneumático «b» ou toda a largura dos dois pneumáticos «t» no caso de rodas duplas, tendo em conta os extremos do conjunto pneumático/roda especificados pelo fabricante. As dimensões «b» e «t» devem ser medidas à altura do cubo, excluindo quaisquer marcas, nervuras, bandas de protecção, etc., existentes no flanco dos pneumáticos.\n\n7.1.2.\n\nO lado frontal da parte traseira do guarda-lamas deve estar equipado com um dispositivo antiprojecção conforme com as especificações do apêndice 1 do anexo II. Esse dispositivo deve cobrir o interior do guarda-lamas até uma altura determinada por uma linha recta que parte do centro da roda e forma um ângulo de pelo menos 30o com a horizontal (figura 3).\n\n7.1.3.\n\nSe os guarda-lamas forem constituídos por vários elementos, estes, quando montados, não devem apresentar nenhuma abertura que permita a passagem de projecções quando o veículo se encontre em movimento.\n\n7.2.\n\nSaias exteriores\n\n7.2.1.\n\nNo caso de eixos únicos, ou de eixos múltiplos em que a distância «d» entre os pneumáticos de eixos adjacentes exceda 300 milímetros, a aresta inferior da saia exterior não deve estar situada para além das seguintes distâncias e raios, medidos a partir do centro da roda (figura 2).\n\nRv 9 1,5 R;\n\na) Eixos equipados com rodas direccionais ou autodireccionais:\n\nA partir da aresta anterior (para a parte da frente do veículo)\n\n(ponto C a 30o)\n\naté à aresta posterior (para a retaguarda do veículo)\n\n(ponto A a 100 milímetros)\n\naa\n\nRv 9 1,5 R;\n\nb)\n\nEixos equipados com rodas não direccionais:\n\nA partir da aresta anterior (ponto C a 20o)\n\naté à aresta posterior (ponto A a 100 milímetros)\n\naa\n\nRv 9 1,25 R.\n\nem que R é o raio do pneumático montado no veículo e Rv a distância radial a que se situa a aresta inferior da saia exterior.\n\n7.2.2.\n\nNo caso de eixos múltiplos em que a distância «d» entre os pneumáticos adjacentes não exceda 300 milímetros, as saias exteriores localizadas nos espaços interaxiais devem estar colocadas às distâncias estabelecidas no ponto 7.2.1 e devem prolongar-se para baixo de modo a não ficarem mais do que 150 milímetros acima de uma linha horizontal que passa pelo centro das rodas, ou de modo a que a distância horizontal entre as suas extremidades inferiores não exceda 60 milímetros [figura 4a)].\n\n7.2.3.\n\nA altura da saia exterior atrás de uma linha vertical que passa pelo centro da roda não deve ser inferior a 45 milímetros. A altura das saias pode ser gradualmente reduzida à frente dessa linha.\n\n7.2.4.\n\nNas saias exteriores ou entre as saias exteriores e as outras partes do guarda-lamas não deve existir nenhuma abertura que permita a passagem de projecções quando o veículo se encontre em movimento.\n\n7.3.\n\nPára-lamas\n\n7.3.1.\n\nA largura do pára-lamas deve satisfazer a condição relativa à dimensão «q» estabelecida na alínea c) do ponto 7.1.1, excepto quando o pára-lamas estiver dentro do guarda-lamas, caso em que deve ser pelo menos igual à largura do piso do pneumático.\n\n7.3.2.\n\nO pára-lamas deve estar situado num plano aproximadamente vertical.\n\n7.3.3.\n\nA altura máxima da aresta inferior não deve exceder 200 milímetros (figura 3).\n\nEsta distância é aumentada para 300 milímetros para o eixo mais recuado sempre que a distância radial da aresta inferior da saia exterior Rv, não ultrapassar as dimensões do raio dos pneumáticos montados nas rodas desse eixo.\n\n7.3.4.\n\nO pára-lamas não deve estar a mais de 300 milímetros da aresta posterior extrema do pneumático, medidos horizontalmente.\n\n7.3.5.\n\nNo caso de eixos múltiplos em que a distância «d» entre os pneumáticos de eixos adjacentes seja inferior a 250 milímetros, apenas o trem de rodas traseiro deve ser equipado com pára-lamas. Deve haver um pára-lamas atrás de cada roda quando a distância «d» entre os pneumáticos de eixos adjacentes for superior ou igual a 250 milímetros [figura 4b].\n\n7.3.6.\n\nOs pára-lamas não devem inflectir mais do que 100 milímetros para trás quando submetidos a uma força de 3 N por 100 milímetros de largura do pára-lamas, aplicada a uma distância de 50 milímetros acima da aresta inferior do pára-lamas.\n\n7.3.7.\n\nToda a superfície frontal da parte do pára-lamas que satisfaça as dimensões mínimas exigidas deve ser dotada de um dispositivo antiprojecção em conformidade com as especificações que constam do anexo II, apêndice A.\n\n7.3.8.\n\nEntre a aresta inferior traseira do guarda-lamas e o pára-lamas não deve existir nenhuma abertura que permita a passagem de projecções.\n\n7.3.9.\n\nSe o dispositivo antiprojecção satisfizer as especificações relativas aos pára-lamas (ponto 7.3), não é necessário um pára-lamas adicional.\n\n8.\n\nPrescrições aplicáveis aos sistemas antiprojecção munidos de dispositivos antiprojecção por absorção de energia para os eixos equipados com rodas não direccionais ou autodireccionais (ver ponto 6.2)\n\n8.1.\n\nGuarda-lamas\n\n8.1.1.\n\nOs guarda-lamas devem cobrir a zona imediatamente superior dos pneumáticos. As extremidades dianteira e traseira devem prolongar-se pelo menos até ao plano horizontal tangente à aresta superior dos pneumáticos (figura 5). No entanto, a extremidade traseira pode ser substituída pelo pára-lamas; neste caso, este último deve prolongar-se até a parte superior do guarda-lamas (ou do elemento equivalente).\n\n8.1.2.\n\nToda a parte interna traseira do guarda-lamas deve ser instalada com um dispositivo antiprojecção conforme com as prescrições do apêndice 1 do anexo II.\n\n8.2.\n\nSaias exteriores\n\n8.2.1.\n\nNo caso de eixos únicos ou de eixos múltiplos em que a distância entre os pneumáticos adjacentes seja superior ou igual a 250 mm, a saia exterior deve cobrir a superfície limitada horizontalmente pela parte baixa da parte superior do guarda-lamas e por uma recta tangente ao bordo superior dos pneumáticos e verticalmente pela tangente à parte da frente do ou dos pneumáticos e do guarda-lamas ou do pára-lamas situado por detrás das rodas (figura 5b).\n\nNo caso de eixos múltiplos, deve ser colocada uma saia exterior em cada roda.\n\n8.2.2.\n\nEntre a saia exterior e a parte inferior do guarda-lamas não deve existir nenhuma abertura que permita a passagem de projecções.\n\n8.2.3.\n\nQuando os pára-lamas não estiverem instalados por detrás de cada roda (ver ponto 7.3.5), a saia exterior deve cobrir ininterruptamente a distância desde a aresta exterior do pára-lamas até ao plano vertical tangente ao pneumático do primeiro eixo no seu ponto mais avançado [figura 5a)].\n\n8.2.4.\n\nToda a superfície interna da saia exterior, cuja altura não deve ser inferior a 100 milímetros, deve estar equipada com um dispositivo antiprojecção por absorção de energia conforme com as prescrições do anexo II.\n\n8.3.\n\nPára-lamas\n\nOs pára-lamas devem prolongar-se até à parte inferior do guarda-lamas e estar conformes com as prescrições dos pontos 7.3.1 a 7.3.9.\n\n9.\n\nPrescrições aplicáveis aos sistemas antiprojecção munidos de dispositivos antiprojecção separadores ar/água para os eixos com rodas direccionais ou autodireccionais ou não direccionais\n\n9.1.\n\nGuarda-lamas\n\n9.1.1.\n\nOs guarda-lamas devem estar conformes com as prescrições da alínea c) do ponto 7.1.1.\n\n9.1.2.\n\nOs guarda-lamas para eixos únicos ou eixos múltiplos em que a distância entre os pneumáticos de eixos adjacentes exceda 300 milímetros devem também estar conformes com as prescrições da alínea a) do ponto 7.1.1.\n\n9.1.3.\n\nNo caso de eixos múltiplos em que a distância entre os pneumáticos de eixos adjacentes não exceda 300 milímetros, os guarda-lamas devem igualmente estar conformes com o modelo apresentado na figura 7.\n\n9.2.\n\nSaias exteriores\n\n8.2.1.\n\nAs arestas inferiores das saias exteriores devem ser dotadas de dispositivos antiprojecção separadores ar/água conformes com as prescrições do anexo II.\n\n9.2.2.\n\nNo caso de eixos únicos ou de eixos múltiplos em que a distância entre os pneumáticos de eixos adjacentes exceda 300 milímetros, a aresta inferior do dispositivo antiprojecção montado na saia exterior deve ter as seguintes dimensões e raios máximos, a contar do centro da roda (figuras 6 e 7):\n\nRv 9 1,05 R;\n\na) Eixos equipados com rodas direccionais ou autodireccionais:\n\ndesde a aresta anterior (para a parte da frente do veículo)\n\n(ponto C a 30o)\n\naté à aresta posterior (para a retaguarda do veículo) (ponto A a 100 mm)\n\naa\n\nRv 9 1,05 R;\n\nb)\n\nEixos equipados com rodas não direccionais:\n\ndesde a aresta anterior (ponto C a 20o)\n\naté à aresta posterior (ponto A a 100 mm)\n\naa\n\nRv 9 1,00 R\n\nem que R é o raio do pneumático montado no veículo, e Rv a distância radial da extremidade inferior da saia exterior ao centro da roda.\n\n9.2.3.\n\nNo caso de eixos múltiplos em que a distância entre os pneumáticos de eixos adjacentes não exceda 300 milímetros, as saias exteriores localizadas nos espaços interaxiais devem seguir o percurso especificado no ponto 9.1.3 e devem prolongar-se para baixo de modo a não ficarem mais de 100 milímetros acima de uma recta horizontal que passa pelos centros das rodas (ver figura 7).\n\n9.2.4.\n\nA altura da saia exterior atrás de uma linha vertical que passa pelo centro da roda não deve ser inferior a 45 mm. Essa altura pode ser gradualmente reduzida à frente desta linha.\n\n9.2.5.\n\nNas saias exteriores ou entre as saias exteriores e os guarda-lamas não deve existir qualquer abertura que permita a passagem de projecções.\n\n9.3.\n\nPára-lamas\n\n9.3.1.\n\nOs pára-lamas devem ser:\n\na) Conformes com o ponto 7.3 (figura 3) ou\n\nb)\n\nConformes com os pontos 7.3.1, 7.3.2, 7.3.5, 7.3.8 e 9.3.2 (figura 6).\n\n9.3.2.\n\nNos pára-lamas referidos na alínea b) do ponto 9.3.1, devem ser montados dispositivos antiprojecção que satisfaçam as especificações do anexo II, apêndice 2, pelo menos ao longo de toda a aresta.\n\n9.3.2.1.\n\nA aresta inferior do dispositivo antiprojecção não deve estar a mais de 200 milímetros.\n\n9.3.2.2.\n\nO dispositivo antiprojecção deve ter uma altura de, pelo menos, 100 milímetros.\n\n9.3.2.3.\n\nO pára-lamas referido na alínea b) do ponto 9.3.1, com exclusão da parte inferior que inclui o dispositivo antiprojecção, não deve inflectir mais do que 100 mm para trás quando submetido a uma força de 3 N por cada 100 milímetros de largura do pára-lamas, medida na intersecção do pára-lamas com o dispositivo antiprojecção na sua posição de funcionamento, aplicada a uma distância de 50 milímetros acima da aresta inferior do pára-lamas.\n\n9.3.3.\n\nO pára-lamas não deve estar a mais de 200 milímetros da aresta posterior extrema do pneumático, medidos horizontalmente.\n\nApêndice MODELO (Formato máximo: A4 (210 mm × 297 mm) ANEXO À FICHA DE RECEPÇÃO CEE DE UM MODELO DE VEÍCULO NO QUE RESPEITA À INSTALAÇÃO DOS SISTEMAS ANTIPROJECÇÃO (No.2 do artigo 4o.e artigo 10o.da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques) e...\n\nDenominação da\n\nautoridade administrativa\n\nNúmero de homologação CEE:..........................Número de extensão:.\n\n1.\n\nMarca de fabrico ou comercial do veículo:.\n\n2.\n\nModelo e designação comercial do veículo:.\n\n.\n\n3.\n\nMeios de identificação do modelo, se indicado no veículo:.\n\n3.1.\n\nLocalização da marcação:.\n\n4.\n\nCategoria do veículo:.\n\n5.\n\nNome e endereço do fabricante:.\n\n.\n\n6.\n\nNome e endereço do seu eventual mandatário:.\n\n.\n\n7.\n\nCaracterísticas dos sistemas antiprojecção (descrição resumida, marca de fabrico ou comercial e números da homologação dos dispositivos antiprojecção utilizados):.\n\n.\n\n.\n\n8.\n\nData em que o veículo foi apresentado para recepção CEE:.\n\n9.\n\nServiço técnico encarregado dos ensaios de recepção CEE:.\n\n.\n\n10.\n\nData do relatório emitido por esse serviço:.\n\n11.\n\nNúmero do relatório emitido por esse serviço:.\n\n12.\n\nRazão(ões) para a eventual extensão da homologação CEE:.\n\n.\n\n13.\n\nA recepção CEE no que respeita à instalação dos sistemas antiprojecção é concedida/recusada (¹)\n\n14.\n\nLocal:.\n\n15.\n\nData:.\n\n16.\n\nAssinatura:.\n\n17.\n\nVão apensos os documentos que constituem a ficha de recepção e a sua lista, arquivados pela autoridade competente que concedeu a recepção; a pedido podem ser obtidas cópias de toda ou de parte desta documentação.\n\n18.\n\nObservações eventuais:.\n\n.\n\n.\n\n.\n\n.\n\n(¹) Riscar o que não interessa."
+  },
+  "e986dbce62e193f6": {
+   "fragment_id": "ANEXO IV — CONFORMIDADE DA PRODUÇÃO CESSAÇÃO DA PRODUÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO IV — CONFORMIDADE DA PRODUÇÃO CESSAÇÃO DA PRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CONFORMIDADE DA PRODUÇÃO CESSAÇÃO DA PRODUÇÃO\n\n1.\n\nConformidade da produção\n\n1.1.\n\nQualquer dispositivo antiprojecção que ostente a marca de homologação CEE deve estar em conformidade com o tipo homologado. A autoridade que concede a marca CEE deve manter uma amostra que, juntamente com a ficha de homologação CEE, pode ser utilizada para verificar se os dispositivos comercializados que ostentam a marca de homologação CEE satisfazem as condições exigidas.\n\n1.2.\n\nUm tipo de dispositivo será definido pelo modelo e documentos descritivos apresentados com o pedido de homologação CEE. Podem ser considerados pertencentes ao mesmo tipo os dispositivos com características idênticas às da amostra do dispositivo e cujos outros componentes não difiram dos da amostra senão por variantes que não afectem as propriedades referidas no presente anexo.\n\n1.3.\n\nO fabricante executará controlos de rotina para garantir a conformidade da produção com o tipo homologado.\n\nPara este fim, o fabricante deve:\n\n- quer dispor de um laboratório equipado que lhe permita executar os ensaios essenciais,\n\n- quer mandar executar os ensaios de conformidade da produção por um laboratório autorizado.\n\nOs resultados dos controlos de conformidade da produção devem ser mantidos à disposição das autoridades competentes durante, pelo menos, um ano.\n\n1.4.\n\nA autoridade competente pode, além disso, proceder a controlos por amostragem.\n\n1.5.\n\nA conformidade da produção com o tipo de dispositivo homologado deve ser verificada nas condições e de acordo com os métodos estabelecidos no anexo II.\n\nOs fabricantes devem colocar à disposição das autoridades que concederam a homologação, a pedido dessas autoridades, dispositivos do tipo previamente homologado, para que possam ser realizados ensaios ou controlos de conformidade.\n\n1.6.\n\nHá conformidade de produção se, em dez amostras escolhidas aleatoriamente, nove estiverem conformes com as prescrições que figuram no ponto 4 dos apêndices 1 e 2 do anexo II.\n\n1.7.\n\nSe a condição estabelecida no ponto 1.6 não for cumprida, deve examinar-se uma nova amostra de dez unidades seleccionadas aleatoriamente.\n\nA média de todas as medições deve satisfazer as especificações que figuram no ponto 4 dos apêndices 1 e 2 ao anexo II e nenhuma medição individual pode ser inferior a 95 % dessas especificações.\n\n2.\n\nCessação da produção\n\nSe o possuidor de uma homologação CEE cessar completamente a produção, informará imediatamente desse facto a autoridade competente."
+  },
+  "f026c881d1118247": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0226 — PT — 09.04.2010 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0226) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0226) [de 27 de Março de 1991](http://publications.europa.eu/resource/celex/31991L0226) [relativa à aproximação das legislações dos Estados-membros respeitantes aos sistemas antiprojecção de determinadas categorias de veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31991L0226) [(91/226/CEE)](http://publications.europa.eu/resource/celex/31991L0226) (JO L 103, 23.4.1991, p.5)\n\n**revogado por:**"
+  },
+  "3342ef9875001fa9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0226 — PT — 01.11.2014 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0226) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0226) [de 27 de Março de 1991](http://publications.europa.eu/resource/celex/31991L0226) [relativa à aproximação das legislações dos Estados-membros respeitantes aos sistemas antiprojecção de determinadas categorias de veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31991L0226) [(91/226/CEE)](http://publications.europa.eu/resource/celex/31991L0226) (JO L 103, 23.4.1991, p.5)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

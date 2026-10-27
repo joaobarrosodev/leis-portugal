@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:170495:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-891175015",
+ "dre_path": "/dr/detalhe/portaria/900-1985-170495",
+ "source_lastmod": "2024-10-16",
+ "versions": [
+  {
+   "date": "1985-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "891432683"
+   ]
+  },
+  {
+   "date": "1985-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138122:por",
+     "title": "Declaração",
+     "published": "1985-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1985-138122"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "891432683",
+    "891432680"
+   ]
+  }
+ ],
+ "fragments": {
+  "891432683": {
+   "fragment_id": "891175016",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1985-11-30",
+   "changed_by": [],
+   "markdown": "Portaria n.º 900/85\n\nde 27 de Novembro\n\nConsiderando a conveniência de ajustar algumas das disposições da Portaria n.º 334/84, de 4 de Junho, que estabelece as normas sobre o funcionamento dos concursos e condições de promoção do pessoal militarizado da Marinha, com o disposto no Decreto-Lei n.º 282/76, de 20 de Abril, entretanto alterado pelo Decreto-Lei n.º 191/84, de 8 de Junho;\n\nHavendo ainda a necessidade de introduzir na referida portaria a recente alteração sobre a promoção por antiguidade - passa a fazer-se igualmente por escolha com doseamento sequencial de ambas as modalidades - consagrada no Decreto-Lei n.º 376/85, de 26 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, ao abrigo do artigo 15.º do Decreto-Lei n.º 282/76, de 20 de Abril, conjugado com o disposto na Lei n.º 29/82, de 11 de Dezembro, em matéria de competência regulamentar, que os n.os 1.º, 4.º, 12.º e 15.º da Portaria n.º 334/84, de 4 de Junho, passem a ter a seguinte redacção e que seja acrescentado um n.º 1.º-A à mesma portaria:\n\n1.º ...\n\na) ...\n\nb) ...\n\nc) Escolha, que consiste no acesso à categoria superior, independentemente da posição da escala de antiguidades, tendo em vista a vantagem de acelerar a promoção do pessoal que revele no serviço potenciais aptidões para o desempenho de funções da categoria superior;\n\nd) Concurso, que consiste no acesso à categoria, independentemente da posição ocupada na escala de antiguidades, nos termos estabelecidos nesta portaria, tendo em vista a vantagem de acelerar a promoção dos considerados mais competentes e que ofereçam maior garantia de bom desempenho das respectivas funções.\n\n1.º-A. As promoções por antiguidade e escolha são efectuadas com doseamento, sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.\n\n4.º ...\n\n...\n\nf) Para chefe e cabo-de-mar-chefe:\n\ni) ...\n\nii) Ter perfil psicológico adequado a funções de chefia, a ser avaliado em provas, durante o processo de promoção.\n\n12.º:\n\n...\n\nGrupos 1 e 3:\n\ni) Na promoção a chefe:\n\n...\n\nGrupo 2:\n\ni) Na promoção a guarda de 3.ª classe e a chefe:\n\n...\n\n15.º:\n\na) Nas promoções em que é condição especial a aprovação nos cursos geral ou complementar de formação técnico-profissional, enquanto não houver pessoal com eles habilitados, serão os referidos cursos substituídos por um exame a realizar nas seguintes condições:\n\n1) Em data nunca inferior a 15 dias, após o termo do prazo de admissão aos concursos de promoção;\n\n2) Anualmente, para o pessoal que dele necessite para eventual promoção por antiguidade ou escolha;\n\nb) Os júris dos concursos de promoção referidos na alínea anterior ou a entidade que deverá ministrar o curso complementar, no caso das promoções por antiguidade ou escolha, têm a seu cargo a realização dos exames referidos, elaboração das provas e classificações;\n\nc) Os exames, constando de provas escritas e orais sobre matérias indicadas previamente, podem ser repetidos uma única vez, em caso de reconhecido interesse para o serviço, por requerimento autorizado pelo almirante DSP;\n\nd) A aprovação no exame referido na alínea anterior terá validade para todas as promoções a realizar posteriormente;\n\ne) Sempre que, nas circunstâncias da alínea a) deste número, haja que realizar novos exames, os candidatos já aprovados em exames anteriores podem apresentar-se facultativamente a esses novos exames com vista à melhoria da sua classificação e com a salvaguarda da classificação anterior quando tal melhoria não se verifique."
+  },
+  "891432680": {
+   "fragment_id": "891175017",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Defesa Nacional.\n\nAssinada em 4 de Novembro de 1985.\n\nO Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete."
+  }
+ }
+}

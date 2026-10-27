@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:246850:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-156249855",
+ "dre_path": "/dr/detalhe/decreto-lei/53-2008-246850",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156251714",
+    "156251715",
+    "156251716",
+    "156251717",
+    "156251718",
+    "156251719",
+    "156251720",
+    "156251721",
+    "156251722",
+    "156251723",
+    "156251724",
+    "156251725",
+    "156251726",
+    "156251727",
+    "156251728",
+    "156251729",
+    "156251730",
+    "156251731",
+    "156251733",
+    "156251734",
+    "156251735",
+    "156251736",
+    "156251737",
+    "156251738",
+    "156251739"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "156251714",
+    "156251715",
+    "156251716",
+    "156251717",
+    "156251718",
+    "156251719",
+    "156251720",
+    "156251721",
+    "156251722",
+    "156251723",
+    "156251740",
+    "156251741",
+    "156251726",
+    "156251727",
+    "156251728",
+    "156251729",
+    "156251730",
+    "156251731",
+    "156251732",
+    "156251733",
+    "156251734",
+    "156251735",
+    "156251736",
+    "156251737",
+    "156251738",
+    "156251739"
+   ]
+  }
+ ],
+ "fragments": {
+  "156251714": {
+   "fragment_id": "156249856",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 53/2008\n\nde 25 de Março\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0125\" title=\"Link para Directiva da Comunidade Europeia\">2006/125/CE</a>, da Comissão, de 5 de Dezembro, relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens, veio codificar a Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0005\" title=\"Link para Directiva da Comunidade Europeia\">96/5/CE</a>, da Comissão, de 16 de Fevereiro, que, entretanto, foi objecto de sucessivas alterações introduzidas pelas Directivas n.os <a href=\"eurlex.asp?ano=1998&id=398L0036\" title=\"Link para Directiva da Comunidade Europeia\">98/36/CE</a>, de 2 de Junho, <a href=\"eurlex.asp?ano=1999&id=399L0039\" title=\"Link para Directiva da Comunidade Europeia\">1999/39/CE</a>, de 6 de Maio, e <a href=\"eurlex.asp?ano=2003&id=303L0013\" title=\"Link para Directiva da Comunidade Europeia\">2003/13/CE</a>, de 10 de Fevereiro, todas da Comissão.\n\nAquando da publicação do Decreto-Lei n.º 137/2004, de 5 de Junho, que transpôs para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0013\" title=\"Link para Directiva da Comunidade Europeia\">2003/13/CE</a>, da Comissão, de 10 de Fevereiro, procedeu-se à republicação do Decreto-Lei n.º 233/99, de 24 de Junho, que procedeu à transposição da Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0005\" title=\"Link para Directiva da Comunidade Europeia\">96/5/CE</a>, da Comissão, de 16 de Fevereiro, para evitar a dispersão da regulamentação da matéria pelos diversos decretos-leis aprovados em sequência daqueles actos legislativos comunitários.\n\nA referida Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0125\" title=\"Link para Directiva da Comunidade Europeia\">2006/125/CE</a> é uma directiva específica, nos termos da Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0398\" title=\"Link para Directiva da Comunidade Europeia\">89/398/CEE</a>, do Conselho, de 3 de Maio, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0084\" title=\"Link para Directiva da Comunidade Europeia\">96/84/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Dezembro, relativa à aproximação das legislações dos Estados membros respeitantes aos géneros alimentícios destinados a uma alimentação especial, transpostas para o direito interno pelo Decreto-Lei n.º 227/99, de 22 de Junho.\n\nA directiva que ora se transpõe introduziu apenas modificações na sistematização dos anexos. Todavia, tendo-se detectado lapsos na legislação anteriormente publicada, aproveitou-se a oportunidade para os corrigir e, simultaneamente, porque foram integradas na Autoridade de Segurança Alimentar e Económica (ASAE) atribuições e competências anteriormente detidas pela Inspecção-Geral das Actividades Económicas em matéria de fiscalização, para actualizar a referência constante do artigo 11.º\n\nDo mesmo modo, e na sequência das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE), foram integradas no Gabinete de Planeamento e Políticas (GPP) do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas as competências relativas às medidas de política no âmbito da qualidade e segurança alimentar, nomeadamente a regulamentação e coordenação do controlo oficial dos géneros alimentícios, pelo que as mesmas tiveram reflexo no presente decreto-lei.\n\nO diploma que agora se aprova estabelece as normas de composição, rotulagem, apresentação e publicidade dos alimentos à base de cereais e dos alimentos para bebés, fixa os teores máximos de resíduos de pesticidas que podem estar presentes nestes géneros alimentícios, proíbe a utilização de determinados pesticidas nos produtos agrícolas destinados à sua produção e estabelece a obrigação para os responsáveis pela colocação desta categoria de produtos no mercado de notificar a sua comercialização.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156251715": {
+   "fragment_id": "156249857",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0125\" title=\"Link para Directiva da Comunidade Europeia\">2006/125/CE</a>, da Comissão, de 5 de Dezembro, e estabelece o regime jurídico aplicável aos géneros alimentícios para utilização nutricional especial que satisfaçam os requisitos específicos relativos aos lactentes e crianças de pouca idade saudáveis e destinados a lactentes em fase de desmame e a crianças de pouca idade em suplemento das suas dietas e ou adaptação progressiva à alimentação normal.\n\n2 - O presente decreto-lei não se aplica aos leites destinados a crianças de pouca idade."
+  },
+  "156251716": {
+   "fragment_id": "156249858",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições e designações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições e designações\n\n1 - Para efeitos do presente decreto-lei, entende-se por:\n\na) «Lactentes» crianças com idade inferior a 12 meses;\n\nb) «Crianças de pouca idade» crianças com idade compreendida entre 1 e 3 anos;\n\nc) «Resíduo de pesticida» resíduo de produto fitofarmacêutico, tal como definido na alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 94/98, de 15 de Abril, presente num alimento à base de cereais ou alimento para bebés, incluindo os produtos do seu metabolismo e os seus produtos de degradação ou reacção.\n\n2 - Os géneros alimentícios mencionados no artigo anterior compreendem os alimentos à base de cereais e os alimentos para bebés.\n\n3 - Os alimentos à base de cereais dividem-se nas seguintes categorias:\n\na) Cereais simples, que estão ou devem ser reconstituídos com leite ou outros líquidos nutritivos adequados;\n\nb) Cereais a que se adicionam alimentos com elevado teor de proteínas, a reconstituir com água ou outros líquidos desprovidos de proteínas;\n\nc) Massas, utilizadas após cozedura em água ou noutros líquidos apropriados;\n\nd) Tostas e biscoitos, utilizados quer directamente quer com água, leite ou outros líquidos adequados após trituração.\n\n4 - Os alimentos para bebés correspondem àqueles alimentos que não são compostos à base de cereais."
+  },
+  "156251717": {
+   "fragment_id": "156249859",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidade competente\n\nNo âmbito do presente decreto-lei, compete ao Gabinete de Políticas e Planeamento (GPP):\n\na) Recolher as informações e documentos necessários para os efeitos previstos no artigo 8.º e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nb) Suspender ou limitar provisoriamente a comercialização dos produtos, nos termos do artigo 9.º;\n\nc) Comunicar às instâncias comunitárias, e aos restantes Estados membros da Comunidade Europeia, as decisões tomadas ao abrigo do artigo 9.º"
+  },
+  "156251718": {
+   "fragment_id": "156249860",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - Os alimentos à base de cereais e os alimentos para bebés devem ser fabricados a partir de ingredientes relativamente aos quais tenha sido comprovada, através de dados científicos geralmente aceites, a respectiva adequação a fins nutricionais específicos de lactentes e crianças de pouca idade.\n\n2 - Os alimentos à base de cereais e os alimentos para bebés devem observar os critérios de composição constantes, respectivamente, dos anexos i e ii do presente decreto-lei e que dele fazem parte integrante.\n\n3 - No fabrico de alimentos à base de cereais e de alimentos para bebés apenas podem ser adicionadas as substâncias nutritivas constantes do anexo iv do presente decreto-lei e que dele faz parte integrante.\n\n4 - Os alimentos à base de cereais e os alimentos para bebés não podem conter substâncias em quantidades susceptíveis de pôr em risco a saúde dos lactentes e das crianças de pouca idade."
+  },
+  "156251719": {
+   "fragment_id": "156249861",
+   "type": 11,
+   "heading": "Artigo 5.º — Teor máximo de resíduos de pesticidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Teor máximo de resíduos de pesticidas\n\n1 - Sem prejuízo do disposto no artigo seguinte, os alimentos à base de cereais e os alimentos para bebés não podem conter resíduos de pesticidas específicos em teores superiores a 0,01 mg/kg, em produtos prontos para consumo ou reconstituídos de acordo com as instruções do fabricante, com excepção das substâncias constantes no anexo vi do presente decreto-lei, e que dele faz parte integrante, relativamente às quais os teores máximos de resíduos admissíveis são os aí fixados.\n\n2 - Os métodos analíticos para determinar os teores dos resíduos de pesticidas são métodos normalizados geralmente aceites."
+  },
+  "156251720": {
+   "fragment_id": "156249862",
+   "type": 11,
+   "heading": "Artigo 6.º — Proibição de utilização de produtos agrícolas contaminados com determinados pesticidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Proibição de utilização de produtos agrícolas contaminados com determinados pesticidas\n\n1 - Nos produtos agrícolas destinados à produção de alimentos à base de cereais ou alimentos para bebés é proibida a utilização dos pesticidas constantes no anexo vii do presente decreto-lei e que dele faz parte integrante.\n\n2 - Para efeitos do disposto no número anterior, considera-se que os pesticidas enumerados nos quadros 1 e 2 do anexo vii do presente decreto-lei, e que dele faz parte integrante, não foram utilizados, se os respectivos resíduos no produto pronto para consumo ou reconstituído de acordo com as instruções do fabricante não excederem um teor de 0,003 mg/kg."
+  },
+  "156251721": {
+   "fragment_id": "156249863",
+   "type": 11,
+   "heading": "Artigo 7.º — Rotulagem, apresentação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rotulagem, apresentação e publicidade\n\n1 - A rotulagem, apresentação e publicidade dos produtos abrangidos pelo presente decreto-lei regem-se pela legislação geral em vigor nessas matérias, sem prejuízo do disposto nas normas especiais estabelecidas nos números seguintes.\n\n2 - A rotulagem destes produtos deve, obrigatoriamente, mencionar:\n\na) A indicação da idade adequada a partir da qual o produto pode ser utilizado, tendo em conta a sua composição, textura ou outras propriedades especiais, não podendo ser inferior a 4 meses;\n\nb) Os produtos recomendados para utilização a partir da idade de 4 meses podem ter a indicação de que são adequados a partir dessa idade, salvo opinião contrária de pessoas independentes com qualificações em medicina, nutrição ou farmácia ou outros profissionais responsáveis por cuidados maternais ou infantis;\n\nc) Informação sobre a presença ou ausência de glúten, se a idade indicada a partir da qual o produto pode ser utilizado for inferior a 6 meses;\n\nd) O valor energético disponível, expresso em quilojoules (kJ) e quilocalorias (kcal), bem como o teor de proteínas, hidratos de carbono e lípidos, expressos em termos numéricos, por 100 g (gramas) ou 100 ml (mililitros) do produto na forma em que é comercializado e, se aplicável, por dose do produto proposta para consumo;\n\ne) A quantidade média de cada substância mineral e vitamínica, controlada por um nível específico constante dos anexos i e ii do presente decreto-lei, e que dele fazem parte integrante, expressa em termos numéricos, por 100 g ou 100 ml do produto na forma em que é comercializado e, se aplicável, por dose do produto proposta para consumo;\n\nf) Se necessário, instruções sobre o modo de preparação, bem como a indicação da importância de se observarem as referidas instruções.\n\n3 - A rotulagem destes produtos pode indicar:\n\na) A quantidade média das substâncias mencionadas no anexo iv do presente decreto-lei, e que dele faz parte integrante, se essa indicação não for abrangida pelo disposto na alínea e) do número anterior, expressa em termos numéricos, por 100 g ou 100 ml do produto na forma em que é comercializado e, se aplicável, por dose do produto proposta para consumo;\n\nb) Para além de dados numéricos, dados relativos às vitaminas e minerais referidos no anexo v do presente decreto-lei, e que dele faz parte integrante, expressos em percentagens dos valores de referência nele apontados, por 100 g ou 100 ml do produto pronto a ser utilizado, desde que as quantidades presentes sejam superiores a 15 % dos valores de referência."
+  },
+  "156251722": {
+   "fragment_id": "156249864",
+   "type": 11,
+   "heading": "Artigo 8.º — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comercialização\n\n1 - Tratando-se da primeira comercialização do produto na Comunidade, o fabricante, se o produto tiver origem num dos Estados membros, ou o importador, se o produto tiver origem em país terceiro, deve enviar ao GPP um modelo da rotulagem respectiva.\n\n2 - Se o produto já tiver sido comercializado na Comunidade, o fabricante ou o importador, para além do modelo de rotulagem do produto, indica igualmente ao GPP a entidade destinatária da primeira notificação de comercialização.\n\n3 - Sempre que necessário, o GPP pode, no prazo de 90 dias sobre a recepção da rotulagem do produto comercializado, exigir ao comerciante ou importador a apresentação de trabalhos científicos e dos dados que comprovam a conformidade dos produtos com as regras constantes deste decreto-lei."
+  },
+  "156251723": {
+   "fragment_id": "156249865",
+   "type": 11,
+   "heading": "Artigo 9.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Restrições\n\nSem prejuízo do procedimento contra-ordenacional a que houver lugar, o GPP pode suspender ou limitar provisoriamente a comercialização dos produtos abrangidos por este diploma, desde que verifique, fundamentadamente, que não obedecem aos critérios de composição e de qualidade definidos nos artigos 4.º, 5.º e 6.º ou que põem em perigo a saúde humana, comunicando de imediato tal decisão à Comissão Europeia."
+  },
+  "156251724": {
+   "fragment_id": "156249866",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima mínima de (euro) 100 e máxima de (euro) 3 740,98 ou de (euro) 14 963,91, consoante se trate de pessoa singular ou colectiva:\n\na) A comercialização de produtos cuja composição não obedeça aos critérios referidos no artigo 4.º ou que contenham resíduos de pesticidas específicos superiores ao teor máximo fixado no artigo 5.º ou ainda em que sejam utilizados ou se encontrem presentes em produtos agrícolas destinados à sua produção pesticidas constantes do anexo vii;\n\nb) A falta de menção na rotulagem do produto de qualquer das indicações estabelecidas no n.º 2 do artigo 7.º;\n\nc) A falta das comunicações a que se refere o artigo 8.º\n\n2 - A negligência é punível, sendo reduzidos a metade os limites mínimos e máximos das coimas fixadas."
+  },
+  "156251725": {
+   "fragment_id": "156249867",
+   "type": 11,
+   "heading": "Artigo 11.º — Tramitação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tramitação processual\n\n1 - A fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei compete à Autoridade para a Segurança Alimentar e Económica (ASAE), assim como lhe compete aplicar as medidas preventivas previstas no Regime Geral das Contra-Ordenações.\n\n2 - Finda a instrução, serão os processos remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas.\n\n3 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para o Estado;\n\nb) 30 % para a entidade que instruiu o processo;\n\nc) 10 % para a CACMEP."
+  },
+  "156251726": {
+   "fragment_id": "156249868",
+   "type": 11,
+   "heading": "Artigo 12.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa da entidade, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) A perda de objectos pertencentes ao agente;\n\nb) A suspensão da comercialização do produto."
+  },
+  "156251727": {
+   "fragment_id": "156249869",
+   "type": 11,
+   "heading": "Artigo 13.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regiões Autónomas\n\nO disposto no presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de as competências cometidas a serviços ou organismos da administração do Estado serem exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências."
+  },
+  "156251728": {
+   "fragment_id": "156249870",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamentação especial\n\nPor diploma aprovado pelos membros do Governo responsáveis pelas áreas da saúde, da economia e da protecção do consumidor, e da segurança e qualidade alimentar, e de acordo com os actos de direito comunitário que venham a ser adoptados nesta matéria, são estabelecidos os critérios de pureza das substâncias referidas no n.º 3 do artigo 4.º, bem como os critérios microbiológicos a que devem obedecer estes produtos e o nível máximo das substâncias cuja quantidade seja susceptível de prejudicar a saúde dos lactentes e das crianças de pouca idade."
+  },
+  "156251729": {
+   "fragment_id": "156249871",
+   "type": 11,
+   "heading": "Artigo 15.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Taxas\n\n1 - Pela recolha e apreciação dos documentos e informações previstos no artigo 8.º e pelo controlo da rotulagem dos produtos são cobradas taxas a pagar pelos utentes dos serviços prestados pelo GPP, cujos quantitativos são fixados por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.\n\n2 - As receitas previstas no número anterior destinam-se a pagar as despesas decorrentes da prestação do serviço respectivo e constituem receita própria do GPP."
+  },
+  "156251730": {
+   "fragment_id": "156249872",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\n1 - É revogado o Decreto-Lei n.º 233/99, de 24 de Junho, alterado pelos Decretos-Leis n.os 284/2000, de 10 de Novembro, e 137/2004, de 5 de Junho.\n\n2 - A Portaria n.º 566/2000, de 4 de Agosto, mantém-se em vigor enquanto não entrar em vigor a portaria prevista no artigo anterior."
+  },
+  "156251731": {
+   "fragment_id": "156249873",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156251733": {
+   "fragment_id": "156252075",
+   "type": 14,
+   "heading": "Anexo I — Composição dos alimentos à base de cereais destinados a lactentes e crianças de pouca idade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Composição dos alimentos à base de cereais destinados a lactentes e crianças de pouca idade\n\nOs requisitos relativos aos nutrientes referem-se aos produtos prontos a utilizar e comercializados enquanto tal ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Teor em cereais\n\nOs alimentos à base de cereais são sobretudo preparados a partir de uma ou mais farinhas de cereais e ou raízes amiláceas.\n\nA quantidade de cereais e ou raízes amiláceas não deve corresponder a menos de 25 %, em matéria seca, do peso da mistura final.\n\n2 - Proteínas\n\n2.1 - No que respeita aos produtos referidos nas alíneas b) e d) do n.º 3 do artigo 2.º, o teor de proteínas não deve exceder 1,3 g/100 kJ (5,5 g/100 kcal).\n\n2.2 - No que respeita aos produtos referidos na alínea b) do n.º 3 do artigo 2.º, a quantidade de proteínas incorporadas não deve ser inferior a 0,48 g/100 kJ (2 g/100 kcal).\n\n2.3 - No que respeita aos biscoitos referidos na alínea d) do n.º 3 do artigo 2.º, preparados com a adição de alimentos com elevado teor de proteínas e como tal apresentados, a quantidade de proteínas incorporadas não deve ser inferior a 0,36 g/100 kJ (1,5 g/100 kcal).\n\n2.4 - O índice químico das proteínas incorporadas deve ser igual a pelo menos 80 % do da proteína de referência (caseína, tal como estipulado no anexo iii) ou, em alternativa, o PER (coeficiente de eficácia proteica) das proteínas da mistura deve ser igual a pelo menos 70 % do PER da proteína de referência. Em todo o caso, a incorporação de aminoácidos apenas é permitida se se destinar a aumentar o valor nutritivo das proteínas e, a verificar-se, apenas nas proporções necessárias para o efeito.\n\n3 - Glícidos\n\n3.1 - Caso se adicione sacarose, frutose, glicose ou xaropes de glicose ou mel aos produtos referidos nas alíneas a) e d) do n.º 3 do artigo 2.º:\n\nA quantidade total de glícidos incorporados provenientes destas fontes não deve exceder 1,8 g/100 kJ (7,5 g/100 kcal);\n\nA quantidade de frutose incorporada não deve exceder 0,9 g/100 kJ (3,75 g/100 kcal).\n\n3.2 - Se aos produtos referidos na alínea b) do n.º 3 do artigo 2.º for adicionado mel ou xarope de glicose, sacarose, frutose ou glicose:\n\nA quantidade de glícidos provenientes destas fontes não deve exceder 1,2 g/100 kJ (5 g/100 kcal);\n\nA quantidade de frutose incorporada não deve exceder 0,6 g/100 kJ (2,5 g/100 kcal).\n\n4 - Lípidos\n\n4.1 - No que respeita aos produtos referidos nas alíneas a) e d) do n.º 3 do artigo 2.º, o teor de lípidos não deve exceder 0,8 g/100 kJ (3,3 g/100 kcal).\n\n4.2 - No que respeita aos produtos referidos na alínea b) do n.º 3 do artigo 2.º, o teor de lípidos não deve exceder 1,1 g/100 kJ (4,5 g/100 kcal). Caso este teor exceda 0,8 g/100 kJ (3,3 g/100 kcal):\n\nO teor de ácido láurico não deve exceder 15 % do teor total de lípidos;\n\nO teor de ácido mirístico não deve exceder 15 % do teor total de lípidos;\n\nO teor de ácido linoleíco (sob a forma de glicerídeos = linoleatos) não deve ser inferior a 70 mg/100 kJ (300 mg/100 kcal) nem deve exceder 285 mg/100 kJ (1200 mg/100 kcal).\n\n5 - Minerais\n\n5.1 - Sódio:\n\nOs sais de sódio apenas podem ser incorporados nos alimentos à base de cereais para efeitos tecnológicos;\n\nO teor de sódio dos alimentos à base de cereais não deve exceder 25 mg/100 kJ (100 mg/100 kcal).\n\n5.2 - Cálcio:\n\n5.2.1 - No que respeita aos produtos referidos na alínea b) do n.º 3 do artigo 2.º, o teor de cálcio não deve ser inferior a 20 mg/100 kJ (80 mg/100 kcal).\n\n5.2.2 - No que respeita aos produtos referidos na alínea d) do n.º 3 do artigo 2.º, cujo fabrico envolve a incorporação de leite (biscoitos lácteos), e como tal apresentados, o teor de cálcio não deve ser inferior a 12 mg/100 kJ (50 mg/100 kcal).\n\n6 - Vitaminas\n\n6.1 - No que respeita aos alimentos à base de cereais, o teor de tiamina não deve ser inferior a 25 (mi)g/100 kJ (100 (mi)g/100 kcal).\n\n6.2 - No que respeita aos produtos referidos na alínea b) do n.º 3 do artigo 2.º:\n\n(ver documento original)\n\nEstes limites são igualmente aplicáveis se as vitaminas A e D forem adicionadas a outros alimentos à base de cereais.\n\n7 - Limites máximos de vitaminas, minerais e elementos vestigiais que podem ser adicionados\n\nOs requisitos relativos aos nutrientes aplicam-se aos produtos prontos a ser utilizados, assim comercializados ou reconstituídos de acordo com as instruções do fabricante, excepto no que respeita ao potássio e ao cálcio, em que os requisitos se referem ao produto na forma em que é vendido.\n\n(ver documento original)"
+  },
+  "156251734": {
+   "fragment_id": "156252076",
+   "type": 14,
+   "heading": "Anexo II — Composição dos alimentos para bebés destinados a lactentes e crianças de pouca idade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Composição dos alimentos para bebés destinados a lactentes e crianças de pouca idade\n\nOs requisitos relativos aos nutrientes referem-se aos produtos prontos a utilizar e comercializados enquanto tal ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Proteínas\n\n1.1 - Caso os únicos ingredientes referidos na denominação do produto sejam carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteína, então:\n\nA carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas referidos não devem no seu conjunto representar menos de 40 % do peso da totalidade do produto;\n\nCada quantidade de carne de mamíferos, aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas não deve representar menos de 25 % do peso da totalidade dessas fontes de proteínas;\n\nA quantidade de proteínas provenientes das fontes indicadas não deve ser inferior a 1,7 g/100 kJ (7 g/100 kcal).\n\n1.2 - Caso a carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas, isoladamente ou em conjunto, sejam referidos em primeiro lugar na denominação do produto, então, independentemente de o produto ser ou não apresentado como refeição:\n\nA carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas referidos não devem representar menos de 10 % do peso da totalidade do produto;\n\nA carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas referidos não devem individualmente constituir menos de 25 % do peso do conjunto das fontes de proteínas indicadas;\n\nA quantidade de proteínas provenientes da fonte indicada não deve ser inferior a 1 g/100 kJ (4 g/100 kcal).\n\n1.3 - Caso o nome do produto mencione, embora não em primeiro lugar, carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas, isoladamente ou em conjunto, então, independentemente de o produto ser ou não apresentado como refeição:\n\nA carne de mamíferos ou aves de capoeira, peixe ou miúdos ou outras fontes tradicionais de proteínas referidos não devem representar menos de 8 % do peso da totalidade do produto;\n\nA carne de mamíferos ou aves de capoeira, peixe ou miúdos ou outras fontes tradicionais de proteínas não devem constituir menos de 25 % do peso do conjunto das fontes de proteínas indicadas;\n\nA quantidade de proteínas provenientes da fonte indicada não deve ser inferior a 0,5 g/100 kJ (2,2 g/100 kcal);\n\nA quantidade total de proteínas presentes nos produtos e provenientes de todas as fontes não deve ser inferior a 0,7 g/100 kJ (3 g/100 kcal).\n\n1.4 - Se o queijo for mencionado junto com outros ingredientes no nome do aperitivo, independentemente de o produto ser ou não apresentado como uma refeição:\n\nO teor de proteínas provenientes de fontes lácteas não pode ser inferior a 0,5 g/100 kJ (2,2 g/100 kcal);\n\nO teor global de proteínas provenientes de todas as suas fontes não pode ser inferior a 0,7 g/100 kJ (3 g/100 kcal).\n\n1.5 - Caso o rótulo refira que o produto constitui uma refeição, embora não mencione a carne de mamíferos ou aves de capoeira, peixe ou miúdos ou outras fontes tradicionais de proteínas no nome do produto, a quantidade total de proteínas presentes no produto e provenientes de todas as fontes não deve ser inferior a 0,7 g/100 kJ (3 g/100 kcal).\n\n1.6 - Os molhos apresentados como acompanhamento de refeições estão isentos dos requisitos constantes nos n.os 1.1 a 1.5, inclusive.\n\n1.7 - Os preparados doces que mencionem fontes lácteas como primeiro ou único ingrediente no seu nome devem conter pelo menos 2,2 g de proteínas lácteas/100 kcal. Todos os outros preparados doces estão isentos dos requisitos constantes nos n.os 1.1 a 1.5.\n\n1.8 - A incorporação de aminoácidos apenas é permitida se se destinar a aumentar o valor nutritivo das proteínas e apenas nas proporções necessárias para o efeito.\n\n2 - Glícidos\n\nA quantidade total de glícidos presente nos sumos de frutos e vegetais e nos néctares, pratos constituídos unicamente por frutos e sobremesas ou pudins não deve exceder:\n\n10 g/100 ml, no que respeita aos sumos de vegetais e bebidas neles baseadas;\n\n15 g/100 ml, no que respeita aos sumos de frutos ou néctares e bebidas neles baseadas;\n\n20 g/100 g, no que respeita aos pratos constituídos unicamente por frutos;\n\n25 g/100 g, no que respeita às sobremesas e pudins;\n\n5 g/100 g, no que respeita às restantes bebidas sem leite.\n\n3 - Lípidos\n\n3.1 - No que respeita aos produtos referidos no n.º 1.1 do presente anexo:\n\nCaso o único ingrediente referido na denominação do produto seja carne de mamíferos ou leite, ou estes sejam mencionados em primeiro lugar na denominação do produto, o teor total de lípidos no produto proveniente de todas as fontes não deve exceder 1,4 g/100 kJ (6 g/100 kcal).\n\n3.2 - No que respeita a todos os outros produtos, o teor total de lípidos no produto proveniente de todas as fontes não deve exceder 1,1 g/100 kJ (4,5 g/100 kcal).\n\n4 - Sódio\n\n4.1 - O teor final de sódio no produto não deve exceder 48 mg/100 kJ (200 mg/100 kcal) ou 200 mg/100 g. Todavia, se o queijo for o único ingrediente referido na denominação do produto, o teor final de sódio não deve exceder 70 mg/100 kJ (300 mg/100 kcal).\n\n4.2 - Os sais de sódio não podem ser incorporados em produtos à base de frutos nem em sobremesas ou pudins, excepto para fins tecnológicos.\n\n5 - Vitaminas\n\nVitamina C\n\nNo que respeita aos sumos de frutos, néctares e sumos de vegetais, o teor final de vitamina C no produto não deve exceder 6 mg/100 kJ (25 mg/100 kcal) ou a 25 mg/100 g.\n\nVitamina A\n\nNos sumos de vegetais, o teor final de vitamina A no produto não deve ser inferior a 25 (mi)g ER/100 kJ (100 (mi)g ER/100 kcal).\n\nA vitamina A não deve ser adicionada a outros alimentos para bebés.\n\nVitamina D\n\nA vitamina D não deve ser adicionada a alimentos para bebés.\n\n6 - Limites máximos de vitaminas, minerais e elementos vestigiais que podem ser adicionados\n\nOs requisitos relativos aos nutrientes aplicam-se aos produtos prontos a ser utilizados, assim comercializados ou reconstituídos de acordo com as instruções do fabricante, excepto no que respeita ao potássio e ao cálcio, em que os requisitos se referem ao produto na forma em que é vendido.\n\n(ver documento original)"
+  },
+  "156251735": {
+   "fragment_id": "156252077",
+   "type": 14,
+   "heading": "Anexo III — Aminoácidos presentes na caseína",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Aminoácidos presentes na caseína\n\n(ver documento original)"
+  },
+  "156251736": {
+   "fragment_id": "156252078",
+   "type": 14,
+   "heading": "Anexo IV — Nutrientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Nutrientes\n\n1 - Vitaminas\n\nVitamina A:\n\nRetinol;\n\nAcetato de retinilo;\n\nPalmitato de retinilo;\n\nBeta caroteno.\n\nVitamina B1:\n\nCloridrato de tiamina;\n\nMononitrato de tiamina.\n\nNiacina:\n\nNicotinamida;\n\nÁcido nicotínico.\n\nÁcido pantoténico:\n\nD-pantotenato de cálcio;\n\nD-pantotenato de sódio;\n\nDexpantenol.\n\nVitamina B12:\n\nCianocobalamina;\n\nHidroxicobalamina.\n\nVitamina C:\n\nÁcido L-ascórbico;\n\nL-ascorbato de sódio;\n\nL-ascorbato de cálcio;\n\nÁcido 6-palmitil-L-ascórbico (palmitato de ascorbilo);\n\nAscorbato de potássio.\n\nVitamina E:\n\nD-alfa-tocoferol;\n\nDL-alfa-tocoferol;\n\nAcetato de D-alfa-tocoferol;\n\nAcetato de DL-alfa-tocoferol.\n\nVitamina D:\n\nVitamina D2 (=ergocalciferol);\n\nVitamina D3 (=colecalciferol).\n\nVitamina B2:\n\nRiboflavina;\n\nRiboflavina-5'-fosfato sódica.\n\nVitamina B6:\n\nHidrocloreto de piridoxina;\n\nPiridoxina-5'-fosfato;\n\nDipalmitato de piridoxina.\n\nFolato:\n\nÁcido fólico.\n\nBiotina:\n\nD-biotina.\n\nVitamina K:\n\nFiloquinona (fitomenadiona).\n\n2 - Aminoácidos\n\nL- arginina e respectivo hidrocloreto.\n\nL- cistina e respectivo hidrocloreto.\n\nL- histidina e respectivo hidrocloreto.\n\nL- isoleucina e respectivo hidrocloreto.\n\nL- leucina e respectivo hidrocloreto.\n\nL- lisina e respectivo hidrocloreto.\n\nL- cisteína e respectivo hidrocloreto.\n\nL- metionina.\n\nL- fenilalanina.\n\nL- treonina.\n\nL- triptofano.\n\nL- tirosina.\n\nL- valina.\n\n3 - Outros\n\nColina.\n\nCloreto de colina.\n\nCitrato de colina.\n\nBitartrato de colina.\n\nInositol.\n\nL-carnitina.\n\nHidrocloreto de L-carnitina.\n\n4 - Substâncias minerais e elementos vestigiais\n\nCálcio:\n\nCarbonato de cálcio;\n\nCloreto de cálcio;\n\nSais de cálcio de ácido cítrico;\n\nGluconato de cálcio;\n\nGlicerofosfato de cálcio;\n\nLactato de cálcio;\n\nÓxido de cálcio;\n\nHidróxido de cálcio;\n\nSais de cálcio do ácido ortofosfórico.\n\nMagnésio:\n\nCarbonato de magnésio;\n\nCloreto de magnésio;\n\nSais de magnésio do ácido cítrico;\n\nGluconato de magnésio;\n\nÓxido de magnésio;\n\nHidróxido de magnésio;\n\nSais de magnésio do ácido ortofosfórico;\n\nSulfato de magnésio;\n\nLactato de magnésio;\n\nGlicerofosfato de magnésio.\n\nPotássio:\n\nCloreto de potássio;\n\nSais potássicos de ácido cítrico;\n\nGluconato de potássio;\n\nLactato de potássio;\n\nGlicerofosfato de potássio.\n\nFerro:\n\nCitrato ferroso;\n\nCitrato férrico de amónio;\n\nGluconato ferroso;\n\nLactato ferroso;\n\nSulfato ferroso;\n\nFumarato ferroso;\n\nDifosfato férrico (pirofosfato férrico);\n\nFerro elementar (em complexos com ligandos carbonilo, electrolítico ou reduzido por hidrogenação);\n\nSacarato férrico;\n\nDifosfato férrico de sódio;\n\nCarbonato ferroso.\n\nCobre:\n\nComplexo cobre-lisina;\n\nCarbonato cúprico;\n\nCitrato cúprico;\n\nGluconato cúprico;\n\nSulfato cúprico.\n\nZinco:\n\nAcetato de zinco;\n\nCloreto de zinco;\n\nCitrato de zinco;\n\nLactato de zinco;\n\nSulfato de zinco;\n\nÓxido de zinco;\n\nGluconato de zinco.\n\nManganésio:\n\nCarbonato de manganésio;\n\nCloreto de manganésio;\n\nCitrato de manganésio;\n\nGluconato de manganésio;\n\nSulfato de manganésio;\n\nGlicerofosfato de manganésio.\n\nIodo:\n\nIodeto de sódio;\n\nIodeto de potássio;\n\nIodato de potássio;\n\nIodato de sódio."
+  },
+  "156251737": {
+   "fragment_id": "156252079",
+   "type": 14,
+   "heading": "Anexo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V\n\nValores de referência para a rotulagem nutricional dos alimentos destinados a lactentes e crianças de pouca idade\n\n(ver documento original)"
+  },
+  "156251738": {
+   "fragment_id": "156252080",
+   "type": 14,
+   "heading": "Anexo VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI\n\nNíveis máximos de resíduos específicos para os pesticidas ou metabolitos de pesticidas nos alimentos transformados à base de cereais e nos alimentos para bebés\n\n(ver documento original)"
+  },
+  "156251739": {
+   "fragment_id": "156252081",
+   "type": 14,
+   "heading": "Anexo VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII\n\nPesticidas que não podem ser utilizados em produtos agrícolas destinados à produção de alimentos à base de cereais e de alimentos para bebés\n\nQUADRO 1\n\nDenominação química da substância (definição do resíduo):\n\nDisulfoton (somatório de disulfoton, sulfóxido de disulfoton e sulfona de disulfoton, expresso como disulfoton);\n\nFensulfothion (somatório de fensulfothion, seu análogo oxigenado e respectivas sulfonas, expresso como fensulfothion);\n\nFentin, expresso como o catião de trifenilestanho;\n\nHaloxyfop (somatório de haloxyfop, respectivos sais e ésteres incluindo conjugados, expresso como haloxyfop);\n\nHeptacloro e trans-epóxido de heptacloro, expresso como heptacloro;\n\nHexaclorobenzeno;\n\nNitrofeno;\n\nOmethoate;\n\nTerbufos (somatório de terbufos, seus sulfóxido e sulfona, expresso como terbufos).\n\nQUADRO 2\n\nDenominação química da substância:\n\nAldrin e dieldrin, expressos como dieldrin;\n\nEndrin."
+  },
+  "156251740": {
+   "fragment_id": "156249866",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 87.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A comercialização de produtos cuja composição não obedeça aos critérios referidos no artigo 4.º ou que contenham resíduos de pesticidas específicos superiores ao teor máximo fixado no artigo 5.º ou ainda em que sejam utilizados ou se encontrem presentes em produtos agrícolas destinados à sua produção pesticidas constantes do anexo vii;\n\nb) A falta de menção na rotulagem do produto de qualquer das indicações estabelecidas no n.º 2 do artigo 7.º;\n\nc) A falta das comunicações a que se refere o artigo 8.º\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 87.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251741": {
+   "fragment_id": "156249867",
+   "type": 11,
+   "heading": "Artigo 11.º — Tramitação processual",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 87.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Tramitação processual\n\n1 - A fiscalização e instrução dos processos por infração ao disposto no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE), assim como a aplicação das medidas cautelares previstas no RJCE.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo anterior é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 87.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251732": {
+   "fragment_id": "156249874",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.\n\nPromulgado em 29 de Fevereiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de Março de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

@@ -1,0 +1,304 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553446:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-70040421",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/30-2012-553446",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70043411",
+    "70043412",
+    "70043413",
+    "70043414",
+    "70043415",
+    "70043416",
+    "70043417",
+    "70043418",
+    "70043419",
+    "70043420",
+    "70043421",
+    "70043422",
+    "70043423",
+    "70043424",
+    "70043425",
+    "70043426",
+    "70043427"
+   ]
+  },
+  {
+   "date": "2015-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69968711:por",
+     "title": "Decreto-Lei n.º 153/2015",
+     "published": "2015-08-07",
+     "dre_path": "/dr/detalhe/decreto-lei/153-2015-69968711"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "70043411",
+    "70043412",
+    "70048190",
+    "70048186",
+    "70043415",
+    "70043416",
+    "70048187",
+    "70043418",
+    "70043419",
+    "70043420",
+    "70043421",
+    "70043422",
+    "70043423",
+    "70043424",
+    "70043425",
+    "70043426",
+    "70048185",
+    "70048189"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558633:por",
+     "title": "Decreto-Lei n.º 36/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "70043411",
+    "70043412",
+    "213622565",
+    "70048186",
+    "70043415",
+    "70043416",
+    "70048187",
+    "70043418",
+    "70043419",
+    "70043420",
+    "70043421",
+    "70043422",
+    "70043423",
+    "70043424",
+    "70043425",
+    "70043426",
+    "70048185",
+    "70048189"
+   ]
+  }
+ ],
+ "fragments": {
+  "70043411": {
+   "fragment_id": "70040424",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 30/2012\n\nde 13 de março\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNo âmbito do PREMAC, o Decreto-Lei n.º 7/2011, de 17 de Janeiro, aprovou a fusão da Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano e do Instituto Geográfico Português, integrando também o Gabinete Coordenador do Programa FINISTERRA, para dar lugar à Direcção-Geral do Território (DGT).\n\nA DGT tem como missão prosseguir as políticas públicas de ordenamento do território e de urbanismo, bem como a criação e manutenção das bases de dados geográficos de referência.\n\nO presente diploma tem, assim, como objectivos a racionalização de recursos e a melhoria da eficiência e da eficácia na prestação de serviço público, promovendo o desenvolvimento de sinergias no exercício de funções próximas ou complementares, até aqui confiadas a dois organismos distintos e a um gabinete, em matéria de ordenamento do território, informação geográfica e urbanismo, fomentando uma maior articulação entre os instrumentos de gestão territorial.\n\nCom a efectiva redução do número de cargos dirigentes e a redução de encargos financeiros que resulta da criação da DGT, garante-se ainda uma estrutura funcional simplificada e renovada, centrada nos grandes temas do ordenamento do território, da política de cidades e da informação territorial, orientada para a qualificação das actuações territoriais que, nomeadamente através da cooperação com outras entidades, possa contribuir de modo significativo para uma melhor organização, valorização e utilização do território nacional e para a sua integração no espaço europeu.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70043412": {
+   "fragment_id": "70040425",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral do Território, abreviadamente designada por DGT, é um serviço central da administração directa do Estado dotado de autonomia administrativa."
+  },
+  "70043413": {
+   "fragment_id": "70040426",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGT tem por missão prosseguir as políticas públicas de ordenamento do território e de urbanismo, bem como a criação e manutenção das bases de dados geográficos de referência.\n\n2 - A DGT prossegue as seguintes atribuições:\n\na) Participar na definição da Política Nacional de Ordenamento do Território e do Urbanismo, acompanhando a sua execução e promovendo a sua avaliação;\n\nb) Promover o acompanhamento e avaliação do Programa Nacional de Política de Ordenamento do Território, bem como propor a sua alteração e revisão;\n\nc) Apoiar a definição e a prossecução da política de cidades, nomeadamente através da preparação, coordenação e gestão de programas de cooperação técnica e financeira dirigida à promoção de boas práticas de gestão territorial e à qualificação do território e da gestão urbana, acompanhar e avaliar o funcionamento do sistema de gestão territorial e propor as medidas necessárias ao seu aperfeiçoamento;\n\nd) Coordenar, em articulação com o Gabinete Coordenador do Programa POLIS, as intervenções necessárias ao desenvolvimento, execução e acompanhamento do Programa de Requalificação Urbana e Valorização Ambiental de Cidades (POLIS) e das operações integradas de requalificação e valorização da orla costeira (POLIS LITORAL) até à sua conclusão;\n\ne) Coordenar as intervenções previstas no âmbito do Gabinete Coordenador do Programa FINISTERRA, até à sua conclusão;\n\nf) Intervir, nos termos previstos na lei, nos procedimentos de avaliação ambiental e na elaboração, acompanhamento, execução e compatibilização dos instrumentos de gestão territorial, bem como proceder ao respectivo depósito;\n\ng) Apoiar o membro do Governo responsável pela área do ordenamento do território nos procedimentos e nas decisões de gestão territorial da sua competência;\n\nh) Dinamizar, acompanhar, orientar e apoiar tecnicamente as práticas de gestão territorial nos âmbitos nacional, regional e local, promovendo a concertação dos procedimentos e dos critérios técnicos aplicáveis e a divulgação de boas práticas;\n\ni) Assegurar, em colaboração com as demais entidades competentes, a articulação da política de ordenamento do território e de urbanismo com as políticas sectoriais, bem como intervir na elaboração de legislação e regulamentação sectorial e na preparação e execução de políticas, programas e projectos de desenvolvimento territorial, de âmbito nacional, sectorial ou regional;\n\nj) Exercer as actividades necessárias à manutenção e ao aperfeiçoamento do referencial geodésico nacional;\n\nl) Promover, em coordenação com outras entidades, a cobertura cartográfica do território nacional, a elaboração e conservação da carta administrativa oficial (CAOP), bem como a execução, conservação e renovação do cadastro predial, rústico e urbano;\n\nm) Elaborar normas técnicas nacionais de ordenamento de território e urbanismo e de produção e reprodução cartográfica, promover a sua adopção, apoiando e avaliando a sua aplicação, bem como regular o exercício das actividades de geodesia, cartografia e cadastro;\n\nn) Promover, coordenar, apoiar, realizar, participar e divulgar programas e projectos de investigação científica, bem como de desenvolvimento experimental a nível nacional, comunitário e internacional, nos domínios do ordenamento do território, do urbanismo e da informação geográfica;\n\no) Desenvolver, coordenar e gerir os sistemas nacionais de informação territorial e de informação geográfica e os portais do ordenamento do território e do urbanismo e de informação geográfica;\n\np) Promover e coordenar, em colaboração com outras entidades, a implementação da Convenção Europeia da Paisagem no território nacional e participar nos programas comunitários e internacionais que visem o reforço da sustentabilidade, da coesão, da competitividade e da boa governação do território e das cidades, bem como representar o Estado Português nos organismos e comités internacionais relativos ao ordenamento do território, urbanismo e informação geográfica;\n\nq) Desenvolver, divulgar e comercializar produtos e informação técnica ou de aplicação no âmbito do ordenamento do território, do urbanismo, da política de cidades e da informação geográfica, prestando o apoio técnico indispensável à sua utilização."
+  },
+  "70043414": {
+   "fragment_id": "70040427",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - A DGT é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - Junto da DGT funcionam a Comissão Nacional da Reserva Ecológica Nacional, o Conselho Coordenador de Cartografia, o Observatório do Ordenamento do Território e do Urbanismo e o Programa POLIS - Programa de Requalificação Urbana e Valorização Ambiental das Cidades."
+  },
+  "70043415": {
+   "fragment_id": "70040428",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director-geral dirigir e orientar a acção dos órgãos e serviços da DGT.\n\n2 - Os subdirectores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "70043416": {
+   "fragment_id": "70040429",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho científico\n\n1 - O conselho científico é um órgão de consulta, apoio e participação na definição das linhas gerais de actuação e nas tomadas de decisão do director-geral no que se refere à actividade científica da DGT.\n\n2 - O conselho científico é composto por todos os que, a qualquer título, incluindo o de bolseiro, quer sejam cidadãos nacionais ou estrangeiros, exerçam actividade na DGT desde que estejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas a que se refere o n.º 2 do artigo 17.º do Decreto-Lei n.º 219/92, de 15 de Outubro, alterado pelo Decreto-Lei n.º 124/99, de 20 de Abril, ou ainda os que, não possuindo qualquer dessas qualificações, integrem a carreira de investigação em categoria igual ou superior à de investigador auxiliar ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n3 - A qualidade de membro do conselho científico adquire-se, nos termos do disposto no número anterior, na data da constituição do vínculo à DGT, qualquer que seja a sua natureza, e perde-se automaticamente com a cessação desse vínculo.\n\n4 - Compete ao conselho científico:\n\na) Aprovar o seu regulamento interno;\n\nb) Emitir parecer sobre o orçamento, o plano e o relatório anual de actividades da DGT no que se refere à sua actividade científica;\n\nc) Emitir parecer sobre os assuntos que lhe sejam submetidos pelo director-geral;\n\nd) Servir de instância de recurso dos incidentes relativos ao impedimento, à escusa ou suspeição dos membros dos júris de concursos para recrutamento do pessoal de investigação;\n\ne) Exercer as competências atribuídas por lei ao conselho científico, nomeadamente as previstas no regime jurídico das instituições de investigação.\n\n5 - O funcionamento do conselho científico, bem como a designação do seu presidente, constam de regulamento interno a aprovar nos termos do disposto na legislação respeitante às instituições de investigação.\n\n6 - A participação no conselho científico não é remunerada."
+  },
+  "70043417": {
+   "fragment_id": "70040430",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna da DGT obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de actividade de informação cadastral, regulação, planeamento, comunicação e gestão de recursos humanos, financeiros e patrimoniais, e nas áreas de suporte do ordenamento do território e geodesia e cartografia, o modelo de estrutura hierarquizada;\n\nb) Nas áreas operacionais do ordenamento do território e geodesia e cartografia, o modelo de estrutura matricial."
+  },
+  "70043418": {
+   "fragment_id": "70040431",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Delegações regionais\n\n1 - A DGT dispõe de cinco unidades orgânicas desconcentradas no continente, designadas por delegações regionais.\n\n2 - As delegações regionais são dirigidas por chefes de delegação, nos termos a definir em portaria."
+  },
+  "70043419": {
+   "fragment_id": "70040432",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - A DGT dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGT dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela DGT;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) O produto das taxas, que por lei ou regulamento lhe sejam consignadas, ou preços tabelados;\n\ne) O produto de coimas, na parte que legalmente lhe for atribuída;\n\nf) O produto da cedência de direitos de utilização de informação oficial na sua posse, da emissão de certificados e de autenticação de documentos e do fornecimento de reproduções de documentos oficiais, em suporte analógico ou digital;\n\ng) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade da DGT e que pela lei lhe sejam consignados;\n\nh) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela DGT são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas do ordenamento do território e das finanças, tendo em atenção os meios humanos e materiais afectos em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento."
+  },
+  "70043420": {
+   "fragment_id": "70040433",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas\n\nConstituem despesas da DGT as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "70043421": {
+   "fragment_id": "70040434",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º grau e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "70043422": {
+   "fragment_id": "70040435",
+   "type": 11,
+   "heading": "Artigo 11.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão."
+  },
+  "70043423": {
+   "fragment_id": "70040436",
+   "type": 11,
+   "heading": "Artigo 12.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sucessão\n\nA DGT sucede nas atribuições da Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano, do Instituto Geográfico Português e do Gabinete Coordenador do Programa FINISTERRA."
+  },
+  "70043424": {
+   "fragment_id": "70040437",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de selecção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de selecção de pessoal\n\nÉ fixado como critério geral e abstracto de selecção de pessoal necessário à prossecução das atribuições da DGT, o desempenho de funções na Direcção-Geral de Ordenamento do Território e Desenvolvimento Urbano, no Instituto Geográfico Português e no Gabinete Coordenador do Programa FINISTERRA."
+  },
+  "70043425": {
+   "fragment_id": "70040438",
+   "type": 11,
+   "heading": "Artigo 14.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Efeitos revogatórios\n\nNos termos do artigo 39.º do Decreto-Lei n.º 7/2011, de 17 de Janeiro, consideram-se revogados, na data de entrada em vigor do presente decreto regulamentar:\n\na) O Decreto-Lei n.º 133/2007, de 27 de Abril;\n\nb) O Decreto Regulamentar n.º 54/2007, de 27 de Abril;\n\nc) O Despacho Conjunto n.º 1006/2003, de 15 de Outubro, publicado no Diário da República n.º 256, 2.ª série, de 5 de Novembro;\n\nd) O Despacho n.º 9047/2009, de 16 de Fevereiro, publicado no Diário da República n.º 64, 2.ª série, de 1 de Abril."
+  },
+  "70043426": {
+   "fragment_id": "70040439",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "70043427": {
+   "fragment_id": "70040440",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 10.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "70048190": {
+   "fragment_id": "70040426",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGT tem por missão prosseguir as políticas públicas de ordenamento do território e de urbanismo, bem como a criação e manutenção das bases de dados geográficos de referência.\n\n2 - A DGT prossegue as seguintes atribuições:\n\na) Participar na definição da Política Nacional de Ordenamento do Território e do Urbanismo, acompanhando a sua execução e promovendo a sua avaliação;\n\nb) Promover o acompanhamento e avaliação do Programa Nacional de Política de Ordenamento do Território, bem como propor a sua alteração e revisão;\n\nc) Apoiar a definição e a prossecução da política de cidades, nomeadamente através da preparação, coordenação e gestão de programas de cooperação técnica e financeira dirigida à promoção de boas práticas de gestão territorial e à qualificação do território e da gestão urbana, acompanhar e avaliar o funcionamento do sistema de gestão territorial e propor as medidas necessárias ao seu aperfeiçoamento;\n\nd) (Revogada);\n\ne) Coordenar as intervenções previstas no âmbito do Gabinete Coordenador do Programa FINISTERRA, até à sua conclusão;\n\nf) Intervir, nos termos previstos na lei, nos procedimentos de avaliação ambiental e na elaboração, acompanhamento, execução e compatibilização dos instrumentos de gestão territorial, bem como proceder ao respectivo depósito;\n\ng) Apoiar o membro do Governo responsável pela área do ordenamento do território nos procedimentos e nas decisões de gestão territorial da sua competência;\n\nh) Dinamizar, acompanhar, orientar e apoiar tecnicamente as práticas de gestão territorial nos âmbitos nacional, regional e local, promovendo a concertação dos procedimentos e dos critérios técnicos aplicáveis e a divulgação de boas práticas;\n\ni) Assegurar, em colaboração com as demais entidades competentes, a articulação da política de ordenamento do território e de urbanismo com as políticas sectoriais, bem como intervir na elaboração de legislação e regulamentação sectorial e na preparação e execução de políticas, programas e projectos de desenvolvimento territorial, de âmbito nacional, sectorial ou regional;\n\nj) Exercer as actividades necessárias à manutenção e ao aperfeiçoamento do referencial geodésico nacional;\n\nl) Promover, em coordenação com outras entidades, a cobertura cartográfica do território nacional, a elaboração e conservação da carta administrativa oficial (CAOP), bem como a execução, conservação e renovação do cadastro predial, rústico e urbano;\n\nm) Elaborar normas técnicas nacionais de ordenamento de território e urbanismo e de produção e reprodução cartográfica, promover a sua adopção, apoiando e avaliando a sua aplicação, bem como regular o exercício das actividades de geodesia, cartografia e cadastro;\n\nn) Promover, coordenar, apoiar, realizar, participar e divulgar programas e projectos de investigação científica, bem como de desenvolvimento experimental a nível nacional, comunitário e internacional, nos domínios do ordenamento do território, do urbanismo e da informação geográfica;\n\no) Desenvolver, coordenar e gerir os sistemas nacionais de informação territorial e de informação geográfica e os portais do ordenamento do território e do urbanismo e de informação geográfica;\n\np) Promover e coordenar, em colaboração com outras entidades, a implementação da Convenção Europeia da Paisagem no território nacional e participar nos programas comunitários e internacionais que visem o reforço da sustentabilidade, da coesão, da competitividade e da boa governação do território e das cidades, bem como representar o Estado Português nos organismos e comités internacionais relativos ao ordenamento do território, urbanismo e informação geográfica;\n\nq) Desenvolver, divulgar e comercializar produtos e informação técnica ou de aplicação no âmbito do ordenamento do território, do urbanismo, da política de cidades e da informação geográfica, prestando o apoio técnico indispensável à sua utilização.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+  },
+  "70048186": {
+   "fragment_id": "70040427",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - A DGT é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - Junto da DGT funcionam a Comissão Nacional da Reserva Ecológica Nacional, o Conselho Coordenador de Cartografia e o Observatório do Ordenamento do Território e do Urbanismo.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+  },
+  "70048187": {
+   "fragment_id": "70040430",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna da DGT obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de atividade de informação cadastral, regulação, planeamento e comunicação, e nas áreas de suporte do ordenamento do território, geodesia e cartografia, o modelo de estrutura hierarquizada;;\n\nb) Nas áreas operacionais do ordenamento do território e geodesia e cartografia, o modelo de estrutura matricial.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+  },
+  "70048185": {
+   "fragment_id": "70048094",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 5 de Março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "70048189": {
+   "fragment_id": "70040440",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 7.º)",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 7.º)\n\n«ANEXO\n\n(a que se refere o artigo 10.º)\n\nMapa de pessoal dirigente\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+  },
+  "213622565": {
+   "fragment_id": "70040426",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGT tem por missão prosseguir as políticas públicas de ordenamento do território e de urbanismo, bem como a criação e manutenção das bases de dados geográficos de referência.\n\n2 - A DGT prossegue as seguintes atribuições:\n\na) (Revogada);\n\nb) (Revogada);\n\nc) (Revogada);\n\nd) (Revogada);\n\ne) (Revogada);\n\nf) (Revogada);\n\ng) Apoiar o membro do Governo responsável pela área do ordenamento do território nos procedimentos e nas decisões de gestão territorial da sua competência;\n\nh) (Revogada);\n\ni) (Revogada);\n\nj) (Revogada);\n\nl) (Revogada);\n\nm) Elaborar normas técnicas nacionais de ordenamento de território e urbanismo e de produção e reprodução cartográfica, promover a sua adopção, apoiando e avaliando a sua aplicação, bem como regular o exercício das actividades de geodesia, cartografia e cadastro;\n\nn) (Revogada);\n\no) (Revogada);\n\np) (Revogada);\n\nq) Desenvolver, divulgar e comercializar produtos e informação técnica ou de aplicação no âmbito do ordenamento do território, do urbanismo, da política de cidades e da informação geográfica, prestando o apoio técnico indispensável à sua utilização.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08"
+  }
+ }
+}

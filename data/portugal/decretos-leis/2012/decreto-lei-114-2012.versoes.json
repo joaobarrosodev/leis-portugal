@@ -1,0 +1,521 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177829:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-122498969",
+ "dre_path": "/dr/detalhe/decreto-lei/114-2012-177829",
+ "source_lastmod": "2025-06-23",
+ "versions": [
+  {
+   "date": "2012-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922454495",
+    "122497518",
+    "122497519",
+    "122497520",
+    "122497521",
+    "122497522",
+    "122497523",
+    "122497524",
+    "122497525",
+    "122497526",
+    "122497527",
+    "122497528",
+    "122497529",
+    "122497530",
+    "122497531",
+    "122497533",
+    "122497534",
+    "122497535"
+   ]
+  },
+  {
+   "date": "2019-06-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122498959:por",
+     "title": "Decreto-Lei n.º 78/2019",
+     "published": "2019-06-05",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2019-122498959"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "122497517",
+    "122497518",
+    "122497519",
+    "122497520",
+    "122497521",
+    "122497522",
+    "122497523",
+    "122497524",
+    "122497525",
+    "122497526",
+    "122497527",
+    "122497528",
+    "122497529",
+    "122497530",
+    "122497531",
+    "122497532",
+    "922252882",
+    "922252883",
+    "122497535"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558633:por",
+     "title": "Decreto-Lei n.º 36/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122497517",
+    "122497518",
+    "922454482",
+    "122497520",
+    "122497521",
+    "122497522",
+    "122497523",
+    "122497524",
+    "122497525",
+    "122497526",
+    "122497527",
+    "122497528",
+    "122497529",
+    "122497530",
+    "122497531",
+    "122497532",
+    "922252882",
+    "922252883",
+    "122497535"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221225699:por",
+     "title": "Decreto-Lei n.º 78/2023",
+     "published": "2023-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2023-221225699"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922454495",
+    "922454496",
+    "922454497",
+    "922454498",
+    "922454499",
+    "922454500",
+    "922454501",
+    "922454502",
+    "922454503",
+    "922454504",
+    "922454505",
+    "922454506",
+    "922454507",
+    "922454508",
+    "922454509",
+    "922454510",
+    "922454511",
+    "922454512",
+    "922454513"
+   ]
+  }
+ ],
+ "fragments": {
+  "922454495": {
+   "fragment_id": "122498970",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 114/2012\n\nde 25 de maio\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado.Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto, procede-se à reorganização das direções regionais de cultura, mantendo-se as Direções Regionais de Cultura do Norte, Centro, Alentejo e Algarve e extinguindo a Direção Regional de Lisboa e Vale do Tejo. Concretiza-se, deste modo, um processo de otimização de recursos, sendo as atribuições cometidas às direções regionais de cultura na circunscrição territorial de Lisboa e Vale do Tejo prosseguidas pela Direção-Geral do Património Cultural nos domínios da salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial e do apoio a museus e pela direção-geral das artes no domínio do apoio às artes.\n\nAs Direções Regionais de Cultura sucedem, ainda, nas atribuições do Instituto de Gestão do Património Arquitetónico e Arqueológico, I. P., relativas às ações regionais e locais de salvaguarda e acompanhamento do património arqueológico, da emissão de parecer sobre os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à Direção-Geral do Património Cultural. As Direções Regionais de Cultura sucedem ainda nas atribuições do Instituto dos Museus e da Conservação, I. P., relativas a um conjunto de Museus situados nas respetivas circunscrições territoriais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122497518": {
+   "fragment_id": "122498971",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - As Direções Regionais de Cultura, abreviadamente designadas por DRC, são serviços periféricos da administração direta do Estado, dotados de autonomia administrativa.\n\n2 - As DRC exercem as suas atribuições e competências na respetiva circunscrição territorial que corresponde ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, para o território continental, com a seguinte identificação:\n\na) Direção Regional de Cultura do Norte (DRC do Norte), com sede em Vila Real;\n\nb) Direção Regional de Cultura do Centro (DRC do Centro), com sede em Coimbra;\n\nc) Direção Regional de Cultura do Alentejo (DRC do Alentejo), com sede em Évora;\n\nd) Direção Regional de Cultura do Algarve (DRC do Algarve), com sede em Faro.\n\n3 - As atribuições e competências das DRC na circunscrição territorial de Lisboa e Vale do Tejo são exercidas pela Direção-Geral do Património Cultural (DGPC) nos domínios da salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial e do apoio a museus.\n\n4 - As atribuições e competências das DRC na circunscrição territorial de Lisboa e Vale do Tejo são exercidas pela Direção-Geral das Artes (DGARTES) no domínio do apoio às artes.\n\n5 - As DRC dispõem dos serviços dependentes identificados no anexo i ao presente decreto-lei e que dele faz parte integrante."
+  },
+  "122497519": {
+   "fragment_id": "122498972",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - As DRC têm por missão na sua área de atuação geográfica e em articulação com os serviços e organismos da PCM na área da cultura, a criação de condições de acesso aos bens culturais, o acompanhamento das atividades e a fiscalização das estruturas de produção artística financiadas pelos serviços e organismos da área da cultura, o acompanhamento das ações relativas à salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial, e o apoio a museus.\n\n2 - No âmbito das circunscrições territoriais respetivas, as DRC prosseguem as seguintes atribuições:\n\na) Assegurar o acompanhamento das atividades e colaborar na fiscalização das estruturas apoiadas pelos serviços e organismos da Presidência do Conselho de Ministros (PCM) na área da cultura, em articulação com a Direção-Geral das Artes (DGARTES);\n\nb) Apoiar iniciativas culturais locais ou regionais, de caráter não profissional, que, pela sua natureza, correspondam a necessidades ou aptidões específicas da região;\n\nc) Propor à DGPC o plano regional de intervenções prioritárias em matéria de estudo e salvaguarda do património arquitetónico e arqueológico, bem como os programas e projetos anuais e plurianuais da sua conservação, restauro e valorização, assegurando, em articulação com a DGPC, a respetiva promoção e execução;\n\nd) Gerir os monumentos, conjuntos e sítios que lhe forem afetos e assegurar as condições para a sua fruição pelo público;\n\ne) Assegurar a gestão das instituições museológicas que lhe forem afetas.\n\n3 - As DRC prosseguem ainda as seguintes atribuições:\n\na) Pronunciar-se, nos termos da lei, sobre planos, projetos, trabalhos e intervenções de iniciativa pública ou privada a realizar nas zonas de proteção dos imóveis classificados ou em vias de classificação;\n\nb) Acompanhar e fiscalizar a execução de intervenções nas zonas de proteção de imóveis classificados ou em vias de classificação;\n\nc) Pronunciar-se e submeter a apreciação da DGPC os estudos, projetos, relatórios, obras ou intervenções sobre bens culturais classificados como monumento nacional ou interesse público, ou em vias de classificação, e nas zonas de proteção dos imóveis classificados afetos à DGPC;\n\nd) Instruir e submeter à apreciação da DGPC os processos de classificação e fixação das zonas especiais de proteção de imóveis de interesse nacional e de interesse público;\n\ne) Acompanhar, de acordo com as orientações e diretivas emanadas pela DGPC, as ações de salvaguarda e valorização do património arquitetónico e arqueológico;\n\nf) Apoiar e colaborar na inventariação sistemática e atualizada dos bens que integram o património arquitetónico e arqueológico;\n\ng) Participar, nos termos da lei, na elaboração dos planos diretores municipais, bem como apoiar a DGPC na elaboração de estudos de impacte ambiental, dos planos de pormenor de salvaguarda e de reabilitação urbana e demais instrumentos de gestão territorial;\n\nh) Emitir parecer sobre planos, projetos, trabalhos e intervenções de iniciativa pública ou privada com impacto arqueológico no património arqueológico, arquitetónico e paisagístico;\n\ni) Instruir e submeter à apreciação da DGPC os pedidos de autorização para a realização de trabalhos arqueológicos, bem como enviar os respetivos relatórios;\n\nj) Fiscalizar e acompanhar os trabalhos arqueológicos autorizados pela DGPC;\n\nk) Promover a sensibilização e a divulgação de boas práticas para a defesa, valorização do património cultural arquitetónico e arqueológico, nomeadamente através de ações educativas e de formação em articulação com a DGPC;\n\nl) Emitir parecer sobre o manifesto interesse público de projetos enquadráveis no âmbito do mecenato cultural e sobre quaisquer outras matérias que lhe sejam solicitadas no âmbito dos serviços e organismos da área da cultura;\n\nm) Dar apoio técnico, em articulação com a DGPC, a museus integrados na Rede Portuguesa de Museus que não lhe tenham sido afetos;\n\nn) Apoiar a DGPC na inventariação de manifestações culturais tradicionais imateriais, individuais e coletivas, nomeadamente através do seu registo videográfico, fonográfico e fotográfico;\n\no) Articular-se com outras entidades públicas ou privadas que prossigam atribuições ou objetivos afins na respetiva área de intervenção, com a finalidade de incentivar formas de cooperação integrada a desenvolver e concretizar mediante protocolos ou contratos-programas.\n\n4 - Para efeito do disposto na alínea a) do número anterior, as DRC são competentes para a emissão dos pareceres prévios a que se refere o artigo 51.º do Decreto-Lei n.º 309/2009, de 23 de outubro, salvo nas zonas de proteção dos imóveis afetos à DGPC.\n\n5 - As DRC possuem capacidade editorial própria, em suportes distintos, podendo proceder à venda, assegurando os direitos de autor e editoriais."
+  },
+  "122497520": {
+   "fragment_id": "122498973",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - As DRC são dirigidas por um diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional:\n\na) Propor ao membro do Governo responsável pela área da cultura o embargo administrativo de obras ou trabalhos nas zonas de proteção de imóveis classificados de interesse nacional ou de interesse público, ou em vias de classificação como tal, executadas em desconformidade com a lei, salvo nas zonas de proteção dos imóveis afetos à DGPC;\n\nb) Exercer o direito de preferência sobre bens imóveis situados nas zonas de proteção de imóveis classificados ou em vias de classificação, nos termos da lei, salvo nas zonas de proteção dos imóveis afetos à DGPC;\n\nc) Celebrar contratos com vista à identificação, reconhecimento, conservação, segurança, restauro, valorização e divulgação do património cultural que lhe esteja afeto, bem como, mediante autorização prévia do membro do Governo responsável pela área da cultura, a concessão ou delegação de tarefas, desde que não envolvam habilitação para a prática de atos administrativos de classificação ou inventariação, nos termos da lei;\n\nd) Autorizar, fundamentada e excecionalmente, o acesso gratuito aos monumentos, conjuntos e sítios, bem como a cedência temporária de espaços;\n\ne) Autorizar a realização de filmagens e tomada de imagens;\n\nf) Assegurar, no âmbito das respetivas atribuições, a representação da DRC em sede da elaboração dos planos diretores municipais.\n\n3 - O diretor regional identifica o titular de cargo de direção intermédia que o substitui nas suas faltas e impedimentos."
+  },
+  "122497521": {
+   "fragment_id": "122498974",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipo de organização interna\n\nA organização interna das DRC obedece ao modelo de estrutura hierarquizada."
+  },
+  "122497522": {
+   "fragment_id": "122518175",
+   "type": 11,
+   "heading": "Artigo 5.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Receitas\n\n1 - As DRC dispõem das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - As DRC dispõem ainda das seguintes receitas próprias:\n\na) As receitas geradas pelos serviços dependentes ou pelos bens imóveis afetos;\n\nb) Os subsídios e comparticipações atribuídos por quaisquer entidades, públicas ou privadas, nacionais ou internacionais;\n\nc) As doações, heranças e legados;\n\nd) As taxas devidas pela emissão de pareceres, autorizações, certidões, cópias, fotocópias e peças de desenho, legalmente previstas;\n\ne) As receitas provenientes da prestação de serviços, designadamente de estudos, pareceres, consultadoria e de apoio técnico;\n\nf) As receitas decorrentes da cedência temporária de espaços para a realização de atividades e a recolha ou a cedência de imagens;\n\ng) O produto de edições ou reedições, de publicações e de reproduções ou adaptações de obras de arte, bem como de outros produtos relacionados com o património cultural arquitetónico, arqueológico e imaterial;\n\nh) As receitas arrecadadas ao abrigo da lei do mecenato;\n\ni) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas das DRC durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.\n\n4 - Os donativos efetuados às DRC são considerados de interesse público, beneficiando automaticamente da aplicação do regime jurídico do mecenato.\n\n5 - Os serviços prestados pelas DRC são remunerados segundo critérios e tabelas a aprovar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura."
+  },
+  "122497523": {
+   "fragment_id": "122518176",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas das DRC as que resultem de encargos decorrentes da prossecução das atribuições que lhes estão cometidas."
+  },
+  "122497524": {
+   "fragment_id": "122518177",
+   "type": 11,
+   "heading": "Artigo 7.º — Afetação de património e intervenção regional e local no domínio arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Afetação de património e intervenção regional e local no domínio arqueológico\n\n1 - A afetação ou desafetação às DRC da gestão de bens imóveis classificados é feita por portaria dos membros do Governo responsáveis pelas áreas das finanças e da cultura.\n\n2 - Sem prejuízo do disposto no número anterior, mantêm-se afetos, respetivamente, à DRC Norte, à DRC Centro, à DRC Alentejo e à DRC Algarve os imóveis identificados na portaria n.º 1130/2007, publicada no Diário da República, 2.ª série, n.º 245, de 20 de dezembro, alterada pela portaria n.º 829/2009, publicada no Diário da República, 2.ª série, n.º 163, de 24 de agosto de 2009.\n\n3 - Ficam afetos às DRC os imóveis identificados no anexo ii ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "122497525": {
+   "fragment_id": "122518178",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do mapa do anexo iii ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "122497526": {
+   "fragment_id": "122518179",
+   "type": 11,
+   "heading": "Artigo 9.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Poderes de autoridade\n\nNo exercício das suas funções os dirigentes e os trabalhadores das DRC gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de proteção e valorização do património cultural e demais legislação regulamentar, quando em serviço e sempre que tal se demonstre necessário à aplicação dos respetivos regimes jurídicos."
+  },
+  "122497527": {
+   "fragment_id": "122518180",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenção de licenciamento e de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Isenção de licenciamento e de taxas\n\nAs obras promovidas pelas DRC, nos imóveis que lhes estejam afetos e nos serviços dependentes, estão isentas de licenciamento ou autorização e do pagamento de quaisquer taxas."
+  },
+  "122497528": {
+   "fragment_id": "122518181",
+   "type": 11,
+   "heading": "Artigo 11.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sucessão\n\nAs DRC sucedem nas atribuições:\n\na) Do Instituto de Gestão do Património Arquitetónico e Arqueológico, I. P., relativas às ações regionais e locais de salvaguarda e acompanhamento do património arqueológico, da emissão de parecer sobre os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à DGPC;\n\nb) Do Instituto dos Museus e Conservação, I. P., relativas ao Museu Abade do Baçal, Museu Alberto de Sampaio, Paço dos Duques, Museu dos Biscainhos, Museu D. Diogo de Sousa, Museu de Lamego, Museu de Etnologia do Porto, Museu da Terra de Miranda, Museu de Aveiro, Museu Francisco Tavares Proença Júnior, Museu da Guarda, Museu da Cerâmica, Museu José Malhoa, Museu Etnográfico e Etnológico Dr. Joaquim Manso e Museu de Évora."
+  },
+  "122497529": {
+   "fragment_id": "122518182",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de seleção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de seleção do pessoal\n\nSão fixados como critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições das DRC:\n\na) O desempenho de funções no Instituto de Gestão do Património Arquitetónico e Arqueológico, I. P., nas ações regionais e locais de salvaguarda e acompanhamento do património arqueológico;\n\nb) O desempenho de funções nos seguintes serviços dependentes do Instituto dos Museus e Conservação, I. P.:\n\ni) Museu do Abade de Baçal;\n\nii) Museu Alberto de Sampaio;\n\niii) Paço dos Duques;\n\niv) Museu dos Biscainhos;\n\nv) Museu D. Diogo de Sousa;\n\nvi) Museu de Lamego;\n\nvii) Museu de Etnologia do Porto;\n\nviii) Museu da Terra de Miranda;\n\nix) Museu de Aveiro;\n\nx) Museu Francisco Tavares Proença Júnior;\n\nxi) Museu da Guarda;\n\nxii) Museu da Cerâmica;\n\nxiii) Museu José Malhoa;\n\nxiv) Museu Etnográfico e Etnológico Dr. Joaquim Manso;\n\nxv) Museu de Évora."
+  },
+  "122497530": {
+   "fragment_id": "122518183",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 34/2007, de 29 de março."
+  },
+  "122497531": {
+   "fragment_id": "122518184",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "122497533": {
+   "fragment_id": "122518186",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 5 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 5 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "122497534": {
+   "fragment_id": "122518187",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 7.º)\n\n(ver documento original)\n\n> Nota: [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649) No presente anexo, onde se lê: «Edifício dos antigos Paços Episcopais, também designado por Museu de Évora» deve ler-se: «Edifício dos antigos Paços Episcopais, também designado por Museu de Évora que tem como anexo a Igreja das Mercês.»"
+  },
+  "122497535": {
+   "fragment_id": "122518188",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 8.º)\n\n(ver documento original)"
+  },
+  "122497517": {
+   "fragment_id": "122498970",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 114/2012\n\nde 25 de maio\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado.Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto, procede-se à reorganização das direções regionais de cultura, mantendo-se as Direções Regionais de Cultura do Norte, Centro, Alentejo e Algarve e extinguindo a Direção Regional de Lisboa e Vale do Tejo. Concretiza-se, deste modo, um processo de otimização de recursos, sendo as atribuições cometidas às direções regionais de cultura na circunscrição territorial de Lisboa e Vale do Tejo prosseguidas pela Direção-Geral do Património Cultural nos domínios da salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial e do apoio a museus e pela direção-geral das artes no domínio do apoio às artes.\n\nAs Direções Regionais de Cultura sucedem, ainda, nas atribuições do Instituto de Gestão do Património Arquitetónico e Arqueológico, I. P., relativas às ações regionais e locais de salvaguarda e acompanhamento do património arqueológico, da emissão de parecer sobre os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à Direção-Geral do Património Cultural. As Direções Regionais de Cultura sucedem ainda nas atribuições do Instituto dos Museus e da Conservação, I. P., relativas a um conjunto de Museus situados nas respetivas circunscrições territoriais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122497532": {
+   "fragment_id": "122518185",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de abril de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento.\n\nPromulgado em 10 de maio de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de maio de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "922252882": {
+   "fragment_id": "122518186",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 5 do artigo 1.º)",
+   "in_force_from": "2019-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 5 do artigo 1.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10"
+  },
+  "922252883": {
+   "fragment_id": "122518187",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 7.º)",
+   "in_force_from": "2019-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10",
+    "Retificado pelo/a [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649), produz efeitos a partir de 2012-06-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 7.º)\n\n(ver documento original)\n\n> Nota: [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649) No presente anexo, onde se lê: «Edifício dos antigos Paços Episcopais, também designado por Museu de Évora» deve ler-se: «Edifício dos antigos Paços Episcopais, também designado por Museu de Évora que tem como anexo a Igreja das Mercês.»\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10\n\n> Retificado pelo/a [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649), produz efeitos a partir de 2012-06-01"
+  },
+  "922454482": {
+   "fragment_id": "122498972",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - As DRC têm por missão na sua área de atuação geográfica e em articulação com os serviços e organismos da PCM na área da cultura, a criação de condições de acesso aos bens culturais, o acompanhamento das atividades e a fiscalização das estruturas de produção artística financiadas pelos serviços e organismos da área da cultura, o acompanhamento das ações relativas à salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial, e o apoio a museus.\n\n2 - No âmbito das circunscrições territoriais respetivas, as DRC prosseguem as seguintes atribuições:\n\na) (Revogado).\n\nb) (Revogado).\n\nc) (Revogado).\n\nd) Gerir os monumentos, conjuntos e sítios que lhe forem afetos e assegurar as condições para a sua fruição pelo público;\n\ne) Assegurar a gestão das instituições museológicas que lhe forem afetas.\n\n3 - As DRC prosseguem ainda as seguintes atribuições:\n\na) Pronunciar-se, nos termos da lei, sobre planos, projetos, trabalhos e intervenções de iniciativa pública ou privada a realizar nas zonas de proteção dos imóveis classificados ou em vias de classificação;\n\nb) (Revogado).\n\nc) (Revogado).\n\nd) (Revogado).\n\ne) (Revogado).\n\nf) (Revogado).\n\ng) Participar, nos termos da lei, na elaboração dos planos diretores municipais, bem como apoiar a DGPC na elaboração de estudos de impacte ambiental, dos planos de pormenor de salvaguarda e de reabilitação urbana e demais instrumentos de gestão territorial;\n\nh) (Revogado).\n\ni) (Revogado).\n\nj)(Revogado).\n\nk) (Revogado).\n\nl) (Revogado).\n\nm) (Revogado).\n\nn) (Revogado).\n\no) (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+  },
+  "922454496": {
+   "fragment_id": "122498971",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - As Direções Regionais de Cultura, abreviadamente designadas por DRC, são serviços periféricos da administração direta do Estado, dotados de autonomia administrativa.\n\n2 - As DRC exercem as suas atribuições e competências na respetiva circunscrição territorial que corresponde ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, para o território continental, com a seguinte identificação:\n\na) Direção Regional de Cultura do Norte (DRC do Norte), com sede em Vila Real;\n\nb) Direção Regional de Cultura do Centro (DRC do Centro), com sede em Coimbra;\n\nc) Direção Regional de Cultura do Alentejo (DRC do Alentejo), com sede em Évora;\n\nd) Direção Regional de Cultura do Algarve (DRC do Algarve), com sede em Faro.\n\n3 - As atribuições e competências das DRC na circunscrição territorial de Lisboa e Vale do Tejo são exercidas pela Direção-Geral do Património Cultural (DGPC) nos domínios da salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial e do apoio a museus.\n\n4 - As atribuições e competências das DRC na circunscrição territorial de Lisboa e Vale do Tejo são exercidas pela Direção-Geral das Artes (DGARTES) no domínio do apoio às artes.\n\n5 - As DRC dispõem dos serviços dependentes identificados no anexo i ao presente decreto-lei e que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454497": {
+   "fragment_id": "122498972",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - As DRC têm por missão na sua área de atuação geográfica e em articulação com os serviços e organismos da PCM na área da cultura, a criação de condições de acesso aos bens culturais, o acompanhamento das atividades e a fiscalização das estruturas de produção artística financiadas pelos serviços e organismos da área da cultura, o acompanhamento das ações relativas à salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial, e o apoio a museus.\n\n2 - No âmbito das circunscrições territoriais respetivas, as DRC prosseguem as seguintes atribuições:\n\na) (Revogado).\n\nb) (Revogado).\n\nc) (Revogado).\n\nd) Gerir os monumentos, conjuntos e sítios que lhe forem afetos e assegurar as condições para a sua fruição pelo público;\n\ne) Assegurar a gestão das instituições museológicas que lhe forem afetas.\n\n3 - As DRC prosseguem ainda as seguintes atribuições:\n\na) Pronunciar-se, nos termos da lei, sobre planos, projetos, trabalhos e intervenções de iniciativa pública ou privada a realizar nas zonas de proteção dos imóveis classificados ou em vias de classificação;\n\nb) (Revogado).\n\nc) (Revogado).\n\nd) (Revogado).\n\ne) (Revogado).\n\nf) (Revogado).\n\ng) Participar, nos termos da lei, na elaboração dos planos diretores municipais, bem como apoiar a DGPC na elaboração de estudos de impacte ambiental, dos planos de pormenor de salvaguarda e de reabilitação urbana e demais instrumentos de gestão territorial;\n\nh) (Revogado).\n\ni) (Revogado).\n\nj)(Revogado).\n\nk) (Revogado).\n\nl) (Revogado).\n\nm) (Revogado).\n\nn) (Revogado).\n\no) (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+  },
+  "922454498": {
+   "fragment_id": "122498973",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - As DRC são dirigidas por um diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional:\n\na) Propor ao membro do Governo responsável pela área da cultura o embargo administrativo de obras ou trabalhos nas zonas de proteção de imóveis classificados de interesse nacional ou de interesse público, ou em vias de classificação como tal, executadas em desconformidade com a lei, salvo nas zonas de proteção dos imóveis afetos à DGPC;\n\nb) Exercer o direito de preferência sobre bens imóveis situados nas zonas de proteção de imóveis classificados ou em vias de classificação, nos termos da lei, salvo nas zonas de proteção dos imóveis afetos à DGPC;\n\nc) Celebrar contratos com vista à identificação, reconhecimento, conservação, segurança, restauro, valorização e divulgação do património cultural que lhe esteja afeto, bem como, mediante autorização prévia do membro do Governo responsável pela área da cultura, a concessão ou delegação de tarefas, desde que não envolvam habilitação para a prática de atos administrativos de classificação ou inventariação, nos termos da lei;\n\nd) Autorizar, fundamentada e excecionalmente, o acesso gratuito aos monumentos, conjuntos e sítios, bem como a cedência temporária de espaços;\n\ne) Autorizar a realização de filmagens e tomada de imagens;\n\nf) Assegurar, no âmbito das respetivas atribuições, a representação da DRC em sede da elaboração dos planos diretores municipais.\n\n3 - O diretor regional identifica o titular de cargo de direção intermédia que o substitui nas suas faltas e impedimentos.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454499": {
+   "fragment_id": "122498974",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipo de organização interna",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Tipo de organização interna\n\nA organização interna das DRC obedece ao modelo de estrutura hierarquizada.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454500": {
+   "fragment_id": "122518175",
+   "type": 11,
+   "heading": "Artigo 5.º — Receitas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Receitas\n\n1 - As DRC dispõem das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - As DRC dispõem ainda das seguintes receitas próprias:\n\na) As receitas geradas pelos serviços dependentes ou pelos bens imóveis afetos;\n\nb) Os subsídios e comparticipações atribuídos por quaisquer entidades, públicas ou privadas, nacionais ou internacionais;\n\nc) As doações, heranças e legados;\n\nd) As taxas devidas pela emissão de pareceres, autorizações, certidões, cópias, fotocópias e peças de desenho, legalmente previstas;\n\ne) As receitas provenientes da prestação de serviços, designadamente de estudos, pareceres, consultadoria e de apoio técnico;\n\nf) As receitas decorrentes da cedência temporária de espaços para a realização de atividades e a recolha ou a cedência de imagens;\n\ng) O produto de edições ou reedições, de publicações e de reproduções ou adaptações de obras de arte, bem como de outros produtos relacionados com o património cultural arquitetónico, arqueológico e imaterial;\n\nh) As receitas arrecadadas ao abrigo da lei do mecenato;\n\ni) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas das DRC durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.\n\n4 - Os donativos efetuados às DRC são considerados de interesse público, beneficiando automaticamente da aplicação do regime jurídico do mecenato.\n\n5 - Os serviços prestados pelas DRC são remunerados segundo critérios e tabelas a aprovar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454501": {
+   "fragment_id": "122518176",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas das DRC as que resultem de encargos decorrentes da prossecução das atribuições que lhes estão cometidas.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454502": {
+   "fragment_id": "122518177",
+   "type": 11,
+   "heading": "Artigo 7.º — Afetação de património e intervenção regional e local no domínio arqueológico",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Afetação de património e intervenção regional e local no domínio arqueológico\n\n1 - A afetação ou desafetação às DRC da gestão de bens imóveis classificados é feita por portaria dos membros do Governo responsáveis pelas áreas das finanças e da cultura.\n\n2 - Sem prejuízo do disposto no número anterior, mantêm-se afetos, respetivamente, à DRC Norte, à DRC Centro, à DRC Alentejo e à DRC Algarve os imóveis identificados na portaria n.º 1130/2007, publicada no Diário da República, 2.ª série, n.º 245, de 20 de dezembro, alterada pela portaria n.º 829/2009, publicada no Diário da República, 2.ª série, n.º 163, de 24 de agosto de 2009.\n\n3 - Ficam afetos às DRC os imóveis identificados no anexo ii ao presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454503": {
+   "fragment_id": "122518178",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direção",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do mapa do anexo iii ao presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454504": {
+   "fragment_id": "122518179",
+   "type": 11,
+   "heading": "Artigo 9.º — Poderes de autoridade",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Poderes de autoridade\n\nNo exercício das suas funções os dirigentes e os trabalhadores das DRC gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de proteção e valorização do património cultural e demais legislação regulamentar, quando em serviço e sempre que tal se demonstre necessário à aplicação dos respetivos regimes jurídicos.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454505": {
+   "fragment_id": "122518180",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenção de licenciamento e de taxas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Isenção de licenciamento e de taxas\n\nAs obras promovidas pelas DRC, nos imóveis que lhes estejam afetos e nos serviços dependentes, estão isentas de licenciamento ou autorização e do pagamento de quaisquer taxas.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454506": {
+   "fragment_id": "122518181",
+   "type": 11,
+   "heading": "Artigo 11.º — Sucessão",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Sucessão\n\nAs DRC sucedem nas atribuições:\n\na) Do Instituto de Gestão do Património Arquitetónico e Arqueológico, I. P., relativas às ações regionais e locais de salvaguarda e acompanhamento do património arqueológico, da emissão de parecer sobre os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à DGPC;\n\nb) Do Instituto dos Museus e Conservação, I. P., relativas ao Museu Abade do Baçal, Museu Alberto de Sampaio, Paço dos Duques, Museu dos Biscainhos, Museu D. Diogo de Sousa, Museu de Lamego, Museu de Etnologia do Porto, Museu da Terra de Miranda, Museu de Aveiro, Museu Francisco Tavares Proença Júnior, Museu da Guarda, Museu da Cerâmica, Museu José Malhoa, Museu Etnográfico e Etnológico Dr. Joaquim Manso e Museu de Évora.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454507": {
+   "fragment_id": "122518182",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de seleção do pessoal",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de seleção do pessoal\n\nSão fixados como critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições das DRC:\n\na) O desempenho de funções no Instituto de Gestão do Património Arquitetónico e Arqueológico, I. P., nas ações regionais e locais de salvaguarda e acompanhamento do património arqueológico;\n\nb) O desempenho de funções nos seguintes serviços dependentes do Instituto dos Museus e Conservação, I. P.:\n\ni) Museu do Abade de Baçal;\n\nii) Museu Alberto de Sampaio;\n\niii) Paço dos Duques;\n\niv) Museu dos Biscainhos;\n\nv) Museu D. Diogo de Sousa;\n\nvi) Museu de Lamego;\n\nvii) Museu de Etnologia do Porto;\n\nviii) Museu da Terra de Miranda;\n\nix) Museu de Aveiro;\n\nx) Museu Francisco Tavares Proença Júnior;\n\nxi) Museu da Guarda;\n\nxii) Museu da Cerâmica;\n\nxiii) Museu José Malhoa;\n\nxiv) Museu Etnográfico e Etnológico Dr. Joaquim Manso;\n\nxv) Museu de Évora.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454508": {
+   "fragment_id": "122518183",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 34/2007, de 29 de março.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454509": {
+   "fragment_id": "122518184",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454510": {
+   "fragment_id": "122518185",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de abril de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento.\n\nPromulgado em 10 de maio de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de maio de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  },
+  "922454511": {
+   "fragment_id": "122518186",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 5 do artigo 1.º)",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 5 do artigo 1.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10"
+  },
+  "922454512": {
+   "fragment_id": "122518187",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 7.º)",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10",
+    "Retificado pelo/a [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649), produz efeitos a partir de 2012-06-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 7.º)\n\n(ver documento original)\n\n> Nota: [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649) No presente anexo, onde se lê: «Edifício dos antigos Paços Episcopais, também designado por Museu de Évora» deve ler-se: «Edifício dos antigos Paços Episcopais, também designado por Museu de Évora que tem como anexo a Igreja das Mercês.»\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959), em vigor a partir de 2019-06-10\n\n> Retificado pelo/a [Declaração de Retificação n.º 39-A/2012 - Diário da República n.º 142/2012, 1º Suplemento, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2012-313649), produz efeitos a partir de 2012-06-01"
+  },
+  "922454513": {
+   "fragment_id": "122518188",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 8.º)",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo III — (a que se refere o artigo 8.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699), em vigor a partir de 2024-01-01"
+  }
+ }
+}

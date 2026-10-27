@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0792:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0792-20020101",
+ "dre_path": null,
+ "source_lastmod": "2002-01-01",
+ "versions": [
+  {
+   "date": "2001-11-15",
+   "future": false,
+   "celex": "32001D0792",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5462af844054f6f4",
+    "a29f1d89248c5f7d",
+    "7852ae1b9d0d0b60",
+    "6aeeb1b055494849",
+    "0dae6001a5962320",
+    "a2afee486bdd4311",
+    "1eef8fb0ee09cca7",
+    "81c73d4e18486945",
+    "3c6fc6b527983e93",
+    "0cf2beaf19629765",
+    "2962e5993e6442b5",
+    "210d5c6dfedd4406",
+    "5a36b07236cd9fee"
+   ]
+  }
+ ],
+ "fragments": {
+  "5462af844054f6f4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2001/792/CE,Euratom: Decisão do Conselho, de 23 de Outubro de 2001, que estabelece um mecanismo comunitário destinado a facilitar uma cooperação reforçada no quadro das intervenções de socorro da Protecção Civil** *Jornal Oficial nº L 297 de 15/11/2001 p. 0007 - 0011*\n\nDecisão do Conselho\n\nde 23 de Outubro de 2001\n\nque estabelece um mecanismo comunitário destinado a facilitar uma cooperação reforçada no quadro das intervenções de socorro da Protecção Civil\n\n(2001/792/CE, Euratom)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 308.o, bem como o Tratado que institui a Comunidade Europeia da Energia Atómica, e, nomeadamente, o seu artigo 203.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nTendo em conta o parecer do Comité das Regiões(4),\n\nConsiderando o seguinte:\n\n(1) Embora as acções levadas a cabo pela Comunidade para implementar a Resolução do Conselho de 8 de Julho de 1991, relativa à melhoria da assistência mútua entre os Estados-Membros em caso de catástrofe natural ou tecnológica(5) tenham contribuído para proteger as pessoas, o ambiente e os bens, é agora necessário garantir uma maior protecção em caso de catástrofes naturais, tecnológicas, radiológicas e ambientais, incluindo a poluição marinha acidental, ocorridas dentro e fora da União Europeia, e reforçar as disposições da citada resolução.\n\n(2) A Convenção da Comissão Económica para a Europa das Nações Unidas, sobre os Efeitos Transfronteiriços dos Acidentes Industriais, que contém disposições sobre questões como a prevenção, a preparação para situações de emergência, a informação e a participação do público, os sistemas de notificação de acidentes industriais, a capacidade de resposta e a assistência mútua, entrou em vigor em 19 de Abril de 2000. A Convenção foi aprovada pela Comunidade pela Decisão do Conselho 98/685/CE(6).\n\n(3) Um mecanismo destinado a facilitar uma cooperação reforçada no quadro das intervenções de socorro da Protecção Civil poderá complementar o actual Programa de Acção Comunitária no Domínio da Protecção Civil(7), disponibilizando o apoio em casos de emergência grave que exijam uma acção urgente. O mecanismo facilitará a mobilização das equipas de intervenção, de peritos e de outros recursos necessários, através de uma estrutura comunitária reforçada de Protecção Civil composta por um centro de Informação e Vigilância e por um sistema comum de comunicação e informação de emergência. Este mecanismo permitirá igualmente a recolha de informações validadas sobre situações de emergência, a sua divulgação aos Estados-Membros, bem como a partilha dos ensinamentos extraídos das intervenções realizadas.\n\n(4) Esse mecanismo tomará em devida conta a legislação comunitária pertinente e os compromissos internacionais da Comunidade Europeia. A presente decisão não deverá, por conseguinte, afectar os direitos e obrigações recíprocos dos Estados-Membros no âmbito de tratados bilaterais e multilaterais relacionados com as matérias por ela abrangidas.\n\n(5) A prevenção é de primordial importância para a protecção contra as catástrofes naturais, tecnológicas e ambientais e requer que sejam estudadas mais acções.\n\n(6) Em caso de ocorrência ou de ameaça de ocorrência iminente de uma situação de emergência grave no território da Comunidade, que provoque ou possa provocar efeitos transfronteiriços ou que possa dar origem a um pedido de assistência por parte de um ou mais Estados-Membros, é necessário notificar a situação, de modo adequado, através de um sistema comum e fiável de comunicação e informação de emergência.\n\n(7) Há que tomar medidas preparatórias a nível comunitário e dos Estados-Membros que permitam mobilizar rapidamente e coordenar com a flexibilidade necessária as equipas de intervenção de socorro em casos de emergência e garantir, através de um programa de formação, uma capacidade de resposta eficaz e a complementaridade das equipas de avaliação e/ou de coordenação, das equipas de intervenção e de outros recursos, conforme for adequado. Outras medidas preparatórias incluirão a centralização das informações acerca dos recursos médicos necessários e o incentivo à utilização das novas tecnologias.\n\n(8) De acordo com o princípio da subsidiariedade, um mecanismo comunitário proporcionará uma mais-valia ao apoiar e completar as políticas nacionais no âmbito da assistência mútua em matéria de Protecção Civil. Se o Estado-Membro requerente não estiver suficientemente preparado, em termos de recursos disponíveis, para dar resposta adequada a uma emergência grave, poderá colmatar essa insuficiência recorrendo a esse mecanismo comunitário.\n\n(9) O mecanismo previsto deve possibilitar a mobilização e facilitar a coordenação das intervenções de socorro, por forma a contribuir para que seja assegurada uma melhor protecção, essencialmente das pessoas, mas também do meio ambiente e dos bens, incluindo o património cultural, reduzindo dessa forma a perda de vidas humanas, o número de feridos e os danos materiais, económicos e ambientais e tornando mais palpável a realização dos objectivos de coesão social e de solidariedade.\n\n(10) As regiões isoladas e periféricas e determinadas outras zonas da Comunidade apresentam muitas vezes características e necessidades especiais em virtude da sua situação geográfica, do tipo de terreno e de circunstâncias sociais e económicas. Tais características são-lhes desfavoráveis, impedem a utilização dos socorros e dos recursos de intervenção, dificultando a prestação de auxílio e o fornecimento de meios de socorro, e criam necessidades particulares de assistência em situações de sério risco de emergência grave. O referido mecanismo comunitário permitirá igualmente que seja dada uma melhor resposta a estas situações e necessidades.\n\n(11) Quanto às intervenções de socorro da Protecção Civil fora da Comunidade, poderá utilizar-se o mecanismo como instrumento destinado a facilitar e apoiar as acções levadas a cabo pela Comunidade e pelos Estados-Membros, no âmbito das respectivas competências.\n\n(12) O referido mecanismo comunitário poderá também, em condições a determinar, constituir um instrumento para facilitar e apoiar a gestão de crises a que se refere o Título V do Tratado da União Europeia.\n\n(13) As intervenções de socorro serão conduzidas a título autónomo ou como contributo para uma operação liderada por uma organização internacional, devendo nesse caso a Comunidade desenvolver as suas relações com as organizações internacionais competentes a nível mundial e regional.\n\n(14) A participação nesse mecanismo estará aberta aos países candidatos.\n\n(15) É necessário melhorar a transparência e consolidar e reforçar as várias acções existentes no domínio da Protecção Civil para continuar a dar cumprimento aos objectivos do Tratado.\n\n(16) As medidas necessárias para a execução da presente decisão deverão ser adoptadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999(8), que fixa as regras de exercício das competências de execução atribuídas à Comissão.\n\n(17) O recurso a um Comité único para o mecanismo comunitário actual e para o Programa de Acção Comunitária no Domínio da Protecção Civil deverá garantir a coerência e a complementaridade na implementação do mecanismo.\n\n(18) O Tratado que institui a Comunidade Europeia e o Tratado que institui a Comunidade Europeia da Energia Atómica não prevêem, para a aprovação da presente decisão, outros poderes para além dos previstos respectivamente nos artigos 308.o e 203.o,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "a29f1d89248c5f7d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É instituído um mecanismo comunitário (a seguir denominado \"o mecanismo\") destinado a facilitar uma cooperação reforçada entre a Comunidade e os Estados-Membros em intervenções de socorro da Protecção Civil, em situações de ocorrência ou de ameaça de ocorrência iminente de uma emergência grave, que possam exigir uma resposta urgente.\n\n2. O mecanismo destina-se a contribuir para assegurar uma maior protecção, essencialmente das pessoas, mas também do ambiente e dos bens, nomeadamente do património cultural, em situações de emergência grave, ou seja, catástrofes naturais, tecnológicas, radiológicas ou ambientais, dentro ou fora da Comunidade, incluindo a poluição marinha acidental, tal como consta da Decisão n.o 2850/2000/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2000, que define um quadro comunitário para a cooperação no domínio da poluição marinha acidental ou deliberada(9).\n\nO mecanismo não prejudica as obrigações contraídas nos termos da legislação pertinente da Comunidade ou da Comunidade Europeia da Energia Atómica, ou dos acordos internacionais aplicáveis.\n\nO objectivo geral do mecanismo consiste em fornecer apoio nos citados casos de emergência, sempre que solicitado, e em facilitar uma melhor coordenação da intervenção de socorro por parte dos Estados-Membros e da Comunidade, tomando em consideração as necessidades especiais das ilhas ou de outras regiões isoladas e ultraperiféricas da Comunidade.\n\n3. O mecanismo consiste numa série de elementos e acções, que incluem:\n\n- a identificação das equipas de intervenção e outros meios de intervenção disponíveis nos Estados-Membros para uma intervenção de socorro em situações de emergência;\n\n- a criação e implementação de um programa de formação para as equipas de intervenção e demais meios humanos de apoio à intervenção, bem como para os peritos das equipas de avaliação e/ou coordenação;\n\n- seminários, colóquios e projectos-piloto sobre os principais aspectos das intervenções;\n\n- a constituição e, sempre que necessário, o envio de equipas de avaliação e/ou coordenação;\n\n- a criação e gestão de um Centro de Informação e Vigilância;\n\n- a criação e gestão de um sistema comum de comunicação e informação de emergência;\n\n- outras acções de apoio, tais como medidas destinadas a facilitar o transporte de recursos para intervenções de socorro."
+  },
+  "7852ae1b9d0d0b60": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Em caso de ocorrência ou de ameaça de ocorrência iminente de uma situação de emergência grave no território da Comunidade, que provoque ou possa provocar efeitos transfronteiriços ou resultar num pedido de assistência por parte de um ou mais Estados-Membros, o Estado-Membro em que ocorreu a situação de emergência deve notificar sem demora:\n\na) Os Estados-Membros que possam ser afectados por essa emergência, a não ser que já tenha sido dado seguimento à obrigação de notificação ao abrigo da legislação pertinente da Comunidade ou da Comunidade Europeia da Energia Atómica, ou de acordos internacionais existentes e\n\nb) A Comissão, sempre que seja possível prever um eventual pedido de assistência através do Centro de Informação e Vigilância, para que a Comissão possa, se necessário, informar os outros Estados-Membros e fazer intervir os seus serviços competentes.\n\n2. Essa notificação será feita, se necessário, através do sistema de comunicação e informação."
+  },
+  "6aeeb1b055494849": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara poderem intervir eficazmente em caso de uma situação de emergência grave, os Estados-Membros devem:\n\na) No âmbito dos serviços competentes e, designadamente, dos seus serviços de Protecção Civil ou de outros serviços de emergência, identificar previamente as equipas que poderão estar disponíveis para essas intervenções ou ser constituídas para intervir num prazo muito curto, de modo a serem enviadas, geralmente 12 horas após o pedido de assistência, tendo em conta o facto de que a composição das equipas deve depender do tipo de emergência grave e das necessidades específicas dessa emergência;\n\nb) Seleccionar peritos que possam ser chamados a intervir no local da emergência, no âmbito de uma equipa de avaliação e/ou coordenação;\n\nc) No prazo de seis meses após a aprovação da presente decisão, fornecer informações gerais e pertinentes sobre essas equipas e peritos, bem como sobre os recursos médicos nos termos da alínea e) do artigo 4.o e, se necessário, actualizar rapidamente essas informações;\n\nd) Considerar a possibilidade de fornecer igualmente, se necessário, outros meios de intervenção que possam estar disponíveis nos serviços competentes, como pessoal e equipamento especializado para lidar com determinadas emergências, e de utilizar os recursos que possam ser disponibilizados por organizações não governamentais e outras entidades;\n\ne) Para efeitos de aplicação da presente decisão, nomear as autoridades competentes, designar os pontos de contacto e informar deles a Comissão."
+  },
+  "0dae6001a5962320": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo intuito de atingir os objectivos e pôr em prática as acções definidas no artigo 1.o, a Comissão deve:\n\na) Criar e gerir um Centro de Informação e Vigilância acessível e capaz de reagir imediatamente 24 horas por dia ao serviço dos Estados-Membros e da Comissão para efeitos do mecanismo;\n\nb) Criar e gerir um sistema comum e fiável de comunicação e de informação de emergência que permita a comunicação e a partilha de informações entre o Centro de Informação e Vigilância e os pontos de contacto designados para o efeito pelos Estados-Membros;\n\nc) Prever meios que permitam mobilizar e enviar, o mais rapidamente possível, pequenas equipas de técnicos, que terão por missão:\n\n- avaliar a situação no interesse dos Estados-Membros, do Centro de Informação e Vigilância e do Estado que requer a ajuda,\n\n- facilitar, sempre que necessário, a coordenação in loco das operações de socorro e assegurar o contacto com as autoridades competentes do país que requer a assistência, sempre que necessário e adequado;\n\nd) Estabelecer um programa de formação destinado a reforçar a coordenação das intervenções de socorro da Protecção Civil, garantindo a compatibilidade e a complementaridade entre as equipas de intervenção previstas na alínea a) do artigo 3.o ou, se for esse o caso, os outros meios de intervenção previstos na alínea b) do artigo 3.o e aperfeiçoando as competências dos peritos em matéria de avaliação. O programa deve incluir cursos e exercícios conjuntos, bem como um sistema de intercâmbio que permita destacar pessoas para equipas de outros Estados-Membros;\n\ne) Centralizar as informações referentes às capacidades dos Estados-Membros para manter a produção de soros e vacinas ou outros recursos médicos necessários, bem como as informações relativas às reservas que possam existir para intervenção em caso de situação de emergência grave, e reunir essas informações no sistema de informação;\n\nf) Criar um programa que registe os ensinamentos extraídos das intervenções realizadas no âmbito deste mecanismo e divulgar esses ensinamentos através do sistema de informação;\n\ng) Incentivar e fomentar, para efeitos do mecanismo, a introdução e a utilização de novas tecnologias, incluindo sistemas de notificação e de alerta, o intercâmbio de informações, a utilização de tecnologias de comunicação via satélite e a assistência à tomada de decisões na gestão de situações de emergência;\n\nh) Tomar medidas para facilitar o transporte de recursos para as intervenções de socorro e outras acções de intervenção."
+  },
+  "a2afee486bdd4311": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. No caso de surgir uma situação de emergência na Comunidade, um Estado-Membro pode pedir assistência, em moldes tão específicos quanto possível:\n\na) Aos outros Estados-Membros através do Centro de Informação e Vigilância. Nesse caso, após a recepção do pedido, a Comissão deverá, conforme o caso e sem demora:\n\n- encaminhar o pedido para os pontos de contacto dos outros Estados-Membros;\n\n- facilitar a mobilização de equipas, peritos e outros meios de intervenção;\n\n- reunir informações validadas sobre a situação de emergência e divulgá-las aos Estados-Membros; ou\n\nb) Directamente aos outros Estados-Membros.\n\n2. Qualquer Estado-Membro ao qual seja dirigido um pedido de assistência determinará rapidamente se tem ou não condições para prestar a assistência solicitada e informará desse facto o Estado-Membro requerente, quer através do Centro de Informação e Vigilância quer directamente. Neste último caso, informará seguidamente o Centro, indicando o âmbito e os termos de qualquer assistência que possa prestar.\n\n3. A direcção das intervenções de socorro será da responsabilidade do Estado-Membro requerente. As autoridades do Estado-Membro requerente deverão estabelecer orientações e, se necessário, definir os limites das missões confiadas às equipas de intervenção, sem dar pormenores da sua execução, os quais deverão ficar a cargo do responsável nomeado pelo Estado-Membro que presta assistência.\n\n4. O Estado-Membro requerente poderá solicitar às equipas que dirijam a intervenção em seu próprio nome. Nesse caso, as equipas disponibilizadas pelos Estados-Membros e pela Comunidade esforçar-se-ão por coordenar as suas intervenções.\n\n5. A equipa de avaliação e/ou coordenação deverá facilitar a coordenação entre as equipas de intervenção e, sempre que necessário e adequado, assegurar o contacto com as autoridades competentes do Estado-Membro requerente."
+  },
+  "1eef8fb0ee09cca7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe tal for solicitado, as disposições do artigo 5.o poderão também ser implementadas em intervenções realizadas fora da Comunidade. Essas intervenções poderão ser conduzidas a título de intervenções de socorro autónomas ou como contributo para uma operação liderada por uma organização internacional.\n\nA coordenação das intervenções de socorro de protecção civil conduzidas no quadro deste mecanismo fora da Comunidade é assegurada pelo Estado-Membro que assume a Presidência do Conselho da União Europeia."
+  },
+  "81c73d4e18486945": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA participação no mecanismo estará aberta:\n\n- aos países candidatos da Europa Central e Oriental, de acordo com as condições estabelecidas nos Acordos Europeus, nos seus protocolos adicionais e nas decisões dos respectivos Conselhos de Associação;\n\n- a Chipre, a Malta e à Turquia, com base em acordos bilaterais a concluir com estes países."
+  },
+  "3c6fc6b527983e93": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão implementará as acções associadas a este mecanismo em conformidade com o procedimento previsto no n.o 2 do artigo 9.o\n\n2. A Comissão definirá também regras comuns, em conformidade com o procedimento previsto no n.o 3 do artigo 9.o, nomeadamente nas seguintes matérias:\n\na) Recursos disponíveis para as intervenções de socorro, nos termos do artigo 3.o;\n\nb) Centro de Informação e Vigilância, nos termos da alínea a) do artigo 4.o;\n\nc) Sistema comum de comunicação e informação de emergência, nos termos da alínea b) do artigo 4.o;\n\nd) Equipas de avaliação e/ou coordenação, nos termos da alínea c) do artigo 4.o, incluindo critérios para a selecção dos peritos;\n\ne) Programa de formação, nos termos da alínea d) do artigo 4.o;\n\nf) Informações relativas aos recursos médicos, nos termos da alínea e) do artigo 4.o;\n\ng) Intervenções dentro da Comunidade, baseadas na Resolução de 8 de Julho de 1991, bem como intervenções fora da Comunidade, nos termos do artigo 6.o"
+  },
+  "0cf2beaf19629765": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão será assistida pelo comité instituído pelo n.o 1 do artigo 4.o da Decisão 1999/847/CE.\n\n2. Sempre que se fizer referência ao presente número, serão aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se fizer referência ao presente número, serão aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprovará o seu regulamento interno."
+  },
+  "2962e5993e6442b5": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Comissão avaliará a aplicação da presente decisão de três em três anos a partir do início da sua aplicação e apresentará ao Parlamento Europeu e ao Conselho as conclusões dessa avaliação, juntamente com eventuais propostas de alteração da Decisão."
+  },
+  "210d5c6dfedd4406": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente decisão produz efeitos em 1 de Janeiro de 2002."
+  },
+  "5a36b07236cd9fee": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito no Luxemburgo, em 23 de Outubro de 2001.\n\nPelo Conselho\n\nO Presidente\n\nA. Neyts-Uyttebroeck\n\n(1) JO C 29 E de 30.1.2001, p. 287.\n\n(2) Parecer emitido em 14 de Junho de 2001 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 139 de 11.5.2001, p. 27.\n\n(4) JO C 253 de 12.9.2001, p. 17.\n\n(5) JO C 198 de 27.7.1991, p. 1.\n\n(6) JO L 326 de 3.12.1998, p. 1.\n\n(7) Decisão 1999/847/CE do Conselho, de 9 de Dezembro de 1999, que cria um programa de acção comunitária no domínio da protecção civil (JO L 327 de 21.12.1999, p. 53).\n\n(8) JO L 184 de 17.7.1999, p. 23.\n\n(9) JO L 332 de 28.12.2000, p. 1."
+  }
+ }
+}

@@ -1,0 +1,939 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55021010:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-65884812",
+ "dre_path": "/dr/detalhe/decreto-lei/113-2014-55021010",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "65887945",
+    "65887946",
+    "65887947",
+    "65887948",
+    "65887949",
+    "65887950",
+    "65887951",
+    "65887952",
+    "65887953",
+    "65887954",
+    "65887955",
+    "65887956",
+    "65887957",
+    "65887958",
+    "65887959",
+    "65887960",
+    "65887961",
+    "65887962",
+    "65887963",
+    "65887964",
+    "65887965",
+    "65887966",
+    "65887967",
+    "65887968",
+    "65887969",
+    "65887970",
+    "65887971",
+    "65887972",
+    "65887973",
+    "65887974",
+    "65898575",
+    "65898576",
+    "65898577",
+    "65898578",
+    "65898579",
+    "65898580",
+    "65898581"
+   ]
+  },
+  {
+   "date": "2016-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75319452:por",
+     "title": "Decreto-Lei n.º 63/2016",
+     "published": "2016-09-13",
+     "dre_path": "/dr/detalhe/decreto-lei/63-2016-75319452"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "65887945",
+    "65887946",
+    "65887947",
+    "65887948",
+    "65887949",
+    "65887950",
+    "65887951",
+    "65887952",
+    "65887953",
+    "65887954",
+    "65887955",
+    "65887956",
+    "75326347",
+    "65887958",
+    "65887959",
+    "65887960",
+    "75326348",
+    "65887962",
+    "65887963",
+    "65887964",
+    "65887965",
+    "65887966",
+    "65887967",
+    "65887968",
+    "65887969",
+    "65887970",
+    "65887971",
+    "65887972",
+    "65887973",
+    "65887974",
+    "65898575",
+    "65898576",
+    "65898577",
+    "75326349",
+    "65898579",
+    "65898580",
+    "65898581",
+    "65898582"
+   ]
+  },
+  {
+   "date": "2020-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131016733:por",
+     "title": "Decreto-Lei n.º 11/2020",
+     "published": "2020-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2020-131016733"
+    }
+   ],
+   "changes": [
+    "Adita Secção V",
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Adita Artigo 13.º-C",
+    "Adita Artigo 13.º-D",
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "65887945",
+    "65887946",
+    "65887947",
+    "65887948",
+    "131051326",
+    "65887950",
+    "65887951",
+    "65887952",
+    "65887953",
+    "65887954",
+    "65887955",
+    "65887956",
+    "75326347",
+    "65887958",
+    "65887959",
+    "65887960",
+    "75326348",
+    "65887962",
+    "65887963",
+    "65887964",
+    "131051343",
+    "131051345",
+    "131051347",
+    "131051349",
+    "131051351",
+    "65887965",
+    "131051327",
+    "131051328",
+    "65887968",
+    "131051336",
+    "131051337",
+    "131051338",
+    "131051339",
+    "131051340",
+    "131051341",
+    "131051342",
+    "65898575",
+    "65898576",
+    "65898577",
+    "131051331",
+    "65898579",
+    "65898580",
+    "65898581",
+    "65898582"
+   ]
+  },
+  {
+   "date": "2021-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171942716:por",
+     "title": "Declaração de Retificação n.º 32/2021",
+     "published": "2021-09-27",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/32-2021-171942716"
+    },
+    {
+     "id": "pt:dre:170384602:por",
+     "title": "Decreto-Lei n.º 77-A/2021",
+     "published": "2021-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/77-a-2021-170384602"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 25.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "65887945",
+    "65887946",
+    "65887947",
+    "65887948",
+    "131051326",
+    "65887950",
+    "65887951",
+    "65887952",
+    "65887953",
+    "65887954",
+    "65887955",
+    "65887956",
+    "75326347",
+    "65887958",
+    "65887959",
+    "65887960",
+    "75326348",
+    "65887962",
+    "65887963",
+    "65887964",
+    "131051343",
+    "131051345",
+    "131051347",
+    "131051349",
+    "131051351",
+    "65887965",
+    "131051327",
+    "131051328",
+    "65887968",
+    "131051336",
+    "131051337",
+    "131051338",
+    "131051339",
+    "131051340",
+    "131051341",
+    "131051342",
+    "65898575",
+    "65898576",
+    "65898577",
+    "170387965",
+    "65898579",
+    "65898580",
+    "65898581",
+    "65898582"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216512899:por",
+     "title": "Decreto-Lei n.º 64-A/2023",
+     "published": "2023-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/64-a-2023-216512899"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 25.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "65887945",
+    "65887946",
+    "65887947",
+    "216567203",
+    "131051326",
+    "65887950",
+    "65887951",
+    "65887952",
+    "65887953",
+    "65887954",
+    "65887955",
+    "65887956",
+    "216567204",
+    "65887958",
+    "65887959",
+    "65887960",
+    "216567205",
+    "65887962",
+    "65887963",
+    "65887964",
+    "131051343",
+    "216567206",
+    "131051347",
+    "131051349",
+    "131051351",
+    "65887965",
+    "839791866",
+    "216567207",
+    "65887968",
+    "131051336",
+    "131051337",
+    "131051338",
+    "131051339",
+    "839791867",
+    "216567200",
+    "216567201",
+    "216567202",
+    "65898575",
+    "65898576",
+    "65898577",
+    "216567208",
+    "65898579",
+    "65898580",
+    "65898581",
+    "65898582"
+   ]
+  }
+ ],
+ "fragments": {
+  "65887945": {
+   "fragment_id": "65884813",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 113/2014\n\nde 16 de julho\n\nNa sequência da publicação do Decreto-Lei n.º 43/2014, de 18 de março, que cria os cursos técnicos superiores profissionais, o presente diploma procede à revisão do regime jurídico dos concursos especiais de acesso, tendo em vista incluir no âmbito dos mesmos o ingresso dos titulares do diploma de técnico superior profissional nos ciclos de estudos de licenciatura e integrados de mestrado.\n\nSimultaneamente, e para além de uma simplificação e atualização das disposições do Decreto-Lei n.º 393-B/99, de 2 de outubro, alterado pelos Decretos-Leis n.os 64/2006, de 21 de março, 88/2006, de 23 de maio, e 196/2006, de 10 de outubro, procede-se, através do presente diploma, a um conjunto de alterações das regras relacionadas com a fixação das vagas dos concursos especiais e com a utilização das vagas sobrantes.\n\nProcede-se igualmente à atribuição às instituições de ensino superior da competência para a fixação das normas regulamentares de realização dos concursos, dos prazos e, nos casos em que o diploma ainda os regulava, dos critérios de seriação.\n\nPara assegurar uma adequada articulação com o que se encontra estabelecido no regime jurídico das provas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos e no regime jurídico dos cursos de especialização tecnológica, são revogadas algumas normas constantes destes diplomas.\n\nProcede-se ainda à articulação do processo de fixação das vagas e de aproveitamento das vagas sobrantes nas diferentes modalidades de acesso e ingresso no ensino superior.\n\nForam ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "65887946": {
+   "fragment_id": "65884814",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "65887947": {
+   "fragment_id": "65884815",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma regula os concursos especiais para acesso e ingresso no ensino superior, adiante designados concursos especiais."
+  },
+  "65887948": {
+   "fragment_id": "65884816",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n1 - Os regimes regulados pelo presente diploma aplicam-se ao acesso e ingresso nas instituições de ensino superior públicas e privadas para a frequência de ciclos de estudos de licenciatura e integrados de mestrado.\n\n2 - O presente diploma não se aplica às instituições de ensino superior militar e policial."
+  },
+  "65887949": {
+   "fragment_id": "65884817",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de concursos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modalidades de concursos especiais\n\n1 - Os concursos especiais destinam-se a candidatos com situações habilitacionais específicas.\n\n2 - São organizados concursos especiais para:\n\na) Estudantes aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos;\n\nb) Titulares de um diploma de especialização tecnológica;\n\nc) Titulares de um diploma de técnico superior profissional;\n\nd) Titulares de outros cursos superiores."
+  },
+  "65887950": {
+   "fragment_id": "65884818",
+   "type": 1,
+   "heading": "Capítulo II — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições especiais"
+  },
+  "65887951": {
+   "fragment_id": "65884819",
+   "type": 8,
+   "heading": "Secção I — Provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos"
+  },
+  "65887952": {
+   "fragment_id": "65884820",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito\n\nSão abrangidos pelo concurso especial previsto na alínea a) do n.º 2 do artigo anterior, os estudantes aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, criadas pelo Decreto-Lei n.º 64/2006, de 21 de março."
+  },
+  "65887953": {
+   "fragment_id": "65884821",
+   "type": 11,
+   "heading": "Artigo 5.º — Ciclos de estudos a que se podem candidatar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ciclos de estudos a que se podem candidatar\n\nOs estudantes aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos podem candidatar-se à matrícula e inscrição nos ciclos de estudos a que se refere o artigo 12.º do Decreto-Lei n.º 64/2006, de 21 de março."
+  },
+  "65887954": {
+   "fragment_id": "65884822",
+   "type": 8,
+   "heading": "Secção II — Titulares de um diploma de especialização tecnológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Titulares de um diploma de especialização tecnológica"
+  },
+  "65887955": {
+   "fragment_id": "65884823",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito\n\nSão abrangidos pelo concurso especial previsto na alínea b) do n.º 2 do artigo 3.º, os titulares de um diploma de especialização tecnológica."
+  },
+  "65887956": {
+   "fragment_id": "65884824",
+   "type": 11,
+   "heading": "Artigo 7.º — Ciclos de estudos a que se podem candidatar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ciclos de estudos a que se podem candidatar\n\n1 - Compete ao órgão legal e estatutariamente competente de cada instituição de ensino superior fixar, para cada um dos seus ciclos de estudos de licenciatura e integrados de mestrado, quais os diplomas de especialização tecnológica que facultam o ingresso nesses ciclos.\n\n2 - A fixação a que se refere o número anterior pode ser feita, exclusiva ou complementarmente, através da indicação das áreas de educação e formação que facultam a candidatura a cada ciclo de estudos.\n\n3 - No caso previsto no número anterior, a admissão ao concurso pode ficar dependente de apreciação casuística da adequação do currículo do curso de especialização tecnológica ao ingresso no ciclo de estudos em causa."
+  },
+  "65887957": {
+   "fragment_id": "65884825",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prova de ingresso\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está condicionada à aprovação numa prova de ingresso específica que visa avaliar a capacidade para a frequência do ciclo de estudos em que o estudante pretende ingressar.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - As provas de ingresso específicas são escritas ou escritas e orais e organizadas para cada ciclo de estudos ou conjuntos de ciclos de estudos afins e têm como referencial os conhecimentos e aptidões correspondentes ao nível do ensino secundário nas áreas relevantes para cada ciclo de estudos.\n\n4 - O resultado das provas de ingresso específicas é expresso através de uma classificação numérica na escala inteira de 0 a 20, considerando-se aprovado o candidato que tenha obtido uma classificação não inferior a 10.\n\n5 - As provas de ingresso específicas realizam-se nos termos de regulamento aprovado pelo órgão legal e estatutariamente competente da instituição de ensino superior e publicado na 2.ª série do Diário da República.\n\n6 - O regulamento a que se refere o número anterior inclui, obrigatoriamente, uma descrição da estrutura das provas de ingresso específicas e dos seus referenciais.\n\n7 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com a realização da prova de ingresso específica a que se refere o presente artigo, incluindo as provas escritas efetuadas."
+  },
+  "65887958": {
+   "fragment_id": "65884826",
+   "type": 8,
+   "heading": "Secção III — Titulares de um diploma de técnico superior profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Titulares de um diploma de técnico superior profissional"
+  },
+  "65887959": {
+   "fragment_id": "65884827",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Âmbito\n\nSão abrangidos pelo concurso especial previsto na alínea c) do n.º 2 do artigo 3.º, os titulares de um diploma de técnico superior profissional."
+  },
+  "65887960": {
+   "fragment_id": "65884828",
+   "type": 11,
+   "heading": "Artigo 10.º — Ciclos de estudos a que se podem candidatar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ciclos de estudos a que se podem candidatar\n\n1 - Compete ao órgão legal e estatutariamente competente de cada instituição de ensino superior fixar, para cada um dos seus ciclos de estudos de licenciatura e integrados de mestrado, quais os diplomas de técnico superior profissional que facultam o ingresso nesses ciclos.\n\n2 - A fixação a que se refere o número anterior pode ser feita, exclusiva ou complementarmente, através da indicação das áreas de educação e formação que facultam a candidatura a cada ciclo de estudos.\n\n3 - No caso previsto no número anterior, a admissão ao concurso pode ficar dependente de apreciação casuística da adequação do currículo do curso de técnico superior profissional ao ingresso no ciclo de estudos em causa."
+  },
+  "65887961": {
+   "fragment_id": "65884829",
+   "type": 11,
+   "heading": "Artigo 11.º — Prova de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prova de ingresso\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está condicionada à aprovação numa prova de ingresso específica que visa avaliar a capacidade para a frequência do ciclo de estudos em que o estudante pretende ingressar.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - As provas de ingresso específicas são escritas ou escritas e orais e organizadas para cada ciclo de estudos ou conjuntos de ciclos de estudos afins.\n\n4 - O resultado das provas de ingresso específicas é expresso através de uma classificação numérica na escala inteira de 0 a 20, considerando-se aprovado o candidato que tenha obtido uma classificação não inferior a 10.\n\n5 - As provas de ingresso específicas realizam-se nos termos de regulamento aprovado pelo órgão legal e estatutariamente competente da instituição de ensino superior e publicado na 2.ª série do Diário da República.\n\n6 - O regulamento a que se refere o número anterior inclui, obrigatoriamente, uma descrição da estrutura das provas de ingresso específicas e dos seus referenciais.\n\n7 - O regulamento a que se refere o n.º 5 pode prever que, no caso mencionado no n.º 1, sejam dispensados da realização da prova de ingresso específica, total ou parcialmente, os estudantes que, cumulativamente:\n\na) Tenham obtido o diploma de técnico superior profissional na instituição de ensino superior a que concorrem;\n\nb) Tenham tido aprovação, no âmbito do curso técnico superior profissional, em unidades curriculares do domínio das disciplinas que integram a prova de ingresso específica, com o nível adequado para a progressão no ciclo de estudos de licenciatura.\n\n8 - No âmbito da instrução dos processos de registo de cursos técnicos superiores profissionais são indicados os ciclos de estudos de licenciatura em que os titulares do respetivo diploma têm ingresso com dispensa das provas de ingresso específicas e o fundamento da mesma.\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com a realização da prova de ingresso específica a que se refere o presente artigo, incluindo as provas escritas efetuadas."
+  },
+  "65887962": {
+   "fragment_id": "65884830",
+   "type": 8,
+   "heading": "Secção IV — Titulares de outros cursos superiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Titulares de outros cursos superiores"
+  },
+  "65887963": {
+   "fragment_id": "65884831",
+   "type": 11,
+   "heading": "Artigo 12.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Âmbito\n\nSão abrangidos pelo concurso especial previsto na alínea d) do n.º 2 do artigo 3.º, os titulares do grau de bacharel, licenciado, mestre ou doutor."
+  },
+  "65887964": {
+   "fragment_id": "65884832",
+   "type": 11,
+   "heading": "Artigo 13.º — Ciclos de estudos a que se podem candidatar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Ciclos de estudos a que se podem candidatar\n\nOs estudantes abrangidos pelo artigo anterior podem candidatar-se a qualquer ciclo de estudos de licenciatura e integrado de mestrado."
+  },
+  "65887965": {
+   "fragment_id": "65884833",
+   "type": 1,
+   "heading": "Capítulo III — Normas comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Normas comuns"
+  },
+  "65887966": {
+   "fragment_id": "65884834",
+   "type": 11,
+   "heading": "Artigo 14.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vagas\n\nAs vagas para cada par instituição/ciclo de estudos, para cada um dos concursos especiais, são:\n\na) Fixadas anualmente pelo órgão legal e estatutariamente competente da instituição de ensino;\n\nb) Publicadas no sítio na Internet da instituição de ensino superior;\n\nc) Comunicadas à Direção-Geral do Ensino Superior nos termos e prazos por esta fixados."
+  },
+  "65887967": {
+   "fragment_id": "65884835",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Seriação\n\nOs critérios de seriação de cada concurso especial são fixados pelo órgão legal e estatutariamente competente da instituição."
+  },
+  "65887968": {
+   "fragment_id": "65884836",
+   "type": 11,
+   "heading": "Artigo 16.º — Validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Validade\n\nOs concursos especiais são realizados para a matrícula e inscrição num ano letivo e são válidos apenas para ano letivo a que se referem."
+  },
+  "65887969": {
+   "fragment_id": "65884837",
+   "type": 11,
+   "heading": "Artigo 17.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prazos\n\n1 - Os prazos em que devem ser praticados os atos a que se refere o presente diploma são:\n\na) Fixados anualmente pelo órgão legal e estatutariamente competente da instituição de ensino;\n\nb) Publicados no sítio na Internet da instituição;\n\nc) Comunicados à Direção-Geral do Ensino Superior nos termos e prazos por esta fixados.\n\n2 - O prazo para a conclusão dos concursos especiais, incluindo a matrícula e inscrição dos estudantes colocados, fixado nos termos da alínea a) do número anterior, não pode ultrapassar o último dia útil do mês de outubro."
+  },
+  "65887970": {
+   "fragment_id": "65884838",
+   "type": 11,
+   "heading": "Artigo 18.º — Ciclos de estudos que exijam pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ciclos de estudos que exijam pré-requisitos\n\nA candidatura à matrícula e inscrição em pares instituição/curso para os quais sejam exigidos pré-requisitos, nos termos do n.º 2 do artigo 16.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, está condicionada à satisfação destes."
+  },
+  "65887971": {
+   "fragment_id": "65884839",
+   "type": 11,
+   "heading": "Artigo 19.º — Ciclos de estudos objeto de concurso local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ciclos de estudos objeto de concurso local\n\nA candidatura à matrícula e inscrição em pares instituição/ciclo de estudos objeto de concurso local nos termos da alínea b) do n.º 2 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, por estudantes titulares das habilitações a que se referem os artigos 4.º, 6.º, 9.º e 12.º, é feita nos termos fixados pelo regulamento do respetivo concurso local."
+  },
+  "65887972": {
+   "fragment_id": "65884840",
+   "type": 11,
+   "heading": "Artigo 20.º — Universidade Aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Universidade Aberta\n\nA aplicação do presente diploma à Universidade Aberta faz-se através de regulamentos aprovados pelo seu órgão legal e estatutariamente competente, homologados pelo membro do Governo responsável pela área do ensino superior e publicados na 2.ª série do Diário da República."
+  },
+  "65887973": {
+   "fragment_id": "65884841",
+   "type": 11,
+   "heading": "Artigo 21.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Creditação\n\n1 - A creditação da formação académica anteriormente adquirida pelos estudantes que ingressam num ciclo de estudos através de um concurso especial realiza-se nos termos fixados pelos artigos 45.º a 45.º-B do Decreto-Lei n.º 74/2006, de 24 de março, alterado pelos Decretos-Leis n.os 107/2008, de 25 de junho, 230/2009, de 14 de setembro, e 115/2013, de 7 de agosto.\n\n2 - Não é passível de creditação:\n\na) A formação adicional a que se refere o artigo 16.º do Decreto-Lei n.º 88/2006, de 23 de maio;\n\nb) A formação complementar a que se refere o artigo 25.º do Decreto-Lei n.º 43/2014, de 18 de março."
+  },
+  "65887974": {
+   "fragment_id": "65884842",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - As provas de ingresso específicas a que se referem os artigos 8.º e 11.º, bem como as provas reguladas pelo Decreto-Lei n.º 64/2006, de 21 de março, são objeto de avaliação, por amostragem, pela Comissão Nacional de Acesso ao Ensino Superior (CNAES), nos termos da legislação aplicável.\n\n2 - O resultado do processo de avaliação é objeto de um relatório anual da CNAES que deve ser apresentado ao membro do governo responsável pelo ensino superior até 31 de janeiro de cada ano."
+  },
+  "65898575": {
+   "fragment_id": "65884843",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares, transitórias e finais"
+  },
+  "65898576": {
+   "fragment_id": "65884844",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto-Lei n.º 36/2014, de 10 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto-Lei n.º 36/2014, de 10 de março\n\nO artigo 13.º do Decreto-Lei n.º 36/2014, de 10 de março, passa a ter a seguinte redação:\n\n«Artigo 13.º\n\n[...]\n\nAos estudantes internacionais admitidos através dos regimes de reingresso, mudança de curso e transferência a que se refere o Regulamento dos Regimes de Mudança de Curso, Transferência e Reingresso no Ensino Superior, aprovado pela Portaria n.º 401/2007, de 5 de abril, alterada pela Portaria n.º 232-A/2013, de 22 de julho, aplica-se o disposto nos artigos 9.º a 11.º»"
+  },
+  "65898577": {
+   "fragment_id": "65884845",
+   "type": 11,
+   "heading": "Artigo 24.º — Aditamento ao Decreto-Lei n.º 64/2006, de 21 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aditamento ao Decreto-Lei n.º 64/2006, de 21 de março\n\nÉ aditado ao Decreto-Lei n.º 64/2006, de 21 de março, o artigo 11.º-A, com a seguinte redação:\n\n«Artigo 11.º-A\n\nProcesso individual do estudante\n\nIntegram obrigatoriamente o processo individual do estudante todos os documentos relacionados com a realização das provas, incluindo as provas escritas efetuadas.»"
+  },
+  "65898578": {
+   "fragment_id": "65884846",
+   "type": 11,
+   "heading": "Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso\n\n1 - Não pode exceder o valor fixado por despacho do membro do Governo responsável pela área do ensino superior em percentagem das vagas do regime geral de acesso a soma das vagas para ingresso nos ciclos de estudos de licenciatura e integrados de mestrado em cada par instituição/ciclo de estudos através:\n\na) De cada um dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma;\n\nb) Dos concursos de mudança de curso e de transferência para o 1.º ano curricular.\n\n2 - O número total de vagas aberto anualmente em cada instituição de ensino superior para a candidatura à matrícula e inscrição através do concurso a que se refere a alínea a) do n.º 2 do artigo 3.º não pode ser inferior a 5% do número de vagas fixado para o regime geral de acesso para o conjunto dos ciclos de estudos dessa instituição.\n\n3 - O despacho a que se refere o n.º 1 pode fixar um valor mínimo a afetar a uma ou mais das modalidades de acesso a que se refere o mesmo número, por par instituição/ciclo de estudos ou globalmente.\n\n4 - Para o ingresso em cada ano letivo só podem ser abertas vagas para um par instituição/ciclo de estudos para as modalidades de acesso a que se refere o n.º 1 quando tenham sido igualmente abertas para o regime geral de acesso.\n\n5 - As vagas não preenchidas num par instituição/ciclo de estudos numa das modalidades de acesso a que se refere o n.º 1 podem reverter para o mesmo par instituição/ciclo de estudos noutra ou noutras dessas modalidades, por decisão do órgão legal e estatutariamente competente da instituição de ensino superior.\n\n6 - As vagas não preenchidas num par instituição/ciclo de estudos no regime geral de acesso podem reverter para o mesmo par instituição/ciclo de estudos nas modalidades de acesso a que se refere o n.º 1 nos termos fixados pelos regulamentos do concurso nacional e dos concursos institucionais.\n\n7 - As vagas sobrantes das modalidades de acesso a que se refere o n.º 1 não podem ser utilizadas de forma diferente da prevista no n.º 5."
+  },
+  "65898579": {
+   "fragment_id": "65884847",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime transitório\n\n1 - Os titulares dos extintos cursos do Magistério Primário, de Educadores de Infância e de Enfermagem Geral que comprovem, simultaneamente, a titularidade de um curso do ensino secundário, complementar do ensino secundário ou do 10.º/11.º anos de escolaridade podem concorrer no âmbito do concurso especial a que se refere a alínea d) do n.º 2 do artigo 3.º\n\n2 - O limite a que se refere o n.º 2 do artigo 17.º para o ingresso nos anos letivos de 2014-2015 e 2015-2016 é fixado em 15 de novembro."
+  },
+  "65898580": {
+   "fragment_id": "65884848",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 393-B/99, de 2 de outubro, alterado pelos Decretos-Leis n.os 64/2006, de 21 de março, 88/2006, de 23 de maio, e 196/2006, de 10 de outubro;\n\nb) O artigo 18.º do Decreto-Lei n.º 64/2006, de 21 de março;\n\nc) Os artigos 26.º a 28.º do Decreto-Lei n.º 88/2006, de 23 de maio;\n\nd) Os n.os 4 e 6 do artigo 5.º do Regulamento dos Regimes de Mudança de Curso, Transferência e Reingresso no Ensino Superior, aprovado pela Portaria n.º 401/2007, de 5 de abril, alterada pela Portaria n.º 232-A/2013, de 22 de julho."
+  },
+  "65898581": {
+   "fragment_id": "65884849",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O disposto no presente diploma aplica-se aos concursos especiais para acesso e ingresso no ensino superior no ano letivo de 2014-2015 e nos anos letivos seguintes, com exceção do artigo 8.º que só se aplica aos concursos especiais para acesso e ingresso no ensino superior realizados após o ano letivo de 2015-2016."
+  },
+  "75326347": {
+   "fragment_id": "65884825",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de ingresso",
+   "in_force_from": "2016-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 8.º — Prova de ingresso\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "75326348": {
+   "fragment_id": "65884829",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições específicas",
+   "in_force_from": "2016-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "75326349": {
+   "fragment_id": "65884846",
+   "type": 11,
+   "heading": "Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso",
+   "in_force_from": "2016-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso\n\n1 - Não pode exceder o valor fixado por despacho do membro do Governo responsável pela área do ensino superior em percentagem das vagas do regime geral de acesso a soma das vagas para ingresso nos ciclos de estudos de licenciatura e integrados de mestrado em cada par instituição/ciclo de estudos através:\n\na) De cada um dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma;\n\nb) Dos concursos de mudança de par instituição/curso para o 1.º ano curricular.\n\n2 - O número total de vagas aberto anualmente em cada instituição de ensino superior para a candidatura à matrícula e inscrição através do concurso a que se refere a alínea a) do n.º 2 do artigo 3.º não pode ser inferior a 5% do número de vagas fixado para o regime geral de acesso para o conjunto dos ciclos de estudos dessa instituição.\n\n3 - O despacho a que se refere o n.º 1 pode fixar um valor mínimo a afetar a uma ou mais das modalidades de acesso a que se refere o mesmo número, por par instituição/ciclo de estudos ou globalmente.\n\n4 - Para o ingresso em cada ano letivo só podem ser abertas vagas para um par instituição/ciclo de estudos para as modalidades de acesso a que se refere o n.º 1 quando tenham sido igualmente abertas para o regime geral de acesso.\n\n5 - As vagas não preenchidas num par instituição/ciclo de estudos numa das modalidades de acesso a que se refere o n.º 1 podem reverter para o mesmo par instituição/ciclo de estudos noutra ou noutras dessas modalidades, por decisão do órgão legal e estatutariamente competente da instituição de ensino superior.\n\n6 - As vagas não preenchidas num par instituição/ciclo de estudos no regime geral de acesso podem reverter para o mesmo par instituição/ciclo de estudos nas modalidades de acesso a que se refere o n.º 1 nos termos fixados pelos regulamentos do concurso nacional e dos concursos institucionais.\n\n7 - As vagas sobrantes das modalidades de acesso a que se refere o n.º 1 não podem ser utilizadas de forma diferente da prevista no n.º 5.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "65898582": {
+   "fragment_id": "65884850",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de junho de 2014. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 10 de julho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de julho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "131051326": {
+   "fragment_id": "65884817",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de concursos especiais",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 3.º — Modalidades de concursos especiais\n\n1 - Os concursos especiais destinam-se a candidatos com situações habilitacionais específicas.\n\n2 - São organizados concursos especiais para:\n\na) Estudantes aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos;\n\nb) Titulares de um diploma de especialização tecnológica;\n\nc) Titulares de um diploma de técnico superior profissional;\n\nd) Titulares de outros cursos superiores;\n\ne) Titulares dos cursos de dupla certificação de nível secundário e cursos artísticos especializados.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051343": {
+   "fragment_id": "131051260",
+   "type": 8,
+   "heading": "Secção V — Titulares dos cursos de dupla certificação de nível secundário e cursos artísticos especializados",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "#### Secção V — Titulares dos cursos de dupla certificação de nível secundário e cursos artísticos especializados\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051345": {
+   "fragment_id": "131051255",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Âmbito",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 13.º-A — Âmbito\n\n1 - São abrangidos pelo concurso especial previsto na alínea e) do n.º 2 do artigo 3.º os titulares das seguintes ofertas educativas e formativas de dupla certificação de nível secundário, conferentes do nível 4 de qualificação do Quadro Nacional de Qualificações:\n\na) Cursos profissionais;\n\nb) Cursos de aprendizagem;\n\nc) Cursos de educação e formação para jovens;\n\nd) Cursos de âmbito setorial da rede de escolas do Turismo de Portugal, I. P.;\n\ne) Cursos artísticos especializados;\n\nf) Cursos de formação profissional no âmbito do Programa Formativo de Inserção de Jovens da Região Autónoma dos Açores.\n\n2 - São ainda abrangidos pelo concurso especial previsto na alínea e) do n.º 2 do artigo 3.º os estudantes titulares de:\n\na) Cursos artísticos especializados de nível secundário da área da música;\n\nb) Cursos de Estado-Membro da União Europeia, legalmente equivalentes ao ensino secundário português, conferentes de dupla certificação, escolar e profissional, e conferentes do nível 4 de qualificação do Quadro Europeu de Qualificações;\n\nc) Outros cursos não portugueses, legalmente equivalentes ao ensino secundário português, conferentes de dupla certificação, escolar e profissional, nas situações em que os candidatos em causa tenham nacionalidade portuguesa.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051347": {
+   "fragment_id": "131051256",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Ciclos de estudos a que se podem candidatar",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 13.º-B — Ciclos de estudos a que se podem candidatar\n\n1 - O órgão legal e estatutariamente competente de cada instituição de ensino superior fixa as áreas de educação e formação da classificação nacional de áreas de educação e formação (CNAEF) que facultam a candidatura a cada ciclo de estudos de licenciatura e ou integrado de mestrado, em concordância com o elenco previamente fixado pela Comissão Nacional de Acesso ao Ensino Superior (CNAES).\n\n2 - A fixação a que se refere o número anterior pode ser feita, exclusiva ou complementarmente, através da indicação específica dos cursos que facultam a candidatura a cada ciclo de estudos.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051349": {
+   "fragment_id": "131051257",
+   "type": 11,
+   "heading": "Artigo 13.º-C — Condições específicas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 13.º-C — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição de ensino superior, devendo a avaliação da capacidade para a frequência considerar cumulativamente:\n\na) Com uma ponderação mínima de 50 %, a classificação final do curso obtida pelo estudante;\n\nb) Com uma ponderação mínima de 20 %, as classificações obtidas:\n\ni) Na prova de aptidão profissional, no caso de titulares dos cursos profissionais;\n\nii) Na prova de aptidão final, no caso dos diplomados dos cursos de aprendizagem;\n\niii) Na prova de avaliação final, no caso de titulares dos cursos de educação e formação para jovens;\n\niv) Nas provas de avaliação final dos módulos constantes dos planos curriculares dos cursos organizados de acordo com a Portaria n.º 57/2009, de 21 de janeiro, na sua redação atual, no caso dos titulares daqueles cursos;\n\nv) Nas provas de avaliação final de competências em turismo dos cursos organizados de acordo com portaria dos membros do Governo responsáveis pelas áreas do turismo, da educação e da formação profissional, no caso dos titulares de cursos de âmbito setorial da rede de escolas do Turismo de Portugal, I. P.;\n\nvi) Na prova de aptidão artística, no caso dos titulares dos cursos artísticos especializados;\n\nvii) Na prova de avaliação final, no caso dos titulares dos cursos de formação profissional no âmbito do Programa Formativo de Inserção de Jovens da Região Autónoma dos Açores;\n\nc) Com uma ponderação máxima de 30 %, as classificações de provas teóricas ou práticas de avaliação dos conhecimentos e competências consideradas indispensáveis ao ingresso e progressão no ciclo de estudos a que se candidata.\n\n2 - O acesso e ingresso ao abrigo do concurso especial a que se refere o presente artigo depende da obtenção pelo candidato de classificações iguais ou superiores a 95 pontos, na escala de 0 a 200, em cada um dos elementos de avaliação referidos no número anterior.\n\n3 - As condições fixadas pelo órgão legal e estatutariamente competente da instituição para acesso e ingresso ao abrigo do concurso especial a que se refere a alínea e) do n.º 2 do artigo 3.º são homologadas pela CNAES.\n\n4 - Cada instituição de ensino superior comunica à Direção-Geral do Ensino Superior, para cada par instituição/ciclo de estudos:\n\na) O número de vagas disponíveis;\n\nb) A identificação das provas teóricas ou práticas de avaliação;\n\nc) A fórmula da nota de candidatura decorrente da aplicação do disposto no presente artigo.\n\n5 - A Direção-Geral do Ensino Superior procede à divulgação no seu sítio na Internet da informação referida no número anterior.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051351": {
+   "fragment_id": "131051258",
+   "type": 11,
+   "heading": "Artigo 13.º-D — Realização de candidatura e provas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 13.º-D — Realização de candidatura e provas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado ministrados em instituições de ensino superior públicas é apresentada a nível nacional através do sítio na Internet da Direção-Geral do Ensino Superior nos termos de regulamento a aprovar por portaria de membro do Governo responsável pela área da ciência, tecnologia e ensino superior.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado ministrados em estabelecimentos de ensino superior privados é apresentada no estabelecimento de ensino onde o candidato se pretende matricular e inscrever.\n\n3 - A informação sobre as classificações a que se referem as alíneas a) e b) do n.º 1 do artigo 13.º-C é comunicada pelos serviços da administração central e regional da educação, pelo Instituto do Turismo de Portugal, I. P., ou pelo Instituto do Emprego e da Formação Profissional, I. P., consoante o curso de que o candidato é titular.\n\n4 - As provas referidas na alínea c) do n.º 1 do artigo anterior são organizadas:\n\na) Pela instituição de ensino superior que promove o respetivo concurso;\n\nb) Por uma rede de instituições de ensino superior que acordem entre si a articulação desta atividade a nível regional ou nacional.\n\n5 - Sem prejuízo do disposto nos números anteriores, para efeitos das candidaturas por parte dos titulares dos cursos a que se referem as alíneas b) e c) do n.º 2 do artigo 13.º-A:\n\na) As provas referidas na alínea b) do n.º 1 do artigo anterior podem ser substituídas pelas provas finais homólogas dos respetivos sistemas de ensino, por decisão do órgão legal e estatutariamente competente, nos termos e condições fixados por deliberação da CNAES;\n\nb) As provas referidas na alínea c) do n.º 1 do artigo anterior podem ser realizadas através de plataformas tecnológicas ou por teleconferência, desde que haja condições que assegurem a fiabilidade da avaliação desenvolvida.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051327": {
+   "fragment_id": "65884834",
+   "type": 11,
+   "heading": "Artigo 14.º — Vagas",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 14.º — Vagas\n\n1 - As vagas para cada par instituição/ciclo de estudos, para cada um dos concursos especiais, são:\n\na) Fixadas anualmente pelo órgão legal e estatutariamente competente da instituição de ensino;\n\nb) Publicadas no sítio na Internet da instituição de ensino superior;\n\nc) Comunicadas à Direção-Geral do Ensino Superior nos termos e prazos por esta fixados.\n\n2 - Sem prejuízo do disposto no número anterior, nos concursos a que se refere a alínea e) do n.º 2 do artigo 3.º, a fixação de vagas num determinado par instituição/ciclo de estudos determina a necessidade de fixação de vagas em todos os ciclos de estudos da mesma área de educação e formação da CNAEF a três dígitos.\n\n3 - Quando as universidades e institutos politécnicos compreendam unidades orgânicas autónomas, a necessidade de fixação de vagas referida no número anterior considera apenas os ciclos de estudos da mesma área de educação e formação da unidade orgânica respetiva.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051328": {
+   "fragment_id": "65884835",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 15.º — Seriação\n\nOs critérios de seriação de cada concurso especial são fixados pelo órgão legal e estatutariamente competente da instituição, podendo este fixar prioridades na ocupação de vagas a candidatos com deficiência, emigrantes e familiares que com eles residam e candidatos oriundos da área de influência regional da instituição de ensino superior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051336": {
+   "fragment_id": "131051259",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Normas regulamentares",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 16.º-A — Normas regulamentares\n\nOs órgãos legal e estatutariamente competentes das instituições de ensino superior estabelecem, em regulamento próprio, as condições necessárias para a aplicação do disposto no presente diploma, incluindo a fixação dos diplomas, cursos ou áreas de educação e formação que facultam a candidatura a cada ciclo de estudos.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051337": {
+   "fragment_id": "65884837",
+   "type": 11,
+   "heading": "Artigo 17.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prazos\n\n1 - Os prazos em que devem ser praticados os atos a que se refere o presente diploma são:\n\na) Fixados anualmente pelo órgão legal e estatutariamente competente da instituição de ensino;\n\nb) Publicados no sítio na Internet da instituição;\n\nc) Comunicados à Direção-Geral do Ensino Superior nos termos e prazos por esta fixados.\n\n2 - O prazo para a conclusão dos concursos especiais, incluindo a matrícula e inscrição dos estudantes colocados, fixado nos termos da alínea a) do número anterior, não pode ultrapassar o último dia útil do mês de outubro."
+  },
+  "131051338": {
+   "fragment_id": "65884838",
+   "type": 11,
+   "heading": "Artigo 18.º — Ciclos de estudos que exijam pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ciclos de estudos que exijam pré-requisitos\n\nA candidatura à matrícula e inscrição em pares instituição/curso para os quais sejam exigidos pré-requisitos, nos termos do n.º 2 do artigo 16.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, está condicionada à satisfação destes."
+  },
+  "131051339": {
+   "fragment_id": "65884839",
+   "type": 11,
+   "heading": "Artigo 19.º — Ciclos de estudos objeto de concurso local",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 19.º — Ciclos de estudos objeto de concurso local\n\nA candidatura à matrícula e inscrição em pares instituição/ciclo de estudos objeto de concurso local, nos termos da alínea b) do n.º 2 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, por estudantes titulares das habilitações a que se referem os artigos 4.º, 6.º, 9.º, 12.º e 13.º-A, é feita nos termos fixados pelo regulamento do respetivo concurso local.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051340": {
+   "fragment_id": "65884840",
+   "type": 11,
+   "heading": "Artigo 20.º — Universidade Aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Universidade Aberta\n\nA aplicação do presente diploma à Universidade Aberta faz-se através de regulamentos aprovados pelo seu órgão legal e estatutariamente competente, homologados pelo membro do Governo responsável pela área do ensino superior e publicados na 2.ª série do Diário da República."
+  },
+  "131051341": {
+   "fragment_id": "65884841",
+   "type": 11,
+   "heading": "Artigo 21.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Creditação\n\n1 - A creditação da formação académica anteriormente adquirida pelos estudantes que ingressam num ciclo de estudos através de um concurso especial realiza-se nos termos fixados pelos artigos 45.º a 45.º-B do Decreto-Lei n.º 74/2006, de 24 de março, alterado pelos Decretos-Leis n.os 107/2008, de 25 de junho, 230/2009, de 14 de setembro, e 115/2013, de 7 de agosto.\n\n2 - Não é passível de creditação:\n\na) A formação adicional a que se refere o artigo 16.º do Decreto-Lei n.º 88/2006, de 23 de maio;\n\nb) A formação complementar a que se refere o artigo 25.º do Decreto-Lei n.º 43/2014, de 18 de março."
+  },
+  "131051342": {
+   "fragment_id": "65884842",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - Os concursos especiais objeto do presente diploma são considerados na avaliação periódica da qualidade das instituições de ensino superior e dos seus ciclos de estudos, que deve ponderar:\n\na) O teor, classificações finais e taxas de sucesso das provas de ingresso a que se referem os artigos 8.º e 11.º, bem como a alínea c) do n.º 1 do artigo 13.º-C;\n\nb) As provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, criadas pelo Decreto-Lei n.º 64/2006, de 21 de março, na sua redação atual;\n\nc) O progresso e aproveitamento escolar dos estudantes que ingressam através dos concursos especiais durante o respetivo ciclo de estudos.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051331": {
+   "fragment_id": "65884846",
+   "type": 11,
+   "heading": "Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso\n\n1 - O número máximo de vagas para admissão de estudantes ao abrigo dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma e dos concursos de mudança de par instituição/curso para o 1.º ano curricular é fixado anualmente por despacho do membro do Governo responsável pela área da ciência, tecnologia e ensino superior.\n\n2 - O número total de vagas aberto anualmente em cada instituição de ensino superior para a candidatura à matrícula e inscrição através do concurso a que se refere a alínea a) do n.º 2 do artigo 3.º não pode ser inferior a 5% do número de vagas fixado para o regime geral de acesso para o conjunto dos ciclos de estudos dessa instituição.\n\n3 - O despacho a que se refere o n.º 1 pode fixar um valor mínimo a afetar a uma ou mais das modalidades de acesso a que se refere o mesmo número, por par instituição/ciclo de estudos ou globalmente.\n\n4 - Para o ingresso em cada ano letivo só podem ser abertas vagas para um par instituição/ciclo de estudos para as modalidades de acesso a que se refere o n.º 1 quando tenham sido igualmente abertas para o regime geral de acesso.\n\n5 - As vagas não preenchidas num par instituição/ciclo de estudos numa das modalidades de acesso a que se refere o n.º 1 podem reverter para o mesmo par instituição/ciclo de estudos noutra ou noutras dessas modalidades, por decisão do órgão legal e estatutariamente competente da instituição de ensino superior.\n\n6 - As vagas não preenchidas num par instituição/ciclo de estudos no regime geral de acesso podem reverter para o mesmo par instituição/ciclo de estudos nas modalidades de acesso a que se refere o n.º 1 nos termos fixados pelos regulamentos do concurso nacional e dos concursos institucionais.\n\n7 - Excetua-se do disposto nos n.os 5 e 6 o concurso especial previsto na alínea e) do n.º 2 do artigo 3.º, no qual se observa o seguinte:\n\na) As vagas não preenchidas num par instituição/ciclo de estudos não revertem para outras modalidades de acesso previstas no n.º 1 do mesmo artigo ou do regime geral de acesso;\n\nb) As vagas do concurso especial não podem ser aumentadas por reversão de vagas sobrantes noutra ou noutras modalidades de acesso previstas no n.º 1 ou no regime geral.\n\n8 - As vagas sobrantes das modalidades de acesso a que se refere o n.º 1 não podem ser utilizadas de forma diferente das previstas nos n.os 5 a 7.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "170387965": {
+   "fragment_id": "65884846",
+   "type": 11,
+   "heading": "Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77-A/2021 - Diário da República n.º 167/2021, 1º Suplemento, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), em vigor a partir de 2021-08-28",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso\n\n1 - O número máximo de vagas para admissão de estudantes ao abrigo dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma e dos concursos de mudança de par instituição/curso para o 1.º ano curricular é fixado anualmente por despacho do membro do Governo responsável pela área da ciência, tecnologia e ensino superior.\n\n2 - O número total de vagas aberto anualmente em cada instituição de ensino superior para a candidatura à matrícula e inscrição através do concurso a que se refere a alínea a) do n.º 2 do artigo 3.º não pode ser inferior a 5% do número de vagas fixado para o regime geral de acesso para o conjunto dos ciclos de estudos dessa instituição.\n\n3 - O despacho a que se refere o n.º 1 pode fixar um valor mínimo a afetar a uma ou mais das modalidades de acesso a que se refere o mesmo número, por par instituição/ciclo de estudos ou globalmente.\n\n4 - Para o ingresso em cada ano letivo só podem ser abertas vagas para um par instituição/ciclo de estudos para as modalidades de acesso a que se refere o n.º 1 quando tenham sido igualmente abertas para o regime geral de acesso.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77-A/2021 - Diário da República n.º 167/2021, 1º Suplemento, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), em vigor a partir de 2021-08-28\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "216567203": {
+   "fragment_id": "65884816",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n1 - Os regimes regulados pelo presente diploma aplicam-se ao acesso e ingresso nas instituições de ensino superior públicas e privadas para a frequência de ciclos de estudos de licenciatura e integrados de mestrado.\n\n2 - O presente diploma não se aplica às instituições de ensino superior militar e policial.\n\n3 - No caso dos cursos ministrados no regime de ensino à distância aplica-se o disposto no Decreto-Lei n.º 133/2019, de 3 de setembro, que aprova o regime jurídico do ensino superior ministrado à distância.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567204": {
+   "fragment_id": "65884825",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições específicas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 8.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, bem como a ciclos de estudo em associação entre instituições de ensino politécnico e de ensino universitário, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "216567205": {
+   "fragment_id": "65884829",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições específicas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, bem como a ciclos de estudo em associação entre instituições de ensino politécnico e de ensino universitário, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "216567206": {
+   "fragment_id": "131051255",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 13.º-A — Âmbito\n\n1 - São abrangidos pelo concurso especial previsto na alínea e) do n.º 2 do artigo 3.º os titulares das seguintes ofertas educativas e formativas de dupla certificação de nível secundário, conferentes do nível 4 de qualificação do Quadro Nacional de Qualificações:\n\na) Cursos profissionais e cursos científico-tecnológicos/cursos com planos próprios;\n\nb) Cursos de aprendizagem;\n\nc) Cursos de educação e formação para jovens;\n\nd) Cursos de âmbito setorial da rede de escolas do Turismo de Portugal, I. P.;\n\ne) Cursos artísticos especializados;\n\nf) Cursos de formação profissional no âmbito do Programa Formativo de Inserção de Jovens da Região Autónoma dos Açores.\n\n2 - São ainda abrangidos pelo concurso especial previsto na alínea e) do n.º 2 do artigo 3.º os estudantes titulares de:\n\na) Cursos artísticos especializados de nível secundário da área da música;\n\nb) Cursos de Estado-Membro da União Europeia, legalmente equivalentes ao ensino secundário português, conferentes de dupla certificação, escolar e profissional, e conferentes do nível 4 de qualificação do Quadro Europeu de Qualificações;\n\nc) Outros cursos não portugueses, legalmente equivalentes ao ensino secundário português, conferentes de dupla certificação, escolar e profissional, nas situações em que os candidatos em causa tenham nacionalidade portuguesa.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "839791866": {
+   "fragment_id": "65884834",
+   "type": 11,
+   "heading": "Artigo 14.º — Vagas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 14.º — Vagas\n\n1 - As vagas para cada par instituição/ciclo de estudos, para cada um dos concursos especiais, são:\n\na) Fixadas anualmente pelo órgão legal e estatutariamente competente da instituição de ensino;\n\nb) Publicadas no sítio na Internet da instituição de ensino superior;\n\nc) Comunicadas à Direção-Geral do Ensino Superior nos termos e prazos por esta fixados.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "216567207": {
+   "fragment_id": "65884835",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 15.º — Seriação\n\nOs critérios de seriação de cada concurso especial são fixados pelo órgão legal e estatutariamente competente da instituição, podendo este fixar prioridades na ocupação de vagas a candidatos com deficiência, emigrantes e familiares que com eles residam e lusodescendentes, estudantes beneficiários de ação social escolar e candidatos oriundos da área de influência regional da instituição de ensino superior.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "839791867": {
+   "fragment_id": "65884840",
+   "type": 11,
+   "heading": "Artigo 20.º — Universidade Aberta",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Universidade Aberta\n\nA aplicação do presente diploma à Universidade Aberta faz-se através de regulamentos aprovados pelo seu órgão legal e estatutariamente competente, homologados pelo membro do Governo responsável pela área do ensino superior e publicados na 2.ª série do Diário da República.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567200": {
+   "fragment_id": "216566411",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Ciclos de estudo em regime de ensino à distância",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 20.º-A — Ciclos de estudo em regime de ensino à distância\n\nO presente decreto-lei aplica-se ao acesso e ingresso em ciclos de estudo em regime de ensino à distância nos termos do disposto no Decreto-Lei n.º 133/2019, de 3 de setembro, que aprova o regime jurídico do ensino superior ministrado à distância, e dos regulamentos aprovados pelo órgão legal e estatutariamente competente da instituição de ensino superior.\n\n> Aditado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567201": {
+   "fragment_id": "65884841",
+   "type": 11,
+   "heading": "Artigo 21.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Creditação\n\n1 - A creditação da formação académica anteriormente adquirida pelos estudantes que ingressam num ciclo de estudos através de um concurso especial realiza-se nos termos fixados pelos artigos 45.º a 45.º-B do Decreto-Lei n.º 74/2006, de 24 de março, alterado pelos Decretos-Leis n.os 107/2008, de 25 de junho, 230/2009, de 14 de setembro, e 115/2013, de 7 de agosto.\n\n2 - Não é passível de creditação:\n\na) A formação adicional a que se refere o artigo 16.º do Decreto-Lei n.º 88/2006, de 23 de maio;\n\nb) A formação complementar a que se refere o artigo 25.º do Decreto-Lei n.º 43/2014, de 18 de março."
+  },
+  "216567202": {
+   "fragment_id": "65884842",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - Os concursos especiais objeto do presente diploma são considerados na avaliação periódica da qualidade das instituições de ensino superior e dos seus ciclos de estudos, que deve ponderar:\n\na) O teor, classificações finais e taxas de sucesso das provas de ingresso a que se referem os artigos 8.º e 11.º, bem como a alínea c) do n.º 1 do artigo 13.º-C;\n\nb) As provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, criadas pelo Decreto-Lei n.º 64/2006, de 21 de março, na sua redação atual;\n\nc) O progresso e aproveitamento escolar dos estudantes que ingressam através dos concursos especiais durante o respetivo ciclo de estudos.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "216567208": {
+   "fragment_id": "65884846",
+   "type": 11,
+   "heading": "Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 32/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2021-171942716), em vigor a partir de 2021-08-28",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77-A/2021 - Diário da República n.º 167/2021, 1º Suplemento, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), em vigor a partir de 2021-08-28",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso\n\n1 - O número máximo de vagas para admissão de estudantes ao abrigo dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma e dos concursos de mudança de par instituição/curso para o 1.º ano curricular é fixado por despacho do membro do Governo responsável pela área do ensino superior.\n\n2 - O número total de vagas aberto anualmente em cada instituição de ensino superior para a candidatura à matrícula e inscrição através do concurso a que se refere a alínea a) do n.º 2 do artigo 3.º não pode ser inferior a 5 % do limite máximo de admissões do conjunto dos ciclos de estudos dessa instituição.\n\n3 - O despacho a que se refere o n.º 1 pode fixar um valor mínimo a afetar a uma ou mais das modalidades de acesso a que se refere o mesmo número, por par instituição/ciclo de estudos ou globalmente.\n\n4 - Para o ingresso em cada ano letivo só podem ser abertas vagas para um par instituição/ciclo de estudos para as modalidades de acesso a que se refere o n.º 1 quando tenham sido igualmente abertas para o regime geral de acesso.\n\n5 - (Revogado.)\n\n6 - As vagas não preenchidas num par instituição/ciclo de estudos no regime geral de acesso podem reverter para outras modalidades de acesso ao mesmo ciclo de estudos nos termos fixados pelos regulamentos do concurso nacional e dos concursos institucionais.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 32/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2021-171942716), em vigor a partir de 2021-08-28\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77-A/2021 - Diário da República n.º 167/2021, 1º Suplemento, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), em vigor a partir de 2021-08-28\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  }
+ }
+}

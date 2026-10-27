@@ -1,0 +1,340 @@
+---
+schema_version: '1.0'
+id: pt:dre:211034:por
+title: Decreto-Lei n.º 72/2004
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2003/40/CE, da Comissão, de 16 de Maio, que estabelece a
+  lista, os limites de concentração e as menções constantes do rótulo para os constituintes das águas minerais naturais, bem
+  como as condições de utilização de ar enriquecido em ozono para o tratamento das águas minerais naturais e das águas de
+  nascente
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 72/2004
+official_date: null
+publication_date: '2004-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/2004, Série I-A de 2004-03-25
+  number: '72'
+  series: I
+  supplement: null
+  pages: 1916 - 1919
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/03/072a00/19161919.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-72-2004.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-03-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/72/2004/p/cons/20210129/pt/html
+  oj: null
+  dre: '211034'
+  dre_path: /dr/detalhe/decreto-lei/72-2004-211034
+  internal: pt:dre:211034:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2004-211034
+  metadata_url: https://data.dre.pt/eli/dec-lei/72/2004/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-156546136
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-156546136
+  retrieved_at: '2026-10-22T12:38:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bdc3c1c8aae4352f4585423f5629729056ebf52d33d109256e4e460265020fc9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:38:46Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-72-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água Mineral
+- Aproximação das Legislações
+- Contra-ordenação
+- Saúde Pública
+- Etiquetagem
+- Ozono
+- Informação do Consumidor
+- Proteção do Consumidor
+- Comércio
+- Tratamento de ÁGUA
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: pt:dre:473321:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156/1998/06/06/p/dre
+- type: cites
+  target: pt:dre:662105:por
+  label: null
+  source: http://data.dre.pt/eli/port/1220/2000/12/29/p/dre
+- type: transposes
+  target: celex:31980L0777
+  label: null
+  source: null
+- type: transposes
+  target: celex:31996L0070
+  label: null
+  source: null
+- type: transposes
+  target: celex:32003L0040
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:38:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 72/2004
+
+Decreto-Lei n.º 72/2004
+
+de 25 de Março
+
+Em determinadas águas minerais naturais podem estar presentes, no estado natural, constituintes que, devido à sua origem hidrogeológica, podem representar um risco para a saúde pública a partir de uma certa concentração.
+
+Assim, a nível comunitário foi prevista a possibilidade de se adoptarem limites de concentração harmonizados para os constituintes das águas minerais naturais, após consulta ao Comité Científico da Alimentação Humana, que emitiu parecer sobre o arsénio, o bário, o flúor, o boro e o manganês, tendo validado, para outros constituintes das águas minerais, os limites recomendados pela Organização Mundial de Saúde (OMS) para a água destinada ao consumo humano.
+
+Por outro lado, a norma Codex «Águas minerais naturais» revista estabelece, para efeitos sanitários, uma lista de constituintes e seus limites máximos, adoptada com base em dados científicos internacionais mais recentes e que garante uma protecção suficiente da saúde pública.
+
+Recorde-se que as águas minerais naturais cujos teores em determinados constituintes ultrapassem os limites máximos para eles fixados devem, para fins de saúde pública, ser objecto de tratamentos de separação desses constituintes.
+
+Nos controlos oficiais a realizar aos constituintes das águas minerais naturais é necessário prever-se uma margem de flutuação dos resultados analíticos em torno dos limites máximos de concentração que corresponda às incertezas de medição.
+
+O Decreto-Lei n.º 156/98, de 6 de Junho, transpôs para a ordem jurídica interna a Directiva n.º 80/777/CEE, do Conselho, de 15 de Julho, alterada pela Directiva n.º 96/70/CE, do Parlamento Europeu e do Conselho, de 28 de Outubro, tendo estabelecido as regras para o reconhecimento das águas minerais naturais e as características e condições a observar nos tratamentos, rotulagem e comercialização das águas minerais naturais e águas de nascente.
+
+Neste diploma prevê-se a possibilidade de separar o ferro, o manganês, o enxofre e o arsénio de determinadas águas minerais naturais por um tratamento com ar enriquecido em ozono, sob reserva da avaliação deste tratamento pelo Comité Científico da Alimentação Humana e da adopção das condições de utilização pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal.
+
+Por outro lado, a rotulagem das águas minerais naturais tratadas com ar enriquecido em ozono deve incluir uma menção que informe suficientemente os consumidores sobre o tratamento realizado.
+
+São aplicáveis às águas de nascente as disposições relativas aos tratamentos previstos no artigo 6.º do Decreto-Lei n.º 156/98, de 6 de Junho, e, em especial, o tratamento ao ar enriquecido em ozono.
+
+Importa, pois, com vista à protecção da saúde pública, estabelecer os limites de concentração para os constituintes das águas minerais naturais.
+
+Deste modo, o presente diploma transpõe para a ordem jurídica nacional a Directiva n.º 2003/40/CE, da Comissão, de 16 de Maio, que estabelece a lista, os limites de concentração e as menções de rotulagem para os constituintes das águas minerais naturais, bem como as condições de utilização do ar enriquecido em ozono para o tratamento das águas minerais naturais e das águas de nascente.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º 2003/40/CE, da Comissão, de 16 de Maio, que estabelece a lista, os limites de concentração e as menções constantes do rótulo para os constituintes das águas minerais naturais, bem como as condições de utilização de ar enriquecido em ozono para o tratamento das águas minerais naturais e das águas de nascente.
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma estabelece:
+
+a) A lista dos constituintes das águas minerais naturais que podem apresentar um risco para a saúde pública, que se encontram naturalmente presentes na água mas que não resultam de uma eventual contaminação da nascente;
+
+b) Os limites para os teores admissíveis dos constituintes das águas minerais naturais e os respectivos prazos de aplicação;
+
+c) As menções constantes do rótulo relativamente a determinados constituintes;
+
+d) As condições de utilização do ar enriquecido em ozono para a separação dos compostos de ferro, manganês, enxofre e arsénio das águas minerais naturais e das águas de nascente, bem como a menção que deve constar do rótulo das águas que foram objecto deste tratamento.
+
+###### Artigo 3.º — Limites dos constituintes
+
+1 - As águas minerais naturais devem obedecer aos limites máximos de concentração previstos no anexo I do presente diploma, que dele faz parte integrante, para os constituintes que figuram no referido anexo.
+
+2 - As águas minerais naturais devem respeitar as especificações constantes do anexo II do presente diploma, que dele faz parte integrante, no que se refere à análise dos constituintes enumerados no referido anexo I.
+
+###### Artigo 4.º — Tratamento com ar enriquecido em ozono
+
+1 - Sem prejuízo do disposto na alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 156/98, de 6 de Junho, a aplicação do tratamento das águas minerais naturais com ar enriquecido em ozono deve ser previamente notificada às seguintes autoridades:
+
+a) Direcção-Geral de Geologia e Energia, que deve garantir que o recurso a esse tratamento se justifica pela composição da água em compostos de ferro, de manganês, de enxofre e de arsénio;
+
+b) Instituto Nacional de Engenharia, Tecnologia e Inovação, que deve assegurar que o operador toma todas as medidas necessárias para garantir a eficácia e a inocuidade do tratamento para permitir o seu controlo pelas autoridades competentes.
+
+2 - O tratamento das águas minerais naturais com ar enriquecido em ozono deve satisfazer as seguintes condições:
+
+a) O tratamento não modifica a composição analítica das águas minerais naturais no que se refere aos seus constituintes característicos;
+
+b) A água mineral natural antes do tratamento respeita as características microbiológicas definidas no artigo 4.º do Decreto-Lei n.º 156/98, de 6 de Junho, e no n.º 1.º da Portaria n.º 1220/2000, de 29 de Dezembro;
+
+c) O tratamento não provoca a formação de resíduos numa concentração superior aos limites máximos estabelecidos no anexo III ao presente diploma, que dele faz parte integrante, ou de resíduos susceptíveis de constituir um risco para a saúde pública.
+
+###### Artigo 5.º — Rotulagem
+
+1 - As águas minerais naturais com concentração em flúor superior a 1,5 mg/l devem ostentar, no rótulo, a menção «Contém mais de 1,5 mg/l de flúor: não adequada para o consumo regular dos lactentes e crianças menores de 7 anos».
+
+2 - A menção de rotulagem prevista no n.º 1 deve figurar na proximidade imediata da denominação de venda e em caracteres claramente visíveis.
+
+3 - As águas minerais naturais que, nos termos do n.º 1, ostentem uma menção no rótulo devem incluir a indicação do teor real em flúor a nível da composição físico-química em constituintes característicos, de acordo com o disposto na alínea a) do n.º 5 do artigo 8.º do Decreto-Lei n.º 156/98, de 6 de Junho.
+
+4 - Nos termos da alínea c) do n.º 5 do artigo 8.º do Decreto-Lei n.º 156/98, de 6 de Junho, a rotulagem das águas minerais naturais sujeitas a um tratamento com ar enriquecido em ozono deve incluir, próximo da indicação da composição analítica em constituintes característicos, a menção «Água sujeita a uma técnica de oxidação autorizada com ar enriquecido em ozono.».
+
+###### Artigo 6.º — Águas de nascente
+
+Sem prejuízo do disposto na alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 156/98, de 6 de Junho, o artigo 4.º e o n.º 4 do artigo 5.º do presente diploma aplicam-se também às águas de nascente.
+
+###### Artigo 7.º — Contra-ordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) A ultrapassagem dos limites máximos de concentração previstos no anexo I para os constituintes nele referidos;
+
+b) O não cumprimento das especificações constantes do anexo II no que se refere à análise dos constituintes nele enumerados;
+
+c) A não notificação das autoridades competentes da aplicação do tratamento das águas minerais naturais com ar enriquecido em ozono, nos termos do n.º 1 do artigo 4.º;
+
+d) O não cumprimento das condições exigidas pelo n.º 2 do artigo 4.º para o tratamento das águas minerais naturais com ar enriquecido em ozono;
+
+e) A falta, inexactidão ou deficiência das menções obrigatórias de rotulagem exigidas pelo artigo 5.º;
+
+f) O não cumprimento do artigo 4.º e do n.º 4 do artigo 5.º no que respeita às águas de nascente.
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 8.º — Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações, licenças e alvarás.
+
+2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória.
+
+###### Artigo 9.º — Fiscalização
+
+A fiscalização do cumprimento das normas do presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 10.º — Instrução e decisão
+
+1 - (Revogado.)
+
+2 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
+
+3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 11.º — Distribuição do produto das coimas
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 12.º — Norma transitória
+
+1 - A partir de 1 de Julho de 2004 é proibida a comercialização de produtos não conformes com o disposto no presente diploma.
+
+2 - Os produtos acondicionados e rotulados antes da entrada em vigor do presente diploma podem ser distribuídos até ao esgotamento das existências.
+
+3 - Até 1 de Janeiro de 2006 as águas minerais naturais devem, aquando do seu acondicionamento, estar em conformidade com os limites máximos de concentração previstos no anexo I para os constituintes aí mencionados, bem como com as especificações constantes do anexo II no que se refere à análise dos constituintes enumerados no anexo I.
+
+4 - No caso do flúor e do níquel, o prazo indicado no n.º 3 é prorrogado até 1 de Janeiro de 2008.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
+
+Promulgado em 12 de Março de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 15 de Março de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo I
+
+Constituintes naturalmente presentes nas águas minerais naturais e limites máximos que, se forem ultrapassados, podem constituir um risco para a saúde pública.
+
+(ver tabela no documento original)
+
+## Anexo II — Características (ver nota *) de desempenho para a análise dos constituintes do anexo I
+
+(ver tabela no documento original)
+
+(nota *) Os métodos de análise que servem para medir as concentrações dos constituintes do anexo I devem poder medir, no mínimo, concentrações iguais ao valor paramétrico com uma exactidão, uma precisão e um limite de detecção especificados. Qualquer que seja a sensibilidade do método de análise utilizado, o resultado é expresso utilizando, pelo menos, o mesmo número de casas decimais que para o limite máximo previsto no anexo I.
+
+Notas
+
+1 - A exactidão é o erro sistemático e é a diferença entre o valor médio de um elevado número de medições repetidas e o valor exacto.
+
+2 - A precisão é o erro aleatório e é expressa, em geral, como o desvio padrão (dentro de um lote e entre lotes) do conjunto dos resultados sobre a média. Uma precisão aceitável é igual a duas vezes o desvio padrão relativo.
+
+3 - O limite de detecção é:
+
+Três vezes o desvio padrão relativo dentro de um lote de uma amostra natural que contenha uma concentração pouco elevada do parâmetro; ou
+
+Cinco vezes o desvio padrão relativo dentro de um lote de uma amostra virgem.
+
+4 - O método deve permitir determinar o cianeto total sob todas as suas formas.
+
+## Anexo III
+
+Limites máximos para os resíduos de tratamento das águas minerais naturais e para as águas de nascente com ar enriquecido em ozono.
+
+(ver tabela no documento original)

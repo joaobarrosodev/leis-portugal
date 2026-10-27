@@ -1,0 +1,698 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:911648873:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-911678600",
+ "dre_path": "/dr/detalhe/decreto-lei/27-2025-911648873",
+ "source_lastmod": "2026-09-11",
+ "versions": [
+  {
+   "date": "2025-03-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "911628129",
+    "911628130",
+    "911628131",
+    "911628132",
+    "911628133",
+    "911628134",
+    "911628135",
+    "911628136",
+    "911628137",
+    "911628138",
+    "911628139",
+    "911628140",
+    "911628141",
+    "911628142",
+    "911628143",
+    "911628144",
+    "911628145",
+    "911628146",
+    "911628147",
+    "911628148",
+    "911628149",
+    "911628150",
+    "911628151",
+    "911628152",
+    "911628153",
+    "911628154",
+    "911628155",
+    "911628156",
+    "911628157",
+    "911628158",
+    "911628159",
+    "911628160",
+    "911628161",
+    "911628162",
+    "911628163",
+    "911628165",
+    "911628166",
+    "911628167",
+    "911628168"
+   ]
+  },
+  {
+   "date": "2025-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:923131697:por",
+     "title": "Decreto-Lei n.º 85-A/2025",
+     "published": "2025-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/85-a-2025-923131697"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 25.º-A",
+    "Adita Artigo 27.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "911628129",
+    "911628130",
+    "911628131",
+    "911628132",
+    "911628133",
+    "911628134",
+    "911628135",
+    "923028744",
+    "911628137",
+    "911628138",
+    "911628139",
+    "923028745",
+    "923028746",
+    "911628142",
+    "911628143",
+    "911628144",
+    "911628145",
+    "923028747",
+    "911628147",
+    "923028748",
+    "911628149",
+    "911628150",
+    "911628151",
+    "911628152",
+    "923028749",
+    "911628154",
+    "911628155",
+    "911628156",
+    "911628157",
+    "923028753",
+    "923028754",
+    "923028755",
+    "923028760",
+    "923028761",
+    "923028762",
+    "923028763",
+    "923028764",
+    "911628164",
+    "911628165",
+    "911628166",
+    "911628167",
+    "911628168"
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1168451282:por",
+     "title": "Decreto-Lei n.º 181/2026",
+     "published": "2026-09-09",
+     "dre_path": "/dr/detalhe/decreto-lei/181-2026-1168451282"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "911628129",
+    "911628130",
+    "911628131",
+    "911628132",
+    "911628133",
+    "1169079775",
+    "911628135",
+    "1169086175",
+    "911628137",
+    "911628138",
+    "911628139",
+    "1169086375",
+    "923028746",
+    "911628142",
+    "911628143",
+    "911628144",
+    "911628145",
+    "923028747",
+    "911628147",
+    "1169079575",
+    "911628149",
+    "911628150",
+    "911628151",
+    "911628152",
+    "923028749",
+    "911628154",
+    "911628155",
+    "911628156",
+    "911628157",
+    "923028753",
+    "1169086575",
+    "923028755",
+    "923028760",
+    "923028761",
+    "923028762",
+    "923028763",
+    "923028764",
+    "911628164",
+    "911628165",
+    "911628166",
+    "911628167",
+    "911628168"
+   ]
+  }
+ ],
+ "fragments": {
+  "911628129": {
+   "fragment_id": "911678601",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 27/2025\n\nde 20 de março\n\nO Estatuto dos Funcionários de Justiça (EFJ), que, tendo sido aprovado pelo Decreto-Lei n.º 343/99, de 26 de agosto, foi objeto de várias alterações, carece de revisão no quadro do disposto na Lei n.º 12-A/2008, de 27 de fevereiro, e na Lei n.º 35/2014, de 20 de junho, que aprovou a Lei Geral do Trabalho em Funções Públicas (LTFP), ambas impondo a revisão das carreiras não revistas de regime especial com o objetivo de promover a sua adequação aos princípios gerais e às normas enformadores da relação jurídica de emprego público, tal como ela é, atualmente, caracterizada.\n\nPor outro lado, aquela necessidade de revisão encontra a sua justificação última na necessidade de ajustar o estatuto socioprofissional dos oficiais de justiça à organização judiciária estabelecida na Lei da Organização do Sistema Judiciário, aprovada pela Lei n.º 62/2013, de 26 de agosto (LOSJ).\n\nA LOSJ determina a carreira de oficial de justiça como sendo uma carreira especial, atenta a especial natureza das funções que estes profissionais desenvolvem: os oficiais de justiça são os trabalhadores dos mapas de pessoal das secretarias dos tribunais que, exercendo funções na dependência funcional dos magistrados, apoiam diretamente o órgão de soberania Tribunal na prossecução das suas competências.\n\nNão obstante o reconhecimento da necessidade de revisão do seu Estatuto profissional num todo, sendo este um trabalho demorado e exigente, entende este Governo, no imediato, dar continuidade à tomada de algumas medidas que valorizem e dignifiquem os trabalhadores desta carreira, por forma a promover a melhoria das suas condições de trabalho.\n\nAssim, a nova configuração da carreira especial de oficial de justiça representa uma forte aposta na valorização profissional destes trabalhadores, já que passa a ser de grau 3 de complexidade funcional, o constitui o reconhecimento da complexidade e grau de exigência técnica das funções mais qualificadas que são desenvolvidas pelos oficiais de justiça.\n\nPor outro lado, numa perspetiva de simplificação, prevê-se o seu desdobramento em apenas duas categorias - escrivão, a que corresponde um conteúdo funcional de chefia, e a de técnico de justiça.\n\nA transição para as novas categorias da nova carreira dos trabalhadores atualmente integrados nas carreiras ora extintas não origina qualquer perda de natureza remuneratória, prevendo-se o seu reposicionamento no nível remuneratório superior mais próximo do montante correspondente à soma da remuneração base atual, acrescida do suplemento de recuperação processual, que é integrado.\n\nTambém a tabela remuneratória criada para a nova carreira, não só representa uma valorização salarial, como salvaguarda as legítimas expectativas de evolução remuneratória dos trabalhadores integrados nas carreiras ora extintas.\n\nA consagração da existência de dois cargos de chefia, em regime de comissão de serviço, selecionados através de procedimento concursal, concretiza a adequação das funções dos oficiais de justiça ao atual modelo de organização judiciária, designadamente no que concerne a uma mais apropriada configuração das competências da chefia das unidades orgânicas das secretarias dos tribunais e a uma maior clarificação das responsabilidades de cada oficial de justiça.\n\nNo contexto das funções processuais desenvolvidas pelos oficiais de justiça, o presente decreto-lei contribui decisivamente para o incremento da eficácia e eficiência do funcionamento dos tribunais portugueses, alinhando-os com os padrões organizativos dos seus congéneres europeus mais qualificados.\n\nÉ também nessa perspetiva, e reconhecendo o ónus específico inerente à obrigatoriedade de disponibilidade permanente que é exigida a estes profissionais, que se consagra a atribuição de um suplemento remuneratório fixado no montante de € 180,00, à semelhança de outras carreiras da Administração Pública que, com o mesmo fundamento, adquiriram o direito à perceção de um suplemento desta natureza.\n\nAcresce que, ultrapassado o limite de horas previsto no presente decreto-lei é devido o pagamento por trabalho suplementar.\n\nPor último, em função da necessidade de salvaguardar a situação jurídico-funcional dos atuais secretários de justiça, determina-se que, não obstante a sua transição se operar para a categoria de escrivão, preenchem automaticamente os lugares correspondentes ao cargo de chefia de secretário de justiça, não havendo possibilidade de oposição à renovação por parte do empregador público (regime transitório).\n\nForam ouvidas as estruturas representativas dos trabalhadores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "911628130": {
+   "fragment_id": "911678602",
+   "type": 1,
+   "heading": "Capítulo I — Carreira de oficial de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Carreira de oficial de justiça"
+  },
+  "911628131": {
+   "fragment_id": "911678603",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Cria a carreira especial de oficial de justiça e a respetiva tabela remuneratória;\n\nb) Procede à revisão, por extinção, das categorias de secretário de tribunal superior e de secretário de justiça e das carreiras judicial e dos serviços do Ministério Público do grupo de pessoal oficial de justiça, determinando e regulando a transição dos trabalhadores nelas integrados, previstas no Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual;\n\nc) Extingue, por integração na remuneração base, o suplemento de recuperação processual, previsto no Decreto-Lei n.º 485/99, de 10 de novembro, e cria o suplemento de disponibilidade;\n\nd) Procede à revisão dos regimes de acesso e remuneração de comissões de serviço a exercer por oficiais de justiça, nos termos da lei."
+  },
+  "911628132": {
+   "fragment_id": "911678604",
+   "type": 11,
+   "heading": "Artigo 2.º — Carreira e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Carreira e estrutura\n\n1 - Os oficiais de justiça integram a carreira especial de oficial de justiça, nos termos do disposto no n.º 1 do artigo 18.º da Lei n.º 62/2013, de 26 de agosto, na sua redação atual (Lei da Organização do Sistema Judiciário) e no n.º 3 do artigo 84.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n2 - A carreira especial de oficial de justiça é pluricategorial, de grau de complexidade funcional 3, e integra as seguintes categorias:\n\na) Escrivão;\n\nb) Técnico de justiça."
+  },
+  "911628133": {
+   "fragment_id": "911678605",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conteúdo funcional\n\n1 - Os técnicos de justiça e os escrivães exercem as competências estabelecidas no presente decreto-lei, na lei de organização judiciária e nas leis de processo, em conformidade com estas e na dependência funcional do magistrado competente.\n\n2 - O conteúdo funcional das categorias de escrivão e de técnico de justiça é o que consta do anexo i ao presente decreto-lei e do qual faz parte integrante.\n\n3 - O conteúdo funcional da categoria de escrivão integra o da categoria de técnico de justiça."
+  },
+  "911628134": {
+   "fragment_id": "911678606",
+   "type": 11,
+   "heading": "Artigo 4.º — Cargos de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cargos de chefia\n\n1 - São cargos de chefia, previstos nos mapas de pessoal das secretarias:\n\na) O secretário de tribunal superior;\n\nb) O secretário de justiça.\n\n2 - O cargo de chefia de secretário de tribunal superior é exercido, em regime de comissão de serviço, por oficiais de justiça que exerçam ou tenham exercido o cargo de secretário de justiça, selecionados por procedimento concursal.\n\n3 - O cargo de chefia de secretário de justiça é exercido, em regime de comissão de serviço, por oficiais de justiça pertencentes à categoria de escrivão, selecionados por procedimento concursal.\n\n4 - As comissões de serviço previstas nos números anteriores iniciam-se na data fixada no despacho de designação e terminam em 31 de agosto do terceiro ano subsequente.\n\n5 - A comissão de serviço pode ser renovada por iguais períodos, por decisão do diretor-geral da Administração da Justiça, tendo em conta os resultados evidenciados no respetivo exercício.\n\n6 - As competências dos titulares dos cargos de secretário de tribunal superior e de secretário de justiça são as que constam do anexo ii ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "911628135": {
+   "fragment_id": "911678607",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissões de serviço a exercer por oficiais de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissões de serviço a exercer por oficiais de justiça\n\n1 - Os inspetores do Conselho dos Oficiais de Justiça (COJ), previsto no Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual, são nomeados em comissão de serviço, pelo diretor-geral da Administração da Justiça, mediante proposta do Conselho dos Oficiais de Justiça, de entre oficiais de justiça que exerçam ou tenham exercido funções de secretário de justiça, com classificação de Muito bom.\n\n2 - Os secretários de inspeção do COJ, previsto no Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual, são nomeados nos termos do número anterior de entre oficiais de justiça com um mínimo de cinco anos de experiência de serviço efetivo de funções nas secretarias e classificação de Muito bom.\n\n3 - Os oficiais de justiça podem ser nomeados em comissão de serviço, pelo diretor-geral da Administração da Justiça, para exercer funções de formadores-coordenadores do Centro de Formação de Oficiais de Justiça, previsto no Decreto-Lei n.º 102/2001, de 29 de março, se integrarem a categoria de escrivão ou forem técnicos de justiça de reconhecida competência e um mínimo de cinco anos de experiência de exercício efetivo de funções nas secretarias."
+  },
+  "911628136": {
+   "fragment_id": "911678608",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dever de disponibilidade\n\n1 - Em cumprimento de despacho fundamentado do magistrado competente, os oficiais de justiça permanecem ao serviço, para além do horário de funcionamento das secretarias, sempre que tal se revele necessário para:\n\na) Assegurar a prática de qualquer ato de natureza urgente já iniciado ou que se preveja iniciar em breve em virtude de não ter sido possível iniciá-lo em momento anterior;\n\nb) Evitar inconvenientes excessivos aos intervenientes em atos processuais em curso, desde que os mesmos tenham sido iniciados pelo menos uma hora antes da hora de encerramento das secretarias.\n\n2 - Em cumprimento de despacho fundamentado do respetivo superior hierárquico, estão também sujeitos ao dever de permanecer ao serviço para além do horário de funcionamento das secretarias os oficiais de justiça que exercem funções fora das mesmas, quando tal se revele estritamente indispensável para assegurar as seguintes finalidades:\n\na) Inspeção, apoio à inspeção e a serviços de inspeção de magistrados e oficiais de justiça;\n\nb) Formação e apoio à formação de oficiais de justiça;\n\nc) Apoio técnico à coordenação e direção da investigação e da prevenção da criminalidade violenta, altamente organizada ou de especial complexidade;\n\nd) Execução de ações e medidas relativas à gestão, organização e funcionamento dos tribunais."
+  },
+  "911628137": {
+   "fragment_id": "911678609",
+   "type": 11,
+   "heading": "Artigo 7.º — Remuneração dos oficiais de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Remuneração dos oficiais de justiça\n\n1 - Os oficiais de justiça estão sujeitos ao regime geral de remunerações dos trabalhadores que exercem funções públicas, com as especificidades previstas no presente decreto-lei.\n\n2 - O número de posições remuneratórias, bem como a identificação dos correspondentes níveis remuneratórios da carreira especial de oficial de justiça, constam do anexo iii ao presente decreto-lei e do qual faz parte integrante.\n\n3 - Os níveis mencionados no número anterior são referentes à tabela remuneratória única dos trabalhadores que exercem funções públicas."
+  },
+  "911628138": {
+   "fragment_id": "911678610",
+   "type": 11,
+   "heading": "Artigo 8.º — Posicionamento remuneratório no ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Posicionamento remuneratório no ingresso\n\n1 - O posicionamento remuneratório de ingresso na categoria de técnico de justiça faz-se na primeira posição remuneratória da respetiva categoria.\n\n2 - O posicionamento remuneratório de ingresso na categoria de escrivão faz-se na primeira posição remuneratória da respetiva categoria ou na posição a que corresponda o nível remuneratório imediatamente superior, caso o trabalhador aufira remuneração base igual ou superior."
+  },
+  "911628139": {
+   "fragment_id": "911678611",
+   "type": 11,
+   "heading": "Artigo 9.º — Remuneração dos cargos de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Remuneração dos cargos de chefia\n\n1 - O secretário de tribunal superior é remunerado pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas, a que acrescem despesas de representação no valor equiparado ao de dirigente intermédio de 2.º grau.\n\n2 - O secretário de justiça é remunerado pelo nível remuneratório 46 da tabela remuneratória única dos trabalhadores que exercem funções públicas, a que acrescem despesas de representação no valor equiparado ao de dirigente intermédio de 2.º grau.\n\n3 - O oficial de justiça designado para um cargo de chefia pode optar, a todo o tempo, pela remuneração base devida na categoria de origem."
+  },
+  "911628140": {
+   "fragment_id": "911678612",
+   "type": 11,
+   "heading": "Artigo 10.º — Remunerações dos membros do Conselho dos Oficiais de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Remunerações dos membros do Conselho dos Oficiais de Justiça\n\n1 - Os inspetores do COJ são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas.\n\n2 - O secretário do COJ e os secretários de inspeção deste órgão auferem a remuneração correspondente à posição remuneratória imediatamente subsequente àquela em que se encontram posicionados na categoria de origem ou, em caso de inexistência desta, pelo nível remuneratório que sucede ao correspondente à sua posição na tabela remuneratória única.\n\n3 - O disposto no número anterior é igualmente aplicável aos vogais eleitos que exercem funções em tempo integral.\n\n4 - Os vogais do COJ que não exerçam o cargo em tempo integral têm direito, por cada reunião, a senhas de presença de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça."
+  },
+  "911628141": {
+   "fragment_id": "911678613",
+   "type": 11,
+   "heading": "Artigo 11.º — Remunerações dos formadores-coordenadores do Centro de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remunerações dos formadores-coordenadores do Centro de Formação\n\nOs oficiais de justiça a exercer funções de formadores-coordenadores do Centro de Formação de Oficiais de Justiça, previsto no Decreto-Lei n.º 102/2001, de 29 de março, são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas."
+  },
+  "911628142": {
+   "fragment_id": "911678614",
+   "type": 11,
+   "heading": "Artigo 12.º — Suplemento de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suplemento de disponibilidade\n\n1 - Os trabalhadores integrados na carreira especial de oficial de justiça têm direito a um suplemento remuneratório, para compensação do ónus específico inerente à obrigatoriedade de disponibilidade para permanecer ao serviço, nos termos do artigo 6.º, até 24 horas de trabalho mensais, com limite de 2 horas diárias.\n\n2 - O disposto no número anterior não se aplica aos trabalhadores integrados na carreira especial de oficial de justiça que exerçam os cargos de secretário de tribunal superior e de secretário de justiça.\n\n3 - Sem prejuízo do faseamento previsto no artigo 23.º, o suplemento a que se refere o n.º 1 é fixado no montante de € 180,00, atualizável pelo aumento de referência anual para a Administração Pública.\n\n4 - O serviço prestado nos limites mensais e diários previstos no n.º 1 não dá direito a qualquer outra compensação para além do suplemento previsto no presente artigo.\n\n5 - O serviço prestado para além dos limites mensais e diários previstos no n.º 1 é considerado trabalho suplementar, sendo compensado nos termos da LTFP."
+  },
+  "911628143": {
+   "fragment_id": "911678615",
+   "type": 1,
+   "heading": "Capítulo II — Normas de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Normas de transição"
+  },
+  "911628144": {
+   "fragment_id": "911678616",
+   "type": 11,
+   "heading": "Artigo 13.º — Transição para a categoria de escrivão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transição para a categoria de escrivão\n\n1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal transitam para a categoria de escrivão da carreira especial de oficial de justiça, mantendo a colocação e situação funcional existentes àquela data.\n\n2 - A totalidade da antiguidade sucessivamente contada nas categorias de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal, detida pelos oficiais de justiça à data da transição prevista no n.º 1 do artigo 30.º, é contabilizada, para todos os efeitos, na antiguidade na categoria de escrivão em que são integrados.\n\n3 - A totalidade da antiguidade sucessivamente contada nas categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar, detida pelos oficiais de justiça à data da transição prevista no n.º 1 do artigo 30.º, é contabilizada, para todos os efeitos, na antiguidade na carreira especial de oficial de justiça."
+  },
+  "911628145": {
+   "fragment_id": "911678617",
+   "type": 11,
+   "heading": "Artigo 14.º — Transição para a categoria de técnico de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transição para a categoria de técnico de justiça\n\n1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar transitam para a categoria de técnico de justiça da carreira especial de oficial de justiça, mantendo a colocação e situação funcional existentes àquela data.\n\n2 - A totalidade da antiguidade sucessivamente contada nas categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar detida pelos oficiais de justiça à data da transição prevista no n.º 1 do artigo 30.º, é contabilizada, para todos os efeitos, na antiguidade na categoria de técnico de justiça em que são integrados e na antiguidade na carreira especial de oficial de justiça."
+  },
+  "911628146": {
+   "fragment_id": "911678618",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime de substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime de substituição\n\n1 - Os trabalhadores que, à datada transição prevista no n.º 1 do artigo 30.º, se encontrem a exercer funções de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal em regime de substituição, mantém a colocação e situação funcional existentes àquela data, até à conclusão do procedimento concursal de ingresso na categoria de escrivão a que se refere o artigo 27.º, sem prejuízo de a sua transição se efetuar nos termos dos artigos 13.º e 14.º\n\n2 - Os trabalhadores que se encontrem a exercer, em regime de substituição, funções de secretário de tribunal superior ou secretário de justiça são remunerados nos termos do artigo 9.º\n\n3 - Os trabalhadores que se encontrem a exercer, em regime de substituição, funções de escrivão de direito e técnico de justiça principal auferem a remuneração correspondente à primeira posição remuneratória da categoria de escrivão ou ao nível remuneratório imediatamente superior, caso o trabalhador aufira remuneração base igual ou superior."
+  },
+  "911628147": {
+   "fragment_id": "911678619",
+   "type": 11,
+   "heading": "Artigo 16.º — Lista nominativa das transições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Lista nominativa das transições\n\nAs transições a que se referem os artigos anteriores fazem-se por lista nominativa, notificada e tornada pública no dia 30 de junho de 2025, nos termos do artigo 109.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, com as necessárias adaptações."
+  },
+  "911628148": {
+   "fragment_id": "911678620",
+   "type": 11,
+   "heading": "Artigo 17.º — Reposicionamento nas novas tabelas remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reposicionamento nas novas tabelas remuneratórias\n\n1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal são reposicionados na tabela remuneratória da categoria de escrivão.\n\n2 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar são reposicionados na tabela remuneratória da categoria de técnico de justiça, salvo o disposto no n.º 5.\n\n3 - Na transição para a nova carreira, os trabalhadores são reposicionados no nível remuneratório superior mais próximo do montante correspondente à soma da remuneração base atual acrescida do suplemento de recuperação processual (SRP×12:14).\n\n4 - Quando do reposicionamento referido no número anterior resultar um acréscimo remuneratório inferior a € 28,00, o trabalhador é reposicionado na posição remuneratória seguinte.\n\n5 - Os trabalhadores cujo nível remuneratório mais próximo do montante referido no número anterior seja o 13 ou 15 da tabela remuneratória única são reposicionados nas respetivas posições remuneratórias transitórias constantes do anexo iv ao presente decreto-lei e do qual faz parte integrante.\n\n6 - O tempo de serviço decorrido desde a data da produção de efeitos da última progressão remuneratória de que os trabalhadores hajam beneficiado na escala indiciária não releva para as futuras alterações de posicionamento remuneratório nas novas tabelas.\n\n7 - A primeira e segunda alteração de posicionamento remuneratório dos trabalhadores reposicionados nos termos do n.º 5 efetua-se da seguinte forma:\n\na) Em 1 de janeiro de 2026:\n\ni) Os trabalhadores posicionados no nível remuneratório 13 são reposicionados no nível remuneratório 15;\n\nii) Os trabalhadores posicionados no nível remuneratório 15 são reposicionados no nível remuneratório 18, correspondente à primeira posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º, desde que tenham concluído com sucesso o período experimental;\n\nb) Em 1 de janeiro de 2027, os trabalhadores posicionados no nível remuneratório 15 são reposicionados no nível remuneratório 18, correspondente à primeira posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º, desde que tenham na data de conclusão com sucesso o período experimental.\n\n8 - O reposicionamento dos trabalhadores que, nos casos do ponto ii) da alínea a) e da alínea b) do número anterior, não tenham ainda concluído com sucesso o período experimental nas respetivas datas, é feito na data da sua conclusão.\n\n9 - Os trabalhadores que na transição, nos termos do n.º 2, são reposicionados no nível remuneratório 18 são novamente reposicionados, a 1 de janeiro de 2027, no nível remuneratório 21, correspondente à segunda posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º\n\n10 - Para os trabalhadores reposicionados nos termos dos n.<sup>os </sup>7 a 9, o tempo de serviço decorrido até 31 de dezembro de 2026 não releva para efeitos de futura alteração do seu posicionamento remuneratório."
+  },
+  "911628149": {
+   "fragment_id": "911678621",
+   "type": 11,
+   "heading": "Artigo 18.º — Posicionamento excecional no ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Posicionamento excecional no ingresso\n\n1 - Os trabalhadores que ingressam na carreira especial de oficial de justiça, na categoria de técnico de justiça, durante os anos de 2025 e 2026 são posicionados nos seguintes termos:\n\na) Se ingressarem no ano de 2025, são posicionados na primeira posição remuneratória transitória constante do anexo iv ao presente decreto-lei;\n\nb) Se ingressarem no ano de 2026, são posicionados na segunda posição remuneratória transitória constante do anexo iv ao presente decreto-lei.\n\n2 - Aos trabalhadores que ingressam na carreira especial de oficial de justiça durante os anos de 2025 e 2026 aplica-se o disposto nos n.<sup>os </sup>7 e 8 do artigo anterior."
+  },
+  "911628150": {
+   "fragment_id": "911678622",
+   "type": 11,
+   "heading": "Artigo 19.º — Extinção das posições remuneratórias transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extinção das posições remuneratórias transitórias\n\nAs posições remuneratórias transitórias constantes do anexo iv ao presente decreto-lei extinguem-se na data em que todos os trabalhadores previstos no n.º 7 do artigo 17.º e no artigo 18.º forem reposicionados no nível remuneratório 18."
+  },
+  "911628151": {
+   "fragment_id": "911678623",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção do suplemento de recuperação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção do suplemento de recuperação processual\n\nO suplemento remuneratório atribuído ao pessoal oficial de justiça pelo artigo 1.º do Decreto-Lei n.º 485/99, de 10 de novembro, é extinto, por integração a retribuição base, à data da transição prevista no n.º 1 do artigo 30.º"
+  },
+  "911628152": {
+   "fragment_id": "911678624",
+   "type": 1,
+   "heading": "Capítulo III — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições complementares, transitórias e finais"
+  },
+  "911628153": {
+   "fragment_id": "911678625",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime aplicável aos trabalhadores integrados em outras carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime aplicável aos trabalhadores integrados em outras carreiras\n\nAos trabalhadores em funções públicas integrados em outras carreiras da Administração Pública, que exerçam funções nos mapas de pessoal das secretarias dos tribunais e serviços do Ministério Público, aplica-se o regime previsto na LTFP, ficando sujeitos ao dever de confidencialidade próprio do estatuto de oficial de justiça."
+  },
+  "911628154": {
+   "fragment_id": "911678626",
+   "type": 11,
+   "heading": "Artigo 22.º — Salvaguarda do direito à remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Salvaguarda do direito à remuneração\n\nDa aplicação do presente decreto-lei não pode resultar, para qualquer trabalhador abrangido pelas suas disposições, a diminuição da remuneração base a que tenha direito, à data da entrada em vigor do presente decreto-lei, enquanto permanecer no exercício das funções que desempenha àquela data."
+  },
+  "911628155": {
+   "fragment_id": "911678627",
+   "type": 11,
+   "heading": "Artigo 23.º — Faseamento do suplemento de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Faseamento do suplemento de disponibilidade\n\n1 - Em 2025, o valor do suplemento de disponibilidade previsto no n.º 3 do artigo 12.º é de € 120,00.\n\n2 - Em 2026, o valor do suplemento de disponibilidade previsto no n.º 3 do artigo 12.º é de € 180,00.\n\n3 - A partir de 2027, o valor do suplemento de disponibilidade é o previsto no n.º 3 do artigo 12.º, com a atualização aí determinada."
+  },
+  "911628156": {
+   "fragment_id": "911678628",
+   "type": 11,
+   "heading": "Artigo 24.º — Períodos experimentais em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Períodos experimentais em curso\n\nOs períodos experimentais que se encontrem a decorrer à data da transição prevista no n.º 1 do artigo 30.º mantêm-se até ao respetivo termo, transitando os trabalhadores para a carreira especial de oficial de justiça, na categoria de técnico de justiça, sendo reposicionados na posição remuneratória e nível nos termos do artigo 17.º"
+  },
+  "911628157": {
+   "fragment_id": "911678629",
+   "type": 11,
+   "heading": "Artigo 25.º — Salvaguarda de mobilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Salvaguarda de mobilidades\n\nOs trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, se encontrem em situação de mobilidade consideram-se em mobilidade na nova carreira, de acordo com as regras de transição constantes do presente decreto-lei."
+  },
+  "911628158": {
+   "fragment_id": "911678630",
+   "type": 11,
+   "heading": "Artigo 26.º — Primeiro preenchimento de lugares de secretário de tribunal superior e secretário de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Primeiro preenchimento de lugares de secretário de tribunal superior e secretário de justiça\n\n1 - Os lugares de secretário de tribunal superior, previstos nos mapas de pessoal dos tribunais superiores, são preenchidos pelos trabalhadores que transitem para a categoria de escrivão, por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de tribunal superior.\n\n2 - Os lugares de secretário de justiça, previstos nos mapas de pessoal das secretarias, são preenchidos pelos trabalhadores que transitem para a categoria de escrivão, por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de justiça.\n\n3 - Os trabalhadores previstos nos números anteriores são designados pelo diretor-geral da Administração da Justiça.\n\n4 - As comissões de serviço a que se refere o número anterior são automaticamente renovadas, por iguais períodos, salvo oposição apresentada pelo trabalhador, comunicada à Direção-Geral da Administração da Justiça nos 60 dias anteriores à data da renovação."
+  },
+  "911628159": {
+   "fragment_id": "911678631",
+   "type": 11,
+   "heading": "Artigo 27.º — Abertura de procedimento concursal para ingresso na categoria de escrivão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Abertura de procedimento concursal para ingresso na categoria de escrivão\n\nNo prazo máximo de um ano a contar da entrada em vigor do presente decreto-lei, é aberto procedimento concursal para ingresso na categoria de escrivão, com os métodos de seleção previstos em portaria dos membros do Governo responsáveis pelas áreas governativas da Administração Pública e justiça."
+  },
+  "911628160": {
+   "fragment_id": "911678632",
+   "type": 11,
+   "heading": "Artigo 28.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Referências\n\nAs referências feitas em lei, regulamento ou contrato às carreiras e categorias extintas pelo presente decreto-lei continuam a aplicar-se a estes trabalhadores em tudo o que não contrarie o disposto no presente decreto-lei e consideram-se feitas:\n\na) À categoria de «escrivão», quando sejam relativas às categorias de escrivão de direito e técnico de justiça principal;\n\nb) À categoria de «técnico de justiça», quando sejam relativas às categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar;\n\nc) Ao cargo de chefia de «secretário de justiça», quando sejam relativas à categoria de secretário de justiça;\n\nd) Ao cargo de chefia de «secretário de tribunal superior», quando sejam relativas à categoria de secretário de tribunal superior."
+  },
+  "911628161": {
+   "fragment_id": "911678633",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nSão revogados:\n\na) Os artigos 2.º, 3.º, 6.º, 36.º, 37.º, 38.º, 65.º, 80.º, 85.º e 86.º e os n.<sup>os </sup>1 e 2 do artigo 122.º do Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual;\n\nb) O Decreto-Lei n.º 485/99, de 10 de novembro, na redação atual;\n\nc) O n.º 3 do artigo 34.º e os n.<sup>os </sup>1 e 4 do artigo 36.º do Decreto-Lei n.º 102/2001, de 29 de março, na sua redação atual."
+  },
+  "911628162": {
+   "fragment_id": "911678634",
+   "type": 11,
+   "heading": "Artigo 30.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Produção de efeitos\n\n1 - A transição dos trabalhadores para a carreira especial de oficial de justiça produz efeitos na data prevista no artigo 16.º\n\n2 - O despacho previsto no n.º 3 do artigo 26.º produz efeitos à data prevista no número anterior.\n\n3 - O valor da remuneração base e suplemento de disponibilidade a que o trabalhador tem direito por aplicação dos artigos 7.º, 9.º, 10.º, 11.º, dos n.<sup>os </sup>1 a 4 do artigo 12.º, do n.º 3 do artigo 15.º, dos n.<sup>os </sup>1 a 6 do artigo 17.º, do artigo 20.º, do n.º 1 do artigo 23.º e do artigo 24.º é pago com efeitos a 1 de janeiro de 2025, sendo realizados os necessários acertos de contas."
+  },
+  "911628163": {
+   "fragment_id": "911678635",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "911628165": {
+   "fragment_id": "911678637",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 3.º)\n\na) Compete ao escrivão, na dependência funcional do magistrado competente, designadamente:\n\nChefiar as unidades orgânicas determinadas por despacho do diretor-geral da Administração da Justiça, de acordo com as orientações superiormente fixadas;\n\nPlanear, coordenar, organizar, orientar, supervisionar e executar o serviço desenvolvido nas unidades orgânicas cuja chefia lhe está cometida;\n\nCoordenar a tramitação e a prática dos atos processuais nos processos pendentes nas secretarias dos tribunais e serviço do Ministério Público;\n\nAcompanhar os técnicos de justiça em período experimental;\n\nImplementar os procedimentos adequados ao incremento da qualidade do serviço a prestar;\n\nDesempenhar as demais competências conferidas por lei ou por determinação superior.\n\nPreparar, organizar e tratar os elementos necessários à elaboração de relatórios;\n\nGerir o arquivo físico e digital dos processos judiciais, incluindo a organização, eliminação e remessa ao arquivo distrital;\n\nDistribuir, coordenar e controlar o serviço externo;\n\nAssegurar a gestão dos objetos apreendidos;\n\nAssumir funções de especial complexidade que lhe sejam atribuídas em sede de Regulamento das Custas Processuais.\n\nb) Compete ao técnico de justiça, na dependência funcional do magistrado competente, designadamente:\n\nPrestar a necessária assistência aos magistrados nas diligências e respetiva elaboração da ata ou auto;\n\nAssegurar a operacionalização da prestação de depoimentos através de teleconferência;\n\nEfetuar a distribuição dos processos;\n\nDiligenciar pela tramitação processual, nomeadamente, citações, notificações, comunicações oficiosas, previstas na lei, cumprimento de despachos, emissão de certidões, pesquisas em bases de dados públicas e controlo de prazos para garantia do seu cumprimento;\n\nExercer as competências do agente de execução conferidas por lei;\n\nRealizar o serviço externo;\n\nProceder à contagem dos processos;\n\nDesempenhar, no âmbito do inquérito, as funções que competem aos órgãos de polícia criminal, mediante determinação do magistrado titular;\n\nDesempenhar as funções técnico-jurídicas, no âmbito da atividade jurisdicional do tribunal, conferidas por lei ou por determinação superior;\n\nDesignar intervenientes nos processos e pagamento dos respetivos honorários e preparos, quando a lei o determine;\n\nAssumir as funções que lhe sejam atribuídas em sede de Regulamento das Custas Processuais;\n\nDesempenhar as funções técnicas, no âmbito da atividade do tribunal, conferidas por lei ou por determinação superior."
+  },
+  "911628166": {
+   "fragment_id": "911678638",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 6 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 6 do artigo 4.º)\n\na) Compete ao secretário de tribunal superior:\n\nDesempenhar as competências que lhe sejam delegadas ou subdelegadas pelo presidente do tribunal ou pelo administrador;\n\nDirigir os serviços da secretaria;\n\nDesempenhar as demais competências conferidas por lei ou por determinação superior.\n\nb) Compete ao secretário de justiça:\n\nDesempenhar as competências que lhe sejam delegadas ou subdelegadas pelo presidente do tribunal, magistrado do Ministério Público coordenador ou pelo administrador judiciário, designadamente em função de determinada área territorial;\n\nDesempenhar as demais competências conferidas por lei ou por determinação superior;\n\nApoiar o administrador judiciário na direção dos serviços das secretarias, de acordo com o que por este for definido e sob sua orientação;\n\nDesempenhar as funções atribuídas ao escrivão, na falta deste ou quando o estado dos serviços o exigir."
+  },
+  "911628167": {
+   "fragment_id": "911678639",
+   "type": 14,
+   "heading": "Anexo III — Tabelas remuneratórias da carreira especial de oficial de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Tabelas remuneratórias da carreira especial de oficial de justiça\n\n(a que se refere o n.º 2 do artigo 7.º)\n\n| Categoria de escrivão | Posição | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | Nível | 35 | 38 | 41 | 44 | 47 | 50 | 52 | 54 | 56 | 58 |\n\n| Categoria de técnico de justiça | Posição | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Nível | 18 | 21 | 24 | 27 | 30 | 32 | 34 | 36 | 38 | 40 | 42 |  |"
+  },
+  "911628168": {
+   "fragment_id": "911678640",
+   "type": 14,
+   "heading": "Anexo IV — Categoria de técnico de justiça: tabela de posições remuneratórias transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Categoria de técnico de justiça: tabela de posições remuneratórias transitórias\n\n(a que se refere o n.º 5 do artigo 17.º)\n\n| Categoria de técnico de justiça | Posição | 1.ª | 2.ª |\n| --- | --- | --- | --- |\n|  | Nível | 13 | 15 |\n\n118818507"
+  },
+  "923028744": {
+   "fragment_id": "911678608",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de disponibilidade",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Dever de disponibilidade\n\n1 - Em cumprimento de despacho fundamentado do magistrado competente, os oficiais de justiça permanecem ao serviço, para além do horário de funcionamento das secretarias, sempre que tal se revele necessário para:\n\na) Assegurar a prática de qualquer ato de natureza urgente já iniciado ou que se preveja iniciar em breve em virtude de não ter sido possível iniciá-lo em momento anterior;\n\nb) Evitar inconvenientes excessivos aos intervenientes em atos processuais em curso, desde que os mesmos tenham sido iniciados pelo menos uma hora antes da hora de encerramento das secretarias.\n\n2 - Em cumprimento de despacho fundamentado do respetivo superior hierárquico, estão também sujeitos ao dever de permanecer ao serviço para além do horário de funcionamento das secretarias os oficiais de justiça que exercem funções fora das mesmas, quando tal se revele estritamente indispensável para assegurar as seguintes finalidades:\n\na) Inspeção, apoio à inspeção e a serviços de inspeção de magistrados e oficiais de justiça;\n\nb) Formação e apoio à formação de oficiais de justiça;\n\nc) Apoio técnico à coordenação e direção da investigação e da prevenção da criminalidade violenta, altamente organizada ou de especial complexidade;\n\nd) Execução de ações e medidas relativas à gestão, organização e funcionamento dos tribunais.\n\n3 - O disposto nos números anteriores não exclui o dever de os oficiais de justiça realizarem trabalho fora do horário de funcionamento das secretarias que decorra da lei, nomeadamente o serviço de turno e o que resulte do cumprimento das regras relativas a eleições, aplicando-se a estes casos as disposições relativas a trabalho suplementar da LTFP.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028745": {
+   "fragment_id": "911678612",
+   "type": 11,
+   "heading": "Artigo 10.º — Remunerações dos membros do Conselho dos Oficiais de Justiça",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 10.º — Remunerações dos membros do Conselho dos Oficiais de Justiça\n\n1 - Os inspetores do COJ são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas, podendo optar, a todo o tempo, pela remuneração base devida na categoria de origem.\n\n2 - O secretário do COJ e os secretários de inspeção deste órgão auferem a remuneração correspondente à posição remuneratória imediatamente subsequente àquela em que se encontram posicionados na categoria de origem ou, em caso de inexistência desta, pelo nível remuneratório que sucede ao correspondente à sua posição na tabela remuneratória única.\n\n3 - O disposto no número anterior é igualmente aplicável aos vogais eleitos que exercem funções em tempo integral.\n\n4 - Os vogais do COJ que não exerçam o cargo em tempo integral têm direito, por cada reunião, a senhas de presença de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028746": {
+   "fragment_id": "911678613",
+   "type": 11,
+   "heading": "Artigo 11.º — Remunerações dos formadores-coordenadores do Centro de Formação",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Remunerações dos formadores-coordenadores do Centro de Formação\n\nOs oficiais de justiça a exercer funções de formadores-coordenadores do Centro de Formação de Oficiais de Justiça, previsto no Decreto-Lei n.º 102/2001, de 29 de março, são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas, podendo optar, a todo o tempo, pela remuneração base devida na categoria de origem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028747": {
+   "fragment_id": "911678618",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime de substituição",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 15.º — Regime de substituição\n\n1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, se encontrem a exercer funções de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal em regime de substituição mantêm a colocação e situação funcional existentes àquela data, até à conclusão dos procedimentos concursais de ingresso na categoria de escrivão e de seleção e provimento nos cargos de secretário e secretário de tribunal superior a que se refere o artigo 27.º, sem prejuízo de a sua transição se efetuar nos termos dos artigos 13.º e 14.º\n\n2 - Os trabalhadores que se encontrem a exercer, em regime de substituição, funções de secretário de tribunal superior ou secretário de justiça são remunerados nos termos do artigo 9.º\n\n3 - Os trabalhadores que se encontrem a exercer, em regime de substituição, funções de escrivão de direito e técnico de justiça principal auferem a remuneração correspondente à primeira posição remuneratória da categoria de escrivão ou ao nível remuneratório imediatamente superior, caso o trabalhador aufira remuneração base igual ou superior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028748": {
+   "fragment_id": "911678620",
+   "type": 11,
+   "heading": "Artigo 17.º — Reposicionamento nas novas tabelas remuneratórias",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 17.º — Reposicionamento nas novas tabelas remuneratórias\n\n1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal são reposicionados na tabela remuneratória da categoria de escrivão.\n\n2 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar são reposicionados na tabela remuneratória da categoria de técnico de justiça, salvo o disposto no n.º 5.\n\n3 - Na transição para a nova carreira, os trabalhadores são reposicionados na posição remuneratória, correspondente ao nível remuneratório superior, mais próximo do montante correspondente à soma da remuneração base atual acrescida do suplemento de recuperação processual (SRP × 12 : 14) das tabelas remuneratórias previstas nos anexos iii e iv do presente decreto-lei.\n\n4 - (Revogado.)\n\n5 - Os trabalhadores cujo nível remuneratório mais próximo do montante referido no número anterior seja o 13 ou 15 da tabela remuneratória única são reposicionados nas respetivas posições remuneratórias transitórias constantes do anexo iv ao presente decreto-lei e do qual faz parte integrante.\n\n6 - O tempo de serviço decorrido desde a data da produção de efeitos da última progressão remuneratória de que os trabalhadores hajam beneficiado na escala indiciária não releva para as futuras alterações de posicionamento remuneratório nas novas tabelas.\n\n7 - A primeira e segunda alteração de posicionamento remuneratório dos trabalhadores reposicionados nos termos do n.º 5 efetua-se da seguinte forma:\n\na) Em 1 de janeiro de 2026:\n\ni) Os trabalhadores posicionados no nível remuneratório 13 são reposicionados no nível remuneratório 15;\n\nii) Os trabalhadores posicionados no nível remuneratório 15 são reposicionados no nível remuneratório 18, correspondente à primeira posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º, desde que tenham concluído com sucesso o período experimental;\n\nb) Em 1 de janeiro de 2027, os trabalhadores posicionados no nível remuneratório 15 são reposicionados no nível remuneratório 18, correspondente à primeira posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º, desde que tenham na data de conclusão com sucesso o período experimental.\n\n8 - O reposicionamento dos trabalhadores que, nos casos do ponto ii) da alínea a) e da alínea b) do número anterior, não tenham ainda concluído com sucesso o período experimental nas respetivas datas, é feito na data da sua conclusão.\n\n9 - Os trabalhadores que na transição, nos termos do n.º 2, são reposicionados no nível remuneratório 18 são novamente reposicionados, a 1 de janeiro de 2027, no nível remuneratório 21, correspondente à segunda posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º\n\n10 - Para os trabalhadores reposicionados nos termos dos n.<sup>os </sup>7 a 9, o tempo de serviço decorrido até 31 de dezembro de 2026 não releva para efeitos de futura alteração do seu posicionamento remuneratório.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028749": {
+   "fragment_id": "911678625",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime aplicável aos trabalhadores integrados em outras carreiras",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 21.º — Regime aplicável aos trabalhadores integrados em outras carreiras\n\nAos trabalhadores em funções públicas integrados em outras carreiras da Administração Pública que exerçam funções nos mapas de pessoal das secretarias dos tribunais e serviços do Ministério Público aplica-se o regime previsto na LTFP, sem prejuízo dos direitos e dos deveres a que estão sujeitos pelo facto de serem funcionários de justiça, nos termos do n.º 1 do Estatuto dos Funcionários de Justiça, incluindo o dever de confidencialidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028753": {
+   "fragment_id": "923131722",
+   "type": 11,
+   "heading": "Artigo 25.º-A — Movimento extraordinário",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 25.º-A — Movimento extraordinário\n\n1 - Após a data da transição prevista no n.º 1 do artigo 30.º do presente decreto-lei, a Direção-Geral da Administração da Justiça realiza um movimento extraordinário, nos termos do n.º 3 do artigo 18.º do Decreto-Lei n.º 343/99, de 26 de agosto, que aprova o Estatuto dos Funcionários de Justiça, na sua redação atual.\n\n2 - Ao movimento extraordinário previsto no número anterior aplicam-se as regras previstas no Estatuto dos Funcionários de Justiça, com as seguintes especificidades:\n\na) Não se aplica o n.º 4 do artigo 13.º do Estatuto dos Funcionários de Justiça, constituindo fatores atendíveis na transferência a integração em categoria superior na carreira de oficial de justiça extinta pelo presente diploma e, em caso de igualdade, sucessivamente a última classificação de serviço e a antiguidade na carreira;\n\nb) Não se aplicam os limites de anos previstos nos n.os 1 e 3 do artigo 13.º do Estatuto dos Funcionários de Justiça, salvo para os trabalhadores que se encontram em período probatório.\n\n3 - Os oficiais de justiça que, ao abrigo da alínea b) do artigo 40.º do Estatuto dos Funcionários da Justiça, ainda não concluíram o período de três anos de permanência a que se comprometeram podem concorrer ao movimento extraordinário previsto no n.º 1.\n\n4 - No caso previsto no número anterior, caso se verifique a colocação, os oficiais de justiça apenas cessam funções no lugar do compromisso e iniciam funções no lugar para o qual obtiveram transferência após o decurso do período de três anos, não podendo este último lugar ser definitivamente ocupado por outro oficial de justiça até essa data.\n\n5 - O disposto na alínea a) do n.º 2 aplica-se a todos os movimentos anuais e extraordinários que decorram até que a última classificação de serviço de todos os oficiais de justiça em exercício de funções já respeite a um período inspetivo iniciado após a data de transição prevista no n.º 1 do artigo 30.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028754": {
+   "fragment_id": "911678630",
+   "type": 11,
+   "heading": "Artigo 26.º — Primeiro preenchimento de lugares de secretário de tribunal superior e secretário de justiça",
+   "in_force_from": "2025-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 26.º — Primeiro preenchimento de lugares de secretário de tribunal superior e secretário de justiça\n\n1 - Os lugares de secretário de tribunal superior, previstos nos mapas de pessoal dos tribunais superiores, são preenchidos pelos trabalhadores que transitem para a categoria de escrivão, por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de tribunal superior.\n\n2 - Os lugares de secretário de justiça, previstos nos mapas de pessoal das secretarias, são preenchidos pelos trabalhadores que transitem para a categoria de escrivão, por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de justiça.\n\n3 - Os trabalhadores previstos nos números anteriores são designados pelo diretor-geral da Administração da Justiça.\n\n4 - As comissões de serviço a que se refere o número anterior são automaticamente renovadas, por iguais períodos, salvo oposição apresentada pelo trabalhador, comunicada à Direção-Geral da Administração da Justiça nos 60 dias anteriores à data da renovação.\n\n5 - Até à revisão dos mapas de pessoal das secretarias prevista no artigo 27.º-A, os trabalhadores que forem designados nos termos dos números anteriores não têm direito a colocação em vaga na categoria de escrivão enquanto a comissão de serviço for renovada, sendo automaticamente criada uma nova vaga, caso exerçam o seu direito de oposição à renovação previsto no número anterior.\n\n6 - Para efeitos do n.º 1 do artigo 49.º do Estatuto dos Funcionários de Justiça, aprovado em anexo ao Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual, a autorização do diretor-geral da Administração da Justiça depende da avaliação das necessidades de serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028755": {
+   "fragment_id": "911678631",
+   "type": 11,
+   "heading": "Artigo 27.º — Abertura de procedimentos concursais",
+   "in_force_from": "2025-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 27.º — Abertura de procedimentos concursais\n\nNo prazo máximo de um ano a contar da entrada em vigor do presente decreto-lei, são abertos procedimentos concursais de ingresso na categoria de escrivão e de seleção e provimento nos cargos de secretário e secretário de tribunal superior, com os métodos de seleção previstos em portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028760": {
+   "fragment_id": "923131723",
+   "type": 11,
+   "heading": "Artigo 27.º-A — Aprovação de novos mapas de pessoal",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 27.º-A — Aprovação de novos mapas de pessoal\n\nNo prazo máximo de um ano a contar da entrada em vigor do presente decreto-lei, é aprovada, pelos membros do Governo responsáveis pelas áreas da Administração Pública e da justiça, portaria com os novos mapas de pessoal das secretarias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028761": {
+   "fragment_id": "911678632",
+   "type": 11,
+   "heading": "Artigo 28.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Referências\n\nAs referências feitas em lei, regulamento ou contrato às carreiras e categorias extintas pelo presente decreto-lei continuam a aplicar-se a estes trabalhadores em tudo o que não contrarie o disposto no presente decreto-lei e consideram-se feitas:\n\na) À categoria de «escrivão», quando sejam relativas às categorias de escrivão de direito e técnico de justiça principal;\n\nb) À categoria de «técnico de justiça», quando sejam relativas às categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar;\n\nc) Ao cargo de chefia de «secretário de justiça», quando sejam relativas à categoria de secretário de justiça;\n\nd) Ao cargo de chefia de «secretário de tribunal superior», quando sejam relativas à categoria de secretário de tribunal superior."
+  },
+  "923028762": {
+   "fragment_id": "911678633",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nSão revogados:\n\na) Os artigos 2.º, 3.º, 6.º, 36.º, 37.º, 38.º, 65.º, 80.º, 85.º e 86.º e os n.<sup>os </sup>1 e 2 do artigo 122.º do Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual;\n\nb) O Decreto-Lei n.º 485/99, de 10 de novembro, na redação atual;\n\nc) O n.º 3 do artigo 34.º e os n.<sup>os </sup>1 e 4 do artigo 36.º do Decreto-Lei n.º 102/2001, de 29 de março, na sua redação atual."
+  },
+  "923028763": {
+   "fragment_id": "911678634",
+   "type": 11,
+   "heading": "Artigo 30.º — Produção de efeitos",
+   "in_force_from": "2025-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 30.º — Produção de efeitos\n\n1 - A transição dos trabalhadores para a carreira especial de oficial de justiça bem como a extinção das categorias de secretário de tribunal superior e de secretário de justiça e das carreiras judiciais e dos serviços do Ministério Público produzem efeitos no dia seguinte à data prevista no artigo 16.º\n\n2 - O despacho previsto no n.º 3 do artigo 26.º produz efeitos à data prevista no número anterior.\n\n3 - A soma do valor bruto da remuneração base e das despesas de representação ou suplemento de disponibilidade refletido o efeito das faltas que implicam perda de remuneração, a que o trabalhador tem direito por aplicação dos artigos 7.º, 9.º, 10.º, 11.º e 12.º, do n.º 3 do artigo 15.º, dos n.os 1, 2, 3, 5 e 6 do artigo 17.º, do artigo 20.º, do n.º 1 do artigo 23.º e do artigo 24.º, é paga com efeitos a 1 de janeiro de 2025, a título de acréscimo remuneratório único devido pela nova configuração da carreira profissional, sendo realizados os necessários acertos de contas.\n\n4 - Ao montante referido no número anterior acresce ainda o diferencial entre o valor relativo a trabalho suplementar pago ao trabalhador desde 1 de janeiro de 2025 e o valor que lhe corresponderia à luz da nova configuração da carreira profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "923028764": {
+   "fragment_id": "911678635",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "911628164": {
+   "fragment_id": "911678636",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rita Alarcão Júdice.\n\nPromulgado em 12 de março de 2025.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de março de 2025.\n\nO Primeiro-Ministro, Luís Montenegro."
+  },
+  "1169079775": {
+   "fragment_id": "911678606",
+   "type": 11,
+   "heading": "Artigo 4.º — Cargos de chefia",
+   "in_force_from": "2026-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14."
+   ],
+   "markdown": "###### Artigo 4.º — Cargos de chefia\n\n1 - São cargos de chefia, previstos nos mapas de pessoal das secretarias:\n\na) O secretário de tribunal superior;\n\nb) O secretário de justiça.\n\n2 - O cargo de chefia de secretário de tribunal superior é exercido, em regime de comissão de serviço, por oficiais de justiça que exerçam ou tenham exercido o cargo de secretário de justiça, selecionados por procedimento concursal.\n\n3 - O cargo de chefia de secretário de justiça é exercido, em regime de comissão de serviço, por oficiais de justiça pertencentes à categoria de escrivão, selecionados por procedimento concursal.\n\n4 - As comissões de serviço previstas nos números anteriores iniciam-se na data fixada no despacho de designação e terminam em 31 de agosto do terceiro ano subsequente.\n\n5 - [Revogado].\n\n6 - As competências dos titulares dos cargos de secretário de tribunal superior e de secretário de justiça são as que constam do anexo ii ao presente decreto-lei e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14."
+  },
+  "1169086175": {
+   "fragment_id": "911678608",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de disponibilidade",
+   "in_force_from": "2026-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Dever de disponibilidade\n\n1 - Em cumprimento de despacho fundamentado do magistrado competente, os oficiais de justiça permanecem ao serviço, para além do horário de funcionamento das secretarias, sempre que tal se revele necessário para:\n\na) Assegurar a prática de qualquer ato de natureza urgente já iniciado ou que se preveja iniciar em breve em virtude de não ter sido possível iniciá-lo em momento anterior;\n\nb) Evitar inconvenientes excessivos aos intervenientes em atos processuais em curso, desde que os mesmos tenham sido iniciados pelo menos uma hora antes da hora de encerramento das secretarias.\n\n2 - Em cumprimento de despacho fundamentado do respetivo superior hierárquico, estão também sujeitos ao dever de permanecer ao serviço para além do horário de funcionamento das secretarias os oficiais de justiça que exercem funções fora das mesmas, quando tal se revele estritamente indispensável para assegurar as seguintes finalidades:\n\na) Inspeção, apoio à inspeção e a serviços de inspeção de magistrados e oficiais de justiça;\n\nb) Formação e apoio à formação de oficiais de justiça;\n\nc) Apoio técnico à coordenação e direção da investigação e da prevenção da criminalidade violenta, altamente organizada ou de especial complexidade;\n\nd) Execução de ações e medidas relativas à gestão, organização e funcionamento dos tribunais.\n\n3 - O disposto nos números anteriores não exclui o dever de os oficiais de justiça realizarem trabalho suplementar, nos termos previstos na LTFP, bem como outro trabalho a exercer fora do horário de funcionamento das secretarias que decorra da lei, nomeadamente o serviço de turno e o que resulte do cumprimento das regras relativas a eleições, aplicando-se a estes casos as disposições relativas a trabalho suplementar da LTFP.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "1169086375": {
+   "fragment_id": "911678612",
+   "type": 11,
+   "heading": "Artigo 10.º — Remunerações dos membros do Conselho dos Oficiais de Justiça",
+   "in_force_from": "2026-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 10.º — Remunerações dos membros do Conselho dos Oficiais de Justiça\n\n1 - Os inspetores do COJ são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas, podendo optar, a todo o tempo, pela remuneração base devida na categoria de origem.\n\n2 - O secretário do COJ e os secretários de inspeção deste órgão auferem a remuneração correspondente à posição remuneratória imediatamente subsequente àquela em que se encontram posicionados na categoria de origem ou, em caso de inexistência desta, pelo nível remuneratório que sucede ao correspondente à sua posição na tabela remuneratória única.\n\n3 - O disposto no número anterior é igualmente aplicável aos vogais eleitos que exercem funções em tempo integral e aos oficiais de justiça em exercício de funções de secretário de inspeção do Conselho Superior da Magistratura, do Conselho Superior do Ministério Público e do Conselho Superior dos Tribunais Administrativos e Fiscais.\n\n4 - Os vogais do COJ que não exerçam o cargo em tempo integral têm direito, por cada reunião, a senhas de presença de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "1169079575": {
+   "fragment_id": "911678620",
+   "type": 11,
+   "heading": "Artigo 17.º — Reposicionamento nas novas tabelas remuneratórias",
+   "in_force_from": "2026-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 17.º — Reposicionamento nas novas tabelas remuneratórias\n\n1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal são reposicionados na tabela remuneratória da categoria de escrivão.\n\n2 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, integrem as categorias de escrivão-adjunto, técnico de justiça-adjunto, escrivão auxiliar e técnico de justiça auxiliar são reposicionados na tabela remuneratória da categoria de técnico de justiça, salvo o disposto no n.º 5.\n\n3 - Na transição para a nova carreira, os trabalhadores são reposicionados na posição remuneratória, correspondente ao nível remuneratório superior, mais próximo do montante correspondente à soma da remuneração base atual acrescida do suplemento de recuperação processual (SRP × 12 : 14) das tabelas remuneratórias previstas nos anexos iii e iv do presente decreto-lei.\n\n4 - Quando do reposicionamento referido no número anterior resultar um acréscimo remuneratório inferior a € 28,00, o trabalhador é reposicionado na posição remuneratória seguinte.\n\n5 - Os trabalhadores cujo nível remuneratório mais próximo do montante referido no número anterior seja o 13 ou 15 da tabela remuneratória única são reposicionados nas respetivas posições remuneratórias transitórias constantes do anexo iv ao presente decreto-lei e do qual faz parte integrante.\n\n6 - O tempo de serviço decorrido desde a data da produção de efeitos da última progressão remuneratória de que os trabalhadores hajam beneficiado na escala indiciária não releva para as futuras alterações de posicionamento remuneratório nas novas tabelas.\n\n7 - A primeira e segunda alteração de posicionamento remuneratório dos trabalhadores reposicionados nos termos do n.º 5 efetua-se da seguinte forma:\n\na) Em 1 de janeiro de 2026:\n\ni) Os trabalhadores posicionados no nível remuneratório 13 são reposicionados no nível remuneratório 15;\n\nii) Os trabalhadores posicionados no nível remuneratório 15 são reposicionados no nível remuneratório 18, correspondente à primeira posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º, desde que tenham concluído com sucesso o período experimental;\n\nb) Em 1 de janeiro de 2027, os trabalhadores posicionados no nível remuneratório 15 são reposicionados no nível remuneratório 18, correspondente à primeira posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º, desde que tenham na data de conclusão com sucesso o período experimental.\n\n8 - O reposicionamento dos trabalhadores que, nos casos do ponto ii) da alínea a) e da alínea b) do número anterior, não tenham ainda concluído com sucesso o período experimental nas respetivas datas, é feito na data da sua conclusão.\n\n9 - Os trabalhadores que na transição, nos termos do n.º 2, são reposicionados no nível remuneratório 18 são novamente reposicionados, a 1 de janeiro de 2027, no nível remuneratório 21, correspondente à segunda posição remuneratória da tabela remuneratória prevista no n.º 2 do artigo 7.º\n\n10 - Para os trabalhadores reposicionados nos termos dos n.os 7 a 9, o tempo de serviço decorrido até 31 de dezembro de 2026 não releva para efeitos de futura alteração do seu posicionamento remuneratório.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  },
+  "1169086575": {
+   "fragment_id": "911678630",
+   "type": 11,
+   "heading": "Artigo 26.º — Primeiro preenchimento de lugares de secretário de tribunal superior e secretário de justiça",
+   "in_force_from": "2026-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+   ],
+   "markdown": "###### Artigo 26.º — Primeiro preenchimento de lugares de secretário de tribunal superior e secretário de justiça\n\n1 - Os lugares de secretário de tribunal superior, previstos nos mapas de pessoal dos tribunais superiores, são preenchidos pelos trabalhadores que transitem para a categoria de escrivão, por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de tribunal superior.\n\n2 - Os lugares de secretário de justiça, previstos nos mapas de pessoal das secretarias, são preenchidos pelos trabalhadores que transitem para a categoria de escrivão, por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de justiça.\n\n3 - Os trabalhadores previstos nos números anteriores são designados pelo diretor-geral da Administração da Justiça ou pelo presidente do respetivo tribunal superior.\n\n4 - As comissões de serviço a que se refere o número anterior são automaticamente renovadas, por iguais períodos, salvo oposição apresentada pelo trabalhador, comunicada à Direção-Geral da Administração da Justiça nos 60 dias anteriores à data da renovação.\n\n5 - O disposto nos números anteriores aplica-se aos trabalhadores transitados para a categoria de escrivão por integrarem, à data da transição prevista no n.º 1 do artigo 30.º, a categoria de secretário de justiça e que, nessa data, exerciam funções em entidade pública, nos termos da alínea a) do n.º 1 do artigo 54.º do Estatuto dos Funcionários Judiciais, sendo designados, quando cessar a respetiva comissão de serviço e iniciarem funções na secretaria de um tribunal, quando se verifique a existência de posto de trabalho vago para o efeito.\n\n6 - Até à revisão dos mapas de pessoal das secretarias prevista no artigo 27.º-A, os trabalhadores que forem designados nos termos dos números anteriores não têm direito a colocação em vaga na categoria de escrivão enquanto a comissão de serviço for renovada, sendo automaticamente criada uma nova vaga, caso exerçam o seu direito de oposição à renovação previsto no número anterior.\n\n7 - Para efeitos do n.º 1 do artigo 49.º do Estatuto dos Funcionários de Justiça, aprovado em anexo ao Decreto-Lei n.º 343/99, de 26 de agosto, na sua redação atual, a autorização do diretor-geral da Administração da Justiça depende da avaliação das necessidades de serviço.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 181/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282), em vigor a partir de 2026-09-14.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85-A/2025 - Diário da República n.º 123/2025, Suplemento, Série I de 2025-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697), em vigor a partir de 2025-07-01, produz efeitos a partir de 2025-04-19"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553017:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-907215656",
+ "dre_path": "/dr/detalhe/portaria/115-2012-553017",
+ "source_lastmod": "2025-02-12",
+ "versions": [
+  {
+   "date": "2012-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907261443",
+    "907261444",
+    "907261445",
+    "907261446",
+    "907261447",
+    "907261449",
+    "907261450"
+   ]
+  }
+ ],
+ "fragments": {
+  "907261443": {
+   "fragment_id": "907215657",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 115/2012\n\nde 27 de abril\n\nO Decreto-Lei n.º 135/2009, de 3 de junho, estabelece o regime jurídico de identificação, gestão, monitorização e classificação da qualidade das águas balneares e de prestação de informação ao público sobre as mesmas, transpondo para a ordem jurídica interna a Diretiva n.º 2006/7/CE, do Parlamento Europeu e do Conselho, de 15 de fevereiro, relativa à gestão da qualidade das águas balneares. O referido diploma prevê que a identificação das águas balneares e a fixação da respetiva época balnear são aprovadas, anualmente, por portaria do membro do Governo responsável pela área do ambiente, ficando a prática balnear apenas permitida nas águas identificadas como águas balneares ou nas águas relativamente às quais não se aplique nenhuma das restrições previstas no artigo 15.º do Decreto-Lei n.º 135/2009, de 3 de junho.\n\nAssim:\n\nAo abrigo do disposto no n.º 5 do artigo 4.º e no n.º 4 do artigo 5.º do Decreto-Lei n.º 135/2009, de 3 de junho, manda o Governo, pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "907261444": {
+   "fragment_id": "907215658",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à identificação das águas balneares para o ano de 2012 e à fixação das respetivas épocas balneares."
+  },
+  "907261445": {
+   "fragment_id": "907215659",
+   "type": 11,
+   "heading": "Artigo 2.º — Identificação das águas balneares costeiras e de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Identificação das águas balneares costeiras e de transição\n\nSão identificadas como águas balneares costeiras e de transição, para o ano de 2012, as constantes do anexo i à presente portaria e que dela faz parte integrante."
+  },
+  "907261446": {
+   "fragment_id": "907215660",
+   "type": 11,
+   "heading": "Artigo 3.º — Identificação das águas balneares interiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Identificação das águas balneares interiores\n\nSão identificadas como águas balneares interiores, para o ano de 2012, as constantes do anexo ii à presente portaria e que dela faz parte integrante."
+  },
+  "907261447": {
+   "fragment_id": "907215661",
+   "type": 11,
+   "heading": "Artigo 4.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vigência\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O disposto na presente portaria vigora até ao dia 31 de Dezembro de 2012."
+  },
+  "907261449": {
+   "fragment_id": "907215663",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nIdentificação de águas balneares costeiras e de transição para o ano de 2012\n\n(ver documento original)"
+  },
+  "907261450": {
+   "fragment_id": "907215664",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 3.º)\n\nIdentificação de águas balneares interiores para o ano de 2012\n\n(ver documento original)"
+  }
+ }
+}

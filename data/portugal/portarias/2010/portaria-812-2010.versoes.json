@@ -1,0 +1,172 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:343963:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-887063999",
+ "dre_path": "/dr/detalhe/portaria/812-2010-343963",
+ "source_lastmod": "2024-09-05",
+ "versions": [
+  {
+   "date": "2010-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887583059",
+    "887062167",
+    "887062168",
+    "887062169",
+    "887062170",
+    "887062171"
+   ]
+  },
+  {
+   "date": "2014-04-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25344020:por",
+     "title": "Portaria n.º 85/2014",
+     "published": "2014-04-15",
+     "dre_path": "/dr/detalhe/portaria/85-2014-25344020"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887583059",
+    "887583060",
+    "887583061",
+    "887583062",
+    "887583063",
+    "887583064",
+    "887583065",
+    "887583066"
+   ]
+  }
+ ],
+ "fragments": {
+  "887583059": {
+   "fragment_id": "887064000",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-04-20",
+   "changed_by": [],
+   "markdown": "Portaria n.º 812/2010\n\nde 26 de Agosto\n\nA Escola Móvel, criada pela Portaria n.º 835/2009, de 31 de Julho, surgiu como um projecto de ensino à distância, com recurso a uma plataforma tecnológica de apoio à aprendizagem de alunos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, filhos de profissionais itinerantes.\n\nO trabalho realizado permitiu desenvolver uma matriz curricular e uma oferta formativa específicas, acompanhadas da produção de recursos pedagógicos que resultam do contributo de um conjunto alargado de docentes, técnicos e parceiros, mas também de um investimento financeiro significativo.\n\nNo ano lectivo de 2010-2011, mantém-se a oferta formativa de ensino à distância, da responsabilidade da Direcção-Geral de Inovação e de Desenvolvimento Curricular, sendo extinta a entidade institucional Escola Móvel. A optimização dos recursos humanos e a capacidade de manter a qualidade dos recursos pedagógicos e a inovação do processo permitirão a sustentabilidade na escola pública do serviço educativo de ensino à distância. Com esta medida pretende-se:\n\nAssegurar condições de aprendizagem e conclusão da escolaridade obrigatória a alunos itinerantes, matriculados nos 2.º e 3.º ciclos do Ensino Básico e Ensino Secundário em escolas públicas, mediante a oferta de uma matriz curricular própria;\n\nManter a metodologia de ensino à distância por via síncrona e assíncrona, garantida por um número adequado de docentes que desempenhem as funções de professores e tutores;\n\nIncrementar o desenvolvimento de conteúdos curriculares multimédia de apoio às aprendizagens;\n\nDisponibilizar a estes alunos itinerantes um conjunto de escolas de referência, em diversos pontos do país, que permitam em momentos presenciais a sua socialização e integração, acompanhamento dos seus percursos de aprendizagem, a frequência das disciplinas de Educação Física e de Educação Musical e a realização de exames;\n\nGarantir o acesso a recursos instalados nessas escolas de referência, designadamente biblioteca escolar, equipamentos desportivos e infra-estruturas tecnológicas;\n\nReforçar a cooperação com as entidades parceiras desta oferta educativa;\n\nDisponibilizar os recursos pedagógicos para outros contextos e públicos;\n\nAssegurar o acompanhamento e avaliação desta oferta educativa.\n\nAssim:\n\nAo abrigo do artigo 1.º do Decreto-Lei n.º 47 587, de 10 de Março de 1967, manda o Governo, pela Ministra da Educação, o seguinte:"
+  },
+  "887062167": {
+   "fragment_id": "887064001",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria procede à extinção da Escola Móvel, criada pela Portaria n.º 835/2009, de 31 de Julho, e define os procedimentos de transição a observar."
+  },
+  "887062168": {
+   "fragment_id": "887064002",
+   "type": 11,
+   "heading": "Artigo 2.º — Processo de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Processo de transição\n\n1 - A Direcção-Geral de Inovação e de Desenvolvimento Curricular, adiante designada DGIDC, garante o processo administrativo de transição dos alunos para escolas públicas da sua escolha, a organização dos meios técnicos necessários para que seja assegurado o funcionamento do ensino à distância a partir da plataforma tecnológica e dos recursos pedagógicos da escola.\n\n2 - O processo de transição a que se refere o número anterior é acompanhado por uma equipa a constituir com recurso aos instrumentos de mobilidade em vigor, sob coordenação do Prof. Doutor Fernando Albuquerque Costa.\n\n3 - A equipa a constituir assegura igualmente a integração dos recursos curriculares, bem como de outros recursos considerados indispensáveis ao funcionamento e qualidade educativa do projecto até agora corporizado pela Escola Móvel, no quadro de uma escola não agrupada ou de um agrupamento de escolas da rede de ensino público, de forma a manter um sistema de oferta educativa a alunos em situações diversificadas, alicerçado na matriz curricular que a Escola Móvel vinha aplicando.\n\n4 - O agrupamento de escolas a que se refere o número anterior é indicado por despacho do Secretário de Estado Adjunto e da Educação, sob proposta da DGIDC, ouvida a Direcção Regional de Educação de Lisboa e Vale do Tejo.\n\nArtigo 2.º\n\nAlunos e docentes\n\n1 - Os alunos inscritos na Escola Móvel no ano lectivo de 2009-2010 e abrangidos pelo regime de escolaridade obrigatória matriculam-se, para o ano lectivo de 2010-2011, em estabelecimentos de ensino da respectiva área de residência, de acordo com orientações a transmitir através de comunicação escrita a enviar pela DGIDC aos respectivos encarregados de educação.\n\n2 - O regime de mobilidade dos docentes na Escola Móvel termina em 31 de Agosto de 2010, devendo apresentar-se nas respectivas escolas de origem, cessando ainda, nesta data, os contratos dos docentes contratados."
+  },
+  "887062169": {
+   "fragment_id": "887064003",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissão instaladora\n\nO mandato da comissão instaladora instituída pela Portaria n.º 835/2009, de 31 de Julho, cessa na data da entrada em vigor da presente portaria."
+  },
+  "887062170": {
+   "fragment_id": "887064004",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogada a Portaria n.º 835/2009, de 31 de Julho."
+  },
+  "887062171": {
+   "fragment_id": "887064005",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "887583060": {
+   "fragment_id": "887064001",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria procede à extinção da Escola Móvel, criada pela Portaria n.º 835/2009, de 31 de Julho, e define os procedimentos de transição a observar.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20"
+  },
+  "887583061": {
+   "fragment_id": "887064002",
+   "type": 11,
+   "heading": "Artigo 2.º — Processo de transição",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 2.º — Processo de transição\n\n1 - A Direcção-Geral de Inovação e de Desenvolvimento Curricular, adiante designada DGIDC, garante o processo administrativo de transição dos alunos para escolas públicas da sua escolha, a organização dos meios técnicos necessários para que seja assegurado o funcionamento do ensino à distância a partir da plataforma tecnológica e dos recursos pedagógicos da escola.\n\n2 - O processo de transição a que se refere o número anterior é acompanhado por uma equipa a constituir com recurso aos instrumentos de mobilidade em vigor, sob coordenação do Prof. Doutor Fernando Albuquerque Costa.\n\n3 - A equipa a constituir assegura igualmente a integração dos recursos curriculares, bem como de outros recursos considerados indispensáveis ao funcionamento e qualidade educativa do projecto até agora corporizado pela Escola Móvel, no quadro de uma escola não agrupada ou de um agrupamento de escolas da rede de ensino público, de forma a manter um sistema de oferta educativa a alunos em situações diversificadas, alicerçado na matriz curricular que a Escola Móvel vinha aplicando.\n\n4 - O agrupamento de escolas a que se refere o número anterior é indicado por despacho do Secretário de Estado Adjunto e da Educação, sob proposta da DGIDC, ouvida a Direcção Regional de Educação de Lisboa e Vale do Tejo.\n\nArtigo 2.º\n\nAlunos e docentes\n\n1 - Os alunos inscritos na Escola Móvel no ano lectivo de 2009-2010 e abrangidos pelo regime de escolaridade obrigatória matriculam-se, para o ano lectivo de 2010-2011, em estabelecimentos de ensino da respectiva área de residência, de acordo com orientações a transmitir através de comunicação escrita a enviar pela DGIDC aos respectivos encarregados de educação.\n\n2 - O regime de mobilidade dos docentes na Escola Móvel termina em 31 de Agosto de 2010, devendo apresentar-se nas respectivas escolas de origem, cessando ainda, nesta data, os contratos dos docentes contratados.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20"
+  },
+  "887583062": {
+   "fragment_id": "887059685",
+   "type": 11,
+   "heading": "Artigo 3.º — Alunos e docentes",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+   ],
+   "markdown": "###### Artigo 3.º — Alunos e docentes\n\n1 - Os alunos inscritos na Escola Móvel no ano lectivo de 2009-2010 e abrangidos pelo regime de escolaridade obrigatória matriculam-se, para o ano lectivo de 2010-2011, em estabelecimentos de ensino da respectiva área de residência, de acordo com orientações a transmitir através de comunicação escrita a enviar pela DGIDC aos respectivos encarregados de educação.\n\n2 - O regime de mobilidade dos docentes na Escola Móvel termina em 31 de Agosto de 2010, devendo apresentar-se nas respectivas escolas de origem, cessando ainda, nesta data, os contratos dos docentes contratados.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+  },
+  "887583063": {
+   "fragment_id": "887064003",
+   "type": 11,
+   "heading": "Artigo 4.º — Comissão instaladora",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+   ],
+   "markdown": "###### Artigo 4.º — Comissão instaladora\n\nO mandato da comissão instaladora instituída pela Portaria n.º 835/2009, de 31 de Julho, cessa na data da entrada em vigor da presente portaria.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+  },
+  "887583064": {
+   "fragment_id": "887064004",
+   "type": 11,
+   "heading": "Artigo 5.º — Revogação",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+   ],
+   "markdown": "###### Artigo 5.º — Revogação\n\nÉ revogada a Portaria n.º 835/2009, de 31 de Julho.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+  },
+  "887583065": {
+   "fragment_id": "887064005",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2010-308086), produz efeitos a partir de 2010-08-27"
+  },
+  "887583066": {
+   "fragment_id": "887064006",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 18 de Agosto de 2010.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 85/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/portaria/85-2014-25344020), em vigor a partir de 2014-04-20"
+  }
+ }
+}

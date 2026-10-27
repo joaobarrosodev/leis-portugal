@@ -1,0 +1,1216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:617285:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-1028852433",
+ "dre_path": "/dr/detalhe/portaria/809-a-1994-617285",
+ "source_lastmod": "2026-02-03",
+ "versions": [
+  {
+   "date": "1994-09-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1028060208",
+    "1028060209",
+    "1028060210",
+    "1028060211",
+    "1028060212",
+    "1028060213",
+    "1028060214",
+    "1028060215",
+    "1028060216",
+    "1028060217",
+    "1028060218",
+    "1028060219",
+    "1028060220",
+    "1028060221",
+    "1028060222",
+    "1028060223",
+    "1028060224",
+    "1028060225",
+    "1028060226",
+    "1028060227",
+    "1028060228",
+    "1028060229",
+    "1028060230",
+    "1028060231",
+    "1028060232",
+    "1028060233",
+    "1028060234",
+    "1028060235",
+    "1028060236",
+    "1028060237",
+    "1028060238",
+    "1028060239",
+    "1028060240",
+    "1028060241",
+    "1028060242",
+    "1028060243",
+    "1028060244",
+    "1028060245",
+    "1028060246",
+    "1028060247",
+    "1028060248",
+    "1028060249",
+    "1028060250",
+    "1028060251",
+    "1028060252",
+    "1028060253",
+    "1028060254",
+    "1028060255",
+    "1028060256",
+    "1028060257",
+    "1028060258",
+    "1028060259",
+    "1028060260",
+    "1028060261",
+    "1028060262",
+    "1028060263",
+    "1028060264",
+    "1028060265",
+    "1028060266",
+    "1028060267",
+    "1028060268",
+    "1028060269",
+    "1028060270",
+    "1028060271",
+    "1028060272",
+    "1028060273",
+    "1028060274",
+    "1029684075",
+    "1029684076",
+    "1029684077",
+    "1029684078",
+    "1029684079",
+    "1029684080"
+   ]
+  },
+  {
+   "date": "1998-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:574171:por",
+     "title": "Portaria n.º 14-A/98",
+     "published": "1998-01-07",
+     "dre_path": "/dr/detalhe/portaria/14-a-1998-574171"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "1028060208",
+    "1029684082",
+    "1029684081",
+    "1028060209",
+    "1028060210",
+    "1028060211",
+    "1028060212",
+    "1028060213",
+    "1028060214",
+    "1028060215",
+    "1028060216",
+    "1028060217",
+    "1028060218",
+    "1028060219",
+    "1028060220",
+    "1028060221",
+    "1028060222",
+    "1028060223",
+    "1028060224",
+    "1028060225",
+    "1028060226",
+    "1028060227",
+    "1028060228",
+    "1028060229",
+    "1028060230",
+    "1028060231",
+    "1033275807",
+    "1033275808",
+    "1028060234",
+    "1028060235",
+    "1033275809",
+    "1028060237",
+    "1028060238",
+    "1028060239",
+    "1028060240",
+    "1028060241",
+    "1028060242",
+    "1028060243",
+    "1028060244",
+    "1028060245",
+    "1028060246",
+    "1028060247",
+    "1028060248",
+    "1028060249",
+    "1028060250",
+    "1028060251",
+    "1028060252",
+    "1028060253",
+    "1028060254",
+    "1028060255",
+    "1028060256",
+    "1028060257",
+    "1028060258",
+    "1028060259",
+    "1028060260",
+    "1028060261",
+    "1028060262",
+    "1028060263",
+    "1028060264",
+    "1028060265",
+    "1028060266",
+    "1028060267",
+    "1028060268",
+    "1028060269",
+    "1028060270",
+    "1028060271",
+    "1028060272",
+    "1028060273",
+    "1028060274",
+    "1029684075",
+    "1029684076",
+    "1029684077",
+    "1029684078",
+    "1029684079",
+    "1029684080"
+   ]
+  },
+  {
+   "date": "1998-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:209846:por",
+     "title": "Portaria n.º 83/98",
+     "published": "1998-02-19",
+     "dre_path": "/dr/detalhe/portaria/83-1998-209846"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "1028060208",
+    "1029684081",
+    "1029684082",
+    "1028060209",
+    "1028060210",
+    "1028060211",
+    "1028060212",
+    "1028060213",
+    "1028060214",
+    "1028060215",
+    "1028060216",
+    "1028060217",
+    "1028060218",
+    "1028060219",
+    "1028060220",
+    "1028060221",
+    "1028060222",
+    "1028060223",
+    "1028060224",
+    "1028060225",
+    "1028060226",
+    "1028060227",
+    "1028060228",
+    "1028060229",
+    "1028060230",
+    "1028060231",
+    "1038914253",
+    "1038914256",
+    "1028060234",
+    "1028060235",
+    "1038914257",
+    "1028060237",
+    "1028060238",
+    "1028060239",
+    "1028060240",
+    "1028060241",
+    "1028060242",
+    "1028060243",
+    "1028060244",
+    "1028060245",
+    "1028060246",
+    "1028060247",
+    "1028060248",
+    "1028060249",
+    "1028060250",
+    "1028060251",
+    "1028060252",
+    "1028060253",
+    "1028060254",
+    "1028060255",
+    "1028060256",
+    "1028060257",
+    "1028060258",
+    "1028060259",
+    "1028060260",
+    "1028060261",
+    "1028060262",
+    "1028060263",
+    "1028060264",
+    "1028060265",
+    "1028060266",
+    "1028060267",
+    "1028060268",
+    "1028060269",
+    "1028060270",
+    "1028060271",
+    "1028060272",
+    "1028060273",
+    "1028060274",
+    "1029684075",
+    "1029684076",
+    "1029684077",
+    "1029684078",
+    "1029684079",
+    "1029684080"
+   ]
+  },
+  {
+   "date": "1998-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:196951:por",
+     "title": "Portaria n.º 192/98",
+     "published": "1998-03-23",
+     "dre_path": "/dr/detalhe/portaria/192-1998-196951"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 55.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 51.º"
+   ],
+   "fragments": [
+    "1028060208",
+    "1029684081",
+    "1029684082",
+    "1028060209",
+    "1028060210",
+    "1028060211",
+    "1028060212",
+    "1028060213",
+    "1028060214",
+    "1028060215",
+    "1028060216",
+    "1028060217",
+    "1028060218",
+    "1028060219",
+    "1028060220",
+    "1028060221",
+    "1028060222",
+    "1028060223",
+    "1028060224",
+    "1028060225",
+    "1028060226",
+    "1028060227",
+    "1028060228",
+    "1028060229",
+    "1028060230",
+    "1028060231",
+    "1038914253",
+    "1038914256",
+    "1028060234",
+    "1028060235",
+    "1038914257",
+    "1028060237",
+    "1028060238",
+    "1028060239",
+    "1028060240",
+    "1028060241",
+    "1028060242",
+    "1028060243",
+    "1028060244",
+    "1028060245",
+    "1028060246",
+    "1028060247",
+    "1028060248",
+    "1028060249",
+    "1028060250",
+    "1028060251",
+    "1028060252",
+    "1028060253",
+    "1028060254",
+    "1028060255",
+    "1028060256",
+    "1028060257",
+    "1028060258",
+    "1028060259",
+    "1028060260",
+    "1028060261",
+    "1028060262",
+    "1028060263",
+    "1028060264",
+    "1028060265",
+    "1028060266",
+    "1028060267",
+    "1028060268",
+    "1049282313",
+    "1028060270",
+    "1049282314",
+    "1028060272",
+    "1049282315",
+    "1049282316",
+    "1049282317",
+    "1049282318",
+    "1029684077",
+    "1029684078",
+    "1029684079",
+    "1029684080",
+    "1049282349"
+   ]
+  },
+  {
+   "date": "1999-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:464599:por",
+     "title": "Portaria n.º 726-A/99",
+     "published": "1999-08-24",
+     "dre_path": "/dr/detalhe/portaria/726-a-1999-464599"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 55.º"
+   ],
+   "fragments": [
+    "1028060208",
+    "1029684081",
+    "1029684082",
+    "1028060209",
+    "1028060210",
+    "1028060211",
+    "1028060212",
+    "1028060213",
+    "1028060214",
+    "1028060215",
+    "1028060216",
+    "1028060217",
+    "1028060218",
+    "1028060219",
+    "1028060220",
+    "1028060221",
+    "1028060222",
+    "1028060223",
+    "1028060224",
+    "1028060225",
+    "1028060226",
+    "1028060227",
+    "1028060228",
+    "1028060229",
+    "1028060230",
+    "1028060231",
+    "1038914253",
+    "1038914256",
+    "1028060234",
+    "1028060235",
+    "1038914257",
+    "1028060237",
+    "1028060238",
+    "1028060239",
+    "1028060240",
+    "1028060241",
+    "1028060242",
+    "1028060243",
+    "1028060244",
+    "1028060245",
+    "1028060246",
+    "1028060247",
+    "1028060248",
+    "1028060249",
+    "1028060250",
+    "1028060251",
+    "1028060252",
+    "1028060253",
+    "1028060254",
+    "1028060255",
+    "1028060256",
+    "1028060257",
+    "1028060258",
+    "1028060259",
+    "1028060260",
+    "1028060261",
+    "1028060262",
+    "1028060263",
+    "1028060264",
+    "1028060265",
+    "1028060266",
+    "1028060267",
+    "1028060268",
+    "1049282313",
+    "1028060270",
+    "1049282314",
+    "1028060272",
+    "1049282315",
+    "1049282316",
+    "1049282317",
+    "1049282318",
+    "1029684077",
+    "1029684078",
+    "1029684079",
+    "1029684080",
+    "1049282366"
+   ]
+  }
+ ],
+ "fragments": {
+  "1028060208": {
+   "fragment_id": "1028852434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 809-A/94\n\nde 12 de Setembro\n\nO objectivo do reforço da capacidade de competição do sector agrícola passa pela criação de condições que permitam, directa ou indirectamente, uma redução de custos, pela utilização de processos técnicos e tecnologias alternativas e por novas orientações produtivas.\n\nA criação dessas condições passa pela melhoria da estrutura fundiária, nomeadamente através da realização de acções de emparcelamento e da construção da rede viária de acesso às explorações agrícolas, bem como pelo seu abastecimento em energia eléctrica, condição fundamental à introdução de novas tecnologias.\n\nA disponibilidade de água, factor reconhecidamente limitador do desenvolvimento da agricultura portuguesa, desempenha papel essencial no alargamento do quadro de alternativas em matéria de orientações produtivas. Neste sentido, torna-se necessário desenvolver acções que permitam uma mais eficiente utilização deste recurso, através da melhoria dos regadios existentes e da criação de novos regadios, sejam de natureza colectiva ou individual, de grande ou pequena dimensão.\n\nTendo em conta o disposto no Decreto-Lei n.º 150/94 de 25 de Maio, e na Resolução do Conselho de Ministros n.º 61/94, de 1 de Agosto, que estabelecem as condições gerais de aplicação do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF):\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento de Aplicação da Medida de Infra-Estruturas, em anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "1028060209": {
+   "fragment_id": "1028852435",
+   "type": 1,
+   "heading": "Capítulo I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições iniciais"
+  },
+  "1028060210": {
+   "fragment_id": "1028852436",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente Regulamento estabelece o regime de aplicação da Medida de Infra-Estruturas do PAMAF."
+  },
+  "1028060211": {
+   "fragment_id": "1028852437",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Medida de Infra-Estruturas desenvolve-se através das seguintes acções:\n\na) Regadios:\n\nGrandes e novos regadios colectivos;\n\nBeneficiação de regadios tradicionais e pequenas regadios;\n\nReabilitação de perímetros de rega em exploração;\n\nb) Drenagem e conservação de solos;\n\nc) Carrinhos agrícolas e rurais;\n\nd) Electrificação;\n\ne) Emparcelamento rural integrado."
+  },
+  "1028060212": {
+   "fragment_id": "1028852438",
+   "type": 1,
+   "heading": "Capítulo II — Regadios e drenagem e conservação de solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regadios e drenagem e conservação de solos"
+  },
+  "1028060213": {
+   "fragment_id": "1028852439",
+   "type": 8,
+   "heading": "Secção I — Disposição comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição comum"
+  },
+  "1028060214": {
+   "fragment_id": "1028852440",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAo presente capítulo aplica-se o disposto no Decreto-Lei n.º 269/82, de 10 de Julho, e legislação complementar."
+  },
+  "1028060215": {
+   "fragment_id": "1028852441",
+   "type": 8,
+   "heading": "Secção II — Grandes regadios e novos regadios colectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Grandes regadios e novos regadios colectivos"
+  },
+  "1028060216": {
+   "fragment_id": "1028852442",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPodem beneficiar das ajudas a que se refere a presente secção os titulares de prédios rústicos organizados em associações de beneficiários, juntas de agricultores ou cooperativas de rega, através dos organismos da administração central de âmbito nacional ou regional."
+  },
+  "1028060217": {
+   "fragment_id": "1028852443",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Podem ser concedidos ajudas, no âmbito de projectos, integrados ou não em aproveitamentos hidráulicos de fins múltiplos, que tenham por objecto:\n\na) Grandes aproveitamentos hidroagrícolas que abranjam áreas superiores a 1000 ha;\n\nb) Novos regadios colectivos que abranjam áreas inferiores a 1000 ha.\n\n2 - As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido, nos termos do Decreto-Lei n.º 269/82, de 10 de Julho."
+  },
+  "1028060218": {
+   "fragment_id": "1028852444",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO valor da ajuda previsto no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:\n\na) Elaboração de estudos e projectos de execução;\n\nb) Construção de barragens, açudes de derivação e outras estruturas complementares;\n\nc) Construção de redes de rega primária, secundária e de aproximação;\n\nd) Construção de redes de enxugo e drenagem e de obras de defesa complementar;\n\ne) Instalação de estações elevatórias, reservatórios e respectivo equipamento;\n\nf) Captação de águas subterrâneas, através de furos e poços;\n\ng) Construção e melhoria da rede viária na área de influência do perímetro de rega;\n\nh) Construção de redes de electrificação;\n\ni) Instalação de centrais mini-hídricas;\n\nj) Acções de emparcelamento;\n\nl) Adaptação de terrenos ao regadio;\n\nm) Construção das sedes das associações de beneficiários, juntas de agricultura e cooperativas de rega e equipamento necessário ao seu funcionamento;\n\nn) Expropriações e respectivas indemnizações necessárias à execução das obras;\n\no) Acompanhamento e fiscalização das obras;\n\np) Aperfeiçoamento em técnicas de regadio;\n\nq) Equipamento para instalação da áreas piloto para os sistemas de rega a instalar;\n\nr) Testagem e eventuais alterações julgadas necessárias ao pleno funcionamento das obras e à sua entrega aos beneficiários em boas condições de exploração."
+  },
+  "1028060219": {
+   "fragment_id": "1028852445",
+   "type": 8,
+   "heading": "Secção III — Beneficiação de regadios tradicionais e pequenos regadios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Beneficiação de regadios tradicionais e pequenos regadios"
+  },
+  "1028060220": {
+   "fragment_id": "1028852446",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPodem beneficiar da ajuda a que se refere a presente secção os titulares de explorações agrícolas, juntas de agricultores e cooperativas de rega, directamente ou através dos organismos da administração central ou local."
+  },
+  "1028060221": {
+   "fragment_id": "1028852447",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Podem ser concedidos ajudas à recuperação de regadios tradicionais e à criação e desenvolvimento de pequenas regadios.\n\n2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido no valor de 90% ou 55% das despesas elegíveis,, consoante se trate, respectivamente, de regadios tradicionais ou de pequenos regadios.\n\n3 - No caso de aproveitamento de águas superficiais em pequenos regadios, o valor da ajuda é acrescido de 15 pontos percentuais, desde que a área a beneficiar tenha comprovada aptidão agrícola."
+  },
+  "1028060222": {
+   "fragment_id": "1028852448",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs valores das ajudas previstas no artigo anterior podem incidir, nomeadamente, sobre despesas:\n\na) Elaboração de estudos e projectos de execução;\n\nb) Construção ou reparação de pequenas barragens;\n\nc) Construção ou reparação de charcas e de açudes de derivação;\n\nd) Construção de pequenas barragens subterrâneas;\n\ne) Construção de tomadas de águas e de reservatórios;\n\nf) Construção de pequenas estações de bombagem;\n\ng) Beneficiação ou recuperação de redes de rega existentes e instalação de novas redes de rega;\n\nh) Aquisição e montagem de contadores de água em redes colectivas de rega sob pressão ou outro equipamento necessário a uma adequada gestão da água;\n\ni) Acompanhamento e fiscalização das obras;\n\nj) Captação de águas subterrâneas;\n\nl) Aquisição de equipamento de bombagem, desde que associado as despesas referidas nas alíneas anteriores."
+  },
+  "1028060223": {
+   "fragment_id": "1028852449",
+   "type": 8,
+   "heading": "Secção IV — Reabilitação de perímetros de rega em exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Reabilitação de perímetros de rega em exploração"
+  },
+  "1028060224": {
+   "fragment_id": "1028852450",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPodem beneficiar da ajuda a que se refere a presente secção os agricultores utilizadores de aproveitamentos hidroagrícolas organizados em associações de beneficiários, ou de regentes e beneficiários, e juntas de agricultores, através dos organismos da administração central de âmbito nacional ou regional."
+  },
+  "1028060225": {
+   "fragment_id": "1028852451",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - Podem ser concedidas ajudas à recuperação e modernização de obras hidroagrícolas classificadas nos grupos II e III.\n\n2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido, nos termos do Decreto-Lei n.º 269/82, de 10 de Julho."
+  },
+  "1028060226": {
+   "fragment_id": "1028852452",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO valor da ajuda referido no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:\n\na) Elaboração de estudos e projectos de execução;\n\nb) Construção, modernização ou reparação de:\n\nBarragens;\n\nRedes de rega primária, secundário e de aproximação;\n\nRedes de enxugo e drenagem;\n\nRede viária, desde que integrada na área de influência do perímetro de rega;\n\nRede de electrificação;\n\nEstações elevatórias, reservatórios e respectivos equipamentos;\n\nSistemas de segurança e exploração;\n\nAutomatizações;\n\nInstalações de apoio e protecção às redes de rega e drenagem;\n\nCaptação de águas subterrâneas através de furos e poços;\n\nc) Recuperação e modernização de centrais hidroeléctricas associadas aos perímetros de rega;\n\nd) Expropriações e respectivas indemnizações necessárias à execução das obras;\n\ne) Acompanhamento e fiscalização das obras;\n\nf) Aperfeiçoamento em técnicas de regadio;\n\ng) Acções de emparcelamento."
+  },
+  "1028060227": {
+   "fragment_id": "1028852453",
+   "type": 8,
+   "heading": "Secção V — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Normas processuais"
+  },
+  "1028060228": {
+   "fragment_id": "1028852454",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPodem beneficiar das ajudas a que se refere a presente secção as associações de beneficiários, no caso das obras dos grupos I e II, e as juntas de agricultores ou cooperativas de rega, quando se trate de obras do grupo III, através dos organismos da administração central de âmbito nacional ou regional."
+  },
+  "1028060229": {
+   "fragment_id": "1028852455",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - Podem ser concedidos ajudas a acções de drenagem e conservação do solo que respeitem a obras de fomento hidroagrícolas classificadas nos grupos I, II ou III.\n\n2 - As ajudas são concebidas sob a forma de subvenção financeira a fundo perdido, nos temos do Decreto-Lei n.º 269/82, de 10 de Julho."
+  },
+  "1028060230": {
+   "fragment_id": "1028852456",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs valores das ajudas referidos no n.º 2 do artigo anterior podem incidir, nomeadamente, sobre despesas com:\n\na) Elaboração de estudos e projectos;\n\nb) Execução de projectos, incluindo:\n\nLimpeza e ou regularização de linhas de água naturais, principais e secundários;\n\nConstrução de redes de valas e implantação de redes de drenagem superficial e subsuperficial;\n\nConstrução de pontões e outras obras de arte, incluindo passagens a vau;\n\nInstalação de estações de bombagem;\n\nConstrução de diques de defesa;\n\nInstalação de comportas unidireccionais;\n\nConstrução de açudes amovíveis e quedas-d'água;\n\nConstrução de caminhos de apoio à rede de drenagem;\n\nConservação de solos;\n\nc) Expropriações e respectivas indemnizações necessárias à execução das obras;\n\nd) Acompanhamento e fiscalização das obras;\n\ne) Testagem e eventuais alterações julgadas necessárias ao pleno funcionamento das obras e à sua entrega aos beneficiários em boas condições de exploração."
+  },
+  "1028060231": {
+   "fragment_id": "1028852457",
+   "type": 8,
+   "heading": "Secção VI — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Normas processuais"
+  },
+  "1028060232": {
+   "fragment_id": "1028852458",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Setembro e Outubro, junto do serviço regional de agricultura competente, de um formulário de candidatura, de acordo com modelo a distribuir por esses mesmos serviços, excepto no caso de obras do grupo II já aprovadas por resolução do Conselho de Ministros.\n\n2 - O formulário de candidatura deve ser acompanhado do projecto de investimento e de todos os documentos indicados nas respectivas instruções."
+  },
+  "1028060233": {
+   "fragment_id": "1028852459",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - As candidaturas apresentadas são objecto de análise e deliberação, até 28 de Fevereiro:\n\na) Quando se trate de obras dos grupos I e II: pela unidade nacional de gestão sectorial;\n\nb) Quando se trate de obras dos grupos III e IV: pela unidade regional de gestão sectorial.\n\n2 - No caso da alínea b) do número anterior, a deliberação depende de parecer vinculativo do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), quando se trate de projectos relativos à beneficiação de regadios tradicionais e pequenas regadios que prevejam investimentos superiores a 1000 contos por hectare."
+  },
+  "1028060234": {
+   "fragment_id": "1028852460",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios prioritários:\n\na) Localização em áreas de carência hídrica muito acentuada, excepto no caso da drenagem;\n\nb) Localização em zonas prioritárias de desenvolvimento, conforme definidas nos programas regionais de execução do PDR;\n\nc) Interligação com outros investimentos em infra-estruturas;\n\nd) Localização em zonas desfavorecidas;\n\ne) Rentabilidade dos investimentos a realizar."
+  },
+  "1028060235": {
+   "fragment_id": "1028852461",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n- 1 - A execução das obras é da responsabilidade dos organismos da administração central, de âmbito nacional ou regional, ou, no caso das obras do grupo TV, dos beneficiários..\n\n2 - As obras cuja execução seja da responsabilidade de organismos da administração central são executadas por adjudicação ou administração directa, podendo aqueles, em qualquer dos casos, como dono da obra e por protocolo, cometer a sua execução a outros serviços estatais ou às autarquias locais, às associações de beneficiários e ou regentes, juntas de agricultores e cooperativas de rega."
+  },
+  "1028060236": {
+   "fragment_id": "1028852462",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n- 1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), até 31 de Março.\n\n2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADAP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas."
+  },
+  "1028060237": {
+   "fragment_id": "1028852463",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais ou das convenções de financiamento, consoante o caso, podendo haver lugar à concessão de adiantamentos."
+  },
+  "1028060238": {
+   "fragment_id": "1028852464",
+   "type": 1,
+   "heading": "Capítulo III — Caminhos agrícolas e rurais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Caminhos agrícolas e rurais"
+  },
+  "1028060239": {
+   "fragment_id": "1028852465",
+   "type": 8,
+   "heading": "Secção I — Caminhos agrícolas e rurais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Caminhos agrícolas e rurais"
+  },
+  "1028060240": {
+   "fragment_id": "1028852466",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nPodem beneficiar da ajuda prevista neste capítulo:\n\na) Caminhos agrícolas: associações de agricultores e autarquias locais;\n\nb) Caminhos rurais: autarquias locais."
+  },
+  "1028060241": {
+   "fragment_id": "1028852467",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n- 1 - Podem ser concedidos ajudas à construção e beneficiação de caminhos agrícolas com largura de plataforma de 4 m e caminhos rurais com largura de plataforma de 5 m.\n\n2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido no valor de:\n\na) Caminhos agrícolas: 100% das despesas elegíveis;\n\nb) Caminhos rurais: 50% das despesas elegíveis."
+  },
+  "1028060242": {
+   "fragment_id": "1028852468",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs valores das ajudas referidos no artigo anterior podem incidir, nomeadamente, sobre despesas com:\n\na) Estudos e projectos de execução;\n\nb) Construção e beneficiação de:\n\ni) Caminhos agrícolas de acesso às explorações;\n\nii) Caminhos rurais de ligação entre povoações;\n\niii) Caminhos rurais de enlace à rede viária municipal ou nacional;\n\nc) Acompanhamento e fiscalização de obras;\n\nd) Controlo de qualidade em ensaios laboratoriais."
+  },
+  "1028060243": {
+   "fragment_id": "1028852469",
+   "type": 8,
+   "heading": "Secção II — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Normas processuais"
+  },
+  "1028060244": {
+   "fragment_id": "1028852470",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n- 1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Abril e Maio, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com o modelo a distribuir por esses mesmos serviços.\n\n2 - A ficha de inscrição deve ser acompanhada de todos os documentos indicados nas respectivas instruções."
+  },
+  "1028060245": {
+   "fragment_id": "1028852471",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAs inscrições apresentadas nos termos do artigo anterior são objecto de análise e selecção pela unidade regional de gestão sectorial competente, até 31 de Julho."
+  },
+  "1028060246": {
+   "fragment_id": "1028852472",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nA selecção das inscrições apresentadas faz-se tendo em conta os seguintes critérios prioritários:\n\na) Localização em zonas prioritárias de desenvolvimento definidas nos programas regionais de execução do POR;\n\nb) Relação com aproveitamentos hidroagrícolas existentes;\n\nc) Localização em zonas de minifúndios com pluricultura intensiva;\n\nd) Localização em zona desfavorecida;\n\ne) Complementaridade com a rede viária existente."
+  },
+  "1028060247": {
+   "fragment_id": "1028852473",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs beneficiários cujas inscrições tenham sido seleccionados devem proceder à entrega dos respectivos projectos de execução, junto do serviço regional de agricultura competente, até 30 de Novembro."
+  },
+  "1028060248": {
+   "fragment_id": "1028852474",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs projectos apresentados são objecto de análise e deliberação pela unidade regional de gestão sectorial até 28 de Fevereiro."
+  },
+  "1028060249": {
+   "fragment_id": "1029683975",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nA execução das obras compete aos beneficiários, podendo, no caso dos titulares de prédios rústicos referidos na alínea a) do artigo 22.º, as obras ser executadas pelas direcções regionais de agricultura."
+  },
+  "1028060250": {
+   "fragment_id": "1029683976",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n- 1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, até 31 de Março.\n\n2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADAP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas."
+  },
+  "1028060251": {
+   "fragment_id": "1029683977",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nO pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais ou das convenções de financiamento consoante o caso, podendo haver lugar à concessão de adiantamentos."
+  },
+  "1028060252": {
+   "fragment_id": "1029683978",
+   "type": 1,
+   "heading": "Capítulo IV — Electrificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Electrificação"
+  },
+  "1028060253": {
+   "fragment_id": "1029683979",
+   "type": 8,
+   "heading": "Secção I — Electrificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Electrificação"
+  },
+  "1028060254": {
+   "fragment_id": "1029683980",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nPodem beneficiar da ajuda prevista no presente capítulo os titulares de exporações agrícolas ou pecuárias, em nome individual ou colectivo, directamente ou através dos distribuidores locais de energia eléctrica."
+  },
+  "1028060255": {
+   "fragment_id": "1029683981",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n- 1 - Podem ser concebidas ajudas aos investimentos que tenham por objectivo o fornecimento de energia eléctrica às explorações agrícolas e pecuárias.\n\n2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido no valor de 100% das despesas elegíveis, excepto quando se trate de instalações eléctricas dentro das explorações, caso em que o valor da ajuda é de 55% ou 45%, consoante se trate, ou não, de zonas desfavorecidas."
+  },
+  "1028060256": {
+   "fragment_id": "1029683982",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n- 1 - Os valores das ajudas referidos no artigo anterior podem incidir, nomeadamente, sobre despesas com:\n\na) Elaboração dos estudos e projectos;\n\nb) Execução da obra:\n\nRedes de distribuição de energia eléctrica em média e baixa tensão;\n\nLinhas de alimentação de energia eléctrica em média e baixa tensão;\n\nPostos de transformação;\n\nInstalações eléctricas dentro das explorações;\n\nc) Acompanhamento e fiscalização das obras.\n\n2 - O montante máximo das ajudas previstas no presente capítulo não pode exceder 15000 contos por exploração."
+  },
+  "1028060257": {
+   "fragment_id": "1029683983",
+   "type": 8,
+   "heading": "Secção II — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Normas processuais"
+  },
+  "1028060258": {
+   "fragment_id": "1029683984",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n- 1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Fevereiro e Março, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esses serviços.\n\n2 - A ficha de inscrição deve ser acompanhada de todos os documentos indicados nas respectivas instruções."
+  },
+  "1028060259": {
+   "fragment_id": "1029683985",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nAs inscrições apresentadas nos termos do artigo anterior são objecto de análise e selecção pela unidade regional de gestão sectorial competente, até 31 de Maio."
+  },
+  "1028060260": {
+   "fragment_id": "1029683986",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nA selecção das inscrições faz-se tendo em conta os seguintes critérios prioritários:\n\na) Localização em zona desfavorecida;\n\nb) Interligação com outros investimentos colectivos em infra-estruturas;\n\nc) Interligação com outros investimentos ao nível da exploração;\n\nd) Utilização múltipla da linha de alimentação;\n\ne) Dimensão e viabilidade das explorações, áreas a regar e modernização das instalações pecuárias;\n\nf) Instalações colectivas de interesse público na região."
+  },
+  "1028060261": {
+   "fragment_id": "1029683987",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nOs beneficiários cujas candidaturas tenham sido sececcionadas devem proceder à entrega dos respectivos projectos de execução, junto do serviço regional de agricultura competente, até 31 de Outubro."
+  },
+  "1028060262": {
+   "fragment_id": "1029683988",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nA responsabilidade pela elaboração e execução dos projectos compete:\n\na) No caso da instalação de redes de distribuição e de linhas de alimentação de energia eléctrica às explorações em média e baixa tensão e dos postos de transformação, aos distribuidores locais te energia eléctrica, nos termos do protocolo a celebrar entre o Ministério da Agricultura e a EDP ou outros distribuidores de energia eléctrica;\n\nb) No caso de instalações eléctricas no interior das explorações, aos beneficiários."
+  },
+  "1028060263": {
+   "fragment_id": "1029683989",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nOs projectos apresentados são objecto de análise e deliberação pela unidade regional de gestão sectorial competente, até 15 de Dezembro."
+  },
+  "1028060264": {
+   "fragment_id": "1029683990",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n- 1 - A atribuição das ajudas previstas neste capítulo faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários, até 31 de Janeiro.\n\n2 - Sem prejuízo disposto no número anterior, quando se trate de projectos da responsabilidade dos distribuidores locais de energia eléctrica, devem ser celebrados contratos entre estes e o IFADAP com vista ao estabelecimento dos procedimentos a adoptar no pagamento das ajudas."
+  },
+  "1028060265": {
+   "fragment_id": "1029683991",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n- 1 - Os pagamentos são efectuados pelo IFADAP aos distribuidores locais de energia, no caso das obras da sua responsabilidade, ou aos beneficiários, no caso das instalações eléctricas dentro das explorações.\n\n2 - Os pagamentos são efectuados nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos."
+  },
+  "1028060266": {
+   "fragment_id": "1029683992",
+   "type": 1,
+   "heading": "Capítulo V — Emparcelamento rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Emparcelamento rural"
+  },
+  "1028060267": {
+   "fragment_id": "1029683993",
+   "type": 8,
+   "heading": "Secção I — Projectos de emparcelamento rural integrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Projectos de emparcelamento rural integrado"
+  },
+  "1028060268": {
+   "fragment_id": "1029683994",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nÀ presente secção aplica-se o disposto nos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março."
+  },
+  "1028060269": {
+   "fragment_id": "1029683995",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nPodem beneficiar das ajudas previstas nesta secção:\n\na) Projectos de ordenamento fundiário: agricultores e titulares dos prédios rústicos, através das suas associações, e autarquias locais;\n\nb) Planos de estruturação agrária: entidades públicas ou privadas, que pela sua natureza e vocação se enquadrem no sector."
+  },
+  "1028060270": {
+   "fragment_id": "1029683996",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n- 1 - Podem ser concedidos ajudas a:\n\na) Projectos de ordenamento fundiário que envolvam, de forma integrada, a reorganização e o aumento das áreas das explorações agrícolas e que incluam a construção das necessárias infra-estruturas viárias e hidráulicas, de protecção ambiental e de equipamentos de natureza colectiva com fins económicos ou sociais;\n\nb) Elaboração de planos de estruturação agrária que permitam avaliar o interesse e prioridades de aplicação de investimentos estruturais através do emparcelamento e que promovam um adequado ordenamento agrário ao nível da freguesia, concelho ou agrupamentos de concelhos.\n\n2 - As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido no valor de 100% das despesas elegíveis."
+  },
+  "1028060271": {
+   "fragment_id": "1029683997",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nO valor da ajuda previsto no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:\n\na) Projectos de ordenamento fundiário:\n\ni) Elaboração de estudos prévios e projectos;\n\nii) Execução de projectos:\n\nInfra-estruturas rurais;\n\nMelhoramentos fundiários;\n\nEquipamentos de natureza colectiva com fins económicos ou sociais;\n\nReconversão de culturas perenes;\n\nObras de conservação e protecção da natureza e da paisagem, ou de natureza recreativa;\n\nIndemnizações aos agricultores pelos danos causados aquando da elaboração e execução dos projectos;\n\nEquipamentos necessários ao pleno funcionamento e manutenção das obras;\n\niii Apoio técnico, acompanhamento, fiscalização e avaliação;\n\niv) Fotografia aérea, ortofotocartografia e cadastro geométrico;\n\nb) Planos de estruturação agrária:\n\ni) Estudos de estrutura agrária;\n\nii) Cartografia;\n\niii) Tratamento informático da informação."
+  },
+  "1028060272": {
+   "fragment_id": "1029683998",
+   "type": 8,
+   "heading": "Secção II — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Normas processuais"
+  },
+  "1028060273": {
+   "fragment_id": "1029683999",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n- 1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Setembro e Outubro, junto do serviço regional de agricultura competente, de uma ficha de candidatura, de acordo com modelo a distribuir por esses serviços.\n\n2 - A ficha de candidatura deve ser acompanhada de todos os documentos indicados nas respectivas instruções."
+  },
+  "1028060274": {
+   "fragment_id": "1029684000",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n- 1 - As candidaturas apresentadas são objecto de análise e deliberação até 15 de Dezembro pela:\n\na) Unidade regional de gestão sectorial, quando incidam sobre áreas até 500 ha, no caso dos estudos prévios, e 300 ha, no caso dos projectos;\n\nb) Unidade nacional de gestão sectorial, quando se trate de planos de estruturação fundiário e, nos restantes casos, quando incidam sobre áreas superiores às referidas na alínea anterior.\n\n2 - A deliberação referida no número anterior depende de parecer prévio vinculativo do IEADR."
+  },
+  "1029684075": {
+   "fragment_id": "1029684001",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nA deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios prioritários:\n\na) Projectos de emparcelamento:\n\ni) Grau de deficiência estrutural da região;\n\nii) Potencial de desenvolvimento sócio-económico;\n\niii) Existência de bases de planeamento;\n\niv) Acções que transitam do anterior QCA;\n\nb) Planos de estruturação agrária:\n\ni) Potencial agrícola ou florestal da zona em estudo;\n\nii) Grau de deficiência estrutural."
+  },
+  "1029684076": {
+   "fragment_id": "1029684002",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n- 1 - Salvo nos casos previstos no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, até 31 de Janeiro.\n\n2 - Quando se trate de projectos cuja execução seja atribuída pelo beneficiaria a organismos da administração central, e da ajuda referida na alínea b) do n.º 1 do artigo 48.º, são celebradas convenções de financiamento entre estes e o IFADAP com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas."
+  },
+  "1029684077": {
+   "fragment_id": "1029684003",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nO pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais, ou das convenções de financiamento, consoante o caso, podendo haver lugar à concessão de adiantamentos."
+  },
+  "1029684078": {
+   "fragment_id": "1029684004",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitárias"
+  },
+  "1029684079": {
+   "fragment_id": "1029684005",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n- 1 - No corrente ano, há lugar a um período excepcional de candidatura, que decorre até 31 de Outubro.\n\n2 - A análise e deliberação sobre as candidaturas apresentadas nos termos do número anterior têm lugar no prazo de 22 dias úteis a contar do termo do prazo referido nesse número.\n\n3 - A celebração dos contratos referentes às candidaturas que tenham sido objecto de deliberação favorável tem lugar nos 15 dias a seguir ao termo do prazo referido no número anterior."
+  },
+  "1029684080": {
+   "fragment_id": "1029684006",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nPara efeitos de concessão de ajudas às candidaturas referidas no artigo anterior são elegíveis as despesas efectuadas a partir de 1 de Janeiro de 1994, desde que as mesmas se enquadrem nas condições estabelecidas neste Regulamento."
+  },
+  "1029684082": {
+   "fragment_id": "1029684008",
+   "type": 14,
+   "heading": "Regulamento de Aplicação da Medida de Infra-Estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Regulamento de Aplicação da Medida de Infra-Estruturas"
+  },
+  "1029684081": {
+   "fragment_id": "1029684007",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura.\n\nAssinada em 9 de Setembro de 1994.\n\nO Ministro da Agricultura, António Duarte Silva."
+  },
+  "1033275807": {
+   "fragment_id": "1028852458",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1998-01-12",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação junto do IFADAP, de Janeiro a Dezembro, para as da secção III, e durante os meses de Setembro e Outubro, para as restantes, de um formulário de candidatura, de acordo com o modelo a distribuir por esses mesmos serviços, excepto no caso de obras do grupo II já aprovadas por resolução do Conselho de Ministros.\n\n2 - O formulário de candidatura deve ser acompanhado do projecto de investimento e de todos os documentos indicados nas respectivas instruções.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+  },
+  "1033275808": {
+   "fragment_id": "1028852459",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1998-01-12",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+   ],
+   "markdown": "###### Artigo 17.º\n\nAs candidaturas apresentadas, quando se trate de obras da secção III, são objecto de análise e deliberação até três meses a contar da data da recepção das candidaturas e nos restantes casos até 28 de Fevereiro:\n\na) Quando se trate de obras dos grupos I e II: pela unidade nacional de gestão sectorial;\n\nb) Quando se trate de obras dos grupos III e IV: pela unidade regional de gestão sectorial.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+  },
+  "1033275809": {
+   "fragment_id": "1028852462",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1998-01-12",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+   ],
+   "markdown": "###### Artigo 20.º\n\nSalvo no caso referido no número seguinte, a atribuição das ajudas prestadas na secção III deste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação e até 31 de Março nos restantes casos.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+  },
+  "1038914253": {
+   "fragment_id": "1028852458",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1998-02-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação de um formulário de candidatura, de acordo com modelo a distribuir pelos serviços competentes:\n\na) De Janeiro a Dezembro, junto das direcções regionais de agricultura, quando se trate de obras relativas à beneficiação de regadios tradicionais, e junto do IFADAP, no caso de obras relativas a pequenos regadios;\n\nb) Em Setembro e Outubro, junto das direcções regionais de agricultura, para as restantes, e junto do IEHRA, no caso de obras do grupo II já aprovadas por resolução do Conselho de Ministros.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+  },
+  "1038914256": {
+   "fragment_id": "1028852459",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1998-02-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+   ],
+   "markdown": "###### Artigo 17.º\n\nAs candidaturas apresentadas, quando se trate das obras a que se refere a secção III, são objecto de análise e deliberação pela unidade de gestão competente até três meses a contar da data da recepção das candidaturas e, nos restantes casos, até 28 de Fevereiro.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+  },
+  "1038914257": {
+   "fragment_id": "1028852462",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1998-02-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+   ],
+   "markdown": "###### Artigo 20.º\n\nSalvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação, para as referidas na secção III, e até 31 de Março, nos restantes casos.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12"
+  },
+  "1049282313": {
+   "fragment_id": "1029683995",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 45.º\n\nPodem beneficiar das ajudas previstas nesta secção:\n\na) Projectos de ordenamento fundiário: agricultores e titulares de prédios rústicos, através das suas associações, autarquias locais e administração central;\n\nb) Planos de estruturação agrária: autarquias locais ou associações de agricultores, com a concordância expressa da autarquia local.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282314": {
+   "fragment_id": "1029683997",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 47.º\n\nO valor da ajuda previsto no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:\n\na) Projectos de ordenamento fundiário:\n\ni) Elaboração de estudos prévios e projectos;\n\nii) Execução de projectos:\n\nInfra-estruturas rurais;\n\nMelhoramentos fundiários;\n\nEquipamentos de natureza colectiva com fins económicos ou sociais;\n\nReconversão de culturas perenes;\n\nObras de conservação e protecção da natureza e da paisagem ou de natureza recreativa;\n\nIndemnizações aos agricultores pelos danos causados aquando da elaboração e execução dos projectos;\n\nEquipamentos necessários ao pleno funcionamento e manutenção das obras;\n\nConstituição de associações de beneficiários;\n\niii) Estudos de impacte ambiental, bem como outros estudos específicos necessários à realização dos projectos de ordenamento fundiário;\n\niv) Fotografia aérea, ortofotocartografia e cadastro geométrico;\n\nv) Apoio técnico, acompanhamento, fiscalização e avaliação;\n\nb) Planos de estruturação agrária:\n\ni) Estudos de estrutura agrária;\n\nii) Cartografia;\n\niii) Tratamento informático da informação;\n\niv) Apoio técnico, acompanhamento, fiscalização e avaliação.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282315": {
+   "fragment_id": "1029683999",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 48.º\n\n1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, de Janeiro a Dezembro, junto do Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA) ou das direcções regionais de agricultura, de uma ficha de candidatura, de acordo com modelo a distribuir por esses serviços.\n\n2 - A ficha de candidatura deve ser acompanhada de todos os documentos indicados nas respectivas instruções.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282316": {
+   "fragment_id": "1029684000",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 49.º\n\nAs candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão, no prazo máximo de 90 dias a contar da data de recepção das candidaturas.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282317": {
+   "fragment_id": "1029684001",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 50.º\n\nA deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios prioritários:\n\na) Projectos de emparcelamento:\n\ni) Grau de deficiência estrutural da região;\n\nii) Potencial de desenvolvimento sócio-económico;\n\niii) Condicionantes à elaboração do projecto;\n\niv) Complementaridade com outras acções;\n\ni) Grau de ruralidade;\n\niii) Complementaridade com outras acções.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282318": {
+   "fragment_id": "1029684002",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 51.º\n\n1 - Salvo nos casos previstos no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo de 30 dias a contar da data da deliberação.\n\n2 - Quando se trate de projectos de iniciativa da administração central cuja execução seja atribuída pelos beneficiários ao IHERA, são celebradas convenções de financiamento entre este e o IFADAP com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282349": {
+   "fragment_id": "1049512205",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "1998-03-28",
+   "changed_by": [
+    "Aditado pelo/a 2.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 55.º\n\nO IHERA pode beneficiar das ajudas previstas na secção I do capítulo V para a conclusão dos projectos de emparcelamento de Afife, Carreço e Areosa, Valença, Ganfei e Verdoejo, Vila Verde/Alijó e Aljezur, aprovados no âmbito do POERCAA.\n\n> Aditado pelo/a 2.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  },
+  "1049282366": {
+   "fragment_id": "1049512205",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "1999-08-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 726-A/99 - Diário da República n.º 197/1999, 1º Suplemento, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/726-a-1999-464599), em vigor a partir de 1999-08-29",
+    "Aditado pelo/a 2.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+   ],
+   "markdown": "###### Artigo 55.º\n\n1 - A título excepcional e até 31 de Outubro de 1999, são despesas elegíveis, abrangidas pelos regimes previstos nos artigos 6.º e 9.º, as despesas com a captação e retenção de água com vista ao abeberamento de gado, desde que localizadas em região afectada pela seca, a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - Os investimentos realizados ao abrigo do regime excepcional previsto no número anterior deverão estar à disposição dos agricultores da respectiva área circundante durante o período de sete anos.\n\n> Alterado pelo/a [Portaria n.º 726-A/99 - Diário da República n.º 197/1999, 1º Suplemento, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/726-a-1999-464599), em vigor a partir de 1999-08-29\n\n> Aditado pelo/a 2.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28"
+  }
+ }
+}

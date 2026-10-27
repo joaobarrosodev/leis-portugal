@@ -1,0 +1,780 @@
+---
+schema_version: '1.0'
+id: pt:dre:171992307:por
+title: Portaria n.º 203/2021
+short_title: null
+summary: Estabelece uma medida de auxílio a custos indiretos a favor das instalações abrangidas pelo regime de Comércio Europeu
+  de Licenças de Emissão (CELE), nos termos do Decreto-Lei n.º 12/2020, de 6 de abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Ação Climática
+proposing_entity: null
+official_number: 203/2021
+official_date: null
+publication_date: '2021-09-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/2021, Série I de 2021-09-28
+  number: '189'
+  series: I
+  supplement: null
+  pages: 2 - 13
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/09/18900/0000200013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-06-27'
+version_history:
+  file: portaria-203-2021.versoes.json
+  count: 3
+  source_lastmod: '2026-07-29'
+  versions:
+  - date: '2021-09-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-11-03'
+    amending: pt:dre:173707578:por
+    amending_title: Portaria n.º 231/2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+  - date: '2026-06-27'
+    amending: pt:dre:1139191715:por
+    amending_title: Portaria n.º 276/2026/1
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 9.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/203/2021/p/cons/20260626/pt/html
+  oj: null
+  dre: '171992307'
+  dre_path: /dr/detalhe/portaria/203-2021-171992307
+  internal: pt:dre:171992307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-2021-171992307
+  metadata_url: https://data.dre.pt/eli/port/203/2021/p/cons/20260626/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-173707636
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-173707636
+  retrieved_at: '2026-10-22T13:47:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-29T00:00:00Z'
+integrity:
+  source_sha256: a5e1d422fa2f0aaf1e6277f5b4606b281fdc447dd862ecfe4a34be0bb79d26d4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:47:22Z'
+  notes: 3 versão(ões); histórico completo em portaria-203-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Efeito de Estufa
+- Licença de Emissão
+- Distribuição de Energia Elétrica
+- Autoridade Tributária e Aduaneira
+- Financiamento
+- Empresa
+- Energia Elétrica
+- Imposto sobre Produtos Petrolíferos
+- Direcção Geral dos Assuntos Europeus
+- Consumo de Energia
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Poluição Atmosférica
+- Secretaria Geral
+- Comissão CE
+- Indústria da Celulose e do Papel
+- Indústria de Curtumes
+- Indústria de Fundição
+- Indústria Petrolífera
+- Indústria Siderúrgica
+- Indústria Vidreira
+- Isenção Fiscal
+- Ministério do Ambiente
+- Página na Internet
+- Gestão do Ambiente
+- Preço
+- Poluição
+- Regulamento CE
+- Indústria Metalúrgica
+- Relatório e Contas
+- Comércio
+- Fundo Ambiental
+- Agência Portuguesa do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:173707578:por
+  label: Altera Artigo 2.º; Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578
+  date: '2021-11-02'
+- type: amended_by
+  target: pt:dre:1139191715:por
+  label: Adita Artigo 2.º-A; Adita Artigo 9.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Anexo I; Altera
+    Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715
+  date: '2026-06-26'
+- type: cites
+  target: celex:31991L0308
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/308/oj
+- type: cites
+  target: celex:32003L0087
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/87/oj
+- type: cites
+  target: celex:32004R0794
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/794/oj
+- type: cites
+  target: celex:32018L0410
+  label: null
+  source: http://data.europa.eu/eli/dir/2018/410/oj
+- type: cites
+  target: celex:32018R2067
+  label: null
+  source: null
+- type: cites
+  target: celex:32019R0331
+  label: null
+  source: http://data.europa.eu/eli/reg/2019/331/oj
+- type: cites
+  target: celex:32020R2084
+  label: null
+  source: http://data.europa.eu/eli/reg/2020/2084/oj
+- type: cites
+  target: celex:32021R0447
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2020/04/06/p/dre
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: http://data.dre.pt/eli/lei/19/2012/05/08/p/dre
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68-a/2015/04/30/p/dre
+- type: cites
+  target: pt:dre:70196960:por
+  label: null
+  source: http://data.dre.pt/eli/lei/133/2015/09/07/p/dre
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+- type: transposes
+  target: celex:32003L0087
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:47:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 203/2021
+
+O regime do comércio europeu de licenças de emissão (CELE) estabelecido no Decreto-Lei n.º 12/2020, de 6 de abril, que transpõe a Diretiva 2018/410 do Parlamento Europeu e do Conselho, de 14 de março de 2018, que alterou a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, para reforçar a relação custo-eficácia das reduções de emissões e o investimento nas tecnologias de baixo carbono no período 2021-2030, visa promover a redução das emissões de gases com efeito de estufa (GEE) em condições que ofereçam uma boa relação custo-eficácia e sejam economicamente eficientes.
+
+O referido decreto-lei prevê a possibilidade de serem adotadas medidas especiais e temporárias de auxílio a favor de setores e subsetores expostos a um risco significativo de fuga de carbono devido aos custos indiretos incorridos pelo facto dos custos das licenças de emissão de gases com efeito de estufa se repercutirem nos preços da eletricidade. Prevê, ainda, que esta medida de auxílio seja estabelecida mediante portaria do membro do Governo responsável pela área do ambiente, na sequência da publicação das orientações da Comissão Europeia relativas a determinadas medidas de auxílio estatal no âmbito do regime CELE após 2020, o que veio a acontecer através da Comunicação da Comissão n.º 2020/C 317/04, de 25 de setembro de 2020, para assegurar que essas medidas financeiras são compatíveis com as normas aplicáveis e a aprovar em matéria de auxílios estatais. São, ainda, identificados os setores e subsetores considerados expostos a um risco significativo de fuga de carbono devido aos custos das emissões indiretas visando a salvaguarda da competitividade das indústrias. Estas orientações da Comissão são aplicáveis para o período 2021-2030, estando prevista uma revisão intercalar em 2025 por forma a considerar os dados e os processos de produção mais recentes.
+
+A fuga de carbono corresponde à perspetiva de aumento das emissões de GEE a nível global, quando as empresas transferem a produção para fora do espaço da UE, por não conseguirem repercutir os aumentos de custos decorrentes do regime CELE nos seus clientes sem uma perda significativa de quota de mercado.
+
+A presente portaria estabelece a medida de auxílio a favor das instalações abrangidas pelo regime de Comércio Europeu de Licenças de Emissão (CELE) que desenvolvem a sua atividade em setores e subsetores considerados expostos a um risco significativo de fuga de carbono devido aos custos relacionados com as emissões de GEE repercutidos no preço da eletricidade, a fim de compensar os referidos custos, usualmente denominados por custos indiretos.
+
+Em linha com as orientações da Comissão a medida de auxílio dos custos indiretos baseia-se nos parâmetros de referência ex ante (benchmarks) das emissões indiretas de CO(índice 2) por unidade de produção os quais devem ser calculados para um determinado setor ou subsetor, considerando os métodos de produção mais eficientes em termos de consumo de eletricidade por unidade de produção, segundo o estipulado no artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE.
+
+O objetivo principal do controlo dos auxílios estatais, no âmbito da aplicação do regime CELE, consiste em assegurar que as medidas de auxílio estatal conduzem a uma redução das emissões de GEE superior à que ocorreria sem os auxílios e que os efeitos positivos dos auxílios ultrapassem os seus efeitos negativos, em termos de distorções da concorrência no mercado interno. Os auxílios estatais têm de ser necessários para a concretização do objetivo ambiental do CELE (necessidade do auxílio) e devem ser limitados ao mínimo necessário para alcançar a proteção do ambiente pretendida (proporcionalidade do auxílio) sem criar distorções indevidas de concorrência e das trocas comerciais no mercado interno.
+
+A minimização do risco de fuga de carbono constitui um objetivo ambiental, uma vez que o auxílio se destina a evitar um aumento das emissões globais de GEE devido a transferências da produção para fora da UE, na ausência de um acordo internacional vinculativo sobre a redução das emissões de GEE. Simultaneamente, os auxílios relativos aos custos das emissões indiretas, se forem mal orientados, podem ter um impacto negativo sobre a eficiência do regime CELE caso libertem os beneficiários dos custos relacionados com as suas emissões indiretas, limitando, assim, os incentivos à redução das emissões e à inovação no setor. Consequentemente, os custos da redução de emissões teriam de ser suportados principalmente por outros setores da economia.
+
+A fim de minimizar as distorções da concorrência no mercado interno e preservar o objetivo do regime CELE no sentido de promover uma descarbonização dos setores abrangidos com uma boa relação custo-eficácia, os auxílios não devem compensar na íntegra os custos das licenças de emissão repercutidos nos preços da eletricidade, devendo ser de natureza temporária e contribuir para a transição para uma economia neutra em carbono.
+
+Considera-se que na generalidade, o auxílio é proporcionado e tem um efeito negativo suficientemente limitado sobre a concorrência e as trocas comerciais desde que não exceda 75 % dos custos indiretos das emissões suportados.
+
+A presente portaria estabelece uma medida de auxílio a custos indiretos, determinando os critérios de elegibilidade, o conjunto de procedimentos a desenvolver pelos operadores de instalações abrangidas pelo regime CELE suscetíveis de recorrer a esta medida de auxílio, as entidades envolvidas no processo de atribuição do auxílio, os critérios para determinar o montante máximo do auxílio, bem como os critérios de ajuste ao montante máximo determinado.
+
+Assim, ao abrigo do disposto no n.º 8 do artigo 12.º do Decreto-Lei n.º 12/2020, de 6 de abril, manda o Governo, pelo Ministro do Ambiente e da Ação Climática, o seguinte:
+
+###### Artigo 1.º — Objeto e definições
+
+1 - A presente portaria estabelece uma medida de auxílio a favor das instalações abrangidas pelo regime de Comércio Europeu de Licenças de Emissão (CELE), nos termos do Decreto-Lei n.º 12/2020, de 6 de abril, que desenvolvam a sua atividade em setores e subsetores considerados expostos a um risco significativo de fuga de carbono devido aos custos relacionados com as emissões de gases com efeito de estufa (GEE) repercutidos no preço da eletricidade, a fim de compensar os referidos custos, em conformidade com as regras em matéria de auxílios estatais, doravante designada «medida de auxílio a custos indiretos».
+
+2 - Para efeitos da presente medida de auxílio aplicam-se as definições constantes do anexo i à presente portaria e da qual é parte integrante.
+
+###### Artigo 2.º — Financiamento, elegibilidade e período de aplicação
+
+1 - A medida de auxílio a custos indiretos é financiada através do Fundo Ambiental, doravante designado Fundo, podendo ser complementada por outra fonte de financiamento.
+
+2 - Consideram-se elegíveis para candidatura à presente medida de auxílio a custos indiretos as instalações que sejam abrangidas pelo regime CELE e desenvolvam a sua atividade nos setores e subsetores identificados no anexo ii à presente portaria e da qual é parte integrante, no ano em que incorreram os custos.
+
+3 - A partir do ano de 2027, são elegíveis, para efeitos da medida de auxílio a custos indiretos incorridos no ano civil anterior, as instalações que tenham estado abrangidas pelo regime CELE durante o período de 2021 a 2025, e que tenham sido excluídas na sequência da aplicação da alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 12/2020, de 6 de abril, desde que desenvolvam a sua atividade nos setores e subsetores identificados no quadro 1 do anexo 1.
+
+4 - É ainda condição de elegibilidade o cumprimento das seguintes condições nos anos em que incorreram os custos e em que se efetua o pagamento:
+
+a) Tenham a sua situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;
+
+b) Estejam em situação de cumprimento relativamente a todos os regimes legais aplicáveis em matéria ambiental;
+
+c) Os titulares do órgão de administração não tenham sido condenados, por sentença transitada em julgado, pelos crimes previstos nos artigos 279.º a 280.º do Código Penal nos oito anos anteriores à data da submissão da candidatura;
+
+d) Não tenha transitado em julgado a decisão de aplicação de sanção por contraordenação grave ou muito grave, nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, por factos praticados no ano civil a que respeitem os custos das emissões indiretas;
+
+e) Não configurem uma empresa em dificuldade na aceção das «Orientações relativas a auxílios estatais de emergência e à reestruturação concedidos a empresas em dificuldade» (JO C 249, de 31/07/2014, p. 1).
+
+5 - A presente medida de auxílio vigora, relativamente a custos das emissões indiretas incorridos anualmente pelas instalações referidas no número anterior, entre 1 de janeiro de 2021 e 31 de dezembro de 2030.
+
+> Nota: [Artigo 2.º, Portaria n.º 231/2021 - Diário da República n.º 212/2021, Série I de 2021-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578) A medida de auxílio a custos indiretos estabelecida pela presente portaria apenas produz efeitos após a aprovação por parte da Comissão Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 231/2021 - Diário da República n.º 212/2021, Série I de 2021-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578), em vigor a partir de 2021-11-03
+
+###### Artigo 2.º-A — Alargamento da elegibilidade a novos setores ou subsetores
+
+1 - Os setores ou subsetores não enumerados no anexo ii que cumpram os critérios do n.º 2 do presente artigo, e pretendam ser elegíveis para efeitos da presente medida de auxílio, devem demonstrar à ApC, I. P., até 1 de setembro de 2026, e anos subsequentes, através de dados representativos do setor ou subsetor devidamente verificados por um perito independente, nos termos do n.º 3 do artigo 3.º, e tendo por referência, pelo menos, os três anos mais recentes para os quais existem dados disponíveis.
+
+2 - Para efeitos do número anterior, deve ser considerada a demonstração dos seguintes critérios, conforme resulta da Comunicação da Comissão C/2026/196, de 5 de janeiro de 2026:
+
+a) Intensidade comercial acima dos 20 %; e
+
+b) Intensidade de emissões indiretas acima de 0,32 kgCO2/EUR.
+
+3 - A inclusão de novos setores ou subsetores no âmbito do presente auxílio apenas produz efeitos a partir da aprovação dessa pretensão pela Comissão Europeia.
+
+4 - Podem ainda ser considerados setores ou subsetores adicionais cuja elegibilidade tenha sido demonstrada por outro Estado-Membro e aprovada pela Comissão Europeia.
+
+5 - Para efeitos dos n.os 3 e 4, caso a aprovação pela Comissão Europeia ocorra até 30 de março do ano t, esses setores podem ser candidatos aos apoios do ano (t-1). Caso a aprovação ocorra após essa data, esses setores só podem ser candidatos no ano (t+1).
+
+> Nota: [Artigo 6.º, Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715) O disposto no presente artigo é aplicável a partir das candidaturas de 2027 referentes aos custos incorridos em 2026.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 3.º — Submissão da candidatura
+
+1 - As candidaturas devem ser submetidas até ao dia 30 de abril, inclusive, do ano civil seguinte (t+1) àquele em que incorreram os custos (t), através de formulário próprio na plataforma disponibilizada na página eletrónica do Fundo.
+
+2 - O formulário da candidatura deve ser devidamente preenchido e submetido pelo candidato ao Fundo, por meios eletrónicos, acompanhado de todos os elementos indicados no anexo iii à presente portaria e da qual faz parte integrante.
+
+3 - Apenas são admitidos os documentos previamente validados por um técnico oficial de contas ou por um revisor oficial de contas, conforme aplicável, ou, em alternativa, por um verificador acreditado, em conformidade com os critérios estabelecidos no Regulamento de Execução (UE) 2018/2067 da Comissão, de 19 de dezembro, alterado pelo Regulamento de Execução (UE) 2020/2084 da Comissão, de 14 de dezembro de 2020, e que sejam remetidos ao Fundo.
+
+4 - Em situação de comprovada impossibilidade de submissão dos documentos por meios eletrónicos, por motivos não imputáveis ao candidato, poderão os mesmos ser remetidos por correio registado para os contactos publicitados no portal do Fundo na Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 4.º — Auditoria energética
+
+1 - Quando aplicável, nos termos do n.º 1 do artigo 12.º do Decreto-Lei n.º 68-A/2015, de 30 de abril, na sua atual redação, o candidato realiza uma auditoria energética, podendo esta ser uma auditoria isolada ou uma auditoria realizada no âmbito de sistema de gestão de energia certificado ou de sistema de gestão ambiental.
+
+2 - Nos casos em que o número anterior é aplicável, o candidato deve demonstrar, alternativamente, uma das seguintes situações:
+
+a) Aplica as recomendações do relatório de auditoria, na medida em que o tempo de reembolso dos investimentos relevantes não exceda três anos e se os custos dos seus investimentos são proporcionados;
+
+b) Reduz a pegada de carbono do seu consumo de eletricidade, de modo a cobrir pelo menos 30 % do seu consumo de eletricidade a partir de fontes de energia sem emissões de carbono;
+
+c) Investe, pelo menos, 50 % do montante do auxílio em projetos que conduzam a reduções substanciais das emissões de gases com efeito de estufa da instalação, muito abaixo do valor de referência aplicável utilizado para a atribuição de licenças a título gratuito no regime CELE;
+
+d) Investe, pelo menos, 50 % do montante do auxílio em ativos novos ou modernizados relativamente aos quais se possa demonstrar de forma mensurável que contribuem adicionalmente para reduzir os custos do sistema elétrico, refletindo as necessidades do mercado e do sistema em Portugal, sem causar um aumento do consumo de combustíveis fósseis.
+
+3 - Para efeitos da alínea d) do número anterior, consideram-se atividades de investimentos elegíveis o desenvolvimento de capacidades de produção de energia renovável, soluções de armazenamento de energia, medidas para aumentar a flexibilidade do lado da procura, melhorias da eficiência energética com impacto sobre a procura de eletricidade e o desenvolvimento de eletrolisadores para a produção de hidrogénio renovável ou de baixo carbono, assim como investimentos destinados à eletrificação.
+
+4 - Para demonstração das situações previstas no n.º 2 do presente artigo, o candidato pode apresentar:
+
+a) Para efeitos das alíneas a) ou d) do n.º 2, um plano de investimento e concretizar os investimentos correspondentes no prazo de três anos a contar da concessão do auxílio;
+
+b) Para efeitos da alínea b) do n.º 2, um plano de investimento que inclua uma análise de base e projeções pós-investimento do consumo de eletricidade na instalação, e concretizar os investimentos correspondentes no prazo de três anos a contar da concessão do auxílio;
+
+c) Para efeitos da alínea c) do n.º 2, um plano de investimento que inclua uma análise de base e projeções pós-investimento das emissões de gases com efeito de estufa e do valor de referência aplicável à instalação, devendo os investimentos correspondentes ser concluídos no prazo de três anos a contar da concessão do auxílio.
+
+5 - Caso não seja demonstrado o cumprimento de, pelo menos, uma das situações no n.º 2 do presente artigo, não poderá ser concedida a medida de auxílio a custos indiretos, aplicando-se o disposto no n.º 5 do artigo 6.º
+
+6 - Por forma a comprovar a sua não abrangência no âmbito do disposto do n.º 1 do presente artigo, o candidato deve submeter juntamente com a restante documentação, o certificado de micro, pequena ou média empresa (PME) emitido pela Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.).
+
+> Nota: [Artigo 6.º, Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715) As disposições da alínea d) do n.º 2 e nos n.ºs 3 e 4 do presente artigo, são aplicáveis a partir das candidaturas de 2027 referentes aos custos incorridos em 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 5.º — Instrução da candidatura
+
+1 - No prazo de 20 dias a contar da data do prazo de submissão das candidaturas, o Fundo verifica se cada candidatura está devidamente instruída e solicita, se necessário, as retificações, os elementos em falta ou informações complementares.
+
+2 - Para efeitos do disposto no número anterior, é consultada a Direção-Geral de Energia e Geologia, para emissão de parecer, no prazo de 10 dias, quanto à verificação das situações previstas nas alíneas a) ou d) do n.º 2 do artigo anterior.
+
+3 - O candidato dispõe de um prazo de 10 dias para responder ao que seja solicitado nos termos do n.º 1 do presente artigo, sob pena de rejeição liminar da candidatura, suspendendo-se durante este período o prazo para a decisão de admissão.
+
+4 - O Fundo pode, no prazo referido no n.º 1, convocar o requerente para a realização de uma conferência instrutória tendo em vista a boa decisão sobre a admissão da candidatura.
+
+5 - O Fundo notifica o candidato da admissão ou da decisão de exclusão da candidatura e, neste último caso, da extinção do procedimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 6.º — Decisão da candidatura
+
+1 - No prazo de 70 dias a contar da data de notificação da admissão da candidatura, a ApC, I. P., entidade gestora do Fundo, emite decisão de aprovação ou de indeferimento.
+
+2 - Para efeitos do disposto no número anterior, o Fundo disponibiliza o processo à Direção-Geral de Energia e Geologia, para, no prazo de 30 dias emitir parecer no que respeita à situação prevista na alínea a) ou d) do n.º 2 do artigo 4.º
+
+3 - O prazo para a decisão suspende-se, por um período não superior a 15 dias, com o pedido de retificações, de informações ou elementos complementares.
+
+4 - Da decisão de aprovação o Fundo notifica o candidato, no prazo referido no n.º 1, indicando o montante máximo de auxílio determinado nos termos do artigo 7.º para o ano em causa, sem prejuízo do disposto nos artigos 9.º e 10.º, com base na conformidade da documentação remetida e do cumprimento dos critérios de elegibilidade.
+
+5 - Da decisão de arquivamento o Fundo notifica o candidato, no prazo referido no n.º 1, com informação clara e suficiente que lhe permita conhecer os fundamentos da decisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 7.º — Montante máximo de auxílio
+
+1 - O montante máximo de auxílio por instalação para o ano em que incorreram os custos (t) é calculado pela ApC, I. P., de acordo com as disposições e fórmulas de cálculo constantes do anexo iv da presente portaria e da qual é parte integrante.
+
+2 - Para efeitos do cálculo referido no número anterior, são utilizados dados de produção efetiva (AO(índice t)) e consumo efetivo de eletricidade (AEC(índice t)) da instalação no ano t, determinados ex post no ano t+1, tal como definido no anexo i à presente portaria e da qual é parte integrante.
+
+3 - Para efeitos do cálculo do montante máximo de auxílio, o valor de referência de contingência em matéria de eficiência de consumo de eletricidade (EF), os valores de referência em matéria de eficiência de consumo de eletricidade relativos a produtos abrangidos pelos códigos NACE enumerados no anexo ii à presente portaria e o fator de emissão de CO(índice 2) da eletricidade (C(índice t)) correspondem aos valores estabelecidos para o efeito pela Comissão Europeia.
+
+4 - A intensidade do auxílio (Ai) corresponde a:
+
+a) 80 % dos custos indiretos das emissões suportados pelos setores ou subsetores do quadro 1 do anexo ii;
+
+b) 75 % dos custos indiretos das emissões suportados pelos setores ou subsetores do quadro 2 do anexo ii ou para quaisquer outros setores considerados elegíveis nos termos do artigo 2.º-A.
+
+5 - O montante máximo de auxílio referido no n.º 1 pode ser sujeito a ajuste por fator corretivo, conforme previsto no n.º 2 do artigo 9.º
+
+6 - Caso sejam estabelecidos novos valores para os parâmetros previstos na presente portaria pela Comissão Europeia, são esses os valores a serem considerados para efeitos do cálculo do montante máximo de auxílio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 8.º — Fator de emissão de CO(índice 2) baseado no mercado
+
+1 - Caso se considere mais adequado e por determinação do membro do Governo responsável pela área do ambiente, o fator de emissão de CO2 referido no artigo anterior pode ser estabelecido com base num estudo do teor de CO2 da tecnologia de fixação do preço marginal efetivo no mercado da eletricidade, a promover pela ApC, I. P., em articulação com a Direção-Geral da Energia e Geologia, e pela Entidade Reguladora dos Serviços Energéticos.
+
+2 - Para efeitos do número anterior, deve ser demonstrada a adequação do fator de emissão de CO(índice 2) baseado no mercado mantido com base num modelo do sistema elétrico que simule a formação dos preços e nos dados observados sobre a tecnologia de fixação do preço marginal durante todo o ano t-1 (incluindo as horas em que as importações fixaram as margens).
+
+3 - O estudo é comunicado à Comissão Europeia pela ApC, I. P., a qual avalia a sua adequação e a adequabilidade do fator de emissão de CO2 baseado no mercado dele resultante.
+
+4 - O fator de emissão de CO(índice 2) baseado no mercado passa a ser aplicado após a aprovação da Comissão Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 9.º — Pagamento do auxílio a custos indiretos
+
+1 - O valor orçamental disponível para o pagamento do auxílio a custos indiretos relativamente a cada um dos anos, a atribuir ao conjunto dos beneficiários, é estabelecido no despacho previsto no n.º 1 do artigo 7.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto, na sua redação atual.
+
+2 - Caso, para um determinado ano, a soma dos montantes máximos de auxílio a serem atribuídos nos termos do artigo 7.º exceda o valor orçamental disponível para esse ano, é aplicado um fator corretivo único ao montante máximo de auxílio a atribuir nesse ano a cada beneficiário, garantido a proporcionalidade da atribuição do auxílio e de modo a que o valor orçamental disponível não seja excedido.
+
+3 - Para efeitos do número anterior, define-se como fator corretivo único, a razão entre a soma dos montantes máximos de auxílio a atribuir ao conjunto de beneficiários e o valor orçamental disponível, expresso em percentagem.
+
+4 - O fator corretivo único é determinado pelo Fundo, relativamente a cada um dos anos abrangidos e publicado na página eletrónica do Fundo.
+
+5 - Os montantes de auxílio a atribuir a cada instalação, relativamente a cada um dos anos abrangidos, são pagos no ano seguinte aquele em que incorreram os custos, mediante disponibilidades orçamentais do Fundo.
+
+6 - Cabe ao Fundo proceder à transferência do montante de auxílio a atribuir ao beneficiário, até ao final do ano civil da aprovação da candidatura (ano t+1).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 9.º-A — Verificação anual ex-post
+
+1 - Quando se verifique uma das situações previstas no n.º 4 do artigo 4.º, o beneficiário submete à ApC, I. P., no prazo de 3 anos após o pagamento do montante total do auxílio, a prova, devidamente verificada nos termos do n.º 3 do artigo 3.º, da efetiva implementação do plano de investimento.
+
+2 - No prazo de 30 dias a contar da submissão prevista no número anterior, a ApC, I. P., avalia e aprecia sobre a suficiência da prova feita pelo beneficiário.
+
+3 - Caso não seja feita prova, ou esta seja considerada insuficiente, aplica-se o disposto no n.º 2 do artigo 11.º da presente portaria.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 10.º — Cumulação
+
+1 - Os auxílios concedidos no âmbito da presente portaria obedecem ao previsto na Comunicação da Comissão «Orientações relativas a determinadas medidas de auxílio estatal no âmbito do sistema de comércio de licenças de emissão de gases com efeito de estufa após 2021 (2020/C 317/04)», relativamente aos auxílios a empresas em setores considerados expostos a um risco real de fuga de carbono devido aos significativos custos indiretos efetivamente incorridos pelo facto de os custos das emissões de gases com efeito de estufa se repercutirem nos preços da eletricidade (auxílios aos custos indiretos das emissões).
+
+2 - Ao montante máximo de auxílio, apurado nos termos do artigo 7.º, é descontado o valor correspondente à isenção do imposto sobre os produtos petrolíferos e energéticos, estabelecida na alínea f) do n.º 1 do artigo 89.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, na sua redação atual.
+
+3 - Da aplicação do disposto no número anterior não pode resultar a atribuição de um valor inferior a 50 % do montante auxílio a atribuir a cada instalação, sem prejuízo do previsto no artigo 9.º
+
+4 - Para efeitos do número anterior, o Fundo solicita à Autoridade Tributária e Aduaneira (AT) informação, a partilhar no prazo de 30 dias, sobre o montante da despesa fiscal inerente às isenções de imposto sobre os produtos petrolíferos e energéticos reconhecidas a cada um dos beneficiários de auxílio relativamente ao ano para o qual é realizada a candidatura.
+
+5 - Quando as despesas elegíveis para beneficiarem de auxílios relativos a medidas abrangidas pela presente portaria forem total ou parcialmente elegíveis para auxílios com outras finalidades, a parte comum fica sujeita ao limite máximo de auxílio mais favorável, ao abrigo das regras aplicáveis.
+
+###### Artigo 11.º — Falsas declarações ou omissão de informação
+
+1 - A prestação de falsas declarações ou omissão de informação legalmente exigida por parte dos beneficiários deste auxílio estatal, no âmbito da presente portaria, determina a cessação do citado auxílio e a inibição em definitivo ao seu acesso para o ano em causa e até ao final do período de aplicação do auxílio, bem como a restituição das prestações indevidamente pagas e da responsabilidade penal a que haja lugar.
+
+2 - A restituição das prestações anuais deve ser efetuada ao Fundo no prazo de 30 dias a contar da notificação pelo Fundo aos beneficiários da medida de auxílio estabelecida pela presente portaria.
+
+###### Artigo 12.º — Comunicação de informações à Comissão Europeia
+
+1 - A medida de auxílio a custos indiretos estabelecida pela presente portaria é notificada à Comissão Europeia pela Direção-Geral dos Assuntos Europeus do Ministério dos Negócios Estrangeiros.
+
+2 - Com vista à inclusão no relatório relativo às medidas de auxílio a favor do ambiente, a enviar à Comissão Europeia ao abrigo do Regulamento (CE) n.º 794/2004 da Comissão, de 21 de abril, a ApC, I. P., entidade gestora do Fundo, disponibiliza anualmente à Direção-Geral de Direito Europeu e Internacional as informações necessárias relativas à aplicação da presente portaria, em especial, as informações referidas no anexo v à presente portaria.
+
+3 - Nos anos em que o orçamento dos auxílios concedidos no âmbito da presente portaria for superior a 25 % das receitas geradas com a venda em leilão de LE, é publicado na página eletrónica do Fundo um relatório expondo as razões pelas quais esse montante foi excedido, em conformidade com o artigo 10.º-A, n.º 6, da Diretiva (UE) 2018/410, que altera a Diretiva 2003/87/CE.
+
+4 - O relatório mencionado no número anterior deve incluir informações relevantes sobre os preços da eletricidade para os grandes consumidores industriais que beneficiem do presente auxílio, sem prejuízo dos requisitos relativos à proteção das informações confidenciais, e informações que indiquem se foram tidas devidamente em conta outras medidas para reduzir de forma sustentável os custos indiretos do carbono a médio e a longo prazo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+###### Artigo 13.º — Disposições transitórias
+
+1 - Em 2021 pode, excecionalmente, ser efetuado o pagamento do auxílio relativo aos custos incorridos nesse ano, o qual será objeto de acerto em 2022, devendo qualquer pagamento excessivo de auxílio ser devolvido até 1 de julho de 2022.
+
+2 - Para efeitos do disposto no número anterior, o candidato submete até 15 de novembro de 2021 a informação prevista no artigo 3.º, recorrendo para o efeito a uma estimativa para esse mesmo ano com base nos dados dos primeiros seis meses de 2021.
+
+3 - Para efeitos do acerto referido no n.º 1, o beneficiário remete a informação nos termos do art
+
+> Nota: [Artigo 2.º, Portaria n.º 231/2021 - Diário da República n.º 212/2021, Série I de 2021-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578) A medida de auxílio a custos indiretos estabelecida pela presente portaria apenas produz efeitos após a aprovação por parte da Comissão Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 231/2021 - Diário da República n.º 212/2021, Série I de 2021-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578), em vigor a partir de 2021-11-03
+
+###### Artigo 14.º — Entrada em vigor e produção de efeitos
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A medida de auxílio a custos indiretos estabelecida pela presente portaria apenas produz efeitos após a aprovação por parte da Comissão Europeia.
+
+> Nota: [Artigo 2.º, Portaria n.º 231/2021 - Diário da República n.º 212/2021, Série I de 2021-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578) A medida de auxílio a custos indiretos estabelecida pela presente portaria apenas produz efeitos após a aprovação por parte da Comissão Europeia.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 231/2021 - Diário da República n.º 212/2021, Série I de 2021-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578), em vigor a partir de 2021-11-03
+
+O Ministro do Ambiente e da Ação Climática, João Pedro Soeiro de Matos Fernandes, em 15 de setembro de 2021.
+
+## Anexo I — Definições
+
+(a que se refere o n.º 2 do artigo 1.º e o n.º 2 do artigo 7.º)
+
+Para efeitos da presente portaria, entende-se por:
+
+«Auxílio», qualquer medida que preencha todos os critérios enunciados no artigo 107.º, n.º 1, do Tratado sobre o Funcionamento da União Europeia.
+
+«Beneficiário», o operador de uma instalação que recebe um auxílio.
+
+«Consumo efetivo de eletricidade», expresso em MWh, consumo real de eletricidade na instalação (incluindo o consumo de eletricidade para a produção de produtos subcontratados elegíveis para beneficiarem de auxílio) no ano t, determinado ex post no ano t+1.
+
+«Custos das emissões indiretas», os custos relacionados com as licenças de emissão previstas no regime CELE repercutidos no preço da eletricidade, na sequência da aplicação da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, na sua redação atual.
+
+«Fator de emissão de CO2», expresso em tCO2/MWh, corresponde à média ponderada da intensidade de CO da eletricidade produzida a partir de combustíveis fósseis. O fator de CO2 é o resultado da divisão do equivalente de emissão de CO2 do setor da energia pela produção bruta de eletricidade a partir de combustíveis fósseis, expresso em TWh. Para efeitos de cálculo do montante máximo de auxílio utiliza-se o valor aplicável que se encontra publicado nas Orientações relativas a determinadas medidas de auxílio estatal no âmbito do sistema do comércio de licenças de emissão de GEE após 2021.
+
+«Fuga de carbono», considera-se que um setor ou subsetor está exposto a um risco significativo de fuga de carbono, quando há a possibilidade do operador transferir a produção para fora da União Europeia por não conseguir repercutir o aumento de custos decorrentes do CELE nos seus clientes sem uma perda significativa de quota de mercado.
+
+«Indicador de fuga de carbono indireta», do inglês Indirect Carbon Leakage Indicator (ICLI), que corresponde ao produto entre a intensidade de comércio (trade intensity) e a intensidade de emissões indiretas (indirect emission intensity).
+
+«Intensidade comercial do setor», do inglês trade intensity, expresso em percentagem, é o indicador que mede o grau de integração ou abertura do setor ao mercado internacional, resultando do quociente entre a soma das importações com as exportações e a soma entre a produção interna vendida (do inglês, turnover) com as importações.
+
+«Intensidade de emissões indiretas do setor», do inglês Indirect Emission Intensity, expresso em kgCO2/EUR, determinado através da multiplicação da eletricidade consumida por setor, em MWh, pelo fator de emissão europeu médio de CO2 de 376 kgCO2/MWh, dividido pelo valor acrescentado bruto (VAB) desse setor, expresso em EUR.
+
+«Intensidade máxima de auxílio», o montante total do auxílio expresso em percentagem dos custos elegíveis.
+
+«Licença de emissão da União Europeia (LE)», licença transferível para emitir uma tonelada de equivalente de CO(índice 2) durante um período específico.
+
+«Período de concessão do auxílio», um ou mais anos no período 2021-2030.
+
+«Preço a prazo da LE», a cotação média das licenças de emissão colocadas a leilão por Portugal na plataforma europeia, relativa ao ano t-1, calculada como o quociente entre a receita total e a quantidade total de licenças leiloadas no citado ano, arredondada a duas casas decimais, expressa em Euros.
+
+«Produção efetiva», em toneladas por ano, produção efetiva da instalação no ano t, determinada ex post no ano t+1.
+
+«Valor de referência em matéria de eficiência de consumo de eletricidade», expresso em MWh por tonelada produzida e definido ao nível 8 do PRODCOM, o consumo de eletricidade específico de um determinado produto, por tonelada de produção alcançada pelos métodos de produção mais eficientes em termos de consumo de eletricidade para o produto em causa. No que se refere aos produtos pertencentes aos setores elegíveis relativamente aos quais tenha sido estabelecida a substituibilidade entre combustível e eletricidade no anexo i, secção 2, do Regulamento Delegado (UE) 2019/331 da Comissão, a definição de valor de referência em matéria de eficiência de consumo de eletricidade é efetuada dentro do limite do mesmo sistema, tomando apenas em consideração a partilha de eletricidade para determinação do montante de auxílio. Para efeitos de cálculo do montante máximo de auxílio utilizam-se os valores fixados nas Orientações relativas a determinadas medidas de auxílio estatal no âmbito do sistema do comércio de licenças de emissão de GEE após 2021.
+
+«Valor de referência de contingência em matéria de eficiência de consumo de eletricidade», expresso em percentagem do consumo real de eletricidade. Corresponde ao esforço de redução médio imposto pela aplicação dos valores de referência em matéria de eficiência de consumo de eletricidade (valor de referência em matéria de eficiência de consumo de eletricidade/consumo de eletricidade ex ante). Aplica-se a todos os produtos e processos que integram os setores ou subsetores elegíveis, mas que não estão abrangidos pelos valores de referência em matéria de eficiência de consumo de eletricidade. Para efeitos de cálculo do montante máximo de auxílio utilizam-se os valores fixados nas Orientações relativas a determinadas medidas de auxílio estatal no âmbito do sistema do comércio de licenças de emissão de GEE após 2021.
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+## Anexo II — Setores e subsetores considerados, ex ante, como expostos a um risco significativo de fuga de carbono devido aos custos das emissões indiretas
+
+(a que se refere o n.º 2 do artigo 2.º e o n.º 3 do artigo 7.º)
+
+Para efeitos da presente portaria e de acordo com as «Orientações relativas a determinadas medidas de auxílio estatal no âmbito do regime de comércio de licenças de emissão de gases com efeito de estufa após 2021», constantes na Comunicação da Comissão 2020/C 317/04, de 25 de setembro de 2020, e alterada pelas Comunicações da Comissão 2021/C 528/01, de 30 de dezembro de 2021, e C/2026/196, de 5 de janeiro de 2026, considera-se que apenas pode ser considerado beneficiário de auxílio estatal relativo aos custos das emissões indiretas, se desenvolver atividades num dos setores e subsetores seguidamente enumerados, salvo o disposto no artigo 2.º-A.
+
+QUADRO 1
+
+|  | CódigoNACE | Descrição |
+| --- | --- | --- |
+| 1. | 14.11 | Confeção de vestuário em couro |
+| 2. | 24.42 | Produção de alumínio |
+| 3. | 20.13 | Fabricação de outros produtos químicos inorgânicos de base |
+| 4. | 24.43 | Produção de chumbo, zinco e estanho |
+| 5. | 17.11 | Fabricação de pasta |
+| 6. | 17.12 | Fabricação de papel e de cartão (exceto canelado) |
+| 7. | 24.10 | Siderurgia e fabricação de ferroligas |
+| 8. | 19.20 | Fabricação de produtos petrolíferos refinados |
+| 9. | 24.44 | Produção de cobre |
+| 10. | 24.45 | Produção de outros metais não ferrosos |
+| 11. |  | Os seguintes subsetores dentro do setor das matérias plásticas (20.16): |
+|  | 20.16.40.15 | Polietilenoglicóis e outros poliéter-álcoois, em formas primárias |
+| 12. |  | Todas as categorias de produtos no setor da fundição de ferro fundido (24.51) |
+| 13. | 23.14.12.1023.14.12.30 | Os seguintes subsetores dentro do setor das fibras de vidro (23.14): |
+|  |  | Esteiras de fibra de vidroVéus de fibra de vidro |
+| 14. | 20.11.11.5020.11.12.90 | Os seguintes subsetores dentro do setor dos gases industriais (20.11): |
+|  |  | HidrogénioCompostos oxigenados inorgânicos dos elementos não metálicos |
+
+QUADRO 2
+
+|  | CódigoNACE | Descrição |
+| --- | --- | --- |
+| 1. | 07.29 | Extração de outros minérios metálicos não ferrosos |
+| 2. | 07.10 | Extração de minérios de ferro |
+| 3. | 20.17 | Fabricação de borracha sintética em formas primárias |
+| 4. | 20.60 | Fabricação de fibras sintéticas ou artificiais |
+| 5. | 20.16 | Fabricação de matérias plásticas em formas primárias (*) |
+| 6. | 13.10 | Preparação e fiação de fibras têxteis |
+| 7. | 23.31 | Fabricação de azulejos, ladrilhos, mosaicos e lajes de cerâmica |
+| 8. | 20.12 | Fabricação de corantes e pigmentos |
+| 9. | 13.95 | Fabricação de têxteis não tecidos e respetivos artigos, exceto vestuário |
+| 10. | 23.14 | Fabricação de fibras de vidro (*) |
+| 11. | 27.20 | Fabricação de acumuladores e pilhas |
+| 12. | 20.14 | Fabricação de outros produtos químicos orgânicos de base |
+| 13. | 20.15 | Fabricação de adubos (fertilizantes) e de compostos azotados |
+| 14. | 10.41 | Produção de óleos e gorduras |
+| 15. | 11.06 | Fabricação de malte |
+| 16. | 16.21 | Fabricação de folheados e painéis à base de madeira |
+| 17. | 23.11 | Fabricação de vidro plano |
+| 18. | 23.13 | Fabricação de vidro de embalagem e cristalaria (vidro oco) |
+| 19. | 24.31 | Estiragem a frio de barras |
+| 20. | 24.34 | Trefilagem a frio |
+| 21. |  | O subsetor seguinte dentro do setor da fabricação de outros produtos químicos, n.e. (20.59): |
+|  | 20.59.56.70 | Misturas de alquilbenzenos, misturas de alquilnaftalenos. exceto as das posições 2707 ou 2902 do SH |
+| 22. |  | O subsetor seguinte dentro do setor dos outros produtos minerais não metálicos, n.e. (23.99): |
+|  | 23.99.19.10 | Lã de escórias de altos-fornos, de outras escórias, lã de rocha e lãs minerais semelhantes (exceto lã de vidro), mesmo misturadas entre si, em blocos ou massas, em folhas ou em rolos |
+
+(*) Aplica-se ao setor, com exceção dos subsetores já enumerados no quadro 1.
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+## Anexo III — Documentos a apresentar no âmbito da candidatura
+
+(a que se refere o n.º 2 do artigo 3.º)
+
+1 - Para efeitos de avaliação de habilitação, o candidato a beneficiário deve submeter no âmbito da candidatura os seguintes documentos:
+
+a) Certificado de registo criminal ou, na sua falta, documento equivalente emitido pela autoridade judicial ou administrativa competente, do qual resulte que o requisito previsto na subalínea i) da alínea a) do n.º 3 se encontra satisfeito;
+
+b) Declaração de consentimento para consulta da situação tributária e contributiva, emitida em nome do Fundo, ou, na sua falta, certidão comprovativa da situação tributária e contributiva regularizada, tal como previsto nas subalíneas vii) e viii) da alínea a) do n.º 3;
+
+c) Declaração de compromisso de honra constante de acordo com o disposto no n.º 3.
+
+2 - Para efeitos dos artigos 4.º e 7.º o candidato a beneficiário deve submeter os seguintes elementos relativos ao ano t em modelo próprio, disponibilizado na plataforma disponibilizada na página eletrónica do Fundo:
+
+a) Identificação do beneficiário e das instalações de sua propriedade que são objeto de auxílio;
+
+b) Setor(es) ou subsetor(es) em que o beneficiário exerce atividades (identificado pelo respetivo código NACE e PRODCOM);
+
+c) A produção efetiva, expresso em toneladas, de cada instalação objeto de auxílio por setor(es) ou subsetor(es), relativo ao período em que é abrangido pelo regime CELE;
+
+d) O consumo efetivo de eletricidade, expresso em MWh, de cada instalação objeto de auxílio por setor(es) ou subsetor(es), relativo ao período em que é abrangido pelo regime CELE (se for concedido qualquer auxílio com base num valor de referência de contingência em termos de eficiência de consumo de eletricidade, previsto na alínea b) do n.º 1 do anexo v);
+
+e) Quando aplicável, demonstração de que cumpre com o disposto em, pelo menos, uma das alíneas do n.º 2 do artigo 4.º da presente portaria;
+
+f) Montante dos auxílios estatais e montante de outras formas de financiamento da UE sob controlo estatal, com indicação do respetivo âmbito.
+
+3 - O modelo de declaração de compromisso de honra deve constar do portal do Fundo na Internet, contendo os seguintes elementos:
+
+a) [Nome completo], [número de documento de identificação civil], [domicílio pessoal/profissional], [código postal], na qualidade de representante legal de [identificação do candidato] (1), declara, sob compromisso de honra, que a sua representada (2), [número de documento de identificação de pessoa coletiva], [sede], [código postal] ou, caso de candidatura com vários candidatos [número de documento de identificação de pessoa coletiva], [sede], [código postal], tendo tomado inteiro e perfeito conhecimento da medida de auxílio a custos indiretos prevista na Portaria n.º ...:
+
+i) Não foi condenado/a por sentença transitada em julgado, pelos crimes previstos nos artigos 278.º a 280.º do Código Penal;
+
+ii) Não foi objeto de aplicação de contraordenação ambiental ou sanção acessória, nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual;
+
+iii) Não se encontra em estado de insolvência, em fase de liquidação, dissolução ou cessação de atividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respetivo processo pendente;
+
+iv) Não foi condenado/a, há menos de dois anos, por sentença transitada em julgado por despedimento ilegal de grávidas, puérperas ou lactantes (3), nos termos do artigo 1.º da Lei n.º 133/2015, de 7 de setembro;
+
+v) Não foi condenado/a, por sentença transitada em julgado, por qualquer crime que afete a honorabilidade profissional (4), [ou os titulares dos seus órgãos sociais de administração, direção ou gerência não foram condenados por qualquer crime que afete a sua honorabilidade profissional (5)] (6);
+
+vi) Não foi objeto de aplicação de sanção administrativa por falta grave em matéria profissional (7) [ou os titulares dos seus órgãos sociais de administração, direção ou gerência não foram objeto de aplicação de sanção administrativa por falta grave em matéria profissional (8)] (9);
+
+vii) Tem a sua situação regularizada relativamente a contribuições para a Segurança Social em Portugal (10);
+
+viii) Tem a sua situação tributária regularizada relativamente a impostos devidos em Portugal (11);
+
+ix) Não foi objeto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, na alínea b) do n.º 1 do artigo 71.º da Lei n.º 19/2012, de 8 de maio, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (12);
+
+x) Não foi objeto de aplicação de sanção acessória prevista na alínea b) do n.º 2 do artigo 562.º do Código do Trabalho (13);
+
+xi) Não foi objeto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (14);
+
+xii) Não foi condenado/a, por sentença transitada em julgado, por algum dos seguintes crimes (15) [ou os titulares dos seus órgãos sociais de administração, direção ou gerência não foram condenados por algum dos seguintes crimes (16)] (17):
+
+Participação em atividades de uma organização criminosa, tal como definida no n.º 1 do artigo 2.º da Ação Comum n.º 98/773/JAI, do Conselho;
+
+Corrupção, na aceção do artigo 3.º do Ato do Conselho de 26 de maio de 1997 e do n.º 1 do artigo 3.º da Ação Comum n.º 98/742/JAI, do Conselho;
+
+Fraude, na aceção do artigo 1.º da Convenção relativa à proteção dos Interesses Financeiros das Comunidades Europeias;
+
+Branqueamento de capitais, na aceção do artigo 1.º da Diretiva n.º 91/308/CEE, do Conselho, de 10 de junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais.
+
+b) O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados, por motivo que lhe seja imputável, determina a caducidade da decisão de aprovação do financiamento que eventualmente recaia sobre a proposta apresentada;
+
+c) O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da candidatura apresentada ou a caducidade da decisão de aprovação do financiamento que eventualmente sobre ela recaia, sem prejuízo da participação à entidade competente para os efeitos de procedimento criminal;
+
+d) Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.
+
+... [data e assinatura].
+
+(1) Só aplicável a concorrentes pessoas coletivas.
+
+(2) No caso de concorrente pessoa singular suprimir a expressão «a sua representada».
+
+(3) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(4) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(5) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(6) Declarar consoante o concorrente seja pessoa singular ou pessoa coletiva.
+
+(7) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(8) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(9) Declarar consoante o concorrente seja pessoa singular ou pessoa coletiva.
+
+(10) Declarar consoante a situação.
+
+(11) Declarar consoante a situação.
+
+(12) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.
+
+(13) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.
+
+(14) Declarar consoante a situação.
+
+(15) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(16) Indicar se, entretanto, ocorreu a respetiva reabilitação.
+
+(17) Declarar consoante o concorrente seja pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+## Anexo IV — Determinação do montante máximo de auxílio a conceder por instalação
+
+(a que se refere o n.º 1 do artigo 7.º)
+
+1 - Fórmulas a serem utilizadas para efeitos de cálculo do montante máximo de auxílio a conceder por instalação, para o fabrico de produtos incluídos nos setores e subsetores constantes do anexo ii:
+
+a) Quando os valores de referência em matéria de eficiência de consumo de eletricidade forem aplicáveis aos produtos fabricados pelo beneficiário, o montante máximo de auxílio que pode ser concedido por instalação relativamente aos custos incorridos no ano t é igual a:
+
+A(índice max) (índice t) = Ai x C(índice t) x P(índice t-1) x E x AO(índice t)
+
+em que:
+
+A(índice max) (índice t) - montante máximo de auxílio que pode ser concedido relativamente aos custos incorridos no ano t.
+
+Ai - intensidade do auxílio, expressa em percentagem, tal como definido no artigo 7.º
+
+Ct - fator de emissão de CO2, estabelecido pela Comissão Europeia, ou o fator de emissão de CO2 baseado no mercado (tCO/MWh) aplicável no ano t, segundo o artigo 8.º da presente portaria.
+
+P(índice t-1) - preço das licenças de emissão da União Europeia no ano t-1, expresso em EUR/tCO(índice 2).
+
+E - valor de referência aplicável em matéria de eficiência de consumo de eletricidade relativo a um determinado produto, expresso em MWh/t produzida, estabelecido pela Comissão Europeia.
+
+AO(índice t) - produção efetiva no ano t, expresso em toneladas, relativa aos setores e subsetores considerados no anexo ii.
+
+b) Quando os valores de referência em matéria de eficiência de consumo de eletricidade não forem aplicáveis aos produtos fabricados pelo beneficiário, o montante máximo de auxílio que pode ser concedido por instalação relativamente aos custos incorridos no ano t é igual a:
+
+A(índice max t) = Ai x C(índice t) x P(índice t-1) x EF x AEC(índice t)
+
+em que:
+
+A(índice max) (índice t), Ai, C(índice t) e P(índice t-1) se encontram definidos na alínea a) do n.º 1 deste anexo.
+
+EF - valor de referência de contingência em matéria de eficiência de consumo de eletricidade, expressa em percentagem, estabelecido pela Comissão Europeia.
+
+AEC(índice t) - consumo efetivo de eletricidade no ano t, expresso em MWh, relativo aos setores e subsetores considerados no anexo ii.
+
+c) Relativamente aos produtos aos quais tenha sido estabelecida a substituibilidade entre combustível e eletricidade no anexo i, secção 2, do Regulamento Delegado (UE) 2019/331, não sendo adequado estabelecer um valor de referência baseado em MWh/t de produto. Em vez disso, o ponto de partida são as curvas de emissões de gases com efeito de estufa específicos derivadas das emissões diretas. Para esses produtos, os valores de referência relativos a produtos são determinados com base na soma das emissões diretas (emissões geradas pelo consumo de energia e emissões de processo) e das emissões indiretas geradas pela utilização da parte da eletricidade substituível.
+
+Nesses casos, o fator «E» na fórmula de cálculo do montante máximo de auxílio, tal como referido na alínea a) do n.º 1 do presente anexo, deve ser substituído pelo seguinte termo que converte um valor de referência relativo a produtos estabelecido no Regulamento Delegado (UE) 2019/331 num valor de referência em matéria de eficiência de consumo de eletricidade com base num fator de emissão europeu médio de CO2 de 0,376 tCO2/MWh:
+
+Valor de referência relativo a produtos existente incluído na secção 2 do anexo do Regulamento (UE) 2021/447 (em tCO2/t) × quota de emissões indiretas pertinentes durante o período de referência (%)/0,376 (tCO2/MWh)
+
+Os valores de referência em matéria de eficiência relativos a produtos com substituibilidade entre combustível e eletricidade a aplicar no período 2021-2025 encontram-se no Regulamento (UE) 2021/447, de 12 de março de 2021, que determina os valores dos parâmetros de referência revistos para a atribuição harmonizada de licenças de emissão a título gratuito entre 2021 e 2025, nos termos do artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho.
+
+2 - Para efeitos de aplicação das fórmulas apresentadas no n.º 1 deste anexo deverão ser consideradas as seguintes regras:
+
+a) Se uma instalação fabricar produtos aos quais é aplicável um valor de referência em matéria de eficiência de consumo de eletricidade e produtos aos quais é aplicável o valor de referência de contingência em matéria de eficiência de consumo de eletricidade para cada produto deve ser distribuído de acordo com a tonelagem de produção de cada produto;
+
+b) Se uma instalação fabricar produtos elegíveis para beneficiarem de auxílios (ou seja, produtos que integram os setores ou subsetores elegíveis enumerados no anexo ii) e produtos que não são elegíveis para beneficiarem de auxílios, o auxílio máximo que pode ser concedido deve ser calculado apenas relativamente aos produtos elegíveis.
+
+3 - Os valores de referência em matéria de eficiência, incluindo o «valor de referência de contingência em matéria de eficiência do consumo de eletricidade (EF)», serão reduzidos (a partir de t = 2022) em 1,09 % numa base anual, de acordo com a seguinte fórmula:
+
+Valor de referência em matéria de eficiência aplicável (no ano t) = Valor de referência em 2021 * (1 - taxa de redução anual) ^ (ano t - 2021)
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.
+
+## Anexo V — Informação disponibilizada pela ApC, I. P.
+
+(a que se refere o n.º 2 do artigo 12.º)
+
+No que se refere aos auxílios concedidos a instalações com setor(es) ou subsetor(es) considerados expostos a um risco significativo de fuga de carbono, devido aos custos decorrentes do regime CELE repercutidos no preço da eletricidade (auxílios aos custos das emissões indiretas), a informação a disponibilizar ApC, I. P., deve incluir pelo menos as seguintes informações:
+
+a) Os nomes do beneficiário e as instalações de sua propriedade que são objeto de auxílio;
+
+b) O(s) setor(es) ou subsetor(es) em que o beneficiário exerce atividades (identificado pelo respetivo código NACE e PRODCOM);
+
+c) O ano relativamente ao qual o auxílio é concedido e o ano em que o auxílio é pago;
+
+d) A produção efetiva de cada instalação objeto de auxílio no(s) setor(es) ou subsetor(es) relevante(s);
+
+e) O consumo efetivo de eletricidade de cada instalação objeto de auxílio no(s) setor(es) ou subsetor(es) relevante(s) (se for concedido qualquer auxílio com base num valor de referência de contingência em termos de eficiência de consumo de eletricidade);
+
+f) O preço das LE utilizado para calcular o montante de auxílio por beneficiário;
+
+g) A intensidade de auxílio;
+
+h) O fator de emissão de CO(índice 2) nacional.
+
+114578068
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 276/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/276-2026-1139191715), em vigor a partir de 2026-06-27.

@@ -1,0 +1,643 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70485726:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-114820783",
+ "dre_path": "/dr/detalhe/portaria/340-2015-70485726",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114804276",
+    "114804277",
+    "114804278",
+    "114804279",
+    "114804280",
+    "114804281",
+    "114804282",
+    "114804283",
+    "114804284",
+    "114804285",
+    "114804286",
+    "114804287",
+    "114804288",
+    "114804289",
+    "114804290",
+    "114804291",
+    "114804292",
+    "114804293",
+    "114804294",
+    "114804295",
+    "114804296",
+    "114804297",
+    "114804298",
+    "114804299",
+    "114804300",
+    "114804301",
+    "114804303"
+   ]
+  },
+  {
+   "date": "2016-06-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74671910:por",
+     "title": "Portaria n.º 165/2016",
+     "published": "2016-06-14",
+     "dre_path": "/dr/detalhe/portaria/165-2016-74671910"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "114804276",
+    "114804277",
+    "114824178",
+    "114804279",
+    "114804280",
+    "114824179",
+    "114824180",
+    "114804283",
+    "114804284",
+    "114804285",
+    "114824181",
+    "114804287",
+    "114804288",
+    "114824182",
+    "114804290",
+    "114824183",
+    "114824184",
+    "114804293",
+    "114804294",
+    "114824185",
+    "114824186",
+    "114804297",
+    "114804298",
+    "114824187",
+    "114804300",
+    "114804301",
+    "114804302",
+    "114824188"
+   ]
+  },
+  {
+   "date": "2017-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106509197:por",
+     "title": "Portaria n.º 75/2017",
+     "published": "2017-02-22",
+     "dre_path": "/dr/detalhe/portaria/75-2017-106509197"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Secção V",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "114804276",
+    "114804277",
+    "114824192",
+    "114804279",
+    "114804280",
+    "114824190",
+    "114824180",
+    "114804283",
+    "114804284",
+    "114804285",
+    "114824181",
+    "114804287",
+    "114804288",
+    "114824182",
+    "114804290",
+    "114824183",
+    "114824184",
+    "114804293",
+    "114824193",
+    "114824191",
+    "114824186",
+    "114824189",
+    "114804297",
+    "114804298",
+    "114824187",
+    "114804300",
+    "114804301",
+    "114804302",
+    "114824188"
+   ]
+  },
+  {
+   "date": "2018-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114822275:por",
+     "title": "Portaria n.º 66/2018",
+     "published": "2018-03-06",
+     "dre_path": "/dr/detalhe/portaria/66-2018-114822275"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "114804276",
+    "114804277",
+    "114824194",
+    "114804279",
+    "114804280",
+    "114824195",
+    "114824180",
+    "114804283",
+    "114804284",
+    "114804285",
+    "114824181",
+    "114804287",
+    "114804288",
+    "114824182",
+    "114824196",
+    "114824197",
+    "114824184",
+    "114824198",
+    "114824193",
+    "114824191",
+    "114824186",
+    "114824189",
+    "114804297",
+    "114804298",
+    "114824187",
+    "114804300",
+    "114804301",
+    "114804302",
+    "114824188"
+   ]
+  }
+ ],
+ "fragments": {
+  "114804276": {
+   "fragment_id": "114820784",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 340/2015\n\nde 8 de outubro\n\nA Lei n.º 52/2012, de 5 de setembro - Lei de Bases dos Cuidados Paliativos (LBCP) -, consagra o direito, e regula o acesso, dos cidadãos aos cuidados paliativos, define a responsabilidade do Estado em matéria de cuidados paliativos e cria a Rede Nacional de Cuidados Paliativos (RNCP).\n\nPara plena produção de efeitos da LBCP torna-se necessário, de acordo com a base XXXIV, regulamentar as bases XI, XIV, XXIII, XXVII e XXVIII.\n\nA base XI da LBCP estabelece que a Coordenação da RNCP é, a nível nacional, assegurada pela Comissão Nacional de Cuidados Paliativos (CNCP), que passa a integrar a orgânica da Administração Central do Sistema de Saúde, I. P., e, a nível regional, pelas Administrações Regionais de Saúde, I. P. (ARS, I. P.).\n\nImporta assim, através do presente diploma, regulamentar a caracterização dos serviços que integram a RNCP, a admissão dos doentes, os recursos humanos, bem como as condições e requisitos de construção e segurança das instalações de cuidados paliativos.\n\nA presente portaria identifica e caracteriza as equipas locais da RNCP, bem como os respetivos serviços, destacando o papel das equipas comunitárias de suporte em cuidados paliativos na prestação de cuidados domiciliários de forma a garantir a permanência do doente em fim de vida no seu ambiente comunitário e familiar.\n\nNo que respeita ao acesso e à prioridade na admissão de doentes nas equipas locais, os mesmos devem assentar em critérios clínicos a definir pela CNCP.\n\nAinda sobre o acesso e a prioridade na admissão, compete às ARS, I. P., através das equipas coordenadoras regionais da Rede Nacional de Cuidados Continuados Integrados (RNCCI), previstas no Decreto-Lei n.º 101/2006, de 6 de junho, monitorizar as admissões de doentes, garantindo a equidade no acesso.\n\nAs condições de instalação de cuidados paliativos obedecem aos requisitos mínimos constantes do anexo ao presente diploma, do qual faz parte integrante.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da Base XXXIV da Lei n.º 52/2012, de 5 de setembro, manda o Governo, pelo Secretário de Estado Adjunto do Ministro da Saúde, o seguinte:"
+  },
+  "114804277": {
+   "fragment_id": "114820785",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114804278": {
+   "fragment_id": "114820786",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente portaria regula, no âmbito da Rede Nacional de Cuidados Paliativos, adiante designada por RNCP:\n\na) A caracterização dos serviços e a admissão nas equipas locais;\n\nb) As condições e requisitos de construção e segurança das instalações de cuidados paliativos.\n\n2 - A presente portaria aplica-se às entidades integradas na RNCP.\n\n3 - A RNCP é coordenada, a nível regional, pelas respetivas Administrações Regionais de Saúde, através de um profissional de saúde com formação em cuidados paliativos que integre as Equipas Coordenadoras Regionais da Rede Nacional de Cuidados Continuados Integrados (RNCCI)."
+  },
+  "114804279": {
+   "fragment_id": "114820787",
+   "type": 1,
+   "heading": "Capítulo II — Da RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da RNCP"
+  },
+  "114804280": {
+   "fragment_id": "114820788",
+   "type": 8,
+   "heading": "Secção I — Operacionalização da RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Operacionalização da RNCP"
+  },
+  "114804281": {
+   "fragment_id": "114820789",
+   "type": 11,
+   "heading": "Artigo 2.º — Equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Equipas locais de cuidados paliativos\n\n1 - As equipas de prestação de cuidados paliativos, a nível local, são:\n\na) As unidades de internamento de cuidados paliativos (UCP);\n\nb) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP);\n\nc) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).\n\n2 - As equipas locais referidas no número anterior encontram-se integradas na RNCP e articulam-se entre si e com as Equipas Coordenadoras Regionais da RNCCI, previstas no Decreto-Lei n.º 101/2006, de 6 de junho.\n\n3 - As UCP podem ter diferentes valências assistenciais e funcionar em instalações da RNCCI.\n\n4 - Nas unidades de média duração e reabilitação e de longa duração e manutenção da RNCCI, previstas no Decreto-Lei n.º 101/2006, de 6 de junho, podem também ser prestados cuidados paliativos, desde que assegurados os serviços constantes do artigo 7.º"
+  },
+  "114804282": {
+   "fragment_id": "114820790",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências das equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências das equipas locais de cuidados paliativos\n\nCompete às equipas locais no seu âmbito de referência:\n\na) Proceder à admissão ou readmissão dos doentes com necessidade de cuidados paliativos;\n\nb) Articular com as outras equipas locais a afetação ou a transferência de doentes, tendo em vista a prestação de cuidados paliativos eficazes, oportunos e eficientes àqueles que, independentemente da idade e patologia, cumpram os critérios definidos pela Comissão;\n\nc) Articular-se com as Equipas Coordenadoras Regionais da RNCCI;\n\nd) Definir e concretizar, em relação a cada doente, um plano individual de cuidados;\n\ne) Divulgar junto da população a informação sobre cuidados paliativos e acesso à RNCP;\n\nf) Articular-se com os outros prestadores de cuidados de saúde, na sua área de influência."
+  },
+  "114804283": {
+   "fragment_id": "114820791",
+   "type": 8,
+   "heading": "Secção II — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Recursos humanos"
+  },
+  "114804284": {
+   "fragment_id": "114820792",
+   "type": 11,
+   "heading": "Artigo 4.º — Profissionais das equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Profissionais das equipas locais de cuidados paliativos\n\nAs equipas locais de cuidados paliativos integram, no mínimo, profissionais das áreas da medicina, enfermagem, psicologia e serviço social, todos com formação específica em cuidados paliativos, devendo integrar outros profissionais sempre que a complexidade dos cuidados prestados o justifique, nos termos a definir pela CNCP e ouvidas as respetivas Ordens e Associações Profissionais."
+  },
+  "114804285": {
+   "fragment_id": "114820793",
+   "type": 8,
+   "heading": "Secção III — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Organização"
+  },
+  "114804286": {
+   "fragment_id": "114820794",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção das equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção das equipas locais de cuidados paliativos\n\nCada equipa local funciona sob a direção de um profissional de saúde com formação e experiência reconhecida em cuidados paliativos, nomeadamente tendo em consideração qualificações existentes, ao qual compete, nomeadamente:\n\na) Garantir a elaboração do regulamento interno;\n\nb) Planear, coordenar e monitorizar as atividades desenvolvidas;\n\nc) Promover o trabalho interdisciplinar;\n\nd) Promover a formação inicial e contínua dos profissionais da equipa;\n\ne) Promover a melhoria da qualidade dos serviços através da avaliação de estruturas, processos e resultados."
+  },
+  "114804287": {
+   "fragment_id": "114820795",
+   "type": 8,
+   "heading": "Secção IV — Caracterização das Equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Caracterização das Equipas locais de cuidados paliativos"
+  },
+  "114804288": {
+   "fragment_id": "114820796",
+   "type": 11,
+   "heading": "Artigo 6.º — Caracterização da UCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Caracterização da UCP\n\n1 - A UCP é um serviço específico de tratamento em regime de internamento para doentes que necessitam de cuidados paliativos diferenciados e multidisciplinares, nomeadamente em situação clínica aguda complexa.\n\n2 - A UCP deve estar integrada num hospital ou noutra unidade de saúde do setor público, social ou privado.\n\n3 - As UCP podem diferenciar-se em função de patologias específicas, nomeadamente na área das doenças oncológicas, neurológicas rapidamente progressivas, da infeção VIH/SIDA e na área pediátrica.\n\n4 - As UCP podem diferenciar-se ainda em razão do desenvolvimento de atividades de docência e de investigação, devendo neste caso estar sediadas em hospitais centrais ou universitários."
+  },
+  "114804289": {
+   "fragment_id": "114820797",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços assegurados pela UCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços assegurados pela UCP\n\nA UCP deve assegurar, designadamente:\n\na) Cuidados médicos e de enfermagem permanentes;\n\nb) Intervenção psicológica para doentes, familiares e profissionais;\n\nc) Intervenção e apoio social;\n\nd) Apoio e intervenção no luto;\n\ne) Intervenção espiritual;\n\nf) Exames complementares de diagnóstico;\n\ng) Prescrição e administração de fármacos que constem do Formulário Nacional de Medicamentos, no respeito pelas normas de orientação clínica da Direção-Geral da Saúde;\n\nh) Higiene, conforto e alimentação;\n\ni) Convívio e lazer;\n\nj) Formação em cuidados paliativos."
+  },
+  "114804290": {
+   "fragment_id": "114820798",
+   "type": 11,
+   "heading": "Artigo 8.º — Caracterização da EIHSCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Caracterização da EIHSCP\n\n1 - A EIHSCP é uma equipa multidisciplinar, dotada de recursos específicos.\n\n2 - A EIHSCP presta:\n\na) Aconselhamento e apoio diferenciado em cuidados paliativos especializados a outros profissionais e aos serviços do hospital, assim como aos doentes e suas famílias;\n\nb) Assistência na execução do plano individual de cuidados aos doentes internados em situação de sofrimento decorrente de doença grave ou incurável, em fase avançada e progressiva ou com prognóstico de vida limitado, para os quais seja solicitada a sua atuação.\n\n3 - A EIHSCP articula-se e complementa-se com outras unidades e equipas da instituição de saúde onde se encontra integrada."
+  },
+  "114804291": {
+   "fragment_id": "114820799",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços assegurados pela EIHSCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviços assegurados pela EIHSCP\n\nA EIHSCP assegura, designadamente:\n\na) Consulta e acompanhamento de doentes internados na instituição de saúde onde se encontra integrada;\n\nb) Intervenção psicológica para doentes, profissionais e familiares;\n\nc) Intervenção e apoio social;\n\nd) Apoio e intervenção no luto;\n\ne) Intervenção espiritual;\n\nf) Assessoria aos profissionais dos serviços da instituição de saúde onde se encontra integrada;\n\ng) Formação em cuidados paliativos."
+  },
+  "114804292": {
+   "fragment_id": "114820800",
+   "type": 11,
+   "heading": "Artigo 10.º — Caracterização da ECSCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Caracterização da ECSCP\n\n1 - A ECSCP é uma equipa multidisciplinar que pode estar integrada nas estruturas dos Agrupamentos de Centros de Saúde (ACES) ou das Unidades Funcionais de Prestação de Cuidados de Saúde Primários, designadamente nas Unidades de Cuidados na Comunidade das estruturas dos ACES ou das estruturas das Unidades Locais de Saúde, e dotada de recursos específicos.\n\n2 - A ECSCP presta cuidados domiciliários de modo a garantir a permanência do doente em fim de vida no seu ambiente comunitário e familiar.\n\n3 - A ECSCP desenvolve a sua atividade em estreita articulação com as equipas de cuidados continuados integrados da RNCCI, previstas no Decreto-Lei n.º 101/2006, de 6 de junho, e podem ser incluídas nas equipas de cuidados continuados integrados.\n\n4 - A ECSCP depende do Diretor Executivo do ACES onde se encontra integrada.\n\n5 - Poderão, ainda, vir a ser previstas ECSCP integradas em unidades do setor social ou privado."
+  },
+  "114804293": {
+   "fragment_id": "114820801",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços assegurados pela ECSCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Serviços assegurados pela ECSCP\n\nA ECSCP assegura, designadamente:\n\na) Cuidados médicos e de enfermagem permanentes;\n\nb) Intervenção psicológica;\n\nc) Intervenção e apoio social;\n\nd) Apoio e intervenção no luto;\n\ne) Intervenção espiritual;\n\nf) Apoio e aconselhamento diferenciado, em cuidados paliativos, às unidades de cuidados de saúde primários, às unidades e equipas da rede nacional de cuidados continuados integrados e a outras instituições onde o doente resida;\n\ng) Tratamentos e intervenções paliativas a doentes complexos, de acordo com o nível de diferenciação da equipa;\n\nh) Prevenção da, e intervenção na, exaustão emocional dos profissionais de saúde;\n\ni) Gestão e controlo dos procedimentos de articulação entre os recursos e os níveis de saúde e sociais;\n\nj) Formação em cuidados paliativos."
+  },
+  "114804294": {
+   "fragment_id": "114820802",
+   "type": 8,
+   "heading": "Secção V — Referenciação e transferência dos utentes na RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Referenciação e transferência dos utentes na RNCP"
+  },
+  "114804295": {
+   "fragment_id": "114820803",
+   "type": 11,
+   "heading": "Artigo 12.º — Referenciação de utentes na RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Referenciação de utentes na RNCP\n\n1 - A admissão de utentes nas equipas locais da RNCP, nos termos do previsto no artigo 3.º, é precedida de proposta de referenciação do profissional de saúde que assiste o doente e baseia-se em critérios de complexidade, gravidade e prioridade clínica, a definir pela CNCP.\n\n2 - Na referenciação do doente, deve ter-se em conta a proximidade da área do respetivo domicílio e, sempre que possível, a sua preferência na escolha da unidade ou equipa prestadora de cuidados, respeitados os limites dos recursos humanos, técnicos e financeiros disponíveis.\n\n3 - A proposta prevista no n.º 1 é avaliada e validada pela Equipa Coordenadora Regional da RNCCI competente."
+  },
+  "114804296": {
+   "fragment_id": "114820804",
+   "type": 11,
+   "heading": "Artigo 13.º — Transferência de utentes na RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transferência de utentes na RNCP\n\n1 - Sempre que clinicamente seja considerado adequado, o utente pode ser transferido mediante prévia autorização da Equipa Coordenadora Regional da RNCCI.\n\n2 - Para efeitos do disposto no número anterior, a equipa local apresenta proposta fundamentada à Equipa Coordenadora Regional da RNCCI."
+  },
+  "114804297": {
+   "fragment_id": "114820805",
+   "type": 8,
+   "heading": "Secção VI — Condições de instalação das unidades da RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Condições de instalação das unidades da RNCP"
+  },
+  "114804298": {
+   "fragment_id": "114820806",
+   "type": 11,
+   "heading": "Artigo 14.º — Condições de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Condições de instalação\n\nAs condições de instalação das unidades da RNCP compreendem todos os requisitos relativos à construção, à segurança das instalações e das pessoas, no que se refere a acessos, circulação, instalações técnicas e equipamentos, e ao tratamento de resíduos das unidades da RNCP, independentemente de se tratar de nova construção de raiz, remodelação ou adaptação de edifícios."
+  },
+  "114804299": {
+   "fragment_id": "114820807",
+   "type": 11,
+   "heading": "Artigo 15.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instalações\n\n1 - As instalações de unidades de cuidados paliativos da RNCP obedecem à legislação em vigor, nomeadamente no que respeita a:\n\na) Localização;\n\nb) Terreno;\n\nc) Construção, incluindo arquitetura, fundações e estrutura;\n\nd) Instalações e equipamentos de águas e esgotos;\n\ne) Instalações e equipamentos elétricos e de gás, quando aplicável;\n\nf) Instalações e equipamentos mecânicos, incluindo as centrais e redes de gases medicinais;\n\ng) Instalações e equipamentos de segurança contra incêndios;\n\nh) Equipamento geral;\n\ni) Equipamento médico;\n\nj) Sistemas de gestão de resíduos, consoante a respetiva natureza.\n\n2 - A definição e caracterização dos espaços necessários ao desenvolvimento das atividades das unidades da RNCP devem ainda obedecer às condições específicas de instalação previstas no anexo à presente portaria, da qual faz parte integrante.\n\n3 - Sem prejuízo do disposto na presente portaria, o licenciamento de construção e autorização de utilização rege-se pela legislação aplicável."
+  },
+  "114804300": {
+   "fragment_id": "114820808",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "114804301": {
+   "fragment_id": "114820809",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente portaria entra em vigor no prazo de 60 dias após a sua publicação."
+  },
+  "114804303": {
+   "fragment_id": "114820811",
+   "type": 14,
+   "heading": "Anexo — RNCP - Rede Nacional de Cuidados Paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — RNCP - Rede Nacional de Cuidados Paliativos\n\nUnidades de Internamento de Cuidados Paliativos\n\n1 - Arquitetura\n\nSem prejuízo dos requisitos técnicos estabelecidos na legislação em vigor, as instalações das unidades previstas neste diploma devem ainda observar os seguintes:\n\n1.1 - Programa funcional tipo:\n\nEspecificações mínimas:\n\nNota prévia:\n\nAs instalações referidas de seguida são consideradas por módulos máximos de 20 camas e por piso de internamento.\n\nNa unidade de internamento de cuidados paliativos 40 %, pelo menos, dos quartos são individuais, sendo os restantes quartos duplos.\n\n(ver documento original)\n\nÁreas complementares:\n\nSalvo se os serviços forem contratados a terceiros, os requisitos técnicos das áreas complementares de esterilização, cozinha e lavandaria são os que se encontram previstos na legislação em vigor aplicável a estas áreas funcionais.\n\nAs respetivas áreas podem ser comuns a outras unidades ou valências.\n\n1.2 - Outros requisitos de arquitetura:\n\nTodos os corredores destinados à circulação de macas devem ter o mínimo de 2,00 m úteis de largura. Em casos excecionais de edifícios cuja estrutura não permita adaptação a este requisito, admite-se que os corredores destinados à circulação de macas possam ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,00 m de largura útil à entrada dos quartos para cruzamento de duas macas.\n\nNão são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com exceção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos, salas de observação/tratamento e banhos assistidos devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs instalações sanitárias devem ser privativas por cada quarto. Excetua-se a zona de duche, que pode ser partilhada por cada 2 quartos, salvaguardada a devida privacidade.\n\nNas instalações sanitárias, as portas devem abrir para fora sem criar conflitos de circulação ou ser de correr pelo exterior da parede, por questões de higienização. Todas as fechaduras devem ser comandadas pelo exterior por intermédio de chave mestra. Os puxadores das portas devem ser de manípulo e as fechaduras devem permitir a abertura pelo interior e pelo exterior.\n\nDevem ser previstos dispensadores de desinfetante nos quartos, para a desinfeção das mãos dos profissionais (sendo dispensável a existência de lavatórios; a lavagem de mãos poderá ser feita na IS).\n\nEm todos os gabinetes onde haja prestação de cuidados a doentes deve ser instalado lavatório com torneira de comando não manual.\n\nCaso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões mínimas de 2,40 x 1,40 x 2,30 m (comprimento x largura x altura), com porta automática de 1,30 m de abertura útil e altura livre de passagem de 2,10 m.\n\nEm caso de impossibilidade de instalação do previsto no ponto anterior, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,10 x 1,30 x 2,20 m (comprimento x largura x altura), com porta automática de 1,20 m de abertura útil e altura livre de passagem de 2,0 m.\n\n2 - Especialidades de Engenharia\n\nSem prejuízo dos requisitos técnicos estabelecidos na legislação em vigor, as instalações das unidades previstas neste diploma devem ainda observar os seguintes:\n\n2.1 - Instalações e equipamentos elétricos:\n\nDevem seguir-se as disposições regulamentares prescritas pela Portaria n.º 949-A/2006, de 11 de setembro, RTIEBT (Regras Técnicas de Instalações Elétricas de Baixa Tensão), nomeadamente em termos de segurança de pessoas e bens. Concretamente, devem ser implementadas as seguintes funcionalidades, sistemas, ou equipamentos:\n\n2.1.1 - Instalação de um grupo eletrogéneo para efeitos de assegurar a alimentação de socorro ou de substituição, cujo objetivo é o de providenciar alimentação elétrica destinada a manter em funcionamento a instalação ou partes desta, em caso de falta da alimentação normal. Os equipamentos essenciais à segurança das pessoas devem ser alimentados por uma fonte de segurança ou de emergência, que não deve ser usada para outros fins, caso seja única. Desta forma, poderão coexistir, na mesma instalação, dois grupos eletrogéneos: um destinado à alimentação de socorro e outro, caso seja essa a opção do projetista, destinado aos circuitos de segurança ou de emergência (1);\n\n2.1.2 - As camas devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermeira ou outro pessoal de serviço pelos doentes. Este sistema deve satisfazer as seguintes condições:\n\na) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermeira com sinal acústico e luminoso;\n\nb) Possibilitar a transferência de chamadas para o local onde se encontre a enfermeira e a realização de chamadas de emergência;\n\nc) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitório e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermeira;\n\nd) O sistema deve ser considerado uma instalação de segurança.\n\n2.1.3 - Todos os compartimentos devem dispor do número de tomadas de energia necessário à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza;\n\n2.1.4 - Todos os compartimentos onde potencialmente possa ser utilizado equipamento telefónico ou informático devem dispor de uma tomada dupla por cada 10/12 m2 de superfície, com um mínimo de uma tomada dupla por cada posto de trabalho ou equipamento dedicado;\n\n2.1.5 - Todos os ascensores, quando existentes, devem dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um ascensor com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro;\n\n2.1.6 - Recomenda-se a alimentação de todos os circuitos de iluminação pelo setor de socorro, na sua totalidade ou parcialmente, segundo critérios devidamente fundamentados no projeto da especialidade de Eletrotecnia. Recomenda-se, também, a adoção, na iluminação interior, das orientações constantes da Norma ISO 8995 CIE S 008/E de 15/05/2003, contendo as especificações da «Commission Internationale de l'Éclairage» sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual;\n\n2.1.7 - Além das instalações de iluminação de segurança e de vigília prescritas nas regras supramencionadas, nos locais onde o paciente permaneça acamado deve prever-se iluminação geral e iluminação de leitura ou de observação, à cabeceira da cama do paciente, assim como no espaço do acompanhante.\n\n2.2 - Instalações e equipamentos mecânicos:\n\n2.2.1 - Climatização\n\nDe acordo com a legislação em vigor:\n\nCondições interiores de referência:\n\na) Condições interiores de conforto:\n\nInverno: 20ºC;\n\nVerão: 25ºC; 50 % HR;\n\nb) Taxa de renovação de ar: 0,6 ren/h;\n\nDe acordo com a legislação em vigor:\n\nCaudais mínimos de ar novo de acordo com a legislação em vigor.\n\nObservações:\n\nNas salas de apoio com eventual produção de ambientes poluídos, devem ser aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar:\n\nSala de sujos e despejos: 10 ren/h;\n\nInstalações sanitárias: 10 ren/h.\n\nNotas:\n\nTodas as UTA (unidade de tratamento de ar) e UTAN (unidade de tratamento de ar novo) devem ser dotadas de módulo de pré-filtragem EU5 e de módulo de filtragem EU7.\n\nÉ obrigatório prever sistemas de extração generalizados. O sistema de «sujos» deve ser independente do de «limpos».\n\nAs unidades terminais podem ser ventiloconvectores ou unidades de indução.\n\n2.2.2 - Instalações de gases medicinais:\n\nÉ obrigatória, em todas as unidades, a existência de oxigénio, aspiração/vácuo, nomeadamente nos quartos, bem como nas salas de tratamento e, de preferência, também nas salas de convívio e nas salas de refeições.\n\nRequisitos:\n\nA central de vácuo deve ser fisicamente separada das restantes, com a extração do sistema situada a uma cota de, pelo menos, 3 m acima das admissões de ar próximas;\n\nSe o ar comprimido respirável for produzido por compressores, a central deve ser fisicamente separada das restantes;\n\nTodas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva, de comutação automática;\n\nAs tomadas devem ser de duplo fecho, não intermutáveis de fluido para fluido;\n\nA utilização do tubo de poliamida apenas pode ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhado dos respetivos certificados CE medicinais.\n\n2.2.3 - Instalações frigoríficas\n\nDeve existir frigorífico de modelo laboratorial próprio para a conservação de medicamentos, certificado para o efeito, equipado com registador de temperatura e alarme.\n\n(1) Em substituição do segundo grupo eletrogéneo com motor de combustão interna, poder-se-á recorrer a outro tipo de alimentação alternativa, tal como uma UPS - Unidade de Alimentação Ininterrupta, não havendo critério de obrigatoriedade neste aspeto, deixando-se margem para que, desde que tecnicamente bem fundamentada, seja utilizada uma ou outra solução."
+  },
+  "114824178": {
+   "fragment_id": "114820786",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente portaria regula, no âmbito da Rede Nacional de Cuidados Paliativos, adiante designada por RNCP:\n\na) A caracterização dos serviços e a admissão nas equipas locais;\n\nb) As condições e requisitos de construção e segurança das instalações de cuidados paliativos.\n\n2 - A presente portaria aplica-se às entidades integradas na RNCP.\n\n3 - A RNCP é coordenada, a nível regional, pelas respetivas Administrações Regionais de Saúde, através de um profissional de saúde de reconhecida competência em cuidados paliativos, assessorado por um Grupo Técnico de Apoio, o qual deve articular-se com os Agrupamentos de Centros de Saúde (ACES), as instituições hospitalares e as estruturas da Rede Nacional de Cuidados Continuados Integrados (RNCCI), nomeadamente as Equipas Coordenadoras Regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824179": {
+   "fragment_id": "114820789",
+   "type": 11,
+   "heading": "Artigo 2.º — Equipas locais de cuidados paliativos",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 2.º — Equipas locais de cuidados paliativos\n\n1 - As equipas de prestação de cuidados paliativos, a nível local, são:\n\na) As unidades de internamento de cuidados paliativos (UCP);\n\nb) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP);\n\nc) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).\n\n2 - As equipas locais referidas no número anterior encontram-se integradas na RNCP e articulam-se entre si e com outros serviços e equipas do Serviço Nacional de Saúde de forma a assegurar a continuidade de cuidados de que o doente necessita.\n\n3 - As equipas locais de âmbito hospitalar podem organizar-se em termos de resposta assistencial, de forma integrada, agregando as valências de cuidados paliativos, nomeadamente a equipa de apoio intra-hospitalar, unidade de internamento, quando existente, hospital de dia, consulta externa e consulta domiciliária.\n\n4 - As Unidades de Convalescença, as Unidades de Média Duração e Reabilitação, as Unidades de Longa Duração e Manutenção e as Equipas de Cuidados Continuados Integrados (ECCI) da RNCCI, devem articular-se com as equipas locais de cuidados paliativos para assegurar a prestação de ações paliativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824180": {
+   "fragment_id": "114820790",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências das equipas locais de cuidados paliativos",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 3.º — Competências das equipas locais de cuidados paliativos\n\nCompete às equipas locais no seu âmbito de referência:\n\na) Proceder à admissão ou readmissão dos doentes com necessidade de cuidados paliativos;\n\nb) Articular com as outras equipas locais a afetação ou a transferência de doentes, tendo em vista a prestação de cuidados paliativos eficazes, oportunos e eficientes àqueles que, independentemente da idade e patologia, deles necessitem;\n\nc) [Revogada];\n\nd) Definir e concretizar, em relação a cada doente, um plano individual de cuidados;\n\ne) Divulgar junto da população a informação sobre cuidados paliativos e acesso à RNCP;\n\nf) Articular-se com os outros prestadores de cuidados de saúde, na sua área de influência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824181": {
+   "fragment_id": "114820794",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção das equipas locais de cuidados paliativos",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 5.º — Direção das equipas locais de cuidados paliativos\n\nCada equipa local funciona sobre a direção técnica de um médico com formação e experiência reconhecida em cuidados paliativos, nomeadamente tendo em consideração qualificações existentes, ao qual compete, nomeadamente:\n\na) Garantir a elaboração do regulamento interno;\n\nb) Planear, coordenar e monitorizar as atividades desenvolvidas;\n\nc) Promover o trabalho interdisciplinar;\n\nd) Promover a formação inicial e contínua dos profissionais da equipa;\n\ne) Promover a melhoria da qualidade dos serviços através da avaliação de estruturas, processos e resultados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824182": {
+   "fragment_id": "114820797",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços assegurados pela UCP",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 7.º — Serviços assegurados pela UCP\n\nA UCP deve assegurar, designadamente:\n\na) Cuidados médicos e de enfermagem permanentes;\n\nb) Intervenção psicológica para doentes, familiares e profissionais;\n\nc) Intervenção e apoio social;\n\nd) Apoio e intervenção no luto;\n\ne) Intervenção espiritual;\n\nf) Exames complementares de diagnóstico;\n\ng) Prescrição e administração de fármacos que constem do Formulário Nacional de Medicamentos, no respeito pelas normas de orientação clínica da Direção-Geral da Saúde;\n\nh) Higiene, conforto e alimentação;\n\ni) Convívio e lazer;\n\nj) Formação em cuidados paliativos.\n\nl) Assessoria na área dos cuidados paliativos a profissionais de saúde, designadamente dos cuidados de saúde primários, hospitalares e continuados, da respetiva área de influência da instituição de saúde onde a UCP se encontra integrada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824183": {
+   "fragment_id": "114820799",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços assegurados pela EIHSCP",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 9.º — Serviços assegurados pela EIHSCP\n\nA EIHSCP assegura, designadamente:\n\na) Consulta e acompanhamento de doentes internados na instituição de saúde onde se encontra integrada;\n\nb) Intervenção psicológica para doentes, profissionais e familiares;\n\nc) Intervenção e apoio social;\n\nd) Apoio e intervenção no luto;\n\ne) Intervenção espiritual;\n\nf) Assessoria na área dos cuidados paliativos a profissionais de saúde designadamente dos cuidados de saúde primários, hospitalares e continuados integrados, da respetiva área de influência da instituição de saúde onde a EIHSCP se encontra integrada.\n\ng) Formação em cuidados paliativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824184": {
+   "fragment_id": "114820800",
+   "type": 11,
+   "heading": "Artigo 10.º — Caracterização da ECSCP",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 10.º — Caracterização da ECSCP\n\n1 - A ECSCP é uma equipa multidisciplinar, dotada de recursos específicos que pode estar integrada nos ACES ou nas estruturas das Unidades Locais de Saúde.\n\n2 - A ECSCP presta cuidados domiciliários de modo a garantir a permanência do doente em fim de vida no seu ambiente comunitário e familiar.\n\n3 - A ECSCP desenvolve a sua atividade de forma autónoma do ponto de vista técnico, em estreita articulação com as diferentes unidades e equipas de saúde e apoio social que prestam cuidados ao doente.\n\n4 - A ECSP depende do Conselho Clínico e de Saúde do ACES onde se encontra integrada.\n\n5 - Poderão, ainda, vir a ser previstas ECSCP integradas em unidades do setor social ou privado.\n\n6 - Nas situações em que os ACES não possuem capacidade para constituir uma ECSCP e até que a mesma se venha a constituir, as equipas de cuidados paliativos do hospital de referência do ACES podem prestar cuidados paliativos domiciliários em estreita articulação com os profissionais desse ACES, incluindo das ECCI.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824185": {
+   "fragment_id": "114820803",
+   "type": 11,
+   "heading": "Artigo 12.º — Referenciação de utentes na RNCP",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 12.º — Referenciação de utentes na RNCP\n\n1 - A admissão de utentes nas equipas locais a RNCP, nos termos do previsto no artigo 3.º, é efetuada por referenciação do profissional de saúde que assiste o doente e baseia-se em critérios de complexidade, gravidade e prioridade clínica, a definir pela CNCP.\n\n2 - Na referenciação do doente, deve ter-se em conta a proximidade da área do respetivo domicílio e, sempre que possível, a sua preferência na escolha da unidade ou equipa prestadora de cuidados, respeitados os limites dos recursos humanos, técnicos e financeiros disponíveis.\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824186": {
+   "fragment_id": "114820804",
+   "type": 11,
+   "heading": "Artigo 13.º — Referenciação de utentes da RNCP para a RNCCI",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 13.º — Referenciação de utentes da RNCP para a RNCCI\n\n1 - Sempre que clinicamente seja considerado adequado, as equipas de cuidados paliativos podem solicitar a integração do utente numa unidade da RNCCI, mediante prévia autorização da Equipa Coordenadora Regional (ECR) da RNCCI.\n\n2 - Para efeitos do disposto no número anterior, a equipa de cuidados paliativos apresenta proposta fundamentada à Equipa Coordenadora Local da RNCCI, para validação e envio à ECR, segundo as regras vigentes na RNCCI.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824187": {
+   "fragment_id": "114820807",
+   "type": 11,
+   "heading": "Artigo 15.º — Instalações",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 15.º — Instalações\n\n1 - As instalações de unidades de cuidados paliativos da RNCP obedecem à legislação em vigor, nomeadamente no que respeita a:\n\na) Localização;\n\nb) Terreno;\n\nc) Construção, incluindo arquitetura, fundações e estrutura;\n\nd) Instalações e equipamentos de águas e esgotos;\n\ne) Instalações e equipamentos elétricos e de gás, quando aplicável;\n\nf) Instalações e equipamentos mecânicos, incluindo as centrais e redes de gases medicinais;\n\ng) Instalações e equipamentos de segurança contra incêndios;\n\nh) Equipamento geral;\n\ni) Equipamento médico;\n\nj) Sistemas de gestão de resíduos, consoante a respetiva natureza.\n\n2 - Aplica-se com as necessárias adaptações às UCP, o disposto na Portaria n.º 290/2012, de 24 de setembro, no que se refere às especificações técnicas aplicáveis às unidades com internamento, constantes dos anexos III, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI e XVII, sendo obrigatório que, pelo menos, 20 % dos quartos correspondam a quartos individuais.\n\n3 - Sem prejuízo do disposto na presente portaria, o licenciamento de construção e autorização de utilização rege-se pela legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114804302": {
+   "fragment_id": "114820810",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto do Ministro da Saúde, Fernando Serra Leal da Costa, em 16 de setembro de 2015."
+  },
+  "114824188": {
+   "fragment_id": "114820811",
+   "type": 14,
+   "heading": "Anexo — RNCP - Rede Nacional de Cuidados Paliativos",
+   "in_force_from": "2016-06-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "## Anexo — RNCP - Rede Nacional de Cuidados Paliativos\n\nUnidades de Internamento de Cuidados Paliativos\n\n1 - Arquitetura\n\nSem prejuízo dos requisitos técnicos estabelecidos na legislação em vigor, as instalações das unidades previstas neste diploma devem ainda observar os seguintes:\n\n1.1 - Programa funcional tipo:\n\nEspecificações mínimas:\n\nNota prévia:\n\nAs instalações referidas de seguida são consideradas por módulos máximos de 20 camas e por piso de internamento.\n\nNa unidade de internamento de cuidados paliativos 40 %, pelo menos, dos quartos são individuais, sendo os restantes quartos duplos.\n\n(ver documento original)\n\nÁreas complementares:\n\nSalvo se os serviços forem contratados a terceiros, os requisitos técnicos das áreas complementares de esterilização, cozinha e lavandaria são os que se encontram previstos na legislação em vigor aplicável a estas áreas funcionais.\n\nAs respetivas áreas podem ser comuns a outras unidades ou valências.\n\n1.2 - Outros requisitos de arquitetura:\n\nTodos os corredores destinados à circulação de macas devem ter o mínimo de 2,00 m úteis de largura. Em casos excecionais de edifícios cuja estrutura não permita adaptação a este requisito, admite-se que os corredores destinados à circulação de macas possam ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,00 m de largura útil à entrada dos quartos para cruzamento de duas macas.\n\nNão são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com exceção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos, salas de observação/tratamento e banhos assistidos devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs instalações sanitárias devem ser privativas por cada quarto. Excetua-se a zona de duche, que pode ser partilhada por cada 2 quartos, salvaguardada a devida privacidade.\n\nNas instalações sanitárias, as portas devem abrir para fora sem criar conflitos de circulação ou ser de correr pelo exterior da parede, por questões de higienização. Todas as fechaduras devem ser comandadas pelo exterior por intermédio de chave mestra. Os puxadores das portas devem ser de manípulo e as fechaduras devem permitir a abertura pelo interior e pelo exterior.\n\nDevem ser previstos dispensadores de desinfetante nos quartos, para a desinfeção das mãos dos profissionais (sendo dispensável a existência de lavatórios; a lavagem de mãos poderá ser feita na IS).\n\nEm todos os gabinetes onde haja prestação de cuidados a doentes deve ser instalado lavatório com torneira de comando não manual.\n\nCaso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões mínimas de 2,40 x 1,40 x 2,30 m (comprimento x largura x altura), com porta automática de 1,30 m de abertura útil e altura livre de passagem de 2,10 m.\n\nEm caso de impossibilidade de instalação do previsto no ponto anterior, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,10 x 1,30 x 2,20 m (comprimento x largura x altura), com porta automática de 1,20 m de abertura útil e altura livre de passagem de 2,0 m.\n\n2 - Especialidades de Engenharia\n\nSem prejuízo dos requisitos técnicos estabelecidos na legislação em vigor, as instalações das unidades previstas neste diploma devem ainda observar os seguintes:\n\n2.1 - Instalações e equipamentos elétricos:\n\nDevem seguir-se as disposições regulamentares prescritas pela Portaria n.º 949-A/2006, de 11 de setembro, RTIEBT (Regras Técnicas de Instalações Elétricas de Baixa Tensão), nomeadamente em termos de segurança de pessoas e bens. Concretamente, devem ser implementadas as seguintes funcionalidades, sistemas, ou equipamentos:\n\n2.1.1 - Instalação de um grupo eletrogéneo para efeitos de assegurar a alimentação de socorro ou de substituição, cujo objetivo é o de providenciar alimentação elétrica destinada a manter em funcionamento a instalação ou partes desta, em caso de falta da alimentação normal. Os equipamentos essenciais à segurança das pessoas devem ser alimentados por uma fonte de segurança ou de emergência, que não deve ser usada para outros fins, caso seja única. Desta forma, poderão coexistir, na mesma instalação, dois grupos eletrogéneos: um destinado à alimentação de socorro e outro, caso seja essa a opção do projetista, destinado aos circuitos de segurança ou de emergência (1);\n\n2.1.2 - As camas devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermeira ou outro pessoal de serviço pelos doentes. Este sistema deve satisfazer as seguintes condições:\n\na) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermeira com sinal acústico e luminoso;\n\nb) Possibilitar a transferência de chamadas para o local onde se encontre a enfermeira e a realização de chamadas de emergência;\n\nc) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitório e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermeira;\n\nd) O sistema deve ser considerado uma instalação de segurança.\n\n2.1.3 - Todos os compartimentos devem dispor do número de tomadas de energia necessário à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza;\n\n2.1.4 - Todos os compartimentos onde potencialmente possa ser utilizado equipamento telefónico ou informático devem dispor de uma tomada dupla por cada 10/12 m2 de superfície, com um mínimo de uma tomada dupla por cada posto de trabalho ou equipamento dedicado;\n\n2.1.5 - Todos os ascensores, quando existentes, devem dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um ascensor com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro;\n\n2.1.6 - Recomenda-se a alimentação de todos os circuitos de iluminação pelo setor de socorro, na sua totalidade ou parcialmente, segundo critérios devidamente fundamentados no projeto da especialidade de Eletrotecnia. Recomenda-se, também, a adoção, na iluminação interior, das orientações constantes da Norma ISO 8995 CIE S 008/E de 15/05/2003, contendo as especificações da «Commission Internationale de l'Éclairage» sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual;\n\n2.1.7 - Além das instalações de iluminação de segurança e de vigília prescritas nas regras supramencionadas, nos locais onde o paciente permaneça acamado deve prever-se iluminação geral e iluminação de leitura ou de observação, à cabeceira da cama do paciente, assim como no espaço do acompanhante.\n\n2.2 - Instalações e equipamentos mecânicos:\n\n2.2.1 - Climatização\n\nDe acordo com a legislação em vigor:\n\nCondições interiores de referência:\n\na) Condições interiores de conforto:\n\nInverno: 20ºC;\n\nVerão: 25ºC; 50 % HR;\n\nb) Taxa de renovação de ar: 0,6 ren/h;\n\nDe acordo com a legislação em vigor:\n\nCaudais mínimos de ar novo de acordo com a legislação em vigor.\n\nObservações:\n\nNas salas de apoio com eventual produção de ambientes poluídos, devem ser aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar:\n\nSala de sujos e despejos: 10 ren/h;\n\nInstalações sanitárias: 10 ren/h.\n\nNotas:\n\nTodas as UTA (unidade de tratamento de ar) e UTAN (unidade de tratamento de ar novo) devem ser dotadas de módulo de pré-filtragem EU5 e de módulo de filtragem EU7.\n\nÉ obrigatório prever sistemas de extração generalizados. O sistema de «sujos» deve ser independente do de «limpos».\n\nAs unidades terminais podem ser ventiloconvectores ou unidades de indução.\n\n2.2.2 - Instalações de gases medicinais:\n\nÉ obrigatória, em todas as unidades, a existência de oxigénio, aspiração/vácuo, nomeadamente nos quartos, bem como nas salas de tratamento e, de preferência, também nas salas de convívio e nas salas de refeições.\n\nRequisitos:\n\nA central de vácuo deve ser fisicamente separada das restantes, com a extração do sistema situada a uma cota de, pelo menos, 3 m acima das admissões de ar próximas;\n\nSe o ar comprimido respirável for produzido por compressores, a central deve ser fisicamente separada das restantes;\n\nTodas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva, de comutação automática;\n\nAs tomadas devem ser de duplo fecho, não intermutáveis de fluido para fluido;\n\nA utilização do tubo de poliamida apenas pode ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhado dos respetivos certificados CE medicinais.\n\n2.2.3 - Instalações frigoríficas\n\nDeve existir frigorífico de modelo laboratorial próprio para a conservação de medicamentos, certificado para o efeito, equipado com registador de temperatura e alarme.\n\n(1) Em substituição do segundo grupo eletrogéneo com motor de combustão interna, poder-se-á recorrer a outro tipo de alimentação alternativa, tal como uma UPS - Unidade de Alimentação Ininterrupta, não havendo critério de obrigatoriedade neste aspeto, deixando-se margem para que, desde que tecnicamente bem fundamentada, seja utilizada uma ou outra solução.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824192": {
+   "fragment_id": "114820786",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2017-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente portaria regula, no âmbito da Rede Nacional de Cuidados Paliativos, adiante designada por RNCP:\n\na) A caracterização dos serviços e a admissão nas equipas locais;\n\nb) A admissão nas unidades de cuidados paliativos, em funcionamento, criadas ao abrigo do Decreto-Lei n.º 101/2006, de 6 de junho, contratualizadas com entidades do setor social ou privado, adiante designadas por UCP-RNCCI, bem como os procedimentos de prorrogação, mobilidade e alta dos utentes destas unidades.\n\nc) As condições e requisitos de construção e segurança das instalações de cuidados paliativos.\n\n2 - A presente portaria aplica-se às entidades integradas na RNCP.\n\n3 - Excecionam-se do disposto no número anterior as unidades referidas na alínea b) do n.º 1 às quais não são aplicáveis as disposições constantes dos artigos 3.º, 4.º, 5.º e 15.º\n\n4 - Sem prejuízo do disposto no número anterior, as UCP-RNCCI devem, preferencialmente, integrar profissionais com formação específica em cuidados paliativos e funcionar sob a direção técnica de um médico com formação e experiência reconhecida em cuidados paliativos.\n\n5 - A RNCP é coordenada, a nível regional, pelas respetivas Administrações Regionais de Saúde, através de um profissional de saúde de reconhecida competência em cuidados paliativos, assessorado por um Grupo Técnico de Apoio, o qual deve articular-se com os Agrupamentos de Centros de Saúde (ACES), as instituições hospitalares e as estruturas da Rede Nacional de Cuidados Continuados Integrados (RNCCI), nomeadamente as Equipas Coordenadoras Regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824190": {
+   "fragment_id": "114820789",
+   "type": 11,
+   "heading": "Artigo 2.º — Equipas locais de cuidados paliativos",
+   "in_force_from": "2017-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 2.º — Equipas locais de cuidados paliativos\n\n1 - As equipas de prestação de cuidados paliativos, a nível local, são:\n\na) As unidades de internamento de cuidados paliativos (UCP);\n\nb) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP);\n\nc) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).\n\n2 - As equipas locais referidas no número anterior encontram-se integradas na RNCP e articulam-se entre si e com outros serviços e equipas do Serviço Nacional de Saúde de forma a assegurar o acompanhamento das situações paliativas mais complexas e a continuidade de cuidados de que o doente necessita.\n\n3 - As UCP-RNCCI integram-se na RNCP e asseguram a prestação de cuidados paliativos relativamente a situações paliativas de complexidade baixa a moderada, por um período previsível de internamento de 30 dias.\n\n4 - As equipas locais de âmbito hospitalar podem organizar-se em termos de resposta assistencial, de forma integrada, agregando as valências de cuidados paliativos, nomeadamente a equipa de apoio intra-hospitalar, unidade de internamento, quando existente, hospital de dia, consulta externa e consulta domiciliária.\n\n5 - As Unidades de Convalescença, as Unidades de Média Duração e Reabilitação, as Unidades de Longa Duração e Manutenção e as Equipas de Cuidados Continuados Integrados (ECCI) da RNCCI, devem articular-se com as equipas locais de cuidados paliativos para assegurar a prestação de ações paliativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824193": {
+   "fragment_id": "114820802",
+   "type": 8,
+   "heading": "Secção V — Referenciação, admissão e prorrogação, mobilidade e alta dos utentes",
+   "in_force_from": "2017-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23"
+   ],
+   "markdown": "#### Secção V — Referenciação, admissão e prorrogação, mobilidade e alta dos utentes\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23"
+  },
+  "114824191": {
+   "fragment_id": "114820803",
+   "type": 11,
+   "heading": "Artigo 12.º — Referenciação de utentes na RNCP",
+   "in_force_from": "2017-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 12.º — Referenciação de utentes na RNCP\n\n1 - A admissão de utentes nas equipas locais a RNCP, nos termos do previsto no artigo 3.º, é efetuada por referenciação do profissional de saúde que assiste o doente e baseia-se em critérios de complexidade, gravidade e prioridade clínica, a definir pela CNCP.\n\n2 - A admissão de utentes nas UCP-RNCCI é efetuada através do sistema de informação da RNCCI e de acordo com os procedimentos vigentes nesta Rede, sendo os utentes admitidos pelas Equipas Coordenadoras Regionais (ECR).\n\n3 - A referenciação referida no número anterior tem por base os critérios de referenciação a definir pela CNCP.\n\n4 - Na referenciação do doente, deve ter-se em conta a proximidade da área do respetivo domicílio e, sempre que possível, a sua preferência na escolha da unidade ou equipa prestadora de cuidados, respeitados os limites dos recursos humanos, técnicos e financeiros disponíveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824189": {
+   "fragment_id": "114824089",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Prorrogação, mobilidade e alta dos utentes das UCP-RNCCI",
+   "in_force_from": "2017-04-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23"
+   ],
+   "markdown": "###### Artigo 13.º-A — Prorrogação, mobilidade e alta dos utentes das UCP-RNCCI\n\n1 - Sempre que esgotado o prazo previsível de internamento previsto no n.º 3 do artigo 2.º, e se não atingidos os objetivos terapêuticos, pode haver lugar a pedido de prorrogação do internamento do utente por novo período de 30 dias, desde que justificado do ponto de vista clínico.\n\n2 - Os pedidos de prorrogação, mobilidade e alta dos utentes internados nas UCP-RNCCI devem observar os procedimentos vigentes no âmbito da RNCCI\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23"
+  },
+  "114824194": {
+   "fragment_id": "114820786",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2018-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente portaria regula, no âmbito da Rede Nacional de Cuidados Paliativos, adiante designada por RNCP:\n\na) A caracterização dos serviços e a admissão nas equipas locais;\n\nb) A admissão nas unidades de cuidados paliativos, em funcionamento, criadas ao abrigo do Decreto-Lei n.º 101/2006, de 6 de junho, contratualizadas com entidades do setor social ou privado, adiante designadas por UCP-RNCCI, bem como os procedimentos de prorrogação, mobilidade e alta dos utentes destas unidades.\n\nc) As condições e requisitos de construção e segurança das instalações de cuidados paliativos.\n\n2 - A presente portaria aplica-se às entidades integradas na RNCP.\n\n3 - Excecionam-se do disposto no número anterior as unidades referidas na alínea b) do n.º 1 às quais não são aplicáveis as disposições constantes dos artigos 3.º, 4.º, 5.º e 15.º\n\n4 - Sem prejuízo do disposto no número anterior, as UCP-RNCCI devem, preferencialmente, integrar profissionais com formação específica em cuidados paliativos e funcionar sob a direção técnica de um médico com formação e experiência reconhecida em cuidados paliativos.\n\n5 - A RNCP é coordenada, a nível regional, pelas respetivas Administrações Regionais de Saúde, I. P., através de um profissional de saúde de reconhecida competência em cuidados paliativos, assessorado por um Grupo Técnico de Apoio, o qual deve incluir profissionais da área da pediatria, nomeadamente um pediatra com formação em cuidados paliativos, e articular-se com os Agrupamentos dos Centros de Saúde (ACES), as instituições hospitalares e as estruturas da Rede Nacional de Cuidados Continuados Integrados (RNCCI), nomeadamente as Equipas Coordenadoras Regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824195": {
+   "fragment_id": "114820789",
+   "type": 11,
+   "heading": "Artigo 2.º — Equipas locais de cuidados paliativos",
+   "in_force_from": "2018-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 2.º — Equipas locais de cuidados paliativos\n\n1 - As equipas de prestação de cuidados paliativos, a nível local, são:\n\na) As unidades de internamento de cuidados paliativos (UCP);\n\nb) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP), incluindo as equipas intra-hospitalares de suporte em cuidados paliativos pediátricas (EIHSCP-Pediátricas);\n\nc) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).\n\n2 - As equipas locais referidas no número anterior encontram-se integradas na RNCP e articulam-se entre si e com outros serviços e equipas do Serviço Nacional de Saúde de forma a assegurar o acompanhamento das situações paliativas mais complexas e a continuidade de cuidados de que o doente necessita.\n\n3 - As UCP-RNCCI integram-se na RNCP e asseguram a prestação de cuidados paliativos relativamente a situações paliativas de complexidade baixa a moderada, por um período previsível de internamento de 30 dias.\n\n4 - As equipas locais de âmbito hospitalar podem organizar-se em termos de resposta assistencial, de forma integrada, agregando as valências de cuidados paliativos, nomeadamente a equipa de apoio intra-hospitalar, unidade de internamento, quando existente, hospital de dia, consulta externa e consulta domiciliária.\n\n5 - Todas as equipas e unidades da RNCCI devem articular-se com as equipas locais de cuidados paliativos para assegurar a prestação de uma abordagem paliativa de qualidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/75-2017-106509197), em vigor a partir de 2017-04-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824196": {
+   "fragment_id": "114820798",
+   "type": 11,
+   "heading": "Artigo 8.º — Caracterização da EIHSCP",
+   "in_force_from": "2018-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07"
+   ],
+   "markdown": "###### Artigo 8.º — Caracterização da EIHSCP\n\n1 - A EIHSCP é uma equipa multidisciplinar, dotada de recursos específicos.\n\n2 - A EIHSCP presta:\n\na) Aconselhamento e apoio diferenciado em cuidados paliativos especializados a outros profissionais e aos serviços do hospital, assim como aos doentes e suas famílias;\n\nb) Assistência na execução do plano individual de cuidados aos doentes internados em situação de sofrimento decorrente de doença grave ou incurável, em fase avançada e progressiva ou com prognóstico de vida limitado, para os quais seja solicitada a sua atuação.\n\n3 - A EIHSCP articula-se e complementa-se com outras unidades e equipas da instituição de saúde onde se encontra integrada.\n\n4 - As instituições hospitalares integradas no Serviço Nacional de Saúde, com Serviço ou Departamento de Pediatria, devem constituir uma EIHSCP-Pediátrica, dimensionada às características e necessidades locais, que pode prestar cuidados diretos e orientação na execução do plano individual de cuidados às crianças e jovens em situação de doença crónica complexa e suas famílias, para as quais seja solicitada a sua intervenção.\n\n5 - O disposto nos n.os 1, 2 e 3 aplica-se igualmente às EIHSCP-Pediátricas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07"
+  },
+  "114824197": {
+   "fragment_id": "114820799",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços assegurados pela EIHSCP",
+   "in_force_from": "2018-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+   ],
+   "markdown": "###### Artigo 9.º — Serviços assegurados pela EIHSCP\n\nA EIHSCP, incluindo a EIHSCP-Pediátrica, assegura, designadamente:\n\na) Consulta e acompanhamento de doentes internados na instituição de saúde onde se encontra integrada tendo em atenção as necessidades e preferências do doente e família;\n\nb) A comunicação dos profissionais com a família;\n\nc) Intervenção psicológica para doentes, profissionais e familiares;\n\nd) Intervenção e apoio social;\n\ne) Apoio e intervenção no luto;\n\nf) Intervenção espiritual;\n\ng) Assessoria na área dos cuidados paliativos a profissionais de saúde designadamente dos cuidados de saúde primários, hospitalares e continuados integrados, da respetiva área de influência da instituição de saúde onde a EIHSCP se encontra integrada.\n\nh) Formação em cuidados paliativos.\n\ni) Quando solicitada, a EIHSCP-Pediátrica, deve articular com as diversas equipas assistenciais primárias da criança/jovem com doença crónica complexa identificados na instituição, promovendo a coordenação e a continuidade de cuidados, bem como a transição para serviços de adultos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2016 - Diário da República n.º 112/2016, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-2016-74671910), em vigor a partir de 2016-06-15"
+  },
+  "114824198": {
+   "fragment_id": "114820801",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços assegurados pela ECSCP",
+   "in_force_from": "2018-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07"
+   ],
+   "markdown": "###### Artigo 11.º — Serviços assegurados pela ECSCP\n\n1 - A ECSCP assegura, designadamente:\n\na) Cuidados médicos e de enfermagem permanentes;\n\nb) Intervenção psicológica;\n\nc) Intervenção e apoio social;\n\nd) Apoio e intervenção no luto;\n\ne) Intervenção espiritual;\n\nf) Apoio e aconselhamento diferenciado, em cuidados paliativos, às unidades de cuidados de saúde primários, às unidades e equipas da rede nacional de cuidados continuados integrados e a outras instituições onde o doente resida;\n\ng) Tratamentos e intervenções paliativas a doentes complexos, de acordo com o nível de diferenciação da equipa;\n\nh) Prevenção da, e intervenção na, exaustão emocional dos profissionais de saúde;\n\ni) Gestão e controlo dos procedimentos de articulação entre os recursos e os níveis de saúde e sociais;\n\nj) Formação em cuidados paliativos.\n\n2 - Para o acompanhamento de doentes em idade pediátrica, a ECSCP deve articular-se com a EIHSCP-Pediátrica que referenciou o doente ou a da instituição hospitalar de referência da sua área de intervenção.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 66/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2018-114822275), em vigor a partir de 2018-03-07"
+  }
+ }
+}

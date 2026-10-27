@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:392432:por
+title: Portaria n.º 513/82
+short_title: null
+summary: Aumenta o quadro de pessoal do Gabinete da Área de Sines, passando a incluir as categorias e lugares de pessoal técnico
+  de informática
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 513/82
+official_date: null
+publication_date: '1982-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1982, Série I de 1982-05-24
+  number: '117'
+  series: I
+  supplement: null
+  pages: 1377 - 1378
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11700/13771378.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392432'
+  dre_path: /dr/detalhe/portaria/513-1982-392432
+  internal: pt:dre:392432:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1982-392432
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1982-392432
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8da06bf5682bac5a41186ae38218b2eb124f0792411f9c218ebb60fac66dbe6b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Criação de Lugares
+- Extinção de Lugares
+- Gabinete da Área de Sines
+- Pessoal de Informática
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:147406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:18:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 513/82
+
+de 24 de Maio
+
+Nos termos do disposto no artigo 30.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, o seguinte:
+
+1.º O quadro de pessoal do Gabinete da Área de Sines é aumentado de acordo com o anexo I a esta portaria, passando a incluir as categorias e lugares de pessoal técnico de informática ali expressamente definidos.
+
+2.º O quadro de pessoal do Gabinete da Área de Sines é diminuído dos lugares constantes do anexo II a esta portaria.
+
+3.º Os técnicos superiores de informática do Gabinete da Área de Sines desenvolverão a sua actividade nas áreas de análise funcional, de análise orgânica e programação, de administração de bases de dados e de assessoria, integrando, nomeadamente, as seguintes tarefas:
+
+a) Realizar ou participar em trabalhos de análise funcional e redigir o caderno de aplicação;
+
+b) Definir os circuitos adequados para obtenção, tratamento, difusão e armazenamento das informações e elaborar os manuais correspondentes;
+
+c) Projectar os formatos de introdução dos dados e os mapas para obtenção dos resultados;
+
+d) Participar em estudos de organização nas áreas de estrutura e funcionamento e contribuir para a definição de metodologias a adoptar pelo GAS e para o estabelecimento de normas e procedimentos;
+
+e) Estudar as leis e regulamentos que interfiram no tratamento da informação, adiantando as sugestões pertinentes para cada caso;
+
+f) Preparar os manuais de apoio do utilizador na implementação e exploração dos sistemas;
+
+g) Criar os jogos de ensaio necessários para comprovação dos programas e rotinas e elaborar os testes correspondentes;
+
+h) Acompanhar a evolução do material e dos suportes lógicos;
+
+i) Estudar e criticar os sistemas de informação e exercer funções genéricas de auditoria e consultadoria informática;
+
+j) Participar com os utilizadores no estabelecimento de programas de trabalho ou planos directores para a informatização dos serviços;
+
+k) Efectuar entrevistas com os utilizadores e elaborar relatórios e manuais sobre os assuntos estudados;
+
+l) Verificar a existência dos ficheiros necessários e definir a sua organização em conformidade com o caderno de análise;
+
+m) Assegurar a optimização da utilização do equipamento tendo em atenção as fases de tratamento definidas e os recursos de software disponíveis;
+
+n) Identificar os programas utilitários e as macroinstruções necessárias à elaboração dos programas;
+
+o) Codificar as unidades de tratamento, utilizando quer a linguagem escolhida quer as metodologias de análise detalhada e respectivos utilitários que conduzam à geração de programas;
+
+p) Estudar e aplicar diversos tipos de linguagem de transcrição automática, desenvolvidos para aplicações e problemas de áreas definidas;
+
+q) Controlar a introdução de alterações aos programas no que respeita ao impacte sobre a cadeia em que cada programa se insere e ao ensaio dos respectivos efeitos;
+
+r) Definir a estrutura e estratégia de carregamento e exploração das bases de dados;
+
+s) Desenvolver e pôr em aplicação normas para a utilização, controle, actualização e manutenção das bases de dados;
+
+t) Desenvolver processos de segurança e controle, incluindo processos de recuperação que garantam a integridade das bases de dados;
+
+u) Aconselhar e orientar os restantes técnicos de informática e os próprios utilizadores em áreas específicas relativas a aplicações administrativas ou científicas, particularmente em matérias que, pela sua complexidade, exijam alto nível de qualificação;
+
+v) Promover a divulgação de conhecimentos sobre temas ligados à sua actividade através de cursos, seminários, palestras ou documentação;
+
+x) Colaborar nas acções de formação técnico-profissional, nomeadamente na regência de cursos e na elaboração de documentação de interesse didáctico;
+
+z) Assumir trabalhos de investigação e desenvolvimento no domínio da informática.
+
+4.º O pessoal que à data da entrada em vigor do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, se encontrar a prestar serviço a qualquer título na Divisão de Informática e Matemáticas Aplicadas do GAS será integrado nos lugares constantes do quadro anexo I à presente portaria, de acordo com as funções desempenhadas, ao abrigo do n.º 5 do artigo 30.º do mesmo decreto-lei e respeitando-se as seguintes regras:
+
+a) Para lugar de categoria a que corresponda letra de vencimento idêntica à que o funcionário ou agente já possui ou, no caso de inexistência, para lugar de categoria a que corresponda letra de vencimento imediatamente superior;
+
+b) Para lugar de categoria de ingresso da carreira que integre as funções que o funcionário ou agente vem efectivamente desempenhando, se a letra de vencimento da categoria em que se encontra provido for inferior à daquela.
+
+5.º A aplicação do disposto nas alíneas do número anterior fica condicionada à observância das seguintes regras:
+
+a) O serviço certifique a posse da formação necessária ao exercício das respectivas funções, seja adquirida no mesmo, seja no exterior, tendo em atenção as especificações constantes do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, para as carreiras em causa;
+
+b) O serviço certifique, em todos os casos, o exercício efectivo das funções que integram a categoria em que se verifique o provimento.
+
+6.º Para efeitos de progressão na nova carreira é contado todo o tempo de serviço prestado na categoria e carreira anterior correspondente ao exercício efectivo das funções que determinaram a transição para os lugares do quadro anexo I, como se o fosse na categoria e carreira onde o funcionário ou agente é provido.
+
+7.º Para efeitos do disposto no número anterior, o serviço atestará o tempo referido, que deverá constar em declaração anexa ao processo de provimento dos funcionários e agentes referidos no n.º 4.º, nos lugares constantes do quadro anexo I.
+
+8.º O primeiro provimento nos lugares criados pelo presente diploma far-se-á mediante diploma individual de provimento, não dependendo de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+
+9.º O abatimento de lugares a que se refere o n.º 2.º do presente diploma efectivar-se-á à medida que os mesmos forem vagando, por exoneração dos actuais titulares.
+
+10.º As alterações resultantes da presente portaria produzirão efeitos desde 1 de Julho de 1979.
+
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 4 de Maio de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+## ANEXO I — Quadro de pessoal a que se refere o n.º 1.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11700/13771378.pdf)
+
+## ANEXO II — Quadro de pessoal a que se refere o n.º 2.º
+
+Lugares a abater ao quadro de pessoal do Gabinete da Área de Sines anexo ao [Decreto-Lei n.º 513-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-d1-1979-147406), de 27 de Dezembro.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11700/13771378.pdf)

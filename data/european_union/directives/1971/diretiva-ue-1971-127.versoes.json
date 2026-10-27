@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971L0127:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971L0127-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01971L0127-20070101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e6a3a1abfc1491d"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e6a3a1abfc1491d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971L0127 — PT — 01.01.2007 — 011.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/371L0127) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/371L0127) [de 1 de Março de 1971](http://publications.europa.eu/resource/celex/371L0127) [relativa à aproximação das legislações dos Estados-membros respeitantes aos espelhos retrovisores dos veículos a motor](http://publications.europa.eu/resource/celex/371L0127) [(71/127/CEE)](http://publications.europa.eu/resource/celex/371L0127) (JO L 068, 22.3.1971, p.1)\n\n**revogado por:**"
+  }
+ }
+}

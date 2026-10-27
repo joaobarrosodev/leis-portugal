@@ -1,0 +1,527 @@
+---
+schema_version: '1.0'
+id: pt:dre:656824:por
+title: Decreto Legislativo Regional n.º 2/93/M
+short_title: null
+summary: Altera o Decreto Legislativo Regional n.º 24/89/M, de 7 de Setembro (estabelece a estrutura orgânica da Assembleia
+  Legislativa Regional da Madeira)
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 2/93/M
+official_date: null
+publication_date: '1993-02-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 43/1993, Série I-A de 1993-02-20
+  number: '43'
+  series: I
+  supplement: null
+  pages: 725 - 734
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/02/043a00/07250734.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/2/1993/02/20/m/dre/pt/html
+  oj: null
+  dre: '656824'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/2-1993-656824
+  internal: pt:dre:656824:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824
+  metadata_url: https://data.dre.pt/eli/declegreg/2/1993/02/20/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5db25bada1b196704edeb7018aa251fff273aee1c1deaa802ee845679493e9a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Regional
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:66325239:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:decreto-legislativo-regional:11/94/M
+  label: ALTERADA A REDACÇÃO CONFERIDA AO DECRETO LEGISLATIVO REGIONAL 24/89/M, DE 7 DE SETEMBRO, PELO DECRETO LEGISLATIVO
+    REGIONAL 11/94/M, DE 26 DE ABRIL, PUBLICADO NO DR.IS-A, 98, SUPL., DE 940408. , DE 940408.
+  source: null
+  date: '1994-04-08'
+- type: amended_by
+  target: pt:dre:241999:por
+  label: "Alterados os arts. 9º, 12º, 12º-B, 14º, 16º, 23º, 24º, 25º, 26º, 27º, 28º, 29º, 30º, 31º, 32º, 33º, 34º, 35º, 36º,\
+    \ 37º, 40º, 41º, 42º, 47º, 49º, 50º, 51ºe 53º do DLR 24/89/M de 07-Set, na redacção dada pelo presente diploma, pelo DLR.10-A/2000/M.2000.04.26.ALR-RAM.DR.IS-A\
+    \ [98]2º Supl de 27/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-a-2000-241999
+  date: '2000-04-26'
+- type: amended_by
+  target: pt:dre:241858:por
+  label: "Alterados os artigos 36.º, 46.º e 47.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de Setembro, na redacção\
+    \ do presente diploma, e determinado que onde se lê «Assembleia Legislativa Regional» passe a vigorar «Assembleia Legislativa»\
+    \ e republicado o novo texto, pelo DLR.14/2005/M.18.07.2005.AL-RAM, DR.IS-A [150] de 05.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2005-241858
+  date: '2005-07-18'
+- type: amended_by
+  target: pt:dre:537448:por
+  label: "Tornado extensivo aos deputados independentes que não integrem nenhum grupo parlamentar o disposto na al. a) do\
+    \ nº 1 do art. 46º do DLR 824/89/M, de 07-Set, na redacção do presente diploma pela RES.12/2006/M.06.06.2006.AL-RAM, DR.IS\
+    \ [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/12-2006-537448
+  date: '2006-06-06'
+- type: amended_by
+  target: pt:dre:175275:por
+  label: "Alterados os arts. 14º, 20º, 35º, 36º, 40º e 43º do DLR 24/98/M. de 07-set, na redação do presente diploma, pelo\
+    \ DLR.16/2012/M.13.08.2012.AL-RAM, DR.IS [156] de 13.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2012-175275
+  date: '2012-08-13'
+- type: amended_by
+  target: pt:dre:66325239:por
+  label: Alterados os arts. 46.º e 47.º do DLR 24/89/M de 07-set, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 2/2015/M - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2015-66325239
+  date: '2015-01-26'
+- type: cites
+  target: pt:dre:183014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249485:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/1/1992/01/16/m/dre
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+article_structure:
+  article_count: 51
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:38:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 2/93/M
+
+Altera o [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro
+
+A necessidade da promoção de uma maior eficiência e melhor produtividade dos serviços, conjugada com a nova composição da Assembleia Legislativa Regional da Madeira, exige que se proceda à alteração do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro.
+
+De facto, com a presente lei objectiva-se dignificar o órgão máximo da autonomia regional, criando-se melhores condições de trabalho quer ao próprio Parlamento, quer aos deputados e funcionários.
+
+Assim, de relevar a previsão de meios materiais e humanos que conferem aos partidos com um único deputado a possibilidade real de responderem às responsabilidades que o eleitorado lhes cometeu, sem prejuízo do princípio da representação proporcional, base do sistema político-administrativo das Regiões Autónomas.
+
+A desadequação do funcionamento do Conselho de Administração e do quadro de pessoal da Assembleia face às regras vigentes justificam também a presente medida legislativa.
+
+Nestes termos:
+
+A Assembleia Legislativa Regional decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+O artigo 3.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 3.º — Instalações
+
+A Assembleia Legislativa Regional pode requisitar ao departamento competente da Administração Pública, tomar de arrendamento ou adquirir as instalações e estacionamentos que se revelem indispensáveis ao seu funcionamento.
+
+###### Artigo 2.º
+
+O n.º 3 do artigo 4.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 4.º — Segurança
+
+1 - ...
+
+2 - ...
+
+3 - As condições de permanência e de actuação da Polícia de Segurança Pública são definidas pelo Presidente da Assembleia Legislativa Regional, sob proposta do Conselho de Administração, ouvidos o Conselho Consultivo e o Comando Regional da Polícia de Segurança Pública.
+
+###### Artigo 3.º
+
+A secção I do capítulo IV passa a ter o seguinte título:
+
+#### SECÇÃO I — Órgãos da Assembleia Legislativa Regional
+
+###### Artigo 4.º
+
+O artigo 6.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 6.º — Órgãos
+
+São órgãos da Assembleia Legislativa Regional:
+
+a) O Presidente da Assembleia Legislativa Regional;
+
+b) O Conselho Consultivo;
+
+c) O Conselho de Administração.
+
+###### Artigo 5.º
+
+O n.º 2 do artigo 9.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 9.º — Gabinete do Presidente
+
+1 - ...
+
+2 - O Gabinete do Presidente da Assembleia Legislativa Regional é constituído por um chefe de gabinete, que coordena, por um assessor, um adjunto, dois secretários e um motorista, sendo os seus membros portadores de um cartão de identidade, conforme anexo II do presente diploma.
+
+3 - ...
+
+###### Artigo 6.º
+
+A secção III do capítulo IV passa a ter o seguinte título:
+
+#### SECÇÃO III — Conselho Consultivo
+
+###### Artigo 7.º
+
+É aditado um novo artigo, que será o 12.º-A, com o texto e epígrafe seguintes:
+
+###### Artigo 12.º-A — Definição e composição
+
+O Conselho Consultivo é um órgão de consulta, constituído pelos Vice-Presidentes da Mesa da Assembleia Legislativa Regional, pelo secretário-geral, por um deputado designado por cada grupo parlamentar da assembleia e por um representante dos funcionários parlamentares.
+
+###### Artigo 8.º
+
+É aditado um novo artigo, que será o 12.º-B, com o texto e epígrafe seguintes:
+
+###### Artigo 12.º-B — Atribuições
+
+São atribuições do Conselho Consultivo pronunciar-se sobre:
+
+a) Política geral de administração e os meios necessários à sua execução;
+
+b) Propostas de orçamento da Assembleia;
+
+c) Relatório e conta da Assembleia;
+
+d) Abertura de concursos de pessoal, mediante proposta do secretário-geral;
+
+e) Actos de administração relativos ao património da Assembleia, incluindo a aquisição, alienação, troca, cedência, aluguer e arrendamento de quaisquer bens ou direitos a ele inerentes, bem como sobre a execução de obras, realização de estudos e aquisição de bens e serviços;
+
+f) Demais matérias relativamente às quais o Presidente da Assembleia entenda ouvi-lo.
+
+###### Artigo 9.º
+
+É aditado um novo artigo, que será o 12.º-C, com o texto e epígrafe seguintes:
+
+###### Artigo 12.º-C — Funcionamento
+
+1 - O Conselho Consultivo é presidido por um dos Vice-Presidentes, a designar pelo Presidente da Assembleia Legislativa Regional, o qual goza de voto de qualidade em caso de empate.
+
+2 - Nas suas faltas ou impedimentos o presidente do Conselho Consultivo será substituído pelo outro dos vice-presidentes.
+
+3 - Os Vice-Presidentes da Assembleia Legislativa Regional serão substituídos nas suas faltas ou impedimentos pelos secretários da Mesa da Assembleia por si designados.
+
+4 - O secretário-geral será substituído, nas suas faltas ou impedimentos, por quem o Presidente da Assembleia Legislativa Regional designar, nos termos previstos para a sua substituição no Conselho de Administração.
+
+5 - Os deputados designados para o Conselho Consultivo serão substituídos, nas suas faltas ou impedimentos, pelos deputados designados pelos respectivos grupos parlamentares.
+
+6 - O representante dos funcionários parlamentares e o seu substituto são eleitos em plenário do pessoal do quadro, expressamente convocado para o efeito, por voto directo e secreto, pelo período da legislatura.
+
+7 - O Conselho Consultivo reúne por iniciativa do respectivo presidente.
+
+###### Artigo 10.º
+
+É aditado um novo artigo, que será o 12.º-D, com o texto e epígrafe seguintes:
+
+###### Artigo 12.º-D — Cessação de funções
+
+No termo da legislatura ou em caso de dissolução da Assembleia Legislativa Regional, os membros do Conselho Consultivo mantêm-se em funções até à primeira reunião da Assembleia da nova legislatura.
+
+###### Artigo 11.º
+
+É aditada uma nova secção ao capítulo IV, que será a IV, com o seguinte título:
+
+#### SECÇÃO IV — Conselho de Administração
+
+###### Artigo 12.º
+
+O artigo 13.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 13.º — Definição e composição
+
+O Conselho de Administração é um órgão de gestão, constituído pelo secretário-geral da Assembleia Legislativa Regional e por dois membros de adequada idoneidade e qualificação, a nomear pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.
+
+###### Artigo 13.º
+
+O artigo 14.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 14.º — Atribuições
+
+São atribuições do Conselho de Administração:
+
+a) Exercer a gestão financeira da Assembleia, sem prejuízo do disposto no artigo 53.º do presente diploma;
+
+b) Elaborar as propostas de orçamento da Assembleia;
+
+c) Elaborar o relatório e a conta da Assembleia;
+
+d) Pronunciar-se sobre as propostas relativas ao provimento de pessoal.
+
+###### Artigo 14.º
+
+O artigo 15.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 15.º — Funcionamento
+
+1 - O Conselho de Administração é presidido pelo secretário-geral da Assembleia, o qual goza de voto de qualidade em caso de empate.
+
+2 - O presidente do Conselho de Administração é substituído nas suas faltas ou impedimentos pelo membro do Conselho de Administração que o Presidente da Assembleia Legislativa Regional designar.
+
+3 - O Conselho de Administração reúne ordinariamente pelo menos uma vez por mês e extraordinariamente quando convocado pelo seu presidente, por sua iniciativa ou a solicitação de dois dos seus membros, com a antecedência mínima de vinte e quatro horas, devendo, neste caso, fazer-se a indicação da ordem do dia.
+
+4 - As deliberações do Conselho de Administração são válidas desde que se verifique a presença de dois dos seus membros, sendo um deles obrigatoriamente o secretário-geral ou o seu substituto, devendo ser lavradas em acta.
+
+5 - Os membros do Conselho de Administração que sejam especificamente nomeados para tal função e que sejam estranhos à Assembleia Legislativa Regional terão a remuneração correspondente a 50% do vencimento ilíquido do secretário-geral.
+
+6 - Os membros do Conselho de Administração que desempenhem tal função por inerência a cargo exercido na Assembleia ou recrutados entre pessoas que, a qualquer título, exerçam e continuem a exercer outro cargo na Assembleia Legislativa Regional, bem como os que estejam na situação do n.º 5 deste artigo, terão direito a uma remuneração por dia de reunião a que compareçam correspondente a 1/15 do vencimento ilíquido mensal do secretário-geral da Assembleia Legislativa Regional.
+
+###### Artigo 15.º
+
+Os n.os 1, 2 e 6 do artigo 20.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passam a ter a seguinte redacção:
+
+###### Artigo 20.º — Estatuto
+
+1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa Regional, em comissão de serviço e pelo período da legislatura, ouvido o Conselho Consultivo, e permanece em funções até à nomeação do novo secretário-geral.
+
+2 - O secretário-geral da Assembleia Legislativa Regional pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - No exercício das suas atribuições, o secretário-geral pode dispor de um secretário, a requisitar aos departamentos da Administração Pública, aplicando-se-lhe o disposto no artigo 11.º, sendo portador de um cartão de identidade, conforme anexo II do presente diploma.
+
+7 - ...
+
+###### Artigo 16.º
+
+São aditados três novos números ao artigo 35.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, que são os n.os 3, 4 e 5, os quais passam a ter a seguinte redacção:
+
+###### Artigo 35.º — Quadro de pessoal
+
+1 - ...
+
+2 - ...
+
+3 - Do grupo de pessoal auxiliar constante do quadro a que se refere o n.º 1 deste artigo faz também parte a categoria de encarregado de bar.
+
+4 - As escalas salariais da categoria de encarregado de bar são as constantes do mapa anexo ao presente diploma.
+
+5 - Ao encarregado de bar compete, genericamente, assegurar o funcionamento do bar, solicitar à Divisão Administrativa e Financeira a requisição dos bens indispensáveis ao seu funcionamento, apresentar as receitas cobradas de acordo com as orientações dimanadas pela Secretaria-Geral da Assembleia Legislativa Regional e proceder à orientação e distribuição de tarefas pelos funcionários afectos ao serviço de bar.
+
+###### Artigo 17.º
+
+É aditado um novo número ao artigo 36.º, que é o n.º 3, que passa a ter a seguinte redacção:
+
+###### Artigo 36.º — Recrutamento, selecção e provimento de lugares
+
+1 - ...
+
+2 - ...
+
+3 - O recrutamento para a categoria de encarregado de bar far-se-á de entre auxiliares de serviço de bar com pelo menos três anos na categoria classificados de Muito Bom ou cinco anos classificados no mínimo de Bom e habilitação profissional adequada ao cargo a prover.
+
+###### Artigo 18.º
+
+Os n.os 2 e 3 do artigo 37.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passam a ter a seguinte redacção:
+
+###### Artigo 37.º — Regime especial de trabalho
+
+1 - ...
+
+2 - Este regime é fixado por despacho do Presidente da Assembleia Legislativa Regional, sob proposta do secretário-geral, podendo compreender, nomeadamente, horário especial de trabalho e remuneração suplementar.
+
+3 - A aplicação do regime de trabalho previsto nos números anteriores ao pessoal dos gabinetes do Presidente, Vice-Presidentes, secretário-geral e grupos parlamentares é da competência do Presidente, dos Vice-Presidentes, do secretário-geral e da direcção dos grupos parlamentares, respectivamente.
+
+###### Artigo 19.º
+
+Ao [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, é aditado um novo artigo, que será o artigo 37.º-A, com o texto e epígrafe seguintes:
+
+###### Artigo 37.º-A — Bolsas de estudo
+
+1 - Para aperfeiçoamento dos funcionários da Assembleia poderão ser concedidas bolsas de estudo ou equiparação a bolseiro para a frequência de cursos e estágios em instituições nacionais ou organismos internacionais.
+
+2 - A concessão de bolsas de estudo ou equiparadas a bolseiro é da competência do Presidente da Assembleia, mediante proposta fundamentada do secretário-geral, com o parecer favorável do Conselho de Administração.
+
+3 - As condições, direitos e obrigações dos bolseiros constarão de regulamento, a aprovar pelo Conselho de Administração, mediante proposta do secretário-geral.
+
+###### Artigo 20.º
+
+O n.º 2 do artigo 40.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 40.º — Nomeação
+
+1 - ...
+
+2 - Nos termos da lei, o Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, pode alargar a área de recrutamento.
+
+###### Artigo 21.º
+
+A alínea b) do n.º 2 do artigo 43.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 43.º — Requisição de pessoal
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) Os requisitados auferem, por inteiro, as remunerações inerentes aos cargos que exerciam, sem prejuízo de poderem optar pelas remunerações correspondentes às funções que vão desempenhar, acrescidas, em qualquer caso, das compensações de encargos decorrentes da requisição que forem fixadas por despacho do Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, podendo compreender, nomeadamente, as relacionadas com deslocação e residência, independentemente de outras regalias previstas neste diploma;
+
+c) ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 22.º
+
+A alínea a) do n.º 1 do artigo 44.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 44.º — Prestação de serviços
+
+1 - ...
+
+a) Encomendar estudos, pareceres e serviços;
+
+b) ...
+
+c) ...
+
+2 - ...
+
+3 - ...
+
+###### Artigo 23.º
+
+O n.º 1 do artigo 46.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 46.º — Gabinetes dos partidos e dos grupos parlamentares
+
+1 - Os partidos com um único deputado e os grupos parlamentares dispõem, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba anual, resultante do quadro seguinte:
+
+a) Deputado único/partido - 15 x 14 SMNR (salário mínimo nacional aplicável na Madeira)/ano;
+
+b) Grupo parlamentar até 2 deputados - 15 x 14 SMNR/mês/número de deputados;
+
+c) Grupo parlamentar de 3 a 10 deputados - 11 x 14 SMNR/mês/número de deputados;
+
+d) Grupo parlamentar de 11 a 20 deputados - 9 x 14 SMNR/mês/número de deputados;
+
+e) Grupo parlamentar de 21 a 30 deputados - 8 x 14 SMNR/mês/número de deputados;
+
+f) Grupo parlamentar superior a 30 deputados - 7 x 14 SMNR/mês/número de deputados.
+
+###### Artigo 24.º
+
+É aditado um novo número ao artigo 46.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, que é o n.º 10, cujo texto é o seguinte:
+
+###### Artigo 46.º — Gabinetes dos partidos e dos grupos parlamentares
+
+...
+
+10 - O processamento dos vencimentos do pessoal dos gabinetes dos partidos e dos grupos parlamentares, bem como as despesas com os encargos sociais e respectivo processamento, são da responsabilidade da Assembleia Legislativa Regional.
+
+###### Artigo 25.º
+
+O n.º 3 do artigo 47.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 47.º — Subvenção aos partidos
+
+1 - ...
+
+2 - ...
+
+3 - Aos grupos parlamentares é atribuída uma subvenção mensal para encargos de assessoria aos deputados não inferior a quatro vezes o salário mínimo nacional anual por grupo parlamentar, mais dois terços do mesmo por deputado.
+
+4 - ...
+
+###### Artigo 26.º
+
+O artigo 53.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de Setembro, passa a ter a seguinte redacção:
+
+###### Artigo 53.º — Autorização de despesas
+
+1 - Os limites para a autorização de despesas a que se referem os n.os 1 e 2 do artigo 20.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, na redacção dada pelo [Decreto-Lei n.º 227/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1985-183014), de 4 de Julho, e ainda o artigo 13.º do [Decreto Legislativo Regional n.º 1/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1992-249485), de 16 de Janeiro, são, respectivamente, os seguintes:
+
+a) Até 2000000$00 e 20000000$00 para o secretário-geral da Assembleia Legislativa Regional;
+
+b) Até 100000000$00 e sem limite para o Conselho de Administração;
+
+c) Sem limite para o Presidente da Assembleia Legislativa Regional.
+
+2 - Os limites para a autorização de despesas a que se refere o artigo 21.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, na redacção dada pelo [Decreto-Lei n.º 227/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1985-183014), de 4 de Julho, e o artigo 13.º do [Decreto Legislativo Regional n.º 1/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1992-249485), de 16 de Janeiro, são os seguintes:
+
+a) Até 100000000$00 para o Conselho de Administração;
+
+b) Sem limite para o Presidente da Assembleia Legislativa Regional.
+
+###### Artigo 27.º
+
+O quadro de pessoal da Assembleia Legislativa Regional (anexo I) passa a ser o anexo ao presente diploma.
+
+###### Artigo 28.º — Entrada em vigor
+
+As disposições constantes do presente diploma entram em vigor no dia imediato ao da sua publicação e produzem efeitos desde o início da presente legislatura.
+
+Aprovado em sessão plenária em 29 de Dezembro de 1992.
+
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
+
+Assinado em 20 de Janeiro de 1993.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/043a00/07250734.pdf)

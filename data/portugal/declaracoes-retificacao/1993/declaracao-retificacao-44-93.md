@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:682867:por
+title: Declaração de Rectificação n.º 44/93
+short_title: null
+summary: De ter sido rectificado o Decreto-Lei n.º 276/92, do Ministério da Saúde, que altera a orgânica do Conselho de Prevenção
+  do Tabagismo, criado pelo Decreto-Lei n.º 226/83, de 27 de Maio, publicado no Diário da República, n.º 286, de 12 de Dezembro
+  de 1992
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria-Geral
+proposing_entity: null
+official_number: 44/93
+official_date: null
+publication_date: '1993-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 76/1993, 2º Suplemento, Série I-A de 1993-03-31
+  number: '76'
+  series: I
+  supplement: null
+  pages: 1608-(39) a 1608-(39)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/03/076a02/00390039.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/44/1993/03/31/p/dre/pt/html
+  oj: null
+  dre: '682867'
+  dre_path: /dr/detalhe/declaracao-rectificacao/44-1993-682867
+  internal: pt:dre:682867:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-1993-682867
+  metadata_url: https://data.dre.pt/eli/declrectif/44/1993/03/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-1993-682867
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:38:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e4ae185776dec581ce0ea3575ff4a1a46613b9aa6edc31a4bb33c99a66abb6b4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Prevenção do Tabagismo
+- Ministro da Saúde
+- Orgânica
+- Tabagismo
+relationships:
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616446:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/276/1992/12/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:38:57Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 44/93
+
+Para os devidos efeitos se declara que o [Decreto-Lei n.º 276/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1992-616446), publicado no Diário da República, n.º 286, de 12 de Dezembro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+No artigo 1.º, na nova redacção dada aos artigos 9.º-B, n.º 1, 9.º-C e 13.º, n.º 5, do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, onde se lê «Direcção-Geral de Saúde» deve ler-se «Direcção-Geral da Saúde» e no artigo 9.º-B, n.os 2 e 3, onde se lê «director-geral de Saúde» deve ler-se «director-geral da Saúde».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Março de 1993. - O Secretário-Geral, França Martins.

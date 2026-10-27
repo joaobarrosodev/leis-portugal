@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:183618:por
+title: Despacho Normativo n.º 60/85
+short_title: null
+summary: Fixa os países de referência para a determinação dos preços de referência a que se refere a Portaria n.º 496/85 e
+  estabelece medidas relativas ao preço de venda das especialidades farmacêuticas pelo produtor ou importador (PVA) em Portugal
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Saúde, da Indústria e Energia e do Comércio e Turismo
+proposing_entity: null
+official_number: 60/85
+official_date: null
+publication_date: '1985-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/1985, Série I de 1985-07-20
+  number: '165'
+  series: I
+  supplement: null
+  pages: 2142 - 2144
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16500/21422144.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '183618'
+  dre_path: /dr/detalhe/despacho-normativo/60-1985-183618
+  internal: pt:dre:183618:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-1985-183618
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-1985-183618
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:33:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 544ca86b37d553e1be6a2057628537c2fe5f4365131cad1da8039c02e415ecb8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Medicamento
+- Preço
+- Preço de Venda
+relationships:
+- type: amended_by
+  target: pt:dre:333525:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:406135:por
+  label: "Suspenso, até 30-Jun 1988, o disposto no presente diploma, mantendo-se em vigor até essa data os preços de venda\
+    \ praticados em 31-Dez 1987, com excepção do disposto no n.º 2.º da PORT.973/87.31.12.1987.MF, DR.IS [300-4º supl] de\
+    \ 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-1987-406135
+  date: '1987-12-31'
+- type: cites
+  target: pt:dre:183621:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333525:por
+  label: "Revogado pela PORT.29/90.13.01.1990.MF, DR.IS [11] de 13.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1990-333525
+  date: '1990-01-13'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:33:10Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 60/85
+
+Ao abrigo do disposto nas alíneas a) a f) do n.º 5.º da [Portaria n.º 496/85](https://diariodarepublica.pt/dr/detalhe/portaria/496-1985-183621), de 20 de Julho, determina-se o seguinte:
+
+1.º Os Países de referência para a determinação dos preços de referência a que se refere a [Portaria n.º 496/85](https://diariodarepublica.pt/dr/detalhe/portaria/496-1985-183621) são a Espanha, França e Itália, ou o país de origem, nos termos adiante definidos.
+
+2.º O preço de venda pelo produtor ou importador (PVA) em Portugal não pode exceder:
+
+a) A maior média dos PVA em vigor, para especialidades farmacêuticas idênticas ou similares, em dois dos seguintes três países: Espanha, França e Itália;
+
+b) No caso de só existir especialidade farmacêutica idêntica ou similar num dos três países referidos na alínea a), o PVA em vigor nesse país;
+
+c) No caso de só existir especialidade farmacêutica idêntica ou similiar no país de origem, o PVA em vigor nesse país;
+
+d) No caso de não existirem especialidades farmacêuticas ou similares nos países de referência, o que resulte da aplicação de um índice de referência a estabelecer anualmente.
+
+3.º Os diferenciais compensatórios de valor acrescentado nacional são os seguintes:
+
+1) Com valor acrescentado nacional igual ou superior a 50%:
+
+a) Ao PVA referido nas alíneas a) e b) do n.º 2.º pode acrescer 20%;
+
+b) Ao PVA referido na alínea c) do n.º 2.º pode acrescer 15%.
+
+2) Com valor acrescentado nacional igual ou superior a 35% e inferior a 50%:
+
+a) Ao PVA referido nas alíneas a) e b) do n.º 2.º pode acrescer 12,5%;
+
+b) Ao PVA referido na alínea c) do n.º 2.º pode acrescer 7,5%.
+
+3) Com valor acrescentado igual ou superior a 25% e inferior a 35%:
+
+a) Ao PVA referido nas alínea a) e b) do n.º 2.º pode acrescer 7,5%;
+
+b) Ao PVA referido, na alínea c) do n.º 2.º pode acrescer 5%.
+
+4.º - 1 - Para efeitos do disposto neste diploma o valor acrescentado nacional de uma especialidade farmacêutica será o que resulte do PVA determinado, antes de qualquer acréscimo e ou redução, deduzido do valer dos componentes nele incorporados de origem estrangeira, incluindo nestes os royalties.
+
+2 - Na determinação do custo das matérias-primas importadas é utilizada a composição de especialidade farmacêutica oficialmente aprovada.
+
+3 - Estabelecido um PVA com base no valor acrescentado nacional, como definido no n.º 1 deste número, para efeitos de revisões posteriores o valor acrescentado nacional a considerar será o que resulte da valorização do novo PVA determinado, antes de qualquer acréscimo e ou redução, deduzido dos componentes nele incorporados, ao câmbio considerado na data de fixação do primeiro PVA, enquanto se mantiverem os valores de facturação, na origem, dos componentes incorporados.
+
+5.º - 1 - Os diferenciais compensatórios de exportação, que podem ser repercutidos sobre os PVA, referidos nas alíneas a), b) e c) do n.º 2.º de toda a gama de especialidades farmacêuticas de cada empresa são os seguintes:
+
+a) Quando o ratio, «Exportação, de especialidades farmacêuticas/vendas globais líquidas de especialidades farmacêuticas,» seja igual ou superior a 25%, um acréscimo de 5%;
+
+b) Quando o ratio, «Exportação de especialidades farmacêuticas/vendas globais líquidas de especialidades farmacêuticas» seja igual ou superior a 7,5% e inferior a 25%, um acréscimo de 2,5%;
+
+c) Quando o ratio «Exportação de especialidades farmacêuticas/vendas globais líquidas de especialidades farmacêuticas» seja igual ou superior a 2% e inferior a 7,5%, um acréscimo de 1,5%.
+
+2 - As empresas sem fabrico próprio aplica-se igualmente o disposto no n.º 1 deste número.
+
+3 - Para efeitos do cálculo do ratio referido no n.º 1 deste número tomar-se-ão como referência os valores relativos ao ano anterior ao da revisão de preços.
+
+6.º - 1 - As comparações de preços entre as especialidades farmacêuticas produzidas em Portugal ou importadas e as especialidades farmacêuticas idênticas ou similiares existentes em Espanha, França ou Itália, de acordo com os números anteriores, serão efectuadas nos seguintes termos e prioridades, relativamente a cada país de referência:
+
+a) Com a mesma substância activa, forma farmacêutica, dosagem, apresentação, marca e do mesmo grupo de empresas;
+
+b) Com a mesma substância activa e forma farmacêutica, dosagem e apresentação mais aproximadas, igual marca e do mesmo grupo de empresas;
+
+c) Com a mesma substância activa, embora de outra forma farmacêutica, com dosagem e apresentação mais aproximadas, igual marca e do mesmo grupo de empresas;
+
+d) Dentro das mesmas prioridades anteriores, reportada a especialidades farmacêuticas do mesmo grupo de empresas, embora com marca diferente.
+
+2 - No caso de, em pelo menos um dos países, não ser referenciada uma especialidade farmacêutica idêntica ou similar, a comparação será feita dentro das mesmas prioridades anteriores, embora reportada a marcas diferentes e empresas diferentes.
+
+3 - No caso de não serem referenciadas especialidades farmacêuticas idênticas ou similares, nos termos dos n.os 1 e 2 deste número, considerar-se-á para comparação a especialidade farmacêutica idêntica ou similar no país de origem.
+
+4 - Para a comparação a efectuar nos termos dos n.os 1, 2 e 3 deste número e enquanto não entrar em vigor o previsto no n.º 8.º da [Portaria n.º 496/85](https://diariodarepublica.pt/dr/detalhe/portaria/496-1985-183621), seguir-se-á, para o estabelecimento do PVA de referência em cada um dos países, a conversão da embalagem mais próxima da embalagem mais pequena de cada dosagem vendida em Portugal.
+
+5 - Na aplicação das comparações como atrás referidas, sempre que se trate de produtos próprios não fabricados sob licença, pode adoptar-se a comparação com especialidades farmacêuticas idênticas ou similares de preço mais elevado.
+
+6 - Para efeitos da comparação e fixação de preços serão utilizados para especialidades farmacêuticas com dosagem e ou apresentação diferente os seguintes critérios, reportados ao preço com que se estabelece a comparação:
+
+a) No caso de relação de um para dois ou o inverso, redução de 10% ou aumento de 10% no preço;
+
+b) No caso de relação de um para três ou o inverso, redução de 15% ou aumento de 15% no preço;
+
+c) No caso de relação de um para quatro ou o inverso, redução de 20% ou aumento de 20% no preço;
+
+d) No caso de relação de um para cinco ou superior ou o inverso, redução de 25% ou aumento, de 25% no preço.
+
+7.º O câmbio para conversão em escudos dos preços de referência, assim como para o cálculo dos componentes importados, será o praticado no dia 10 de Novembro (ou o primeiro dia útil seguinte) de cada ano, acrescido de quatro vezes a taxa média mensal de depreciação efectiva do escudo estabelecida pelo Banco de Portugal.
+
+8.º A Direcção-Geral de Concorrência e Preços (DGCP) acordará com as empresas, por forma escrita, as fontes a utilizar para efeitos de determinação dos preços de referência, devendo ser comunicados os termos de tais acordos às associações empresariais respectivas.
+
+9.º Considerando que as presentes regras de revisão de preços de especialidades farmacêuticas só poderão ter efeitos em 1 de Janeiro de 1986 e que se torna necessário conceder às empresas um período razoável de adaptação aos novos critérios de revisão de preços e ainda apetrechar a DGCP com meios materiais adequados para o seu controle, serão observados durante o ano de 1985, a título excepcional e transitório, os seguintes procedimentos:
+
+a) Até 31 de Julho de 1985, as empresas que pretendam alterar preços deverão apresentar na DGCP a listagem dos preços que consideram como os a praticar, com os inerentes padrões de referência que lhes servem de suporte, de acordo com os limites impostos pelo presente diploma, com as adaptações referidas nas alíneas seguintes;
+
+b) As empresas que optem pela alteração de preços com efeitos a partir de 1 de Setembro de 1985 poderão escolher uma das seguintes alternativas:
+
+Aplicação integral das regras de revisão de preços estabelecidas, o que implica, nomeadamente, a total adequação dos preços, das especialidades farmacêuticas aos limites por ela impostos;
+
+Nos casos em que a aplicação das regras estabelecidas implique aumentos e reduções de preços no conjunto das especialidades farmacêuticas de uma empresa e esta pretenda beneficiar de aumentos, sem que lhe seja imposta a totalidade das reduções, o limite máximo de agravamento de preços de qualquer dos seus produtos não poderá exceder 35% relativamente aos em vigor em 31 de Dezembro de 1984;
+
+c) O câmbio para conversão em escudos dos preços de referência, assim como para o cálculo dos componentes importados, será o praticado no dia 10 de Julho de 1985, acrescido de duas vezes a taxa média mensal de depreciação efectiva do escudo estabelecida pelo Banco de Portugal;
+
+d) A título excepcional, para as especialidades farmacêuticas com valor acrescentado nacional inferior a 25%, poderá ser acrescido um diferencial compensatório de 5% ao PVA referido nas alíneas a), b) e c) do n.º 2.º;
+
+e) Os preços de venda ao público das especialidades farmacêuticas a que se refere a alínea d) do n.º 2.º poderão ser aumentados até 35% relativamente aos preços em vigor em 31 de Dezembro de 1984.
+
+10.º Até à data de entrada em vigor deste despacho, aos processos de revisão ou aprovação de preços pendentes na DGCP será aplicável o regime de preços então em vigor.
+
+11.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+
+Ministérios das Finanças e do Plano, da Saúde, da Indústria e Energia e do Comércio e Turismo, 8 de Julho de 1985. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

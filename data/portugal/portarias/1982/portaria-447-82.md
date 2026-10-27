@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:393047:por
+title: Portaria n.º 447/82
+short_title: null
+summary: Estabelece o funcionamento dos concursos e condições de promoção do pessoal do grupo 5 do quadro do pessoal militarizado
+  da Marinha
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 447/82
+official_date: null
+publication_date: '1982-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 100/1982, Série I de 1982-04-30
+  number: '100'
+  series: I
+  supplement: null
+  pages: 1097 - 1098
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/10000/10971098.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '393047'
+  dre_path: /dr/detalhe/portaria/447-1982-393047
+  internal: pt:dre:393047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-1982-393047
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-1982-393047
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f015a26ebbfc24773bcca398bfa8291a13bfb4f2f509852bd66644f5dceae47e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:16:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:384258:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:384258:por
+  label: "Revogada pela PORT.334/84.04.06.1984.MDN, DR.IS [129] de 04.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/334-1984-384258
+  date: '1984-06-04'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:16:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 447/82
+
+de 30 de Abril
+
+Tornando-se necessário, ao abrigo do artigo 15.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, estabelecer o funcionamento dos concursos e as condições de promoção do pessoal do grupo 5, práticos da costa do Algarve, do quadro do pessoal militarizado da Marinha (QPMM):
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+
+1.º O pessoal do grupo 5, práticos da costa do Algarve, do quadro do pessoal militarizado da Marinha (QPMM) ascende às categorias referidas no artigo 13.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, pela forma estabelecida nesta portaria.
+
+2.º As promoções, de acordo com o artigo 13.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), podem ser por:
+
+a) Antiguidade, que consiste no acesso à categoria imediata por ordem de antiguidade na categoria anterior, salvo nos casos de preterição, e apenas para o preenchimento de vacaturas no quadro daquela categoria;
+
+b) Concurso, que consiste no acesso à categoria superior, independentemente da posição ocupada na escala de antiguidades, nos termos estabelecidos nesta portaria, tendo em vista a vantagem de acelerar a promoção dos considerados mais competentes e que ofereçam maior garantia de bom desempenho das respectivas funções.
+
+3.º As condições gerais de promoção, comuns a todas as categorias, são as seguintes:
+
+a) Bom comportamento;
+
+b) Boas qualidades morais;
+
+c) Qualidades intelectuais e profissionais necessárias para o desempenho das funções da categoria imediata;
+
+d) Aptidão física adequada.
+
+4.º A verificação das condições gerais de promoção referidas nas alíneas a), b) e c) do número anterior pertence, em primeira análise, ao chefe do Departamento Marítimo do Sul, que baseia a sua apreciação nos seguintes elementos:
+
+a) Informações periódicas;
+
+b) Registo disciplinar;
+
+c) Outros elementos que constem do processo individual do funcionário.
+
+5.º Nos casos em que o chefe do Departamento Marítimo do Sul considere que não são satisfeitas as condições referidas no n.º 3.º ou tenha dúvidas sobre essa satisfação, deverá o assunto ser presente ao director do serviço do pessoal.
+
+6.º A verificação da condição geral de promoção referida na alínea d) do n.º 3.º deverá ser feita:
+
+a) Nas promoções por antiguidade, pelo médico do respectivo comando, unidade ou serviço ou por competente junta médica, quando aquele o considerar necessário;
+
+b) Nas promoções por concurso, por competente junta médica.
+
+7.º A verificação da aptidão física dos funcionários que se encontrem na situação de doentes em casa, hospitalizados ou com licença da junta é sempre feita nas condições referidas na alínea b) do número anterior.
+
+8.º As condições especiais de promoção são as seguintes:
+
+a) Para prático de 1.ª classe - Ter, pelo menos, 1 ano de serviço efectivo na categoria de prático de 2.ª classe;
+
+b) Para prático-mor - Ter, pelo menos, 2 anos de serviço efectivo na categoria de prático de 1.ª classe.
+
+9.º A preterição nas promoções verifica-se quando:
+
+a) Não são satisfeitas uma ou mais das condições gerais de promoção;
+
+b) Não são satisfeitas uma ou mais das condições especiais de promoção, desde que na categoria existam funcionários mais modernos que já as reúnam.
+
+10.º A situação de preterição terminará quando cessarem os motivos que a determinarem, salvo se da mesma resultar outro procedimento que, de acordo com o determinado nesta portaria e demais legislação em vigor, seja impeditivo da promoção.
+
+11.º Conta-se como tempo de serviço efectivo na categoria todo o tempo de permanência na mesma, com exclusão dos períodos relativos às situações seguintes:
+
+a) Licença ilimitada;
+
+b) Licença registada;
+
+c) Ausência ilegítima;
+
+d) Cumprimento de penas que impliquem suspensão de funções.
+
+12.º Não são igualmente computados como serviço efectivo, relativamente aos impedimentos por motivo de doença ou de licença das juntas, os períodos para além de 2 meses, salvo quando se trate de casos de tuberculose ou de doença adquirida em serviço ou por motivo do mesmo.
+
+13.º Nos casos em que se verifiquem intervalos nos impedimentos referidos no número anterior, para a determinação da sua extensão, são contados todos os períodos consecutivos cujos intervalos sejam inferiores a 30 dias.
+
+14.º Os concursos de promoção a prático-mor são documentais e válidos apenas para o preenchimento das vagas existentes à data da publicação na Ordem da Direcção do Serviço do Pessoal, 6.ª série, da lista dos candidatos aprovados.
+
+15.º As normas relativas à abertura dos concursos de promoção são as seguintes:
+
+a) Os concursos são abertos na 6.ª Repartição da Direcção do Serviço do Pessoal (DSP), fixando-se, para entrega dos requerimentos, o prazo de 15 dias, a contar da data da publicação da sua abertura na Ordem da Direcção do Serviço do Pessoal, 6.ª série;
+
+b) Os candidatos devem enviar à 6.ª Repartição da DSP um requerimento em papel selado, dirigido ao director do Serviço do Pessoal, solicitando a admissão ao concurso e do qual constem o nome, a categoria, o organismo onde prestam serviço e a categoria a que pretendem concorrer;
+
+c) Os candidatos poderão juntar ao requerimento quaisquer documentos comprovativos de habilitações possuídas e que não constem dos seus processos individuais.
+
+16.º Só serão admitidos ao concurso os candidatos que satisfaçam as condições gerais de promoção, com excepção da referida na alínea d) do n.º 3.º e as condições especiais de promoção referentes à categoria a que o concurso se destina.
+
+17.º A constituição do júri dos concursos obedecerá às seguintes regras:
+
+a) Os membros que o compõem serão:
+
+Presidente - chefe do Departamento Marítimo do Sul;
+
+1.º vogal - capitão do Porto de Faro;
+
+2.º vogal - patrão-mor da Capitania do Porto de Faro;
+
+b) Os júris serão secretariados por um funcionário do quadro do pessoal civil da Marinha, em serviço na Capitania do Porto de Faro, a nomear pelo respectivo capitão do Porto;
+
+c) Quando se verificar o impedimento de qualquer dos membros referidos nas alíneas anteriores, estes serão substituídos pelas entidades que, à data se encontrarem a desempenhar as respectivas funções.
+
+18.º Nos concursos o júri fará o ordenamento final dos candidatos de acordo com os seguintes factores de apreciação, obtidos através das informações periódicas:
+
+a) Melhores aptidões de chefia;
+
+b) Melhores aptidões intelectuais;
+
+c) Melhores aptidões técnicas.
+
+19.º Na altura em que competir promoção a funcionários concursados, estes deverão preencher as condições a seguir indicadas:
+
+a) Condição geral de promoção referida na alínea d) do n.º 3.º;
+
+b) Não ter nos registos criminal e disciplinar penas que, pelos seus efeitos, sejam impeditivas da promoção.
+
+20.º Quando se verifique que a não satisfação das condições gerais de promoção referidas nas alíneas a) e b) do n.º 3.º é originada por factos que ponham em causa a disciplina e eficiência do serviço, poderá o director do Serviço do Pessoal propor superiormente que seja aplicado procedimento com vista ao determinado no artigo 134.º, alínea d), do Regulamento de Disciplina Militar.
+
+21.º Nas promoções por concurso, a recusa da tomada de posse implicará, quando da primeira vez, a passagem do concursado para o fim da lista do ordenamento; a segunda recusa será considerada desistência e implica a sua eliminação da referida lista. Tanto as recusas como as desistências devem ser manifestadas por escrito.
+
+Estado-Maior da Armada, 3 de Abril de 1982. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.

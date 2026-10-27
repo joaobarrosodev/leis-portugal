@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:401535:por
+title: Portaria n.º 23088
+short_title: null
+summary: Torna extensivo às províncias ultramarinas, com as alterações constantes da presente portaria, o Código do Registo
+  Predial, aprovado pelo Decreto-Lei n.º 47611 - Revoga a Portaria n.º 18571
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Justiça
+proposing_entity: null
+official_number: '23088'
+official_date: null
+publication_date: '1967-12-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 298/1967, Série I de 1967-12-26
+  number: '298'
+  series: I
+  supplement: null
+  pages: 2411 - 2412
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29800/24112412.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401535'
+  dre_path: /dr/detalhe/portaria/23088-1967-401535
+  internal: pt:dre:401535:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23088-1967-401535
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23088-1967-401535
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5567c964bdb1fdf7e0739282c9c72930589da59aa77705b0041145e68c97337f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:172889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509406:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:39:29Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23088
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar, o seguinte:
+
+1.º É tornado extensivo às províncias ultramarinas o Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 47611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47611-1967-509406), de 28 de Março de 1967, com as alterações constantes deste diploma.
+
+2.º São excluídas de aplicação as seguintes disposições: as alíneas e), v) e x) do artigo 2.º; b) do artigo 7.º; b), c), e) e f) do artigo 179.º, e r) e t) do artigo 182.º; os artigos 14.º a 25.º, 46.º, 102.º, 103.º, 109.º, 153.º, 154.º, 273.º, 274.º, 280.º, 281.º, 283.º, 284.º, 285.º, 287.º e 288.º; o n.º 5 do artigo 58.º, o n.º 2 do artigo 128.º e o n.º 2 do artigo 275.º
+
+3.º As referências a Ministro da Justiça, Direcção-Geral dos Registos e do Notariado, director-geral dos Registos e do Notariado, Direcção-Geral da Fazenda Pública, secção ou repartição de finanças, chefe de secção de finanças, Inspecção-Geral de Crédito e Seguros, freguesias e Cofre dos Conservadores, Notários e Funcionários de Justiça consideram-se feitas, respectivamente, a Ministro do Ultramar, Procuradoria da República, procurador da República, direcção ou repartição provincial dos Serviços de Fazenda, repartição de Fazenda, chefes de repartição de Fazenda, Inspecção de Créditos e Seguros, freguesias ou postos administrativos e orçamento provincial ou Cofre Geral dos Conservadores e Notários, onde este exista.
+
+4.º O n.º 3 do artigo 53.º passa a ter a seguinte redacção:
+
+Art. 53.º ...
+
+3. Nas comarcas onde haja mais de um juiz a legalização dos livros compete ao magistrado da 1.ª vara.
+
+5.º O artigo 55.º passa a ter a seguinte redacção:
+
+Art. 55.º A legalização dos livros das conservatórias com sede na área das comarcas de Luanda e Lourenço Marques far-se-á, segundo os termos fixados pelo artigo anterior, na Procuradoria da República e incumbirá ao procurador da República ou, por delegação deste, a um dos seus ajudantes.
+
+6.º O disposto no artigo 282.º passa a ter a seguinte redacção:
+
+Art. 282.º O disposto no n.º 1 do artigo 13.º não é aplicável aos direitos transmitidos nem aos bens onerados em virtude de actos celebrados antes da entrada em vigor em cada uma das províncias ultramarinas do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Outubro de 1959.
+
+7.º O n.º 1 e a parte final do n.º 2 do artigo 13.º do Código não se aplicam à inscrição inicial relativa a terrenos concedidos pelo Estado ou por autarquias locais quando abrangidos por foral.
+
+8.º Nas províncias ultramarinas da Guiné, Angola, Moçambique e Timor não será admitido o registo da mera posse de bens que não tenham sido objecto de concessão por parte do Estado ou não constituam propriedade perfeita, por este reconhecida.
+
+9.º Ficam ressalvadas as disposições especiais relativas ao registo das concessões de terrenos do Estado ou das autarquias locais do ultramar.
+
+10.º A descrição dos prédios devidamente titulados, nos termos da legislação das respectivas províncias, deverá conter todos os elementos de identificação física fornecidos pelo título de concessão ou de propriedade.
+
+11.º Os governadores das províncias ultramarinas, no prazo de 180 dias, a partir da vigência desta portaria, publicarão os regulamentos necessários para a conjugação das descrições prediais com as inscrições matriciais, de modo a assegurar a exacta correspondência entre os elementos constantes do registo predial e os das matrizes prediais.
+
+12.º - 1. Os serviços de agrimensura ou os serviços correspondentes das autarquias locais comunicarão aos serviços de Fazenda todas as alterações respeitantes aos elementos de identificação física ou económica dos prédios constantes dos seus tombos da propriedade imobiliária e de todos os actos jurídicos que os conservadores tenham por obrigação comunicar que possam alterar as indicações da matriz relativas à propriedade dos prédios e a outros quaisquer direitos ou ónus reais sobre eles constituídos.
+
+2. As matrizes só poderão ser alteradas no que respeita à identificação física dos prédios cadastrados mediante a comunicação referido no número anterior.
+
+13.º - 1. Quando, nos termos dos regulamentos para a concessão de terrenos do Estado ou dos forais das autarquias locais, se anulem concessões sujeitas a ónus reais de hipoteca, consignação ou adjudicação de rendimentos, arrendamento, penhora ou arresto, terão preferência na nova concessão, desde que satisfaçam às condições legalmente estabelecidas, os sujeitos activos dos ónus, pela ordem da graduação dos créditos, podendo, todavia, um credor preferir ao imediatamente anterior se depositar, no prazo que lhe for fixado, o quantitativo do crédito deste que tenha sido apurado na liquidação final dos créditos.
+
+2. A graduação e liquidação dos créditos correrão oficiosamente pelo juízo de direito da comarca da situação do prédio, a requerimento do delegado do procurador da República, a quem os serviços de agrimensura ou os serviços correspondentes dos corpos administrativos, conforme os casos, as deverão solicitar.
+
+14.º Fica revogada a [Portaria n.º 18571](https://diariodarepublica.pt/dr/detalhe/portaria/18571-1961-172889), de 29 de Setembro de 1961.
+
+15.º O presente diploma entra em vigor no dia 1 de Janeiro de 1968.
+
+Ministério do Ultramar, 26 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

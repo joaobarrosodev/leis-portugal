@@ -1,0 +1,391 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:888109593:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-903988132",
+ "dre_path": "/dr/detalhe/portaria/213-2024-888109593",
+ "source_lastmod": "2026-08-04",
+ "versions": [
+  {
+   "date": "2024-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "903836494",
+    "903836495",
+    "903836496",
+    "903836497",
+    "903836498",
+    "903836499",
+    "903836500",
+    "903836501",
+    "903836502",
+    "903836503",
+    "903836504",
+    "903836505",
+    "903836506",
+    "903836507",
+    "903836508",
+    "903836509",
+    "903836510",
+    "903836511",
+    "903836512",
+    "903836513",
+    "903836514",
+    "903836515",
+    "903836516",
+    "903836517",
+    "903836518",
+    "903836519",
+    "903836521",
+    "903836522"
+   ]
+  },
+  {
+   "date": "2025-01-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:903803228:por",
+     "title": "Portaria n.º 13/2025/1",
+     "published": "2025-01-17",
+     "dre_path": "/dr/detalhe/portaria/13-2025-903803228"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "903836494",
+    "903836495",
+    "903836496",
+    "903836497",
+    "903836498",
+    "903836523",
+    "903836500",
+    "903836501",
+    "903836502",
+    "903836503",
+    "903836504",
+    "903836505",
+    "903836506",
+    "903836507",
+    "903836508",
+    "903836509",
+    "903836510",
+    "903836511",
+    "903836512",
+    "903836513",
+    "903836514",
+    "903836515",
+    "903836516",
+    "903836517",
+    "903836518",
+    "903836519",
+    "903836520",
+    "903836521",
+    "903836522"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1153698652:por",
+     "title": "Portaria n.º 320-C/2026/1",
+     "published": "2026-07-31",
+     "dre_path": "/dr/detalhe/portaria/320-c-2026-1153698652"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "903836494",
+    "903836495",
+    "903836496",
+    "903836497",
+    "903836498",
+    "903836523",
+    "1154303375",
+    "903836501",
+    "903836502",
+    "903836503",
+    "903836504",
+    "903836505",
+    "903836506",
+    "903836507",
+    "903836508",
+    "903836509",
+    "903836510",
+    "903836511",
+    "903836512",
+    "903836513",
+    "903836514",
+    "903836515",
+    "903836516",
+    "903836517",
+    "903836518",
+    "903836519",
+    "903836520",
+    "903836521",
+    "903836522"
+   ]
+  }
+ ],
+ "fragments": {
+  "903836494": {
+   "fragment_id": "903988133",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 213/2024/1\n\nde 18 de setembro\n\nA reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.\n\nO Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objetivos, entre outros, reforçar a orientação para o mercado, aumentar a competitividade das explorações agrícolas e melhorar a posição dos agricultores na cadeia de valor.\n\nPor sua vez, o Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal) foi aprovado pela Comissão Europeia, através da Decisão C (2022) 6019, de 31 de agosto de 2022, tendo as suas reprogramações sido aprovadas pela Decisão de Execução da Comissão C (2024) 577, de 2 de fevereiro de 2024 e pela Decisão de Execução da Comissão C (2024) 4271, de 25 de junho de 2024.\n\nO Decreto-Lei n.º 5/2023, de 25 de janeiro, que estabeleceu o modelo de governação dos fundos europeus para o período de programação 2021-2027, entre os quais se inclui o FEADER, determinou a estruturação operacional deste fundo no continente através dos Eixos C e D.\n\nO Decreto-Lei n.º 12/2023, de 24 de fevereiro, estabeleceu as normas gerais do PEPAC Portugal, tendo determinado, no artigo 3.º, que a regulamentação específica dos referidos Eixos é adotada por portaria do membro do Governo responsável pela área da agricultura.\n\nNestes termos, cumpre estabelecer o regime específico do apoio a conceder ao abrigo do artigo 77.º do Regulamento (UE) 2021/2015, do Parlamento Europeu e do Conselho, no que se refere à tipologia C.4.3.1 \"Criação de agrupamentos e organizações de produtores\", integrada na intervenção C.4.3 \"Organização da produção\", do domínio C.4 \"Risco e organização da produção\", do eixo C \"Desenvolvimento Rural\" do PEPAC Portugal.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura e Pescas, abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "903836495": {
+   "fragment_id": "903988134",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "903836496": {
+   "fragment_id": "903988135",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação dos apoios a conceder, ao abrigo do artigo 77.º do Regulamento (UE) 2021/2015, do Parlamento Europeu e do Conselho, no que se refere à tipologia C.4.3.1 \"Criação de agrupamentos e organizações de produtores\", integrada na intervenção C.4.3 \"Organização da produção\", do domínio C.4 \"Risco e organização da produção\", do Eixo C \"Desenvolvimento Rural\" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal)."
+  },
+  "903836497": {
+   "fragment_id": "903988136",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos específicos\n\nOs apoios previstos na presente portaria, no âmbito do eixo C \"Desenvolvimento Rural\" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), destinam-se a prosseguir os seguintes objetivos:\n\na) Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização;\n\nb) Melhorar a posição dos agricultores na cadeia de valor."
+  },
+  "903836498": {
+   "fragment_id": "903988137",
+   "type": 11,
+   "heading": "Artigo 3.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Auxílios de Estado\n\n1 - Os apoios previstos na presente portaria, no caso de candidaturas relativas ao setor florestal, são concedidos nas condições constantes do artigo 52.º do Regulamento (UE) 2022/2472, da Comissão, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia.\n\n2 - Os apoios concedidos são divulgados no portal do Gabinete de Planeamento, Políticas e Administração Geral, em www.gpp.pt, através de hiperligações às páginas eletrónicas das entidades relevantes."
+  },
+  "903836499": {
+   "fragment_id": "903988138",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente portaria as organizações de produtores reconhecidas ao abrigo da Portaria n.º 298/2019, de 9 de setembro, na sua redação atual e os agrupamentos de produtores multiprodutos reconhecidos ao abrigo da Portaria n.º 123/2021, de 18 de junho."
+  },
+  "903836500": {
+   "fragment_id": "903988139",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Nos termos do disposto no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os candidatos aos apoios previstos na presente portaria devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nc) Terem a situação regularizada em matéria de reposições, no âmbito do financiamento do FEADER e do FEAGA ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nd) Não terem apresentado a mesma candidatura, no âmbito da qual ainda esteja a decorrer o processo de decisão ou em que a decisão sobre o pedido de financiamento tenha sido favorável, exceto nas situações em que tenha sido apresentada desistência.\n\n2 - Sem prejuízo dos critérios de elegibilidade referidos no número anterior, os candidatos aos apoios previstos na presente portaria devem, ainda, cumprir o seguinte:\n\na) Terem sido reconhecidos após o dia 31 de agosto de 2021;\n\nb) Não terem o seu reconhecimento suspenso;\n\nc) Não terem recebido apoio equivalente no Programa de Desenvolvimento Rural 2014-2020 (PDR2020);\n\nd) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito dos Fundos Europeus;\n\ne) Enquadrarem-se na definição de micro, pequenas e médias empresas (PME), nos termos da Recomendação 2003/361/CE, da Comissão, de 6 de maio de 2003;\n\nf) Demonstrarem ter meios para assegurar o financiamento próprio das atividades propostas no plano de ação, a que se refere o artigo seguinte;\n\ng) Possuírem registo e declaração do beneficiário efetivo devidamente atualizada, sempre que se trate de beneficiários sujeitos ao Regime Jurídico do Registo Central do Beneficiário Efetivo (RCBE);\n\nh) Apresentarem uma situação económica e financeira equilibrada, evidenciada através de uma situação líquida positiva, para os candidatos com três ou mais anos de atividade.\n\n3 - Além do disposto no presente artigo, quando as candidaturas respeitem ao setor vitivinícola, o reconhecimento como organização de produtores deve ter resultado da fusão de duas ou mais entidades coletivas em que, cumulativamente:\n\na) Cada uma das pessoas coletivas não tenha sido previamente reconhecida como organização ou agrupamento de produtores;\n\nb) O volume de negócios de cada uma das pessoas coletivas corresponda, no mínimo, a 20 % do volume total de negócios da organização ou agrupamento de produtores reconhecidos;\n\nc) A fusão tenha resultado na criação de uma nova pessoa coletiva ou na incorporação de uma ou mais pessoas coletivas numa outra;\n\nd) A fusão tenha ocorrido até três meses antes da apresentação do pedido de reconhecimento.\n\n4 - As condições previstas nas alíneas a), c) e d) do n.º 1 e nos n.<sup>os </sup>2 e 3 devem encontrar-se cumpridas à data da submissão da candidatura.\n\n5 - A condição prevista na alínea b) do n.º 1 pode ser aferida até ao momento da apresentação do primeiro pedido de pagamento."
+  },
+  "903836501": {
+   "fragment_id": "903988140",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que, à data da submissão da candidatura, apresentem um plano de ação aprovado em assembleia geral, com início após aquela data, para um período mínimo de três e máximo de cinco anos após o reconhecimento, que inclua os seguintes elementos:\n\na) Caracterização inicial da organização de produtores ou do agrupamento de produtores multiprodutos;\n\nb) Objetivos e metas a alcançar com a execução do plano de ação;\n\nc) Descrição das atividades a desenvolver, designadamente, as constantes do anexo i à presente portaria que desta faz parte integrante, e respetivos limites temporais para a sua realização;\n\nd) Identificação e caraterização dos destinatários, sempre que uma atividade não beneficie todos os membros da organização ou do agrupamento de produtores multiprodutos;\n\ne) Identificação dos custos de execução, por tipologia de atividade, de acordo com o previsto no anexo i à presente portaria, que desta faz parte integrante."
+  },
+  "903836502": {
+   "fragment_id": "903988141",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção de candidaturas aos apoios na presente portaria, são considerados, designadamente, os seguintes critérios:\n\na) Representatividade da organização de produtores ou do agrupamento de produtores multiproduto, em termos de Valor da Produção Comercializada (VPC) e de número de produtores;\n\nb) Abrangência territorial;\n\nc) Diversidade da tipologia de atividades previstas no plano de ação;\n\nd) Grau da organização da produção existente em função do setor ou produto.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão do PEPAC no continente e constam do aviso abertura do período de apresentação de candidaturas."
+  },
+  "903836503": {
+   "fragment_id": "903988142",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma, nível e limites do apoio\n\n1 - Os apoios previstos na presente portaria são concedidos sob a forma de subvenção não reembolsável.\n\n2 - O apoio é concedido anualmente, em função da duração do plano de ação, sob a forma de taxa fixa, nos seguintes termos:\n\na) 10 % do VPC - primeiro ano;\n\nb) 9 % do VPC - segundo ano;\n\nc) 8 % do VPC - terceiro ano;\n\nd) 7 % do VPC - quarto ano;\n\ne) 6 % do VPC - quinto ano.\n\n3 - Da aplicação das taxas previstas no número anterior não pode resultar um apoio superior a 100 000€ por ano e por beneficiário.\n\n4 - Para efeitos do disposto no n.º 2 é considerado:\n\na) O VPC calculado nos termos estabelecidos no artigo 7.º da Portaria n.º 298/2019, de 9 de setembro, na redação atual, não sendo aplicáveis os métodos de cálculo previstos no seu n.º 3, no caso das organizações de produtores;\n\nb) O VPC calculado nos termos estabelecidos no artigo 7.º da Portaria n.º 123/2021, de 18 de junho, no caso dos agrupamentos de produtores multiprodutos."
+  },
+  "903836504": {
+   "fragment_id": "903988143",
+   "type": 1,
+   "heading": "Capítulo II — PROCEDIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — PROCEDIMENTO"
+  },
+  "903836505": {
+   "fragment_id": "903988144",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação das candidaturas\n\nA apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal da agricultura, em https://agricultura.gov.pt/, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "903836506": {
+   "fragment_id": "903988145",
+   "type": 11,
+   "heading": "Artigo 10.º — Avisos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avisos\n\n1 - Os avisos para apresentação de candidaturas são aprovados pelo presidente da Comissão Diretiva da autoridade de gestão do PEPAC no continente, após parecer vinculativo prévio da Autoridade de Gestão Nacional e indicam, nomeadamente, o seguinte:\n\na) A intervenção e tipologia, se aplicável;\n\nb) A natureza dos beneficiários;\n\nc) O âmbito geográfico da intervenção a apoiar;\n\nd) A dotação orçamental indicativa;\n\ne) O número limite de candidaturas a apresentar por beneficiário;\n\nf) As orientações técnicas a observar;\n\ng) Os critérios de seleção e respetiva metodologia de avaliação;\n\nh) O processo de divulgação dos resultados;\n\ni) O prazo para apresentação de candidaturas;\n\n2 - Os avisos para apresentação das candidaturas são divulgados, no portal da agricultura, em http://agricultura.gov.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt."
+  },
+  "903836507": {
+   "fragment_id": "903988146",
+   "type": 11,
+   "heading": "Artigo 11.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão do PEPAC no continente, ou as entidades com competências delegadas para o efeito, emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade dos beneficiários e das operações, bem como dos critérios de seleção, do apuramento do montante do custo total elegível e do nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 4 do artigo 11.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, são solicitados aos candidatos, quando se justifique, documentos, esclarecimentos ou informações complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data-limite de apresentação das candidaturas.\n\n4 - O secretariado técnico da autoridade de gestão do PEPAC no continente aplica os critérios de seleção, em função da dotação orçamental referida no respetivo aviso e submete à decisão do presidente da Comissão Diretiva da autoridade de gestão do PEPAC no continente.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo presidente da Comissão Diretiva da autoridade de gestão do PEPAC no continente no prazo de 60 dias úteis contados a partir da data-limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão do PEPAC no continente, no prazo máximo de cinco dias úteis a contar da data da decisão."
+  },
+  "903836508": {
+   "fragment_id": "903988147",
+   "type": 11,
+   "heading": "Artigo 12.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação do termo de aceitação, conforme disposto no artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, a contar da data da notificação da disponibilização do mesmo, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão do PEPAC no continente."
+  },
+  "903836509": {
+   "fragment_id": "903988148",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos beneficiários\n\n1 - Nos termos do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os beneficiários dos apoios previstos na presente portaria são obrigados a:\n\na) Executar as operações nos termos, condições e resultados aprovados;\n\nb) Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução;\n\nc) Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nd) Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior;\n\ne) Manter as condições legais necessárias ao exercício da atividade;\n\nf) Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido;\n\ng) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nh) Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal;\n\ni) Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nj) Repor os montantes indevidamente recebidos e cumprir as reduções administrativas aplicadas.\n\n2 - Além do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, referido no número anterior do presente artigo, os beneficiários dos apoios constantes na presente portaria são, ainda, obrigados a:\n\na) Cumprir os normativos legais em matéria de contratação pública relativamente à execução da operação, quando aplicável;\n\nb) Manter o reconhecimento até à liquidação do último pedido de pagamento;\n\nc) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nd) Apresentar relatórios anuais de progresso, até 28 de fevereiro de cada ano, em relação às atividades realizadas no ano anterior, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente.\n\ne) Apresentar o relatório final de execução, até 90 dias seguidos após a conclusão do plano de ação, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente.\n\n3 - Os relatórios previstos no número anterior estão sujeitos a aprovação pela autoridade de gestão do PEPAC no continente."
+  },
+  "903836510": {
+   "fragment_id": "903988149",
+   "type": 11,
+   "heading": "Artigo 14.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Execução das operações\n\n1 - As operações devem ser executadas de acordo com o calendário previsto no plano de ação aprovado.\n\n2 - A execução das operações é comprovada através da apresentação dos relatórios anuais de progresso, nos termos do disposto na alínea d) do n.º 2 do artigo 13.º da presente portaria.\n\n3 - A conclusão da execução física e financeira das operações ocorre com a entrega do relatório final de execução previsto na alínea e) do n.º 2 do artigo 13.º da presente portaria.\n\n4 - Em caso excecionais e devidamente justificados, o presidente da Comissão Diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação dos prazos previstos no número anterior."
+  },
+  "903836511": {
+   "fragment_id": "903988150",
+   "type": 11,
+   "heading": "Artigo 15.º — Pedidos de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pedidos de alteração\n\n1 - Após a data da submissão autenticada do termo de aceitação, caso se verifique qualquer ocorrência excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações à operação aprovada, nomeadamente no que diz respeito à sua titularidade e prazos de execução, os beneficiários podem apresentar pedido de alteração, nos termos previstos em Orientação Técnica Transversal (OTT) divulgada no portal da agricultura, em http://agricultura.gov.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.\n\n2 - A alteração proposta não pode modificar substancialmente a natureza da operação aprovada, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais."
+  },
+  "903836512": {
+   "fragment_id": "903988151",
+   "type": 11,
+   "heading": "Artigo 16.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal da agricultura, em https://agricultura.gov.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento, nos termos previstos em OTT a emitir pelo IFAP, I. P.\n\n2 - O pedido de pagamento é apresentado anualmente, após comunicação ao IFAP, I. P., do VPC referente ao ano anterior.\n\n3 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias seguidos a contar da data da entrega do relatório final do plano de ação, sendo liquidado após a aprovação deste.\n\n4 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n5 - No ano do encerramento do PEPAC, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt."
+  },
+  "903836513": {
+   "fragment_id": "903988152",
+   "type": 11,
+   "heading": "Artigo 17.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer no prazo máximo de 45 dias úteis contados a partir da data de submissão dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento do montante a pagar ao beneficiário.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação, durante o seu período de execução, são definidos de acordo com o disposto no Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho."
+  },
+  "903836514": {
+   "fragment_id": "903988153",
+   "type": 11,
+   "heading": "Artigo 18.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida no termo de aceitação."
+  },
+  "903836515": {
+   "fragment_id": "903988154",
+   "type": 11,
+   "heading": "Artigo 19.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Controlo\n\nAs operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitos a controlos administrativos, in loco e por teledeteção, nos termos do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho."
+  },
+  "903836516": {
+   "fragment_id": "903988155",
+   "type": 11,
+   "heading": "Artigo 20.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detetada, são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, bem como o disposto no artigo 5.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, relativo à perenidade.\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, em matéria de recuperação de apoios indevidamente recebidos, são aplicáveis as reduções e exclusões dos apoios concedidos ou a conceder de acordo com o previsto no anexo ii à presente portaria que desta faz parte integrante.\n\n3 - Caso se verifique uma diferença entre o montante declarado e o montante validado superior a 10 %, o apoio é reduzido na mesma proporção, sendo ainda aplicada uma redução adicional no montante correspondente à diferença apurada.\n\n4 - A soma das reduções referidas nos números anteriores não pode ser superior à recuperação total do apoio."
+  },
+  "903836517": {
+   "fragment_id": "903988156",
+   "type": 1,
+   "heading": "Capítulo III — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — DISPOSIÇÕES FINAIS"
+  },
+  "903836518": {
+   "fragment_id": "903988157",
+   "type": 11,
+   "heading": "Artigo 21.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - A presente intervenção contribui para os objetivos específicos estabelecidos no n.º 1 do artigo 6.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, nomeadamente os constantes do artigo 2.º da presente portaria.\n\n2 - Para efeitos do cumprimento das metas dos indicadores de resultados do PEPAC Portugal, releva o indicador \"R. 10 Percentagem de explorações agrícolas que participam em agrupamentos de produtores, organizações de produtores, mercados locais, circuitos de cadeias de abastecimento curtas e regimes de qualidade apoiados pela PAC\" estabelecido no anexo i do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho."
+  },
+  "903836519": {
+   "fragment_id": "903988158",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "903836521": {
+   "fragment_id": "903988160",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 6.º)\n\n1 - O plano de ação pode abranger as seguintes tipologias de atividades:\n\na) Adaptação da produção e dos resultados dos membros produtores às exigências do mercado;\n\nb) Comercialização conjunta de produtos, incluindo a preparação para a venda, a centralização das vendas e o fornecimento aos grossistas;\n\nc) Estabelecimento de normas comuns em matéria de informação sobre a produção, em especial no que diz respeito às produções, às colheitas e disponibilidades;\n\nd) Desenvolvimento de competências empresariais e comerciais;\n\ne) Organização e facilitação de processos de inovação (incluindo ensaios de campo para demonstração e elaboração de guiões técnicos das culturas);\n\nf) Software e equipamento informático para modernização da gestão de estruturas produtivas comuns, incluindo armazenagem e conservação da produção dos membros produtores;\n\ng) Aproveitamento do potencial dos produtos através de iniciativas que reforcem a sua competitividade;\n\nh) Criação ou melhoria de sistemas de rastreabilidade específicos e desenvolvimento de métodos e instrumentos para melhoria da qualidade dos produtos em todas a fases da produção, transformação e comercialização;\n\ni) Estudos de mercado, comercialização e marketing;\n\nj) Criação de marcas coletivas;\n\nk) Atividades necessárias à preparação, execução e divulgação do plano de ação;\n\nl) Promoção de iniciativas nos domínios dos métodos de produção sustentável, das práticas inovadoras, da competitividade económica e da evolução do mercado, da promoção e da comercialização, e ainda da prestação de assistência técnica.\n\n2 - Os custos a seguir indicados estão sujeitos aos seguintes limites, relativamente à totalidade dos custos de execução do plano de ação:\n\na) 3 %, no caso dos custos relativos à preparação do plano de ação, incluindo estudos de desenvolvimento;\n\nb) 3 %, no caso dos estudos relativos à demonstração e divulgação dos resultados do plano de ação.\n\n3 - Os custos relativos a investimentos corpóreos integram apenas custos com a aquisição de equipamentos de controlo de qualidade, nomeadamente, equipamento laboratorial, classificação dos produtos e processos de acreditação ou de certificação, e equipamentos e software informático."
+  },
+  "903836522": {
+   "fragment_id": "903988161",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 20.º)\n\n| Artigo 13.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |\n| --- | --- | --- | --- |\n| N.º 1, alínea a) | Executar as operações nos termos, condições e resultados aprovados; | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %; |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %; |\n| N.º 1, alínea b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução; | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %; |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %; |\n| N.º 1, alínea c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado; | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %; |\n| N.º 1, alínea d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior; | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %; |\n| N.º 1, alínea e) | Manter as condições legais necessárias ao exercício da atividade; | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %; |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %; |\n| N.º 1, alínea f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido; | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %; |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % ; |\n| N.º 1, alínea g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação; | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %; |\n| N.º 1, alínea h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal; | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %; |\n| N.º 1, alínea i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução dos pagamentos do apoio, numa percentagem de 20 % no ano em que se verifica o incumprimento; |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, numa percentagem de 40 % no ano em que se verifica o incumprimento. |\n| N.º 2, alínea a) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável; | Não aplicável | Redução dos pagamentos do apoio, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos; |\n| N.º 2, alínea b) | Manter o reconhecimento até à liquidação do último pedido de pagamento; | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %; |\n| N.º 2, alínea d) | Apresentar relatórios anuais de progresso, até 28 de fevereiro de cada ano, em relação às atividades realizadas no ano anterior, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente; | 1 | Redução dos pagamentos do apoio, realizado ou a realizar, numa percentagem de 20 % no ano em que se verifica o incumprimento; |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, realizado ou a realizar, numa percentagem de 40 %, no ano em que se verifica o incumprimento; |\n| N.º 2, alínea e) | Apresentar o relatório final de execução, até 90 dias seguidos após a conclusão do plano de ação, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |\n\n118123178"
+  },
+  "903836523": {
+   "fragment_id": "903988138",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": "2025-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 13/2025/1 - Diário da República n.º 12/2025, Série I de 2025-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/13-2025-903803228), em vigor a partir de 2025-01-18, produz efeitos a partir de 2024-09-19"
+   ],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as organizações de produtores reconhecidas ao abrigo da Portaria n.º 298/2019, de 9 de setembro, na sua redação atual, com exceção das organizações no setor das frutas e produtos hortícolas, bem como os agrupamentos de produtores multiprodutos reconhecidos ao abrigo da Portaria n.º 123/2021, de 18 de junho.\n\n2 - Para efeitos do número anterior, consideram-se produtos do setor das frutas e produtos hortícolas os produtos referidos na parte ix do anexo i do Regulamento (CE) n.º 1308/2013, de 17 de dezembro de 2013, do Parlamento Europeu e do Conselho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 13/2025/1 - Diário da República n.º 12/2025, Série I de 2025-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/13-2025-903803228), em vigor a partir de 2025-01-18, produz efeitos a partir de 2024-09-19"
+  },
+  "903836520": {
+   "fragment_id": "903988159",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 16 de setembro de 2024."
+  },
+  "1154303375": {
+   "fragment_id": "903988139",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652), em vigor a partir de 2026-08-01, com efeitos a partir de 2024-09-19."
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Nos termos do disposto no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os candidatos aos apoios previstos na presente portaria devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nc) Terem a situação regularizada em matéria de reposições, no âmbito do financiamento do FEADER e do FEAGA ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nd) Não terem apresentado a mesma candidatura, no âmbito da qual ainda esteja a decorrer o processo de decisão ou em que a decisão sobre o pedido de financiamento tenha sido favorável, exceto nas situações em que tenha sido apresentada desistência.\n\n2 - Sem prejuízo dos critérios de elegibilidade referidos no número anterior, os candidatos aos apoios previstos na presente portaria devem, ainda, cumprir o seguinte:\n\na) Terem sido reconhecidos após o dia 31 de agosto de 2021;\n\nb) Não terem o seu reconhecimento suspenso;\n\nc) Não terem recebido apoio equivalente no Programa de Desenvolvimento Rural 2014-2020 (PDR2020);\n\nd) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito dos Fundos Europeus;\n\ne) Enquadrarem-se na definição de micro, pequenas e médias empresas (PME), nos termos da Recomendação 2003/361/CE, da Comissão, de 6 de maio de 2003;\n\nf) Demonstrarem ter meios para assegurar o financiamento próprio das atividades propostas no plano de ação, a que se refere o artigo seguinte;\n\ng) Possuírem registo e declaração do beneficiário efetivo devidamente atualizada, sempre que se trate de beneficiários sujeitos ao Regime Jurídico do Registo Central do Beneficiário Efetivo (RCBE);\n\nh) Apresentarem uma situação económica e financeira equilibrada, evidenciada através de uma situação líquida positiva, para os candidatos com três ou mais anos de atividade.\n\n3 - Além do disposto no presente artigo, quando as candidaturas respeitem ao setor vitivinícola, o reconhecimento como organização de produtores deve ter resultado da fusão de duas ou mais entidades coletivas em que, cumulativamente:\n\na) Cada uma das pessoas coletivas não tenha sido previamente reconhecida como organização ou agrupamento de produtores;\n\nb) O volume de negócios de cada uma das pessoas coletivas corresponda, no mínimo, a 20 % do volume total de negócios da organização ou agrupamento de produtores reconhecidos;\n\nc) A fusão tenha resultado na criação de uma nova pessoa coletiva ou na incorporação de uma ou mais pessoas coletivas numa outra;\n\nd) A fusão tenha ocorrido até três meses antes da apresentação do pedido de reconhecimento.\n\n4 - As condições previstas nas alíneas a), c) e d) do n.º 1 e nas alíneas a), b), c), d), e), f) e h) do n.º 2 e no n.º 3 devem encontrar-se cumpridas à data da submissão da candidatura.\n\n5 - A condição prevista na alínea b) do n.º 1 pode ser aferida até ao momento da apresentação do primeiro pedido de pagamento e a condição prevista na alínea g) do n.º 2 pode ser aferida até à data da decisão da candidatura.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652), em vigor a partir de 2026-08-01, com efeitos a partir de 2024-09-19."
+  }
+ }
+}

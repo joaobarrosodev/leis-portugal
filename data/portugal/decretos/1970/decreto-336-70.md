@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:141612:por
+title: Decreto n.º 336/70
+short_title: null
+summary: Aprova e põe em execução o Regulamento da Junta Nacional da Marinha Mercante
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Marinha
+proposing_entity: null
+official_number: 336/70
+official_date: null
+publication_date: '1970-07-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 163/1970, Série I de 1970-07-15
+  number: '163'
+  series: I
+  supplement: null
+  pages: 930 - 932
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/07/16300/09300932.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '141612'
+  dre_path: /dr/detalhe/decreto/336-1970-141612
+  internal: pt:dre:141612:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/336-1970-141612
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/336-1970-141612
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:13:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 608722b874f1ff5d0cb624a87c52aa7d54d0e677695310dc5f0b6363759b55f3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:13:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 336/70
+
+Considerando a conveniência de regulamentar a estrutura interna da Junta Nacional da Marinha Mercante;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. É aprovado e posto em execução o Regulamento da Junta Nacional da Marinha Mercante, que faz parte integrante deste decreto.
+
+REGULAMENTO DA JUNTA NACIONAL DA MARINHA MERCANTE
+
+### CAPÍTULO I
+
+#### SECÇÃO I
+
+Dos órgãos e serviços
+
+Artigo 1.º - 1. A Junta Nacional da Marinha Mercante (J. N. M. M.) é constituída por:
+
+Um presidente;
+
+Um vice-presidente;
+
+Um representante do Ministério do Ultramar;
+
+Um representante do Ministério da Economia;
+
+Um representante do Ministério das Comunicações;
+
+Quatro representantes dos armadores.
+
+2. Para o desempenho das tarefas que lhe competem, a J. N. M. M. dispõe de:
+
+a) Gabinete da Presidência;
+
+b) Núcleo de Planeamento e Estudos;
+
+c) Secretário-Geral;
+
+d) Repartições:
+
+1.ª Repartição;
+
+2.ª Repartição;
+
+3.ª Repartição;
+
+e) Secretaria Central;
+
+f) Consultores;
+
+g) Conselho Administrativo;
+
+h) Serviço de Contabilidade e Tesouraria;
+
+i) Serviço de Mecanografia;
+
+j) Delegações.
+
+#### SECÇÃO II — Gabinete da Presidência
+
+Art. 2.º Ao Gabinete da Presidência compete assegurar os serviços de expediente e de relações externas que lhe forem cometidos directamente pela presidência.
+
+#### SECÇÃO III — Núcleo de Planeamento e Estudos
+
+Art. 3.º - 1. O Núcleo de Planeamento e Estudos (N. P. E.) funciona nas condições a que se refere o n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, no que respeita ao sector da marinha de comércio, e também como gabinete de estudos, competindo-lhe, como tal, elaborar pareceres, colher e prestar informações, realizar estudos, organizar publicações e coligir documentação.
+
+2. O N. P. E. compreende:
+
+Sector de Planeamento;
+
+Sector Económico e Financeiro;
+
+Sector Técnico;
+
+Sector de Documentação e Informação;
+
+Biblioteca.
+
+3. O N. P. E. é dirigido pelo presidente da Junta, que poderá ser coadjuvado, no desempenho das respectivas funções, por um director-adjunto.
+
+#### SECÇÃO IV — Secretário-geral
+
+Art. 4.º - 1. Ao secretário-geral compete coadjuvar a presidência em todos os trabalhos que lhe sejam cometidos, coordenar o funcionamento dos diversos órgãos da Junta e elaborar as actas das sessões.
+
+2. O secretário-geral é directamente auxiliado no desempenho das suas funções por um secretário-geral adjunto.
+
+#### SECÇÃO V — Repartições
+
+Art. 5.º - 1. À 1.ª Repartição compete: estudar as tarifas de fretes e passagens e fiscalizar o seu cumprimento; organizar, coordenar e fiscalizar a distribuição de praças e as prioridades de embarque; apurar o aproveitamento da capacidade de carga dos navios; analisar os contratos de fretamento e proceder à conferência dos manifestos de carga contabilizados.
+
+2. A 1.ª Repartição compreende as seguintes secções:
+
+a) 1.ª Secção - Tarifas e Praças;
+
+b) 2.ª Secção - Conferência.
+
+Art. 6.º - 1. À 2.ª Repartição compete: organizar o cadastro dos navios, o dos armadores e o dos afretadores e a lista da posição dos navios; planear a utilização dos navios nas carreiras regulares; estudar os pedidos de autorização de afretamentos de navios nacionais ou estrangeiros e os de afretamentos de navios nacionais; estudar os pedidos de autorização de viagens extraordinárias, de inscrição de armadores, de registo e de abate de navios na Direcção da Marinha Mercante, os assuntos respeitantes à reserva de tráfego e ainda os relativos às condições de vida do pessoal da marinha de comércio.
+
+2. A 2.ª Repartição compreende as seguintes secções:
+
+a) 1.ª Secção - Cadastro;
+
+b) 2.ª Secção - Exploração.
+
+Art. 7.º - 1. À 3.ª Repartição compete elaborar a estatística dos passageiros e das cargas.
+
+2. A 3.ª Repartição compreende as seguintes secções:
+
+a) 1.ª Secção - Cargas;
+
+b) 2.ª Secção - Passagens.
+
+#### SECÇÃO VI — Secretaria Central
+
+Art. 8.º - 1. À Secretaria Central compete executar os serviços de expediente, registo e arquivo da correspondência, os de registo e movimento do pessoal e outras tarefas que lhe sejam atribuídas.
+
+2. A Secretaria Central compreende as seguintes secções:
+
+a) 1.ª Secção - Expediente e Pessoal;
+
+b) 2.ª Secção - Arquivo.
+
+3. A Secretaria Central é dirigida pelo secretário-geral adjunto.
+
+#### SECÇÃO VII — Consultores
+
+Art. 9.º - 1. Aos consultores compete dar parecer sobre os assuntos que lhes sejam submetidos pela presidência, organizar e informar os processos da sua especialidade que lhes sejam distribuídos e prestar a colaboração que lhes seja pedida pelo N. P. E.
+
+2. Compete ainda ao consultor jurídico informar, organizar e acompanhar os processos de carácter contencioso.
+
+#### SECÇÃO VIII — Conselho Administrativo
+
+Art. 10.º - 1. Ao Conselho Administrativo compete fiscalizar a aplicação das receitas, estudar os projectos de orçamento e a conta de gerência de cada ano económico, aprovar o balanço anual, assinar os cheques e outros documentos relativos ao levantamento de fundos e todas as demais atribuições que lhe sejam conferidas por lei.
+
+2. O Conselho Administrativo é presidido pelo presidente da Junta e constituído, mais, pelo vice-presidente e pelo vogal que foi designado por despacho do Ministro da Marinha.
+
+#### SECÇÃO IX — Serviço de Contabilidade e Tesouraria
+
+Art. 11.º - 1. Ao Serviço de Contabilidade e Tesouraria compete: organizar e manter em funcionamento o serviço de contabilidade e escriturar os respectivos livros; preparar as propostas orçamentais e as contas de gerência; organizar o cadastro do património da Junta; efectuar as cobranças, recebimentos e pagamentos; organizar concursos para fornecimento de material, e, de uma maneira geral, tratar de todos os assuntos relativos à administração financeira da Junta.
+
+2. O Serviço de Contabilidade e Tesouraria compreende as seguintes secções:
+
+a) 1.ª Secção - Contabilidade;
+
+b) 2.ª Secção - Tesouraria.
+
+#### SECÇÃO X — Serviço de Mecanografia
+
+Art. 12.º - 1. O Serviço de Mecanografia destina-se a aplicar métodos mecanográficos nos trabalhos em que seja vantajoso o emprego desses métodos.
+
+2. O chefe do Serviço de Mecanografia fica directamente subordinado ao chefe da 3.ª Repartição.
+
+#### SECÇÃO XI — Delegações
+
+Art. 13.º - 1. Aos delegados da J. N. M. M. compete velar pelo cumprimento das decisões da Junta nas áreas da sua jurisdição, bem como exercer as atribuições que lhes sejam conferidas pelo presidente.
+
+2. A criação de delegações ou a nomeação de delegados da J. N. M. M. carecem de prévia aprovação do Ministro da Marinha, dada por simples despacho, sob proposta da Junta.
+
+### CAPÍTULO II — Do pessoal
+
+Art. 14.º - 1. O pessoal em serviço na J. N. M. M. compreende:
+
+a) O do quadro, que figura no orçamento anual da Junta;
+
+b) O contratado com carácter eventual, para ocorrer a necessidades de natureza temporária.
+
+2. Em relação ao pessoal referido na alínea a) do número anterior, adoptar-se-á regime análogo ao estabelecido para o pessoal do quadro do pessoal civil do Ministério da Marinha.
+
+Art. 15. º - 1. Poderão ser contratadas ou subsidiadas pessoas para a efectivação dos estudos e demais trabalhos de que a Junta careça.
+
+2. As remunerações dos estudos e trabalhos referidos no número anterior poderão ser pagas de uma só vez, ou mensalmente, ou conforme for acordado, competindo a sua fixação ao presidente, ouvido o Conselho Administrativo, para efeito de cabimento de verba.
+
+Art. 16.º Todo o trabalho executado fora das horas normais de serviço ou sujeito a períodos de tempo além do normal e como tal classificado pelo presidente será considerado trabalho extraordinário e remunerado nos termos legais.
+
+Art. 17.º A J. N. M. M. elaborará os seus regulamentos internos, de harmonia com os princípios fixados neste Regulamento, e submetê-los-á à aprovação do Ministro da Marinha.
+
+Marcello Caetano - Manuel Pereira Crespo.
+
+Promulgado em 3 de Julho de 1970.
+
+Publique-se.
+
+Presidência da República, 15 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

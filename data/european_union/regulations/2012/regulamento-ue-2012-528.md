@@ -1,0 +1,5117 @@
+---
+schema_version: '1.0'
+id: eu:celex:32012R0528:por
+title: Regulamento (UE) n. ° 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012
+short_title: null
+summary: Regulamento (UE) n. ° 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012 , relativo à disponibilização
+  no mercado e à utilização de produtos biocidas Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2012/528
+official_date: null
+publication_date: '2012-06-27'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 167 de 27.6.2012
+  number: '167'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2012-07-17'
+- '2013-09-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-08-19'
+version_history:
+  file: regulamento-ue-2012-528.versoes.json
+  count: 11
+  source_lastmod: '2026-08-19'
+  versions:
+  - date: '2012-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-23'
+    amending: eu:celex:32013R0736:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 736/2013 DA COMISSÃO de 17 de maio de 2013; REGULAMENTO DELEGADO (UE) N.
+      o 837/2013 DA COMISSÃO de 25 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 20.º — Requisitos dos pedidos de autorização
+    - Altera Artigo 28.º — Alteração do Anexo I
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera Artigo 97.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Adita TÍTULO 1
+    - Adita SUBSTÂNCIAS QUÍMICAS
+    - Adita TÍTULO 2
+    - Adita MICRORGANISMOS
+    - Adita ANEXO III
+    - Adita REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA OS PRODUTOS BIOCIDAS
+    - Adita PRODUTOS QUÍMICOS
+    - Adita ANEXO IV
+    - Adita REGRAS GERAIS PARA A ADAPTAÇÃO DOS REQUISITOS EM MATÉRIA DE DADOS
+    - Adita 1. ENSAIOS QUE SE AFIGURAM DESNECESSÁRIOS DO PONTO DE VISTA CIENTÍFICO
+    - Adita 1.1. Utilização de dados já existentes
+    - Adita 1.2. Suficiência de prova
+    - Adita 1.3. Relação qualitativa ou quantitativa estrutura-atividade — (Q)SAR
+    - Adita 1.4. Métodos in vitro
+    - Adita 1.5. Agrupamento de substâncias e métodos comparativos por interpolação
+    - Adita 2. IMPOSSIBILIDADE TÉCNICA DE REALIZAR OS ENSAIOS
+    - Adita 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS AO PRODUTO
+    - Adita ANEXO V
+    - Adita TIPOS DE PRODUTOS BIOCIDAS E SUA DESCRIÇÃO, NA ACEÇÃO DO ARTIGO 2.º, N.º 1
+    - 'Adita GRUPO 1: Desinfetantes'
+    - 'Adita Tipo de produtos 1: Higiene humana'
+    - 'Adita Tipo de produtos 2: Desinfetantes e algicidas não destinados a aplicação direta em seres humanos ou animais'
+    - 'Adita Tipo de produtos 3: Higiene veterinária'
+    - 'Adita Tipo de produtos 4: Superfícies em contacto com os géneros alimentícios e alimentos para animais'
+  - date: '2014-04-25'
+    amending: eu:celex:32014R0334:por
+    amending_title: REGULAMENTO (UE) N. o 334/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 23.º — Avaliação comparativa de produtos biocidas
+    - Altera Artigo 34.º — Reconhecimento mútuo paralelo
+    - Altera Artigo 35.º — Comunicação das objeções ao grupo de coordenação
+    - Altera Artigo 37.º — Derrogações ao reconhecimento mútuo
+    - Altera Artigo 45.º — Apresentação e aceitação dos pedidos
+    - Altera Artigo 53.º — Comércio paralelo
+    - Altera Artigo 54.º — Avaliação da equivalência técnica
+    - Altera Artigo 56.º — Investigação e desenvolvimento
+    - Altera Artigo 58.º — Colocação no mercado de artigos tratados
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 60.º — Períodos de proteção dos dados
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 67.º — Acesso do público por via eletrónica
+    - Altera Artigo 76.º — Secretariado da Agência
+    - Altera Artigo 77.º — Recurso
+    - Altera Artigo 78.º — Orçamento da Agência
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera Artigo 92.º — Medidas transitórias relativas aos produtos biocidas autorizados/registados ao abrigo da Diretiva
+      98/8/CE
+    - Altera Artigo 93.º — Medidas transitórias relativas aos produtos biocidas não abrangidos pelo âmbito de aplicação da
+      Diretiva 98/8/CE
+    - Altera Artigo 94.º — Medidas transitórias relativas aos artigos tratados
+    - Altera Artigo 95.º — Medidas transitórias relativas ao acesso ao dossier da substância ativa
+    - Altera Artigo 96.º — Revogação
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - 'Altera Tipo de produtos 4: Superfícies em contacto com os géneros alimentícios e alimentos para animais'
+    - Altera TERMOS E DEFINIÇÕES
+    - Altera CONCLUSÕES
+    - Altera Notas
+    - Adita Artigo 52.º — Período de graça
+    - Adita Artigo 86.º — Substâncias ativas incluídas no anexo I da Diretiva 98/8/CE
+    - Suprime Artigo 52.º — Período derrogatório
+    - Suprime Artigo 86.º — Substâncias ativas incluídas no Anexo I da Diretiva 98/8/CE
+  - date: '2019-11-20'
+    amending: eu:celex:32019R1819:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1819 da Comissão de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1820
+      DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1821 DA Comissão de 8 de agosto de 2019; REGULAMENTO
+      DELEGADO (UE) 2019/1822 DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1823 DA COMISSÃO de 8 de
+      agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1824 DA COMISSÃO de 8 de agosto de 2019; REGULAMENTO DELEGADO (UE) 2019/1825
+      DA COMISSÃO de 8 de agosto de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera TERMOS E DEFINIÇÕES
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2021-03-29'
+    amending: eu:celex:32021R0407:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/407 DA COMISSÃO de 3 de novembro de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera 1. ENSAIOS QUE SE AFIGURAM DESNECESSÁRIOS DO PONTO DE VISTA CIENTÍFICO
+    - 'Altera GRUPO 1: Desinfetantes'
+    - 'Altera GRUPO 2: Conservantes'
+    - 'Altera GRUPO 3: Produtos de controlo de animais prejudiciais'
+    - 'Altera GRUPO 4: Outros produtos biocidas'
+    - Altera TERMOS E DEFINIÇÕES
+    - Altera CONCLUSÕES
+    - Altera Notas
+    - Suprime 1.1. Utilização de dados já existentes
+    - Suprime 1.2. Suficiência de prova
+    - Suprime 1.3. Relação qualitativa ou quantitativa estrutura-atividade — (Q)SAR
+    - Suprime 1.4. Métodos in vitro
+    - Suprime 1.5. Agrupamento de substâncias e métodos comparativos por interpolação
+    - 'Suprime Tipo de produtos 1: Higiene humana'
+    - 'Suprime Tipo de produtos 2: Desinfetantes e algicidas não destinados a aplicação direta em seres humanos ou animais'
+    - 'Suprime Tipo de produtos 3: Higiene veterinária'
+    - 'Suprime Tipo de produtos 4: Superfícies em contacto com os géneros alimentícios e alimentos para animais'
+    - 'Suprime Tipo de produtos 5: Água potável'
+    - 'Suprime Tipo de produtos 6: Conservantes para produtos durante o armazenamento'
+    - 'Suprime Tipo de produtos 7: Produtos de proteção de películas'
+    - 'Suprime Tipo de produtos 8: Produtos de proteção da madeira'
+    - 'Suprime Tipo de produtos 9: Produtos de proteção de fibras, couro, borracha e materiais polimerizados'
+    - 'Suprime Tipo de produtos 10: Produtos de proteção de materiais de construção'
+    - 'Suprime Tipo de produtos 11: Produtos de proteção de líquidos utilizados nos sistemas de arrefecimento e processamento'
+    - 'Suprime Tipo de produtos 12: Produtos de proteção contra secreções viscosas'
+    - 'Suprime Tipo de produtos 13: Produtos de proteção para os fluidos utilizados no processamento ou corte'
+    - 'Suprime Tipo de produtos 14: Rodenticidas'
+    - 'Suprime Tipo de produtos 15: Avicidas'
+  - date: '2021-06-10'
+    amending: eu:celex:32021R0806:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/806 DA COMISSÃO de 10 de março de 2021; REGULAMENTO DELEGADO (UE) 2021/807
+      DA COMISSÃO de 10 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2022-04-15'
+    amending: eu:celex:32021R0525:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/525 DA COMISSÃO de 19 de outubro de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera MICRORGANISMOS
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA OS PRODUTOS BIOCIDAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2024-05-26'
+    amending: eu:celex:32024R1290:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1290 DA COMISSÃO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2024-06-11'
+    amending: eu:celex:32024R1398:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1398 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2026-06-15'
+    amending: eu:celex:32026R1165:por
+    amending_title: REGULAMENTO (UE) 2026/1165 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 60.º — Períodos de proteção dos dados
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera Artigo 95.º — Medidas transitórias relativas ao acesso ao dossier da substância ativa
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+  - date: '2026-08-19'
+    amending: eu:celex:32026R0447:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/447 DA COMISSÃO de 27 de fevereiro de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 19.º — Condições de concessão da autorização
+    - Altera Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+    - Altera Artigo 63.º — Compensação pela partilha de dados
+    - Altera Artigo 65.º — Cumprimento dos requisitos
+    - Altera Artigo 66.º — Confidencialidade
+    - Altera Artigo 89.º — Medidas transitórias
+    - Altera ANEXO I
+    - Altera REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera CONCLUSÕES
+    - Altera Notas
+identifiers:
+  celex: 32012R0528
+  eli: http://data.europa.eu/eli/reg/2012/528/oj
+  oj: oj:JOL_2012_167_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32012R0528:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32012R0528
+  metadata_url: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0528-20260819
+  retrieved_at: '2026-10-22T16:00:14Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-07-12T21:08:19.123+02:00'
+integrity:
+  source_sha256: 7e9f3130db0d98b85936dbac194577c77b7b2b1f12f59ece878b7cd8aa55f81c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:00:14Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2012-528.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- autorização de venda
+- controlo da UE
+- norma de comercialização
+- princípio de reconhecimento mútuo
+- produto químico
+relationships:
+- type: amended_by
+  target: celex:32013R0736
+  label: null
+  source: http://publications.europa.eu/resource/cellar/16808c62-f9bb-11e2-a352-01aa75ed71a1
+  date: '2013-07-31'
+- type: amended_by
+  target: celex:32013R0837
+  label: null
+  source: http://publications.europa.eu/resource/cellar/57b1e83e-146b-11e3-8d1c-01aa75ed71a1
+  date: '2013-09-03'
+- type: amended_by
+  target: celex:32014R0334
+  label: null
+  source: http://publications.europa.eu/resource/cellar/827eccc2-bc8f-11e3-86f9-01aa75ed71a1
+  date: '2014-04-05'
+- type: amended_by
+  target: celex:32019R1819
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8a0d8fe4-fbce-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32019R1820
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f51aa70d-fbce-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32019R1821
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3b675383-fbcf-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32019R1822
+  label: null
+  source: http://publications.europa.eu/resource/cellar/77467989-fbcf-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32019R1823
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c37b997a-fbcf-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32019R1824
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3485214b-fbd0-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32019R1825
+  label: null
+  source: http://publications.europa.eu/resource/cellar/70c2bafc-fbd0-11e9-8c1f-01aa75ed71a1
+  date: '2019-10-31'
+- type: amended_by
+  target: celex:32021R0407
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a714ac59-8079-11eb-9ac9-01aa75ed71a1
+  date: '2021-03-09'
+- type: amended_by
+  target: celex:32021R0525
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e15f6dec-8dd5-11eb-b85c-01aa75ed71a1
+  date: '2021-03-26'
+- type: amended_by
+  target: celex:32021R0806
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd8738b9-b9ce-11eb-8aca-01aa75ed71a1
+  date: '2021-05-21'
+- type: amended_by
+  target: celex:32021R0807
+  label: null
+  source: http://publications.europa.eu/resource/cellar/11c4545a-b9cf-11eb-8aca-01aa75ed71a1
+  date: '2021-05-21'
+- type: amended_by
+  target: celex:32024R1290
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1bdf7c1d-0b43-11ef-a251-01aa75ed71a1
+  date: '2024-05-06'
+- type: amended_by
+  target: celex:32024R1398
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f02ae35e-17d5-11ef-a251-01aa75ed71a1
+  date: '2024-05-22'
+- type: amended_by
+  target: celex:32026R1165
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8491e68b-589d-11f1-b3e2-01aa75ed71a1
+  date: '2026-05-26'
+- type: amended_by
+  target: celex:32026R0447
+  label: null
+  source: http://publications.europa.eu/resource/cellar/98ceb5c2-8bae-11f1-9262-01aa75ed71a1
+  date: '2026-07-30'
+- type: amends
+  target: celex:32007L0047
+  label: null
+  source: http://publications.europa.eu/resource/cellar/306c4cb2-f94c-418c-8e5c-2046870d8df3
+  date: '2007-09-24'
+- type: based_on
+  target: celex:12010E114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/94bc087a-00f3-4733-bc23-0b3e1f99704e
+  date: '2010-04-27'
+- type: based_on
+  target: celex:12010E294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5a84f05-84b6-456e-92d5-e94879c9719a
+  date: '2010-04-27'
+- type: cited_by
+  target: pt:dre:1019913970:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1062229490:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114177787:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114315242:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:186429710:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:220113533:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:640931:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31967L0548
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8e12a450-cb71-4356-bd3b-8a9f980208a0
+- type: cites
+  target: celex:31989L0391
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3
+- type: cites
+  target: celex:31990L0167
+  label: null
+  source: http://publications.europa.eu/resource/cellar/794f9320-3143-40b4-9ad6-48929cebae0f
+- type: cites
+  target: celex:31990L0385
+  label: null
+  source: http://publications.europa.eu/resource/cellar/547dd0d3-0d47-4a21-8fab-32952d0659fd
+- type: cites
+  target: celex:31993L0042
+  label: null
+  source: http://publications.europa.eu/resource/cellar/13ac0254-4e7f-41e0-9549-2ed1602dc869
+- type: cites
+  target: celex:31993R0315
+  label: null
+  source: http://publications.europa.eu/resource/cellar/928b6e8f-0a41-449b-a8fd-b514d78b2d31
+- type: cites
+  target: celex:31998L0024
+  label: null
+  source: http://publications.europa.eu/resource/cellar/188ca3d7-2255-4541-bbc9-1142e9b6b33b
+- type: cites
+  target: celex:31998L0079
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e75ab18e-d0ef-4ddb-9d74-72d300b4cc4e
+- type: cites
+  target: celex:31998L0083
+  label: null
+  source: http://publications.europa.eu/resource/cellar/880a8575-7ee4-438e-b953-567df6719e26
+- type: cites
+  target: celex:31999L0045
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4c797e5d-9d31-49ad-9c19-096dd1457bef
+- type: cites
+  target: celex:32000L0054
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4e97e2e4-4e7a-4683-abd4-f4ed61e36622
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5c835afb-2ec6-4577-bdf8-756d3d694eeb
+- type: cites
+  target: celex:32001L0082
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2c47535-c88b-4327-b1cc-037151f17287
+- type: cites
+  target: celex:32001L0083
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6af3ed69-c00a-4629-9deb-a7003a30a52d
+- type: cites
+  target: celex:32001R1049
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2063659d-65fc-4956-b086-8f5a0a2cb9d1
+- type: cites
+  target: celex:32002L0032
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aca28b8c-bf9d-444f-b470-268f71df28fb
+- type: cites
+  target: celex:32002R0178
+  label: null
+  source: http://publications.europa.eu/resource/cellar/72de3b0c-c182-4754-9a9c-8cc5217c60f8
+- type: cites
+  target: celex:32003H0361
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6ca8d655-126b-4a42-ada4-e9058fa45155
+- type: cites
+  target: celex:32003R1831
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c746ceb6-1330-4b77-9a2e-5a7705b22c33
+- type: cites
+  target: celex:32004D0210
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e19578aa-531f-4a76-9810-4196b7071b33
+- type: cites
+  target: celex:32004L0037
+  label: null
+  source: http://publications.europa.eu/resource/cellar/308eb2e0-b58b-4464-abb4-bcf98a4eb0e1
+- type: cites
+  target: celex:32004R0726
+  label: null
+  source: http://publications.europa.eu/resource/cellar/76810f3f-d7a4-4393-878f-99fff4602ffc
+- type: cites
+  target: celex:32004R0850
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e849ca54-f5a3-4258-a497-7754671b7e22
+- type: cites
+  target: celex:32004R0852
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fb8c29a0-3cfc-40ad-b787-13f9e0394e33
+- type: cites
+  target: celex:32004R0853
+  label: null
+  source: http://publications.europa.eu/resource/cellar/979cc87c-97fa-42bc-a68f-680da2207dd2
+- type: cites
+  target: celex:32004R1935
+  label: null
+  source: http://publications.europa.eu/resource/cellar/08a6f2ca-ddae-4630-801b-debd699a5af2
+- type: cites
+  target: celex:32005R0396
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8922e251-ea29-482d-a2b2-6ba6f46e5255
+- type: cites
+  target: celex:32006L0114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4c8ec05e-e077-4151-a617-5b003fb3a8bf
+- type: cites
+  target: celex:32006R1907
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d
+- type: cites
+  target: celex:32007R1451
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8d3763ee-7b02-4c80-a715-9d561497851b
+- type: cites
+  target: celex:32008L0098
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a32ddb30-1a98-4911-964a-e4f4f638f20d
+- type: cites
+  target: celex:32008R0689
+  label: null
+  source: http://publications.europa.eu/resource/cellar/67c11c0f-cbfb-476a-a8b7-0a0bbfae615d
+- type: cites
+  target: celex:32008R0765
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdd70f57-7032-4121-92ae-ccf8ef68c15b
+- type: cites
+  target: celex:32008R1272
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6bf54b59-7673-461b-b8e1-f24c545cbd3c
+- type: cites
+  target: celex:32008R1333
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5592f1d-052b-4267-91e8-97a4ffe1cfaa
+- type: cites
+  target: celex:32008R1334
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8fc1cd92-6188-47d5-b4cb-a86f083f5c48
+- type: cites
+  target: celex:32009L0048
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab7917e6-0d8a-42e4-b4df-0bbd7d927cc1
+- type: cites
+  target: celex:32009L0128
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7999c7a0-ec46-4e57-95e0-1d692de9d9a5
+- type: cites
+  target: celex:32009R0470
+  label: null
+  source: http://publications.europa.eu/resource/cellar/49bddfd2-6ee5-400e-bf90-f09e7298c7ef
+- type: cites
+  target: celex:32009R0767
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8ae984e4-562c-48b5-a551-ca6bbd8a5636
+- type: cites
+  target: celex:32009R1107
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1ad90f5a-4dfe-4ad2-adda-e290d0e23c8b
+- type: cites
+  target: celex:32009R1223
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4100396c-575c-4150-8d92-e7c23ab1ce97
+- type: cites
+  target: celex:32010L0063
+  label: null
+  source: http://publications.europa.eu/resource/cellar/169b16db-cb47-46e3-aff5-caa8009ec295
+- type: cites
+  target: celex:32010L0075
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c7191b72-4e07-4712-86d6-d3ae5e4f0082
+- type: cites
+  target: celex:32011H0696
+  label: null
+  source: http://publications.europa.eu/resource/cellar/17af73d9-da70-4a46-a421-c62e3d1df6ce
+- type: cites
+  target: celex:32011R0182
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cccf5222-feb3-4dc3-a4ca-9a5ec75e49af
+- type: corrected_by
+  target: celex:32012R0528R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6c52db60-8681-11e4-b8a5-01aa75ed71a1
+  date: '2014-12-18'
+- type: corrected_by
+  target: celex:32012R0528R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/68e1950e-89dd-11e5-b8b7-01aa75ed71a1
+  date: '2015-11-13'
+- type: corrected_by
+  target: celex:32012R0528R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e91e1baf-8f53-11e5-983e-01aa75ed71a1
+  date: '2015-11-20'
+- type: corrected_by
+  target: celex:32012R0528R(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b65ba578-05f3-11e6-b713-01aa75ed71a1
+  date: '2016-04-19'
+- type: corrected_by
+  target: celex:32012R0528R(05)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/30d5f99f-2f99-11e6-b497-01aa75ed71a1
+  date: '2016-06-11'
+- type: corrected_by
+  target: celex:32012R0528R(06)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b14f3977-1375-11e7-808e-01aa75ed71a1
+  date: '2017-03-28'
+- type: corrected_by
+  target: celex:32012R0528R(07)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9de2bc0d-9e94-11e7-b92d-01aa75ed71a1
+  date: '2017-09-21'
+- type: corrected_by
+  target: celex:32012R0528R(08)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0c023dad-bba9-11e7-a7f8-01aa75ed71a1
+  date: '2017-10-28'
+- type: corrected_by
+  target: celex:32012R0528R(09)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b0603a48-baa4-11e9-9d01-01aa75ed71a1
+  date: '2019-08-09'
+- type: corrected_by
+  target: celex:32012R0528R(10)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/08a74c05-2fc0-11eb-b27b-01aa75ed71a1
+  date: '2020-11-26'
+- type: corrected_by
+  target: celex:32012R0528R(11)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/df711cbd-e247-11ec-a534-01aa75ed71a1
+  date: '2022-06-02'
+- type: corrected_by
+  target: celex:32012R0528R(12)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/686bdd60-be4a-11ed-8912-01aa75ed71a1
+  date: '2023-03-09'
+- type: corrected_by
+  target: celex:32012R0528R(13)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0a34fa61-9269-11ef-a130-01aa75ed71a1
+  date: '2024-10-25'
+- type: corrected_by
+  target: celex:32012R0528R(14)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7d86c5ed-e29a-11ef-be2a-01aa75ed71a1
+  date: '2025-02-04'
+- type: corrected_by
+  target: celex:32012R0528R(15)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3425cdae-33ac-11f1-be39-01aa75ed71a1
+  date: '2026-04-09'
+- type: implicitly_repeals
+  target: celex:32012L0020
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dff3f241-c9b7-11e1-b84a-01aa75ed71a1
+  date: '2012-07-06'
+- type: implicitly_repeals
+  target: celex:32012L0022
+  label: null
+  source: http://publications.europa.eu/resource/cellar/17382c8f-ee05-11e1-8e28-01aa75ed71a1
+  date: '2012-08-22'
+- type: implicitly_repeals
+  target: celex:32012L0038
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8ddc0185-3a4b-11e2-b7ce-01aa75ed71a1
+  date: '2012-11-23'
+- type: implicitly_repeals
+  target: celex:32012L0040
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cd619d9b-3a4f-11e2-b7ce-01aa75ed71a1
+  date: '2012-11-26'
+- type: implicitly_repeals
+  target: celex:32012L0041
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3f45a6ee-3a50-11e2-b7ce-01aa75ed71a1
+  date: '2012-11-26'
+- type: implicitly_repeals
+  target: celex:32012L0042
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b27a44e0-3a53-11e2-b7ce-01aa75ed71a1
+  date: '2012-11-26'
+- type: implicitly_repeals
+  target: celex:32013L0003
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6e2f651f-7768-11e2-9294-01aa75ed71a1
+  date: '2013-02-14'
+- type: implicitly_repeals
+  target: celex:32013L0004
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8f4df0f0-7768-11e2-9294-01aa75ed71a1
+  date: '2013-02-14'
+- type: implicitly_repeals
+  target: celex:32013L0005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/132aeb3c-7768-11e2-9294-01aa75ed71a1
+  date: '2013-02-14'
+- type: implicitly_repeals
+  target: celex:32013L0006
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62d20eb5-7c1f-11e2-9294-01aa75ed71a1
+  date: '2013-02-20'
+- type: implicitly_repeals
+  target: celex:32013L0007
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5ddf65fe-7ce6-11e2-9294-01aa75ed71a1
+  date: '2013-02-21'
+- type: implicitly_repeals
+  target: celex:32013L0027
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5721d7b0-c2b9-11e2-ab01-01aa75ed71a1
+  date: '2013-05-17'
+- type: implicitly_repeals
+  target: celex:32013L0041
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9baec2be-f044-11e2-a22e-01aa75ed71a1
+  date: '2013-07-19'
+- type: implicitly_repeals
+  target: celex:32013L0044
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0b7051cb-f9c5-11e2-a352-01aa75ed71a1
+  date: '2013-07-31'
+- type: interpreted_by
+  target: celex:62018CJ0592
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9309ddae-2265-11ea-af81-01aa75ed71a1
+  date: '2019-12-19'
+- type: interpreted_by
+  target: celex:62020CJ0029
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a10a7e7c-2ccd-11ec-bd8e-01aa75ed71a1
+  date: '2021-10-14'
+- type: interpreted_by
+  target: celex:62021CJ0147
+  label: null
+  source: http://publications.europa.eu/resource/cellar/000a6411-97e1-11ed-b508-01aa75ed71a1
+  date: '2023-01-19'
+- type: interpreted_by
+  target: celex:62023CJ0296
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bc8d13cc-2ee7-11ef-a61b-01aa75ed71a1
+  date: '2024-06-20'
+- type: interpreted_by
+  target: celex:62023CJ0809
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e4fe8eb4-056c-11f0-b1a3-01aa75ed71a1
+  date: '2025-03-20'
+- type: repeals
+  target: celex:31998L0008
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd121338-803b-4793-b8bd-6db66b18104a
+  date: '1998-02-16'
+- type: repeals
+  target: celex:32003R1882
+  label: null
+  source: http://publications.europa.eu/resource/cellar/102e48a9-478f-4fee-8b8d-ef9068ea3936
+  date: '2003-10-30'
+- type: repeals
+  target: celex:32006L0050
+  label: null
+  source: http://publications.europa.eu/resource/cellar/54514f75-fcc5-4071-9dc9-ff13c0a60e0d
+  date: '2006-05-29'
+- type: repeals
+  target: celex:32006L0140
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f8fa42b2-1537-4c7a-8a22-b34c05728fef
+  date: '2007-01-03'
+- type: repeals
+  target: celex:32007L0020
+  label: null
+  source: http://publications.europa.eu/resource/cellar/519eaa87-9b56-4064-8c86-d2cf69dcdb84
+  date: '2007-04-04'
+- type: repeals
+  target: celex:32007L0069
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d768efa9-4f35-4498-ae41-dd15236aae12
+  date: '2007-11-29'
+- type: repeals
+  target: celex:32007L0070
+  label: null
+  source: http://publications.europa.eu/resource/cellar/08d49bc1-031b-4123-807f-625d2a6ef3c5
+  date: '2007-11-29'
+- type: repeals
+  target: celex:32008L0015
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9789766f-c3a6-46c8-a072-5ece915912c8
+  date: '2008-02-19'
+- type: repeals
+  target: celex:32008L0016
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cbcfcaaa-af4c-49fa-970e-98536fb8862f
+  date: '2008-02-19'
+- type: repeals
+  target: celex:32008L0031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0714998f-ce36-422e-adbe-d95ab62e1ce5
+  date: '2008-03-21'
+- type: repeals
+  target: celex:32008L0075
+  label: null
+  source: http://publications.europa.eu/resource/cellar/70130707-dedf-43bb-b379-0b58fde52552
+  date: '2008-07-25'
+- type: repeals
+  target: celex:32008L0077
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7456a4bd-f831-4850-8482-7413fc157e75
+  date: '2008-07-28'
+- type: repeals
+  target: celex:32008L0078
+  label: null
+  source: http://publications.europa.eu/resource/cellar/349899bb-1031-49b9-a0ae-d8a64f360bf6
+  date: '2008-07-28'
+- type: repeals
+  target: celex:32008L0079
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8bc2be85-abe4-46ed-880d-428e513a2334
+  date: '2008-07-29'
+- type: repeals
+  target: celex:32008L0080
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8522ddf0-6b86-48bb-93e9-fd73a22b9db0
+  date: '2008-07-29'
+- type: repeals
+  target: celex:32008L0081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7fec7990-22f7-4318-a920-61d44f36cd3f
+  date: '2008-07-30'
+- type: repeals
+  target: celex:32008L0085
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e99a430c-c932-46df-8836-d1c400c3ae76
+  date: '2008-09-08'
+- type: repeals
+  target: celex:32008L0086
+  label: null
+  source: http://publications.europa.eu/resource/cellar/68d7c50c-05d6-42db-b408-45aebea31846
+  date: '2008-09-08'
+- type: repeals
+  target: celex:32009L0084
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4c79fdc6-dcbd-40e6-9a41-2df448581099
+  date: '2009-07-31'
+- type: repeals
+  target: celex:32009L0085
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a54dfb70-d8b0-4c85-bd93-313e38c88cd7
+  date: '2009-08-03'
+- type: repeals
+  target: celex:32009L0086
+  label: null
+  source: http://publications.europa.eu/resource/cellar/caa6e58a-5a6f-42eb-a7a0-849a21eb4ce5
+  date: '2009-08-03'
+- type: repeals
+  target: celex:32009L0087
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b4b63954-9cc4-4691-bddf-77bf2ad1a242
+  date: '2009-08-03'
+- type: repeals
+  target: celex:32009L0088
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5955a08d-ce0f-40ed-a692-caa4e8ce456f
+  date: '2009-08-03'
+- type: repeals
+  target: celex:32009L0089
+  label: null
+  source: http://publications.europa.eu/resource/cellar/687c723b-06af-4fc1-a6b2-abb513827563
+  date: '2009-08-03'
+- type: repeals
+  target: celex:32009L0091
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8295b054-07a7-4f36-b8c9-754ca51ed77b
+  date: '2009-08-04'
+- type: repeals
+  target: celex:32009L0092
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0f7409f4-1e11-40ca-9270-670d2ae5937c
+  date: '2009-08-04'
+- type: repeals
+  target: celex:32009L0093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/935eaedd-4a48-40cd-b2bd-1bba73588c15
+  date: '2009-08-04'
+- type: repeals
+  target: celex:32009L0094
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ee3beaa3-454d-44dc-95b9-3a5ee9a1b342
+  date: '2009-08-04'
+- type: repeals
+  target: celex:32009L0095
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2aa3d2cc-87a2-4ed9-8ec4-ecb10db8fc59
+  date: '2009-08-04'
+- type: repeals
+  target: celex:32009L0096
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b6c3877d-f88a-4c92-949f-e5fb7cba3c59
+  date: '2009-08-04'
+- type: repeals
+  target: celex:32009L0098
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2d92439d-9bfb-4adb-8f58-1f4ad98944e5
+  date: '2009-08-05'
+- type: repeals
+  target: celex:32009L0099
+  label: null
+  source: http://publications.europa.eu/resource/cellar/34b804ca-a6bb-431a-bab1-a84791473b0e
+  date: '2009-08-05'
+- type: repeals
+  target: celex:32009L0107
+  label: null
+  source: http://publications.europa.eu/resource/cellar/880ff499-3714-492d-b523-0f00f714f38c
+  date: '2009-10-06'
+- type: repeals
+  target: celex:32009L0150
+  label: null
+  source: http://publications.europa.eu/resource/cellar/21914857-1aa1-4fc3-ae6a-4609e7f210c0
+  date: '2009-12-02'
+- type: repeals
+  target: celex:32009L0151
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1b613918-bec1-4867-921d-c8ecafe086c8
+  date: '2009-12-02'
+- type: repeals
+  target: celex:32010L0005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6dce0bda-e47c-4dac-9aaa-6388e63ec501
+  date: '2010-02-12'
+- type: repeals
+  target: celex:32010L0007
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fae101e2-8694-497f-88ab-68e5314be4ca
+  date: '2010-02-12'
+- type: repeals
+  target: celex:32010L0008
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3711278f-e958-4b28-b1d5-8e26348d55a5
+  date: '2010-02-12'
+- type: repeals
+  target: celex:32010L0009
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8fe912cc-a881-4d35-9e04-99b3fa81386c
+  date: '2010-02-12'
+- type: repeals
+  target: celex:32010L0010
+  label: null
+  source: http://publications.europa.eu/resource/cellar/77e578d2-2b9f-4ae0-a638-50d3236cf023
+  date: '2010-02-12'
+- type: repeals
+  target: celex:32010L0011
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c05c6e2e-dc99-47d0-b75e-e83641114008
+  date: '2010-02-12'
+- type: repeals
+  target: celex:32010L0050
+  label: null
+  source: http://publications.europa.eu/resource/cellar/33e8e807-f814-4f13-9951-5242e623f2f5
+  date: '2010-08-11'
+- type: repeals
+  target: celex:32010L0051
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1c64fe64-d8cb-493f-99f2-f4c14be0bdf8
+  date: '2010-08-13'
+- type: repeals
+  target: celex:32010L0071
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27f771d0-ad09-4a2e-a635-779ff4eed794
+  date: '2010-11-11'
+- type: repeals
+  target: celex:32010L0072
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d3dbccb8-3799-4ce1-80db-63b108487ad5
+  date: '2010-11-11'
+- type: repeals
+  target: celex:32010L0074
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4a4c30e2-0307-40ab-b707-148921bf5701
+  date: '2010-11-11'
+- type: repeals
+  target: celex:32011L0010
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e5dba6ea-1415-4fd6-b7dd-2c074ab2d3ea
+  date: '2011-02-11'
+- type: repeals
+  target: celex:32011L0011
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ae12e6f8-0db3-484a-8f35-1f3827332b9c
+  date: '2011-02-11'
+- type: repeals
+  target: celex:32011L0012
+  label: null
+  source: http://publications.europa.eu/resource/cellar/de8948ce-533c-44cd-828c-240bf39ac61c
+  date: '2011-02-11'
+- type: repeals
+  target: celex:32011L0013
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdaefd22-9540-4330-be77-1c7c4aefba2d
+  date: '2011-02-11'
+- type: repeals
+  target: celex:32011L0066
+  label: null
+  source: http://publications.europa.eu/resource/cellar/518456c6-f1dc-4bf9-9831-adf68322b616
+  date: '2011-07-04'
+- type: repeals
+  target: celex:32011L0067
+  label: null
+  source: http://publications.europa.eu/resource/cellar/81f9cc05-3a4d-4bbe-a33b-5ff404855e64
+  date: '2011-07-04'
+- type: repeals
+  target: celex:32011L0069
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d8b6cc46-e913-4426-ae13-cde6602f8e50
+  date: '2011-07-04'
+- type: repeals
+  target: celex:32011L0071
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3a5269c5-e651-49ff-9001-405c66f57d55
+  date: '2011-07-27'
+- type: repeals
+  target: celex:32011L0078
+  label: null
+  source: http://publications.europa.eu/resource/cellar/53d5da94-0303-460f-8118-f1ae19871532
+  date: '2011-09-21'
+- type: repeals
+  target: celex:32011L0079
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2d6e7c79-1113-4d9b-aefa-b5b33e13ccbd
+  date: '2011-09-21'
+- type: repeals
+  target: celex:32011L0080
+  label: null
+  source: http://publications.europa.eu/resource/cellar/981aeff6-ce63-435e-9096-e21eb95a66b6
+  date: '2011-09-21'
+- type: repeals
+  target: celex:32011L0081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cf5bd4a5-a1b6-42c2-b936-351eb68324ed
+  date: '2011-09-21'
+- type: repeals
+  target: celex:32012L0002
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7bf7ed1e-4387-49c7-ba9a-57e3233f0503
+  date: '2012-02-10'
+- type: repeals
+  target: celex:32012L0003
+  label: null
+  source: http://publications.europa.eu/resource/cellar/04f74904-ec2c-460c-bd94-7c2b40c87428
+  date: '2012-02-10'
+- type: repeals
+  target: celex:32012L0014
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1122f471-fd12-4bcb-8b33-41cea2ba426a
+  date: '2012-05-10'
+- type: repeals
+  target: celex:32012L0015
+  label: null
+  source: http://publications.europa.eu/resource/cellar/30521da0-29c9-4834-a336-0c47ee1be2b3
+  date: '2012-05-10'
+- type: repeals
+  target: celex:32012L0016
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0e4a2b71-b924-4ea9-a2fc-947cb1a115ac
+  date: '2012-05-11'
+article_structure:
+  article_count: 97
+  section_count: 75
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T16:00:14Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (UE) n. ° 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012
+
+de 22 de maio de 2012
+
+relativo à disponibilização no mercado e à utilização de produtos biocidas
+
+(Texto relevante para efeitos do EEE)
+
+## CAPÍTULO I
+
+### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+
+###### Artigo 1.º — Finalidade e objeto
+
+1. O presente regulamento visa melhorar o funcionamento do mercado interno através da harmonização das normas relativas à disponibilização no mercado e à utilização de produtos biocidas, assegurando simultaneamente um elevado nível de proteção da saúde humana e animal e do ambiente. As disposições do presente regulamento assentam no princípio da precaução, com o qual se pretende preservar a saúde dos seres humanos, a saúde dos animais e o ambiente. Deve ser conferida atenção particular à proteção dos grupos vulneráveis.
+
+2.
+
+O presente regulamento estabelece regras para:
+
+a) A criação, ao nível da União, de uma lista das substâncias ativas que podem ser utilizadas em produtos biocidas;
+
+b) A autorização de produtos biocidas;
+
+c) O reconhecimento mútuo das autorizações na União;
+
+d) A disponibilização no mercado e a utilização de produtos biocidas num ou em vários Estados-Membros ou na União;
+
+e) A colocação no mercado de artigos tratados.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1. O presente regulamento é aplicável aos produtos biocidas e aos artigos tratados. O Anexo V contém uma lista dos tipos de produtos biocidas abrangidos pelo presente regulamento e as respetivas descrições.
+
+2.
+
+Salvo disposição expressa em contrário no presente regulamento ou noutra legislação da União, o presente regulamento não é aplicável aos produtos biocidas nem aos artigos tratados no âmbito dos seguintes atos:
+
+a) Diretiva 90/167/CEE do Conselho, de 26 de março de 1990, que estabelece as condições de preparação, colocação no mercado e utilização dos alimentos medicamentosos para animais na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0001));
+
+b) Diretiva 90/385/CEE, Diretiva 93/42/CEE e Diretiva 98/79/CE;
+
+c) Diretiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários ([^2^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0002)), Diretiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^3^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0003)) e Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, que estabelece procedimentos comunitários de autorização e de fiscalização de medicamentos para uso humano e veterinário e que institui uma Agência Europeia de Medicamentos ([^4^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0004));
+
+d) Regulamento (CE) n.º 1831/2003;
+
+e) Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à higiene dos géneros alimentícios ([^5^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0005)) e Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^6^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0006));
+
+f) Regulamento (CE) n.º 1333/2008;
+
+g) Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aromas e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0007));
+
+h) Regulamento (CE) n.º 767/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, relativo à colocação no mercado e à utilização de alimentos para animais ([^8^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0008));
+
+i) Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativo à colocação dos produtos fitofarmacêuticos no mercado ([^9^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0009));
+
+j) Regulamento (CE) n.º 1223/2009;
+
+k) Diretiva 2009/48/CE do Parlamento Europeu e do Conselho, de 18 de junho de 2009, relativa à segurança dos brinquedos ([^10^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0010)).
+
+Não obstante o disposto no primeiro parágrafo, sempre que um produto biocida seja abrangido pelo âmbito de aplicação de um dos instrumentos atrás referidos e se destine a ser usado para fins não contemplados por esses instrumentos, o presente regulamento é igualmente aplicável a esse produto biocida se os fins a que se destina não forem objeto desses instrumentos.
+
+3.
+
+Salvo disposição expressa em contrário no presente regulamento ou noutra legislação da União, o presente regulamento em nada prejudica o disposto nos seguintes diplomas:
+
+a) Diretiva 67/548/CEE do Conselho, de 27 de junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas ([^11^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0011));
+
+b) Diretiva 89/391/CEE do Conselho, de 12 de junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^12^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0012));
+
+c) Diretiva 98/24/CE do Conselho, de 7 de abril de 1998, relativa à proteção da segurança e da saúde dos trabalhadores contra os riscos ligados à exposição a agentes químicos no trabalho ([^13^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0013));
+
+d) Diretiva 98/83/CE do Conselho, de 3 de novembro de 1998, relativa à qualidade da água destinada ao consumo humano ([^14^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0014));
+
+e) Diretiva 1999/45/CE do Parlamento Europeu e do Conselho, de 31 de maio de 1999, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas ([^15^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0015));
+
+f) Diretiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho ([^16^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0016));
+
+g) Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água ([^17^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0017));
+
+h) Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho ([^18^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0018));
+
+i) Regulamento (CE) n.º 850/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo a poluentes orgânicos persistentes ([^19^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0019));
+
+j) Regulamento (CE) n.º 1907/2006;
+
+k) Diretiva 2006/114/CE do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa à publicidade enganosa e comparativa ([^20^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0020));
+
+l) Regulamento (CE) n.º 689/2008 do Parlamento Europeu e do Conselho, de 17 de junho de 2008, relativo à exportação e importação de produtos químicos perigosos ([^21^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0021));
+
+m) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas ([^22^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0022));
+
+n) Diretiva 2009/128/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas ([^23^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0023));
+
+o) Regulamento (CE) n.º 1005/2009 do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativo às substâncias que empobrecem a camada de ozono ([^24^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0024));
+
+p) Diretiva 2010/63/UE do Parlamento Europeu e do Conselho, de 22 de setembro de 2010, relativa à proteção dos animais utilizados para fins científicos ([^25^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0025));
+
+q) Diretiva 2010/75/UE do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativa às emissões industriais ([^26^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0026)).
+
+4. O artigo 69.º não é aplicável ao transporte de produtos biocidas por via ferroviária, rodoviária, fluvial, marítima ou aérea.
+
+5.
+
+O presente regulamento não é aplicável:
+
+a) Aos géneros alimentícios nem aos alimentos para animais utilizados como repelentes ou chamativos;
+
+b) Produtos biocidas utilizados como adjuvantes tecnológicos na aceção do Regulamento (CE) n.º 1831/2003 e do Regulamento (CE) n.º 1333/2008.
+
+6. Os produtos biocidas que obtiveram a aprovação final ao abrigo da Convenção Internacional para o Controlo e Gestão das Águas de Lastro e Sedimentos dos Navios são considerados autorizados ao abrigo do Capítulo VIII do presente regulamento. Os artigos 47.º e 68.º são aplicáveis no mesmo sentido.
+
+7. Nenhuma disposição do presente regulamento impede os Estados-Membros de restringirem ou proibirem a utilização de produtos biocidas no abastecimento público de água potável.
+
+8. Os Estados-Membros podem prever derrogações ao presente regulamento em casos específicos, no que se refere a determinados produtos biocidas, estremes ou contidos em artigos tratados, quando necessário para os seus interesses em matéria de defesa.
+
+9. A eliminação de substâncias ativas e produtos biocidas efetua-se nos termos da legislação nacional e da União em vigor, em matéria de resíduos.
+
+###### Artigo 3.º — Definições
+
+1.
+
+Para efeitos do presente regulamento, entende-se por:
+
+a) «Produtos biocidas»
+
+— qualquer substância ou mistura, na forma em que são fornecidos ao utilizador, que consistam, contenham ou que gerem uma ou mais substâncias ativas, com o objetivo de destruir, repelir ou neutralizar um organismo prejudicial, prevenir a sua ação ou controlá-la de qualquer outra forma, por meios que não sejam a simples ação física ou mecânica,
+
+— qualquer substância ou mistura gerada a partir de substâncias ou misturas que não sejam abrangidas pelo âmbito de aplicação do primeiro travessão e utilizada com o objetivo de destruir, repelir ou neutralizar um organismo prejudicial, prevenir a sua ação ou controlá-la de qualquer outra forma, por meios que não sejam a simples ação física ou mecânica.
+
+b) «Microrganismo» qualquer entidade microbiológica, celular ou não celular, dotada de capacidade reprodutora ou de transferência de material genético, incluindo fungos inferiores, vírus, bactérias, leveduras, bolores, algas, protozoários e helmintos parasitas microscópicos;
+
+c) «Substância ativa» uma substância ou um microrganismo que exerça uma ação sobre ou contra organismos prejudiciais;
+
+d) «Substância ativa existente» uma substância que se encontrava no mercado em 14 de maio de 2000 enquanto substância ativa de um produto biocida para fins diferentes da investigação e desenvolvimento científicos ou da investigação e desenvolvimento orientados para produtos e processos;
+
+e) «Nova substância ativa» uma substância que não se encontrava no mercado em 14 de maio de 2000 enquanto substância ativa de um produto biocida para fins diferentes da investigação e desenvolvimento científicos ou da investigação e desenvolvimento orientados para produtos e processos;
+
+f) «Substância que suscita preocupação» qualquer substância, com exceção da substância ativa, com capacidade própria para causar de imediato ou num futuro mais distante um efeito adverso nos seres humanos, especialmente nos grupos vulneráveis, nos animais ou no ambiente e que esteja presente ou seja produzida num produto biocida em concentração suficiente para que se verifiquem riscos desse efeito.
+
+— está classificada como substância perigosa ou preenche os critérios para ser classificada como substância perigosa nos termos da Diretiva 67/548/CEE e está presente no produto biocida numa concentração que leva a que este seja considerado perigoso, na aceção dos artigos 5.º, 6.º e 7.º da Diretiva 1999/45/CE, ou
+
+— está classificada como substância perigosa ou preenche os critérios para ser classificada como substância perigosa nos termos do Regulamento (CE) n.º 1272/2008 e está presente no produto biocida numa concentração que leva a que este seja considerado perigoso, na aceção desse regulamento,
+
+— preenche os critérios para ser classificada como poluente orgânico persistente (POP) nos termos do Regulamento (CE) n.º 850/2004, ou preenche os critérios para ser classificada como persistente, bioacumulável e tóxica (PBT) ou muito persistente e muito bioacumulável (mPmB) nos termos do Anexo XIII do Regulamento (CE) n.º 1907/2006;
+
+g) «Organismo prejudicial» um organismo, incluindo agentes patogénicos, cuja presença seja indesejável ou prejudicial para os seres humanos, para as suas atividades ou para os produtos que utilizam ou produzem, ou para os animais ou o ambiente;
+
+h) «Resíduos» substâncias presentes no interior ou à superfície dos produtos de origem vegetal ou animal, nos recursos hídricos, na água potável, nos géneros alimentícios, nos alimentos para animais ou no ambiente e resultantes da utilização de um produto biocida, incluindo os respetivos metabolitos e produtos resultantes da sua degradação ou reação;
+
+i) «Disponibilização no mercado» qualquer fornecimento, no âmbito de uma atividade comercial, de um produto biocida, ou de um artigo tratado, para distribuição ou utilização, a título oneroso ou gratuito;
+
+j) «Colocação no mercado» a primeira disponibilização no mercado de um produto biocida ou de um artigo tratado;
+
+k) «Utilização» todas as operações efetuadas com um produto biocida, incluindo a armazenagem, o manuseamento, a mistura e a aplicação, com exceção das operações realizadas com vista à exportação do produto biocida ou do artigo tratado para fora da União;
+
+l) «Artigo tratado» qualquer substância, mistura ou artigo que tenha sido tratado com um ou mais produtos biocidas ou em que tenha sido intencionalmente incorporado um ou mais produtos biocidas;
+
+m) «Autorização nacional» um ato administrativo pelo qual a autoridade competente de um Estado-Membro autoriza a disponibilização no mercado e a utilização de um produto biocida ou de uma família de produtos biocidas no seu território ou em parte do mesmo;
+
+n) «Autorização da União» um ato administrativo pelo qual a Comissão autoriza a disponibilização no mercado e a utilização de um produto biocida ou de uma família de produtos biocidas no território da União ou em parte do mesmo;
+
+o) «Autorização» uma autorização nacional, uma autorização da União ou uma autorização nos termos do artigo 26.º;
+
+p) «Titular da autorização» a pessoa estabelecida na União responsável pela colocação no mercado de um produto biocida num determinado Estado-Membro ou na União e especificada na autorização;
+
+q) «Tipo de produto» um dos tipos de produtos especificados no Anexo V;
+
+r) «Produto biocida único» um produto biocida que não apresenta variações intencionais da percentagem das substâncias ativas ou não ativas que contém;
+
+s) «Família de produtos biocidas», um grupo de produtos biocidas com:
+
+i) utilizações semelhantes;
+
+ii) as mesmas substâncias ativas;
+
+iii) uma composição semelhante que apresente variações especificadas; e
+
+iv) níveis de risco e de eficácia semelhantes;
+
+t) «Carta de acesso» um documento original, assinado pelo proprietário dos dados ou pelo seu representante, em que declara que os dados podem ser utilizados, em benefício de terceiros, pelas autoridades competentes, pela Agência ou pela Comissão, para efeito do presente regulamento;
+
+u) «Género alimentício» e «alimento para animais» género alimentício, conforme definido no artigo 2.º do Regulamento (CE) n.º 178/2002, e alimento para animais, conforme definido no artigo 3.º, n.º 4, desse mesmo regulamento;
+
+w) «Equivalência técnica» a semelhança, no que diz respeito à composição química e ao perfil de perigo, entre uma substância produzida a partir de uma fonte diferente, ou a partir da mesma fonte de referência, mas após alteração do processo e/ou local de fabrico, em comparação com a substância proveniente da fonte de referência que foi objeto da avaliação de risco inicial, como previsto no artigo 54.º;
+
+x) «Agência» a Agência Europeia dos Produtos Químicos criada pelo Regulamento (CE) n.º 1907/2006;
+
+y) «Publicidade» qualquer meio de promover a venda ou utilização de produtos biocidas por meios impressos, eletrónicos ou outros;
+
+z) «Nano material» uma substância natural ou fabricada ativa ou não ativa, que contém partículas num estado desagregado ou na forma de um agregado ou de um aglomerado, e em cuja distribuição número-tamanho 50 % ou mais das partículas têm uma ou mais dimensões externas na gama de tamanhos compreendidos entre 1 nm e 100 nm.
+
+— «partícula», uma porção minúscula de matéria com fronteiras físicas definidas,
+
+— «aglomerado», um conjunto de partículas levemente agregadas ou de agregados em que a superfície externa é igual à soma das superfícies dos componentes específicos,
+
+— «agregado», uma partícula composta por partículas fortemente ligadas ou aglutinadas;
+
+a-A) «Alteração administrativa» uma alteração de natureza meramente administrativa de uma autorização existente que não envolva nenhuma modificação das propriedades ou da eficácia do produto biocida ou da família de produtos biocidas;
+
+a-B) «Alteração menor» uma alteração de uma autorização existente que não seja de natureza meramente administrativa e que requeira apenas uma reavaliação limitada das propriedades ou da eficácia do produto biocida ou da família de produtos biocidas;
+
+a-C) «Alteração importante» uma alteração de uma autorização existente que não seja nem uma alteração administrativa nem uma alteração menor;
+
+a-D) «Grupos vulneráveis» pessoas para as quais é necessária especial atenção no contexto da avaliação dos efeitos agudos e crónicos dos produtos biocidas na saúde. Incluem-se neste grupo as grávidas e lactantes, os fetos, os lactentes e as crianças, os idosos e, quando sujeitos a elevada exposição aos produtos biocidas a longo prazo, os trabalhadores e os residentes;
+
+a-E) «Pequenas e médias empresas» ou «PME» pequenas e médias empresas, conforme definidas na Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas ([^27^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0027)).
+
+2.
+
+Para efeitos do presente regulamento, as definições constantes do artigo 3.º do Regulamento (CE) n.º 1907/2006 são aplicáveis aos seguintes termos:
+
+a) Substância;
+
+b) Mistura;
+
+c) Artigo;
+
+d) Investigação e desenvolvimento orientados para produtos e processos;
+
+e) Investigação e desenvolvimento científicos.
+
+3. A pedido de um Estado-Membro, a Comissão pode decidir, por meio de atos de execução, se uma substância é um nano material, tendo em conta, em particular, a Recomendação 2011/696/UE da Comissão, de 18 de outubro de 2011 sobre a definição de nano material ([^28^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0028)), e se um determinado produto ou grupo de produtos é um produto biocida ou um artigo tratado, ou nenhum deles. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+4. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º, a fim de adaptar a definição de nano material que figura no n.º 1, alínea z), do presente artigo ao progresso técnico e científico e tendo em conta a Recomendação 2011/696/UE.
+
+## CAPÍTULO II
+
+### APROVAÇÃO DAS SUBSTÂNCIAS ATIVAS
+
+###### Artigo 4.º — Condições de aprovação
+
+1. Uma substância ativa é aprovada por um período inicial não superior a dez anos se for previsível que pelo menos um dos produtos biocidas que a contêm preenche os critérios estabelecidos no artigo 19.º, n.º 1, alínea b), tendo em conta os fatores estabelecidos no artigo 19.º, n.^os^ 2 e 5. Uma substância ativa abrangida pelo âmbito de aplicação do artigo 5.º só pode ser aprovada por um período inicial não superior a 5 anos.
+
+2. A aprovação de uma substância ativa limita-se aos tipos de produtos para os quais tenham sido apresentados dados relevantes, nos termos do artigo 6.º.
+
+3.
+
+A aprovação deve especificar, se for caso disso, qualquer das seguintes condições:
+
+a) O grau mínimo de pureza da substância ativa;
+
+b) A natureza e teor máximo de determinadas impurezas;
+
+c) O tipo de produto;
+
+d) O modo e zona de utilização, incluindo, se for caso disso, a utilização em artigos tratados;
+
+e) A indicação das categorias de utilizadores;
+
+f) Se for caso disso, a caracterização da identidade química em termos de estereo-isomeria;
+
+g) Outras condições particulares com base na avaliação das informações relativas a essa substância ativa;
+
+h) A data da aprovação e a data de termo da aprovação da substância ativa.
+
+4. A aprovação da substância ativa não abrange os nano materiais, salvo se forem expressamente mencionados.
+
+###### Artigo 5.º — Critérios de exclusão
+
+1.
+
+Sem prejuízo do disposto no n.º 2, não podem ser aprovadas as seguintes substâncias ativas:
+
+a) Substâncias ativas classificadas, nos termos do Regulamento (CE) n.º 1272/2008, como cancerígenas da categoria 1A ou 1B, ou que preencham os critérios para serem classificadas como tais;
+
+b) Substâncias ativas classificadas, nos termos do Regulamento (CE) n.º 1272/2008, como mutagénicas em células germinativas da categoria 1A ou 1B, ou que preencham os critérios para serem classificadas como tais;
+
+c) Substâncias ativas classificadas, nos termos do Regulamento (CE) n.º 1272/2008, como tóxicas para a reprodução da categoria 1A ou 1B, ou que preencham os critérios para serem classificadas como tais;
+
+d) Substâncias ativas que, com base nos critérios definidos nos termos do primeiro parágrafo do n.º 3 ou, enquanto se aguarda a adoção desses critérios, com base no segundo e no terceiro parágrafos do n.º 3, sejam consideradas como possuindo propriedades desreguladoras do sistema endócrino suscetíveis de causar efeitos nefastos nos seres humanos, ou identificadas, nos termos do artigo 57.º, alínea f), e do artigo 59.º, n.º 1, do Regulamento (CE) n.º 1907/2006, como apresentando propriedades perturbadoras do sistema endócrino;
+
+e) Substâncias ativas que preencham os critérios de PBT ou mPmB, nos termos do Anexo XIII do Regulamento (CE) n.º 1907/2006.
+
+2.
+
+Sem prejuízo do disposto no artigo 4.º, n.º 1, as substâncias ativas referidas no n.º 1 do presente artigo podem ser aprovadas se se demonstrar que, pelo menos, se verifica uma das seguintes condições:
+
+a) O risco para o ser humano, para os animais ou para o ambiente decorrente da exposição à substância ativa presente num produto biocida, nas condições realistas de utilização mais desfavoráveis, é negligenciável, em particular quando o produto é utilizado em sistemas fechados ou noutras condições que visem excluir o contacto com seres humanos e a libertação para o ambiente;
+
+b) Existem dados que comprovam que a substância ativa é essencial para prevenir ou controlar um perigo grave para a saúde humana, para a saúde animal ou para o ambiente; ou
+
+c) A não-aprovação da substância ativa teria impacto negativo desproporcionado para a sociedade em relação ao risco para a saúde humana, para a saúde animal ou para o ambiente decorrente da sua utilização.
+
+Ao decidir se a substância ativa pode ser aprovada nos termos do primeiro parágrafo, um aspeto essencial a ter em conta é a disponibilidade de substâncias ou tecnologias alternativas adequadas e eficazes.
+
+A utilização de um produto biocida que contenha substâncias ativas aprovadas de acordo com o presente número está sujeita a medidas apropriadas de redução dos riscos, a fim de garantir que a exposição dos seres humanos, dos animais e do ambiente a essas substâncias ativas seja minimizada. A utilização do produto biocida que contenha as substâncias ativas em questão é reservada aos Estados-Membros nos quais se verifique pelo menos uma das condições previstas no presente número.
+
+3. Pelo menos em 13 de dezembro de 2013, a Comissão adota atos delegados nos termos do artigo 83.º, que especifiquem os critérios científicos para a determinação das propriedades perturbadoras do sistema endócrino.
+
+Até à adoção desses critérios, as substâncias ativas classificadas, nos termos do Regulamento (CE) n.º 1272/2008, como cancerígenas da categoria 2 e tóxicas para a reprodução da categoria 2, ou que preencham os critérios para ser classificadas como tais, são consideradas como apresentando propriedades perturbadoras do sistema endócrino.
+
+As substâncias como as que estejam classificadas, nos termos do Regulamento (CE) n.º 1272/2008, como tóxicas para a reprodução da categoria 2, ou que preencham os critérios para serem classificadas como tais, e que tenham efeitos tóxicos nos órgãos endócrinos podem ser consideradas como apresentando propriedades perturbadoras do sistema endócrino.
+
+###### Artigo 6.º — Dados a apresentar no pedido
+
+1.
+
+Um pedido de aprovação de uma substância ativa deve conter, no mínimo, os seguintes elementos:
+
+a) Um dossier sobre a substância ativa, elaborado nos termos dos requisitos estabelecidos no Anexo II;
+
+b) Um dossier, elaborado nos termos dos requisitos estabelecidos no Anexo III, relativo a pelo menos um produto biocida representativo que contenha a substância ativa; e
+
+c) Caso a substância ativa preencha pelo menos um dos critérios de exclusão enunciados no artigo 5.º, n.º 1, a prova de que é aplicável o artigo 5.º, n.º 2.
+
+2.
+
+Não obstante o disposto no n.º 1, o requerente não é obrigado a apresentar, como parte do dossier, os dados previstos nas alíneas a) e b) do n.º 1 caso se verifique uma das seguintes situações:
+
+a) Os dados não são necessários atendendo à exposição associada às utilizações propostas;
+
+b) Não é cientificamente necessário fornecer os dados;
+
+c) Não é tecnicamente possível gerar os dados.
+
+Todavia, devem ser fornecidos dados suficientes para permitir determinar se a substância ativa preenche os critérios referidos no artigo 5.º, n.º 1, ou no artigo 10.º, n.º 1, caso seja exigido pela autoridade competente de avaliação nos termos do artigo 8.º, n.º 2.
+
+3. O requerente pode propor a adaptação dos dados requeridos, como parte do dossier, por força do n.º 1, alíneas a) e b), nos termos do Anexo IV. A justificação das adaptações propostas aos dados requeridos deve ser claramente indicada no pedido e estar acompanhada de uma referência às regras específicas do Anexo IV.
+
+4. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º que fixem os critérios para determinar o que constitui uma justificação adequada para a adaptação dos requisitos em matéria de dados previstos no n.º 1 do presente artigo pelo motivo referido no n.º 2, alínea a), do presente artigo.
+
+###### Artigo 7.º — Apresentação e validação dos pedidos
+
+1. O requerente apresenta à Agência um pedido de aprovação de uma substância ativa, ou de alteração subsequente das condições de aprovação de uma substância ativa, e comunica o nome da autoridade competente do Estado-Membro que propõe para avaliar o pedido e apresenta uma confirmação escrita de que esta autoridade competente aceita tal tarefa. Essa autoridade competente é a autoridade competente de avaliação.
+
+2. A Agência informa o requerente das taxas devidas por força do artigo 80.º, n.º 1 e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A Agência informa do facto o requerente e a autoridade competente de avaliação.
+
+Ao receber as taxas devidas por força do artigo 80.º, n.º 1, a Agência aceita o pedido e informa do facto o requerente e a autoridade competente de avaliação, indicando a data da aceitação do pedido e o respetivo código de identificação único.
+
+3. No prazo de 30 dias a contar da aceitação do pedido pela Agência, a autoridade competente de avaliação efetua a sua validação, se tiverem sido apresentados os dados previstos nas alíneas a) e b) e, se for caso disso, no artigo 6.º, n.º 1, alínea c), e quaisquer justificações para a adaptação dos requisitos em matéria de dados.
+
+No contexto da validação a que se refere o primeiro parágrafo, a autoridade competente de avaliação não avalia a qualidade ou a adequação dos dados ou das justificações apresentados.
+
+A autoridade competente de avaliação informa o requerente, no mais curto prazo de tempo após a aceitação do pedido pela Agência, das taxas devidas por força do artigo 80.º, n.º 2, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A autoridade competente de avaliação informa do facto o requerente.
+
+4. Se considerar que o pedido está incompleto, a autoridade competente de avaliação informa o requerente das informações adicionais necessárias para a validação do pedido e fixa um prazo razoável para a apresentação dessas informações. Este prazo não pode, por norma, ser superior a 90 dias.
+
+No prazo de 30 dias a contar da receção das informações adicionais, a autoridade competente de avaliação valida o pedido se determinar que essas informações são suficientes para cumprir o requisito estabelecido no n.º 3.
+
+Se o requerente não apresentar as informações solicitadas dentro do prazo fixado, a autoridade competente de avaliação indefere o pedido e informa do facto o requerente e a Agência. Nesse caso, é reembolsada uma parte das taxas pagas por força do artigo 80.º, n.^os^ 1 e 2.
+
+5. Ao validar um pedido de acordo com os n.^os^ 3 ou 4, a autoridade competente de avaliação informa sem demora do facto o requerente, a Agência e as demais autoridades competentes e indica a data da validação.
+
+6. As decisões tomadas pela Agência ao abrigo do n.º 2 do presente artigo podem ser objeto de recurso interposto ao abrigo do artigo 77.º.
+
+###### Artigo 8.º — Avaliação dos pedidos
+
+1. No prazo de 365 dias a contar da validação de um pedido, a autoridade competente de avaliação avalia esse pedido, nos termos dos artigos 4.º e 5.º, bem como, se for caso disso, qualquer proposta de adaptação dos requisitos em matéria de dados apresentada nos termos do artigo 6.º, n.º 3, e envia um relatório de avaliação e as conclusões da sua avaliação à Agência.
+
+Antes de apresentar as suas conclusões à Agência, a autoridade competente de avaliação dá ao requerente a oportunidade de apresentar observações escritas sobre o relatório de avaliação e as conclusões da avaliação no prazo de 30 dias. A autoridade competente de avaliação toma em devida consideração essas observações ao finalizar a sua avaliação.
+
+2. Sempre que se afigurem necessárias informações adicionais para proceder à avaliação, a autoridade competente de avaliação solicita ao requerente a apresentação dessas informações, fixa um prazo para o efeito e informa do facto a Agência. Como indicado no artigo 6.º, n.º 2, segundo parágrafo, a autoridade competente de avaliação pode, se for caso disso, exigir que o requerente forneça dados suficientes para permitir determinar se a substância ativa preenche os critérios referidos no artigo 5.º, n.º 1, ou no artigo 10.º, n.º 1. O prazo de 365 dias, referido no n.º 1 do presente artigo, é suspenso a partir da data de envio do pedido e até à data de receção das informações. A suspensão não pode ser superior a 180 dias no total, salvo se a natureza dos dados solicitados ou circunstâncias excecionais o justificarem.
+
+3. Se considerar que há motivos de preocupação para a saúde humana, para a saúde animal ou para o ambiente como resultado dos efeitos cumulativos decorrentes da utilização de produtos biocidas que contêm as mesmas substâncias ativas ou substâncias ativas diferentes, a autoridade competente de avaliação documenta as suas preocupações nos termos dos requisitos aplicáveis constantes da Secção II.3 do Anexo XV do Regulamento (CE) n.º 1907/2006 e inclui esses elementos nas suas conclusões.
+
+4. No prazo de 270 dias a contar da receção das conclusões da avaliação, a Agência elabora e apresenta à Comissão um parecer sobre a aprovação da substância ativa, tendo em conta as conclusões da autoridade competente de avaliação.
+
+###### Artigo 9.º — Aprovação de uma substância ativa
+
+1.
+
+Após receção do parecer da Agência referido no artigo 8.º, n.º 4, a Comissão:
+
+a) Adota um regulamento de execução que determina que a substância ativa é aprovada, e em que condições, incluindo as datas de aprovação e de caducidade da aprovação; ou
+
+b) Nos casos em que as condições previstas no artigo 4.º, n.º 1, ou, quando aplicável, no artigo 5.º, n.º 2, não sejam cumpridas ou em que as informações e dados necessários não tenham sido apresentados no prazo fixado, adota uma decisão de execução que determina que a substância ativa não é aprovada.
+
+Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+2. As substâncias ativas aprovadas são incluídas numa lista da União de substâncias ativas aprovadas. A Comissão mantém a lista atualizada e disponibiliza-a ao público por via eletrónica.
+
+###### Artigo 10.º — Substâncias ativas candidatas a substituição
+
+1.
+
+Considera-se que a substância ativa é candidata a substituição se estiver preenchida uma das seguintes condições:
+
+a) A substância ativa preenche pelo menos um dos critérios de exclusão enumerados no artigo 5.º, n.º 1, mas pode ser aprovada nos termos do artigo 5.º, n.º 2;
+
+b) A substância ativa preenche os critérios para a sua classificação, nos termos do Regulamento (CE) n.º 1272/2008, como sensibilizante respiratório;
+
+c) A dose diária admissível, dose aguda de referência ou nível aceitável de exposição do operador, consoante o caso, aplicável à substância é significativamente inferior ao da maioria das substâncias ativas aprovadas para o mesmo tipo de produto e cenário de utilização;
+
+d) A substância ativa satisfaz dois dos critérios aplicáveis para ser considerada uma substância PBT nos termos do Anexo XIII do Regulamento (CE) n.º 1907/2006;
+
+e) Existem motivos de preocupação associados à natureza dos efeitos críticos que, em combinação com os padrões de utilização, conduzem a situações de utilização que ainda podem causar preocupação, por exemplo, um elevado potencial de risco para as águas subterrâneas, mesmo com medidas muito restritivas de gestão dos riscos;
+
+f) A substância contém uma proporção significativa de isómeros não ativos ou de impurezas.
+
+2. Ao elaborar o seu parecer sobre a aprovação ou a renovação da aprovação de uma substância ativa, a Agência examina se a substância ativa preenche algum dos critérios enumerados no n.º 1 e contempla esta questão no parecer.
+
+3. Antes de apresentar à Comissão o parecer sobre a aprovação ou a renovação da aprovação da substância ativa, a Agência disponibiliza publicamente, sem prejuízo dos artigos 66.º e 67.º, informações sobre o potencial candidato a substituição, durante um período não superior a 60 dias, para permitir a apresentação de informações pertinentes por terceiros interessados, incluindo informações sobre os substitutos disponíveis. A Agência toma em devida consideração as informações recebidas ao finalizar o seu parecer.
+
+4. Não obstante o disposto no artigo 4.º, n.º 1, e no artigo 12.º, n.º 3, a aprovação da substância ativa considerada candidata a substituição e cada renovação dessa aprovação não podem ter um prazo de validade superior a sete anos.
+
+5. As substâncias ativas consideradas candidatas a substituição nos termos do n.º 1 são identificadas como tais no regulamento aplicável adotado nos termos do artigo 9.º.
+
+###### Artigo 11.º — Notas técnicas de orientação
+
+A Comissão elabora notas técnicas de orientação a fim de facilitar a execução do disposto no presente capítulo, em particular no artigo 5.º, n.º 2, e no artigo 10.º, n.º 1.
+
+## CAPÍTULO III
+
+### RENOVAÇÃO E REVISÃO DA APROVAÇÃO DAS SUBSTÂNCIAS ATIVAS
+
+###### Artigo 12.º — Condições de renovação
+
+1. A Comissão renova a aprovação da substância ativa que continue a preencher as condições previstas no artigo 4.º, n.º 1, ou, se aplicáveis, as condições estabelecidas no artigo 5.º, n.º 2.
+
+2. À luz do progresso científico e técnico, a Comissão deve rever, e se necessário, alterar as condições especificadas para a substância ativa, referidas no artigo 4.º, n.º 3.
+
+3. A renovação da aprovação de uma substância ativa é válida por quinze anos para todos os tipos de produtos a que se aplica a aprovação, salvo se no regulamento de execução adotado nos termos do artigo 14.º, n.º 4, alínea a), que renova essa aprovação, for indicado um prazo mais curto.
+
+###### Artigo 13.º — Apresentação e aceitação dos pedidos
+
+1. O requerente que deseje solicitar a renovação da aprovação da substância ativa, para um ou mais tipos de produtos, apresenta um pedido à Agência pelo menos 550 dias antes do termo do prazo de validade da aprovação. Caso existam diferentes datas de caducidade para diferentes tipos de produtos, o pedido é apresentado pelo menos 550 dias antes da primeira data de caducidade.
+
+2.
+
+Ao solicitar a renovação da aprovação da substância ativa, o requerente deve apresentar:
+
+a) Sem prejuízo do disposto no artigo 21.º, n.º 1, todos os dados pertinentes exigidos nos termos do artigo 20.º gerados, consoante o caso, desde a aprovação inicial ou desde a renovação anterior; e
+
+b) A verificação de validade das conclusões da avaliação inicial ou anterior, da substância ativa, bem como eventuais informações de apoio.
+
+3. O requerente comunica igualmente o nome da autoridade competente do Estado-Membro que propõe para avaliar o pedido de renovação e apresenta uma confirmação escrita de que esta autoridade competente aceita tal tarefa. Essa autoridade competente é a autoridade competente de avaliação.
+
+A Agência informa o requerente das taxas devidas por força do artigo 80.º, n.º 1, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A Agência informa do facto o requerente e a autoridade competente de avaliação.
+
+Ao receber as taxas devidas por força do artigo 80.º, n.º 1, a Agência aceita o pedido e informa do facto o requerente e a autoridade competente de avaliação, indicando a data da aceitação.
+
+4. As decisões tomadas pela Agência ao abrigo do n.º 3 do presente artigo podem ser objeto de recurso interposto ao abrigo do artigo 77.º.
+
+###### Artigo 14.º — Avaliação dos pedidos de renovação
+
+1. Com base na avaliação das informações disponíveis e na necessidade de proceder à revisão das conclusões da avaliação inicial do pedido de aprovação ou da renovação anterior, consoante o caso, a autoridade competente de avaliação decide, no prazo de 90 dias a contar da aceitação do pedido pela Agência nos termos do artigo 13.º, n.º 3, se, à luz dos conhecimentos científicos atuais, é necessária uma avaliação completa do pedido de renovação, tendo em conta todos os tipos de produtos para os quais é solicitada a renovação.
+
+2. Caso a autoridade competente de avaliação decida que é necessária uma avaliação completa do pedido, a avaliação é realizada nos termos do artigo 8.º, n.^os^ 1, 2 e 3.
+
+Se decidir que não é necessária uma avaliação completa do pedido, a autoridade competente de avaliação elabora e apresenta à Agência, no prazo de 180 dias a contar da aceitação do pedido pela Agência nos termos do artigo 13.º, n.º 3, uma recomendação sobre a renovação da aprovação da substância ativa. A autoridade competente de avaliação fornece ao requerente uma cópia da sua recomendação.
+
+A autoridade competente de avaliação notifica o requerente, no mais curto prazo de tempo após a aceitação do pedido pela Agência, das taxas devidas por força do artigo 80.º, n.º 2. A autoridade competente de avaliação indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias a contar da notificação e informa do facto o requerente.
+
+3. No prazo de 270 dias a contar da receção da recomendação da autoridade competente de avaliação, caso esta tenha realizado uma avaliação completa do pedido, ou no prazo de 90 dias nos outros casos, a Agência elabora e apresenta à Comissão um parecer sobre a renovação da aprovação da substância ativa.
+
+4.
+
+Após receção do parecer da Agência, a Comissão adota:
+
+a) Um regulamento de execução que determina que a aprovação da substância ativa é renovada para um ou mais tipos de produtos, e em que condições; ou
+
+b) Uma decisão de execução pela qual a aprovação da substância ativa não é renovada.
+
+Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+É aplicável o artigo 9.º, n.º 2.
+
+5. Se, por razões independentes da vontade do requerente, for provável que a aprovação da substância ativa caduque antes de ser tomada uma decisão sobre a sua renovação, a Comissão, por meio de atos de execução, adota uma decisão que prorroga a validade da aprovação por um prazo suficiente para lhe permitir analisar o pedido. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 82.º, n.º 2.
+
+6. Caso decida não renovar ou decida alterar a aprovação de uma substância ativa para um ou mais tipos de produtos, os Estados-Membros ou, no caso de uma autorização da União, a Comissão anulam ou, se for caso disso, alteram as autorizações de produtos biocidas do tipo ou tipos de produtos que contêm a substância ativa. Os artigos 48.º e 52.º são aplicáveis no mesmo sentido.
+
+###### Artigo 15.º — Revisão da aprovação de uma substância ativa
+
+1. A Comissão pode proceder à revisão da aprovação de uma substância ativa para um ou mais tipos de produto, a qualquer momento, sempre que haja indícios significativos de que as condições estabelecidas no artigo 4.º, n.º 1, ou, se for caso disso, no artigo 5.º, n.º 2, deixaram de ser cumpridas. A Comissão também pode proceder à revisão da aprovação da substância ativa para um ou mais tipos de produto a pedido de um Estado-Membro se houver indícios de que a utilização da substância ativa em produtos biocidas ou em artigos tratados suscita preocupações significativas quanto à segurança desses produtos biocidas ou artigos tratados. A Comissão torna pública a informação de que está a efetuar uma revisão e dá a oportunidade ao requerente de apresentar observações. A Comissão toma em devida consideração essas observações na sua revisão.
+
+Caso esses indícios sejam confirmados, a Comissão adota um regulamento de execução que altera as condições de aprovação da substância ativa ou que anula a sua aprovação. Este regulamento de execução é adotado pelo procedimento de exame a que se refere o artigo 82.º, n.º 3. É aplicável o artigo 9.º, n.º 2. A Comissão informa do facto os requerentes iniciais da aprovação.
+
+Por razões de urgência imperiosas devidamente justificadas, a Comissão adota atos de execução imediatamente aplicáveis pelo procedimento a que se refere o artigo 82.º, n.º 4.
+
+2. A Comissão pode consultar a Agência sobre quaisquer questões de caráter científico ou técnico relacionadas com a revisão da aprovação de uma substância ativa. No prazo de 270 dias a contar deste pedido de consulta, a Agência elabora um parecer e apresenta-o à Comissão.
+
+3. Caso a Comissão decida anular ou alterar a aprovação de uma substância ativa para um ou mais tipos de produtos, os Estados-Membros ou, no caso de uma autorização da União, a Comissão anulam ou, se for caso disso, alteram as autorizações de produtos biocidas do tipo ou tipos de produtos que contêm essa substância ativa. Os artigos 48.º e 52.º são aplicáveis em conformidade.
+
+###### Artigo 16.º — Medidas de execução
+
+A Comissão pode adotar, através de atos de execução, medidas de execução dos artigos 12.º a 15.º que especifiquem de forma mais detalhada os procedimentos de renovação e revisão da aprovação de uma substância ativa. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+## CAPÍTULO IV
+
+### PRINCÍPIOS GERAIS RELATIVOS À AUTORIZAÇÃO DE PRODUTOS BIOCIDAS
+
+###### Artigo 17.º — Disponibilização no mercado e utilização de produtos biocidas
+
+1. Só podem ser disponibilizados no mercado, ou utilizados, os produtos biocidas que tenham sido autorizados nos termos do presente regulamento.
+
+2. Os pedidos de autorização são formulados pelo potencial titular da autorização, ou em seu nome.
+
+Os pedidos de autorização nacional num Estado-Membro são apresentados à autoridade competente desse Estado-Membro («autoridade competente recetora»).
+
+Os pedidos de autorização da União são apresentados à Agência.
+
+3. A autorização pode ser concedida para um produto biocida único ou para uma família de produtos biocidas.
+
+4. A autorização é concedida por um prazo máximo de dez anos.
+
+5. Os produtos biocidas devem ser utilizados de acordo com os termos e condições da autorização estipulados nos termos do artigo 22.º, n.º 1, e dos requisitos de rotulagem e embalagem fixados no artigo 69.º.
+
+Uma utilização correta implica a aplicação racional de um conjunto de medidas físicas, biológicas, químicas ou outras, consoante adequado, que permitam limitar ao mínimo necessário a utilização de produtos biocidas e as medidas de precaução adequadas.
+
+Os Estados-Membros tomam as medidas necessárias para facultar ao público informações adequadas sobre os benefícios e riscos associados aos produtos biocidas, bem como sobre os modos de minimizar a sua utilização.
+
+6. O titular da autorização notifica cada autoridade competente que concedeu uma autorização nacional para uma família de produtos biocidas de cada produto dessa família, pelo menos 30 dias antes de o colocar no mercado, salvo no caso dos produtos expressamente identificados na autorização ou se as variações de composição disserem respeito apenas a pigmentos, perfumes e corantes dentro das variações permitidas. A notificação deve indicar a composição exata, o nome comercial e o sufixo do número de autorização. No caso de uma autorização da União, o titular da autorização notifica a Agência e a Comissão.
+
+7. A Comissão especifica, por meio de um ato de execução, os procedimentos de autorização dos produtos biocidas idênticos pela mesma empresa, ou por empresas diferentes, nos mesmos termos e condições. Esse ato de execução é adotado nos termos do procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+###### Artigo 18.º — Medidas que visam a utilização sustentável dos produtos biocidas
+
+Até 18 de julho de 2015, a Comissão apresenta ao Parlamento Europeu e ao Conselho, com base na experiência adquirida com a aplicação do presente regulamento, um relatório sobre a forma como este contribui para a utilização sustentável dos produtos biocidas, incluindo a necessidade de adotar medidas adicionais, em particular para os utilizadores profissionais, com o objetivo de reduzir os riscos dos produtos biocidas para a saúde humana, para a saúde animal e para o ambiente. Este relatório deve examinar, nomeadamente:
+
+a) A promoção de boas práticas como meio de reduzir ao mínimo a utilização de produtos biocidas;
+
+b) As abordagens mais eficazes para controlar a utilização de produtos biocidas;
+
+c) O desenvolvimento e a aplicação de princípios para uma gestão integrada de pragas no que se refere à utilização de produtos biocidas;
+
+d) Os riscos decorrentes da utilização de produtos biocidas em zonas específicas, tais como escolas, locais de trabalho, infantários, espaços públicos, centros de geriatria ou na proximidade de águas subterrâneas ou superficiais, e a eventual necessidade de medidas adicionais para pôr termo a esses riscos;
+
+e) O papel que um melhor desempenho do equipamento usado na aplicação de produtos biocidas pode ter na utilização sustentável destes produtos.
+
+Com base nesse relatório, a Comissão apresenta, se for caso disso, uma proposta legislativa a adotar nos termos do processo legislativo ordinário.
+
+###### Artigo 19.º — Condições de concessão da autorização
+
+1.
+
+Os produtos biocidas que não sejam elegíveis para o processo de autorização simplificado, nos termos do artigo 25.º, só podem ser autorizados se estiverem preenchidas as seguintes condições:
+
+a) As substâncias ativas estão incluídas no anexo I ou foram aprovadas para o tipo de produto em causa e estão preenchidas todas as condições especificadas para estas substâncias ativas;
+
+b) Foi estabelecido, de acordo com os princípios comuns de avaliação de dossiers de produtos biocidas definidos no Anexo VI, que o produto biocida, quando utilizado de acordo com a autorização e tendo em conta os fatores referidos no n.º 2 do presente artigo, satisfaz os seguintes critérios:
+
+i) o produto biocida é suficientemente eficaz,
+
+ii) o produto biocida não tem efeitos inaceitáveis nos organismos visados, em particular fenómenos de resistência ou resistência cruzada inaceitáveis, ou dor e sofrimento desnecessários nos vertebrados,
+
+iii) o produto biocida não tem, por si só nem em consequência dos seus resíduos, efeitos inaceitáveis, imediatos ou a prazo, na saúde dos seres humanos, incluindo a saúde dos grupos vulneráveis, nem na saúde dos animais, diretamente ou através da água potável, dos géneros alimentícios, dos alimentos para animais ou do ar, ou através de quaisquer outros efeitos indiretos,
+
+iv) o produto biocida não tem, por si mesmo nem em consequência dos seus resíduos, efeitos inaceitáveis no ambiente, tendo especialmente em conta o seguinte:
+
+— o destino e a distribuição do produto biocida no ambiente,
+
+— a contaminação das águas superficiais (incluindo as águas estuarinas e marinhas), das águas subterrâneas e da água potável, do ar e do solo, tendo em conta o transporte a longa distância no ambiente para locais distantes do local de utilização,
+
+— o impacto do produto biocida nos organismos não visados,
+
+— o impacto do produto biocida na biodiversidade e no ecossistema;
+
+c) É possível determinar, de acordo com os requisitos aplicáveis dos Anexos II e III, a identidade química, a quantidade e a equivalência técnica das substâncias ativas presentes no produto biocida e, se for caso disso, as impurezas e substâncias não ativas significativas do ponto de vista toxicológico ou ecotoxicológico, bem como os resíduos relevantes do ponto de vista toxicológico ou ambiental resultantes das utilizações a autorizar;
+
+d) As propriedades físicas e químicas do produto biocida foram determinadas e consideradas aceitáveis para uma utilização e transporte adequados do produto;
+
+e) se for caso disso, foram estabelecidos limites máximos de resíduos para o géneros alimentícios e os alimentos para animais no que respeita às substâncias ativas contidas num produto biocida, nos termos do Regulamento (CEE) n.º 315/93 do Conselho ([^29^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0029)), do Regulamento (CE) n.º 396/2005 do Parlamento Europeu e do Conselho ([^30^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0030)), do Regulamento (CE) n.º 470/2009 do Parlamento Europeu e do Conselho ([^31^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0031)), ou da Diretiva 2002/32/CE do Parlamento Europeu e do Conselho ([^32^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0032)), ou foram estabelecidos limites de migração específicos ou limites para o conteúdo residual de materiais destinados a entrar em contacto com os alimentos para essas substâncias ativas nos termos do Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho ([^33^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0033));
+
+f) Quando forem utilizados nano materiais nesse produto, os riscos para a saúde humana, para a saúde animal e para o ambiente tenham sido avaliados separadamente.
+
+2.
+
+A avaliação se o produto biocida preenche os critérios estabelecidos n.º 1, alínea b), toma em consideração os seguintes fatores:
+
+a) As condições realistas mais desfavoráveis em que o produto biocida pode ser utilizado;
+
+b) A forma como os artigos tratados com o produto biocida ou que o contenham podem ser utilizados;
+
+c) As consequências da utilização e da eliminação do produto biocida;
+
+d) Os efeitos cumulativos;
+
+e) Os efeitos sinérgicos.
+
+3. O produto biocida só é autorizado para utilizações relativamente às quais tenham sido apresentadas as informações previstas do artigo 20.º.
+
+4.
+
+Não pode ser autorizada a disponibilização no mercado do produto biocida, para utilização pelo público, se o produto:
+
+a) Preencher os seguintes critérios de classificação da Diretiva 1999/45/CE:
+
+— tóxico ou muito tóxico,
+
+— cancerígeno das categorias 1 ou 2,
+
+— mutagénico das categorias 1 ou 2, ou
+
+— tóxico para a reprodução das categorias 1 ou 2;
+
+b) preencher os seguintes critérios de acordo com o Regulamento (CE) n.º 1272/2008:
+
+— toxicidade aguda por via oral da categoria 1, 2 ou 3,
+
+— toxicidade aguda por via cutânea da categoria 1, 2 ou 3,
+
+— toxicidade aguda por via inalatória (gases e poeiras/névoas) da categoria 1, 2 ou 3,
+
+— toxicidade aguda por via inalatória (vapores) da categoria 1 ou 2,
+
+— toxicidade para órgãos alvo específicos em resultado da exposição única ou repetida da categoria 1,
+
+— cancerígeno da categoria 1A ou 1B,
+
+— mutagéneo da categoria 1A ou 1B, ou
+
+— tóxico para a reprodução da categoria 1A ou 1B;
+
+c) consistir em, conter ou gerar uma substância que preencha os critérios de PBT ou mPmB nos termos do anexo XIII do Regulamento (CE) n.º 1907/2006;
+
+d) Apresentar propriedades perturbadoras do sistema endócrino; ou
+
+e) Tiver efeitos neurotóxicos ou imunotóxicos no desenvolvimento.
+
+5. Não obstante o disposto nos n.^os^ 1 e 4, o produto biocida pode ser autorizado quando as condições previstas no n.º 1, alínea b), subalíneas iii) e iv), não estão totalmente preenchidas, ou pode ser autorizado para disponibilização no mercado para utilização pelo público quando os critérios referidos no n.º 4, alínea c), estão preenchidos, se a não-autorização do produto biocida tiver impactos negativos desproporcionados para a sociedade em comparação com os riscos para a saúde humana, para a saúde animal ou para o ambiente decorrentes da sua utilização nas condições estabelecidas na autorização.
+
+A utilização de produtos biocidas autorizados nos termos do presente número está sujeita a medidas apropriadas de redução dos riscos, a fim de garantir que a exposição dos seres humanos e do ambiente a esses produtos biocidas seja minimizada. A utilização de produtos biocidas autorizados nos termos do presente artigo é reservada aos Estados-Membros nos quais se verifique a condição referida no primeiro parágrafo.
+
+6. A avaliação da família do produto biocida realizada de acordo com os princípios comuns previstos no Anexo VI deve ter em conta o risco máximo para a saúde humana e animal, e para o ambiente, e o nível mínimo de eficácia em toda a gama potencial de produtos dessa família do produto biocida.
+
+Uma família de produtos biocidas só pode ser autorizada se:
+
+a) o pedido identificar expressamente os riscos máximos para a saúde humana, a saúde animal e para o meio ambiente e o nível mínimo de eficácia em que se baseia a avaliação, bem como as variações permitidas na composição e nas utilizações referidas no artigo 3.º, n.º 1, alínea s), juntamente com as respetivas classificação, advertências de perigo e recomendações de prudência e com eventuais medidas de redução dos riscos; e
+
+b) se puder estabelecer-se, com base na avaliação referida no primeiro parágrafo do presente número, que todos os produtos biocidas que dela fazem parte preenchem as condições previstas no n.º 1.
+
+7. Se for caso disso, o potencial titular da autorização ou o seu representante solicitam a fixação de limites máximos de resíduos para as substâncias ativas contidas no produto biocida, nos termos do Regulamento (CEE) n.º 315/93, do Regulamento (CE) n.º 396/2005, do Regulamento (CE) n.º 470/2009 ou da Diretiva 2002/32/CE, ou a fixação de limites de migração específicos ou de limites para o conteúdo residual de materiais destinados a entrar em contacto com os alimentos para essas substâncias nos termos do Regulamento (CE) n.º 1935/2004.
+
+8. Se, no caso das substâncias ativas abrangidas pelo artigo 10.º, n.º 1, alínea a), do Regulamento (CE) n.º 470/2009, não tiver sido estabelecido um limite máximo de resíduos de acordo com o artigo 9.º do referido regulamento aquando da aprovação da substância ativa, ou se for necessário alterar um limite estabelecido nos termos do artigo 9.º do mesmo Regulamento, o limite máximo de resíduos é estabelecido ou alterado pelo procedimento previsto no artigo 10.º, n.º 1, alínea b), desse Regulamento.
+
+9. Caso o produto biocida se destine a ser aplicado diretamente nas partes externas do corpo humano (epiderme, sistema capilar, unhas, lábios e órgãos genitais externos), ou nos dentes e nas mucosas da cavidade oral, não pode conter nenhuma substância não ativa que não possa ser incluída num produto cosmético nos termos do Regulamento (CE) n.º 1223/2009.
+
+###### Artigo 20.º — Requisitos dos pedidos de autorização
+
+1.
+
+O requerente da autorização deve fazer acompanhar o pedido com os seguintes documentos:
+
+a) Para os produtos biocidas que não preencham as condições estabelecidas no artigo 25.º:
+
+i) um dossier ou carta de acesso referente ao produto biocida, no cumprimento dos requisitos estabelecidos no Anexo III,
+
+ii) um resumo das características do produto biocida, que inclua as informações referidas no artigo 22.º, n.º 2, alíneas a), b) e e) a q), se aplicável,
+
+iii) um dossier ou uma carta de acesso referente ao produto biocida no cumprimento dos requisitos previstos no Anexo II relativamente a cada uma das substâncias ativas do produto biocida;
+
+b) Para os produtos biocidas que o requerente considere preencherem as condições estabelecidas no artigo 25.º:
+
+i) um resumo das características do produto biocida referida no presente número, alínea a), subalínea ii),
+
+ii) dados relativos à eficácia, e
+
+iii) outras informações pertinentes que corroborem a conclusão de que o produto biocida preenche as condições fixadas no artigo 25.º.
+
+2. A autoridade competente recetora pode exigir que os pedidos de autorização nacional sejam apresentados numa ou mais línguas oficiais do Estado-Membro em que está situada.
+
+3. No caso dos pedidos de autorização da União apresentados nos termos do artigo 43.º, o requerente apresenta o resumo das características do produto biocida referido no n.º 1, alínea a), subalínea ii), do presente artigo numa língua oficial da União aceite pela autoridade competente de avaliação no momento da apresentação do pedido e em todas as línguas oficiais da União antes da autorização do produto biocida.
+
+###### Artigo 21.º — Isenção dos requisitos em matéria de dados
+
+1.
+
+Não obstante o disposto no artigo 20.º, o requerente não é obrigado a apresentar os dados previstos nesse artigo caso se verifique uma das seguintes situações:
+
+a) Os dados não são necessários atendendo à exposição associada às utilizações propostas;
+
+b) Não é cientificamente necessário fornecer os dados;
+
+c) Não é tecnicamente possível gerar os dados.
+
+2. O requerente pode propor a adaptação dos requisitos em matéria de dados previstos no artigo 20.º, nos termos do Anexo IV. A justificação das adaptações propostas aos requisitos em matéria de dados deve ser claramente indicada no pedido e estar acompanhada de uma referência às regras específicas do Anexo IV.
+
+3. A fim de assegurar uma aplicação harmonizada do n.º 1, alínea a), do presente artigo, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º que especificam os critérios a aplicar para determinar se a exposição associada às utilizações propostas justifica a adaptação dos requisitos em matéria de dados previstos no artigo 20.º.
+
+###### Artigo 22.º — Conteúdo da autorização
+
+1. A autorização estabelece os termos e condições da disponibilização no mercado e da utilização do produto biocida único ou da família de produtos biocidas e inclui um resumo das características do produto biocida.
+
+2.
+
+Sem prejuízo do disposto nos artigos 66.º e 67.º, o resumo das características do produto biocida, para um produto biocida único ou no caso de uma família de produtos biocidas, os produtos biocidas que fazem parte dessa família de produtos biocidas, deve incluir as seguintes informações:
+
+a) Nome comercial do produto biocida;
+
+b) Nome e endereço do titular da autorização;
+
+c) Data da autorização e respetiva data de caducidade;
+
+d) Número da autorização do produto biocida, juntamente com, no caso de família de produtos biocidas, os sufixos a aplicar a cada um dos produtos biocidas que fazem parte da família de produtos biocidas;
+
+e) Composição qualitativa e quantitativa no que se refere às substâncias ativas e às substâncias não ativas cujo conhecimento seja essencial para uma utilização correta dos produtos biocidas e, no caso de produtos biocidas que fazem parte de uma família de produtos biocidas, a composição quantitativa, que deve indicar a percentagem mínima e máxima de cada substância ativa e não ativa, sendo que a percentagem mínima indicada para determinadas substâncias pode ser de 0 %;
+
+f) Fabricantes dos produtos biocidas (nomes e endereços, incluindo a localização das instalações de fabrico);
+
+g) Fabricantes das substâncias ativas (nomes e endereços, incluindo a localização das instalações de fabrico);
+
+h) Tipo de formulação dos produtos biocidas;
+
+i) Advertências de perigo e recomendações de prudência;
+
+j) Tipo de produto e, se for caso disso, descrição exata da utilização autorizada;
+
+k) Organismos prejudiciais visados;
+
+l) Doses de aplicação e instruções de utilização;
+
+m) Categorias de utilizadores;
+
+n) Informações pormenorizadas sobre prováveis efeitos adversos diretos ou indiretos, instruções de primeiros socorros e medidas de emergência para proteger o ambiente;
+
+o) Instruções para a eliminação segura do produto e da sua embalagem;
+
+p) Condições de armazenamento e prazo de validade dos produtos biocidas em condições normais de armazenamento;
+
+q) Se for caso disso, outras informações sobre os produtos biocidas.
+
+###### Artigo 23.º — Avaliação comparativa de produtos biocidas
+
+1. A autoridade competente recetora, ou, no caso da avaliação de um pedido de autorização da União, a autoridade competente de avaliação, efetua uma avaliação comparativa, no âmbito da avaliação de um pedido de autorização ou de renovação da autorização de um produto biocida que contém uma substância ativa candidata a substituição nos termos do artigo 10.º, n.º 1.
+
+2. Os resultados da avaliação comparativa são enviados, sem demora, às autoridades competentes dos demais Estados-Membros e à Agência e, no caso da avaliação de um pedido de autorização da União, também à Comissão.
+
+3.
+
+A autoridade competente recetora ou, no caso de uma decisão relativa a um pedido de autorização da União, a Comissão, proíbe ou restringe a disponibilização no mercado ou a utilização de um produto biocida que contenha uma substância ativa candidata a substituição, caso uma avaliação comparativa, efetuada de acordo com as notas técnicas de orientação referidas no artigo 24.º, demonstre que estão cumpridos os critérios seguintes:
+
+a) Para as utilizações especificadas no pedido, já existe outro produto biocida autorizado, ou um método não químico de controlo ou de prevenção, que globalmente apresenta um risco significativamente inferior para a saúde humana, para a saúde animal e para o ambiente, é suficientemente eficaz e não apresenta mais nenhumas desvantagens económicas ou práticas significativas;
+
+b) A diversidade química das substâncias ativas é adequada para minimizar a ocorrência de resistência no organismo prejudicial visado.
+
+4. Não obstante o disposto no n.º 1, o produto biocida que contenha uma substância ativa candidata a substituição pode ser autorizado por um prazo máximo de quatro anos sem avaliação comparativa, em casos excecionais em que seja necessário adquirir primeiro experiência através da utilização prática desse produto.
+
+5. Caso a avaliação comparativa envolva uma questão que, pela sua dimensão ou consequências, seja mais bem tratada a nível da União, em especial caso seja relevante para duas ou mais autoridades competentes, a autoridade competente recetora pode submeter a questão à apreciação da Comissão para decisão. A Comissão adota essa decisão por meio de atos de execução, pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+A Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º que especifiquem os critérios para a determinação das circunstâncias em que as avaliações comparativas envolvem questões que podem ser mais bem tratadas a nível da União, bem como os procedimentos a seguir nessas avaliações comparativas.
+
+6. Não obstante o disposto no artigo 17.º, n.º 4, e sem prejuízo do n.º 4 do presente artigo, a autorização de um produto biocida que contenha uma substância ativa candidata a substituição é concedida por um prazo não superior a cinco anos e pode ser renovada por um prazo não superior a cinco anos.
+
+7. Caso se decida não autorizar ou restringir a utilização do produto biocida ao abrigo do n.º 3, a revogação ou a alteração da autorização produz efeitos quatro anos após essa decisão. Todavia, se a aprovação da substância ativa candidata a substituição caducar numa data anterior, a revogação da autorização produz efeitos a partir dessa data.
+
+###### Artigo 24.º — Notas técnicas de orientação
+
+A Comissão elabora notas técnicas de orientação a fim de facilitar a execução do disposto no presente capítulo, em particular no artigo 22.º, n.º 2, e no artigo 23.º, n.º 3.
+
+## CAPÍTULO V
+
+### PROCEDIMENTO DE AUTORIZAÇÃO SIMPLIFICADO
+
+###### Artigo 25.º — Elegibilidade para o procedimento de autorização simplificado
+
+Para os produtos biocidas elegíveis, pode ser apresentado um pedido de autorização através de um procedimento de autorização simplificado. O produto biocida é elegível se estiverem reunidas todas as seguintes condições:
+
+a) Todas as substâncias ativas contidas no produto biocida constam do Anexo I e cumprem as restrições especificadas nesse anexo;
+
+b) O produto biocida não contém substâncias que suscitem preocupação;
+
+c) O produto biocida não contém nano materiais;
+
+d) O produto biocida é suficientemente eficaz;
+
+e) O manuseamento do produto e a sua utilização prevista não exigem equipamentos de proteção individual.
+
+###### Artigo 26.º — Procedimento aplicável
+
+1. Os requerentes que desejem solicitar a autorização de um produto biocida que preencha as condições estabelecidas no artigo 25.º apresentam um pedido à Agência, e comunicam o nome da autoridade competente do Estado-Membro que propõem para avaliar o pedido, e apresentam uma confirmação escrita de que esta autoridade competente aceita tal tarefa. Essa autoridade competente é a autoridade competente de avaliação.
+
+2. A autoridade competente de avaliação informa o requerente das taxas devidas por força do artigo 80.º, n.º 2, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A autoridade competente de avaliação informa do facto o requerente.
+
+Ao receber as taxas por força do artigo 80.º, n.º 2, a autoridade competente de avaliação aceita o pedido e informa do facto o requerente, indicando a data de aceitação.
+
+3. No prazo de 90 dias a contar da aceitação do pedido, a autoridade competente de avaliação autoriza o produto biocida se estiver persuadida de que o produto preenche as condições fixadas no artigo 25.º.
+
+4. Se considerar que o pedido está incompleto, a autoridade competente de avaliação informa o requerente das informações adicionais necessárias e fixa um prazo razoável para a apresentação dessas informações. Este prazo não pode, por norma, ser superior a 90 dias.
+
+No prazo de 90 dias a contar da receção das informações adicionais, a autoridade competente de avaliação autoriza o produto biocida se estiver persuadida, com base nessas informações adicionais, de que o produto preenche as condições fixadas no artigo 25.º.
+
+Se o requerente não apresentar as informações solicitadas dentro do prazo fixado, a autoridade competente de avaliação indefere o pedido e informa do facto o requerente. Nesses casos, se tiverem sido pagas taxas, é reembolsada uma parte da taxa paga por força do artigo 80.º, n.º 2.
+
+###### Artigo 27.º — Disponibilização no mercado de produtos biocidas autorizadas pelo procedimento de autorização simplificado
+
+1. Os produtos biocidas autorizados nos termos do artigo 26.º podem ser disponibilizados no mercado em todos os Estados-Membros sem necessidade de reconhecimento mútuo. Todavia, o titular da autorização deve notificar cada Estado-Membro o mais tardar 30 dias antes de colocar o produto biocida no mercado do respetivo território, e deve redigir o rótulo do produto na língua ou línguas oficiais respetivas, salvo disposição em contrário do Estado-Membro em causa.
+
+2. Caso um Estado-Membro que não seja o da autoridade competente de avaliação considere que o produto biocida autorizado nos termos do artigo 26.º não foi notificado ou rotulado nos termos do n.º 1 do presente artigo ou não preenche os requisitos do artigo 25.º, pode submeter a questão ao grupo de coordenação instituído nos termos do artigo 35.º, n.º 1. São aplicáveis, com as necessárias adaptações, o artigo 35.º, n.º 3, e o artigo 36.º.
+
+Caso um Estado-Membro tenha razões válidas para considerar que o produto biocida autorizado nos termos do artigo 26.º não preenche os critérios fixados no artigo 25.º e uma decisão nos termos dos artigos 35.º e 36.º não tenha ainda sido tomada, esse Estado-Membro pode restringir ou proibir provisoriamente a disponibilização no mercado ou a utilização desse produto no seu território.
+
+###### Artigo 28.º — Alteração do Anexo I
+
+1. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 83.º, alterando o Anexo I após receção do parecer da Agência, a fim de incluir substâncias ativas na medida em que haja provas de que não suscitam preocupações ao abrigo do n.º 2 do presente artigo.
+
+2.
+
+As substâncias ativas suscitam preocupações caso:
+
+a) Preencham os seguintes critérios para classificação nos termos do Regulamento (CE) n.º 1272/2008:
+
+— explosivas/facilmente inflamáveis,
+
+— peróxidos orgânicos,
+
+— apresentando uma toxicidade aguda das categorias 1, 2, ou 3,
+
+— corrosivas da categoria 1A, 1B ou 1C,
+
+— sensibilizantes respiratórios,
+
+— sensibilizantes cutâneos,
+
+— mutagénicas em células germinativas da categoria 1 ou 2,
+
+— cancerígenas da categoria 1 ou 2,
+
+— tóxicas para a reprodução humana da categoria 1 ou 2, ou com efeitos sobre a lactação ou através dela,
+
+— tóxicas para órgãos-alvo específicos por exposição única ou repetida, ou
+
+— tóxicas para os organismos aquáticos, de toxicidade aguda da categoria 1;
+
+b) Preencham um dos critérios de substituição estabelecidos no artigo 10.º, n.º 1; ou
+
+c) Possuam propriedades neurotóxicas ou imunotóxicas.
+
+As substâncias ativas também suscitam preocupações mesmo que não esteja reunido nenhum dos critérios específicos previstos nas alíneas a) a c), caso um nível equivalente de preocupação ao suscitado nas alíneas a) a c) possa ser razoavelmente demonstrado com base em informações fiáveis.
+
+3. A Comissão fica habilitada a adotar também atos delegados, nos termos do artigo 83.º alterando o Anexo I após receção do parecer da Agência, a fim de restringir ou suprimir a entrada de uma substância ativa, se houver provas de que os produtos biocidas que contêm essa substância não satisfazem, em determinadas circunstâncias, as condições fixadas no n.º 1 do presente artigo ou no artigo 25.º. Caso razões de urgência imperiosas o imponham, o procedimento previsto no artigo 84.º é aplicável aos atos delegados adotados nos termos do presente número.
+
+4. A Comissão aplica o disposto nos n.^os^ 1 ou 3 por sua própria iniciativa ou a pedido de um operador económico ou de um Estado-Membro que apresentem as provas necessárias referidas nesses números.
+
+Sempre que alterar o Anexo I, a Comissão adota um ato delegado distinto para cada substância.
+
+5. A Comissão pode adotar atos de execução que especifiquem os procedimentos a seguir para a alteração do Anexo I. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+## CAPÍTULO VI
+
+### AUTORIZAÇÕES NACIONAIS DE PRODUTOS BIOCIDAS
+
+###### Artigo 29.º — Apresentação e validação dos pedidos
+
+1. O requerente que deseje solicitar uma autorização nacional nos termos do artigo 17.º apresenta um pedido à autoridade competente recetora. A autoridade competente recetora informa o requerente das taxas devidas por força do artigo 80.º, n.º 2. Se o requerente não pagar as taxas no prazo de 30 dias, a autoridade indefere o pedido e informa do facto o requerente. Ao receber as taxas devidas por força do artigo 80.º, n.º 2, a autoridade competente recetora aceita o pedido e informa do facto o requerente, indicando a data da aceitação.
+
+2.
+
+No prazo de 30 dias a contar da aceitação, a autoridade competente recetora valida o pedido, se este cumprir os seguintes requisitos:
+
+a) Foram apresentadas as informações pertinentes referidas no artigo 20.º; e
+
+b) O requerente declara que não apresentou a nenhuma outra autoridade competente um pedido de autorização nacional para o mesmo produto biocida e para a mesma utilização.
+
+No contexto da validação a que se refere o primeiro parágrafo, a autoridade competente recetora não avalia a qualidade ou a adequação dos dados ou das justificações apresentados.
+
+3. Se considerar que o pedido está incompleto, a autoridade competente recetora informa o requerente das informações adicionais necessárias para a validação do pedido e fixa um prazo razoável para a apresentação dessas informações. Este prazo não pode, por norma, ser superior a 90 dias.
+
+No prazo de 30 dias a contar da receção das informações adicionais, a autoridade competente recetora valida o pedido se determinar que essas informações são suficientes para cumprir os requisitos fixados no n.º 2.
+
+Se o requerente não apresentar as informações solicitadas dentro do prazo fixado, a autoridade competente recetora indefere o pedido e informa do facto o requerente.
+
+4. Se o Registo de Produtos Biocidas, a que se refere o artigo 71.º, revelar que uma autoridade competente diferente da autoridade competente recetora está a analisar um pedido referente ao mesmo produto biocida, ou que já autorizou o mesmo produto biocida, a autoridade competente recetora recusa-se a avaliar o pedido. Nesse caso, a autoridade competente recetora informa o requerente da possibilidade de solicitar o reconhecimento mútuo nos termos dos artigos 33.º ou 34.º.
+
+5. Se o n.º 3 não for aplicável e a autoridade competente recetora considerar que o pedido está completo, valida-o, informa sem demora do facto o requerente e indica a data da validação.
+
+###### Artigo 30.º — Avaliação dos pedidos
+
+1. No prazo de 365 dias a contar da validação de um pedido ao abrigo do artigo 29.º, a autoridade competente recetora decide se concede ou não uma autorização nos termos do artigo 19.º. A autoridade tem em conta os resultados da avaliação comparativa efetuada de acordo com o artigo 23.º, se aplicável.
+
+2. Sempre que se afigurem necessárias informações adicionais para proceder à avaliação, a autoridade competente recetora solicita ao requerente a apresentação dessas informações num determinado prazo. O prazo de 365 dias referido no n.º 1 é suspenso a contar da data de envio do pedido e até à data de receção das informações. A suspensão não pode ser superior a 180 dias no total, salvo se a natureza dos dados solicitados ou circunstâncias excecionais o justificarem.
+
+Se o requerente não apresentar as informações solicitadas dentro do prazo fixado, a autoridade competente recetora indefere o pedido e informa do facto o requerente.
+
+3.
+
+No prazo de 365 dias referido no n.º 1, a autoridade competente recetora:
+
+a) Redige um relatório que resume as conclusões da sua avaliação e os fundamentos para autorizar o produto biocida ou para recusar a sua autorização («relatório de avaliação»);
+
+b) Envia uma cópia eletrónica do projeto de relatório de avaliação ao requerente e dá-lhe a oportunidade de apresentar observações no prazo de 30 dias; e
+
+c) Toma em devida consideração essas observações ao finalizar a sua avaliação.
+
+###### Artigo 31.º — Renovação das autorizações nacionais
+
+1. Os pedidos de renovação de uma autorização nacional para um ou mais tipos de produtos são apresentados à autoridade competente recetora pelo titular da autorização, ou em seu nome, pelo menos 550 dias antes da data de caducidade da autorização. Se a renovação for solicitada para vários tipos de produtos, o pedido é apresentado pelo menos 550 dias antes da data de caducidade mais próxima.
+
+2. A autoridade competente recetora renova a autorização nacional, desde que continuem a estar cumpridas as condições fixadas no artigo 19.º. A autoridade tem em conta os resultados da avaliação comparativa efetuada de acordo com o artigo 23.º, se aplicável.
+
+3.
+
+Ao solicitar a renovação, o requerente deve apresentar:
+
+a) Sem prejuízo do disposto no artigo 21.º, n.º 1, todos os dados pertinentes exigidos nos termos do artigo 20.º gerados, consoante o caso, desde a autorização inicial ou desde a renovação anterior; e
+
+b) A sua avaliação quanto a saber se as conclusões da avaliação inicial ou anterior do produto biocida continuam válidas, bem como eventuais informações de apoio.
+
+4. A autoridade competente recetora informa o requerente das taxas devidas por força do artigo 80.º, n.º 2, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A autoridade competente recetora informa do facto o requerente.
+
+Ao receber as taxas devidas por força do artigo 80.º, n.º 2, a autoridade competente recetora aceita o pedido e informa do facto o requerente, indicando a data da aceitação.
+
+5. Com base na avaliação das informações disponíveis e na necessidade de proceder à revisão das conclusões da avaliação inicial do pedido de autorização ou da renovação anterior, consoante o caso, a autoridade competente recetora decide, no prazo de 90 dias a contar da aceitação do pedido nos termos do n.º 4, se, à luz dos conhecimentos científicos atuais, é necessária uma avaliação completa do pedido de renovação, tendo em conta todos os tipos de produtos para os quais é solicitada a renovação.
+
+6. Se decidir que é necessária uma avaliação completa do pedido, a autoridade competente recetora toma a sua decisão sobre a renovação da autorização depois de proceder à avaliação do pedido nos termos do artigo 30.º, n.^os^ 1, 2 e 3.
+
+Se decidir que não é necessária uma avaliação completa do pedido, a autoridade competente recetora toma a sua decisão sobre a renovação da autorização no prazo de 180 dias a contar da aceitação do pedido nos termos do n.º 4 do presente artigo.
+
+7. Se, por razões independentes da vontade do titular da autorização nacional, não for tomada qualquer decisão sobre a renovação dessa autorização antes da respetiva data de caducidade, a autoridade competente recetora renova-a pelo prazo necessário para completar a avaliação.
+
+## CAPÍTULO VII
+
+### PROCEDIMENTOS DE RECONHECIMENTO MÚTUO
+
+###### Artigo 32.º — Autorização por reconhecimento mútuo
+
+1. Os pedidos de reconhecimento mútuo de autorizações nacionais são apresentados nos termos dos procedimentos estabelecidos no artigo 33.º (reconhecimento mútuo sequencial) e no artigo 34.º (reconhecimento mútuo paralelo).
+
+2. Sem prejuízo do disposto no artigo 37.º, todos os Estados-Membros que recebam pedidos de reconhecimento mútuo de uma autorização nacional autorizam o produto biocida nos mesmos termos e nas mesmas condições, nos termos e sem prejuízo dos procedimentos previstos no presente capítulo.
+
+###### Artigo 33.º — Reconhecimento mútuo sequencial
+
+1. Os requerentes que desejem solicitar o reconhecimento mútuo sequencial, num ou em vários Estados-Membros («Estados-Membros interessados»), da autorização nacional de um produto biocida já concedida noutro Estado-Membro nos termos do artigo 17.º («Estado-Membro de referência»), devem apresentar às autoridades competentes dos Estados-Membros em causa um pedido que inclua a tradução, nas línguas oficiais dos Estados-Membros em causa por eles solicitadas, da autorização nacional concedida pelo Estado-Membro de referência.
+
+As autoridades competentes dos Estados-Membros em causa informam o requerente das taxas devidas por força do artigo 80.º e indeferem o pedido se o requerente não pagar as taxas no prazo de 30 dias. Essas autoridades informam do facto o requerente e as demais autoridades competentes. Ao receber as taxas devidas por força do artigo 80.º, as autoridades competentes dos Estados-Membros em causa aceitam o pedido e informam o requerente, indicando a data da aceitação.
+
+2. No prazo de 30 dias a contar da aceitação referida no n.º 1, os Estados-Membros em causa validam o pedido e informam do facto o requerente, indicando a data da validação.
+
+No prazo de 90 dias a contar da validação do pedido, e sem prejuízo do disposto nos artigos 35.º, 36.º e 37.º, os Estados-Membros em causa aprovam o resumo das características do produto biocida a que se refere o artigo 22.º, n.º 2, e registam a sua aprovação no Registo de Produtos Biocidas.
+
+3. No prazo de 30 dias a contar da data em que for alcançado um acordo, cada um dos Estados-Membros em causa autoriza o produto biocida nos termos do resumo das características do produto biocida que foi aprovado.
+
+4. Sem prejuízo do disposto nos artigos 35.º, 36.º e 37.º, se não for alcançado um acordo no prazo de 90 dias previsto no segundo parágrafo do n.º 2, cada um dos Estados-Membros que aprovar o resumo das características do produto biocida, a que se refere o n.º 2, pode autorizar o produto em conformidade.
+
+###### Artigo 34.º — Reconhecimento mútuo paralelo
+
+1.
+
+Os requerentes que desejem solicitar o reconhecimento mútuo paralelo de um produto biocida que não tenha ainda sido autorizado nos termos do artigo 17.º em nenhum Estado-Membro devem apresentar à autoridade competente do Estado-Membro da sua escolha («Estado-Membro de referência») um pedido que inclua:
+
+a) As informações referidas no artigo 20.º;
+
+b) Uma lista de todos os outros Estados-Membros em que é solicitada uma autorização nacional («os Estados-Membros interessados»).
+
+O Estado-Membro de referência é responsável pela avaliação do pedido.
+
+2.
+
+Ao apresentar o pedido nos termos do n.º 1 ao Estado-Membro de referência, o requerente deve igualmente apresentar às autoridades competentes de cada um dos Estados-Membros interessados um pedido de reconhecimento mútuo da autorização que solicitou junto do Estado-Membro de referência. O pedido deve incluir:
+
+a) Os nomes do Estado-Membro de referência e dos Estados-Membros interessados;
+
+b) O resumo das características do produto biocida a que se refere o artigo 20.º, n.º 1, alínea a), subalínea ii), redigido nas línguas oficiais dos Estados-Membros em causa por eles solicitadas.
+
+3. As autoridades competentes do Estado-Membro de referência e dos Estados-Membros interessados informam o requerente das taxas devidas ao por força do artigo 80.º e indeferem o pedido se o requerente não pagar as taxas no prazo de 30 dias. Essas autoridades informam do facto o requerente e as demais autoridades competentes. Ao receber as taxas devidas por força do artigo 80.º, as autoridades competentes do Estado-Membro de referência e dos Estados-Membros interessados aceitam o pedido e informam o requerente, indicando a data da aceitação.
+
+4. O Estado-Membro de referência valida o pedido de acordo com o artigo 29.º, n.^os^ 2 e 3, e informa do facto o requerente e os Estados-Membros em causa.
+
+No prazo de 365 dias a contar da validação do pedido, o Estado-Membro de referência avalia o pedido, elabora um relatório de avaliação nos termos do artigo 30.º, e envia o seu relatório de avaliação, bem como o resumo das características do produto biocida, aos Estados-Membros em causa e ao requerente.
+
+5. No prazo de 90 dias a contar da receção dos documentos referidos no n.º 4, e sem prejuízo do disposto nos artigos 35.º, 36.º e 37.º, os Estados-Membros em causa aprovam o resumo das características do produto biocida e registam a sua aprovação no Registo de Produtos Biocidas. O Estado-Membro de referência inscreve no Registo de Produtos Biocidas o resumo aprovado das características do produto biocida e o relatório de avaliação final, juntamente com os termos e condições impostas à disponibilização no mercado e à utilização do produto biocida.
+
+6. No prazo de 30 dias a contar da data em que for alcançado um acordo, o Estado-Membro de referência e cada um dos Estados-Membros em causa autoriza o produto biocida nos termos do resumo das características do produto biocida que foi aprovado.
+
+7. Sem prejuízo do disposto nos artigos 35.º, 36.º e 37.º, se não for alcançado um acordo no prazo de 90 dias previsto no n.º 5, cada um dos Estados-Membros que aprovar o resumo das características do produto biocida, a que se refere o n.º 5, pode autorizar o produto em conformidade.
+
+###### Artigo 35.º — Comunicação das objeções ao grupo de coordenação
+
+1. É instituído um grupo de coordenação encarregado que, com exceção dos assuntos referidos no artigo 37.º, deverá avaliar se um produto biocida que tenha sido objeto de um pedido de reconhecimento mútuo ao abrigo dos artigos 33.º ou 34.º preenche as condições de concessão da autorização estabelecidas no artigo 19.º.
+
+Todos os Estados-Membros e a Comissão podem participar nos trabalhos do grupo de coordenação. A Agência assegura o secretariado deste grupo.
+
+O grupo de coordenação aprova o seu regulamento interno.
+
+2. Se qualquer dos Estados-Membros interessados considerar que o produto biocida avaliado pelo Estado-Membro de referência não preenche as condições estabelecidas no artigo 19.º, envia uma informação detalhada dos pontos de desacordo e dos motivos da sua posição ao Estado-Membro de referência, aos demais Estados-Membros interessados, ao requerente e, se for caso disso, ao titular da autorização. Os pontos de desacordo são comunicados sem demora ao grupo de coordenação.
+
+3. No âmbito do grupo de coordenação, os Estados-Membros referidos no n.º 2 do presente artigo envidam os maiores esforços no sentido de chegarem a acordo quanto às medidas a adotar. Facultam ao requerente a oportunidade de expor a sua opinião. Se chegarem a acordo no prazo de 60 dias a contar da data de envio da informação relativa aos pontos de desacordo a que se refere o n.º 2 do presente artigo, o Estado-Membro de referência regista esse acordo no Registo de Produtos Biocidas. Considera-se então encerrado o procedimento e o Estado-Membro de referência e os Estados-Membros interessados autorizam os produtos biocidas nos termos do artigo 33.º, n.º 3, ou 34.º, n.º 6, consoante o caso.
+
+###### Artigo 36.º — Comunicação das objeções não resolvidas à Comissão
+
+1. Se os Estados-Membros a que se refere o artigo 35.º, n.º 2, não conseguirem chegar a acordo no prazo de 60 dias fixado no artigo 35.º, n.º 3, o Estado-Membro de referência informa imediatamente a Comissão e fornece-lhe uma informação pormenorizada dos pontos de desacordo sobre as quais os Estados-Membros não puderam chegar a acordo, bem como dos respetivos motivos. É enviada cópia dessa informação aos Estados-Membros interessados, ao requerente e, se for caso disso, ao titular da autorização.
+
+2. A Comissão pode solicitar à Agência um parecer sobre questões científicas ou técnicas colocadas pelos Estados-Membros. Se não solicitar o parecer da Agência, a Comissão dá ao requerente e, se for caso disso, ao titular da autorização a oportunidade de apresentar observações escritas no prazo de 30 dias.
+
+3. A Comissão analisa a questão que lhe foi apresentada e adota, por meio de atos de execução, uma decisão sobre a mesma. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+4. A decisão referida no n.º 3 tem por destinatários todos os Estados-Membros e é comunicada para informação ao requerente e, se for caso disso, ao titular da autorização. No prazo de 30 dias a contar da notificação da decisão, os Estados-Membros interessados e o Estado-Membro de referência concedem, recusam-se a conceder ou revogam a autorização, ou então alteram os respetivos termos e condições consoante necessário para dar cumprimento à decisão.
+
+###### Artigo 37.º — Derrogações ao reconhecimento mútuo
+
+1.
+
+Em derrogação do disposto no artigo 32.º, n.º 2, qualquer dos Estados-Membros interessados pode propor o indeferimento do pedido de autorização ou o ajustamento dos termos e condições da autorização a conceder, desde que tal medida possa justificar-se por motivos relacionados com:
+
+a) A proteção do ambiente;
+
+b) A ordem pública ou a segurança pública;
+
+c) A proteção da saúde e da vida das pessoas, em particular, dos grupos vulneráveis, ou de animais ou plantas;
+
+d) A proteção do património nacional de valor artístico, histórico ou arqueológico; ou
+
+e) O facto de o organismo visado não se encontrar presente em quantidades prejudiciais.
+
+Qualquer dos Estados-Membros interessados pode, nomeadamente, propor, de acordo com o primeiro parágrafo, o indeferimento do pedido de autorização ou o ajustamento dos termos e condições da autorização a conceder no caso de um produto biocida que contenha uma substância ativa à qual sejam aplicáveis o artigo 5.º, n.º 2, ou o artigo 10.º, n.º 1.
+
+2. O Estado-Membro interessado comunica ao requerente uma descrição pormenorizada das razões pelas quais solicita uma derrogação nos termos do n.º 1 e tenta chegar a acordo com o requerente sobre a derrogação proposta.
+
+Se não conseguir chegar a acordo com o requerente, ou não receber resposta do requerente no prazo de 60 dias a contar da referida comunicação, o Estado-Membro interessado informa do facto a Comissão. Nesse caso, a Comissão:
+
+a) Pode solicitar à Agência um parecer sobre questões científicas ou técnicas colocadas pelo requerente ou pelo Estado-Membro em causa;
+
+b) Adota uma decisão sobre a derrogação pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+A decisão da Comissão tem por destinatário o Estado-Membro interessado e é comunicada ao requerente para informação.
+
+No prazo de 30 dias a contar da notificação da decisão da Comissão, o Estado-Membro interessado toma as medidas necessárias para lhe dar cumprimento.
+
+3. Se a Comissão não adotar uma decisão nos termos do n.º 2 no prazo de 90 dias a contar da data em que recebeu a informação referida no segundo parágrafo do n.º 2, o Estado-Membro em causa pode aplicar a derrogação proposta nos termos do n.º 1.
+
+Enquanto o procedimento ao abrigo do presente artigo estiver em curso, a obrigação dos Estados-Membros de autorizar um produto biocida no prazo de três anos a contar da data da aprovação, a que se refere o artigo 89.º, n.º 3, primeiro parágrafo, é temporariamente suspensa.
+
+4. Em derrogação do disposto no artigo 32.º, n.º 2, qualquer Estado-Membro pode recusar-se a conceder autorizações para os tipos de produtos 15, 17 e 20, por motivos de bem-estar dos animais. Os Estados-Membros informam sem demora os demais Estados-Membros e a Comissão de qualquer decisão tomada a este respeito e da respetiva justificação.
+
+###### Artigo 38.º — Parecer da Agência
+
+1. Se a Comissão lho solicitar, nos termos do artigo 36.º, n.º 2, ou do artigo 37.º, n.º 2, a Agência emite parecer no prazo de 120 dias a contar da data em que o assunto lhe foi apresentado.
+
+2. Antes de emitir parecer, a Agência dá ao requerente e, se for caso disso, ao titular da autorização a oportunidade de apresentar observações escritas num prazo, não superior a 30 dias.
+
+A Agência pode suspender o prazo previsto no n.º 1 para permitir ao requerente ou ao titular da autorização prepararem observações.
+
+###### Artigo 39.º — Pedido de reconhecimento mútuo por organismos oficiais ou científicos
+
+1. Se, em determinado Estado-Membro, não tiver sido apresentado nenhum pedido de autorização nacional para um produto biocida já autorizado noutro Estado-Membro, os organismos oficiais ou científicos envolvidos em atividades de controlo de pragas ou de proteção da saúde pública podem solicitar, ao abrigo do procedimento de reconhecimento mútuo previsto no artigo 33.º e com o consentimento do titular da autorização no outro Estado-Membro, uma autorização nacional para o mesmo produto biocida, com a mesma utilização e as mesmas condições de utilização que no outro Estado-Membro.
+
+O requerente deve demonstrar que a utilização desse produto biocida é de interesse geral para o Estado-Membro.
+
+O pedido deve ser acompanhado das taxas devidas por força do artigo 80.º.
+
+2. Se considerar que o produto biocida preenche as condições referidas no artigo 19.º e se estiverem reunidas as condições estabelecidas no presente artigo, a autoridade competente do Estado-Membro interessado autoriza a disponibilização do produto biocida no mercado e a sua utilização. Nesse caso, o organismo que apresentou o pedido tem os mesmos direitos e as mesmas obrigações que os outros titulares da autorização.
+
+###### Artigo 40.º — Regras complementares e notas técnicas de orientação
+
+Deverá ser atribuída competência à Comissão para aprovar atos delegados nos termos do artigo 83.º que estabeleçam regras adicionais para a renovação das autorizações sujeitas ao reconhecimento mútuo.
+
+A Comissão elabora ainda notas técnicas de orientação a fim de facilitar a execução do disposto no presente capítulo, em particular nos artigos 37.º e 39.º.
+
+## CAPÍTULO VIII
+
+### AUTORIZAÇÕES DA UNIÃO RELATIVAS A PRODUTOS BIOCIDAS
+
+## SECÇÃO 1
+
+### Concessão de autorizações da União
+
+###### Artigo 41.º — Autorização da União
+
+Salvo disposição em contrário, as autorizações da União emitidas pela Comissão ao abrigo da presente secção são válidas em toda a União. Conferem, em cada Estado-Membro, os mesmos direitos e obrigações que as autorizações nacionais. Para as categorias de produtos biocidas referidas no artigo 42.º, n.º 1, o requerente pode solicitar uma autorização da União, em vez de solicitar uma autorização nacional e o respetivo reconhecimento mútuo.
+
+###### Artigo 42.º — Produtos biocidas que podem ser objeto de autorização da União
+
+1.
+
+Os requerentes podem solicitar uma autorização da União para os produtos biocidas que tenham condições de utilização semelhantes em toda a União, com exceção dos produtos que contenham substâncias ativas abrangidas pelo artigo 5.º e dos incluídos nos tipos de produtos 14, 15, 17, 20 e 21. A autorização da União pode ser concedida:
+
+a) A partir de 1 de setembro de 2013, aos produtos biocidas que contenham uma ou mais substâncias ativas novas e aos produtos biocidas incluídos nos tipos de produtos 1, 3, 4, 5, 18 e 19;
+
+b) A partir de 1 de janeiro de 2017, aos produtos biocidas incluídos nos tipos de produtos 2, 6 e 13; e
+
+c) A partir de 1 de janeiro de 2020, aos produtos biocidas de todos os restantes tipos de produtos.
+
+2. A Comissão elabora, até 1 de setembro de 2013, documentos de orientação sobre a definição de «condições de utilização semelhantes em toda a União».
+
+3. Até 31 de dezembro de 2017, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente artigo. Esse relatório deve conter uma avaliação da exclusão dos tipos de produtos 14, 15, 17, 20 e 21 da autorização da União.
+
+Se for caso disso, o relatório deve ser acompanhado de propostas pertinentes a adotar de acordo com o processo legislativo ordinário.
+
+###### Artigo 43.º — Apresentação e validação dos pedidos
+
+1. O requerente que pretenda solicitar uma autorização da União nos termos do artigo 42.º, n.º 1, apresenta o seu pedido à Agência, incluindo a confirmação de que o produto biocida terá condições de utilização semelhantes em toda a União, comunica o nome da autoridade competente do Estado-Membro que propõe para avaliar o pedido e apresenta uma confirmação escrita de que esta autoridade competente aceita tal tarefa. Essa autoridade competente é a autoridade competente de avaliação.
+
+2. A Agência informa o requerente das taxas devidas por força do artigo 80.º, n.º 1. Se o requerente não pagar as taxas no prazo de 30 dias, a Agência indefere o pedido e informa do facto o requerente e a autoridade competente de avaliação.
+
+Ao receber as taxas devidas por força do artigo 80.º, n.º 1, a Agência aceita o pedido e informa do facto o requerente e a autoridade competente de avaliação, indicando a data de aceitação.
+
+3. No prazo de 30 dias a contar da aceitação do pedido pela Agência, a autoridade competente de avaliação valida-o, se tiverem sido apresentadas as informações pertinentes referidas no artigo 20.º.
+
+No contexto da validação a que se refere o primeiro parágrafo, a autoridade competente de avaliação não avalia a qualidade ou a adequação dos dados ou das justificações apresentados.
+
+A autoridade competente de avaliação informa o requerente, no mais curto prazo depois de a Agência ter aceite um pedido, da taxas devidas por força do artigo 80.º, n.º 2, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A autoridade competente de avaliação informa do facto o requerente.
+
+4. Se considerar que o pedido está incompleto, a autoridade competente de avaliação informa o requerente das informações adicionais necessárias para a avaliação do pedido e fixa um prazo razoável para a apresentação dessas informações. Este prazo não pode, por norma, ser superior a 90 dias.
+
+No prazo de 30 dias a contar da receção das informações adicionais, a autoridade competente de avaliação valida o pedido se determinar que essas informações são suficientes para cumprir o requisito estabelecido no n.º 3.
+
+Se o requerente não apresentar as informações solicitadas dentro do prazo fixado, a autoridade competente de avaliação indefere o pedido e informa do facto o requerente. Nesses casos, uma parte das taxas pagas por força do artigo 80.º, n.^os^ 1 e 2, é reembolsada.
+
+5. Ao validar o pedido de acordo com os n.^os^ 3 ou 4, a autoridade competente de avaliação informa sem demora do facto o requerente, a Agência e as demais autoridades competentes, indicando a data da validação.
+
+6. As decisões tomadas pela Agência ao abrigo do n.º 2 do presente artigo podem ser objeto de recurso interposto ao abrigo do artigo 77.º.
+
+###### Artigo 44.º — Avaliação dos pedidos
+
+1. No prazo de 365 dias a contar da validação de um pedido, a autoridade competente de avaliação avalia esse pedido, nos termos do artigo 19.º, bem como, se for caso disso, qualquer proposta de adaptação dos requisitos em matéria de dados apresentada nos termos do artigo 21.º, n.º 2, e envia um relatório de avaliação e as conclusões da sua avaliação à Agência.
+
+Antes de apresentar as suas conclusões à Agência, a autoridade competente de avaliação dá ao requerente a oportunidade de apresentar observações escritas sobre as conclusões da avaliação no prazo de 30 dias. A autoridade competente de avaliação toma em devida consideração essas observações ao finalizar a sua avaliação.
+
+2. Sempre que se afigurem necessárias informações adicionais para proceder à avaliação, a autoridade competente de avaliação solicita ao requerente a apresentação dessas informações, fixa um prazo para o efeito e informa do facto a Agência. O prazo de 365 dias referido no n.º 1 é suspenso a contar da data de envio do pedido e até à data de receção das informações. Todavia, a suspensão não pode ser superior a 180 dias no total, salvo se circunstâncias excecionais ou a natureza das informações solicitadas o justificarem.
+
+3. No prazo de 180 dias a contar da receção das conclusões da avaliação, a Agência elabora e apresenta à Comissão um parecer sobre a autorização do produto biocida.
+
+Se a Agência recomendar a autorização do produto biocida, o parecer deve conter, pelo menos, os seguintes elementos:
+
+a) Uma declaração que indique se estão preenchidas as condições estabelecidas no artigo 19.º, n.º 1, e um projeto de resumo das características do produto biocida, conforme referido no artigo 22.º, n.º 2;
+
+b) Se for caso disso, dados pormenorizados sobre os termos ou condições que devem ser impostos à disponibilização no mercado ou à utilização do produto biocida;
+
+c) O relatório de avaliação final do produto biocida.
+
+4. No prazo de 30 dias a contar da apresentação do seu parecer à Comissão, a Agência transmite à Comissão, em todas as línguas oficiais da União, o projeto de resumo das características do produto biocida a que se refere o artigo 22.º, n.º 2, se aplicável.
+
+5. Após receção do parecer da Agência, a Comissão adota um regulamento de execução que conceda a autorização da União ao produto biocida ou uma decisão de execução que indique que a autorização da União ao produto biocida não foi concedida. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+A pedido de um Estado-Membro, a Comissão decide ajustar determinadas condições da autorização da União de forma específica ao território desse Estado-Membro, ou decidir que a autorização da União não é aplicável no território desse Estado-Membro, desde que tal pedido se possa justificar por um ou mais dos motivos referidos no artigo 37.º, n.º 1.
+
+## SECÇÃO 2
+
+### Renovação de autorizações da União
+
+###### Artigo 45.º — Apresentação e aceitação dos pedidos
+
+1. Os pedidos de renovação de autorizações da União são apresentados à Agência pelo titular da autorização que deseja solicitar a renovação, ou em seu nome, pelo menos 550 dias antes da data de caducidade da autorização.
+
+2.
+
+Ao solicitar a renovação, o requerente deve apresentar:
+
+a) Sem prejuízo do disposto no artigo 21.º, n.º 1, todos os dados pertinentes exigidos nos termos do artigo 20.º gerados, consoante o caso, desde a autorização inicial ou desde a renovação anterior; e
+
+b) A sua avaliação quanto a saber se as conclusões da avaliação inicial ou anterior do produto biocida continuam válidas, bem como eventuais informações de apoio.
+
+3. O requerente comunica igualmente o nome da autoridade competente do Estado-Membro que propõe para avaliar o pedido de renovação e apresenta uma confirmação escrita de que esta autoridade competente aceita tal tarefa. Essa autoridade competente é a autoridade competente de avaliação.
+
+A Agência informa o requerente das taxas devidas por força do artigo 80.º, n.º 1, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A Agência informa do facto o requerente e a autoridade competente de avaliação.
+
+Ao receber as taxas devidas por força do artigo 80.º, n.º 1, a Agência aceita o pedido e informa do facto o requerente e a autoridade competente de avaliação, indicando a data de aceitação.
+
+4. As decisões tomadas pela Agência ao abrigo do n.º 3 do presente artigo podem ser objeto de recurso interposto ao abrigo do artigo 77.º.
+
+###### Artigo 46.º — Avaliação dos pedidos de renovação
+
+1. Com base na avaliação das informações disponíveis e na necessidade de proceder à revisão das conclusões da avaliação inicial do pedido de autorização da União ou da renovação anterior, consoante o caso, a autoridade competente de avaliação decide, no prazo de 30 dias a contar da aceitação do pedido pela Agência nos termos do artigo 45.º, n.º 3, se, à luz dos conhecimentos científicos atuais, é necessária uma avaliação completa do pedido de renovação.
+
+2. Se a autoridade competente de avaliação decidir que é necessária uma avaliação completa do pedido, a avaliação é realizada nos termos do artigo 44.º, n.^os^ 1 e 2.
+
+Se decidir que não é necessária uma avaliação completa do pedido, a autoridade competente de avaliação elabora e apresenta à Agência, no prazo de 180 dias a contar da aceitação do pedido pela Agência, uma recomendação sobre a renovação da autorização. A autoridade competente de avaliação fornece ao requerente uma cópia da sua recomendação.
+
+A autoridade competente de avaliação informa o requerente, no mais curto prazo de tempo depois de a Agência ter aceite um pedido, da taxa devida por força do artigo 80.º, n.º 2, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A autoridade competente de avaliação informa do facto o requerente.
+
+3. No prazo de 180 dias a contar da receção da recomendação da autoridade competente de avaliação, a Agência elabora e apresenta à Comissão um parecer sobre a renovação da autorização da União.
+
+4. Após receção do parecer da Agência, a Comissão adota um regulamento de execução que renove a autorização da União ou uma decisão de execução pela qual recusa a renovação da autorização da União. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+A Comissão renova a autorização da União desde que continuem a estar reunidas as condições estabelecidas no artigo 19.º.
+
+5. Se, por razões independentes da vontade do titular da autorização da União, não for tomada qualquer decisão sobre a renovação da autorização antes da respetiva data de caducidade, a Comissão renova a autorização da União pelo prazo necessário para completar a avaliação, por meio de atos de execução. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 82.º, n.º 2.
+
+## CAPÍTULO IX
+
+### REVOGAÇÃO, REVISÃO E ALTERAÇÃO DAS AUTORIZAÇÕES
+
+###### Artigo 47.º — Obrigação de notificação de efeitos imprevistos ou adversos
+
+1.
+
+Se tomar conhecimento de informações referentes ao produto biocida autorizado, ou à(s) substância(s) ativa(s) nele contida(s), que possam afetar a autorização, o titular da autorização deve notificar sem demora a autoridade competente que concedeu a autorização nacional e a Agência ou, no caso de uma autorização da União, a Comissão e a Agência. Em particular, devem ser objeto de notificação os seguintes elementos:
+
+a) Novos dados ou informações sobre os efeitos adversos da substância ativa ou do produto biocida nos seres humanos, em especial os grupos vulneráveis, nos animais ou no ambiente;
+
+b) Dados que indiquem que a substância ativa é suscetível de induzir o desenvolvimento de resistências;
+
+c) Novos dados ou informações que indiquem que o produto biocida não é suficientemente eficaz.
+
+2. A autoridade competente que concedeu a autorização nacional ou, no caso de uma autorização da União, a Agência, examina se é necessário alterar ou revogar a autorização nos termos do artigo 48.º.
+
+3. A autoridade competente que concedeu a autorização nacional ou, no caso de uma autorização da União, a Agência, notifica sem demora as autoridades competentes dos demais Estados-Membros e, se for caso disso, a Comissão dos dados ou informações do tipo acima referido que tenha recebido.
+
+As autoridades competentes dos Estados-Membros que tenham emitido uma autorização nacional para o mesmo produto biocida ao abrigo do procedimento de reconhecimento mútuo examinam se é necessário alterar ou revogar a autorização nos termos do artigo 48.º.
+
+###### Artigo 48.º — Revogação ou alteração de autorizações
+
+1.
+
+Sem prejuízo do artigo 23.º, a autoridade competente de um Estado-Membro ou, no caso de uma autorização da União, a Comissão revoga ou altera, a qualquer momento, uma autorização por si concedida se considerar que:
+
+a) As condições previstas no artigo 19.º ou, consoante o caso, no artigo 25.º não estão verificadas;
+
+b) A autorização foi concedida com base em informações falsas ou enganosas; ou
+
+c) O titular da autorização não cumpriu as obrigações que lhe incumbem nos termos da autorização ou do presente regulamento.
+
+2. Se tencionar revogar ou alterar uma autorização, a autoridade competente ou, no caso de uma autorização da União, a Comissão informa do facto o titular da autorização e dá-lhe a oportunidade de apresentar observações ou informações adicionais num prazo por ela fixado. A autoridade competente de avaliação ou, no caso de uma autorização da União, a Comissão, toma em devida consideração essas observações ao finalizar a sua decisão.
+
+3. Se revogar ou alterar uma autorização ao abrigo do n.º 1, a autoridade competente ou, no caso de uma autorização da União, a Comissão notifica sem demora o titular da autorização, as autoridades competentes dos demais Estados-Membros e, se for caso disso, a Comissão.
+
+As autoridades competentes que tenham emitido autorizações ao abrigo do procedimento de reconhecimento mútuo para produtos biocidas cuja autorização tenha sido revogada ou alterada procedem, no prazo de 120 dias a contar da notificação, à revogação ou alteração das autorizações e notificam do facto a Comissão.
+
+Em caso de desacordo entre as autoridades competentes de alguns Estados-Membros em relação às autorizações nacionais sujeitas ao reconhecimento mútuo, são aplicáveis, com as necessárias adaptações, os procedimentos previstos nos artigos 35.º e 36.º.
+
+###### Artigo 49.º — Revogação de uma autorização a pedido do seu titular
+
+Mediante pedido fundamentado do titular de uma autorização, a autoridade competente que concedeu a autorização nacional, ou, no caso de uma autorização da União, a Comissão, revoga essa autorização. Se disser respeito a uma autorização da União, o pedido é apresentado à Agência.
+
+###### Artigo 50.º — Alteração de uma autorização a pedido do seu titular
+
+1. As alterações aos termos e condições de uma autorização só podem ser efetuadas pela autoridade competente que autorizou o produto biocida em causa ou, no caso de uma autorização da União, pela Comissão.
+
+2. O titular da autorização que pretenda alterar qualquer informação apresentada em relação ao pedido inicial de autorização do produto apresenta o pedido às autoridades competentes dos Estados-Membros que autorizaram o produto biocida em causa ou, no caso de uma autorização da União, à Agência. Essas autoridades competentes decidem ou, no caso de uma autorização da União, a Agência examina e a Comissão decide se continuam reunidas as condições do artigo 19.º ou, consoante o caso, do artigo 25.º e se é necessário alterar os termos e as condições da autorização.
+
+O pedido deve ser acompanhado das taxas devidas por força do artigo 80.º, n.^os^ 1 e 2.
+
+3.
+
+Uma alteração de uma autorização existente deve inserir-se numa das seguintes categorias de alterações:
+
+a) Alteração administrativa;
+
+b) Alteração menor; ou
+
+c) Alteração importante.
+
+###### Artigo 51.º — Regras de execução
+
+A fim de garantir uma abordagem harmonizada no que se refere à revogação e à alteração de autorizações, a Comissão estabelece, por meio de atos de execução, regras de execução dos artigos 47.º a 50.º. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+As regras a que se refere o primeiro parágrafo do presente artigo baseiam-se, nomeadamente, nos seguintes princípios:
+
+a) Para as alterações administrativas, deve ser aplicado um processo simplificado de notificação;
+
+b) Para as alterações menores, deve ser fixado um prazo reduzido de avaliação;
+
+c) Para as alterações importantes, o prazo de avaliação deve ser proporcionado em relação ao alcance da alteração proposta.
+
+###### Artigo 52.º — Período de graça
+
+Não obstante o disposto no artigo 89.º, se revogar ou alterar uma autorização ou decidir não a renovar, a autoridade competente ou, no caso de um produto biocida autorizado a nível da União, a Comissão, concede um período de graça para a disponibilização no mercado e a utilização das existências desse produto, exceto se a disponibilização contínua do produto biocida no mercado ou a continuação da sua utilização constituírem um risco inaceitável para a saúde humana, para a saúde animal ou para o ambiente.
+
+O período de graça não pode ser superior a 180 dias no que diz respeito à disponibilização no mercado e pode ser prorrogado por um período adicional máximo de 180 dias no que diz respeito à utilização das existências dos produtos biocidas em causa.
+
+## CAPÍTULO X
+
+### COMÉRCIO PARALELO
+
+###### Artigo 53.º — Comércio paralelo
+
+1. Não obstante o disposto no artigo 17.º, a pedido do requerente, a autoridade competente de um Estado-Membro («Estado-Membro de introdução») concede uma licença de comércio paralelo a um produto biocida autorizado noutro Estado-Membro («Estado-Membro de origem»), para fins da sua disponibilização no mercado e utilização no Estado-Membro de introdução, se determinar, ao abrigo do n.º 3, que o produto biocida é idêntico a um produto biocida já autorizado no Estado-Membro de introdução («produto de referência»).
+
+O requerente que tencione colocar um produto biocida no mercado do Estado-Membro de introdução apresenta o pedido de licença de comércio paralelo à autoridade competente do Estado-Membro de introdução.
+
+O pedido deve ser acompanhado de todas as informações referidas no n.º 4 e de todas as demais informações necessárias para demonstrar que o produto biocida é idêntico ao produto de referência conforme definido no n.º 3.
+
+2. Caso determine que o produto biocida é idêntico ao produto de referência, a autoridade competente do Estado-Membro de introdução concede uma licença de comércio paralelo no prazo de 60 dias a contar da receção das taxas devidas ao abrigo do artigo 80.º, n.º 2. A autoridade competente do Estado-Membro de introdução pode solicitar à autoridade competente do Estado-Membro de origem informações adicionais necessárias para determinar se o produto é idêntico ao produto de referência. A autoridade competente do Estado-Membro de origem faculta as informações solicitadas no prazo de 30 dias a contar da receção do pedido.
+
+3.
+
+O produto biocida é considerado idêntico ao produto de referência se, e apenas se, estiverem reunidas todas as seguintes condições:
+
+a) Foram fabricados pela mesma empresa, por uma empresa associada ou sob licença, de acordo com o mesmo processo de fabrico;
+
+b) São idênticos em termos de especificações e conteúdo no que respeita às substâncias ativas e ao tipo de formulação;
+
+c) São idênticos no que respeita às substâncias não ativas presentes; e
+
+d) São idênticos ou equivalentes no que se refere à dimensão ou forma da embalagem, ou ao material de que esta é constituída, em termos de potencial efeito negativo na segurança do produto em relação à saúde humana, à saúde animal ou ao ambiente.
+
+4.
+
+O pedido de licença de comércio paralelo deve incluir as seguintes informações e elementos:
+
+a) Nome e número de autorização do produto biocida no Estado-Membro de origem;
+
+b) Nome e endereço da autoridade competente do Estado-Membro de origem;
+
+c) Nome e endereço do titular da autorização no Estado-Membro de origem;
+
+d) Rótulo e instruções de utilização de origem que acompanham o produto biocida aquando da sua distribuição no Estado-Membro de origem, se forem considerados necessários para o exame pela autoridade competente do Estado-Membro de introdução;
+
+e) Nome e endereço do requerente;
+
+f) Nome a dar ao produto biocida destinado a distribuição no Estado-Membro de introdução;
+
+g) Projeto de rótulo do produto biocida destinado a disponibilização no mercado no Estado-Membro de introdução, na língua ou línguas oficiais do Estado-Membro de introdução, salvo disposição em contrário por parte deste;
+
+h) Amostra do produto biocida a introduzir, se a autoridade competente do Estado-Membro de introdução o considerar necessário;
+
+i) Nome e número da autorização do produto de referência no Estado-Membro de introdução.
+
+A autoridade competente do Estado-Membro de introdução pode exigir a tradução das partes pertinentes das instruções de utilização de origem referidas na alínea d).
+
+5. A licença de comércio paralelo estabelece as mesmas condições de disponibilização no mercado e utilização que as da autorização do produto de referência.
+
+6. A licença de comércio paralelo é válida pelo prazo de validade da autorização do produto de referência no Estado-Membro de introdução.
+
+Se o titular da autorização do produto de referência solicitar a revogação da autorização ao abrigo do artigo 49.º e se os requisitos do artigo 19.º continuarem a ser cumpridos, a licença de comércio paralelo caduca na data em que a autorização do produto de referência teria normalmente caducado.
+
+7. Sem prejuízo das disposições específicas do presente artigo, os artigos 47.º a 50.º e o Capítulo XV são aplicáveis, com as necessárias adaptações, aos produtos biocidas disponibilizados no mercado ao abrigo de uma licença de comércio paralelo.
+
+8. A autoridade competente do Estado-Membro de introdução pode revogar a licença de comércio paralelo se a autorização do produto biocida introduzido for revogada no Estado-Membro de origem por motivos de segurança ou de eficácia.
+
+## CAPÍTULO XI
+
+### EQUIVALÊNCIA TÉCNICA
+
+###### Artigo 54.º — Avaliação da equivalência técnica
+
+1. Caso seja necessário estabelecer a equivalência técnica de substâncias ativas, a pessoa que pretenda estabelecer a equivalência («requerente») apresenta um pedido à Agência.
+
+2. O requerente deve apresentar todos os dados de que a Agência necessita para avaliar a equivalência técnica.
+
+3. A Agência informa o requerente das taxas devidas por força do artigo 80.º, n.º 1, e indefere o pedido se o requerente não pagar as taxas no prazo de 30 dias. A Agência informa do facto o requerente.
+
+4. Depois de dar ao requerente a oportunidade de apresentar observações, a Agência toma uma decisão no prazo de 90 dias a contar da receção do pedido, a que se refere o n.º 1, e transmite-a aos Estados-Membros e ao requerente.
+
+5. Sempre que a Agência considerar que são necessárias informações adicionais para proceder à avaliação da equivalência técnica, a Agência solicita ao requerente que apresente essas informações num prazo por esta fixado. Se o requerente não apresentar as informações adicionais dentro do prazo fixado, a Agência indefere o pedido. O prazo de 90 dias referido no n.º 4 é suspenso a contar da data de envio do pedido e até à data de receção das informações. A suspensão não pode ser superior a 180 dias, exceto se a natureza dos dados solicitados ou circunstâncias excecionais o justificarem.
+
+6. A Agência pode, se necessário, consultar a autoridade competente do Estado-Membro que agiu como autoridade competente de avaliação para efeitos de avaliação da substância ativa.
+
+7. As decisões tomadas pela Agência ao abrigo do n.^os^ 3, 4 e 5 do presente artigo podem ser objeto de recurso interposto ao abrigo do artigo 77.º.
+
+8. A Agência elabora notas técnicas de orientação a fim de facilitar a execução do presente artigo.
+
+## CAPÍTULO XII
+
+### DERROGAÇÕES
+
+###### Artigo 55.º — Derrogação dos requisitos
+
+1. Em derrogação do disposto nos artigos 17.º e 19.º, uma autoridade competente pode autorizar, por um prazo não superior a 180 dias, a disponibilização no mercado ou a utilização de um produto biocida que não preencha as condições de autorização previstas no presente regulamento para fins de utilização limitada e controlada sob a supervisão da autoridade competente, se essa medida for necessária devido a um perigo para a saúde pública, para a saúde animal ou para o ambiente que não possa ser combatido por outros meios.
+
+A autoridade competente referida no primeiro parágrafo informa sem demora as demais autoridades competentes e a Comissão da sua ação, fundamentando-a. A autoridade competente informa sem demora as demais autoridades competentes e a Comissão da revogação dessa ação.
+
+Após a receção do pedido fundamentado da autoridade competente, a Comissão decide sem demora, por meio de atos de execução, se, e em que condições, a ação empreendida por essa autoridade pode ser prorrogada por um prazo não superior a 550 dias. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+2. Em derrogação do disposto no artigo 19.º, n.º 1, alínea a), e até que a substância ativa seja aprovada, as autoridades competentes e a Comissão podem autorizar, por um prazo não superior a três anos, um produto biocida que contenha uma nova substância ativa.
+
+Tal autorização provisória apenas pode ser concedida se, depois da avaliação dos dossiers nos termos do artigo 8.º, a autoridade competente de avaliação tiver apresentado uma recomendação de aprovação da nova substância ativa e as autoridades competentes que receberam o pedido de autorização provisória ou, no caso de uma autorização provisória da União, a Agência considerarem previsível que o produto biocida cumpra o disposto no artigo 19.º, n.º 1, alíneas b), c) e d), tendo em conta os fatores previstos no artigo 19.º, n.º 2.
+
+Se a Comissão decidir não aprovar a nova substância ativa, as autoridades competentes que concederam a autorização provisória, ou a Comissão, revogam essa autorização.
+
+Caso, no termo do período de três anos, a decisão de aprovação da nova substância ativa ainda não tenha sido adotada pela Comissão, as autoridades competentes que concederam a autorização provisória, ou a Comissão, podem prorrogar a autorização provisória por um prazo não superior a um ano, desde que haja boas razões para crer que a substância ativa satisfará as condições previstas no artigo 4.º, n.º 1, ou, quando aplicável, as condições previstas no artigo 5.º, n.º 2. As autoridades competentes que prorrogam a autorização provisória informam desse facto as demais autoridades competentes e a Comissão.
+
+3. Em derrogação do disposto no artigo 19.º, n.º 1, alínea a), a Comissão pode, por meio de atos de execução, permitir a um Estado-Membro autorizar um produto biocida que contenha uma substância ativa não aprovada, se estiver persuadida de que essa substância ativa é essencial para a proteção do património cultural e de que não existem alternativas adequadas. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 82.º, n.º 2. Os Estados-Membros que desejem obter tal derrogação apresentam um pedido nesse sentido à Comissão, fornecendo a devida justificação.
+
+###### Artigo 56.º — Investigação e desenvolvimento
+
+1. Não obstante o disposto no artigo 17.º, as experiências ou ensaios para fins de investigação científica ou investigação orientada para produtos e processos, ou de desenvolvimento, que envolvam um produto biocida não autorizado ou uma substância cativa não aprovada exclusivamente destinada a utilização em produtos biocidas («experiências» ou «ensaios») só podem ser realizados nas condições estabelecidas no presente artigo.
+
+As pessoas que realizem uma experiência ou ensaio devem elaborar e manter registos escritos que especifiquem a identidade do produto biocida ou da substância ativa, os dados constantes do rótulo, as quantidades fornecidas e os nomes e endereços dos destinatários do produto biocida ou da substância ativa, e elaborar um dossier que inclua todos os dados disponíveis sobre eventuais efeitos na saúde humana ou animal ou no ambiente. Devem ainda, se lhes for solicitado, disponibilizar essas informações à autoridade competente.
+
+2. A pessoa que pretenda realizar uma experiência ou ensaio que possa implicar, ou ter como resultado, a libertação do produto biocida no ambiente deve notificar primeiro a autoridade competente do Estado-Membro onde se irá proceder a essa experiência ou ensaio. A notificação deve incluir a identidade do produto biocida ou da substância ativa, os dados constantes do rótulo e as quantidades fornecidas, bem como todos os dados disponíveis sobre eventuais efeitos na saúde humana ou animal ou o eventual impacto no ambiente. A pessoa em causa deve disponibilizar todas as outras informações solicitadas pelas autoridades competentes.
+
+Na ausência de parecer da autoridade competente no prazo de 45 dias a contar da notificação referida no primeiro parágrafo, a experiência ou o ensaio notificados podem ser realizados.
+
+3. Se as experiências ou ensaios forem suscetíveis de ter efeitos nocivos, quer imediatos quer a prazo, na saúde dos seres humanos, em especial dos grupos vulneráveis, ou dos animais, ou quaisquer efeitos adversos inaceitáveis nos seres humanos, nos animais ou no ambiente, a autoridade competente do Estado-Membro em causa pode proibi-los ou permitir a sua realização sob reserva das condições que considerar necessárias para evitar essas consequências. A autoridade competente informa sem demora a Comissão e as demais autoridades competentes da sua decisão.
+
+4. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º para especificar as regras de execução que completam o presente artigo.
+
+###### Artigo 57.º — Isenção do registo nos termos do Regulamento (CE) n.º 1907/2006
+
+Para além das substâncias ativas referidas no artigo 15.º, n.º 2, do Regulamento (CE) n.º 1907/2006, as substâncias ativas fabricadas ou importadas para utilização em produtos biocidas autorizados para colocação no mercado nos termos dos artigos 27.º, 55.º ou 56.º são consideradas registadas, e o seu registo é considerado completo, para fins de fabrico ou importação para utilização em produtos biocidas, considerando-se, assim, que preenchem os requisitos do Título II, Capítulos 1 e 5, do Regulamento (CE) n.º 1907/2006.
+
+## CAPÍTULO XIII
+
+### ARTIGOS TRATADOS
+
+###### Artigo 58.º — Colocação no mercado de artigos tratados
+
+1. O presente artigo aplica-se exclusivamente aos artigos tratados que não sejam produtos biocidas. Não se aplica aos artigos tratados quando o único tratamento realizado tiver sido a fumigação ou desinfeção das instalações ou recipientes utilizados para armazenagem ou transporte e desde que não sejam de prever resíduos de tal tratamento.
+
+2. Os artigos tratados só podem ser colocados no mercado se todas as substâncias ativas contidas nos produtos biocidas com que foram tratados ou que neles foram incorporados estiverem incluídas na lista elaborada ao abrigo do artigo 9.º, n.º 2, para o tipo de produto e utilização pertinentes, ou no Anexo I, e se se encontrarem preenchidas todas as condições ou restrições aí especificadas.
+
+3.
+
+A pessoa responsável pela colocação de um artigo tratado no mercado deve assegurar que o rótulo inclui a informação indicada no segundo parágrafo se:
+
+— no caso de um artigo tratado que contenha um produto biocida, o fabricante desse artigo tratado efetuar uma alegação sobre as propriedades biocidas do artigo, ou
+
+— em relação às substâncias ativas em causa, em particular no que se refere à possibilidade de contacto com seres humanos ou à libertação no ambiente, as condições associadas à aprovação das substância(s) ativa(s) o exigirem.
+
+O rótulo a que se refere o primeiro parágrafo deve conter as seguintes informações:
+
+a) Uma declaração segundo a qual foram incorporados produtos biocidas no artigo tratado;
+
+b) Quando fundamentado, a propriedade biocida atribuída ao artigo tratado;
+
+c) Sem prejuízo do disposto no artigo 24.º do Regulamento (CE) n.º 1272/2008, o nome de todas as substâncias ativas contidas nos produtos biocidas;
+
+d) O nome de todos os nano materiais contidos nos produtos biocidas, seguido do termo «nano» entre parênteses;
+
+e) Eventuais instruções de utilização pertinentes, incluindo precauções a tomar devido aos produtos biocidas com que o artigo tratado foi tratado ou que nele foram incorporados.
+
+O presente número não se aplica quando, na legislação setorial, já existam requisitos de rotulagem pelo menos equivalentes para os produtos biocidas em artigos tratados, que permitam dar resposta às exigências em matéria de informação relativas a essas substâncias ativas.
+
+4. Sem prejuízo das obrigações relativas à rotulagem previstas no n.º 3, a pessoa responsável pela colocação de um artigo tratado no mercado deve incluir no seu rótulo eventuais instruções de utilização pertinentes, incluindo as precauções a tomar, se tal for necessário para proteger os seres humanos, animais e o ambiente.
+
+5. Sem prejuízo das obrigações relativas à rotulagem previstas no n.º 3, o fornecedor de um produto tratado deve, caso o consumidor o solicite, disponibilizar-lhe gratuitamente, no prazo de 45 dias, informações sobre o tratamento biocida do artigo tratado.
+
+6. A rotulagem deve ser claramente visível, facilmente legível e suficientemente duradoura. Caso seja necessário, devido à dimensão ou função do artigo tratado, a rotulagem deve ser impressa na embalagem, nas instruções de utilização ou na garantia, na ou nas línguas oficiais do Estado-Membro de introdução, salvo se esse Estado-Membro tomar uma decisão em contrário. No caso dos artigos tratados que não sejam produzidos como parte de uma série, mas antes concebidos e produzidos para uma determinada encomenda, o fabricante pode aceitar outros métodos de prestação de informações pertinentes ao cliente.
+
+7. A Comissão pode adotar atos de execução para a aplicação do n.º 2 do presente artigo, incluindo procedimentos de notificação adequados, com eventual participação da Agência, e que especifiquem mais detalhadamente os requisitos de rotulagem previstos nos n.^os^ 3, 4 e 6 do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+8. Caso haja indícios significativos de que uma substância ativa contida num produto biocida com o qual o artigo tratado foi tratado ou que nele foi incorporado não cumpre as condições estabelecidas no artigo 4.º, n.º 1, no artigo 5.º, n.º 2, ou no artigo 25.º, a Comissão revê a aprovação dessa substância ativa ou a sua inclusão no Anexo I de acordo com o artigo 15.º, n.º 1, ou de acordo com o artigo 28.º, n.º 2.
+
+## CAPÍTULO XIV
+
+### PROTEÇÃO E PARTILHA DE DADOS
+
+###### Artigo 59.º — Proteção de dados na posse das autoridades competentes ou da Agência
+
+1.
+
+Sem prejuízo dos artigos 62.º e 63.º, os dados apresentados para fins da Diretiva 98/8/CE ou do presente regulamento não devem ser utilizados pelas autoridades competentes ou pela Agência em benefício de um requerente ulterior, exceto quando:
+
+a) O requerente ulterior apresentar uma carta de acesso; ou
+
+b) O período aplicável de proteção de dados tiver caducado.
+
+2. Ao apresentar dados a uma autoridade competente ou à Agência para fins do presente regulamento, o requerente deve, sempre que pertinente, indicar o nome e os contactos do proprietário dos dados relativamente a todos os dados apresentados. Deve especificar também se é o proprietário dos dados ou se possui uma carta de acesso.
+
+3. O requerente deve informar sem demora a autoridade competente ou a Agência de quaisquer modificações relativas à propriedade dos dados.
+
+4. Os comités científicos consultivos criados ao abrigo da Decisão 2004/210/CE da Comissão, de 3 de março de 2004, que institui comités científicos no domínio da segurança dos consumidores, da saúde pública e do ambiente ([^34^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0034)) também têm acesso aos dados referidos no n.º 1 do presente artigo.
+
+###### Artigo 60.º — Períodos de proteção dos dados
+
+1. Os dados apresentados para efeitos da Diretiva 98/8/CE ou do presente regulamento beneficiam de proteção de dados nas condições estabelecidas no presente artigo. O período de proteção de dados tem início no momento em que são apresentados pela primeira vez.
+
+Sem prejuízo do artigo 95.º, n.º 5, segundo parágrafo, os períodos de proteção ao abrigo do presente artigo que tenham caducado não podem recomeçar a correr.
+
+2. O período de proteção dos dados, apresentados com vista à aprovação de uma substância ativa existente, caduca 10 anos a contar do primeiro dia do mês seguinte à data da adoção de uma decisão, nos termos do artigo 9.º relativa à aprovação dessa substância ativa para o tipo de produto em causa.
+
+O período de proteção dos dados apresentados com vista à aprovação de uma nova substância ativa caduca quinze anos a contar do primeiro dia do mês seguinte à data da adoção de uma decisão nos termos do artigo 9.º relativa à aprovação dessa substância ativa para o tipo de produto em causa.
+
+O período de proteção dos novos dados apresentados com vista à renovação ou revisão da aprovação de uma substância ativa caduca cinco anos a contar do primeiro dia do mês seguinte à data de adoção de uma decisão nos termos do artigo 14.º, n.º 4, relativa à renovação ou revisão.
+
+3. O período de proteção dos dados apresentados com vista à autorização de um produto biocida que contenha apenas substâncias ativas existentes caduca dez anos a contar do primeiro dia do mês seguinte à primeira decisão relativa à autorização do produto tomada de acordo com os artigos 26.º, n.º 3, 30.º, n.º 1, 33.º, n.^os^ 3 e 4, 34.º, n.^os^ 6 e 7, 36.º, n.º 4, 37.º, n.^os^ 2 e 3, ou 44.º, n.º 5.
+
+O período de proteção dos dados apresentados com vista à autorização de um produto biocida que contenha uma substância ativa nova caduca 15 anos a contar do primeiro dia do mês seguinte à primeira decisão relativa à autorização do produto tomada de acordo com os artigos 26.º, n.º 3, 30.º, n.º 1, 33.º, n.^os^ 3 e 4, 34.º, n.^os^ 6 e 7, 36.º, n.º 4, 37.º, n.^os^ 2 e 3, ou 44.º, n.º 5.
+
+O período de proteção dos novos dados apresentados com vista à renovação ou alteração da autorização de um produto biocida caduca cinco anos a contar do primeiro dia do mês seguinte à decisão relativa à renovação ou alteração da autorização.
+
+###### Artigo 61.º — Carta de acesso
+
+1.
+
+A carta de acesso deve conter, pelo menos, as seguintes informações:
+
+a) Nome e dados de contacto do proprietário dos dados e do beneficiário;
+
+b) Nome da substância ativa ou do produto biocida a cujos dados é autorizado o acesso;
+
+c) Data em que a carta de acesso produz efeitos;
+
+d) Lista dos dados apresentados relativamente aos quais a carta de acesso concede direitos de citação.
+
+2. A revogação de uma carta de acesso não afeta a validade da autorização concedida com base na carta de acesso em questão.
+
+###### Artigo 62.º — Partilha de dados
+
+1. A fim de evitar ensaios em animais, os ensaios para efeitos do presente regulamento que envolvam vertebrados só devem ser realizados em último recurso. Os ensaios em vertebrados não devem ser repetidos para fins do presente regulamento.
+
+2.
+
+Qualquer pessoa que tencione realizar ensaios ou estudos («potencial requerente»)
+
+a) Deve, em caso de dados que envolvam ensaios em vertebrados, e
+
+b) Pode, em caso de dados que não envolvam ensaios em vertebrados,
+
+solicitar por escrito à Agência que verifique se esses ensaios ou estudos já foram apresentados à Agência, ou a uma autoridade competente, no contexto de um pedido anterior ao abrigo do presente regulamento ou da Diretiva 98/8/CE. A Agência verifica se esses ensaios ou estudos já foram apresentados.
+
+Se aqueles ensaios ou estudos já tiverem sido apresentados à Agência ou a uma autoridade competente no contexto de um pedido anterior, ao abrigo do presente regulamento ou da Diretiva 98/8/CE, a Agência comunica sem demora ao potencial requerente o nome e os contactos do fornecedor dos dados e do proprietário dos dados.
+
+Se necessário, o fornecedor dos dados facilita os contactos entre o potencial requerente e o proprietário dos dados.
+
+Se os dados obtidos no âmbito desses ensaios ou estudos ainda estiverem protegidos ao abrigo do artigo 60.º, o potencial requerente:
+
+a) Deve, em caso de dados que envolvam ensaios em vertebrados, e
+
+b) Pode, em caso de dados que não envolvam ensaios em vertebrados,
+
+solicitar ao proprietário dos dados todos os dados científicos e técnicos relacionados com os ensaios ou estudos em causa, bem como o direito de remeter para esses dados quando apresentar um pedido nos termos do presente regulamento.
+
+###### Artigo 63.º — Compensação pela partilha de dados
+
+1. Se tiver sido apresentado um pedido ao abrigo do artigo 62.º, n.º 2, o potencial requerente e o proprietário dos dados envidam todos os esforços para chegar a acordo sobre a partilha dos resultados dos ensaios ou estudos solicitada pelo potencial requerente. Esse acordo pode ser substituído pelo recurso a um órgão de arbitragem e pelo compromisso de aceitação da decisão de arbitragem.
+
+2. Em caso de acordo, o proprietário dos dados disponibiliza todos os dados científicos e técnicos referentes aos ensaios ou estudos em causa ao potencial requerente ou autoriza-o a remeter para os ensaios ou estudos do proprietário dos dados aquando da apresentação de pedidos ao abrigo do presente regulamento.
+
+3. Caso não se tenha chegado a acordo no que respeita a dados que envolvam ensaios ou estudos em vertebrados, o potencial requerente informa do facto a Agência e o proprietário dos dados nunca antes de um mês após ter recebido da Agência o nome e o endereço do fornecedor dos dados.
+
+No prazo de 60 dias depois de ter sido informada, a Agência concede ao potencial requerente autorização para remeter para os ensaios ou estudos solicitados em vertebrados, desde que o potencial requerente comprove que foram feitos todos os esforços para alcançar um acordo e tenha pago ao proprietário dos dados uma parte dos custos suportados. Se o potencial requerente e o proprietário dos dados não conseguirem chegar a acordo, os tribunais nacionais decidem qual a proporção dos custos a pagar pelo potencial requerente ao proprietário dos dados.
+
+O proprietário dos dados deve aceitar qualquer pagamento proposto nos termos do segundo parágrafo. A aceitação não prejudica, contudo, o seu direito a que a parte proporcional dos custos seja determinada por um tribunal nacional, nos termos do segundo parágrafo.
+
+4. A compensação pela partilha de dados é determinada de modo justo, transparente e não discriminatório, tendo em conta as orientações estabelecidas pela Agência ([^35^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0035)). Ao potencial requerente apenas é exigido que partilhe os custos referentes às informações que tem de apresentar para efeitos do presente regulamento.
+
+5. As decisões tomadas pela Agência ao abrigo do n.º 3 do presente artigo podem ser objeto de recurso interposto ao abrigo do artigo 77.º.
+
+###### Artigo 64.º — Utilização dos dados em pedidos ulteriores
+
+1. Se o período aplicável de proteção de dados ao abrigo do artigo 60.º tiver caducado para uma substância ativa, a autoridade competente recetora, ou a Agência, pode aceitar que o requerente ulterior de uma autorização remeta para os dados fornecidos pelo primeiro requerente, desde que o requerente ulterior possa comprovar que a substância ativa é tecnicamente equivalente à substância ativa cujo período de proteção de dados caducou, incluindo no que diz respeito ao grau de pureza e à natureza das impurezas pertinentes.
+
+Se o período aplicável de proteção de dados ao abrigo do artigo 60.º tiver caducado para um produto biocida, a autoridade competente recetora, ou a Agência, pode autorizar que o requerente ulterior de uma autorização remeta para os dados fornecidos pelo primeiro requerente, desde que o requerente ulterior possa comprovar que o produto biocida é idêntico ao produto já autorizado, ou que as diferenças entre eles não são significativas em termos de avaliação do risco e que a(s) substância(s) ativa(s) do produto biocida é (são) tecnicamente equivalente(s) às do produto biocida já autorizado, incluindo no que diz respeito ao grau de pureza e à natureza das eventuais impurezas.
+
+As decisões tomadas pela Agência ao abrigo do primeiro e segundo parágrafos do presente número podem ser objeto de recurso interposto nos termos do artigo 77.º.
+
+2.
+
+Não obstante o disposto no n.º 1, os requerentes ulteriores devem apresentar, consoante o caso, à autoridade competente recetora ou à Agência os seguintes dados:
+
+a) Todos os dados necessários para a identificação do produto biocida, incluindo a sua composição;
+
+b) Os dados necessários para identificar a substância ativa e estabelecer a sua equivalência técnica;
+
+c) Os dados necessários para demonstrar que o risco e a eficácia do produto biocida são comparáveis aos do produto biocida autorizado.
+
+## CAPÍTULO XV
+
+### INFORMAÇÃO E COMUNICAÇÃO
+
+## SECÇÃO 1
+
+### Monitorização e apresentação de relatórios
+
+###### Artigo 65.º — Cumprimento dos requisitos
+
+1. Os Estados-Membros tomam as disposições necessárias à monitorização dos produtos biocidas e artigos tratados que tiverem sido colocados no mercado, a fim de determinar se cumprem os requisitos do presente regulamento. O Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos ([^36^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0036)) é aplicável em conformidade.
+
+2. Os Estados-Membros tomam as disposições necessárias à realização de controlos oficiais a fim de verificar o cumprimento do presente regulamento.
+
+A fim de facilitar o cumprimento do presente regulamento, os fabricantes de produtos biocidas colocados no mercado da União devem manter, no que se refere ao processo de fabrico, documentação adequada, em papel ou em formato eletrónico, relacionada com a qualidade e a segurança do produto biocida a colocar no mercado e devem guardar amostras dos lotes de fabrico. Esta documentação deve incluir, no mínimo, os seguintes elementos:
+
+a) Fichas de dados de segurança e especificações das substâncias ativas e de outros ingredientes usados no fabrico do produto biocida;
+
+b) Registos das várias operações de fabrico realizadas;
+
+c) Resultados dos controlos de qualidade internos;
+
+d) Identificação dos lotes de fabrico.
+
+Sempre que necessário para assegurar a aplicação uniforme do presente número, a Comissão pode adotar atos de execução, nos termos do procedimento de exame referido no artigo 82.º, n.º 3.
+
+As medidas tomadas ao abrigo do presente número devem evitar causar encargos administrativos desproporcionados para os operadores económicos e os Estados-Membros.
+
+3.
+
+De cinco em cinco anos, a partir de 1 de setembro de 2015, os Estados-Membros apresentam à Comissão um relatório sobre a aplicação do presente regulamento nos respetivos territórios. Esse relatório deve indicar, nomeadamente:
+
+a) Informações sobre os resultados dos controlos oficiais efetuados nos termos do n.º 2;
+
+b) Informações sobre eventuais envenenamentos e, quando disponíveis, sobre doenças profissionais que envolvam produtos biocidas, especialmente em relação a grupos vulneráveis, e medidas específicas adotadas para reduzir os riscos de casos futuros;
+
+c) Informações disponíveis sobre efeitos ambientais negativos causados pela utilização de produtos biocidas;
+
+d) Informações sobre a utilização de nano materiais nos produtos biocidas e os seus potenciais riscos.
+
+Os relatórios devem ser apresentados até 30 de junho do ano em causa e devem abranger o período que vai até 31 de dezembro do ano anterior à sua apresentação.
+
+Os relatórios são publicados no sítio Internet adequado da Comissão.
+
+4. A Comissão elabora, com base nos relatórios recebidos nos termos do n.º 3 e no prazo de 12 meses a contar da data referida no segundo parágrafo desse número, um relatório de síntese sobre a aplicação do presente regulamento, nomeadamente do artigo 58.º. A Comissão apresenta o relatório ao Parlamento Europeu e ao Conselho.
+
+###### Artigo 66.º — Confidencialidade
+
+1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^37^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0037)) e as regras do Conselho de Administração da Agência, adotadas nos termos do artigo 118.º, n.º 3, do Regulamento (CE) n.º 1907/2006, são aplicáveis, para fins do presente regulamento, aos documentos que se encontrem na posse da Agência.
+
+2. A Agência e as autoridades competentes recusam o acesso às informações se a sua divulgação prejudicar a proteção dos interesses comerciais, da privacidade ou da segurança das pessoas em causa.
+
+Em geral, considera-se que a divulgação das informações a seguir indicadas prejudica a proteção dos interesses comerciais, da privacidade ou da segurança das pessoas em causa:
+
+a) Dados pormenorizados sobre a composição completa de um produto biocida;
+
+b) Tonelagem exata da substância ativa ou do produto biocida fabricado ou disponibilizado no mercado;
+
+c) Ligações entre o fabricante da substância ativa e o responsável pela colocação do produto biocida no mercado ou entre o responsável pela colocação do produto biocida no mercado e os distribuidores do produto;
+
+d) Nomes e endereços das pessoas que participam nos ensaios em vertebrados.
+
+Contudo, nos casos em que seja essencial uma intervenção urgente para proteger a saúde humana, a saúde animal, a segurança ou o ambiente, ou por outras razões de superior interesse público, a Agência ou as autoridades competentes devem divulgar as informações referidas no presente número.
+
+3.
+
+Não obstante o disposto no n.º 2, após ter sido concedida a autorização, não pode, em caso algum, ser recusado o acesso às seguintes informações:
+
+a) Nome e endereço do titular da autorização;
+
+b) Nome e endereço do fabricante do produto biocida;
+
+c) Nome e endereço do fabricante da substância ativa;
+
+d) Teor da(s) substância(s) ativa(s) no produto biocida e nome do produto biocida;
+
+e) Dados físicos e químicos relativos ao produto biocida;
+
+f) Eventuais meios de tornar inócuos a substância ativa ou o produto biocida;
+
+g) Resumo dos resultados dos ensaios exigidos ao abrigo do artigo 20.º para determinar a eficácia do produto e os seus efeitos nos seres humanos, nos animais e no ambiente e, quando aplicável, a sua capacidade para provocar resistências;
+
+h) Métodos e precauções recomendados para reduzir os perigos decorrentes do manuseamento, do transporte e da utilização, bem como os riscos de incêndio ou outros;
+
+i) Fichas de dados de segurança;
+
+j) Métodos de análise referidos no artigo 19.º, n.º 1, alínea c);
+
+k) Métodos de eliminação do produto e da sua embalagem;
+
+l) Procedimentos a seguir e medidas a tomar em caso de perdas ou fugas;
+
+m) Primeiros socorros e conselhos médicos a prestar em caso de danos pessoais.
+
+4. Uma pessoa que apresente à Agência ou a uma autoridade competente informações relativas a uma substância ativa ou a um produto biocida para fins do presente regulamento pode solicitar que as informações previstas no artigo 67.º, n.^os^ 3 e 4, não sejam disponibilizadas, indicando as razões pelas quais a divulgação da informação poderia prejudicar os seus interesses comerciais ou os de qualquer outra parte interessada.
+
+###### Artigo 67.º — Acesso do público por via eletrónica
+
+1.
+
+A partir da data em que a Comissão adote um regulamento de execução que determina que uma substância ativa é aprovada como referido no artigo 9.º, n.º 1, alínea a), as informações atualizadas a seguir indicadas sobre essa substância ativa que estejam na posse da Agência ou da Comissão são postas à disposição do público, de forma gratuita e facilmente acessível:
+
+a) Quando disponível, a denominação ISO e o nome na nomenclatura da União Internacional de Química Pura e Aplicada (IUPAC);
+
+b) Quando aplicável, o nome tal como se encontra indicado no Inventário Europeu das Substâncias Químicas Existentes no Mercado (EINECS);
+
+c) A classificação e a rotulagem, incluindo as informações que indicam se a substância ativa preenche algum dos critérios estabelecidos no artigo 5.º, n.º 1;
+
+d) Os efeitos físico-químicos finais e os dados relativos às vias e ao destino e comportamento no ambiente;
+
+e) Os resultados de cada estudo toxicológico e ecotoxicológico;
+
+f) O nível aceitável de exposição ou a concentração previsivelmente sem efeitos estabelecidos nos termos do Anexo VI;
+
+g) As orientações para uma utilização segura nos termos do Anexo II e do Anexo III;
+
+h) Os métodos analíticos referidos nas secções 5.2 e 5.3 do Título 1 e na secção 4.2 do Título 2 do Anexo II.
+
+2.
+
+A partir da data em que uma substância ativa for autorizada, a Agência coloca à disposição do público, de forma gratuita e facilmente acessível, as seguintes informações atualizadas:
+
+a) Os termos e condições da autorização;
+
+b) O resumo das características do produto biocida; e
+
+c) Os métodos analíticos referidos nas secções 5.2 e 5.3 do Título 1 e na secção 5.2 do Título 2 do Anexo III.
+
+3.
+
+A partir da data em que a Comissão adote um regulamento de execução que determina que uma substância ativa é aprovada, como referido no artigo 9.º, n.º 1, alínea a), a Agência coloca à disposição do público, de forma gratuita e facilmente acessível, exceto no caso de o fornecedor dos dados apresentar uma justificação, nos termos do artigo 66.º, n.º 4, aceite como válida pela autoridade competente ou pela Agência, das razões pelas quais essa publicação é potencialmente prejudicial para os seus interesses comerciais ou para os de qualquer outra parte interessada, as seguintes informações atualizadas sobre essa substância ativa:
+
+a) Se forem essenciais para a classificação e a rotulagem, o grau de pureza da substância e a identidade das impurezas e/ou dos aditivos das substâncias ativas que se saiba serem perigosos;
+
+b) Os resumos de estudos ou resumos circunstanciados de estudos apresentados com vista a apoiar a aprovação da substância ativa;
+
+c) Informações, para além das referidas no n.º 1 do presente artigo, constantes da ficha de dados de segurança;
+
+d) O(s) nome(s) comercial(ais) da substância;
+
+e) O relatório de avaliação.
+
+4.
+
+A partir da data em que um produto biocida for aprovado, a Agência, exceto no caso de o fornecedor dos dados apresentar uma justificação, nos termos do artigo 66.º, n.º 4, aceite como válida pela autoridade competente ou pela Agência, das razões pelas quais essa publicação é potencialmente prejudicial para os seus interesses comerciais ou para os de qualquer outra parte interessada coloca à disposição do público, de forma gratuita e facilmente acessível, as seguintes informações atualizadas:
+
+a) Os resumos de estudos ou resumos circunstanciados de estudos apresentados para apoiar a autorização do produto biocida; e
+
+b) O relatório de avaliação.
+
+###### Artigo 68.º — Manutenção de registos e comunicação de informações
+
+1. Os titulares de autorizações mantêm registos dos produtos biocidas que colocam no mercado por um prazo mínimo de dez anos após a colocação no mercado, ou de dez anos a contar da data de revogacão ou de caducidade da autorização, aplicando-se a data que ocorrer em primeiro lugar. Mediante pedido, disponibilizam as informações pertinentes contidas nesses registos à autoridade competente.
+
+2. A fim de assegurar a aplicação uniforme do disposto no n.º 1 do presente artigo, a Comissão adota medidas de execução que especificam a forma e o conteúdo das informações a incluir nos registos. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 82.º, n.º 2.
+
+## SECÇÃO 2
+
+### Informações sobre produtos biocidas
+
+###### Artigo 69.º — Classificação, embalagem e rotulagem de produtos biocidas
+
+1. Os titulares de autorizações asseguram que os produtos biocidas são classificados, embalados e rotulados nos termos do resumo aprovado das características do produto biocida, em especial das advertências de perigo e recomendações de prudência, conforme referido no artigo 22.º, n.º 2, alínea i), e da Diretiva 1999/45/CE e, quando aplicável, do Regulamento (CE) n.º 1272/2008.
+
+Além disso, os produtos suscetíveis de serem confundidos com géneros alimentícios, inclusive bebidas, ou alimentos para animais, devem ser embalados de modo a reduzir ao mínimo a probabilidade de ocorrência de tal confusão. Se estiverem ao dispor do público, devem conter componentes que desencorajem o seu consumo e, em particular, não devem ser atrativos para as crianças.
+
+2.
+
+Para além do cumprimento do disposto no n.º 1, os titulares de autorizações asseguram que os rótulos não sejam enganosos quanto aos riscos do produto para a saúde humana, para a saúde animal ou para o ambiente ou quanto à sua eficácia e garantem, em qualquer caso, que não contenham as menções «produto biocida de baixo risco», «não tóxico», «inócuo», «natural», «respeitador do ambiente», «respeitador dos animais» nem indicações semelhantes. Além disso, o rótulo deve conter, de forma clara e indelével, as seguintes informações:
+
+a) Identidade de cada substância ativa e sua concentração em unidades métricas;
+
+b) Nano materiais contidos no produto, se os houver, e os eventuais riscos específicos associados a esse facto, e, após cada referência a nano materiais, o termo «nano» entre parênteses;
+
+c) Número de autorização atribuído ao produto biocida pela autoridade competente ou pela Comissão;
+
+d) Nome e endereço do titular da autorização;
+
+e) Tipo de formulação;
+
+f) Utilizações autorizadas do produto biocida;
+
+g) Instruções de utilização, frequência de aplicação e dosagem, expressa em unidades métricas de modo a ter sentido e ser compreensível para os utilizadores, relativamente a cada uma das utilizações previstas nos termos da autorização;
+
+h) Informações sobre prováveis efeitos secundários adversos diretos ou indiretos, bem como instruções de primeiros socorros;
+
+i) Menção «Ler as instruções apensas antes de utilizar», caso o produto seja acompanhado de um folheto informativo e, se for caso disso, advertências destinadas aos grupos vulneráveis;
+
+j) Instruções relativas à eliminação segura do produto biocida e da sua embalagem, incluindo, se for caso disso, a proibição de reutilização da embalagem;
+
+k) Número ou designação do lote da formulação e data de caducidade pertinente em condições de armazenagem normais;
+
+l) Quando aplicável, período de tempo necessário para o efeito biocida, intervalo a respeitar entre as aplicações do produto biocida, ou entre uma aplicação e a utilização seguinte do produto tratado, ou o acesso subsequente de seres humanos ou de animais à zona em que o produto biocida foi utilizado, incluindo informação sobre os meios e medidas de descontaminação e o tempo necessário de ventilação das zonas tratadas; informação sobre a limpeza adequada do equipamento; informação sobre medidas de precaução durante a utilização e o transporte;
+
+m) Quando aplicável, categorias de utilizadores aos quais está limitada a utilização do produto biocida;
+
+n) Quando aplicável, informações relativas a qualquer perigo específico para o ambiente, nomeadamente no que respeita à proteção dos organismos não visados e à prevenção da contaminação das águas;
+
+o) Para produtos biocidas com microrganismos, requisitos de rotulagem nos termos da Diretiva 2000/54/CE.
+
+Não obstante o disposto no primeiro parágrafo, caso necessário devido à dimensão ou função do produto biocida, as informações referidas nas alíneas e), g), h), j), k), l) e n) podem ser indicadas na embalagem ou num folheto que acompanhe a embalagem e faça dela parte integrante.
+
+3.
+
+Os Estados-Membros podem exigir que:
+
+a) Sejam apresentados modelos ou projetos das embalagens, dos rótulos e dos folhetos;
+
+b) Os produtos biocidas disponibilizados no mercado nos seus territórios sejam rotulados na sua língua ou línguas oficiais.
+
+###### Artigo 70.º — Fichas de dados de segurança
+
+Se for caso disso, devem ser elaboradas e disponibilizadas fichas de dados de segurança para as substâncias ativas e os produtos biocidas, de acordo com o artigo 31.º do Regulamento (CE) n.º 1907/2006.
+
+###### Artigo 71.º — Registo de Produtos Biocidas
+
+1. A Agência cria e mantém um sistema de informação designado por «Registo de Produtos Biocidas».
+
+2. O Registo de Produtos Biocidas é utilizado para o intercâmbio de informações entre as autoridades competentes, a Agência e a Comissão e entre os requerentes e as autoridades competentes, a Agência e a Comissão.
+
+3. Os requerentes utilizam o Registo de Produtos Biocidas para apresentar pedidos e dados relativos a todos os procedimentos abrangidos pelo presente regulamento.
+
+4. Depois de os requerentes apresentarem os pedidos e os dados, a Agência verifica se estes foram apresentados no formato correto e notifica sem demora a autoridade competente.
+
+Caso a Agência decida que o pedido não foi apresentado no formato correto, rejeita o pedido e informa o requente da sua decisão.
+
+5. Logo que a autoridade competente valide ou aceite um pedido, esse pedido é disponibilizado, através do Registo de Produtos Biocidas, a todas as outras autoridades competentes e à Agência.
+
+6. As autoridades competentes e a Comissão utilizam o Registo de Produtos Biocidas para registar e comunicar as decisões que tomaram relativamente às autorizações de produtos biocidas e atualizam as informações contidas no Registo de Produtos Biocidas quando tomam essas decisões. Cabe às autoridades competentes, em particular, atualizar, no Registo de Produtos Biocidas, as informações relacionadas com os produtos biocidas que foram autorizados no seu território ou para os quais foi recusada, alterada, renovada ou revogada uma autorização nacional, ou para os quais foi concedida, recusada ou anulada uma licença de comércio paralelo. Cabe à Comissão, em particular, atualizar as informações referentes aos produtos biocidas autorizados na União ou para os quais foi recusada, alterada, renovada ou revogada uma autorização da União.
+
+As informações a introduzir no Registo de Produtos Biocidas incluem, consoante os casos:
+
+a) Os termos e condições da autorização;
+
+b) O resumo das características do produto biocida a que se refere o artigo 22.º, n.º 2;
+
+c) O relatório de avaliação do produto biocida.
+
+As informações referidas no presente número são também disponibilizadas ao requerente através do Registo de Produtos Biocidas.
+
+7. No caso de o Registo de Produtos Biocidas não estar plenamente operacional em 1 de setembro de 2013 ou deixar de estar operacional após esta data, continuam a vigorar todas as obrigações em matéria de apresentação e comunicação impostas aos Estados-Membros, às autoridades competentes, à Comissão e aos requerentes por força do presente regulamento. A fim de assegurar uma aplicação uniforme do presente número, em particular no que se refere ao formato em que se pode proceder à apresentação e ao intercâmbio de informações, a Comissão adota as medidas necessárias pelo procedimento de exame a que se refere o artigo 82.º, n.º 3. Essas medidas são limitadas no tempo ao período estritamente necessário para o Registo de Produtos Biocidas ficar plenamente operacional.
+
+8. A Comissão pode adotar atos de execução que estabelecem regras de execução sobre os tipos de informação a introduzir no Registo de Produtos Biocidas. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 82.º, n.º 2.
+
+9. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º que estabeleçam regras adicionais para a utilização do registo.
+
+###### Artigo 72.º — Publicidade
+
+1. A publicidade aos produtos biocidas, além de respeitar o Regulamento (CE) n.º 1272/2008, deve incluir as menções «Utilize os biocidas com cuidado. Leia sempre o rótulo e a informação relativa ao produto antes de o utilizar.». As menções devem ser legíveis e distinguir-se claramente do conteúdo geral do anúncio.
+
+2. Os anunciantes podem substituir o termo «biocidas» nas menções exigidas por uma referência clara ao tipo de produto anunciado.
+
+3. A publicidade aos produtos biocidas não deve referir-se ao produto de uma forma enganosa no que diz respeito aos riscos do produto para a saúde humana, para a saúde animal ou para o ambiente, ou à sua eficácia. A publicidade a um produto biocida não pode, em caso algum, conter as menções «produto biocida de baixo risco», «não tóxico», «inócuo», «natural», «respeitador do ambiente», «respeitador dos animais», nem indicações semelhantes.
+
+###### Artigo 73.º — Controlo de produtos venenosos
+
+Para efeitos do presente regulamento, é aplicável o disposto no artigo 45.º do Regulamento (CE) n.º 1272/2008.
+
+## CAPÍTULO XVI
+
+### A AGÊNCIA
+
+###### Artigo 74.º — Tarefas da Agência
+
+1. A Agência executa as tarefas que lhe são atribuídas pelo presente regulamento.
+
+2. Os artigos 78.º a 84.º, 89.º e 90.º do Regulamento (CE) n.º 1907/2006 são aplicáveis, com as necessárias adaptações, tendo em conta as tarefas da Agência ao abrigo do presente regulamento.
+
+###### Artigo 75.º — Comité dos Produtos Biocidas
+
+1. É instituído no âmbito da Agência um Comité dos Produtos Biocidas.
+
+O Comité dos Produtos Biocidas é responsável pela elaboração do parecer da Agência sobre as seguintes questões:
+
+a) Pedidos de aprovação e de renovação da aprovação de substâncias ativas;
+
+b) Revisão da aprovação de substâncias ativas;
+
+c) Pedidos de inclusão no Anexo I de substâncias ativas que preenchem as condições estabelecidas no artigo 28.º e de revisão da inclusão dessas substâncias ativas no Anexo I;
+
+d) Identificação das substâncias ativas candidatas a substituição;
+
+e) Pedidos de concessão de autorizações da União a produtos biocidas e de renovação, revogação e alteração de autorizações da União, a não ser que os pedidos digam respeito a alterações administrativas;
+
+f) Questões científicas e técnicas respeitantes ao reconhecimento mútuo, nos termos do artigo 38.º;
+
+g) A pedido da Comissão ou das autoridades competentes dos Estados-Membros, quaisquer outras questões decorrentes da aplicação do presente regulamento relativas a orientações técnicas ou a riscos para a saúde humana, para a saúde animal ou para o ambiente.
+
+2. Cada Estado-Membro tem o direito de nomear um membro do Comité dos Produtos Biocidas. Os Estados-Membros podem também nomear um membro suplente.
+
+Para facilitar o seu trabalho, o Comité pode ser dividido em dois ou mais comités paralelos, por decisão do Conselho de Administração da Agência com o acordo da Comissão. Cada um dos comités paralelos fica responsável pelas tarefas do Comité dos Produtos Biocidas que lhe forem atribuídas. Cada Estado-Membro tem o direito de nomear um membro em cada um dos comités paralelos. A mesma pessoa pode ser nomeada para mais de um comité paralelo.
+
+3. Os membros do Comité são nomeados com base na sua experiência na execução das tarefas especificadas no n.º 1 e podem trabalhar no âmbito de uma autoridade competente. São apoiados pelos recursos científicos e técnicos de que os Estados-Membros dispõem. Para o efeito, os Estados-Membros facultam aos membros do Comité por eles nomeados os recursos científicos e técnicos adequados.
+
+4. O artigo 85.º, n.^os^ 4, 5, 8 e 9, e os artigos 87.º e 88.º do Regulamento (CE) n.º 1907/2006 são aplicáveis, com as necessárias adaptações, ao Comité dos Produtos Biocidas.
+
+###### Artigo 76.º — Secretariado da Agência
+
+1.
+
+O Secretariado da Agência referido no artigo 76.º, n.º 1, alínea g), do Regulamento (CE) n.º 1907/2006 executa as seguintes tarefas:
+
+a) Criar e manter o Registo de Produtos Biocidas;
+
+b) Executar as tarefas relativas à aceitação dos pedidos abrangidos pelo presente regulamento;
+
+c) Estabelecer a equivalência técnica;
+
+d) Proporcionar orientação técnica e científica e ferramentas para a aplicação do presente regulamento pela Comissão e pelas autoridades competentes dos Estados-Membros, e apoiar os serviços nacionais de assistência;
+
+e) Prestar aconselhamento e assistência aos requerentes, em particular às PME, no que diz respeito à aprovação de substâncias ativas ou à sua inclusão no Anexo I do presente regulamento, ou a uma autorização da União;
+
+f) Elaborar informações explicativas sobre o presente regulamento;
+
+g) Estabelecer e manter base(s) de dados com informações sobre substâncias ativas e produtos biocidas;
+
+h) A pedido da Comissão, prestar apoio técnico e científico a fim de melhorar a cooperação entre as autoridades competentes da União, as organizações internacionais e os países terceiros no que diz respeito a questões científicas e técnicas relacionadas com produtos biocidas;
+
+i) Notificar as decisões tomadas pela Agência;
+
+j) Especificar os formatos e pacotes de aplicações informáticas para a apresentação de informações à Agência;
+
+k) Prestar apoio e assistência aos Estados-Membros, a fim de evitar a avaliação paralela de pedidos relativos aos mesmos produtos biocidas ou a produtos biocidas semelhantes, tal como referido no artigo 29.º, n.º 4;
+
+l) prestar apoio e assistência aos Estados-Membros no que diz respeito às atividades de controlo e de controlo do cumprimento.
+
+2. O Secretariado põe à disposição do público na Internet, gratuitamente, as informações identificadas no artigo 67.º, a menos que um pedido apresentado ao abrigo do artigo 66.º, n.º 4, seja considerado justificado. A Agência disponibiliza outras informações, mediante pedido, nos termos do artigo 66.º.
+
+###### Artigo 77.º — Recurso
+
+1. Os recursos das decisões da Agência adotadas ao abrigo dos artigos 7.º, n.º 2, 13.º, n.º 3, 43.º, n.º 2, 45, n.º 3, 54.º, n.^os^ 3, 4 e 5, 63.º, n.º 3, e 64.º, n.º 1, são da competência da Câmara de Recurso instituída nos termos do Regulamento (CE) n.º 1907/2006.
+
+O artigo 92.º, n.^os^ 1 e 2, e os artigos 93.º e 94.º do Regulamento (CE) n.º 1907/2006 são aplicáveis aos recursos interpostos ao abrigo do presente regulamento.
+
+O recorrente pode ter de pagar uma taxa por força do artigo 80.º, n.º 1, do presente regulamento.
+
+2. Os recursos interpostos ao abrigo do n.º 1 têm efeito suspensivo.
+
+###### Artigo 78.º — Orçamento da Agência
+
+1.
+
+Para efeitos do presente regulamento, as receitas da Agência são constituídas por:
+
+a) Uma subvenção da União, inscrita no orçamento geral da União Europeia (Secção «Comissão»);
+
+b) Taxas pagas à Agência nos termos do presente regulamento;
+
+c) Emolumentos pagos à Agência por serviços prestados ao abrigo do presente regulamento;
+
+d) Eventuais contribuições voluntárias dos Estados-Membros.
+
+2. As receitas e despesas ligadas às atividades relacionadas com o presente regulamento e com o Regulamento (CE) n.º 1907/2006 são tratadas separadamente no orçamento da Agência e são objeto de relatórios orçamentais e contabilísticos distintos.
+
+As receitas da Agência referidas no artigo 96.º, n.º 1, do Regulamento (CE) n.º 1907/2006 não podem ser utilizadas para a execução de tarefas ao abrigo do presente regulamento, exceto para um objetivo conjunto ou para uma transferência temporária a fim de assegurar o funcionamento adequado da Agência. As receitas da Agência referidas no n.º 1 do presente artigo não podem ser utilizadas para a execução de tarefas ao abrigo do Regulamento (CE) n.º 1907/2006, exceto para um objetivo conjunto ou para uma transferência temporária a fim de assegurar o funcionamento adequado da Agência.
+
+###### Artigo 79.º — Formatos e aplicações informáticas para a apresentação de informações à Agência
+
+A Agência especifica os formatos e os programas informáticos e disponibiliza-os gratuitamente através do seu sítio na Internet, a utilizar para a apresentação de informações à Agência. As autoridades competentes e os requerentes devem utilizar estes formatos e pacotes para a apresentação de informações ao abrigo do presente regulamento.
+
+O dossier técnico referido no artigo 6.º, n.º 1, e no artigo 20.º deve ser apresentado utilizando o programa informático IUCLID.
+
+## CAPÍTULO XVII
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 80.º — Taxas e emolumentos
+
+1.
+
+A Comissão adota, com base nos princípios estabelecidos no n.º 3, um regulamento de execução que especifica:
+
+a) As taxas devidas à Agência, incluindo uma taxa anual, relativas a produtos aos quais tenha sido concedida uma autorização da União, nos termos do Capítulo VIII, e uma taxa relativa a pedidos de reconhecimento mútuo, nos termos do Capítulo VII;
+
+b) As regras que determinam as condições de aplicação de taxas reduzidas, de isenção de taxas e de reembolso do membro do Comité dos Produtos Biocidas que atua como relator; e
+
+c) As condições de pagamento.
+
+Este regulamento de execução é adotado pelo procedimento de exame a que se refere o artigo 82.º, n.º 3. Aplica-se exclusivamente às taxas pagas à Agência.
+
+A Agência pode cobrar emolumentos por outros serviços que preste.
+
+As taxas devidas à Agência devem ser fixadas a um nível que assegure que as receitas resultantes da cobrança de taxas, em combinação com outras fontes de receitas da Agência ao abrigo do presente regulamento, sejam suficientes para cobrir o custo dos serviços prestados. A Agência procede à publicação das taxas devidas.
+
+2. Os Estados-Membros cobram diretamente aos requerentes taxas pelos serviços que prestem no que diz respeito aos procedimentos previstos no presente regulamento, incluindo os serviços efetuados pelas autoridades competentes dos Estados-Membros que agem na qualidade de autoridade competente de avaliação.
+
+Com base nos princípios estabelecidos no n.º 3, a Comissão emite orientações relativas a uma estrutura de taxas harmonizada.
+
+Os Estados-Membros podem cobrar taxas anuais em relação aos produtos biocidas disponibilizados nos respetivos mercados.
+
+Os Estados-Membros podem cobrar emolumentos por outros serviços que prestem.
+
+Os Estados-Membros estabelecem e publicam o montante das taxas devidas às respetivas autoridades competentes.
+
+3.
+
+Tanto o regulamento de execução a que se refere o n.º 1 como as regras dos próprios Estados-Membros em matéria de taxas devem obedecer aos seguintes princípios:
+
+a) As taxas devem ser fixadas a um nível que assegure que as receitas resultantes da cobrança de taxas sejam, em princípio, suficientes para cobrir o custo dos serviços prestados, sem excederem o necessário para cobrir esse custo;
+
+b) Se o requerente não apresentar as informações solicitadas no prazo fixado, a taxa deve ser parcialmente reembolsada;
+
+c) As necessidades específicas das pequenas e médias empresas devem ser tidas em conta de forma adequada, incluindo a possibilidade de repartir os pagamentos por várias prestações e fases;
+
+d) A estrutura e o montante das taxas devem ter em conta o facto de a informação ter sido apresentada conjunta ou separadamente;
+
+e) Em circunstâncias devidamente justificadas e quando aceite pela Agência ou pela autoridade competente, pode ser concedida a isenção total ou parcial da taxa; e
+
+f) Os prazos para o pagamento de taxas devem ser estabelecidos tendo em devida conta os prazos dos procedimentos previstos no presente regulamento.
+
+###### Artigo 81.º — Autoridades competentes
+
+1. Os Estados-Membros designam a ou as autoridades competentes responsáveis pela aplicação do presente regulamento.
+
+Os Estados-Membros asseguram que as autoridades competentes dispõem de pessoal em número suficiente e com as qualificações e a experiência adequadas para que as obrigações estabelecidas no presente regulamento possam ser cumpridas de forma eficiente e eficaz.
+
+2. As autoridades competentes prestam aconselhamento aos requerentes, em particular às PME, e a todas as outras partes interessadas sobre as respetivas responsabilidades e obrigações nos termos do presente regulamento. Tal incluía aconselhamento sobre a possibilidade de adaptar os requisitos em matéria de dados constantes dos artigos 6.º e 20.º, os motivos com base nos quais essa adaptação pode ser efetuada e a forma como elaborar uma proposta. Esse aconselhamento completa as recomendações e a assistência prestadas pelo Secretariado da Agência nos termos do artigo 76.º, n.º 1, alínea d).
+
+As autoridades competentes podem, em especial, prestar aconselhamento mediante a criação de serviços de assistência. Os serviços de assistência já criados ao abrigo do Regulamento (CE) n.º 1907/2006 podem funcionar como serviços de assistência ao abrigo do presente regulamento.
+
+3. Até 1 de setembro de 2013, os Estados-Membros comunicam à Comissão os nomes e endereços das autoridades competentes designadas e, caso existam, dos serviços de assistência. Os Estados-Membros informam a Comissão, sem demora indevida, de quaisquer alterações dos nomes e endereços das autoridades competentes ou dos serviços de assistência.
+
+A Comissão publica a lista das autoridades competentes e dos serviços de assistência.
+
+###### Artigo 82.º — Procedimento de Comité
+
+1. A Comissão é assistida pelo Comité Permanente dos Produtos Biocidas («Comité»). Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.
+
+2. Sempre que se faça referência ao presente número, é aplicável o artigo 4.º do Regulamento (UE) n.º 182/2011.
+
+3. Sempre que se faça referência ao presente número, é aplicável o artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+Na falta de parecer do comité, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o terceiro parágrafo do n.º 4 do artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+4. Sempre que se faça referência ao presente número, é aplicável o artigo 8.º do Regulamento (UE) n.º 182/2011.
+
+###### Artigo 83.º — Exercício da delegação
+
+1. O poder de adotar os atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar os atos delegados a que se refere o artigo 3.º, n.º 4, o artigo 5.º, n.º 3, o artigo 6.º, n.º 4, o artigo 21.º, n.º 3, o artigo 23.º, n.º 5, o artigo 28.º, n.^os^ 1 e 3, o artigo 40.º, o artigo 56.º, n.º 4, o artigo 71.º, n.º 9, o artigo 85.º e o artigo 89.º, n.º 1, é conferido à Comissão por um prazo de cinco anos a partir de 17 de julho de 2012. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.
+
+3. A delegação de poder referida no artigo 3.º, n.º 4, no artigo 5.º, n.º 3, no artigo 6.º, n.º 4, no artigo 21.º, n.º 3, no artigo 23.º, n.º 5, no artigo 28.º, n.^os^ 1 e 3, no artigo 40.º, no artigo 56.º, n.º 4, no artigo 71.º, n.º 9, no artigo 85.º e no artigo 89.º, n.º 1, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+5. Os atos delegados adotados nos termos do artigo 3.º, n.º 4, do artigo 5.º, n.º 3, do artigo 6.º, n.º 4, do artigo 21.º, n.º 3, do artigo 23.º, n.º 5, do artigo 28.º, n.^os^ 1 e 3, do artigo 40.º, do artigo 56.º, n.º 4, do artigo 71.º, n.º 9, do artigo 85.º e do artigo 89.º, n.º 1, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+###### Artigo 84.º — Procedimento de urgência
+
+1. Os atos delegados adotados por força do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção ao abrigo do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.
+
+2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 83.º, n.º 5. Nesse caso, a Comissão revoga sem demora o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções.
+
+###### Artigo 85.º — Adaptação ao progresso científico e técnico
+
+A fim de permitir a adaptação das disposições do presente regulamento ao progresso científico e técnico, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º no que diz respeito à adaptação dos Anexos II, III e IV ao referido progresso científico e técnico.
+
+###### Artigo 86.º — Substâncias ativas incluídas no anexo I da Diretiva 98/8/CE
+
+As substâncias ativas relativamente às quais a Comissão tenha adotado diretivas que as inclua no anexo I da Diretiva 98/8/CE consideram-se aprovadas ao abrigo do presente regulamento, à data de inclusão, e são incluídas na lista a que se refere o artigo 9.º, n.º 2. A aprovação está sujeita às condições estabelecidas nessas diretivas da Comissão.
+
+###### Artigo 87.º — Sanções
+
+Os Estados-Membros estabelecem as disposições relativas às sanções aplicáveis em caso de infração às disposições do presente regulamento e tomam todas as medidas necessárias para garantir a sua execução. As sanções previstas devem ser eficazes, proporcionadas e dissuasivas. Os Estados-Membros notificam à Comissão as disposições em causa até 1 de setembro de 2013 e notificam-lhe igualmente, sem demora, qualquer alteração posterior que as afete.
+
+###### Artigo 88.º — Cláusula de salvaguarda
+
+Se, com base em novas provas, um Estado-Membro tiver razões fundamentadas para considerar que um produto biocida, embora autorizado nos termos do presente regulamento, constitui um risco grave imediato ou a longo prazo para a saúde dos seres humanos, em especial dos grupos vulneráveis, ou dos animais, ou para o ambiente, pode tomar medidas provisórias adequadas. O Estado-Membro informa sem demora do facto a Comissão e os demais Estados-Membros, indicando os motivos que justificaram a sua decisão com base em novas provas.
+
+A Comissão autoriza, por meio de atos de execução, a medida provisória por um período definido na decisão ou exige que o Estado-Membro revogue a medida provisória. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3.
+
+###### Artigo 89.º — Medidas transitórias
+
+1. [**►M16**](http://publications.europa.eu/resource/celex/32024R1398) A Comissão prossegue o programa de trabalho relativo à análise sistemática de todas as substâncias ativas existentes, iniciado nos termos do artigo 16.º, n.º 2, da Diretiva 98/8/CE, no intuito de a concluir até 31 de dezembro de 2030.**◄** Para tal, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º para executar o programa de trabalho e para especificar os direitos e obrigações conexos das autoridades competentes e dos participantes no programa.
+
+Em função dos progressos verificados na execução do programa de trabalho, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 83.º para a extensão da duração desse programa por um período determinado.
+
+Para favorecer uma transição harmoniosa da Diretiva 98/8/CE para o presente regulamento, durante a execução do programa de trabalho a Comissão adota regulamentos de execução que determinam que a substância ativa é aprovada, e em que condições, ou – nos casos em que as condições do artigo 4.º, n.º 1, ou, quando aplicável, do artigo 5.º, n.º 2, não sejam cumpridas ou em que as informações e dados necessários não tenham sido apresentados no prazo fixado – decisões de execução pelas quais a substância ativa não é aprovada. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 82.º, n.º 3. Os regulamentos de aprovação de substâncias ativas devem especificar a data de aprovação. É aplicável o artigo 9.º, n.º 2.
+
+2.
+
+Não obstante o disposto nos artigos 17.º, n.º 1, 19.º, n.º 1, e 20.º, n.º 1, do presente regulamento, e sem prejuízo do disposto nos n.^os^ 1 e 3 do presente artigo, um Estado-Membro pode continuar a aplicar o seu sistema ou prática de disponibilização no mercado ou de utilização de determinado produto biocida atualmente em vigor durante três anos, no máximo, a contar da data de aprovação da última substância ativa a aprovar nesse produto biocida. O Estado-Membro em causa só pode autorizar a disponibilização no mercado ou a utilização no seu território, de acordo com as suas regras nacionais, de produtos biocidas que contenham apenas:
+
+a) substâncias ativas existentes que:
+
+i) foram avaliadas ao abrigo do Regulamento (CE) n.º 1451/2007 ([^38^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0038)) da Comissão, mas que ainda não foram aprovadas para o tipo de produto em causa; ou
+
+ii) estão a ser avaliadas ao abrigo do Regulamento (CE) n.º 1451/2007, mas que ainda não foram aprovadas para o tipo de produto em causa;
+
+b) uma combinação de substâncias ativas referidas na alínea a) com substâncias ativas aprovadas nos termos do presente regulamento.
+
+3. Na sequência de uma decisão de aprovação de uma dada substância ativa para determinado tipo de produto, os Estados-Membros asseguram que as autorizações de produtos biocidas que pertençam a esse tipo de produto e que contenham essa substância ativa sejam concedidas, alteradas ou revogadas, consoante o caso, nos termos do presente regulamento, no prazo de três anos a contar da data de aprovação.
+
+Para o efeito, os interessados em requerer a autorização ou o reconhecimento mútuo paralelo de produtos biocidas desse tipo de produto que não contenham substâncias ativas para além das já existentes devem apresentar os pedidos de autorização ou de reconhecimento mútuo paralelo até à data de aprovação da(s) substância(s) ativa(s). No caso dos produtos biocidas que contenham mais de uma substância ativa, os pedidos devem ser apresentados pelo menos até à data de aprovação da última substância ativa para esse tipo de produto.
+
+Se não tiver sido apresentado um pedido de autorização ou de reconhecimento mútuo paralelo nos termos do segundo parágrafo:
+
+a) o produto biocida deixa de poder ser disponibilizado no mercado decorridos 180 dias a contar da data de aprovação da(s) substância(s) ativa(s); e
+
+b) a utilização das existências do produto biocida pode prosseguir durante 365 dias, no máximo, a contar da data de aprovação da(s) substância(s) ativa(s).
+
+4.
+
+Caso a autoridade competente de um Estado-Membro ou, se for caso disso, a Comissão, decida indeferir um pedido de autorização, apresentado de acordo com o n.º 3, de um produto biocida já disponibilizado no mercado, ou decida não conceder a autorização, ou impor condições para a autorização que tornariam necessário alterar o produto em causa, é aplicável o seguinte:
+
+a) um produto biocida que não tenha sido autorizado, ou, se for caso disso, que não cumpra as condições da autorização, deixa de poder ser disponibilizado no mercado decorridos 180 dias a contar da data da decisão da autoridade; e
+
+b) a utilização das existências do produto biocida pode prosseguir durante 365 dias, no máximo, a contar da data da decisão da autoridade.
+
+###### Artigo 90.º — Medidas transitórias relativas às substâncias ativas avaliadas ao abrigo da Diretiva 98/8/CE
+
+1. A Agência é responsável pela coordenação do processo de avaliação dos dossiers apresentados após 1 de setembro de 2012 e facilita a avaliação prestando assistência organizacional e apoio técnico aos Estados-Membros e à Comissão.
+
+2. Os pedidos apresentados para efeitos da Diretiva 98/8/CE, cuja avaliação pelos Estados-Membros, nos termos do artigo 11.º, n.º 2, da Diretiva 98/8/CE, não tenha sido concluída até 1 de setembro de 2013 são avaliados pelas autoridades competentes nos termos do presente regulamento e, se for caso disso, do Regulamento (CE) n.º 1451/2007.
+
+Essa avaliação é efetuada com base nas informações fornecidas no dossier apresentado nos termos da Diretiva 98/8/CE.
+
+Nos casos em que a avaliação identifique problemas decorrentes da aplicação das disposições do presente regulamento, que não façam parte da Diretiva 98/8/CE, é oferecida ao requerente a oportunidade de fornecer informações adicionais.
+
+Serão envidados todos os esforços para evitar ensaios adicionais em vertebrados e para evitar causar atrasos ao programa de revisão previsto no Regulamento (CE) n.º 1451/2007, em resultado das disposições transitórias.
+
+Não obstante o disposto no n.º 1, a Agência é igualmente responsável pela coordenação do processo de avaliação de dossiers apresentados para efeitos da Diretiva 98/8/CE cuja avaliação não tenha sido completada até 1 de setembro de 2013 e facilita a preparação da avaliação prestando assistência organizacional e apoio técnico aos Estados-Membros e à Comissão a partir de 1 de janeiro de 2014.
+
+###### Artigo 91.º — Medidas transitórias relativas aos pedidos de autorização de produtos biocidas apresentados ao abrigo da Diretiva 98/8/CE
+
+Os pedidos de autorização de produtos biocidas apresentados ao abrigo da Diretiva 98/8/CE cuja avaliação não tenha sido concluída até 1 de setembro de 2013 são avaliados pelas autoridades competentes nos termos da referida diretiva.
+
+Sem prejuízo do disposto no primeiro parágrafo, é aplicável o seguinte:
+
+— sempre que uma avaliação de risco da substância ativa indicar que estão preenchidos um ou vários dos critérios fixados no artigo 5.º, n.º 1, o produto biocida é autorizado nos termos do artigo 19.º,
+
+— sempre que uma avaliação de risco da substância ativa indicar que estão preenchidos um ou vários dos critérios fixados no artigo 10.º, o produto biocida é autorizado nos termos do artigo 23.º.
+
+Nos casos em que a avaliação identifique problemas decorrentes da aplicação das disposições do presente regulamento, que não façam parte da Diretiva 98/8/CE, é oferecida ao requerente a oportunidade de fornecer informações adicionais.
+
+###### Artigo 92.º — Medidas transitórias relativas aos produtos biocidas autorizados/registados ao abrigo da Diretiva 98/8/CE
+
+1. Os produtos biocidas autorizados ou registados antes de 1 de setembro de 2013 nos termos dos artigos 3.º, 4.º, 15.º ou 17.º da Diretiva 98/8/CE podem continuar a ser disponibilizados no mercado e utilizados sem prejuízo, se for caso disso, de quaisquer condições de autorização ou registo determinadas ao abrigo dessa diretiva até à data de caducidade da autorização ou registo ou até à revogação desta.
+
+2. Sem prejuízo do disposto no n.º 1, o presente regulamento é aplicável aos produtos biocidas referidos nesse número a partir de 1 de setembro de 2013.
+
+Os produtos biocidas autorizados nos termos dos artigos 3.º ou 4.º da Diretiva 98/8/CE são considerados autorizados nos termos do artigo 17.º do presente Regulamento.
+
+###### Artigo 93.º — Medidas transitórias relativas aos produtos biocidas não abrangidos pelo âmbito de aplicação da Diretiva 98/8/CE
+
+Não obstante o disposto no artigo 17.º, n.º 1, um Estado-Membro pode continuar a aplicar o seu sistema ou prática atualmente em vigor de disponibilização no mercado e de utilização de um produto biocida não abrangido pelo âmbito de aplicação da Diretiva 98/8/CE, mas sim pelo presente regulamento, e que consista em, contenha ou gere apenas substâncias ativas que estavam disponíveis no mercado, ou tenham sido utilizadas em produtos biocidas em 1 de setembro de 2013. A exceção aplica-se até uma das seguintes datas:
+
+a) se os pedidos de aprovação de todas essas substâncias ativas em que o produto biocida consista, contenha ou gere forem apresentados para o tipo de produto em causa até 1 de setembro de 2016, até aos prazos previstos no artigo 89.º, n.º 2, segundo parágrafo, no artigo 89.º, n.º 3, e no artigo 89.º, n.º 4; ou
+
+b) se, para uma das substâncias ativas, não for apresentado qualquer pedido nos termos da alínea a), até 1 de setembro de 2017.
+
+###### Artigo 94.º — Medidas transitórias relativas aos artigos tratados
+
+1.
+
+Não obstante o disposto no artigo 58.º, n.º 2, um artigo tratado com, ou em que tenha sido intencionalmente incorporado um ou mais produtos biocidas que apenas contenha as substâncias ativas que estão a ser avaliadas para o tipo de produto em causa no programa de trabalho a que se refere o artigo 89.º, n.º 1, até 1 de setembro de 2016, ou relativamente às quais tenha sido apresentado um pedido de aprovação para o tipo de produto em causa até essa data, ou que contenha apenas uma combinação dessas substâncias e das substâncias ativas incluídas na lista elaborada nos termos do artigo 9.º, n.º 2, para o tipo de produto e utilização relevantes, ou incluídas no anexo I, pode ser colocado no mercado até uma das seguintes datas:
+
+a) no caso de uma decisão, tomada após 1 de setembro de 2016, de indeferimento do pedido de aprovação ou de não aprovação de uma das substâncias ativas para a utilização em causa, uma data situada no período de 180 dias após essa decisão;
+
+b) nos outros casos, a data de aprovação do tipo de produto e de utilização da última substância ativa a ser aprovada e contida no produto biocida.
+
+2. Ainda não obstante o disposto no artigo 58.º, n.º 2, um artigo tratado com, ou em que tenha sido intencionalmente incorporado um ou mais produtos biocidas que contenha uma substância ativa para além das referidas no n.º 1 do presente artigo ou das incluídas na lista elaborada nos termos do artigo 9.º, n.º 2, para o tipo de produto e utilização relevantes, ou incluídas no anexo I, pode ser colocado no mercado até 1 de março de 2017.
+
+###### Artigo 95.º — Medidas transitórias relativas ao acesso ao dossier da substância ativa
+
+1. A partir de 1 de setembro de 2013, a Agência publica e atualiza regularmente uma lista de todas as substâncias ativas e de todas as substâncias que geram uma substância ativa, sobre as quais um *dossier* conforme com o anexo II do presente regulamento, ou com os anexos II-A ou IV-A da Diretiva 98/8/CE e, se for caso disso, com o anexo III-A dessa diretiva («*dossier* completo da substância »), tenha sido apresentado e aceite ou validado por um Estado-Membro num procedimento previsto pelo presente regulamento ou por essa diretiva («substâncias em causa»). Relativamente a cada substância em causa, a lista inclui também todas as pessoas que tenham apresentado esse *dossier* ou um pedido à Agência de acordo com o segundo parágrafo do presente número, e indica o seu papel tal como especificado nesse parágrafo, e o tipo de produto ou produtos para o qual tenham apresentado um pedido, bem como a data de inclusão da substância na lista.
+
+Uma pessoa estabelecida na União que fabrique ou importe uma substância em causa, estreme ou contida em produtos biocidas («fornecedor da substância»), ou que fabrique ou disponibilize no mercado um produto biocida que consista em, contenha ou gere essa substância em causa («fornecedor do produto»), pode, a qualquer momento, apresentar à Agência quer um *dossier* completo da substância em causa, quer uma carta de acesso a um *dossier* completo da substância, ou uma referência a um *dossier* completo da substância em relação ao qual já tenham expirado todos os prazos de proteção de dados. Na sequência da renovação da aprovação de uma substância ativa, qualquer fornecedor de substâncias ou produtos pode apresentar à Agência uma carta de acesso a todos os dados considerados pelas autoridades competentes avaliadoras como relevantes para efeitos da renovação, e cujo período de proteção ainda não tenha expirado (os «dados relevantes»).
+
+A Agência informa o fornecedor que apresenta os supracitados elementos das taxas devidas por força do artigo 80.º, n.º 1. A Agência indefere o pedido se o fornecedor que apresenta esses elementos não pagar as referidas taxas no prazo de 30 dias. A Agência informa do facto o fornecedor que apresenta os elementos referidos.
+
+Ao receber as taxas devidas por força do artigo 80.º, n.º 1, a Agência verifica se os elementos apresentados estão conformes com o disposto no segundo parágrafo do presente número e informa desse facto o fornecedor que os apresentou.
+
+2. A contar de 1 de setembro de 2015, um produto biocida que consista em, contenha ou gere uma substância em causa incluída na lista referida no n.º 1 não é disponibilizado no mercado exceto se o fornecedor da substância ou o fornecedor do produto tiver sido incluído na lista referida no n.º 1 no que respeita aos tipos de produto a que este pertence.
+
+3. Para efeitos da apresentação dos elementos referidos no n.º 1, segundo parágrafo, do presente artigo, o artigo 63.º, n.º 3, do presente regulamento é aplicável a todos os estudos toxicológicos, ecotoxicológicos e relativos ao destino e comportamento no ambiente respeitantes às substâncias constantes do anexo II do Regulamento (CE) n.º 1451/2007, incluindo os estudos que não envolvam ensaios em vertebrados.
+
+4. Um fornecedor de uma substância ou de um produto incluído na lista referida no n.º 1 a quem tenha sido concedida uma carta de acesso para efeitos do presente artigo, ou a quem tenha sido concedido o direito de remeter para um estudo nos termos do n.º 3, tem o direito de autorizar os requerentes da autorização de um produto biocida a fazerem referência a essa carta de acesso ou a esse estudo para efeitos do artigo 20.º, n.º 1.
+
+5. Não obstante o disposto no artigo 60.º, todos os prazos de proteção de dados para as combinações de substância ativa/tipo de produto enumeradas no anexo II do Regulamento (CE) n.º 1451/2007, mas em relação às quais não tenha sido tomada uma decisão sobre a sua inclusão no anexo I da Diretiva 98/8/CE antes de 1 de setembro de 2013, caducam em 31 de dezembro de 2025.
+
+Em derrogação do primeiro parágrafo do presente número, todos os períodos de proteção de dados relativos às combinações de substância ativa/tipo de produto para as quais não tenha sido adotada, até 7 de junho de 2018, uma decisão de aprovação em conformidade com o artigo 89.º, n.º 1, terceiro parágrafo, terminam em 31 de dezembro de 2030.
+
+Os proprietários de dados podem solicitar uma compensação em relação ao acesso aos seus dados para o período que se inicia em 1 de janeiro de 2026 até 15 de junho de 2026 por um fornecedor de substâncias ou um fornecedor de produtos que tenha beneficiado da ausência de proteção e tenha sido incluído na lista referida no n.º 1 do presente artigo durante esse período.
+
+6. Os n.^os^ 1 a 5 não são aplicáveis às substâncias constantes do anexo I nas categorias 1 a 5 e 7 nem aos produtos biocidas que contenham apenas essas substâncias.
+
+7. A Agência atualiza regularmente a lista a que se refere o n.º 1 do presente artigo. Na sequência da renovação da aprovação de uma substância ativa, a Agência elimina da lista qualquer fornecedor de substâncias ou fornecedor de produtos que, no prazo de 12 meses a contar da renovação, não tenha apresentado todos os dados relevantes ou uma carta de acesso a todos os dados relevantes, quer nos termos do n.º 1, segundo parágrafo, do presente artigo, quer num pedido nos termos do artigo 13.º.
+
+###### Artigo 96.º — Revogação
+
+Sem prejuízo do disposto nos artigos 86.º, 89.º a 93.º e 95.º do presente regulamento, a Diretiva 98/8/CE é revogada com efeitos desde 1 de setembro de 2013.
+
+As remissões para a diretiva revogada devem entender-se como sendo feitas para o presente regulamento e ser lidas de acordo com a tabela de correspondência que consta do Anexo VII.
+
+###### Artigo 97.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+É aplicável a partir de 1 de setembro de 2013.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+| Número CE | Nome/Grupo | Restrição | Observação |
+| --- | --- | --- | --- |
+| Categoria 1 – Substâncias autorizadas como aditivos alimentares nos termos do Regulamento (CE) n.º 1333/2008 |  |  |  |
+| 200-018-0 | Ácido láctico | Concentração a limitar por forma a que nenhum produto biocida exija classificação nos termos da Diretiva 1999/45/CE nem do Regulamento (CE) n.º 1272/2008 | E 270 |
+| 204-823-8 | Acetato de sódio | Concentração a limitar por forma a que nenhum produto biocida exija classificação nos termos da Diretiva 1999/45/CE nem do Regulamento (CE) n.º 1272/2008 | E 262 |
+| 208-534-8 | Benzoato de sódio | Concentração a limitar por forma a que nenhum produto biocida exija classificação nos termos da Diretiva 1999/45/CE nem do Regulamento (CE) n.º 1272/2008 | E 211 |
+| 201-766-0 | (+)-Ácido tartárico | Concentração a limitar por forma a que nenhum produto biocida exija classificação nos termos da Diretiva 1999/45/CE nem do Regulamento (CE) n.º 1272/2008 | E 334 |
+| 200-580-7 | Ácido acético | Concentração a limitar por forma a que nenhum produto biocida exija classificação nos termos da Diretiva 1999/45/CE nem do Regulamento (CE) n.º 1272/2008 | E 260 |
+| 201-176-3 | Ácido propiónico | Concentração a limitar por forma a que nenhum produto biocida exija classificação nos termos da Diretiva 1999/45/CE nem do Regulamento (CE) n.º 1272/2008 | E 280 |
+| Categoria 2 – Substâncias incluídas no Anexo IV do Regulamento (CE) n.º 1907/2006 |  |  |  |
+| 200-066-2 | Ácido ascórbico |  |  |
+| 232-278-6 | Óleo de linhaça |  |  |
+| [▼M15](http://publications.europa.eu/resource/celex/32024R1290) |  |  |  |
+| — | Azoto gerado a partir do ar ambiente | Os pedidos de autorização de produtos devem incluir provas de que é evitada a exposição do utilizador e do público em geral a uma atmosfera hipóxica e, quando for adequado, que são tomadas as medidas necessárias. | — |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |  |
+| Categoria 3 – Ácidos fracos |  |  |  |
+| Categoria 4 – Substâncias de origem natural utilizadas tradicionalmente |  |  |  |
+| Óleo natural | Óleo de lavanda |  | CAS 8000-28-0 |
+| Óleo natural | Óleo de hortelã-pimenta |  | CAS 8006-90-4 |
+| [▼M4](http://publications.europa.eu/resource/celex/32019R1819) |  |  |  |
+| Não disponível | Vinagre [(^1^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0039) | Excluindo o vinagre que não constitua um género alimentício e o vinagre que contenha mais de 10% de ácido acético (quer constitua, quer não um género alimentício). | CAS 8028-52-2 |
+| [▼M5](http://publications.europa.eu/resource/celex/32019R1820) |  |  |  |
+| Não disponível | *Saccharomyces cerevisiae* (levedura) [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0040) | Excluindo a *Saccharomyces cerevisiae* que não constitua um género alimentício nem alimento para animais. | CAS 68876-77-7 |
+| [▼M6](http://publications.europa.eu/resource/celex/32019R1821) |  |  |  |
+| Não disponível | Ovo em pó [(^3^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0041) | Excluindo o ovo em pó que não constitua um género alimentício nem alimento para animais. |  |
+| [▼M7](http://publications.europa.eu/resource/celex/32019R1822) |  |  |  |
+| Não disponível | Mel [(^4^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0042) | Excluindo o mel que não constitua um género alimentício nem alimento para animais. | CAS 8028-66-8 |
+| [▼M8](http://publications.europa.eu/resource/celex/32019R1823) |  |  |  |
+| 200-333-3 | D-Frutose [(^5^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0043) | Excluindo a D-frutose que não constitua um género alimentício nem alimento para animais. | CAS 57-48-7 |
+| [▼M9](http://publications.europa.eu/resource/celex/32019R1824) |  |  |  |
+| Não disponível | Queijo [(^6^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0044) | Excluindo o queijo que não constitua um género alimentício nem alimento para animais. |  |
+| [▼M10](http://publications.europa.eu/resource/celex/32019R1825) |  |  |  |
+| Não disponível | Sumo de maçã concentrado [(^7^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0045) | Excluindo o sumo de maçã concentrado que não é abrangido pela definição constante do anexo I, parte I, ponto 2, da Diretiva 2001/112/CE do Conselho [(^8^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0046). |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |  |
+| Categoria 5 – Feromonas |  |  |  |
+| 222-226-0 | Oct-1-en3-ol |  |  |
+| Mistura | Feromona da traça da roupa |  |  |
+| [▼M3](http://publications.europa.eu/resource/celex/32014R0334) |  |  |  |
+| Categoria 6 – Substâncias para as quais um Estado-Membro tenha validado um *dossier* da substância ativa, nos termos do artigo 7.º, n.º 3, do presente regulamento ou aceite esse *dossier*, nos termos do artigo 11.º, n.º 1, da Diretiva 98/8/CE |  |  |  |
+| [▼M18](http://publications.europa.eu/resource/celex/32026R0447) |  |  |  |
+| 204-696-9 | Dióxido de carbono | A autorização de produtos biocidas que contenham dióxido de carbono como substância ativa está sujeita às seguintes condições: a) A exposição dos utilizadores profissionais ao dióxido de carbono mantém-se abaixo da concentração de exposição aceitável de: i) 1,5 % volume/volume (v/v) de dióxido de carbono para o limite de exposição de curta duração (STEL) de 15 minutos, e ii) 0,5 % v/v de dióxido de carbono para a concentração média ponderada no tempo (TWA) por um período de 8 horas; b) A exposição ao dióxido de carbono dos utilizadores da população em geral ou das pessoas que se encontram nas proximidades mantém-se abaixo de 0,1 % v/v de dióxido de carbono; c) Sempre que adequado, o utilizador deve tomar as medidas necessárias descritas no resumo das características do produto. | — |
+| [▼M13](http://publications.europa.eu/resource/celex/32021R0806) |  |  |  |
+| 204-696-9 | Dióxido de carbono gerado a partir de propano, butano ou uma mistura de ambos por combustão [(^10^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0048) |  | CAS: 124-38-9 |
+| [▼M11](http://publications.europa.eu/resource/celex/32021R0407) |  |  |  |
+| 201-069-1 | Ácido cítrico | Grau mínimo de pureza da substância ativa [(^9^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0047): 995 g/kg | N.º CAS 77-92-9 |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |  |
+| 231-783-9 | Azoto (nitrogénio) | Apenas para utilização em quantidades limitadas em garrafas prontas a utilizar |  |
+| [▼M14](http://publications.europa.eu/resource/celex/32021R0807) |  |  |  |
+| 246-376-1 | (E,E)-hexa-2,4-dienoato de potássio (sorbato de potássio) [(^11^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0049) | Grau mínimo de pureza da substância ativa [(^12^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0050): 990 g/kg | N.º CAS: 24634-61-5 |
+| [▼C2](http://publications.europa.eu/resource/celex/32012R0528R%2808%29) |  |  |  |
+| Não disponível | Acetato de (9*Z*,12*E*)-tetradeca-9,12-dien-1-ilo |  | CAS: 30507-70-1 |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |  |
+| Categoria 7 – Outras |  |  |  |
+|  | Báculo vírus |  |  |
+| 215-108-5 | Bentonite |  |  |
+| 203-376-6 | Citronelal |  |  |
+| 231-753-5 | Sulfato de ferro |  |  |
+| [**►M4**](http://publications.europa.eu/resource/celex/32019R1819) (^1^) A data de aprovação do vinagre em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. **◄** [**►M5**](http://publications.europa.eu/resource/celex/32019R1820) (^2^) A data de aprovação da *Saccharomyces cerevisiae* em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. **◄** [**►M6**](http://publications.europa.eu/resource/celex/32019R1821) (^3^) A data de aprovação do ovo em pó em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. **◄** [**►M7**](http://publications.europa.eu/resource/celex/32019R1822) (^4^) A data de aprovação do mel em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. **◄** [**►M8**](http://publications.europa.eu/resource/celex/32019R1823) (^5^) A data de aprovação da D-frutose em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. **◄** [**►M9**](http://publications.europa.eu/resource/celex/32019R1824) (^6^) A data de aprovação do queijo em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. **◄** [**►M10**](http://publications.europa.eu/resource/celex/32019R1825) (^7^) A data de aprovação do sumo de maçã concentrado em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de junho de 2021. (^8^) Diretiva 2001/112/CE do Conselho, de 20 de dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana (JO L 10 de 12.1.2002, p. 58). **◄** (^9^) O grau de pureza indicado nesta coluna corresponde ao grau mínimo de pureza da substância ativa avaliada. A substância ativa presente no produto colocado no mercado pode apresentar um grau de pureza igual ou diferente, desde que tenha sido comprovada como tecnicamente equivalente à substância ativa avaliada. (^10^) A data de aprovação do dióxido de carbono gerado a partir de propano, butano ou uma mistura de ambos por combustão em produtos do tipo 19 para efeitos do artigo 89.º, n.º 3, é 1 de julho de 2022. (^11^) A data de aprovação do sorbato de potássio em produtos do tipo 6 para efeitos do artigo 89.º, n.º 3, é 1 de fevereiro de 2023. (^12^) O grau de pureza indicado nesta coluna corresponde ao grau mínimo de pureza da substância ativa avaliada. A substância ativa presente no produto colocado no mercado pode apresentar um grau de pureza igual ou diferente, desde que tenha sido comprovada como tecnicamente equivalente à substância ativa avaliada. |  |  |  |
+
+## ANEXO II
+
+### REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA AS SUBSTÂNCIAS ATIVAS
+
+1. O presente anexo estabelece os requisitos em matéria de informações necessárias para a preparação do dossier previsto no artigo 6.º, n.º 1, alínea a).
+
+2. Os elementos previstos no presente anexo compreendem um núcleo de dados de base (Core Data Set – CDS) e um conjunto de dados suplementares (Additional Data Set – ADS). Os dados pertencentes ao CDS são considerados dados básicos que devem, em princípio, ser fornecidos para todas as substâncias ativas. No entanto, em alguns casos, as propriedades físicas ou químicas da substância podem fazer com que seja impossível ou desnecessário fornecer dados específicos pertencentes ao CDS.
+
+3. Deve ser incluída uma descrição completa e pormenorizada dos estudos realizados ou citados e dos métodos utilizados. É importante garantir que os dados disponíveis sejam pertinentes e de qualidade suficiente para satisfazer os requisitos. Também devem ser fornecidas provas que demonstrem que a substância ativa com a qual os ensaios foram realizados é a mesma que a substância para a qual o pedido foi apresentado.
+
+4. Para a apresentação dos dossiers, devem ser utilizados os formatos fornecidos pela Agência. Além disso, o IUCLID deve ser usado para as partes dos dossiers às quais se aplica. Os formatos, bem como outras orientações sobre os requisitos em matéria de dados e de elaboração dos dossiers, estão disponíveis no sítio na Internet da Agência.
+
+5. Os ensaios apresentados para fins de aprovação de uma substância ativa devem ser realizados em conformidade com os métodos descritos no Regulamento (CE) n.º 440/2008 da Comissão ([^39^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0051)), ou qualquer versão revista desses métodos ainda não incluída nesse regulamento.
+
+6. Os ensaios realizados devem cumprir os requisitos aplicáveis à proteção dos animais de laboratório estabelecidos na Diretiva 2010/63/UE do Parlamento Europeu e do Conselho, de 22 de setembro de 2010, relativa à proteção dos animais utilizados para fins científicos ([^40^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0052)), e, no caso de ensaios ecotoxicológicos e toxicológicos, as boas práticas de laboratório estabelecidas na Diretiva 2004/10/CE do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação dos princípios de boas práticas de laboratório e ao controlo da sua aplicação para os ensaios sobre as substâncias químicas ([^41^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0053)), ou outras normas internacionais reconhecidas como equivalentes pela Comissão ou pela Agência. Os ensaios sobre propriedades físico-químicas e os dados relativos à segurança pertinentes devem ser realizados pelo menos de acordo com as normas internacionais.
+
+7. Depois de terminados os ensaios, deve ser apresentada uma descrição pormenorizada (especificação) da substância ativa utilizada e das suas impurezas. Os ensaios devem ser realizados com a substância ativa tal como é produzida ou, no caso de algumas das propriedades físicas e químicas (ver indicações dadas na coluna I do quadro), com uma forma purificada da substância ativa.
+
+8. Quando os dados de ensaio tiverem sido gerados antes de 1 de setembro de 2013 por métodos diferentes dos descritos no Regulamento (CE) n.º 440/2008, a sua adequação para efeitos do presente regulamento e a necessidade de efetuar novos ensaios nos termos do Regulamento (CE) n.º 440/2008 devem ser decididos, caso a caso, pela autoridade competente do Estado-Membro em causa, tendo em conta, entre outros fatores, a necessidade de reduzir ao mínimo os ensaios com vertebrados.
+
+9. A realização de novos ensaios com vertebrados deve ser a última opção disponível para cumprir os requisitos em matéria de dados estipulados no presente anexo, quando todas as outras fontes de dados tiverem sido esgotadas. Devem ser evitados os ensaios in vivo com substâncias corrosivas em concentrações/doses que provoquem corrosão.
+
+#### TÍTULO 1
+
+#### SUBSTÂNCIAS QUÍMICAS
+
+As informações necessárias para fundamentar a aprovação de uma substância ativa estão enumeradas no quadro *infra*.
+
+São também aplicáveis as condições relativas à não-exigência de determinados ensaios estabelecidas nos métodos de ensaio pertinentes previstos no Regulamento (CE) n.º 440/2008 que não se encontrem repetidos na coluna 3.
+
+| Coluna 1 Informações necessárias | Coluna 2 Todos os dados são CDS salvo se indicados como ADS | [**►M12**](http://publications.europa.eu/resource/celex/32021R0525) Coluna 3 Regras específicas para a adaptação da coluna 1 **◄** |
+| --- | --- | --- |
+| 1. REQUERENTE |  |  |
+| 1.1. Nome e endereço |  |  |
+| 1.2. Pessoa de contacto |  |  |
+| 1.3. Fabricante da substância ativa (nome, endereço e localização das instalações de fabrico) |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2. IDENTIFICAÇÃO DA SUBSTÂNCIA ATIVA (E DOS SEUS PRECURSORES, SE A SUBSTÂNCIA ATIVA FOR GERADA *IN SITU*) |  |  |
+| As informações sobre a substância ativa e, se for o caso, sobre os seus precursores apresentadas na presente secção devem ser suficientes para permitir a identificação da substância ativa em causa. Se não for tecnicamente possível, ou se não se afigurar cientificamente necessário, fornecer informações sobre um ou mais dos elementos indicados na presente secção, há que justificá-lo claramente |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 2.1. Denominação comum proposta ou aceite pela ISO, bem como sinónimos (nome vulgar, nome comercial, abreviatura) |  |  |
+| 2.2. Denominação química (nomenclatura IUPAC e CA ou outras denominações químicas internacionais) |  |  |
+| 2.3. Número(s) de código de desenvolvimento do fabricante |  |  |
+| 2.4. Número CAS e números EC, INDEX e CIPAC |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.5. Fórmula molecular e estrutural (incluindo na notação SMILES, caso exista e se justifique) Para o(s) precursor(es) e para as substâncias ativas geradas *in situ*, informações sobre todas as substâncias químicas geradas (intencionais ou não intencionais) |  | Caso não seja possível definir com exatidão a estrutura molecular do(s) precursor(es) e/ou da substância ativa, não é necessário fornecer as fórmulas moleculares e estruturais |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 2.6. Informação sobre a atividade ótica e informações pormenorizadas sobre a composição isomérica (caso existam e se justifique) |  |  |
+| 2.7. Massa molecular |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.8. Processo de fabrico (vias de síntese) da substância ativa, com informações sobre materiais de base e solventes, incluindo fornecedores, especificações e disponibilidade comercial No caso das substâncias ativas geradas *in situ* deve ser fornecida uma descrição dos sistemas de reação, incluindo todas as reações intermédias e as respetivas substâncias químicas associadas (intencionais ou não intencionais) |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 2.9. Especificação da pureza da substância ativa tal como produzida em g/kg, g/l ou %p/p (v/v) conforme o caso, incluindo o limite inferior e superior |  |  |
+| 2.10. Identidade de todas as impurezas e aditivos, incluindo subprodutos de síntese, isómeros óticos, produtos de degradação (se a substância for instável) formas que não reagiram e grupos terminais etc. de polímeros e materiais de base de substâncias UVC que não reagiram |  |  |
+| 2.11. Perfil analítico de pelo menos cinco lotes representativos (g/kg de substância ativa) incluindo informações sobre o teor das impurezas referidas em 2.10 |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.11.1. Perfil analítico de pelo menos cinco amostras representativas retiradas da(s) substância(s) gerada(s) *in situ*, fornecendo informações sobre o teor da(s) substância(s) ativa(s) e de qualquer outro constituinte acima de 0,1 % p/p, incluindo resíduos de precursores |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 2.12. Origem da substância ativa natural ou do(s) precursor(es) da substância ativa (por exemplo extrato floral) |  |  |
+| 3. PROPRIEDADES FÍSICO-QUÍMICAS DA SUBSTÂNCIA ATIVA |  |  |
+| 3.1. Aspeto [(^1^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0054) |  |  |
+| 3.1.1. Estado de agregação (a 20 °C e 101,3 kPa) |  |  |
+| 3.1.2. Estado físico (isto é, viscoso, cristalino, em pó) (a 20 °C e 101,3 kPa) |  |  |
+| 3.1.3. Cor (a 20 °C e 101,3 kPa) |  |  |
+| 3.1.4. Odor (a 20 °C e 101,3 kPa) |  |  |
+| 3.2. Ponto de fusão/congelação [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.3. Acidez, alcalinidade |  |  |
+| 3.4. Ponto de ebulição [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.5. Densidade relativa [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.6. Dados dos espetros de absorção (ultravioleta/visível (UV/VIS), infravermelho (IV), ressonância magnética nuclear – RMN) e espetrometria de massa, extinção molar a comprimentos de onda adequados, se for caso disso [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.7. Pressão de vapor [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.7.1. A constante da lei de Henry deve ser sempre indicada para sólidos e líquidos se puder ser calculada |  |  |
+| 3.8. Tensão superficial [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.9. Hidrossolubilidade [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.10. Coeficiente de partição n-octanol/água e sua dependência do pH [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.11. Estabilidade térmica, identidade dos produtos de degradação [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) |  |  |
+| 3.12. Reatividade com os materiais do recipiente |  |  |
+| 3.13. Constante de dissociação | ADS |  |
+| 3.14. Granulometria |  |  |
+| 3.15. Viscosidade | ADS |  |
+| 3.16. Solubilidade em solventes orgânicos, incluindo efeitos da temperatura na solubilidade [(^2^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0055) | ADS |  |
+| 3.17. Estabilidade nos solventes orgânicos utilizados nos produtos biocidas e identidade dos produtos de degradação pertinentes [(^1^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0054) | ADS |  |
+| 4. PERIGOS FÍSICOS E RESPETIVAS CARACTERÍSTICAS |  |  |
+| 4.1. Explosivos |  |  |
+| 4.2. Gases inflamáveis |  |  |
+| 4.3. Aerossóis inflamáveis |  |  |
+| 4.4. Gases comburentes |  |  |
+| 4.5. Gases sob pressão |  |  |
+| 4.6. Líquidos inflamáveis |  |  |
+| 4.7. Sólidos inflamáveis |  |  |
+| 4.8. Substâncias e misturas autor reativas |  |  |
+| 4.9. Líquidos pirofóricos |  |  |
+| 4.10. Sólidos pirofóricos |  |  |
+| 4.11. Substâncias e misturas suscetíveis de autoaquecimento |  |  |
+| 4.12. Substâncias e misturas que, em contacto com a água, libertam gases inflamáveis |  |  |
+| 4.13. Líquidos comburentes |  |  |
+| 4.14. Sólidos comburentes |  |  |
+| 4.15. Peróxidos orgânicos |  |  |
+| 4.16. Corrosivos para os metais |  |  |
+| 4.17. Outros indicadores físicos de perigo |  |  |
+| 4.17.1. Temperatura de autoignição (líquidos e gases) |  |  |
+| 4.17.2. Temperatura de autoignição relativa para os sólidos |  |  |
+| 4.17.3. Perigo de explosão de poeiras |  |  |
+| 5. MÉTODOS DE DETEÇÃO E IDENTIFICAÇÃO |  |  |
+| 5.1. Métodos analíticos, incluindo parâmetros de validação para a determinação da substância ativa tal como produzida e, se for caso disso, dos resíduos, isómeros e impurezas da substância ativa relevante e dos aditivos (por exemplo, estabilizantes) No referente a impurezas que não sejam impurezas relevantes, só se aplica se estiverem presentes em quantidades ≥ 1 g/kg |  |  |
+| 5.2. Métodos analíticos para efeitos de monitorização, incluindo as percentagens de recuperação e os limites de quantificação e deteção da substância ativa e dos respetivos resíduos, nos ou sobre os seguintes elementos, se for caso disso |  |  |
+| 5.2.1. Solo |  |  |
+| 5.2.2. Ar |  |  |
+| 5.2.3. Água (superficial, potável, etc.) e sedimentos |  |  |
+| 5.2.4. Fluidos e tecidos humanos e animais |  |  |
+| 5.3. Métodos analíticos para fins de monitorização, incluindo as taxas de recuperação e o limite de quantificação e deteção da substância ativa e respetivos resíduos, nos ou sobre os géneros alimentícios de origem vegetal e animal ou os alimentos para animais e outros produtos, se for o caso(não é necessário se nem a substância ativa nem os artigos com ela tratados entrarem em contacto com animais produtores de géneros alimentícios, géneros alimentícios de origem vegetal ou animal ou alimentos para animais) | ADS |  |
+| 6. EFICÁCIA CONTRA OS ORGANISMOS VISADOS |  |  |
+| 6.1. Função, por exemplo, fungicida, rodenticida, inseticida, bactericida e modo de controlo, por exemplo atraindo, matando, inibindo |  |  |
+| 6.2. Organismo(s) representativo(s) a controlar e produtos, organismos ou objetos a proteger |  |  |
+| 6.3. Efeitos sobre o(s) organismo(s) visado(s) representativo(s) |  |  |
+| 6.4. Concentração provável em que a substância ativa será utilizada em produtos e, quando adequado, em artigos tratados |  |  |
+| 6.5. Modo de ação (incluindo tempo necessário) |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 6.6. Dados relativos à eficácia para fundamentar: — a atividade inata da substância ativa para a(s) utilização(ões) prevista(s), e — quaisquer menções relativas aos artigos tratados no que respeita às propriedades biocidas conferidas ao artigo Os dados relativos à eficácia devem incluir quaisquer protocolos normalizados disponíveis, ensaios de laboratório ou ensaios de campo e padrões de desempenho, se for caso disso, ou dados semelhantes aos disponíveis para produtos de referência adequados |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 6.7. Quaisquer limitações conhecidas da eficácia |  |  |
+| 6.7.1. Informações sobre o aparecimento ou eventual aparecimento de resistências e estratégias de gestão adequadas |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 6.7.2. Observações sobre efeitos secundários indesejáveis ou imprevistos em organismos não visados ou em objetos e materiais a proteger |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 7. UTILIZAÇÕES E EXPOSIÇÃO PREVISTAS |  |  |
+| 7.1. Domínio(s) de utilização previsto(s) para os produtos biocidas e, quando adequado, para os artigos tratados |  |  |
+| 7.2. Tipo(s) de produto(s) |  |  |
+| 7.3. Descrição pormenorizada do(s) padrão(ões) de utilização previsto(s), incluindo nos artigos tratados |  |  |
+| 7.4. Utilizadores, por exemplo, industriais, profissionais formados, profissionais ou público (não profissional) |  |  |
+| 7.5. Tonelagem que se prevê colocar anualmente no mercado e, sempre que pertinente, para as principais categorias de uso previstas |  |  |
+| 7.6. Dados relativos à exposição nos termos do Anexo VI do presente regulamento |  |  |
+| 7.6.1. Informações sobre a exposição humana associada às utilizações previstas e à eliminação da substância ativa |  |  |
+| 7.6.2. Informações sobre a exposição ambiental associada às utilizações previstas e à eliminação da substância ativa |  |  |
+| 7.6.3. Informações sobre a exposição dos animais produtores de géneros alimentícios, dos géneros alimentícios e dos alimentos para animais associada às utilizações previstas da substância ativa |  |  |
+| 7.6.4. Informações sobre a exposição através de artigos tratados, incluindo dados de lixiviação (quer estudos laboratoriais quer dados modelares) |  |  |
+| 8. PERFIL TOXICOLÓGICO PARA OS SERES HUMANOS E OS ANIMAIS, INCLUINDO METABOLISMO |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.1. Corrosão ou irritação cutâneas A avaliação deve compreender os seguintes níveis: a) Avaliação dos dados disponíveis obtidos no ser humano, em animais e sem a utilização de animais b) Corrosão cutânea, ensaios *in vitro* c) Irritação cutânea, ensaios *in vitro* d) Corrosão ou irritação cutâneas, ensaios *in vivo* |  | Os estudos indicados na coluna 1 não são exigidos nos seguintes casos: — se as informações disponíveis indicarem que a substância preenche os critérios de classificação relativos a corrosão ou irritação cutânea, — se a substância for um ácido forte ((pH≤ 2,0) ou uma base forte (pH≥ 11,5), — se a substância se inflamar espontaneamente em contacto com o ar ou com a água ou a humidade, à temperatura ambiente, — se a substância preencher os critérios de classificação relativos a toxicidade aguda (categoria 1) por via cutânea, ou — se um estudo de toxicidade aguda por via cutânea fornecer elementos de prova concludentes sobre a corrosão ou irritação cutâneas adequados para efeitos de classificação. Se os resultados de um dos dois estudos referidos na alínea b) ou na alínea c) da coluna 1 da presente linha permitirem uma decisão definitiva quanto à classificação de uma substância ou à ausência de potencial de irritação cutânea, não é necessário realizar o segundo estudo. A realização de um estudo *in vivo* de corrosão ou irritação cutâneas só é de ponderar se os estudos *in vitro* indicados nas alíneas b) e c) da coluna 1 da presente linha não forem aplicáveis ou se os seus resultados não forem apropriados para efeitos de classificação e de avaliação dos riscos. Os estudos *in vivo* de corrosão ou irritação cutâneas que tenham sido realizados ou iniciados antes de15 de abril de 2022 são considerados adequados para satisfazer este requisito de informação. |
+| 8.2. Lesões oculares graves ou irritação ocular A avaliação deve compreender os seguintes níveis: a) Avaliação dos dados disponíveis obtidos no ser humano, em animais e sem a utilização de animais b) Lesões oculares graves ou irritação ocular, ensaios *in vitro* c) Lesões oculares graves ou irritação ocular, ensaios *in vivo* |  | Os estudos indicados na coluna 1 não são exigidos nos seguintes casos: — se as informações disponíveis indicarem que a substância preenche os critérios de classificação relativos a corrosão ocular ou lesões oculares graves, — se a substância for um ácido forte ((pH≤ 2,0) ou uma base forte (pH≥ 11,5), — se a substância se inflamar espontaneamente em contacto com o ar ou com a água ou a humidade, à temperatura ambiente, ou — se a substância preencher os critérios de classificação relativos a corrosão cutânea conduzindo à classificação da substância como causadora de «lesões oculares graves» (categoria 1). Se os resultados de um primeiro estudo *in vitro* não permitirem uma decisão definitiva quanto à classificação da substância ou à ausência de potencial de irritação ocular, deve ponderar-se a realização de outro(s) estudo(s) *in vitro* para este parâmetro. A realização de um estudo *in vivo* de lesões oculares graves ou irritação ocular só é de ponderar se os estudos *in vitro* indicados na alínea b) da coluna 1 da presente linha não forem aplicáveis ou se os seus resultados não forem apropriados para efeitos de classificação e de avaliação dos riscos. Os estudos *in vivo* de lesões oculares graves ou irritação ocular que tenham sido realizados ou iniciados antes de 15 de abril de 2022 são considerados adequados para satisfazer este requisito de informação. |
+| 8.3. Sensibilização cutânea As informações devem permitir concluir se a substância é um sensibilizante cutâneo e se pode ou não considerar-se potencialmente capaz de produzir sensibilização significativa no ser humano (categoria 1A). As informações devem ser suficientes para efetuar uma avaliação dos riscos, sempre que necessário A avaliação deve compreender os seguintes níveis: a) Avaliação dos dados disponíveis obtidos no ser humano, em animais e sem a utilização de animais b) Sensibilização cutânea, ensaios *in vitro*. Informações obtidas por métodos de ensaio *in vitro* ou *in chemico* referidos no ponto 5 da parte introdutória do presente anexo relativas a cada uma das seguintes ocorrências fundamentais de sensibilização cutânea: i) interação molecular com as proteínas da pele, ii) resposta inflamatória nos queratinócitos, iii) ativação das células dendríticas c) Sensibilização cutânea, ensaios *in vivo*. O ensaio dos gânglios linfáticos locais (LLNA) em murídeos é o método preferencial a utilizar nos ensaios *in vivo*. Só em casos excecionais pode ser utilizado outro ensaio de sensibilização cutânea. Se for usado outro ensaio de sensibilização cutânea, deve ser fornecida justificação |  | Os estudos indicados na coluna 1 não são exigidos nos seguintes casos: — se as informações disponíveis indicarem que a substância preenche os critérios de classificação relativos a sensibilização cutânea ou irritação cutânea, — se a substância for um ácido forte (pH≤ 2,0) ou uma base forte, (pH≥ 11,5) ou — se a substância se inflamar espontaneamente em contacto com o ar ou com a água ou a humidade, à temperatura ambiente. Não é necessário efetuar ensaios *in vitro* nos seguintes casos: — se estiver disponível um estudo *in vivo*, tal como referido na coluna 1, alínea c), da presente linha, ou — se os métodos de ensaio *in vitro* ou *in chemico* disponíveis não forem aplicáveis à substância ou se os resultados gerados por esses estudos não forem apropriados para efeitos de classificação e de avaliação dos riscos. Se as informações geradas pelo(s) método(s) de ensaio respeitantes a uma ou duas das ocorrências fundamentais indicadas na coluna 1, alínea b), da presente linha permitirem classificar a substância e avaliar os riscos, não é necessário realizar estudos sobre a(s) outra(s) ocorrência(s fundamental(ais). Só deve realizar-se um estudo *in vivo* de sensibilização cutânea se os métodos de ensaio *in vitro* ou *in chemico* na coluna 1, alínea b), da presente linha não forem aplicáveis, ou se os resultados gerados por esses estudos não forem apropriados para efeitos de classificação e de avaliação dos riscos. Os estudos *in vivo* de sensibilização cutânea que tenham sido realizados ou iniciados antes de 15 de abril de 2022 são considerados adequados para satisfazer este requisito de informação. |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.4. Sensibilização respiratória | ADS |  |
+| 8.5. Mutagenicidade |  |  |
+| A avaliação deste parâmetro compreende as seguintes etapas consecutivas: — uma avaliação dos dados de genotoxicidade in vivo disponíveis — são necessários um ensaio in vitro de mutações genéticas em bactérias, um ensaio in vitro de citogenicidade em células de mamíferos e um ensaio in vitro de mutação genética em células de mamíferos — se algum dos estudos de genotoxicidade in vitro der resultado positivo, deve ponderar-se a realização de um estudo adequado de genotoxicidade in vivo |  |  |
+| 8.5.1. Estudo in vitro de mutação genética em bactérias |  |  |
+| 8.5.2. Estudo in vitro de citogenicidade em células de mamíferos |  |  |
+| 8.5.3. Estudo in vitro de mutação genética em células de mamíferos |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.6. Estudo de genotoxicidade *in vivo* A avaliação deve compreender os seguintes níveis: a) Se o resultado de algum dos estudos *in vitro* de genotoxicidade indicados na linha 8.5 for positivo e não se dispuser de resultados fiáveis de um estudo *in vivo* apropriado de genotoxicidade em células somáticas, deve efetuar-se um estudo *in vivo* apropriado de genotoxicidade em células somáticas b) Pode ser necessário um segundo estudo *in vivo* de genotoxicidade em células somáticas, dependendo dos resultados *in vitro* e *in vivo*, do tipo de efeitos e da qualidade e pertinência de todos os dados disponíveis c) Se algum estudo *in vivo* de genotoxicidade em células somáticas der resultado positivo, a mutagenicidade potencial para as células germinativas deverá ser avaliada com base em todos os dados disponíveis, incluindo os dados tóxicocinéticos para demonstrar se a substância pode atingir células germinativas. Se não for possível chegar a conclusões claras quanto à mutagenicidade para as células germinativas, deve ponderar-se a realização de investigações complementares | ADS | Os estudos indicados na coluna 1 não são exigidos nos seguintes casos: — se os resultados dos três ensaios *in vitro* enumerados na linha 8.5 forem negativos e não for identificado outro motivo de preocupação (por exemplo, formação de metabolitos potencialmente perigosos em mamíferos), ou — se a substância preencher os critérios para ser classificada como mutagénica em células germinativas das categorias 1A ou 1B. Não é necessário efetuar o ensaio de genotoxicidade em células germinativas se a substância preencher os critérios para ser classificada como substância cancerígena da categoria 1A ou 1B e mutagénica em células germinativas da categoria 2 |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.7. Toxicidade aguda No respeitante a substâncias que não sejam gases, além da via oral de administração (ponto 8.7.1), devem apresentar-se as informações referidas nos pontos 8.7.2 a 8.7.3 em relação a, pelo menos, mais uma via de administração — A escolha da segunda via dependerá da natureza da substância e da via provável de exposição humana — Os gases e os líquidos voláteis devem ser administrados por inalação — Se a única via de exposição for a via oral, só será necessário fornecer informações respeitantes a essa via. Se a via cutânea ou por inalação for a única via de exposição para seres humanos, pode ponderar-se um ensaio oral. Antes da realização de um novo estudo da toxicidade aguda por via cutânea, deve ser efetuado um ensaio de penetração cutânea in vitro (OCDE 428) para avaliar o grau e a taxa prováveis de biodisponibilidade — Pode haver circunstâncias excecionais em que todas as vias de administração são consideradas necessárias |  | Estudo(s) geralmente não exigido(s) nos seguintes casos: — se a substância for classificada como corrosiva para a pele |
+| 8.7.1. Por via oral O método da classe de toxicidade aguda é o método preferido para a determinação deste parâmetro |  | Não é necessário efetuar o estudo nos seguintes casos: — se a substância for um gás ou uma substância altamente volátil |
+| 8.7.2. Por inalação A inalação será a via de ensaio apropriada se a exposição humana por inalação for provável, tendo em conta os seguintes elementos: — a pressão de vapor da substância (uma substância volátil tem uma pressão de vapor > 1 × 10^–2^ Pa a 20 °C) e/ou — a substância ativa é um pó que contém uma proporção significativa (por exemplo, 1 % em peso) de partículas com tamanho de partícula MMAD < 50 micrómetros ou — a substância ativa é incluída em produtos que são pós ou são aplicadas de uma forma que gera a exposição a aerossóis, partículas ou gotículas de dimensões inaláveis (MMAD < 50 micrómetros). — O método da classe de toxicidade aguda é o método preferido para a determinação deste parâmetro |  |  |
+| 8.7.3. Por via cutânea A via cutânea é a via de ensaio necessária apenas se: — for improvável a inalação da substância, ou — for provável o contacto com a pele durante a produção e/ou a utilização, e/ou — as propriedades físico-químicas e toxicológicas apontarem para uma taxa significativa de absorção através da pele, ou — os resultados de um ensaio de penetração cutânea in vitro (OCDE 428) demonstrarem uma elevada absorção e biodisponibilidade cutâneas. |  |  |
+| 8.8. Estudos de tóxicocinética e de metabolismo em mamíferos |  |  |
+| Os estudos de tóxicocinética e de metabolismo deverão fornecer dados básicos sobre a taxa e extensão da absorção, a distribuição nos tecidos e a via metabólica pertinente, incluindo o grau de metabolismo, as vias e a taxa de excreção e os metabolitos pertinentes |  |  |
+| 8.8.1. Estudos de tóxicocinética e de metabolismo em mamíferos Podem ser necessários estudos adicionais com base no resultado do estudo do metabolismo e tóxicocinética realizado em ratos. Esses estudos suplementares serão necessários se: — houver provas de que o metabolismo no rato não é relevante para a exposição do ser humano — a extrapolação via-a-via da exposição oral à via cutânea/por inalação não for exequível. Se for considerado adequado para obter informações sobre a absorção cutânea, a avaliação deste parâmetro deve prosseguir através de uma abordagem em camadas para a avaliação da absorção cutânea | ADS |  |
+| 8.9. Toxicidade por dose repetida De modo geral só é necessária uma via de administração, sendo preferida a via oral. Pode contudo ser necessário, em alguns casos, avaliar mais de uma via de exposição. Para avaliar a segurança para os consumidores em relação às substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário realizar estudos de toxicidade por via oral. A via cutânea é a via de ensaio a considerar se: — for provável o contacto com a pele durante a produção e/ou a utilização, e — for improvável a inalação da substância, e — se se verificar uma das seguintes condições:— i) se for observada toxicidade num ensaio de toxicidade aguda por via dérmica, a doses mais baixas do que no ensaio de toxicidade por via oral, ou ii) se as informações ou os dados de ensaio indicarem que a absorção por via dérmica é comparável ou superior à absorção oral, ou iii) se for conhecida a toxicidade por via dérmica de substâncias estruturalmente afins e se, por exemplo, essa toxicidade for observada para doses menores do que no ensaio de toxicidade por via oral ou a absorção dérmica for comparável ou superior à absorção oral. A inalação é a via de ensaio a considerar se: — for provável a exposição humana por inalação, tendo em conta a pressão de vapor da substância (as substâncias voláteis e os gases têm uma pressão de vapor > 1 × 10^–2^ Pa a 20 °C) e/ou — for possível a exposição a aerossóis, partículas ou gotículas de dimensões inaláveis (MMAD < 50 micrómetros). |  | Estudo de toxicidade por doses repetidas (28 ou 90 dias) não exigido nos seguintes casos: — a substância sofre desintegração imediata e existem dados suficientes sobre os produtos de dissociação no que se refere a efeitos sistémicos e locais, não se prevendo efeitos sinérgicos, ou — pode ser excluída qualquer exposição relevante para os seres humanos em conformidade com a Secção 3 do Anexo IV. A fim de reduzir o número de ensaios realizados em vertebrados e, em particular, a necessidade de estudos separados que incidam sobre um único efeito, a conceção dos estudos de toxicidade por dose repetida deve ter em conta a possibilidade de estudar vários efeitos no âmbito de um só estudo. |
+| 8.9.1. Estudo de toxicidade a curto prazo por doses repetidas (28 dias); utilizar de preferência o rato como espécie de ensaio |  | Estudo de toxicidade a curto prazo (28 dias) não exigido nos seguintes casos: i) se existir um estudo fiável de toxicidade sub-crónica (90 dias) em que tenham sido utilizados a espécie, a dosagem, o solvente e a via de administração mais apropriados; ii) se a frequência e a duração da exposição humana indicarem ser apropriado um estudo relativo a um período mais longo e se se verificar uma das seguintes condições: — outros dados disponíveis apontarem para a possibilidade de a substância ter uma propriedade perigosa que não possa ser detetada num estudo de toxicidade a curto prazo, ou — estudos tóxicocinéticos devidamente concebidos revelarem a acumulação em certos tecidos ou órgãos da substância ou de metabolitos da mesma, que possivelmente não seria detetada num estudo de toxicidade a curto prazo, mas que seria suscetível de produzir efeitos adversos após exposição prolongada. |
+| 8.9.2. Estudo de toxicidade sub-crónica por doses repetidas (90 dias); utilizar de preferência o rato como espécie de ensaio |  | Estudo de toxicidade sub-crónica (90 dias) não exigido nos seguintes casos: — se existir um estudo fiável de toxicidade a curto prazo (28 dias) que revele efeitos tóxicos graves, de acordo com os critérios de classificação da substância com a frase H372 e H373 [Regulamento (CE) n.º 1272/2008], e cujo NOAEL observado a 28 dias possa ser objeto de extrapolação a NOAEL a 90 dias, para a mesma via de exposição, mediante aplicação de um fator de incerteza adequado, e — se existir um estudo fiável de toxicidade crónica, no qual tenham sido utilizadas uma espécie e uma via de administração apropriadas, ou — se a substância não for reativa, for insolúvel e não for bioacumulável nem inalável, e se não existirem provas de absorção ou toxicidade num ensaio-limite a 28 dias, em especial se essas características estiverem associadas a uma exposição humana limitada. |
+| 8.9.3. Toxicidade por doses repetidas a longo prazo (≥ 12 meses) |  | Estudo de toxicidade a longo prazo (≥ 12 dias) não exigido nos seguintes casos: — se for possível excluir a exposição prolongada e não tiverem sido observados efeitos na dose-limite no estudo a 90 dias, ou — se for efetuado um estudo combinado de carcinogenicidade e por dose repetida a longo prazo (8.11.1). |
+| 8.9.4. Outros estudos por dose repetida Devem ser efetuados outros estudos por dose repetida, incluindo ensaios com uma segunda espécie (não roedora), estudos mais prolongados, ou através de uma via de administração diferente, nos seguintes casos: — não existe nenhuma outra informação sobre toxicidade para uma segunda espécie não roedora, ou — não foi possível identificar um nível sem efeitos adversos observáveis (NOAEL) no estudo a 28 ou a 90 dias, a não ser que não se tenham observado quaisquer efeitos na dose-limite, ou — substâncias com alertas estruturais positivos para os efeitos para os quais o rato ou o ratinho é um modelo inadequado ou insensível, ou — toxicidade particularmente preocupante (nomeadamente com efeitos sérios/graves), ou — indicações de um efeito que não possa ser adequadamente caracterizado, em termos toxicológicos e/ou de risco, com base nos dados disponíveis. Nesses casos, poderá ser mais apropriado efetuar estudos toxicológicos específicos, concebidos para a investigação dos efeitos em causa (por exemplo, estudos de imunotoxicidade, de neurotoxicidade, de atividade hormonal), ou — preocupação com os efeitos locais para os quais a caracterização dos riscos não possa ser realizada por extrapolação de via para via, ou — especial preocupação com a exposição (por exemplo, utilização em produtos biocidas que conduza a níveis de exposição próximos dos níveis de doses toxicologicamente relevantes), ou — no estudo a 28 ou a 90 dias, não foram detetados os efeitos observados com substâncias de estrutura molecular claramente análoga à da substância em estudo, ou — a via de administração utilizada no estudo inicial por dose repetida foi inadequada, relativamente à via provável de exposição humana, e não pode ser feita uma extrapolação de via para via |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.10. Efeitos tóxicos na reprodução Para avaliar a segurança para os consumidores das substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário realizar estudos de toxicidade por via oral |  | Estudos não exigidos nos seguintes casos: — se a substância preencher os critérios para ser classificada como substância cancerígena genotóxica (classificada como mutagénica em células germinativas das categorias 2, 1A ou 1B e também como cancerígena das categorias 1A ou 1B) e tiverem sido postas em prática medidas adequadas de gestão dos riscos, nomeadamente medidas relacionadas com os efeitos tóxicos na reprodução, — se a substância preencher os critérios para ser classificada como mutagénica para as células germinativas das categorias 1A ou 1B e tiverem sido postas em prática medidas adequadas de gestão dos riscos, nomeadamente medidas relacionadas com os efeitos tóxicos na reprodução, — se a substância tiver uma atividade toxicológica baixa (ausência de sinais de toxicidade em qualquer dos ensaios disponíveis, desde que o conjunto de dados seja suficientemente vasto e informativo), se puder ser provada, com base em dados tóxicocinéticos, a inexistência de absorção sistémica pelas vias relevantes de exposição (se, por exemplo, as concentrações da substância no plasma ou no sangue forem inferiores ao limite de deteção de um método sensível e se se observar a ausência da substância e seus metabolitos na urina, na bílis ou no ar expirado) e o tipo de utilização indicar que não existe exposição humana ou animal, ou que esta não é significativa, — se a substância preencher os critérios para ser classificada como tóxica para a reprodução das categorias 1A ou 1B: «pode afetar a fertilidade» (H360F), e se os dados disponíveis bastarem para uma avaliação segura dos riscos, não serão necessários mais ensaios sobre a função sexual e a fertilidade. Deve ser fornecida uma justificação completa e documentada se não forem realizadas investigações sobre os efeitos tóxicos no desenvolvimento, ou — se se souber que uma substância tem efeitos tóxicos no desenvolvimento e cumpre os critérios de classificação como tóxica para a reprodução das categorias 1A ou 1B: «pode afetar o nascituro» (H360D), e se os dados disponíveis bastarem para uma avaliação segura dos riscos, não serão necessários mais ensaios sobre a toxicidade para o desenvolvimento. Deve ser fornecida uma justificação completa e documentada se não forem realizadas investigações sobre a função sexual e a fertilidade. Não obstante o disposto nesta coluna da presente linha, pode ser necessário efetuar estudos sobre os efeitos tóxicos na reprodução para obter informações sobre as propriedades desreguladoras do sistema endócrino, tal como estabelecido na linha 8.13.3.1 |
+| 8.10.1. Estudo de efeitos tóxicos no desenvolvimento pré-natal (OCDE TG 414) em duas espécies, sendo a primeira espécie preferida o coelho (não roedores) e a segunda espécie preferida o rato (roedores); utilizar de preferência a via oral |  | O estudo com a segunda espécie não será realizado se o estudo efetuado com a primeira espécie ou outros dados disponíveis indicarem que a substância provoca efeitos tóxicos no desenvolvimento e preenche os critérios de classificação como tóxica para a reprodução da categoria 1A ou 1B: «pode afetar o nascituro» (H360D) e os dados disponíveis bastarem para uma avaliação segura dos riscos |
+| 8.10.2. Estudo alargado de efeitos tóxicos na reprodução numa geração (OCDE TG 443), com as coortes 1A e 1B e a extensão da coorte 1B a fim de incluir a geração F2 com o objetivo de produzir 20 ninhadas por grupo de dosagem, devendo as crias F2 ser seguidas até ao desmame e investigadas do mesmo modo que as crias F1. Utilizar de preferência o rato como espécie de ensaio e de preferência a via oral O nível de dose mais elevado deve basear-se na toxicidade e ser selecionado com o objetivo de induzir toxicidade reprodutiva e/ou outra toxicidade sistémica |  | Para suprir este requisito de informação, considera-se adequado um estudo de efeitos tóxicos na reprodução em duas gerações efetuado de acordo com o método OCDE TG 416 (adotado em 2001 ou posteriormente), ou informação equivalente, se o estudo estiver disponível e tiver sido iniciado antes de 15 de abril de 2022. |
+| 8.10.3. Neurotoxicidade para o desenvolvimento Estudo de neurotoxicidade para o desenvolvimento em conformidade com o método OCDE TG 426, ou qualquer estudo (ou conjunto de estudos) relevante que forneça informações equivalentes, ou as coortes 2A e 2B de um estudo alargado de efeitos tóxicos na reprodução numa geração (OCDE TG 443) com investigação adicional para as funções cognitivas |  | O estudo não deve ser realizado se os dados disponíveis: — indicarem que a substância provoca efeitos tóxicos no desenvolvimento e preenche os critérios para ser classificada como tóxica para a reprodução das categorias 1A ou 1B: «pode afetar o nascituro» (H360D), e — forem adequados para apoiar uma avaliação segura dos riscos |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.10.4. Outros estudos A decisão sobre a necessidade de efetuar estudos adicionais, incluindo os que informam sobre os mecanismos, deve basear-se nos resultados dos estudos enumerados em 8.10.1, 8.10.2 e 8.10.3 e em todos os outros dados relevantes disponíveis | ADS |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.11. Carcinogenicidade Ver novos requisitos dos estudos no ponto 8.11.1 |  | Não é necessário efetuar o estudo de carcinogenicidade nos seguintes casos: — A substância é classificada como mutagénica das categorias 1A ou 1B. Será de presumir por defeito que é provável um mecanismo genotóxico de carcinogenicidade. Nestes casos, não será geralmente exigido um ensaio de carcinogenicidade. |
+| 8.11.1. Estudo combinado de carcinogenicidade e de toxicidade por dose repetida a longo prazo Rato, de preferência por via oral. Se for proposta uma via alternativa, deverá ser fornecida uma justificação. Para avaliar a segurança para os consumidores das substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário realizar estudos de toxicidade por via oral. |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.11.2. Ensaios de carcinogenicidade com uma segunda espécie a) Deve ser efetuado um segundo estudo de carcinogenicidade utilizando o ratinho como espécie de ensaio b) Para avaliar a segurança para os consumidores das substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário realizar estudos de toxicidade por via oral |  | O segundo estudo de carcinogenicidade não é exigido se o requerente puder justificar com base em motivos científicos que esse estudo não é necessário. |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.12. Dados sanitários, observações e tratamentos pertinentes. |  |  |
+| A inexistência de dados deverá ser devidamente justificada |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.12.1. Informações sobre sinais de envenenamento, ensaios clínicos, medidas de primeiros socorros, antídotos, tratamento médico e prognóstico na sequência de envenenamento |  |  |
+| 8.12.2. Estudos epidemiológicos |  |  |
+| 8.12.3. Dados de vigilância médica, registos de saúde e relatórios de casos |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.13. Estudos adicionais Dados adicionais que podem ser exigidos consoante as características e a utilização prevista da substância ativa Outros dados disponíveis: Dados disponíveis a partir de métodos e modelos emergentes, incluindo a avaliação de risco da toxicidade baseada nas vias («pathway-based»), em estudos in vitro e «ómicos» (genómicos, proteómicos, metabolómicos, etc.), na biologia de sistemas, na toxicologia computacional, na bioinformática e no rastreio de alto débito devem ser apresentados em paralelo | ADS |  |
+| 8.13.1. Citotoxicidade | ADS |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.13.2. Neurotoxicidade Se a substância ativa for um composto organofosforado ou se houver uma indicação, um conhecimento do mecanismo de ação ou um conhecimento decorrente de estudos de toxicidade aguda ou por dose repetida, de que a substância ativa pode ter propriedades neurotóxicas, serão necessárias informações adicionais ou estudos específicos (tais como o OCDE TG 424 ou OCDE TG 418 ou 419, ou equivalentes) Se for detetada atividade anticolinesterásica, dever-se-á ponderar a possibilidade de testar a resposta a agentes reativadores Para avaliar a segurança para os consumidores das substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário realizar estudos de toxicidade por via oral | ADS |  |
+| 8.13.3. Desregulação do sistema endócrino A avaliação da desregulação do sistema endócrino deve compreender os seguintes níveis: a) Uma avaliação das informações disponíveis provenientes dos seguintes estudos e de quaisquer outras informações pertinentes, incluindo métodos *in vitro* e *in silico*: i) 8.9.1 um estudo de toxicidade oral de 28 dias em roedores (OCDE TG 407), ii) 8.9.2 um estudo de toxicidade oral de 90 dias em roedores (OCDE TG 408), iii) 8.9.4 um estudo de toxicidade oral de dose repetida em não roedores (OCDE TG 409), iv) 8.10.1 um estudo de efeitos tóxicos no desenvolvimento pré-natal (OCDE TG 414), v) 8.10.2 um estudo alargado de efeitos tóxicos na reprodução numa geração (OCDE TG 443) ou um estudo de efeitos tóxicos na reprodução em duas gerações (OCDE TG 416), vi) 8.10.3 um estudo de neurotoxicidade para o desenvolvimento (OCDE TG 426), vii) 8.11.1 um estudo combinado de carcinogenicidade e de toxicidade por dose repetida a longo prazo (OCDE TG 451-3), viii) uma revisão sistemática da literatura, incluindo estudos com mamíferos e organismos não mamíferos b) Se houver informações que sugiram que a substância ativa pode ter propriedades desreguladoras do sistema endócrino, ou se as informações sobre parâmetros fundamentais relevantes para retirar conclusões sobre a desregulação do sistema endócrino estiverem incompletas, serão necessárias informações adicionais ou estudos específicos para elucidar: 1) o modo ou mecanismo de ação, e/ou 2) os efeitos adversos potencialmente relevantes nos seres humanos ou nos animais Para avaliar a segurança para os consumidores das substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário considerar a via oral e realizar estudos em animais pela via oral |  | Se estiverem disponíveis provas suficientes para chegar a uma conclusão sobre a presença ou ausência de um determinado modo de ação desregulador do sistema endócrino: — são dispensados outros ensaios em vertebrados para esse efeito, em relação a esse modo de ação; — podem ser dispensados outros ensaios não efetuados em vertebrados para esse modo de ação. Em todos os casos, deve ser fornecida documentação adequada e fiável |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.13.3.1. Os estudos adicionais específicos para investigar potenciais propriedades desreguladoras do sistema endócrino podem incluir, entre outros, os seguintes: a) Os estudos de toxicidade em mamíferos enumerados na linha 8.13.3, alínea a) b) Os ensaios *in vitro*: i) ensaio de transativação de recetores de estrogénios (OCDE TG 455), ii) ensaio de transativação de recetores de androgénios (OCDE TG 458), iii) ensaio de esteroidogénese H295R (OCDE TG 456), iv) ensaio da aromatase (recombinante humana) OPPTS 890.1200 c) Bioensaio uterotrófico em roedores (OECD TG 440) e bioensaio de Hershberger no rato (OCDE TG 441) d) Desenvolvimento pubertário e função tiroideia em ratos machos intactos juvenis ou peripúberes (OPPTS 890.1500) A decisão de efetuar estudos em mamíferos deve ser tomada com base em todas as informações disponíveis, incluindo uma revisão sistemática da literatura (incluindo informações sobre os efeitos desreguladores do sistema endócrino em organismos não visados) e a disponibilidade de métodos *in silico* ou *in vitro* adequados | ADS |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.13.4. Imunotoxicidade e imunotoxicidade para o desenvolvimento Se houver indícios, a partir de estudos de toxicidade por dose repetida ou de toxicidade para a reprodução, de que a substância ativa poderá ter propriedades de imunotoxicidade, são necessárias informações adicionais ou estudos específicos para elucidar: 1) o modo ou mecanismo de ação, e/ou 2) os efeitos adversos potencialmente relevantes nos seres humanos ou nos animais Para avaliar a segurança para os consumidores das substâncias ativas que possam ser utilizadas na alimentação humana ou animal, é necessário considerar a via oral e realizar estudos em animais pela via oral | ADS |  |
+| 8.13.5. Outros estudos mecanísticos A decisão sobre a necessidade de realizar estudos adicionais deve basear-se em todos os dados pertinentes | ADS |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.14. Estudos relativos à exposição dos seres humanos à substância ativa | ADS |  |
+| 8.15. Toxicidade para o gado e os animais de companhia | ADS |  |
+| 8.16. Estudos sobre géneros alimentícios e alimentos para animais, incluindo animais produtores de alimentos e seus produtos (leite, ovos e mel) Informações adicionais sobre a exposição dos seres humanos à substância ativa contida nos produtos biocidas | ADS |  |
+| 8.16.1. Proposta de nível máximo de resíduos, ou seja, limite máximo de resíduos (LMR) aceitável e respetiva fundamentação | ADS |  |
+| 8.16.2. Comportamento dos resíduos da substância ativa nos géneros alimentícios ou alimentos para animais tratados ou contaminados, incluindo a cinética da sua eliminação. Quando pertinentes, devem ser apresentadas definições dos resíduos. É também importante comparar os resíduos detetados nos estudos de toxicidade com os resíduos formados nos animais produtores de alimentos e nos seus produtos, bem como nos géneros alimentícios e alimentos para animais. | ADS |  |
+| 8.16.3. Equilíbrio global da substância ativa. Devem ser apresentados dados suficientes sobre resíduos, provenientes de ensaios controlados em animais produtores de alimentos e seus produtos, bem como em géneros alimentícios e alimentos para animais, que demonstrem que os resíduos suscetíveis de resultar da utilização proposta não são potencialmente perigosos para a saúde humana ou animal | ADS |  |
+| 8.16.4. Estimativa da exposição real ou potencial dos seres humanos à substância ativa e a resíduos através da dieta ou por outras vias | ADS |  |
+| 8.16.5. Se os resíduos da substância ativa permanecerem nos alimentos para animais durante um período de tempo significativo, ou se forem detetados em alimentos de origem animal após tratamento de animais produtores de alimentos ou tratamento nas suas imediações (p. ex. tratamento direto dos animais, ou tratamento indireto dos locais onde os animais são alojados ou dos espaços adjacentes a esses locais) são necessários estudos de alimentação e metabolismo no gado, a fim de possibilitar a avaliação dos resíduos nos alimentos de origem animal | ADS |  |
+| 8.16.6. Efeitos do processamento industrial e/ou da preparação doméstica no tipo e nível de resíduos da substância ativa | ADS |  |
+| 8.16.7. Quaisquer outras informações pertinentes disponíveis Poderá ser adequado incluir informações sobre a migração de constituintes para o interior dos alimentos, especialmente em caso de tratamento de materiais destinados a entrar em contacto com os géneros alimentícios | ADS |  |
+| 8.16.8. Resumo e avaliação dos dados apresentados nos pontos 8.16.1 a 8.16.8 É importante determinar se os metabolitos detetados nos géneros alimentícios (de origem animal ou vegetal) são os mesmos que aqueles que são testados nos estudos de toxicidade. De outro modo, os valores para a avaliação de risco (ex. ADI) não são válidos para os resíduos detetados | ADS |  |
+| 8.17. Se a substância ativa for utilizada em produtos que ajam contra vegetais, incluindo algas, são necessários ensaios de avaliação dos efeitos tóxicos dos eventuais metabolitos dos vegetais tratados, caso difiram dos determinados nos animais | ADS |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) ————— |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 9. ESTUDOS ECOTOXICOLÓGICOS |  |  |
+| 9.1. Toxicidade para os organismos aquáticos |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 9.1.1. Ensaio de toxicidade a curto prazo em peixes Sempre que sejam necessários dados sobre a toxicidade a curto prazo em peixes, deve ser aplicada a abordagem baseada em limiares (estratégia por níveis) Se a substância for pouco solúvel em água, ou seja, menos de 1 mg/l, deve ponderar-se a realização de um ensaio de toxicidade a longo prazo em peixes em conformidade com a linha 9.1.6.1 |  | Não é necessário efetuar o estudo: — se existir um estudo válido de toxicidade em meio aquático a longo prazo em peixes, — se estiverem disponíveis provas suficientes para este requisito de dados, incluindo a utilização de outros dados como a toxicidade aguda em embriões de peixes (FET, OCDE TG 236) e/ou resultados obtidos com métodos que não envolvam animais. |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 9.1.2. Ensaio de toxicidade a curto prazo em invertebrados aquáticos |  |  |
+| 9.1.2.1. Daphnia magna |  |  |
+| 9.1.2.2. Outras espécies | ADS |  |
+| 9.1.3. Estudo de inibição de crescimento em algas |  |  |
+| 9.1.3.1. Efeitos sobre a taxa de crescimento das algas verdes |  |  |
+| 9.1.3.2. Efeitos sobre a taxa de crescimento das cianofíceas ou diatomáceas |  |  |
+| 9.1.4. Bioconcentração |  | Não é necessário efetuar a determinação experimental: — se for possível demonstrar, com base em propriedades físico-químicas (por exemplo, log Koctanol-água < 3) ou noutros dados que a substância tem um baixo potencial de bioconcentração |
+| 9.1.4.1. Métodos de estimação |  |  |
+| 9.1.4.2. Determinação experimental |  |  |
+| 9.1.5. Inibição da atividade microbiana Se os dados disponíveis mostrarem ser provável que a substância iniba o crescimento microbiano ou a função microbiana, em especial em bactérias nitrificantes, o estudo pode ser substituído por um ensaio de inibição da nitrificação |  |  |
+| 9.1.6. Outros estudos de toxicidade em organismos aquáticos Se os resultados dos estudos ecotoxicológicos, dos estudos sobre o destino e o comportamento e/ou a(s) utilização(ões) prevista(s) da substância ativa indicarem um risco para o ambiente aquático ou se for de prever uma exposição a longo prazo, serão efetuados um ou mais dos ensaios descritos na presente secção | ADS |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 9.1.6.1. Ensaio de toxicidade a longo prazo em peixes As informações devem ser fornecidas a partir de ensaios de toxicidade a longo prazo em peixes, em que são expostas as fases iniciais de vida (ovos, larvas ou juvenis) | ADS |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 9.1.6.2. Ensaios de toxicidade a longo prazo em invertebrados a) Estudo de crescimento e reprodução em Daphnia b) Reprodução e crescimento de outras espécies (ex. misidáceas) c) Desenvolvimento e emergência de outras espécies (ex. Chironomus) | ADS |  |
+| 9.1.7. Bioacumulação numa espécie aquática adequada | ADS |  |
+| 9.1.8. Efeitos em quaisquer outros organismos específicos não visados da flora e da fauna que se considere correrem riscos | ADS |  |
+| 9.1.9. Estudos em organismos que vivem nos sedimentos | ADS |  |
+| 9.1.10. Efeitos nos macrófitos aquáticos | ADS |  |
+| 9.2. Toxicidade terrestre, ensaios iniciais | ADS |  |
+| 9.2.1. Efeitos nos microrganismos do solo |  |  |
+| 9.2.2. Efeitos nas minhocas ou noutros invertebrados do solo não visados |  |  |
+| 9.2.3. Toxicidade aguda para os vegetais |  |  |
+| 9.3. Ensaios terrestres, longo prazo | ADS |  |
+| 9.3.1. Estudos de reprodução em minhocas ou noutros invertebrados do solo não visados |  |  |
+| 9.4. Efeitos nas aves | ADS | No que diz respeito ao parâmetro 9.4.3, não é necessário efetuar o estudo: — se o estudo dietético da toxicidade demonstrar que o valor da LC50 é superior a 2 000 mg/kg |
+| 9.4.1. Toxicidade aguda por via oral |  |  |
+| 9.4.2. Toxicidade a curto prazo – estudo dietético durante 8 dias em pelo menos uma espécie (com exceção de: galinha, pato e ganso) |  |  |
+| 9.4.3. Efeitos na reprodução |  |  |
+| 9.5. Efeitos em artrópodes | ADS |  |
+| 9.5.1. Efeitos em abelhas |  |  |
+| 9.5.2. Outros artrópodes terrestres não visados, p. ex. predadores |  |  |
+| 9.6. Bioconcentração, terrestre | ADS |  |
+| 9.7. Bioacumulação, terrestre | ADS |  |
+| 9.8. Efeitos noutros organismos não aquáticos não visados | ADS |  |
+| 9.9. Efeitos nos mamíferos | ADS | Os dados resultam da avaliação toxicológica nos mamíferos. Deve ser notificado o efeito toxicológico pertinente mais sensível a longo prazo para os mamíferos (NOAEL), expresso em mg de composto de ensaio/kg de massa corporal/dia |
+| 9.9.1. Toxicidade aguda por via oral |  |  |
+| 9.9.2. Toxicidade a curto prazo |  |  |
+| 9.9.3. Toxicidade a longo prazo |  |  |
+| 9.9.4. Efeitos na reprodução |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 9.10. Desregulação do sistema endócrino A avaliação das propriedades desreguladoras do sistema endócrino deve compreender os seguintes níveis: a) Uma avaliação do conjunto de dados relativos a mamíferos em conformidade com a linha 8.13.3, para determinar se a substância apresenta propriedades desreguladoras do sistema endócrino com base em dados relativos aos mamíferos b) Se não for possível concluir, com base nos dados relativo a mamíferos em conformidade com as linhas 8.13.3 ou 9.1.6.1, que a substância apresenta propriedades desreguladoras do sistema endócrino, deve ponderar-se a realização dos estudos indicados nas linhas 9.10.1 ou 9.10.2 tomando em conta quaisquer outras informações pertinentes disponíveis, incluindo uma revisão sistemática da literatura |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 9.10.1. Desregulação do sistema endócrino nos peixes Os estudos específicos para investigar potenciais propriedades desreguladoras do sistema endócrino podem incluir, entre outros, os seguintes: a) Ensaio alargado numa geração no peixe-do-arroz-japonês (MEOGRT, OCDE TG 240) b) Ensaio de toxicidade ao longo do ciclo de vida dos peixes (FLCTT, OPPTS 850.1500), abrangendo todos os parâmetros com mediação estrogénica, androgénica e esteroidogénica (EAS) cuja medição está prevista no estudo MEOGRT |  | Não é necessário efetuar o estudo: — se não houver indicação de atividade endócrina ou de efeitos relacionados com o sistema endócrino com base num conjunto suficiente de dados relativos a mamíferos em conformidade com a linha 8.13.3 ou em quaisquer outras informações pertinentes (por exemplo, a literatura) e — se estiverem disponíveis dados *in vivo* válidos, não existindo informações que sugiram que a substância ativa pode provocar atividade endócrina ou efeitos potencialmente relacionados com a atividade endócrina quer no ensaio a curto prazo da reprodução em peixes (FSTRA; OCDE TG 229), quer no ensaio de 21 dias em peixes (OCDE TG 230) ou no ensaio de desenvolvimento sexual em peixes (FSDT, OCDE TG 234). Se estiverem disponíveis outros dados que abranjam as modalidades ou parâmetros estrogénicos, androgénicos e esteroidogénicos (EAS) investigados pelos métodos TG 229, TG 230 ou TG 234 da OCDE, podem ser utilizados esses dados |
+| 9.10.2. Desregulação do sistema endócrino nos anfíbios Os estudos adicionais específicos para investigar potenciais propriedades desreguladoras do sistema endócrino podem incluir, entre outros, o ensaio de crescimento e desenvolvimento larvar em anfíbios (LAGDA: OCDE TG 241) |  | Não é necessário efetuar o estudo: — se não houver indicação de atividade endócrina ou de efeitos relacionados com o sistema endócrino com base num conjunto suficiente de dados relativos a mamíferos em conformidade com a linha 8.13.3 ou em quaisquer outras informações pertinentes (por exemplo, a literatura) e — se estiverem disponíveis dados *in vivo* válidos, não existindo informações que sugiram que a substância ativa pode ter propriedades desreguladoras do sistema endócrino num ensaio de metamorfose em anfíbios (AMA: OCDE 231) |
+| 9.10.3. Se houver informações que sugiram que a substância ativa pode ter propriedades desreguladoras do sistema endócrino, ou se as informações sobre parâmetros fundamentais relevantes para retirar conclusões sobre a desregulação do sistema endócrino estiverem incompletas, serão necessárias informações adicionais ou estudos específicos, conforme adequado, para elucidar: a) O modo ou mecanismo de ação e/ou b) Os efeitos adversos potencialmente relevantes nos seres humanos ou nos animais | ADS |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 10. DESTINO E COMPORTAMENTO NO AMBIENTE |  |  |
+| 10.1. Destino e comportamento na água e nos sedimentos |  |  |
+| 10.1.1. Degradação, estudos iniciais |  |  |
+| Se a avaliação efetuada sugerir a necessidade de uma investigação mais aprofundada sobre a degradação da substância e os seus produtos de degradação, ou se a degradação abiótica global da substância ativa for reduzida ou nula, serão necessários os ensaios descritos nos pontos 10.1.3 e 10.3.2, bem como, se adequado, em 10.4. A escolha do(s) ensaio(s) apropriado(s) dependerá dos resultados da avaliação inicial. |  |  |
+| 10.1.1.1. Abiótica |  |  |
+| a) Hidrólise em função do pH e identificação de produto(s) de degradação — A identificação dos produtos de degradação é necessária em caso de presença desses produtos a uma concentração ≥ 10 % em qualquer período de recolha de amostras |  |  |
+| b) Fototransformação na água, incluindo a identificação dos produtos de transformação |  |  |
+| 10.1.1.2. Biótica |  |  |
+| a) Biodegradabilidade fácil |  |  |
+| b) Biodegradabilidade intrínseca, se aplicável |  |  |
+| 10.1.2. Adsorção/dessorção |  |  |
+| 10.1.3. Taxa e via de degradação, incluindo a identificação dos metabolitos e produtos de degradação |  |  |
+| 10.1.3.1. Tratamento biológico das águas residuais |  |  |
+| a) Biodegradação aeróbia | ADS |  |
+| b) Biodegradação anaeróbia | ADS |  |
+| c) Ensaio de simulação em STP | ADS |  |
+| 10.1.3.2. Biodegradação em água doce |  |  |
+| a) Estudo de degradação aeróbia em meio aquático | ADS |  |
+| b) Ensaio de degradação na água/em sedimentos | ADS |  |
+| 10.1.3.3. Biodegradação na água do mar | ADS |  |
+| 10.1.3.4. Biodegradação durante o armazenamento de estrume | ADS |  |
+| 10.1.4. Adsorção e dessorção na água/sistemas de sedimentos aquáticos e, se pertinente, adsorção e dessorção de metabolitos e produtos de degradação | ADS |  |
+| 10.1.5. Estudo de campo sobre a acumulação nos sedimentos | ADS |  |
+| 10.1.6. Substâncias inorgânicas: informação sobre o destino e comportamento na água | ADS |  |
+| 10.2. Destino e comportamento no solo | ADS |  |
+| 10.2.1. Estudo laboratorial sobre a taxa e via de degradação, incluindo a identificação dos processos em causa e de eventuais metabolitos e produtos de degradação num tipo de solo (exceto no caso de via dependente do pH), em condições adequadas Estudos laboratoriais sobre a taxa de degradação em três outros tipos de solo | ADS |  |
+| 10.2.2. Estudos de campo, dois tipos de solo | ADS |  |
+| 10.2.3. Estudos de acumulação no solo | ADS |  |
+| 10.2.4. Adsorção e dessorção em pelo menos três tipos de solo e, se pertinente, absorção e dessorção dos metabolitos e produtos de degradação | ADS |  |
+| 10.2.5. Outros estudos sobre sorção |  |  |
+| 10.2.6. Mobilidade em pelo menos três tipos de solo e, se pertinente, mobilidade dos metabolitos e produtos de degradação | ADS |  |
+| 10.2.6.1. Estudos de lixiviação em coluna |  |  |
+| 10.2.6.2. Estudos em lisímetros |  |  |
+| 10.2.6.3. Estudos de lixiviação no campo |  |  |
+| 10.2.7. Nível e natureza dos resíduos ligados Recomenda-se que a determinação do nível e características dos resíduos ligados seja combinada com um estudo de simulação no solo | ADS |  |
+| 10.2.8. Outros estudos de degradação no solo | ADS |  |
+| 10.2.9. Substâncias inorgânicas: informação sobre o destino e comportamento no solo |  |  |
+| 10.3. Destino e comportamento no ar |  |  |
+| 10.3.1. Fototransformação no ar (método estimativo) Identificação dos produtos de transformação |  |  |
+| 10.3.2. Destino e comportamento no ar, outros estudos | ADS |  |
+| 10.4. Estudos adicionais sobre o destino e comportamento no ambiente | ADS |  |
+| 10.5. Definição dos resíduos | ADS |  |
+| 10.5.1. Definição dos resíduos para a avaliação de risco |  |  |
+| 10.5.2. Definição dos resíduos para fins de monitorização |  |  |
+| 10.6. Dados de monitorização | ADS |  |
+| 10.6.1. Os estudos sobre degradação no solo, na água e nos sedimentos devem incluir a identificação de todos os produtos de degradação (> 10 %) |  |  |
+| 11. MEDIDAS NECESSÁRIAS À PROTEÇÃO DOS SERES HUMANOS, DOS ANIMAIS E DO AMBIENTE |  |  |
+| 11.1. Métodos e precauções recomendados quanto ao manuseamento, à utilização, à armazenagem e ao transporte ou em caso de incêndio |  |  |
+| 11.2. Em caso de incêndio, natureza dos produtos de reação, gases de combustão, etc. |  |  |
+| 11.3. Medidas de emergência em caso de acidente |  |  |
+| 11.4. Possibilidade de destruição ou de descontaminação após a libertação nos seguintes meios: a) ar b) água, incluindo a água potável c) solo |  |  |
+| 11.5. Procedimentos de gestão dos resíduos da substância ativa para a indústria ou os utilizadores profissionais |  |  |
+| 11.6. Possibilidade de reutilização ou reciclagem |  |  |
+| 11.7. Possibilidade de neutralização dos efeitos |  |  |
+| 11.8. Condições de descarga controlada, incluindo características de lixiviação aquando da eliminação |  |  |
+| 11.9. Condições de incineração controlada |  |  |
+| 11.10. Identificação de quaisquer substâncias abrangidas pela Lista I ou pela Lista II do Anexo da Diretiva 80/68/CEE do Conselho, de 17 de dezembro de 1979, relativa à proteção das águas subterrâneas contra a poluição causada por certas substâncias perigosas [(^3^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0056), pelos Anexos I e II da Diretiva 2006/118/CE do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa à proteção das águas subterrâneas contra a poluição e a deterioração [(^4^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0057), pelo Anexo I da Diretiva 2008/105/CE do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativa a normas de qualidade ambiental no domínio da política da água [(^5^)](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0058), pela Parte B do Anexo I da Diretiva 98/83/CE ou pelos Anexos VIII e X da Diretiva 2000/60/CE |  |  |
+| 12. CLASSIFICAÇÃO, ROTULAGEM E EMBALAGEM |  |  |
+| 12.1. Indicar a classificação e rotulagem existentes |  |  |
+| 12.2. Classificação de perigo da substância ou substâncias decorrente da aplicação do Regulamento (CE) n.º 1272/2008 |  |  |
+| Para cada entrada, devem ainda ser indicadas as razões pelas quais não é atribuída classificação para um determinado parâmetro |  |  |
+| 12.2.1. Classificação de perigo |  |  |
+| 12.2.2. Pictograma de perigo |  |  |
+| 12.2.3. Palavra-sinal |  |  |
+| 12.2.4. Advertências de perigo |  |  |
+| 12.2.5. Recomendações de prudência incluindo prevenção, resposta, armazenagem e eliminação |  |  |
+| 12.3. Limites específicos de concentração, se for caso disso, decorrentes da aplicação do Regulamento (CE) n.º 1272/2008 |  |  |
+| 13. RESUMO E AVALIAÇÃO As informações essenciais identificadas a partir dos parâmetros de cada subsecção (2-12) são resumidas e avaliadas, e é elaborado um projeto de avaliação dos riscos |  |  |
+| (^1^) As informações apresentadas devem dizer respeito à substância ativa purificada cuja especificação é indicada ou à substância ativa produzida, caso seja diferente. (^2^) As informações apresentadas devem dizer respeito à substância ativa purificada cuja especificação é indicada. (^3^) JO L 20 de 26.1.1980, p. 43. (^4^) JO L 372 de 27.12.2006, p. 19. (^5^) JO L 348 de 24.12.2008, p. 84. |  |  |
+
+#### TÍTULO 2
+
+#### MICRORGANISMOS
+
+As informações necessárias para fundamentar a aprovação de uma substância ativa estão enumeradas no quadro *infra*.
+
+São também aplicáveis as condições relativas à não-exigência de determinados ensaios estabelecidas nos métodos de ensaio pertinentes previstos no Regulamento (CE) n.º 440/2008, que não se encontram repetidas na coluna 3.
+
+| Coluna 1 Informações necessárias | Coluna 2 Todos os dados são CDS salvo se indicados como ADS | [**►M12**](http://publications.europa.eu/resource/celex/32021R0525) Coluna 3 Regras específicas para a adaptação da coluna 1 **◄** |
+| --- | --- | --- |
+| 1. REQUERENTE |  |  |
+| 1.1. Nome e endereço |  |  |
+| 1.2. Pessoa de contacto |  |  |
+| 1.3. Fabricante (nome, endereço e localização das instalações fabris) |  |  |
+| 2. IDENTIDADE DO MICRORGANISMO |  |  |
+| 2.1. Denominação comum do microrganismo (incluindo denominações alternativas ou desatualizadas) |  |  |
+| 2.2. Denominação taxonómica e estirpe |  |  |
+| 2.3. Número de referência da colheita e da cultura em que a mesma foi depositada |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.4. Especificação do ingrediente ativo de grau técnico |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.4.1. Teor do microrganismo ativo e identidade e teor dos metabolitos ou toxinas relevantes |  |  |
+| 2.4.2. Identidade e teor das impurezas, aditivos e microrganismos contaminantes |  |  |
+| 2.4.3. Perfil analítico dos lotes |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.5. Método de produção e controlo da qualidade |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) ————— |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 3. PROPRIEDADES BIOLÓGICAS DO MICRORGANISMO |  |  |
+| 3.1. Informações gerais sobre o microrganismo |  |  |
+| 3.1.1. Historial |  |  |
+| 3.1.2. Utilizações históricas |  |  |
+| 3.1.3. Origem, ocorrência natural e distribuição geográfica |  |  |
+| 3.2. Fases de desenvolvimento ou ciclo de vida do microrganismo |  |  |
+| 3.3. Relações com agentes patogénicos conhecidos das plantas, dos animais ou dos seres humanos |  |  |
+| 3.4. Estabilidade genética e fatores que a afetam |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 3.5. Informação sobre a produção de metabolitos e toxinas relevantes |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 3.6. Produção e resistência a antibióticos e outros agentes antimicrobianos |  |  |
+| 3.7. Capacidade de resistência aos fatores ambientais |  |  |
+| 3.8. Outras informações sobre o microrganismo |  |  |
+| 4. MÉTODOS DE DETEÇÃO E IDENTIFICAÇÃO |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 4.1. Métodos, procedimentos e critérios utilizados para determinar a presença e identidade do microrganismo |  |  |
+| 4.2. Métodos analíticos para a análise do microrganismo, na forma em que é produzido |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 4.3. Métodos utilizados para fins de controlo para a determinação e quantificação dos resíduos (viáveis ou não) |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 5. EFICÁCIA CONTRA OS ORGANISMOS VISADOS |  |  |
+| 5.1. Função e modo de controlo, por exemplo atraindo, matando, inibindo |  |  |
+| 5.2. Infecciosidade e capacidade de dispersão e colonização |  |  |
+| 5.3. Organismo(s) representativo(s) controlado(s) e produtos, organismos ou objetos a proteger |  |  |
+| 5.4. Efeitos sobre o(s) organismo(s) visado(s) representativo(s) Efeitos nos materiais, substâncias e produtos |  |  |
+| 5.5. Concentração provável em que o microrganismo será utilizado |  |  |
+| 5.6. Modo de ação (incluindo tempo necessário) |  |  |
+| 5.7. Dados relativos à eficácia |  |  |
+| 5.8. Quaisquer limitações conhecidas da eficácia |  |  |
+| 5.8.1. Informações sobre o aparecimento ou eventual aparecimento de resistências por parte do(s) organismo(s) visado(s) e estratégias de gestão adequadas |  |  |
+| 5.8.2. Observações relativas a efeitos laterais indesejáveis ou imprevistos |  |  |
+| 5.8.3. Especificidade, grau e efeitos do hospedeiro em espécies diferentes do organismo visado |  |  |
+| 5.9. Métodos que evitem a perda de virulência do lote inicial do microrganismo |  |  |
+| 6. UTILIZAÇÕES E EXPOSIÇÃO PREVISTAS |  |  |
+| 6.1. Domínio(s) de utilização previsto(s) |  |  |
+| 6.2. Tipo(s) de produto(s) |  |  |
+| 6.3. Descrição pormenorizada do(s) padrão(ões) de utilização |  |  |
+| 6.4. Categoria de utilizadores relativamente aos quais o microrganismo deve ser aprovado |  |  |
+| 6.5. Dados relativos à exposição aplicando, se for caso disso, os métodos descritos na Secção 5 do Anexo I do Regulamento (CE) n.º 1907/2006 |  |  |
+| 6.5.1. Informações sobre a exposição humana associada às utilizações previstas e à eliminação da substância ativa |  |  |
+| 6.5.2. Informações sobre a exposição ambiental associada às utilizações previstas e à eliminação da substância ativa |  |  |
+| 6.5.3. Informações sobre a exposição dos animais produtores de géneros alimentícios, dos géneros alimentícios e dos alimentos para animais associada às utilizações previstas da substância ativa |  |  |
+| 7. EFEITO NA SAÚDE HUMANA E ANIMAL |  | Os requisitos em matéria de informação previstos nesta secção podem ser adaptados, sempre que adequado, em conformidade com as especificações do Título 1 do presente anexo |
+| 7.1. Informações de base |  |  |
+| 7.1.1. Dados médicos |  |  |
+| 7.1.2. Vigilância médica do pessoal das instalações fabris |  |  |
+| 7.1.3. Observações em matéria de sensibilização ou alergia |  |  |
+| 7.1.4. Observação direta, nomeadamente casos clínicos Eventual patogenicidade e infecciosidade para os seres humanos e para outros mamíferos, em condições de imunossupressão |  |  |
+| 7.2. Estudos básicos |  |  |
+| 7.2.1. Sensibilização |  |  |
+| 7.2.2. Toxicidade, patogenicidade e infecciosidade agudas |  |  |
+| 7.2.2.1. Toxicidade, patogenicidade e infecciosidade agudas por via oral |  |  |
+| 7.2.2.2. Toxicidade, patogenicidade e infecciosidade pulmonares agudas | ADS |  |
+| 7.2.2.3. Dose única por via intraperitoneal/subcutânea | ADS |  |
+| 7.2.3. Ensaios de genotoxicidade in vitro |  |  |
+| 7.2.4. Estudos com culturas celulares |  |  |
+| 7.2.5. Informações sobre a toxicidade e a patogenicidade a curto prazo | ADS |  |
+| 7.2.5.1. Efeitos na saúde da exposição repetida por inalação | ADS |  |
+| 7.2.6. Tratamento proposto: primeiros socorros e tratamento médico |  |  |
+| 7.3. Estudos específicos de toxicidade, patogenicidade e infecciosidade | ADS |  |
+| 7.4. Genotoxicidade – Estudos in vivo em células somáticas | ADS |  |
+| 7.5. Genotoxicidade — Estudos in vivo em células germinativas | ADS |  |
+| 7.6. Resumo da toxicidade, patogenicidade e infecciosidade em mamíferos e avaliação global |  |  |
+| 7.7. Resíduos contidos à superfície ou no interior dos artigos tratados, dos géneros alimentícios e dos alimentos para animais | ADS |  |
+| 7.7.1. Persistência e probabilidade de multiplicação no interior ou à superfície dos artigos tratados, dos géneros alimentícios ou dos alimentos para animais | ADS |  |
+| 7.7.2. Informações complementares necessárias | ADS |  |
+| 7.7.2.1. Resíduos não viáveis | ADS |  |
+| 7.7.2.2. Resíduos viáveis | ADS |  |
+| 7.8. Resumo e avaliação dos resíduos à superfície ou no interior dos artigos tratados, dos géneros alimentícios e dos alimentos para animais | ADS |  |
+| 8. EFEITOS EM ORGANISMOS NÃO VISADOS |  | Os requisitos em matéria de informação previstos nesta secção podem ser adaptados, sempre que adequado, de acordo com as especificações do Título 1 do presente anexo |
+| 8.1. Efeitos em organismos aquáticos |  |  |
+| 8.1.1. Efeitos nos peixes |  |  |
+| 8.1.2. Efeitos nos invertebrados de água doce |  |  |
+| 8.1.3. Efeitos no crescimento das algas |  |  |
+| 8.1.4. Efeitos nos vegetais que não as algas | ADS |  |
+| 8.2. Efeitos nas minhocas |  |  |
+| 8.3. Efeitos nos microrganismos do solo |  |  |
+| 8.4. Efeitos nas aves |  |  |
+| 8.5. Efeitos nas abelhas |  |  |
+| 8.6. Efeitos nos artrópodes que não as abelhas |  |  |
+| 8.7. Outros estudos | ADS |  |
+| 8.7.1. Plantas terrestres | ADS |  |
+| 8.7.2. Mamíferos | ADS |  |
+| 8.7.3. Outras espécies e processos pertinentes | ADS |  |
+| 8.8. Resumo e avaliação dos efeitos nos organismos não visados |  |  |
+| 9. DESTINO E COMPORTAMENTO NO AMBIENTE |  |  |
+| 9.1. Persistência e multiplicação |  |  |
+| 9.1.1. Solo |  |  |
+| 9.1.2. Água |  |  |
+| 9.1.3. Ar |  |  |
+| 9.1.4. Mobilidade |  |  |
+| 9.1.5. Descrição e avaliação do destino e comportamento no ambiente |  |  |
+| 10. MEDIDAS NECESSÁRIAS À PROTEÇÃO DO SER HUMANO, DOS ANIMAIS E DO AMBIENTE |  |  |
+| 10.1. Métodos e precauções recomendados quanto ao manuseamento, à armazenagem e ao transporte, bem como em caso de incêndio |  |  |
+| 10.2. Medidas de emergência em caso de acidente |  |  |
+| 10.3. Processos de destruição ou descontaminação |  |  |
+| 10.4. Métodos de gestão dos resíduos |  |  |
+| 10.5. Plano de monitorização a utilizar em relação ao microrganismo ativo, incluindo o manuseamento, a armazenagem, o transporte e a utilização |  |  |
+| 11. CLASSIFICAÇÃO, ROTULAGEM E EMBALAGEM DO MICRORGANISMO |  |  |
+| 11.1. Grupo de risco pertinente fixado no artigo 2.º da Diretiva 2000/54/CE |  |  |
+| 12. RESUMO E AVALIAÇÃO As informações essenciais identificadas a partir dos parâmetros de cada subsecção (2-12) são resumidas e avaliadas, e é elaborado um projeto de avaliação dos riscos |  |  |
+
+## ANEXO III
+
+### REQUISITOS EM MATÉRIA DE INFORMAÇÕES PARA OS PRODUTOS BIOCIDAS
+
+1. O presente anexo estabelece os requisitos em matéria de informações a incluir no dossier do produto biocida que acompanha o pedido de inclusão de uma substância ativa nos termos do artigo 6.º, n.º 1, alínea b), e no dossier que acompanha o pedido de autorização de um produto biocida nos termos do artigo 20.º, n.º 1, alínea a).
+
+2. Os elementos previstos no presente anexo compreendem um núcleo de dados de base (Core Data Set – CDS) e um conjunto de dados suplementares (Additional Data Set – ADS). Os dados pertencentes ao CDS são considerados dados básicos que devem, em princípio, ser fornecidos para todos os produtos biocidas.
+
+3. Deve ser incluída uma descrição completa e pormenorizada dos estudos realizados e dos métodos utilizados. É importante garantir que os dados disponíveis sejam pertinentes e de qualidade suficiente para satisfazer os requisitos.
+
+4. Para a apresentação dos dossiers, devem ser utilizados os formatos fornecidos pela Agência. Além disso, o IUCLID deve ser usado para as partes dos dossiers às quais se aplica. Os formatos, bem como outras orientações sobre os requisitos em matéria de dados e de elaboração dos dossiers, estão disponíveis na página de acolhimento da Agência.
+
+5. Os ensaios apresentados para fins de autorização devem ser realizados em conformidade com os métodos descritos no Regulamento (CE) n.º 440/2008 da Comissão, ou qualquer versão revista desses métodos ainda não incluída nesse regulamento.
+
+6. Os ensaios realizados devem cumprir os requisitos aplicáveis à proteção dos animais de laboratório estabelecidos na Diretiva 2010/63/UE e, no caso de ensaios ecotoxicológicos e toxicológicos, as boas práticas de laboratório estabelecidas na Diretiva 2004/10/CE ou outras normas internacionais reconhecidas como equivalentes pela Comissão ou pela Agência. Os ensaios sobre propriedades físico-químicas e os dados relativos à segurança pertinentes devem ser realizados pelo menos de acordo com as normas internacionais.
+
+7. Depois de terminados os ensaios, deve ser apresentada uma descrição quantitativa e qualitativa pormenorizada (especificação) do produto utilizado para cada ensaio e das suas impurezas.
+
+8. Quando os dados de ensaio tiverem sido obtidos antes de 17 de julho de 2012 por métodos diferentes dos descritos no Regulamento (CE) n.º 440/2008, a sua adequação para efeitos do presente regulamento e a necessidade de efetuar novos ensaios nos termos do Regulamento (CE) n.º 440/2008 devem ser decididos, caso a caso, pela autoridade competente do Estado-Membro, tendo em conta, entre outros fatores, a necessidade de evitar ensaios desnecessários.
+
+9. A realização de novos ensaios com vertebrados deve ser a última opção disponível para cumprir os requisitos em matéria de dados estipulados no presente anexo, quando todas as outras fontes de dados tiverem sido esgotadas. Devem ser evitados os ensaios in vivo com substâncias corrosivas em concentrações/doses que provoquem corrosão.
+
+#### TÍTULO 1
+
+#### PRODUTOS QUÍMICOS
+
+As informações necessárias para fundamentar um pedido de autorização de um produto biocida estão enumeradas no quadro *infra*.
+
+Para cada requisito de informação estabelecido no presente anexo aplicam-se igualmente as indicações dadas nas colunas 1 e 3 do Anexo II para o mesmo requisito de informação.
+
+| Coluna 1 Informações necessárias | Coluna 2 Todos os dados são CDS salvo se indicados como ADS | [**►M12**](http://publications.europa.eu/resource/celex/32021R0525) Coluna 3 Regras específicas para a adaptação da coluna 1 **◄** |
+| --- | --- | --- |
+| 1. REQUERENTE |  |  |
+| 1.1. Nome e endereço, etc. |  |  |
+| 1.2. Pessoa de contacto |  |  |
+| 1.3. Fabricante e formulador do produto biocida e da(s) substância(s) ativa(s) (nomes, endereços, incluindo localização da(s) instalação(ões) de fabrico |  |  |
+| 2. IDENTIFICAÇÃO DO PRODUTO BIOCIDA |  |  |
+| 2.1. Nome comercial ou nome comercial proposto |  |  |
+| 2.2. Código de desenvolvimento do fabricante e número do produto, se for caso disso |  |  |
+| 2.3. Composição quantitativa completa [g/kg, g/l ou % p/p (v/v) do produto biocida, i.e. declaração de todas as substâncias ativas e não ativas (substância ou mistura nos termos do artigo 3.º do Regulamento (CE) n.º 1907/2006], que são intencionalmente acrescentadas ao produto biocida (formulação) bem como informação quantitativa e qualitativa sobre a composição da(s) substância(s) ativa(s) contida(s) no produto biocida. Para as substâncias não ativas, deve ser fornecida uma ficha de dados de segurança, nos termos do artigo 31.º do Regulamento (CE) n.º 1907/2006. Além disso, devem ser prestadas todas as informações pertinentes sobre os ingredientes individuais, a sua função e, no caso de uma mistura de reação, a composição final do produto biocida |  |  |
+| 2.4. Tipo de formulação e natureza do produto biocida (por exemplo, concentrado para emulsão, pó molhável, solução) |  |  |
+| [▼M2](http://publications.europa.eu/resource/celex/32013R0837) |  |  |
+| 2.5. Caso o produto biocida contenha uma substância ativa que foi fabricada em locais ou por processos ou a partir de matérias-primas diferentes dos da substância ativa avaliada para fins da aprovação nos termos do artigo 9.º do presente regulamento, devem ser fornecidas provas de que a equivalência técnica foi estabelecida em conformidade com o artigo 54.º do presente regulamento, ou de que foi estabelecida, na sequência de uma avaliação iniciada antes de 1 de setembro de 2013, por uma autoridade competente designada em conformidade com o artigo 26.º da Diretiva 98/8/CE |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 3. PROPRIEDADES FÍSICAS, QUÍMICAS E TÉCNICAS |  |  |
+| 3.1. Aspeto (a 20 °C e 101,3 kPa) |  |  |
+| 3.1.1. Estado físico (a 20 °C e 101,3 kPa) |  |  |
+| 3.1.2. Cor (a 20 °C e 101,3 kPa) |  |  |
+| 3.1.3. Odor (a 20 °C e 101,3 kPa) |  |  |
+| 3.2. Acidez/alcalinidade O ensaio é aplicável quando o pH do produto biocida ou a sua dispersão na água (1 %) estiver fora do intervalo de pH 4-10 |  |  |
+| 3.3. Densidade relativa (líquidos) e densidade de compactação (sólidos) |  |  |
+| 3.4. Estabilidade durante a armazenagem, estabilidade e prazo de conservação |  |  |
+| 3.4.1. Ensaios de estabilidade durante a armazenagem |  |  |
+| 3.4.1.1. Ensaio de armazenagem acelerada |  |  |
+| 3.4.1.2. Ensaio de armazenagem a longo prazo à temperatura ambiente |  |  |
+| 3.4.1.3. Ensaio de estabilidade a baixa temperatura (líquidos) |  |  |
+| 3.4.2. Efeitos sobre o teor da substância ativa e características técnicas do produto biocida |  |  |
+| 3.4.2.1. Luz |  |  |
+| 3.4.2.2. Temperatura e humidade |  |  |
+| 3.4.2.3. Reatividade com os materiais do recipiente |  |  |
+| 3.5. Características técnicas do produto biocida |  |  |
+| 3.5.1. Molhabilidade |  |  |
+| 3.5.2. Capacidade de formar suspensões, espontaneidade e estabilidade de dispersão |  |  |
+| 3.5.3. Análise de peneiração por via húmida e a seco |  |  |
+| 3.5.4. Capacidade de emulsionar, reemulsionar e estabilidade da emulsão |  |  |
+| 3.5.5. Tempo de desintegração |  |  |
+| 3.5.6. Distribuição granulométrica, teor de pó/partículas finas, atrito e friabilidade |  |  |
+| 3.5.7. Persistência de espuma |  |  |
+| 3.5.8. Escoabilidade/Fluidez/Capacidade de redução a pó |  |  |
+| 3.5.9. Velocidade de combustão – geradores de fumo |  |  |
+| 3.5.10. Combustão completa – geradores de fumo |  |  |
+| 3.5.11. Composição do fumo – geradores de fumo |  |  |
+| 3.5.12. Padrão de pulverização – aerossóis |  |  |
+| 3.5.13. Outras características técnicas |  |  |
+| 3.6. Compatibilidade física e química com outros produtos, incluindo outros produtos biocidas com os quais se pretende autorizar a sua utilização |  |  |
+| 3.6.1. Compatibilidade física |  |  |
+| 3.6.2. Compatibilidade química |  |  |
+| 3.7. Grau de dissolução e estabilidade de diluição |  |  |
+| 3.8. Tensão superficial |  |  |
+| 3.9. Viscosidade |  |  |
+| 4. PERIGOS FÍSICOS E RESPETIVAS CARACTERÍSTICAS |  |  |
+| 4.1. Explosivos |  |  |
+| 4.2. Gases inflamáveis |  |  |
+| 4.3. Aerossóis inflamáveis |  |  |
+| 4.4. Gases comburentes |  |  |
+| 4.5. Gases sob pressão |  |  |
+| 4.6. Líquidos inflamáveis |  |  |
+| 4.7. Sólidos inflamáveis |  |  |
+| 4.8. Substâncias e misturas autorreativas |  |  |
+| 4.9. Líquidos pirofóricos |  |  |
+| 4.10. Sólidos pirofóricos |  |  |
+| 4.11. Substâncias e misturas suscetíveis de autoaquecimento |  |  |
+| 4.12. Substâncias e misturas que, em contacto com a água, libertam gases inflamáveis |  |  |
+| 4.13. Líquidos comburentes |  |  |
+| 4.14. Sólidos comburentes |  |  |
+| 4.15. Peróxidos orgânicos |  |  |
+| 4.16. Corrosivos para os metais |  |  |
+| 4.17. Outras indicações físicas de perigo |  |  |
+| 4.17.1. Temperatura de autoignição de produtos (líquidos e gases) |  |  |
+| 4.17.2. Temperatura de autoignição relativa para os sólidos |  |  |
+| 4.17.3. Perigo de explosão de poeiras |  |  |
+| 5. MÉTODOS DE DETEÇÃO E IDENTIFICAÇÃO |  |  |
+| 5.1. Método analítico, incluindo parâmetros de validação para determinar a concentração da(s) substância(s) ativa(s), resíduos, impurezas relevantes e substâncias potencialmente perigosas no produto biocida |  |  |
+| 5.2. Se não forem abrangidos pelos pontos 5.2 e 5.3 do Anexo II, métodos analíticos para fins de monitorização, incluindo as taxas de recuperação e os limites de determinação dos componentes pertinentes do produto biocida e/ou dos respetivos resíduos, nos ou sobre os seguintes elementos, se for caso disso: | ADS |  |
+| 5.2.1. Solo | ADS |  |
+| 5.2.2. Ar | ADS |  |
+| 5.2.3. Água (incluindo a água de consumo) e sedimentos | ADS |  |
+| 5.2.4. Fluidos e tecidos humanos e animais | ADS |  |
+| 5.3. Métodos analíticos para fins de monitorização, incluindo as taxas de recuperação e o limite de quantificação e deteção da substância ativa e respetivos resíduos, nos ou sobre os géneros alimentícios de origem vegetal e animal ou em alimentos para animais e outros produtos, se for o caso (não é necessário se nem a substância ativa nem os materiais com ela tratados entrarem em contacto com animais produtores de géneros alimentícios, géneros alimentícios de origem vegetal ou animal ou alimentos para animais) | ADS |  |
+| 6. EFICÁCIA CONTRA OS ORGANISMOS VISADOS |  |  |
+| 6.1. Função (por exemplo, fungicida, rodenticida, inseticida, bactericida) Modo de controlo, por exemplo atraindo, matando, inibindo |  |  |
+| 6.2. Organismo(s) representativo(s) a controlar e produtos, organismos ou objetos a proteger |  |  |
+| 6.3. Efeitos nos organismos representativos visados |  |  |
+| 6.4. Concentração provável em que a substância ativa será utilizada |  |  |
+| 6.5. Modo de ação (incluindo tempo necessário) |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 6.6. Menções propostas para o produto e, quando sejam apresentadas menções, para os artigos tratados no que respeita às propriedades biocidas conferidas ao artigo |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 6.7. Dados relativos à eficácia para apoiar essas menções, incluindo quaisquer protocolos normalizados disponíveis, ensaios de laboratório ou ensaios de campo utilizados, incluindo padrões de desempenho, se adequado e pertinente |  |  |
+| 6.8. Quaisquer limitações conhecidas da eficácia |  |  |
+| 6.8.1. Informações sobre o aparecimento ou eventual aparecimento de resistências e estratégias de gestão adequadas |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 6.8.2. Observações sobre efeitos secundários indesejáveis ou imprevistos em organismos não visados ou em objetos e materiais a proteger |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 6.9. Resumo e avaliação |  |  |
+| 7. UTILIZAÇÕES E EXPOSIÇÃO PREVISTAS |  |  |
+| 7.1. Domínio(s) de utilização previsto(s) para os produtos biocidas e, quando adequado, para os artigos tratados |  |  |
+| 7.2. Tipo de produto |  |  |
+| 7.3. Descrição pormenorizada do(s) padrão(ões) de utilização previsto(s) para os produtos biocidas e, quando adequado, para os artigos tratados |  |  |
+| 7.4. Utilizador, por exemplo, industrial, profissional formado, profissional ou público (não profissional) |  |  |
+| 7.5. Tonelagem que se prevê colocar anualmente no mercado e, sempre que pertinente, para diferentes categorias de utilização |  |  |
+| 7.6. Método de aplicação e descrição do mesmo |  |  |
+| 7.7. Taxa de aplicação e, eventualmente, concentração final do produto biocida e da substância ativa no artigo tratado ou no sistema em que o produto irá ser utilizado, por exemplo, água para refrigeração, águas superficiais, água utilizada para aquecimento. |  |  |
+| 7.8. Número de aplicações e respetivo calendário, bem como, se pertinente, quaisquer informações específicas relativas a localizações geográficas ou variações climáticas, incluindo os períodos de espera necessários, os prazos de eliminação, os períodos de revogada ou outras precauções destinadas a proteger a saúde humana, a saúde animal e o ambiente |  |  |
+| 7.9. Instruções de utilização propostas |  |  |
+| 7.10. Dados relativos à exposição nos termos do Anexo VI do presente regulamento |  |  |
+| 7.10.1. Informações sobre a exposição humana associada à produção e à formulação, à utilização proposta/esperada e à eliminação |  |  |
+| 7.10.2. Informações sobre a exposição ambiental associada à produção e à formulação, à utilização proposta/esperada e à eliminação |  |  |
+| 7.10.3. Informações sobre a exposição através de artigos tratados, incluindo dados de lixiviação (quer estudos laboratoriais quer dados modelares) |  |  |
+| 7.10.4. Informações sobre outros produtos suscetíveis de serem utilizados em conjunto com o produto, em especial a identidade das substâncias ativas nesses produtos, se pertinente, e a probabilidade de quaisquer interações |  |  |
+| 8. PERFIL TOXICOLÓGICO PARA OS SERES HUMANOS E OS ANIMAIS |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.1. Corrosão ou irritação cutâneas A avaliação deve compreender os seguintes níveis: a) Avaliação dos dados disponíveis obtidos no ser humano, em animais e sem a utilização de animais b) Corrosão cutânea, ensaios *in vitro* c) Irritação cutânea, ensaios *in vitro* d) Corrosão ou irritação cutâneas, ensaios *in vivo* |  | O ensaio do produto ou mistura não é necessário: — se existirem dados válidos suficientes sobre cada componente do produto ou da mistura que permitam a sua classificação em conformidade com o Regulamento (CE) n.º 1272/2008 e não forem esperados efeitos de sinergia entre quaisquer dos componentes, — se o produto ou mistura for um ácido forte ((pH≤ 2,0) ou uma base forte (pH≥ 11,5), — se o produto ou mistura se inflamar espontaneamente em contacto com o ar ou com a água ou a humidade, à temperatura ambiente, — se o produto ou mistura preencher os critérios de classificação relativos a toxicidade aguda (categoria 1) por via cutânea, ou — se um estudo de toxicidade aguda por via cutânea fornecer elementos de prova concludentes sobre a corrosão ou irritação cutâneas adequados para efeitos de classificação. Se os resultados de um dos dois estudos referidos na alínea b) ou na alínea c) da coluna 1 da presente linha permitirem uma decisão definitiva quanto à classificação do produto ou da mistura ou à ausência de potencial de irritação cutânea, não é necessário realizar o segundo estudo. A realização de um estudo *in vivo* de corrosão ou irritação cutâneas só é de ponderar se os estudos *in vitro* indicados nas alíneas b) e c) da coluna 1 da presente linha não forem aplicáveis ou se os seus resultados não forem apropriados para efeitos de classificação e de avaliação dos riscos e os métodos de cálculo ou os princípios de extrapolação estabelecidos no Regulamento (CE) n.º 1272/2008 não forem aplicáveis. Os estudos *in vivo* de corrosão ou irritação cutâneas que tenham sido realizados ou iniciados antes de 15 de abril de 2022 são considerados adequados para satisfazer este requisito de informação. |
+| 8.2. Lesões oculares graves ou irritação ocular A avaliação deve compreender os seguintes níveis: a) Avaliação dos dados disponíveis obtidos no ser humano, em animais e sem a utilização de animais b) Lesões oculares graves ou irritação ocular, ensaios *in vitro* c) Lesões oculares graves ou irritação ocular, ensaios *in vivo* |  | O ensaio do produto ou mistura não é necessário: — se existirem dados válidos suficientes sobre cada componente do produto ou da mistura que permitam a sua classificação em conformidade com o Regulamento (CE) n.º 1272/2008 e não forem esperados efeitos de sinergia entre quaisquer dos componentes, — se o produto ou mistura for um ácido forte ((pH≤ 2,0) ou uma base forte (pH≥ 11,5). — se o produto ou mistura se inflamar espontaneamente em contacto com o ar ou com a água ou a humidade, à temperatura ambiente, ou — se o produto ou mistura preencher os critérios de classificação relativos a corrosão cutânea conduzindo à sua classificação como causador de «lesões oculares graves» da categoria 1. Se os resultados de um primeiro estudo *in vitro* não permitirem uma decisão definitiva quanto à classificação do produto ou mistura ou à ausência de potencial de irritação ocular, deve ponderar-se a realização de outro(s) estudo(s) *in vitro* para este parâmetro. A realização de um estudo *in vivo* de lesões oculares graves ou irritação ocular só é de ponderar se os estudos *in vitro* indicados na alínea b) da coluna 1 da presente linha não forem aplicáveis ou se os seus resultados não forem apropriados para efeitos de classificação e de avaliação dos riscos e os métodos de cálculo ou os princípios de extrapolação estabelecidos no Regulamento (CE) n.º 1272/2008 não forem aplicáveis. Os estudos *in vivo* de lesões oculares graves ou irritação ocular que tenham sido realizados ou iniciados antes de 15 de abril de 2022 são considerados adequados para satisfazer este requisito de informação. |
+| 8.3. Sensibilização cutânea As informações devem permitir concluir se a substância é um sensibilizante cutâneo e se pode ou não considerar-se potencialmente capaz de produzir sensibilização significativa no ser humano (categoria 1A). As informações devem ser suficientes para efetuar uma avaliação dos riscos, sempre que necessário A avaliação deve compreender os seguintes níveis: a) Avaliação dos dados disponíveis obtidos no ser humano, em animais e sem a utilização de animais b) Sensibilização cutânea, ensaios *in vitro*. Informações obtidas por métodos de ensaio *in vitro* ou *in chemico* realizados em conformidade com o ponto 5 da parte introdutória do presente anexo relativas a cada uma das seguintes ocorrências fundamentais de sensibilização cutânea: i) interação molecular com as proteínas da pele, ii) resposta inflamatória nos queratinócitos, iii) ativação das células dendríticas c) Sensibilização cutânea, ensaios *in vivo*. O ensaio dos gânglios linfáticos locais (LLNA) em murídeos é o método preferencial a utilizar nos ensaios *in vivo*. Só em circunstâncias excecionais pode ser utilizado outro ensaio de sensibilização cutânea. Se for usado outro teste de sensibilização cutânea, deve ser fornecida justificação científica |  | O ensaio do produto ou mistura não é necessário: — se existirem dados válidos suficientes sobre cada componente do produto ou da mistura que permitam a sua classificação em conformidade com o Regulamento (CE) n.º 1272/2008 e não forem esperados efeitos de sinergia entre quaisquer dos componentes, — se as informações disponíveis indicarem que o produto ou mistura deve ser classificado como sensibilizante cutâneo ou corrosivo para a pele, ou — se o produto ou mistura for um ácido forte (pH≤ 2,0) ou uma base forte (pH≥ 11,5) ou — se o produto ou mistura se inflamar espontaneamente em contacto com o ar ou com a água ou a humidade, à temperatura ambiente. Não é necessário efetuar ensaios *in vitro* nos seguintes casos: — se estiver disponível um estudo *in vivo*, tal como referido na coluna 1, alínea c), da presente linha, ou — se os métodos de ensaio *in vitro* ou *in chemico* disponíveis não forem aplicáveis ao produto ou mistura ou se os resultados gerados por esses estudos não forem apropriados para efeitos de classificação e de avaliação dos riscos. Se as informações geradas pelo(s) método(s) de ensaio respeitantes a uma ou duas das ocorrências fundamentais indicadas na coluna 1, alínea b), da presente linha permitirem classificar a substância e avaliar os riscos, não é necessário realizar estudos sobre a(s) outra(s) ocorrência(s fundamental(ais). A realização de um estudo *in vivo* de sensibilização cutânea só é de ponderar se os estudos *in vitro* ou *in chemico* indicados na coluna 1, alínea b), da presente linha não forem aplicáveis ou se os resultados gerados por esses estudos não forem apropriados para efeitos de classificação e de avaliação dos riscos e os métodos de cálculo ou os princípios de extrapolação estabelecidos no Regulamento (CE) n.º 1272/2008 não forem aplicáveis. Os estudos *in vivo* de sensibilização cutânea que tenham sido realizados ou iniciados antes de 15 de abril de 2022 são considerados adequados para satisfazer este requisito de informação. |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.4. Sensibilização respiratória | ADS | O ensaio do produto/mistura não é necessário se: — existirem dados válidos disponíveis sobre cada um dos componentes da mistura que permitam a classificação da mistura segundo as regras definidas na Diretiva 1999/45/CE, no Regulamento (CE) n.º 1272/2008 (CLP) e não forem esperados efeitos de sinergia entre quaisquer dos componentes |
+| 8.5. Toxicidade aguda — A classificação recorrendo à abordagem faseada da classificação da toxicidade aguda das misturas prevista no Regulamento (CE) n.º 1272/2008 é a abordagem por defeito |  | O ensaio do produto/mistura não é necessário se: — existirem dados válidos disponíveis sobre cada um dos componentes da mistura que permitam a classificação da mistura segundo as regras definidas na Diretiva 1999/45/CE, no Regulamento (CE) n.º 1272/2008 (CLP) e não forem esperados efeitos de sinergia entre quaisquer dos componentes |
+| 8.5.1. Por via oral |  |  |
+| 8.5.2. Por inalação |  |  |
+| 8.5.3. Por via cutânea |  |  |
+| 8.5.4. No que respeita aos produtos biocidas que se tencione autorizar tendo em vista serem utilizados juntamente com outros produtos biocidas, são avaliados os riscos para a saúde humana, para a saúde animal e para o ambiente decorrentes da utilização dessas combinações de produtos. Podem ser usados cálculos como alternativa aos estudos de toxicidade aguda. Em determinados casos, por exemplo quando não se disponha de dados válidos do tipo referido na coluna 3, poderá ser necessário realizar um número limitado de estudos de toxicidade aguda recorrendo a combinações de produtos |  | O ensaio da mistura de produtos não é necessário se: — existirem dados válidos disponíveis sobre cada um dos componentes da mistura que permitam a classificação da mistura segundo as regras definidas na Diretiva 1999/45/CE, no Regulamento (CE) n.º 1272/2008 (CLP) e não forem esperados efeitos de sinergia entre quaisquer dos componentes |
+| 8.6. Informações sobre absorção cutâneaInformações sobre absorção cutânea em caso de exposição ao produto biocida. A avaliação deste parâmetro será feita recorrendo à abordagem baseada para avaliação da absorção cutânea |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 8.7. Dados toxicológicos disponíveis relativos a: a) Substância(s) não ativa(s) (ou seja, substâncias potencialmente perigosas) e b) Uma mistura em cuja composição entram uma ou mais substâncias potencialmente perigosas Os ensaios enumerados na secção 8 do quadro do título 1 do anexo II devem ser efetuados para a(s) substância(s) potencialmente perigosas(s) ou para uma mistura em cuja composição entram uma ou mais substâncias potencialmente perigosa(s) se não estiverem disponíveis dados suficientes e os dados não puderem ser inferidos por interpolação, *in silico* ou através de outros métodos aceites que não recorram a ensaios |  | O ensaio do produto ou mistura não é necessário se estiverem preenchidas todas as condições seguintes: — existem dados válidos sobre cada um dos componentes da mistura que permitem a classificação da mistura em conformidade com as regras definidas no Regulamento (CE) n.º 1272/2008, — é possível chegar a uma conclusão sobre se o produto biocida pode ser considerado como possuindo propriedades desreguladoras do sistema endócrino, — não são esperados efeitos de sinergia entre quaisquer dos componentes |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 8.8. Estudos com géneros alimentícios e alimentos para animais | ADS |  |
+| 8.8.1. Se os resíduos dos produtos biocidas permanecerem nos alimentos para animais durante um período significativo, são necessários estudos relativos à alimentação e ao metabolismo no gado, a fim de possibilitar a determinação dos resíduos nos alimentos de origem animal | ADS |  |
+| 8.9. Efeitos do processamento industrial e/ou da preparação doméstica na natureza e no teor dos resíduos do produto biocida | ADS |  |
+| 8.10. Outro(s) ensaios(s) relacionados com a exposição dos seres humanos Será necessária a realização de ensaios apropriados, bem como a fundamentação do uso do produto biocida Além disso, poderão ser necessários estudos de resíduos para certos biocidas que são aplicados diretamente ou em redor dos animais (incluindo cavalos) | ADS |  |
+| 9. ESTUDOS ECOTOXICOLÓGICOS |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 9.1. Dados ecotoxicológicos disponíveis relativos a: a) Substância(s) não ativa(s) (ou seja, substâncias potencialmente perigosas) b) Uma mistura em cuja composição entram uma ou mais substâncias potencialmente perigosas Os ensaios enumerados na secção 9 do título 1 do anexo II devem ser efetuados para a(s) substância(s) potencialmente perigosas(s) ou para uma mistura em cuja composição entram uma ou mais substâncias potencialmente perigosa(s) se não estiverem disponíveis dados suficientes e os dados não puderem ser inferidos por interpolação, *in silico* ou através de outros métodos aceites que não recorram a ensaios |  | O ensaio do produto ou mistura não é necessário se estiverem preenchidas todas as condições seguintes: — existem dados válidos sobre cada um dos componentes da mistura que permitem a classificação da mistura em conformidade com as regras definidas no Regulamento (CE) n.º 1272/2008, — é possível chegar a uma conclusão sobre se o produto biocida pode ser considerado como possuindo propriedades desreguladoras do sistema endócrino, — não são esperados efeitos de sinergia entre quaisquer dos componentes |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 9.2. Outros estudos ecotoxicológicos Podem ser necessários outros estudos escolhidos de entre os parâmetros referidos na Secção 9 do Anexo II para componentes relevantes do produto biocida ou o próprio produto biocida, se os dados sobre as substâncias ativas não puderem dar informações suficientes e se houver indicações de risco devido às propriedades específicas do produto biocida |  |  |
+| 9.3. Efeitos em quaisquer outros organismos específicos não visados da flora e da fauna que se considere correrem riscos | ADS | Os dados utilizados na avaliação dos perigos para os mamíferos selvagens resultam da avaliação toxicológica nos mamíferos |
+| 9.4. Se o produto biocida tiver a forma de isco ou grânulo, podem ser necessários os seguintes estudos: |  |  |
+| 9.4.1. Ensaios controlados de avaliação de riscos para organismos não visados, em condições de campo |  |  |
+| 9.4.2. Estudos de tolerância da ingestão do produto biocida em quaisquer organismos não visados que se considere correrem riscos |  |  |
+| 9.5. Efeito ecológico secundário, por exemplo quando é tratada uma grande proporção de um tipo de habitat específico | ADS |  |
+| 10. DESTINO E COMPORTAMENTO NO AMBIENTE |  |  |
+| Os requisitos de ensaio que se seguem são aplicáveis apenas aos componentes relevantes do produto biocida |  |  |
+| 10.1. Previsíveis vias de penetração no ambiente decorrentes da utilização prevista |  |  |
+| 10.2. Outros estudos sobre o destino e o comportamento no ambiente Podem ser necessários outros estudos escolhidos de entre os parâmetros referidos na Secção 10 do Anexo II para componentes relevantes do produto biocida ou do próprio produto biocida. Para produtos usados no exterior, com emissão direta para o solo, a água ou superfícies, os componentes do produto podem influenciar o destino e comportamento (e ecotoxicidade) da substância ativa. São necessários dados a menos que seja cientificamente provado que o destino dos componentes do produto está coberto pelos dados fornecidos para a substância ativa e outras substâncias potencialmente perigosas identificadas | ADS |  |
+| 10.3. Comportamento de lixiviação | ADS |  |
+| 10.4. Ensaios sobre a distribuição e disseminação nos seguintes meios: | ADS |  |
+| 10.4.1. Solo | ADS |  |
+| 10.4.2. Água e sedimentos | ADS |  |
+| 10.4.3. Ar | ADS |  |
+| 10.5. Se o produto biocida for pulverizado perto de águas superficiais, pode ser necessário um estudo de sobre pulverização destinado a avaliar os riscos para os organismos ou plantas aquáticos em condições de campo | ADS |  |
+| 10.6. Se o produto biocida for pulverizado no exterior ou se for suscetível de formar poeiras em larga escala, poderão ser necessários dados sobre o comportamento de sobre pulverização para avaliar os riscos para as abelhas e artrópodes não visados em condições de campo | ADS |  |
+| 11. MEDIDAS A ADOTAR PARA A PROTEÇÃO DOS SERES HUMANOS, DOS ANIMAIS E DO AMBIENTE |  |  |
+| 11.1. Métodos e precauções recomendados no que respeita ao manuseamento, à utilização, à armazenagem, à eliminação, ao transporte e em caso de incêndio |  |  |
+| 11.2. Em caso de incêndio, identificação dos principais produtos de combustão |  |  |
+| 11.3. Procedimento específico em caso de acidente por exemplo, medidas de primeiros socorros, antídotos e tratamento médico, se for caso disso; medidas de emergência para proteger o ambiente |  |  |
+| 11.4. Possibilidade de destruição ou de descontaminação após a libertação nos seguintes meios: |  |  |
+| 11.4.1. Ar |  |  |
+| 11.4.2. Água, incluindo a água potável |  |  |
+| 11.4.3. Solo |  |  |
+| 11.5. Procedimentos de gestão dos resíduos do produto biocida e da respetiva embalagem para uso industrial, a aplicar pelos utilizadores profissionais formados, pelos utilizadores profissionais e não profissionais (por exemplo, possibilidade de reutilização ou de reciclagem, de neutralização, condições de descarga controlada e incineração) |  |  |
+| 11.6. Procedimentos para a limpeza dos equipamentos de aplicação |  |  |
+| 11.7. Especificação de quaisquer repelentes ou meios de combate ao envenenamento incluídos no produto a fim de evitar qualquer ação contra organismos não visados |  |  |
+| 12. CLASSIFICAÇÃO, ROTULAGEM E EMBALAGEM |  |  |
+| Nos termos da alínea b) do n.º 1 do artigo 20.º devem ser apresentadas propostas que incluam a fundamentação das advertências de perigo e das recomendações de prudência de acordo com o disposto na Diretiva 1999/45/CE e no Regulamento (CE) n.º 1272/2008. Devem ser fornecidos modelos de rótulos, instruções de utilização e fichas de dados de segurança |  |  |
+| 12.1. Classificação de perigo |  |  |
+| 12.2. Pictograma de perigo |  |  |
+| 12.3. Palavra-sinal |  |  |
+| 12.4. Advertências de perigo |  |  |
+| 12.5. Recomendações de prudência incluindo prevenção, resposta, armazenagem e eliminação |  |  |
+| 12.6. Se necessário deverão ser fornecidas propostas de fichas de dados de segurança |  |  |
+| 12.7. Embalagem (tipo, material, dimensões, etc.), compatibilidade do produto com os materiais de embalagem propostos |  |  |
+| 13. RESUMO E AVALIAÇÃO As informações essenciais identificadas a partir dos parâmetros de cada subsecção (2-12) são resumidas e avaliadas, e é um projeto de avaliação elaborado dos riscos |  |  |
+| (^1^) Não será necessário proceder a um ensaio da irritação ocular se tiver sido demonstrado que o produto biocida tem propriedades corrosivas potenciais. |  |  |
+
+#### TÍTULO 2
+
+#### MICRORGANISMOS
+
+As informações necessárias para fundamentar um pedido de autorização de um produto biocida estão enumeradas no quadro *infra*.
+
+Para cada requisito de informação estabelecido no presente anexo aplicam-se igualmente as indicações dadas nas colunas 1 e 3 do Anexo II para o mesmo requisito de informação.
+
+| Coluna 1 Informações necessárias | Coluna 2 Todos os dados são CDS salvo se indicados como ADS | [**►M12**](http://publications.europa.eu/resource/celex/32021R0525) Coluna 3 Regras específicas para a adaptação da coluna 1 **◄** |
+| --- | --- | --- |
+| 1. REQUERENTE |  |  |
+| 1.1. Nome e endereço |  |  |
+| 1.2. Pessoa de contacto |  |  |
+| 1.3. Fabricante e formulador do produto biocida e do(s) microrganismo(s) [nomes, endereços, incluindo localização da(s) instalação(ões) de fabrico] |  |  |
+| 2. IDENTIDADE DOS PRODUTOS BIOCIDAS |  |  |
+| 2.1. Nome comercial ou nome comercial proposto |  |  |
+| 2.2. Código de desenvolvimento do fabricante e número do produto biocida, se for caso disso |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 2.3. Informação quantitativa [g/kg, g/l, % p/p (v/v), ufc/g, ufc/l ou UI/mg ou qualquer outra unidade adequada] e qualitativa pormenorizada sobre a constituição, composição e função do produto biocida, por ex. microrganismo, substância(s) ativa(s) e substâncias não ativas e quaisquer outros componentes pertinentes Devem ser prestadas todas as informações pertinentes sobre os ingredientes individuais e a composição final do produto biocida |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 2.4. Tipo de formulação e natureza do produto biocida |  |  |
+| [▼M2](http://publications.europa.eu/resource/celex/32013R0837) |  |  |
+| 2.5. Caso o produto biocida contenha uma substância ativa que foi fabricada em locais ou por processos ou a partir de matérias-primas diferentes dos da substância ativa avaliada para fins da aprovação nos termos do artigo 9.º do presente regulamento, devem ser fornecidas provas de que a equivalência técnica foi estabelecida em conformidade com o artigo 54.º do presente regulamento, ou de que foi estabelecida, na sequência de uma avaliação iniciada antes de 1 de setembro de 2013, por uma autoridade competente designada em conformidade com o artigo 26.º da Diretiva 98/8/CE |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 3. PROPRIEDADES BIOLÓGICAS, FÍSICAS, QUÍMICAS E TÉCNICAS DO PRODUTO BIOCIDA |  |  |
+| 3.1. Propriedades biológicas do microrganismo presente no produto biocida |  |  |
+| 3.2. Aspeto (a 20 °C e 101,3 kPa) |  |  |
+| 3.2.1. Cor (a 20 °C e 101,3 kPa) |  |  |
+| 3.2.2. Odor (a 20 °C e 101,3 kPa) |  |  |
+| 3.3. Acidez, alcalinidade e valor do pH |  |  |
+| 3.4. Densidade relativa |  |  |
+| 3.5. Estabilidade durante a armazenagem, estabilidade e prazo de conservação |  |  |
+| 3.5.1. Efeitos da luz |  |  |
+| 3.5.2. Efeitos da temperatura e humidade |  |  |
+| 3.5.3. Reatividade com o recipiente |  |  |
+| 3.5.4. Outros fatores que afetam a estabilidade |  |  |
+| 3.6. Características técnicas do produto biocida |  |  |
+| 3.6.1. Molhabilidade |  |  |
+| 3.6.2. Capacidade de formar suspensões e estabilidade das mesmas |  |  |
+| 3.6.3. Análise de peneiração por via húmida e a seco |  |  |
+| 3.6.4. Poder emulsionante e reemulsionante; estabilidade da emulsão |  |  |
+| 3.6.5. Distribuição granulométrica, teor de pó, partículas finas, atrito e friabilidade |  |  |
+| 3.6.6. Persistência de espuma |  |  |
+| 3.6.7. Escoabilidade/Fluidez/Capacidade de redução a pó |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) ————— |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 3.6.8. Padrões de pulverização – aerossóis |  |  |
+| 3.6.9. Outras características técnicas |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 3.7. Compatibilidade física, química e biológica com outros produtos, incluindo outros produtos biocidas com os quais se pretende autorizar ou registar a sua utilização |  |  |
+| 3.7.1. Compatibilidade física |  |  |
+| 3.7.2. Compatibilidade química |  |  |
+| 3.7.3. Compatibilidade biológica |  |  |
+| 3.8. Tensão superficial |  |  |
+| 3.9. Viscosidade |  |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 4. PERIGOS FÍSICOS E RESPETIVAS CARACTERÍSTICAS |  |  |
+| 4.1. Explosivos |  |  |
+| 4.2. Aerossóis inflamáveis |  |  |
+| 4.3. Líquidos inflamáveis |  |  |
+| 4.4. Sólidos inflamáveis |  |  |
+| 4.5. Líquidos comburentes |  |  |
+| 4.6. Sólidos comburentes |  |  |
+| 4.7. Corrosivos para os metais |  |  |
+| 4.8. Outras indicações físicas de perigo |  |  |
+| 4.8.1. Temperatura de autoignição de produtos (líquidos e gases) |  |  |
+| 4.8.2. Temperatura de autoignição relativa para os sólidos |  |  |
+| 4.8.3. Perigo de explosão de poeiras |  |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 5. MÉTODOS DE DETEÇÃO E IDENTIFICAÇÃO |  |  |
+| 5.1. Método analítico de determinação da concentração do(s) microrganismo(s) e substâncias potencialmente perigosas contidas no produto biocida |  |  |
+| 5.2. Métodos analíticos para fins de monitorização, incluindo as taxas de recuperação e o limite de quantificação e deteção da substância ativa e respetivos resíduos, nos ou sobre os géneros alimentícios de origem vegetal e animal ou em alimentos para animais e outros produtos, se for o caso (não é necessário se nem a substância ativa nem os artigos com ela tratados entrarem em contacto com animais produtores de géneros alimentícios, géneros alimentícios de origem vegetal ou animal ou alimentos para animais) | ADS |  |
+| 6. EFICÁCIA CONTRA OS ORGANISMOS VISADOS |  |  |
+| 6.1. Função e modo de controlo |  |  |
+| 6.2. Organismo(s) prejudicial(ais) representativo(s) a controlar e produtos, organismos ou objetos a proteger |  |  |
+| 6.3. Efeitos nos organismos representativos visados |  |  |
+| 6.4. Concentração provável em que o microrganismo será utilizado |  |  |
+| 6.5. Modo de ação |  |  |
+| 6.6. Menções propostas para o rótulo do produto |  |  |
+| 6.7. Dados relativos à eficácia para apoiar essas menções, incluindo quaisquer protocolos normalizados disponíveis, ensaios de laboratório ou ensaios de campo utilizados, incluindo padrões de desempenho, se adequado e pertinente |  |  |
+| 6.8. Quaisquer outras limitações conhecidas da eficácia, incluindo fenómenos de resistência |  |  |
+| 6.8.1. Informações sobre o aparecimento ou eventual aparecimento de resistências e estratégias de gestão adequadas |  |  |
+| 6.8.2. Observações relativas a efeitos secundários indesejáveis ou não pretendidos |  |  |
+| 7. UTILIZAÇÕES E EXPOSIÇÃO PREVISTAS |  |  |
+| 7.1. Domínio de utilização previsto |  |  |
+| 7.2. Tipo de produto |  |  |
+| 7.3. Descrição pormenorizada da utilização prevista |  |  |
+| 7.4. Utilizador, por exemplo, industrial, profissional formado, profissional ou público (não profissional) |  |  |
+| 7.5. Método de aplicação e descrição do mesmo |  |  |
+| 7.6. Taxa de aplicação e, eventualmente, concentração final do produto biocida e da substância ativa do microrganismo no artigo tratado ou no sistema em que o produto irá ser utilizado (p. ex. no dispositivo de aplicação ou isco) |  |  |
+| 7.7. Número de aplicações e respetivo calendário; duração da proteção Quaisquer informações específicas relativas a localizações geográficas ou variações climáticas, incluindo os períodos de espera necessários para a reintrodução ou os períodos de retirada necessários ou outras precauções para proteger a saúde humana, a saúde animal e o ambiente |  |  |
+| 7.8. Instruções de utilização propostas |  |  |
+| 7.9. Resultados sobre a exposição |  |  |
+| 7.9.1. Informações sobre a exposição humana associada às utilizações propostas/esperadas e à eliminação |  |  |
+| 7.9.2. Informações sobre a exposição ambiental associada às utilizações propostas/esperadas e a eliminação |  |  |
+| 8. PERFIL TOXICOLÓGICO PARA OS SERES HUMANOS E OS ANIMAIS |  | O ensaio do produto/mistura não é necessário se: — existirem dados válidos disponíveis sobre cada um dos componentes da mistura que permitam a classificação da mistura segundo as regras definidas na Diretiva 1999/45/CE, nos Regulamentos (CE) n.º 1907/2006 (REACH) e (CE) n.º 1272/2008 (CLP) e não forem esperados efeitos de sinergia entre quaisquer dos componentes |
+| 8.1. Corrosão ou irritação cutâneas |  |  |
+| 8.2. Irritação ocular |  |  |
+| 8.3. Sensibilização cutânea |  |  |
+| 8.4. Sensibilização respiratória | ADS |  |
+| 8.5. Toxicidade aguda — A classificação recorrendo à abordagem faseada da classificação da toxicidade aguda das misturas prevista no Regulamento (CE) n.º 1272/2008 é a abordagem por defeito |  |  |
+| 8.5.1. Via oral |  |  |
+| 8.5.2. Inalação |  |  |
+| 8.5.3. Via cutânea |  |  |
+| 8.5.4. Estudos adicionais de toxicidade aguda |  |  |
+| 8.6. Informações sobre absorção cutânea se exigidas |  |  |
+| 8.7. Dados toxicológicos disponíveis relativos a: — substância(s) não ativa(s) (i.e. substâncias potencialmente perigosas), ou — uma mistura em cuja composição entra uma ou mais substâncias potencialmente perigosas — Se os dados disponíveis não forem suficientes para uma substância não ativa e não puderem ser deduzidos por interpolação ou através de outros métodos válidos que não recorram a ensaios, o(s) ensaio(s) específicos(s) descrito(s) no Anexo II serão efetuados para os coformulantes ou para uma mistura em cuja composição entram uma ou mais substâncias potencialmente perigosas |  | O ensaio do produto/mistura não é necessário se: — existirem dados válidos disponíveis sobre cada um dos componentes da mistura que permitam a classificação da mistura segundo as regras definidas na Diretiva 1999/45/CE, nos Regulamentos (CE) n.º 1907/2006 (REACH) e (CE) n.º 1272/2008 (CLP) e não forem esperados efeitos de sinergia entre quaisquer dos componentes |
+| 8.8. Estudos complementares com combinações de produtos biocidas No que respeita aos produtos biocidas que se tencione autorizar para utilização com outros produtos biocidas, são avaliados os riscos para o ser humano, para os animais e para o ambiente decorrentes da utilização destas combinações de produtos. Podem ser usados cálculos como alternativa aos estudos de toxicidade aguda. Em determinados casos, por exemplo quando não se disponha de dados válidos do tipo referido na coluna 3, poderá ser necessário realizar um número limitado de estudos de toxicidade aguda recorrendo a combinações de produtos |  | O ensaio da mistura de produtos não é necessário se: — existirem dados válidos disponíveis sobre cada um dos componentes da mistura que permitam a classificação da mistura segundo as regras definidas na Diretiva 1999/45/CE, nos Regulamentos (CE) n.º 1907/2006 (REACH) e (CE) n.º 1272/2008 (CLP) e não forem esperados efeitos de sinergia entre quaisquer dos componentes |
+| 8.9. Resíduos contidos à superfície ou no interior dos artigos tratados, dos géneros alimentícios e dos alimentos para animais | ADS |  |
+| 9. ESTUDOS ECOTOXICOLÓGICOS |  |  |
+| 9.1. Informações sobre a ecotoxicidade do produto biocida que sejam suficientes para permitir uma tomada de decisão sobre a classificação do produto. — Caso existam dados válidos disponíveis sobre cada um dos componentes da mistura e não sejam esperados efeitos de sinergia entre quaisquer dos componentes, a classificação da mistura pode ser feita segundo as regras definidas na Diretiva 1999/45/CE, nos Regulamentos (CE) n.º 1907/2006 (REACH) e (CE) n.º 1272/2008 (CLP) — Caso não se disponha de dados válidos disponíveis sobre os componentes ou se puderem ser esperados efeitos de sinergia, poderá ser necessário efetuar o ensaio dos componentes e/ou do próprio produto biocida |  |  |
+| 9.2. Podem ser necessários outros estudos ecotoxicológicos Outros estudos escolhidos de entre os parâmetros referidos na Secção 8 do Anexo II, «Microrganismos para componentes relevantes do produto biocida ou o próprio produto biocida», se os dados sobre as substâncias ativas não puderem dar informações suficientes e se houver indicações de risco devido às propriedades específicas do produto biocida |  |  |
+| 9.3. Efeitos em quaisquer outros organismos não visados específicos (flora e fauna) que se afigura correrem riscos | ADS | Os dados utilizados na avaliação dos perigos para os mamíferos selvagens resultam da avaliação toxicológica nos mamíferos |
+| 9.4. Se o produto biocida tiver a forma de isco ou grânulos, são necessários: | ADS |  |
+| 9.4.1. Ensaios controlados de avaliação de riscos para organismos não visados, em condições de campo |  |  |
+| 9.4.2. Estudos de tolerância da ingestão do produto biocida em quaisquer organismos não visados que se considere correrem riscos |  |  |
+| 9.5. Efeito ecológico secundário, por exemplo quando é tratada uma grande proporção de um tipo de habitat específico | ADS |  |
+| 10. DESTINO E COMPORTAMENTO NO AMBIENTE |  |  |
+| 10.1. Previsíveis vias de penetração no ambiente decorrentes da utilização prevista |  |  |
+| 10.2. Outros estudos sobre o destino e o comportamento no ambiente Se pertinente, todas as informações requeridas na secção 9 do anexo II «Microrganismos» poderão ser exigidas para o produto. Para produtos usados no exterior, com emissão direta para o solo, a água ou superfícies, os componentes do produto podem influenciar o destino e comportamento (e ecotoxicidade) da substância ativa. São necessários dados a menos que seja cientificamente provado que o destino dos componentes do produto está coberto pelos dados fornecidos para a substância ativa e outras substâncias potencialmente perigosas identificadas | ADS |  |
+| [▼M12](http://publications.europa.eu/resource/celex/32021R0525) |  |  |
+| 10.3. Comportamento de lixiviação e/ou mobilidade | ADS |  |
+| [▼B](http://publications.europa.eu/resource/celex/32012R0528) |  |  |
+| 10.4. Se o produto biocida for pulverizado no exterior ou se for suscetível de formar poeiras em larga escala, poderão ser necessários dados sobre o comportamento de sobre pulverização para avaliar os riscos para as abelhas em condições de campo | ADS |  |
+| 11. MEDIDAS A ADOTAR PARA A PROTEÇÃO DOS SERES HUMANOS, DOS ANIMAIS E DO AMBIENTE |  |  |
+| 11.1. Métodos e precauções recomendados no que respeita: ao manuseamento, à armazenagem, ao transporte ou em caso de incêndio |  |  |
+| 11.2. Medidas em caso de acidente |  |  |
+| 11.3. Procedimentos de destruição ou descontaminação do produto biocida, ou da respetiva embalagem |  |  |
+| 11.3.1. Incineração sob controlo |  |  |
+| 11.3.2. Outros |  |  |
+| 11.4. Embalagem e compatibilidade do produto biocida com os materiais de embalagem propostos |  |  |
+| 11.5. Procedimentos para a limpeza dos equipamentos de aplicação |  |  |
+| 11.6. Plano de monitorização a utilizar para o microrganismo ativo e outro(s) microrganismo(s) contido(s) no produto biocida, incluindo o manuseamento, a armazenagem, o transporte e a utilização |  |  |
+| 12. CLASSIFICAÇÃO, ROTULAGEM E EMBALAGEM |  |  |
+| Devem ser fornecidos modelos de rótulos, instruções de utilização e fichas de dados de segurança |  |  |
+| 12.1. Indicação da necessidade de os produtos biocidas conterem o sinal indicativo de perigo biológico especificado no Anexo II da Diretiva 2000/54/CE |  |  |
+| 12.2. Recomendações de prudência incluindo prevenção, resposta, armazenagem e eliminação |  |  |
+| 12.3. Se necessário deverão ser fornecidas propostas de fichas de dados de segurança |  |  |
+| 12.4. Embalagem (tipo, material, dimensões, etc.), compatibilidade do produto com os materiais de embalagem propostos |  |  |
+| 13. RESUMO E AVALIAÇÃO As informações essenciais identificadas a partir dos parâmetros de cada subsecção (2-12) são resumidas e avaliadas, e é elaborado um projeto de avaliação dos riscos |  |  |
+
+## ANEXO IV
+
+### REGRAS GERAIS PARA A ADAPTAÇÃO DOS REQUISITOS EM MATÉRIA DE DADOS
+
+O presente anexo estabelece as regras a seguir quando o requerente propõe a adaptação dos requisitos em matéria de dados previstos nos Anexos II e III nos termos do artigo 6.º, n.^os^ 2 e 3, ou do artigo 21.º, n.^os^ 1 e 2, sem prejuízo das regras específicas previstas no Anexo III sobre a utilização dos métodos de cálculo para a classificação das misturas a fim de evitar os ensaios em vertebrados.
+
+A fundamentação dessas adaptações aos requisitos em matéria de dados deve ser claramente indicada na rubrica pertinente do dossier, mediante referência à(s) regra(s) específica(s) do presente anexo.
+
+#### 1. ENSAIOS QUE SE AFIGURAM DESNECESSÁRIOS DO PONTO DE VISTA CIENTÍFICO
+
+1.1.1. Dados relativos a propriedades físico-químicas obtidos em experiências não realizadas de acordo com as boas práticas de laboratório ou os métodos de ensaio pertinentes. Os dados são considerados equivalentes aos dados obtidos pelos métodos de ensaio correspondentes se estiverem reunidas as seguintes condições: (1) Os dados são adequados aos fins de classificação e rotulagem e avaliação de riscos; (2) Foi fornecida documentação suficiente, adequada e fiável para se avaliar a equivalência do estudo; e (3) Os dados são válidos para o parâmetro em estudo e o ensaio é efetuado com um nível aceitável de garantia de qualidade.
+
+1.1.2. Dados em matéria de saúde humana e propriedades ambientais obtidos em experiências não realizadas de acordo com as boas práticas de laboratório ou os métodos de ensaio pertinentes. Os dados são considerados equivalentes aos dados obtidos pelos métodos de ensaio correspondentes se estiverem reunidas as seguintes condições: (1) Os dados são adequados aos fins de classificação e rotulagem e avaliação de riscos; (2) A cobertura dos parâmetros-chave cujo estudo esteja previsto nos métodos de ensaio correspondentes é adequada e fiável; (3) A duração da exposição é comparável ou superior à dos métodos de ensaio correspondentes, se a duração da exposição for um parâmetro importante; (4) Foi fornecida documentação adequada e fiável sobre o estudo em causa; e (5) Na realização do estudo é utilizado um sistema de garantia de qualidade.
+
+1.1.3. Dados humanos históricosRegra geral, nos termos do artigo 7.º, n.º 3, do Regulamento (CE) n.º 1272/2008, não serão realizados ensaios em seres humanos para efeitos do presente regulamento. No entanto, devem ser tidos em conta os dados humanos históricos existentes, como estudos epidemiológicos das populações expostas, dados de exposição acidental ou profissional, estudos de biomonitorização, estudos clínicos e estudos em voluntários efetuados de acordo com normas éticas internacionalmente aceites. Não podem ser utilizados dados recolhidos em seres humanos para reduzir as margens de segurança resultantes de testes ou estudos em animais. O valor dos dados relativos a um determinado efeito na saúde humana depende, entre outros elementos, do tipo de análise, dos parâmetros abrangidos, do grau e especificidade da resposta e, consequentemente, da previsibilidade do efeito. Entre os critérios de avaliação da adequabilidade dos dados contam-se os seguintes: (1) Caracterização e seleção corretas do grupo exposto e do grupo de controlo; (2) Caracterização adequada da exposição; (3) Suficiência do período de observação da ocorrência de doenças; (4) Validade do método de observação de um determinado efeito; (5) Ponderação correta das anomalias e dos fatores de confusão; e (6) Conclusão corroborada por uma fiabilidade estatística razoável. É sempre necessário fornecer documentação adequada e fiável.
+
+Várias fontes de informação independentes podem fornecer indícios que levem a supor ou a concluir que uma substância tem ou não uma determinada propriedade perigosa, embora as informações provenientes de uma única fonte sejam consideradas insuficientes para tal. A utilização de resultados positivos de métodos de ensaio recentemente desenvolvidos, ainda não incluídos entre os principais métodos de ensaio ou de um método de ensaio internacional reconhecido pela Comissão como equivalente, pode fornecer provas suficientes de que a substância tem uma determinada propriedade perigosa. No entanto, se o método de ensaio recentemente desenvolvido tiver sido aprovado pela Comissão mas ainda não tiver sido publicado, os seus resultados podem ser tidos em conta mesmo que deles se conclua que a substância não tem uma determinada propriedade perigosa.
+
+Se a ponderação de todos os dados disponíveis fornecer provas suficientes da presença ou ausência de uma determinada propriedade perigosa:
+
+— não podem ser efetuados mais ensaios com vertebrados, relativos a essa propriedade,
+
+— podem não ser efetuados outros ensaios que não utilizem vertebrados.
+
+É sempre necessário fornecer documentação adequada e fiável.
+
+Os resultados da aplicação de modelos válidos qualitativos ou quantitativos da relação estrutura-atividade — (Q)SAR — podem indicar a presença mas não a ausência de uma determinada propriedade perigosa. Em vez de ensaios, podem utilizar-se resultados da aplicação de modelos (Q)SAR, se estiverem reunidas as seguintes condições:
+
+— os resultados provêm da aplicação de um modelo (Q)SAR validado cientificamente,
+
+— a substância insere-se no domínio de aplicabilidade do modelo (Q) SAR,
+
+— os resultados adequam-se aos fins de classificação e rotulagem e de avaliação de riscos e
+
+— é fornecida documentação adequada e fiável sobre o método aplicado.
+
+Em colaboração com a Comissão, os Estados-Membros e as partes interessadas, a Agência elaborará e dará orientações sobre a utilização de modelos (Q)SAR.
+
+Os resultados da aplicação de métodos in vitro adequados podem indicar a presença de uma determinada propriedade perigosa ou contribuir para elucidar um dado mecanismo importante para a avaliação. Neste contexto, entende-se por «adequado» um ensaio suficientemente bem elaborado, de acordo com os critérios internacionais de elaboração de ensaios.
+
+Quando os resultados dos ensaios in vitro forem positivos, é necessário confirmar a propriedade perigosa através de ensaios in vivo adequados. No entanto, essa confirmação pode ser dispensada se estiverem reunidas as seguintes condições:
+
+(1) os resultados provêm da aplicação de um método in vitro validado cientificamente por um estudo adequado, de acordo com princípios de validação internacionalmente adotados;
+
+(2) os resultados adequam-se aos fins de classificação e rotulagem e de avaliação de riscos; e
+
+(3) é fornecida documentação adequada e fiável sobre o método aplicado.
+
+As substâncias cujas propriedades físico-químicas, toxicológicas e ecotoxicológicas sejam semelhantes ou sigam um padrão regular, devido a semelhanças estruturais, podem ser consideradas um grupo ou uma «categoria» de substâncias. Para aplicação do conceito de grupo, as propriedades físico-químicas, os efeitos na saúde humana e animal e o destino ou os efeitos ambientais devem poder ser previstos, a partir dos dados correspondentes a substância(s) de referência do grupo, por interpolação, para outras substâncias do grupo (método comparativo por interpolação). Este processo evita o ensaio de todas as substâncias em relação a todos os parâmetros.
+
+As semelhanças podem ter por fundamento:
+
+(1) Um grupo funcional comum que indique a presença de propriedades perigosas;
+
+(2) A existência de precursores comuns e/ou a previsível ocorrência de produtos de degradação comuns por processos físicos ou biológicos, que resultem em substâncias químicas de estrutura semelhante e indiquem a presença de propriedades perigosas; ou
+
+(3) Um padrão constante de variação da intensidade das propriedades na categoria.
+
+Quando aplicado o conceito de grupo, as substâncias são classificadas e rotuladas de acordo com o referido fundamento.
+
+Em todos os casos, os resultados devem:
+
+— adequar-se aos fins de classificação e rotulagem e de avaliação de riscos,
+
+— cobrir de forma adequada e fiável os parâmetros-chave previstos no método de ensaio correspondente, e
+
+— cobrir um período de exposição comparável ou superior ao do método de ensaio correspondente, se o referido período for um parâmetro relevante.
+
+Em todos os casos, devem ser acompanhados de documentação adequada e fiável sobre o método aplicado.
+
+Em colaboração com a Comissão, os Estados-Membros e as partes interessadas, a Agência elaborará e dará orientações sobre a metodologia técnica e cientificamente fundamentada para o agrupamento de substâncias.
+
+#### 2. IMPOSSIBILIDADE TÉCNICA DE REALIZAR OS ENSAIOS
+
+Se, devido às propriedades da substância (por exemplo, por não poderem ser utilizadas substâncias muito voláteis, muito reativas ou instáveis, por a mistura da substância com água poder provocar incêndios ou explosões ou por não ser possível a radio marcação da substância, necessária em certos estudos), não for tecnicamente possível efetuar um determinado estudo, os ensaios relativos ao parâmetro específico podem ser dispensados. Devem ser sempre respeitadas as orientações constantes dos métodos de ensaio pertinentes, nomeadamente no tocante às limitações técnicas dos métodos.
+
+#### 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS AO PRODUTO
+
+3.1. Os ensaios em conformidade com alguns parâmetros das secções 8 e 9 dos Anexos II e III, não obstante o n.º 2 do artigo 6.º, podem não ser efetuados com base em considerações ligadas à exposição quando existam dados de exposição em conformidade com os Anexos II ou III. Nesse caso, devem ser observadas as seguintes condições: — Deve ser efetuada uma avaliação da exposição, que abranja a exposição primária e secundária nas condições realistas mais desfavoráveis, para todas as utilizações previstas do produto biocida que contém a substância ativa cuja aprovação se solicita, ou do produto biocida cuja autorização se pretende. — Se for introduzido um novo cenário de exposição numa fase posterior, durante o processo de autorização do produto, serão apresentados dados adicionais para avaliar se continua a ser aplicável a justificação para a adaptação dos dados. — Devem ser explicadas de forma clara e transparente as razões pelas quais o resultado da avaliação da exposição justifica a dispensa da apresentação de dados. No entanto, os ensaios não podem ser dispensados em razão de efeitos não ligados a um limiar. Por conseguinte, alguns dados de base serão sempre obrigatórios, por exemplo, os ensaios de genotoxicidade. Em colaboração com a Comissão, os Estados-Membros e as partes interessadas, a Agência, se for caso disso, elaborará e dará orientações suplementares sobre os critérios estabelecidos nos termos do artigo 6.º, n.º 4, e do artigo 21.º, n.º 3.
+
+3.2. É sempre necessário fornecer documentação e justificação adequadas. A justificação deve basear-se numa avaliação da exposição em conformidade com as notas técnicas de orientação pertinentes, quando disponíveis.
+
+## ANEXO V
+
+### TIPOS DE PRODUTOS BIOCIDAS E SUA DESCRIÇÃO, NA ACEÇÃO DO ARTIGO 2.º, N.º 1
+
+#### GRUPO 1: Desinfetantes
+
+Estes tipos de produtos não incluem os produtos de limpeza que não se destinam a fins biocidas, nomeadamente detergentes líquidos e em pó e outros produtos semelhantes.
+
+Os produtos deste grupo são produtos biocidas utilizados na higiene humana, aplicados na pele ou no couro cabeludo humanos ou em contacto com eles com o objetivo primeiro de desinfetar a pele ou o couro cabeludo.
+
+Produtos utilizados na desinfeção de superfícies, materiais, equipamentos e mobiliário, que não entrem em contacto direto com géneros alimentícios ou alimentos para animais.
+
+As utilizações abrangem, nomeadamente, piscinas, aquários, águas balneares e outras águas; sistemas de ar condicionado; e paredes e pavimentos em zonas privadas, públicas e industriais e noutras zonas para atividades profissionais.
+
+Produtos utilizados na desinfeção do ar, da água não utilizada para consumo humano ou animal, das retretes químicas, das águas residuais, dos resíduos hospitalares e dos solos.
+
+Produtos utilizados como algicidas no tratamento de piscinas, aquários e outras águas e no tratamento curativo dos materiais de construção.
+
+Produtos utilizados para serem incorporados em têxteis, tecidos, máscaras, tintas e outros artigos ou materiais com o objetivo de produzir artigos tratados com propriedades desinfetantes.
+
+Produtos utilizados na higiene veterinária tais como desinfetantes, sabões desinfetantes, produtos de higiene oral ou corporal, ou com função antimicrobiana.
+
+Produtos utilizados na desinfeção de materiais e superfícies associados ao alojamento ou transporte de animais.
+
+Produtos utilizados na desinfeção de equipamentos, recipientes, utensílios de consumo, superfícies ou condutas associadas à produção, ao transporte, à armazenagem ou ao consumo de géneros alimentícios ou alimentos para animais (incluindo água potável) destinados aos seres humanos e aos animais.
+
+Produtos utilizados para incorporação em materiais que podem entrar em contacto com alimentos.
+
+Produtos utilizados na desinfeção de água potável destinada tanto aos seres humanos como aos animais.
+
+#### GRUPO 2: Conservantes
+
+Salvo indicação em contrário, estes tipos de produtos incluem apenas os produtos destinados a prevenir o desenvolvimento de micróbios e de algas.
+
+Produtos utilizados na conservação de produtos manufaturados (com exclusão dos géneros alimentícios, alimentos para animais, produtos cosméticos, medicamentos ou dispositivos médicos) tendo em vista o controlo da deterioração microbiana, a fim de garantir o seu período de conservação.
+
+Produtos utilizados como conservantes para o armazenamento ou a utilização de iscos rodenticidas, inseticidas ou outros.
+
+Produtos utilizados na conservação de películas ou revestimentos tendo em vista o controlo da deterioração microbiana ou do crescimento de algas, a fim de preservar as propriedades iniciais da superfície de materiais ou objetos tais como tintas, plásticos, vedantes, adesivos murais, ligantes, papéis, obras de arte.
+
+Produtos utilizados para a proteção da madeira, à saída e no interior das serrações, ou dos produtos de madeira, tendo em vista o controlo dos organismos que a destroem ou deformam, incluindo os insetos.
+
+Este tipo de produto abrange tanto os produtos preventivos como os curativos.
+
+Produtos utilizados na proteção de materiais fibrosos ou polimerizados, tais como couro, borracha, papel ou produtos têxteis, tendo em vista o controlo da deterioração microbiológica.
+
+Este tipo de produtos inclui produtos biocidas que impedem a acumulação de microrganismos na superfície dos materiais, impedindo ou prevenindo a formação de odores, e/ou que oferecem outro tipo de vantagens.
+
+Produtos utilizados na proteção dos materiais de alvenaria, dos materiais compósitos ou de outros materiais de construção, com exceção da madeira, tendo em vista o controlo dos ataques microbiológicos e de algas.
+
+Produtos utilizados na proteção da água ou de outros líquidos utilizados em sistemas de arrefecimento e processamento, através do controlo dos organismos prejudiciais, tais como micróbios, algas e bivalves.
+
+Não abrange os produtos utilizados na desinfeção da água potável ou da água para piscinas.
+
+Produtos utilizados na prevenção ou no controlo da formação de matérias viscosas em materiais, equipamentos e estruturas destinados à indústria, por exemplo em madeira e pasta de papel, extratos arenosos porosos utilizados na indústria petrolífera.
+
+Produtos para controlar a deterioração microbiana nos fluidos utilizados para processar ou cortar metais, vidro ou outros materiais.
+
+#### GRUPO 3: Produtos de controlo de animais prejudiciais
+
+Produtos utilizados no controlo de ratos, ratazanas e outros roedores por outros meios que não sejam os de repeli-los ou atraí-los.
+
+Produtos utilizados no controlo de aves por outros meios que não sejam os de repeli-las ou atraí-las.
+
+Produtos utilizados no controlo de moluscos, vermes e invertebrados não abrangidos por outros tipos de produto, por outros meios que não sejam os de repeli-los ou atraí-los.
+
+Produtos utilizados no controlo dos peixes por outros meios que não sejam os de repeli-los ou atraí-los.
+
+Produtos utilizados no controlo dos artrópodes (por exemplo, insetos, aracnídeos e crustáceos) por outros meios que não sejam os de repeli-los ou atraí-los.
+
+Produtos utilizados no controlo de organismos prejudiciais (invertebrados, como pulgas, ou vertebrados, como aves, peixes, roedores), repelindo-os ou atraindo-os; inclui os produtos utilizados na higiene humana ou animal, diretamente na pele ou indiretamente no ambiente dos seres humanos ou dos animais.
+
+Produtos utilizados no controlo dos vertebrados não abrangidos por outros tipos de produtos do presente grupo, por outros meios que não sejam os de repeli-los ou atraí-los.
+
+#### GRUPO 4: Outros produtos biocidas
+
+Produtos utilizados no controlo do desenvolvimento e depósito de organismos incrustantes (micróbios e formas superiores de espécies vegetais ou animais) em navios, materiais de aquicultura e outras estruturas utilizadas em meio aquático.
+
+Produtos utilizados na desinfeção e conservação de cadáveres humanos ou animais ou de partes destes.
+
+## ANEXO VI
+
+### PRINCÍPIOS COMUNS DE AVALIAÇÃO DOS DOSSIERS RELATIVOS AOS PRODUTOS BIOCIDAS
+
+| ÍNDICE |  |
+| --- | --- |
+|  | Termos e definições |
+|  | Introdução |
+|  | Avaliação |
+| — | Princípios gerais |
+| — | Efeitos na saúde humana e animal |
+| — | Efeitos no ambiente |
+| — | Efeitos nos organismos visados |
+| — | Eficácia |
+| — | Resumo |
+|  | Conclusões |
+| — | Princípios gerais |
+| — | Efeitos na saúde humana e animal |
+| — | Efeitos no ambiente |
+| — | Efeitos nos organismos visados |
+| — | Eficácia |
+| — | Resumo |
+|  | Integração global das conclusões |
+
+#### TERMOS E DEFINIÇÕES
+
+Correspondência com os critérios constantes do artigo 19.º, n.º 1, alínea b)
+
+Os subtítulos «Efeitos na saúde humana e animal», «Efeitos no ambiente», «Efeitos nos organismos visados» e «Eficácia» utilizados nas secções «Avaliação» e «Conclusões» correspondem do seguinte modo aos quatro critérios constantes do artigo 19.º, n.º 1, alínea b):
+
+— o seu destino e distribuição no ambiente,
+
+— a contaminação das águas superficiais (incluindo as águas estuarinas e marinhas), das águas subterrâneas e da água potável, do ar e do solo, tendo em conta a propagação a longa distância no ambiente para locais distantes do local de utilização,
+
+— o seu impacto nos organismos não visados,
+
+— o seu impacto na biodiversidade e no ecossistema».
+
+Identificação dos efeitos adversos que um produto biocida tem a capacidade intrínseca de provocar.
+
+Estimativa da relação entre a dose ou o nível de exposição a uma substância ativa ou a uma substância potencialmente perigosa presente num produto biocida e a incidência e gravidade de um efeito.
+
+Determinação das emissões, dos mecanismos e das taxas de circulação de uma substância ativa ou de uma substância potencialmente perigosa presente num produto biocida e da transformação ou degradação, por forma a calcular as concentrações/doses a que as populações humanas, os animais ou os compartimentos ambientais estão expostos ou são passíveis de o ser.
+
+Estimativa da incidência e gravidade dos efeitos adversos que podem observar-se em populações humanas, animais ou compartimentos ambientais em virtude da exposição real ou prevista a uma substância ativa ou outra substância potencialmente perigosa presente no produto biocida. Poderá abranger uma «estimativa do risco», ou seja, a quantificação da probabilidade deste.
+
+Água, incluindo os sedimentos, o ar, os solos, as espécies selvagens da fauna e da flora, bem como as inter-relações entre estes elementos e as relações entre eles e os organismos vivos.
+
+#### INTRODUÇÃO
+
+1. O presente anexo estabelece os princípios comuns para a avaliação de dossiers de produtos biocidas referidos no artigo 19.º, n.º 1, alínea b). A decisão de um Estado-Membro ou da Comissão de autorizar um produto biocida será tomada com base nas condições estabelecidas no artigo 19.º, tendo em conta a avaliação feita segundo o presente anexo. O sítio na Internet da Agência contém orientações técnicas pormenorizadas para a aplicação do presente anexo.
+
+2. Os princípios estabelecidos no presente anexo podem ser aplicados na sua totalidade à avaliação dos produtos biocidas formados de substâncias químicas. No que respeita aos produtos biocidas que contêm microrganismos, estes princípios devem ser desenvolvidos nas orientações técnicas, tendo em conta a experiência prática adquirida, e ser aplicados tendo em conta a natureza do produto e a mais recente informação científica. No caso de produtos biocidas que contêm nano materiais, os princípios estabelecidos no presente anexo também terão de ser adaptados e detalhados nas orientações técnicas, a fim de ter em conta a mais recente informação científica.
+
+3. Para assegurar um nível elevado e harmonizado de proteção da saúde humana, da saúde animal e do ambiente, há que identificar todos os riscos decorrentes da utilização de produtos biocidas. Para tal, será feita uma avaliação dos riscos, por forma a determinar a aceitabilidade ou não de quaisquer riscos identificados. Isso será feito através de uma avaliação dos riscos associados a cada um dos componentes pertinentes do produto biocida, tendo em conta quaisquer efeitos cumulativos e sinérgicos.
+
+4. Será sempre exigida uma avaliação dos riscos da substância ou substâncias ativas presentes no produto biocida. A avaliação de riscos deve conduzir à identificação do perigo e, se for pertinente, à avaliação da relação dose (concentração) – reação (efeito), à avaliação da exposição e à caracterização do risco. Se não for possível efetuar uma avaliação quantitativa, haverá que proceder a uma avaliação qualitativa.
+
+5. Devem ser feitas avaliações de risco adicionais, idênticas às atrás descritas, para quaisquer substâncias potencialmente perigosas presentes no produto biocida. Se for pertinente, serão tidas em conta as informações prestadas no âmbito do Regulamento (CE) n.º 1907/2006.
+
+6. Para se proceder a uma avaliação de riscos, são necessários dados. Tais dados são pormenorizados nos Anexos II e III e têm em conta o facto de haver uma grande diversidade de aplicações e de tipos de produtos, e que isso tem impacto nos respetivos riscos. Só devem ser exigidos os dados mínimos indispensáveis para efetuar uma avaliação adequada dos riscos. O organismo responsável pela avaliação terá em devida consideração os requisitos dos artigos 6.º, 21.º e 62.º do presente regulamento para evitar duplicações na apresentação dos dados. Poderão ser também necessários dados relativos a substâncias potencialmente perigosas presentes no produto biocida. No caso de substâncias ativas geradas *in situ*, a avaliação de riscos inclui ainda os eventuais riscos do precursor ou precursores.
+
+7. Os resultados das avaliações de riscos das substâncias ativas e das substâncias potencialmente perigosas presentes no produto biocida são integrados numa avaliação global do produto biocida.
+
+8. Ao proceder à avaliação do produto biocida, o organismo responsável pela avaliação:
+
+a) Tem em conta outras informações técnicas e científicas pertinentes, de que possa razoavelmente dispor, respeitantes às propriedades do produto biocida e dos seus componentes, metabolitos ou resíduos;
+
+b) Se pertinente, avalia a fundamentação apresentada pelo requerente para a não-apresentação de certos dados.
+
+9. A aplicação destes princípios comuns, quando feita em conjunto com as outras condições estabelecidas no artigo 19.º, deve conduzir à decisão por parte das autoridades competentes ou da Comissão de autorizar ou não o produto biocida. Esta autorização poderá incluir limitações à sua utilização ou outras condições. Em certos casos, as autoridades competentes podem concluir que são necessários mais dados para tomar a decisão de autorização.
+
+10. No caso de produtos biocidas que contenham substâncias ativas abrangidas pelos critérios de exclusão do artigo 5.º, n.º 1, as autoridades competentes ou a Comissão verificam se podem ser cumpridas as condições do artigo 5.º, n.º 2.
+
+11. Durante o processo de avaliação, os requerentes e os organismos de avaliação cooperam por forma a resolverem rapidamente eventuais questões quanto aos requisitos de dados, determinarem numa fase precoce os eventuais estudos adicionais necessários, alterarem as condições propostas de utilização dos produtos biocidas ou modificarem a sua natureza ou composição, para que os requisitos do artigo 19.º e do presente anexo sejam cumpridos na íntegra. Os encargos administrativos, especialmente para as PME, devem ser reduzidos ao mínimo necessário sem prejudicar o nível de proteção oferecido aos seres humanos, aos animais e ao ambiente.
+
+12. Os juízos formados pelo organismo de avaliação durante o processo de avaliação têm de basear-se em princípios científicos, de preferência internacionalmente reconhecidos, e em pareceres de peritos.
+
+#### AVALIAÇÃO
+
+13. Os dados fornecidos em apoio do pedido de autorização de um produto biocida são avaliados pela autoridade competente de avaliação ou de receção, em conformidade com o estabelecido nos artigos pertinentes do regulamento. Após validação desses dados, as autoridades competentes devem utilizá-los para a avaliação de riscos, tendo em conta a utilização proposta. Se for pertinente, serão tidas em conta as informações prestadas no âmbito do Regulamento (CE) n.º 1907/2006.
+
+14. É sempre efetuada a avaliação de risco da substância ativa presente no produto biocida. Se, além disso, houver substâncias potencialmente perigosas no produto, há que proceder à avaliação dos riscos de cada uma delas. Esta avaliação deve abranger a utilização normal proposta do produto biocida, bem como as condições realistas mais desfavoráveis, incluindo qualquer questão relevante de produção e eliminação. A avaliação tem ainda em conta a forma como podem ser utilizados e eliminados quaisquer «artigos tratados» com o produto ou que o contenham. São também tidos em conta as substâncias ativas geradas *in situ* e os respetivos precursores.
+
+15. Na avaliação é igualmente tida em conta a possibilidade de efeitos cumulativos ou sinérgicos. Em colaboração com a Comissão, os Estados-Membros e as partes interessadas, a Agência elabora e dá orientações adicionais sobre as definições e as metodologias científicas para a avaliação de efeitos cumulativos e sinérgicos.
+
+16. Para cada uma das substâncias ativas e cada uma das substâncias potencialmente perigosas presentes no produto biocida, a avaliação de riscos deve conduzir, se possível, à identificação dos perigos e à determinação dos valores de referência adequados para as doses ou concentrações sem efeitos, como NOAEL ou concentrações previsivelmente sem efeitos (PNEC). Se necessário, inclui também uma avaliação da relação dose (concentração) – reação (efeito), bem como uma avaliação da exposição e uma caracterização dos riscos.
+
+17. Os resultados provenientes da comparação da exposição aos valores de referência apropriados para cada uma das substâncias ativas e para quaisquer substâncias potencialmente perigosas são integrados numa avaliação global dos riscos do produto biocida. Se não houver resultados quantitativos, há que integrar os resultados qualitativos de modo análogo.
+
+18. A avaliação de riscos determina:
+
+a) Os perigos decorrentes das propriedades físico-químicas;
+
+b) Os riscos para os seres humanos e os animais;
+
+c) Os riscos para o ambiente;
+
+d) As medidas necessárias para proteger os seres humanos, os animais e o ambiente, tanto na utilização normal proposta do produto biocida como nas condições realistas mais desfavoráveis.
+
+19. Nalguns casos, poder-se-á concluir que são necessários mais dados para que a avaliação de riscos seja dada por terminada. Estes dados adicionais devem ser os mínimos necessários para a finalização da avaliação de riscos.
+
+20. As informações prestadas para a família de produtos biocidas devem permitir ao organismo de avaliação tomar uma decisão de determinar se todos os produtos dessa família de produtos biocidas satisfazem os critérios do artigo 19.º, n.º 1, alínea b).
+
+21. Se for pertinente, a equivalência técnica para cada substância ativa contida no produto biocida é estabelecida relativamente às substâncias ativas já incluídas na lista de substâncias ativas aprovadas.
+
+22. A avaliação de riscos deve ter em conta os seguintes efeitos potenciais, decorrentes da utilização do produto biocida, bem como as populações sujeitas a exposição.
+
+23. Estes efeitos resultam das propriedades da substância ativa e das substâncias potencialmente perigosas presentes no produto. Trata-se de:
+
+— toxicidade aguda,
+
+— irritação,
+
+— corrosividade,
+
+— sensibilização,
+
+— toxicidade por dose repetida,
+
+— mutagenicidade,
+
+— cancerigenicidade,
+
+— toxicidade para a reprodução,
+
+— neurotoxicidade,
+
+— imunotoxicidade,
+
+— desregulação do sistema endócrino,
+
+— quaisquer outras propriedades especiais da substância ativa ou potencialmente perigosa,
+
+— outros efeitos decorrentes das propriedades físico-químicas.
+
+24. As populações atrás referidas são as seguintes:
+
+— utilizadores profissionais,
+
+— utilizadores não profissionais,
+
+— pessoas direta ou indiretamente expostas por intermédio do ambiente.
+
+25. A identificação do perigo deve abranger as propriedades e os efeitos adversos potenciais da substância ativa e de qualquer substância potencialmente perigosa presente no produto biocida.
+
+26. O organismo de avaliação aplica os pontos 27 a 30 ao proceder à avaliação da relação dose (concentração) – reação (efeito) de uma substância ativa ou potencialmente perigosa presente num produto biocida.
+
+27. No que respeita à toxicidade por dose repetida e à toxicidade para a reprodução, há que avaliar a relação dose-resposta de cada substância ativa ou potencialmente perigosa, bem como, se possível, identificar o NOAEL. Se não for possível identificar um NOAEL, há que determinar o nível mínimo com efeitos adversos observáveis (LOAEL). Se for adequado, podem ser utilizados como valor de referência outros descritores de dose-efeito.
+
+28. No que respeita à toxicidade aguda, à corrosividade e à irritação, não é geralmente possível calcular um NOAEL ou LOAEL com base nos ensaios efetuados em conformidade com os requisitos do presente regulamento. Para a toxicidade aguda, há que calcular o valor da LD50 (dose letal mediana) ou da LC50 (concentração letal mediana) ou outro descritor apropriado de dose-efeito. No que respeita aos restantes efeitos, bastará determinar se a substância ativa ou a substância potencialmente perigosa tem capacidade intrínseca de provocar tais efeitos durante a utilização do produto biocida.
+
+29. No que respeita à mutagenicidade e à carcinogenicidade, é feita uma avaliação sem limiar, se a substância ativa ou potencialmente perigosa for genotóxica e cancerígena. Se a substância ativa ou potencialmente perigosa não for genotóxica, é feita uma avaliação com limiar.
+
+30. No que respeita à sensibilização cutânea e respiratória, caso não haja consenso sobre a possibilidade de apurar uma relação dose/concentração abaixo da qual são improváveis efeitos adversos, em especial numa pessoa com hipersensibilidade à referida substância, bastará determinar se a substância ativa ou potencialmente perigosa tem capacidade intrínseca para provocar tais efeitos devido à utilização do produto biocida.
+
+31. Se houver dados relativos à toxicidade obtidos a partir de observações relativas à exposição humana, como informações obtidas durante o fabrico ou provenientes de centros antiveneno ou de inquéritos epidemiológicos, há que tê-los em conta ao proceder à avaliação de riscos.
+
+32. É avaliada a exposição de cada uma das populações humanas (utilizadores profissionais, não profissionais e pessoas direta ou indiretamente expostas através do ambiente) a um produto biocida, nos casos em que essa exposição ocorra ou seja previsível com suficiente probabilidade, prestando particular atenção às vias de exposição pertinentes para os grupos vulneráveis. A avaliação tem por objetivo produzir uma estimativa quantitativa ou qualitativa da dose/concentração de cada substância ativa ou potencialmente perigosa, incluindo os metabolitos e produtos de degradação relevantes, a que a população está ou poderá estar exposta durante a utilização do produto biocida e dos artigos tratados com esse produto.
+
+33. A avaliação da exposição baseia-se nas informações constantes do dossier técnico apresentado em conformidade com os artigos 6.º e 21.º, e noutras informações pertinentes disponíveis. Consoante o caso, é prestada especial atenção aos seguintes elementos:
+
+— dados relativos à exposição determinados de forma adequada,
+
+— forma em que o produto biocida é comercializado,
+
+— tipo de produto biocida,
+
+— método e taxa de aplicação,
+
+— propriedades físico-químicas do produto biocida,
+
+— vias prováveis de exposição e potencial de absorção,
+
+— frequência e duração da exposição,
+
+— níveis máximos de resíduos,
+
+— tipo e dimensão das populações específicas expostas, caso haja dados disponíveis.
+
+34. Caso haja dados representativos, determinados de forma adequada, sobre a exposição, estes devem ser tidos em especial consideração ao fazer a avaliação da exposição. Se se utilizarem métodos de cálculo para a estimativa dos níveis de exposição, deve recorrer-se a modelos adequados.
+
+— fornecem a melhor estimativa possível de todos os processos pertinentes, com base em parâmetros e pressupostos realistas,
+
+— são sujeitos a uma análise que atenda a possíveis elementos de incerteza,
+
+— são validados de modo fiável por meio de medições efetuadas nas condições de utilização do modelo,
+
+— são pertinentes no que respeita às condições da área de utilização.
+
+35. Se, para quaisquer dos efeitos referidos no ponto 23, tiver sido determinado um valor de referência, a caracterização do risco inclui a comparação do valor de referência com a avaliação da dose/concentração a que a população estará exposta. Se não puder ser estabelecido um valor de referência, segue-se uma abordagem qualitativa.
+
+36. O organismo de avaliação analisa os riscos que o produto biocida apresenta para os animais, baseando-se nos princípios relevantes descritos na secção relativa aos efeitos nos seres humanos.
+
+37. A avaliação de riscos deve atender a eventuais efeitos adversos em qualquer dos três compartimentos ambientais – ar, solo e água (incluindo sedimentos) –, bem como nos biota, decorrentes da utilização do produto biocida.
+
+38. A identificação do perigo deve abranger as propriedades e os efeitos adversos potenciais da substância ativa e de qualquer substância potencialmente perigosa presente no produto biocida.
+
+39. Há que proceder à avaliação da relação dose (concentração) – reação (efeito), por forma a prever a concentração abaixo da qual é improvável a existência de efeitos adversos no compartimento ambiental em questão. A avaliação deve abranger quer a substância ativa quer qualquer uma das substâncias potencialmente perigosas presentes no produto biocida. A referida concentração designa-se por PNEC. Todavia, nalguns casos poderá não ser possível estabelecer uma PNEC, havendo então que proceder à estimativa qualitativa da relação dose (concentração) – reação (efeito).
+
+40. A PNEC é determinada com base nos dados relativos aos efeitos nos organismos e nos estudos de ecotoxicidade apresentados nos termos dos artigos 6.º e 20.º. É calculada através da aplicação de um fator adequado (fator de avaliação) aos valores de referência resultantes dos ensaios nos organismos, nomeadamente a DL50 (dose letal mediana), a CL50 (concentração letal mediana), a CE50 (concentração efetiva mediana), a CI50 (concentração que resulte na inibição de 50 % de um dado parâmetro, como o crescimento), o NOEL(C) [nível (concentração) sem efeitos observáveis] ou o LOEL(C) [nível (concentração) mínimo com efeitos observáveis]. Se for adequado, podem ser utilizados como valor de referência outros descritores de dose-efeito.
+
+41. O fator de avaliação exprime o grau de incerteza da extrapolação com base nos dados dos ensaios efetuados num número restrito de espécies em condições reais. Por conseguinte, em termos genéricos, quanto maior o número de dados e maior a duração dos ensaios, menor será o grau de incerteza e o valor do fator de avaliação.
+
+42. Deve proceder-se à avaliação da exposição no respeitante a cada um dos compartimentos ambientais, por forma a prever a concentração provável de cada uma das substâncias ativas ou substâncias potencialmente perigosas presentes no produto biocida. Esta concentração é conhecida por «concentração ambiental previsível» (PEC). No entanto, nalguns casos poderá não ser possível estabelecer uma PEC, devendo então proceder-se à estimativa qualitativa da exposição.
+
+43. A PEC ou, eventualmente, a estimativa qualitativa da exposição, só necessita de ser apurada para os compartimentos ambientais relativamente aos quais sejam conhecidas ou razoavelmente previsíveis emissões, descargas, eliminações ou distribuições, incluindo qualquer contribuição pertinente de artigos tratados com produtos biocidas.
+
+44. A PEC ou a estimativa qualitativa da exposição devem ser determinadas tendo especialmente em conta, quando pertinente, os seguintes elementos:
+
+— dados relativos à exposição determinados de forma adequada,
+
+— forma em que o produto é comercializado,
+
+— tipo de produto biocida,
+
+— método e taxa de aplicação,
+
+— propriedades físico-químicas do produto,
+
+— produtos de degradação/transformação,
+
+— vias prováveis em direção aos compartimentos ambientais e o potencial de adsorção/dessorção e de degradação,
+
+— frequência e duração da exposição,
+
+— propagação a longa distância no ambiente.
+
+45. Caso haja dados representativos, determinados de forma adequada, sobre a exposição, estes devem ser tidos em especial consideração ao fazer a avaliação da exposição. Se se utilizarem métodos de cálculo para a estimativa dos níveis de exposição, deve recorrer-se a modelos adequados. As características destes modelos devem ser as referidas no ponto 34. Se adequado, deve-se atender também, caso a caso, a dados pertinentes de monitorização de substâncias com utilizações e padrões de exposição ou propriedades análogos.
+
+46. Para cada um dos compartimentos ambientais, a caracterização do risco deve, tanto quanto possível, envolver a comparação da PEC com a PNEC, expressa no rácio PEC/PNEC.
+
+47. Se não for possível calcular o rácio PEC/PNEC, a caracterização do risco deve envolver a avaliação qualitativa da probabilidade de ocorrência do efeito, nas condições de exposição reais ou previsíveis.
+
+48. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), caso contenha uma substância potencialmente perigosa ou os seus principais metabolitos ou produtos de degradação ou reação que cumprem os critérios para serem considerados persistentes, bioacumuláveis e tóxicos (PBT) ou muito persistentes e muito bioacumuláveis (mPmB), nos termos do Anexo XIII do Regulamento (CE) n.º 1907/2006, ou caso tenham propriedades perturbadoras do sistema endócrino, a menos que se demonstre cientificamente que não existem efeitos inaceitáveis nas condições de campo pertinentes.
+
+49. Proceder-se-á a uma avaliação para demonstrar que os efeitos do produto biocida não provocam sofrimento desnecessário nos vertebrados visados, devendo ser também avaliado o mecanismo através do qual se obtém o efeito, bem como os efeitos observados no comportamento e na saúde dos vertebrados visados; nos casos em que o efeito pretendido for a morte do vertebrado, serão avaliados o tempo necessário para provocar a morte e as condições em que esta ocorre.
+
+50. Se pertinente, o organismo de avaliação deve avaliar a possível ocorrência no organismo visado de resistência ou resistência cruzada a uma substância ativa presente no produto biocida.
+
+51. Os dados apresentados pelo requerente devem ser suficientes para fundamentar a eficácia invocada do produto. Os dados apresentados pelo requerente ou ao dispor do organismo de avaliação devem poder demonstrar a eficácia do produto biocida contra os organismos visados, caso o mesmo seja utilizado em conformidade com as condições de autorização.
+
+52. Os ensaios devem ser efetuados em conformidade com as orientações da União, caso existam e sejam aplicáveis. Nos casos adequados, pode recorrer-se a outros métodos a seguir referidos. Podem igualmente ser usados dados de campo aceitáveis e pertinentes, caso existam:
+
+— Método ISO, CEN ou de qualquer outra norma internacional,
+
+— Método da norma nacional,
+
+— Método da norma industrial (se aceite pelo organismo de avaliação),
+
+— Método da norma de um produtor específico (se aceite pelo organismo de avaliação),
+
+— Dados provenientes do desenvolvimento real do produto biocida (se aceites pelo organismo de avaliação).
+
+53. Em cada uma das áreas em que se tenha procedido a avaliações de riscos, o organismo de avaliação deve integrar, numa avaliação global de todo o produto biocida, os resultados obtidos para a substância ativa e os resultados relativos a quaisquer substâncias potencialmente perigosas. Essa avaliação deve também atender a eventuais efeitos cumulativos ou sinérgicos.
+
+54. No que respeita aos produtos biocidas que contenham mais do que uma substância ativa, os seus eventuais efeitos adversos devem também ser considerados no seu conjunto, por forma a chegar a uma avaliação global dos efeitos do produto biocida.
+
+#### CONCLUSÕES
+
+55. A avaliação tem por objetivo determinar se o produto satisfaz ou não os critérios estabelecidos no artigo 19.º, n.º 1, alínea b). As conclusões do organismo de avaliação devem assentar na integração dos riscos de cada uma das substâncias ativas e das substâncias potencialmente perigosas nele presentes, com base na avaliação efetuada de acordo com os pontos 13 a 54 do presente anexo.
+
+56. Para cada tipo de produto biocida e cada domínio requerido de utilização do mesmo, o organismo de avaliação deve, no processo de determinação do cumprimento dos critérios estabelecidos no artigo 19.º, n.º 1, alínea b), chegar a uma das seguintes conclusões:
+
+(1) O produto biocida satisfaz os critérios;
+
+(2) O produto pode satisfazer os critérios desde que sejam observadas condições/restrições específicas;
+
+(3) Não é possível determinar, sem dispor de dados adicionais, se o produto biocida satisfaz ou não os critérios;
+
+(4) O produto biocida não satisfaz os critérios.
+
+57. Ao procurar determinar se o produto biocida satisfaz os critérios estabelecidos no artigo 19.º, n.º 1, alínea b), o organismo de avaliação deve atender à incerteza decorrente da variabilidade dos dados utilizados no processo de avaliação.
+
+58. Se o organismo de avaliação chegar à conclusão de que são necessárias informações ou dados adicionais, deverá justificar a necessidade de tais informações ou dados. Estes devem ser os mínimos necessários para que se efetue uma nova avaliação de riscos adequada.
+
+59. O organismo de avaliação deve atender a possíveis efeitos em todas as populações humanas, nomeadamente nos utilizadores, profissionais ou não profissionais, e nas pessoas direta ou indiretamente expostas através do ambiente. Para chegar a estas conclusões, há que atender particularmente aos grupos vulneráveis das diferentes populações.
+
+60. O organismo de avaliação deve analisar a relação exposição-efeito. Ao analisar esta relação, há que ponderar diversos fatores. Um dos mais importantes fatores é a natureza dos efeitos adversos da substância em análise. Entre estes contam-se a toxicidade aguda, a irritação, a corrosividade, a sensibilização, a toxicidade por dose repetida, a mutagenicidade, a carcinogenicidade, a neurotoxicidade, a imunotoxicidade, a toxicidade para a reprodução, a desregulação do sistema endócrino, juntamente com as propriedades físico-químicas, e quaisquer outras propriedades adversas da substância ativa ou da substância potencialmente perigosa, ou dos respetivos metabolitos ou produtos de degradação relevantes.
+
+61. Geralmente, a margem de exposição (MOEref) – o rácio entre o descritor de dose e a concentração de exposição – é de cerca de 100, mas uma MOEref superior ou inferior a esta poderá ser também adequada, em função, nomeadamente, da natureza dos efeitos críticos e da sensibilidade da população.
+
+62. Se for adequado, o organismo de avaliação concluirá que o critério a que se refere o artigo 19.º, n.º 1, alínea b), subalínea iii), só pode ser satisfeito se forem aplicadas medidas de prevenção e proteção, nomeadamente a conceção dos processos de trabalho, os controlos técnicos, a utilização de equipamento e materiais adequados, a aplicação de medidas coletivas de proteção e, quando a exposição não possa ser evitada por outros meios, a aplicação de medidas individuais de proteção, concretamente a utilização, pelo pessoal, de equipamento de proteção individual, como respiradores, máscaras respiratórias, vestuário, luvas e óculos de proteção, para reduzir a exposição dos utilizadores profissionais.
+
+63. Se, no caso dos utilizadores não profissionais, a utilização de equipamento de proteção individual for o único método possível de redução da exposição, não se considerará, em princípio, que o produto satisfaz, relativamente a esta população, o critério a que se refere o artigo 19.º, n.º 1, alínea b), subalínea iii).
+
+64. Com base nos mesmos critérios pertinentes descritos na secção relativa aos efeitos na saúde humana, o organismo de avaliação deve verificar se o critério a que se refere o artigo 19.º, n.º 1, alínea b), subalínea iii), se encontra preenchido relativamente à saúde animal.
+
+65. O instrumento básico usado na tomada de decisões deve ser o rácio PEC/PNEC ou, caso este se não encontre disponível, uma estimativa qualitativa. Há que ter na devida conta a exatidão deste rácio, dada a variabilidade dos dados utilizados quer nas medições de concentração quer nas estimativas.
+
+66. No que respeita a um dado compartimento ambiental, se o rácio PEC/PNEC for igual ou inferior a um, a caracterização do risco deve consistir no facto de não serem necessários novos dados e/ou ensaios. Se o rácio PEC/PNEC for superior a um, o organismo de avaliação deve avaliar, com base no valor em causa e noutros fatores pertinentes, se são necessários mais informações e/ou ensaios para fins de clarificação, se são necessárias medidas adequadas de redução dos riscos ou se o produto biocida não pode satisfazer o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv).
+
+67. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), se, nas condições de utilização propostas, a concentração previsível da substância ativa ou de qualquer outra substância potencialmente perigosa, dos seus principais metabolitos ou produtos de degradação ou reação na água (ou nos sedimentos desta) tiver um impacto inaceitável nos organismos não visados do ambiente aquático, marinho ou estuarino, a menos que se comprove cientificamente que, nas condições de campo pertinentes, não se observa um efeito inaceitável. Em particular, o organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), se, nas condições de utilização propostas, a concentração previsível da substância ativa ou de outras substâncias potencialmente perigosas, dos seus principais metabolitos ou produtos de degradação ou reação na água (ou nos seus sedimentos) comprometer o cumprimento das normas estabelecidas:
+
+— na Diretiva 2000/60/CE,
+
+— na Diretiva 2006/118/CE,
+
+— na Diretiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, que estabelece um quadro de ação comunitária no domínio da política para o meio marinho ([^44^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0062)),
+
+— Diretiva 2008/105/CE ou
+
+— nos acordos internacionais sobre a proteção dos sistemas fluviais ou das águas marinhas da poluição.
+
+68. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), se, nas condições de utilização propostas, a concentração previsível da substância ativa ou de outras substâncias potencialmente perigosas, dos seus principais metabolitos ou produtos de degradação ou reação nas águas de superfície e seus sedimentos, ou nas águas subterrâneas, exceder a menor das seguintes concentrações:
+
+— concentração máxima admissível fixada na Diretiva 98/83/CE,
+
+— concentração máxima estabelecida na sequência do processo de aprovação da substância ativa nos termos do presente regulamento, com base em dados adequados, designadamente dados toxicológicos,
+
+69. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), se a concentração previsível da substância ativa, de uma substância potencialmente perigosa, dos principais metabolitos ou dos produtos de degradação ou reação previsíveis nas águas superficiais, ou seus sedimentos, decorrente da utilização do produto biocida nas condições de utilização propostas:
+
+— caso as águas superficiais da área de utilização prevista ou dela provenientes se destinem a água potável, exceder os valores fixados
+
+— na Diretiva 2000/60/CE,
+
+— na Diretiva 98/83/CE ou
+
+— tiver um impacto considerado inaceitável nos organismos não visados,
+
+70. As instruções de utilização propostas para o produto biocida, incluindo os procedimentos de limpeza do equipamento de aplicação, devem ser de molde a minimizar a probabilidade de contaminação acidental da água ou dos seus sedimentos.
+
+71. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), se, nas condições de utilização propostas, a concentração previsível da substância ativa ou de qualquer outra substância potencialmente perigosa, dos seus principais metabolitos ou produtos de degradação ou reação no solo tiver um impacto inaceitável nas espécies não visadas, a menos que se comprove cientificamente que, nas condições de campo pertinentes, não existe um efeito inaceitável.
+
+72. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), caso seja razoável prever a possibilidade de efeitos inaceitáveis no compartimento ar, a menos que se comprove cientificamente que, nas condições de campo pertinentes, não se verifica um efeito inaceitável.
+
+73. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), caso seja razoável prever a possibilidade de organismos não visados serem expostos ao produto biocida se, no que respeita a qualquer das substâncias ativas ou potencialmente perigosas:
+
+— o rácio PEC/PNEC for superior a 1, ou
+
+— a concentração da substância ativa ou de qualquer outra substância potencialmente perigosa, dos seus principais metabolitos ou produtos de degradação ou reação tiver um impacto inaceitável nas espécies não visadas, a menos que se comprove cientificamente que, nas condições de campo pertinentes, não se observa um efeito inaceitável.
+
+74. O organismo de avaliação concluirá que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea iv), se for razoavelmente previsível a possibilidade de os microrganismos existentes em estações de tratamento de resíduos serem expostos ao produto biocida e se, no que respeita a qualquer das substâncias ativas, ou potencialmente perigosas, dos seus principais metabolitos, produtos de degradação ou de reação, o rácio PEC/PNEC for superior a 1, a menos que a avaliação de riscos estabeleça claramente que, em condições de campo, não ocorrem efeitos inaceitáveis, direta ou indiretamente, para a viabilidade desses microrganismos.
+
+75. Se forem prováveis fenómenos de resistência ou resistência cruzada à substância ativa do produto biocida, o organismo de avaliação deve considerar a possibilidade de tomar medidas para reduzir ao mínimo as consequências dessa resistência, que poderão incluir a alteração das condições de autorização. Todavia, se não for possível reduzir suficientemente os fenómenos de resistência ou resistência cruzada, a autoridade de avaliação deve concluir que o produto biocida não satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea ii).
+
+76. Não se deve geralmente considerar que um produto biocida destinado ao controlo de vertebrados satisfaz o critério referido no artigo 19.º, n.º 1, alínea b), subalínea ii), a menos que:
+
+— a morte coincida com a extinção da consciência, ou
+
+— a morte ocorra imediatamente, ou
+
+— as funções vitais sejam gradualmente reduzidas, sem sinais óbvios de sofrimento.
+
+77. O grau, a intensidade e a duração da proteção, do controlo ou de outros efeitos pretendidos, devem, no mínimo, ser semelhantes aos decorrentes da utilização de produtos de referência adequados, caso esses produtos existam, ou de outros meios de controlo. Caso não existam produtos de referência, o produto biocida deve proporcionar um nível definido de proteção ou controlo nos domínios de utilização propostos. As conclusões sobre a eficácia do produto biocida devem ser válidas para todas as áreas de utilização propostas e para todas as áreas no Estado-Membro, ou se pertinente, na União, exceto quando o produto biocida se destine a utilização em circunstâncias específicas. O organismo de avaliação avaliará os dados dose-reação obtidos nos ensaios adequados (que devem incluir um controlo sem tratamento), incluindo dosagens inferiores à recomendada, de modo a avaliar se a dose recomendada é a mínima necessária para obter o efeito pretendido.
+
+78. Relativamente aos critérios estabelecidos no artigo 19.º, n.º 1, alínea b), subalíneas iii) e iv), o organismo de avaliação deve integrar as conclusões obtidas no que respeita à substância ou substâncias ativas e às substâncias potencialmente perigosas, por forma a produzir um resumo global das conclusões sobre o produto biocida. Deverá também ser feito um resumo das conclusões sobre os critérios estabelecidos no artigo 19.º, n.º 1, alínea b), subalíneas i) e ii).
+
+#### INTEGRAÇÃO GLOBAL DAS CONCLUSÕES
+
+Com base na avaliação efetuada de acordo com os princípios estabelecidos no presente anexo, o organismo de avaliação concluirá se fica ou não estabelecido que o produto biocida satisfaz os critérios estabelecidos no artigo 19.º, n.º 1, alínea b).
+
+## ANEXO VII
+
+Diretiva 98/8/CE Presente regulamento
+
+— Artigo 1.º
+
+Artigo 1.º Artigo 2.º
+
+Artigo 2.º Artigo 3.º
+
+Artigo 10.º Artigo 4.º
+
+Artigo 10.º Artigo 5.º
+
+— Artigo 6.º
+
+Artigo 11.º, n.º 1, alínea a) Artigo 6.º, n.º 1
+
+Artigo 11.º, n.º 1, alínea a), subalíneas i) e ii) Artigo 6.º, n.º 2
+
+— Artigo 6.º, n.º 3
+
+— Artigo 6.º, n.º 4
+
+— Artigo 7.º
+
+Artigo 11.º, n.º 1, alínea a) Artigo 7.º, n.º 1
+
+— Artigo 7.º, n.º 2
+
+— Artigo 7.º, n.º 3
+
+— Artigo 7.º, n.º 4
+
+— Artigo 7.º, n.º 5
+
+— Artigo 7.º, n.º 6
+
+— Artigo 8.º
+
+Artigo 11.º, n.º 2, primeiro parágrafo Artigo 8.º, n.º 1
+
+Artigo 11.º, n.º 2, segundo parágrafo Artigo 8.º, n.º 2
+
+Artigo 11.º, n.º 2, terceiro parágrafo Artigo 8.º, n.º 3
+
+— Artigo 8.º, n.º 4
+
+— Artigo 9.º
+
+Artigo 11.º, n.º 4 Artigo 9.º, n.º 1
+
+— Artigo 9.º, n.º 2
+
+— Artigo 10.º
+
+Artigo 33.º Artigo 11.º
+
+Artigo 10.º, n.º 4 Artigo 12.º
+
+— Artigo 12.º, n.º 1
+
+— Artigo 12º, n.º 2
+
+— Artigo 12º, n.º 3
+
+— Artigo 13.º
+
+— Artigo 14.º
+
+— Artigo 15.º
+
+— Artigo 16.º
+
+— Artigo 17.º
+
+Artigo 3.º, n.º 1 Artigo 17.º, n.º 1
+
+Artigo 8.º, n.º 1 Artigo 17.º, n.º 2
+
+— Artigo 17.º, n.º 3
+
+Artigo 3.º, n.º 6 Artigo 17.º, n.º 4
+
+Artigo 3.º, n.º 7 Artigo 17.º, n.º 5
+
+— Artigo 17.º, n.º 6
+
+— Artigo 18.º
+
+— Artigo 19.º
+
+Artigo 5.º, n.º 1 Artigo 19.º, n.º 1
+
+Artigo 5.º, n.º 1, alínea b) Artigo 19.º, n.º 2
+
+— Artigo 19.º, n.º 3
+
+Artigo 5.º, n.º 2 Artigo 19.º, n.º 4
+
+— Artigo 19.º, n.º 5
+
+Artigo 2º, n.º 1, alínea j) Artigo 19.º, n.º 6
+
+— Artigo 19.º, n.º 7
+
+— Artigo 19.º, n.º 8
+
+— Artigo 19.º, n.º 9
+
+— Artigo 20.º
+
+Artigo 8.º, n.º 2 Artigo 20.º, n.º 1
+
+Artigo 8.º, n.º 12 Artigo 20.º, n.º 2
+
+— Artigo 20.º, n.º 3
+
+— Artigo 21.º
+
+— Artigo 22.º
+
+Artigo 5.º, n.º 3 Artigo 22.º, n.º 1
+
+— Artigo 22.º, n.º 2
+
+— Artigo 23.º
+
+— Artigo 23.º, n.º 1
+
+Artigo 10.º, n.º 5, alínea i) Artigo 23.º, n.º 2
+
+— Artigo 23.º, n.º 3
+
+— Artigo 23.º, n.º 4
+
+— Artigo 23.º, n.º 5
+
+— Artigo 23.º, n.º 6
+
+Artigo 33.º Artigo 24.º
+
+— Artigo 25.º
+
+— Artigo 26.º
+
+— Artigo 27.º
+
+— Artigo 28.º
+
+— Artigo 29.º
+
+— Artigo 30.º
+
+— Artigo 31.º
+
+Artigo 4.º Artigo 32.º
+
+— Artigo 33.º
+
+— Artigo 34.º
+
+— Artigo 35.º
+
+Artigo 4.º, n.º 4 Artigo 36.º
+
+— Artigo 37.º
+
+— Artigo 38.º
+
+— Artigo 39.º
+
+— Artigo 40.º
+
+— Artigo 41.º
+
+— Artigo 42.º
+
+— Artigo 43.º
+
+— Artigo 44.º
+
+— Artigo 45.º
+
+— Artigo 46.º
+
+— Artigo 47.º
+
+Artigo 7.º Artigo 48.º
+
+Artigo 7.º Artigo 49.º
+
+Artigo 7.º Artigo 50.º
+
+— Artigo 51.º
+
+— Artigo 52.º
+
+— Artigo 53.º
+
+— Artigo 54.º
+
+Artigo 15.º Artigo 55.º
+
+Artigo 17.º Artigo 56.º
+
+— Artigo 57.º
+
+— Artigo 58.º
+
+Artigo 12.º Artigo 59.º
+
+— Artigo 60.º
+
+— Artigo 60.º, n.º 1
+
+Artigo 12.º, n.º 1, alínea c), subalínea ii), e n.º 1, alinea b), e n.º 1, alínea d), subalínea ii) Artigo 60.º, n.º 2
+
+Artigo 12.º, n.º 2, alínea c), subalíneas i) e ii) Artigo 60.º, n.º 3
+
+— Artigo 61.º
+
+— Artigo 62.º
+
+— Artigo 63.º
+
+Artigo 13.º, n.º 2 Artigo 63.º, n.º 1
+
+— Artigo 63.º, n.º 2
+
+— Artigo 63.º, n.º 3
+
+Artigo 13.º, n.º 1 Artigo 64.º
+
+— Artigo 65.º
+
+Artigo 24.º Artigo 65.º, n.º 1
+
+— Artigo 65.º, n.º 2
+
+Artigo 24.º Artigo 65.º, n.º 3
+
+— Artigo 65.º, n.º 4
+
+— Artigo 66.º
+
+— Artigo 66.º, n.º 1
+
+— Artigo 66.º, n.º 2
+
+— Artigo 66.º, n.º 3
+
+Artigo 19.º, n.º 1 Artigo 66.º, n.º 4
+
+— Artigo 67.º
+
+— Artigo 68.º
+
+— Artigo 69.º
+
+Artigo 20.º, n.º 1, e 20.º, n.º 2 Artigo 69.º, n.º 1
+
+Artigo 20.º, n.º 3 Artigo 69.º, n.º 2
+
+Artigo 20.º, n.º 6 Artigo 69.º, n.º 2
+
+Artigo 21.º, segundo parágrafo Artigo 70.º
+
+— Artigo 71.º
+
+— Artigo 72.º
+
+Artigo 22.º, n.º 1, primeiro e segundo parágrafos Artigo 72.º, n.º 1
+
+Artigo 22.º, n.º 1, terceiro parágrafo Artigo 72.º, n.º 2
+
+Artigo 22.º, n.º 2 Artigo 72.º, n.º 3
+
+— Artigo 73.º
+
+— Artigo 74.º
+
+— Artigo 75.º
+
+— Artigo 76.º
+
+— Artigo 77.º
+
+— Artigo 78.º
+
+— Artigo 79.º
+
+— Artigo 80.º
+
+— Artigo 80.º, n.º 1
+
+Artigo 25.º Artigo 80.º, n.º 2
+
+— Artigo 80.º, n.º 3
+
+Artigo 26.º Artigo 81.º
+
+Artigo 28.º Artigo 82.º
+
+— Artigo 83.º
+
+— Artigo 84.º
+
+Artigo 29.º Artigo 85.º
+
+— Artigo 86.º
+
+— Artigo 87.º
+
+Artigo 32.º Artigo 88.º
+
+— Artigo 89.º
+
+— Artigo 90.º
+
+— Artigo 91.º
+
+— Artigo 92.º
+
+— Artigo 93.º
+
+— Artigo 94.º
+
+— Artigo 95.º
+
+— Artigo 96.º
+
+— Artigo 97.º
+
+Anexo IA Anexo I
+
+Anexo II A, III A e IV A Anexo II
+
+Anexo II B, III B e IV B Anexo III
+
+— Anexo IV
+
+Anexo V Anexo V
+
+Anexo VI Anexo VI
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 92 de 7.4.1990, p. 42.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0002)) JO L 311 de 28.11.2001, p. 1.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0003)) JO L 311 de 28.11.2001, p. 67.
+
+> ([^4^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0004)) JO L 136 de 30.4.2004, p. 1.
+
+> ([^5^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0005)) JO L 139 de 30.4.2004, p. 1.
+
+> ([^6^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0006)) JO L 139 de 30.4.2004, p. 55.
+
+> ([^7^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0007)) JO L 354 de 31.12.2008, p. 34.
+
+> ([^8^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0008)) JO L 229 de 1.9.2009, p. 1.
+
+> ([^9^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0009)) JO L 309 de 24.11.2009, p. 1.
+
+> ([^10^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0010)) JO L 170 de 30.6.2009, p. 1.
+
+> ([^11^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0011)) JO L 196 de 16.8.1967, p. 1.
+
+> ([^12^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0012)) JO L 183 de 29.6.1989, p. 1.
+
+> ([^13^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0013)) JO L 131 de 5.5.1998, p. 11.
+
+> ([^14^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0014)) JO L 330 de 5.12.1998, p. 32.
+
+> ([^15^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0015)) JO L 200 de 30.7.1999, p. 1.
+
+> ([^16^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0016)) JO L 262 de 17.10.2000, p. 21.
+
+> ([^17^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0017)) JO L 327 de 22.12.2000, p. 1.
+
+> ([^18^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0018)) JO L 158 de 30.4.2004, p. 50.
+
+> ([^19^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0019)) JO L 158 de 30.4.2004, p. 7.
+
+> ([^20^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0020)) JO L 376 de 27.12.2006, p. 21.
+
+> ([^21^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0021)) JO L 204 de 31.7.2008, p. 1.
+
+> ([^22^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0022)) JO L 353 de 31.12.2008, p. 1.
+
+> ([^23^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0023)) JO L 309 de 24.11.2009, p. 71.
+
+> ([^24^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0024)) JO L 286 de 31.10.2009, p. 1.
+
+> ([^25^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0025)) JO L 276 de 20.10.2010, p. 33.
+
+> ([^26^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0026)) JO L 334 de 17.12.2010, p. 17.
+
+> ([^27^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0027)) JO L 124 de 20.5.2003, p. 36.
+
+> ([^28^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0028)) JO L 275 de 20.10.2011, p. 38.
+
+> ([^29^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0029)) Regulamento (CEE) n.º 315/93 do Conselho, de 8 de fevereiro de 1993, que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios (JO L 37 de 13.2.1993, p. 1).
+
+> ([^30^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0030)) Regulamento (CE) n.º 396/2005 do Parlamento Europeu e do Conselho, de 23 de fevereiro de 2005, relativo aos limites máximos de resíduos de pesticidas no interior e à superfície dos géneros alimentícios e dos alimentos para animais, de origem vegetal ou animal, e que altera a Diretiva 91/414/CEE do Conselho (JO L 70 de 16.3.2005, p. 1).
+
+> ([^31^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0031)) Regulamento (CE) n.º 470/2009 do Parlamento Europeu e do Conselho, de 6 de maio de 2009, que prevê procedimentos comunitários para o estabelecimento de limites máximos de resíduos de substâncias farmacologicamente ativas nos alimentos de origem animal, que revoga o Regulamento (CEE) n.º 2377/90 do Conselho e que altera a Diretiva 2001/82/CE do Parlamento Europeu e do Conselho e o Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho (JO L 152 de 16.6.2009, p. 11).
+
+> ([^32^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0032)) Diretiva 2002/32/CE do Parlamento Europeu e do Conselho, de 7 de maio de 2002, relativa às substâncias indesejáveis nos alimentos para animais (JO L 140 de 30.5.2002, p. 10).
+
+> ([^33^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0033)) Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho, de 27 de outubro de 2004, relativo aos materiais e objetos destinados a entrar em contacto com os alimentos e que revoga as Diretivas 80/590/CEE e 89/109/CEE (JO L 338 de 13.11.2004, p. 4).
+
+> ([^34^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0034)) JO L 66 de 4.3.2004, p. 45.
+
+> ([^35^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0035)) Orientações sobre partilha de informações estabelecida nos termos do Regulamento (CE) n.º 1907/2006.
+
+> ([^36^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0036)) JO L 218 de 13.8.2008, p. 30.
+
+> ([^37^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0037)) JO L 145 de 31.5.2001, p. 43.
+
+> ([^38^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0038)) Regulamento (CE) n.º 1451/2007 da Comissão, de 4 de dezembro de 2007, relativo à segunda fase do programa de trabalho de 10 anos mencionado no n.º 2 do artigo 16.º da Diretiva 98/8/CE do Parlamento Europeu e do Conselho relativa à colocação de produtos biocidas no mercado (JO L 325 de 11.12.2007, p. 3).
+
+> ([^39^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0051)) Regulamento (CE) n.º 440/2008 da Comissão, de 30 de maio de 2008, que estabelece métodos de ensaio nos termos do Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH) (JO L 142 de 31.5.2008, p. 1).
+
+> ([^40^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0052)) JO L 276 de 20.10.2010, p. 33.
+
+> ([^41^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0053)) JO L 50 de 20.2.2004, p. 44.
+
+> ([^42^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0059)) Regulamento (CE) n.º 440/2008 da Comissão, de 30 de maio de 2008, que estabelece métodos de ensaio nos termos do Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH) (JO L 142 de 31.5.2008, p. 1).
+
+> ([^43^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0061)) Ver definição de grupos vulneráveis no artigo 3.º.
+
+> ([^44^](http://publications.europa.eu/resource/cellar/05042162-9b33-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0062)) JO L 164 de 25.6.2008, p. 19.

@@ -1,0 +1,445 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:312432:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1983-75066596",
+ "dre_path": "/dr/detalhe/lei/4-1983-312432",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1983-04-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75044333",
+    "75044334",
+    "75044335",
+    "75044336",
+    "75044337",
+    "75044338",
+    "75044339",
+    "75044340",
+    "75044341"
+   ]
+  },
+  {
+   "date": "1983-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:441735:por",
+     "title": "Lei n.º 38/83",
+     "published": "1983-10-25",
+     "dre_path": "/dr/detalhe/lei/38-1983-441735"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "75044333",
+    "75044334",
+    "75044335",
+    "75044336",
+    "75044337",
+    "75044338",
+    "75044339",
+    "75044340",
+    "75044352",
+    "75044342"
+   ]
+  },
+  {
+   "date": "1995-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:434633:por",
+     "title": "Lei n.º 25/95",
+     "published": "1995-08-18",
+     "dre_path": "/dr/detalhe/lei/25-1995-434633"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "75044333",
+    "75044364",
+    "75044365",
+    "75044366",
+    "75044367",
+    "75044368",
+    "75044369",
+    "75044370",
+    "75044371",
+    "75044372",
+    "75044373"
+   ]
+  },
+  {
+   "date": "2008-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249976:por",
+     "title": "Lei n.º 19/2008",
+     "published": "2008-04-21",
+     "dre_path": "/dr/detalhe/lei/19-2008-249976"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A"
+   ],
+   "fragments": [
+    "75044333",
+    "75044364",
+    "75044365",
+    "75044366",
+    "75071081",
+    "75044368",
+    "75044374",
+    "75071075",
+    "75071076",
+    "75071077",
+    "75071078",
+    "75071079"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:456541:por",
+     "title": "Lei n.º 30/2008",
+     "published": "2008-07-10",
+     "dre_path": "/dr/detalhe/lei/30-2008-456541",
+     "date": "2008-08-01"
+    }
+   ]
+  },
+  {
+   "date": "2010-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344264:por",
+     "title": "Lei n.º 38/2010",
+     "published": "2010-09-02",
+     "dre_path": "/dr/detalhe/lei/38-2010-344264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "75044333",
+    "75071087",
+    "75071088",
+    "75044366",
+    "75071089",
+    "75044368",
+    "75044374",
+    "75071075",
+    "75071076",
+    "75071077",
+    "75071078",
+    "75071079"
+   ]
+  }
+ ],
+ "fragments": {
+  "75044333": {
+   "fragment_id": "75066597",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 4/83\n\nde 2 de Abril\n\nControle público da riqueza dos titulares de cargos políticos\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º da Constituição, o seguinte:\n\n> Nota: [Artigo 26.º, Lei n.º 52/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2019-123610180) A revogação operada pela Lei 52/2019, de 31 de julho, entra em vigor no primeiro dia da XIV Legislatura da Assembleia da República.\n\n> Nota: [Artigo 24.º, Lei n.º 52/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2019-123610180) Mantêm-se em vigor, até à eventual alteração dos Estatutos Político-Administrativos das Regiões Autónomas, para os titulares de cargos referidos na alínea h) do n.º 1 do artigo 4.º, as disposições que lhe sejam aplicáveis."
+  },
+  "75044334": {
+   "fragment_id": "75066598",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs titulares de cargos políticos devem apresentar, antes do início do exercício das correspondentes funções, ou em caso de urgência, no prazo máximo de 30 dias contados do dia desse mesmo início, uma declaração do seu património e dos seus rendimentos, da qual conste:\n\na) A descrição dos elementos do seu activo patrimonial, ordenados por grandes rubricas, designadamente do património imobiliário, de quotas, acções ou outras partes sociais do capital de sociedades civis ou comerciais, de direitos sobre barcos, aeronaves ou veículos automóveis, de carteiras de títulos, de contas bancárias a prazo e de direitos de crédito de valor superior a 100 salários mínimos, no País ou no estrangeiro;\n\nb) A descrição do respectivo passivo, designadamente em relação ao Estado, a instituições de crédito e a quaisquer empresas, públicas ou privadas, no País ou no estrangeiro;\n\nc) A menção de cargos sociais que exerçam ou tenham exercido nos 2 anos que precederam a declaração em empresas públicas ou privadas, no País ou no estrangeiro;\n\nd) A indicação do rendimento colectável bruto, para efeitos de imposto complementar, bem como dos demais rendimentos, isentos ou não sujeitos ao mesmo imposto, sem inclusão dos rendimentos do cônjuge."
+  },
+  "75044335": {
+   "fragment_id": "75066599",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Idêntica declaração, actualizada, deve ser apresentada dentro do prazo de 60 dias a contar da cessação das funções que tiverem determinado a apresentação da primeira.\n\n2 - No caso de não haver lugar a qualquer actualização, a declaração prevista no número antecedente pode ser substituída pela simples declaração desse facto."
+  },
+  "75044336": {
+   "fragment_id": "75066600",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A não apresentação culposa das declarações previstas nos artigos anteriores, ou a sua inexactidão indesculpável, determinam a pena de demissão do cargo político que o titular exerça e a medida de inibição para o exercício de qualquer outro cargo da mesma natureza pelo período de 1 a 5 anos.\n\n2 - Se o infractor exercer profissionalmente funções públicas de natureza não política, a infracção prevista no n.º 1 será considerada falta grave para efeitos disciplinares."
+  },
+  "75044337": {
+   "fragment_id": "75066601",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - São cargos políticos para os efeitos da presente lei:\n\na) O de Presidente da República;\n\nb) O de deputado à Assembleia da República;\n\nc) O de membro do Governo;\n\nd) O de Ministro da República para as regiões autónomas;\n\ne) O de membro de órgãos de governo próprio das regiões autónomas;\n\nf) O de membro do Conselho de Estado;\n\ng) O de membro do Tribunal Constitucional;\n\nh) O de governador civil;\n\ni) O de presidente e vogal de câmara municipal;\n\nj) Os que, por lei, venham a ser considerados políticos para o efeito da sua equiparação aos aqui previstos.\n\n2 - É equiparado a cargo político, para os efeitos da presente lei, o de gestor de empresa pública."
+  },
+  "75044338": {
+   "fragment_id": "75066602",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As declarações previstas nos artigos 1.º e 2.º, bem como certidão ou fotocópia autenticada das decisões proferidas, no caso da sua falta ou inexactidão, nos termos do artigo 3.º, são entregues ou enviadas ao Tribunal Constitucional, cuja secretaria procederá ao seu registo e ao seu arquivo.\n\n2 - Têm acesso às declarações e decisões previstas no n.º 1 quaisquer cidadãos que justifiquem, perante aquele Tribunal, interesse relevante no respectivo conhecimento, podendo ser dada publicidade, por decisão do mesmo Tribunal, a um extracto das mesmas, nos termos do seu Regimento."
+  },
+  "75044339": {
+   "fragment_id": "75066603",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A publicação, no todo ou em parte, do conteúdo de declaração de património e rendimento não rigorosamente coincidente com o que constar da mesma declaração faz incorrer o infractor na pena de prisão de 1 mês a 2 anos, agravada para o dobro destes limites, em caso de reincidência, sem prejuízo da indemnização do lesado que no caso couber.\n\n2 - No caso de se desconhecer o responsável directo pela publicação referida no n.º 1, responderá pessoalmente, nos termos do mesmo número, o director ou presidente do conselho de gerência do respectivo órgão de comunicação social."
+  },
+  "75044340": {
+   "fragment_id": "75066604",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O Governo, no prazo de 90 dias a contar da entrada em vigor da presente lei, aprovará as disposições necessárias à execução do disposto na presente lei.\n\n2 - As assembleias regionais aprovarão, dentro de igual prazo, as disposições necessárias ao mesmo fim, na esfera da sua competência própria."
+  },
+  "75044341": {
+   "fragment_id": "75066605",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A presente lei entra em vigor no 90.º dia posterior ao da sua publicação.\n\n2 - Os titulares de cargos políticos à data da sua entrada em vigor apresentarão a respectiva declaração de património e rendimentos dentro do prazo de 90 dias a contar daquela data.\n\n> Nota: [Artigo Ùnico, Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735) O prazo referido no n.º 2 entra em vigor na data de entrega em vigor dos diplomas regulamentares previstos nos n.os 1 e 2 do artigo 7.º da presente lei."
+  },
+  "75044352": {
+   "fragment_id": "75066605",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1983-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo Ùnico do/a [Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735), em vigor a partir de 1983-10-29"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - A presente lei entra em vigor no 90.º dia posterior ao da sua publicação.\n\n2 - Os titulares de cargos políticos à data da sua entrada em vigor apresentarão a respectiva declaração de património e rendimentos dentro do prazo de 90 dias a contar daquela data.\n\n> Nota: [Artigo Ùnico, Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735) O prazo referido no n.º 2 entra em vigor na data de entrega em vigor dos diplomas regulamentares previstos nos n.os 1 e 2 do artigo 7.º da presente lei.\n\n> Alterado pelo/a Artigo Ùnico do/a [Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735), em vigor a partir de 1983-10-29"
+  },
+  "75044342": {
+   "fragment_id": "75066606",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Fevereiro de 1983.\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 26 de Fevereiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 3 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "75044364": {
+   "fragment_id": "75066598",
+   "type": 11,
+   "heading": "Artigo 1.º — Prazo e conteúdo",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 1.º — Prazo e conteúdo\n\nOs titulares de cargos políticos apresentam no Tribunal Constitucional, no prazo de 60 dias contado da data do início do exercício das respectivas funções, declaração dos seus rendimentos, bem como do seu património e cargos sociais, da qual conste:\n\na) A indicação total dos rendimentos brutos constantes da última declaração apresentada para efeitos da liquidação do imposto sobre o rendimento das pessoas singulares, ou que da mesma, quando dispensada, devessem constar;\n\nb) A descrição dos elementos do seu activo patrimonial, existentes no País ou no estrangeiro, ordenados por grandes rubricas, designadamente do património imobiliário, de quotas, acções ou outras partes sociais do capital de sociedades civis ou comerciais, de direitos sobre barcos, aeronaves ou veículos automóveis, bem como de carteiras de títulos, contas bancárias a prazo, aplicações financeiras equivalentes e direitos de crédito de valor superior a 50 salários mínimos;\n\nc) A descrição do seu passivo, designadamente em relação ao Estado, a instituições de crédito e a quaisquer empresas, públicas ou privadas, no País ou no estrangeiro;\n\nd) A menção de cargos sociais que exerçam ou tenham exercido nos dois anos que precederam a declaração, no País ou no estrangeiro, em empresas, fundações ou associações de direito público e, sendo os mesmos remunerados, em fundações ou associações de direito privado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044365": {
+   "fragment_id": "75066599",
+   "type": 11,
+   "heading": "Artigo 2.º — Actualização",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 2.º — Actualização\n\n1 - Nova declaração, actualizada, é apresentada no prazo de 60 dias a contar da cessação das funções que tiverem determinado a apresentação da precedente, bem como de recondução ou reeleição do titular.\n\n2 - Em caso de substituição de Deputados, tanto o que substitui como o substituído só devem apresentar a declaração referida no n.º 1 no fim da legislatura, a menos que entretanto renunciem ao mandato.\n\n3 - Os titulares de cargos políticos e equiparados com funções executivas devem renovar anualmente as respectivas declarações.\n\n4 - Não havendo lugar a actualização da anterior declaração, quaisquer declarações subsequentes poderão ser substituídas pela simples menção desse facto.\n\n5 - A declaração final deve reflectir a evolução patrimonial durante o mandato a que respeita.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044366": {
+   "fragment_id": "75066600",
+   "type": 11,
+   "heading": "Artigo 3.º — Incumprimento",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 3.º — Incumprimento\n\n1 - Em caso de não apresentação das declarações previstas nos artigos 1.º e 2.º, a entidade competente para o seu depósito notificará o titular do cargo a que se aplica a presente lei para a apresentar no prazo de 30 dias consecutivos, sob pena de, em caso de incumprimento culposo, salvo quanto ao Presidente da República, ao Presidente da Assembleia da República e ao Primeiro-Ministro, incorrer em declaração de perda do mandato, demissão ou destituição judicial, consoante os casos, ou, quando se trate da situação prevista na primeira parte do n.º 1 do artigo 2.º, incorrer em inibição por período de um a cinco anos para o exercício de cargo que obrigue à referida declaração e que não corresponda ao exercício de funções como magistrado de carreira.\n\n2 - Quem fizer declaração falsa incorre nas sanções previstas no número anterior e é punido pelo crime de falsas declarações, nos termos da lei.\n\n3 - As secretarias administrativas das entidades em que se integrem os titulares de cargos a que se aplica a presente lei comunicarão ao Tribunal Constitucional a data do início e da cessação de funções.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044367": {
+   "fragment_id": "75066601",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - São cargos políticos para os efeitos da presente lei:\n\na) O de Presidente da República;\n\nb) O de deputado à Assembleia da República;\n\nc) O de membro do Governo;\n\nd) O de Ministro da República para as regiões autónomas;\n\ne) O de membro de órgãos de governo próprio das regiões autónomas;\n\nf) O de membro do Conselho de Estado;\n\ng) O de membro do Tribunal Constitucional;\n\nh) O de governador civil;\n\ni) O de presidente e vogal de câmara municipal;\n\nj) Os que, por lei, venham a ser considerados políticos para o efeito da sua equiparação aos aqui previstos.\n\n2 - É equiparado a cargo político, para os efeitos da presente lei, o de gestor de empresa pública.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044368": {
+   "fragment_id": "75066602",
+   "type": 11,
+   "heading": "Artigo 5.º — Consulta",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 5.º — Consulta\n\n1 - Qualquer cidadão pode consultar as declarações e decisões previstas na presente lei.\n\n2 - O Tribunal Constitucional define, nos termos do respectivo Regimento, a forma como é organizada a consulta às declarações e decisões previstas na presente lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044369": {
+   "fragment_id": "75066603",
+   "type": 11,
+   "heading": "Artigo 6.º — Divulgação",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 6.º — Divulgação\n\n1 - A divulgação do conteúdo das declarações previstas na presente lei é livre.\n\n2 - Com fundamento em motivo relevante, designadamente interesses de terceiros, o titular do cargo pode opor-se à divulgação parcelar ou integral a que se refere o número anterior, competindo ao Tribunal Constitucional apreciar a existência ou não do aludido motivo, bem como da possibilidade e dos termos da referida divulgação.\n\n3 - Cabe ao declarante, no acto de apresentação da sua declaração inicial ou posteriormente, a iniciativa de invocar objecção nos termos e para os efeitos do número anterior.\n\n4 - A violação da reserva da vida privada eventualmente resultante da violação dos números anteriores será punida nos termos legais, designadamente segundo o disposto nos artigos 192.º e 193.º do Código Penal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044370": {
+   "fragment_id": "75070852",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Omissão ou inexactidão",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 6.º-A — Omissão ou inexactidão\n\nSem prejuízo das competências cometidas por lei a outras entidades, quando, por qualquer modo, seja comunicada ou denunciada ao Tribunal Constitucional a ocorrência de alguma omissão ou inexactidão nas declarações previstas nos artigos 1.º e 2.º, o respectivo Presidente levará tal comunicação ou denúncia ao conhecimento do representante do Ministério Público junto do mesmo Tribunal, para os efeitos tidos por convenientes.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044371": {
+   "fragment_id": "75066604",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O Governo, no prazo de 90 dias a contar da entrada em vigor da presente lei, aprovará as disposições necessárias à execução do disposto na presente lei.\n\n2 - As assembleias regionais aprovarão, dentro de igual prazo, as disposições necessárias ao mesmo fim, na esfera da sua competência própria."
+  },
+  "75044372": {
+   "fragment_id": "75066605",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo Ùnico do/a [Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735), em vigor a partir de 1983-10-29"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - A presente lei entra em vigor no 90.º dia posterior ao da sua publicação.\n\n2 - Os titulares de cargos políticos à data da sua entrada em vigor apresentarão a respectiva declaração de património e rendimentos dentro do prazo de 90 dias a contar daquela data.\n\n> Nota: [Artigo Ùnico, Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735) O prazo referido no n.º 2 entra em vigor na data de entrega em vigor dos diplomas regulamentares previstos nos n.os 1 e 2 do artigo 7.º da presente lei.\n\n> Alterado pelo/a Artigo Ùnico do/a [Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735), em vigor a partir de 1983-10-29"
+  },
+  "75044373": {
+   "fragment_id": "75066606",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Fevereiro de 1983.\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 26 de Fevereiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 3 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "75071081": {
+   "fragment_id": "75066601",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2008-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541), em vigor a partir de 2008-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - São cargos políticos para os efeitos da presente lei:\n\na) O de Presidente da República;\n\nb) O de deputado à Assembleia da República;\n\nc) O de membro do Governo;\n\nd) O de Ministro da República para as regiões autónomas;\n\ne) O de membro de órgãos de governo próprio das regiões autónomas;\n\nf) O de membro do Conselho de Estado;\n\ng) O de membro do Tribunal Constitucional;\n\nh) O de governador civil;\n\ni) O de presidente e vogal de câmara municipal;\n\nj) Os que, por lei, venham a ser considerados políticos para o efeito da sua equiparação aos aqui previstos.\n\n2 - É equiparado a cargo político, para os efeitos da presente lei, o de gestor de empresa pública.\n\n> Alterado pelo/a Artigo 24.º do/a [Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541), em vigor a partir de 2008-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75044374": {
+   "fragment_id": "75070853",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Fiscalização",
+   "in_force_from": "2008-07-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-07-20"
+   ],
+   "markdown": "###### Artigo 5.º-A — Fiscalização\n\nO Ministério Público junto do Tribunal Constitucional procede anualmente à análise das declarações apresentadas após o termo dos mandatos ou a cessação de funções dos respectivos titulares.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-07-20"
+  },
+  "75071075": {
+   "fragment_id": "75066603",
+   "type": 11,
+   "heading": "Artigo 6.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 6.º — Divulgação\n\n1 - A divulgação do conteúdo das declarações previstas na presente lei é livre.\n\n2 - Com fundamento em motivo relevante, designadamente interesses de terceiros, o titular do cargo pode opor-se à divulgação parcelar ou integral a que se refere o número anterior, competindo ao Tribunal Constitucional apreciar a existência ou não do aludido motivo, bem como da possibilidade e dos termos da referida divulgação.\n\n3 - Cabe ao declarante, no acto de apresentação da sua declaração inicial ou posteriormente, a iniciativa de invocar objecção nos termos e para os efeitos do número anterior.\n\n4 - A violação da reserva da vida privada eventualmente resultante da violação dos números anteriores será punida nos termos legais, designadamente segundo o disposto nos artigos 192.º e 193.º do Código Penal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75071076": {
+   "fragment_id": "75070852",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Omissão ou inexactidão",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 6.º-A — Omissão ou inexactidão\n\nSem prejuízo das competências cometidas por lei a outras entidades, quando, por qualquer modo, seja comunicada ou denunciada ao Tribunal Constitucional a ocorrência de alguma omissão ou inexactidão nas declarações previstas nos artigos 1.º e 2.º, o respectivo Presidente levará tal comunicação ou denúncia ao conhecimento do representante do Ministério Público junto do mesmo Tribunal, para os efeitos tidos por convenientes.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75071077": {
+   "fragment_id": "75066604",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O Governo, no prazo de 90 dias a contar da entrada em vigor da presente lei, aprovará as disposições necessárias à execução do disposto na presente lei.\n\n2 - As assembleias regionais aprovarão, dentro de igual prazo, as disposições necessárias ao mesmo fim, na esfera da sua competência própria."
+  },
+  "75071078": {
+   "fragment_id": "75066605",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo Ùnico do/a [Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735), em vigor a partir de 1983-10-29"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - A presente lei entra em vigor no 90.º dia posterior ao da sua publicação.\n\n2 - Os titulares de cargos políticos à data da sua entrada em vigor apresentarão a respectiva declaração de património e rendimentos dentro do prazo de 90 dias a contar daquela data.\n\n> Nota: [Artigo Ùnico, Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735) O prazo referido no n.º 2 entra em vigor na data de entrega em vigor dos diplomas regulamentares previstos nos n.os 1 e 2 do artigo 7.º da presente lei.\n\n> Alterado pelo/a Artigo Ùnico do/a [Lei n.º 38/83 - Diário da República n.º 246/1983, Série I de 1983-10-25](https://diariodarepublica.pt/dr/detalhe/lei/38-1983-441735), em vigor a partir de 1983-10-29"
+  },
+  "75071079": {
+   "fragment_id": "75066606",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Fevereiro de 1983.\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 26 de Fevereiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 3 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "75071087": {
+   "fragment_id": "75066598",
+   "type": 11,
+   "heading": "Artigo 1.º — Prazo e conteúdo",
+   "in_force_from": "2010-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 38/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2010-344264), em vigor a partir de 2010-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 1.º — Prazo e conteúdo\n\nOs titulares de cargos políticos e equiparados e os titulares de altos cargos públicos apresentam no Tribunal Constitucional, no prazo de 60 dias contado da data de início do exercício das respectivas funções, declaração dos seus rendimentos, bem como do seu património e cargos sociais, da qual constem:\n\na) A indicação total dos rendimentos brutos constantes da última declaração apresentada para efeitos da liquidação do imposto sobre o rendimento das pessoas singulares, ou que da mesma, quando dispensada, devessem constar;\n\nb) A descrição dos elementos do seu activo patrimonial, existentes no País ou no estrangeiro, ordenados por grandes rubricas, designadamente do património imobiliário, de quotas, acções ou outras partes sociais do capital de sociedades civis ou comerciais, de direitos sobre barcos, aeronaves ou veículos automóveis, bem como de carteiras de títulos, contas bancárias a prazo, aplicações financeiras equivalentes e desde que superior a 50 salários mínimos, contas bancárias à ordem e direitos de crédito;\n\nc) A descrição do seu passivo, designadamente em relação ao Estado, a instituições de crédito e a quaisquer empresas, públicas ou privadas, no País ou no estrangeiro;\n\nd) A menção de cargos sociais que exerçam ou tenham exercido nos dois anos que precederam a declaração, no País ou no estrangeiro, em empresas, fundações ou associações de direito público e, sendo os mesmos remunerados, em fundações ou associações de direito privado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 38/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2010-344264), em vigor a partir de 2010-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75071088": {
+   "fragment_id": "75066599",
+   "type": 11,
+   "heading": "Artigo 2.º — Actualização",
+   "in_force_from": "2010-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 38/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2010-344264), em vigor a partir de 2010-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 2.º — Actualização\n\n1 - Nova declaração, actualizada, é apresentada no prazo de 60 dias a contar da cessação das funções que tiverem determinado a apresentação da precedente, bem como de recondução ou reeleição do titular.\n\n2 - Em caso de substituição de Deputados, tanto o que substitui como o substituído só devem apresentar a declaração referida no n.º 1 no fim da legislatura, a menos que entretanto renunciem ao mandato.\n\n3 - Sempre que no decurso do exercício de funções se verifique um acréscimo patrimonial efectivo que altere o valor declarado referente a alguma das alíneas do artigo anterior em montante superior a 50 salários mínimos mensais, deve o titular actualizar a respectiva declaração.\n\n4 - A declaração final deve reflectir a evolução patrimonial durante o mandato a que respeita.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 38/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2010-344264), em vigor a partir de 2010-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  },
+  "75071089": {
+   "fragment_id": "75066601",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2010-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 38/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2010-344264), em vigor a partir de 2010-11-01",
+    "Alterado pelo/a Artigo 24.º do/a [Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541), em vigor a partir de 2008-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - São cargos políticos para os efeitos da presente lei:\n\na) O de Presidente da República;\n\nb) O de deputado à Assembleia da República;\n\nc) O de membro do Governo;\n\nd) O de Ministro da República para as regiões autónomas;\n\ne) O de membro de órgãos de governo próprio das regiões autónomas;\n\nf) O de membro do Conselho de Estado;\n\ng) O de membro do Tribunal Constitucional;\n\nh) O de governador civil;\n\ni) O de presidente e vogal de câmara municipal;\n\nj) Os que, por lei, venham a ser considerados políticos para o efeito da sua equiparação aos aqui previstos.\n\n2 - É equiparado a cargo político, para os efeitos da presente lei, o de gestor de empresa pública.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 38/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/38-2010-344264), em vigor a partir de 2010-11-01\n\n> Alterado pelo/a Artigo 24.º do/a [Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541), em vigor a partir de 2008-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 25/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/25-1995-434633), em vigor a partir de 1995-11-16"
+  }
+ }
+}

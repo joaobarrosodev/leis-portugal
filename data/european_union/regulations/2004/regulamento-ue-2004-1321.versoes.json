@@ -1,0 +1,448 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R1321:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1321-20101109",
+ "dre_path": null,
+ "source_lastmod": "2010-11-09",
+ "versions": [
+  {
+   "date": "2006-05-30",
+   "future": false,
+   "celex": "32004R1321",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1debfa7b22b49078",
+    "6668541c23b2e4bf",
+    "0856467e8f26f3c8",
+    "46f60915d737f957",
+    "10db5c13c665124f",
+    "e9371f3cc9c9a1d6",
+    "0af988d70add2671",
+    "4a31f505295d731d",
+    "b1295368cf4b7e96",
+    "3548792ddc91e6b7",
+    "0a0d192ca44ee5c8",
+    "d6e602e06b089232",
+    "38b050125ab4cdfa",
+    "367973bce5b7865b",
+    "2f286e3fd145455b",
+    "4719100dd6839de2",
+    "d187700fe0747edc",
+    "56543ac9a2c9085e",
+    "4b0e38bd1a0a3c35",
+    "439cf35545e80799",
+    "affa653627416149",
+    "aeb16add250d8a5c",
+    "227a32a02c19fd71",
+    "82a0da6e57ff7ffd",
+    "15bafd9057a91c00"
+   ]
+  },
+  {
+   "date": "2006-12-22",
+   "future": false,
+   "celex": "02004R1321-20061222",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1942:por",
+     "title": "REGULAMENTO (CE) N. o 1942/2006 DO CONSELHO de 12 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R1942"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Funções",
+    "Altera Artigo 3.º — Propriedade",
+    "Altera Artigo 5.º — Conselho de Administração",
+    "Altera Artigo 10.º — Comité de Protecção e Segurança do Sistema",
+    "Altera Artigo 13.º — Disposições financeiras",
+    "Altera Artigo 14.º — Luta contra a fraude",
+    "Altera Artigo 18.º — Regime linguístico",
+    "Altera Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal",
+    "Altera Artigo 20.º — Regras de segurança",
+    "Altera Artigo 23.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "c5391de53dd8ecab",
+    "b303e98f6c4f72fe",
+    "71d8d5ff35ecf389",
+    "c6b91a65f0395710",
+    "10db5c13c665124f",
+    "d53d0f5781df297b",
+    "0af988d70add2671",
+    "4a31f505295d731d",
+    "b1295368cf4b7e96",
+    "3548792ddc91e6b7",
+    "ba25e1a1eb9218f5",
+    "d6e602e06b089232",
+    "38b050125ab4cdfa",
+    "f70e8cad8400fd62",
+    "2b4e33ede4daa7d8",
+    "4719100dd6839de2",
+    "d187700fe0747edc",
+    "56543ac9a2c9085e",
+    "a926e5398ec572a6",
+    "2f62cdf1d047ec13",
+    "6e061bf4a1c31341",
+    "aeb16add250d8a5c",
+    "227a32a02c19fd71",
+    "aa638027c6e5fb79",
+    "48bccc05fb4576df"
+   ]
+  },
+  {
+   "date": "2010-11-09",
+   "future": false,
+   "celex": "02004R1321-20101109",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Funções",
+    "Suprime Artigo 3.º — Propriedade",
+    "Suprime Artigo 4.º — Estatuto jurídico, delegações locais",
+    "Suprime Artigo 5.º — Conselho de Administração",
+    "Suprime Artigo 6.º — Funções do Conselho de Administração",
+    "Suprime Artigo 7.º — Director executivo",
+    "Suprime Artigo 8.º — Funções do director executivo",
+    "Suprime Artigo 9.º — Comité Científico e Técnico",
+    "Suprime Artigo 10.º — Comité de Protecção e Segurança do Sistema",
+    "Suprime Artigo 11.º — Orçamento",
+    "Suprime Artigo 12.º — Execução e controlo do orçamento",
+    "Suprime Artigo 13.º — Disposições financeiras",
+    "Suprime Artigo 14.º — Luta contra a fraude",
+    "Suprime Artigo 15.º — Privilégios e imunidades",
+    "Suprime Artigo 16.º — Pessoal",
+    "Suprime Artigo 17.º — Responsabilidade",
+    "Suprime Artigo 18.º — Regime linguístico",
+    "Suprime Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal",
+    "Suprime Artigo 20.º — Regras de segurança",
+    "Suprime Artigo 21.º — Participação de países terceiros",
+    "Suprime Artigo 22.º — Aspectos relacionados com a segurança da União Europeia ou dos seus Estados-Membros",
+    "Suprime Artigo 23.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f612308ea3482f8c"
+   ]
+  }
+ ],
+ "fragments": {
+  "1debfa7b22b49078": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Julho de 2004\n\nrelativo às estruturas de gestão dos programas europeus de radionavegação por satélite\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr1-L_2004246PT.01000101-E0001),\n\nConsiderando o seguinte:\n\n(1) A política europeia de radionavegação por satélite é actualmente implementada pelos programas EGNOS e GALILEO.\n\n(2) O programa GALILEO é o primeiro programa espacial europeu financiado e gerido pela União Europeia em associação com a Agência Espacial Europeia (ESA). O programa permitirá desenvolver inúmeras aplicações em domínios directa ou indirectamente decorrentes das políticas comunitárias, como, por exemplo, transportes (localização e medição da velocidade dos veículos), seguros, portagens, justiça (controlo de suspeitos, luta contra a criminalidade), serviços aduaneiros (inquéritos no terreno, etc.), agricultura (ajustamento das doses de adubos ou de pesticidas em função dos terrenos, etc.), pescas (controlo dos movimentos dos navios).\n\n(3) O programa EGNOS é um programa tripartido promovido pela Comunidade Europeia, pela ESA e pelo Eurocontrol e destina-se a reforçar os sinais do GPS americano e do GLONASS russo, a fim de aumentar a fiabilidade numa vasta área geográfica. É simultaneamente independente e complementar do programa GALILEO.\n\n(4) As conclusões dos Conselhos Europeus de Colónia (3 e 4 de Junho de 1999), de Santa Maria da Feira (19 e 20 de Junho de 2000), de Nice (7 a 11 de Dezembro de 2000), de Estocolmo (23 e 24 de Março de 2001), de Laeken (14 e 15 de Dezembro de 2001), de Barcelona (15 e 16 de Março de 2002) e de Bruxelas (20 e 21 de Março de 2003) sublinharam o carácter estratégico do programa GALILEO.\n\n(5) Devido ao carácter estratégico do sistema europeu de radionavegação por satélite e à necessidade de garantir que os interesses públicos sejam adequadamente defendidos e representados, é imperativo enquadrar as próximas fases do sistema e a utilização dos fundos comunitários atribuídos aos programas, de acordo com as orientações políticas pertinentes do Conselho e as decisões das autoridades orçamentais em matéria financeira. Deverá, por conseguinte, ser criada uma Autoridade Europeia Supervisora do Sistema Global de Navegação por Satélite (GNSS) (a seguir designada «Autoridade»).\n\n(6) Em diversas ocasiões, nomeadamente, nas conclusões de 5 de Abril de 2001 e de 26 de Março de 2002, o Conselho sublinhou que a participação substancial do sector privado constitui um elemento fundamental para o êxito do programa GALILEO nas suas fases de implantação e de exploração.\n\n(7) Para atingir esse objectivo, a Autoridade deverá celebrar um contrato de concessão com o consórcio que for seleccionado no termo da fase de desenvolvimento do programa GALILEO e garantir que esse consórcio cumpra as obrigações — nomeadamente de serviço público — dele decorrentes.\n\n(8) A Autoridade deverá ser o interlocutor único do concessionário em matéria de frequências.\n\n(9) Paralelamente, os Estados-Membros que tenham depositado junto da União Internacional das Telecomunicações os *dossiers* relativos à utilização das frequências necessárias para o funcionamento do sistema deverão autorizar a Autoridade a ceder o direito da sua utilização ao concessionário pelo período de duração da concessão, para que este possa fornecer os serviços exigidos pelo caderno de encargos.\n\n(10) Competirá à Autoridade garantir a gestão e o controlo da utilização dos fundos que lhe serão especificamente atribuídos para os programas.\n\n(11) A Autoridade deverá poder prestar assistência à Comissão nos domínios respeitantes à radionavegação por satélite, nomeadamente se houver necessidade de adoptar medidas legislativas ou regulamentares.\n\n(12) A Autoridade deverá utilizar a investigação em curso e as actividades de avaliação em matéria de desenvolvimento e tecnologia, nomeadamente as realizadas pela Agência Espacial Europeia. Tendo em conta a resolução do Conselho de 16 de Novembro de 2000 sobre a estratégia espacial europeia [([^2])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr2-L_2004246PT.01000101-E0002), a cooperação com a ESA deverá, quando tal seja pertinente, explorar plenamente as possibilidades proporcionadas pelo acordo-quadro entre a Comunidade Europeia e a Agência Espacial Europeia.\n\n(13) A Autoridade deverá proteger e valorizar o investimento comunitário já realizado em tecnologias e infra-estruturas espaciais.\n\n(14) Após a sua dissolução, a empresa comum GALILEO deverá, nos termos das disposições pertinentes do seu estatuto, transferir para a Autoridade todos os bens que tenha adquirido. Todos os activos desenvolvidos pelo concessionário durante a fase de implantação devem transitar para a Autoridade, excepto decisão prévia em contrário, uma vez que as fases de definição, de desenvolvimento e de validação do programa foram quase inteiramente financiadas por fundos públicos, e todos os elementos assim desenvolvidos devem ser colocados à disposição do concessionário.\n\n(15) O estatuto jurídico da Autoridade deverá permitir-lhe agir como pessoa colectiva no exercício das suas funções.\n\n(16) A fim de assegurar eficazmente o desempenho das funções da Autoridade, os Estados-Membros e a Comissão deverão estar representados num conselho de administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, estabelecer um procedimento transparente para a tomada de decisões pela Autoridade, aprovar o programa de trabalho e designar o director executivo.\n\n(17) O bom funcionamento da Autoridade exige que o seu director executivo seja designado com base no mérito e em capacidades administrativas e de gestão documentadas, bem como na competência e na experiência, e que desempenhe os seus deveres com total independência e flexibilidade no que se refere à organização do funcionamento interno da Autoridade. O director executivo deverá preparar e efectuar as diligências necessárias para assegurar a correcta concretização do programa de trabalho da Autoridade, elaborar anualmente um projecto de relatório geral a apresentar ao conselho de administração, elaborar um projecto de previsão de receitas e despesas da Autoridade e dar execução ao orçamento.\n\n(18) Os procedimentos de nomeação dos titulares dos cargos devem ser transparentes.\n\n(19) O conselho de administração deverá ter a possibilidade de criar um comité técnico e científico que eventualmente assista a Autoridade em questões técnicas e na modernização do sistema.\n\n(20) Deverá ser criado um comité de protecção e segurança que assista a Autoridade em todos os aspectos relacionados com a segurança e a protecção do sistema.\n\n(21) A fim de garantir a plena autonomia e a independência da Autoridade, considera-se necessário conceder-lhe um orçamento autónomo cujas receitas provenham essencialmente de um contributo da Comunidade. O processo orçamental comunitário continua a ser aplicável a quaisquer subsídios imputáveis ao orçamento geral da União Europeia. Além disso, o Tribunal de Contas deverá encarregar-se da auditoria.\n\n(22) No seu âmbito, nos seus objectivos e no desempenho das suas funções, a Autoridade deverá cumprir nomeadamente as disposições aplicáveis às instituições comunitárias.\n\n(23) A Autoridade deverá aplicar a legislação comunitária pertinente relativa ao acesso do público a documentos e à protecção das pessoas no que se refere ao tratamento de dados pessoais e respeitar os princípios de segurança aplicáveis ao Conselho e aos serviços da Comissão.\n\n(24) Os países terceiros devem poder participar na Autoridade, desde que concluam previamente um acordo nesse sentido com a Comunidade, nomeadamente se esses países tiverem participado nas fases precedentes do programa através da sua contribuição para o programa GALILEOSAT da ESA.\n\n(25) O GNSS deve ser considerado uma infra-estrutura sensível em termos de segurança e fiabilidade.\n\n(26) Deve-se elaborar medidas que garantam a protecção e a fiabilidade do sistema contra ataques (mal intencionados ou não) e impeçam a sua utilização para fins susceptíveis de afectar a segurança da União Europeia e dos seus Estados-Membros.\n\n(27) O procedimento previsto na Acção Comum 2004/552/PESC do Conselho, de 12 de Julho de 2004, relativa a aspectos do funcionamento do sistema europeu de radionavegação por satélite que afectam a segurança da União Europeia [([^3])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr3-L_2004246PT.01000101-E0003), será aplicável nos casos em que um Estado-Membro considere a sua segurança nacional ameaçada.\n\n(28) O Tratado não prevê outros poderes, para além dos do seu artigo 308.º, para a aprovação do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6668541c23b2e4bf": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento cria uma agência comunitária designada por Autoridade Europeia Supervisora do GNSS (a seguir designada «Autoridade») com a função de assegurar a gestão dos interesses públicos relativos aos programas europeus de radionavegação por satélite (GNSS) e de desempenhar o papel de entidade reguladora desses programas."
+  },
+  "0856467e8f26f3c8": {
+   "fragment_id": "Artigo 2.º — Funções",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções\n\n1. A Autoridade exercerá as seguintes funções:\n\na) Actuará como autoridade outorgante em relação ao concessionário privado encarregado da execução e da gestão das fases de implantação e exploração do programa GALILEO (a seguir designado «concessionário»); a esse título, celebrará com este último o contrato de concessão; garantirá o respeito, pelo concessionário, do contrato de concessão e do caderno de encargos anexo e tomará todas as medidas adequadas para assegurar a continuidade dos serviços em caso de incumprimento por parte do concessionário; cederá ao concessionário o direito de utilização, durante o período em que durar a concessão, dos activos corpóreos e incorpóreos mencionados no n.º 1 do artigo 3.º;\n\nb) Gerirá os fundos que lhe forem especificamente atribuídos para os programas europeus do GNSS e monitorizará a gestão financeira global a fim de dar parecer sobre as contribuições do sector público;\n\nc) Ser-lhe-á conferida a responsabilidade — herdada da empresa comum GALILEO — de gerir o acordo com o operador económico encarregado da operação do EGNOS e de apresentar um enquadramento sobre as futuras opções políticas relativas ao sistema EGNOS, tendo devidamente em conta a opinião das partes que contribuíram para o financiamento das fases de desenvolvimento e execução do sistema EGNOS;\n\nd) Coordenará as acções dos Estados-Membros relativamente às frequências necessárias ao funcionamento do sistema; terá o direito de utilizar todas essas frequências independentemente da sua própria localização; será a interlocutora directa do concessionário em matéria de utilização dessas frequências;\n\ne) Elaborará projectos tendo em vista assistir a Comissão na elaboração de propostas relativas aos programas europeus de GNSS, a apresentar ao Parlamento Europeu e ao Conselho, e na adopção de regras de execução;\n\nf) Será responsável pela modernização e pelo desenvolvimento de novas gerações do sistema;\n\ng) Poderá desempenhar tarefas de execução orçamental, que lhe sejam confiadas pela Comissão, associadas aos programas europeus de GNSS, segundo o disposto na alínea b) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^4])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr4-L_2004246PT.01000101-E0004),\n\nh) Assegurará que os componentes do sistema sejam devidamente certificados; delegará nos organismos de certificação autorizados a emissão dos certificados pertinentes e a monitorização do cumprimento das normas e especificações técnicas;\n\ni) Aplicará as instruções emitidas em conformidade com a Acção Comum 2004/552/PESC e verificará o seu cumprimento pelo concessionário;\n\nj) Sem prejuízo do disposto no artigo 22.º, gerirá todos os aspectos relacionados com a segurança do sistema, nomeadamente: i) aprovará os anexos de segurança dos contratos industriais, ii) definirá as especificações de segurança do sistema e dos seus componentes, bem como as normas de segurança para as técnicas de informação, iii) definirá a criptografia que necessitar de aprovação governamental, iv) assegurará que os sinais/serviços do GNSS europeu sejam controlados em conformidade com os critérios de segurança referidos nos pontos i) e ii), v) será a autoridade de acreditação da segurança do GNSS europeu, iniciará e monitorizará a implementação de procedimentos de segurança e efectuará auditorias da segurança do sistema, vi) no tocante ao serviço público regulado (PRS): — definirá as especificações e instruções para o fabrico de receptores PRS, de acordo com a política de acesso ao PRS definido pelo Conselho, — elaborará orientações para a implementação das regras de gestão PRS nos Estados-Membros, vii) providenciará a aplicação e verificará o cumprimento por parte do concessionário das regras e acordos internacionais (Wassenaar, Regime de Controlo de Tecnologia de Mísseis, acordos internacionais, …), viii) implementará as disposições pertinentes relativas à troca, ao tratamento e à conservação de informações classificadas, ix) desenvolverá procedimentos de coordenação e consulta sobre questões relacionadas com a segurança, juntamente com o secretário-geral do Conselho da União Europeia, alto representante para a política externa e de segurança comum (SG/AR), x) identificará e informará o Conselho sobre eventuais medidas que possam ser tomadas pelo Conselho em caso de ameaça à segurança da União Europeia ou dum Estado-Membro, decorrentes da operação ou da utilização do sistema, ou em caso de ameaça à operação do sistema, devido nomeadamente a uma crise internacional, xi) dará parecer ao Conselho quando para tal convidada nos termos da Acção Comum 2004/552/PESC, xii) dará parecer sobre questões de política de segurança em acordos internacionais relacionados com os programas europeus GNSS.\n\ni) aprovará os anexos de segurança dos contratos industriais,\n\nii) definirá as especificações de segurança do sistema e dos seus componentes, bem como as normas de segurança para as técnicas de informação,\n\niii) definirá a criptografia que necessitar de aprovação governamental,\n\niv) assegurará que os sinais/serviços do GNSS europeu sejam controlados em conformidade com os critérios de segurança referidos nos pontos i) e ii),\n\nv) será a autoridade de acreditação da segurança do GNSS europeu, iniciará e monitorizará a implementação de procedimentos de segurança e efectuará auditorias da segurança do sistema,\n\nvi) no tocante ao serviço público regulado (PRS): — definirá as especificações e instruções para o fabrico de receptores PRS, de acordo com a política de acesso ao PRS definido pelo Conselho, — elaborará orientações para a implementação das regras de gestão PRS nos Estados-Membros,\n\n— definirá as especificações e instruções para o fabrico de receptores PRS, de acordo com a política de acesso ao PRS definido pelo Conselho,\n\n— elaborará orientações para a implementação das regras de gestão PRS nos Estados-Membros,\n\nvii) providenciará a aplicação e verificará o cumprimento por parte do concessionário das regras e acordos internacionais (Wassenaar, Regime de Controlo de Tecnologia de Mísseis, acordos internacionais, …),\n\nviii) implementará as disposições pertinentes relativas à troca, ao tratamento e à conservação de informações classificadas,\n\nix) desenvolverá procedimentos de coordenação e consulta sobre questões relacionadas com a segurança, juntamente com o secretário-geral do Conselho da União Europeia, alto representante para a política externa e de segurança comum (SG/AR),\n\nx) identificará e informará o Conselho sobre eventuais medidas que possam ser tomadas pelo Conselho em caso de ameaça à segurança da União Europeia ou dum Estado-Membro, decorrentes da operação ou da utilização do sistema, ou em caso de ameaça à operação do sistema, devido nomeadamente a uma crise internacional,\n\nxi) dará parecer ao Conselho quando para tal convidada nos termos da Acção Comum 2004/552/PESC,\n\nxii) dará parecer sobre questões de política de segurança em acordos internacionais relacionados com os programas europeus GNSS.\n\n2. A ESA será solicitada a prestar à Autoridade todo o apoio científico e técnico."
+  },
+  "46f60915d737f957": {
+   "fragment_id": "Artigo 3.º — Propriedade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Propriedade\n\n1. A Autoridade será proprietária de todos os activos corpóreos e incorpóreos que lhe forem cedidos pela empresa comum GALILEO concluída a fase de desenvolvimento e que forem criados ou desenvolvidos pelo concessionário durante as fases de implantação e exploração.\n\n2. As modalidades das transferências de propriedade daí resultantes serão estabelecidas, no que respeita à empresa comum GALILEO, aquando do procedimento de dissolução previsto no artigo 21.º dos estatutos da empresa comum GALILEO anexados ao Regulamento (CE) n.º 876/2002 [([^5])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr5-L_2004246PT.01000101-E0005) e, no que respeita ao concessionário, no contrato de concessão.\n\n3. A Autoridade será proprietária de todos os activos corpóreos e incorpóreos EGNOS sujeitos a acordo com os investidores EGNOS sobre os termos e condições da transferência da ESA da propriedade de todas ou parte das instalações e equipamentos EGNOS."
+  },
+  "10db5c13c665124f": {
+   "fragment_id": "Artigo 4.º — Estatuto jurídico, delegações locais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estatuto jurídico, delegações locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estatuto jurídico, delegações locais\n\n1. A Autoridade é um organismo comunitário, dotado de personalidade jurídica.\n\n2. Em todos os Estados-Membros, a Autoridade goza da máxima capacidade jurídica reconhecida às pessoas colectivas pelo direito nacional. Pode, nomeadamente, adquirir ou alienar bens móveis e imóveis e estar em juízo.\n\n3. A Autoridade pode decidir criar delegações locais nos Estados-Membros, com o assentimento destes, ou noutros países que participem no programa, nos termos do artigo 21.º\n\n4. A Autoridade é representada pelo seu director executivo."
+  },
+  "e9371f3cc9c9a1d6": {
+   "fragment_id": "Artigo 5.º — Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de Administração\n\n1. É criado um Conselho de Administração para desempenhar as funções enumeradas no artigo 6.º\n\n2. O Conselho de Administração é composto por um representante designado por cada Estado-Membro e por um representante designado pela Comissão. A duração do mandato dos membros do Conselho de Administração é de cinco anos. Este mandato é renovável uma vez.\n\n3. Se for caso disso, a participação de representantes de países terceiros, e as respectivas condições, serão estabelecidas nos convénios a que se refere o artigo 21.º\n\n4. O Conselho de Administração elege de entre os seus membros um presidente e um vice-presidente. O vice-presidente substitui automaticamente o presidente em caso de impedimento. A duração do mandato do presidente e do vice-presidente é de dois anos e meio e termina no momento em que deixarem de ser membros do conselho de administração. Este mandato é renovável uma vez.\n\n5. O Conselho de Administração reúne-se por convocação do seu presidente.\n\nO director executivo da Autoridade toma parte nas deliberações.\n\nO Conselho de Administração reúne-se em sessão ordinária duas vezes por ano. Pode também reunir-se por iniciativa do seu presidente ou a pedido de, pelo menos, um terço dos seus membros.\n\nO Conselho de Administração pode convidar qualquer pessoa, cujo parecer tenha interesse, para assistir às suas reuniões na qualidade de observador. Quando forem debatidas questões de segurança, estarão presentes como observadores um representante do SG/AR e o presidente do Comité de Protecção e Segurança do Sistema. Os membros do Conselho de Administração podem, nos termos do seu regulamento interno, ser assistidos por conselheiros ou peritos.\n\nO secretariado do Conselho de Administração é assegurado pela Autoridade.\n\n6. Sob reserva de outras disposições do presente regulamento, o Conselho de Administração delibera por maioria de dois terços dos seus membros.\n\n7. Cada membro dispõe de um voto. O director executivo da Autoridade não participa na votação.\n\nO regulamento interno estabelece disposições de voto mais pormenorizadas, nomeadamente as condições em que um membro se pode fazer representar por outro."
+  },
+  "0af988d70add2671": {
+   "fragment_id": "Artigo 6.º — Funções do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Funções do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções do Conselho de Administração\n\nO Conselho de Administração:\n\na) Nomeia o director executivo, nos termos do n.º 2 do artigo 7.º;\n\nb) Aprova, até 30 de Novembro de cada ano e depois de ter recebido o parecer da Comissão, o programa de trabalho da Autoridade para o ano seguinte e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão. Este programa de trabalho será aprovado sem prejuízo do processo orçamental comunitário anual;\n\nc) Exerce as suas funções em relação ao orçamento da Autoridade, de acordo com o disposto nos artigos 11.º e 12.º;\n\nd) É responsável por todas as decisões relacionadas com as funções fixadas na alínea j) do artigo 2.º que, em todos os casos, forem tomadas na sequência de consulta ao comité de protecção e segurança do sistema, ou com base em propostas deste comité;\n\ne) Exerce autoridade disciplinar sobre o director executivo;\n\nf) Adopta as disposições especiais necessárias à aplicação do direito de acesso aos documentos da Autoridade, em conformidade com o artigo 19.º;\n\ng) Aprova o relatório anual sobre as actividades e as perspectivas da Autoridade e transmite-o, o mais tardar em 15 de Junho aos Estados-Membros, ao Parlamento Europeu, ao Conselho, à Comissão, ao Comité Económico e Social Europeu e ao Tribunal de Contas; a Autoridade comunica à Autoridade Orçamental todas as informações pertinentes ao resultado dos procedimentos de avaliação;\n\nh) Aprova o seu regulamento interno."
+  },
+  "4a31f505295d731d": {
+   "fragment_id": "Artigo 7.º — Director executivo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director executivo\n\n1. A Autoridade é gerida pelo seu director executivo, que agirá em total independência no exercício das suas funções, sem prejuízo das respectivas competências da Comissão e do Conselho de Administração.\n\n2. O director executivo é nomeado pelo Conselho de Administração em função dos seus méritos e de comprovadas capacidades de administração e de gestão, bem como da sua competência e experiência, a partir de uma lista de pelo menos três candidatos propostos pela Comissão. O Conselho de Administração delibera por maioria de dois terços dos seus membros.\n\nO Conselho de Administração tem o poder de demitir o director executivo, de acordo com o mesmo procedimento.\n\nA duração do mandato do director executivo é de cinco anos. Este mandato é renovável uma vez.\n\n3. O Parlamento Europeu ou o Conselho poderão convidar o director executivo a apresentar um relatório sobre a execução das suas tarefas."
+  },
+  "b1295368cf4b7e96": {
+   "fragment_id": "Artigo 8.º — Funções do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Funções do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funções do director executivo\n\nO director executivo:\n\na) Assegura a representação da Autoridade. É o encarregado da sua gestão;\n\nb) Prepara os trabalhos do Conselho de Administração. Participa, sem direito de voto, nos trabalhos do Conselho de Administração;\n\nc) Assegura a execução do programa de trabalho anual da Autoridade sob o controlo do Conselho de Administração;\n\nd) Toma todas as medidas necessárias, nomeadamente através da adopção de instruções administrativas internas e da publicação de comunicações, com vista a assegurar o funcionamento da Autoridade de acordo com as disposições do presente regulamento;\n\ne) Elabora a previsão das receitas e despesas da Autoridade, de acordo com o estabelecido no artigo 10.º, e executa o orçamento nos termos do artigo 12.º;\n\nf) Elabora anualmente um projecto relatório geral que apresenta ao Conselho de Administração.\n\ng) Estabelece a estrutura organizativa da Autoridade que apresenta ao Conselho de Administração para aprovação. Estabelece uma estrutura permanente adequada à implementação das decisões em matéria de segurança e dos necessários contactos operacionais relacionados com a segurança;\n\nh) Exerce, em relação ao pessoal, os poderes previstos no artigo 16.º;\n\ni) Com a aprovação do Conselho de Administração, pode tomar as medidas necessárias para estabelecer delegações locais nos Estados-Membros, em conformidade com o artigo 4.º"
+  },
+  "3548792ddc91e6b7": {
+   "fragment_id": "Artigo 9.º — Comité Científico e Técnico",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Comité Científico e Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comité Científico e Técnico\n\n1. Sem prejuízo do disposto no artigo 2.º, o Conselho de Administração pode instituir um Comité Científico e Técnico para o qual nomeará os membros e o presidente de entre peritos reconhecidos dos Estados-Membros e da Comissão. Os Estados-Membros e a Comissão proporão candidatos para o efeito. Eventualmente, a participação de representantes de países terceiros no comité e as condições dessa participação serão fixadas nos acordos referidos no artigo 21.º\n\n2. O Comité Científico e Técnico poderá ser encarregado de:\n\na) Dar parecer sobre questões técnicas ou sobre propostas que impliquem alterações importantes na concepção do sistema europeu de GNSS;\n\nb) Fazer recomendações sobre a modernização do sistema;\n\nc) Efectuar qualquer outra tarefa necessária ao desenvolvimento de competências especializadas em matéria de radionavegação por satélite.\n\n3. Sob reserva de aprovação pelo Conselho de Administração, o Comité Científico e Técnico estabelecerá o seu regulamento interno."
+  },
+  "0a0d192ca44ee5c8": {
+   "fragment_id": "Artigo 10.º — Comité de Protecção e Segurança do Sistema",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité de Protecção e Segurança do Sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité de Protecção e Segurança do Sistema\n\n1. O Conselho de Administração instituirá um Comité de Protecção e Segurança do Sistema, constituído por um representante de cada Estado-Membro e por um representante da Comissão, de entre peritos de segurança reconhecidos. Um representante do SG/AR deverá assistir às reuniões do comité como observador.\n\n2. O comité será consultado e poderá apresentar propostas sobre as questões de segurança referidas na alínea j) do artigo 2.º\n\n3. O comité elegerá um presidente e um vice-presidente de entre os seus membros e estabelecerá o seu regulamento interno."
+  },
+  "d6e602e06b089232": {
+   "fragment_id": "Artigo 11.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Orçamento\n\n1. As receitas da Autoridade compreenderão, sem prejuízo de outros recursos e taxas a definir, uma subvenção da Comunidade inscrita no orçamento geral da União Europeia destinada a assegurar o equilíbrio entre as receitas e as despesas.\n\n2. As despesas da Autoridade compreenderão, nomeadamente, as despesas com pessoal, as despesas administrativas e de infra-estrutura, os custos operacionais, as despesas relativas ao funcionamento do Comité Científico e Técnico e do Comité de Protecção e Segurança do Sistema e aos contratos e convenções celebrados pela Autoridade com o objectivo de executar os programas europeus de GNSS.\n\n3. O director executivo elaborará um projecto de previsão das receitas e despesas da Autoridade para o próximo exercício e enviá-lo-á ao Conselho de Administração, juntamente com o mapa previsional do quadro dos efectivos.\n\n4. As receitas e as despesas devem ser equilibradas.\n\n5. Todos os anos, o Conselho de Administração, com base no projecto de previsão das receitas e despesas, apresentará um mapa previsional das receitas e despesas da Autoridade para o exercício financeiro seguinte.\n\n6. Esse mapa previsional, que deve incluir um projecto de quadro de efectivos com o programa de trabalho provisório, será transmitido, até 31 de Março, pelo Conselho de Administração à Comissão e aos Estados com os quais a Comunidade tenha concluído acordos nos termos do artigo 19.º\n\n7. O mapa previsional será enviado pela Comissão ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental») juntamente com o anteprojecto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão inscreverá no anteprojecto de orçamento geral da União Europeia as previsões que estima necessárias no que respeita ao quadro de efectivos e o montante da subvenção imputada ao orçamento geral e que apresentará à autoridade orçamental em conformidade com o artigo 272.º do Tratado.\n\n9. A autoridade orçamental autorizará as dotações, a título da subvenção, destinadas à Autoridade e aprovará o quadro de efectivos da Autoridade.\n\n10. O Conselho de Administração aprovará o orçamento. Esse orçamento passará a ser definitivo após a adopção definitiva do orçamento geral da União Europeia e, se for caso disso, será devidamente ajustado.\n\n11. O Conselho de Administração notificará, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do seu orçamento, nomeadamente projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis, e informará a Comissão desse facto.\n\n12. Sempre que um ramo da autoridade orçamental tiver comunicado a sua intenção de emitir um parecer, deverá transmitir esse parecer ao conselho de administração no prazo de seis semanas a contar da data da notificação do projecto."
+  },
+  "38b050125ab4cdfa": {
+   "fragment_id": "Artigo 12.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Execução e controlo do orçamento\n\n1. O director executivo dará execução ao orçamento da Autoridade.\n\n2. Até 1 de Março do ano seguinte ao do exercício encerrado, o contabilista da Autoridade comunicará ao contabilista da Comissão as contas provisórias acompanhadas de um relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados na acepção do artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n3. Até 31 de Março do ano seguinte ao do exercício encerrado, o contabilista da Comissão comunicará ao Tribunal de Contas as contas provisórias da Autoridade, acompanhadas de um relatório sobre a gestão orçamental e financeira do exercício, que será igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após a recepção das observações formuladas pelo Tribunal de Contas sobre as contas provisórias da Autoridade, ao abrigo do disposto no artigo 129.º do Regulamento (CE, Euratom) n.º 1605/2002, o director executivo estabelecerá as contas definitivas da Autoridade sob a sua própria responsabilidade e submetê-las-á à apreciação do Conselho de Administração.\n\n5. O conselho de administração emitirá um parecer sobre as contas definitivas da Autoridade.\n\n6. O director executivo transmitirá ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração até 1 de Julho do ano seguinte ao do exercício encerrado.\n\n7. As contas definitivas serão publicadas.\n\n8. O director executivo enviará ao Tribunal de Contas a resposta às suas observações até 30 de Setembro. Essa resposta será também enviada ao Conselho de Administração.\n\n9. O director executivo comunicará ao Parlamento Europeu, a pedido deste, todas as informações necessárias à execução do procedimento de quitação para o exercício em causa, como previsto no n.º 3 do artigo 146.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n10. O Parlamento Europeu, por recomendação do Conselho, deliberando por maioria qualificada, dará, antes de 30 de Abril do ano N+2, quitação ao director executivo sobre a execução do orçamento do exercício N."
+  },
+  "367973bce5b7865b": {
+   "fragment_id": "Artigo 13.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições financeiras\n\nAs regras financeiras aplicáveis à Autoridade serão aprovadas pelo Conselho de Administração após consulta da Comissão. Essas regras apenas poderão divergir do Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.° do Regulamento (CE, Euratom) n.° 1605/2002 [([^6])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr6-L_2004246PT.01000101-E0006), se as exigências específicas do funcionamento da Autoridade a isso obrigarem e com o acordo prévio da Comissão."
+  },
+  "2f286e3fd145455b": {
+   "fragment_id": "Artigo 14.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Luta contra a fraude\n\n1. Tendo em vista lutar contra a fraude, a corrupção e outras actividades ilegais, aplicar-se-ão sem restrições as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^7])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr7-L_2004246PT.01000101-E0007).\n\n2. A Autoridade aderirá ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pela Organização Europeia de Luta Antifraude (OLAF) [([^8])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr8-L_2004246PT.01000101-E0008), e publicará sem demora as disposições adequadas aplicáveis a todo pessoal da Autoridade.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, deverão expressamente prever que o Tribunal de Contas e o OLAF possam, se for necessário, proceder a controlos no terreno dos beneficiários dos fundos da Autoridade e dos agentes responsáveis pela respectiva atribuição."
+  },
+  "4719100dd6839de2": {
+   "fragment_id": "Artigo 15.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Privilégios e imunidades\n\nO protocolo relativo aos privilégios e imunidades das Comunidades Europeias será aplicável à Autoridade."
+  },
+  "d187700fe0747edc": {
+   "fragment_id": "Artigo 16.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pessoal\n\n1. São aplicáveis ao pessoal da Autoridade o Estatuto dos Funcionários das Comunidades Europeias, o Regime Aplicável aos outros Agentes das Comunidades Europeias e as normas aprovadas de comum acordo pelas instituições das Comunidades Europeias para efeitos de execução do Estatuto e do Regime. O Conselho de Administração, com o acordo da Comissão, aprova na especificidade as regras de execução necessárias.\n\n2. Sem prejuízo do disposto no artigo 8.º, as competências conferidas à autoridade investida do poder de nomeação pelo Estatuto e pelo Regime Aplicável aos outros Agentes, são exercidas pela Autoridade no que diz respeito ao seu próprio pessoal.\n\n3. O pessoal da Autoridade é composto por funcionários recrutados por esta para o cumprimento das suas funções, podendo igualmente incluir funcionários nomeados ou destacados pela Comissão ou pelos Estados-Membros a título temporário."
+  },
+  "56543ac9a2c9085e": {
+   "fragment_id": "Artigo 17.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsabilidade\n\n1. A responsabilidade contratual da Autoridade reger-se-á pela lei aplicável ao contrato em causa. O Tribunal de Justiça é competente para deliberar por força de cláusula compromissória constante dos contratos celebrados pela Autoridade.\n\n2. Em matéria de responsabilidade extracontratual, a Autoridade deve reparar, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros, os danos causados pelos seus serviços ou agentes no exercício das suas funções.\n\n3. O Tribunal de Justiça é competente em qualquer litígio relativo à reparação dos danos referidos no n.º 2.\n\n4. A responsabilidade pessoal dos agentes em relação à Autoridade rege-se pelas disposições do Estatuto ou do Regime que lhes é aplicável."
+  },
+  "4b0e38bd1a0a3c35": {
+   "fragment_id": "Artigo 18.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime linguístico\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia [([^9])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr9-L_2004246PT.01000101-E0009), são aplicáveis à Autoridade.\n\n2. Os serviços de tradução necessários ao funcionamento da Autoridade são assegurados pelo Centro de Tradução dos Órgãos da União Europeia."
+  },
+  "439cf35545e80799": {
+   "fragment_id": "Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão [([^10])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr10-L_2004246PT.01000101-E0010), aplicar-se-á aos documentos na posse da Autoridade.\n\n2. O Conselho de Administração adoptará as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n3. As decisões tomadas pela Autoridade em aplicação do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa ao Provedor de Justiça ou ser impugnadas no Tribunal de Justiça das Comunidades Europeias, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado.\n\n4. O tratamento de dados de carácter pessoal efectuado pela Autoridade estará sujeito às disposições do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^11])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr11-L_2004246PT.01000101-E0011)."
+  },
+  "affa653627416149": {
+   "fragment_id": "Artigo 20.º — Regras de segurança",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regras de segurança\n\nA Autoridade aplicará os princípios de segurança constantes da Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu Regulamento Interno [([^12])](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntr12-L_2004246PT.01000101-E0012). Tal facto abrangerá, nomeadamente, disposições relativas ao intercâmbio, tratamento e armazenamento de informações classificadas."
+  },
+  "aeb16add250d8a5c": {
+   "fragment_id": "Artigo 21.º — Participação de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Participação de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Participação de países terceiros\n\n1. A Autoridade está aberta à participação de países terceiros que tenham celebrado acordos para o efeito com a Comunidade Europeia.\n\n2. Nos termos das disposições pertinentes de tais acordos, serão celebrados convénios que determinarão, nomeadamente, a natureza, o âmbito e o modo de participação desses países nos trabalhos da Autoridade, incluindo disposições relativas à participação nas iniciativas desenvolvidas pela Autoridade, às contribuições financeiras e ao pessoal.\n\n3. A participação de qualquer país terceiro na Autoridade requer a aprovação do Conselho."
+  },
+  "227a32a02c19fd71": {
+   "fragment_id": "Artigo 22.º — Aspectos relacionados com a segurança da União Europeia ou dos seus Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Aspectos relacionados com a segurança da União Europeia ou dos seus Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Aspectos relacionados com a segurança da União Europeia ou dos seus Estados-Membros\n\nNos casos em que a operação do sistema afecte a segurança da União ou dos Estados-Membros, as responsabilidades e a competência da União Europeia, incluindo casos excepcionais em que a urgência da situação exija acção imediata, encontram-se fixadas na Acção Comum 2004/552/PESC."
+  },
+  "82a0da6e57ff7ffd": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente regulamento entra em vigor no décimo dia subsequente ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 12 de Julho de 2004.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**B. BOT**\n\n---"
+  },
+  "15bafd9057a91c00": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc1-L_2004246PT.01000101-E0001) Parecer emitido em 31 de Março de 2004 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc2-L_2004246PT.01000101-E0002) [JO C 371 de 23.12.2000, p. 2](http://publications.europa.eu/resource/oj/JOC_2000_371_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc3-L_2004246PT.01000101-E0003) Ver p. 30 do presente Jornal Oficial.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc4-L_2004246PT.01000101-E0004) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc5-L_2004246PT.01000101-E0005) [JO L 138 de 28.5.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_138_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc6-L_2004246PT.01000101-E0006) [JO L 357 de 31.12.2002, p. 72](http://publications.europa.eu/resource/oj/JOL_2002_357_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc7-L_2004246PT.01000101-E0007) [JO L 136 de 31.5.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc8-L_2004246PT.01000101-E0008) [JO L 136 de 31.5.1999, p. 15](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc9-L_2004246PT.01000101-E0009) [JO 17 de 6.10.1958, p. 385/58](http://publications.europa.eu/resource/oj/JOX_1958_017_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc10-L_2004246PT.01000101-E0010) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc11-L_2004246PT.01000101-E0011) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016.03/DOC_1#ntc12-L_2004246PT.01000101-E0012) [JO L 317 de 3.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_317_R_TOC)."
+  },
+  "c5391de53dd8ecab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Julho de 2004\n\nrelativo às estruturas de gestão dos programas europeus de radionavegação por satélite\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0001)),\n\n(1) A política europeia de radionavegação por satélite é actualmente implementada pelos programas EGNOS e GALILEO.\n\n(2) O programa GALILEO é o primeiro programa espacial europeu financiado e gerido pela União Europeia em associação com a Agência Espacial Europeia (ESA). O programa permitirá desenvolver inúmeras aplicações em domínios directa ou indirectamente decorrentes das políticas comunitárias, como, por exemplo, transportes (localização e medição da velocidade dos veículos), seguros, portagens, justiça (controlo de suspeitos, luta contra a criminalidade), serviços aduaneiros (inquéritos no terreno, etc.), agricultura (ajustamento das doses de adubos ou de pesticidas em função dos terrenos, etc.), pescas (controlo dos movimentos dos navios).\n\n(3) O programa EGNOS é um programa tripartido promovido pela Comunidade Europeia, pela ESA e pelo Eurocontrol e destina-se a reforçar os sinais do GPS americano e do GLONASS russo, a fim de aumentar a fiabilidade numa vasta área geográfica. É simultaneamente independente e complementar do programa GALILEO.\n\n(4) As conclusões dos Conselhos Europeus de Colónia (3 e 4 de Junho de 1999), de Santa Maria da Feira (19 e 20 de Junho de 2000), de Nice (7 a 11 de Dezembro de 2000), de Estocolmo (23 e 24 de Março de 2001), de Laeken (14 e 15 de Dezembro de 2001), de Barcelona (15 e 16 de Março de 2002) e de Bruxelas (20 e 21 de Março de 2003) sublinharam o carácter estratégico do programa GALILEO.\n\n(5) Devido ao carácter estratégico do sistema europeu de radionavegação por satélite e à necessidade de garantir que os interesses públicos sejam adequadamente defendidos e representados, é imperativo enquadrar as próximas fases do sistema e a utilização dos fundos comunitários atribuídos aos programas, de acordo com as orientações políticas pertinentes do Conselho e as decisões das autoridades orçamentais em matéria financeira. [**►C1**](http://publications.europa.eu/resource/celex/32004R1321R%2801%29) Deverá, por conseguinte, ser criada uma Autoridade Supervisora do Sistema Global de Navegação por Satélite (GNSS) europeu (a seguir designada «Autoridade»).**◄**\n\n(6) Em diversas ocasiões, nomeadamente, nas conclusões de 5 de Abril de 2001 e de 26 de Março de 2002, o Conselho sublinhou que a participação substancial do sector privado constitui um elemento fundamental para o êxito do programa GALILEO nas suas fases de implantação e de exploração.\n\n(7) Para atingir esse objectivo, a Autoridade deverá celebrar um contrato de concessão com o consórcio que for seleccionado no termo da fase de desenvolvimento do programa GALILEO e garantir que esse consórcio cumpra as obrigações — nomeadamente de serviço público — dele decorrentes.\n\n(8) A Autoridade deverá ser o interlocutor único do concessionário em matéria de frequências.\n\n(9) Paralelamente, os Estados-Membros que tenham depositado junto da União Internacional das Telecomunicações os *dossiers* relativos à utilização das frequências necessárias para o funcionamento do sistema deverão autorizar a Autoridade a ceder o direito da sua utilização ao concessionário pelo período de duração da concessão, para que este possa fornecer os serviços exigidos pelo caderno de encargos.\n\n(10) Competirá à Autoridade garantir a gestão e o controlo da utilização dos fundos que lhe serão especificamente atribuídos para os programas.\n\n(11) A Autoridade deverá poder prestar assistência à Comissão nos domínios respeitantes à radionavegação por satélite, nomeadamente se houver necessidade de adoptar medidas legislativas ou regulamentares.\n\n(12) A Autoridade deverá utilizar a investigação em curso e as actividades de avaliação em matéria de desenvolvimento e tecnologia, nomeadamente as realizadas pela Agência Espacial Europeia. Tendo em conta a resolução do Conselho de 16 de Novembro de 2000 sobre a estratégia espacial europeia ([^2^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0002)), a cooperação com a ESA deverá, quando tal seja pertinente, explorar plenamente as possibilidades proporcionadas pelo acordo-quadro entre a Comunidade Europeia e a Agência Espacial Europeia.\n\n(13) A Autoridade deverá proteger e valorizar o investimento comunitário já realizado em tecnologias e infra-estruturas espaciais.\n\n(14) Após a sua dissolução, a empresa comum GALILEO deverá, nos termos das disposições pertinentes do seu estatuto, transferir para a Autoridade todos os bens que tenha adquirido. Todos os activos desenvolvidos pelo concessionário durante a fase de implantação devem transitar para a Autoridade, excepto decisão prévia em contrário, uma vez que as fases de definição, de desenvolvimento e de validação do programa foram quase inteiramente financiadas por fundos públicos, e todos os elementos assim desenvolvidos devem ser colocados à disposição do concessionário.\n\n(15) O estatuto jurídico da Autoridade deverá permitir-lhe agir como pessoa colectiva no exercício das suas funções.\n\n(16) A fim de assegurar eficazmente o desempenho das funções da Autoridade, os Estados-Membros e a Comissão deverão estar representados num conselho de administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, estabelecer um procedimento transparente para a tomada de decisões pela Autoridade, aprovar o programa de trabalho e designar o director executivo.\n\n(17) O bom funcionamento da Autoridade exige que o seu director executivo seja designado com base no mérito e em capacidades administrativas e de gestão documentadas, bem como na competência e na experiência, e que desempenhe os seus deveres com total independência e flexibilidade no que se refere à organização do funcionamento interno da Autoridade. O director executivo deverá preparar e efectuar as diligências necessárias para assegurar a correcta concretização do programa de trabalho da Autoridade, elaborar anualmente um projecto de relatório geral a apresentar ao conselho de administração, elaborar um projecto de previsão de receitas e despesas da Autoridade e dar execução ao orçamento.\n\n(18) Os procedimentos de nomeação dos titulares dos cargos devem ser transparentes.\n\n(19) O conselho de administração deverá ter a possibilidade de criar um comité técnico e científico que eventualmente assista a Autoridade em questões técnicas e na modernização do sistema.\n\n(20) Deverá ser criado um comité de protecção e segurança que assista a Autoridade em todos os aspectos relacionados com a segurança e a protecção do sistema.\n\n(21) A fim de garantir a plena autonomia e a independência da Autoridade, considera-se necessário conceder-lhe um orçamento autónomo cujas receitas provenham essencialmente de um contributo da Comunidade. O processo orçamental comunitário continua a ser aplicável a quaisquer subsídios imputáveis ao orçamento geral da União Europeia. Além disso, o Tribunal de Contas deverá encarregar-se da auditoria.\n\n(22) No seu âmbito, nos seus objectivos e no desempenho das suas funções, a Autoridade deverá cumprir nomeadamente as disposições aplicáveis às instituições comunitárias.\n\n(23) A Autoridade deverá aplicar a legislação comunitária pertinente relativa ao acesso do público a documentos e à protecção das pessoas no que se refere ao tratamento de dados pessoais e respeitar os princípios de segurança aplicáveis ao Conselho e aos serviços da Comissão.\n\n(24) Os países terceiros devem poder participar na Autoridade, desde que concluam previamente um acordo nesse sentido com a Comunidade, nomeadamente se esses países tiverem participado nas fases precedentes do programa através da sua contribuição para o programa GALILEOSAT da ESA.\n\n(25) O GNSS deve ser considerado uma infra-estrutura sensível em termos de segurança e fiabilidade.\n\n(26) Deve-se elaborar medidas que garantam a protecção e a fiabilidade do sistema contra ataques (mal intencionados ou não) e impeçam a sua utilização para fins susceptíveis de afectar a segurança da União Europeia e dos seus Estados-Membros.\n\n(27) O procedimento previsto na Acção Comum 2004/552/PESC do Conselho, de 12 de Julho de 2004, relativa a aspectos do funcionamento do sistema europeu de radionavegação por satélite que afectam a segurança da União Europeia ([^3^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0003)), será aplicável nos casos em que um Estado-Membro considere a sua segurança nacional ameaçada.\n\n(28) O Tratado não prevê outros poderes, para além dos do seu artigo 308.º, para a aprovação do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b303e98f6c4f72fe": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n[**►C1**](http://publications.europa.eu/resource/celex/32004R1321R%2801%29) O presente regulamento cria uma agência comunitária designada por Autoridade Supervisora do GNSS europeu (a seguir designada «Autoridade»)**◄** com a função de assegurar a gestão dos interesses públicos relativos aos programas europeus de radionavegação por satélite (GNSS) e de desempenhar o papel de entidade reguladora desses programas."
+  },
+  "71d8d5ff35ecf389": {
+   "fragment_id": "Artigo 2.º — Funções",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções\n\n1. A Autoridade exercerá as seguintes funções:\n\na) Actuará como autoridade outorgante em relação ao concessionário privado encarregado da execução e da gestão das fases de implantação e exploração do programa GALILEO (a seguir designado «concessionário»); a esse título, celebrará com este último o contrato de concessão; garantirá o respeito, pelo concessionário, do contrato de concessão e do caderno de encargos anexo e tomará todas as medidas adequadas para assegurar a continuidade dos serviços em caso de incumprimento por parte do concessionário; cederá ao concessionário o direito de utilização, durante o período em que durar a concessão, dos activos corpóreos e incorpóreos mencionados no n.º 1 do artigo 3.º;\n\nb) Gerirá os fundos que lhe forem especificamente atribuídos para os programas europeus do GNSS e monitorizará a gestão financeira global a fim de dar parecer sobre as contribuições do sector público;\n\nc) Ser-lhe-á conferida a responsabilidade — herdada da empresa comum GALILEO — de gerir o acordo com o operador económico encarregado da operação do EGNOS e de apresentar um enquadramento sobre as futuras opções políticas relativas ao sistema EGNOS, tendo devidamente em conta a opinião das partes que contribuíram para o financiamento das fases de desenvolvimento e execução do sistema EGNOS;\n\nd) Coordenará as acções dos Estados-Membros relativamente às frequências necessárias ao funcionamento do sistema; terá o direito de utilizar todas essas frequências independentemente da sua própria localização; será a interlocutora directa do concessionário em matéria de utilização dessas frequências;\n\ne) Elaborará projectos tendo em vista assistir a Comissão na elaboração de propostas relativas aos programas europeus de GNSS, a apresentar ao Parlamento Europeu e ao Conselho, e na adopção de regras de execução;\n\nf) Será responsável pela modernização e pelo desenvolvimento de novas gerações do sistema;\n\ng) Poderá desempenhar tarefas de execução orçamental, que lhe sejam confiadas pela Comissão, associadas aos programas europeus de GNSS, segundo o disposto na alínea b) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^4^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0004)),\n\nh) Assegurará que os componentes do sistema sejam devidamente certificados; delegará nos organismos de certificação autorizados a emissão dos certificados pertinentes e a monitorização do cumprimento das normas e especificações técnicas;\n\ni) Aplicará as instruções emitidas em conformidade com a Acção Comum 2004/552/PESC e verificará o seu cumprimento pelo concessionário;\n\nj) Sem prejuízo do disposto no artigo 22.º, gerirá todos os aspectos relacionados com a segurança do sistema, nomeadamente:\n\ni) aprovará os anexos de segurança dos contratos industriais,\n\nii) definirá as especificações de segurança do sistema e dos seus componentes, bem como as normas de segurança para as técnicas de informação,\n\niii) definirá a criptografia que necessitar de aprovação governamental,\n\niv) assegurará que os sinais/serviços do GNSS europeu sejam controlados em conformidade com os critérios de segurança referidos nos pontos i) e ii),\n\nv) será a autoridade de acreditação da segurança do GNSS europeu, iniciará e monitorizará a implementação de procedimentos de segurança e efectuará auditorias da segurança do sistema,\n\nvi) no tocante ao serviço público regulado (PRS):\n\n— definirá as especificações e instruções para o fabrico de receptores PRS, de acordo com a política de acesso ao PRS definido pelo Conselho,\n\n— elaborará orientações para a implementação das regras de gestão PRS nos Estados-Membros,\n\nvii) providenciará a aplicação e verificará o cumprimento por parte do concessionário das regras e acordos internacionais (Wassenaar, Regime de Controlo de Tecnologia de Mísseis, acordos internacionais, …),\n\nviii) implementará as disposições pertinentes relativas à troca, ao tratamento e à conservação de informações classificadas,\n\nix) desenvolverá procedimentos de coordenação e consulta sobre questões relacionadas com a segurança, juntamente com o secretário-geral do Conselho da União Europeia, alto representante para a política externa e de segurança comum (SG/AR),\n\nx) identificará e informará o Conselho sobre eventuais medidas que possam ser tomadas pelo Conselho em caso de ameaça à segurança da União Europeia ou dum Estado-Membro, decorrentes da operação ou da utilização do sistema, ou em caso de ameaça à operação do sistema, devido nomeadamente a uma crise internacional,\n\nxi) dará parecer ao Conselho quando para tal convidada nos termos da Acção Comum 2004/552/PESC,\n\nxii) dará parecer sobre questões de política de segurança em acordos internacionais relacionados com os programas europeus GNSS;\n\nk) Tendo em vista a conclusão da fase de desenvolvimento do programa Galileo, assumirá, o mais tardar no termo da duração da empresa comum Galileo, as funções a esta confiadas pelos artigos 2.º, 3.º e 4.º do anexo do Regulamento (CE) n.º 876/2002 ([^5^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0005)). Se necessário, e após decisão do Conselho de Administração da empresa comum Galileo, assegurará as operações de liquidação da empresa comum após 31 de Dezembro de 2006;\n\nl) Realizará todas as actividades de investigação necessárias para o desenvolvimento e a promoção dos programas GNSS europeus.\n\n2. A ESA será solicitada a prestar à Autoridade todo o apoio científico e técnico."
+  },
+  "c6b91a65f0395710": {
+   "fragment_id": "Artigo 3.º — Propriedade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Propriedade\n\n1. A partir do termo da duração da empresa comum Galileo mencionado no artigo 1.º do Regulamento (CE) n.º 876/2002 e no artigo 20.º do seu anexo, a autoridade será proprietária de todos os activos corpóreos e incorpóreos criados ou desenvolvidos durante toda a fase de desenvolvimento, incluindo os activos de que a empresa comum GALILEO era proprietária, nos termos do artigo 6.º do anexo do referido regulamento, e os criados ou desenvolvidos pela Agência Espacial Europeia e pelas entidades encarregadas por esta agência ou pela empresa comum Galileo das actividades de desenvolvimento do programa.\n\n2. A autoridade será proprietária de todos os activos corpóreos e incorpóreos criados ou desenvolvidos pelo concessionário durante as fases de implantação e de exploração, inclusivamente os criados ou desenvolvidos pelos seus subcontratantes ou por empresas sob o seu controlo ou pelos subcontratantes destas empresas.\n\n3. O direito de propriedade incluirá todos os direitos de propriedade intelectual na acepção do n.º 1 do artigo 1.º do Regulamento (CE) n.º 772/2004 da Comissão, de 27 de Abril de 2004, relativo à aplicação do n.º 3 do artigo 81.º do Tratado a categorias de acordos de transferência de tecnologia ([^6^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0006)), bem como os direitos de propriedade na acepção do artigo 2.º da Convenção de 14 de Julho de 1967 que Institui a Organização Mundial da Propriedade.\n\n4. As modalidades das transferências dos activos corpóreos e incorpóreos de que a empresa comum Galileo é proprietária, nos termos do artigo 6.º do anexo do Regulamento (CE) n.º 876/2002, serão estabelecidas aquando do procedimento de dissolução previsto no artigo 21.º do anexo do regulamento supracitado.\n\n5. O acordo celebrado entre a autoridade e a Agência Espacial Europeia (ESA), nos termos do artigo 3.º do anexo do Regulamento (CE) n.º 876/2002, pode prever as modalidades do exercício pela ESA, em nome da autoridade, do direito de propriedade conferido a esta última pelo n.º 1.\n\n6. O contrato de concessão pode prever as modalidades do exercício pelo concessionário, em nome da autoridade, do direito de propriedade conferido a esta última pelo n.º 1.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32006R1942) 7.**◄** A Autoridade será proprietária de todos os activos corpóreos e incorpóreos EGNOS sujeitos a acordo com os investidores EGNOS sobre os termos e condições da transferência da ESA da propriedade de todas ou parte das instalações e equipamentos EGNOS."
+  },
+  "d53d0f5781df297b": {
+   "fragment_id": "Artigo 5.º — Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de Administração\n\n1. É criado um Conselho de Administração para desempenhar as funções enumeradas no artigo 6.º\n\n2. O Conselho de Administração é composto por um representante designado por cada Estado-Membro e por um representante designado pela Comissão. A duração do mandato dos membros do Conselho de Administração é de cinco anos. Este mandato é renovável uma vez.\n\nAssistirão às reuniões do Conselho de Administração um representante do SG/AR e um representante da ESA, na qualidade de observadores.\n\n3. Se for caso disso, a participação de representantes de países terceiros, e as respectivas condições, serão estabelecidas nos convénios a que se refere o artigo 21.º\n\n4. O Conselho de Administração elege de entre os seus membros um presidente e um vice-presidente. O vice-presidente substitui automaticamente o presidente em caso de impedimento. A duração do mandato do presidente e do vice-presidente é de dois anos e meio e termina no momento em que deixarem de ser membros do conselho de administração. Este mandato é renovável uma vez.\n\n5. O Conselho de Administração reúne-se por convocação do seu presidente.\n\nO director executivo da Autoridade toma parte nas deliberações.\n\nO Conselho de Administração reúne-se em sessão ordinária duas vezes por ano. Pode também reunir-se por iniciativa do seu presidente ou a pedido de, pelo menos, um terço dos seus membros.\n\nO Conselho de Administração pode convidar qualquer pessoa, cujo parecer tenha interesse, para assistir às suas reuniões na qualidade de observador. Quando forem debatidas questões de segurança, estarão presentes como observadores um representante do SG/AR e o presidente do Comité de Protecção e Segurança do Sistema. Os membros do Conselho de Administração podem, nos termos do seu regulamento interno, ser assistidos por conselheiros ou peritos.\n\nO secretariado do Conselho de Administração é assegurado pela Autoridade.\n\n6. Sob reserva de outras disposições do presente regulamento, o Conselho de Administração delibera por maioria de dois terços dos seus membros.\n\n7. Cada membro dispõe de um voto. O director executivo da Autoridade não participa na votação.\n\nO regulamento interno estabelece disposições de voto mais pormenorizadas, nomeadamente as condições em que um membro se pode fazer representar por outro."
+  },
+  "ba25e1a1eb9218f5": {
+   "fragment_id": "Artigo 10.º — Comité de Protecção e Segurança do Sistema",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité de Protecção e Segurança do Sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité de Protecção e Segurança do Sistema\n\n1. O Conselho de Administração criará um Comité de Protecção e Segurança do Sistema, constituído por um representante de cada Estado-Membro e por um representante da Comissão, de entre peritos reconhecidos em matéria de segurança. Assistirão às reuniões do Comité, na qualidade de observadores, um representante do SG/AR e um representante da ESA.\n\n2. O comité será consultado e poderá apresentar propostas sobre as questões de segurança referidas na alínea j) do artigo 2.º\n\n3. O comité elegerá um presidente e um vice-presidente de entre os seus membros e estabelecerá o seu regulamento interno."
+  },
+  "f70e8cad8400fd62": {
+   "fragment_id": "Artigo 13.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições financeiras\n\nAs regras financeiras aplicáveis à Autoridade serão aprovadas pelo Conselho de Administração após consulta da Comissão. Essas regras apenas poderão divergir do Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.° do Regulamento (CE, Euratom) n.° 1605/2002 ([^7^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0007)), se as exigências específicas do funcionamento da Autoridade a isso obrigarem e com o acordo prévio da Comissão."
+  },
+  "2b4e33ede4daa7d8": {
+   "fragment_id": "Artigo 14.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Luta contra a fraude\n\n1. Tendo em vista lutar contra a fraude, a corrupção e outras actividades ilegais, aplicar-se-ão sem restrições as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^8^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0008)).\n\n2. A Autoridade aderirá ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pela Organização Europeia de Luta Antifraude (OLAF) ([^9^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0009)), e publicará sem demora as disposições adequadas aplicáveis a todo pessoal da Autoridade.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, deverão expressamente prever que o Tribunal de Contas e o OLAF possam, se for necessário, proceder a controlos no terreno dos beneficiários dos fundos da Autoridade e dos agentes responsáveis pela respectiva atribuição."
+  },
+  "a926e5398ec572a6": {
+   "fragment_id": "Artigo 18.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime linguístico\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^10^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0010)), são aplicáveis à Autoridade.\n\n2. Os serviços de tradução necessários ao funcionamento da Autoridade são assegurados pelo Centro de Tradução dos Órgãos da União Europeia."
+  },
+  "2f62cdf1d047ec13": {
+   "fragment_id": "Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^11^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0011)), aplicar-se-á aos documentos na posse da Autoridade.\n\n2. O Conselho de Administração adoptará as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n3. As decisões tomadas pela Autoridade em aplicação do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa ao Provedor de Justiça ou ser impugnadas no Tribunal de Justiça das Comunidades Europeias, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado.\n\n4. O tratamento de dados de carácter pessoal efectuado pela Autoridade estará sujeito às disposições do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([^12^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0012))."
+  },
+  "6e061bf4a1c31341": {
+   "fragment_id": "Artigo 20.º — Regras de segurança",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regras de segurança\n\nA Autoridade aplicará os princípios de segurança constantes da Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu Regulamento Interno ([^13^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#E0013)). Tal facto abrangerá, nomeadamente, disposições relativas ao intercâmbio, tratamento e armazenamento de informações classificadas."
+  },
+  "aa638027c6e5fb79": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente regulamento entra em vigor no décimo dia subsequente ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "48bccc05fb4576df": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0001)) Parecer emitido em 31 de Março de 2004 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0002)) JO C 371 de 23.12.2000, p. 2.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0003)) Ver p. 30 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0004)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0005)) JO L 138 de 28.5.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0006)) JO L 123 de 27.4.2004, p. 11.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0007)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0008)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0009)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0010)) JO 17 de 6.10.1958, p. 385/58. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0011)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0012)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/4eb60291-04ce-4d5f-9d08-0cf6db4e974f.0018.03/DOC_1#src.E0013)) JO L 317 de 3.12.2001, p. 1."
+  },
+  "f612308ea3482f8c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004R1321 — PT — 09.11.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004R1321) [REGULAMENTO (CE) N.º 1321/2004 DO CONSELHO](http://publications.europa.eu/resource/celex/32004R1321) [de 12 de Julho de 2004](http://publications.europa.eu/resource/celex/32004R1321) [relativo às estruturas de gestão dos programas europeus de radionavegação por satélite](http://publications.europa.eu/resource/celex/32004R1321) (JO L 246, 20.7.2004, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 912/2010 do Parlamento Europeu e do Conselho de 22 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0912) — L 276 — 11 — 20.10.2010"
+  }
+ }
+}

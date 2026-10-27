@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:1433067:por
+title: Portaria n.º 694/2009
+short_title: null
+summary: Promove a alferes RC oito aspirantes RC
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direcção de Administração de Recursos Humanos - Repartição
+  de Pessoal Militar
+proposing_entity: null
+official_number: 694/2009
+official_date: null
+publication_date: '2009-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2009, Série II de 2009-07-31
+  number: '147'
+  series: II
+  supplement: null
+  pages: 30636 - 30636
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/07/147000000/3063630636.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1433067'
+  dre_path: /dr/detalhe/portaria/694-2009-1433067
+  internal: pt:dre:1433067:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-2009-1433067
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-2009-1433067
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8a7b9832137e364cd501b77257fd6f46591567dae62d7d554279a47393a3267b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:21:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:21:32Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 694/2009
+
+Manda S. Ex.ª o Chefe de Estado-Maior do Exército promover ao Posto de Alferes desde 14 de Abril de 2009, nos termos da alínea a) do n.º. 1 do artigo 305.º do EMFAR, contando a antiguidade e efeitos administrativos desde a mesma data, os Aspirantes a Oficial a seguir mencionados:
+
+ASP RC NIM 04677100 António Abel Nunes de Bessa - RTransp;
+
+ASP RC NIM 05813799 Maria Isabel dos Santos Joaquim -RTransp;
+
+ASP RC NIM 02879400 Marco Alexandre Ireia Parrulas - UnAp/CmdOp;
+
+ASP RC NIM 09466200 Sónia Mendes Von Doellinger - RA 5;
+
+ASP RC NIM 09820098 Alice Maria Pereira Arantes - RA 5;
+
+ASP RC NIM 04485202 Sofia Joaquina Ferreira Mendes - UnAp/CmdPess;
+
+ASP RC NIM 12669300 Tiago Corte Real da Silva Bispo - EPI;
+
+ASP RC NIM 01621699 Wagner Sousa Pereira Gomes - RL 2.
+
+17 de Junho de 2009. - Por subdelegação do Major-General DARH, após subdelegação do Tenente-General AGE, por delegação do General CEME, o Chefe da Repartição, Óscar Humberto Almeida Megre Barbosa, COR INF.
+
+202111761

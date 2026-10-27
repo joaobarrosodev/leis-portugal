@@ -1,0 +1,478 @@
+---
+schema_version: '1.0'
+id: eu:celex:31995R1359:por
+title: Regulamento (CE) nº 1359/95 da Comissão, de 13 de Junho de 1995
+short_title: null
+summary: Regulamento (CE) nº 1359/95 da Comissão, de 13 de Junho de 1995, que modifica os anexos I e II do Regulamento (CEE)
+  nº 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum, que revoga o Regulamento
+  (CEE) nº 802/80
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1995/1359
+official_date: null
+publication_date: '1995-06-26'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 142 de 26.6.1995
+  number: '142'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/b9bf7e1c-32c4-45ac-9950-1bf2f2c2018d.0011.02/DOC_1
+entry_into_force_dates:
+- '1995-07-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31995R1359
+  eli: http://data.europa.eu/eli/reg/1995/1359/oj
+  oj: oj:JOL_1995_142_R_0001_003
+  dre: null
+  dre_path: null
+  internal: eu:celex:31995R1359:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31995R1359
+  metadata_url: http://publications.europa.eu/resource/cellar/b9bf7e1c-32c4-45ac-9950-1bf2f2c2018d.0011
+  content_url: http://publications.europa.eu/resource/cellar/b9bf7e1c-32c4-45ac-9950-1bf2f2c2018d.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:51:28Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-05T01:59:16.870+02:00'
+integrity:
+  source_sha256: 4a0976c7247b2d301363efb0469d1d7de1463eedf7d6bf629a9f71a221146b5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:51:28Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- GATT
+- Pauta Aduaneira Comum
+- comércio externo
+- estatística
+- nomenclatura estatística
+- nomenclatura pautal
+relationships:
+- type: amends
+  target: celex:31987R2658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c
+  date: '1987-09-07'
+- type: based_on
+  target: celex:31987R2658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c
+  date: '1987-09-07'
+- type: cites
+  target: celex:31994D0800
+  label: null
+  source: http://publications.europa.eu/resource/cellar/66167374-b0b0-44de-a0f6-cd04b870adfa
+- type: cites
+  target: celex:31994R3115
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f153660f-7658-468a-9584-a14f3e80c24d
+- type: cites
+  target: celex:31994R3231
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8041b920-c4c2-4336-9bd0-9612faed3a7e
+- type: cites
+  target: celex:31994R3330
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8de45161-e447-47da-89a4-6e789a3c4b04
+- type: cites
+  target: celex:31995R0656
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1e5ba473-eade-47e5-8742-5eaea53c9200
+- type: repeals
+  target: celex:31980R0802
+  label: null
+  source: http://publications.europa.eu/resource/cellar/20229f3d-c02f-49e8-baab-f0f431dc8368
+  date: '1980-04-01'
+article_structure:
+  article_count: 3
+  section_count: 26
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:51:28Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 1359/95 da Comissão, de 13 de Junho de 1995
+
+**Regulamento (CE) nº 1359/95 da Comissão, de 13 de Junho de 1995, que modifica os anexos I e II do Regulamento (CEE) nº 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum, que revoga o Regulamento (CEE) nº 802/80** *Jornal Oficial nº L 142 de 26/06/1995 p. 0001 - 0935*
+
+REGULAMENTO (CE) Nº 1359/95 DA COMISSÃO de 13 de Junho de 1995 que altera os anexos I e II do Regulamento (CEE) nº 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum que revoga o Regulamento (CEE) nº 802/80
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 2658/87 do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum (), e, nomeadamente, os seus artigos 9º e 12º,
+
+Considerando que o Regulamento (CEE) nº 2658/87 instituiu uma nomenclatura de mercadorias, a seguir denominada « Nomenclatura Combinada », destinada a satisfazer as exigências da pauta aduaneira comum e das estatísticas do comércio externo da Comunidade;
+
+Considerando que o Regulamento (CE) nº 3115/94 da Comissão, de 20 de Dezembro de 1994, que modifica os anexos I e II do Regulamento (CEE) nº 2658/87, o qual entrou em vigor em 1 de Janeiro de 1995, teve em conta:
+
+- as alterações relativas à evolução das necessidades em matéria de estatísticas ou de política comercial, em particular devido à Decisão 94/800/CE do Conselho, de 22 de Dezembro de 1994, relativa à celebração em nome da Comunidade Europeia e em relação às matérias da sua competência, dos acordos resultantes das negociações multilaterais do Uruguay Round (1986-1994) () e ao Regulamento (CE) nº 3231/94 do Conselho, de 22 de Dezembro de 1994, relativo a determinadas disposições resultantes da conclusão das negociações a título do nº 6 do artigo XXIV do GATT e a outras disposições necessárias para efeitos de simplificação (),
+
+- a necessidade de alinhamento e clarificação dos textos;
+
+Considerando que é necessário implementar, com efeitos a partir de 1 de Julho de 1995, determinadas medidas pautais, nomeadamente no âmbito das negociações multilaterais do Uruguay Round;
+
+Considerando que é conveniente que a Comissão adopte através de regulamento a aplicar a partir de 1 de Julho de 1995, uma versão completa da Nomenclatura Combinada que inclua as taxas dos direos autónomos e convencionais da Pauta Aduaneira Comum, tal como resultam da Decisão 94/800/CE e do Regulamento (CE) nº 3231/94 bem como outras disposições adoptadas pelo Conselho ou pela Comissão ();
+
+Considerando que o Regulamento (CEE) nº 802/80 (), com a redacção que lhe foi dada pelo Regulamento (CEE) nº 2723/90 (), classificou determinados produtos na subposição 0405 00 10, como manteiga; que esta classificação deixou de corresponder à nova estrutura da posição 0405 da Nomenclatura Combinada, em anexo ao presente regulamento; que, por conseguinte, é conveniente revogar o Regulamento (CEE) nº 802/80;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do código aduaneiro, secção da Nomenclatura Pautal e Estatística,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+Os anexos I e II do Regulamento (CEE) nº 2658/87 são alterados conforme os anexos juntos ao presente regulamento.
+
+###### Artigo 2
+
+O Regulamento (CEE) nº 802/80 é revogado.
+
+###### Artigo 3
+
+O presente regulamento entra em vigor em 1 de Julho de 1995.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 13 de Junho de 1995.
+
+Pela Comissão M. MONTI Membro da Comissão
+
+() JO nº L 256 de 7. 9. 1987, p. 1.
+
+() JO nº L 336 de 23. 12. 1994, p. 1.
+
+() JO nº L 338 de 28. 12. 1994, p. 1.
+
+() São incorporadas no anexo I a este regulamento as modificações que resultam da adopção das medidas seguintes:
+
+- Regulamento (CE) nº 3330/94 da Comissão, de 21 de Dezembro de 1994 (JO nº L 350 de 31. 12. 1994, p. 52),
+
+- Regulamento (CE) nº 656/95 da Comissão, de 28 de Março de 1995 (JO nº L 69 de 29. 3. 1995, p. 1).
+
+() JO nº L 87 de 1. 4. 1980, p. 54.
+
+() JO nº L 261 de 25. 9. 1990, p. 24.
+
+## ANEXO I — NOMENCLATURA COMBINADA
+
+SUMÁRIO
+
+PRIMEIRA PARTE - DISPOSIÇÕES PRELIMINARES
+
+## Título I - Regras gerais — A.Regras gerais para a interpretação da Nomenclatura Combinada 11
+
+B.Regras gerais relativas aos direitos 12
+
+C.Regras gerais comuns à nomenclatura e aos direitos 13
+
+## Título II - Disposições especiais — A.Produtos destinados a certas categorias de embarcações e de plataformas de perfuração ou de exploração 13
+
+B.Aeronaves civis e produtos destinados a aeronaves civis 15
+
+C.Produtos formacêuticos 16
+
+D.Tributação forfetária 16
+
+E.Receptáculos e embalagens 17
+
+Lista dos sinais, abreviaturas e símbolos 18
+
+Lista das unidades suplementares 19
+
+SEGUNDA PARTE - TABELA DE DIREITOS
+
+#### Secção I Animais vivos e produtos do reino animal
+
+1 Animais vivos 23
+
+2 Carnes e miudezas, comestíveis 27
+
+3 Peixes e crustáceos, moluscos e outros invertebrados aquáticos 47
+
+4 Leite e lacticínios; ovos de aves; mel natural; produtos comestíveis de origem animal, não especificados nem compreendidos em outros capítulos 63
+
+5 Outros produtos de origem animal, não especificados nem compreendidos em outros capítulos 81
+
+#### Secção II — Produtos do reino vegetal
+
+6 Plantas vivas e produtos de floricultura 84
+
+7 Produtos hortícolas, plantas, raízes e tubérculos, comestíveis 87
+
+8 Frutas; cascas de citrinos e de melões 95
+
+9 Café, chá, mate e especiarias 106
+
+10 Cereais 110
+
+11 Produtos da indústria de moagem; malte; amidos e féculas; inulina; glúten de trigo 116
+
+12 Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens 122
+
+13 Gomas, resinas e outros sucos e extractos vegetais 127
+
+14 Matérias para entrançar e outros produtos de origem vegetal, não especificados nem compreendidos noutros capítulos 129
+
+#### Secção III — Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal
+
+15 Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal 131
+
+#### Secção IV — Produtos das indústrias alimentares; bebidas, líquidos alcoólicos e vinagres; tabaco e seus sucedâneos manufacturados
+
+16 Preparações de carnes, de peixes ou de crustáceos, de moluscos ou de outros invertebrados aquáticos 144
+
+17 Açúcares e produtos de confeitaria 150
+
+18 Cacau e suas preparações 155
+
+19 Preparações à base de cereais, farinhas, amidos, féculas ou leite; produtos de pastelaria 158
+
+20 Preparações de produtos hortícolas, de frutas ou de outras partes de plantas 164
+
+21 Preparações alimentícias diversas 185
+
+22 Bebidas, líquidos alcoólicos e vinagres 190
+
+23 Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais 202
+
+24 Tabaco e seus sucedâneos manufacturados 208
+
+#### Secção V — Produtos minerais
+
+25 Sal; enxofre; terras e pedras; gesso, cal e cimento 212
+
+26 Minérios, escórias e cinzas 219
+
+27 Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais 222
+
+#### Secção VI — Produtos das indústrias químicas ou das indústrias conexas
+
+28 Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioactivos, de metais das terras raras ou de isótopos 230
+
+29 Produtos químicos orgânicos 248
+
+30 Produtos farmacêuticos 273
+
+31 Adubos (fertilizantes) 278
+
+32 Extractos tanantes e tintoriais; taninos e seus derivados; pigmentos e outras matérias corantes; tintas e vernizes; mástiques; tintas de escrever 282
+
+33 Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e preparações cosméticas 287
+
+34 Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos de conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar, ceras para dentistas e composições para dentistas à base de gesso 290
+
+35 Matérias albuminóides; produtos à base de amidos ou de féculas modificados; colas; enzimas 294
+
+36 Pólvoras e explosivos; artigos de pirotecnia; fósforos; ligas pirofóricas; matérias inflamáveis 297
+
+37 Produtos para fotografia e cinematografia 299
+
+38 Produtos diversos das indústrias químicas 303
+
+#### Secção VII — Plástico e suas obras; borracha e suas obras
+
+39 Plástico e suas obras 311
+
+40 Borracha e suas obras 326
+
+#### Secção VIII
+
+Peles, couros, peles com pêlo e obras destas matérias; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa
+
+41 Peles, excepto peles com pêlo, e couros 334
+
+42 Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa 338
+
+43 Peles com pêlo e suas obras; peles com pêlo, artificiais 342
+
+Secção IX Madeira, carvão vegetal e obras de madeira; cortiça e suas obras; obras de espartaria ou de cestaria
+
+44 Madeira, carvão vegetal e obras de madeira 345
+
+45 Cortiça e suas obras 356
+
+46 Obras de espartaria ou de cestaria 358
+
+#### Secção X — Pastas de madeira ou de outras matérias fibrosas celulósicas; desperdícios e aparas de papel ou de cartão; papel e suas obras
+
+47 Pastas de madeira ou de outras matérias fibrosas celulósicas; desperdícios e aparas de papel ou de cartão 360
+
+48 Papel e cartão; obras de pasta de celulose, de papel ou de cartão 362
+
+49 Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou dactilografados, planos e plantas 378
+
+#### Secção XI — Matérias têxteis e suas obras
+
+50Seda 381
+
+51 Lã, pêlos finos ou grosseiros; fios e tecidos de crina 389
+
+52 Algodão 394
+
+53 Outras fibras têxteis vegetais; fios de papel e tecidos de fios de papel 403
+
+54 Filamentos sintéticos ou artificiais 407
+
+55 Fibras sintéticas ou artificiais descontínuas 413
+
+56 Pastas (ouates), feltros e falsos tecidos; fios especiais, cordéis, cordas e cabos; artigos de cordoaria 421
+
+57 Tapetes e outros revestimentos para pavimentos, de matérias têxteis 425
+
+58 Tecidos especiais; tecidos tufados; rendas; tapeçarias; passamanarias; bordados 428
+
+59 Tecidos impregnados, revestidos, recobertos ou estratificados; artigos para usos técnicos de matérias têxteis 432
+
+60 Tecidos de malha 437
+
+61 Vestuário e seus acessórios, de malha 440
+
+62 Vestuário e seus acessórios, excepto de malha 450
+
+63 Outros artefactos têxteis confeccionados; sortidos; artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados; trapos 461
+
+#### Secção XII
+
+Calçado, chapéus e artefactos de uso semelhante, guarda-chuvas, guarda-sóis, bengalas, chicotes e suas partes; penas preparadas e suas obras; flores artificiais; obras de cabelo 64 Calçado, polainas e artefactos semelhantes, e suas partes 466
+
+65 Chapéus e artefactos de uso semelhante, e suas partes 472
+
+66 Guarda-chuvas, sombrinhas, guarda-sóis, bengalas, bengalas-assentos, chicotes e suas partes 474
+
+67 Penas e penugem preparadas e suas obras; flores artificiais; obras de cabelo 475
+
+#### Secção XIII — Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes; produtos cerâmicos; vidro e suas obras
+
+68 Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes 477
+
+69 Produtos cerâmicos 483
+
+70 Vidro e suas obras 488
+
+#### Secção XIV
+
+Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos, e suas obras; bijutaria; moedas 71 Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos, e suas obras; bijutaria; moedas 497
+
+#### Secção XV — Metais comuns e suas obras
+
+72 Ferro fundido, ferro e aço 505
+
+73 Obras de ferro fundido, ferro ou aço 536
+
+74 Cobre e suas obras 552
+
+75 Níquel e suas obras 559
+
+76 Alumínio e suas obras 562
+
+77 (Reservado para uma eventual utilização futura do sistema harmonizado) 78 Chumbo e suas obras 568
+
+79 Zinco e suas obras 571
+
+80 Estanho e suas obras 574
+
+81 Outros metais comuns; ceramais (cermets); obras dessas matérias 577
+
+82 Ferramentas, artefactos de cutelaria e talheres, e suas partes, de metais comuns 581
+
+83 Obras diversas de metais comuns 588
+
+#### Secção XVI
+
+Máquinas e aparelhos, material eléctrico e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios
+
+84 Reactores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes 593
+
+85 Máquinas, aparelhos e materiais eléctricos e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão e suas partes e acessórios 647
+
+#### Secção XVII — Material de transporte
+
+86 Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos mecânicos (incluídos os electromecânicos) de sinalização para vias de comunicação 685
+
+87 Veículos automóveis, tractores, ciclos e outros veículos terrestres, suas partes e acessórios 689
+
+88 Aeronaves e outros aparelhos aéreos ou espaciais, e suas partes 701
+
+89 Embarcações e estruturas flutuantes 703
+
+#### Secção XVIII
+
+Instrumentos e aparelhos de óptica, fotografia ou cinematografia, medida, controlo ou de precisão; instrumentos e aparelhos médico-cirúrgicos; relógios e aparelhos semelhantes; instrumentos musicais; suas partes e acessórios
+
+90 Instrumentos e aparelhos de óptica, fotografia ou cinematografia, de medida, de controlo ou de precisão; instrumentos e aparelhos médico-cirúrgicos; suas partes e acessórios 706
+
+91 Artigos de relojoaria 725
+
+92 Instrumentos musicais, suas partes e acessórios 731
+
+#### Secção XIX — Armas e munições; suas partes e acessórios
+
+93 Armas e munições; suas partes e acessórios 734
+
+#### Secção XX — Mercadorias e produtos diversos
+
+94 Móveis; mobiliário médico-cirúrgico; colchões, almofadas e semelhantes; aparelhos de iluminação não especificados nem compreendidos em outros capítulos; anúncios, cartazes ou tabuletas e placas indicadoras, luminosos e artigos semelhantes; construções pré-fabricadas 737
+
+95 Brinquedos, jogos, artigos para divertimento ou para desporto; suas partes e acessórios 743
+
+96 Obras diversas 748
+
+#### Secção XXI — Objectos de arte, de colecção ou antiguidades 97Objectos de arte, de colecção ou antiguidades 754
+
+98 Conjuntos industriais exportados de acordo com o Regulamento (CEE) nº 518/79 da Comissão 756
+
+99 (Reservado para certos usos particulares determinados pelas autoridades comunitárias competentes)
+
+TERCEIRA PARTE - ANEXOS
+
+#### Secção I - Anexos relativos à agricultura — Anexo 1 Elementos agrícolas (EA), direitos adicionais para o açúcar (AD S/Z) e direitos adicionais para a farinha (AD F/M) 763
+
+## Anexo 2 Produtos aos quais se aplica o preço de entrada 777 — Anexo 2A Taxas de direito para o código NC 0403 811
+
+Secção II - Lista de substâncias farmacêuticas elegíveis para beneficiarem da isenção de direitos
+
+Anexo 3 Lista de denominações comuns internacionais (DCI) estabelecida pela Organização Mundial de Saúde para as substâncias farmacêuticas que estão isentas de direitos 815
+
+Anexo 4 Lista de prefixos e sufixos que, articulada com a DCI do anexo 3, descreve os sais, ésteres ou hidratos da DCI; estes sais, ésteres e hidratos estão isentos de direitos sob condição de poderem ser classificados na mesma posição SH de seis dígitos da DCI correspondente 907
+
+Anexo 5 Sais, ésteres e hidratos da DCI que não estão classificados na mesma posição SH da DCI correspondente e que estão isentos de direitos 911
+
+Anexo 6 Lista de produtos farmacêuticos intermédios, ou seja, compostos utilizados no fabrico de produtos farmacêuticos acabados, que estão isentos de direitos 913
+
+#### Secção III - Contingentes — Anexo 7 Contingentes pautais OMC a abrir pelas autoridades comunitárias competentes 923

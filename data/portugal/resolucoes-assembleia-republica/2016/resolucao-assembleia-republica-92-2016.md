@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:74534744:por
+title: Resolução da Assembleia da República n.º 92/2016
+short_title: null
+summary: Recomenda ao Governo que concretize um plano estratégico para a implementação dos rastreios oncológicos de base populacional
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 92/2016
+official_date: null
+publication_date: '2016-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/2016, Série I de 2016-05-27
+  number: '102'
+  series: I
+  supplement: null
+  pages: 1706 - 1706
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/05/10200/0170601706.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/92/2016/05/27/p/dre/pt/html
+  oj: null
+  dre: '74534744'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/92-2016-74534744
+  internal: pt:dre:74534744:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/92-2016-74534744
+  metadata_url: https://data.dre.pt/eli/resolassrep/92/2016/05/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/92-2016-74534744
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:48:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8e45d4335d4e76fce6e6b5ea4fa4c3849bad2ee4f7d599f256e8a2a8f41a3a95
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cancro
+- Diabetes
+- Doença
+- Programa de Rastreio do Cancro da MAMA
+- Programa de Rastreio do Cancro do COLO do Utero
+- Recomendação
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:74076049:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:48:10Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 92/2016
+
+Recomenda ao Governo que concretize um plano estratégico para a implementação dos rastreios oncológicos de base populacional
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Salvaguarde, no âmbito dos rastreios de base populacional previstos no [Despacho n.º 4771-A/2016](https://diariodarepublica.pt/dr/detalhe/despacho/4771-a-2016-74076049), de 7 de abril, publicado na 2.ª série do Diário da República, o enquadramento das recomendações e considerações das entidades científicas internacionais nesta área, nomeadamente no que respeita:
+
+a) À percentagem da população que deve ser contemplada nos rastreios organizados e de base populacional nas áreas do cancro da mama, do cancro do colo do útero, do cancro do cólon e reto e da retinopatia diabética;
+
+b) Aos meios existentes no Serviço Nacional de Saúde (SNS) para dar resposta aos rastreios;
+
+c) Aos meios existentes para formar mais profissionais e alargar assim a resposta do SNS.
+
+2 - As medidas que venham a ser implementadas pelas administrações regionais de saúde, no âmbito do [Despacho n.º 4771-A/2016](https://diariodarepublica.pt/dr/detalhe/despacho/4771-a-2016-74076049), de 7 de abril, nos rastreios de base populacional nas áreas do cancro da mama, do cancro do colo do útero, do cancro do cólon e reto e da retinopatia diabética, devem:
+
+a) Alargar a cobertura territorial garantindo a equidade entre as várias regiões do País;
+
+b) Incluir um plano estratégico para garantir o respeito pelas metas definidas no número anterior;
+
+c) Contemplar um plano de sensibilização, ações e campanhas de informação da população, alertando para a problemática do cancro do cólon e reto, aconselhando a adoção de estilos de vida mais saudáveis e divulgando boas práticas alimentares, nomeadamente através de uma dieta de base vegetal, como modo de prevenção e diminuição do risco de aparecimento do cancro;
+
+d) Reforçar a articulação entre os centros de saúde e as unidades de endoscopia digestiva, com vista à educação para a saúde, à melhoria da taxa de adesão aos rastreios e, consequentemente, à deteção da doença em tempo útil.
+
+Aprovada em 22 de abril de 2016.
+
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

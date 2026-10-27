@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0009:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0009-20030901",
+ "dre_path": null,
+ "source_lastmod": "2003-09-01",
+ "versions": [
+  {
+   "date": "2001-01-05",
+   "future": false,
+   "celex": "32001D0009",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba977d7d4686ecc5",
+    "d0c578090a1e390f",
+    "c8cdef5325e8f5f2",
+    "be5cd9e4e4da4263",
+    "49720350523459f5",
+    "94b4f027a436af75",
+    "bfc0ac9cb1b36abe",
+    "6870d6e04aceacef",
+    "25c4443619127fd8",
+    "599cdb0f2ce21309",
+    "6ee305acb31cb0f6",
+    "7f616f2badfa2a66"
+   ]
+  },
+  {
+   "date": "2003-09-01",
+   "future": false,
+   "celex": "02001D0009-20030901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime ANEXO I — CONDIÇÕES REFERIDAS NO N.o 1 DO ARTIGO 1.o",
+    "Suprime ANEXO II — CONDIÇÕES REFERIDAS NO N.o 2 DO ARTIGO 1.o",
+    "Suprime ANEXO III — CONDIÇÕES REFERIDAS NO N.o 3 DO ARTIGO 1.o",
+    "Suprime ANEXO IV — >PIC FILE= \"L_2001002PT.003702.EPS\">",
+    "Suprime ANEXO V — >PIC FILE= \"L_2001002PT.003902.EPS\">"
+   ],
+   "fragments": [
+    "35d6077a5c529b93"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba977d7d4686ecc5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2001/9/CE: Decisão da Comissão, de 29 de Dezembro de 2000, relativa a medidas de controlo exigidas para a execução da Decisão 2000/766/CE do Conselho relativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal (Texto relevante para efeitos do EEE) [notificada com o número C(2000) 4412]** *Jornal Oficial nº L 002 de 05/01/2001 p. 0032 - 0040*\n\nDecisão da Comissão\n\nde 29 de Dezembro de 2000\n\nrelativa a medidas de controlo exigidas para a execução da Decisão 2000/766/CE do Conselho relativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal\n\n[notificada com o número C(2000) 4412]\n\n(Texto relevante para efeitos do EEE)\n\n(2001/9/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno(1), com a última redacção que lhe foi dada pela Directiva 92/118/CEE(2), e, nomeadamente, o n.o 4 do seu artigo 9.o,\n\nTendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno(3), com a última redacção que lhe foi dada pela Directiva 92/118/CEE, e, nomeadamente, o n.o 4 do seu artigo 10.o,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade(4), e, nomeadamente, o seu artigo 22.o,\n\nConsiderando o seguinte:\n\n(1) A Decisão 2000/766/CE do Conselho, de 4 de Dezembro de 2000, relativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal(5), proíbe a alimentação de determinados animais de criação com proteínas animais transformadas. Esta proibição não se aplica a certas proteínas animais transformadas, sob reserva de condições a estabelecer.\n\n(2) Em 26 de Junho de 1998, o Comité Científico Director (CCD) adoptou um parecer sobre a segurança do precipitado de fosfato dicálcico obtido de ossos de ruminantes. Este parecer foi actualizado pelo CCD em 26 e 27 de Outubro de 2000. Para ter em conta este parecer científico, é necessário estabelecer requisitos para a produção de fosfato dicálcico.\n\n(3) Em 22 e 23 de Outubro de 1998, o Comité Científico Director (CCD) adoptou um parecer sobre a segurança das proteínas hidrolisadas produzidas a partir de couros de bovinos. Este parecer foi acutalizado pelo CCD em 25 e 26 de Maio de 2000. Para ter em conta este parecer científico, é necessário estabelecer requisitos para a produção de proteínas hidrolisadas. O CCD afirmou que pode ser utilizado um peso molecular máximo de 10000 Dalton, para o produto final obtido, como indicador da eficácia do processo de produção.\n\n(4) Nos termos da Decisão 2000/766/CE, os Estados-Membros podem permitir a colocação no mercado, as trocas comerciais, a importação e a exportação de proteínas animais transformadas destinadas a animais que não sejam mantidos, engordados ou criados para a produção de alimentos. É necessário estabelecer condições a fim de garantir que essas proteínas não possam ser utilizadas para fins não autorizados.\n\n(5) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "d0c578090a1e390f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros autorizarão a utilização de farinha de peixe na alimentação de animais que não sejam ruminantes, unicamente em conformidade com as condições fixadas no anexo I.\n\n2. Os Estados-Membros autorizarão a utilização de fosfato dicálcico na alimentação de animais que não sejam ruminantes, unicamente em conformidade com as condições fixadas no anexo II.\n\n3. Os Estados-Membros autorizarão a utilização de proteínas hidrolisadas na alimentação de animais que não sejam ruminantes, unicamente em confromidade com as condições fixadas no anexo III.\n\n4. Os Estados-Membros garantirão que, para efeitos de trocas comerciais, o fosfato dicálcico e as proteínas hidrolisadas serão acompanhados por um certificado oficial em conformidade com o modelo constante do anexo IV.\n\n5. No prazo de 15 dias a contar da entrada em vigor da presente decisão, os Estados-Membros transmitirão aos outros Estados-Membros e à Comissão a lista das unidades de transformação aprovadas para a produção de farinha de peixe, fosfato dicálcico e proteínas hidrolisadas, que funcionem em conformidade com as condições fixadas na presente decisão. Qualquer alteração da lista será notificada imediatamente aos outros Estados-Membros e à Comissão."
+  },
+  "c8cdef5325e8f5f2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem assegurar que os alimentos para animais, incluindo os alimentos para animais de companhia, que contenham proteínas animais transformadas, tal como definidas na Decisão 2000/766/CE, exceptuando a farinha de peixe, o fosfato dicálcico e as proteínas hidrolisadas, destinados a animais que não sejam mantidos, engordados ou criados para a produção de alimentos, sejam produzidos em unidades que preparem exclusivamente alimentos para esses animais."
+  },
+  "be5cd9e4e4da4263": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros podem enviar para outros Estados-Membros proteínas animais transformadas, tal como definidas na Decisão 2000/766/CE, desde que se destinem a utilizações não proibidas nos termos do n.o 1, alínea a), do artigo 3.o da mesma decisão, e unicamente se forem cumpridas as seguintes condições adicionais:\n\na) O Estado-Membro de destino deve ter autorizado a recepção das proteínas animais transformadas;\n\nb) As proteínas animais transformadas devem ser acompanhadas de um certificado oficial em conformidade com o modelo constante do anexo V;\n\nc) As proteínas animais transformadas devem ser transportadas em contentores ou veículos cobertos e selados, por forma a evitar quaisquer perdas, e ser encaminhadas directamente para as unidades de produção de alimentos para animais de companhia ou outros animais;\n\nd) Os Estados-Membros que enviem proteínas animais transformadas para outros Estados-Membros devem informar, através do sistema ANIMO(6), a autoridade competente do local de destino de cada remessa enviada. A mensagem ANIMO deve incluir a menção \"não utilizar na alimentação animal destinada a animais mantidos, engordados ou criados para a produção de alimentos\";\n\ne) Os Estados-Membros de destino devem informar, através do sistema ANIMO, a autoridade competente do local de origem da chegada de cada remessa; se esta informação não for fornecida, os Estados-Membros de origem devem tomar imediatamente as medidas adequadas;\n\nf) Os Estados-Membros de destino devem assegurar que as instalações designadas no respectivo território utilizem a remessa apenas para os fins autorizados.\n\n2. Os Estados-Membros podem exportar para países terceiros proteínas animais transformadas, tal como definidas na Decisão 2000/766/CE, desde que se destinem a utilizações não proibidas nos termos do n.o 1, alínea a), do artigo 3.o da mesma decisão, e unicamente se forem cumpridas as seguintes condições:\n\na) Antes da exportação será celebrado um acordo bilateral com o país terceiro, no âmbito do qual esse país assumirá o compromisso de respeitar a utilização final e não exportar as proteínas animais transformadas, excepto se forem incorporadas num produto destinado a utilizações não proibidas nos termos do n.o 1, alínea a), do artigo 3.o da Decisão 2000/766/CE;\n\nb) As proteínas animais transformadas devem ser acompanhadas de um certificado oficial em conformidade com o modelo constante do anexo V.\n\nOs Estados-Membros que autorizem tal exportação devem informar a Comissão e os outros Estados-Membros de todos os termos e condições acordados com o país terceiro em causa, para a efectiva aplicação da presente decisão, no contexto do Comité Veterinário Permanente.\n\n3. Os Estados-Membros devem garantir que as proteínas animais transformadas importadas, tal como definidas na Decisão 2000/766/CE, destinadas a utilizações não proibidas nos termos do n.o 1, alínea a), do artigo 3.o da mesma decisão, sejam tratadas em conformidade com as condições definidas no artigo 8.o da Directiva 97/78/CE do Conselho(7).\n\n4. Os Estados-Membros efectuarão verificações documentais e ensaios às matérias-primas para a alimentação animal bem como aos alimentos compostos para animais através da cadeia de produção e distribuição de modo a assegurar o cumprimento das disposições da presente decisão e da Decisão 2000/766/CE. Estas verificações e ensaios devem ser efectuados, nomeadamente, em explorações agrícolas em que os ruminantes sejam mantidos com outras espécies animais.\n\nOs Estados-Membros informarão a Comissão dos resultados destas verificações, o mais tardar, até 31 de Maio de 2001.\n\n5. As medidas de controlo adicionais definidas nos n.os 1, 2 e 3 não serão aplicáveis:\n\n- aos alimentos para animais de companhia referidos no capítulo 4 do anexo I da Directiva 92/118/CEE, nem\n\n- aos produtos isentos pelo n.o 2 do artigo 2.o da Decisão 2000/766/CE da proibição estabelecida pelo n.o 1 do artigo 2.o da mesma decisão, desde que cumpram, se aplicáveis, as condições estabelecidas nos anexos I a III da presente decisão.\n\n6. A medidas de controlo adicionais estabelecidas no n.o 1 não se aplicam às proteínas animais transformadas referidas no artigo 4.o da Decisão 97/735/CE da Comissão(8), com a última redacção que lhe foi dada pela Decisão 1999/534/CE(9)."
+  },
+  "49720350523459f5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO artigo 2.o da Decisão 97/735/CE não se aplica às remessas de proteínas animais transformadas acompanhadas do certificado sanitário referido no n.o 1, alínea b), do artigo 3.o"
+  },
+  "94b4f027a436af75": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente decisão é aplicável a partir de 1 de Janeiro de 2001."
+  },
+  "bfc0ac9cb1b36abe": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 29 de Dezembro de 2000.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 395 de 30.12.1989, p. 13.\n\n(2) JO L 62 de 15.3.1993, p. 49.\n\n(3) JO L 224 de 18.8.1990, p. 29.\n\n(4) JO L 24 de 30.1.1998, p. 9.\n\n(5) JO L 306 de 7.12.2000, p. 32.\n\n(6) Decisão 91/398/CEE da Comissão (JO L 221 de 9.8.1991, p. 30).\n\n(7) JO L 24 de 30.1.1998, p. 9.\n\n(8) JO L 294 de 28.10.1997, p. 7.\n\n(9) JO L 204 de 4.8.1999, p. 37."
+  },
+  "6870d6e04aceacef": {
+   "fragment_id": "ANEXO I — CONDIÇÕES REFERIDAS NO N.o 1 DO ARTIGO 1.o",
+   "type": "divisao",
+   "heading": "ANEXO I — CONDIÇÕES REFERIDAS NO N.o 1 DO ARTIGO 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CONDIÇÕES REFERIDAS NO N.o 1 DO ARTIGO 1.o\n\n1. A farinha de peixe deve ser produzida em unidades de transformação dedicadas unicamente à produção de farinha de peixe, aprovadas para esse efeito pela autoridade competente em conformidade com o disposto no n.o 2 do artigo 5.o da Directiva 90/667/CEE.\n\n2. Antes da colocação em livre prática no território da Comunidade, cada remessa de farinha de peixe importada deve ser analisada em conformidade com o disposto na Directiva 98/88/CE da Comissão(1).\n\n3. A farinha de peixe deve ser transportada directamente das unidades de transformação para os estabelecimentos de fabrico de alimentos para animais, em veículos que não transportem simultaneamente outras matérias-primas para o fabrico de alimentos para animais. Caso o veículo seja utilizado subsequentemente para o transporte de outros produtos, deve ser cuidadosamente limpo e inspeccionado antes e depois do transporte da farinha de peixe.\n\n4. A farinha de peixe deve ser transportada directamente dos postos de inspecção fronteiriços para os estabelecimentos de fabrico de alimentos para animais, em conformidade com as condições fixadas no n.o 4 do artigo 8.o da Directiva 97/78/CE, em veículos que não transportem simultaneamente outras matérias-primas para o fabrico de alimentos para animais. Caso o veículo seja subsequentemente utilizado para o transporte de outros produtos, deve ser cuidadosamente limpo e inspeccionado antes e depois do transporte da farinha de peixe.\n\n5. Em derrogação dos pontos 3 e 4, a armazenagem intermédia da farinha de peixe pode ser autorizada unicamente se for efectuada em unidades de armazenagem específicas, autorizadas para esse efeito pela autoridade competente.\n\n6. Os alimentos para animais que contenham farinha de peixe só podem ser produzidos em estabelecimentos para o fabrico de alimentos para animais que não preparem alimentos destinados a ruminantes e que sejam aprovados para esse efeito pela autoridade competente.\n\nEm derrogação desta disposição, a autoridade competente pode permitir a produção de alimentos para animais destinados a ruminantes em estabelecimentos que também produzam alimentos que contenham farinha de peixe para outras espécies animais desde que sejam cumpridas as seguintes condições:\n\n- o transporte e a armazenagem das matérias-primas destinadas aos alimentos para ruminantes sejam completamente separados dos das matérias-primas proibidas na alimentação dos ruminantes, e\n\n- as instalações de armazenagem, transporte, fabrico e embalagem dos alimentos compostos destinados aos ruminantes se encontrem totalmente separadas, e\n\n- sejam disponibilizados à autoridade competente os registos detalhados das compras e das utilizações da farinha de peixe assim como das vendas de alimentos para animais contendo farinha de peixe, e\n\n- sejam efectuados ensaios de rotina aos alimentos destinados aos ruminantes de modo a garantir a ausência das proteínas animais transformadas, tal como definidas pelo artigo 1.o da Decisão 2000/766/CE, que são objecto de proibição.\n\n7. Do rótulo dos alimentos para animais que contêm farinha de peixe deve constar claramente a menção: \"Contém farinha de peixe - não pode ser consumido por animais ruminantes\".\n\n8. Os alimentos para animais a granel que contenham farinha de peixe devem ser transportados em veículos que não transportem simultaneamente alimentos para ruminantes. Caso o veículo seja subsequentemente utilizado para o transporte de outros produtos, deve ser cuidadosamente limpo e inspeccionado antes e depois do transporte a granel de alimentos para animais que contenham farinha de peixe.\n\n9. Será proibido utilizar e armazenar alimentos para animais que contenham farinha de peixe, excepto os alimentos para animais de companhia referidos no capítulo 4 do anexo I da Directiva 92/118/CEE, nas explorações agrícolas onde sejam mantidos, engordados ou criados ruminantes destinados à produção de alimentos.\n\nEm derrogação desta disposição, a autoridade competente pode permitir a utilização e armazenagem de alimentos para animais contendo farinha de peixe em explorações onde sejam mantidos ruminantes, se considerar satisfatórias as medidas internas implementadas na exploração para evitar que os ruminantes sejam alimentados com esses alimentos par aanimais contendo farinha de peixe.\n\n(1) JO L 318 de 27.11.1998, p. 45."
+  },
+  "25c4443619127fd8": {
+   "fragment_id": "ANEXO II — CONDIÇÕES REFERIDAS NO N.o 2 DO ARTIGO 1.o",
+   "type": "divisao",
+   "heading": "ANEXO II — CONDIÇÕES REFERIDAS NO N.o 2 DO ARTIGO 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONDIÇÕES REFERIDAS NO N.o 2 DO ARTIGO 1.o\n\n1. O fosfato dicálcico deve ser produzido em unidades de transformação aprovadas pela autoridade competente em conformidade com o disposto no n.o 2 do artigo 5.o da Directiva 90/667/CEE.\n\n2. O fosfato dicálcico proveniente de ossos desengordurados:\n\n- deve ser obtido a partir de ossos considerados aptos para consumo humano após inspecção ante e post mortem,\n\n- deve ser produzido por um processo que assegure que todas as matérias ósseas sejam finamente trituradas e desengorduradas com água quente e tratadas com ácido clorídrico diluído (a uma concentração de 4 %, no mínimo, e pH &lt; 1,5) durante um período de, pelo menos, dois dias, seguido de um tratamento do licor fosfórico obtido com cal, do qual resulte um precipitado de fosfato dicálcico a um pH de 4 a 7, que é, em seguida, seco com ar durante 15 minutos, com uma temperatura de admissão de 65 °C a 325 °C e uma temperatura final entre 30 °C e 65 °C, ou por um processo equivalente aprovado de acordo com o procedimento referido no artigo 17.o da Directiva 89/662/CEE.\n\n3. Os alimentos para animais que contenham fosfato dicálcico obtido a partir de ossos desengordurados só podem ser produzidos em estabelecimentos para o fabrico de alimentos para animais que não preparem alimentos destinados a ruminantes e que sejam aprovados para esse efeito pela autoridade competente.\n\nEm derrogação desta disposição, a autoridade competente pode permitir a produção de alimentos para animais destinados a ruminantes em estabelecimentos que também produzam alimentos que contenham fosfato dicálico obtido a partir de ossos desengordurados para outras espécies animais desde que sejam cumpridas as seguintes condições:\n\n- o transporte e a armazenagem das matérias-primas destinadas aos alimentos para ruminantes sejam completamente separados dos das matérias-primas proibidas na alimentação dos ruminantes, e\n\n- as instalações de armazenagem, transporte, fabrico e embalagem dos alimentos compostos destinados aos ruminantes se encontrem totalmente separadas, e\n\n- sejam disponibilizados à autoridade competente os registos detalhados das compras e das utilizações do fosfato dicálcico obtido a partir de ossos desengordurados assim como das vendas de alimentos para animais contendo fosfato dicálcico obtido a partir de ossos desengordurados, e\n\n- sejam efectuados ensaios de rotina aos alimentos destinados aos ruminantes de modo a garantir a ausência das proteínas animais transformadas, tal como definidas pelo artigo 1.o da Decisão 2000/766/CE, que são objecto de proibição.\n\n4. Do rótulo dos alimentos para animais que contêm fosfato dicálcico obtido a partir de ossos desengordurados deve constar claramente a menção: \"Contém fosfato dicálcico obtido a partir de ossos desengordurados - não pode ser consumido por animais ruminantes\".\n\n5. Os alimentos para animais a granel que contenham fosfato dicálcico devem ser transportados em veículos que não transportem simultaneamente alimentos para ruminantes. Caso o veículo seja subsequentemente utilizado para o transporte de outros produtos, deve ser cuidadosamente limpo e inspeccionado antes e depois do transporte a granel de alimentos para animais que contenham fosfato dicálcico obtido a partir de ossos desengordurados.\n\n6. Será proibido utilizar e armazenar alimentos para animais que contenham fosfato dicálcico obtido a partir de ossos desengordurados, excepto os alimentos para animais de companhia referidos no capítulo 4 do anexo I da Directiva 92/118/CEE, nas explorações agrícolas onde sejam mantidos, engordados ou criados ruminantes destinados à produção de alimentos.\n\nEm derrogação desta disposição, a autoridade competente pode permitir a utilização e armazenagem de alimentos para animais contendo fosfato dicálcico obtido a partir de ossos desengordurados em explorações onde sejam mantidos ruminantes, se considerar satisfatórias as medidas internas implementadas na exploração para evitar que os ruminantes sejam alimentados com esses alimentos para animais contendo fosfato dicálcico obtido a partir de ossos desengordurados."
+  },
+  "599cdb0f2ce21309": {
+   "fragment_id": "ANEXO III — CONDIÇÕES REFERIDAS NO N.o 3 DO ARTIGO 1.o",
+   "type": "divisao",
+   "heading": "ANEXO III — CONDIÇÕES REFERIDAS NO N.o 3 DO ARTIGO 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CONDIÇÕES REFERIDAS NO N.o 3 DO ARTIGO 1.o\n\n1. As proteínas hidrolisadas obtidas a partir de couros e peles devem:\n\n- ser derivadas de couros e peles provenientes de animais abatidos num matadouro e cujas carcassas tenham sido consideradas adequadas para consumo humano após inspecção ante e post mortem,\n\n- ser produzidas através de um processo de produção que envolva medidas adequadas para minimizar a contaminação dos couros e peles, a preparação da matéria-prima por salga, calagem e lavagem intensiva, seguida da exposição dos materiais a um pH &gt;11 durante mais de 3 horas a uma temperatura superior a 80 °C, a que se deve seguir um tratamento térmico a mais de 140 °C durante 30 minutos e a mais de 3,6 bar, ou por um método de produção equivalente aprovado em conformidade com o procedimento previsto no artigo 17.o da Directiva 89/662/CEE,\n\n- ser produzidas em unidades de transformação dedicadas unicamente à produção de proteinas hidrolisadas e aprovadas para esse efeito pela autoridade competente em conformidade com o disposto no n.o 2 do artigo 5.o da Directiva 90/667/CEE,\n\n- ser submetidas a amostragem após transformação para comprovar que têm peso molecular inferior a 10000 Dalton.\n\n2. Os alimentos para animais que contenham proteínas hidrolisadas só podem ser produzidos em unidades de fabrico de alimentos para animais que não preparem alimentos destinados a ruminantes e que sejam aprovadas para esse efeito pela autoridade competente.\n\nEm derrogação desta disposição, a autoridade competente pode permitir a produção de alimentos para animais destinados a ruminantes em estabelecimentos que também produzam alimentos que contenham proteínas hidrolisadas para outras espécies animais desde que sejam cumpridas as seguintes condições:\n\n- o transporte e a armazenagem das matérias-primas destinadas aos alimentos para ruminantes sejam completamente separados dos das matérias-primas proibidas na alimentação dos ruminantes, e\n\n- as instalações de armazenagem, transporte, fabrico e embalagem dos alimentos compostos destinados aos ruminantes se encontrem totalmente separadas, e\n\n- sejam disponibilizados à autoridade competente os registos detalhados das compras e das utilizações das proteínas hidrolisadas assim como das vendas de alimentos para animais contendo proteínas hidrolisadas, e\n\n- sejam efectuados ensaios de rotina aos alimentos destinados aos ruminantes de modo a garantir a ausência das proteínas animais transformadas, tal como definidas pelo artigo 1.o da Decisão 2000/766/CE, que são objecto de proibição.\n\n3. Do rótulo dos alimentos para animais que contêm proteínas hidrolisadas deve constar claramente a menção: \"Contém proteínas hidrolisadas - não pode ser consumido por animais ruminantes\".\n\n4. Os alimentos para animais a granel que contenham proteínas hidrolisadas devem ser transportados em veículos que não transportem simultaneamente alimentos para ruminantes. Caso o veículo seja subsequentemente utilizado para o transporte de outros produtos, deve ser cuidadosamente limpo e inspeccionado antes e depois do transporte a granel de alimentos para animais que contenham proteínas hidrolisadas.\n\n5. Será proibido utilizar e armazenar alimentos para animais que contenham proteínas hidrolisadas, excepto os alimentos para animais de companhia referidos no capítulo 4 do anexo I da Directiva 92/118/CEE, nas explorações agrícolas onde sejam mantidos, engordados ou criados ruminantes destinados à produção de alimentos.\n\nEm derrogação desta disposição, a autoridade competente pode autorizar a utilização e armazenagem de alimentos para animais contendo proteínas hidrolisadas em explorações onde sejam mantidos ruminantes, se considerar satisfatórias as medidas internas implementadas na exploração para evitar que os ruminantes sejam alimentados com esses alimentos para animais contendo proteínas hidrolisadas."
+  },
+  "6ee305acb31cb0f6": {
+   "fragment_id": "ANEXO IV — >PIC FILE= \"L_2001002PT.003702.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO IV — >PIC FILE= \"L_2001002PT.003702.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >PIC FILE= \"L_2001002PT.003702.EPS\">\n\n>PIC FILE= \"L_2001002PT.003801.EPS\">"
+  },
+  "7f616f2badfa2a66": {
+   "fragment_id": "ANEXO V — >PIC FILE= \"L_2001002PT.003902.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO V — >PIC FILE= \"L_2001002PT.003902.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >PIC FILE= \"L_2001002PT.003902.EPS\">\n\n>PIC FILE= \"L_2001002PT.004001.EPS\">"
+  },
+  "35d6077a5c529b93": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001D0009 — PT — 01.09.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001D0009) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32001D0009) [de 29 de Dezembro de 2000](http://publications.europa.eu/resource/celex/32001D0009) [relativa a medidas de controlo exigidas para a execução da Decisão 2000/766/CE do Conselho relativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal](http://publications.europa.eu/resource/celex/32001D0009) [[notificada com o número C(2000) 4412]](http://publications.europa.eu/resource/celex/32001D0009) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32001D0009) [(2001/9/CE)](http://publications.europa.eu/resource/celex/32001D0009) (JO L 002, 5.1.2001, p.32)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2003 da Comissão de 10 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1234) — L 173 — 6 — 11.7.2003"
+  }
+ }
+}

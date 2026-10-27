@@ -1,0 +1,627 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124044598:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-125499803",
+ "dre_path": "/dr/detalhe/portaria/258-2019-124044598",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889060011",
+    "125277243",
+    "125277244",
+    "125277245",
+    "125277246",
+    "125277247",
+    "125277249",
+    "125277250",
+    "125277251",
+    "125277252",
+    "125277253",
+    "125277254",
+    "125277255",
+    "125277256",
+    "125277257",
+    "125277258",
+    "125277259",
+    "125277260",
+    "125277261",
+    "125277262",
+    "125277263",
+    "125277264",
+    "125277265",
+    "125277266",
+    "125277267",
+    "125277268",
+    "125277269",
+    "125277270",
+    "125277271"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:125468539:por",
+     "title": "Declaração de Retificação n.º 53-A/2019",
+     "published": "2019-10-18",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/53-a-2019-125468539",
+     "date": "2019-08-20"
+    }
+   ]
+  },
+  {
+   "date": "2024-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:888960218:por",
+     "title": "Portaria n.º 235/2024/1",
+     "published": "2024-09-26",
+     "dre_path": "/dr/detalhe/portaria/235-2024-888960218"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "889060011",
+    "889060012",
+    "889060013",
+    "889060014",
+    "889060015",
+    "889060016",
+    "889060017",
+    "889060018",
+    "889060019",
+    "889060020",
+    "889060021",
+    "889060022",
+    "889060023",
+    "889060024",
+    "889060025",
+    "889060026",
+    "889060027",
+    "889060028",
+    "889060029",
+    "889060030",
+    "889060031",
+    "889060032",
+    "889060033",
+    "889060034",
+    "889060035",
+    "889060036",
+    "889060037",
+    "889060038",
+    "889060039",
+    "889060040"
+   ]
+  }
+ ],
+ "fragments": {
+  "889060011": {
+   "fragment_id": "125499804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-09-27",
+   "changed_by": [],
+   "markdown": "Portaria n.º 258/2019\n\nde 19 de agosto\n\nSumário: Cria o Programa «Cuida-te +» e aprova o respetivo Regulamento.\n\nA necessidade de uma perspetiva holística na produção de políticas públicas dirigidas aos jovens, inerentes às atuais tendências sociodemográficas é enquadrada no Plano Nacional para a Juventude (PNJ), aprovado através da Resolução do Conselho de Ministros n.º 114-A/2018, de 4 de setembro. Entre outras dimensões, o PNJ assume como área estratégica prioritária a saúde e o bem-estar juvenis, em especial a efetivação do direito à saúde, tendo em consideração as dimensões biopsicossociais particulares desta fase da vida, na promoção de políticas e programas de saúde e de um estilo de vida saudável.\n\nNo quadro da Agenda 2030 de Desenvolvimento Sustentável, através do reforço da integração do 3.º Objetivo de Desenvolvimento Sustentável diretamente relacionado com a saúde, e tendo em conta que a saúde e o bem-estar das populações são determinados pelos estilos de vida, adota-se a abordagem «Saúde em Todas as Políticas».\n\nA evidência científica disponível aponta para o custo-efetividade da prevenção e da promoção da saúde junto de jovens, justificando o investimento nesta área. Os custos da prevenção têm retornos, não só de natureza económica, mas também na qualidade de vida, saúde e bem-estar das populações. Com efeito, os comportamentos de risco, para além do impacto negativo ao nível da saúde individual, potenciam a desvantagem social, com reflexos negativos, nomeadamente ao nível da integração social e da independência económica.\n\nAs Orientações da União Europeia para a Atividade Física - UE 2013/0603 convergem nessa preocupação, identificando exemplos de ação para o combate ao sedentarismo na Europa e para a promoção da saúde e do bem-estar, recomendando a recolha de dados acerca da atividade física, a responsabilização de profissionais de saúde como agentes facilitadores da mudança de comportamentos e o incentivo de condutas que previnam o sedentarismo.\n\nPrevenir a doença e promover a saúde dos jovens passa por criar ambientes que promovam estilos de vida saudáveis, de forma transversal, assim como diligenciar atividades desenhadas para aumentar os fatores de proteção e minimizar os fatores de risco.\n\nO programa de saúde juvenil «CUIDA-TE», do Instituto Português do Desporto e Juventude, I. P., decorre das competências que lhe são acometidas nas alíneas g) e j) do n.º 4 do artigo 4.º, do Decreto-Lei n.º 98/2011, de 21 de setembro, alterado e republicado pelo Decreto-Lei n.º 132/2014, de 3 de setembro, que determina que este instituto é responsável por «promover ações de sensibilização e aconselhamento, em particular nas áreas da saúde, comportamentos de risco, proteção de menores e ambiente, visando assegurar a realização e o bem-estar dos jovens» e «solicitar aos serviços e organismos integrados na Administração Pública, em particular às escolas, instituições de ensino superior e a entidades na área da saúde, a informação e a colaboração que considere necessárias».\n\nDe uma maneira global, as intervenções baseadas em evidência científica requerem um modelo conceptual, incluem uma descrição detalhada da intervenção e do respetivo desenho de avaliação e identificam resultados que são mensuráveis e que foram avaliados, demonstrando efeitos significativos e sustentados nos resultados atingidos. É nesse sentido que se entende necessária, volvidos mais de dez anos desde a criação do programa «CUIDA-TE», a consubstanciação do programa nas recomendações que indicam que a intervenção preventiva e de promoção da saúde juvenil deverá basear-se na investigação teórica e metodológica, na procura da qualificação e da eficácia da intervenção, alicerçando-a na evidência científica, na utilização dos recursos tecnológicos disponíveis, na gestão efetiva e eficaz dos recursos financeiros, no trabalho em equipa e multidisciplinar e numa relação de proximidade em articulação regional e local. A especificidade das intervenções junto de jovens implica a necessidade de ter em atenção os diferentes níveis de atuação e convocar todos, através de parcerias em diversas áreas. Uma das áreas que tem vindo a ser reconhecida como prioritária de intervenção nesta faixa etária é a da saúde mental, baseada em modelos ecológicos de intervenção e sustentados na articulação intersetorial. Face ao exposto, é evidente a relevância de investir no reforço do programa «CUIDA-TE», numa lógica de interligação mais profunda com os determinantes de saúde, dada a sua contribuição para o bem-estar e saúde dos jovens.\n\nDesta forma, tendo em conta que um dos objetivos na área da saúde e do bem-estar do PNJ é o de potenciar a acessibilidade e operacionalidade face aos mecanismos de promoção, prevenção e aconselhamento no âmbito da saúde juvenil, é agora estabelecida a renovação do programa de saúde juvenil, criando o programa «Cuida-te +». Concretamente, a necessidade de uma intervenção capaz de responder às características desta faixa etária, reconhecendo-a, não apenas como um período complexo e de grandes mudanças, mas também como um período particularmente favorável à prevenção de comportamentos de risco e à promoção de comportamentos saudáveis, motivou o ajuste do referido Programa.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, ao abrigo das alíneas g) e j) do n.º 4 do artigo 4.º do Decreto-Lei n.º 98/2011, de 21 de setembro, alterado e republicado pelo Decreto-Lei n.º 132/2014, de 3 de setembro, o seguinte:\n\n> Nota: [Artigo 3.º, Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218) O Regulamento do Programa Cuida-te + aprovado em anexo à presente portaria, é aplicável, até à sua conclusão, aos projetos aprovados e em curso à data da entrada em vigor da presente portaria."
+  },
+  "125277243": {
+   "fragment_id": "125499805",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação do Programa «Cuida-te +»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação do Programa «Cuida-te +»\n\nÉ criado o programa «Cuida-te +», tendo como objeto a promoção da saúde e dos estilos de vida saudável junto dos jovens."
+  },
+  "125277244": {
+   "fragment_id": "125499806",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamento do Programa «Cuida-te +»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento do Programa «Cuida-te +»\n\nÉ aprovado o Regulamento do Programa «Cuida-te +», publicado em anexo à presente Portaria, da qual faz parte integrante."
+  },
+  "125277245": {
+   "fragment_id": "125499807",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão do Programa «Cuida-te +»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gestão do Programa «Cuida-te +»\n\nA gestão do Programa «Cuida-te +» é atribuída ao Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.)."
+  },
+  "125277246": {
+   "fragment_id": "125499808",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\n1 - São revogadas a Portaria n.º 655/2008, de 25 de junho, que cria o programa CUIDA-TE, e a Portaria n.º 370-A/98, de 25 de março, que institui a linha telefónica para informação aos jovens nas áreas da educação sexual e do planeamento familiar.\n\n2 - Sem prejuízo do disposto no número anterior, o acompanhamento, a execução e a avaliação das medidas e projetos em curso à data da entrada em vigor da presente Portaria observam o regime previsto no Regulamento do Programa CUIDA-TE, aprovado pela Portaria n.º 655/2018, de 25 de julho."
+  },
+  "125277247": {
+   "fragment_id": "125499809",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "125277249": {
+   "fragment_id": "125499811",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "125277250": {
+   "fragment_id": "125499812",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "125277251": {
+   "fragment_id": "125499813",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO Programa «Cuida-te +», adiante designado como Programa, visa a promoção da saúde juvenil e dos estilos de vida saudável."
+  },
+  "125277252": {
+   "fragment_id": "125499814",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Entidades organizadoras», as entidades que desenvolvam projetos em medidas do Programa e que se incluam numa das seguintes categorias:\n\ni) Estabelecimentos de ensino básico, secundário ou superior;\n\nii) Associações e federações de associações de jovens inscritas no Registo Nacional do Associativismo Jovem (RNAJ), salvaguardando o disposto no enunciado do artigo 3.º da Lei n.º 23/2006, de 23 de junho;\n\niii) Organizações não-governamentais (ONG);\n\niv) Instituições particulares de solidariedade social (IPSS);\n\nv) Outras entidades privadas, com ou sem fins lucrativos, que prossigam os objetivos enquadrados nas áreas de intervenção do Programa;\n\nvi) Autarquias locais.\n\nb) «População-alvo estratégica», interventores intermediários que tenham um papel potencialmente influenciador na promoção de comportamentos benéficos para a saúde dos jovens, designadamente profissionais de saúde, profissionais de educação física e desporto, técnicos de juventude, profissionais de intervenção comunitária, dirigentes de associações de jovens e suas federações, famílias e pares como interventores.\n\nc) «População-alvo final», cidadãos jovens, dos 12 aos 25 anos de idade, inclusive, particularmente indivíduos ou grupos em situação vulnerável ou de exclusão social."
+  },
+  "125277253": {
+   "fragment_id": "125499815",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos gerais\n\n1 - O Programa visa:\n\na) Abordar os determinantes da saúde da população-alvo final, nomeadamente o acesso aos cuidados de saúde, a literacia em saúde e estilos de vida saudável, saúde mental, a alimentação, a atividade física e desportiva, os comportamentos aditivos e a sexualidade;\n\nb) Promover os fatores de proteção e reduzir os fatores de risco de doenças relacionadas com estilos de vida junto da população-alvo final;\n\nc) Adotar uma perspetiva compreensiva face à saúde juvenil, visando vários domínios da vida da população-alvo final, envolvendo múltiplos parceiros, nomeadamente famílias, pares, escolas e comunidades."
+  },
+  "125277254": {
+   "fragment_id": "125499816",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas de intervenção\n\nConstituem áreas de intervenção do Programa:\n\na) A sensibilização, a informação e o aconselhamento, junto da população-alvo final, acerca das seguintes temáticas:\n\ni) Alimentação e atividades física e desportiva;\n\nii) Comportamentos aditivos;\n\niii) Saúde sexual e reprodutiva;\n\niv) Saúde mental.\n\nb) A capacitação da população-alvo estratégica."
+  },
+  "125277255": {
+   "fragment_id": "125499817",
+   "type": 1,
+   "heading": "Capítulo II — Operacionalização do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Operacionalização do Programa"
+  },
+  "125277256": {
+   "fragment_id": "125499818",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres do IPDJ, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres do IPDJ, I. P.\n\n1 - Compete ao IPDJ, I. P., a operacionalização, a divulgação, a disponibilização da informação e dos conteúdos referentes ao Programa e o acompanhamento da execução das atividades inerentes às suas medidas."
+  },
+  "125277257": {
+   "fragment_id": "125499819",
+   "type": 11,
+   "heading": "Artigo 6.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medidas\n\n1 - São criadas, no âmbito do Programa, as seguintes medidas:\n\na) Medida 1: Atendimento personalizado;\n\nb) Medida 2: Promoção da literacia em saúde."
+  },
+  "125277258": {
+   "fragment_id": "125499820",
+   "type": 11,
+   "heading": "Artigo 7.º — Medida 1: Atendimento Personalizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medida 1: Atendimento Personalizado\n\n1 - A medida «Atendimento Personalizado» visa dar resposta às necessidades de aconselhamento e sensibilização da população-alvo final.\n\n2 - A medida integra os seguintes dispositivos operacionais:\n\na) Dispositivo 1.1 - Unidades Móveis: Disponibilização de unidades móveis, devidamente apetrechadas, com vista à deslocação a locais onde se verifique a presença da população-alvo final em número significativo, tais como estabelecimentos de ensino, locais de diversão, mostras, feiras, festivais ou outras iniciativas similares, com os objetivos de sensibilizar e informar sobre temáticas relacionadas com a saúde global da população-alvo final, encaminhar e referenciar os destinatários do Programa para estruturas do Serviço Nacional de Saúde;\n\nb) Dispositivo 1.2 - Gabinetes de Saúde Juvenil: Gabinetes equipados para prestar aconselhamento gratuito, anónimo e confidencial nas áreas de atuação do Programa, com os objetivos de deteção e intervenção precoces, encaminhamento e referenciação da população-alvo final do Programa para estruturas de saúde;\n\nc) Dispositivo 1.3 - Atendimento não-presencial na área da saúde sexual e reprodutiva:\n\ni) Linha de atendimento telefónico gratuito, anónimo e confidencial, para informação, aconselhamento e referenciação na área da saúde sexual e reprodutiva;\n\nii) Meios eletrónicos que assegurem o atendimento, o aconselhamento e o encaminhamento descrito na subalínea anterior."
+  },
+  "125277259": {
+   "fragment_id": "125499821",
+   "type": 11,
+   "heading": "Artigo 8.º — Medida 2: Promoção da Literacia em Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medida 2: Promoção da Literacia em Saúde\n\n1 - A medida «Promoção da Literacia em Saúde» consiste na disponibilização proativa de informação e conhecimento na área da saúde juvenil.\n\n2 - A medida engloba três dispositivos operacionais:\n\na) Dispositivo 2.1 - Saúde Juvenil em Portal: Disponibilização de uma secção no portal do IPDJ, I. P., englobando todas as valências do Programa e as suas iniciativas, disponibilizando conteúdos informativos sobre as principais áreas de intervenção do Programa;\n\nb) Dispositivo 2.2 - Educação para a Saúde: Promoção de iniciativas que utilizem diversos métodos ativos de expressão, como é o caso do teatro, da expressão plástica, da música, do desporto ou da dança, no âmbito das áreas de intervenção do programa;\n\nc) Dispositivo 2.3 - Capacitação: Promoção de ações de formação, no âmbito da intervenção preventiva, dirigidas especificamente às populações-alvo estratégicas do Programa."
+  },
+  "125277260": {
+   "fragment_id": "125499822",
+   "type": 11,
+   "heading": "Artigo 9.º — Operacionalização dos dispositivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Operacionalização dos dispositivos\n\n1 - No âmbito do desenvolvimento e gestão dos dispositivos do Programa pode o IPDJ, I. P., suscitar a participação de outras entidades, com ou sem fins lucrativos, especialmente vocacionadas para a promoção da saúde, com reconhecida experiência de trabalho junto da população-alvo final a nível nacional, mediante a celebração de protocolos, acordos ou instrumentos de idêntica força vinculativa.\n\n2 - Os dispositivos 1.1. e 1.2. são operacionalizados nos termos de protocolos a celebrar com as entidades parceiras vocacionadas para a promoção da saúde ou por adjudicação externa de serviços prestados por entidades com ou sem fins lucrativos, nos termos do Código dos Contratos Públicos, destinada a complementar ou a cobrir áreas geográficas onde tal se mostre necessário.\n\n3 - O IPDJ, I. P., pode abrir candidaturas com vista ao desenvolvimento de projetos por Entidades Organizadoras nos dispositivos 1.1., 2.2. e 2.3., de acordo com o estipulado no Capítulo III deste regulamento."
+  },
+  "125277261": {
+   "fragment_id": "125499823",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento do Programa\n\n1 - O IPDJ, I. P., envolverá as entidades organizadoras e parceiras do Programa no seu acompanhamento, disponibilizando questionários de avaliação periódicos e promovendo, sempre que necessário, reuniões para o efeito.\n\n2 - O IPDJ, I. P., promoverá a articulação interministerial no acompanhamento do Programa, convidando as áreas governativas da Cidadania e Igualdade, Ciência, Tecnologia e Ensino Superior, Educação, Trabalho, Solidariedade, Segurança Social e Saúde a participar:\n\na) No ajuste da intervenção às necessidades existentes, no âmbito do Programa;\n\nb) Na emissão de pareceres e sugestões, propondo estudos e apresentando propostas de novas formas de cooperação;\n\nc) Na definição e implementação de metodologias de monitorização e avaliação do Programa."
+  },
+  "125277262": {
+   "fragment_id": "125499824",
+   "type": 1,
+   "heading": "Capítulo III — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Candidaturas"
+  },
+  "125277263": {
+   "fragment_id": "125499825",
+   "type": 11,
+   "heading": "Artigo 11.º — Candidaturas das Entidades Organizadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Candidaturas das Entidades Organizadoras\n\n1 - Podem candidatar-se, através de plataforma informática, para o desenvolvimento de projetos no âmbito dos dispositivos 1.1 e aos dispositivos 2.2 e 2.3 do Programa, as entidades organizadoras, tal como se encontram definidas na alínea a) do artigo 2.º do presente Regulamento.\n\n2 - A apresentação de candidaturas aos dispositivos referidos no número anterior é efetuada através de aplicação eletrónica própria, até 30 dias úteis antes da data prevista para o início da sua realização.\n\n3 - O IPDJ, I. P., define, anualmente, por despacho do Conselho Diretivo:\n\na) A data estabelecida para a apresentação, seleção e aprovação de candidaturas;\n\nb) O número limite de candidaturas a selecionar por entidade organizadora.\n\n4 - Do formulário de candidatura devem constar os seguintes elementos:\n\na) Identificação da entidade organizadora;\n\nb) Identificação, caracterização e abrangência das populações-alvo estratégica e final;\n\nc) Identificação da área geográfica de intervenção;\n\nd) Outros elementos que contribuam para a apreciação das candidaturas apresentadas, mediante solicitação do IPDJ, I. P."
+  },
+  "125277264": {
+   "fragment_id": "125499826",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação das candidaturas\n\n1 - Os critérios e a respetiva ponderação para a avaliação das candidaturas são definidos, anualmente, mediante deliberação do Conselho Diretivo do IPDJ, I. P., tendo por base os seguintes fatores:\n\na) Adequação dos dispositivos a que se candidatam às necessidades que identificam;\n\nb) Potencial de disseminação da intervenção junto das populações-alvo estratégica e final;\n\nc) Abrangência do universo de beneficiários;\n\nd) Critérios sociodemográficos;\n\ne) Tipologia da entidade organizadora."
+  },
+  "125277265": {
+   "fragment_id": "125499827",
+   "type": 11,
+   "heading": "Artigo 13.º — Aprovação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aprovação das candidaturas\n\nA aprovação das candidaturas é da competência do Conselho Diretivo do IPDJ, I. P."
+  },
+  "125277266": {
+   "fragment_id": "125499828",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres das Entidades Organizadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deveres das Entidades Organizadoras\n\nSão deveres das entidades organizadoras com candidaturas aprovadas:\n\na) Executar os projetos aprovados;\n\nb) Publicitar, em todos os materiais físicos ou digitais produzidos no âmbito dos projetos em causa, o Programa e o IPDJ, I. P., através dos meios de divulgação e de comunicação de que dispõe a entidade;\n\nc) Sempre que solicitado, facultar ao IPDJ, I. P., todas as informações e os meios necessários para o acompanhamento das candidaturas, disponibilizando o acesso aos locais de execução das mesmas;\n\nd) Dar prévio conhecimento ao IPDJ, I. P., de eventuais alterações à planificação inicial da atividade;\n\ne) Apresentar ao IPDJ, I. P., no prazo máximo de 20 dias úteis após a conclusão da atividade, o relatório da sua monitorização e avaliação, em formulário próprio disponível na plataforma informática."
+  },
+  "125277267": {
+   "fragment_id": "125499829",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do IPDJ, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do IPDJ, I. P.\n\n1 - Compete ao IPDJ, I. P., enquanto entidade gestora do Programa:\n\na) Acompanhar a execução das ações no âmbito do Programa, podendo, para tal, aceder aos locais da respetiva realização;\n\nb) Solicitar às entidades organizadoras todas as informações que sejam tidas por necessárias para o acompanhamento da execução das atividades;\n\nc) Cancelar atividades em curso, desde que se verifique grave ou reiterado incumprimento pela entidade organizadora das normas legais ou regulamentares aplicáveis;\n\nd) Avaliar, anualmente, a execução do Programa.\n\n2 - O cancelamento de atividades nos termos da alínea c) do número anterior tem lugar na sequência de um processo de averiguações sumário, instaurado e instruído pelo IPDJ, I. P., por forma escrita, com garantia do contraditório da entidade visada.\n\n3 - O processo de averiguações sumário a que se refere o número anterior deve estar concluído no prazo máximo de dez dias úteis posteriores à respetiva instauração.\n\n4 - O cancelamento de atividades a que se refere o presente artigo determina a impossibilidade de a entidade organizadora ser candidata a qualquer medida do Programa por um período de dois anos a contar da data de decisão."
+  },
+  "125277268": {
+   "fragment_id": "125499830",
+   "type": 11,
+   "heading": "Artigo 16.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sanções\n\n1 - Qualquer irregularidade no cumprimento do estipulado no artigo 14.º pode determinar:\n\na) A inelegibilidade da candidatura a programas ou a outros apoios do IPDJ, I. P., pelo período de um ano;\n\nb) A responsabilidade civil e criminal que ao caso couber, nos termos gerais de direito aplicáveis.\n\n2 - Compete ao Conselho Diretivo do IPDJ, I. P., aplicar as sanções que sejam devidas."
+  },
+  "125277269": {
+   "fragment_id": "125499831",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "125277270": {
+   "fragment_id": "125499832",
+   "type": 11,
+   "heading": "Artigo 17.º — Financiamento do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Financiamento do Programa\n\nO financiamento do Programa fica condicionado à dotação orçamental anual definida pelo Conselho Diretivo do IPDJ, I. P."
+  },
+  "125277271": {
+   "fragment_id": "125499833",
+   "type": 11,
+   "heading": "Artigo 18.º — Integração de lacunas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Integração de lacunas\n\nTodas as dúvidas e omissões do presente Regulamento são resolvidas por deliberação do Conselho Diretivo do IPDJ, I. P.\n\n112497761"
+  },
+  "889060012": {
+   "fragment_id": "125499805",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação do Programa «Cuida-te +»",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 1.º — Criação do Programa «Cuida-te +»\n\nÉ criado o programa «Cuida-te +», tendo como objeto a promoção da saúde e dos estilos de vida saudável junto dos jovens.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060013": {
+   "fragment_id": "125499806",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamento do Programa «Cuida-te +»",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 2.º — Regulamento do Programa «Cuida-te +»\n\nÉ aprovado o Regulamento do Programa «Cuida-te +», publicado em anexo à presente Portaria, da qual faz parte integrante.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060014": {
+   "fragment_id": "125499807",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão do Programa «Cuida-te +»",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 3.º — Gestão do Programa «Cuida-te +»\n\nA gestão do Programa «Cuida-te +» é atribuída ao Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.).\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060015": {
+   "fragment_id": "125499808",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27",
+    "Retificado pelo/a [Declaração de Retificação n.º 53-A/2019 - Diário da República n.º 201/2019, 1º Suplemento, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/53-a-2019-125468539), em vigor a partir de 2019-08-20"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\n1 - São revogadas a Portaria n.º 655/2008, de 25 de julho, que cria o programa CUIDA-TE, e a Portaria n.º 370-A/98, de 25 de março, que institui a linha telefónica para informação aos jovens nas áreas da educação sexual e do planeamento familiar.\n\n2 - Sem prejuízo do disposto no número anterior, o acompanhamento, a execução e a avaliação das medidas e projetos em curso à data da entrada em vigor da presente Portaria observam o regime previsto no Regulamento do Programa CUIDA-TE, aprovado pela Portaria n.º 655/2008, de 25 de julho.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27\n\n> Retificado pelo/a [Declaração de Retificação n.º 53-A/2019 - Diário da República n.º 201/2019, 1º Suplemento, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/53-a-2019-125468539), em vigor a partir de 2019-08-20"
+  },
+  "889060016": {
+   "fragment_id": "125499809",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060017": {
+   "fragment_id": "125499810",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "O Secretário de Estado da Juventude e do Desporto, João Paulo de Loureiro Rebelo, em 1 de agosto de 2019.\n\nREGULAMENTO DO PROGRAMA «CUIDA-TE +»\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060018": {
+   "fragment_id": "125499811",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "## Anexo\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060019": {
+   "fragment_id": "125499812",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060020": {
+   "fragment_id": "125499813",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO Programa «Cuida-te +», adiante designado como Programa, visa a promoção da saúde juvenil e dos estilos de vida saudável.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060021": {
+   "fragment_id": "125499814",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Entidades organizadoras», as entidades que desenvolvam projetos em medidas do Programa e que se incluam numa das seguintes categorias:\n\ni) Estabelecimentos de ensino básico, secundário ou superior;\n\nii) Associações e federações de associações de jovens inscritas no Registo Nacional do Associativismo Jovem (RNAJ), salvaguardando o disposto no enunciado do artigo 3.º da Lei n.º 23/2006, de 23 de junho;\n\niii) Organizações não-governamentais (ONG);\n\niv) Instituições particulares de solidariedade social (IPSS);\n\nv) Outras entidades privadas, com ou sem fins lucrativos, que prossigam os objetivos enquadrados nas áreas de intervenção do Programa;\n\nvi) Autarquias locais.\n\nb) «População-alvo estratégica», interventores intermediários que tenham um papel potencialmente influenciador na promoção de comportamentos benéficos para a saúde dos jovens, designadamente profissionais de saúde, profissionais de educação física e desporto, técnicos de juventude, profissionais de intervenção comunitária, dirigentes de associações de jovens e suas federações, famílias e pares como interventores.\n\nc) «População-alvo final», cidadãos jovens, dos 12 aos 25 anos de idade, inclusive, particularmente indivíduos ou grupos em situação vulnerável ou de exclusão social.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060022": {
+   "fragment_id": "125499815",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos gerais",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 3.º — Objetivos gerais\n\n1 - O Programa visa:\n\na) Abordar os determinantes da saúde da população-alvo final, nomeadamente o acesso aos cuidados de saúde, a literacia em saúde e estilos de vida saudável, saúde mental, a alimentação, a atividade física e desportiva, os comportamentos aditivos e a sexualidade;\n\nb) Promover os fatores de proteção e reduzir os fatores de risco de doenças relacionadas com estilos de vida junto da população-alvo final;\n\nc) Adotar uma perspetiva compreensiva face à saúde juvenil, visando vários domínios da vida da população-alvo final, envolvendo múltiplos parceiros, nomeadamente famílias, pares, escolas e comunidades.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060023": {
+   "fragment_id": "125499816",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de intervenção",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 4.º — Áreas de intervenção\n\nConstituem áreas de intervenção do Programa:\n\na) A sensibilização, a informação e o aconselhamento, junto da população-alvo final, acerca das seguintes temáticas:\n\ni) Alimentação e atividades física e desportiva;\n\nii) Comportamentos aditivos;\n\niii) Saúde sexual e reprodutiva;\n\niv) Saúde mental.\n\nb) A capacitação da população-alvo estratégica.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060024": {
+   "fragment_id": "125499817",
+   "type": 1,
+   "heading": "Capítulo II — Operacionalização do Programa",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "### Capítulo II — Operacionalização do Programa\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060025": {
+   "fragment_id": "125499818",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres do IPDJ, I. P.",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 5.º — Deveres do IPDJ, I. P.\n\n1 - Compete ao IPDJ, I. P., a operacionalização, a divulgação, a disponibilização da informação e dos conteúdos referentes ao Programa e o acompanhamento da execução das atividades inerentes às suas medidas.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060026": {
+   "fragment_id": "125499819",
+   "type": 11,
+   "heading": "Artigo 6.º — Medidas",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Medidas\n\n1 - São criadas, no âmbito do Programa, as seguintes medidas:\n\na) Medida 1: Atendimento personalizado;\n\nb) Medida 2: Promoção da literacia em saúde.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060027": {
+   "fragment_id": "125499820",
+   "type": 11,
+   "heading": "Artigo 7.º — Medida 1: Atendimento Personalizado",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 7.º — Medida 1: Atendimento Personalizado\n\n1 - A medida «Atendimento Personalizado» visa dar resposta às necessidades de aconselhamento e sensibilização da população-alvo final.\n\n2 - A medida integra os seguintes dispositivos operacionais:\n\na) Dispositivo 1.1 - Unidades Móveis: Disponibilização de unidades móveis, devidamente apetrechadas, com vista à deslocação a locais onde se verifique a presença da população-alvo final em número significativo, tais como estabelecimentos de ensino, locais de diversão, mostras, feiras, festivais ou outras iniciativas similares, com os objetivos de sensibilizar e informar sobre temáticas relacionadas com a saúde global da população-alvo final, encaminhar e referenciar os destinatários do Programa para estruturas do Serviço Nacional de Saúde;\n\nb) Dispositivo 1.2 - Gabinetes de Saúde Juvenil: Gabinetes equipados para prestar aconselhamento gratuito, anónimo e confidencial nas áreas de atuação do Programa, com os objetivos de deteção e intervenção precoces, encaminhamento e referenciação da população-alvo final do Programa para estruturas de saúde;\n\nc) Dispositivo 1.3 - Atendimento não-presencial na área da saúde sexual e reprodutiva:\n\ni) Linha de atendimento telefónico gratuito, anónimo e confidencial, para informação, aconselhamento e referenciação na área da saúde sexual e reprodutiva;\n\nii) Meios eletrónicos que assegurem o atendimento, o aconselhamento e o encaminhamento descrito na subalínea anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060028": {
+   "fragment_id": "125499821",
+   "type": 11,
+   "heading": "Artigo 8.º — Medida 2: Promoção da Literacia em Saúde",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 8.º — Medida 2: Promoção da Literacia em Saúde\n\n1 - A medida «Promoção da Literacia em Saúde» consiste na disponibilização proativa de informação e conhecimento na área da saúde juvenil.\n\n2 - A medida engloba três dispositivos operacionais:\n\na) Dispositivo 2.1 - Saúde Juvenil em Portal: Disponibilização de uma secção no portal do IPDJ, I. P., englobando todas as valências do Programa e as suas iniciativas, disponibilizando conteúdos informativos sobre as principais áreas de intervenção do Programa;\n\nb) Dispositivo 2.2 - Educação para a Saúde: Promoção de iniciativas que utilizem diversos métodos ativos de expressão, como é o caso do teatro, da expressão plástica, da música, do desporto ou da dança, no âmbito das áreas de intervenção do programa;\n\nc) Dispositivo 2.3 - Capacitação: Promoção de ações de formação, no âmbito da intervenção preventiva, dirigidas especificamente às populações-alvo estratégicas do Programa.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060029": {
+   "fragment_id": "125499822",
+   "type": 11,
+   "heading": "Artigo 9.º — Operacionalização dos dispositivos",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 9.º — Operacionalização dos dispositivos\n\n1 - No âmbito do desenvolvimento e gestão dos dispositivos do Programa pode o IPDJ, I. P., suscitar a participação de outras entidades, com ou sem fins lucrativos, especialmente vocacionadas para a promoção da saúde, com reconhecida experiência de trabalho junto da população-alvo final a nível nacional, mediante a celebração de protocolos, acordos ou instrumentos de idêntica força vinculativa.\n\n2 - Os dispositivos 1.1. e 1.2. são operacionalizados nos termos de protocolos a celebrar com as entidades parceiras vocacionadas para a promoção da saúde ou por adjudicação externa de serviços prestados por entidades com ou sem fins lucrativos, nos termos do Código dos Contratos Públicos, destinada a complementar ou a cobrir áreas geográficas onde tal se mostre necessário.\n\n3 - O IPDJ, I. P., pode abrir candidaturas com vista ao desenvolvimento de projetos por Entidades Organizadoras nos dispositivos 1.1., 2.2. e 2.3., de acordo com o estipulado no Capítulo III deste regulamento.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060030": {
+   "fragment_id": "125499823",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento do Programa",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 10.º — Acompanhamento do Programa\n\n1 - O IPDJ, I. P., envolverá as entidades organizadoras e parceiras do Programa no seu acompanhamento, disponibilizando questionários de avaliação periódicos e promovendo, sempre que necessário, reuniões para o efeito.\n\n2 - O IPDJ, I. P., promoverá a articulação interministerial no acompanhamento do Programa, convidando as áreas governativas da Cidadania e Igualdade, Ciência, Tecnologia e Ensino Superior, Educação, Trabalho, Solidariedade, Segurança Social e Saúde a participar:\n\na) No ajuste da intervenção às necessidades existentes, no âmbito do Programa;\n\nb) Na emissão de pareceres e sugestões, propondo estudos e apresentando propostas de novas formas de cooperação;\n\nc) Na definição e implementação de metodologias de monitorização e avaliação do Programa.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060031": {
+   "fragment_id": "125499824",
+   "type": 1,
+   "heading": "Capítulo III — Candidaturas",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "### Capítulo III — Candidaturas\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060032": {
+   "fragment_id": "125499825",
+   "type": 11,
+   "heading": "Artigo 11.º — Candidaturas das Entidades Organizadoras",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 11.º — Candidaturas das Entidades Organizadoras\n\n1 - Podem candidatar-se, através de plataforma informática, para o desenvolvimento de projetos no âmbito dos dispositivos 1.1 e aos dispositivos 2.2 e 2.3 do Programa, as entidades organizadoras, tal como se encontram definidas na alínea a) do artigo 2.º do presente Regulamento.\n\n2 - A apresentação de candidaturas aos dispositivos referidos no número anterior é efetuada através de aplicação eletrónica própria, até 30 dias úteis antes da data prevista para o início da sua realização.\n\n3 - O IPDJ, I. P., define, anualmente, por despacho do Conselho Diretivo:\n\na) A data estabelecida para a apresentação, seleção e aprovação de candidaturas;\n\nb) O número limite de candidaturas a selecionar por entidade organizadora.\n\n4 - Do formulário de candidatura devem constar os seguintes elementos:\n\na) Identificação da entidade organizadora;\n\nb) Identificação, caracterização e abrangência das populações-alvo estratégica e final;\n\nc) Identificação da área geográfica de intervenção;\n\nd) Outros elementos que contribuam para a apreciação das candidaturas apresentadas, mediante solicitação do IPDJ, I. P.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060033": {
+   "fragment_id": "125499826",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação das candidaturas",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Avaliação das candidaturas\n\n1 - Os critérios e a respetiva ponderação para a avaliação das candidaturas são definidos, anualmente, mediante deliberação do Conselho Diretivo do IPDJ, I. P., tendo por base os seguintes fatores:\n\na) Adequação dos dispositivos a que se candidatam às necessidades que identificam;\n\nb) Potencial de disseminação da intervenção junto das populações-alvo estratégica e final;\n\nc) Abrangência do universo de beneficiários;\n\nd) Critérios sociodemográficos;\n\ne) Tipologia da entidade organizadora.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060034": {
+   "fragment_id": "125499827",
+   "type": 11,
+   "heading": "Artigo 13.º — Aprovação das candidaturas",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Aprovação das candidaturas\n\nA aprovação das candidaturas é da competência do Conselho Diretivo do IPDJ, I. P.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060035": {
+   "fragment_id": "125499828",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres das Entidades Organizadoras",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 14.º — Deveres das Entidades Organizadoras\n\nSão deveres das entidades organizadoras com candidaturas aprovadas:\n\na) Executar os projetos aprovados;\n\nb) Publicitar, em todos os materiais físicos ou digitais produzidos no âmbito dos projetos em causa, o Programa e o IPDJ, I. P., através dos meios de divulgação e de comunicação de que dispõe a entidade;\n\nc) Sempre que solicitado, facultar ao IPDJ, I. P., todas as informações e os meios necessários para o acompanhamento das candidaturas, disponibilizando o acesso aos locais de execução das mesmas;\n\nd) Dar prévio conhecimento ao IPDJ, I. P., de eventuais alterações à planificação inicial da atividade;\n\ne) Apresentar ao IPDJ, I. P., no prazo máximo de 20 dias úteis após a conclusão da atividade, o relatório da sua monitorização e avaliação, em formulário próprio disponível na plataforma informática.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060036": {
+   "fragment_id": "125499829",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do IPDJ, I. P.",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 15.º — Competências do IPDJ, I. P.\n\n1 - Compete ao IPDJ, I. P., enquanto entidade gestora do Programa:\n\na) Acompanhar a execução das ações no âmbito do Programa, podendo, para tal, aceder aos locais da respetiva realização;\n\nb) Solicitar às entidades organizadoras todas as informações que sejam tidas por necessárias para o acompanhamento da execução das atividades;\n\nc) Cancelar atividades em curso, desde que se verifique grave ou reiterado incumprimento pela entidade organizadora das normas legais ou regulamentares aplicáveis;\n\nd) Avaliar, anualmente, a execução do Programa.\n\n2 - O cancelamento de atividades nos termos da alínea c) do número anterior tem lugar na sequência de um processo de averiguações sumário, instaurado e instruído pelo IPDJ, I. P., por forma escrita, com garantia do contraditório da entidade visada.\n\n3 - O processo de averiguações sumário a que se refere o número anterior deve estar concluído no prazo máximo de dez dias úteis posteriores à respetiva instauração.\n\n4 - O cancelamento de atividades a que se refere o presente artigo determina a impossibilidade de a entidade organizadora ser candidata a qualquer medida do Programa por um período de dois anos a contar da data de decisão.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060037": {
+   "fragment_id": "125499830",
+   "type": 11,
+   "heading": "Artigo 16.º — Sanções",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 16.º — Sanções\n\n1 - Qualquer irregularidade no cumprimento do estipulado no artigo 14.º pode determinar:\n\na) A inelegibilidade da candidatura a programas ou a outros apoios do IPDJ, I. P., pelo período de um ano;\n\nb) A responsabilidade civil e criminal que ao caso couber, nos termos gerais de direito aplicáveis.\n\n2 - Compete ao Conselho Diretivo do IPDJ, I. P., aplicar as sanções que sejam devidas.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060038": {
+   "fragment_id": "125499831",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060039": {
+   "fragment_id": "125499832",
+   "type": 11,
+   "heading": "Artigo 17.º — Financiamento do Programa",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 17.º — Financiamento do Programa\n\nO financiamento do Programa fica condicionado à dotação orçamental anual definida pelo Conselho Diretivo do IPDJ, I. P.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  },
+  "889060040": {
+   "fragment_id": "125499833",
+   "type": 11,
+   "heading": "Artigo 18.º — Integração de lacunas",
+   "in_force_from": "2024-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+   ],
+   "markdown": "###### Artigo 18.º — Integração de lacunas\n\nTodas as dúvidas e omissões do presente Regulamento são resolvidas por deliberação do Conselho Diretivo do IPDJ, I. P.\n\n112497761\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2024/1 - Diário da República n.º 187/2024, Série I de 2024-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/235-2024-888960218), em vigor a partir de 2024-09-27"
+  }
+ }
+}

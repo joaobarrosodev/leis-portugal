@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:913048482:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2025-913216587",
+ "dre_path": "/dr/detalhe/lei/38-2025-913048482",
+ "source_lastmod": "2025-09-19",
+ "versions": [
+  {
+   "date": "2025-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "913218894",
+    "913218895",
+    "913218896",
+    "913218897",
+    "913218898"
+   ]
+  },
+  {
+   "date": "2025-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:935913495:por",
+     "title": "Decreto-Lei n.º 108/2025",
+     "published": "2025-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2025-935913495"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "913218894",
+    "913218895",
+    "913218896",
+    "913218897",
+    "935953276",
+    "913218899"
+   ]
+  }
+ ],
+ "fragments": {
+  "913218894": {
+   "fragment_id": "913216588",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 38/2025\n\nde 31 de março\n\nCria o regime de compensação a docentes deslocados, alterando o Decreto-Lei n.º 57-A/2024, de 13 de setembro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "913218895": {
+   "fragment_id": "913216589",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei cria o regime de compensação pecuniária a todos os docentes deslocados, alterando o Decreto-Lei n.º 57-A/2024, de 13 de setembro."
+  },
+  "913218896": {
+   "fragment_id": "913216590",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 57-A/2024, de 13 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 57-A/2024, de 13 de setembro\n\nOs artigos 1.º e 14.º do Decreto-Lei n.º 57-A/2024, de 13 de setembro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...]\n\n2 - O presente decreto-lei cria, ainda, um apoio extraordinário e temporário, até 31 de julho de 2027, à deslocação destinado aos educadores de infância e aos professores dos ensinos básico e secundário.\n\nArtigo 14.º\n\n[...]\n\n1 - Os educadores de infância e os professores dos ensinos básico e secundário beneficiam de um apoio extraordinário à deslocação, nos termos do presente capítulo.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]»"
+  },
+  "913218897": {
+   "fragment_id": "913216591",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o artigo 15.º do Decreto-Lei n.º 57-A/2024, de 13 de setembro."
+  },
+  "913218898": {
+   "fragment_id": "913216592",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor com a aprovação do Orçamento do Estado subsequente à sua publicação."
+  },
+  "935953276": {
+   "fragment_id": "913216592",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor na mesma data em que tem lugar o início da vigência do Decreto-Lei n.º 108/2025, de 19 de setembro.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20"
+  },
+  "913218899": {
+   "fragment_id": "913216593",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 14 de março de 2025.\n\nO Presidente da Assembleia da República, José Pedro Aguiar Branco.\n\nPromulgada em 21 de março de 2025.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 25 de março de 2025.\n\nO Primeiro-Ministro, Luís Montenegro.\n\n118877224"
+  }
+ }
+}

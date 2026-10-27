@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:292279:por
+title: Portaria n.º 21406
+short_title: null
+summary: Determina que seja desafectado do domínio público do Estado um terreno situado na freguesia e concelho de Matosinhos,
+  na área da jurisdição da Administração dos Portos do Douro e Leixões
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e das Comunicações - Administração dos Portos do Douro e Leixões - Serviços Administrativos
+proposing_entity: null
+official_number: '21406'
+official_date: null
+publication_date: '1965-07-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 159/1965, Série I de 1965-07-19
+  number: '159'
+  series: I
+  supplement: null
+  pages: 1012 - 1012
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/07/15900/10121012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '292279'
+  dre_path: /dr/detalhe/portaria/21406-1965-292279
+  internal: pt:dre:292279:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21406-1965-292279
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21406-1965-292279
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ab7a3120fa1a7e9fe9dcef6394cb18739ae31986a9df936356bb4b9a83c2bbae
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:525622:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:03:18Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21406
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, que, nos termos do disposto no § 1.º do artigo 2.º do [Decreto-Lei n.º 39083](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39083-1953-525622), de 17 de Janeiro de 1953, seja desafectado do domínio público do Estado um terreno sito na freguesia e concelho de Matosinhos, na área de jurisdição da Administração dos Portos do Douro e Leixões, assim discriminado:
+
+Terreno com a área de 1924,60 m2, definido pela linha poligonal fechada com vértices nos marcos 5, 6, 7, 9, 10, 11, 12 e 13, figurados no desenho anexo, confrontando do sul com terreno pertencente à Cepsa - Companhia Portuguesa de Petróleos, Lda., e do norte, nascente e poente com terrenos da Administração dos Portos do Douro e Leixões, a destacar de um bloco formado pelas parcelas n.os 81, 83 a 85, 85-A, 86, 87, 87-A, 87-C, 166 a 173, 173-A, 174, 175, 175-A e 176 a 183, do plano de expropriações de terrenos destinados à ampliação do porto comercial de Leixões, bloco que confronta do norte com a via pública, do sul com a Casa dos Pescadores e Maria Emília Beça Torres, do nascente com Domingos Bento Ramos e Joaquim Martins de Oliveira e Silva e do poente com Maria Emília Beça Torres e caminho de servidão e descrito na 1.ª secção da 2.ª Conservatória do Registo Predial do Porto, sob o n.º 55689, a fl. 76 v.º do livro B-163.
+
+Ministérios das Finanças e das Comunicações, 19 de Julho de 1965. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
+
+Coordenadas rectangulares dos marcos de estrema referidas ao sistema utilizado pelo Instituto Geográfico e Cadastral
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/15900/10121012.pdf)
+
+Ministérios das Finanças e das Comunicações, 19 de Julho de 1965. - O Ministro das Finanças, Ulisses Crus de Aguiar Cortês. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

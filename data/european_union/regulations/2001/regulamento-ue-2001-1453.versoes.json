@@ -1,0 +1,1533 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R1453:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R1453-20060215",
+ "dre_path": null,
+ "source_lastmod": "2006-02-15",
+ "versions": [
+  {
+   "date": "2001-07-21",
+   "future": false,
+   "celex": "32001R1453",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d9fa4a086d0251ee",
+    "22d9e5c4a020e4f0",
+    "8458087b78764e15",
+    "1294190d6373646c",
+    "3ad7175c80f16738",
+    "e984fd384ae12ef4",
+    "3d15ed3733389f5b",
+    "9466e5e21114c009",
+    "ceb6d15ba6d8ac4b",
+    "430b72b5004e4b30",
+    "e3c4fb8788719c78",
+    "55c0ccdb74484fea",
+    "a80bc81fc481f165",
+    "1db5196c50e1d589",
+    "01beafbf9c00a494",
+    "ef85147b97411e6e",
+    "d27f1f306bb5a83a",
+    "9bf14e6d40621dfa",
+    "39dfe2abffe3ce68",
+    "974ae82912a8f714",
+    "5040f6774b545647",
+    "023f0495e3403484",
+    "470e669f81822d76",
+    "ec56d595a9dee0d6",
+    "532beb591a19bfb0",
+    "e71efbc3817bb71d",
+    "72f7c88a46ee1c07",
+    "37ca6f6acfa2d293",
+    "c64dfc5615045376",
+    "94bfea2f8c33320b",
+    "e2abc48d3ccec384",
+    "34a23f89e8073750",
+    "2f98cea986750ec0",
+    "2bf3b73890f56c17",
+    "e74ca39b0609d73d",
+    "7be5456b22cfb7f1",
+    "5040f6774b545647",
+    "f9ab2e989586e0eb",
+    "798978fe457d582b",
+    "dc5b744a6edb5ee6",
+    "9839ae50bd68bfc1",
+    "9e296dc4c8b0a8d3",
+    "7c6c188792db74d8",
+    "14dc38664136d39a",
+    "39fd92d74eccd397",
+    "dc0e8d764a33e3f7",
+    "c2a61758b114967e",
+    "810ffa9301b98ae8",
+    "3e4af02c37855e58",
+    "7875a1e1baa7630c",
+    "65db40fc443337b1",
+    "bab3ad735b725349",
+    "4aad1f9d41f53fc0",
+    "a061fc4da4568356",
+    "c8837bf7bd793322",
+    "d000f896d48ffecb",
+    "035171a816832200",
+    "0d6d5e2a601476cd",
+    "d4e5c8462d17d503",
+    "c49bbbd3e1bdb4b8",
+    "e58386ee6651e8a5",
+    "886aa37b59a9c6bd",
+    "0f5b14778df05e50",
+    "ed946e71a152500e",
+    "b53861720a1f870e",
+    "3e9fde1c177ce2e4",
+    "04dc8960c56ee6e7"
+   ]
+  },
+  {
+   "date": "2005-01-01",
+   "future": false,
+   "celex": "02001R1453-20050101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1782:por",
+     "title": "REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1782"
+    },
+    {
+     "id": "eu:celex:32004R0055:por",
+     "title": "REGULAMENTO (CE) N. o 55/2004 DO CONSELHO de 17 de Dezembro de 2003",
+     "published": null,
+     "celex": "32004R0055"
+    },
+    {
+     "id": "eu:celex:32004R1690:por",
+     "title": "REGULAMENTO (CE) N. o 1690/2004 DO CONSELHO de 24 de Setembro de 2004",
+     "published": null,
+     "celex": "32004R1690"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Adita TÍTULO I",
+    "Adita Regime específico de abastecimento",
+    "Adita TÍTULO II",
+    "Adita MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+    "Adita CAPÍTULO I",
+    "Adita MEDIDAS COMUNS ÀS DUAS REGIÕES",
+    "Adita SECÇÃO 1",
+    "Adita Pecuária",
+    "Adita SECÇÃO 2",
+    "Adita Frutas, produtos hortícolas, plantas e flores",
+    "Adita SECÇÃO 3",
+    "Adita Vinho",
+    "Adita SECÇÃO 4",
+    "Adita Símbolo gráfico",
+    "Adita CAPÍTULO II",
+    "Adita MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+    "Adita Pecuária e produtos lácteos",
+    "Adita Batata",
+    "Adita Cana-Açúcar-Rum",
+    "Adita SECÇÃO 5",
+    "Adita Vime",
+    "Adita CAPÍTULO III",
+    "Adita MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+    "Adita Ananás",
+    "Adita Açúcar",
+    "Adita Tabaco",
+    "Adita Batata de semente, chicória e chá",
+    "Adita TÍTULO III",
+    "Adita MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+    "Adita TÍTULO IV",
+    "Adita MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+    "Adita TÍTULO V",
+    "Adita DISPOSIÇÕES GERAIS E FINAIS",
+    "Adita Artigo 34.º",
+    "Adita ANEXO I",
+    "Adita LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.º PARA A REGIÃO DOS AÇORES",
+    "Adita ANEXO II",
+    "Adita Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.º para a região da Madeira",
+    "Adita ANEXO III",
+    "Adita Notas",
+    "Suprime TÍTULO I — Regime específico de abastecimento",
+    "Suprime TÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+    "Suprime CAPÍTULO I — MEDIDAS COMUNS ÀS DUAS REGIÕES",
+    "Suprime SECÇÃO 1 — Pecuária",
+    "Suprime SECÇÃO 2 — Frutas, produtos hortícolas, plantas e flores",
+    "Suprime SECÇÃO 3 — Vinho",
+    "Suprime SECÇÃO 4 — Símbolo gráfico",
+    "Suprime CAPÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+    "Suprime SECÇÃO 1 — Pecuária e produtos lácteos",
+    "Suprime SECÇÃO 2 — Batata",
+    "Suprime SECÇÃO 3 — Cana-Açúcar-Rum",
+    "Suprime SECÇÃO 4 — Vinho",
+    "Suprime SECÇÃO 5 — Vime",
+    "Suprime CAPÍTULO III — MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+    "Suprime SECÇÃO 2 — Ananás",
+    "Suprime SECÇÃO 3 — Açúcar",
+    "Suprime SECÇÃO 4 — Tabaco",
+    "Suprime SECÇÃO 5 — Batata de semente, chicória e chá",
+    "Suprime TÍTULO III — MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+    "Suprime TÍTULO IV — MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+    "Suprime TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 34.º — As medidas necessárias à execução do presente regulamento são aprovadas pelo procedimento de gestão a que se refere o n.o 2 do artigo 35.o",
+    "Suprime ANEXO I — LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.o PARA A REGIÃO DOS AÇORES",
+    "Suprime ANEXO II — Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.o para a região da Madeira",
+    "Suprime ANEXO III — Tabela de correspondência"
+   ],
+   "fragments": [
+    "3ee36db0fa8f48ea",
+    "22d9e5c4a020e4f0",
+    "ffc348f463b781ad",
+    "7f4271086bec7a3d",
+    "1294190d6373646c",
+    "5f4f72142f981217",
+    "4c8bdeab3d91ec7d",
+    "cf33046a008dabd4",
+    "226c39ffd0a88dad",
+    "16e887b4d1a54a23",
+    "9b406af514eb9164",
+    "63ccbc88c0b42d61",
+    "8538f242c892fdd9",
+    "c42c0c2b3cabd519",
+    "b5380e3b1a0d260e",
+    "6db00a78d0884b99",
+    "01d91d8d160574c0",
+    "966565184a468ef7",
+    "ac8387eef8dd0a6f",
+    "2b1b643c5d6a9813",
+    "04686509abc85e0a",
+    "b97459617d714008",
+    "b638ce2fc1a689fb",
+    "2a6934845bb7c573",
+    "21b6ec10008d612a",
+    "7f067bc88d958841",
+    "f0f8c960bfdbce9b",
+    "0e153a4a7467534a",
+    "9b406af514eb9164",
+    "ea529ba6a31f3071",
+    "577022e241bdc9e1",
+    "4ec2b53587b1b82f",
+    "eee44c434146263a",
+    "6744fd7bb7f8331b",
+    "c42c0c2b3cabd519",
+    "80842b15f5f32011",
+    "8fa8399542264e2b",
+    "ac8387eef8dd0a6f",
+    "50581995ff6cc7cf",
+    "c64dfc5615045376",
+    "74ad1f80d1c0d9b3",
+    "199487049ce07e02",
+    "2a6934845bb7c573",
+    "2b1b643c5d6a9813",
+    "95e7c933e97d58f3",
+    "6ec5cbd7da702b7f",
+    "4d001247422b06f1",
+    "3a5dc289abd9049a",
+    "1e7a0903d2eed348",
+    "3de7069309068abc",
+    "9b406af514eb9164",
+    "ea529ba6a31f3071",
+    "61ef64b944008d43",
+    "66a2483d41f2e74a",
+    "b4011c17f07b9ccf",
+    "09b35db64e2dc62b",
+    "9a2d56844fecf57b",
+    "c42c0c2b3cabd519",
+    "984ed3fc1a46aab4",
+    "243ea8272d4ec3ef",
+    "ac8387eef8dd0a6f",
+    "c992ddfc16bf3daa",
+    "6636ee71d1a918a1",
+    "2a6934845bb7c573",
+    "8c179091f60a0a47",
+    "d4bd4ed53fc114f0",
+    "6ec5cbd7da702b7f",
+    "de29ad82d49ee0f9",
+    "099b8f931995470c",
+    "621e2a092be2e798",
+    "9db704600627e53c",
+    "4eba7fe82915dd48",
+    "cbdd926916f9a2a7",
+    "662cf62f00c33127",
+    "368314787d8e31ab",
+    "33f46bb5e84fbc46",
+    "4f8efffddfe96470",
+    "966d3b11fd5a17ca",
+    "d9365abbcfaad5cd",
+    "2a3518186cf3a67a",
+    "76ac95741db19f89",
+    "abac2f1b266f7c96",
+    "2922d99cf8906865",
+    "886aa37b59a9c6bd",
+    "fc119e0e61655bb0",
+    "2affbc95caa1a12e",
+    "d664376e2a8dcecd",
+    "067eb27d074085a2",
+    "852174729551523b",
+    "aa590d7d83769d1c",
+    "e690ab7cadce4625",
+    "2776c7b61c288104"
+   ]
+  },
+  {
+   "date": "2006-02-15",
+   "future": false,
+   "celex": "02001R1453-20060215",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime Regime específico de abastecimento",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime TÍTULO II",
+    "Suprime MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+    "Suprime CAPÍTULO I",
+    "Suprime MEDIDAS COMUNS ÀS DUAS REGIÕES",
+    "Suprime SECÇÃO 1",
+    "Suprime Pecuária",
+    "Suprime Artigo 4.º",
+    "Suprime SECÇÃO 2",
+    "Suprime Frutas, produtos hortícolas, plantas e flores",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime SECÇÃO 3",
+    "Suprime Vinho",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime SECÇÃO 4",
+    "Suprime Símbolo gráfico",
+    "Suprime Artigo 11.º",
+    "Suprime CAPÍTULO II",
+    "Suprime MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+    "Suprime Pecuária e produtos lácteos",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Batata",
+    "Suprime Artigo 16.º",
+    "Suprime Cana-Açúcar-Rum",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime SECÇÃO 5",
+    "Suprime Vime",
+    "Suprime Artigo 21.º",
+    "Suprime CAPÍTULO III",
+    "Suprime MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Ananás",
+    "Suprime Artigo 27.º",
+    "Suprime Açúcar",
+    "Suprime Artigo 28.º",
+    "Suprime Tabaco",
+    "Suprime Artigo 29.º",
+    "Suprime Batata de semente, chicória e chá",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime TÍTULO III",
+    "Suprime MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+    "Suprime Artigo 32.º",
+    "Suprime TÍTULO IV",
+    "Suprime MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+    "Suprime Artigo 33.º",
+    "Suprime TÍTULO V",
+    "Suprime DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 34.º",
+    "Suprime Artigo 35.º",
+    "Suprime Artigo 36.º",
+    "Suprime Artigo 37.º",
+    "Suprime Artigo 38.º",
+    "Suprime Artigo 39.º",
+    "Suprime Artigo 40.º",
+    "Suprime Artigo 41.º",
+    "Suprime ANEXO I",
+    "Suprime LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.º PARA A REGIÃO DOS AÇORES",
+    "Suprime ANEXO II",
+    "Suprime Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.º para a região da Madeira",
+    "Suprime ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "00fdb234714ad208"
+   ]
+  }
+ ],
+ "fragments": {
+  "d9fa4a086d0251ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1453/2001 do Conselho, de 28 de Junho de 2001, que estabelece medidas específicas relativas a determinados produtos agrícolas a favor dos Açores e da Madeira e revoga o Regulamento (CEE) n.° 1600/92 (Poseima)** *Jornal Oficial nº L 198 de 21/07/2001 p. 0026 - 0044*\n\nRegulamento (CE) n.o 1453/2001 do Conselho\n\nde 28 de Junho de 2001\n\nque estabelece medidas específicas relativas a determinados produtos agrícolas a favor dos Açores e da Madeira e revoga o Regulamento (CEE) n.o 1600/92 (Poseima)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.o e 37.o e o n.o 2 do seu artigo 299.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu(1),\n\nConsiderando o seguinte:\n\n(1) O Conselho adoptou, pela Decisão 91/315/CEE(2), um programa de opções específicas para fazer face ao afastamento e à insularidade da Madeira e dos Açores (Poseima), que se integra na política da Comunidade a favor das regiões ultraperiféricas. Esse programa tem por objectivo favorecer o desenvolvimento económico e social dessas regiões e permitir-lhes beneficiar das vantagens do mercado único de que fazem parte integrante, apesar dos factores objectivos que as diferenciam geográfica e economicamente. O programa alude à aplicação da PAC nas regiões em causa e prevê a adopção de medidas específicas, nomeadamente medidas destinadas a melhorar as condições de produção e comercialização dos seus produtos agrícolas e a minorar os efeitos da sua situação geográfica excepcional e dos seus condicionalismos, conforme reconhecidos no n.o 2 do artigo 299.o do Tratado.\n\n(2) A situação geográfica excepcional da Madeira e dos Açores, em relação às fontes de abastecimento de produtos essenciais ao consumo humano, à transformação e aos factores de produção agrícola, impõe, nessas regiões, custos adicionais de transporte. Além disso, factores objectivos ligados à insularidade impõem aos operadores e produtores destes arquipélagos condicionalismos suplementares que limitam fortemente as suas actividades. Essas limitações podem ser atenuadas diminuindo os preços dos referidos produtos essenciais. Assim, a fim de garantir o abastecimento dos arquipélagos e minorar os custos adicionais decorrentes do afastamento, insularidade e ultraperificidade destas regiões, é adequado instaurar um regime específico de abastecimento.\n\n(3) Para esse efeito, em derrogação do artigo 23.o do Tratado, é conveniente que não sejam aplicados direitos de importação aos produtos em causa importados de países terceiros. A fim de ter em conta a sua origem e o tratamento aduaneiro que lhes é reconhecido pelas disposições comunitárias, é conveniente equiparar aos produtos importados directamente, para efeitos de concessão das vantagens do regime específico de abastecimento, os produtos que foram objecto do regime de aperfeiçoamento activo ou do regime de entreposto aduaneiro no território aduaneiro da Comunidade.\n\n(4) Para alcançar eficazmente o objectivo de diminuir os preços nas regiões em causa e minorar os custos adicionais decorrentes do afastamento, insularidade e ultraperificidade, e simultaneamente manter a competitividade dos produtos comunitários, é conveniente conceder ajudas para o fornecimento de produtos comunitários aos arquipélagos. Essas ajudas têm em conta os custos adicionais de transporte para a Madeira e os Açores e os preços praticados na exportação para países terceiros, bem como, no caso de factores de produção agrícola ou de produtos para transformação, os custos adicionais da insularidade e ultraperificidade.\n\n(5) Atendendo a que as quantidades abrangidas pelo regime específico de abastecimento estão limitadas às necessidades de abastecimento destas regiões, o sistema não prejudica o bom funcionamento do mercado interno. Além disso, as vantagens económicas do regime específico de abastecimento não devem produzir desvios de tráfego para os produtos em causa. Convém, pois, proibir a reexpedição ou a reexportação desses produtos a partir da Madeira e dos Açores. No entanto, essa proibição não se aplica às correntes comerciais entre as regiões da Madeira e dos Açores. Em caso de transformação, em determinadas condições, tal proibição também não se aplica às exportações efectuadas para os países terceiros a fim de promover o comércio regional, nem às expedições tradicionais para o resto da Comunidade.\n\n(6) As vantagens económicas do regime específico de abastecimento devem repercutir-se no nível dos custos de produção, reduzindo os preços até ao utilizador final, bem como no nível dos preços no consumo. É, pois, conveniente que a sua concessão seja subordinada à sua repercussão efectiva e que sejam aplicados os controlos necessários.\n\n(7) No sector dos frutos, produtos hortícolas, raízes e tubérculos comestíveis, flores e plantas vivas, o regime de ajuda por hectare revelou-se inadaptado devido, nomeadamente, à complexidade dos procedimentos e à estrutura das ajudas propostas. É conveniente tirar conclusões das experiências positivas da reforma do Poseidom nesse sector e prever uma ajuda à comercialização e à transformação destinadas ao abastecimento do mercado da Madeira e dos Açores. Essa ajuda deve permitir o reforço da competitividade da produção local face à concorrência externa em mercados mais prometedores, responder melhor às expectativas dos consumidores e dos novos circuitos de distribuição e melhorar a produtividade das explorações e a qualidade dos produtos. É, além disso, necessário prosseguir a comercialização das produções desses produtos frescos ou transformados e valorizá-los no resto da Comunidade. A realização de um estudo económico por região permitirá afinar a estruturação desse sector nas duas regiões.\n\n(8) A manutenção da vinha na Madeira, que é a cultura mais comum, constitui um imperativo económico e ambiental. Para contribuir para o apoio da produção interna, é concedida uma ajuda forfetária por hectare para a cultura de vinhas orientadas para a produção de vinhos de qualidade produzidos em regiões determinadas. Esta ajuda também é aplicável aos Açores.\n\n(9) Os mecanismos reguladores dos mercados, tal como os prémios de abandono, não são aplicáveis nestas duas regiões.\n\n(10) Os produtores agrícolas dos Açores e da Madeira devem ser encorajados a fornecer produtos de qualidade e a comercialização desses produtos deve ser favorecida. A utilização do símbolo gráfico criado pela Comunidade pode ser útil para esse efeito.\n\n(11) É conveniente apoiar as actividades tradicionais em matéria de pecuária na Madeira a fim de satisfazer uma parte das necessidades do consumo local. Para esse efeito, é conveniente derrogar certas disposições das organizações comuns dos mercados no que diz respeito à limitação da produção para atender ao estado de desenvolvimento e às condições de produção locais específicas e completamente diferentes das do resto da Comunidade. Esse objectivo pode ser prosseguido, de forma complementar, pelo financiamento de programas de melhoria genética que incluam a compra de reprodutores de raça pura, através da aquisição de raças comerciais mais adequadas às condições locais, da concessão de complementos aos prémios por vaca em aleitamento e ao abate, sendo também conveniente prever um abastecimento de animais machos destinados à engorda, enquanto se aguarda o desenvolvimento da pecuária local, a título temporário e no âmbito de um limite máximo anual, e a fim de não comprometer o objectivo referido. As necessidades do consumo local são estabelecidas por uma estimativa periódica. A fim de permitir uma mobilização eficaz do apoio comunitário, os sectores devem poder definir e pôr em prática, através de um programa global de apoio às actividades locais nos sectores da pecuária e dos produtos lácteos, estratégias, adaptadas às condições locais, de desenvolvimento económico, de ordenamento espacial da produção e de profissionalização dos participantes.\n\n(12) É paga às centrais leiteiras da Madeira uma ajuda ao consumo humano de produtos lácteos frescos de vaca. Essa ajuda não foi suficiente para manter o equilíbrio entre o abastecimento interno e externo devido, nomeadamente, às graves dificuldades estruturais que afectam o sector e à sua reduzida capacidade para se adaptar positivamente a novos contextos económicos. Consequentemente, prevê-se que esta ajuda seja orientada, no quadro de uma estimativa, para uma recolha da produção local, associada a uma autorização de produção de leite UHT reconstituído a partir de leite em pó de origem comunitária, com o objectivo de garantir uma maior cobertura do consumo local.\n\n(13) A necessidade de manter a produção local, através de incentivos, justifica a não aplicação do Regulamento (CEE) n.o 3950/92(3). Essa isenção deve ser fixada dentro do limite de 4000 toneladas correspondentes às 2000 toneladas da produção actual e a uma possibilidade de desenvolvimento razoável da produção calculada em 2000 toneladas, no máximo.\n\n(14) O sector da batata é vital na Madeira, tanto por razões económicas, como pela sua dimensão social e ambiental. Devido à pequena dimensão das explorações e aos custos dos factores de produção, os custos de produção são muito elevados. Para contribuir para o apoio da produção interna, a fim de satisfazer os hábitos de consumo do arquipélago, é aplicável uma ajuda específica para a cultura de batata de consumo.\n\n(15) As ajudas previstas para o sector cana-açúcar-rum na Madeira são concedidas para apoiar a produção local de cana-de-açúcar necessária ao fabrico de produtos transformados a partir dela, dentro do limite das necessidades correspondentes aos métodos tradicionais dessa região.\n\n(16) É conveniente prosseguir o fabrico de vinhos licorosos do arquipélago segundo os métodos tradicionais, facilitando a compra de mostos concentrados e de álcool de origem vínica no resto da Comunidade e concedendo uma ajuda ao envelhecimento desses vinhos. Em complemento dos esforços efectuados a favor da qualidade e a autenticidade deste produto, há que apoiar a sua comercialização.\n\n(17) É conveniente apoiar a cultura do vime na Madeira mediante uma ajuda destinada à manutenção desta importante actividade agrícola complementar que permite a existência de actividades artesanais fundamentais para as empresas familiares das zonas mais desfavorecidas do arquipélago.\n\n(18) Dificuldades técnicas e socioeconómicas impediram, dentro dos prazos previstos, a reconversão total das superfícies de vinha plantadas com castas híbridas proibidas pela Organização Comum do mercado vitivinícola. O vinho produzido por estes vinhedos destina-se apenas ao consumo local tradicional. Um prazo suplementar permitirá a reconversão destas vinhas, preservando ao mesmo tempo o tecido económico da região, que assenta fortemente na viticultura. É conveniente que Portugal comunique anualmente à Comissão a situação dos trabalhos de reconversão das superfícies em causa.\n\n(19) A produção de leite e a criação de bovinos constituem o pilar da economia agrícola do arquipélago dos Açores. O apoio a este sector deve tomar em consideração a importância primordial desta actividade, nos planos económico e social, nomeadamente para os pequenos produtores. Para assegurar a manutenção das actividades económicas tradicionais deste sector, prevê-se continuar a concessão de complementos de ajuda ao prémio à vaca em aleitamento e de uma ajuda à vaca leiteira, dentro de um limite máximo proporcional à quota local disponível. É conveniente instaurar um complemento da ajuda ao abate e uma ajuda ao escoamento de bovinos machos excedentários que não encontrem uma saída normal no arquipélago e que devam ser expedidos para o resto da Comunidade com consideráveis custos de transporte adicionais, dada a situação geográfica excepcional da região. A fim de permitir uma mobilização eficaz do apoio comunitário, os sectores devem poder definir e pôr em prática, através de um programa global de apoio às actividades locais nos sectores da pecuária e dos produtos lácteos, estratégias adaptadas às condições locais de desenvolvimento económico, de ordenamento espacial da produção e de profissionalização dos participantes.\n\n(20) A actividade agrícola nos Açores encontra-se fortemente dependente da produção de produtos lácteos. Esta dependência, associada a outras limitações decorrentes da ultraperificidade da mesma região e à falta de uma alternativa viável para as actividades de produção, prejudica o seu desenvolvimento económico. É conveniente ter em conta as necessidades de consumo local destas ilhas e, durante um período de quatro campanhas a contar da campanha de 1999/2000, prever derrogações de certas disposições da organização comum de mercado do leite e dos produtos lácteos em matéria de limitação da produção, a fim de atender ao estado de desenvolvimento e às condições de produção locais. Embora esta medida constitua uma derrogação do n.o 2, segundo parágrafo, do artigo 34.o do Tratado, é limitada aos produtores de leite do arquipélago e é pouco significativa relativamente à dimensão económica da quota portuguesa total. Esta medida deverá permitir, durante o seu período de aplicação, prosseguir a reestruturação do sector no arquipélago sem interferir no mercado dos produtos lácteos e sem afectar significativamente o bom funcionamento do regime da imposição aos níveis português e comunitário.\n\n(21) Em relação às culturas vegetais dos Açores, a superfície cultivável reduzida, a pequena dimensão e atomização das explorações e o baixo nível de intensificação estão na origem de custos de produção importantes. A manutenção destas culturas (beterrabas, chicória, batata, tabaco, ananás, vinho, chá, etc.) é vital em alternativa à produção predominante da pecuária local. Para assegurar a sua manutenção e o desenvolvimento, deverá ser prosseguido o apoio às culturas locais de transformação.\n\n(22) Por outro lado, é conveniente prosseguir o fabrico de vinhos licorosos nos Açores por métodos tradicionais, mediante a concessão de uma ajuda ao envelhecimento do vinho \"Verdelho\".\n\n(23) A situação fitossanitária das produções agrícolas da Madeira confronta-se com dificuldades específicas ligadas às condições climáticas e à insuficiência dos meios de luta até agora utilizados nesta região. É, pois, necessário aplicar programas de luta, incluindo através de métodos biológicos, contra os organismos prejudiciais e definir a participação financeira da Comunidade para a realização desses programas.\n\n(24) O Regulamento (CE) n.o 1257/1999(4) define as medidas de desenvolvimento rural que podem ser alvo de apoio comunitário e as condições requeridas para o obter.\n\n(25) O presente regulamento tem por objectivo compensar as desvantagens ligadas ao afastamento e à insularidade destas regiões.\n\n(26) As estruturas de certas explorações agrícolas ou empresas de transformação e de comercialização situadas nestas regiões são extremamente insuficientes e encontram-se sujeitas a dificuldades específicas. É, pois, conveniente poder derrogar, em relação a certos tipos de investimentos, disposições que limitam ou impedem a concessão de determinadas ajudas de carácter estrutural previstas no Regulamento (CE) n.o 1257/1999.\n\n(27) O n.o 3 do artigo 29.o do Regulamento (CE) n.o 1257/1999 restringe a concessão do apoio à silvicultura às florestas e zonas arborizadas na posse de proprietários privados ou municípios ou das respectivas associações. Uma parte das florestas e zonas arborizadas situadas no território destas regiões é propriedade de autoridades públicas distintas dos municípios. Nestas circunstâncias, há que tornar mais flexíveis as condições previstas no referido artigo.\n\n(28) A participação financeira da Comunidade em relação a três das medidas de acompanhamento referidas no n.o 1 do artigo 35.o do Regulamento (CE) n.o 1257/1999 pode elevar-se a 85 % do custo total elegível, nas regiões ultraperiféricas. Em contrapartida e nos termos do n.o 2, terceiro travessão, do artigo 47.o daquele Regulamento, a participação financeira da Comunidade nas medidas agro-ambientais, que constituem a quarta medida de acompanhamento, é limitada a 75 % em relação a todas as zonas do objectivo n.o 1. Dada a importância atribuída ao agro-ambiente no âmbito do desenvolvimento rural, é conveniente harmonizar a taxa de participação financeira da Comunidade em relação ao conjunto de medidas de acompanhamento nas regiões ultraperiféricas.\n\n(29) O n.o 2 do artigo 24.o e o anexo do Regulamento (CE) n.o 1257/1999 determinam os montantes máximos anuais elegíveis para apoio agro-ambiental comunitário. A fim de ter em conta a situação ambiental específica de certas zonas de pastagens muito sensíveis, nos Açores, e a preservação da paisagem e das características tradicionais das terras agrícolas, nomeadamente, das terras de cultura em socalcos, na Madeira, há que prever a possibilidade de aumentar esses montantes até ao dobro, em relação a certas medidas específicas.\n\n(30) Nos termos do artigo 14.o do Regulamento (CE) n.o 1260/1999(5), cada plano, quadro comunitário de apoio, programa operacional e documento único de programação abrange um período de sete anos, tendo o período de programação sido iniciado em 1 de Janeiro de 2000. Num intuito de coerência, e a fim de evitar discriminações entre os beneficiários de um mesmo programa, as derrogações previstas no presente regulamento devem poder aplicar-se, a título excepcional, a todo esse período de programação.\n\n(31) Com o objectivo de compensar os condicionalismos especiais da produção agrícola nos Açores e na Madeira, decorrentes do seu afastamento, insularidade, ultraperificidade, pequena superfície, relevo, clima e dependência económica relativamente a um pequeno número de produtos, pode ser concedida uma derrogação da política praticada pela Comissão de não autorizar auxílios estatais ao funcionamento nos sectores da produção, transformação e comercialização dos produtos agrícolas do anexo I do Tratado.\n\n(32) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "22d9e5c4a020e4f0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento adopta medidas específicas para compensar o afastamento, a insularidade e a ultraperificidade dos Açores e da Madeira em relação a determinados produtos agrícolas."
+  },
+  "8458087b78764e15": {
+   "fragment_id": "TÍTULO I — Regime específico de abastecimento",
+   "type": "divisao",
+   "heading": "TÍTULO I — Regime específico de abastecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Regime específico de abastecimento"
+  },
+  "1294190d6373646c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ instituído um regime específico de abastecimento em relação aos produtos agrícolas enumerados nos anexos I e II, essenciais para o consumo humano e a transformação e como factores de produção agrícola nas regiões dos Açores e da Madeira.\n\nAs necessidades anuais de abastecimento dos produtos enumerados nos anexos I e II devem ser quantificadas numa estimativa. A avaliação das necessidades das indústrias transformadoras ou de acondicionamento de produtos destinados ao mercado local, exportados, em determinadas condições, para países terceiros ou tradicionalmente expedidos para o resto da Comunidade, pode ser objecto de uma estimativa separada."
+  },
+  "3ad7175c80f16738": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Não é aplicado qualquer direito à importação directa para as regiões dos Açores e da Madeira dos produtos abrangidos pelo regime específico de abastecimento, originários de países terceiros, dentro do limite das quantidades determinadas na estimativa de abastecimento.\n\nPara efeitos da aplicação do presente título, os produtos que tenham sido sujeitos ao regime de aperfeiçoamento activo ou ao regime de entreposto aduaneiro no resto do território aduaneiro da Comunidade são considerados importados directamente.\n\n2. A fim de garantir a satisfação das necessidades estabelecidas segundo o artigo 2.o em termos de quantidades, preços e qualidade, e procurando preservar a parte do abastecimento a partir da Comunidade, é concedida uma ajuda ao abastecimento das regiões dos Açores e da Madeira em produtos comunitários em existência pública, na sequência de medidas de intervenção, ou disponíveis no mercado comunitário.\n\nO montante da ajuda é fixado tendo em conta os custos adicionais de transporte para os mercados das regiões dos Açores e da Madeira e os preços praticados nas exportações para países terceiros, bem como, no caso de produtos para transformação ou de factores de produção agrícola, os custos adicionais da insularidade e ultraperifericidade.\n\n3. O regime específico de abastecimento é aplicado de modo a tomar em consideração, designadamente:\n\n- as necessidades específicas das regiões dos Açores e da Madeira e, no caso dos produtos para transformação ou dos factores de produção agrícola, as exigências de qualidade impostas,\n\n- as correntes comerciais com o resto da Comunidade,\n\n- o aspecto económico das ajudas previstas.\n\n4. O benefício do regime específico de abastecimento fica subordinado à repercussão efectiva até ao utilizador final da vantagem económica resultante da isenção do direito de importação ou da ajuda, em caso de abastecimento a partir do resto da Comunidade.\n\n5. Os produtos abrangidos pelo regime específico de abastecimento não podem ser reexportados para países terceiros nem reexpedidos para o resto da Comunidade. A proibição referida no presente número não é aplicável às correntes comerciais entre os Açores e a Madeira.\n\nEm caso de transformação desses produtos nas regiões dos Açores ou da Madeira, essa proibição não é aplicável às exportações dos Açores ou da Madeira para países terceiros dos produtos resultantes dessa transformação, na observância das condições determinadas pela Comissão nos termos do n.o 2 do artigo 35.o\n\nEm caso de transformação desses produtos nas regiões dos Açores ou da Madeira, essa proibição não é aplicável às expedições tradicionais para o resto da Comunidade dos produtos resultantes dessa transformação.\n\nNão é concedida qualquer restituição à exportação.\n\n6. As normas de execução do presente título são adoptadas nos termos do n.o 2 do artigo 35.o Essas normas incluem, nomeadamente:\n\n- a fixação das ajudas ao abastecimento a partir da Comunidade,\n\n- as disposições específicas para garantir a sua repercussão efectiva até ao utilizador final,\n\n- o estabelecimento, se necessário, de um regime de certificados de importação ou entrega.\n\nA Comissão estabelece as estimativas de abastecimento nos termos do n.o 2 do artigo 35.o, podendo, segundo a mesma disposição, rever essas estimativas e a lista dos produtos dos anexos I e II, em função da evolução das necessidades das regiões dos Açores e da Madeira.\n\nEm relação ao abastecimento dos Açores em açúcar em bruto, as necessidades são avaliadas tendo em conta o desenvolvimento da produção local de beterraba sacarina. As quantidades às quais se aplica o regime de abastecimento são determinadas de modo a que o volume total anual de açúcar refinado nos Açores não exceda 10000 toneladas.\n\nO artigo 9.o do Regulamento (CE) n.o 2038/1999(7) não é aplicável aos Açores."
+  },
+  "e984fd384ae12ef4": {
+   "fragment_id": "TÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+   "type": "divisao",
+   "heading": "TÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS"
+  },
+  "3d15ed3733389f5b": {
+   "fragment_id": "CAPÍTULO I — MEDIDAS COMUNS ÀS DUAS REGIÕES",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — MEDIDAS COMUNS ÀS DUAS REGIÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — MEDIDAS COMUNS ÀS DUAS REGIÕES"
+  },
+  "9466e5e21114c009": {
+   "fragment_id": "SECÇÃO 1 — Pecuária",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 — Pecuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 — Pecuária"
+  },
+  "ceb6d15ba6d8ac4b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. No sector da pecuária, são concedidas ajudas ao fornecimento às regiões dos Açores e da Madeira de animais de raças puras ou comerciais e de produtos, originários da Comunidade, com excepção dos bovinos de raças puras dos Açores.\n\n2. As condições de concessão da ajuda são estabelecidas tendo em conta, nomeadamente, as necessidades de abastecimento das regiões dos Açores e da Madeira quanto ao arranque destes sectores e a melhoria genética dos efectivos, e em função da adequação das raças às condições locais. As ajudas são pagas para a entrega de mercadorias que satisfaçam as condições previstas na regulamentação comunitária.\n\n3. As ajudas são fixadas tomando em consideração os seguintes elementos:\n\n- as condições e, nomeadamente, os custos de abastecimento das regiões dos Açores e da Madeira resultantes da sua situação geográfica,\n\n- o preço das mercadorias no mercado da Comunidade e no mercado mundial,\n\n- a eventualidade de não serem cobrados direitos sobre a importação de países terceiros,\n\n- o aspecto económico das ajudas previstas.\n\n4. Os n.os 4 e 5 do artigo 3.o são aplicáveis às mercadorias que beneficiam das ajudas concedidas a título do n.o 1 do presente artigo.\n\n5. A lista dos produtos e os montantes das ajudas a que se refere o n.o 1 do presente artigo, bem como as normas de execução do presente artigo, são adoptados nos termos do n.o 2 do artigo 35.o"
+  },
+  "430b72b5004e4b30": {
+   "fragment_id": "SECÇÃO 2 — Frutas, produtos hortícolas, plantas e flores",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — Frutas, produtos hortícolas, plantas e flores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — Frutas, produtos hortícolas, plantas e flores"
+  },
+  "e3c4fb8788719c78": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. É concedida uma ajuda às frutas, produtos hortícolas, flores e plantas vivas dos capítulos 6, 7 e 8 da Nomenclatura Combinada, ao chá do código NC 0902, ao mel do código NC 0409 00 e aos pimentos do código NC 0904, colhidos ou produzidos localmente e destinados ao abastecimento dos mercados das respectivas regiões de produção. Esta ajuda não é concedida às bananas da Madeira.\n\nA ajuda é concedida aos produtos conformes às normas comuns fixadas pela regulamentação comunitária ou, na sua falta, às especificações estipuladas nos contratos de fornecimento.\n\nA concessão da ajuda fica subordinada à celebração de contratos de fornecimento para uma ou várias campanhas entre, por um lado, produtores, individuais ou agrupados, ou organizações referidas nos artigos 11.o, 13.o e 14.o do Regulamento (CE) n.o 2200/96(8) e, por outro, indústrias agro-alimentares ou operadores dos sectores da distribuição ou da restauração ou colectividades.\n\nA ajuda é paga, dentro do limite de quantidades anuais estabelecidas por categoria de produtos, aos produtores, individuais ou agrupados, ou às organizações de produtores acima referidas.\n\nO montante da ajuda é fixado, numa base forfetária, para cada uma das categorias de produtos a determinar, em função do valor médio dos produtos abrangidos e é diferenciado consoante o beneficiário seja ou não uma das organizações de produtores referidas nos artigos 11.o, 13.o e 14.o do Regulamento (CE) n.o 2200/96.\n\n2. O presente artigo não é aplicável à produção de ananás nos Açores.\n\n3. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o As categorias de produtos e os montantes da ajuda referidos no n.o 1 do presente artigo são fixados pelo mesmo procedimento."
+  },
+  "55c0ccdb74484fea": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. É concedida uma ajuda à celebração de contratos de campanha que tenham por objecto a comercialização dos produtos frescos ou transformados incluídos entre os produtos referidos no n.o 1 do artigo 5.o Quanto às plantas e flores, a ajuda não é subordinada à celebração de contratos de campanha.\n\nEssa ajuda é paga dentro do limite de um volume de 3000 toneladas por produto e por ano, para cada uma das duas regiões.\n\nOs contratos são celebrados entre, por um lado, produtores, individuais ou agrupados, ou organizações referidas nos artigos 11.o, 13.o e 14.o do Regulamento (CE) n.o 2200/96, estabelecidos nos arquipélagos e, por outro, pessoas singulares ou colectivas estabelecidas no resto da Comunidade.\n\n2. O montante da ajuda é de 10 % do valor da produção comercializada entregue na zona de destino.\n\n3. A ajuda é concedida aos vendedores que tenham celebrado contratos com operadores estabelecidos no resto da Comunidade, no âmbito dos contratos referidos no n.o 1.\n\n4. Quando as acções previstas no n.o 1 sejam efectuadas por empresas comuns que associem, com o objectivo de comercializar produções das regiões em causa, produtores dessas regiões, ou as suas associações ou uniões, a pessoas singulares ou colectivas estabelecidas no resto da Comunidade, e desde que os parceiros se comprometam a partilhar os conhecimentos e competências necessários à realização do objectivo da empresa durante um período mínimo de três anos, o montante da ajuda prevista no n.o 2 será elevado para 13 % do valor da produção comercializada anualmente em comum.\n\n5. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "a80bc81fc481f165": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comunidade participa, dentro do limite máximo de 100000 euros, no financiamento de dois estudos económicos de análise e de estimativa relativos ao sector das frutas e produtos hortícolas frescos e transformados, nomeadamente tropicais, em cada uma das duas regiões.\n\nO estudo deve incidir, em relação a cada região, na situação económica e técnica do sector, devendo analisar, nomeadamente, os dados relativos ao abastecimento e aos custos de transformação e estimar as condições e possibilidades de desenvolvimento e escoamento à escala regional e internacional, tendo em conta os dados relativos à concorrência no mercado mundial.\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "1db5196c50e1d589": {
+   "fragment_id": "SECÇÃO 3 — Vinho",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — Vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — Vinho"
+  },
+  "01beafbf9c00a494": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO capítulo II do título II e os capítulos I e II do título III do Regulamento (CE) n.o 1493/1999(9) e o Capítulo III do Regulamento (CE) n.o 1227/2000(10) não são aplicáveis aos Açores e à Madeira."
+  },
+  "ef85147b97411e6e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. É concedida uma ajuda forfetária por hectare para a manutenção da cultura da vinha orientada para a produção de vinhos \"vqprd\" nas zonas de produção tradicional.\n\nBeneficiam dessa ajuda as superfícies:\n\na) Plantadas com castas incluídas na classificação das castas, estabelecida pelos Estados-Membros, aptas à produção de cada um dos \"vqprd\" do seu território, referida no artigo 19.o do Regulamento (CE) n.o 1493/1999; e\n\nb) Cujo rendimento por hectare seja inferior a um máximo fixado pelo Estado-Membro, expresso em quantidade de uvas, mosto de uva ou vinho, nas condições estabelecidas no ponto I do anexo VI do Regulamento (CE) n.o 1493/1999.\n\n2. O montante da ajuda é de 650 euros por hectare e por ano. A ajuda é concedida aos agrupamentos ou às organizações de produtores. No entanto, durante um período transitório, a ajuda é igualmente concedida aos produtores individuais. Nesse período, todas as ajudas são pagas por intermédio do Instituto do Vinho da Madeira e da Comissão Vitivinícola dos Açores, em condições a estabelecer nos termos do n.o 2 do artigo 35.o\n\n3. As normas de execução do presente artigo são adoptadas, se for caso disso, nos termos do n.o 2 do artigo 35.o"
+  },
+  "d27f1f306bb5a83a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Em derrogação do n.o 1 do artigo 19.o do Regulamento (CE) n.o 1493/1999, as uvas provenientes de castas híbridas produtores directos cujo cultivo é proibido (Noah, Othello, Isabelle, Jacquez, Clinton, Herbemont), colhidas nas regiões dos Açores e da Madeira podem ser utilizadas para a produção de vinho, que só pode circular no interior das mesmas regiões.\n\n2. Portugal procede, até 31 de Dezembro de 2006, à eliminação gradual do cultivo das parcelas plantadas com castas híbridas produtores directos cujo cultivo é proibido, com os apoios previstos no capítulo III do título II do Regulamento (CE) n.o 1493/1999, se for caso disso.\n\n3. Portugal comunica anualmente à Comissão a situação dos trabalhos de reconversão e reestruturação das superfícies plantadas com castas híbridas produtores directos cujo cultivo é proibido."
+  },
+  "9bf14e6d40621dfa": {
+   "fragment_id": "SECÇÃO 4 — Símbolo gráfico",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — Símbolo gráfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — Símbolo gráfico"
+  },
+  "39dfe2abffe3ce68": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. As condições de utilização do símbolo gráfico, criado para melhorar o conhecimento e aumentar o consumo de produtos agrícolas de qualidade, no seu estado inalterado ou transformados, específicos dos Açores e da Madeira enquanto regiões ultraperiféricas, são propostas pelas organizações profissionais. As autoridades portuguesas transmitem essas propostas, acompanhadas de parecer, para aprovação pela Comissão.\n\nA utilização do símbolo é controlada por uma autoridade pública ou por um organismo aprovado pelas autoridades portuguesas competentes.\n\n2. As normas de execução do presente artigo são adoptadas, se for caso disso, nos termos do n.o 2 do artigo 35.o"
+  },
+  "974ae82912a8f714": {
+   "fragment_id": "CAPÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA"
+  },
+  "5040f6774b545647": {
+   "fragment_id": "SECÇÃO 1 — Pecuária e produtos lácteos",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 — Pecuária e produtos lácteos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 — Pecuária e produtos lácteos"
+  },
+  "023f0495e3403484": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Até que o efectivo de jovens bovinos machos locais atinja um nível suficiente para a manutenção da produção de carne tradicional, e dentro do limite das estimativas previstas no artigo 13.o\n\na) Os direitos aduaneiros referidos no artigo 30.o do Regulamento (CE) n.o 1254/1999(11) não são aplicáveis à importação, para fins de engorda no local, de bovinos originários de países terceiros e destinados ao consumo no arquipélago;\n\nb) É concedida uma ajuda ao fornecimento dos animais referidos na alínea a), originários do resto da Comunidade, até ao limite de 1000 cabeças, destinados prioritariamente aos produtores que possuam, no mínimo, 50 % de animais para engorda de origem local.\n\nOs n.os 4 e 5 do artigo 3.o são aplicáveis às mercadorias que beneficiam das medidas referidas no primeiro parágrafo do presente número.\n\n2. O número de animais abrangidos pelas medidas referidas no n.o 1 do presente artigo é determinado com base numa estimativa periódica, de modo a tomar em consideração o desenvolvimento da produção local. Esse número, o montante da ajuda referida na alínea b) do n.o 1 do presente artigo e as normas de execução do presente artigo, que incluem, nomeadamente, o período mínimo de engorda, são fixados nos termos do n.o 2 do artigo 35.o"
+  },
+  "470e669f81822d76": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. São concedidas as ajudas previstas nos n.os 2 e 3 do presente artigo destinadas a apoiar as actividades tradicionais e a melhoria qualitativa da produção de carne de bovino, dentro do limite das necessidades de consumo do arquipélago, avaliadas com base numa estimativa periódica. Esta estimativa é elaborada tomando igualmente em consideração os animais reprodutores fornecidos em aplicação do artigo 4.o e os animais que beneficiam do regime de abastecimento referido no artigo 12.o\n\n2. É pago aos produtores, por animal abatido, engordado localmente, um complemento do prémio ao abate previsto no artigo 11.o do Regulamento (CE) n.o 1254/1999. Esse montante é fixado em 25 euros por cabeça. O complemento ao prémio é concedido anualmente dentro do limite de 2500 animais abatidos.\n\n3. É concedido aos produtores de carne de bovino um complemento do prémio para a manutenção do efectivo de vacas em aleitamento previsto no artigo 6.o do Regulamento (CE) n.o 1254/1999. O montante deste complemento é de 50 euros por vaca em aleitamento na posse do produtor no dia da apresentação do pedido.\n\n4. As disposições relativas:\n\na) Ao limite máximo regional, previsto no artigo 4.o do Regulamento (CE) n.o 1254/1999, em relação ao prémio especial;\n\nb) Ao limite máximo individual para os animais detidos na exploração, previsto no artigo 6.o do Regulamento (CE) n.o 1254/1999, em relação ao prémio de base por vaca em aleitamento;\n\nc) Ao limite máximo nacional, previsto no artigo 11.o do Regulamento (CE) n.o 1254/1999, em relação ao prémio de base ao abate;\n\nnão são aplicáveis à Madeira no caso do prémio especial, do prémio por vaca em aleitamento, do prémio ao abate e dos prémios complementares previstos nos n.os 2 e 3 do presente artigo.\n\n5. Os prémios de base e os prémios complementares mencionados no n.o 3 são concedidos anualmente dentro do limite de, respectivamente, 2000 bovinos machos, 1000 vacas em aleitamento e 6000 animais abatidos.\n\n6. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o Essas normas incluem o estabelecimento das estimativas referidas no n.o 1 do presente artigo, bem como as suas revisões eventuais em função da evolução das necessidades, e:\n\na) Em relação ao prémio especial por bovino macho, devem prever:\n\n- o \"congelamento\", dentro do limite máximo regional definido no artigo 4.o do Regulamento (CE) n.o 1254/1999, do número de animais para os quais o prémio especial tenha sido concedido na Madeira a título de 2000,\n\n- a concessão dos prémios dentro do limite de noventa animais por classe etária, ano civil e exploração;\n\nb) Em relação ao prémio por vaca em aleitamento, essas normas:\n\n- devem prever disposições que garantam, na medida do necessário, os direitos dos produtores que tenham beneficiado de um prémio ao abrigo do artigo 6.o do Regulamento (CE) n.o 1254/1999,\n\n- podem prever a criação de uma reserva específica para a Madeira e condições específicas de atribuição ou de reatribuição dos direitos, atendendo aos objectivos prosseguidos no sector da pecuária; o volume dessa reserva é determinado em função do limite máximo fixado no n.o 5 e do número de prémios concedidos para 2000;\n\nc) Em relação ao prémio ao abate, devem prever:\n\n- o \"congelamento\", dentro do limite máximo, definido no n.o 1 do artigo 38.o do Regulamento (CE) n.o 2342/1999(12), do número de animais para os quais o prémio ao abate tenha sido concedido a título de 2000.\n\nAs normas de execução podem incluir condições suplementares para a concessão dos prémios complementares.\n\nA Comissão pode, pelo mesmo procedimento, rever os limites máximos fixados no n.o 5."
+  },
+  "ec56d595a9dee0d6": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. No período de 2002 a 2006, é concedida uma ajuda à realização de um programa global de apoio às actividades de produção e comercialização de produtos locais no sector da pecuária e dos produtos lácteos na Madeira.\n\nEsse programa pode incluir medidas como acções de incentivo à melhoria da qualidade e da higiene, à comercialização, à estruturação dos sectores, à racionalização das estruturas de produção e de comercialização, à comunicação local relativa às produções de qualidade e à instituição de assistência técnica. Este programa não pode incluir a concessão de ajudas complementares aos prémios pagos em aplicação dos artigos 13.o e 15.o\n\nEsse programa é elaborado e executado em concertação estreita entre, por um lado, as autoridades competentes designadas pelo Estado-Membro e, por outro, as associações ou organizações de produtores mais representativas nos sectores económicos em causa.\n\n2. As normas de execução do presente artigo são fixadas nos termos do n.o 2 do artigo 35.o Os projectos de programa, com uma duração máxima de cinco anos, são apresentados à Comissão pelas autoridades competentes. A Comissão aprová-los-á nos termos do n.o 2 do artigo 35.o\n\n3. As autoridades portuguesas apresentam anualmente um relatório de execução do programa. Antes do final de 2005, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório de avaliação sobre a aplicação da medida prevista no presente artigo, eventualmente acompanhado das propostas adequadas."
+  },
+  "532beb591a19bfb0": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. É concedida a ajuda prevista no n.o 2 destinada a apoiar as actividades tradicionais e a melhorar a qualidade da produção de leite de vaca, dentro do limite das necessidades de consumo da Madeira, avaliadas no quadro de uma estimativa periódica. Essa estimativa é estabelecida tomando em consideração os produtos lácteos abrangidos pelo regime de abastecimento previsto no artigo 2.o\n\n2. É concedida uma ajuda ao consumo humano de produtos lácteos de vaca obtidos localmente, dentro do limite das necessidades de consumo do arquipélago, avaliadas periodicamente.\n\nO montante da ajuda é de 12 euros por 100 quilogramas de leite inteiro entregue na central leiteira para assegurar o escoamento regular no mercado local dos produtos acima referidos. A ajuda é paga às centrais leiteiras.\n\n3. O regime de imposição suplementar a cargo dos produtores de leite de vaca previsto no Regulamento (CEE) n.o 3950/92(13) não é aplicável à Madeira, dentro do limite de uma produção local de 4000 toneladas de leite.\n\n4. Em derrogação dos artigos 2.o e 3.o do Regulamento (CE) n.o 2597/97(14) e dentro do limite das necessidades de consumo local, é autorizada na Madeira a produção de leite UHT reconstituído a partir de leite em pó de origem comunitária, desde que esta medida assegure a recolha e o escoamento da produção de leite obtido localmente. Esse produto destina-se exclusivamente ao consumo local.\n\n5. A Comissão procede à revisão da ajuda prevista no n.o 2 e adopta as normas de execução do presente artigo nos termos do n.o 2 do artigo 35.o Essas normas determinam, nomeadamente, a quantidade de leite fresco obtido localmente que deve ser incorporado no leite UHT reconstituído referido no n.o 4 do presente artigo."
+  },
+  "e71efbc3817bb71d": {
+   "fragment_id": "SECÇÃO 2 — Batata",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — Batata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — Batata"
+  },
+  "72f7c88a46ee1c07": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. É concedida uma ajuda por hectare à cultura de batata de consumo dos códigos NC 07019050 e 07019090.\n\nO montante anual da ajuda é de 596,9 euros por hectare.\n\nA ajuda é paga até ao limite de uma superfície cultivada e colhida de 2000 hectares por ano.\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "37ca6f6acfa2d293": {
+   "fragment_id": "SECÇÃO 3 — Cana-Açúcar-Rum",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — Cana-Açúcar-Rum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — Cana-Açúcar-Rum"
+  },
+  "c64dfc5615045376": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. É concedida anualmente uma ajuda forfetária por hectare aos produtores de cana-de-açúcar.\n\n2. O montante da ajuda é de 500 euros por hectare e por ano de superfície plantada e colhida. A ajuda é paga até ao limite de 100 hectares."
+  },
+  "94bfea2f8c33320b": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. É concedida uma ajuda à transformação directa da cana-de-açúcar produzida na Madeira em mel de cana ou em rum agrícola, tal como definido no n.o 4, alínea a), do artigo 1.o do Regulamento (CEE) n.o 1576/89(15).\n\nA ajuda é paga, consoante o caso, ao fabricante de mel de cana ou ao destilador, desde que tenha sido pago ao produtor de cana-de-açúcar um preço mínimo a determinar.\n\n2. A ajuda é concedida em relação à produção de uma quantidade anual de 250 toneladas de mel de cana e de 2500 hectolitros de álcool a 71,8° para o rum agrícola."
+  },
+  "e2abc48d3ccec384": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO montante das ajudas previstas nos artigos 17.o e 18.o, o preço mínimo a pagar ao produtor e as normas de execução dos artigos supracitados são adoptados nos termos do n.o 2 do artigo 35.o"
+  },
+  "34a23f89e8073750": {
+   "fragment_id": "SECÇÃO 4 — Vinho",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — Vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — Vinho"
+  },
+  "2f98cea986750ec0": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. As ajudas previstas no presente artigo são concedidas para apoiar o fabrico de vinho licoroso da Madeira, dentro do limite das necessidades decorrentes dos métodos tradicionais da região.\n\n2. É concedida uma ajuda à compra, no resto da Comunidade, de mostos concentrados rectificados para utilização na vinificação para fins de edulcoração do vinho licoroso em causa.\n\n3. É concedida uma ajuda à compra de álcool vínico.\n\nAs condições deste escoamento específico são determinadas de modo a não perturbar os mercados do álcool e das bebidas espirituosas na Comunidade.\n\n4. O montante destas ajudas é fixado, tomando em consideração os seguintes elementos:\n\na) As condições e, nomeadamente, os custos de abastecimento da Madeira resultantes da sua situação geográfica;\n\nb) Os preços dos produtos no mercado da Comunidade e no mercado mundial;\n\nc) O aspecto económico da ajuda prevista.\n\nNão é concedida qualquer restituição à exportação dos mostos e do álcool vínico a partir da Madeira.\n\n5. É concedida uma ajuda ao envelhecimento do vinho licoroso da Madeira até ao limite anual de 20000 hectolitros. Essa ajuda é paga em relação ao vinho licoroso cujo envelhecimento não seja inferior a cinco anos. A ajuda será paga por lote, durante três campanhas.\n\nO montante da ajuda é de 0,040 euros por hectolitro e por dia.\n\n6. É concedida, a título temporário, uma ajuda anual à expedição e comercialização de vinho da Madeira nos mercados da Comunidade.\n\nO montante dessa ajuda é de 0,2 euros por garrafa, até ao limite de 2,5 milhões de litros por ano.\n\n7. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "2bf3b73890f56c17": {
+   "fragment_id": "SECÇÃO 5 — Vime",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 — Vime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 — Vime"
+  },
+  "e74ca39b0609d73d": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. É concedida anualmente uma ajuda forfetária por hectare aos produtores de vime.\n\n2. O montante da ajuda é de 575 euros por hectare de superfície plantada e colhida, até ao limite de 200 hectares.\n\n3. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "7be5456b22cfb7f1": {
+   "fragment_id": "CAPÍTULO III — MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES"
+  },
+  "f9ab2e989586e0eb": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. As ajudas previstas no presente artigo são concedidas com o objectivo de apoiar as actividades económicas tradicionais essenciais dos Açores no sector da carne de bovino e no sector leiteiro.\n\n2. É concedido aos produtores, por animal abatido, um complemento ao prémio ao abate previsto no artigo 11.o do Regulamento (CE) n.o 1254/1999. Esse montante é fixado em 25 euros por cabeça.\n\n3. É concedido aos produtores de carne de bovino um complemento ao prémio para a manutenção do efectivo de vacas em aleitamento previsto no artigo 6.o do Regulamento (CE) n.o 1254/1999. O montante deste complemento é de 50 euros por vaca em aleitamento na posse do produtor no dia da apresentação do pedido.\n\n4. As disposições relativas:\n\na) Ao limite máximo regional, previsto no artigo 4.o do Regulamento (CE) n.o 1254/1999, em relação ao prémio especial;\n\nb) Ao limite máximo nacional, previsto no artigo 11.o do Regulamento (CE) n.o 1254/1999, em relação ao prémio de base ao abate,\n\nnão são aplicáveis aos Açores no caso do prémio especial, do prémio ao abate e do prémio complementar previsto no n.o 2 do presente artigo.\n\n5. Os prémios de base e os prémios complementares mencionados no n.o 2 são concedidos anualmente até ao limite de, respectivamente, 40000 bovinos machos e 33000 animais abatidos.\n\n6. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o Essas normas incluem as revisões eventuais em função da evolução das necessidades, e devem prever:\n\na) Em relação ao prémio especial para os bovinos machos:\n\n- o \"congelamento\", dentro do limite máximo regional definido no artigo 4.o do Regulamento (CE) n.o 1254/1999, do número de animais para os quais o prémio especial tenha sido concedido nos Açores a título de 2000;\n\nb) Em relação ao prémio ao abate:\n\n- o \"congelamento\", dentro do limite máximo definido no n.o 5 do artigo 38.o do Regulamento (CE) n.o 2342/1999, do número de animais para os quais o prémio ao abate tenha sido concedido a título de 2000.\n\nAs normas de execução podem incluir condições suplementares para a concessão dos prémios complementares.\n\nA Comissão pode, pelo mesmo procedimento, rever os limites máximos fixados no n.o 5.\n\n7. É concedido um prémio especial à manutenção do efectivo de vacas leiteiras, até ao limite de 78000 cabeças.\n\nEsse prémio é pago ao produtor. O seu montante é de 96,6 euros por vaca na posse do produtor no dia da apresentação do pedido.\n\n8. É concedida uma ajuda à armazenagem privada de queijo de fabrico tradicional:\n\n- São Jorge com, pelo menos, três meses de maturação,\n\n- Ilha, com, pelo menos, quarenta e cinco dias de maturação.\n\nO montante da ajuda é fixado nos termos do n.o 10.\n\n9. É instituída uma ajuda ao escoamento de jovens bovinos machos nascidos nos Açores para outra região da Comunidade.\n\nA ajuda, no montante de 40 euros por cabeça expedida, é concedida, até ao limite de 20000 animais, aos produtores que tenham criado esses animais durante um período mínimo de três meses antes da expedição.\n\n10. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "798978fe457d582b": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Durante um período transitório que abrange as campanhas de 1999/2000, 2000/2001, 2001/2002 e 2002/2003, para efeitos da reatribuição da imposição suplementar aos produtores referidos no n.o 1, segundo período, do artigo 2.o do Regulamento (CEE) n.o 3950/92, só são considerados como tendo contribuído para o excedente os produtores, definidos na alínea c) do artigo 9.o do referido regulamento, estabelecidos nos Açores e aí exercendo a sua actividade produtiva, que comercializem quantidades que excedam a sua quantidade de referência aumentada da percentagem determinada nos termos do terceiro parágrafo.\n\nA imposição suplementar é devida para as quantidades que excedam a quantidade de referência assim aumentada após reatribuição, aos produtores referidos no primeiro parágrafo e proporcionalmente à quantidade de referência de que dispõe cada um deles, das quantidades não utilizadas compreendidas na margem resultante desse aumento.\n\nA percentagem referida no primeiro parágrafo é igual à relação entre a quantidade de 73000 toneladas e a soma das quantidades de referência disponíveis em cada exploração em 31 de Março de 2000 e aplica-se exclusivamente, em relação a cada produtor, às quantidades de referência de que o mesmo dispunha em 31 de Março de 2000.\n\n2. As quantidades de leite ou de equivalente-leite comercializadas que excedam as quantidades de referência mas respeitem a percentagem referida no n.o 1 do presente artigo, após a reatribuição prevista nessa mesma disposição, não serão tidas em conta para a determinação de um eventual excedente de Portugal calculado nos termos do n.o 1, primeiro período, do artigo 2.o do Regulamento (CEE) n.o 3950/92."
+  },
+  "dc5b744a6edb5ee6": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. A República Portuguesa comunica à Comissão, antes da sua entrada em vigor, as disposições adoptadas em aplicação do artigo 23.o"
+  },
+  "9839ae50bd68bfc1": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A Comissão adopta, se necessário, as medidas de execução do artigo 23.o nos termos do n.o 2 do artigo 35.o"
+  },
+  "9e296dc4c8b0a8d3": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. No período de 2002 a 2006, é concedida uma ajuda para a realização de um programa global de apoio às actividades de produção e comercialização de produtos locais no sector da pecuária e dos produtos lácteos nos Açores.\n\nEsse programa pode incluir medidas como acções de incentivo à melhoria da qualidade e higiene, à comercialização, à comunicação local relativa às produções de qualidade e à instituição de assistência técnica. Esse programa não pode incluir a concessão de ajudas complementares aos prémios pagos ao abrigo do artigo 22.o\n\nEsse programa é elaborado e executado em concertação estreita entre as autoridades competentes designadas pelo Estado-Membro e as associações ou organizações de produtores mais representativas nos sectores económicos em causa.\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o Os projectos de programa, com uma duração máxima de cinco anos, são apresentados à Comissão pelas autoridades competentes. A Comissão aprová-los-á nos termos do n.o 2 do artigo 35.o\n\n3. As autoridades portuguesas apresentam anualmente um relatório de execução do programa. Antes do final de 2005, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório de avaliação sobre a aplicação da medida prevista no presente artigo, acompanhado, se necessário, das propostas adequadas."
+  },
+  "7c6c188792db74d8": {
+   "fragment_id": "SECÇÃO 2 — Ananás",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — Ananás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — Ananás"
+  },
+  "14dc38664136d39a": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nÉ concedida uma ajuda à produção de ananás do código NC 0804 30 00, até ao limite de 2000 toneladas por ano.\n\nO montante da ajuda é de 1,20 euros por quilograma.\n\nAs normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "39fd92d74eccd397": {
+   "fragment_id": "SECÇÃO 3 — Açúcar",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — Açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — Açúcar"
+  },
+  "dc0e8d764a33e3f7": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. É concedida uma ajuda fixa por hectare ao desenvolvimento da produção de beterraba sacarina, dentro do limite de uma superfície correspondente a uma produção anual de 10000 toneladas de açúcar branco.\n\nO montante da ajuda é de 800 euros por hectare de superfície semeada e colhida.\n\n2. É concedida uma ajuda específica à transformação em açúcar branco das beterrabas colhidas nos Açores, dentro do limite de uma produção global anual de 10000 toneladas de açúcar refinado.\n\nO montante da ajuda é de 27 euros por 100 quilogramas de açúcar refinado e pode ser adaptado nos termos do n.o 3.\n\n3. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "c2a61758b114967e": {
+   "fragment_id": "SECÇÃO 4 — Tabaco",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — Tabaco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — Tabaco"
+  },
+  "810ffa9301b98ae8": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. É concedido um prémio complementar ao prémio instituído no título I do Regulamento (CEE) n.o 2075/92(16), para a colheita de tabaco em folha da variedade Burley P., até ao limite de 250 toneladas. O montante do prémio complementar é de 0,24 euros por quilograma de tabaco em folha.\n\nAs normas de execução relativas ao regime de prémios do Regulamento (CE) n.o 2848/98(17) são aplicáveis ao prémio complementar, excepto derrogação específica adoptada nos termos do n.o 2 do artigo 35.o\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "3e4af02c37855e58": {
+   "fragment_id": "SECÇÃO 5 — Batata de semente, chicória e chá",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 — Batata de semente, chicória e chá",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 — Batata de semente, chicória e chá"
+  },
+  "7875a1e1baa7630c": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. É concedida uma ajuda à produção de batata de semente do código NC ex 0701 10 00, até ao limite de uma superfície de 200 hectares.\n\nO montante da ajuda é de 596,9 euros por hectare.\n\n2. É concedida uma ajuda à produção de chicória do código NC 1212 99 10, até ao limite de uma superfície máxima de 200 hectares.\n\nO montante da ajuda é de 596,9 euros por hectare.\n\n3. É concedida uma ajuda à celebração de contratos de campanha destinados à comercialização da batata referida no n.o 1 do presente artigo em condições idênticas às previstas no artigo 6.o\n\n4. É concedida uma ajuda por hectare à cultura do chá.\n\nO montante anual da ajuda é de 800 euros por hectare de superfície colhida.\n\nA ajuda é paga até ao limite de uma superfície de 100 hectares.\n\n5. As normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "65db40fc443337b1": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nÉ concedida uma ajuda ao envelhecimento do vinho \"Verdelho\" dos Açores até ao limite anual de uma quantidade máxima de 4000 hectolitros. Essa ajuda é paga em relação ao vinho \"Verdelho\" cujo período de envelhecimento não seja inferior a três anos. Essa ajuda é paga em relação a cada lote durante três campanhas.\n\nO montante da ajuda é de 0,08 euros por hectolitro por dia."
+  },
+  "bab3ad735b725349": {
+   "fragment_id": "TÍTULO III — MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+   "type": "divisao",
+   "heading": "TÍTULO III — MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — MEDIDAS DE CARÁCTER FITOSSANITÁRIO"
+  },
+  "4aad1f9d41f53fc0": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. As autoridades competentes devem apresentar à Comissão programas de luta contra os organismos prejudiciais aos vegetais e produtos vegetais. Esses programas especificam, nomeadamente, os objectivos a atingir, as acções a realizar e a respectiva duração e custo. A protecção das bananas não está incluída nos programas apresentados ao abrigo do presente artigo.\n\n2. A Comunidade contribui para o financiamento dos referidos programas com base numa análise técnica da situação regional.\n\n3. A participação financeira da Comunidade e o montante da ajuda são decididos nos termos do n.o 2 do artigo 35.o As acções elegíveis para financiamento comunitário são definidas pelo mesmo procedimento.\n\n4. Essa participação pode cobrir até 75 % das despesas elegíveis. O pagamento é efectuado com base na documentação fornecida pelas autoridades competentes. Se o considerar necessário, a Comissão pode organizar inquéritos, que serão efectuados por sua conta pelos peritos referidos no artigo 21.o da Directiva 2000/29/CE(18)."
+  },
+  "a061fc4da4568356": {
+   "fragment_id": "TÍTULO IV — MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+   "type": "divisao",
+   "heading": "TÍTULO IV — MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL"
+  },
+  "c8837bf7bd793322": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. Em derrogação do artigo 7.o do Regulamento (CE) n.o 1257/1999, o montante total da ajuda, expresso em percentagem do volume de investimento elegível, é limitado a 75 %, no máximo, relativamente aos investimentos destinados, designadamente, a fomentar a diversificação, a reestruturação ou a orientação para uma agricultura sustentável em explorações agrícolas de dimensão económica reduzida, a definir no complemento de programação referido no n.o 3 do artigo 18.o do Regulamento (CE) n.o 1260/1999.\n\n2. Em derrogação do n.o 2 do artigo 28.o do Regulamento (CE) n.o 1257/1999, o montante total da ajuda, expresso em percentagem do volume de investimento elegível, é limitado a 65 %, no máximo, relativamente aos investimentos em empresas de transformação e de comercialização de produtos agrícolas provenientes principalmente da produção local e pertencentes a sectores a definir no âmbito do complemento de programação referido no n.o 3 do artigo 18.o do Regulamento (CE) n.o 1260/1999. Para as pequenas e médias empresas, o valor total da ajuda é limitado, nas mesmas condições, a um máximo de 75 %.\n\n3. O limite previsto no n.o 3 do artigo 29.o do Regulamento (CE) n.o 1257/1999 não é aplicável às florestas subtropicais e zonas arborizadas situadas no território dos Açores e da Madeira.\n\n4. Em derrogação do n.o 2, segundo parágrafo, terceiro travessão, do artigo 47.o do Regulamento (CE) n.o 1257/1999, a participação financeira da Comunidade nas medidas agro-ambientais previstas nos artigos 22.o, 23.o e 24.o daquele regulamento eleva-se a 85 %.\n\n5. Em derrogação do n.o 2 do artigo 24.o do Regulamento (CE) n.o 1257/1999, os montantes máximos anuais elegíveis para apoio comunitário, previstos no anexo desse regulamento, podem ser aumentados até ao dobro, no que se refere à medida de protecção dos lagos dos Açores e à medida de preservação da paisagem e das características tradicionais das terras agrícolas, nomeadamente, de conservação dos muros de pedra de suporte dos socalcos da Madeira.\n\n6. As medidas previstas ao abrigo do presente artigo são descritas resumidamente no âmbito dos programas operacionais relativos a estas regiões, previstos no artigo 18.o do Regulamento (CE) n.o 1260/1999."
+  },
+  "d000f896d48ffecb": {
+   "fragment_id": "TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "035171a816832200": {
+   "fragment_id": "Artigo 34.º — As medidas necessárias à execução do presente regulamento são aprovadas pelo procedimento de gestão a que se refere o n.o 2 do artigo 35.o",
+   "type": "artigo",
+   "heading": "Artigo 34.º — As medidas necessárias à execução do presente regulamento são aprovadas pelo procedimento de gestão a que se refere o n.o 2 do artigo 35.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — As medidas necessárias à execução do presente regulamento são aprovadas pelo procedimento de gestão a que se refere o n.o 2 do artigo 35.o"
+  },
+  "0d6d5e2a601476cd": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. A Comissão é assistida pelo Comité de Gestão dos Cereais, instituído pelo artigo 22.o do Regulamento (CE) n.o 1766/1992(19), ou pelos comités de gestão instituídos pelos regulamentos que estabelecem as organizações comuns dos mercados para os produtos em causa.\n\nEm relação aos produtos agrícolas abrangidos pelo Regulamento (CEE) n.o 827/68(20) e aos produtos não abrangidos por uma organização comum de mercado, a Comissão é assistida pelo Comité de Gestão do Lúpulo, instituído pelo artigo 20.o do Regulamento (CEE) n.o 1696/71(21).\n\nEm relação ao símbolo gráfico e nos outros casos previstos no presente regulamento, a Comissão é assistida pelo Comité de Gestão das Frutas e Produtos Hortícolas, instituído pelo Regulamento (CE) n.o 2200/96.\n\nNa execução do título III, a Comissão é assistida pelo Comité Fitossanitário Permanente, instituído pela Decisão 76/894/CEE(22).\n\nNa execução do Título IV, a Comissão é assistida pelo Comité para o Desenvolvimento e Reconversão das Regiões e pelo Comité das Estruturas Agrícolas e do Desenvolvimento Rural, instituídos, respectivamente, pelos artigos 48.o e 50.o do Regulamento (CE) n.o 1260/1999.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE do Conselho.\n\nTodavia, em relação ao título III, é aplicável o artigo 18.o da Directiva 2000/29/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. Os comités aprovarão os seus regulamentos internos."
+  },
+  "d4e5c8462d17d503": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nEm relação aos produtos agrícolas do anexo I do Tratado, aos quais são aplicáveis os seus artigos 87.o a 89.o, a Comissão pode autorizar ajudas ao funcionamento nos sectores da produção, transformação e comercialização desses produtos, com o objectivo de compensar os condicionalismos especiais da produção agrícola dos Açores e na Madeira, decorrentes do seu afastamento, insularidade e ultraperificidade."
+  },
+  "c49bbbd3e1bdb4b8": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nAs medidas previstas no presente regulamento, com excepção do artigo 33.o, constituem intervenções destinadas à estabilização dos mercados agrícolas, na acepção do n.o 2 do artigo 2.o do Regulamento (CE) n.o 1258/1999(23)."
+  },
+  "e58386ee6651e8a5": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs Estados-Membros devem tomar as medidas necessárias para assegurar o cumprimento do presente regulamento, nomeadamente em matéria de controlos e sanções administrativas, e informar a Comissão desse facto.\n\nAs normas de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 35.o"
+  },
+  "886aa37b59a9c6bd": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Portugal apresenta à Comissão um relatório anual sobre a execução das medidas previstas no presente regulamento.\n\n2. O mais tardar no termo do quinto ano de aplicação do regime, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório geral em que será analisado o impacto das acções realizadas em aplicação do presente regulamento, eventualmente acompanhado das propostas adequadas."
+  },
+  "0f5b14778df05e50": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nÉ revogado o Regulamento (CEE) n.o 1600/92(24). As remissões para o Regulamento (CEE) n.o 1600/92 entendem-se como sendo feitas para o presente regulamento e devem ser lidas de acordo com a tabela de correspondência do anexo III."
+  },
+  "ed946e71a152500e": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO artigo 33.o é aplicável desde 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 28 de Junho de 2001.\n\nPelo Conselho\n\nO Presidente\n\nB. Rosengren\n\n(1) Parecer emitido em 14 de Junho de 2001 (ainda não publicado no Jornal Oficial).\n\n(2) JO L 171 de 29.6.1991, p. 10.\n\n(3) Regulamento (CEE) n.o 3950/92 do Conselho, de 28 de Dezembro de 1992, que institui uma imposição suplementar no sector do leite e dos produtos lácteos (JO L 405 de 31.12.1992, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1256/1999 (JO L 160 de 26.6.1999, p. 73).\n\n(4) Regulamento (CE) n.o 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural, e que altera e revoga determinados regulamentos (JO L 160 de 26.6.1999, p. 80).\n\n(5) Regulamento (CE) n.o 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos Estruturais (JO L 161 de 26.6.1999, p. 1).\n\n(6) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n(7) Regulamento (CE) n.o 2038/1999 do Conselho, de 13 de Setembro de 1999, que estabelece a organização comum de mercado no sector do açúcar (JO L 252 de 25.9.1999, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 906/2001 da Comissão (JO L 127 de 9.5.2001, p. 28).\n\n(8) Regulamento (CE) n.o 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (JO L 297 de 21.11.1996, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2826/2000 da Comissão (JO L 328 de 23.12.2000, p. 2).\n\n(9) Regulamento (CE) n.o 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola (JO L 179 de 14.7.1999, p. 1). Regulamento com a última redacção que foi dada pelo Regulamento (CE) n.o 2826/2000 (JO L 328 de 23.12.2000, p. 2).\n\n(10) Regulamento (CE) n.o 1227/2000 da Comissão, de 31 de Maio de 2000, que estabelece normas de execução do Regulamento (CE) n.o 1493/1999 do Conselho que estabelece a organização comum do mercado vitivinícola, no referente ao potencial de produção (JO L 143 de 16.6.2000, p. 1).\n\n(11) Regulamento (CE) n.o 1254/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino (JO L 160 de 16.6.1999, p. 21).\n\n(12) Regulamento (CE) n.o 2342/1999 da Comissão, de 28 de Outubro de 1999, que estabelece normas de execução do Regulamento (CE) n.o 1254/1999 do Conselho, que estabelece a organização comum de mercado no sector da carne de bovino, no que respeita ao regime de prémios (JO L 281 de 4.11.1999, p. 30). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 192/2001 da Comissão (JO L 29 de 31.1.2001, p. 7).\n\n(13) Regulamento (CEE) n.o 3950/92 do Conselho, de 28 de Dezembro de 1992, que institui uma imposição suplementar no sector do leite e dos produtos lácteos (JO L 405 de 31.12.1992, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1256/1999 (JO L 160 de 26.6.1999, p. 73).\n\n(14) Regulamento (CE) n.o 2597/97 do Conselho, de 18 de Dezembro de 1997, que estabelece as regras complementares da organização comum de mercado no sector do leite e dos produtos lácteos no que diz respeito ao leite de consumo (JO L 351 de 23.12.1997, p. 13).\n\n(15) Regulamento (CEE) n.o 1576/89 do Conselho, de 29 de Maio de 1989, que estabelece as regras gerais relativas à definição, à designação e à apresentação das bebidas espirituosas (JO L 160 de 12.6.1989, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3378/94 do Parlamento Europeu e do Conselho (JO L 366 de 31.12.1994, p. 1).\n\n(16) Regulamento (CEE) n.o 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama (JO L 215 de 30.7.1992, p. 70). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1336/2000 da Comissão (JO L 154 de 27.6.2000, p. 2).\n\n(17) Regulamento (CE) n.o 2848/98 da Comissão, de 22 de Dezembro de 1998, que estabelece normas de execução do Regulamento (CEE) n.o 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama (JO L 358 de 31.12.1998, p. 17). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 385/2001 da Comissão (JO L 57 de 27.2.2001, p. 18).\n\n(18) Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade (JO L 169 de 10.7.2000, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 2001/33/CE da Comissão (JO L 127 de 9.5.2001, p. 42).\n\n(19) Regulamento (CEE) n.o 1766/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector dos cereais (JO L 181 de 1.7.1992, p. 21). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1666/2000 (JO L 193 de 29.7.2000, p. 1).\n\n(20) Regulamento (CEE) n.o 827/68 do Conselho, de 28 de Junho de 1968, que estabelece a organização comum de mercado para certos produtos enumerados no anexo II do Tratado (JO L 151 de 30.6.1968, p. 16). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n(21) Regulamento (CEE) n.o 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece uma organização comum de mercado no sector do lúpulo (JO L 175 de 4.8.1971, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 191/2000 (JO L 23 de 28.1.2000, p. 4).\n\n(22) Decisão 76/894/CEE do Conselho, de 23 de Novembro de 1976, que institui um Comité Fitossanitário Permanente (JO L 340 de 9.12.1976, p. 25).\n\n(23) Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum (JO L 160 de 26.6.1999, p. 103).\n\n(24) Regulamento (CEE) n.o 1600/92 do Conselho, de 15 de Junho de 1992, que estabelece medidas específicas relativas a determinados produtos agrícolas a favor dos arquipélagos dos Açores e da Madeira (JO L 173 de 27.6.1992, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2826/2000 (JO L 328 de 23.12.2000, p. 2)."
+  },
+  "b53861720a1f870e": {
+   "fragment_id": "ANEXO I — LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.o PARA A REGIÃO DOS AÇORES",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.o PARA A REGIÃO DOS AÇORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.o PARA A REGIÃO DOS AÇORES\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3e9fde1c177ce2e4": {
+   "fragment_id": "ANEXO II — Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.o para a região da Madeira",
+   "type": "divisao",
+   "heading": "ANEXO II — Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.o para a região da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.o para a região da Madeira\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "04dc8960c56ee6e7": {
+   "fragment_id": "ANEXO III — Tabela de correspondência",
+   "type": "divisao",
+   "heading": "ANEXO III — Tabela de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Tabela de correspondência\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3ee36db0fa8f48ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho de 2001\n\nque estabelece medidas específicas relativas a determinados produtos agrícolas a favor dos Açores e da Madeira e revoga o Regulamento (CEE) n.º 1600/92 (Poseima)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º e o n.º 2 do seu artigo 299.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0001)),\n\n(1) O Conselho adoptou, pela Decisão 91/315/CEE ([^2^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0002)), um programa de opções específicas para fazer face ao afastamento e à insularidade da Madeira e dos Açores (Poseima), que se integra na política da Comunidade a favor das regiões ultraperiféricas. Esse programa tem por objectivo favorecer o desenvolvimento económico e social dessas regiões e permitir-lhes beneficiar das vantagens do mercado único de que fazem parte integrante, apesar dos factores objectivos que as diferenciam geográfica e economicamente. O programa alude à aplicação da PAC nas regiões em causa e prevê a adopção de medidas específicas, nomeadamente medidas destinadas a melhorar as condições de produção e comercialização dos seus produtos agrícolas e a minorar os efeitos da sua situação geográfica excepcional e dos seus condicionalismos, conforme reconhecidos no n.º 2 do artigo 299.º do Tratado.\n\n(2) A situação geográfica excepcional da Madeira e dos Açores, em relação às fontes de abastecimento de produtos essenciais ao consumo humano, à transformação e aos factores de produção agrícola, impõe, nessas regiões, custos adicionais de transporte. Além disso, factores objectivos ligados à insularidade impõem aos operadores e produtores destes arquipélagos condicionalismos suplementares que limitam fortemente as suas actividades. Essas limitações podem ser atenuadas diminuindo os preços dos referidos produtos essenciais. Assim, a fim de garantir o abastecimento dos arquipélagos e minorar os custos adicionais decorrentes do afastamento, insularidade e ultraperificidade destas regiões, é adequado instaurar um regime específico de abastecimento.\n\n(3) Para esse efeito, em derrogação do artigo 23.º do Tratado, é conveniente que não sejam aplicados direitos de importação aos produtos em causa importados de países terceiros. A fim de ter em conta a sua origem e o tratamento aduaneiro que lhes é reconhecido pelas disposições comunitárias, é conveniente equiparar aos produtos importados directamente, para efeitos de concessão das vantagens do regime específico de abastecimento, os produtos que foram objecto do regime de aperfeiçoamento activo ou do regime de entreposto aduaneiro no território aduaneiro da Comunidade.\n\n(4) Para alcançar eficazmente o objectivo de diminuir os preços nas regiões em causa e minorar os custos adicionais decorrentes do afastamento, insularidade e ultraperificidade, e simultaneamente manter a competitividade dos produtos comunitários, é conveniente conceder ajudas para o fornecimento de produtos comunitários aos arquipélagos. Essas ajudas têm em conta os custos adicionais de transporte para a Madeira e os Açores e os preços praticados na exportação para países terceiros, bem como, no caso de factores de produção agrícola ou de produtos para transformação, os custos adicionais da insularidade e ultraperificidade.\n\n(5) Atendendo a que as quantidades abrangidas pelo regime específico de abastecimento estão limitadas às necessidades de abastecimento destas regiões, o sistema não prejudica o bom funcionamento do mercado interno. Além disso, as vantagens económicas do regime específico de abastecimento não devem produzir desvios de tráfego para os produtos em causa. Convém, pois, proibir a reexpedição ou a reexportação desses produtos a partir da Madeira e dos Açores. No entanto, essa proibição não se aplica às correntes comerciais entre as regiões da Madeira e dos Açores. Em caso de transformação, em determinadas condições, tal proibição também não se aplica às exportações efectuadas para os países terceiros a fim de promover o comércio regional, nem às expedições tradicionais para o resto da Comunidade.\n\n(6) As vantagens económicas do regime específico de abastecimento devem repercutir-se no nível dos custos de produção, reduzindo os preços até ao utilizador final, bem como no nível dos preços no consumo. É, pois, conveniente que a sua concessão seja subordinada à sua repercussão efectiva e que sejam aplicados os controlos necessários.\n\n(7) No sector dos frutos, produtos hortícolas, raízes e tubérculos comestíveis, flores e plantas vivas, o regime de ajuda por hectare revelou-se inadaptado devido, nomeadamente, à complexidade dos procedimentos e à estrutura das ajudas propostas. É conveniente tirar conclusões das experiências positivas da reforma do Poseidom nesse sector e prever uma ajuda à comercialização e à transformação destinadas ao abastecimento do mercado da Madeira e dos Açores. Essa ajuda deve permitir o reforço da competitividade da produção local face à concorrência externa em mercados mais prometedores, responder melhor às expectativas dos consumidores e dos novos circuitos de distribuição e melhorar a produtividade das explorações e a qualidade dos produtos. É, além disso, necessário prosseguir a comercialização das produções desses produtos frescos ou transformados e valorizá-los no resto da Comunidade. A realização de um estudo económico por região permitirá afinar a estruturação desse sector nas duas regiões.\n\n(8) A manutenção da vinha na Madeira, que é a cultura mais comum, constitui um imperativo económico e ambiental. Para contribuir para o apoio da produção interna, é concedida uma ajuda forfetária por hectare para a cultura de vinhas orientadas para a produção de vinhos de qualidade produzidos em regiões determinadas. Esta ajuda também é aplicável aos Açores.\n\n(9) Os mecanismos reguladores dos mercados, tal como os prémios de abandono, não são aplicáveis nestas duas regiões.\n\n(10) Os produtores agrícolas dos Açores e da Madeira devem ser encorajados a fornecer produtos de qualidade e a comercialização desses produtos deve ser favorecida. A utilização do símbolo gráfico criado pela Comunidade pode ser útil para esse efeito.\n\n(11) É conveniente apoiar as actividades tradicionais em matéria de pecuária na Madeira a fim de satisfazer uma parte das necessidades do consumo local. Para esse efeito, é conveniente derrogar certas disposições das organizações comuns dos mercados no que diz respeito à limitação da produção para atender ao estado de desenvolvimento e às condições de produção locais específicas e completamente diferentes das do resto da Comunidade. Esse objectivo pode ser prosseguido, de forma complementar, pelo financiamento de programas de melhoria genética que incluam a compra de reprodutores de raça pura, através da aquisição de raças comerciais mais adequadas às condições locais, da concessão de complementos aos prémios por vaca em aleitamento e ao abate, sendo também conveniente prever um abastecimento de animais machos destinados à engorda, enquanto se aguarda o desenvolvimento da pecuária local, a título temporário e no âmbito de um limite máximo anual, e a fim de não comprometer o objectivo referido. As necessidades do consumo local são estabelecidas por uma estimativa periódica. A fim de permitir uma mobilização eficaz do apoio comunitário, os sectores devem poder definir e pôr em prática, através de um programa global de apoio às actividades locais nos sectores da pecuária e dos produtos lácteos, estratégias, adaptadas às condições locais, de desenvolvimento económico, de ordenamento espacial da produção e de profissionalização dos participantes.\n\n(12) É paga às centrais leiteiras da Madeira uma ajuda ao consumo humano de produtos lácteos frescos de vaca. Essa ajuda não foi suficiente para manter o equilíbrio entre o abastecimento interno e externo devido, nomeadamente, às graves dificuldades estruturais que afectam o sector e à sua reduzida capacidade para se adaptar positivamente a novos contextos económicos. Consequentemente, prevê-se que esta ajuda seja orientada, no quadro de uma estimativa, para uma recolha da produção local, associada a uma autorização de produção de leite UHT reconstituído a partir de leite em pó de origem comunitária, com o objectivo de garantir uma maior cobertura do consumo local.\n\n(13) A necessidade de manter a produção local, através de incentivos, justifica a não aplicação do Regulamento (CEE) n.º 3950/92 ([^3^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0003)). Essa isenção deve ser fixada dentro do limite de 4 000 toneladas correspondentes às 2 000 toneladas da produção actual e a uma possibilidade de desenvolvimento razoável da produção calculada em 2 000 toneladas, no máximo.\n\n(14) O sector da batata é vital na Madeira, tanto por razões económicas, como pela sua dimensão social e ambiental. Devido à pequena dimensão das explorações e aos custos dos factores de produção, os custos de produção são muito elevados. Para contribuir para o apoio da produção interna, a fim de satisfazer os hábitos de consumo do arquipélago, é aplicável uma ajuda específica para a cultura de batata de consumo.\n\n(15) As ajudas previstas para o sector cana-açúcar-rum na Madeira são concedidas para apoiar a produção local de cana-de-açúcar necessária ao fabrico de produtos transformados a partir dela, dentro do limite das necessidades correspondentes aos métodos tradicionais dessa região.\n\n(16) É conveniente prosseguir o fabrico de vinhos licorosos do arquipélago segundo os métodos tradicionais, facilitando a compra de mostos concentrados e de álcool de origem vínica no resto da Comunidade e concedendo uma ajuda ao envelhecimento desses vinhos. Em complemento dos esforços efectuados a favor da qualidade e a autenticidade deste produto, há que apoiar a sua comercialização.\n\n(17) É conveniente apoiar a cultura do vime na Madeira mediante uma ajuda destinada à manutenção desta importante actividade agrícola complementar que permite a existência de actividades artesanais fundamentais para as empresas familiares das zonas mais desfavorecidas do arquipélago.\n\n(18) Dificuldades técnicas e socioeconómicas impediram, dentro dos prazos previstos, a reconversão total das superfícies de vinha plantadas com castas híbridas proibidas pela Organização Comum do mercado vitivinícola. O vinho produzido por estes vinhedos destina-se apenas ao consumo local tradicional. Um prazo suplementar permitirá a reconversão destas vinhas, preservando ao mesmo tempo o tecido económico da região, que assenta fortemente na viticultura. É conveniente que Portugal comunique anualmente à Comissão a situação dos trabalhos de reconversão das superfícies em causa.\n\n(19) A produção de leite e a criação de bovinos constituem o pilar da economia agrícola do arquipélago dos Açores. O apoio a este sector deve tomar em consideração a importância primordial desta actividade, nos planos económico e social, nomeadamente para os pequenos produtores. Para assegurar a manutenção das actividades económicas tradicionais deste sector, prevê-se continuar a concessão de complementos de ajuda ao prémio à vaca em aleitamento e de uma ajuda à vaca leiteira, dentro de um limite máximo proporcional à quota local disponível. É conveniente instaurar um complemento da ajuda ao abate e uma ajuda ao escoamento de bovinos machos excedentários que não encontrem uma saída normal no arquipélago e que devam ser expedidos para o resto da Comunidade com consideráveis custos de transporte adicionais, dada a situação geográfica excepcional da região. A fim de permitir uma mobilização eficaz do apoio comunitário, os sectores devem poder definir e pôr em prática, através de um programa global de apoio às actividades locais nos sectores da pecuária e dos produtos lácteos, estratégias adaptadas às condições locais de desenvolvimento económico, de ordenamento espacial da produção e de profissionalização dos participantes.\n\n(20) A actividade agrícola nos Açores encontra-se fortemente dependente da produção de produtos lácteos. Esta dependência, associada a outras limitações decorrentes da ultraperificidade da mesma região e à falta de uma alternativa viável para as actividades de produção, prejudica o seu desenvolvimento económico. É conveniente ter em conta as necessidades de consumo local destas ilhas e, durante um período de quatro campanhas a contar da campanha de 1999/2000, prever derrogações de certas disposições da organização comum de mercado do leite e dos produtos lácteos em matéria de limitação da produção, a fim de atender ao estado de desenvolvimento e às condições de produção locais. Embora esta medida constitua uma derrogação do n.º 2, segundo parágrafo, do artigo 34.º do Tratado, é limitada aos produtores de leite do arquipélago e é pouco significativa relativamente à dimensão económica da quota portuguesa total. Esta medida deverá permitir, durante o seu período de aplicação, prosseguir a reestruturação do sector no arquipélago sem interferir no mercado dos produtos lácteos e sem afectar significativamente o bom funcionamento do regime da imposição aos níveis português e comunitário.\n\n(21) Em relação às culturas vegetais dos Açores, a superfície cultivável reduzida, a pequena dimensão e atomização das explorações e o baixo nível de intensificação estão na origem de custos de produção importantes. A manutenção destas culturas (beterrabas, chicória, batata, tabaco, ananás, vinho, chá, etc.) é vital em alternativa à produção predominante da pecuária local. Para assegurar a sua manutenção e o desenvolvimento, deverá ser prosseguido o apoio às culturas locais de transformação.\n\n(22) Por outro lado, é conveniente prosseguir o fabrico de vinhos licorosos nos Açores por métodos tradicionais, mediante a concessão de uma ajuda ao envelhecimento do vinho «Verdelho».\n\n(23) A situação fitossanitária das produções agrícolas da Madeira confronta-se com dificuldades específicas ligadas às condições climáticas e à insuficiência dos meios de luta até agora utilizados nesta região. É, pois, necessário aplicar programas de luta, incluindo através de métodos biológicos, contra os organismos prejudiciais e definir a participação financeira da Comunidade para a realização desses programas.\n\n(24) O Regulamento (CE) n.º 1257/1999 ([^4^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0004)) define as medidas de desenvolvimento rural que podem ser alvo de apoio comunitário e as condições requeridas para o obter.\n\n(25) O presente regulamento tem por objectivo compensar as desvantagens ligadas ao afastamento e à insularidade destas regiões.\n\n(26) As estruturas de certas explorações agrícolas ou empresas de transformação e de comercialização situadas nestas regiões são extremamente insuficientes e encontram-se sujeitas a dificuldades específicas. É, pois, conveniente poder derrogar, em relação a certos tipos de investimentos, disposições que limitam ou impedem a concessão de determinadas ajudas de carácter estrutural previstas no Regulamento (CE) n.º 1257/1999.\n\n(27) O n.º 3 do artigo 29.º do Regulamento (CE) n.º 1257/1999 restringe a concessão do apoio à silvicultura às florestas e zonas arborizadas na posse de proprietários privados ou municípios ou das respectivas associações. Uma parte das florestas e zonas arborizadas situadas no território destas regiões é propriedade de autoridades públicas distintas dos municípios. Nestas circunstâncias, há que tornar mais flexíveis as condições previstas no referido artigo.\n\n(28) A participação financeira da Comunidade em relação a três das medidas de acompanhamento referidas no n.º 1 do artigo 35.º do Regulamento (CE) n.º 1257/1999 pode elevar-se a 85 % do custo total elegível, nas regiões ultraperiféricas. Em contrapartida e nos termos do n.º 2, terceiro travessão, do artigo 47.º daquele Regulamento, a participação financeira da Comunidade nas medidas agro-ambientais, que constituem a quarta medida de acompanhamento, é limitada a 75 % em relação a todas as zonas do objectivo n.º 1. Dada a importância atribuída ao agro-ambiente no âmbito do desenvolvimento rural, é conveniente harmonizar a taxa de participação financeira da Comunidade em relação ao conjunto de medidas de acompanhamento nas regiões ultraperiféricas.\n\n(29) O n.º 2 do artigo 24.º e o anexo do Regulamento (CE) n.º 1257/1999 determinam os montantes máximos anuais elegíveis para apoio agro-ambiental comunitário. A fim de ter em conta a situação ambiental específica de certas zonas de pastagens muito sensíveis, nos Açores, e a preservação da paisagem e das características tradicionais das terras agrícolas, nomeadamente, das terras de cultura em socalcos, na Madeira, há que prever a possibilidade de aumentar esses montantes até ao dobro, em relação a certas medidas específicas.\n\n(30) Nos termos do artigo 14.º do Regulamento (CE) n.º 1260/1999 ([^5^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0005)), cada plano, quadro comunitário de apoio, programa operacional e documento único de programação abrange um período de sete anos, tendo o período de programação sido iniciado em 1 de Janeiro de 2000. Num intuito de coerência, e a fim de evitar discriminações entre os beneficiários de um mesmo programa, as derrogações previstas no presente regulamento devem poder aplicar-se, a título excepcional, a todo esse período de programação.\n\n(31) Com o objectivo de compensar os condicionalismos especiais da produção agrícola nos Açores e na Madeira, decorrentes do seu afastamento, insularidade, ultraperificidade, pequena superfície, relevo, clima e dependência económica relativamente a um pequeno número de produtos, pode ser concedida uma derrogação da política praticada pela Comissão de não autorizar auxílios estatais ao funcionamento nos sectores da produção, transformação e comercialização dos produtos agrícolas do anexo I do Tratado.\n\n(32) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0006)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "7f4271086bec7a3d": {
+   "fragment_id": "Regime específico de abastecimento",
+   "type": "divisao",
+   "heading": "Regime específico de abastecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime específico de abastecimento"
+  },
+  "5f4f72142f981217": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Não é aplicado qualquer direito à importação directa para as regiões dos Açores e da Madeira dos produtos abrangidos pelo regime específico de abastecimento, originários de países terceiros, dentro do limite das quantidades determinadas na estimativa de abastecimento.\n\nPara efeitos da aplicação do presente título, os produtos que tenham sido sujeitos ao regime de aperfeiçoamento activo ou ao regime de entreposto aduaneiro no resto do território aduaneiro da Comunidade são considerados importados directamente.\n\n2. A fim de garantir a satisfação das necessidades estabelecidas segundo o artigo 2.º em termos de quantidades, preços e qualidade, e procurando preservar a parte do abastecimento a partir da Comunidade, é concedida uma ajuda ao abastecimento das regiões dos Açores e da Madeira em produtos comunitários em existência pública, na sequência de medidas de intervenção, ou disponíveis no mercado comunitário.\n\nO montante da ajuda é fixado tendo em conta os custos adicionais de transporte para os mercados das regiões dos Açores e da Madeira e os preços praticados nas exportações para países terceiros, bem como, no caso de produtos para transformação ou de factores de produção agrícola, os custos adicionais da insularidade e ultraperifericidade.\n\n3. O regime específico de abastecimento é aplicado de modo a tomar em consideração, designadamente:\n\n— as necessidades específicas das regiões dos Açores e da Madeira e, no caso dos produtos para transformação ou dos factores de produção agrícola, as exigências de qualidade impostas,\n\n— as correntes comerciais com o resto da Comunidade,\n\n— o aspecto económico das ajudas previstas.\n\n4. O benefício do regime específico de abastecimento fica subordinado à repercussão efectiva até ao utilizador final da vantagem económica resultante da isenção do direito de importação ou da ajuda, em caso de abastecimento a partir do resto da Comunidade.\n\n5. Os produtos abrangidos pelo regime específico de abastecimento só podem ser reexportados para países terceiros ou reexpedidos para o resto da Comunidade nas condições estabelecidas pela Comissão nos termos do n.º 2 do artigo 35.º. Estas condições incluem, nomeadamente, o reembolso da ajuda recebida a título do regime específico de abastecimento para os produtos referidos no n.º 2 ou o pagamento dos direitos de importação dos produtos referidos no n.º 1.\n\nA limitação referida no primeiro parágrafo não é aplicável aos produtos transformados nas regiões dos Açores ou da Madeira que contenham matérias-primas que tenham beneficiado do regime específico de abastecimento:\n\na) Exportados no âmbito de exportações tradicionais ou no âmbito do comércio regional dos Açores ou da Madeira para os países terceiros; ou\n\nb) Expedidos:\n\ni) no âmbito das expedições tradicionais dos Açores ou da Madeira para o resto da Comunidade, ou\n\nii) no âmbito das correntes comerciais entre os Açores e a Madeira.\n\nNão é concedida qualquer restituição à exportação para os produtos referidos no segundo parágrafo.\n\n6. As normas de execução do presente título são adoptadas nos termos do n.º 2 do artigo 35.º Essas normas incluem, nomeadamente:\n\n— a fixação das ajudas ao abastecimento a partir da Comunidade,\n\n— as disposições específicas para garantir a sua repercussão efectiva até ao utilizador final,\n\n— o estabelecimento, se necessário, de um regime de certificados de importação ou entrega.\n\nA Comissão estabelece as estimativas de abastecimento nos termos do n.º 2 do artigo 35.º, podendo, segundo a mesma disposição, rever essas estimativas e a lista dos produtos dos anexos I e II, em função da evolução das necessidades das regiões dos Açores e da Madeira.\n\nEm relação ao abastecimento dos Açores em açúcar em bruto, as necessidades são avaliadas tendo em conta o desenvolvimento da produção local de beterraba sacarina. As quantidades às quais se aplica o regime de abastecimento são determinadas de modo a que o volume total anual de açúcar refinado nos Açores não exceda 10 000 toneladas.\n\nO artigo 9.º do Regulamento (CE) n.º 2038/1999 ([^7^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0007)) não é aplicável aos Açores."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "cf33046a008dabd4": {
+   "fragment_id": "MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+   "type": "divisao",
+   "heading": "MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "16e887b4d1a54a23": {
+   "fragment_id": "MEDIDAS COMUNS ÀS DUAS REGIÕES",
+   "type": "divisao",
+   "heading": "MEDIDAS COMUNS ÀS DUAS REGIÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS COMUNS ÀS DUAS REGIÕES"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "63ccbc88c0b42d61": {
+   "fragment_id": "Pecuária",
+   "type": "divisao",
+   "heading": "Pecuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pecuária"
+  },
+  "8538f242c892fdd9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. No sector da pecuária, são concedidas ajudas ao fornecimento às regiões dos Açores e da Madeira de animais de raças puras ou comerciais e de produtos, originários da Comunidade, com excepção dos bovinos de raças puras dos Açores.\n\n2. As condições de concessão da ajuda são estabelecidas tendo em conta, nomeadamente, as necessidades de abastecimento das regiões dos Açores e da Madeira quanto ao arranque destes sectores e a melhoria genética dos efectivos, e em função da adequação das raças às condições locais. As ajudas são pagas para a entrega de mercadorias que satisfaçam as condições previstas na regulamentação comunitária.\n\n3. As ajudas são fixadas tomando em consideração os seguintes elementos:\n\n— as condições e, nomeadamente, os custos de abastecimento das regiões dos Açores e da Madeira resultantes da sua situação geográfica,\n\n— o preço das mercadorias no mercado da Comunidade e no mercado mundial,\n\n— a eventualidade de não serem cobrados direitos sobre a importação de países terceiros,\n\n— o aspecto económico das ajudas previstas.\n\n4. Os n.^os^ 4 e 5 do artigo 3.º são aplicáveis às mercadorias que beneficiam das ajudas concedidas a título do n.º 1 do presente artigo.\n\n5. A lista dos produtos e os montantes das ajudas a que se refere o n.º 1 do presente artigo, bem como as normas de execução do presente artigo, são adoptados nos termos do n.º 2 do artigo 35.º"
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "b5380e3b1a0d260e": {
+   "fragment_id": "Frutas, produtos hortícolas, plantas e flores",
+   "type": "divisao",
+   "heading": "Frutas, produtos hortícolas, plantas e flores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Frutas, produtos hortícolas, plantas e flores"
+  },
+  "6db00a78d0884b99": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. É concedida uma ajuda às frutas, produtos hortícolas, flores e plantas vivas dos capítulos 6, 7 e 8 da Nomenclatura Combinada, ao chá do código NC 0902, ao mel do código NC 0409 00 e aos pimentos do código NC 0904, colhidos ou produzidos localmente e destinados ao abastecimento dos mercados das respectivas regiões de produção. Esta ajuda não é concedida às bananas da Madeira.\n\nA ajuda é concedida aos produtos conformes às normas comuns fixadas pela regulamentação comunitária ou, na sua falta, às especificações estipuladas nos contratos de fornecimento.\n\nA concessão da ajuda fica subordinada à celebração de contratos de fornecimento para uma ou várias campanhas entre, por um lado, produtores, individuais ou agrupados, ou organizações referidas nos artigos 11.º, 13.º e 14.º do Regulamento (CE) n.º 2200/96 ([^8^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0008)) e, por outro, indústrias agro-alimentares ou operadores dos sectores da distribuição ou da restauração ou colectividades.\n\nA ajuda é paga, dentro do limite de quantidades anuais estabelecidas por categoria de produtos, aos produtores, individuais ou agrupados, ou às organizações de produtores acima referidas.\n\nO montante da ajuda é fixado, numa base forfetária, para cada uma das categorias de produtos a determinar, em função do valor médio dos produtos abrangidos e é diferenciado consoante o beneficiário seja ou não uma das organizações de produtores referidas nos artigos 11.º, 13.º e 14.º do Regulamento (CE) n.º 2200/96.\n\n2. O presente artigo não é aplicável à produção de ananás nos Açores.\n\n3. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º As categorias de produtos e os montantes da ajuda referidos no n.º 1 do presente artigo são fixados pelo mesmo procedimento."
+  },
+  "01d91d8d160574c0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. É concedida uma ajuda à celebração de contratos de campanha que tenham por objecto a comercialização dos produtos frescos ou transformados incluídos entre os produtos referidos no n.º 1 do artigo 5.º Quanto às plantas e flores, a ajuda não é subordinada à celebração de contratos de campanha.\n\nEssa ajuda é paga dentro do limite de um volume de 3 000 toneladas por produto e por ano, para cada uma das duas regiões.\n\nOs contratos são celebrados entre, por um lado, produtores, individuais ou agrupados, ou organizações referidas nos artigos 11.º, 13.º e 14.º do Regulamento (CE) n.º 2200/96, estabelecidos nos arquipélagos e, por outro, pessoas singulares ou colectivas estabelecidas no resto da Comunidade.\n\n2. O montante da ajuda é de 10 % do valor da produção comercializada entregue na zona de destino.\n\n3. A ajuda é concedida aos vendedores que tenham celebrado contratos com operadores estabelecidos no resto da Comunidade, no âmbito dos contratos referidos no n.º 1.\n\n4. Quando as acções previstas no n.º 1 sejam efectuadas por empresas comuns que associem, com o objectivo de comercializar produções das regiões em causa, produtores dessas regiões, ou as suas associações ou uniões, a pessoas singulares ou colectivas estabelecidas no resto da Comunidade, e desde que os parceiros se comprometam a partilhar os conhecimentos e competências necessários à realização do objectivo da empresa durante um período mínimo de três anos, o montante da ajuda prevista no n.º 2 será elevado para 13 % do valor da produção comercializada anualmente em comum.\n\n5. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "966565184a468ef7": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comunidade participa, dentro do limite máximo de 100 000 euros, no financiamento de dois estudos económicos de análise e de estimativa relativos ao sector das frutas e produtos hortícolas frescos e transformados, nomeadamente tropicais, em cada uma das duas regiões.\n\nO estudo deve incidir, em relação a cada região, na situação económica e técnica do sector, devendo analisar, nomeadamente, os dados relativos ao abastecimento e aos custos de transformação e estimar as condições e possibilidades de desenvolvimento e escoamento à escala regional e internacional, tendo em conta os dados relativos à concorrência no mercado mundial.\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "2b1b643c5d6a9813": {
+   "fragment_id": "Vinho",
+   "type": "divisao",
+   "heading": "Vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Vinho"
+  },
+  "04686509abc85e0a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO capítulo II do título II e os capítulos I e II do título III do Regulamento (CE) n.º 1493/1999 ([^9^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0009)) e o Capítulo III do Regulamento (CE) n.º 1227/2000 ([^10^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0010)) não são aplicáveis aos Açores e à Madeira."
+  },
+  "b97459617d714008": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. É concedida uma ajuda forfetária por hectare para a manutenção da cultura da vinha orientada para a produção de vinhos «vqprd» nas zonas de produção tradicional.\n\nBeneficiam dessa ajuda as superfícies:\n\na) Plantadas com castas incluídas na classificação das castas, estabelecida pelos Estados-Membros, aptas à produção de cada um dos «vqprd» do seu território, referida no artigo 19.º do Regulamento (CE) n.º 1493/1999; e\n\nb) Cujo rendimento por hectare seja inferior a um máximo fixado pelo Estado-Membro, expresso em quantidade de uvas, mosto de uva ou vinho, nas condições estabelecidas no ponto I do anexo VI do Regulamento (CE) n.º 1493/1999.\n\n2. O montante da ajuda é de 650 euros por hectare e por ano. A ajuda é concedida aos agrupamentos ou às organizações de produtores. No entanto, durante um período transitório, a ajuda é igualmente concedida aos produtores individuais. Nesse período, todas as ajudas são pagas por intermédio do Instituto do Vinho da Madeira e da Comissão Vitivinícola dos Açores, em condições a estabelecer nos termos do n.º 2 do artigo 35.º\n\n3. As normas de execução do presente artigo são adoptadas, se for caso disso, nos termos do n.º 2 do artigo 35.º"
+  },
+  "b638ce2fc1a689fb": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Em derrogação do n.º 1 do artigo 19.º do Regulamento (CE) n.º 1493/1999, as uvas provenientes de castas híbridas produtores directos cujo cultivo é proibido (Noah, Othello, Isabelle, Jacquez, Clinton, Herbemont), colhidas nas regiões dos Açores e da Madeira podem ser utilizadas para a produção de vinho, que só pode circular no interior das mesmas regiões.\n\n2. Portugal procede, até 31 de Dezembro de 2006, à eliminação gradual do cultivo das parcelas plantadas com castas híbridas produtores directos cujo cultivo é proibido, com os apoios previstos no capítulo III do título II do Regulamento (CE) n.º 1493/1999, se for caso disso.\n\n3. Portugal comunica anualmente à Comissão a situação dos trabalhos de reconversão e reestruturação das superfícies plantadas com castas híbridas produtores directos cujo cultivo é proibido."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "21b6ec10008d612a": {
+   "fragment_id": "Símbolo gráfico",
+   "type": "divisao",
+   "heading": "Símbolo gráfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Símbolo gráfico"
+  },
+  "7f067bc88d958841": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. As condições de utilização do símbolo gráfico, criado para melhorar o conhecimento e aumentar o consumo de produtos agrícolas de qualidade, no seu estado inalterado ou transformados, específicos dos Açores e da Madeira enquanto regiões ultraperiféricas, são propostas pelas organizações profissionais. As autoridades portuguesas transmitem essas propostas, acompanhadas de parecer, para aprovação pela Comissão.\n\nA utilização do símbolo é controlada por uma autoridade pública ou por um organismo aprovado pelas autoridades portuguesas competentes.\n\n2. As normas de execução do presente artigo são adoptadas, se for caso disso, nos termos do n.º 2 do artigo 35.º"
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "0e153a4a7467534a": {
+   "fragment_id": "MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+   "type": "divisao",
+   "heading": "MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA"
+  },
+  "ea529ba6a31f3071": {
+   "fragment_id": "Pecuária e produtos lácteos",
+   "type": "divisao",
+   "heading": "Pecuária e produtos lácteos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pecuária e produtos lácteos"
+  },
+  "577022e241bdc9e1": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Até que o efectivo de jovens bovinos machos locais atinja um nível suficiente para a manutenção da produção de carne tradicional, e dentro do limite das estimativas previstas no artigo 13.º\n\na) Os direitos aduaneiros referidos no artigo 30.º do Regulamento (CE) n.º 1254/1999 ([^11^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0011)) não são aplicáveis à importação, para fins de engorda no local, de bovinos originários de países terceiros e destinados ao consumo no arquipélago;\n\nb) É concedida uma ajuda ao fornecimento dos animais referidos na alínea a), originários do resto da Comunidade, até ao limite de 1 000 cabeças, destinados prioritariamente aos produtores que possuam, no mínimo, 50 % de animais para engorda de origem local.\n\nOs n.^os^ 4 e 5 do artigo 3.º são aplicáveis às mercadorias que beneficiam das medidas referidas no primeiro parágrafo do presente número.\n\n2. O número de animais abrangidos pelas medidas referidas no n.º 1 do presente artigo é determinado com base numa estimativa periódica, de modo a tomar em consideração o desenvolvimento da produção local. Esse número, o montante da ajuda referida na alínea b) do n.º 1 do presente artigo e as normas de execução do presente artigo, que incluem, nomeadamente, o período mínimo de engorda, são fixados nos termos do n.º 2 do artigo 35.º"
+  },
+  "4ec2b53587b1b82f": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Em caso de aplicação da exclusão prevista no artigo 70.º do Regulamento (CE) n.º 1782/2003, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores ([^12^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0047)), a República Portuguesa deve apresentar à Comissão um programa destinado a apoiar as actividades tradicionais e a melhoria qualitativa da produção de carne de bovino, de ovino e de caprino dentro do limite das necessidades de consumo da Madeira.\n\nO programa deve ser elaborado e executado pelas autoridades competentes designadas pelo Estado-Membro.\n\n2. A Comunidade financia o programa até um montante anual igual à soma dos prémios efectivamente pagos em 2003 nos termos do Regulamento (CE) n.º 1254/1999 ([^13^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0048)), do Regulamento (CE) n.º 2529/2001 ([^14^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0049)) e do presente regulamento para os produtores estabelecidos na Madeira.\n\nA Comissão aumentará esse montante por forma a ter em conta a evolução da produção local. Todavia, o montante anual nunca poderá ser superior à soma dos limites máximos aplicáveis em 2003 para os prémios à carne de bovino nos termos do presente regulamento, multiplicados pelos montantes dos prémios e pagamentos de base e complementares aplicáveis em 2003, e de todos os direitos a prémios detidos pelos produtores estabelecidos na Madeira em 30 de Junho de 2003 nos termos do Regulamento (CE) n.º 2529/2001, mais a proporção pertinente da reserva nacional, multiplicados pelos prémios e pagamentos aplicáveis em 2003.\n\n3. A Comissão adopta as regras de execução, aprova e modifica o programa e fixa e aumenta o montante referido no primeiro parágrafo do n.º 2 do presente artigo, nos termos do procedimento previsto no n.º 2 do artigo 144.º do Regulamento (CE) n.º 1782/2003. A Comissão pode, nos termos do mesmo artigo, rever o limite referido no segundo parágrafo do n.º 2.\n\n4. Anualmente, até 15 de Abril, as autoridades da República Portuguesa devem apresentar um relatório sobre a implementação do programa."
+  },
+  "eee44c434146263a": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. No período de 2002 a 2006, é concedida uma ajuda à realização de um programa global de apoio às actividades de produção e comercialização de produtos locais no sector da pecuária e dos produtos lácteos na Madeira.\n\nEsse programa pode incluir medidas como acções de incentivo à melhoria da qualidade e da higiene, à comercialização, à estruturação dos sectores, à racionalização das estruturas de produção e de comercialização, à comunicação local relativa às produções de qualidade e à instituição de assistência técnica. Este programa não pode incluir a concessão de ajudas complementares aos prémios pagos em aplicação dos artigos 13.º e 15.º\n\nEsse programa é elaborado e executado em concertação estreita entre, por um lado, as autoridades competentes designadas pelo Estado-Membro e, por outro, as associações ou organizações de produtores mais representativas nos sectores económicos em causa.\n\n2. As normas de execução do presente artigo são fixadas nos termos do n.º 2 do artigo 35.º Os projectos de programa, com uma duração máxima de cinco anos, são apresentados à Comissão pelas autoridades competentes. A Comissão aprová-los-á nos termos do n.º 2 do artigo 35.º\n\n3. As autoridades portuguesas apresentam anualmente um relatório de execução do programa. Antes do final de 2005, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório de avaliação sobre a aplicação da medida prevista no presente artigo, eventualmente acompanhado das propostas adequadas."
+  },
+  "6744fd7bb7f8331b": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. É concedida a ajuda prevista no n.º 2 destinada a apoiar as actividades tradicionais e a melhorar a qualidade da produção de leite de vaca, dentro do limite das necessidades de consumo da Madeira, avaliadas no quadro de uma estimativa periódica. Essa estimativa é estabelecida tomando em consideração os produtos lácteos abrangidos pelo regime de abastecimento previsto no artigo 2.º\n\n2. É concedida uma ajuda ao consumo humano de produtos lácteos de vaca obtidos localmente, dentro do limite das necessidades de consumo do arquipélago, avaliadas periodicamente.\n\nO montante da ajuda é de 12 euros por 100 quilogramas de leite inteiro entregue na central leiteira para assegurar o escoamento regular no mercado local dos produtos acima referidos. A ajuda é paga às centrais leiteiras.\n\n3. O regime de imposição suplementar a cargo dos produtores de leite de vaca previsto no Regulamento (CEE) n.º 3950/92 ([^15^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0013)) não é aplicável à Madeira, dentro do limite de uma produção local de 4 000 toneladas de leite.\n\n4. Em derrogação dos artigos 2.º e 3.º do Regulamento (CE) n.º 2597/97 ([^16^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0014)) e dentro do limite das necessidades de consumo local, é autorizada na Madeira a produção de leite UHT reconstituído a partir de leite em pó de origem comunitária, desde que esta medida assegure a recolha e o escoamento da produção de leite obtido localmente. Esse produto destina-se exclusivamente ao consumo local.\n\n5. A Comissão procede à revisão da ajuda prevista no n.º 2 e adopta as normas de execução do presente artigo nos termos do n.º 2 do artigo 35.º Essas normas determinam, nomeadamente, a quantidade de leite fresco obtido localmente que deve ser incorporado no leite UHT reconstituído referido no n.º 4 do presente artigo."
+  },
+  "80842b15f5f32011": {
+   "fragment_id": "Batata",
+   "type": "divisao",
+   "heading": "Batata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Batata"
+  },
+  "8fa8399542264e2b": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. É concedida uma ajuda por hectare à cultura de batata de consumo dos códigos NC 0701 90 50 e 0701 90 90.\n\nO montante anual da ajuda é de 596,9 euros por hectare.\n\nA ajuda é paga até ao limite de uma superfície cultivada e colhida de 2 000 hectares por ano.\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "50581995ff6cc7cf": {
+   "fragment_id": "Cana-Açúcar-Rum",
+   "type": "divisao",
+   "heading": "Cana-Açúcar-Rum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cana-Açúcar-Rum"
+  },
+  "74ad1f80d1c0d9b3": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. É concedida uma ajuda à transformação directa da cana-de-açúcar produzida na Madeira em mel de cana ou em rum agrícola, tal como definido no n.º 4, alínea a), do artigo 1.º do Regulamento (CEE) n.º 1576/89 ([^17^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0015)).\n\nA ajuda é paga, consoante o caso, ao fabricante de mel de cana ou ao destilador, desde que tenha sido pago ao produtor de cana-de-açúcar um preço mínimo a determinar.\n\n2. A ajuda é concedida em relação à produção de uma quantidade anual de 250 toneladas de mel de cana e de 2 500 hectolitros de álcool a 71,8º para o rum agrícola."
+  },
+  "199487049ce07e02": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO montante das ajudas previstas nos artigos 17.º e 18.º, o preço mínimo a pagar ao produtor e as normas de execução dos artigos supracitados são adoptados nos termos do n.º 2 do artigo 35.º"
+  },
+  "95e7c933e97d58f3": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. As ajudas previstas no presente artigo são concedidas para apoiar o fabrico de vinho licoroso da Madeira, dentro do limite das necessidades decorrentes dos métodos tradicionais da região.\n\n2. É concedida uma ajuda à compra, no resto da Comunidade, de mostos concentrados rectificados para utilização na vinificação para fins de edulcoração do vinho licoroso em causa.\n\n3. É concedida uma ajuda à compra de álcool vínico.\n\nAs condições deste escoamento específico são determinadas de modo a não perturbar os mercados do álcool e das bebidas espirituosas na Comunidade.\n\n4. O montante destas ajudas é fixado, tomando em consideração os seguintes elementos:\n\na) As condições e, nomeadamente, os custos de abastecimento da Madeira resultantes da sua situação geográfica;\n\nb) Os preços dos produtos no mercado da Comunidade e no mercado mundial;\n\nc) O aspecto económico da ajuda prevista.\n\nNão é concedida qualquer restituição à exportação dos mostos e do álcool vínico a partir da Madeira.\n\n5. É concedida uma ajuda ao envelhecimento do vinho licoroso da Madeira até ao limite anual de 20 000 hectolitros. Essa ajuda é paga em relação ao vinho licoroso cujo envelhecimento não seja inferior a cinco anos. A ajuda será paga por lote, durante três campanhas.\n\nO montante da ajuda é de 0,040 euros por hectolitro e por dia.\n\n6. É concedida, a título temporário, uma ajuda anual à expedição e comercialização de vinho da Madeira nos mercados da Comunidade.\n\nO montante dessa ajuda é de 0,2 euros por garrafa, até ao limite de 2,5 milhões de litros por ano.\n\n7. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "6ec5cbd7da702b7f": {
+   "fragment_id": "SECÇÃO 5",
+   "type": "divisao",
+   "heading": "SECÇÃO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 5"
+  },
+  "4d001247422b06f1": {
+   "fragment_id": "Vime",
+   "type": "divisao",
+   "heading": "Vime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Vime"
+  },
+  "3a5dc289abd9049a": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. É concedida anualmente uma ajuda forfetária por hectare aos produtores de vime.\n\n2. O montante da ajuda é de 575 euros por hectare de superfície plantada e colhida, até ao limite de 200 hectares.\n\n3. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "3de7069309068abc": {
+   "fragment_id": "MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+   "type": "divisao",
+   "heading": "MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES"
+  },
+  "61ef64b944008d43": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. As ajudas previstas no presente artigo são concedidas com o objectivo de apoiar as actividades económicas tradicionais essenciais dos Açores no sector da carne de bovino e no sector leiteiro.\n\n2. Em caso de aplicação da exclusão prevista no artigo 70.º do Regulamento (CE) n.º 1782/2003, a República Portuguesa deve apresentar à Comissão um programa destinado a apoiar as actividades tradicionais e a melhoria qualitativa da produção de carne de bovino, de ovino e de caprino.\n\nO programa deve ser elaborado e executado pelas autoridades competentes designadas pelo Estado-Membro.\n\n3. A Comunidade financia o programa até um montante anual igual à soma dos prémios efectivamente pagos em 2003 nos termos do Regulamento (CE) n.º 1254/1999, do Regulamento (CE) n.º 2529/2001 e do presente regulamento para os produtores estabelecidos nos Açores.\n\nA Comissão aumentará esse montante por forma a ter em conta a evolução da produção local. Todavia, o montante anual nunca poderá ser superior à soma dos limites máximos aplicáveis em 2003 para os prémios à carne de bovino nos termos do presente regulamento, multiplicados pelos montantes dos prémios e pagamentos de base e complementares aplicáveis em 2003, e de todos os direitos a prémios detidos pelos produtores estabelecidos nos Açores em 30 de Junho de 2003 nos termos do Regulamento (CE) n.º 2529/2001 e do Regulamento (CE) n.º 1254/1999 para as vacas em aleitamento, mais as proporções pertinentes das reservas nacionais, multiplicados pelos prémios e pagamentos aplicáveis em 2003.\n\nEm caso de aplicação da subalínea i) da alínea a) do artigo 68.º do Regulamento (CE) n.º 1782/2003, as autoridades da República Portuguesa podem aumentar o limite máximo para as vacas em aleitamento no que respeita aos Açores mediante transferência dos direitos ao prémio por vaca em aleitamento a partir do limite máximo nacional. Neste caso, o montante correspondente será transferido do limite máximo fixado em aplicação da subalínea i) da alínea a) do artigo 68.º do Regulamento (CE) n.º 1782/2003 para o limite máximo referido no segundo parágrafo do n.º 3 do presente artigo.\n\n4. A Comissão adopta as regras de execução, aprova e modifica o programa e fixa e aumenta o montante referido no primeiro parágrafo do n.º 3, nos termos do n.º 2 do artigo 144.º do Regulamento (CE) n.º 1782/2003. A Comissão pode rever o limite referido no segundo parágrafo do n.º 2, nos termos do mesmo artigo.\n\n5. Anualmente, até 15 de Abril, as autoridades da República Portuguesa devem apresentar um relatório sobre a implementação do programa.\n\n7. É concedido um prémio especial à manutenção do efectivo de vacas leiteiras, até ao limite de 78 000 cabeças.\n\nEsse prémio é pago ao produtor. O seu montante é de 96,6 euros por vaca na posse do produtor no dia da apresentação do pedido.\n\n8. É concedida uma ajuda à armazenagem privada de queijo de fabrico tradicional:\n\n— *São Jorge* com, pelo menos, três meses de maturação,\n\n— *Ilha*, com, pelo menos, quarenta e cinco dias de maturação.\n\nO montante da ajuda é fixado nos termos do n.º 10.\n\n9. É instituída uma ajuda ao escoamento de jovens bovinos machos nascidos nos Açores para outra região da Comunidade.\n\nA ajuda, no montante de 40 euros por cabeça expedida, é concedida, até ao limite de 20 000 animais, aos produtores que tenham criado esses animais durante um período mínimo de três meses antes da expedição.\n\n10. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "66a2483d41f2e74a": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. A partir da campanha de comercialização de 1999/2000, para efeitos da reatribuição da imposição suplementar aos produtores referidos no n.º 1, segundo período, do artigo 2.º do Regulamento (CEE) n.º 3950/92, só são considerados como tendo contribuído para o excedente os produtores, definidos na alínea c) do seu artigo 9.º, estabelecidos nos Açores e aí exercendo a sua actividade produtiva, que comercializem quantidades que excedam a sua quantidade de referência, aumentada da percentagem determinada nos termos do terceiro parágrafo.\n\nA imposição suplementar é devida para as quantidades que excedam a quantidade de referência assim aumentada após reatribuição, aos produtores referidos no primeiro parágrafo e proporcionalmente à quantidade de referência de que dispõe cada um deles, das quantidades não utilizadas compreendidas na margem resultante desse aumento.\n\nA percentagem referida no primeiro parágrafo é igual à relação entre as quantidades de 73 000 toneladas, para o período de 1999/2000 a 2004/2005, e 23 000 toneladas, a partir da campanha de comercialização de 2005/2006, e a soma das quantidades de referência disponíveis em cada exploração em 31 de Março de 2000 e aplica-se exclusivamente, em relação a cada produtor, às quantidades de referência de que o mesmo dispunha em 31 de Março de 2000.\n\n2. As quantidades de leite ou de equivalente-leite comercializadas que excedam as quantidades de referência, mas respeitem a percentagem referida no n.º 1 do presente artigo, após a reatribuição prevista nessa mesma disposição, não serão tidas em conta para a determinação de um eventual excedente de Portugal calculado nos termos do primeiro período do n.º 1 do artigo 2.º do Regulamento (CEE) n.º 3950/92."
+  },
+  "b4011c17f07b9ccf": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. A República Portuguesa comunica à Comissão, antes da sua entrada em vigor, as disposições adoptadas em aplicação do artigo 23.º"
+  },
+  "09b35db64e2dc62b": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A Comissão adopta, se necessário, as medidas de execução do artigo 23.º nos termos do n.º 2 do artigo 35.º"
+  },
+  "9a2d56844fecf57b": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. No período de 2002 a 2006, é concedida uma ajuda para a realização de um programa global de apoio às actividades de produção e comercialização de produtos locais no sector da pecuária e dos produtos lácteos nos Açores.\n\nEsse programa pode incluir medidas como acções de incentivo à melhoria da qualidade e higiene, à comercialização, à comunicação local relativa às produções de qualidade e à instituição de assistência técnica. Esse programa não pode incluir a concessão de ajudas complementares aos prémios pagos ao abrigo do artigo 22.º\n\nEsse programa é elaborado e executado em concertação estreita entre as autoridades competentes designadas pelo Estado-Membro e as associações ou organizações de produtores mais representativas nos sectores económicos em causa.\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º Os projectos de programa, com uma duração máxima de cinco anos, são apresentados à Comissão pelas autoridades competentes. A Comissão aprová-los-á nos termos do n.º 2 do artigo 35.º\n\n3. As autoridades portuguesas apresentam anualmente um relatório de execução do programa. Antes do final de 2005, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório de avaliação sobre a aplicação da medida prevista no presente artigo, acompanhado, se necessário, das propostas adequadas."
+  },
+  "984ed3fc1a46aab4": {
+   "fragment_id": "Ananás",
+   "type": "divisao",
+   "heading": "Ananás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ananás"
+  },
+  "243ea8272d4ec3ef": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nÉ concedida uma ajuda à produção de ananás do código NC 0804 30 00, até ao limite de 2 000 toneladas por ano.\n\nO montante da ajuda é de 1,20 euros por quilograma.\n\nAs normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "c992ddfc16bf3daa": {
+   "fragment_id": "Açúcar",
+   "type": "divisao",
+   "heading": "Açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Açúcar"
+  },
+  "6636ee71d1a918a1": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. É concedida uma ajuda fixa por hectare ao desenvolvimento da produção de beterraba sacarina, dentro do limite de uma superfície correspondente a uma produção anual de 10 000 toneladas de açúcar branco.\n\nO montante da ajuda é de 800 euros por hectare de superfície semeada e colhida.\n\n2. É concedida uma ajuda específica à transformação em açúcar branco das beterrabas colhidas nos Açores, dentro do limite de uma produção global anual de 10 000 toneladas de açúcar refinado.\n\nO montante da ajuda é de 27 euros por 100 quilogramas de açúcar refinado e pode ser adaptado nos termos do n.º 3.\n\n3. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "8c179091f60a0a47": {
+   "fragment_id": "Tabaco",
+   "type": "divisao",
+   "heading": "Tabaco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabaco"
+  },
+  "d4bd4ed53fc114f0": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. É concedido um prémio complementar ao prémio instituído no título I do Regulamento (CEE) n.º 2075/92 ([^18^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0016)), para a colheita de tabaco em folha da variedade Burley P., até ao limite de 250 toneladas. O montante do prémio complementar é de 0,24 euros por quilograma de tabaco em folha.\n\nAs normas de execução relativas ao regime de prémios do Regulamento (CE) n.º 2848/98 ([^19^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0017)) são aplicáveis ao prémio complementar, excepto derrogação específica adoptada nos termos do n.º 2 do artigo 35.º\n\n2. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "de29ad82d49ee0f9": {
+   "fragment_id": "Batata de semente, chicória e chá",
+   "type": "divisao",
+   "heading": "Batata de semente, chicória e chá",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Batata de semente, chicória e chá"
+  },
+  "099b8f931995470c": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. É concedida uma ajuda à produção de batata de semente do código NC ex070110 00, até ao limite de uma superfície de 200 hectares.\n\nO montante da ajuda é de 596,9 euros por hectare.\n\n2. É concedida uma ajuda à produção de chicória do código NC 1212 99 10, até ao limite de uma superfície máxima de 200 hectares.\n\nO montante da ajuda é de 596,9 euros por hectare.\n\n3. É concedida uma ajuda à celebração de contratos de campanha destinados à comercialização da batata referida no n.º 1 do presente artigo em condições idênticas às previstas no artigo 6.º\n\n4. É concedida uma ajuda por hectare à cultura do chá.\n\nO montante anual da ajuda é de 800 euros por hectare de superfície colhida.\n\nA ajuda é paga até ao limite de uma superfície de 100 hectares.\n\n5. As normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "621e2a092be2e798": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nÉ concedida uma ajuda ao envelhecimento do vinho «Verdelho» dos Açores até ao limite anual de uma quantidade máxima de 4 000 hectolitros. Essa ajuda é paga em relação ao vinho «Verdelho» cujo período de envelhecimento não seja inferior a três anos. Essa ajuda é paga em relação a cada lote durante três campanhas.\n\nO montante da ajuda é de 0,08 euros por hectolitro por dia."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "4eba7fe82915dd48": {
+   "fragment_id": "MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE CARÁCTER FITOSSANITÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE CARÁCTER FITOSSANITÁRIO"
+  },
+  "cbdd926916f9a2a7": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. As autoridades competentes devem apresentar à Comissão programas de luta contra os organismos prejudiciais aos vegetais e produtos vegetais. Esses programas especificam, nomeadamente, os objectivos a atingir, as acções a realizar e a respectiva duração e custo. A protecção das bananas não está incluída nos programas apresentados ao abrigo do presente artigo.\n\n2. A Comunidade contribui para o financiamento dos referidos programas com base numa análise técnica da situação regional.\n\n3. A participação financeira da Comunidade e o montante da ajuda são decididos nos termos do n.º 2 do artigo 35.º As acções elegíveis para financiamento comunitário são definidas pelo mesmo procedimento.\n\n4. Essa participação pode cobrir até 75 % das despesas elegíveis. O pagamento é efectuado com base na documentação fornecida pelas autoridades competentes. Se o considerar necessário, a Comissão pode organizar inquéritos, que serão efectuados por sua conta pelos peritos referidos no artigo 21.º da Directiva 2000/29/CE ([^20^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0018))."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "368314787d8e31ab": {
+   "fragment_id": "MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+   "type": "divisao",
+   "heading": "MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DERROGATÓRIAS DE CARÁCTER ESTRUTURAL"
+  },
+  "33f46bb5e84fbc46": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. Em derrogação do artigo 7.º do Regulamento (CE) n.º 1257/1999, o montante total da ajuda, expresso em percentagem do volume de investimento elegível, é limitado a 75 %, no máximo, relativamente aos investimentos destinados, designadamente, a fomentar a diversificação, a reestruturação ou a orientação para uma agricultura sustentável em explorações agrícolas de dimensão económica reduzida, a definir no complemento de programação referido no n.º 3 do artigo 18.º do Regulamento (CE) n.º 1260/1999.\n\n2. Em derrogação do n.º 2 do artigo 28.º do Regulamento (CE) n.º 1257/1999, o montante total da ajuda, expresso em percentagem do volume de investimento elegível, é limitado a 65 %, no máximo, relativamente aos investimentos em empresas de transformação e de comercialização de produtos agrícolas provenientes principalmente da produção local e pertencentes a sectores a definir no âmbito do complemento de programação referido no n.º 3 do artigo 18.º do Regulamento (CE) n.º 1260/1999. Para as pequenas e médias empresas, o valor total da ajuda é limitado, nas mesmas condições, a um máximo de 75 %.\n\n3. O limite previsto no n.º 3 do artigo 29.º do Regulamento (CE) n.º 1257/1999 não é aplicável às florestas subtropicais e zonas arborizadas situadas no território dos Açores e da Madeira.\n\n4. Em derrogação do n.º 2, segundo parágrafo, terceiro travessão, do artigo 47.º do Regulamento (CE) n.º 1257/1999, a participação financeira da Comunidade nas medidas agro-ambientais previstas nos artigos 22.º, 23.º e 24.º daquele regulamento eleva-se a 85 %.\n\n5. Em derrogação do n.º 2 do artigo 24.º do Regulamento (CE) n.º 1257/1999, os montantes máximos anuais elegíveis para apoio comunitário, previstos no anexo desse regulamento, podem ser aumentados até ao dobro, no que se refere à medida de protecção dos lagos dos Açores e à medida de preservação da paisagem e das características tradicionais das terras agrícolas, nomeadamente, de conservação dos muros de pedra de suporte dos socalcos da Madeira.\n\n6. As medidas previstas ao abrigo do presente artigo são descritas resumidamente no âmbito dos programas operacionais relativos a estas regiões, previstos no artigo 18.º do Regulamento (CE) n.º 1260/1999."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "d9365abbcfaad5cd": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nAs medidas necessárias à execução do presente regulamento são aprovadas pelo procedimento de gestão a que se refere o n.º 2 do artigo 35.º"
+  },
+  "2a3518186cf3a67a": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. A Comissão é assistida pelo Comité de Gestão dos Cereais, instituído pelo artigo 22.º do Regulamento (CE) n.º 1766/1992 ([^21^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0019)), ou pelos comités de gestão instituídos pelos regulamentos que estabelecem as organizações comuns dos mercados para os produtos em causa.\n\nEm relação aos produtos agrícolas abrangidos pelo Regulamento (CEE) n.º 827/68 ([^22^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0020)) e aos produtos não abrangidos por uma organização comum de mercado, a Comissão é assistida pelo Comité de Gestão do Lúpulo, instituído pelo artigo 20.º do Regulamento (CEE) n.º 1696/71 ([^23^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0021)).\n\nEm relação ao símbolo gráfico e nos outros casos previstos no presente regulamento, a Comissão é assistida pelo Comité de Gestão das Frutas e Produtos Hortícolas, instituído pelo Regulamento (CE) n.º 2200/96.\n\nNa execução do título III, a Comissão é assistida pelo Comité Fitossanitário Permanente, instituído pela Decisão 76/894/CEE ([^24^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0022)).\n\nNa execução do Título IV, a Comissão é assistida pelo Comité para o Desenvolvimento e Reconversão das Regiões e pelo Comité das Estruturas Agrícolas e do Desenvolvimento Rural, instituídos, respectivamente, pelos artigos 48.º e 50.º do Regulamento (CE) n.º 1260/1999.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE do Conselho.\n\nTodavia, em relação ao título III, é aplicável o artigo 18.º da Directiva 2000/29/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Os comités aprovarão os seus regulamentos internos."
+  },
+  "76ac95741db19f89": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nEm relação aos produtos agrícolas do anexo I do Tratado, aos quais são aplicáveis os seus artigos 87.º a 89.º, a Comissão pode autorizar ajudas ao funcionamento nos sectores da produção, transformação e comercialização desses produtos, com o objectivo de compensar os condicionalismos especiais da produção agrícola dos Açores e na Madeira, decorrentes do seu afastamento, insularidade e ultraperificidade."
+  },
+  "abac2f1b266f7c96": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nAs medidas previstas no presente regulamento, com excepção do artigo 33.º, constituem intervenções destinadas à estabilização dos mercados agrícolas, na acepção do n.º 2 do artigo 2.º do Regulamento (CE) n.º 1258/1999 ([^25^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0023))."
+  },
+  "2922d99cf8906865": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs Estados-Membros devem tomar as medidas necessárias para assegurar o cumprimento do presente regulamento, nomeadamente em matéria de controlos e sanções administrativas, e informar a Comissão desse facto.\n\nAs normas de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 35.º"
+  },
+  "fc119e0e61655bb0": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nÉ revogado o Regulamento (CEE) n.º 1600/92 ([^26^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#E0024)). As remissões para o Regulamento (CEE) n.º 1600/92 entendem-se como sendo feitas para o presente regulamento e devem ser lidas de acordo com a tabela de correspondência do anexo III."
+  },
+  "2affbc95caa1a12e": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO artigo 33.º é aplicável desde 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "067eb27d074085a2": {
+   "fragment_id": "LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.º PARA A REGIÃO DOS AÇORES",
+   "type": "divisao",
+   "heading": "LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.º PARA A REGIÃO DOS AÇORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS PRODUTOS ABRANGIDOS PELO REGIME ESPECÍFICO DE ABASTECIMENTO PREVISTO NO ARTIGO 3.º PARA A REGIÃO DOS AÇORES\n\n| Designação das mercadorias | Código NC |\n| --- | --- |\n| Cereais e produtos cerealíferos destinados à alimentação animal e humana |  |\n| Milho para sementeira | 1005 10 |\n| Arroz | 1006 |\n| Soja para sementeira | 1201 00 90 |\n| Sementes de girassol | 1206 00 99 |\n| Lúpulo | 1210 |\n| Açúcar em bruto (em rama) | 1701 12 10 |\n| Sumos de frutas (matérias primas), excluindo os abrangidos pelo artigo 5.º do presente regulamento | 2009 |\n| Azeite | 1509 10 90, 1509 90 00, 1509 00 90 |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "aa590d7d83769d1c": {
+   "fragment_id": "Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.º para a região da Madeira",
+   "type": "divisao",
+   "heading": "Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.º para a região da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos produtos abrangidos pelo regime específico de abastecimento previsto no artigo 3.º para a região da Madeira\n\n| Designação das mercadorias | Código NC |\n| --- | --- |\n| Cereais e produtos cerealíferos destinados à alimentação animal e humana |  |\n| Lúpulo | 1210 |\n| Luzerna desidratada | 1214 |\n| Bagaços de soja | 2304 |\n| Arroz | 1006 |\n| Óleos vegetais | ex15 07 a 1516 |\n| Açúcares | 1701 e 1702 (com exclusão das isoglicoses) |\n| Conservas de frutas e sumos de fruta concentrados (matérias-primas), excluindo os abrangidos pelo artigo 5.º do presente regulamento | 2007 99 e 2008 e 2009 |\n| Carne de bovino |  |\n| Fresca ou refrigerada | 0201 |\n| Congelada | 0202 |\n| Carne de suíno | 0203 |\n| Produtos lácteos |  |\n| Leite em pó | ex04 02 |\n| Leite líquido | 0401 |\n| Manteiga | 0405 |\n| Queijos | 0406 |\n| Batata de semente | 0701 10 00 |"
+  },
+  "e690ab7cadce4625": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n| Regulamento (CEE) n.º 1600/92 | Presente regulamento |\n| --- | --- |\n| Artigo 1.º | Artigo 1.º |\n| Artigo 2.º | Artigo 2.º |\n| Artigo 3.º, n.º 1 | Artigo 3.º, n.º 1, primeiro parágrafo |\n| Artigo 3.º, n.º 1, segundo parágrafo |  |\n| Artigo 3.º, n.º 2 | Artigo 3.º, n.º 2 |\n| Artigo 3.º, n.º 3 | Artigo 3.º, n.º 3 |\n| Artigo 3.º, n.º 4 | Artigo 3.º, n.º 6 |\n| Artigo 4.º | Artigo 4.º |\n| Artigo 5.º | Artigo 12.º |\n| Artigo 6.º | Suprimido |\n| Artigo 7.º | Artigo 3.º, n.º 4 |\n| Artigo 8.º, n.º 1 | Artigo 3.º, n.º 5, primeiro parágrafo |\n| Artigo 3.º, n.º 5, segundo parágrafo |  |\n| Artigo 8.º, n.º 2 | Artigo 3.º, n.º 5, terceiro parágrafo |\n| Artigo 9.º | Artigo 3.º, n.º 5, quarto parágrafo |\n| Artigo 10.º | Artigo 3.º, n.º 6 |\n| Artigo 11.º | Suprimido |\n| Artigo 5.º |  |\n| Artigo 12.º | Artigo 6.º |\n| Artigo 13.º | Artigo 7.º |\n| Artigo 10.º |  |\n| Artigo 14.º, n.º 1 | Artigo 13.º, n.º 1 |\n| Artigo 14.º, n.º 2 | Suprimido |\n| Artigo 14.º, n.º 3 | Artigo 13.º, n.º 3 |\n| Artigo 13.º, n.º 2 |  |\n| Artigo 13.º, n.º 4 |  |\n| Artigo 13.º, n.º 5 |  |\n| Artigo 14.º, n.º 4 | Artigo 13.º, n.º 6 |\n| Artigo 14.º |  |\n| Artigo 15.º, n.º 1, primeiro parágrafo | Artigo 15.º, n.º 1, primeiro parágrafo |\n| Artigo 15.º, n.º 1, segundo e terceiro parágrafos | Artigo 15.º, n.º 2 |\n| Artigo 15.º, n.º 3 |  |\n| Artigo 15.º, n.º 4 |  |\n| Artigo 15.º, n.º 2 | Artigo 15.º, n.º 5 |\n| Artigo 16.º | Artigo 16.º |\n| Artigo 17.º | Artigo 17.º |\n| Artigo 18.º | Artigo 18.º |\n| Artigo 19.º | Artigo 19.º |\n| Artigo 20.º | Artigo 8.º |\n| Artigo 21.º | Artigo 20.º |\n| Artigo 20.º, n.º 6 |  |\n| Artigo 21.º |  |\n| Artigo 22.º | Artigo 9.º |\n| Artigo 23.º | Suprimido |\n| Artigo 24.º, n.º 1 | Artigo 22.º, n.º 1 |\n| Artigo 24.º, n.º 2 | Suprimido |\n| Artigo 22.º, n.º 2 |  |\n| Artigo 24.º, n.º 3 | Artigo 22.º, n.º 3 |\n| Artigo 22.º, n.º 4 |  |\n| Artigo 22.º, n.º 5 |  |\n| Artigo 22.º, n.º 6 |  |\n| Artigo 24.º, n.º 4 | Artigo 22.º, n.º 7 |\n| Artigo 24.º, n.º 5 | Artigo 22.º, n.º 8 |\n| Artigo 22.º, n.º 9 |  |\n| Artigo 24.º, n.º 6 | Artigo 22.º, n.º 10 |\n| Artigo 23.º |  |\n| Artigo 24.º |  |\n| Artigo 25.º |  |\n| Artigo 26.º |  |\n| Artigo 25.º | Artigo 28.º |\n| Artigo 26.º | Artigo 29.º |\n| Artigo 27.º | Artigo 30.º |\n| Artigo 30.º, n.º 4 |  |\n| Artigo 31.º |  |\n| Artigo 28.º | Artigo 8.º |\n| Artigo 29.º | Artigo 9.º |\n| Artigo 30.º | Artigo 27.º |\n| Artigo 31.º | Artigo 11.º |\n| Artigo 32.º | Artigo 33.º |\n| Artigo 33.º | Artigo 32.º |\n| Artigo 34.º |  |\n| Artigo 35.º |  |\n| Artigo 36.º |  |\n| Artigo 34.º | Artigo 37.º |\n| Artigo 38.º |  |\n| Artigo 39.º, n.º 1 |  |\n| Artigo 35.º, n.º 1 | Suprimido |\n| Artigo 35.º, n.º 2 | Artigo 39.º, n.º 2 |\n| Artigo 40.º |  |\n| Artigo 36.º | Artigo 41.º |\n| Anexo I | Anexo I |\n| Anexo II | Anexo II |\n| Anexo III |  |\n\n---"
+  },
+  "2776c7b61c288104": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0001)) Parecer emitido em 14 de Junho de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0002)) JO L 171 de 29.6.1991, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0003)) Regulamento (CEE) n.º 3950/92 do Conselho, de 28 de Dezembro de 1992, que institui uma imposição suplementar no sector do leite e dos produtos lácteos (JO L 405 de 31.12.1992, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1256/1999 (JO L 160 de 26.6.1999, p. 73).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0004)) Regulamento (CE) n.º 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural, e que altera e revoga determinados regulamentos (JO L 160 de 26.6.1999, p. 80).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0005)) Regulamento (CE) n.º 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos Estruturais (JO L 161 de 26.6.1999, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0007)) Regulamento (CE) n.º 2038/1999 do Conselho, de 13 de Setembro de 1999, que estabelece a organização comum de mercado no sector do açúcar (JO L 252 de 25.9.1999, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 906/2001 da Comissão (JO L 127 de 9.5.2001, p. 28).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0008)) Regulamento (CE) n.º 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (JO L 297 de 21.11.1996, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2826/2000 da Comissão (JO L 328 de 23.12.2000, p. 2).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0009)) Regulamento (CE) n.º 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola (JO L 179 de 14.7.1999, p. 1). Regulamento com a última redacção que foi dada pelo Regulamento (CE) n.º 2826/2000 (JO L 328 de 23.12.2000, p. 2).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0010)) Regulamento (CE) n.º 1227/2000 da Comissão, de 31 de Maio de 2000, que estabelece normas de execução do Regulamento (CE) n.º 1493/1999 do Conselho que estabelece a organização comum do mercado vitivinícola, no referente ao potencial de produção (JO L 143 de 16.6.2000, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0011)) Regulamento (CE) n.º 1254/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino (JO L 160 de 16.6.1999, p. 21).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0047)) JO L 270 de 21.10.2003, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0048)) JO L 160 de 26.6.1999, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0049)) JO L 341 de 22.12.2001, p. 3.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0013)) Regulamento (CEE) n.º 3950/92 do Conselho, de 28 de Dezembro de 1992, que institui uma imposição suplementar no sector do leite e dos produtos lácteos (JO L 405 de 31.12.1992, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1256/1999 (JO L 160 de 26.6.1999, p. 73).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0014)) Regulamento (CE) n.º 2597/97 do Conselho, de 18 de Dezembro de 1997, que estabelece as regras complementares da organização comum de mercado no sector do leite e dos produtos lácteos no que diz respeito ao leite de consumo (JO L 351 de 23.12.1997, p. 13).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0015)) Regulamento (CEE) n.º 1576/89 do Conselho, de 29 de Maio de 1989, que estabelece as regras gerais relativas à definição, à designação e à apresentação das bebidas espirituosas (JO L 160 de 12.6.1989, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3378/94 do Parlamento Europeu e do Conselho (JO L 366 de 31.12.1994, p. 1).\n\n> ([^18^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0016)) Regulamento (CEE) n.º 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama (JO L 215 de 30.7.1992, p. 70). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1336/2000 da Comissão (JO L 154 de 27.6.2000, p. 2).\n\n> ([^19^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0017)) Regulamento (CE) n.º 2848/98 da Comissão, de 22 de Dezembro de 1998, que estabelece normas de execução do Regulamento (CEE) n.º 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama (JO L 358 de 31.12.1998, p. 17). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 385/2001 da Comissão (JO L 57 de 27.2.2001, p. 18).\n\n> ([^20^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0018)) Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade (JO L 169 de 10.7.2000, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 2001/33/CE da Comissão (JO L 127 de 9.5.2001, p. 42).\n\n> ([^21^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0019)) Regulamento (CEE) n.º 1766/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector dos cereais (JO L 181 de 1.7.1992, p. 21). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1666/2000 (JO L 193 de 29.7.2000, p. 1).\n\n> ([^22^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0020)) Regulamento (CEE) n.º 827/68 do Conselho, de 28 de Junho de 1968, que estabelece a organização comum de mercado para certos produtos enumerados no anexo II do Tratado (JO L 151 de 30.6.1968, p. 16). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n> ([^23^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0021)) Regulamento (CEE) n.º 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece uma organização comum de mercado no sector do lúpulo (JO L 175 de 4.8.1971, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 191/2000 (JO L 23 de 28.1.2000, p. 4).\n\n> ([^24^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0022)) Decisão 76/894/CEE do Conselho, de 23 de Novembro de 1976, que institui um Comité Fitossanitário Permanente (JO L 340 de 9.12.1976, p. 25).\n\n> ([^25^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0023)) Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum (JO L 160 de 26.6.1999, p. 103).\n\n> ([^26^](http://publications.europa.eu/resource/cellar/edad199d-a7c9-4952-ae13-223cba6c095e.0010.03/DOC_1#src.E0024)) Regulamento (CEE) n.º 1600/92 do Conselho, de 15 de Junho de 1992, que estabelece medidas específicas relativas a determinados produtos agrícolas a favor dos arquipélagos dos Açores e da Madeira (JO L 173 de 27.6.1992, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2826/2000 (JO L 328 de 23.12.2000, p. 2)."
+  },
+  "00fdb234714ad208": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R1453 — PT — 15.02.2006 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R1453) [REGULAMENTO (CE) N.º 1453/2001 DO CONSELHO](http://publications.europa.eu/resource/celex/32001R1453) [de 28 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1453) [que estabelece medidas específicas relativas a determinados produtos agrícolas a favor dos Açores e da Madeira e revoga o Regulamento (CEE) n.º 1600/92 (Poseima)](http://publications.europa.eu/resource/celex/32001R1453) (JO L 198, 21.7.2001, p.26)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 247/2006 do Conselho de 30 de Janeiro de 2006](http://publications.europa.eu/resource/celex/32006R0247) — L 42 — 1 — 14.2.2006"
+  }
+ }
+}

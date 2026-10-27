@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0072:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0072-20020809",
+ "dre_path": null,
+ "source_lastmod": "2002-08-09",
+ "versions": [
+  {
+   "date": "1996-11-27",
+   "future": false,
+   "celex": "31996L0072",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3aafb935a808a11c",
+    "519d3bb1f0da682b",
+    "13ac6bbb18df8500",
+    "7e991f71afb2b969",
+    "bdf913f3c7407289",
+    "50ab4c74a3ebdac2"
+   ]
+  },
+  {
+   "date": "2002-08-09",
+   "future": false,
+   "celex": "01996L0072-20020809",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º"
+   ],
+   "fragments": [
+    "5235091aadb41650",
+    "6a2e8ce7ec5e7503",
+    "191918a2aa26940f",
+    "5a924cac137cabaa",
+    "648967540239fe62",
+    "9239ac88a795ea4a"
+   ]
+  }
+ ],
+ "fragments": {
+  "3aafb935a808a11c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/72/CE do Conselho de 18 de Novembro de 1996 que altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE e 70/458/CEE relativas à comercialização de sementes de beterraba, sementes de plantas forrageiras, sementes de cereais, batatas de semente, sementes de plantas oleaginosas e de fibras e sementes de produtos hortícolas** *Jornal Oficial nº L 304 de 27/11/1996 p. 0010 - 0011*\n\nDIRECTIVA 96/72/CE DO CONSELHO de 18 de Novembro de 1996 que altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE e 70/458/CEE relativas à comercialização de sementes de beterraba, sementes de plantas forrageiras, sementes de cereais, batatas de semente, sementes de plantas oleaginosas e de fibras e sementes de produtos hortícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo G do Tratado da União Europeia substitui o termo «Comunidade Económica Europeia» pelo termo «Comunidade Europeia»; que a abreviatura «CEE» deve, por conseguinte, ser substituída pela abreviatura «CE»;\n\nConsiderando que a abreviatura «CEE» surge em determinadas disposições das Directivas 66/400/CEE (4), 66/401/CEE (5), 66/402/CEE (6), 66/403/CEE (7), 69/208/CEE (8) e 70/458/CEE (9) relativas à comercilização de sementes de beterraba, sementes de plantas forrageiras, sementes de cereais, batatas de semente, sementes de plantas oleaginosas e de fibras e sementes de produtos hortícolas, nomeadamente no que diz respeito às embalagens e à rotulagem das sementes; que é, por conseguinte, adequado substituir a abreviatura «CEE» pela abreviatura «CE» nas referidas disposições;\n\nConsiderando que, no entanto, os rótulos são geralmente encomendados em grandes quantidades e com uma grande antecedência e que aqueles que contêm a abreviatura «CEE» devem, durante o período transitório, continuar a ser utilizados,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "519d3bb1f0da682b": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE e 70/458/CEE são alteradas do seguinte modo:\n\n1. Na Directiva 66/400/CEE, a abreviatura «CEE» é substituída pela abreviatura «CE» nos:\n\n- nº l ponto G, do artigo 2º,\n\n- nºs 1, 2 e 3 do artigo 10º,\n\n- nº 1 do artigo 11º,\n\n- nºs 1 e 2 do artigo 11º A,\n\n- artigo 11º B,\n\n- nº 1, segundo travessão, do artigo 14º,\n\n- nº 1 do ponto I da parte A e título e nº 1 da parte B do anexo III.\n\n2. Na Directiva 66/401/CEE, a abreviatura «CEE» é substituída pela abreviatura «CE» nos:\n\n- nº 1, alíneas F e G, do artigo 2º,\n\n- nºs 1, 2 e 3 artigo 9º,\n\n- nº 1 do artigo 10º,\n\n- nºs 1 e 2 do artigo 10º A,\n\n- artigo 10º B,\n\n- nº 3 do artigo 13º,\n\n- nº 1, terceiro travessão, do artigo 14º,\n\n- nº 1 da alínea a) do ponto I da parte A do anexo IV, e nº 1 da alínea b) do ponto I da parte A do anexo IV;\n\n- título da parte B do anexo IV, nº 1 da alínea a) da parte B do anexo IV, nº 1 da alínea b) da parte B do anexo IV e nºs 1, 3, 4, 5, 6 e 7 da alínea c) da parte B do anexo IV.\n\n3. Na Directiva 66/402/CEE, a abreviatura «CEE» no nº 1, alínea a), da parte A do anexo IV é substituída pela abreviatura «CE».\n\n4. Na Directiva 66/403/CEE, a abreviatura «CEE», no nº 1 da parte A do anexo III é substituída pela abreviatura «CE».\n\n5. Na Directiva 69/208/CEE, a abreviatura «CEE» no nº 1 da alínea a) da parte A do anexo IV e nº 1 da alínea b) da parte A do anexo IV é substituída pela abreviatura «CE».\n\n6. Na Directiva 70/458/CEE, a abreviatura «CEE» é substituída pela abreviatura «CE» nos:\n\n- nº 1 do artigo 25º,\n\n- nº 1 da alínea a) da parte A do anexo IV e nº 1 da alínea a) da parte B do anexo IV."
+  },
+  "13ac6bbb18df8500": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs restantes existências de rótulos com a abreviatura «CEE» podem continuar a ser utilizadas até 31 de Dezembro de 2001."
+  },
+  "7e991f71afb2b969": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão imediatamente à Comissão as disposições de direito nacional que adoptarem no domínio regido pela presente directiva. A Comissão informará deste facto os outros Estados-membros."
+  },
+  "bdf913f3c7407289": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "50ab4c74a3ebdac2": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 18 de Novembro de 1996.\n\nPelo Conselho\n\nO Presidente\n\nI. YATES\n\n(1) JO nº C 157 de 1. 6. 1996, p. 15.\n\n(2) JO nº C 166 de 10. 6. 1996, p. 243.\n\n(3) Parecer emitido em 25 de Setembro de 1996 (ainda não publicado no Jornal Oficial).\n\n(4) JO nº 125 de 11. 7. 1966, p. 2290/66. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(5) JO nº 125 de 11. 7. 1966, p. 2298/66. Directiva com a última redacção que lhe foi dada pela Directiva 96/18/CE da Comissão (JO nº L 76 de 26. 3. 1996, p. 21)\n\n(6) JO nº 125 de 11. 7. 1966, p. 2309/66. Directiva com a última redacção que lhe foi dada pela Directiva 95/6/CE da Comissão (JO nº L 67 de 25. 3. 1995, p. 30).\n\n(7) JO nº 125 de 11. 7. 1966, p. 2320/66. Directiva com a última redacção que lhe foi dada pela Decisão 96/16/CE da Comissão (JO nº L 6 de 9. 1. 1996, p. 19).\n\n(8) JO nº L 169 de 10. 7. 1969, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 96/18/CE da Comissão (JO nº L 76 de 26. 3. 1996, p. 21).\n\n(9) JO nº L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 96/18/CE da Comissão (JO nº L 76 de 26. 3. 1996, p. 21)."
+  },
+  "5235091aadb41650": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1996L0072 — PT — 09.08.2002 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0072:PT:NOT) [DIRECTIVA 96/72/CE DO CONSELHO de 18 de Novembro de 1996 que altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE e 70/458/CEE relativas à comercialização de sementes de beterraba, sementes de plantas forrageiras, sementes de cereais, batatas de semente, sementes de plantas oleaginosas e de fibras e sementes de produtos hortícolas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0072:PT:NOT) (JO L 304, 27.11.1996, p.10)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) | [Directiva 2002/54/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) | L 193 | 12 | 20.7.2002 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | [Directiva 2002/55/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | L 193 | 33 | 20.7.2002 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) | [Directiva 2002/56/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) | L 193 | 60 | 20.7.2002 |\n| [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | [Directiva 2002/57/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | L 193 | 74 | 20.7.2002 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0072:PT:NOT)\n\nDIRECTIVA 96/72/CE DO CONSELHO\n\nde 18 de Novembro de 1996\n\nque altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE e 70/458/CEE relativas à comercialização de sementes de beterraba, sementes de plantas forrageiras, sementes de cereais, batatas de semente, sementes de plantas oleaginosas e de fibras e sementes de produtos hortícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0003)),\n\nConsiderando que o artigo G do Tratado da União Europeia substitui o termo «Comunidade Económica Europeia» pelo termo «Comunidade Europeia»; que a abreviatura «CEE» deve, por conseguinte, ser substituída pela abreviatura «CE»;\n\nConsiderando que a abreviatura «CEE» surge em determinadas disposições das Directivas 66/400/CEE ([4](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0004)), 66/401/CEE ([5](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0005)), 66/402/CEE ([6](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0006)), 66/403/CEE ([7](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0007)), 69/208/CEE ([8](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0008)) e 70/458/CEE ([9](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#E0009)) relativas à comercilização de sementes de beterraba, sementes de plantas forrageiras, sementes de cereais, batatas de semente, sementes de plantas oleaginosas e de fibras e sementes de produtos hortícolas, nomeadamente no que diz respeito às embalagens e à rotulagem das sementes; que é, por conseguinte, adequado substituir a abreviatura «CEE» pela abreviatura «CE» nas referidas disposições;\n\nConsiderando que, no entanto, os rótulos são geralmente encomendados em grandes quantidades e com uma grande antecedência e que aqueles que contêm a abreviatura «CEE» devem, durante o período transitório, continuar a ser utilizados,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6a2e8ce7ec5e7503": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE e 70/458/CEE são alteradas do seguinte modo:\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0072:PT:NOT)\n\n2. Na Directiva 66/401/CEE, a abreviatura «CEE» é substituída pela abreviatura «CE» nos:\n\n— n.o 1, alíneas F e G, do artigo 2.o,\n\n— n.os 1, 2 e 3 artigo 9.o,\n\n— n.o 1 do artigo 10.o,\n\n— n.os 1 e 2 do artigo 10.o A,\n\n— artigo 10.o B,\n\n— n.o 3 do artigo 13.o,\n\n— n.o 1, terceiro travessão, do artigo 14.o,\n\n— n.o 1 da alínea a) do ponto I da parte A do anexo IV, e n.o 1 da alínea b) do ponto I da parte A do anexo IV;\n\n— título da parte B do anexo IV, n.o 1 da alínea a) da parte B do anexo IV, n.o 1 da alínea b) da parte B do anexo IV e n.os 1, 3, 4, 5, 6 e 7 da alínea c) da parte B do anexo IV.\n\n3. Na Directiva 66/402/CEE, a abreviatura «CEE» no n.o 1, alínea a), da parte A do anexo IV é substituída pela abreviatura «CE».\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) —————\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) —————\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0072:PT:NOT)"
+  },
+  "191918a2aa26940f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs restantes existências de rótulos com a abreviatura «CEE» podem continuar a serem utilizadas até 31 de Dezembro de 2001."
+  },
+  "5a924cac137cabaa": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão imediatamente à Comissão as disposições de direito nacional que adoptarem no domínio regido pela presente directiva. A Comissão informará deste facto os outros Estados-membros."
+  },
+  "648967540239fe62": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "9239ac88a795ea4a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0001)) JO n.o C 157 de 1. 6. 1996, p. 15.\n\n([2](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0002)) JO n.o C 166 de 10. 6. 1996, p. 243.\n\n([3](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0003)) Parecer emitido em 25 de Setembro de 1996 (ainda não publicado no Jornal Oficial).\n\n([4](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0004)) JO n.o 125 de 11. 7. 1966, p. 2290/66. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n([5](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0005)) JO n.o 125 de 11. 7. 1966, p. 2298/66. Directiva com a última redacção que lhe foi dada pela Directiva 96/18/CE da Comissão (JO n.o L 76 de 26. 3. 1996, p. 21)\n\n([6](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0006)) JO n.o 125 de 11. 7. 1966, p. 2309/66. Directiva com a última redacção que lhe foi dada pela Directiva 95/6/CE da Comissão (JO n.o L 67 de 25. 3. 1995, p. 30).\n\n([7](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0007)) JO n.o 125 de 11. 7. 1966, p. 2320/66. Directiva com a última redacção que lhe foi dada pela Decisão 96/16/CE da Comissão (JO n.o L 6 de 9. 1. 1996, p. 19).\n\n([8](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0008)) JO n.o L 169 de 10. 7. 1969, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 96/18/CE da Comissão (JO n.o L 76 de 26. 3. 1996, p. 21).\n\n([9](http://publications.europa.eu/resource/cellar/22cb19af-5677-4714-beee-d27347dd7d59.0018.02/DOC_1#src.E0009)) JO n.o L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 96/18/CE da Comissão (JO n.o L 76 de 26. 3. 1996, p. 21)."
+  }
+ }
+}

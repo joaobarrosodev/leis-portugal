@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224427486:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-224429864",
+ "dre_path": "/dr/detalhe/decreto-lei/104-2023-224427486",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224457575",
+    "224457576",
+    "224457577",
+    "224457578",
+    "224457579"
+   ]
+  }
+ ],
+ "fragments": {
+  "224457575": {
+   "fragment_id": "224429865",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 104/2023\n\nde 17 de novembro\n\nSumário: Altera o modelo de financiamento da tarifa social.\n\nA garantia de acesso por todos os consumidores ao serviço essencial de fornecimento de energia elétrica resultou na criação da tarifa social através do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, tendo os Decretos-Leis n.os 172/2014, de 14 de novembro, e 100/2020, de 26 de novembro, bem como as Leis n.os 7-A/2016, de 30 de março, e 24-D/2022, de 30 de dezembro, procedido ao alargamento do universo de beneficiários.\n\nO financiamento da tarifa social em Portugal tem sido suportado pelos titulares dos centros eletroprodutores do continente não abrangidos por regimes de remuneração garantida, bem como por titulares de aproveitamentos hidroelétricos com potência superior a 10 MVA.\n\nO Tribunal de Justiça da União Europeia tem reiterado que a intervenção estatal no preço da eletricidade deve prosseguir um objetivo de interesse económico geral e respeitar o princípio da proporcionalidade e que as obrigações de serviço público devem ser claramente definidas, transparentes, não discriminatórias e verificáveis, garantindo às empresas do setor da energia elétrica da União Europeia um acesso igual aos consumidores.\n\nNeste quadro, o presente decreto-lei adapta o regime de forma a garantir os mencionados objetivos, sem colocar em causa o acesso pelos consumidores economicamente vulneráveis ao serviço essencial de fornecimento de energia elétrica. Este novo modelo alarga o âmbito e o número de entidades que irão comparticipar a tarifa social da eletricidade, passando a abranger não só os produtores, mas também os comercializadores de energia elétrica e os demais agentes de mercado na função de consumo. Respeitam-se, assim, os princípios da não discriminação e da maior abrangência da cadeia de valor.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "224457576": {
+   "fragment_id": "224429866",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à terceira alteração ao Decreto-Lei n.º 15/2022, de 14 de janeiro, alterado pela Lei n.º 24-D/2022, de 30 de dezembro, e pelo Decreto-Lei n.º 11/2023, de 10 de fevereiro, que estabelece a organização e o funcionamento do Sistema Elétrico Nacional."
+  },
+  "224457577": {
+   "fragment_id": "224429867",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 15/2022, de 14 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 15/2022, de 14 de janeiro\n\nO artigo 199.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 199.º\n\nIncidência subjetiva da tarifa social\n\n1 - Os custos da tarifa social e o seu financiamento incidem sobre os titulares dos centros eletroprodutores, os comercializadores de energia elétrica e os demais agentes de mercado na função de consumo.\n\n2 - Para efeitos do disposto no número anterior, consideram-se demais agentes de mercado na função de consumo os consumidores e outros agentes que adquiram energia elétrica diretamente no mercado grossista, sem intermediação de comercializadores.\n\n3 - Os custos da tarifa social e o seu financiamento alocados ao conjunto dos titulares centros eletroprodutores elegíveis são suportados individualmente por cada centro eletroprodutor em função da potência de ligação, nos termos do artigo 199.º-B.\n\n4 - Os custos da tarifa social e o seu financiamento alocados ao conjunto dos comercializadores são suportados individualmente em função das quantidades anuais de energia ativa faturada, nos termos do artigo 199.º-B.\n\n5 - Os custos da tarifa social e o seu financiamento alocados ao conjunto dos demais agentes de mercado na função de consumo são suportados individualmente em função das quantidades anuais de energia ativa adquirida, nos termos do artigo 199.º-B.\n\n6 - Para efeitos do disposto nos n.os 4 e 5, não são consideradas as quantidades de energia faturadas por comercializadores que a montante adquiram energia a outro comercializador, de modo a evitar uma dupla contabilização na repartição do financiamento da tarifa social.\n\n7 - Compete à ERSE garantir a operacionalização do financiamento da tarifa social.»"
+  },
+  "224457578": {
+   "fragment_id": "224429868",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 15/2022, de 14 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 15/2022, de 14 de janeiro\n\nSão aditados ao Decreto-Lei n.º 15/2022, de 14 de janeiro, na sua redação atual, os artigos 199.º-A a 199.º-E, com a seguinte redação:\n\n«Artigo 199.º-A\n\nIsenções ao financiamento da tarifa social\n\n1 - Para efeitos da determinação dos custos da tarifa social e do seu financiamento alocados ao conjunto dos titulares dos centros eletroprodutores, não são consideradas as quantidades injetadas pelos seguintes produtores:\n\na) Os titulares de centros eletroprodutores com fonte de energia primária renovável, não hídrica, que, até 31 de dezembro de 2023:\n\ni) Beneficiem de regimes de remuneração garantida;\n\nii) Beneficiem de regimes bonificados de apoio à remuneração; ou\n\niii) Paguem contribuições ao SEN como contrapartida da obtenção de título de reserva de capacidade atribuído na modalidade de procedimento concorrencial;\n\nb) Os titulares de aproveitamentos hidroelétricos ou de centros eletroprodutores com fonte de energia primária renovável com potência de ligação, fixada no procedimento de controlo prévio, igual ou inferior a 10 MVA;\n\nc) Os titulares de instalações de armazenamento, com recurso a baterias, para injeção a montante na rede, nos termos da regulamentação a aprovar pela ERSE;\n\nd) Os titulares de instalações de produção de eletricidade em regime de cogeração.\n\n2 - A isenção prevista na alínea a) do número anterior cessa quando deixarem de se verificar as condições previstas nas respetivas subalíneas.\n\nArtigo 199.º-B\n\nFórmula de determinação do financiamento da tarifa social\n\n1 - O cálculo do montante das contribuições para o financiamento da tarifa social é efetuado em função da proporção da energia da RESP utilizada:\n\na) Pelos titulares dos centros eletroprodutores;\n\nb) Pelos comercializadores e demais agentes de mercado na função de consumo.\n\n2 - Para efeitos do disposto no número anterior:\n\na) A proporção da energia da RESP utilizada pelos titulares dos centros eletroprodutores corresponde à quantidade de energia injetada pelos produtores, que seja medida pelos operadores de rede no ponto de ligação das instalações dos titulares dos centros eletroprodutores à RESP;\n\nb) A proporção da energia da RESP utilizada pelos comercializadores e demais agentes de mercado corresponde, respetivamente, às quantidades faturadas pelos comercializadores e às quantidades adquiridas pelos demais agentes de mercado na função de consumo, que sejam medidas nos pontos de entrega do consumo.\n\n3 - O montante resultante do disposto na alínea a) do número anterior é proporcionalmente alocado aos titulares dos centros eletroprodutores em função da potência de ligação, deduzida de 10 MVA, e do período para o qual o centro disponha de licença de exploração, sempre que este período não corresponda à totalidade do período anual.\n\n4 - O montante resultante do disposto na alínea b) do n.º 2 é proporcionalmente alocado aos comercializadores e demais agentes de mercado em função, respetivamente, da proporção da energia ativa que cada um faturou ou da proporção da energia ativa que cada um adquiriu.\n\nArtigo 199.º-C\n\nDeveres de reporte\n\n1 - As entidades financiadoras da tarifa social, nos termos do artigo 199.º, e os operadores de rede reportam mensalmente os valores relativos à incidência ao gestor global do SEN, que, sempre que solicitado, envia dados anuais consolidados à ERSE até ao dia 30 de abril do ano seguinte a que respeitam.\n\n2 - Em caso de incumprimento dos deveres de reporte, de inconsistências nos dados recebidos ou para efeitos previsionais, a ERSE efetua uma estimativa das quantidades de energia faturada, de acordo com a informação disponível, sem prejuízo da sua ulterior correção e liquidação definitivas.\n\n3 - O incumprimento do dever de reporte ao gestor global do SEN ou à ERSE previsto no presente artigo constitui contraordenação punível nos termos da alínea j) do n.º 3 do artigo 28.º da Lei n.º 9/2013, de 28 de janeiro.\n\nArtigo 199.º-D\n\nApuramento do financiamento\n\n1 - A ERSE, com base na informação de que disponha, efetua uma estimativa anual dos valores de financiamento da tarifa social devidos:\n\na) Pelos titulares dos centros eletroprodutores;\n\nb) Pelo conjunto dos comercializadores e dos demais agentes de mercado na função do consumo.\n\n2 - Os valores de financiamento da tarifa social são apurados em definitivo pela ERSE no ano seguinte ao da sua estimativa, com base em valores reais e auditados, sendo a diferença entre a estimativa efetuada no ano anterior e o valor definitivo considerada no processo de cálculo do financiamento da tarifa social.\n\n3 - O apuramento da liquidação da tarifa social, incluindo o valor dos acertos e ajustes relativos a anos anteriores, é submetido pela ERSE a consulta pública, através de publicação no seu sítio na Internet, pelo prazo de 30 dias corridos.\n\nArtigo 199.º-E\n\nCobrança\n\n1 - Os custos com a tarifa social são devidos ao gestor global do SEN, que promove a sua cobrança por todos os meios ao seu dispor, incluindo judiciais e compensação de créditos.\n\n2 - Enquanto não forem pagos pelos respetivos agentes, os custos com o financiamento da tarifa social são provisoriamente suportados pelo operador da RND.»"
+  },
+  "224457579": {
+   "fragment_id": "224429869",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:310413:por
+title: Decreto-Lei n.º 129/83
+short_title: null
+summary: Integra na DGPE a Central de Compras do Estado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 129/83
+official_date: null
+publication_date: '1983-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/1983, Série I de 1983-03-14
+  number: '60'
+  series: I
+  supplement: null
+  pages: 894 - 896
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06000/08940896.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310413'
+  dre_path: /dr/detalhe/decreto-lei/129-1983-310413
+  internal: pt:dre:310413:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1983-310413
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1983-310413
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f64e0938b9827ba740e468a5ac9299938c8b43ffbb05f24cb631f30a506b52fa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Central de Compras do Estado
+- Comissão Interministerial de Planeamento das Aquisições Estatais
+- Definição de Competências
+- Direcção Geral do Património do Estado
+- Gestão do Património
+- Orgânica
+- Transferência de Serviços
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:49:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129/83
+
+de 14 de Março
+
+Considerações de racionalização administrativa levaram o Governo a concluir pela conveniência de alargar as atribuições e competência da Direcção-Geral do Património do Estado, de modo a melhor corresponder às modernas necessidades de gestão do património público, nela concentrando uma coordenação especializada que assegure, nos aspectos normativos e executivos, o funcionamento de um novo sistema de aquisição de bens para o Estado, bem como o controle dos bens destinados à generalidade do sector público estadual.
+
+Incumbindo-lhe também a organização do inventário e a alienação dos bens que se tornem desnecessários, é assim possível exercer uma acção coordenada visando uma política económica e financeira global e sectorialmente definida.
+
+Por isso, e considerando também que os resultados obtidos na área de aprovisionamento público pela Central de Compras do Estado, criada pelo [Decreto-Lei n.º 507/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1979-393867), de 24 de Dezembro, e a funcionar em regime de instalação, apontam para a necessidade de se continuar o esforço no sentido da implantação de um sistema racional de aquisições no âmbito daquela Direcção-Geral:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, passam a ter a seguinte redacção:
+
+Artigo 1.º A Direcção-Geral do Património do Estado, abreviadamente designada por DGPE, é o departamento do Ministério das Finanças e do Plano que tem como objectivo global realizar a implementação de um sistema integrado de gestão patrimonial, o qual se concretiza nas áreas de aquisição, administração e alienação dos bens do Estado em geral, bem como na intervenção em operações patrimoniais do sector público e estadual nos termos em que a lei definir.
+
+Art. 2.º - 1 - São atribuições da DGPE na área das aquisições:
+
+a) Racionalizar e minimizar os custos das aquisições públicas;
+
+b) Assegurar a compatibilização e inserção das aquisições na política económica e financeira, global e sectorialmente definidas;
+
+c) Adquirir e tomar de arrendamento os bens imóveis destinados à instalação dos serviços públicos;
+
+d) Promover a melhoria do aprovisionamento dos produtos e serviços adquiridos;
+
+e) Assegurar, especialmente na perspectiva do Tratado de Roma e do direito comunitário daí decorrente, a adopção dos méritos e técnicas de celebração de contratos administrativos de aquisição de bens e serviços;
+
+f) Assegurar a cooperação com os organismos congéneres de outros países, bem como a ligação com as instâncias internacionais da área das aquisições públicas.
+
+2 - São atribuições da DGPE na área de administração e alienação:
+
+a) Organizar o cadastro e o inventário dos bens do património do Estado;
+
+b) Administrar e alienar os bens do património do Estado;
+
+c) Coordenar e supervisionar a gestão patrimonial do sector público estadual, nos termos em que a lei definir;
+
+d) Organizar, racionalizar e gerir o parque automóvel do Estado.
+
+Art. 3.º - 1 ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Direcção de Serviços do Aprovisionamento Público;
+
+f) Serviços delegados;
+
+g) Serviços regionais.
+
+2 - ...
+
+Art. 2.º É aditado ao [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, o seguinte preceito:
+
+Art. 8.º-A. Compete à Direcção de Serviços do Aprovisionamento Público:
+
+a) Propor os contratos a estabelecer com os fornecedores, nos quais são fixadas as condições de aprovisionamento de bens e serviços de consumo corrente a efectuar pelos serviços públicos;
+
+b) Propor, em colaboração com as entidades competentes, as regras técnicas de garantia de qualidade dos produtos;
+
+c) Estudar e propor a aplicação das técnicas de aquisição que assegurem a compatibilização entre as aquisições públicas e as orientações de índole económico-financeira superiormente definidas;
+
+d) Promover o agrupamento de encomendas com base nos programas de aprovisionamento fornecidos pelos serviços;
+
+e) Solicitar aos fornecedores, sempre que necessário, a entrega de amostras para, em colaboração com as entidades competentes, proceder à análise e controle qualitativo dos produtos;
+
+f) Promover a elaboração das estatísticas dos contratos administrativos de aquisição de bens de consumo corrente e de prestação de serviços;
+
+g) Elaborar, seleccionar, recolher e difundir documentação com interesse para a melhoria do aprovisionamento público;
+
+h) Apoiar os serviços ou comissões de aprovisionamento específico;
+
+i) Colaborar na formação de técnicos de aprovisionamento.
+
+Art. 3.º - 1 - Junto da Direcção-Geral do Património do Estado funciona, como órgão consultivo, a Comissão Interministerial de Planeamento das Aquisições Estatais, abreviadamente designada por CIPAE, cuja presidência é assegurada pelo respectivo director-geral ou por quem este designar.
+
+2 - A CIPAE é constituída pelos secretários-gerais de todos os departamentos ministeriais, directores-gerais do Tribunal de Contas, da Contabilidade Pública e da Organização Administrativa e por representantes de quaisquer outros serviços ou organismos cuja designação o Ministro de Estado e das Finanças e do Plano entenda conveniente integrar na Comissão.
+
+Art. 4.º Compete à CIPAE:
+
+a) Pronunciar-se sobre as linhas gerais da política de aquisições públicas;
+
+b) Pronunciar-se sobre o aperfeiçoamento do quadro geral e regulamentar vigente;
+
+c) Pronunciar-se sobre o estabelecimento de padrões e níveis de consumo adequados às diferentes unidades;
+
+d) Assegurar a ligação entre, a DGPE e os departamentos ministeriais no que se refere à recolha e divulgação dos elementos necessários ao funcionamento do sistema de aquisições públicas;
+
+e) Promover a permuta de informação entre os serviços utilizadores e cada departamento ministerial por forma a melhorar as condições de processamento das aquisições.
+
+Art. 5.º - 1 - A Central de Compras do Estado, criada pelo [Decreto-Lei n.º 507/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1979-393867), de 24 de Dezembro, passa a constituir a área funcional de aquisições da DGPE.
+
+2 - Transita para o Estado, através da DGPE, todo o património, direitos e obrigações da Central de Compras do Estado, bem como a posição que esta detiver relativamente a quaisquer contratos, à data da sua integração.
+
+3 - Nos actos e contratos a celebrar no âmbito das atribuições da DGPE outorgará, em representação do Estado, o respectivo director-geral ou funcionário por ele designado.
+
+4 - São transferidas para a DGPE todas as dotações orçamentais destinadas à Central de Compras do Estado para o ano de 1983.
+
+Art. 6.º - 1 - Mantém-se em vigor a [Portaria n.º 717/81](https://diariodarepublica.pt/dr/detalhe/portaria/717-1981-575923), de 22 de Agosto.
+
+2 - As condições de aprovisionamento negociadas pelo Estado, através da DGPE, serão homologadas por portaria do Ministro de Estado e das Finanças e do Plano, a qual definirá o âmbito geográfico da sua aplicação.
+
+3 - As condições de aprovisionamento homologadas vinculam as entidades referidas no artigo seguinte, desde que a portaria de homologação expressamente o não exclua.
+
+4 - As regiões autónomas, as autarquias locais, os serviços que funcionem fora do território nacional e as empresas públicas, embora não vinculados, poderão, se assim o entenderem, efectuar as suas aquisições dentro das condições de aprovisionamento negociadas pelo Estado.
+
+Art. 7.º O presente diploma aplica-se a toda a aquisição de bens ou serviços de tipo comum, incluindo o aluguer, a reparação e a conservação ou transformação de bens, de que careçam para o desenvolvimento das suas actividades:
+
+a) As entidades cujo funcionamento é assegurado, total ou parcialmente, por verbas inscritas no Orçamento do Estado;
+
+b) Os serviços e fundos autónomos.
+
+Art. 8.º - 1 - Para efeitos da alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, a definição das especificações dos produtos e os factores de qualificação dos fornecedores deverão ser submetidos a parecer da Direcção-Geral da Indústria, a qual deverá participar na sua elaboração sempre que se considere conveniente.
+
+2 - O parecer da Direcção-Geral da Indústria será considerado favorável se não for proferido no prazo de 15 dias a contar da data do registo de entrada.
+
+Art. 9.º A DGPE, na área das aquisições, manterá estreita articulação com a Direcção-Geral da Contabilidade Pública, tendo em vista:
+
+a) Assegurar a subordinação da política de aquisições à política de economicidade das despesas, facultando toda a informação estatística necessária à definição dessa política e à melhor eficácia da política orçamental;
+
+b) Permitir à Direcção-Geral da Contabilidade Pública a melhor formulação da sua actividade em matéria de fiscalização e auditoria;
+
+c) Permitir à Direcção-Geral da Contabilidade Pública efectuar o controle jurídico da despesa de acordo com as regras de aquisição a emitir pela DGPE através da Central de Compras do Estado.
+
+Art. 10.º Os contratos celebrados pelo Estado, através da DGPE, na área das aquisições públicas e homologados nos termos do n.º 2 do artigo 6.º do presente diploma dispensam as entidades referidas nas alíneas a) e b) do artigo 7.º das formalidades de concurso e ajuste directo previstos nos artigos 4.º a 7.º, incluído, do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 11 de Julho.
+
+Art. 11.º As alterações ao quadro de pessoal da DGPE, aprovado pelo [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, e decorrentes da integração do pessoal da Central de Compras do Estado, constarão de decreto regulamentar.
+
+Art. 12.º - 1 - Atendendo à circunstância de a Central de Compras do Estado se encontrar em regime de instalação desde Dezembro de 1979, o pessoal que lhe esteja afecto, incluindo o oriundo do quadro geral de adidos, em regime de requisição, comissão de serviço e contrato, poderá transitar para o quadro orgânico da DGPE, com observância dos requisitos habilitacionais legalmente estabelecidos, para lugar no quadro de categoria equivalente à que o funcionário ou agente já possui ou para categoria que integre as funções que o funcionário ou agente desempenha, remunerada pela mesma letra de vencimento.
+
+2 - O provimento no quadro poderá efectuar-se mediante diploma de provimento ou lista nominativa, nos termos da lei geral.
+
+3 - O presente diploma entrará em vigor no dia da publicação do decreto regulamentar previsto no artigo 10.º, mantendo-se até essa data em funções a comissão instaladora.
+
+Art. 13.º É revogado o [Decreto-Lei n.º 507/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1979-393867), de 24 de Dezembro.
+
+Art. 14.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a adoptar as providências necessárias à boa execução do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
+
+Promulgado em 16 de Fevereiro de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 23 de Fevereiro de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

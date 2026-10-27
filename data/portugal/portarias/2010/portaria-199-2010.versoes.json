@@ -1,0 +1,275 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:613465:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-70888894",
+ "dre_path": "/dr/detalhe/portaria/199-2010-613465",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70876335",
+    "70876336",
+    "70876337",
+    "70876338",
+    "70876339",
+    "70876340",
+    "70876341",
+    "70876342",
+    "70876343",
+    "70876344",
+    "70876345",
+    "70876346",
+    "70876347",
+    "70876348",
+    "70876349",
+    "70876350",
+    "70876351",
+    "70876352",
+    "70876353",
+    "70876354",
+    "70876355",
+    "70876356"
+   ]
+  },
+  {
+   "date": "2015-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70423677:por",
+     "title": "Portaria n.º 323/2015",
+     "published": "2015-10-01",
+     "dre_path": "/dr/detalhe/portaria/323-2015-70423677"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "70876335",
+    "70876336",
+    "70876337",
+    "70876338",
+    "70876339",
+    "70876340",
+    "70876341",
+    "70876342",
+    "70876343",
+    "70876344",
+    "70876345",
+    "70876346",
+    "70876347",
+    "70876348",
+    "70876349",
+    "70876350",
+    "70876351",
+    "70876352",
+    "70876353",
+    "70876357",
+    "70876354",
+    "70876365",
+    "70876356"
+   ]
+  }
+ ],
+ "fragments": {
+  "70876335": {
+   "fragment_id": "70888895",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 199/2010\n\nde 14 de Abril\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de Outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de Maio, estabelece a organização comum do mercado vitivinícola e prevê, nomeadamente no artigo 118.º-Z, que algumas indicações de carácter facultativo, tais como o ano de colheita e a indicação das castas de uvas, possam ser admitidas na rotulagem de produtos do sector vitivinícola sem denominação de origem ou indicação geográfica.\n\nA rotulagem dos produtos do sector vitivinícola constitui uma importante fonte de informação aos consumidores, fornecendo elementos que contribuem para a selecção entre os vários produtos colocados no mercado.\n\nEsta informação pode proporcionar aos operadores um maior leque de opções para a colocação de produtos no mercado, quer através de indicações obrigatórias previstas na regulamentação quer através de indicações facultativas, como o ano de colheita e as castas de uvas, contribuindo assim para um melhor conhecimento sobre os produtos por parte dos consumidores.\n\nPelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0607\" title=\"Link para Regulamento da Comunidade Europeia\">607/2009</a>, da Comissão, de 14 de Julho, foram adoptadas disposições comuns relativas à aprovação e controlo daquelas indicações, aplicáveis aos produtos produzidos a partir da campanha de 2009-2010.\n\nNeste contexto e de forma a assegurar a veracidade daquelas indicações, bem como evitar o risco de confusão dos consumidores, importa estabelecer as normas complementares relativas à indicação do ano de colheita, das castas de uvas, ou ambas, na rotulagem dos produtos vitivinícolas, a utilizar, de forma homogénea, ao nível do território nacional continental, devendo, para o efeito, nos termos da alínea a) do n.º 2 do artigo 118.º-Z do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de Outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de Maio, o Estado membro introduzir as disposições legislativas, regulamentares ou administrativas.\n\nDe forma a assegurar a aplicação de um modelo de rastreabilidade dos produtos, a informação correspondente deve ser centralizada numa plataforma informática integrada no Sistema de Informação da Vinha e do Vinho.\n\nAssim:\n\nAo abrigo do disposto na alínea a) do n.º 2 do artigo 118.º-Z do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de Outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de Maio, na alínea b) do artigo 2.º do Decreto-Lei n.º 209/2006, de 27 de Outubro, e no artigo 18.º do Decreto-Lei n.º 311/2009, de 11 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "70876336": {
+   "fragment_id": "70888896",
+   "type": 1,
+   "heading": "Capítulo I — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto"
+  },
+  "70876337": {
+   "fragment_id": "70888897",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria estabelece as normas complementares referentes à indicação do ano de colheita e ou das castas de uvas na rotulagem dos produtos do sector vitivinícola sem denominação de origem ou indicação geográfica constantes no anexo i da presente portaria, produzidos a partir de uvas colhidas no território nacional continental.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, as normas complementares de execução são estabelecidas pelos respectivos órgãos de governo próprio."
+  },
+  "70876338": {
+   "fragment_id": "70888898",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições e requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições e requisitos específicos\n\n1 - Para efeitos da presente portaria, entende-se por:\n\na) «Produtor» a pessoa singular ou colectiva que regista na declaração de colheita e produção a obtenção de produtos aos quais associa a indicação do ano de colheita e ou das castas de uvas;\n\nb) «Operador económico» a pessoa singular ou colectiva que comercializa lotes de produtos a granel e ou acondicionados e rotulados, com a indicação do ano de colheita e ou das castas de uvas, e que pode ser também, cumulativamente, «produtor»;\n\nc) «Organismo de controlo» a entidade designada pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas para efectuar a aprovação e controlo físico de lotes;\n\nd) «Aprovação de lotes» o procedimento efectuado pelo organismo de controlo com o objectivo de gerar uma evidência administrativa que assegure a veracidade da informação relativa ao ano de colheita e ou das castas de uvas constantes da rotulagem dos produtos vínicos sem denominação de origem protegida ou indicação geográfica protegida;\n\ne) «Controlo físico de lotes» o procedimento efectuado pelo «organismo de controlo» com o objectivo de verificar in loco os elementos necessários à aprovação de lotes;\n\nf) «Lote» o volume homogéneo de um produto ao qual o «operador económico» associa a indicação do ano de colheita e ou das castas de uvas;\n\ng) «Lote aprovado» o volume homogéneo de um produto, ao qual um «organismo de controlo» reconhece conformidade para utilizar, na rotulagem, a indicação do ano de colheita e ou das castas de uvas, mediante um processo de aprovação e, se for caso disso, de controlo físico.\n\n2 - O produtor apenas pode incluir na declaração de colheita e produção a obtenção de produtos com a indicação de castas de uvas desde que as mesmas constem no Registo Central Vitícola associadas à parcela de onde as uvas são originárias.\n\n3 - O operador económico que pretender introduzir no consumo um lote de produto acondicionado e com rotulagem onde conste a indicação do ano de colheita e ou das castas de uvas é obrigado a demonstrar a rastreabilidade do mesmo a um organismo de controlo, que procede à aprovação do lote de produto em causa.\n\n4 - Somente os lotes aprovados por um organismo de controlo podem ser introduzidos no consumo, sendo aceite, todavia, que um lote que ainda não foi aprovado possa ser transaccionado entre operadores económicos, desde que a rastreabilidade referida no número anterior seja assegurada.\n\n5 - Os elementos necessários à rastreabilidade são registados e actualizados pelos operadores económicos."
+  },
+  "70876339": {
+   "fragment_id": "70888899",
+   "type": 1,
+   "heading": "Capítulo II — Indicação do ano de colheita e das castas de uvas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Indicação do ano de colheita e das castas de uvas"
+  },
+  "70876340": {
+   "fragment_id": "70888900",
+   "type": 11,
+   "heading": "Artigo 3.º — Indicação do ano de colheita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Indicação do ano de colheita\n\n1 - A rotulagem dos produtos a que se refere o artigo 1.º pode incluir a indicação do ano de colheita das uvas utilizadas na sua produção desde que pelo menos 85 % do volume do produto sejam provenientes de uvas colhidas no ano em causa.\n\n2 - No caso de uvas colhidas em Janeiro ou Fevereiro, o ano de colheita a considerar é o ano de calendário anterior."
+  },
+  "70876341": {
+   "fragment_id": "70888901",
+   "type": 11,
+   "heading": "Artigo 4.º — Indicação de castas de uva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Indicação de castas de uva\n\n1 - A rotulagem dos produtos a que se refere o artigo 1.º pode incluir a indicação da casta, ou das castas, de uvas utilizadas na sua produção.\n\n2 - A indicação de apenas uma casta obriga a que pelo menos 85 % do volume do produto sejam provenientes dessa casta.\n\n3 - A indicação de duas ou mais castas obriga a que 100 % do volume do produto sejam provenientes das castas em causa, as quais passam a constar expressamente na rotulagem em caracteres de igual dimensão e por ordem decrescente da sua proporção.\n\n4 - Sem prejuízo do número anterior, no caso de quatro ou mais castas, é aceite que as indicações relativas às mesmas constem em dois campos visuais diferentes desde que, num deles, estejam indicadas aquelas que representam, pelo menos, 85 % do volume do produto.\n\n5 - As castas, ou os seus sinónimos, que podem ser indicadas na rotulagem, são as constantes na lista nacional de classificação de castas de uvas de vinho, com excepção das referidas no anexo ii da presente portaria."
+  },
+  "70876342": {
+   "fragment_id": "70888902",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições complementares\n\nAs percentagens referidas nos n.os 1 do artigo 3.º e 2 e 3 do artigo 4.º não incluem os volumes adicionados a título de operações de edulcoração ou de adição de «licor de expedição» ou de «licor de tiragem» ou, no caso de vinhos licorosos, de adição de mostos, álcoois ou destilados."
+  },
+  "70876343": {
+   "fragment_id": "70888903",
+   "type": 1,
+   "heading": "Capítulo III — Rastreabilidade, aprovação e controlo físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Rastreabilidade, aprovação e controlo físico"
+  },
+  "70876344": {
+   "fragment_id": "70888904",
+   "type": 11,
+   "heading": "Artigo 6.º — Rastreabilidade dos lotes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rastreabilidade dos lotes\n\n1 - Os operadores económicos referidos na alínea b) do n.º 1 do artigo 2.º devem requerer, em cada campanha vitivinícola, a sua aprovação ao Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), nos moldes previstos por este organismo.\n\n2 - Para efeitos da rastreabilidade dos lotes constituídos pelos operadores económicos, os mesmos devem efectuar um registo do lote e posteriormente as necessárias actualizações, em módulo específico do Sistema de Informação da Vinha e do Vinho (SIvv) estabelecido pelo IVV, I. P.\n\n3 - A rastreabilidade, no caso de produtos com indicação das castas de uvas, deve permitir identificar as parcelas de vinha de onde são originárias as uvas utilizadas.\n\n4 - Quando um lote for constituído, total ou parcialmente, por produtos aptos a utilizar uma denominação de origem protegida ou indicação geográfica protegida, os volumes em causa devem ser confirmados pela respectiva entidade certificadora.\n\n5 - A inclusão num dado lote dos produtos referidos no número anterior é reconhecida como um pedido de alteração à sua classificação, apresentado pelo operador económico à correspondente entidade certificadora."
+  },
+  "70876345": {
+   "fragment_id": "70888905",
+   "type": 11,
+   "heading": "Artigo 7.º — Aprovação dos lotes e controlo físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aprovação dos lotes e controlo físico\n\n1 - Cada lote constituído pelo operador económico deve ser submetido à aprovação de um organismo de controlo antes de ser acondicionado, rotulado e introduzido no consumo com a indicação do ano de colheita e ou das castas de uvas.\n\n2 - O pedido de aprovação é apresentado pelo operador económico a um organismo de controlo por ele escolhido e é efectuado de forma electrónica através do módulo do SIvv a que se refere o n.º 2 do artigo 6.º\n\n3 - O organismo de controlo escolhido nos termos do número anterior efectua uma verificação administrativa e, se for caso disso, um controlo físico visando a confirmação da indicação do ano de colheita e ou das castas de uvas que o operador económico associou ao lote."
+  },
+  "70876346": {
+   "fragment_id": "70888906",
+   "type": 11,
+   "heading": "Artigo 8.º — Custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Custos\n\n1 - Os custos inerentes aos procedimentos efectuados pelo organismo de controlo, a título do n.º 3 do artigo 7.º, são suportados pelo operador económico que apresentar o pedido a que se refere o n.º 2 do mencionado artigo e cuja liquidação se torna exigível com a apresentação do mesmo.\n\n2 - Quando no decurso de tais procedimentos for verificado que, por motivos imputáveis ao operador económico, os diversos elementos necessários à rastreabilidade não traduzem com realidade e regularidade os movimentos do produto em causa, o custo é aumentado em 25 %.\n\n3 - A liquidação do custo referido no n.º 1 é paga ao organismo de controlo, no prazo por ele estabelecido, independentemente da decisão tomada."
+  },
+  "70876347": {
+   "fragment_id": "70888907",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimentos e especificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimentos e especificações\n\nOs procedimentos e especificações referentes aos artigos 6.º e 7.º são aplicáveis aos operadores económicos e aos organismos de controlo, que devem obedecer a um manual a estabelecer pelo IVV, I. P., de acordo com as orientações previstas no anexo iii da presente portaria."
+  },
+  "70876348": {
+   "fragment_id": "70888908",
+   "type": 1,
+   "heading": "Capítulo IV — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Entidades competentes"
+  },
+  "70876349": {
+   "fragment_id": "70888909",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências\n\nPara aplicação das regras previstas na presente portaria são competentes as seguintes entidades:\n\na) Instituto da Vinha e do Vinho, I. P. (IVV, I. P.);\n\nb) Os organismos a que se refere o artigo 11.º"
+  },
+  "70876350": {
+   "fragment_id": "70888910",
+   "type": 11,
+   "heading": "Artigo 11.º — Organismos de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organismos de controlo\n\n1 - As competências de aprovação do lotes e controlo físico são conferidas:\n\na) Ao Instituto dos Vinhos do Douro e do Porto, I. P. (IVDP, I. P.), nos termos da alínea a) do n.º 2 do artigo 63.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0607\" title=\"Link para Regulamento da Comunidade Europeia\">607/2009</a>, da Comissão, de 14 de Julho; e\n\nb) Às entidades certificadoras designadas ao abrigo do n.º 1 do artigo 10.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, nos termos da alínea b) do n.º 2 do artigo 63.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0607\" title=\"Link para Regulamento da Comunidade Europeia\">607/2009</a>, da Comissão, de 14 de Julho, que demonstrem possuir um certificado de acreditação no âmbito da norma NP EN 45011 emitido pelo Instituto Português de Acreditação, I. P., ou, em alternativa e durante o prazo de um ano a contar da data de entrada em vigor da presente portaria, que possuam um comprovativo, emitido por aquele Instituto, de terem apresentado uma candidatura completa e adequada no âmbito da norma NP EN 45011, com vista ao cumprimento do manual a que se refere o artigo 9.º\n\n2 - Por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas podem ser designados outros organismos que evidenciem o cumprimento do requisito constante na alínea b) do número anterior."
+  },
+  "70876351": {
+   "fragment_id": "70888911",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do IVV, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do IVV, I. P.\n\nCompete ao IVV, I. P.:\n\na) Exercer as funções de autoridade competente central, nos termos e para efeitos do disposto no artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0882\" title=\"Link para Regulamento da Comunidade Europeia\">882/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril;\n\nb) Divulgar através da página electrónica com o endereço www.ivv.min-agricultura.pt o manual a que se refere o artigo 9.º, a lista actualizada dos organismos de controlo a que se refere o artigo 11.º e os custos de aprovação por eles praticados, bem como a lista dos operadores aprovados de acordo com o n.º 1 do artigo 6.º;\n\nc) Divulgar anualmente os dados relativos à aprovação e controlo;\n\nd) Promover a inspecção das actividades dos organismos referidos no artigo 11.º"
+  },
+  "70876352": {
+   "fragment_id": "70888912",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências dos organismos de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências dos organismos de controlo\n\nCompete aos organismos de controlo:\n\na) Aplicar os procedimentos e especificações previstos no manual referido no artigo 9.º;\n\nb) Estabelecer os custos referidos no artigo 8.º, que devem ser fixados, no caso do IVDP, I. P., após audição do conselho interprofissional a que se refere o artigo 6.º do Decreto-Lei n.º 47/2007, de 27 Fevereiro, e, no caso das entidades certificadoras, pelo conselho geral previsto no artigo 15.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, e comunicar os mesmos ao IVV, I. P., previamente à sua aplicação;\n\nc) Exercer as funções atribuídas, em cooperação eficiente e eficaz entre os diferentes organismos."
+  },
+  "70876353": {
+   "fragment_id": "70888913",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70876354": {
+   "fragment_id": "70888914",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 1.º)\n\nCategorias de produtos que podem utilizar a indicação do ano de colheita e ou das castas de uvas na rotulagem:\n\na) Vinho;\n\nb) Vinho novo ainda em fermentação;\n\nc) Vinho licoroso;\n\nd) Vinho espumante;\n\ne) Vinho espumante de qualidade;\n\nf) Vinho espumante de qualidade aromático;\n\ng) Vinho espumante gaseificado;\n\nh) Vinho frisante;\n\ni) Vinho frisante gaseificado;\n\nj) Vinho proveniente de uvas passas;\n\nk) Vinho de uvas sobreamadurecidas;\n\nl) Mosto de uvas;\n\nm) Mosto de uvas parcialmente fermentado;\n\nn) Mosto de uvas concentrado."
+  },
+  "70876355": {
+   "fragment_id": "70888915",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 5 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 5 do artigo 4.º)\n\nCastas de uvas que não podem ser mencionadas na rotulagem dos produtos a que se refere o n.º 1 do artigo 1.º\n\n(ver documento original)"
+  },
+  "70876356": {
+   "fragment_id": "70888916",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 9.º)\n\n1 - A aprovação de operadores económicos a que se refere o n.º 1 do artigo 6.º deve ser baseada nos dados relativos à inscrição requerida para o desempenho de actividade económica no sector vitivinícola, de acordo com o previsto no Decreto-Lei n.º 178/99, de 21 de Maio, devendo o IVV, I. P., emitir um documento comprovativo da aprovação.\n\n1.1 - Quando se verifique que o operador económico aprovado não cumpre com as obrigações previstas, nomeadamente no que respeita à rastreabilidade dos produtos e à correcta indicação do ano de colheita e ou das castas de uvas na rotulagem, a sua aprovação pode ser suspensa pelo IVV, I. P., durante um determinado período de tempo, nunca inferior a três meses e nunca superior a um ano.\n\n2 - O registo de lote e respectivas actualizações, referidos no n.º 2 do artigo 6.º, deve considerar, pelo menos, a inclusão de dados referentes a:\n\nIdentificação do operador económico;\n\nEndereço da instalação onde os produtos estão armazenados;\n\nIdentificação dos depósitos de armazenamento do produto a granel;\n\nIndicação da tipologia de movimento que suporta a proveniência do volume registado;\n\nVolumes e indicação do ano de colheita e ou das castas de uvas que o operador económico lhe associa.\n\n2.1 - A cada lote constituído e registado pelo operador económico deve ser atribuído, pelo IVV, I. P., um número sequencial destinado a identificar o lote em causa.\n\n2.2 - O acondicionamento e rotulagem de produtos com indicação do ano de colheita e ou das castas de uvas deve ser igualmente registado, sendo identificado através do número do lote de engarrafamento atribuído pelo operador económico, no âmbito do n.º 1 do artigo 50.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0607\" title=\"Link para Regulamento da Comunidade Europeia\">607/2009</a>, da Comissão, de 14 de Julho.\n\n3 - Para aplicação dos procedimentos e especificações da aprovação de lotes e controlo físico, os organismos de controlo devem assegurar, nomeadamente, que:\n\na) Cumprem os procedimentos definidos no manual previsto no artigo 9.º;\n\nb) Dispõem de pessoal em número suficiente, com qualificações, experiência e conhecimentos técnicos adequados para:\n\ni) Analisar a informação relativa à actividade no sector vitivinícola que seja necessária para o cumprimento eficaz das suas competências;\n\nii) Vistoriar parcelas de vinha;\n\niii) Vistoriar instalações de vinificação, de armazenagem e de transformação onde se encontrem os produtos;\n\nc) Dispõem do equipamento adequado à utilização dos suportes informáticos necessários e do conhecimento técnico para a sua utilização;\n\nd) Actuam de modo imparcial e sem conflitos de interesses;\n\ne) Respeitam a norma europeia EN 45011 e, a partir de 1 de Maio de 2010, ser acreditados de acordo com aquela norma, designadamente nos casos previstos na alínea b) do n.º 2 do artigo 11.º da presente portaria;\n\nf) Comunicam anualmente ao IVV, I. P., enquanto autoridade competente central, os resultados dos controlos físicos efectuados;\n\ng) Actuam de forma eficiente e eficaz com os restantes organismos de controlo.\n\n4 - O processo de aprovação de cada lote, com o objectivo da sua posterior introdução no consumo, devidamente acondicionado e rotulado, é desencadeado mediante pedido apresentado pelo operador económico.\n\n4.1 - O processo incide na confirmação administrativa dos diversos elementos constantes no registo de lote e pode ser efectuado de forma sistemática, por amostragem, ou pela conjugação de ambas.\n\n4.2 - Em conjugação com a confirmação administrativa, os organismos de controlo devem efectuar um controlo físico a, pelo menos, 5 % dos lotes que lhes sejam apresentados para aprovação, devendo o controlo incidir sobre:\n\nParcelas de vinha de onde os produtos são provenientes, nos casos em que o pedido de aprovação inclua a indicação das castas de uvas; e ou\n\nInstalações dos operadores económicos.\n\n5 - De forma a melhorar a eficiência do controlo físico deve ser igualmente contemplada a possibilidade de os organismos de controlo efectuarem controlos nas instalações dos operadores económicos, numa fase posterior à aprovação, de modo a confirmar:\n\nA quantidade engarrafada;\n\nO número do lote de engarrafamento indicado na rotulagem e a relação com o número sequencial previsto no n.º 2.1;\n\nA correspondência entre as indicações constantes na rotulagem e aquelas que foram aprovadas.\n\n6 - Sem prejuízo do regime sancionatório previsto no Decreto-Lei n.º 213/2004, de 23 de Agosto, os resultados dos controlos físicos podem determinar o indeferimento de pedidos de aprovação de lote e na suspensão da aprovação do operador económico."
+  },
+  "70876357": {
+   "fragment_id": "70888917",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 6 de Abril de 2010."
+  },
+  "70876365": {
+   "fragment_id": "70888915",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 5 do artigo 4.º)",
+   "in_force_from": "2015-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2015 - Diário da República n.º 192/2015, Série I de 2015-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/323-2015-70423677), em vigor a partir de 2015-10-02"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 5 do artigo 4.º)\n\nCastas de uvas que não podem ser mencionadas na rotulagem dos produtos a que se refere o n.º 1 do artigo 1.º\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2015 - Diário da República n.º 192/2015, Série I de 2015-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/323-2015-70423677), em vigor a partir de 2015-10-02"
+  }
+ }
+}

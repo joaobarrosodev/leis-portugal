@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400014:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889623886",
+ "dre_path": "/dr/detalhe/portaria/795-1984-400014",
+ "source_lastmod": "2024-10-01",
+ "versions": [
+  {
+   "date": "1984-10-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889623705",
+    "889623706",
+    "889623711",
+    "889623712"
+   ]
+  },
+  {
+   "date": "1984-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:380323:por",
+     "title": "Declaração",
+     "published": "1984-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1984-380323"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "889623705",
+    "889634103",
+    "889634104",
+    "889623712",
+    "889623713"
+   ]
+  }
+ ],
+ "fragments": {
+  "889623705": {
+   "fragment_id": "889623887",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 795/84\n\nde 11 de Outubro\n\nAquando da última revisão, em 1983, das tabelas emolumentares do notariado e dos registos predial, comercial e de automóveis não se julgou oportuno alterar a do registo civil, cuja última redacção datava de Setembro de 1982.\n\nDecorridos agora 2 anos sobre aquela data, e face aos crescentes encargos decorrentes do funcionamento dos serviços, entendeu-se ser chegado o momento de proceder à sua actualização.\n\nIntroduziram-se alterações de pormenor na redacção de alguns preceitos tabelares, com o intuito de desfazer as dúvidas de interpretação que mais frequentemente foram levantadas pelos senhores conservadores.\n\nAproveitou-se a oportunidade para expressamente sujeitar a tributação emolumentar a transcrição de registos lavrados no território de Macau ou respeitantes a estrangeiros, cujo ingresso no registo civil português não é obrigatório.\n\nFinalmente, entendeu-se que se devia alargar ao registo civil o sistema já em vigor para os restantes serviços de registo e notariado, segundo o qual as verbas tabelares fixas incluíam uma percentagem destinada a fazer face às despesas previstas no artigo 67.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelo Ministro da Justiça, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 397/83, de 2 de Novembro, o seguinte:"
+  },
+  "889623706": {
+   "fragment_id": "889623888",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão alteradas as verbas emolumentares constantes dos artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 12.º, 13.º, 14.º e 16.º da tabela de emolumentos anexa ao Código do Registo Civil, que passam a ser as seguintes:\n\nArtigo 1.º\n\n1 - Por cada assento de casamento, exceptuados os de transcrição de casamento católico e os de casamento urgente ... 650$00\n\n2 - Nos casos de redução legal ... 65$00\n\nArtigo 2.º:\n\nPela transcrição:\n\na) De qualquer acto lavrado no estrangeiro por autoridade estrangeira ... 650$00\n\nb) De cada registo lavrado no território de Macau ... 150$00\n\nArtigo 3.º:\n\nPela menção ou averbamento de convenção antenupcial ou de alteração do regime de bens em qualquer assunto do casamento ... 650$00\n\nArtigo 4.º:\n\nPor cada assunto requerido nos termos dos artigos 116.º a 151.º ... 200$00\n\nArtigo 5.º:\n\n1 - Pela organização de cada processo de casamento ... 650$00\n\n2 - Nos casos de redução legal ... 65$00\n\n3 - Ao emolumento do n.º 1 acrescem:\n\na) ...\n\nb) Pela nova publicação de editais, nos termos do artigo 177.º ... 250$00\n\nc) Pelo auto de inquirição de testemunhas, nos termos do artigo 172.º ... 550$00\n\nd) Por cada auto de consentimento para casamento de menores, quando lavrado por funcionário do registo civil ... 150$00\n\n4 - ...\n\n1 - Pelos certificados previstos no artigo 178.º ... 550$00\n\n2 - ...\n\nArtigo 8.º\n\nPelo processo de alteração de nome ... 7000$00\n\nArtigo 9.º\n\nPelos processos a que se referem os artigos 299.º e 309.º, quando instaurados a requerimento dos interessados ... 800$00\n\nArtigo 12.º\n\n1 - Pela passagem de nova cédula pessoal ... 200$00\n\n2 - Pela actualização e conferência da cédula pessoal e pela emissão de duplicado de boletins a que se refere o n.º 3 do artigo 276.º ... 50$00\n\nArtigo 13.º\n\nPela requisição de cada bilhete de identidade ou averbamento e pela aposição, em cada impresso do pedido, do visto de conferência com a cédula pessoal, além do custo dos impressos respectivos ... 50$00\n\nArtigo 14.º\n\n1 - Pelo acto de casamento não urgente celebrado fora da repartição, além do emolumento do assento ... 2000$00\n\n2 - Por qualquer outro acto praticado fora da repartição, além do emolumento respectivo ... 400$00\n\n3 - ...\n\n4 - ...\n\nArtigo 16.º\n\nPor cada auto de redução a escrito de requerimento verbal para a prática de qualquer acto de registo ou para fins de instauração dos processos regulares no Código de Registo Civil ... 200$00"
+  },
+  "889623711": {
+   "fragment_id": "889623893",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 7.º, 11.º, 19.º e 20.º da tabela de emolumentos do registo civil passam a ter a seguinte redacção:\n\n1 - Pelos processos para suprimento de certidões de registo ou para verificação de capacidade matrimonial ... 800$00\n\n2 - ...\n\nArtigo 11.º\n\n1 - Por cada certidão ou fotocópia de qualquer registo ou documento, bem como por qualquer certidão negativa ... 200$00\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 19.º\n\n1 - (O actual corpo do artigo.)\n\n2 - O disposto na alínea a) do número anterior não se aplica à transcrição de registos lavrados no território de Macau ou respeitantes a indivíduos a quem não seja atribuída a nacionalidade portuguesa ou que a não adquiram.\n\nArtigo 20.º\n\nA taxa de reembolso, englobada no montante total das importâncias arrecadadas, será de 3%, a deduzir no final de cada mês."
+  },
+  "889623712": {
+   "fragment_id": "889623894",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente tabela entra em vigor no próximo dia 1 de Novembro.\n\nMinistério da Justiça."
+  },
+  "889634103": {
+   "fragment_id": "889623888",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 278/1984, 2º Suplemento, Série I de 1984-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-380323), em vigor a partir de 1984-11-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão alteradas as verbas emolumentares constantes dos artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 12.º, 13.º, 14.º e 16.º da tabela de emolumentos anexa ao Código do Registo Civil, que passam a ser as seguintes:\n\nArtigo 1.º\n\n1 - Por cada assento de casamento, exceptuados os de transcrição de casamento católico e os de casamento urgente ... 650$00\n\n2 - Nos casos de redução legal ... 65$00\n\nArtigo 2.º:\n\nPela transcrição:\n\na) De qualquer acto lavrado no estrangeiro por autoridade estrangeira ... 650$00\n\nb) De cada registo lavrado no território de Macau ... 150$00\n\nArtigo 3.º:\n\nPela menção ou averbamento de convenção antenupcial ou de  alteração do regime de bens em qualquer assento de casamento ... 650$00\n\nArtigo 4.º:\n\nPor cada assento requerido nos termos dos artigos 116.º ou 151.º ... 200$00\n\nArtigo 5.º:\n\n1 - Pela organização de cada processo de casamento ... 650$00\n\n2 - Nos casos de redução legal ... 65$00\n\n3 - Ao emolumento do n.º 1 acrescem:\n\na) ...\n\nb) Pela nova publicação de editais, nos termos do artigo 177.º ... 250$00\n\nc) Pelo auto de inquirição de testemunhas, nos termos do artigo 172.º ... 550$00\n\nd) Por cada auto de consentimento para casamento de menores, quando lavrado por funcionário do registo civil ... 150$00\n\n4 - ...\n\n1 - Pelos certificados previstos no artigo 178.º ... 550$00\n\n2 - ...\n\nArtigo 8.º\n\nPelo processo de alteração de nome ... 7000$00\n\nArtigo 9.º\n\nPelos processos a que se referem os artigos 299.º e 309.º, quando instaurados a requerimento dos interessados ... 800$00\n\nArtigo 12.º\n\n1 - Pela passagem de nova cédula pessoal ... 200$00\n\n2 - Pela actualização e conferência da cédula pessoal  e pela emissão de duplicados de boletins a que se refere o n.º 3 do artigo 276.º ... 50$00\n\nArtigo 13.º\n\nPela requisição de cada bilhete de identidade ou averbamento e pela aposição, em cada impresso do pedido, do visto de conferência com a cédula pessoal, além do custo dos impressos respectivos ... 50$00\n\nArtigo 14.º\n\n1 - Pelo acto de casamento não urgente celebrado fora da repartição, além do emolumento do assento ... 2000$00\n\n2 - Por qualquer outro acto praticado fora da repartição, além do emolumento respectivo ... 400$00\n\n3 - ...\n\n4 - ...\n\nArtigo 16.º\n\nPor cada auto de redução a escrito de requerimento verbal para a prática de qualquer acto de registo ou para fins de instauração dos processos regulados no Código do Registo Civil... 200$00\n\n> Retificado pelo/a [Declaração - Diário da República n.º 278/1984, 2º Suplemento, Série I de 1984-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-380323), em vigor a partir de 1984-11-30"
+  },
+  "889634104": {
+   "fragment_id": "889623893",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1984-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 278/1984, 2º Suplemento, Série I de 1984-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-380323), em vigor a partir de 1984-11-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 7.º, 11.º, 19.º e 20.º da tabela de emolumentos do registo civil passam a ter a seguinte redacção:\n\nArtigo 7.º:\n\n1 - Pelos processos para suprimento de certidões de registo ou para verificação de capacidade matrimonial ... 800$00\n\n2 - ...\n\nArtigo 11.º\n\n1 - Por cada certidão ou fotocópia de qualquer registo ou documento, bem como por cada certidão negativa ... 200$00\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 19.º\n\n1 - (O actual corpo do artigo.)\n\n2 - O disposto na alínea a) do número anterior não se aplica à transcrição de registos lavrados no território de Macau ou respeitantes a indivíduos a quem não seja atribuída a nacionalidade portuguesa ou que a não adquiram.\n\nArtigo 20.º\n\nA taxa de reembolso, englobada no montante total das importâncias arrecadadas, será de 3%, a deduzir no final de cada mês.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 278/1984, 2º Suplemento, Série I de 1984-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-380323), em vigor a partir de 1984-11-30"
+  },
+  "889623713": {
+   "fragment_id": "889623895",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 26 de Setembro de 1984.\n\nO Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete."
+  }
+ }
+}

@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:583375:por
+title: Decreto do Presidente da República n.º 56/2001
+short_title: null
+summary: Ratifica a Convenção Penal sobre a Corrupção, do Conselho da Europa, assinada em Estrasburgo em 30 de Abril de 1999
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 56/2001
+official_date: null
+publication_date: '2001-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2001, Série I-A de 2001-10-26
+  number: '249'
+  series: I
+  supplement: null
+  pages: 6858 - 6858
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/10/249a00/68586858.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/56/2001/10/26/p/dre/pt/html
+  oj: null
+  dre: '583375'
+  dre_path: /dr/detalhe/decreto-presidente-republica/56-2001-583375
+  internal: pt:dre:583375:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/56-2001-583375
+  metadata_url: https://data.dre.pt/eli/decpresrep/56/2001/10/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/56-2001-583375
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:39:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9315945dda74f33f296900f16989b9d124cbe86dc7818ea612461963f1ec6656
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:39:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho da Europa
+- Convenção
+- Corrupção
+- Estrasburgo
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:583376:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/68/2001/10/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:39:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 56/2001
+
+de 26 de Outubro
+
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
+
+1 - É ratificada a Convenção Penal sobre a Corrupção, do Conselho da Europa, assinada em Estrasburgo em 30 de Abril de 1999, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 68/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/68-2001-583376), em 20 de Setembro de 2001.
+
+2 - Nos termos previstos pelo n.º 2 do artigo 17.º da Convenção, a República Portuguesa declara que, quando o agente da infracção for cidadão português, mas não funcionário ou titular de cargo político do Estado Português, só aplicará a regra de competência da alínea b) do n.º 1 do artigo 17.º da Convenção se:
+
+O agente do crime for encontrado em Portugal;
+
+Os factos cometidos forem puníveis também pela legislação do lugar em que tiverem sido praticados, salvo se nesse lugar não se exercer poder punitivo;
+
+Constituírem para além disso crimes que admitem extradição e esta não possa ser concedida.
+
+3 - A República Portuguesa, nos termos previstos no artigo 29.º da Convenção, designa a Procuradoria-Geral da República como autoridade central.
+
+4 - A República Portuguesa, nos termos previstos no artigo 37.º, n.º 1, da Convenção, reserva-se o direito de não sancionar criminalmente as infracções de corrupção passiva previstas nos artigos 5.º e 6.º, com excepção dos casos em que os seus agentes sejam funcionários ou titulares de cargos políticos de outros Estados-Membros da União Europeia e desde que a infracção tenha sido cometida, no todo ou em parte, em território português.
+
+5 - A República Portuguesa, nos termos previstos no artigo 37.º, n.º 1, da Convenção, declara que só considerará como infracções penais as práticas referidas nos artigos 7.º e 8.º da Convenção se da corrupção no sector privado resultar uma distorção da concorrência ou um prejuízo patrimonial para terceiros.
+
+6 - A República Portuguesa, nos termos do n.º 3 do artigo 37.º da Convenção, declara que poderá recusar o auxílio mútuo previsto no n.º 1 do artigo 26.º se o pedido se reportar a uma infracção considerada como infracção política.
+
+Assinado em 16 de Outubro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 17 de Outubro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

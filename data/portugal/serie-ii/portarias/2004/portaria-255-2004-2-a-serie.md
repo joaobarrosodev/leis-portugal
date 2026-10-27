@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:2126364:por
+title: Portaria n.º 255/2004 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 255/2004 (2.ª série)
+official_date: null
+publication_date: '2004-03-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2004, Série II de 2004-03-03
+  number: '53'
+  series: II
+  supplement: null
+  pages: 3561 - 3561
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/03/053000000/0356103561.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2126364'
+  dre_path: /dr/detalhe/portaria/255-2004-2126364
+  internal: pt:dre:2126364:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-2004-2126364
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-2004-2126364
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5f2e479bbdf9995f3c703ab895780fb6a9e5ca463f4971d2b6b019433ae6040c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:45:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:352952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:45:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 255/2004 (2.ª série)
+
+Portaria n.º 255/2004 (2.ª série). - Considerando que, em 8 de Maio de 2000, cessou a comissão de serviço a licenciada Maria Elizabeth Lúcia Ferreira Moreira Huhn, técnica superior principal da carreira de engenheiro, à data a exercer o cargo de chefe de divisão de Documentação, Informação e Relações Públicas, na Direcção Regional de Agricultura do Ribatejo e Oeste, mantendo-se no exercício de funções dirigentes em regime de gestão corrente até 18 de Dezembro de 2002;
+
+Considerando o disposto na alínea a) do n.º 2 e nos n.os 6 e 8 do artigo 32.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+
+1.º É criado no quadro de pessoal da Direcção-Geral das Florestas, aprovado pela [Portaria n.º 559/99](https://diariodarepublica.pt/dr/detalhe/portaria/559-1999-352952), de 27 de Julho, um lugar de assessor da carreira de engenheiro, a extinguir quando vagar.
+
+2.º A criação do lugar referido no número anterior produz efeitos desde 18 de Dezembro de 2002.
+
+3.º É revogada a portaria n.º 1304/2003, de 6 de Outubro.
+
+13 de Fevereiro de 2004. - A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas.

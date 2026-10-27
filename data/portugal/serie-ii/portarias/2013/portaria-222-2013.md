@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:1411662:por
+title: Portaria n.º 222/2013
+short_title: null
+summary: Classifica como monumento de interesse público a Igreja e Cemitério de Nossa Senhora da Lapa, no Porto, freguesia
+  de Cedofeita, concelho e distrito do Porto, e fixa a zona especial de proteção do mesmo monumento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 222/2013
+official_date: null
+publication_date: '2013-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/2013, Série II de 2013-04-12
+  number: '72'
+  series: II
+  supplement: null
+  pages: 12094 - 12095
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/04/072000000/1209412095.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1411662'
+  dre_path: /dr/detalhe/portaria/222-2013-1411662
+  internal: pt:dre:1411662:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-2013-1411662
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-2013-1411662
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 773b2f4e817877bcdcb73dd8f878c0fe356d6256b4834337d4ff2ea6b4108ba9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:38:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- BENS Classificados
+- Imóvel Classificado
+- Interesse Público
+- Património Arquitectónico
+- Património Histórico
+- Porto
+- Protecção do Património
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:190388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:38:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 222/2013
+
+A atual Igreja de Nossa Senhora da Lapa foi erguida entre 1756 e 1863, embora a capela-mor estivesse pronta em 1773. O templo, destinado a substituir uma primitiva capela que guardava a imagem desta invocação, tem a sua história intimamente ligada ao percurso da Venerável Irmandade de Nossa Senhora da Lapa, instituída um ano antes do assentamento da sua primeira pedra, e igualmente à evolução urbanística do Porto, uma vez que foi levantada num antigo arrabalde, dignificando uma zona que passa rapidamente a funcionar como polo ordenador da cidade em desenvolvimento para além da baixa e do antigo burgo medieval.
+
+A igreja apresenta-se como uma das mais imponentes da cidade, oferecendo um testemunho erudito muito representativo da transição entre as linguagens rocócó e neoclássica, e destacando-se pela qualidade intrínseca do edifício, que a nível estrutural exibe já a planimetria e clareza compositiva resultantes da revisão da tratadística clássica, e do seu património integrado.
+
+No interior destaca-se o conjunto retabular, um dos mais relevantes do país no estilo neoclássico e rocócó, mantendo notável grau de integridade. Aqui se inclui o imponente altar-mor de Manuel Moreira da Silva, concluído em 1806, verdadeiro mostruário da linguagem neoclássica, e o mausoléu que guarda o coração de D. Pedro IV, que a cidade do Porto acolheu e apoiou durante o cerco absolutista. Merece ainda relevo o magnífico órgão de tubos alemão, da firma Georg Jann, que demonstra a importância da música sacra na programação litúrgica e cultural da Igreja da Lapa.
+
+Para além do templo, o edifício é composto por uma série de volumes que incluem a primitiva Casa do Despacho, a Sala dos Quadros, uma antiga Escola Primária, inaugurada em 1800 e onde lecionaram personagens como Eça de Queirós, Ricardo Jorge e Ramalho Ortigão, e a imponente Sacristia. O espólio artístico que estes espaços albergam inclui uma vasta coleção de retratos a óleo, estatuária, faiança, ourivesaria e paramentaria de grande qualidade.
+
+Ao tardoz da igreja implanta-se o cemitério, fundado oficialmente em 1833, e que constitui o mais antigo cemitério privativo moderno em funcionamento em Portugal, modelo para toda a região noroeste do país. O Cemitério da Lapa é um paradigma da arte funerária romântica, com arruamentos ajardinados projetados como locais de meditação, podendo ser visitado como um autêntico «museu da morte». É também o suporte de memória por excelência das elites portuenses oitocentistas, com uma secção de jazigos-capelas que constitui um dos mais importantes conjuntos deste género na Europa.
+
+A classificação da Igreja e Cemitério de Nossa Senhora da Lapa reflete os critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, relativos ao caráter matricial do bem, ao seu interesse como testemunho simbólico e religioso, ao seu interesse como testemunho notável de vivências ou factos históricos, ao seu valor estético, técnico e material intrínseco, à sua conceção arquitetónica e urbanística e à sua extensão e ao que nela se reflete do ponto de vista da memória coletiva.
+
+A zona especial de proteção (ZEP) tem em consideração a topografia e a implantação do imóvel na malha urbana da cidade, e a sua fixação visa salvaguardar o enquadramento e os pontos de vista.
+
+Foram cumpridos os procedimentos de audição dos interessados, previstos no artigo 27.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, e nos artigos 25.º e 45.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelo [Decreto-Lei n.º 265/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2012-190388), de 28 de dezembro, de acordo com o disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo.
+
+Assim:
+
+Sob proposta dos serviços competentes, nos termos do disposto no artigo 15.º, no n.º 1 do artigo 18.º, no n.º 2 do artigo 28.º e no artigo 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, conjugado com o disposto no n.º 2 do artigo 30.º e no n.º 1 do artigo 48.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelo [Decreto-Lei n.º 265/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2012-190388), de 28 de dezembro, e no uso das competências conferidas pelo n.º 11 do artigo 10.º do [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de julho, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+São classificados como monumento de interesse público a Igreja e Cemitério de Nossa Senhora da Lapa, no Porto, freguesia de Cedofeita, concelho e distrito do Porto, conforme planta de delimitação constante do anexo à presente portaria e que desta faz parte integrante.
+
+###### Artigo 2.º — Zona especial de proteção
+
+É fixada a zona especial de proteção do monumento referido no artigo anterior, conforme planta de delimitação constante do anexo à presente portaria e que desta faz parte integrante.
+
+2 de abril de 2013. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2013/04/072000000/1209412095.pdf)
+
+7772013

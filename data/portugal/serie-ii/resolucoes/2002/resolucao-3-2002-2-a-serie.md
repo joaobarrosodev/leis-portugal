@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:2461499:por
+title: Resolução n.º 3/2002 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 3/2002 (2.ª série)
+official_date: null
+publication_date: '2002-01-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/2002, Série II de 2002-01-17
+  number: '14'
+  series: II
+  supplement: null
+  pages: 931 - 931
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/01/014000000/0093100931.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2461499'
+  dre_path: /dr/detalhe/resolucao/3-2002-2461499
+  internal: pt:dre:2461499:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2002-2461499
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-2002-2461499
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:11:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3d513208a23d3dbaac254533009a82b724a8fb64b51883f2909b239452b481d3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Gestão do Património
+- Lisboa
+- Património do Estado
+- Prédio Militar
+- Prédio Urbano
+relationships:
+- type: cites
+  target: pt:dre:169005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532440:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:11:16Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 3/2002 (2.ª série)
+
+Resolução n.º 3/2002 (2.ª série). - Considerando as orientações da política governamental em matéria de gestão das infra-estruturas militares consideradas inadequadas ou excedentárias, no sentido do aproveitamento das que, pelas suas características, possam ser utilizadas para fins de utilidade pública, o Governo resolveu desafectar do domínio público militar parte do prédio militar n.º 65/Lisboa, designado "Colégio de Campolide".
+
+A alienação dos imóveis integrados no domínio privado do Estado, disponibilizados, designadamente, pela contracção do dispositivo militar, visa gerar meios que possibilitem a melhoria das condições de operacionalidade requeridas pelas cada vez mais diversificadas missões cometidas às Forças Armadas.
+
+Por outro lado, a premência da criação de novos tribunais e reorganização dos existentes, em especial nas áreas urbanas de Lisboa e Porto, faz-se sentir cada vez com maior acuidade, motivada pela necessidade de optimização e melhoria das condições de trabalho dos magistrados judiciais e do Ministério Público, dos advogados, dos solicitadores e dos funcionários judiciais, bem como da dignificação da justiça face a todos os cidadãos.
+
+Assim, o Governo, no âmbito da reforma da justiça, tem privilegiado a sua actuação na melhoria das condições da administração da justiça, através da criação de novos tribunais e da ampliação e remodelação dos existentes.
+
+Tendo o Instituto de Gestão Financeira e Patrimonial da Justiça esgotado todas as possibilidades junto da Direcção-Geral do Património, que manifestou não dispor de qualquer prédio em condições de ser cedido àquele Instituto, demonstrou elevado interesse na aquisição de outra parcela do PM 65/Lisboa - Colégio de Campolide, por considerar que o mesmo preenche os requisitos exigíveis para a construção de um novo espaço para a criação e instalação de novos juízos e varas cíveis, atenta a sua contiguidade ao Palácio da Justiça de Lisboa, permitindo uma optimização dos serviços e uma maior facilidade de acesso à justiça pelos cidadãos, pela inerente concentração dos serviços. E, por estas condições únicas, dispensa o Instituto de Gestão Financeira e Patrimonial da Justiça da realização de processo de oferta pública.
+
+Por seu lado, a Universidade Nova de Lisboa, que já ocupa alguns espaços do PM 65/Lisboa - Colégio de Campolide, manifestou interesse numa parcela do mesmo imóvel, tornando-se necessário criar as condições que permitam a sua reafectação àquela entidade.
+
+Tendo presente que, conforme o disposto n.º 1 do artigo 4.º do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de Fevereiro, com a redacção que lhe foi dada pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de Agosto, a desafectação do domínio público militar é feita por resolução do Conselho de Ministros, foi aprovada a resolução n.º 136/2001 (2.ª série), de 1 de Outubro, publicada no Diário da República, 2.ª série, n.º 271, de 22 de Novembro de 2001, que apenas procedeu à desafectação de parte do PM 65/Lisboa - Colégio de Campolide, para posterior reafectação, não prevendo a possibilidade de alienação do referido prédio militar.
+
+Assim, nos termos da alínea g) do n.º 1 do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Desafectar do domínio público militar o PM 65/Lisboa, designado "Colégio de Campolide", situado na Rua do Marquês de Fronteira, freguesia de São Sebastião da Pedreira, município de Lisboa, com a área de 71 560 m2, inscrito na matriz predial urbana da referida freguesia sob o artigo 3134, descrito na 8.ª Conservatória do Registo Predial de Lisboa sob o n.º 2683/990401/S, inscrito a favor do Estado sob o n.º G19990401017-AP.17, confrontando a norte com Francisco Cacho, Quinta de Ernesto de Andrade e irmão, a sul com o Estabelecimento Prisional de Lisboa e José Sabido, a nascente com propriedade do Estado e a poente com Carlos Maria Teixeira de Sampaio, Augusto dos Santos Lima e José Lima e irmão.
+
+2 - Determinar que a desafectação do PM 65/Lisboa - Colégio de Campolide tenha em vista a reafectação de uma parcela ao Ministério da Educação e a alienação, por cessão, de outra parcela do mesmo imóvel ao Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça, mantendo-se as mesmas afectas ao Ministério da Defesa Nacional enquanto não forem reafectadas ou alienadas.
+
+3 - Autorizar a alienação, pelo Ministério da Defesa Nacional, ao Instituto de Gestão Financeira e Patrimonial da Justiça de uma parcela do prédio denominado PM 65/Lisboa - Colégio de Campolide, assinalada como parcela III na planta anexa à presente resolução, da qual faz parte integrante.
+
+4 - Autorizar a aquisição, pelo Instituto de Gestão Financeira e Patrimonial da Justiça, passando a integrar o seu património próprio, da parcela referida no número anterior pelo valor de Euro 2 049 061,76, a que correspondem 410 800 000$.
+
+5 - Revogar a resolução n.º 136/2001 (2.ª série), de 1 de Outubro, publicada no Diário da República, 2.ª série, n.º 271, de 22 de Novembro de 2001.
+
+13 de Dezembro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2002/01/014000000/0093100931.pdf)

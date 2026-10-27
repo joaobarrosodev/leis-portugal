@@ -1,0 +1,280 @@
+---
+schema_version: '1.0'
+id: pt:dre:288596:por
+title: Portaria n.º 672/92
+short_title: null
+summary: Aprova a denominação «vinho regional Alentejo» e estabelece as condições das suas produção e comercialização
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 672/92
+official_date: null
+publication_date: '1992-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/1992, Série I-B de 1992-07-09
+  number: '156'
+  series: I
+  supplement: null
+  pages: 3239 - 3241
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/07/156b00/32393241.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/672/1992/07/09/p/dre/pt/html
+  oj: null
+  dre: '288596'
+  dre_path: /dr/detalhe/portaria/672-1992-288596
+  internal: pt:dre:288596:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-1992-288596
+  metadata_url: https://data.dre.pt/eli/port/672/1992/07/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-1992-288596
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6588bfb1ebdd2fb2ca667dda69380fb6f67eaf667d87fea1cff9bf449de2844e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:25:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alentejo
+- Comércio
+- Marca
+- Produção
+- Vinho
+relationships:
+- type: amended_by
+  target: pt:dre:448304:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31987R0822
+  label: null
+  source: http://data.europa.eu/eli/reg/1987/822/oj
+- type: cites
+  target: celex:31989R2392
+  label: null
+  source: http://data.europa.eu/eli/reg/1989/2392/oj
+- type: cites
+  target: celex:31990R3201
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/3201/oj
+- type: repealed_by
+  target: pt:dre:521626:por
+  label: "Revogado o n.º 2 do n.º 7.º pela PORT.90/94.1994.02.07.MA, DR.IS-B [31] de 07.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-1994-521626
+  date: '1994-02-07'
+- type: repealed_by
+  target: pt:dre:448304:por
+  label: "Revogada pela PORT.623/98.1998.08.28.MADRP, DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1998-448304
+  date: '1998-08-28'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:25:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 672/92
+
+de 9 de Julho
+
+A região alentejana tem revelado, ao longo dos anos, particular aptidão para a produção de vinhos maduros de qualidade, alguns dos quais já com sólido prestígio no mercado, pelo que se encontram reconhecidamente satisfeitas as exigências da regulamentação comunitária no âmbito do vinho de mesa com a indicação geográfica - «vinho regional» -, tal como é definido no Decreto-Lei n.º 309/91, de 17 de Agosto, e no Regulamento (CEE) n.º [822/87](http://data.europa.eu/eli/reg/1987/822/oj?locale=pt) do Conselho, de 16 de Março, e ainda, no que respeita à sua apresentação ao consumidor, nos Regulamentos (CEE) n.os [2392/89](http://data.europa.eu/eli/reg/1989/2392/oj?locale=pt) do Conselho e [3201/90](http://data.europa.eu/eli/reg/1990/3201/oj?locale=pt) da Comissão, de 24 de Julho e de 16 de Outubro, respectivamente.
+
+Com vista a uma melhor acreditação junto do consumidor, considera-se, assim, plenamente justificada a atribuição da denominação «vinho regional Alentejo» aos vinhos de mesa produzidos nesta região vitivinícola e que satisfaçam os requisitos de qualidade e tipicidade conformes com a tradição do vinho alentejano e que possam contribuir para a sua valorização qualitativa.
+
+Neste sentido, as disposições contidas na presente portaria consagram as práticas culturais e métodos tradicionais de produção da área geográfica abrangida e estabelecem um maior rigor no controlo a que estes vinhos são sujeitos de modo a garantir a genuinidade e a promover a qualidade do produto comercializado sob esta denominação.
+
+Assim, ao abrigo do artigo 2.º do Decreto-Lei n.º 309/91, de 17 de Agosto:
+
+Manda o Governo, pelo Ministro da Agricultura, o seguinte:
+
+1.º A menção «vinho regional» seguida da indicação geográfica «Alentejo» é exclusiva dos vinhos de mesa tinto e branco que satisfaçam as condições de produção fixadas na presente portaria.
+
+2.º A área geográfica de produção do «vinho regional Alentejo», delimitada na carta 1:500000 constante do anexo I, abrange os distritos de Portalegre, Évora e Beja.
+
+3.º As vinhas destinadas à produção dos vinhos a que se refere esta portaria devem estar ou ser instaladas em solos que se enquadrem num dos seguintes tipos:
+
+Distrito de Portalegre:
+
+Solos litólicos não húmicos derivados de granitos;
+
+Litossolos derivados de xistos;
+
+Solos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de xistos e calcários;
+
+Solos podzolizados não hidromórficos;
+
+Solos calcários pardos e vermelhos;
+
+Distrito de Évora:
+
+Solos litólicos não húmicos em geral derivados de arenitos, granitos e gneisses;
+
+Litossolos derivados de xistos;
+
+Solos mediterrânicos pardos, vermelhos ou amarelos, em geral derivados de argila, xistos, gneisses, calcários e de rochas cristalofílicas;
+
+Aluviossolos modernos não calcários;
+
+Solos de baixas não calcários;
+
+Distrito de Beja:
+
+Solos litólicos não húmicos derivados de xistos;
+
+Litossolos derivados de xistos;
+
+Solos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de arenitos, argilas, dioritos, xistos, margas ou rochas cristalofílicas;
+
+Barros calcários e não calcários;
+
+Solos calcários vermelhos;
+
+Regossolos psamíticos.
+
+4.º Só podem usar a menção «vinho regional Alentejo» os vinhos de mesa provenientes exclusivamente das castas referidas no anexo II.
+
+5.º - 1 - As práticas culturais utilizadas nas vinhas que se destinam à produção do «vinho regional Alentejo» são as tradicionais ou as recomendadas pelo Instituto da Vinha e do Vinho (IVV), em ligação com as direcções regionais de agricultura.
+
+2 - A pedido dos viticultores, as referidas vinhas devem ser inscritas no IVV, que procederá ao cadastro das mesmas.
+
+3 - Qualquer alteração ocorrida nas vinhas cadastradas e aprovadas deverá ser comunicada ao IVV pelos respectivos viticultores, sob pena de os vinhos deixarem de ter direito à menção «vinho regional Alentejo».
+
+6.º - 1 - A produção de «vinho regional Alentejo» deve seguir as tecnologias de elaboração e as práticas enológicas tradicionais, bem como as legalmente autorizadas.
+
+2 - Os mostos a utilizar devem ter um título alcoométrico em potência mínimo de 11% vol.
+
+7.º - 1 - O «vinho regional Alentejo» deve ter um título alcoométrico adquirido mínimo de 11% vol., devendo os restantes parâmetros analíticos destes vinhos apresentar os valores definidos para os vinhos de mesa em geral.
+
+2 - Os vinhos tintos só podem ser comercializados após um estágio mínimo de seis meses.
+
+3 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor.
+
+8.º A realização da análise físico-química constitui regra e disciplina a observar com vista à aprovação do «vinho regional Alentejo», podendo a apreciação organoléptica ser efectuada pelo IVV sempre que este o entenda conveniente.
+
+9.º Os produtores e comerciantes do «vinho regional Alentejo», à excepção dos retalhistas, devem efectuar a respectiva inscrição no IVV, constituindo-se, para o efeito, registos especiais.
+
+10.º - 1 - Os rótulos a utilizar devem ser previamente aprovados pelo IVV.
+
+2 - Dos vinhos de mesa provenientes da região definida no n.º 2.º, só o «vinho regional Alentejo» pode usar as menções relativas a nomes de explorações vitícolas, ao ano de colheita, às castas, ao modo de elaboração e ao local de engarrafamento, desde que obedeçam às condições dos Regulamentos n.os [2392/89](http://data.europa.eu/eli/reg/1989/2392/oj?locale=pt) do Conselho e [3201/90](http://data.europa.eu/eli/reg/1990/3201/oj?locale=pt) da Comissão, de 24 de Julho e 16 de Outubro, respectivamente.
+
+3 - A partir de 31 de Dezembro de 1993, não podem ser comercializados produtos que contrariem o disposto no n.º 2.
+
+11.º É proibida a utilização noutros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela similitude gráfica ou fonética com os referidos nesta portaria, induzirem em confusão o consumidor, mesmo que precedidos dos termos «tipo», «estilo» ou outros análogos.
+
+Ministério da Agricultura.
+
+Assinada em 9 de Junho de 1992.
+
+Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/156b00/32393241.pdf)
+
+## ANEXO II — Castas brancas
+
+Arinto.
+
+Alicante-Branco.
+
+Antão-Vaz.
+
+Bical.
+
+Chardonnay.
+
+Chasselas.
+
+Diagalves.
+
+Fernão-Pires.
+
+Larião.
+
+Malvasia-Fina.
+
+Malvasia-Rei.
+
+Menteúdo.
+
+Moscatel-de-Setúbal.
+
+Mourisco-Branco.
+
+Perrum.
+
+Rabo-de-Ovelha.
+
+Síria.
+
+Trincadeira-das-Pratas.
+
+Castas tintas
+
+Abundante.
+
+Alfrocheiro-Preto.
+
+Alicante-Boushet.
+
+Aragonez.
+
+Cinsaut.
+
+Corropio.
+
+Cabernet-Sauvignon.
+
+Carignan.
+
+Grand-Noir.
+
+Moreto.
+
+Piriquita.
+
+Pinot-Tinto.
+
+Trincadeira-Preta.
+
+Tinta-Caiada.
+
+Tinta-Carvalha.
+
+Tinta-Grossa.

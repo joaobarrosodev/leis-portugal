@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:436474:por
+title: Portaria n.º 56-B/2002
+short_title: null
+summary: Renova, por um período de seis anos, a concessão da zona de caça associativa de Vila Nova da Barquinha, abrangendo
+  vários prédios rústicos sitos nas freguesias de Tancos, Atalaia e Barquinha, município de Vila Nova da Barquinha, e na freguesia
+  e município da Golegã. Revoga a Portaria n.º 513/2001, de 19 de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 56-B/2002
+official_date: null
+publication_date: '2002-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 11/2002, 1º Suplemento, Série I-B de 2002-01-14
+  number: '11'
+  series: I
+  supplement: null
+  pages: 296-(2) a 296-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/01/011b01/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/56-b/2002/01/14/p/dre/pt/html
+  oj: null
+  dre: '436474'
+  dre_path: /dr/detalhe/portaria/56-b-2002-436474
+  internal: pt:dre:436474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-b-2002-436474
+  metadata_url: https://data.dre.pt/eli/port/56-b/2002/01/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-b-2002-436474
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f0be0cfd796f4e120c88fdf9a429c5d9b3e77f0dcdf56e77b9b25db4fa5d19ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- VILA NOVA da Barquinha
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:308081:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:589545:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 600-C/96 de 22-Out, renovada pelo presente diploma,\
+    \ pela PORT.1118/2005.28.10.2005.MADRP, DR.IS-B [208] de 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1118-2005-589545
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:627778:por
+  label: "Renovada por um período de seis anos, a concessão da zona de caça concessionada pela Port 600-C/96 de 22-Out, renovada\
+    \ pelo presente diploma, pela PORT.1598/2007.17.12.2007.MADRP, DR.IS [242] de 17.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1598-2007-627778
+  date: '2007-12-17'
+- type: amended_by
+  target: pt:dre:308081:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pela Port 600-C/96, de 22-Out, na redacção do presente\
+    \ diploma, pela PORT.1088/2010.22.10.2010.MADRP, DR.IS [206] de 22.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-2010-308081
+  date: '2010-10-22'
+- type: cites
+  target: pt:dre:344200:por
+  label: null
+  source: http://data.dre.pt/eli/port/513/2001/05/19/p/dre
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/338/2001/12/26/p/dre
+- type: cites
+  target: pt:dre:566419:por
+  label: null
+  source: http://data.dre.pt/eli/port/600-c/1996/10/22/p/dre
+- type: cites
+  target: pt:dre:659755:por
+  label: null
+  source: http://data.dre.pt/eli/port/1019/1997/09/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:42:06Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 56-B/2002
+
+de 14 de Janeiro
+
+Pela [Portaria n.º 600-C/96](https://diariodarepublica.pt/dr/detalhe/portaria/600-c-1996-566419), de 22 de Outubro, alterada pela [Portaria n.º 1019/97](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1997-659755), de 24 de Setembro, foi concessionada ao Clube de Caça e Pesca do Concelho de Vila Nova da Barquinha a zona de caça associativa de Vila Nova da Barquinha (processo n.º 1728-DGF), situada nos municípios de Vila Nova da Barquinha e Golegã, com uma área de 1778,60 ha, válida até 15 de Maio de 2001.
+
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 4 do artigo 83.º, em articulação com o disposto no n.º 1 do artigo 79.º e no artigo 143.º, do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, ouvidos o Conselho Cinegético Municipal da Golegã e o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa de Vila Nova da Barquinha (processo n.º 1728-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Tancos, Atalaia e Barquinha, município de Vila Nova da Barquinha, com uma área de 1649,3732 ha, e na freguesia e município da Golegã, com uma área de 51,7080 ha, perfazendo uma área total de 1701,0812 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+2.º É revogada a [Portaria n.º 513/2001](https://diariodarepublica.pt/dr/detalhe/portaria/513-2001-344200), de 19 de Maio.
+
+3.º A presente portaria produz efeitos a partir do dia 16 de Maio de 2001.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 9 de Janeiro de 2002.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/01/011b01/00020002.pdf)

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0680:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0680-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0680",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5d09aeaf83e4f8c7",
+    "605863e9a8d0df09",
+    "789a79ed82d66bc4",
+    "9800ca64ef83286e"
+   ]
+  }
+ ],
+ "fragments": {
+  "5d09aeaf83e4f8c7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/680/CEE do Conselho, de 21 de Dezembro de 1989, que altera a Directiva 77/536/CEE relativa a aproximação das legislações dos Estados-Membros respeitantes aos dispositivos de protecção em caso de cabotagem dos tractores agrícolas ou florestas de rodas** *Jornal Oficial nº L 398 de 30/12/1989 p. 0026 - 0026 Edição especial finlandesa: Capítulo 13 Fascículo 19 p. 0124 Edição especial sueca: Capítulo 13 Fascículo 19 p. 0124*\n\nDIRECTIVA DO CONSELHO\n\nde 21 de Dezembro de 1989\n\nque altera a Directiva 77/536/CEE relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de protecção em caso de capotagem dos tractores agrícolas ou florestais de rodas\n\n(89/680/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100g.A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário adoptar as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno inclui um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais;\n\nConsiderando que a Directiva 77/536/CEE (4), com a última redacção que lhe foi dada pela Directiva 87/354//CEE (5), limita, no artigo 9g., o seu âmbito de aplicação aos tractores de massa compreendida entre 1,5 e 4,5 toneladas; que um aumento de 1,5 toneladas da massa máxima até agora fixada não apresenta inconvenientes maiores em relação aos aspectos de segurança da circulação rodoviária e da segurança do trabalho nos campos;\n\nConsiderando que os dispositivos de protecção em caso de capotagem dos tractores de massa compreendida entre 4,5 e 6 toneladas podem ser assimilados aos dos tractores de massa compreendida entre 1,5 e 4,5 toneladas e podem, assim, beneficiar das mesmas prescrições,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "605863e9a8d0df09": {
+   "fragment_id": "Artigo 1g.",
+   "type": "artigo",
+   "heading": "Artigo 1g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1g.\n\nN° quarto travessão do artigo 9g. da Directiva 77/536/CEE, os termos «massa compreendida entre 1,5 e 4,5 toneladas» são substituídos pelos termos «massa compreendida entre 1,5 e 6 toneladas»."
+  },
+  "789a79ed82d66bc4": {
+   "fragment_id": "Artigo 2g.",
+   "type": "artigo",
+   "heading": "Artigo 2g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2g.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar doze meses a contar de 3 de Janeiro de 1990. Do facto informarão imediatamente a Comissão."
+  },
+  "9800ca64ef83286e": {
+   "fragment_id": "Artigo 3g.",
+   "type": "artigo",
+   "heading": "Artigo 3g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3g.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nE. CRESSON\n\nJO n° C 256 de 9. 10. 1989, p. 75.\n\n(1) JO n° C 324 de 17. 12. 1988, p. 14.\n\n(2) JO n° C 120 de 16. 5. 1989, p. 71, e (3) JO n° C 102 de 24. 4. 1989, p. 8.\n\n(4) JO n° L 220 de 29. 8. 1977, p. 1.\n\n(5) JO n° L 192 de 11. 7. 1987, p. 43."
+  }
+ }
+}

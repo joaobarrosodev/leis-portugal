@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: pt:dre:294717:por
+title: Decreto-Lei n.º 121/78
+short_title: null
+summary: Fixa medidas relativas às condições de trabalho a estabelecer pelos instrumentos de regulamentação colectiva ou pelos
+  contratos individuais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho
+proposing_entity: null
+official_number: 121/78
+official_date: null
+publication_date: '1978-06-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/1978, Série I de 1978-06-02
+  number: '126'
+  series: I
+  supplement: null
+  pages: 992 - 995
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12600/09920995.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294717'
+  dre_path: /dr/detalhe/decreto-lei/121-1978-294717
+  internal: pt:dre:294717:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1978-294717
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1978-294717
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3e0ac0841d233a1a3d0bb21d34573cd68701955095f23ad093558b9fd2cbf28
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Convenção Coletiva de Trabalho
+- Direito do Trabalho
+- Emprego
+- Regulamento de Extensão
+- Remuneração
+- Tecto Salarial
+relationships:
+- type: amended_by
+  target: pt:dre:613933:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:decreto-lei:490/79
+  label: ALTERADOS OS ART 4, 9, 11, 15 E 16 E REVOGADOS OS ART 2, 3, 5 E 6 PELO DEC LEI 490/79 DE 19-DEZ DR.IS [291]
+  source: null
+  date: '1979-12-19'
+- type: cites
+  target: pt:dre:204399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521460:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:613933:por
+  label: Revogado pelo DEC LEI.87/89.23.03.1989.MESS, DR.IS [69] de 23.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1989-613933
+  date: '1989-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:10:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 121/78
+
+de 2 de Junho
+
+1. Na caracterização da situação da economia nacional mantêm-se os factores e as circunstâncias conjunturais que exigiram, no ano transacto, a definição de regime jurídico excepcional e condicionador das condições de trabalho de natureza pecuniária a estabelecer em instrumento de regulamentação colectiva ou através de contratos individuais de trabalho ([Decreto-Lei n.º 49-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-a-1977-204399), de 12 de Fevereiro). Por isso é que, no Programa do Governo, em especial na rubrica dedicada ao «Programa económico de estabilização para 1978», aparece como dominante, entre outros, o princípio da moderação dos aumentos salariais, a informar por uma política adequada, que procure embora a manutenção do poder de compra dos trabalhadores. Correspondentemente, no enunciado da política sectorial do trabalho, apontam-se limites máximos de crescimento salarial e princípios disciplinadores da sua adequação à evolução do custo de vida, bem como os indicadores que devem reger a fixação dos níveis salariais, em nome de defesa da economia nacional e dos princípios de justiça distributiva.
+
+2. Ante este conjunto de razões e princípios de política económico-laboral, é indispensável que se instaure entre nós o clima de concertação social necessário para que, de futuro, embora com a assistência do Governo, compita primordial e mesmo exclusivamente aos representantes legítimos dos empresários e dos trabalhadores acordar os princípios de actuação e as soluções que, com o mínimo de custos sociais, dêem satisfação às exigências resultantes das conjunturas.
+
+3. Como, porém, tal ainda se não verifica, vê-se o Governo obrigado a determinar sobre a matéria, de modo necessariamente genérico e abstracto, que exigirá, em cada situação concreta, dentro dos limites estabelecidos, a ponderação realista de comportável por cada sector de actividade e pela economia nacional. Ao fazê-lo, porém, mantém a esperança na viabilidade de uma norma salarial nacional, que de futuro possa vir a ser negociada entre as associações de classe e o Governo, apontando como sede mais adequada, para o efeito, o Conselho Nacional de Rendimentos e Preços. Por isso, o regime agora definido deve ser entendido, na parte em que disciplina as condições pecuniárias da prestação do trabalho, como supletivo de uma falta de acordo social, que se espera possa ser alcançado.
+
+4. No presente diploma, para além da reposição devidamente actualizada dos princípios e preceitos constantes do [Decreto-Lei n.º 49-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-a-1977-204399), de 12 de Fevereiro, introduzem-se dois princípios inovadores, tendentes um à atenuação das limitações exigidas e outro à obtenção de uma maior responsabilidade das associações de classe, na celebração das convenções colectivas de trabalho.
+
+Assim, por um lado, permite-se a revisão de instrumentos de regulamentação colectiva, na parte que fixa remunerações mínimas e outras prestações com expressão pecuniária, após o decurso de um período mínimo de vigência de doze meses. Por outro lado, condiciona-se o depósito das convenções colectivas de trabalho e das decisões arbitrais, não só à apresentação de prova bastante da observância dos limites legais impostos - o que implica o conhecimento da estrutura do elemento trabalho do sector de actividade da empresa -, como também à correcta definição de funções, classificação e integração em níveis de qualificação das profissões a abranger.
+
+5. Aquando da elaboração do presente decreto-lei, foi dado cumprimento ao disposto nos artigos 56.º e 58.º da Constituição.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º As condições de trabalho a estabelecer pelos instrumentos de regulamentação colectiva ou pelos contratos individuais ficam sujeitas ao disposto no presente diploma.
+
+Art. 2.º - 1 - A actualização de remunerações mínimas através de instrumento de regulamentação colectiva fica sujeita ao disposto nos números seguintes.
+
+2 - É vedado afectar aos aumentos de remunerações mínimas montante global superior a 20% do total das remunerações resultantes da aplicação das tabelas constantes dos instrumentos de regulamentação colectiva aplicáveis, desde que estes tenham sido publicados em 1977.
+
+3 - É vedado afectar aos aumentos de remunerações mínimas montante global superior a 30% do total das remunerações resultantes da aplicação das tabelas constantes dos instrumentos de regulamentação colectiva aplicáveis desde que estes tenham sido publicados em 1976.
+
+4 - Nos casos previstos no número anterior, o montante global dos aumentos de remunerações mínimas nunca poderá ser superior, porém, a 20% do total das remunerações de base efectivas praticadas em 31 de Dezembro de 1977.
+
+5 - É vedado afectar aos aumentos de remunerações mínimas montante global superior a 20% do total das remunerações de base efectivas praticadas em 31 de Dezembro de 1977 quando se trate de actualização de tabelas constantes de instrumentos de regulamentação colectiva publicadas até 31 de Dezembro de 1975, inclusive.
+
+Art. 3.º Nos instrumentos de regulamentação colectiva para trabalhadores não abrangidos por qualquer instrumento de regulamentação colectiva, é vedado afectar à fixação da tabela de remunerações mínimas montante global superior em mais do que 20% ao total de remunerações de base efectivas praticadas em 31 de Dezembro de 1977.
+
+Art. 4.º Na actualização e na fixação através de instrumentos de regulamentação colectiva, de remunerações mínimas aplicáveis a empresas públicas, o limite máximo dos aumentos permitidos será fixado por portaria conjunta dos Ministros das Finanças e Plano, do Trabalho e da Tutela, não podendo nunca exceder os limites estabelecidos, consoante os casos, nos artigos 2.º e 3.º
+
+Art. 5.º É permitida a fixação em instrumento de regulamentação colectiva de acréscimos de remuneração diferidos, desde que o montante global das remunerações resultantes da aplicação da tabela mais elevada não ultrapasse os limites fixados, consoante os casos, nos artigos 2.º e 3.º
+
+Art. 6.º - 1 - A menos que tal seja imposto por lei ou por instrumento de regulamentação colectiva, os trabalhadores não poderão receber, individualmente, aumento de remuneração de montante superior a 20% do valor da remuneração mensal efectiva por ele auferida em 31 de Dezembro de 1977.
+
+2 - Não estão sujeitos ao limite fixado no número anterior nem contam para o mesmo os aumentos de remuneração mensal efectiva devidos ao pagamento de diuturnidades, desde que previstas em instrumento de regulamentação colectiva, ou à reclassificação ou promoção dos trabalhadores.
+
+Art. 7.º - 1 - O prazo de vigência dos instrumentos de regulamentação colectiva, no que respeita às tabelas salariais e às cláusulas com expressão pecuniária, será de doze meses.
+
+2 - Os instrumentos de regulamentação colectiva, na parte prevista no número anterior, não podem ser denunciados antes de decorridos dez meses sobre a data da sua publicação.
+
+3 - No processo de revisão previsto neste artigo as fases de negociação directa, conciliação e mediação não poderão prolongar-se por mais de quatro meses a contar do início do prazo para a apresentação da proposta.
+
+4 - Decorrido o prazo de quatro meses fixado no número anterior e caso tenha sido apresentada proposta de revisão, é legítimo o recurso à via administrativa, nos demais termos legais.
+
+5 - O disposto nos números anteriores é aplicável aos instrumentos de regulamentação colectiva em vigor na data da publicação do presente diploma.
+
+6 - Os instrumentos de regulamentação colectiva revistos de acordo com o disposto neste artigo só podem produzir efeitos a partir do termo da vigência de doze meses estabelecida no n.º 1.
+
+Art. 8.º - 1 - Os instrumentos de regulamentação colectiva não poderão:
+
+a) Estabelecer quaisquer diferenciações entre homens e mulheres, na fixação de remunerações mínimas para profissões idênticas;
+
+b) Fixar remunerações mínimas para trabalhadores do nível «não qualificado» superiores em mais do que 60% à remuneração mínima garantida (salário mínimo nacional) respectiva;
+
+c) Alterar para montantes ou valores percentuais superiores qualquer prestação complementar ou com expressão pecuniária já existente.
+
+2 - O disposto nas alíneas b) e c) do número anterior não prejudica as disposições constantes de instrumento de regulamentação colectiva em vigor.
+
+3 - Não são abrangidos pelo disposto na alínea c) do n.º 1 deste artigo os prémios de produtividade ou devidos em função do mérito.
+
+Art. 9.º - 1 - O montante global das prestações complementares da remuneração de base e de quaisquer outras prestações com expressão pecuniária atribuídas por contrato individual ou instrumento de regulamentação colectiva não poderá exceder, em caso algum, 50% do valor da remuneração de base por eles efectivamente auferida.
+
+2 - O limite imposto pelo número anterior pode ser observado em média mensal, desde que seja reportada a um período consecutivo não superior a três meses.
+
+3 - Não serão computadas para os efeitos dos números anteriores as seguintes prestações:
+
+a) Diuturnidades e outras prestações devidas em função da antiguidade;
+
+b) Prémios de produtividade e outros devidos em função do mérito;
+
+c) Subsídio de férias;
+
+d) Subsídio de Natal;
+
+e) Ajudas de custo e despesas de deslocação até aos montantes máximos fixados para os funcionários públicos;
+
+f) Comissões de vendas;
+
+g) Abonos para falhas;
+
+h) Prestações complementares dos subsídios da Previdência ou similares, quando ainda sejam devidas.
+
+4 - O disposto nos números anteriores é aplicável aos contratos de trabalho em vigor.
+
+Art. 10.º - 1 - Sempre que o montante de cada uma das prestações referidas no n.º 1 do artigo anterior ultrapasse os valores ou taxas mínimas fixados na lei geral do trabalho ou, na sua falta, os máximos fixados para os funcionários públicos, os trabalhadores beneficiários descontarão 25% da parte excedente recebida para o Fundo de Desemprego.
+
+2 - O desconto estatuído no número anterior não prejudica os demais previstos na lei.
+
+Art. 11.º - 1 - As tabelas salariais fixadas em instrumento de regulamentação colectiva conterão obrigatoriamente valores salariais expressos para todas as profissões e categorias profissionais nela previstas.
+
+2 - Constará obrigatoriamente de todos os instrumentos de regulamentação colectiva a definição das funções inerentes às profissões abrangidas, bem como a respectiva classificação e integração em níveis de qualificação, de harmonia com o quadro anexo ao presente diploma.
+
+3 - Será recusado pelos serviços competentes do Ministério do Trabalho o depósito de qualquer convenção colectiva ou decisão arbitral que não satisfaça os requisitos exigidos nos números anteriores.
+
+4 - No caso de a classificação e integração das profissões em níveis de qualificação constante de convenção colectiva ou decisão arbitral se revelar desconforme com o quadro anexo referido no n.º 2, os serviços competentes do Ministério do Trabalho garantirão o apoio necessário à sua rectificação.
+
+Art. 12.º Os instrumentos de regulamentação colectiva deverão atribuir prioridade à uniformização progressiva dos estatutos dos trabalhadores situados nos diversos níveis de qualificação, no respeitante aos complementos de remuneração e outras regalias com expressão pecuniária, na medida em que as condições económicas dos sectores de actividade e das empresas o permitam.
+
+Art. 13.º - 1 - O Ministério do Trabalho promoverá as diligências necessárias a que todos os trabalhadores por conta de outrem fiquem abrangidos por instrumentos de regulamentação colectiva de trabalho.
+
+2 - Para efeitos do disposto no número anterior, o Ministério do Trabalho determinará, em cooperação com as associações de classe interessadas, todas as situações de inexistência de regulamentação colectiva, quer de âmbito regional, quer por sectores de actividade.
+
+3 - Quando se não verifique iniciativa negocial das entidades legitimadas para o efeito, poderão ser emitidas pelo Ministro do Trabalho portarias de extensão ou de regulamentação de trabalho, nos termos da legislação aplicável, tendo em vista o objectivo referido no n.º 1 deste artigo.
+
+Art. 14.º São nulas as disposições ou cláusulas dos instrumentos de regulamentação colectiva ou de contratos individuais que violem o disposto no presente diploma.
+
+Art. 15.º - 1 - As convenções colectivas de trabalho e as decisões arbitrais serão acompanhadas obrigatoriamente, para efeito de depósito, de fundamentação económico-financeira justificativa dos aumentos de remunerações consagrados, bem como de prova bastante de que as condições acordadas ou decididas se contêm nos limites fixados nos artigos 2.º a 5.º e 9.º
+
+2 - Será recusado pelos serviços competentes do Ministério do Trabalho o depósito de qualquer convenção colectiva de trabalho ou decisão arbitral que não seja acompanhada da prova bastante exigida no número anterior.
+
+Art. 16.º - 1 - A efectivação de remunerações ou de prestações complementares e outras com expressão pecuniária que violem o disposto no presente diploma sujeita a entidade patronal a multa de valor igual ao quíntuplo das quantias indevidamente pagas.
+
+2 - O não cumprimento do estatuído no artigo 11.º sujeita a entidade patronal a multa de valor igual ao quíntuplo das quantias não descontadas.
+
+3 - As multas previstas no número anterior revertem para o Fundo de Desemprego.
+
+Art. 17.º São revogados os Decretos-Leis n.os [49-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-a-1977-204399), de 12 de Fevereiro, [288-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-a-1977-521460), de 16 de Julho, e [565/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1977-404573), de 31 de Dezembro.
+
+Art. 18.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Manuel Maldonado Gonelha.
+
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 24 de Maio de 1978.
+
+Publique-se.
+
+Presidente da República Interino, VASCO DA GAMA FERNANDES.
+
+Estrutura dos níveis de qualificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/12600/09920995.pdf)
+
+Estágio e aprendizagem
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/12600/09920995.pdf)
+
+O Ministro do Trabalho, António Manuel Maldonado Gonelha.

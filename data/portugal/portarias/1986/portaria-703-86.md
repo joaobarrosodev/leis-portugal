@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:221495:por
+title: Portaria n.º 703/86
+short_title: null
+summary: Altera o quadro de pessoal do Hospital Geral de Santo António
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde
+proposing_entity: null
+official_number: 703/86
+official_date: null
+publication_date: '1986-11-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 270/1986, Série I de 1986-11-22
+  number: '270'
+  series: I
+  supplement: null
+  pages: 3528 - 3529
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27000/35283529.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221495'
+  dre_path: /dr/detalhe/portaria/703-1986-221495
+  internal: pt:dre:221495:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1986-221495
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1986-221495
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4b6ad15f881c8ad8f1be6c56216ecccfe9e6b7bf9f44752da0b4cf800ca07591
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Médica Hospitalar
+- Hospital Geral de Santo António
+- Médico
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:546255:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:172149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:56:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 703/86
+
+de 22 de Novembro
+
+Tornando-se necessário proceder à revisão do quadro de pessoal do Hospital Geral de Santo António de forma a contemplar algumas situações que podem considerar-se anómalas e pontuais, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e em conformidade com o artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde, que o quadro de pessoal do Hospital Geral de Santo António, aprovado pela [Portaria n.º 652/80](https://diariodarepublica.pt/dr/detalhe/portaria/652-1980-460839), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [343/83](https://diariodarepublica.pt/dr/detalhe/portaria/343-1983-312648), de 29 de Março, [722/83](https://diariodarepublica.pt/dr/detalhe/portaria/722-1983-452482), de 24 de Junho, e [876/85](https://diariodarepublica.pt/dr/detalhe/portaria/876-1985-172149), de 19 de Novembro, seja de novo alterado, de acordo com o quadro anexo à presente portaria.
+
+Ministérios das Finanças e da Saúde.
+
+Assinada em 30 de Outubro de 1986.
+
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+Quadro de pessoal do Hospital Geral de Santo António
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27000/35283529.pdf)

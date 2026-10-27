@@ -1,0 +1,299 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014R1253:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R1253-20200730",
+ "dre_path": null,
+ "source_lastmod": "2020-07-30",
+ "versions": [
+  {
+   "date": "2020-07-30",
+   "future": false,
+   "celex": "02014R1253-20200730",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3338068275879615",
+    "99e8cb3f8f443b2b",
+    "bdc13af5aac51d07",
+    "4862b56750ca89bf",
+    "e3991855e06102f0",
+    "c77c8f0519c34bc0",
+    "a9b1430b69da76f7",
+    "fe32d641998cc33d",
+    "b4a813e392043e50",
+    "f3527a84e2a89f06",
+    "d664376e2a8dcecd",
+    "d698772671eb31bd",
+    "852174729551523b",
+    "c1172e1229328333",
+    "720af75c92791b10",
+    "a3a7603efc64f182",
+    "e03a0eb4d5b2eef3",
+    "9188396ce74f6ec5",
+    "64610ae29a6cb67c",
+    "0faa570bfdf51dd1",
+    "90c7d2baf4d44ee2",
+    "2eeaa45732987f1f",
+    "d46ca50274582635",
+    "3a471d8675b5b94c",
+    "1b41b51ec3248d43",
+    "0d62dce82b448570",
+    "953641e58475eff6",
+    "8979cc0f7028c8a8",
+    "865862e6db1844d8",
+    "e56bf47e438d3beb",
+    "4dd96d01e7d13be2"
+   ]
+  }
+ ],
+ "fragments": {
+  "3338068275879615": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de julho de 2014\n\nque aplica a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que diz respeito aos requisitos de conceção ecológica das unidades de ventilação\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "99e8cb3f8f443b2b": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento aplica-se às unidades de ventilação e estabelece requisitos de conceção ecológica para a sua colocação no mercado ou entrada em funcionamento.\n\n2. O presente regulamento não é aplicável a unidades de ventilação que sejam:\n\na) Unidirecionais (extração ou insuflação) com uma potência elétrica de entrada inferior a 30 W, exceto no que se refere aos requisitos de informação;\n\nb) Bidirecionais com uma potência elétrica de entrada total para as ventoinhas inferior a 30 W, por caudal de ar, exceto no que se refere aos requisitos de informação;\n\nc) Ventoinhas axiais ou centrífugas apenas equipadas com uma armação nos termos do Regulamento (UE) n.º 327/2011;\n\nd) Concebidas para funcionar exclusivamente em atmosferas potencialmente explosivas, como definido na Diretiva 94/9/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001));\n\ne) Concebidas para funcionar exclusivamente em situações de emergência, por curtos períodos de tempo, e que cumpram os requisitos básicos aplicáveis às obras de construção em matéria de segurança contra os incêndios, como estabelecido no Regulamento (UE) n.º 305/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0002));\n\nf) Exclusivamente especificadas para funcionamento:\n\ni) quando a temperatura do ar movido exceda 100 °C,\n\nii) quando a temperatura ambiente de funcionamento do motor, se estiver situado fora do caudal de ar, exceda 65 °C,\n\niii) quando a temperatura do ar movido ou a temperatura ambiente de funcionamento do motor, se estiver situado fora do caudal de ar, seja inferior a – 40 °C,\n\niv) quando a voltagem de alimentação exceda 1 000 V CA ou 1 500 V CC,\n\nv) em ambientes tóxicos, altamente corrosivos ou inflamáveis ou em ambientes com substâncias abrasivas;\n\ng) Unidades que incluam um permutador de calor e uma bomba de calor para recuperação de calor ou que permitam uma transferência de calor ou extração adicional à do sistema de recuperação de calor, exceto a transferência de calor para proteção contra congelamento ou descongelamento;\n\nh) Classificadas como exaustores abrangidos pelo Regulamento da Comissão (UE) n.º 66/2014 ([^3^](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0003)) sobre os aparelhos de cozinha."
+  },
+  "bdc13af5aac51d07": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Unidade de ventilação (UV)», um aparelho elétrico equipado, pelo menos, com um rotor, um motor e uma caixa, destinado a substituir o ar utilizado por ar exterior num edifício ou parte de um edifício;\n\n2) «Unidade de ventilação residencial (UVR)», uma unidade de ventilação em que:\n\na) O caudal máximo não excede 250 m^3^/h,\n\nb) O caudal máximo se situa entre 250 e 1 000 m^3^/h, tendo o fabricante declarado que a sua utilização prevista é exclusivamente para ventilação residencial;\n\n3) «Unidade de ventilação não residencial (UVNR)», uma unidade de ventilação em que o caudal máximo da unidade de ventilação exceda 250 m^3^/h e, caso o caudal máximo seja entre 250 e 1 000 m^3^/h, em que o fabricante não tenha declarado a sua utilização pretendida como sendo exclusivamente para ventilação residencial;\n\n4) «Caudal máximo declarado», o caudal volúmico de ar máximo declarado de uma unidade de ventilação que pode ser obtido através de controlos integrados ou fornecidos separadamente, em condições atmosféricas normais (20 °C) e 101 325 Pa, quando a unidade é instalada completa (p. ex., incluindo filtros de limpeza) e de acordo com as instruções do fabricante; e de acordo com as instruções do fabricante; para as UVR com condutas, o caudal máximo é determinado com base no caudal de ar a 100 Pa de diferença de pressão estática externa e, para as UVR sem condutas, com base no caudal de ar na diferença de pressão total mais baixa possível, a escolher de uma série de valores de 10 (mínimo)-20-50-100-150-200-250 Pa, consoante for igual ou ligeiramente inferior ao valor medido de diferença de pressão;\n\n5) «Unidade de ventilação unidirecional (UVU)», uma unidade de ventilação que produz um fluxo de ar num só sentido, do interior para o exterior (extração) ou do exterior para o interior (insuflação), em que o fluxo de ar produzido mecanicamente é compensado por mecanismos de extração ou insuflação de ar natural;\n\n6) «Unidade de ventilação bidirecional (UVB)», uma unidade de ventilação que produz um fluxo de ar entre um espaço interior e um espaço exterior e está equipada simultaneamente com ventoinhas de extração e de insuflação.\n\n7) «Modelo de unidade de ventilação equivalente», uma unidade de ventilação com as mesmas características técnicas em conformidade com os requisitos de informação sobre o produto aplicáveis, mas colocada no mercado como modelo diferente de uma unidade de ventilação pelo mesmo fabricante, representante autorizado ou importador.\n\nPara efeitos dos anexos II a IX, o anexo I contém definições suplementares."
+  },
+  "4862b56750ca89bf": {
+   "fragment_id": "Artigo 3.º — Requisitos de conceção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de conceção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de conceção ecológica\n\n1. A partir de 1 de janeiro de 2016, as UVR devem cumprir os requisitos específicos de conceção ecológica estabelecidos no anexo II, ponto 1.\n\n2. A partir de 1 de janeiro de 2016, as UVNR devem cumprir os requisitos específicos de conceção ecológica estabelecidos no anexo III, ponto 1.\n\n3. A partir de 1 de janeiro de 2018, as UVR devem cumprir os requisitos específicos de conceção ecológica estabelecidos no anexo II, ponto 2.\n\n4. A partir de 1 de janeiro de 2018, as UVNR devem cumprir os requisitos específicos de conceção ecológica estabelecidos no anexo III, ponto 2."
+  },
+  "e3991855e06102f0": {
+   "fragment_id": "Artigo 4.º — Requisitos de informação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de informação\n\n1. A partir de 1 de janeiro de 2016, os fabricantes, os representantes autorizados e os importadores de UVR devem cumprir os requisitos de informação estabelecidos no anexo IV.\n\n2. A partir de 1 de janeiro de 2016, os fabricantes, os representantes autorizados e os importadores de UVNR devem cumprir os requisitos de informação estabelecidos no anexo V."
+  },
+  "c77c8f0519c34bc0": {
+   "fragment_id": "Artigo 5.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação da conformidade\n\n1. Os fabricantes de unidades de ventilação devem proceder à avaliação de conformidade referida no artigo 8.º da Diretiva 2009/125/CE, utilizando o sistema de controlo interno da conceção, descrito no anexo IV dessa diretiva, ou o sistema de gestão previsto no anexo V da mesma diretiva.\n\nPara efeitos de avaliação da conformidade das UVR, o cálculo do requisito relativo ao consumo de energia específico deve ser realizado em conformidade com o anexo VIII do presente regulamento.\n\nPara efeitos de avaliação da conformidade das UVNR, as medições e os cálculos dos requisitos específicos de conceção ecológica devem ser realizados em conformidade com o anexo IX do presente regulamento.\n\n2. A documentação técnica estabelecida em conformidade com o anexo IV da Diretiva 2009/125/CE deve incluir uma cópia das informações relativas ao produto referidas nos anexos IV e V do presente regulamento.\n\nSe a informação incluída na documentação técnica para um determinado modelo de unidade de ventilação tiver sido obtida por cálculo baseado na sua conceção ou por extrapolação a partir de outras unidades de ventilação, ou ambos, a documentação técnica deve incluir as seguintes informações:\n\na) Pormenores desses cálculos ou extrapolações, ou ambos;\n\nb) Pormenores dos ensaios efetuados pelos fabricantes, para verificar a exatidão dos cálculos e das extrapolações;\n\nc) Uma lista de quaisquer outros modelos de unidades de ventilação, cujas informações incluídas na documentação técnica tenham sido obtidas do mesmo modo;\n\nd) Uma lista dos modelos de unidades de ventilação equivalentes."
+  },
+  "a9b1430b69da76f7": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nAs autoridades dos Estados-Membros devem aplicar o procedimento de verificação descrito no anexo VI ao realizarem a fiscalização do mercado referida no artigo 3.º, n.º 2, da Diretiva 2009/125/CE, a fim de assegurarem o cumprimento dos requisitos estabelecidos para as UVR e as UVNR nos anexos II e III do presente regulamento, respetivamente."
+  },
+  "fe32d641998cc33d": {
+   "fragment_id": "Artigo 7.º — Valores de referência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Valores de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Valores de referência\n\nOs valores de referência referidos no anexo I, parte 3, ponto 2, da Diretiva 2009/125/CE que devem ser aplicados às unidades de ventilação estão indicados no anexo VII do presente regulamento."
+  },
+  "b4a813e392043e50": {
+   "fragment_id": "Artigo 8.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reexame\n\nA Comissão avaliará a necessidade de estabelecer requisitos sobre as taxas de fugas de ar em função dos progressos tecnológicos e apresentará os resultados dessa avaliação ao Fórum de Consulta, o mais tardar, em 1 de janeiro de 2017.\n\nA Comissão examinará o presente regulamento à luz dos progressos tecnológicos e apresentará os resultados desse exame ao Fórum de Consulta, o mais tardar, e, 1 de janeiro de 2020.\n\nEsse reexame deverá incluir uma avaliação dos seguintes elementos:\n\na) A possibilidade de alargar o âmbito de aplicação do presente regulamento, de modo a abranger as unidades unidirecionais com uma potência elétrica de entrada inferior a 30 W, e as unidades bidirecionais com uma potência elétrica total de entrada para ventoinhas inferior a 30 W por caudal de ar;\n\nb) As tolerâncias de verificação previstas no anexo VI;\n\nc) A conveniência de ter em conta os efeitos decorrentes de filtros com baixo consumo energético na eficiência energética;\n\nd) A necessidade de fixar um nível suplementar com requisitos de conceção ecológica mais rigorosos."
+  },
+  "f3527a84e2a89f06": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d698772671eb31bd": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições\n\nDefinições aplicáveis para efeitos dos anexos II a IX do presente regulamento:\n\n1. **Definições:**\n\n1) «Consumo de energia específico (SEC)» [expresso em kWh/(m^2^.a)]: coeficiente que exprime a energia consumida para ventilar um m^2^ de superfície de solo aquecida de uma habitação ou edifício, calculado para as UVR em conformidade com o anexo VIII;\n\n2) «Nível de potência sonora (LWA)»: nível de potência sonora ponderado A, emitido pela caixa e medido em decibéis (dB), com base na potência sonora de 1 picowatt (1pW), que é transmitido pelo ar com o caudal de referência;\n\n3) «Transmissão de várias velocidades»: motor de ventoinha que pode funcionar a três ou mais velocidades fixas além da posição parada («off»);\n\n4) «Transmissão de velocidade variável (VSD)»: controlo eletrónico, integrado ou a funcionar como sistema ou elemento autónomo com motor e ventoinha, que adapta continuamente a energia elétrica fornecida ao motor, para controlar o caudal;\n\n5) «Sistema de recuperação de calor (HRS)»: parte de uma unidade de ventilação bidirecional, equipada com um permutador de calor, destinado a transferir o calor contido no ar extraído (contaminado) para o ar insuflado (fresco);\n\n6) «Eficiência térmica de um sistema de recuperação de calor residencial (ηt)»: rácio entre a elevação da temperatura do ar insuflado e a diminuição da temperatura do ar extraído, ambas em relação com a temperatura exterior, medidas com o sistema de recuperação de calor em estado seco e em condições ambientais normais, com um caudal mássico equilibrado, com o caudal de referência, uma diferença térmica entre o interior e o exterior de 13 K, sem correção em função do ganho de calor procedente dos motores dos ventiladores;\n\n7) «Taxa de fuga interna»: fração de ar extraído presente no ar insuflado das unidades de ventilação com sistema de recuperação de calor, resultante de uma fuga entre os fluxos de ar extraído e de ar insuflado dentro da caixa, quando a unidade funciona com o caudal volumétrico de ar de referência, medido nas condutas; o ensaio será realizado para as UVR a 100 Pa e para as UVNR a 250 Pa;\n\n8) «Retorno»: percentagem de ar extraído que é devolvido ao ar fornecido num permutador de calor regenerador de acordo com o caudal de referência;\n\n9) «Taxa de fuga externa»: fração de fuga do fluxo volumétrico de ar de referência que entra ou sai da caixa de uma unidade de ou para o ar envolvente, quando esta é submetida a um ensaio de pressão; o teste será realizado a 250 Pa para as UVR e a 400 Pa para as UVNR, em sobpressão e sobrepressão;\n\n10) «Mistura»: recirculação ou curto-circuito imediatos dos fluxos de ar entre as aberturas de extração e de insuflação nos terminais tanto internos como externos, de modo a não contribuírem para a ventilação efetiva do espaço construído, quando a unidade se encontra a funcionar com o fluxo volumétrico de ar de referência;\n\n11) «Taxa de mistura»: fração de ar extraído, enquanto parte do volume total de ar de referência, que recircula entre as aberturas de extração e de insuflação nos terminais tanto internos como externos, de modo a não contribuírem para a ventilação efetiva do espaço construído, quando a unidade se encontra a funcionar com o volume de ar de referência (medido a um metro de distância da conduta interna de insuflação), menos a taxa de fuga interna;\n\n12) «Potência de entrada efetiva» (expressa em W): potência elétrica de entrada com o caudal de referência e a correspondente diferença total de pressão externa, incluindo as exigências elétricas dos ventiladores, os dispositivos de controlo (incluindo de controlo à distância) e a bomba de calor (se integrada);\n\n13) «Potência de entrada específica (SPI)» (expressa em W/(m^3^/h)): rácio entre a potência efetiva de entrada (em W) e o caudal de referência (em m^3^/h);\n\n14) «Diagrama caudal/pressão»: conjunto de curvas correspondentes ao caudal (eixo horizontal) e à diferença de pressão de uma UVR unidirecional ou o lado de insuflação de uma UVR bidirecional, em que cada curva representa uma velocidade da ventoinha com um mínimo de oito pontos de ensaio equidistantes, dependendo o número de curvas do número de diferentes opções de velocidade da ventoinha (uma, duas ou três) ou, no caso de um sistema de transmissão de velocidade variável, incluindo pelo menos uma curva mínima, uma curva máxima e uma curva intermédia apropriada, próxima do volume de ar de referência e da diferença de pressão para o ensaio da potência de entrada específica;\n\n15) «Caudal de referência» (expresso em m^3^/s): valor da abcissa num ponto de uma curva do diagrama caudal/pressão, situado num ponto de referência, ou o mais próximo possível dele, a 70 % no mínimo do caudal máximo e a 50 Pa, no caso de unidades com condutas, e a uma pressão mínima, no caso de unidades sem condutas. No caso de unidades de ventilação bidirecionais, o fluxo volumétrico de ar de referência aplica-se à abertura de insuflação do ar;\n\n16) «Fator de controlo (CTRL)»: fator de correção do cálculo do consumo específico de energia, em função do tipo de controlo que faz parte da unidade de ventilação, de acordo com a descrição do anexo VIII, quadro 1;\n\n17) «Parâmetro de controlo»: um parâmetro mensurável ou conjunto de parâmetros mensuráveis que se considerem ser representativos da procura de ventilação, por exemplo, o nível de humidade relativa (RH), de dióxido de carbono (CO2), de compostos orgânicos voláteis (VOC) ou de outros gases, a deteção de presença, movimento ou ocupação a partir do calor corporal infravermelho ou da reflexão de ondas ultrassónicas, ou sinais elétricos provenientes da intervenção humana nas luzes ou no equipamento;\n\n18) «Controlo manual»: qualquer tipo de controlo sem sistema de controlo da procura;\n\n19) «Controlo da procura»: dispositivo ou conjunto de dispositivos que, de forma integrada ou autónoma, medem um parâmetro de controlo e utilizam o resultado dessa medição para regular automaticamente o caudal da unidade e/ou os caudais das condutas;\n\n20) «Temporizador»: interface humana regulada por um relógio (regulação de controlo diurno) para controlar a velocidade da ventoinha ou o caudal da unidade de ventilação, incluindo um mínimo de sete ajustes manuais semanais do caudal regulável, com pelo menos dois períodos de repouso, ou seja, períodos com um caudal reduzido ou nulo;\n\n21) «Ventilação com procura controlada (DCV)»: unidade de ventilação com sistema de controlo da procura;\n\n22) «Unidade com condutas»: unidade de ventilação destinada a ventilar uma ou várias divisões ou espaço fechado num edifício, através da utilização de condutas de ar, e a ser equipada com ligações de condutas;\n\n23) «Unidade sem condutas»: unidade de ventilação destinada a ventilar uma única divisão ou espaço fechado num edifício, que não se destinada a ser equipada com ligações de condutas;\n\n24) «Controlo da procura central»: controlo da procura de uma unidade de ventilação com condutas que regula continuamente a velocidade ou velocidades da ventoinha e o caudal, com base, pelo menos, num sensor para todo edifício ou parte do edifício ventilado a nível centralizado;\n\n25) «Controlo da procura local»: controlo da procura de uma unidade de ventilação que regula continuamente a velocidade ou velocidades da ventoinha e os caudais com base em vários sensores, para uma unidade de ventilação com condutas, ou num único sensor, para uma unidade sem condutas;\n\n26) «Pressão estática (psf)»: pressão total menos a pressão dinâmica da ventoinha;\n\n27) «Pressão total (pf)»: diferença entre a pressão de estagnação na saída da ventoinha e a pressão de estagnação na entrada da ventoinha;\n\n28) «Pressão de estagnação»: pressão medida num ponto de um fluxo de gás quando posto em repouso através de um processo de transformação isentrópica;\n\n29) «Pressão dinâmica»: pressão calculada a partir do caudal mássico e da densidade média do gás na saída e na área de saída da unidade;\n\n30) «Permutador de calor recuperador»: permutador de calor destinado a transferir energia térmica de um fluxo de ar para outro sem peças móveis, como por exemplo um permutador de calor de placas ou tubos, com fluxos paralelos, cruzados ou em contracorrente, ou uma combinação dos três, ou um permutador de calor de placas ou tubos com difusão de vapor;\n\n31) «Permutador de calor regenerador»: permutador de calor rotativo que contém um elemento giratório para transferir energia térmica de um fluxo de ar para outro, incluindo material capaz de transferir calor latente, um mecanismo de acionamento, uma caixa ou armação, e juntas para reduzir as derivações e fugas de ar de um fluxo para outro; estes permutadores de calor apresentam vários graus de recuperação de humidade em função do material utilizado;\n\n32) «Sensibilidade do fluxo de ar às variações de pressão»: numa UVR sem condutas significa o rácio entre o desvio máximo do caudal máximo da UVR a + 20 Pa e a – 20 Pa de diferença de pressão externa total;\n\n33) «Estanquidade ao ar interior/exterior»: numa UVR sem condutas significa o fluxo de ar (expresso em m^3^/h) entre o interior e o exterior quando a ventoinha está desligada;\n\n34) «Unidade de dupla utilização»: unidade de ventilação concebida para fins de ventilação, bem como para extração de fumo e incêndios, que cumpre os requisitos básicos aplicáveis às obras de construção em matéria de segurança em caso de incêndio como referido no Regulamento (UE) n.º 305/2011;\n\n35) «Dispositivo de derivação de calor»: qualquer solução que sirva de desvio ao permutador de calor ou que controle automatica ou manualmente a sua recuperação de calor, sem necessitar obrigatoriamente de um dispositivo físico de derivação do caudal de ar (p. ex., «summer box», controlo da velocidade do rotor e controlo do caudal de ar);\n\n2. **Definições relativas às UVNR, além das definições no anexo I, parte 1:**\n\n1) «Potência elétrica de entrada nominal (P)» (expressa em kW): potência elétrica efetiva absorvida pelo sistema de transmissão das ventoinhas, incluindo eventuais elementos de controlo do motor, à pressão externa nominal e em caudal de ar nominal;\n\n2) «Eficiência da ventoinha (ηfan)»: eficiência estática, incluindo a eficiência do motor e do sistema de transmissão de cada ventoinha da unidade de ventilação (configuração de referência), determinada em caudal nominal e diminuição da pressão externa nominal;\n\n3) «Configuração de referência de uma UVB»: um produto configurado com uma caixa, pelo menos duas ventoinhas com sistema de transmissão variável ou de várias velocidades, um sistema de recuperação de calor, um filtro fino limpo no lado de entrada do ar e um filtro médio no lado de saída do ar;\n\n4) «Configuração de referência de uma UVU»: um produto configurado com uma caixa, pelo menos duas ventoinhas com sistema de transmissão variável ou de várias velocidades, e — no caso de um produto que se destine a ser equipado com um filtro no lado de entrada do ar — um filtro fino limpo;\n\n5) «Eficiência mínima da ventoinha (ηνu)»: requisito específico de eficiência mínima aplicável às UV abrangidas pelo presente regulamento;\n\n6) «Caudal nominal (qnom)» (expresso em m^3^/s): caudal de conceção declarado de uma UVNR, em condições atmosféricas normais de 20 °C e a 101 325 Pa, quando a unidade seja instalada completa (por exemplo, com filtros) e de acordo com as instruções do fabricante;\n\n7) «Pressão externa nominal (Δps, ext)» (expressa em Pa): diferença de pressão estática externa de conceção declarada, em caudal nominal;\n\n8) «Velocidade máxima nominal da ventoinha (vfan_rated)» (expressa em rotações por minuto — rpm): velocidade da ventoinha em caudal nominal e à pressão externa nominal;\n\n9) «Diminuição da pressão interna dos componentes de ventilação (Δps,int)» (expressa em Pa): soma das diminuições de pressão estática de uma configuração de referência de uma UVB ou uma UVU em caudal nominal;\n\n10) «Diminuição da pressão interna dos componentes adicionais não destinados à ventilação (Δps,add)» (expressa em Pa): resto da soma de todas as diminuições de pressão estática interna em caudal nominal e à pressão externa nominal, após subtração da diminuição de pressão interna dos componentes de ventilação (Δps,int);\n\n11) «Eficiência térmica de um sistema de recuperação de calor não residencial (ηt_nrvu)»: rácio entre a elevação da temperatura do ar insuflado e a diminuição da temperatura do ar extraído, ambas em relação com a temperatura exterior, medidas em condições de referência em estado seco, com um caudal mássico equilibrado e uma diferença térmica entre o interior e o exterior de 20 K, excluindo os ganhos de calor procedentes dos motores das ventoinhas e das fugas internas;\n\n12) «Potência específica interna dos componentes de ventilação (SFPint)» [expressa em W/(m^3^/s)]: rácio entre a diminuição da pressão interna dos componentes de ventilação e a eficiência da ventoinha, determinado para a configuração de referência;\n\n13) «Potência específica máxima interna dos componentes de ventilação (SFPint_limit)» [expressa em W/(m^3^/s)]: requisito específico de eficiência SFPint para as UV abrangidas pelo presente regulamento;\n\n14) «Sistema de recuperação de calor móvel»: sistema em que o dispositivo de recuperação de calor no lado de extração e o dispositivo que fornece o calor recuperado ao fluxo de ar no lado da insuflação num espaço ventilado estão conectados através de um sistema de transferência de calor, em que os dois lados do sistema de recuperação de calor podem ser colocados livremente em diferentes partes de um edifício;\n\n15) «Velocidade nominal» (expressa em m/s): as maiores velocidades de insuflação e de extração do ar. Estas velocidades são as velocidades do ar na UV na superfície interna da unidade para insuflação ou extração do ar da UV. São calculadas ao nível da secção do filtro da unidade respetiva ou, não havendo filtro, ao nível da secção da ventoinha;\n\n16) «Bónus de eficiência (E)»: fator de correção tendo em conta que uma recuperação de calor mais eficiente causa uma maior diminuição da pressão, o que exige uma maior potência específica de ventilação;\n\n17) «Correção dos filtros (F)» (expressa em Pa): valor de correção que deve ser aplicado caso uma unidade se desvie da configuração de referência das UVB;\n\n18) «Filtro fino»: filtro que cumpre as condições pertinentes do anexo IX;\n\n19) «Filtro médio»: filtro que cumpre as condições pertinentes do anexo IX;\n\n20) «Eficiência do filtro»: rácio médio entre a quantidade de pó absorvida e a quantidade de pó colocada no filtro, nas condições descritas no anexo IX para os filtros finos e médios."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "c1172e1229328333": {
+   "fragment_id": "Requisitos específicos de conceção ecológica aplicáveis às UVR, tal como referido no artigo 3.º, n.^os^ 1 e 3",
+   "type": "divisao",
+   "heading": "Requisitos específicos de conceção ecológica aplicáveis às UVR, tal como referido no artigo 3.º, n.^os^ 1 e 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos de conceção ecológica aplicáveis às UVR, tal como referido no artigo 3.º, n.^os^ 1 e 3\n\n1. A partir de 1 de janeiro de 2016:\n\n— O valor do SEC, calculado para um clima temperado, não deverá exceder 0 kWh/(m^2^.a).\n\n— As unidades de ventilação sem condutas, incluindo as unidades que se destinem a ser equipadas com uma ligação de conduta do lado da insuflação ou da extração, deverão ter um LWA máximo de 45 dB.\n\n— Todas as UV, exceto as unidades de dupla utilização, deverão estar equipadas com um sistema de transmissão de várias velocidades ou de velocidade variável.\n\n— Todas as UVB deverão dispor de um sistema de recuperação de calor derivável.\n\n2. A partir de 1 de janeiro de 2018:\n\n— O valor do SEC, calculado para um clima temperado, não deverá exceder – 20 kWh/(m^2^.a).\n\n— As unidades de ventilação sem condutas, incluindo as unidades que se destinem a ser equipadas com uma ligação de conduta do lado da insuflação ou da extração, deverão ter um LWA máximo de 40 dB.\n\n— Todas as UV, exceto as unidades de dupla utilização, deverão estar equipadas com um sistema de transmissão de várias velocidades ou de velocidade variável.\n\n— Todas as UVB deverão dispor de um sistema de recuperação de calor derivável.\n\n— As unidades de ventilação com filtros deverão apresentar um aviso visual alertando para a necessidade de proceder à sua substituição."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a3a7603efc64f182": {
+   "fragment_id": "Requisitos específicos de conceção ecológica aplicáveis às UVNR, tal como referido no artigo 3.º, n.^os^ 2 e 4",
+   "type": "divisao",
+   "heading": "Requisitos específicos de conceção ecológica aplicáveis às UVNR, tal como referido no artigo 3.º, n.^os^ 2 e 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos de conceção ecológica aplicáveis às UVNR, tal como referido no artigo 3.º, n.^os^ 2 e 4\n\n1. A partir de 1 de janeiro de 2016:\n\n— Todas as unidades de ventilação, exceto as unidades de dupla utilização, deverão estar equipadas com um sistema de transmissão de várias velocidades ou de velocidade variável.\n\n— Todas as UVB deverão dispor de um sistema de recuperação de calor.\n\n— O sistema de recuperação de calor deverá ter um mecanismo de derivação térmica.\n\n— A eficiência térmica mínima *ηt_nrvu* de todos os sistemas de recuperação de calor, exceto os móveis em UVB, será de 67 %, com um bónus de eficiência E = (*ηt_nrvu* – 0,67)*3 000, se a eficiência térmica *ηt_nrvu* for, pelo menos, de 67 %, e E = 0, em qualquer outro caso.\n\n— A eficiência térmica mínima *ηt_nrvu* dos sistemas de recuperação de calor móveis em UVB será de 63 %, com um bónus de eficiência E = (*ηt_nrvu* – 0,63)*3 000, se a eficiência térmica *ηt_nrvu* for pelo menos de 63 %, e E = 0 em qualquer outro caso.\n\n— A eficiência mínima da ventoinha para as UVU (*ηνu*) é:\n\n— 6,2 % * ln(P) + 35,0 % se P ≤ 30 kW e\n\n— 56,1 % se P > 30 kW.\n\n— A potência interna máxima específica de ventilação dos componentes de ventilação (*SFPint_limit*) em W/(m^3^/s) é:\n\n— no caso de UVB com sistema de recuperação de calor móvel\n\n— no caso de UVB com outros sistemas de recuperação de calor\n\n— 250 para uma UVU que se destine a ser utilizada com filtro.\n\n2. A partir de 1 de janeiro de 2018:\n\n— Todas as unidades de ventilação, exceto as unidades de dupla utilização, deverão estar equipadas com um sistema de transmissão de várias velocidades ou de velocidade variável.\n\n— A eficiência térmica mínima *ηt_nrvu* de todos os sistemas de recuperação de calor, exceto os móveis em UVB, será de 73 %, com um bónus de eficiência E = (*ηt_nrvu* – 0,73)*3 000, se a eficiência térmica *ηt_nrvu* for pelo menos de 73 %, e E = 0 em qualquer outro caso.\n\n— A eficiência térmica mínima *ηt_nrvu* dos sistemas de recuperação de calor móveis em UVB será de 68 %, com um bónus de eficiência E = (*ηt_nrvu* – 0,68)*3 000, se a eficiência térmica *ηt_nrvu* for pelo menos de 68 %, e E = 0 em qualquer outro caso.\n\n— A eficiência mínima da ventoinha para as UVU (*ηνu*) é:\n\n— 6,2 % * ln(P) + 42,0 % se P ≤ 30 kW e\n\n— 63,1 % se P > 30 kW.\n\n— A potência interna máxima específica de ventilação dos componentes de ventilação (*SFPint_limit*) em W/(m^3^/s) é:\n\n— no caso de UVB com sistema de recuperação de calor móvel\n\n— no caso de UVB com outros sistemas de recuperação de calor\n\n— 230 para uma UVU que se destine a ser utilizada com filtro.\n\n— Se uma unidade de filtro fizer parte da configuração, o produto deverá apresentar um aviso visual ou possuir um alarme no sistema de controlo que será ativado caso a diminuição da pressão do filtro seja superior à diminuição de pressão final máxima admissível."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "9188396ce74f6ec5": {
+   "fragment_id": "Requisitos de informação aplicáveis às UVR, tal como referido no artigo 4.º, n.º 1",
+   "type": "divisao",
+   "heading": "Requisitos de informação aplicáveis às UVR, tal como referido no artigo 4.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de informação aplicáveis às UVR, tal como referido no artigo 4.º, n.º 1\n\n1. A partir de 1 de janeiro de 2016, deverão ser fornecidas as seguintes informações sobre o produto:\n\na) O nome do fornecedor ou a marca comercial;\n\nb) A identificação do modelo dada pelo fornecedor, isto é, o código, geralmente alfanumérico, utilizado para distinguir um modelo específico de unidade de ventilação residencial de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nc) O consumo de energia específico (SEC) em kWh/(m^2^.a), para cada zona climática aplicável; e classe SEC;\n\nd) A tipologia declarada em conformidade com o artigo 2.º do presente regulamento (UVR ou UVNR, unidirecional ou bidirecional);\n\ne) O tipo de transmissão instalada ou que se destine a ser instalada («de várias velocidades» ou «de velocidade variável»);\n\nf) O tipo de sistema de recuperação de calor (recuperador, regenerador ou nenhum);\n\ng) A eficiência térmica da recuperação de calor (em % ou «não aplicável», se o produto não tiver sistema de recuperação de calor);\n\nh) O caudal máximo em m^3^/h;\n\ni) A potência elétrica de entrada do sistema de transmissão da ventoinha, incluindo eventuais equipamentos de controlo do motor, no caudal máximo (W);\n\nj) O nível de potência sonora (Lwa), arredondado para a unidade mais próxima;\n\nk) O caudal de referência expresso em m^3^/s;\n\nl) A diferença de pressão de referência em Pa;\n\nm) A potência de entrada específica (SPI) em W/(m^3^/h);\n\nn) O fator de controlo e a tipologia de controlo, em conformidade com as definições aplicáveis e a classificação indicada no anexo VIII, quadro 1;\n\no) As taxas máximas declaradas de fuga interna e externa (%) para as unidades de ventilação bidirecionais ou retorno (apenas para os permutadores de calor regeneradores) e as taxas de fuga externa (%) para as unidades de ventilação unidirecionais com condutas;\n\np) A taxa de mistura das unidades de ventilação local bidirecionais sem condutas, não destinadas a ser equipadas com uma ligação de conduta do lado da insuflação ou da extração de ar;\n\nq) A localização e a descrição do aviso visual relativo aos filtros, no caso de UVR que se destinem a ser utilizadas com filtros, incluindo um texto realçando a importância de se proceder à sua substituição regular para melhorar o desempenho e a eficiência energética da unidade;\n\nr) No caso de sistemas de ventilação unidirecionais, as instruções de instalação de grelhas regulamentadas de extração/insuflação na fachada de extração/insuflação de ar natural;\n\ns) O endereço Internet com as instruções de desmontagem referidas no ponto 3;\n\nt) Apenas no caso de unidades sem condutas: a sensibilidade do fluxo de ar a variações de pressão a +20Pa e – 20 Pa;\n\nu) Apenas no caso de unidades sem condutas: a estanquidade ao ar interior/exterior em m^3^/h.\n\n2. As informações enumeradas no ponto 1, alíneas a) a v), serão indicadas:\n\n— na documentação técnica das UVR; e\n\n— em sítios *web* de acesso livre dos fabricantes, bem como dos seus representantes autorizados e importadores.\n\n3. O sítio *web* de acesso livre do fabricante disponibilizará instruções pormenorizadas, nomeadamente, identificando os instrumentos necessários à desmontagem manual dos motores de ímanes permanentes e das peças eletrónicas (mapa impresso das ligações/circuitos e mostradores > 10 g ou > 10 cm^2^), baterias e componentes de plástico de maior dimensão (> 100 g), com vista a assegurar uma reciclagem eficiente dos materiais, exceto no caso de modelos para os quais sejam produzidas menos de cinco unidades por ano."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "0faa570bfdf51dd1": {
+   "fragment_id": "Requisitos de informação aplicáveis às UVNR, tal como referido no artigo 4.º, n.º 2",
+   "type": "divisao",
+   "heading": "Requisitos de informação aplicáveis às UVNR, tal como referido no artigo 4.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de informação aplicáveis às UVNR, tal como referido no artigo 4.º, n.º 2\n\n1. A partir de 1 de janeiro de 2016, deverão ser fornecidas as seguintes informações sobre o produto:\n\na) O nome do fabricante ou a marca comercial;\n\nb) A identificação do modelo dada pelo fabricante, isto é, o código, geralmente alfanumérico, utilizado para distinguir um modelo específico de unidade de ventilação não residencial de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nc) A tipologia declarada em conformidade com o artigo 2.º (UVR, UVNR, UVU e UVB);\n\nd) O tipo de transmissão instalada ou que se destine a ser instalada («de várias velocidades» ou «de velocidade variável»);\n\ne) O tipo de sistema de recuperação de calor (móvel, outro ou nenhum);\n\nf) A eficiência térmica da recuperação de calor (em % ou «não aplicável», se o produto não tem sistema de recuperação de calor);\n\ng) O caudal nominal da UVNR expresso em m^3^/s;\n\nh) A potência efetiva de entrada;\n\ni) SFPint em W/(m^3^/s);\n\nj) A velocidade frontal em m/s no caudal de conceção;\n\nk) A pressão externa nominal (Δps, ext) em Pa;\n\nl) A diminuição da pressão interna das componentes de ventilação (Δps,int) em Pa;\n\nm) Opcional: a diminuição da pressão interna das componentes não destinadas à ventilação (Δps, add) em Pa;\n\nn) A eficiência estática das ventoinhas utilizadas em conformidade com o Regulamento (UE) n.º 327/2011;\n\no) A taxa máxima declarada de fuga externa (%) das caixas das unidades de ventilação e a taxa máxima declarada de fuga interna (%) das unidades de ventilação bidirecionais ou retorno (apenas para os permutadores de calor regeneradores); ambas medidas ou calculadas através do ensaio de pressurização ou do ensaio do gás marcador, à pressão do sistema declarada;\n\np) O desempenho energético, de preferência a classificação energética, dos filtros (informação declarada sobre o consumo energético anual calculado);\n\nq) A descrição do aviso visual relativos aos filtros, nas UVNR em que esteja prevista a utilização de filtros, incluindo um texto alertando para a importância de proceder à sua substituição regular, para melhorar o desempenho e a eficiência energética da unidade;\n\nr) No caso de UVNR que se destinem especificamente a ser utilizadas em espaços interiores, o nível de potência sonora da caixa (LWA), arredondado à unidade mais próxima;\n\ns) O endereço Internet com as instruções de desmontagem referidas no ponto 3.\n\n2. As informações enumeradas no ponto 1, alíneas a) a s), serão indicadas:\n\n— na documentação técnica das UVNR; e\n\n— em sítios *web* de acesso livre dos fabricantes, bem como dos seus representantes autorizados e importadores.\n\n3. O sítio *web* de acesso livre do fabricante disponibilizará instruções pormenorizadas, nomeadamente, identificando os instrumentos necessários à pré montagem/desmontagem manual dos motores de ímanes permanentes e das peças eletrónicas (mapas impressos das ligações/circuitos e mostradores > 10 g ou > 10 cm^2^), baterias e componentes de plástico de maior dimensão (> 100 g), com vista a assegurar uma reciclagem eficiente dos materiais, exceto no caso de modelos para os quais sejam produzidas menos de cinco unidades por ano."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "2eeaa45732987f1f": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento, em aplicação do artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do anexo IV, ponto 2, da Diretiva 2009/125/CE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fabricante ou importador do que os resultados das medições correspondentes efetuadas em conformidade com a alínea g) daquela disposição; e\n\nb) Os valores declarados cumprirem os requisitos estabelecidos no presente regulamento, e a informação necessária relativa aos produtos publicada pelo fabricante ou importador não apresentar valores mais favoráveis para o fabricante ou importador do que os valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação constantes do quadro 1.\n\n3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fabricante ou do importador como modelos equivalentes de unidades de ventilação não estão conformes com o presente regulamento.\n\n4) Se não se obtiver o resultado referido no ponto 2, alínea c):\n\na) Para os modelos produzidos em quantidade inferior a cinco por ano, deve considerar-se que o modelo não está conforme com o presente regulamento;\n\nb) Para os modelos produzidos em quantidade igual ou superior a cinco por ano, as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo. Em alternativa, as três unidades adicionais selecionadas podem ser de um ou mais dos modelos indicados como modelos equivalentes na documentação técnica do fabricante ou do importador. O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias de verificação constantes do quadro 1.\n\n5) Se não se obtiver o resultado referido no ponto 4, alínea b), deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fabricante ou do importador como modelos equivalentes de unidades de ventilação não estão conformes com o presente regulamento.\n\n6) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não conformidade do modelo de acordo com o disposto nos pontos 3, 4, alínea a), e 5.\n\nAs autoridades dos Estados-Membros devem utilizar os métodos de medição e de cálculo estabelecidos nos anexos VIII e IX.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 6 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nSPI O valor determinado não pode ser mais do que 1,07 vezes o valor declarado.\n\nEficiência térmica de UVR e UVNR O valor determinado não pode ser menos do que 0,93 vezes o valor declarado.\n\nSFPint O valor determinado não pode ser mais do que 1,07 vezes o valor declarado.\n\nEficiência das ventoinhas de UVU não residenciais O valor determinado não pode ser menos do que 0,93 vezes o valor declarado.\n\nNível de potência sonora das UVR O valor determinado não pode ser superior ao valor declarado, aumentado de 2 dB.\n\nNível de potência sonora de UVNR O valor determinado não pode ser superior ao valor declarado, aumentado de 5 dB."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "3a471d8675b5b94c": {
+   "fragment_id": "Valores de referência",
+   "type": "divisao",
+   "heading": "Valores de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores de referência\n\nUnidades de ventilação residenciais:\n\na) SEC: – 42 kWh/(m^2^.a) para UVB e – 27 kWh/(m^2^.a) para UVU;\n\nb) Recuperação de calor ηt: 90 % para UVB.\n\nUnidades de ventilação não residenciais:\n\na) SFPint: 150 W/(m^3^/s) abaixo do limite Tier 2 para as UVNR com um caudal ≥ 2 m^3^/s, e 250 W/(m^3^/s) abaixo do limite Tier 2 para as UVNR com um caudal < 2 m^3^/s;\n\nb) Recuperação de calor *ηt_nrvu*: 85 %; no caso de sistemas de recuperação de calor móveis, 80 %."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "0d62dce82b448570": {
+   "fragment_id": "Cálculo do requisito relativo ao consumo de energia específico",
+   "type": "divisao",
+   "heading": "Cálculo do requisito relativo ao consumo de energia específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cálculo do requisito relativo ao consumo de energia específico\n\nO consumo de energia específico (SEC) é calculado de acordo com a seguinte equação:\n\nem que:\n\n— SEC representa o consumo de energia específico para ventilar um m^2^ de superfície de solo aquecido numa habitação ou num edifício [kWh/(m^2^.a)];\n\n— *ta* representa as horas de funcionamento anuais [h/a];\n\n— *pef* é o fator de energia primária para a geração e a distribuição de energia elétrica [–];\n\n— *qnet* é a procura líquida de taxa de ventilação por m^2^ de superfície de solo aquecida [m^3^/h.m^2^];\n\n— *MISC* é um fator agregado de tipologia geral que incorpora fatores correspondentes à eficácia de ventilação, às fugas nas condutas e às infiltrações extra [–];\n\n— *CTRL* é o fator de controlo da ventilação [–];\n\n— *x* é um expoente que tem em conta a falta de linearidade entre a energia térmica e a poupança de eletricidade, em função das características do motor e do sistema de transmissão [–];\n\n— *SPI* é a potência de entrada específica [kW/(m^3^/h)];\n\n— *th* é o total de horas durante o período de aquecimento [h];\n\n— *ΔΤh* é a diferença média entre a temperatura interior (19 °C) e a temperatura exterior durante o período de aquecimento, subtraindo uma correção de 3K para os ganhos solares e interiores [K];\n\n— *ηh* representa a eficiência média de aquecimento dos espaços [–];\n\n— *cair* representa a capacidade calorífica específica do ar a uma pressão e densidade constantes [kWh/(m^3^ K)];\n\n— *qref* corresponde à taxa de ventilação natural de referência por m^2^ de superfície de solo aquecida [m^3^/h.m^2^];\n\n— *ηt* é a eficiência térmica da recuperação de calor [–];\n\n— *Qdefr* é a energia de aquecimento anual por m^2^ de superfície habitável aquecida [kWh/m^2^.a] para descongelamento, com base num aquecimento a resistência elétrica variável.\n\n— *tdefr* é a duração do período de descongelamento, ou seja, quando a temperatura exterior é inferior a – 4 °C [h/a], e\n\n— *ΔΤdefr* é a diferença média, em K, entre a temperatura exterior e – 4 °C durante o período de descongelamento.\n\nSPI e *ηt* são valores obtidos a partir dos ensaios e métodos de cálculo.\n\nNo quadro 1 são fornecidos outros parâmetros e os seus valores por defeito.\n\n| ***Tipologia geral*** | **MISC** |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Unidades com condutas | **1,1** |  |  |  |  |\n| Unidades sem condutas | **1,21** |  |  |  |  |\n| *Controlo da ventilação* | **CTRL** |  |  |  |  |\n| Controlo manual (sem DCV) | **1** |  |  |  |  |\n| Temporizador (sem DCV) | **0,95** |  |  |  |  |\n| Controlo da procura central | **0,85** |  |  |  |  |\n| Controlo da procura local | **0,65** |  |  |  |  |\n| *Motor e transmissão* | **Valor x** |  |  |  |  |\n| Ligado/desligado e uma única velocidade | **1** |  |  |  |  |\n| Duas velocidades | **1,2** |  |  |  |  |\n| Várias velocidades | **1,5** |  |  |  |  |\n| Velocidade variável | **2** |  |  |  |  |\n| *Clima* | ***th*** em h | ***ΔΤh*** em K | *tdefr* em h | *ΔΤdefr* em K | ***Qdefr*** [(^*1^)](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0004) kWh/a.m^2^ |\n| Frio | **6 552** | **14,5** | 1 003 | 5,2 | **5,82** |\n| Temperado | **5 112** | **9,5** | 168 | 2,4 | **0,45** |\n| Quente | **4 392** | **5** | — | — | — |\n| *Valores por defeito* | **Valor** |  |  |  |  |\n| Capacidade calorífica específica do ar, *cair* em kWh/(m^3^K) | **0,000344** |  |  |  |  |\n| Procura de ventilação líquida por m^2^ de superfície de solo aquecida, *qnet* em m^3^/h.m^2^ | **1,3** |  |  |  |  |\n| Taxa de ventilação natural de referência por m^2^ de superfície de solo aquecida, *qnet* em m^3^/h.m^2^ | **2,2** |  |  |  |  |\n| Horas de funcionamento anuais, *ta* em h | **8 760** |  |  |  |  |\n| Fator de energia primária para a geração e a distribuição de eletricidade, *pef* | **2,5** |  |  |  |  |\n| Eficiência de aquecimento dos espaços, *ηh* | **75 %** |  |  |  |  |\n| (^*1^)A descongelação aplica-se apenas a unidades bidirecionais com recuperadores de calor e é calculada com a fórmula *Qdefr* = *tdefr* * *Δtdefr* * *cair* * *qnet* * *pef*. Às unidades unidirecionais ou unidades com permutador de calor regenerador aplica-se *Qdefr* = 0. |  |  |  |  |  |"
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "8979cc0f7028c8a8": {
+   "fragment_id": "Medições e cálculos para UVNR",
+   "type": "divisao",
+   "heading": "Medições e cálculos para UVNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medições e cálculos para UVNR\n\nAs UVNR serão ensaiadas e calculadas utilizando uma «configuração de referência» do produto.\n\nAs unidades de dupla utilização serão ensaiadas e calculadas em modo de ventilação. 1."
+  },
+  "865862e6db1844d8": {
+   "fragment_id": "1. Eficiência térmica de um sistema de recuperação de calor não residencial",
+   "type": "divisao",
+   "heading": "1. Eficiência térmica de um sistema de recuperação de calor não residencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Eficiência térmica de um sistema de recuperação de calor não residencial\n\nA eficiência térmica de um sistema de recuperação de calor não residencial é definida como\n\nem que\n\n— *ηt* é a eficiência térmica do sistema de recuperação de calor [–];\n\n— *t2′′* é a temperatura do ar insuflado que sai do sistema de recuperação de calor e entra no espaço interior [°C];\n\n— *t2′* é a temperatura do ar exterior [°C];\n\n— *t1′* é a temperatura do ar extraído, que sai do espaço interior e entra no sistema de recuperação de calor [°C]."
+  },
+  "e56bf47e438d3beb": {
+   "fragment_id": "2. Correção dos filtros",
+   "type": "divisao",
+   "heading": "2. Correção dos filtros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Correção dos filtros\n\nSe faltar um ou ambos os filtros da configuração de referência, deve utilizar-se a seguinte correção dos filtros:\n\nUm «*filtro fino*» é um filtro que cumpre as condições de eficiência dos filtros de acordo com o ensaio e os métodos de cálculos seguintes, a declarar pelo fabricante do filtro: os filtros finos são ensaiados com um caudal de ar de 0,944 m^3^/s e uma dimensão do filtro de 592 × 592 mm (estrutura de instalação de 610 × 610 mm) (velocidade frontal de 2,7 m/s). Após correta preparação, calibração e verificação da uniformidade do fluxo de ar, mede-se a eficiência inicial do filtro e a diminuição de pressão no filtro limpo. O filtro é depois progressivamente carregado com um pó apropriado, até se verificar uma diminuição final da pressão no filtro de 450 Pa. Primeiro são carregados 30 g no gerador de pó, respeitando no mínimo quatro cargas de pó equidistantes, antes de se obter a pressão final. O pó é carregado no filtro com uma concentração de 70 mg/m^3^. A eficiência do filtro é medida através de gotículas de dimensão 0,2 a 3 μm de um aerossol de ensaio (DEHS «DiEthylHexylSebacate»), a uma velocidade aproximada de 0,39 dm^3^/s (1,4 m^3^/h). As partículas são contadas 13 vezes, sucessivamente a montante e a jusante do filtro, com intervalos mínimos de 20 segundos, utilizando um contador ótico de partículas. Determinam-se a eficiência incremental do filtro e os valores da diminuição de pressão. Calcula-se a eficiência média do filtro com base no ensaio de acordo com as várias dimensões das partículas. Para ser considerado um «filtro fino», a eficiência média com partículas de tamanho 0,4 μm deve ser superior a 80 % e a eficiência mínima exceder 35 %. A eficiência mínima é a mais baixa entre a eficiência sem carga, a eficiência inicial ou a eficiência mais baixa durante todo o procedimento de carga do ensaio. O ensaio da eficiência sem carga é, em grande medida, idêntico ao ensaio da eficiência média descrito anteriormente, com a diferença de que a amostra de placa de filtragem se descarrega eletroestaticamente com isopropanol (IPA) antes do ensaio.\n\nUm «*filtro médio*» é um filtro que cumpre as seguintes condições de eficiência: tem de ser um filtro de ar destinado a uma unidade de ventilação cujo desempenho seja ensaiado e calculado como para o filtro fino, com a diferença de que a eficiência média com partículas de tamanho 0,4 μm deve ser superior a 40 %, a declarar pelo fabricante do filtro.\n\n---"
+  },
+  "4dd96d01e7d13be2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva 94/9/CE do Parlamento Europeu e do Conselho, de 23 de março de 1994, relativa à aproximação das legislações dos Estados-Membros sobre aparelhos e sistemas de proteção destinados a ser utilizados em atmosferas potencialmente explosivas (JO L 100 de 19.4.1994, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 305/2011 do Parlamento Europeu e do Conselho, de 9 de março de 2011, que estabelece condições harmonizadas para a comercialização dos produtos de construção e que revoga a Diretiva 89/106/CEE do Conselho (JO L 88 de 4.4.2011, p. 5).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (UE) n.º 66/2014 da Comissão, de 14 de janeiro de 2014, que dá execução à Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de conceção ecológica para fornos, placas e exaustores de cozinha domésticos (JO L 29 de 31.1.2014, p. 33)."
+  }
+ }
+}

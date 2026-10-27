@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:147831:por
+title: Portaria n.º 564/70
+short_title: null
+summary: Dá nova redacção ao n.º 1 do artigo 11.º do Regulamento de Casas Económicas da Obra Social do Ministério do Ultramar,
+  em Regime de Propriedade Resolúvel, aprovado pela Portaria n.º 23785
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: 564/70
+official_date: null
+publication_date: '1970-11-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 257/1970, Série I de 1970-11-05
+  number: '257'
+  series: I
+  supplement: null
+  pages: 1664 - 1664
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/11/25700/16641664.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '147831'
+  dre_path: /dr/detalhe/portaria/564-1970-147831
+  internal: pt:dre:147831:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-1970-147831
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-1970-147831
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:21:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d489a06478046425cc3af177c563b66b773b99b3c88643dc2ec8f2163371acd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ação Social
+- Aquisição de Imóveis
+- Contrato de Compra e Venda
+- Funcionário Público
+- Habitação Social
+- Juros
+- Ministério do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:262296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527453:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:21:03Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 564/70
+
+de 5 de Novembro
+
+Tornando-se necessário alterar a taxa de juro estabelecida na [Portaria n.º 23934](https://diariodarepublica.pt/dr/detalhe/portaria/23934-1969-527453), de 22 de Fevereiro de 1969, por manifestamente desactualizada face ao aumento de encargos operado no mercado de capitais;
+
+Tendo em conta que só por meio de tal actualização é possível assegurar o harmónico e progressivo desenvolvimento das diversas actividades da Obra Social do Ministério do Ultramar, em especial a do sector de casas económicas em regime de propriedade resolúvel, de todos o que mais necessita de recorrer ao referido mercado;
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º V da base X da Lei Orgânica do Ultramar Português, o seguinte:
+
+Artigo 1.º O n.º 1 do artigo 11.º do Regulamento de Casas Económicas da Obra Social do Ministério do Ultramar, em Regime de Propriedade Resolúvel, aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968, passa a ter a seguinte redacção:
+
+Art. 11.º - 1. Os beneficiários a quem hajam sido atribuídas casas económicas adquirem a sua posse e propriedade resolúvel mediante a celebração do respectivo contrato de compra e venda, do qual deverá constar o preço, que corresponderá ao capital investido e em dívida, acrescido do juro de 4 por cento ao ano, as entregas iniciais para amortização, a identificação completa do prédio, o montante de cada mensalidade, o prazo de amortização expresso em meses e, bem assim, quaisquer outras condições que forem reputadas necessárias.
+
+Art. 2.º O aumento de encargos resultante da elevação da taxa de juro consequente da presente portaria não será levado em conta para efeito do cômputo do terço do rendimento do agregado familiar a que alude o n.º 1 do artigo 5.º do regulamento aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968.
+
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

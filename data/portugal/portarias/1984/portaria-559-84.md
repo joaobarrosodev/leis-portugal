@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:381530:por
+title: Portaria n.º 559/84
+short_title: null
+summary: Dá nova redacção aos n.os 1.º e 12.º e altera o quadro I da Portaria n.º 5/84, de 4 de Janeiro, que actualiza o sistema
+  de crédito à aquisição de casa própria
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e do Equipamento Social
+proposing_entity: null
+official_number: 559/84
+official_date: null
+publication_date: '1984-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1984, Série I de 1984-08-03
+  number: '179'
+  series: I
+  supplement: null
+  pages: 2379 - 2379
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/08/17900/23792379.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '381530'
+  dre_path: /dr/detalhe/portaria/559-1984-381530
+  internal: pt:dre:381530:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1984-381530
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1984-381530
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4c37689a23bdc51658f5d3f7265f77f65306b090d80811409475d478823beb60
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:326125:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:400015:por
+  label: "Alterados relativamente à Região Autónoma dos Açores os valores constantes do quadro I anexo à Port 5/84, de 04-Jan,\
+    \ com a redacção constante do presente diploma, pela PORT.796/84.11.10.1984.MFP, DR.IS [236] de 11.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/796-1984-400015
+  date: '1984-10-11'
+- type: amended_by
+  target: pt:dre:399996:por
+  label: "Alterados relativamente à Região Autónoma da Madeira os valores constantes do quadro I anexo à Port 5/84, de 04-Jan,\
+    \ com a redacção do presente diploma, pela PORT.799/84.12.10.1984.MFP, DR.IS [237] de 12.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-1984-399996
+  date: '1984-10-12'
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531842:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326125:por
+  label: "Revogada pela PORT.124/85.1985.03.02.MFP DR.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/124-1985-326125
+  date: '1985-03-02'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:07:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 559/84
+
+de 3 de Agosto
+
+Tendo em consideração a evolução dos custos de construção e seus reflexos no regime de crédito à aquisição, construção, recuperação, beneficiação ou ampliação de habitação própria permanente, estabelecido no [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, torna-se necessário alterar os escalões fixados no n.º 12.º da [Portaria n.º 5/84](https://diariodarepublica.pt/dr/detalhe/portaria/5-1984-531842), de 4 de Janeiro, e no quadro II anexo à mesma portaria.
+
+Assim, manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Equipamento Social, nos termos e em execução do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), o seguinte:
+
+1.º Os n.os 1.º e 12.º da [Portaria n.º 5/84](https://diariodarepublica.pt/dr/detalhe/portaria/5-1984-531842), de 4 de Janeiro, passam a ter a seguinte redacção:
+
+1.º Para efeitos de enquadramento nos benefícios previstos no [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, os fogos a adquirir, construir, recuperar, beneficiar ou ampliar serão distribuídos pelas classes A, B, C e D, conforme estabelece o artigo 6.º do mesmo decreto-lei, segundo os valores constantes do quadro I anexo à presente portaria.
+
+12.º O rendimento a que se refere o n.º 1 do artigo 7.º do citado decreto-lei é distribuído pelos 3 escalões, como segue:
+
+Escalão I - Até 600000$00;
+
+Escalão II - De 600001$00 a 760000$00;
+
+Escalão III - De 760001$00 a 1000000$00.
+
+2.º O quadro I anexo à [Portaria n.º 5/84](https://diariodarepublica.pt/dr/detalhe/portaria/5-1984-531842), de 4 de Janeiro, é substituído pelo seguinte:
+
+QUADRO I
+
+Classes de fogos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/17900/23792379.pdf)
+
+Ministérios das Finanças e do Plano e do Equipamento Social.
+
+Assinada em 11 de Julho de 1984.
+
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.

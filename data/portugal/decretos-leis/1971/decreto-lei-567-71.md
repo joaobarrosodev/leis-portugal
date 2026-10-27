@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:632235:por
+title: Decreto-Lei n.º 567/71
+short_title: null
+summary: Determina que o Serviço de Fardamento, criado no Comando-Geral da Guarda Nacional Republicana pelo Decreto-Lei n.º
+  45343, passe a denominar-se Serviço de Intendência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Comando-Geral da Guarda Nacional Republicana
+proposing_entity: null
+official_number: 567/71
+official_date: null
+publication_date: '1971-12-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 297/1971, Série I de 1971-12-21
+  number: '297'
+  series: I
+  supplement: null
+  pages: 1972 - 1972
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29700/19721972.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '632235'
+  dre_path: /dr/detalhe/decreto-lei/567-1971-632235
+  internal: pt:dre:632235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/567-1971-632235
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/567-1971-632235
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b61069ba3c0bf74396d037c87d7f4a8c397e827aee261befd9e75a828b102ad5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- GNR
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:688203:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:21:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 567/71
+
+de 21 de Dezembro
+
+Usando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O Serviço de Fardamento, criado no Comando-Geral da Guarda Nacional Republicana pelo [Decreto-Lei n.º 45343](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45343-1963-688203), de 7 de Novembro de 1963, passa a denominar-se Serviço de Intendência.
+
+Art. 2.º Ao Serviço de Intendência da Guarda Nacional Republicana compete o abastecimento de víveres, combustíveis, lubrificantes, fardamento, equipamento e material de intendência.
+
+Art. 3.º O Serviço de Intendência criado pelo presente decreto-lei funcionará de acordo com as instruções a emitir pelo Comando-Geral.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
+
+Promulgado em 10 de Dezembro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

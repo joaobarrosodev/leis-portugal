@@ -1,0 +1,870 @@
+---
+schema_version: '1.0'
+id: pt:dre:312185:por
+title: Portaria n.º 579/75
+short_title: null
+summary: Expropria vários prédios rústicos do distrito de Évora
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 579/75
+official_date: null
+publication_date: '1975-09-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 221/1975, Série I de 1975-09-24
+  number: '221'
+  series: I
+  supplement: null
+  pages: 1471 - 1479
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/09/22100/14711479.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '312185'
+  dre_path: /dr/detalhe/portaria/579-1975-312185
+  internal: pt:dre:312185:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-1975-312185
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-1975-312185
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:50:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6a8596ba89bfcea5938f518718c3ab35eac2271ad5d2588c301622dae1bd98a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Évora
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+relationships:
+- type: amended_by
+  target: pt:dre:1922096:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:251379:por
+  label: Derrogada, na parte relativa à expropriação dos prédios rústicos denominados Parracha de Cima, Chaparral, Chaminé
+    e Guisada, do concelho de Arraiolos, pelo(a) Portaria n.º 482/77 - Diário da República n.º 175/1977, Série I de 1977-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/482-1977-251379
+  date: '1977-07-30'
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:446551:por
+  label: Alterada, no que respeita aos nomes nela indicados como sendo os proprietários do prédio Herdade de Vale de Nogueira,
+    e derrogada, relativamente à expropriação do prédio denominado «Herdade de Nogueira», a presente portaria pelo(a) Portaria
+    n.º 108/78 - Diário da República n.º 44/1978, Série I de 1978-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-1978-446551
+  date: '1978-02-22'
+- type: amended_by
+  target: pt:dre:328041:por
+  label: Derrogada, no referente ao prédio «Presa», pelo(a) Portaria n.º 629/78 - Diário da República n.º 242/1978, Série
+    I de 1978-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1978-328041
+  date: '1978-10-20'
+- type: amended_by
+  target: pt:dre:382810:por
+  label: "Reformada, na parte relativa à expropriação da Herdade do Vidigal e anexas, pela PORT.147/79.03.04.1979.MAP, DR.IS\
+    \ [78] de 03.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1979-382810
+  date: '1979-04-03'
+- type: amended_by
+  target: pt:dre:382613:por
+  label: "Prorrogado, até 31.07.1979, o prazo de intervenção do Estado na Sociedade Agrícola da Herdade da Palma, expropriada\
+    \ pelo presente diploma, pela RES.155/79.18.05.1979.PCM, DR.IS [114] de 18.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/155-1979-382613
+  date: '1979-05-18'
+- type: amended_by
+  target: pt:dre:381289:por
+  label: "Derroga relativamente ao prédio rústico denominado «Herdade das Figueiras»., pela PORT.366/79.25.07.1979.MAP, DR.IS\
+    \ [170] de 25.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-1979-381289
+  date: '1979-07-25'
+- type: amended_by
+  target: pt:dre:396773:por
+  label: "Determinada a cessação da intervenção do Estado na Sociedade Agrícola Herdade de Palma SARL, expropriada pelo presente\
+    \ diploma, pela RES.229-A/79.01.08.1979.PCM, DR.IS [176-3ºSupl] de 01.08.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/229-a-1979-396773
+  date: '1979-08-01'
+- type: amended_by
+  target: pt:dre:678977:por
+  label: "Reformada pela PORT.77/80.01.03.1980.MAP, DR.IS [51] de 01.03.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-1980-678977
+  date: '1980-03-01'
+- type: amended_by
+  target: pt:dre:678069:por
+  label: "Derrogada, em parte pela PORT.115/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1980-678069
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:579561:por
+  label: "Desanexadas duas parcelas de terreno do prédio rústico \"Herdade da Aldeia de Cima, Herdade da Fonte do Pote\" pela\
+    \ Portaria 631/81.23.07.1981.MFP, DR.IS [167] de 23.07.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1981-579561
+  date: '1981-07-23'
+- type: amended_by
+  target: pt:dre:450842:por
+  label: "Derrogado o presente diploma, no disposto ao n.º 108, pela PORT.550/83.10.05.1983.MACP, DR.IS [107] de 10.05.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-1983-450842
+  date: '1983-05-10'
+- type: amended_by
+  target: pt:dre:1325655:por
+  label: "Derrogada, na parte em que expropria a área de 145,5900 ha do prédio rústico denominado \"Herdade da Defesa de Baixo\"\
+    , pela PORT.DD351.19.09.1990.PCM, DR.IIS [217] de 19.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-1325655
+  date: '1990-09-19'
+- type: amended_by
+  target: pt:numero:portaria:247/92
+  label: DERROGADA EM PARTE PELA PORT 247/92II DE 31-JUL DA PCM E SEAG-MA DR.IIS [185] DE 12/AGO/1995
+  source: null
+  date: '1992-08-12'
+- type: amended_by
+  target: pt:numero:portaria:256/92
+  label: DERROGADA EM PARTE PELA PORT 256/92IIS DE 10-AGO DA PCM E MA DR.IIS [190] DE 19/AGO/1992
+  source: null
+  date: '1992-08-19'
+- type: amended_by
+  target: pt:numero:portaria:40/93
+  label: DERROGADA EM PARTE PELA PORT 40/93IIS DE 18-JAN DA PCM E MA DR.IIS [24] DE 29/JAN/1993
+  source: null
+  date: '1993-01-29'
+- type: amended_by
+  target: pt:numero:portaria:54/93
+  label: DERROGADA EM PARTE PELA PORT 54/93IIS DE 18-JAN DA PCM E MA DR.IIS [39] DE 16/FEV/1993
+  source: null
+  date: '1993-02-16'
+- type: amended_by
+  target: pt:numero:portaria:117/93
+  label: DERROGADA EM PARTE PELA PORT 117/93IIS DE 11-MAI DA PCM E MA DR.IIS [117] DE 20/MAI/1993
+  source: null
+  date: '1993-05-20'
+- type: amended_by
+  target: pt:numero:portaria:142/93
+  label: DERROGADA EM PARTE PELA PORT 142/93IIS DE 07-JUN DA PCM E MA DR.IIS [145] DE 23/JUN/1993
+  source: null
+  date: '1993-06-23'
+- type: amended_by
+  target: pt:numero:portaria:129/94
+  label: DERROGADA EM PARTE PELA PORT 129/94IIS DE 21-SET DA PCM E MA DR.IIS [228] DE 01/OUT/1994
+  source: null
+  date: '1994-10-01'
+- type: amended_by
+  target: pt:dre:1146205:por
+  label: "Derrogada na parte relativa aos prédios rústicos \"Monte Branco\" e \"Santana\" pela PORT.534/99(2ªSÉRIE).1999.05.05.PCM\
+    \ DR.IIS [117] de 20/Mai/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/534-1999-1146205
+  date: '1999-05-05'
+- type: amended_by
+  target: pt:dre:3456766:por
+  label: "Derrogada na parte relativa ao prédio rústico \"Sítima e anexas\" pela PORT.630/99(2ªSÉRIE).1999.06.01.PCM DR.IIS\
+    \ [141] de 19/Jun/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-1999-3456766
+  date: '1999-06-01'
+- type: amended_by
+  target: pt:dre:2509772:por
+  label: "Derrogada na parte referente aos prédios rústicos denominados \"Pantoja\" e \"Casa Velha\" pela PORT.741/2000(2ªSÉRIE).2000.04.13.PCM\
+    \ DR.IIS [106] 08/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-2000-2509772
+  date: '2000-04-13'
+- type: amended_by
+  target: pt:dre:1757284:por
+  label: "Derrogado, na parte referente ao prédio rústico \"Herdade do Vale do Rico Homem\" pela PORT.1564/2001(2ªSÉRIE).2001.08.23.PCM,\
+    \ DR.IIS [220] de 21/Set/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1564-2001-1757284
+  date: '2001-08-23'
+- type: amended_by
+  target: pt:dre:1237806:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Herdade do Vale do Rico Homem\" pela PORT.1837/2001(2ªSÉRIE).2001.10.23.PCM,\
+    \ DR.IIS [262] de 12/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1837-2001-1237806
+  date: '2001-10-23'
+- type: amended_by
+  target: pt:dre:1922096:por
+  label: "Derrogada parte pela PORT.226/2005(2ªSérie).09.02.2005.PCM, DR.IIS [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-2005-1922096
+  date: '2005-02-09'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:470821:por
+  label: "Revogada, relativamente à expropriação dos prédios n.ºs 73) e 75), pela PORT.521/80.14.08.1980.MAP, DR.IS [187]\
+    \ de 14.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/521-1980-470821
+  date: '1980-08-14'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:50:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 579/75
+
+de 24 de Setembro
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, sob proposta do Conselho Regional de Reforma Agrária do Distrito de Évora e nos termos dos artigos 1.º e 8.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, expropriar os prédios rústicos abaixo discriminados:
+
+1) Herdade da Chaminé:
+
+Matriz cadastral: artigo 1, secção L-L1, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora do Bispo, com 416,6250 ha (equivalente a 55136,8 pontos), propriedade de Abílio Inácio Freixo e João Inácio Freixo.
+
+2) Herdade das Galerias:
+
+Matriz cadastral: artigo 62, secção 63, do concelho de Viana do Alentejo, freguesia de Viana do Alentejo, com 207,05 ha, propriedade de José Dias Parreira Capas e Sousa e António Dias Capas e Sousa.
+
+3) Herdade da Monteza:
+
+Matris cadastral: artigo 5, secção G, do concelho de Viana do Alentejo, freguesia de Viana do Alentejo, com 127,95 ha, propriedade de José Dias Parreira Capas e Sousa e António Dias Capas e Sousa.
+
+4) Herdade de Pantoja:
+
+Matriz cadastral: artigo 1, secção L, do concelho de Viana do Alentejo, freguesia de Viana do Alentejo, com 266,2750 ha, propriedade de José Dias Parreira Capas e Sousa e António Dias Capas e Sousa.
+
+5) Herdade da Casa Velha:
+
+Matriz cadastral: artigo 2, secção L, do concelho de Viana do Alentejo, freguesia de Viana do Alentejo, com 110,90 ha, propriedade de José Dias Parreira Capas e Sousa e António Dias Capas e Sousa.
+
+6) Herdades da Espadaneira, Laranjo, Capela e Ferreira:
+
+Matriz cadastral: artigo 1, secção G, do concelho de Viana do Alentejo, freguesia de Viana do Alentejo, com 231,1250 ha, propriedade de José Dias Parreira Capas e Sousa e António Dias Capas e Sousa.
+
+7) Herdade do Monte Novo:
+
+Matriz cadastral: artigo 1, secção U-U1, do concelho de Portel, freguesia de Portel, com 563,6750 ha, propriedade de Maria Teresa de Lencastre de Melo de Vasconcelos e Sousa.
+
+8) Herdade da Zangarilha:
+
+Matriz cadastral: artigo 2, secção U1, do concelho de Portel, freguesia de Portel, com 177,0250 ha, propriedade de Maria Teresa de Lencastre de Melo de Vasconcelos e Sousa.
+
+9) Herdade de Vale Redondo:
+
+Matriz cadastral: artigo 1, secção T, do concelho de Portel, freguesia de Portel, com 113,70 ha, propriedade de Maria Teresa de Lencastre de Melo de Vasconcelos e Sousa.
+
+10) Herdade de Vale de Cortiçais:
+
+Matriz cadastral: artigo 3, secção U1, do concelho de Portel, freguesia de Portel, com 122,35 ha, propriedade de Maria Teresa de Lencastre de Melo de Vasconcelos e Sousa.
+
+11) Herdade de Cambetas:
+
+Matriz cadastral: artigo 2, secção T, do concelho de Portel, freguesia de Portel, com 55,40 ha, propriedade de Maria Teresa de Lencastre de Melo de Vasconcelos e Sousa.
+
+12) Herdade do Vale do Rico Homem:
+
+Matriz cadastral: artigo 1, secção H-H1, do concelho de Évora, freguesia de S. Manços, com 877,9250 ha, propriedade de Maria da Glória Papança Fernandes.
+
+13) Herdade da Defesa da Bobadela de Cima:
+
+Matriz cadastral: artigo 2, secção B, do concelho de Alandroal, freguesia de Capelins (Santo António), com 667 ha, propriedade de Luís Dias Coutinho.
+
+14) Herdade da Defesa de Ferreira:
+
+Matriz cadastral: artigo 1, secção F, do concelho de Alandroal, freguesia de Capelins, com 514,7250 ha, propriedade de Luís Dias Coutinho.
+
+15) Herdade de Vale de Rebolo, S. João, Castanheiros e Abegoaria:
+
+Matriz cadastral: artigo 1, secção F-F1, do concelho de Portel, freguesia de Portel, com 1083,7750 ha, propriedade da Fundação da Casa de Bragança.
+
+16) Herdade da Cavaleira:
+
+Matriz cadastral: artigo 3, secção G, do concelho de Portel, freguesia de Portel, com 120,20 ha, propriedade da Fundação da Casa de Bragança.
+
+17) Herdades Barrosas, Corujeira e Várzeas:
+
+Matriz cadastral: artigo 1, secção M-MA-MM2, do concelho de Montemor, freguesia de Lavre, com 1644,6750 ha, propriedade de José Infante da Câmara.
+
+18) Herdade do Pedrógão:
+
+Matriz cadastral: artigo 1, secção L-L1, do concelho de Montemor, freguesia de Lavre, com 686,4750 ha, propriedade de António José da Veiga Teixeira.
+
+19) Herdade do Tojal:
+
+Matriz cadastral: artigo 2, secção L, do concelho de Montemor, freguesia de Lavre, com 103,5250 ha, propriedade de António José da Veiga Teixeira.
+
+20) Herdade dos Caldeirões:
+
+Matriz cadastral: artigo 1, secção A1-A2, do concelho de Alandroal, freguesia de Capelins, com 2074,6250 ha, propriedade de Sociedade Agrícola do Roncanito, S. A. R. L.
+
+21) Courela Colmeal do Marocos:
+
+Matriz cadastral: artigo 10, secção A, do concelho de Alandroal, freguesia de Capelins, com 0,05 ha, propriedade de Sociedade Agrícola do Roncanito, S. A. R. L.
+
+22) Courela do Colmeal dos Caldeirões:
+
+Matriz cadastral: artigo 8, secção A, do concelho de Alandroal, freguesia de Capelins, com 0,0750 ha, propriedade de Sociedade Agrícola do Roncanito, S. A. R. L.
+
+23) Herdade do Azinhal Redondo:
+
+Matriz cadastral: artigo 41, secção C, do concelho de Alandroal, freguesia de Capelins (Santo António), com 179,4250 ha, propriedade de Sociedade Agrícola do Roncanito, S. A. R. L.
+
+24) Herdade do Monte Novo:
+
+Matriz cadastral: artigo 40, secção C, do concelho de Alandroal, freguesia de Capelins, (Santo António), com 269,80 ha, propriedade de Sociedade Agrícola do Roncanito, S. A. R. L.
+
+25) Herdade da Defesa da Bobadela:
+
+Matriz cadastral: artigo 1, secção B-B1, do concelho de Alandroal, freguesia de Capelins (Santo António), com 854,70 ha, propriedade de Carvalho J. Martins, Lda.
+
+26) Bedoeira:
+
+Matriz cadastral: artigo 10, secção O1, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 725,0750 ha, propriedade de José de Carvalho Amaral, Carlos de Carvalho Amaral e Maria Amélia de Carvalho Amaral Forte Caldas.
+
+27) Herdade de Vale das Dúvidas e Horta Nova:
+
+Matriz cadastral: artigos 1 e 2, secção G, do concelho de Portel, freguesia de Santana, com 461,85 ha, propriedade de Vera Cohen Espírito Santo Silva.
+
+28) Horta Nova:
+
+Matriz cadastral: artigo 2, secção G, do concelho de Portel, freguesia de Santana, com 2,8750 ha, propriedade de Vera Cohen Espírito Santo Silva.
+
+29) Herdade de Vale das Dúvidas:
+
+Matriz cadastral: artigo 3, secção G, do concelho de Portel, freguesia de Santana, com 0,10 ha, propriedade de Vera Cohen Espírito Santo Silva.
+
+30) Herdade do Rebolar:
+
+Matriz cadastral: artigo 3, secção K, do concelho de Portel, freguesia de Monte Trigo, com 310,8850 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+31) Herdade do Peral:
+
+Matriz cadastral: artigo 1, secção K-K1-K2, do concelho de Portel, freguesia de Monte Trigo, com 1112,34 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+32) Herdade dos Filipes:
+
+Matriz cadastral: artigo 1, secção B, do concelho de Portel, freguesia de Amieira, com 439,25 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+33) Herdade do Zambujeiro de Cima:
+
+Matriz cadastral: artigo 6, do concelho de Portel, freguesia de Amieira, com 44,45 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+34) Herdade do Zambujeiro de Cima e anexa courela da Nogueira:
+
+Matriz cadastral: artigo 7, secção C-C1, do concelho de Portel, freguesia de Amieira, com 193,2750 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+35) Herdade Courela da Nogueira:
+
+Matriz cadastral: artigo 8, secção C-C1, do concelho de Portel, freguesia de Amieira, com 24,1250 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+36) Herdade da Nogueira:
+
+Matriz cadastral: artigo 2, secção C-C1, do concelho de Portel, freguesia de Amieira com 206,90 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+37) Herdade do Álamo:
+
+Matriz cadastral: artigo 3, secção C-C1, do concelho de Portel, freguesia de Amieira, com 352,95 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+38) Herdade do Furadouro:
+
+Matriz cadastral: artigo 5, secção 1, do concelho de Portel, freguesia de Portel, com 815 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+39) Herdade de Arrobinhas:
+
+Matriz cadastral: artigo 1, secção M, do concelho de Portel, freguesia de Portel, com 290,1250 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+40) Herdade da Rola:
+
+Matriz cadastral: artigo 2, secção M, concelho de Portel, freguesia de Portel, com 230,2750 ha, propriedade de Sociedade Agrícola do Peral, S. A. R. L.
+
+41) Herdade do Manco:
+
+Matriz cadastral: artigo 2, secção KK, do concelho de Montemor, freguesia de Cabrela, com 170,95 ha, propriedade de Luís Louro Fernandes de Castro.
+
+42) Herdade das Cabanas e Ligeiro:
+
+Matriz cadastral: artigo 1, secção A-A1, do concelho de Évora, freguesia de Nossa Senhora da Boa Fé, com 837,4750 ha, propriedade de Alice Godinho Pinheiro Dias Coutinho, Maria Godinho Pinheiro Dias Coutinho, Maria Amélia Godinho Pinheiro Dias Coutinho e Maria Elisa Godinho Pinheiro Dias Coutinho.
+
+43) Herdade da Garcia:
+
+Matriz cadastral: artigo 1, secção P, do concelho de Montemor, freguesia de Lavre, com 504,1250 ha (117116,9 pontos), propriedade de António Augusto de Melo Mouzinho Almandarim e José Mouzinho de Vasconcelos Almandarim.
+
+44) Herdade dos Arneiros de Cima e Canas:
+
+Matriz cadastral: artigo 1, secção N-N1, do concelho de Montemor-o-Novo, freguesia de Lavre, com 656,35 ha (equivalente a 188545,3 pontos), propriedade de Alberto Manuel Maia Pinto Gouveia.
+
+45) Herdades dos Arneiros de Baixo e Pimpolho:
+
+Matriz cadastral: artigo 1, secção O, do concelho de Montemor-o-Novo, freguesia de Lavre, com 528,30 ha (equivalente a 219949,3 pontos), propriedade de Alberto António Sequeira Pinto Gouveia.
+
+46) Herdade de Vale Melão e anexas:
+
+Matriz cadastral: artigos 4 e 6, secção B-B1-B1, do concelho de Arraiolos, freguesia de Igrejinha, com 821,30 ha, propriedade de João Ramalho Franco.
+
+47) Herdade de Vale de Figueira:
+
+Matriz cadastral: artigo 8, secção J, do concelho de Arraiolos, freguesia de Arraiolos, com 113,90 ha, propriedade de João Ramalho Franco.
+
+48) Herdade da Adua:
+
+Matriz cadastral: artigo 3, secção K, do concelho de Arraiolos, freguesia de Arraiolos, com 250,9750 ha, propriedade de João Ramalho Franco.
+
+49) Sitima e anexas:
+
+Matriz cadastral: artigo 1, secção D-D1, do concelho de Évora, freguesia de Torre de Coelheiros, com 1022 ha, propriedade de Maria Faustina Simões Alves Margioch.
+
+50) Herdade da Cabida da Torre e anexas:
+
+Matriz cadastral: artigo 1, secção J-J1-J2-J3-J4, do concelho de Évora, freguesia de Torre de Coelheiros, com 2154,4750 ha, propriedade de Mariana do Anjo Albina de Soure.
+
+51) Herdade dos Bilharins:
+
+Matriz cadastral: artigo 1, secção A, do concelho de Portel, freguesia de Vera Cruz, com 283,55 ha, propriedade de Francisco Manuel Fragoso Barahona.
+
+52) Herdade da Aldeia de Cima e Herdade da Fonte do Pote:
+
+Matriz cadastral: artigo 9, secção F, do concelho de Portel, freguesia de Santana, com 598,5750 ha, propriedade de Francisco Manuel Fragoso de Barahona.
+
+53) Freixo de Baixo e Álamo:
+
+Matriz cadastral: artigo 1, seção P-P1, do concelho de Évora, freguesia de Torre de Coelheiros, com 403 ha, propriedade de José Freixo Queimado.
+
+54) Morgado da Torre:
+
+Matriz cadastral: artigo 56, secção P1-P2-P3, do concelho de Évora, freguesia de Torre de Coelheiros, com 426,2250 ha, propriedade de José Freixo Queimado.
+
+55) Defesa de Cima:
+
+Matriz cadastral: artigo 55, secção P2-P3-P4, do concelho de Évora, freguesia de Torre de Coelheiros, com 1050,0625 ha, propriedade de José Freixo Queimado.
+
+56) Herdade do Salto e Évora:
+
+Matriz cadastral: artigo 1, secção S, do concelho de Évora, freguesia de Torre de Coelheiros, com 351,5125 ha, propriedade de José Ferreira Queimado.
+
+57) Herdade de Cuncos de Cima e courelas:
+
+Matriz cadastral: artigo 1, secção O, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 221,5750 ha, propriedade de Joaquim Falcão Marques dos Santos.
+
+58) Ataboeira:
+
+Matriz cadastral: artigo 1, secção V, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora do Bispo, com 498,85 ha, propriedade de Joaquim Falcão Marques dos Santos.
+
+59) Herdade do Pelame:
+
+Matriz cadastral: artigo 4, secção Q, do concelho de Montemor-o-Novo, freguesia de Escoural, com 162,55 ha, propriedade de Joaquim Falcão Marques dos Santos.
+
+60) Herdade de Marguenhas:
+
+Matriz cadastral: artigo 1, secção RR, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 555,0250 ha (equivalente a 75011,7 pontos), propriedade de Maria Joana Patrício Malta Miranda.
+
+61) Herdade da Caeira:
+
+Matriz cadastral: artigo 1, secção K, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 356,3750 ha (equivalente a 110784,3 pontos), propriedade de João Farrajota Alves.
+
+62) Herdade de Vale Nobre e anexas:
+
+Matriz cadastral: artigo 1, secção X-X1, do concelho de Montemor-o-Novo, freguesia de S. Cristóvão, com 613,80 ha, propriedade de Manuel António Padeira Júnior.
+
+63) Herdade do Pinheiro:
+
+Matriz cadastral: artigo 1, secção J-J1, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora da Vila, com 402,10 ha, propriedade de Fausto Louro Fernandes Vances e Manuel António Padeira Júnior.
+
+64) Herdade da Defesa Grande:
+
+Matriz cadastral: artigo 1, secção L-L1, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 535,30 ha (equivalente a 124322,3 pontos), propriedade de José Correia Pontes Portimão.
+
+65) Herdade da Tramagueira:
+
+Matriz cadastral: artigo 3, secção A, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 495,85 ha (equivalente a 146362,3 pontos), propriedade de António João Quintão Pinto e Maria de Lurdes de Alboim Inglês Paneiro Pinto.
+
+66) Herdade do Freixo:
+
+Matriz cadastral: artigo 1, secção C-C1, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 761,4750 ha, propriedade de Alfredo Maria Praça Cunhal.
+
+67) Herdade da Derreada:
+
+Matriz cadastral: artigo 3, secção T, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 96,40 ha, propriedade de Alfredo Maria Praça Cunhal.
+
+68) Herdade da Bala:
+
+Matriz cadastral: artigo 4, secção K, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 614,50 ha, propriedade de Joaquim Manuel Murteira Grave.
+
+69) Herdade da Cochiola:
+
+Matriz cadastral: artigo 1, secção Q, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 339,5250 ha, propriedade de Joaquim Manuel Murteira Grave.
+
+70) Herdade do Gato e anexas:
+
+Matriz cadastral: artigo 1, secção L, do concelho de Montemor-o-Novo, freguesia de S. Cristóvão, com 547,6250 ha, propriedade de Diogo Francisco Ferreira de Castro Brito.
+
+71) Herdade do Freixo:
+
+Matriz cadastral: artigo 2, secção K, do concelho de Montemor-o-Novo, freguesia de S. Cristóvão, com 333,4750 ha, propriedade de Diogo Francisco Pereira de Castro Brito.
+
+72) Herdade do Cabido Encarnado Bandorra Carrascal:
+
+Matriz cadastral: artigo 1, secção II-III, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora da Vila, com 613,4250 ha (equivalente a 84430,4 pontos), propriedade da Sociedade Agrícola D. Nuno, Lda.
+
+73) Herdade Barrozeiros Amoreira Figueiras e Cabida do Raposo:
+
+Matriz cadastral: artigo 6, secção B-B3, do concelho de Évora, freguesia de S. Mansos, com 761,55 ha, propriedade de Vasco Maria Eugénio de Almeida.
+
+74) Herdade do Álamo de Cima:
+
+Matriz cadastral: artigo 2, secção O-O1, do concelho de Évora, freguesia de S. Manços, com 556 ha, propriedade de Vasco Maria Eugénio de Almeida.
+
+75) Herdade do Álamo da Horta:
+
+Matriz cadastral: artigo 48, secção B1-B2, do concelho de Évora, freguesia de S. Manços, com 450,89 ha, propriedade de Vasco Maria Eugénio de Almeida.
+
+76) Herdade dos Tabuleiros de Baixo:
+
+Matriz cadastral: artigo 1, secção C, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 294,90 ha, propriedade de Ana Maria de Sousa e Holsteinbeck.
+
+77) Herdade dos Tabuleiros de Cima:
+
+Matriz cadastral: artigo 2, secção C, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 355,0750 ha, propriedade de Ana Maria de Sousa e Holsteinbeck.
+
+78) Herdade da Ponte do Hospital, Parreira e Albardeira:
+
+Matriz cadastral: artigo 1, secção F, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 697,45 ha, propriedade de Ana Maria de Sousa Holsteinbeck.
+
+79) Herdade do Tojal:
+
+Matriz cadastral: artigo 1, secção I, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 549,90 ha, propriedade de Ana Maria de Sousa Holsteinbeck.
+
+80) Herdade Catelão, Ruivos, Monte da Igreja:
+
+Matriz cadastral: artigo 1, secção I-I1, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 1224,7750 ha, propriedade de Ana Maria de Sousa Holsteinbeck.
+
+81) Herdade de Mascarenhas e Romão:
+
+Matriz cadastral: artigo 1, secção L-L1, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 977,6750 ha, propriedade de Ana Maria de Sousa Holsteinbeck.
+
+82) Herdade do Marnel e Outeiro do Xarrama:
+
+Matriz cadastral: artigo 1, secção N-N1, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 768,4250 ha, propriedade de Ana Maria de Sousa Holsteinbeck.
+
+83) Herdade da Albardeira:
+
+Matriz cadastral: artigo 1, secção S, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 158 ha, propriedade de Ana Maria de Sousa Holsteinbeck.
+
+84) Herdade da Laranjeira:
+
+Matriz cadastral: artigo 3, secção G1, do concelho de Arraiolos, freguesia de Arraiolos, com 258,7250 ha, propriedade de José Félix de Mira.
+
+85) Herdade de Porto:
+
+Matriz cadastral: artigo 5, secção J, do concelho de Arraiolos, freguesia de Arraiolos, com 109,9750 ha, propriedade de José Félix de Mira.
+
+86) Herdade das Oliveiras:
+
+Matriz cadastral: artigo 1, secção O, do concelho de Arraiolos, freguesia de Arraiolos, com 146,05 ha, propriedade de José Félix de Mira.
+
+87) Herdade de Quartim:
+
+Matriz cadastral: artigo 2, secção O, do concelho de Arraiolos, freguesia de Arraiolos, com 189,9750 ha, propriedade de José Félix de Mira.
+
+88) Herdade do Seixo:
+
+Matriz cadastral: artigo 2, secção B, do concelho de Arraiolos, freguesia de S. Pedro da Gafanhoeira, com 229,6750 ha, propriedade de José Félix de Mira.
+
+89) Herdade das Cangalhas e Ferragial do Jogo da Bola:
+
+Matriz cadastral: artigos 8 e 13, secção I, do concelho de Arraiolos, freguesia de S. Pedro da Gafanhoeira, com 153,0750 ha, propriedade de José Félix de Mira.
+
+90) Herdade de Escalhavias:
+
+Matriz cadastral: artigo 14, secção I, do concelho de Arraiolos, freguesia de S. Pedro da Gafanhoeira, com 156,75 ha, propriedade de José Félix de Mira.
+
+91) Herdade de Santo Estêvão:
+
+Matriz cadastral: artigo 15, secção I, do concelho de Arraiolos, freguesia de S. Pedro da Gafanhoeira, com 80,0250 ha, propriedade de José Félix de Mira.
+
+92) Herdade do Monte das Flores:
+
+Matriz cadastral: artigo 1, secção B-B1 e X-X1, do concelho de Évora, freguesias da Sé e de Nossa Senhora da Tourega, com 1084,5250 ha, propriedade de Maria Faustina Simões Alves Margioch.
+
+93) Herdade da Correia:
+
+Matriz cadastral: artigo 1, secção V, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 507,90 ha, propriedade de Maria Faustina Simões Alves Margioch.
+
+94) Herdade do Monte das Flores:
+
+Matriz cadastral: artigo 1, secção X-X1, do concelho de Évora, freguesia de Nossa Senhora da Tourega, com 1255,50 ha, propriedade de Maria Faustina Simões Alves Margioch.
+
+95) Herdade da Casa Velha:
+
+Matriz cadastral: artigo 1, secção I, do concelho de Estremoz, freguesia de Évora Monte, com 668,6250 ha, propriedade da Fundação da Casa de Bragança.
+
+96) Herdades Horta do Reguengo, Convento das Chagas, Olival e parte dos Nós, S. Bento e parte do Nó Forragem do Papa-Queijo, Silveirinha, Engenho do Ferro, Tapada da Casa de Bragança:
+
+Matriz cadastral: artigos 171, 172, 173, 174, 190, 1, 15, 1, secções C, F e E, do concelho de Vila Viçosa, freguesia de Conceição e Vila Viçosa, as duas últimas com 223,2464 ha, propriedades da Fundação da Casa de Bragança.
+
+97) Herdades do Monfurado:
+
+Matriz cadastral: artigo 1, secção Y, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 311,30 ha (equivalente a 100631,9 pontos), propriedade de António Romeiras Marques dos Santos e Rosa Maria da Costa Marques dos Santos.
+
+98) Herdade da Torre:
+
+Matriz cadastral: artigo 1, secção AA, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 343,35 ha (equivalente a 92593,7 pontos), propriedade de Luís Rojão e Amélia Rojão Caiola Bastos.
+
+99) Herdades da Chaminé e Zambujal:
+
+Matriz cadastral: artigo 1, secções P e Q, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 501,80 ha (equivalente a 116080,7 pontos), propriedade de Maria Inocência Fiúza Perestrelo (e irmãos).
+
+100) Terra das Freiras, Fazenda da Palmeira, Herdade do Vale da Arca e Vale de Moz:
+
+Matriz cadastral: artigos 12, 15, 16 e 1, secção CC e V, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 859,6950 ha, propriedade de António Romeiras Marques dos Santos.
+
+101) Herdade do Vale e Courela dos Machadinhos:
+
+Matriz cadastral: artigos 1, 2, secção Q-Q1, do concelho de Vendas Novas, freguesia de Vendas Novas, com 834,60 ha, propriedade de Ernesto Louro Fernandes de Castro.
+
+102) Herdade de Besteiros:
+
+Matriz cadastral: artigo 1, secção N-N1, do concelho de Vendas Novas, freguesia de Vendas Novas, com 837,2875 ha, propriedade de Cândido Pedro da Silva Duarte.
+
+103) Herdade da Ajuda Velha:
+
+Matriz cadastral: artigo 1, secção F, do concelho de Vendas Novas, freguesia de Vendas Novas, com 488,50 ha, propriedade de João Inácio Freixo e Abílio Inácio Freixo.
+
+104) Herdade da Defesa:
+
+Matriz cadastral: artigo 1, secção G, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 498,4750 ha (equivalente a 106102,7 pontos), propriedade de Maria de Assunção de Almeida Noronha da Cunha Reis.
+
+105) Herdade do Vale Figueira:
+
+Matriz cadastral: artigo 1, secção AA, do concelho de Vendas Novas, freguesia de Vendas Novas, com 343,2250 ha (equivalente a 88003 pontos), propriedade de Luís Louro Fernandes de Castro.
+
+106) Herdade da Afeiteira:
+
+Matriz cadastral: artigo 1, secção X, do concelho de Vendas Novas, freguesia de Vendas Novas, com 424,0250 ha (equivalente a 92434,7 pontos), propriedade de Rui Manuel da Silva Santos Gonçalves.
+
+107) Herdade da Moinhola e anexas:
+
+Matriz cadastral: artigo 1, secção Sa-S4, do concelho de Vendas Novas, freguesia de Vendas Novas, com 2797,6075 ha, propriedade da Sociedade Agrícola da Moinhola, S. A. R. L.
+
+108) Herdade Casa Alta:
+
+Matriz cadastral: artigo 1, secção D-D1, do concelho de Redondo, freguesia de Montoito, com 897,25 ha, propriedade de Maria Teresa Gião Toscano Rico.
+
+109) Herdades Monte Branco, Sobral, Montinho:
+
+Matriz cadastral: artigo 1, secção S, do concelho de Redondo, freguesia de Redondo, com 561,75 ha, propriedade de Jerónimo António Lino.
+
+110) Quinta da Vidigueira e Foros do Freixo:
+
+Matriz cadastral: artigos 1 e 3, secção CCC, do concelho de Redondo, freguesia de Redondo, com 148,7750 ha, propriedade de Jerónimo António Lino.
+
+111) Herdades de Salvada, Palheta, Espinheira e Palhetinha:
+
+Matriz cadastral: artigos 1, 2, 3 e 4, secção Z-Z, 2-21, 2-21, do concelho de Redondo, freguesia de Redondo, com 896,1580 ha, propriedade de Venâncio Joaquim Cavaco Lino.
+
+112) Herdade da Palma:
+
+Matriz cadastral: artigo 1, secção IIIAIII, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 1276,4250 ha, propriedade da Sociedade Agrícola da Herdade da Palma, S. A. R. L.
+
+113) Herdades Sesmaria, Ameira e Travessas:
+
+Matriz cadastral: artigo 1, secção A-A(índice 1), do concelho de Montemor-o-Novo, freguesia de Lavre, com 910,7250 ha, propriedade da Fundação da Casa de Bragança.
+
+114) Herdades da Sesmaria Nova e Gavião:
+
+Matriz cadastral: artigo 1, secção YAY(elevado a 2), do concelho de Montemor-o-Novo, freguesia de Lavre, com 1692,3250 ha, propriedade de João Garcia Nunes Mexia e João Tiago Praça Nunes Mexia.
+
+115) Herdade da Nogueira:
+
+Matriz cadastral: artigo 1, secção H, do concelho de Montemor-o-Novo, freguesia de Cabrela, com 200,6750 ha, propriedade de João Garcia Nunes Mexia.
+
+116) Herdade do Pinheiro:
+
+Matriz cadastral: artigo 1, secção HH, do concelho de Montemor-o-Novo, freguesia de Lavre, com 433,60 ha, propriedade de João Garcia Nunes Mexia.
+
+117) Herdade do Queijo:
+
+Matriz cadastral: artigo 2, secção Z, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora da Vila, com 219,25 ha (equivalente a 52345,7 pontos), propriedade de António Mira Vaz.
+
+118) Herdade da Anta e do Carvalhal:
+
+Matriz cadastral: artigos 2 e 1, secção G-DD-DD(índice 1), do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 744,8750 ha, propriedade da Sociedade Agrícola Palha Van Zeller.
+
+119) Herdade do Poço da Rua:
+
+Matriz cadastral: artigo 1, secção I, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 449,0750 ha (equivalente a 95581,5 pontos), propriedade de Maunel Augusto Rosado Mira.
+
+120) Herdades de Sacavena e Lutra:
+
+Matriz cadastral: artigo 2, secção A, do concelho de Montemor-o-Novo, freguesia de Santiago do Escoural, com 409,3250 ha (equivalente a 75720,8 pontos), propriedade de Margarida Fragoso de Barahona da Cruz e Silva.
+
+121) Barrocal das Freiras:
+
+Matriz cadastral: artigo 1, secção CC-CC(índice 1), do concelho de Montemor-o-Novo, freguesia de Nossa Senhora do Bispo, com 835,7750 ha, propriedade de João de Lancastre Freitas e esposa, Nazaré Sentena Gorjão de Lancastre Freitas.
+
+122) Herdade do Vidigal e anexas:
+
+Matriz cadastral: artigo 2, secção GG-GG-GG(índice 2), do concelho de Montemor-o-Novo, freguesia de Nossa Senhora do Bispo, com 1319,8000 ha, propriedade de João Baptista Reis Malta e Maria de Castro Pereira Reis Malta.
+
+123) Herdade das Canelas:
+
+Matriz cadastral: artigo 1, secção A-A(índice 1), do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 1516,1875 ha, propriedade de Maria José Mexia Nunes Barata de Sousa Cabral Nunes Mexia e Maria Celeste Mexia Nunes Barata de Sousa Cabral.
+
+124) Herdade do Garção:
+
+Matriz cadastral: artigo 8, secção B-B, do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 317,4125 ha, propriedade de Maria José Mexia Nunes Barata de Sousa Cabral Nunes Mexia e Maria Celeste Mexia Nunes Barata de Sousa Cabral.
+
+125) Herdade de Val Nogueira:
+
+Matriz cadastral: artigo 3, secção H, do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 991,8500 ha, propriedade de Maria José Mexia Nunes Barata de Sousa Cabral Nunes Mexia e Maria Celeste Mexia Nunes Barata de Sousa Cabral.
+
+126) Herdade da Nogueira:
+
+Matriz cadastral: artigo 3, secção H, do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 991,8500 ha, propriedade de José Luís Barata de Sousa Cabral.
+
+127) Herdade de Baixo:
+
+Matriz cadastral: artigo 1, secção A-A, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora do Bispo, com 729,8250 ha, propriedade de Maria Augusta Aleixo Pais Vacas de Carvalho.
+
+128) Herdade da Chaminé:
+
+Matriz cadastral: artigo 12, secção L1, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora do Bispo, com 416,6250 ha (equivalente a 55136,8 pontos), propriedade de Abílio Inácio Freixo e João Inácio Freixo.
+
+129) Herdades Parracha de Cima, Chaparral, Chaminé e Guisada:
+
+Matriz cadastral: artigo 2-1-2-6, secção C-D-D-D, do concelho de Arraiolos, freguesia de Santa Justa, com 381,6750 ha (equivalente a 54486,3 pontos), propriedade de Francisco Calhau Júnior.
+
+130) Herdade dos Chotas:
+
+Matriz cadastral: artigo 1, secção V, do concelho de Arraiolos, freguesia de Vimieiro, com 724,9500 ha, propriedade de Rodrigo Maria Soares Cordeiro Silveira.
+
+131) Herdade da Oleirita e Lourinha:
+
+Matriz cadastral: artigo 1, secção H-H1, do concelho de Arraiolos, freguesia de Arraiolos, com 831,3250 ha, propriedade de Miguel Joaquim Câmara Manuel Potes.
+
+132) Herdade da Bela Palha, Carrilha, Monte Novo e Tourega:
+
+Matriz cadastral: artigo 1-5-1-2, secção U-T-HH-FF, do concelho de Arraiolos, freguesia de Vimieiro, com 1078,4750 ha, propriedade de Maria José Soares Ramos.
+
+133) Herdade da Anda e Comenda:
+
+Matriz cadastral: artigo 2-1, secção G-E-E1, do concelho de Arraiolos, freguesia de Santa Justa (Igrejinha), com 1601,9000 ha, propriedade de Maria Faustina Simões Alves Margiochi.
+
+134) Herdade do Olival, Vale de Sinta e anexas, Parrachas, Montinho de Fargela:
+
+Matriz cadastral: artigo 2-1-3, secção C-L-A, do concelho de Arraiolos, freguesia de Vimieiro, Santa Justa, com 1134,8500 ha, propriedade de Francisco Lopes Marquês.
+
+135) Herdade da Azenha Branca e anexos:
+
+Matriz cadastral: artigo 1, secção D-D1, do concelho de Borba, freguesia de Orada, com 921,6500 ha, propriedade de Maria Isabel Chaters Leitão.
+
+136) Herdade de Monte Branco, Carreteira, Farminha Velha, Santana:
+
+Matriz cadastral: artigo 56-55-1-1, secção R-K-A, do concelho de Arraiolos, freguesia de Vimieiro, Santa Justa, com 1148,2750 ha, propriedade de Ana Fernanda Pinto Barreiros.
+
+137) Marmeleira:
+
+Matriz cadastral: artigo 1, secção II, do concelho de Arraiolos, freguesia de Vimieiro, com 507,7000 ha, propriedade de Carlos Leal Martins Pereira.
+
+138) Herdade do Barrocal e anexo, Pássaros e Quinta Nova:
+
+Matriz cadastral: artigo 145-34, secção G(índice 1)-G(índice 2)-G(índice 3)-E-O, do concelho de Reguengos de Monsaraz, freguesia de Monsaraz, Reguengos de Monsaraz, com 1235,4300 ha, propriedade de Carlos Leal Martins Pereira.
+
+139) Herdade da Serra de Cabrela e Águas:
+
+Matriz cadastral: artigo 1, secção TT-TT(índice 1), do concelho de Montemor-o-Novo, freguesia de Cabrela, com 890,3750 ha, propriedade de António Joaquim Correia de Castro.
+
+140) Herdades Serralheira e Carrascal do Matoso:
+
+Matriz cadastral: artigo 1-2, secção HH, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora da Vila, com 535,9750 ha (equivalente a 105471,2 pontos), propriedade de José António Fernandes Soares.
+
+141) Herdade do Monte das Pedras:
+
+Matriz cadastral: artigo 1, secção B, do concelho de Montemor-o-Novo, freguesia de Nossa Senhora da Vila, com 324,3500 ha (equivalente a 74354,7 pontos), propriedade de Maria José Fernandes Soares Ramos.
+
+142) Herdades do Romeirão, Barrocalinho e de Amoreiras e Álvaro Gil:
+
+Matriz cadastral: artigo 1, secção F-5(S(índice 1)-S(índice 2)-S(índice 3), do concelho de Reguengos de Monsaraz, freguesia de S. Pedro do Curval, com 842,1250 ha, propriedade de Carlos Leal Martins Pereira.
+
+143) Herdade da Azambuja e Herdades do Monte Branco, Monte Negro, Caboco da Pacena:
+
+Matriz cadastral: artigo 10-1, secção B-C-C1, do concelho de Portel, freguesia de Monte Trigo, com 1293,6950 ha, propriedade de Ricardo Correia Gião.
+
+144) Herdade da Defesa de Baixo:
+
+Matriz cadastral: artigo 1, secção C-C(índice 1), do concelho de Borba, freguesia de Rio de Moinhos, com 644,9250 ha (equivalente a 102228 pontos), propriedade de Maria Ana Sommer Champalimaud Jardim.
+
+145) Herdade da Defesa Grande:
+
+Matriz cadastral: artigo 1, secção U-U(índice 1), do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 1191,2750 ha, propriedade de Maria Nazaré de Melo Lobo da Silveira.
+
+146) Herdade do Seixinho e Herdade do Seixo Grande:
+
+Matriz cadastral: artigo 2-3, secção L-L(índice 1)-L(índice 2), do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 1216,4800 ha, propriedade de Maria Joana Cabral Fragoso Fernandes.
+
+147) Herdade da Figueira, Herdade da Água Doce e Pardeeiro:
+
+Matriz cadastral: artigo 1-1, secção O-O(índice 1)-T, do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 1046,10 ha, propriedade de António Manuel Santos Murteira.
+
+148) Herdade de Vale da Lameira, Herdade de Palha, Herdade da Atalaia e Herdade das Banhas:
+
+Matriz cadastral: artigo 1-1-1-1, secção G-D-E-F, do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 2691,5425 ha, propriedade de António de Sousa Pereira e mulher, Maria do Carmo Cardeal da Rocha de Sousa Pereira.
+
+149) Herdade da Mata e Herdade do Seixo Grande:
+
+Matriz cadastral: artigo 1-4, secção JJ-L, do concelho de Viana do Alentejo, freguesia de Alcáçovas, com 727,2750 ha, propriedade de Fernando Manuel Franco Bebiano Correia.
+
+150) Herdades do Ramilo, Aldeia dos Anéis e anexos:
+
+Matriz cadastral: artigo 35, secção D-D(índice 1), do concelho de Estremoz, freguesia de Santa Vitória do Ameixial, com 581,2925 ha (equivalente a 76953,9 pontos), propriedade de José Rosado Fonseca, Herdeiros.
+
+151) Herdade de Sancha Ladra:
+
+Matriz cadastral: artigo 3, secção N, do concelho de Évora, freguesia de Nossa Senhora de Machede, com 541,20 ha, propriedade de Francisco Manuel Fragoso de Barahona.
+
+152) Herdade de S. Domingos da Ordem, Montinho:
+
+Matriz cadastral: artigo 1, secção N-N1-N2, do concelho de Évora, freguesia de Nossa Senhora de Machede, com 722,3125 ha, propriedade de Francisco Manuel Fragoso de Barahona.
+
+153) Herdades de Entre Águas e Tenhosa:
+
+Matriz cadastral: artigo 2-3, secção N-N1-N2, do concelho de Évora, freguesia de Nossa Senhora de Machede, com 373,8750 ha, propriedade de Francisco Manuel Fragoso de Barahona.
+
+154) Herdade do Barrocal e anexos:
+
+Matriz cadastral: artigo 145, secção G(índice 1)-G(índice 2)-G(índice 3), concelho de Reguengos de Monsaraz, freguesia de S. Pedro do Curval, com 866,9250 ha, propriedade de Carlos Leal Martins Pereira.
+
+Ministério da Agricultura e Pescas, 5 de Setembro de 1975. - O Ministro da Agricultura e Pescas, Fernando Oliveira Baptista.

@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:146055:por
+title: Decreto-Lei n.º 636/70
+short_title: null
+summary: Dá nova redacção aos artigos 14.º e 15.º do Decreto-Lei n.º 43777, que atribui à Santa Casa da Misericórdia de Lisboa
+  a organização e exploração, em regime de exclusivo para a metrópole e para o ultramar, dos concursos de prognósticos ou
+  apostas mútuas sobre resultados de competições desportivas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Ultramar e da Saúde e Assistência
+proposing_entity: null
+official_number: 636/70
+official_date: null
+publication_date: '1970-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1970, Série I de 1970-12-22
+  number: '295'
+  series: I
+  supplement: null
+  pages: 1924 - 1925
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/12/29500/19241925.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '146055'
+  dre_path: /dr/detalhe/decreto-lei/636-1970-146055
+  internal: pt:dre:146055:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1970-146055
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1970-146055
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5bd6af8c5af0fb3d281cffebaf89946b1286168e6a6ecf014bd7a1d3819c30c6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apostas Mútuas Desportivas
+- Bolsa de Estudos
+- Desporto
+- Lisboa
+- Metrópole
+- Moçambique
+- Santa Casa da Misericórdia
+- Totobola
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:17:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 636/70
+
+de 22 de Dezembro
+
+Nos termos do artigo 15.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, o produto líquido da exploração das Apostas Mútuas Desportivas (Totobola) nas províncias de Angola e de Moçambique é distribuído para finalidades de educação física e desportos e para assistência a diminuídos físicos na percentagem de 70 por cento, cabendo a diversas instituições e entidades metropolitanas os restantes 30 por cento.
+
+Este regime de repartição de lucros é também aplicado nas províncias de Cabo Verde, Guiné e S. Tomé e Príncipe.
+
+No entanto, salvo a parte entregue pela exploração do Totobola directamente ao tesouro de cada uma das províncias ultramarinas, as demais parcelas são repartidas por diversas entidades com sede na metrópole, o que determina grande dispersão de receitas da mesma origem, além de notórias dificuldades de transferência.
+
+Finalmente, deve atribuir-se à Santa Casa da Misericórdia de Lisboa, como concessionária das Apostas Mútuas Desportivas em regime de exclusivo para a metrópole e para o ultramar, um quinhão igual em todo o território nacional.
+
+Tendo em atenção também o que foi representado pelos governos das províncias ultramarinas, considera-se conveniente alterar o regime vigente para garantir, por um lado, a concentração dos meios financeiros provindos das Apostas Mútuas Desportivas e, por outro lado, para incentivar o intercâmbio desportivo entre as províncias ultramarinas e entre estas e a metrópole.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os antigos 14.º e 15.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Junho de 1961, passam a ter a seguinte redacção:
+
+Art. 14.º - 1. O produto líquido da exploração na metrópole, depois de deduzidos 7 por cento para a Santa Casa da Misericórdia de Lisboa, instituição à qual compete organizar e explorar os concursos de Apostas Mútuas Desportivas, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos, por um lado, e da assistência a diminuídos físicos, por outro lado.
+
+2. O quinhão destinado ao fomento da educação física será distribuído pela forma seguinte:
+
+a) 55 por cento para o Fundo de Fomento do Desporto;
+
+b) 25 por cento, em portaria do Ministro da Educação Nacional, pelas federações das modalidades desportivas incluídas nos concursos a que respeitar o produto líquido a partilhar e bem assim pelas respectivas associações regionais das localidades em que tenham sede ou residência os clubes ou atletas individuais incluídos nos concursos, na proporção da importância dos serviços, que tiverem em funcionamento, de medicina desportiva, educação física, preparação atlética específica ou assistência a praticantes, e bem assim das necessidades concretas a que desejarem ocorrer pela instalação de serviços desta natureza ou satisfação de encargos com a mesma finalidade a outras instituições;
+
+c) 20 por cento para a Fundação Nacional para a Alegria no Trabalho.
+
+3. O quinhão destinado à assistência a diminuídos físicos será distribuído pelo modo seguinte:
+
+a) 50 por cento, em portaria do Ministro da Saúde e Assistência, pelas Santas Casas da Misericórdia ou outras instituições de assistência, na proporção da importância dos serviços de assistência a diminuídos físicos que tenham em funcionamento ou se proponham instalar;
+
+b) 50 por cento para a Direcção-Geral da Assistência.
+
+Art. 15.º - 1. O produto líquido da exploração nas províncias ultramarinas, depois de efectuada a dedução fixada no n.º 1 do artigo 14.º, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos e à assistência a diminuídos físicos.
+
+2. O quinhão destinado ao fomento da educação física e desportos será distribuído pelo conselho provincial de educação física de cada província ultramarina, pela forma seguinte:
+
+a) 55 por cento para fomentar o desenvolvimento das actividades gimnodesportivas ou para realizar outros fins de interesse pedagógico ou social com elas relacionados - mormente a deslocação de representações provinciais à metrópole ou a outras províncias em disputa de provas oficiais;
+
+b) 35 por cento para a associação provincial de futebol, que destinará anualmente uma verba não superior a 10 por cento da receita para o encargo de deslocações em jogos de futebol interprovinciais ou nacionais;
+
+c) 10 por cento para o Fundo de Acção Social no Trabalho, para finalidades gimnodesportivas e para assegurar o intercâmbio em jogos desportivos de trabalhadores entre as províncias ultramarinas e entre estas e a metrópole.
+
+3. O quinhão destinado à assistência diminuídos físicos será distribuído, mediante despacho do governador, pela direcção de serviços de saúde e assistência e pelo organismo, com autonomia administrativa, que em cada província centralizar a acção de assistência social.
+
+4. Poderá a Santa Casa da Misericórdia de Lisboa instalar nas províncias ultramarinas os serviços administrativos que forem necessários para a exploração das Apostas Mútuas Desportivas, em cooperação, sempre que for conveniente, com os organismos ou serviços que o Ministério do Ultramar indicar.
+
+Art. 2.º Na distribuição dos saldos relativa ao exercício económico do ano em curso observar-se-ão já as disposições deste decreto-lei.
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+
+Promulgado em 4 de Dezembro de 1970.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+Para ser presente à Assembleia Nacional.

@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:138166:por
+title: Decreto n.º 12/77
+short_title: null
+summary: Cria um curso superior de Psicologia nas Universidades de Coimbra, Lisboa e Porto
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação e Investigação Científica
+proposing_entity: null
+official_number: 12/77
+official_date: null
+publication_date: '1977-01-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/1977, Série I de 1977-01-20
+  number: '16'
+  series: I
+  supplement: null
+  pages: 112 - 113
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01600/01120113.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '138166'
+  dre_path: /dr/detalhe/decreto/12-1977-138166
+  internal: pt:dre:138166:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-1977-138166
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-1977-138166
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f1a662b1c8440dbf56eeef4f7ed28d47e98f714fee11565b3735b97a528b287f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coimbra
+- Curso de Psicologia
+- Ensino Superior
+- Lisboa
+- Porto
+- Universidade
+relationships:
+- type: amended_by
+  target: pt:dre:461804:por
+  label: Última alteração registada na importação inicial
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:45:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 12/77
+
+de 20 de Janeiro
+
+Constitui antiga aspiração da Universidade portuguesa a criação de cursos de psicologia, a que o desenvolvimento deste ramo da ciência e as crescentes necessidades sentidas pela sociedade naquele domínio veio dar actualizada relevância.
+
+Neste contexto, o Governo, ciente dessas necessidades, e atendendo à importância que representa para o País dispor de pessoal qualificado em psicologia e em número suficiente, nomeadamente nos campos da educação, da saúde e do trabalho, em ordem a permitir um desenvolvimento global da sociedade portuguesa, sente a obrigação de dotar a Universidade de estruturas pedagógicas e científicas que preencham a lacuna actualmente existente.
+
+Nesta matéria, como noutras em que tal se justifique, o Governo não tem dúvidas em formalizar, com a correspondente dignidade legal, a criação de novo curso superior, integrado em programa de recuperação e dignificação do ensino superior.
+
+Assim:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º - 1. É criado um curso superior de Psicologia nas Universidades de Coimbra, Lisboa e Porto.
+
+2. Enquanto não forem criadas escolas superiores de psicologia o cargo agora institucionalizado funcionará, a título provisório, nas respectivas Faculdades de Letras, recebendo delas o necessário apoio administrativo, mas mantendo a sua autonomia científica, pedagógica e de gestão.
+
+3. Em cada uma daquelas Universidades os últimos anos do curso de Psicologia poderão vir a ter orientações específicas, nomeadamente no campo da educação, da saúde, do trabalho e outros, de acordo com as propostas e possibilidades de cada Universidade e com as necessidades reais do País.
+
+Art. 2.º - 1. Serão criados por despacho do Ministro da Educação e Investigação Científica, para cada um dos referidos cursos, comissões instaladoras, constituídas por cinco elementos nomeados de entre individualidades das Faculdades de Letras, Medicina e outras, especialistas científico-pedagogicamente qualificados, um dos quais será designado presidente.
+
+2. As comissões instaladoras serão nomeadas por um período de dois anos, prorrogável por mais um.
+
+Art. 3.º Compete às comissões instaladoras apreciar e propor a aprovação de planos de estudo, analisar os currículos dos docentes e propor a sua contratação ou renovação dos respectivos contratos e exercer as funções que legalmente competem aos conselhos directivos.
+
+Art. 4.º - 1. Durante o período de instalação, e com as necessárias adaptações, será aplicável aos cursos ora criados o regime previsto na legislação em vigor para os novos estabelecimentos do ensino superior.
+
+2. Em matéria financeira as comissões instaladoras poderão apresentar directamente às reitorias propostas orçamentais das verbas destinadas ao funcionamento dos respectivos cursos, que serão incluídos nos orçamentos das Faculdades em que estejam integrados, sem prejuízo do n.º 2 do artigo 1.º
+
+3. O apoio administrativo necessário ao funcionamento dos cursos ora criados será dado pelas respectivas Faculdades.
+
+Art. 5.º - 1. Os estudos do curso de Psicologia dão acesso ao grau de licenciado.
+
+2. O grau de licenciado é inerente à aprovação em todas as disciplinas, monografias, seminários e estágios previstos para os cinco anos do plano de estudos do curso.
+
+3. O grau de doutor será conferido nos termos da legislação em vigor sobre doutoramentos nas Universidades portuguesas.
+
+Art. 6.º - 1. É constituída, a título transitório, uma comissão consultiva ad hoc para o ensino da psicologia, integrada por todos os membros das comissões instaladoras e por outras entidades que, por proposta daquelas e despacho ministerial, nela devam ser integradas.
+
+2. A comissão consultiva prevista no número anterior tem como objectivo o estudo e a coordenação nacional do ensino da psicologia e a apresentação de relatórios e propostas relativos ao seu aperfeiçoamento e desenvolvimento.
+
+3. A referida comissão consultiva deverá, no prazo de trinta dias após a sua constituição, apreciar e emitir parecer quanto à validade científica e pedagógica dos planos de estudo que lhe sejam apresentados pelas comissões instaladoras e dos currículos dos respectivos docentes, a apresentar à aprovação do MEIC.
+
+Art. 7.º Cada uma das comissões instaladoras proporá o número de alunos a admitir à matrícula em cada ano lectivo, bem como as disciplinas nucleares do ensino secundário exigidas para a admissão ao curso.
+
+Art. 8.º - 1. No ano lectivo de 1976-1977 são admitidos à matrícula no curso de Psicologia os estudantes que, preenchendo as condições previstas no despacho n.º 14/76, de 20 de Setembro, do Secretário de Estado do Ensino Superior, tenham aprovação nas disciplinas nucleares propostas pelas comissões instaladoras.
+
+2. Nas escolas em que no ano lectivo de 1975-1976 hajam já sido tentadas experiências pedagógicas com vista ao ensino da psicologia, e mediante proposta fundamentada apresentada pela respectiva comissão instaladora, poderá ser autorizada, por despacho do Ministro da Educação e Investigação Científica, a inscrição num 2.º ano do curso e o seu funcionamento.
+
+Art. 9.º Este decreto entra imediatamente em vigor.
+
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia.
+
+Promulgado em 13 de Janeiro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

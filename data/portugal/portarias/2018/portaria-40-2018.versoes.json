@@ -1,0 +1,178 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114610497:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-118320438",
+ "dre_path": "/dr/detalhe/portaria/40-2018-114610497",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "157352002",
+    "118366776",
+    "118366777",
+    "118366778",
+    "118366779"
+   ]
+  },
+  {
+   "date": "2019-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118320435:por",
+     "title": "Portaria n.º 30-A/2019",
+     "published": "2019-01-23",
+     "dre_path": "/dr/detalhe/portaria/30-a-2019-118320435"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "118366775",
+    "118366776",
+    "118366777",
+    "118366778",
+    "118366779",
+    "118366780"
+   ]
+  },
+  {
+   "date": "2021-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157236757:por",
+     "title": "Portaria n.º 34/2021",
+     "published": "2021-02-12",
+     "dre_path": "/dr/detalhe/portaria/34-2021-157236757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "157352002",
+    "157352003",
+    "157352004",
+    "157352005",
+    "157352006",
+    "157352007"
+   ]
+  }
+ ],
+ "fragments": {
+  "157352002": {
+   "fragment_id": "118320439",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-02-13",
+   "changed_by": [],
+   "markdown": "Portaria n.º 40/2018\n\nde 31 de janeiro\n\nA Lei n.º 114/2017, de 29 de dezembro, que aprovou o Orçamento do Estado para 2018, veio introduzir alterações ao Código do IRS no âmbito do trabalho dependente, designadamente nas normas de delimitação negativa previstas nos artigos 2.º-A e 12.º, consagrando: i) a eliminação na alínea b) do n.º 1 do artigo 2.º-A do Código do IRS da não tributação dos «vales de educação»; ii) a exclusão dos rendimentos previstos no n.º 3 do artigo 2.º-A auferidos pelos sujeitos passivos que se encontrem na situação prevista na alínea d) do n.º 1 do artigo 16.º do Código do IRS, na percentagem fixada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, determinada para cada país de exercício de funções e adequada a ter em conta a relação de paridade do poder de compra entre Portugal e esse país; iii) o alargamento da exclusão prevista no n.º 1 do artigo 12.º de bolsas atribuídas no âmbito do trabalho dependente, agora, também, aos treinadores, nas condições aí previstas; iv) na exclusão prevista no n.º 7 do artigo 12.º das compensações e subsídios, referentes à atividade voluntária, quando postos à disposição pelos municípios e comunidades intermunicipais e quando pagos pelas respetivas entidades detentoras de corpos de bombeiros, também no âmbito do dispositivo conjunto de proteção e socorro na Serra da Estrela.\n\nPor outro lado, deve também atender-se à extinção da sobretaxa de IRS, conforme decorre da Lei n.º 159-D/2015, de 30 de dezembro, conjugada com a Lei n.º 42/2016, de 28 de dezembro, bem como atender-se à alteração da designação de TOC para «contabilista certificado», em conformidade com a Lei n.º 139/2015, de 7 de setembro.\n\nPerante as referidas alterações, é agora aprovado o novo modelo da Declaração Mensal de Remunerações (DMR), bem como as respetivas instruções de preenchimento.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de novembro, o seguinte:\n\n> Nota: [Artigo 2.º, Portaria n.º 30-A/2019 - Diário da República n.º 16/2019, 1º Suplemento, Série I de 2019-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/30-a-2019-118320435) São revogadas as anteriores instruções de preenchimento da Declaração Mensal de Remunerações, aprovadas pela Portaria n.º 40/2018, de 31 de janeiro."
+  },
+  "118366776": {
+   "fragment_id": "118320440",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a Declaração Mensal de Remunerações - AT, e respetivas instruções de preenchimento, anexas à presente portaria, para cumprimento da obrigação declarativa a que se refere a subalínea i) da alínea c) e a alínea d) do n.º 1 do artigo 119.º do Código do IRS.\n\n2 - Esta declaração deve ser entregue à Autoridade Tributária e Aduaneira (AT) pelas entidades devedoras de rendimentos do trabalho dependente sujeitos a IRS, ainda que dele isentos, bem como os que se encontrem excluídos de tributação, nos termos dos artigos 2.º, 2.º-A e 12.º do Código do IRS, para comunicação daqueles rendimentos e respetivas retenções de imposto, das deduções efetuadas relativamente a contribuições obrigatórias para regimes de proteção social e subsistemas legais de saúde e a quotizações sindicais, relativas ao mês anterior."
+  },
+  "118366777": {
+   "fragment_id": "118320441",
+   "type": 11,
+   "heading": "Artigo 2.º — Cumprimento da obrigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cumprimento da obrigação\n\n1 - A declaração referida no artigo anterior deve ser enviada com a Declaração Mensal de Remunerações por transmissão eletrónica de dados, sem prejuízo do referido no n.º 5.\n\n2 - As entidades e pessoas singulares que procedam ao envio da Declaração Mensal de Remunerações através de transmissão eletrónica de dados podem fazê-lo através do Portal das Finanças ou da Segurança Social, devendo para o efeito:\n\na) Efetuar o registo, caso ainda não disponham de senha de acesso, no Portal das Finanças, no endereço www.portaldasfinancas.gov.pt, e ou no Portal da Segurança Social, no endereço www.seg-social.pt;\n\nb) Efetuar o envio de acordo com os procedimentos indicados nas referidas páginas.\n\n3 - A Declaração Mensal de Remunerações - AT considera-se apresentada na data da respetiva submissão, sob condição da correção de eventuais erros no prazo de 30 dias.\n\n4 - Se findo o prazo referido no número anterior não forem corrigidos os erros detetados, a declaração é considerada sem efeito.\n\n5 - As pessoas singulares devedoras de rendimentos do trabalho dependente que não se encontrem inscritas para o exercício de atividade empresarial ou profissional ou, encontrando-se, tais rendimentos não se relacionem exclusivamente com essa atividade, podem optar por declarar esses rendimentos na declaração anual Modelo 10.\n\n6 - A opção referida no número anterior não pode ser exercida no caso de ter sido efetuada retenção na fonte."
+  },
+  "118366778": {
+   "fragment_id": "118320442",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 17-A/2015, de 30 de janeiro, bem como a Portaria n.º 6/2013, de 10 de janeiro, com a redação que lhe foi dada pela Portaria n.º 31/2017, de 18 de janeiro."
+  },
+  "118366779": {
+   "fragment_id": "118320443",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "118366775": {
+   "fragment_id": "118320439",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 30-A/2019 - Diário da República n.º 16/2019, 1º Suplemento, Série I de 2019-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/30-a-2019-118320435), em vigor a partir de 2019-01-24"
+   ],
+   "markdown": "Portaria n.º 40/2018\n\nde 31 de janeiro\n\nA Lei n.º 114/2017, de 29 de dezembro, que aprovou o Orçamento do Estado para 2018, veio introduzir alterações ao Código do IRS no âmbito do trabalho dependente, designadamente nas normas de delimitação negativa previstas nos artigos 2.º-A e 12.º, consagrando: i) a eliminação na alínea b) do n.º 1 do artigo 2.º-A do Código do IRS da não tributação dos «vales de educação»; ii) a exclusão dos rendimentos previstos no n.º 3 do artigo 2.º-A auferidos pelos sujeitos passivos que se encontrem na situação prevista na alínea d) do n.º 1 do artigo 16.º do Código do IRS, na percentagem fixada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, determinada para cada país de exercício de funções e adequada a ter em conta a relação de paridade do poder de compra entre Portugal e esse país; iii) o alargamento da exclusão prevista no n.º 1 do artigo 12.º de bolsas atribuídas no âmbito do trabalho dependente, agora, também, aos treinadores, nas condições aí previstas; iv) na exclusão prevista no n.º 7 do artigo 12.º das compensações e subsídios, referentes à atividade voluntária, quando postos à disposição pelos municípios e comunidades intermunicipais e quando pagos pelas respetivas entidades detentoras de corpos de bombeiros, também no âmbito do dispositivo conjunto de proteção e socorro na Serra da Estrela.\n\nPor outro lado, deve também atender-se à extinção da sobretaxa de IRS, conforme decorre da Lei n.º 159-D/2015, de 30 de dezembro, conjugada com a Lei n.º 42/2016, de 28 de dezembro, bem como atender-se à alteração da designação de TOC para «contabilista certificado», em conformidade com a Lei n.º 139/2015, de 7 de setembro.\n\nPerante as referidas alterações, é agora aprovado o novo modelo da Declaração Mensal de Remunerações (DMR), bem como as respetivas instruções de preenchimento.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de novembro, o seguinte:\n\n> Nota: [Artigo 2.º, Portaria n.º 30-A/2019 - Diário da República n.º 16/2019, 1º Suplemento, Série I de 2019-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/30-a-2019-118320435) São revogadas as anteriores instruções de preenchimento da Declaração Mensal de Remunerações, aprovadas pela Portaria n.º 40/2018, de 31 de janeiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 30-A/2019 - Diário da República n.º 16/2019, 1º Suplemento, Série I de 2019-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/30-a-2019-118320435), em vigor a partir de 2019-01-24"
+  },
+  "118366780": {
+   "fragment_id": "118320444",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 29 de janeiro de 2018.\n\n(ver documento original)\n\n111099239"
+  },
+  "157352003": {
+   "fragment_id": "118320440",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a Declaração Mensal de Remunerações - AT, e respetivas instruções de preenchimento, anexas à presente portaria, para cumprimento da obrigação declarativa a que se refere a subalínea i) da alínea c) e a alínea d) do n.º 1 do artigo 119.º do Código do IRS.\n\n2 - Esta declaração deve ser entregue à Autoridade Tributária e Aduaneira (AT) pelas entidades devedoras de rendimentos do trabalho dependente sujeitos a IRS, ainda que dele isentos, bem como os que se encontrem excluídos de tributação, nos termos dos artigos 2.º, 2.º-A e 12.º do Código do IRS, para comunicação daqueles rendimentos e respetivas retenções de imposto, das deduções efetuadas relativamente a contribuições obrigatórias para regimes de proteção social e subsistemas legais de saúde e a quotizações sindicais, relativas ao mês anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+  },
+  "157352004": {
+   "fragment_id": "118320441",
+   "type": 11,
+   "heading": "Artigo 2.º — Cumprimento da obrigação",
+   "in_force_from": "2021-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Cumprimento da obrigação\n\n1 - A declaração referida no artigo anterior deve ser enviada com a Declaração Mensal de Remunerações por transmissão eletrónica de dados, sem prejuízo do referido no n.º 5.\n\n2 - As entidades e pessoas singulares que procedam ao envio da Declaração Mensal de Remunerações através de transmissão eletrónica de dados podem fazê-lo através do Portal das Finanças ou da Segurança Social, devendo para o efeito:\n\na) Efetuar o registo, caso ainda não disponham de senha de acesso, no Portal das Finanças, no endereço www.portaldasfinancas.gov.pt, e ou no Portal da Segurança Social, no endereço www.seg-social.pt;\n\nb) Efetuar o envio de acordo com os procedimentos indicados nas referidas páginas.\n\n3 - A Declaração Mensal de Remunerações - AT considera-se apresentada na data da respetiva submissão, sob condição da correção de eventuais erros no prazo de 30 dias.\n\n4 - Se findo o prazo referido no número anterior não forem corrigidos os erros detetados, a declaração é considerada sem efeito.\n\n5 - As pessoas singulares devedoras de rendimentos do trabalho dependente que não se encontrem inscritas para o exercício de atividade empresarial ou profissional ou, encontrando-se, tais rendimentos não se relacionem exclusivamente com essa atividade, podem optar por declarar esses rendimentos na declaração anual Modelo 10.\n\n6 - A opção referida no número anterior não pode ser exercida no caso de ter sido efetuada retenção na fonte.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+  },
+  "157352005": {
+   "fragment_id": "118320442",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2021-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 17-A/2015, de 30 de janeiro, bem como a Portaria n.º 6/2013, de 10 de janeiro, com a redação que lhe foi dada pela Portaria n.º 31/2017, de 18 de janeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+  },
+  "157352006": {
+   "fragment_id": "118320443",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2021-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+  },
+  "157352007": {
+   "fragment_id": "118320444",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 29 de janeiro de 2018.\n\n(ver documento original)\n\n111099239\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2021 - Diário da República n.º 30/2021, Série I de 2021-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), em vigor a partir de 2021-02-13, produz efeitos a partir de 2021-01-01"
+  }
+ }
+}

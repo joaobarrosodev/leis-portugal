@@ -1,0 +1,662 @@
+---
+schema_version: '1.0'
+id: pt:dre:368263:por
+title: Decreto-Lei n.º 129/2002
+short_title: null
+summary: Aprova o Regulamento dos Requisitos Acústicos dos Edifícios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 129/2002
+official_date: null
+publication_date: '2002-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/2002, Série I-A de 2002-05-11
+  number: '109'
+  series: I
+  supplement: null
+  pages: 4421 - 4428
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/05/109a00/44214428.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-11-15'
+version_history:
+  file: decreto-lei-129-2002.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2002-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-01'
+    amending: pt:dre:449682:por
+    amending_title: Decreto-Lei n.º 96/2008
+    changes:
+    - Adita Artigo 10.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Anexo
+  - date: '2019-11-15'
+    amending: pt:dre:123279819:por
+    amending_title: Decreto-Lei n.º 95/2019
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/129/2002/p/cons/20190718/pt/html
+  oj: null
+  dre: '368263'
+  dre_path: /dr/detalhe/decreto-lei/129-2002-368263
+  internal: pt:dre:368263:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2002-368263
+  metadata_url: https://data.dre.pt/eli/dec-lei/129/2002/p/cons/20190718/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-34483675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-34483675
+  retrieved_at: '2026-10-22T11:44:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f2ba9b368f66797353e94f3e6a09e7a6eb6e8cfcbe6a27df79cf70f3d6cbbdda
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:46Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-129-2002.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Equipamento Desportivo
+- Estabelecimento Comercial
+- Contra-ordenação
+- Equipamento Social
+- Equipamento Hospitalar
+- Fiscalização
+- Laboratório Nacional de Engenharia Civil
+- Normas de Construção
+- Habitação
+- Equipamento Industrial
+- Regulamento de Edifícios
+- Poluição Sonora
+- Prédio Urbano
+- Transporte
+relationships:
+- type: amended_by
+  target: pt:dre:449682:por
+  label: Adita Artigo 10.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera
+    Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682
+  date: '2008-06-09'
+- type: amended_by
+  target: pt:dre:123279819:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/2001/06/04/p/dre
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/292/2000/11/14/p/dre
+article_structure:
+  article_count: 20
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129/2002
+
+A área da acústica esteve ligada, desde muito cedo, ao sector da edificação urbana, e, em especial, aos requisitos de qualidade da construção. Testemunhas dessa ligação são as orientações constantes do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto n.º 38382, de 7 de Agosto de 1951.
+
+Na década de 80, a protecção acústica dos edifícios foi alvo de uma maior atenção por parte do legislador, desta feita em sede da legislação sobre prevenção e controlo do ruído ambiente, com o Decreto-Lei n.º 251/87, de 24 de Junho, que aprovou o Regulamento Geral do Ruído (RGR). Porém, a opção pela regulação de uma matéria muito específica, da área da construção civil, no âmbito de um diploma sobre prevenção do ruído, de carácter genérico e abrangente, veio a revelar-se, na prática de 15 anos, pouco eficiente e de fraca aplicação. O que se explica pela quase total ausência de articulação dos critérios acústicos da edificação com outros importantes factores de qualidade da construção.
+
+Assente o entendimento de que a especial natureza das matérias relacionadas com a qualidade acústica dos edifícios justifica um tratamento autónomo, dado o vínculo estrutural dessas matérias com o regime da edificação, o Decreto-Lei n.º 292/2000, de 14 de Novembro, que aprovou o novo regime legal da poluição sonora, revogou as normas sobre requisitos acústicos dos edifícios constantes do RGR, determinando apenas a sua manutenção em vigor até à aprovação de novos requisitos acústicos. Importa notar que aquelas normas, nos seus pressupostos e soluções, preconizam um conjunto de recomendações que se encontram hoje totalmente desfasadas da realidade acústica. A aprovação dos novos requisitos acústicos dos edifícios constitui, também por esse motivo, uma necessidade incontornável, visando harmonizar a aplicação de conceitos e metodologias já em uso ao nível comunitário e internacional.
+
+Assim, e na sequência das orientações preconizadas no Decreto-Lei n.º 292/2000, de 14 de Novembro, o presente diploma aprova o Regulamento dos Requisitos Acústicos dos Edifícios, visando regular a vertente do conforto acústico no âmbito do regime da edificação, e, em consequência, contribuir para a melhoria da qualidade do ambiente acústico e para o bem-estar e saúde das populações.
+
+Importa referir que o Regulamento dos Requisitos Acústicos dos Edifícios tem como princípios orientadores a harmonização, à luz da normalização europeia, das grandezas características do desempenho acústico dos edifícios e respectivos índices e a quantificação dos requisitos, atendendo, simultaneamente, quer à satisfação das exigências funcionais de qualidade dos edifícios quer à contenção de custos inerentes à execução das soluções necessárias à sua verificação.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Aprovação
+
+É aprovado o Regulamento dos Requisitos Acústicos dos Edifícios, que se publica em anexo ao presente decreto-lei e dele faz parte integrante.
+
+###### Artigo 2.º — Regiões Autónomas
+
+Nas Regiões Autónomas, a execução administrativa do Regulamento dos Requisitos Acústicos dos Edifícios compete aos órgãos e serviços das administrações regionais.
+
+###### Artigo 3.º — Regime transitório
+
+Os projectos de edifícios referidos no n.º 2 do artigo 1.º do Regulamento, que sejam submetidos à aprovação das entidades competentes até à data da classificação das zonas sensíveis e zonas mistas, de acordo com o disposto no artigo 4.º do Regime Legal da Poluição Sonora, aprovado pelo Decreto-Lei n.º 292/2000, de 14 de Novembro, devem ser acompanhados de um projecto acústico que observe os valores do índice de isolamento sonoro a sons de condução aérea, normalizado, D(índice 2 m, n, w,) entre o exterior dos edifícios e os compartimentos em causa, referenciados para zonas mistas.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor 60 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Diogo Campos Barradas de Lacerda Machado - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa - Luís Miguel de Oliveira Fontes.
+
+Promulgado em 23 de Abril de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 26 de Abril de 2002.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo — (a que se refere o artigo 1.º)
+
+REGULAMENTO DOS REQUISITOS ACÚSTICOS DOS EDIFÍCIOS
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente Regulamento estabelece os requisitos acústicos dos edifícios, com vista a melhorar as condições de qualidade da acústica desses edifícios.
+
+2 - As normas do presente Regulamento aplicam-se à construção, reconstrução, ampliação ou alteração dos seguintes tipos de edifícios, em função dos usos a que os mesmos se destinam:
+
+a) Edifícios habitacionais e mistos, e unidades hoteleiras;
+
+b) Edifícios comerciais e de serviços, e partes similares em edifícios industriais;
+
+c) Edifícios escolares e similares, e de investigação;
+
+d) Edifícios hospitalares e similares;
+
+e) Recintos desportivos;
+
+f) Estações de transporte de passageiros.
+
+g) Auditórios e salas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 2.º — Definições
+
+Para os efeitos do disposto no presente Regulamento, entende-se por:
+
+a) «Tempo de reverberação, T» - intervalo de tempo necessário para que a energia volúmica do campo sonoro de um recinto fechado se reduza a um milionésio do seu valor inicial;
+
+b) «Isolamento sonoro a sons de condução aérea, padronizado, D(índice 2 m, nT)» - diferença entre o nível médio de pressão sonora exterior, medido a 2 m da fachada do edifício (L(índice 1,2 m)), e o nível médio de pressão sonora medido no local de recepção (L(índice 2)), corrigido da influência das condições de reverberação do compartimento receptor, segundo a expressão:
+
+D(índice 2 m , nT) = L(índice 1,2 m) - L(índice 2) + 10 Log(T/T(índice 0)) dB
+
+em que:
+
+T - é o tempo de reverberação do compartimento receptor, em segundos; e
+
+T(índice 0) - é o tempo de reverberação de referência, em segundos; para compartimentos de habitação ou com dimensões comparáveis, T(índice 0) = 0,5 s; para compartimentos em que haja tempo de reverberação atribuível em projecto, o valor de referência a considerar será o do respectivo tempo de dimensionamento;
+
+c) «Isolamento sonoro a sons de condução aérea, padronizado, D(índice nT)» - diferença entre o nível médio de pressão sonora medido no compartimento emissor (L(índice 1)) produzido por uma ou mais fontes sonoras, e o nível médio de pressão sonora medido no compartimento receptor (L(índice 2)), corrigido da influência das condições de reverberação do compartimento receptor, segundo a expressão:
+
+D(índice nT) = L(índice 1) - L(índice 2) + 10 Log(T/T(índice 0)) dB
+
+d) «Nível sonoro de percussão padronizado, L'(índice nT)» - nível sonoro médio (L(índice i)) medido no compartimento receptor, proveniente de uma excitação de percussão normalizada exercida sobre um pavimento, corrigido da influência das condições de reverberação do compartimento receptor, segundo a expressão:
+
+L'(índice nT) = L(índice i) -10 Log(T/T(índice 0)) dB
+
+e) «Nível de avaliação padronizado, L(índice Ar, nT)» - o nível sonoro contínuo equivalente, ponderado A, durante um intervalo de tempo especificado, adicionado da correcção devida às características tonais do ruído, K, e corrigido da influência das condições de reverberação do compartimento receptor, segundo a expressão:
+
+L(índice Ar, nT) = L(índice A) + K - 10 Log(T/T(índice 0)) dB
+
+f) «Termo de adaptação, C ou C(índice tr)» - correcção definida na EN ISO 717-1, função das características espectrais do ruído na emissão, a anexar ao índice de isolamento sonoro a sons de condução aérea.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 3.º — Responsabilidade
+
+1 - Na elaboração dos projectos de condicionamento acústico dos edifícios e suas fracções, abrangidos pelo presente Regulamento, para os efeitos previstos nos n.os 3, 4, 5 e 7 do artigo 12.º do Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 9/2007, de 17 de Janeiro, são aplicáveis as normas sobre requisitos acústicos dos edifícios constantes dos artigos 5.º a 10.º-A do presente Regulamento.
+
+2 - Os projectos de condicionamento acústico devem ser elaborados e subscritos por técnicos qualificados que, sendo engenheiros, possuam especialização em engenharia acústica outorgada pela Ordem dos Engenheiros ou, não sendo engenheiros ou não tendo aquela especialização, tenham recebido qualificação adequada na área da acústica de edifícios reconhecida pelas respectivas ordens ou associações profissionais.
+
+3 - O projecto de condicionamento acústico deve ser instruído com uma declaração do técnico que ateste a observância das normas gerais sobre prevenção do ruído e das normas do presente Regulamento.
+
+4 - A declaração a que alude o número anterior reveste a natureza de um termo de responsabilidade, dispensando a apreciação prévia dos projectos por parte dos serviços municipais.
+
+5 - A responsabilidade pela execução da obra a que se refere o projecto de condicionamento acústico é aferida nos termos do Regime Jurídico da Urbanização e da Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
+
+6 - A verificação da conformidade das disposições do presente Regulamento deve ser efectuada com base em ensaios acústicos, realizados de acordo com a normalização aplicável, nos termos do disposto no n.º 5 do artigo 12.º, conjugado com os artigos 33.º e 34.º, do Regulamento Geral do Ruído, sendo aplicáveis às entidades não acreditadas as metodologias e os critérios de amostragem de ensaios e medições acústicas utilizados pelas entidades acreditadas.
+
+7 - Para efeitos do disposto no número anterior, o Laboratório Nacional de Engenharia Civil (LNEC) define, no prazo de seis meses, os respectivos critérios de amostragem, devendo os mesmos ser publicitados nos sítios na Internet do LNEC e do organismo nacional de acreditação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 4.º — Acompanhamento da aplicação e apoio técnico
+
+1 - Ao Laboratório Nacional de Engenharia Civil compete acompanhar a aplicação do presente Regulamento, bem como prestar o apoio técnico necessário à boa execução das normas previstas no mesmo.
+
+2 - A divulgação e o acesso à normalização portuguesa, europeia e internacional é assegurado pelo Instituto Português da Qualidade, nos termos da legislação aplicável.
+
+### Capítulo II — Requisitos acústicos dos edifícios
+
+###### Artigo 5.º — Edifícios habitacionais e mistos, e unidades hoteleiras
+
+1 - Os edifícios e as suas fracções que se destinem a usos habitacionais ou que, para além daquele uso, se destinem também a comércio, indústria, serviços ou diversão, estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
+
+a) O índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT ,w), entre o exterior do edifício e quartos ou zonas de estar dos fogos deve satisfazer o seguinte:
+
+i) D(índice 2 m, nT, w) (igual ou maior que) 33 dB, em zonas mistas ou em zonas sensíveis reguladas pelas alíneas c), d) e e) do n.º 1 do artigo 11.º do Regulamento Geral do Ruído;
+
+ii) D(índice 2 m, nT, w) (igual ou maior que) 28 dB, em zonas sensíveis reguladas pela alínea b) do n.º 1 do artigo 11.º do Regulamento Geral do Ruído;
+
+iii) Os valores limite dos índices referidos nas subalíneas i) e ii) são acrescidos de 3 dB, quando se verifique o disposto no n.º 7 do artigo 12.º do Regulamento Geral do Ruído;
+
+iv) Quando a área translúcida for superior a 60 % do elemento de fachada em análise, deve ser adicionado ao índice D(índice 2 m, nT, w) o termo de adaptação apropriado, C ou C(índice tr), conforme o tipo de ruído dominante na emissão, mantendo-se os limites das subalíneas i) e ii);
+
+b) O índice de isolamento sonoro a sons de condução aérea, D(índice nT, w), entre compartimentos de um fogo, como locais emissores, e quartos ou zonas de estar de outro fogo, como locais receptores, deve satisfazer o seguinte:
+
+D(índice nT, w) (igual ou maior que) 50 dB
+
+c) O índice de isolamento sonoro a sons de condução aérea, D(índice nT, w), entre locais de circulação comum do edifício, como locais emissores, e quartos ou zonas de estar dos fogos, como locais receptores, deve satisfazer o seguinte:
+
+i) D(índice nT, w) (igual ou maior que) 48 dB;
+
+ii) D(índice nT, w) (igual ou maior que) 40 dB, se o local emissor for um caminho de circulação vertical, quando o edifício seja servido por ascensores;
+
+iii) D(índice nT, w) (igual ou maior que) 50 dB, se o local emissor for uma garagem de parqueamento automóvel;
+
+d) O índice de isolamento sonoro a sons de condução aérea, D(índice nT, w), entre locais do edifício destinados a comércio, indústri serviços ou diversão, como locais emissores, e quartos ou zonas de estar dos fogos, como locais receptores, deve satisfazer o seguinte:
+
+D(índice nT, w) (igual ou maior que) 58 dB
+
+e) No interior dos quartos ou zonas de estar dos fogos, como locais receptores, o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), proveniente de uma percussão normalizada sobre pavimentos dos outros fogos ou de locais de circulação comum do edifício, como locais emissores, deve satisfazer o seguinte:
+
+L'(índice nT, w) (igual ou menor que) 60 dB
+
+f) A disposição estabelecida na alínea anterior não se aplica, se o local emissor for um caminho de circulação vertical, quando o edifício seja servido por ascensores;
+
+g) No interior dos quartos ou zonas de estar dos fogos, como locais receptores, o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), proveniente de uma percussão normalizada sobre pavimentos de locais do edifício destinados a comércio, indústria, serviços ou diversão, como locais emissores, deve satisfazer o seguinte:
+
+L'(índice nT, w) (igual ou menor que) 50 dB
+
+h) No interior dos quartos e zonas de estar dos fogos, o nível de avaliação, L(índice Ar, nT), do ruído particular de equipamentos colectivos do edifício, tais como ascensores, grupos hidropressores, sistemas centralizados de ventilação mecânica, automatismos de portas de garagem, postos de transformação de corrente eléctrica e instalações de escoamento de águas, deve satisfazer o seguinte:
+
+i) L(índice Ar, nT) (igual ou menor que) 32 dB (A), se o funcionamento do equipamento for intermitente;
+
+ii) L(índice Ar, nT) (igual ou menor que) 27 dB (A), se o funcionamento do equipamento for contínuo;
+
+iii) L(índice Ar, nT) (igual ou menor que) 40 dB (A), se o equipamento for um grupo gerador eléctrico de emergência.
+
+2 - Nas unidades hoteleiras e para efeito de aplicação dos requisitos das alíneas anteriores, deverá considerar-se que cada quarto equivale a um fogo.
+
+3 - A determinação do índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w) ou D(índice nT, w), do índice de isolamento sonoro a sons de percussão, L'(índice nT, w) e do nível de avaliação, L(índice Ar, nT), deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+4 - Na determinação das componentes tonais do nível de avaliação, L(índice Ar, nT), é adoptada a metodologia definida no anexo I ao Regulamento Geral do Ruído.
+
+5 - Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+6 - O edifício, ou qualquer dos seus fogos, é considerado conforme aos requisitos acústicos aplicáveis, quando, cumulativamente:
+
+a) O valor obtido para o índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w) ou D(índice nT, w), acrescido do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+b) O valor obtido para o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), diminuído do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar.
+
+7 - O ruído proveniente do funcionamento de equipamentos de carácter privativo, como sejam os sistemas de aquecimento, ventilação e ar condicionado, adstritos a uma determinada fracção habitacional, deve ser enquadrado no disposto no artigo 24.º do Regulamento Geral do Ruído.
+
+8 - Às operações de reabilitação de edifícios ou frações autónomas, total ou predominantemente afetos ao uso habitacional, como tal definidas no decreto-lei que estabelece o regime aplicável à reabilitação de edifícios ou frações autónomas construídos ao abrigo do direito anterior, é aplicável o seguinte:
+
+a) Nas obras de alteração e nas obras de ampliação, relativamente à parte preexistente, são aplicáveis as normas técnicas estabelecidas em portaria do membro do Governo responsável pela área da reabilitação, quando estas se revelem mais adequados, em função dos princípios previstos no decreto-lei que estabelece o regime aplicável à reabilitação de edifícios ou frações autónomas;
+
+b) Nas obras de ampliação, relativamente à parte ampliada, e nas obras de reconstrução, é aplicável o disposto no presente artigo, salvo nos casos em que existam fortes condicionantes determinadas pela necessidade de coerência com o edifício preexistente, sendo, nesses casos, aplicável o disposto na portaria referida na alínea anterior.
+
+9 - A aplicação das normas técnicas, nos termos previstos no número anterior, é sempre fundamentada pelo projetista na memória descritiva e apreciada pela entidade competente para aprovação do projeto.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 6.º — Edifícios comerciais e de serviços, e partes similares em edifícios industriais
+
+1 - Os edifícios que se destinem a usos comerciais ou de prestação de serviços, ou partes análogas integradas em edifícios industriais, estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
+
+a) O índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), entre o exterior dos edifícios, como local emissor, e os locais tipificados no quadro I do anexo ao presente Regulamento, como locais receptores, deve satisfazer o seguinte:
+
+i) D(índice 2 m, nT, w) (igual ou maior que) 30 dB, para os escritórios;
+
+ii) D(índice 2 m, nT, w) (igual ou maior que) 25 dB, para os restantes recintos;
+
+iii) Quando a área translúcida for superior a 60 % do elemento de fachada em análise, deve ser adicionado ao índice D(índice 2 m, nT, w) o termo de adaptação apropriado, C ou C(índice tr), conforme o tipo de ruído dominante na emissão, mantendo-se os limites das subalíneas i) e ii);
+
+b) No interior dos escritórios, ou de recintos com vocação similar, o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), proveniente de uma excitação de percussão normalizada sobre pavimentos de outros locais do edifício, como locais emissores, deve satisfazer o seguinte:
+
+L'(índice nT, w) (igual ou menor que) 60 dB
+
+c) No interior dos locais indicados no quadro I do anexo ao presente Regulamento, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deverá satisfazer as condições indicadas no quadro referido;
+
+d) Nos locais situados no interior do edifício onde se exerçam actividades que requeiram concentração e sossego, o nível de avaliação, L(índice Ar, nT), do ruído particular de equipamentos do edifício deve satisfazer o seguinte:
+
+i) L(índice Ar, nT) (igual ou menor que) 42 dB (A), se o funcionamento do equipamento for intermitente;
+
+ii) L(índice Ar, nT) (igual ou menor que) 37 dB (A), se o funcionamento do equipamento for contínuo.
+
+2 - A determinação do índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), do índice de isolamento sonoro a sons de percussão, L'(índice nT, w), do nível de avaliação, L(índice Ar, nT), e do tempo de reverberação, T, deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+3 - Na determinação das componentes tonais do nível de avaliação, L(índice Ar, nT) , é adoptada a metodologia definida no anexo I ao Regulamento Geral do Ruído.
+
+4- Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+5 - O edifício, ou qualquer das suas fracções, é considerado conforme aos requisitos acústicos aplicáveis, quando, cumulativamente:
+
+a) O valor obtido para o índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), acrescido do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+b) O valor obtido para o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), diminuído do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar;
+
+d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 7.º — Edifícios escolares e similares, e de investigação
+
+1 - Os edifícios escolares e similares, de investigação e de leitura estão sujeitos aos seguintes requisitos acústicos:
+
+a) O índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), entre o exterior dos edifícios, como local emissor, e os compartimentos interiores identificados no quadro ii do anexo ao presente Regulamento, como locais receptores, deve satisfazer o seguinte:
+
+i) D(índice 2 m, nT, w) (igual ou maior que) 33 dB, em zonas mistas ou em zonas sensíveis reguladas pelas alíneas c), d) e e) do n.º 1 do artigo 11.º do Regulamento Geral do Ruído;
+
+ii) D(índice 2 m, nT, w) (igual ou maior que) 28 dB, em zonas sensíveis reguladas pela alínea b) do n.º 1 do artigo 11.º do Regulamento Geral do Ruído;
+
+iii) Quando a área translúcida for superior a 60 % do elemento de fachada em análise, deve ser adicionado ao índice D(índice 2 m, nT, w) o termo de adaptação apropriado, C ou C(índice tr), conforme o tipo de ruído dominante na emissão, mantendo-se os limites das subalíneas i) e ii);
+
+b) O índice de isolamento sonoro a sons de condução aérea, D(índice nT, w), entre locais do edifício, deve satisfazer as condições indicadas no quadro ii do anexo ao presente Regulamento;
+
+c) No interior dos locais de recepção definidos no quadro ii, o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), proveniente de uma excitação de percussão normalizada sobre pavimentos de outros locais do edifício, como locais emissores, deve satisfazer o seguinte:
+
+i) L'(índice nT, w) (igual ou menor que) 60 dB, se o local emissor for corredor de grande circulação, ginásio, refeitório ou oficina;
+
+ii) L'(índice nT, w) (igual ou menor que) 65 dB, se o local emissor for salas de aulas, berçário ou salas polivalentes;
+
+d) No interior dos locais que constam do quadro iii do anexo ao presente Regulamento, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deve satisfazer as condições indicadas no referido quadro;
+
+e) O paramento interior da envolvente dos átrios e corredores de grande circulação deve ser dotado de revestimentos absorventes sonoros, cuja área de absorção sonora equivalente, A (m2), correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, seja maior ou igual a 25 % da superfície de pavimento dos locais considerados;
+
+f) No interior dos locais de recepção indicados no quadro ii, o nível de avaliação, L(índice Ar, nT), do ruído particular de equipamentos do edifício deve satisfazer as condições indicadas no quadro iv do anexo ao presente Regulamento.
+
+2 - A determinação do índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w) ou D(índice nT, w), do índice de isolamento sonoro a sons de percussão, L'(índice nT, w), do tempo de reverberação, T, e do nível de avaliação, L(índice Ar, nT), deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+3 - Na determinação das componentes tonais do nível de avaliação, L(índice Ar, nT), é adoptada a metodologia definida no anexo I ao Regulamento Geral do Ruído.
+
+4 - Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+5 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis, quando, cumulativamente:
+
+a) O valor obtido para o índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w) ou D(índice nT, w), acrescido do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+b) O valor obtido para o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), diminuído do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar;
+
+d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 8.º — Edifícios hospitalares e similares
+
+1 - Os edifícios que se destinem à prestação de serviços hospitalares e de cuidados análogos estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
+
+a) O índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), entre o exterior dos edifícios, como local emissor, e os compartimentos interiores identificados no quadro V do anexo ao presente Regulamento, como locais receptores, deve satisfazer o seguinte:
+
+i) D(índice 2 m, nT, w) (igual ou maior que) 33 dB, em zonas mistas ou em zonas sensíveis reguladas pelas alíneas c), d) e e) do n.º 1 do artigo 11.º do Regulamento Geral do Ruído;
+
+ii) D(índice 2 m, nT, w) (igual ou maior que) 28 dB, em zonas sensíveis reguladas pela alínea b) do n.º 1 do artigo 11.º do Regulamento Geral do Ruído;
+
+iii) Quando a área translúcida for superior a 60 % do elemento de fachada em análise, deve ser adicionado ao índice D(índice 2 m, nT, w) o termo de adaptação apropriado, C ou C(índice tr), conforme o tipo de ruído dominante na emissão, mantendo-se os limites das subalíneas i) e ii);
+
+b) O índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), entre locais do edifício deve satisfazer as condiçõ indicadas no quadro V do anexo ao presente Regulamento;
+
+c) No interior dos locais de recepção definidos no quadro V do anexo ao presente Regulamento, como locais receptores, o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), proveniente de uma excitação de percussão normalizada sobre pavimentos de outros locais do edifício, como locais emissores, deve satisfazer o seguinte:
+
+i) L'(índice nT, w) (igual ou menor que) 60 dB, se o local emissor for cozinha, refeitório ou oficina;
+
+ii) L'(índice nT, w) (igual ou menor que) 65 dB, para os restantes locais emissores;
+
+d) No interior dos locais constantes do quadro vi do anexo ao presente Regulamento, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deve satisfazer as condições indicadas no referido quadro;
+
+e) O paramento interior da envolvente dos corredores de circulação interna deve ser dotado de revestimentos absorventes sonoros, cuja área de absorção sonora equivalente, A (m2), correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, seja maior ou igual a 25 % da superfície de pavimento dos locais considerados;
+
+f) No interior dos locais de recepção indicados no quadro vi do anexo ao presente Regulamento, o nível de avaliação, L(índice Ar, nT), do ruído particular de equipamentos do edifício deve satisfazer ao seguinte:
+
+i) L(índice Ar, nT) (igual ou menor que) 35 dB (A), se o funcionamento do equipamento for intermitente;
+
+ii) L(índice Ar, nT) (igual ou menor que) 30 dB (A), se o funcionamento do equipamento for contínuo.
+
+2 - A determinação do índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w) ou D(índice nT, w), do índice de isolamento sonoro a sons de percussão, L'(índice nT, w), do tempo de reverberação, T, e do nível de avaliação, L(índice Ar, nT), deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+3 - Na determinação das componentes tonais do nível de avaliação, L(índice Ar, nT), adopta-se a metodologia definida no anexo I ao Regulamento Geral do Ruído.
+
+4 - Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+5 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis, quando, cumulativamente:
+
+a) O valor obtido para o índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w) ou D(índice nT, w), acrescido do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+b) O valor obtido para o índice de isolamento sonoro a sons de percussão, L'(índice nT, w), diminuído do factor I no valor de 3 dB, satisfaça o limite regulamentar;
+
+c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar;
+
+d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 9.º — Recintos desportivos
+
+1 - No interior dos recintos desportivos, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deve satisfazer as condições seguintes, nas quais V se refere ao volume interior do recinto em causa:
+
+a) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,15 V(elevado a 1/3);
+
+b) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,12 V(elevado a 1/3), se os espaços forem dotados de sistema de difusão pública de mensagens sonoras.
+
+2 - A determinação do tempo de reverberação deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+3 - Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+4 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis quando o valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 10.º — Estações de transporte de passageiros
+
+1 - No interior dos átrios ou salas de embarque das estações de transporte de passageiros, de volume superior a 350 m3, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deverá satisfazer as condições seguintes, nas quais V se refere ao volume interior do recinto em causa:
+
+a) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,15 V(elevado a 1/3);
+
+b) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,12 V(elevado a 1/3), se os espaços forem dotados de sistema de difusão pública de mensagens sonoras.
+
+2 - A determinação do tempo de reverberação deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+3 - Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+4 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis quando o valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 10.º-A — Auditórios e salas
+
+1 - Os recintos cuja principal valência corresponda a actividades assentes na oratória, nomeadamente de auditórios, salas de conferência e salas polivalentes, e nas salas de cinema, estão sujeitos aos seguintes requisitos:
+
+a) O tempo de reverberação médio, T, nas bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, a considerar para estes recintos, quando mobilados normalmente e sem ocupação, deve satisfazer o seguinte:
+
+i) T (igual ou menor que) 0,12 V(elevado a 1/3), se V (menor que) 250 m3;
+
+ii) T (igual ou menor que) 0,32 + 0,17 LogV, se 250 (igual ou menor que) V (menor que) 9000 m3;
+
+iii) T (igual ou menor que) 0,05 V(elevado a 1/3), se V (igual ou maior que) 9000 m3;
+
+em que V é o volume interior do recinto, em metros cúbicos;
+
+b) O projecto de condicionamento acústico destes espaços deve incluir um estudo específico destinado a assegurar uma característica de reverberação adequada no restante espectro de frequências e uma boa inteligibilidade da palavra nos diversos locais do recinto.
+
+2 - Nos auditórios e salas cuja principal valência não corresponda a actividades assentes na oratória, nomeadamente de auditórios para música ou salas de espectáculo, o projecto de condicionamento acústico destes espaços deve incluir um estudo específico destinado a assegurar a conformação acústica adequada à sua utilização funcional.
+
+3 - As fachadas dos recintos referidos nos n.os 1 e 2 devem assegurar que os valores do índice de isolamento a sons aéreos, D(índice 2 m, nT, w)0, corrigido do termo de adaptação aplicável, C ou C(índice tr), sejam os necessários para que o nível sonoro contínuo equivalente do ruído ambiente no interior do recinto, determinado a partir da média espacial de pontos representativos, na ausência de funcionamento das instalações técnicas do edifício, L(índice Aeq), satisfaça o seguinte:
+
+L(índice Aeq) (igual ou menor que) 30 dB (A)
+
+4 - Nos complexos de várias salas de cinema, o isolamento sonoro a sons de condução aérea entre salas, expresso em termos do isolamento sonoro padronizado, D(índice nT, w), e o isolamento sonoro padronizado correspondente à banda de oitava centrada na frequência de 63 Hz, D(índice nT, oit.63 Hz), deve satisfazer cumulativamente o seguinte:
+
+a) D(índice nT, w) (igual ou maior que) 65 dB;
+
+b) D(índice nT, oit.63 Hz) (igual ou maior que) 45 dB.
+
+5 - No interior dos recintos, o nível sonoro contínuo equivalente do ruído particular, L(índice Aeq), associado ao funcionamento dos equipamentos e instalações técnicas, designadamente de instalações de aquecimento, ventilação e ar condicionado, deve, com a sala desocupada, satisfazer o seguinte:
+
+a) L(índice Aeq) (igual ou menor que) 38 dB (A), no caso de cinemas;
+
+b) L(índice Aeq) (igual ou menor que) 30 dB (A), nos restantes recintos.
+
+6 - Os requisitos enunciados nos n.os 1 a 5 são aplicáveis aos recintos que constituem o uso principal do edifício em que se inserem e aos que se integram em edifícios com outros usos.
+
+7 - A determinação do tempo de reverberação, T, deve ser efectuada em conformidade com o disposto na normalização portuguesa aplicável ou, caso não exista, na normalização europeia ou internacional.
+
+8 - Nas avaliações in situ destinadas a verificar o cumprimento dos requisitos acústicos dos edifícios deve ser tido em conta um factor de incerteza, I, associado à determinação das grandezas em causa.
+
+9 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis, quando, cumulativamente:
+
+a) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor percentual do limite regulamentar, de acordo com o seguinte, satisfaça o limite regulamentar:
+
+i) 25 %, se V (menor que) 250 m3;
+
+ii) 35 %, se 250 (igual ou menor que) V (menor que) 9000 m3;
+
+iii) 40 %, se V (igual ou maior que) 9000 m3;
+
+b) O valor obtido para o índice de isolamento sonoro a sons de condução aérea, D(índice 2 m, nT, w), acrescido do factor I no valor de 3 dB (A), satisfaça o limite regulamentar;
+
+c) O valor obtido para o índice de isolamento sonoro a sons de condução aérea, D(índice nT, w) acrescido do factor I no valor do 3 dB, e a diferença D(índice nT, oit.63 Hz) acrescida do factor I no valor de 5 dB, satisfaçam o limite regulamentar;
+
+d) O valor obtido para o nível do ruído particular, L(índice Aeq), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+### Capítulo III — Fiscalização e sanções
+
+###### Artigo 11.º — Fiscalização
+
+A fiscalização do cumprimento do presente Regulamento rege-se pelo disposto nos artigos 93.º a 97.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 12.º — Classificação das contra-ordenações
+
+1 - Constitui contra-ordenação ambiental grave:
+
+a) A elaboração de projectos acústicos em violação dos requisitos estabelecidos nos artigos 5.º a 10.º-A do presente Regulamento;
+
+b) A execução de projectos acústicos e a construção de edifícios em violação dos requisitos acústicos respectivamente aplicáveis, estabelecidos nos artigos 5.º a 10.º-A do presente Regulamento.
+
+2 - A tentativa e a negligência são puníveis.
+
+3 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática de infracções graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 13.º — Sanções acessórias
+
+A autoridade competente pode, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 14.º — Instrução dos processos e aplicação das coimas
+
+O processamento das contra-ordenações e a aplicação das respectivas coimas regem-se pelo disposto no n.º 10 do artigo 98.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+###### Artigo 15.º — Produto das coimas
+
+O produto das coimas aplicadas ao abrigo do presente diploma, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, é repartido nos termos do disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01
+
+## Anexo — Quadro I
+
+[a que se refere o artigo 6.º, n.º 1, alíneas a) e b)]
+
+(ver quadro no documento original)
+
+Quadro II
+
+[a que se refere o artigo 7.º, n.º 1, alíneas a), b) e c)]
+
+(ver quadro no documento original)
+
+Quadro III
+
+[a que se refere o artigo 7.º, n.º 1, alínea d)]
+
+(ver quadro no documento original)
+
+Quadro IV
+
+[a que se refere o artigo 7.º, n.º 1, alínea f)]
+
+(ver quadro no documento original)
+
+Quadro V
+
+[a que se refere o artigo 8.º, n.º 1, alíneas a), b) e c)]
+
+(ver quadro no documento original)
+
+Quadro VI
+
+[a que se refere o artigo 8.º, n.º 1, alíneas d) e f)]
+
+(ver quadro no documento original)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2008 - Diário da República n.º 110/2008, Série I de 2008-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682), em vigor a partir de 2008-07-01

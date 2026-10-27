@@ -1,0 +1,1496 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R2100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R2100-20080131",
+ "dre_path": null,
+ "source_lastmod": "2008-01-31",
+ "versions": [
+  {
+   "date": "2008-01-31",
+   "future": false,
+   "celex": "01994R2100-20080131",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "851d7bda92e79715",
+    "347612b1ef884bb0",
+    "e17a2adcfbbdd4cc",
+    "83002435fb511f21",
+    "6b500d4eb4a98c5f",
+    "96d04c5aebae465a",
+    "3124c74084e168be",
+    "23091f9415bed006",
+    "e10046a5f39dbf46",
+    "226c39ffd0a88dad",
+    "7802cb35c7a64b59",
+    "2955939076514c21",
+    "a3f8e5adfe1c5138",
+    "1327eed5eb4f7943",
+    "da4117c258c47452",
+    "12461b909d6b51c0",
+    "31c54d6ee76ae2f1",
+    "f0f8c960bfdbce9b",
+    "689f5bc41aadfb47",
+    "fd788fe9b84f06ea",
+    "8068d151c48a25c8",
+    "1e7a0903d2eed348",
+    "650c9df1a5ae1009",
+    "d4f18dfcac4b4737",
+    "cd1c0b89d1f9b97a",
+    "ff76633795b0f491",
+    "a8a031bc14059b7f",
+    "aae5e2e9eea0abe7",
+    "3616ff330a8850b4",
+    "1ecfc79da3f1ac7f",
+    "b970f488c0cb9eb0",
+    "cee4e2135eb7f386",
+    "6fef96dd4ecc6c6c",
+    "7aad162826319b07",
+    "88b43c1f534c36e3",
+    "6c4af3667d826c73",
+    "a6fb7cc99d8b1828",
+    "15576ba03b1d991d",
+    "a803e9ad9c9f4d18",
+    "a0459c163d7524ec",
+    "8ca2e5a67455c101",
+    "db48091c7c9050b2",
+    "4d6245a06a419e3d",
+    "61bd34acea4e5565",
+    "f23c55ea10251d10",
+    "e351986a89f09e7f",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "249ae81364a40bc4",
+    "6e637fb4607486bb",
+    "f7b00265b5c1459a",
+    "f4140331d1ef4947",
+    "4fa8d38b31110d0c",
+    "13411ce54e0cafdb",
+    "591f0dba768ff4fa",
+    "f0f8c960bfdbce9b",
+    "ad7b8a6cfba97f79",
+    "8cb2c9d0eb8bb598",
+    "c6ec9acde66e1dcd",
+    "4a7ff621c54911a6",
+    "7dbf2bbdd5fdce05",
+    "4ac9180785f9e5f0",
+    "e6a0ab8deb749e24",
+    "1e7a0903d2eed348",
+    "c941eba27e97b78e",
+    "b9861282f1bb255b",
+    "31d974ece34b71c4",
+    "e5737e54ffddad1c",
+    "1ecfc79da3f1ac7f",
+    "2417fc57b3a0f09b",
+    "c8fb2bb768e7a4da",
+    "fdd30a5f5ca21031",
+    "edc7b35fc50204a3",
+    "f43074f98c206ebb",
+    "2ed91b4ded7ab36c",
+    "b86c9427484f8527",
+    "226c39ffd0a88dad",
+    "3f8145b7a3b818ce",
+    "bbb08c538d74b1dc",
+    "8a7e6144506e88a6",
+    "532032ac36510c71",
+    "e783891181271adf",
+    "f0f8c960bfdbce9b",
+    "d21caebf5c5b86fe",
+    "d38fc60c95a43672",
+    "70631cb9c3d58732",
+    "4f332fe31648b21c",
+    "50259ba0bc2f7789",
+    "0ca9c03bc1f1fd2b",
+    "3e627215c2290a4f",
+    "529e53396f5f689c",
+    "cce7b838e1bf3720",
+    "1e7a0903d2eed348",
+    "c86bd13467e8a92a",
+    "169ab5dacf2a7e02",
+    "001cf196eee7ea78",
+    "673639fcc3caab7f",
+    "1ecfc79da3f1ac7f",
+    "ad32457d90529e10",
+    "d5103fc7b9e32cc8",
+    "2d461e4be3bc14e1",
+    "51fa564e64cad02e",
+    "40ed6b62e188ac6f",
+    "309eafde9279dc4d",
+    "ade45242a9f2dece",
+    "72593e62a981edd1",
+    "1456feecf2918d20",
+    "185e42640d18a7d5",
+    "8edac8b2f3cfc22b",
+    "a9cd6b5a593a4975",
+    "ea8d538453dc1e61",
+    "7f213a7b06ccc121",
+    "b76d202a844f758e",
+    "28464015e6bab3d9",
+    "094884f753e3ef8a",
+    "c2ebde749e133e90",
+    "0b742fd01c9d5d2b",
+    "dcbec0184cff43a8",
+    "c6bec91163c9919c",
+    "0d3527e867dc4d11",
+    "5982ffb100c5724a",
+    "6c7169e9ad6e90c9",
+    "7fd045ac4f655f13",
+    "c592c7277dd53936",
+    "06152015c4f284b0",
+    "264e2a01bbe5e163",
+    "fa6da72f61dae4c7",
+    "a7f665be1d4b246d",
+    "99973826fcc02605",
+    "15eabdc2ab8562ed",
+    "035d63c46ce22e1a",
+    "c28dcfb7eef1fd98",
+    "b35c89041c29f80d",
+    "878362a185dbb2ba",
+    "794e3a4a07b68088",
+    "36888e0cfe167420",
+    "abf01e214ab3b047",
+    "2a8d96f717945b77",
+    "2afb88910302409e",
+    "220b14d09f5d03b3",
+    "d9956f1962fdba5d",
+    "7769552fdb1f599f",
+    "5f00d852eb9742c6",
+    "04cf9659c959f079",
+    "b271ba526f3c0c21",
+    "dee44be7427a33ad",
+    "2998956a5eddf601",
+    "e2680ba7ff873f96",
+    "25b50bd622a735f4",
+    "0b2467bfef11b335",
+    "e7ed565097cc0d74",
+    "c68560dc58be7039",
+    "3feec95dbfc91c4e",
+    "faf317b2dab96f14",
+    "464bc884252d7750",
+    "d599fbfac729322b",
+    "b326deb838426cdf",
+    "f9198f1136885bcb",
+    "9a80f70a105d136f",
+    "fb42fc2ec4da2791",
+    "476c013ae8363794",
+    "26d9e98b4c325d2f",
+    "94e99b8e2950b42d",
+    "24ff7b3dff3c86d9",
+    "1dd047ec40575738",
+    "66409b15032eb4d2",
+    "5a6018811882c938",
+    "fee7c0f6661bbf52",
+    "d72e3775b3bee60d",
+    "dae475a79b875aaf",
+    "494a090ddbbbac2e",
+    "0bafce3561df24e6"
+   ]
+  }
+ ],
+ "fragments": {
+  "851d7bda92e79715": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 1994\n\nrelativo ao regime comunitário de protecção das variedades vegetais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 235.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0003)),\n\nConsiderando que as variedades vegetais colocam problemas específicos em matéria de regime de propriedade industrial eventualmente aplicável;\n\nConsiderando que os regimes de propriedade industrial das variedades vegetais não foram harmonizados no plano comunitário, continuando, por conseguinte, a ser regidos pela legislação dos Estados-membros, cujo conteúdo não é uniforme;\n\nConsiderando que, nestas circunstâncias, é oportuno criar um regime comunitário que, embora coexistindo com os regimes nacionais, permita a concessão de direitos de propriedade industrial válidos em toda a Comunidade;\n\nConsiderando que é oportuno que a execução e aplicação do regime comunitário não seja levada a efeito pelas autoridades dos Estados-membros, mas sim por um instituto comunitário com personalidade jurídica, o «Instituto Comunitário das Variedades Vegetais»;\n\nConsiderando que esse regime deve igualmente abranger a evolução das técnicas de reprodução vegetal, incluindo a biotecnologia; que, no sentido de fomentar a reprodução e o desenvolvimento de novas variedades, os reprodutores de espécies vegetais devem desfrutar de uma protecção superior àquela de que gozam actualmente, sem, no entanto, comprometer injustificadamente o aceso à protecção em geral ou no que se refere a certas técnicas de reprodução;\n\nConsiderando que as variedades de todos os géneros e espécies botânicos devem poder beneficiar de protecção;\n\nConsiderando que as variedades susceptíveis de beneficiar de protecção devem respeitar requisitos internacionalmente reconhecidos, isto é, serem distintas, uniformes, estáveis e novas, bem como ter uma denominação de variedade determinada;\n\nConsiderando que é importante prever uma definição de variedade vegetal, a fim de assegurar o correcto funcionamento do sistema;\n\nConsiderando que com esta definição não se pretende alterar definições já estabelecidas no domínio dos direitos da propriedade intelectual, em especial no domínio das patentes, nem interferir com ou excluir a aplicação da legislação que regula a protecção de produtos, incluindo plantas e seu material, ou de processos abrangidos por esses direitos de propriedade industrial;\n\nConsiderando, no entanto, que é altamente desejável dispor de uma definição comum em ambos os domínios; que devem, assim, ser apoiados os esforços nesse sentido a nível internacional, a fim de se chegar a uma definição comum;\n\nConsiderando que, para efeitos da concessão de direitos de protecção comunitária de variedades vegetais, é necessário determinar as características importantes atinentes à variedade; que, no entanto, essas características não dependem necessariamente da sua importância económica;\n\nConsiderando que o regime deve igualmente clarificar quem é titular do direito à protecção comunitária da variedade vegetal; que, em certos casos, esse direito pertencerá em conjunto a diversas pessoas e não só a uma; que deve ser regulada a questão formal da legitimidade para apresentar pedidos;\n\nConsiderando que o regime deve ainda definir o termo «titular» utilizado no presente regulamento; que, sempre que o termo «titular» sem qualquer outra especificação é utilizado no presente regulamento, inclusive no n.º 5 do artigo 29.º, deve ser entendido na acepção que lhe é dada no n.º 1 do artigo 13.º do presente regulamento;\n\nConsiderando que, uma vez que o direito de protecção comunitária das variedades vegetais deve produzir efeitos uniformes em toda a Comunidade, as transacções comerciais sujeitas ao consentimento do titular têm de ser rigorosamente delimitadas; que o âmbito da protecção deve ser alargado, em comparação com o da maioria dos regimes nacionais existentes, a certo material da variedade, para ter em conta o comércio através de países não comunitários onde não existe protecção; que, todavia, a introdução do princípio da exaustão dos direitos deve assegurar que a protecção não seja excessiva;\n\nConsiderando que, no sentido de fomentar a variedade vegetal, o regime confirma basicamente a regra internacionalmente aceite do livre acesso a variedades protegidas para efeitos de desenvolvimento a partir dessas variedades, e de exploração, de novas variedades;\n\nConsiderando que, em certos casos em que a nova variedade, apesar de distinta, deriva essencialmente da variedade inicial, deve ser prevista uma certa forma de dependência do titular desta variedade;\n\nConsiderando que o exercício dos direitos de protecção comunitária das variedades vegetais deve ser sujeito a restrições estabelecidas em disposições adoptadas no interesse público;\n\nConsiderando que essas restrições incluem a salvaguarda da produção agrícola; que este objectivo exige uma autorização de os agricultores utilizarem produtos da colheita para multiplicação em determinadas condições;\n\nConsiderando que deve ser assegurada a criação de condições no plano comunitário;\n\nConsiderando que deve ser igualmente prevista, em certas circunstâncias, a concessão de licenças obrigatórias no interesse público, as quais poderão incluir a necessidade de abastecer o mercado com materiais que ofereçam características específicas, ou de manter o incentivo à obtenção de variedades cada vez mais aperfeiçoadas;\n\nConsiderando que a utilização de denominações de variedade prescritas deve ser tornada obrigatória;\n\nConsiderando que o direito de protecção comunitária das variedades vegetais deve, em princípio, ser eficaz por um período de pelo menos 25 anos e, no caso de vinha e de espécies de árvores, por um período de pelo menos 30 anos; que devem ser especificadas outras razões de extinção do direito;\n\nConsiderando que o direito de protecção comunitária de uma variedade vegetal é objecto da propriedade do titular, devendo ser clarificado o seu papel em relação à legislação não harmonizada dos Estados-membros, em especial a nível do direito civil; que o mesmo se aplica à resolução de infracções e à reivindicação da titularidade do direito de protecção comunitária das variedades vegetais;\n\nConsiderando que é necessário assegurar que a plena aplicação dos princípios do regime de protecção comunitária das variedades vegetais não seja prejudicada pelos efeitos de outros regimes; que, para o efeito, é necessário prever certas regras, de acordo com os compromissos internacionais dos Estados-membros, no que diz respeito às relações com outros direitos de propriedade industrial;\n\nConsiderando que é indispensável analisar se, e em que medida, é necessário adaptar ou alterar as condições de protecção no âmbito de outros regimes de propriedade industrial, como as patentes, com uma preocupação de coerência com o regime de protecção comunitária das variedades vegetais; que, para o efeito, deverão, quando necessário, ser adoptadas disposições equilibradas no âmbito de legislação comunitária complementar;\n\nConsiderando que os deveres e direitos do Instituto Comunitário das Variedades Vegetais, incluindo os das suas câmaras de recurso, atinentes à concessão, extinção ou verificação de direitos de protecção comunitária das variedades vegetais e às publicações devem, na medida do possível, ser decalcados das regras existentes para outros regimes; que o mesmo acontece no tocante à estrutura e às normas processuais do instituto, à colaboração com a Comissão e os Estados-membros essencialmente através do Conselho de Administração, à participação dos serviços de exame no exame técnico, e ainda às medidas orçamentais necessárias;\n\nConsiderando que o instituto deve ser aconselhado e supervisionado pelo Conselho de Administração já referido, composto por representantes dos Estados-membros e da Comissão;\n\nConsiderando que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos do artigo 235.º;\n\nConsiderando que o presente regulamento tem em conta convenções internacionais existentes, tal como a Convenção internacional para a protecção das variedades vegetais (Convenção UPOV), a Convenção relativa à concessão de patentes europeias (Convenção da patente europeia) ou o Acordo relativo aos aspectos dos direitos de propriedade intelectual relacionados com o comércio, incluindo o comércio de mercadorias falsificadas; que, por conseguinte, estabelece a proibição da concessão de patentes às variedades vegetais apenas na medida em que a Convenção da patente europeia assim o exige, isto é, às variedades vegetais como tal;\n\nConsiderando que o presente regulamento deve ser objecto de revisão, de modo a nele serem introduzidas as alterações que se venham a revelar necessárias na sequência da futura evolução das citadas convenções,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "347612b1ef884bb0": {
+   "fragment_id": "PRIMEIRA PARTE",
+   "type": "divisao",
+   "heading": "PRIMEIRA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PRIMEIRA PARTE"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "83002435fb511f21": {
+   "fragment_id": "Artigo 1.º — Direitos comunitários de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Direitos comunitários de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Direitos comunitários de protecção das variedades vegetais\n\nO presente regulamento institui um regime comunitário de protecção das variedades vegetais, como forma única e exclusiva de protecção comunitária dos direitos de propriedade industrial relativos às variedades vegetais."
+  },
+  "6b500d4eb4a98c5f": {
+   "fragment_id": "Artigo 2.º — Uniformidade de efeitos dos direitos comunitários de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Uniformidade de efeitos dos direitos comunitários de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Uniformidade de efeitos dos direitos comunitários de protecção das variedades vegetais\n\nOs direitos comunitários de protecção das variedades vegetais produzirão efeitos uniformes no território da Comunidade e só podem ser concedidos, transmitidos ou extintos, quanto a esse território, em condições uniformes."
+  },
+  "96d04c5aebae465a": {
+   "fragment_id": "Artigo 3.º — Títulos nacionais de propriedade de variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Títulos nacionais de propriedade de variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Títulos nacionais de propriedade de variedades vegetais\n\nO presente regulamento não prejudica o direito de os Estados-membros concederem títulos nacionais de propriedade de variedades vegetais, excepto nas condições previstas no n.º 1 do artigo 92.º"
+  },
+  "3124c74084e168be": {
+   "fragment_id": "Artigo 4.º — Instituto comunitário",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Instituto comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instituto comunitário\n\nPara efeitos da aplicação do presente regulamento, é criado o Instituto Comunitário das Variedades Vegetais, a seguir designado por «instituto»."
+  },
+  "23091f9415bed006": {
+   "fragment_id": "SEGUNDA PARTE",
+   "type": "divisao",
+   "heading": "SEGUNDA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SEGUNDA PARTE"
+  },
+  "e10046a5f39dbf46": {
+   "fragment_id": "DIREITO MATERIAL",
+   "type": "divisao",
+   "heading": "DIREITO MATERIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIREITO MATERIAL"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7802cb35c7a64b59": {
+   "fragment_id": "CONDIÇÕES DE CONCESSÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "type": "divisao",
+   "heading": "CONDIÇÕES DE CONCESSÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES DE CONCESSÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS"
+  },
+  "2955939076514c21": {
+   "fragment_id": "Artigo 5.º — Objecto dos direitos comunitários de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objecto dos direitos comunitários de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objecto dos direitos comunitários de protecção das variedades vegetais\n\n1. Podem ser objecto de direitos comunitários de protecção das variedades vegetais variedades de todos os géneros e espécies botánicos, incluindo nomeadamente os seus híbridos.\n\n2. Para efeitos do presente regulamento, entende-se por «variedade» um conjunto vegetal pertencente a um mesmo táxon botânico da ordem mais baixa conhecida, conjunto esse que, independentemente de se encontrarem totalmente preenchidas as condições para a concessão do direito de protecção comunitária das variedades vegetais, pode ser:\n\n— definido pela expressão das características resultantes de um determinado genótipo ou combinação de genótipos,\n\n— distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características\n\n— e\n\n— considerado como uma entidade, tendo em conta a sua aptidão para ser reproduzido tal e qual.\n\n3. Um conjunto vegetal é constituído por plantas inteiras ou partes de plantas desde que essas partes sejam capazes de produzir plantas inteiras, ambas a seguir designadas por «constituintes varietais».\n\n4. A expressão das características mencionada no primeiro travessão do n.º 2 pode ser variável ou invariável entre constituintes varietais da mesma espécie, desde que o nível de variação resulte também do genótipo ou combinação de genótipos."
+  },
+  "a3f8e5adfe1c5138": {
+   "fragment_id": "Artigo 6.º — Variedades susceptíveis de protecção",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Variedades susceptíveis de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Variedades susceptíveis de protecção\n\nO direito de protecção comunitária das variedades vegetais será concedido a variedades:\n\na) Distintas;\n\nb) Homogéneas;\n\nc) Estáveis;\n\nd) Novas.\n\nAlém disso, a variedade deverá ser designada por uma denominação própria, nos termos do disposto no artigo 63.º"
+  },
+  "1327eed5eb4f7943": {
+   "fragment_id": "Artigo 7.º — Distinção",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Distinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Distinção\n\n1. Uma variedade é considerada distinta se for possível distingui-la claramente, por referência à expressão das características resultante de um genótipo específico ou de uma combinação de genótipos, de qualquer outra variedade cuja existência seja notoriamente conhecida à data do pedido determinada nos termos do artigo 51.º\n\n2. Considera-se que a existência de outra variedade é notoriamente conhecida em especial quando, à data do pedido determinada nos termos do artigo 51.º:\n\na) Seja objecto de protecção como variedade vegetal ou conste de um registo oficial de variedades vegetais, na Comunidade, em qualquer Estado ou em qualquer organização intergovernamental de reconhecida competência neste domínio;\n\nb) Tenha sido apresentado um pedido de concessão do direito de protecção das variedades vegetais para essa variedade ou tenha sido recebido um pedido para a sua inscrição num registo oficial de variedades, desde que, entretanto, esses pedidos tenham sido deferidos.\n\nAs regras de execução a que se refere o artigo 114.º podem mencionar outros casos, a título exemplificativo, a considerar como notoriamente conhecidos."
+  },
+  "da4117c258c47452": {
+   "fragment_id": "Artigo 8.º — Homogeneidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Homogeneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Homogeneidade\n\nUma variedade é considerada homogénea se, tendo em conta a variação previsível resultante das particularidades da sua multiplicação, for suficientemente homogénea na expressão das características incluídas na análise do seu carácter distinto, bem como de quaisquer outras utilizadas para a descrição da variedade."
+  },
+  "12461b909d6b51c0": {
+   "fragment_id": "Artigo 9.º — Estabilidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Estabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estabilidade\n\nUma variedade é considerada estável se a expressão das características incluídas na análise do seu carácter distinto, bem como de todas as outras utilizadas para a descrição da variedade, permanecer sem alterações depois de sucessivas multiplicações ou, no caso de um determinado ciclo de multiplicação, no fim de cada ciclo."
+  },
+  "31c54d6ee76ae2f1": {
+   "fragment_id": "Artigo 10.º — Novidade",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Novidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Novidade\n\n1. Uma variedade é considerada nova se, à data do depósito do pedido determinada nos termos do artigo 51.º, os seus constituintes varietais ou material de colheita da variedade não tiverem sido vendidos ou de qualquer outro modo cedidos a terceiros, pelo ou com o consentimento do reprodutor na acepção do artigo 11.º, para efeitos de exploração dessa variedade:\n\na) Mais de um ano antes da data acima referida, no território da Comunidade;\n\nb) Mais de quatro ou, no caso das videiras e das árvores, mais de seis anos antes da referida data, fora do território da Comunidade.\n\n2. A cedência de constituintes varietais a um organismo oficial para efeitos legais, ou a terceiros, com base numa relação contratual ou em qualquer outra relação jurídica, para fins unicamente de produção ou reprodução (multiplicação), acondicionamento ou armazenagem não será considerada como cedência a terceiros na acepção do n.º 1, desde que o reprodutor conserve o direito exclusivo de dispor desses ou doutros constituintes varietais e não haja qualquer outra cedência. A referida cedência é todavia considerada como cedência na acepção do n.º 1, no caso de os constituintes varietais serem repetidamente utilizados na produção de uma variedade híbrida ou de haver cedência de constituintes varietais ou material de colheita da variedade híbrida.\n\nDo mesmo modo, a cedência de constituintes varietais por uma sociedade, na acepção do segundo parágrafo do artigo 58.º do Tratado, a outra sociedade do mesmo tipo, não será considerada como cedência a terceiros quando uma delas pertença integralmente à outra ou quando ambas pertençam integralmente a uma terceira sociedade do mesmo tipo, e desde que não se proceda a qualquer outra cedência. Esta disposição não se aplica às sociedades cooperativas.\n\n3. A cedência de constituintes varietais ou de material de colheita da variedade, que tenham sido produzidos a partir de plantas cultivadas para os fins referidos nas alíneas b) e c) do artigo 15.º e não utilizados posteriormente para nova reprodução ou multiplicação não será considerada como exploração da variedade, salvo se se fizer referência à variedade para efeitos dessa cedência.\n\nDo mesmo modo, não será tão-pouco tida em conta a cedência a terceiros que seja devida por, ou consequência do facto, de o reprodutor ter apresentado a variedade numa exposição oficial ou oficialmente reconhecida na acepção da Convenção das exposições internacionais ou numa exposição num Estado-membro oficialmente reconhecida como equivalente por esse Estado-membro."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "689f5bc41aadfb47": {
+   "fragment_id": "TITULARES",
+   "type": "divisao",
+   "heading": "TITULARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TITULARES"
+  },
+  "fd788fe9b84f06ea": {
+   "fragment_id": "Artigo 11.º — Direito comunitário de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Direito comunitário de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direito comunitário de protecção das variedades vegetais\n\n1. Considera-se titular do direito comunitário de protecção das variedades vegetais a pessoa que criou ou descobriu e desenvolveu a variedade ou o seu sucessível, ambos — essa pessoa e o seu sucessível — a seguir designados por «o titular».\n\n2. Se duas ou mais pessoas tiverem criado ou descoberto e desenvolvido em conjunto a variedade, o referido direito pertencer-lhes-á conjuntamente, ou aos respectivos sucessíveis. Esta disposição também se aplica a duas ou mais pessoas, nos casos em que uma ou mais dessas pessoas tenham descoberto a variedade e a outra ou outras a tenham desenvolvido.\n\n3. O direito à protecção pode igualmente ser conferido conjuntamente ao titular e a qualquer outra pessoa ou pessoas, se o titular e a outra pessoa ou pessoas tiverem acordado, mediante declaração escrita, que lhes pertence conjuntamente o referido direito.\n\n4. Se o titular for um assalariado, o direito à protecção comunitária da variedade vegetal será determinado de acordo com a legislação nacional aplicável à relação de trabalho no âmbito da qual a variedade foi criada ou descoberta e desenvolvida.\n\n5. Quando o direito à protecção comunitária de uma variedade vegetal pertencer a duas ou mais pessoas conjuntamente nos termos dos n.^os^ 2 a 4, uma ou mais de entre elas pode atribuir às outras, mediante declaração escrita, o direito de requerer essa protecção."
+  },
+  "8068d151c48a25c8": {
+   "fragment_id": "Artigo 12.º — Direito de apresentar um pedido de protecção comunitária de variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Direito de apresentar um pedido de protecção comunitária de variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito de apresentar um pedido de protecção comunitária de variedades vegetais\n\nQualquer pessoa singular ou colectiva, ou qualquer organismo com personalidade jurídica nos termos da legislação aplicável, pode apresentar um pedido de protecção comunitária de uma variedade vegetal.\n\nOs pedidos podem ser apresentados conjuntamente por dois ou mais requerentes."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "650c9df1a5ae1009": {
+   "fragment_id": "EFEITOS DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "type": "divisao",
+   "heading": "EFEITOS DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EFEITOS DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS"
+  },
+  "d4f18dfcac4b4737": {
+   "fragment_id": "Artigo 13.º — Direitos do titular de um direito comunitário de protecção de uma variedade vegetal e actos ilícitos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Direitos do titular de um direito comunitário de protecção de uma variedade vegetal e actos ilícitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direitos do titular de um direito comunitário de protecção de uma variedade vegetal e actos ilícitos\n\n1. Um direito comunitário de protecção de uma variedade vegetal tem por efeito habilitar o seu titular ou titulares, a seguir designados por «titular», a praticar os actos previsto no n.º 2.\n\n2. Sem prejuízo do disposto nos artigos 14.º e 15.º, carecem da autorização do titular os seguintes actos relativos aos constituintes varietais, ou ao material de colheita da variedade protegida, ambos a seguir conjuntamente designados por «material»:\n\na) Produção ou reprodução (multiplicação);\n\nb) Acondicionamento para efeitos de multiplicação;\n\nc) Colocação à venda;\n\nd) Venda ou outro tipo de comercialização;\n\ne) Exportação a partir da Comunidade;\n\nf) Importação na Comunidade;\n\ng) Armazenagem para qualquer dos fins referidos nas alíneas a) a f).\n\nO titular pode sujeitar a sua autorização a determinadas condições e restrições.\n\n3. O disposto no n.º 2 apenas é aplicável ao material de colheita se este tiver sido obtido por utilização indevida de constituintes varietais da variedade protegida e desde que o titular não tenha tido uma oportunidade razoável de exercer o seu direito em relação aos referidos constituintes varietais.\n\n4. As regras de execução a que se refere o artigo 114.º poderão prever que, em certos casos específicos, o disposto no n.º 2 do presente artigo também se aplique a produtos obtidos directamente a partir de material da variedade protegida. Estas disposições apenas se aplicam se esses produtos tiverem sido obtidos por utilização indevida de material da variedade protegida, e desde que o titular não tenha tido uma oportunidade razoável de exercer o seu direito em relação ao referido material. Na medida em que o disposto no n.º 2 se aplica a produtos obtidos directamente, estes devem igualmente ser considerados como «material».\n\n5. O disposto nos n.^os^ 1 a 4 é igualmente aplicável às:\n\na) Variedades essencialmente derivadas da variedade à qual foi concedido o direito de protecção comunitária das variedades vegetais, quando essa variedade não for ela própria uma variedade essencialmente derivada;\n\nb) Variedades que, de acordo com o disposto no artigo 7.º, se não distingam da variedade protegida;\n\nc) Variedades cuja produção exija a utilização repetida da variedade protegida.\n\n6. Para efeitos da alínea a) do n.º 5, é considerada essencialmente derivada de outra variedade, a seguir designada por «variedade inicial», qualquer variedade que:\n\na) Derive predominantemente da variedade inicial ou de uma variedade que derive ela própria predominantemente da variedade inicial;\n\nb) Se distinga da variedade inicial nos termos do disposto no artigo 7.º;\n\nc) Excepto no que diz respeito às diferenças resultantes do acto de derivação, seja essencialmente conforme com a variedade inicial em matéria de expressão das características resultantes do genótipo ou da combinação de genótipos da variedade inicial.\n\n7. As regras de execução a que se refere o artigo 114.º poderão especificar possíveis actos de derivação que sejam abrangidos pelo menos pelo disposto no n.º 6.\n\n8. Sem prejuízo do disposto nos artigos 14.º e 29.º, o exercício dos direitos conferidos pelo direito de protecção comunitária das variedades vegetais não pode violar quaisquer disposições adoptadas por motivos de moral, política ou segurança públicas, de protecção da saúde e da vida humana, dos animais e das plantas, de protecção do ambiente, de protecção da propriedade industrial ou comercial, ou de salvaguarda da concorrência, do comércio ou da produção agrícola."
+  },
+  "cd1c0b89d1f9b97a": {
+   "fragment_id": "Artigo 14.º — Excepção ao direito comunitário de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Excepção ao direito comunitário de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Excepção ao direito comunitário de protecção das variedades vegetais\n\n1. Sem prejuízo do disposto no n.º 2 do artigo 13.º, e no intuito de proteger a produção agrícola, os agricultores podem utilizar, para fins de multiplicação nas suas próprias explorações, o produto da colheita que tenham obtido por plantação, nas suas explorações, de material de propagação de uma variedade que não seja um híbrido ou uma variedade artificial, que beneficie da protecção comunitária das variedades vegetais.\n\n2. O disposto no n.º 1 apenas se aplica às espécies agrícolas de:\n\na) Plantas forrageiras:\n\n*Cicer arietinum L.* — Grão-de-bico\n\n*Lupinus luteus L.* — Tremocilha\n\n*Medicago sativa L.* — Luzerna\n\n*Pisum sativum L. (partim)* — Ervilha forrageira\n\n*Trifolium alexandrinum L.* — Bersim\n\n*Trifolium resupinatum L.* — Trevo da Pérsia\n\n*Vicia faba* — Favarola\n\n*Vicia sativa L.* — Ervilhaca vulgar\n\nb) Cereais:\n\n*Avena sativa* — Aveia\n\n*Hordeum vulgare L.* — Cevada dística\n\n*Oryza sativa L.* — Arroz\n\n*Phalaris canariensis L.* — Alpista\n\n*Secale cereale L.* — Centeio\n\n*X Triticosecale Wittm.* — Triticale\n\n*Triticum aestivum L. emend. Fiori et Paol.* — Trigo mole\n\n*Triticum durum Desf.* — Trigo duro\n\n*Triticum spelta L.* — Espelta.\n\nc) Batatas:\n\n*Solanum tuberosum* — Batatas.\n\nd) Plantas oleaginosas e fibrosas:\n\n*Brassica napus L. (partim)* — Colza\n\n*Brassica rapa L. (partim)* — Nabita\n\n*Linum usitatissimum* — Linho oleaginoso.\n\n3. As condições para a aplicação da excepção prevista no n.º 1 e para salvaguardar os legítimos interesses do titular e do agricultor serão estabelecidas, antes da entrada em vigor do presente regulamento, nas regras de execução a que se refere o artigo 114.º, com base nos seguintes critérios:\n\n— não serão estabelecidas restrições quantitativas a nível da exploração agrícola, desde que se trate de necessidades da exploração,\n\n— o produto da colheita poderá ser processado para plantação, quer pelo próprio agricultor, quer por serviços que lhe sejam prestados, sem prejuízo das restrições que os Estados-membros possam estabelecer para a organização do processamento do referido produto da colheita, em particular para garantir que o produto resultante do processamento seja idêntico ao produto a processar,\n\n— os pequenos agricultores não serão obrigados a pagar qualquer remuneração ao titular; consideram-se pequenos agricultores:\n\n— no caso das espécies vegetais a que se refere o n.º 2 do presente artigo, a que se aplica o Regulamento (CEE) n.º 1765/92 do Conselho, de 30 de Junho de 1992, que institui um sistema de apoio aos produtores de determinadas culturas arvenses ([^4^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0004)), os agricultores que não cultivem uma área superior à que seria necessária para produzir 92 toneladas de cereais; para o cálculo dessa área, aplica-se o n.º 2 do artigo 8.º do citado regulamento,\n\n— no caso das outras espécies vegetais a que se refere o n.º 2 do presente artigo, os agricultores que preencham critérios adequados comparáveis,\n\n— os restantes agricultores devem pagar ao titular uma remuneração equitativa, que deve ser significativamente inferior ao preço da produção licenciada do material de propagação da mesma variedade na mesma área; o nível real dessa remuneração poderá variar ao longo do tempo, de acordo com o uso que for feito da excepção prevista no n.º 1 no caso da variedade em questão,\n\n— a verificação do cumprimento do presente artigo ou das disposições adoptadas com base nele será da exclusiva responsabilidade dos titulares; na organização desse controlo, não podem ser assistidos por organismos oficiais,\n\n— sempre que os titulares o solicitem, os agricultores e os prestadores de serviços de processamento devem prestar-lhes as informações pertinentes; os organismos oficiais envolvidos no controlo da produção agrícola podem igualmente prestar aos titulares informações pertinentes, desde que estas tenham sido obtidas no desempenho normal das suas funções, sem quaisquer encargos ou custos suplementares. No que se refere aos dados pessoais, a presente disposição não prejudica a legislação comunitária e nacional sobre a protecção dos indivíduos relativamente ao processamento e à livre transmissão de dados pessoais."
+  },
+  "ff76633795b0f491": {
+   "fragment_id": "Artigo 15.º — Limites da eficácia dos direitos comunitários de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Limites da eficácia dos direitos comunitários de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Limites da eficácia dos direitos comunitários de protecção das variedades vegetais\n\nO direito comunitário de protecção das variedades vegetais não abrange:\n\na) Actos praticados a título privado e com objectivos não comerciais;\n\nb) Actos praticados para fins experimentais;\n\nc) Actos praticados para criar ou descobrir e desenvolver outras variedades;\n\nd) Actos a que se referem os n.^os^ 2 a 4 do artigo 13.º respeitantes a essas outras variedades, excepto quando se aplicar o disposto no n.º 5 do mesmo artigo ou quando a outra variedade ou o seu material estiverem abrangidos por um direito de propriedade que não preveja uma disposição comparável;\n\ne) Actos cuja proibição viole o disposto no n.º 8 do artigo 13.º e nos artigos 14.º e 29.º"
+  },
+  "a8a031bc14059b7f": {
+   "fragment_id": "Artigo 16.º — Caducidade dos direitos comunitários de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Caducidade dos direitos comunitários de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Caducidade dos direitos comunitários de protecção das variedades vegetais\n\nO direito comunitário de protecção das variedades vegetais não abrange os actos relativos a qualquer material da variedade protegida, ou de uma variedade abrangida pelo disposto no n.º 5 do artigo 13.º, que tenha sido cedido a terceiros pelo titular ou com o seu consentimento, em qualquer ponto da Comunidade, ou qualquer material derivado do referido material, a menos que esses actos:\n\na) Impliquem posterior multiplicação da variedade em questão, excepto se essa multiplicação constituir já o objectivo da cedência do material em questão;\n\nb) Impliquem uma exportação de constituintes varietais para um país terceiro que não proteja as variedades do género ou da espécie a que pertence a variedade vegetal, a não ser que o material exportado se destine ao consumo final."
+  },
+  "aae5e2e9eea0abe7": {
+   "fragment_id": "Artigo 17.º — Utilização das denominações varietais",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Utilização das denominações varietais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Utilização das denominações varietais\n\n1. Qualquer pessoa que, no território da Comunidade, ofereça ou ceda a terceiros, para fins comerciais, constituintes varietais de uma variedade protegida ou uma variedade abrangida pelo disposto no n.º 5 do artigo 13.º, deve utilizar a denominação varietal atribuída nos termos do artigo 63.º; quando essa denominação for utilizada por escrito, deverá sê-lo de forma clara e legível. Se à denominação designada estiver associada uma marca registada, uma marca comercial ou uma indicação semelhante, aquela denominação deve ser facilmente reconhecível como tal.\n\n2. Qualquer pessoa que efectue esses actos relativamente a qualquer outro material da variedade deve dar a conhecer essa denominação nos termos de outras disposições legislativas ou a pedido de uma autoridade, do comprador ou de qualquer outra pessoa que nisso tenha interesse legítimo.\n\n3. O disposto nos n.^os^ 1 e 2 é aplicável mesmo após a extinção do direito comunitário de protecção da variedade vegetal."
+  },
+  "3616ff330a8850b4": {
+   "fragment_id": "Artigo 18.º — Limitação da utilização das denominações varietais",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Limitação da utilização das denominações varietais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Limitação da utilização das denominações varietais\n\n1. Mesmo após a extinção do direito de protecção comunitária da variedade vegetal, o titular não pode utilizar um direito concedido relativamente a uma designação que seja idêntica à denominação varietal para impedir a livre utilização dessa denominação em relação à variedade.\n\n2. Um terceiro só pode utilizar um direito concedido relativamente a uma designação idêntica à denominação varietal para impedir a livre utilização dessa denominação se esse direito lhe tiver sido concedido antes de a denominação varietal ser designada nos termos do artigo 63.º\n\n3. Quando uma variedade se encontrar abrangida por um direito comunitário de protecção das variedades vegetais ou, num Estado-membro ou num membro da União Internacional para a Protecção das Variedades Vegetais, por um direito de propriedade nacional, não pode ser usada, no território da Comunidade, nem a sua denominação designada nem qualquer designação que possa ser confundida com ela, em relação a outra variedade da mesma espécie botânica ou de uma espécie considerada relacionada com ela de acordo com a publicação efectuada nos termos do n.º 5 do artigo 63.º, nem para material dessa variedade."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "b970f488c0cb9eb0": {
+   "fragment_id": "DURAÇÃO E EXTINÇÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "type": "divisao",
+   "heading": "DURAÇÃO E EXTINÇÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DURAÇÃO E EXTINÇÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS"
+  },
+  "cee4e2135eb7f386": {
+   "fragment_id": "Artigo 19.º — Duração dos direitos comunitários de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Duração dos direitos comunitários de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Duração dos direitos comunitários de protecção das variedades vegetais\n\n1. O direito comunitário de protecção das variedades vegetais é eficaz até ao final do vigésimo quinto ano civil ou, no caso de variedades de vinha e de espécies de árvores, do trigésimo ano civil subsequente ao ano da sua concessão.\n\n2. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, pode prorrogar, quanto a géneros e variedades específicos, os referidos prazos até um máximo de cinco anos.\n\n3. O direito comunitário de protecção das variedades vegetais extingue-se antes do termo dos prazos previstos no n.º 1 ou no n.º 2 se o titular a ele renunciar mediante declaração escrita enviada ao instituto; a extinção produz efeitos a partir do dia seguinte ao da recepção da declaração pelo instituto."
+  },
+  "6fef96dd4ecc6c6c": {
+   "fragment_id": "Artigo 20.º — Nulidade do direito comunitário de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Nulidade do direito comunitário de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Nulidade do direito comunitário de protecção das variedades vegetais\n\n1. O instituto anulará o direito comunitário de protecção das variedades vegetais, se verificar que:\n\na) As condições referidas nos artigos 7.º ou 10.º não estavam reunidas ao ser concedido esse direito;\n\nb) As condições referidas nos artigos 8.º e 9.º não estavam reunidas ao ser concedido o direito, no caso de a concessão do direito comunitário de protecção das variedades vegetais se ter baseado essencialmente em informações e documentos fornecidos pelo requerente;\n\nc) A protecção foi indevidamente concedida a uma pessoa que a ela não tinha direito, a menos que seja transmitida a quem o tenha.\n\n2. No caso de o instituto anular o direito de protecção comunitária de uma variedade vegetal, considerar-se-á que esse direito não produziu ab initio os efeitos referidos no presente regulamento."
+  },
+  "7aad162826319b07": {
+   "fragment_id": "Artigo 21.º — Privação do direito comunitário de protecção das variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Privação do direito comunitário de protecção das variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Privação do direito comunitário de protecção das variedades vegetais\n\n1. O instituto privará o titular do direito comunitário de protecção das variedades vegetais, com efeitos futuros, se verificar que deixaram de estar reunidas as condições previstas no artigo 8.º ou no artigo 9.º Se verificar que estas condições deixaram de estar preenchidas a partir de uma data anterior à privação do direito, esta pode produzir efeitos a partir dessa data.\n\n2. O instituto pode privar o titular do direito comunitário de protecção das variedades vegetais, com efeitos futuros, se esse titular, a pedido do instituto e dentro do prazo por este estabelecido:\n\na) Não cumprir qualquer das obrigações que lhe incumbem por força do n.º 3 do artigo 64.º;\n\nb) No caso referido no artigo 66.º, não propuser para a variedade outra denominação aceitável;\n\nc) Não proceder ao pagamento das taxas devidas para manter em vigor o direito de protecção comunitária da variedade vegetal;\n\nd) Deixar de satisfazer as condições previstas no artigo 12.º e no n.º 3 do artigo 82.º, quer enquanto primeiro titular quer enquanto transmissário na sequência de uma transmissão nos termos do artigo 23.º"
+  },
+  "88b43c1f534c36e3": {
+   "fragment_id": "KAPITEL V",
+   "type": "divisao",
+   "heading": "KAPITEL V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## KAPITEL V"
+  },
+  "6c4af3667d826c73": {
+   "fragment_id": "OS DIREITOS COMUNITÁRIOS DE PROTECÇÃO DAS VARIEDADES VEGETAIS COMO OBJECTO DE PROPRIEDADE",
+   "type": "divisao",
+   "heading": "OS DIREITOS COMUNITÁRIOS DE PROTECÇÃO DAS VARIEDADES VEGETAIS COMO OBJECTO DE PROPRIEDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OS DIREITOS COMUNITÁRIOS DE PROTECÇÃO DAS VARIEDADES VEGETAIS COMO OBJECTO DE PROPRIEDADE"
+  },
+  "a6fb7cc99d8b1828": {
+   "fragment_id": "Artigo 22.º — Equiparação às legislações nacionais",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Equiparação às legislações nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Equiparação às legislações nacionais\n\n1. Salvo disposição em contrário nos artigos 23.º a 29.º, um direito comunitário de protecção das variedades vegetais enquanto objecto de propriedade é considerado, em todos os aspectos e em todo o território da Comunidade, como um direito de propriedade equivalente no Estado-membro em que:\n\na) Nos termos da inscrição no Registo dos direitos comunitários de protecção das variedades vegetais, o titular se encontrava domiciliado ou tinha a sua sede ou um estabelecimento na data pertinente;\n\nb) Não estando preenchidas as condições previstas na alínea a), o primeiro mandatário do titular, inscrito no referido registo, se encontrava domiciliado ou tinha a sua sede ou um estabelecimento na data do registo.\n\n2. No caso de não estarem preenchidas as condições previstas no n.º 1, o Estado-membro aí referido será o Estado-membro em que está situada a sede do instituto.\n\n3. Quando do registo referido no n.º 1 constarem domicílios, sedes ou estabelecimentos em dois ou mais Estados-membros relativamente ao titular ou aos seus mandatários, o disposto nesse número será aplicável ao domicílio ou sede registado em primeiro lugar.\n\n4. Quando duas ou mais pessoas constarem do registo referido no n.º 1 como co-titulares, o titular a considerar para efeitos da aplicação da alínea a) do n.º 1 será o primeiro co-titular, pela ordem de inscrição no registo, que preencha as condições necessárias. Se nenhum dos co-titulares preencher as condições previstas na alínea a) do n.º 1, aplicar-se-á o disposto no n.º 2."
+  },
+  "15576ba03b1d991d": {
+   "fragment_id": "Artigo 23.º — Transmissão",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transmissão\n\n1. O direito comunitário de protecção de uma variedade vegetal pode ser transmitido a um ou mais sucessíveis.\n\n2. O direito comunitário de protecção das variedades vegetais só pode ser transmitido a sucessíveis que preencham as condições previstas no artigo 12.º e no artigo 82.º A transmissão deve ser efectuada por escrito com a assinatura das partes no contrato, sob pena de nulidade, salvo quando resultar de uma sentença ou qualquer outro acto que ponha termo a um processo judicial.\n\n3. Sem prejuízo do disposto no artigo 100.º, a transmissão não afecta os direitos adquiridos por terceiros antes da data da transmissão.\n\n4. A transmissão só produzirá efeitos relativamente ao instituto e só será oponível a terceiros dentro dos limites fixados nas provas documentais previstas nas regras de execução, e desde que tenha sido inscrita no Registo dos direitos comunitários de protecção das variedades vegetais. Uma transmissão que ainda não tenha sido registada pode, no entanto, ser oposta a terceiros que adquiram direitos após a data da transmissão, mas que dela tinham conhecimento à data em que adquiriram esses direitos."
+  },
+  "a803e9ad9c9f4d18": {
+   "fragment_id": "Artigo 24.º — Execução forçada",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Execução forçada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Execução forçada\n\nO direito comunitário de protecção das variedades vegetais pode ser objecto de medidas de execução forçada e de medidas cautelares, incluindo de protecção, na acepção do artigo 24.º da Convenção relativa à competência judiciária e à execução de decisões em matéria civil e comercial, assinada em 16 de Setembro de 1988, em Lugano, adiante designada por «Convenção de Lugano»."
+  },
+  "a0459c163d7524ec": {
+   "fragment_id": "Artigo 25.º — Processo de falência ou processos análogos",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Processo de falência ou processos análogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processo de falência ou processos análogos\n\nAté à entrada em vigor nos Estados-membros de disposições comuns nesta matéria, o direito comunitário de protecção das variedades vegetais só pode ser considerado num processo de falência, ou num processo análogo, no Estado-membro em que esse processo tiver sido instaurado em primeiro lugar, nos termos da legislação nacional ou das convenções aplicáveis na matéria."
+  },
+  "8ca2e5a67455c101": {
+   "fragment_id": "Artigo 26.º — O pedido de reconhecimento de um direito comunitário de protecção de uma variedade vegetal como objecto de propriedade",
+   "type": "artigo",
+   "heading": "Artigo 26.º — O pedido de reconhecimento de um direito comunitário de protecção de uma variedade vegetal como objecto de propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — O pedido de reconhecimento de um direito comunitário de protecção de uma variedade vegetal como objecto de propriedade\n\nOs artigos 22.º a 25.º são aplicáveis aos pedidos de reconhecimento de direitos comunitários de protecção de variedades vegetais. No que respeita a esses pedidos, as remissões feitas naqueles artigos para o Registo dos direitos comunitários de protecção das variedades vegetais devem ser entendidas como feitas ao Registo dos pedidos de reconhecimento dos direitos comunitários de protecção das variedades vegetais."
+  },
+  "db48091c7c9050b2": {
+   "fragment_id": "Artigo 27.º — Direitos de exploração contratual",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Direitos de exploração contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direitos de exploração contratual\n\n1. Os direitos comunitários de protecção das variedades vegetais podem ser total ou parcialmente objecto de direitos de exploração por via contratual. Esses direitos de exploração podem revestir carácter exclusivo ou não exclusivo.\n\n2. O titular pode invocar os direitos conferidos pelo direito comunitário de protecção das variedades vegetais contra o beneficiário de um direito de exploração que viole uma das condições ou limitações a que essa licença esteja sujeita nos termos do n.º 1."
+  },
+  "4d6245a06a419e3d": {
+   "fragment_id": "Artigo 28.º — Titularidade conjunta",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Titularidade conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Titularidade conjunta\n\nEm caso de titularidade conjunta do direito comunitário de protecção de uma variedade vegetal, os artigos 22.º a 27.º aplicam-se mutatis mutandis às partes respectivas dos co-titulares, quando estas partes tenham sido determinadas."
+  },
+  "61bd34acea4e5565": {
+   "fragment_id": "Artigo 29.º — Licenças obrigatórias",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Licenças obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Licenças obrigatórias\n\n1. O Instituto atribuirá licenças obrigatórias a uma ou mais pessoas, a pedido destas, mas apenas com fundamento em interesse público e depois de ouvido o Conselho de Administração previsto no artigo 36.º\n\n2. A pedido de um Estado-Membro, da Comissão ou de uma organização estabelecida no plano comunitário e registada pela Comissão, pode ser atribuída uma licença obrigatória quer a uma categoria de pessoas que satisfaçam requisitos específicos, quer a qualquer pessoa num ou mais Estados-Membros ou em toda a Comunidade. Apenas pode ser atribuída com fundamento em interesse público e mediante acordo do Conselho de Administração.\n\n3. Ao atribuir a licença obrigatória nos termos dos n.^os^ 1, 2, 5 ou 5-a, o Instituto determinará o tipo de actos abrangidos e especificará as condições equitativas aplicáveis, bem como os requisitos específicos previstos no n.º 2. As condições equitativas podem igualmente incluir um eventual limite de tempo, prever o pagamento de royalties adequadas a título de justa remuneração do titular, e impor ao titular certas condições, sendo o seu cumprimento indispensável para poder ser exercida a licença obrigatória.\n\n4. No termo de cada período de um ano a contar da data de atribuição da licença obrigatória de acordo com os n.^os^ 1, 2, 5 ou 5-a e dentro do citado eventual limite de tempo, qualquer das partes no processo pode solicitar a revogação ou alteração da decisão de atribuição da licença obrigatória. Este pedido só pode ser apresentado com fundamento numa alteração das circunstâncias que determinaram a decisão tomada.\n\n5. A licença obrigatória será atribuída, a pedido, ao titular de uma variedade essencialmente derivada, se forem satisfeitos os critérios estabelecidos no n.º 1. As condições equitativas referidas no n.º 3 incluirão o pagamento de royalties adequadas a título de justa remuneração do titular da variedade inicial.\n\n5a. A licença obrigatória para a exploração não exclusiva de uma variedade vegetal protegida nos termos do n.º 2 do artigo 12.º da Directiva 98/44/CE será concedida, a pedido, ao titular de uma patente relativa a uma invenção biotecnológica, mediante o pagamento de royalties adequadas, sujeita a justa remuneração, ao titular do direito de protecção da variedade vegetal em causa, contanto que o titular da patente prove que:\n\ni) solicitou sem sucesso ao titular do direito de protecção da variedade vegetal a obtenção de uma licença contratual; e que\n\nii) a invenção representa um progresso técnico importante de interesse económico considerável relativamente à variedade vegetal protegida.\n\nQuando, para permitir que obtivesse ou explorasse o seu direito de protecção de uma variedade vegetal, tenha sido concedido ao seu titular, ao abrigo do n.º 1 do artigo 12.º da Directiva 98/44/CE, uma licença obrigatória para a exploração não exclusiva de uma invenção protegida por uma patente, será concedida ao titular da patente dessa invenção, a pedido, em termos razoáveis, uma licença recíproca não exclusiva de exploração da variedade.\n\nO âmbito territorial da licença ou da licença recíproca a que se refere o presente número será limitada à parte ou partes da Comunidade abrangidas pela patente.\n\n6. As regras de execução a que se refere o artigo 114.º podem especificar, a título exemplificativo, alguns casos de interesse público a que se faz referência nos n.^os^ 1, 2 e 5-a, e instituir regras detalhadas para aplicação dos n.^os^ 1 a 5-a.\n\n7. Os Estados-Membros não podem atribuir licenças obrigatórias de variedades que sejam objecto de direitos comunitários de protecção das variedades vegetais."
+  },
+  "f23c55ea10251d10": {
+   "fragment_id": "TERCEIRA PARTE",
+   "type": "divisao",
+   "heading": "TERCEIRA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TERCEIRA PARTE"
+  },
+  "e351986a89f09e7f": {
+   "fragment_id": "INSTITUTO COMUNITÁRIO DAS VARIEDADES VEGETAIS",
+   "type": "divisao",
+   "heading": "INSTITUTO COMUNITÁRIO DAS VARIEDADES VEGETAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INSTITUTO COMUNITÁRIO DAS VARIEDADES VEGETAIS"
+  },
+  "249ae81364a40bc4": {
+   "fragment_id": "Artigo 30.º — Estatuto jurídico, delegações",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Estatuto jurídico, delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estatuto jurídico, delegações\n\n1. O instituto é um organismo da Comunidade. É dotado de personalidade jurídica.\n\n2. Em todos os Estados-membros, o instituto possui a mais ampla capacidade jurídica reconhecida às pessoas colectivas pelas legislações nacionais. Pode nomeadamente adquirir ou alienar bens móveis e imóveis e gozar de capacidade judiciária.\n\n3. O instituto é representado pelo seu presidente.\n\n4. Com o consentimento do Conselho de Administração a que se refere o artigo 36.º, o instituto pode delegar em organismos nacionais o exercício de determinadas funções administrativas ou estabelecer delegações para o efeito nos Estados-membros, com o consentimento destes."
+  },
+  "6e637fb4607486bb": {
+   "fragment_id": "Artigo 31.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pessoal\n\n1. Sem prejuízo da aplicação do artigo 47.º aos membros das instâncias de recurso, são aplicáveis ao pessoal do instituto o Estatuto dos funcionários das Comunidades Europeias, o Regime aplicável aos outros agentes das Comunidades Europeias e os regulamentos de execução dessas disposições, adoptados de comum acordo pelas instituições das Comunidades Europeias.\n\n2. Sem prejuízo do disposto no artigo 43.º, o instituto exercerá em relação ao seu pessoal os poderes atribuídos pelo estatuto e pelo regime aplicável aos outros agentes à autoridade investida do poder de nomeação."
+  },
+  "f7b00265b5c1459a": {
+   "fragment_id": "Artigo 32.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Privilégios e imunidades\n\nÉ aplicável ao instituto o Protocolo relativo aos Privilégios e Imunidades das Comunidades Europeias."
+  },
+  "f4140331d1ef4947": {
+   "fragment_id": "Artigo 33.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Responsabilidade\n\n1. A responsabilidade contratual do instituto rege-se pela lei aplicável ao contrato em causa.\n\n2. O Tribunal de Justiça das Comunidades Europeias é competente para decidir com fundamento em cláusula arbitral constante de um contrato celebrado pelo instituto.\n\n3. Em matéria de responsabilidade não contratual, o instituto deve reparar, de acordo com os princípios gerais comuns aos sistemas jurídicos dos Estados-membros, as perdas e danos causados pelos seus serviços ou pelos funcionários no exercício das suas funções.\n\n4. O Tribunal de Justiça é competente para decidir em litígios relativos à reparação das perdas e danos referidos no n.º 3.\n\n5. A responsabilidade pessoal dos funcionários e outros agentes para com o instituto rege-se pelas disposições do estatuto do pessoal ou do regime que lhes é aplicável."
+  },
+  "4fa8d38b31110d0c": {
+   "fragment_id": "Artigo 33.ºA — Acesso aos documentos",
+   "type": "artigo",
+   "heading": "Artigo 33.ºA — Acesso aos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.ºA — Acesso aos documentos\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^5^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0005)), é aplicável aos documentos detidos pelo Instituto.\n\n2. O Conselho de Administração aprova as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do Regulamento (CE) n.º 1650/2003 do Conselho, de 18 de Junho de 2003, que altera o Regulamento (CE) n.º 2100/94 relativo ao regime comunitário de protecção das variedades vegetais ([^6^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0006)).\n\n3. As decisões tomadas pelo Instituto ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "13411ce54e0cafdb": {
+   "fragment_id": "Artigo 34.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Línguas\n\n1. São aplicáveis ao instituto as disposições previstas no Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^7^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0007)).\n\n2. Os pedidos dirigidos ao instituto, os documentos necessários à instrução dos processos e todos os outros documentos apresentados devem ser redigidos numa das línguas oficiais das Comunidades Europeias.\n\n3. As partes em processos pendentes perante o instituto de acordo com as regras de execução a que se refere o artigo 114.º têm o direito de conduzir os processos escritos e orais em qualquer das línguas oficiais da Comunidade, mediante tradução, e, no caso das audiências, mediante interpretação simultânea para pelo menos uma das outras línguas oficiais das Comunidades Europeias escolhidas por qualquer das outras partes no processo. O exercício destes direitos não acarreta encargos específicos para as partes nos processos.\n\n4. Os serviços de tradução necessários ao funcionamento do instituto serão em princípio prestados pelo departamento de tradução dos órgãos da União."
+  },
+  "591f0dba768ff4fa": {
+   "fragment_id": "Artigo 35.º — Decisões do instituto",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Decisões do instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Decisões do instituto\n\n1. Na medida em que não tenham de ser tomadas pela instância de recurso nos termos do artigo 72.º, as decisões do instituto serão tomadas por ou sob a autoridade do presidente do instituto.\n\n2. Sem prejuízo do n.º 1, as decisões tomadas por força dos artigos 20.º, 21.º, 29.º, 59.º, 61.º, 62.º, 63.º ou 66.º ou do n.º 2 do artigo 100.º serão tomadas por um comité composto por três funcionários do instituto. As regras de execução a que se refere o artigo 100.º estabelecerão quais as qualificações exigidas aos membros desse comité, a competência de cada um desses membros durante a fase preparatória das decisões, as regras de votação e o papel do presidente no âmbito do comité. Fora disso, nas suas decisões os membros do comité não estarão vinculados a quaisquer instruções.\n\n3. As decisões do presidente que não as referidas no n.º 2 poderão ser tomadas por um funcionário do instituto em quem tenham sido delegados poderes para tal nos termos do n.º 2, alínea h) do artigo 42.º"
+  },
+  "ad7b8a6cfba97f79": {
+   "fragment_id": "CONSELHO DE ADMINISTRAÇÃO",
+   "type": "divisao",
+   "heading": "CONSELHO DE ADMINISTRAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONSELHO DE ADMINISTRAÇÃO"
+  },
+  "8cb2c9d0eb8bb598": {
+   "fragment_id": "Artigo 36.º — Criação e competência",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Criação e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Criação e competência\n\n1. É instituído um Conselho de Administração, adstrito ao instituto. Para além das competências que lhe são atribuídas por outras disposições do presente regulamento, ou pelo disposto nos artigos 113.º e 114.º, possui, em relação ao instituto, as seguintes:\n\na) Aconselha em matérias de competência do instituto ou define directrizes gerais neste contexto;\n\nb) Analisa o relatório de gestão do presidente e controla além disso as actividades do instituto com base nessa análise e em quaisquer outras informações obtidas;\n\nc) Determina, sob proposta do instituto, o número de comités referidos no artigo 35.º, a repartição do trabalho e a duração das respectivas funções, ou estabelece directrizes gerais nesta matéria;\n\nd) Pode estabelecer regras quanto aos outros métodos de trabalho do instituto;\n\ne) Pode estabelecer princípios orientadores de análise nos termos do n.º 2 do artigo 56.º\n\n2. Além disso, o Conselho de Administração:\n\n— pode dar pareceres e requerer informações ao instituto e à Comissão, se o considerar necessário,\n\n— pode transmitir à Comissão, com ou sem alterações, os projectos que lhe sejam apresentados nos termos do n.º 2, alínea g), do artigo 42.º, ou os seus próprios projectos de alteração do presente regulamento, das disposições referidas nos artigos 113.º e 114.º e de quaisquer outras regras relativas aos direitos de protecção comunitária das variedades vegetais,\n\n— é consultado nos termos do n.º 4 do artigo 113.º e do n.º 2 do artigo 114.º,\n\n— desempenha as suas funções relativamente ao orçamento do instituto de acordo com o disposto nos artigos 105.º, 106.º e 107.º"
+  },
+  "c6ec9acde66e1dcd": {
+   "fragment_id": "Artigo 37.º — Composição",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Composição\n\n1. O Conselho de Administração é composto por um representante de cada Estado-membro, por um representante da Comissão e pelos respectivos suplentes.\n\n2. Os membros do Conselho de Administração podem ser assistidos por consultores ou peritos em conformidade com o regulamento interno do Conselho de Administração."
+  },
+  "4a7ff621c54911a6": {
+   "fragment_id": "Artigo 38.º — Presidência",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Presidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Presidência\n\n1. O Conselho de Administração elegerá de entre os seus membros um presidente e um vice-presidente. O vice-presidente substitui automaticamente o presidente em caso de impedimento deste para o exercício das suas funções.\n\n2. O mandato do presidente e do vice-presidente expirará quando estes deixarem de ser membros do Conselho de Administração. Sem prejuízo desta disposição, a duração do mandato do presidente e do vice-presidente é de três anos, a menos que seja eleito outro presidente ou vice-presidente antes do termo deste período. O mandato é renovável."
+  },
+  "7dbf2bbdd5fdce05": {
+   "fragment_id": "Artigo 39.º — Reuniões",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reuniões\n\n1. O Conselho de Administração reúne-se por convocação do seu presidente.\n\n2. O presidente do instituto participa nas deliberações, salvo decisão em contrário do Conselho de Administração. O presidente não tem direito de voto.\n\n3. O Conselho de Administração reúne uma vez por ano em sessão ordinária; além disso, pode reunir-se por iniciativa do seu presidente ou a pedido da Comissão ou de um terço dos Estados-membros.\n\n4. O Conselho de Administração adoptará o seu regulamento interno e pode, de acordo com as regras nele estabelecidas, criar comités, que ficarão sob a sua autoridade.\n\n5. O Conselho de Administração pode convidar observadores a participarem nas suas reuniões.\n\n6. O secretariado do Conselho de Administração é assegurado pelo instituto."
+  },
+  "4ac9180785f9e5f0": {
+   "fragment_id": "Artigo 40.º — Local das reuniões",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Local das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Local das reuniões\n\nO Conselho de Administração reunir-se-á na sede da Comissão ou nas instalações do instituto ou de um organismo de exame. As regras aplicáveis nesta matéria serão estabelecidas no regulamento interno."
+  },
+  "e6a0ab8deb749e24": {
+   "fragment_id": "Artigo 41.º — Votação",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Votação\n\n1. O Conselho de Administração toma as suas decisões, com excepção das previstas no n.º 2, por maioria simples dos representantes dos Estados-membros.\n\n2. Para as decisões que o Conselho de Administração está habilitado a tomar nos termos[**►M5**](http://publications.europa.eu/resource/celex/308R0015) —————º—————º—————**◄** do artigo 29.º, do n.º 1, alíneas a), b), d) e e), do artigo 36.º, do artigo 43.º, do artigo 47.º, do n.º 3 do artigo 109.º e do artigo 112.º, é necessária uma maioria de três quartos dos representantes dos Estados-membros.\n\n3. Cada Estado-membro tem direito a um voto.\n\n4. As decisões do Conselho de Administração não são vinculativas, na acepção do artigo 189.º do Tratado."
+  },
+  "c941eba27e97b78e": {
+   "fragment_id": "DIRECÇÃO DO INSTITUTO",
+   "type": "divisao",
+   "heading": "DIRECÇÃO DO INSTITUTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIRECÇÃO DO INSTITUTO"
+  },
+  "b9861282f1bb255b": {
+   "fragment_id": "Artigo 42.º — Funções e competências do presidente",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Funções e competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Funções e competências do presidente\n\n1. A direcção do instituto é assegurada pelo presidente.\n\n2. Para esse efeito, o presidente tem, nomeadamente, as seguintes funções e competências:\n\na) Toma todas as medidas necessárias, incluindo a adopção de instruções administrativas internas e a publicação de comunicações, para assegurar o bom funcionamento do instituto, em conformidade com o disposto no presente regulamento, com as disposições referidas nos artigos 113.º e 114.º, e com as regras estabelecidas ou as directrizes emitidas pelo Conselho de Administração nos termos do n.º 1 do artigo 36.º;\n\nb) Apresenta anualmente um relatório de gestão à Comissão e ao Conselho de Administração;\n\nc) Exerce em relação ao pessoal as competências previstas no n.º 2 do artigo 31.º;\n\nd) Apresenta propostas de acordo com o estabelecido no n.º 1, alínea e), do artigo 36.º e no n.º 2 do artigo 47.º;\n\ne) Elabora a previsão das receitas e despesas do instituto nos termos do n.º 1 do artigo 109.º e executa o seu orçamento nos termos do artigo 110.º;\n\nf) Presta as informações solicitadas pelo Conselho de Administração nos termos do n.º 2, primeiro travessão, do artigo 36.º;\n\ng) Pode apresentar ao Conselho de Administração projectos de alteração do presente regulamento, das disposições referidas nos artigos 113.º e 114.º e de quaisquer outras regras relativas aos direitos de protecção comunitária das variedades vegetais;\n\nh) Pode delegar as suas competências noutros membros do pessoal do instituto, sem prejuízo das disposições constantes dos artigos 113.º e 114.º\n\n3. O presidente será assistido por um ou mais vice-presidentes. Em caso de ausência ou impedimento, o vice-presidente ou um dos vice-presidentes substitui-lo-ão de acordo com o procedimento previsto nas regras estabelecidas, ou nas directrizes emitidas, pelo Conselho de Administração nos termos do n.º 1 do artigo 36.º"
+  },
+  "31d974ece34b71c4": {
+   "fragment_id": "Artigo 43.º — Nomeação de altos funcionários",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Nomeação de altos funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Nomeação de altos funcionários\n\n1. O presidente do instituto é nomeado pelo Conselho a partir de uma lista de candidatos, que serão propostos pela Comissão após parecer do Conselho de Administração. O Conselho tem o direito de demitir o presidente, sob proposta da Comissão, após parecer do Conselho de Administração.\n\n2. O mandato do presidente é de cinco anos no máximo. Este mandato é renovável.\n\n3. O vice-presidente ou vice-presidentes do instituto são nomeados e demitidos de acordo com o disposto nos n.^os^ 1 e 2, depois de ouvido o presidente.\n\n4. O Conselho exerce o poder disciplinar sobre os funcionários referidos nos n.^os^ 1 e 3."
+  },
+  "e5737e54ffddad1c": {
+   "fragment_id": "Artigo 44.º — Controlo da legalidade",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Controlo da legalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Controlo da legalidade\n\n1. A Comissão controlará a legalidade dos actos do presidente em relação aos quais o direito comunitário não preveja o controlo de legalidade por outro órgão e dos actos do Conselho de Administração relativos ao orçamento do instituto.\n\n2. A Comissão solicitará a alteração ou a anulação de qualquer acto ilegal referido no n.º 1.\n\n3. Qualquer dos actos referidos no n.º 1, expressos ou tácitos, podem ser submetidos à apreciação da Comissão pelos Estados-membros, por qualquer membro do Conselho de Administração ou por terceiros a quem digam directa e individualmente respeito, a fim de que seja examinada a legalidade do acto. O assunto deve ser apresentado à Comissão no prazo de dois meses a contar da data em que o interessado tomou conhecimento do acto contestado. A Comissão tomará uma decisão e comunicá-la-á no prazo de dois meses."
+  },
+  "2417fc57b3a0f09b": {
+   "fragment_id": "INSTÂNCIAS DE RECURSO",
+   "type": "divisao",
+   "heading": "INSTÂNCIAS DE RECURSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INSTÂNCIAS DE RECURSO"
+  },
+  "c8fb2bb768e7a4da": {
+   "fragment_id": "Artigo 45.º — Criação e competência",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Criação e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Criação e competência\n\n1. Serão criadas no instituto uma ou mais instâncias de recurso.\n\n2. A instância ou instâncias de recurso serão competentes para deliberar sobre os recursos das decisões previstas no artigo 67.º\n\n3. A instância ou instâncias de recurso reunir-se-ão sempre que necessário. O número de instâncias de recurso e a repartição do trabalho serão determinados nas regras de execução a que se refere o artigo 114.º"
+  },
+  "fdd30a5f5ca21031": {
+   "fragment_id": "Artigo 46.º — Composição das instâncias de recurso",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Composição das instâncias de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Composição das instâncias de recurso\n\n1. Uma instância de recurso é composta por um presidente e dois outros membros.\n\n2. O presidente escolherá, para cada caso, os outros membros e os respectivos suplentes na lista de «membros qualificados» estabelecida nos termos do n.º 2 do artigo 47.º\n\n3. A instância de recurso poderá, no caso de considerar que a natureza do recurso assim o exige, recorrer a mais dois membros da lista acima referida.\n\n4. As qualificações exigidas para os membros de cada instância de recurso, as competências de cada membro na fase preparatória das decisões e as condições de votação serão determinadas nas regras de execução a que se refere o artigo 113.º"
+  },
+  "edc7b35fc50204a3": {
+   "fragment_id": "Artigo 47.º — Independência dos membros das instâncias de recurso",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Independência dos membros das instâncias de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Independência dos membros das instâncias de recurso\n\n1. Os presidentes das instâncias de recurso e os respectivos suplentes são nomeados pelo Conselho a partir de uma lista de candidatos, para cada presidente e para cada suplente, que será proposta pela Comissão após parecer do Conselho de Administração. O mandato é de cinco anos, renováveis.\n\n2. Os restantes membros das instâncias de recurso serão seleccionados pelo Conselho de Administração nos termos do n.º 2 do artigo 46.º a partir de uma lista de membros qualificados, elaborada sob proposta do instituto, por um período de cinco anos. A lista será estabelecida por um período de cinco anos, que será renovável para toda ou parte da lista.\n\n3. Os membros das instâncias de recurso são independentes. Nas suas decisões não estarão vinculados a qualquer instrução.\n\n4. Os membros das instâncias de recurso não podem ser membros do comité referido no artigo 35.º nem desempenhar outras funções no instituto. A função dos membros das instâncias de recurso poderá ser exercida a tempo parcial.\n\n5. Os membros das instâncias de recurso não podem ser destituídos das suas funções nem retirados da lista, respectivamente, durante o respectivo período, salvo por motivos graves e se o Tribunal de Justiça das Comunidades Europeias, a pedido da Comissão, depois de ouvido o Conselho de Administração, tomar uma decisão nesse sentido."
+  },
+  "f43074f98c206ebb": {
+   "fragment_id": "Artigo 48.º — Escusa e recusa",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Escusa e recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Escusa e recusa\n\n1. Os membros das instâncias de recurso não podem intervir em processos de recurso em que tenham interesse pessoal ou em que tenham intervindo anteriormente na qualidade de representantes de uma das partes no processo, ou ainda se tiverem participado na decisão objecto de recurso.\n\n2. Se, por um das razões referidas no n.º 1 ou por qualquer outro motivo, um membro de uma instância de recurso considerar não dever participar num processo de recurso, informará desse facto a instância de recurso.\n\n3. Os membros das instâncias de recurso podem ser recusados por qualquer das partes nos processos de recurso, por uma das razões referidas no n.º 1, ou se forem suspeitos de parcialidade. A recusa não é admissível quando a parte no processo de recurso tiver tomado medidas processuais, se bem que já tivesse conhecimento do motivo de recusa. A recusa não pode ser baseada na nacionalidade dos membros.\n\n4. As instâncias de recurso decidirão sobre as medidas a tomar nos casos referidos nos n.^os^ 2 e 3 sem a participação do membro em causa. Para efeitos da tomada desta decisão, o membro que se escusou ou que foi recusado será substituído na instância de recurso pelo seu suplente."
+  },
+  "2ed91b4ded7ab36c": {
+   "fragment_id": "QUARTA PARTE",
+   "type": "divisao",
+   "heading": "QUARTA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## QUARTA PARTE"
+  },
+  "b86c9427484f8527": {
+   "fragment_id": "PROCESSOS PERANTE O INSTITUTO",
+   "type": "divisao",
+   "heading": "PROCESSOS PERANTE O INSTITUTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCESSOS PERANTE O INSTITUTO"
+  },
+  "3f8145b7a3b818ce": {
+   "fragment_id": "PEDIDOS",
+   "type": "divisao",
+   "heading": "PEDIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PEDIDOS"
+  },
+  "bbb08c538d74b1dc": {
+   "fragment_id": "Artigo 49.º — Apresentação dos pedidos",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Apresentação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Apresentação dos pedidos\n\n1. Os pedidos de reconhecimento de direitos comunitários de protecção das variedades vegetais serão depositados, à escolha do requerente:\n\na) Directamente no instituto\n\nb) Numa das delegações ou organismos nacionais, criados ou reconhecidos nos termos do disposto no n.º 4 do artigo 30.º, mediante a comunicação directa ao instituto, por parte do requerente, de uma informação sobre esse depósito no prazo de duas semanas após a respectiva realização.\n\nDados específicos sobre a forma de comunicação da informação referida na alínea b) podem ser detalhados nas regras de execução a que se refere o artigo 114.º No caso de a informação sobre um pedido de concessão de direitos não ser comunicada ao instituto de acordo com a alínea b), a validade do pedido não será afectada se o instituto receber o pedido no prazo de um mês após o seu depósito na delegação ou organismo nacional.\n\n2. Sempre que um pedido seja depositado num dos organismos nacionais referidos na alínea b) do n.º 1, esse organismo deve tomar todas as medidas necessárias para transmitir o pedido ao instituto no prazo de duas semanas a contar da data do respectivo depósito. Os organismos nacionais podem exigir ao requerente o pagamento de uma taxa, que não poderá exceder os custos administrativos decorrentes da recepção e transmissão do pedido."
+  },
+  "8a7e6144506e88a6": {
+   "fragment_id": "Artigo 50.º — Condições que o pedido deve satisfazer",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Condições que o pedido deve satisfazer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Condições que o pedido deve satisfazer\n\n1. O pedido de reconhecimento do direito comunitário de protecção de uma variedade vegetal deve incluir, pelo menos, os seguintes elementos:\n\na) Um requerimento de que conste o pedido de reconhecimento do direito comunitário de protecção;\n\nb) A identificação do táxon botânico;\n\nc) Informações sobre a identidade do requerente ou, eventualmente, do grupo de requerentes;\n\nd) O nome do titular e a garantia de que, tanto quanto é do conhecimento do requerente, mais nenhuma pessoa esteve envolvida na criação ou descoberta e desenvolvimento da variedade; se o requerente não for o titular, ou o único titular, apresentará os elementos de prova documental necessários sobre o modo como obteve legitimidade para adquirir o direito comunitário de protecção da variedade vegetal;\n\ne) Uma designação provisória para a variedade;\n\nf) Uma descrição técnica da variedade;\n\ng) A origem geográfica da variedade;\n\nh) Uma procuração passada a qualquer representante para efeitos processuais;\n\ni) Informações sobre qualquer comercialização anterior da variedade;\n\nj) Informações sobre qualquer outro pedido apresentado que diga respeito a essa variedade.\n\n2. As regras detalhadas relativas às condições a que se refere o n.º 1, incluindo a comunicação de mais informações, podem ser definidos nas regras de execução a que se refere o artigo 114.º\n\n3. O requerente deverá apresentar uma proposta de denominação da variedade, que poderá acompanhar o pedido."
+  },
+  "532032ac36510c71": {
+   "fragment_id": "Artigo 51.º — Data do pedido",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Data do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Data do pedido\n\nA data de apresentação de um pedido de reconhecimento do direito comunitário de protecção de uma variedade vegetal é a data de recepção pelo instituto de um pedido válido, nos termos do n.º 1, alínea a), do artigo 49.º, ou por uma delegação ou organismo nacional nos termos do n.º 1, alínea b), do artigo 49.º, desde que o pedido esteja conforme com o disposto no n.º 1 do artigo 50.º e desde que seja efectuado o pagamento das taxas previstas no artigo 83.º no prazo estabelecido pelo instituto."
+  },
+  "e783891181271adf": {
+   "fragment_id": "Artigo 52.º — Direito de prioridade",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Direito de prioridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Direito de prioridade\n\n1. O direito de prioridade dos pedidos é determinado em função da data da sua apresentação. No caso de pedidos com a mesma data, as prioridades serão determinadas segundo a ordem por que foram recebidos, quando esta puder ser determinada. Caso contrário, ser-lhes-á atribuída a mesma prioridade.\n\n2. Se o requerente ou o seu predecessor tiverem já requerido um direito de propriedade para a variedade em causa num Estado-membro ou num membro da União Internacional para a Protecção das Variedades Vegetais, e a data do pedido se situar no período de doze meses a contar da apresentação do pedido anterior, o requerente goza de um direito de prioridade para o pedido anterior no que se refere ao pedido do direito de protecção comunitária da variedade vegetal, desde que o pedido anterior ainda exista à data deste último pedido.\n\n3. O direito de prioridade tem por efeito considerar-se a data de apresentação do primeiro pedido como a data do pedido do direito comunitário de protecção da variedade vegetal, para efeitos da aplicação dos artigos 7.º, 10.º e 11.º\n\n4. Os n.^os^ 2 e 3 aplicam-se igualmente em relação a pedidos anteriores apresentados noutro Estado.\n\n5. Qualquer direito de prioridade anterior à data prevista no n.º 2 que seja invocado pelo requerente caducará se este não apresentar ao instituto, no prazo de três meses a contar da data do pedido, cópias do pedido anterior autenticadas pelas autoridades responsáveis por tal pedido. Se o pedido anterior não tiver sido apresentado numa das línguas oficiais da Comunidade Europeia, o instituto pode ainda exigir uma tradução desse pedido numa dessas línguas."
+  },
+  "d21caebf5c5b86fe": {
+   "fragment_id": "EXAME",
+   "type": "divisao",
+   "heading": "EXAME",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXAME"
+  },
+  "d38fc60c95a43672": {
+   "fragment_id": "Artigo 53.º — Exame formal do pedido",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Exame formal do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Exame formal do pedido\n\n1. O instituto examinará:\n\na) Se o pedido foi apresentado nos termos do artigo 49.º;\n\nb) Se o pedido satisfaz as condições previstas no artigo 50.º e as condições estabelecidas nas regras de execução a que se refere esse artigo;\n\nc) Se for caso disso, se o pedido de prioridade satisfaz o disposto nos n.º ^s^ 2, 4 e 5 do artigo 52.º;\n\nd) Se as taxas previstas no artigo 83.º foram pagas no prazo estabelecido pelo instituto.\n\n2. Se, embora satisfazendo as condições previstas no artigo 51.º, o pedido não satisfizer as outras condições previstas no artigo 50.º, o instituto convidará o requerente a sanar quaisquer irregularidades eventualmente detectadas.\n\n3. Se o pedido não satisfizer as condições previstas no artigo 51.º, o instituto informará desse facto o requerente ou, se tal não for possível, publicará essa informação nos termos do artigo 89.º"
+  },
+  "70631cb9c3d58732": {
+   "fragment_id": "Artigo 54.º — Exame material",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Exame material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Exame material\n\n1. O instituto verificará se a variedade pode ser objecto de um direito comunitário de protecção de variedades vegetais nos termos do artigo 5.º, se a variedade é nova, nos termos do artigo 10.º, se o requerente tem legitimidade para apresentar o pedido nos termos do artigo 12.º e se estão preenchidas as condições estabelecidas no artigo 82.º O instituto verificará igualmente se a denominação da variedade proposta é adequada nos termos do artigo 63.º Para estes efeitos, o instituto pode recorrer aos serviços de outros organismos.\n\n2. O primeiro requerente será considerado como tendo legitimidade para obter o direito comunitário de protecção de variedades vegetais nos termos do artigo 11.º Esta disposição não se aplicará se, antes de ser tomada uma decisão sobre o pedido, o instituto tiver conhecimento, ou for demonstrado por decisão judicial transitada em julgado emitida relativamente a uma reivindicação de legitimidade nos termos do n.º 4 do artigo 98.º, que o primeiro requerente não tem legitimidade ou não tem legitimidade só por si para obter o referido direito. No caso de ser determinada a identidade da pessoa ou pessoas habilitadas, essa pessoa ou pessoas podem dar início ao processo como requerente ou requerentes."
+  },
+  "4f332fe31648b21c": {
+   "fragment_id": "Artigo 55.º — Exame técnico",
+   "type": "artigo",
+   "heading": "Artigo 55.º — Exame técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Exame técnico\n\n1. Se não detectar qualquer impedimento ao reconhecimento do direito comunitário de protecção vegetal com base nos exames previstos nos artigos 53.º e 54.º, o instituto providenciará para que o exame técnico destinado a verificar se foram respeitadas as condições estabelecidas nos artigos 7.º, 8.º e 9.º seja efectuado, em, pelo menos, um dos Estados-membros, pelo organismo ou organismos competentes encarregados pelo Conselho de Administração do exame técnico das variedades das espécies em causa, a seguir denominados «organismo ou organismos de exame».\n\n2. Se não existir um organismo de exame, o instituto pode, com o consentimento do Conselho de Administração, encarregar outros organismos apropriados de procederem ao exame, ou estabelecer as suas próprias delegações para o mesmo efeito. Para efeitos da aplicação do presente capítulo, esses organismos e delegações serão considerados como organismos de exame. Os referidos organismos podem recorrer aos meios colocados à sua disposição pelo requerente.\n\n3. O instituto transmitirá aos organismos de exame cópias do pedido, de acordo com as regras de execução a que se refere o artigo 114.º\n\n4. O instituto determinará através de regras gerais ou em pedidos individuais, quando, onde e em que quantidades e qualidades deverão ser apresentados o material para o exame técnico e amostras de referência.\n\n5. Quando o requerente invocar uma prioridade nos termos dos n.^os^ 2 ou 4 do artigo 52.º, deverá apresentar o material necessário e quaisquer documentos suplementares eventualmente exigidos no prazo de dois anos a contar da data do pedido nos termos do artigo 51.º Se o pedido anterior for retirado ou recusado antes do termo do prazo de dois anos, o instituto pode solicitar ao requerente que apresente o material ou quaisquer documentos suplementares necessários num determinado prazo."
+  },
+  "50259ba0bc2f7789": {
+   "fragment_id": "Artigo 56.º — Realização dos exames técnicos",
+   "type": "artigo",
+   "heading": "Artigo 56.º — Realização dos exames técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Realização dos exames técnicos\n\n1. A menos que seja fixado um outro modo de exame técnico para verificar o preenchimento das condições previstas nos artigos 7.º a 9.º, os organismos de exame cultivarão as variedades para efeitos do exame técnico ou procederão a quaisquer outras investigações necessárias.\n\n2. Os exames técnicos serão realizados de acordo com princípios orientadores de análise estabelecidos pelo Conselho de Administração e com as instruções eventualmente dadas pelo instituto.\n\n3. Para efeitos do exame técnico, os organismos de exame podem, com a aprovação do instituto, recorrer a serviços de outros organismos tecnicamente qualificados e tomar em consideração as conclusões desses organismos.\n\n4. Salvo decisão em contrário do instituto, cada organismo de exame dará início ao exame técnico, o mais tardar, na data em que teria tido início o exame técnico referente a um pedido de direito de propriedade nacional apresentado na data em que o pedido enviado pelo instituto foi recebido pelo organismo de exame.\n\n5. No caso previsto no n.º 5 do artigo 55.º, e salvo decisão em contrário do instituto, cada organismo de exame dará início ao exame técnico, o mais tardar, na data em que teria tido início o exame técnico referente a um pedido de direito de propriedade nacional, desde que o material necessário e os documentos suplementares eventualmente exigidos tenham sido apresentados nessa data.\n\n6. O Conselho de Administração pode determinar que o exame técnico de variedades de videiras e árvores comece numa data posterior."
+  },
+  "0ca9c03bc1f1fd2b": {
+   "fragment_id": "Artigo 57.º — Relatórios de exame",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Relatórios de exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Relatórios de exame\n\n1. O organismo de exame enviará ao instituto, a pedido deste ou se considerar que os resultados do exame técnico são adequados para avaliar a variedade, um relatório de exame e, quando considerar que as condições estabelecidas nos artigos 7.º a 9.º estão preenchidas, uma descrição da variedade.\n\n2. O instituto comunicará os resultados do exame técnico e a descrição da variedade ao requerente, convidando-o a apresentar as suas observações.\n\n3. Se o instituto considerar que o relatório de exame não constitui base suficiente para uma decisão, pode providenciar por sua iniciativa, após consulta ao requerente, ou a pedido do requerente, para que seja realizado um exame complementar. Para efeitos de avaliação dos resultados, qualquer exame complementar efectuado antes da tomada de decisão definitiva, nos termos dos artigos 61.º e 62.º, será considerado parte do exame referido no n.º 1 do artigo 56.º\n\n4. Os resultados do exame técnico ficarão à inteira e exclusiva disposição do instituto e só poderão ser utilizados pelos organismos de exame para outros fins com a aprovação do instituto."
+  },
+  "3e627215c2290a4f": {
+   "fragment_id": "Artigo 58.º — Custos dos exames técnicos",
+   "type": "artigo",
+   "heading": "Artigo 58.º — Custos dos exames técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Custos dos exames técnicos\n\nO instituto pagará uma taxa aos organismos de exame, de acordo com as regras de execução a que se refere o artigo 114.º"
+  },
+  "529e53396f5f689c": {
+   "fragment_id": "Artigo 59.º — Oposição ao reconhecimento de um direito",
+   "type": "artigo",
+   "heading": "Artigo 59.º — Oposição ao reconhecimento de um direito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Oposição ao reconhecimento de um direito\n\n1. Qualquer pessoa pode transmitir por escrito ao instituto a sua oposição ao reconhecimento de um direito comunitário de protecção de uma variedade vegetal.\n\n2. Os opositores devem ser partes no processo de reconhecimento do direito comunitário de protecção da variedade vegetal, paralelamente ao requerente. Sem prejuízo do disposto no artigo 88.º, os opositores devem ter acesso aos documentos, incluindo os resultados do exame técnico e a descrição da variedade, tal como referidos no n.º 2 do artigo 57.º\n\n3. A oposição só pode basear-se:\n\na) No não preenchimento das condições previstas nos artigos 7.º a 11.º;\n\nb) Na existência de um impedimento nos termos dos n.^os^ 3 ou 4 do artigo 63.º a uma denominação de variedade proposta.\n\n4. A oposição pode ser apresentada:\n\na) Em qualquer momento, após a apresentação do pedido e antes de ser tomada uma decisão, nos termos dos artigos 61.º ou 62.º, no caso previsto na alínea a) do n.º 3;\n\nb) No prazo de três meses a contar da publicação da denominação de variedade proposta nos termos do artigo 89.º, em caso de oposição nos termos da alínea b) do n.º 3.\n\n5. As decisões relativas às oposições podem ser tomadas ao mesmo tempo que as decisões previstas nos artigos 61.º, 62.º ou 63.º"
+  },
+  "cce7b838e1bf3720": {
+   "fragment_id": "Artigo 60.º — Prioridade de um novo pedido em caso de oposição",
+   "type": "artigo",
+   "heading": "Artigo 60.º — Prioridade de um novo pedido em caso de oposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Prioridade de um novo pedido em caso de oposição\n\nQuando de uma oposição por motivo de não preenchimento das condições previstas no artigo 11.º resultar a retirada ou a recusa de um pedido de reconhecimento de um direito comunitário de protecção de uma variedade vegetal e se o opositor apresentar um pedido de reconhecimento de um direito comunitário de protecção da variedade vegetal no prazo de um mês a contar da retirada do pedido ou no prazo de um mês a contar da data em que a decisão de recusa se tiver tornado definitiva, essa mesma parte pode solicitar que a data do pedido retirado ou recusado seja considerada como a data de apresentação do seu pedido."
+  },
+  "c86bd13467e8a92a": {
+   "fragment_id": "DECISÕES",
+   "type": "divisao",
+   "heading": "DECISÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECISÕES"
+  },
+  "169ab5dacf2a7e02": {
+   "fragment_id": "Artigo 61.º — Recusa",
+   "type": "artigo",
+   "heading": "Artigo 61.º — Recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Recusa\n\n1. O instituto recusará os pedidos de reconhecimento de direitos comunitários de protecção de variedades vegetais se e logo que verificar que o requerente:\n\na) Não sanou no prazo notificado as eventuais irregularidades na acepção do artigo 53.º depois de ter sido convidado a fazê-lo;\n\nb) Não respeitou uma regra ou um pedido nos termos dos n.^os^ 4 ou 5 do artigo 55.º no prazo fixado, salvo se o instituto tiver dado o seu acordo para a não apresentação do material;\n\nc) Não propôs uma denominação de variedades adequada nos termos do artigo 63.º\n\n2. O instituto recusará igualmente os pedidos de reconhecimento de direitos comunitários de protecção de variedades vegetais se:\n\na) Constatar que as condições requeridas pelo artigo 54.º não se encontram preenchidas\n\nb) Chegar à conclusão, com base nos relatórios de exame elaborados nos termos do artigo 57.º, que as condições previstas nos artigos 7.º, 8.º e 9.º não se encontram preenchidas."
+  },
+  "001cf196eee7ea78": {
+   "fragment_id": "Artigo 62.º — Concessão",
+   "type": "artigo",
+   "heading": "Artigo 62.º — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Concessão\n\nSe considerar que as conclusões do exame são suficientes para decidir sobre o pedido e se não existirem impedimentos nos termos dos artigos 59.º e 61.º, o instituto concederá o direito de protecção comunitária das variedades vegetais. A decisão incluirá uma descrição oficial das variedades."
+  },
+  "673639fcc3caab7f": {
+   "fragment_id": "Artigo 63.º — Denominação de variedades",
+   "type": "artigo",
+   "heading": "Artigo 63.º — Denominação de variedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Denominação de variedades\n\n1. Quando é reconhecido o direito comunitário de protecção de uma variedade vegetal, o instituto aprovará a denominação de variedade proposta pelo requerente nos termos do n.º 3 do artigo 50.º se considerar, com base no exame efectuado nos termos do segundo período do n.º 1 do artigo 54.º, que essa denominação é adequada.\n\n2. Uma denominação de variedade é adequada se não existirem impedimentos nos termos do disposto nos n.^os^ 3 ou 4.\n\n3. Existe um impedimento para a designação de uma denominação de variedade se:\n\na) A sua utilização no território da Comunidade estiver excluída por um direito anterior de um terceiro;\n\nb) Essa denominação puder, de acordo com o senso comum, causar dificuldade aos seus utilizadores em matéria de reconhecimento ou reprodução;\n\nc) A denominação em causa for idêntica ou susceptível de ser confundida com uma denominação de variedade sob a qual outra variedade da mesma espécie ou de uma espécie estreitamente relacionada conste de um catálogo oficial de variedades vegetais, ou sob a qual tenha sido comercializado material de outra variedade num Estado-membro ou num Estado membro da União Internacional para a Protecção das Variedades Vegetais, salvo se a outra variedade já não existir e a sua denominação não tiver adquirido especial relevância;\n\nd) A denominação de variedade for idêntica ou susceptível de ser confundida com outras designações geralmente utilizadas na comercialização de mercadorias ou que devam permanecer livres, de acordo com outra legislação;\n\ne) A denominação for susceptível de revestir carácter ofensivo num dos Estados-membros ou for contrária à ordem pública;\n\nf) A denominação for susceptível de induzir em erro ou de causar confusão quanto às características, valor ou identidade de variedades, ou quanto à identidade do titular ou de qualquer parte no processo.\n\n4. Existe outro impedimento quando, no caso de uma variedade já inscrita:\n\na) Num dos Estados-membros;\n\nb) Num membro da União Internacional para a Protecção das Variedades Vegetais;\n\nc) Num outro Estado relativamente ao qual tenha sido declarado num acto comunitário que as variedades são nele avaliadas segundo regras equivalentes às estabelecidas nas directivas relativas aos catálogos comuns,\n\n4. num registo oficial de variedades vegetais ou de material dessas variedades e que aí tenha sido colocada no mercado para fins comerciais, e a denominação de variedades proposta diferir da que aí foi registada ou utilizada, salvo se a última for objecto de um impedimento nos termos do n.º 3.\n\n5. O instituto publicará as espécies que considera «estreitamente relacionadas» na acepção da alínea c) do n.º 3."
+  },
+  "ad32457d90529e10": {
+   "fragment_id": "MANUTENÇÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "type": "divisao",
+   "heading": "MANUTENÇÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MANUTENÇÃO DO DIREITO COMUNITÁRIO DE PROTECÇÃO DAS VARIEDADES VEGETAIS"
+  },
+  "d5103fc7b9e32cc8": {
+   "fragment_id": "Artigo 64.º — Verificação técnica",
+   "type": "artigo",
+   "heading": "Artigo 64.º — Verificação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Verificação técnica\n\n1. O instituto verificará a permanência da existência das variedades protegidas, em condições inalteradas.\n\n2. Para o efeito, será realizada uma verificação técnica nos termos dos artigos 55.º e 56.º\n\nO titular deve prestar ao instituto e aos organismos de exame encarregues da verificação técnica da variedade todas as informações necessárias para verificar a permanência da existência da variedade em condições inalteradas. Será obrigado, de acordo com as instruções transmitidas pelo instituto, a apresentar material da variedade e a permitir verificar se foram tomadas medidas adequadas para assegurar a permanência da existência da variedade em condições inalteradas."
+  },
+  "2d461e4be3bc14e1": {
+   "fragment_id": "Artigo 65.º — Relatório da verificação técnica",
+   "type": "artigo",
+   "heading": "Artigo 65.º — Relatório da verificação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Relatório da verificação técnica\n\n1. A pedido do instituto, ou se verificar que uma variedade não é homogénea ou estável, o organismo de exame encarregue da verificação técnica enviará ao instituto um relatório das suas conclusões.\n\n2. Se forem detectadas durante a verificação técnica quaisquer irregularidades nos termos do n.º 1, o instituto informará o titular dos resultados da verificação técnica e dar-lhe-á a oportunidade de apresentar as suas observações."
+  },
+  "51fa564e64cad02e": {
+   "fragment_id": "Artigo 66.º — Alteração de uma denominação de variedade",
+   "type": "artigo",
+   "heading": "Artigo 66.º — Alteração de uma denominação de variedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Alteração de uma denominação de variedade\n\n1. O instituto procederá à alteração da denominação da variedade designada nos termos do artigo 63.º se verificar que a denominação não satisfaz ou deixou de satisfazer as condições previstas no artigo 63.º e, em caso de conflito de direitos com um terceiro, se o titular concordar com a alteração ou se o titular ou qualquer outra pessoa que tenha de utilizar a denominação da variedade tiver sido proibido por esta razão, por decisão judicial transitada em julgado, de utilizar a denominação da variedade.\n\n2. O instituto dará ao titular a oportunidade de propor uma denominação de variedade alterada e procederá de acordo com o disposto no artigo 63.º\n\n3. Pode ser apresentada oposição à denominação proposta de variedade alterada, nos termos do n.º 3, alínea b), do artigo 59.º"
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "309eafde9279dc4d": {
+   "fragment_id": "RECURSOS",
+   "type": "divisao",
+   "heading": "RECURSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECURSOS"
+  },
+  "ade45242a9f2dece": {
+   "fragment_id": "Artigo 67.º — Decisões susceptíveis de recurso",
+   "type": "artigo",
+   "heading": "Artigo 67.º — Decisões susceptíveis de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Decisões susceptíveis de recurso\n\n1. São susceptíveis de recurso as decisões do instituto tomadas nos termos dos artigos 20.º, 21.º, 59.º, 61.º a 63.º e 66.º, bem como as decisões relativas a taxas nos termos do artigo 83.º, às custas nos termos do artigo 85.º, à inscrição ou supressão de informações no registo nos termos do artigo 87.º e à inspecção pública nos termos do artigo 88.º\n\n2. Os recursos interpostos nos termos do n.º 1 têm efeito suspensivo. No entanto, se considerar que as circunstâncias o justificam, o instituto pode determinar a não suspensão da decisão impugnada.\n\n3. As decisões tomadas pelo instituto nos termos do artigo 29.º e do n.º 2 do artigo 100.º são susceptíveis de recurso, a não ser que seja interposto um recurso directo nos termos do artigo 74.º O recurso não tem efeito suspensivo.\n\n4. Uma decisão que não ponha termo a um processo em relação a uma das partes só poderá ser objecto de recurso com a decisão definitiva, salvo se a referida decisão previr um recurso independente."
+  },
+  "72593e62a981edd1": {
+   "fragment_id": "Artigo 68.º — Pessoas com legitimidade para interpor recurso e para ser partes no processo",
+   "type": "artigo",
+   "heading": "Artigo 68.º — Pessoas com legitimidade para interpor recurso e para ser partes no processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Pessoas com legitimidade para interpor recurso e para ser partes no processo\n\nSem prejuízo do disposto no artigo 82.º, qualquer pessoa singular ou colectiva pode recorrer de uma decisão de que seja destinatária ou de uma decisão que, embora formalmente dirigida a outra pessoa, lhe diga directa e individualmente respeito. As partes no processo poderão ser partes no processo de recurso e o instituto será obrigatoriamente parte no processo."
+  },
+  "1456feecf2918d20": {
+   "fragment_id": "Artigo 69.º — Prazo e forma",
+   "type": "artigo",
+   "heading": "Artigo 69.º — Prazo e forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Prazo e forma\n\nO recurso deve ser interposto por escrito no instituto no prazo de dois meses a contar da data da notificação da decisão ao recorrente ou, na falta dessa notificação, no prazo de dois meses a contar da data da publicação da decisão, devendo as alegações com os fundamentos do recurso ser apresentadas por escrito num prazo de quatro meses a contar da data da notificação ou publicação da decisão acima mencionada."
+  },
+  "185e42640d18a7d5": {
+   "fragment_id": "Artigo 70.º — Revisão prejudicial",
+   "type": "artigo",
+   "heading": "Artigo 70.º — Revisão prejudicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Revisão prejudicial\n\n1. Se a instância do instituto que tiver preparado a decisão considerar que o recurso é admissível e tem fundamento, o instituto rectificará a decisão. Esta disposição não se aplica se o processo de recurso opuser o recorrente a outra parte.\n\n2. Se a decisão não for rectificada no prazo de um mês a contar da recepção das alegações com os fundamentos do recurso, o instituto agirá imediatamente no sentido de:\n\n— decidir sobre se irá actuar nos termos do n.º 2, segunda frase, do artigo 67.º\n\n— e\n\n— remeter o recurso para a instância de recurso."
+  },
+  "8edac8b2f3cfc22b": {
+   "fragment_id": "Artigo 71.º — Exame dos recursos",
+   "type": "artigo",
+   "heading": "Artigo 71.º — Exame dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Exame dos recursos\n\n1. Se o recurso for admissível, a instância de recurso verificará se ele é fundamentado.\n\n2. Durante o exame do recurso, a instância de recurso convidará as partes no processo de recurso, as vezes que forem necessárias, a apresentarem, em prazos previamente fixados, as suas observações sobre as notificações que ela própria lhes tiver dirigido ou sobre as comunicações apresentadas pelas outras partes no processo de recurso. As partes no processo de recurso podem fazer alegações orais."
+  },
+  "a9cd6b5a593a4975": {
+   "fragment_id": "Artigo 72.º — Decisão do recurso",
+   "type": "artigo",
+   "heading": "Artigo 72.º — Decisão do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Decisão do recurso\n\nA instância de recurso deliberará sobre o recurso com base no exame efectuado nos termos do artigo 71.º Essa instância pode exercer todos os poderes que pertençam ao instituto ou remeter o processo para a instância competente do instituto, a fim de lhe ser dado seguimento. Essa instância ficará vinculada ao precedente da instância de recurso, desde que os factos em apreço sejam os mesmos."
+  },
+  "ea8d538453dc1e61": {
+   "fragment_id": "Artigo 73.º — Recurso das decisões das instâncias de recurso",
+   "type": "artigo",
+   "heading": "Artigo 73.º — Recurso das decisões das instâncias de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Recurso das decisões das instâncias de recurso\n\n1. As decisões das instâncias de recurso sobre recursos são susceptíveis de recurso para o Tribunal de Justiça.\n\n2. O recurso pode ser interposto com fundamento em incompetência, violação de formalidades essenciais, violações do Tratado, do presente regulamento ou de qualquer norma jurídica relativa à sua aplicação, ou em desvio de poder.\n\n3. O Tribunal de Justiça é competente para anular ou modificar a decisão impugnada.\n\n4. O recurso está aberto a qualquer parte no processo perante uma instância de recurso, cujas pretensões não tenham sido satisfeitas, no todo ou em parte.\n\n5. O recurso deve ser interposto perante o Tribunal de Justiça no prazo de dois meses a contar da data de notificação da decisão da instância de recurso.\n\n6. O Instituto tomará as medidas necessárias para dar cumprimento ao acórdão do Tribunal de Justiça."
+  },
+  "7f213a7b06ccc121": {
+   "fragment_id": "Artigo 74.º — Recurso directo",
+   "type": "artigo",
+   "heading": "Artigo 74.º — Recurso directo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Recurso directo\n\n1. As decisões do instituto são susceptíveis de recurso directo para o Tribunal de Justiça das Comunidades Europeias, de acordo com o disposto no artigo 29.º e no n.º 2 do artigo 100.º\n\n2. São aplicáveis, *mutatis mutandis*, as disposições do artigo 73.º"
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "28464015e6bab3d9": {
+   "fragment_id": "DISPOSIÇÕES PROCESSUAIS DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES PROCESSUAIS DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES PROCESSUAIS DIVERSAS"
+  },
+  "094884f753e3ef8a": {
+   "fragment_id": "Artigo 75.º — Fundamentação das decisões e direito de litigar",
+   "type": "artigo",
+   "heading": "Artigo 75.º — Fundamentação das decisões e direito de litigar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Fundamentação das decisões e direito de litigar\n\nAs decisões do instituto serão fundamentadas. Basear-se-ão exclusivamente em motivos ou elementos de prova sobre os quais as partes no processo tenham tido oportunidade de se pronunciar oralmente ou por escrito."
+  },
+  "c2ebde749e133e90": {
+   "fragment_id": "Artigo 76.º — Exame oficioso dos factos pelo instituto",
+   "type": "artigo",
+   "heading": "Artigo 76.º — Exame oficioso dos factos pelo instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Exame oficioso dos factos pelo instituto\n\nNo decurso dos processos perante o instituto este procederá a averiguações oficiosas dos factos na medida em que os mesmos devam ser objecto de exame nos termos dos artigos 54.º e 55.º O instituto não tomará em consideração os factos ou elementos de prova que não tenham sido apresentados pelas partes no prazo fixado pelo instituto."
+  },
+  "0b742fd01c9d5d2b": {
+   "fragment_id": "Artigo 77.º — Processo oral",
+   "type": "artigo",
+   "heading": "Artigo 77.º — Processo oral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Processo oral\n\n1. Realizar-se-ão sessões orais quer por iniciativa do próprio instituto quer a pedido de qualquer das partes num processo.\n\n2. Sem prejuízo do n.º 3, as sessões orais perante o instituto não serão públicas.\n\n3. O processo oral perante a instância de recurso, incluindo o proferimento da decisão, será público, salvo decisão em contrário da instância de recurso perante a qual esteja a correr o processo, no caso de a publicidade poder apresentar inconvenientes graves e injustificáveis, nomeadamente para uma das partes no processo de recurso."
+  },
+  "dcbec0184cff43a8": {
+   "fragment_id": "Artigo 78.º — Meios de prova",
+   "type": "artigo",
+   "heading": "Artigo 78.º — Meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Meios de prova\n\n1. Nos processos perante o instituto, os meios de produção de provas podem ser os seguintes:\n\na) Audição das partes no processo;\n\nb) Pedidos de informação;\n\nc) Apresentação de documentos ou outros elementos;\n\nd) Audição de testemunhas;\n\ne) Pareceres de peritos;\n\nf) Inspecção;\n\ng) Declarações sob juramento.\n\n2. Quando o instituto deliberar por intermédio de um órgão colectivo, este poderá encarregar um dos seus membros de examinar os elementos de prova apresentados.\n\n3. Se o instituto considerar necessário que uma parte no processo, uma testemunha ou um perito deponha oralmente:\n\na) Convidará a pessoa em causa a comparecer perante ele\n\nb) Solicitará, nos termos do n.º 2 do artigo 91.º, ao órgão jurisdicional ou a outra autoridade competente do país de residência dessa pessoa, que recolha o seu depoimento.\n\n4. Uma parte no processo, uma testemunha ou um perito chamado a comparecer perante o instituto pode pedir-lhe autorização para depor perante um órgão jurisdicional ou outra autoridade competente do país da sua residência. Depois de receber este pedido, ou se não tiver sido dado seguimento à citação, o instituto pode, nos termos do disposto no n.º 2 do artigo 91.º, solicitar ao órgão jurisdicional ou outra autoridade competente que recolha o depoimento da pessoa em causa.\n\n5. Se uma parte no processo, uma testemunha ou um perito depuser perante o instituto este pode, se considerar desejável que o depoimento seja recolhido sob juramento ou sob outra forma igualmente vinculativa, pedir a um órgão jurisdicional ou a outra autoridade competente do país de residência da pessoa em causa que recolham o seu depoimento nas referidas condições.\n\n6. Sempre que o instituto solicite a um órgão jurisdicional ou outra autoridade competente que recolha um depoimento, pode pedir-lhe que recolha esse depoimento sob forma vinculativa e que autorize um dos membros do instituto a assistir à audição e a interrogar a parte no processo, testemunha ou perito, quer por intermédio desse órgão jurisdicional ou outra autoridade quer directamente."
+  },
+  "c6bec91163c9919c": {
+   "fragment_id": "Artigo 79.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 79.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Notificação\n\nO instituto procederá por sua própria iniciativa à notificação de todas as decisões e citações, bem como das notificações e comunicações que façam correr prazo ou cuja notificação esteja prevista noutras disposições do presente regulamento ou em disposições adoptadas por força do presente regulamento, ou seja ordenada pelo presidente do instituto. As notificações poderão ser efectuadas por intermédio dos organismos competentes em matéria de variedades vegetais nos Estados-membros."
+  },
+  "0d3527e867dc4d11": {
+   "fragment_id": "Artigo 80.º — Restituição integral",
+   "type": "artigo",
+   "heading": "Artigo 80.º — Restituição integral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Restituição integral\n\n1. Se, apesar de ter observado todos os cuidados exigidos pelas circunstâncias, o requerente do reconhecimento de um direito comunitário de protecção de uma variedade vegetal ou o titular ou qualquer outra parte num processo perante o instituto não tiver podido respeitar um prazo perante este, os seus direitos serão, mediante requerimento, restabelecidos, se o incumprimento do prazo tiver tido como consequência directa, por força do presente regulamento, a perda de um direito ou de um meio de recurso.\n\n2. O requerimento deve ser apresentado por escrito no prazo de dois meses a contar da cessação do impedimento que levou ao incumprimento do prazo. O acto não cumprido deve ser executado nesse prazo. O requerimento só é admissível no prazo de um ano a contar do termo do prazo não respeitado.\n\n3. O requerimento deve ser fundamentado e indicar os factos em que se baseia.\n\n4. As disposições do presente artigo não são aplicáveis aos prazos referidos no n.º 2, nem aos prazos fixados nos n.^os^ 2, 4 e 5 do artigo 52.º\n\n5. Qualquer pessoa que, num Estado-membro, tenha utilizado de boa fé ou tomado medidas efectivas e sérias para utilizar uma variedade que seja objecto de um pedido publicado de reconhecimento do direito comunitário de protecção de variedades vegetais ou à qual tenha sido concedido esse direito no decurso do período compreendido entre a perda de direitos nos termos do n.º 1 em relação à apresentação do pedido de reconhecimento de um direito comunitário de protecção de variedades vegetais já concedido e o restabelecimento desse direito, poderá prosseguir gratuitamente essa utilização no âmbito das suas actividades ou para satisfação das necessidades delas decorrentes."
+  },
+  "5982ffb100c5724a": {
+   "fragment_id": "Artigo 81.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 81.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Princípios gerais\n\n1. Na falta de qualquer disposição processual no presente regulamento ou nas disposições adoptadas em sua execução, o instituto aplicará os princípios de direito processual geralmente reconhecidos nos Estados-membros.\n\n2. O artigo 48.º aplica-se mutatis mutandis ao pessoal do instituto, quando envolvido em decisões do tipo referido no artigo 67.º, e ao pessoal dos organismos de exame, quando participa na preparação de tais decisões."
+  },
+  "6c7169e9ad6e90c9": {
+   "fragment_id": "Artigo 82.º — Representação processual",
+   "type": "artigo",
+   "heading": "Artigo 82.º — Representação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Representação processual\n\nAs pessoas que não se encontrem domiciliadas ou não tenham a sua sede ou estabelecimento no território da Comunidade só podem intervir enquanto parte em processos perante o instituto se designarem um representante para efeitos processuais que tenha o seu domicílio, sede ou estabelecimento no território da Comunidade."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "c592c7277dd53936": {
+   "fragment_id": "TAXAS, LIQUIDAÇÃO DAS CUSTAS",
+   "type": "divisao",
+   "heading": "TAXAS, LIQUIDAÇÃO DAS CUSTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TAXAS, LIQUIDAÇÃO DAS CUSTAS"
+  },
+  "06152015c4f284b0": {
+   "fragment_id": "Artigo 83.º — Taxas",
+   "type": "artigo",
+   "heading": "Artigo 83.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Taxas\n\n1. O instituto cobrará taxas pelos actos oficiais por si praticados ao abrigo do presente regulamento, bem como por cada ano de vigência dos direitos comunitários de protecção das variedades vegetais, de acordo com os regulamentos relativos às taxas adoptados nos termos do artigo 113.º\n\n2. Se as taxas devidas pela prática dos actos oficiais previstos no n.º 2 do artigo 113.º ou por outros actos oficiais referidos nos regulamentos relativos às taxas, a efectuar exclusivamente mediante pedido, não forem pagas, considera-se que o pedido não foi apresentado ou que o recurso não foi interposto se as diligências necessárias para o pagamento das taxas não forem feitas no prazo de um mês a contar da data em que o instituto proceder à notificação formal de um novo pedido de pagamento, indicando as consequências em caso de não pagamento.\n\n3. Se determinadas informações prestadas pelo requerente do reconhecimento de um direito comunitário de protecção de uma variedade vegetal só puderem ser verificadas mediante exame técnico que ultrapasse o âmbito estabelecido para o exame técnico de variedades do táxon em causa, as taxas relativas ao exame técnico poderão ser aumentadas, depois de ouvida a pessoa responsável pelo pagamento da taxa, até ao montante das despesas efectivamente incorridas.\n\n4. Em caso de provimento de um recurso, as despesas a ele relativas ou, em caso de provimento parcial, a parte correspondente das despesas de recurso, serão reembolsadas. No entanto, este reembolso pode ser total ou parcialmente recusado se o provimento do recurso for baseado em factos de que não havia conhecimento ao ser proferida a decisão inicial."
+  },
+  "264e2a01bbe5e163": {
+   "fragment_id": "Artigo 84.º — Prescrição das obrigações financeiras",
+   "type": "artigo",
+   "heading": "Artigo 84.º — Prescrição das obrigações financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Prescrição das obrigações financeiras\n\n1. O direito de o instituto exigir o pagamento de taxas prescreve quatro anos após o termo do ano civil durante o qual o pagamento se tornou exigível.\n\n2. Os direitos em relação ao instituto em matéria de reembolso de taxas ou de montantes por este cobrados em excesso prescrevem quatro anos após o final do ano civil durante o qual o direito tiver sido originado.\n\n3. O prazo previsto no n.º 1 é interrompido por uma intimação para pagar a taxa e o prazo previsto no n.º 2 é interrompido por um requerimento escrito e fundamentado de reembolso. Os prazos recomeçarão a correr a partir da data da sua interrupção e cessarão, o mais tardar, no final de um período de seis anos contado a partir do termo do ano civil em que começaram a correr inicialmente, a não ser que entretanto tenha sido iniciada uma acção judicial para fazer valer o direito; nesse caso, o prazo termina, no mínimo, no final de um período de um ano calculado a contar da data em que a decisão tiver transitado em julgado."
+  },
+  "fa6da72f61dae4c7": {
+   "fragment_id": "Artigo 85.º — Repartição das custas",
+   "type": "artigo",
+   "heading": "Artigo 85.º — Repartição das custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Repartição das custas\n\n1. A parte vencida num processo de anulação ou privação de um direito comunitário de protecção de uma variedade vegetal ou num processo de recurso suportará as custas incorridas pela outra parte no processo, bem como todas as custas por si incorridas que sejam essenciais ao processo, incluindo as despesas de deslocação e estadia e a remuneração de um agente, consultor ou advogado, dentro dos limites das tabelas estabelecidas para cada categoria de custas, de acordo com as condições especificadas nas disposições constantes do artigo 114.º\n\n2. No entanto, se cada uma das partes no processo for vencedora nalgumas questões e vencida noutras, ou se razões de equidade assim o justificarem, o instituto ou a instância de recurso decidirá de uma repartição diferente das custas.\n\n3. A parte no processo que puser termo ao processo retirando o pedido de reconhecimento do direito comunitário de protecção de uma variedade vegetal, o pedido de anulação ou revogação de um direito ou o recurso, ou renunciando ao direito comunitário de protecção de uma variedade vegetal, suportará as custas incorridas pela outra parte no processo, nos termos dos n.^os^ 1 e 2.\n\n4. No caso de as partes no processo, perante o instituto ou a instância de recurso, chegarem a um acordo quanto às custas diferente do previsto nos números anteriores, esse acordo será tomado em consideração.\n\n5. O instituto ou a instância de recurso fixará, a pedido, o montante das custas a pagar nos termos do disposto nos números anteriores."
+  },
+  "a7f665be1d4b246d": {
+   "fragment_id": "Artigo 86.º — Execução das decisões que determinam o montante das custas",
+   "type": "artigo",
+   "heading": "Artigo 86.º — Execução das decisões que determinam o montante das custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Execução das decisões que determinam o montante das custas\n\n1. As decisões definitivas do instituto que determinam o montante das custas constituem títulos executivos.\n\n2. A execução é regulada pelas normas de processo civil em vigor no Estado em cujo território se efectuar. A fórmula executória será aposta, sem outro controlo além da verificação da autenticidade do título, pela autoridade nacional que o governo de cada Estado-membro designar para o efeito; os governos comunicarão ao instituto e ao Tribunal de Justiça das Comunidades Europeias a identidade da respectiva autoridade nacional.\n\n3. Após o cumprimento destas formalidades a pedido do interessado, este pode promover a execução, recorrendo directamente ao órgão competente, de acordo com a legislação nacional.\n\n4. A execução só pode ser suspensa por decisão do Tribunal de Justiça das Comunidades Europeias. A fiscalização da regularidade das medidas de execução é, contudo, da competência dos órgãos jurisdicionais nacionais."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "15eabdc2ab8562ed": {
+   "fragment_id": "REGISTOS",
+   "type": "divisao",
+   "heading": "REGISTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGISTOS"
+  },
+  "035d63c46ce22e1a": {
+   "fragment_id": "Artigo 87.º — Instituição dos registos",
+   "type": "artigo",
+   "heading": "Artigo 87.º — Instituição dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Instituição dos registos\n\n1. O instituto manterá um Registo dos pedidos de reconhecimento de direitos comunitários de protecção das variedades vegetais, de que constarão as seguintes informações:\n\na) Pedidos de reconhecimento de direitos comunitários de protecção de variedades vegetais, acompanhados de uma indicação do táxon e da designação provisória da variedade, bem como da data do pedido e do nome e endereço do requerente, do titular e de qualquer representante em juízo envolvido;\n\nb) Quaisquer processos findos relativos a pedidos de reconhecimento de direitos comunitários de protecção de variedades vegetais, conjuntamente com as informações previstas na alínea a);\n\nc) Propostas de denominações de variedade;\n\nd) Alterações da identidade do requerente ou do seu representante em juízo;\n\ne) Mediante pedido, qualquer execução forçada, nos termos dos artigos 24.º e 26.º\n\n2. O instituto manterá um Registo dos direitos comunitários de protecção das variedades vegetais, no qual serão incluídas, após o reconhecimento do direito comunitário de protecção de uma variedade vegetal, as seguintes informações:\n\na) A espécie e a denominação de variedade respectiva;\n\nb) A descrição oficial da variedade ou a remissão para documentos na posse do instituto de que conste uma descrição oficial da variedade como parte integrante do registo;\n\nc) No caso de variedades relativamente às quais tenha de ser repetidamente utilizado material com componentes específicas para a produção de material, uma referência a tais componentes;\n\nd) O nome e endereço do titular, do reprodutor e de qualquer representante em juízo envolvido;\n\ne) A data de início e de extinção do direito comunitário de protecção da variedade vegetal, bem como as razões para a extinção do direito;\n\nf) Mediante pedido, qualquer licença contratual exclusiva, ou qualquer licença obrigatória, incluindo o nome e endereço da pessoa que goza dessa licença;\n\ng) Mediante pedido, qualquer execução forçada a que se refere o artigo 24.º;\n\nh) Sempre que o titular de uma variedade inicial e o reprodutor de uma variedade essencialmente derivada da variedade inicial o solicitarem conjuntamente, a identificação das variedades como inicial e essencialmente derivada incluindo as denominações de variedade e os nomes das partes envolvidas. Um pedido de apenas uma das partes interessadas bastará, se tiver obtido o reconhecimento não litigioso da outra parte nos termos do artigo 99.º, ou uma decisão transitada em julgado, nos termos do disposto no presente regulamento, que contenha a identificação das variedades em causa como inicial e essencialmente derivada.\n\n3. Quaisquer outras informações ou condições particulares para a inscrição em ambos os registos podem ser especificadas nas regras de execução a que se refere o artigo 114.º\n\n4. O instituto pode, após consulta ao titular, adaptar oficiosamente, quando necessário, a descrição oficial da variedade em função do número e tipo de características ou das expressões especificadas dessas características, à luz dos princípios que normalmente regem a descrição das variedades do táxon em causa, a fim de tornar a descrição da variedade comparável com as descrições de outras variedades do mesmo táxon."
+  },
+  "c28dcfb7eef1fd98": {
+   "fragment_id": "Artigo 88.º — Inspecção pública",
+   "type": "artigo",
+   "heading": "Artigo 88.º — Inspecção pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Inspecção pública\n\n1. Os registos referidos no artigo 87.º estarão abertos à inspecção pública.\n\n2. Em caso de interesse legítimo, estarão abertos à inspecção pública, em conformidade com as condições definidas nas regras de execução a que se refere o artigo 114.º:\n\na) Os documentos relativos aos pedidos de concessão de direitos de protecção comunitária de variedades vegetais;\n\nb) Os documentos relativos aos direitos de protecção comunitária de variedades vegetais já concedidos;\n\nc) O cultivo de variedades para efeitos do respectivo exame técnico;\n\nd) O cultivo de variedades para efeitos de verificação da sua existência continuada.\n\n3. No caso de variedades relativamente às quais se tenha de utilizar repetidamente material com componentes específicos para a produção de material, a pedido do requerente do direito comunitário de protecção de uma variedade vegetal, todos os elementos relativos aos componentes, nomeadamente a nível do cultivo, serão excluídos da inspecção. Este pedido de exclusão da inspecção deixa de poder ser apresentado uma vez tomada a decisão sobre o pedido de reconhecimento do direito comunitário de protecção da variedade vegetal.\n\n4. O material apresentado ou obtido em relação com os exames previstos no n.º 4 do artigo 55.º e nos artigos 56.º e 64.º não pode ser entregue a terceiros pelas autoridades competentes ao abrigo do presente regulamento, salvo com o consentimento da pessoa habilitada, ou se tal transferência for necessária no âmbito da cooperação abrangida pelo presente regulamento para efeitos do exame ou por força da lei."
+  },
+  "b35c89041c29f80d": {
+   "fragment_id": "Artigo 89.º — Publicações periódicas",
+   "type": "artigo",
+   "heading": "Artigo 89.º — Publicações periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Publicações periódicas\n\nO instituto publicará, pelo menos de dois em dois meses, uma publicação, que incluirá as informações inscritas nos registos nos termos do n.º 1 do artigo 84.º e das alíneas a), d), e), f), g), e h) do n.º 2 desse mesmo artigo, e ainda não publicadas. O instituto publicará igualmente um relatório anual, que incluirá as informações consideradas oportunas pelo instituto, e pelo menos uma lista dos direitos comunitários de protecção de variedades vegetais válidos, dos respectivos titulares, das datas de reconhecimento e cessação e das denominações de variedade aprovadas. As modalidades respeitantes a essas publicações serão determinadas pelo Conselho de Administração."
+  },
+  "878362a185dbb2ba": {
+   "fragment_id": "Artigo 90.º — Intercâmbio de informações e de publicações",
+   "type": "artigo",
+   "heading": "Artigo 90.º — Intercâmbio de informações e de publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Intercâmbio de informações e de publicações\n\n1. O instituto e os organismos competentes em matéria de variedades vegetais dos Estados-membros enviarão a pedido, para uso próprio e a título gratuito, e sem prejuízo das condições estabelecidas para a transmissão dos resultados dos exames técnicos, uma ou mais cópias das respectivas publicações e quaisquer outras informações úteis relativas a direitos de propriedade requeridos ou concedidos.\n\n2. Os elementos referidos no n.º 3 do artigo 88.º não serão incluídos nas informações, salvo se:\n\na) A informação for necessária para a realização dos exames previstos nos artigos 55.º e 64.º, ou se\n\nb) O requerente ou o titular do direito comunitário de protecção da variedade vegetal der o seu consentimento."
+  },
+  "794e3a4a07b68088": {
+   "fragment_id": "Artigo 91.º — Cooperação administrativa e judiciária",
+   "type": "artigo",
+   "heading": "Artigo 91.º — Cooperação administrativa e judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Cooperação administrativa e judiciária\n\n1. Salvo disposição em contrário constante do presente regulamento ou das legislações nacionais, o instituto, os organismos de exame referidos no n.º 1 do artigo 55.º e os Tribunais ou as autoridades dos Estados-membros prestar-se-ão assistência mútua, a pedido, comunicando informações ou ficheiros relativos à variedade e enviando amostras de cultivo para inspecção. Sempre que o instituto e os organismos de exame acima referidos ponham à disposição ficheiros, amostras ou cultivos para inspecção pelos Tribunais ou pelos delegados do Ministério Público, a inspecção não ficará sujeita às restrições previstas no artigo 88.º, e a inspecção efectuada pelos organismos de exame não ficará sujeita a uma decisão do instituto nos termos desse artigo.\n\n2. Após recepção de cartas rogatórias provenientes do instituto, os Tribunais ou outras autoridades competentes dos Estados-membros iniciarão, em nome do instituto e dentro dos limites das respectivas competências, quaisquer inquéritos ou outros actos jurídicos com eles relacionados."
+  },
+  "36888e0cfe167420": {
+   "fragment_id": "QUINTA PARTE",
+   "type": "divisao",
+   "heading": "QUINTA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## QUINTA PARTE"
+  },
+  "abf01e214ab3b047": {
+   "fragment_id": "IMPACTE NOUTRAS LEGISLAÇÕES",
+   "type": "divisao",
+   "heading": "IMPACTE NOUTRAS LEGISLAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPACTE NOUTRAS LEGISLAÇÕES"
+  },
+  "2a8d96f717945b77": {
+   "fragment_id": "Artigo 92.º — Proibição de cumulação da protecção",
+   "type": "artigo",
+   "heading": "Artigo 92.º — Proibição de cumulação da protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Proibição de cumulação da protecção\n\n1. As variedades que sejam objecto de direitos comunitários de protecção das variedades vegetais não podem ser objecto de direitos nacionais sobre variedades vegetais nem de patentes nacionais ou europeias para essa variedade. Os direitos concedidos em violação do primeiro período não produzirão quaisquer efeitos.\n\n2. Quando tiver sido concedido ao titular um outro direito tal como referido no n.º 1 para a mesma variedade, antes do reconhecimento do direito comunitário de protecção dessa variedade vegetal, este não pode invocar os direitos conferidos por tais direitos de propriedade relativamente à variedade em causa enquanto vigorar o direito comunitário de protecção das variedades vegetais."
+  },
+  "2afb88910302409e": {
+   "fragment_id": "Artigo 93.º — Aplicação da legislação nacional",
+   "type": "artigo",
+   "heading": "Artigo 93.º — Aplicação da legislação nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Aplicação da legislação nacional\n\nAs acções no âmbito dos direitos comunitários de protecção das variedades vegetais só se encontram sujeitas às limitações impostas pelas legislações dos Estados-membros quando expressamente referido no presente regulamento."
+  },
+  "220b14d09f5d03b3": {
+   "fragment_id": "SEXTA PARTE",
+   "type": "divisao",
+   "heading": "SEXTA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SEXTA PARTE"
+  },
+  "d9956f1962fdba5d": {
+   "fragment_id": "ACÇÕES CÍVEIS, VIOLAÇÕES E COMPETÊNCIA",
+   "type": "divisao",
+   "heading": "ACÇÕES CÍVEIS, VIOLAÇÕES E COMPETÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACÇÕES CÍVEIS, VIOLAÇÕES E COMPETÊNCIA"
+  },
+  "7769552fdb1f599f": {
+   "fragment_id": "Artigo 94.º — Violações",
+   "type": "artigo",
+   "heading": "Artigo 94.º — Violações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Violações\n\n1. Todo aquele que:\n\na) Praticar um dos actos previstos no n.º 2 do artigo 13.º sem para tal ter legitimidade, em relação a uma variedade para a qual tenha sido reconhecido um direito comunitário de protecção das variedades vegetais;\n\nb) Omitir a correcta utilização de uma denominação de variedade, na acepção do n.º 1 do artigo 17.º, ou omitir a informação pertinente, na acepção do n.º 2 do artigo 17.º;\n\nc) Em violação do n.º 3 do artigo 18.º, utilizar a denominação de variedade de uma variedade relativamente à qual tenha sido reconhecido o direito comunitário de protecção das variedades vegetais ou uma designação susceptível de com ela se confundir,\n\n1. pode ser alvo de uma acção judicial por parte do titular, no sentido de pôr termo à infracção ou de pagar uma indemnização adequada, ou ambos.\n\n2. Quem assim agir intencionalmente ou por negligência terá, além disso, de indemnizar o titular de quaisquer danos suplementares resultantes do acto praticado. Em caso de negligência simples, estas indemnizações poderão ser reduzidas em função do grau de gravidade da negligência mas nunca de modo a torná-las inferiores aos benefícios que dela resultaram para a pessoa que praticou a violação."
+  },
+  "5f00d852eb9742c6": {
+   "fragment_id": "Artigo 95.º — Actos anteriores ao reconhecimento dos direitos comunitários de protecção de variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 95.º — Actos anteriores ao reconhecimento dos direitos comunitários de protecção de variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Actos anteriores ao reconhecimento dos direitos comunitários de protecção de variedades vegetais\n\nO titular pode exigir uma indemnização adequada de qualquer pessoa que, no período compreendido entre a publicação do pedido de reconhecimento de um direito comunitário de uma variedade vegetal e a respectiva concessão, tenha praticado um acto cuja prática posterior seria ilícita."
+  },
+  "04cf9659c959f079": {
+   "fragment_id": "Artigo 96.º — Prescrição",
+   "type": "artigo",
+   "heading": "Artigo 96.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Prescrição\n\nOs direitos referidos nos artigos 94.º e 95.º prescrevem no final de um período de três anos a contar do momento em que o direito comunitário de protecção da variedade vegetal tiver sido definitivamente reconhecido e o titular tiver conhecimento do acto e da identidade da parte responsável ou, caso deles não tenha conhecimento, no final de um período de 30 anos a contar da cessação do acto em causa."
+  },
+  "b271ba526f3c0c21": {
+   "fragment_id": "Artigo 97.º — Aplicação supletiva das legislações nacionais relativamente à violação de direitos",
+   "type": "artigo",
+   "heading": "Artigo 97.º — Aplicação supletiva das legislações nacionais relativamente à violação de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Aplicação supletiva das legislações nacionais relativamente à violação de direitos\n\n1. Quando a parte responsável nos termos do artigo 94.º tiver, em virtude da violação, obtido qualquer benefício em detrimento do titular ou do legítimo detentor de uma licença, os tribunais competentes nos termos dos artigos 101.º ou 102.º aplicarão à indemnização a sua legislação nacional, incluindo o seu direito internacional privado.\n\n2. O n.º 1 é igualmente aplicável a outras acções que possam ser intentadas por prática ou omissão de actos nos termos do artigo 95.º no período compreendido entre a publicação do pedido de reconhecimento do direito comunitário de protecção de uma variedade vegetal e a decisão sobre o pedido.\n\n3. Em todos os outros aspectos, os efeitos dos direitos comunitários de protecção das variedades vegetais serão exclusivamente determinados de acordo com o presente regulamento."
+  },
+  "dee44be7427a33ad": {
+   "fragment_id": "Artigo 98.º — Reivindicação da titularidade de um direito comunitário de protecção de uma variedade vegetal",
+   "type": "artigo",
+   "heading": "Artigo 98.º — Reivindicação da titularidade de um direito comunitário de protecção de uma variedade vegetal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Reivindicação da titularidade de um direito comunitário de protecção de uma variedade vegetal\n\n1. Se um direito comunitário de protecção de uma variedade vegetal tiver sido reconhecido a uma pessoa que não esteja habilitada a recebê-lo nos termos do artigo 11.º, a pessoa que a ele tiver direito pode, sem prejuízo de quaisquer outras medidas que possa tomar ao abrigo das legislações dos Estados-membros, reivindicar a transferência para o seu nome do direito comunitário de protecção da variedade vegetal.\n\n2. Se essa pessoa tiver legitimidade apenas em relação a uma parte do direito comunitário de protecção da variedade vegetal, pode, nos termos do n.º 1, exigir a co-titularidade do direito.\n\n3. As acções previstas nos n.^os^ 1 e 2 apenas podem ser intentadas no prazo de cinco anos a contar da publicação do reconhecimento do direito comunitário de protecção da variedade vegetal. Esta disposição não é aplicável se o titular tiver conhecimento, no momento em que o direito lhe for concedido ou for por ele adquirido, de que não tem legitimidade ou de que a não tem só por si para obter tais direitos.\n\n4. A pessoa habilitada pode mutatis mutandis intentar acções nos termos dos n.^os^ 1 e 2 em relação a qualquer pedido de reconhecimento de um direito comunitário de protecção da variedade vegetal apresentado por uma pessoa sem legitimidade ou sem legitimidade só por si para o fazer."
+  },
+  "2998956a5eddf601": {
+   "fragment_id": "Artigo 99.º — Obtenção da identificação de uma variedade",
+   "type": "artigo",
+   "heading": "Artigo 99.º — Obtenção da identificação de uma variedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Obtenção da identificação de uma variedade\n\nO titular de uma variedade inicial e o reprodutor de uma variedade essencialmente derivada da variedade inicial têm o direito de obter o reconhecimento da identificação das variedades em causa como inicial e essencialmente derivada."
+  },
+  "e2680ba7ff873f96": {
+   "fragment_id": "Artigo 100.º — Efeitos da mudança de titularidade de um direito comunitário de protecção de uma variedade vegetal",
+   "type": "artigo",
+   "heading": "Artigo 100.º — Efeitos da mudança de titularidade de um direito comunitário de protecção de uma variedade vegetal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Efeitos da mudança de titularidade de um direito comunitário de protecção de uma variedade vegetal\n\n1. Quando intervier uma alteração integral de titularidade de um direito comunitário de protecção de uma variedade vegetal na sequência de uma decisão judicial transitada em julgado proferida ao abrigo dos artigos 101.º ou 102.º numa acção de reivindicação de titularidade nos termos do n.º 1 do artigo 98.º, todas as licenças ou outros direitos caducarão com a inscrição da pessoa habilitada no Registo dos direitos comunitários de protecção das variedades vegetais.\n\n2. Se o titular do direito ou o beneficiário de um direito de exploração tiver praticado um dos actos previstos no n.º 2 do artigo 13.º ou tiver tomado medidas efectivas e sérias para os praticar antes do início do processo previsto nos artigos 101.º ou 102.º, pode continuar a praticar tais actos desde que peça ao novo titular inscrito no Registo dos direitos comunitários de protecção das variedades vegetais uma licença não exclusiva. Tais pedidos devem ser apresentados no prazo estabelecido nas regras de execução. A licença poderá ser concedida pelo instituto, caso não haja acordo entre as partes. Os n.^os^ 3 a 7 do artigo 29.º são aplicáveis mutatis mutandis.\n\n3. O disposto no n.º 2 não é aplicável se o titular do direito ou os beneficiários dos direitos de exploração tiverem agido de má fé ao praticarem os referidos actos ou ao tomarem as referidas medidas."
+  },
+  "25b50bd622a735f4": {
+   "fragment_id": "Artigo 101.º — Competência jurisdicional e procedimento nos actos jurídicos relacionados com acções cíveis",
+   "type": "artigo",
+   "heading": "Artigo 101.º — Competência jurisdicional e procedimento nos actos jurídicos relacionados com acções cíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Competência jurisdicional e procedimento nos actos jurídicos relacionados com acções cíveis\n\n1. São aplicáveis aos processos relativos às acções referidas nos artigos 94.º a 100.º a Convenção de Lugano, bem como as disposições complementares do presente artigo e dos artigos 102.º a 106.º do presente regulamento.\n\n2. Os processos do tipo referido no n.º 1 podem ser intentados nos tribunais:\n\na) Do Estado-membro ou de outra parte contratante na Convenção de Lugano em que o requerido se encontre domiciliado ou tenha a sua sede, ou na sua falta, o estabelecimento; ou\n\nb) Se esta condição não se encontrar preenchida em nenhum dos Estados-membros ou partes contratantes, do Estado-membro em que o requerente se encontre domiciliado ou tenha a sua sede ou, na sua falta, o estabelecimento; ou\n\nc) Se esta condição não se encontrar preenchida em nenhum Estado-membro, do Estado-membro em que está situada a sede do instituto.\n\nOs Tribunais competentes podem decidir sobre infracções alegadamente praticadas em qualquer dos Estados-membros.\n\n3. Os processos relativos a acções de infracção podem igualmente ser intentados nos tribunais do local em que foi cometido o acto impugnado. Nestes casos, o Tribunal será competente apenas em relação às violações alegadamente cometidas no território do Estado-membro a que pertence.\n\n4. Os processos legais e os tribunais competentes são os que operarem ao abrigo da legislação do Estado determinado nos termos dos n.^os^ 2 ou 3."
+  },
+  "0b2467bfef11b335": {
+   "fragment_id": "Artigo 102.º — Disposições adicionais",
+   "type": "artigo",
+   "heading": "Artigo 102.º — Disposições adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Disposições adicionais\n\n1. As acções de reivindicação de legitimidade nos termos do artigo 98.º do presente regulamento não se consideram abrangidas pelo disposto nos n.^os^ 3 e 4 do artigo 5.º da Convenção de Lugano.\n\n2. Sem prejuízo do disposto no artigo 101.º do presente regulamento, é aplicável o disposto no n.º 1 do artigo 5.º e nos artigos 17.º e 18.º da Convenção de Lugano.\n\n3. Para efeitos da aplicação dos artigos 101.º e 102.º do presente regulamento, o domicílio ou sede das partes será determinado nos termos dos artigos 52.º e 53.º da Convenção de Lugano."
+  },
+  "e7ed565097cc0d74": {
+   "fragment_id": "Artigo 103.º — Direito processual aplicável",
+   "type": "artigo",
+   "heading": "Artigo 103.º — Direito processual aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Direito processual aplicável\n\nQuando os tribunais nacionais forem competentes nos termos dos artigos 101.º e 102.º, aplicar-se-ão as regras processuais do respectivo Estado que regem o mesmo tipo de processos relativos a direitos de propriedade nacionais correspondentes, sem prejuízo dos artigos 104.º e 105.º"
+  },
+  "c68560dc58be7039": {
+   "fragment_id": "Artigo 104.º — Legitimidade para intentar acções de infracção",
+   "type": "artigo",
+   "heading": "Artigo 104.º — Legitimidade para intentar acções de infracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Legitimidade para intentar acções de infracção\n\n1. O titular do direito pode intentar acções com fundamento em infracção. Os detentores de licenças só podem intentar essas acções se não tiverem sido expressamente excluídas por acordo com o titular, no caso de uma licença exclusiva, ou pelo instituto nos termos do artigo 28.º ou do n.º 2 do artigo 96.º\n\n2. Qualquer pessoa que beneficie de direitos de exploração terá, para efeitos de obtenção de uma indemnização pelo dano sofrido, legitimidade para intervir numa acção de infracção intentada pelo titular do direito."
+  },
+  "3feec95dbfc91c4e": {
+   "fragment_id": "Artigo 105.º — Obrigação dos tribunais nacionais ou de outras instâncias",
+   "type": "artigo",
+   "heading": "Artigo 105.º — Obrigação dos tribunais nacionais ou de outras instâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Obrigação dos tribunais nacionais ou de outras instâncias\n\nOs tribunais nacionais ou outras instâncias perante as quais esteja a correr uma acção relativa a um direito comunitário de protecção de uma variedade vegetal deve considerar válido esse direito."
+  },
+  "faf317b2dab96f14": {
+   "fragment_id": "Artigo 106.º — Suspensão do processo",
+   "type": "artigo",
+   "heading": "Artigo 106.º — Suspensão do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Suspensão do processo\n\n1. Quando uma acção se referir aos pedidos previstos no n.º 4 do artigo 98.º e a decisão depender da protegibilidade da variedade nos termos do artigo 6.º, essa decisão só pode ser tomada depois de o instituto ter decidido sobre o pedido de um direito comunitário de protecção da variedade vegetal.\n\n2. Quando uma acção tiver por objecto um direito comunitário de protecção de uma variedade vegetal reconhecido, em relação ao qual tenham sido iniciados processos de anulação ou revogação nos termos dos artigos 20.º ou 21.º, a instância poderá ser suspensa se a decisão final depender da validade do direito comunitário de protecção da variedade vegetal."
+  },
+  "464bc884252d7750": {
+   "fragment_id": "Artigo 107.º — Sanções por violação de direitos comunitários de protecção de variedades vegetais",
+   "type": "artigo",
+   "heading": "Artigo 107.º — Sanções por violação de direitos comunitários de protecção de variedades vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Sanções por violação de direitos comunitários de protecção de variedades vegetais\n\nOs Estados-membros tomarão as medidas necessárias para assegurar que sejam aplicadas às violações de direitos comunitários de protecção de variedades vegetais as mesmas sanções que são aplicáveis às violações dos direitos nacionais correspondentes."
+  },
+  "d599fbfac729322b": {
+   "fragment_id": "SÉTIMA PARTE",
+   "type": "divisao",
+   "heading": "SÉTIMA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SÉTIMA PARTE"
+  },
+  "b326deb838426cdf": {
+   "fragment_id": "ORÇAMENTO, CONTROLO FINANCEIRO E REGRAS DE EXECUÇÃO COMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "ORÇAMENTO, CONTROLO FINANCEIRO E REGRAS DE EXECUÇÃO COMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORÇAMENTO, CONTROLO FINANCEIRO E REGRAS DE EXECUÇÃO COMUNITÁRIAS"
+  },
+  "f9198f1136885bcb": {
+   "fragment_id": "Artigo 108.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 108.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Orçamento\n\n1. Todas as receitas e despesas do instituto devem ser objecto de previsões para cada exercício orçamental, que coincidirá com o ano civil, e serão inscritas no orçamento do instituto.\n\n2. O orçamento deve ser equilibrado em receitas e despesas.\n\n3. As receitas incluem, sem prejuízo de outros tipos de proveitos, o produto das taxas devidas por força do artigo 83.º, de acordo com a regulamentação relativa às taxas referidas no artigo 113.º e, na medida do necessário, uma subvenção proveniente do orçamento geral das Comunidades Europeias.\n\n4. As despesas incluem, sem prejuízo de outro tipo de despesas, os custos fixos do instituto e os custos decorrentes do seu funcionamento normal, incluindo os montantes pagos aos organismos de exame."
+  },
+  "9a80f70a105d136f": {
+   "fragment_id": "Artigo 109.º — Elaboração do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 109.º — Elaboração do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Elaboração do orçamento\n\n1. O presidente elaborará anualmente uma previsão das receitas e despesas do instituto para o ano seguinte e transmiti-la-á ao Conselho de Administração até 31 de Março de cada ano, o mais tardar, acompanhada de uma lista dos postos de trabalho e, sempre que a previsão incluir a subvenção referida no n.º 3 do artigo 108.º, antecedida de uma memória explicativa.\n\n2. Caso a previsão inclua a subvenção referida no n.º 3 do artigo 108.º, o Conselho de Administração deve enviá-la imediatamente à Comissão, acompanhada da lista dos postos de trabalho e da memória explicativa, podendo juntar-lhe o seu parecer. A Comissão enviará esses documentos à autoridade orçamental das Comunidades, podendo anexar-lhes o seu parecer, assim como uma previsão alternativa.\n\n3. O Conselho de Administração aprovará o orçamento, que incluirá a lista dos postos de trabalho do instituto. Caso a previsão inclua a subvenção referida no n.º 3 do artigo 108.º, o orçamento deverá, se necessário, ser adaptado em função das dotações inscritas no orçamento geral das Comunidades Europeias."
+  },
+  "fb42fc2ec4da2791": {
+   "fragment_id": "Artigo 110.º — Execução do Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 110.º — Execução do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Execução do Orçamento\n\nO presidente executará o orçamento do instituto."
+  },
+  "476c013ae8363794": {
+   "fragment_id": "Artigo 111.º",
+   "type": "artigo",
+   "heading": "Artigo 111.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º"
+  },
+  "26d9e98b4c325d2f": {
+   "fragment_id": "Auditoria e controlo financeiro",
+   "type": "divisao",
+   "heading": "Auditoria e controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Auditoria e controlo financeiro\n\n1. No âmbito do Instituto, é criada uma função de auditoria interna, que deve ser exercida no respeito das normas internacionais pertinentes. O auditor interno, nomeado pelo presidente, é responsável perante este pela verificação do bom funcionamento dos sistemas e dos procedimentos de execução do orçamento do Instituto.\n\nO auditor interno aconselha o presidente sobre o controlo dos riscos, formulando pareceres independentes relativos à qualidade dos sistemas de gestão e de controlo e emitindo recomendações para melhorar as condições de execução das operações e promover a boa gestão financeira.\n\nIncumbe ao gestor orçamental a responsabilidade de criar sistemas e procedimentos de controlo interno adaptados à execução das suas tarefas.\n\n2. Até 31 de Março de cada ano, o mais tardar, o presidente enviará à Comissão, ao Conselho de Administração e ao Tribunal de Contas das Comunidades Europeias as contas da totalidade das receitas e despesas do instituto no exercício anterior. O Tribunal de Contas examiná-las-á de acordo com as disposições pertinentes aplicáveis ao orçamento geral das Comunidades.\n\n3. O Conselho de Administração dará ao presidente do instituto quitação da execução do orçamento."
+  },
+  "94e99b8e2950b42d": {
+   "fragment_id": "Artigo 112.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 112.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Disposições financeiras\n\nO Conselho de Administração, após consulta ao Tribunal de Contas, adoptará disposições financeiras internas, que especificarão, nomeadamente, as regras relativas à elaboração e à execução do orçamento do instituto. Essas disposições financeiras deverão corresponder, tanto quanto possível, às disposições do Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias e afastar-se delas apenas quando os requisitos específicos do funcionamento do instituto assim o exigirem."
+  },
+  "24ff7b3dff3c86d9": {
+   "fragment_id": "Artigo 113.º — Regulamentação relativa às taxas",
+   "type": "artigo",
+   "heading": "Artigo 113.º — Regulamentação relativa às taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Regulamentação relativa às taxas\n\n1. A regulamentação relativa às taxas fixará, em especial, os domínios em que estas serão devidas nos termos do n.º 1 do artigo 83.º, bem como os respectivos montantes e modalidades de pagamento.\n\n2. Serão aplicadas taxas pelo menos nos seguintes casos:\n\na) Processamento de pedidos de concessão de direitos comunitários de protecção de variedades vegetais; esta taxa cobre:\n\n— o exame formal (artigo 53.º),\n\n— o exame material (artigo 54.º),\n\n— o exame da denominação da variedade (artigo 63.º),\n\n— a decisão (artigos 61.º e 62.º),\n\n— as publicações relacionadas com o tema (artigo 89.º);\n\nb) Preparação e realização do exame técnico;\n\nc) Processamento dos recursos, incluindo a respectiva decisão;\n\nd) Cada ano de vigência do direito comunitário de protecção da variedade vegetal.\n\na) a) Sem prejuízo das alíneas b) e c), o montante das taxas será fixado a um nível que garanta que, em princípio, as respectivas receitas sejam suficientes para equilibrar o orçamento do instituto;\n\nb) Todavia, a subvenção referida no n.º 3 do artigo 108.º poderá cobrir, por um período transitório que expira em 31 de Dezembro do quarto ano a contar da data fixada no n.º 2 do artigo 118.º, as despesas relacionadas com a fase inicial de funcionamento do instituto. De acordo com o procedimento constante do artigo 115.º, esse período pode ser prorrogado, se necessário, por um período não superior a um ano;\n\nc) Além disso, e apenas durante o período transitório acima referido, a subvenção referida no n.º 3 do artigo 108.º poderá abranger igualmente certas despesas do instituto relativas a certas actividades que não sejam o tratamento de pedidos, a preparação e realização dos exames técnicos e o tratamento de recursos. Tais actividades serão especificadas, o mais tardar um ano após a adopção do presente regulamento, em regras de execução conformes com o artigo 114.º\n\n4. A regulamentação relativa às taxas será adoptada de acordo com o procedimento previsto no artigo 115.º, após consulta ao Conselho de Administração sobre o projecto de medidas a tomar."
+  },
+  "1dd047ec40575738": {
+   "fragment_id": "Artigo 114.º — Outras regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 114.º — Outras regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Outras regras de execução\n\n1. Para efeitos da aplicação do presente regulamento, serão adoptadas regras de execução pormenorizadas. Essas regras incluirão, nomeadamente, disposições:\n\n— que definam as relações entre o instituto e os organismos de exame, as agências ou as suas próprias delegações, referidos no n.º 4 do artigo 30.º e nos n.^os^ 1 e 2 do artigo 55.º,\n\n— sobre as matérias referidas no n.º 1 do artigo 36.º e no n.º 2 do artigo 42.º,\n\n— sobre o procedimento das instâncias de recurso.\n\n2. Sem prejuízo do disposto nos artigos 112.º e 113.º, todas as regras de execução constantes do presente regulamento serão adoptadas nos termos do procedimento previsto no artigo 115.º, depois de consultado o Conselho de Administração sobre o projecto das medidas a tomar."
+  },
+  "66409b15032eb4d2": {
+   "fragment_id": "Artigo 115.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 115.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Procedimento\n\n1. A Comissão será assistida por um comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^8^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#E0008)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "5a6018811882c938": {
+   "fragment_id": "OITAVA PARTE",
+   "type": "divisao",
+   "heading": "OITAVA PARTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## OITAVA PARTE"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "d72e3775b3bee60d": {
+   "fragment_id": "Artigo 116.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 116.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Derrogações\n\n1. Sem prejuízo do disposto no n.º 1, alínea a), do artigo 10.º e nos n.^os^ 2 e 3 do mesmo artigo, uma variedade será igualmente considerada nova nos casos em que os constituintes varietais ou materiais de colheita respectivos não tenham sido vendidos ou de outra forma cedidos a terceiros, pelo reprodutor ou com o seu consentimento, no território da Comunidade, para efeitos de exploração da variedade, mais de quatro anos e, no caso das videiras ou das árvores, mais de seis anos antes da entrada em vigor do presente regulamento, se entre a data do pedido e a data de entrada em vigor do presente regulamento não mediar mais de um ano.\n\n2. O disposto no n.º 1 será aplicável a essas variedades também no caso de ter sido concedido um direito de protecção nacional das variedades vegetais num ou mais Estados-membros, antes da entrada em vigor do presente regulamento.\n\n3. Em derrogação do disposto nos artigos 55.º e 56.º, o exame técnico destas variedades deve ser realizado, se possível, pelo instituto, com base nas conclusões disponíveis resultantes de quaisquer processos de concessão de direitos de protecção nacional das variedades vegetais e por acordo com a autoridade junto da qual tais processos tenham decorrido.\n\n4. No caso de um direito comunitário de protecção de uma variedade vegetal reconhecido nos termos dos n.^os^ 1 ou 2:\n\n— o disposto no n.º 5, alínea a), do artigo 13.º não será aplicável em relação às variedades essencialmente derivadas cuja existência fosse objecto do conhecimento público na Comunidade antes da data de entrada em vigor do presente regulamento,\n\n— o disposto no n.º 3, quarto travessão, do artigo 14.º não se aplica aos agricultores que continuem a utilizar uma determinada variedade de acordo com a autorização prevista no n.º 1 do artigo 14.º se, antes da entrada em vigor do presente regulamento, já a tiverem utilizado para os fins descritos no n.º 1 do artigo 14.º sem pagamento de qualquer remuneração. Esta disposição é aplicável até 30 de Junho do sétimo ano subsequente ao ano de entrada em vigor do presente regulamento. Antes dessa data, a Comissão apresentará um relatório, variedade por variedade, sobre a situação das variedades estabelecidas. O período acima previsto poderá ser prorrogado, através das regras de execução adoptadas nos termos do artigo 114.º, na medida em que o relatório apresentado pela Comissão o justificar,\n\n— sem prejuízo dos direitos conferidos pela protecção nacional, o disposto no artigo 16.º será aplicável, mutatis mutandis, a actos relativos a material cedido a outrem pelo reprodutor, ou com o seu consentimento, antes da data de entrada em vigor do presente regulamento e realizados por pessoas que, antes de tal data, tenham já praticado actos dessa natureza ou tenham tomado medidas eficazes e sérias para os praticar.\n\n— Caso esses actos anteriormente praticados tenham envolvido nova multiplicação considerada intencional na acepção do artigo 16.º, todas as novas multiplicações efectuadas ao cabo do segundo ano e, no caso das variedades de castas de vinha e de espécies de árvores, ao cabo do quarto ano subsequente à data de entrada em vigor do presente regulamento, carecerão da autorização do titular,\n\n— em derrogação do disposto no artigo 19.º, a duração do direito comunitário de protecção das variedades vegetais sofrerá uma redução equivalente ao período mais longo,\n\n— em que os constituintes varietais ou o seu material de colheita tenham sido vendidos ou cedidos a terceiros pelo reprodutor, ou com o seu consentimento, no território da Comunidade para efeitos de exploração da variedade, tal como estabelecido nas conclusões resultantes do processo de concessão do direito comunitário de protecção das variedades vegetais, no caso do n.º 1,\n\n— em que tenham estado em vigor qualquer direito ou direitos nacionais de protecção das variedades vegetais, no caso do n.º 2,\n\n4. mas nunca para além de cinco anos."
+  },
+  "dae475a79b875aaf": {
+   "fragment_id": "Artigo 117.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 117.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Disposições transitórias\n\nO instituto será criado com antecedência suficiente para assumir plenamente as funções que lhe são atribuídas pelo presente regulamento a partir de 27 de Abril de 1995."
+  },
+  "494a090ddbbbac2e": {
+   "fragment_id": "Artigo 118.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 118.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\n2. Os artigos 1.º, 2.º, 3.º, 5.º a 29.º e 49.º a 106.º produzem efeitos a partir de 27 de Abril de 1995.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "0bafce3561df24e6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0001)) JO n.º C 244 de 28.9.1990, p. 1 e JO n.º C 113 de 23.4.1993, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0002)) JO n.º C 305 de 23.11.1992, p. 55 e JO n.º C 67 de 16.3.1992, p. 148.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0003)) JO n.º C 60 de 8.3.1991, p. 45.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0004)) JO n.º L 181 de 1.7.1992, p. 12. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1552/93 (JO n.º L 154 de 25.6.1993, p. 19).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0005)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0007)) JO n.º 17 de 6. 10. 1958, p. 385/58. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  }
+ }
+}

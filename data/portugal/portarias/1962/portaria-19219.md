@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:164245:por
+title: Portaria n.º 19219
+short_title: null
+summary: Aprova o Regulamento dos Postos de Enfermagem
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência - Gabinete do Ministro
+proposing_entity: null
+official_number: '19219'
+official_date: null
+publication_date: '1962-06-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 127/1962, Série I de 1962-06-04
+  number: '127'
+  series: I
+  supplement: null
+  pages: 783 - 784
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/06/12700/07830784.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '164245'
+  dre_path: /dr/detalhe/portaria/19219-1962-164245
+  internal: pt:dre:164245:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19219-1962-164245
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19219-1962-164245
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:15:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b74fbb2e449fc5ceb8570f87aa807832042d34ab5a9e08c3ae4b7a246344deba
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Enfermagem
+- Fiscalização
+- Pessoal de Enfermagem
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:491395:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogada, a partir de 11.10.2009, pelo DEC LEI.279/2009.06.10.2009.MS, DR.IS [193] de 06.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:15:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19219
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, aprovar o seguinte:
+
+REGULAMENTO DOS POSTOS DE ENFERMAGEM
+
+1.º Para efeitos deste regulamento, consideram-se postos de enfermagem os estabelecimentos abertos ao público, qualquer que seja a sua designação, onde se exerça a prática de enfermagem.
+
+§ único. Cada posto funcionará sob a responsabilidade de um enfermeiro legalmente habilitado.
+
+2.º Os auxiliares de enfermagem podem exercer a sua actividade nos postos, quando sob a vigilância e responsabilidade de um enfermeiro. Nos casos em que o serviço seja solicitado ao posto e realizado no domicílio o acto de enfermagem será sempre da responsabilidade do enfermeiro a que se refere o número anterior.
+
+3.º Os postos de enfermagem não podem funcionar sem a presença de um enfermeiro.
+
+4.º Ao pessoal de enfermagem dos postos é vedado fazer tratamentos sem prescrição médica, salvo havendo extrema urgência. Neste caso, porém, o doente, depois de tratado, deve ser enviado a médico da sua escolha, para orientar devidamente o tratamento posterior.
+
+5.º Não pode ser autorizado o funcionamento de postos de enfermagem que não possuam instalações e equipamento adequados.
+
+6.º Cada posto deve dispor, além de instalações sanitárias convenientes, de, pelo menos, três salas com boa ventilação e iluminação naturais, sendo uma sala de espera, outra para tratamentos e a última para esterilização dos instrumentos e material de penso.
+
+7.º Os postos devem possuir um livro onde fique registado o nome do doente, a data, o tratamento realizado e o nome do médico que o indicou ou, caso contrário, a menção de que o doente compareceu ou solicitou espontâneamente os serviços do posto. Este livro deve ser autenticado e rubricado pelo serviço competente do Ministério da Saúde e Assistência.
+
+8.º A fiscalização dos postos será efectuada pelo Ministério da Saúde e Assistência, pela Ordem dos Médicos e pelos sindicatos nacionais dos profissionais de enfermagem, entidades às quais o responsável do posto dará todas as informações pertinentes e à disposição de quem, se necessário, porá o livro de registo e os ficheiros, se os inspectores tiverem a profissão de médico ou de enfermeiro.
+
+§ único. O Ministro da Saúde e Assistência fixará, por despacho, o serviço do Ministério a quem compete a fiscalização dos postos de enfermagem. A esse serviço competirão igualmente as demais funções atribuídas por este regulamento ao Ministério da Saúde e Assistência.
+
+9.º Se a fiscalização encontrar qualquer irregularidade poderá levantar auto de notícia, que enviará ao serviço competente do Ministério da Saúde e Assistência ou ao organismo corporativo. No caso de se tratar de infracção grave a entidade que houver dado a autorização de funcionamento deverá suspender este imediatamente.
+
+10.º A abertura ao público dos postos de enfermagem depende da autorização do Ministério da Saúde e Assistência.
+
+11.º A autorização mencionada no número anterior será solicitada ao Ministério da Saúde e Assistência mediante o preenchimento de um impresso do qual constem o local e o horário do funcionamento do posto, a identificação do responsável e dos outros profissionais que nele trabalharão, a escola onde foram graduados e os números e datas das respectivas carteiras profissionais.
+
+§ único. O Ministério, antes de autorizar a abertura de um posto, ouvirá o sindicato nacional a que pertença o seu responsável.
+
+12.º Os postos de enfermagem que estejam presentemente em funcionamento devem, no prazo de 60 dias, regular a sua situação em harmonia com as condições estabelecidas neste diploma.
+
+Ministério da Saúde e Assistência, 4 de Junho de 1962. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

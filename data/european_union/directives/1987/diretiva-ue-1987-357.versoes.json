@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987L0357:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0357-19870629",
+ "dre_path": null,
+ "source_lastmod": "1987-06-29",
+ "versions": [
+  {
+   "date": "1987-06-29",
+   "future": false,
+   "celex": "01987L0357-19870629",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "88ec48c89db7cd1f",
+    "8d90fe53b610be50",
+    "e3116360ae87ecce",
+    "176a6ed2a86f1fa3",
+    "5dccf2ff6f18e716",
+    "1d5571f4d993b46f",
+    "7d88ba9cd8d13d83",
+    "1fc2c4bca2212c62"
+   ]
+  }
+ ],
+ "fragments": {
+  "88ec48c89db7cd1f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1987L0357 — PT — 29.06.1987 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0357:PT:NOT) [DIRECTIVA DO CONSELHO de 25 de Junho de 1987 relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos que, não possuindo a aparência do que são, comprometem a saúde ou a segurança dos consumidores (87/357/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0357:PT:NOT) (JO L 192, 11.7.1987, p.49)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0357R(01):PT:NOT) [Rectificação, JO L 275, 29.9.1987, p. 43 (87/357)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0357R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0357:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 25 de Junho de 1987\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos produtos que, não possuindo a aparência do que são, comprometem a saúde ou a segurança dos consumidores\n\n(87/357/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#E0002)),\n\nConsiderando que em vários Estados-membros existem disposições legislativas ou regulamentares relativas a determinados produtos que, não possuindo a aparência do que são, comprometem a segurança ou a saúde dos consumidores; que essas disposições diferem, todavia, quanto ao conteúdo, ao alcance e ao âmbito de aplicação; que, nomeadamente, em certos Estados-membros, essas disposições são relativas ao conjunto dos produtos que se assemelham a géneros alimentícios quando não o são e, noutros Estados-membros, são relativas a produtos especiais susceptíveis de serem confundidos com géneros alimentícios e, em especial, com guloseimas;\n\nConsiderando que uma tal situação cria entraves importantes à livre circulação dos produtos e condições de concorrência desiguais no interior da Comunidade sem, contudo, assegurar uma protecção eficaz do consumidor, em especial das crianças;\n\nConsiderando que estes obstáculos ao estabelecimento e ao funcionamento do mercado comum devem ser eliminados e que deve ser realizada uma protecção adequada do consumidor nos termos das resoluções do Conselho de 14 de Abril de 1975 e de 19 de Maio de 1981, relativas respectivamente a um programa preliminar ([3](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#E0003)) e ao segundo programa da Comunidade Económica Europeia para uma política de protecção e de informação dos consumidores ([4](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#E0004)) bem como da resolução do Conselho de 23 de Junho de 1986 relativa a um novo impulso na política de protecção dos consumidores ([5](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#E0005));\n\nConsiderando que é oportuno que a saúde e a segurança dos consumidores sejam objecto de um nível de protecção equivalente nos diferentes Estados-membros;\n\nConsiderando que, para esse fim, é necessário proibir a comercialização, a importação e quer o fabrico, quer a exportação dos produtos que, por poderem ser confundidos com géneros alimentícios, comprometem a segurança e a saúde dos consumidores;\n\nConsiderando que é oportuno prever controlos a efectuar pelas autoridades competentes dos Estados-membros;\n\nConsiderando que, de acordo com os princípios inscritos nas resoluções do Conselho sobre a protecção do consumidor, os produtos prejudiciais devem ser retirados do mercado;\n\nConsiderando que convém prever a possibilidade de proceder a trocas de pontos de vista bem como à análise das medidas de proibição ou de retirada tomadas pelos Estados-membros, a fim de assegurar na Comunidade uma aplicação uniforme dos princípios da presente directiva que esta análise e estas trocas de pontos de vista se podem realizar no seio do Comité Consultivo instituído pela Decisão 84/133/CEE ([6](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#E0006));\n\nConsiderando que, na perspectiva, eventualmente necessária, do alargamento do campo de aplicação às imitações perigosas que não as imitações de géneros alimentícios e tendo como objectivo a avaliação e revisão dos procedimentos estabelecidos na presente directiva, convém prever que o Conselho, dois anos após a respectiva aplicação, delibere, com base num relatório da Comissão sobre a experiência adquirida, sobre uma eventual adaptação das suas disposições,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8d90fe53b610be50": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva aplica-se aos produtos definidos no n.o 2 que, não possuindo a aparência do que são, comprometem a segurança ou a saúde dos consumidores.\n\n2. Os produtos a que se refere o n.o 1 são os que, embora não sendo géneros alimentícios, possuem forma, cheiro, cor, aspecto, acondicionamento, rotulagem, volume ou dimensões tais que é previsível que os consumidores, em especial as crianças, os confundam com produtos alimentares e, por esse motivo, os levem à boca, os chupem ou ingiram, podendo esse acto comportar riscos tais como asfixias, intoxicação e perfuração ou obstrução do tubo digestivo."
+  },
+  "e3116360ae87ecce": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros tomarão todas as medidas necessárias para proibir a comercialização, a importação e o fabrico ou a exportação dos produtos que são objecto da presente directiva."
+  },
+  "176a6ed2a86f1fa3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros asseegurarão, nomeadamente, que sejam efectuados controlos dos produtos que se encontram no mercado, a fim de assegurar que os produtos que são objecto da presente directiva não sejam comercializados, e tomarão todas as medidas necessárias para que as respectivas autoridades competentes retirem ou mandem retirar do mercado todo e qualquer produto que, sendo objecto da presente directiva, se possa encontrar no mercado."
+  },
+  "5dccf2ff6f18e716": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. No caso de um Estado-membro tomar uma medida específica, nos termos dos artigos 2.o e 3.o, comunicará o facto à Comissão. O mesmo Estado-membro fornecerá uma descrição do produto em causa e indicará o fundamento da sua decisão.\n\nSempre que já seja exigida a informação do produto nos termos da Decisão 84/133/CEE não é necessário proceder a qualquer comunicação nos termos da presente directiva.\n\nA Comissão enviará estas informações no mais curto prazo aos outros Estados-membros.\n\n2. A Comissão pode solicitar ao Comité instituído pela Decisão 84/133/CEE que proceda a uma troca de pontos de vista sobre as questões relativas à aplicação da presente directiva."
+  },
+  "1d5571f4d993b46f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nDois anos após a data referida no artigo 6.o, o Conselho deliberará sobre a sua eventual adaptação, com base num relatório da Comissão relativo à experiência adquirida, acompanhado de propostas adequadas, tendo nomeadamente como objectivo alargar o seu campo de aplicação a outras imitações perigosas para além das imitações de géneros alimentícios, bem como sobre a eventual revisão dos procedimentos previstos no artigo 4.o"
+  },
+  "7d88ba9cd8d13d83": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva, o mais tardar em 26 de Junho de 1989[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0357R(01):PT:NOT) ————— ◄. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto de todas as disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "1fc2c4bca2212c62": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#src.E0001)) JO n.o C 156 de 15. 6. 1987.\n\n([2](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#src.E0002)) JO n.o C 150 de 9. 6. 1987, p. 1.\n\n([3](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#src.E0003)) JO n.o C 92 de 25. 4. 1975, p. 1.\n\n([4](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#src.E0004)) JO n.o C 133 de 3. 6. 1981, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#src.E0005)) JO n.o C 167 de 5. 7. 1986, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/53774def-6d51-44f1-ba5b-3b49d8439ee7.0003.02/DOC_1#src.E0006)) JO n.o L 70 de 13. 3. 1984, p. 16."
+  }
+ }
+}

@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:1153967375:por
+title: Decreto-Lei n.º 155-A/2026
+short_title: null
+summary: Estabelece o regime de circulação na Via de Cintura Interna do Porto e a isenção de pagamento das taxas de portagem
+  na Circular Regional Exterior do Porto.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 155-A/2026
+official_date: null
+publication_date: '2026-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31
+  number: '147'
+  series: I
+  supplement: null
+  pages: 2 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14703/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/155-a/2026/07/31/p/dre/pt/html
+  oj: null
+  dre: '1153967375'
+  dre_path: /dr/detalhe/decreto-lei/155-a-2026-1153967375
+  internal: pt:dre:1153967375:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-a-2026-1153967375
+  metadata_url: https://data.dre.pt/eli/dec-lei/155-a/2026/07/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-a-2026-1153967375
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:48:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bd97f60ccfcbd34238534145e057f303c2ee06300db7a6cec0ec79f9eb062299
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Auto-estrada Douro Litoral
+- Autoridade Tributária e Aduaneira
+- Circulação Rodoviária
+- Contraordenação
+- Fiscalização
+- Instituto da Mobilidade e dos Transportes
+- Isenção de Emolumentos
+- Isenção de Portagem
+- Plataforma Eletrónica
+- Porto
+- Taxa
+- Transporte Terrestre
+- VILA NOVA de GAIA
+relationships:
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/22-a/1998/10/01/p/dre
+- type: cites
+  target: pt:dre:316941:por
+  label: null
+  source: http://data.dre.pt/eli/port/387/1999/05/26/p/dre
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:48:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 155-A/2026
+
+de 31 de julho
+
+A gestão eficiente dos fluxos de tráfego constitui um elemento essencial para a mobilidade, a segurança rodoviária e a sustentabilidade ambiental, especialmente em regiões com elevada densidade populacional e forte pressão sobre as infraestruturas de transporte.
+
+A Via de Cintura Interna do Porto (VCI), que integra troços das autoestradas A1/IC1, A20/IC23, A28/IC1 e A44/IC23, formando um anel em torno dos núcleos urbanos das cidades do Porto e de Vila Nova de Gaia, constitui uma das principais infraestruturas rodoviárias da Área Metropolitana do Porto, desempenhando um papel essencial na mobilidade urbana, na ligação entre eixos estruturantes e na articulação com as redes nacionais de transporte.
+
+A VCI apresenta atualmente um dos maiores volumes de tráfego a nível nacional, com elevados níveis de congestionamento, com graves efeitos na acessibilidade e circulação na zona da Área Metropolitana do Porto, bem como nas condições de segurança da via.
+
+Deste cenário resultam consequências sociais, ambientais e económicas cada vez mais gravosas para a população e para os municípios da Área Metropolitana do Porto, nomeadamente impacte ambiental significativo com emissões de CO2 e poluição sonora crescente, bem como atrasos, custos económicos e impactos na mobilidade dos cidadãos.
+
+Por outro lado, verifica-se a existência de outras vias que, na generalidade, apresentam uma capacidade excedentária, em particular a A41/IC24, designada por Circular Regional Exterior do Porto (CREP), que deve ser usada na distribuição de tráfego para os vários eixos rodoviários, tanto do Grande Porto, como do norte e sul do país, auxiliando a resolução do estrangulamento de mobilidade urbana que é patente na VCI.
+
+Perante este contexto, o Governo iniciou, em março de 2025, um estudo técnico que incluiu a avaliação dos fluxos de tráfego nas referidas vias e que visou avaliar várias soluções que potenciem o descongestionamento da VCI, nomeadamente através de alterações na cobrança de portagens e proibições de circulação, estudo esse que está em linha com o que é referido pela alínea a) do n.º 1 do artigo 204.º da [Lei n.º 73-A/2025](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), de 30 de dezembro.
+
+Assim, o presente decreto-lei implementa uma solução global na Área Metropolitana do Porto, sustentada no referido estudo, que visa regular o fluxo de tráfego na VCI e, por sua vez, promover a circulação na rede com capacidade excedentária, designadamente na CREP, mediante, por um lado, a proibição de circulação de determinados veículos pesados na VCI e, por outro, a aplicação de um regime de isenção do pagamento das taxas de portagem para o mesmo tipo de veículos na CREP.
+
+Com efeito, reconhece-se que os veículos pesados visados pelo presente decreto-lei, pelas suas características, impactam especialmente a fluidez do tráfego em vias de circulação, dificultam a resolução de incidentes na via, complexificam o restabelecimento das condições de circulação e segurança e, por fim, impactam especialmente a sustentabilidade ambiental.
+
+Em qualquer caso, as medidas ora instituídas, que se sustentam no estudo técnico especializado desenvolvido para o efeito, referido acima, serão objeto de monitorização contínua, designadamente para efeitos de avaliação da sua eficácia e, se necessário, adequação das mesmas através de medidas complementares.
+
+Por último, cumpre referir que, uma vez que o estudo suprarreferido está em linha com o que estabelece a alínea a) do n.º 1 do artigo 204.º da [Lei n.º 73-A/2025](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), de 30 de dezembro, e com a implementação da acima mencionada solução para a Área Metropolitana do Porto por via do presente decreto-lei, cessa o regime de suspensão de cobrança de taxas de portagem aos veículos pesados que utilizam a A41 determinado pelo n.º 2 do artigo 204.º da referida lei.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece:
+
+a) O regime excecional de proibição de circulação de certos veículos nos troços das autoestradas A1/IC1, A20/IC23, A28/IC1 e A44/IC23 que, em conjunto, constituem a designada Via de Cintura Interna do Porto (VCI), a qual integra a Concessão da Rede Rodoviária Nacional; e
+
+b) O regime de isenção do pagamento das taxas de portagem a praticar nos lanços e sublanços da autoestrada A41/IC24, que constituem a designada Circular Regional Exterior do Porto (CREP), a qual integra o objeto da Concessão do Grande Porto e da Concessão do Douro Litoral.
+
+###### Artigo 2.º — Regime excecional de proibição da circulação na Via de Cintura Interna do Porto
+
+1 - Os veículos pesados de mercadorias estão proibidos de circular na VCI nos dias úteis, entre as 07h00 e as 21h00.
+
+2 - A proibição estabelecida no número anterior é sinalizada de acordo com o disposto no Regulamento de Sinalização de Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro.
+
+3 - Para efeitos do presente decreto-lei, entende-se por «veículos pesados de mercadorias» os veículos com peso bruto superior a 3500 kg, com três ou mais eixos, e com altura, medida na vertical do primeiro eixo, igual ou superior a 1,1 m, que se destinam ao transporte de carga.
+
+4 - Excecionam-se do disposto no n.º 1:
+
+a) Os veículos pesados de mercadorias que tenham como origem ou destino os municípios do Porto ou de Vila Nova de Gaia, para efeitos de carga ou descarga de mercadorias nesses municípios, desde que habilitados nos termos do artigo seguinte; e
+
+b) Os veículos pesados de mercadorias que sejam objeto de autorização especial de trânsito, emitida pelo Instituto da Mobilidade e dos Transportes, I. P., ao abrigo do Regulamento de Autorizações Especiais de Trânsito, aprovado pela [Portaria n.º 387/99](https://diariodarepublica.pt/dr/detalhe/portaria/387-1999-316941), de 26 de maio.
+
+5 - O disposto no n.º 1 não se aplica aos veículos da propriedade do Estado ou dos municípios do Porto ou de Vila Nova de Gaia.
+
+###### Artigo 3.º — Regime de habilitação de circulação na Via de Cintura Interna do Porto
+
+1 - Para que os veículos pesados de mercadorias referidos na alínea a) do n.º 4 do artigo anterior possam circular na VCI, dentro do horário proibido, deve ser previamente obtida a habilitação de circulação, para cada movimento de transporte, através de plataforma digital disponibilizada pelos municípios do Porto e de Vila Nova de Gaia («Plataforma»).
+
+2 - O desenvolvimento, implementação e gestão da Plataforma é da responsabilidade dos municípios do Porto e de Vila Nova de Gaia, ou de entidade por estes designada para o efeito.
+
+3 - A habilitação a que se refere o n.º 1 deve ser obtida através da Plataforma, antes do início de circulação na VCI, nos seguintes termos:
+
+a) O processo de habilitação inclui, para além do preenchimento de um formulário, a submissão de um documento de transporte, tal como definido na alínea b) do n.º 1 do artigo 2.º do anexo ao [Decreto-Lei n.º 147/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2003-667554), de 11 de julho;
+
+b) O documento de transporte referido na alínea anterior deve indicar, pelo menos, o local de carga e descarga da mercadoria, a data e hora em que se inicia o transporte, a matrícula do respetivo veículo e o código de identificação atribuído pela Autoridade Tributária e Aduaneira;
+
+c) Após submissão do formulário e da documentação referida nas alíneas anteriores, é gerado um registo pela Plataforma, que serve de comprovativo de habilitação para circulação na VCI, registo esse que deve ser apresentado às autoridades policiais competentes para verificação da regularidade da circulação;
+
+d) A eventual anulação de um processo de habilitação efetuado na Plataforma deve, de igual modo, ser registada por essa via.
+
+4 - Os municípios do Porto e de Vila Nova de Gaia, ou a entidade por eles designada nos termos do n.º 2, podem, a todo o tempo, desenvolver e adaptar a Plataforma, conforme necessário ou conveniente para a implementação das medidas estabelecidas no presente decreto-lei.
+
+5 - As autoridades policiais têm acesso à Plataforma, em tempo real, para a verificação da regularidade da circulação de veículos pesados de mercadorias na VCI nos termos do presente decreto-lei.
+
+6 - Sem prejuízo disposto no número anterior, podem as Câmaras Municipais do Porto ou de Vila Nova de Gaia, conforme aplicável, retirar ou invalidar o registo decorrente do processo de habilitação, por identificação de desconformidades entre o preenchimento do formulário e a documentação submetida ou por falsidade ou insuficiência desta última.
+
+###### Artigo 4.º — Contraordenações
+
+1 - Constitui contraordenação, punível nos termos fixados no n.º 4 do artigo 10.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de maio, a violação do regime de proibição da circulação previsto no presente decreto-lei.
+
+2 - Ao processamento das contraordenações a que se refere o número anterior aplica-se o Código da Estrada, a legislação rodoviária complementar ou especial e, subsidiariamente, o regime geral das contraordenações.
+
+3 - Cabe a qualquer autoridade, ou agente de autoridade no exercício das suas funções, exercer os poderes de fiscalização das infrações resultantes do incumprimento das restrições de trânsito estabelecidas no presente decreto-lei.
+
+4 - A competência para processamento das contraordenações e aplicação das coimas e sanções cabe ao presidente da Autoridade Nacional de Segurança Rodoviária, nos termos previstos no Código da Estrada.
+
+###### Artigo 5.º — Regime de isenção do pagamento de taxas de portagem na Circular Regional Exterior do Porto
+
+Todos os veículos pesados com três ou mais eixos e com altura, medida na vertical do primeiro eixo, igual ou superior a 1,1 m, beneficiam de isenção do pagamento das taxas de portagem em todos os sublanços dos seguintes lanços da autoestrada A41/IC24:
+
+a) Lanço Freixieiro (A28/A41)/Ermida (A41/A42), que integra a Concessão do Grande Porto; e
+
+b) Lanço Ermida (A41/A42)/Picoto (IC2), que integra a Concessão do Douro Litoral.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 15 de setembro de 2026.
+
+Visto e aprovado em Conselho de Ministros de 25 de junho de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Hugo Morato Alface do Espírito Santo - Luís António Trindade Nunes das Neves.
+
+Promulgado em 24 de julho de 2026.
+
+Publique-se.
+
+O Presidente da República, António José Martins Seguro.
+
+Referendado em 27 de julho de 2026.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+119949250

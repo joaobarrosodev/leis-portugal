@@ -1,0 +1,316 @@
+---
+schema_version: '1.0'
+id: pt:dre:611676:por
+title: Portaria n.º 333/89
+short_title: null
+summary: Fixa a norma de qualidade a que passa a obedecer a comercialização do tomate. Revoga a Portaria n.º 182/86, de 6
+  de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo
+proposing_entity: null
+official_number: 333/89
+official_date: null
+publication_date: '1989-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1989, Série I de 1989-05-09
+  number: '106'
+  series: I
+  supplement: null
+  pages: 1853 - 1854
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10600/18531854.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '611676'
+  dre_path: /dr/detalhe/portaria/333-1989-611676
+  internal: pt:dre:611676:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-1989-611676
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-1989-611676
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aa6f580aa58c081cd4dcca21ace1fef2736260f4c941e1b46879b7785c4d3a6f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:50:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Legume de Fruto
+- Tomate
+relationships:
+- type: cites
+  target: pt:dre:227443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:50:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 333/89
+
+de 9 de Maio
+
+A [Portaria n.º 182/86](https://diariodarepublica.pt/dr/detalhe/portaria/182-1986-227443), de 6 de Maio, fixou no seu anexo III, no âmbito da aproximação e compatibilização das regras respeitantes à organização e funcionamento do mercado nacional para o sector das frutas e produtos hortícolas frescos com a regulamentação do mercado comunitário, as normas de qualidade para o tomate.
+
+No entanto, e porque algumas destas normas não são ainda coincidentes com a regulamentação comunitária nesta matéria, torna-se necessário proceder às necessárias adaptações com vista à aplicação das normas comuns de qualidade.
+
+Assim:
+
+Nos termos do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro:
+
+Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:
+
+1.º A comercialização do tomate passa a obedecer à norma de qualidade fixada no anexo à presente portaria, sem prejuízo dos casos previstos nos n.os 3 e 4 do artigo 6.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro.
+
+2.º É revogada a [Portaria n.º 182/86](https://diariodarepublica.pt/dr/detalhe/portaria/182-1986-227443), de 6 de Maio, na parte respeitante ao seu anexo III, «Norma de qualidade para tomate».
+
+3.º Esta portaria entra em vigor 30 dias após a sua publicação.
+
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+
+Assinada em 24 de Abril de 1989.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.
+
+## ANEXO — Norma de qualidade para tomate
+
+I - Definição
+
+As especificações a considerar, para efeitos da presente portaria, aplicam-se aos tomates, frutos das variedades pertencentes à espécie Lycopersicum esculentum Mill, destinados exclusivamente ao consumo humano no estado fresco.
+
+Consoante a sua forma, distinguem-se três tipos comerciais:
+
+Redondos, de forma esférica, incluindo os tomates «cereja»;
+
+Sulcados;
+
+Alongados.
+
+II - Características
+
+A) Características mínimas. - Os tomates, depois de acondicionados e embalados, devem apresentar-se:
+
+Inteiros;
+
+De aspecto fresco;
+
+Sãos. Excluem-se os frutos com podridão ou com alterações que os tornem impróprios para consumo;
+
+Limpos, praticamente isentos de matéria estranha visível;
+
+Isentos de humidade exterior anormal;
+
+Isentos de odor e ou sabor estranhos.
+
+Os tomates devem ter atingido um desenvolvimento suficiente e apresentar um estado tal que lhes permitam:
+
+Suportar o transporte e o manuseamento;
+
+Chegar ao local de destino em condições satisfatórias.
+
+B) Classificação. - Os tomates classificam-se em quatro categorias:
+
+1) Categoria extra. - Os tomates classificados nesta categoria devem ser de qualidade superior, ter polpa firme e apresentar a forma, o aspecto e o desenvolvimento característicos da variedade.
+
+A sua coloração, em relação ao estado de maturação, deve ser tal que possa corresponder ao exigido nos locais de destino.
+
+Os frutos devem estar isentos de «dorso verde» e de outros defeitos, à excepção de muito ligeiras alterações superficiais da epiderme e na condição de estas não prejudicarem a sua qualidade e aspecto geral nem a sua apresentação na embalagem;
+
+2) Categoria I. - Os tomates classificados nesta categoria devem ser de boa qualidade, suficientemente firmes e apresentar as características da variedade.
+
+Devem estar isentos de fendas não cicatrizadas e de «dorso verde» visível.
+
+Podem, contudo, apresentar ligeiros defeitos, desde que estes não prejudiquem o aspecto geral, a qualidade, a conservação e a apresentação. Assim, admitem-se:
+
+Um ligeiro defeito de forma e desenvolvimento;
+
+Um ligeiro defeito de coloração;
+
+Ligeiros defeitos de epiderme;
+
+Pisaduras muito ligeiras.
+
+Além disto, os tomates sulcados podem apresentar:
+
+Fendas cicatrizadas com o comprimento máximo de 1 cm;
+
+Protuberâncias não excessivas;
+
+Pequena cavidade de formação não encortiçada;
+
+Cicatrizes encortiçadas de forma umbilical no ponto pistilar, com uma superfície total que não exceda 1 cm2;
+
+Uma fina cicatriz pistilar de forma alongada (semelhante a uma costura), cujo comprimento não deve ultrapassar dois terços do diâmetro máximo do fruto;
+
+3) Categoria II. - Esta categoria comporta os tomates que não podem ser classificados nas categorias superiores, mas que correspondem às características mínimas atrás definidas.
+
+Devem ser suficientemente firmes e estar insentos de fendas não cicatrizadas.
+
+Desde que os frutos mantenham as características essenciais de qualidade e apresentação, admitem-se:
+
+Um defeito de forma, desenvolvimento e coloração;
+
+Defeitos de epiderme ou pisaduras que não os deteriorem de modo apreciável;
+
+Fendas cicatrizadas com comprimento até 3 cm.
+
+Além disto, os tomates sulcados podem apresentar:
+
+Protuberâncias mais acentuadas que as admitidas na categoria I, mas sem deformidade;
+
+Uma cavidade;
+
+Cicatrizes encortiçadas de forma umbilical no ponto pistilar, com uma superfície total que não exceda 2 cm2;
+
+Uma fina cicatriz pistilar de forma alongada, semelhante a uma costura;
+
+4) Categoria III. - Esta categoria comporta os tomates que não podem ser classificados nas categorias superiores, mas que correspondem às características previstas para a categoria II.
+
+Contudo, podem apresentar fendas cicatrizadas com mais de 3 cm de comprimento.
+
+III - Calibragem
+
+A calibragem é definida pelo diâmetro máximo da secção equatorial.
+
+As disposições a seguir mencionadas não se aplicam aos tomates «cereja».
+
+A) Calibre mínimo. - O diâmetro mínimo dos tomates classificados nas categorias extra, I e II, produzidos ao ar livre ou sob abrigo, é fixado em:
+
+30 mm para os tomates alongados;
+
+35 mm para os tomates redondos e sulcados.
+
+O diâmetro mínimo dos tomates classificados na categoria III é fixado em:
+
+20 mm para os tomates alongados;
+
+35 mm para os tomates redondos e sulcados, quando produzidos ao ar livre;
+
+20 mm para todos os tipos comerciais, quando produzidos sob abrigo.
+
+B) Escala de calibragem. - A escala de calibragem abaixo indicada é obrigatória para os tomates das categorias extra e I:
+
+30 mm a 34 mm (unicamente para os tomates alongados);
+
+35 mm a 39 mm;
+
+40 mm a 46 mm;
+
+47 mm a 56 mm;
+
+57 mm a 66 mm;
+
+67 mm a 81 mm;
+
+82 mm a 101 mm;
+
+102 mm e mais.
+
+IV - Tolerâncias
+
+São admitidas tolerâncias de qualidade e de calibre em cada embalagem para os produtos não conformes às exigências da categoria indicada.
+
+A) Tolerâncias de qualidade:
+
+1) Categoria extra - 5% em número ou em peso de tomates que não correspondam às características da categoria, mas que sejam conformes às da categoria I ou excepcionalmente admitidas nas tolerâncias desta categoria;
+
+2) Categoria I - 10% em número ou em peso de tomates que não correspondam às características da categoria, mas que sejam conformes as da categoria II ou excepcionalmente admitidas nas tolerâncias desta categoria;
+
+3) Categoria II - 10% em número ou em peso de tomates que não correspondam às características da categoria, mas que sejam conformes às da categoria III ou excepcionalmente admitidas nas tolerâncias desta categoria;
+
+4) Categoria III - 15% em número ou em peso de tomates que não correspondam às características da categoria, nem às características mínimas, à excepção dos produtos atingidos por podridões, pisaduras acentuadas ou de qualquer outra alteração que os tornem impróprios para consumo.
+
+B) Tolerâncias de calibre:
+
+Para todas as categorias - 10% em número ou em peso de tomates que correspondam ao calibre imediatamente superior e ou inferior ao calibre identificado, com um mínimo de 33 mm para os tomates redondos ou sulcados e de 28 mm para os tomates alongados, para as categorias extra, I e II.
+
+V - Apresentação
+
+A) Homogeneidade. - O conteúdo de cada embalagem deve ser homogéneo e incluir apenas tomates da mesma origem, variedade ou tipo comercial, devidamente classificados e calibrados, sempre que for obrigatória a calibragem.
+
+Os tomates classificados nas categorias extra e I devem ser praticamente homogéneos no que respeita à maturação e coloração. Além disto, os tomates alongados devem ter comprimento sensivelmente uniforme.
+
+A parte visível do conteúdo da embalagem deve ser representativa do conjunto.
+
+B) Acondicionamento. - Os tomates devem ser acondicionados de modo que lhes seja assegurada uma conveniente protecção.
+
+Os materiais utilizados no interior da embalagem devem ser novos, limpos e de natureza tal que não possam causar alterações externas ou internas aos frutos. É autorizada a utilização de materiais e, nomeadamente, de papéis ou etiquetas com indicações comerciais, desde que a impressão ou rotulagem sejam efectuadas com tinta ou cola não tóxicas.
+
+Não é permitida a aposição de selo ou etiqueta sobre os próprios frutos.
+
+As embalagens devem estar isentas de qualquer corpo estranho.
+
+VI - Marcação
+
+Cada embalagem deve apresentar no exterior, em caracteres legíveis e indeléveis, as seguintes menções, agrupadas num dos lados da embalagem:
+
+A) Identificação:
+
+Embalador e ou expedidor - nome e morada ou identificação simbólica concedida ou registada por um serviço oficial;
+
+B) Denominação de venda:
+
+«Tomate» e tipo comercial, se o conteúdo não for visível do exterior, indicações estas obrigatórias em todos os casos para o tipo «cereja»;
+
+Nome da variedade (facultativo);
+
+«Produzido sob abrigo», quando tal for o caso e seja de calibre compreendido entre 20 mm e 35 mm;
+
+C) Origem do produto:
+
+Indicação do país de origem e, eventualmente, da zona de produção ou designação nacional, regional ou local;
+
+D) Características comerciais:
+
+Categoria;
+
+Calibre, em caso de calibragem, expresso pelos diâmetros mínimo e máximo, ou a menção «não calibrado»;
+
+E) Marca oficial de controlo (facultativa).

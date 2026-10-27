@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:391594:por
+title: Resolução n.º 14/81
+short_title: null
+summary: Concede o aval do Estado ao empréstimo que a TAP - Transportes Aéreos Portugueses, E. P., vai contrair, no montante
+  de 115 milhões de dólares, para financiamento da aquisição de cinco aviões Lockheed Tristar L1011-500
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 14/81
+official_date: null
+publication_date: '1981-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1981, Série I de 1981-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 346 - 347
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/02/03000/03460347.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '391594'
+  dre_path: /dr/detalhe/resolucao/14-1981-391594
+  internal: pt:dre:391594:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-1981-391594
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-1981-391594
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:37:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a4f154bbd59510b07d22f332511a234a5761030a54a582c5ec4514035d3dbb46
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:37:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- AVAL do Estado
+- Avião
+- Banco Português do Atlântico
+- Conselho de Ministros
+- Consórcio
+- Consórcio Bancário
+- Contrato de Mútuo
+- Depósito Bancário
+- Empresa Pública
+- Financiamento
+- Garantia
+- Pagamento
+- Prazo
+- Reembolso
+- TAP
+- TAXA de JURO
+relationships:
+- type: cites
+  target: pt:dre:161509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:37:36Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 14/81
+
+O Conselho de Ministros, reunido em 29 de Janeiro de 1981, resolveu conceder o aval do Estado, nos termos do artigo 1.º, n.º 1, do [Decreto-Lei n.º 159/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1975-161509), de 27 de Março, e do artigo 6.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, ao seguinte empréstimo que a TAP - Transportes Aéreos Portugueses, E. P. vai contrair, nas condições da ficha técnica anexa:
+
+115 milhões de dólares, a facultar por um consórcio bancário liderado pelo Banco Português do Atlântico, Chase Manhattan, Ltd., e National Westminster Bank, Ltd., para financiamento da aquisição de cinco aviões Lockheed Tristar L1011-500 e de pagamentos antecipados de prestações e depósitos devidos com respeito a tal aquisição e para refinanciamento de outros empréstimos e necessidades de fundo de maneio do mutuário.
+
+Presidência do Conselho de Ministros, 29 de Janeiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+Ficha técnica do empréstimo
+
+Mutuante - consórcio bancário liderado pelo Banco Português do Atlântico, Chase Manhattan, Ltd., e National Westminster Bank, Ltd., servindo de agente o International Westminster Bank, Ltd.
+
+Mutuário - TAP - Transportes Aéreos Portugueses, E. P.
+
+Montante - 115 milhões de dólares, divididos em três facilidades:
+
+Facilidade A - até 7500000 dólares ou um montante mais elevado, no caso de pagamento antecipado de importâncias mutuadas através da facilidade C, não podendo tal montante exceder 62500000 dólares.
+
+Facilidade B - até 52500000 dólares.
+
+Facilidade C - até 55000000 dólares.
+
+Os empréstimos relativos às facilidades A e B dividem-se em primeiro e segundo empréstimos, consoante respeitem à aquisição dos três primeiros aviões ou dos outros dois.
+
+Finalidade:
+
+Facilidade A - financiamento da aquisição dos mencionados aviões.
+
+Facilidade B - financiamento de pagamentos antecipados de prestações e depósitos devidos com respeito a tal aquisição.
+
+Facilidade C - utilização intercalar para outros empréstimos e necessidades de capital do mutuário, devendo ser reposta até 31 de Dezembro de 1982, para utilização da facilidade A.
+
+Taxa de juro - 1/2% acima da Libor, salvo quanto aos empréstimos relativos à facilidade B, em que será de 3/8% e de 3/4% a partir de dois e seis anos, respectivamente, sobre as datas previstas de entrega dos aviões.
+
+Reembolso:
+
+Facilidade A - em seis prestações semestrais para o primeiro e o segundo empréstimos, com início, respectivamente, em 25 de Outubro de 1983 e 25 de Outubro de 1984.
+
+Facilidade B - em vinte e duas prestações semestrais para o primeiro e segundo empréstimos, com início, respectivamente, em 25 de Outubro de 1983 e 25 de Outubro de 1984.
+
+Facilidade C - reembolso integral até 31 de Dezembro de 1982.
+
+Prazo:
+
+Facilidade A - três anos contados da data da entrega dos aviões.
+
+Facilidade B - onze anos contados da data da entrega dos aviões.
+
+Commitment fee:
+
+Facilidades A e B - entre 1/4% e 7/16%.
+
+Facilidade C - 1/4%.
+
+Garantia - Estado Português.

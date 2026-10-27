@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:123610214:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-123638596",
+ "dre_path": "/dr/detalhe/portaria/241-a-2019-123610214",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123540933",
+    "123540934",
+    "123540935",
+    "123540936",
+    "123540937",
+    "123540938",
+    "123540939",
+    "123540940",
+    "123540942"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:123962152:por",
+     "title": "Declaração de Retificação n.º 37/2019",
+     "published": "2019-08-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/37-2019-123962152",
+     "date": "2019-08-05"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "123540933": {
+   "fragment_id": "123638597",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 241-A/2019\n\nde 31 de julho\n\nSumário: Aprova o modelo de certificado de matrícula em suporte de cartão e procede à alteração da Portaria n.º 1135-B/2005, de 31 de outubro, na redação dada pela Portaria n.º 165-A/2010, de 16 de março - Documento Único Automóvel (DUA).\n\nO Programa do XXI Governo Constitucional estabeleceu como estratégia a melhoria do relacionamento dos cidadãos com a Administração Pública e a modernização dos serviços públicos, mediante a simplificação dos procedimentos e do acesso a dados relevantes, o que se concretiza através de um programa nacional único denominado SIMPLEX+, e ainda na área da Justiça, através do plano estratégico de modernização do sistema judicial e dos registos - o Plano Justiça + Próxima - assente na eficiência, inovação, proximidade e humanização.\n\nO Decreto-Lei n.º 178-A/2005, de 28 de outubro, na sua redação atual, aprova o «Documento Único Automóvel», criando o certificado de matrícula e transpondo a Diretiva n.º 1999/37/CE, do Conselho, de 29 de abril, com a redação dada pela Diretiva n.º 2003/127/CE, da Comissão, de 23 de dezembro, relativa aos documentos de matrícula dos veículos.\n\nNos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 178-A/2005, os elementos constantes do certificado de matrícula, bem como o respetivo modelo, são aprovados por portaria conjunta dos membros do Governo responsáveis pelas áreas da justiça e das infraestruturas e habitação.\n\nA Portaria n.º 1135-B/2005, de 31 de outubro, na sua redação atual, aprova o modelo de certificado de matrícula em suporte de papel.\n\nAtravés do Decreto-Lei n.º 85/2006, de 23 de maio, o «Documento Único Automóvel» foi alargado às Regiões Autónomas dos Açores e da Madeira, com vista a adaptar às especificidades regionais, designadamente quanto às entidades emitentes nas referidas Regiões Autónomas.\n\nNeste contexto a presente portaria concretiza a medida de simplificação do layout do certificado de matrícula, o qual reúne elementos relativos às características do veículo e ao seu proprietário, tornando-se mais fácil o seu transporte e guarda numa carteira, assim como concretiza a simplificação do conteúdo informativo deste certificado e a revisão dos respetivos sistemas de informação, comunicações e procedimentos associados.\n\nAprova-se um modelo de certificado em formato de cartão de policarbonato, por ser um documento sólido, não delaminável, com maior resistência e durabilidade, tornando mais simples o seu transporte e manuseamento e eliminando campos ou menções visíveis que, em regra, não são preenchidos. Não obstante, mantém-se a garantia de segurança do certificado, facilitando desse modo a vida do cidadão, reduzindo os custos para as empresas, e incentivando o investimento e a criação de emprego.\n\nEste modelo em formato de cartão irá coexistir com o atual modelo em suporte de papel, aprovado pela Portaria n.º 165-A/2010, de 16 de março, havendo lugar à sua emissão nos termos e nas condições a definir por despacho conjunto do Presidente do Conselho Diretivo do Instituto dos Registos e do Notariado, I. P., e do Presidente do Conselho Diretivo do Instituto da Mobilidade e dos Transportes, I. P.\n\nA presente Portaria atualiza ainda, no modelo de cartão, a denominação de Instituto da Mobilidade e dos Transportes Terrestres, I. P., enquanto entidade emitente, para Instituto da Mobilidade e dos Transportes, I. P., adequando-se, assim, à orgânica deste Instituto, aprovada pelo Decreto-Lei n.º 236/2012, de 31 de outubro, na sua redação atual.\n\nMantém-se, no modelo aprovado pela presente portaria, o exclusivo da Imprensa Nacional-Casa da Moeda para a sua emissão, a qual deve obedecer a estritos critérios de segurança que garantem a sua autenticidade.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Justiça e pelo Secretário de Estado das Infraestruturas, ao abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 178-A/2005, de 28 de outubro, na sua redação atual, em conjugação com o n.º 2 do artigo 17.º e a alínea c), do n.º 2, do artigo 24.º-A, do Decreto-Lei n.º 251-A/2015, de 17 de dezembro, na redação dada pelo Decreto-Lei n.º 31/2019, de 1 de março, o seguinte:"
+  },
+  "123540934": {
+   "fragment_id": "123638598",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o modelo de certificado de matrícula em suporte de cartão e procede à alteração da Portaria n.º 1135-B/2005, de 31 de outubro, na redação dada pela Portaria n.º 165-A/2010, de 16 de março."
+  },
+  "123540935": {
+   "fragment_id": "123638599",
+   "type": 11,
+   "heading": "Artigo 2.º — Modelo de certificado de matrícula em suporte de cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modelo de certificado de matrícula em suporte de cartão\n\nÉ aprovado o modelo de certificado de matrícula em suporte de cartão de policarbonato em anexo à presente portaria e que dela é parte integrante."
+  },
+  "123540936": {
+   "fragment_id": "123638600",
+   "type": 11,
+   "heading": "Artigo 3.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período experimental\n\n1 - A implementação do certificado de matrícula em suporte de cartão de policarbonato está sujeita a um período experimental, designado fase piloto, que decorre até 31 de dezembro de 2019, durante a qual a emissão neste formato apenas tem lugar nos casos de veículos com primeira matrícula atribuída desde 1 de agosto de 2019, e na sequência de qualquer ato que implique a emissão do certificado de matrícula, quando a ele haja lugar.\n\n2 - As regras procedimentais de emissão do certificado de matrícula em suporte de cartão durante a fase piloto são as definidas por despacho conjunto do Presidente do Conselho Diretivo do Instituto dos Registos e do Notariado, I. P., e do Presidente do Conselho Diretivo do Instituto da Mobilidade e dos Transportes, I. P.\n\n3 - Durante o período experimental previsto no n.º 1, continuam a ser emitidos certificados de matrícula no formato aprovado pela Portaria n.º 165-A/2010, de 16 de março.\n\n4 - Após a fase piloto, a extensão da emissão progressiva dos certificados no novo modelo é autorizada por despacho conjunto dos membros do Governo responsáveis pela área da justiça e das infraestruturas e da habitação."
+  },
+  "123540937": {
+   "fragment_id": "123638601",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação\n\nA implementação do certificado de matrícula em formato de cartão de policarbonato é sujeita a avaliação, mediante relatório elaborado pelo Instituto dos Registos e do Notariado, I. P., a apresentar aos membros do Governo responsáveis pela área da justiça e das infraestruturas e da habitação, no prazo máximo de um ano a contar da data de produção de efeitos da presente portaria."
+  },
+  "123540938": {
+   "fragment_id": "123638602",
+   "type": 11,
+   "heading": "Artigo 5.º — Livrete, título de registo de propriedade e modelo do certificado de matrícula em papel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Livrete, título de registo de propriedade e modelo do certificado de matrícula em papel\n\n1 - O novo modelo de certificado de matrícula aprovado pela presente portaria vale, para todos os efeitos legais, como o livrete e o título de registo de propriedade, bem como o certificado que tenha sido emitido de acordo com os modelos aprovados pelas Portarias n.os 1135-B/2005, de 31 de outubro, e 165-A/2010, de 16 de março.\n\n2 - O livrete e o título de registo de propriedade, bem como o certificado de matrícula emitido ao abrigo das portarias mencionadas no número anterior, mantêm-se válidos, não obrigando à sua substituição pelo novo modelo."
+  },
+  "123540939": {
+   "fragment_id": "123638603",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à Portaria n.º 1135-B/2005, de 31 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à Portaria n.º 1135-B/2005, de 31 de outubro\n\nÉ alterado o artigo 2.º da Portaria n.º 1135-B/2005, de 31 de outubro, que passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - Os termos e as condições de emissão dos certificados de matrícula, incluindo os serviços relacionados de personalização, finalização, e controlo da qualidade, devoluções, tratamento de reclamações, prazos e locais de entrega, bem como os encargos a suportar, são os estabelecidos por protocolo a outorgar entre o Instituto dos Registos e do Notariado, I. P., o Instituto da Mobilidade e dos Transportes, I. P., e a Imprensa Nacional-Casa da Moeda, S. A.»"
+  },
+  "123540940": {
+   "fragment_id": "123638604",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nA presente portaria produz efeitos a 31 de julho de 2019.\n\nEm 30 de julho de 2019."
+  },
+  "123540942": {
+   "fragment_id": "123638606",
+   "type": 14,
+   "heading": "Anexo — Modelo de certificado de matrícula em suporte de cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Modelo de certificado de matrícula em suporte de cartão\n\n1 - O certificado de matrícula emitido em suporte de cartão de policarbonato tem as dimensões de 85,6 mm x 54 mm.\n\n2 - A proteção contra a falsificação do certificado de matrícula é concretizada por meio da utilização de diferentes elementos de segurança, especialmente com a utilização das seguintes técnicas:\n\na) Grafismos de segurança;\n\nb) Dispositivo de imagem oticamente variável (holograma);\n\nc) Impressões com tintas de segurança oticamente variáveis e reativas a radiação ultravioleta;\n\nd) Incorporação do código de leitura de dados 2D, UniQode.\n\n3 - O certificado de matrícula em suporte de cartão é composto por duas faces, frente e verso, contendo os seguintes elementos visíveis:\n\n3.1 - Frente:\n\nA menção «Comunidade Europeia»;\n\nA menção «República Portuguesa»;\n\nA letra «P», como sinal distintivo de Portugal, rodeada por 12 estrelas;\n\nA menção «Instituto dos Registos e Notariado, I. P.»;\n\nA menção «Instituto da Mobilidade e dos Transportes, I. P.»;\n\nA menção «Direção Regional dos Transportes dos Açores»;\n\nA menção «Direção Regional da Administração da Justiça da Madeira»;\n\nA menção «Direção Regional da Economia e Transportes da Madeira»;\n\nA menção «Certificado de Matrícula» e, em caracteres de menor dimensão, as menções «Registration Certificate», «Certificat d'immatriculation», «Zulassungsbescheinigung» e «Permiso de circulación»;\n\nNúmero do certificado de matrícula;\n\nA data de emissão do certificado de matrícula;\n\nO holograma;\n\nNo canto inferior esquerdo da face do cartão deve ser impresso um símbolo representativo de uma roda.\n\nOs seguintes códigos comunitários harmonizados que são impressos de forma visível:\n\n(A) Número de matrícula;\n\n(B) Data da primeira matrícula do veículo;\n\n(C.1.1) Apelido(s) ou denominação comercial do titular do certificado;\n\n(C.1.2) Outro(s) nome(s) ou inicial(ais) do titular do certificado;\n\n(C.1.3) Morada do titular do certificado;\n\nC.3.1) Apelido(s) ou denominação comercial do utilizador não proprietário;\n\n(C.3.2) Outro(s) nome(s) ou iniciais do utilizador não proprietário;\n\n(C.3.3) Morada do utilizador não proprietário;\n\n(C.4) Se as informações do código (C.2), não constarem do certificado de matrícula, referência do facto de o titular do certificado de matrícula:\n\na) Ser o proprietário do veículo;\n\nb) Não ser o proprietário do veículo;\n\nc) Não estar identificado no certificado de matrícula como proprietário do veículo;\n\n(I) Data da matrícula a que se refere o certificado.\n\n3.2 - Verso:\n\n(D.1) Marca;\n\n(D.2) Modelo, variante e versão;\n\n(D.3) Denominações comerciais;\n\n(E) Número de quadro;\n\n(F.1) Peso bruto;\n\n(F.2) Peso bruto em circulação nacional;\n\n(F.3) Peso bruto do conjunto em circulação nacional;\n\n(G) Tara/peso em vazio;\n\n(H) Validade da matrícula (caso não seja ilimitada);\n\n(J.1) Categoria nacional;\n\n(J.2) Tipo de veículo;\n\n(J.3) Tipo de caixa;\n\n(K) Número de homologação do modelo;\n\n(K.1) Homologação nacional;\n\n(N.1) (N.2) (N.3) (N.4) (N.5) Peso máximo admissível por eixo (em kg);\n\n(O.1) Peso bruto rebocável com travão (em kg);\n\n(O.2) Peso bruto rebocável sem travão (em kg);\n\n(P.1) Cilindrada (cm3);\n\n(P.2) Potência útil máxima (em kW);\n\n(P.3) Tipo de combustível ou fonte de energia;\n\n(Q) Relação potência/peso (kW/kg);\n\n(R) Cor do veículo;\n\n(S.1) Número de lugares sentados (incluindo condutor);\n\n(S.2) Número de lugares em pé;\n\n(U.1) Nível sonoro estacionário [dB(A)];\n\n(V.1) Gases do escape - CO (em g/km ou g/kWh);\n\n(X.1) Pneumáticos à frente;\n\n(X.2) Pneumáticos à retaguarda;\n\n(Z.3) Anotações especiais;\n\nCódigo de duas dimensões (2D), em formato «UniQode», contendo toda a informação específica do modelo de certificado mencionado no artigo 1.º da Portaria n.º 165-A/2010, de 16 de março, precedida dos respetivos códigos comunitários harmonizados;\n\nQRCode e a indicação do site do IRN, onde se pode obter gratuitamente a APP do «UniQode».\n\nFrente do certificado de matrícula\n\n(ver documento original)\n\nVerso do certificado de matrícula\n\n(ver documento original)\n\n112488827"
+  }
+ }
+}

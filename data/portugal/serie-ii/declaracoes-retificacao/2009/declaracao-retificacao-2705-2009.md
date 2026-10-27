@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:3676936:por
+title: Declaração de Rectificação n.º 2705/2009
+short_title: null
+summary: Rectifica o aviso n.º 15 171/2009, publicado no Diário da República, 2.ª série, n.º 166, de 27 de Agosto de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Freguesia de Boavista dos Pinheiros
+proposing_entity: null
+official_number: 2705/2009
+official_date: null
+publication_date: '2009-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2009, Série II de 2009-11-04
+  number: '214'
+  series: II
+  supplement: null
+  pages: 45043 - 45044
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/11/214000000/4504345044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3676936'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2705-2009-3676936
+  internal: pt:dre:3676936:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2705-2009-3676936
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2705-2009-3676936
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e47c88c2cf9f41c835f7974f78c4b05a24ef4c59ba32b4a64f3b459ef5c9091e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:08:35Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 2705/2009
+
+Para os devidos efeitos se rectifica o aviso n.º 15 171/2009, publicado no Diário da República, 2.ª série, n.º 166, de 27 de Agosto de 2009, referente à abertura de procedimento concursal comum para recrutamento de um posto de trabalho na carreira/categoria de assistente técnico, na freguesia de Boavista dos Pinheiros.
+
+No ponto 9 - métodos de selecção, rectifica-se que onde se lê:
+
+«a) Avaliação Curricular (AC) - Ponderação de 60 %;
+
+b) Entrevista de Avaliação de Competências (EAC) - Ponderação de 40 %;
+
+Valoração final: Resulta da seguinte expressão:
+
+VF = 0,60 % AC + 0,40 % EAC
+
+A nota final da avaliação curricular é calculada pela seguinte fórmula:
+
+AC = (HL + FP + 2*EP) / 4
+
+Em que:
+
+9.1 - Avaliação curricular: a Avaliação Curricular visa analisar a qualificação dos candidatos, designadamente a habilitação académica ou profissional, percurso profissional, relevância da experiência adquirida e da formação realizada, tipo de funções exercidas e avaliação de desempenho obtida.
+
+Na avaliação curricular (AC), serão considerados e ponderados (numa escala de 0 a 20 valores) os seguintes parâmetros: habilitação académica de base (HL), formação profissional (FP) e experiência profissional (EP).
+
+9.1.1 - Habilitações literárias (HL):
+
+a) 20 valores - De grau superior, desde que relacionada com a área funcional a que se candidata;
+
+b) 18 valores - As exigidas para o posto de trabalho.
+
+9.1.2 - Formação Profissional (FP) - formação profissional directa ou indirectamente relacionada com as áreas funcionais a recrutar, será valorada com o mínimo de dez (10) valores a atribuir a todos os candidatos, aos quais acresce, até ao máximo de vinte (20) valores formação directamente relacionada com a área funcional, os seguintes valores:
+
+10 valores num total de 80 ou mais horas; 8 valores num total de 60 horas ou mais e menos de 80 horas; 6 valores num total de 40 ou mais horas e menos de 60 horas, 4 valores num total de 20 horas ou mais e menos de 40 horas, 2 valores até 19 horas.
+
+9.1.3 - Experiência Profissional (EP) - tempo de serviço no exercício efectivo das funções inerentes à carreira e categoria conforme descritas no ponto 2 do presente aviso, de acordo com a seguinte pontuação:
+
+20 valores para 5 anos ou mais; 18 valores para 4 anos ou mais e menos de 5 anos; 14 valores para 3 anos ou mais e menos de 4 anos; 12 valores para 2 anos ou mais e menos de 3 anos; 10 valores para 1 anos ou mais e menos de 2 anos de tempo de serviço.
+
+Os candidatos que obtenham uma valoração inferior a 9,5 valores, no método de selecção acima referido (Avaliação Curricular), consideram-se excluídos do procedimento, não lhes sendo aplicado o método seguinte.
+
+9.2 - Entrevista de avaliação de competências - a entrevista de avaliação de competências visa obter, através de uma relação interpessoal, informações sobre comportamentos profissionais directamente relacionados com as competências consideradas essenciais para o exercício da função.
+
+10 - A prova de conhecimentos com natureza teórica e de realização individual versará sobre temas do POCAL, Código do Procedimento Administrativo, Lei das Competências das Autarquias Locais e Lei das Despesas Públicas - Aquisição de Bens e Serviços.»
+
+deve ler-se:
+
+«I - Métodos de selecção e sua ponderação para os candidatos que exercem funções públicas e para os candidatos em situação de mobilidade especial (SME) que exerceram funções idênticas às publicitadas:
+
+Avaliação curricular: visa analisar a qualificação dos candidatos, designadamente a habilitação literária ou profissional, percurso profissional, relevância da experiência adquirida e da formação realizada, tipo de funções exercidas e avaliação de desempenho obtida. Para tal, serão considerados e ponderados os elementos de maior relevância para o posto de trabalho a ocupar, e que são os seguintes:
+
+Este factor será valorado na escala de 0 a 20 valores e ter-se-á em conta o seguinte:
+
+HL = habilitação literária: onde se pondera a titularidade de grau escolaridade ou nível de qualificação certificado pelas entidades competentes;
+
+FP = formação profissional: considerando-se as áreas de formação e aperfeiçoamento profissional relacionadas com as exigências e as competências necessárias ao exercício da função;
+
+EP = experiência profissional: considerando e ponderando com incidência sobre a execução de actividades inerentes ao posto de trabalho e grau de complexidade da mesma.
+
+Só será contabilizado como tempo de experiência profissional o correspondente ao desenvolvimento e funções inerentes à categoria e actividade a contratar, que se encontre devidamente comprovado ou declarado sob compromisso de honra;
+
+AD = avaliação de desempenho: em que se pondera a avaliação relativa ao último período, não superior a três anos, em que o candidato cumpriu ou executou atribuição, competência ou actividade idênticas às do posto de trabalho a ocupar.
+
+Os candidatos que obtenham uma valoração inferior a 9,5 valores, no método de selecção acima referido (avaliação curricular), consideram-se excluídos do procedimento, não lhes sendo aplicado o método seguinte.
+
+Entrevista de avaliação de competências - visa avaliar, numa relação interpessoal, informações sobre comportamentos profissionais directamente relacionados com as competências consideradas essenciais para o exercício da função. Para esse efeito, será elaborado um guião de entrevista composto por um conjunto de questões directamente relacionadas com o perfil de competências previamente definido, associado a uma grelha de avaliação individual, que traduz a presença ou ausência dos comportamentos em análise.
+
+A aplicação deste método baseia-se num guião de entrevista composto por um conjunto de questões directamente relacionadas com o perfil de competências previamente definido, para tal serão avaliadas as seguintes competências:
+
+a. Conhecimento do conteúdo funcional do lugar a prover;
+
+b. Capacidade de comunicação;
+
+c. Atitude profissional: interesse, motivação e dinamismo;
+
+d. Capacidade de relacionamento.
+
+Ponderação e valoração final:
+
+As ponderações a utilizar para cada método de selecção são as seguintes:
+
+Avaliação curricular (AC) - ponderação - 60 %;
+
+Entrevista de avaliação de competências (EAC) - ponderação - 40 %.
+
+Valoração final:
+
+VF = (60 % AC + 40 % EAC)
+
+II - Métodos de selecção e sua ponderação para os candidatos em SME que exerceram funções diferentes das publicitadas e para os candidatos sem relação jurídica de emprego público:
+
+Prova de conhecimentos - visa avaliar os conhecimentos académicos e ou profissionais e as competências técnicas necessárias ao exercício da função a desempenhar revestindo a forma oral, de natureza teórica e de realização individual.
+
+Legislação a consultar:
+
+[Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27-02;
+
+[Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11-09.
+
+Nas provas de conhecimentos é adoptada a escala de 0 a 20 valores.
+
+Avaliação psicológica - visa avaliar, através de técnicas de natureza psicológica, aptidões, características de personalidade e competências comportamentais dos candidatos e estabelecer um prognóstico de adaptação às exigências do posto de trabalho a ocupar, tendo como referência o perfil de competências previamente definido.
+
+A avaliação psicológica será valorada da seguinte forma:
+
+Em cada fase intermédia do método, através das menções classificativas de Apto e Não apto;
+
+Na última fase do método, para os candidatos que tenham completado, através de níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente, aos quais correspondem, respectivamente, as classificações de 20, 16, 12, 8 e 4 valores.
+
+Valoração final (VF), e o consequente ordenamento dos candidatos derivará da fórmula abaixo indicada e será expressa na escala de 0 a 20 valores, resultando da média aritmética ponderada ou simples das classificações obtidas nos métodos de selecção aplicados, considerando-se não aprovados os candidatos que não compareçam a um dos métodos de selecção ou que na classificação final obtenham uma classificação inferior a 9,5 valores:
+
+Prova de conhecimentos (PC) - ponderação - 50 %;
+
+Avaliação psicológica (AP) - ponderação - 50 %.
+
+Valoração final:
+
+VF = (50 % PC + 50 % AP)»
+
+Tendo em conta as alterações introduzidas ao aviso n.º 15 171/2009, publicado no Diário da República, 2.ª série, n.º 166, de 27 de Agosto de 2009, torna-se público que os candidatos interessados podem, no prazo de 10 dias úteis, a contar da data da publicação da presente declaração de rectificação, formalizar a sua candidatura nos termos previstos naquele aviso.
+
+Mais se informa que as candidaturas recebidas consideram-se válidas e serão analisadas a par das restantes que eventualmente sejam entregues.
+
+30 de Setembro de 2009. - O Presidente, Domingos Assunção Silvestre.
+
+302512039

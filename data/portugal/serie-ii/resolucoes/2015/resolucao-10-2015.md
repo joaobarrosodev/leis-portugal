@@ -1,0 +1,328 @@
+---
+schema_version: '1.0'
+id: pt:dre:66507630:por
+title: Resolução n.º 10/2015
+short_title: null
+summary: Nomeia os membros do conselho de administração da Unidade Local de Saúde do Norte Alentejano, E.P.E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 10/2015
+official_date: null
+publication_date: '2015-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2015, Série II de 2015-02-17
+  number: '33'
+  series: II
+  supplement: null
+  pages: 4300 - 4301
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/02/033000000/0430004301.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '66507630'
+  dre_path: /dr/detalhe/resolucao/10-2015-66507630
+  internal: pt:dre:66507630:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-2015-66507630
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-2015-66507630
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eef69898ffc2723174a3164ec425b79181ea0fb32716234985c86d6da312863c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Unidade Local de Saúde do Norte Alentejano
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:1144331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2227715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3581602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325236:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:30Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 10/2015
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo III ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração da Unidade Local de Saúde do Norte Alentejano, E.P.E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pela áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração da Unidade Local de Saúde do Norte Alentejano, E.P.E., cessaram o respetivo mandato em 31 de dezembro de 2014, torna-se necessário proceder à nomeação dos membros deste órgão de administração, assegurando-se a continuidade de funções de quatro dos atuais cinco membros deste órgão.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos artigos 6.º e 13.º dos Estatutos constantes do anexo III ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, dos n.os 2 e 3 do artigo 13.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta da Ministra de Estado e das Finanças e do Ministro da Saúde, Dorinda Maria de Carvalho Gomes Calha (diretora clínica para a área dos cuidados de saúde primários), Joaquim Filomeno Duarte Araújo, Raquel Maria Pinto Bacharel Bilé, Jorge Fernandes Ferreira Gomes (diretor clínico para a área dos cuidados de saúde hospitalares), António José Chaves Miranda (enfermeiro diretor), respetivamente, para os cargos de presidente e de vogais executivos do conselho de administração da Unidade Local de Saúde do Norte Alentejano, E.P.E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar os nomeados Dorinda Maria de Carvalho Gomes Calha, Joaquim Filomeno Duarte Araújo e Jorge Fernandes Ferreira Gomes a optarem pelo vencimento do lugar de origem, nos termos do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro.
+
+3 - Autorizar o nomeado Joaquim Filomeno Duarte Araújo a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+4 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
+
+5 de fevereiro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+Dorinda Maria de Carvalho Gomes Calha, médica assistente graduada sénior de MGF, Cédula Profissional n º 17491 da OM
+
+Habilitações Literárias e Profissionais
+
+Licenciada em Medicina e Cirurgia, Faculdade Medicina de Lisboa; Internato Geral no H. D. P. (1978-1979); S. M. P. em Castelo de Vide (1980); Internato Complementar MGF (1982 -1985); Grau de Assistente de MGF (1985); Formação de Formadores (1986/87); Grau de Consultor de M.G.F (1995); Assistente Graduado Sénior de M.G.F. (2003)
+
+Experiência Profissional
+
+Presidente da Comissão Instaladora e Delegada Saúde (1981/1982): Responsável Distrital C.P.S (1986/1993); Coordenadora Distrital do P. S. E. / S. O. (1986/1993); Diretora do C. S. Portalegre (1987/1996); Representante do Ministro Saúde na Comissão Distrital (PIPSE) (1987/1991); Membro do Grupo de Planeamento (1986/1993); Representante da ARS Portalegre ICGZS; Coordenadora dos Orientadores de Formação/Orientadora; Membro do G.A.O./ICGZS, do Conselho Científico ICGZS e do Grupo de Planeamento e Núcleo de Garantia Qualidade em Cuidados de Saúde (1989/1991); Coordenadora Distrital do ROR; Representante da Saúde na Comissão Distrital (P.I.P.S.E.); Representante Regional na RNEPS; Coordenadora da Sub-Região de Portalegre (2002/2005); Coordenadora da USF Portus Alacer; Presidente do Conselho de Administração da ULSNA, desde 12/04/2012.
+
+Formação Profissional
+
+Formação de Orientadores; Seminário de alta direção realizado no INA (2004); PADIS- Programa de Alta Direção de Instituições de Saúde (2013)
+
+Outros Elementos Valorização Curricular
+
+Membro do Colégio da Especialidade de M.G.F., do Conselho Distrital de Portalegre da OM (1987/89); Participa em estudo internacional "Health Behaviour in School-Aged Children", O.M.S (1994); Organiza, colabora e participa como oradora e/ou moderadora em reuniões científicas; Participa em Júris de concurso; Exerce atividades de docência na Escola Superior Saúde.
+
+Joaquim Filomeno Duarte Araújo - Administrador Hospitalar de 2.ª Classe.
+
+Habilitações Literárias e Profissionais
+
+Licenciatura em Direito pela Faculdade de Direito da Universidade Clássica (10/1987) e pós-graduação em Administração Hospitalar na Escola Nacional de Saúde Pública (06/1994).
+
+Experiência Profissional
+
+Vogal Executivo no Conselho de Administração da Unidade Local de Saúde do Norte Alentejano, E.P.E., ainda em funções ([Despacho n.º 5118/2012](https://diariodarepublica.pt/dr/detalhe/despacho/5118-2012-2227715), de 11/04);
+
+A partir de maio de 2011 iniciou a colaboração como consultor do Projeto Angola LNG;
+
+Vogal Executivo no Conselho de Administração do Hospital Distrital de Santarém E.P.E., ([Despacho n.º 10545/2009](https://diariodarepublica.pt/dr/detalhe/despacho/10545-2009-3581602), de 16/04);
+
+Vogal Executivo no Conselho de Administração da Unidade Local de Saúde do Norte Alentejano, E.P.E. ([Despacho n.º 6426/2007](https://diariodarepublica.pt/dr/detalhe/despacho/6426-2007-1144331), de 01/03);
+
+Vogal Executivo no Conselho de Administração dos Hospitais de Portalegre e Elvas (Despacho n.º 16 603/2005, de 08/07);
+
+Administrador Hospitalar na Agência de Contratualização Administração Regional de Saúde de Lisboa e Vale do Tejo (Despacho de 15/06/2005);
+
+Administrador Hospitalar, no Departamento de Recursos Humanos da Saúde do Ministério da Saúde na Divisão de Planeamento e Estudos em Janeiro de 2005.
+
+Diretor do Projeto de Saúde a partir de 01/2001, no Hospital Central de Cabinda e Hospitais Provincial do Zaire e Municipal do Soyo - Província do Zaire em Angola
+
+Integra o Grupo de Trabalho da Task Force, ano 2000 (Despacho n.º 10150/99 de 29/04;
+
+Nomeado assessor do Secretário de Estado da Saúde (Despacho n.º 4390/99 de 29/01);
+
+Iniciou a colaboração com a SubTask Force, ano 2000 (Despacho 03/06/1998);
+
+Entre 06/1998 e 09/1999, consultor no Banco Mundial para Ministério da Saúde da República da Arménia;
+
+Administrador Hospitalar (4.º grau) no Hospital de Curry Cabral (Despacho de 23/09/1996);
+
+Integrou o Grupo de Trabalho para a Elaboração da Carta de Equipamentos de Saúde (Despacho n.º 170/96, de 02/05)
+
+Colocado em 01/09/1995, no Hospital de S. Pedro em Vila Real como Administrador Hospitalar de 4º Grau, (concurso externo de ingresso - DR n.º 126, II série de 31/05/1995);
+
+Administrador Hospitalar de Área no Hospital de Curry Cabral (08/08/1994) e no Grupo de Trabalho do Projeto Europeu Costaim na ARS de Lisboa e Vale do Tejo (01/06/1994);
+
+Raquel Maria Pinto Bacharel Bilé, Técnica Superior Principal desde 01 de setembro de 2005.
+
+Habilitações Literárias e Profissionais
+
+Licenciatura em Economia pelo Instituto Superior de Economia e Gestão - Universidade Técnica de Lisboa, concluída em 1994.
+
+Experiência Profissional
+
+Nomeada em regime de Contrato Administrativo de Provimento na categoria de Técnica Superior de 2.ª Classe Estagiária, da ARS Alentejo - SRS Portalegre em 31/10/95 por despacho do Presidente do Conselho de Administração. Em 11/09/97nomeada em regime de contrato administrativo de provimento na categoria de técnica superior de 2.ª classe. Colocada na Divisão de Gestão Financeira, desempenhou funções técnicas nesta área até 31 de julho de 2002.
+
+Entre 01 de agosto de 2002 e 31 de agosto de 2005, nomeada Diretora de Serviços de Administração Geral da SRS de Portalegre por deliberação do Conselho de Administração da ARS do Alentejo em 30/07/2002.
+
+De setembro de 2005 e até janeiro de 2006 desempenhou funções técnicas na Divisão de Gestão Financeira na SRS de Portalegre, tendo em janeiro de 2006 assumido funções de Coordenadora do Serviço de Aprovisionamento dos Hospitais de Elvas, Portalegre e SRS, com vista à integração dos Serviços da futura Unidade Local de Saúde.
+
+Em 08 de março nomeada responsável do Serviço de Aprovisionamento e Logística, por deliberação de 08 de março de 2007 do Conselho de Administração da ULSNA, EPE.
+
+Por deliberação de 09 de agosto de 2012 do Conselho de Administração da ULSNA, EPE, nomeada a partir de 01 de setembro de 2012 para o cargo de Diretora Executiva do ACES em acumulação com as funções de adjunta do Conselho de Administração, funções que desempenha até à presente data.
+
+Formação Profissional
+
+Seminário de Alta Direção (SAD) realizado no INA em 2004. Diploma de Especialização em Gestão de Unidades de Saúde realizado em 2007/2008 pelo INA.
+
+Programa de Formação em Gestão Publica - FORGEP - realizado em 2010 pelo INA.
+
+Curso de Alta Direção em Gestão de Unidades de Saúde para Gestores realizado em 2013/2014 pelo ISCSP/UTL (Instituto Superior de Ciências Sociais e Politicas).
+
+Jorge Fernandes Ferreira Gomes, nascido a 11 de outubro de 1960, residente em Portalegre. Assistente Graduado de Cirurgia Geral do mapa de pessoal da Unidade Local de Saúde do Norte Alentejano no Hospital Dr. José Maria Grande de Portalegre
+
+Portador da Cédula Profissional n.º 29767 da Ordem dos Médicos, inscrito na Seção Regional do Centro da Ordem dos Médicos.
+
+Habilitações Literárias e Profissionais
+
+Licenciado em Medicina, pela Faculdade de Medicina da Universidade de Coimbra, em 15 de novembro de 1985, com a classificação final de 12,34 valores.
+
+Realizou o Internato Geral, no Hospital de Leiria, de fevereiro de 1986 a outubro de 1987.
+
+Realizou o internato complementar, de Cirurgia Geral, no Hospital Distrital de Portalegre com a classificação de 17,1 valores.
+
+Obteve o grau de Consultor da Carreira Médica de Cirurgia Geral, após provas públicas em 30 dezembro 2005.
+
+Experiência Profissional
+
+Diretor das consultas externas do Hospital Doutor José Maria Grande, de junho de 1999 a janeiro de 2004.
+
+Diretor do Serviço de Urgência, de janeiro 2004 a abril de 2010.
+
+Diretor Clínico Hospitalar da ULSNA desde abril 2012.
+
+Outros Elementos Valorização Profissional
+
+Orientador de formação de internos da especialidade de Cirurgia Geral
+
+Apresentação de vários trabalhos clínicos quer como autor quer como coautor.
+
+Inscrito no Colégio da Especialidade de Cirurgia Geral, desde Setembro de 1997.
+
+Membro da Associação dos Médicos da Carreira Hospitalar, desde outubro de 1998.
+
+Membro da Sociedade Portuguesa de Cirurgia, desde outubro de 2000.
+
+Membro da Sociedade Portuguesa de Cirurgia Minimamente Invasiva, desde 2006.
+
+António José Chaves Miranda, Enfermeiro Especialista na área de Enfermagem Comunitária, Cédula Profissional n.º 26030 da OE.
+
+Habilitações Literárias e Profissionais
+
+Licenciado em Enfermagem pela Escola Superior de Enfermagem de Portalegre.
+
+Doutorando em Educação, com a tese por realizar, pela Universidade Lusófona de Humanidades e Tecnologias de Lisboa.
+
+Experiência Profissional
+
+Enfermeiro Diretor da Unidade Local de Saúde do Norte Alentejano, desde 2012.
+
+Professor assistente na Escola Superior de Saúde de Portalegre de 2002 a 2012.
+
+Enfermeiro especialista no Centro de Saúde de Nisa em 2002.
+
+Enfermeiro no Hospital Doutor José Maria Grande de Portalegre de 1994 a 2002.
+
+Formação Profissional
+
+PADIS - Programa de Alta Direção de Instituições de Saúde, realizado em Lisboa, de abril a julho de 2013 com a colaboração científica da Clínica Universitária de Navarra.
+
+Curso de Formação de Formadores, pelo Instituto do Emprego e Formação Profissional em 2007.
+
+Pós-graduação em Educação, Políticas educativas e Ensino Superior, pela Faculdade de Psicologia e Ciências da Educação da Universidade do Porto.
+
+Curso de Estudos Superiores Especializados em Enfermagem na Comunidade, pela Escola Superior de Enfermagem de Portalegre.
+
+Outros Elementos Valorização Curricular
+
+Presidente do CRE - Conselho Regional de Enfermagem da Administração Regional de Saúde do Alentejo.
+
+Presidente da Assembleia Geral da ADENNA - Associação para o Desenvolvimento da Enfermagem do Norte Alentejano desde 2009
+
+Vogal do Conselho Regional do Sul da Ordem dos Enfermeiros de 2003 a 2006
+
+Organização, colaboração e participação em vários eventos e reuniões de trabalho; orientações de alunos em ensinos clínicos, estágios e trabalhos de fim de curso; publicação de trabalhos e comunicações. Dirigente associativo em várias organizações.
+
+208434452

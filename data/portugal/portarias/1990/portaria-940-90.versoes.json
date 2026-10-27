@@ -1,0 +1,811 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:555797:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-153774788",
+ "dre_path": "/dr/detalhe/portaria/940-1990-555797",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153652854",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779781"
+   ]
+  },
+  {
+   "date": "1992-01-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138309:por",
+     "title": "Portaria n.º 15/92",
+     "published": "1992-01-13",
+     "dre_path": "/dr/detalhe/portaria/15-1992-138309"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779785",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779781"
+   ]
+  },
+  {
+   "date": "1993-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:675213:por",
+     "title": "Portaria n.º 379/93",
+     "published": "1993-04-03",
+     "dre_path": "/dr/detalhe/portaria/379-1993-675213"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779789",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779781"
+   ]
+  },
+  {
+   "date": "1996-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212802:por",
+     "title": "Portaria n.º 527/96",
+     "published": "1996-10-01",
+     "dre_path": "/dr/detalhe/portaria/527-1996-212802"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779791",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779781"
+   ]
+  },
+  {
+   "date": "2001-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314196:por",
+     "title": "Portaria n.º 493/2001",
+     "published": "2001-05-11",
+     "dre_path": "/dr/detalhe/portaria/493-2001-314196"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779793",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779781"
+   ]
+  },
+  {
+   "date": "2002-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235298:por",
+     "title": "Portaria n.º 78/2002",
+     "published": "2002-01-22",
+     "dre_path": "/dr/detalhe/portaria/78-2002-235298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779793",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779795"
+   ]
+  },
+  {
+   "date": "2004-11-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:534792:por",
+     "title": "Portaria n.º 1418/2004",
+     "published": "2004-11-20",
+     "dre_path": "/dr/detalhe/portaria/1418-2004-534792"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779800",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779795"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:453500:por",
+     "title": "Portaria n.º 984/2008",
+     "published": "2008-09-02",
+     "dre_path": "/dr/detalhe/portaria/984-2008-453500"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 29.º"
+   ],
+   "fragments": [
+    "153652845",
+    "153652846",
+    "153652847",
+    "153652848",
+    "153652849",
+    "153652850",
+    "153652851",
+    "153652852",
+    "153652853",
+    "153779800",
+    "153652855",
+    "153652856",
+    "153652857",
+    "153652858",
+    "153652859",
+    "153652860",
+    "153652861",
+    "153652862",
+    "153652863",
+    "153652864",
+    "153652865",
+    "153652866",
+    "153652867",
+    "153652868",
+    "153652869",
+    "153652870",
+    "153652871",
+    "153652872",
+    "153652873",
+    "153652874",
+    "153779775",
+    "153779776",
+    "153779777",
+    "153779778",
+    "153779779",
+    "153779780",
+    "153779801"
+   ]
+  }
+ ],
+ "fragments": {
+  "153652845": {
+   "fragment_id": "153774789",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 940/90\n\nde 4 de Outubro\n\nConsiderando que o Decreto-Lei n.º 213/90, de 28 de Junho, estabelece os princípios gerais do regime jurídico dos direitos de obtentor de variedades vegetais;\n\nConsiderando que se torna indispensável regulamentar e concretizar os referidos princípios;\n\nAo abrigo do disposto no n.º 2 do artigo 1.º, no n.º 3 do artigo 6.º e nos artigos 8.º e 9.º do Decreto-Lei n.º 213/90, de 28 de Junho:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º - 1 - É aprovado o Regulamento sobre a Protecção das Obtenções Vegetais, anexo à presente portaria e que dela faz parte integrante.\n\n2 - O Regulamento sobre a Protecção das Obtenções Vegetais entra em vigor no prazo de 30 dias após a data da sua publicação.\n\n2.º - 1 - O Centro Nacional de Registo de Variedades Protegidas, abreviadamente designado por CENARVE, é o serviço responsável pela execução do disposto no presente diploma.\n\n2 - O CENARVE funciona no âmbito do Instituto Nacional de Investigação Agrária, sendo dirigido pelo respectivo presidente ou por um delegado.\n\n3.º Ao CENARVE compete, designadamente:\n\na) Organizar e instruir os processos tendentes à atribuição de direitos de obtentor;\n\nb) A execução dos exames, inspecções e outros actos necessários à apreciação e decisão dos pedidos de atribuição de direito de obtentor;\n\nc) Solicitar ou contratar a celebração de serviços especializados nas áreas que respeitem à sua actividade, nomeadamente aos ensaios de IHE (identidade, homogeneidade e estabilidade);\n\nd) Elaborar uma publicação periódica em que figurem as variedades objecto de protecção e sejam publicitados os actos mais importantes dos processos de atribuição de direitos de obtentor;\n\ne) Pedir a colaboração dos serviços do Ministério da Agricultura, Pescas e Alimentação, sempre que a mesma se mostrar necessária para a boa prossecução da sua actividade;\n\nf) Articular as suas acções com outras entidades nacionais e estrangeiras com responsabilidades em matéria de protecção de variedades vegetais e promover a celebração dos acordos e protocolos que se revelem necessários ou convenientes para a prossecução dos interesses a seu cargo.\n\n4.º Compete ao director do CENARVE, designadamente:\n\na) Dirigir e coordenar o CENARVE;\n\nb) Presidir ao conselho técnico do CENARVE;\n\nc) Atribuir os títulos de obtentor, bem como proceder à sua alteração ou revogação;\n\nd) Propor superiormente os actos e medidas regulamentares e legislativas necessários à prossecução das atribuições do CENARVE;\n\ne) Praticar todos os demais actos previstos no presente diploma ou em outros diplomas legais ou regulamentares.\n\n5.º - 1 - O conselho técnico do CENARVE é um órgão consultivo do director do CENARVE, sendo constituído pelos seguintes membros:\n\na) Director do CENARVE, que preside;\n\nb) Director do Centro Nacional de Protecção da Produção Agrícola ou quem o represente;\n\nc) Um representante das associações de melhoradores;\n\nd) Um representante das associações de produtores de sementes;\n\ne) Um representante das associações de produtores de material de propagação vegetativa;\n\nf) Duas personalidades de reconhecida competência em matéria de protecção das obtenções vegetais, uma das quais com formação jurídica.\n\n2 - Os membros a que se referem as alíneas c), d), e) e f) do número anterior são designados pelo director do CENARVE, ouvidas as respectivas associações.\n\n3 - O director do CENARVE pode convidar personalidades de reconhecida competência a participar, sem direito de voto, nas reuniões do conselho técnico, sempre que tal se mostre conveniente para o esclarecimento das matérias em apreciação.\n\n4 - O conselho é secretariado por um funcionário do CENARVE designado pelo seu presidente, sem direito a voto.\n\n6.º - 1 - Compete ao conselho técnico do CENARVE:\n\na) Emitir os pareceres previstos no presente diploma e sobre todos os assuntos que lhe sejam submetidos pelo director do CENARVE;\n\nb) Propor ao director do CENARVE os actos e medidas que considere convenientes para a correcta prossecução das atribuições do CENARVE.\n\n2 - Salvo disposição legal ou a determinação do director do CENARVE em contrário, o conselho técnico deve emitir os pareceres que lhe sejam solicitados no prazo máximo de um mês.\n\n7.º O conselho técnico reúne nos termos do respectivo regimento, sendo lavrada acta de cada reunião.\n\n8.º - 1 - Para publicação dos principais actos relativos aos processos a cargo do CENARVE, deve ser editada uma publicação periódica designada Boletim do CENARVE.\n\n2 - Do Boletim do CERNAVE devem constar, designadamente:\n\na) Os pedidos de atribuição de direitos de obtentor aceites pelo CENARVE;\n\nb) A recusa e a atribuição de títulos de obtentor, bem como a sua alteração, revogação e caducidade.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 14 de Setembro de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nRegulamento sobre a Protecção das Obtenções Vegetais"
+  },
+  "153652846": {
+   "fragment_id": "153774790",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "153652847": {
+   "fragment_id": "153774791",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento desenvolve o regime jurídico dos direitos de obtentor, constante do Decreto-Lei n.º 213/90, de 28 de Junho."
+  },
+  "153652848": {
+   "fragment_id": "153774792",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal de aplicação\n\n1 - Os estrangeiros gozam da protecção concedida aos nacionais nos termos determinados por convenções a que Portugal esteja vinculado.\n\n2 - Na falta de convenções internacionais, os estrangeiros gozam da protecção concedida aos nacionais, excepto quando a ordem jurídica do respectivo país, concedendo protecção aos seus nacionais, o não faça em relação aos Portugueses em igualdade de circunstâncias."
+  },
+  "153652849": {
+   "fragment_id": "153774793",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) Clone - conjunto de indivíduos obtidos por propagação vegetativa de uma só planta e que possuem um património genético idêntico;\n\nb) Linha - grupo natural ou artificial de reprodução sexuada suficientemente uniforme;\n\nc) Estirpe - a descendência de plantas de uma mesma origem, obtidas por selecção e que possuem numerosas características em comum;\n\nd) Híbrido - planta resultante de cruzamentos espontâneos ou provocados a partir de progenitores com património genético geralmente diferente;\n\ne) Obtenção vegetal - é toda a variedade (cultivar), clone, linha, estirpe ou híbrido que como tal seja reconhecida técnica ou comercialmente."
+  },
+  "153652850": {
+   "fragment_id": "153774794",
+   "type": 1,
+   "heading": "Capítulo II — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Princípios fundamentais"
+  },
+  "153652851": {
+   "fragment_id": "153774795",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdo do direito de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conteúdo do direito de obtentor\n\n1 - O direito de obtentor de uma variedade vegetal confere ao seu titular a exclusividade de produção e comercialização das plantas dessa variedade ou correspondente material de reprodução ou de multiplicação.\n\n2 - O direito de obtentor não prejudica a possibilidade de se utilizar a variedade vegetal protegida como material originário ou base para a produção de outras variedades, excepto no caso em que seja necessário uma utilização repetida ou sistemática."
+  },
+  "153652852": {
+   "fragment_id": "153774796",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos para atribuição de direito de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos para atribuição de direito de obtentor\n\n1 - O direito de obtentor de uma variedade vegetal é atribuído em relação a qualquer obtenção que seja:\n\na) Distinta, isto é, que, independentemente da forma como foi obtida, se distingue de qualquer outra variedade reconhecida existente, por um ou mais caracteres susceptíveis de serem identificados e descritas com precisão;\n\nb) Homogénea, isto é, quando todas as plantas que constituem a nova obtenção sejam semelhantes, tendo em conta as particularidades da sua reprodução sexuada ou da sua multiplicação vegetativa;\n\nc) Estável, isto é, que, após multiplicações ou reproduções sucessivas, revele os mesmos caracteres essenciais, de acordo com a descrição apresentada pelo seu obtentor;\n\nd) Nova, isto é, quando à data do respectivo pedido de atribuição de direito de obtentor não tenha sido posta a venda ou comercializada no País há mais de um ano, com o consentimento do seu obtentor, ou no estrangeiro há mais de seis ou quatro anos, consoante se trate de plantas lenhosas ou de plantas herbáceas, respectivamente.\n\n2 - Para além dos requisitos referidos no número anterior, a atribuição do direito de obtentor depende de a respectiva denominação ser conforme o prescrito no presente Regulamento e do respeito dos outros requisitos nele estabelecidos."
+  },
+  "153652853": {
+   "fragment_id": "153774797",
+   "type": 11,
+   "heading": "Artigo 6.º — Prazos dos direitos de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prazos dos direitos de obtentor\n\nOs direitos de obtentor têm um prazo de 15 ou 20 anos, consoante se trate, respectivamente, de plantas herbáceas ou de plantas lenhosas."
+  },
+  "153652854": {
+   "fragment_id": "153774798",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Espécies protegidas\n\nAs espécies botânicas sobre cujas variedades podem incidir direitos de obtentor são inicialmente as seguintes:\n\na) Cereais: arroz, aveia, centeio, cevada, milho, trigo e triticale;\n\nb) Oleaginosas: girassol;\n\nc) Forragens: azevéns, ervilhaca, tremoceira, trevos, luzerna, festucas."
+  },
+  "153652855": {
+   "fragment_id": "153774799",
+   "type": 1,
+   "heading": "Capítulo III — Processo de atribuição de direitos de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Processo de atribuição de direitos de obtentor"
+  },
+  "153652856": {
+   "fragment_id": "153774800",
+   "type": 11,
+   "heading": "Artigo 8.º — Quem pode requerer a atribuição de direitos de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Quem pode requerer a atribuição de direitos de obtentor\n\n1 - A atribuição do direito de obtentor de uma variedade vegetal pode ser requerida pelo seu obtentor ou por quem, por contrato ou mortis causa, lhe tiver sucedido, desde que seja:\n\na) De nacionalidade portuguesa;\n\nb) Estrangeiro com residência em Portugal;\n\nc) Pessoa colectiva com sede social em Portugal;\n\nd) Nacional de um Estado membro da União Internacional para a Protecção das Obtenções Vegetais (UPOV) ou pessoa singular ou colectiva com residência ou sede social num desses Estados, desde que o Estado em causa conceda protecção ao género ou espécie a que pertence a variedade objecto do pedido;\n\ne) Nacional de outro Estado ou pessoa singular ou colectiva com residência ou sede social em Estado no qual os Portugueses, ou estrangeiros residentes em Portugal e ainda as pessoas colectivas com sede social em Portugal, gozem da mesma protecção que é concedida aos nacionais desses Estados no que respeita às variedades do género ou espécie objecto do pedido.\n\n2 - As pessoas que não tenham residência ou sede social em Portugal só podem requerer a atribuição do direito de obtentor se designarem um representante que respeite tais requisitos.\n\n3 - No caso de várias pessoas terem descoberto em comum uma variedade vegetal, deve o respectivo pedido de atribuição de direito de obtentor ser igualmente efectuado em comum, devendo, porém, ser designado um representante que actue em nome de todos na relação a estabelecer com o CENARVE.\n\n4 - O representante a que se refere o número anterior pode ser um dos requerentes ou um terceiro. Na falta de designação, considera-se representante o requerente que figurar em primeiro lugar."
+  },
+  "153652857": {
+   "fragment_id": "153774801",
+   "type": 11,
+   "heading": "Artigo 9.º — Pedido de atribuição de direito de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido de atribuição de direito de obtentor\n\n1 - O pedido de atribuição de direito de obtentor pode ser apresentado pessoalmente no CENARVE ou enviado por carta registada com aviso de recepção.\n\n2 - O pedido, efectuado em impressos próprios fornecidos pelo CENARVE, é redigido em língua portuguesa, devendo os documentos em língua estrangeira a entregar ser acompanhados pela respectiva tradução devidamente autenticada.\n\n3 - A data do pedido é aquela em que o mesmo dê entrada no CENARVE."
+  },
+  "153652858": {
+   "fragment_id": "153774802",
+   "type": 11,
+   "heading": "Artigo 10.º — Requisitos do pedido de atribuição de direito de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos do pedido de atribuição de direito de obtentor\n\n1 - Do pedido de atribuição de direito de obtentor deve constar designadamente:\n\na) O nome ou firma do requerente e o seu domicílio ou sede;\n\nb) A nacionalidade do requerente se este for uma pessoa singular;\n\nc) O nome e morada do representante, no caso de o haver;\n\nd) O nome e morada do seu obtentor, caso este não seja o requerente;\n\ne) A denominação da variedade vegetal ou a designação indicada pelo seu obtentor;\n\nf) Se a obtenção vegetal está protegida ou se a protecção já foi requerida em qualquer país, deve ser indicado:\n\nQual o país ou países;\n\nA denominação neles registada;\n\nO número sob o qual o pedido ou o título de protecção esta registado;\n\nA data desse pedido ou do título concedido;\n\ng) Se for reivindicada qualquer prioridade, deve ser indicada a data do primeiro pedido de atribuição de direito de obtentor e o país onde foi apresentado;\n\nh) A assinatura do requerente ou do seu representante.\n\n2 - O pedido deve ser acompanhado dos seguintes elementos:\n\na) A descrição completa da variedade vegetal;\n\nb) Procuração notarial, no caso de o pedido ser formulado por representante;\n\nc) No caso de o pedido não ser formulado pelo obtentor, de documento comprovativo de aquisição dos respectivos direitos;\n\nd) Declaração de que a obtenção vegetal é nova, de acordo com o disposto no presente Regulamento;\n\ne) Declaração em que o requerente renuncie, a partir da atribuição do direito de obtentor, a fazer valer os seus direitos sobre o uso de qualquer marca ou nome comercial susceptível de estabelecer confusão com a denominação agora solicitada, registada em seu favor no País ou em qualquer outro com o qual Portugal tenha acordo estabelecido referente a produtos idênticos ou similares;\n\nf) Outros elementos que o requerente considere úteis para a cabal apreciação do pedido;\n\ng) Importância correspondente às taxas devidas;\n\nh) Relação dos documentos apresentados no CENARVE.\n\n3 - A descrição a que se refere a alínea a) do número anterior deve indicar, designadamente:\n\na) A designação da espécie botânica à qual a variedade vegetal pertença;\n\nb) Os principais caracteres de natureza morfológica e fisiológica e ainda, no caso de obtenções híbridas, os principais caracteres morfológicos e fisiológicos dos progenitores;\n\nc) A técnica utilizada para a obtenção da variedade em causa;\n\nd) As semelhanças da variedade com qualquer outra já existente e os aspectos que as diferenciam."
+  },
+  "153652859": {
+   "fragment_id": "153774803",
+   "type": 11,
+   "heading": "Artigo 11.º — Benefício de prioridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Benefício de prioridade\n\n1 - Ao requerer a atribuição de direito de obtentor de uma variedade vegetal, o interessado pode reivindicar o benefício de prioridade, quando tenha regularmente requerido há menos de um ano a protecção da mesma variedade em qualquer país membro do UPOV.\n\n2 - O benefício de prioridade tem como efeito considerar-se como data do pedido de atribuição de direito de obtentor a data do pedido de atribuição anteriormente efectuado no país estrangeiro.\n\n3 - O pedido de prioridade tem que ser instruído com cópias dos documentos constantes do pedido de atribuição de direito de obtentor que se reinvidica, certificadas e datadas pelos respectivos serviços.\n\n4 - Os documentos referidos no número anterior devem ser apresentados juntamente com o pedido de atribuição de direito de obtentor ou nos três meses seguintes, sob pena do não reconhecimento do benefício de prioridade.\n\n5 - Caso o pretenda, o requerente deva indicar no pedido de atribuição de direito de obtenção a data em que pretende entregar o material de multiplicação a que se refere o n.º 3 do artigo 16.º, não podendo esta ultrapassar o prazo de quatro anos após a data em que termina o prazo de prioridade.\n\n6 - O pedido de prioridade deve ser acompanhado de importância correspondente à taxa prevista para o efeito."
+  },
+  "153652860": {
+   "fragment_id": "153774804",
+   "type": 11,
+   "heading": "Artigo 12.º — Denominação da variedade vegetal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Denominação da variedade vegetal\n\n1 - Toda a variedade vegetal deve ser designada por uma única denominação que permita identificá-la e que seja diferente da usada para qualquer outra obtenção vegetal da mesma espécie ou de espécies afins já registadas no País ou em qualquer outro Estado membro da UPOV.\n\n2 - A denominação dada a uma variedade protegida não pode ser usada como marca ou denominação comercial de qualquer obtenção vegetal da mesma espécie ou espécie afim."
+  },
+  "153652861": {
+   "fragment_id": "153774805",
+   "type": 11,
+   "heading": "Artigo 13.º — Requisitos da denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos da denominação\n\n1 - A denominação de variedade vegetal nova pode ser constituída por:\n\na) Até três palavras;\n\nb) Uma combinação alfanumérica no máximo com quatro elementos;\n\nc) Uma combinação de palavras e letras no máximo com quatro elementos;\n\nd) Uma combinação de palavras e números no máximo com quatro elementos.\n\n2 - A denominação proposta deve ser escrita por extenso.\n\n3 - A denominação proposta não deve:\n\na) Ser difícil de pronunciar ou de reter na memória;\n\nb) Suscitar confusões sobre a origem, procedência, valor ou características da obtenção vegetal ou sobre a identidade do obtentor;\n\nc) Ser idêntica ou susceptível de ser facilmente confundida com outra denominação já registada no País ou em qualquer outro Estado membro da UPOV e que seja utilizada para designar uma obtenção vegetal da mesma espécie ou de espécies da mesma classe;\n\nd) Ser contrária à moral ou ordem pública;\n\ne) Ter na sua constituição o nome botânico ou comum de um género de espécie vegetal, bem como os termos «variedade», «cultivar», «híbrido», «forma» ou «cruzamento»;\n\nf) Sugerir que a obtenção vegetal procede de outra, ou que com ela está relacionada, quando tal não acontece;\n\ng) Referir-se unicamente a características que também são comuns a outras obtenções vegetais protegidas da mesma espécie;\n\nh) Ser inadequada por razões linguísticas;\n\ni) Ser igual a uma denominação empregue para designar outra obtenção vegetal frequente.mente cultivada, mesmo que esta já faça parte do domínio público.\n\n4 - Sem prejuízo do disposto no número anterior, se a obtenção vegetal cuja protecção é requerida já for protegida noutro Estado membro da UPOV ou aí já tiver sido apresentado um pedido de protecção, só pode ser proposta e registada a denominação anteriormente usada.\n\n5 - A denominação da obtenção vegetal protegida deve ser sempre usada na sua comercialização, ou na do seu material de multiplicação, mesmo depois de terminado o período de protecção."
+  },
+  "153652862": {
+   "fragment_id": "153774806",
+   "type": 11,
+   "heading": "Artigo 14.º — Aceitação e recusa do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aceitação e recusa do pedido\n\n1 - No prazo de cinco dias úteis após a data da entrada no CENARVE do pedido de atribuição direito de obtentor, é o mesmo objecto de análise, a fim de se constatar se reúne os requisitos previstos no presente Regulamento.\n\n2 - Caso reúna todos os elementos necessários à sua apreciação, o pedido é aceite e registado em livro próprio com a data da sua apresentação.\n\n3 - Quando faltem elementos ao pedido ou o CENARVE considerar necessários esclarecimentos complementares, são os mesmos solicitados ao requerente e fixado prazo, não inferior a 15 dias nem superior a 30 dias, para a sua entrega.\n\n4 - Se os elementos solicitados nos termos do número anterior não forem entregues no prazo fixado, é recusada a aceitação do pedido, sendo tal comunicado ao requerente, não havendo direito a devolução das taxas já pagas."
+  },
+  "153652863": {
+   "fragment_id": "153774807",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicação do pedido e oposições ao mesmo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicação do pedido e oposições ao mesmo\n\n1 - Aceite o pedido, é o mesmo objecto de publicação no Boletim do CENARVE, do qual devem constar a data da sua apresentação, nome ou firma do requerente e a sua morada, o nome ou firma do obtentor no caso de não ser o requerente, e a sua morada, a denominação proposta e os principais caracteres da variedade indicados no pedido.\n\n2 - Nos dois meses seguintes à data da publicação a que se refere o número anterior, qualquer interessado pode deduzir oposição à atribuição do direito de obtentor em causa.\n\n3 - As oposições devem ser apresentadas em triplicado e indicar com clareza e exactidão:\n\na) O nome ou firma e morada do seu autor;\n\nb) O pedido de atribuição de direito de obtentor a que se refere e o número do Boletim do CENARVE em que o mesmo foi publicado;\n\nc) Os motivos pelos quais deve ser recusada a atribuição do direito de obtentor.\n\n4 - As oposições entregues no CENARVE são comunicados ao requerente, a fim de este as contestar no prazo de 30 dias."
+  },
+  "153652864": {
+   "fragment_id": "153774808",
+   "type": 11,
+   "heading": "Artigo 16.º — Decisão sobre a continuação do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Decisão sobre a continuação do processo\n\n1 - Decorrido o prazo fixado no n.º 2 do artigo anterior ou, caso tenha havido oposições, após a entrega de contestação ou decorrido o prazo para a mesma, o director do CENARVE decide pela continuação ou cancelamento do processo, apreciando, designadamente, as oposições deduzidas e, se possível, a verificação do requisito prescrito na alínea d) do n.º 1 do artigo 5.º\n\n2 - O cancelamento do processo deve ser comunicado ao requerente devidamente fundamentado."
+  },
+  "153652865": {
+   "fragment_id": "153774809",
+   "type": 11,
+   "heading": "Artigo 17.º — Exames de distinção homogeneidade e estabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Exames de distinção homogeneidade e estabilidade\n\n1 - As obtenções vegetais objecto de pedidos de atribuição de direito de obtentor são objecto de exames destinados a comprovar a sua distinção, homogeneidade e estabilidade.\n\n2 - Os exames a que se refere o número anterior são realizados pelo CENARVE ou por outra entidade, nacional ou estrangeira, pelo mesmo designada.\n\n3 - O CENARVE comunicará ao requerente a quantidade de material de multiplicação que deve entregar, bem como o local e a data da entrega e, ainda, a entidade que vai efectuar os exames, o local onde os mesmos vão decorrer, a data do seu início e a duração esperada.\n\n4 - Durante a realização dos exames, o CENARVE pode solicitar ao requerente informações complementares ou a entrega de mais material de multiplicação, fixando o prazo em que tal deve ser cumprido.\n\n5 - Caso o requerente não entregue na data e local devidos o material de multiplicação referido no n.º 3 ou, injustificadamente, se recuse a prestar a colaboração a que se refere o número anterior, é o pedido cancelado, sem devolução das taxas já pagas."
+  },
+  "153652866": {
+   "fragment_id": "153774810",
+   "type": 11,
+   "heading": "Artigo 18.º — Resultado dos exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resultado dos exames\n\n1 - Terminados os exames de IHE, a entidade que os efectuou deve elaborar um relatório dos mesmos, bem como uma apreciação final sobre a obtenção vegetal.\n\n2 - Os elementos referidos no número anterior são enviados ao requerente para que este sobre eles se pronuncie no prazo de um mês."
+  },
+  "153652867": {
+   "fragment_id": "153774811",
+   "type": 11,
+   "heading": "Artigo 19.º — Parecer do conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Parecer do conselho técnico\n\nDecorrido o prazo referido no n.º 2 do artigo anterior, é o processo submetido a parecer do conselho técnico do CENARVE."
+  },
+  "153652868": {
+   "fragment_id": "153774812",
+   "type": 11,
+   "heading": "Artigo 20.º — Decisão do processo e sua publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Decisão do processo e sua publicação\n\n1 - Emitido o parecer do conselho técnico do CENARVE ou decorrido o prazo para tal fixado, é o processo submetido a decisão do director do CENARVE.\n\n2 - Caso seja concedido o direito de obtentor requerido, é emitido um título, designado «título de obtentor», do qual deve constar:\n\na) O seu número;\n\nb) A espécie a que pertence a obtenção vegetal objecto de direito de obtentor;\n\nc) A denominação atribuída à obtenção vegetal;\n\nd) O nome do titular do direito de obtentor e o nome do descobridor, caso não seja a mesma pessoa;\n\ne) A data de atribuição do título e a da cessação da protecção por ele concedida;\n\nf) A assinatura do director do CENARVE.\n\n3 - A atribuição do título de obtentor deve ser objecto de publicação no Boletim do CENARVE, da qual devem constar os elementos referidos no número anterior.\n\n4 - A recusa de atribuição de direito de obtentor deve ser igualmente objecto de publicação em que se discrimine as razões determinantes da mesma."
+  },
+  "153652869": {
+   "fragment_id": "153774813",
+   "type": 11,
+   "heading": "Artigo 21.º — Inscrição no Registo Nacional de Variedades Protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Inscrição no Registo Nacional de Variedades Protegidas\n\n1 - A atribuição de direito de obtentor é inscrita no Registo de Variedades Protegidas por ordem cronológica.\n\n2 - Do registo referido no número anterior devem constar:\n\na) Os elementos referidos no n.º 2 do artigo anterior;\n\nb) O número de ordem e as datas da apresentação e aceitação do pedido;\n\nc) A descrição da variedade vegetal resultante dos exames de identidade, homogeneidade e estabilidade;\n\nd) O nome e domicílio do representante, se o houver;\n\ne) A data de atribuição do título de obtentor e da sua publicação no Boletim do CENARVE;\n\nf) O pagamento das taxas que forem exigidas;\n\ng) A revogação e transmissão do direito de obtentor;\n\nh) As licenças concedidas;\n\ni) As acções judiciais relativas ao direito de obtentor em causa.\n\n3 - A alteração dos factos registados deve ser comunicada ao CENARVE para a devida inscrição."
+  },
+  "153652870": {
+   "fragment_id": "153774814",
+   "type": 1,
+   "heading": "Capítulo IV — Controlo posterior e taxas de manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Controlo posterior e taxas de manutenção"
+  },
+  "153652871": {
+   "fragment_id": "153774815",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo posterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo posterior\n\n1 - O CENARVE pode exigir ao titular de um direito de obtentor o fornecimento de material ou documentos adicionais para a realização de exames destinados a verificar se a obtenção vegetal protegida mantém as mesmas características que determinaram a atribuição direito em causa.\n\n2 - Para efeitos do controlo a que se refere o número anterior, o CENARVE pode inspeccionar os respectivos campos de manutenção.\n\n3 - O não cumprimento do disposto no n.º 1 ou a oposição injustificada às inspecções referidas no número anterior são fundamento para a revogação do direito de obtentor em causa."
+  },
+  "153652872": {
+   "fragment_id": "153774816",
+   "type": 11,
+   "heading": "Artigo 23.º — Taxas de manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Taxas de manutenção\n\nPor cada ano de duração da protecção, o titular do direito de obtentor terá de pagar a respectiva taxa de manutenção."
+  },
+  "153652873": {
+   "fragment_id": "153774817",
+   "type": 1,
+   "heading": "Capítulo V — Transmissão do direito de obtentor e licença de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Transmissão do direito de obtentor e licença de exploração"
+  },
+  "153652874": {
+   "fragment_id": "153774818",
+   "type": 11,
+   "heading": "Artigo 24.º — Transmissão dos direitos de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Transmissão dos direitos de obtentor\n\n1 - Os direitos de obtentor são transmissíveis por contrato ou por via sucessória.\n\n2 - Quem suceder nos direitos de obtentor nos termos do número anterior deve comunicar tal facto ao CENARVE no prazo de um mês e pagar a respectiva taxa."
+  },
+  "153779775": {
+   "fragment_id": "153774819",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrato de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contrato de licença\n\n1 - O titular de um direito de obtentor pode, por contrato gratuito ou oneroso, autorizar outrem a explorar a obtenção vegetal objecto do seu direito.\n\n2 - O contrato referido no número anterior deve ser comunicado ao CENARVE, a fim de ser inscrito no Registo de Variedades Protegidas.\n\n3 - Salvo disposição expressa em contrário, a celebração de um contrato não impede o obtentor de celebrar outros contratos ou de explorar directamente a obtenção vegetal em causa.\n\n4 - O titular de uma licença de exploração não pode transmitir ou autorizar outrem a explorar a obtenção vegetal em causa sem autorização expressa do obtentor.\n\n5 - A transmissão de licença deve ser comunicada ao CENARVE, a fim da sua inscrição no Registo de Variedades Protegidas."
+  },
+  "153779776": {
+   "fragment_id": "153774820",
+   "type": 11,
+   "heading": "Artigo 26.º — Licenças obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Licenças obrigatórias\n\n1 - A pedido dos interessados, o CENARVE pode determinar a atribuição de licenças obrigatórias, quando tal for considerado necessário à salvaguarda do interesse público, no que diz respeito à difusão rápida e generalizada da variedade vegetal em causa.\n\n2 - Ao atribuir uma licença obrigatória, o CENARVE determina a justa contrapartida económica ao titular do direito de obtentor após audição deste e parecer do conselho técnico.\n\n3 - A atribuição de uma licença obrigatória depende:\n\na) De os interessados serem detentores dos meios técnicos e económicos necessários à correcta e eficaz exploração da obtenção em causa;\n\nb) De o titular do direito de obtentor se ter injustificadamente recusado a celebrar contrato de licença com o interessado;\n\nc) De o interessado oferecer garantias de satisfazer as contrapartidas referidas no n.º 2;\n\nd) Se houver decorrido o prazo de três anos desde a data de atribuição do direito de obtentor em causa;\n\ne) Do pagamento de taxa estabelecida para o efeito.\n\n4 - A licença obrigatória tem um prazo de eficácia entre dois e quatro anos, renovável sempre que se mantenham as condições que determinarem a sua atribuição.\n\n5 - A licença obrigatória é revogável com fundamento no não cumprimento por parte do seu titular das obrigações a que está vinculado."
+  },
+  "153779777": {
+   "fragment_id": "153774821",
+   "type": 1,
+   "heading": "Capítulo VI — Caducidade e revogação dos direitos de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Caducidade e revogação dos direitos de obtentor"
+  },
+  "153779778": {
+   "fragment_id": "153774822",
+   "type": 11,
+   "heading": "Artigo 27.º — Caducidade do direito de obtentor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Caducidade do direito de obtentor\n\nO direito de obtentor caduca com o decurso dos prazos referidos no artigo 6.º"
+  },
+  "153779779": {
+   "fragment_id": "153774823",
+   "type": 11,
+   "heading": "Artigo 28.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Revogação\n\n1 - Os direitos de obtentor podem ser revogados com os seguintes fundamentos:\n\na) Falta de pagamento das taxas devidas;\n\nb) Quando a variedade vegetal deixe de apresentar as características que determinaram a sua atribuição;\n\nc) A solicitação do seu titular;\n\nd) Quando não for fornecido por parte do detentor o material exigido pelo CENARVE para comprovação da manutenção das características da obtenção vegetal em causa;\n\ne) Quando o titular do direito se oponha às inspecções referidas no n.º 2 do artigo 19.º;\n\nf) Quando se demonstre que o detentor do direito não é o seu legítimo proprietário.\n\n2 - No caso previsto na alínea f) do número anterior, e a pedido do legítimo proprietário, o direito de obtentor pode ser-lhe atribuído sem necessidade de novo processo."
+  },
+  "153779780": {
+   "fragment_id": "153774824",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "153779781": {
+   "fragment_id": "153774825",
+   "type": 11,
+   "heading": "Artigo 29.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Taxas\n\n1 - Pelos actos previstos no presente Regulamento são devidas as seguintes taxas, calculadas por sistema pontual:\n\nPontos\n\na) Pedido de atribuição do direito de obtentor (artigo 9.º) ... 12500\n\nb) Reivindicação do benefício de prioridade (artigo 11.º) ... 4500\n\nc) Oposição à atribuição do direito de obtentor (artigo 15.º) ... 4500\n\nd) Exames de distinção, homogeneidade e estabilidade realizados pelo CENARVE (artigo 17.º) ... 25000 a 41500\n\ne) Exames de distinção, homogeneidade e estabilidade realizados por outras entidades (artigo 17.º) ... Variável\n\nf) Atribuição do direito de obtentor (artigo 20.º) ... 17500\n\ng) Manutenção do direito de obtentor (artigo 23.º):\n\n1.º ano ... 8000\n\n2.º ano ... 20000\n\n3.º ano ... 35000\n\n4.º ano ... 50000\n\n5.º ano e seguintes ... 70000\n\nh) Inscrição da transmissão do direito de obtentor (artigo 24.º) ... 8000\n\ni) Inscrição de contrato de licença (artigo 25.º) ... 7500\n\nj) Outras alterações ou anotações ao registo ... 1500\n\n2 - A taxa prevista na alínea c) do número anterior será devolvida no caso de a oposição ser considerada procedente.\n\n3 - A taxa prevista nas alíneas d) e e) do n.º 1 é determinada pelo CENARVE de acordo com a complexidade e onerosidade dos exames efectuados.\n\n4 - O valor de cada ponto é de 1$50.\n\n> Nota: [Portaria n.º 984/2008 - Diário da República n.º 169/2008, Série I de 2008-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/984-2008-453500) Ao abrigo do disposto no artigo 8.º do Decreto-Lei n.º 213/90, de 28 de Junho, que estabelece o regime jurídico do direito de obtentor de variedades vegetais, são aprovadas as seguintes taxas aplicáveis ao Regulamento sobre a Protecção das Obtenções Vegetais, aprovado pela Portaria n.º 940/90, de 4 de Outubro, na redacção que lhe foi dada pelas Portaria n.os 493/2001, de 11 de Maio, 78/2002, de 22 de Janeiro, e 1418/2004, de 22 de Novembro: (ver documento original)"
+  },
+  "153779785": {
+   "fragment_id": "153774798",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies protegidas",
+   "in_force_from": "1992-01-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies protegidas\n\nAs espécies protegidas sobre cujas variedades podem incidir direitos de obtentor são as seguintes:\n\na) Cereais: arroz, aveia, centeio, cevada, milho, trigo e triticale;\n\nb) Oleaginosas: girassol e soja;\n\nc) Forragens: azevéns, ervilhaca, tremoceira, trevos, luzerna e festucas;\n\nd) Hortícolas: tomate, pimento, feijão, fava, cebola, nabo e melão;\n\ne) Pomóideas: macieira e pereira;\n\nf) Prunóideas: pessegueiro, ameixeira, damasqueiro, amendoeira e cerejeira;\n\ng) Videira;\n\nh) Morangueiro;\n\ni) Batata;\n\nj) Roseira;\n\nl) Crisântemo.\n\n> Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+  },
+  "153779789": {
+   "fragment_id": "153774798",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies protegidas",
+   "in_force_from": "1993-04-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08",
+    "Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies protegidas\n\nOs géneros e espécies protegidos sobre cujas variedades podem incidir direitos de obtentor são os seguintes:\n\na) Cereais: arroz, aveia, centeio, cevada, milho, trigo e triticale;\n\nb) Oleaginosas: girassol e soja;\n\nc) Forragens: azevém, ervilhaca, tremoceiro, trevo, luzerna e festuca;\n\nd) Hortícolas: tomate, pimento, feijão, fava, cebola, nabo e melão;\n\ne) Pomóideas: macieira e pereira;\n\nf) Prunóideas: pessegueiro, ameixeira, damasqueiro, amendoeira e cerejeira;\n\ng) Pequenos frutos: framboesa, groselha, amora e mirtilo;\n\nh) Videira;\n\ni) Anona;\n\nj) Morangueiro;\n\nl) Batata;\n\nm) Ornamentais: roseira, craveiro, crisântemo, leucospermo, leucadendro e prótea.\n\n> Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08\n\n> Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+  },
+  "153779791": {
+   "fragment_id": "153774798",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies protegidas",
+   "in_force_from": "1996-10-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 527/96 - Diário da República n.º 228/1996, Série I-B de 1996-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/527-1996-212802), em vigor a partir de 1996-10-06",
+    "Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08",
+    "Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies protegidas\n\nOs géneros e espécies protegidos sobre cujas variedades podem incidir direitos de obtentor são os seguintes:\n\na) Cereais: arroz, aveia, centeio, cevada, milho, trigo, triticale e sorgo;\n\nb) Oleaginosas: girassol, soja e linho;\n\nc) Fibrosas: algodão, cânhamo, cártamo, colza e linho;\n\nd) Forragens: azevém, ervilhaca, tremoceiro, trevo, luzerna, festuca, panasco, fava, grão-de-bico, beterraba-forrageira, facélia e sorgo-forrageiro;\n\ne) Hortícolas: tomate, pimento, feijão, fava, cebola, nabo, melão, acelga, aipo, alface, alho-porro, beringela, beterraba de mesa, cenoura, cerefólio, couve-flor, couve-frisada, couve-lombarda, couve-portuguesa, couve-rábano, couve-repolho, ervilha, espinafre, funcho, pepino, rabanete, alcachofra, salsa e lentilha;\n\nf) Pomóideas: macieira e pereira;\n\ng) Prunóideas: pessegueiro, ameixieira, damasqueiro, amendoeira e cerejeira;\n\nh) Citrinos;\n\ni) Pequenos frutos: framboesa, groselha, amora e mirtilo;\n\nj) Tropicais e subtropicais: anona, bananeira, ananás, maracujá, manga, pêra-abacate e goiaba;\n\nk) Ornamentais: roseira, craveiro, crisântemo, leucospermo, leucadendro e prótea;\n\nl) Morangueiro;\n\nm) Batata;\n\nn) Beterraba-sacarina;\n\no) Videira;\n\np) Castanheiro;\n\nq) Nogueira.\n\n> Alterado pelo/a [Portaria n.º 527/96 - Diário da República n.º 228/1996, Série I-B de 1996-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/527-1996-212802), em vigor a partir de 1996-10-06\n\n> Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08\n\n> Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+  },
+  "153779793": {
+   "fragment_id": "153774798",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies protegidas",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 493/2001 - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/portaria/493-2001-314196), em vigor a partir de 2001-05-16",
+    "Alterado pelo/a [Portaria n.º 527/96 - Diário da República n.º 228/1996, Série I-B de 1996-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/527-1996-212802), em vigor a partir de 1996-10-06",
+    "Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08",
+    "Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies protegidas\n\nOs géneros e espécies protegidos sobre cujas variedades podem incidir direitos de obtentor são os seguintes:\n\na) Cereais: arroz, aveia, centeio, cevada, milho, trigo, triticale e sorgo;\n\nb) Oleaginosas: girassol, soja e linho;\n\nc) Fibrosas: algodão, cânhamo, cártamo, colza e linho;\n\nd) Forragens: azevém, ervilhaca, tremoceiro, trevo, luzerna, festuca, panasco, fava, grão-de-bico, beterraba forrageira, facélia e sorgo forrageiro;\n\ne) Hortícolas: tomate, pimento, feijão, fava, cebola, nabo, melão, acelga, aipo, alface, alho-porro, batata-doce, beringela, beterraba de mesa, cenoura, cerefólio, couve-flor, couve-frisada, couve-lombarda, couve-portuguesa, couve-rábano, couve-repolho, ervilha, espinafre, funcho, pepino, rabanete, alcachofra, salsa e lentilha;\n\nf) Pomóideas: macieira, pereira, marmeleiro e nespereira;\n\ng) Prunóideas: pessegueiro, ameixeira, damasqueiro, amendoeira e cerejeira;\n\nh) Citrinos;\n\ni) Pequenos frutos: framboesa, groselha, amora e mirtilo;\n\nj) Tropicais e subtropicais: anona, bananeira, ananás, maracujá, manga, pêra-abacate e goiaba;\n\nk) Ornamentais: roseira, craveiro, crisântemo, gerbera, ornitogalo, orquídeas, leucospermo, leucadendro e prótea;\n\nl) Morangueiro;\n\nm) Batata;\n\nn) Beterraba sacarina;\n\no) Videira;\n\np) Castanheiro;\n\nq) Nogueira;\n\nr) Alfarrobeira;\n\ns) Romãzeira;\n\nt) Figueira.\n\n> Alterado pelo/a [Portaria n.º 493/2001 - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/portaria/493-2001-314196), em vigor a partir de 2001-05-16\n\n> Alterado pelo/a [Portaria n.º 527/96 - Diário da República n.º 228/1996, Série I-B de 1996-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/527-1996-212802), em vigor a partir de 1996-10-06\n\n> Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08\n\n> Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+  },
+  "153779795": {
+   "fragment_id": "153774825",
+   "type": 11,
+   "heading": "Artigo 29.º — Taxas",
+   "in_force_from": "2002-01-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 78/2002 - Diário da República n.º 18/2002, Série I-B de 2002-01-22](https://diariodarepublica.pt/dr/detalhe/portaria/78-2002-235298), em vigor a partir de 2002-01-27"
+   ],
+   "markdown": "###### Artigo 29.º — Taxas\n\n1 - Pelos actos previstos no presente Regulamento são devidas as seguintes taxas:\n\n(ver quadro no documento original)\n\n2 - A taxa prevista na alínea c) do número anterior será devolvida no caso de a oposição ser considerada procedente.\n\n> Alterado pelo/a [Portaria n.º 78/2002 - Diário da República n.º 18/2002, Série I-B de 2002-01-22](https://diariodarepublica.pt/dr/detalhe/portaria/78-2002-235298), em vigor a partir de 2002-01-27"
+  },
+  "153779800": {
+   "fragment_id": "153774798",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies protegidas",
+   "in_force_from": "2004-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1418/2004 - Diário da República n.º 273/2004, Série I-B de 2004-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/1418-2004-534792), em vigor a partir de 2004-11-25",
+    "Alterado pelo/a [Portaria n.º 493/2001 - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/portaria/493-2001-314196), em vigor a partir de 2001-05-16",
+    "Alterado pelo/a [Portaria n.º 527/96 - Diário da República n.º 228/1996, Série I-B de 1996-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/527-1996-212802), em vigor a partir de 1996-10-06",
+    "Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08",
+    "Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies protegidas\n\nOs direitos do obtentor podem incidir sobre todas as variedades de espécies vegetais.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1418/2004 - Diário da República n.º 273/2004, Série I-B de 2004-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/1418-2004-534792), em vigor a partir de 2004-11-25\n\n> Alterado pelo/a [Portaria n.º 493/2001 - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/portaria/493-2001-314196), em vigor a partir de 2001-05-16\n\n> Alterado pelo/a [Portaria n.º 527/96 - Diário da República n.º 228/1996, Série I-B de 1996-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/527-1996-212802), em vigor a partir de 1996-10-06\n\n> Alterado pelo/a [Portaria n.º 379/93 - Diário da República n.º 79/1993, Série I-B de 1993-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/379-1993-675213), em vigor a partir de 1993-04-08\n\n> Alterado pelo/a [Portaria n.º 15/92 - Diário da República n.º 10/1992, Série I-B de 1992-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/15-1992-138309), em vigor a partir de 1992-01-18"
+  },
+  "153779801": {
+   "fragment_id": "153774825",
+   "type": 11,
+   "heading": "Artigo 29.º — Taxas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 984/2008 - Diário da República n.º 169/2008, Série I de 2008-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/984-2008-453500), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a [Portaria n.º 78/2002 - Diário da República n.º 18/2002, Série I-B de 2002-01-22](https://diariodarepublica.pt/dr/detalhe/portaria/78-2002-235298), em vigor a partir de 2002-01-27"
+   ],
+   "markdown": "###### Artigo 29.º — Taxas\n\n1 - Pelos actos previstos no presente Regulamento são devidas as seguintes taxas:\n\n(ver quadro no documento original)\n\n2 - A taxa prevista na alínea c) do número anterior será devolvida no caso de a oposição ser considerada procedente.\n\n> Nota: [Portaria n.º 984/2008 - Diário da República n.º 169/2008, Série I de 2008-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/984-2008-453500) Ao abrigo do disposto no artigo 8.º do Decreto-Lei n.º 213/90, de 28 de Junho, que estabelece o regime jurídico do direito de obtentor de variedades vegetais, são aprovadas as seguintes taxas aplicáveis ao Regulamento sobre a Protecção das Obtenções Vegetais, aprovado pela Portaria n.º 940/90, de 4 de Outubro, na redacção que lhe foi dada pelas Portaria n.os 493/2001, de 11 de Maio, 78/2002, de 22 de Janeiro, e 1418/2004, de 22 de Novembro: (ver documento original)\n\n> Revogado pelo/a [Portaria n.º 984/2008 - Diário da República n.º 169/2008, Série I de 2008-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/984-2008-453500), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a [Portaria n.º 78/2002 - Diário da República n.º 18/2002, Série I-B de 2002-01-22](https://diariodarepublica.pt/dr/detalhe/portaria/78-2002-235298), em vigor a partir de 2002-01-27"
+  }
+ }
+}

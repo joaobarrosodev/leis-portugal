@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007D0589:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0589-20130101",
+ "dre_path": null,
+ "source_lastmod": "2013-01-01",
+ "versions": [
+  {
+   "date": "2007-08-31",
+   "future": false,
+   "celex": "32007D0589",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "85137820173ec7e6",
+    "4dd2349553f23abc",
+    "1b1a16c28fa2c977",
+    "bd8aa9c4bb5a592b",
+    "2dbbc7120c9f28c1",
+    "a20a1e64e56161ca"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "02007D0589-20130101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a30cdd0a1b321629"
+   ]
+  }
+ ],
+ "fragments": {
+  "85137820173ec7e6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Julho de 2007\n\nque estabelece orientações para a monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa, nos termos da Directiva 2003/87/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(2007) 3416]\n\n(Texto relevante para efeitos do EEE)\n\n(2007/589/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 2003, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Directiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntr1-L_2007229PT.01000101-E0001), nomeadamente o n.º 1 do artigo 14.º,\n\nConsiderando o seguinte:\n\n(1) A monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa, de uma forma completa, coerente, transparente e exacta e em conformidade com as orientações estabelecidas na presente decisão, são fundamentais para o funcionamento do regime de comércio de licenças de emissão de gases com efeito de estufa criado pela Directiva 2003/87/CE.\n\n(2) Durante o primeiro ciclo de aplicação do regime de comércio de licenças de emissão de gases com efeito de estufa, abrangendo o ano de 2005, os operadores, verificadores e autoridades competentes dos Estados-Membros adquiriram uma primeira experiência na monitorização, verificação e comunicação de informações ao abrigo da Decisão 2004/156/CE da Comissão, de 29 de Janeiro de 2004, que estabelece orientações para a monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa, nos termos da Directiva 2003/87/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntr2-L_2007229PT.01000101-E0002).\n\n(3) Na sequência da revisão da Decisão 2004/156/CE, tornou-se evidente que as orientações estabelecidas nessa decisão deveriam ser objecto de várias alterações a fim de as tornar mais claras e eficazes em termos de custos. Devido ao número substancial de alterações, é conveniente proceder à substituição da Decisão 2004/156/CE.\n\n(4) É oportuno facilitar a aplicação das orientações relativas a instalações com emissões médias comunicadas e verificadas inferiores a 25 000 toneladas de CO2 fóssil por ano durante o período de comércio de emissões precedente, bem como proceder a uma maior harmonização e à clarificação de questões técnicas.\n\n(5) Quando aplicável, foi tida em conta a orientação relativa à monitorização dos gases com efeito de estufa desenvolvida pelo Painel Intergovernamental sobre as Alterações Climáticas (IPCC), pela Organização Internacional de Normalização (ISO), pela Iniciativa do Protocolo sobre Gases com Efeito de Estufa do Conselho Empresarial Mundial para o Desenvolvimento Sustentável (*World Business Council on Sustainable Development* - WBCSD) e pelo Instituto dos Recursos Mundiais (*World Resources Institute* - WRI).\n\n(6) As informações apresentadas pelos operadores de acordo com a presente decisão deveriam facilitar que as emissões comunicadas ao abrigo da Directiva 2003/87/CE sejam atribuídas em cruzamento com as emissões comunicadas ao Registo Europeu das Emissões e Transferências de Poluentes (EPRTR) estabelecido pelo Regulamento (CE) n.º 166/2006 do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006, relativo à criação do Registo Europeu das Emissões e Transferências de Poluentes e que altera as Directivas 91/689/CEE e 96/61/CE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntr3-L_2007229PT.01000101-E0003), bem como com as emissões inscritas em inventários nacionais, utilizando as diferentes categorias de fontes do Painel Internacional sobre as Alterações Climáticas (IPCC).\n\n(7) Melhorando a relação custo/eficácia global das metodologias de monitorização, sem compromisso da exactidão dos dados comunicados relativos às emissões e da integridade global dos sistemas de monitorização, os operadores e as autoridades competentes deveriam, em geral, ser capazes de cumprir as suas obrigações ao abrigo da Directiva 2003/87/CE com custos significativamente reduzidos. Tal aplica-se em especial às instalações que utilizam biocombustíveis puros e às instalações com baixo nível de emissões.\n\n(8) Os requisitos de comunicação de informações foram alinhados com os do artigo 21.º da Directiva 2003/87/CE.\n\n(9) Os requisitos relativos ao plano de monitorização foram clarificados e tornados mais rigorosos a fim de reflectir melhor a sua importância no que diz respeito à garantia de uma boa comunicação de informações e de uma sólida verificação dos resultados.\n\n(10) O quadro 1 especifica os requisitos mínimos estabelecidos no anexo I e deveria ser de utilização permanente. As diferentes entradas deste quadro foram revistas com base em informações recolhidas pelos Estados-Membros, pelos operadores e pelos verificadores, tendo em conta as alterações introduzidas nas disposições relativas às emissões de combustão das actividades enumeradas no anexo I à Directiva 2003/87/CE e nas orientações específicas de actividade, pelo que deveriam agora reflectir um equilíbrio adequado entre as exigências em matéria de custo/eficácia e de precisão.\n\n(11) Foi introduzida uma abordagem de recurso com limiares de incerteza mínimos, a fim de proporcionar uma via alternativa para a monitorização das emissões de instalações muito específicas ou complexas, isentando essas instalações da aplicação da abordagem baseada em níveis e permitindo a elaboração de uma metodologia de monitorização totalmente adaptada a cada situação.\n\n(12) As disposições referentes ao CO2 transferido e inerente entrado ou saído das instalações abrangidas pela Directiva 2003/87/CE sob a forma de substâncias ou combustíveis puros foram clarificadas e tornadas mais rigorosas, a fim de melhorar a coerência com os requisitos de comunicação de informações dos Estados-Membros no âmbito do Protocolo de Quioto à Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas.\n\n(13) A lista de factores de emissão de referência foi alargada e actualizada utilizando informações das Orientações de 2006 do Painel Intergovernamental sobre Alterações Climáticas (IPCC), seguidamente designadas «Orientações IPCC». A lista foi também alargada com valores de referência para valores caloríficos líquidos relativamente a uma vasta gama de combustíveis com base nas Orientações IPCC.\n\n(14) A secção relativa ao controlo e verificação foi reexaminada e revista a fim de melhorar a coerência conceptual e linguística com as orientações elaboradas pela Cooperação Europeia para Acreditação (EA), pelo Comité Europeu de Normalização (CEN) e pela Organização Internacional de Normalização (ISO).\n\n(15) No que respeita à determinação das propriedades dos combustíveis e materiais, foram clarificados os requisitos para a utilização de resultados de laboratórios de análises e de analisadores de gases em linha, tomando em consideração a experiência adquirida na aplicação dos respectivos requisitos nos Estados-Membros durante o primeiro período de comércio de emissões. Foram também estabelecidos requisitos adicionais para os métodos de amostragem e as frequências.\n\n(16) A fim de melhorar a relação custo/eficácia no que respeita a instalações com emissões anuais inferiores a 25 000 toneladas de CO2 fóssil, foram acrescentadas determinadas isenções aos requisitos específicos aplicáveis a instalações em geral.\n\n(17) A utilização de factores de oxidação no âmbito da metodologia de monitorização passou a ser opcional no que respeita a processos de combustão. Foi introduzida uma abordagem de balanço de massas para instalações que produzem negro de fumo e para terminais de tratamento de gases. Os requisitos relativos à incerteza na determinação de emissões da queima de gases residuais foram reduzidos, em reflexo das condições técnicas específicas dessas instalações.\n\n(18) A abordagem do balanço de massas não deveria fazer parte das orientações específicas da actividade relativamente às refinarias de óleos minerais enumeradas no anexo I da Directiva 2003/87/CE devido aos problemas comunicados durante o primeiro período de informação quanto ao nível de precisão possível das medições. Procedeu-se à revisão das indicações relativas a emissões ligadas à regeneração por *cracking* catalítico, outras formas de regeneração catalítica e *flexi-cokers,* a fim de contemplar as condições técnicas específicas dessas instalações.\n\n(19) O dispositivo e os limiares para a aplicação da abordagem de balanço de massas foram tornados mais rigorosos no que diz respeito a instalações produtoras de coque, sínter, ferro e aço. Foram também acrescentados os factores de emissão constantes das Orientações IPCC.\n\n(20) A terminologia e as metodologias relativas a instalações produtoras de clínquer e instalações produtoras de cal foram alinhadas com as práticas comerciais dos sectores abrangidos pela presente decisão. A utilização dos dados da actividade, do factor de emissão e do factor de conversão foi tornada coerente com as outras actividades abrangidas pela Directiva 2003/87/CE.\n\n(21) Foram estabelecidos factores de emissão adicionais no anexo IX, aplicáveis a instalações da indústria vidreira.\n\n(22) Os requisitos em matéria de incerteza relativos a emissões da calcinação de matérias-primas de instalações da indústria cerâmica foram tornados menos rigorosos, tendo em maior atenção as situações em que a argila provém directamente de pedreiras. O método baseado exclusivamente na produção deveria deixar de ser aplicado, devido à sua aplicabilidade limitada, conforme se verificou durante o primeiro ciclo de informação.\n\n(23) Deveriam ser elaboradas orientações específicas para a determinação de emissões de gases com efeito de estufa por sistemas de medição contínua de emissões, com vista a facilitar uma utilização coerente de abordagens de monitorização baseadas em medições consentâneas com os artigos 14.º e 24.º e com o anexo IV da Directiva 2003/87/CE.\n\n(24) A presente decisão não prevê o reconhecimento de actividades relacionadas com a captação e a armazenagem de carbono, o qual dependerá de uma alteração da Directiva 2003/87/CE ou da inclusão dessas actividades em aplicação do artigo 24.º da mesma directiva.\n\n(25) As orientações constantes dos anexos à presente decisão estabelecem os critérios pormenorizados revistos que devem ser aplicados à monitorização e comunicação de informações sobre emissões de gases com efeito de estufa resultantes das actividades enumeradas no anexo I da Directiva 2003/87/CE. Esses critérios são especificados relativamente às referidas actividades, com base nos princípios de monitorização e comunicação de informações estabelecidos no anexo IV da directiva, que deveria ser aplicada a partir de 1 de Janeiro de 2008.\n\n(26) Nos termos do artigo 15.º da Directiva 2003/87/CE, os Estados-Membros devem assegurar que os relatórios apresentados pelos operadores sejam verificados em função dos critérios estabelecidos no anexo V da mesma.\n\n(27) Está prevista a realização de uma nova revisão das orientações estabelecidas na presente decisão no prazo de dois anos a contar da sua data de aplicabilidade.\n\n(28) As medidas previstas na presente decisão estão em conformidade com o parecer do comité instituído pelo artigo 8.º da Decisão 93/389/CEE [([^4])](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntr4-L_2007229PT.01000101-E0004),\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "4dd2349553f23abc": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs orientações para a monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa resultantes das actividades enumeradas no anexo I da Directiva 2003/87/CE figuram nos anexos da presente decisão.\n\nEssas orientações baseiam-se nos princípios constantes do anexo IV da referida directiva."
+  },
+  "1b1a16c28fa2c977": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Decisão 2004/156/CE é revogada na data indicada no artigo 3.º"
+  },
+  "bd8aa9c4bb5a592b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente decisão é aplicável a partir de 1 de Janeiro de 2008."
+  },
+  "2dbbc7120c9f28c1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 18 de Julho de 2007.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "a20a1e64e56161ca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntc1-L_2007229PT.01000101-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/101/CE ([JO L 338 de 13.11.2004, p. 18](http://publications.europa.eu/resource/oj/JOL_2004_338_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntc2-L_2007229PT.01000101-E0002) [JO L 59 de 26.2.2004, p. 18](http://publications.europa.eu/resource/oj/JOL_2004_059_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntc3-L_2007229PT.01000101-E0003) [JO L 33 de 4.2.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_033_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018.04/DOC_1#ntc4-L_2007229PT.01000101-E0004) [JO L 167 de 9.7.1993, p. 31](http://publications.europa.eu/resource/oj/JOL_1993_167_R_TOC). Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC))."
+  },
+  "a30cdd0a1b321629": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2007D0589 — PT — 01.01.2013 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32007D0589) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32007D0589) [de 18 de Julho de 2007](http://publications.europa.eu/resource/celex/32007D0589) [que estabelece orientações para a monitorização e a comunicação de informações relativas às emissões de gases com efeito de estufa, nos termos da Directiva 2003/87/CE do Parlamento Europeu e do Conselho](http://publications.europa.eu/resource/celex/32007D0589) [[notificada com o número C(2007) 3416]](http://publications.europa.eu/resource/celex/32007D0589) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32007D0589) [(2007/589/CE)](http://publications.europa.eu/resource/celex/32007D0589) (JO L 229, 31.8.2007, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 601/2012 da Comissão de 21 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0601) — L 181 — 30 — 12.7.2012"
+  }
+ }
+}

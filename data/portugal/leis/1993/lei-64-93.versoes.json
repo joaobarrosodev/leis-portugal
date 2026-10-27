@@ -1,0 +1,595 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632407:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1993-67055488",
+ "dre_path": "/dr/detalhe/lei/64-1993-632407",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123628620",
+    "67387776",
+    "67387777",
+    "67387778",
+    "67387779",
+    "67387780",
+    "67387781",
+    "67387782",
+    "67387783",
+    "67387784",
+    "67387785",
+    "67387786",
+    "67387787",
+    "67387788",
+    "67387789",
+    "67387790"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:233945:por",
+     "title": "Lei n.º 39-B/94",
+     "published": "1994-12-27",
+     "dre_path": "/dr/detalhe/lei/39-b-1994-233945",
+     "date": "1994-01-01"
+    }
+   ]
+  },
+  {
+   "date": "1995-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:434626:por",
+     "title": "Lei n.º 28/95",
+     "published": "1995-08-18",
+     "dre_path": "/dr/detalhe/lei/28-1995-434626"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67387775",
+    "67379141",
+    "67379142",
+    "67380361",
+    "67379143",
+    "67399186",
+    "67399185",
+    "67387782",
+    "67391090",
+    "67399188",
+    "67391092",
+    "67391093",
+    "67391094",
+    "67391095",
+    "67391096",
+    "67391097",
+    "67391098"
+   ]
+  },
+  {
+   "date": "1996-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241395:por",
+     "title": "Lei n.º 42/96",
+     "published": "1996-08-31",
+     "dre_path": "/dr/detalhe/lei/42-1996-241395"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "67387775",
+    "67379141",
+    "67379142",
+    "67399217",
+    "67379143",
+    "67399186",
+    "67399185",
+    "67387782",
+    "67391090",
+    "67399188",
+    "67391092",
+    "67399218",
+    "67399225",
+    "67399220",
+    "67399221",
+    "67399226",
+    "67399227",
+    "67399224"
+   ]
+  },
+  {
+   "date": "2007-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520259:por",
+     "title": "Decreto-Lei n.º 71/2007",
+     "published": "2007-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/71-2007-520259"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "67387775",
+    "67379141",
+    "67379142",
+    "67403684",
+    "67399229",
+    "67399186",
+    "67399228",
+    "67403683",
+    "67391090",
+    "67399188",
+    "67391092",
+    "67399218",
+    "67399225",
+    "67399220",
+    "67399221",
+    "67399226",
+    "67399227",
+    "67399224"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146220:por",
+     "title": "Lei Orgânica n.º 1/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei-organica/1-2011-146220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67387775",
+    "67403692",
+    "67379142",
+    "67403684",
+    "67399229",
+    "67399186",
+    "67399228",
+    "67403683",
+    "67391090",
+    "67399188",
+    "67391092",
+    "67399218",
+    "67399225",
+    "67399220",
+    "67399221",
+    "67399226",
+    "67399227",
+    "67399224"
+   ]
+  }
+ ],
+ "fragments": {
+  "123628620": {
+   "fragment_id": "67055489",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 64/93\n\nde 26 de Agosto\n\nRegime jurídico de incompatibilidades e impedimentos dos titulares de cargos políticos e altos cargos públicos\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea l), e 169.º, n.º 3, da Constituição, o seguinte:\n\n> Nota: [Artigo 26.º, Lei n.º 52/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2019-123610180) A revogação operada pela Lei n.º 52/2019, de 31 de julho, entra em vigor no primeiro dia da XIV Legislatura da Assembleia da República.\n\n> Nota: [Artigo 24.º, Lei n.º 52/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2019-123610180) Mantêm-se em vigor, até à eventual alteração dos Estatutos Político-Administrativos das Regiões Autónomas, para os titulares de cargos referidos na alínea b) do n.º 2 do artigo 1.º as disposições que lhe sejam aplicáveis.\n\n> Nota: [Artigo 24.º, Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541) A Lei nº 30/2008, de 10 de julho, que aprovou o Estatuto do Representante da República nas Regiões Autónomas dos Açores e da Madeira, revogou, a partir de 01.08.2008, as disposições da presente lei, na parte respeitante aos Ministros da República."
+  },
+  "67387776": {
+   "fragment_id": "67055490",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei estabelece o regime jurídico de incompatibilidades e impedimentos de titulares de cargos políticos e altos cargos públicos.\n\n2 - O regime de incompatibilidades e impedimentos aplicável aos deputados à Assembleia da República é regulado por lei especial.\n\n3 - Os deputados ao Parlamento Europeu estão submetidos ao mesmo regime de incompatibilidades e impedimentos dos deputados à Assembleia da República.\n\n> Nota: [Artigo 24.º, Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541) A Lei nº 30/2008, de 10 de julho, que aprovou o Estatuto do Representante da República nas Regiões Autónomas dos Açores e da Madeira, revogou, a partir de 01.08.2008, as disposições da presente lei, na parte respeitante aos Ministros da República."
+  },
+  "67387777": {
+   "fragment_id": "67055491",
+   "type": 11,
+   "heading": "Artigo 2.º — Titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Titulares de cargos políticos\n\nPara efeitos da presente lei, são considerados titulares de cargos políticos:\n\na) O Presidente da República;\n\nb) O Primeiro-Ministro e mais membros do Governo;\n\nc) Os Ministros da República para as Regiões Autónomas;\n\nd) O membro do Governo Regional;\n\ne) O Provedor de Justiça;\n\nf) O Governador e o Secretário-Adjunto do Governo de Macau;\n\ng) O governador e o vice-governador civil;\n\nh) O presidente e o vereador a tempo inteiro das câmaras municipais."
+  },
+  "67387778": {
+   "fragment_id": "67055492",
+   "type": 11,
+   "heading": "Artigo 3.º — Titulares de altos cargos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Titulares de altos cargos públicos\n\nPara efeitos da presente lei, são considerados titulares de altos cargos públicos ou equiparados:\n\na) O presidente de instituto público, fundação pública, estabelecimento público, bem como de empresa pública e de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo da sua designação;\n\nb) O gestor público, membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, designado por entidade pública, e vogal da direcção de instituto público, nas modalidades referidas na alínea anterior, qualquer que seja a sua titularidade, desde que exerçam funções executivas;\n\nc) O director-geral e subdirector-geral ou o titular de cargo cujo estatuto seja àqueles equiparado em razão da natureza das funções;\n\nd) O membro em regime de permanência e a tempo inteiro da entidade pública independente prevista na Constituição ou na lei."
+  },
+  "67387779": {
+   "fragment_id": "67055493",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\n1 - Os titulares de cargos políticos exercem as suas funções em regime de exclusividade.\n\n2 - A titularidade de cargos enumerados no número anterior é incompatível com quaisquer outras funções profissionais, remuneradas ou não, bem como com a integração em corpos sociais de empresas públicas ou privadas e demais pessoas colectivas, excepto as que prossigam fins não lucrativos.\n\n3 - Exceptuam-se do disposto no número anterior as funções ou actividades derivadas do cargo e as que são exercidas por inerência."
+  },
+  "67387780": {
+   "fragment_id": "67055494",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime aplicável após cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime aplicável após cessação de funções\n\nOs titulares de cargos políticos não podem exercer pelo período de um ano, contado da data da cessação das respectivas funções, cargos em empresas privadas que prossigam actividades no sector por eles directamente tutelado, e desde que, no período do respectivo mandato:\n\na) Tenham sido objecto de operações de privatização; ou\n\nb) Tenham beneficiado de incentivos financeiros ou de sistemas de incentivos e de benefícios fiscais de natureza contratual."
+  },
+  "67387781": {
+   "fragment_id": "67055495",
+   "type": 11,
+   "heading": "Artigo 6.º — Autarcas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autarcas\n\n1 - Os presidentes e vereadores de câmaras municipais, mesmo em regime de permanência, a tempo interio ou parcial, podem exercer outras actividades, devendo comunicá-las, quando de exercício continuado, quanto à sua natureza e identificação, ao Tribunal Constitucional e à assembleia municipal, na primeira reunião desta a seguir ao início do mandato ou previamente à entrada em funções nas actividades não autárquicas.\n\n2 - O disposto no número anterior não revoga os regimes de incompatibilidades e impedimentos previstos noutras leis para o exercício de cargos ou actividades profissionais.\n\n> Nota: [Lei n.º 12/98 - Diário da República n.º 46/1998, Série I-A de 1998-02-24](https://diariodarepublica.pt/dr/detalhe/lei/12-1998-210977) A redacção conferida pela Lei nº 12/98, de 24 de fevereiro, repristinou a redacção original do artigo 6.º"
+  },
+  "67387782": {
+   "fragment_id": "67055496",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime geral e excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime geral e excepções\n\n1 - A titularidade de altos cargos públicos implica a incompatibilidade com quaisquer outras funções remuneradas.\n\n2 - As actividades de docência no ensino superior e de investigação não são incompatíveis com a titularidade de altos cargos públicos, bem como as inerências a título gratuito.\n\n3 - Os titulares de altos cargos públicos em sociedades anónimas de capitais maioritária ou exclusivamente públicos podem requerer que lhes seja levantada a incompatibilidade, solicitando autorização para o exercício de actividades especificamente discriminadas, às entidades que os designaram.\n\n4 - As situações previstas no número anterior devem ser fundamentadamente autorizadas pela assembleia geral da empresa, devendo a acta, nessa parte, ser publicada na 2.ª série do Diário da República."
+  },
+  "67387783": {
+   "fragment_id": "67055497",
+   "type": 11,
+   "heading": "Artigo 8.º — Impedimentos aplicáveis a sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Impedimentos aplicáveis a sociedades\n\n1 - As empresas cujo capital seja detido numa percentagem superior a 10% por um titular de cargo político ou de alto cargo público ficam impedidas de participar em concursos de fornecimento de bens ou serviços no exercício de actividade de comércio ou indústria, em contratos com o Estado e demais pessoas colectivas públicas, no departamento da Administração em que aquele titular exerça funções.\n\n2 - Considera-se igualmente causa de impedimento, nos termos do número anterior, a detenção do capital pelo cônjuge não separado de pessoas e bens."
+  },
+  "67387784": {
+   "fragment_id": "67055498",
+   "type": 11,
+   "heading": "Artigo 9.º — Arbitragem e peritagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Arbitragem e peritagem\n\n1 - Os titulares de cargos políticos e de altos cargos públicos estão impedidos de servir de árbitro ou de perito, a título gratuito ou remunerado, em qualquer processo em que seja parte o Estado e demais pessoas colectivas públicas.\n\n2 - O impedimento mantém-se até ao termo do prazo de um ano após a respectiva cessação de funções."
+  },
+  "67387785": {
+   "fragment_id": "67055499",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização pelo Tribunal Constitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização pelo Tribunal Constitucional\n\n1 - Os titulares de cargos políticos devem depositar no Tribunal Constitucional, nos 60 dias posteriores à data da tomada de posse, declaração de inexistência de incompatibilidades ou impedimentos, donde conste a enumeração de todos os cargos, funções e actividades profissionais exercidos pelo declarante, bem como de quaisquer participações iniciais detidas pelo mesmo.\n\n2 - Compete ao Tribunal Constitucional proceder à análise, fiscalização e sancionamento das declarações dos titulares de cargos políticos.\n\n3 - A infracção ao disposto aos artigos 4.º e 8.º implica as sanções seguintes:\n\na) Para os titulares de cargos electivos, com a excepção do Presidente da República, a perda do respectivo mandato;\n\nb) Para os titulares de cargos de natureza não electiva, com a excepção do Primeiro-Ministro, a demissão."
+  },
+  "67387786": {
+   "fragment_id": "67055500",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização pela Procuradoria-Geral da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização pela Procuradoria-Geral da República\n\n1 - Os titulares de altos cargos públicos devem depositar na Procuradoria-Geral da República, no 60 dias posteriores à tomada de posse, declaração de inexistência de incompatibilidades ou impedimento, donde constem todos os elementos necessários à verificação do cumprimento do disposto na presente lei, incluindo os referidos no n.º 1 do artigo anterior.\n\n2 - A Procuradoria-Geral da República pode solicitar a clarificação do conteúdo das declarações aos depositários no caso de dúvidas sugeridas pelo texto.\n\n3 - O não esclarecimento de dúvidas ou o esclarecimento insuficiente determina a participação aos órgãos competentes para a verificação e sancionamento das infracções.\n\n4 - A Procuradoria-Geral da República procede ainda à apreciação da regularidade formal das declarações e da observância do prazo de entrega, participando aos órgãos competentes para a verificação e sancionamento irregularidades ou a não observância do prazo."
+  },
+  "67387787": {
+   "fragment_id": "67055501",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime aplicável em caso de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime aplicável em caso de incumprimento\n\n1 - Em caso de não apresentação da declaração prevista nos n.os 1 dos artigos 10.º e 11.º, as entidades competentes para o seu depósito notificarão o titular do cargo a que se aplica a presente lei para a apresentar no prazo de 30 dias, sob pena de, em caso de incumprimento culposo, incorrer em declaração de perda do mandato, demissão ou destituição judicial.\n\n2 - Para efeitos do número anterior, os serviços competentes comunicarão ao Tribunal Constitucional e à Procuradoria-Geral da República, consoante os casos, a data de início de funções dos titulares de cargos a que se aplica a presente lei."
+  },
+  "67387788": {
+   "fragment_id": "67055502",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime sancionatório\n\n1 - O presente regime sancionatório é aplicável aos titulares de altos cargos públicos.\n\n2 - A infracção ao disposto no artigo 7.º constitui causa de destituição judicial.\n\n3 - A destituição judicial compete aos tribunais administrativos.\n\n4 - A infracção ao disposto no artigo 5.º determina a inibição para o exercício de funções de altos cargos políticos e de altos cargos públicos por um período de três anos."
+  },
+  "67387789": {
+   "fragment_id": "67055503",
+   "type": 11,
+   "heading": "Artigo 14.º — Nulidade e inibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Nulidade e inibições\n\nA infracção ao diposto nos artigos 8.º e 9.º determina a nulidade dos actos praticados e, no caso do n.º 2 do artigo 9.º, a inibição para o exercício de funções em altos cargos públicos pelo período de três anos."
+  },
+  "67387790": {
+   "fragment_id": "67055504",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogada a Lei n.º 9/90, de 1 de Março, com as alterações introduzidas pela Lei n.º 56/90, de 5 de Setembro.\n\nAprovada em 15 de Julho de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 6 de Agosto de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 9 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "67387775": {
+   "fragment_id": "67055489",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 64/93\n\nde 26 de Agosto\n\nRegime jurídico de incompatibilidades e impedimentos dos titulares de cargos políticos e altos cargos públicos\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea l), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "67379141": {
+   "fragment_id": "67055490",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei regula o regime do exercício de funções pelos titulares de órgãos de soberania e por titulares de outros cargos políticos.\n\n2 - Para efeitos da presente lei, são considerados titulares de cargos políticos:\n\na) Os Ministros da República para as Regiões Autónomas;\n\nb) Os membros dos Governos Regionais;\n\nc) O provedor de Justiça;\n\nd) O Governador e Secretários Adjuntos de Macau;\n\ne) O governador e vice-governador civil;\n\nf) O presidente e vereador a tempo inteiro das câmaras municipais;\n\ng) Deputado ao Parlamento Europeu.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67379142": {
+   "fragment_id": "67055491",
+   "type": 11,
+   "heading": "Artigo 2.º — Extensão da aplicação",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 2.º — Extensão da aplicação\n\nO regime constante do presente diploma é ainda aplicável aos titulares de altos cargos públicos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67380361": {
+   "fragment_id": "67055492",
+   "type": 11,
+   "heading": "Artigo 3.º — Titulares de altos cargos públicos",
+   "in_force_from": "1994-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1994-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Titulares de altos cargos públicos\n\n1 - Para efeitos da presente lei, são considerados titulares de altos cargos públicos ou equiparados:\n\na) O presidente do conselho de administração de empresa pública e de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo da sua designação;\n\nb) Gestor público e membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, designada por entidade pública, desde que exerçam funções executivas;\n\nc) O membro em regime de permanência e a tempo inteiro da entidade pública independente prevista na Constituição ou na lei.\n\n2 - Aos presidentes, vice-presidentes e vogais de direcção de instituto público, fundação pública ou estabelecimento público, bem como aos directores-gerais e subdirectores-gerais e àqueles cujo estatuto lhes seja equiparado em razão da natureza das suas funções é aplicável, em matéria de incompatibilidades e impedimentos, a lei geral da função pública e, em especial, o regime definido para o pessoal dirigente no Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1994-01-01"
+  },
+  "67379143": {
+   "fragment_id": "67055493",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\n1 - Os titulares dos cargos previstos nos artigos 1.º e 2.º exercem as suas funções em regime de exclusividade, sem prejuízo do disposto no Estatuto dos Deputados à Assembleia da República e do disposto no artigo 6.º quanto aos autarcas a tempo parcial.\n\n2 - A titularidade dos cargos a que se refere o número anterior é incompatível com quaisquer outras funções profissionais remuneradas ou não, bem como com a integração em corpos sociais de quaisquer pessoas colectivas de fins lucrativos.\n\n3 - Exceptuam-se do disposto no número anterior as funções ou actividades derivadas do cargo e as que são exercidas por inerência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67399186": {
+   "fragment_id": "67055494",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime aplicável após cessação de funções",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 5.º — Regime aplicável após cessação de funções\n\n1 - Os titulares de órgãos de soberania e titulares de cargos políticos não podem exercer, pelo período de três anos contado da data da cessação das respectivas funções, cargos em empresas privadas que prossigam actividades no sector por eles directamente tutelado, desde que, no período do respectivo mandato, tenham sido objecto de operações de privatização ou tenham beneficiado de incentivos financeiros ou de sistemas de incentivos e benefícios fiscais de natureza contratual.\n\n2 - Exceptua-se do disposto no número anterior o regresso à empresa ou actividade exercida à data da investidura no cargo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67399185": {
+   "fragment_id": "67055495",
+   "type": 11,
+   "heading": "Artigo 6.º — Autarcas",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 6.º — Autarcas\n\n1 - Os vereadores de câmaras municipais a tempo parcial podem exercer outras actividades nos termos dos números seguintes, devendo comunicá-las, quanto à sua natureza e identificação, às assembleias municipais respectivas.\n\n2 - Sem prejuízo do disposto nos regimes de incompatibilidades e impedimentos previstos em lei especial, designadamente para o exercício de cargos ou actividades profissionais, são ainda incompatíveis com o exercício do mandato do autarca a tempo parcial:\n\na) A titularidade de membro de órgão de pessoa colectiva pública e, bem assim, de órgão de sociedades de capitais maioritária ou exclusivamente públicos ou de concessionários de serviços públicos;\n\nb) A prestação de serviços profissionais, de consultadoria, assessoria e patrocínio, a pessoas colectivas públicas, a concessionários de serviços públicos ou a empresas concorrentes a concursos públicos.\n\n3 - É igualmente vedado aos autarcas a tempo parcial, sem prejuízo do disposto em lei especial:\n\na) No exercício de actividades de comércio ou indústria, no âmbito do respectivo município, por si ou entidade em que detenham participação, participar em concursos de bens, serviços, empreitadas ou concessões, abertos pelo Estado e demais pessoas colectivas de direito público e, bem assim, por sociedades de capitais maioritária ou exclusivamente públicos ou por concessionários de serviços públicos;\n\nb) Prestar consultadoria ou assessoria a entidades privadas titulares de interesses opostos aos do Estado ou demais pessoas colectivas públicas;\n\nc) Patrocinar Estados estrangeiros;\n\nd) Beneficiar, pessoal e indevidamente, de actos ou tomar parte em contratos em cujo processo de formação intervenham órgãos ou serviços colocados sob sua directa influência.\n\n4 - Sem prejuízo da responsabilidade que ao caso couber, a infracção ao disposto nos números anteriores implica a perda de mandato, nos termos do artigo 10.º, e, bem assim, a obrigatoriedade de reposição da quantia correspondente à totalidade da remuneração certa e permanente que o titular aufira pelo exercício de funções públicas desde o momento e enquanto ocorrer a sua incompatibilidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67391090": {
+   "fragment_id": "67388773",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Registo de interesses",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 7.º-A — Registo de interesses\n\n1 - É criado um registo de interesses na Assembleia da República, sendo facultativa a sua criação nas autarquias, caso em que compete às assembleias autárquicas deliberar sobre a sua existência e regulamentar a respectiva composição, funcionamento e controlo.\n\n2 - O registo de interesses consiste na inscrição, em livro próprio, de todas as actividades susceptíveis de gerarem incompatibilidades ou impedimentos e quaisquer actos que possam proporcionar proveitos financeiros ou conflitos de interesses.\n\n3 - O registo de interesses criado na Assembleia da República compreende os registos relativos aos Deputados à Assembleia da República e aos membros do Governo.\n\n4 - Para efeitos do disposto no número anterior, serão inscritos em especial os seguintes factos:\n\na) Actividades públicas ou privadas, nelas se incluindo actividades comerciais ou empresariais e, bem assim, o exercício de profissão liberal;\n\nb) Desempenho de cargos sociais, ainda que a título gratuito;\n\nc) Apoios ou benefícios financeiros ou materiais recebidos para o exercício das actividades respectivas, designadamente de entidades estrangeiras;\n\nd) Entidades a quem sejam prestados serviços remunerados de qualquer natureza;\n\ne) Sociedades em cujo capital o titular, por si, pelo cônjuge ou pelos filhos, disponha de capital.\n\n5 - O registo é público e pode ser consultado por quem o solicitar.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67399188": {
+   "fragment_id": "67055497",
+   "type": 11,
+   "heading": "Artigo 8.º — Impedimentos aplicáveis a sociedades",
+   "in_force_from": "1995-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 8.º — Impedimentos aplicáveis a sociedades\n\n1 - As empresas cujo capital seja detido numa percentagem superior a 10% por um titular de órgão de soberania ou titular de cargo político, ou por alto cargo público, ficam impedidas de participar em concursos de fornecimento de bens ou serviços, no exercício de actividade de comércio ou indústria, em contratos com o Estado e demais pessoas colectivas públicas.\n\n2 - Ficam sujeitas ao mesmo regime:\n\na) As empresas de cujo capital, em igual percentagem, seja titular o seu cônjuge, não separado de pessoas e bens, os seus ascendentes e descendentes em qualquer grau e os colaterais até ao 2.º grau, bem como aquele que com ele viva nas condições do artigo 2020.º do Código Civil;\n\nb) As empresas em cujo capital o titular do órgão ou cargo detenha, directa ou indirectamente, por si ou conjuntamente com os familiares referidos na alínea anterior, uma participação não inferior a 10%.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67391092": {
+   "fragment_id": "67055498",
+   "type": 11,
+   "heading": "Artigo 9.º — Arbitragem e peritagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Arbitragem e peritagem\n\n1 - Os titulares de cargos políticos e de altos cargos públicos estão impedidos de servir de árbitro ou de perito, a título gratuito ou remunerado, em qualquer processo em que seja parte o Estado e demais pessoas colectivas públicas.\n\n2 - O impedimento mantém-se até ao termo do prazo de um ano após a respectiva cessação de funções."
+  },
+  "67391093": {
+   "fragment_id": "67055499",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização pelo Tribunal Constitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização pelo Tribunal Constitucional\n\n1 - Os titulares de cargos políticos devem depositar no Tribunal Constitucional, nos 60 dias posteriores à data da tomada de posse, declaração de inexistência de incompatibilidades ou impedimentos, donde conste a enumeração de todos os cargos, funções e actividades profissionais exercidos pelo declarante, bem como de quaisquer participações iniciais detidas pelo mesmo.\n\n2 - Compete ao Tribunal Constitucional proceder à análise, fiscalização e sancionamento das declarações dos titulares de cargos políticos.\n\n3 - A infracção ao disposto aos artigos 4.º e 8.º implica as sanções seguintes:\n\na) Para os titulares de cargos electivos, com a excepção do Presidente da República, a perda do respectivo mandato;\n\nb) Para os titulares de cargos de natureza não electiva, com a excepção do Primeiro-Ministro, a demissão."
+  },
+  "67391094": {
+   "fragment_id": "67055500",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização pela Procuradoria-Geral da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização pela Procuradoria-Geral da República\n\n1 - Os titulares de altos cargos públicos devem depositar na Procuradoria-Geral da República, no 60 dias posteriores à tomada de posse, declaração de inexistência de incompatibilidades ou impedimento, donde constem todos os elementos necessários à verificação do cumprimento do disposto na presente lei, incluindo os referidos no n.º 1 do artigo anterior.\n\n2 - A Procuradoria-Geral da República pode solicitar a clarificação do conteúdo das declarações aos depositários no caso de dúvidas sugeridas pelo texto.\n\n3 - O não esclarecimento de dúvidas ou o esclarecimento insuficiente determina a participação aos órgãos competentes para a verificação e sancionamento das infracções.\n\n4 - A Procuradoria-Geral da República procede ainda à apreciação da regularidade formal das declarações e da observância do prazo de entrega, participando aos órgãos competentes para a verificação e sancionamento irregularidades ou a não observância do prazo."
+  },
+  "67391095": {
+   "fragment_id": "67055501",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime aplicável em caso de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime aplicável em caso de incumprimento\n\n1 - Em caso de não apresentação da declaração prevista nos n.os 1 dos artigos 10.º e 11.º, as entidades competentes para o seu depósito notificarão o titular do cargo a que se aplica a presente lei para a apresentar no prazo de 30 dias, sob pena de, em caso de incumprimento culposo, incorrer em declaração de perda do mandato, demissão ou destituição judicial.\n\n2 - Para efeitos do número anterior, os serviços competentes comunicarão ao Tribunal Constitucional e à Procuradoria-Geral da República, consoante os casos, a data de início de funções dos titulares de cargos a que se aplica a presente lei."
+  },
+  "67391096": {
+   "fragment_id": "67055502",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime sancionatório\n\n1 - O presente regime sancionatório é aplicável aos titulares de altos cargos públicos.\n\n2 - A infracção ao disposto no artigo 7.º constitui causa de destituição judicial.\n\n3 - A destituição judicial compete aos tribunais administrativos.\n\n4 - A infracção ao disposto no artigo 5.º determina a inibição para o exercício de funções de altos cargos políticos e de altos cargos públicos por um período de três anos."
+  },
+  "67391097": {
+   "fragment_id": "67055503",
+   "type": 11,
+   "heading": "Artigo 14.º — Nulidade e inibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Nulidade e inibições\n\nA infracção ao diposto nos artigos 8.º e 9.º determina a nulidade dos actos praticados e, no caso do n.º 2 do artigo 9.º, a inibição para o exercício de funções em altos cargos públicos pelo período de três anos."
+  },
+  "67391098": {
+   "fragment_id": "67055504",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogada a Lei n.º 9/90, de 1 de Março, com as alterações introduzidas pela Lei n.º 56/90, de 5 de Setembro.\n\nAprovada em 15 de Julho de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 6 de Agosto de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 9 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "67399217": {
+   "fragment_id": "67055492",
+   "type": 11,
+   "heading": "Artigo 3.º — Titulares de altos cargos públicos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/12-1996-571650)",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1994-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Titulares de altos cargos públicos\n\n1 - Para efeitos da presente lei, são considerados titulares de altos cargos públicos ou equiparados:\n\na) O presidente do conselho de administração de empresa pública e de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo da sua designação;\n\nb) Gestor público e membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, designada por entidade pública, desde que exerçam funções executivas;\n\nc) O membro em regime de permanência e a tempo inteiro da entidade pública independente prevista na Constituição ou na lei.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/12-1996-571650)\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1994-01-01"
+  },
+  "67399218": {
+   "fragment_id": "67390969",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Actividades anteriores",
+   "in_force_from": "1996-09-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+   ],
+   "markdown": "###### Artigo 9.º-A — Actividades anteriores\n\n1 - Sem prejuízo da aplicabilidade das disposições adequadas do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, os titulares de órgãos de soberania, de cargos políticos e de altos cargos públicos que, nos últimos três anos anteriores à data da investidura no cargo, tenham detido, nos termos do artigo 8.º, a percentagem de capital em empresas neles referida ou tenham integrado corpos sociais de quaisquer pessoas colectivas de fins lucrativos não podem intervir:\n\na) Em concursos de fornecimento de bens ou serviços ao Estado e demais pessoas colectivas públicas aos quais aquelas empresas e pessoas colectivas sejam candidatos;\n\nb) Em contratos do Estado e demais pessoas colectivas públicas com elas celebrados;\n\nc) Em quaisquer outros procedimentos administrativos, em que aquelas empresas e pessoas colectivas intervenham, susceptíveis de gerar dúvidas sobre a isenção ou rectidão da conduta dos referidos titulares, designadamente nos de concessão ou modificação de autorizações ou licenças, de actos de expropriação, de concessão de benefícios de conteúdo patrimonial e de doação de bens.\n\n2 - O impedimento previsto no número anterior não se verifica nos casos em que a referida participação em cargos sociais das pessoas colectivas tenha ocorrido por designação do Estado ou de outra pessoa colectiva pública.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+  },
+  "67399225": {
+   "fragment_id": "67055499",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização pelo Tribunal Constitucional",
+   "in_force_from": "1996-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+   ],
+   "markdown": "###### Artigo 10.º — Fiscalização pelo Tribunal Constitucional\n\n1 - Os titulares de cargos políticos devem depositar no Tribunal Constitucional, nos 60 dias posteriores à data da tomada de posse, declaração de inexistência de incompatibilidades ou impedimentos, donde conste a enumeração de todos os cargos, funções e actividades profissionais exercidos pelo declarante, bem como de quaisquer participações iniciais detidas pelo mesmo.\n\n2 - Compete ao Tribunal Constitucional proceder à análise, fiscalização e sancionamento das declarações dos titulares de cargos políticos.\n\n3 - A infracção ao disposto nos artigos 4.º, 8.º e 9.º-A implica as sanções seguintes:\n\na) Para os titulares de cargos electivos, com a excepção do Presidente da República, a perda do respectivo mandato;\n\nb) Para os titulares de cargos de natureza não electiva, com a excepção do Primeiro-Ministro, a demissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+  },
+  "67399220": {
+   "fragment_id": "67055500",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização pela Procuradoria-Geral da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização pela Procuradoria-Geral da República\n\n1 - Os titulares de altos cargos públicos devem depositar na Procuradoria-Geral da República, no 60 dias posteriores à tomada de posse, declaração de inexistência de incompatibilidades ou impedimento, donde constem todos os elementos necessários à verificação do cumprimento do disposto na presente lei, incluindo os referidos no n.º 1 do artigo anterior.\n\n2 - A Procuradoria-Geral da República pode solicitar a clarificação do conteúdo das declarações aos depositários no caso de dúvidas sugeridas pelo texto.\n\n3 - O não esclarecimento de dúvidas ou o esclarecimento insuficiente determina a participação aos órgãos competentes para a verificação e sancionamento das infracções.\n\n4 - A Procuradoria-Geral da República procede ainda à apreciação da regularidade formal das declarações e da observância do prazo de entrega, participando aos órgãos competentes para a verificação e sancionamento irregularidades ou a não observância do prazo."
+  },
+  "67399221": {
+   "fragment_id": "67055501",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime aplicável em caso de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime aplicável em caso de incumprimento\n\n1 - Em caso de não apresentação da declaração prevista nos n.os 1 dos artigos 10.º e 11.º, as entidades competentes para o seu depósito notificarão o titular do cargo a que se aplica a presente lei para a apresentar no prazo de 30 dias, sob pena de, em caso de incumprimento culposo, incorrer em declaração de perda do mandato, demissão ou destituição judicial.\n\n2 - Para efeitos do número anterior, os serviços competentes comunicarão ao Tribunal Constitucional e à Procuradoria-Geral da República, consoante os casos, a data de início de funções dos titulares de cargos a que se aplica a presente lei."
+  },
+  "67399226": {
+   "fragment_id": "67055502",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime sancionatório",
+   "in_force_from": "1996-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+   ],
+   "markdown": "###### Artigo 13.º — Regime sancionatório\n\n1 - O presente regime sancionatório é aplicável aos titulares de altos cargos públicos.\n\n2 - A infracção ao disposto nos artigos 7.º e 9.º-A constitui causa de destituição judicial.\n\n3 - A destituição judicial compete aos tribunais administrativos.\n\n4 - A infracção ao disposto no artigo 5.º determina a inibição para o exercício de funções de altos cargos políticos e de altos cargos públicos por um período de três anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+  },
+  "67399227": {
+   "fragment_id": "67055503",
+   "type": 11,
+   "heading": "Artigo 14.º — Nulidade e inibições",
+   "in_force_from": "1996-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+   ],
+   "markdown": "###### Artigo 14.º — Nulidade e inibições\n\nA infracção ao disposto nos artigos 8.º, 9.º e 9.º-A determina a nulidade dos actos praticados e no caso do n.º 2 do artigo 9.º a inibição para o exercício de funções em altos cargos públicos pelo período de três anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/lei/42-1996-241395), em vigor a partir de 1996-09-05"
+  },
+  "67399224": {
+   "fragment_id": "67055504",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogada a Lei n.º 9/90, de 1 de Março, com as alterações introduzidas pela Lei n.º 56/90, de 5 de Setembro.\n\nAprovada em 15 de Julho de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 6 de Agosto de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 9 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "67403684": {
+   "fragment_id": "67055492",
+   "type": 11,
+   "heading": "Artigo 3.º — Titulares de altos cargos públicos",
+   "in_force_from": "2007-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 71/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), em vigor a partir de 2007-05-26",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/12-1996-571650)",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1994-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Titulares de altos cargos públicos\n\n1 - Para efeitos da presente lei, são considerados titulares de altos cargos públicos ou equiparados:\n\na) (Revogada).\n\nb) (Revogada).\n\nc) O membro em regime de permanência e a tempo inteiro da entidade pública independente prevista na Constituição ou na lei.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 71/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), em vigor a partir de 2007-05-26\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/12-1996-571650)\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1994-01-01"
+  },
+  "67399229": {
+   "fragment_id": "67055493",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/98 - Diário da República n.º 46/1998, Série I-A de 1998-02-24](https://diariodarepublica.pt/dr/detalhe/lei/12-1998-210977)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\n1 - Os titulares dos cargos previstos nos artigos 1.º e 2.º exercem as suas funções em regime de exclusividade, sem prejuízo do disposto no Estatuto dos Deputados à Assembleia da República e do disposto no artigo 6.º.\n\n2 - A titularidade dos cargos a que se refere o número anterior é incompatível com quaisquer outras funções profissionais remuneradas ou não, bem como com a integração em corpos sociais de quaisquer pessoas colectivas de fins lucrativos.\n\n3 - Exceptuam-se do disposto no número anterior as funções ou actividades derivadas do cargo e as que são exercidas por inerência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/98 - Diário da República n.º 46/1998, Série I-A de 1998-02-24](https://diariodarepublica.pt/dr/detalhe/lei/12-1998-210977)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67399228": {
+   "fragment_id": "67055495",
+   "type": 11,
+   "heading": "Artigo 6.º — Autarcas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/98 - Diário da República n.º 46/1998, Série I-A de 1998-02-24](https://diariodarepublica.pt/dr/detalhe/lei/12-1998-210977)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 6.º — Autarcas\n\n1 - Os presidentes e vereadores de câmaras municipais, mesmo em regime de permanência, a tempo\n\ninteiro ou parcial, podem exercer outras actividades, devendo comunicá-las, quando de exercício\n\ncontinuado, quanto à sua natureza e identificação, ao Tribunal Constitucional e à assembleia\n\nmunicipal, na primeira reunião desta a seguir ao início do mandato ou previamente à entrada em\n\nfunções nas actividades não autárquicas.\n\n2 - O disposto no número anterior não revoga os regimes de incompatibilidades e impedimentos\n\nprevistos noutras leis para o exercício de cargos ou actividades profissionais.\n\n> Nota: [Lei n.º 12/98 - Diário da República n.º 46/1998, Série I-A de 1998-02-24](https://diariodarepublica.pt/dr/detalhe/lei/12-1998-210977) A redacção conferida pela Lei nº 12/98, de 24 de fevereiro, repristinou a redacção original do artigo 6.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/98 - Diário da República n.º 46/1998, Série I-A de 1998-02-24](https://diariodarepublica.pt/dr/detalhe/lei/12-1998-210977)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  },
+  "67403683": {
+   "fragment_id": "67055496",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime geral e excepções",
+   "in_force_from": "2007-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 71/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), em vigor a partir de 2007-05-26"
+   ],
+   "markdown": "###### Artigo 7.º — Regime geral e excepções\n\n1 - A titularidade de altos cargos públicos implica a incompatibilidade com quaisquer outras funções remuneradas.\n\n2 - As actividades de docência no ensino superior e de investigação não são incompatíveis com a titularidade de altos cargos públicos, bem como as inerências a título gratuito.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 71/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), em vigor a partir de 2007-05-26"
+  },
+  "67403692": {
+   "fragment_id": "67055490",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei regula o regime do exercício de funções pelos titulares de órgãos de soberania e por titulares de outros cargos políticos.\n\n2 - Para efeitos da presente lei, são considerados titulares de cargos políticos:\n\na) Os Ministros da República para as Regiões Autónomas;\n\nb) Os membros dos Governos Regionais;\n\nc) O provedor de Justiça;\n\nd) O Governador e Secretários Adjuntos de Macau;\n\ne) (Revogada.)\n\nf) O presidente e vereador a tempo inteiro das câmaras municipais;\n\ng) Deputado ao Parlamento Europeu.\n\n> Nota: [Artigo 24.º, Lei n.º 30/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541) A Lei nº 30/2008, de 10 de julho, que aprovou o Estatuto do Representante da República nas Regiões Autónomas dos Açores e da Madeira, revogou, a partir de 01.08.2008, as disposições da presente lei, na parte respeitante aos Ministros da República.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), em vigor a partir de 1995-08-19"
+  }
+ }
+}

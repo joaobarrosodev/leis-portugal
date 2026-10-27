@@ -1,0 +1,307 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139030:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-108090396",
+ "dre_path": "/dr/detalhe/portaria/268-a-2012-139030",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108090578",
+    "108090579",
+    "108090580",
+    "108090581",
+    "108090582",
+    "108090583",
+    "108090584",
+    "108090585",
+    "108090586",
+    "108090587",
+    "108090588",
+    "108090589",
+    "108090590",
+    "108090591",
+    "108090592",
+    "108090593",
+    "108090594",
+    "108090595",
+    "108090596",
+    "108090597",
+    "108090598",
+    "108090599",
+    "108090600",
+    "108090601",
+    "108090602",
+    "108090603",
+    "108090604",
+    "108090605",
+    "108090606",
+    "108090607",
+    "108090608",
+    "108090609"
+   ]
+  }
+ ],
+ "fragments": {
+  "108090578": {
+   "fragment_id": "108090397",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 268-A/2012\n\nde 31 de agosto\n\nO Decreto-Lei n.º 299/84, de 5 de setembro, regulou a transferência para os municípios do continente das competências em matéria de organização, financiamento e controlo de funcionamento dos transportes escolares. Posteriormente, os Decretos-Leis n.os 186/2008, de 19 de setembro, e 203/2009, de 31 de agosto, criaram passes escolares designados «4_18@escola.tp» e «sub23@superior.tp», conferindo redução do preço dos títulos de transporte.\n\nConsiderando as recentes alterações no regime da escolaridade obrigatória torna-se necessário proceder a ajustamentos dos passes «4_18@escola.tp» e «sub23@superior.tp», conferindo descontos no preço do transporte aos estudantes inseridos em famílias mais desfavorecidas, designadamente os beneficiários de Ação Social Escolar.\n\nAssim, ao abrigo do disposto no n.º 3 do artigo 3.º-A do Decreto-Lei n.º 299/84, de 5 de setembro, alterado pelo artigo 74.º do Decreto-Lei n.º 29-A/2011, de 1 de março, e do n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto, alterado pelo artigo 75.º do Decreto-Lei n.º 29-A/2011, de 1 de março, manda o Governo, pelo Ministro de Estado e das Finanças, Ministro Adjunto e dos Assuntos Parlamentares, Ministro da Economia e do Emprego e Ministro da Educação e da Ciência, o seguinte:"
+  },
+  "108090579": {
+   "fragment_id": "108090398",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria altera as condições de atribuição do passe escolar designado passe «4_18@escola.tp», previstas na Portaria n.º 138/2009, de 3 de fevereiro, alterada pelas Portarias n.os 982-A/2009, de 2 de setembro, e 34-A/2012, de 1 de fevereiro.\n\n2 - A presente portaria altera, ainda, condições de atribuição do passe designado «sub23@superior.tp», previstas na Portaria n.º 982-B/2009, de 2 de setembro, alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro."
+  },
+  "108090580": {
+   "fragment_id": "108090399",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 138/2009, de 3 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 138/2009, de 3 de fevereiro\n\nSão alterados os artigos 2.º e 5.º e o anexo da Portaria n.º 138/2009, de 3 de fevereiro, alterada pelas Portarias n.os 982-A/2009, de 2 de setembro, e 34-A/2012, de 1 de fevereiro, que passa a ter a seguinte redação:\n\nArtigo 2.º\n\n[...]\n\n1 - São elegíveis para o passe «4_18@escola.tp» os estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não se encontrem abrangidos pelo âmbito do serviço de transporte escolar estabelecido no artigo 2.º do Decreto-Lei n.º 299/84, de 5 de setembro, e que:\n\na) Sejam beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) Sejam beneficiários do Escalão «B» da Ação Social Escolar;\n\nc) Sejam estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n2 - ...\n\nArtigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O título de transporte passe «4_18@escola.tp» terá os seguintes descontos:\n\na) 60 % para os estudantes beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) 25 % para os estudantes beneficiários do Escalão «B» da Ação Social Escolar;\n\nc) 25 % para estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos nas alíneas a) e b) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino que ateste que estão abrangidos pelo respetivo escalão, no âmbito do regime da Ação Social Escolar.\n\n6 - Para beneficiarem dos descontos previstos na alínea c) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino e cumprir com os critérios estabelecidos nos artigos 3.º-B, 3.º-C, 4.º, 6.º-A e 6.º-B da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro."
+  },
+  "108090581": {
+   "fragment_id": "108090400",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º da Portaria n.º 138/2009)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º da Portaria n.º 138/2009)\n\n(ver documento original)"
+  },
+  "108090582": {
+   "fragment_id": "108090401",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Portaria n.º 982-B/2009, de 2 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à Portaria n.º 982-B/2009, de 2 de setembro\n\nSão alterados os artigos 2.º e 5.º e o anexo da Portaria n.º 982-B/2009, de 2 de setembro, alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro, que passa a ter a seguinte redação:\n\nArtigo 2.º\n\n[...]\n\n1 - O passe «sub23@superior.tp» destina-se a estudantes do ensino superior até aos 23 anos, inclusive, que beneficiem da Ação Social no Ensino Superior ou estejam inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - ...\n\n3 - ...\n\nArtigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O título de transporte passe «sub23@superior.tp» terá os seguintes descontos:\n\na) 60 % para os estudantes beneficiários da Ação Social no Ensino Superior;\n\nb) 25 % para estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino, que ateste que estão abrangidos pelo regime de Ação Social no Ensino Superior.\n\n6 - Para beneficiarem dos descontos previstos na alínea b) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino e cumprir com os critérios estabelecidos nos artigos 3.º-B, 3.º-C, 4.º, 6.º-A e 6.º-B da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro."
+  },
+  "108090583": {
+   "fragment_id": "108090402",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º da Portaria n.º 982-B/2009)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º da Portaria n.º 982-B/2009)\n\n(ver documento original)"
+  },
+  "108090584": {
+   "fragment_id": "108090403",
+   "type": 11,
+   "heading": "Artigo 4.º — Não acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Não acumulação\n\nOs descontos atribuídos ao abrigo da presente portaria não são cumuláveis com outros descontos, designadamente os concedidos ao abrigo da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro."
+  },
+  "108090585": {
+   "fragment_id": "108090404",
+   "type": 11,
+   "heading": "Artigo 5.º — Articulação entre entidades coordenadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Articulação entre entidades coordenadoras\n\n1 - O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), articula com as autoridades metropolitanas de transportes de Lisboa e do Porto (AMT) o estabelecimento dos procedimentos de verificação e comunicação do cumprimento de requisitos previstos na Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro, para efeitos de atribuição do passe «4_18@escola.tp» e do passe «sub23@superior.tp».\n\n2 - Sem prejuízo do previsto no artigo 5.º da Portaria n.º 34-A/2012, de 1 de fevereiro, o IMT, I. P., articula com as AMT a monitorização e fiscalização da implementação das regras relativas ao passe «4_18@escola.tp» e do passe «sub23@superior.tp», com os operadores de transportes das áreas metropolitanas de Lisboa e do Porto."
+  },
+  "108090586": {
+   "fragment_id": "108090405",
+   "type": 11,
+   "heading": "Artigo 6.º — Acordos e contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acordos e contratos-programa\n\nOs acordos e os contratos-programa celebrados ao abrigo das Portarias n.os 138/2009, de 3 de fevereiro, e 982-B/2009, de 2 de setembro, com a última redação dada pela Portaria n.º 34-A/2012, de 1 de fevereiro, mantêm-se em vigor e de acordo com as alterações previstas no Decreto-Lei n.º 29-A/2011, de 1 de março, e na presente portaria."
+  },
+  "108090587": {
+   "fragment_id": "108090406",
+   "type": 11,
+   "heading": "Artigo 7.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Republicação\n\n1 - São republicadas em anexo à presente portaria, do qual faz parte integrante, as Portarias n.º 138/2009, de 3 de fevereiro, alterada pelas Portarias n.os 982-A/2009, de 2 de setembro, e 34-A/2012, de 1 de fevereiro, bem como a Portaria n.º 982-B/2009, de 2 de setembro, alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro, com as presentes alterações.\n\n2 - Na republicação são alteradas as referências ao «Instituto da Mobilidade e dos Transportes Terrestres, I. P.» ou «IMTT» para «Instituto da Mobilidade e dos Transportes, I. P.» ou «IMT, I. P.»."
+  },
+  "108090588": {
+   "fragment_id": "108090407",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de setembro de 2012."
+  },
+  "108090589": {
+   "fragment_id": "108090408",
+   "type": 14,
+   "heading": "Anexo — (a que refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que refere o artigo 7.º)\n\nA) Republicação da Portaria n.º 138/2009, de 3 de fevereiro"
+  },
+  "108090590": {
+   "fragment_id": "108090409",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define as condições de atribuição do passe «4_18@escola.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos previstos pelos Decretos-Leis n.os 299/84, de 5 de setembro, 186/2008, de 19 de setembro, e 29-A/2011, de 1 de março."
+  },
+  "108090591": {
+   "fragment_id": "108090410",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do passe «4_18@escola.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito do passe «4_18@escola.tp»\n\n1 - São elegíveis para o passe «4_18@escola.tp» os estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não se encontrem abrangidos pelo âmbito do serviço de transporte escolar estabelecido no artigo 2.º do Decreto-Lei n.º 299/84, de 5 de setembro, e que:\n\na) Sejam beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) Sejam beneficiários do Escalão «B» da Ação Social Escolar;\n\nc) Sejam estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n2 - O passe «4_18@escola.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano letivo a que respeita e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha."
+  },
+  "108090592": {
+   "fragment_id": "108090411",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao passe «4_18@escola.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao passe «4_18@escola.tp»\n\n1 - O direito ao passe «4_18@escola.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado, nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de setembro, na redação dada pelo Decreto-Lei n.º 186/2008, de 19 de setembro.\n\n2 - As crianças que tenham menos de 6 anos de idade em 31 de dezembro de cada ano são dispensadas de apresentar a declaração prevista no número anterior, a qual é substituída por documentos que provem a sua idade e residência."
+  },
+  "108090593": {
+   "fragment_id": "108090412",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - O cartão que serve de suporte ao passe «4_18@escola.tp» terá imagem comum para todo o País numa das faces, podendo esta imagem ser impressa no cartão ou em autocolante aposto em cartão de passe já existente.\n\n2 - O cartão é requisitado pelo aluno ou encarregado de educação junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo anterior, conforme a situação aplicável.\n\n3 - O custo do cartão, a suportar pelo requisitante, corresponde a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão «4_18@escola.tp», o cartão é trocado gratuitamente visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 19 anos de idade.\n\n6 - Nos anos letivos subsequentes ao da emissão do cartão, o aluno ou o encarregado de educação deve fazer prova do direito ao mesmo, mediante entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão «4_18@escola.tp».\n\n7 - No ato de requisição do cartão ou de renovação do direito ao mesmo, o aluno ou o encarregado de educação deve declarar qual o título de transporte passe «4_18@escola.tp» que pretende que lhe seja atribuído.\n\n8 - Nos atos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano letivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão «4_18@escola.tp» de informação sobre o título de transporte atribuído, mediante registo eletrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão ou renovação do cartão devem ser guardados pelo operador de transporte durante um período de cinco anos, para efeitos de fiscalização pelo Instituto de Mobilidade e dos Transportes, I. P. (IMT, I. P.), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à proteção de dados pessoais, bem como o direito de exigir a retificação de quaisquer informações inexatas ou a inclusão de informações total ou parcialmente omissas."
+  },
+  "108090594": {
+   "fragment_id": "108090413",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte passe «4_18@escola.tp», em cada ano letivo, processa-se em posto de venda assistida mediante apresentação do cartão passe «4_18@escola.tp».\n\n2 - A venda de títulos de transporte passe «4_18@escola.tp» subsequente à prevista no número anterior, pode ser efetuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respetivos passes se encontram disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respetiva reinscrição no cartão.\n\n3 - O título de transporte passe «4_18@escola.tp» terá os seguintes descontos:\n\na) 60 % para os estudantes beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) 25 % para os estudantes beneficiários do Escalão «B» da Ação Social Escolar;\n\nc) 25 % para estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos nas alíneas a) e b) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino que ateste que estão abrangidos pelo respetivo escalão, no âmbito do regime da Ação Social Escolar.\n\n6 - Para beneficiarem dos descontos previstos na alínea c) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino e cumprir com os critérios estabelecidos nos artigos 3.º-B, 3.º-C, 4.º, 6.º-A e 6.º-B da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro."
+  },
+  "108090595": {
+   "fragment_id": "108090414",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transporte serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de criança/de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respetivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores de transporte público de passageiros devem efetuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte passe «4_18@escola.tp» adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema:\n\na) Os operadores de transporte e os estabelecimentos de ensino devem facultar ao IMT, I. P., todas as informações e registos relativos à atribuição do passe «4_18@escola.tp»;\n\nb) Os operadores de transporte facultarão ao IMT, I. P., o acesso aos originais dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efetuados mensalmente pela Direção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do acordo a que se refere o n.º 4 do artigo 3.º-A do Decreto-Lei n.º 186/2008, de 19 de setembro.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, fica cometido ao IMT, I. P., sem prejuízo das competências da Inspeção-Geral de Finanças (IGF)."
+  },
+  "108090596": {
+   "fragment_id": "108090415",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação aos transportes de iniciativa municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação aos transportes de iniciativa municipal\n\nA presente portaria aplica-se com as necessárias adaptações aos serviços de transporte da iniciativa dos municípios que, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 186/2008, de 19 de setembro, comuniquem ao IMT, I. P., a adesão ao sistema passe «4_18@escola.tp»."
+  },
+  "108090597": {
+   "fragment_id": "108090416",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108090598": {
+   "fragment_id": "108090417",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente portaria reporta os seus efeitos a 1 de setembro de 2008."
+  },
+  "108090599": {
+   "fragment_id": "108090418",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n(ver documento original)\n\nB) Republicação da Portaria n.º 982-B/2009, de 2 de setembro"
+  },
+  "108090600": {
+   "fragment_id": "108090419",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define as condições de atribuição do passe «sub23@superior.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos dos Decretos-Leis n.os 203/2009, de 31 de agosto, e 29-A/2011, de 1 de março."
+  },
+  "108090601": {
+   "fragment_id": "108090420",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do passe «sub23@superior.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito do passe «sub23@superior.tp»\n\n1 - O passe «sub23@superior.tp» destina-se a estudantes do ensino superior até aos 23 anos, inclusive, que beneficiem da Ação Social no Ensino Superior ou estejam inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, conforme alterada pela Portaria n.º 36/2012, de 8 de fevereiro, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - O passe «sub23@superior.tp» é aplicável aos serviços de transporte público coletivo de passageiros, designadamente carreiras rodoviárias urbanas e interurbanas, serviços ferroviários urbanos e suburbanos, regionais e inter-regionais, transportes em metropolitano, em metropolitano ligeiro de superfície, noutros sistemas guiados e transportes fluviais.\n\n3 - O passe «sub23@superior.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano letivo a que respeita."
+  },
+  "108090602": {
+   "fragment_id": "108090421",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao passe «sub23@superior.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao passe «sub23@superior.tp»\n\nO direito ao «passe sub23@superior.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino superior onde o aluno esteja inscrito, nos termos previstos no n.º 2 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de agosto."
+  },
+  "108090603": {
+   "fragment_id": "108090422",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - O cartão que serve de suporte ao passe «sub23@superior.tp» terá imagem comum para todo o País numa das faces, podendo esta imagem ser impressa no cartão ou em autocolante aposto em cartão de passe já existente.\n\n2 - O cartão é requisitado pelo aluno junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega da declaração prevista no artigo anterior.\n\n3 - O custo do cartão, a suportar pelo requisitante, corresponde a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão «sub23@superior.tp», o cartão é trocado gratuitamente visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 24 anos de idade.\n\n6 - Nos anos letivos subsequentes ao da emissão do cartão, o aluno deve fazer prova do direito ao mesmo, mediante entrega da declaração prevista no artigo 3.º, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão «sub23@superior.tp».\n\n7 - No ato de requisição do cartão ou de renovação do direito ao mesmo, o aluno deve declarar qual o título de transporte «sub23@superior.tp» que pretende que lhe seja atribuído.\n\n8 - Nos atos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano letivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão «sub23@superior.tp» de informação sobre o título de transporte atribuído, mediante registo eletrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão ou renovação do cartão devem ser guardados pelo operador de transporte durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes, I. P. (IMT, I. P.), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à proteção de dados pessoais, bem como o direito de exigir a retificação de quaisquer informações inexatas ou a inclusão de informações total ou parcialmente omissas."
+  },
+  "108090604": {
+   "fragment_id": "108090423",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte passe «sub23@superior.tp», em cada ano letivo, processa-se em posto de venda assistida mediante apresentação do cartão «sub23@superior.tp».\n\n2 - A venda de títulos de transporte passe «sub23@superior.tp» subsequente à prevista no número anterior, pode ser efetuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respetivos passes se encontrem disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respetiva reinscrição no cartão.\n\n3 - O título de transporte passe «sub23@superior.tp» terá os seguintes descontos:\n\na) 60 % para os estudantes beneficiários da Ação Social no Ensino Superior;\n\nb) 25 % para estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino, que ateste que estão abrangidos pelo regime de Ação Social no Ensino Superior.\n\n6 - Para beneficiarem dos descontos previstos na alínea b) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino e cumprir com os critérios estabelecidos nos artigos 3.º-B, 3.º-C, 4.º, 6.º-A e 6.º-B da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro."
+  },
+  "108090605": {
+   "fragment_id": "108090424",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respetivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores devem efetuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte passe «sub23@superior.tp» adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema os operadores de transporte devem facultar ao IMT, I. P., todas as informações e registos relativos à atribuição do passe «sub23@superior.tp», bem como o acesso aos originais dos documentos previstos no artigo 3.º, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efetuados mensalmente pela Direção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do acordo a que se refere o n.º 4 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, ficam cometidos ao IMT, I. P., sem prejuízo das competências da Inspeção-Geral de Finanças (IGF)."
+  },
+  "108090606": {
+   "fragment_id": "108090425",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação aos transportes de competência municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação aos transportes de competência municipal\n\nA presente portaria aplica-se com as necessárias adaptações aos serviços de transporte da iniciativa dos municípios que, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 203/2009, de 31 de agosto, comuniquem ao IMT, I. P., a adesão ao sistema passe «sub23@superior.tp»."
+  },
+  "108090607": {
+   "fragment_id": "108090426",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108090608": {
+   "fragment_id": "108090427",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente portaria produz os seus efeitos a partir de 1 de setembro de 2009."
+  },
+  "108090609": {
+   "fragment_id": "108090428",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\n(ver documento original)"
+  }
+ }
+}

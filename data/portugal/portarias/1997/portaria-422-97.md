@@ -1,0 +1,250 @@
+---
+schema_version: '1.0'
+id: pt:dre:163470:por
+title: Portaria n.º 422/97
+short_title: null
+summary: Regulamenta o modo de início do exercício efectivo de funções dos membros eleitos do Conselho das Comunidades Portuguesas
+  e da convocação da primeira reunião do plenário do mesmo Conselho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 422/97
+official_date: null
+publication_date: '1997-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/1997, Série I-B de 1997-06-25
+  number: '144'
+  series: I
+  supplement: null
+  pages: 3108 - 3110
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/06/144b00/31083110.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/422/1997/06/25/p/dre/pt/html
+  oj: null
+  dre: '163470'
+  dre_path: /dr/detalhe/portaria/422-1997-163470
+  internal: pt:dre:163470:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-1997-163470
+  metadata_url: https://data.dre.pt/eli/port/422/1997/06/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-1997-163470
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 02448941552c7e31bad71b2b33637627ae97762aaf60207784f9911a0adda9aa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:02:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho das Comunidades Portuguesas
+- Mandato Electivo
+- Substituição de Cargos
+- Suspensão de Funções
+relationships:
+- type: amended_by
+  target: pt:dre:449399:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:241642:por
+  label: null
+  source: http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
+- type: cites
+  target: pt:dre:333344:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542003:por
+  label: "Revogada pela PORT.411/2003.2003.05.21.MNE,DR.IS-B [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-2003-542003
+  date: '2003-05-21'
+- type: repealed_by
+  target: pt:dre:449399:por
+  label: "Revogada pela PORT.392/2008.04.06.2008.MNE, DR.IS [107] de 04.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/392-2008-449399
+  date: '2008-06-04'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:02:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 422/97
+
+de 25 de Junho
+
+Nos termos do artigo 25.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, os membros do Conselho de País, previsto no [Decreto-Lei n.º 101/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1990-333344), de 21 de Março, mantiveram-se em funções até às primeiras eleições para o Conselho das Comunidades Portuguesas. Estas tiveram lugar em 27 de Abril último e os seus resultados oficiais foram hoje enviados para publicação no Diário da República.
+
+Importa agora regulamentar o modo de início do exercício efectivo de funções dos membros eleitos do Conselho das Comunidades Portuguesas, bem como a sua eventual substituição.
+
+Tendo também em conta que o artigo 24.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, prevê que a primeira reunião do plenário do Conselho seja convocada pelo Secretário de Estado das Comunidades Portuguesas, igualmente importa prever no mesmo regulamento a preparação daquela reunião.
+
+Assim, ao abrigo da alínea c) do artigo 202.º da Constituição e do artigo 28.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro:
+
+Manda o Governo, pelo Ministro dos Negócios Estrangeiros, o seguinte:
+
+1.º A publicação no Diário da República dos resultados oficiais da eleição para o Conselho das Comunidades Portuguesas é determinada pelo Secretário de Estado das Comunidades Portuguesas.
+
+2.º - 1 - A regularidade dos mandatos dos membros eleitos do Conselho das Comunidades Portuguesas é verificada pelo Secretário de Estado das Comunidades Portuguesas, precedendo parecer a emitir pelo embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede de um círculo eleitoral, para efeitos das disposições aplicáveis da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, relativamente aos eleitos pelo respectivo círculo.
+
+2 - O parecer a que se refere o número anterior inclui a apreciação da elegibilidade de cada eleito, não sendo esta prejudicada por eventuais lapsos de natureza formal.
+
+3.º - 1 - O mandato inicia-se com a posse e aceitação do eleito, após a assinatura por este do respectivo termo, cujo modelo integra o anexo n.º 1, e cessa com a publicação dos resultados oficiais após as eleições subsequentes, sem prejuízo do disposto nos n.os 4.º, 5.º, 6.º e 7.º
+
+2 - A não devolução pelo eleito do termo assinado a que se refere o número anterior no prazo de 15 dias após a recepção do aviso da comunicação de remessa do mesmo termo equivale a não aceitação do mandato e determina a perda, para efeitos do n.º 7.º, n.º 1, alínea c).
+
+4.º - 1 - Os membros eleitos podem requerer ao Secretário de Estado das Comunidades Portuguesas, por motivo relevante e juntando declaração de anuência do primeiro proponente da respectiva lista, a sua substituição temporária, para participação na primeira reunião do Conselho em plenário ou por período não superior a um ano, mas não mais de uma vez durante o mandato.
+
+2 - Por motivo relevante entende-se:
+
+a) Doença grave e prolongada;
+
+b) Caso de força maior.
+
+5.º - 1 - Determinam a suspensão do mandato:
+
+a) O deferimento do requerimento de substituição temporária por motivo relevante;
+
+b) O procedimento criminal contra o membro eleito, em Portugal ou no estrangeiro, de que o Secretário de Estado das Comunidades Portuguesas tenha conhecimento.
+
+2 - Os embaixadores e cônsules comunicam ao Secretário de Estado das Comunidades Portuguesas os casos de procedimento criminal contra membros do Conselho das Comunidades Portuguesas de que tenham conhecimento.
+
+3 - A suspensão do mandato do membro eleito determina a subida do candidato que se seguir na ordem de precedência, na qualidade de membro substituto.
+
+4 - A suspensão do mandato do membro eleito é comunicada ao embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do respectivo círculo eleitoral pela Secretaria de Estado das Comunidades Portuguesas, para efeitos de emissão do parecer a que se refere o n.º 2.º, n.º 1, relativamente aos candidatos substitutos.
+
+5 - O candidato substituto deve aceitar a substituição, assinando o respectivo termo, cujo modelo integra o anexo n.º 2.
+
+6 - A não devolução pelo substituto do termo assinado a que se referem os números anteriores no prazo de 15 dias após a recepção do aviso da comunicação de remessa do mesmo termo determina a perda da capacidade de substituição e a subida do candidato que se seguir.
+
+7 - A perda da capacidade de substituição a que se refere o número anterior é notificada ao interessado pelo Secretário de Estado das Comunidades Portuguesas, precedendo parecer do embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do círculo eleitoral respectivo, e dela cabe recurso, no prazo de 10 dias, para o Secretário de Estado das Comunidades Portuguesas, que o decidirá no prazo de 10 dias.
+
+8 - A perda da capacidade de substituição torna-se efectiva desde a sua publicação no Diário da República.
+
+9 - A suspensão do mandato cessa:
+
+a) No caso da alínea a) do n.º 1, pela comunicação da cessação do impedimento e, de qualquer modo, pelo decurso do período de substituição;
+
+b) No caso da alínea b) do n.º 2:
+
+i) Por sentença absolutória ou equivalente;
+
+ii) Por sentença que determine a suspensão da execução da pena, desde que não seja revogada;
+
+iii) Por extinção da pena ou no termo do respectivo cumprimento, se ocorrer durante o período do mandato.
+
+10 - O membro eleito retoma o exercício do seu mandato, cessando automaticamente nessa data as funções do substituto, o qual retoma o seu lugar na lista, para efeito de futuras substituições.
+
+6.º - 1 - Os membros eleitos podem renunciar ao mandato, mediante declaração escrita enviada ao Secretário de Estado das Comunidades Portuguesas, juntando declaração de anuência do primeiro proponente da respectiva lista.
+
+2 - O requerimento para substituição equivale à renúncia, se já não existirem candidatos efectivos ou suplentes não eleitos na lista de que se trate.
+
+3 - A renúncia torna-se efectiva desde a sua publicação no Diário da República.
+
+7.º - 1 - Perdem o mandato os membros eleitos que:
+
+a) Venham a ser declarados inelegíveis na sequência da verificação da regularidade de mandatos prevista no n.º 2.º;
+
+b) Deixem de residir no círculo eleitoral pelo qual foram eleitos;
+
+c) Não aceitem o mandato, designadamente no caso previsto no n.º 3.º, n.º 2.
+
+2 - A perda de mandato é notificada ao interessado pelo Secretário de Estado das Comunidades Portuguesas e, nos casos previstos nas alíneas a) e c) do número anterior, é precedida de parecer do embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do círculo eleitoral respectivo.
+
+3 - Da notificação prevista no número anterior cabe recurso, no prazo de 10 dias, para o Secretário de Estado das Comunidades Portuguesas, que o decidirá no prazo de 10 dias.
+
+4 - A perda de mandato torna-se efectiva desde a sua publicação no Diário da República.
+
+8.º - 1 - Em caso de vacatura de mandato, o membro eleito é substituído definitivamente pelo primeiro candidato não eleito na respectiva ordem de precedência na mesma lista, o qual adquire o estatuto de membro eleito.
+
+2 - À substituição em caso de vacatura de mandato aplica-se o disposto nos n.os 2.º e 3.º
+
+3 - A substituição definitiva torna-se efectiva desde a sua publicação no Diário da República.
+
+4 - A substituição definitiva não tem lugar se já não existirem candidatos efectivos ou suplentes não eleitos na lista de que se trate.
+
+9.º Após o início do respectivo mandato, os membros eleitos podem desenvolver as iniciativas que considerem adequadas com vista à preparação da reunião do Conselho em plenário, sem que, tendo em conta o disposto nos artigos 15.º, n.º 5, alínea i, 18.º, n.º 1, alínea h), e 20.º, n.º 1, alínea a), da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, tal implique despesa para o Estado.
+
+10.º A competência para a convocação da primeira reunião do plenário do Conselho das Comunidades Portuguesas, prevista no artigo 25.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, implica, no que se refere à mesma reunião, a relativa ao disposto no artigo 15.º, n.º 6, daquele diploma.
+
+11.º O Secretário de Estado das Comunidades Portuguesas designa, por despacho, de entre os funcionários da Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, um coordenador da preparação e realização da reunião referida no número anterior, a quem incumbe a execução de todas as tarefas inerentes quer à concretização da mesma reunião, designadamente as que se prendam com a deslocação e a estada dos membros do Conselho e de outros participantes, quer à organização das actividades e eventos que lhe estejam associados.
+
+Ministério dos Negócios Estrangeiros
+
+Assinada em 6 de Junho de 1997.
+
+Pelo Ministro dos Negócios Estrangeiros, José Manuel Lello Ribeiro de Almeida, Secretário de Estado das Comunidades Portuguesas.
+
+## ANEXO N.º 1 — Modelo do termo de posse e aceitação de membro do Conselho das Comunidades Portuguesas
+
+Termo de posse e aceitação de membro do Conselho das Comunidades Portuguesas
+
+Identificação do membro do Conselho das Comunidades Portuguesas
+
+Bilhete de identidade n.º ..., válido até ... ou passaporte n.º ..., válido até ...
+
+Inscrição consular n.º ...
+
+Toma posse como membro do Conselho das Comunidades Portuguesas, para o que foi eleito em 27 de Abril de 1997 pelo Círculo Eleitoral de ..., o que aceita, em ... (local), a ... (data).
+
+O Membro do Conselho das Comunidades Portuguesas,
+
+O Secretário de Estado das Comunidades Portuguesas,
+
+## ANEXO N.º 2 — Modelo do termo de aceitação de substituto de membro do Conselho das Comunidades Portuguesas
+
+Termo de aceitação de substituto de membro do Conselho das Comunidades Portuguesas
+
+Identificação do substituto de membro do Conselho das Comunidades Portuguesas
+
+Bilhete de identidade n.º ..., válido até ... ou passaporte n.º ..., válido até ...
+
+Inscrição consular n.º ...
+
+Aceita substituir o membro do Conselho das Comunidades Portuguesas ... (identificação do membro que será substituído), eleito pela mesma lista de candidatos em 27 de Abril de 1997 pelo Círculo Eleitoral de ...
+
+... (local).
+
+... (data).
+
+O Substituto do Membro do Conselho das Comunidades Portuguesas,
+
+O Secretário de Estado das Comunidades Portuguesas,

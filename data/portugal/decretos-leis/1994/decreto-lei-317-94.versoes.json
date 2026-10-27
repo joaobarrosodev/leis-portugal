@@ -1,0 +1,810 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:575295:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-66984592",
+ "dre_path": "/dr/detalhe/decreto-lei/317-1994-575295",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-12-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66966867",
+    "66966868",
+    "66966869",
+    "66966870",
+    "66966871",
+    "66966872",
+    "66966873",
+    "66966874",
+    "66985875",
+    "66985876",
+    "66985877",
+    "66985878",
+    "66985879",
+    "66985880"
+   ]
+  },
+  {
+   "date": "2006-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345542:por",
+     "title": "Decreto-Lei n.º 105/2006",
+     "published": "2006-06-07",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2006-345542"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "66966867",
+    "66985907",
+    "66985909",
+    "66966870",
+    "66985911",
+    "66966872",
+    "66985914",
+    "66985916",
+    "66985875",
+    "66985876",
+    "66985917",
+    "66985906",
+    "66985903",
+    "66985880",
+    "66985881"
+   ]
+  },
+  {
+   "date": "2009-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:494197:por",
+     "title": "Decreto-Lei n.º 130/2009",
+     "published": "2009-06-01",
+     "dre_path": "/dr/detalhe/decreto-lei/130-2009-494197"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "66966867",
+    "66985949",
+    "66985950",
+    "66985951",
+    "66985953",
+    "66985954",
+    "66985956",
+    "67019575",
+    "67019576",
+    "67019577",
+    "66985917",
+    "67019578",
+    "66985948",
+    "67019579",
+    "66985881"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "66966867",
+    "66985949",
+    "66985950",
+    "66985951",
+    "66985953",
+    "66985954",
+    "66985956",
+    "67019580",
+    "67019576",
+    "67019577",
+    "66985917",
+    "67019581",
+    "67019582",
+    "67019579",
+    "66985881"
+   ]
+  },
+  {
+   "date": "2015-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66970760:por",
+     "title": "Lei n.º 27/2015",
+     "published": "2015-04-14",
+     "dre_path": "/dr/detalhe/lei/27-2015-66970760"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "66966867",
+    "67019583",
+    "66985950",
+    "66985951",
+    "67019584",
+    "67019585",
+    "67019586",
+    "67019580",
+    "67019576",
+    "67019577",
+    "66985917",
+    "67019581",
+    "67019582",
+    "67019579",
+    "66985881"
+   ]
+  },
+  {
+   "date": "2016-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105263933:por",
+     "title": "Decreto-Lei n.º 80/2016",
+     "published": "2016-11-28",
+     "dre_path": "/dr/detalhe/decreto-lei/80-2016-105263933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "66966867",
+    "150908597",
+    "66985950",
+    "66985951",
+    "150908598",
+    "150908599",
+    "150908600",
+    "150908601",
+    "150908602",
+    "67019577",
+    "66985917",
+    "150908603",
+    "150908604",
+    "67019579",
+    "66985881"
+   ]
+  },
+  {
+   "date": "2021-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150757538:por",
+     "title": "Decreto-Lei n.º 102-B/2020",
+     "published": "2020-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/102-b-2020-150757538"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "66966867",
+    "150908597",
+    "66985950",
+    "66985951",
+    "150907822",
+    "150908599",
+    "150908600",
+    "150907823",
+    "150908602",
+    "67019577",
+    "66985917",
+    "150907824",
+    "150908604",
+    "67019579",
+    "66985881"
+   ]
+  }
+ ],
+ "fragments": {
+  "66966867": {
+   "fragment_id": "66984593",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 317/94\n\nde 24 de Dezembro\n\nO artigo 147.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, determina que cada condutor tem um registo individual, organizado nos termos a estabelecer em diploma próprio.\n\nÉ esse diploma que agora se aprova, determinando-se assim o conteúdo da base de dados do registo individual de condutores, base esta essencial para a aplicação eficaz do Código da Estrada.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados Pessoais Informatizados, bem como os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "66966868": {
+   "fragment_id": "66984594",
+   "type": 11,
+   "heading": "Artigo 1.º — Base de dados da Direcção-Geral de Viação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Base de dados da Direcção-Geral de Viação\n\n1 - A Direcção-Geral de Viação (DGV) dispõe de uma base de dados contendo o registo individual do condutor (RIC).\n\n2 - Através da base de dados do RIC visa-se organizar e manter actualizada a informação necessária ao exercício das competências cometidas à DGV, em especial nos processos contra-ordenacionais resultantes da aplicação do Código da Estrada.\n\n3 - No âmbito da DGV proceder-se-á igualmente à organização e actualização de um registo de condutores habilitados com carta estrangeira."
+  },
+  "66966869": {
+   "fragment_id": "66984595",
+   "type": 11,
+   "heading": "Artigo 2.º — Responsável das bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Responsável das bases de dados\n\n1 - É responsável pelas bases de dados da DGV, nos termos e para os efeitos do disposto na alínea h) do artigo 2.º da Lei n.º 10/91, de 29 de Abril, o director-geral de Viação.\n\n2 - Cabe, em especial, ao director-geral de Viação assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como velar para que a consulta ou a comunicação da informação respeitem as condições previstas na lei."
+  },
+  "66966870": {
+   "fragment_id": "66984596",
+   "type": 11,
+   "heading": "Artigo 3.º — Dados recolhidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dados recolhidos\n\nA recolha de dados para tratamento automatizado, no âmbito das competências da DGV, deve limitar-se ao que seja necessário para a prossecução dos objectivos legalmente definidos para as respectivas bases de dados."
+  },
+  "66966871": {
+   "fragment_id": "66984597",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo individual de condutores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo individual de condutores\n\n1 - O RIC é um ficheiro constituído por dados relativos:\n\na) À identificação do condutor;\n\nb) A cada infracção punida com inibição de condução em território nacional;\n\nc) À existência de inibição de condução aplicada por organismos estrangeiros;\n\nd) À existência de decisões em medida de segurança que impliquem cassação da licença de condução.\n\n2 - São dados de identificação do condutor:\n\na) O tipo de licença de que é titular;\n\nb) O número da licença de condução;\n\nc) O número do bilhete de identidade;\n\nd) A residência;\n\ne) O nome.\n\n3 - Relativamente a cada infracção punida com inibição de condução em território nacional são recolhidos os seguintes dados:\n\na) Número do auto;\n\nb) Entidade autuante;\n\nc) Data da infracção;\n\nd) Código da infracção;\n\ne) Data da decisão condenatória;\n\nf) Número de processo;\n\ng) Entidade decisória;\n\nh) Período de inibição;\n\ni) Data de início do período de inibição;\n\nj) Data do fim do período de inibição;\n\nl) Suspensão de execução de sanção acessória;\n\nm) Substituição por caução;\n\nn) Período de caução;\n\no) Data da prestação da caução;\n\np) Acidente de viação.\n\n4 - Relativamente à existência de uma inibição de condução comunicada por organismos estrangeiros são recolhidos os seguintes dados:\n\na) País;\n\nb) Entidade que procedeu à comunicação;\n\nc) Período de inibição;\n\nd) Tipo de infracção.\n\n5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:\n\na) Data da cassação;\n\nb) Entidade responsável;\n\nc) Fundamento."
+  },
+  "66966872": {
+   "fragment_id": "66984598",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de condutores habilitados com carta estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo de condutores habilitados com carta estrangeira\n\n1 - O registo de condutores habilitados com carta estrangeira é constituído pelos dados de identificação do condutor, pelas condenações por infracção com inibição de condução em território nacional e pelas condenações em medida de segurança que impliquem cassação da licença de condução.\n\n2 - São dados de identificação do condutor:\n\na) O tipo de licença de que é titular;\n\nb) O número de licença de condução;\n\nc) A identificação da entidade emissora;\n\nd) O número do bilhete de identidade ou do passaporte;\n\ne) A residência;\n\nf) O nome.\n\n3 - Relativamente às infracções punidas com inibição de condução em território nacional e à aplicação de medidas de segurança que impliquem cassação da licença de condução são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior."
+  },
+  "66966873": {
+   "fragment_id": "66984599",
+   "type": 11,
+   "heading": "Artigo 6.º — Recolha e actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Recolha e actualização\n\n1 - Os dados devem ser exactos e pertinentes, não podendo a sua recolha exceder os limites definidos no artigo 3.º\n\n2 - Os dados pessoais constantes da base de dados RIC são recolhidos a partir de impressos e requerimentos preenchidos pelos seus titulares ou pelos seus mandatários.\n\n3 - Os dados pessoais constantes da base de dados RIC podem ainda ser recolhidos a partir de informações colhidas pela DGV, no exercício da sua missão, e pelos serviços competentes das administrações regionais nas Regiões Autónomas, bem como recebidas de forças de segurança ou de serviços públicos quando tal se mostre necessário para o exercício das competências da DGV.\n\n4 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada devem remeter à DGV, para permanente actualização da base de dados RIC, as decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º"
+  },
+  "66966874": {
+   "fragment_id": "66984600",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acesso aos dados\n\n1 - A Direcção-Geral e as delegações distritais da DGV e nas Regiões Autónomas os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.\n\n2 - Os dados conhecidos nos termos dos números anteriores não podem ser transmitidos a terceiros, salvo se tal for autorizado pelo responsável da base de dados e nos termos do presente diploma.\n\n3 - No âmbito da cooperação referida no n.º 3 do artigo anterior, os dados pessoais constantes na base de dados do RIC podem ser comunicados às forças de segurança ou aos governos civis, no quadro das atribuições dessas forças e dos governos civis no âmbito da aplicação do Código da Estrada e ainda quando:\n\na) Exista obrigação ou autorização legal nesse sentido;\n\nb) Os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da DGV."
+  },
+  "66985875": {
+   "fragment_id": "66984601",
+   "type": 11,
+   "heading": "Artigo 8.º — Comunicação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comunicação dos dados\n\n1 - Os dados previstos nos artigos 4.º e 5.º são comunicados para efeitos de investigação criminal ou de instrução de processos judiciais sempre que esses dados não possam ou não devam ser obtidos das pessoas a que respeitam.\n\n2 - A comunicação nos termos do número anterior depende de solicitação do magistrado ou da entidade policial legalmente competente e pode ser efectuada mediante reprodução de registo ou registos informáticos respeitantes à pessoa em causa, nos termos das normas de segurança em vigor."
+  },
+  "66985876": {
+   "fragment_id": "66984602",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação para fins de estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação para fins de estatística\n\nPara além dos casos previstos no artigo anterior, a informação pode ser divulgada para fins estatísticos, mediante autorização do responsável das bases de dados e desde que não possam ser identificáveis as pessoas a que respeita, observadas as disposições legais aplicáveis."
+  },
+  "66985877": {
+   "fragment_id": "66984603",
+   "type": 11,
+   "heading": "Artigo 10.º — Conservação dos dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conservação dos dados pessoais\n\n1 - Os dados pessoais inseridos nas bases de dados RIC são conservados apenas durante o período necessário para a prossecução dos fins a que se destinam.\n\n2 - Os dados inseridos no RIC são conservados durante os três anos subsequentes à data em que terminar a execução das sanções que vierem a ser aplicadas em processos contra-ordenacionais ou judiciais."
+  },
+  "66985878": {
+   "fragment_id": "66984604",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito à informação e acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direito à informação e acesso aos dados\n\n1 - A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos que, constantes das bases de dados, lhe respeitem.\n\n2 - Nos casos previstos no artigo 27.º da Lei n.º 10/91, de 29 de Abril, o acesso tem lugar após autorização concedida nos termos do n.º 2 do artigo 2.º do presente diploma."
+  },
+  "66985879": {
+   "fragment_id": "66984605",
+   "type": 11,
+   "heading": "Artigo 12.º — Correcção de eventuais inexactidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Correcção de eventuais inexactidões\n\nQualquer pessoa tem o direito de exigir a correcção de eventuais inexactidões, a supressão de dados indevidamente registados e o completamento das omissões dos dados que lhe digam respeito, nos termos previstos nos artigos 30.º e 31.º da Lei n.º 10/91, de 29 de Abril."
+  },
+  "66985880": {
+   "fragment_id": "66984606",
+   "type": 11,
+   "heading": "Artigo 13.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Segurança da informação\n\nTendo em vista a segurança da informação, cabe ao responsável pelas bases de dados a que se refere o presente diploma garantir a observação das seguintes regras:\n\na) A entrada nas instalações utilizadas para tratamento de dados pessoais é objecto de controlo, a fim de impedir o acesso de qualquer pessoa não autorizada;\n\nb) Os suportes de dados são objecto de controlo a fim de impedir que possam ser lidos, copiados, alterados ou retirados por qualquer pessoa não autorizada;\n\nc) A inserção de dados é objecto de controlo para impedir a introdução, bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizada de dados pessoais;\n\nd) Os sistemas de tratamento automatizado de dados são objecto de controlo para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;\n\ne) O acesso aos dados é objecto de controlo para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;\n\nf) A transmissão dos dados é objecto de controlo para garantir que a sua utilização seja limitada às entidades autorizadas;\n\ng) A introdução de dados pessoais nos sistemas de tratamento automatizado é objecto de controlo, de forma a verificar-se que todos foram introduzidos, quando e por quem;\n\nh) O transporte de suportes de dados é objecto de controlo para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada."
+  },
+  "66985907": {
+   "fragment_id": "66984594",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de infracções do condutor",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de infracções do condutor\n\n1 - A Direcção-Geral de Viação (DGV) dispõe de uma base de dados contendo o registo de infracções do condutor (RIC).\n\n2 - A base de dados RIC visa organizar e manter actualizada a informação necessária ao exercício das competências da DGV e dos serviços competentes nas Regiões Autónomas, em especial nos processos de contra-ordenação resultantes da aplicação do Código da Estrada e legislação complementar.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985909": {
+   "fragment_id": "66984595",
+   "type": 11,
+   "heading": "Artigo 2.º — Responsável pela base de dados",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 2.º — Responsável pela base de dados\n\n1 - É responsável pela base de dados do RIC, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, o director-geral de Viação.\n\n2 - Cabe, em especial, ao director-geral de Viação assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como velar para que a consulta ou a comunicação da informação respeitem as condições previstas na lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985911": {
+   "fragment_id": "66984597",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo de infracções de condutores",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 4.º — Registo de infracções de condutores\n\n1 - O RIC é um ficheiro constituído por dados relativos:\n\na) À identificação do condutor;\n\nb) A cada infracção punida com inibição de condução em território nacional;\n\nc) À existência de inibição de condução aplicada por organismos estrangeiros;\n\nd) À existência de decisões em medida de segurança que impliquem cassação da licença de condução.\n\n2 - São dados de identificação do condutor:\n\na) O tipo de licença de que é titular;\n\nb) O número da licença de condução;\n\nc) O número do bilhete de identidade;\n\nd) A residência;\n\ne) O nome.\n\n3 - Relativamente a cada infracção punida com inibição de condução em território nacional são recolhidos os seguintes dados:\n\na) Número do auto;\n\nb) Entidade autuante;\n\nc) Data da infracção;\n\nd) Código da infracção;\n\ne) Data da decisão condenatória;\n\nf) Número de processo;\n\ng) Entidade decisória;\n\nh) Período de inibição;\n\ni) Data de início do período de inibição;\n\nj) Data do fim do período de inibição;\n\nl) Suspensão de execução de sanção acessória;\n\nm) Data do início do período de suspensão;\n\nn) Data do fim do período de suspensão;\n\no) Substituição por caução;\n\np) Período de caução;\n\nq) Valor da caução;\n\nr) Data da prestação da caução;\n\ns) Data da devolução da caução;\n\nt) Substituição por frequência de acção de formação;\n\nu) Período da acção de formação;\n\nv) Data do início da frequência de acção de formação;\n\nx) Data do fim da frequência de acção de formação;\n\nz) Acidente de viação.\n\n4 - Relativamente à existência de uma inibição de condução comunicada por organismos estrangeiros são recolhidos os seguintes dados:\n\na) País;\n\nb) Entidade que procedeu à comunicação;\n\nc) Período de inibição;\n\nd) Tipo de infracção.\n\n5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:\n\na) Data da cassação;\n\nb) Entidade responsável;\n\nc) Fundamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985914": {
+   "fragment_id": "66984599",
+   "type": 11,
+   "heading": "Artigo 6.º — Recolha e actualização",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Recolha e actualização\n\n1 - Os dados devem ser exactos e pertinentes, não podendo a sua recolha exceder os limites definidos no artigo 3.º\n\n2 - Os dados relativos às infracções praticadas apenas podem ser recolhidos após a decisão condenatória proferida no processo de contra-ordenação se ter tornado definitiva ou, quando se trate de decisão judicial, a mesma tiver transitado em julgado.\n\n3 - Os dados pessoais constantes da base de dados RIC são recolhidos a partir de impressos e requerimentos preenchidos pelos seus titulares ou pelos seus mandatários.\n\n4 - Os dados pessoais constantes da base de dados RIC podem ainda ser recolhidos a partir de informações colhidas pela DGV, no exercício da sua missão, e pelos serviços competentes das administrações regionais nas Regiões Autónomas, bem como recebidas de forças de segurança ou de serviços públicos quando tal se mostre necessário para o exercício das competências da DGV.\n\n5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à DGV, para permanente actualização da base de dados RIC, as decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985916": {
+   "fragment_id": "66984600",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso e comunicação de dados",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso e comunicação de dados\n\n1 - A Direcção-Geral, as direcções regionais, as delegações de viação e as divisões de contra-ordenações da DGV e, nas Regiões Autónomas, os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.\n\n2 - Os dados registados no RIC não podem ser transmitidos a outras entidades distintas das mencionadas no número anterior, salvo o disposto no número seguinte.\n\n3 - No âmbito da cooperação referida no n.º 4 do artigo anterior, os dados pessoais constantes na base de dados podem ser comunicados às forças de segurança ou aos governos civis, no quadro das respectivas atribuições, no âmbito da aplicação do Código da Estrada e legislação complementar, e ainda quando:\n\na) Exista obrigação ou autorização legal nesse sentido;\n\nb) Os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da DGV.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985917": {
+   "fragment_id": "66984603",
+   "type": 11,
+   "heading": "Artigo 10.º — Conservação dos dados",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 10.º — Conservação dos dados\n\nOs dados inseridos no RIC são conservados pelo prazo dos cinco anos subsequentes à decisão se tornar definitiva ou ao trânsito em julgado da sentença, findo o qual são eliminados de imediato.»\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985906": {
+   "fragment_id": "66984604",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito à informação e acesso aos dados",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Direito à informação e acesso aos dados\n\n1 - A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos que, constantes das bases de dados, lhe respeitem.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985903": {
+   "fragment_id": "66984605",
+   "type": 11,
+   "heading": "Artigo 12.º — Correcção de eventuais inexactidões",
+   "in_force_from": "2006-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 12.º — Correcção de eventuais inexactidões\n\nQualquer pessoa tem o direito de exigir a correcção de eventuais inexactidões, a supressão de dados indevidamente registados e o completamento das omissões dos dados que lhe digam respeito, nos termos previstos nos artigos 30.º e 31.º da Lei n.º 10/91, de 29 de Abril.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985881": {
+   "fragment_id": "66984607",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Manuel Dias Loureiro - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 1 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Dezembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "66985949": {
+   "fragment_id": "66984594",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de infracções do condutor",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de infracções do condutor\n\n1 - A Autoridade Nacional de Segurança Rodoviária (ANSR) dispõe de uma base de dados contendo o registo de infracções do condutor (RIC), a qual consta de ficheiro central informatizado.\n\n2 - A base de dados RIC visa:\n\na) Organizar e manter actualizada a informação necessária ao exercício das competências da ANSR e dos serviços competentes das Regiões Autónomas, em especial nos processos de contra-ordenação resultantes da aplicação do Código da Estrada e legislação complementar;\n\nb) Permitir o acesso à informação sobre o registo de infracções dos condutores e, ainda, a emissão automática de certidões de registo de infracções dos condutores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985950": {
+   "fragment_id": "66984595",
+   "type": 11,
+   "heading": "Artigo 2.º — Responsável da base de dados",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 2.º — Responsável da base de dados\n\n1 - É responsável pela base de dados do RIC, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, o presidente da ANSR.\n\n2 - Cabe, em especial, ao presidente da ANSR assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como velar para que a consulta ou a comunicação da informação respeitem as condições previstas na lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985951": {
+   "fragment_id": "66984596",
+   "type": 11,
+   "heading": "Artigo 3.º — Dados recolhidos",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 3.º — Dados recolhidos\n\nA recolha de dados para tratamento automatizado, no âmbito das competências da ANSR, deve limitar-se ao que seja necessário para a prossecução dos objectivos legalmente definidos para a respectiva base de dados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "66985953": {
+   "fragment_id": "66984597",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo de infracções de condutores",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 4.º — Registo de infracções de condutores\n\n1 - O RIC é um ficheiro constituído por dados relativos:\n\na) À identificação do condutor;\n\nb) A cada infracção punida com inibição ou proibição de condução em território nacional;\n\nc) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;\n\nd) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos dos títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) O número do bilhete de identidade;\n\nd) A residência;\n\ne) O nome.\n\n3 - Relativamente a cada infracção punida com inibição ou proibição de condução em território nacional, são recolhidos os seguintes dados:\n\na) Número do auto;\n\nb) Entidade autuante;\n\nc) Data da infracção;\n\nd) Código da infracção;\n\ne) Data da decisão condenatória;\n\nf) Número de processo;\n\ng) Entidade decisória;\n\nh) Período de inibição ou proibição;\n\ni) Data de início do período de inibição ou proibição;\n\nj) Data do fim do período de inibição ou proibição;\n\nl) Suspensão de execução de sanção acessória;\n\nm) Data do início do período de suspensão;\n\nn) Data do fim do período de suspensão;\n\no) Substituição por caução;\n\np) Período de caução;\n\nq) Valor da caução;\n\nr) Data da prestação da caução;\n\ns) Data da devolução da caução;\n\nt) Substituição por frequência de acção de formação;\n\nu) Período da acção de formação;\n\nv) Data do início da frequência de acção de formação;\n\nx) Data do fim da frequência de acção de formação;\n\nz) Acidente de viação.\n\n4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:\n\na) País;\n\nc) Período de inibição ou proibição;\n\nd) Data de início do período de inibição ou proibição;\n\ne) Data do fim do período de inibição ou proibição;\n\nf) Tipo de infracção.\n\n5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:\n\na) Data da cassação;\n\nb) Entidade responsável;\n\nc) Fundamento;\n\nd) Período durante o qual não pode ser concedido novo título de condução.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985954": {
+   "fragment_id": "66984598",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro\n\n1 - O registo de infractores habilitados com título de condução estrangeiro é constituído pelos dados de identificação do condutor, pelas condenações por infracção com inibição ou proibição de condução em território nacional e pelas condenações em medida de segurança que impliquem cassação do título de condução.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos de títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) A identificação da entidade emissora;\n\nd) O número do bilhete de identidade ou do passaporte;\n\ne) A residência;\n\nf) O nome.\n\n3 - Relativamente às infracções punidas com inibição ou proibição de condução em território nacional e à aplicação de medidas de segurança que impliquem cassação dos títulos de condução são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "66985956": {
+   "fragment_id": "66984599",
+   "type": 11,
+   "heading": "Artigo 6.º — Recolha e actualização",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Recolha e actualização\n\n4 - Os dados pessoais constantes da base de dados RIC podem ainda ser recolhidos a partir das informações obtidas pela ANSR, no exercício da sua missão, e pelos serviços competentes das administrações regionais nas Regiões Autónomas, bem como recebidas de forças de segurança ou de serviços públicos, quando tal se mostre necessário para o exercício das competências da ANSR.\n\n5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à ANSR, para permanente actualização da base de dados RIC, os extractos das decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.\n\n6 - O extracto da decisão condenatória deve conter a indicação:\n\na) Do tribunal que proferiu a decisão, juízo, número e forma do processo;\n\nb) Da identificação civil do arguido: nome, naturalidade, nacionalidade, data de nascimento, número do bilhete de identidade ou, na sua falta, do passaporte ou de outro documento de identificação idóneo, número do título de condução e residência;\n\nc) Da designação e data da prática da infracção ou do crime;\n\nd) Da data da decisão e do trânsito em julgado;\n\ne) Dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019575": {
+   "fragment_id": "66984600",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso aos dados",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso aos dados\n\n1 - A ANSR e, nas Regiões Autónomas, os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.\n\n2 - Podem ainda aceder à informação contida na base de dados a que se refere o artigo 2.º:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais ou no âmbito de recursos de decisões proferidas pela ANSR;\n\nb) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;\n\nc) O Instituto de Mobilidade e Transportes Terrestres, I. P. (IMTT, I. P.), para efeitos de revalidação, troca, substituição e emissão de duplicado de título de condução;\n\nd) Os governos civis, com vista a facultar ao titular da informação o conhecimento do conteúdo do seu registo de infracções ou a emitir certidões desse registo.\n\n3 - A Guarda Nacional Republicana e a Polícia de Segurança Pública podem aceder indirectamente à base de dados, no âmbito de acções de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019576": {
+   "fragment_id": "66984601",
+   "type": 11,
+   "heading": "Artigo 8.º — Comunicação de dados",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 8.º — Comunicação de dados\n\nOs dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades competentes de outro estado no âmbito de acordo bilateral, convenção ou tratado internacional a que o Estado Português se encontre vinculado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "67019577": {
+   "fragment_id": "66984602",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação para fins de estatística",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 9.º — Informação para fins de estatística\n\nPara além dos casos previstos no artigo 7.º, a informação pode ser divulgada para fins estatísticos, mediante autorização do responsável das bases de dados e desde que não possam ser identificáveis as pessoas a que respeita, observadas as disposições legais aplicáveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "67019578": {
+   "fragment_id": "66984604",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito à informação e acesso aos dados",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Direito à informação e acesso aos dados\n\n1 - A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos que, constantes das bases de dados, lhe respeitem.\n\n2 - Para efeitos do disposto no número anterior pode ser facultada ao titular dos dados a reprodução do registo informático, podendo para o efeito ser utilizada a via electrónica, não substituindo em caso algum a certidão do RIC.\n\n3 - O acesso à informação contida na base de dados é definido por articulação entre os governos civis e a ANSR, mediante protocolo que é objecto de parecer da Comissão Nacional de Protecção de Dados (CNPD).\n\n4 - As entidades autorizadas a aceder a essa informação são obrigadas a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n5 - O acesso à base de dados pelo IMTT, I. P., permite obter informação sobre a existência de sanções por cumprir, que estejam a ser cumpridas ou já concluídas em relação a condutores determinados.\n\n6 - O acesso indirecto à base de dados, previsto no n.º 3 do artigo 7.º, permite obter informação sobre sanções por cumprir e sobre inibições ou proibições de condução do condutor fiscalizado no âmbito do Código da Estrada que estejam em vigor, e ainda para a verificação dos pressupostos previstos na Lei n.º 5/2006, de 23 de Junho, quanto à emissão de licença para uso e porte de arma e sua detenção.\n\n7 - O acesso pelos governos civis permite apenas a emissão de certidões ou a prestação de informações requeridas pelos titulares dos dados a que aquelas respeitam.\n\n8 - As condições de acesso à base de dados são definidas por despacho do presidente da ANSR, que é sujeito a parecer da CNPD.\n\n9 - Todas as operações relacionadas com o acesso por parte das entidades autorizadas dependem de utilização de palavra chave que identifique os postos de trabalho, a pessoa que acede à informação, a hora e o tempo de acesso.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "66985948": {
+   "fragment_id": "66984605",
+   "type": 11,
+   "heading": "Artigo 12.º — Certidão do registo de infracções do condutor",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 12.º — Certidão do registo de infracções do condutor\n\n1 - A certidão do registo de infracções do condutor é emitida, com recurso preferencial a meios informáticos, pela ANSR, a requerimento do titular dos dados.\n\n2 - A emissão de certidões de registo de infracções do condutor pode processar-se automaticamente em terminais de computador colocados nos governos civis, com garantia do controlo e segurança da transmissão dos dados.\n\n3 - O respectivo serviço emissor deve manter organizado o registo de todas as certidões emitidas nos três meses imediatamente anteriores, por forma a possibilitar a correcção ou rectificação de certidões emitidas ou a atender a reclamações por eventuais extravios.\n\n4 - O processamento automático da emissão de certidões em instalações dos governos civis é determinado por despacho do membro do Governo responsável pela área da administração interna, que é sujeito a parecer da CNPD.\n\n5 - As certidões são devidamente autenticadas pela entidade onde se processa a emissão, não sendo válidas as que apresentem emendas, rasuras ou entrelinhas.\n\n6 - As certidões são válidas por três meses a contar da data da sua emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019579": {
+   "fragment_id": "66984606",
+   "type": 11,
+   "heading": "Artigo 13.º — Segurança da informação",
+   "in_force_from": "2009-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 13.º — Segurança da informação\n\nTendo em vista a segurança da informação, cabe ao responsável pelas bases de dados a que se refere o presente diploma garantir a observação das seguintes regras:\n\n1 - Tendo em vista a segurança da informação, cabe ao responsável pela base de dados a que se refere o presente decreto-lei garantir a observação das seguintes regras:\n\na) A entrada nas instalações utilizadas para tratamento de dados pessoais é objecto de controlo, a fim de impedir o acesso de qualquer pessoa não autorizada;\n\nb) Os suportes de dados são objecto de controlo a fim de impedir que possam ser lidos, copiados, alterados ou retirados por qualquer pessoa não autorizada;\n\nc) A inserção de dados é objecto de controlo para impedir a introdução, bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizada de dados pessoais;\n\nd) Os sistemas de tratamento automatizado de dados são objecto de controlo para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;\n\ne) O acesso aos dados é objecto de controlo para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;\n\nf) A transmissão dos dados é objecto de controlo para garantir que a sua utilização seja limitada às entidades autorizadas;\n\ng) A introdução, consulta, alteração ou eliminação de dados pessoais nos sistemas de tratamento automatizado é objecto de controlo, de forma a verificar-se quais os dados introduzidos, consultados, alterados ou eliminados, quando e por quem, mantendo-se o registo dessas operações por um período de quatro anos;\n\nh) O transporte de suportes de dados é objecto de controlo para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada.\n\n2 - O uso indevido da informação disponível nas bases de dados do RIC é punido nos termos previstos na Lei n.º 67/98, de 26 de Outubro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "67019580": {
+   "fragment_id": "66984600",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso aos dados",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso aos dados\n\n1 - A ANSR e, nas Regiões Autónomas, os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.\n\n2 - Podem ainda aceder à informação contida na base de dados a que se refere o artigo 2.º:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais ou no âmbito de recursos de decisões proferidas pela ANSR;\n\nb) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;\n\nc) O Instituto de Mobilidade e Transportes Terrestres, I. P. (IMTT, I. P.), para efeitos de revalidação, troca, substituição e emissão de duplicado de título de condução;\n\nd) (Revogada).\n\n3 - A Guarda Nacional Republicana e a Polícia de Segurança Pública podem aceder indirectamente à base de dados, no âmbito de acções de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019581": {
+   "fragment_id": "66984604",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito à informação e acesso aos dados",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Direito à informação e acesso aos dados\n\n1 - A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos que, constantes das bases de dados, lhe respeitem.\n\n2 - Para efeitos do disposto no número anterior pode ser facultada ao titular dos dados a reprodução do registo informático, podendo para o efeito ser utilizada a via electrónica, não substituindo em caso algum a certidão do RIC.\n\n3 - O acesso à informação contida na base de dados é da responsabilidade da ANSR.\n\n4 - As entidades autorizadas a aceder a essa informação são obrigadas a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n5 - O acesso à base de dados pelo IMTT, I. P., permite obter informação sobre a existência de sanções por cumprir, que estejam a ser cumpridas ou já concluídas em relação a condutores determinados.\n\n6 - O acesso indirecto à base de dados, previsto no n.º 3 do artigo 7.º, permite obter informação sobre sanções por cumprir e sobre inibições ou proibições de condução do condutor fiscalizado no âmbito do Código da Estrada que estejam em vigor, e ainda para a verificação dos pressupostos previstos na Lei n.º 5/2006, de 23 de Junho, quanto à emissão de licença para uso e porte de arma e sua detenção.\n\n7 - (Revogado).\n\n8 - As condições de acesso à base de dados são definidas por despacho do presidente da ANSR, que é sujeito a parecer da CNPD.\n\n9 - Todas as operações relacionadas com o acesso por parte das entidades autorizadas dependem de utilização de palavra chave que identifique os postos de trabalho, a pessoa que acede à informação, a hora e o tempo de acesso.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019582": {
+   "fragment_id": "66984605",
+   "type": 11,
+   "heading": "Artigo 12.º — Certidão do registo de infracções do condutor",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 12.º — Certidão do registo de infracções do condutor\n\n1 - A certidão do registo de infracções do condutor é emitida, com recurso preferencial a meios informáticos, pela ANSR, a requerimento do titular dos dados.\n\n2 - (Revogado).\n\n3 - O respectivo serviço emissor deve manter organizado o registo de todas as certidões emitidas nos três meses imediatamente anteriores, por forma a possibilitar a correcção ou rectificação de certidões emitidas ou a atender a reclamações por eventuais extravios.\n\n2 - (Revogado).\n\n5 - As certidões são devidamente autenticadas pela entidade onde se processa a emissão, não sendo válidas as que apresentem emendas, rasuras ou entrelinhas.\n\n6 - As certidões são válidas por três meses a contar da data da sua emissão.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019583": {
+   "fragment_id": "66984594",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de infracções do condutor",
+   "in_force_from": "2015-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de infracções do condutor\n\n1 - A Autoridade Nacional de Segurança Rodoviária (ANSR) dispõe de uma base de dados contendo o registo de infracções do condutor (RIC), a qual consta de ficheiro central informatizado.\n\n2 - A base de dados RIC visa:\n\na) Organizar e manter actualizada a informação necessária ao exercício das competências da ANSR e dos serviços competentes das Regiões Autónomas, em especial nos processos de contra-ordenação resultantes da aplicação do Código da Estrada e legislação complementar;\n\nb) Permitir o acesso à informação sobre o registo de infracções dos condutores e, ainda, a emissão automática de certidões de registo de infracções dos condutores.\n\nc) Permitir a fiscalização da injunção de proibição de conduzir veículos a motor aplicada em sede de suspensão provisória do processo penal.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019584": {
+   "fragment_id": "66984597",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo de infracções de condutores",
+   "in_force_from": "2015-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 4.º — Registo de infracções de condutores\n\n1 - O RIC é um ficheiro constituído por dados relativos:\n\na) À identificação do condutor;\n\nb) A cada infracção punida com inibição ou proibição de condução em território nacional;\n\nc) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;\n\nd) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução.\n\ne) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos dos títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) O número do bilhete de identidade;\n\nd) A residência;\n\ne) O nome.\n\n3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, são recolhidos os seguintes dados:\n\na) Número do auto;\n\nb) Entidade autuante;\n\nc) Data da infracção;\n\nd) Código da infracção;\n\ne) Data da decisão condenatória ou do despacho que determinou a suspensão provisória do processo penal;\n\nf) Número de processo;\n\ng) Entidade decisória;\n\nh) Período de inibição ou proibição;\n\ni) Data de início do período de inibição ou proibição;\n\nj) Data do fim do período de inibição ou proibição;\n\nl) Suspensão de execução de sanção acessória;\n\nm) Data do início do período de suspensão;\n\nn) Data do fim do período de suspensão;\n\no) Substituição por caução;\n\np) Período de caução;\n\nq) Valor da caução;\n\nr) Data da prestação da caução;\n\ns) Data da devolução da caução;\n\nt) Substituição por frequência de acção de formação;\n\nu) Período da acção de formação;\n\nv) Data do início da frequência de acção de formação;\n\nx) Data do fim da frequência de acção de formação;\n\nz) Acidente de viação.\n\n4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:\n\na) País;\n\nc) Período de inibição ou proibição;\n\nd) Data de início do período de inibição ou proibição;\n\ne) Data do fim do período de inibição ou proibição;\n\nf) Tipo de infracção.\n\n5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:\n\na) Data da cassação;\n\nb) Entidade responsável;\n\nc) Fundamento;\n\nd) Período durante o qual não pode ser concedido novo título de condução.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "67019585": {
+   "fragment_id": "66984598",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro",
+   "in_force_from": "2015-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro\n\n1 - O registo de infratores habilitados com título de condução estrangeiro é constituído pelos dados de identificação do condutor, pelas condenações por infração com inibição ou proibição de condução em território nacional, pelas condenações em medida de segurança que impliquem cassação da licença de condução e pela aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos de títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) A identificação da entidade emissora;\n\nd) O número do bilhete de identidade ou do passaporte;\n\ne) A residência;\n\nf) O nome.\n\n3 - Relativamente às infrações punidas com inibição ou proibição de condução em território nacional, à aplicação de medidas de segurança que impliquem cassação dos títulos de condução e à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "67019586": {
+   "fragment_id": "66984599",
+   "type": 11,
+   "heading": "Artigo 6.º — Recolha e actualização",
+   "in_force_from": "2015-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Recolha e actualização\n\n4 - Os dados pessoais constantes da base de dados RIC podem ainda ser recolhidos a partir das informações obtidas pela ANSR, no exercício da sua missão, e pelos serviços competentes das administrações regionais nas Regiões Autónomas, bem como recebidas de forças de segurança ou de serviços públicos, quando tal se mostre necessário para o exercício das competências da ANSR.\n\n5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à ANSR, para permanente actualização da base de dados RIC, os extractos das decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.\n\n6 - O extrato da decisão condenatória ou da decisão que determinou a suspensão provisória do processo penal deve conter a indicação:\n\na) Do tribunal e juízo que proferiu a decisão condenatória, ou do serviço ou departamento do Ministério Público que proferiu a decisão de suspensão provisória do processo penal, número e forma do processo;\n\nb) Da identificação civil do arguido: nome, naturalidade, nacionalidade, data de nascimento, número do bilhete de identidade ou, na sua falta, do passaporte ou de outro documento de identificação idóneo, número do título de condução e residência;\n\nc) Da designação e data da prática da infracção ou do crime;\n\nd) Da data da decisão condenatória e respetivo trânsito em julgado, ou da decisão que determinou a suspensão provisória do processo penal;\n\ne) Dos preceitos violados e das penas principais, de substituição e acessórias, ou das medidas de segurança aplicadas na decisão condenatória, ou da injunção aplicada em sede de suspensão provisória do processo.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150908597": {
+   "fragment_id": "66984594",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de infracções do condutor",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de infracções do condutor\n\n1 - A Autoridade Nacional de Segurança Rodoviária (ANSR) dispõe de uma base de dados, designada Registo Individual do Condutor (RIC), que contém o registo de infrações e a pontuação associados ao título de condução do condutor, a qual consta de ficheiro central informatizado.\n\n2 - A base de dados RIC visa:\n\na) Organizar e manter atualizada a informação necessária ao exercício das competências da ANSR e dos serviços competentes das Regiões Autónomas, em especial nos processos de contraordenação e de cassação do título de condução resultantes da aplicação do Código da Estrada e legislação complementar;\n\nb) Permitir o acesso à informação sobre o registo de infrações dos condutores e a emissão automática de certidões de registo de infrações e da pontuação dos títulos de condução dos condutores;\n\nc) Permitir a fiscalização da injunção de proibição de conduzir veículos a motor aplicada em sede de suspensão provisória do processo penal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150908598": {
+   "fragment_id": "66984597",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo de infrações e da pontuação dos condutores",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 4.º — Registo de infrações e da pontuação dos condutores\n\n1 - O RIC é um ficheiro constituído por dados relativos:\n\na) À identificação do condutor;\n\nb) A cada infracção punida com inibição ou proibição de condução em território nacional;\n\nc) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;\n\nd) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução;\n\ne) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal;\n\nf) Ao número de pontos detidos por cada condutor.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos dos títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) O número do bilhete de identidade ou do cartão de cidadão;\n\nd) A residência;\n\ne) O nome.\n\n3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, e para efeitos do disposto no n.º 7 do artigo 148.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, alterado pelos Decretos-Leis n.os 44/2005, de 23 de fevereiro, 113/2008, de 1 de julho, e 113/2009, de 18 de maio e pelas Leis n.os 78/2009, de 13 de agosto, 46/2010, de 7 de setembro, 72/2013, de 3 de setembro, e 116/2015, de 28 de agosto, e pelo Decreto-Lei n.º 40/2016, de 29 de julho, são recolhidos os seguintes dados:\n\na) Número do auto;\n\nb) Entidade autuante;\n\nc) Data da infracção;\n\nd) Código da infracção;\n\ne) Data da decisão condenatória ou do despacho que determinou a suspensão provisória do processo penal;\n\nf) Número de processo;\n\ng) Entidade decisória;\n\nh) Período de inibição ou proibição;\n\ni) Data de início do período de inibição ou proibição;\n\nj) Data do fim do período de inibição ou proibição;\n\nl) Suspensão de execução de sanção acessória;\n\nm) Data do início do período de suspensão;\n\nn) Data do fim do período de suspensão;\n\no) Substituição por caução;\n\np) Período de caução;\n\nq) Valor da caução;\n\nr) Data da prestação da caução;\n\ns) Data da devolução da caução;\n\nt) Substituição por frequência de acção de formação;\n\nu) Período da acção de formação;\n\nv) Data do início da frequência de acção de formação;\n\nx) Data do fim da frequência de acção de formação;\n\nz) Acidente de viação;\n\naa) Número de pontos subtraídos;\n\nbb) Data da notificação de que o condutor tem cinco ou menos pontos;\n\ncc) Frequência voluntária de ação de formação de segurança rodoviária, para efeitos de atribuição de um ponto no momento da revalidação da carta de condução;\n\ndd) Datas de início e de fim do período em que frequentou a ação de formação de segurança rodoviária;\n\nee) Data da notificação de que o condutor tem três ou menos pontos;\n\nff) Data de realização da prova teórica do exame de condução;\n\ngg) Indicação de falta injustificada à ação de formação ou à prova teórica do exame de condução;\n\nhh) Indicação da reprovação na prova teórica do exame de condução.\n\n4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:\n\na) País;\n\nc) Período de inibição ou proibição;\n\nd) Data de início do período de inibição ou proibição;\n\ne) Data do fim do período de inibição ou proibição;\n\nf) Tipo de infracção.\n\n5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:\n\na) Data da cassação;\n\nb) Entidade responsável;\n\nc) Fundamento;\n\nd) Período durante o qual não pode ser concedido novo título de condução.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150908599": {
+   "fragment_id": "66984598",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro\n\n1 - O registo de infratores habilitados com título de condução estrangeiro é constituído pelos dados de identificação do condutor, pelas condenações por infração com inibição ou proibição de condução em território nacional, pelas condenações em medida de segurança que impliquem cassação da licença de condução e pela aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos de títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) A identificação da entidade emissora;\n\nd) O número do bilhete de identidade, ou do cartão do cidadão, ou do passaporte;\n\ne) A residência;\n\nf) O nome.\n\n3 - Relativamente às infrações punidas com inibição ou proibição de condução em território nacional, à aplicação de medidas de segurança que impliquem cassação dos títulos de condução e à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "150908600": {
+   "fragment_id": "66984599",
+   "type": 11,
+   "heading": "Artigo 6.º — Recolha e actualização",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Recolha e actualização\n\n1 - Os dados devem ser exatos e pertinentes, não podendo a sua recolha exceder os limites definidos no artigo 3.º.\n\n2 - Os dados relativos às infrações praticadas apenas podem ser recolhidos após a decisão condenatória proferida no processo de contraordenação se ter tornado definitiva ou, quando se trate de decisão judicial, a mesma tiver transitado em julgado.\n\n3 - Os dados pessoais constantes da base de dados RIC são recolhidos a partir de requerimentos ou formulários online preenchidos pelos seus titulares ou pelos seus mandatários com poderes especiais para o efeito.\n\n4 - Os dados pessoais constantes da base de dados RIC podem ainda ser recolhidos a partir das informações obtidas pela ANSR, no exercício da sua missão, e pelos serviços competentes das administrações regionais nas Regiões Autónomas, bem como recebidas de forças de segurança ou de serviços públicos quando tal se mostre necessário para o exercício das competências da ANSR.\n\n5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à ANSR, preferencialmente por meio eletrónico, para permanente atualização da base de dados RIC, os extratos das decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.\n\n6 - O extrato da decisão condenatória ou da decisão que determinou a suspensão provisória do processo penal deve conter a indicação:\n\na) Do tribunal e juízo que proferiu a decisão condenatória, ou do serviço ou departamento do Ministério Público que proferiu a decisão de suspensão provisória do processo penal, número e forma do processo;\n\nb) Da identificação civil do arguido: nome, naturalidade, nacionalidade, data de nascimento, número do bilhete de identidade ou cartão de cidadão ou, na sua falta, do passaporte ou de outro documento de identificação idóneo, número do título de condução e residência;\n\nc) Da designação e data da prática da infração ou do crime;\n\nd) Da data da decisão condenatória e respetivo trânsito em julgado, ou da decisão que determinou a suspensão provisória do processo penal;\n\ne) Dos preceitos violados e das penas principais, de substituição e acessórias, ou das medidas de segurança aplicadas na decisão condenatória, ou da injunção aplicada em sede de suspensão provisória do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150908601": {
+   "fragment_id": "66984600",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso aos dados",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso aos dados\n\n1 - A ANSR e, nas Regiões Autónomas, os serviços competentes, acedem aos dados contidos na base de dados a que se refere o artigo 1.º através de uma linha de transmissão de dados.\n\n2 - Podem ainda aceder à informação contida na base de dados a que se refere o artigo 1.º:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais ou no âmbito de recursos de decisões proferidas pela ANSR;\n\nb) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;\n\nc) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), para efeitos de revalidação, troca, substituição e emissão de 2.ª via de título de condução;\n\nd) (Revogada).\n\n3 - A Guarda Nacional Republicana e a Polícia de Segurança Pública podem aceder indirectamente à base de dados, no âmbito de acções de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150908602": {
+   "fragment_id": "66984601",
+   "type": 11,
+   "heading": "Artigo 8.º — Comunicação de dados",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+   ],
+   "markdown": "###### Artigo 8.º — Comunicação de dados\n\nOs dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades competentes de outro Estado no âmbito de instrumento de direito internacional convencional a que o Estado Português se encontre vinculado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06"
+  },
+  "150908603": {
+   "fragment_id": "66984604",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito à informação e acesso aos dados",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Direito à informação e acesso aos dados\n\n1 - A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos que, constantes das bases de dados, lhe respeitem.\n\n2 - Para efeitos do disposto no número anterior pode o titular dos dados consultar online os registos das infrações e da pontuação associados aos títulos de condução, bem como ser-lhe facultada a reprodução do registo informático, podendo para o efeito ser utilizada a via eletrónica, que não substitui a certidão do RIC.\n\n3 - O acesso à informação contida na base de dados é da responsabilidade da ANSR.\n\n4 - As entidades autorizadas a aceder a essa informação são obrigadas a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n5 - O acesso à base de dados pelo IMT, I. P., permite obter informação relativa a determinado condutor sobre a existência de sanções por cumprir, que estejam a ser cumpridas ou já concluídas.\n\n6 - O acesso indireto à base de dados, previsto no n.º 3 do artigo 7.º, permite obter informação sobre sanções por cumprir e sobre inibições ou proibições de condução do condutor fiscalizado no âmbito do Código da Estrada, que estejam em vigor.\n\n7 - (Revogado).\n\n8 - As condições de acesso à base de dados são definidas por despacho do presidente da ANSR, que é sujeito a parecer da Comissão Nacional de Proteção de Dados (CNPD).\n\n9 - Todas as operações relacionadas com o acesso por parte das entidades autorizadas dependem de utilização de palavra chave que identifique os postos de trabalho, a pessoa que acede à informação, a hora e o tempo de acesso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150908604": {
+   "fragment_id": "66984605",
+   "type": 11,
+   "heading": "Artigo 12.º — Certidão do registo de infrações do condutor e da pontuação dos títulos de condução",
+   "in_force_from": "2016-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 12.º — Certidão do registo de infrações do condutor e da pontuação dos títulos de condução\n\n1 - A certidão do registo de infrações do condutor e do número de pontos associados ao título de condução é emitida pela ANSR, preferencialmente por meio eletrónico, a requerimento do titular, podendo ser disponibilizada online mediante a introdução de um código de validação facultado para o efeito.\n\n2 - (Revogado).\n\n3 - O respectivo serviço emissor deve manter organizado o registo de todas as certidões emitidas nos três meses imediatamente anteriores, por forma a possibilitar a correcção ou rectificação de certidões emitidas ou a atender a reclamações por eventuais extravios.\n\n2 - (Revogado).\n\n5 - As certidões são devidamente autenticadas pela entidade onde se processa a emissão, não sendo válidas as que apresentem emendas, rasuras ou entrelinhas.\n\n6 - As certidões são válidas por três meses a contar da data da sua emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150907822": {
+   "fragment_id": "66984597",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo de infrações e da pontuação dos condutores",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 4.º — Registo de infrações e da pontuação dos condutores\n\n1 - O RIC é um ficheiro constituído por dados relativos:\n\na) À identificação do condutor;\n\nb) A cada infracção punida com inibição ou proibição de condução em território nacional;\n\nc) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;\n\nd) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução;\n\ne) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal;\n\nf) Ao número de pontos detidos por cada condutor.\n\n2 - São dados de identificação do condutor:\n\na) Os tipos dos títulos de condução de que é titular;\n\nb) Os números dos títulos de condução;\n\nc) O número do bilhete de identidade ou do cartão de cidadão;\n\nd) A residência;\n\ne) O nome.\n\n3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, e para efeitos do disposto no n.º 7 do artigo 148.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua redação atual, são recolhidos os seguintes dados:\n\na) Número do auto;\n\nb) Entidade autuante;\n\nc) Data da infracção;\n\nd) Código da infracção;\n\ne) Data da decisão condenatória ou do despacho que determinou a suspensão provisória do processo penal;\n\nf) Número de processo;\n\ng) Entidade decisória;\n\nh) Período de inibição ou proibição;\n\ni) Data de início do período de inibição ou proibição;\n\nj) Data do fim do período de inibição ou proibição;\n\nl) Suspensão de execução de sanção acessória;\n\nm) Data do início do período de suspensão;\n\nn) Data do fim do período de suspensão;\n\no) Substituição por caução;\n\np) Período de caução;\n\nq) Valor da caução;\n\nr) Data da prestação da caução;\n\ns) Data da devolução da caução;\n\nt) Substituição por frequência de acção de formação;\n\nu) Período da acção de formação;\n\nv) Data do início da frequência de acção de formação;\n\nx) Data do fim da frequência de acção de formação;\n\nz) Acidente de viação;\n\naa) Número de pontos subtraídos;\n\nbb) Data da notificação de que o condutor tem cinco ou menos pontos;\n\ncc) Frequência voluntária de ação de formação de segurança rodoviária, para efeitos de atribuição de um ponto no momento da revalidação da carta de condução;\n\ndd) Datas de início e de fim do período em que frequentou a ação de formação de segurança rodoviária;\n\nee) Data da notificação de que o condutor tem três ou menos pontos;\n\nff) Data de realização da prova teórica do exame de condução;\n\ngg) Indicação de falta injustificada à ação de formação ou à prova teórica do exame de condução;\n\nhh) Indicação da reprovação na prova teórica do exame de condução.\n\n4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:\n\na) País;\n\nc) Período de inibição ou proibição;\n\nd) Data de início do período de inibição ou proibição;\n\ne) Data do fim do período de inibição ou proibição;\n\nf) Tipo de infracção.\n\n5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:\n\na) Data da cassação;\n\nb) Entidade responsável;\n\nc) Fundamento;\n\nd) Período durante o qual não pode ser concedido novo título de condução.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150907823": {
+   "fragment_id": "66984600",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso aos dados",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso aos dados\n\n1 - A ANSR e, nas Regiões Autónomas, os serviços competentes, acedem aos dados contidos na base de dados a que se refere o artigo 1.º através de uma linha de transmissão de dados.\n\n2 - Podem ainda aceder à informação contida na base de dados a que se refere o artigo 1.º:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais ou no âmbito de recursos de decisões proferidas pela ANSR;\n\nb) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;\n\nc) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), para efeitos de revalidação, troca, substituição e emissão de 2.ª via de título de condução, emissão de títulos de certificação profissional, quando lei especial o imponha, e análise dos processos administrativos para efeitos do disposto no artigo 129.º do Código da Estrada;\n\nd) (Revogada).\n\ne) A Guarda Nacional Republicana e a Polícia de Segurança Pública, no âmbito de ações de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  },
+  "150907824": {
+   "fragment_id": "66984604",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito à informação e acesso aos dados",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Direito à informação e acesso aos dados\n\n1 - Qualquer pessoa, desde que devidamente identificada, tem o direito de conhecer o conteúdo dos registos, constantes das bases de dados, que lhe respeitem.\n\n2 - Para efeitos do disposto no número anterior, o titular dos dados pode consultar, por via eletrónica, os registos das infrações e da pontuação associados ao seu título de condução e, pela mesma via, obter a reprodução do registo informático, a qual não substitui a certidão do RIC.\n\n3 - O acesso à informação contida na base de dados é da responsabilidade da ANSR.\n\n4 - As entidades autorizadas a aceder a essa informação são obrigadas a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n5 - O acesso à base de dados pelo IMT, I. P., permite obter informação relativa a determinado condutor sobre a existência de sanções por cumprir, que estejam a ser cumpridas ou já concluídas.\n\n6 - (Revogado).\n\n7 - (Revogado).\n\n8 - As condições de acesso à base de dados são definidas por despacho do presidente da ANSR, que é sujeito a parecer da Comissão Nacional de Proteção de Dados (CNPD).\n\n9 - Todas as operações relacionadas com o acesso por parte das entidades autorizadas dependem de utilização de palavra chave que identifique os postos de trabalho, a pessoa que acede à informação, a hora e o tempo de acesso.\n\n10 - O disposto no n.º 2 pode suceder através da Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12"
+  }
+ }
+}

@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:358950:por
+title: Decreto-Lei n.º 181/2001
+short_title: null
+summary: Regula os suplementos de turno e de piquete do pessoal com funções policiais da Polícia de Segurança Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 181/2001
+official_date: null
+publication_date: '2001-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/2001, Série I-A de 2001-06-19
+  number: '140'
+  series: I
+  supplement: null
+  pages: 3547 - 3549
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/140a00/35473549.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/181/2001/06/19/p/dre/pt/html
+  oj: null
+  dre: '358950'
+  dre_path: /dr/detalhe/decreto-lei/181-2001-358950
+  internal: pt:dre:358950:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2001-358950
+  metadata_url: https://data.dre.pt/eli/dec-lei/181/2001/06/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2001-358950
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 431f7fed497e98fdc8c2cb594f11ab3c10b1e80c09e1a6d020ba6ef3f7bd7c67
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aposentação
+- Cálculo de Pensões
+- Carreira Profissional
+- PSP
+- Remuneração Acessória
+- Sistema Retributivo
+relationships:
+- type: amended_by
+  target: pt:dre:491437:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:491437:por
+  label: "Extinto, a partir de 01.01.2010, o suplemento de turno e piquete, e revogado, a partir da mesma data, este diploma\
+    \ pelo DEC LEI.299/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
+- type: cites
+  target: pt:dre:180022:por
+  label: null
+  source: http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre
+article_structure:
+  article_count: 10
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:25:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 181/2001
+
+de 19 de Junho
+
+O [Decreto-Lei n.º 511/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1999-643086), de 24 de Novembro, que procedeu à aprovação do Estatuto de Pessoal da Polícia de Segurança Pública, contemplou no artigo 69.º a atribuição dos suplementos de piquete e de turno, em consonância, aliás, com o disposto no n.º 7 do artigo 91.º da [Lei n.º 5/99](https://diariodarepublica.pt/dr/detalhe/lei/5-1999-180022), de 27 de Janeiro (Lei de Organização e Funcionamento da Polícia de Segurança Pública).
+
+Importa, pois, no desenvolvimento de uma política de estímulo à actividade operacional efectiva da Polícia de Segurança Pública, disciplinar a atribuição destes suplementos, por forma a compensar a prestação de serviço em regime de rotatividade de horário ou em regime de piquete, particularmente em período coincidente com o período nocturno ou em fim-de-semana ou feriado.
+
+O montante dos suplementos em causa tem por referência o índice 100 da escala indiciária das forças de segurança e varia percentualmente de acordo com a carreira e o período em que são desempenhadas funções nas condições específicas referidas, com um determinado limite máximo.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo n.º 6 do artigo 69.º do [Decreto-Lei n.º 511/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1999-643086), de 24 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais e comuns
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regula os suplementos de turno e de piquete a atribuir ao pessoal com funções policiais da Polícia de Segurança Pública (PSP) e define os respectivos conceitos e regimes de atribuição.
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma aplica-se ao pessoal com funções policiais da Polícia de Segurança Pública que, nos termos das respectivas escalas de serviço, exerça as suas funções em regime de rotatividade de horário ou sob a forma de piquete.
+
+###### Artigo 3.º — Regime geral
+
+1 - Os suplementos referidos no artigo 1.º só são devidos quando se verifique prestação efectiva de serviço, nos termos definidos no presente diploma.
+
+2 - Os suplementos não são considerados no cálculo dos subsídios de férias e de Natal.
+
+3 - Os suplementos estão sujeitos ao desconto da quota legal para a Caixa Geral de Aposentações e intervêm no cálculo da pensão de aposentação nos termos do regime aplicável.
+
+### CAPÍTULO II — Suplemento de turno
+
+###### Artigo 4.º — Conceito
+
+Considera-se suplemento de turno a compensação remuneratória mensal atribuída ao pessoal referido no artigo 2.º pelas restrições decorrentes do desempenho de funções operacionais ou de apoio directo às funções operacionais em regime de rotatividade de horário, de acordo com as respectivas escalas de serviço.
+
+###### Artigo 5.º — Regime do suplemento de turno
+
+1 - O suplemento de turno corresponde a uma percentagem do índice 100 da escala salarial das forças de segurança, é atribuído mensalmente e o respectivo montante varia em função das carreiras e dos períodos do dia e da semana que os turnos abranjam.
+
+2 - Os montantes devidos a título de suplemento de turno são de:
+
+a) 10%, quando os turnos abranjam o período compreendido entre as 20 e as 7 horas da manhã e o fim-de-semana;
+
+b) 9%, quando os turnos abranjam o período compreendido entre as 20 e as 7 horas da manhã mas não o fim-de-semana;
+
+c) 8%, quando os turnos abranjam o fim-de-semana mas não o período compreendido entre as 20 e as 7 horas da manhã;
+
+d) 5%, quando os turnos não abranjam o período compreendido entre as 20 e as 7 horas da manhã nem o fim-de-semana.
+
+3 - Às quantias previstas no número anterior acrescem 2% se os turnos efectuados forem de vinte e quatro horas.
+
+4 - Aos montantes disciplinados no número anterior acrescem 1% para os chefes e 2% para os oficiais.
+
+### CAPÍTULO III — Suplemento de piquete
+
+###### Artigo 6.º — Conceito
+
+Considera-se suplemento de piquete a compensação remuneratória mensal atribuída ao pessoal referido no artigo 2.º em função das limitações e especial responsabilidade do serviço prestado com permanência obrigatória nas unidades e subunidades policiais, em situações determinadas por ameaça à segurança ou outras circunstâncias especiais, para assegurar o normal funcionamento do serviço.
+
+###### Artigo 7.º — Regime do suplemento de piquete
+
+1 - O suplemento de piquete é atribuído mensalmente, corresponde a uma percentagem do índice 100 da escala salarial das forças de segurança e o respectivo montante varia em função das carreiras e do período em que são desempenhadas funções nas condições em referência.
+
+2 - Os montantes devidos a título de suplemento de piquete são de:
+
+a) 1% diários, se as funções forem desempenhadas no período compreendido entre as 20 e as 7 horas e ao fim-de-semana ou dia feriado;
+
+b) 0,9% diários, se as funções forem desempenhadas no período compreendido entre as 20 e as 7 horas mas não ao fim-de-semana ou dia feriado;
+
+c) 0,8% diários, se as funções forem desempenhadas ao fim-de-semana ou em dia feriado mas não no período compreendido entre as 20 e as 7 horas;
+
+d) 0,5% diários, se as funções não forem desempenhadas no período compreendido entre as 20 e as 7 horas nem ao fim-de-semana ou dia feriado.
+
+3 - Às quantias previstas no número anterior acresce 0,2% se os piquetes efectuados forem de vinte e quatro horas.
+
+4 - Aos montantes disciplinados nos números anteriores acresce 0,1% para os chefes e 0,2% para os oficiais.
+
+5 - O suplemento de piquete não pode exceder mensalmente 10% para agentes, 11% para chefes e 12% para oficiais.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 8.º — Acumulações
+
+1 - A percepção dos suplementos de turno e de piquete é acumulável, mas não pode exceder 12% do índice 100 da escala salarial das forças de segurança.
+
+2 - Nos casos previstos no n.º 3 do artigo 5.º e no n.º 3 do artigo 7.º, o cúmulo dos suplementos de turno e de piquete não poderá exceder 14% do índice 100 da escala salarial das forças de segurança.
+
+3 - A atribuição dos suplementos previstos no presente diploma é acumulável com a de outros suplementos que revistam natureza diferenciada, designadamente o suplemento por serviço nas forças de segurança.
+
+###### Artigo 9.º — Revalorização anual
+
+1 - Nos anos 2002, 2003 e 2004, acrescerão sucessivamente 4% aos valores definidos para o suplemento de turno no artigo 5.º do presente diploma e 0,4% aos valores diários disciplinados no artigo 7.º do presente diploma para o suplemento de piquete.
+
+2 - Nos anos 2002, 2003 e 2004, acrescerão sucessivamente 4% aos valores máximos definidos nos artigos 7.º, n.º 5, e 8.º, n.os 1 e 2, do presente diploma.
+
+###### Artigo 10.º — Produção de efeitos
+
+O presente diploma produz efeitos a partir de 1 de Janeiro de 2001.
+
+Visto e aprovado em Conselho de Ministros de 26 de Abril de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
+
+Promulgado em 5 de Junho de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 8 de Junho de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

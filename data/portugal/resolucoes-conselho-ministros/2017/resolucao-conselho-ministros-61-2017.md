@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:106989243:por
+title: Resolução do Conselho de Ministros n.º 61/2017
+short_title: null
+summary: Nomeia os membros do conselho de administração da Unidade Local de Saúde da Guarda E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 61/2017
+official_date: null
+publication_date: '2017-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/2017, Série I de 2017-05-09
+  number: '89'
+  series: I
+  supplement: null
+  pages: 2222 - 2224
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/05/08900/0222202224.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/61/2017/05/09/p/dre/pt/html
+  oj: null
+  dre: '106989243'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/61-2017-106989243
+  internal: pt:dre:106989243:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2017-106989243
+  metadata_url: https://data.dre.pt/eli/resolconsmin/61/2017/05/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2017-106989243
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ea4be075bdd89a051522b5d6bbaf290560a9517c5a180c1aa35b7c557e7562b3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:53:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Director Clínico
+- Enfermeiro-director
+- Nomeação
+- Presidente
+- Unidade Local de Saúde da Guarda
+- Vogal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:53:18Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 61/2017
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos das Unidades Locais de Saúde, E. P. E., constantes do anexo iii ao [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106434234/details/normal?l=1), de 10 de fevereiro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500215/details/normal?l=1), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/57701290/details/normal?l=1), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/520259/details/normal?l=1), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/544415/details/normal?l=1), de 18 de janeiro, e alterado pelo [Decreto-Lei n.º 39/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75049338/details/normal?l=1), de 28 de julho, resulta que os membros do conselho de administração da Unidade Local de Saúde da Guarda, E. P. E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde e pela Comunidade Intermunicipal das Beiras e Serra da Estrela, para um mandato de três anos, renovável uma única vez.
+
+Atendendo a que os atuais membros do conselho de administração da Unidade Local de Saúde da Guarda, E. P. E., cessaram o respetivo mandato a 31 de dezembro de 2016, por força da entrada em vigor dos Estatutos das Unidades Locais de Saúde, E. P. E., constantes do anexo iii ao [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106434234/details/normal?l=1), de 10 de fevereiro, torna-se necessário proceder à nomeação dos membros deste órgão diretivo, para um mandato de três anos.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/542993/details/normal?l=1), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/553924/details/normal?l=1), de 26 de março, alterada pelas [Resoluções do Conselho de Ministros n.os 97/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/191077/details/normal?l=1), de 21 de novembro, [45/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/498125/details/normal?l=1), de 19 de julho, e [48/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/498720/details/normal?l=1), de 29 de julho.
+
+Foi dado cumprimento ao disposto no n.º 1 do artigo 6.º dos Estatutos das Unidades Locais de Saúde, E. P. E., constantes do anexo iii ao [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106434234/details/normal?l=1), de 10 de fevereiro, tendo o Ministro das Finanças proposto para vogal executiva a licenciada Sandra Isabel da Costa Rodrigues Gil.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/520259/details/normal?l=1), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/544415/details/normal?l=1), de 18 de janeiro, e alterado pelo [Decreto-Lei n.º 39/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75049338/details/normal?l=1), de 28 de julho, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos das Unidades Locais de Saúde, E. P. E., constantes do anexo iii ao [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106434234/details/normal?l=1), de 10 de fevereiro, dos n.os 2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/520259/details/normal?l=1), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/544415/details/normal?l=1), de 18 de janeiro, e alterado pelo [Decreto-Lei n.º 39/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75049338/details/normal?l=1), de 28 de julho, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros das Finanças e da Saúde, Isabel Natividade Carvalho Coelho Cruz Antunes, Maria de Fátima Clemente Lima, Maria de Fátima Domingues Azeredo Cabral, Sandra Isabel da Costa Rodrigues Gil e Nélia Paula dos Santos Faria, respetivamente para os cargos de presidente do conselho de administração, vogal executiva com funções de diretora clínica para a área dos cuidados de saúde primários, vogal executiva com funções de diretora clínica para a área dos cuidados hospitalares, vogal executiva e vogal executiva com funções de enfermeira diretora, da Unidade Local de Saúde da Guarda, E. P. E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar as nomeadas Isabel Natividade Carvalho Coelho Cruz Antunes, Maria de Fátima Domingues Azeredo Cabral e Nélia Paula dos Santos Faria, a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+3 - Autorizar as nomeadas Isabel Natividade Carvalho Coelho Cruz Antunes, Maria de Fátima Clemente Lima e Maria de Fátima Domingues Azeredo Cabral a optar pelo vencimento do lugar de origem.
+
+4 - Determinar que a presente resolução produz efeitos a partir do dia 1 de maio de 2017.
+
+Presidência do Conselho de Ministros, 20 de abril de 2017. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Notas curriculares
+
+Isabel Natividade Carvalho Coelho Cruz Antunes, nascida a 25 de novembro de 1955, médica, licenciada pela Faculdade de Medicina da Universidade de Coimbra.
+
+Assistente Graduada Sénior de Medicina Geral e Familiar, Coordenadora e Médica de Família da USF A Ribeirinha, do ACES da Guarda.
+
+Coordenadora da ECL Guarda Este, da Rede Nacional de Cuidados Continuados Integrados.
+
+Orientadora de Formação Especifica de Medicina Geral e Familiar.
+
+Assistente convidada da Faculdade de Ciências da Saúde da Universidade da Beira Interior.
+
+De julho de 2005 a setembro de 2008 foi Coordenadora da (ex.) Sub-Região de Saúde da Guarda.
+
+De janeiro de 1999 a junho de 2005 foi Diretora do Centro de Saúde da Guarda.
+
+Fez parte durante 2 mandatos de Conselho Distrital da Guarda da Ordem dos Médicos.
+
+Fez parte durante dois mandatos da Assembleia Municipal do Concelho da Guarda.
+
+Foi por duas vezes docente na Escola Secundária Afonso de Albuquerque, respetivamente na área de Ciências Físico-químicas e na área da Saúde.
+
+Colaborou em diversos projetos de Investigação na área dos Cuidados de Saúde Primários.
+
+Maria de Fátima Clemente Lima, nasceu em Viseu (Sta. Maria) a 25 de agosto de 1959.
+
+Em 4 de outubro de 1984 concluiu a licenciatura em Medicina, pela Faculdade de Medicina da Universidade de Coimbra.
+
+Em 30 de setembro de 1986 concluiu o Internato Médico Geral, no Hospital Distrital de Viseu.
+
+Em 24 de fevereiro de 1988 foi nomeada Clínica Geral da Carreira Médica de Clínica Geral.
+
+Em 05 de julho de 1996 foi integrada na categoria de Assistente de Clínica Geral.
+
+A 23 de abril de 2001 foi-lhe atribuído, por concurso público, o grau de Assistente Graduada da Carreira de Medicina Geral e Familiar.
+
+Ao longo dos anos de atividade profissional no Centro de Saúde de Gouveia assumiu várias funções de Coordenação (concelhia de Alcoologia, setor de ambulatório e SAP).
+
+De outubro 2004 a março 2006 exerceu funções de Coordenadora Distrital de Alcoologia da Sub-Região da Guarda.
+
+A 24/01/2006 foi nomeada Diretora do Centro de Saúde de Gouveia (Sub-Região de Saúde da Guarda/ULS Guarda E. P. E.), funções que exerceu de fevereiro 2006 a abril de 2012, tendo sido substituída, a pedido próprio, a 10 abril de 2012.
+
+Ao longo do seu percurso profissional frequentou vários cursos e formações ligados à Formação Profissional e Gestão; fez parte de júris de concursos públicos para a progressão na carreira de Medicina Geral e Familiar; publicou artigos em revistas da Especialidade; integrou e integra grupos de trabalho e equipas, a nível local e distrital, em áreas ligadas ao Álcool, Drogas, Tabaco e Cuidados Continuados; produziu material didático, com vista a intervenções preventivas em várias áreas ligadas à saúde; participou na Organização de Encontros e Seminários; interveio (como formadora, preletora e monitora) em Cursos de Formação; fez várias intervenções (como oradora e moderadora), em Sessões, Workshops, Jornadas, Encontros e Ações de Formação.
+
+Maria de Fátima Domingues Azeredo Cabral, nasceu a 12 de março de 1955.
+
+Iniciou funções como médica do Internato Geral nos Hospitais da Universidade de Coimbra de 2 de janeiro de 1980 até 31 de janeiro de 1982.
+
+Prestou serviço médico à periferia de 1 de fevereiro de 1982 a 31 de dezembro de 1982.
+
+Regressou aos Hospitais da Universidade de Coimbra até 28 de fevereiro de 1983.
+
+Foi nomeada Médica de Clínica Geral, em prestação eventual de serviço, no distrito de Leiria, em 1 de março de 1983, mantendo-se nesta situação até 30 de setembro de 1983.
+
+Concluiu o Internato Complementar de Dermatologia no dia 21 de janeiro de 1989, adquirindo o grau de Assistente Hospitalar, iniciando essa função no Hospital de Castelo Branco até 31 de janeiro de 1995.
+
+Fez concurso de provimento para Assistente de Dermatologia para o Hospital Sousa Martins, tendo tomado posse do lugar em 1 de fevereiro de 1995.
+
+Nomeada no cargo de diretora do Serviço de Dermatologia a 9 de fevereiro de 1995 até à presente data.
+
+Foi aprovada no concurso de habilitação ao grau de Consultor da carreira hospitalar na área de Dermatologia, em 16 de junho de 1999.
+
+Desde 2005 é Professora Convidada no Departamento de Ciências Médicas da Universidade da Beira Interior.
+
+De dezembro de 2011 a novembro de 2012, foi Diretora Clínica para os Cuidados Hospitalares do CA da ULS da Guarda.
+
+Sandra Isabel da Costa Rodrigues Gil, nascida a 12 de março de 1978, em Viseu.
+
+Habilitações académicas e profissionais: Licenciatura em Direito (2001), pela Faculdade de Direito da Universidade de Coimbra, com a média de 15 valores; Curso de Especialização em Administração Hospitalar (2003), pela Escola Nacional de Saúde Pública da Universidade Nova de Lisboa, com a média de 16 valores, Curso Avançado de Gestão Pública (2006), pelo Instituto Nacional de Administração Pública, com a média de 17 valores.
+
+Experiência profissional: (2008 ao presente) - Administradora Hospitalar na Unidade Local de Saúde da Guarda, E. P. E.. Desde 2009, é Diretora do Serviço de Gestão de Utentes, cargo que acumula com o de Administradora do Departamento de Medicina (desde outubro de 2016), da Equipa de Coordenação do Hospital de Nossa Senhora da Assunção (desde outubro de 2015) e da Equipa de Coordenação do Projeto «Rede de Cuidados Paliativos da Unidade Local de Saúde da Guarda» (desde 2016). É também Coordenadora do Sistema de Gestão de Transportes de Doentes (desde 2012), Coordenadora Local da Consulta a Tempo e Horas (desde 2013), estando ainda alocada à Unidade Hospitalar de Gestão de Inscritos para Cirurgia e ao Gabinete de Codificação e Auditoria Clínica, desde 2009. Foi Coordenadora Local do Sistema Nacional de Avaliação em Saúde até agosto de 2013, fez parte da equipa coordenadora para a Candidatura ao QREN do «Projeto de Ampliação do Hospital de Sousa Martins» e da Comissão de Transferência para o Novo Hospital. Assessorou o Diretor Executivo dos Cuidados de Saúde Primários até setembro de 2011 e o Conselho de Administração em vários projetos e iniciativas transversais à instituição.
+
+(2005-2008) - Vogal Executiva do Conselho de Administração do Hospital de Nossa Senhora da Assunção (Seia), com os pelouros do Planeamento e Controlo de Gestão, da Gestão Económico - Financeira, da Gestão de Doentes e do Aprovisionamento. Participou na elaboração da proposta de readaptação do Plano Funcional do Hospital, da candidatura de «Ampliação e Remodelação do Hospital Distrital de Seia» ao III QCA e da proposta de Business Plan para a futura Unidade Local de Saúde da Guarda.
+
+(2004-2005) - Gestora no Hospital Distrital de Santarém, S. A., responsável pelo Bloco Operatório, Unidade de Cirurgia de Ambulatório, Serviço de Anestesiologia, Unidade Hospitalar de Gestão de Inscritos para Cirurgia, Departamento de Psiquiatria e Saúde Mental, Departamento de Urgência, Unidade de Cuidados Intensivos e Serviço de Patologia Clínica.
+
+Nélia Paula dos Santos Faria, natural do Funchal, nascida em 10 de julho de 1972.
+
+Formação Académica: Doutoranda em Gestão na Universidade da Beira Interior; Mestre em Gestão de Unidades de Saúde pela Universidade da Beira Interior; A frequentar o Curso de Extensão Universitária - II Curso Internacional de Qualidade em Saúde e Segurança do Paciente, na Escola Nacional de Saúde Publica - UNL; Licenciatura em Enfermagem pela Universidade da Madeira/Instituto Politécnico da Guarda.
+
+Formação Profissional: Curso de Pós Licenciatura de Especialização em Enfermagem de Saúde Infantil e Pediatria pela Escola Superior de Saúde de Viseu - Instituto Politécnico de Viseu; Curso de Qualificação de Auditor Coordenador de Sistemas de Gestão da Qualidade, ISO 9001, com aprovação no exame da IRCA, promovido pela SGS Academy; Curso de Qualificação de Auditores Internos da Qualidade ISO 9001, promovido pela Escola Superior de Tecnologia da Saúde de Lisboa/SGS Academy; Curso de Qualificação de Auditores da Iniciativa Amiga dos Bebés - UNICEF; Curso de Qualidade em Saúde e Segurança do Doente, promovido pela APDH/ ULS Guarda; Curso de Formadores em Aleitamento Materno, promovido pela Administração Regional de Saúde do Centro, I. P.; Curso de Formação de Formadores, pela MAGNA VOCE, Funchal.
+
+Experiência profissional:
+
+De outubro de 2015 até ao presente - Enfermeira Responsável/Chefe do Serviço de Medicina B da ULS da Guarda;
+
+De agosto de 1993 a outubro de 2015 - Enfermeira na prestação direta de cuidados na Unidade de Cuidados Intensivos Neonatais e Pediátricos do Hospital Dr. Nélio Mendonça, Funchal; e nos Serviços de Obstetrícia e Pediatria/Neonatologia da ULS Guarda.
+
+Valorização profissional:
+
+Preletora de algumas comunicações em eventos científicos; autora ou coautora de alguns trabalhos de investigação e artigos científicos publicados em revistas indexadas;
+
+Membro de vários Grupos de Trabalho;
+
+Colaborou com as Escolas Superiores de Saúde, da Guarda e Viseu, na orientação e avaliação, no ensino pós-graduado em enfermagem, na vertente de Neonatologia.

@@ -1,0 +1,510 @@
+---
+schema_version: '1.0'
+id: pt:dre:223630:por
+title: Decreto-Lei n.º 67/2003
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 1999/44/CE, do Parlamento Europeu e do Conselho, de 25 de
+  Maio, sobre certos aspectos da venda de bens de consumo e das garantias a ela relativas, e altera a Lei n.º 24/96, de 31
+  de Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 67/2003
+official_date: null
+publication_date: '2003-04-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2003, Série I-A de 2003-04-08
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2280 - 2283
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/04/083a00/22802283.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-01'
+version_history:
+  file: decreto-lei-67-2003.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-20'
+    amending: pt:dre:249259:por
+    amending_title: Decreto-Lei n.º 84/2008
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 1.º-B
+    - Adita Artigo 5.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Entrada Vigor Diploma
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 12.º-A
+    - Altera Artigo 12.º-C
+  - date: '2022-01-01'
+    amending: pt:dre:172938301:por
+    amending_title: Decreto-Lei n.º 84/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/67/2003/p/cons/20211018/pt/html
+  oj: null
+  dre: '223630'
+  dre_path: /dr/detalhe/decreto-lei/67-2003-223630
+  internal: pt:dre:223630:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630
+  metadata_url: https://data.dre.pt/eli/dec-lei/67/2003/p/cons/20211018/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34445575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34445575
+  retrieved_at: '2026-10-22T11:41:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 500f0097684a4e1b11553744c2a197f6433b461e77529c37c24eb55cdd01a12a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:41:56Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-67-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Aquisição de Bens e Serviços
+- BEM Móvel
+- Conflito de Consumo
+- Contrato
+- Direito de Regresso
+- Direitos Económicos
+- Informação do Consumidor
+- Prestação de Serviços
+- Produtor
+- Proteção do Consumidor
+- Prédio Urbano
+- Comércio
+- Vendedor
+relationships:
+- type: amended_by
+  target: pt:dre:249259:por
+  label: Adita Artigo 1.º-A; Adita Artigo 1.º-B; Adita Artigo 5.º-A; Adita Artigo 12.º-A; Adita Artigo 12.º-B; Adita Artigo
+    12.º-C; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 12.º;
+    Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259
+  date: '2008-05-21'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 12.º-A; Altera Artigo 12.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:172938301:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301
+  date: '2021-10-18'
+- type: cites
+  target: celex:31999L0044
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/44/oj
+- type: transposes
+  target: celex:31999L0044
+  label: null
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:41:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 67/2003
+
+Importa proceder à transposição para o ordenamento jurídico português da Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0044" title="Link para Directiva da Comunidade Europeia">1999/44/CE</a>, do Parlamento Europeu e do Conselho, de 25 de Maio, que tem por objectivo a aproximação das disposições dos Estados membros da União Europeia sobre certos aspectos da venda de bens de consumo e das garantias a ela relativas.
+
+O presente diploma procede a tal transposição através da aprovação de um novo regime jurídico para a conformidade dos bens móveis com o respectivo contrato de compra e venda, celebrado entre profissional e vendedor.
+
+O regime jurídico aprovado respeita as exigências da referida Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0044" title="Link para Directiva da Comunidade Europeia">1999/44/CE</a>. Entre as principais inovações, há que referir a adopção expressa da noção de conformidade com o contrato, que se presume não verificada sempre que ocorrer algum dos factos descritos no regime agora aprovado.
+
+É equiparada à falta de conformidade a má instalação da coisa realizada pelo vendedor ou sob sua responsabilidade, ou resultante de incorrecção das respectivas instruções.
+
+Para a determinação da falta de conformidade com o contrato releva o momento da entrega da coisa ao consumidor, prevendo-se, porém, que as faltas de conformidade que se manifestem num prazo de dois ou cinco anos a contar da data de entrega de coisa móvel ou de coisa imóvel, respectivamente, se consideram já existentes nessa data.
+
+Preocupação central que se procurou ter sempre em vista foi a de evitar que a transposição da directiva pudesse ter como consequência a diminuição do nível de protecção já hoje reconhecido entre nós ao consumidor. Assim, as soluções actualmente previstas na Lei n.º 24/96, de 31 de Julho, mantêm-se, designadamente o conjunto de direitos reconhecidos ao comprador em caso de existência de defeitos na coisa.
+
+No que diz respeito aos prazos, prevê-se um prazo de garantia, que é o lapso de tempo durante o qual, manifestando-se alguma falta de conformidade, poderá o consumidor exercer os direitos que lhe são reconhecidos. Tal prazo é fixado em dois e cinco anos a contar da recepção da coisa pelo consumidor, consoante a coisa vendida seja móvel ou imóvel.
+
+Mantém-se a obrigação do consumidor de denunciar o defeito ao vendedor, alterando-se o prazo de denúncia para dois meses a contar do conhecimento, no caso de venda de coisa móvel.
+
+Este regime de protecção do consumidor mantém-se imperativo, permitindo-se, porém, que, em caso de venda de coisa móvel usada ao consumidor, o prazo de dois anos seja reduzido a um ano por acordo das partes.
+
+Adoptam-se, ainda, pela primeira vez, medidas jurídicas relativas às «garantias» voluntariamente oferecidas pelo vendedor, pelo fabricante ou por qualquer intermediário, no sentido de reembolsar o preço pago, substituir, reparar ou ocupar-se de qualquer modo da coisa defeituosa, estabelecendo-se o efeito vinculativo de tais declarações.
+
+Inovação bastante significativa consiste na consagração da responsabilidade directa do produtor perante o consumidor, pela reparação ou substituição de coisa defeituosa. Trata-se, nesta solução, tão-só de estender ao domínio da qualidade a responsabilidade do produtor pelos defeitos de segurança, já hoje prevista no Decreto-Lei n.º 383/89, de 6 de Novembro, com um regime de protecção do comprador que já existe em vários países europeus e para que a directiva que ora se transpõe também já aponta.
+
+Por último, atribui-se ao profissional que tenha satisfeito ao consumidor um dos direitos previstos em caso de falta de conformidade da coisa com o contrato (bem como à pessoa contra quem foi exercido o direito de regresso) o direito de regresso contra o profissional que lhe vendeu a coisa, por todos os prejuízos causados pelo exercício daqueles direitos. Tal direito de regresso só poderá ser excluído ou limitado antecipadamente desde que seja atribuída ao seu titular compensação adequada.
+
+Foi ouvido o Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei procede à transposição para o direito interno da Directiva n.º 1999/44/CE, do Parlamento Europeu e do Conselho, de 25 de Maio, relativa a certos aspectos da venda de bens de consumo e das garantias a ela relativas, com vista a assegurar a protecção dos interesses dos consumidores.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 1.º-A — Âmbito de aplicação
+
+1 - O presente decreto-lei é aplicável aos contratos de compra e venda celebrados entre profissionais e consumidores.
+
+2 - O presente decreto-lei é, ainda, aplicável, com as necessárias adaptações, aos bens de consumo fornecidos no âmbito de um contrato de empreitada ou de outra prestação de serviços, bem como à locação de bens de consumo.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 1.º-B — Definições
+
+Definições
+
+Para efeitos de aplicação do disposto no presente decreto-lei, entende-se por:
+
+a) «Consumidor», aquele a quem sejam fornecidos bens, prestados serviços ou transmitidos quaisquer direitos, destinados a uso não profissional, por pessoa que exerça com carácter profissional uma actividade económica que vise a obtenção de benefícios, nos termos do n.º 1 do artigo 2.º da Lei n.º 24/96, de 31 de Julho;
+
+b) «Bem de consumo», qualquer bem imóvel ou móvel corpóreo, incluindo os bens em segunda mão;
+
+c) «Vendedor», qualquer pessoa singular ou colectiva que, ao abrigo de um contrato, vende bens de consumo no âmbito da sua actividade profissional;
+
+d) «Produtor», o fabricante de um bem de consumo, o importador do bem de consumo no território da Comunidade Europeia ou qualquer outra pessoa que se apresente como produtor através da indicação do seu nome, marca ou outro sinal identificador no produto;
+
+e) «Representante do produtor», qualquer pessoa singular ou colectiva que actue na qualidade de distribuidor comercial do produtor e ou centro autorizado de serviço pós-venda, à excepção dos vendedores independentes que actuem apenas na qualidade de retalhistas;
+
+f) «Garantia legal», qualquer compromisso ou declaração assumida por um vendedor ou por um produtor perante o consumidor, sem encargos adicionais para este, de reembolsar o preço pago, substituir, reparar ou ocupar-se de qualquer modo de um bem de consumo, no caso de este não corresponder às condições enumeradas na declaração de garantia ou na respectiva publicidade;
+
+g) «Garantia voluntária», qualquer compromisso ou declaração, de carácter gratuito ou oneroso, assumido por um vendedor, por um produtor ou por qualquer intermediário perante o consumidor, de reembolsar o preço pago, substituir, reparar ou ocupar-se de qualquer modo de um bem de consumo, no caso de este não corresponder às condições enumeradas na declaração de garantia ou na respectiva publicidade;
+
+h) «Reparação», em caso de falta de conformidade do bem, a reposição do bem de consumo em conformidade com o contrato.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 2.º — Conformidade com o contrato
+
+1 - O vendedor tem o dever de entregar ao consumidor bens que sejam conformes com o contrato de compra e venda.
+
+2 - Presume-se que os bens de consumo não são conformes com o contrato se se verificar algum dos seguintes factos:
+
+a) Não serem conformes com a descrição que deles é feita pelo vendedor ou não possuírem as qualidades do bem que o vendedor tenha apresentado ao consumidor como amostra ou modelo;
+
+b) Não serem adequados ao uso específico para o qual o consumidor os destine e do qual tenha informado o vendedor quando celebrou o contrato e que o mesmo tenha aceitado;
+
+c) Não serem adequados às utilizações habitualmente dadas aos bens do mesmo tipo;
+
+d) Não apresentarem as qualidades e o desempenho habituais nos bens do mesmo tipo e que o consumidor pode razoavelmente esperar, atendendo à natureza do bem e, eventualmente, às declarações públicas sobre as suas características concretas feitas pelo vendedor, pelo produtor ou pelo seu representante, nomeadamente na publicidade ou na rotulagem.
+
+3 - Não se considera existir falta de conformidade, na acepção do presente artigo, se, no momento em que for celebrado o contrato, o consumidor tiver conhecimento dessa falta de conformidade ou não puder razoavelmente ignorá-la ou se esta decorrer dos materiais fornecidos pelo consumidor.
+
+4 - A falta de conformidade resultante de má instalação do bem de consumo é equiparada a uma falta de conformidade do bem, quando a instalação fizer parte do contrato de compra e venda e tiver sido efectuada pelo vendedor, ou sob sua responsabilidade, ou quando o produto, que se prevê que seja instalado pelo consumidor, for instalado pelo consumidor e a má instalação se dever a incorrecções existentes nas instruções de montagem.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 3.º — Entrega do bem
+
+1 - O vendedor responde perante o consumidor por qualquer falta de conformidade que exista no momento em que o bem lhe é entregue.
+
+2 - As faltas de conformidade que se manifestem num prazo de dois ou de cinco anos a contar da data de entrega de coisa móvel corpórea ou de coisa imóvel, respectivamente, presumem-se existentes já nessa data, salvo quando tal for incompatível com a natureza da coisa ou com as características da falta de conformidade.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 4.º — Direitos do consumidor
+
+1 - Em caso de falta de conformidade do bem com o contrato, o consumidor tem direito a que esta seja reposta sem encargos, por meio de reparação ou de substituição, à redução adequada do preço ou à resolução do contrato.
+
+2 - Tratando-se de um bem imóvel, a reparação ou a substituição devem ser realizadas dentro de um prazo razoável, tendo em conta a natureza do defeito, e tratando-se de um bem móvel, num prazo máximo de 30 dias, em ambos os casos sem grave inconveniente para o consumidor.
+
+3 - A expressão «sem encargos», utilizada no n.º 1, reporta-se às despesas necessárias para repor o bem em conformidade com o contrato, incluindo, designadamente, as despesas de transporte, de mão-de-obra e material.
+
+4 - Os direitos de resolução do contrato e de redução do preço podem ser exercidos mesmo que a coisa tenha perecido ou se tenha deteriorado por motivo não imputável ao comprador.
+
+5 - O consumidor pode exercer qualquer dos direitos referidos nos números anteriores, salvo se tal se manifestar impossível ou constituir abuso de direito, nos termos gerais.
+
+6 - Os direitos atribuídos pelo presente artigo transmitem-se a terceiro adquirente do bem.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 5.º — Prazo da garantia
+
+1 - O comprador pode exercer os direitos previstos no artigo anterior quando a falta de conformidade se manifestar dentro de um prazo de dois ou cinco anos a contar da entrega do bem, consoante se trate, respectivamente, de coisa móvel ou imóvel.
+
+2 - Tratando-se de coisa móvel usada, o prazo previsto no número anterior pode ser reduzido a um ano, por acordo das partes.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Havendo substituição do bem, o bem sucedâneo goza de um prazo de garantia de dois ou de cinco anos a contar da data da sua entrega, conforme se trate, respectivamente, de bem móvel ou imóvel.
+
+7 - O prazo referido no n.º 1 suspende-se, a partir da data da denúncia, durante o período em que o consumidor estiver privado do uso dos bens.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 5.º-A — Prazo para exercício de direitos
+
+1 - Os direitos atribuídos ao consumidor nos termos do artigo 4.º caducam no termo de qualquer dos prazos referidos no artigo anterior e na ausência de denúncia da desconformidade pelo consumidor, sem prejuízo do disposto nos números seguintes.
+
+2 - Para exercer os seus direitos, o consumidor deve denunciar ao vendedor a falta de conformidade num prazo de dois meses, caso se trate de bem móvel, ou de um ano, se se tratar de bem imóvel, a contar da data em que a tenha detectado.
+
+3 - Caso o consumidor tenha efectuado a denúncia da desconformidade, tratando-se de bem móvel, os direitos atribuídos ao consumidor nos termos do artigo 4.º caducam decorridos dois anos a contar da data da denúncia e, tratando-se de bem imóvel, no prazo de três anos a contar desta mesma data.
+
+4 - O prazo referido no número anterior suspende-se durante o período em que o consumidor estiver privado do uso dos bens com o objectivo de realização das operações de reparação ou substituição, bem como durante o período em que durar a tentativa de resolução extrajudicial do conflito de consumo que opõe o consumidor ao vendedor ou ao produtor, com excepção da arbitragem.
+
+5 - A tentativa de resolução extrajudicial do litígio inicia-se com a ocorrência de um dos seguintes factos:
+
+a) As partes acordem no sentido de submeter o conflito a mediação ou conciliação;
+
+b) A mediação ou a conciliação seja determinada no âmbito de processo judicial;
+
+c) Se constitua a obrigação de recorrer à mediação ou conciliação.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 6.º — Responsabilidade directa do produtor
+
+1 - Sem prejuízo dos direitos que lhe assistem perante o vendedor, o consumidor que tenha adquirido coisa defeituosa pode optar por exigir do produtor a sua reparação ou substituição, salvo se tal se manifestar impossível ou desproporcionado tendo em conta o valor que o bem teria se não existisse falta de conformidade, a importância desta e a possibilidade de a solução alternativa ser concretizada sem grave inconveniente para o consumidor.
+
+2 - O produtor pode opor-se ao exercício dos direitos pelo consumidor verificando-se qualquer dos seguintes factos:
+
+a) Resultar o defeito exclusivamente de declarações do vendedor sobre a coisa e sua utilização, ou de má utilização;
+
+b) Não ter colocado a coisa em circulação;
+
+c) Poder considerar-se, tendo em conta as circunstâncias, que o defeito não existia no momento em que colocou a coisa em circulação;
+
+d) Não ter fabricado a coisa nem para venda nem para qualquer outra forma de distribuição com fins lucrativos, ou não a ter fabricado ou distribuído no quadro da sua actividade profissional;
+
+e) Terem decorrido mais de dez anos sobre a colocação da coisa em circulação.
+
+3 - O representante do produtor na zona de domicílio do consumidor é solidariamente responsável com o produtor perante o consumidor, sendo-lhe igualmente aplicável o n.º 2 do presente artigo.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 7.º — Direito de regresso
+
+1 - O vendedor que tenha satisfeito ao consumidor um dos direitos previsto no artigo 4.º bem como a pessoa contra quem foi exercido o direito de regresso gozam de direito de regresso contra o profissional a quem adquiriram a coisa, por todos os prejuízos causados pelo exercício daqueles direitos.
+
+2 - O disposto no n.º 2 do artigo 3.º aproveita também ao titular do direito de regresso, contando-se o respectivo prazo a partir da entrega ao consumidor.
+
+3 - O demandado pode afastar o direito de regresso provando que o defeito não existia quando entregou a coisa ou, se o defeito for posterior à entrega, que não foi causado por si.
+
+4 - Sem prejuízo do regime das cláusulas contratuais gerais, o acordo pelo qual se exclua ou limite antecipadamente o exercício do direito de regresso só produz efeitos se for atribuída ao seu titular uma compensação adequada.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 8.º — Exercício do direito de regresso
+
+1 - O profissional pode exercer o direito de regresso na própria acção interposta pelo consumidor, aplicando-se com as necessárias adaptações, o disposto no n.º 2 do artigo 329.º do Código de Processo Civil.
+
+2 - O profissional goza do direito previsto no artigo anterior durante cinco anos a contar da entrega da coisa pelo profissional demandado.
+
+3 - O profissional deve exercer o seu direito no prazo de dois meses a contar da data da satisfação do direito ao consumidor.
+
+4 - O prazo previsto no n.º 2 suspende-se durante o processo em que o vendedor final seja parte.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 9.º — Garantias voluntárias
+
+1 - (Revogado).
+
+2 - A declaração de garantia deve ser entregue ao consumidor por escrito ou em qualquer outro suporte duradouro a que aquele tenha acesso.
+
+3 - A garantia, que deve ser redigida de forma clara e concisa na língua portuguesa, contém obrigatoriamente as seguintes menções:
+
+a) Declaração de que o consumidor goza dos direitos previstos no presente decreto-lei, e na demais legislação aplicável, e de que tais direitos não são afectados pela garantia;
+
+b) A informação sobre o carácter gratuito ou oneroso da garantia e, neste último caso, a indicação dos encargos a suportar pelo consumidor;
+
+c) Os benefícios atribuídos ao consumidor por meio do exercício da garantia, bem como as condições para a atribuição destes benefícios, incluindo a enumeração de todos os encargos, nomeadamente aqueles relativos às despesas de transporte, de mão-de-obra e de material, e ainda os prazos e a forma de exercício da mesma;
+
+d) Duração e âmbito espacial da garantia;
+
+e) Firma ou nome e endereço postal, ou, se for o caso, electrónico, do autor da garantia que pode ser utilizado para o exercício desta.
+
+4 - Salvo declaração em contrário, os direitos resultantes da garantia transmitem-se para o adquirente da coisa.
+
+5 - A violação do disposto nos n.os 2 e 3 do presente artigo não afecta a validade da garantia, podendo o consumidor continuar a invocá-la e a exigir a sua aplicação.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 10.º — Imperatividade
+
+1 - Sem prejuízo do regime das cláusulas contratuais gerais, é nulo o acordo ou cláusula contratual pelo qual antes da denúncia da falta de conformidade ao vendedor se excluam ou limitem os direitos do consumidor previstos no presente diploma.
+
+2 - É aplicável à nulidade prevista no número anterior o disposto nos n.os 2 e 3 do artigo 16.º da Lei n.º 24/96, de 31 de Julho.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 11.º — Limitação da escolha de lei
+
+Se o contrato de compra e venda celebrado entre profissional e consumidor apresentar ligação estreita ao território dos Estados membros da União Europeia, a escolha, para reger o contrato, de uma lei de um Estado não membro que se revele menos favorável ao consumidor não lhe retira os direitos atribuídos pelo presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 12.º — Acções de informação
+
+A Direcção-Geral do Consumidor deve promover acções destinadas a informar, e deve incentivar as organizações profissionais a informarem, os consumidores dos direitos que para eles resultam do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 12.º-A — Contra-ordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação ao disposto no n.º 2 do artigo 4.º e no n.º 3 do artigo 9.º
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 12.º-B — Sanções acessórias
+
+1 - Quando a gravidade da infracção o justifique, podem ainda ser aplicadas, nos termos do regime geral das contra-ordenações, as seguintes sanções acessórias:
+
+a) Encerramento temporário das instalações ou estabelecimento;
+
+b) Interdição do exercício da actividade;
+
+c) Privação do direito a subsídio ou a benefício outorgado por entidade ou serviço público.
+
+2 - As sanções referidas no número anterior têm uma duração máxima de dois anos contados a partir da data da decisão condenatória definitiva.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 12.º-C — Fiscalização, instrução e decisão
+
+1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar a aplicação do disposto no presente decreto-lei, bem como instruir os processos de contra-ordenação previstos no artigo 12.º-A.
+
+2 - Compete ao inspetor-geral da ASAE a aplicação das coimas e sanções acessórias.
+
+3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+
+4 - A ASAE comunica ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., as decisões condenatórias, convertidas em definitivas ou transitadas em julgado, que condenem a empresa de construção pela prática da contraordenação prevista na alínea a) do n.º 1 do artigo 12.º-A, bem como aquelas que condenem a empresa de construção, ou qualquer outra entidade que exerça a atividade cuja regulação ou fiscalização incumba àquele Instituto, nas sanções acessórias previstas no artigo anterior.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2008 - Diário da República n.º 98/2008, Série I de 2008-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259), em vigor a partir de 2008-06-20
+
+###### Artigo 13.º — Alterações à Lei de Defesa dos Consumidores
+
+Os artigos 4.º e 12.º da Lei n.º 24/96, de 31 de Julho, passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+Direito à qualidade dos bens e serviços
+
+Os bens e serviços destinados ao consumo devem ser aptos a satisfazer os fins a que se destinam e a produzir os efeitos que se lhes atribuem, segundo as normas legalmente estabelecidas, ou, na falta delas, de modo adequado às legítimas expectativas do consumidor.
+
+Artigo 12.º
+
+Direito à reparação de danos
+
+1 - O consumidor tem direito à indemnização dos danos patrimoniais e não patrimoniais resultantes do fornecimento de bens ou prestações de serviços defeituosos.
+
+2 - O produtor é responsável, independentemente de culpa, pelos danos causados por defeitos de produtos que coloque no mercado, nos termos da lei.»
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+###### Artigo 14.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no n.º 2.
+
+2 - As normas previstas no artigo 9.º entram em vigor 90 dias após a publicação deste diploma.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01
+
+Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva.
+
+Promulgado em 20 de Março de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 25 de Março de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01

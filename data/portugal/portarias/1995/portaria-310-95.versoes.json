@@ -1,0 +1,144 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:229355:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-1030630212",
+ "dre_path": "/dr/detalhe/portaria/310-1995-229355",
+ "source_lastmod": "2026-07-20",
+ "versions": [
+  {
+   "date": "2013-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:504112:por",
+     "title": "Portaria n.º 334/2013",
+     "published": "2013-11-14",
+     "dre_path": "/dr/detalhe/portaria/334-2013-504112"
+    }
+   ],
+   "changes": [
+    "Altera 1.º",
+    "Altera 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "1030690075",
+    "1144995475",
+    "1144993275",
+    "1144990075",
+    "1144990275",
+    "1144990475",
+    "1144995675",
+    "1144990675",
+    "1144995875",
+    "1144991075",
+    "1030690275",
+    "1030690475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1030690075": {
+   "fragment_id": "1030689975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 349/85, de 26 de Agosto, que regula estatutariamente o Instituto de Socorros a Náufragos, determina, no seu artigo 12.º, a regulamentação, por portaria do Ministro da Defesa Nacional, das matérias relativas a recompensas, protectores e símbolos heráldicos.\n\nAssim:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "1144995475": {
+   "fragment_id": "1144989575",
+   "type": 11,
+   "heading": "1.º — Recompensas",
+   "in_force_from": "2013-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 334/2013 - Diário da República n.º 221/2013, Série I de 2013-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112), em vigor a partir de 2013-11-19."
+   ],
+   "markdown": "###### 1.º — Recompensas\n\n1 - Sem prejuízo do disposto no n.º 6.º, as recompensas a atribuir por actos de salvação marítima e de socorros a náufragos são as seguintes:\n\na) Medalha de coragem, abnegação e humanidade;\n\nb) Diploma de louvor;\n\nc) Prémio pecuniário;\n\nd) Menção de apreço.\n\n2 - A medalha e o diploma de louvor são concedidos por portaria do Ministro da Defesa Nacional, mediante proposta do diretor-geral da Autoridade Marítima sob parecer do diretor do Instituto de Socorros a Náufragos (ISN), com base em relatórios das autoridades marítimas, militares ou administrativas que tiveram conhecimentos dos factos.\n\n3 - O Ministro da Defesa Nacional pode delegar no Almirante Autoridade Marítima Nacional a competência prevista no número anterior.\n\n4 - O prémio pecuniário e a menção de apreço são concedidos pelo director do ISN, com base em relatórios das autoridades marítimas, militares ou administrativas que tiverem conhecimento dos factos.\n\n5 - A medalha, o diploma de louvor e a menção de apreço são fornecidos gratuitamente pelo ISN.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 334/2013 - Diário da República n.º 221/2013, Série I de 2013-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112), em vigor a partir de 2013-11-19."
+  },
+  "1144993275": {
+   "fragment_id": "1144993175",
+   "type": 11,
+   "heading": "2.º — Medalha de coragem, abnegação e humanidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Medalha de coragem, abnegação e humanidade\n\n1 - A medalha de coragem, abnegação e humanidade compreende os seguintes graus:\n\nMedalha de ouro;\n\nMedalha de prata;\n\nMedalha de cobre.\n\n2 - A medalha de ouro é concedida ao indivíduo ou colectividade que prestar um relevantíssimo serviço à salvação marítima ou que, tendo sido agraciado por duas vezes com a medalha de prata, tenha adquirido direito a terceira medalha do mesmo grau.\n\n3 - A medalha de prata é concedida ao indivíduo ou colectividade que prestar um relevante serviço na salvação de náufragos ou que, tendo sido agraciado por duas vezes com a medalha de cobre, tenha adquirido direito a terceira medalha do mesmo grau.\n\n4 - A medalha de cobre é concedida ao indivíduo ou colectividade que prestar um importante serviço na salvação de náufragos.\n\n5 - A medalha é do modelo anexo a esta portaria e é usada pendente em fita de seda encarnada, orlada de verde-escuro, de 0,03 m de largura.\n\n6 - O indivíduo agraciado com pelo menos três medalhas de ouro usa, em substituição de uma delas, uma insígnia de ouro, idêntica à da medalha e com o dobro do tamanho, suspensa de fita pendente do pescoço; a fita é idêntica à da medalha, mas com o dobro da largura.\n\n7 - O direito ao uso da medalha e da insígnia referida no número anterior é concedido através do respectivo diploma de concessão, do modelo anexo a esta portaria, assinado pelo director do ISN."
+  },
+  "1144990075": {
+   "fragment_id": "1144989975",
+   "type": 11,
+   "heading": "3.º — Diploma de louvor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Diploma de louvor\n\nO diploma de louvor, do modelo anexo a esta portaria e assinado pelo director do ISN, é concedido ao indivíduo ou colectividade que prestar valiosa colaboração na salvação de náufragos."
+  },
+  "1144990275": {
+   "fragment_id": "1144990175",
+   "type": 11,
+   "heading": "4.º — Prémio pecuniário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Prémio pecuniário\n\nO prémio pecuniário é constituído por uma quantia em dinheiro atribuída para esse fim ao ISN por qualquer entidade pública ou privada e é concedido pelo director do Instituto, acompanhado de ofício de louvor."
+  },
+  "1144990475": {
+   "fragment_id": "1144990375",
+   "type": 11,
+   "heading": "5.º — Menção de apreço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Menção de apreço\n\nA menção de apreço, do modelo anexo a esta portaria, é concedida pelo director do ISN ao indivíduo cuja colaboração na salvação marítima ou em socorro de náufragos, sem justificar qualquer das recompensas previstas nas alíneas a), b) e c) do n.º 1 do n.º 1.º, seja digna de referência elogiosa."
+  },
+  "1144995675": {
+   "fragment_id": "1144989075",
+   "type": 11,
+   "heading": "6.º — Medalha de filantropia e dedicação",
+   "in_force_from": "2013-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 334/2013 - Diário da República n.º 221/2013, Série I de 2013-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112), em vigor a partir de 2013-11-19."
+   ],
+   "markdown": "###### 6.º — Medalha de filantropia e dedicação\n\n1 - A medalha de filantropia e dedicação destina-se a galardoar o indivíduo ou coletividade pelos serviços relevantes prestados ao ISN que não sejam abrangidos pelo artigo 1º.\n\n2 - A medalha é concedida por portaria do Ministro da Defesa Nacional, mediante proposta do diretor-geral da Autoridade Marítima sob parecer do diretor do ISN, com possibilidade de delegação no Almirante Autoridade Marítima Nacional.\n\n3 - A medalha é fornecida pelo ISN, a expensas dos agraciados, salvos casos excepcionais em que, por despacho do director, tal encargo deva pertencer ao ISN.\n\n4 - A medalha de filantropia e dedicação compreende os seguintes graus:\n\nMedalha de ouro;\n\nMedalha de prata;\n\nMedalha de cobre.\n\n5 - A medalha de ouro é concedida ao protector honorário, ao subscritor com 45 anos consecutivos de pagamento de quotas mensais e ao indivíduo que tenha prestado ao ISN serviços considerados como relevantes.\n\n6 - A medalha de prata é concedida ao protector benfeitor, ao subscritor com 30 anos consecutivos de pagamento de quotas mensais e ao indivíduo que tenha prestado ao ISN serviços considerados como muito importantes.\n\n7 - A medalha de cobre é concedida ao subscritor com 15 anos consecutivos de pagamento de quotas mensais e ao indivíduo que tenha prestado ao ISN serviços considerados como importantes.\n\n8 - A medalha é do modelo anexo a esta portaria e é usada pendente de fita de seda verde de 0,03 m de largura, tendo ao centro e de alto a baixo uma faixa branca com a largura de 0,006 m.\n\n9 - O direito ao uso da medalha é concedido através do respectivo diploma de concessão, do modelo anexo a esta portaria, assinado pelo director do ISN.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 334/2013 - Diário da República n.º 221/2013, Série I de 2013-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112), em vigor a partir de 2013-11-19."
+  },
+  "1144990675": {
+   "fragment_id": "1144990575",
+   "type": 11,
+   "heading": "7.º — Manutenção de direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Manutenção de direitos e deveres\n\nOs actuais agraciados com qualquer das recompensas antes referidas mantém todos os direitos e deveres que a estas são inerentes, nos termos da presente portaria."
+  },
+  "1144995875": {
+   "fragment_id": "1144990775",
+   "type": 11,
+   "heading": "Artigo 8.º — Protectores",
+   "in_force_from": "2013-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 334/2013 - Diário da República n.º 221/2013, Série I de 2013-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112), em vigor a partir de 2013-11-19."
+   ],
+   "markdown": "###### Artigo 8.º — Protectores\n\n1 - Pode ser protector do ISN todo o indivíduo, nacional ou estrangeiro, que observe os princípios que o regem e se disponha a servi-lo, contribuindo com o seu patrocínio e esforço ou auxílio monetário para o desenvolvimento da acção humanitária do Instituto.\n\n2 - As categorias do protector do ISN são as seguintes:\n\na) Honorário, quando prestar um relevante serviço ao Instituto, como tal classificado em portaria de louvor do Ministro da Defesa Nacional;\n\nb) Benfeitor, quando doar a quantia igual ou superior a 25.000 (euro) (vinte e cinco mil euros), por uma só vez, ou superior a 30.000(euro) (trinta mil euros), parcelada durante o período de 6 meses;\n\nc) Subscritor, quando além da joia de 120,00(euro) (cento e vinte euros), pagar quotas mensais de um mínimo de 10,00(euro) (dez euros).\n\n3 - O director do ISN, quando tal se torne necessário, pode propor a actualização dos valores indicados nas alíneas b) e c) do número anterior.\n\n4 - Pode também ser inscrita como protector e ingressar numa das suas categorias a pessoa colectiva privada que satisfaça os requisitos dos números anteriores, ainda que sujeita a regimes especiais de direito administrativo.\n\n5 - O protector que doar um barco salva-vidas, uma estação ou posto salva-vidas ou importâncias adequadas à sua construção pode propor ao director do ISN o nome a dar ao barco, à estação ou ao posto.\n\n6 - Os actuais protectores do ISN transitam para a correspondente categoria de protector, com todos os direitos e deveres que a esta são inerentes, nos termos da presente portaria, salvo no caso do protector doador ainda existente que mantém todos os direitos e deveres que lhe eram reconhecidos ou impostos.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 334/2013 - Diário da República n.º 221/2013, Série I de 2013-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112), em vigor a partir de 2013-11-19."
+  },
+  "1144991075": {
+   "fragment_id": "1144990975",
+   "type": 11,
+   "heading": "9.º — Bandeira, distintivo e emblema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º — Bandeira, distintivo e emblema\n\n1 - A bandeira do ISN é do modelo anexo a esta portaria, com as dimensões apropriadas ao seu uso fixadas no regulamento interno do Instituto.\n\n2 - A Bandeira Nacional e a bandeira do ISN são içadas nas instalações aos domingos, dias de feriado e quando determinado superiormente.\n\n3 - Os barcos salva-vidas usarão a Bandeira Nacional à popa e a bandeira do ISN à proa, sendo-lhes vedado arvorar quaisquer outras insígnias ou distintivos.\n\n4 - O distintivo do ISN é de modelo idêntico ao da bandeira e é usado nas viaturas, pintado nas portas da frente, bem como nas instalações do Instituto.\n\n5 - O emblema do ISN, de modelo idêntico ao da bandeira e distintivo, é usado pelos protectores.\n\nMinistério da Defesa Nacional."
+  },
+  "1030690275": {
+   "fragment_id": "1030690175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 6 de Março de 1995.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira."
+  },
+  "1030690475": {
+   "fragment_id": "1030690375",
+   "type": 14,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(ver documento original)"
+  }
+ }
+}

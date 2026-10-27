@@ -1,0 +1,725 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489507:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-34513675",
+ "dre_path": "/dr/detalhe/portaria/985-2009-489507",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:280186:por",
+     "title": "Portaria n.º 58/2011",
+     "published": "2011-01-28",
+     "dre_path": "/dr/detalhe/portaria/58-2011-280186"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-B",
+    "Altera Artigo 11.º-B"
+   ],
+   "fragments": [
+    "52023975",
+    "51995275",
+    "51995375",
+    "51995475",
+    "51995575",
+    "51995675",
+    "51995775",
+    "51995875",
+    "51995975",
+    "51996075",
+    "51996175",
+    "51996275",
+    "51996375",
+    "51996475",
+    "51996575",
+    "51996675",
+    "51996775",
+    "51996875",
+    "51996975",
+    "51997075",
+    "51997175",
+    "51997275",
+    "51997375",
+    "51997475",
+    "51997575",
+    "51997675",
+    "51997775",
+    "51997875",
+    "51997975",
+    "51998075"
+   ],
+   "acts_without_text_change": []
+  },
+  {
+   "date": "2011-01-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:280186:por",
+     "title": "Portaria n.º 58/2011",
+     "published": "2011-01-28",
+     "dre_path": "/dr/detalhe/portaria/58-2011-280186"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo II-A",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-C",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º-A",
+    "Altera Artigo 11.º-C",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "52023975",
+    "51995275",
+    "52024875",
+    "52028675",
+    "52025075",
+    "51995675",
+    "51995775",
+    "51995875",
+    "51995975",
+    "51996075",
+    "52025375",
+    "51996275",
+    "51996375",
+    "52025575",
+    "51996575",
+    "51996675",
+    "52043675",
+    "52044075",
+    "52044175",
+    "52044375",
+    "52043775",
+    "52025875",
+    "52026175",
+    "52043875",
+    "51997175",
+    "52026475",
+    "52027975",
+    "52028275",
+    "52028475",
+    "52043375",
+    "52043475",
+    "51997875",
+    "51997975",
+    "51998075",
+    "52043975"
+   ]
+  },
+  {
+   "date": "2012-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:554385:por",
+     "title": "Portaria n.º 95/2012",
+     "published": "2012-04-04",
+     "dre_path": "/dr/detalhe/portaria/95-2012-554385"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º-A",
+    "Altera Artigo 11.º-B",
+    "Altera Artigo 11.º-C"
+   ],
+   "fragments": [
+    "52023975",
+    "51995275",
+    "52024875",
+    "52028675",
+    "52025075",
+    "51995675",
+    "51995775",
+    "51995875",
+    "51995975",
+    "51996075",
+    "52025375",
+    "51996275",
+    "51996375",
+    "52025575",
+    "51996575",
+    "51996675",
+    "52043675",
+    "56919747",
+    "56919748",
+    "56919749",
+    "52043775",
+    "52025875",
+    "52026175",
+    "52043875",
+    "51997175",
+    "52026475",
+    "52027975",
+    "52028275",
+    "52028475",
+    "52043375",
+    "52043475",
+    "51997875",
+    "51997975",
+    "51998075",
+    "52043975"
+   ]
+  },
+  {
+   "date": "2015-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67332418:por",
+     "title": "Portaria n.º 157/2015",
+     "published": "2015-05-28",
+     "dre_path": "/dr/detalhe/portaria/157-2015-67332418"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "52023975",
+    "51995275",
+    "52024875",
+    "108335225",
+    "52025075",
+    "51995675",
+    "51995775",
+    "51995875",
+    "51995975",
+    "51996075",
+    "52025375",
+    "51996275",
+    "51996375",
+    "52025575",
+    "51996575",
+    "108335226",
+    "52043675",
+    "56919747",
+    "56919748",
+    "56919749",
+    "52043775",
+    "52025875",
+    "52026175",
+    "52043875",
+    "51997175",
+    "52026475",
+    "52027975",
+    "52028275",
+    "52028475",
+    "52043375",
+    "52043475",
+    "51997875",
+    "51997975",
+    "51998075",
+    "52043975"
+   ]
+  }
+ ],
+ "fragments": {
+  "52023975": {
+   "fragment_id": "35133475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-01-29",
+   "changed_by": [],
+   "markdown": "Portaria n.º 985/2009\n\nde 4 de Setembro\n\nOs apoios à criação de novas empresas por parte de desempregados, jovens à procura do primeiro emprego e outros públicos em situação de desfavorecimento face ao mercado de trabalho, bem como o apoio à criação do próprio emprego por beneficiários de prestações de desemprego, são essenciais à criação de emprego e ao crescimento económico, nomeadamente por via do investimento.\n\nNos termos do n.º 3 do artigo 21.º do Decreto-Lei n.º 132/99, de 21 de Abril, os apoios financeiros à política de emprego, compreendendo a análise técnico-financeira das empresas a apoiar, podem ser concedidos por instituições de crédito, nos termos e condições a acordar entre aquelas instituições e o Ministério do Trabalho e da Solidariedade Social.\n\nÉ importante o apoio público, tendo em vista criar condições para que os promotores das novas empresas possam aceder ao crédito bancário em condições mais favoráveis para fazer face ao investimento inicial subjacente aos projectos.\n\nNos termos do n.º 2 do artigo 21.º do Decreto-Lei n.º 132/99, de 21 de Abril, os apoios financeiros, a conceder directamente pelo Estado ou através de outras entidades, podem revestir, entre outras, as formas de bonificação da taxa de juro e de garantias de empréstimos bancários.\n\nAo sistema nacional de garantia mútua compete um papel de relevo na prestação de garantias que permitam aceder a créditos em melhores condições, por reduzirem o risco da contraparte bancária.\n\nÉ igualmente importante reforçar o apoio técnico à criação e consolidação dos projectos, desde o momento da concepção da ideia de negócio até ao segundo ano de actividade de cada iniciativa.\n\nAssim:\n\nAo abrigo do disposto nos n.os 2 e 3 do artigo 21.º, conjugado com o n.º 1 do artigo 17.º, do Decreto-Lei n.º 132/99, de 21 de Abril, manda o Governo, pelo Secretário de Estado do Emprego e da Formação Profissional, o seguinte:"
+  },
+  "51995275": {
+   "fragment_id": "36193575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "51995375": {
+   "fragment_id": "37700675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e objectivo\n\n1 - O presente diploma aprova a criação do Programa de Apoio ao Empreendedorismo e à Criação do Próprio Emprego (PAECPE), a promover e executar pelo Instituto do Emprego e Formação Profissional, I. P., e regulamenta os apoios a conceder no seu âmbito.\n\n2 - O presente programa compreende as seguintes medidas:\n\na) Apoio à criação de empresas de pequena dimensão, com fins lucrativos, independentemente da respectiva forma jurídica, incluindo entidades que revistam a forma cooperativa, que originem a criação de emprego e contribuam para a dinamização das economias locais;\n\nb) Apoio à criação do próprio emprego por beneficiários de prestações de desemprego."
+  },
+  "51995475": {
+   "fragment_id": "37700775",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modalidades de apoio\n\nOs apoios a conceder para o desenvolvimento das medidas do PAECPE revestem as seguintes modalidades:\n\na) Crédito com garantia e bonificação da taxa de juro;\n\nb) Apoio técnico à criação e consolidação dos projectos;\n\nc) Pagamento, por uma só vez, do montante global das prestações de desemprego;\n\nd) Apoio complementar ao referido na alínea c), sob a forma de subsídio a fundo perdido."
+  },
+  "51995575": {
+   "fragment_id": "37700875",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites à aprovação de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limites à aprovação de projectos\n\nOs projectos beneficiários dos apoios previstos na alínea a) do artigo anterior são aprovados até ao limite dos montantes estabelecidos para o crédito a conceder através, designadamente, de linhas de crédito, e os projectos beneficiários dos apoios previstos nas alíneas b) e d) do artigo anterior até ao limite das dotações previstas no orçamento do Instituto do Emprego e Formação Profissional, I. P."
+  },
+  "51995675": {
+   "fragment_id": "36193675",
+   "type": 1,
+   "heading": "Capítulo II — Apoios à criação de empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoios à criação de empresas"
+  },
+  "51995775": {
+   "fragment_id": "37700975",
+   "type": 8,
+   "heading": "Secção I — Condições e requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições e requisitos de acesso"
+  },
+  "51995875": {
+   "fragment_id": "39322875",
+   "type": 11,
+   "heading": "Artigo 4.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Destinatários\n\n1 - É destinatário das medidas de apoio à criação de empresas, previstas no presente programa, quem se encontre inscrito nos centros de emprego, com capacidade e disponibilidade para o trabalho, e que se encontre numa das seguintes situações:\n\na) Desempregado inscrito há nove meses ou menos, em situação de desemprego involuntário, nos termos dos artigos 9.º e 10.º do Decreto-Lei n.º 220/2006, de 3 de Novembro, ou desempregado inscrito há mais de nove meses, independentemente do motivo da inscrição;\n\nb) Jovem à procura do primeiro emprego, entendendo-se como tal a pessoa com idade compreendida entre os 18 e os 35 anos, inclusive, com o mínimo do ensino secundário completo ou nível 3 de qualificação ou a frequentar um processo de qualificação conducente à obtenção desse nível de ensino ou qualificação, e que não tenha tido contrato de trabalho sem termo;\n\nc) Nunca tenha exercido actividade profissional por conta de outrem ou por conta própria;\n\nd) Trabalhador independente cujo rendimento médio mensal, aferido relativamente aos meses em que teve actividade no último ano, seja inferior à retribuição mínima mensal garantida.\n\n2 - A aferição da idade efectua-se à data da entrega do pedido de financiamento."
+  },
+  "51995975": {
+   "fragment_id": "39322975",
+   "type": 11,
+   "heading": "Artigo 5.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Promotores\n\n1 - É promotor do projecto de criação de empresa o titular do pedido de financiamento que se propõe constituir a nova empresa ou adquirir capital social de empresa preexistente.\n\n2 - O promotor deve ter pelo menos 18 anos de idade à data do pedido de financiamento.\n\n3 - Pelo menos metade dos promotores têm de, cumulativamente, ser destinatários do programa, criar o respectivo posto de trabalho a tempo inteiro e possuir conjuntamente mais de 50 % do capital social e dos direitos de voto."
+  },
+  "51996075": {
+   "fragment_id": "39323075",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos do projecto\n\n1 - O projecto de criação de empresa não pode envolver, na sua fase de investimento e criação de postos de trabalho:\n\na) Criação de mais de 10 postos de trabalho;\n\nb) Um investimento total superior a (euro) 200 000, considerando-se para o efeito as despesas em capital fixo corpóreo e incorpóreo, juros durante a fase do investimento e fundo de maneio.\n\n2 - No projecto que inclua, no investimento a realizar, a compra de capital social ou a cessão de estabelecimento, a empresa cujo capital é adquirido ou a empresa trespassante do estabelecimento não pode ser detida em 25 % ou mais, por cônjuge, unido de facto ou familiar do promotor até ao 2.º grau em linha recta ou colateral.\n\n3 - A empresa referida no número anterior não pode, também, ser detida em 25 % ou mais por outra empresa na qual os sujeitos referidos no mesmo número detenham 25 % ou mais do respectivo capital.\n\n4 - O projecto deve apresentar viabilidade económico-financeira.\n\n5 - A realização do investimento e a criação dos postos de trabalho devem estar concluídas no prazo de um ano a contar da data da disponibilização do crédito, sem prejuízo de prorrogação mediante acordo da entidade bancária, da sociedade de garantia mútua e do Instituto do Emprego e Formação Profissional, I. P."
+  },
+  "51996175": {
+   "fragment_id": "39323175",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade\n\n1 - No projecto de criação de empresa não é considerado elegível:\n\na) As despesas com a aquisição de imóveis;\n\nb) As despesas cuja relevância para a realização do projecto não seja fundamentada;\n\nc) As operações que se destinem a reestruturação financeira, consolidação ou substituição de créditos e saneamentos.\n\n2 - As despesas relativas à elaboração do plano de negócio e ao processo de candidatura ao crédito são elegíveis até ao limite de 15 % do investimento elegível, não podendo ser superior a 1,5 vezes do indexante dos apoios sociais (IAS).\n\n3 - As despesas de investimento são calculadas a preços correntes, deduzindo-se o imposto sobre o valor acrescentado, sempre que a empresa seja sujeito passivo do mesmo e possa proceder à respectiva dedução."
+  },
+  "51996275": {
+   "fragment_id": "39323275",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisitos das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos das empresas\n\n1 - A nova empresa não pode estar constituída à data da entrega do pedido de financiamento, com excepção do projecto que inclua, no investimento a realizar, a compra de capital social.\n\n2 - Desde a data da contratualização dos apoios e até à extinção das obrigações associadas à execução do projecto, a nova empresa deve reunir, cumulativamente, os seguintes requisitos:\n\na) Encontrar-se regularmente constituída e registada;\n\nb) Dispor de licenciamento e outros requisitos legais para o exercício da actividade ou apresentar comprovativo de ter iniciado o respectivo processo;\n\nc) Ter a situação regularizada perante a administração fiscal e a segurança social;\n\nd) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo Instituto do Emprego e Formação Profissional, I. P.;\n\ne) Não ter registo de incidentes no sistema bancário, no sistema de garantia mútua ou na Central de Responsabilidades de Crédito do Banco de Portugal, salvo justificação aceite pela entidade bancária e pela sociedade de garantia mútua;\n\nf) Dispor de contabilidade organizada, desde que legalmente exigido."
+  },
+  "51996375": {
+   "fragment_id": "37701075",
+   "type": 8,
+   "heading": "Secção II — Modalidades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Modalidades de apoio"
+  },
+  "51996475": {
+   "fragment_id": "39323375",
+   "type": 11,
+   "heading": "Artigo 9.º — Crédito ao investimento bonificado e garantido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Crédito ao investimento bonificado e garantido\n\n1 - O crédito ao investimento é concedido por instituições bancárias no quadro de instrumentos de acesso ao crédito, designadamente linhas de crédito a criar para o efeito, e beneficia de garantia, no quadro do sistema de garantia mútua, e de bonificação de taxa de juro e da comissão de garantia.\n\n2 - Os instrumentos de acesso ao crédito referidos no número anterior são instituídos por meio de protocolos a celebrar entre o Instituto do Emprego e Formação Profissional, I. P., as instituições bancárias aderentes e as sociedades de garantia mútua.\n\n3 - Os instrumentos de acesso ao crédito referidos nos números anteriores contemplam, designadamente, duas tipologias de operações de crédito:\n\na) MICROINVEST, para operações de crédito até (euro) 15 000, para financiamento de projectos de investimento até (euro) 15 000;\n\nb) INVEST+, para operações de crédito de montante superior a (euro) 15 000 e até (euro) 100 000, para financiamento de projectos de investimento superior a (euro) 15 000 e até (euro) 200 000.\n\n4 - Sem prejuízo do disposto na alínea b) do número anterior, os créditos a conceder, no âmbito da tipologia INVEST+, têm como limites 95 % do investimento total e (euro) 50 000 por posto de trabalho criado, a tempo completo.\n\n5 - As condições de acesso ao crédito e ao sistema de garantia mútua, nomeadamente a respectiva taxa de juro, as bonificações e as condições para a sua amortização, são fixadas nos protocolos referidos no n.º 2.\n\n6 - São igualmente definidas nos protocolos referidos no n.º 2 as formas de satisfação dos encargos do Instituto do Emprego e Formação Profissional, I. P., com as bonificações da taxa de juro e das comissões de garantia.\n\n7 - As responsabilidades financeiras do Instituto do Emprego e Formação Profissional, I. P., relativas à contragarantia, são realizadas por dotação directa ao Fundo de Contragarantia Mútuo.\n\n8 - A gestão dos instrumentos de acesso ao crédito, designadamente das linhas de crédito a instituir, é da responsabilidade do Instituto do Emprego e Formação Profissional, I. P., que pode, através dos adequados mecanismos de contratualização, atribuí-la a entidade externa."
+  },
+  "51996575": {
+   "fragment_id": "39323475",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação e análise do projecto para acesso ao crédito ao investimento bonificado e garantido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação e análise do projecto para acesso ao crédito ao investimento bonificado e garantido\n\n1 - O projecto é apresentado directamente pelo promotor às instituições bancárias aderentes.\n\n2 - Os protocolos referidos no n.º 2 do artigo anterior estabelecem os termos da verificação dos requisitos previstos nos n.os 2 e 3 do artigo 5.º, nos n.os 1 a 4 do artigo 6.º, no artigo 7.º e no artigo 8.º, por parte da entidade bancária aderente a quem for apresentado o projecto para financiamento.\n\n3 - É da responsabilidade do Instituto do Emprego e Formação Profissional, I. P., atestar, nos termos do artigo 4.º, a qualidade de destinatário."
+  },
+  "51996675": {
+   "fragment_id": "39323575",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio técnico à criação e consolidação de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio técnico à criação e consolidação de projectos\n\n1 - O projecto que obtenha financiamento nos termos do presente programa pode beneficiar de apoio técnico à sua criação e consolidação, sendo este assegurado por uma rede de entidades privadas sem fins lucrativos ou autarquias locais que disponham de serviços de apoio ao empreendedorismo, para o efeito credenciadas pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - O apoio técnico a prestar ao projecto, se solicitado, tem lugar nos dois primeiros anos de actividade da empresa e abrange, nomeadamente, as seguintes actividades:\n\na) Acompanhamento do projecto aprovado;\n\nb) Consultoria em aspectos de maior fragilidade na gestão ou na operacionalidade da iniciativa, diagnosticada durante o acompanhamento.\n\n3 - O apoio financeiro máximo a prestar pelo Instituto do Emprego e Formação Profissional, I. P., às entidades credenciadas, é de oito vezes o IAS, por projecto e por todo o período referido no n.º 2, sem prejuízo do estabelecido no número seguinte.\n\n4 - O Instituto do Emprego e Formação Profissional, I. P., através de regulamento, define, nomeadamente:\n\na) As regras relativas ao processo de credenciação das entidades;\n\nb) Os critérios de constituição da respectiva rede, de modo a cobrir equitativamente todo o território;\n\nc) A forma e períodos de pagamento das actividades efectivamente prestadas, não podendo, em qualquer caso, haver adiantamentos;\n\nd) O sistema de prestação de contas;\n\ne) O montante máximo anual a receber pela entidade.\n\n5 - O Instituto do Emprego e Formação Profissional, I. P., só apoia financeiramente as acções de apoio técnico efectuadas após a aprovação do apoio financeiro."
+  },
+  "51996775": {
+   "fragment_id": "36193775",
+   "type": 1,
+   "heading": "Capítulo III — Apoio à criação do próprio emprego por beneficiários de prestações de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoio à criação do próprio emprego por beneficiários de prestações de desemprego"
+  },
+  "51996875": {
+   "fragment_id": "37701175",
+   "type": 11,
+   "heading": "Artigo 12.º — Antecipação das prestações de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Antecipação das prestações de desemprego\n\n1 - Há lugar ao pagamento, por uma só vez, do montante global das prestações de desemprego, deduzido das importâncias eventualmente já recebidas, ao abrigo do previsto no artigo 34.º do Decreto-Lei n.º 220/2006, de 3 de Novembro, sempre que o beneficiário das prestações de desemprego apresente um projecto ao abrigo da alínea b) do n.º 2 do artigo 1.º e que origine, pelo menos, a criação de emprego, a tempo inteiro, do promotor destinatário.\n\n2 - O montante das prestações de desemprego referidas no número anterior pode ser aplicado na aquisição de estabelecimento por cessão ou na aquisição de capital social de empresa preexistente, que decorra de aumento do capital social e que origine, pelo menos, a criação de emprego, a tempo inteiro, do promotor destinatário.\n\n3 - O montante das prestações de desemprego referidas nos números anteriores deve ser aplicado, na sua totalidade, no financiamento do projecto, podendo ser aplicado em operações associadas ao projecto, designadamente na realização de capital social da empresa a constituir.\n\n4 - O apoio previsto no n.º 1 é cumulável com a modalidade de apoio prevista na alínea a) do artigo 2.º\n\n5 - Ao projecto referido no n.º 1, que não recorra, simultaneamente, à modalidade de apoio prevista na alínea a) do artigo 2.º, pode ser concedido um apoio financeiro, sob a forma de subsídio a fundo perdido, até ao montante de 12 vezes o IAS, a fim de custear, na medida do necessário, as despesas envolvidas na concretização do projecto.\n\n6 - O projecto referido no n.º 2 não pode cumular com as modalidades de apoio previstas nas alíneas a) e d) do artigo 2.º\n\n7 - No projecto previsto no n.º 2, a empresa trespassante do estabelecimento, e a empresa cujo capital social é adquirido, não pode ser detida em 25 % ou mais por cônjuge, unido de facto ou familiar do promotor até ao 2.º grau em linha recta ou colateral.\n\n8 - A empresa referida no número anterior não pode também ser detida em 25 % ou mais por outra empresa na qual os sujeitos referidos no mesmo número detenham 25 % ou mais do respectivo capital.\n\n9 - Os projectos referidos no presente capítulo que não beneficiem da modalidade de apoio prevista na alínea a) do artigo 2.º:\n\na) Não estão sujeitos ao disposto no artigo 4.º, no n.º 3 do artigo 5.º, no n.º 1 do artigo 6.º, na alínea e) do n.º 2 do artigo 8.º, no artigo 9.º, no artigo 10.º, nas alíneas a) a c) do n.º 1 do artigo 15.º, nos n.os 1 e 2 do artigo 16.º e nas alíneas b) e c) do artigo 17.º;\n\nb) Devem manter a actividade da empresa e os postos de trabalho preenchidos por beneficiários das prestações de desemprego durante, pelo menos, três anos.\n\n10 - Os requisitos definidos no n.º 2 do artigo 8.º aplicam-se também aos projectos referidos no n.º 2."
+  },
+  "51996975": {
+   "fragment_id": "37701275",
+   "type": 11,
+   "heading": "Artigo 13.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento\n\n1 - O procedimento aplicável ao pagamento, por uma só vez, de prestações de desemprego é definido por despacho do membro do Governo com a tutela da área do emprego.\n\n2 - O projecto referido no n.º 9 do artigo anterior é apresentado, juntamente com requerimento do pedido de pagamento antecipado das prestações de desemprego dirigido ao Instituto da Segurança Social, I. P., no Instituto do Emprego e Formação Profissional, I. P., o qual analisa a respectiva viabilidade económico-financeira.\n\n3 - O projecto que pretenda beneficiar, simultaneamente, da modalidade de apoio prevista na alínea a) do artigo 2.º, deve o promotor apresentar requerimento do pedido de pagamento antecipado das prestações de desemprego dirigido ao Instituto da Segurança Social, I. P., no Instituto do Emprego e Formação Profissional, I. P., e o projecto a uma das instituições bancárias aderentes para efeito de concessão de crédito.\n\n4 - Após a aprovação do respectivo crédito, o Instituto do Emprego e Formação Profissional, I. P., submete o pedido do pagamento antecipado das prestações de desemprego, para efeitos de aprovação e processamento, ao Instituto da Segurança Social, I. P."
+  },
+  "51997075": {
+   "fragment_id": "36193875",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "51997175": {
+   "fragment_id": "37701375",
+   "type": 11,
+   "heading": "Artigo 14.º — Regra de minimis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regra de minimis\n\nOs apoios públicos subjacentes ao programa são atribuídos ao abrigo do regime comunitário de auxílios de minimis, nomeadamente em termos de sectores de actividade abrangidos e de montante máximo por entidade."
+  },
+  "51997275": {
+   "fragment_id": "37701475",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações\n\n1 - A empresa beneficiária, para além de outras obrigações previstas na lei, regulamentação, protocolos e contratos aplicáveis, deve, pelo menos até à extinção das obrigações associadas ao projecto:\n\na) Manter a actividade da empresa;\n\nb) Manter o requisito referido no n.º 3 do artigo 5.º;\n\nc) Manter o número de postos de trabalho que foi contabilizado para efeito do limite por posto de trabalho referido no n.º 4 do artigo 9.º;\n\nd) Cumprir com os requisitos e obrigações inerentes aos apoios comunitários, caso o programa seja co-financiado.\n\n2 - A empresa beneficiária assegura todas as condições necessárias ao acompanhamento e verificação da sua actividade, a realizar pelas entidades credenciadas referidas no artigo 11.º, até ao fim do segundo ano de actividade da empresa, e posteriormente, e até à extinção das obrigações associadas ao projecto, pelo Instituto do Emprego e Formação Profissional, I. P., ou por entidade por este indicada."
+  },
+  "51997375": {
+   "fragment_id": "37701575",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cumulação\n\n1 - Não é permitido submeter a aprovação de um mesmo pedido de financiamento, ao abrigo do artigo 9.º, a mais de uma instituição bancária simultaneamente.\n\n2 - No caso de recusa do pedido pela instituição bancária ou de desistência formal do mesmo, pode ser apresentado novo pedido de financiamento a outra instituição bancária.\n\n3 - Os apoios previstos no PAECPE não são cumuláveis com apoios que tenham por objecto o mesmo investimento, sem prejuízo do projecto referido no n.º 1 do artigo 12.º poder cumular o pagamento global das prestações de desemprego com um dos seguintes apoios:\n\na) O apoio previsto na alínea a) do artigo 2.º;\n\nb) O apoio complementar previsto na alínea d) do artigo 2.º;\n\nc) Os apoios previstos na secção ii do capítulo ii da Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro.\n\n4 - Os apoios previstos no número anterior não são cumuláveis entre si.\n\n5 - Sem prejuízo do disposto na alínea c) do n.º 3, os apoios previstos neste Programa são cumuláveis com apoios à contratação não integrados em programas de apoio à criação de empresas."
+  },
+  "51997475": {
+   "fragment_id": "37701675",
+   "type": 11,
+   "heading": "Artigo 17.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Incumprimento\n\nSem prejuízo das situações de vencimento antecipado do crédito estabelecidas nos protocolos referidos no n.º 2 do artigo 9.º e sem prejuízo de participação criminal por crime de fraude na obtenção de subsídio de natureza pública, o incumprimento de qualquer das condições ou obrigações previstas na lei, regulamentação, protocolos e contratos aplicáveis tem como consequência, em caso de incumprimento imputável à entidade, a revogação dos benefícios já obtidos, assim como dos supervenientes, que implica:\n\na) A devolução dos benefícios já obtidos, nomeadamente as bonificações de juros e da comissão de garantia, aplicando-se aos valores devidos uma cláusula penal nos termos definidos nos protocolos, e os apoios referidos nas alíneas c) e d) do artigo 2.º;\n\nb) A aplicação, a partir da respectiva data, de uma taxa de juro a suportar pela empresa, nos termos definidos nos protocolos;\n\nc) A impossibilidade de a empresa voltar a beneficiar de bonificação, ainda que cesse a causa que tenha dado origem ao incumprimento."
+  },
+  "51997575": {
+   "fragment_id": "37701775",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamentação técnica\n\nO Instituto do Emprego e Formação Profissional, I. P., regulamenta os aspectos técnicos necessários para a execução do presente Programa."
+  },
+  "51997675": {
+   "fragment_id": "37701875",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração à Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração à Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro\n\nOs artigos 23.º e 24.º da Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 23.º\n\n[...]\n\nAs candidaturas aos apoios previstos na secção ii do capítulo ii devem ser apresentadas no Instituto do Emprego e Formação Profissional, I. P., nos períodos por este definidos para o efeito e que são objecto de divulgação.»\n\nArtigo 24.º\n\n[...]\n\n1 - Compete ao Instituto do Emprego e Formação Profissional, I. P., proceder à instrução e análise dos procedimentos de candidatura ao presente programa, podendo para o efeito contratar com terceiros a sua execução.\n\n2 - Compete ao conselho directivo do Instituto do Emprego e Formação Profissional, I. P., a decisão sobre os procedimentos referidos no número anterior.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)»"
+  },
+  "51997775": {
+   "fragment_id": "37701975",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração à Portaria n.º 1160/2000, de 7 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração à Portaria n.º 1160/2000, de 7 de Dezembro\n\nO artigo 18.º da Portaria n.º 1160/2000, de 7 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 18.º\n\n[...]\n\n1 - As candidaturas no âmbito do PRODESCOOP são apresentadas ao INSCOOP ou ao IEFP, em períodos de candidatura, por estes previamente definidos e divulgados, devidamente instruídas com o projecto a ser apoiado e com os documentos referidos, para cada caso, no anexo i ao formulário de candidatura disponível nos organismos indicados.\n\n2 - ...»"
+  },
+  "51997875": {
+   "fragment_id": "37702075",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma transitória\n\nOs projectos apresentados ou aprovados ao abrigo da Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro, e da Portaria n.º 1191/2003, de 10 de Outubro, são por aquelas reguladas até ao final da execução dos respectivos projectos."
+  },
+  "51997975": {
+   "fragment_id": "37702175",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nCom a entrada em vigor do presente diploma são revogadas:\n\na) As secções i, iii e iv do capítulo ii da Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro;\n\nb) A Portaria n.º 1191/2003, de 10 de Outubro."
+  },
+  "51998075": {
+   "fragment_id": "37702275",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - Os artigos 19.º e 20.º entram em vigor 90 dias após a sua entrada em vigor."
+  },
+  "52024875": {
+   "fragment_id": "37700675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivo",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e objectivo\n\n1 - O presente diploma aprova a criação do Programa de Apoio ao Empreendedorismo e à Criação do Próprio Emprego (PAECPE), a promover e executar pelo Instituto do Emprego e Formação Profissional, I. P., e pela Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada (CASES), e regulamenta os apoios a conceder no seu âmbito.\n\n2 - O presente Programa compreende as seguintes medidas:\n\na) Apoio à criação de empresas de pequena dimensão, com fins lucrativos, independentemente da respectiva forma jurídica, incluindo entidades que revistam a forma cooperativa, que originem a criação de emprego e contribuam para a dinamização das economias locais;\n\nb) Programa Nacional de Microcrédito, no âmbito do Programa de Apoio ao Desenvolvimento da Economia Social (PADES), aprovado pela Resolução do Conselho de Ministros n.º 16/2010, de 4 de Março;\n\nc) Apoio à criação do próprio emprego por beneficiários de prestações de desemprego.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52028675": {
+   "fragment_id": "37700775",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidades de apoio",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 2.º — Modalidades de apoio\n\nOs apoios a conceder para o desenvolvimento das medidas do PAECPE revestem as seguintes modalidades:\n\na) Crédito com garantia e bonificação da taxa de juro;\n\nb) Apoio técnico à criação e consolidação dos projectos;\n\nc) Pagamento, por uma só vez, do montante global das prestações de desemprego;\n\nd) (Revogada).\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52025075": {
+   "fragment_id": "37700875",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites à aprovação de projectos",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 3.º — Limites à aprovação de projectos\n\nOs projectos beneficiários dos apoios previstos na alínea a) do artigo anterior são aprovados até ao limite dos montantes estabelecidos para o crédito a conceder através, designadamente, de linhas de crédito, e os projectos beneficiários dos apoios previstos na alínea b) do artigo anterior até ao limite das dotações previstas no orçamento do Instituto do Emprego e Formação Profissional, I. P. ou da CASES.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52025375": {
+   "fragment_id": "39323175",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29, produz efeitos a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 7.º — Elegibilidade\n\n1 - No projecto de criação de empresa não é considerado elegível:\n\na) As despesas com a aquisição de imóveis;\n\nb) As despesas cuja relevância para a realização do projecto não seja fundamentada;\n\nc) As operações que se destinem a reestruturação financeira, consolidação ou substituição de créditos e saneamentos.\n\n2 - As despesas relativas à elaboração do plano de negócio e ao processo de candidatura ao crédito são elegíveis até ao limite de 15 % do investimento elegível, não podendo ser superior a 1,5 vezes do indexante dos apoios sociais (IAS).\n\nO crédito subjacente às medidas previstas nas alíneas a) e b) do n.º 2 do artigo 1.º só pode financiar o fundo de maneio do projecto até 30 % do investimento elegível, independentemente da dimensão do fundo de maneio.\n\n3 - O crédito subjacente às medidas previstas nas alíneas a) e b) do n.º 2 do artigo 1.º só pode financiar o fundo de maneio do projecto até 30 % do investimento elegível, independentemente da dimensão do fundo de maneio.\n\n4 - As despesas de investimento são calculadas a preços correntes, deduzindo -se o imposto sobre o valor acrescentado, sempre que a empresa seja sujeito passivo do mesmo e possa proceder à respectiva dedução.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29, produz efeitos a partir de 2011-01-29"
+  },
+  "52025575": {
+   "fragment_id": "39323375",
+   "type": 11,
+   "heading": "Artigo 9.º — Crédito ao investimento bonificado e garantido",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 9.º — Crédito ao investimento bonificado e garantido\n\n1 - O crédito ao investimento é concedido por instituições bancárias no quadro de instrumentos de acesso ao crédito, designadamente linhas de crédito a criar para o efeito, e beneficia de garantia, no quadro do sistema de garantia mútua, e de bonificação de taxa de juro e da comissão de garantia.\n\n2 - Os instrumentos de acesso ao crédito referidos no número anterior são instituídos por meio de protocolos a celebrar entre o Instituto do Emprego e Formação Profissional, I. P., as instituições bancárias aderentes e as sociedades de garantia mútua.\n\n3 - Os instrumentos de acesso ao crédito referidos nos números anteriores contemplam, designadamente, duas tipologias de operações de crédito:\n\na) MICROINVEST, para operações de crédito até (euro) 20 000, para financiamento de projectos de investimento até (euro) 20.000,00;\n\nb) INVEST+, para operações de crédito de montante até (euro) 100 000 para financiamento de projectos de investimento superior a (euro) 20 000 e até (euro) 200 000.\n\n4 - Sem prejuízo do disposto na alínea b) do número anterior, os créditos a conceder, no âmbito da tipologia INVEST+, têm como limites 95 % do investimento total e (euro) 50 000 por posto de trabalho criado, a tempo completo.\n\n5 - As condições de acesso ao crédito e ao sistema de garantia mútua, nomeadamente a respectiva taxa de juro, as bonificações e as condições para a sua amortização, são fixadas nos protocolos referidos no n.º 2.\n\n6 - São igualmente definidas nos protocolos referidos no n.º 2 as formas de satisfação dos encargos do Instituto do Emprego e Formação Profissional, I. P., com as bonificações da taxa de juro e das comissões de garantia.\n\n7 - As responsabilidades financeiras do Instituto do Emprego e Formação Profissional, I. P., relativas à contragarantia, são realizadas por dotação directa ao Fundo de Contragarantia Mútuo.\n\n8 - A gestão dos instrumentos de acesso ao crédito, designadamente das linhas de crédito a instituir, é da responsabilidade do Instituto do Emprego e Formação Profissional, I. P., que pode, através dos adequados mecanismos de contratualização, atribuí-la a entidade externa.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52043675": {
+   "fragment_id": "36194075",
+   "type": 1,
+   "heading": "Capítulo II-A — Programa Nacional de Microcrédito",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "### Capítulo II-A — Programa Nacional de Microcrédito\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52044075": {
+   "fragment_id": "39334075",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Destinatários",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 11.º-A — Destinatários\n\nSão destinatários do Programa Nacional de Microcrédito todos aqueles que tenham especiais dificuldades de acesso ao mercado de trabalho e estejam em risco de exclusão social, possuam uma ideia de negócio viável e perfil de empreendedores, e formulem e apresentem projectos viáveis para criar e consolidar postos de trabalho sustentáveis.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52044175": {
+   "fragment_id": "39334175",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Crédito ao investimento bonificado e garantido",
+   "in_force_from": "2009-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2009-01-29"
+   ],
+   "markdown": "###### Artigo 11.º-B — Crédito ao investimento bonificado e garantido\n\n1 - Os projectos apresentados no âmbito do Programa Nacional de Microcrédito beneficiam da tipologia MICROINVEST, referida na alínea a) do n.º 3 do artigo 9.º, com as especificidades constantes dos números seguintes.\n\n2 - É da responsabilidade da CASES validar os projectos previamente à respectiva apresentação na instituição bancária.\n\n3 - Aos projectos referidos no presente artigo são aplicáveis os artigos 5.º, 6.º, 7.º, 8.º e 9.º e os n.os 1 e 2 do artigo 10.º\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2009-01-29"
+  },
+  "52044375": {
+   "fragment_id": "39334275",
+   "type": 11,
+   "heading": "Artigo 11.º-C — Apoio técnico à criação e consolidação dos projectos",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 11.º-C — Apoio técnico à criação e consolidação dos projectos\n\nOs projectos integrados no Programa Nacional de Microcrédito podem beneficiar de apoio técnico à sua criação e consolidação, sendo este assegurado pelas entidades representativas do sector cooperativo e da economia social que integram a CASES ou por entidades constituintes da rede de entidades privadas sem fins lucrativos ou autarquias locais que disponham de serviços de apoio ao empreendedorismo, para o efeito credenciadas pelo Instituto do Emprego e Formação Profissional, I. P., nos termos do artigo 11.º.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52043775": {
+   "fragment_id": "36193775",
+   "type": 1,
+   "heading": "Capítulo III — Apoio à criação do próprio emprego por beneficiários de prestações de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoio à criação do próprio emprego por beneficiários de prestações de desemprego"
+  },
+  "52025875": {
+   "fragment_id": "37701175",
+   "type": 11,
+   "heading": "Artigo 12.º — Antecipação das prestações de desemprego",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 12.º — Antecipação das prestações de desemprego\n\n1 - Há lugar ao pagamento, por uma só vez, do montante global das prestações de desemprego, deduzido das importâncias eventualmente já recebidas, ao abrigo do previsto no artigo 34.º do Decreto-Lei n.º 220/2006, de 3 de Novembro, sempre que o beneficiário das prestações de desemprego apresente um projecto ao abrigo da alínea c) do n.º 2 do artigo 1.º e que origine, pelo menos, a criação de emprego, a tempo inteiro, do promotor destinatário.\n\n2 - O montante das prestações de desemprego referidas no número anterior pode ser aplicado na aquisição de estabelecimento por cessão ou na aquisição de capital social de empresa preexistente, que decorra de aumento do capital social e que origine, pelo menos, a criação de emprego, a tempo inteiro, do promotor destinatário.\n\n3 - O montante das prestações de desemprego referidas nos números anteriores deve ser aplicado, na sua totalidade, no financiamento do projecto, podendo ser aplicado em operações associadas ao projecto, designadamente na realização de capital social da empresa a constituir.\n\n4 - O apoio previsto no n.º 1 é cumulável com as medidas previstas nas alíneas a) ou b) do n.º 2 do artigo 1.º\n\n5 - (Revogado).\n\n6 - (Revogado).\n\n7 - No projecto previsto no n.º 2, a empresa trespassante do estabelecimento, e a empresa cujo capital social é adquirido, não pode ser detida em 25 % ou mais por cônjuge, unido de facto ou familiar do promotor até ao 2.º grau em linha recta ou colateral.\n\n8 - A empresa referida no número anterior não pode também ser detida em 25 % ou mais por outra empresa na qual os sujeitos referidos no mesmo número detenham 25 % ou mais do respectivo capital.\n\n9 - Os projectos referidos no presente capítulo que não beneficiem das medidas previstas nas alíneas a) e b) do n.º 2 do artigo 1.º:\n\na) Não estão sujeitos ao disposto no artigo 4.º, no n.º 3 do artigo 5.º, no n.º 1 do artigo 6.º, na alínea e) do n.º 2 do artigo 8.º, no artigo 9.º, no artigo 10.º, nas alíneas a) a c) do n.º 1 do artigo 15.º, nos n.os 1 e 2 do artigo 16.º e nas alíneas b) e c) do artigo 17.º;\n\nb) Devem manter a actividade da empresa e os postos de trabalho preenchidos por beneficiários das prestações de desemprego durante, pelo menos, três anos.\n\n10 - Os requisitos definidos no n.º 2 do artigo 8.º aplicam-se também aos projectos referidos no n.º 2.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52026175": {
+   "fragment_id": "37701275",
+   "type": 11,
+   "heading": "Artigo 13.º — Procedimento",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 13.º — Procedimento\n\n1 - O procedimento aplicável ao pagamento, por uma só vez, de prestações de desemprego é definido por despacho do membro do Governo com a tutela da área do emprego.\n\n2 - O projecto referido no n.º 9 do artigo anterior é apresentado, juntamente com requerimento do pedido de pagamento antecipado das prestações de desemprego dirigido ao Instituto da Segurança Social, I. P., no Instituto do Emprego e Formação Profissional, I. P., o qual analisa a respectiva viabilidade económico-financeira.\n\n3 - No projecto que pretenda beneficiar, simultaneamente, das medidas previstas nas alíneas a) ou b) do n.º 2 do artigo 1.º e da medida prevista na alínea c) do mesmo artigo, deve o promotor apresentar requerimento do pedido de pagamento antecipado das prestações de desemprego dirigido ao Instituto da Segurança Social, I. P., no Instituto do Emprego e Formação Profissional, I. P., e o projecto numa das instituições bancárias aderentes para efeito de concessão de crédito.\n\n4 - Após a aprovação do respectivo crédito, o Instituto do Emprego e Formação Profissional, I. P., submete o pedido do pagamento antecipado das prestações de desemprego, para efeitos de aprovação e processamento, ao Instituto da Segurança Social, I. P.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52043875": {
+   "fragment_id": "36193875",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "52026475": {
+   "fragment_id": "37701475",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigações\n\n1 - A empresa beneficiária, para além de outras obrigações previstas na lei, regulamentação, protocolos e contratos aplicáveis, deve, pelo menos até à extinção das obrigações associadas ao projecto:\n\na) Manter a actividade da empresa;\n\nb) Manter o requisito referido no n.º 3 do artigo 5.º;\n\nc) Manter o número de postos de trabalho que foi contabilizado para efeito do limite por posto de trabalho referido no n.º 4 do artigo 9.º;\n\nd) Cumprir com os requisitos e obrigações inerentes aos apoios comunitários, caso o programa seja co-financiado.\n\n2 - A empresa beneficiária assegura todas as condições necessárias ao acompanhamento e verificação da sua actividade, até à extinção das obrigações associadas ao projecto, a realizar pelo Instituto do Emprego e Formação Profissional, I. P., ou pela CASES, pelas entidades credenciadas referidas no artigo 11.º e no artigo 11.º-C ou por entidade indicada pelo Instituto do Emprego e Formação Profissional, I. P., ou pela CASES.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52027975": {
+   "fragment_id": "37701575",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumulação",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 16.º — Cumulação\n\n1 - Não é permitido submeter a aprovação de um mesmo pedido de financiamento, ao abrigo do artigo 9.º ou do artigo 11.º-B, a mais de uma instituição bancária simultaneamente.\n\n2 - No caso de recusa do pedido pela instituição bancária ou de desistência formal do mesmo, pode ser apresentado novo pedido de financiamento a outra instituição bancária, sem prejuízo do estabelecido no n.º 1 do artigo 8.º\n\n3 - Os apoios previstos no PAECPE não são cumuláveis com apoios que tenham por objecto o mesmo investimento, sem prejuízo do projecto referido no n.º 1 do artigo 12.º poder cumular o pagamento global das prestações de desemprego com:\n\na) O apoio previsto na alínea a) ou b) do n.º 2 do artigo 1.º;\n\nb) (Revogada).\n\nc) (Revogada).\n\n4 - (Revogado).\n\n5 - Os apoios previstos neste Programa são cumuláveis com apoios à contratação não integrados em programas de apoio à criação de empresas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52028275": {
+   "fragment_id": "37701675",
+   "type": 11,
+   "heading": "Artigo 17.º — Incumprimento",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 17.º — Incumprimento\n\nSem prejuízo das situações de vencimento antecipado do crédito estabelecidas nos protocolos referidos no n.º 2 do artigo 9.º e da participação criminal por indícios da prática de crime de fraude na obtenção de subsídio de natureza pública, o incumprimento de qualquer das condições ou obrigações previstas na lei, sua regulamentação, protocolos e contratos aplicáveis, tem como consequência, em caso de incumprimento imputável à entidade, a revogação dos benefícios já obtidos, assim como dos supervenientes, implicando:\n\na) A devolução dos benefícios já obtidos, nomeadamente, as bonificações de juros e da comissão de garantia, aplicando-se aos valores devidos uma cláusula penal nos termos definidos nos protocolos, e do apoio referido na alínea c) do artigo 2.º;\n\nb) A aplicação, a partir da respectiva data, de uma taxa de juro a suportar pela empresa, nos termos definidos nos protocolos;\n\nc) A impossibilidade de a empresa voltar a beneficiar de bonificação, ainda que cesse a causa que tenha dado origem ao incumprimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52028475": {
+   "fragment_id": "37701775",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação técnica",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 18.º — Regulamentação técnica\n\n1 - O Instituto do Emprego e Formação Profissional regulamenta os aspectos técnicos necessários para a execução da medida prevista na alínea a) do n.º 2 do artigo 1.º, nomeadamente, das linhas de crédito previstas no artigo 9.º, regulamentando igualmente os aspectos técnicos referentes à execução da medida prevista na alínea c) do n.º 2 do artigo 1.º\n\n2 - A CASES, em articulação com o Instituto do Emprego e Formação Profissional, regulamenta os aspectos técnicos necessários para a execução do Programa Nacional de Microcrédito.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52043375": {
+   "fragment_id": "37701875",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração à Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 19.º — Alteração à Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro\n\nOs artigos 23.º e 24.º da Portaria n.º 196-A/2001, de 10 de Março, com a redacção dada pelas Portarias n.os 255/2002, de 12 de Março, e 183/2007, de 9 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 23.º\n\n[...]\n\nAs candidaturas aos apoios previstos na secção ii do capítulo ii devem ser apresentadas no Instituto do Emprego e Formação Profissional, I. P., nos períodos por este definidos para o efeito e que são objecto de divulgação.»\n\nArtigo 24.º\n\n[...]\n\n1 - Compete ao Instituto do Emprego e Formação Profissional, I. P., proceder à instrução e análise dos procedimentos de candidatura ao presente programa, podendo para o efeito contratar com terceiros a sua execução.\n\n2 - Compete ao conselho directivo do Instituto do Emprego e Formação Profissional, I. P., a decisão sobre os procedimentos referidos no número anterior.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)»\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52043475": {
+   "fragment_id": "37701975",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração à Portaria n.º 1160/2000, de 7 de Dezembro",
+   "in_force_from": "2011-01-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 20.º — Alteração à Portaria n.º 1160/2000, de 7 de Dezembro\n\nO artigo 18.º da Portaria n.º 1160/2000, de 7 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 18.º\n\n[...]\n\n1 - As candidaturas no âmbito do PRODESCOOP são apresentadas ao INSCOOP ou ao IEFP, em períodos de candidatura, por estes previamente definidos e divulgados, devidamente instruídas com o projecto a ser apoiado e com os documentos referidos, para cada caso, no anexo i ao formulário de candidatura disponível nos organismos indicados.\n\n2 - ...»\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "52043975": {
+   "fragment_id": "36193975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 26 de Agosto de 2009."
+  },
+  "56919747": {
+   "fragment_id": "39334075",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Destinatários",
+   "in_force_from": "2012-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 95/2012 - Diário da República n.º 68/2012, Série I de 2012-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385), em vigor a partir de 2012-04-05",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 11.º-A — Destinatários\n\n1 - São destinatários do Programa Nacional de Microcrédito todos aqueles que tenham especiais dificuldades de acesso ao mercado de trabalho e estejam em risco de exclusão social, possuam uma ideia de negócio viável, perfil de empreendedores e formulem e apresentem projetos viáveis para criar postos de trabalho.\n\n2 - São também destinatárias as microentidades e as cooperativas até 10 trabalhadores, incluindo neste número os cooperadores trabalhadores, que apresentem projetos viáveis com criação líquida de postos de trabalho, em especial no domínio da atividade na área da economia social.\n\n3 - Consideram-se microentidades as empresas que preencham os critérios previstos no artigo 2.º do Decreto-Lei n.º 36-A/2011, de 9 de março.\n\n4 - Para efeitos do n.º 2 do presente artigo, considera-se que há criação líquida de emprego quando a entidade registar, no fim do prazo referido no n.º 5 do artigo 6.º, um número total de trabalhadores superior à média dos trabalhadores registados nos 12 meses que precedem o pedido.\n\n5 - A criação líquida de emprego é verificada pela CASES, que organiza todo o processo, mediante certificação pelo Instituto de Informática, I. P., após consentimento prestado pelos beneficiários.\n\n6 - Deve ser concedida prioridade aos casos em que o beneficiário ou o contratado tenha idade compreendida entre os 16 e os 34 anos e seja desempregado inscrito em centro de emprego há pelo menos quatro meses.\n\n7 - Os destinatários identificados nos n.os 1 e 2 do presente artigo constituem-se como promotores, nos termos do previsto no artigo 5.º, com a apresentação de um projeto.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 95/2012 - Diário da República n.º 68/2012, Série I de 2012-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385), em vigor a partir de 2012-04-05\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "56919748": {
+   "fragment_id": "39334175",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Crédito ao investimento bonificado e garantido",
+   "in_force_from": "2012-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 95/2012 - Diário da República n.º 68/2012, Série I de 2012-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385), em vigor a partir de 2012-04-05",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2009-01-29"
+   ],
+   "markdown": "###### Artigo 11.º-B — Crédito ao investimento bonificado e garantido\n\n1 - No âmbito do Programa Nacional de Microcrédito, os projetos apresentados pelos promotores identificados no artigo anterior beneficiam da tipologia MICROINVEST, referida na alínea a) do n.º 3 do artigo 9.º, com as especificidades constantes dos números seguintes.\n\n2 - É da responsabilidade da CASES atestar a qualidade de destinatário e validar previamente os projetos, mediante a emissão de documento próprio, a apresentar pelos promotores, juntamente com o respetivo projeto, na instituição bancária.\n\n3 - Os projetos apresentados pelos promotores identificados no n.º 1 do artigo 11.º-A devem respeitar também as regras estabelecidas nos artigos 5.º, 6.º, 7.º, 8.º e 9.º, nos n.os 1 e 2 do artigo 10.º e no capítulo iv.\n\n4 - Os projetos apresentados pelos promotores identificados no n.º 2 do artigo 11.º-A devem respeitar também, com as devidas adaptações, as regras estabelecidas nos artigos 6.º e 7.º, no n.º 2 do artigo 8.º, nos n.os 1 e 2, na alínea a) do n.º 3 e nos n.os 5, 6, 7 e 8 do artigo 9.º, nos n.os 1 e 2 do artigo 10.º e no capítulo iv, com exceção das alíneas b) e c) do n.º 1 do artigo 15.º\n\n5 - Não podem beneficiar do Programa Nacional de Microcrédito as entidades que já tenham beneficiado anteriormente de apoio no âmbito das tipologias MICROINVEST ou INVEST+.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 95/2012 - Diário da República n.º 68/2012, Série I de 2012-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385), em vigor a partir de 2012-04-05\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2009-01-29"
+  },
+  "56919749": {
+   "fragment_id": "39334275",
+   "type": 11,
+   "heading": "Artigo 11.º-C — Apoio técnico à criação e consolidação dos projectos",
+   "in_force_from": "2012-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 95/2012 - Diário da República n.º 68/2012, Série I de 2012-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385), em vigor a partir de 2012-04-05",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 11.º-C — Apoio técnico à criação e consolidação dos projectos\n\nOs projetos apresentados pelos promotores identificados no artigo 11.º-A podem beneficiar de apoio técnico à sua criação e consolidação, nos termos do artigo 11.º, com as seguintes adaptações:\n\na) Na definição da rede de entidades certificadas que prestam o apoio técnico, bem como na regulamentação das condições do apoio prestado, o IEFP articulará com a CASES;\n\nb) O apoio técnico previsto no n.º 5 do artigo 11.º tem um montante máximo de 50 % do Indexante dos Apoios Sociais (IAS), sem prejuízo do estabelecido no número seguinte;\n\nc) Quando justificado e fundamentado, o apoio técnico pode ocorrer previamente à aprovação do crédito, caso no qual tem um montante máximo de 50 % do IAS;\n\nd) Os apoios referidos nas alíneas b) e c) são cumulativos, nunca podendo a soma dos dois apoios ultrapassar o montante de um IAS.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 95/2012 - Diário da República n.º 68/2012, Série I de 2012-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385), em vigor a partir de 2012-04-05\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "108335225": {
+   "fragment_id": "37700775",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidades de apoio",
+   "in_force_from": "2015-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 157/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/157-2015-67332418), em vigor a partir de 2015-06-02",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+   ],
+   "markdown": "###### Artigo 2.º — Modalidades de apoio\n\nOs apoios a conceder para o desenvolvimento das medidas do PAECPE revestem as seguintes modalidades:\n\na) Crédito com garantia e bonificação da taxa de juro;\n\nb) (Revogada);\n\nc) Pagamento, por uma só vez, do montante global das prestações de desemprego;\n\nd) (Revogada).\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 157/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/157-2015-67332418), em vigor a partir de 2015-06-02\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 58/2011 - Diário da República n.º 20/2011, Série I de 2011-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186), em vigor a partir de 2011-01-29"
+  },
+  "108335226": {
+   "fragment_id": "39323575",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio técnico à criação e consolidação de projectos",
+   "in_force_from": "2015-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 157/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/157-2015-67332418), em vigor a partir de 2015-06-02"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio técnico à criação e consolidação de projectos\n\n1 - O projecto que obtenha financiamento nos termos do presente programa pode beneficiar de apoio técnico à sua criação e consolidação, sendo este assegurado por uma rede de entidades privadas sem fins lucrativos ou autarquias locais que disponham de serviços de apoio ao empreendedorismo, para o efeito credenciadas pelo Instituto do Emprego e Formação Profissional, I. P.\n\n2 - O apoio técnico a prestar ao projecto, se solicitado, tem lugar nos dois primeiros anos de actividade da empresa e abrange, nomeadamente, as seguintes actividades:\n\na) Acompanhamento do projecto aprovado;\n\nb) Consultoria em aspectos de maior fragilidade na gestão ou na operacionalidade da iniciativa, diagnosticada durante o acompanhamento.\n\n3 - O apoio financeiro máximo a prestar pelo Instituto do Emprego e Formação Profissional, I. P., às entidades credenciadas, é de oito vezes o IAS, por projecto e por todo o período referido no n.º 2, sem prejuízo do estabelecido no número seguinte.\n\n4 - O Instituto do Emprego e Formação Profissional, I. P., através de regulamento, define, nomeadamente:\n\na) As regras relativas ao processo de credenciação das entidades;\n\nb) Os critérios de constituição da respectiva rede, de modo a cobrir equitativamente todo o território;\n\nc) A forma e períodos de pagamento das actividades efectivamente prestadas, não podendo, em qualquer caso, haver adiantamentos;\n\nd) O sistema de prestação de contas;\n\ne) O montante máximo anual a receber pela entidade.\n\n5 - O Instituto do Emprego e Formação Profissional, I. P., só apoia financeiramente as acções de apoio técnico efectuadas após a aprovação do apoio financeiro.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 157/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/157-2015-67332418), em vigor a partir de 2015-06-02"
+  }
+ }
+}

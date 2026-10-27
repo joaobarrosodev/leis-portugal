@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:214040:por
+title: Decreto n.º 49245
+short_title: null
+summary: Abre créditos no Ministério das Finanças, a favor do Ministério da Economia, destinados a serem inscritos no capítulo
+  1.º do orçamento do segundo dos mencionados Ministérios
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '49245'
+official_date: null
+publication_date: '1969-09-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 219/1969, Série I de 1969-09-18
+  number: '219'
+  series: I
+  supplement: null
+  pages: 1269 - 1270
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/09/21900/12691270.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214040'
+  dre_path: /dr/detalhe/decreto/49245-1969-214040
+  internal: pt:dre:214040:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/49245-1969-214040
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49245-1969-214040
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d4f7ebd490f37bd29df319c2d55226e7ba2a78a3abb435dc9cd2d77183e5f0dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:199622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:09:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 49245
+
+Com fundamento no disposto na alínea a) do artigo 35.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, em execução do [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969, mediante proposta aprovada pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Economia, créditos especiais no montante de 370000$00 a inscrever sob a forma seguinte:
+
+Capítulo 1.º «Gabinete do Ministro»:
+
+Conselho Superior de Economia
+
+Despesas com o pessoal:
+
+Artigo 10.º-A «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante quatro meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/21900/12691270.pdf)
+
+Artigo 10.º-B «Outras despesas com o pessoal», n.º 1) «Ajudas de custo ... 10000$00
+
+Pagamento de serviços e diversos encargos:
+
+Artigo 10.º-C «Outros encargos», n.º 1) «Para todas as despesas com o material, incluindo a instalação do serviço, pagamento de serviços e diversos encargos» (ver nota b) ... 120000$00
+
+... 370000$00
+
+(nota b) A distribuir mediante plano aprovado pelos Ministros da Economia e das Finanças.
+
+Art. 2.º Para compensação dos créditos designados no artigo precedente são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+
+Ministério da Economia
+
+Capítulo 3.º, artigo 33.º, n.º 1) ... 20000$00
+
+Capítulo 3.º, artigo 34.º, n.º 1) ... 22500$00
+
+Capítulo 3.º, artigo 35.º, n.º 1) ... 7200$00
+
+Capítulo 3.º, artigo 39.º, n.º 3) ... 18000$00
+
+Capítulo 4.º, artigo 40.º, n.º 1) ... 302300$00
+
+... 370000$00
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
+
+Marcello Caetano - João Augusto Dias Rosas.
+
+Promulgado em 8 de Setembro de 1969.
+
+Publique-se.
+
+Presidência da República, 18 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

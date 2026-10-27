@@ -1,0 +1,220 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:505781:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1997-108025616",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-1997-505781",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-02-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "136053483",
+    "108025898",
+    "108025899",
+    "108025900",
+    "108025901",
+    "108025902"
+   ]
+  },
+  {
+   "date": "2017-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108021184:por",
+     "title": "Decreto Legislativo Regional n.º 26/2017/M",
+     "published": "2017-08-18",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2017-108021184"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108025897",
+    "108025898",
+    "108025904",
+    "108025900",
+    "108025905",
+    "108025902",
+    "108025903"
+   ]
+  },
+  {
+   "date": "2020-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:135951165:por",
+     "title": "Decreto Legislativo Regional n.º 6/2020/M",
+     "published": "2020-06-17",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2020-135951165"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "136053483",
+    "136053484",
+    "136053485",
+    "136053486",
+    "136053487",
+    "136053488",
+    "136053489"
+   ]
+  }
+ ],
+ "fragments": {
+  "136053483": {
+   "fragment_id": "108025617",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-07-01",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/97/M\n\nInstitui e disciplina a atribuição de um suplemento remuneratório ao pessoal da Direcção Regional de Estradas que preste trabalho em condições de risco e penosidade.\n\nO Decreto-Lei n.º 184/89, de 2 de Junho, que aprovou os princípios gerais sobre salários na função pública, prevê, no n.º 1 do seu artigo 19.º, a atribuição de suplementos remuneratórios em função de particularidades específicas da prestação de trabalho, nomeadamente em situações de risco e de penosidade.\n\nNa Administração Regional Autónoma existem funcionários que, no exercício das respectivas funções, vêem a sua integridade física permanentemente ameaçada por riscos de vária ordem provenientes da poluição sonora e ambiental, do manuseamento de equipamentos mecânicos, do manuseamento e guarda de produtos inflamáveis e explosivos e de certos trabalhos de limpeza de taludes.\n\nVerificam-se tais condicionalismos relativamente ao trabalho prestado pelo pessoal afecto às pedreiras, às centrais de britagem e de betão betuminoso, ao paiol e à limpeza de taludes sobranceiros às estradas regionais, tarefas inseridas nas atribuições da Direcção Regional de Estradas da Secretaria Regional do Equipamento Social e Ambiente no âmbito da criação, conservação e segurança da rede viária regional.\n\nAssim, a atribuição de suplemento remuneratório aquando da prestação efectiva de trabalho naquelas condições constitui um imperativo de justiça e configura-se, simultaneamente, como um instrumento de política de gestão de pessoal, pois tende a dissipar diferenças funcionais existentes e a combater o absentismo.\n\nNestes termos:\n\nA Assembleia Legislativa Regional da Madeira, ao abrigo das alíneas a) e c) do n.º 1 do artigo 299.º da Constituição e das alíneas c) e e) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 de Junho, e no desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 184/89, de 2 de Junho, decreta o seguinte:"
+  },
+  "108025898": {
+   "fragment_id": "108025618",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma institui e disciplina a atribuição de um suplemento remuneratório ao pessoal da Direcção Regional de Estradas em caso de efectiva prestação de trabalho em condições de risco e penosidade."
+  },
+  "108025899": {
+   "fragment_id": "108025619",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito funcional\n\n1 - Consideram-se prestadas em condições de risco e penosidade as seguintes funções:\n\na) Limpeza, correcção e escavação de taludes;\n\nb) Manuseamento de betume aquecido;\n\nc) Extracção e transformação de pedra;\n\nd) Manuseamento de todo o equipamento mecânico inerente à prossecução das funções previstas nas alíneas b) e c);\n\ne) Manuseamento, controlo e vigilância de material explosivo.\n\n2 - As funções referidas no número anterior conferem direito ao suplemento remuneratório:\n\na) As mencionadas na alínea a), quando desempenhadas em áreas adjacentes às estradas regionais, cuja perigosidade seja confirmada pelo director de Serviços de Conservação;\n\nb) As mencionadas nas alíneas b), c), d) e e), quando desempenhadas nas pedreiras, nas centrais de britagem e de betão betuminoso ou nos paióis."
+  },
+  "108025900": {
+   "fragment_id": "108025620",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\nO presente diploma aplica-se aos funcionários, agentes e contratados que efectivamente desempenhem as funções a que se reporta o artigo anterior, independentemente da categoria ou carreira em que estejam integrados."
+  },
+  "108025901": {
+   "fragment_id": "108025621",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante do suplemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante do suplemento\n\n1 - Na situação a que se reportam as alíneas a) dos n.os 1 e 2 do artigo 2.º, o suplemento tem o valor de 1000$00/hora e é atribuído em função do número de horas efectivamente prestadas, sem poder exceder oitenta horas mensais.\n\n2 - Nas situações a que se reportam as alíneas b), c), d) e e) do n.º 1 e b) do n.º 2 do artigo 2.º, o suplemento tem o valor mensal correspondente a 50% do índice 100 da escala salarial das carreiras de regime geral da função pública.\n\n3 - Nas situações contempladas no número anterior, caso o número de dias de trabalho mensal efectivamente prestado seja inferior a 22, o suplemento é calculado com base no montante máximo no mesmo referido.\n\n4 - O valor/hora referido no n.º 1 é actualizado na percentagem da revisão anual do índice 100 a que se reporta o n.º 2."
+  },
+  "108025902": {
+   "fragment_id": "108025622",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor a partir do dia 1 do mês seguinte ao da sua publicação."
+  },
+  "108025897": {
+   "fragment_id": "108025617",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/97/M\n\nInstitui e disciplina a atribuição de um suplemento remuneratório ao pessoal da Direcção Regional de Estradas que preste trabalho em condições de risco e penosidade.\n\nO Decreto-Lei n.º 184/89, de 2 de Junho, que aprovou os princípios gerais sobre salários na função pública, prevê, no n.º 1 do seu artigo 19.º, a atribuição de suplementos remuneratórios em função de particularidades específicas da prestação de trabalho, nomeadamente em situações de risco e de penosidade.\n\nNa Administração Regional Autónoma existem funcionários que, no exercício das respectivas funções, vêem a sua integridade física permanentemente ameaçada por riscos de vária ordem provenientes da poluição sonora e ambiental, do manuseamento de equipamentos mecânicos, do manuseamento e guarda de produtos inflamáveis e explosivos e de certos trabalhos de limpeza de taludes.\n\nVerificam-se tais condicionalismos relativamente ao trabalho prestado pelo pessoal afecto às pedreiras, às centrais de britagem e de betão betuminoso, ao paiol e à limpeza de taludes sobranceiros às estradas regionais, tarefas inseridas nas atribuições da Direcção Regional de Estradas da Secretaria Regional do Equipamento Social e Ambiente no âmbito da criação, conservação e segurança da rede viária regional.\n\nAssim, a atribuição de suplemento remuneratório aquando da prestação efectiva de trabalho naquelas condições constitui um imperativo de justiça e configura-se, simultaneamente, como um instrumento de política de gestão de pessoal, pois tende a dissipar diferenças funcionais existentes e a combater o absentismo.\n\nNestes termos:\n\nA Assembleia Legislativa Regional da Madeira, ao abrigo das alíneas a) e c) do n.º 1 do artigo 299.º da Constituição e das alíneas c) e e) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 de Junho, e no desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 184/89, de 2 de Junho, decreta o seguinte:"
+  },
+  "108025904": {
+   "fragment_id": "108025619",
+   "type": 11,
+   "heading": "Artigo 2.º — Funções que conferem direito ao suplemento remuneratório",
+   "in_force_from": "2017-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Funções que conferem direito ao suplemento remuneratório\n\n1 - Consideram-se prestadas em condições de risco e penosidade as seguintes funções:\n\na) Limpeza, correção e escavação de taludes, com recurso ou não a técnicas de acesso e de posicionamento por cordas;\n\nb) Manuseamento de betume aquecido, espalhamento e compactação de massas betuminosas em trabalhos de pavimentação das estradas regionais, excluindo reparações pontuais, considerando-se como tal as que se destinem a reparar pequenas áreas localizadas de estrada;\n\nc) Extracção e transformação de pedra;\n\nd) Manuseamento de todo o equipamento mecânico inerente à prossecução das funções previstas nas alíneas b) e c);\n\ne) Manuseamento, controlo e vigilância de material explosivo.\n\n2 - As funções referidas no número anterior conferem direito ao suplemento remuneratório:\n\na) As mencionadas na alínea a) quando desempenhadas em áreas adjacentes às estradas regionais ou no âmbito da prestação de serviços de limpeza, correção e escavação de taludes previsto na alínea c) do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 21/2016/M, de 30 de setembro, que aprova a orgânica da Direção Regional de Estradas, cuja perigosidade seja confirmada pelo dirigente intermédio da unidade orgânica com atribuições na área da Conservação e Manutenção;\n\nb) As mencionadas nas alíneas b), c), d) e e), quando desempenhadas nas estradas regionais, nas pedreiras, nas centrais de britagem e de betão betuminoso, ou nos paióis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+  },
+  "108025905": {
+   "fragment_id": "108025621",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante do suplemento",
+   "in_force_from": "2017-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Montante do suplemento\n\n1 - Na situação a que se reportam as alíneas a) dos n.os 1 e 2 do artigo 2.º, o suplemento tem o valor de 7,50 (euro)/hora para as atividades de descida, sustentação e subida de taludes com posicionamento por cordas, desempenhadas pelos trabalhadores integrados na carreira de rocheiro e de 6,41 (euro)/hora nas restantes atividades, e é atribuído em função do número de horas efetivamente prestadas, sem poder exceder oitenta horas mensais.\n\n2 - Nas situações a que se reportam as alíneas b), c), d) e e) do n.º 1 e b) do n.º 2 do artigo 2.º, o suplemento tem o valor mensal correspondente a 166,61 (euro).\n\n3 - Nas situações contempladas no número anterior, caso o número de dias de trabalho mensal efectivamente prestado seja inferior a 22, o suplemento é calculado com base no montante máximo no mesmo referido.\n\n4 - Os montantes referidos nos n.os 1 e 2 do presente artigo são atualizados na percentagem de aumento da retribuição mínima mensal garantida na Região.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+  },
+  "108025903": {
+   "fragment_id": "108025623",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Janeiro de 1997.\n\nO Presidente da Assembleia Legislativa Regional em Exercício, Miguel José Luís de Sousa.\n\nAssinado em 27 de Janeiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "136053484": {
+   "fragment_id": "108025618",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma institui e disciplina a atribuição de um suplemento remuneratório ao pessoal da Direcção Regional de Estradas em caso de efectiva prestação de trabalho em condições de risco e penosidade.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+  },
+  "136053485": {
+   "fragment_id": "108025619",
+   "type": 11,
+   "heading": "Artigo 2.º — Funções que conferem direito ao suplemento remuneratório",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Funções que conferem direito ao suplemento remuneratório\n\n1 - Consideram-se prestadas em condições de risco e penosidade as seguintes funções:\n\na) Limpeza, correção e escavação de taludes, com recurso ou não a técnicas de acesso e de posicionamento por cordas;\n\nb) Manuseamento de betume aquecido, espalhamento e compactação de massas betuminosas em trabalhos de pavimentação das estradas regionais, excluindo reparações pontuais, considerando-se como tal as que se destinem a reparar pequenas áreas localizadas de estrada;\n\nc) Extracção e transformação de pedra;\n\nd) Manuseamento de todo o equipamento mecânico inerente à prossecução das funções previstas nas alíneas b) e c);\n\ne) Manuseamento, controlo e vigilância de material explosivo.\n\n2 - As funções referidas no número anterior conferem direito ao suplemento remuneratório:\n\na) As mencionadas na alínea a) quando desempenhadas em áreas adjacentes às estradas regionais ou no âmbito da prestação de serviços de limpeza, correção e escavação de taludes previsto na alínea c) do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 21/2016/M, de 30 de setembro, que aprova a orgânica da Direção Regional de Estradas, cuja perigosidade seja confirmada pelo dirigente intermédio da unidade orgânica com atribuições na área da Conservação e Manutenção;\n\nb) As mencionadas nas alíneas b), c), d) e e), quando desempenhadas nas estradas regionais, nas pedreiras, nas centrais de britagem e de betão betuminoso, ou nos paióis.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+  },
+  "136053486": {
+   "fragment_id": "108025620",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\nO presente diploma aplica-se aos funcionários, agentes e contratados que efectivamente desempenhem as funções a que se reporta o artigo anterior, independentemente da categoria ou carreira em que estejam integrados.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+  },
+  "136053487": {
+   "fragment_id": "108025621",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante do suplemento",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Montante do suplemento\n\n1 - Na situação a que se reportam as alíneas a) dos n.os 1 e 2 do artigo 2.º, o suplemento tem o valor de 7,50 (euro)/hora para as atividades de descida, sustentação e subida de taludes com posicionamento por cordas, desempenhadas pelos trabalhadores integrados na carreira de rocheiro e de 6,41 (euro)/hora nas restantes atividades, e é atribuído em função do número de horas efetivamente prestadas, sem poder exceder oitenta horas mensais.\n\n2 - Nas situações a que se reportam as alíneas b), c), d) e e) do n.º 1 e b) do n.º 2 do artigo 2.º, o suplemento tem o valor mensal correspondente a 166,61 (euro).\n\n3 - Nas situações contempladas no número anterior, caso o número de dias de trabalho mensal efectivamente prestado seja inferior a 22, o suplemento é calculado com base no montante máximo no mesmo referido.\n\n4 - Os montantes referidos nos n.os 1 e 2 do presente artigo são atualizados na percentagem de aumento da retribuição mínima mensal garantida na Região.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 26/2017/M - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184), em vigor a partir de 2017-09-01"
+  },
+  "136053488": {
+   "fragment_id": "108025622",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor a partir do dia 1 do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+  },
+  "136053489": {
+   "fragment_id": "108025623",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Janeiro de 1997.\n\nO Presidente da Assembleia Legislativa Regional em Exercício, Miguel José Luís de Sousa.\n\nAssinado em 27 de Janeiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020, Série I de 2020-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-135951165), em vigor a partir de 2020-07-01"
+  }
+ }
+}

@@ -1,0 +1,1135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:671231:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-905268818",
+ "dre_path": "/dr/detalhe/decreto-lei/104-2011-671231",
+ "source_lastmod": "2026-09-11",
+ "versions": [
+  {
+   "date": "2011-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "905268449",
+    "905268450",
+    "905268451",
+    "905268452",
+    "905268453",
+    "905268454",
+    "905268455",
+    "905268456",
+    "905268457",
+    "905268458",
+    "905268459",
+    "905268460",
+    "905268461",
+    "905268462",
+    "905268463",
+    "905268464",
+    "905268465",
+    "905268466",
+    "905268467",
+    "905268468",
+    "905268469",
+    "905268470",
+    "905268471",
+    "905268472",
+    "905268473",
+    "905268474",
+    "905293575",
+    "905293576",
+    "905293577",
+    "905293578",
+    "905293579",
+    "905293580",
+    "905293581",
+    "905293582",
+    "905293583",
+    "905293584",
+    "905293585",
+    "905293586",
+    "905293587",
+    "905293588",
+    "905293589",
+    "905293590",
+    "905293591",
+    "905293592",
+    "905293593",
+    "905293594",
+    "905293595",
+    "905293596",
+    "905293597",
+    "905293598",
+    "905293599",
+    "905293600",
+    "905293601",
+    "905293602",
+    "905293603",
+    "905293604",
+    "905293605",
+    "905293606",
+    "905293607",
+    "905293608",
+    "905293609",
+    "905293610",
+    "905293611",
+    "905293612",
+    "905293613",
+    "905293614",
+    "905293615",
+    "905293616",
+    "905293617",
+    "905293618",
+    "905293619",
+    "905293620",
+    "905293621",
+    "905293622",
+    "905293623",
+    "905293624",
+    "905293625",
+    "905293626",
+    "905293627",
+    "905293628",
+    "905293629",
+    "905293630",
+    "905293631",
+    "905293632",
+    "905293633",
+    "905293634",
+    "905293635",
+    "905293636",
+    "905293637",
+    "905293638",
+    "905293639",
+    "905293640",
+    "905293641",
+    "905293642",
+    "905293643",
+    "905293644",
+    "905293645",
+    "905293646",
+    "905293647",
+    "905293648",
+    "905293649",
+    "905293650",
+    "905293651",
+    "905293652",
+    "905293653"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1166969779:por",
+     "title": "Decreto-Lei n.º 177/2026",
+     "published": "2026-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/177-2026-1166969779"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "905268449",
+    "905268450",
+    "905268451",
+    "905268452",
+    "905268453",
+    "905268454",
+    "905293658",
+    "905268456",
+    "905268457",
+    "1168017875",
+    "905268459",
+    "905268460",
+    "905268461",
+    "905268462",
+    "905268463",
+    "905268464",
+    "905268465",
+    "905268466",
+    "905268467",
+    "905268468",
+    "905268469",
+    "905268470",
+    "905268471",
+    "905268472",
+    "905268473",
+    "905268474",
+    "905293575",
+    "905293576",
+    "905293577",
+    "905293578",
+    "905293579",
+    "905293580",
+    "905293581",
+    "905293582",
+    "905293583",
+    "905293584",
+    "905293585",
+    "905293586",
+    "905293587",
+    "905293588",
+    "905293589",
+    "905293590",
+    "905293591",
+    "905293592",
+    "905293593",
+    "905293594",
+    "905293595",
+    "905293596",
+    "905293597",
+    "905293598",
+    "905293599",
+    "905293600",
+    "905293659",
+    "905293602",
+    "905293603",
+    "905293604",
+    "905293605",
+    "905293606",
+    "905293607",
+    "905293608",
+    "905293609",
+    "905293610",
+    "905293611",
+    "905293612",
+    "905293613",
+    "905293614",
+    "905293615",
+    "905293616",
+    "905293617",
+    "905293618",
+    "905293619",
+    "905293620",
+    "905293621",
+    "905293622",
+    "905293623",
+    "905293624",
+    "905293625",
+    "905293626",
+    "905293627",
+    "905293628",
+    "905293629",
+    "905293630",
+    "905293631",
+    "905293632",
+    "905293657",
+    "905293634",
+    "905293635",
+    "905293636",
+    "905293637",
+    "905293638",
+    "905293639",
+    "905293640",
+    "905293641",
+    "905293642",
+    "905293643",
+    "905293644",
+    "905293645",
+    "905293646",
+    "905293647",
+    "905293648",
+    "905293649",
+    "905293650",
+    "905293651",
+    "905293652",
+    "905293653",
+    "905293654"
+   ]
+  }
+ ],
+ "fragments": {
+  "905268449": {
+   "fragment_id": "905268819",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 104/2011\n\nde 6 de Outubro\n\nO presente decreto-lei estabelece o regime jurídico dos contratos públicos nos domínios da defesa e da segurança, transpondo para o ordenamento jurídico nacional a Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, relativa à coordenação dos processos de adjudicação de determinados contratos de empreitada, contratos de fornecimento e contratos de serviços por autoridades ou entidades adjudicantes nos domínios da defesa e da segurança, e que altera as Directivas n.os 2004/17/CE e 2004/18/CE, ambas do Parlamento Europeu e do Conselho, de 31 de Março.\n\nSempre que não se prevejam normas específicas aplica-se o regime geral do Código dos Contratos Públicos (CCP), por força da remissão constante das disposições finais e transitórias, a fim de garantir a segurança jurídica e a coerência entre os regimes de contratação pública.\n\nO presente decreto-lei faz ainda remissões pontuais para determinados artigos do CCP ou para outros regimes, quando as disposições comunitárias já se encontrem transpostas para o ordenamento jurídico nacional e a matéria em causa reclame a adopção de normas especiais nesse contexto, como sucede, designadamente, em matéria de invalidade contratual e tutela jurisdicional. Como o regime constante do instrumento comunitário que ora se transpõe se inspira nas Directivas n.os 89/665/CEE, de 21 de Dezembro, e 92/13/CEE, do Conselho, de 25 de Fevereiro, tal como resulta da Directiva n.º 2007/66/CE, do Parlamento Europeu e do Conselho, de 11 de Dezembro (Directiva Recursos), o presente decreto-lei apenas consagra as disposições que, pela especificidade das matérias em causa, reclamam solução diversa da plasmada no regime geral. Explicita-se, todavia, que se aplicam nesta sede as disposições do Código de Processo nos Tribunais Administrativos.\n\nAs disposições relativas ao procedimento de negociação com publicação de anúncio de concurso - procedimento regra nos contratos públicos nos domínios da defesa e da segurança - remetem para as regras que regulam o procedimento de negociação do CCP, impedindo-se, desta forma, a possibilidade de as entidades adjudicantes recorrerem aos leilões electrónicos.\n\nAs normas sobre os procedimentos classificados são inovadoras e especiais em relação ao CCP e, por razões de segurança, tais procedimentos estão subtraídos à plataforma electrónica de contratação pública.\n\nO presente decreto-lei inclui disposições em matéria de subcontratação, com vista a permitir, em especial às pequenas e médias empresas (PME), a participação nos contratos públicos nos domínios da defesa e da segurança.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430) Retifica o presente diploma, no seguinte sentido: Ao longo de todo o diploma, onde se lê «acordo quadro» e «acordos quadro» deve ler-se, respectivamente, «acordo-quadro» e «acordos-quadro»."
+  },
+  "905268450": {
+   "fragment_id": "905268820",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "905268451": {
+   "fragment_id": "905268821",
+   "type": 8,
+   "heading": "Secção I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito de aplicação"
+  },
+  "905268452": {
+   "fragment_id": "905268822",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei estabelece a disciplina aplicável à contratação pública nos domínios da defesa e da segurança e transpõe a Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho.\n\n2 - O presente decreto-lei aplica-se à formação dos contratos nos domínios da defesa e da segurança que tenham por objecto:\n\na) O fornecimento de equipamento militar, incluindo quaisquer partes, componentes e ou elementos de ligação do mesmo;\n\nb) O fornecimento de equipamento sensível, incluindo quaisquer partes, componentes e ou elementos de ligação do mesmo;\n\nc) Empreitadas de obras públicas, fornecimentos e serviços directamente relacionados com o equipamento referido nas alíneas a) e b) em relação a um ou a todos os elementos do seu ciclo de vida;\n\nd) Empreitadas de obras públicas, fornecimentos e serviços para fins militares específicos, ou obras e serviços sensíveis.\n\n3 - Para efeitos do presente decreto-lei, entende-se por equipamento militar, nomeadamente, os tipos de produtos incluídos na lista de armas, munições e material de guerra, aprovada pela Decisão do Conselho n.º 255/58, de 15 de Abril, interpretada em função do carácter evolutivo da tecnologia, das políticas de contratos e dos requisitos militares, com base na Lista Militar Comum da União Europeia.\n\n4 - O presente decreto-lei é aplicável aos contratos cujo valor estimado seja igual ou superior:\n\na) Para os contratos de fornecimento de bens e de serviços, ao limiar previsto na alínea a) do artigo 8.º da directiva referida no n.º 1;\n\nb) Para os contratos de empreitada de obras públicas, ao limiar previsto na alínea b) do artigo 8.º da directiva referida no n.º 1.\n\n5 - Os montantes dos limiares previstos no número anterior são objecto de actualização sucessiva por regulamento comunitário nos termos do artigo 68.º da directiva referida no n.º 1."
+  },
+  "905268453": {
+   "fragment_id": "905268823",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito subjectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito subjectivo\n\nO presente decreto-lei aplica-se à formação dos contratos referidos no artigo anterior, celebrados por qualquer das entidades adjudicantes nos termos do Código dos Contratos Públicos (CCP) que prossigam atribuições nos domínios da defesa e da segurança."
+  },
+  "905268454": {
+   "fragment_id": "905268824",
+   "type": 11,
+   "heading": "Artigo 3.º — Contratos mistos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contratos mistos\n\n1 - A contratação pública que tenha por objecto empreitadas de obras públicas, fornecimentos de bens ou serviços abrangidos, simultaneamente, pelo presente decreto-lei e pelo CCP está sujeita às disposições do presente decreto-lei, desde que, objectivamente, se justifique um único contrato.\n\n2 - À contratação pública que tenha por objecto empreitadas de obras públicas, fornecimentos de bens ou serviços parcialmente inseridos no âmbito do presente decreto-lei, não estando a restante parte sujeita nem ao presente decreto-lei nem ao CCP, não é aplicável o presente decreto-lei desde que, objectivamente, se justifique a adjudicação de um contrato único.\n\n3 - A decisão de adjudicação de um contrato único não pode ser tomada com o propósito de excluir os contratos do âmbito de aplicação das disposições do presente decreto-lei."
+  },
+  "905268455": {
+   "fragment_id": "905268825",
+   "type": 11,
+   "heading": "Artigo 4.º — Contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contratos de prestação de serviços\n\n1 - Aos contratos que tenham por objecto a aquisição de serviços referidos no artigo 1.º e constantes do anexo i da Directiva n.º 2009/81/CE, do Parlamento e do Conselho, de 13 de Julho, são aplicáveis as regras relativas a procedimentos, peças do procedimento, publicidade e transparência, adjudicação e subcontratação, de acordo com o disposto no presente decreto-lei.\n\n2 - Os contratos que tenham por objecto a aquisição de serviços referidos no artigo 1.º e constantes do anexo ii da Directiva n.º 2009/81/CE, do Parlamento e do Conselho, de 13 de Julho, estão sujeitos ao estatuído no presente decreto-lei sobre especificações técnicas e publicação de anúncios.\n\n3 - Os contratos mistos que tenham por objecto a aquisição de serviços referidos no artigo 1.º e constantes dos anexos i e ii da Directiva n.º 2009/81/CE, do Parlamento e do Conselho, de 13 de Julho, estão sujeitos às regras aplicáveis à componente de maior expressão financeira."
+  },
+  "905268456": {
+   "fragment_id": "905268826",
+   "type": 11,
+   "heading": "Artigo 5.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exclusões\n\n1 - O presente decreto-lei não é aplicável à formação dos contratos a celebrar:\n\na) Ao abrigo de regras processuais específicas de um acordo internacional ou de disposições acordadas entre um ou mais Estados membros e um ou mais países terceiros;\n\nb) Ao abrigo de regras processuais específicas de um acordo internacional ou de uma disposição relativa ao estacionamento de tropas e respeitante a uma empresa de um Estado membro ou de um país terceiro;\n\nc) De acordo com os procedimentos específicos de uma organização internacional que proceda a aquisições em seu benefício, ou por um Estado membro e em conformidade com essas regras.\n\n2 - O presente decreto-lei também não é aplicável à formação dos seguintes contratos:\n\na) Contratos em relação aos quais a aplicação das suas regras obrigaria o Estado a facultar informações cuja divulgação considera contrária aos interesses essenciais da sua própria segurança, abrangidos pelo disposto no artigo 346.º do Tratado sobre o Funcionamento da União Europeia;\n\nb) Contratos para efeitos de actividades relacionadas com os serviços de informações;\n\nc) Contratos adjudicados no âmbito de um programa concertado com base na investigação e desenvolvimento, levado a cabo conjuntamente por, pelo menos, dois Estados membros para o desenvolvimento de um novo produto, e, se for caso disso, para as fases subsequentes de todas ou de partes do ciclo de vida desse produto;\n\nd) Contratos celebrados num país terceiro, inclusive para efeitos de aquisições para fins civis, levados a cabo quando são destacadas forças fora do território da União Europeia, sempre que necessidades de natureza operacional os obriguem a ser celebrados com adjudicatários sediados na zona de operações;\n\ne) Contratos de serviços destinados à aquisição ou à locação, sejam quais forem as respectivas modalidades financeiras, de terrenos, edifícios existentes ou outros bens imóveis, ou que sejam relativos a direitos sobre esses bens;\n\nf) Contratos adjudicados pelo governo ao governo de outro Estado, relativos a:\n\ni) Fornecimento de equipamento militar ou de equipamento sensível; ou\n\nii) Empreitadas de obras públicas e serviços directamente ligados a esse equipamento; ou\n\niii) Empreitadas de obras públicas e serviços especificamente para fins militares, ou obras e serviços sensíveis;\n\ng) Contratos de aquisição de serviços de arbitragem e de conciliação;\n\nh) Contratos de aquisição de serviços financeiros, à excepção de serviços de seguros;\n\ni) Contratos de trabalho;\n\nj) Contratos de aquisição de serviços de investigação e de desenvolvimento, com excepção daqueles cujos resultados se destinem exclusivamente à autoridade/entidade adjudicante para sua utilização, no exercício da sua própria actividade, desde que a prestação de serviços seja inteiramente remunerada pela referida autoridade/entidade adjudicante."
+  },
+  "905268457": {
+   "fragment_id": "905268827",
+   "type": 8,
+   "heading": "Secção II — Princípios da contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Princípios da contratação"
+  },
+  "905268458": {
+   "fragment_id": "905268828",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípios da igualdade, não discriminação, concorrência e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios da igualdade, não discriminação, concorrência e transparência\n\nAs entidades adjudicantes devem tratar os interessados, candidatos e concorrentes de acordo com os princípios da igualdade de tratamento, da não discriminação e da concorrência, agindo de forma transparente."
+  },
+  "905268459": {
+   "fragment_id": "905268829",
+   "type": 11,
+   "heading": "Artigo 7.º — Contratos reservados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contratos reservados\n\n1 - A entidade adjudicante pode reservar o direito de participação em procedimento de adjudicação de contratos a centros de emprego protegido ou estabelecer que esses contratos sejam executados no âmbito de programas de emprego protegido, desde que a maioria dos trabalhadores em causa sejam pessoas portadoras de deficiência que, por força da natureza ou pela gravidade das suas deficiências, não possam exercer uma actividade profissional em condições normais.\n\n2 - As peças do procedimento devem fazer referência à presente disposição."
+  },
+  "905268460": {
+   "fragment_id": "905268830",
+   "type": 11,
+   "heading": "Artigo 8.º — Participação no procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participação no procedimento\n\n1 - Os candidatos ou concorrentes que, por força da legislação do Estado membro em que se encontram estabelecidos, estejam habilitados a participar nos procedimentos previstos no presente decreto-lei não podem ser rejeitados pela circunstância de, ao abrigo da legislação nacional, serem uma pessoa singular ou uma pessoa colectiva.\n\n2 - Sem prejuízo do número anterior, no caso dos contratos que abranjam também serviços ou operações de montagem e instalação, pode ser exigido às pessoas colectivas que indiquem, nos respectivos pedidos de participação ou nas respectivas propostas, os nomes e as habilitações profissionais das pessoas responsáveis pela execução das prestações em questão.\n\n3 - A entidade adjudicante não pode exigir aos agrupamentos que, para efeitos de apresentação de um pedido de participação ou de uma proposta, adoptem uma forma jurídica determinada.\n\n4 - Em caso de adjudicação, todos os membros do agrupamento concorrente, e apenas estes, devem associar-se antes da celebração do contrato, na modalidade jurídica prevista nas peças do procedimento."
+  },
+  "905268461": {
+   "fragment_id": "905268831",
+   "type": 11,
+   "heading": "Artigo 9.º — Garantias de concorrência real",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Garantias de concorrência real\n\n1 - Quando o número de candidatos que satisfazem os critérios de selecção e os níveis mínimos de aptidão for inferior a três, a entidade adjudicante pode prosseguir o procedimento convidando o ou os candidatos com as capacidades exigidas.\n\n2 - Se a entidade adjudicante considerar que o número de candidatos a convidar nos termos do número anterior é insuficiente para garantir uma concorrência real, pode:\n\na) Suspender o procedimento e voltar a publicar o anúncio de concurso inicial, fixando um novo prazo para a apresentação de candidaturas; ou\n\nb) Cancelar o procedimento de adjudicação em curso e iniciar um novo procedimento.\n\n3 - A publicação prevista nas alíneas a) e b) do número anterior tem lugar no prazo máximo de seis meses contados da notificação aos candidatos.\n\n4 - No caso previsto na alínea a) do n.º 2, a entidade adjudicante convida os candidatos seleccionados após a primeira publicação e os seleccionados no seguimento da segunda publicação.\n\n5 - Quando decida reduzir o número de soluções a discutir ou de propostas a negociar a entidade adjudicante aplica os critérios de adjudicação indicados nas peças do procedimento, garantindo que o número de soluções a discutir ou de propostas a negociar assegura uma concorrência real."
+  },
+  "905268462": {
+   "fragment_id": "905268832",
+   "type": 8,
+   "heading": "Secção III — Cálculo do valor dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cálculo do valor dos contratos"
+  },
+  "905268463": {
+   "fragment_id": "905268833",
+   "type": 11,
+   "heading": "Artigo 10.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regra geral\n\n1 - Para efeitos do presente decreto-lei, o valor estimado do contrato determina-se de acordo com as regras gerais do CCP para determinação do valor do contrato.\n\n2 - Os projectos de procedimentos de contratação não podem ser cindidos para criar contratos parciais essencialmente idênticos, ou de outra forma segmentados, para serem subtraídos à aplicação do presente decreto-lei."
+  },
+  "905268464": {
+   "fragment_id": "905268834",
+   "type": 11,
+   "heading": "Artigo 11.º — Divisão em lotes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divisão em lotes\n\n1 - Quando um projecto de procedimento de contratação possa ocasionar a adjudicação simultânea de contratos por lotes separados é tido em conta o valor da totalidade desses lotes.\n\n2 - Nos casos em que o valor cumulado dos lotes seja igual ou superior aos limiares estabelecidos nos n.os 4 e 5 do artigo 1.º, aplica-se o presente decreto-lei à adjudicação de cada lote, mas a entidade adjudicante pode derrogar esta aplicação, desde que o valor estimado dos lotes seja inferior a (euro) 80 000, no que se refere a serviços, e a (euro) 1 000 000, no que se refere a empreitadas de obras públicas, desde que o valor cumulado desses lotes não exceda 20 % do valor cumulado da totalidade dos lotes.\n\n3 - Nos casos em que o valor cumulado dos lotes seja igual ou superior aos limiares referidos no número anterior, o presente decreto-lei aplica-se à adjudicação de cada lote, mas as entidades adjudicantes podem derrogar esta aplicação para lotes cujo valor estimado seja inferior a (euro) 80 000, desde que o valor cumulado desses lotes não exceda 20 % do valor cumulado da totalidade dos lotes.\n\n4 - Sempre que uma proposta para a aquisição de fornecimentos similares possa ocasionar a adjudicação simultânea de contratos por lotes separados é tido em conta, na aplicação dos limiares do presente decreto-lei, o valor estimado da totalidade desses lotes."
+  },
+  "905268465": {
+   "fragment_id": "905268835",
+   "type": 11,
+   "heading": "Artigo 12.º — Contratos de fornecimento ou de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contratos de fornecimento ou de serviços\n\n1 - No tocante aos contratos de fornecimento que tenham por objecto a locação financeira, a locação ou a locação-venda de produtos, o valor a tomar como base para o cálculo do valor estimado do contrato é o seguinte:\n\na) Nos contratos de duração determinada, caso esta seja igual ou inferior a 12 meses, o valor total estimado para o período de vigência do contrato, ou, caso a duração do contrato seja superior a 12 meses, o valor total incluindo o valor estimado residual;\n\nb) Nos contratos com duração indeterminada, ou na impossibilidade de determinar a sua duração, o valor mensal multiplicado por 48.\n\n2 - No caso de contratos de fornecimento ou de serviços que tenham carácter regular ou se destinem a ser renovados durante um determinado período, o valor estimado do contrato deve ser calculado com base:\n\na) No valor total real dos contratos adicionais do mesmo tipo, no caso dos contratos adjudicados durante os 12 meses anteriores, ou no exercício anterior, corrigido, se possível, para atender às alterações de quantidade ou de valor susceptíveis de ocorrerem durante os 12 meses seguintes à adjudicação do contrato inicial;\n\nb) No valor total estimado dos contratos adicionais adjudicados durante os 12 meses seguintes à primeira entrega, ou durante o exercício, caso este tenha duração superior a 12 meses.\n\n3 - Nos contratos de serviços, o valor a tomar como base para o cálculo do valor estimado do contrato é, consoante o caso, o seguinte:\n\na) Nos serviços de seguros, o prémio a pagar e outras formas de remuneração;\n\nb) Nos contratos que impliquem trabalhos de concepção, os honorários, as comissões a pagar e outras formas de remuneração;\n\nc) Nos contratos de serviços que não indiquem um preço total:\n\ni) Nos contratos de duração determinada, caso esta seja igual ou inferior a 48 meses: o valor total estimado para todo o período de vigência;\n\nii) Nos contratos de duração indeterminada ou superior a 48 meses: o valor mensal estimado multiplicado por 48."
+  },
+  "905268466": {
+   "fragment_id": "905268836",
+   "type": 11,
+   "heading": "Artigo 13.º — Acordos quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acordos quadro\n\nNos acordos quadro, o valor total a tomar em consideração é o valor máximo estimado do conjunto dos contratos previstos durante toda a vigência do acordo quadro."
+  },
+  "905268467": {
+   "fragment_id": "905268837",
+   "type": 1,
+   "heading": "Capítulo II — Tipos de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Tipos de procedimentos"
+  },
+  "905268468": {
+   "fragment_id": "905268838",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "905268469": {
+   "fragment_id": "905268839",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos para a formação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimentos para a formação dos contratos\n\n1 - Na formação de contratos cujo objecto abranja prestações que estão ou sejam susceptíveis de estar submetidas à concorrência de mercado, as entidades adjudicantes devem adoptar um dos seguintes tipos de procedimentos:\n\na) Procedimento por negociação, com ou sem publicação de anúncio de concurso;\n\nb) Diálogo concorrencial;\n\nc) Concurso limitado por prévia qualificação.\n\n2 - Aos procedimentos previstos nas alíneas b) e c) do número anterior aplica-se o regime previsto no CCP."
+  },
+  "905268470": {
+   "fragment_id": "905268840",
+   "type": 11,
+   "heading": "Artigo 15.º — Escolha do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Escolha do procedimento\n\n1 - As entidades adjudicantes adoptam o procedimento de negociação com publicação de anúncio de concurso ou o concurso limitado por prévia qualificação.\n\n2 - Nos casos devidamente fundamentados, as entidades podem optar pela escolha do procedimento por negociação sem publicação de anúncio de concurso ou pelo diálogo concorrencial."
+  },
+  "905268471": {
+   "fragment_id": "905268841",
+   "type": 8,
+   "heading": "Secção II — Procedimento por negociação sem publicação de anúncio de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento por negociação sem publicação de anúncio de concurso"
+  },
+  "905268472": {
+   "fragment_id": "905268842",
+   "type": 11,
+   "heading": "Artigo 16.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regra geral\n\nNo caso dos contratos de empreitada de obras públicas, dos contratos de fornecimento e dos contratos de serviços pode adoptar-se o presente procedimento, quando:\n\na) Não sejam apresentadas propostas nem candidaturas, ou estas não tenham sido admitidas, em resposta a um concurso limitado por prévia qualificação, a um procedimento por negociação com publicação de anúncio de concurso, ou a um diálogo concorrencial, desde que as condições iniciais do contrato não sejam alteradas substancialmente;\n\nb) Sejam apresentadas propostas excluídas nos termos das disposições relativas a variantes, subcontratação, segurança da informação e do fornecimento, fiscalidade, protecção do ambiente e protecção e condições de trabalho, bem como a exigências de publicidade e transparência, em resposta a um concurso limitado por prévia qualificação ou a um diálogo concorrencial, desde que:\n\ni) As condições iniciais do contrato não sejam alteradas substancialmente; e\n\nii) Se incluam no procedimento por negociação todos e apenas aqueles concorrentes que satisfaçam os critérios referidos nos artigos 26.º e 32.º a 36.º e que no decurso de anterior concurso limitado por prévia qualificação ou diálogo concorrencial tenham apresentado propostas que cumpram os requisitos formais do procedimento de adjudicação;\n\nc) A urgência decorrente de uma situação de crise não seja compatível com os prazos exigidos pelos concursos limitados por prévia qualificação e pelos procedimentos por negociação com publicação de anúncio de concurso, incluindo os prazos reduzidos referidos no n.º 6 do artigo 24.º;\n\nd) Na medida do estritamente necessário, quando, por motivo imperioso resultante de acontecimentos imprevisíveis para a entidade adjudicante, e que lhe não sejam imputáveis, não possam ser cumpridos os prazos exigidos pelos concursos limitados por prévia qualificação ou pelos procedimentos por negociação com publicação de um anúncio de concurso, incluindo os prazos reduzidos referidos no n.º 6 do artigo 24.º;\n\ne) Por motivos técnicos ou atinentes à protecção de direitos exclusivos, o contrato só possa ser executado por uma entidade determinada."
+  },
+  "905268473": {
+   "fragment_id": "905268843",
+   "type": 11,
+   "heading": "Artigo 17.º — Investigação e desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Investigação e desenvolvimento\n\n1 - No caso dos contratos de fornecimento e dos contratos de serviços pode adoptar-se o presente procedimento, em relação:\n\na) Aos serviços de investigação e desenvolvimento não referidos na alínea c) do n.º 2 do artigo 5.º;\n\nb) Aos produtos fabricados apenas para fins de investigação e desenvolvimento.\n\n2 - O disposto na alínea b) do número anterior não abrange a produção em quantidade, destinada a determinar a viabilidade comercial do produto ou a amortizar os custos de investigação e desenvolvimento."
+  },
+  "905268474": {
+   "fragment_id": "905268844",
+   "type": 11,
+   "heading": "Artigo 18.º — Contratos de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contratos de fornecimento\n\n1 - No caso dos contratos de fornecimento pode adoptar-se o presente procedimento, quando se trate de:\n\na) Entregas complementares efectuadas pelo fornecedor inicial e destinadas quer à substituição parcial de produtos ou instalações de uso corrente quer à ampliação de produtos ou instalações existentes, caso a mudança de fornecedor obrigue a entidade adjudicante a adquirir material com características técnicas diferentes, originando incompatibilidades ou dificuldades técnicas desproporcionadas de utilização e manutenção;\n\nb) Fornecimentos cotados e comprados numa bolsa de mercadorias;\n\nc) Aquisição de produtos em condições especialmente vantajosas, seja a fornecedores que cessem definitivamente a sua actividade comercial, seja a liquidatários ou administradores de insolvência, um acordo com credores ou processo da mesma natureza previsto nas legislações ou regulamentações nacionais.\n\n2 - A duração dos contratos referidos na alínea a) do número anterior, bem como a dos contratos renováveis, não pode exceder cinco anos, excepto em circunstâncias excepcionais, determinadas em função da duração de vida prevista dos bens, instalações ou sistemas entregues, bem como das dificuldades técnicas que pode causar uma mudança de fornecedor."
+  },
+  "905293575": {
+   "fragment_id": "905268845",
+   "type": 11,
+   "heading": "Artigo 19.º — Obras e serviços complementares ou repetidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obras e serviços complementares ou repetidos\n\n1 - No caso dos contratos de empreitada de obras públicas e dos contratos de serviços pode adoptar-se o presente procedimento sempre que:\n\na) As empreitadas de obras públicas ou serviços complementares não constem do projecto inicialmente previsto nem do contrato inicial e se tenham tornado necessários, na sequência de uma circunstância imprevista, para a execução da obra ou a prestação do serviço neles descritos, sendo o adjudicatário o mesmo que executa a referida obra ou o serviço:\n\ni) Quando essas obras ou esses serviços complementares não possam ser técnica ou economicamente separados do objecto do contrato inicial sem grande inconveniente para a entidade adjudicante; ou\n\nii) Quando essas obras ou esses serviços, embora possam ser separados do objecto do contrato inicial, sejam absolutamente necessários à sua conclusão; e\n\niii) Desde que o valor total dos contratos relativos a obras ou serviços complementares não exceda 50 % do montante do contrato inicial;\n\nb) As obras ou serviços novos, que consistam na repetição de obras ou serviços similares confiados ao adjudicatário de um contrato inicial celebrado pela mesma entidade adjudicante, estejam em conformidade com um projecto de base e esse projecto tenha sido objecto de um contrato inicial adjudicado por concurso limitado por prévia qualificação, procedimento por negociação com publicação de anúncio de concurso ou diálogo concorrencial.\n\n2 - A possibilidade de recurso a este procedimento, nos termos da alínea b) do número anterior, é indicada aquando da abertura do concurso para o primeiro projecto, devendo o custo total previsto das obras ou dos serviços novos ser tomado em consideração pela entidade adjudicante para efeitos de aplicação dos n.os 4 e 5 do artigo 1.º\n\n3 - O recurso a este procedimento, nos termos da alínea b) do n.º 1, só é admissível nos cinco anos subsequentes à celebração do contrato inicial, excepto em circunstâncias excepcionais, determinadas em função da duração de vida prevista dos bens, instalações ou sistemas entregues, bem como das dificuldades técnicas que pode causar uma mudança de fornecedor."
+  },
+  "905293576": {
+   "fragment_id": "905268846",
+   "type": 11,
+   "heading": "Artigo 20.º — Transporte marítimo ou aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transporte marítimo ou aéreo\n\nPode adoptar-se o presente procedimento no caso de contratos ligados à prestação de serviços de transporte marítimo e aéreo destinados às forças armadas ou de segurança, que já estão ou ainda vão ser destacadas para fora do território nacional, quando a entidade adjudicante deva obter esses serviços de candidatos que garantam a validade da sua proposta unicamente por um período tão curto que os prazos aplicáveis ao concurso limitado por prévia qualificação ou ao procedimento por negociação com publicação de um anúncio de concurso, incluindo os prazos reduzidos referidos no n.º 6 do artigo 24.º, não possam ser respeitados."
+  },
+  "905293577": {
+   "fragment_id": "905268847",
+   "type": 11,
+   "heading": "Artigo 21.º — Fundamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fundamentação\n\nNos casos previstos na presente secção, a entidade adjudicante justifica a celebração do contrato por recurso a um procedimento por negociação sem publicação de anúncio de concurso, no anúncio com os resultados do procedimento, nos termos do artigo 49.º"
+  },
+  "905293578": {
+   "fragment_id": "905268848",
+   "type": 1,
+   "heading": "Capítulo III — Tramitação procedimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tramitação procedimental"
+  },
+  "905293579": {
+   "fragment_id": "905268849",
+   "type": 8,
+   "heading": "Secção I — Procedimento por negociação com publicação de anúncio de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento por negociação com publicação de anúncio de concurso"
+  },
+  "905293580": {
+   "fragment_id": "905268850",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "905293581": {
+   "fragment_id": "905268851",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime\n\n1 - Nos procedimentos por negociação com publicação de anúncio de concurso, a entidade adjudicante negoceia as propostas com os concorrentes, a fim de as adaptar aos requisitos indicados nas peças do procedimento e determinar a melhor proposta, em conformidade com o artigo 57.º\n\n2 - Durante a negociação, a entidade adjudicante garante a igualdade de tratamento de todos os concorrentes e não faculta informações que possam discriminar positivamente algum ou alguns concorrentes.\n\n3 - A entidade adjudicante pode determinar que o procedimento por negociação se desenrole em fases sucessivas, a fim de reduzir o número de propostas a negociar, aplicando os critérios de adjudicação indicados nas peças do procedimento.\n\n4 - A faculdade referida no número anterior deve constar das peças do procedimento.\n\n5 - Ao procedimento por negociação com publicação de anúncio de concurso aplicam-se as regras previstas no CCP relativas ao procedimento de negociação."
+  },
+  "905293582": {
+   "fragment_id": "905268852",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências do júri do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências do júri do procedimento\n\nPara além das competências previstas no artigo 69.º do CCP, ao júri compete ainda a rectificação das peças do procedimento e a prestação de esclarecimentos."
+  },
+  "905293583": {
+   "fragment_id": "905268853",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazos mínimos para apresentação de candidaturas e propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prazos mínimos para apresentação de candidaturas e propostas\n\n1 - Para a apresentação de candidaturas e propostas deve ser fixado um prazo razoável, adequado à complexidade das mesmas, nunca inferior a 40 dias, contados da data do envio para publicação do anúncio no Jornal Oficial da União Europeia (JOUE) ou da data do envio dos convites, respectivamente.\n\n2 - Quando os anúncios sejam enviados por meios electrónicos, o prazo de recepção dos pedidos de participação indicados no número anterior pode ser reduzido em sete dias.\n\n3 - O prazo de recepção das propostas pode ser reduzido em cinco dias, se a entidade adjudicante oferecer acesso ilimitado e completo por meios electrónicos, ao caderno de encargos e a todos os documentos complementares a partir da data de publicação do anúncio, explicitando o endereço electrónico em que a documentação está disponível.\n\n4 - A redução do prazo previsto no n.º 2 não obsta à redução do prazo nos termos do número anterior.\n\n5 - Caso as entidades adjudicantes tenham publicado um anúncio de pré-informação incluindo as informações exigidas para o anúncio de concurso, o prazo mínimo para a recepção das propostas, nos termos do n.º 1, pode ser reduzido para 36 dias, contados da data do envio do convite à apresentação de propostas.\n\n6 - Nos concursos limitados por prévia qualificação e nos procedimentos por negociação com publicação de um anúncio de concurso, por motivo de urgência imperiosa, as entidades adjudicantes podem fixar um prazo de recepção dos pedidos de participação, que não pode ser inferior a 15 dias, contados da data de envio do anúncio de concurso e, no caso dos concursos limitados por prévia qualificação, um prazo de recepção das propostas que não pode ser inferior a 10 dias, contados da data de envio do convite à apresentação de propostas."
+  },
+  "905293584": {
+   "fragment_id": "905268854",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazo de manutenção das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazo de manutenção das propostas\n\nOs concorrentes ficam obrigados a manter as suas propostas pelo prazo de 90 dias, contados da data limite para a sua entrega, se outro maior não for indicado nas peças do procedimento."
+  },
+  "905293585": {
+   "fragment_id": "905268855",
+   "type": 3,
+   "heading": "Subsecção II — Da avaliação e selecção das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Da avaliação e selecção das propostas"
+  },
+  "905293586": {
+   "fragment_id": "905268856",
+   "type": 11,
+   "heading": "Artigo 26.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Critérios de selecção\n\n1 - As peças do procedimento podem fixar um máximo de propostas a seleccionar, em número não inferior a três.\n\n2 - Os factores de selecção são os mesmos que se encontrem fixados para efeitos de adjudicação."
+  },
+  "905293587": {
+   "fragment_id": "905268857",
+   "type": 11,
+   "heading": "Artigo 27.º — Fase de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fase de selecção\n\n1 - A fase de selecção das propostas, para efeitos de negociação, inicia-se logo após a sua entrega.\n\n2 - O júri procede à avaliação das propostas e elabora um relatório preliminar fundamentado, que submete a audiência prévia dos concorrentes.\n\n3 - No relatório, o júri deve:\n\na) Propor a exclusão dos concorrentes cujas propostas sejam consideradas inaceitáveis em conformidade com as peças do procedimento;\n\nb) Indicar as propostas que propõe que passem à fase de negociações, aplicando os factores de selecção estabelecidos.\n\n4 - Concluída a audiência prévia, o júri elabora um relatório final fundamentado, que submete à apreciação da entidade adjudicante."
+  },
+  "905293588": {
+   "fragment_id": "905268858",
+   "type": 11,
+   "heading": "Artigo 28.º — Selecção das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Selecção das propostas\n\nA entidade adjudicante, apreciado o relatório final referido no artigo anterior, selecciona as propostas que passam à fase das negociações e notifica esta decisão a todos os concorrentes."
+  },
+  "905293589": {
+   "fragment_id": "905268859",
+   "type": 3,
+   "heading": "Subsecção III — Da negociação das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Da negociação das propostas"
+  },
+  "905293590": {
+   "fragment_id": "905268860",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime\n\n1 - O início das negociações rege-se pelo disposto no artigo 201.º do CCP.\n\n2 - À negociação das propostas aplica-se o n.º 1 do artigo 118.º do CCP.\n\n3 - A representação dos concorrentes nas sessões de negociações e as formalidades a observar regem-se pelos artigos 119.º e 120.º do CCP."
+  },
+  "905293591": {
+   "fragment_id": "905268861",
+   "type": 11,
+   "heading": "Artigo 30.º — Versões finais das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Versões finais das propostas\n\n1 - Quando o júri der por terminada a negociação, notifica imediatamente os concorrentes para, em prazo por ele para o efeito fixado, apresentarem as versões finais integrais das propostas.\n\n2 - As versões finais integrais das propostas não podem conter atributos diferentes dos constantes das respectivas versões iniciais no que respeita aos aspectos da execução do contrato a celebrar que a entidade adjudicante tenha indicado não estar disposta a negociar, nem apresentar condições globalmente menos favoráveis.\n\n3 - Para efeitos do número anterior, considera-se que apresentam condições globalmente menos favoráveis as propostas cuja pontuação global seja inferior à das respectivas versões iniciais ou sucessivas.\n\n4 - Depois de entregues, as versões finais das propostas não podem ser objecto de quaisquer alterações."
+  },
+  "905293592": {
+   "fragment_id": "905268862",
+   "type": 11,
+   "heading": "Artigo 31.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Relatórios\n\n1 - Após a análise das versões finais das propostas e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um relatório preliminar, no qual propõe a ordenação das mesmas, que submete a audiência prévia.\n\n2 - No relatório preliminar a que se refere o número anterior, o júri deve também propor, fundamentadamente, a exclusão das propostas por qualquer dos motivos previstos nos n.os 2 e 3 do artigo 146.º do CCP, aplicáveis com as necessárias adaptações, bem como das que sejam apresentadas em violação do disposto no n.º 2 do artigo anterior.\n\n3 - No caso previsto no número anterior, bem como no caso de não serem apresentadas versões finais das propostas, consideram-se as respectivas versões iniciais.\n\n4 - Concluída a audiência prévia, o júri elabora um relatório final fundamentado que submete à apreciação da entidade adjudicante."
+  },
+  "905293593": {
+   "fragment_id": "905268863",
+   "type": 8,
+   "heading": "Secção II — Procedimento de negociação sem publicação de anúncio de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento de negociação sem publicação de anúncio de concurso"
+  },
+  "905293594": {
+   "fragment_id": "905268864",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime\n\n1 - O procedimento de negociação sem publicação de anúncio de concurso rege-se, com as necessárias adaptações, pelas disposições do regime geral do ajuste directo com a fase de negociação, nos termos do disposto no artigo 112.º, no n.º 1 do artigo 113.º e nos artigos 114.º a 126.º do CCP.\n\n2 - Aos requisitos mínimos para aferir da capacidade técnica e financeira dos candidatos aplica-se o artigo 165.º do CCP."
+  },
+  "905293595": {
+   "fragment_id": "905268865",
+   "type": 8,
+   "heading": "Secção III — Normas de selecção qualitativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Normas de selecção qualitativa"
+  },
+  "905293596": {
+   "fragment_id": "905268866",
+   "type": 11,
+   "heading": "Artigo 33.º — Normas para os sistemas de gestão da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Normas para os sistemas de gestão da qualidade\n\n1 - Caso exijam a apresentação de certificados emitidos por organismos independentes acreditados que atestem que os candidatos ou concorrentes satisfazem determinadas normas dos sistemas de gestão da qualidade, as entidades adjudicantes devem remeter para sistemas de gestão da qualidade baseados nas normas europeias pertinentes certificadas por organismos independentes acreditados conformes às normas europeias em matéria de acreditação e certificação.\n\n2 - As entidades adjudicantes devem reconhecer os certificados ou outros documentos idóneos equivalentes de organismos independentes acreditados estabelecidos noutros Estados membros."
+  },
+  "905293597": {
+   "fragment_id": "905268867",
+   "type": 11,
+   "heading": "Artigo 34.º — Normas de gestão ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Normas de gestão ambiental\n\n1 - Caso a entidade adjudicante, no âmbito dos contratos de empreitadas de obras públicas e nos contratos de prestação de serviços, pretenda que os candidatos ou concorrentes adoptem medidas de gestão ambiental no âmbito da execução do contrato a celebrar e exijam a apresentação de certificados emitidos por organismos independentes que atestem que os candidatos ou concorrentes respeitam determinadas normas de gestão ambiental, essa entidade deve reportar-se ao sistema comunitário de gestão ambiental e auditoria (EMAS) ou às normas de gestão ambiental baseadas nas normas europeias ou internacionais pertinentes e certificadas por organismos conformes com a legislação comunitária ou com as normas europeias ou internacionais respeitantes à certificação.\n\n2 - A entidade adjudicante deve reconhecer certificados ou outros documentos idóneos equivalentes de organismos estabelecidos noutros Estados membros."
+  },
+  "905293598": {
+   "fragment_id": "905268868",
+   "type": 11,
+   "heading": "Artigo 35.º — Obrigações relativas à fiscalidade, à protecção do ambiente e às disposições em matéria de protecção e condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Obrigações relativas à fiscalidade, à protecção do ambiente e às disposições em matéria de protecção e condições de trabalho\n\n1 - A entidade adjudicante pode indicar nas peças do procedimento o organismo ou os organismos junto dos quais os candidatos ou concorrentes podem obter as informações pertinentes sobre as obrigações relativas à fiscalidade, à protecção do ambiente e às disposições em matéria de protecção e condições de trabalho em vigor no local em que as prestações são realizadas e que são aplicáveis aos trabalhos realizados nas instalações ou aos serviços prestados durante a execução do contrato.\n\n2 - Caso a entidade adjudicante forneça a informação referida no número anterior, os concorrentes indicam nas suas propostas terem tomado em consideração as obrigações relativas às disposições em matéria de protecção e condições de trabalho em vigor no local em que a prestação é realizada.\n\n3 - O n.º 1 do presente artigo não prejudica a aplicação do disposto no artigo 58.º relativamente à verificação das propostas com preço anormalmente baixo."
+  },
+  "905293599": {
+   "fragment_id": "905268869",
+   "type": 11,
+   "heading": "Artigo 36.º — Documentação e informações complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Documentação e informações complementares\n\n1 - A entidade adjudicante pode convidar os candidatos ou concorrentes a complementar ou a explicitar os certificados e documentos apresentados.\n\n2 - Os documentos ou informações complementares fornecidos em resposta ao exercício da faculdade referida no número anterior não podem contrariar os elementos constantes dos documentos inicialmente apresentados nem suprir omissões que determinariam a exclusão das candidaturas ou propostas."
+  },
+  "905293600": {
+   "fragment_id": "905268870",
+   "type": 8,
+   "heading": "Secção IV — Normas específicas relativas aos documentos do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Normas específicas relativas aos documentos do concurso"
+  },
+  "905293601": {
+   "fragment_id": "905268871",
+   "type": 11,
+   "heading": "Artigo 37.º — Especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Especificações técnicas\n\n1 - As especificações técnicas, tal como definidas no anexo iii da Directiva n.º 2009/81/CE, do Parlamento e do Conselho, de 13 de Julho, devem constar do caderno de encargos e são fixadas nos termos definidos no CCP, de forma a permitir o acesso dos concorrentes em condições de igualdade e a não criar obstáculos injustificados à abertura dos contratos à concorrência de acordo com as especificidades constantes do número seguinte.\n\n2 - Sem prejuízo das regras técnicas nacionais vinculativas, incluindo as regras relativas à segurança do produto, e dos requisitos técnicos a cumprir ao abrigo de acordos internacionais de normalização, a fim de garantir a interoperabilidade exigida por esses acordos, e desde que sejam compatíveis com o direito comunitário, as especificações técnicas devem ser formuladas do seguinte modo:\n\na) Por referência às especificações técnicas definidas no anexo iii da Directiva n.º 2009/81/CE, do Parlamento e do Conselho, de 13 de Julho, e, por ordem de preferência, sendo que cada referência deve ser acompanhada da menção «ou equivalente»:\n\ni) A normas nacionais civis que transponham normas europeias;\n\nii) A homologações técnicas europeias;\n\niii) A especificações técnicas comuns;\n\niv) A normas nacionais civis que transponham normas internacionais;\n\nv) A outras normas internacionais civis;\n\nvi) A qualquer outro referencial técnico estabelecido pelos organismos europeus de normalização, ou, caso aquele não exista, a outras normas nacionais civis, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de concepção, cálculo e execução de empreitadas de obras públicas, bem como de utilização de materiais;\n\nvii) A especificações técnicas civis provenientes da indústria e por esta amplamente reconhecidas; ou\n\nviii) Às normas de defesa nacionais definidas no ponto 3) do anexo iii da Directiva n.º 2009/81/CE, do Parlamento e do Conselho, de 13 de Julho, e às especificações relativas ao equipamento de defesa semelhantes a essas normas;\n\nb) Em termos de desempenho ou de requisitos funcionais, que podem incluir características ambientais, sendo que estes parâmetros devem ser suficientemente precisos, a fim de permitir aos concorrentes determinar o objecto do contrato e às entidades adjudicantes escolher o adjudicatário;\n\nc) Em termos do desempenho ou dos requisitos funcionais a que se refere a alínea anterior, remetendo, como meio de presunção de conformidade com esse desempenho ou esses requisitos funcionais, para as especificações a que se refere a alínea a);\n\nd) Por referência às especificações a que se refere a alínea a), para determinadas características, e por referência ao desempenho ou aos requisitos funcionais a que se refere a alínea b), para outras características."
+  },
+  "905293602": {
+   "fragment_id": "905268872",
+   "type": 11,
+   "heading": "Artigo 38.º — Variantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Variantes\n\n1 - Quando o critério de adjudicação for o da proposta economicamente mais vantajosa, as entidades adjudicantes podem autorizar os concorrentes a apresentar variantes, nos termos definidos no CCP, fazendo disso menção no anúncio de concurso e nas peças do procedimento.\n\n2 - As entidades adjudicantes que autorizem variantes indicam, no caderno de encargos, os requisitos mínimos que as variantes devem respeitar.\n\n3 - Nos procedimentos de adjudicação de contratos de fornecimento de bens ou de serviços, as entidades adjudicantes que tenham autorizado variantes não podem recusar uma variante pelo simples facto de esta poder conduzir, caso seja escolhida, a um contrato de serviços em vez de um contrato de fornecimento, ou a um contrato de fornecimento em vez de um contrato de serviços."
+  },
+  "905293603": {
+   "fragment_id": "905268873",
+   "type": 11,
+   "heading": "Artigo 39.º — Condições de execução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições de execução do contrato\n\n1 - As entidades adjudicantes podem fixar condições especiais de execução do contrato, nomeadamente no que respeita à subcontratação, à segurança das informações classificadas e à segurança do fornecimento, a considerações de ordem ambiental e social, desde que as mesmas sejam compatíveis com o direito comunitário.\n\n2 - As condições especiais da execução do contrato devem ser indicadas nas peças do procedimento."
+  },
+  "905293604": {
+   "fragment_id": "905268874",
+   "type": 8,
+   "heading": "Secção V — Procedimentos classificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Procedimentos classificados"
+  },
+  "905293605": {
+   "fragment_id": "905293675",
+   "type": 11,
+   "heading": "Artigo 40.º — Classificação do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Classificação do procedimento\n\nA classificação dos procedimentos tem lugar, designadamente, nos termos das Resoluções do Conselho de Ministros n.os 50/88, de 3 de Dezembro, alterada pela Resolução do Conselho de Ministros n.º 13/93, de 4 de Fevereiro, 37/89, de 24 de Outubro, 5/90, de 28 de Fevereiro, e 16/94, de 22 de Março."
+  },
+  "905293606": {
+   "fragment_id": "905293676",
+   "type": 11,
+   "heading": "Artigo 41.º — Modo de apresentação de candidaturas e propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Modo de apresentação de candidaturas e propostas\n\n1 - No âmbito dos procedimentos classificados:\n\na) A candidatura é encerrada em invólucro opaco e fechado, com indicação no seu rosto da designação do procedimento e da entidade adjudicante;\n\nb) A candidatura é entregue directamente na entidade adjudicante, dentro do prazo fixado para a apresentação das candidaturas, sendo a recepção registada por referência à respectiva data e hora, e entregue recibo comprovativo da mesma.\n\n2 - À apresentação de propostas, em procedimento classificado, aplica-se com as necessárias adaptações o disposto no número anterior."
+  },
+  "905293607": {
+   "fragment_id": "905293677",
+   "type": 11,
+   "heading": "Artigo 42.º — Acto de abertura de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Acto de abertura de candidaturas\n\n1 - Nos casos em que o procedimento seja classificado, o júri procede à abertura dos invólucros no dia útil imediato à data limite para a apresentação das candidaturas.\n\n2 - Por motivo justificado, pode a abertura dos invólucros realizar-se dentro dos cinco dias subsequentes ao indicado no número anterior, em data a determinar pela entidade adjudicante, a qual deve ser imediatamente notificada a todos os interessados que tenham adquirido as peças do procedimento juntando-se-lhes cópia daquela decisão.\n\n3 - A este acto podem assistir e intervir os candidatos e os seus representantes.\n\n4 - O presidente do júri inicia o acto identificando o procedimento através de referência ao respectivo anúncio de concurso.\n\n5 - Em seguida, são abertos os invólucros que contêm os documentos que constituem as candidaturas pela ordem da respectiva recepção, procedendo-se à leitura da lista dos candidatos, elaborada pela mesma ordem.\n\n6 - Cumprido o disposto no número anterior, o júri solicita aos representantes dos candidatos as respectivas credenciais.\n\n7 - O interessado que não tenha sido incluído na lista dos candidatos pode reclamar desse facto, devendo para o efeito apresentar o recibo referido na alínea b) do n.º 1 do artigo anterior ou documento postal comprovativo da tempestiva recepção do seu invólucro exterior.\n\n8 - Apresentada reclamação nos termos do disposto no número anterior, o júri interrompe a sessão do acto para averiguar o destino do invólucro.\n\n9 - Se o invólucro não for encontrado, o júri fixa ao reclamante um novo prazo para a apresentação da respectiva candidatura, informando os presentes da data e da hora em que a sessão será retomada.\n\n10 - Se o invólucro for encontrado antes do termo do prazo referido no número anterior, dá-se imediato conhecimento do facto ao interessado, procedendo-se à abertura daquele, logo que retomada a sessão do acto.\n\n11 - Os candidatos ou os seus representantes podem, durante a sessão, solicitar o exame de documentos de natureza não confidencial.\n\n12 - Em qualquer momento, o presidente do júri pode interromper o acto, devendo justificar os motivos por que o faz, fixando logo a data da sua continuação.\n\n13 - Cumprido o disposto nos números anteriores, o presidente do júri encerra o acto, do qual é elaborada acta assinada pelos membros do júri."
+  },
+  "905293608": {
+   "fragment_id": "905293678",
+   "type": 11,
+   "heading": "Artigo 43.º — Acto de abertura de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Acto de abertura de propostas\n\nNos casos em que o procedimento seja classificado, aplica-se ao acto de abertura de propostas, com as necessárias adaptações, o disposto no artigo anterior."
+  },
+  "905293609": {
+   "fragment_id": "905293679",
+   "type": 11,
+   "heading": "Artigo 44.º — Extensão de regime aos procedimentos de concurso limitado por prévia qualificação e de diálogo concorrencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Extensão de regime aos procedimentos de concurso limitado por prévia qualificação e de diálogo concorrencial\n\nAplicam-se aos procedimentos de concurso limitado por prévia qualificação e de diálogo concorrencial o previsto no artigo 23.º quanto a competências do júri e os prazos mínimos referidos no artigo 24.º, bem como o prazo de manutenção das propostas constante do artigo 25.º"
+  },
+  "905293610": {
+   "fragment_id": "905293680",
+   "type": 1,
+   "heading": "Capítulo IV — Acordos quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Acordos quadro"
+  },
+  "905293611": {
+   "fragment_id": "905293681",
+   "type": 11,
+   "heading": "Artigo 45.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Regime\n\nÀ celebração de acordos quadro no âmbito do presente decreto-lei aplicam-se as disposições do CCP, com as especificidades previstas no artigo seguinte."
+  },
+  "905293612": {
+   "fragment_id": "905293682",
+   "type": 11,
+   "heading": "Artigo 46.º — Prazo de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Prazo de vigência\n\n1 - O prazo máximo de vigência dos acordos quadro celebrados no âmbito do presente decreto-lei é de sete anos, salvo em circunstâncias excepcionais relativas à duração do ciclo de vida dos bens, instalações ou sistemas, bem como às dificuldades técnicas que possam ser causadas por uma mudança de fornecedor.\n\n2 - A fundamentação das circunstâncias excepcionais referidas no número anterior é publicitada no anúncio de adjudicação."
+  },
+  "905293613": {
+   "fragment_id": "905293683",
+   "type": 1,
+   "heading": "Capítulo V — Regras de publicidade e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regras de publicidade e transparência"
+  },
+  "905293614": {
+   "fragment_id": "905293684",
+   "type": 8,
+   "heading": "Secção I — Publicação de anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Publicação de anúncios"
+  },
+  "905293615": {
+   "fragment_id": "905293685",
+   "type": 11,
+   "heading": "Artigo 47.º — Anúncio de pré-informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Anúncio de pré-informação\n\n1 - A entidade adjudicante pode enviar para publicação pelo Serviço de Publicações Oficiais das Comunidades Europeias ou publicar por si mesma no seu perfil de adquirente um anúncio de pré-informação, conforme previsto no ponto 2 do anexo vi da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, no qual indiquem:\n\na) No caso de contratos de fornecimento, o valor total estimado dos contratos ou dos acordos quadro, por grupos de produtos, mediante referência à nomenclatura do Vocabulário Comum para os Contratos Públicos (CPV), que tencionam celebrar durante os 12 meses seguintes;\n\nb) No caso de contratos de aquisição de serviços, o valor total estimado de todos os contratos ou acordos quadro, para cada uma das categorias de serviços que tencionam celebrar durante os 12 meses seguintes;\n\nc) No caso de contratos de empreitada de obras públicas, as características essenciais dos contratos ou dos acordos quadro que tencionam celebrar.\n\n2 - Os anúncios de pré-informação relativos aos contratos previstos nas alíneas a) e b) do número anterior são enviados ao Serviço de Publicações Oficiais das Comunidades Europeias para publicação ou publicados no perfil de adquirente imediatamente após a decisão de aprovação do projecto para cuja realização as entidades adjudicantes tencionam celebrar contratos ou acordos quadro.\n\n3 - As entidades adjudicantes que publiquem o anúncio de pré-informação no seu perfil de adquirente enviam à Comissão Europeia, por meio electrónico em conformidade com o formato e as modalidades de transmissão indicados no ponto 3 do anexo vi da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, um anúncio que refira a publicação daquele anúncio de pré-informação no referido perfil de adquirente.\n\n4 - A publicação dos anúncios referidos nas alíneas a), b) e c) do n.º 1 é condição para que a entidade adjudicante possa reduzir os prazos de recepção das propostas, nos termos do n.º 5 do artigo 24.º"
+  },
+  "905293616": {
+   "fragment_id": "905293686",
+   "type": 11,
+   "heading": "Artigo 48.º — Anúncio de procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Anúncio de procedimento\n\nA intenção de celebrar um contrato ou um acordo quadro através de um concurso limitado por prévia qualificação, de um procedimento por negociação com publicação de anúncio de concurso ou de um diálogo concorrencial, é publicitada pelas entidades adjudicantes através de um anúncio de concurso."
+  },
+  "905293617": {
+   "fragment_id": "905293687",
+   "type": 11,
+   "heading": "Artigo 49.º — Anúncio de adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Anúncio de adjudicação\n\n1 - A adjudicação de um contrato ou a celebração de um acordo quadro são publicitadas pela entidade adjudicante por meio de um anúncio contendo os resultados do procedimento, enviado ao Serviço de Publicações Oficiais das Comunidades Europeias, no prazo de 48 dias após a adjudicação do contrato ou a celebração do acordo quadro.\n\n2 - No caso de acordos quadro, a entidade adjudicante não é obrigada a enviar um anúncio dos resultados de cada adjudicação feita com base nesse acordo.\n\n3 - A publicitação da adjudicação de um contrato ou da celebração de um acordo quadro pode omitir certas informações quando a sua divulgação possa obstar à aplicação da lei, ser contrária ao interesse público, nomeadamente aos interesses de defesa ou de segurança, lesar os legítimos interesses comerciais de candidatos ou concorrentes, públicos ou privados, ou prejudicar uma concorrência leal entre eles."
+  },
+  "905293618": {
+   "fragment_id": "905293688",
+   "type": 11,
+   "heading": "Artigo 50.º — Publicação facultativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Publicação facultativa\n\nAs entidades adjudicantes podem ainda publicar quaisquer anúncios que digam respeito a contratos cuja publicação não seja obrigatória nos termos do presente decreto-lei, designadamente anúncios voluntários de transparência referidos no artigo 78.º-A do CCP."
+  },
+  "905293619": {
+   "fragment_id": "905293689",
+   "type": 11,
+   "heading": "Artigo 51.º — Publicação de anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Publicação de anúncios\n\n1 - A publicação dos anúncios previstos nos artigos anteriores efectua-se:\n\na) No Diário da República, conforme modelo aprovado pela Portaria n.º 701-A/2008, de 29 de Julho, e nos termos do artigo 130.º do CCP;\n\nb) No JOUE, através de um anúncio conforme modelo constante dos anexos i a iii ou xiv do Regulamento (CE) n.º 1564/2005, da Comissão, de 7 de Setembro, alterado pelo Regulamento (CE) n.º 1150/2009, da Comissão, de 10 de Novembro, e nos termos dos artigos 34.º, 78.º, 78.º-A e 131.º do CCP, com as necessárias adaptações.\n\n2 - Os membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna podem aprovar, por portaria, os modelos especiais de anúncio de procedimentos pré-contratuais aplicáveis à contratação prevista no presente decreto-lei.\n\n3 - Os anúncios previstos na alínea a) do n.º 1 são enviados à Imprensa Nacional-Casa da Moeda, S. A., através de meios electrónicos, conforme o formato e as modalidades de transmissão indicados no portal do Diário da República Electrónico."
+  },
+  "905293620": {
+   "fragment_id": "905293690",
+   "type": 8,
+   "heading": "Secção II — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Informações"
+  },
+  "905293621": {
+   "fragment_id": "905293691",
+   "type": 11,
+   "heading": "Artigo 52.º — Informação aos candidatos e aos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Informação aos candidatos e aos concorrentes\n\nNo cumprimento do dever geral de fundamentação, as entidades adjudicantes podem decidir não comunicar certas informações relativas à adjudicação de contratos ou à celebração de acordos quadro quando a sua divulgação possa obstar à aplicação da lei, ser contrária ao interesse público, em particular aos interesses da defesa e da segurança, lesar os legítimos interesses comerciais de candidatos ou concorrentes, públicos ou privados, ou prejudicar a concorrência leal entre eles."
+  },
+  "905293622": {
+   "fragment_id": "905293692",
+   "type": 1,
+   "heading": "Capítulo VI — Salvaguarda de matérias classificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Salvaguarda de matérias classificadas"
+  },
+  "905293623": {
+   "fragment_id": "905293693",
+   "type": 11,
+   "heading": "Artigo 53.º — Obrigação de confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Obrigação de confidencialidade\n\n1 - Sem prejuízo do disposto no presente decreto-lei, designadamente no que se refere às obrigações relativas à publicidade de contratos adjudicados e à informação dos candidatos e dos concorrentes das decisões previstas no n.º 3 do artigo 49.º e no artigo anterior, a entidade adjudicante, sujeita a direitos adquiridos por contrato, deve observar e não divulgar as informações classificadas que lhe tenham sido comunicadas pelos interessados, candidatos e concorrentes.\n\n2 - O disposto no número anterior aplica-se igualmente aos membros do júri que intervenham na contratação e aos colaboradores de apoio, quando existam."
+  },
+  "905293624": {
+   "fragment_id": "905293694",
+   "type": 11,
+   "heading": "Artigo 54.º — Protecção das informações classificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Protecção das informações classificadas\n\nA entidade adjudicante deve impor aos interessados e a quem estes subcontratarem requisitos destinados a proteger as informações classificadas por ela comunicadas durante o procedimento de adjudicação e de celebração do contrato."
+  },
+  "905293625": {
+   "fragment_id": "905293695",
+   "type": 11,
+   "heading": "Artigo 55.º — Segurança das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Segurança das informações\n\n1 - Nos contratos que contenham informações classificadas, a entidade adjudicante especifica, nas peças do procedimento, as medidas e os requisitos necessários para garantir a essa informação o nível de segurança necessário.\n\n2 - Para efeitos do disposto no número anterior, a entidade adjudicante pode exigir que a proposta contenha, designadamente, os seguintes elementos:\n\na) O compromisso do adjudicatário, e dos subcontratantes já identificados, de salvaguardarem a confidencialidade de todas as informações e das matérias classificadas que detenham ou de que venham a tomar conhecimento na execução do contrato e após a sua rescisão ou termo, em conformidade com as normas aplicáveis;\n\nb) O compromisso do adjudicatário de fazer observar o disposto na alínea anterior, por parte de outros subcontratantes que subcontrate para a execução do contrato;\n\nc) Informações sobre os subcontratantes já identificados que permitam à entidade adjudicante determinar se cada um dos subcontratantes está apto a salvaguardar a confidencialidade das informações e das matérias classificadas a que tenha acesso ou que transmita no âmbito da subcontratação;\n\nd) O compromisso do adjudicatário de fornecer as informações requeridas na alínea anterior, no que se refere a novos subcontratantes previamente à adjudicação de subcontratos.\n\n3 - As medidas e requisitos exigidos nos números anteriores, pela entidade adjudicante, estão sujeitas ao disposto na lei sobre salvaguarda e segurança das matérias classificadas.\n\n4 - As habilitações de segurança, conferidas por um Estado membro, são reconhecidas pela entidade adjudicante quando estiver verificada a sua conformidade com o ordenamento jurídico nacional, sem prejuízo de prévia investigação, se considerada necessária."
+  },
+  "905293626": {
+   "fragment_id": "905293696",
+   "type": 11,
+   "heading": "Artigo 56.º — Segurança do fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Segurança do fornecimento\n\n1 - A entidade adjudicante especifica nas peças do procedimento os requisitos em matéria de segurança do fornecimento.\n\n2 - Para efeitos do disposto no número anterior, a entidade adjudicante pode exigir que a proposta contenha, designadamente, os seguintes elementos:\n\na) A certificação ou os documentos que comprovam a aprovação por parte da entidade adjudicante de que o adjudicatário está em condições de cumprir as suas obrigações em matéria de exportação, de transferência e de trânsito de mercadorias relacionadas com o contrato, incluindo documentos complementares obtidos do ou dos Estados membros;\n\nb) A indicação de qualquer restrição sobre a entidade adjudicante relativa à divulgação, à transferência ou à utilização dos produtos e serviços ou de qualquer resultado dessa actividade, que tenha origem em disposições de controlo das exportações ou no âmbito de acordos no domínio da segurança das informações e das matérias classificadas;\n\nc) A certificação ou documentação que comprovem que a organização e a localização da cadeia de abastecimento do adjudicatário lhe permitem respeitar os requisitos da entidade adjudicante em matéria de segurança do fornecimento especificadas nas peças do procedimento, e o compromisso de que eventuais alterações ocorridas na referida cadeia de abastecimento durante a execução do contrato não prejudicam o respeito desses requisitos;\n\nd) O compromisso do adjudicatário de estabelecer e de preservar as capacidades que permitam dar resposta efectiva a eventuais aumentos das necessidades da entidade adjudicante em resultado de uma situação de crise;\n\ne) Os documentos complementares fornecidos pelas autoridades nacionais do adjudicatário relativos à resposta efectiva a eventuais aumentos das necessidades que possam surgir na sequência de uma situação de crise, conforme requerido pela entidade adjudicante;\n\nf) O compromisso do adjudicatário de assegurar a manutenção, a modernização ou as adaptações dos fornecimentos que constituam o objecto do contrato;\n\ng) O compromisso do adjudicatário de informar atempadamente a entidade adjudicante de qualquer alteração verificada na sua organização, na cadeia de abastecimento ou na estratégia industrial, susceptível de afectar as suas obrigações;\n\nh) O compromisso do adjudicatário de colocar à disposição da entidade adjudicante todos os meios necessários para a produção de peças sobressalentes, componentes, conjuntos e equipamentos de ensaio especiais, incluindo os planos técnicos, as autorizações e as instruções de utilização, caso deixe de estar em condições de continuar a cumprir com os fornecimentos.\n\n3 - A entidade adjudicante apenas pode exigir dos adjudicatários, com sede em qualquer Estado membro, os compromissos que respeitem os critérios exigidos no país de origem para concessão de licenças de exportação, de transferência ou de trânsito, nas circunstâncias existentes no momento em que é tomada a decisão sobre a concessão dessas licenças."
+  },
+  "905293627": {
+   "fragment_id": "905293697",
+   "type": 1,
+   "heading": "Capítulo VII — Adjudicação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Adjudicação do contrato"
+  },
+  "905293628": {
+   "fragment_id": "905293698",
+   "type": 11,
+   "heading": "Artigo 57.º — Critérios de adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Critérios de adjudicação\n\n1 - A adjudicação é feita segundo um dos seguintes critérios:\n\na) O da proposta economicamente mais vantajosa para a entidade adjudicante;\n\nb) O do mais baixo preço.\n\n2 - Só pode ser adoptado o critério de adjudicação da alínea b) do número anterior quando o caderno de encargos defina todos os restantes aspectos da execução do contrato a celebrar, submetendo apenas à concorrência o preço a pagar pela entidade adjudicante pela execução de todas as prestações que constituem o objecto daquele.\n\n3 - À densificação de factores e subfactores aplicam-se as regras constantes do artigo 75.º do CCP."
+  },
+  "905293629": {
+   "fragment_id": "905293699",
+   "type": 11,
+   "heading": "Artigo 58.º — Preço anormalmente baixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Preço anormalmente baixo\n\n1 - À apresentação de propostas com preço anormalmente baixo aplicam-se as disposições do CCP que regulam a questão, designadamente o artigo 71.º\n\n2 - Quando a entidade adjudicante verificar que uma proposta apresenta um preço anormalmente baixo por o concorrente ter obtido um auxílio estatal, a proposta só pode ser rejeitada unicamente com esse fundamento se, uma vez consultado, o concorrente não provar, num prazo suficiente fixado pela entidade adjudicante, que o auxílio em questão foi legalmente concedido.\n\n3 - Rejeitada uma proposta nos termos do número anterior, a entidade adjudicante informa do facto a Comissão Europeia."
+  },
+  "905293630": {
+   "fragment_id": "905293700",
+   "type": 1,
+   "heading": "Capítulo VIII — Subcontratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Subcontratação"
+  },
+  "905293631": {
+   "fragment_id": "905293701",
+   "type": 11,
+   "heading": "Artigo 59.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Requisitos\n\n1 - O adjudicatário escolhido é livre de eleger os seus subcontratantes.\n\n2 - Exceptuam-se do disposto no número anterior os contratos em que a autoridade adjudicante imponha ao adjudicatário escolhido o seguinte:\n\na) A aplicação das disposições estabelecidas no presente capítulo a todos ou a certos subcontratos que o adjudicatário subcontrate a terceiros; ou\n\nb) A subcontratação de uma parte do contrato a terceiros.\n\n3 - A entidade adjudicante não pode exigir ao adjudicatário escolhido que discrimine um potencial subcontratante em razão da nacionalidade.\n\n4 - A entidade adjudicante solicita ao adjudicatário escolhido:\n\na) A indicação na respectiva proposta da parte do contrato que tenciona subcontratar a terceiros e os subcontratantes propostos e o objecto do contrato em relação ao qual é proposto um subcontratante; e ou\n\nb) A indicação de todas as alterações ocorridas ao nível dos subcontratantes durante a execução do contrato.\n\n5 - Para efeitos de aplicação da alínea b) do n.º 2, a autoridade adjudicante define a subcontratação segundo uma escala de valores, nomeadamente por referência a uma percentagem igual ou inferior a 30 % do valor do contrato, sendo que essa escala de valores deve ainda respeitar os seguintes requisitos:\n\na) Ser proporcional à natureza e ao valor do contrato; e\n\nb) Ser proporcional à natureza do respectivo sector industrial, em termos do nível de concorrência nesse mercado e das capacidades técnicas pertinentes da base industrial.\n\n6 - Considera-se que qualquer percentagem compreendida dentro da escala de valores indicada pela entidade adjudicante cumpre as exigências de subcontratação referidas no número anterior.\n\n7 - Os adjudicatários podem propor subcontratar uma parte do valor total situado acima do limite superior requerido pela entidade adjudicante.\n\n8 - A entidade adjudicante solicita aos concorrentes que especifiquem no concurso:\n\na) As partes da sua proposta que tencionam subcontratar, a fim de respeitar os requisitos referidos no n.º 5;\n\nb) As partes da sua proposta situadas acima da percentagem imposta que tencionam subcontratar, bem como os subcontratantes já identificados.\n\n9 - O adjudicatário escolhido adjudica os subcontratos correspondentes à percentagem que a autoridade/entidade adjudicante lhe impõe para subcontratação, em conformidade com o disposto no presente capítulo.\n\n10 - Sempre que uma entidade adjudicante rejeitar os subcontratantes seleccionados pelo adjudicatário na fase do procedimento de adjudicação do contrato principal, ou pelo adjudicatário escolhido durante a execução do contrato, essa rejeição baseia-se nos critérios aplicados para a selecção dos adjudicatários para o contrato principal.\n\n11 - No caso de aplicação do número anterior, a entidade adjudicante fornece ao adjudicatário ou ao adjudicatário escolhido uma justificação escrita das razões pelas quais considera que os subcontratantes não preenchem os critérios.\n\n12 - Os requisitos previstos nos números anteriores são indicados no anúncio de concurso.\n\n13 - O disposto nos n.os 1 a 11 não interfere na questão da responsabilidade do adjudicatário principal."
+  },
+  "905293632": {
+   "fragment_id": "905293702",
+   "type": 11,
+   "heading": "Artigo 60.º — Princípios da igualdade de tratamento, da não discriminação e da concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Princípios da igualdade de tratamento, da não discriminação e da concorrência\n\n1 - O adjudicatário que subcontrate a terceiros nos termos das alíneas a) e b) do n.º 2 do artigo anterior deve agir de forma transparente e de acordo com os princípios da igualdade de tratamento, da não discriminação e da concorrência.\n\n2 - Para efeitos da escolha do subcontratante, não são considerados terceiros as empresas que se tenham agrupado para obter o contrato, nem as empresas a elas associadas, devendo o concorrente incluir a lista exaustiva destas últimas empresas na sua proposta, a qual deve ser actualizada em função das posteriores alterações dos vínculos existentes entre as empresas."
+  },
+  "905293633": {
+   "fragment_id": "905293703",
+   "type": 11,
+   "heading": "Artigo 61.º — Limiares e regras de publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Limiares e regras de publicidade\n\n1 - Nos casos em que o adjudicatário subcontrate a terceiros nos termos das alíneas a) e b) do n.º 2 do artigo 60.º e o valor estimado, calculado nos termos dos artigos 10.º a 12.º, desse subcontrato seja igual ou superior aos limiares estabelecidos nos n.os 4 e 5 do artigo 1.º dá a conhecer a sua intenção através da publicação de um anúncio.\n\n2 - Os anúncios de subcontratação devem conter as informações referidas no anexo v da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, bem como quaisquer outras informações consideradas úteis pelo adjudicatário, mediante autorização por parte da entidade adjudicante, sendo redigidos e publicados nos mesmos termos em que o são os anúncios de procedimento publicados pelas entidades adjudicantes.\n\n3 - Nos casos em que um subcontrato preencha as condições previstas nos artigos 16.º a 21.º, o adjudicatário está dispensado da publicação do anúncio referido nos números anteriores.\n\n4 - Os adjudicatários podem publicar, nos termos do artigo 51.º, anúncios de subcontratações que não estejam sujeitos ao requisito de publicação obrigatória previsto no presente artigo."
+  },
+  "905293634": {
+   "fragment_id": "905293704",
+   "type": 11,
+   "heading": "Artigo 62.º — Subcontratos com base em acordos quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Subcontratos com base em acordos quadro\n\n1 - A entidade adjudicante pode estabelecer que o adjudicatário subcontrate, nos termos das alíneas a) e b) do n.º 2 do artigo 59.º, através da adjudicação de subcontratos com base num acordo quadro.\n\n2 - Os subcontratos adjudicados ao abrigo de acordos quadro previstos no número anterior são adjudicados dentro dos limites das condições neles fixadas, podendo ser adjudicados unicamente a concorrentes que fossem já partes no acordo quadro.\n\n3 - Ao adjudicarem contratos, as partes devem, em todas as circunstâncias, propor condições que sejam coerentes com aquelas estabelecidas no acordo quadro.\n\n4 - Os acordos quadro não podem ser utilizados de forma abusiva ou de modo a impedir, restringir ou falsear a concorrência."
+  },
+  "905293635": {
+   "fragment_id": "905293705",
+   "type": 11,
+   "heading": "Artigo 63.º — Critérios de selecção qualitativa de subcontratantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Critérios de selecção qualitativa de subcontratantes\n\n1 - O adjudicatário indica, no anúncio de subcontratação, os critérios de selecção qualitativa estabelecidos pela entidade adjudicante, assim como quaisquer outros critérios que tenciona aplicar na selecção qualitativa de subcontratantes.\n\n2 - Todos os critérios de selecção qualitativa devem ser objectivos, não discriminatórios e coerentes com os critérios aplicados pela entidade adjudicante na selecção dos candidatos para o contrato principal.\n\n3 - As habilitações exigidas ao subcontratante devem estar directamente relacionadas com o objecto do subcontrato e os níveis de capacidades exigidos devem ser adequados ao mesmo.\n\n4 - O adjudicatário não é obrigado a adjudicar um subcontrato se demonstrar fundamentadamente que os concorrentes, ou as propostas por eles apresentadas, não preenchem os critérios estabelecidos no anúncio de concurso, impedindo, dessa forma, que o adjudicatário cumpra os requisitos previstos no contrato principal."
+  },
+  "905293636": {
+   "fragment_id": "905293706",
+   "type": 11,
+   "heading": "Artigo 64.º — Normas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Normas aplicáveis\n\nNos casos em que o adjudicatário seja ele próprio uma entidade adjudicante, conforme definido no CCP, aplica-se aos procedimentos de subcontratação o previsto no presente decreto-lei para a celebração de contratos principais."
+  },
+  "905293637": {
+   "fragment_id": "905293707",
+   "type": 1,
+   "heading": "Capítulo IX — Invalidade contratual e tutela jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Invalidade contratual e tutela jurisdicional"
+  },
+  "905293638": {
+   "fragment_id": "905293708",
+   "type": 11,
+   "heading": "Artigo 65.º — Invalidade do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Invalidade do contrato\n\n1 - A invalidade dos contratos abrangidos pelo presente decreto-lei rege-se pelo disposto nos artigos 283.º a 285.º do CCP, com as especificidades dos números seguintes.\n\n2 - O efeito anulatório previsto no n.º 2 do artigo 283.º e no n.º 1 do artigo 283.º-A do CCP pode ser afastado por decisão judicial ou arbitral quando as consequências da anulação comprometerem seriamente a própria existência de um programa mais amplo de defesa ou segurança que seja essencial para os interesses de segurança do Estado, devendo a decisão obrigatoriamente determinar uma das sanções alternativas previstas no n.º 3 do artigo 283.º-A do CCP.\n\n3 - A anulação de um contrato com fundamento na alínea a) do n.º 1 do artigo 283.º-A do CCP não é aplicável quando cumulativamente:\n\na) A entidade adjudicante considere que a adjudicação de um contrato sem publicação de um anúncio de concurso no JOUE é permitida nos termos do presente decreto-lei;\n\nb) Tenha sido publicado o anúncio voluntário de transparência previsto no artigo 78.º-A do CCP; e\n\nc) A outorga do contrato não tenha ocorrido antes de decorridos 10 dias após a data da publicação do anúncio referido na alínea anterior."
+  },
+  "905293639": {
+   "fragment_id": "905293709",
+   "type": 11,
+   "heading": "Artigo 66.º — Protecção da confidencialidade e ponderação de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Protecção da confidencialidade e ponderação de interesses\n\nO tribunal competente deve garantir um nível adequado de confidencialidade das informações classificadas, ou de outras informações contidas nos documentos enviados pelas partes, e tomar em consideração os interesses da defesa e da segurança durante todo o processo."
+  },
+  "905293640": {
+   "fragment_id": "905293710",
+   "type": 11,
+   "heading": "Artigo 67.º — Garantias jurisdicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Garantias jurisdicionais\n\nÀ impugnação contenciosa das decisões da entidade adjudicante e das peças do procedimento relativas à formação do contrato e às respectivas providências cautelares requeridas, com fundamento na violação das normas do presente decreto-lei, aplica-se o disposto no Código de Processo nos Tribunais Administrativos, aprovado pela Lei n.º 15/2002, de 22 de Fevereiro, alterado pela Lei n.º 4-A/2003, de 19 de Fevereiro, e pela Lei n.º 59/2008, de 11 de Setembro."
+  },
+  "905293641": {
+   "fragment_id": "905293711",
+   "type": 1,
+   "heading": "Capítulo X — Obrigações estatísticas e de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Obrigações estatísticas e de informação"
+  },
+  "905293642": {
+   "fragment_id": "905293712",
+   "type": 11,
+   "heading": "Artigo 68.º — Informações sobre o procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Informações sobre o procedimento\n\n1 - A entidade adjudicante está sujeita às obrigações constantes do artigo 107.º do CCP.\n\n2 - No caso de acordos quadro cujo período de vigência seja superior a sete anos, a entidade adjudicante fundamenta a decisão no respectivo relatório."
+  },
+  "905293643": {
+   "fragment_id": "905293713",
+   "type": 11,
+   "heading": "Artigo 69.º — Relatório estatístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Relatório estatístico\n\n1 - O Ministério da Defesa Nacional e o Ministério da Administração Interna enviam à Comissão Europeia, até 31 de Outubro de cada ano, um relatório estatístico relativamente aos contratos adjudicados durante o ano anterior pelas entidades adjudicantes.\n\n2 - Para efeitos do número anterior, as entidades adjudicantes devem remeter aos serviços competentes daqueles ministérios, até 31 de Março de cada ano, todos os dados estatísticos necessários à elaboração do referido relatório, conforme modelo aprovado por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna."
+  },
+  "905293644": {
+   "fragment_id": "905293714",
+   "type": 11,
+   "heading": "Artigo 70.º — Conteúdo do relatório estatístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Conteúdo do relatório estatístico\n\n1 - O relatório estatístico mencionado no artigo anterior trata em separado os contratos de fornecimento, os contratos de serviços e os contratos de empreitada de obras públicas, incluindo o número e o valor dos contratos adjudicados por país de origem dos adjudicatários.\n\n2 - Os dados estatísticos referidos no número anterior são ainda discriminados de acordo com os procedimentos utilizados e identificam, para cada um destes procedimentos, os fornecimentos, os serviços e as empreitadas de obras públicas por grupo da nomenclatura do CPV.\n\n3 - No caso de adjudicações efectuadas na sequência de um procedimento por negociação sem publicação de anúncio de concurso, os dados referidos nos números anteriores são discriminados de acordo com as circunstâncias indicadas nos artigos 16.º a 21.º"
+  },
+  "905293645": {
+   "fragment_id": "905293715",
+   "type": 11,
+   "heading": "Artigo 71.º — Investigação e desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Investigação e desenvolvimento\n\nApós a conclusão de um programa concertado entre Estados membros que justifique a exclusão nos termos da alínea c) do n.º 2 do artigo 5.º, o membro do Governo responsável pela área do programa em causa comunica à Comissão Europeia:\n\na) A parte das despesas de investigação e desenvolvimento relativa aos custos totais do programa concertado;\n\nb) O acordo em matéria de repartição de custos;\n\nc) A parte prevista de aquisições."
+  },
+  "905293646": {
+   "fragment_id": "905293716",
+   "type": 1,
+   "heading": "Capítulo XI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Disposições transitórias e finais"
+  },
+  "905293647": {
+   "fragment_id": "905293717",
+   "type": 11,
+   "heading": "Artigo 72.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Direito transitório\n\n1 - O regime previsto no presente decreto-lei aplica-se aos procedimentos de formação de contratos iniciados após a sua entrada em vigor.\n\n2 - O disposto no artigo 66.º relativo à protecção da confidencialidade aplica-se aos processos jurisdicionais iniciados após a entrada em vigor do presente decreto-lei."
+  },
+  "905293648": {
+   "fragment_id": "905293718",
+   "type": 11,
+   "heading": "Artigo 73.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Direito subsidiário\n\nA tudo o que não esteja expressamente regulado no presente decreto-lei aplica-se o disposto no CCP e nos seus diplomas complementares, com as necessárias adaptações."
+  },
+  "905293649": {
+   "fragment_id": "905293719",
+   "type": 11,
+   "heading": "Artigo 74.º — Divulgação dos limiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Divulgação dos limiares\n\nOs montantes dos limiares previstos nas alíneas a) e b) do n.º 4 do artigo 1.º são divulgados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, à medida que sejam actualizados nos termos referidos no n.º 5 do mesmo artigo."
+  },
+  "905293650": {
+   "fragment_id": "905293720",
+   "type": 11,
+   "heading": "Artigo 75.º — Acompanhamento da aplicação do regime instituído pelo presente decreto-lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Acompanhamento da aplicação do regime instituído pelo presente decreto-lei\n\n1 - A partir da entrada em vigor do presente decreto-lei são recolhidos elementos relativos à aplicação da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, num contexto global, durante o período de 21 de Agosto de 2011 a 21 de Agosto de 2015, para elaboração de um relatório a apresentar aos membros do Governo e responsáveis pelas áreas da defesa nacional e da administração interna, até ao dia 15 de Janeiro de 2016.\n\n2 - O relatório referido no número anterior deve ter em conta a situação actual e avaliar em que medida os objectivos da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, foram alcançados no mercado português, a sua contribuição para o funcionamento do mercado interno e para o desenvolvimento de um mercado europeu de equipamento de defesa e de uma base industrial e tecnológica europeia de defesa, incluindo a situação das pequenas e médias empresas europeias."
+  },
+  "905293651": {
+   "fragment_id": "905293721",
+   "type": 11,
+   "heading": "Artigo 76.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Regulamentação\n\nA portaria relativa ao modelo do relatório estatístico, prevista no n.º 2 do artigo 69.º, é aprovada no prazo de 60 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "905293652": {
+   "fragment_id": "905293722",
+   "type": 11,
+   "heading": "Artigo 77.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 33/99, de 5 de Fevereiro."
+  },
+  "905293653": {
+   "fragment_id": "905293723",
+   "type": 11,
+   "heading": "Artigo 78.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "905293658": {
+   "fragment_id": "905268825",
+   "type": 11,
+   "heading": "Artigo 4.º — Contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430), produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Contratos de prestação de serviços\n\n1 - Aos contratos que tenham por objecto a aquisição de serviços referidos no artigo 1.º e constantes do anexo i da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, são aplicáveis as regras relativas a procedimentos, peças do procedimento, publicidade e transparência, adjudicação e subcontratação, de acordo com o disposto no presente decreto-lei.\n\n2 - Os contratos que tenham por objecto a aquisição de serviços referidos no artigo 1.º e constantes do anexo ii da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, estão sujeitos ao estatuído no presente decreto-lei sobre especificações técnicas e publicação de anúncios.\n\n3 - Os contratos mistos que tenham por objecto a aquisição de serviços referidos no artigo 1.º e constantes dos anexos i e ii da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, estão sujeitos às regras aplicáveis à componente de maior expressão financeira.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430), produz efeitos a partir de 2012-01-01"
+  },
+  "1168017875": {
+   "fragment_id": "905268828",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípios",
+   "in_force_from": "2026-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01."
+   ],
+   "markdown": "###### Artigo 6.º — Princípios\n\n1 - As entidades adjudicantes devem tratar os interessados, candidatos e concorrentes de acordo com os princípios da igualdade de tratamento, da não discriminação e da concorrência, agindo de forma transparente.\n\n2 - Na formação e execução dos contratos referidos nas alíneas b) a d) do n.º 2 do artigo 1.º, as entidades adjudicantes devem ainda assegurar o respeito pelo princípio da prioridade à eficiência energética, nos termos do artigo 49.º-B do CCP, na medida em que a sua aplicação não colida com a natureza e o objetivo principal de atividades desenvolvidas pelas Forças Armadas.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01."
+  },
+  "905293659": {
+   "fragment_id": "905268871",
+   "type": 11,
+   "heading": "Artigo 37.º — Especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430), produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Especificações técnicas\n\n1 - As especificações técnicas, tal como definidas no anexo iii da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, devem constar do caderno de encargos e são fixadas nos termos definidos no CCP, de forma a permitir o acesso dos concorrentes em condições de igualdade e a não criar obstáculos injustificados à abertura dos contratos à concorrência de acordo com as especificidades constantes do número seguinte.\n\n2 - Sem prejuízo das regras técnicas nacionais vinculativas, incluindo as regras relativas à segurança do produto, e dos requisitos técnicos a cumprir ao abrigo de acordos internacionais de normalização, a fim de garantir a interoperabilidade exigida por esses acordos, e desde que sejam compatíveis com o direito comunitário, as especificações técnicas devem ser formuladas do seguinte modo:\n\na) Por referência às especificações técnicas definidas no anexo iii da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, e, por ordem de preferência, sendo que cada referência deve ser acompanhada da menção «ou equivalente»:\n\ni) A normas nacionais civis que transponham normas europeias;\n\nii) A homologações técnicas europeias;\n\niii) A especificações técnicas comuns;\n\niv) A normas nacionais civis que transponham normas internacionais;\n\nv) A outras normas internacionais civis;\n\nvi) A qualquer outro referencial técnico estabelecido pelos organismos europeus de normalização, ou, caso aquele não exista, a outras normas nacionais civis, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de concepção, cálculo e execução de empreitadas de obras públicas, bem como de utilização de materiais;\n\nvii) A especificações técnicas civis provenientes da indústria e por esta amplamente reconhecidas; ou\n\nviii) Às normas de defesa nacionais definidas no ponto 3) do anexo iii da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, e às especificações relativas ao equipamento de defesa semelhantes a essas normas;\n\nb) Em termos de desempenho ou de requisitos funcionais, que podem incluir características ambientais, sendo que estes parâmetros devem ser suficientemente precisos, a fim de permitir aos concorrentes determinar o objecto do contrato e às entidades adjudicantes escolher o adjudicatário;\n\nc) Em termos do desempenho ou dos requisitos funcionais a que se refere a alínea anterior, remetendo, como meio de presunção de conformidade com esse desempenho ou esses requisitos funcionais, para as especificações a que se refere a alínea a);\n\nd) Por referência às especificações a que se refere a alínea a), para determinadas características, e por referência ao desempenho ou aos requisitos funcionais a que se refere a alínea b), para outras características.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430), produz efeitos a partir de 2012-01-01"
+  },
+  "905293657": {
+   "fragment_id": "905293703",
+   "type": 11,
+   "heading": "Artigo 61.º — Limiares e regras de publicidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430), produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 61.º — Limiares e regras de publicidade\n\n1 - Nos casos em que o adjudicatário subcontrate a terceiros nos termos das alíneas a) e b) do n.º 2 do artigo 59.º e o valor estimado, calculado nos termos dos artigos 10.º a 12.º, desse subcontrato seja igual ou superior aos limiares estabelecidos nos n.os 4 e 5 do artigo 1.º dá a conhecer a sua intenção através da publicação de um anúncio.\n\n2 - Os anúncios de subcontratação devem conter as informações referidas no anexo v da Directiva n.º 2009/81/CE, do Parlamento Europeu e do Conselho, de 13 de Julho, bem como quaisquer outras informações consideradas úteis pelo adjudicatário, mediante autorização por parte da entidade adjudicante, sendo redigidos e publicados nos mesmos termos em que o são os anúncios de procedimento publicados pelas entidades adjudicantes.\n\n3 - Nos casos em que um subcontrato preencha as condições previstas nos artigos 16.º a 21.º, o adjudicatário está dispensado da publicação do anúncio referido nos números anteriores.\n\n4 - Os adjudicatários podem publicar, nos termos do artigo 51.º, anúncios de subcontratações que não estejam sujeitos ao requisito de publicação obrigatória previsto no presente artigo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 33-A/2011 - Diário da República n.º 232/2011, 1º Suplemento, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-a-2011-288430), produz efeitos a partir de 2012-01-01"
+  },
+  "905293654": {
+   "fragment_id": "905293724",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 29 de Setembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de Setembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

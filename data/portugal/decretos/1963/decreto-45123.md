@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:693041:por
+title: Decreto n.º 45123
+short_title: null
+summary: Autoriza o Governo-Geral de Angola a dar o aval da província a uma operação de empréstimo de 10000000$00 a contrair
+  pela Agrobana - Companhia Agro-Bananeira, S. A. R. L., junto do Banco de Fomento Nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: '45123'
+official_date: null
+publication_date: '1963-07-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 161/1963, Série I de 1963-07-10
+  number: '161'
+  series: I
+  supplement: null
+  pages: 936 - 936
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/07/16100/09360936.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '693041'
+  dre_path: /dr/detalhe/decreto/45123-1963-693041
+  internal: pt:dre:693041:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45123-1963-693041
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45123-1963-693041
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:35:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a8ab1f50995c2369f94fc9d7ea45cc5176660346ae1526b7b9ec5a8ff06a7279
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:35:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45123
+
+Considerando que a Agrobana - Companhia Agro-Bananeira, S. A. R. L., solicitou o aval da província de Angola para a operação de um empréstimo de 10000000$00 a contrair junto do Banco de Fomento Nacional;
+
+Atendendo a que o empréstimo referido permitirá alargar os recursos de que dispõe aquela empresa para o desenvolvimento da cultura da banana e de outros produtos agrícolas na região do Lobito, empreendimento de grande interesse para a economia da província, não só por vir a possibilitar novas exportações como também pela criação das condições favoráveis à instalação da indústria de desidratação de frutas e legumes;
+
+Com parecer favorável do Governo-Geral de Angola e tendo em atenção a urgência de providenciar nesse sentido, ao abrigo do preceituado no § 1.º do artigo 150.º da Constituição e alínea a) do n.º IV da base X da Lei Orgânica do Ultramar Português;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província a uma operação de empréstimo de 10000000$00 a contrair pela Agrobana - Companhia Agro-Bananeira, S. A. R. L., junto do Banco de Fomento Nacional, mediante cláusulas e condições prèviamente ajustadas e aprovadas pelo Governo-Geral.
+
+Art. 2.º A província de Angola gozará de privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 10 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de Angola. - Peixoto Correia.

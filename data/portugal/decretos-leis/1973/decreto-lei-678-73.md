@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:411166:por
+title: Decreto-Lei n.º 678/73
+short_title: null
+summary: Permite que os financiamentos autorizados pelo Fundo Nacional do Abono de Família (F. N. A. F.), nos termos do artigo
+  1.º do Decreto-Lei n.º 577/71, de 21 de Dezembro, possam ser concedidos aos cônjuges quando os mesmos sejam beneficiários
+  da Previdência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Segurança Social
+proposing_entity: null
+official_number: 678/73
+official_date: null
+publication_date: '1973-12-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1973, Série I de 1973-12-20
+  number: '295'
+  series: I
+  supplement: null
+  pages: 2465 - 2465
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29500/24652465.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '411166'
+  dre_path: /dr/detalhe/decreto-lei/678-1973-411166
+  internal: pt:dre:411166:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/678-1973-411166
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/678-1973-411166
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:29:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e993a41db50a8f93c8a2f4209e2cd2df2bd5aad702af01e8515dec25d453e9e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Fundo Nacional de Abono de Família
+- Habitação Social
+- Prodac
+relationships:
+- type: cites
+  target: pt:dre:632228:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:29:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 678/73
+
+de 20 de Dezembro
+
+O [Decreto-Lei n.º 577/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1971-632228), de 21 de Dezembro, determinou que a atribuição das casas construídas pela Prodac se fizesse apenas a agregados familiares cujos chefes fossem beneficiários de uma caixa sindical de previdência.
+
+Todavia, dentro de um espírito de justiça social e com o intuito de tornar a regalia em questão extensiva a agregados familiares cujos chefes não sejam beneficiários da Previdência, entendeu-se útil autorizar, nos termos do diploma legal referido, a fruição de uma casa nas hipóteses em que a mulher casada, não sendo chefe de família, é, contudo, beneficiária da Previdência.
+
+A adopção desta medida, para além de contribuir para uma maior protecção e coesão da família, justifica-se atendendo a que, frequentemente, o contributo do cônjuge para a manutenção do agregado familiar é tão importante como o do chefe de família.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os financiamentos autorizados pelo Fundo Nacional do Abono de Família (F. N. A. F.), nos termos do artigo 1.º do [Decreto-Lei n.º 577/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1971-632228), de 21 de Dezembro, podem ser concedidos aos cônjuges quando os mesmos sejam beneficiários da Previdência e tal condição se não verifique relativamente ao chefe de família.
+
+Art. 2.º Na escritura do mútuo que se refere o artigo anterior é necessária a intervenção de ambos os cônjuges, salvo nos casos de impossibilidade devidamente comprovada.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Dias da Silva Pinto.
+
+Promulgado em 5 de Dezembro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

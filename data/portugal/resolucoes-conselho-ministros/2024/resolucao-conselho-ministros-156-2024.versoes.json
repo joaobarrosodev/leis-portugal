@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:894487445:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2024-919674313",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/156-2024-894487445",
+ "source_lastmod": "2025-05-28",
+ "versions": [
+  {
+   "date": "2024-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919653274"
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:919523558:por",
+     "title": "Portaria n.º 238/2025/1",
+     "published": "2025-05-27",
+     "dre_path": "/dr/detalhe/portaria/238-2025-919523558"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "919653274",
+    "919653271"
+   ]
+  }
+ ],
+ "fragments": {
+  "919653274": {
+   "fragment_id": "919674314",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-05-28",
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 156/2024\n\nO Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), é um instituto público que, nos termos previstos no n.º 1 do artigo 3.º do Decreto-Lei n.º 164/2012, de 31 de julho, na sua redação atual, tem por missão a gestão dos recursos tecnológicos do Ministério da Justiça, assegurando a apresentação de propostas de conceção, execução e a manutenção dos recursos e dos sistemas de informação da justiça.\n\nNo âmbito das suas atribuições, o IGFEJ, I. P., assegura os procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do Ministério da Justiça, gerindo, também, a Rede de Comunicações da Justiça (RCJ), nos termos previstos nas alíneas h) e o) do n.º 2 do artigo 3.º do Decreto-Lei n.º 164/2012, de 31 de julho.\n\nO IGFEJ, I. P., é, assim, a entidade responsável pela contratação de todos os serviços de comunicações de dados da RCJ, garantindo a sua segurança e operacionalidade, promovendo a unificação de métodos e processos, através de uma gestão unificada em todas as suas vertentes, que vão desde o dimensionamento e respetiva definição dos débitos adequados à correta e efetiva monitorização da rede, aliada ao acompanhamento técnico e à gestão contratual, com o necessário e permanente contributo e envolvimento de todos os organismos e utilizadores da RCJ.\n\nAtualmente, a RCJ - plataforma de comunicações de aplicações vitais especialmente sensíveis, cuja paralisia ou destruição geraria colapso de serviços - serve os tribunais e o Ministério Público, bem como outros operadores judiciários, como a Ordem dos Advogados, a Polícia Judiciária, os serviços do Ministério da Justiça responsáveis pela reinserção social e pelo sistema prisional, o Instituto dos Registos e do Notariado, I. P., e outros serviços que asseguram a tramitação de dados sensíveis, como, por exemplo, a Direção-Geral da Administração da Justiça (quanto ao registo criminal).\n\nA atualização das tecnologias de gestão de redes de dados, nomeadamente o software defined networking (SDN) que permite incrementar a flexibilidade da rede, determina a necessidade de adequar os equipamentos e a arquitetura da rede, permitindo assim a manutenção de dois operadores a funcionar em simultâneo, em que um, o que fornece circuitos via virtual private network (VPN), é utilizado para os dados que necessitam de muita qualidade de serviço e o outro, com acesso via internet, é utilizado para os dados com menor criticidade.\n\nNestes termos, considerando que o contrato de aquisição de serviços a celebrar terá o valor estimado de € 11 650 000,00, ao qual acresce o imposto sobre o valor acrescentado, à taxa legal em vigor, e terá um prazo de execução de 1461 dias, abrangendo o período compreendido entre 2024 e 2028, revela-se necessário proceder à repartição plurianual do encargo financeiro resultante do contrato a celebrar.\n\nA Agência para a Modernização Administrativa, I. P., emitiu parecer favorável à aquisição de serviços objeto da presente resolução, nos termos previstos no Decreto-Lei n.º 107/2012, de 18 de maio.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os </sup>1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar o conselho diretivo do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), a realizar a despesa relativa à aquisição de serviços de gestão e transmissão de dados para os organismos que integram a Rede de Comunicações da Justiça, no montante global máximo € 7 566 648,32, ao qual acresce o imposto sobre valor acrescentado (IVA), à taxa legal em vigor, por recurso ao procedimento pré-contratual de concurso público, com publicação no Jornal Oficial da União Europeia.\n\n2 - Determinar que os encargos financeiros resultantes da despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:\n\na) Em 2025 - € 1 261 108,06;\n\nb) Em 2026 - € 1 891 662,08;\n\nc) Em 2027 - € 1 891 662,08;\n\nd) Em 2028 - € 1 891 662,08;\n\ne) Em 2029 - € 630 554,02.\n\n3 - Estabelecer que os valores fixados no número anterior, para cada ano económico, podem ser acrescidos do saldo apurado no ano que antecede.\n\n4 - Determinar que os encargos emergentes da presente resolução são satisfeitos pelas verbas adequadas, inscritas e a inscrever na fonte de financiamento 513 - Receitas Próprias do ano - Com outras origens, do orçamento do IGFEJ, I. P., em cada um dos anos económicos indicados.\n\n5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da justiça a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.\n\n6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "919653271": {
+   "fragment_id": "919674315",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 24 de outubro de 2024. - O Primeiro-Ministro, Luís Montenegro.\n\n118293238"
+  }
+ }
+}

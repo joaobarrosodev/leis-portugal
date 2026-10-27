@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:138810:por
+title: Declaração de Rectificação n.º 13-B/2010
+short_title: null
+summary: Rectificação do Mapa Oficial n.º 1-A/2010, de 11 de Março
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Comissão Nacional de Eleições
+proposing_entity: null
+official_number: 13-B/2010
+official_date: null
+publication_date: '2010-05-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/2010, 1º Suplemento, Série I de 2010-05-07
+  number: '89'
+  series: I
+  supplement: null
+  pages: 1618-(3) a 1618-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/05/08901/0000300006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/13-b/2010/05/07/p/dre/pt/html
+  oj: null
+  dre: '138810'
+  dre_path: /dr/detalhe/declaracao-rectificacao/13-b-2010-138810
+  internal: pt:dre:138810:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-b-2010-138810
+  metadata_url: https://data.dre.pt/eli/declrectif/13-b/2010/05/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-b-2010-138810
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:12:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2f194be3e2664e049ab64528bacaa682050249f231dec71f5ebcac0b91ebef12
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Eleição Autárquica
+- Partido Político
+- Resultado Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:403294:por
+  label: null
+  source: http://data.dre.pt/eli/mapofic/1-a/2010/03/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:12:29Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 13-B/2010
+
+O [Mapa Oficial n.º 1-A/2010](https://diariodarepublica.pt/dr/detalhe/mapa-oficial/1-a-2010-403294), da Comissão Nacional de Eleições, com os resultados das eleições gerais para os órgãos das autarquias locais realizadas em 11 de Outubro de 2009, foi publicado em suplemento ao Diário da República, 1.ª série, n.º 49, de 11 de Março de 2010.
+
+Verificando-se que naquele mapa foram omitidos os resultados das eleições para as Câmaras Municipais e Assembleias Municipais de Oeiras e de Sintra, procede-se à respectiva publicação, rectificando-se, assim, o [Mapa Oficial n.º 1-A/2010](https://diariodarepublica.pt/dr/detalhe/mapa-oficial/1-a-2010-403294).
+
+Comissão Nacional de Eleições, 27 de Abril de 2010. - O Presidente, João Carlos de Barros Caldeira.
+
+I - Resultados da votação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/08901/0000300006.pdf)
+
+II - Percentagens de votos expressos nas candidaturas e mandatos atribuídos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/08901/0000300006.pdf)
+
+III - Eleitos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/08901/0000300006.pdf)
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/08901/0000300006.pdf)

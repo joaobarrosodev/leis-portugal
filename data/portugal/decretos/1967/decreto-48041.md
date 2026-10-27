@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:389235:por
+title: Decreto n.º 48041
+short_title: null
+summary: Autoriza os Governos das províncias ultramarinas de S. Tomé e Príncipe e de Timor a abrirem créditos especiais destinados
+  a ocorrer a determinados encargos e atribui uma gratificação anual para falhas ao chefe da secretaria e contabilidade das
+  Oficinas Navais de Macau enquanto desempenhar as funções de tesoureiro - Dá nova redacção ao artigo único do Decreto n.º
+  47557 e ao artigo 1.º do Decreto n.º 47698, o primeiro dos quais permite ao Governo de Macau autorizar a nomeação, para
+  guardas de 4.ª classe da Polícia de Segurança Pública, de pessoas naturais da província ou nela residentes, mesmo que não
+  satisfaçam determinadas condições, e o segundo autoriza o Governo da província ultramarina de Timor a contrair um empréstimo
+  no montante de 2000000$00
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '48041'
+official_date: null
+publication_date: '1967-11-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 268/1967, Série I de 1967-11-17
+  number: '268'
+  series: I
+  supplement: null
+  pages: 2024 - 2025
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/11/26800/20242025.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '389235'
+  dre_path: /dr/detalhe/decreto/48041-1967-389235
+  internal: pt:dre:389235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48041-1967-389235
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48041-1967-389235
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce47baec89cd86f76e20d85d4e1d561fce262b0d302aea545edda15945459836
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:313220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635201:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:59:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48041
+
+Tornando-se necessário satisfazer propostas formuladas pelos Governos das províncias de S. Tomé e Príncipe, Macau e Timor;
+
+Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º da Constituição;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+A) S. Tomé e Príncipe
+
+Artigo 1.º Fica o Governo da província autorizado a abrir um crédito especial de 4151712$80, destinado à cobertura do pagamento feito por operações de tesouraria e respeitante aos seguintes encargos:
+
+a) Juros do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39648-1954-635201), de 12 de Maio de 1954 ... 76500$00
+
+b) Juros e amortização do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961 ... 3526875$00
+
+c) Juros e amortização do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46683-1965-507855), de 3 de Dezembro de 1965 ... 548337$80
+
+... 4151712$80
+
+§ único. Para contrapartida do crédito especial referido no corpo do artigo serão utilizados estes recursos:
+
+a) Do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961 ... 1900000$00
+
+b) Do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46683-1965-507855), de 3 de Dezembro de 1965 ... 2251712$80
+
+... 4151712$80
+
+B) Macau
+
+Art. 2.º É atribuída ao chefe da secretaria e contabilidade das Oficinas Navais uma gratificação anual para falhas de 6000$00 enquanto desempenhar funções de tesoureiro e nas condições que forem fixadas pelo governador da província.
+
+§ único. O encargo da gratificação será suportado pelo orçamento privativo das Oficinas Navais.
+
+Art. 3.º O artigo único do [Decreto n.º 47557](https://diariodarepublica.pt/dr/detalhe/decreto/47557-1967-504536), de 23 de Fevereiro de 1967, passa a ter a seguinte redacção:
+
+Artigo único. Quando as circunstâncias o exigirem, pode o governador de Macau autorizar a nomeação, para guardas de 2.ª classe mecânicos e guardas de 4.ª classe da Polícia de Segurança Pública, de pessoas naturais da província ou nela residentes, mesmo que não satisfaçam às condições previstas nas alíneas a) e c) do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
+
+C) Timor
+
+Art. 4.º Fica o governo da província autorizado a abrir um crédito especial de 429996$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1966.
+
+Art. 5.º É substituída pela seguinte a redacção do corpo do artigo 1.º do [Decreto n.º 47698](https://diariodarepublica.pt/dr/detalhe/decreto/47698-1967-313220), de 15 de Maio de 1967:
+
+Artigo 1.º É autorizada a província de Timor a contrair no Banco Nacional Ultramarino um empréstimo no montante de 2000000$00, à taxa de juro de 2 por cento ao ano, que incidirá sobre os saldos devedores contados até ao fim de cada ano civil e amortizável em doze prestações anuais, vencíveis em 31 de Dezembro de cada ano.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 17 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de S. Tomé e Príncipe, Macau e Timor. - J. da Silva Cunha.

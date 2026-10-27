@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:497833:por
+title: Decreto-Lei n.º 205-C/75
+short_title: null
+summary: Nacionaliza a Companhia Nacional de Navegação, S. A. R. L., a contar de 15 de Abril de 1975
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 205-C/75
+official_date: null
+publication_date: '1975-04-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 89/1975, 1º Suplemento, Série I de 1975-04-16
+  number: '89'
+  series: I
+  supplement: null
+  pages: 576-(4) a 576-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08901/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '497833'
+  dre_path: /dr/detalhe/decreto-lei/205-c-1975-497833
+  internal: pt:dre:497833:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-c-1975-497833
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-c-1975-497833
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:39:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 48f8de10816fada20ba128aff793f6da7dd7a0668de5d9da2efcb0392c8787ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Administrativa
+- Companhia Nacional de Navegação
+- Nacionalização
+- Transporte Marítimo
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:407326:por
+  label: "Incorporada na Companhia Portuguesa de Transportes Marítimos, nacionalizada pelo presente diploma, a Sofamar - nacionalizada\
+    \ pelo Dec Lei 701-C/75 de 17-Dez - e transferidos para aquela a universalidade dos respectivos bens, direitos e obrigações,\
+    \ assim o activo e o passivo, e respectivos trabalhadores, pelo DEC.809/76.08.11.1976.MTC, DR.IS [261] de 08.11.1976\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/809-1976-407326
+  date: '1976-11-08'
+- type: corrected_by
+  target: pt:dre:335888:por
+  label: "Rectificado o n.º 1 do artigo 4.º pela RECT.DD279.07.06.1975.PCM, DG.IS [131] de 07.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-335888
+  date: '1975-06-07'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:39:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 205-C/75
+
+de 16 de Abril
+
+1. A indústria dos transportes marítimos tem uma grande importância política, social e económica, e há já bastantes anos tem vindo a ser exercida sob contrôle dos grandes grupos monopolistas.
+
+O transporte marítimo, do qual depende a quase totalidade do nosso comércio externo, tem servido, por isso mesmo, de terreno a uma luta surda entre grandes interesses económicos, reduzindo-se a acção supostamente coordenadora do Estado fascista a simples capa para vultosos financiamentos feitos a expensas dos dinheiros públicos.
+
+Uma perfeita e total coordenação da nossa política económica em matéria de comércio externo exige a integração do sector dos transportes marítimos na planificação geral da referida política.
+
+A Companhia Nacional de Navegação, S. A. R. L., domina cerca de metade da actividade no sector da marinha de comércio, quer pelo número de postos de trabalho, quer pelo volume de vendas, sendo controlada pelo grupo Cuf e servindo de base ao contrôle de múltiplas empresas, nomeadamente de estiva, tráfego, agências de navegação e viagens (empresas subsidiárias de navegação), etc.
+
+A concretização de uma política visando defender os interesses nacionais e servir as classes trabalhadoras e as camadas da população mais desfavorecidas impõe a necessidade de se criarem e ou incrementarem novos tráfegos, só possíveis com a integração e planificação de todo o sector de transportes marítimos.
+
+2. Com a recente nacionalização da banca, das companhias seguradoras e ainda da Tabaqueira, já prevista, o Estado ficará detentor de cerca de 40% do capital social da Companhia Nacional de Navegação, S. A. R. L.
+
+O financiamento excede 1,7 milhões de contos, sendo cerca de 1,2 milhões de contos concedidos pelo Fundo de Renovação da Marinha Mercante e banca nacional e o restante obtido no mercado financeiro internacional com aval do Estado.
+
+Tudo isto, em que sobressai a necessidade de reestruturação e planificação do sector, acrescido das novas exigências e perspectivas na área das relações diplomáticas e comerciais emergentes do processo revolucionário em curso, aconselha a nacionalização da Companhia Nacional de Navegação, S. A. R. L.
+
+Uma análise a realizar a curto prazo permitirá determinar com justeza a forma e o montante das indemnizações a fixar para os detentores das acções respectivas do capital privado.
+
+3. A nacionalização da Companhia Nacional de Navegação, S. A. R. L., insere-se no princípio consignado no Programa do Movimento das Forças Armadas, de uma maior intervenção do Estado nos sectores básicos da vida económica, designadamente junto de actividades de interesse nacional, devendo a sua gestão ser assegurada com flexibilidade suficiente para salvaguardar o interesse colectivo.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. A Companhia Nacional de Navegação, S. A. R. L., é declarada nacionalizada com eficácia a contar de 15 de Abril de 1975.
+
+2. A nacionalização prevista no n.º 1 é feita sem prejuízo do direito dos actuais titulares de acções representativas de capital privado a serem indemnizados.
+
+Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Companhia Nacional de Navegação, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização, a definir, quanto ao montante, prazo e forma de pagamento, em diploma legal, a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+
+Art. 3.º - 1. A empresa nacionalizada será reestruturada e regida basicamente por estatuto a definir por diploma legal dentro de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+
+2. Até à promulgação do estatuto a que se refere o número anterior, a empresa será gerida por uma comissão administrativa a nomear por despacho do Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
+
+Art. 4.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Companhia Nacional de Navegação, S. A. R. L., são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização, ou a ele igualmente afectos.
+
+2. O disposto no número anterior constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
+
+Art. 5.º - 1. A empresa nacionalizada assumirá em relação a todos os actos praticados e contratos celebrados pela Companhia Nacional de Navegação, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
+
+2. A empresa nacionalizada assumirá igualmente a posição social que a Companhia Nacional de Navegação, S. A. R. L., detiver em sociedades em que seja sócia à data do início da eficácia da nacionalização.
+
+Art. 6.º O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Companhia Nacional de Navegação, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
+
+Art. 7.º - 1. Enquanto não entrarem em vigor novos regulamentos e novas taxas e tarifas, mantém-se o disposto nos diplomas legais e regulamentos internos vigentes, bem como as actuais taxas e tarifas.
+
+2. Até entrar em vigor o regime a definir no estatuto a que se refere o n.º 1 do artigo 3.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado na Companhia Nacional de Navegação, S. A. R. L., bem como as convenções de trabalho celebradas, às quais tem estado vinculada a Companhia e o seu pessoal, assumindo a empresa nacionalizada as posições que antes cabiam à Companhia Nacional de Navegação, S. A. R. L.
+
+Art. 8.º Este diploma entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Mário Alberto Nobre Lopes Soares - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Álvaro Augusto Veiga de Oliveira.
+
+Promulgado em 16 de Abril de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

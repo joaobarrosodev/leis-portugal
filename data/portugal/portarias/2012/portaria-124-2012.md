@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:553052:por
+title: Portaria n.º 124/2012
+short_title: null
+summary: Determina a extensão das alterações do contrato coletivo entre a AIPAN - Associação dos Industriais de Panificação,
+  Pastelaria e Similares do Norte e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e
+  Turismo de Portugal e outras (setores de fabrico, expedição e vendas, apoio e manutenção, Norte)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 124/2012
+official_date: null
+publication_date: '2012-05-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 88/2012, Série I de 2012-05-07
+  number: '88'
+  series: I
+  supplement: null
+  pages: 2384 - 2385
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/08800/0238402385.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/124/2012/05/07/p/dre/pt/html
+  oj: null
+  dre: '553052'
+  dre_path: /dr/detalhe/portaria/124-2012-553052
+  internal: pt:dre:553052:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-2012-553052
+  metadata_url: https://data.dre.pt/eli/port/124/2012/05/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-2012-553052
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b5daf027cde4e0fbf8415fc4c0d3443935aa896ddc69e5e871395ffefc24a8ec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato Coletivo de Trabalho
+- Indústria Agro-alimentar
+- Indústria Alimentar
+- Indústria da Panificação
+- Indústria Hoteleira
+- Indústria Pasteleira
+- Regulamento de Extensão
+- Relações de Trabalho
+- Remuneração
+- Trabalhador por Conta de Outrem
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:52:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 124/2012
+
+de 7 de maio
+
+As alterações do contrato coletivo entre a AIPAN - Associação dos Industriais de Panificação, Pastelaria e Similares do Norte e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal e outras (setores de fabrico, expedição e vendas, apoio e manutenção, Norte), publicado no Boletim do Trabalho e Emprego, n.º 19, de 22 de maio de 2011, abrangem as relações de trabalho entre empregadores que se dediquem à atividade industrial e ou comercial, em estabelecimentos simples ou polivalentes ou mistos, no âmbito da panificação e ou da pastelaria e ou similares, em estabelecimentos que usam as consagradas denominações «padaria», «pastelaria», «padaria/pastelaria», «estabelecimento especializado de venda de pão e produtos afins», «boutique de pão quente», «confeitaria», «cafetaria» e «geladaria», com ou sem «terminais de cozedura», e trabalhadores ao seu serviço, uns e outros representados pelas associações que os outorgaram.
+
+A FESAHT requereu a extensão do contrato coletivo às relações de trabalho entre empregadores e trabalhadores não representados pelas associações outorgantes e que na área da convenção se dediquem à mesma atividade.
+
+Foi publicado no Boletim do Trabalho e Emprego, n.º 25, de 8 de julho de 2011, o aviso relativo à intenção de o extinto Ministério do Trabalho e da Solidariedade Social proceder à emissão da extensão em apreço, ao qual não foi deduzida oposição por parte dos interessados.
+
+Importa salientar que o procedimento administrativo conducente à publicação da presente portaria desenvolveu-se na atual situação de grave crise económica que se vive em Portugal e em que urge a concretização da retoma do crescimento económico, a criação de empregos e a melhoria do nível de competitividade das empresas.
+
+Porém, ponderadas as circunstâncias sociais e económicas justificativas da extensão, previstas no n.º 2 do artigo 514.º do Código do Trabalho, é conveniente promover a extensão das alterações da convenção em causa. Contudo, atento o referido contexto, a que acresce a vigência do Programa de Assistência Económica e Financeira a Portugal, procede-se à mesma extensão com uma produção de efeitos diferente da inicialmente prevista.
+
+A referida convenção atualiza a tabela salarial. O estudo de avaliação do impacto da extensão da tabela salarial teve por base as retribuições efetivas praticadas nos setores abrangidos pela convenção, apuradas pelos quadros de pessoal de 2009 e atualizadas com base no aumento percentual médio das tabelas salariais das convenções publicadas nos anos intermédios. Os trabalhadores a tempo completo dos setores abrangidos pela convenção, com exclusão dos praticantes, aprendizes e de um grupo residual, são 8045, dos quais 5412 (67,3 %) auferem retribuições inferiores às convencionais, sendo que 661 (8,2 %) auferem retribuições inferiores às da convenção em mais de 5,7 %.
+
+A convenção atualiza, ainda, o valor do subsídio de refeição com um acréscimo de 3,9 %. Considerando a finalidade da extensão e que a mesma prestação foi objeto de extensões anteriores, justifica-se incluí-la na extensão.
+
+As remunerações do nível i da tabela salarial constante do anexo iii são inferiores à retribuição mínima mensal garantida em vigor. No entanto, a retribuição mínima mensal garantida pode ser objeto de reduções relacionadas com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho. Deste modo, as referidas remunerações apenas são objeto de extensão para abranger situações em que a retribuição mínima mensal garantida resultante da redução seja inferior àquelas.
+
+Os setores da confeitaria, cafetaria e da pastelaria, nos distritos de Aveiro, Braga, Bragança, Coimbra, Guarda, Porto, Viana do Castelo, Vila Real e Viseu, têm convenções coletivas próprias celebradas por outras associações de empregadores. Duas das convenções têm sido objeto de extensão. Nestas circunstâncias, naqueles setores, a extensão só se aplica às relações de trabalho em que sejam parte empresas filiadas na associação de empregadores outorgante. Tem-se, também, em consideração a existência, na área da convenção, de outras convenções coletivas de trabalho aplicáveis à indústria e comércio de panificação, celebradas por distintas associações de empregadores.
+
+De acordo com a alínea c) do n.º 1 do artigo 478.º do Código do Trabalho, os instrumentos de regulamentação coletiva de trabalho podem conferir eficácia retroativa às cláusulas de natureza pecuniária. No atual contexto económico e social, que supra se referiu, importa determinar a produção de efeitos para a tabela salarial e para o subsídio de refeição a partir de 1 de abril de 2012.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Economia e do Emprego, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º
+
+1 - As condições de trabalho constantes do contrato coletivo entre a AIPAN - Associação dos Industriais de Panificação, Pastelaria e Similares do Norte e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal e outras (setores de fabrico, expedição e vendas, apoio e manutenção, Norte), publicado no Boletim do Trabalho e Emprego, n.º 19, de 22 de maio de 2011, são estendidas, nos concelhos de Arouca, Castelo de Paiva, Espinho e Feira (distrito de Aveiro), Vila Nova de Foz Coa (distrito da Guarda), Armamar, Cinfães, Lamego, Resende, São João da Pesqueira e Tabuaço (distrito de Viseu) e nos distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real:
+
+a) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que se dediquem à indústria e comércio de panificação e trabalhadores ao seu serviço, das profissões e categorias profissionais nelas previstas;
+
+b) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que exerçam as atividades abrangidas pela convenção e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pelas associações sindicais outorgantes.
+
+2 - O disposto na alínea a) do número anterior não se aplica às relações de trabalho em que sejam parte empregadores filiados na ACIP - Associação do Comércio e da Indústria de Panificação, Pastelaria e Similares e na Associação dos Industriais de Panificação de Lisboa.
+
+3 - As retribuições do nível i da tabela salarial constante do anexo iii da convenção apenas são objeto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante de redução relacionada com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+2 - A tabela salarial e o valor do subsídio de refeição produzem efeitos desde 1 de abril de 2012.
+
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 20 de abril de 2012.

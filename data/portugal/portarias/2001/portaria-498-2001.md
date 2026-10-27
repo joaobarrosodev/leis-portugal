@@ -1,0 +1,275 @@
+---
+schema_version: '1.0'
+id: pt:dre:344774:por
+title: Portaria n.º 498/2001
+short_title: null
+summary: Cria medalhas florestais e aprova o seu Regulamento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 498/2001
+official_date: null
+publication_date: '2001-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2001, Série I-B de 2001-05-14
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2874 - 2878
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/05/111b00/28742878.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/498/2001/05/14/p/dre/pt/html
+  oj: null
+  dre: '344774'
+  dre_path: /dr/detalhe/portaria/498-2001-344774
+  internal: pt:dre:344774:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/498-2001-344774
+  metadata_url: https://data.dre.pt/eli/port/498/2001/05/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/498-2001-344774
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 24bd4b6bff0633947460a4cfea69a9bb36cef2aec6f0757585f1febb84be17c8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Guarda Florestal
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:571025:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:176334:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/1998/04/24/p/dre
+- type: cites
+  target: pt:dre:373391:por
+  label: null
+  source: http://data.dre.pt/eli/port/484/1999/07/03/p/dre
+- type: cites
+  target: pt:dre:380349:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/11/1997/04/30/p/dre
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+- type: cites
+  target: pt:dre:658771:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/256/1997/09/27/p/dre
+- type: repealed_by
+  target: pt:dre:571025:por
+  label: "Revogado, a partir de 21.01.2014, o presente diploma, assim o Regulamento anexo, pela PORT.12/2014.20.01.2014.MAI,\
+    \ DR.IS [13] de 20.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/12-2014-571025
+  date: '2014-01-20'
+article_structure:
+  article_count: 12
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:32:37Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 498/2001
+
+de 14 de Maio
+
+A Lei de Bases da Política Florestal, aprovada pela [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de Agosto, considera a política florestal nacional como fundamental para o desenvolvimento e fortalecimento das instituições e programas para a gestão, conservação e desenvolvimento sustentável das florestas e sistemas naturais associados, visando a satisfação das necessidades da comunidade.
+
+A execução da política florestal constitui uma atribuição fundamental do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, através da Direcção-Geral das Florestas, investida em autoridade florestal nacional pelo [Decreto-Lei n.º 256/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1997-658771), de 27 de Setembro, sendo responsável pela política florestal e legalmente competente para o exercício de funções de autoridade.
+
+Para melhor concretizar os seus objectivos de autoridade e política florestal, bem como coordenar os meios ao seu dispor para a fiscalização da sua aplicação, foi criado o Corpo Nacional da Guarda Florestal, previsto no artigo 30.º do [Decreto Regulamentar n.º 11/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1997-380349), de 30 de Abril.
+
+O [Decreto-Lei n.º 111/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1998-176334), de 24 de Abril, veio revalorizar a carreira de guarda florestal que integra o Corpo Nacional da Guarda Florestal da Direcção-Geral das Florestas.
+
+Ao Corpo Nacional da Guarda Florestal estão cometidas importantes funções no âmbito da protecção e conservação da floresta, da caça e pesca e de outros recursos silvestres.
+
+Pela importância estratégica da sua acção na aplicação da política florestal e na fiscalização do cumprimento da legislação florestal, importa dignificar o desempenho daquelas funções e a sua imagem pública, estimulando os seus elementos a um cumprimento empenhado e competente da sua missão.
+
+Com tal objectivo, e à semelhança da [Portaria n.º 484/99](https://diariodarepublica.pt/dr/detalhe/portaria/484-1999-373391), de 3 de Julho, que criou as medalhas de honra da agricultura e das pescas, é criado um regime de atribuição de condecorações e medalhas aos membros do Corpo Nacional da Guarda Florestal que se distingam no desempenho das suas funções com exemplar zelo, competência e mérito.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto nos artigos 2.º dos Decretos-Leis n.os [74/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1996-435397) e [111/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1998-176334), respectivamente de 18 de Junho e 24 de Abril, o seguinte:
+
+1.º São criadas as medalhas florestais conforme o Regulamento anexo à presente portaria e da qual faz parte integrante.
+
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 24 de Abril de 2001.
+
+REGULAMENTO DAS MEDALHAS FLORESTAIS
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento institui as medalhas florestais e estabelece os requisitos de atribuição e os critérios que presidem à sua concessão.
+
+###### Artigo 2.º — Âmbito
+
+As medalhas florestais destinam-se a galardoar os mestres e guardas florestais por relevantes serviços prestados no âmbito da sua actividade ou a premiar excepcionais qualidades profissionais e humanas.
+
+###### Artigo 3.º — Modalidades
+
+1 - As medalhas florestais compreendem as seguintes modalidades:
+
+a) Medalha de mérito - destinada a galardoar os mestres e guardas florestais que ao longo da sua carreira se tenham distinguido pela sua dedicação ao serviço e pelas suas excepcionais qualidades profissionais e humanas;
+
+b) Medalha de valor florestal - destinada a galardoar os mestres e guardas florestais que no exercício das suas funções se distingam de forma relevante na defesa do património florestal, cinegético e piscícola;
+
+c) Medalha de comportamento exemplar - destinada a galardoar os mestres e guardas florestais que no exercício das suas funções revelem exemplar conduta ética e disciplinar e comprovado espírito de lealdade.
+
+2 - A medalha de comportamento exemplar compreende os seguintes graus, de acordo com o número de anos de serviço na carreira:
+
+Medalha de ouro;
+
+Medalha de prata;
+
+Medalha de cobre.
+
+3 - O formato e as características físicas das medalhas constam do anexo ao presente Regulamento, do qual faz parte integrante.
+
+### CAPÍTULO II — Critérios de atribuição
+
+###### Artigo 4.º — Medalha de mérito
+
+A medalha de mérito é atribuída a mestres e guardas florestais que possuam no mínimo 20 anos de serviço na carreira e que preencham os seguintes requisitos:
+
+a) Tenham registado um louvor individual concedido pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+b) Tenham boas informações dos seus superiores hierárquicos.
+
+###### Artigo 5.º — Medalha de valor florestal
+
+1 - A medalha de valor florestal é atribuída com base em louvor, onde as acções e serviços prestados sejam expressamente citados.
+
+2 - A medalha de valor florestal pode ser atribuída, excepcionalmente, a outros funcionários ou entidades, públicas ou privadas, que individual ou colectivamente tenham contribuído para a defesa, promoção ou valorização do património florestal, cinegético e piscícola.
+
+###### Artigo 6.º — Medalha de comportamento exemplar
+
+A medalha de comportamento exemplar é atribuída, com base em proposta do superior hierárquico devidamente fundamentada, aos mestres e guardas florestais que tenham demonstrado uma exemplar competência e uma boa conduta ética e disciplinar, em função dos seguintes anos de serviço na carreira:
+
+a) Medalha de ouro - mínimo de 20 anos;
+
+b) Medalha de prata - mínimo de 15 anos;
+
+c) Medalha de cobre - mínimo de 10 anos.
+
+### CAPÍTULO III — Processo de atribuição
+
+###### Artigo 7.º — Conselho da medalha
+
+1 - É criado um conselho da medalha, que procede à análise das propostas de atribuição das medalhas.
+
+2 - O conselho da medalha é presidido pelo director-geral das Florestas e composto pelos seguintes vogais:
+
+a) Os directores regionais de Agricultura da área a que pertencem os mestres ou guardas florestais;
+
+b) O chefe de divisão de Coordenação do Corpo Nacional da Guarda Florestal.
+
+###### Artigo 8.º — Atribuição
+
+1 - As medalhas de mérito e de valor florestal são atribuídas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do conselho da medalha.
+
+2 - As medalhas de comportamento exemplar são atribuídas pelo director-geral das Florestas, sob proposta do conselho da medalha.
+
+3 - A atribuição das medalhas é feita uma vez por ano e de preferência no dia 25 de Maio, Dia Nacional do Guarda Florestal, criado por despacho do Ministro da Agricultura, Pescas e Alimentação de 1 de Setembro de 1989.
+
+### CAPÍTULO IV — Uso e formalidades
+
+###### Artigo 9.º — Uso
+
+1 - As medalhas são usadas do lado esquerdo do peito pela seguinte ordem:
+
+1.º Medalha de mérito;
+
+2.º Medalha de valor florestal;
+
+3.º Medalha de comportamento exemplar.
+
+2 - Os agraciados com a medalha de comportamento exemplar e que venham a ser galardoados com outra medalha da mesma classe, correspondente a maior número de anos de serviço na carreira, deixam de usar a que anteriormente lhes foi atribuída.
+
+3 - Os agraciados com medalhas florestais usam a fivela e a correspondente fita em todos os uniformes.
+
+###### Artigo 10.º — Perda do direito de uso
+
+Todo aquele que for condenado por crime ou por infracção disciplinar a que corresponde a pena de demissão da função pública perde o direito a usar qualquer das medalhas referidas no presente diploma.
+
+###### Artigo 11.º — Formalidades
+
+1 - A atribuição de medalhas florestais é confirmada através de diploma.
+
+2 - O uso das medalhas deve ser sempre indicado em ordem de serviço.
+
+3 - Haverá um livro de registo na Direcção-Geral das Florestas para as medalhas atribuídas.
+
+### CAPÍTULO V — Disposições finais
+
+###### Artigo 12.º
+
+## Título póstumo
+
+As medalhas de mérito e de valor florestal podem ser atribuídas a título póstumo.
+
+## ANEXO — (a que se refere o n.º 3 do artigo 3.º)
+
+1 - Medalha de mérito - a medalha de mérito é fabricada em prata e acabamento dourado a ouro fino, tendo uma estrela de quatro pontas, assente sobre uma coroa de carvalho, esmaltada a verde transparente, com círculo sobreposto, esmaltado a branco com a legenda «Serviços Florestais - Mérito» e em sobreposição o símbolo do Corpo Nacional da Guarda Florestal, recortado e esmaltado, nas cores respectivas, sobre fundo de ouro, com a dimensão de 50 mm, ligeiramente côncava em perspectiva, a quatro planos.
+
+A medalha será suspensa por argola articulada com canevão e fita de seda com 30 mm de largura com sete filetes verticais, sendo o do centro de cor verde, com 8 mm de largura e os exteriores de cor branca, levando estes uma lista de cor verde, com 1 mm de largura, com uma fivela vazada encimada por uma travinca.
+
+2 - Medalha de valor florestal - a medalha de valor florestal é fabricada em prata e acabamento dourado a ouro fino, tendo um resplendor com nove pontas, com um círculo sobreposto, esmaltado a branco com a legenda «Serviços Florestais - Valor Florestal» e em sobreposição o símbolo do Corpo Nacional da Guarda Florestal, recortado e esmaltado nas cores respectivas, sobre fundo de ouro, com a dimensão de 45 mm, ligeiramente côncava em perspectiva, a quatro planos.
+
+A medalha será suspensa por argola articulada com canevão e fita de seda com 30 mm de largura, com três filetes verticais, sendo o do centro de cor verde, com 20 mm de largura, e os exteriores de cor branca.
+
+3 - Medalhas de comportamento exemplar - as medalhas de comportamento exemplar são fabricadas em prata dourada, em prata e em bronze, de formato circular, com 42 mm de diâmetro e 2 mm de espessura. Ostentam o símbolo do Corpo Nacional da Guarda Florestal e, a circundar o mesmo, a legenda «Comportamento Exemplar - Serviços Florestais». No reverso estão ornamentadas com folhas de carvalho em alto relevo.
+
+A medalha será suspensa por argola articulada com canevão e fita de seda com 30 mm de largura, com três filetes verticais de igual largura, sendo os exteriores de cor amarela para a medalha de ouro, verde para a medalha de prata e castanha para a medalha de cobre e o do centro de cor branca.
+
+[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2001/05/111b00/28742878.pdf)

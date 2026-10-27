@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222151331:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/mapa-oficial/2023-223254375",
+ "dre_path": "/dr/detalhe/mapa-oficial/1-a-2023-222151331",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223150720"
+   ]
+  }
+ ],
+ "fragments": {
+  "223150720": {
+   "fragment_id": "223254376",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Mapa Oficial n.º 1-A/2023\nSumário: Mapa oficial com o resultado da eleição e a relação dos deputados eleitos para a Assembleia Legislativa da Região Autónoma da Madeira em 24 de setembro de 2023.\nEleição dos deputados para a Assembleia Legislativa da Região Autónoma da Madeira realizada em 24 de setembro de 2023\nNos termos do disposto no artigo 122.º da Lei Orgânica n.º 1/2006, de 13 de fevereiro, alterada e republicada pela Lei Orgânica n.º 1/2009, de 19 de janeiro, a Comissão Nacional de Eleições faz publicar, por partidos ou coligações, o mapa oficial com o resultado da eleição e a relação dos nomes dos deputados eleitos para a Assembleia Legislativa da Região Autónoma da Madeira em 24 de setembro de 2023:\n\n| Resultados | Total | %/INSC | %/VTT | %/VVE* | MD |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n| Inscritos... | 253 877 | - | - | - | - |\n| Votantes... | 135 446 | 53,35 % | - | - | - |\n| Abstenção... | - | 46,65 % | - | - | - |\n| Brancos... | 842 | - | 0,62 % | - | - |\n| Nulos... | 2 828 | - | 2,09 % | - | - |\n| Votos validamente expressos... | 131 776 | - | 97,29 % | - | - |\n| Partido Trabalhista Português... | 1 369 | - | - | 1,04 % | 0 |\n| Juntos pelo Povo... | 14 933 | - | - | 11,33 % | 5 |\n| Bloco de Esquerda... | 3 035 | - | - | 2,30 % | 1 |\n| Partido Socialista... | 28 840 | - | - | 21,89 % | 11 |\n| CHEGA... | 12 029 | - | - | 9,13 % | 4 |\n| Reagir Incluir Reciclar... | 727 | - | - | 0,55 % | 0 |\n| Partido da Terra... | 696 | - | - | 0,53 % | 0 |\n| ALTERNATIVA DEMOCRÁTICA NACIONAL... | 617 | - | - | 0,47 % | 0 |\n| SOMOS MADEIRA... | 58 394 | - | - | 44,31 % | 23 |\n| PESSOAS - ANIMAIS - NATUREZA... | 3 046 | - | - | 2,31 % | 1 |\n| LIVRE... | 858 | - | - | 0,65 % | 0 |\n| CDU - Coligação Democrática Unitária... | 3 677 | - | - | 2,79 % | 1 |\n| Iniciativa Liberal... | 3 555 | - | - | 2,70 % | 1 |\n\n% - percentagem\nINSC - inscritos;\nVTT - votantes;\nVVE - votos validamente expressos.\n* nos termos da alínea D) do artigo 122.º da LEALRAM.\nMD - número de mandatos.\n\nSOMOS MADEIRA (PPD/PSD.CDS-PP)\nMiguel Filipe Machado de Albuquerque.\nRui Miguel da Silva Barreto.\nJosé Luís Nunes.\nJosé Jardim Mendonça Prada.\nJaime Filipe Gil Ramos.\nRubina Maria Branco Leal Vargas.\nCarlos Alberto Rodrigues.\nBruno Miguel Barroso de Moura Melim.\nClara Tiago de Sousa Coelho.\nPedro Emanuel Abreu Coelho.\nBricio André Martins de Araújo.\nCláudia Marina Rodrigues Gomes.\nCarlos Manuel Figueira de Ornelas Teles.\nRicardo António Nascimento.\nJosé Manuel de Sousa Rodrigues.\nRui David Pita Marques Luís.\nCláudia Carina Marques Perestrelo.\nJosé António Gonçalves Garcês.\nCarla Cristina Santos Rosado.\nEdegar Valter Castro Correia.\nCarlos José Fernandes Ribeiro.\nAna Maria Sousa de Freitas.\nAntónio Manuel Lopes da Fonseca.\n\nPartido Socialista (PS)\nSérgio Miguel Sousa Gonçalves.\nSancha de Carvalho e Campanella.\nRui Alberto Pereira Caetano.\nSílvia Cristina Sousa da Silva.\nAvelino Perestrelo da Conceição.\nMaria Isabel de Ponte Garcês.\nVictor Sérgio Spínola de Freitas.\nOlga Maria de Ascenção Fernandes.\nJacinto Serrão de Freitas.\nGonçalo Gomes de Sousa Aguiar.\nMaria Patrícia Gonçalves Agrela.\nJuntos pelo Povo (JPP)\nÉlvio Duarte Martins Sousa.\nPaulo Tarsício de Gouveia Rodrigues Alves.\nRafael Fabrício Gomes Nunes.\nEmília Patrícia Mendonça Spínola.\nLina Graciela Jardim Pereira.\n\nCHEGA (CH)\nBasílio Miguel Câmara Castro.\nMagna Mendonça Ferreira da Costa.\nCelestino Gomes Sebastião.\nMaíza Georgia Mendonça Gomes Fernandes.\n\nCDU - Coligação Democrática Unitária (PCP-PEV)\nEdgar Freitas Gomes da Silva.\n\nIniciativa Liberal (IL)\nHumberto Nuno de Carvalho Homem e Morna Gomes.\n\nPESSOAS - ANIMAIS - NATUREZA (PAN)\nMónica Alexandra Soares Freitas Marciel.\n\nBloco de Esquerda (B.E.)\nRoberto Carlos Teixeira de Almada."
+  }
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3760:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3760-20030101",
+ "dre_path": null,
+ "source_lastmod": "2003-01-01",
+ "versions": [
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "celex": "31992R3760",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1e5ebca74f05790d",
+    "d30d5bcdae0a957d",
+    "289bf1279e072c2f",
+    "64a8b0cffbe34702",
+    "bae3568f6b545cd6",
+    "213946e70e49bcd6",
+    "97939fdaa26609bd",
+    "9ff3960b8b1c8cc3",
+    "db1798eafe13141b",
+    "2e72903689b049b9",
+    "9129413650fc0959",
+    "aaf7b3026e6f2519",
+    "7fa21f3e04eba1a9",
+    "729bd5a7def83a56",
+    "4ccddf7b9890d952",
+    "680296ef9a2ae815",
+    "3bdfbc9580a1ee57",
+    "0b6ff9aa8e9c61c6",
+    "8d97d28ee086e18f",
+    "95a63a7952026815",
+    "1f0c04d14207d561",
+    "273991fca5af4246",
+    "1b2da448c206574f",
+    "e9af3f0ba70dc992"
+   ]
+  },
+  {
+   "date": "2003-01-01",
+   "future": false,
+   "celex": "01992R3760-20030101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime TÍTULO I Regras de acesso às águas e aos recursos — Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime TÍTULO II Gestão e controlo do esforço de pesca — Artigo 11o",
+    "Suprime TÍTULO III Disposições gerais — Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime ANEXO I (1) — FAIXA COSTEIRA DO REINO UNIDO ENTRE 6 E 12 MILHAS",
+    "Suprime ANEXO II — ZONAS SENSÍVEIS NA ACEPÇAO DO ARTIGO 7o ZONA SHETLAND"
+   ],
+   "fragments": [
+    "ec9cd80dcc72b587"
+   ]
+  }
+ ],
+ "fragments": {
+  "1e5ebca74f05790d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3760/92 do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura** *Jornal Oficial nº L 389 de 31/12/1992 p. 0001 - 0014 Edição especial finlandesa: Capítulo 4 Fascículo 4 p. 0154 Edição especial sueca: Capítulo 4 Fascículo 4 p. 0154*\n\nREGULAMENTO (CEE) N° 3760/92 DO CONSELHO de 20 de Dezembro de 1992 que institui um regime comunitário da pesca e da aquicultura\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o;\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o sistema comunitário de conservação e gestão dos recursos da pesca, previsto no Regulamento (CEE) n° 170/83 do Conselho, de 25 de Janeiro de 1983, que institui um regime comunitário e de gestão dos recursos da pesca (4), provou ser um instrumento eficaz; que, contudo, algumas unidades populacionais, tanto em águas comunitárias como fora delas, continuaram a degradar-se, sendo consequentemente necessário melhorar e ampliar as medidas de conservação existentes;\n\nConsiderando que se deve prosseguir o objectivo de uma exploração racional e responsável dos recursos aquáticos vivos e da aquicultura, reconhecendo os interesses do sector no que se refere ao seu desenvolvimento a longo prazo e às suas condições económicas e sociais e os interesses dos consumidores, tendo em conta as restrições biológicas, sem negligenciar o ecossistema marinho;\n\nConsiderando que é necessário gerir a pesca caso a caso de modo a garantir o equilíbrio entre os recursos disponíveis e acessíveis e todos os parâmetros susceptíveis de influenciar a mortalidade por pesca;\n\nConsiderando que, para racionalizar e responsabilizar a exploração dos recursos, é necessário aumentar a selectividade das artes e dos métodos de pesca, a fim de optimizar a utilização das potencialidades biológicas e a limitação das devoluções;\n\nConsiderando que, sem prejuízo dos regimes comunitários específicos de licença, a introdução de um regime comunitário geral de licenças de pesca atribuídas ao navio por via administrativa e emitidas e geridas pelos Estados-membros pode contribuir para melhorar a regulamentação da exploração e a sua transparência;\n\nConsiderando que devem ser estabelecidas disposições especiais para a pesca costeira; que, para tal, em derrogação ao Regulamento (CEE) n° 101/76 do Conselho, de 19 de Janeiro de 1976, que estabelece uma política comum de estruturas no sector da pesca (5), os Estados-membros devem ser autorizados a manter, até 31 de Dezembro de 2002, as actuais restrições de acesso às águas sob a sua soberania ou jurisdição situadas aquém de um limite máximo de 12 milhas marítimas, calculado a partir das linhas de base, tal como estava previsto à data da adopção do Regulamento (CEE) n° 170/83 do Conselho e, para os Estados que aderiram à Comunidade após essa data, no momento da sua adesão;\n\nConsiderando que as actuais disposições relativas às regras de acesso para os navios de pesca dos outros Estados-membros cuja actividade de pesca se exerça tradicionalmente nas águas situadas aquém desse limite de 12 milhas deverão ser igualmente renovadas até 31 de Dezembro de 2002;\n\nConsiderando que, antes dessa data, o Conselho deve decidir das disposições que poderão seguir-se a essas restrições e medidas;\n\nConsiderando que devem ser mantidas as disposições especiais relativas à actividade de pesca numa região sensível;\n\nConsiderando que, tendo em vista uma conservação eficaz, se devem limitar as taxas de exploração de certos tipos de recursos, sendo possível fixá-las numa base anual ou plurianual e/ou, sempre que necessário, numa base de espécies múltiplas; que as referidas decisões têm importantes efeitos no desenvolvimento económico e social das regiões dos Estados-membros em que a pesca é uma indústria importante e que, por conseguinte, essas decisões devem ser tomadas pelo Conselho sob proposta da Comissão;\n\nConsiderando que, em relação aos tipos de recursos cujas taxas de exploração devem ser limitadas, as possibilidades de pesca da Comunidade devem ser fixadas em termos de possibilidades de pesca para os Estados-membros, repartidas em quotas e, sempre que necessário, em termos de esforço de pesca;\n\nConsiderando que a conservação e a gestão dos recursos devem contribuir para uma maior estabilidade das actividades de pesca e ser avaliadas com base numa repartição de referência que reflicta as orientações dadas pelo Conselho;\n\nConsiderando que, por outro lado, essa estabilidade, dada a situação biológica temporária das unidades populacionais, deve salvaguardar as necessidades especiais das regiões em que as populações locais estão especialmente dependentes da pesca e de actividades subsidiárias, tal como foi decidido pelo Conselho na sua Resolução de 3 de Novembro de 1976 e, em especial, no seu anexo VII;\n\nConsiderando, portanto, que é nesse sentido que se deve compreender a noção de estabilidade relativa pretendida;\n\nConsiderando que as possibilidades comunitárias de pesca que ainda não foram exploradas devem ser repartidas tendo em conta os interesses de todos os Estados-membros;\n\nConsiderando que o sector comunitário da pesca deve ser reestruturado de forma a alinhá-lo com os recursos disponíveis e acessíveis e que se devem ter em conta as características de cada tipo de pesca e o seu eventual impacte económico e social; que devem ser estabelecidas, a nível comunitário, as directrizes para a reestruturação da indústria pesqueira comunitária;\n\nConsiderando que, de forma a garantir uma aplicação adequada da política comum de pescas, deve ser criado um regime de controlo comunitário que se aplique a todo o sector, tendo em conta o princípio da proporcionalidade;\n\nConsiderando que se deve prever uma disposição para a adopção de medidas de emergência no caso de perturbações graves susceptíveis de pôr em perigo os objectivos de conservação dos recursos;\n\nConsiderando que, para assegurar a utilização adequada dos dados científicos, técnicos e económicos que permitem apreciar a situação das pescas e a sua evolução previsível, é conveniente instituir um comité de carácter consultivo; que esse comité deve igualmente elaborar relatórios sobre as implicações económicas da sua consultoria a nível biológico;\n\nConsiderando que a tomada de decisões, a sua aplicação e controlo devem ser feitos ao nível mais adequado;\n\nConsiderando que, para facilitar a aplicação do presente regulamento, é conveniente prever um processo de estreita cooperação entre os Estados-membros e a Comissão, no âmbito de um comité de gestão das pescas e da aquicultura;\n\nConsiderando que, dado o número e a complexidade das alterações a efectuar, há que revogar e substituir o Regulamento (CEE) n° 170/83,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d30d5bcdae0a957d": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA política comum da pesca abrange as actividades de exploração relacionadas com os recursos aquáticos vivos e com a aquicultura, bem como a transformação e comercialização dos produtos da pesca e da aquicultura, sempre que essas actividades sejam exercidas no território dos Estados-membros, em águas de pesca comunitárias ou por navios de pesca comunitários."
+  },
+  "289bf1279e072c2f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. No que se refere às actividades de exploração, os objectivos gerais da política comum da pesca serão proteger e manter disponíveis e acessíveis os recursos aquáticos marinhos vivos e prever a sua exploração racional e responsável, numa base sustentável, em condições económica e socialmente apropriadas para o sector, tendo em conta as suas implicações para o ecossistema marinho e tendo especialmente em conta as necessidades dos produtores e dos consumidores.\n\nPara esse efeito, è estabelecido um regime comunitário de gestão das actividades de exploração que permitirá alcançar, de forma duradoura, um equilíbrio entre os recursos e a exploração nas diferentes áreas da pesca.\n\n2. O objecto do presente regulamento é estabelecer uma estrutura para a conservação e a protecção dos recursos, competindo aos Estados-membros assegurar que as actividades não profissionais não comprometam a conservação e a gestão dos recursos abrangidos pela política comum da pesca.\n\nPara esse efeito e a fim de garantir actividades de exploração sustentáveis, o presente regulamento estabelece um enquadramento para a regulamentação do acesso, da gestão e do controlo das actividades de exploração, bem como os meios e processos necessários."
+  },
+  "64a8b0cffbe34702": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Águas de pesca comunitárias», as águas sob a soberania ou jurisdição dos Estados-membros;\n\nb) «Recursos», as espécies vivas marinhas aquáticas, incluindo as anádromas e as catádromas disponíveis e acessíveis durante a sua vida marinha;\n\nc) «Navio de pesca», qualquer navio equipado para a exploração comercial de recursos;\n\nd) «Navio de pesca comunitário», o navio de pesca que arvore pavilhão de um Estado-membro e esteja registado na Comunidade;\n\ne) «Taxa de exploração», a proporção das capturas efectuadas durante um dado período em relação ao stock total;\n\nf) «Esforço de pesca» de um navio, o produto da sua capacidade e da sua actividade; e esforço de pesca de uma frota ou grupo de navios, a soma dos esforços de pesca de cada navio;\n\ng) «Possibilidade de pesca comunitária», a possibilidade de pesca de que a Comunidade dispõe nas águas de pesca comunitárias, acrescida da totalidade das possibilidades de pesca da Comunidade fora das águas de pesca comunitárias e subtraída a totalidade das disponibilidades de pesca atribuídas a países terceiros."
+  },
+  "bae3568f6b545cd6": {
+   "fragment_id": "TÍTULO I Regras de acesso às águas e aos recursos — Artigo 4o",
+   "type": "divisao",
+   "heading": "TÍTULO I Regras de acesso às águas e aos recursos — Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Regras de acesso às águas e aos recursos — Artigo 4o\n\n1. Com o objectivo de garantir uma exploração racional e responsável dos recursos numa base sustentável, o Conselho, deliberando, salvo disposição em contrário, de acordo com o processo previsto no artigo 43o do Tratado, estabelecerá as medidas comunitárias que estipulem as condições de acesso às águas e aos recursos e de exercício das actividades de exploração. Essas medidas serão elaboradas em função das análises biológicas, socioeconómicas e técnicas disponíveis, e, especialmente, dos relatórios elaborados pelo comité previsto no artigo 12o 2. Essas disposições podem incluir, nomeadamente, medidas relativas a cada pescaria ou grupo de pescarias destinadas a:\n\na) Estabelecer zonas em que as actividades de pesca sejam proibidas ou limitadas;\n\nb) Limitar as taxas de exploração;\n\nc) Fixar limites de captura quantitativos;\n\nd) Limitar o tempo passado no mar, tendo, se necessário, em conta as distâncias a que se encontram as águas de pesca;\n\ne) Determinar o número e o tipo de navios de pesca autorizados a pescar;\n\nf) Definir medidas técnicas relativas às artes de pesca e respectivo modo de utilização;\n\ng) Fixar o tamanho ou o peso mínimo dos exemplares que podem ser capturados;\n\nh) Criar incentivos, inclusivamente de carácter económico, para a promoção de pescas mais selectivas."
+  },
+  "213946e70e49bcd6": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. O Conselho, deliberando de acordo com o processo previsto no artigo 43o do Tratado, instituirá até 31 de Dezembro de 1993 um regime comunitário, que entrará em vigor até 1 de Janeiro de 1995, definindo as regras relativas à informação mínima que deverá constar das licenças de pesca a emitir e gerir pelos Estados-membros.\n\nA partir da data de aplicação do regime comunitário, os Estados-membros devem pôr em funcionamento regimes nacionais de concessão de licenças de pesca. Salvo disposição em contrário, todos os navios de pesca comunitários serão obrigados o possuir uma licença de pesca que acompanhará cada navio.\n\nAs disposições acima referidas são aplicáveis sem prejuízo de regimes específicos que possam estar em vigor a nível comunitário ou dos regimes decorrentes de actuais ou futuros acordos internacionais.\n\n2. Estes regimes de licenças serão aplicáveis a todos os navios de pesca comunitários que operem nas águas de pesca comunitárias, nas águas de países terceiros ou no alto-mar. Os requisitos mínimos de informação da Comunidade serão igualmente aplicáveis a navios de pesca de países terceiros que operem nas águas de pesca comunitárias, sempre que tal esteja previsto em acordos internacionais."
+  },
+  "97939fdaa26609bd": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros estão autorizados a manter, desde 1 de Janeiro de 1993 até 31 de Dezembro de 2002, as disposições definidas no artigo 100o do Acto de Adesão de 1972 e a elevar o limite de seis milhas previsto nesse artigo até 12 milhas marítimas, em relação a todas as águas sob a sua soberania ou jurisdição.\n\n2. Além das actividades exercidas no âmbito das relações de vizinhança existentes entre Estados-membros, as actividades de pesca abrangidas pelo regime estabelecido no n° 1 estão sujeitas às regras previstas no anexo I, que define, para cada Estado-membro, as zonas geográficas da faixa costeira dos outros Estados-membros onde essas actividades são exercidas e as espécies abrangidas."
+  },
+  "9ff3960b8b1c8cc3": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Na região definida no anexo II e em relação às espécies de especial importância dessas regiões, biologicamente sensíveis devido às respectivas características de exploração, as actividades de pesca dos navios de pesca com um comprimento entre perpendiculares não inferior a 26 metros relacionadas com espécies demersais, exceptuados a faneca da Noruega e o pichelim, serão reguladas por um regime de licenças gerido pela Comissão em nome da Comunidade e por processos de comunicação, às autoridades competentes de controlo, das entradas e saídas da região em causa, nos termos do referido anexo.\n\n2. As normas de execução pormenorizadas e os processos de estabelecimento dos regimes de licenças de pesca e de comunicação dos movimentos dos navios de pesca serão adoptados de acordo com o processo previsto no artigo 18o"
+  },
+  "db1798eafe13141b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Nos termos do artigo 4o, a taxa de exploração pode ser regulada pela limitação do volume de capturas autorizadas e, se necessário, do esforço de pesca no período em causa. Quando a limitação das capturas não for adequada, a taxa de exploração pode ser regulada apenas por uma limitação do esforço de pesca.\n\n2. Sempre que se verificar a necessidade de limitar as taxas de exploração dos navios de pesca comunitários numa pescaria em águas de pesca comunitárias ou fora delas, essas limitações serão definidas nos termos dos nos 3 e 4.\n\n3. O Conselho, deliberando de acordo com o processo previsto no artigo 43o do Tratado:\n\ni) Pode determinar objectivos de gestão numa base plurianual, relativos a cada pescaria ou grupos de pescarias, em função das especificidades dos recursos em causa. Sempre que conveniente, esses objectivos devem ser estabelecidos numa base multiespécies. Devem definir-se os objectivos prioritários, incluindo, quando se justifique, o nível dos recursos, as formas de produção, as actividades e os rendimentos;\n\nii) Relativamente a cada pescaria ou grupo de pescarias para os quais tenham sido estipulados objectivos de gestão, deve igualmente determinar estratégias de gestão, se necessário, plurianuais, para cumprir os objectivos estabelecidos, incluindo as condições específicas em que as actividades de exploração serão exercidas;\n\niii) Deve actualizar os objectivos e estratégias determinados, o mais tardar um ano após o termo do período fixado para cada pescaria ou grupo de pescarias.\n\n4. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão:\n\ni) Determinará, para cada pescaria ou grupo de pescarias, e caso a caso, o total admissível de captura e/ou o esforço de pesca total admissível, se necessário, numa base plurianual. Esses totais basear-se-ão nos objectivos e estratégias de gestão que tiverem sido eventualmente adoptados nos termos do n° 3;\n\nii) Repartirá as oportunidades de pesca entre os Estados-membros de modo a assegurar, em relação a cada Estado-membro, uma estabilidade relativa das actividades de pesca para cada stock considerado; contudo, na sequência de pedidos formulados pelos Estados-membros directamente interessados, poderá ser tomado em consideração o estabelecimento de miniquotas e as trocas regulares de quotas feitas desde 1983, tendo na devida atenção o equilíbrio global dos contingentes;\n\niii) Determinará, sempre que a Comunidade fixar novas oportunidades de pesca para uma pescaria ou grupo de pescarias até então inexistentes no âmbito da política comum da pesca, o método de repartição das mesmas, tendo em conta os interesses de todos os Estados-membros;\n\niv) Pode também determinar, caso a caso, as condições de ajustamento das disponibilidades de pesca de um ano para o outro;\n\nv) Pode introduzir, com base em pareceres científicos, ajustamentos intercalares eventualmente necessários aos objectivos e estratégias de gestão."
+  },
+  "2e72903689b049b9": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Os Estados-membros podem, após notificação da Comissão, trocar entre si a totalidade ou parte das disponibilidades de pesca que lhes tenham sido atribuídas.\n\n2. Os Estados-membros informarão anualmente a Comissão dos critérios que tenham adoptado para a repartição e das regras para a utilização das disponibilidades de pesca que lhes tenham sido atribuídas de acordo com o direito comunitário e a política comum da pesca."
+  },
+  "9129413650fc0959": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros podem adoptar medidas de conservação e gestão dos recursos nas águas sob a sua soberania ou jurisdição, desde que essas medidas:\n\n- digam respeito a unidades populacionais exclusivamente locais, apenas de interesse para os pescadores do Estado-membro em questão;\n\nou - se apliquem unicamente aos pescadores do Estado-membro em questão;\n\n- sejam compatíveis com os objectivos referidos nos nos 1 e 2 do artigo 2o e não sejam menos rigorosas do que as medidas adoptadas nos termos do artigo 4o 2. A Comissão será informada, com a antecedência necessária à apresentação das suas observações, de quaisquer planos destinados a introduzir ou alterar medidas nacionais de conservação e gestão dos recursos, de acordo com o processo previsto no artigo 14o do Regulamento (CEE) n° 3094/86."
+  },
+  "aaf7b3026e6f2519": {
+   "fragment_id": "TÍTULO II Gestão e controlo do esforço de pesca — Artigo 11o",
+   "type": "divisao",
+   "heading": "TÍTULO II Gestão e controlo do esforço de pesca — Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II Gestão e controlo do esforço de pesca — Artigo 11o\n\nTendo em conta o disposto no título I, o Conselho definirá, de acordo com o processo previsto no artigo 43o do Tratado, numa base plurianual e pela primeira vez antes de 1 de Janeiro de 1994, os objectivos e regras de reestruturação do sector das pescas da Comunidade, tendo em vista alcançar, numa base sustentável, o equilíbrio entre os recursos e a sua exploração. Essa reestruturação terá igualmente em conta, numa base casuística, as possíveis consequências económicas e sociais e as especificidades das regiões de pescas."
+  },
+  "7fa21f3e04eba1a9": {
+   "fragment_id": "TÍTULO III Disposições gerais — Artigo 12o",
+   "type": "divisao",
+   "heading": "TÍTULO III Disposições gerais — Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Disposições gerais — Artigo 12o\n\n1. Para garantir o cumprimento do presente regulamento, o Conselho, de acordo com o processo previsto no artigo 43o do Tratado, instituirá um sistema de controlo comunitário aplicável a todo o sector."
+  },
+  "729bd5a7def83a56": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Os Estados-membros transmitirão à Comissão as informações necessárias à aplicação do presente regulamento. As informações necessárias serão estabelecidas de acordo com o processo previsto no artigo 18o 2. Essas informações serão tratadas pela Comissão com a confidencialidade necessária à protecção dos dados individuais."
+  },
+  "4ccddf7b9890d952": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. A Comissão apresentará, pelo menos trienalmente, ao Parlamento Europeu, ao Conselho e às instâncias comunitárias representativas do sector, um relatório sobre a aplicação das medidas adoptadas nos termos do presente regulamento, designadamente do seu artigo 8o 2. A Comissão apresentará ao Parlamento Europeu e ao Conselho, o mais tardar em 31 de Dezembro de 2001, um relatório sobre a situação das pescas na Comunidade, em particular sobre a situação económica e social das regiões costeiras, sobre a situação dos recursos e a sua evolução previsível e sobre a aplicação do presente regulamento. O Conselho, com base nesse relatório e de acordo com o processo previsto no artigo 43o do Tratado, decidirá, até 31 de Dezembro de 2002, dos eventuais ajustamentos a introduzir, especialmente no que se refere ao artigo 7o, bem como das disposições que poderão decorrer do regime referido no artigo 6o do presente regulamento."
+  },
+  "680296ef9a2ae815": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Em caso de perturbação grave e inesperada, susceptível de colocar em perigo a conservação dos recursos, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, adoptará as medidas adequadas, por um período não superior a seis meses, que serão comunicadas aos Estados-membros e ao Parlamento Europeu e imediatamente aplicáveis.\n\n2. Sempre que receba um pedido de um Estado-membro, a Comissão deve decidir do mesmo no prazo de dez dias úteis.\n\n3. Os Estados-membros podem submeter a decisão da Comissão ao Conselho, nos termos do n° 1, no prazo de dez dias úteis a contar da notificação da decisão.\n\n4. O Conselho pode, por maioria qualificada, tomar uma decisão diferente no prazo de um mês."
+  },
+  "3bdfbc9580a1ee57": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nA Comissão criará, sob os seus auspícios, um comité científico, técnico e económico das pescas. Esse comité será consultado periodicamente e elaborará um relatório anual sobre a situação dos recursos haliêuticos e a evolução das actividades de pesca, tendo em conta os aspectos biológicos e técnicos. O comité deverá apresentar relatórios sobre as implicações económicas da situação dos recursos haliêuticos e relatórios anuais sobre os trabalhos realizados e os trabalhos necessários, no âmbito do disposto na alínea a) do artigo 41o do Tratado, em matéria de investigação científica e técnica no sector da pesca e da aquicultura."
+  },
+  "0b6ff9aa8e9c61c6": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nÉ instituído um Comité de gestão das pescas e da aquicultura, adiante designado «comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "8d97d28ee086e18f": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nSempre que se deva seguir o processo previsto no presente artigo, o comité será chamado a pronunciar-se pelo seu presidente, seja por sua própria iniciativa seja a pedido do representante de um Estado-membro.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no n° 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará medidas que são imediatamente aplicáveis. Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão pode diferir, por um período de um mês, no máximo, a contar da data dessa comunicação, a aplicação das medidas que aprovou.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior."
+  },
+  "95a63a7952026815": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nA aplicação do presente regulamento atenderá aos regimes especiais decorrentes dos acordos de pescas celebrados pela Comunidade com países terceiros ou no âmbito de organizações internacionais, ou celebrados pelos Estados-membros nos termos do direito comunitário."
+  },
+  "1f0c04d14207d561": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. É revogado o Regulamento (CEE) n° 170/83.\n\n2. As referências às disposições do regulamento revogado nos termos do n° 1 devem entender-se como referências às disposições correspondentes do presente regulamento."
+  },
+  "273991fca5af4246": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 20 de Dezembro de 1992.\n\nPelo Conselho O Presidente J. GUMMER\n\n(1) JO n° C 311 de 27. 11. 1992, p. 7 (2) Parecer emitido em 15 de Dezembro de 1992 (ainda não publicado no Jornal Oficial).\n\n(3) Parecer emitido em 24 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n(4) JO n° L 24 de 27. 1. 1983, p. 1.\n\n(5) JO n° L 20 de 28. 1. 1976, p. 19."
+  },
+  "1b2da448c206574f": {
+   "fragment_id": "ANEXO I (1) — FAIXA COSTEIRA DO REINO UNIDO ENTRE 6 E 12 MILHAS",
+   "type": "divisao",
+   "heading": "ANEXO I (1) — FAIXA COSTEIRA DO REINO UNIDO ENTRE 6 E 12 MILHAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I (1) — FAIXA COSTEIRA DO REINO UNIDO ENTRE 6 E 12 MILHAS\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n(2) JO n° L 73 de 19. 3. 1983, p. 42 (rectificado).\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DA IRLANDA\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DA BÉLGICA\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DA DINAMARCA\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DA ALEMANHA\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DA FRANÇA E DOS DEPARTAMENTOS ULTRAMARINOS\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DE ESPANHA\n\n>POSIÇÃO NUMA TABELA>\n\nFAIXA COSTEIRA DOS PAÍSES BAIXOS\n\n>POSIÇÃO NUMA TABELA>\n\n(1) Todos os limites são calculados a partir das linhas de base, tal como previsto à data da adopção do Regulamento (CEE) n° 170/83 e, em relação aos Estados que aderiram à Comunidade depois dessa data, no momento da sua decisão."
+  },
+  "e9af3f0ba70dc992": {
+   "fragment_id": "ANEXO II — ZONAS SENSÍVEIS NA ACEPÇAO DO ARTIGO 7o ZONA SHETLAND",
+   "type": "divisao",
+   "heading": "ANEXO II — ZONAS SENSÍVEIS NA ACEPÇAO DO ARTIGO 7o ZONA SHETLAND",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ZONAS SENSÍVEIS NA ACEPÇAO DO ARTIGO 7o ZONA SHETLAND\n\nA. Delimitação geográfica\n\nDo ponto situado na costa Ocidental da Escócia à latitude de 58°30&prime; N a 58°30&prime; N 6°15&prime; W,\n\nde 58°30&prime; N 6°15&prime; W a 59°30&prime; N 5°45&prime; W,\n\nde 59°30&prime; N 5°45&prime; W a 59°30&prime; N 3°00&prime; W, seguindo a linha das 12 milhas a Norte das Orcades,\n\nde 59°30&prime; N 3°00&prime; W a 61°00&prime; N 3°00&prime; W,\n\nde 61°00&prime; N 3°00&prime; W a 61°00&prime; N 0°00&prime;, seguindo a linha das 12 milhas a Norte das Shetland,\n\nde 61°00&prime; N 0°00&prime; a 59°30&prime; N 0°00&prime;,\n\nde 59°30&prime; N 0°00&prime; a 59°30&prime; N 1°00&prime; W,\n\nde 59°30&prime; N 1°00&prime; W a 59°00&prime; N 1°00&prime; W,\n\nde 59°00&prime; N 1°00&prime; W a 59°00&prime; N 2°00&prime; W,\n\nde 59°00&prime; N 2°00&prime; W a 58°30&prime; N 2°00&prime; W,\n\nde 58°30&prime; N 2°00&prime; W a 58°30&prime; N 3°00&prime; W,\n\nde 58°30&prime; N 3°00&prime; W à costa Oriental da Escócia, à latitude de 58°30&prime; N.\n\nB. Esforço de pesca autorizado\n\nNúmero máximo de navios com um comprimento entre perpendiculares igual ou superior a 26 metros (1) autorizados a pescar espécies demersais, com excepção da faneca-noruega e do verdinho (2).\n\n>POSIÇÃO NUMA TABELA>\n\nC. Medidas de controlo específicas\n\nEm conformidade com o disposto no artigo 13o do Regulamento (CEE) n° 2241/87 (3) e no artigo 2o do Regulamento (CEE) n° 3094/86 (4).\n\n(1) Comprimento entre perpendiculares tal como fixado no Regulamento (CEE) n° 2930/86 da Comissão (JO n° L 274 de 25. 9. 1986, p. 1).\n\n(2) Os navios que pescam a faneca-noruega e o verdinho podem ser objecto de medidas de controlo específicas, no que se refere à detenção a bordo de artes de pesca e de espécies diferentes das referidas.\n\n(3) JO n° L 207 de 29.7.1987, p. 1.\n\n(4) JO n° L 288 de 11.10.1986, p. 1."
+  },
+  "ec9cd80dcc72b587": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R3760 — PT — 01.01.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R3760) [REGULAMENTO (CEE) N.º 3760/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R3760) [de 20 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992R3760) [que institui um regime comunitário da pesca e da aquicultura](http://publications.europa.eu/resource/celex/31992R3760) (JO L 389, 31.12.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 2371/2002 do Conselho de 20 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002R2371) — L 358 — 59 — 31.12.2002"
+  }
+ }
+}

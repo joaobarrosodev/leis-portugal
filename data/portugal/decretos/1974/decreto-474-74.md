@@ -1,0 +1,329 @@
+---
+schema_version: '1.0'
+id: pt:dre:473356:por
+title: Decreto n.º 474/74
+short_title: null
+summary: Abre créditos especiais no montante de 396202178$00
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 474/74
+official_date: null
+publication_date: '1974-09-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 223/1974, Série I de 1974-09-24
+  number: '223'
+  series: I
+  supplement: null
+  pages: 1124 - 1126
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/09/22300/11241126.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '473356'
+  dre_path: /dr/detalhe/decreto/474-1974-473356
+  internal: pt:dre:473356:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/474-1974-473356
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/474-1974-473356
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:34:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 537213d9fc40fb1e4bc7f49ec72edb26fed39ea84d3777a92ce6dcfddbe83f57
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622608:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:34:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 474/74
+
+de 24 de Setembro
+
+Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro;
+
+Usando da faculdade conferida pela primeira parte do n.º 4.º do n.º 1 do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
+
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 396202178$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Encargos Gerais da Nação
+
+Capítulo 13.º «Contas de ordem»:
+
+Artigo 528.º «Instituto Português do Cinema» ... 20000000$00
+
+Artigo 529.º «Fundo do Teatro» ... 4000000$00
+
+... 24000000$00
+
+Ministério do Exército
+
+Capítulo 3.º «Serviços de instrução»:
+
+Escola Militar de Electromecânica
+
+Artigo 113.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal destacado de outros serviços do Estado»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho:
+
+Prés ... 32045$00
+
+Cursos de oficiais milicianos
+
+Artigo 216.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Vencimentos dos alunos»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 232/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1974-622608), de 1 de Junho ... 1755712$00
+
+Cursos de sargentos milicianos
+
+Artigo 221.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Prés»:
+
+1. «Soldados instruendos do 1.º ciclo, a $50 por dia»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 232/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1974-622608), de 1 de Junho ... 3115877$00
+
+2. «Soldados instruendos do 2.º ciclo, a 1$60 por dia»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 232/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1974-622608), de 1 de Junho ... 3115877$00
+
+3. «Primeiros-cabos, a 3$00 por dia»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho ... 63260000$00
+
+Escola de recrutas
+
+Artigo 226.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Prés a recrutas, a $50 por dia»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho ... 14693200$00
+
+Capítulo 8.º «Encargos gerais do Ministério»:
+
+Sargentos e praças de pré
+
+Artigo 406.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal dos quadros aprovados por lei», alínea 2 «Praças de pré do quadro orgânico de tempo de paz»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho ... 80685264$00
+
+Capítulo 9.º «Forças eventualmente constituídas»:
+
+Regimento de Artilharia Antiaérea Fixa (Queluz)
+
+Artigo 438.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal de nomeação vitalícia além dos quadros»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho:
+
+Prés ... 1808581$00
+
+Companhia Divisionária de Manutenção de Material (Entroncamento)
+
+Artigo 447.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal de nomeação vitalícia além dos quadros»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho:
+
+Prés ... 557568$00
+
+... 169024124$00
+
+Ministério da Marinha
+
+Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
+
+Oficiais do activo
+
+Artigo 68.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal dos quadros e além dos quadros»:
+
+A adicionar:
+
+Encargos resultantes do [Decreto-Lei n.º 710/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/710-1973-407941), de 31 de Dezembro:
+
+Vencimentos ... 12000000$00
+
+Diuturnidades ... 15000000$00
+
+Sargentos e praças do activo
+
+Artigo 76.º «Vencimentos e salários», n.º 1 «Vencimentos»:
+
+A adicionar:
+
+Encargos resultantes dos Decretos-Leis n.os [710/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/710-1973-407941), de 31 de Dezembro, e [233/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1974-622607), de 1 de Junho:
+
+Vencimentos ... 11000000$00
+
+Diuturnidades ... 77000000$00
+
+Artigo 80.º «Alimentação e alojamento - Em espécie», n.º 2 «Rações, compreendendo dietas e abonos para batata, hortaliça e temperos» ... 50000000$00
+
+Oficiais, sargentos e praças das reservas da Marinha
+
+Artigo 85.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Aspirantes a oficial das reservas naval e marítima em serviço obrigatório» ... 1000000$00
+
+Artigo 91.º «Classes inactivas - Pensões de reserva»:
+
+N.º 1 «Oficiais da reserva da Armada e separados do serviço» ... 6800000$00
+
+N.º 2 «Sargentos e praças da reserva da Armada» ... 6000000$00
+
+Capítulo 5.º «Comandos, forças e unidades em terra»:
+
+Escola Naval
+
+Artigo 256.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Corpo de alunos»:
+
+A adicionar:
+
+Encargos resultantes dos Decretos-Leis n.os [710/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/710-1973-407941), de 31 de Dezembro, e [232/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1974-622608), de 1 de Junho:
+
+Vencimentos ... 900000$00
+
+... 179700000$00
+
+Ministério da Saúde
+
+Capítulo 4.º «Direcção-Geral de Saúde»:
+
+Direcção-Geral
+
+Artigo 66.º «Transferências - Sector público»:
+
+N.º 1 «Subsídios a serviços e estabelecimentos oficiais de saúde e assistência»:
+
+Alínea 1 «Centros de saúde» ... 11171833$60
+
+Alínea 3 «Serviços de Higiene Rural e Defesa Anti-Sezonática» ... 4910$00
+
+Alínea 4 «Dispensário Central de Higiene Social de Lisboa» ... 1642000$00
+
+Alínea 5 «Dispensário Central de Higiene Social do Porto» ... 1376647$80
+
+Alínea 7 «Outros serviços e estabelecimentos oficiais de saúde e assistência» ... 1461993$80
+
+N.º 4 «Assistência a alienados»:
+
+Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência Psiquiátrica e suas delegações, dos Hospitais de Júlio de Matos, ...» ... 2521356$40
+
+N.º 5 «Assistência a leprosos»:
+
+Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência aos Leprosos e do Hospital-Colónia de Rovisco Pais» ... 32037$50
+
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
+
+Artigo 120.º «Transferências - Sector público»:
+
+N.º 1 «Estabelecimentos hospitalares»:
+
+Alínea 1 «Comparticipação nos encargos de sustentação dos Hospitais Civis de Lisboa, ...» ... 1338588$10
+
+Alínea 2 «Comparticipação nos encargos de sustentação do Centro Hospitalar das Caldas da Rainha, do Hospital de Joaquim Urbano, do Porto, ...» ... 1183693$60
+
+N.º 5 «Subsídios para manutenção de escolas de enfermagem não integradas em estabelecimentos ou serviços» ... 1177932$80
+
+Artigo 121.º «Transferências - Instituições particulares»:
+
+N.º 1 «Estabelecimentos hospitalares»:
+
+Alínea 2 «Subsídios de cooperação às Misericórdias para sustentação dos seus hospitais e a outras instituições que mantêm estabelecimentos deste tipo» ... 1567060$40
+
+... 23478054$00
+
+... 396202178$00
+
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+
+Orçamento das receitas do Estado
+
+Capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções» ... 348724124$00
+
+Capítulo 5.º, grupo 1, artigo 89.º «Serviços autónomos e empresas públicas» ... 23478054$00
+
+Capítulo 15.º, artigo 165.º «Instituto Português do Cinema» ... 20000000$00
+
+Capítulo 15.º, artigo 166.º «Fundo do Teatro» ... 4000000$00
+
+... 396202178$00
+
+Vasco dos Santos Gonçalves - Mário Firmino Miguel - José da Silva Lopes - Maria de Lourdes Pintasilgo.
+
+Promulgado em 17 de Setembro de 1974.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

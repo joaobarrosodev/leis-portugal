@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:534829:por
+title: Decreto-Lei n.º 45874
+short_title: null
+summary: Autoriza o Colégio Militar a contratar para professores de prática de conversação de línguas estrangeiras professores
+  dos liceus das respectivas nacionalidades habilitados com qualificações correspondentes ao Exame de Estado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: '45874'
+official_date: null
+publication_date: '1964-08-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 193/1964, Série I de 1964-08-18
+  number: '193'
+  series: I
+  supplement: null
+  pages: 1015 - 1015
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/08/19300/10151015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '534829'
+  dre_path: /dr/detalhe/decreto-lei/45874-1964-534829
+  internal: pt:dre:534829:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45874-1964-534829
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45874-1964-534829
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 61ff881296f59df9405d359cb5602df45fe79eeb3e367cde421e1acd927a65ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Colégio Militar
+- Contratação de Docentes
+- Língua Estrangeira
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591545:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:50:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45874
+
+Considerando que a elevada frequência verificada nos últimos anos no Colégio Militar tem demonstrado a necessidade de aumentar o número de horas semanais de aulas práticas de línguas estrangeiras;
+
+Considerando a vantagem de as mesmas aulas serem regidas por professores dos liceus da respectiva nacionalidade habilitados com qualificações correspondentes ao Exame de Estado;
+
+Tornando-se necessário legalizar a situação de um professor de Francês que vem exercendo desde 9 de Outubro de 1962 aquele magistério;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do artigo 80.º, para valer como lei, o seguinte:
+
+Artigo 1.º É o Colégio Militar autorizado a contratar para professores de prática de conversação de línguas estrangeiras professores dos liceus das respectivas nacionalidades habilitados com qualificações correspondentes ao Exame de Estado, devendo ser-lhes atribuída a remuneração mensal de 4500$00, correspondente ao grupo J do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+Art. 2.º Estes professores serão abonados no corrente ano em conta das disponibilidades existentes nas verbas do pessoal dos quadros aprovados por lei, consignadas no orçamento do Ministério do Exército ao Colégio Militar, considerando-se legalizados, para todos os efeitos, os abonos já efectuados ao professor de prática de língua francesa, contratado em 9 de Outubro de 1962, desde essa data.
+
+Art. 3.º Fica revogado, na parte respeitante a professores de conversação de línguas estrangeiras habilitados com qualificações correspondentes ao Exame de Estado o que se dispõe no anexo II ao [Decreto-Lei n.º 42136](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42136-1959-591545), de 3 de Fevereiro de 1959.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 18 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -1,0 +1,771 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552992:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-165042360",
+ "dre_path": "/dr/detalhe/decreto-lei/4-1982-552992",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1982-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165089850",
+    "165089851",
+    "165089852",
+    "165089853",
+    "165089854",
+    "165089855",
+    "165089856",
+    "165089857",
+    "165089858",
+    "165089859",
+    "165089860",
+    "165089861",
+    "165089862",
+    "165089863",
+    "165089864",
+    "165089865",
+    "165089866",
+    "165089867",
+    "165089868",
+    "165089869",
+    "165089870",
+    "165089871",
+    "165089872",
+    "165089873",
+    "165089874",
+    "165095575",
+    "165095576",
+    "165095577",
+    "165095578",
+    "165095579",
+    "165095580",
+    "165095581",
+    "165095582",
+    "165095583",
+    "165095584",
+    "165095585",
+    "165095586",
+    "165095587",
+    "165095588",
+    "165095589",
+    "165095590",
+    "165095591"
+   ]
+  },
+  {
+   "date": "1985-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:324937:por",
+     "title": "Decreto-Lei n.º 81/85",
+     "published": "1985-03-28",
+     "dre_path": "/dr/detalhe/decreto-lei/81-1985-324937"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "165089850",
+    "165089851",
+    "165089852",
+    "165089853",
+    "165089854",
+    "165089855",
+    "165089856",
+    "165089857",
+    "165089858",
+    "165089859",
+    "165089860",
+    "165089861",
+    "165089862",
+    "165089863",
+    "165089864",
+    "165089865",
+    "165089866",
+    "165089867",
+    "165089868",
+    "165089869",
+    "165089870",
+    "165089871",
+    "165089872",
+    "165089873",
+    "165089874",
+    "165095575",
+    "165095576",
+    "165095577",
+    "165095994",
+    "165095579",
+    "165095580",
+    "165095581",
+    "165095582",
+    "165095583",
+    "165095584",
+    "165095585",
+    "165095586",
+    "165095587",
+    "165095588",
+    "165095589",
+    "165095590",
+    "165095591",
+    "165095592"
+   ]
+  },
+  {
+   "date": "1990-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573113:por",
+     "title": "Decreto-Lei n.º 246/90",
+     "published": "1990-07-27",
+     "dre_path": "/dr/detalhe/decreto-lei/246-1990-573113"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "165089850",
+    "165089851",
+    "165096048",
+    "165089853",
+    "165096037",
+    "165089855",
+    "165089856",
+    "165089857",
+    "165089858",
+    "165089859",
+    "165089860",
+    "165089861",
+    "165096049",
+    "165089863",
+    "165089864",
+    "165096050",
+    "165089866",
+    "165089867",
+    "165089868",
+    "165089869",
+    "165096038",
+    "165096039",
+    "165089872",
+    "165089873",
+    "165089874",
+    "165095575",
+    "165096051",
+    "165096040",
+    "165096041",
+    "165096042",
+    "165096043",
+    "165096044",
+    "165096045",
+    "165095583",
+    "165095584",
+    "165095585",
+    "165095586",
+    "165096046",
+    "165096047",
+    "165095589",
+    "165095590",
+    "165095591",
+    "165095592"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "165089850",
+    "165089851",
+    "165096052",
+    "165089853",
+    "165096037",
+    "165089855",
+    "165089856",
+    "165089857",
+    "165089858",
+    "165089859",
+    "165089860",
+    "165089861",
+    "165096049",
+    "165089863",
+    "165089864",
+    "165096050",
+    "165089866",
+    "165089867",
+    "165089868",
+    "165089869",
+    "165096038",
+    "165096039",
+    "165089872",
+    "165089873",
+    "165089874",
+    "165095575",
+    "165096051",
+    "165096040",
+    "165096041",
+    "165096042",
+    "165096043",
+    "165096044",
+    "165096045",
+    "165095583",
+    "165095584",
+    "165095585",
+    "165095586",
+    "165096046",
+    "165096047",
+    "165095589",
+    "165095590",
+    "165095591",
+    "165095592"
+   ]
+  }
+ ],
+ "fragments": {
+  "165089850": {
+   "fragment_id": "165042361",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 4/82\n\nde 11 de Janeiro\n\nO presente diploma reestrutura as Casas do Povo, redifinindo-lhes os fins e modelando-as sob uma nova caracterização, por forma a integrá-las no actual sistema social e político e a aproveitar as potencialidades que a sua rede actual já oferece para o desenvolvimento social e político do País, em geral, e para o progresso das comunidades rurais, em particular.\n\nPartindo da análise das carências mais frequentes nestas comunidades e tendo em conta as limitações de meios disponíveis, julga-se que as Casas do Povo podem ser uma fórmula base, uma estrutura minimamente apetrechada, que constituirá uma via de solução para as populações encontrarem resposta às necessidades da sua vida colectiva.\n\nDentro da política de apoio às iniciativas dos cidadãos, norteada pela ideia de fortalecimento da sociedade civil, e tendo em vista um dos objectivos fixados no programa do Governo, o do desenvolvimento dos meios rurais, procurou-se proporcionar às Casas do Povo os meios organizativos necessários à prossecução dos seus fins.\n\nAs Casas do Povo aparecem-nos assim como autênticos centros comunitários, empenhados no desenvolvimento das populações, contribuindo para a melhoria da sua qualidade de vida, através de diversas acções de animação sócio-cultural.\n\nNa perspectiva descentralizadora de aproximar os serviços públicos da população, entendeu-se que nos casos em que não foi ainda possível, ou em que não se julgou conveniente proceder à sua implantação ao nível local, as Casas do Povo poderão facilitar essa aproximação, executando certas tarefas por delegação ou fornecendo os meios materiais e humanos para o seu funcionamento.\n\nA escolha de um modelo institucional que satisfizesse os objectivos em vista procurou traduzir quer o respeito pelo livre associativismo das populações, quer a necessidade de se garantir a prossecução dos fins visados pelas Casas do Povo, que o Estado reconhece como de interesse para toda a comunidade, o que determinou a sua classificação como pessoas colectivas de utilidade pública.\n\nO Estado garante assim o seu apoio na construção das suas instalações e no financiamento das suas actividades.\n\nProcurou-se regulamentar apenas o essencial, uma vez que se pensou que deverão ser os interessados quem, no quadro das limitações legais exigidas pela defesa dos interesses públicos prosseguidos, poderão encontrar as fórmulas que melhor sirvam os seus interesses. Assim, remete-se para os estatutos a regulamentação da maior parte da vida das associações, prevendo que, subsidiariamente, se apliquem as disposições legais sobre associações.\n\nAlgumas consequências da adopção da nova forma organizativa podem ser postas em evidência, tais como:\n\nDe acordo com o princípio, constitucionalmente garantido, da liberdade de associação, a qualidade de sócio depende de uma adesão voluntária; deixa, pois, de haver sócios obrigatórios. Houve no entanto a preocupação de não esvaziar as Casas do Povo de todos os seus sócios, exigindo uma nova inscrição: os actuais sócios mantêm essa qualidade, a não ser que peçam o cancelamento da sua inscrição;\n\nEm princípio, o acesso às actividades de animação sócio-cultural é restrito aos sócios e seus familiares;\n\nO acesso aos serviços públicos que funcionem na Casa do Povo é garantido a todos os utentes.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "165089851": {
+   "fragment_id": "165042362",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e fins"
+  },
+  "165089852": {
+   "fragment_id": "165042363",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\n1 - As Casas do Povo são pessoas colectivas de utilidade pública, de base associativa, constituídas por tempo indeterminado com o objectivo de promover o desenvolvimento e o bem-estar das comunidades, especialmente as do meio rural.\n\n2 - O Estado apoiará as Casas do Povo e velará pelo cumprimento dos seus fins através da Junta Central das Casas do Povo, adiante designada por Junta."
+  },
+  "165089853": {
+   "fragment_id": "165042364",
+   "type": 11,
+   "heading": "Artigo 2.º — (Fins)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Fins)\n\n1 - As Casas do Povo têm por finalidade desenvolver actividades de carácter social e cultural, com a participação dos interessados, e colaborar com o Estado e as autarquias, proporcionando-lhes o apoio que em cada caso se justifique, por forma a contribuírem para a resolução de problemas da população residente nas respectivas áreas.\n\n2 - Para a realização dos seus objectivos, deverão as Casas do Povo:\n\na) Promover acções de animação sócio-cultural, quer por iniciativa própria, quer de acordo e em coordenação com outras entidades;\n\nb) Fomentar a participação das populações nas acções tendentes a satisfazer as necessidades da comunidade da respectiva área e a melhorar a sua qualidade de vida.\n\n3 - Incumbe ainda às Casas do Povo:\n\na) Executar, por delegação, tarefas cometidas a serviços públicos, por forma a aproximá-los das populações;\n\nb) Participar no planeamento de acções de carácter económico, social e cultural que abranjam a respectiva área."
+  },
+  "165089854": {
+   "fragment_id": "165042365",
+   "type": 11,
+   "heading": "Artigo 3.º — (Criação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Criação)\n\n1 - As Casas do Povo adquirem personalidade jurídica pela publicação, no Diário da República, do despacho do Ministro dos Assuntos Sociais que aprove os respectivos estatutos.\n\n2 - O requerimento em que se solicite a aprovação dos estatutos deverá ser subscrito por um mínimo de 50 pessoas em condições de se inscreverem como sócias da Casa do Povo a criar."
+  },
+  "165089855": {
+   "fragment_id": "165042366",
+   "type": 11,
+   "heading": "Artigo 4.º — (Estatutos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Estatutos)\n\nDos estatutos da Casa do Povo constarão, obrigatoriamente:\n\na) A sua denominação, da qual constará a expressão «Casa do Povo»;\n\nb) A área abrangida e a localização da sede;\n\nc) O modo e condições de admissão, saída e exclusão dos associados, seus direitos e deveres e sanções pelo não cumprimento destes deveres;\n\nd) Os poderes da assembleia geral e as atribuições da respectiva mesa;\n\ne) A composição da direcção, as suas atribuições e o modo de substituir os seus membros durante as suas faltas e impedimentos, bem como as atribuições e modo de substituir os membros do conselho fiscal;\n\nf) As condições necessárias para a constituição e funcionamento da assembleia geral e para o exercício do direito de voto;\n\ng) As condições em que pode ser deliberada a dissolução da Casa do Povo."
+  },
+  "165089856": {
+   "fragment_id": "165042367",
+   "type": 11,
+   "heading": "Artigo 5.º — (Área)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Área)\n\n1 - A área abrangida por cada Casa do Povo será a mais adequada às suas finalidades e às características do agregado populacional, não devendo ser inferior à da freguesia.\n\n2 - As Casas do Povo poderão criar delegações em localidades situadas na sua área."
+  },
+  "165089857": {
+   "fragment_id": "165042368",
+   "type": 1,
+   "heading": "Capítulo II — Dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos sócios"
+  },
+  "165089858": {
+   "fragment_id": "165042369",
+   "type": 11,
+   "heading": "Artigo 6.º — (Sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Sócios)\n\n1 - Podem ser sócios da Casa do Povo os indivíduos maiores ou emancipados que residam habitualmente na respectiva área.\n\n2 - A admissão dos sócios depende de pedido de inscrição dos interessados e de decisão da direcção.\n\n3 - O cancelamento da inscrição é feito a pedido do interessado, ou oficiosamente, se o sócio deixar de residir na área da Casa do Povo."
+  },
+  "165089859": {
+   "fragment_id": "165042370",
+   "type": 11,
+   "heading": "Artigo 7.º — (Direitos e deveres)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Direitos e deveres)\n\n1 - Os sócios têm os direitos e deveres expressamente consignados nos estatutos ou nas leis aplicáveis.\n\n2 - São direitos dos sócios:\n\na) Participar nas reuniões da assembleia geral;\n\nb) Eleger e ser eleito para os corpos sociais;\n\nc) Examinar as contas, orçamentos, livros de contabilidade e respectivos documentos nos 8 dias anteriores à assembleia geral convocada para a sua apreciação;\n\nd) Frequentar as instalações da Casa do Povo e participar nas actividades de animação sócio-cultural nas condições estabelecidas pela direcção;\n\ne) Propor à direcção acções e iniciativas conducentes à realização dos objectivos da Casa do Povo.\n\n3 - São deveres dos sócios:\n\na) Pagar pontualmente as quotas fixadas;\n\nb) Exercer com zelo os cargos para que for eleito;\n\nc) Concorrer para o progresso e desenvolvimento da Casa do Povo e da sua comunidade."
+  },
+  "165089860": {
+   "fragment_id": "165042371",
+   "type": 11,
+   "heading": "Artigo 8.º — (Sócios honorários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Sócios honorários)\n\nPodem ser declarados sócios honorários das Casas do Povo as pessoas singulares ou colectivas que, por lhes prestarem relevantes serviços ou as auxiliarem com donativos consideráveis, sejam pela assembleia geral consideradas merecedoras de tal distinção."
+  },
+  "165089861": {
+   "fragment_id": "165042372",
+   "type": 11,
+   "heading": "Artigo 9.º — (Acesso aos serviços e actividades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Acesso aos serviços e actividades)\n\n1 - O direito de frequentar as instalações das Casas do Povo e de participar nas actividades de animação sócio-cultural por elas desenvolvidas é restrito aos sócios e aos familiares a seu cargo que não estejam em condições legais de ser sócios, salvo o disposto nos números seguintes.\n\n2 - Os direitos previstos no número anterior poderão ser reconhecidos, em condições análogas às dos sócios, a pessoas que não possam ter esta qualidade, quer porque não residam na respectiva área, quer porque não tenham a idade mínima necessária, desde que maiores de 16 anos.\n\n3 - O acesso aos serviços referidos na alínea a) do n.º 3 do artigo 2.º é garantido aos respectivos utentes, sejam ou não sócios da Casa do Povo."
+  },
+  "165089862": {
+   "fragment_id": "165042373",
+   "type": 11,
+   "heading": "Artigo 10.º — (Número mínimo de sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Número mínimo de sócios)\n\n1 - O número mínimo de sócios de uma Casa do Povo é de 50.\n\n2 - Quando o número de sócios de uma Casa do Povo for, por um período superior a 6 meses, inferior ao número mínimo fixado, a Junta proporá ao Ministro dos Assuntos Sociais a sua extinção, podendo também propor a sua transformação em delegação de outra."
+  },
+  "165089863": {
+   "fragment_id": "165042374",
+   "type": 1,
+   "heading": "Capítulo III — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos órgãos"
+  },
+  "165089864": {
+   "fragment_id": "165095475",
+   "type": 11,
+   "heading": "Artigo 11.º — (Enumeração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Enumeração)\n\nSão órgãos da Casa do Povo a assembleia geral, a direcção e o conselho fiscal."
+  },
+  "165089865": {
+   "fragment_id": "165095476",
+   "type": 11,
+   "heading": "Artigo 12.º — (Assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Assembleia geral)\n\n1 - A assembleia geral é constituída por todos os sócios no pleno gozo dos seus direitos.\n\n2 - Os trabalhos da assembleia geral são dirigidos por uma mesa, constituída por 1 presidente e 2 secretários, eleitos pela assembleia.\n\n3 - As reuniões da assembleia geral são convocadas pelo presidente da mesa, por sua iniciativa ou a pedido da direcção, ou a requerimento do número de sócios previsto nos estatutos.\n\n4 - Se o presidente da mesa não convocar a assembleia geral nos casos em que deve fazê-lo, a qualquer sócio é lícito efectuar a convocação.\n\n5 - A Junta poderá igualmente efectuar a convocação da assembleia se o presidente da mesa, devendo fazê-lo, a não convocar no prazo de 20 dias.\n\n6 - Poderão assistir às reuniões da assembleia, sem direito a voto, um ou mais representantes da Junta."
+  },
+  "165089866": {
+   "fragment_id": "165095477",
+   "type": 11,
+   "heading": "Artigo 13.º — (Direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Direcção)\n\nA direcção será composta por 3 ou 5 elementos, eleitos pela assembleia geral."
+  },
+  "165089867": {
+   "fragment_id": "165095478",
+   "type": 11,
+   "heading": "Artigo 14.º — (Conselho fiscal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Conselho fiscal)\n\nO conselho fiscal é constituído por 3 elementos, eleitos pela assembleia geral."
+  },
+  "165089868": {
+   "fragment_id": "165095479",
+   "type": 11,
+   "heading": "Artigo 15.º — (Disposições comuns)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Disposições comuns)\n\n1 - A duração do mandato dos membros da mesa da assembleia geral, da direcção e do conselho fiscal é de 3 anos, salvo na hipótese de preenchimento de cargos vagos, caso em que cessará no termo do mandato dos restantes membros.\n\n2 - É permitida a reeleição de membros dos corpos sociais.\n\n3 - O exercício dos cargos é gratuito, sem prejuízo do direito à compensação das despesas dele resultantes.\n\n4 - As eleições para os cargos sociais realizam-se por escrutínio secreto, de acordo com normas aprovadas por despacho do Ministro dos Assuntos Sociais.\n\n5 - Os trabalhadores de uma Casa do Povo não podem ser membros dos respectivos órgãos.\n\n6 - Os membros de qualquer dos órgãos respondem perante a Casa do Povo pelos prejuízos resultantes do não cumprimento dos seus deveres legais e estatutários, sem prejuízo da responsabilidade criminal em que eventualmente incorram.\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113) A parte final do n.º 4 do artigo 15, é revogada."
+  },
+  "165089869": {
+   "fragment_id": "165095480",
+   "type": 1,
+   "heading": "Capítulo IV — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime financeiro"
+  },
+  "165089870": {
+   "fragment_id": "165095481",
+   "type": 11,
+   "heading": "Artigo 16.º — (Receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Receitas)\n\n1 - As receitas da Casa do Povo são constituídas por:\n\na) Quotizações dos sócios ou de pessoas referidas no n.º 2 do artigo 9.º;\n\nb) Taxas estabelecidas por regulamento interno para a prática ou acesso a determinadas actividades;\n\nc) Subsídios atribuídos pela Junta;\n\nd) Subsídios do Estado ou de autarquias locais;\n\ne) Compensações por serviços prestados ou pela utilização de instalações, ao abrigo de regulamentos ou de acordos celebrados com serviços públicos e autarquias ou com entidades ou instituições particulares.\n\nf) Donativos, legados ou heranças;\n\ng) Rendimentos de bens próprios e de serviços;\n\nh) Juros de fundos capitalizados;\n\ni) Outras receitas.\n\n2 - As quotizações terão montante mínimo, a fixar por despacho do Ministro dos Assuntos Sociais.\n\n3 - O Estado concorrerá para a construção de instalações das Casas do Povo e seu apetrechamento e para o financiamento das suas actividades.\n\n4 - As receitas referidas no número anterior são distribuídas através da Junta."
+  },
+  "165089871": {
+   "fragment_id": "165095482",
+   "type": 11,
+   "heading": "Artigo 17.º — (Destino dos bens em caso de extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Destino dos bens em caso de extinção)\n\n1 - Extinta uma Casa do Povo, se subsistirem bens que lhe tenham sido doados ou deixados com qualquer encargo ou que estejam afectados a certo fim, o tribunal, ouvida a Junta e a requerimento do Ministério Público, de qualquer associado ou interessado ou ainda de herdeiros do doador ou do autor da deixa testamentária, atribui-los-á, com o mesmo encargo ou afectação, a outra pessoa colectiva que prossiga, na mesma área, fins semelhantes.\n\n2 - Os bens não abrangidos pelo número anterior reverterão para o Fundo Comum das Casas do Povo.\n\n3 - Em caso de fusão de Casas do Povo, os bens da associação extinta são integrados no património da associação que dela resultar."
+  },
+  "165089872": {
+   "fragment_id": "165095483",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do pessoal"
+  },
+  "165089873": {
+   "fragment_id": "165095484",
+   "type": 11,
+   "heading": "Artigo 18.º — (Regime de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Regime de trabalho)\n\nAs relações de trabalho entre as Casas do Povo e o pessoal ao seu serviço serão reguladas de acordo com a lei geral do trabalho."
+  },
+  "165089874": {
+   "fragment_id": "165095485",
+   "type": 11,
+   "heading": "Artigo 19.º — (Funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Funções)\n\nAo pessoal das Casas do Povo compete realizar as tarefas inerentes à sua categoria profissional, por forma a corresponder às exigências da multiplicidade dos fins das Casas do Povo, sem prejuízo da diferenciação das suas funções nos casos em que a dimensão dos serviços e as normas da boa administração o justifiquem."
+  },
+  "165095575": {
+   "fragment_id": "165095486",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "165095576": {
+   "fragment_id": "165095487",
+   "type": 11,
+   "heading": "Artigo 20.º — (Tutela e fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Tutela e fiscalização)\n\n1 - As Casas do Povo ficam sob a tutela da Junta, nos termos da lei.\n\n2 - As Casas do Povo ficam sujeitas, na parte respectiva, à fiscalização dos serviços que, nos termos da alínea a) do n.º 3 do artigo 2.º, nelas hajam delegado a execução de certas tarefas."
+  },
+  "165095577": {
+   "fragment_id": "165095488",
+   "type": 11,
+   "heading": "Artigo 21.º — (Regime especial de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Regime especial de previdência)\n\n1 - A titularidade dos direitos e obrigações decorrentes do regime especial de previdência dos trabalhadores rurais é independente do vínculo associativo às Casas do Povo.\n\n2 - Sem prejuízo do disposto no número anterior, o regime especial de previdência continuará a reger-se pelas normas constantes da Lei n.º 2144, de 29 de Maio de 1969, e legislação complementar."
+  },
+  "165095578": {
+   "fragment_id": "165095489",
+   "type": 11,
+   "heading": "Artigo 22.º — (Gestão do regime)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Gestão do regime)\n\n1 - A gestão do regime especial de previdência dos trabalhadores rurais é da competência dos centros regionais de segurança social e do Centro Nacional de Pensões, com excepção do distrito de Lisboa, em que competirá ao Centro e à Caixa de Previdência e Abono de Família do Distrito de Lisboa.\n\n2 - A competência referida no número anterior considera-se delegada nas Casas do Povo cuja área não esteja ainda abrangida por um serviço local dos centros regionais de segurança social."
+  },
+  "165095579": {
+   "fragment_id": "165095490",
+   "type": 11,
+   "heading": "Artigo 23.º — (Integração de pessoal nos centros regionais de segurança social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Integração de pessoal nos centros regionais de segurança social)\n\nA implantação dos serviços locais dos centros regionais de segurança social determinará a integração nos quadros dos centros do pessoal das Casas do Povo adstrito à execução de tarefas do âmbito de qualquer regime de previdência, a efectuar por despacho do Ministro dos Assuntos Sociais, ouvidos a Junta e o centro regional do respectivo distrito."
+  },
+  "165095580": {
+   "fragment_id": "165095491",
+   "type": 11,
+   "heading": "Artigo 24.º — (Encargos com a gestão do regime especial de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Encargos com a gestão do regime especial de previdência)\n\nEnquanto se mantiver a situação referida no n.º 2 do artigo 21.º, o pagamento dos encargos da Casa do Povo com o pessoal a que se refere o artigo anterior e uma parte das despesas de administração serão assegurados pelo orçamento global da segurança social."
+  },
+  "165095581": {
+   "fragment_id": "165095492",
+   "type": 11,
+   "heading": "Artigo 25.º — (Regime de trabalho do pessoal actualmente ao serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Regime de trabalho do pessoal actualmente ao serviço)\n\nO pessoal que se encontre ao serviço das Casas do Povo à data da publicação do presente diploma continuará abrangido pelo regime de trabalho que lhe seja aplicável nessa data."
+  },
+  "165095582": {
+   "fragment_id": "165095493",
+   "type": 11,
+   "heading": "Artigo 26.º — (Aquisição e alienação de bens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Aquisição e alienação de bens)\n\nQuando autorizadas pela Junta, as Casas do Povo podem:\n\na) Adquirir, a título gratuito ou oneroso, prédios destinados às suas instalações ou à prossecução dos seus fins;\n\nb) Aceitar legados ou heranças a benefício de inventário;\n\nc) Alienar, a qualquer título, e onerar ou ceder o uso de bens imóveis."
+  },
+  "165095583": {
+   "fragment_id": "165095494",
+   "type": 11,
+   "heading": "Artigo 27.º — (Isenções e regalias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Isenções e regalias)\n\nSão mantidas a favor das Casas do Povo as isenções e regalias actualmente previstas na lei."
+  },
+  "165095584": {
+   "fragment_id": "165095495",
+   "type": 11,
+   "heading": "Artigo 28.º — (Sócios já inscritos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Sócios já inscritos)\n\nOs actuais sócios das Casas do Povo mantêm essa qualidade, a não ser que solicitem o cancelamento da sua inscrição."
+  },
+  "165095585": {
+   "fragment_id": "165095496",
+   "type": 11,
+   "heading": "Artigo 29.º — (Equiparação a centros populares de trabalhadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Equiparação a centros populares de trabalhadores)\n\nAs Casas do Povo são equiparadas a centros populares de trabalhadores, para os efeitos do disposto no estatuto e regulamentos do Inatel, sem prejuízo do consagrado no capítulo VI do Decreto-Lei n.º 519-J2/79, de 29 de Dezembro."
+  },
+  "165095586": {
+   "fragment_id": "165095497",
+   "type": 11,
+   "heading": "Artigo 30.º — (Normas subsidiárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Normas subsidiárias)\n\nEm tudo o que não for regulado de modo diferente por este diploma ou pelos diplomas referidos no artigo seguinte, as Casas do Povo reger-se-ão pelas disposições legais aplicáveis às demais associações."
+  },
+  "165095587": {
+   "fragment_id": "165095498",
+   "type": 11,
+   "heading": "Artigo 31.º — (Regulamentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Regulamentação)\n\nO Governo publicará os regulamentos necessários à aplicação deste decreto-lei."
+  },
+  "165095588": {
+   "fragment_id": "165095499",
+   "type": 11,
+   "heading": "Artigo 32.º — (Dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Dúvidas)\n\nAs dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais."
+  },
+  "165095589": {
+   "fragment_id": "165095500",
+   "type": 11,
+   "heading": "Artigo 33.º — (Aplicação às Casas do Povo existentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Aplicação às Casas do Povo existentes)\n\nAs Casas do Povo existentes à data da entrada em vigor deste decreto-lei ficam sujeitas ao regime nele fixado."
+  },
+  "165095590": {
+   "fragment_id": "165095501",
+   "type": 11,
+   "heading": "Artigo 34.º — (Aplicação às regiões autónomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Aplicação às regiões autónomas)\n\nA execução, com as adaptações consideradas necessárias, do disposto neste diploma nas Regiões Autónomas dos Açores e da Madeira depende da publicação de decreto regulamentar regional."
+  },
+  "165095591": {
+   "fragment_id": "165095502",
+   "type": 11,
+   "heading": "Artigo 35.º — (Vigência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Vigência)\n\nEste diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "165095994": {
+   "fragment_id": "165095489",
+   "type": 11,
+   "heading": "Artigo 22.º — (Gestão do regime)",
+   "in_force_from": "1985-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 81/85 - Diário da República n.º 73/1985, Série I de 1985-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), em vigor a partir de 1985-05-01"
+   ],
+   "markdown": "###### Artigo 22.º — (Gestão do regime)\n\n1 - A gestão do regime especial de previdência dos trabalhadores rurais é da competência dos centros regionais de segurança social e do Centro Nacional de Pensões, com excepção do distrito de Lisboa, em que competirá ao Centro e à Caixa de Previdência e Abono de Família do Distrito de Lisboa.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 81/85 - Diário da República n.º 73/1985, Série I de 1985-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), em vigor a partir de 1985-05-01"
+  },
+  "165095592": {
+   "fragment_id": "165095503",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 30 de Dezembro de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "165096048": {
+   "fragment_id": "165042363",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\n1 - As Casas do Povo são pessoas colectivas de utilidade pública, de base associativa, constituídas por tempo indeterminado com o objectivo de promover o desenvolvimento e o bem-estar das comunidades, especialmente as do meio rural.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096037": {
+   "fragment_id": "165042365",
+   "type": 11,
+   "heading": "Artigo 3.º — (Criação)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Criação)\n\n1 - As Casas do Povo adquirem personalidade jurídica pela publicação, no Diário da República, do despacho do Ministro dos Assuntos Sociais que aprove os respectivos estatutos.\n\n2 - O requerimento em que se solicite a aprovação dos estatutos deverá ser subscrito por um mínimo de 50 pessoas em condições de se inscreverem como sócias da Casa do Povo a criar.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096049": {
+   "fragment_id": "165042373",
+   "type": 11,
+   "heading": "Artigo 10.º — (Número mínimo de sócios)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — (Número mínimo de sócios)\n\n1 - O número mínimo de sócios de uma Casa do Povo é de 50.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096050": {
+   "fragment_id": "165095476",
+   "type": 11,
+   "heading": "Artigo 12.º — (Assembleia geral)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — (Assembleia geral)\n\n1 - A assembleia geral é constituída por todos os sócios no pleno gozo dos seus direitos.\n\n2 - Os trabalhos da assembleia geral são dirigidos por uma mesa, constituída por 1 presidente e 2 secretários, eleitos pela assembleia.\n\n3 - As reuniões da assembleia geral são convocadas pelo presidente da mesa, por sua iniciativa ou a pedido da direcção, ou a requerimento do número de sócios previsto nos estatutos.\n\n4 - Se o presidente da mesa não convocar a assembleia geral nos casos em que deve fazê-lo, a qualquer sócio é lícito efectuar a convocação.\n\n5 -   (Revogado).\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096038": {
+   "fragment_id": "165095481",
+   "type": 11,
+   "heading": "Artigo 16.º — (Receitas)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — (Receitas)\n\n1 - As receitas da Casa do Povo são constituídas por:\n\na) Quotizações dos sócios ou de pessoas referidas no n.º 2 do artigo 9.º;\n\nb) Taxas estabelecidas por regulamento interno para a prática ou acesso a determinadas actividades;\n\nc) Subsídios atribuídos pela Junta;\n\nd) Subsídios do Estado ou de autarquias locais;\n\ne) Compensações por serviços prestados ou pela utilização de instalações, ao abrigo de regulamentos ou de acordos celebrados com serviços públicos e autarquias ou com entidades ou instituições particulares.\n\nf) Donativos, legados ou heranças;\n\ng) Rendimentos de bens próprios e de serviços;\n\nh) Juros de fundos capitalizados;\n\ni) Outras receitas.\n\n2 - As quotizações terão montante mínimo, a fixar por despacho do Ministro dos Assuntos Sociais.\n\n3 - O Estado concorrerá para a construção de instalações das Casas do Povo e seu apetrechamento e para o financiamento das suas actividades.\n\n4 - As receitas referidas no número anterior são distribuídas através da Junta.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096039": {
+   "fragment_id": "165095482",
+   "type": 11,
+   "heading": "Artigo 17.º — (Destino dos bens em caso de extinção)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 17.º — (Destino dos bens em caso de extinção)\n\n1 - Extinta uma Casa do Povo, se subsistirem bens que lhe tenham sido doados ou deixados com qualquer encargo ou que estejam afectados a certo fim, o tribunal, ouvida a Junta e a requerimento do Ministério Público, de qualquer associado ou interessado ou ainda de herdeiros do doador ou do autor da deixa testamentária, atribui-los-á, com o mesmo encargo ou afectação, a outra pessoa colectiva que prossiga, na mesma área, fins semelhantes.\n\n2 - Os bens não abrangidos pelo número anterior reverterão para o Fundo Comum das Casas do Povo.\n\n3 - Em caso de fusão de Casas do Povo, os bens da associação extinta são integrados no património da associação que dela resultar.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096051": {
+   "fragment_id": "165095487",
+   "type": 11,
+   "heading": "Artigo 20.º — (Tutela e fiscalização)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — (Tutela e fiscalização)\n\n1 - (Revogado).\n\n2 - As Casas do Povo ficam sujeitas, na parte respectiva, à fiscalização dos serviços que, nos termos da alínea a) do n.º 3 do artigo 2.º, nelas hajam delegado a execução de certas tarefas.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096040": {
+   "fragment_id": "165095488",
+   "type": 11,
+   "heading": "Artigo 21.º — (Regime especial de previdência)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — (Regime especial de previdência)\n\n1 - A titularidade dos direitos e obrigações decorrentes do regime especial de previdência dos trabalhadores rurais é independente do vínculo associativo às Casas do Povo.\n\n2 - Sem prejuízo do disposto no número anterior, o regime especial de previdência continuará a reger-se pelas normas constantes da Lei n.º 2144, de 29 de Maio de 1969, e legislação complementar.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096041": {
+   "fragment_id": "165095489",
+   "type": 11,
+   "heading": "Artigo 22.º — (Gestão do regime)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01",
+    "Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 81/85 - Diário da República n.º 73/1985, Série I de 1985-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), em vigor a partir de 1985-05-01"
+   ],
+   "markdown": "###### Artigo 22.º — (Gestão do regime)\n\n1 - A gestão do regime especial de previdência dos trabalhadores rurais é da competência dos centros regionais de segurança social e do Centro Nacional de Pensões, com excepção do distrito de Lisboa, em que competirá ao Centro e à Caixa de Previdência e Abono de Família do Distrito de Lisboa.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01\n\n> Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 81/85 - Diário da República n.º 73/1985, Série I de 1985-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), em vigor a partir de 1985-05-01"
+  },
+  "165096042": {
+   "fragment_id": "165095490",
+   "type": 11,
+   "heading": "Artigo 23.º — (Integração de pessoal nos centros regionais de segurança social)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 23.º — (Integração de pessoal nos centros regionais de segurança social)\n\nA implantação dos serviços locais dos centros regionais de segurança social determinará a integração nos quadros dos centros do pessoal das Casas do Povo adstrito à execução de tarefas do âmbito de qualquer regime de previdência, a efectuar por despacho do Ministro dos Assuntos Sociais, ouvidos a Junta e o centro regional do respectivo distrito.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096043": {
+   "fragment_id": "165095491",
+   "type": 11,
+   "heading": "Artigo 24.º — (Encargos com a gestão do regime especial de previdência)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 24.º — (Encargos com a gestão do regime especial de previdência)\n\nEnquanto se mantiver a situação referida no n.º 2 do artigo 21.º, o pagamento dos encargos da Casa do Povo com o pessoal a que se refere o artigo anterior e uma parte das despesas de administração serão assegurados pelo orçamento global da segurança social.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096044": {
+   "fragment_id": "165095492",
+   "type": 11,
+   "heading": "Artigo 25.º — (Regime de trabalho do pessoal actualmente ao serviço)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — (Regime de trabalho do pessoal actualmente ao serviço)\n\nO pessoal que se encontre ao serviço das Casas do Povo à data da publicação do presente diploma continuará abrangido pelo regime de trabalho que lhe seja aplicável nessa data.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096045": {
+   "fragment_id": "165095493",
+   "type": 11,
+   "heading": "Artigo 26.º — (Aquisição e alienação de bens)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 26.º — (Aquisição e alienação de bens)\n\nQuando autorizadas pela Junta, as Casas do Povo podem:\n\na) Adquirir, a título gratuito ou oneroso, prédios destinados às suas instalações ou à prossecução dos seus fins;\n\nb) Aceitar legados ou heranças a benefício de inventário;\n\nc) Alienar, a qualquer título, e onerar ou ceder o uso de bens imóveis.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096046": {
+   "fragment_id": "165095498",
+   "type": 11,
+   "heading": "Artigo 31.º — (Regulamentação)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 31.º — (Regulamentação)\n\nO Governo publicará os regulamentos necessários à aplicação deste decreto-lei.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096047": {
+   "fragment_id": "165095499",
+   "type": 11,
+   "heading": "Artigo 32.º — (Dúvidas)",
+   "in_force_from": "1990-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 32.º — (Dúvidas)\n\nAs dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  },
+  "165096052": {
+   "fragment_id": "165042363",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\n1 - As Casas do Povo são associações constituídas por tempo indeterminado com o objetivo de promover o desenvolvimento e o bem-estar das comunidades, especialmente as do meio rural.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 246/90 - Diário da República n.º 172/1990, Série I de 1990-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113), em vigor a partir de 1990-08-01"
+  }
+ }
+}

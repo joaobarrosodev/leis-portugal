@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0015:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0015-20091231",
+ "dre_path": null,
+ "source_lastmod": "2009-12-31",
+ "versions": [
+  {
+   "date": "2001-02-22",
+   "future": false,
+   "celex": "32001L0015",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2aa4ec742bd039d6",
+    "af77e97c901c9fb3",
+    "e057a1a5096873fa",
+    "aa3ed3a4a3fb4bc6",
+    "648967540239fe62",
+    "c20fd32c5aa687cd",
+    "92d577a30a554a28"
+   ]
+  },
+  {
+   "date": "2006-04-11",
+   "future": false,
+   "celex": "02001L0015-20060411",
+   "acts": [
+    {
+     "id": "eu:celex:32004L0005:por",
+     "title": "DIRECTIVA 2004/5/CE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Janeiro de 2004",
+     "published": null,
+     "celex": "32004L0005"
+    },
+    {
+     "id": "eu:celex:32006L0034:por",
+     "title": "DIRECTIVA 2006/34/CE DA COMISSÃO Texto relevante para efeitos do EEE de 21 de Março de 2006",
+     "published": null,
+     "celex": "32006L0034"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Adita ANEXO",
+    "Adita SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL",
+    "Adita Notas",
+    "Suprime ANEXO — SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL"
+   ],
+   "fragments": [
+    "c956556f5e1cdd73",
+    "5d77d3fd9aba238a",
+    "e057a1a5096873fa",
+    "aa3ed3a4a3fb4bc6",
+    "6bcfc663fffcb7c4",
+    "c2768784123201be",
+    "10220b9774fa9034",
+    "b4b213b5d7b36004",
+    "68b743ba2223bd5d"
+   ]
+  },
+  {
+   "date": "2009-12-31",
+   "future": false,
+   "celex": "02001L0015-20091231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO",
+    "Suprime SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ffcf8db680979ba5"
+   ]
+  }
+ ],
+ "fragments": {
+  "2aa4ec742bd039d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/15/CE da Comissão, de 15 de Fevereiro de 2001, relativa às substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 052 de 22/02/2001 p. 0019 - 0025*\n\nDirectiva 2001/15/CE da Comissão\n\nde 15 de Fevereiro de 2001\n\nrelativa às substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial(1), com a última redacção que lhe foi dada pela Directiva 1999/41/CE do Parlamento Europeu e do Conselho(2), e, nomeadamente, o n.o 2 do seu artigo 4.o,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\nConsiderando o seguinte:\n\n(1) Diversas substâncias nutritivas, nomeadamente vitaminas, sais minerais, aminoácidos e outras, podem ser adicionadas a alimentos destinados a uma alimentação especial, de modo a garantir a satisfação das necessidades nutricionais específicas dos indivíduos a que se destinam e/ou o cumprimento das exigências legais estabelecidas nas directivas específicas adoptadas em conformidade com o n.o 1 do artigo 4.o da Directiva 89/398/CEE.\n\n(2) Não é possível definir as substâncias nutritivas como um grupo distinto, para os fins da presente directiva, nem elaborar, de acordo com os conhecimentos actuais, uma lista exaustiva de todas as categorias de substâncias nutritivas que podem ser adicionadas aos alimentos para fins nutricionais específicos.\n\n(3) A gama de géneros alimentícios destinados a uma alimentação especial é bastante vasta e diversa, sendo variados os processos tecnológicos utilizados no seu fabrico. Por tal facto, deve encontrar-se disponível, no âmbito das categorias de substâncias nutritivas previstas na presente directiva, uma gama tão vasta quanto possível de substâncias que possam ser utilizadas de forma inócua no fabrico dos géneros alimentícios destinados a uma alimentação especial.\n\n(4) A referida gama de substâncias deve basear-se, em primeiro lugar, na respectiva inocuidade e, seguidamente, na sua disponibilidade para absorção pelo organismo e nas suas propriedades organolépticas e tecnológicas. A inclusão de substâncias na lista das substâncias que podem ser utilizadas no fabrico de géneros alimentícios destinados a uma alimentação especial não implica que a sua incorporação nos referidos géneros seja necessária ou desejável.\n\n(5) Sempre que se tiver considerado necessária a adição de uma substância nutritiva, esta operação é regulada por normas constantes das directivas específicas em causa em conjunção, se for caso disso, com critérios quantitativos adequados.\n\n(6) Na ausência de normas específicas ou no caso de géneros alimentícios destinados a uma alimentação especial não abrangidos pelas directivas específicas, as substâncias nutritivas devem ser usadas no fabrico de produtos que estejam em conformidade com a definição dessa categoria de produtos e que respondam às necessidades nutricionais específicas das pessoas a que se destinam. Os produtos em causa devem igualmente ser inócuos quando utilizados de acordo com as instruções do fabricante.\n\n(7) As disposições relativas à lista de substâncias nutritivas que podem ser utilizadas no fabrico de fórmulas para lactentes e fórmulas de transição, bem como de alimentos à base de cereais e alimentos para bebés destinados a lactentes e crianças jovens, constam da Directiva 91/321/CEE da Comissão, de 14 de Maio de 1991, relativa às fórmulas para lactentes e fórmulas de transição(3), com a última redacção que lhe foi dada pela Directiva 1999/50/CE(4), e da Directiva 96/5/CE da Comissão, de 16 de Fevereiro de 1996, relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens(5), com última redacção que lhe foi dada pela Directiva 1999/39/CE(6). Por conseguinte, não é necessário repetir as referidas disposições na presente directiva.\n\n(8) Algumas substâncias nutritivas podem também ser utilizadas como aditivos alimentares. Foram já estabelecidos, ou sê-lo-ão futuramente, critérios de pureza aplicáveis às substâncias em causa, em conformidade com a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana(7), alterada pela Directiva 94/34/CE do Parlamento Europeu e do Conselho(8). Os referidos critérios são aplicáveis às substâncias independentemente do objectivo da sua utilização nos alimentos.\n\n(9) De modo a assegurar um nível elevado de protecção da saúde pública, devem aplicar-se, até à adopção de critérios de pureza comunitários para as restantes substâncias, critérios de pureza geralmente aceites recomendados por organismos internacionais, tais como o Comité Misto FAO/OMS de peritos em matéria de aditivos alimentares ou a Farmacopeia Europeia.\n\n(10) Alguns nutrientes específicos ou seus derivados foram identificados como particularmente necessários ao fabrico de determinados alimentos destinados a fins medicinais específicos, devendo a sua utilização potencial ser limitada ao seu fabrico.\n\n(11) As medidas previstas na presente directiva estão em conformidade com o parecer emitido pelo Comité Científico da Alimentação Humana,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "af77e97c901c9fb3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Só podem ser utilizadas, para fins nutricionais específicos, no fabrico de géneros alimentícios destinados a uma alimentação especial abrangidos pela Directiva 89/398/CEE as substâncias referidas no anexo da presente directiva.\n\nA utilização das referidas substâncias deve observar quaisquer disposições que lhes sejam aplicáveis constantes das directivas especiais previstas no n.o 1 do artigo 4.o da Directiva 89/398/CEE.\n\n2. Sem prejuízo do Regulamento (CE) n.o 258/97 do Parlamento Europeu e do Conselho(9), podem ser utilizadas no fabrico de géneros alimentícios destinados a uma alimentação especial outras substâncias adicionadas para fins nutricionais específicos que não pertençam a uma das categorias referidas no anexo da presente directiva.\n\n3. A utilização de substâncias nutritivas em géneros alimentícios destinados a uma alimentação especial deve resultar no fabrico de produtos inócuos que satisfaçam as necessidades nutricionais específicas dos indivíduos a que se destinam, de acordo com os dados científicos geralmente aceites.\n\n4. As autoridades competentes dos Estados-Membros, referidas no artigo 9.o da Directiva 89/398/CEE, podem exigir ao fabricante ou, se for caso disso, ao importador a apresentação dos trabalhos científicos e dos dados que comprovem a conformidade do uso das substâncias adicionadas para fins nutricionais específicos com o disposto no n.o 3. Sempre que esses trabalhos tiverem sido objecto de uma publicação de fácil acesso, será suficiente fazer uma referência a essa publicação."
+  },
+  "e057a1a5096873fa": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Aplicam-se às substâncias incluídas no anexo os critérios de pureza para eles estabelecidos na legislação comunitária, para fins diversos dos abrangidos pela presente directiva.\n\n2. No que respeita às substâncias incluídas no anexo relativamente às quais a legislação comunitária não estabelece critérios de pureza, aplicam-se, até à sua adopção, critérios de pureza geralmente aceites recomendados por organismos internacionais. Podem manter-se em vigor normas nacionais que estabeleçam critérios de pureza mais restritivos."
+  },
+  "aa3ed3a4a3fb4bc6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros aprovarão e publicarão as normas necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Março de 2002. Do facto informarão imediatamente a Comissão.\n\nAplicarão as referidas normas por forma a:\n\na) Permitir o comércio dos produtos conformes ao disposto na presente directiva, com efeitos a partir de 1 de Abril de 2002;\n\nb) Proibir o comércio dos produtos que não satisfaçam a presente directiva, com efeitos a partir de 1 de Abril de 2004.\n\nAs disposições adoptadas pelos Estados-Membros devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da publicação oficial. O modo da referência compete aos Estados-Membros."
+  },
+  "648967540239fe62": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c20fd32c5aa687cd": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 15 de Fevereiro de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 186 de 30.6.1989, p. 27.\n\n(2) JO L 172 de 8.7.1999, p. 38.\n\n(3) JO L 175 de 4.7.1991, p. 35.\n\n(4) JO L 139 de 2.6.1999, p. 29.\n\n(5) JO L 49 de 28.2.1996, p. 17.\n\n(6) JO L 124 de 18.5.1999, p. 8.\n\n(7) JO L 40 de 11.2.1989, p. 27.\n\n(8) JO L 237 de 10.9.1994, p. 1.\n\n(9) JO L 43 de 14.2.1997, p. 1."
+  },
+  "92d577a30a554a28": {
+   "fragment_id": "ANEXO — SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL",
+   "type": "divisao",
+   "heading": "ANEXO — SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL\n\nPara efeitos do presente quadro:\n\n- \"FSMP\" designa os alimentos destinados a uma alimentação especial para fins medicinais específicos (foods intended for special medical purposes),\n\n- \"Todos os FPNU\" designa os alimentos destinados a uma alimentação especial (foods for particular nutritional uses), incluindo os FSMP mas excluindo fórmulas para lactentes, fórmulas de transição, alimentos à base de cereais e alimentos para bebés destinados a lactentes e crianças jovens.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c956556f5e1cdd73": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2001\n\nrelativa às substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial ([^1^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 1999/41/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2 do seu artigo 4.º,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\n(1) Diversas substâncias nutritivas, nomeadamente vitaminas, sais minerais, aminoácidos e outras, podem ser adicionadas a alimentos destinados a uma alimentação especial, de modo a garantir a satisfação das necessidades nutricionais específicas dos indivíduos a que se destinam e/ou o cumprimento das exigências legais estabelecidas nas directivas específicas adoptadas em conformidade com o n.º 1 do artigo 4.º da Directiva 89/398/CEE.\n\n(2) Não é possível definir as substâncias nutritivas como um grupo distinto, para os fins da presente directiva, nem elaborar, de acordo com os conhecimentos actuais, uma lista exaustiva de todas as categorias de substâncias nutritivas que podem ser adicionadas aos alimentos para fins nutricionais específicos.\n\n(3) A gama de géneros alimentícios destinados a uma alimentação especial é bastante vasta e diversa, sendo variados os processos tecnológicos utilizados no seu fabrico. Por tal facto, deve encontrar-se disponível, no âmbito das categorias de substâncias nutritivas previstas na presente directiva, uma gama tão vasta quanto possível de substâncias que possam ser utilizadas de forma inócua no fabrico dos géneros alimentícios destinados a uma alimentação especial.\n\n(4) A referida gama de substâncias deve basear-se, em primeiro lugar, na respectiva inocuidade e, seguidamente, na sua disponibilidade para absorção pelo organismo e nas suas propriedades organolépticas e tecnológicas. A inclusão de substâncias na lista das substâncias que podem ser utilizadas no fabrico de géneros alimentícios destinados a uma alimentação especial não implica que a sua incorporação nos referidos géneros seja necessária ou desejável.\n\n(5) Sempre que se tiver considerado necessária a adição de uma substância nutritiva, esta operação é regulada por normas constantes das directivas específicas em causa em conjunção, se for caso disso, com critérios quantitativos adequados.\n\n(6) Na ausência de normas específicas ou no caso de géneros alimentícios destinados a uma alimentação especial não abrangidos pelas directivas específicas, as substâncias nutritivas devem ser usadas no fabrico de produtos que estejam em conformidade com a definição dessa categoria de produtos e que respondam às necessidades nutricionais específicas das pessoas a que se destinam. Os produtos em causa devem igualmente ser inócuos quando utilizados de acordo com as instruções do fabricante.\n\n(7) As disposições relativas à lista de substâncias nutritivas que podem ser utilizadas no fabrico de fórmulas para lactentes e fórmulas de transição, bem como de alimentos à base de cereais e alimentos para bebés destinados a lactentes e crianças jovens, constam da Directiva 91/321/CEE da Comissão, de 14 de Maio de 1991, relativa às fórmulas para lactentes e fórmulas de transição ([^3^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 1999/50/CE ([^4^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0004)), e da Directiva 96/5/CE da Comissão, de 16 de Fevereiro de 1996, relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens ([^5^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0005)), com última redacção que lhe foi dada pela Directiva 1999/39/CE ([^6^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0006)). Por conseguinte, não é necessário repetir as referidas disposições na presente directiva.\n\n(8) Algumas substâncias nutritivas podem também ser utilizadas como aditivos alimentares. Foram já estabelecidos, ou sê-lo-ão futuramente, critérios de pureza aplicáveis às substâncias em causa, em conformidade com a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^7^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0007)), alterada pela Directiva 94/34/CE do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0008)). Os referidos critérios são aplicáveis às substâncias independentemente do objectivo da sua utilização nos alimentos.\n\n(9) De modo a assegurar um nível elevado de protecção da saúde pública, devem aplicar-se, até à adopção de critérios de pureza comunitários para as restantes substâncias, critérios de pureza geralmente aceites recomendados por organismos internacionais, tais como o Comité Misto FAO/OMS de peritos em matéria de aditivos alimentares ou a Farmacopeia Europeia.\n\n(10) Alguns nutrientes específicos ou seus derivados foram identificados como particularmente necessários ao fabrico de determinados alimentos destinados a fins medicinais específicos, devendo a sua utilização potencial ser limitada ao seu fabrico.\n\n(11) As medidas previstas na presente directiva estão em conformidade com o parecer emitido pelo Comité Científico da Alimentação Humana,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5d77d3fd9aba238a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Só podem ser utilizadas, para fins nutricionais específicos, no fabrico de géneros alimentícios destinados a uma alimentação especial abrangidos pela Directiva 89/398/CEE as substâncias referidas no anexo da presente directiva.\n\nA utilização das referidas substâncias deve observar quaisquer disposições que lhes sejam aplicáveis constantes das directivas especiais previstas no n.º 1 do artigo 4.º da Directiva 89/398/CEE.\n\n2. Sem prejuízo do Regulamento (CE) n.º 258/97 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#E0009)), podem ser utilizadas no fabrico de géneros alimentícios destinados a uma alimentação especial outras substâncias adicionadas para fins nutricionais específicos que não pertençam a uma das categorias referidas no anexo da presente directiva.\n\n3. A utilização de substâncias nutritivas em géneros alimentícios destinados a uma alimentação especial deve resultar no fabrico de produtos inócuos que satisfaçam as necessidades nutricionais específicas dos indivíduos a que se destinam, de acordo com os dados científicos geralmente aceites.\n\n4. As autoridades competentes dos Estados-Membros, referidas no artigo 9.º da Directiva 89/398/CEE, podem exigir ao fabricante ou, se for caso disso, ao importador a apresentação dos trabalhos científicos e dos dados que comprovem a conformidade do uso das substâncias adicionadas para fins nutricionais específicos com o disposto no n.º 3. Sempre que esses trabalhos tiverem sido objecto de uma publicação de fácil acesso, será suficiente fazer uma referência a essa publicação."
+  },
+  "6bcfc663fffcb7c4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "b4b213b5d7b36004": {
+   "fragment_id": "SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL",
+   "type": "divisao",
+   "heading": "SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL\n\nPara efeitos do presente quadro:\n\n— «FSMP» designa os alimentos destinados a uma alimentação especial para fins medicinais específicos (*foods intended for special medical purposes*),\n\n— «Todos os FPNU» designa os alimentos destinados a uma alimentação especial (*foods for particular nutritional uses*), incluindo os FSMP mas excluindo fórmulas para lactentes, fórmulas de transição, alimentos à base de cereais e alimentos para bebés destinados a lactentes e crianças jovens.\n\n| Substância | Condições de utilização |  |\n| --- | --- | --- |\n| Todos os FPNU | FSMP |  |\n| Categoria 1:Vitaminas |  |  |\n| VITAMINA A |  |  |\n| — retinol | x |  |\n| — acetato de retinilo | x |  |\n| — palmitato de retinilo | x |  |\n| — beta-caroteno | x |  |\n| VITAMINA D |  |  |\n| — colecalciferol | x |  |\n| — ergocalciferol | x |  |\n| VITAMINA E |  |  |\n| — D-alfa-tocoferol | x |  |\n| — DL-alfa-tocoferol | x |  |\n| — acetato de D-alfa-tocoferilo | x |  |\n| — acetato de DL-alfa-tocoferilo | x |  |\n| — succinato ácido de D-alfa-tocoferilo | x |  |\n| VITAMINA K |  |  |\n| — filoquinona (fitomenadiona) | x |  |\n| VITAMINA B1 |  |  |\n| — cloridrato de tiamina | x |  |\n| — mononitrato de tiamina | x |  |\n| VITAMINA B2 |  |  |\n| — riboflavina | x |  |\n| — 5'-fosfato de riboflavina | x |  |\n| NIACINA |  |  |\n| — ácido nicotínico | x |  |\n| — nicotinamida | x |  |\n| ÁCIDO PANTOTÉNICO |  |  |\n| — D-pantotenato de cálcio | x |  |\n| — D-pantotenato de sódio | x |  |\n| — dexpantenol | x |  |\n| VITAMINA B6 |  |  |\n| — cloridrato de piridoxina | x |  |\n| — 5'-fosfato de piridoxina | x |  |\n| — dipalmitato de piridoxina | x |  |\n| [**►M2**](http://publications.europa.eu/resource/celex/32006L0034) FOLATO**◄** |  |  |\n| — ácido pteroilmonoglutâmico | x |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0034) |  |  |\n| — L-metilfolato de cálcio | x |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| VITAMINA B12 |  |  |\n| — cianocobalamina | x |  |\n| — hidroxocobalamina | x |  |\n| BIOTINA |  |  |\n| — D-biotina | x |  |\n| VITAMINA C |  |  |\n| — ácido L-ascórbico | x |  |\n| — L-ascorbato de sódio | x |  |\n| — L-ascorbato de cálcio | x |  |\n| — L-ascorbato de potássio | x |  |\n| — 6-palmitato de L-ascorbilo | x |  |\n| Categoria 2: Minerais |  |  |\n| CÁLCIO |  |  |\n| — carbonato | x |  |\n| — cloreto | x |  |\n| — sais de ácido cítrico | x |  |\n| — gluconato | x |  |\n| — glicerofosfato | x |  |\n| — lactato | x |  |\n| — sais de ácido ortofosfórico | x |  |\n| — hidróxido | x |  |\n| — óxido | x |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32004L0005) |  |  |\n| — sulfato | x |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| MAGNÉSIO |  |  |\n| — acetato | x |  |\n| — carbonato | x |  |\n| — cloreto | x |  |\n| — sais de ácido cítrico | x |  |\n| — gluconato | x |  |\n| — glicerofosfato | x |  |\n| — sais de ácido ortofosfórico | x |  |\n| — lactato | x |  |\n| — hidróxido | x |  |\n| — óxido | x |  |\n| — sulfato | x |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0034) |  |  |\n| — L-aspartato de magnésio |  | x |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| FERRO |  |  |\n| — carbonato ferroso | x |  |\n| — citrato ferroso | x |  |\n| — citrato férrico de amónio | x |  |\n| — gluconato ferroso | x |  |\n| — fumarato ferroso | x |  |\n| — difosfato férrico de sódio | x |  |\n| — lactato ferroso | x |  |\n| — sulfato ferroso | x |  |\n| — disfosfato férrico (pirofosfato férrico) | x |  |\n| — sacarato férrico | x |  |\n| — ferro elementar (incluindo complexos carbonílicos, ferro electrolítico e ferro reduzido por hidrogénio) | x |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0034) |  |  |\n| — bisglicinato ferroso | x |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| COBRE |  |  |\n| — carbonato cúprico | x |  |\n| — citrato cúprico | x |  |\n| — gluconato cúprico | x |  |\n| — sulfato cúprico | x |  |\n| — complexo de cobre e lisina | x |  |\n| IODO |  |  |\n| — iodeto de potássio | x |  |\n| — iodato de potássio | x |  |\n| — iodeto de sódio | x |  |\n| — iodato de sódio | x |  |\n| ZINCO |  |  |\n| — acetato | x |  |\n| — cloreto | x |  |\n| — citrato | x |  |\n| — gluconato | x |  |\n| — lactato | x |  |\n| — óxido | x |  |\n| — carbonato | x |  |\n| — sulfato | x |  |\n| MANGANÊS |  |  |\n| — carbonato | x |  |\n| — cloreto | x |  |\n| — citrato | x |  |\n| — gluconato | x |  |\n| — glicerofosfato | x |  |\n| — sulfato | x |  |\n| SÓDIO |  |  |\n| — bicarbonato | x |  |\n| — carbonato | x |  |\n| — cloreto | x |  |\n| — citrato | x |  |\n| — gluconato | x |  |\n| — lactato | x |  |\n| — hydróxido | x |  |\n| — sais de ácido ortofosfórico | x |  |\n| POTÁSSIO |  |  |\n| — bicarbonato | x |  |\n| — carbonato | x |  |\n| — cloreto | x |  |\n| — citrato | x |  |\n| — gluconato | x |  |\n| — glicerofosfato | x |  |\n| — lactato | x |  |\n| — hidróxido | x |  |\n| — sais de ácido ortofosfórico | x |  |\n| SELÉNIO |  |  |\n| — selenato de sódio | x |  |\n| — hidrogenosselenito de sódio | x |  |\n| — selenito de sódio | x |  |\n| CRÓMIO (III) e respectivos hexa-hidratos |  |  |\n| — cloreto | x |  |\n| — sulfato | x |  |\n| MOLIBDÉNIO (VI) |  |  |\n| — molibdato de amónio | x |  |\n| — molibdato de sódio | x |  |\n| FLÚOR |  |  |\n| — fluoreto de potássio | x |  |\n| — fluoreto de sódio | x |  |\n| Categoria 3: Aminoácidos |  |  |\n| — L-alanina | x |  |\n| — L-arginina | x |  |\n| — ácido L-aspártico |  | x |\n| — L-citrulina |  | x |\n| — L-cisteína | x |  |\n| — L-cistina | x |  |\n| [▼C1](http://publications.europa.eu/resource/celex/32001L0015R%2801%29) |  |  |\n| — L-histidina | x |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| — ácido L-glutâmico | x |  |\n| — L-glutamina | x |  |\n| [▼C1](http://publications.europa.eu/resource/celex/32001L0015R%2801%29) |  |  |\n| — glicina |  | x |\n| — L-isoleucina | x |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| — L-leucina | x |  |\n| — L-lisina | x |  |\n| — acetato de L-lisina | x |  |\n| — L-metionina | x |  |\n| — L-ornitina | x |  |\n| — L-fenilalanina | x |  |\n| — L-prolina |  | x |\n| — L-treonina | x |  |\n| — L-triptofano | x |  |\n| — L-tirosina | x |  |\n| — L-valina | x |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32004L0005) |  |  |\n| — L-serina |  | x |\n| — L-arginina-L-aspartato |  | x |\n| — L-lisina-L-aspartato |  | x |\n| — L-lisina-L-glutamato |  | x |\n| — N-acetil-L-cisteína |  | x |\n| — N-acetil-L-metionina |  | x em produtos destinados a pessoas com idades superiores a um ano |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| No que respeita aos aminoácidos, podem também ser utilizados, na medida do possível, os sais de sódio, potássio, cálcio e magnésio, bem como os cloridratos |  |  |\n| Categoria 4: Carnitina e taurina |  |  |\n| — L-carnitina | x |  |\n| — cloridrato de L-carnitina | x |  |\n| — taurina | x |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32004L0005) |  |  |\n| — L-carnitina-L-tartarato | x |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0015) |  |  |\n| Categoria 5: Nucleótidos |  |  |\n| — ácido adenosina-5'-fosfórico (AMP) | x |  |\n| — sais de sódio de AMP | x |  |\n| — ácido citidina-5'-monofosfórico (CMP) | x |  |\n| — sais de sódio de CMP | x |  |\n| — ácido guanosina-5'-fosfórico (GMP) | x |  |\n| — sais de sódio de GMP | x |  |\n| — ácido inosina-5'-fosfórico (IMP) | x |  |\n| — sais de sódio de IMP | x |  |\n| — ácido uridina-5'-fosfórico (UMP) | x |  |\n| — sais de sódio de UMP | x |  |\n| Categoria 6: Colina e inositol |  |  |\n| — colina | x |  |\n| — cloridrato de colina | x |  |\n| — bitartarato de colina | x |  |\n| — citrato de colina | x |  |\n| — inositol | x |  |\n\n---"
+  },
+  "68b743ba2223bd5d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0001)) JO L 186 de 30.6.1989, p. 27.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0002)) JO L 172 de 8.7.1999, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0003)) JO L 175 de 4.7.1991, p. 35.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0004)) JO L 139 de 2.6.1999, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0005)) JO L 49 de 28.2.1996, p. 17.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0006)) JO L 124 de 18.5.1999, p. 8.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0007)) JO L 40 de 11.2.1989, p. 27.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0008)) JO L 237 de 10.9.1994, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/eeebb245-2871-4bc9-bfc3-26472242aabd.0018.03/DOC_1#src.E0009)) JO L 43 de 14.2.1997, p. 1."
+  },
+  "ffcf8db680979ba5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001L0015 — PT — 31.12.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001L0015) [DIRECTIVA 2001/15/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32001L0015) [de 15 de Fevereiro de 2001](http://publications.europa.eu/resource/celex/32001L0015) [relativa às substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial](http://publications.europa.eu/resource/celex/32001L0015) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32001L0015) (JO L 052, 22.2.2001, p.19)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 953/2009 da Comissão de 13 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R0953) — L 269 — 9 — 14.10.2009"
+  }
+ }
+}

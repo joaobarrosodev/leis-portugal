@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:305583:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-164870203",
+ "dre_path": "/dr/detalhe/decreto-lei/170-1994-305583",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164816830",
+    "164816831",
+    "164816832"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:626214:por",
+     "title": "Decreto-Lei n.º 259/94",
+     "published": "1994-10-22",
+     "dre_path": "/dr/detalhe/decreto-lei/259-1994-626214",
+     "date": "1994-06-29"
+    }
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150713:por",
+     "title": "Decreto-Lei n.º 159/2005",
+     "published": "2005-09-20",
+     "dre_path": "/dr/detalhe/decreto-lei/159-2005-150713"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "164816830",
+    "164816846",
+    "164816832",
+    "164816833"
+   ]
+  }
+ ],
+ "fragments": {
+  "164816830": {
+   "fragment_id": "164870204",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 170/94\n\nde 24 de Junho\n\nOs militares e agentes que prestam serviço nas forças de segurança têm acesso, mediante a observância dos requisitos legalmente estabelecidos e antes da passagem à reforma, às situações de reserva e de pré-aposentação, respectivamente.\n\nEncontrando-se nessa situação, poderão estes militares ou agentes ser convocados pelas forças de segurança para o desempenho de determinadas missões.\n\nReconhecendo-se que o número de elementos naquelas situações é excessivo para as necessidades do nosso país, procede-se, com o presente diploma, a uma mais adequada regulação desta matéria.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164816831": {
+   "fragment_id": "164870205",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Transitam automaticamente para a situação de reforma ou aposentação, nos termos legais:\n\na) Os militares da Guarda Nacional Republicana (GNR) que se encontrem na situação de reserva, nos termos do artigo 77.º do Estatuto aprovado pelo Decreto-Lei n.º 265/93, de 31 de Julho, há mais de cinco anos fora de efectividade de serviço;\n\nb) O pessoal com funções policiais da Polícia de Segurança Pública (PSP) na situação de pré-aposentado, nos termos do artigo 77.º do Estatuto aprovado pelo Decreto-Lei n.º 151/85, de 9 de Maio, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 447/91, de 27 de Novembro, que se encontre nessa situação há mais de cinco anos fora de efectividade de serviço.\n\n2 - Os militares da GNR e o pessoal com funções policiais da PSP que, na reserva ou na pré-aposentação, reúnam as condições de acesso à reforma ou à aposentação com a pensão correspondente a 36 anos de serviço são automaticamente reformados ou aposentados.\n\n3 - Até perfazer os 70 anos de idade, o pessoal que se encontre actualmente na situação de reserva ou de pré-aposentação e que tenha transitado, ou venha a transitar, para a reforma ou para a aposentação por aplicação das disposições do presente diploma não poderá auferir pensão de valor inferior à remuneração ou pensão a que teria direito na situação antecedente, líquidas das quotas para a Caixa Geral de Aposentações e calculadas em função do posto, escalão e tempo de serviço que esse pessoal possuía na data em que ocorreu aquela transição."
+  },
+  "164816832": {
+   "fragment_id": "164870206",
+   "type": 11,
+   "heading": "Artigo 2.º — - 1 - O disposto no artigo anterior reporta os seus efeitos a 1 de Julho de 1994.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — - 1 - O disposto no artigo anterior reporta os seus efeitos a 1 de Julho de 1994.\n\n2 - O encargo com as pensões de reforma ou de aposentação será suportado pela Caixa Geral de Aposentações, com efeitos a partir de 1 de Julho de 1994.\n\n3 - A Caixa Geral de Aposentações fixará as pensões transitórias que resultem da aplicação do n.º 1, que serão processadas e abonadas, até ao mês da publicação das pensões definitivas, pelos orçamentos das respectivas forças de segurança, sem prejuízo de posterior reembolso por aquela Caixa.\n\nVisto a aprovado em Conselho de Ministros de 14 de Abril de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga."
+  },
+  "164816846": {
+   "fragment_id": "164870205",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 159/2005 - Diário da República n.º 181/2005, Série I-A de 2005-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2005-150713), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 259/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1994-626214), em vigor a partir de 1994-06-29"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - (Revogado)\n\n2 - (Revogado)\n\n3 - Até perfazer os 70 anos de idade, o pessoal que se encontre actualmente na situação de reserva ou de pré-aposentação e que tenha transitado, ou venha a transitar, para a reforma ou para a aposentação por aplicação das disposições do presente diploma não poderá auferir pensão de valor inferior à remuneração ou pensão a que teria direito na situação antecedente, líquidas das quotas para a Caixa Geral de Aposentações e calculadas em função do posto, escalão e tempo de serviço que esse pessoal possuía na data em que ocorreu aquela transição.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 159/2005 - Diário da República n.º 181/2005, Série I-A de 2005-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2005-150713), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 259/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1994-626214), em vigor a partir de 1994-06-29"
+  },
+  "164816833": {
+   "fragment_id": "164870207",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 1 de Junho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Junho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

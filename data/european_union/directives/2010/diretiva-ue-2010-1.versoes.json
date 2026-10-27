@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0001:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0001-20100113",
+ "dre_path": null,
+ "source_lastmod": "2010-01-13",
+ "versions": [
+  {
+   "date": "2010-01-12",
+   "future": false,
+   "celex": "32010L0001",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79202be6f434ec24",
+    "ef0f3d4a81200cf6",
+    "dc4f60e8796c0fa3",
+    "643baba95d6795b8",
+    "ef88e126ee8bea08",
+    "5523685a3a8ad093"
+   ]
+  }
+ ],
+ "fragments": {
+  "79202be6f434ec24": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Janeiro de 2010\n\nque altera os anexos II, III e IV da Directiva 2000/29/CE do Conselho relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade [([^1])](http://publications.europa.eu/resource/cellar/e913ad64-86f1-4c7b-bd44-25b7389b3d86.0018.03/DOC_1#ntr1-L_2010007PT.01001701-E0001), nomeadamente o artigo 14.º, segundo parágrafo, alíneas c) e d),\n\nApós consulta aos Estados-Membros envolvidos,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2000/29/CE prevê que certas zonas sejam reconhecidas como zonas protegidas.\n\n(2) Nos termos do Regulamento (CE) n.º 690/2008 da Comissão, de 4 de Julho de 2008, que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos [([^2])](http://publications.europa.eu/resource/cellar/e913ad64-86f1-4c7b-bd44-25b7389b3d86.0018.03/DOC_1#ntr2-L_2010007PT.01001701-E0002), certas partes da região de Veneto, em Itália, foram reconhecidas enquanto zona protegida relativamente ao organismo prejudicial *Erwinia amylovora* (Burr.) Winsl. *et al*. até 31 de Março de 2010.\n\n(3) No seguimento de constatações feitas pela Comissão durante uma inspecção em Itália, entre 31 de Agosto e 11 de Setembro de 2009, em relação à presença desse organismo prejudicial em certas partes da região de Veneto, a Itália informou a Comissão, em 23 de Outubro de 2009, dos resultados da última investigação realizada em Setembro e Outubro de 2009 na região de Veneto para detecção da presença desse organismo prejudicial. Os resultados desta última investigação indicam que o referido organismo prejudicial tem ocorrido durante, pelo menos, os três últimos anos sucessivos em 14 locais na província de Veneza apesar das medidas de erradicação adoptadas pelas autoridades italianas. Consequentemente, essas medidas revelaram-se ineficazes.\n\n(4) Os últimos resultados da investigação foram discutidos durante a reunião do Comité Fitossanitário Permanente em 19 e 20 de Outubro de 2009. Concluiu-se que se deve considerar o organismo *Erwinia amylovora* (Burr.) Winsl. *et al*. como estabelecido na província de Veneza. Por conseguinte, essa província já não deveria constar das listas dos anexos II, III e IV da Directiva 2000/29/CE enquanto zona protegida relativamente a esse organismo prejudicial.\n\n(5) Com base na legislação suíça em matéria de protecção fitossanitária, conclui-se que os cantões de Fribourg e Vaud deixaram de ser reconhecidos na Suíça enquanto zonas protegidas relativamente a *Erwinia amylovora* (Burr.) Winsl. *et al*. a partir de 15 de Novembro de 2009. A derrogação que autoriza determinadas importações provenientes dessas regiões para determinadas zonas protegidas, mediante exigências específicas, deve, por conseguinte, ser suprimida, devendo a parte B do anexo IV da Directiva 2000/29/CE ser alterada em conformidade.\n\n(6) É necessário, por conseguinte, alterar em conformidade os anexos II, III e IV da Directiva 2000/29/CE.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ef0f3d4a81200cf6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos II, III e IV da Directiva 2000/29/CE são alterados em conformidade com o anexo da presente directiva."
+  },
+  "dc4f60e8796c0fa3": {
+   "fragment_id": "Artigo 2.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transposição\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar em 28 de Fevereiro de 2010, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros aplicarão essas disposições a partir de 1 de Março de 2010.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "643baba95d6795b8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "ef88e126ee8bea08": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Janeiro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "5523685a3a8ad093": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e913ad64-86f1-4c7b-bd44-25b7389b3d86.0018.03/DOC_1#ntc1-L_2010007PT.01001701-E0001) [JO L 169 de 10.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_169_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e913ad64-86f1-4c7b-bd44-25b7389b3d86.0018.03/DOC_1#ntc2-L_2010007PT.01001701-E0002) [JO L 193 de 22.7.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_193_R_TOC)."
+  }
+ }
+}

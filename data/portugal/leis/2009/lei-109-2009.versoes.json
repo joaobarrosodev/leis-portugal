@@ -1,0 +1,917 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489693:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-128879174",
+ "dre_path": "/dr/detalhe/lei/109-2009-489693",
+ "source_lastmod": "2026-08-27",
+ "versions": [
+  {
+   "date": "2009-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128828697",
+    "128828698",
+    "128828699",
+    "128828700",
+    "128828701",
+    "128828702",
+    "128828703",
+    "128828704",
+    "128828705",
+    "128828706",
+    "128828707",
+    "128828708",
+    "128828709",
+    "128828710",
+    "128828711",
+    "128828712",
+    "128828713",
+    "128828714",
+    "128828715",
+    "128828716",
+    "128828717",
+    "128828718",
+    "128828719",
+    "128828720",
+    "128828721",
+    "128828722",
+    "128828723",
+    "128828724",
+    "128828725",
+    "128828726",
+    "128828727",
+    "128828728",
+    "128828729",
+    "128828730",
+    "128828731",
+    "128828732",
+    "128828733",
+    "128828734"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174824631:por",
+     "title": "Lei n.º 79/2021",
+     "published": "2021-11-24",
+     "dre_path": "/dr/detalhe/lei/79-2021-174824631"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 3.º-C",
+    "Adita Artigo 3.º-D",
+    "Adita Artigo 3.º-E",
+    "Adita Artigo 3.º-F",
+    "Adita Artigo 3.º-G",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "128828697",
+    "128828698",
+    "128828699",
+    "128828700",
+    "128828701",
+    "899371003",
+    "899371010",
+    "899371018",
+    "899371026",
+    "899371034",
+    "899371042",
+    "899371050",
+    "899371058",
+    "899371059",
+    "899371060",
+    "899371061",
+    "899371062",
+    "899371063",
+    "899371064",
+    "899371065",
+    "128828710",
+    "128828711",
+    "128828712",
+    "128828713",
+    "128828714",
+    "128828715",
+    "128828716",
+    "128828717",
+    "128828718",
+    "899371005",
+    "128828720",
+    "899371006",
+    "899371007",
+    "128828723",
+    "128828724",
+    "128828725",
+    "899371008",
+    "128828727",
+    "128828728",
+    "128828729",
+    "128828730",
+    "128828731",
+    "899371009",
+    "128828733",
+    "128828734",
+    "128828735"
+   ]
+  },
+  {
+   "date": "2026-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:962603401:por",
+     "title": "Decreto-Lei n.º 125/2025",
+     "published": "2025-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2025-962603401"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "128828697",
+    "128828698",
+    "128828699",
+    "962719085",
+    "128828701",
+    "899371003",
+    "899371010",
+    "899371018",
+    "899371026",
+    "899371034",
+    "899371042",
+    "899371050",
+    "899371058",
+    "899371059",
+    "899371060",
+    "899371061",
+    "899371062",
+    "899371063",
+    "962719086",
+    "962719087",
+    "962719088",
+    "128828710",
+    "128828711",
+    "128828712",
+    "128828713",
+    "128828714",
+    "128828715",
+    "128828716",
+    "128828717",
+    "128828718",
+    "899371005",
+    "128828720",
+    "899371006",
+    "899371007",
+    "128828723",
+    "128828724",
+    "128828725",
+    "899371008",
+    "128828727",
+    "128828728",
+    "128828729",
+    "128828730",
+    "128828731",
+    "899371009",
+    "128828733",
+    "128828734",
+    "128828735"
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1160472900:por",
+     "title": "Lei n.º 55/2026",
+     "published": "2026-08-20",
+     "dre_path": "/dr/detalhe/lei/55-2026-1160472900"
+    }
+   ],
+   "changes": [
+    "Adita Secção I",
+    "Adita Secção II",
+    "Adita Artigo 26.º-A",
+    "Adita Artigo 26.º-B",
+    "Adita Artigo 26.º-C"
+   ],
+   "fragments": [
+    "128828697",
+    "128828698",
+    "128828699",
+    "962719085",
+    "128828701",
+    "899371003",
+    "899371010",
+    "899371018",
+    "899371026",
+    "899371034",
+    "899371042",
+    "899371050",
+    "899371058",
+    "899371059",
+    "899371060",
+    "899371061",
+    "899371062",
+    "899371063",
+    "962719086",
+    "962719087",
+    "962719088",
+    "128828710",
+    "128828711",
+    "128828712",
+    "128828713",
+    "128828714",
+    "128828715",
+    "128828716",
+    "128828717",
+    "128828718",
+    "899371005",
+    "128828720",
+    "1160665675",
+    "1160669675",
+    "1160669775",
+    "1160669875",
+    "1160669975",
+    "1160670075",
+    "1160670175",
+    "1160669475",
+    "1160665475",
+    "1160670975",
+    "1160671075",
+    "1160670775",
+    "128828728",
+    "128828729",
+    "128828730",
+    "128828731",
+    "899371009",
+    "128828733",
+    "128828734",
+    "128828735"
+   ]
+  }
+ ],
+ "fragments": {
+  "128828697": {
+   "fragment_id": "128964175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 109/2009\n\nde 15 de Setembro\n\nAprova a Lei do Cibercrime, transpondo para a ordem jurídica interna a Decisão Quadro n.º <a href=\"eurlex.asp?ano=2005&id=32005F0222\" title=\"Link para Decisão da Comunidade Europeia\">2005/222/JAI</a>, do Conselho, de 24 de Fevereiro, relativa a ataques contra sistemas de informação, e adapta o direito interno à Convenção sobre Cibercrime do Conselho da Europa.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "128828698": {
+   "fragment_id": "128964176",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e definições"
+  },
+  "128828699": {
+   "fragment_id": "128964177",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece as disposições penais materiais e processuais, bem como as disposições relativas à cooperação internacional em matéria penal, relativas ao domínio do cibercrime e da recolha de prova em suporte electrónico, transpondo para a ordem jurídica interna a Decisão Quadro n.º <a href=\"eurlex.asp?ano=2005&id=32005F0222\" title=\"Link para Decisão da Comunidade Europeia\">2005/222/JAI</a>, do Conselho, de 24 de Fevereiro, relativa a ataques contra sistemas de informação, e adaptando o direito interno à Convenção sobre Cibercrime do Conselho da Europa."
+  },
+  "128828700": {
+   "fragment_id": "128964178",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, considera-se:\n\na) «Sistema informático», qualquer dispositivo ou conjunto de dispositivos interligados ou associados, em que um ou mais de entre eles desenvolve, em execução de um programa, o tratamento automatizado de dados informáticos, bem como a rede que suporta a comunicação entre eles e o conjunto de dados informáticos armazenados, tratados, recuperados ou transmitidos por aquele ou aqueles dispositivos, tendo em vista o seu funcionamento, utilização, protecção e manutenção;\n\nb) «Dados informáticos», qualquer representação de factos, informações ou conceitos sob uma forma susceptível de processamento num sistema informático, incluindo os programas aptos a fazerem um sistema informático executar uma função;\n\nc) «Dados de tráfego», os dados informáticos relacionados com uma comunicação efectuada por meio de um sistema informático, gerados por este sistema como elemento de uma cadeia de comunicação, indicando a origem da comunicação, o destino, o trajecto, a hora, a data, o tamanho, a duração ou o tipo do serviço subjacente;\n\nd) «Fornecedor de serviço», qualquer entidade, pública ou privada, que faculte aos utilizadores dos seus serviços a possibilidade de comunicar por meio de um sistema informático, bem como qualquer outra entidade que trate ou armazene dados informáticos em nome e por conta daquela entidade fornecedora de serviço ou dos respectivos utilizadores;\n\ne) «Intercepção», o acto destinado a captar informações contidas num sistema informático, através de dispositivos electromagnéticos, acústicos, mecânicos ou outros;\n\nf) «Topografia», uma série de imagens ligadas entre si, independentemente do modo como são fixadas ou codificadas, que representam a configuração tridimensional das camadas que compõem um produto semicondutor e na qual cada imagem reproduz o desenho, ou parte dele, de uma superfície do produto semicondutor, independentemente da fase do respectivo fabrico;\n\ng) «Produto semicondutor», a forma final ou intermédia de qualquer produto, composto por um substrato que inclua uma camada de material semicondutor e constituído por uma ou várias camadas de matérias condutoras, isolantes ou semicondutoras, segundo uma disposição conforme a uma configuração tridimensional e destinada a cumprir, exclusivamente ou não, uma função electrónica."
+  },
+  "128828701": {
+   "fragment_id": "128964179",
+   "type": 1,
+   "heading": "Capítulo II — Disposições penais materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições penais materiais"
+  },
+  "128828702": {
+   "fragment_id": "128964180",
+   "type": 11,
+   "heading": "Artigo 3.º — Falsidade informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Falsidade informática\n\n1 - Quem, com intenção de provocar engano nas relações jurídicas, introduzir, modificar, apagar ou suprimir dados informáticos ou por qualquer outra forma interferir num tratamento informático de dados, produzindo dados ou documentos não genuínos, com a intenção de que estes sejam considerados ou utilizados para finalidades juridicamente relevantes como se o fossem, é punido com pena de prisão até 5 anos ou multa de 120 a 600 dias.\n\n2 - Quando as acções descritas no número anterior incidirem sobre os dados registados ou incorporados em cartão bancário de pagamento ou em qualquer outro dispositivo que permita o acesso a sistema ou meio de pagamento, a sistema de comunicações ou a serviço de acesso condicionado, a pena é de 1 a 5 anos de prisão.\n\n3 - Quem, actuando com intenção de causar prejuízo a outrem ou de obter um benefício ilegítimo, para si ou para terceiro, usar documento produzido a partir de dados informáticos que foram objecto dos actos referidos no n.º 1 ou cartão ou outro dispositivo no qual se encontrem registados ou incorporados os dados objecto dos actos referidos no número anterior, é punido com as penas previstas num e noutro número, respectivamente.\n\n4 - Quem importar, distribuir, vender ou detiver para fins comerciais qualquer dispositivo que permita o acesso a sistema ou meio de pagamento, a sistema de comunicações ou a serviço de acesso condicionado, sobre o qual tenha sido praticada qualquer das acções prevista no n.º 2, é punido com pena de prisão de 1 a 5 anos.\n\n5 - Se os factos referidos nos números anteriores forem praticados por funcionário no exercício das suas funções, a pena é de prisão de 2 a 5 anos."
+  },
+  "128828703": {
+   "fragment_id": "128964181",
+   "type": 11,
+   "heading": "Artigo 4.º — Dano relativo a programas ou outros dados informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dano relativo a programas ou outros dados informáticos\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, apagar, alterar, destruir, no todo ou em parte, danificar, suprimir ou tornar não utilizáveis ou não acessíveis programas ou outros dados informáticos alheios ou por qualquer forma lhes afectar a capacidade de uso, é punido com pena de prisão até 3 anos ou pena de multa.\n\n2 - A tentativa é punível.\n\n3 - Incorre na mesma pena do n.º 1 quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas ou outros dados informáticos destinados a produzir as acções não autorizadas descritas nesse número.\n\n4 - Se o dano causado for de valor elevado, a pena é de prisão até 5 anos ou de multa até 600 dias.\n\n5 - Se o dano causado for de valor consideravelmente elevado, a pena é de prisão de 1 a 10 anos.\n\n6 - Nos casos previstos nos n.os 1, 2 e 4 o procedimento penal depende de queixa."
+  },
+  "128828704": {
+   "fragment_id": "128964182",
+   "type": 11,
+   "heading": "Artigo 5.º — Sabotagem informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sabotagem informática\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, entravar, impedir, interromper ou perturbar gravemente o funcionamento de um sistema informático, através da introdução, transmissão, deterioração, danificação, alteração, apagamento, impedimento do acesso ou supressão de programas ou outros dados informáticos ou de qualquer outra forma de interferência em sistema informático, é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.\n\n2 - Na mesma pena incorre quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas ou outros dados informáticos destinados a produzir as acções não autorizadas descritas no número anterior.\n\n3 - Nos casos previstos no número anterior, a tentativa não é punível.\n\n4 - A pena é de prisão de 1 a 5 anos se o dano emergente da perturbação for de valor elevado.\n\n5 - A pena é de prisão de 1 a 10 anos se:\n\na) O dano emergente da perturbação for de valor consideravelmente elevado;\n\nb) A perturbação causada atingir de forma grave ou duradoura um sistema informático que apoie uma actividade destinada a assegurar funções sociais críticas, nomeadamente as cadeias de abastecimento, a saúde, a segurança e o bem-estar económico das pessoas, ou o funcionamento regular dos serviços públicos."
+  },
+  "128828705": {
+   "fragment_id": "128964183",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso ilegítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso ilegítimo\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, de qualquer modo aceder a um sistema informático, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.\n\n2 - Na mesma pena incorre quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas, um conjunto executável de instruções, um código ou outros dados informáticos destinados a produzir as acções não autorizadas descritas no número anterior.\n\n3 - A pena é de prisão até 3 anos ou multa se o acesso for conseguido através de violação de regras de segurança.\n\n4 - A pena é de prisão de 1 a 5 anos quando:\n\na) Através do acesso, o agente tiver tomado conhecimento de segredo comercial ou industrial ou de dados confidenciais, protegidos por lei; ou\n\nb) O benefício ou vantagem patrimonial obtidos forem de valor consideravelmente elevado.\n\n5 - A tentativa é punível, salvo nos casos previstos no n.º 2.\n\n6 - Nos casos previstos nos n.os 1, 3 e 5 o procedimento penal depende de queixa."
+  },
+  "128828706": {
+   "fragment_id": "128964184",
+   "type": 11,
+   "heading": "Artigo 7.º — Intercepção ilegítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Intercepção ilegítima\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, e através de meios técnicos, interceptar transmissões de dados informáticos que se processam no interior de um sistema informático, a ele destinadas ou dele provenientes, é punido com pena de prisão até 3 anos ou com pena de multa.\n\n2 - A tentativa é punível.\n\n3 - Incorre na mesma pena prevista no n.º 1 quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas ou outros dados informáticos destinados a produzir as acções não autorizadas descritas no mesmo número."
+  },
+  "128828707": {
+   "fragment_id": "128964185",
+   "type": 11,
+   "heading": "Artigo 8.º — Reprodução ilegítima de programa protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reprodução ilegítima de programa protegido\n\n1 - Quem ilegitimamente reproduzir, divulgar ou comunicar ao público um programa informático protegido por lei é punido com pena de prisão até 3 anos ou com pena de multa.\n\n2 - Na mesma pena incorre quem ilegitimamente reproduzir topografia de um produto semicondutor ou a explorar comercialmente ou importar, para estes fins, uma topografia ou um produto semicondutor fabricado a partir dessa topografia.\n\n3 - A tentativa é punível."
+  },
+  "128828708": {
+   "fragment_id": "128964186",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade penal das pessoas colectivas e entidades equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade penal das pessoas colectivas e entidades equiparadas\n\nAs pessoas colectivas e entidades equiparadas são penalmente responsáveis pelos crimes previstos na presente lei nos termos e limites do regime de responsabilização previsto no Código Penal."
+  },
+  "128828709": {
+   "fragment_id": "128964187",
+   "type": 11,
+   "heading": "Artigo 10.º — Perda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Perda de bens\n\n1 - O tribunal pode decretar a perda a favor do Estado dos objectos, materiais, equipamentos ou dispositivos que tiverem servido para a prática dos crimes previstos na presente lei e pertencerem a pessoa que tenha sido condenada pela sua prática.\n\n2 - À avaliação, utilização, alienação e indemnização de bens apreendidos pelos órgãos de polícia criminal que sejam susceptíveis de vir a ser declarados perdidos a favor do Estado é aplicável o disposto no Decreto-Lei n.º 11/2007, de 19 de Janeiro."
+  },
+  "128828710": {
+   "fragment_id": "128964188",
+   "type": 1,
+   "heading": "Capítulo III — Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições processuais"
+  },
+  "128828711": {
+   "fragment_id": "128964189",
+   "type": 11,
+   "heading": "Artigo 11.º — Âmbito de aplicação das disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Âmbito de aplicação das disposições processuais\n\n1 - Com excepção do disposto nos artigos 18.º e 19.º, as disposições processuais previstas no presente capítulo aplicam-se a processos relativos a crimes:\n\na) Previstos na presente lei;\n\nb) Cometidos por meio de um sistema informático; ou\n\nc) Em relação aos quais seja necessário proceder à recolha de prova em suporte electrónico.\n\n2 - As disposições processuais previstas no presente capítulo não prejudicam o regime da Lei n.º 32/2008, de 17 de Julho."
+  },
+  "128828712": {
+   "fragment_id": "128964190",
+   "type": 11,
+   "heading": "Artigo 12.º — Preservação expedita de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Preservação expedita de dados\n\n1 - Se no decurso do processo for necessário à produção de prova, tendo em vista a descoberta da verdade, obter dados informáticos específicos armazenados num sistema informático, incluindo dados de tráfego, em relação aos quais haja receio de que possam perder-se, alterar-se ou deixar de estar disponíveis, a autoridade judiciária competente ordena a quem tenha disponibilidade ou controlo desses dados, designadamente a fornecedor de serviço, que preserve os dados em causa.\n\n2 - A preservação pode também ser ordenada pelo órgão de polícia criminal mediante autorização da autoridade judiciária competente ou quando haja urgência ou perigo na demora, devendo aquele, neste último caso, dar notícia imediata do facto à autoridade judiciária e transmitir-lhe o relatório previsto no artigo 253.º do Código de Processo Penal.\n\n3 - A ordem de preservação discrimina, sob pena de nulidade:\n\na) A natureza dos dados;\n\nb) A sua origem e destino, se forem conhecidos; e\n\nc) O período de tempo pelo qual deverão ser preservados, até um máximo de três meses.\n\n4 - Em cumprimento de ordem de preservação que lhe seja dirigida, quem tenha disponibilidade ou controlo sobre esses dados, designadamente o fornecedor de serviço, preserva de imediato os dados em causa, protegendo e conservando a sua integridade pelo tempo fixado, de modo a permitir à autoridade judiciária competente a sua obtenção, e fica obrigado a assegurar a confidencialidade da aplicação da medida processual.\n\n5 - A autoridade judiciária competente pode ordenar a renovação da medida por períodos sujeitos ao limite previsto na alínea c) do n.º 3, desde que se verifiquem os respectivos requisitos de admissibilidade, até ao limite máximo de um ano."
+  },
+  "128828713": {
+   "fragment_id": "128964191",
+   "type": 11,
+   "heading": "Artigo 13.º — Revelação expedita de dados de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revelação expedita de dados de tráfego\n\nTendo em vista assegurar a preservação dos dados de tráfego relativos a uma determinada comunicação, independentemente do número de fornecedores de serviço que nela participaram, o fornecedor de serviço a quem essa preservação tenha sido ordenada nos termos do artigo anterior indica à autoridade judiciária ou ao órgão de polícia criminal, logo que o souber, outros fornecedores de serviço através dos quais aquela comunicação tenha sido efectuada, tendo em vista permitir identificar todos os fornecedores de serviço e a via através da qual aquela comunicação foi efectuada."
+  },
+  "128828714": {
+   "fragment_id": "128964192",
+   "type": 11,
+   "heading": "Artigo 14.º — Injunção para apresentação ou concessão do acesso a dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Injunção para apresentação ou concessão do acesso a dados\n\n1 - Se no decurso do processo se tornar necessário à produção de prova, tendo em vista a descoberta da verdade, obter dados informáticos específicos e determinados, armazenados num determinado sistema informático, a autoridade judiciária competente ordena a quem tenha disponibilidade ou controlo desses dados que os comunique ao processo ou que permita o acesso aos mesmos, sob pena de punição por desobediência.\n\n2 - A ordem referida no número anterior identifica os dados em causa.\n\n3 - Em cumprimento da ordem descrita nos n.os 1 e 2, quem tenha disponibilidade ou controlo desses dados comunica esses dados à autoridade judiciária competente ou permite, sob pena de punição por desobediência, o acesso ao sistema informático onde os mesmos estão armazenados.\n\n4 - O disposto no presente artigo é aplicável a fornecedores de serviço, a quem pode ser ordenado que comuniquem ao processo dados relativos aos seus clientes ou assinantes, neles se incluindo qualquer informação diferente dos dados relativos ao tráfego ou ao conteúdo, contida sob a forma de dados informáticos ou sob qualquer outra forma, detida pelo fornecedor de serviços, e que permita determinar:\n\na) O tipo de serviço de comunicação utilizado, as medidas técnicas tomadas a esse respeito e o período de serviço;\n\nb) A identidade, a morada postal ou geográfica e o número de telefone do assinante, e qualquer outro número de acesso, os dados respeitantes à facturação e ao pagamento, disponíveis com base num contrato ou acordo de serviços; ou\n\nc) Qualquer outra informação sobre a localização do equipamento de comunicação, disponível com base num contrato ou acordo de serviços.\n\n5 - A injunção prevista no presente artigo não pode ser dirigida a suspeito ou arguido nesse processo.\n\n6 - Não pode igualmente fazer-se uso da injunção prevista neste artigo quanto a sistemas informáticos utilizados para o exercício da advocacia, das actividades médica e bancária e da profissão de jornalista.\n\n7 - O regime de segredo profissional ou de funcionário e de segredo de Estado previsto no artigo 182.º do Código de Processo Penal é aplicável com as necessárias adaptações."
+  },
+  "128828715": {
+   "fragment_id": "128964193",
+   "type": 11,
+   "heading": "Artigo 15.º — Pesquisa de dados informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pesquisa de dados informáticos\n\n1 - Quando no decurso do processo se tornar necessário à produção de prova, tendo em vista a descoberta da verdade, obter dados informáticos específicos e determinados, armazenados num determinado sistema informático, a autoridade judiciária competente autoriza ou ordena por despacho que se proceda a uma pesquisa nesse sistema informático, devendo, sempre que possível, presidir à diligência.\n\n2 - O despacho previsto no número anterior tem um prazo de validade máximo de 30 dias, sob pena de nulidade.\n\n3 - O órgão de polícia criminal pode proceder à pesquisa, sem prévia autorização da autoridade judiciária, quando:\n\na) A mesma for voluntariamente consentida por quem tiver a disponibilidade ou controlo desses dados, desde que o consentimento prestado fique, por qualquer forma, documentado;\n\nb) Nos casos de terrorismo, criminalidade violenta ou altamente organizada, quando haja fundados indícios da prática iminente de crime que ponha em grave risco a vida ou a integridade de qualquer pessoa.\n\n4 - Quando o órgão de polícia criminal proceder à pesquisa nos termos do número anterior:\n\na) No caso previsto na alínea b), a realização da diligência é, sob pena de nulidade, imediatamente comunicada à autoridade judiciária competente e por esta apreciada em ordem à sua validação;\n\nb) Em qualquer caso, é elaborado e remetido à autoridade judiciária competente o relatório previsto no artigo 253.º do Código de Processo Penal.\n\n5 - Quando, no decurso de pesquisa, surgirem razões para crer que os dados procurados se encontram noutro sistema informático, ou numa parte diferente do sistema pesquisado, mas que tais dados são legitimamente acessíveis a partir do sistema inicial, a pesquisa pode ser estendida mediante autorização ou ordem da autoridade competente, nos termos dos n.os 1 e 2.\n\n6 - À pesquisa a que se refere este artigo são aplicáveis, com as necessárias adaptações, as regras de execução das buscas previstas no Código de Processo Penal e no Estatuto do Jornalista."
+  },
+  "128828716": {
+   "fragment_id": "128964194",
+   "type": 11,
+   "heading": "Artigo 16.º — Apreensão de dados informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apreensão de dados informáticos\n\n1 - Quando, no decurso de uma pesquisa informática ou de outro acesso legítimo a um sistema informático, forem encontrados dados ou documentos informáticos necessários à produção de prova, tendo em vista a descoberta da verdade, a autoridade judiciária competente autoriza ou ordena por despacho a apreensão dos mesmos.\n\n2 - O órgão de polícia criminal pode efectuar apreensões, sem prévia autorização da autoridade judiciária, no decurso de pesquisa informática legitimamente ordenada e executada nos termos do artigo anterior, bem como quando haja urgência ou perigo na demora.\n\n3 - Caso sejam apreendidos dados ou documentos informáticos cujo conteúdo seja susceptível de revelar dados pessoais ou íntimos, que possam pôr em causa a privacidade do respectivo titular ou de terceiro, sob pena de nulidade esses dados ou documentos são apresentados ao juiz, que ponderará a sua junção aos autos tendo em conta os interesses do caso concreto.\n\n4 - As apreensões efectuadas por órgão de polícia criminal são sempre sujeitas a validação pela autoridade judiciária, no prazo máximo de 72 horas.\n\n5 - As apreensões relativas a sistemas informáticos utilizados para o exercício da advocacia e das actividades médica e bancária estão sujeitas, com as necessárias adaptações, às regras e formalidades previstas no Código de Processo Penal e as relativas a sistemas informáticos utilizados para o exercício da profissão de jornalista estão sujeitas, com as necessárias adaptações, às regras e formalidades previstas no Estatuto do Jornalista.\n\n6 - O regime de segredo profissional ou de funcionário e de segredo de Estado previsto no artigo 182.º do Código de Processo Penal é aplicável com as necessárias adaptações.\n\n7 - A apreensão de dados informáticos, consoante seja mais adequado e proporcional, tendo em conta os interesses do caso concreto, pode, nomeadamente, revestir as formas seguintes:\n\na) Apreensão do suporte onde está instalado o sistema ou apreensão do suporte onde estão armazenados os dados informáticos, bem como dos dispositivos necessários à respectiva leitura;\n\nb) Realização de uma cópia dos dados, em suporte autónomo, que será junto ao processo;\n\nc) Preservação, por meios tecnológicos, da integridade dos dados, sem realização de cópia nem remoção dos mesmos; ou\n\nd) Eliminação não reversível ou bloqueio do acesso aos dados.\n\n8 - No caso da apreensão efectuada nos termos da alínea b) do número anterior, a cópia é efectuada em duplicado, sendo uma das cópias selada e confiada ao secretário judicial dos serviços onde o processo correr os seus termos e, se tal for tecnicamente possível, os dados apreendidos são certificados por meio de assinatura digital."
+  },
+  "128828717": {
+   "fragment_id": "128964195",
+   "type": 11,
+   "heading": "Artigo 17.º — Apreensão de correio electrónico e registos de comunicações de natureza semelhante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apreensão de correio electrónico e registos de comunicações de natureza semelhante\n\nQuando, no decurso de uma pesquisa informática ou outro acesso legítimo a um sistema informático, forem encontrados, armazenados nesse sistema informático ou noutro a que seja permitido o acesso legítimo a partir do primeiro, mensagens de correio electrónico ou registos de comunicações de natureza semelhante, o juiz pode autorizar ou ordenar, por despacho, a apreensão daqueles que se afigurem ser de grande interesse para a descoberta da verdade ou para a prova, aplicando-se correspondentemente o regime da apreensão de correspondência previsto no Código de Processo Penal."
+  },
+  "128828718": {
+   "fragment_id": "128964196",
+   "type": 11,
+   "heading": "Artigo 18.º — Intercepção de comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Intercepção de comunicações\n\n1 - É admissível o recurso à intercepção de comunicações em processos relativos a crimes:\n\na) Previstos na presente lei; ou\n\nb) Cometidos por meio de um sistema informático ou em relação aos quais seja necessário proceder à recolha de prova em suporte electrónico, quando tais crimes se encontrem previstos no artigo 187.º do Código de Processo Penal.\n\n2 - A intercepção e o registo de transmissões de dados informáticos só podem ser autorizados durante o inquérito, se houver razões para crer que a diligência é indispensável para a descoberta da verdade ou que a prova seria, de outra forma, impossível ou muito difícil de obter, por despacho fundamentado do juiz de instrução e mediante requerimento do Ministério Público.\n\n3 - A intercepção pode destinar-se ao registo de dados relativos ao conteúdo das comunicações ou visar apenas a recolha e registo de dados de tráfego, devendo o despacho referido no número anterior especificar o respectivo âmbito, de acordo com as necessidades concretas da investigação.\n\n4 - Em tudo o que não for contrariado pelo presente artigo, à intercepção e registo de transmissões de dados informáticos é aplicável o regime da intercepção e gravação de conversações ou comunicações telefónicas constante dos artigos 187.º, 188.º e 190.º do Código de Processo Penal."
+  },
+  "128828719": {
+   "fragment_id": "128964197",
+   "type": 11,
+   "heading": "Artigo 19.º — Acções encobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acções encobertas\n\n1 - É admissível o recurso às acções encobertas previstas na Lei n.º 101/2001, de 25 de Agosto, nos termos aí previstos, no decurso de inquérito relativo aos seguintes crimes:\n\na) Os previstos na presente lei;\n\nb) Os cometidos por meio de um sistema informático, quando lhes corresponda, em abstracto, pena de prisão de máximo superior a 5 anos ou, ainda que a pena seja inferior, e sendo dolosos, os crimes contra a liberdade e autodeterminação sexual nos casos em que os ofendidos sejam menores ou incapazes, a burla qualificada, a burla informática e nas comunicações, a discriminação racial, religiosa ou sexual, as infracções económico-financeiras, bem como os crimes consagrados no título iv do Código do Direito de Autor e dos Direitos Conexos.\n\n2 - Sendo necessário o recurso a meios e dispositivos informáticos observam-se, naquilo que for aplicável, as regras previstas para a intercepção de comunicações."
+  },
+  "128828720": {
+   "fragment_id": "128964198",
+   "type": 1,
+   "heading": "Capítulo IV — Cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Cooperação internacional"
+  },
+  "128828721": {
+   "fragment_id": "128964199",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito da cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Âmbito da cooperação internacional\n\nAs autoridades nacionais competentes cooperam com as autoridades estrangeiras competentes para efeitos de investigações ou procedimentos respeitantes a crimes relacionados com sistemas ou dados informáticos, bem como para efeitos de recolha de prova, em suporte electrónico, de um crime, de acordo com as normas sobre transferência de dados pessoais previstas na Lei n.º 67/98, de 26 de Outubro."
+  },
+  "128828722": {
+   "fragment_id": "128964200",
+   "type": 11,
+   "heading": "Artigo 21.º — Ponto de contacto permanente para a cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Ponto de contacto permanente para a cooperação internacional\n\n1 - Para fins de cooperação internacional, tendo em vista a prestação de assistência imediata para os efeitos referidos no artigo anterior, a Polícia Judiciária assegura a manutenção de uma estrutura que garante um ponto de contacto disponível em permanência, vinte e quatro horas por dia, sete dias por semana.\n\n2 - Este ponto de contacto pode ser contactado por outros pontos de contacto, nos termos de acordos, tratados ou convenções a que Portugal se encontre vinculado, ou em cumprimento de protocolos de cooperação internacional com organismos judiciários ou policiais.\n\n3 - A assistência imediata prestada por este ponto de contacto permanente inclui:\n\na) A prestação de aconselhamento técnico a outros pontos de contacto;\n\nb) A preservação expedita de dados nos casos de urgência ou perigo na demora, em conformidade com o disposto no artigo seguinte;\n\nc) A recolha de prova para a qual seja competente nos casos de urgência ou perigo na demora;\n\nd) A localização de suspeitos e a prestação de informações de carácter jurídico, nos casos de urgência ou perigo na demora;\n\ne) A transmissão imediata ao Ministério Público de pedidos relativos às medidas referidas nas alíneas b) a d), fora dos casos aí previstos, tendo em vista a sua rápida execução.\n\n4 - Sempre que actue ao abrigo das alíneas b) a d) do número anterior, a Polícia Judiciária dá notícia imediata do facto ao Ministério Público e remete-lhe o relatório previsto no artigo 253.º do Código de Processo Penal."
+  },
+  "128828723": {
+   "fragment_id": "128964201",
+   "type": 11,
+   "heading": "Artigo 22.º — Preservação e revelação expeditas de dados informáticos em cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Preservação e revelação expeditas de dados informáticos em cooperação internacional\n\n1 - Pode ser solicitada a Portugal a preservação expedita de dados informáticos armazenados em sistema informático aqui localizado, relativos a crimes previstos no artigo 11.º, com vista à apresentação de um pedido de auxílio judiciário para fins de pesquisa, apreensão e divulgação dos mesmos.\n\n2 - A solicitação especifica:\n\na) A autoridade que pede a preservação;\n\nb) A infracção que é objecto de investigação ou procedimento criminal, bem como uma breve exposição dos factos relacionados;\n\nc) Os dados informáticos a conservar e a sua relação com a infracção;\n\nd) Todas as informações disponíveis que permitam identificar o responsável pelos dados informáticos ou a localização do sistema informático;\n\ne) A necessidade da medida de preservação; e\n\nf) A intenção de apresentação de um pedido de auxílio judiciário para fins de pesquisa, apreensão e divulgação dos dados.\n\n3 - Em execução de solicitação de autoridade estrangeira competente nos termos dos números anteriores, a autoridade judiciária competente ordena a quem tenha disponibilidade ou controlo desses dados, designadamente a fornecedor de serviço, que os preserve.\n\n4 - A preservação pode também ser ordenada pela Polícia Judiciária mediante autorização da autoridade judiciária competente ou quando haja urgência ou perigo na demora, sendo aplicável, neste último caso, o disposto no n.º 4 do artigo anterior.\n\n5 - A ordem de preservação especifica, sob pena de nulidade:\n\na) A natureza dos dados;\n\nb) Se forem conhecidos, a origem e o destino dos mesmos; e\n\nc) O período de tempo pelo qual os dados devem ser preservados, até um máximo de três meses.\n\n6 - Em cumprimento de ordem de preservação que lhe seja dirigida, quem tem disponibilidade ou controlo desses dados, designadamente o fornecedor de serviço, preserva de imediato os dados em causa pelo período de tempo especificado, protegendo e conservando a sua integridade.\n\n7 - A autoridade judiciária competente, ou a Polícia Judiciária mediante autorização daquela autoridade, podem ordenar a renovação da medida por períodos sujeitos ao limite previsto na alínea c) do n.º 5, desde que se verifiquem os respectivos requisitos de admissibilidade, até ao limite máximo de um ano.\n\n8 - Quando seja apresentado o pedido de auxílio referido no n.º 1, a autoridade judiciária competente para dele decidir determina a preservação dos dados até à adopção de uma decisão final sobre o pedido.\n\n9 - Os dados preservados ao abrigo do presente artigo apenas podem ser fornecidos:\n\na) À autoridade judiciária competente, em execução do pedido de auxílio referido no n.º 1, nos mesmos termos em que poderiam sê-lo, em caso nacional semelhante, ao abrigo dos artigos 13.º a 17.º;\n\nb) À autoridade nacional que emitiu a ordem de preservação, nos mesmos termos em que poderiam sê-lo, em caso nacional semelhante, ao abrigo do artigo 13.º\n\n10 - A autoridade nacional à qual, nos termos do número anterior, sejam comunicados dados de tráfego identificadores de fornecedor de serviço e da via através dos quais a comunicação foi efectuada, comunica-os rapidamente à autoridade requerente, por forma a permitir a essa autoridade a apresentação de nova solicitação de preservação expedita de dados informáticos.\n\n11 - O disposto nos n.os 1 e 2 aplica-se, com as devidas adaptações, aos pedidos formulados pelas autoridades portuguesas."
+  },
+  "128828724": {
+   "fragment_id": "128964202",
+   "type": 11,
+   "heading": "Artigo 23.º — Motivos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Motivos de recusa\n\n1 - A solicitação de preservação ou revelação expeditas de dados informáticos é recusada quando:\n\na) Os dados informáticos em causa respeitarem a infracção de natureza política ou infracção conexa segundo as concepções do direito português;\n\nb) Atentar contra a soberania, segurança, ordem pública ou outros interesses da República Portuguesa, constitucionalmente definidos;\n\nc) O Estado terceiro requisitante não oferecer garantias adequadas de protecção dos dados pessoais.\n\n2 - A solicitação de preservação expedita de dados informáticos pode ainda ser recusada quando houver fundadas razões para crer que a execução de pedido de auxílio judiciário subsequente para fins de pesquisa, apreensão e divulgação de tais dados será recusado por ausência de verificação do requisito da dupla incriminação."
+  },
+  "128828725": {
+   "fragment_id": "128964203",
+   "type": 11,
+   "heading": "Artigo 24.º — Acesso a dados informáticos em cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Acesso a dados informáticos em cooperação internacional\n\n1 - Em execução de pedido de autoridade estrangeira competente, a autoridade judiciária competente pode proceder à pesquisa, apreensão e divulgação de dados informáticos armazenados em sistema informático localizado em Portugal, relativos a crimes previstos no artigo 11.º, quando se trata de situação em que a pesquisa e apreensão são admissíveis em caso nacional semelhante.\n\n2 - A autoridade judiciária competente procede com a maior rapidez possível quando existam razões para crer que os dados informáticos em causa são especialmente vulneráveis à perda ou modificação ou quando a cooperação rápida se encontre prevista em instrumento internacional aplicável.\n\n3 - O disposto no n.º 1 aplica-se, com as devidas adaptações, aos pedidos formulados pelas autoridades judiciárias portuguesas."
+  },
+  "128828726": {
+   "fragment_id": "128964204",
+   "type": 11,
+   "heading": "Artigo 25.º — Acesso transfronteiriço a dados informáticos armazenados quando publicamente disponíveis ou com consentimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Acesso transfronteiriço a dados informáticos armazenados quando publicamente disponíveis ou com consentimento\n\nAs autoridades estrangeiras competentes, sem necessidade de pedido prévio às autoridades portuguesas, de acordo com as normas sobre transferência de dados pessoais previstas na Lei n.º 67/98, de 26 de Outubro, podem:\n\na) Aceder a dados informáticos armazenados em sistema informático localizado em Portugal, quando publicamente disponíveis;\n\nb) Receber ou aceder, através de sistema informático localizado no seu território, a dados informáticos armazenados em Portugal, mediante consentimento legal e voluntário de pessoa legalmente autorizada a divulgá-los."
+  },
+  "128828727": {
+   "fragment_id": "128964205",
+   "type": 11,
+   "heading": "Artigo 26.º — Intercepção de comunicações em cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Intercepção de comunicações em cooperação internacional\n\n1 - Em execução de pedido da autoridade estrangeira competente, pode ser autorizada pelo juiz a intercepção de transmissões de dados informáticos realizadas por via de um sistema informático localizado em Portugal, desde que tal esteja previsto em acordo, tratado ou convenção internacional e se trate de situação em que tal intercepção seja admissível, nos termos do artigo 18.º, em caso nacional semelhante.\n\n2 - É competente para a recepção dos pedidos de intercepção a Polícia Judiciária, que os apresentará ao Ministério Público, para que os apresente ao juiz de instrução criminal da comarca de Lisboa para autorização.\n\n3 - O despacho de autorização referido no artigo anterior permite também a transmissão imediata da comunicação para o Estado requerente, se tal procedimento estiver previsto no acordo, tratado ou convenção internacional com base no qual é feito o pedido.\n\n4 - O disposto no n.º 1 aplica-se, com as devidas adaptações, aos pedidos formulados pelas autoridades judiciárias portuguesas."
+  },
+  "128828728": {
+   "fragment_id": "128964206",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "128828729": {
+   "fragment_id": "128964207",
+   "type": 11,
+   "heading": "Artigo 27.º — Aplicação no espaço da lei penal portuguesa e competência dos tribunais portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Aplicação no espaço da lei penal portuguesa e competência dos tribunais portugueses\n\n1 - Para além do disposto no Código Penal em matéria de aplicação no espaço da lei penal portuguesa, e salvo tratado ou convenção internacional em contrário, para efeitos da presente lei, a lei penal portuguesa é ainda aplicável a factos:\n\na) Praticados por Portugueses, se aos mesmos não for aplicável a lei penal de nenhum outro Estado;\n\nb) Cometidos em benefício de pessoas colectivas com sede em território português;\n\nc) Fisicamente praticados em território português, ainda que visem sistemas informáticos localizados fora desse território; ou\n\nd) Que visem sistemas informáticos localizados em território português, independentemente do local onde esses factos forem fisicamente praticados.\n\n2 - Se, em função da aplicabilidade da lei penal portuguesa, forem simultaneamente competentes para conhecer de um dos crimes previstos na presente lei os tribunais portugueses e os tribunais de outro Estado membro da União Europeia, podendo em qualquer um deles ser validamente instaurado ou prosseguido o procedimento penal com base nos mesmos factos, a autoridade judiciária competente recorre aos órgãos e mecanismos instituídos no seio da União Europeia para facilitar a cooperação entre as autoridades judiciárias dos Estados membros e a coordenação das respectivas acções, por forma a decidir qual dos dois Estados instaura ou prossegue o procedimento contra os agentes da infracção, tendo em vista centralizá-lo num só deles.\n\n3 - A decisão de aceitação ou transmissão do procedimento é tomada pela autoridade judiciária competente, tendo em conta, sucessivamente, os seguintes elementos:\n\na) O local onde foi praticada a infracção;\n\nb) A nacionalidade do autor dos factos; e\n\nc) O local onde o autor dos factos foi encontrado.\n\n4 - São aplicáveis aos crimes previstos na presente lei as regras gerais de competência dos tribunais previstas no Código de Processo Penal.\n\n5 - Em caso de dúvida quanto ao tribunal territorialmente competente, designadamente por não coincidirem o local onde fisicamente o agente actuou e o local onde está fisicamente instalado o sistema informático visado com a sua actuação, a competência cabe ao tribunal onde primeiro tiver havido notícia dos factos."
+  },
+  "128828730": {
+   "fragment_id": "128964208",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime geral aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regime geral aplicável\n\nEm tudo o que não contrarie o disposto na presente lei, aplicam-se aos crimes, às medidas processuais e à cooperação internacional em matéria penal nela previstos, respectivamente, as disposições do Código Penal, do Código de Processo Penal e da Lei n.º 144/99, de 31 de Agosto."
+  },
+  "128828731": {
+   "fragment_id": "128964209",
+   "type": 11,
+   "heading": "Artigo 29.º — Competência da Polícia Judiciária para a cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competência da Polícia Judiciária para a cooperação internacional\n\nA competência atribuída pela presente lei à Polícia Judiciária para efeitos de cooperação internacional é desempenhada pela unidade orgânica a quem se encontra cometida a investigação dos crimes previstos na presente lei."
+  },
+  "128828732": {
+   "fragment_id": "128964210",
+   "type": 11,
+   "heading": "Artigo 30.º — Protecção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Protecção de dados pessoais\n\nO tratamento de dados pessoais ao abrigo da presente lei efectua-se de acordo com o disposto na Lei n.º 67/98, de 26 de Outubro, sendo aplicável, em caso de violação, o disposto no respectivo capítulo vi."
+  },
+  "128828733": {
+   "fragment_id": "128964211",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogada a Lei n.º 109/91, de 17 de Agosto."
+  },
+  "128828734": {
+   "fragment_id": "128964212",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "899371003": {
+   "fragment_id": "128964180",
+   "type": 11,
+   "heading": "Artigo 3.º — Falsidade informática",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º — Falsidade informática\n\n1 - Quem, com intenção de provocar engano nas relações jurídicas, introduzir, modificar, apagar ou suprimir dados informáticos ou por qualquer outra forma interferir num tratamento informático de dados, produzindo dados ou documentos não genuínos, com a intenção de que estes sejam considerados ou utilizados para finalidades juridicamente relevantes como se o fossem, é punido com pena de prisão até 5 anos ou multa de 120 a 600 dias.\n\n2 - Quando as ações descritas no número anterior incidirem sobre os dados registados, incorporados ou respeitantes a qualquer dispositivo que permita o acesso a sistema de comunicações ou a serviço de acesso condicionado, a pena é de 1 a 5 anos de prisão.\n\n3 - Quem, atuando com intenção de causar prejuízo a outrem ou de obter um benefício ilegítimo, para si ou para terceiro, usar documento produzido a partir de dados informáticos que foram objeto dos atos referidos no n.º 1 ou dispositivo no qual se encontrem registados, incorporados ou ao qual respeitem os dados objeto dos atos referidos no número anterior, é punido com as penas previstas num e noutro número, respetivamente.\n\n4 - Quem produzir, adquirir, importar, distribuir, vender ou detiver qualquer dispositivo, programa ou outros dados informáticos destinados à prática das ações previstas no n.º 2, é punido com pena de prisão de 1 a 5 anos.\n\n5 - Se os factos referidos nos números anteriores forem praticados por funcionário no exercício das suas funções, a pena é de prisão de 2 a 5 anos.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371010": {
+   "fragment_id": "899719877",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Contrafação de cartões ou outros dispositivos de pagamento",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-A — Contrafação de cartões ou outros dispositivos de pagamento\n\nQuem, com intenção de provocar engano nas relações jurídicas, contrafizer cartão de pagamento ou qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento, nomeadamente introduzindo, modificando, apagando, suprimindo ou interferindo, por qualquer outro modo, num tratamento informático de dados registados, incorporados ou respeitantes a estes cartões ou dispositivos, é punido com pena de prisão de 3 a 12 anos.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371018": {
+   "fragment_id": "899719878",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Uso de cartões ou outros dispositivos de pagamento contrafeitos",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-B — Uso de cartões ou outros dispositivos de pagamento contrafeitos\n\n1 - Quem, atuando com intenção de causar prejuízo a outrem ou de obter um benefício ilegítimo, para si ou para terceiro, usar cartão de pagamento contrafeito, ou qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento contrafeito, é punido com pena de prisão de 1 a 5 anos.\n\n2 - As ações descritas no número anterior são punidas com pena de prisão de 2 a 8 anos se o prejuízo ou o benefício for de valor consideravelmente elevado.\n\n3 - As ações descritas no n.º 1 são punidas com pena de prisão de 3 a 12 anos se o agente as praticar de concerto com o agente dos factos descritos no artigo 3.º-A.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371026": {
+   "fragment_id": "899719879",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Aquisição de cartões ou outros dispositivos de pagamento contrafeitos",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-C — Aquisição de cartões ou outros dispositivos de pagamento contrafeitos\n\nQuem, atuando com intenção de causar prejuízo a outrem ou de obter um benefício ilegítimo, adquirir, detiver, exportar, importar, transportar, distribuir, vender ou por qualquer outra forma transmitir ou disponibilizar cartão de pagamento contrafeito ou qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento contrafeito, é punido com pena de prisão de 1 a 5 anos.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371034": {
+   "fragment_id": "899719880",
+   "type": 11,
+   "heading": "Artigo 3.º-D — Atos preparatórios da contrafação",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-D — Atos preparatórios da contrafação\n\nQuem produzir, adquirir, importar, distribuir, vender ou detiver qualquer cartão, dispositivo, programa ou outros dados informáticos, ou quaisquer outros instrumentos, informáticos ou não, destinados à prática das ações descritas no artigo 3.º-A, é punido com pena de prisão de 1 a 5 anos.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371042": {
+   "fragment_id": "899719881",
+   "type": 11,
+   "heading": "Artigo 3.º-E — Aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-E — Aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático\n\nQuem, atuando com intenção de causar prejuízo a outrem ou de obter um benefício ilegítimo, adquirir, detiver, exportar, importar, transportar, distribuir, vender ou por qualquer outra forma transmitir ou disponibilizar:\n\na) Dados registados, incorporados ou respeitantes a cartão de pagamento ou a qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento, que hajam sido obtidos mediante facto ilícito típico previsto nos artigos 4.º, 5.º, 6.º e 7.º;\n\nb) Cartão de pagamento ou qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento, que haja sido obtido mediante facto ilícito típico previsto nos artigos 4.º, 5.º, 6.º e 7.º;\n\né punido com pena de prisão de 1 a 5 anos.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371050": {
+   "fragment_id": "899719882",
+   "type": 11,
+   "heading": "Artigo 3.º-F — Agravação",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-F — Agravação\n\nSe os factos referidos nos artigos 3.º-A a 3.º-E forem praticados por funcionário no exercício das suas funções, o limite mínimo da pena de prisão aplicável é:\n\na) De 2 anos, tratando-se dos factos previstos no n.º 1 do artigo 3.º-B, no n.º 1 do artigo 3.º-C, no artigo 3.º-D e no artigo 3.º-E;\n\nb) Agravado em um terço, nos restantes casos.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371058": {
+   "fragment_id": "899719883",
+   "type": 11,
+   "heading": "Artigo 3.º-G — Moeda virtual",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 3.º-G — Moeda virtual\n\nPara efeitos da presente lei, considera-se também sistema ou meio de pagamento aquele que tenha por objeto moeda virtual.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371059": {
+   "fragment_id": "128964181",
+   "type": 11,
+   "heading": "Artigo 4.º — Dano relativo a programas ou outros dados informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dano relativo a programas ou outros dados informáticos\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, apagar, alterar, destruir, no todo ou em parte, danificar, suprimir ou tornar não utilizáveis ou não acessíveis programas ou outros dados informáticos alheios ou por qualquer forma lhes afectar a capacidade de uso, é punido com pena de prisão até 3 anos ou pena de multa.\n\n2 - A tentativa é punível.\n\n3 - Incorre na mesma pena do n.º 1 quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas ou outros dados informáticos destinados a produzir as acções não autorizadas descritas nesse número.\n\n4 - Se o dano causado for de valor elevado, a pena é de prisão até 5 anos ou de multa até 600 dias.\n\n5 - Se o dano causado for de valor consideravelmente elevado, a pena é de prisão de 1 a 10 anos.\n\n6 - Nos casos previstos nos n.os 1, 2 e 4 o procedimento penal depende de queixa."
+  },
+  "899371060": {
+   "fragment_id": "128964182",
+   "type": 11,
+   "heading": "Artigo 5.º — Sabotagem informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sabotagem informática\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, entravar, impedir, interromper ou perturbar gravemente o funcionamento de um sistema informático, através da introdução, transmissão, deterioração, danificação, alteração, apagamento, impedimento do acesso ou supressão de programas ou outros dados informáticos ou de qualquer outra forma de interferência em sistema informático, é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.\n\n2 - Na mesma pena incorre quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas ou outros dados informáticos destinados a produzir as acções não autorizadas descritas no número anterior.\n\n3 - Nos casos previstos no número anterior, a tentativa não é punível.\n\n4 - A pena é de prisão de 1 a 5 anos se o dano emergente da perturbação for de valor elevado.\n\n5 - A pena é de prisão de 1 a 10 anos se:\n\na) O dano emergente da perturbação for de valor consideravelmente elevado;\n\nb) A perturbação causada atingir de forma grave ou duradoura um sistema informático que apoie uma actividade destinada a assegurar funções sociais críticas, nomeadamente as cadeias de abastecimento, a saúde, a segurança e o bem-estar económico das pessoas, ou o funcionamento regular dos serviços públicos."
+  },
+  "899371061": {
+   "fragment_id": "128964183",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso ilegítimo",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 6.º — Acesso ilegítimo\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, de qualquer modo aceder a um sistema informático, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.\n\n2 - Na mesma pena incorre quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas, um conjunto executável de instruções, um código ou outros dados informáticos destinados a produzir as acções não autorizadas descritas no número anterior.\n\n3 - A pena é de prisão até 2 anos ou multa até 240 dias se as ações descritas no número anterior se destinarem ao acesso para obtenção de dados registados, incorporados ou respeitantes a cartão de pagamento ou a qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento.\n\n4 - A pena é de prisão até 3 anos ou multa se:\n\na) O acesso for conseguido através de violação de regras de segurança; ou\n\nb) Através do acesso, o agente obtiver dados registados, incorporados ou respeitantes a cartão de pagamento ou a qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou meio de pagamento.\n\n5 - A pena é de prisão de 1 a 5 anos quando:\n\na) Através do acesso, o agente tiver tomado conhecimento de segredo comercial ou industrial ou de dados confidenciais, protegidos por lei; ou\n\nb) O benefício ou vantagem patrimonial obtidos forem de valor consideravelmente elevado.\n\n6 - A tentativa é punível, salvo nos casos previstos nos n.os 2 e 3.\n\n7 - Nos casos previstos nos n.os 1, 4 e 6 o procedimento penal depende de queixa.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371062": {
+   "fragment_id": "128964184",
+   "type": 11,
+   "heading": "Artigo 7.º — Intercepção ilegítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Intercepção ilegítima\n\n1 - Quem, sem permissão legal ou sem para tanto estar autorizado pelo proprietário, por outro titular do direito do sistema ou de parte dele, e através de meios técnicos, interceptar transmissões de dados informáticos que se processam no interior de um sistema informático, a ele destinadas ou dele provenientes, é punido com pena de prisão até 3 anos ou com pena de multa.\n\n2 - A tentativa é punível.\n\n3 - Incorre na mesma pena prevista no n.º 1 quem ilegitimamente produzir, vender, distribuir ou por qualquer outra forma disseminar ou introduzir num ou mais sistemas informáticos dispositivos, programas ou outros dados informáticos destinados a produzir as acções não autorizadas descritas no mesmo número."
+  },
+  "899371063": {
+   "fragment_id": "128964185",
+   "type": 11,
+   "heading": "Artigo 8.º — Reprodução ilegítima de programa protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reprodução ilegítima de programa protegido\n\n1 - Quem ilegitimamente reproduzir, divulgar ou comunicar ao público um programa informático protegido por lei é punido com pena de prisão até 3 anos ou com pena de multa.\n\n2 - Na mesma pena incorre quem ilegitimamente reproduzir topografia de um produto semicondutor ou a explorar comercialmente ou importar, para estes fins, uma topografia ou um produto semicondutor fabricado a partir dessa topografia.\n\n3 - A tentativa é punível."
+  },
+  "899371064": {
+   "fragment_id": "128964186",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade penal das pessoas colectivas e entidades equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade penal das pessoas colectivas e entidades equiparadas\n\nAs pessoas colectivas e entidades equiparadas são penalmente responsáveis pelos crimes previstos na presente lei nos termos e limites do regime de responsabilização previsto no Código Penal."
+  },
+  "899371065": {
+   "fragment_id": "128964187",
+   "type": 11,
+   "heading": "Artigo 10.º — Perda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Perda de bens\n\n1 - O tribunal pode decretar a perda a favor do Estado dos objectos, materiais, equipamentos ou dispositivos que tiverem servido para a prática dos crimes previstos na presente lei e pertencerem a pessoa que tenha sido condenada pela sua prática.\n\n2 - À avaliação, utilização, alienação e indemnização de bens apreendidos pelos órgãos de polícia criminal que sejam susceptíveis de vir a ser declarados perdidos a favor do Estado é aplicável o disposto no Decreto-Lei n.º 11/2007, de 19 de Janeiro."
+  },
+  "899371005": {
+   "fragment_id": "128964197",
+   "type": 11,
+   "heading": "Artigo 19.º — Acções encobertas",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 19.º — Acções encobertas\n\n1 - É admissível o recurso às acções encobertas previstas na Lei n.º 101/2001, de 25 de Agosto, nos termos aí previstos, no decurso de inquérito relativo aos seguintes crimes:\n\na) Os previstos na presente lei;\n\nb) Os cometidos por meio de um sistema informático, quando lhes corresponda, em abstrato, pena de prisão de máximo superior a 5 anos ou, ainda que a pena seja inferior, e sendo dolosos, os crimes contra a liberdade e autodeterminação sexual nos casos em que os ofendidos sejam menores ou incapazes, a burla qualificada, a burla informática e nas comunicações, o abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, a discriminação racial, religiosa ou sexual, as infrações económico-financeiras, bem como os crimes consagrados no título iv do Código do Direito de Autor e dos Direitos Conexos.\n\n2 - Sendo necessário o recurso a meios e dispositivos informáticos observam-se, naquilo que for aplicável, as regras previstas para a intercepção de comunicações.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371006": {
+   "fragment_id": "128964199",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito da cooperação internacional",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 20.º — Âmbito da cooperação internacional\n\nAs autoridades nacionais competentes cooperam com as autoridades estrangeiras competentes para efeitos de investigações ou procedimentos respeitantes a crimes relacionados com sistemas ou dados informáticos, bem como para efeitos de recolha de prova, em suporte eletrónico, de um crime, de acordo com as normas sobre transferência de dados pessoais previstas na Lei n.º 59/2019, de 8 de agosto.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371007": {
+   "fragment_id": "128964200",
+   "type": 11,
+   "heading": "Artigo 21.º — Ponto de contacto permanente para a cooperação internacional",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 21.º — Ponto de contacto permanente para a cooperação internacional\n\n1 - Para fins de cooperação internacional, tendo em vista a prestação de assistência imediata para os efeitos referidos no artigo anterior, a Polícia Judiciária assegura a manutenção de uma estrutura que garante um ponto de contacto disponível em permanência, vinte e quatro horas por dia, sete dias por semana.\n\n2 - Este ponto de contacto pode ser contactado por outros pontos de contacto, nos termos de acordos, tratados ou convenções a que Portugal se encontre vinculado, ou em cumprimento de protocolos de cooperação internacional com organismos judiciários ou policiais.\n\n3 - A assistência imediata prestada por este ponto de contacto permanente inclui:\n\na) A prestação de aconselhamento técnico a outros pontos de contacto;\n\nb) A preservação expedita de dados nos casos de urgência ou perigo na demora, em conformidade com o disposto no artigo seguinte;\n\nc) A recolha de prova para a qual seja competente nos casos de urgência ou perigo na demora;\n\nd) A localização de suspeitos e a prestação de informações de carácter jurídico, nos casos de urgência ou perigo na demora;\n\ne) A transmissão imediata ao Ministério Público de pedidos relativos às medidas referidas nas alíneas b) a d), fora dos casos aí previstos, tendo em vista a sua rápida execução.\n\n4 - Sempre que actue ao abrigo das alíneas b) a d) do número anterior, a Polícia Judiciária dá notícia imediata do facto ao Ministério Público e remete-lhe o relatório previsto no artigo 253.º do Código de Processo Penal.\n\n5 - O Ministério Público deve, de modo a responder prontamente a pedidos de assistência imediata, assegurar a disponibilidade de magistrados e meios técnicos para levar a cabo quaisquer intervenções processuais urgentes da sua competência.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371008": {
+   "fragment_id": "128964204",
+   "type": 11,
+   "heading": "Artigo 25.º — Acesso transfronteiriço a dados informáticos armazenados quando publicamente disponíveis ou com consentimento",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 25.º — Acesso transfronteiriço a dados informáticos armazenados quando publicamente disponíveis ou com consentimento\n\nAs autoridades estrangeiras competentes, sem necessidade de pedido prévio às autoridades portuguesas, de acordo com as normas sobre transferência de dados pessoais previstas na Lei n.º 59/2019, de 8 de agosto, podem:\n\na) Aceder a dados informáticos armazenados em sistema informático localizado em Portugal, quando publicamente disponíveis;\n\nb) Receber ou aceder, através de sistema informático localizado no seu território, a dados informáticos armazenados em Portugal, mediante consentimento legal e voluntário de pessoa legalmente autorizada a divulgá-los.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "899371009": {
+   "fragment_id": "128964210",
+   "type": 11,
+   "heading": "Artigo 30.º — Protecção de dados pessoais",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 30.º — Protecção de dados pessoais\n\nO tratamento de dados pessoais ao abrigo da presente lei efetua-se nos termos da Lei n.º 59/2019, de 8 de agosto, sendo aplicável, em caso de violação, o disposto nos respetivos capítulos vii e viii.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "128828735": {
+   "fragment_id": "128964213",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Julho de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 29 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 31 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "962719085": {
+   "fragment_id": "128964178",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401), em vigor a partir de 2026-04-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, considera-se:\n\na) «Sistema informático», qualquer dispositivo ou conjunto de dispositivos interligados ou associados, em que um ou mais de entre eles desenvolve, em execução de um programa, o tratamento automatizado de dados informáticos, bem como a rede que suporta a comunicação entre eles e o conjunto de dados informáticos armazenados, tratados, recuperados ou transmitidos por aquele ou aqueles dispositivos, tendo em vista o seu funcionamento, utilização, protecção e manutenção;\n\nb) «Dados informáticos», qualquer representação de factos, informações ou conceitos sob uma forma susceptível de processamento num sistema informático, incluindo os programas aptos a fazerem um sistema informático executar uma função;\n\nc) «Dados de tráfego», os dados informáticos relacionados com uma comunicação efectuada por meio de um sistema informático, gerados por este sistema como elemento de uma cadeia de comunicação, indicando a origem da comunicação, o destino, o trajecto, a hora, a data, o tamanho, a duração ou o tipo do serviço subjacente;\n\nd) «Fornecedor de serviço», qualquer entidade, pública ou privada, que faculte aos utilizadores dos seus serviços a possibilidade de comunicar por meio de um sistema informático, bem como qualquer outra entidade que trate ou armazene dados informáticos em nome e por conta daquela entidade fornecedora de serviço ou dos respectivos utilizadores;\n\ne) «Intercepção», o acto destinado a captar informações contidas num sistema informático, através de dispositivos electromagnéticos, acústicos, mecânicos ou outros;\n\nf) «Topografia», uma série de imagens ligadas entre si, independentemente do modo como são fixadas ou codificadas, que representam a configuração tridimensional das camadas que compõem um produto semicondutor e na qual cada imagem reproduz o desenho, ou parte dele, de uma superfície do produto semicondutor, independentemente da fase do respectivo fabrico;\n\ng) «Produto semicondutor», a forma final ou intermédia de qualquer produto, composto por um substrato que inclua uma camada de material semicondutor e constituído por uma ou várias camadas de matérias condutoras, isolantes ou semicondutoras, segundo uma disposição conforme a uma configuração tridimensional e destinada a cumprir, exclusivamente ou não, uma função electrónica;\n\nh) «Vulnerabilidade», uma fragilidade, suscetibilidade ou falha, que afeta redes e sistemas de informação, produtos ou serviços de tecnologias da informação ou comunicação, passível de ser explorada por uma ciberameaça, definida na aceção do ponto 8 do artigo 2.º do Regulamento (UE) 2019/881, do Parlamento Europeu e do Conselho, de 17 de abril de 2019.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401), em vigor a partir de 2026-04-03"
+  },
+  "962719086": {
+   "fragment_id": "963834342",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Atos não puníveis por interesse público de cibersegurança",
+   "in_force_from": "2026-04-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 125/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401), em vigor a partir de 2026-04-03"
+   ],
+   "markdown": "###### Artigo 8.º-A — Atos não puníveis por interesse público de cibersegurança\n\n1 - Não são puníveis factos suscetíveis de consubstanciar os crimes de acesso ilegítimo e de interceção ilegítima previstos, respetivamente, nos artigos 6.º e 7.º, se verificadas, cumulativamente, as seguintes circunstâncias:\n\na) O agente atue com a intenção única de identificar a existência de vulnerabilidades em sistema de informação, produtos e serviços de tecnologias de informação e comunicação, que não tenham sido criadas por si ou por terceiro de quem dependa, e com propósito de, através da sua divulgação, contribuir para a segurança do ciberespaço;\n\nb) O agente não atue com o propósito de obter vantagem económica ou promessa de vantagem económica decorrente da sua ação, sem prejuízo da remuneração que aquele obtenha como contrapartida da sua atividade profissional;\n\nc) O agente comunique, imediatamente após a sua ação, as eventuais vulnerabilidades identificadas, ao proprietário ou pessoa por ele designada para gerir o sistema de informação, produto ou serviço de tecnologias de informação e comunicação, ao titular de quaisquer dados obtidos e que se encontrem protegidos ao abrigo da legislação aplicável em matéria de proteção de dados pessoais, designadamente, o Regulamento Geral de Proteção de Dados (RGPD), aprovado pelo Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, a Lei n.º 26/2016, de 22 de agosto, na sua redação atual, a Lei n.º 58/2019, de 8 de agosto, e a Lei n.º 59/2019, de 8 de agosto;\n\nd) A atuação do agente seja proporcional aos seus propósitos e estritamente limitada pelos mesmos, bastando-se com as ações necessárias à identificação das vulnerabilidades e não provocando:\n\ni) Uma perturbação ou interrupção do funcionamento do sistema ou serviço em causa;\n\nii) A eliminação ou deterioração de dados informáticos ou a sua cópia não autorizada;\n\niii) Qualquer efeito prejudicial, danoso ou nocivo sobre a pessoa ou entidade afetada, direta ou indiretamente, ou sobre quaisquer terceiros, excluindo os efeitos correspondentes ao próprio acesso ilegítimo ou interceção ilegítima, nos termos previstos nos artigos 6.º e 7.º, e ainda os que resultariam já, com elevada probabilidade, da própria vulnerabilidade detetada ou da sua exploração;\n\ne) A atuação do agente não consubstancie violação de dados pessoais protegidos ao abrigo da legislação aplicável em matéria de proteção de dados pessoais, designadamente, do Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, da Lei n.º 58/2019, de 8 de agosto, e da Lei n.º 59/2019, de 8 de agosto.\n\n2 - A comunicação prevista na alínea c) do número anterior deve ser feita também à autoridade nacional de cibersegurança, que a remete à Polícia Judiciária sempre que revista relevância criminal.\n\n3 - Para efeitos de determinação da proporcionalidade da atuação do agente, tomar-se-á em conta se a mesma era necessária à deteção da vulnerabilidade e se a extensão dos sistemas ou dados informáticos acedidos, consultados e/ou copiados era imposta pelo interesse em contribuir para a segurança do ciberespaço, sendo expressamente vedado o uso das seguintes práticas:\n\na) Mecanismos de negação de serviço (DoS) ou negação de serviço distribuída (DDoS);\n\nb) Engenharia social, definido como facto de enganar de responsáveis ou utilizadores dos sistemas de informação com vista à disponibilização de informação sensível ou sigilosa;\n\nc) «Phishing» e variantes;\n\nd) Roubo ou furto de palavras-passe ou outras informações sensíveis;\n\ne) Eliminação ou alteração dolosa de dados informáticos;\n\nf) Inflição dolosa de danos ao sistema de informação;\n\ng) Instalação e distribuição de software malicioso.\n\n4 - Sem prejuízo das regras aplicáveis em matéria de proteção de dados, os dados informáticos que sejam comunicados ao proprietário ou pessoa encarregue da gestão do sistema de informação, produto e serviço de tecnologias de informação e comunicação, ou à autoridade nacional de cibersegurança devem ser eliminados no prazo de 10 dias contados a partir do momento em que a vulnerabilidade for corrigida, devendo garantir-se a sua natureza secreta durante todo o procedimento.\n\n5 - Não são igualmente puníveis os factos praticados com consentimento do proprietário ou administrador de sistema de informação, produto ou serviço de tecnologias de informação e comunicação, sem prejuízo do dever de notificação das vulnerabilidades eventualmente identificadas à autoridade nacional coordenadora encarregada da resposta a incidentes de cibersegurança das vulnerabilidades eventualmente identificadas, nos termos previstos no regime jurídico da cibersegurança.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 125/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401), em vigor a partir de 2026-04-03"
+  },
+  "962719087": {
+   "fragment_id": "128964186",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade penal das pessoas colectivas e entidades equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade penal das pessoas colectivas e entidades equiparadas\n\nAs pessoas colectivas e entidades equiparadas são penalmente responsáveis pelos crimes previstos na presente lei nos termos e limites do regime de responsabilização previsto no Código Penal."
+  },
+  "962719088": {
+   "fragment_id": "128964187",
+   "type": 11,
+   "heading": "Artigo 10.º — Perda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Perda de bens\n\n1 - O tribunal pode decretar a perda a favor do Estado dos objectos, materiais, equipamentos ou dispositivos que tiverem servido para a prática dos crimes previstos na presente lei e pertencerem a pessoa que tenha sido condenada pela sua prática.\n\n2 - À avaliação, utilização, alienação e indemnização de bens apreendidos pelos órgãos de polícia criminal que sejam susceptíveis de vir a ser declarados perdidos a favor do Estado é aplicável o disposto no Decreto-Lei n.º 11/2007, de 19 de Janeiro."
+  },
+  "1160665675": {
+   "fragment_id": "1160663175",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 24.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Aditado pelo/a Artigo 24.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+  },
+  "1160669675": {
+   "fragment_id": "128964199",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito da cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 20.º — Âmbito da cooperação internacional\n\nAs autoridades nacionais competentes cooperam com as autoridades estrangeiras competentes para efeitos de investigações ou procedimentos respeitantes a crimes relacionados com sistemas ou dados informáticos, bem como para efeitos de recolha de prova, em suporte eletrónico, de um crime, de acordo com as normas sobre transferência de dados pessoais previstas na Lei n.º 59/2019, de 8 de agosto.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "1160669775": {
+   "fragment_id": "128964200",
+   "type": 11,
+   "heading": "Artigo 21.º — Ponto de contacto permanente para a cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 21.º — Ponto de contacto permanente para a cooperação internacional\n\n1 - Para fins de cooperação internacional, tendo em vista a prestação de assistência imediata para os efeitos referidos no artigo anterior, a Polícia Judiciária assegura a manutenção de uma estrutura que garante um ponto de contacto disponível em permanência, vinte e quatro horas por dia, sete dias por semana.\n\n2 - Este ponto de contacto pode ser contactado por outros pontos de contacto, nos termos de acordos, tratados ou convenções a que Portugal se encontre vinculado, ou em cumprimento de protocolos de cooperação internacional com organismos judiciários ou policiais.\n\n3 - A assistência imediata prestada por este ponto de contacto permanente inclui:\n\na) A prestação de aconselhamento técnico a outros pontos de contacto;\n\nb) A preservação expedita de dados nos casos de urgência ou perigo na demora, em conformidade com o disposto no artigo seguinte;\n\nc) A recolha de prova para a qual seja competente nos casos de urgência ou perigo na demora;\n\nd) A localização de suspeitos e a prestação de informações de carácter jurídico, nos casos de urgência ou perigo na demora;\n\ne) A transmissão imediata ao Ministério Público de pedidos relativos às medidas referidas nas alíneas b) a d), fora dos casos aí previstos, tendo em vista a sua rápida execução.\n\n4 - Sempre que actue ao abrigo das alíneas b) a d) do número anterior, a Polícia Judiciária dá notícia imediata do facto ao Ministério Público e remete-lhe o relatório previsto no artigo 253.º do Código de Processo Penal.\n\n5 - O Ministério Público deve, de modo a responder prontamente a pedidos de assistência imediata, assegurar a disponibilidade de magistrados e meios técnicos para levar a cabo quaisquer intervenções processuais urgentes da sua competência.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "1160669875": {
+   "fragment_id": "128964201",
+   "type": 11,
+   "heading": "Artigo 22.º — Preservação e revelação expeditas de dados informáticos em cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Preservação e revelação expeditas de dados informáticos em cooperação internacional\n\n1 - Pode ser solicitada a Portugal a preservação expedita de dados informáticos armazenados em sistema informático aqui localizado, relativos a crimes previstos no artigo 11.º, com vista à apresentação de um pedido de auxílio judiciário para fins de pesquisa, apreensão e divulgação dos mesmos.\n\n2 - A solicitação especifica:\n\na) A autoridade que pede a preservação;\n\nb) A infracção que é objecto de investigação ou procedimento criminal, bem como uma breve exposição dos factos relacionados;\n\nc) Os dados informáticos a conservar e a sua relação com a infracção;\n\nd) Todas as informações disponíveis que permitam identificar o responsável pelos dados informáticos ou a localização do sistema informático;\n\ne) A necessidade da medida de preservação; e\n\nf) A intenção de apresentação de um pedido de auxílio judiciário para fins de pesquisa, apreensão e divulgação dos dados.\n\n3 - Em execução de solicitação de autoridade estrangeira competente nos termos dos números anteriores, a autoridade judiciária competente ordena a quem tenha disponibilidade ou controlo desses dados, designadamente a fornecedor de serviço, que os preserve.\n\n4 - A preservação pode também ser ordenada pela Polícia Judiciária mediante autorização da autoridade judiciária competente ou quando haja urgência ou perigo na demora, sendo aplicável, neste último caso, o disposto no n.º 4 do artigo anterior.\n\n5 - A ordem de preservação especifica, sob pena de nulidade:\n\na) A natureza dos dados;\n\nb) Se forem conhecidos, a origem e o destino dos mesmos; e\n\nc) O período de tempo pelo qual os dados devem ser preservados, até um máximo de três meses.\n\n6 - Em cumprimento de ordem de preservação que lhe seja dirigida, quem tem disponibilidade ou controlo desses dados, designadamente o fornecedor de serviço, preserva de imediato os dados em causa pelo período de tempo especificado, protegendo e conservando a sua integridade.\n\n7 - A autoridade judiciária competente, ou a Polícia Judiciária mediante autorização daquela autoridade, podem ordenar a renovação da medida por períodos sujeitos ao limite previsto na alínea c) do n.º 5, desde que se verifiquem os respectivos requisitos de admissibilidade, até ao limite máximo de um ano.\n\n8 - Quando seja apresentado o pedido de auxílio referido no n.º 1, a autoridade judiciária competente para dele decidir determina a preservação dos dados até à adopção de uma decisão final sobre o pedido.\n\n9 - Os dados preservados ao abrigo do presente artigo apenas podem ser fornecidos:\n\na) À autoridade judiciária competente, em execução do pedido de auxílio referido no n.º 1, nos mesmos termos em que poderiam sê-lo, em caso nacional semelhante, ao abrigo dos artigos 13.º a 17.º;\n\nb) À autoridade nacional que emitiu a ordem de preservação, nos mesmos termos em que poderiam sê-lo, em caso nacional semelhante, ao abrigo do artigo 13.º\n\n10 - A autoridade nacional à qual, nos termos do número anterior, sejam comunicados dados de tráfego identificadores de fornecedor de serviço e da via através dos quais a comunicação foi efectuada, comunica-os rapidamente à autoridade requerente, por forma a permitir a essa autoridade a apresentação de nova solicitação de preservação expedita de dados informáticos.\n\n11 - O disposto nos n.os 1 e 2 aplica-se, com as devidas adaptações, aos pedidos formulados pelas autoridades portuguesas."
+  },
+  "1160669975": {
+   "fragment_id": "128964202",
+   "type": 11,
+   "heading": "Artigo 23.º — Motivos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Motivos de recusa\n\n1 - A solicitação de preservação ou revelação expeditas de dados informáticos é recusada quando:\n\na) Os dados informáticos em causa respeitarem a infracção de natureza política ou infracção conexa segundo as concepções do direito português;\n\nb) Atentar contra a soberania, segurança, ordem pública ou outros interesses da República Portuguesa, constitucionalmente definidos;\n\nc) O Estado terceiro requisitante não oferecer garantias adequadas de protecção dos dados pessoais.\n\n2 - A solicitação de preservação expedita de dados informáticos pode ainda ser recusada quando houver fundadas razões para crer que a execução de pedido de auxílio judiciário subsequente para fins de pesquisa, apreensão e divulgação de tais dados será recusado por ausência de verificação do requisito da dupla incriminação."
+  },
+  "1160670075": {
+   "fragment_id": "128964203",
+   "type": 11,
+   "heading": "Artigo 24.º — Acesso a dados informáticos em cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Acesso a dados informáticos em cooperação internacional\n\n1 - Em execução de pedido de autoridade estrangeira competente, a autoridade judiciária competente pode proceder à pesquisa, apreensão e divulgação de dados informáticos armazenados em sistema informático localizado em Portugal, relativos a crimes previstos no artigo 11.º, quando se trata de situação em que a pesquisa e apreensão são admissíveis em caso nacional semelhante.\n\n2 - A autoridade judiciária competente procede com a maior rapidez possível quando existam razões para crer que os dados informáticos em causa são especialmente vulneráveis à perda ou modificação ou quando a cooperação rápida se encontre prevista em instrumento internacional aplicável.\n\n3 - O disposto no n.º 1 aplica-se, com as devidas adaptações, aos pedidos formulados pelas autoridades judiciárias portuguesas."
+  },
+  "1160670175": {
+   "fragment_id": "128964204",
+   "type": 11,
+   "heading": "Artigo 25.º — Acesso transfronteiriço a dados informáticos armazenados quando publicamente disponíveis ou com consentimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 25.º — Acesso transfronteiriço a dados informáticos armazenados quando publicamente disponíveis ou com consentimento\n\nAs autoridades estrangeiras competentes, sem necessidade de pedido prévio às autoridades portuguesas, de acordo com as normas sobre transferência de dados pessoais previstas na Lei n.º 59/2019, de 8 de agosto, podem:\n\na) Aceder a dados informáticos armazenados em sistema informático localizado em Portugal, quando publicamente disponíveis;\n\nb) Receber ou aceder, através de sistema informático localizado no seu território, a dados informáticos armazenados em Portugal, mediante consentimento legal e voluntário de pessoa legalmente autorizada a divulgá-los.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "1160669475": {
+   "fragment_id": "128964205",
+   "type": 11,
+   "heading": "Artigo 26.º — Intercepção de comunicações em cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Intercepção de comunicações em cooperação internacional\n\n1 - Em execução de pedido da autoridade estrangeira competente, pode ser autorizada pelo juiz a intercepção de transmissões de dados informáticos realizadas por via de um sistema informático localizado em Portugal, desde que tal esteja previsto em acordo, tratado ou convenção internacional e se trate de situação em que tal intercepção seja admissível, nos termos do artigo 18.º, em caso nacional semelhante.\n\n2 - É competente para a recepção dos pedidos de intercepção a Polícia Judiciária, que os apresentará ao Ministério Público, para que os apresente ao juiz de instrução criminal da comarca de Lisboa para autorização.\n\n3 - O despacho de autorização referido no artigo anterior permite também a transmissão imediata da comunicação para o Estado requerente, se tal procedimento estiver previsto no acordo, tratado ou convenção internacional com base no qual é feito o pedido.\n\n4 - O disposto no n.º 1 aplica-se, com as devidas adaptações, aos pedidos formulados pelas autoridades judiciárias portuguesas."
+  },
+  "1160665475": {
+   "fragment_id": "1160663475",
+   "type": 8,
+   "heading": "Secção II — Cooperação no âmbito do Regulamento (UE) 2023/1543 do Parlamento Europeu e do Conselho, de 12 de julho de 2023, relativo às ordens europeias de produção e às ordens europeias de conservação para efeitos de prova eletrónica em processos penais e para efeitos de execução de penas privativas de liberdade na sequência de processos penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cooperação no âmbito do Regulamento (UE) 2023/1543 do Parlamento Europeu e do Conselho, de 12 de julho de 2023, relativo às ordens europeias de produção e às ordens europeias de conservação para efeitos de prova eletrónica em processos penais e para efeitos de execução de penas privativas de liberdade na sequência de processos penais"
+  },
+  "1160670975": {
+   "fragment_id": "1160662275",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Ordens europeias de produção e ordens europeias de conservação de prova eletrónica entre Estados-Membros da União Europeia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 22.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 26.º-A — Ordens europeias de produção e ordens europeias de conservação de prova eletrónica entre Estados-Membros da União Europeia\n\nÀ emissão e execução de ordens de apreensão e de conservação de dados informáticos ou de dados de tráfego emitidas por Estados-Membros da União Europeia no âmbito do Regulamento (UE) 2023/1543 do Parlamento Europeu e do Conselho, de 12 de julho de 2023, relativo às ordens europeias de produção e às ordens europeias de conservação para efeitos de prova eletrónica em processos penais e para efeitos de execução de penas privativas de liberdade na sequência de processos penais, aplica-se o disposto no presente lei em condições idênticas às aplicadas à emissão e execução de ordens de apreensão e de conservação de dados informáticos ou de dados de tráfego emitidas pelas autoridades nacionais, em tudo o que não contrarie as disposições do referido Regulamento.\n\n> Aditado pelo/a Artigo 22.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+  },
+  "1160671075": {
+   "fragment_id": "1160662575",
+   "type": 11,
+   "heading": "Artigo 26.º-B — Autoridades nacionais de emissão",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 22.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 26.º-B — Autoridades nacionais de emissão\n\n1 - É competente para emitir, validar e transmitir uma ordem europeia de produção ou uma ordem europeia de conservação de prova eletrónica a autoridade judiciária nacional com competência para a direção do processo na fase em que este se encontra.\n\n2 - O disposto no número anterior não prejudica a necessidade de intervenção do juiz de instrução nos casos em que estejam em causa dados sujeitos à reserva da sua competência.\n\n3 - A ordem europeia de produção ou de conservação de prova eletrónica é emitida por iniciativa da autoridade judiciária ou a pedido dos sujeitos processuais, nos termos em que estes podem requerer a obtenção ou produção de meios de prova, de acordo com a lei processual penal.\n\n> Aditado pelo/a Artigo 22.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+  },
+  "1160670775": {
+   "fragment_id": "1160662875",
+   "type": 11,
+   "heading": "Artigo 26.º-C — Autoridades nacionais de execução",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 22.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 26.º-C — Autoridades nacionais de execução\n\n1 - É competente para assegurar a execução de uma ordem europeia de produção ou de conservação de prova eletrónica a autoridade nacional com competência para executar a mesma medida de investigação em território nacional, de acordo com o disposto na lei processual penal, nas leis de organização do sistema judiciário e no Estatuto do Ministério Público.\n\n2 - Para efeitos do disposto no número anterior, é competente a autoridade judiciária da comarca em cuja área deva ser executada a medida de investigação.\n\n3 - Quando a execução das medidas deva ter lugar na área de competência territorial de diferentes juízos locais criminais da mesma comarca, fixa-se a competência nos termos do artigo 19.º da Lei n.º 88/2017, de 21 de agosto.\n\n4 - As autoridades referidas nos números anteriores são competentes para deliberar sobre oposições fundamentadas deduzidas por destinatários de um COEP, nos termos do artigo 17.º do Regulamento.\n\n> Aditado pelo/a Artigo 22.º do/a [Lei n.º 55/2026 - Diário da República n.º 161/2026, Série I de 2026-08-20](https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900), em vigor a partir de 2026-08-25."
+  }
+ }
+}

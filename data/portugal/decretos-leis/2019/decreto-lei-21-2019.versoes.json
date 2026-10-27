@@ -1,0 +1,1812 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118748848:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-118872841",
+ "dre_path": "/dr/detalhe/decreto-lei/21-2019-118748848",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "118872937",
+    "118872938",
+    "118872939",
+    "118872940",
+    "118872941",
+    "118872942",
+    "118872943",
+    "118872944",
+    "118872945",
+    "118872946",
+    "118872947",
+    "118872948",
+    "118872949",
+    "118872950",
+    "118872951",
+    "118872952",
+    "118872953",
+    "118872954",
+    "118872955",
+    "118872956",
+    "118872957",
+    "118872958",
+    "118872959",
+    "118872960",
+    "118872961",
+    "118872962",
+    "118872963",
+    "118872964",
+    "118872965",
+    "118872966",
+    "118872967",
+    "118872968",
+    "118872969",
+    "118872970",
+    "118872971",
+    "118872972",
+    "118872973",
+    "118872974",
+    "118876275",
+    "118876276",
+    "118876277",
+    "118876278",
+    "118876279",
+    "118876280",
+    "118876281",
+    "118876282",
+    "118876283",
+    "118876284",
+    "118876285",
+    "118876286",
+    "118876287",
+    "118876288",
+    "118876289",
+    "118876290",
+    "118876291",
+    "118876292",
+    "118876293",
+    "118876294",
+    "118876295",
+    "118876296",
+    "118876297",
+    "118876298",
+    "118876299",
+    "118876300",
+    "118876301",
+    "118876302",
+    "118876303",
+    "118876304",
+    "118876305",
+    "118876306",
+    "118876307",
+    "118876308",
+    "118876309",
+    "118876310",
+    "118876311",
+    "118876312",
+    "118876313",
+    "118876314",
+    "118876315",
+    "118876316",
+    "118876317",
+    "118876318",
+    "118876319",
+    "118876320",
+    "118876321",
+    "118876322",
+    "118876323",
+    "118876324",
+    "118876325",
+    "118876326",
+    "118876327",
+    "118876328",
+    "118876329",
+    "118876330",
+    "118876331",
+    "118876332",
+    "118876333",
+    "118876334",
+    "118876335",
+    "118876336",
+    "118876338",
+    "118876339"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:121403441:por",
+     "title": "Declaração de Retificação n.º 10/2019",
+     "published": "2019-03-25",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/10-2019-121403441",
+     "date": "2019-02-04"
+    }
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 67.º",
+    "Altera Artigo 68.º",
+    "Altera Artigo 71.º",
+    "Altera Artigo 76.º"
+   ],
+   "fragments": [
+    "118872937",
+    "118872938",
+    "118872939",
+    "118872940",
+    "118872941",
+    "122773928",
+    "118872943",
+    "118872944",
+    "118872945",
+    "118872946",
+    "118872947",
+    "118872948",
+    "118872949",
+    "118872950",
+    "118872951",
+    "118872952",
+    "118872953",
+    "118872954",
+    "118872955",
+    "118872956",
+    "118872957",
+    "118872958",
+    "118872959",
+    "118872960",
+    "118872961",
+    "118872962",
+    "118872963",
+    "118872964",
+    "118872965",
+    "118872966",
+    "118872967",
+    "118872968",
+    "118872969",
+    "118872970",
+    "118872971",
+    "118872972",
+    "118872973",
+    "118872974",
+    "118876275",
+    "118876276",
+    "118876277",
+    "118876278",
+    "118876279",
+    "118876280",
+    "118876281",
+    "118876282",
+    "122773929",
+    "118876284",
+    "118876285",
+    "118876286",
+    "118876287",
+    "118876288",
+    "118876289",
+    "118876290",
+    "118876291",
+    "118876292",
+    "118876293",
+    "118876294",
+    "118876295",
+    "118876296",
+    "122773930",
+    "118876298",
+    "118876299",
+    "118876300",
+    "118876301",
+    "118876302",
+    "118876303",
+    "118876304",
+    "118876305",
+    "118876306",
+    "118876307",
+    "118876308",
+    "118876309",
+    "118876310",
+    "118876311",
+    "118876312",
+    "118876313",
+    "118876314",
+    "122773931",
+    "118876316",
+    "118876317",
+    "118876318",
+    "118876319",
+    "118876320",
+    "118876321",
+    "118876322",
+    "118876323",
+    "118876324",
+    "118876325",
+    "118876326",
+    "122773932",
+    "122773933",
+    "118876329",
+    "118876330",
+    "122773934",
+    "118876332",
+    "118876333",
+    "118876334",
+    "118876335",
+    "122773935",
+    "118876337",
+    "118876338",
+    "118876339"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 67.º"
+   ],
+   "fragments": [
+    "118872937",
+    "118872938",
+    "118872939",
+    "118872940",
+    "118872941",
+    "122773928",
+    "118872943",
+    "118872944",
+    "118872945",
+    "118872946",
+    "118872947",
+    "118872948",
+    "118872949",
+    "118872950",
+    "118872951",
+    "118872952",
+    "118872953",
+    "118872954",
+    "118872955",
+    "118872956",
+    "118872957",
+    "118872958",
+    "118872959",
+    "118872960",
+    "118872961",
+    "118872962",
+    "118872963",
+    "118872964",
+    "118872965",
+    "118872966",
+    "118872967",
+    "118872968",
+    "118872969",
+    "118872970",
+    "118872971",
+    "118872972",
+    "118872973",
+    "118872974",
+    "118876275",
+    "118876276",
+    "118876277",
+    "118876278",
+    "118876279",
+    "118876280",
+    "118876281",
+    "118876282",
+    "122773929",
+    "118876284",
+    "118876285",
+    "118876286",
+    "118876287",
+    "118876288",
+    "118876289",
+    "118876290",
+    "118876291",
+    "118876292",
+    "118876293",
+    "118876294",
+    "118876295",
+    "118876296",
+    "122773930",
+    "118876298",
+    "118876299",
+    "118876300",
+    "118876301",
+    "118876302",
+    "118876303",
+    "118876304",
+    "118876305",
+    "118876306",
+    "118876307",
+    "118876308",
+    "118876309",
+    "118876310",
+    "118876311",
+    "118876312",
+    "118876313",
+    "118876314",
+    "122773931",
+    "118876316",
+    "118876317",
+    "118876318",
+    "118876319",
+    "118876320",
+    "118876321",
+    "118876322",
+    "118876323",
+    "118876324",
+    "118876325",
+    "118876326",
+    "131051352",
+    "122773933",
+    "118876329",
+    "118876330",
+    "122773934",
+    "118876332",
+    "118876333",
+    "118876334",
+    "118876335",
+    "122773935",
+    "118876337",
+    "118876338",
+    "118876339"
+   ]
+  },
+  {
+   "date": "2020-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140087206:por",
+     "title": "Decreto-Lei n.º 56/2020",
+     "published": "2020-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/56-2020-140087206"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 72.º",
+    "Altera Artigo 76.º"
+   ],
+   "fragments": [
+    "118872937",
+    "118872938",
+    "118872939",
+    "118872940",
+    "118872941",
+    "122773928",
+    "118872943",
+    "118872944",
+    "118872945",
+    "118872946",
+    "118872947",
+    "118872948",
+    "118872949",
+    "118872950",
+    "118872951",
+    "118872952",
+    "118872953",
+    "118872954",
+    "118872955",
+    "118872956",
+    "118872957",
+    "118872958",
+    "118872959",
+    "118872960",
+    "118872961",
+    "118872962",
+    "118872963",
+    "118872964",
+    "118872965",
+    "118872966",
+    "118872967",
+    "118872968",
+    "118872969",
+    "118872970",
+    "118872971",
+    "118872972",
+    "118872973",
+    "118872974",
+    "118876275",
+    "118876276",
+    "118876277",
+    "118876278",
+    "118876279",
+    "118876280",
+    "118876281",
+    "118876282",
+    "122773929",
+    "118876284",
+    "118876285",
+    "118876286",
+    "118876287",
+    "118876288",
+    "118876289",
+    "118876290",
+    "118876291",
+    "118876292",
+    "118876293",
+    "118876294",
+    "118876295",
+    "118876296",
+    "122773930",
+    "118876298",
+    "118876299",
+    "118876300",
+    "118876301",
+    "118876302",
+    "118876303",
+    "118876304",
+    "118876305",
+    "118876306",
+    "118876307",
+    "118876308",
+    "118876309",
+    "118876310",
+    "118876311",
+    "118876312",
+    "118876313",
+    "118876314",
+    "122773931",
+    "118876316",
+    "118876317",
+    "118876318",
+    "118876319",
+    "118876320",
+    "118876321",
+    "118876322",
+    "118876323",
+    "118876324",
+    "118876325",
+    "118876326",
+    "131051352",
+    "122773933",
+    "118876329",
+    "118876330",
+    "122773934",
+    "139891171",
+    "118876333",
+    "118876334",
+    "118876335",
+    "139891172",
+    "118876337",
+    "118876338",
+    "118876339"
+   ]
+  },
+  {
+   "date": "2023-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207881789:por",
+     "title": "Decreto-Lei n.º 16/2023",
+     "published": "2023-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/16-2023-207881789"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 43.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 65.º",
+    "Altera Artigo 66.º",
+    "Altera Artigo 67.º"
+   ],
+   "fragments": [
+    "118872937",
+    "118872938",
+    "118872939",
+    "118872940",
+    "118872941",
+    "122773928",
+    "118872943",
+    "118872944",
+    "118872945",
+    "118872946",
+    "118872947",
+    "118872948",
+    "118872949",
+    "118872950",
+    "118872951",
+    "118872952",
+    "118872953",
+    "118872954",
+    "118872955",
+    "118872956",
+    "118872957",
+    "118872958",
+    "118872959",
+    "118872960",
+    "118872961",
+    "118872962",
+    "118872963",
+    "118872964",
+    "118872965",
+    "118872966",
+    "118872967",
+    "118872968",
+    "118872969",
+    "118872970",
+    "118872971",
+    "118872972",
+    "118872973",
+    "118872974",
+    "118876275",
+    "118876276",
+    "118876277",
+    "118876278",
+    "118876279",
+    "118876280",
+    "118876281",
+    "118876282",
+    "122773929",
+    "118876284",
+    "118876285",
+    "118876286",
+    "118876287",
+    "118876288",
+    "118876289",
+    "118876290",
+    "118876291",
+    "118876292",
+    "118876293",
+    "118876294",
+    "118876295",
+    "118876296",
+    "207863473",
+    "118876298",
+    "118876299",
+    "118876300",
+    "118876301",
+    "118876302",
+    "118876303",
+    "118876304",
+    "118876305",
+    "118876306",
+    "118876307",
+    "207863474",
+    "118876309",
+    "118876310",
+    "207919275",
+    "118876312",
+    "118876313",
+    "118876314",
+    "122773931",
+    "118876316",
+    "118876317",
+    "118876318",
+    "118876319",
+    "118876320",
+    "118876321",
+    "118876322",
+    "118876323",
+    "118876324",
+    "207919276",
+    "207919277",
+    "207988676",
+    "122773933",
+    "118876329",
+    "118876330",
+    "122773934",
+    "139891171",
+    "118876333",
+    "118876334",
+    "118876335",
+    "139891172",
+    "118876337",
+    "118876338",
+    "118876339"
+   ]
+  },
+  {
+   "date": "2023-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835674290:por",
+     "title": "Decreto-Lei n.º 125/2023",
+     "published": "2023-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2023-835674290"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 38.º-A",
+    "Altera Artigo 36.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "118872937",
+    "118872938",
+    "118872939",
+    "118872940",
+    "118872941",
+    "122773928",
+    "118872943",
+    "118872944",
+    "118872945",
+    "118872946",
+    "118872947",
+    "118872948",
+    "118872949",
+    "118872950",
+    "118872951",
+    "118872952",
+    "118872953",
+    "118872954",
+    "118872955",
+    "118872956",
+    "118872957",
+    "118872958",
+    "118872959",
+    "118872960",
+    "118872961",
+    "118872962",
+    "118872963",
+    "118872964",
+    "118872965",
+    "118872966",
+    "118872967",
+    "118872968",
+    "118872969",
+    "118872970",
+    "118872971",
+    "118872972",
+    "118872973",
+    "118872974",
+    "118876275",
+    "118876276",
+    "118876277",
+    "118876278",
+    "118876279",
+    "118876280",
+    "118876281",
+    "118876282",
+    "122773929",
+    "118876284",
+    "118876285",
+    "118876286",
+    "118876287",
+    "118876288",
+    "835807192",
+    "118876290",
+    "835807193",
+    "835807196",
+    "835807197",
+    "835807198",
+    "835807199",
+    "118876295",
+    "118876296",
+    "207863473",
+    "118876298",
+    "118876299",
+    "118876300",
+    "118876301",
+    "118876302",
+    "118876303",
+    "118876304",
+    "118876305",
+    "118876306",
+    "118876307",
+    "207863474",
+    "118876309",
+    "835807194",
+    "207919275",
+    "118876312",
+    "118876313",
+    "118876314",
+    "122773931",
+    "118876316",
+    "118876317",
+    "118876318",
+    "118876319",
+    "118876320",
+    "118876321",
+    "118876322",
+    "118876323",
+    "118876324",
+    "207919276",
+    "207919277",
+    "207988676",
+    "122773933",
+    "118876329",
+    "118876330",
+    "122773934",
+    "139891171",
+    "118876333",
+    "118876334",
+    "118876335",
+    "139891172",
+    "118876337",
+    "118876338",
+    "118876339"
+   ]
+  }
+ ],
+ "fragments": {
+  "118872937": {
+   "fragment_id": "118872842",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 21/2019\n\nde 30 de janeiro\n\nO Programa do XXI Governo Constitucional preconiza a modernização do Estado, através da transformação do seu modelo de funcionamento, condição essencial para o desenvolvimento socioeconómico do país e para a satisfação, com eficiência e qualidade acrescidas, das necessidades das populações.\n\nCoerente com este desígnio, a transferência de competências da Administração direta e indireta do Estado para o poder local democrático, operada pela Lei n.º 50/2018, de 16 de agosto, concretiza e desenvolve os princípios da subsidiariedade, da autonomia das autarquias locais e da descentralização democrática da Administração Pública, plasmados no n.º 1 do artigo 6.º da Constituição da República Portuguesa.\n\nO exercício de competências pelas autarquias locais no domínio da educação é uma realidade com mais de três décadas e um dos fatores decisivos na melhoria da escola pública, nomeadamente na promoção do sucesso escolar e na subida constante da taxa de escolarização ao longo desse período de tempo. As autarquias locais foram essenciais na expansão da rede nacional da educação pré-escolar, na construção de centros escolares dotados das valências necessárias ao desenvolvimento qualitativo dos projetos educativos, na organização dos transportes escolares e na implementação da escola a tempo inteiro, respostas que concorrem decididamente para o cumprimento da garantia constitucional do direito à igualdade de oportunidades de acesso e êxito escolar.\n\nEsta partilha de responsabilidades entre a Administração central e a Administração local desenvolveu-se através de sucessivos quadros legais que ampliaram progressivamente o âmbito de intervenção das autarquias.\n\nO presente decreto-lei é o resultado de um extenso e profícuo trabalho realizado com a Associação Nacional de Municípios Portugueses e tem por base a experiência adquirida com os diferentes movimentos descentralizadores.\n\nO novo quadro de competências das autarquias locais e das entidades intermunicipais em matéria de educação concretiza um modelo de administração e gestão do sistema educativo que respeita a integridade do serviço público de educação, a equidade territorial e a solidariedade intermunicipal e inter-regional no planeamento das ofertas educativas e formativas e na afetação dos recursos públicos no quadro da correção de desigualdades e assimetrias locais e regionais, bem como a tomada de decisões numa lógica de proximidade.\n\nCom esse propósito, este novo regime redefine as áreas de intervenção e o âmbito de ação e responsabilidade de cada interveniente, assente nos princípios e regras consagrados na Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual, e no Regime de Autonomia, Administração e Gestão dos Estabelecimentos Públicos de Educação Pré-Escolar e dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual.\n\nEntre estes princípios, destaca-se a salvaguarda da autonomia pedagógica e curricular dos agrupamentos de escolas e escolas não agrupadas, recentemente reforçada pela faculdade conferida às escolas para gerir parcialmente o currículo dos ensinos básico e secundário partindo das matrizes curriculares-base, e a estrita observância dos direitos de participação dos docentes no processo educativo, previstos no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, designadamente a autonomia técnica e científica.\n\nNota inovadora deste quadro legal é a correspondência entre o âmbito das competências descentralizadas e a organização da oferta pública de ensino básico e secundário que assegura o cumprimento da escolaridade obrigatória pelas crianças e jovens em idade escolar e visa a universalidade da educação pré-escolar. Esta solução, além de garantir coerência entre o exercício das competências das autarquias locais e entidades intermunicipais no domínio da educação e a organização geral do sistema educativo, corresponde aos diferentes níveis e ciclos de ensino existentes nos agrupamentos de escolas, pondo termo ao exercício concomitante de competências da mesma natureza, numa única unidade orgânica, por diferentes entidades públicas.\n\nMantêm-se como competências do departamento governamental da área da educação a definição da rede educativa, em articulação com os municípios, as entidades intermunicipais e os agrupamentos de escolas e escolas não agrupadas, bem como a decisão sobre a contratualização ou cedência da criação e gestão de oferta pública da educação pré-escolar e dos ensinos básico e secundário a entidades de natureza privada, cooperativa, solidária ou afim.\n\nO presente decreto-lei procede ao reforço das áreas que anteriormente foram descentralizadas para os municípios conferindo-lhes, também, novas competências e organizando num único diploma legal as competências das autarquias locais e entidades intermunicipais nas vertentes de planeamento, investimento e gestão no domínio da educação e regulando o funcionamento dos conselhos municipais de educação.\n\nA este respeito, destaca-se a manutenção da carta educativa municipal e do plano de transporte escolar como instrumentos de planeamento e a consagração da participação das entidades intermunicipais no planeamento plurianual da rede de oferta de educação e formação.\n\nAs competências das autarquias locais no domínio do investimento, equipamento, conservação e manutenção de edifícios escolares são alargadas a todo o ensino básico e ao ensino secundário, com exceção das escolas cuja oferta de educação e formação abranja, pela sua especificidade, uma área territorial supramunicipal.\n\nNo âmbito das competências de gestão, realçam-se as novas competências de organização e gestão dos procedimentos de atribuição de apoios de aplicação universal e de aplicação diferenciada, sendo o regime jurídico aplicável à atribuição e ao funcionamento dos apoios no âmbito da ação social escolar estabelecido em diploma próprio. Exclui-se, no entanto, a organização, desenvolvimento e execução de programas de distribuição gratuita e reutilização de manuais escolares, cuja competência se mantém sob alçada do departamento governamental com competência na área da educação e dos órgãos de administração e gestão dos agrupamentos de escolas e escolas não agrupadas.\n\nTambém o fornecimento de refeições em refeitórios escolares dos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário passa a ser gerido pelos municípios.\n\nA gestão, funcionamento, conservação, manutenção e equipamento das residências escolares que integram a rede oficial de residências para estudantes passam a integrar a competência dos municípios de onde se localizam. No mesmo sentido, a gestão e o funcionamento das modalidades de colocação de alunos junto de famílias de acolhimento e alojamento facultado por entidades privadas, mediante o estabelecimento de acordos de cooperação, passam a ser da competência dos órgãos municipais da área do agrupamento de escolas ou escolas não agrupadas em que os beneficiários se encontram matriculados, devendo os critérios de concessão destas modalidades ser estabelecidos no referido diploma que vier a regular o regime jurídico aplicável à atribuição e ao funcionamento dos apoios no âmbito da ação social escolar.\n\nNa lógica da correspondência entre o exercício das competências e a escolaridade obrigatória acima referida, a competência para o recrutamento, seleção e gestão do pessoal não docente, de todos os níveis e ciclos de ensino, passa para as câmaras municipais. Para o efeito, prevê-se a transferência do pessoal não docente com vínculo ao Ministério da Educação para os municípios, estabelecendo-se mecanismos que visam a salvaguarda da situação jurídico-funcional do pessoal abrangido.\n\nOs municípios adquirem ainda, em articulação com as forças de segurança presentes no respetivo território e com os órgãos de administração e gestão dos agrupamentos de escolas e escolas não agrupadas, as competências de organização da vigilância e segurança de equipamentos educativos, designadamente o edificado e espaços exteriores incluídos no seu perímetro.\n\nO conselho municipal de educação permanece como órgão institucional de intervenção das comunidades educativas em cada concelho, no reconhecimento do seu papel essencial como instância territorial de consulta e reflexão sobre a política educativa. A sua composição é alargada, nele se incluindo, além dos membros que atualmente o integram, um representante das comissões de coordenação e desenvolvimento regional, um representante de cada um dos conselhos pedagógicos dos agrupamentos de escolas e escolas não agrupadas e um representante das instituições do setor social e solidário que desenvolvam atividade na área da educação.\n\nCom o objetivo de garantir a coordenação entre os diferentes níveis de administração é criada, em cada concelho, uma comissão restrita que acompanhará o desenvolvimento e evolução das competências transferidas.\n\nFace à data da publicação do presente decreto-lei, e à dificuldade que muitos municípios terão para cumprir o prazo de comunicação estabelecido na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, prevê-se um regime próprio para o ano de 2019. Assim, tendo em consideração estes factos, os municípios e as entidades intermunicipais que não pretendam a transferência das competências previstas no presente decreto-lei no ano de 2019 podem ainda comunicar esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 30 de abril de 2019.\n\nForam ouvidos a Associação Nacional de Municípios Portugueses e o Conselho das Escolas.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583) O presente decreto-lei produz efeitos à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes, e até à entrada em vigor do decreto-lei de execução orçamental para 2020."
+  },
+  "118872938": {
+   "fragment_id": "118872843",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "118872939": {
+   "fragment_id": "118872844",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei concretiza a transferência de competências para os órgãos municipais e das entidades intermunicipais no domínio da educação, ao abrigo dos artigos 11.º e 31.º da Lei n.º 50/2018, de 16 de agosto.\n\n2 - O presente decreto-lei regula ainda o funcionamento dos conselhos municipais de educação."
+  },
+  "118872940": {
+   "fragment_id": "118872845",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípio geral\n\nO disposto no presente decreto-lei subordina-se aos princípios e regras consagrados na Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual, e no Regime de Autonomia, Administração e Gestão dos Estabelecimentos Públicos da Educação Pré-escolar e dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual."
+  },
+  "118872941": {
+   "fragment_id": "118872846",
+   "type": 11,
+   "heading": "Artigo 3.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transferência de competências\n\n1 - É da competência dos órgãos municipais participar, em matéria de educação, no planeamento, na gestão e na realização de investimentos, nos termos regulados no presente decreto-lei.\n\n2 - É da competência dos órgãos das entidades intermunicipais o planeamento intermunicipal da rede de transporte escolar e da oferta educativa de nível supramunicipal."
+  },
+  "118872942": {
+   "fragment_id": "118872847",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício das competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exercício das competências\n\n1 - Salvo indicação em contrário, todas as competências previstas no presente decreto-lei são exercidas pela câmara municipal.\n\n2 - No exercício das competências previstas no presente decreto-lei, os órgãos dos municípios e das entidades intermunicipais, devem respeitar:\n\na) O direito à igualdade de oportunidades de acesso e sucesso escolar;\n\nb) O cumprimento do currículo e orientações pedagógicas nacionais;\n\nc) A equidade territorial e a solidariedade intermunicipal e inter-regional no planeamento das ofertas educativas e formativas e na afetação dos recursos públicos, no quadro da correção de desigualdades e assimetrias locais e regionais;\n\nd) O respeito pela autonomia curricular e pedagógica dos agrupamentos de escolas e escolas não agrupadas;\n\ne) A salvaguarda da autonomia pedagógica no exercício da atividade docente;\n\nf) A gestão pública da rede de estabelecimentos públicos de ensino, existentes ou a criar, através dos órgãos próprios dos agrupamentos de escolas e escolas não agrupadas.\n\n3 - A contratualização ou cedência, a qualquer título, da criação e gestão de oferta pública da educação pré-escolar e dos ensinos básico e secundário a entidades de natureza privada, cooperativa, solidária ou afim, cabe exclusivamente aos departamentos governamentais com competência na matéria."
+  },
+  "118872943": {
+   "fragment_id": "118872848",
+   "type": 1,
+   "heading": "Capítulo II — Instrumentos de planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instrumentos de planeamento"
+  },
+  "118872944": {
+   "fragment_id": "118872849",
+   "type": 8,
+   "heading": "Secção I — Carta educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Carta educativa"
+  },
+  "118872945": {
+   "fragment_id": "118872850",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "118872946": {
+   "fragment_id": "118872851",
+   "type": 11,
+   "heading": "Artigo 5.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conceito\n\nA carta educativa é, a nível municipal, o instrumento de planeamento e ordenamento prospetivo de edifícios e equipamentos educativos a localizar no município, de acordo com as ofertas de educação e formação que seja necessário satisfazer, tendo em vista a melhor utilização dos recursos educativos, no quadro do desenvolvimento demográfico e socioeconómico de cada município."
+  },
+  "118872947": {
+   "fragment_id": "118872852",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos\n\n1 - A carta educativa visa assegurar a adequação da rede de estabelecimentos de educação pré-escolar e de ensino básico e secundário, para que, em cada momento, as ofertas educativas disponíveis a nível municipal respondam à procura efetiva existente.\n\n2 - A carta educativa é, necessariamente, o reflexo, a nível municipal, do processo de ordenamento a nível nacional e intermunicipal da rede de ofertas de educação e formação.\n\n3 - A carta educativa deve promover a criação de condições mais favoráveis ao desenvolvimento de centros de excelência e de competências educativas, bem como as condições para a gestão eficiente dos recursos educativos disponíveis.\n\n4 - A carta educativa deve incluir uma análise prospetiva, fixando objetivos de ordenamento progressivo, a médio e longo prazos.\n\n5 - A carta educativa deve garantir a coerência da rede educativa com a política urbana do município, nomeadamente com a distribuição espacial da população e das atividades económicas daquele."
+  },
+  "118872948": {
+   "fragment_id": "118872853",
+   "type": 11,
+   "heading": "Artigo 7.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objeto\n\n1 - A carta educativa tem por objeto a identificação, a nível municipal, dos edifícios e equipamentos educativos, e respetiva localização geográfica, bem como das ofertas educativas da educação pré-escolar, dos ensinos básico e secundário da educação escolar, incluindo as suas modalidades especiais de educação, e da educação extraescolar.\n\n2 - A carta educativa incide sobre os estabelecimentos de educação pré-escolar e de ensino da rede pública, privada, cooperativa e solidária.\n\n3 - A carta educativa deve refletir a estratégia municipal para a redução do abandono escolar precoce e para a promoção do sucesso educativo.\n\n4 - A carta educativa deve prever os termos da prossecução, pelo município, de ações na área das atividades complementares de ação educativa e do desenvolvimento do desporto escolar."
+  },
+  "118872949": {
+   "fragment_id": "118872854",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rede educativa\n\n1 - Entende-se por «rede educativa» a configuração da organização territorial dos edifícios escolares, ou dos edifícios utilizados em atividades escolares, afetos aos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário, visando a sua adequação às orientações e objetivos de política educativa.\n\n2 - A rede educativa é definida pelo departamento governamental com competência na matéria, em articulação com os municípios, as entidades intermunicipais e os agrupamentos de escolas e escolas não agrupadas.\n\n3 - A rede educativa é revista periodicamente, visando a sua adequação à procura e ao seu desenvolvimento qualitativo."
+  },
+  "118872950": {
+   "fragment_id": "118872855",
+   "type": 11,
+   "heading": "Artigo 9.º — Equipamentos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Equipamentos educativos\n\n1 - Os equipamentos educativos são o conjunto dos meios materiais, designadamente os edifícios escolares, o equipamento básico, o mobiliário, o material didático e os equipamentos tecnológico e desportivo, utilizados, ainda que não exclusivamente, para a conveniente realização da atividade educativa.\n\n2 - As características dos equipamentos educativos obedecem a termos de referência fixados, em conformidade com a lei, pelos departamentos governamentais com competência na matéria."
+  },
+  "118872951": {
+   "fragment_id": "118872856",
+   "type": 3,
+   "heading": "Subsecção II — Ordenamento da rede educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Ordenamento da rede educativa"
+  },
+  "118872952": {
+   "fragment_id": "118872857",
+   "type": 11,
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\nO ordenamento da rede educativa deve, no respeito pela lei de bases do sistema educativo, estruturar-se de acordo com os seguintes princípios gerais:\n\na) Consideração da educação pré-escolar como primeira etapa da educação básica;\n\nb) Sequencialidade entre a educação pré-escolar, os diferentes ciclos do ensino básico e o ensino secundário;\n\nc) Expressão territorial da rede educativa, entendida como a distribuição dos estabelecimentos dos diferentes níveis de educação e de ensino, de acordo com a divisão administrativa do país, tendo em atenção fatores resultantes das características geográficas do território, da densidade e da idade da população a escolarizar, do nível de educação e ensino em questão e da necessidade de assegurar a racionalidade e complementaridade das ofertas."
+  },
+  "118872953": {
+   "fragment_id": "118872858",
+   "type": 11,
+   "heading": "Artigo 11.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Objetivos\n\nO ordenamento da rede educativa deve contribuir para os seguintes objetivos:\n\na) Garantia do direito de acesso de todas as crianças e alunos aos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário;\n\nb) Superação das situações de isolamento e de quebra de inserção socioeducativa das crianças e alunos, prevenindo a exclusão social;\n\nc) Garantia de uma adequada complementaridade de ofertas educativas;\n\nd) Garantia da qualidade funcional, arquitetónica e ambiental dos estabelecimentos de educação pré-escolar e de ensino;\n\ne) Desenvolvimento de formas de organização e gestão dos estabelecimentos de educação pré-escolar e de ensino mais eficazes;\n\nf) Adequação da oferta de recursos e racionalização da sua distribuição, com vista ao estabelecimento e à distinção daqueles que, pelas suas características e natureza, devam ser comuns a uma determinada área geográfica, para que melhor sejam partilhados por todos os estabelecimentos de educação pré-escolar e de ensino dessa mesma área."
+  },
+  "118872954": {
+   "fragment_id": "118872859",
+   "type": 11,
+   "heading": "Artigo 12.º — Parâmetros técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Parâmetros técnicos\n\n1 - O ordenamento da rede educativa deve respeitar, entre outros, os seguintes parâmetros técnicos:\n\na) Tipologia de estabelecimentos de educação pré-escolar e de ensino públicos, em cada momento definidos e caracterizados;\n\nb) Modalidades de agregação entre os estabelecimentos de educação pré-escolar e os dos diferentes ciclos do ensino básico e do ensino secundário;\n\nc) Caracterização dos edifícios e de outras infraestruturas educativas, bem como do mobiliário e demais equipamento, em função do tipo de escola, do número de alunos, das exigências pedagógicas e dos padrões de qualidade e de funcionamento definidos;\n\nd) Dimensão padrão dos estabelecimentos de educação pré-escolar e de ensino, por forma a estabelecer os limiares mínimo e máximo das crianças e alunos utentes de cada jardim-de-infância, escola do ensino básico, escola do ensino secundário e agrupamento de escolas, tendo em atenção as idades de quem os frequenta e a especificidade dos diferentes níveis de educação e de ensino ministrados em cada um.\n\n2 - A fixação dos parâmetros técnicos do ordenamento da rede educativa cabe ao departamento governamental com competência na matéria."
+  },
+  "118872955": {
+   "fragment_id": "118872860",
+   "type": 3,
+   "heading": "Subsecção III — Elaboração da carta educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Elaboração da carta educativa"
+  },
+  "118872956": {
+   "fragment_id": "118872861",
+   "type": 11,
+   "heading": "Artigo 13.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conteúdo\n\n1 - A carta educativa deve conter, no cumprimento do disposto nos artigos anteriores, a caracterização sumária da localização e organização espacial dos edifícios e equipamentos educativos, o diagnóstico estratégico, as projeções de desenvolvimento e a proposta de intervenção relativamente à rede pública.\n\n2 - A carta educativa é instruída com os seguintes elementos:\n\na) Relatório que mencione as principais medidas a adotar e a sua fundamentação;\n\nb) Programa de execução, com a calendarização da concretização das medidas constantes do relatório."
+  },
+  "118872957": {
+   "fragment_id": "118872862",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\n1 - A elaboração da carta educativa é da competência da câmara municipal, sendo aprovada pela assembleia municipal respetiva, após discussão e parecer do conselho municipal de educação, e pronúncia do departamento governamental com competência na matéria.\n\n2 - O apoio técnico necessário à elaboração da carta educativa é assegurado pelo departamento governamental com competência na matéria, que disponibiliza toda a informação necessária, bem como a prestação dos serviços adequados.\n\n3 - Na elaboração da carta educativa, os municípios e o departamento governamental com competência na matéria devem articular estreitamente as suas intervenções, de forma a garantir os princípios, objetivos e parâmetros técnicos estatuídos no presente decreto-lei quanto ao ordenamento da rede educativa, bem como a eficácia dos programas e projetos intermunicipais ou de interesse supramunicipal.\n\n4 - A câmara municipal envia a carta educativa para o departamento governamental com competência na matéria, que, no prazo de 30 dias, se pronuncia sobre eventuais desconformidades da carta com os princípios, objetivos e parâmetros técnicos estatuídos no presente decreto-lei, nomeadamente o disposto no artigo 8.º, ou com outros instrumentos aplicáveis à elaboração da carta.\n\n5 - Caso o departamento governamental com competência na matéria identifique eventuais desconformidades entre a carta educativa e os princípios, objetivos e parâmetros técnicos a que a elaboração da mesma está sujeita, nos termos do número anterior, devolve-a à câmara municipal, a fim de esta proceder à sua correção.\n\n6 - O departamento governamental com competência em matéria de educação não está vinculado à carta educativa aprovada pela assembleia municipal sem que tenham sido corrigidas desconformidades com os princípios, objetivos e parâmetros técnicos a que a sua elaboração está sujeita, nos termos do número anterior.\n\n7 - A carta educativa integra o plano diretor municipal respetivo.\n\n8 - Podem os municípios articular entre si, nomeadamente através das respetivas entidades intermunicipais, e com o departamento governamental com competência na matéria, o desenvolvimento de instrumentos de planeamento e ordenamento da rede educativa de nível supramunicipal."
+  },
+  "118872958": {
+   "fragment_id": "118872863",
+   "type": 11,
+   "heading": "Artigo 15.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revisão\n\n1 - Revestem a forma de revisão da carta educativa as alterações da mesma que se reflitam significativamente no ordenamento da rede educativa anteriormente aprovado, designadamente a criação ou o encerramento de novos estabelecimentos de educação pré-escolar e de ensino.\n\n2 - A revisão das cartas educativas é obrigatória quando a rede educativa do município fique desconforme com os princípios, objetivos e parâmetros técnicos do ordenamento da rede educativa, devendo o processo de revisão ser iniciado a solicitação do departamento governamental com competência na matéria ou dos próprios municípios.\n\n3 - A carta educativa é obrigatoriamente revista de 10 em 10 anos.\n\n4 - À revisão da carta educativa são aplicáveis os procedimentos previstos para a respetiva aprovação."
+  },
+  "118872959": {
+   "fragment_id": "118872864",
+   "type": 11,
+   "heading": "Artigo 16.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Efeitos\n\nA carta educativa constitui um instrumento de orientação da gestão do sistema educativo, designadamente quanto ao exercício das competências dos departamentos governamentais e dos municípios em matéria de educação, incluindo os instrumentos de apoio a iniciativas privadas, cooperativas e solidárias, à consignação de financiamentos e à afetação de recursos humanos, materiais e financeiros pelas entidades públicas."
+  },
+  "118872960": {
+   "fragment_id": "118872865",
+   "type": 8,
+   "heading": "Secção II — Plano de transporte escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Plano de transporte escolar"
+  },
+  "118872961": {
+   "fragment_id": "118872866",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "118872962": {
+   "fragment_id": "118872867",
+   "type": 11,
+   "heading": "Artigo 17.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conceito\n\nO plano de transporte escolar é, a nível municipal, o instrumento de planeamento da oferta de serviço de transporte entre o local da residência e o local dos estabelecimentos de ensino da rede pública, frequentados pelos alunos da educação pré-escolar, do ensino básico e do ensino secundário, salvo quando existam estabelecimentos de ensino que sirvam vários concelhos, casos em que tal instrumento assume nível intermunicipal."
+  },
+  "118872963": {
+   "fragment_id": "118872868",
+   "type": 11,
+   "heading": "Artigo 18.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Objetivos\n\n1 - O plano de transporte escolar visa assegurar a igualdade de oportunidades de acesso à educação pré-escolar e à educação escolar, incluindo os alunos abrangidos por medidas adicionais no âmbito da educação inclusiva.\n\n2 - O plano de transporte escolar conjuga e complementa a rede de transportes públicos e outros planos de transportes em vigor na respetiva área de abrangência."
+  },
+  "118872964": {
+   "fragment_id": "118872869",
+   "type": 11,
+   "heading": "Artigo 19.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Objeto\n\n1 - O plano de transporte escolar inclui obrigatoriamente:\n\na) A área abrangida, representada em planta a escala adequada;\n\nb) Os itinerários dos meios de transporte coletivo de passageiros;\n\nc) A numeração e classificação oficiais, ou designação toponímica, das vias de comunicação a percorrer;\n\nd) A distribuição geográfica dos estabelecimentos de ensino, devidamente assinalados;\n\ne) A projeção quantificada da procura por locais de origem;\n\nf) Os meios de transporte a utilizar;\n\ng) Os circuitos especiais, existentes ou a criar, sempre que os meios de transporte coletivo não satisfaçam regularmente as necessidades de transporte no que se refere ao cumprimento dos horários escolares, ou que impliquem, para os alunos, tempos de espera superiores a 45 minutos ou deslocações superiores a 60 minutos, em cada viagem simples.\n\n2 - O plano de transportes escolares, nos municípios ou nas entidades intermunicipais de maior dimensão territorial ou densidade demográfica, pode ser subdividido em planos circunscritos a áreas territoriais mais limitadas, conquanto o conjunto dos planos aprovados em cada município ou entidade intermunicipal abranjam a totalidade da área geográfica respetiva."
+  },
+  "118872965": {
+   "fragment_id": "118872870",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de acesso\n\n1 - A elaboração do plano de transporte escolar baseia-se nos seguintes pressupostos:\n\na) Gratuitidade para os alunos da educação pré-escolar, do ensino básico e do ensino secundário, quando residam a mais de 3 km do estabelecimento de ensino que frequentam;\n\nb) Gratuitidade para os alunos com dificuldades de locomoção que beneficiam de medidas ao abrigo da educação inclusiva, independentemente da distância da sua residência ao estabelecimento de ensino que frequentam, sempre que a sua condição o exija;\n\nc) Inelegibilidade para os benefícios previstos nas alíneas anteriores dos alunos que se matriculem contrariando as normas estabelecidas de encaminhamento de matrículas.\n\n2 - A gratuitidade referida nas alíneas a) e b) do número anterior abrange, exclusivamente, duas viagens nos dias letivos e para os percursos que ligam o local do estabelecimento de ensino ao local de residência do aluno."
+  },
+  "118872966": {
+   "fragment_id": "118872871",
+   "type": 3,
+   "heading": "Subsecção II — Elaboração do plano de transportes escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Elaboração do plano de transportes escolares"
+  },
+  "118872967": {
+   "fragment_id": "118872872",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências\n\n1 - Nos municípios, a elaboração e a aprovação do plano de transporte escolar é da competência da câmara municipal, após discussão e parecer do conselho municipal de educação.\n\n2 - Quando exista estabelecimento de educação de âmbito supramunicipal, é da competência do secretariado executivo intermunicipal a elaboração do plano de transporte escolar intermunicipal adequado, sendo aprovado pelo conselho intermunicipal, após discussão e parecer dos conselhos municipais de educação da respetiva área territorial.\n\n3 - Os departamentos governamentais com competência na matéria disponibilizam a informação e o apoio técnico necessários para a elaboração do plano de transporte escolar."
+  },
+  "118872968": {
+   "fragment_id": "118872873",
+   "type": 11,
+   "heading": "Artigo 22.º — Vigência e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Vigência e revisão\n\n1 - O plano de transporte escolar é aprovado até ao dia 1 de agosto de cada ano, vigorando no ano letivo seguinte, sendo remetido para os municípios e para os agrupamentos de escolas e escolas não agrupadas por ele abrangidos e para os departamentos governamentais com competência de regulamentação técnica, licenciamento, coordenação, fiscalização e planeamento no setor dos transportes terrestres.\n\n2 - Sempre que se verifiquem alterações conjunturais, o plano de transportes escolares pode ser objeto de ajustamentos no decurso do ano letivo a que respeita, sendo dado conhecimento de tais ajustamentos a todas as entidades referidas no número anterior."
+  },
+  "118872969": {
+   "fragment_id": "118872874",
+   "type": 8,
+   "heading": "Secção III — Ofertas de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Ofertas de educação"
+  },
+  "118872970": {
+   "fragment_id": "118876175",
+   "type": 3,
+   "heading": "Subsecção I — Rede da oferta de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Rede da oferta de educação"
+  },
+  "118872971": {
+   "fragment_id": "118876176",
+   "type": 11,
+   "heading": "Artigo 23.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conceito\n\nEntende-se por rede da oferta educativa a organização territorial, a nível intermunicipal, dos cursos e grupos-turmas para a frequência da educação pré-escolar, dos ensinos básico e secundário, das modalidades especiais de educação escolar, da educação extraescolar e das ofertas de formação de dupla certificação, nos agrupamentos de escolas e escolas não agrupadas, bem como, nos estabelecimentos da rede solidária, privada e cooperativa com contrato celebrado com o Estado para a criação de oferta pública de ensino e formação."
+  },
+  "118872972": {
+   "fragment_id": "118876177",
+   "type": 11,
+   "heading": "Artigo 24.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Objetivos\n\nA configuração da rede da oferta educativa visa garantir o cumprimento dos princípios enunciados no artigo 4.º, designadamente nas alíneas a) e c) do n.º 2, a racionalização e complementaridade das diferentes ofertas e o seu desenvolvimento qualitativo."
+  },
+  "118872973": {
+   "fragment_id": "118876178",
+   "type": 11,
+   "heading": "Artigo 25.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Objeto\n\nA rede da oferta educativa tem por objeto a identificação, por estabelecimento de ensino, da disponibilidade de vagas de matrícula por cursos e grupos-turma, identificando os recursos humanos necessários à sua prossecução."
+  },
+  "118872974": {
+   "fragment_id": "118876179",
+   "type": 3,
+   "heading": "Subsecção II — Planeamento plurianual da rede da oferta educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Planeamento plurianual da rede da oferta educativa"
+  },
+  "118876275": {
+   "fragment_id": "118876180",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências\n\n1 - Nas áreas metropolitanas, o planeamento plurianual da rede da oferta educativa é da competência da comissão executiva metropolitana, sendo aprovado pelo conselho metropolitano, ouvidos os agrupamentos de escolas e escolas não agrupadas da respetiva área territorial, e atendendo aos critérios definidos nos artigos seguintes.\n\n2 - Nas comunidades intermunicipais, o planeamento plurianual da rede da oferta educativa é da competência do secretariado executivo intermunicipal, sendo aprovado pelo conselho intermunicipal, ouvidos os agrupamentos de escolas e escolas não agrupadas da respetiva área territorial, e atendendo aos critérios definidos nos artigos seguintes."
+  },
+  "118876276": {
+   "fragment_id": "118876181",
+   "type": 11,
+   "heading": "Artigo 27.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Critérios\n\n1 - O planeamento plurianual da rede da oferta educativa de âmbito intermunicipal respeita, obrigatoriamente, os critérios, parâmetros técnicos e orientações fixados pelos departamentos governamentais com competência na matéria e a rede escolar definida em cada uma das cartas educativas em vigor em cada município.\n\n2 - Os departamentos governamentais com competência na matéria disponibilizam a informação e o apoio técnico necessários ao processo de planeamento.\n\n3 - A definição de prioridades no âmbito do planeamento plurianual da rede de âmbito intermunicipal realiza-se em articulação com os departamentos governamentais com competência na matéria."
+  },
+  "118876277": {
+   "fragment_id": "118876182",
+   "type": 11,
+   "heading": "Artigo 28.º — Vigência e reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Vigência e reavaliação\n\n1 - O planeamento intermunicipal da rede da oferta educativa vigora após aprovação pelos órgãos competentes das entidades intermunicipais, mediante parecer prévio vinculativo dos departamentos governamentais com competência na matéria.\n\n2 - Os departamentos governamentais com competência na matéria e os órgãos competentes das entidades intermunicipais reavaliam obrigatoriamente, de cinco em cinco anos, o planeamento plurianual da rede da oferta educativa intermunicipal."
+  },
+  "118876278": {
+   "fragment_id": "118876183",
+   "type": 3,
+   "heading": "Subsecção III — Definição anual da rede da oferta educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Definição anual da rede da oferta educativa"
+  },
+  "118876279": {
+   "fragment_id": "118876184",
+   "type": 11,
+   "heading": "Artigo 29.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competência\n\nA rede da oferta educativa é fixada anualmente pelos departamentos governamentais com competência na matéria, ouvidos os municípios, as entidades intermunicipais e os agrupamentos de escolas e escolas não agrupadas."
+  },
+  "118876280": {
+   "fragment_id": "118876185",
+   "type": 11,
+   "heading": "Artigo 30.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Critérios\n\nNa fixação anual da rede da oferta educativa, os departamentos governamentais com competência na matéria asseguram, obrigatoriamente, o cumprimento dos objetivos fixados no artigo 24.º e os instrumentos de planeamento vigentes."
+  },
+  "118876281": {
+   "fragment_id": "118876186",
+   "type": 1,
+   "heading": "Capítulo III — Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Investimento"
+  },
+  "118876282": {
+   "fragment_id": "118876187",
+   "type": 11,
+   "heading": "Artigo 31.º — Construção, requalificação e modernização de edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Construção, requalificação e modernização de edifícios escolares\n\n1 - A construção, requalificação e modernização de edifícios escolares compete às câmaras municipais, em execução do planeamento definido pela carta educativa respetiva.\n\n2 - Sem prejuízo do disposto no número anterior, o departamento governamental com competência na matéria pode promover a construção, requalificação e modernização de edifícios escolares cuja oferta de educação e formação abranja, pela sua especificidade, uma área territorial supramunicipal.\n\n3 - Nos casos previstos no número anterior, o departamento governamental com competência na matéria, solicita às entidades intermunicipais abrangidas na área territorial supramunicipal, parecer prévio sobre a construção, requalificação ou modernização do edifício escolar em causa."
+  },
+  "118876283": {
+   "fragment_id": "118876188",
+   "type": 11,
+   "heading": "Artigo 32.º — Equipamento, conservação e manutenção de edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Equipamento, conservação e manutenção de edifícios escolares\n\n1 - A aquisição de equipamento básico, mobiliário, material didático e equipamentos desportivos, laboratoriais, musicais e tecnológicos, utilizados para a realização das atividades educativas, compete às câmaras municipais.\n\n2 - As características e especificações técnicas dos equipamentos e recursos educativos obedecem a termos de referência fixados, em conformidade com a lei, pelo departamento governamental com competência na matéria.\n\n3 - A realização de intervenções de conservação, manutenção e pequena reparação em estabelecimentos da educação pré-escolar e de ensino básico e secundário compete às câmaras municipais.\n\n4 - A competência prevista no número anterior integra a conservação e manutenção dos espaços exteriores incluídos no perímetro dos estabelecimentos educativos destas tipologias.\n\n5 - A rede oficial de escolas públicas é a que consta do anexo i ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "118876284": {
+   "fragment_id": "118876189",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão"
+  },
+  "118876285": {
+   "fragment_id": "118876190",
+   "type": 8,
+   "heading": "Secção I — Apoios e complementos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Apoios e complementos educativos"
+  },
+  "118876286": {
+   "fragment_id": "118876191",
+   "type": 11,
+   "heading": "Artigo 33.º — Ação Social Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Ação Social Escolar\n\n1 - A ação social escolar, nas suas diferentes modalidades, é desenvolvida pelas câmaras municipais.\n\n2 - A competência referida no número anterior inclui a organização e gestão dos procedimentos de atribuição de apoios de aplicação universal e de aplicação diferenciada ou restrita, diretos ou indiretos, integrais ou parciais, gratuitos ou comparticipados.\n\n3 - Exclui-se do número anterior a organização, desenvolvimento e execução dos programas de distribuição gratuita e reutilização de manuais escolares, cuja competência cabe ao departamento governamental com competência na matéria e dos órgãos de administração e gestão dos agrupamentos de escolas e escolas não agrupadas."
+  },
+  "118876287": {
+   "fragment_id": "118876192",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime específico\n\nO regime jurídico aplicável à atribuição e ao funcionamento dos apoios no âmbito da ação social escolar, enquanto modalidade dos apoios e complementos educativos previstos na Lei de Bases do Sistema Educativo, aprovada pelas Lei n.º 46/86, de 14 de outubro, na sua redação atual, é estabelecido em diploma próprio, sem prejuízo do disposto nos artigos seguintes."
+  },
+  "118876288": {
+   "fragment_id": "118876193",
+   "type": 11,
+   "heading": "Artigo 35.º — Refeitórios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Refeitórios escolares\n\n1 - O fornecimento de refeições em refeitórios escolares dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário é gerido pelas câmaras municipais.\n\n2 - O fornecimento de refeições pode ser assegurado por outras entidades certificadas para o efeito, mediante a celebração de contratos, acordos ou protocolos.\n\n3 - Nos casos em que o número de crianças ou de alunos não justifique a existência de refeitório escolar, é admitida a utilização de refeitórios escolares próximos, ou outras soluções alternativas para a prestação do serviço de refeições, desde que seja salvaguardada a sua segurança.\n\n4 - Sem prejuízo das regras legais e regulamentares vigentes em matéria de preparação, confeção e prestação do serviço de refeições ao público em geral, as entidades e serviços da Administração central com competência na matéria definem, através de diploma específico, os princípios dietéticos de qualidade e variedade a que devem obedecer as refeições servidas em refeitórios escolares.\n\n5 - O preço das refeições a fornecer às crianças e aos alunos nos refeitórios escolares e demais regras sobre o respetivo pagamento são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais, após consulta à Associação Nacional de Municípios Portugueses."
+  },
+  "118876289": {
+   "fragment_id": "118876194",
+   "type": 11,
+   "heading": "Artigo 36.º — Transportes escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Transportes escolares\n\nA organização e o controlo do funcionamento dos transportes escolares são da competência das câmaras municipais da área de residência dos alunos, nos termos definidos no plano de transportes intermunicipal respetivo, cabendo-lhes especificamente:\n\na) Organizar o processo de acesso ao transporte escolar para cada aluno;\n\nb) Requisitar às entidades concessionárias dos serviços de transporte coletivo os bilhetes de assinatura (passe escolar) para os alunos abrangidos, nos termos a fixar por portaria dos membros do Governo com competência na matéria;\n\nc) Pagar as faturas emitidas mensalmente pelas entidades concessionárias dos serviços de transporte coletivo;\n\nd) Contratar, gerir e pagar os circuitos especiais.\n\n> Nota: [Declaração de Retificação n.º 11/2024 - Diário da República n.º 34/2024, Série I de 2024-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2024-852857951) As alterações ao presente artigo, introduzidas pelo Decreto-Lei n.º 125/2023, de 26 de dezembro, produzem efeitos a partir de 01-01-2023."
+  },
+  "118876290": {
+   "fragment_id": "118876195",
+   "type": 11,
+   "heading": "Artigo 37.º — Residências escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Residências escolares\n\n1 - A gestão e o funcionamento das residências escolares que integram a rede oficial de residências para estudantes são da competência das câmaras municipais onde estas se localizam.\n\n2 - Compete igualmente às câmaras municipais a conservação, manutenção e equipamento das residências escolares referidas no número anterior.\n\n3 - A rede oficial de residências escolares é a que consta do anexo ii ao presente decreto-lei, do qual faz parte integrante.\n\n4 - Os critérios de concessão desta modalidade de apoio ao alojamento são definidos pelo diploma referido no artigo 34.º"
+  },
+  "118876291": {
+   "fragment_id": "118876196",
+   "type": 11,
+   "heading": "Artigo 38.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alojamento\n\n1 - A gestão e o funcionamento das modalidades de colocação junto de famílias de acolhimento e alojamento facultado por entidades privadas, mediante estabelecimento de acordos de cooperação, são da competência das câmaras municipais da área do agrupamento de escolas ou escolas não agrupadas em que os beneficiários se encontram matriculados.\n\n2 - Os acordos de cooperação referidos no número anterior estabelecem os direitos e obrigações das partes, bem como os termos do financiamento, definindo quais os instrumentos financeiros utilizáveis.\n\n3 - Os critérios de concessão destas modalidades de apoio ao alojamento são definidos pelo diploma referido no artigo 34.º\n\n> Nota: [Declaração de Retificação n.º 11/2024 - Diário da República n.º 34/2024, Série I de 2024-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2024-852857951) As alterações ao presente artigo, introduzidas pelo Decreto-Lei n.º 125/2023, de 26 de dezembro, produzem efeitos a 01-01-2023."
+  },
+  "118876292": {
+   "fragment_id": "118876197",
+   "type": 11,
+   "heading": "Artigo 39.º — Escola a tempo inteiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Escola a tempo inteiro\n\nCompete às câmaras municipais promover e implementar medidas de apoio à família e que garantam uma escola a tempo inteiro, designadamente:\n\na) Atividades de animação e apoio à família, destinadas a assegurar o acompanhamento das crianças na educação pré-escolar antes e ou depois do período diário de atividades educativas e durante os períodos de interrupção destas;\n\nb) Componente de apoio à família, através de atividades destinadas a assegurar o acompanhamento dos alunos do 1.º ciclo do ensino básico antes e ou depois das componentes do currículo e das atividades de enriquecimento curricular, bem como durante os períodos de interrupção letiva;\n\nc) Atividades de enriquecimento curricular no 1.º ciclo do ensino básico, de caráter facultativo e de natureza eminentemente lúdica, formativa e cultural que incidam, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e de voluntariado e da dimensão europeia da educação."
+  },
+  "118876293": {
+   "fragment_id": "118876198",
+   "type": 11,
+   "heading": "Artigo 40.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Organização e funcionamento\n\n1 - A planificação das atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular é desenvolvida conjuntamente pelas câmaras municipais e pelos órgãos de administração e gestão dos agrupamentos de escolas e escolas não agrupadas, considerando as necessidades dos alunos e das famílias, a formação e o perfil dos profissionais que as asseguram e os recursos materiais e imateriais de cada território.\n\n2 - A supervisão pedagógica e a avaliação das atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular cabe ao conselho pedagógico de cada agrupamento de escolas ou escola não agrupada."
+  },
+  "118876294": {
+   "fragment_id": "118876199",
+   "type": 11,
+   "heading": "Artigo 41.º — Regime específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regime específico\n\nAs regras a observar na organização e funcionamento das atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular são estabelecidas em decreto-lei próprio, que institui o respetivo regime específico."
+  },
+  "118876295": {
+   "fragment_id": "118876200",
+   "type": 8,
+   "heading": "Secção II — Pessoal não docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoal não docente"
+  },
+  "118876296": {
+   "fragment_id": "118876201",
+   "type": 11,
+   "heading": "Artigo 42.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Mapas de pessoal\n\n1 - Os mapas de pessoal das câmaras municipais preveem os postos de trabalho do pessoal não docente dos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação localizados nos respetivos territórios, necessários ao respetivo funcionamento.\n\n2 - As câmaras municipais procedem ao recrutamento e seleção do pessoal não docente para exercer funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação, localizados nos respetivos territórios, nos termos previstos na Lei Geral do Trabalho em Funções Públicas.\n\n3 - Os critérios e a fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escola não agrupada, é definida por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais, da administração pública e da educação."
+  },
+  "118876297": {
+   "fragment_id": "118876202",
+   "type": 11,
+   "heading": "Artigo 43.º — Procedimento de transição de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Procedimento de transição de trabalhadores\n\n1 - Os trabalhadores com vínculo de emprego público da carreira subsistente de chefe de serviço de administração escolar e das carreiras gerais de assistente técnico e de assistente operacional, que exerçam funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação, transitam para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - Estão excluídos do número anterior os técnicos especializados que exercem funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação.\n\n3 - A transição referida no n.º 1 implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n4 - Os trabalhadores que transitam para os mapas de pessoal das câmaras municipais nos termos do n.º 1 continuam a exercer funções no estabelecimento de educação ou ensino em que o fazem à data da entrada em vigor do presente decreto-lei, salvo quando manifestem o seu acordo em exercer funções em estabelecimento diferente, ou quando o estabelecimento em causa encerre, caso em que são recolocados em estabelecimento do mesmo agrupamento de escolas.\n\n5 - A reafetação por opção, prevista no número anterior, carece de concordância expressa do diretor do agrupamento de escolas ou escola não agrupada em que o pessoal presta serviço.\n\n6 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n7 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais, prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n8 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n9 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n10 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 7.\n\n11 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime da Direção-Geral de Proteção Social aos Trabalhadores em Funções Pública (ADSE) e de reembolso das despesas com o Serviço Nacional de Saúde (SNS) vigente nos respetivos lugares de origem."
+  },
+  "118876298": {
+   "fragment_id": "118876203",
+   "type": 11,
+   "heading": "Artigo 44.º — Gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Gestão de pessoal\n\n1 - Sem prejuízo das competências próprias do presidente da câmara municipal e dos órgãos municipais, os diretores dos agrupamentos de escolas e escolas não agrupadas exercem, relativamente ao pessoal não docente, os seguintes poderes:\n\na) Poder de direção;\n\nb) Fixação do horário de trabalho;\n\nc) Distribuição do serviço;\n\nd) Poder disciplinar de aplicação de pena inferior a multa.\n\n2 - No exercício das suas competências, cabe ainda aos diretores dos agrupamentos de escolas e escolas não agrupadas, relativamente ao pessoal não docente, propor ao presidente da câmara municipal:\n\na) Os contributos para a avaliação de desempenho;\n\nb) A proposta de mapa de férias, de modo a assegurar o normal funcionamento do estabelecimento de educação ou de ensino.\n\n3 - As competências próprias do presidente da câmara municipal e dos órgãos municipais referidas no n.º 1 podem ser objeto de delegação nos órgãos de direção, administração e gestão dos agrupamentos de escolas e escolas não agrupadas."
+  },
+  "118876299": {
+   "fragment_id": "118876204",
+   "type": 11,
+   "heading": "Artigo 45.º — Ações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Ações de formação\n\nA apreciação técnico-pedagógica e a certificação das ações de formação cabem, concomitantemente, ao departamento governamental com competência na matéria e à Associação Nacional de Municípios Portugueses."
+  },
+  "118876300": {
+   "fragment_id": "118876205",
+   "type": 8,
+   "heading": "Secção III — Funcionamento dos edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Funcionamento dos edifícios escolares"
+  },
+  "118876301": {
+   "fragment_id": "118876206",
+   "type": 11,
+   "heading": "Artigo 46.º — Fornecimentos e serviços externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Fornecimentos e serviços externos\n\nA contratação de fornecimentos e serviços externos essenciais ao normal funcionamento dos estabelecimentos educativos, designadamente eletricidade, combustível, água, outros fluidos e comunicações, compete aos municípios."
+  },
+  "118876302": {
+   "fragment_id": "118876207",
+   "type": 11,
+   "heading": "Artigo 47.º — Utilização de espaços fora do período das atividades escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Utilização de espaços fora do período das atividades escolares\n\n1 - A gestão da utilização dos espaços que integram os estabelecimentos escolares, fora do período das atividades escolares, incluindo atividades de enriquecimento curricular, compete aos municípios.\n\n2 - A cedência de utilização de espaços nas condições referidas no número anterior é, obrigatoriamente, onerosa.\n\n3 - Excetuam-se do número anterior a utilização de espaços pelo agrupamento de escolas ou escola não agrupada em atividades educativas, pelos próprios municípios no desenvolvimento das suas atribuições e competências, bem como pela freguesia em cujo território se situar o estabelecimento escolar e ainda pelas respetivas associações de pais."
+  },
+  "118876303": {
+   "fragment_id": "118876208",
+   "type": 11,
+   "heading": "Artigo 48.º — Consignação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Consignação\n\nO fruto da receita da cedência de espaços prevista no artigo anterior é consignado a despesas de beneficiação, conservação e manutenção dos equipamentos escolares públicos ou dos espaços exteriores incluídos no perímetro dos estabelecimentos localizados na área territorial do município."
+  },
+  "118876304": {
+   "fragment_id": "118876209",
+   "type": 8,
+   "heading": "Secção IV — Segurança escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Segurança escolar"
+  },
+  "118876305": {
+   "fragment_id": "118876210",
+   "type": 11,
+   "heading": "Artigo 49.º — Segurança dos equipamentos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Segurança dos equipamentos educativos\n\nCompete às câmaras municipais, em articulação com as forças de segurança presentes no seu território e com os órgãos de administração e gestão dos agrupamentos de escolas e escolas não agrupadas, organizar a vigilância e segurança dos equipamentos educativos, designadamente do edificado, respetivo recheio e espaços exteriores incluídos no seu perímetro."
+  },
+  "118876306": {
+   "fragment_id": "118876211",
+   "type": 1,
+   "heading": "Capítulo V — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Financiamento"
+  },
+  "118876307": {
+   "fragment_id": "118876212",
+   "type": 11,
+   "heading": "Artigo 50.º — Financiamento da construção, requalificação e modernização de edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Financiamento da construção, requalificação e modernização de edifícios escolares\n\n1 - Os departamentos governamentais com competência na matéria asseguram o financiamento das operações de investimento em edifícios e equipamentos escolares, mediante recurso a verbas preferencialmente provenientes de fundos europeus estruturais e de investimento, em articulação com as comissões de coordenação e desenvolvimento regional, ou através de dotações consignadas no Orçamento do Estado.\n\n2 - No âmbito do financiamento referido no número anterior os departamentos governamentais com competência na matéria dão, obrigatoriamente, prioridade:\n\na) À supressão de carências de oferta educativa, visando assegurar o cumprimento da escolaridade obrigatória;\n\nb) À intervenção em escolas cujo estado de conservação, bem como os indicadores de utilização e conforto sejam inadequados ao desenvolvimento qualitativo dos respetivos projetos educativos;\n\nc) À remoção de materiais potencialmente nocivos à saúde humana presentes nos edifícios;\n\nd) À instalação de equipamentos laboratoriais, desportivos ou outros, inexistentes em escolas em funcionamento;\n\ne) À racionalização da rede educativa.\n\n3 - Para efeitos do disposto nos números anteriores, o membro do Governo responsável pela área da educação elabora no prazo de 30 dias a partir entrada em vigor do presente decreto-lei, o mapeamento dos edifícios e equipamentos escolares que necessitam de investimentos de construção de novas infraestruturas, bem como de intervenções de requalificação e modernização de grande dimensão.\n\n4 - Os municípios em cujo território se situem edifícios e equipamentos escolares incluídos no mapeamento referido no número anterior, são notificados para, no prazo de 30 dias a partir da receção da referida notificação, se pronunciarem sobre o teor do mesmo, solicitando esclarecimentos ou apresentando reclamações ao membro do Governo responsável pela área da educação.\n\n5 - Os municípios que não tenham no respetivo território edifícios e equipamentos escolares incluídos no mapeamento referido no n.º 3 são informados desse facto pelo membro do Governo responsável pela área da educação, aplicando-se a estes casos, com as devidas adaptações, o disposto no número anterior.\n\n6 - O financiamento das operações de investimento em escolas e equipamentos escolares baseia-se em custos-padrão, que atendem à tipologia de ensino e natureza da intervenção, com vista ao apuramento do investimento elegível ao respetivo financiamento."
+  },
+  "118876308": {
+   "fragment_id": "118876213",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nFinanciamento de equipamento, conservação e manutenção de edifícios escolares e de residências escolares\n\nO financiamento de equipamento, conservação e manutenção previsto nos artigos 32.º e 37.º é fixado nos termos de portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da educação."
+  },
+  "118876309": {
+   "fragment_id": "118876214",
+   "type": 11,
+   "heading": "Artigo 52.º — Competências de investimento e de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Competências de investimento e de gestão\n\n1 - Sem prejuízo do disposto nos artigos seguintes, o financiamento das competências de investimento e gestão das autarquias locais e entidades intermunicipais em matéria de educação, incluindo os transportes escolares, é assegurado pelos mecanismos previstos no respetivo regime financeiro e no Orçamento do Estado.\n\n2 - O financiamento anual das despesas em que os municípios incorram no exercício das competências de contratação de fornecimentos e de serviços externos essenciais ao normal funcionamento dos estabelecimentos educativos previstos no artigo 46.º é calculado para cada ano com base na despesa efetiva correspondente no ano anterior.\n\n3 - O financiamento referido na alínea anterior é atualizado anualmente com base na última taxa de inflação anual apurada e publicada pelo Instituto Nacional de Estatística, I. P."
+  },
+  "118876310": {
+   "fragment_id": "118876215",
+   "type": 11,
+   "heading": "Artigo 53.º — Apoios e complementos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Apoios e complementos educativos\n\nO financiamento do apoio e dos complementos educativos, designadamente dos circuitos especiais de transporte, fornecimento de leite escolar, escola a tempo inteiro e encargos com refeitórios e refeições, observa as regras legais respetivamente aplicáveis a cada uma destas medidas.\n\n> Nota: [Declaração de Retificação n.º 11/2024 - Diário da República n.º 34/2024, Série I de 2024-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2024-852857951) As alterações ao presente artigo, introduzidas pelo Decreto-Lei n.º 125/2023, de 26 de dezembro, produzem efeitos a 01-01-2023."
+  },
+  "118876311": {
+   "fragment_id": "118876216",
+   "type": 11,
+   "heading": "Artigo 54.º — Pessoal não docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Pessoal não docente\n\n1 - O financiamento das despesas com o pessoal não docente é calculado de acordo com os encargos que resultam da aplicação, em cada município, dos critérios de afetação fixados pela portaria mencionada no n.º 3 do artigo 42.º\n\n2 - Quando da transferência de pessoal não docente com vínculo ao Ministério da Educação, prevista no artigo 43.º, ocorram encargos fixos diretamente relacionados, que ultrapassem o montante que resulta do cálculo previsto no número anterior, são transferidos para os municípios os respetivos valores.\n\n3 - O financiamento das despesas com o pessoal não docente é atualizado anualmente, de acordo com a variação prevista para as remunerações dos trabalhadores em funções públicas.\n\n4 - A transferência financeira relativa à transição dos trabalhadores da Administração central para o mapa de pessoal das câmaras municipais, prevista no artigo 43.º, inclui os eventuais abonos que os trabalhadores aufiram.\n\n5 - Os encargos relativos às despesas com a ADSE e o SNS, previstos no n.º 11 do artigo 43.º, são da responsabilidade da Administração central."
+  },
+  "118876312": {
+   "fragment_id": "118876217",
+   "type": 1,
+   "heading": "Capítulo VI — Conselho municipal de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Conselho municipal de educação"
+  },
+  "118876313": {
+   "fragment_id": "118876218",
+   "type": 11,
+   "heading": "Artigo 55.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Objetivo\n\nO conselho municipal de educação é uma instância de consulta, que tem por objetivo a nível municipal, analisar e acompanhar o funcionamento do sistema educativo propondo as ações consideradas adequadas à promoção de maiores padrões de eficiência e eficácia do mesmo."
+  },
+  "118876314": {
+   "fragment_id": "118876219",
+   "type": 11,
+   "heading": "Artigo 56.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Competências\n\n1 - Para a prossecução dos objetivos referidos no artigo anterior, compete ao conselho municipal de educação deliberar, em especial, sobre as seguintes matérias:\n\na) Coordenação do sistema educativo e articulação da política educativa com outras políticas sociais, em particular nas áreas da saúde, da ação social e da formação e emprego;\n\nb) Acompanhamento do processo de elaboração e de atualização da carta educativa, a qual deve resultar de estreita colaboração entre os órgãos municipais e os departamentos governamentais com competência na matéria, com vista a garantir o adequado ordenamento da rede educativa nacional e municipal, assegurando a salvaguarda das necessidades de oferta educativa do concelho;\n\nc) Emitir parecer obrigatório sobre a abertura e o encerramento de estabelecimentos de educação e ensino;\n\nd) Participação na negociação e execução dos contratos de autonomia;\n\ne) Apreciação dos projetos educativos a desenvolver no município;\n\nf) Adequação das diferentes modalidades de ação social escolar às necessidades locais, em particular no que se refere aos apoios socioeducativos, à rede de transportes escolares e à alimentação;\n\ng) Medidas de desenvolvimento educativo, no âmbito do apoio a crianças e jovens com necessidades educativas especiais, da organização de atividades de enriquecimento curricular, da qualificação escolar e profissional dos jovens e da promoção de ofertas de formação ao longo da vida, do desenvolvimento do desporto escolar, bem como do apoio a iniciativas relevantes de carácter cultural, artístico, desportivo, de preservação do ambiente e de educação para a cidadania;\n\nh) Programas e ações de prevenção e segurança dos espaços escolares e seus acessos;\n\ni) Intervenções de qualificação e requalificação de edifícios escolares.\n\n2 - Compete, ainda, ao conselho municipal de educação analisar o funcionamento dos estabelecimentos de educação pré-escolar e de ensino, refletir sobre as causas das situações analisadas e propor as ações adequadas à promoção da eficiência e eficácia do sistema educativo.\n\n3 - Para o exercício das competências do conselho municipal de educação devem os seus membros disponibilizar a informação de que disponham relativa aos assuntos a tratar, cabendo, ainda, ao representante do departamento governamental com competência na matéria apresentar, em cada reunião, um relatório sintético sobre o funcionamento do sistema educativo, designadamente sobre os aspetos referidos no número anterior."
+  },
+  "118876315": {
+   "fragment_id": "118876220",
+   "type": 11,
+   "heading": "Artigo 57.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Composição\n\n1 - Integram o conselho municipal de educação:\n\na) O presidente da câmara municipal, que preside;\n\nb) O presidente da assembleia municipal;\n\nc) O vereador responsável pela educação;\n\nd) O presidente da junta de freguesia, eleito pela assembleia municipal em representação das freguesias do concelho;\n\ne) O representante do departamento governamental responsável pela área da educação;\n\nf) O representante da Comissão de Coordenação e Desenvolvimento Regional respetiva;\n\ng) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área do município.\n\n2 - Integram ainda o conselho municipal de educação os seguintes representantes, desde que as estruturas representadas existam no município:\n\na) Um representante das instituições de ensino superior público;\n\nb) Um representante das instituições de ensino superior privado;\n\nc) Um representante do pessoal docente do ensino secundário público;\n\nd) Um representante do pessoal docente do ensino básico público;\n\ne) Um representante do pessoal docente da educação pré-escolar pública;\n\nf) Um representante de cada um dos conselhos pedagógicos dos agrupamentos de escolas e escolas não agrupadas;\n\ng) Um representante dos estabelecimentos de educação e de ensino básico e secundário privados;\n\nh) Dois representantes das associações de pais e encarregados de educação;\n\ni) Um representante das associações de estudantes;\n\nj) Um representante das instituições particulares de solidariedade social que desenvolvam atividade na área da educação;\n\nk) Um representante dos serviços públicos de saúde;\n\nl) Um representante dos serviços da segurança social;\n\nm) Um representante dos serviços de emprego e formação profissional;\n\nn) Um representante dos serviços públicos da área da juventude e do desporto;\n\no) Um representante das forças de segurança;\n\np) Um representante do conselho municipal da juventude.\n\n3 - Os representantes a que se referem as alíneas c), d) e e) do número anterior são eleitos pelos docentes do respetivo grau de ensino.\n\n4 - Os representantes a que se refere a alínea f) do n.º 2 são eleitos pelos membros do conselho pedagógico, não podendo ser designado o diretor.\n\n5 - De acordo com a especificidade das matérias a discutir no conselho municipal de educação, pode este deliberar que sejam convidadas a estar presentes nas suas reuniões personalidades de reconhecido mérito na área de saber em análise.\n\n6 - O presidente da câmara municipal preside a ambas as comissões do conselho municipal de educação, sendo substituído, nas suas ausências e impedimentos, pelo vereador responsável pela educação."
+  },
+  "118876316": {
+   "fragment_id": "118876221",
+   "type": 11,
+   "heading": "Artigo 58.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Constituição\n\nO conselho municipal de educação é nomeado por deliberação da assembleia municipal, nos termos propostos pela câmara municipal."
+  },
+  "118876317": {
+   "fragment_id": "118876222",
+   "type": 11,
+   "heading": "Artigo 59.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Funcionamento\n\n1 - O conselho municipal de educação reúne, ordinariamente, no início e no final do ano letivo e, extraordinariamente, sempre que convocado pelo seu presidente.\n\n2 - O conselho municipal de educação pode deliberar a constituição interna de grupos de trabalho, em razão das matérias a analisar ou dos projetos específicos a desenvolver.\n\n3 - O apoio logístico e administrativo necessário ao funcionamento do conselho municipal de educação é assegurado pela câmara municipal."
+  },
+  "118876318": {
+   "fragment_id": "118876223",
+   "type": 11,
+   "heading": "Artigo 60.º — Regimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Regimento\n\nAs regras de funcionamento do conselho municipal de educação constam de regimento, a aprovar pelo conselho, devendo respeitar os seguintes princípios:\n\na) O conselho só pode funcionar quando estiverem presentes, pelo menos, metade dos seus membros;\n\nb) As deliberações que traduzam posições do conselho com eficácia externa devem ser aprovadas por maioria absoluta dos seus membros;\n\nc) Os membros do conselho devem participar obrigatoriamente nas discussões e votações que, de forma direta ou indireta, envolvam as estruturas que representam;\n\nd) As atas das reuniões do conselho devem ser rubricadas por todos os membros que nelas participem."
+  },
+  "118876319": {
+   "fragment_id": "118876224",
+   "type": 11,
+   "heading": "Artigo 61.º — Envio de pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Envio de pareceres\n\nAs avaliações, propostas e recomendações do conselho municipal de educação devem ser remetidas diretamente aos serviços e entidades com competências executivas nas matérias a que os mesmos respeitem."
+  },
+  "118876320": {
+   "fragment_id": "118876225",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições complementares"
+  },
+  "118876321": {
+   "fragment_id": "118876226",
+   "type": 11,
+   "heading": "Artigo 62.º — Titularidade de equipamentos educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Titularidade de equipamentos educativos\n\n1 - São transferidos para a titularidade dos municípios os equipamentos educativos que integram a rede pública do Ministério da Educação e a rede oficial de residências para estudantes.\n\n2 - Excluem-se do número anterior:\n\na) Os equipamentos educativos que integram o património próprio da Parque Escolar, E. P. E., nos termos previstos no artigo 5.º do Decreto-Lei n.º 41/2007, de 21 de fevereiro, na sua redação atual;\n\nb) As escolas profissionais agrícolas e de desenvolvimento rural e as escolas profissionais agrícolas que integram a rede pública do Estado.\n\n3 - Os imóveis transferidos ao abrigo do presente decreto-lei não podem ser objeto de direitos privados ou de transmissão por instrumentos de direito privado, enquanto estiverem afetos a funções educativas e formativas, nos termos do artigo 8.º do presente decreto-lei.\n\n4 - O presente decreto-lei constitui título bastante para o registo de imóveis transferidos, nos termos do presente artigo, a favor dos municípios, os quais ficam isentos de quaisquer taxas ou emolumentos.\n\n5 - A restrição legal constante do n.º 3 está sujeita a registo, sob pena de nulidade do ato.\n\n6 - O registo efetuado nos termos do presente artigo é comunicado ao departamento governamental com competência na gestão dos bens imóveis do domínio privado do Estado."
+  },
+  "118876322": {
+   "fragment_id": "118876227",
+   "type": 11,
+   "heading": "Artigo 63.º — Investimentos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Investimentos em curso\n\nA produção de efeitos do presente decreto-lei não prejudica a conclusão dos contratos e programas de investimento em equipamentos escolares aprovados até ao seu início de vigência."
+  },
+  "118876323": {
+   "fragment_id": "118876228",
+   "type": 11,
+   "heading": "Artigo 64.º — Contratos duradouros vigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Contratos duradouros vigentes\n\nAos contratos para aquisição de bens e prestação de serviços destinados aos agrupamentos de escolas e escolas não agrupadas cuja vigência se prolongue para além da data da entrada em vigor do presente decreto-lei, aplicam-se as seguintes regras:\n\na) Opera-se a cessão da posição contratual do Estado em cada um dos municípios, caso estes manifestem a sua concordância, relativamente aos agrupamentos de escolas e escolas não agrupadas da respetiva área territorial;\n\nb) Caso os municípios não assumam a posição contratual do Estado, são deduzidas das transferências financeiras para o desenvolvimento das competências em matéria de educação os montantes correspondentes aos respetivos encargos, até à sua execução integral."
+  },
+  "118876324": {
+   "fragment_id": "118876229",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "118876325": {
+   "fragment_id": "118876230",
+   "type": 11,
+   "heading": "Artigo 65.º — Comissão técnica de desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Comissão técnica de desenvolvimento\n\n1 - É constituída uma comissão que define e propõe fórmulas de financiamento das despesas cujas competências são transferidas para os municípios ao abrigo do presente decreto-lei.\n\n2 - Para efeitos do número anterior consideram-se as despesas com:\n\na) Equipamento, conservação e manutenção de edifícios e residências escolares:\n\nb) Transporte escolar.\n\n3 - A comissão é ainda encarregue de desenvolver trabalho técnico a fim de definir e propor novos critérios e a respetiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas.\n\n4 - A comissão técnica é composta por:\n\na) Um representante designado pelo membro do Governo responsável pela área das finanças;\n\nb) Um representante designado pelo membro do Governo responsável pela área das autarquias locais;\n\nc) Um representante designado pelo membro do Governo responsável pela área da educação;\n\nd) Dois representantes designados pela Associação Nacional de Municípios Portugueses;\n\ne) Para efeitos do disposto na alínea b) do n.º 2 a comissão integra um representante designado pelo membro do Governo responsável pela área dos transportes terrestres.\n\n5 - Cada uma das entidades referidas no número anterior designa ainda um suplente à exceção da Associação Nacional de Municípios Portugueses que nomeia dois suplentes.\n\n6 - Os representantes e os respetivos suplentes de cada uma das entidades referidas no n.º 4 são designados no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei.\n\n7 - As designações são comunicadas ao membro do Governo responsável pela área da educação, que procede à convocatória da primeira reunião no prazo máximo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n8 - Por deliberação da comissão, podem ser convidados a participar nas suas reuniões, quando a natureza das matérias a tratar o justifique, sem direito de voto, pessoas de reconhecido mérito ou representantes de outras entidades públicas ou privadas cuja presença seja considerada útil para os trabalhos.\n\n9 - A comissão é presidida pelo representante previsto na alínea c) do n.º 4."
+  },
+  "118876326": {
+   "fragment_id": "118876231",
+   "type": 11,
+   "heading": "Artigo 66.º — Comissão de acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Comissão de acompanhamento e monitorização\n\n1 - É criada, em cada município, uma comissão de acompanhamento e monitorização da implementação e desenvolvimento do quadro de competências regulado no presente decreto-lei, com competências específicas para:\n\na) Acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução das competências transferidas;\n\nb) Propor a adoção de medidas tendo em vista a concretização dos objetivos enunciados no artigo 4.º\n\n2 - A comissão de acompanhamento e monitorização a que se refere o número anterior integra:\n\na) O presidente da câmara municipal, que preside;\n\nb) O representante do departamento governamental responsável pela área da educação que integra o conselho municipal de educação;\n\nc) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área do município.\n\n3 - Podem participar nos trabalhos, quando a natureza das matérias a tratar o justifique, representantes das entidades intermunicipais ou representantes de outras entidades e organismos da Administração Pública.\n\n4 - A comissão de acompanhamento e monitorização reúne, pelo menos, trimestralmente.\n\n5 - A comissão de acompanhamento e monitorização efetua um balanço anual do desenvolvimento e da evolução das competências transferidas ao abrigo do presente decreto-lei, através da publicação de um relatório.\n\n6 - A comissão de acompanhamento e monitorização aprova o respetivo regulamento interno.\n\n7 - A comissão de acompanhamento e monitorização extingue-se após a publicação do relatório referido no n.º 5 referente ao ano de 2021."
+  },
+  "118876327": {
+   "fragment_id": "118876232",
+   "type": 11,
+   "heading": "Artigo 67.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Regime transitório\n\n1 - Sem prejuízo do disposto no artigo 31.º as responsabilidades de construção, requalificação e modernização de edifícios escolares relativas a edifícios e equipamentos escolares constantes do mapeamento referido no n.º 3 do artigo 50.º continuam a ser exercidas pelo Ministério da Educação até que seja assegurado o financiamento dessas operações de investimento.\n\n2 - Até à entrada em vigor da portaria referida no artigo 51.º, para o financiamento das competências de conservação e manutenção de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, previstas no n.º 5 do artigo 32.º, bem como das residências escolares, previstas no n.º 2 do artigo 37.º, é transferida anualmente para cada município, a verba de vinte mil euros por cada estabelecimento ou residência.\n\n3 - Até à entrada em vigor da portaria referida no artigo 51.º as competências de equipamento de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário previstas nos n.os 1 e 2 do artigo 32.º, bem como das residências escolares previstas no n.º 2 do artigo 37.º são exercidas pelo departamento governamental com competências na área da educação."
+  },
+  "118876328": {
+   "fragment_id": "118876233",
+   "type": 11,
+   "heading": "Artigo 68.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Regulamentação\n\n1 - É fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais, da educação e dos transportes terrestres, uma fórmula de financiamento das despesas de transporte escolar.\n\n2 - É fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da educação:\n\na) Uma fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas;\n\nb) Uma fórmula de financiamento das despesas de equipamento, conservação e manutenção de edifícios escolares dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e de residências escolares.\n\n3 - As portarias a que se referem os números anteriores resultam do trabalho a desenvolver pela comissão criada nos termos do artigo 66.º, sendo aprovadas no prazo de um ano após a entrada em vigor do presente decreto-lei."
+  },
+  "118876329": {
+   "fragment_id": "118876234",
+   "type": 11,
+   "heading": "Artigo 69.º — Recursos financeiros para o ano letivo de 2019/2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Recursos financeiros para o ano letivo de 2019/2020\n\n1 - Até 30 dias após a entrada em vigor do presente decreto-lei, os membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais remetem a cada uma das câmaras municipais o projeto de mapa contendo os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem de todo o património a transferir para as câmaras municipais nos termos do n.º 1 do artigo 62.º\n\n2 - As câmaras municipais dispõem de um prazo de 30 dias corridos contados da receção do projeto referido no número anterior, para se pronunciarem sobre o seu teor, presumindo-se, na falta de pronúncia, que manifestam a sua concordância com o teor do projeto.\n\n3 - Até 30 de abril de 2019, é publicado por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da educação o mapa com os montantes do Fundo de Financiamento da Descentralização que, nos termos do disposto nos artigos 51.º, 52.º, 53.º, 54.º e 68.º, são transferidos para os municípios no ano letivo de 2019/2020.\n\n4 - Caso se revele necessário, no decurso do ano de 2019, rever os montantes referidos no número anterior, os membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais remetem a fundamentação de revisão aos municípios, e a variação do montante é considerada autonomamente, em sede de Orçamento do Estado para 2020, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir."
+  },
+  "118876330": {
+   "fragment_id": "118876235",
+   "type": 11,
+   "heading": "Artigo 70.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 299/84, de 5 de setembro;\n\nb) O Decreto-Lei n.º 399-A/84, de 28 de dezembro;\n\nc) O Decreto-Lei n.º 7/2003, de 15 de janeiro, na sua redação atual;\n\nd) O Decreto-Lei n.º 144/2008, de 28 de julho, na sua redação atual;\n\ne) Os artigos 8.º, 37.º e 38.º do Decreto-Lei n.º 55/2009, de 2 de março."
+  },
+  "118876331": {
+   "fragment_id": "118876236",
+   "type": 11,
+   "heading": "Artigo 71.º — Contratos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Contratos de execução\n\n1 - A revogação do Decreto-Lei n.º 144/2008, de 28 de julho, na sua versão atual, prevista no artigo anterior, não prejudica a manutenção dos contratos de execução celebrados entre o Ministério da Educação e os municípios, até à plena produção de efeitos do presente decreto-lei, regulada no artigo 75.º\n\n2 - Os acordos de execução previstos no número anterior caducam na data em que os respetivos municípios assumam as novas competências, no âmbito do presente decreto-lei."
+  },
+  "118876332": {
+   "fragment_id": "118876237",
+   "type": 11,
+   "heading": "Artigo 72.º — Contratos de educação e formação municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Contratos de educação e formação municipal\n\nNos termos dos n.os 2 e 3 do artigo 40.º da Lei n.º 50/2018, de 16 de agosto, mantêm-se os contratos interadministrativos de delegação de competências celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, designados contratos de educação e formação municipal, celebrados entre a Presidência do Conselho de Ministros, o Ministério da Educação e Ciência e os municípios, até à data em as autarquias locais assumam, no âmbito do presente decreto-lei, as competências aí previstas."
+  },
+  "118876333": {
+   "fragment_id": "118876238",
+   "type": 11,
+   "heading": "Artigo 73.º — Ação social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Ação social escolar\n\nAté ao início de vigência do diploma previsto no artigo 34.º, mantêm-se em vigor toda a legislação e regulamentação aplicável à ação social escolar, em tudo o que não for contrário ao presente decreto-lei."
+  },
+  "118876334": {
+   "fragment_id": "118876239",
+   "type": 11,
+   "heading": "Artigo 74.º — Escola a tempo inteiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Escola a tempo inteiro\n\nAté ao início de vigência do decreto-lei previsto no artigo 41.º, mantêm-se em vigor toda a legislação e regulamentação aplicável às atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular, em tudo o que não for contrário ao presente decreto-lei."
+  },
+  "118876335": {
+   "fragment_id": "118876240",
+   "type": 11,
+   "heading": "Artigo 75.º — Acordo prévio dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Acordo prévio dos municípios\n\n1 - A transferência das competências para as entidades intermunicipais depende de prévio acordo de todos os municípios que as integrem.\n\n2 - O acordo referido no número anterior é da competência da assembleia municipal de cada um dos municípios que integram a entidade intermunicipal."
+  },
+  "118876336": {
+   "fragment_id": "118876241",
+   "type": 11,
+   "heading": "Artigo 76.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, e na sequência do despacho previsto no n.º 1 do artigo 69.º, os municípios e as entidades intermunicipais que não pretendam a transferência das competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, sob proposta das câmaras municipais respetivas, até 30 de abril de 2019.\n\n3 - As competências reguladas nas secções ii e iii do capítulo ii e no capítulo iv do presente decreto-lei produzem efeitos a partir do início do ano letivo de 2019/2020."
+  },
+  "118876338": {
+   "fragment_id": "118876243",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 5 do artigo 32.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 5 do artigo 32.º)\n\nRede nacional de escolas\n\n(ver documento original)"
+  },
+  "118876339": {
+   "fragment_id": "118876244",
+   "type": 14,
+   "heading": "Anexo II — Rede pública de residências escolares do ensino básico e secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Rede pública de residências escolares do ensino básico e secundário\n\nResidências para estudantes sob gestão municipal (artigo 37.º)\n\n(ver documento original)\n\nResidências para estudantes sob gestão das escolas profissionais agrícolas e de desenvolvimento rural\n\n(ver documento original)\n\n112010236"
+  },
+  "122773928": {
+   "fragment_id": "118872847",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício das competências",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 4.º — Exercício das competências\n\n1 - Salvo indicação em contrário, todas as competências previstas no presente decreto-lei são exercidas pela câmara municipal, com faculdade de delegação no diretor do agrupamento de escolas ou escola não agrupada.\n\n2 - No exercício das competências previstas no presente decreto-lei, os órgãos dos municípios e das entidades intermunicipais, devem respeitar:\n\na) O direito à igualdade de oportunidades de acesso e sucesso escolar;\n\nb) O cumprimento do currículo e orientações pedagógicas nacionais;\n\nc) A equidade territorial e a solidariedade intermunicipal e inter-regional no planeamento das ofertas educativas e formativas e na afetação dos recursos públicos, no quadro da correção de desigualdades e assimetrias locais e regionais;\n\nd) O respeito pela autonomia curricular e pedagógica dos agrupamentos de escolas e escolas não agrupadas;\n\ne) A salvaguarda da autonomia pedagógica no exercício da atividade docente;\n\nf) A gestão pública da rede de estabelecimentos públicos de ensino, existentes ou a criar, através dos órgãos próprios dos agrupamentos de escolas e escolas não agrupadas.\n\n3 - A contratualização ou cedência, a qualquer título, da criação e gestão de oferta pública da educação pré-escolar e dos ensinos básico e secundário a entidades de natureza privada, cooperativa, solidária ou afim, cabe exclusivamente aos departamentos governamentais com competência na matéria.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773929": {
+   "fragment_id": "118876188",
+   "type": 11,
+   "heading": "Artigo 32.º — Equipamento, conservação e manutenção de edifícios escolares",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 32.º — Equipamento, conservação e manutenção de edifícios escolares\n\n1 - A aquisição de equipamento básico, mobiliário, material didático e equipamentos desportivos, laboratoriais, musicais e tecnológicos, utilizados para a realização das atividades educativas, compete às câmaras municipais.\n\n2 - As características e especificações técnicas dos equipamentos e recursos educativos obedecem a termos de referência fixados, em conformidade com a lei, pelo departamento governamental com competência na matéria.\n\n3 - A realização de intervenções de conservação, manutenção e pequena reparação em estabelecimentos da educação pré-escolar e de ensino básico e secundário compete às câmaras municipais, exceto nos edifícios da Parque Escolar, E. P. E.\n\n4 - A competência prevista no número anterior integra a conservação e manutenção dos espaços exteriores incluídos no perímetro dos estabelecimentos educativos destas tipologias.\n\n5 - A rede oficial de escolas públicas é a que consta do anexo i ao presente decreto-lei, do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773930": {
+   "fragment_id": "118876202",
+   "type": 11,
+   "heading": "Artigo 43.º — Procedimento de transição de trabalhadores",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 43.º — Procedimento de transição de trabalhadores\n\n1 - Os trabalhadores com vínculo de emprego público da carreira subsistente de chefe de serviço de administração escolar e das carreiras gerais de assistente técnico e de assistente operacional, que exerçam funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação, transitam para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - Estão excluídos do número anterior os técnicos especializados que exercem funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação.\n\n3 - A transição referida no n.º 1 implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n4 - Os trabalhadores que transitam para os mapas de pessoal das câmaras municipais nos termos do n.º 1 continuam a exercer funções nos agrupamentos de escolas ou escolas não agrupadas em que o fazem à data da entrada em vigor do presente decreto-lei, salvo quando manifestem o seu acordo em exercer funções em agrupamento ou escola não agrupada diferente, ou quando aquele encerre.\n\n5 - A reafetação por opção, prevista no número anterior, carece de concordância expressa do diretor do agrupamento de escolas ou escola não agrupada em que o pessoal presta serviço.\n\n6 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n7 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais, prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n8 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n9 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n10 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 7.\n\n11 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime da Direção-Geral de Proteção Social aos Trabalhadores em Funções Pública (ADSE) e de reembolso das despesas com o Serviço Nacional de Saúde (SNS) vigente nos respetivos lugares de origem.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773931": {
+   "fragment_id": "118876220",
+   "type": 11,
+   "heading": "Artigo 57.º — Composição",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 57.º — Composição\n\n1 - Integram o conselho municipal de educação:\n\na) O presidente da câmara municipal, que preside;\n\nb) O presidente da assembleia municipal;\n\nc) O vereador responsável pela educação;\n\nd) O presidente da junta de freguesia, eleito pela assembleia municipal em representação das freguesias do concelho;\n\ne) O representante do departamento governamental responsável pela área da educação;\n\nf) O representante da Comissão de Coordenação e Desenvolvimento Regional respetiva;\n\ng) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área do município.\n\n2 - Integram ainda o conselho municipal de educação os seguintes representantes, desde que as estruturas representadas existam no município:\n\na) Um representante das instituições de ensino superior público;\n\nb) Um representante das instituições de ensino superior privado;\n\nc) Um representante do pessoal docente do ensino secundário público;\n\nd) Um representante do pessoal docente do ensino básico público;\n\ne) Um representante do pessoal docente da educação pré-escolar pública;\n\nf) Um representante de cada um dos conselhos pedagógicos dos agrupamentos de escolas e escolas não agrupadas;\n\ng) Um representante dos estabelecimentos de educação e de ensino básico e secundário privados;\n\nh) Dois representantes das associações de pais e encarregados de educação;\n\ni) Um representante das associações de estudantes;\n\nj) Um representante das instituições particulares de solidariedade social que desenvolvam atividade na área da educação;\n\nk) Um representante dos serviços públicos de saúde;\n\nl) Um representante dos serviços da segurança social;\n\nm) Um representante dos serviços de emprego e formação profissional;\n\nn) Um representante dos serviços públicos da área da juventude e do desporto;\n\no) Um representante das forças de segurança;\n\np) Um representante do conselho municipal da juventude.\n\n3 - Os representantes a que se referem as alíneas c), d) e e) do número anterior são eleitos pelos docentes do respetivo grau de ensino.\n\n4 - Os representantes a que se refere a alínea f) do n.º 2 são eleitos pelos membros do conselho pedagógico, não podendo ser designado o diretor.\n\n5 - De acordo com a especificidade das matérias a discutir no conselho municipal de educação, pode este deliberar que sejam convidadas a estar presentes nas suas reuniões personalidades de reconhecido mérito na área de saber em análise.\n\n6 - Nas ausências e impedimentos do presidente da câmara municipal, o vereador responsável pela educação preside ao conselho municipal de educação.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773932": {
+   "fragment_id": "118876232",
+   "type": 11,
+   "heading": "Artigo 67.º — Regime transitório",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 67.º — Regime transitório\n\n1 - Sem prejuízo do disposto no artigo 31.º as responsabilidades de construção, requalificação e modernização de edifícios escolares relativas a edifícios e equipamentos escolares constantes do mapeamento referido no n.º 3 do artigo 50.º continuam a ser exercidas pelo Ministério da Educação até que seja assegurado o financiamento dessas operações de investimento.\n\n2 - Até à entrada em vigor da portaria referida no artigo 51.º, para o financiamento das competências de conservação e manutenção de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, previstas no n.º 5 do artigo 32.º, bem como das residências escolares, previstas no n.º 2 do artigo 37.º, é transferida anualmente para cada município, a verba de vinte mil euros por cada estabelecimento ou residência.\n\n3 - Até à entrada em vigor da portaria referida no artigo 51.º as competências de equipamento de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário previstas nos n.os 1 e 2 do artigo 32.º, bem como das residências escolares previstas no n.º 2 do artigo 37.º são exercidas pelo departamento governamental com competências na área da educação.\n\n4 - Até à entrada em vigor da portaria referida no n.º 1 do artigo 68.º, as condições de acesso ao transporte escolar previstas na alínea a) do n.º 1 do artigo 20.º, são circunscritas aos alunos do ensino básico, mantendo-se em vigor as regras fixadas pela Portaria n.º 138/2009, de 3 de fevereiro, na sua redação atual, para os alunos do ensino secundário.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773933": {
+   "fragment_id": "118876233",
+   "type": 11,
+   "heading": "Artigo 68.º — Regulamentação",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 68.º — Regulamentação\n\n1 - É fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais, da educação e dos transportes terrestres, uma fórmula de financiamento das despesas de transporte escolar.\n\n2 - É fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da educação:\n\na) Uma fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas;\n\nb) Uma fórmula de financiamento das despesas de equipamento, conservação e manutenção de edifícios escolares dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e de residências escolares.\n\n3 - As portarias a que se referem os números anteriores resultam do trabalho a desenvolver pela comissão criada nos termos do artigo 65.º, sendo aprovadas no prazo de um ano após a entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773934": {
+   "fragment_id": "118876236",
+   "type": 11,
+   "heading": "Artigo 71.º — Contratos de execução",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 71.º — Contratos de execução\n\n1 - A revogação do Decreto-Lei n.º 144/2008, de 28 de julho, na sua redação atual, prevista no artigo anterior, não prejudica a manutenção dos contratos de execução celebrados entre o Ministério da Educação e os municípios, até à plena produção de efeitos do presente decreto-lei, regulada no artigo 76.º\n\n2 - Os acordos de execução previstos no número anterior caducam na data em que os respetivos municípios assumam as novas competências, no âmbito do presente decreto-lei.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773935": {
+   "fragment_id": "118876241",
+   "type": 11,
+   "heading": "Artigo 76.º — Produção de efeitos",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Retificado pelo/a [Declaração de Retificação n.º 10/2019 - Diário da República n.º 59/2019, Série I de 2019-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2019-121403441), em vigor a partir de 2019-02-04"
+   ],
+   "markdown": "###### Artigo 76.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, e na sequência do despacho previsto no n.º 1 do artigo 69.º, os municípios e as entidades intermunicipais que não pretendam a transferência das competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, sob proposta das câmaras municipais respetivas, até 30 de junho de 2019.\n\n3 - As competências de planeamento e o funcionamento dos conselhos municipais de educação, regulados respetivamente no capítulo II e no capítulo VI do presente decreto-lei produzem efeitos a partir do início do ano letivo 2019/2020, independentemente da deliberação prevista no número anterior.\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Retificado pelo/a [Declaração de Retificação n.º 10/2019 - Diário da República n.º 59/2019, Série I de 2019-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2019-121403441), em vigor a partir de 2019-02-04"
+  },
+  "118876337": {
+   "fragment_id": "118876242",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de novembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Tiago Brandão Rodrigues.\n\nPromulgado em 17 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "131051352": {
+   "fragment_id": "118876232",
+   "type": 11,
+   "heading": "Artigo 67.º — Regime transitório",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 422.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 67.º — Regime transitório\n\n1 - Sem prejuízo do disposto no artigo 31.º as responsabilidades de construção, requalificação e modernização de edifícios escolares relativas a edifícios e equipamentos escolares constantes do mapeamento referido no n.º 3 do artigo 50.º continuam a ser exercidas pelo Ministério da Educação até que seja assegurado o financiamento dessas operações de investimento.\n\n2 - Até à entrada em vigor da portaria referida no artigo 51.º, para o financiamento das competências de conservação e manutenção de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, previstas no n.º 5 do artigo 32.º, bem como das residências escolares, previstas no n.º 2 do artigo 37.º, é transferida anualmente para cada município, a verba de vinte mil euros por cada estabelecimento ou residência.\n\n3 - Até à entrada em vigor da portaria referida no artigo 51.º as competências de equipamento de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário previstas nos n.os 1 e 2 do artigo 32.º, bem como das residências escolares previstas no n.º 2 do artigo 37.º são exercidas pelo departamento governamental com competências na área da educação.\n\n4 - Até à entrada em vigor da portaria referida no n.º 1 do artigo 68.º, o previsto na alínea a) do n.º 1 do artigo 20.º é circunscrito ao ensino básico, mantendo-se a aplicação o previsto no Decreto-Lei n.º 299/84, de 5 de setembro.\n\n> Alterado pelo/a Artigo 422.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "139891171": {
+   "fragment_id": "118876237",
+   "type": 11,
+   "heading": "Artigo 72.º — Contratos de educação e formação municipal",
+   "in_force_from": "2020-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+   ],
+   "markdown": "###### Artigo 72.º — Contratos de educação e formação municipal\n\n1 - O Ministério da Educação e os municípios podem celebrar contratos interadministrativos para delegação de competências, além das previstas na Lei n.º 50/2018, de 16 de agosto, cujo regime é fixado em decreto-lei.\n\n2 - Os contratos interadministrativos de delegação de competências celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, designados «contratos de educação e formação municipal», celebrados entre a Presidência do Conselho de Ministros, o Ministério da Educação e Ciência e os municípios, mantêm-se em vigor relativamente às competências previstas no número anterior, até à entrada em vigor do regime aí previsto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+  },
+  "139891172": {
+   "fragment_id": "118876241",
+   "type": 11,
+   "heading": "Artigo 76.º — Produção de efeitos",
+   "in_force_from": "2020-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13",
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Retificado pelo/a [Declaração de Retificação n.º 10/2019 - Diário da República n.º 59/2019, Série I de 2019-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2019-121403441), em vigor a partir de 2019-02-04"
+   ],
+   "markdown": "###### Artigo 76.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Sem prejuízo do número anterior, todas as competências previstas no presente decreto-lei consideram-se transferidas para as autarquias locais e entidades intermunicipais até 31 de março de 2022.\n\n3 - Relativamente ao ano de 2021, os municípios e entidades intermunicipais que ainda não tenham aceitado as competências previstas no presente decreto-lei, e que não o pretendam fazer no ano de 2021, comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 31 de dezembro de 2020.\n\n4 - As competências de planeamento e o funcionamento dos conselhos municipais de educação, regulados, respetivamente, no capítulo ii e no capítulo vi do presente decreto-lei, produzem efeitos a partir do início do ano letivo 2019/2020, independentemente da deliberação prevista no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Retificado pelo/a [Declaração de Retificação n.º 10/2019 - Diário da República n.º 59/2019, Série I de 2019-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2019-121403441), em vigor a partir de 2019-02-04"
+  },
+  "207863473": {
+   "fragment_id": "118876202",
+   "type": 11,
+   "heading": "Artigo 43.º — Procedimento de transição de trabalhadores",
+   "in_force_from": "2023-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28",
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 43.º — Procedimento de transição de trabalhadores\n\n1 - Os trabalhadores com vínculo de emprego público da carreira subsistente de chefe de serviço de administração escolar e das carreiras gerais de assistente técnico e de assistente operacional, que exerçam funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação, transitam para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - Estão excluídos do número anterior os técnicos especializados que exercem funções nos agrupamentos de escolas e escolas não agrupadas da rede escolar pública do Ministério da Educação.\n\n3 - A transição referida no n.º 1 implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n4 - Os trabalhadores que transitam para os mapas de pessoal das câmaras municipais nos termos do n.º 1 continuam a exercer funções nos agrupamentos de escolas ou escolas não agrupadas em que o fazem à data da entrada em vigor do presente decreto-lei, salvo quando manifestem o seu acordo em exercer funções em agrupamento ou escola não agrupada diferente, ou quando aquele encerre.\n\n5 - A reafetação por opção, prevista no número anterior, carece de concordância expressa do diretor do agrupamento de escolas ou escola não agrupada em que o pessoal presta serviço.\n\n6 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n7 - Sem prejuízo do disposto no número anterior, os trabalhadores integrados na carreira geral de assistente técnico, que transitaram nos termos do n.º 1, podem exercer funções noutro agrupamento de escolas ou escola não agrupada e nos demais serviços municipais ao abrigo do regime geral de mobilidade, previsto na Lei Geral do Trabalho em Funções Públicas.\n\n8 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais, prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n9 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n10 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n11 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 7.\n\n12 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar da aplicação do regime da ADSE - Instituto de Proteção e Assistência na Doença, I. P., e do reembolso das despesas com o Serviço Nacional de Saúde (SNS) vigente nos respetivos lugares de origem.\n\n13 - O regime da ADSE - Instituto de Proteção e Assistência na Doença, I. P., e do SNS dos trabalhadores da administração central direta é aplicável:\n\na) Aos trabalhadores que transitam da administração central para os municípios no âmbito do processo de descentralização de competências;\n\nb) Aos trabalhadores que sejam contratados para substituir os trabalhadores referidos na alínea anterior que tenham cessado funções, temporária ou definitivamente, por alguma das causas previstas no artigo 289.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual;\n\nc) Aos novos recrutamentos dentro dos rácios definidos.\n\n14 - O disposto no presente artigo é aplicável, com as necessárias adaptações, à substituição temporária ou definitiva de trabalhadores e aos novos trabalhadores recrutados, observada a dotação máxima fixada na portaria a que se refere o n.º 3 do artigo 42.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "207863474": {
+   "fragment_id": "118876213",
+   "type": 11,
+   "heading": "Artigo 51.º — Financiamento de equipamento, conservação e manutenção de edifícios escolares e de residências escolares",
+   "in_force_from": "2023-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 51.º — Financiamento de equipamento, conservação e manutenção de edifícios escolares e de residências escolares\n\n1 - O financiamento de equipamento previsto nos artigos 32.º e 37.º é fixado nos termos de portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da educação.\n\n2 - O financiamento da conservação e manutenção dos edifícios e residências escolares é fixado com base nos critérios definidos nos números seguintes.\n\n3 - Para efeitos do número anterior, os valores a transferir anualmente para cada município estão sujeitos aos seguintes critérios:\n\na) Por área coberta:\n\ni) Com menos 10 anos ou requalificadas/modernizadas há menos de 10 anos - (euro) 4/m2;\n\nii) Com mais de 10 anos - (euro) 6/m2;\n\niii) Que constem do mapeamento acordado entre o Governo e a ANMP, relativamente às escolas a intervir em termos de recuperação/reabilitação, e até que a intervenção (de requalificação/modernização) se encontre concluída - (euro) 8/m2;\n\nb) Por área descoberta: (euro) 0,50/m2.\n\n4 - Sempre que da aplicação dos critérios referidos no número anterior resulte um valor inferior a (euro) 20 000, o valor a transferir é fixado em (euro) 20 000 por cada estabelecimento ou residência escolar.\n\n5 - Os valores referidos nos números anteriores são atualizados automaticamente, no início de cada ano, através da aplicação dos índices oficiais de inflação verificados no ano civil anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+  },
+  "207919275": {
+   "fragment_id": "118876216",
+   "type": 11,
+   "heading": "Artigo 54.º — Pessoal não docente",
+   "in_force_from": "2023-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 54.º — Pessoal não docente\n\n1 - O financiamento das despesas com o pessoal não docente é calculado de acordo com os encargos que resultam da aplicação, em cada município, dos critérios de afetação fixados na portaria a que se refere o n.º 3 do artigo 42.º\n\n2 - Quando da transferência de pessoal não docente com vínculo ao Ministério da Educação, prevista no artigo 43.º, ocorram encargos fixos diretamente relacionados, que ultrapassem o montante que resulta do cálculo previsto no número anterior, são transferidos para os municípios os respetivos valores.\n\n3 - O financiamento das despesas com o pessoal não docente é atualizado anualmente, de acordo com a variação prevista para as remunerações dos trabalhadores em funções públicas.\n\n4 - A transferência financeira relativa à transição dos trabalhadores da Administração central para o mapa de pessoal das câmaras municipais, prevista no artigo 43.º, inclui os eventuais abonos que os trabalhadores aufiram.\n\n5 - Os encargos relativos às despesas com seguros de acidente de trabalho e de higiene, segurança e medicina no trabalho, dos trabalhadores referidos no artigo 43.º, são da responsabilidade da administração central.\n\n6 - Os valores de referência necessários ao financiamento das despesas previstas no n.º 5 são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+  },
+  "207919276": {
+   "fragment_id": "118876230",
+   "type": 11,
+   "heading": "Artigo 65.º — Comissão técnica de desenvolvimento",
+   "in_force_from": "2023-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 65.º — Comissão técnica de desenvolvimento\n\n1 - É constituída uma comissão que define e propõe fórmulas de financiamento das despesas cujas competências são transferidas para os municípios ao abrigo do presente decreto-lei.\n\n2 - Para efeitos do número anterior, consideram-se despesas com:\n\na) Equipamento, apetrechamento, conservação e manutenção de edifícios e residências escolares;\n\nb) Transporte escolar.\n\nc) O pessoal não docente tendo por referência a respetiva dotação máxima por agrupamento de escolas ou escola não agrupada.\n\n3 - A comissão é ainda encarregue de desenvolver trabalho técnico a fim de definir e propor novos critérios e a respetiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas.\n\n4 - A comissão técnica é composta por:\n\na) Um representante designado pelo membro do Governo responsável pela área das finanças;\n\nb) Um representante designado pelo membro do Governo responsável pela área das autarquias locais;\n\nc) Um representante designado pelo membro do Governo responsável pela área da educação;\n\nd) Dois representantes designados pela Associação Nacional de Municípios Portugueses;\n\ne) Para efeitos do disposto na alínea b) do n.º 2 a comissão integra um representante designado pelo membro do Governo responsável pela área dos transportes terrestres.\n\n5 - Cada uma das entidades referidas no número anterior designa ainda um suplente à exceção da Associação Nacional de Municípios Portugueses que nomeia dois suplentes.\n\n6 - Os representantes e os respetivos suplentes de cada uma das entidades referidas no n.º 4 são designados no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei.\n\n7 - As designações são comunicadas ao membro do Governo responsável pela área da educação, que procede à convocatória da primeira reunião no prazo máximo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n8 - Por deliberação da comissão, podem ser convidados a participar nas suas reuniões, quando a natureza das matérias a tratar o justifique, sem direito de voto, pessoas de reconhecido mérito ou representantes de outras entidades públicas ou privadas cuja presença seja considerada útil para os trabalhos.\n\n9 - A comissão é presidida pelo representante previsto na alínea c) do n.º 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+  },
+  "207919277": {
+   "fragment_id": "118876231",
+   "type": 11,
+   "heading": "Artigo 66.º — Comissão de acompanhamento e monitorização",
+   "in_force_from": "2023-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 66.º — Comissão de acompanhamento e monitorização\n\n1 - É criada, em cada município, uma comissão de acompanhamento e monitorização da implementação e desenvolvimento do quadro de competências regulado no presente decreto-lei, com competências específicas para:\n\na) Acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução das competências transferidas;\n\nb) Propor a adoção de medidas tendo em vista a concretização dos objetivos enunciados no artigo 4.º\n\n2 - A comissão de acompanhamento e monitorização a que se refere o número anterior integra:\n\na) O presidente da câmara municipal, que preside;\n\nb) O representante do departamento governamental responsável pela área da educação que integra o conselho municipal de educação;\n\nc) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área do município.\n\n3 - Podem participar nos trabalhos, quando a natureza das matérias a tratar o justifique, representantes das entidades intermunicipais ou representantes de outras entidades e organismos da Administração Pública.\n\n4 - A comissão de acompanhamento e monitorização reúne, pelo menos, trimestralmente.\n\n5 - A comissão de acompanhamento e monitorização efetua um balanço anual do desenvolvimento e da evolução das competências transferidas ao abrigo do presente decreto-lei, através da publicação de um relatório.\n\n6 - A comissão de acompanhamento e monitorização aprova o respetivo regulamento interno.\n\n7 - A comissão de acompanhamento e monitorização mantém-se em funcionamento até 31 de dezembro de 2026.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28"
+  },
+  "207988676": {
+   "fragment_id": "118876232",
+   "type": 11,
+   "heading": "Artigo 67.º — Regime transitório",
+   "in_force_from": "2023-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28",
+    "Alterado pelo/a Artigo 422.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 67.º — Regime transitório\n\n1 - Sem prejuízo do disposto no artigo 31.º as responsabilidades de construção, requalificação e modernização de edifícios escolares relativas a edifícios e equipamentos escolares constantes do mapeamento referido no n.º 3 do artigo 50.º continuam a ser exercidas pelo Ministério da Educação até que seja assegurado o financiamento dessas operações de investimento.\n\n2 - [Revogado.]\n\n3 - Até à entrada em vigor da portaria referida no artigo 51.º as competências de equipamento de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário previstas nos n.os 1 e 2 do artigo 32.º, bem como das residências escolares previstas no n.º 2 do artigo 37.º são exercidas pelo departamento governamental com competências na área da educação.\n\n4 - Até à entrada em vigor da portaria referida no n.º 1 do artigo 68.º, o previsto na alínea a) do n.º 1 do artigo 20.º é circunscrito ao ensino básico, mantendo-se a aplicação o previsto no Decreto-Lei n.º 299/84, de 5 de setembro.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2023 - Diário da República n.º 41/2023, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789), em vigor a partir de 2023-02-28\n\n> Alterado pelo/a Artigo 422.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 189.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "835807192": {
+   "fragment_id": "118876194",
+   "type": 11,
+   "heading": "Artigo 36.º — Transportes escolares",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Transportes escolares\n\nA organização e o controlo do funcionamento dos transportes escolares são da competência das câmaras municipais da área de residência dos alunos, nos termos definidos no plano de transportes intermunicipal respetivo, cabendo-lhes especificamente:\n\na) Organizar o processo de acesso ao transporte escolar para cada aluno;\n\nb) Requisitar às entidades concessionárias dos serviços de transporte coletivo os bilhetes de assinatura (passe escolar) para os alunos abrangidos, nos termos a fixar por portaria dos membros do Governo com competência na matéria;\n\nc) Pagar as faturas emitidas mensalmente pelas entidades concessionárias dos serviços de transporte coletivo;\n\nd) Contratar, gerir e pagar os circuitos especiais.\n\ne) Atribuir apoios ao transporte para a frequência do ensino secundário, no âmbito da escolaridade obrigatória, aos alunos cujo agregado familiar resida em concelho sem oferta de ensino secundário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835807193": {
+   "fragment_id": "118876196",
+   "type": 11,
+   "heading": "Artigo 38.º — Alojamento",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Alojamento\n\n1 - A gestão e o funcionamento das modalidades de colocação junto de famílias de acolhimento e alojamento facultado por entidades privadas, mediante estabelecimento de acordos de cooperação, são da competência das câmaras municipais da área do agrupamento de escolas ou escolas não agrupadas em que os beneficiários se encontram matriculados.\n\n2 - Os acordos de cooperação referidos no número anterior estabelecem os direitos e obrigações das partes, bem como os termos do financiamento, definindo quais os instrumentos financeiros utilizáveis.\n\n3 - Os critérios de concessão destas modalidades de apoio ao alojamento são definidos pelo diploma referido no artigo 34.º\n\n4 - As câmaras municipais podem atribuir apoios ao alojamento para a frequência do ensino secundário, no âmbito da escolaridade obrigatória, aos alunos que residam em concelho sem oferta de ensino secundário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835807196": {
+   "fragment_id": "835804814",
+   "type": 11,
+   "heading": "Artigo 38.º-A — Apoios ao transporte e ao alojamento",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 38.º-A — Apoios ao transporte e ao alojamento\n\nPara a concessão dos apoios previstos na alínea e) do artigo 36.º e no n.º 5 do artigo anterior, o aluno deve preencher os seguintes requisitos cumulativos:\n\na) Residir em concelho sem qualquer oferta de ensino secundário;\n\nb) Estar matriculado e ou a frequentar o ensino secundário em escola da rede pública do Ministério da Edução;\n\nc) A distância entre a sua residência e o estabelecimento de ensino a frequentar exceda 15 km;\n\nd) Os meios de transporte coletivo existentes no concelho de residência não satisfaçam regularmente as necessidades de transporte no que se refere ao cumprimento dos horários escolares, ou impliquem tempos de espera superiores a 45 minutos ou deslocações de 60 minutos em cada viagem simples;\n\ne) Sendo maior de 18 anos, não ultrapassar os limites de faltas injustificadas prevista no artigo 18.º da Lei n.º 51/2012, de 5 de setembro, na sua redação atual.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835807197": {
+   "fragment_id": "118876197",
+   "type": 11,
+   "heading": "Artigo 39.º — Escola a tempo inteiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Escola a tempo inteiro\n\nCompete às câmaras municipais promover e implementar medidas de apoio à família e que garantam uma escola a tempo inteiro, designadamente:\n\na) Atividades de animação e apoio à família, destinadas a assegurar o acompanhamento das crianças na educação pré-escolar antes e ou depois do período diário de atividades educativas e durante os períodos de interrupção destas;\n\nb) Componente de apoio à família, através de atividades destinadas a assegurar o acompanhamento dos alunos do 1.º ciclo do ensino básico antes e ou depois das componentes do currículo e das atividades de enriquecimento curricular, bem como durante os períodos de interrupção letiva;\n\nc) Atividades de enriquecimento curricular no 1.º ciclo do ensino básico, de caráter facultativo e de natureza eminentemente lúdica, formativa e cultural que incidam, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e de voluntariado e da dimensão europeia da educação."
+  },
+  "835807198": {
+   "fragment_id": "118876198",
+   "type": 11,
+   "heading": "Artigo 40.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Organização e funcionamento\n\n1 - A planificação das atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular é desenvolvida conjuntamente pelas câmaras municipais e pelos órgãos de administração e gestão dos agrupamentos de escolas e escolas não agrupadas, considerando as necessidades dos alunos e das famílias, a formação e o perfil dos profissionais que as asseguram e os recursos materiais e imateriais de cada território.\n\n2 - A supervisão pedagógica e a avaliação das atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular cabe ao conselho pedagógico de cada agrupamento de escolas ou escola não agrupada."
+  },
+  "835807199": {
+   "fragment_id": "118876199",
+   "type": 11,
+   "heading": "Artigo 41.º — Regime específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regime específico\n\nAs regras a observar na organização e funcionamento das atividades de apoio à família, componente de apoio à família e atividades de enriquecimento curricular são estabelecidas em decreto-lei próprio, que institui o respetivo regime específico."
+  },
+  "835807194": {
+   "fragment_id": "118876215",
+   "type": 11,
+   "heading": "Artigo 53.º — Apoios e complementos educativos",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 53.º — Apoios e complementos educativos\n\n1 - O financiamento do apoio e dos complementos educativos, designadamente dos circuitos especiais de transporte, fornecimento de leite escolar, escola a tempo inteiro, encargos com refeitórios e refeições e apoios ao transporte e alojamento para a frequência do ensino secundário, observa as regras legais respetivamente aplicáveis a cada uma destas medidas.\n\n2 - O montante do financiamento do Estado à atribuição pelos municípios dos apoios ao transporte e alojamento mencionado no número anterior, através de transferências anuais, é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2023-835674290), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  }
+ }
+}

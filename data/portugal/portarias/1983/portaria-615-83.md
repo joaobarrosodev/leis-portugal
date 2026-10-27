@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:451788:por
+title: Portaria n.º 615/83
+short_title: null
+summary: Alarga a área de recrutamento para o cargo de director de serviços administrativos das universidades
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Reforma Administrativa
+proposing_entity: null
+official_number: 615/83
+official_date: null
+publication_date: '1983-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1983, Série I de 1983-05-27
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1959 - 1960
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19591960.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '451788'
+  dre_path: /dr/detalhe/portaria/615-1983-451788
+  internal: pt:dre:451788:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1983-451788
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1983-451788
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:44:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 977a04583817987b88fb7c7a36bf172ea3cc91eda66f2ca713514636eddf4dd2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+- Serviços Administrativos
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:44:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 615/83
+
+de 27 de Maio
+
+Considerando que o cargo de director de serviços administrativos das universidades, previsto nos mapas anexos ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, implica o exercício de um conjunto de atribuições específicas, o que pressupõe uma experiência adequada, a nível de especialização e dos conhecimentos exigidos para o exercício de funções naquele sector e um perfil do candidato consoante a área de actuação do referido cargo;
+
+Considerando que o preceituado no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, prevê, em casos excepcionais e devidamente fundamentados, a possibilidade de alargamento da área de recrutamento para directores de serviços e chefes de divisão, com dispensa, nomeadamente, do requisito de habilitações, sendo bastante a publicação do despacho de nomeação acompanhado do currículo do candidato;
+
+Considerando que a disposição ínsita na alínea b) do n.º 3 do [Despacho Normativo n.º 66/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/66-1982-393063), de 30 de Abril, vem esclarecer quanto ao processo de recurso à previsão contida no mencionado n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;
+
+Considerando que, por força do disposto na alínea a) do n.º 2 do artigo 2.º do referido [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, o recrutamento dos directores de serviços deve ser feito de entre chefes de divisão ou assessores e que as universidades não dispõem de pessoal dessas categorias na área dos serviços administrativos;
+
+Considerando que o desempenho das funções de chefia atinentes àquele sector justifica a possibilidade de acesso àquele cargo de funcionários que demonstrem adequada experiência profissional no âmbito das questões ligadas àquela área de actuação, independentemente das habilitações legais que possuam ou de se encontrarem providos nas categorias a que alude o n.º 2 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho:
+
+Nestes termos:
+
+Ao abrigo do n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Educação e da Reforma Administrativa, alargar a área de recrutamento para o cargo de director de serviços administrativos, previsto nos mapas anexos ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, que poderão ser providos, com dispensa da posse de licenciatura, de entre chefes de repartição das respectivas universidades com mais de 3 anos de bom e efectivo serviço na categoria ou de entre secretários das faculdades, escolas ou institutos neles integrados com, pelo menos, 3 anos de bom e efectivo serviço como chefes de repartição na respectiva área de competência e, em ambos os casos, com um mínimo de 15 anos de serviço nas secretarias das mesmas universidades.
+
+Ministérios da Educação e da Reforma Administrativa.
+
+Assinado em 17 de Maio de 1983.
+
+O Ministro da Educação, João José Fraústo da Silva. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

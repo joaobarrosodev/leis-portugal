@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:226817:por
+title: Portaria n.º 535/2005
+short_title: null
+summary: Altera o plano de estudos do curso bietápico de licenciatura em Cardiopneumologia ministrado pela Escola Superior
+  de Tecnologia da Saúde do Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 535/2005
+official_date: null
+publication_date: '2005-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2005, Série I-B de 2005-06-20
+  number: '116'
+  series: I
+  supplement: null
+  pages: 3876 - 3877
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/535/2005/06/20/p/dre/pt/html
+  oj: null
+  dre: '226817'
+  dre_path: /dr/detalhe/portaria/535-2005-226817
+  internal: pt:dre:226817:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-2005-226817
+  metadata_url: https://data.dre.pt/eli/port/535/2005/06/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-2005-226817
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:06:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 98e38690e13830329a770446b780c801fb7d853466da213435c3d774a6e235b1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Escola Superior de Tecnologia da Saúde
+- Licenciatura
+- Plano de Estudos
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:198750:por
+  label: null
+  source: http://data.dre.pt/eli/port/147/2003/02/11/p/dre
+- type: cites
+  target: pt:dre:239252:por
+  label: null
+  source: http://data.dre.pt/eli/port/20/2001/01/10/p/dre
+- type: cites
+  target: pt:dre:344966:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/2001/03/28/p/dre
+- type: cites
+  target: pt:dre:445528:por
+  label: null
+  source: http://data.dre.pt/eli/port/1303/2003/11/20/p/dre
+- type: cites
+  target: pt:dre:449743:por
+  label: null
+  source: http://data.dre.pt/eli/port/505-d/1999/07/15/p/dre
+- type: cites
+  target: pt:dre:505637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: http://data.dre.pt/eli/port/3/2000/01/04/p/dre
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+- type: cites
+  target: pt:dre:644708:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/116/2002/10/02/p/dre
+- type: cites
+  target: pt:dre:667764:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:06:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 535/2005
+
+de 20 de Junho
+
+Sob proposta da Escola Superior de Tecnologia da Saúde do Porto;
+
+Considerando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura em Tecnologias da Saúde, aprovado pela [Portaria n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/portaria/3-2000-510269), de 4 de Janeiro;
+
+Considerando o disposto na [Portaria n.º 505-D/99](https://diariodarepublica.pt/dr/detalhe/portaria/505-d-1999-449743), de 15 de Julho;
+
+Considerando o disposto na [Portaria n.º 20/2001](https://diariodarepublica.pt/dr/detalhe/portaria/20-2001-239252), de 10 de Janeiro, alterada pelas Portarias n.os [147/2003](https://diariodarepublica.pt/dr/detalhe/portaria/147-2003-198750), de 11 de Fevereiro, e [1303/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1303-2003-445528), de 20 de Novembro;
+
+Colhido o parecer do grupo de acompanhamento do ensino superior na área da saúde, criado pela [Resolução do Conselho de Ministros n.º 116/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/116-2002-644708), de 2 de Outubro;
+
+Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, alterado pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro, conjugado com o disposto no [Decreto-Lei n.º 99/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2001-344966), de 28 de Março, e no [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), de 21 de Julho:
+
+Manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:
+
+1.º
+
+Alteração
+
+O anexo III da [Portaria n.º 20/2001](https://diariodarepublica.pt/dr/detalhe/portaria/20-2001-239252), de 10 de Janeiro, alterada pelas Portarias n.os [147/2003](https://diariodarepublica.pt/dr/detalhe/portaria/147-2003-198750), de 11 de Fevereiro, e [1303/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1303-2003-445528), de 20 de Novembro, que aprovou, entre outros, o plano de estudos do curso bietápico de licenciatura em Cardiopneumologia ministrado pela Escola Superior de Tecnologia da Saúde do Porto, passa a ter a redacção constante do anexo à presente portaria.
+
+2.º
+
+Transição
+
+As regras de transição entre o anterior plano de estudos e o plano de estudos aprovado pela presente portaria são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+3.º
+
+Aplicação
+
+O disposto no presente diploma aplica-se a partir do ano lectivo de 2005-2006, inclusive.
+
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 25 de Maio de 2005.
+
+## ANEXO III — ([Portaria n.º 20/2001](https://diariodarepublica.pt/dr/detalhe/portaria/20-2001-239252), de 10 de Janeiro, alterada pelas Portarias n.os [147/2003](https://diariodarepublica.pt/dr/detalhe/portaria/147-2003-198750), de 11 de Fevereiro, e [1303/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1303-2003-445528), de 20 de Novembro - alteração)
+
+Curso de Cardiopneumologia
+
+1.º ciclo
+
+Grau de bacharel
+
+QUADRO N.º 1
+
+1.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)
+
+2.º ciclo
+
+Grau de licenciado
+
+QUADRO N.º 4
+
+1.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38763877.pdf)

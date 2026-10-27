@@ -1,0 +1,381 @@
+---
+schema_version: '1.0'
+id: pt:dre:543675:por
+title: Decreto-Lei n.º 23/2012
+short_title: null
+summary: Aprova a orgânica da Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 23/2012
+official_date: null
+publication_date: '2012-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/2012, Série I de 2012-02-01
+  number: '23'
+  series: I
+  supplement: null
+  pages: 560 - 562
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02300/0056000562.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-10-16'
+version_history:
+  file: decreto-lei-23-2012.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-08-08'
+    amending: pt:dre:69968711:por
+    amending_title: Decreto-Lei n.º 153/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Anexo
+  - date: '2019-04-02'
+    amending: pt:dre:117202785:por
+    amending_title: Decreto-Lei n.º 108/2018
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+  - date: '2020-10-16'
+    amending: pt:dre:145440390:por
+    amending_title: Decreto-Lei n.º 87/2020
+    changes:
+    - Altera Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/23/2012/p/cons/20201015/pt/html
+  oj: null
+  dre: '543675'
+  dre_path: /dr/detalhe/decreto-lei/23-2012-543675
+  internal: pt:dre:543675:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2012-543675
+  metadata_url: https://data.dre.pt/eli/dec-lei/23/2012/p/cons/20201015/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70040402
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70040402
+  retrieved_at: '2026-10-22T12:01:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 1fd77e198ea8c3e4ac216e14862107d9d796faa5a9d80bf17b771938a5db98f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:01:29Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-23-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Inspecção Geral da Agricultura e Pescas
+- Conselho de Inspecção
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Inspetor Geral
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Orgânica
+- Quadro de Pessoal
+- Polícia Criminal
+- Subinspector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:69968711:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711
+  date: '2015-08-07'
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Altera Artigo 2.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
+- type: amended_by
+  target: pt:dre:145440390:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2020-145440390
+  date: '2020-10-15'
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre
+- type: cites
+  target: pt:dre:569549:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/276-b/2007/07/31/p/dre
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:636412:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/79/2007/07/30/p/dre
+article_structure:
+  article_count: 15
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:01:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 23/2012
+
+Decreto-Lei n.º 23/2012
+
+de 1 de fevereiro
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Na sequência da Lei Orgânica do XIX Governo Constitucional, aprovada pelo Decreto-Lei n.º 86-A/2011, de 12 de Julho, e da subsequente unificação num só ministério das áreas da agricultura, mar, florestas, desenvolvimento rural, ambiente, ordenamento do território, habitação e reabilitação urbana, ficaram sob tutela da respectiva ministra dois serviços de inspecção, ambos abrangidos no regime jurídico da actividade de inspecção, auditoria e fiscalização dos serviços da administração directa e indirecta do Estado.
+
+Assim, importando concretizar o esforço de racionalização estrutural, o Decreto-Lei n.º 7/2012, diploma que aprovou a Lei Orgânica do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (MAMAOT), instituiu a Inspecção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT) como o serviço de inspecção daquele ministério, resultando da fusão das anteriores Inspecção-Geral da Agricultura e Pescas e Inspecção-Geral do Ambiente e do Ordenamento do Território.
+
+As duas inspecções que agora se fundem têm experiência adquirida e um historial de desempenho no domínio do controlo e auditoria. Ambas têm intervenção conhecida no controlo sectorial e na auditoria nos domínios da organização, gestão e actividade dos serviços, de defesa da legalidade, regularidade e boa gestão financeira dos fundos públicos, nacionais e comunitários. Um dos objectivos a atingir com a fusão será, portanto, o de preservar e consolidar a competência firmada nessas áreas.
+
+Com o presente decreto-lei, reiterando e valorizando a tradicional vertente do controlo e auditoria dos organismos, serviços e fundos financeiros, procede-se a um esforço centralizador e introduzem-se ajustamentos que visam conciliar as estruturas orgânicas pré-existentes nos ministérios fundidos, com redefinição das áreas de coordenação e de intervenção operacional, perspectivando os desafios e as exigências que o novo serviço unificado irá enfrentar, no caminho do desenvolvimento de uma verdadeira cultura do controlo organizacional e financeiro do MAMAOT.
+
+As actividades de avaliação e acompanhamento do ordenamento do território, tradicionalmente prosseguidas por uma das inspecções, são continuadas pelo novo organismo inspectivo. Especificamente na área do ambiente, a IGAMAOT herdará as atribuições de actividade do controlo e fiscalização das actividades com incidência ambiental e respectivo sistema contra-ordenacional.
+
+A nova Inspecção-Geral tem intervenção em três áreas principais - controlo e auditorias internos dos organismos do MAMAOT, controlo e auditoria da atribuição de fundos comunitários e acompanhamento e avaliação da legalidade em matérias de incidência ambiental e do ordenamento do território - que devem encontrar reflexo na estrutura e organização interna.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Inspeção-geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar, abreviadamente designada IGAMAOT, é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A IGAMAOT tem por missão avaliar o desempenho e a gestão dos serviços e organismos do Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE) e do Ministério da Agricultura e do Mar (MAM), ou sujeitos à tutela dos respetivos ministros, através de ações de auditoria e controlo, bem como assegurar o permanente acompanhamento e avaliação do cumprimento da legalidade nas áreas do ambiente, do ordenamento do território e da conservação da natureza e, ainda, exercer o controlo e auditoria no âmbito da segurança alimentar e o controlo de apoios financiados por fundos nacionais e da União Europeia, a favor da agricultura, das florestas, do desenvolvimento rural e da política do mar.
+
+2 - A IGAMAOT prossegue, designadamente, as seguintes atribuições:
+
+a) Realizar, com caráter sistemático, auditorias, inspeções e outras ações de controlo à atividade prosseguida pelos organismos, serviços e entidades dependentes do MAOTE e do MAM, ou sujeitos à tutela dos respetivos ministros;
+
+b) Realizar inquéritos, averiguações e outras acções que lhe sejam superiormente determinadas;
+
+c) Exercer o controlo financeiro sectorial ao nível do MAOTE e do MAM, no quadro dos objetivos e metas anuais e plurianuais traçadas no âmbito do Sistema de Controlo Interno (SCI) da Administração Financeira do Estado;
+
+d) Efetuar de forma sistemática o acompanhamento e avaliação do grau de implementação das recomendações formuladas aos organismos, serviços e entidades auditados no âmbito das ações levadas a cabo pela IGAMAOT;
+
+e) Assegurar a realização de ações de auditoria administrativa e financeira, bem como de inspeção a entidades públicas e privadas em matérias de incidência ambiental, incluindo as relativas ao cumprimento das normas tributárias de taxas e contribuições ambientais, e impor as medidas que previnam ou eliminem situações de perigo grave para a saúde, segurança das pessoas, dos bens e do ambiente;
+
+f) Proceder a ações de inspeção no âmbito do MAOTE e junto de entidades integradas na administração central e local, de modo a acompanhar e avaliar o cumprimento da legalidade no âmbito do ordenamento do território e conservação da natureza;
+
+g) Exercer funções próprias de órgão de polícia criminal relativamente aos crimes que se relacionem com o cumprimento da sua missão em matérias de incidência ambiental, sem prejuízo das atribuições de outras entidades;
+
+h) Instaurar, instruir e decidir processos de contra-ordenação ambiental, nos termos da lei-quadro das contra-ordenações ambientais, bem como nos demais casos previstos na lei, e levantar auto de notícia relativo às infracções legalmente definidas;
+
+i) Coordenar a intervenção do MAM no Sistema Nacional de Auditoria do Plano Nacional de Controlo Plurianual Integrado (PNCPI), realizar as auditorias externas e avaliar as auditorias internas aos sistemas de controlo oficial implementados pelos serviços e organismos no domínio da segurança alimentar;
+
+j) Assegurar a coordenação nacional e a execução dos controlos ex post a beneficiários dos apoios financiados pelo Fundo Europeu Agrícola de Garantia (FEAGA), bem como pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER);
+
+k) Exercer as funções de serviço específico previsto no artigo 85.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;
+
+l) Realizar auditorias aos sistemas de gestão e controlo dos apoios concedidos e das operações financiadas pelos fundos nacionais e da União Europeia, nos setores da agricultura, do desenvolvimento rural, das florestas e do mar;
+
+m) Proceder à instrução de processos disciplinares em serviços e organismos sujeitos à tutela do MAOTE e do MAM, quando determinado;
+
+n) Emitir pareceres e elaborar estudos sobre matérias das suas atribuições, assim como participar na elaboração de diplomas legais;
+
+l) Proceder à instrução de processos disciplinares em serviços e organismos sujeitos à tutela do MAMAOT, quando determinado;
+
+m) Assegurar a representação nacional e a articulação com as demais autoridades nacionais, com a Comissão Europeia e com os Estados Membros, acompanhar as missões comunitárias, bem como estabelecer relações de cooperação externa nos seus domínios de actuação.
+
+n) Emitir pareceres e elaborar estudos sobre matérias das suas atribuições, assim como participar na elaboração de diplomas legais;
+
+o) Assegurar a representação nacional, incluindo a participação em grupos de trabalho ou de peritos, nacionais ou internacionais, bem como a articulação com as demais autoridades nacionais, com a Comissão Europeia e com os restantes Estados Membros da União Europeia, e estabelecer relações de cooperação externa, no âmbito das suas atribuições, em articulação, respetivamente, com a Secretaria-Geral do MAOTE ou com o Gabinete de Planeamento, Políticas e Administração Geral, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros;
+
+p) Assegurar o acompanhamento das missões de controlo da União Europeia, no âmbito das suas atribuições, incluindo as relativas ao Fundo Europeu Agrícola de Garantia (FEAGA), ao Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), ao Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) e à segurança alimentar;
+
+q) Coordenar a representação nacional na Rede Europeia para a implementação e aplicação da legislação ambiental vigente (IMPEL - European Union Network for the Implementation and Enforcement of Environmental Law);
+
+r) Proceder a ações de inspeção a entidades públicas e privadas de modo a acompanhar e a avaliar o cumprimento de normas de proteção radiológica e de segurança nuclear, bem como, nesse âmbito, de instaurar, instruir e decidir processos de contraordenação, nos termos da lei-quadro das contraordenações ambientais, e levantar autos de notícias relativos às restantes infrações.
+
+s) Proceder a ações de inspeção em matérias relacionadas com navios e embarcações, sem prejuízo das atribuições de outras entidades
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 87/2020 - Diário da República n.º 201/2020, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2020-145440390), em vigor a partir de 2020-10-16
+
+> Alterado pelo/a Artigo 202.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 3.º — Órgãos
+
+1 - A IGAMAOT é dirigida por um inspector-geral, coadjuvado por três subinspectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+
+2 - É ainda órgão da IGAMAOT o conselho de inspecção.
+
+###### Artigo 4.º — Inspector-geral
+
+1 - Sem prejuízo das competências que lhe estão conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspector-geral:
+
+a) Representar e assegurar as relações da IGAMAOT junto de outros serviços e entidades nacionais e internacionais;
+
+b) Determinar as medidas preventivas previstas na alínea e) do n.º 2 do artigo 2.º ou outras que se revelem necessárias, bem como emitir os mandados necessários para a execução das referidas medidas;
+
+c) Determinar e decidir os processos relativos a ilícitos de mera ordenação social cuja competência caiba à IGAMAOT.
+
+2 - Os subinspectores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo inspector-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 5.º — Conselho de Inspecção
+
+1 - O Conselho de Inspecção é um órgão colegial, de natureza consultiva, ao qual compete apoiar o inspector-geral no exercício das suas funções.
+
+2 - O Conselho de Inspecção é composto pelo inspector-geral, que preside, pelos subinspectores-gerais e pelos inspectores directores.
+
+3 - Ao Conselho de Inspecção compete, em especial, pronunciar-se sobre:
+
+a) Os instrumentos de gestão da IGAMAOT;
+
+b) A política de gestão de recursos humanos;
+
+c) A política de qualidade.
+
+4 - O inspector-geral pode determinar a participação de outros trabalhadores da IGAMAOT nas reuniões do Conselho de Inspecção, em razão da matéria a tratar.
+
+###### Artigo 6.º — Tipo de organização interna
+
+A organização interna da IGAMAOT obedece ao modelo de estrutura matricial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 7.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+
+1 - (Revogado).
+
+2 - Aos chefes de equipas multidisciplinares é atribuído, em função da natureza e complexidade das funções, um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de nove chefias de equipa em simultâneo.
+
+3 - Os chefes de equipa com estatuto remuneratório equiparado a director de serviços são designados inspectores-directores.
+
+> Alterado pelo/a Artigo 202.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 8.º — Receitas
+
+1 - A IGAMAOT dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A IGAMAOT dispõe ainda das seguintes receitas próprias:
+
+a) A importância das coimas aplicadas e juros sobre elas incidentes, na parte que legalmente lhe estiver consignada;
+
+b) O produto das sanções pecuniárias aplicadas no âmbito dos processos de contra-ordenações;
+
+c) As custas e os juros sobre as custas incidentes dos processos de contra-ordenações em que a IGAMAOT tenha sido a autoridade administrativa que aplicou a sanção;
+
+d) O produto da venda de publicações e de outros suportes de informação;
+
+e) O produto dos serviços prestados;
+
+f) Quaisquer outras receitas que lhe advenham por lei, contrato ou a qualquer outro título.
+
+3 - As quantias cobradas pela IGAMAOT são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas da agricultura, mar, ambiente, ordenamento do território e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+###### Artigo 9.º — Despesas
+
+Constituem despesas da IGAMAOT as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 10.º — Mapa de cargos de direcção
+
+Os lugares de direção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 11.º — Órgão de polícia criminal
+
+1 - Na prossecução da atribuição referida na alínea h) do n.º 2 do artigo 2.º, a IGAMAOT tem a natureza de órgão de polícia criminal, actuando no processo sob direcção e na dependência funcional da autoridade judiciária competente.
+
+2 - Para os efeitos do disposto no Código de Processo Penal e no número anterior, o inspector-geral, os subinspectores-gerais e os trabalhadores da carreira especial de inspecção são considerados autoridade de polícia criminal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08
+
+###### Artigo 12.º — Sucessão
+
+A IGAMAOT sucede nas atribuições, direitos e obrigações à Inspecção-Geral da Agricultura e Pescas e à Inspecção-Geral do Ambiente e do Ordenamento do Território.
+
+###### Artigo 13.º — Critérios de selecção de pessoal
+
+É fixado, como critério geral e abstracto de selecção do pessoal necessário à prossecução das atribuições da IGAMAOT, o exercício de funções na Inspecção-Geral da Agricultura e Pescas ou na Inspecção-Geral do Ambiente e do Ordenamento do Território.
+
+###### Artigo 14.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 276-B/2007, de 31 de Julho;
+
+b) O Decreto Regulamentar n.º 79/2007, de 30 de Julho.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 18 de Janeiro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 20 de Janeiro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — (a que se refere o artigo 10.º)
+
+(a que se refere o artigo 10.º)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 153/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711), em vigor a partir de 2015-08-08

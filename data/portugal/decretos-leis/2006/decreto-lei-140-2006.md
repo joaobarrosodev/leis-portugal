@@ -1,0 +1,5335 @@
+---
+schema_version: '1.0'
+id: pt:dre:539238:por
+title: Decreto-Lei n.º 140/2006
+short_title: null
+summary: Desenvolve os princípios gerais relativos à organização e ao funcionamento do Sistema Nacional de Gás Natural, aprovados
+  pelo Decreto-Lei n.º 30/2006, de 15 de Fevereiro, regulamentando o regime jurídico aplicável ao exercício das actividades
+  de transporte, armazenamento subterrâneo, recepção, armazenamento e regaseificação de gás natural liquefeito, à distribuição
+  e comercialização de gás natural e à organização dos mercados de gás natural, e que completa a transposição da Directiva
+  n.º 2003/55/CE, do Parlamento Europeu e do Conselho, de 26 de Junho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 140/2006
+official_date: null
+publication_date: '2006-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2006, Série I de 2006-07-26
+  number: '143'
+  series: I
+  supplement: null
+  pages: 5284 - 5338
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14300/52845338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-08-29'
+version_history:
+  file: decreto-lei-140-2006.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-12'
+    amending: pt:dre:335465:por
+    amending_title: Decreto-Lei n.º 66/2010
+    changes:
+    - Entrada Vigor Diploma
+  - date: '2012-11-25'
+    amending: pt:dre:192437:por
+    amending_title: Decreto-Lei n.º 231/2012
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Adita Artigo 17.º-A
+    - Adita Artigo 29.º-A
+    - Adita Artigo 34.º-A
+    - Adita Artigo 36.º-A
+    - Adita Artigo 36.º-B
+    - Adita Artigo 36.º-C
+    - Adita Artigo 38.º-A
+    - Adita Artigo 38.º-B
+    - Adita Artigo 39.º-A
+    - Adita Artigo 39.º-B
+    - Adita Artigo 43.º-A
+    - Adita Artigo 46.º-A
+    - Adita Artigo 47.º-A
+    - Adita Artigo 47.º-B
+    - Adita Artigo 47.º-C
+    - Adita Artigo 48.º-A
+    - Adita Artigo 50.º-A
+    - Adita Artigo 50.º-B
+    - Adita Artigo 62.º-A
+    - Adita Artigo 62.º-B
+    - Adita Artigo 72.º-A
+    - Adita Artigo 75.º-A
+    - Adita Artigo 75.º-B
+    - Adita Artigo 75.º-C
+    - Adita Artigo 75.º-D
+    - Adita Base XXVII-A
+    - Adita Anexo V
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2017-04-01'
+    amending: pt:dre:106804082:por
+    amending_title: Decreto-Lei n.º 38/2017
+    changes:
+    - Revoga Artigo 44.º
+  - date: '2020-08-29'
+    amending: pt:dre:141377978:por
+    amending_title: Decreto-Lei n.º 62/2020
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/140/2006/p/cons/20200828/pt/html
+  oj: null
+  dre: '539238'
+  dre_path: /dr/detalhe/decreto-lei/140-2006-539238
+  internal: pt:dre:539238:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2006-539238
+  metadata_url: https://data.dre.pt/eli/dec-lei/140/2006/p/cons/20200828/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529675
+  retrieved_at: '2026-10-22T11:49:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 98a8ac14123d538d5ad2ad83e8f5b768042f15ee372be54d4b90660fd03b9471
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:49:47Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-140-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Aproximação das Legislações
+- Armazenagem
+- Autoridade da Concorrência
+- Sociedade Anónima
+- Contrato
+- Contrato de Compra e Venda
+- Contrato de Concessão
+- Definição de Competências
+- Instituto de Seguros de Portugal
+- Transmissão da Propriedade
+- Liberalização do Mercado
+- Licenciamento
+- GDP
+- Direcção Geral de Geologia e Energia
+- Entidade Reguladora dos Serviços Energéticos
+- Informação do Consumidor
+- Preço
+- Serviço Público
+- Rede Elétrica Nacional
+- Rede Nacional de Distribuição de Gás Natural
+- Rede Nacional de Transporte Instalações de Armazenamento e Terminais
+- Regime Jurídico
+- Seguro Obrigatório de Responsabilidade Civil
+- SGPS
+- Comércio
+- Transferência de Competências
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:335465:por
+  label: Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465
+  date: '2010-06-11'
+- type: amended_by
+  target: pt:dre:192437:por
+  label: Adita Artigo 7.º-A; Adita Artigo 12.º-A; Adita Artigo 12.º-B; Adita Artigo 12.º-C; Adita Artigo 17.º-A; Adita Artigo
+    29.º-A; Adita Artigo 34.º-A; Adita Artigo 36.º-A; Adita Artigo 36.º-B; Adita Artigo 36.º-C; Adita Artigo 38.º-A; Adita
+    Artigo 38.º-B; Adita Artigo 39.º-A; Adita Artigo 39.º-B; Adita Artigo 43.º-A; Adita Artigo 46.º-A; Adita Artigo 47.º-A;
+    Adita Artigo 47.º-B; Adita Artigo 47.º-C; Adita Artigo 48.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:106804082:por
+  label: Revoga Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2017-106804082
+  date: '2017-03-31'
+- type: amended_by
+  target: pt:dre:141377978:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978
+  date: '2020-08-28'
+- type: cites
+  target: celex:31983L0349
+  label: null
+  source: http://data.europa.eu/eli/dir/1983/349/oj
+- type: cites
+  target: celex:31989R4064
+  label: null
+  source: http://data.europa.eu/eli/reg/1989/4064/oj
+- type: cites
+  target: celex:32003L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/55/oj
+- type: cites
+  target: celex:32004L0039
+  label: null
+  source: null
+- type: cites
+  target: celex:32004L0067
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/67/oj
+- type: cites
+  target: celex:32005R1775
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0715
+  label: null
+  source: null
+- type: cites
+  target: celex:32010R0994
+  label: null
+  source: null
+- type: transposes
+  target: celex:32003L0055
+  label: null
+  source: null
+- type: transposes
+  target: celex:32006L0123
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0073
+  label: null
+  source: null
+article_structure:
+  article_count: 289
+  section_count: 64
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:49:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 140/2006
+
+Na sequência da Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, que aprovou a estratégia nacional para a energia, o Decreto-Lei n.º 30/2006, de 15 de Fevereiro, veio estabelecer as bases gerais da organização e funcionamento do Sistema Nacional de Gás Natural (SNGN) em Portugal, bem como as bases gerais aplicáveis ao exercício das actividades de recepção, armazenamento e regaseificação de gás natural liquefeito (GNL), de armazenamento subterrâneo, transporte, distribuição e comercialização de gás natural, incluindo a comercialização de último recurso, e à organização dos mercados de gás natural, transpondo, assim, para a ordem jurídica nacional os princípios da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0055" title="Link para Directiva da Comunidade Europeia">2003/55/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Junho.
+
+De acordo com o Decreto-Lei n.º 30/2006, de 15 de Fevereiro, compete ao Governo promover a legislação complementar relativa ao exercício das actividades abrangidas pelo referido decreto-lei, nomeadamente os regimes jurídicos das actividades nele previstas, incluindo as respectivas bases de concessão e procedimentos para atribuição das concessões e licenças. Compete, igualmente, ao Governo garantir a segurança do abastecimento do SNGN.
+
+Deste modo, são estabelecidos no presente decreto-lei os regimes jurídicos aplicáveis às actividades reguladas de recepção, armazenamento e regaseificação de GNL em terminais oceânicos, de armazenamento subterrâneo, transporte e distribuição de gás natural, incluindo as respectivas bases das concessões, bem como os regimes jurídicos da comercialização de gás natural, incluindo a de último recurso. É, também, estabelecida a organização dos respectivos mercados e prevista a criação do operador logístico de mudança de comercializador. Neste decreto-lei procede-se, igualmente, à definição do tipo de procedimentos aplicáveis à atribuição das concessões e licenças, das regras relativas à gestão técnica global do SNGN e ao planeamento da rede nacional de transporte, infra-estruturas de armazenamento e terminais de GNL a cargo da entidade concessionária da rede nacional de transporte de gás natural.
+
+Pela importância que assumem no SNGN, este decreto-lei estabelece as regras relativas à segurança do abastecimento e sua monitorização, bem como à constituição e manutenção de reservas de segurança de gás natural.
+
+Nas matérias que constituem o seu objecto, o presente decreto-lei completa a transposição da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0055" title="Link para Directiva da Comunidade Europeia">2003/55/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Junho, iniciada com o Decreto-Lei n.º 30/2006, de 15 de Fevereiro, e procede ainda à transposição da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0067" title="Link para Directiva da Comunidade Europeia">2004/67/CE</a>, do Conselho, de 26 de Abril.
+
+Prevê-se, ainda, neste decreto-lei a atribuição da concessão da rede nacional de transporte de gás natural em alta pressão, de uma concessão de armazenamento subterrâneo de gás natural no sítio da Guarda Norte, Carriço, no concelho de Pombal, e da concessão da exploração do terminal de GNL de Sines, por ajuste directo, a três sociedades em relação de domínio total inicial com a REN - Rede Eléctrica Nacional, S. A., na sequência da separação dos respectivos activos e actividades e da transmissão dos mesmos às referidas sociedades pela TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A. Consequentemente, e em conformidade com o disposto no artigo 65.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro, definem-se os termos em que é modificado o actual contrato de concessão do serviço público de importação de gás natural e do seu transporte e fornecimento através da rede de alta pressão, celebrado entre o Estado e esta última sociedade, mantendo-se numa sociedade em regime de domínio total pela TRANSGÁS a concessão de armazenamento subterrâneo de gás natural, ainda que alterada em conformidade com este decreto-lei.
+
+Por último, estabelece-se o regime transitório, até à publicação da regulamentação prevista no Decreto-Lei n.º 30/2006, de 15 de Fevereiro, das actividades objecto das concessões e do sistema de acesso de terceiros à rede de transporte, ao armazenamento subterrâneo e ao terminal de GNL.
+
+Foi promovida a audição do Conselho Nacional do Consumo e das associações e cooperativas de consumidores que integram o Conselho.
+
+Foram ouvidas a Comissão Nacional de Protecção de Dados e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece os regimes jurídicos aplicáveis às atividades de transporte, de armazenamento subterrâneo de gás natural, de receção, armazenamento e regaseificação de gás natural liquefeito (GNL) e de distribuição de gás natural, incluindo as respetivas bases das concessões, bem como de comercialização de gás natural e de organização dos respetivos mercados.
+
+2 - O presente decreto-lei estabelece também as regras relativas à gestão técnica global do sistema nacional de gás natural (SNGN), ao planeamento da rede nacional de transporte, infraestruturas de armazenamento e terminais de GNL (RNTIAT), ao planeamento da rede nacional de distribuição de gás natural (RNDGN), à segurança do abastecimento e sua monitorização e à constituição e manutenção de reservas de segurança.
+
+3 - Nas matérias que constituem o seu objeto, o presente decreto-lei procede à transposição, iniciada com o Decreto-Lei n.º 77/2011, de 20 de junho, que altera o Decreto-Lei n.º 30/2006, de 15 de fevereiro, da Diretiva n.º 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de junho, que estabelece regras comuns para o mercado interno do gás natural e que revoga a Diretiva n.º 2003/55/CE, e dá execução ao Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, relativo às condições de acesso às redes de transporte de gás natural e que revoga o Regulamento (CE) n.º 1775/2005, bem como ao Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, relativo a medidas destinadas a garantir a segurança do aprovisionamento de gás e que revoga a Diretiva n.º 2004/67/CE, do Conselho.
+
+4 - O presente decreto-lei incorpora, ainda, a disciplina do Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs para a ordem jurídica interna a Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa ao mercado interno dos serviços.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 -O presente decreto-lei aplica-se a todo o território nacional, sem prejuízo do disposto no capítulo VII do Decreto-Lei n.º 30/2006, de 15 de Fevereiro.
+
+2 - As disposições do presente decreto-lei relativas ao acesso às redes de transporte e de distribuição e demais infraestruturas do SNGN, bem como à comercialização, são aplicáveis ao biogás e ao gás proveniente da biomassa, ou a outros tipos de gás, na medida em que esses gases possam ser, do ponto de vista técnico, de qualidade e da segurança, injetados e transportados nas redes de gás natural.
+
+3 - A definição dos requisitos técnicos, de qualidade e de segurança do biogás, do gás proveniente da biomassa e de outros tipos de gás, bem como os procedimentos aplicáveis ao licenciamento das instalações de tratamento destes gases em estado bruto e à sua injeção nas infraestruturas do SNGN são aprovados por portaria dos membros do Governo responsáveis pelas áreas da energia e do ambiente, ouvida a ERSE e o operador da RNTGN.
+
+4 - O regime de aquisição do biogás, do gás proveniente da biomassa e dos outros tipos de gás é definido por portaria do membro do Governo responsável pela área da energia, ouvida a ERSE, a Agência Portuguesa do Ambiente e o operador da RNTGN, no âmbito das suas atribuições.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 3.º — Definições
+
+Para os efeitos do presente decreto-lei, entende-se por:
+
+a) «Alta pressão (AP)» a pressão superior a 20 bar;
+
+b) «Armazenamento» a actividade de constituição de reservas de gás natural em cavidades subterrâneas ou reservatórios especialmente construídos para o efeito;
+
+c) «Baixa pressão (BP)» a pressão inferior a 4 bar;
+
+d) 'Cliente' o cliente grossista ou retalhista e o cliente final;
+
+e) «Cliente doméstico» o consumidor final que compra gás natural para uso doméstico, excluindo actividades comerciais ou profissionais;
+
+f) (Revogada.)
+
+g) «Cliente final» o cliente que compra gás natural para consumo próprio;
+
+h) «Cliente grossista» a pessoa singular ou colectiva distinta dos operadores das redes de transporte e dos operadores das redes de distribuição que compra gás natural para efeitos de revenda;
+
+i) «Cliente retalhista» a pessoa singular ou colectiva que compra gás natural não destinado a utilização própria, que comercializa gás natural em infra-estruturas de venda a retalho, designadamente de venda automática, com ou sem entrega ao domicílio dos clientes;
+
+j) «Comercialização» a compra e a venda de gás natural a clientes, incluindo a revenda;
+
+k) 'Comercializador' a entidade registada para a comercialização de gás natural cuja atividade consiste na compra a grosso e na venda a grosso e a retalho de gás natural;
+
+l) 'Comercializador de último recurso' a entidade titular de licença de comercialização de gás natural sujeita a obrigações de serviço público, nos termos do presente decreto-lei;
+
+m) «Conduta directa» um gasoduto de gás natural não integrado na rede interligada;
+
+n) «Consumidor» o cliente final de gás natural;
+
+o) «Contrato de aprovisionamento de gás a longo prazo» um contrato de fornecimento de gás com uma duração superior a 10 anos;
+
+p) 'Derivado de gás' um dos instrumentos financeiros especificados nos pontos 5, 6 ou 7 da secção C do anexo i da Diretiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de abril, relativa aos mercados de instrumentos financeiros, sempre que esteja relacionado com o gás natural;
+
+q) «Distribuição» a veiculação de gás natural em redes de distribuição de alta, média e baixa pressões, para entrega ao cliente, excluindo a comercialização;
+
+r) «Distribuição privativa» a veiculação de gás natural em rede alimentada por ramal ou por UAG destinada ao abastecimento de um consumidor;
+
+s) (Revogada.)
+
+t) (Revogada.)
+
+u) (Revogada.)
+
+v) «GNL» o gás natural na forma liquefeita;
+
+w) «Interligação» uma conduta de transporte que atravessa ou transpõe uma fronteira entre Estados membros vizinhos com a única finalidade de interligar as respectivas redes de transporte;
+
+x) «Média pressão (MP)» a pressão entre 4 bar e 20 bar;
+
+y) «Mercados organizados» os sistemas com diferentes modalidades de contratação que possibilitam o encontro entre a oferta e a procura de gás natural e de instrumentos cujo activo subjacente seja gás natural ou activo equivalente;
+
+z) 'Operador de armazenamento subterrâneo' a entidade que exerce a atividade de armazenamento subterrâneo de gás natural e é responsável, num conjunto específico de instalações, pela exploração e manutenção das capacidades de armazenamento e respetivas infraestruturas;
+
+aa) 'Operador de rede de distribuição' a entidade responsável, numa área específica, pelo desenvolvimento, exploração e manutenção da rede de distribuição e, quando aplicável, das suas interligações com outras redes, bem como por assegurar a garantia de capacidade da rede a longo prazo para atender pedidos razoáveis de distribuição de gás natural;
+
+bb) 'Operador da rede de transporte' a entidade responsável, numa área específica, pelo desenvolvimento, exploração e manutenção da rede de transporte e, quando aplicável, das suas interligações com outras redes, bem como por assegurar a garantia de capacidade da rede a longo prazo para atender pedidos razoáveis de transporte de gás natural;
+
+cc) 'Operador de terminal de GNL' a entidade que exerce a atividade de receção, armazenamento e regaseificação de GNL e é responsável, num terminal de GNL, pela exploração e manutenção das capacidades de receção, armazenamento e regaseificação e respetivas infraestruturas;
+
+dd) 'Plano de emergência' o instrumento aprovado em execução do Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, de harmonia com os termos, procedimentos e objetivos previstos nesse Regulamento e no artigo 48.º do presente decreto-lei;
+
+ee) «Pólos de consumo» as zonas do território nacional não abrangidas pelas concessões de distribuição regional como tal reconhecidas pelo ministro responsável pela área da energia, para efeitos de distribuição de gás natural sob licença;
+
+ff) «Postos de enchimento» as instalações destinadas ao abastecimento de veículos movidos por motores alimentados por gás natural;
+
+gg) «Recepção» o recebimento de GNL para armazenamento, tratamento e regaseificação em terminais;
+
+hh) «Rede de distribuição regional» uma parte da rede nacional de distribuição de gás natural (RNDGN) afecta a uma concessionária de distribuição de gás natural;
+
+ii) «Rede interligada» um conjunto de redes ligadas entre si;
+
+jj) «Rede nacional de distribuição de gás natural (RNDGN)» o conjunto das infra-estruturas de serviço público destinadas à distribuição de gás natural;
+
+kk) «Rede nacional de transporte de gás natural (RNTGN)» o conjunto das infra-estruturas de serviço público destinadas ao transporte de gás natural;
+
+ll) «Rede nacional de transporte, infra-estruturas de armazenamento e terminais de GNL (RNTIAT)» o conjunto das infra-estruturas de serviço público destinadas à recepção e ao transporte em gasoduto, ao armazenamento subterrâneo e à recepção, ao armazenamento e à regaseificação de GNL;
+
+mm) «Rede pública de gás natural (RPGN)» o conjunto que abrange as infra-estruturas que constituem a RNTIAT e as que constituem a RNDGN;
+
+nn) «Reservas de segurança» as quantidades armazenadas com o fim de serem libertadas para consumo, quando expressamente determinado pelo ministro responsável pela área da energia, para fazer face a situações de perturbação do abastecimento;
+
+oo) «Ruptura importante no aprovisionamento» uma situação em que a União Europeia corra o risco de perder mais de 20% do seu aprovisionamento de gás fornecido por países terceiros e a situação a nível da União Europeia não possa ser adequadamente resolvida através de medidas nacionais;
+
+pp) «Serviços (auxiliares) de sistema» todos os serviços necessários para o acesso e a exploração de uma rede de transporte e de distribuição de uma instalação de GNL e de uma instalação de armazenamento, mas excluindo os meios exclusivamente reservados aos operadores da rede de transporte, no exercício das suas funções;
+
+qq) «Sistema» o conjunto de redes e de infra-estruturas de recepção e de entrega de gás natural, ligadas entre si e localizadas em Portugal, e de interligações a sistemas de gás natural vizinhos;
+
+rr) «Sistema nacional de gás natural (SNGN)» o conjunto de princípios, organizações, agentes e infra-estruturas relacionados com as actividades abrangidas pelo presente decreto-lei no território nacional;
+
+ss) 'Sistemas inteligentes' os sistemas destinados à medição e gestão da informação relativa ao gás natural que favoreçam a participação ativa do consumidor no mercado de fornecimento de gás natural;
+
+tt) «Terminal de GNL» o conjunto das infra-estruturas ligadas directamente à rede de transporte destinadas à recepção e expedição de navios metaneiros, armazenamento, tratamento e regaseificação de GNL e à sua posterior emissão para a rede de transporte, bem como o carregamento de GNL em camiões-cisterna;
+
+uu) «Transporte» a veiculação de gás natural numa rede interligada de alta pressão para efeitos de recepção e entrega a distribuidores, comercializadores ou grandes clientes finais;
+
+vv) «UAG» a instalação autónoma de recepção, armazenamento e regaseificação de GNL para emissão em rede de distribuição ou directamente ao cliente final;
+
+ww) «Utilizador da rede» a pessoa singular ou colectiva que entrega gás natural na rede ou que é abastecida através dela.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 4.º — Princípios gerais
+
+1 - O exercício das atividades abrangidas pelo presente decreto-lei obedece a princípios de racionalidade e eficácia dos meios a utilizar, contribuindo para a progressiva melhoria da competitividade e eficiência do SNGN e para a realização do mercado interno da energia, num quadro de utilização racional dos recursos, de proteção dos consumidores e de minimização dos impactes ambientais, no respeito pelas disposições legais aplicáveis.
+
+2 - O exercício das atividades previstas no presente decreto-lei processa-se com observância dos princípios da concorrência, sem prejuízo do cumprimento das obrigações de serviço público.
+
+3 - O exercício das atividades abrangidas pelo presente decreto-lei depende da atribuição de concessões de serviço público, de licenças ou de registo.
+
+4 - Sem prejuízo das competências atribuídas a outras entidades administrativas, designadamente à Direção-Geral de Energia e Geologia (DGEG), à Autoridade da Concorrência e à Comissão do Mercado de Valores Mobiliários, no domínio específico das suas atribuições, as atividades de transporte de gás natural, de armazenamento subterrâneo de gás natural, de receção, armazenamento e regaseificação em terminais de GNL, de distribuição e de comercialização de gás natural, de gestão de mercados organizados e de operação logística de mudança de comercializador estão sujeitas a regulação pela Entidade Reguladora dos Serviços Energéticos (ERSE), nos termos previstos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no presente decreto-lei, nos estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, alterado pelo Decreto-Lei n.º 200/2002, de 25 de setembro, e pelo Decreto-Lei n.º 212/2012, de 25 de setembro, e demais legislação aplicável.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo II — Regime de exercício das actividades da RNTIAT e RNDGN
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 5.º — Regime de exercício
+
+1 - As actividades de transporte de gás natural, de armazenamento subterrâneo de gás natural e de recepção, armazenamento e regaseificação de GNL em terminais de GNL são exercidas em regime de concessão de serviço público.
+
+2 - As atividades referidas no número anterior integram, no seu conjunto, a exploração da RNTIAT.
+
+3 - A atividade de distribuição de gás natural é exercida mediante a atribuição de concessão de serviço público ou de licença em regime de serviço público para a exploração das redes de distribuição que, no seu conjunto, constituem a RNDGN.
+
+4 - A exploração da RNTIAT e da RNDGN compreende as seguintes concessões e licenças:
+
+a) Concessão da RNTGN;
+
+b) Concessões de armazenamento subterrâneo de gás natural em regime de acesso regulado e em regime de acesso negociado de terceiros;
+
+c) Concessões de recepção, armazenamento e regaseificação de GNL;
+
+d) Concessões e licenças da RNDGN.
+
+5 - As concessões referidas no número anterior regem-se pelo disposto no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no presente decreto-lei, nas respetivas bases de concessão, na legislação e regulamentação aplicáveis e nos respetivos contratos de concessão.
+
+6 - A concessão da RNTGN é exercida em regime de exclusivo em todo o território continental, sendo as concessões de distribuição regional e as licenças de distribuição local exercidas em regime de exclusivo nas áreas concessionadas ou polos de consumo licenciados, respetivamente.
+
+7 - Os custos incorridos pelas entidades titulares das concessões e licenças referidas nos números anteriores em atividades de apoio à supervisão, acompanhamento e fiscalização das suas obrigações apenas podem ser repercutidos na tarifa de uso global do sistema, nos termos da legislação e regulamentos em vigor, mediante autorização prévia da DGEG e desde que tenham sido incorridos de forma justificada e eficiente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 6.º — Seguro de responsabilidade civil
+
+1 - Para garantir o cumprimento das suas obrigações, as entidades concessionárias e licenciadas, nos termos do presente decreto-lei, devem celebrar um seguro de responsabilidade civil em ordem a assegurar a cobertura de eventuais danos materiais e corporais sofridos por terceiros e resultantes do exercício das respectivas actividades.
+
+2 - O montante do seguro mencionado no número anterior tem um valor mínimo obrigatório a estabelecer e a actualizar nos termos a definir por portaria do ministro responsável pela área da energia, ouvido o Instituto de Seguros de Portugal.
+
+3 - O Instituto de Seguros de Portugal define, em norma regulamentar, o regime do seguro de responsabilidade civil referido no n.º 1.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 7.º — Regime de atribuição das concessões
+
+1 - Compete ao Conselho de Ministros, sob proposta do ministro responsável pela área da energia, aprovar, por resolução, a atribuição de cada uma das concessões referidas no artigo 5.º
+
+2 - As concessões são atribuídas mediante contratos de concessão, nos quais outorga o membro do Governo responsável pela área da energia, em representação do Estado, na sequência de realização de concurso público ou de concurso limitado por prévia qualificação, salvo se, de acordo com os princípios e regras gerais da contratação pública, estiverem reunidas condições para o recurso a outro procedimento adjudicatório.
+
+3 - O alargamento das áreas geográficas respeitantes a concessões da RNDGN já em exploração é igualmente aprovado por resolução do Conselho de Ministros, sob proposta do ministro responsável pela área da energia, mediante pedido da respectiva concessionária e após serem ouvidas as concessionárias das áreas de concessão confinantes com aquela para que seja pretendida a extensão da concessão.
+
+4 - Os pedidos de criação de novas concessões de armazenamento subterrâneo, de recepção, armazenamento e regaseificação de GNL ou de distribuição regional devem ser dirigidos ao ministro responsável pela área da energia e ser acompanhados dos elementos e dos estudos justificativos da sua viabilidade económica e financeira.
+
+5 - Os procedimentos de atribuição de novas concessões iniciados após a apresentação dos pedidos referidos no número anterior observam o disposto no artigo seguinte.
+
+6 - Sem prejuízo de outros requisitos que venham a ser fixados no âmbito dos procedimentos de atribuição das concessões, só podem ser concessionárias das concessões que integram a RNTIAT e a RNDGN as pessoas colectivas que:
+
+a) Sejam sociedades anónimas com sede e direcção efectiva em Portugal;
+
+b) Tenham como objecto social principal o exercício das actividades integradas no objecto da respectiva concessão;
+
+c) Demonstrem possuir capacidade técnica para a construção, gestão e manutenção das respectivas infra-estruturas e instalações;
+
+d) Demonstrem possuir capacidade económica e financeira compatível com as exigências, e inerentes responsabilidades, das actividades a concessionar.
+
+7 - (Revogado.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 7.º-A — Procedimento na sequência de pedido do interessado
+
+1 - Na sequência da apreciação dos pedidos referidos no n.º 4 do artigo anterior, e desde que os mesmos não sejam liminarmente indeferidos por razões de desconformidade jurídica ou de inoportunidade ou inconveniência para o interesse público, a DGEG procede à sua publicitação, através de avisos, na 2.ª série do Diário da República e no Jornal Oficial da União Europeia, bem como no respetivo sítio na Internet.
+
+2 - Durante o prazo de dois meses após a publicitação referida no número anterior, podem ser dirigidos ao membro do Governo responsável pela área da energia outros pedidos com objeto semelhante, caso em que se deve proceder à abertura de um concurso público ou de um concurso limitado por prévia qualificação entre os requerentes.
+
+3 - Quando, após a publicação dos avisos a que se refere o n.º 1, não se justifique a abertura de um procedimento concursal, em virtude de não terem sido apresentados outros pedidos concorrentes, cabe à DGEG promover a instrução do procedimento e submeter o pedido de atribuição da concessão ao requerente único a decisão do membro do Governo responsável pela área da energia.
+
+4 - Os termos estabelecidos no presente artigo devem ser objeto de regulamentação por portaria do membro do Governo responsável pela área da energia.
+
+5 - O disposto no presente artigo não é aplicável à atribuição de novas concessões de armazenamento subterrâneo na sequência da apresentação de pedidos de autorização de trabalhos de pesquisa geológica, de acordo com o Regulamento de Armazenamento Subterrâneo, a qual observa os termos e procedimentos definidos na portaria referida no número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 8.º — Direitos e obrigações das concessionárias
+
+1 - São direitos das concessionárias, nomeadamente, os seguintes:
+
+a) Explorar as concessões nos termos dos respectivos contratos de concessão, legislação e regulamentação aplicáveis;
+
+b) Constituir servidões e solicitar a expropriação por utilidade pública e urgente dos bens imóveis, ou direitos a eles relativos, necessários ao estabelecimento das infra-estruturas e instalações integrantes das concessões, nos termos da legislação aplicável;
+
+c) Utilizar, nas condições definidas pela legislação aplicável, os bens do domínio público ou privado do Estado e de outras pessoas coletivas públicas para o estabelecimento ou passagem das infraestruturas ou instalações integrantes das concessões;
+
+d) Receber dos utilizadores das respetivas infraestruturas, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas e preços regulados definidos no regulamento tarifário, ou, no caso das concessionárias de armazenamento subterrâneo em regime de acesso negociado de terceiros, uma retribuição resultante do preço negociado livremente e de boa-fé entre a concessionária e o utilizador;
+
+e) Exigir aos utilizadores que as instalações a ligar às infra-estruturas concessionadas cumpram os requisitos técnicos, de segurança e de controlo que não ponham em causa a fiabilidade e eficácia do sistema;
+
+f) Exigir dos utilizadores que introduzam gás no sistema que o gás natural introduzido nas instalações concessionadas cumpra ou permita que sejam cumpridas as especificações de qualidade estabelecidas;
+
+g) Exigir aos utilizadores com direito de acesso às infra-estruturas concessionadas que informem sobre o seu plano de utilização e qualquer circunstância que possa fazer variar substancialmente o plano comunicado;
+
+h) Aceder aos equipamentos de medição de quantidade e qualidade do gás introduzido nas suas instalações e aceder aos equipamentos de medição de gás destinados aos utilizadores ligados às suas instalações;
+
+i) (Revogada.)
+
+j) No caso das concessionárias de armazenamento subterrâneo de gás natural em regime de acesso negociado de terceiros, negociar livremente e de boa-fé as condições, prazos e preços de acesso às suas infraestruturas;
+
+k) Todos os que lhes forem conferidos por disposição legal ou regulamentar referente às condições de exploração das concessões.
+
+2 - Constituem obrigações de serviço público das concessionárias:
+
+a) A segurança, regularidade e qualidade do abastecimento;
+
+b) A garantia de acesso dos utilizadores, de forma não discriminatória e transparente, às infra-estruturas e serviços concessionados, nos termos previstos na regulamentação aplicável e nos contratos de concessão;
+
+c) A garantia de ligação dos clientes às redes nos termos previstos nos contratos de concessão ou nos títulos das licenças e na regulamentação da ERSE;
+
+d) A proteção dos utilizadores, designadamente quanto a tarifas e preços;
+
+e) A promoção da eficiência energética e da utilização racional dos recursos, a protecção do ambiente e a contribuição para o desenvolvimento equilibrado do território;
+
+f) A segurança das infra-estruturas e instalações concessionadas.
+
+3 - Constituem obrigações gerais das concessionárias:
+
+a) Cumprir a legislação e a regulamentação aplicáveis ao sector do gás natural e, bem assim, as obrigações emergentes dos contratos de concessões;
+
+b) Proceder à inspecção periódica, à manutenção e a todas as reparações necessárias ao bom e permanente funcionamento, em perfeitas condições de segurança, das infra-estruturas e instalações pelas quais sejam responsáveis;
+
+c) Permitir e facilitar a fiscalização pelo concedente, designadamente através da DGGE, facultando-lhe todas as informações obrigatórias ou adicionais solicitadas para o efeito;
+
+d) Prestar todas as informações que lhe sejam exigidas pela ERSE, no âmbito das respectivas atribuições e competência;
+
+e) Pagar as indemnizações devidas pela constituição de servidões e expropriações, nos termos legalmente previstos;
+
+f) Constituir o seguro de responsabilidade civil referido no n.º 1 do artigo 6.º
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 9.º — Prazo das concessões
+
+1 - O prazo das concessões é determinado pelo concedente, em cada contrato de concessão, e não pode exceder 40 anos contados a partir da respectiva data de celebração.
+
+2 - Os contratos podem prever a renovação do prazo da concessão por uma única vez se o interesse público assim o justificar e as concessionárias tiverem cumprido as obrigações legais e contratuais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 10.º — Oneração ou transmissão dos bens que integram as concessões e transferência dos bens no termo das concessões
+
+1 - Sob pena de nulidade dos respectivos actos ou contratos, as concessionárias não podem onerar ou transmitir os bens que integram as concessões sem prévia autorização do concedente, nos termos estabelecidos nas respectivas bases das concessões anexas ao presente decreto-lei.
+
+2 - No respectivo termo, os bens que integram as concessões transferem-se para o Estado, de acordo com o que seja estabelecido na lei e definido nos respectivos contratos de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo III — Composição e planeamento da RNTIAT e da RNDGN e gestão técnica global do SNGN
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 11.º — Composição da RNTIAT e da RNDGN
+
+1 - A RNTIAT compreende a rede de transporte de gás natural em alta pressão, as infraestruturas para a respetiva operação, incluindo as estações de redução de pressão e medida de 1.ª classe e respetiva ligação ao cliente final, as infraestruturas de armazenamento subterrâneo de gás natural e os terminais de GNL, bem como as respetivas infraestruturas de ligação à rede de transporte.
+
+2 - A RNDGN compreende as redes regionais de distribuição de gás natural em média e baixa pressão, a jusante das estações de redução de pressão e medida de 1.ª classe, e todas as demais infra-estruturas necessárias à respectiva operação e de ligação a outras redes ou a clientes finais.
+
+3 - As infra-estruturas que integram a RNTIAT e a RNDGN são consideradas, para todos os efeitos, de utilidade pública.
+
+4 - O projeto, licenciamento, construção e modificação das infraestruturas que integram a RNTIAT e a RNDGN são objeto de legislação específica.
+
+5 - Os bens que integram cada uma das concessões da RNTIAT e da RNDGN devem ser identificados nos respectivos contratos.
+
+6 - A ligação das infra-estruturas de armazenamento subterrâneo, de terminais de GNL e de redes de distribuição à RNTGN deve ser efectuada em condições técnica e economicamente adequadas, nos termos estabelecidos na lei e nos regulamentos aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 12.º — Planeamento da RNTIAT
+
+1 - O planeamento da RNTIAT deve assegurar a existência de capacidade das infraestruturas, o desenvolvimento adequado e eficiente da rede e a segurança do abastecimento, e deve ter em conta as disposições e os objetivos previstos no Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, nomeadamente quanto ao plano decenal não vinculativo de desenvolvimento da rede à escala comunitária, no âmbito do mercado interno do gás natural.
+
+2 - O operador da RNTGN deve elaborar, nos anos ímpares, um plano decenal indicativo de desenvolvimento e investimento da RNTIAT (PDIRGN).
+
+3 - No caso de a entidade concessionária da RNTGN se certificar como operador de transporte independente (OTI), nos termos da subsecção ii, da secção ii do capítulo ii do Decreto-Lei n.º 30/2006, de 15 de fevereiro, o PDIRGN é elaborado anualmente.
+
+4 - O PDIRGN deve ter em consideração os seguintes elementos:
+
+a) O relatório anual de monitorização da segurança do abastecimento mais recente;
+
+b) Caracterização da RNTIAT elaborada pelo operador da RNTGN, em conformidade com os objetivos e requisitos de transparência previstos no Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, que deve conter a informação técnica necessária ao conhecimento da situação das redes e restantes infraestruturas, designadamente das capacidades nos vários pontos relevantes da rede, da capacidade de armazenamento subterrâneo e dos terminais de GNL e do respetivo grau de utilização;
+
+c) Planos quinquenais de desenvolvimento e investimento das redes de distribuição (PDIRD) elaborados, no ano par anterior, pelos operadores da RNDGN, nos termos dos artigos 12.º-B e 12.º-C.
+
+5 - O PDIRGN deve observar, para além de critérios de racionalidade económica, as orientações de política energética, designadamente o que se encontrar definido relativamente à capacidade e tipo das infraestruturas de entrada de gás natural no sistema, as perspetivas de desenvolvimento dos setores de maior e mais intenso consumo, as conclusões e recomendações contidas nos relatórios anuais de monitorização da segurança do abastecimento, os padrões de segurança para planeamento das redes e as exigências técnicas e regulamentares, a par das exigências de utilização eficiente das infraestruturas e de sua sustentabilidade económico-financeira a prazo.
+
+6 - A elaboração do PDIRGN, no que diz respeito às interligações internacionais, deve ser feita em estreita cooperação com os operadores de rede respetivos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 12.º-A — Procedimento de elaboração do PDIRGN
+
+1 - A proposta de PDIRGN deve ser apresentada pelo operador da RNTGN à DGEG até ao final do 1.º trimestre de cada ano ímpar ou, no caso previsto no n.º 3 do artigo anterior, até ao final do 1.º trimestre de cada ano.
+
+2 - Recebida a proposta de PDIRGN, a DGEG procede à sua apreciação, tendo em conta as necessidades de investimento para assegurar níveis adequados de segurança do abastecimento energético e o cumprimento de outras metas de política energética, determinando, se necessário, a introdução de alterações à proposta de PDIRGN.
+
+3 - No prazo de 30 dias após a receção da proposta de PDIRGN, a DGEG notifica a sua apreciação ao operador da RNTGN, o qual, no caso de serem determinadas alterações, dispõe do prazo de 30 dias para enviar à DGEG uma proposta de PDIRGN que contemple as referidas alterações.
+
+4 - A DGEG comunica a proposta de PDIRGN à ERSE, a qual deve promover a respetiva consulta pública pelo prazo de 30 dias.
+
+5 - Findo o período de consulta pública, a ERSE emite parecer sobre a proposta de PDIRGN no prazo de 30 dias, enviando o respetivo parecer, nesse mesmo prazo, ao operador da RNTGN, com conhecimento da DGEG.
+
+6 - No parecer referido no número anterior, a ERSE pode determinar alterações à proposta de PDIRGN, tendo em vista, designadamente, assegurar a adequada cobertura das necessidades de investimento identificadas no processo de consulta pública e a promoção da concorrência, bem como a coerência do PDIRGN com o plano de desenvolvimento da rede à escala da União, conforme previsto na alínea b) do n.º 3 do artigo 8.º do Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, consultando, a este respeito e em caso de dúvidas, a Agência de Cooperação dos Reguladores da Energia.
+
+7 - No prazo de 30 dias após a receção do parecer da ERSE, o operador da RNTGN elabora a proposta final do PDIRGN e envia-a à DGEG.
+
+8 - No prazo de 30 dias após a receção da proposta final do PDIRGN, a DGEG envia-a para aprovação do membro do Governo responsável pela área da energia, acompanhada do parecer da ERSE e dos resultados da consulta pública.
+
+9 - O membro do Governo responsável pela área da energia decide sobre a aprovação do PDIRGN no prazo de 30 dias a contar da data da receção da sua proposta final.
+
+10 - O membro do Governo responsável pela área da energia pode, fundamentadamente, recusar a aprovação do PDIRGN no caso de a respetiva proposta final não contemplar as alterações determinadas pela DGEG ou no parecer da ERSE ou de não prever investimentos necessários ao cumprimento dos objetivos de política energética.
+
+11 - Cabe à ERSE acompanhar e fiscalizar a calendarização, orçamentação e execução dos projetos de investimento na RNTIAT previstos no PDIRGN, que ficam sujeitos ao seu parecer vinculativo, no âmbito das suas atribuições, não podendo este parecer versar sobre questões estratégicas de desenvolvimento da rede ou relacionadas com a segurança do abastecimento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 12.º-B — Planeamento da RNDGN
+
+1 - O planeamento da RNDGN deve ser efetuado de forma a assegurar a existência de capacidade nas redes para a receção e entrega de gás natural, com níveis adequados de qualidade de serviço e de segurança, no âmbito do mercado interno de gás natural.
+
+2 - Os operadores da RNDGN devem elaborar, nos anos pares, um PDIRD.
+
+3 - Os PDIRD devem basear-se na caracterização técnica das redes e na oferta e procura, atuais e previstas, aferidas com base na análise do mercado, devem estar coordenados com o PDIRGN e ter em conta o objetivo de facilitar o desenvolvimento de medidas de gestão da procura.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 12.º-C — Procedimento de elaboração dos PDIRD
+
+1 - Os operadores da RNDGN devem apresentar a respetiva proposta de PDIRD à DGEG até ao final de abril de cada ano par.
+
+2 - Recebidas as propostas de PDIRD, a DGEG procede à sua apreciação, tendo em conta as necessidades de investimento para assegurar níveis adequados de segurança do abastecimento energético e o cumprimento de outras metas de política energética, determinando, se necessário, a introdução de alterações às referidas propostas.
+
+3 - No prazo de 30 dias após a receção das propostas de PDIRD, a DGEG notifica a sua apreciação aos operadores da RNDGN, os quais, no caso da determinação de eventuais alterações, dispõem do prazo de 30 dias para enviar à DGEG propostas de PDIRD que contemplem as referidas alterações.
+
+4 - A DGEG comunica as propostas de PDIRD ao operador da RNTGN para emissão de parecer no prazo de 60 dias.
+
+5 - A DGEG comunica ainda as referidas propostas à ERSE, a qual deve promover a respetiva consulta pública pelo prazo de 30 dias.
+
+6 - Findo o período de consulta pública, a ERSE emite parecer sobre as propostas de PDIRD no prazo de 30 dias, enviando-o, nesse mesmo prazo, aos operadores da RNDGN, com conhecimento da DGEG.
+
+7 - No parecer referido no número anterior, a ERSE pode determinar alterações às propostas de PDIRD, tendo em vista, designadamente, assegurar a adequada cobertura das necessidades de investimento identificadas no processo de consulta pública e a promoção da concorrência.
+
+8 - Com base nos pareceres emitidos pela ERSE e pelo operador da RNTGN, os operadores da RNDGN elaboram a proposta final do respetivo PDIRD, enviando-a à DGEG no prazo de 30 dias após a emissão dos correspondentes pareceres da ERSE e do operador da RNTGN.
+
+9 - No prazo de 30 dias após a receção da proposta final dos PDIRD, a DGEG envia-a para aprovação do membro do Governo responsável pela área da energia, acompanhada dos pareceres da ERSE e do operador da RNTGN, bem como dos resultados da consulta pública.
+
+10 - O membro do Governo responsável pela área da energia decide sobre a aprovação dos PDIRD no prazo de 30 dias a contar da data da receção da sua proposta final.
+
+11 - O membro do Governo responsável pela área da energia pode, fundamentadamente, recusar a aprovação dos PDIRD no caso de a respetiva proposta final não contemplar as alterações determinadas pela DGEG ou nos pareceres da ERSE ou do operador da RNTGN ou de não prever investimentos necessários ao cumprimento dos objetivos de política energética.
+
+12 - Cabe à ERSE acompanhar e fiscalizar a calendarização, orçamentação e execução dos projetos de investimento na RNDGN previstos nos PDIRD, que ficam sujeitos ao seu parecer vinculativo, no âmbito das suas atribuições, não podendo este parecer versar sobre questões estratégicas de desenvolvimento da rede ou relacionadas com a segurança do abastecimento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 13.º — Gestão técnica global do SNGN
+
+1 - Compete ao operador da RNTGN a gestão técnica global do SNGN.
+
+2 - A gestão técnica global do SNGN é exercida com independência, de forma transparente e não discriminatória, e consiste na coordenação sistémica das infraestruturas que constituem o SNGN, de modo a assegurar o seu funcionamento integrado e harmonizado, bem como a segurança e continuidade do abastecimento de gás natural nos curto, médio e longo prazos, mediante o exercício das seguintes funções:
+
+a) Gestão técnica do sistema, que integra a programação e monitorização permanente do equilíbrio entre a oferta e a procura global de gás natural, o seguimento da utilização da capacidade oferecida e a realização dos serviços de sistema necessários à operacionalização do acesso de terceiros às infraestruturas com os níveis de qualidade e segurança adequados;
+
+b) Monitorização da constituição e manutenção das reservas de segurança de gás natural e participação na gestão e execução das medidas decorrentes do plano preventivo de ação e do plano de emergência, nos termos previstos no presente decreto-lei;
+
+c) Planeamento energético e segurança de abastecimento, através da realização de estudos de planeamento integrado de recursos energéticos e identificação das condições necessárias à segurança do abastecimento futuro dos consumos de gás natural a nível da oferta, os quais constituem referência para o planeamento da RNTIAT, nos termos da alínea d), bem como através da colaboração com a DGEG, nos termos definidos no presente decreto-lei, na preparação dos relatórios de monitorização da segurança de abastecimento no médio e longo prazos (RMSA);
+
+d) Planeamento da RNTIAT, designadamente no que respeita às respetivas necessidade de renovação e alargamento, tendo em vista o desenvolvimento adequado da sua capacidade e a melhoria da qualidade de serviço, em particular através da elaboração do PDIRGN.
+
+3 - Todos os operadores que exerçam qualquer das actividades que integram o SNGN ficam sujeitos à gestão técnica global do SNGN.
+
+4 - São direitos do operador da RNTGN no âmbito da gestão técnica global do SNGN, nomeadamente:
+
+a) Exigir e receber dos titulares dos direitos de exploração das infra-estruturas, dos operadores dos mercados e de todos os agentes directamente interessados a informação necessária para o correcto funcionamento do SNGN;
+
+b) Exigir aos terceiros com direito de acesso às infra-estruturas e instalações a comunicação dos seus planos de entrega e de levantamento e de qualquer circunstância que possa fazer variar substancialmente os planos comunicados;
+
+c) Exigir o estrito cumprimento das instruções que emita para a correcta exploração do sistema, manutenção das instalações e adequada cobertura da procura;
+
+d) Receber adequada retribuição pelos serviços prestados de forma eficiente.
+
+5 - São obrigações do operador da RNTGN no âmbito da gestão técnica global do SNGN, nomeadamente:
+
+a) Atuar nas suas relações com os operadores e utilizadores do SNGN de forma transparente e não discriminatória;
+
+b) Informar sobre a viabilidade de acesso solicitado por terceiros às infra-estruturas da RNTIAT;
+
+c)Informar a DGGE, a ERSE e os operadores do SNGN, com periodicidade trimestral, sobre a capacidade disponível da RNTIAT e, em particular, dos pontos de acesso ao sistema e sobre o quantitativo das reservas a constituir.
+
+d) Monitorizar e reportar à ERSE a efectiva utilização das infra-estruturas da RNTIAT, com o objectivo de identificar a constituição abusiva de reservas de capacidade;
+
+e) Assegurar o planeamento da RNTIAT e garantir a expansão e gestão técnica da RNTGN, para permitir o acesso de terceiros, de forma não discriminatória e transparente, e gerir de modo eficiente as infraestruturas e meios técnicos disponíveis;
+
+f) Desenvolver protocolos de comunicação com os diferentes operadores do SNGN, com vista a criar um sistema de comunicação integrado para controlo e supervisão das operações do SNGN e atuar como coordenador do mesmo;
+
+g) Emitir instruções sobre as operações de transporte, incluindo o trânsito no território continental, de forma a assegurar a entrega de gás em condições adequadas e eficientes nos pontos de saída da rede de transporte, em conformidade com protocolos de atuação e de operação a estabelecer;
+
+h) Gerir os fluxos de gás natural da RNTGN, em conformidade com as solicitações dos agentes de mercado e em coordenação com os operadores das restantes infraestruturas do SNGN, garantindo a sua operação coerente, no respeito pela regulamentação aplicável;
+
+i) Monitorizar a utilização da capacidade das infraestruturas do SNGN e o nível de reservas necessárias à garantia de segurança do abastecimento nos curto e médio prazos e, bem assim, prestar informação relativa à constituição e manutenção de reservas de segurança;
+
+j) Determinar e verificar as quantidades mínimas de gás que cada agente de mercado deve possuir nas infraestruturas, de modo a garantir as condições mínimas exigíveis ao bom funcionamento do sistema e em respeito pela regulamentação do setor;
+
+k) Verificar tecnicamente a viabilidade da operação do SNGN, após recebidas as informações relativas às programações e nomeações e respetiva validação;
+
+l) Realizar o balanço residual do sistema de transporte em complemento da utilização real de capacidade por parte dos diversos agentes de mercado, de modo a garantir a continuidade da operação dentro de parâmetros aceitáveis de qualidade e segurança;
+
+m) Disponibilizar serviços de sistema aos utilizadores da RNTGN, nomeadamente através de mecanismos eficientes de compensação de desvios, assegurando a respetiva liquidação, no respeito pelos regulamentos aplicáveis;
+
+n) Informar a DGEG dos incumprimentos das obrigações de constituição e manutenção de reservas de segurança, instruindo-a com todos os elementos que sustentem o referido incumprimento;
+
+o) Gerir os congestionamentos nas infraestruturas, incluindo as interligações com outros sistemas internacionais de transporte de gás natural de acordo com os mecanismos previstos na regulamentação em vigor;
+
+p) Promover o funcionamento harmonioso do sistema ibérico de gás natural em conjunto com o operador da rede de transporte interligada, maximizando a capacidade disponível nos pontos de interligação entre sistemas e facilitando o funcionamento do mercado de forma transparente e não discriminatória;
+
+q) Coordenar os fluxos de informação entre os diversos agentes com vista à gestão integrada das infraestruturas do sistema de gás natural, nomeadamente os processos associados às programações e às nomeações;
+
+r) Proceder às liquidações financeiras associadas às transações efetuadas no âmbito desta atividade;
+
+s) Divulgar, de forma célere e não discriminatória, informação sobre factos suscetíveis de influenciar o regular funcionamento do mercado ou a formação dos preços;
+
+t) Desenvolver, com a regularidade adequada, os estudos necessários à preparação de elementos prospetivos de referência sobre a evolução, nos médio e longo prazos, do mix de oferta gás natural/GNL e da adequação da oferta de capacidade das infraestruturas do SNGN no mesmo quadro de referência;
+
+u) Colaborar ativamente com a DGEG mediante a prestação das informações e a disponibilização dos estudos, testes ou simulações que por esta lhe sejam solicitados, nomeadamente para efeitos de definição da política energética;
+
+v) Colaborar ativamente com a DGEG na preparação dos RMSA e, em geral, mediante a prestação das informações e a disponibilização dos estudos, testes ou simulações que por esta lhe sejam solicitados, nomeadamente para efeitos de definição da política energética;
+
+w) Desenvolver, com a regularidade necessária, os estudos de suporte ao planeamento das necessidades de renovação e expansão da RNTGN;
+
+x) Criar, em articulação com a DGEG, uma base de dados de referência, integrando a informação de natureza estatística e previsional sobre os procedimentos de controlo prévio das atividades e instalações e o funcionamento do Sistema Elétrico Nacional (SEN) e do SNGN;
+
+y) Seguir a evolução do padrão e da taxa de utilização global de capacidade ao longo do sistema de transporte e em todos os pontos relevantes e elaborar, em consonância, os estudos com a identificação das medidas necessárias para evitar em tempo útil a ocorrência de potenciais situações de congestionamento, de modo a possibilitar a eliminação de restrições que prejudiquem o bom funcionamento do SNGN;
+
+z) Desenvolver e manter atualizadas as metodologias e os modelos necessários à obtenção da informação de base e à realização dos estudos, relatórios e planos referidos nas alíneas anteriores;
+
+aa) Fornecer ao operador de qualquer outra rede com a qual esteja ligada e aos intervenientes do SNGN as informações necessárias para permitir um desenvolvimento coordenado das diversas redes e um funcionamento seguro e eficiente do SNGN;
+
+bb) Assegurar o tratamento de dados de utilização da rede no respeito pelas disposições legais de proteção de dados pessoais, preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas atividades e impedir a divulgação discriminatória de informações sobre as suas próprias atividades que possam ser comercialmente vantajosas, nos termos do Regulamento de Relações Comerciais;
+
+cc) Assegurar o relacionamento e o cumprimento das suas obrigações junto da Agência de Cooperação dos Reguladores da Energia e da Rede Europeia dos Operadores das Redes de Transporte de Gás (REORT para o Gás);
+
+dd) Fornecer às entidades reguladoras referidas no n.º 2 do artigo 51.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as informações necessárias ao exercício das suas competências específicas e ao conhecimento do mercado;
+
+ee) Publicar as informações necessárias para assegurar uma concorrência efetiva e o funcionamento eficaz do mercado, sem prejuízo da garantia de confidencialidade de informações comercialmente sensíveis, nos termos dos regulamentos da ERSE;
+
+ff) Apresentar à ERSE, anualmente, um relatório com a descrição das reclamações apresentadas, bem como o resultado das mesmas, nos termos constantes do Regulamento da Qualidade do Serviço.
+
+6 - A gestão técnica global do SNGN é efetuada nos termos previstos no presente decreto-lei, incluindo as bases constantes do anexo i, que dele fazem parte integrante, na regulamentação aplicável e no contrato de concessão da RNTGN.
+
+7 - A DGEG define no Regulamento da Segurança de Abastecimento e Planeamento as obrigações do operador da RNTGN em matéria de segurança de abastecimento e planeamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo IV — Actividade de transporte de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 14.º — Âmbito
+
+1 - A actividade de transporte de gás natural é exercida através da exploração da RNTGN.
+
+2 - O operador da RNTGN é a entidade concessionária da rede de transporte de gás natural, sem prejuízo do disposto nos artigos 21.º-A a 21.º-F do Decreto-Lei n.º 30/2006, de 15 de fevereiro.
+
+3 - Sem prejuízo do disposto nas respectivas bases da concessão, o exercício da actividade de transporte de gás natural compreende:
+
+a) O recebimento, o transporte, os serviços de sistema e a entrega de gás natural através da rede de alta pressão;
+
+b) A construção, manutenção, operação e exploração de todas as infra-estruturas que integram a RNTGN e das interligações às redes e infra-estruturas a que esteja ligada e, bem assim, das instalações que são necessárias para a sua operação.
+
+4 - A concessão da RNTGN tem como âmbito geográfico todo o território continental e é exercida em regime de exclusivo, sem prejuízo do direito de acesso de terceiros às várias infra-estruturas que a integram, nos termos da legislação e da regulamentação aplicáveis.
+
+5 - Excecionalmente, mediante autorização do membro do Governo responsável pela área da energia, o operador da RNTGN pode substituir a ligação às redes de distribuição por UAG, quando tal se justifique por motivos de racionalidade económica devendo, nesse caso, a solução adotada ser implementada pelos operadores das redes de distribuição.ão por UAG, quando tal se justifique por motivos de racionalidade económica.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 15.º — Obrigações do operador da RNTGN
+
+São obrigações do operador da RNTGN, nomeadamente:
+
+a) Assegurar a exploração e a manutenção da RNTGN, em condições de segurança, fiabilidade e qualidade de serviço;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) Assegurar a oferta de capacidade a longo prazo da RNTGN, contribuindo para a segurança do abastecimento, nos termos do PDIRGN;
+
+e) (Revogada.)
+
+f) Assegurar a não discriminação entre os utilizadores ou as categorias de utilizadores da rede;
+
+g) Facultar aos utilizadores da RNTGN as informações de que necessitem para o acesso à rede;
+
+h) (Revogada.)
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+l) (Revogada.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo V — Actividade de armazenamento subterrâneo de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 16.º — Âmbito
+
+1 - Os operadores de armazenamento subterrâneo são as entidades concessionárias do respectivo armazenamento.
+
+2 - Sem prejuízo do disposto nas respectivas bases das concessões, o exercício da actividade de armazenamento subterrâneo de gás natural compreende:
+
+a) O recebimento, a injecção, o armazenamento subterrâneo, a extracção, o tratamento e a entrega de gás natural, quer para constituição e manutenção de reservas de segurança quer para fins operacionais e comerciais;
+
+b) A construção, manutenção, operação e exploração de todas as infra-estruturas e, bem assim, das instalações que são necessárias para a sua operação.
+
+3 - A área e a localização geográfica das concessões de armazenamento subterrâneo são definidas nos respectivos contratos de concessão.
+
+4 - As concessões de armazenamento subterrâneo de gás natural são exercidas em regime de acesso regulado ou em regime de acesso negociado de terceiros, conforme previsto no Decreto-Lei n.º 30/2006, de 15 de fevereiro.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 17.º — Obrigações dos operadores de armazenamento subterrâneo
+
+São obrigações dos operadores de armazenamento subterrâneo, nomeadamente:
+
+a) Assegurar a exploração, integridade técnica e manutenção das infraestruturas de armazenamento subterrâneo, bem como das infraestruturas de superfície, em condições de segurança, fiabilidade e respeito pelo ambiente, nos termos do Regulamento de Armazenamento Subterrâneo e do contrato de concessão, assegurando os padrões de qualidade do serviço aplicáveis nos termos do Regulamento da Qualidade de Serviço;
+
+b) Assegurar a manutenção das capacidades de armazenamento e gerir os fluxos de gás natural de acordo com as solicitações dos agentes de mercado, assegurando a sua interoperacionalidade com a rede de transporte, no quadro da gestão técnica global do SNGN;
+
+c) Atender de forma não discriminatória e transparente os pedidos de acesso dos agentes de mercado ao armazenamento subterrâneo, tendo em conta as capacidades técnicas das instalações e os procedimentos de gestão de congestionamentos;
+
+d) Facultar aos utilizadores das instalações de armazenamento as informações de que estes necessitem para o acesso ao armazenamento;
+
+e) Fornecer ao operador da RNTGN, no quadro da atividade de gestão técnica global do sistema, e aos agentes de mercado as informações necessárias ao funcionamento seguro e eficiente do SNGN;
+
+f) Atribuir as capacidades de injeção, armazenamento e extração em coordenação com o operador da RNTGN, no quadro da atividade de gestão técnica global do sistema, tendo em conta a compatibilização de fluxos e quantidades de gás entre as infraestruturas de armazenamento subterrâneo e a rede de transporte;
+
+g) Medir o gás natural injetado, armazenado e extraído no armazenamento subterrâneo;
+
+h) Assegurar o tratamento de dados de utilização do armazenamento no respeito pelas disposições legais de protecção de dados pessoais e preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas actividades.
+
+i) Fornecer às entidades reguladoras referidas no n.º 2 do artigo 51.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as informações necessárias ao exercício das suas competências específicas e ao conhecimento do mercado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 17.º-A — Relacionamento entre operadores de armazenamento subterrâneo de gás natural
+
+1 - Quando cavidades de diversos operadores interliguem a uma estação de gás, ao operador em cuja concessão se integre esta estação compete gerir a receção, a compressão, a injeção, o armazenamento, a extração, a medição e o envio de gás natural para a RNTGN, de acordo com as solicitações dos agentes de mercado, assegurando a interoperacionalidade com a RNTGN, no quadro da atividade de gestão técnica global do SNGN.
+
+2 - Na situação prevista no número anterior, os operadores devem acordar um manual operativo, do qual é dado conhecimento à DGEG, que abranja as interfaces técnicas e de segurança, incluindo os procedimentos escritos a aplicar na operação das instalações e infraestruturas em causa, nos termos do Regulamento de Armazenamento Subterrâneo.
+
+3 - Quando um operador pretenda aceder, para efeitos de construção de novas cavidades, a instalações de lixiviação que integrem outra concessão de armazenamento subterrâneo de gás natural, devem os operadores estabelecer, nos termos do Regulamento de Armazenamento Subterrâneo, um acordo escrito que identifique todos os direitos e obrigações das partes relativamente aos serviços de lixiviação, do qual é dado conhecimento à DGEG.
+
+4 - Os operadores devem coordenar a gestão das atividades correspondentes ao cumprimento das obrigações de segurança das instalações, pessoas e bens, em conformidade com o Decreto-Lei n.º 254/2007, de 12 de julho, e demais normas aplicáveis, nos termos do Regulamento de Armazenamento Subterrâneo.
+
+5 - Os operadores podem recorrer a arbitragem, nos termos da Lei n.º 63/2011, de 14 de dezembro, para superar as dificuldades na celebração entre si de acordos relativos à utilização de instalações de superfície e de instalações de lixiviação de que dependam, nos termos da lei ou do respetivo contrato de concessão, o exercício de direitos ou o cumprimento de deveres de que são titulares.
+
+6 - Caso os operadores não cheguem a um entendimento relativamente às matérias constantes dos n.os 2, 3 e 4, pode a DGEG, a todo o tempo, emitir, sob a forma de despacho, um manual de procedimentos a tal respeitante, com base nas propostas dos operadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VI — Actividade de recepção, armazenamento e regaseificação de GNL em terminais de GNL
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 18.º — Âmbito
+
+1 - Os operadores de terminais de GNL são as respectivas entidades concessionárias.
+
+2 - Sem prejuízo do disposto nas respectivas bases das concessões, o exercício da actividade de recepção, armazenamento e regaseificação em terminais de GNL compreende:
+
+a) A recepção, o armazenamento, o tratamento e a regaseificação de GNL e a emissão de gás natural para a RNTGN, bem como o carregamento de GNL em camiões cisternas ou navios metaneiros;
+
+b) A construção, manutenção, operação e exploração das respectivas infra-estruturas e instalações.
+
+3 - A área e a localização geográfica dos terminais de GNL são definidas nos respectivos contratos de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 19.º — Obrigações dos operadores de terminal de GNL
+
+São obrigações dos operadores de terminal de GNL, nomeadamente:
+
+a) Assegurar a exploração, integridade técnica e manutenção do terminal e da capacidade de armazenamento associada em condições de segurança, fiabilidade e respeito pelo ambiente, nos termos do Regulamento de Terminal de Receção, Armazenamento e Regaseificação de GNL e do contrato de concessão, assegurando os padrões de qualidade do serviço aplicáveis nos termos do Regulamento da Qualidade de Serviço;
+
+b) Gerir os fluxos de gás natural no terminal e no armazenamento associado, assegurando a sua interoperacionalidade com a rede de transporte a que está ligado, no quadro da gestão técnica global do SNGN;
+
+c) Atender de forma não discriminatória e transparente os pedidos de acesso dos agentes de mercado ao terminal, tendo em conta as capacidades técnicas das instalações de GNL e os procedimentos de gestão de congestionamentos;
+
+d) Facultar aos utilizadores do terminal as informações de que estes necessitem para o acesso ao terminal;
+
+e) Fornecer ao operador da RNTGN, no quadro da atividade de gestão técnica global do sistema, e aos agentes de mercado as informações necessárias ao funcionamento seguro e eficiente do SNGN;
+
+f) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navios metaneiros para o terminal respeita as especificações de qualidade previstas na legislação e regulamentação aplicáveis, em coordenação com o operador da RNTGN, no quadro da gestão técnica global do SNGN;
+
+g) Assegurar o tratamento de dados de utilização do terminal no respeito pelas disposições legais de protecção de dados pessoais e preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas actividades.
+
+h) Fornecer às entidades reguladoras referidas no n.º 2 do artigo 51.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as informações necessárias ao exercício das suas competências específicas e ao conhecimento do mercado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VII — Actividade de distribuição de gás natural em regime de serviço público
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 20.º — Âmbito
+
+1 - O operador de rede de distribuição é a entidade concessionária ou licenciada de uma infra-estrutura de distribuição de gás natural.
+
+2 - Sem prejuízo do disposto nas respectivas bases da concessão ou nos termos de licença, o exercício da actividade de distribuição de gás natural compreende:
+
+a) O recebimento, a veiculação e a entrega de gás natural a clientes finais através das redes de média e baixa pressão;
+
+b) No caso de pólos de consumo, o recebimento, armazenamento e regaseificação de GNL nas UAG, a emissão de gás natural, a sua veiculação e entrega a clientes finais através das respectivas redes;
+
+c) A construção, manutenção, operação e exploração de todas as infra-estruturas que integram a respectiva rede e das interligações às redes e infra-estruturas a que estejam ligadas, bem como das instalações necessárias à sua operação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 21.º — Obrigações das concessionárias e titulares de licenças de distribuição
+
+1 - O disposto no n.º 1 do artigo 8.º é aplicável, com as necessárias adaptações, às entidades titulares das licenças de serviço público de distribuição local de gás natural exercidas em regime de serviço público, nos termos do artigo 22.º
+
+2 - Sem prejuízo das outras obrigações referidas no presente decreto-lei, são obrigações da concessionária ou licenciada de rede de distribuição, nomeadamente:
+
+a) Assegurar a exploração e a manutenção das respectivas infra-estruturas de distribuição em condições de segurança, fiabilidade e qualidade de serviço;
+
+b) No caso de pólos de consumo, assegurar a exploração e manutenção das instalações de recepção, armazenamento e regaseificação de GNL, em condições de segurança, fiabilidade e qualidade de serviço;
+
+c) Gerir os fluxos de gás natural na respectiva rede de distribuição, assegurando a sua interoperacionalidade com as redes e demais infra-estruturas a que esteja ligada, no respeito pela regulamentação aplicável;
+
+d) Assegurar a oferta de capacidade a longo prazo da respetiva rede de distribuição, contribuindo para a segurança do abastecimento, nos termos do PDIRD;
+
+e) Assegurar o planeamento, a expansão e gestão técnica da respectiva rede de distribuição, para permitir o acesso de terceiros, de forma não discriminatória e transparente, e gerir de modo eficiente as infra-estruturas e meios técnicos disponíveis;
+
+f) Assegurar a não discriminação entre os utilizadores ou as categorias de utilizadores da rede;
+
+g) Facultar aos utilizadores da respectiva rede de distribuição as informações de que necessitem para o acesso à rede;
+
+h) Fornecer ao operador de qualquer outra rede à qual esteja ligada e aos agentes de mercado as informações necessárias para permitir um desenvolvimento coordenado das diversas redes e um funcionamento seguro e eficiente do SNGN;
+
+i) Assegurar o tratamento de dados de utilização da rede no respeito pelas disposições legais de protecção de dados pessoais e preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício da sua actividade.
+
+j) Fornecer às entidades reguladoras referidas no n.º 2 do artigo 51.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as informações necessárias ao exercício das suas competências específicas e ao conhecimento do mercado;
+
+k) Apresentar à ERSE, anualmente, um relatório com a descrição das reclamações apresentadas, bem como o resultado das mesmas, nos termos constantes do Regulamento da Qualidade do Serviço.
+
+3 - As concessionárias ou titulares de licenças de distribuição podem assumir, nos termos a prever na regulamentação da ERSE, obrigações de compensação das respetivas redes de distribuição.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 65/2008 - Diário da República n.º 70/2008, Série I de 2008-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2008-249846)
+
+###### Artigo 22.º — Licenças em regime de serviço público
+
+1 - As licenças de distribuição local de gás natural são exercidas em regime de serviço público e em exclusivo, em zonas do território nacional não abrangidas pelas concessões de distribuição regional de gás natural e são atribuídas pelo ministro responsável pela área da energia na sequência de pedido dos interessados.
+
+2 - Excepcionalmente, o ministro responsável pela área da energia pode conceder licenças de distribuição local de gás natural em zonas do território nacional abrangidas por concessões de distribuição regional no caso de a respectiva concessionária entender que não pode proceder à respectiva cobertura, de acordo com justificação técnica ou económica devidamente fundamentada e reconhecida pelo concedente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 23.º — Licenças de distribuição local
+
+1 - As actividades e as instalações que integram as licenças de distribuição local são consideradas, para todos os efeitos, de utilidade pública, devendo ser garantido pelos respectivos titulares o acesso às mesmas dos utilizadores de forma não discriminatória e transparente.
+
+2 - As licenças de distribuição local compreendem:
+
+a) A distribuição de gás natural, ou dos seus gases de substituição, a pólos de consumo;
+
+b) A recepção, o armazenamento e a regaseificação em unidades autónomas afectas à respectiva rede.
+
+3 - Os polos de consumo podem ser considerados mercados isolados nos termos da Diretiva n.º 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de junho, depois de terem sido formalizados os requisitos nela previstos.
+
+4 - A licença define o âmbito geográfico do pólo de consumo, bem como a calendarização da construção e expansão das instalações e sua exploração.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 24.º — Condições para a atribuição de licenças de distribuição local
+
+1 - As licenças de distribuição local devem ser atribuídas a sociedades que demonstrem possuir capacidade técnica, financeira e de gestão adequada à natureza do serviço, e tendo em conta a área a desenvolver.
+
+2 - O modelo da licença, os procedimentos e requisitos para a sua atribuição e transmissão, bem como o regime de exploração da respetiva rede de distribuição são definidos por portaria do membro do Governo responsável pela área da energia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 25.º — Procedimentos da atribuição de licenças de distribuição local
+
+1 - Os pedidos para atribuição de licenças de distribuição da RNDGN para polos de consumo são dirigidos ao membro do Governo responsável pela área da energia e entregues na DGEG, que os publicita, através de aviso, na 2.ª série do Diário da República, bem como no respetivo sítio na Internet, durante um prazo não inferior a seis meses.
+
+2 - Durante o prazo referido no número anterior, podem ser apresentados outros pedidos para o mesmo polo de consumo, caso em que se deve proceder a um concurso limitado entre os requerentes, sendo os critérios de seleção e de avaliação das propostas definidos por portaria do membro do Governo responsável pela área da energia.
+
+3 - Os factores de ponderação previstos no número anterior são definidos por portaria do ministro responsável pela área da energia.
+
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 26.º — Duração das licenças de distribuição local
+
+A duração da licença é estabelecida por um prazo máximo de 20 anos, tendo em conta, designadamente, a expansão do sistema de gás natural e a amortização dos custos de construção, instalação e desenvolvimento da respectiva rede.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 27.º — Transmissão da licença de distribuição local
+
+1 - As licenças de distribuição local podem ser transmitidas, mediante autorização do ministro responsável pela área da energia, em condições a definir na portaria referida no n.º 2 do artigo 24.º
+
+2 - A transmissão das licenças fica sujeita à verificação e manutenção dos pressupostos que determinaram a sua atribuição.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 28.º — Extinção das licenças de distribuição local
+
+1 - A licença extingue-se por caducidade ou por revogação.
+
+2 - A caducidade da licença ocorre:
+
+a) Pelo decurso do prazo por que foi atribuída;
+
+b) Pela integração do pólo de consumo objecto de licença numa concessão de distribuição regional de gás natural.
+
+3 - No caso previsto na alínea b) do número anterior, a concessionária deve indemnizar a entidade titular da licença tendo em conta o período de tempo que faltar para o termo do prazo por que foi atribuída, considerando os investimentos não amortizados e os lucros cessantes.
+
+4 - A revogação da licença pode ocorrer sempre que o seu titular falte, culposamente, ao cumprimento das condições estabelecidas, nomeadamente no que se refere à regularidade, à qualidade e à segurança da prestação do serviço.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 29.º — Transferência dos bens afectos às licenças de distribuição local
+
+1 - Com a extinção da licença de distribuição local, os bens integrantes da respectiva rede e instalação, incluindo as instalações de GNL, transferem-se para o Estado.
+
+2 - A transferência de bens referida no número anterior confere à entidade licenciada o direito ao recebimento de uma indemnização correspondente aos investimentos efectuados que não se encontrem ainda amortizados, devendo os investimentos realizados durante o período de três anos que antecede a data da extinção da licença ser devidamente autorizados pelo ministro responsável pela área da energia.
+
+3 - Por decisão do ministro responsável pela área da energia, os bens referidos nos números anteriores podem vir a integrar o património da concessionária de distribuição regional em cuja área a rede de distribuição local se situava.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 29.º-A — Redes de distribuição fechadas
+
+1 - Considera-se rede de distribuição fechada uma rede que distribua gás natural no interior de um sítio industrial, comercial ou de serviços partilhados geograficamente circunscrito, fora do âmbito das concessões e licenças de distribuição de gás natural, e que não abasteça clientes domésticos, desde que se reúna um dos seguintes requisitos:
+
+a) Por razões técnicas ou de segurança específicas, as operações ou o processo de produção dos utilizadores da rede estejam integrados;
+
+b) A rede distribua gás natural essencialmente ao proprietário ou ao operador da rede ou a empresas que lhes estejam ligadas.
+
+2 - Considera-se que não abastecem clientes domésticos, para efeitos do disposto no n.º 1, as redes de distribuição fechada que sejam utilizadas a título acessório por um número reduzido de agregados familiares ligados ao proprietário da rede, por vínculo laboral ou outro, e com residência na área servida pela rede.
+
+3 - A operação de uma rede de distribuição fechada depende da prévia atribuição de uma licença pela DGEG e da aprovação do respetivo projeto pelas entidades competentes, nos termos do disposto no n.º 5.
+
+4 - Os termos da classificação e estabelecimento de uma rede de distribuição fechada, a disciplina da sua exploração e os procedimentos para a atribuição de licenças de operação são estabelecidos em portaria dos membros do Governo responsáveis pela área da energia e pela área setorial respetiva, ouvida a ERSE.
+
+5 - A aprovação do projeto de redes de distribuição fechada observa, com as devidas adaptações, os termos e procedimento previstos para a aprovação das redes de distribuição privativa.
+
+6 - Sem prejuízo do estabelecido no número seguinte, as tarifas de acesso de terceiros às redes fechadas são estabelecidas pelos seus proprietários ou operadores, não estando sujeitas aos requisitos estabelecidos para a aprovação das tarifas reguladas pela ERSE.
+
+7 - Caso um utilizador de uma rede fechada não concorde com as tarifas de acesso ou as suas metodologias, por falta de transparência ou razoabilidade, pode solicitar a intervenção da ERSE para analisar e, caso necessário, fixar as tarifas segundo as metodologias a estabelecer por esta entidade nos seus regulamentos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VIII — Licenças para utilização privativa de gás natural e para a exploração de postos de enchimento
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 30.º — Licenças para utilização privativa de gás natural
+
+1 - As licenças para utilização privativa são atribuídas pelo diretor-geral da DGEG e podem ser requeridas por quaisquer entidades que demonstrem interesse particular na veiculação de gás natural em rede, alimentada por ramal ou por UAG, destinada ao abastecimento de um consumidor e considerada, para todos os efeitos, como parte integrante das instalações de utilização final, em qualquer das seguintes situações:
+
+a) A actividade seja exercida fora das áreas concessionadas e cobertas pela rede de distribuição ou dos pólos de consumo abrangidos pela atribuição de licenças de serviço público;
+
+b) A entidade concessionária ou licenciada para a área em que a licença para utilização privativa é pedida não garanta a ligação.
+
+2 - A entidade requerente deve cumprir as condições impostas para a atribuição da licença, bem como respeitar a lei e os regulamentos técnicos estabelecidos para o exercício da atividade enquanto parte integrante da instalação de utilização.
+
+3 - As licenças para utilização privativa podem ser transmitidas mediante autorização do diretor-geral da DGEG, sujeita à verificação e manutenção dos pressupostos e condições que determinaram a sua atribuição.
+
+4 - À duração e extinção das licenças privativas aplica-se, com as devidas adaptações, o estabelecido nos artigos 26.º e 28.º
+
+5 - No caso de a rede privativa ser abastecida por UAG, deve ligar-se à rede de distribuição quando a mesma se estender à respectiva área.
+
+6 - Sem prejuízo do disposto no número seguinte, os bens integrantes das instalações licenciadas ao abrigo do presente artigo não se transferem para o Estado com a extinção da licença, qualquer que seja a sua causa.
+
+7 - O titular da licença fica obrigado, a expensas suas, a proceder, no prazo máximo de seis meses a contar da data da extinção da licença, ao levantamento das instalações que estejam situadas em terrenos do domínio público, repondo, se for caso disso, a situação anterior.
+
+8 - A obrigação a que se refere o número anterior não se verifica se houver lugar à transmissão das instalações para uma concessionária ou para uma entidade titular de licença de distribuição local.
+
+9 - O regime aplicável às redes privativas, nomeadamente no que respeita à contratação do transporte de GNL através de camião-cisterna e à respetiva ligação às redes de distribuição, nos termos previstos no n.º 5, é objeto de legislação específica.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 31.º — Licenças para a exploração de postos de enchimento
+
+1 - As licenças para exploração de postos de enchimento, em regime de serviço público ou privativo, são concedidas pelo director regional de Economia territorialmente competente e podem ser requeridas por quaisquer entidades que demonstrem possuir capacidade técnica e financeira para o exercício desta actividade, devendo instruir o seu requerimento com:
+
+a) Título de propriedade ou outro que legitime a posse do terreno em que pretendem instalar o posto;
+
+b) Autorização da autarquia competente e, sendo caso disso, autorização de outras entidades administrativas com jurisdição na área de acesso ao terreno de implantação do posto de enchimento.
+
+c) Seguro de responsabilidade civil, nos termos previstos no artigo 6.º
+
+2 - O prazo inicial de duração das licenças referidas neste artigo é de 10 anos, podendo ser prorrogado por sucessivos períodos de 5 anos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo IX — Comercialização de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 32.º — Regime de exercício
+
+1 - A comercialização de gás natural efetua-se nos termos estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no presente decreto-lei e demais legislação e regulamentação aplicáveis.
+
+2 - A atividade de comercialização de gás natural é exercida em regime de livre concorrência, ficando sujeita a registo nos termos previstos no presente decreto-lei.
+
+3 - O regime de registo tem em conta as normas de reconhecimento dos agentes de comercialização estrangeiros decorrentes de acordos em que o Estado Português seja parte, nos termos previstos no artigo 39.º
+
+4 - Excetua-se do disposto no n.º 2 a atividade de comercialização de último recurso, que está sujeita a licença e a regulação nos termos previstos no presente decreto-lei e em legislação e regulamentação complementares.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 33.º — Conteúdo do registo de comercialização
+
+O registo para o exercício da atividade de comercialização de gás natural deve conter, nomeadamente, os seguintes elementos:
+
+a) A identificação do titular;
+
+b) A data e número de ordem do registo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 34.º — Procedimento de registo
+
+1 - O pedido de registo como comercializador de gás natural é apresentado no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, devendo ser dirigido à DGEG e incluir a identificação completa do requerente, com menção do nome ou firma, do número de identificação fiscal, do domicílio profissional ou sede, do estabelecimento principal no território nacional, quando este exista, do telefone, fax e endereço eletrónico.
+
+2 - Os interessados devem instruir o seu pedido de registo com os seguintes elementos:
+
+a) Cópia de documento de identificação ou, no caso de pessoa coletiva, código de acesso à certidão permanente de registo comercial ou cópia dos respetivos estatutos quando a sede se localize fora do território nacional;
+
+b) Declaração de habilitação e de não impedimento para o exercício da atividade de comercialização, de acordo com o anexo v do presente decreto-lei;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) Declaração do requerente de que tomou conhecimento das obrigações decorrentes do Decreto-Lei n.º 30/2006, de 15 de fevereiro, do presente decreto-lei e demais legislação e regulamentação aplicáveis, identificadas na informação disponibilizada no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e de que as respeita integralmente;
+
+g) Autorização de divulgação das informações constantes do pedido de registo;
+
+h) Documento contendo identificação dos meios utilizados para cumprimento das obrigações perante os consumidores, nomeadamente no que respeita à comunicação e interface com os clientes e à qualidade do serviço, bem como para compensação e liquidação das suas responsabilidades para com os operadores do SNGN que lhes facultem o acesso às suas infraestruturas.
+
+3 - As declarações exigidas aos requerentes do registo devem ser assinadas sob compromisso de honra pelos mesmos ou respetivos representantes legais.
+
+4 - Após a receção do pedido de registo, a DGEG verifica a conformidade do mesmo e respetiva instrução à luz do disposto nos números anteriores e, se for caso disso, solicita ao requerente a apresentação dos elementos em falta ou complementares, fixando um prazo razoável para o efeito, comunicando que a referida solicitação determina a suspensão do prazo de decisão e alertando para o facto de a sua não satisfação, no prazo fixado, determinar a rejeição liminar do pedido.
+
+5 - Concluída a instrução do pedido, a DGEG profere decisão sobre o pedido de registo apresentado pelo requerente.
+
+6 - O pedido de registo considera-se tacitamente deferido se a DGEG não se pronunciar no prazo de 30 dias contados da data da sua apresentação, sem prejuízo da suspensão desse prazo, no caso de solicitação, nos termos do n.º 4, de elementos em falta ou complementares, até à data da apresentação desses elementos pelo requerente.
+
+7 - Em caso de deferimento tácito os elementos referidos nas alíneas a) e b) do artigo 33.º são automaticamente inscritos no registo de comercializadores de gás natural.
+
+8 - A DGEG deve indeferir o pedido de registo, após audiência prévia do requerente nos termos previstos nos artigos 100.º e seguintes do Código do Procedimento Administrativo, caso se verifiquem situações de não habilitação ou de impedimento previstas no anexo v do presente decreto-lei ou de não disposição dos meios necessários ao cumprimento das obrigações impostas à atividade de comercialização.
+
+9 - Pelos custos da apreciação do pedido e da efetivação do registo é devida uma taxa que reverte a favor da DGEG, cujo montante é fixado por portaria do membro do Governo responsável pela área da energia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 34.º-A — Listagem de comercializadores de gás natural registados
+
+A DGEG divulga no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio na Internet, mantendo periodicamente atualizada, a lista dos comercializadores de gás natural reconhecidos nos termos do presente decreto-lei, com indicação do nome ou firma, domicílio profissional ou sede, telefone, fax, endereço eletrónico e data do respetivo registo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 35.º — Direitos e deveres dos comercializadores de gás natural
+
+1 - Constituem direitos dos comercializadores de gás natural, para além do exercício da atividade nos termos da legislação e da regulamentação aplicáveis, nomeadamente os seguintes:
+
+a) Transacionar gás natural através de contratos bilaterais celebrados com outros agentes do mercado de gás natural ou através de mercados organizados, após o cumprimento dos requisitos de acesso a estes mercados;
+
+b) Aceder às infraestruturas, às redes e às interligações, nos termos estabelecidos na legislação e regulamentação aplicáveis, para entrega de gás natural aos respetivos clientes;
+
+c) Contratar livremente a venda de gás natural com os seus clientes.
+
+2 - São deveres dos comercializadores de gás natural registados, nomeadamente:
+
+a) Enviar às entidades competentes a informação prevista na legislação e na regulamentação aplicáveis;
+
+b) Enviar, de dois em dois anos, através do balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, a informação atualizada prevista no n.º 2 do artigo 34.º;
+
+c) Cumprir todas as normas legais e regulamentares aplicáveis ao exercício da atividade;
+
+d) Assegurar a prestação de informações transparentes sobre os preços e tarifas aplicáveis e as condições normais de acesso e utilização dos seus serviços;
+
+e) Prestar a demais informação devida aos clientes, nomeadamente sobre as opções tarifárias mais apropriadas ao seu perfil de consumo, para além da informação identificada no artigo 20.º do Decreto-Lei n.º 92/2010, de 26 de julho;
+
+f) Emitir faturação discriminada de acordo com as normas aplicáveis;
+
+g) Proporcionar aos seus clientes meios de pagamento diversificados;
+
+h) Não discriminar entre clientes e atuar com transparência nas suas operações;
+
+i) Facultar, a todo o momento e de forma gratuita, o acesso do cliente aos seus dados de consumo, bem como o acesso a esses dados, mediante acordo do cliente, por outro comercializador;
+
+j) Disponibilizar aos clientes, a título gratuito, informação periódica sobre o seu consumo e custos efetivos, com vista à criação de incentivos para economias de energia;
+
+k) Prestar informações à DGEG e à ERSE sobre consumos, número de clientes, preços e condições de venda para os diversos segmentos ou bandas de consumo, nas diversas categorias de clientes, com salvaguarda das regras de confidencialidade;
+
+l) Manter a situação de habilitação e de não impedimento, bem como os meios necessários ao cumprimento das obrigações impostas ao exercício da atividade de comercialização, tal como evidenciado nas declarações e documentos previstos no n.º 2 do artigo 34.º;
+
+m) Apresentar propostas de fornecimento de gás natural para as quais disponha de oferta a todos os clientes que o solicitem, nos termos previstos no Regulamento das Relações Comerciais, com respeito pelos princípios estabelecidos na legislação da concorrência;
+
+n) Assegurar a constituição e manutenção de reservas de segurança de gás natural de acordo com o previsto no presente decreto-lei e a regulamentação em vigor.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 36.º — Relações com os clientes
+
+1 - Os contratos dos comercializadores com os clientes regem-se por princípios de transparência, informação e equidade, devendo especificar os seguintes elementos:
+
+a) A identidade e o endereço do comercializador;
+
+b) Os serviços fornecidos, suas características e níveis de qualidade e data do início de fornecimento de gás natural, bem como a especificação dos meios de pagamento ao dispor dos clientes e as condições normais de acesso e utilização dos serviços do comercializador;
+
+c) O tipo de serviços de manutenção, caso sejam oferecidos;
+
+d) A duração do contrato, as condições de renovação e termo, bem como as condições de denúncia, devendo especificar se a denúncia importa ou não o pagamento de encargos por parte dos clientes;
+
+e) A compensação e as disposições de reembolso aplicáveis caso os níveis de qualidade dos serviços contratados não sejam atingidos, designadamente em caso de faturação inexata ou em atraso;
+
+f) Os meios de pagamento ao dispor dos clientes;
+
+g) Os meios de resolução de litígios, que devem ser acessíveis, simples e eficazes;
+
+h) Informações sobre os direitos dos consumidores.
+
+2 - As condições estabelecidas nos contratos dos comercializadores com os clientes devem ser equitativas, explicitadas com transparência antes da celebração do contrato e redigidas em linguagem clara e compreensível, em termos que assegurem aos clientes o efetivo exercício dos seus direitos e os protejam contra métodos de venda abusivos ou enganadores.
+
+3 - Previamente à celebração dos respetivos contratos, os comercializadores devem assegurar aos clientes a possibilidade de escolha quanto aos métodos de pagamento, de acordo com os seguintes termos:
+
+a) A escolha de um determinado método de pagamento não deve implicar uma discriminação injustificada entre clientes;
+
+b) Os sistemas de pré-pagamento devem ser equitativos e refletir adequadamente o consumo provável;
+
+c) Qualquer diferença nos termos e condições contratuais deve refletir os custos dos diferentes sistemas de pagamento para o comercializador.
+
+4 - Os comercializadores devem notificar, de modo adequado, os clientes de qualquer intenção de alterar as condições contratuais, informando-os, na data dessa notificação, do seu direito à denúncia do contrato caso não aceitem as novas condições.
+
+5 - Os comercializadores devem notificar os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes denunciar de imediato os contratos se não aceitarem as novas condições que lhes sejam notificadas.
+
+6 - Se um cliente, respeitando as condições contratuais, pretender mudar de comercializador, essa mudança deve ser efetuada no prazo de três semanas, não podendo o cliente ser obrigado a efetuar qualquer pagamento ou a suportar qualquer custo por tal mudança.
+
+7 - Na sequência da mudança de comercializador, os clientes devem receber um acerto de contas final, no prazo máximo de seis semanas após essa mudança ter tido lugar.
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 36.º-A — Reclamações e pedidos de clientes
+
+1 - Sem prejuízo dos casos em que haja lugar à aplicação do regime previsto no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, e 317/2009, de 30 de outubro, os comercializadores devem implementar procedimentos adequados ao tratamento célere e harmonizado de reclamações e pedidos de informações que lhe sejam apresentadas pelos clientes.
+
+2 - Os procedimentos previstos no número anterior devem permitir que as reclamações e pedidos apresentados sejam decididos, de modo justo e rápido, de preferência no prazo de três meses, prevendo um sistema de reembolso e de indemnização por eventuais prejuízos.
+
+3 - Os requisitos a observar nos procedimentos referidos nos números anteriores são definidos na regulamentação da ERSE.
+
+4 - Os comercializadores devem apresentar à ERSE, anualmente, um relatório com a descrição das reclamações apresentadas, bem como o resultado das mesmas, nos termos constantes do Regulamento da Qualidade do Serviço.
+
+5 - A ERSE publica na plataforma referida no artigo 38.º-A as conclusões dos relatórios apresentados nos termos do número anterior, com a indicação do número de reclamações recebidas e do comercializador em causa.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 36.º-B — Resolução extrajudicial de conflitos
+
+Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos consumidores, os litígios de consumo podem ser sujeitos a arbitragem necessária, nos termos previstos no artigo 15.º da Lei n.º 23/96, de 26 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, 6/2011, de 10 de março, e 44/2011, de 22 de junho.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 36.º-C — Sistemas inteligentes
+
+1 - A implementação de sistemas destinados a medir e gerir a informação relativa ao gás natural (sistemas inteligentes) depende de:
+
+a) Avaliação económica de longo prazo de todos os custos e benefícios para o mercado, designadamente para operadores de rede e comercializadores e para o consumidor individual; e
+
+b) Estudo que determine qual o modelo de sistema inteligente economicamente mais racional e o prazo estimado para a sua instalação.
+
+2 - Caso a avaliação económica prevista na alínea a) do número anterior seja positiva, o membro do Governo responsável pela área da energia aprova, mediante portaria, um sistema inteligente, tendo em conta as obrigações europeias e respetivos prazos de cumprimento.
+
+3 - A portaria prevista no número anterior prevê, nomeadamente, os requisitos técnicos e funcionais do sistema inteligente, os respetivos calendários de instalação, o modo de financiamento dos custos inerentes e de repercussão desses custos na tarifa de uso global do sistema, devendo assegurar a interoperabilidade dos sistemas de medida a implementar e ter em conta o respeito das normas apropriadas e das boas práticas, bem como a importância do desenvolvimento do mercado interno do gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 37.º — Prazo, extinção e transmissão do título de registo de comercializador de gás natural
+
+1 - Os registos de comercialização de gás natural são efetuados por prazo indeterminado, sem prejuízo da sua extinção nos termos do presente decreto-lei.
+
+2 - O registo extingue-se por caducidade ou por revogação.
+
+3 - A extinção do registo por caducidade ocorre em caso de morte, dissolução, insolvência ou cessação da atividade do seu titular.
+
+4 - Para além das situações previstas nos termos gerais da lei, o registo pode ser revogado pela DGEG, na sequência de audiência prévia do requerente nos termos previstos nos artigos 100.º e seguintes do Código do Procedimento Administrativo, quando se verifique a falsidade dos dados e declarações prestados no respetivo pedido ou quando o seu titular faltar ao cumprimento dos deveres relativos ao exercício da atividade, nomeadamente:
+
+a) Não cumprir, sem motivo justificado, as determinações impostas pelas autoridades administrativas;
+
+b) Violar reiteradamente o cumprimento das disposições legais e as normas técnicas aplicáveis ao exercício da atividade de comercialização;
+
+c) Não cumprir, reiteradamente, a obrigação de envio da informação estabelecida na legislação e na regulamentação aplicáveis;
+
+d) Não iniciar o exercício da atividade no prazo de um ano após o seu registo ou, tendo iniciado o seu exercício, o interromper por igual período, sendo esta inatividade confirmada pelo operador da RNTGN.
+
+5 - O registo pode ainda ser revogado pela DGEG na sequência de declaração de renúncia apresentada pelo respetivo titular, através do balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e com a antecedência mínima de quatro meses relativamente à data pretendida para a produção dos respetivos efeitos, devendo a DGEG, nessa data, proceder à revogação do registo.
+
+6 - O registo de comercializador de gás natural é pessoal e intransmissível, ressalvadas as situações de reestruturação societária.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 38.º — Informação sobre preços de comercialização de gás natural
+
+1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, nos termos definidos no Regulamento de Relações Comerciais, uma tabela dos preços de referência que se propõem praticar para os clientes de baixa pressão no âmbito da comercialização de gás natural.
+
+2 - Os comercializadores ficam ainda obrigados a:
+
+a) Publicitar os preços de referência que praticam relativamente aos clientes de baixa pressão, designadamente nos seus sítios na Internet e em conteúdos promocionais;
+
+b) Enviar à ERSE, semestralmente, os preços efetivamente praticados em relação a todos os clientes no semestre anterior.
+
+3 - As faturas emitidas pelos comercializadores devem conter os elementos necessários a uma completa, clara e adequada compreensão dos valores faturados, nos termos fixados no Regulamento de Relações Comerciais.
+
+4 - A ERSE deve publicitar, no seu sítio na Internet, os preços de referência dos comercializadores relativamente aos clientes de baixa pressão, podendo complementar esta publicitação com outros meios adequados, designadamente folhetos, tendo em vista informar os consumidores das diversas opções de preços existentes no mercado, com vista a possibilitar que estes, em cada momento, possam optar pelas melhores condições oferecidas pelo mercado.
+
+5 - A informação prevista nos números anteriores fica sujeita a supervisão da ERSE, ficando os comercializadores obrigados a facultar-lhe toda a documentação necessária e o acesso direto aos registos que suportam esta informação.
+
+6 - Os comercializadores ficam igualmente obrigados a manter os registos relativos a todas as transações relevantes de gás natural e derivados de gás com clientes grossistas e operadores de redes de transporte, distribuição, armazenamento subterrâneo e terminais de GNL, por um período mínimo de cinco anos, assim como os respetivos suportes contratuais, ficando estes auditáveis e sujeitos à supervisão da ERSE no âmbito das suas competências.
+
+7 - A informação referida no número anterior deve especificar as características das transações relevantes, tais como as relativas à duração, entrega e regularização, quantidade e hora de execução, preços de transação e outros meios, sendo os métodos e disposições para a manutenção dos registos objeto de regulamentação da ERSE, tendo em consideração as orientações adotadas pela Comissão Europeia.
+
+8 - Com o objetivo de estabelecer uma referência para os consumidores, e tendo em vista o apoio dos referidos consumidores na contratação do fornecimento de gás natural, a ERSE deve elaborar, todos os anos, um relatório indicando os preços recomendados para o fornecimento de gás natural em baixa pressão, os quais resultam da soma das tarifas de acesso às redes, tal como definidas no Regulamento Tarifário, com os custos de referência da atividade de comercialização e com os custos médios de referência para a aquisição de gás natural.
+
+9 - Para efeitos do número anterior, o custo de referência da atividade da comercialização é determinado com base na informação respeitante aos proveitos permitidos aos comercializadores de último recurso retalhistas, no âmbito de uma gestão criteriosa e eficiente.
+
+10 - Para efeitos do n.º 8, os custos médios de referência para a aquisição de gás natural são determinados de acordo com o mecanismo de aprovisionamento eficiente de gás natural por parte dos comercializadores de último recurso retalhistas previsto no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 38.º-A — Informação centralizada aos consumidores
+
+1 - A ERSE publica na plataforma centralizada a que se refere a alínea a) do n.º 3 do artigo 6.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as seguintes informações:
+
+a) Direitos e deveres dos consumidores;
+
+b) Os preços de referência relativos aos fornecimentos aos clientes de baixa pressão de todos os comercializadores;
+
+c) Legislação em vigor;
+
+d) A identificação dos meios à disposição dos consumidores para o tratamento de reclamações e resolução extrajudicial de litígios.
+
+2 - A plataforma referida no número anterior é gerida e disponibilizada pela ERSE diretamente no seu sítio na Internet.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 38.º-B — Deveres dos consumidores
+
+Constituem deveres dos consumidores:
+
+a) Prestar as garantias a que estejam obrigados por lei;
+
+b) Proceder aos pagamentos a que estiverem obrigados;
+
+c) Manter em condições de segurança as suas infraestruturas e equipamentos, nos termos das disposições legais aplicáveis, e evitar que as mesmas introduzam perturbações fora dos limites estabelecidos regulamentarmente nas redes a que se encontram ligados;
+
+d) Facultar todas as informações estritamente necessárias ao fornecimento de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 39.º — Reconhecimento de comercializadores
+
+1 - No âmbito do funcionamento de mercados constituídos ao abrigo de acordos internacionais de que o Estado Português seja parte signatária, o reconhecimento de comercializador por uma das partes determina o reconhecimento automático pela outra, nos termos previstos nos respetivos acordos.
+
+2 - Compete à DGEG efetuar o registo dos comercializadores reconhecidos nos termos do número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 39.º-A — Atividade do comercializador do SNGN
+
+1 - O comercializador do SNGN é a entidade titular dos contratos de longo prazo em regime de take or pay celebrados em data anterior à entrada em vigor da Diretiva n.º 2003/55/CE, do Parlamento e do Conselho, de 26 de junho.
+
+2 - O comercializador do SNGN fornece gás natural às seguintes entidades:
+
+a) Comercializador de último recurso grossista, no âmbito da atividade de compra e venda de gás natural para fornecimento aos comercializadores de último recurso retalhistas;
+
+b) Centros eletroprodutores com contrato de fornecimento outorgado em data anterior a 27 de julho de 2006;
+
+c) Outras entidades, sem prejuízo do fornecimento às entidades referidas nas alíneas anteriores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 39.º-B — Leilões de gás natural
+
+1 - Com o objetivo de facilitar a entrada de novos agentes no mercado de gás natural, o Regulamento das Relações Comerciais pode prever a realização pelo comercializador do SNGN de leilões anuais de gás natural para satisfação de consumos nacionais.
+
+2 - O gás natural adquirido nos leilões destina-se a ser consumido em instalações situadas em território nacional, excluindo os centros eletroprodutores em regime ordinário.
+
+3 - Os termos e condições de realização dos leilões são aprovados pela ERSE, na sequência de proposta apresentada pelo comercializador do SNGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 40.º — Comercializadores de último recurso
+
+1 - A atividade de comercialização de último recurso é exercida em regime de serviço público, nos termos estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, e no presente decreto-lei, ficando sujeita à atribuição de licença.
+
+2 - Considera-se comercializador de último recurso grossista o titular da licença prevista no n.º 1 do artigo 43.º e que exerce a atividade de aquisição de gás natural ao comercializador do SNGN para fornecimento aos comercializadores de último recurso retalhistas, nos termos do artigo 42.º
+
+3 - Consideram-se comercializadores de último recurso retalhistas os titulares das licenças de comercialização de último recurso responsáveis pelo fornecimento de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3, nos termos do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, enquanto vigorarem as tarifas reguladas ou as tarifas transitórias legalmente estabelecidas, e, após a extinção destas, pelo fornecimento aos clientes finais economicamente vulneráveis, nos termos do artigo 5.º do mesmo diploma, e que se encontram sujeitos aos direitos e obrigações previstos no artigo 41.º
+
+4 - Consideram-se clientes finais economicamente vulneráveis as pessoas que se encontrem nas condições de beneficiar da tarifa social de fornecimento de gás natural, nos termos do Decreto-Lei n.º 101/2011, de 30 de setembro.
+
+5 - O exercício da actividade de comercialização de gás natural de último recurso é regulada pela ERSE.
+
+6 - A atribuição de novas licenças de comercializador de último recurso fica dependente da sua prévia sujeição à concorrência, mediante o lançamento de procedimentos pré-contratuais, cujas peças são aprovadas por despacho do membro do Governo responsável pela área da energia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 41.º — Direitos e deveres dos comercializadores de último recurso retalhistas
+
+1 - Constitui direito dos comercializadores de último recurso retalhistas o exercício da atividade licenciada nos termos da legislação e da regulamentação aplicáveis.
+
+2 - Pelo exercício da atividade de comercialização de último recurso retalhista é assegurada uma remuneração que assegure o equilíbrio económico e financeiro da atividade licenciada em condições de gestão eficiente, nos termos da legislação e da regulamentação aplicáveis.
+
+3 - São, nomeadamente, deveres dos comercializadores de último recurso retalhistas:
+
+a) Prestar o serviço público de fornecimento de gás natural aos clientes finais referidos no n.º 5 do artigo 42.º enquanto vigorarem as tarifas reguladas ou as tarifas transitórias legalmente estabelecidas e, após a extinção destas, fornecer gás natural aos clientes finais economicamente vulneráveis;
+
+b) Adquirir gás natural para comercialização de último recurso nas condições previstas no presente decreto-lei;
+
+c) Assegurar o fornecimento de gás natural em locais onde não exista oferta dos comercializadores de gás natural em regime de mercado, pelo tempo em que essa ausência de oferta se mantenha;
+
+d) Fornecer gás natural aos clientes cujo comercializador tenha ficado impedido de exercer a atividade de comercializador de gás natural, nos termos dos n.os 5 e 6;
+
+e) Assegurar a constituição e manutenção de reservas de segurança de gás natural de acordo com o previsto no presente decreto-lei e na regulamentação em vigor;
+
+f) Enviar às entidades competentes a informação prevista na legislação e na regulamentação aplicáveis;
+
+g) Cumprir todas as normas previstas na respectiva regulamentação e as obrigações previstas nos termos das licenças.
+
+4 - Nas situações previstas nas alíneas c) e d) do número anterior, o comercializador de último recurso retalhista aplica as tarifas reguladas ou as tarifas transitórias legalmente estabelecidas e, após a extinção destas, o preço equivalente à soma das parcelas relevantes da tarifa que serve de base ao cálculo da tarifa social de fornecimento de gás natural, nos termos do Decreto-Lei n.º 101/2011, de 30 de setembro.
+
+5 - Verificando-se a situação prevista na alínea d) no n.º 3, os comercializadores devem notificar a ocorrência ao comercializador de último recurso retalhista, o qual, recebida a notificação, envia uma carta registada aos clientes abrangidos, dando conhecimento de que é a entidade responsável por lhes fornecer gás natural durante um período máximo de dois meses, devendo os clientes, até ao final desse período, contratualizar com um comercializador registado o fornecimento de gás natural.
+
+6 - Se se verificar ausência de alternativa de comercializadores registados decorrido o período previsto no número anterior, é aplicável o disposto na alínea c) do n.º 3.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2010 - Diário da República n.º 112/2010, Série I de 2010-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465)
+
+###### Artigo 42.º — Aquisição de gás natural pelos comercializadores de último recurso
+
+1 - Com vista a garantir o abastecimento necessário à satisfação dos contratos com clientes finais, o comercializador de último recurso grossista deve adquirir as quantidades de gás natural que lhe sejam solicitadas pelos comercializadores de último recurso retalhistas, podendo, para o efeito, adquirir gás natural ao comercializador do SNGN, diretamente ou através de leilões, no âmbito dos contratos de aprovisionamento de longo prazo em regime de take or pay, celebrados em data anterior à entrada em vigor da Diretiva n.º 2003/55/CE, do Parlamento e do Conselho, de 26 de junho, ou em mercados organizados ou ainda através de contratos bilaterais, assegurando, em qualquer caso, que o respetivo preço seja o mais baixo de entre os praticados na data da aquisição.
+
+2 - Para efeitos do disposto no n.º 1, o preço de aquisição pelo comercializador do SNGN é estabelecido de acordo com o Regulamento Tarifário e deve corresponder à ponderação entre o custo médio das aquisições de gás natural pelo comercializador de último recurso grossista no mercado e o custo médio das quantidades de gás natural contratadas no âmbito dos contratos de aprovisionamento referidos no número anterior.
+
+3 - Para efeitos do n.º 1, a ERSE estabelece no Regulamento Tarifário e no Regulamento de Relações Comerciais incentivos para a progressiva aquisição de gás natural pelo comercializador de último recurso grossista em mercado.
+
+4 - O comercializador de último recurso grossista deve prestar à ERSE as informações necessárias à aferição do disposto no n.º 1, nos termos a estabelecer no Regulamento Tarifário.
+
+5 - Os comercializadores de último recurso retalhistas aplicam a clientes finais com consumos anuais iguais ou inferiores a 10 000 m3, a título transitório, e, de forma contínua, aos clientes economicamente vulneráveis, as tarifas transitórias de venda previstas no artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 43.º — Prazo das licenças de comercialização de último recurso
+
+1 - A licença de comercialização de último recurso grossista é válida até 2028.
+
+2 - As licenças de comercialização de último recurso retalhista têm uma duração correspondente à dos contratos de concessão ou à das licenças de distribuição de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 43.º-A — Transmissão, modificação e extinção das licenças de comercialização de último recurso
+
+1 - A transmissão da licença de comercialização de último recurso retalhista depende de autorização da entidade emitente, desde que se mantenham os pressupostos que determinaram a sua atribuição.
+
+2 - Em caso de reestruturação societária, os comercializadores de último recurso retalhistas devem requerer ao membro do Governo responsável pela área da energia a modificação das licenças de que sejam titulares, submetendo, para o efeito, o respetivo projeto de transformação societária à autorização prévia desse membro do Governo, a qual deve ser emitida ou recusada no prazo de 30 dias após a sua solicitação, sob pena de se considerar tacitamente deferida.
+
+3 - As licenças de comercialização de último recurso extinguem-se por caducidade ou por revogação.
+
+4 - A extinção da licença por caducidade ocorre em caso de decurso do respetivo prazo, dissolução, insolvência ou cessação da atividade do seu titular.
+
+5 - A licença pode ser revogada quando o seu titular faltar ao cumprimento dos deveres relativos ao exercício da atividade, nomeadamente:
+
+a) Não cumprir, sem motivo justificado, as determinações impostas pelas autoridades administrativas;
+
+b) Violar reiteradamente o cumprimento das disposições legais e as normas técnicas aplicáveis ao exercício da atividade licenciada;
+
+c) Não cumprir, reiteradamente, a obrigação de envio da informação estabelecida na legislação e na regulamentação aplicáveis;
+
+d) Não começar a exercer a atividade no prazo de um ano após a emissão da licença, ou, tendo-a começado a exercer, a haja interrompido por igual período, sendo esta inatividade confirmada pelo gestor técnico global do SNGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 44.º — Operador logístico de mudança de comercializador
+
+1 - O operador logístico de mudança de comercializador é a entidade que tem atribuições no âmbito da gestão da mudança de comercializador de gás natural, podendo incluir, nomeadamente, a gestão dos equipamentos de medida, a recolha de informação local ou a distância e o fornecimento de informação sobre o consumo aos agentes de mercado.
+
+2 - O operador logístico de mudança de comercializador deve ser independente nos planos jurídico, organizativo e da tomada de decisões relativamente a entidades que exerçam atividades no âmbito do SNGN e estar dotado dos recursos, das competências e da estrutura organizativa adequados ao seu funcionamento.
+
+3 - As funções, as condições e os procedimentos aplicáveis ao exercício da actividade de operador logístico de mudança de comercializador, bem como a data da sua entrada em funcionamento, são estabelecidos em legislação complementar.
+
+4 - O operador logístico de mudança de comercializador fica sujeito à regulação da ERSE, sendo a sua remuneração fixada nos termos do regulamento de relações comerciais e no regulamento tarifário.
+
+5 - Os comercializadores ficam obrigados a fornecer ao operador logístico de mudança de comercializador, nos termos a prever em legislação complementar, informação relativa às situações de incumprimento das obrigações de pagamento previstas nos contratos de fornecimento que tenham motivado a interrupção do fornecimento e a resolução dos referidos contratos.
+
+6 - O operador logístico de mudança de comercializador pode ser comum para o SNGN e para o SEN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 38/2017 - Diário da República n.º 65/2017, Série I de 2017-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2017-106804082), em vigor a partir de 2017-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo X — Mercado organizado
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 45.º — Mercado organizado
+
+1 - O mercado organizado, a prazo e a contado corresponde a um sistema de diferentes modalidades de contratação que possibilitam o encontro entre a oferta e a procura de gás natural e de instrumentos cujo activo subjacente seja gás natural ou activo equivalente.
+
+2 - O mercado organizado em que se realizem operações a prazo sobre gás natural está sujeito a autorização, mediante portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, nos termos do n.º 3 do artigo 207.º do Código dos Valores Mobiliários.
+
+3 - A entidade gestora do mercado deve ser autorizada pelo ministro responsável pela área da energia e, nos casos em que a legislação assim obrigue, pelo Ministro das Finanças.
+
+4 - A constituição, a organização e o funcionamento do mercado organizado devem constar de legislação específica.
+
+5 - Podem ser admitidos como membros do mercado organizado os intermediários financeiros, comercializadores e outros agentes que reúnam os requisitos previstos no n.º 2 do artigo 206.º do Código dos Valores Mobiliários e demais requisitos fixados pela entidade gestora do mercado, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, desde que, em qualquer dos casos, tenham celebrado contrato com um participante do sistema de liquidação das operações realizadas nesse mercado.
+
+6 - Compete aos operadores de mercado fixar os critérios para a determinação dos índices de preço referentes a cada um dos tipos de contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 46.º — Operadores de mercado
+
+1 - Os operadores de mercado são as entidades responsáveis pela gestão do mercado organizado e pela concretização de atividades conexas, nos termos do número seguinte, da legislação prevista no n.º 3 do artigo anterior e, subsidiariamente, das disposições da legislação financeira aplicáveis aos mercados em que se realizem operações a prazo.
+
+2 - São deveres dos operadores de mercado, nomeadamente:
+
+a) Gerir mercados organizados de contratação de gás natural;
+
+b) Assegurar que os mercados referidos na alínea anterior sejam dotados de adequados serviços de liquidação;
+
+c) Divulgar informação relativa ao funcionamento dos mercados de forma transparente e não discriminatória, devendo, nomeadamente, publicar informação, agregada por agente, relativa a preços e quantidades transacionadas;
+
+d) Comunicar ao operador da RNTGN toda a informação relevante para a gestão técnica global do SNGN e para a gestão comercial da capacidade de interligação, nos termos do Regulamento de Operação das Infraestruturas.
+
+3 - Cabe ainda ao gestor de mercado a comunicação ao operador da RNTGN de toda a informação relevante para a gestão técnica global do sistema, designadamente para a monitorização da capacidade de interligação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 46.º-A — Integração da gestão de mercados organizados
+
+A gestão de mercados organizados integra-se no âmbito do funcionamento dos mercados constituídos ao abrigo de acordos internacionais celebrados entre o Estado Português e outros Estados membros da União Europeia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo XI — Segurança do abastecimento
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 47.º — Garantia da segurança do abastecimento de gás natural
+
+1 - A promoção das condições de garantia e segurança do abastecimento de gás natural do SNGN, em termos transparentes, não discriminatórios e compatíveis com os mecanismos de funcionamento do mercado, é feita, nomeadamente, através das seguintes medidas:
+
+a) Do lado da oferta:
+
+i) Diversificação das fontes de abastecimento de gás natural;
+
+ii) Recurso a capacidades transfronteiriças de abastecimento e transporte, nomeadamente pela cooperação regional entre operadores de sistemas de transporte e coordenação das atividades de despacho;
+
+iii) Existência de contratos de longo prazo para o aprovisionamento de gás natural;
+
+iv) Capacidade adequada de armazenamento de gás natural;
+
+v) Constituição e manutenção de reservas de segurança;
+
+vi) Definição e aplicação de medidas de emergência;
+
+b) Do lado da gestão da procura:
+
+i) Promoção da eficiência energética;
+
+ii) Desenvolvimento de mecanismos de mercado para gestão da procura, nomeadamente através da celebração de contratos de fornecimento interruptível e do incentivo à utilização de combustíveis alternativos em substituição dos combustíveis fósseis nas instalações industriais e nas instalações de produção de eletricidade;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 47.º-A — Avaliação de riscos
+
+1 - A DGEG é responsável pela avaliação integral dos riscos que afetam a segurança do aprovisionamento do SNGN, com a colaboração do operador da RNTGN, bem como pela sua atualização nos termos previstos no número seguinte.
+
+2 - A avaliação dos riscos é atualizada, pela primeira vez, no prazo de 18 meses após a aprovação dos planos preventivos de ação e dos planos de emergência referidos nos artigos 47.º-B e 48.º, e, subsequentemente, de dois em dois anos, antes de 30 de setembro do ano em causa, salvo se as circunstâncias exigirem atualizações mais frequentes.
+
+3 - As atualizações da avaliação de riscos são enviadas à Comissão Europeia e devem ser consideradas para efeitos de definição dos padrões de abastecimento ao nível da produção e dos padrões de segurança para planeamento das redes.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 47.º-B — Plano preventivo de ação
+
+1 - A DGEG é ainda responsável por elaborar, nos termos e de acordo com os procedimentos previstos no Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, mediante proposta do operador da RNTGN, um plano preventivo de ação, definindo as medidas necessárias tendo em vista a eliminação ou atenuação dos riscos identificados na avaliação de riscos do aprovisionamento do SNGN a que se refere o artigo anterior.
+
+2 - A DGEG apresenta ao membro do Governo responsável pela área da energia o plano preventivo de ação elaborado nos termos do número anterior.
+
+3 - O plano preventivo de ação deve ser publicitado até 3 de dezembro de 2012 e atualizado de dois em dois anos, salvo se as circunstâncias impuserem atualizações mais frequentes, devendo refletir a avaliação de riscos mais recente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 47.º-C — Relatório de monitorização da segurança de abastecimento
+
+1 - A DGEG apresenta ao membro do Governo responsável pela área da energia, até 15 de julho de cada ano, um RMSA, o qual deve incluir as medidas adotadas e uma proposta de adoção das medidas adequadas a reforçar a segurança do abastecimento do SNGN.
+
+2 - O RMSA deve incluir igualmente os seguintes elementos:
+
+a) O nível de utilização da capacidade de armazenamento e a avaliação da sua suficiência para garantir o cumprimento das reservas de segurança;
+
+b) O âmbito dos contratos de aprovisionamento de gás a longo prazo celebrados por empresas estabelecidas e registadas em território nacional e, em especial, o prazo de duração remanescente desses contratos e o respetivo nível de liquidez;
+
+c) Quadros regulamentares destinados a incentivar de forma adequada novos investimentos nas infraestruturas de gás natural.
+
+3 - O RMSA deve ter em conta o relatório de monitorização da segurança do abastecimento do SEN.
+
+4 - O RMSA é publicitado no sítio na Internet da DGEG e enviado à Comissão Europeia e à ERSE até 31 de julho de cada ano.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 48.º — Medidas de salvaguarda e de emergência
+
+1 - Em caso de crise repentina no mercado da energia e de ameaça à segurança física ou outra, de pessoas, equipamentos, instalações, ou à integridade das redes, designadamente por via de acidente grave ou evento de força maior, o membro do Governo responsável pela área da energia pode tomar, a título transitório e temporariamente, as medidas de salvaguarda necessárias.
+
+2 - A DGEG é responsável por elaborar, nos termos e de acordo com os procedimentos previstos no Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, e mediante proposta do operador da RNTGN, um plano de emergência, contemplando as medidas a adotar para eliminar ou atenuar o impacto de uma perturbação no aprovisionamento de gás natural.
+
+3 - A DGEG deve apresentar ao membro do Governo responsável pela área da energia o plano de emergência elaborado nos termos do número anterior.
+
+4 - O plano de emergência deve ser publicitado até 3 de dezembro de 2012 e atualizado de dois em dois anos, salvo se as circunstâncias impuserem atualizações mais frequentes, devendo refletir a avaliação de riscos mais recente.
+
+5 - Em caso de perturbação no aprovisionamento, o membro do Governo responsável pela área da energia toma as medidas que se revelem necessárias, em particular, a utilização das reservas de segurança e a imposição de medidas de restrição da procura, nos termos previstos no plano de emergência.
+
+6 - Em circunstâncias excecionais devidamente justificadas, o membro do Governo responsável pela área da energia pode tomar medidas que se afastem do plano de emergência.
+
+7 - As medidas que sejam tomadas ao abrigo do presente artigo são comunicadas e, no caso previsto no número anterior, devidamente fundamentadas à Comissão Europeia, e devem permitir que os operadores de mercado, sempre que tal seja possível ou adequado, deem uma primeira resposta às situações de perturbação no aprovisionamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 48.º-A — Colaboração do gestor técnico global do sistema
+
+O operador da RNTGN deve colaborar ativamente com a DGEG na elaboração da avaliação de riscos de abastecimento, do RMSA, do plano preventivo de ação e do plano de emergência previstos nos artigos 47.º-A, 47.º-B, 47.º-C e 48.º, nos termos definidos no Regulamento da Segurança de Abastecimento e Planeamento Energético.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 49.º — Obrigação de constituição e manutenção de reservas de segurança
+
+1 - Os comercializadores em regime de mercado e os comercializadores de último recurso retalhistas estão sujeitos à obrigação de assegurar a constituição e manutenção de reservas de segurança para garantia de abastecimento dos seus clientes, nos termos do Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro.
+
+2 - Os encargos com a constituição e manutenção de reservas de segurança são suportados pelas entidades referidas no número anterior.
+
+3 - As reservas de segurança devem estar permanentemente disponíveis para utilização, devendo os seus titulares ser sempre identificáveis e os respetivos volumes contabilizáveis e controláveis pela DGEG e pelo operador da RNTGN, que os comunica à ERSE, para efeitos de eventual exercício de poder sancionatório, nos termos da lei.
+
+4 - As reservas de segurança são constituídas prioritariamente em instalações de armazenamento de gás natural localizadas no território nacional, em zonas próximas dos principais centros de consumo.
+
+5 - A constituição de reservas de segurança fora de território nacional pode ser autorizada pelo membro do Governo responsável pela área da energia, ouvido o operador da RNTGN, em caso de existência de acordo bilateral que preveja a possibilidade de estabelecimento de reservas de segurança noutros países em termos que garantam a sua introdução no mercado nacional sem restrições e em tempo útil.
+
+6 - O membro do Governo responsável pela área da energia define, mediante portaria, os limites para a aplicação do disposto no número anterior.
+
+7 - Sem prejuízo das competências do operador da RNTGN no âmbito da gestão técnica global do SNGN e do poder sancionatório da ERSE, nos termos da lei, compete à DGEG fiscalizar o cumprimento das obrigações de constituição e manutenção de reservas de segurança.
+
+8 - Para efeitos da fiscalização do cumprimento das obrigações de constituição e manutenção de reservas de segurança prevista no número anterior, as entidades referidas no n.º 1 devem enviar à DGEG e ao operador da RNTGN, até ao dia 15 de cada mês, as informações referentes aos consumos efetivos da sua carteira de clientes no mês anterior, discriminando as quantidades referentes aos consumos dos seus clientes protegidos e aos consumos não interruptíveis dos centros eletroprodutores em regime ordinário, fazendo prova dos respetivos contratos de interruptibilidade.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 50.º — Quantidades das reservas de segurança
+
+1 - Com observância dos critérios de contagem estabelecidos no presente decreto-lei, a quantidade global mínima de reservas de segurança de gás natural é fixada por portaria do membro do Governo responsável pela área da energia, não podendo ser inferior às quantidades necessárias a assegurar os consumos dos clientes protegidos e a fazer face aos consumos não interruptíveis dos centros eletroprodutores em regime ordinário nas situações referidas nas alíneas a) a c) do n.º 2 do artigo 52.º
+
+2 - As reservas de segurança são expressas em dias da quantidade média diária dos consumos dos clientes protegidos e dos consumos não interruptíveis dos centros eletroprodutores em regime ordinário nos 12 meses anteriores ao mês de contagem, a cumprir com um mês de dilação.
+
+3 - Para os novos produtores de electricidade em regime ordinário e para os primeiros 12 meses do respectivo funcionamento, é tomada como referência a média diária dos consumos verificados, a cumprir um mês após a entrada em funcionamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 50.º-A — Clientes protegidos e obrigações adicionais
+
+1 - Os clientes protegidos a considerar para efeitos de constituição e manutenção de reservas de segurança são todos os clientes domésticos já ligados a uma rede de distribuição de gás e os clientes previstos na alínea a) do n.º 1 do artigo 2.º do Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro.
+
+2 - Como obrigação adicional, resultante da avaliação de riscos do aprovisionamento do SNGN, e tendo em consideração o disposto no n.º 2 do artigo 8.º do Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, devem ser igualmente considerados para efeitos de constituição e manutenção de reservas de segurança todos os consumos não interruptíveis dos centros eletroprodutores em regime ordinário.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 50.º-B — Consumos interruptíveis dos centros eletroprodutores em regime ordinário
+
+1 - Os comercializadores só podem deixar de assegurar a constituição e manutenção de reservas de segurança necessárias a garantir os consumos dos centros eletroprodutores em regime ordinário desde que estes obtenham autorização da DGEG para celebrar contratos de fornecimento de gás natural que permitam a interrupção nas situações referidas no n.º 2 do artigo 52.º e demonstrem estar contratualmente garantido o fornecimento de combustível alternativo ao gás natural.
+
+2 - Quando solicitada a sua autorização para os efeitos do disposto no número anterior, a DGEG deve obter o parecer prévio dos operadores da RNT e da RNTGN e decidir a pretensão no prazo de 30 dias.
+
+3 - No caso de resposta favorável ou de falta de resposta da DGEG no prazo referido no número anterior, os centros eletroprodutores devem informar o respetivo comercializador de gás natural de que cessa a sua obrigação de constituir e manter reservas de segurança.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 51.º — Contagem das reservas de segurança
+
+1 - Para o cumprimento das obrigações de constituição e manutenção das reservas de segurança, são considerados o gás natural e o GNL, desde que detidos em:
+
+a) Instalações de armazenamento subterrâneo, sem prejuízo do disposto no n.º 4 do artigo 24.º-A do Decreto-Lei n.º 30/2006, de 15 de fevereiro;
+
+b) Instalações de armazenamento de GNL em terminais de recepção, armazenagem e regaseificação de GNL;
+
+c) Navios metaneiros que se encontrem em trânsito devidamente assegurado para um terminal de GNL existente em território nacional, a uma distância máxima de três dias de trajeto.
+
+2 - A consideração da situação prevista na alínea c) do número anterior para efeitos de cumprimento das obrigações de constituição e manutenção das reservas de segurança é aplicável apenas até à entrada em serviço de capacidade adicional de armazenamento em infraestruturas referidas nas alíneas a) e b).
+
+3 - Não são considerados, para contagem das reservas, os volumes de gás natural detidos nas seguintes situações:
+
+a) Em instalações de armazenamento em redes de distribuição (UAG);
+
+b) Em reservatórios de consumidores ligados à rede de distribuição;
+
+c) Em redes de transporte e de distribuição (line-pack);
+
+d) Em camiões-cisterna de transporte.
+
+4 - O cumprimento das obrigações de constituição e manutenção das reservas de segurança é verificado no final de cada mês, com um mês de dilação relativamente ao período de referência.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 52.º — Utilização das reservas de segurança
+
+1 - A competência para autorizar ou para determinar o uso das reservas de segurança em caso de perturbação grave do abastecimento pertence ao membro do Governo responsável pela área da energia, tendo em consideração o interesse nacional, as obrigações assumidas em acordos internacionais e o definido no plano de emergência.
+
+2 - Através de portaria do membro do Governo responsável pela área da energia são definidas normas específicas destinadas a garantir prioridade na segurança do abastecimento dos clientes protegidos e dos consumos não interruptíveis dos centros eletroprodutores em regime ordinário, em caso de:
+
+a) Interrupção no funcionamento da maior infraestrutura nacional de aprovisionamento de gás em condições invernais médias, durante um período de, pelo menos, 30 dias;
+
+b) Temperaturas extremamente baixas durante um período de pico de, pelo menos, sete dias, cuja probabilidade estatística de ocorrência seja de uma vez em 20 anos;
+
+c) Procura excecionalmente elevada de gás natural durante um período de, pelo menos, 30 dias, cuja probabilidade estatística de ocorrência seja de uma vez em 20 anos.
+
+3 - No caso de ocorrer uma situação de dificuldade de abastecimento, as decisões relativas à utilização de reservas de segurança que sejam tomadas pelo ministro responsável pela área da energia devem ser obrigatoriamente cumpridas por todas as entidades envolvidas na constituição de reservas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 53.º — Obrigações dos operadores da RNTIAT em matéria de segurança do abastecimento
+
+1 - Enquanto responsável pela gestão técnica global do SNGN, e sem prejuízo do disposto no artigo 13.º, compete ao operador da RNTGN em matéria de segurança do abastecimento:
+
+a) Monitorizar a constituição e a manutenção das reservas de segurança;
+
+b) Proceder à libertação das reservas de segurança nos casos previstos no presente decreto-lei, quando devidamente autorizados pelo ministro responsável pela área da energia;
+
+c) Enviar à DGGE, até ao dia 15 de cada mês, as informações referentes ao mês anterior relativas às quantidades constituídas em reservas de segurança, sua localização e respectivos titulares;
+
+d) Reportar à DGEG e à ERSE as situações verificadas de incumprimento das obrigações de constituição e manutenção de reservas de segurança, com vista à aplicação do respetivo regime sancionatório.
+
+2 - As entidades concessionárias de armazenamento subterrâneo e de terminal de GNL devem dar prioridade, em termos de utilização da capacidade de armazenamento, à constituição e manutenção das reservas de segurança.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo XII — Regulamentação
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 54.º — Regulamentação
+
+Para os efeitos da aplicação do presente decreto-lei, são previstos os seguintes regulamentos:
+
+a) Regulamento do acesso às redes, às infra-estruturas e às interligações;
+
+b) Regulamento de operação das infra-estruturas;
+
+c) Regulamento da RNTGN;
+
+d) Regulamento tarifário;
+
+e) Regulamento de qualidade de serviço;
+
+f) Regulamento de relações comerciais;
+
+g) Regulamento de armazenamento subterrâneo;
+
+h) Regulamento de terminal de recepção, armazenamento e regaseificação de GNL.
+
+i) Regulamento da RNDGN;
+
+j) Regulamento da Segurança de Abastecimento e Planeamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 55.º — Regulamento do acesso às redes, às infra-estruturas e às interligações
+
+1 - O regulamento do acesso às redes, às infra-estruturas e às interligações estabelece, segundo critérios objectivos, transparentes e não discriminatórios, as condições técnicas e comerciais segundo as quais se processa o acesso às redes de transporte e de distribuição, às instalações de armazenamento, aos terminais de recepção, armazenamento e regaseificação de GNL e às interligações.
+
+2 - O regulamento do acesso às redes, às infra-estruturas e às interligações estabelece, ainda, as condições em que pode ser recusado o acesso às redes, às infra-estruturas e às interligações.
+
+3 - As entidades que pretendam ter acesso às redes, às instalações de armazenamento, aos terminais de recepção, armazenamento e regaseificação de GNL e às interligações, bem como as entidades responsáveis pelas mesmas, ficam obrigadas ao cumprimento das disposições deste regulamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 56.º — Regulamento de operação das infra-estruturas
+
+O regulamento de operação das infra-estruturas estabelece os critérios e procedimentos de gestão dos fluxos de gás natural, a prestação dos serviços de sistema e as condições técnicas que permitem aos operadores da RNTIAT a gestão destes fluxos, assegurando a sua interoperacionalidade com as redes a que estejam ligados, bem como os procedimentos destinados a garantir a sua concretização e verificação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 57.º — Regulamento da RNTGN
+
+1 - O regulamento da RNTGN estabelece as condições técnicas de ligação e de exploração da respectiva rede e ainda as condições técnicas e de segurança, incluindo os procedimentos de verificação, que asseguram o adequado fluxo de gás natural e a interoperabilidade com as redes a que esteja ligada.
+
+2 - Este regulamento deve estabelecer, também, as disposições técnicas relativas à segurança de pessoas e bens relacionados com a exploração da RNTGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 58.º — Regulamento tarifário
+
+O regulamento tarifário estabelece os critérios e métodos para o cálculo e fixação de tarifas, designadamente as de acesso às redes, às instalações de armazenamento subterrâneo, aos terminais de recepção, armazenamento e regaseificação de GNL e às interligações e aos serviços de sistema, bem como as tarifas de venda de gás natural do comercializador de último recurso, segundo os princípios definidos no Decreto-Lei n.º 30/2006, de 15 de Fevereiro, no presente decreto-lei e tendo em conta o equilíbrio económico e financeiro das concessões e licenças.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 59.º — Regulamento de qualidade de serviço
+
+1 - O regulamento de qualidade de serviço estabelece os padrões de qualidade de serviço de natureza técnica e comercial, designadamente em termos das características técnicas do gás a fornecer aos consumidores, das condições adequadas a uma exploração eficiente e qualificada das redes e das instalações e das interrupções do serviço.
+
+2 - Os padrões de qualidade de serviço referidos no número anterior podem ser globais ou específicos das diferentes categorias de clientes ou, ainda, variarem de acordo com circunstâncias locais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 60.º — Regulamento de relações comerciais
+
+O regulamento de relações comerciais estabelece as regras de funcionamento das relações comerciais entre os vários intervenientes no SNGN, designadamente sobre as seguintes matérias:
+
+a) Relacionamento comercial entre os comercializadores e os seus clientes;
+
+b) Condições comerciais para ligação às redes públicas;
+
+c) Medição de gás natural e disponibilização de dados aos agentes de mercado;
+
+d) Procedimentos de mudança de comercializador;
+
+e) Condições de participação e regras de funcionamento dos mercados organizados;
+
+f) Interrupção do fornecimento de gás natural;
+
+g) Resolução de conflitos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 61.º — Regulamento de armazenamento subterrâneo
+
+1 - O regulamento de armazenamento subterrâneo estabelece:
+
+a) As condições técnicas de construção e de exploração das infraestruturas de armazenamento subterrâneo;
+
+b) As condições técnicas e de segurança, incluindo os procedimentos de verificação, que asseguram o adequado funcionamento das infraestruturas e a interoperabilidade com as redes a que estejam ligadas;
+
+c) As disposições técnicas relativas à segurança de pessoas e bens aplicáveis à exploração das infraestruturas de armazenamento subterrâneo;
+
+d) As condições de acesso às infraestruturas e de gestão da segurança pelos operadores de armazenamento subterrâneo de gás natural, nos termos do artigo 17.º-A.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Os utilizadores das infra-estruturas de armazenamento subterrâneo e as respectivas concessionárias ficam obrigados ao cumprimento das disposições deste regulamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 62.º — Regulamento de terminal de recepção, armazenamento e regaseificação de GNL
+
+1 - O regulamento de terminal de recepção, armazenamento e regaseificação de GNL estabelece as condições técnicas de construção e de exploração das infra-estruturas de terminais de GNL.
+
+2 - O regulamento de terminal de recepção, armazenamento e regaseificação de GNL estabelece, ainda, as condições técnicas e de segurança, incluindo os procedimentos de verificação, que asseguram o adequado funcionamento das infra-estruturas e a interoperabilidade com as redes a que estejam ligadas.
+
+3 - O regulamento do terminal de recepção, armazenamento e regaseificação de GNL estabelece, também, as disposições técnicas relativas à segurança de pessoas e bens relacionados com a exploração das infra-estruturas de terminais de GNL.
+
+4 - Os utilizadores de terminais de recepção, armazenamento e regaseificação de GNL e as respectivas concessionárias ficam obrigados ao cumprimento das disposições deste regulamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 62.º-A — Regulamento da RNDGN
+
+O regulamento da RNDGN estabelece as condições técnicas e de segurança a que devem obedecer o projeto, a construção, a exploração e a manutenção das redes de distribuição de gás natural cuja pressão de serviço:
+
+a) Seja superior a 4 bar e não exceda 20 bar (média pressão);
+
+b) Seja igual ou inferior a 4 bar (baixa pressão).
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 62.º-B — Regulamento da Segurança de Abastecimento e Planeamento
+
+1 - O Regulamento da Segurança de Abastecimento e Planeamento define e concretiza a forma de cumprimento das obrigações do operador da RNT e da RNTGN em matéria de segurança de abastecimento, planeamento energético e planeamento das redes.
+
+2 - O Regulamento previsto no número anterior define ainda o modo de estabelecimento dos padrões de segurança de abastecimento ao nível da produção e dos padrões de segurança para planeamento das redes.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 63.º — Competência para aprovação dos regulamentos
+
+1 - O regulamento da RNTGN, o regulamento da RNDGN, o regulamento de armazenamento subterrâneo e o regulamento de terminal de receção, armazenamento e regaseificação de GNL são aprovados por portaria do membro do Governo responsável pela área da energia, sob proposta da DGEG, a qual, na sua preparação, deve solicitar o parecer da ERSE e propostas às respetivas entidades concessionárias e, no caso do regulamento da RNDGN, também às entidades licenciadas.
+
+2 - O regulamento de acesso às redes, infraestruturas e interligações, o regulamento das relações comerciais, o regulamento de operação das infraestruturas, o regulamento de qualidade de serviço e o regulamento tarifário são aprovados pela ERSE, após parecer da DGEG e ouvidas as entidades concessionárias e licenciadas das redes que integram a RPGN, nos termos da legislação aplicável.
+
+3 - O regulamento da segurança de abastecimento e planeamento é aprovado pela DGEG, ouvida a ERSE, sendo a sua aplicação da competência da DGEG.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo XIII — Disposições transitórias
+
+> Nota: [Artigo 12.º, Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437) A revogação do presente capítulo, em particular do artigo 66.º, relativo à modificação do contrato de concessão do serviço público de importação, transporte e fornecimento de gás natural da TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A., concretizada através da Resolução do Conselho de Ministros n.º 109/2006, de 23 de agosto, que aprovou a minuta do contrato que regula a referida modificação, não prejudica os direitos e garantias, bem como os deveres e obrigações cometidos às entidades nele referidas. A presente revogação não prejudica igualmente a vigência das bases das concessões, tal como alteradas pelo presente diploma, que constituem os anexos i, ii, iii e iv do Decreto-Lei n.º 140/2006, de 26 de julho, que dele fazem parte integrante.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 64.º — Abertura do mercado de gás natural
+
+1 - Sem prejuízo do disposto no n.º 7 do artigo 66.º quanto aos compromissos com quantidades mínimas de gás natural a adquirir, assumidos em contratos de fornecimento anteriormente celebrados, são considerados clientes elegíveis, para os efeitos do presente decreto-lei:
+
+a) Os produtores de electricidade em regime ordinário, a partir de 1 de Janeiro de 2007;
+
+b) Os clientes cujo consumo anual é igual ou superior a 1 milhão de metros cúbicos normais, a partir de 1 de Janeiro de 2008;
+
+c) Os clientes cujo consumo anual é igual ou superior a 10000 m3 normais, a partir de 1 de Janeiro de 2009;
+
+d) Todos os demais clientes, a partir de 1 de Janeiro de 2010.
+
+2 - Os clientes que não queiram usufruir do estatuto de cliente elegível podem optar por continuar a adquirir gás natural aos comercializadores de último recurso nos termos previstos neste decreto-lei.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 65.º — Transmissão de activos no âmbito do actual contrato de concessão do serviço público de importação, transporte e fornecimento de gás natural
+
+1 - De forma a concretizar a separação das actividades de transporte de gás natural, armazenamento subterrâneo de gás natural e de recepção, armazenamento e regaseificação de GNL prevista no Decreto-Lei n.º 30/2006, de 15 de Fevereiro, a TRANSGÁS é autorizada a transmitir à REN - Rede Eléctrica Nacional, S. A., adiante designada por REN, ou a sociedades em relação de domínio total inicial com esta, o seguinte conjunto de bens e outros activos que se encontram afectos à actual concessão do serviço público de importação, transporte e fornecimento de gás natural:
+
+a) A rede de transporte de gás natural em alta pressão, incluindo a estação de transferência de custódia existente em Valença do Minho e a estação de junção de Campo Maior;
+
+b) O terminal de recepção, armazenamento e regaseificação de GNL de Sines;
+
+c) Três cavidades de armazenamento subterrâneo de gás natural no sítio da Guarda Norte, Carriço, no concelho de Pombal, incluindo as inerentes instalações de superfície, estando duas já em operação e a terceira em construção, bem como os direitos de utilização do subsolo para a construção de pelo menos mais duas cavidades no mesmo local;
+
+d) As instalações e equipamentos necessários à adequada operação de todas as infra-estruturas referidas nas alíneas anteriores;
+
+e) Os direitos, obrigações e responsabilidades associados aos referidos bens e às actividades de transporte de gás natural em alta pressão, de armazenamento subterrâneo e de recepção, armazenamento e regaseificação de GNL, relativas ao terminal de GNL de Sines.
+
+2 - A relação dos activos transmitidos, devidamente identificados, que faz parte integrante do contrato de compra e venda, serve de título bastante para o averbamento das novas proprietárias ou titulares de direitos para efeito de registo predial, comercial, automóvel ou de propriedade intelectual ou industrial.
+
+3 - Inclui-se nos activos a ceder pela TRANSGÁS à REN ou à futura concessionária de transporte de gás natural a sua posição accionista nas sociedades Gasoduto Braga Tuy, S. A., e Gasoduto Campo Maior-Leiria-Braga, S. A.
+
+4 - A TRANSGÁS, SGPS, S. A., e a GDP, SGPS, S. A., são autorizadas a transmitir à REN, ou a sociedade em relação de domínio total inicial com a REN, as acções representativas da totalidade do capital social da SGNL - Sociedade Portuguesa de Gás Natural Liquefeito, S. A.
+
+5 - O contrato de compra e venda, que dá corpo à transferência dos activos referidos nos números anteriores, é negociado entre as partes.
+
+6 - Os gasodutos de MP afectos à actual concessão da TRANSGÁS, bem como as UAG que ainda se mantêm sua propriedade, devem ser alienados à concessionária de distribuição regional ou licenciada de distribuição local da respectiva área, no prazo de um ano a contar a partir da data da entrada em vigor do presente decreto-lei.
+
+7 - O contrato de compra e venda destes activos é negociado entre as partes, devendo o preço ser fixado tendo em conta o valor contabilístico do activo alienado, líquido de amortizações e subsídios, e o valor da tarifa aplicável nos termos do regulamento tarifário.
+
+8 - Os acordos relativos à partilha de infra-estruturas em vigor entre a TRANSGÁS e as distribuidoras regionais, que estabelecem direitos e obrigações relativos a gasodutos de MP e de BP, devem cessar em 1 de Janeiro de 2008.
+
+9 - Pela cessação dos acordos referidos no número anterior, a TRANSGÁS deve receber das distribuidoras uma compensação calculada com base na sua comparticipação no investimento, líquida de amortizações e de subsídios, e no valor da tarifa aplicável nos termos do regulamento tarifário.
+
+10 - Quaisquer conflitos entre as partes decorrentes do disposto nos números anteriores devem ser resolvidos por recurso a arbitragem, nos termos do artigo 68.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro.
+
+11 - Todas as declarações de utilidade pública prestadas a favor da TRANSGÁS, necessárias para a expropriação de terrenos ou para a constituição de servidões administrativas de gás natural relativas à implantação de infra-estruturas integradas nos activos a alienar, passam a beneficiar as concessionárias ou licenciadas das actividades a que se referem os activos transferidos, prosseguindo a realização dos fins de interesse público que as determinaram.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 66.º — Modificação do contrato de concessão da TRANSGÁS
+
+1 - Conforme previsto no artigo 65.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro, o objecto do actual contrato de concessão do serviço público de importação de gás natural e do seu transporte e fornecimento através da rede de alta pressão, celebrado entre o Estado e a TRANSGÁS, é alterado de acordo com os números seguintes, com salvaguarda do princípio do equilíbrio económico e financeiro decorrente do actual contrato de concessão, devendo essa alteração ser formalizada através de contrato a celebrar entre o Estado e a TRANSGÁS, no prazo máximo de 30 dias a contar a partir da data da entrada em vigor do presente decreto-lei.
+
+2 - A TRANSGÁS, através de sociedade por ela detida em regime de domínio total, mantém a concessão de armazenamento subterrâneo de gás natural no sítio da Guarda Norte, Carriço, no concelho de Pombal, nas cavidades que detém, com exclusão das cavidades identificadas na alínea c) do n.º 1 do artigo anterior, ou que venha a construir, devendo o respectivo contrato ser modificado de acordo com as bases constantes do anexo II do presente decreto-lei, que dele faz parte integrante.
+
+3 - As cavidades de armazenamento subterrâneo, concessionadas à sociedade detida em regime de domínio total pela TRANSGÁS referida no número anterior, devem ser alienadas, em condições a acordar entre as partes, à concessionária de armazenamento subterrâneo a que se refere o n.º 1 do artigo 68.º, após esgotada a capacidade de expansão de armazenamento subterrâneo da referida concessionária, conforme o previsto na alínea c) do n.º 1 do artigo anterior, no caso de as mesmas virem a ser consideradas pelo ministro responsável pela área da energia como necessárias ao reforço da capacidade de reservas de segurança.
+
+4 - Podem manter-se na titularidade da TRANSGÁS as suas participações accionistas nas sociedades Europe Maghreb Pipeline Ltd., Gasoducto Al-Andaluz, S. A., e Gasoducto de Extremadura, S. A., titulares dos direitos de uso dos gasodutos a montante da fronteira portuguesa e, ainda, a titularidade da sua participação accionista na sociedade operadora do troço marroquino Société pour la Construction et l'Exploitation Technique du Gazoduc Maghreb-Europe, Metragaz, S. A.
+
+5 - É atribuída a uma sociedade detida pela TRANSGÁS, em regime de domínio total, uma licença de comercialização de último recurso de todos os clientes que consumam anualmente quantidades de gás natural iguais ou superiores a 2 milhões de metros cúbicos normais, excluindo os produtores de electricidade em regime ordinário.
+
+6 - Os termos da licença referida no número anterior são definidos no contrato a celebrar entre o Estado e a TRANSGÁS referido no n.º 1.
+
+7 - Em 1 de Janeiro de 2007, passam para a titularidade da sociedade referida no n.º 5 os contratos de fornecimento em vigor celebrados com as actuais concessionárias de distribuição regional de gás natural e com os actuais titulares de licenças de distribuição local e, ainda, com os clientes com consumo anual igual ou superior a 2 milhões de metros cúbicos normais.
+
+8 - Os contratos de fornecimento referidos no número anterior são revistos, no que se refere ao preço, de acordo com o regulamento tarifário, a partir de 1 de Janeiro de 2008.
+
+9 - Os contratos de fornecimento em vigor com os clientes com consumo anual igual ou superior a 2 milhões de metros cúbicos normais, excluindo os produtores de electricidade em regime ordinário, podem ser rescindidos por qualquer das partes a partir de 1 de Janeiro de 2008.
+
+10 - Mantêm-se na titularidade da TRANSGÁS os contratos de fornecimento em vigor com os produtores de electricidade em regime ordinário.
+
+11 - Mantêm-se na titularidade da TRANSGÁS os contratos de aprovisionamento de gás natural de longo prazo e em regime de take or pay, celebrados antes da entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0055" title="Link para Directiva da Comunidade Europeia">2003/55/CE</a>, do Parlamento e do Conselho, de 26 de Junho, que são destinados, prioritariamente, à satisfação das necessidades dos comercializadores de último recurso e dos contratos referidos nos n.os 9 e 10.
+
+12 - A partir de 1 de Janeiro de 2007, a TRANSGÁS passa a exercer, em regime de licença, a actividade de comercialização de gás natural em regime de mercado livre.
+
+13 - A licença para o exercício da actividade de comercialização referida no número anterior é concedida pela DGGE, independentemente de qualquer formalidade, na data referida no número anterior.
+
+14 - Os estatutos da TRANSGÁS devem ser alterados antes da outorga dos contratos a que se refere o n.º 8 do artigo 68.º, devendo as alterações ser previamente aprovadas pelo ministro responsável pela área da energia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 67.º — Comercialização de último recurso exercida transitoriamente pela TRANSGÁS e pelas sociedades de distribuição
+
+1 - A licença referida no n.º 5 do artigo anterior é concedida até 2028, independentemente de qualquer formalidade.
+
+2 - São atribuídas a sociedades a constituir em regime de domínio total inicial pelas entidades concessionárias de distribuição regional ou pelas detentoras de licenças de distribuição local com mais de 100 000 clientes, ou às sociedades concessionárias ou detentoras de licenças de distribuição com menos de 100 000 clientes, licenças de comercialização de último recurso a todos os clientes que consumam anualmente quantidades de gás natural inferiores ou iguais a 10 000 m3 e se situem nas áreas das respectivas concessões ou licenças.
+
+3 - As licenças referidas no número anterior são concedidas independentemente de qualquer formalidade e têm uma duração correspondente à dos actuais contratos de concessão ou à das actuais licenças de distribuição.
+
+4 - As sociedades em regime de domínio total inicial referidas no n.º 2 devem ser constituídas no prazo de um ano a contar a partir da data da entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2010 - Diário da República n.º 112/2010, Série I de 2010-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465)
+
+###### Artigo 68.º — Atribuição das novas concessões da RNTIAT
+
+1 - As concessões da RNTGN, de armazenamento subterrâneo de gás natural em três cavidades situadas em Guarda Norte, Carriço, no concelho de Pombal, e do terminal de GNL de Sines são atribuídas, respectivamente, a três sociedades em relação de domínio total inicial com a REN, de acordo com as bases constantes dos anexos I, II e III do presente decreto-lei, que dele fazem parte integrante, após a conclusão do processo de transmissão dos activos referidos no n.º 1 do artigo 65.º
+
+2 - Para os efeitos de regulação, o valor dos activos referidos no número anterior deve reflectir o correspondente valor de balanço da TRANSGÁS, à data do início das novas concessões, depois de reavaliados e líquidos de amortizações e subsídios a fundo perdido.
+
+3 - A reavaliação referida no número anterior é promovida pelas respectivas entidades concessionárias e efectuada, no prazo máximo de 45 dias, por uma entidade financeira ou auditora, de reconhecido prestígio, designada pelo Ministro das Finanças.
+
+4 - A reavaliação referida nos números anteriores deve ter em atenção a inflação ocorrida durante o período de vida útil dos activos já decorrido e está sujeita à aprovação do Ministro das Finanças.
+
+5 - O processo de transmissão referido no n.º 1 do artigo 65.º deve estar concluído no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei.
+
+6 - A atribuição das concessões referidas no n.º 1 é feita directamente por resolução do Conselho de Ministros, que aprove as minutas dos respectivos contratos de concessão elaboradas de acordo com as bases anexas ao presente decreto-lei.
+
+7 - As minutas do contrato que opera a modificação do actual contrato de concessão da TRANSGÁS e do contrato de concessão de armazenamento subterrâneo referido no n.º 2 do artigo 66.º são aprovadas através de resolução do Conselho de Ministros.
+
+8 - Os novos contratos de concessão a que se refere o presente artigo, bem como os contratos que operam a modificação do actual contrato de concessão da TRANSGÁS, são celebrados, em simultâneo, no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei, devendo neles outorgar o ministro responsável pela área da energia, em representação do Estado.
+
+9 - As minutas dos contratos referidos no número anterior devem ser apresentadas e negociadas com as várias entidades concessionárias e licenciadas no prazo de 30 dias após a entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 69.º — Regime provisório de exploração das novas concessões da RNTIAT
+
+1 - Até à entrada em vigor do regime regulatório, a fixar pela ERSE, das actividades de transporte, de armazenamento subterrâneo e de recepção, armazenamento e regaseificação de GNL, as concessionárias, sem prejuízo dos direitos e demais obrigações fixados no presente decreto-lei, devem:
+
+a) Contratar, em condições transparentes, o acesso às infra-estruturas e à prestação de serviços de sistema que se mostrem necessários;
+
+b) Contratar, em condições transparentes, os preços e as tarifas de transporte, armazenamento subterrâneo, recepção, armazenamento e regaseificação de GNL, bem como de carregamento de GNL em camiões e, ainda, dos serviços de sistema;
+
+c) Prestar os serviços contratados nas condições acordadas e de acordo com as directrizes da concessionária responsável pela gestão técnica global do sistema.
+
+2 - As concessionárias, no período referido no número anterior, devem assegurar o regular funcionamento de todas as infra-estruturas para garantia da segurança do abastecimento e da qualidade de serviço.
+
+3 - As concessionárias devem assegurar a resolução dos contratos celebrados ao abrigo do disposto no n.º 1 imediatamente após o início do regime regulatório e, relativamente aos contratos de longo prazo, assegurar a respectiva modificação, em conformidade com a regulamentação que venha a ser aprovada.
+
+4 - As concessionárias devem publicitar as condições de acesso às infra-estruturas e aos serviços de sistema e remeter à DGGE e à ERSE, no prazo de 15 dias a contar a partir da respectiva celebração, cópia dos contratos celebrados transitoriamente ao abrigo do disposto no n.º 1.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 70.º — Modificação das concessões e licenças de distribuição de gás natural
+
+1 - Os actuais contratos de concessão de distribuição regional devem ser alterados de acordo com o estabelecido no anexo IV do presente decreto-lei, que dele faz parte integrante, no prazo de um ano a contar a partir da data da entrada em vigor do presente decreto-lei, assegurando-se nos novos contratos o direito das concessionárias à manutenção do equilíbrio económico e financeiro das respectivas concessões.
+
+2 - As actuais licenças de distribuição local devem ser alteradas de acordo com o estabelecido no Decreto-Lei n.º 30/2006, de 15 de Fevereiro, e no presente decreto-lei, no prazo de um ano a contar a partir da data da entrada em vigor do presente decreto-lei, sem prejuízo do respeito pelo princípio do equilíbrio económico e financeiro das entidades licenciadas.
+
+3 - Para os efeitos de regulação, o valor dos activos de cada uma das redes da RNDGN deve reflectir o correspondente valor do balanço à data do início das novas concessões ou licenças, depois de reavaliados e líquidos de amortizações e subsídios a fundo perdido.
+
+4 - A reavaliação referida no número anterior é promovida pelas entidades concessionárias ou licenciadas da RNDGN e efectuada no prazo máximo de 45 dias por uma entidade financeira ou auditora, de reconhecido prestígio, designada pelo Ministro das Finanças.
+
+5 - A reavaliação referida nos números anteriores deve ter em atenção a inflação ocorrida durante o período de vida útil dos activos já decorrido e está sujeita à aprovação do Ministro das Finanças.
+
+6 - As actuais sociedades concessionárias de distribuição regional ou titulares de licenças de distribuição local com mais de 100000 clientes devem exercer a actividade de comercialização através de sociedades autónomas a constituir por elas em regime de domínio total inicial.
+
+7 - As sociedades referidas no número anterior devem ser constituídas no prazo de um ano a contar a partir da data da entrada em vigor do presente decreto-lei.
+
+8 - Em 1 de Janeiro de 2008, passam para a titularidade das sociedades referidas no n.º 2 do artigo 67.º os contratos de fornecimento em vigor celebrados com os respectivos clientes.
+
+9 - Os contratos de fornecimento referidos no número anterior são revistos no que se refere ao preço, de acordo com o Regulamento Tarifário, a partir de 1 de Janeiro de 2008.
+
+10 - Os contratos de fornecimento referidos nos números anteriores podem ser rescindidos por qualquer das partes a partir das datas em que os respectivos clientes se tornam elegíveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 71.º — Manutenção transitória do fornecimento de gás natural
+
+1 - Até 1 de Janeiro de 2007, a TRANSGÁS é autorizada a manter os fornecimentos de gás natural às actuais concessionárias de distribuição regional e titulares das licenças de distribuição local, aos produtores de electricidade em regime ordinário e, bem assim, aos clientes com consumo anual igual ou superior a 2 milhões de metros cúbicos normais, ao abrigo do actual contrato de concessão e nos termos previstos nos respectivos contratos.
+
+2 - Até 1 de Janeiro de 2008, as actuais concessionárias de distribuição regional e titulares das licenças de distribuição local são autorizadas a manter os fornecimentos de gás natural a todos os seus clientes, ao abrigo dos actuais contratos de concessão e licenças, nos termos previstos nos respectivos contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo XIV — Disposições finais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 72.º — Derrogação relacionada com novas infra-estruturas
+
+1 - As novas infraestruturas relativas a interligações, a instalações de armazenamento subterrâneo e a terminais de GNL, bem como os aumentos significativos de capacidade nas infraestruturas existentes e as alterações das infraestruturas que permitam o desenvolvimento de novas fontes de fornecimento de gás, podem beneficiar das derrogações previstas nos termos do artigo 36.º da Diretiva n.º 2009/73/CE, do Parlamento e do Conselho, de 13 de junho, tendo em consideração o seguinte:
+
+a) Que, face ao nível de risco associado, o investimento não seria realizado se não fosse concedida a derrogação;
+
+b) Que a infraestrutura deve ser propriedade de entidade separada, pelo menos no plano jurídico, dos operadores em cujas redes a referida infraestrutura venha a ser construída, salvo nas situações de aumentos significativos de capacidade ou alterações nas infraestruturas existentes;
+
+c) Que devem ser cobradas taxas de utilização aos utilizadores dessa infra-estrutura;
+
+d) Que a derrogação não prejudica a concorrência nem o bom funcionamento do mercado interno do gás natural ou o funcionamento eficiente do sistema regulado a que está ligada a infraestrutura.
+
+2 - As derrogações previstas no número anterior podem abranger a totalidade ou parte da nova infraestrutura, ou da infraestrutura existente significativamente alterada ou ampliada, e impor condições no que se refere à duração da derrogação e ao acesso não discriminatório à infraestrutura, tendo em conta, nomeadamente, a capacidade adicional a construir ou a alteração da capacidade existente, o horizonte temporal do projeto e as necessidades do SNGN.
+
+3 - Os pedidos referentes às derrogações previstas no número anterior são dirigidos à ERSE, que envia cópia dos mesmos à Comissão Europeia imediatamente após a sua receção, acompanhada das informações referidas no n.º 8 do artigo 36.º da Diretiva n.º 2009/73/CE, do Parlamento e do Conselho, de 13 de junho.
+
+4 - As derrogações carecem de parecer prévio da DGEG e da ERSE e são concedidas pelo membro do Governo responsável pela área da energia.
+
+5 - No parecer a que se refere o número anterior, e caso este seja no sentido de conceder a derrogação requerida, a ERSE deve indicar as regras e mecanismos de gestão e atribuição de capacidade e gestão de congestionamentos, nos termos do Regulamento de Acesso às Redes, às Infraestruturas e às Interligações, devendo ser previsto que todos os potenciais utilizadores da infraestrutura em causa sejam convidados a indicar o seu interesse em contratar capacidade, incluindo capacidade para uso próprio antes da atribuição de capacidade à nova infraestrutura.
+
+6 - A decisão de derrogação e quaisquer condições a que a mesma fique sujeita devem ser devidamente justificadas e publicadas e são imediatamente notificadas à Comissão Europeia, acompanhadas do parecer da ERSE e das demais informações relevantes sobre a mesma, para que esta possa formular uma decisão bem fundamentada.
+
+7 - Ao conceder uma derrogação, o membro do Governo responsável pela área da energia deve definir, de acordo com o parecer da ERSE, as regras e os mecanismos de gestão e atribuição de capacidade, desde que tal não impeça a realização dos contratos de longo prazo.
+
+8 - A aprovação pela Comissão Europeia de uma decisão de derrogação deixa de produzir efeitos dois anos após a sua adoção, caso a construção da infraestrutura não se tenha ainda iniciado, ou cinco anos após a referida adoção, se a infraestrutura não estiver ainda operacional, salvo se a Comissão decidir que os atrasos são devidos a obstáculos relevantes, para além do controlo da entidade a quem a derrogação foi concedida.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 72.º-A — Derrogações relacionadas com falta de capacidade e necessidade de cumprimento de obrigações de serviço público
+
+1 - Os operadores das redes de transporte e de distribuição podem recusar, fundamentadamente, o acesso às respetivas redes por falta de capacidade ou no caso de esse acesso os impedir de cumprir as obrigações de serviço público previstas no Decreto-Lei n.º 30/2006, de 15 de fevereiro, e no presente decreto-lei.
+
+2 - Em caso de recusa de acesso à rede por falta de capacidade ou falta de ligação, os operadores das redes de transporte ou de distribuição devem efetuar os melhoramentos necessários, na medida em que tal seja economicamente viável, e sempre que um potencial cliente esteja interessado em pagar por isso.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 73.º — Derrogação relacionada com compromissos assumidos no âmbito de contratos de take or pay
+
+1 - Se uma empresa de gás natural se deparar, ou considerar que vem a deparar-se, com graves dificuldades económicas e financeiras devido aos compromissos inerentes a contratos de aquisição de gás em regime take or pay, celebrados antes da entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0055" title="Link para Directiva da Comunidade Europeia">2003/55/CE</a>, do Parlamento e do Conselho, de 26 de Junho, essa sociedade pode requerer ao ministro responsável pela área da energia a derrogação do acesso de terceiros, nos termos previstos no artigo 27.º da mesma directiva.
+
+2 - A derrogação solicitada nos termos do número anterior carece de parecer prévio da DGGE e da ERSE.
+
+3 - O ministro responsável pela área da energia deve verificar da razoabilidade do pedido, tendo em conta os critérios previstos no n.º 3 do mesmo artigo 27.º da Directiva e, caso o confirme, pode deferi-lo em decisão devidamente fundamentada.
+
+4 - A decisão de derrogação deve ser comunicada à Comissão Europeia acompanhada de todas as informações relevantes para que esta possa tomar posição sobre a mesma.
+
+5 - Em alternativa à decisão de derrogação, o ministro responsável pela área da energia pode decidir no sentido de facultar aos agentes do mercado a possibilidade de adquirirem gás natural dos contratos de take or pay, nas quantidades necessárias ao cumprimento dos referidos contratos, mediante leilão cujos termos são estabelecidos por portaria do ministro responsável pela área da energia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 74.º — Relatório de monitorização da segurança de abastecimento
+
+A DGGE apresenta, em 2007, ao ministro responsável pela área da energia o relatório de monitorização da segurança de abastecimento, a que se refere o n.º 2 do artigo 47.º
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 75.º — Apresentação do PDIRGN e PDIRD
+
+As primeiras propostas de PDIRGN e PDIRD, elaborados nos termos dos artigos 12.º e 12.º-A, são apresentadas até ao final dos primeiros trimestres de 2013 e 2014, respetivamente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 75.º-A — Reconhecimento mútuo
+
+1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos de permissão administrativa para as atividades de receção, armazenamento, regaseificação, armazenamento subterrâneo, transporte, distribuição, comercialização e operação de mercados de gás natural reguladas no presente decreto-lei e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+
+2 - O disposto no número anterior não é aplicável ao cumprimento das condições diretamente referentes às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 75.º-B — Validade de permissões administrativas
+
+Os registos de comercializador de gás natural, a licença de comercializador de último recurso e a autorização de gestor de mercados organizados de gás natural têm validade em todo o território de Portugal continental.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 75.º-C — Desmaterialização de procedimentos
+
+1 - Todos os pedidos, comunicações e notificações e, em geral, quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos no presente decreto-lei e respetiva legislação regulamentar relativos às atividades de receção, armazenamento, regaseificação, armazenamento subterrâneo, transporte, distribuição, comercialização, operação de mercados de gás natural e operação logística de mudança de comercializador de gás natural, excetuados os procedimentos regulatórios e sancionatórios, devem ser efetuados através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, ou da plataforma eletrónica de contratação pública, acessível através daquele balcão, conforme ao caso aplicáveis.
+
+2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 75.º-D — Cooperação administrativa
+
+As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores de serviços estabelecidos em outro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Artigo 76.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 32/91 e 33/91, ambos de 16 de Janeiro, 333/91, de 6 de Setembro, 203/97, de 8 de Agosto, 274-B/93, de 4 de Agosto, e 274-C/93, de 4 de Agosto, sem prejuízo do disposto no n.º 1 do artigo 71.º
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 77.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+Visto e aprovado em Conselho de Ministros de 22 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - António José de Castro Guerra.
+
+Promulgado em 14 de Julho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 17 de Julho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+## Anexo I — (a que se refere o n.º 1 do artigo 68.º) Bases da concessão da actividade de transporte de gás natural através da Rede Nacional de Transporte de Gás Natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo I — Disposições e princípios gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base I — Objecto da concessão
+
+1 - A concessão tem por objecto a actividade de transporte de gás natural em alta pressão, exercida em regime de serviço público, através da RNTGN.
+
+2 - Integram-se no objecto da concessão:
+
+a) O recebimento, o transporte e a entrega de gás natural em alta pressão;
+
+b) A operação, a exploração e a manutenção de todas as infra-estruturas que integram a RNTGN e das interligações às redes a que esteja ligada e, bem assim, das instalações necessárias para a sua operação.
+
+3 - Integram-se ainda no objecto da concessão:
+
+a) O planeamento, o desenvolvimento, a expansão e a gestão técnica da RNTGN e a construção das respectivas infra-estruturas e, bem assim, das instalações necessárias para a sua operação;
+
+b) A gestão da interligação da RNTGN com a rede internacional de transporte de alta pressão e da ligação com as infra-estruturas de armazenamento subterrâneo e com os terminais de GNL;
+
+c) A gestão técnica global do SNGN;
+
+d) O planeamento da RNTIAT e da utilização das respetivas infraestruturas, através da elaboração do plano decenal indicativo do desenvolvimento e investimento da RNTIAT (PDIRGN);
+
+e) O controlo da constituição e da manutenção das reservas de segurança de gás natural.
+
+f) A elaboração, para os médio e longo prazos, de estudos de planeamento integrado de recursos, de estudos prospetivos sobre o equilíbrio oferta-procura e de relatórios de monitorização da segurança do abastecimento nos médio e longo prazos (RMSA);
+
+g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigações decorrentes da legislação aplicável, designadamente, os relacionados com a elaboração e atualização da análise de risco de aprovisionamento de gás natural ao SNGN, bem como os necessários para a elaboração e execução de planos preventivos de ação e de emergência, quer ao nível nacional, quer ao nível regional, para fazer face a crises do aprovisionamento.
+
+4 - A concessionária deve elaborar e apresentar ao concedente, nos termos previstos no contrato de concessão e de forma articulada com o PDIRGN, o plano de investimentos na RNTGN.
+
+5 - A concessionária é desde já autorizada, nos termos do número anterior, a explorar, directa ou indirectamente, ou a ceder a exploração da capacidade excedentária da rede de telecomunicações instalada para a operação da RNTGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base II — Âmbito e exclusividade da concessão
+
+1 - Sem prejuízo do disposto no número seguinte, a concessão tem como âmbito geográfico todo o território do continente e é exercida em regime de exclusivo, sem prejuízo do direito de acesso de terceiros às várias infra-estruturas que a integram nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis.
+
+2 - As actividades referidas nas alíneas c) e e) do n.º 3 da base anterior abrangem todo o território nacional, sem prejuízo das competências e dos poderes das autoridades regionais.
+
+3 - O regime de exclusivo referido no n.º 1 pode ser alterado em conformidade com a política energética aprovada pela União Europeia e aplicável ao Estado Português.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base III — Prazo da concessão
+
+1 - O prazo da concessão é fixado no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respectivo contrato.
+
+2 - A concessão pode ser renovada se o interesse público assim o justificar e a concessionária tiver cumprido as suas obrigações legais e contratuais.
+
+3 - A intenção de renovação da concessão deve ser comunicada à concessionária pelo concedente com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IV — Serviço público
+
+1 - A concessionária deve desempenhar as actividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no sector do gás com vista a garantir, designadamente, a segurança do abastecimento e a de pessoas e bens.
+
+2 - Com o objectivo de assegurar a permanente adequação da concessão às exigências da regularidade, da continuidade e da eficiência do serviço público, o concedente reserva-se o direito de alterar, por via legal ou regulamentar, as condições da sua exploração.
+
+3 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base XXXVI, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base V — Direitos e obrigações da concessionária
+
+1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
+
+2 - A concessionária obriga-se, em particular, a respeitar as disposições legais em matéria de certificação pela ERSE, nos termos e condições previstos nos artigos 21.º-A a 21.º-F do Decreto-Lei n.º 30/2006, de 15 de fevereiro, e nas normas que as venham a regulamentar, bem como a substituir, e a assegurar que praticará todos os atos e diligências necessários, nomeadamente, prestando toda a informação e documentação relevante ou que lhe seja solicitada pelo concedente ou pela ERSE, com vista a garantir a obtenção e a manutenção da referida certificação.
+
+3 - O não cumprimento das obrigações previstas no número anterior constitui incumprimento do contrato de concessão, incluindo para efeitos do disposto na base xxxviii.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base VI — Princípios aplicáveis às relações com os utilizadores da RNTGN
+
+1 - A concessionária deve proporcionar aos utilizadores da RNTGN, de forma não discriminatória e transparente, o acesso às respectivas infra-estruturas, nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos, ou ainda de condicionalismos de natureza contratual desde que aceites pela ERSE.
+
+3 - A concessionária fica obrigada a disponibilizar serviços de sistema aos utilizadores da RNTGN, nomeadamente através de mecanismos eficientes de compensação de desvios, assegurando a respetiva liquidação, no respeito pelos regulamentos aplicáveis.
+
+4 - A concessionária deve, ainda, facultar aos utilizadores da RNTIAT as informações de que estes necessitem para o acesso às respetivas infraestruturas.
+
+5 - A concessionária deve assegurar o tratamento de dados de utilização da RNTIAT no respeito pelas disposições legais de proteção de dados pessoais e preservar a confidencialidade das informações comercialmente sensíveis obtidas no seu relacionamento com os utilizadores.
+
+6 - A concessionária deve manter um registo das queixas ou reclamações que lhe tenham sido apresentadas pelos utilizadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo II — Bens e meios afectos à concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VII — Bens e meios afectos à concessão
+
+1 - Consideram-se afectos à concessão os bens que constituem a RNTGN, designadamente:
+
+a) O conjunto de gasodutos de alta pressão para transporte de gás natural em território nacional, com as respectivas tubagens e antenas;
+
+b) As instalações afectas à compressão, ao transporte e à redução de pressão para entrega às redes de distribuição ou a clientes finais, incluindo todo o equipamento de controlo, regulação e medida indispensável à operação e funcionamento do sistema de transporte de gás natural e os postos de redução de pressão de 1.ª classe, nos quais se concretiza a ligação com as redes de distribuição ou com clientes finais;
+
+c) (Revogada).
+
+d) As instalações e os equipamentos de telecomunicações, telemedida e telecomando afectos à gestão de todas as instalações de recepção, transporte e entrega de gás natural;
+
+e) As instalações e os equipamentos necessários à gestão técnica global do SNGN;
+
+f) As cadeias de medida, incluindo os equipamentos de telemetria instalados nas instalações dos utilizadores da RNTGN.
+
+2 - Consideram-se ainda afectos à concessão:
+
+a) Os imóveis pertencentes à concessionária em que estejam implantados os bens referidos no número anterior, assim como as servidões constituídas em benefício da concessão;
+
+b) Os bens móveis ou direitos relativos a bens imóveis utilizados ou relacionados com o exercício da actividade objecto da concessão;
+
+c) Os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular;
+
+d) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrigações da concessionária, por força de obrigação emergente da lei ou do contrato de concessão e enquanto durar essa vinculação;
+
+e) As relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base VIII — Inventário do património
+
+1 - A concessionária deve elaborar e manter permanentemente actualizado e à disposição do concedente um inventário do património afecto à concessão.
+
+2 - No inventário a que se refere o número anterior devem ser mencionados os ónus ou encargos que recaem sobre os bens afectos à concessão.
+
+3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base X.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IX — Manutenção dos bens afectos à concessão
+
+1- A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança os bens e meios afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
+
+2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-las com antecedência razoável aos utilizadores afetados pelas mesmas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base X — Regime de oneração e transmissão dos bens afectos à concessão
+
+1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
+
+2 - Os bens e direitos que tenham perdido utilidade para a concessão são abatidos ao inventário referido na base VIII, mediante prévia autorização do concedente, que se considera concedida se este não se opuser no prazo de 30 dias contados da recepção do pedido.
+
+3 - A oneração ou transmissão de bens imóveis afectos à concessão fica sujeita a autorização do ministro responsável pela área da energia.
+
+4 - A oneração ou transmissão de bens e direitos afectos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respectivos actos ou contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XI — Posse e propriedade dos bens
+
+1 - A concessionária detém a posse e propriedade dos bens afectos à concessão até à extinção desta.
+
+2 - Com a extinção da concessão, os bens a ela afectos transferem-se para o concedente nos termos previstos nas presentes bases e no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo III — Sociedade concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XII — Objecto social, sede e acções da sociedade
+
+1 - O projecto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do ministro responsável pela área da energia.
+
+2 - A sociedade concessionária deve ter como objecto social principal, ao longo de todo o período de duração da concessão, o exercício das actividades integradas no objecto da concessão, devendo manter ao longo do mesmo período a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
+
+3 - O objecto social da concessionária pode incluir o exercício de outras actividades para além das que integram o objecto da concessão e, bem assim, a participação no capital de outras sociedades desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao sector do gás natural.
+
+4 - Todas as acções representativas do capital social da concessionária são obrigatoriamente nominativas.
+
+5 - A oneração e a transmissão de ações representativas do capital social da concessionária depende, sob pena de nulidade, de autorização prévia do concedente, através do membro do Governo responsável pela área da energia, a qual não pode ser infundadamente recusada e se considera tacitamente concedida se não for recusada, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
+
+6 - Exceptua-se do disposto no número anterior a oneração de acções efectuada em benefício das entidades financiadoras da actividade que integra o objecto da concessão e no âmbito dos contratos de financiamento que venham a ser celebrados pela concessionária para o efeito desde que as entidades financiadoras assumam, nos referidos contratos, a obrigação de obter a autorização prévia do concedente em caso de execução das garantias de que resulte a transmissão a terceiros das acções oneradas.
+
+7 - A oneração de acções referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e, bem assim, informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XIII — Deliberações da concessionária e acordos entre accionistas
+
+1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do ministro responsável pela área da energia, as deliberações da concessionária relativas à alteração do objecto social e à transformação, fusão, cisão ou dissolução da sociedade.
+
+2 - Os acordos parassociais celebrados entre os accionistas da concessionária, bem como as respectivas alterações, devem ser objecto de aprovação prévia pelo concedente, dada através do ministro responsável pela área da energia.
+
+3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XIV — Financiamento
+
+1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objecto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
+
+2 - Para os efeitos do disposto no número anterior, a concessionária deve manter no final de cada ano um rácio de autonomia financeira superior a 20%.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo IV — Construção, planeamento, remodelação e expansão das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XV — Projectos
+
+1 - A construção e a exploração das infra-estruturas da RNTGN ficam sujeitas à aprovação dos respectivos projectos nos termos da legislação aplicável.
+
+2 - A concessionária é responsável, no respeito pelas legislação e regulamentação aplicáveis, pela concepção, pelo projecto e pela construção de todas as infra-estruturas e instalações da RNTGN, incluindo as necessárias à remodelação e à expansão da RNTGN.
+
+3 - A aprovação de quaisquer projetos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de conceção, de projeto ou da inadequação das instalações e do equipamento ao serviço da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XVI — Direitos e deveres decorrentes da aprovação dos projectos
+
+1 - A aprovação dos respectivos projectos confere à concessionária, nomeadamente, os seguintes direitos:
+
+a) Utilizar, de acordo com a legislação aplicável, os bens do domínio público ou privado do Estado e de outras pessoas colectivas públicas para o estabelecimento ou passagem das infra-estruturas ou instalações integrantes da RNTGN;
+
+b) Constituir, nos termos da legislação aplicável, as servidões sobre os imóveis necessários ao estabelecimento das infra-estruturas ou instalações integrantes da RNTGN;
+
+c) Proceder à expropriação, por utilidade pública e urgente, nos termos da legislação aplicável, dos bens imóveis ou dos direitos a eles relativos necessários ao estabelecimento das infra-estruturas ou das instalações integrantes da RNTGN.
+
+2 - As licenças e autorizações exigidas por lei para a exploração das infra-estruturas da RNTGN consideram-se outorgadas à concessionária com a aprovação dos respectivos projectos, sem prejuízo da verificação por parte das entidades licenciadoras da conformidade na sua execução.
+
+3 - Cabe à concessionária o pagamento das indemnizações decorrentes do exercício dos direitos referidos no n.º 1.
+
+4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVII — Planeamento, remodelação e expansão da RNTGN
+
+1 - O planeamento da RNTGN deve ser coordenado com o planeamento da RNTIAT e da RNDGN, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+2 - Constitui encargo e responsabilidade da concessionária o planeamento, a remodelação, o desenvolvimento e a expansão da RNTGN, com vista a assegurar a existência permanente de capacidade nas infra-estruturas que a integram.
+
+3 - A concessionária deve observar na remodelação e na expansão da RNTGN os prazos de execução adequados à permanente satisfação das necessidades do abastecimento de gás natural, identificadas no PDIRGN.
+
+4 - A concessionária deve elaborar e apresentar ao concedente, nos termos previstos no contrato de concessão e de forma articulada com o PDIRGN, o plano de investimentos na RNTGN.
+
+5 - Por razões de interesse público, nomeadamente as relativas à segurança, à regularidade e à qualidade do abastecimento, o concedente pode determinar a remodelação ou a expansão da RNTGN, nos termos fixados no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo V — Exploração das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVIII — Condições de exploração
+
+1 - A concessionária é responsável pela exploração e pela manutenção das infraestruturas que integram a RNTGN e respetivas instalações em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
+
+2 - A concessionária deve assegurar-se de que o gás natural a transportar na RNTGN cumpre as características técnicas e as especificações de qualidade estabelecidas e que o seu transporte é efectuado em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
+
+3 - Cabe à concessionária assegurar a oferta de capacidade a longo prazo da RNTGN, contribuindo para a segurança do abastecimento, nos termos do PDIRGN.
+
+4 - A concessionária deve elaborar e apresentar ao concedente, nos termos previstos no contrato de concessão e de forma articulada com o PDIRGN, o plano de investimentos na RNTGN.
+
+5 - No âmbito do exercício da atividade concessionada, a concessionária deve gerir os fluxos de gás natural, assegurando a sua interoperacionalidade com as redes e demais infraestruturas a que esteja ligada, no respeito pela regulamentação aplicável.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XIX — Informação
+
+A1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos no n.º 4 da base i que o concedente entenda dever solicitar-lhe, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia e, em particular, os obtidos no âmbito do exercício da atividade de gestão técnica global do SNGN, nos termos da base xxvii-A.
+
+2 - As informações e documentos solicitados pelo concedente devem ser fornecidos no prazo de 10 dias úteis, salvo se pelo concedente for fixado um prazo diferente, mediante decisão fundamentada.
+
+3 - A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido do concedente, no prazo por este fixado, constitui incumprimento do contrato de concessão, designadamente para efeitos do disposto na base xxxviii.
+
+4 - A concessionária deve fornecer ao operador de qualquer outra rede com a qual esteja ligada e aos intervenientes do SNGN as informações necessárias para permitir um desenvolvimento coordenado das diversas redes e um funcionamento seguro e eficiente do SNGN.
+
+5 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei aplicável.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XX — Participação de desastres e acidentes
+
+1 - A concessionária é obrigada a participar imediatamente à DGGE todos os desastres e acidentes ocorridos nas suas instalações.
+
+2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXI — Ligação dos utilizadores à RNTGN
+
+1 - A ligação dos utilizadores à RNTGN, quer nos pontos de recepção quer nos postos de redução de pressão e entrega às redes com as quais esteja ligada ou a clientes finais, faz-se nas condições previstas nos regulamentos aplicáveis.
+
+2 - A concessionária pode recusar, fundamentadamente, o acesso às suas infra-estruturas com base na respectiva falta de capacidade ou de ligação ou se esse acesso a impedir de cumprir as suas obrigações de serviço público.
+
+3 - A concessionária pode ainda recusar a ligação dos utilizadores à RNTGN sempre que as instalações e os equipamentos de entrega ou recepção daqueles não preencham as disposições legais e regulamentares aplicáveis, nomeadamente as respeitantes aos requisitos técnicos e de segurança.
+
+4 - A concessionária pode impor aos utilizadores da RNTGN, sempre que o exijam razões de segurança, a substituição, a reparação ou a adaptação dos respectivos equipamentos de ligação.
+
+5 - A concessionária tem o direito de montar nas instalações dos utilizadores equipamentos para a recolha de dados e para a realização de operações de telecomando e de telecomunicação, bem como sistemas de protecção nos pontos de ligação da sua rede com as instalações daquelas entidades, e de aceder aos equipamentos de medição do gás dos utilizadores ligados às suas instalações.
+
+6 - Os utilizadores devem prestar à concessionária todas as informações que esta considere necessárias à ligação dos utilizadores à RNTGN e à correcta exploração das respectivas infra-estruturas e instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXII — Interrupção por facto imputável ao utilizador
+
+1 - A concessionária pode interromper a prestação do serviço público concessionado aos utilizadores nos termos da regulamentação aplicável e nomeadamente nos seguintes casos:
+
+a) Alteração não autorizada do funcionamento de equipamentos ou sistemas de ligação à RNTGN que ponha em causa a segurança ou a regularidade da entrega;
+
+b) Incumprimento grave dos regulamentos aplicáveis ou, em caso de emergência, das suas ordens e instruções;
+
+c) Incumprimento de obrigações contratuais pelo cliente final, designadamente em caso de falta de pagamento a qualquer comercializador de gás natural, incluindo o comercializador de último recurso.
+
+2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos utilizadores da RNTGN que causem perturbações que afectem a qualidade do serviço prestado, quando, uma vez identificadas as causas perturbadoras, os utilizadores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIII — Interrupções por razões de interesse público ou de serviço
+
+1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência, declarada ao abrigo de legislação específica.
+
+2 - As interrupções das actividades objecto da concessão por razões de serviço num determinado ponto de entrega têm lugar quando haja necessidade imperiosa de realizar manobras ou trabalhos de ligação, reparação ou conservação das instalações, desde que tenham sido esgotadas todas as possibilidades alternativas.
+
+3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores da RNTGN que possam vir a ser afectados com a antecedência mínima de trinta e seis horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das infra-estruturas e instalações do SNGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIV — Medidas de protecção
+
+1 - Sem prejuízo das medidas de emergência que podem ser adotadas pelo concedente, se se verificar uma situação que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
+
+2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGGE, às respectivas autoridades concelhias, à autoridade policial da zona afectada e, se for caso disso, ao Serviço Nacional de Protecção Civil.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXV — Responsabilidade civil
+
+1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da actividade objecto da concessão.
+
+2 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das infra-estruturas e instalações integradas na concessão é feita no exclusivo interesse da concessionária.
+
+3 - A concessionária fica obrigada à constituição de um seguro de responsabilidade civil para cobertura dos danos materiais e corporais causados a terceiros e resultantes do exercício da respectiva actividade, cujo montante mínimo obrigatório é fixado por portaria do ministro responsável pela área da energia e actualizável de três em três anos.
+
+4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da actualização referida no número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVI — Cobertura por seguros
+
+1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
+
+2 - Para além dos seguros referidos na base anterior e no número anterior, a concessionária deve assegurar a existência e a manutenção em vigor das apólices de seguro necessárias para garantir uma efetiva cobertura dos riscos da concessão.
+
+3 - No âmbito da obrigação referida no número anterior, a concessionária fica obrigada a constituir seguros envolvendo todas as infra-estruturas e instalações que integram a RNTGN contra riscos de incêndio, explosão e danos devido a terramoto ou a temporal, nos termos fixados no contrato de concessão.
+
+4 - O disposto nos números anteriores pode ser objecto de regulamentação pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VI — Gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVII — Gestão técnica global do SNGN
+
+1 - No âmbito da gestão técnica global do SNGN, a concessionária deve proceder à coordenação sistémica das infraestruturas que constituem o SNGN, por forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e a continuidade do abastecimento de gás natural nos curto, médio e longo prazos, mediante o exercício das seguintes funções:
+
+a) Gestão técnica do sistema, a qual integra a programação e monitorização constante do equilíbrio entre a oferta e a procura global de gás natural, o seguimento da utilização da capacidade oferecida e a realização dos serviços de sistema necessários para operacionalizar o acesso de terceiros às infraestruturas com os níveis de qualidade e segurança adequados;
+
+b) Monitorização da constituição e manutenção das reservas de segurança de gás natural e participação na gestão e execução das medidas decorrentes dos planos preventivos de ação e de emergência aplicáveis em caso de emergência do aprovisionamento de gás natural, sob coordenação da DGEG;
+
+c) Planeamento energético e segurança do abastecimento, através do desenvolvimento de estudos de planeamento integrado de recursos energéticos e identificação das condições necessárias à segurança do abastecimento futuro dos consumos de gás natural a nível da oferta, tendo em conta as interações entre o SEN e o SNGN e as linhas de orientação da política energética nacional, estudos esses que constituem referência para a função de Planeamento da RNTIAT e para a operação futura do sistema, bem como através da colaboração com a DGEG, nos termos da lei, na preparação dos RMSA;
+
+d) Planeamento da RNTIAT, designadamente no que respeita ao planeamento das necessidades de renovação e expansão da rede nacional de transporte de gás natural (RNTGN), das infraestruturas de descarga, armazenamento e regaseificação de GNL, e das infraestruturas de armazenamento subterrâneo, tendo em vista o desenvolvimento adequado da sua capacidade e a melhoria da qualidade de serviço, de acordo com as orientações da política energética nacional e europeia aplicáveis, e, em particular, através da preparação do PDIRGN.
+
+2 - Todos os operadores que exerçam qualquer das actividades que integram o SNGN e, bem assim, os seus utilizadores ficam sujeitos à gestão técnica global do SNGN.
+
+3 - São direitos da concessionária no âmbito da gestão técnica global do SNGN, nomeadamente:
+
+a) Supervisionar a actividade dos operadores e utilizadores do SNGN e coordenar as actividades dos operadores da RNTIAT;
+
+b) Exigir aos titulares dos direitos de exploração das infra-estruturas e instalações a informação necessária para o correcto funcionamento do sistema;
+
+c) Exigir aos terceiros com direito de acesso às infra-estruturas e instalações a comunicação dos seus planos de aprovisionamento e consumo e de qualquer circunstância que possa fazer variar substancialmente os planos comunicados;
+
+d) Exigir o estrito cumprimento das instruções que emita para a correcta exploração do sistema, a manutenção das instalações e a adequada cobertura da procura;
+
+e) Coordenar os planos de manutenção das infra-estruturas da RNTIAT, procedendo aos ajustes necessários à garantia da segurança do abastecimento;
+
+f) Receber adequada retribuição pelos serviços prestados.
+
+4 - Sem prejuízo do disposto na legislação e regulamentação aplicáveis, são obrigações da concessionária no exercício da referida função, nomeadamente:
+
+a) Actuar nas suas relações com os operadores e utilizadores do SNGN de forma transparente e não discriminatória;
+
+b) Informar sobre a viabilidade de acesso solicitado por terceiros às infra-estruturas da RNTIAT;
+
+c) Informar a DGEG, a ERSE e os operadores do SNGN, com periodicidade trimestral, sobre a capacidade disponível da RNTIAT, e em particular, dos pontos de acesso ao sistema, e sobre o quantitativo das reservas a constituir;
+
+d) Monitorizar e reportar à ERSE a efetiva utilização das infraestruturas da RNTIAT, com o objetivo de identificar a constituição abusiva de reservas de capacidade;
+
+e) Desenvolver protocolos de comunicação com os diferentes operadores do SNGN, com vista a criar um sistema de comunicação integrado para controlo e supervisão das operações da SNGN e atuar como coordenador do mesmo;
+
+f) Emitir instruções sobre as operações de transporte, incluindo o trânsito no território continental, de forma a assegurar a entrega de gás em condições adequadas e eficientes nos pontos de saída da rede de transporte, em conformidade com protocolos de atuação e de operação a estabelecer;
+
+g) Gerir os fluxos de gás natural na rede de transporte, de acordo com as solicitações dos agentes de mercado, em coordenação com os operadores das restantes infraestruturas do SNGN, garantindo a sua operação coerente no quadro da gestão técnica global do SNGN;
+
+h) Monitorizar a utilização da capacidade das infraestruturas do SNGN e monitorizar o nível de reservas necessárias à garantia de segurança de abastecimento nos curto e médio prazos;
+
+i) Determinar e verificar as quantidades mínimas de gás que cada agente de mercado deve possuir nas infraestruturas, de modo a garantir as condições mínimas exigíveis ao bom funcionamento do sistema e em respeito pela regulamentação do setor;
+
+j) Verificar tecnicamente a viabilidade da operação do SNGN, após recebidas as informações relativas às programações e nomeações e respetiva validação;
+
+l) Realizar o balanço residual do sistema de transporte em complemento da utilização real de capacidade por parte dos diversos agentes de mercado, de modo a garantir a continuidade da operação dentro dos parâmetros aceitáveis de qualidade e segurança;
+
+m) Gerir os congestionamentos nas infraestruturas, incluindo as interligações com outros sistemas internacionais de transporte de gás natural, de acordo com os mecanismos previstos na regulamentação em vigor;
+
+n) Em conjunto com o operador da rede de transporte interligada, promover o funcionamento harmonioso do sistema ibérico de gás natural, maximizando a capacidade disponível nos pontos de interligação entre sistemas e facilitando o funcionamento do mercado de forma transparente e não discriminatória;
+
+o) Coordenar os fluxos de informação entre os diversos agentes com vista à gestão integrada das infraestruturas do sistema de gás natural, nomeadamente os processos associados às programações e às nomeações;
+
+p) Proceder às repartições e balanços associados ao uso das infraestruturas, bem como à determinação das existências dos agentes de mercado nas infraestruturas, permitindo identificar desequilíbrios e assegurar a sua resolução;
+
+q) Proceder às liquidações financeiras associadas às transações efetuadas no âmbito da respetiva atividade;
+
+r) Divulgar, de forma célere e não discriminatória, informação sobre factos suscetíveis de influenciar o regular funcionamento do mercado ou a formação dos preços,
+
+s) Desenvolver, com a regularidade imposta pela legislação aplicável e pela concessão, os estudos necessários à preparação de elementos prospetivos de referência sobre a evolução, nos médio e longo prazos, do mix de oferta gás natural/GNL e da adequação da oferta de capacidade das infraestruturas do SNGN no mesmo quadro de referência;
+
+t) Colaborar com a DGEG na preparação dos RMSA;
+
+u) Seguir a evolução do padrão e da taxa de utilização global de capacidade ao longo do sistema de transporte e em todos os pontos relevantes e elaborar em consonância os estudos com a identificação das medidas necessárias para evitar em tempo útil a ocorrência de potenciais situações de congestionamento, de modo a possibilitar a eliminação de restrições que prejudiquem o bom funcionamento do SNGN;
+
+v) Desenvolver, com a regularidade necessária, os estudos de suporte ao planeamento das necessidades de renovação e expansão da RNTGN;
+
+x) Preparar, de acordo com a legislação aplicável, o PDIRGN;
+
+z) Desenvolver e manter atualizadas as metodologias e os modelos necessários à obtenção da informação de base e à realização dos estudos, relatórios e planos referidos nas alíneas anteriores.
+
+5 - A concessionária deve sempre dispor, na área da concessão conforme prevista no n.º 1 da base ii, dos meios e recursos técnicos e humanos apropriados, incluindo no plano dos sistemas de informação, bem como ter disponíveis os recursos financeiros necessários em cada momento para aquele efeito, de modo a assegurar, de acordo com elevados padrões de qualidade, a prossecução das funções e o cumprimento das obrigações a que se referem os números anteriores e a recolha, tratamento e disponibilização da informação prevista na base seguinte.
+
+6 - O exercício da atividade de gestão técnica global do SNGN desenvolve-se nos termos da legislação e regulamentação aplicáveis, designadamente, do Regulamento de Relações Comerciais, do Regulamento de Operação das Infraestruturas, do Regulamento do Acesso às Redes, às Infraestruturas e às Interligações e do Regulamento da RNTGN, e do contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXVII-A — Informações no âmbito da gestão técnica global do SNGN
+
+1 - A concessionária deve proceder à elaboração, recolha, tratamento e conservação de todas as informações e documentos relevantes para o exercício da atividade de gestão técnica global do SNGN, em termos proporcionais às exigências do cumprimento das suas funções, e deve proceder à sua gestão em termos transparentes, não discriminatórios e de forma não abusiva.
+
+2 - As informações e documentos a que se refere o número anterior dizem respeito, designadamente, às seguintes matérias:
+
+a) Caracterização técnica e da operação do SNGN, incluindo o acesso de terceiros às infraestruturas e a qualidade de serviço;
+
+b) Previsões de curto, médio e longo prazos sobre a evolução da oferta de energia e o equilíbrio entre a procura de gás natural e as respetivas infraestruturas de oferta;
+
+c) Análise da utilização e a determinação das necessidades prospetivas de oferta de capacidade das infraestruturas da RNTIAT;
+
+d) Elementos relativos ao PDIRGN;
+
+e) Elementos relativos ao RMSA;
+
+f) Elementos do âmbito da gestão técnica global do SNGN necessários para a preparação da análise de risco e dos planos preventivos de ação e de emergência previstos na regulamentação sobre segurança do aprovisionamento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXVIII — Planeamento da RNTIAT
+
+1 - O planeamento da RNTIAT deve ser efetuado de modo a assegurar a existência de capacidade das infraestruturas e o desenvolvimento sustentado e eficiente da rede e deve ser devidamente coordenado com o planeamento das infraestruturas e das instalações com que se interliga.
+
+2 - Para efeitos do planeamento previsto no número anterior, devem ser elaborados pela concessionária e entregues à DGEG os seguintes documentos:
+
+a) Caracterização da RNTIAT, que deve conter informação técnica que permita conhecer a situação das redes e restantes infraestruturas, designadamente as capacidades nos vários pontos da rede, a capacidade de armazenamento e dos terminais de GNL, assim como o seu grau de utilização;
+
+b) PDIRGN, que tenha em consideração os planos quinquenais de desenvolvimento e investimento das redes de distribuição (PDIRD) elaborados no ano par anterior pelos operadores da RNDGN, observando, para além de critérios de racionalidade económica, as orientações de política energética, designadamente o que se encontrar definido relativamente à capacidade e ao tipo das infraestruturas de entrada de gás natural no sistema, as perspetivas de desenvolvimento dos setores de maior e mais intenso consumo, as conclusões e recomendações contidas nos relatórios de monitorização, os padrões de segurança para planeamento das redes e as exigências técnicas e regulamentares.
+
+3 - A caracterização da RNTIAT e a proposta de PDIRGN devem ser submetidas pela concessionária à DGEG, com a periodicidade de dois anos, até ao final do primeiro trimestre de cada ano ímpar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXIX — Colaboração na monitorização da segurança do abastecimento
+
+A concessionária da RNTGN deve colaborar com o Governo, através da DGGE, na promoção das condições de garantia e segurança do abastecimento de gás natural do SNGN e respectiva monitorização, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXX — Controlo da constituição e manutenção das reservas de segurança
+
+1 - Constitui obrigação da concessionária controlar a constituição, a manutenção e a libertação das reservas de segurança de gás natural, de forma transparente e não discriminatória, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+2 - A concessionária da RNTGN deve enviar à DGGE, até ao dia 15 de cada mês, as informações referentes ao mês anterior relativas às quantidades constituídas em reservas, à sua localização e aos respectivos titulares.
+
+3 - A concessionária da RNTGN deve reportar à DGGE as situações verificadas de incumprimento das obrigações de constituição e manutenção de reservas de segurança.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VII — Garantias e fiscalização do cumprimento das obrigações da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXI — Caução
+
+1 - Para garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução no valor de (euro) 10000000.
+
+2 - O concedente pode utilizar a caução sempre que a concessionária não cumpra qualquer obrigação assumida no contrato de concessão.
+
+3 - O recurso à caução é precedido de despacho do ministro responsável pela área da energia, não dependendo de qualquer outra formalidade ou de prévia decisão judicial ou arbitral.
+
+4 - Sempre que o concedente utilize a caução, a concessionária deve proceder à reposição do seu montante integral no prazo de 30 dias a contar a partir da data daquela utilização.
+
+5 - O valor da caução é actualizado de três em três anos de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística.
+
+6 - A caução só pode ser levantada pela concessionária um ano após a data da extinção do contrato de concessão, ou antes de decorrido aquele prazo por determinação expressa do concedente, através do ministro responsável pela área da energia, mas sempre após a extinção da concessão.
+
+7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma, à primeira solicitação, cujo texto deve ser previamente aprovado pela DGGE.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXII — Supervisão, acompanhamento e fiscalização
+
+1 - Sem prejuízo das competências atribuídas a outras entidades, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades públicas, cabe à ERSE o exercício dos poderes de regulação das actividades que integram o objecto da concessão, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+3 - Para efeitos do disposto no n.º 1 e sempre que exista motivo atendível, o concedente pode, nomeadamente:
+
+a) Inquirir os representantes legais e quaisquer colaboradores da concessionária, bem como solicitar-lhes os documentos e outros elementos de informação que entenda necessários ou convenientes;
+
+b) Aceder livremente às instalações da concessionária e proceder à busca, exame, tratamento e recolha de cópias ou extratos dos documentos e outras informações na posse da concessionária que julgue necessários ou convenientes, incluindo através dos respetivos sistemas de informação;
+
+c) Requerer à concessionária a realização dos estudos, testes ou simulações, incluindo com recurso aos respetivos sistemas de informação, que se enquadrem no exercício das funções da concessionária, bem como acompanhar e participar ativamente na sua preparação e realização, designadamente no âmbito da definição dos princípios de base da política energética;
+
+d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos poderes de supervisão, acompanhamento e fiscalização.
+
+4 - O concedente pode recorrer a entidades terceiras devidamente qualificadas para a prestação de assistência técnica que repute conveniente no âmbito do exercício das funções de supervisão, acompanhamento e fiscalização da concessão, as quais gozam dos poderes referidos no número anterior após comunicação à concessionária para o efeito.
+
+5 - A concessionária deve facilitar o exercício dos poderes atribuídos às entidades fiscalizadora e reguladora, nomeadamente prestando todas as informações e fornecendo todos os documentos que lhe forem solicitados por essas entidades no âmbito das respetivas competências, bem como permitindo o livre acesso do pessoal das referidas entidades devidamente credenciado e no exercício das suas funções a todas as suas instalações.
+
+6 - A concessionária deve constituir e manter um seguro de acidentes pessoais, de montante a definir no contrato de concessão, de modo a cobrir os riscos inerentes ao exercício pelo pessoal das entidades fiscalizadora e reguladora das suas funções nas instalações da concessionária.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VIII — Modificações objectivas e subjectivas da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIII — Alteração do contrato de concessão
+
+1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respectivo equilíbrio económico e financeiro, nos termos previstos na base XXXVI.
+
+2 - O contrato de concessão pode também ser alterado por força de disposição legal imperativa, designadamente decorrente das políticas energéticas aprovadas pela União Europeia e aplicáveis ao Estado Português.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIV — Transmissão e oneração da concessão
+
+1 - A concessionária não pode, sem prévia autorização do concedente, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
+
+2 - É equiparada à transmissão da concessão a alienação de ações que resulte na constituição ou modificação de uma relação de domínio sobre a concessionária, conforme definido no artigo 21.º do Código dos Valores Mobiliários, ou em norma que o venha a substituir.
+
+3 - Os atos praticados ou os contratos celebrados em violação do disposto nos números anteriores são nulos e desprovidos de quaisquer efeitos jurídicos, sem prejuízo de outras sanções aplicáveis.
+
+4 - No caso de subconcessão ou de trespasse, a concessionária deverá comunicar ao concedente a sua intenção de proceder à subconcessão ou ao trespasse, remetendo-lhe a minuta do respectivo contrato de subconcessão ou de trespasse que se propõe assinar e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do subconcessionário ou do trespassário.
+
+5 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações decorrentes do contrato de concessão.
+
+6 - Ocorrendo trespasse da concessão, consideram-se transmitidos para o trespassário todos os direitos e obrigações da concessionária, assumindo aquele ainda os deveres, obrigações e encargos que eventualmente venham a ser-lhe impostos pelo concedente como condição para a autorização do trespasse.
+
+7 - A concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse, em termos em que não seja afectada ou interrompida a prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo IX — Condição económica e financeira da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXV — Equilíbrio económico e financeiro da concessão
+
+1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
+
+2 - O equilíbrio económico e financeiro baseia-se no reconhecimento dos custos de investimento, de operação e de manutenção e na adequada remuneração dos activos afectos à concessão.
+
+3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVI — Reposição do equilíbrio económico e financeiro
+
+1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio económico e financeiro da concessão nos seguintes casos:
+
+a) Modificação unilateral, imposta pelo concedente, das condições de exploração da concessão, nos termos previstos nos n.os 2 e 3 da base IV, desde que, em resultado directo da mesma, se verifique, para a concessionária, um determinado aumento de custos ou uma determinada perda de receitas e esta não possa legitimamente proceder a tal reposição por recurso aos meios resultantes de uma correcta e prudente gestão;
+
+b) Alterações legislativas que tenham um impacte directo sobre as receitas ou custos respeitantes às actividades integradas na concessão.
+
+2 - Nos casos previstos no número anterior, a concessionária apenas tem direito à reposição do equilíbrio económico e financeiro da concessão na medida em que o impacte sobre os proveitos ou custos não seja suscetível de consideração no âmbito da atividade reguladora.
+
+3 - Os parâmetros, termos e critérios da reposição do equilíbrio económico e financeiro da concessão são fixados no contrato de concessão.
+
+4 - Sempre que haja lugar à reposição do equilíbrio económico e financeiro da concessão, tal reposição pode ter lugar através de uma das seguintes modalidades:
+
+a) Prorrogação do prazo da concessão;
+
+b) Revisão do cronograma ou redução das obrigações de investimento previamente aprovadas;
+
+c) Atribuição de compensação directa pelo concedente;
+
+d) Combinação das modalidades anteriores ou qualquer outra forma que seja acordada.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo X — Incumprimento do contrato de concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVII — Responsabilidade da concessionária por incumprimento
+
+1 - A violação pela concessionária de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
+
+2 - A responsabilidade da concessionária cessa sempre que ocorra caso de força maior, ficando a seu cargo fazer prova da ocorrência.
+
+3 - Consideram-se unicamente casos de força maior os acontecimentos imprevisíveis e irresistíveis cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da concessionária.
+
+4 - Constituem, nomeadamente, casos de força maior actos de guerra, hostilidades ou invasão, terrorismo, epidemias, radiações atómicas, graves inundações, raios, ciclones, tremores de terra e outros cataclismos naturais que afectem a actividade objecto da concessão.
+
+5 - A ocorrência de um caso de força maior tem por efeito exonerar a concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do contrato de concessão que sejam afectadas pela ocorrência do mesmo, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido.
+
+6 - No caso de impossibilidade de cumprimento do contrato de concessão por causa de força maior, o concedente pode proceder à sua rescisão, nos termos fixados no mesmo.
+
+7 - A concessionária fica obrigada a comunicar ao concedente a ocorrência de qualquer evento qualificável como caso de força maior, bem como a indicar, no mais curto prazo possível, quais as obrigações emergentes do contrato de concessão cujo cumprimento, no seu entender, se encontra impedido ou dificultado por força de tal ocorrência e, bem assim, se for o caso, as medidas que tomou ou pretende tomar para fazer face à situação ocorrida, a fim de mitigar o impacte do referido evento e os respectivos custos.
+
+8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVIII — Sanções contratuais
+
+1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 10 000 000.
+
+2 - Igualmente sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o não cumprimento do disposto nas bases xix e xxxii sujeita a concessionária às seguintes sanções:
+
+a) Ao pagamento de multa até ao montante de (euro) 5 000 000, variando o respetivo montante em função da relevância dos documentos ou informações para o funcionamento do SNGN, do carácter reiterado ou ocasional do incumprimento, do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que a concessionária tenha posto na superação de consequências;
+
+b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compulsória, num montante que não excederá 5 % do montante máximo da multa que seria aplicável nos termos da alínea anterior, por dia de atraso, a contar da data fixada na decisão do concedente que determinou a prestação das informações, até ao montante máximo global de (euro) 5 000 000.
+
+3 - A aplicação de multas contratuais e sanções pecuniárias compulsórias depende de notificação prévia da concessionária pelo concedente para reparar o incumprimento, bem como do não cumprimento, pela concessionária, do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta naquele prazo.
+
+4 - O prazo de reparação do incumprimento é fixado pelo concedente de acordo com critérios de razoabilidade e tem sempre em atenção a defesa do interesse público e a manutenção em funcionamento da concessão.
+
+5 - A concessionária pode, no prazo fixado na notificação a que se refere o número anterior, e em momento anterior ao da aplicação de quaisquer multas contratuais ou sanções pecuniárias compulsórias, exercer por escrito o seu direito de defesa.
+
+6 - É da competência do diretor-geral da DGEG a aplicação das multas contratuais e sanções pecuniárias compulsórias.
+
+7 - Caso a concessionária não proceda ao pagamento voluntário das multas contratuais ou sanções pecuniárias compulsórias que lhe forem aplicadas no prazo de 20 dias a contar da sua fixação e notificação pelo concedente, este pode utilizar a caução para pagamento das mesmas.
+
+8 - O valor máximo das multas estabelecido na presente base é actualizado em Janeiro de cada ano de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística, referente ao ano anterior.
+
+9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiros.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXXIX — Sequestro
+
+1 - Em caso de incumprimento grave pela concessionária das obrigações emergentes do contrato de concessão, o concedente, através de despacho do ministro responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
+
+2 - O sequestro da concessão pode ter lugar, nomeadamente, quando se verifique qualquer das seguintes situações por motivos imputáveis à concessionária:
+
+a) Estiver iminente ou ocorrer a cessação ou interrupção, total ou parcial, do desenvolvimento da actividade objecto da concessão;
+
+b) Deficiências graves na organização, no funcionamento ou no regular desenvolvimento da actividade objecto da concessão, bem como situações de insegurança de pessoas e bens;
+
+c) Deficiências graves no estado geral das infraestruturas, instalações ou equipamentos, ou não cumprimento das obrigações da concessionária enquanto gestora técnica global do SNGN que comprometam a continuidade ou a qualidade da atividade objeto da presente concessão ou a segurança do abastecimento do SNGN.
+
+3 - A concessionária está obrigada a proceder à entrega da concessão no prazo que lhe seja fixado pelo concedente quando lhe seja comunicada a decisão de sequestro da concessão.
+
+4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da concessão, observar-se-á, com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 4 e 5 da base XLIV.
+
+5 - Verificado o sequestro, a concessionária suporta todos os encargos que resultarem para o concedente do exercício da concessão, bem como as despesas extraordinárias necessárias ao restabelecimento da normalidade.
+
+6 - Logo que cessem as razões do sequestro, seja restabelecido o normal funcionamento da concessão e o concedente o julgue oportuno, a concessionária é notificada para retomar a concessão no prazo que lhe seja fixado.
+
+7 - A concessionária pode optar pela rescisão da concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da concessão, sendo então aplicável o disposto na base XLV.
+
+8 - Se a concessionária não retomar a concessão no prazo que lhe seja fixado, pode o concedente, através do ministro responsável pela área da energia, determinar a imediata rescisão do contrato de concessão.
+
+9 - No caso de a concessionária ter retomado o exercício da concessão e continuarem a verificar-se graves deficiências no mesmo, pode o concedente, através do ministro responsável pela área da energia, ordenar novo sequestro ou determinar a imediata rescisão do contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo XI — Extinção da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XL — Casos de extinção da concessão
+
+1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respectivo prazo.
+
+2 - A extinção da concessão opera a transmissão para o concedente de todos os bens e meios a ela afectos, nos termos previstos nas presentes bases e no contrato de concessão, bem como dos direitos e das obrigações inerentes ao seu exercício, sem prejuízo do direito de regresso do concedente sobre a concessionária pelas obrigações por esta assumidas que sejam estranhas à actividade da concessão ou que hajam sido contraídas em violação da lei ou do contrato de concessão ou, ainda, que sejam obrigações vencidas e não cumpridas.
+
+3 - Da transmissão prevista no número anterior excluem-se os fundos ou reservas consignados à garantia ou à cobertura de obrigações da concessionária de cujo cumprimento lhe seja dada quitação pelo concedente, a qual se presume se, decorrido um ano sobre a extinção da concessão, não houver declaração em contrário do concedente, através do ministro responsável pela área da energia.
+
+4 - A tomada de posse da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, a que assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respectivo auto.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLI — Procedimentos em caso de extinção da concessão
+
+1 - O concedente reserva-se no direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efectuar, durante o mesmo prazo, a transferência progressiva da actividade objecto da concessão para a nova concessionária.
+
+2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLII — Decurso do prazo da concessão
+
+1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
+
+2 - Cessando a concessão pelo decurso do prazo, é paga pelo Estado à concessionária uma indemnização correspondente ao valor contabilístico dos bens afectos à concessão adquiridos pela concessionária com referência ao último balanço aprovado, líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido.
+
+3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLIII — Resgate da concessão
+
+1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com pelo menos um ano de antecedência.
+
+2 - O concedente assume, decorrido o período de um ano sobre a notificação do resgate, todos os bens e meios afectos à concessão anteriormente à data dessa notificação, incluindo todos os direitos e obrigações inerentes ao exercício da concessão e ainda aqueles que tenham sido assumidos pela concessionária após a data da notificação, desde que tenham sido previamente autorizados pelo concedente, através do ministro responsável pela área da energia.
+
+3 - A assunção de obrigações por parte do concedente é feita sem prejuízo do seu direito de regresso sobre a concessionária pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
+
+4 - Em caso de resgate, a concessionária tem direito a uma indemnização cujo valor deve atender ao valor contabilístico à data do resgate dos bens revertidos para o concedente, livres de quaisquer ónus ou encargos, e ao valor de eventuais lucros cessantes.
+
+5 - O valor contabilístico dos bens referidos no número anterior, à data do resgate, entende-se líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido, incluindo-se nestes o valor dos bens cedidos pelo concedente.
+
+6 - Para os efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efectivo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLIV — Rescisão do contrato de concessão pelo concedente
+
+1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
+
+2 - Constituem, nomeadamente, causas de rescisão do contrato de concessão por parte do concedente os seguintes factos ou situações:
+
+a) Desvio do objecto e fins da concessão;
+
+b) Suspensão ou interrupção injustificada das actividades objecto da concessão;
+
+c) Oposição reiterada ao exercício da supervisão, acompanhamento e fiscalização da concessão, repetida desobediência às determinações, ordens, diretivas ou instruções do concedente nos termos do contrato de concessão, nomeadamente no que respeita ao fornecimento de informações e documentos solicitados pelo concedente, ou sistemática inobservância das leis e regulamentos aplicáveis à exploração da concessão, quando se mostrem ineficazes as sanções aplicadas;
+
+d) Recusa em proceder aos investimentos necessários às adequadas conservação e reparação das infra-estruturas ou à necessária ampliação da rede;
+
+e) Recusa ou impossibilidade da concessionária em retomar a concessão nos termos do disposto no n.º 8 da base XXXIX ou, quando o tiver feito, verificar-se a continuação das situações que motivaram o sequestro;
+
+f) Cobrança dolosa das tarifas com valor superior aos fixados;
+
+g) Dissolução ou insolvência da concessionária;
+
+h) Transmissão ou oneração da concessão, no todo ou em parte, sem prévia autorização;
+
+i) Recusa da reconstituição atempada da caução.
+
+3 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior.
+
+4 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1, possa motivar a rescisão da concessão, o concedente, através do ministro responsável pela área da energia, deve notificar a concessionária para, no prazo que razoavelmente lhe seja fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
+
+5 - Caso a concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento nos termos determinados pelo concedente, este pode rescindir o contrato de concessão mediante comunicação enviada à concessionária, por carta registada com aviso de recepção, sem prejuízo do disposto no número seguinte.
+
+6 - Caso o concedente pretenda rescindir o contrato de concessão, designadamente pelos factos referidos na alínea g) do n.º 1, deve previamente notificar os principais credores da concessionária que sejam conhecidos para, no prazo que lhes seja determinado, nunca superior a três meses, proporem uma solução que possa sobrestar à rescisão, desde que o concedente com ela concorde.
+
+7 - A comunicação da decisão de rescisão referida no n.º 5 produz efeitos imediatos, independentemente de qualquer outra formalidade.
+
+8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afectos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos, nos termos gerais de direito.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLV — Rescisão do contrato de concessão pela concessionária
+
+1 - A concessionária pode rescindir o contrato de concessão com fundamento em incumprimento grave das obrigações do concedente se do mesmo resultarem perturbações que ponham em causa o exercício da actividade concedida.
+
+2 - A rescisão prevista no número anterior implica a transmissão de todos os bens e meios afectos à concessão para o concedente, sem prejuízo do direito da concessionária a ser ressarcida dos prejuízos que lhe sejam causados, incluindo o valor dos investimentos efectuados e dos lucros cessantes calculados nos termos previstos anteriormente para o resgate.
+
+3 - A rescisão do contrato de concessão produz efeitos reportados à data da sua comunicação ao concedente por carta, registada com aviso de recepção.
+
+4 - No caso de rescisão do contrato de concessão pela concessionária, esta deve seguir o procedimento previsto para o concedente nos n.os 4 e 5 da base anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo XII — Disposições diversas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLVI — Exercício dos poderes do concedente
+
+Os poderes do concedente referidos nas presentes bases, excepto quando devam ser exercidos pelo ministro responsável pela área da energia, devem ser exercidos pela DGGE, sendo os actos praticados pelo respectivo director-geral ou pela ERSE, consoante as competências de cada uma destas entidades.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLVII — Resolução de diferendos
+
+1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de Agosto.
+
+2 - A concessionária e os operadores e utilizadores da RNTGN podem, nos termos da lei, celebrar convenções de arbitragem para solução dos litígios emergentes dos respectivos contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+## Anexo II — (a que se refere o n.º 2 do artigo 66.º e o n.º 1 do artigo 68.º) Bases das concessões da actividade de armazenamento subterrâneo de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo I — Disposições e princípios gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base I — Objecto da concessão
+
+1 - A concessão tem por objecto a actividade de armazenamento subterrâneo de gás natural exercida em regime de serviço público.
+
+2 - Integram-se no objecto da concessão:
+
+a) O recebimento, a injecção, o armazenamento subterrâneo, a extracção, o tratamento e a entrega de gás natural;
+
+b) A construção, a operação, a exploração, a manutenção e a expansão das respectivas infra-estruturas e, bem assim, das instalações necessárias para a sua operação.
+
+3 - A concessionária pode exercer outras actividades para além das que se integram no objecto da concessão, no respeito pela legislação aplicável ao sector do gás natural, com fundamento no proveito daí resultante para a concessão ou com vista a optimizar a utilização dos bens afectos à mesma, desde que essas actividades sejam acessórias ou complementares e não prejudiquem a regularidade e a continuidade da prestação do serviço público e sejam previamente autorizadas pelo concedente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base II — Área da concessão
+
+A área e a localização geográfica da concessão são definidas no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base III — Prazo da concessão
+
+1 - O prazo da concessão é fixado no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respectivo contrato.
+
+2 - A concessão pode ser renovada se o interesse público assim o justificar e a concessionária tiver cumprido as suas obrigações legais e contratuais.
+
+3 - A intenção de renovação da concessão deve ser comunicada à concessionária pelo concedente com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IV — Serviço público
+
+1 - A concessionária deve desempenhar as actividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no sector do gás, com vista a garantir, designadamente, a segurança de pessoas e bens.
+
+2 - Na atribuição de capacidade de armazenamento subterrâneo de gás natural, a concessionária deve dar prioridade às entidades sujeitas à obrigação de constituição e de manutenção de reservas de segurança, nos termos da legislação e regulamentação aplicável.
+
+3 - Com o objectivo de assegurar a permanente adequação da concessão às exigências da regularidade, da continuidade e da eficiência do serviço público, o concedente reserva-se o direito de alterar, por via legal ou regulamentar, as condições da sua exploração.
+
+4 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base XXXIV, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base V — Direitos e obrigações da concessionária
+
+1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
+
+2 - À concessionária compete, em particular:
+
+a) Assegurar a exploração, integridade técnica e manutenção da infraestrutura de armazenamento subterrâneo em condições de segurança, de fiabilidade e de respeito pelo ambiente, nos termos do Regulamento de Armazenamento Subterrâneo, assegurando o cumprimento dos padrões de qualidade de serviço que lhe sejam aplicáveis nos termos do Regulamento da Qualidade de Serviço;
+
+b) Gerir a injeção, armazenamento e extração de gás natural, de acordo com as solicitações dos agentes de mercado, assegurando a sua interoperacionalidade com a rede de transporte a que o armazenamento está ligado, no quadro da atividade de gestão técnica global do SNGN, nos termos do Regulamento de Armazenamento Subterrâneo;
+
+c) Receber do operador da rede de transporte, no quadro da atividade de gestão técnica global do SNGN, dos operadores de mercado e de todos os agentes diretamente interessados toda a informação necessária à gestão das suas infraestruturas;
+
+d) Fornecer ao operador da rede de transporte, no quadro da atividade de gestão técnica global do SNGN, e aos agentes de mercado as informações necessárias ao funcionamento seguro e eficiente do SNGN;
+
+e) Preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas atividades;
+
+f) Medir o gás natural injetado, armazenado e extraído no armazenamento subterrâneo;
+
+g) Fornecer os serviços destinados a satisfazer, de forma transparente e não discriminatória, os pedidos de acesso dos agentes de mercado ao armazenamento subterrâneo, tendo em conta as capacidades técnicas das instalações e os procedimentos de gestão de congestionamentos;
+
+h) Atribuir as capacidades de injeção, armazenamento e extração em coordenação com o operador da rede de transporte, no quadro da gestão técnica global do SNGN, tendo em conta a compatibilização de fluxos e quantidades de gás entre as duas infraestruturas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base VI — Princípios aplicáveis às relações com os utilizadores
+
+1 - A concessionária deve proporcionar aos utilizadores, de forma não discriminatória e transparente, o acesso às respectivas infra-estruturas nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos ou ainda de condicionalismos de natureza contratual, desde que aceites pela ERSE.
+
+2 - O disposto no número anterior não impede a concessionária de celebrar contratos a longo prazo, no respeito pelas regras da concorrência.
+
+3 - A concessionária deve facultar aos utilizadores do armazenamento as informações de que estes necessitem para o acesso ao armazenamento.
+
+4 - Os utilizadores devem prestar à concessionária todas as informações que esta considere necessárias à correcta exploração das respectivas infra-estruturas e instalações.
+
+5 - A concessionária deve assegurar o tratamento de dados de utilização do armazenamento no respeito pelas disposições legais de proteção de dados pessoais e preservar a confidencialidade das informações comercialmente sensíveis obtidas no seu relacionamento com os utilizadores.
+
+6 - A concessionária deve manter um registo das queixas ou reclamações que lhe tenham sido apresentadas pelos utilizadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo II — Bens e meios afectos à concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VII — Bens e meios afectos à concessão
+
+1 - Consideram-se afectos à concessão os bens que constituem o armazenamento subterrâneo de gás natural, designadamente:
+
+a) As cavidades de armazenamento subterrâneo de gás natural;
+
+b) As instalações afectas à injecção, à extracção, à compressão, à secagem e à redução de pressão para entrega à RNTGN, incluindo todo o equipamento de controlo, regulação e medida indispensável à operação e ao funcionamento das infra-estruturas e das instalações de armazenamento subterrâneo de gás natural;
+
+c) As instalações e os equipamentos de lexiviação;
+
+d) As instalações e os equipamentos de telecomunicações, telemedida e telecomando afectas à gestão de todas as infra-estruturas e instalações de armazenamento subterrâneo.
+
+2 - Consideram-se ainda afectos à concessão:
+
+a) Os imóveis pertencentes à concessionária em que estejam implantados os bens referidos no número anterior, assim como as servidões constituídas em benefício da concessão;
+
+b) Outros bens móveis ou direitos relativos a bens imóveis utilizados ou relacionados com o exercício da actividade objecto da concessão;
+
+c) Os direitos inerentes à construção de cavidades subterrâneas;
+
+d) Os direitos de expansão do volume físico de armazenamento subterrâneo de gás natural necessários à garantia da segurança do abastecimento no âmbito do SNGN;
+
+e) O cushion gas associado a cada cavidade;
+
+f) Os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular;
+
+g) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrigações da concessionária por força de obrigação emergente da lei ou do contrato de concessão e enquanto durar essa vinculação;
+
+h) As relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VIII — Inventário do património
+
+1 - A concessionária deve elaborar e manter permanentemente actualizado e à disposição do concedente um inventário do património afecto à concessão.
+
+2 - No inventário a que se refere o número anterior devem ser mencionados os ónus ou encargos que recaem sobre os bens afectos à concessão.
+
+3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base X.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IX — Manutenção dos bens afectos à concessão
+
+1- A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança os bens e meios afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
+
+2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-la com antecedência razoável aos utilizadores afetados por tais medidas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base X — Regime de oneração e transmissão dos bens afectos à concessão
+
+1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
+
+2 - Os bens e direitos que tenham perdido utilidade para a concessão são abatidos ao inventário referido na base VIII, mediante prévia autorização do concedente, que se considera concedida se este não se opuser no prazo de 30 dias contados a partir da recepção do pedido.
+
+3 - A oneração ou transmissão de bens imóveis afectos à concessão fica sujeita a autorização do ministro responsável pela área da energia.
+
+4 - A oneração ou transmissão de bens e direitos afectos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respectivos actos ou contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XI — Posse e propriedade dos bens
+
+1 - A concessionária detém a posse e propriedade dos bens afectos à concessão enquanto durar a concessão e até à extinção desta.
+
+2 - Com a extinção da concessão, os bens a ela afectos transferem-se para o concedente nos termos previstos nas presentes bases e no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo III — Sociedade concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XII — Objecto social, sede e forma
+
+1 - O projecto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do ministro responsável pela área da energia.
+
+2 - A concessionária deve ter como objecto social principal, ao longo de todo o período de duração da concessão, o exercício das actividades integradas no objecto da concessão, devendo manter ao longo do mesmo período a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
+
+3 - O objecto social da concessionária pode incluir o exercício de outras actividades para além das que integram o objecto da concessão e, bem assim, a participação no capital de outras sociedades, desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao sector do gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIII — Acções da concessionária
+
+1 - Todas as acções representativas do capital social da concessionária são obrigatoriamente nominativas.
+
+2 - A oneração ou transmissão de ações representativas do capital social da concessionária depende, sob pena de nulidade, de autorização prévia do concedente, através do membro do Governo responsável pela área da energia, a qual não pode ser infundadamente recusada e se considera tacitamente concedida se não for recusada, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
+
+3 - Exceptua-se do disposto no número anterior a oneração de acções efectuada em benefício das entidades financiadoras de qualquer das actividades que integram o objecto da concessão e no âmbito dos contratos de financiamento que venham a ser celebrados pela concessionária para o efeito, desde que as entidades financiadoras assumam, nos referidos contratos, a obrigação de obter a autorização prévia do concedente em caso de execução das garantias de que resulte a transmissão a terceiros das acções oneradas.
+
+4 - A oneração de acções referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e, bem assim, informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XIV — Deliberações da concessionária e acordos entre accionistas
+
+1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do ministro responsável pela área da energia, as deliberações da concessionária relativas à alteração do objecto social e à transformação, fusão, cisão ou dissolução da sociedade.
+
+2 - Os acordos parassociais celebrados entre os accionistas da concessionária, bem como as respectivas alterações, devem ser objecto de aprovação prévia pelo concedente, através do ministro responsável pela área da energia.
+
+3 - As autorizações a aprovações previstas na presente base não podem ser infundadamente recusadas e considerar-se-ão tacitamente concedidas se não forem recusadas, por escrito, no prazo de 30 dias a contar a partir da data da respectiva solicitação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XV — Financiamento
+
+1 - A concessionária é responsável única pela obtenção do financiamento necessário ao desenvolvimento do objecto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
+
+2 - Para os efeitos do disposto no n.º 1, a concessionária deve manter no final de cada ano um rácio de autonomia financeira superior a 20%.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo IV — Construção, planeamento, remodelação e expansão das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVI — Projectos
+
+1 - A construção e a exploração das infra-estruturas de armazenamento subterrâneo ficam sujeitas à aprovação dos respectivos projectos nos termos da legislação aplicável.
+
+2 - A concessionária é responsável, no respeito pelas legislação e regulamentação aplicáveis, pela concepção, pelo projecto e pela construção de todas as infra-estruturas e instalações de armazenamento subterrâneo que integram a concessão, incluindo as necessárias à sua remodelação e à sua expansão.
+
+3 - A aprovação dos projectos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de concepção, de projecto, de construção ou da inadequação das instalações e do equipamento ao serviço da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVII — Direitos e deveres decorrentes da aprovação dos projectos
+
+1 - A aprovação dos respectivos projectos confere à concessionária, nomeadamente, os seguintes direitos:
+
+a) Utilizar, de acordo com a legislação aplicável, os bens do domínio público ou privado do Estado e de outras pessoas colectivas públicas para o estabelecimento ou para a passagem das respectivas infra-estruturas ou instalações;
+
+b) Constituir, nos termos da legislação aplicável, as servidões sobre os imóveis necessários ao estabelecimento das respectivas infra-estruturas ou instalações;
+
+c) Proceder à expropriação, por utilidade pública e urgente, nos termos da legislação aplicável, dos bens imóveis ou dos direitos a eles relativos necessários ao estabelecimento das respectivas infra-estruturas ou instalações.
+
+2 - As licenças e autorizações exigidas por lei para a exploração das infra-estruturas da RNTGN consideram-se outorgadas à concessionária com a aprovação dos respectivos projectos, sem prejuízo da verificação por parte das entidades licenciadoras da conformidade na sua execução.
+
+3 - Cabe à concessionária o pagamento das indemnizações decorrentes do exercício dos direitos referidos no n.º 1.
+
+4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVIII — Planeamento, remodelação e expansão das infra-estruturas
+
+1 - O planeamento das infra-estruturas está integrado no planeamento da RNTIAT, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+2 - Constitui encargo e responsabilidade da concessionária o planeamento, a remodelação e a expansão das infra-estruturas de armazenamento subterrâneo que integram a concessão, com vista a assegurar a existência permanente de capacidade de armazenamento.
+
+3 - A concessionária deve observar na remodelação e na expansão das infra-estruturas os prazos de execução adequados à permanente satisfação das necessidades identificadas no PDIR.
+
+4 - A concessionária deve elaborar e apresentar ao concedente, nos termos previstos no contrato de concessão e de forma articulada com o PDIR, o plano de investimentos nas infra-estruturas de armazenamento subterrâneo que integram a concessão.
+
+5 - Por razões de interesse público, nomeadamente as relativas à segurança, à regularidade e à qualidade do abastecimento, o concedente pode determinar a remodelação ou a expansão das infra-estruturas de armazenamento subterrâneo que integram a concessão, nos termos fixados no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo V — Exploração das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIX — Condições de exploração
+
+1 - A concessionária é responsável pela exploração das infraestruturas e manutenção das capacidades de armazenamento em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
+
+2 - A concessionária deve assegurar-se de que o gás natural injectado, armazenado ou extraído cumpre as características técnicas e as especificações de qualidade estabelecidas e que o seu armazenamento subterrâneo é efectuado em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XX — Informação
+
+1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos do n.º 3 da base i, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia, que o concedente entenda dever solicitar-lhe.
+
+2 - As informações e documentos solicitados pelo concedente devem ser fornecidos no prazo de 10 dias úteis, salvo se for por este fixado um prazo diferente, por decisão fundamentada.
+
+3 - A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido do concedente, no prazo por este fixado, constitui incumprimento do contrato de concessão, designadamente para efeitos da base xxxvi.
+
+4 - A concessionária deve fornecer ao operador da rede com a qual esteja ligada e aos agentes de mercado as informações necessárias para permitir um desenvolvimento coordenado das diversas redes e um funcionamento seguro e eficiente do SNGN.
+
+5 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei e regulamentação aplicável.
+
+6 - A concessionária deve, ainda, solicitar, receber e tratar todas as informações de todos os operadores de mercados e de todos os agentes diretamente interessados necessárias à boa gestão das respetivas infraestruturas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXI — Participação de desastres e acidentes
+
+1 - A concessionária é obrigada a participar imediatamente à DGGE todos os desastres e acidentes ocorridos nas suas instalações, e se tal não for possível no prazo máximo de três dias a contar a partir da data da ocorrência.
+
+2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXII — Ligação das infra-estruturas à RNTGN
+
+A ligação das infra-estruturas de armazenamento subterrâneo à RNTGN faz-se nas condições previstas nos regulamentos aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIII — Relacionamento com a concessionária da RNTGN
+
+A concessionária encontra-se sujeita às obrigações que decorrem do exercício por parte da concessionária da RNTGN das suas competências em matéria de gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIV — Interrupção por facto imputável ao utilizador
+
+1 - A concessionária pode interromper a prestação do serviço público concessionado nos termos da regulamentação aplicável e, nomeadamente, nos seguintes casos:
+
+a) Alteração não autorizada do funcionamento de equipamentos ou sistemas de ligação às infra-estruturas e instalações de armazenamento subterrâneo que ponha em causa a segurança ou a regularidade do serviço;
+
+b) Incumprimento grave dos regulamentos aplicáveis ou, em caso de emergência, das suas ordens e instruções;
+
+c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta sanção.
+
+2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos utilizadores que causem perturbações que afectem a qualidade do serviço prestado quando, uma vez identificadas as causas perturbadoras, os utilizadores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXV — Interrupções por razões de interesse público ou de serviço
+
+1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência declarada ao abrigo de legislação específica.
+
+2 - As interrupções das actividades objecto da concessão por razões de serviço têm lugar quando haja necessidade imperiosa de realizar manobras ou trabalhos de ligação, reparação ou conservação das infra-estruturas ou instalações, desde que tenham sido esgotadas todas as possibilidades alternativas.
+
+3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores das respectivas infra-estruturas e instalações que possam vir a ser afectados, com a antecedência mínima de trinta e seis horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das infra-estruturas ou instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVI — Medidas de protecção
+
+1 - Sem prejuízo das medidas de emergência adoptadas pelo Governo, quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
+
+2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGGE, às respectivas autoridades concelhias, à autoridade policial da zona afectada e, se for caso disso, ao Serviço Nacional de Protecção Civil.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVII — Responsabilidade civil
+
+1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da actividade objecto da concessão.
+
+2 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das infra-estruturas e instalações integradas na concessão é feita no exclusivo interesse da concessionária.
+
+3 - A concessionária fica obrigada à constituição de um seguro de responsabilidade civil para a cobertura dos danos materiais e corporais causados a terceiros e resultantes do exercício da respectiva actividade, cujo montante mínimo obrigatório é fixado por portaria do ministro responsável pela área da energia e actualizável de três em três anos.
+
+4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da actualização referida no número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVIII — Cobertura por seguros
+
+1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
+
+2 - Para além dos seguros referidos na base anterior e no número anterior, a concessionária deve assegurar a existência e a manutenção em vigor das apólices de seguro necessárias para garantir uma efetiva cobertura dos riscos da concessão.
+
+3 - No âmbito da obrigação referida no número anterior, a concessionária fica obrigada a constituir seguros envolvendo todas as infra-estruturas e instalações que integram a concessão contra riscos de incêndio, explosão e danos devido a terramoto ou temporal, nos termos fixados no contrato de concessão.
+
+4 - O Instituto de Seguros de Portugal pode estabelecer regulamentação nos termos e para os efeitos do disposto nos números anteriores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VI — Garantias e fiscalização do cumprimento das obrigações da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIV — Caução
+
+1 - Para a garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução no valor de (euro) 5000000.
+
+2 - O concedente pode utilizar a caução sempre que a concessionária não cumpra qualquer obrigação assumida no contrato de concessão.
+
+3 - O recurso à caução é precedido de despacho do ministro responsável pela área da energia, não dependendo de qualquer outra formalidade ou de prévia decisão judicial ou arbitral.
+
+4 - Sempre que o concedente utilize a caução, a concessionária deve proceder à reposição do seu montante integral no prazo de 30 dias a contar a partir da data daquela utilização.
+
+5 - O valor da caução é actualizado de três em três anos de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística.
+
+6 - A caução só pode ser levantada pela concessionária um ano após a data de extinção do contrato de concessão, ou antes de decorrido aquele prazo, por determinação expressa do concedente, através do ministro responsável pela área da energia, mas sempre após a extinção da concessão.
+
+7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma à primeira solicitação, cujo texto deve ser previamente aprovado pelo concedente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXX — Supervisão, acompanhamento, fiscalização e regulação
+
+1 - Sem prejuízo das competências atribuídas a outras entidades públicas, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades públicas, cabe à ERSE o exercício dos poderes de regulação das actividades que integram o objecto da concessão, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+3 - Para efeitos do disposto no n.º 1 e sempre que exista motivo atendível, o concedente pode, nomeadamente:
+
+a) Inquirir os representantes legais e quaisquer colaboradores da concessionária, bem como solicitar-lhes os documentos e outros elementos de informação que entenda necessários ou convenientes;
+
+b) Aceder livremente às instalações da concessionária e proceder à busca, exame, tratamento e recolha de cópias ou extratos dos documentos e outras informações na posse da concessionária que julgue necessários ou convenientes, incluindo através dos respetivos sistemas de informação;
+
+c) Requerer à concessionária a realização dos estudos, testes ou simulações, incluindo com recurso aos respetivos sistemas de informação, que se enquadrem no exercício das funções da concessionária, bem como acompanhar e participar ativamente na sua preparação e realização, designadamente no âmbito da definição dos princípios de base da política energética;
+
+d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos poderes de supervisão, acompanhamento e fiscalização.
+
+4 - O concedente pode recorrer a entidades terceiras devidamente qualificadas para a prestação de assistência técnica que repute conveniente no âmbito do exercício das funções de supervisão, acompanhamento e fiscalização da concessão, as quais gozam dos poderes referidos no número anterior após comunicação à concessionária para o efeito.
+
+5 - A concessionária deve facilitar o exercício dos poderes atribuídos às entidades fiscalizadora e reguladora, nomeadamente prestando todas as informações e fornecendo todos os documentos que lhe forem solicitados por essas entidades no âmbito das respetivas competências, bem como permitindo o livre acesso do pessoal das referidas entidades devidamente credenciado e no exercício das suas funções a todas as suas instalações.
+
+6 - A concessionária deve constituir e manter um seguro de acidentes pessoais, de montante a definir no contrato de concessão, de modo a cobrir os riscos inerentes ao exercício pelo pessoal das entidades fiscalizadora e reguladora das suas funções nas instalações da concessionária.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VII — Modificações objectivas e subjectivas da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXI — Alteração do contrato de concessão
+
+1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respectivo equilíbrio económico e financeiro, nos termos previstos na base XXXIV.
+
+2 - O contrato de concessão pode também ser alterado por força de disposição legal imperativa, designadamente decorrente das políticas energéticas aprovadas pela União Europeia e aplicáveis ao Estado Português.
+
+3 - O contrato de concessão pode ainda ser modificado por acordo entre o concedente e a concessionária desde que a modificação não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXII — Transmissão e oneração da concessão
+
+1 - A concessionária não pode, sem prévia autorização do concedente, através do ministro responsável pela área da energia, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
+
+2 - É equiparada à transmissão da concessão a alienação de ações que resulte na constituição ou modificação de uma relação de domínio sobre a concessionária, conforme definido no artigo 21.º do Código dos Valores Mobiliários ou em norma que o venha a substituir.
+
+3 - Os atos praticados ou os contratos celebrados em violação do disposto nos números anteriores são nulos e desprovidos de quaisquer efeitos jurídicos, sem prejuízo de outras sanções aplicáveis.
+
+4 - No caso de subconcessão ou de trespasse, a concessionária deve comunicar ao concedente a sua intenção de proceder à subconcessão ou ao trespasse, remetendo-lhe a minuta do respectivo contrato de subconcessão ou de trespasse e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do subconcessionário ou do trespassário.
+
+5 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações decorrentes do contrato de concessão.
+
+6 - Ocorrendo trespasse da concessão, consideram-se transmitidos para o trespassário todos os direitos e obrigações da concessionária, assumindo aquele ainda os deveres, as obrigações e os encargos que eventualmente venham a ser-lhe impostos pelo concedente como condição para a autorização do trespasse.
+
+7 - A concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse, em termos em que não seja afectada ou interrompida a prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VIII — Condição económica e financeira da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIII — Equilíbrio económico e financeiro da concessão
+
+1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
+
+2 - O equilíbrio económico e financeiro baseia-se no reconhecimento dos custos de investimento, de operação e de manutenção e na adequada remuneração dos activos afectos à concessão.
+
+3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIV — Reposição do equilíbrio económico e financeiro
+
+1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio financeiro da concessão nos seguintes casos:
+
+a) Modificação unilateral imposta pelo concedente das condições de exploração da concessão, nos termos previstos nos n.os 2 e 3 da base IV, desde que, em resultado directo da mesma, se verifique para a concessionária um determinado aumento de custos ou uma determinada perda de receitas e esta não possa legitimamente proceder a tal reposição por recurso aos meios resultantes de uma correcta e prudente gestão;
+
+b) Alterações legislativas que tenham um impacte directo sobre as receitas ou custos respeitantes às actividades integradas na concessão.
+
+2 - Nos casos previstos no número anterior, a concessionária apenas tem direito à reposição do equilíbrio económico e financeiro da concessão na medida em que o impacte sobre os proveitos ou custos não seja suscetível de consideração no âmbito da atividade reguladora.
+
+3 - Os parâmetros, termos e critérios da reposição do equilíbrio económico e financeiro da concessão são fixados no contrato de concessão.
+
+4 - Sempre que haja lugar à reposição do equilíbrio económico e financeiro da concessão, tal reposição pode ter lugar através de uma das seguintes modalidades:
+
+a) Prorrogação do prazo da concessão;
+
+b) Revisão do cronograma ou redução das obrigações de investimento previamente aprovadas;
+
+c) Atribuição de compensação directa pelo concedente;
+
+d) Combinação das modalidades anteriores ou qualquer outra forma que seja acordada.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo IX — Incumprimento do contrato de concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXV — Responsabilidade da concessionária por incumprimento
+
+1 - A violação pela concessionária de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
+
+2 - A responsabilidade da concessionária cessa sempre que ocorra caso de força maior, ficando a seu cargo fazer prova da ocorrência.
+
+3 - Consideram-se unicamente casos de força maior os acontecimentos imprevisíveis e irresistíveis cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da concessionária.
+
+4 - Constituem, nomeadamente, casos de força maior actos de guerra, hostilidades ou invasão, terrorismo, epidemias, radiações atómicas, graves inundações, raios, ciclones, tremores de terra e outros cataclismos naturais que afectem a actividade objecto da concessão.
+
+5 - A ocorrência de um caso de força maior tem por efeito exonerar a concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do contrato de concessão que sejam afectadas pela ocorrência do mesmo, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido.
+
+6 - No caso de impossibilidade de cumprimento do contrato de concessão por causa de força maior, o concedente pode proceder à sua rescisão, nos termos fixados no mesmo.
+
+7 - A concessionária fica obrigada a comunicar ao concedente a ocorrência de qualquer evento qualificável como caso de força maior, bem como a indicar, no mais curto prazo possível, quais as obrigações emergentes do contrato de concessão cujo cumprimento, no seu entender, se encontra impedido ou dificultado por força de tal ocorrência e, bem assim, se for o caso, as medidas que tomou ou pretende tomar para fazer face à situação ocorrida a fim de mitigar o impacte do referido evento e os respectivos custos.
+
+8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVI — Sanções contratuais
+
+1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
+
+2 - Igualmente sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o não cumprimento do disposto nas bases xx e xxx sujeita a concessionária às seguintes sanções:
+
+a) Ao pagamento de multa até ao montante de (euro) 2 500 000, variando o respetivo montante em função da relevância dos documentos ou informações para o funcionamento do SNGN, do carácter reiterado ou ocasional do incumprimento, do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que a concessionária tenha posto na superação de consequências;
+
+b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compulsória, num montante que não excederá 5 % do montante máximo da multa que seria aplicável nos termos da alínea anterior, por dia de atraso, a contar da data fixada na decisão do concedente que determinou a prestação das informações, até ao montante máximo global de (euro) 2 500 000.
+
+3 - A aplicação de multas contratuais e sanções pecuniárias compulsórias depende de notificação prévia da concessionária pelo concedente para reparar o incumprimento e do não cumprimento, pela concessionária, do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta naquele prazo.
+
+4 - O prazo de reparação do incumprimento é fixado pelo concedente de acordo com critérios de razoabilidade e tem sempre em atenção a defesa do interesse público e a manutenção em funcionamento da concessão.
+
+5 - A concessionária pode, no prazo fixado na notificação a que se refere o número anterior, e em momento anterior ao da aplicação de quaisquer multas contratuais ou sanções pecuniárias compulsórias, exercer por escrito o seu direito de defesa.
+
+6 - É da competência do diretor-geral da DGEG a aplicação das multas contratuais e sanções pecuniárias compulsórias.
+
+7 - Caso a concessionária não proceda ao pagamento voluntário das multas contratuais ou sanções pecuniárias compulsórias que lhe forem aplicadas no prazo de 20 dias a contar da sua fixação e notificação pelo concedente, este pode utilizar a caução para pagamento das mesmas.
+
+8 - O valor máximo das multas estabelecido na presente base é actualizado em Janeiro de cada ano de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística, referente ao ano anterior.
+
+9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiros.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXXVII — Sequestro
+
+1 - Em caso de incumprimento grave, pela concessionária, das obrigações emergentes do contrato de concessão, o concedente, através de despacho do ministro responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
+
+2 - O sequestro da concessão pode ter lugar, nomeadamente, quando se verifique qualquer das seguintes situações, por motivos imputáveis à concessionária:
+
+a) Estiver iminente, ou ocorrer, a cessação ou interrupção, total ou parcial, do desenvolvimento da actividade objecto da concessão;
+
+b) Deficiências graves na organização, no funcionamento ou no regular desenvolvimento da actividade objecto da concessão, bem como situações de insegurança de pessoas e bens;
+
+c) Deficiências graves no estado geral das infraestruturas, instalações ou equipamentos que comprometam a continuidade ou a qualidade da atividade objeto da presente concessão ou a segurança do abastecimento do SNGN.
+
+3 - A concessionária está obrigada a proceder à entrega da concessão no prazo que lhe for fixado pelo concedente quando lhe for comunicada a decisão de sequestro da concessão.
+
+4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da concessão, observar se-á, com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 4 a 5 da base XLII.
+
+5 - Logo que cessem as razões do sequestro, seja restabelecido o normal funcionamento da concessão e o concedente o julgue oportuno, a concessionária é notificada para retomar a concessão no prazo que lhe seja fixado.
+
+6 - Logo que cessem as razões do sequestro e seja restabelecido o normal funcionamento da concessão, a concessionária é notificada para retomar a concessão, no prazo que lhe for fixado.
+
+7 - A concessionária pode optar pela rescisão da concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da concessão, sendo então aplicável o disposto na base XLIII.
+
+8 - Se a concessionária não retomar a concessão no prazo que lhe for fixado, pode o concedente, através do ministro responsável pela área da energia, determinar a imediata rescisão do contrato de concessão.
+
+9 - No caso de a concessionária ter retomado o exercício da concessão e continuarem a verificar-se graves deficiências no mesmo, pode o concedente, através do ministro responsável pela área da energia, ordenar novo sequestro ou determinar a imediata rescisão do contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo X — Suspensão e extinção da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVIII — Casos de extinção da concessão
+
+1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respectivo prazo.
+
+2 - A extinção da concessão opera a transmissão para o concedente de todos os bens e meios a ela afectos, nos termos previstos nas presentes bases e no contrato de concessão, bem como dos direitos e das obrigações inerentes ao seu exercício, sem prejuízo do direito de regresso do concedente sobre a concessionária pelas obrigações assumidas pela concessionária que sejam estranhas às actividades da concessão ou hajam sido contraídas em violação da lei ou do contrato de concessão ou, ainda, que sejam obrigações vencidas e não cumpridas.
+
+3 - Da transmissão prevista no número anterior excluem-se os fundos ou reservas consignados à garantia ou cobertura de obrigações da concessionária de cujo cumprimento lhe seja dada quitação pelo concedente, a qual se presume se decorrido um ano sobre a extinção da concessão não houver declaração em contrário do concedente, através do ministro responsável pela área da energia.
+
+4 - A tomada de posse da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, a que assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respectivo auto.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIX — Procedimentos em caso de extinção da concessão
+
+1 - O concedente reserva-se no direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efectuar, durante o mesmo prazo, a transferência progressiva da actividade objecto da concessão para a nova concessionária.
+
+2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XL — Decurso do prazo da concessão
+
+1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
+
+2 - Cessando a concessão pelo decurso do prazo, é paga pelo Estado à concessionária uma indemnização correspondente ao valor contabilístico dos bens afectos à concessão, adquiridos pela concessionária, com referência ao último balanço aprovado, líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido.
+
+3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLI — Resgate da concessão
+
+1 - O concedente, através do ministro responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respectivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de recepção, com pelo menos, um ano de antecedência.
+
+2 - O concedente assume, decorrido o período de um ano sobre a notificação do resgate, todos os bens e meios afectos à concessão anteriormente à data dessa notificação, incluindo todos os direitos e obrigações inerentes ao exercício da concessão, e ainda aqueles que tenham sido assumidos pela concessionária após a data de notificação desde que tenham sido previamente autorizados pelo concedente, através do ministro responsável pela área da energia.
+
+3 - A assunção de obrigações por parte do concedente é feita, sem prejuízo do seu direito de regresso sobre a concessionária, pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
+
+4 - Em caso de resgate, a concessionária tem direito a uma indemnização cujo valor deve atender ao valor contabilístico, à data do resgate, dos bens revertidos para o concedente, livres de quaisquer ónus ou encargos, e ao valor de eventuais lucros cessantes.
+
+5 - O valor contabilístico dos bens referidos no número anterior, à data do resgate, entende-se líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido, incluindo-se nestes o valor dos bens cedidos pelo concedente.
+
+6 - Para os efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação, é determinado de acordo com o seu estado de funcionamento efectivo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLII — Rescisão do contrato de concessão pelo concedente
+
+1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
+
+2 - Constituem, nomeadamente, causas de rescisão do contrato de concessão por parte do concedente, os seguintes factos ou situações:
+
+a) Desvio do objecto e dos fins da concessão;
+
+b) Suspensão ou interrupção injustificadas das actividades objecto da concessão;
+
+c) Oposição reiterada ao exercício da supervisão, acompanhamento e fiscalização da concessão, repetida desobediência às determinações, ordens, diretivas ou instruções do concedente nos termos do contrato de concessão, nomeadamente no que respeita ao fornecimento de informações e documentos solicitados pelo concedente, ou sistemática inobservância das leis e regulamentos aplicáveis à exploração da concessão, quando se mostrem ineficazes as sanções aplicadas;
+
+d) Recusa em proceder aos investimentos necessários à adequada conservação e reparação das infra-estruturas;
+
+e) Recusa ou impossibilidade da concessionária em retomar a concessão nos termos do disposto no n.º 8 da base XXXVII ou, quando o tiver feito, verificar-se a continuação das situações que motivaram o sequestro;
+
+f) Cobrança dolosa das tarifas com valor superior aos fixados;
+
+g) Dissolução ou insolvência da concessionária;
+
+h) Transmissão ou oneração da concessão, no todo ou em parte, sem prévia autorização;
+
+i) Recusa da reconstituição atempada da caução.
+
+3 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior.
+
+4 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1 desta base, possa motivar a rescisão da concessão, o concedente, através do ministro responsável pela área da energia, deve notificar a concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
+
+5 - Caso a concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento nos termos determinados pelo concedente, este pode rescindir o contrato de concessão mediante comunicação enviada à concessionária, por carta registada com aviso de recepção, sem prejuízo do disposto no número seguinte.
+
+6 - Caso o concedente pretenda rescindir o contrato de concessão, designadamente pelos factos referidos na alínea g) do n.º 1, deve previamente notificar os principais credores da concessionária que sejam conhecidos para, no prazo que lhes for determinado, nunca superior a três meses, proporem uma solução que possa sobrestar à rescisão, desde que o concedente com ela concorde.
+
+7 - A comunicação da decisão de rescisão referida no n.º 5 produz efeitos imediatos, independentemente de qualquer outra formalidade.
+
+8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afectos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos nos termos gerais de direito.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLIII — Rescisão do contrato de concessão pela concessionária
+
+1 - A concessionária pode rescindir o contrato de concessão com fundamento em incumprimento grave das obrigações do concedente, se do mesmo resultarem perturbações que ponham em causa o exercício da actividade concedida.
+
+2 - A rescisão prevista no número anterior implica a transmissão de todos os bens e meios afectos à concessão para o concedente, sem prejuízo do direito da concessionária a ser ressarcida dos prejuízos que lhe foram causados, incluindo o valor dos investimentos efectuados e lucros cessantes calculados nos termos previstos anteriormente para o resgate.
+
+3 - A rescisão do contrato de concessão produz efeitos à data da sua comunicação ao concedente por carta registada com aviso de recepção.
+
+4 - No caso de rescisão do contrato de concessão pela concessionária, esta deve seguir o procedimento previsto para o concedente nos n.os 4 e 5 da base anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo XI — Disposições diversas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLIV — Exercício dos poderes do concedente
+
+Os poderes do concedente referidos nas presentes bases, excepto quando devam ser exercidos pelo ministro responsável pela área da energia, devem ser exercidos pela DGGE, sendo os actos praticados pelo respectivo director-geral, ou pela ERSE, consoante as competências de cada uma destas entidades.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLV — Resolução de diferendos
+
+1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de Agosto.
+
+2 - A concessionária e os operadores e utilizadores da RNTGN podem, nos termos da lei, celebrar convenções de arbitragem para solução dos litígios emergentes dos respectivos contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+## Anexo III — (a que se refere o n.º 1 do artigo 68.º) Bases das concessões da actividade de recepção, armazenamento e regaseificação de gás natural liquefeito em terminais de GNL
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo I — Disposições e princípios gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base I — Objecto da concessão
+
+1 - A concessão tem por objeto a atividade de receção, armazenamento e regaseificação de GNL, em terminal de GNL, exercida em regime de serviço público.
+
+2 - Integram-se no objecto da concessão:
+
+a) A recepção, o armazenamento, o tratamento e a regaseificação de GNL;
+
+b) A emissão de gás natural em alta pressão para a RNTGN;
+
+c) A carga e expedição de GNL em camiões-cisterna e navios metaneiros;
+
+d) A construção, a operação, a exploração, a manutenção e a expansão das respectivas infra-estruturas e, bem assim, das instalações necessárias para a sua operação.
+
+3 - A concessionária pode exercer outras actividades para além das que se integram no objecto da concessão, no respeito pela legislação aplicável ao sector do gás natural, com fundamento no proveito daí resultante para a concessão ou com vista a optimizar a utilização dos bens afectos à mesma, desde que essas actividades sejam acessórias ou complementares e não prejudiquem a regularidade e a continuidade da prestação do serviço público e sejam previamente autorizadas pelo concedente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base II — Área da concessão
+
+A área e localização geográfica da concessão são definidas no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base III — Prazo da concessão
+
+1 - O prazo da concessão é fixado pelo concedente no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respectivo contrato.
+
+2 - A concessão pode ser renovada se o interesse público assim o justificar e a concessionária tiver cumprido as suas obrigações legais e contratuais.
+
+3 - A intenção de renovação da concessão deve ser comunicada à concessionária pelo concedente com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IV — Serviço público
+
+1 - A concessionária deve desempenhar as actividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no sector do gás, com vista a garantir, designadamente, a segurança de pessoas e bens.
+
+2 - Com o objectivo de assegurar a permanente adequação da concessão às exigências da regularidade, da continuidade e eficiência do serviço público, o concedente reserva-se no direito de alterar, por via legal ou regulamentar, as condições da sua exploração.
+
+3 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base XXXIV, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base V — Direitos e obrigações da concessionária
+
+1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
+
+2 - À concessionária compete, em particular:
+
+a) Assegurar a exploração e manutenção do terminal e da capacidade de armazenamento em condições de segurança, de fiabilidade e de respeito pelo ambiente, assegurando o cumprimento dos padrões de qualidade de serviço que lhe sejam aplicáveis nos termos do Regulamento de Qualidade de Serviço;
+
+b) Gerir os fluxos de gás natural no terminal e no armazenamento, assegurando a sua interoperacionalidade com a rede de transporte a que o terminal está ligado, no quadro da gestão técnica global do SNGN, nos termos do Regulamento do Terminal de Receção, Armazenamento e Regaseificação de GNL;
+
+c) Facultar aos agentes de mercado as informações de que necessitem para o acesso ao terminal;
+
+d) Receber do operador da rede de transporte, no quadro da gestão técnica global do SNGN, dos operadores de mercado e de todos os agentes diretamente interessados toda a informação necessária à gestão das suas infraestruturas;
+
+e) Fornecer ao operador da rede de transporte, no quadro da gestão técnica global do SNGN, e aos agentes de mercado as informações necessárias ao funcionamento seguro e eficiente do SNGN;
+
+f) Preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas atividades;
+
+g) Medir o GNL recebido no terminal, o GNL entregue ao transporte por rodovia e o gás natural injetado na rede de transporte;
+
+h) Fornecer os serviços destinados a satisfazer, de forma transparente e não discriminatória, os pedidos de acesso ao terminal, tendo em conta as capacidades técnicas das instalações de GNL e os procedimentos de gestão de congestionamentos;
+
+i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navios metaneiros para o terminal respeita as especificações de qualidade dispostas na legislação e regulamentação aplicáveis, em coordenação com o operador da rede de transporte no quadro da gestão técnica global do SNGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base VI — Princípios aplicáveis às relações com os utilizadores
+
+1 - A concessionária deve proporcionar aos utilizadores, de forma não discriminatória e transparente, o acesso às respectivas infra-estruturas, nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos, ou ainda de condicionalismos de natureza contratual desde que aceites pela ERSE.
+
+2 - O disposto no número anterior não impede a concessionária de celebrar contratos a longo prazo, no respeito pelas regras da concorrência.
+
+3 - A concessionária deve facultar aos utilizadores as informações de que estes necessitem para o acesso ao terminal de GNL.
+
+4 - Os utilizadores devem prestar à concessionária todas as informações que esta considere necessárias à correta exploração das respetivas infraestruturas e instalações.
+
+5 - A concessionária deve assegurar o tratamento de dados de utilização do terminal de GNL no respeito pelas disposições legais de proteção de dados pessoais e preservar a confidencialidade das informações comercialmente sensíveis obtidas no seu relacionamento com os utilizadores.
+
+6 - A concessionária deve manter um registo das queixas ou reclamações que lhe tenham sido apresentadas pelos utilizadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo II — Bens e meios afectos à concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VII — Bens e meios afectos à concessão
+
+1 - Consideram-se afectos à concessão os bens necessários à prossecução da actividade de recepção, armazenamento e regaseificação de GNL, designadamente:
+
+a) O terminal e as instalações portuárias integradas no mesmo;
+
+b) As instalações afectas à recepção, ao armazenamento, ao tratamento e à regaseificação de GNL, incluindo todo o equipamento de controlo, regulação e medida indispensável à operação e funcionamento das infra-estruturas e instalações do terminal;
+
+c) As instalações afectas à emissão de gás natural para a RNTGN, e à expedição e à carga de GNL em camiões-cisterna e navios metaneiros;
+
+d) As instalações, e equipamentos, de telecomunicações, telemedida e telecomando afectas à gestão de todas as infra-estruturas e instalações do terminal.
+
+2 - Consideram-se ainda afectos à concessão:
+
+a) Os imóveis pertencentes à concessionária em que estejam implantados os bens referidos no número anterior, assim como as servidões constituídas em benefício da concessão;
+
+b) Os bens móveis ou direitos relativos a bens imóveis utilizados ou relacionados com o exercício da actividade objecto da concessão;
+
+c) Os direitos de expansão da capacidade do terminal necessários à garantia da segurança do abastecimento no âmbito do SNGN;
+
+d) Os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular;
+
+e) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrigações da concessionária, por força de obrigação emergente da lei ou do contrato de concessão e enquanto durar essa vinculação;
+
+f) As relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
+
+3 - Os bens referidos no n.º 1 e na alínea a) do n.º 2 são considerados, para os efeitos da aplicação do regime de oneração e transmissão dos bens afectos à concessão, como infra-estruturas de serviço público que integram a concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VIII — Inventário do património
+
+1 - A concessionária deve elaborar e manter permanentemente actualizado, e à disposição do concedente, um inventário do património afecto à concessão.
+
+2 - No inventário a que se refere o número anterior devem ser mencionados os ónus ou encargos que recaem sobre os bens afectos à concessão.
+
+3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base X.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IX — Manutenção dos bens afectos à concessão
+
+1- A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança, os bens e meios afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
+
+2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-la com antecedência razoável aos utilizadores afetados por tais medidas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base X — Regime de oneração e transmissão dos bens afectos à concessão
+
+1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
+
+2 - Os bens e direitos que tenham perdido utilidade para a concessão são abatidos ao inventário referido na base VIII, mediante prévia autorização do concedente, que se considera concedida se este não se opuser no prazo de 30 dias contados da recepção do pedido.
+
+3 - A oneração ou transmissão de bens imóveis afectos à concessão fica sujeita a autorização do ministro responsável pela área da energia.
+
+4 - A oneração ou transmissão de bens, e direitos, afectos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respectivos actos ou contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XI — Posse e propriedade dos bens
+
+1 - A concessionária detém a posse e propriedade dos bens afectos à concessão até à extinção desta.
+
+2 - Com a extinção da concessão, os bens a ela afectos transferem-se para o concedente nos termos previstos nas presentes bases e no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo III — Sociedade concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XII — Objecto social, sede e forma
+
+1 - O projecto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do ministro responsável pela área da energia.
+
+2 - A sociedade concessionária deve ter como objecto social principal, ao longo de todo o período de duração da concessão, o exercício das actividades integradas no objecto da concessão, devendo manter ao longo do mesmo período a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
+
+3 - O objecto social da concessionária pode incluir o exercício de outras actividades, para além das que integram o objecto da concessão, e bem assim a participação no capital de outras sociedades, desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao sector do gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIII — Acções da concessionária
+
+1 - Todas as acções representativas do capital social da concessionária são obrigatoriamente nominativas.
+
+2 - A oneração e a transmissão de ações representativas do capital social da concessionária depende, sob pena de nulidade, de autorização prévia do concedente, através do membro do Governo responsável pela área da energia, a qual não pode ser infundadamente recusada e se considera tacitamente concedida se não for recusada, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
+
+3 - Exceptua-se do disposto no número anterior a oneração de acções efectuada em benefício das entidades financiadoras de qualquer das actividades que integram o objecto da concessão, e no âmbito dos contratos de financiamento que venham a ser celebrados pela concessionária para o efeito, desde que as entidades financiadoras assumam, nos referidos contratos, a obrigação de obter a autorização prévia do concedente em caso de execução das garantias de que resulte a transmissão a terceiros das acções oneradas.
+
+4 - A oneração de acções referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e bem assim informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XIV — Deliberações da concessionária e acordos entre accionistas
+
+1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do ministro responsável pela área da energia, as deliberações da concessionária relativas à alteração do objecto social, à transformação, fusão, cisão ou dissolução da sociedade.
+
+2 - Os acordos parassociais celebrados entre os accionistas da concessionária, bem como as respectivas alterações, devem ser objecto de aprovação prévia pelo concedente, dada através do ministro responsável pela área da energia.
+
+3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XV — Financiamento
+
+1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objecto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
+
+2 - Para os efeitos do disposto no número anterior, a concessionária deve manter no final de cada ano um rácio de autonomia financeira superior a 20%.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo IV — Construção, planeamento, remodelação e expansão das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVI — Projectos
+
+1 - A construção e a exploração das infra-estruturas que integram a concessão ficam sujeitos à aprovação dos respectivos projectos nos termos da legislação aplicável.
+
+2 - A concessionária é responsável, no respeito pela legislação e regulamentação aplicáveis, pela concepção, projecto e construção de todas as infra-estruturas e instalações que integram a concessão de terminal de GNL, incluindo as necessárias à sua remodelação e expansão.
+
+3 - A aprovação de quaisquer projectos pelo concedente não implica qualquer responsabilidade derivada de erros de concepção, de projecto, de construção ou da inadequação das instalações e do equipamento ao serviço da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVII — Direitos e deveres decorrentes da aprovação dos projectos
+
+1 - A aprovação dos respectivos projectos confere à concessionária, nomeadamente, os seguintes direitos:
+
+a) Utilizar, de acordo com a legislação aplicável, os bens do domínio público ou privado do Estado e de outras pessoas colectivas públicas para o estabelecimento ou passagem das respectivas infra-estruturas ou instalações;
+
+b) Constituir, nos termos da legislação aplicável, as servidões sobre os imóveis necessários ao estabelecimento das respectivas infra-estruturas ou instalações;
+
+c) Proceder à expropriação, por utilidade pública e urgente, nos termos da legislação aplicável, dos bens imóveis, ou direitos a eles relativos, necessários ao estabelecimento das respectivas infra-estruturas ou instalações.
+
+2 - As licenças e autorizações exigidas por lei para a exploração das infra-estruturas e instalações consideram-se outorgadas com a aprovação dos respectivos projectos, sem prejuízo da verificação por parte das entidades licenciadoras da conformidade na sua execução.
+
+3 - Cabe à concessionária o pagamento das indemnizações decorrentes do exercício dos direitos referidos no n.º 1.
+
+4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVIII — Planeamento, remodelação e expansão das infra-estruturas
+
+1 - O planeamento das infra-estruturas está integrado no planeamento da RNTIAT, em particular com a RNTGN, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+2 - Constitui encargo e responsabilidade da concessionária o planeamento, remodelação e expansão das infra-estruturas que integram a concessão, com vista a assegurar a existência permanente de capacidade nas mesmas.
+
+3 - A concessionária deve observar, na remodelação e expansão das infraestruturas, os prazos de execução adequados à permanente satisfação das necessidades identificadas no PDIRGN.
+
+4 - A concessionária deve elaborar periodicamente, nos termos previstos no contrato de concessão, e apresentar ao concedente, o plano de investimentos nas infra-estruturas.
+
+5 - Por razões de interesse público, nomeadamente as relativas à segurança, regularidade e qualidade do abastecimento, o concedente pode determinar a remodelação ou expansão das infra-estruturas que integram a concessão, nos termos fixados no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo V — Exploração das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIX — Condições de exploração
+
+1 - A concessionária é responsável pela exploração das infraestruturas que integram a concessão, e respetivas instalações, em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
+
+2 - A concessionária deve assegurar-se de que o gás recebido no terminal cumpre as características técnicas e as especificações de qualidade estabelecidas e que o seu armazenamento, tratamento, regaseificação e expedição é efectuado em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XX — Informação
+
+1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos do n.º 3 da base i, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia, que o concedente entenda dever solicitar-lhe.
+
+2 - As informações e documentos solicitados pelo concedente devem ser fornecidos no prazo de 10 dias úteis, salvo se for por este fixado um prazo diferente, por decisão fundamentada.
+
+3 - A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido do concedente, no prazo por este fixado, constitui incumprimento do contrato de concessão, designadamente para efeitos da base xxxvi.
+
+4 - A concessionária deve fornecer ao operador da rede com a qual esteja ligada e aos agentes de mercado as informações necessárias para permitir um desenvolvimento coordenado das diversas redes e um funcionamento seguro e eficiente do SNGN.
+
+5 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei e regulamentação aplicável.
+
+6 - A concessionária deve, ainda, solicitar, receber e tratar todas as informações de todos os operadores de mercados e de todos os utilizadores diretamente interessados necessárias à boa gestão das respetivas infraestruturas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXI — Participação de desastres e acidentes
+
+1 - A concessionária é obrigada a participar imediatamente à DGGE todos os desastres e acidentes ocorridos nas suas instalações e, se tal não for possível, no prazo máximo de três dias a contar a partir da data da ocorrência.
+
+2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXII — Ligação das infra-estruturas à RNTGN
+
+A ligação das infra-estruturas do terminal de GNL à RNTGN faz-se nas condições previstas nos regulamentos aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIII — Relacionamento com a concessionária da RNTGN no âmbito da gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento
+
+A concessionária encontra-se sujeita às obrigações que decorrem do exercício, por parte da concessionária da RNTGN, das suas competências em matéria de gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIV — Interrupção por facto imputável ao utilizador
+
+1 - A concessionária pode interromper a prestação do serviço público concessionado nos termos da regulamentação aplicável, e nomeadamente nos seguintes casos:
+
+a) Alteração não autorizada do funcionamento de equipamentos ou sistemas de ligação às respectivas infra-estruturas e instalações que ponha em causa a segurança ou a regularidade do serviço;
+
+b) Incumprimento grave dos regulamentos aplicáveis ou, em caso de emergência, das suas ordens e instruções;
+
+c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta sanção.
+
+2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos utilizadores que causem perturbações que afectem a qualidade do serviço prestado, quando, uma vez identificadas as causas perturbadoras, os utilizadores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXV — Interrupções por razões de interesse público ou de serviço
+
+1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente, quando se trate da execução de planos nacionais de emergência, declarada ao abrigo de legislação específica.
+
+2 - As interrupções das actividades objecto da concessão, por razões de serviço, têm lugar quando haja necessidade imperiosa de realizar manobras ou trabalhos de ligação, reparação ou conservação das infra-estruturas ou instalações, desde que tenham sido esgotadas todas as possibilidades alternativas.
+
+3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores das respectivas infra-estruturas e instalações que possam vir a ser afectados, com a antecedência mínima de trinta e seis horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das infra-estruturas ou instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVI — Medidas de protecção
+
+1 - Sem prejuízo das medidas de emergência adoptadas pelo Governo, quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
+
+2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGGE, às respectivas autoridades concelhias, à autoridade policial da zona afectada e, se for caso disso, ao Serviço Nacional de Protecção Civil.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVII — Responsabilidade civil
+
+1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da actividade objecto da concessão.
+
+2 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das infra-estruturas e instalações integradas na concessão é feita no exclusivo interesse da concessionária.
+
+3 - A concessionária fica obrigada à constituição de um seguro de responsabilidade civil para cobertura dos danos materiais e corporais causados a terceiros e resultantes do exercício da respectiva actividade, cujo montante mínimo obrigatório é fixado por portaria do ministro responsável pela área da energia e actualizável de três em três anos.
+
+4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da actualização referida no número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVIII — Cobertura por seguros
+
+1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
+
+2 - Para além dos seguros referidos na base anterior e no número anterior, a concessionária deve assegurar a existência e a manutenção em vigor das apólices de seguro necessárias para garantir uma efetiva cobertura dos riscos da concessão.
+
+3 - No âmbito da obrigação referida no número anterior, a concessionária fica obrigada a constituir seguros envolvendo todas as infra-estruturas e instalações que integram a concessão, contra riscos de incêndio, explosão e danos devido a terramoto ou temporal, nos termos fixados no contrato de concessão.
+
+4 - O disposto nos números anteriores pode ser objecto de regulamentação pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VI — Garantias e fiscalização do cumprimento das obrigações da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIX — Caução
+
+1 - Para garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução no valor de (euro) 5000000.
+
+2 - O concedente pode utilizar a caução sempre que a concessionária não cumpra qualquer obrigação assumida no contrato de concessão.
+
+3 - O recurso à caução é precedido de despacho do ministro responsável pela área da energia, não dependendo de qualquer outra formalidade ou de prévia decisão judicial ou arbitral.
+
+4 - Sempre que o concedente utilize a caução, a concessionária deve proceder à reposição do seu montante integral no prazo de 30 dias a contar a partir da data daquela utilização.
+
+5 - O valor da caução é actualizado de três em três anos de acordo com o índice de preços no consumidor, no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística.
+
+6 - A caução só pode ser levantada pela concessionária um ano após a data de extinção do contrato de concessão, ou, antes de decorrido aquele prazo, por determinação expressa do concedente, através do ministro responsável pela área da energia, mas sempre após a extinção da concessão.
+
+7 - A caução prevista nesta base, bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente, devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma, à primeira solicitação, cujo texto deve ser previamente aprovado pela DGGE.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXX — Supervisão, acompanhamento, fiscalização e regulação
+
+1 - Sem prejuízo das competências atribuídas a outras entidades públicas, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades públicas, cabe à ERSE o exercício dos poderes de regulação das actividades que integram o objecto da concessão, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+3 - Para efeitos do disposto no n.º 1 e sempre que exista motivo atendível, o concedente pode, nomeadamente:
+
+a) Inquirir os representantes legais e quaisquer colaboradores da concessionária, bem como solicitar-lhes os documentos e outros elementos de informação que entenda necessários ou convenientes;
+
+b) Aceder livremente às instalações da concessionária e proceder à busca, exame, tratamento e recolha de cópias ou extratos dos documentos e outras informações na posse da concessionária que julgue necessários ou convenientes, incluindo através dos respetivos sistemas de informação;
+
+c) Requerer à concessionária a realização dos estudos, testes ou simulações, incluindo com recurso aos respetivos sistemas de informação, que se enquadrem no exercício das funções da concessionária, bem como acompanhar e participar ativamente na sua preparação e realização, designadamente no âmbito da definição dos princípios de base da política energética;
+
+d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos poderes de supervisão, acompanhamento e fiscalização.
+
+4 - O concedente pode recorrer a entidades terceiras devidamente qualificadas para a prestação de assistência técnica que repute conveniente no âmbito do exercício das funções de supervisão, acompanhamento e fiscalização da concessão, as quais gozam dos poderes referidos no número anterior após comunicação à concessionária para o efeito.
+
+5 - A concessionária deve facilitar o exercício dos poderes atribuídos às entidades fiscalizadora e reguladora, nomeadamente prestando todas as informações e fornecendo todos os documentos que lhe forem solicitados por essas entidades no âmbito das respetivas competências, bem como permitindo o livre acesso do pessoal das referidas entidades devidamente credenciado e no exercício das suas funções a todas as suas instalações.
+
+6 - A concessionária deve constituir e manter um seguro de acidentes pessoais, de montante a definir no contrato de concessão, de modo a cobrir os riscos inerentes ao exercício pelo pessoal das entidades fiscalizadora e reguladora das suas funções nas instalações da concessionária.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VII — Modificações objectivas e subjectivas da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXI — Alteração do contrato de concessão
+
+1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respectivo equilíbrio económico e financeiro nos termos previstos na base XXXIV.
+
+2 - O contrato de concessão pode também ser alterado por força de disposição legal imperativa, designadamente decorrente das políticas energéticas aprovadas pela União Europeia e aplicáveis ao Estado Português.
+
+3 - O contrato de concessão pode ainda ser modificado por acordo entre o concedente e a concessionária, desde que a modificação não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXII — Transmissão e oneração da concessão
+
+1 - A concessionária não pode, sem prévia autorização do concedente, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
+
+2 - É equiparada à transmissão da concessão a alienação de ações que resulte na constituição ou modificação de uma relação de domínio sobre a concessionária, conforme definido no artigo 21.º do Código dos Valores Mobiliários ou em norma que o venha a substituir.
+
+3 - Os atos praticados ou os contratos celebrados em violação do disposto nos números anteriores são nulos e desprovidos de quaisquer efeitos jurídicos, sem prejuízo de outras sanções aplicáveis.
+
+4 - No caso de subconcessão ou de trespasse, a concessionária deve comunicar ao concedente a sua intenção de proceder à subconcessão ou ao trespasse, remetendo-lhe a minuta do respectivo contrato de subconcessão ou de trespasse que se propõe assinar e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do subconcessionário ou do trespassário.
+
+5 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações decorrentes do contrato de concessão.
+
+6 - Ocorrendo trespasse da concessão, consideram-se transmitidos para o trespassário todos os direitos e obrigações da concessionária, assumindo aquele ainda os deveres, as obrigações e os encargos que eventualmente venham a ser-lhe impostos pelo concedente como condição para a autorização do trespasse.
+
+7 - A concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse, em termos em que não seja afectada ou interrompida a prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo VIII — Condição económica e financeira da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIII — Equilíbrio económico e financeiro do contrato
+
+1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
+
+2 - O equilíbrio económico e financeiro baseia-se no reconhecimento dos custos de investimento, de operação e manutenção e na adequada remuneração dos activos afectos à concessão.
+
+3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIV — Reposição do equilíbrio económico e financeiro
+
+1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio económico e financeiro da concessão, nos seguintes casos:
+
+a) Modificação unilateral, imposta pelo concedente, das condições de exploração da concessão, nos termos previstos nos n.os 2 e 3 da base IV, desde que, em resultado directo da mesma, se verifique, para a concessionária, um determinado aumento de custos ou uma determinada perda de receitas e esta não possa legitimamente proceder a tal reposição por recurso aos meios resultantes de uma correcta e prudente gestão;
+
+b) Alterações legislativas que tenham um impacte directo sobre as receitas ou custos respeitantes às actividades integradas na concessão.
+
+2 - Nos casos previstos no número anterior, a concessionária apenas tem direito à reposição do equilíbrio económico e financeiro da concessão na medida em que o impacte sobre os proveitos ou custos não seja suscetível de consideração no âmbito da atividade reguladora.
+
+3 - Os parâmetros, termos e critérios da reposição do equilíbrio económico e financeiro da concessão são fixados no contrato de concessão.
+
+4 - Sempre que haja lugar à reposição do equilíbrio económico e financeiro da concessão, tal reposição pode ter lugar através de uma das seguintes modalidades:
+
+a) Prorrogação do prazo da concessão;
+
+b) Revisão do cronograma ou redução das obrigações de investimento previamente aprovados;
+
+c) Atribuição de compensação directa pelo concedente;
+
+d) Combinação das modalidades anteriores ou qualquer outra forma que seja acordada.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo IX — Incumprimento do contrato de concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXV — Responsabilidade da concessionária por incumprimento
+
+1 - A violação, pela concessionária, de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
+
+2 - A responsabilidade da concessionária cessa sempre que ocorra caso de força maior, ficando a seu cargo fazer prova da ocorrência.
+
+3 - Consideram-se unicamente casos de força maior os acontecimentos imprevisíveis e irresistíveis cujos efeitos se produzam independentemente da vontade ou circunstâncias pessoais da concessionária.
+
+4 - Constituem, nomeadamente, casos de força maior actos de guerra, hostilidades ou invasão, terrorismo, epidemias, radiações atómicas, graves inundações, raios, ciclones, tremores de terra e outros cataclismos naturais que afectem a actividade compreendida na concessão.
+
+5 - A ocorrência de um caso de força maior tem por efeito exonerar a concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do contrato de concessão que sejam afectadas pela ocorrência do mesmo, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido.
+
+6 - No caso de impossibilidade de cumprimento do contrato de concessão por causa de força maior, o concedente pode proceder à sua rescisão nos termos fixados no mesmo.
+
+7 - A concessionária fica obrigada a comunicar ao concedente de imediato a ocorrência de qualquer evento qualificável como caso de força maior, bem como, no mais curto prazo possível, a indicar as obrigações emergentes do contrato de concessão cujo cumprimento, no seu entender, se encontra impedido ou dificultado por força de tal ocorrência e, bem assim, se for o caso, as medidas que tomou ou pretende tomar para fazer face à situação ocorrida, a fim de mitigar o impacte do referido evento e os respectivos custos.
+
+8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVI — Sanções contratuais
+
+1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante é variável, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
+
+2 - Igualmente sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o não cumprimento do disposto nas bases xx e xxx sujeita a concessionária às seguintes sanções:
+
+a) Ao pagamento de multa até ao montante de (euro) 2 500 000, variando o respetivo montante em função da relevância dos documentos ou informações para o funcionamento do SNGN, do carácter reiterado ou ocasional do incumprimento, do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que a concessionária tenha posto na superação de consequências;
+
+b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compulsória, num montante que não excederá 5 % do montante máximo da multa que seria aplicável nos termos da alínea anterior, por dia de atraso, a contar da data fixada na decisão do concedente que determinou a prestação das informações, até ao montante máximo global de (euro) 2 500 000.
+
+3 - A aplicação de multas contratuais e sanções pecuniárias compulsórias depende de notificação prévia da concessionária pelo concedente para reparar o incumprimento e do não cumprimento, pela concessionária, do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta naquele prazo.
+
+4 -  O prazo de reparação do incumprimento é fixado pelo concedente de acordo com critérios de razoabilidade e tem sempre em atenção a defesa do interesse público e a manutenção em funcionamento da concessão.
+
+5 - A concessionária pode, no prazo fixado na notificação a que se refere o número anterior, e em momento anterior ao da aplicação de quaisquer multas contratuais ou sanções pecuniárias compulsórias, exercer por escrito o seu direito de defesa.
+
+6 - É da competência do diretor-geral da DGEG a aplicação das multas contratuais e sanções pecuniárias compulsórias.
+
+7 - Caso a concessionária não proceda ao pagamento voluntário das multas contratuais ou sanções pecuniárias compulsórias que lhe forem aplicadas no prazo de 20 dias a contar da sua fixação e notificação pelo concedente, este pode utilizar a caução para pagamento das mesmas.
+
+8 -O valor máximo das multas estabelecido na presente base é actualizado em Janeiro de cada ano, de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística, referente ao ano anterior.
+
+9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiro.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XXXVII — Sequestro
+
+1 - Em caso de incumprimento grave, pela concessionária, das obrigações emergentes do contrato de concessão, o concedente, através de despacho do ministro responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
+
+2 - O sequestro da concessão pode ter lugar, nomeadamente, quando se verifique qualquer das seguintes situações, por motivos imputáveis à concessionária:
+
+a) Estiver iminente ou ocorrer a cessação ou interrupção, total ou parcial, do desenvolvimento da actividade objecto da concessão;
+
+b) Deficiências graves na organização, no funcionamento ou no regular desenvolvimento da actividade objecto da concessão, bem como situações de insegurança de pessoas e bens;
+
+c) Deficiências graves no estado geral das infraestruturas, instalações ou equipamentos que comprometam a continuidade ou a qualidade da atividade objeto da presente concessão ou a segurança do abastecimento do SNGN.
+
+3 - A concessionária está obrigada a proceder à entrega da concessão no prazo que lhe for fixado pelo concedente quando lhe for comunicada a decisão de sequestro da concessão.
+
+4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da concessão, observar se-á, com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 4 a 5 da base XLII.
+
+5 - Verificado o sequestro, a concessionária suporta todos os encargos que resultarem, para o concedente, do exercício da concessão, bem como as despesas extraordinárias necessárias ao restabelecimento da normalidade.
+
+6 - Logo que cessem as razões do sequestro, seja restabelecido o normal funcionamento da concessão e o concedente o julgue oportuno, a concessionária é notificada para retomar a concessão no prazo que lhe seja fixado.
+
+7 - A concessionária pode optar pela rescisão da concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da concessão, sendo então aplicável o disposto na base XLIII.
+
+8 - Se a concessionária não retomar a concessão no prazo que lhe for fixado, pode o concedente, através do ministro responsável pela área da energia, determinar a imediata rescisão do contrato de concessão.
+
+9 - No caso de a concessionária ter retomado o exercício da concessão e continuarem a verificar-se graves deficiências no mesmo, pode o concedente, através do ministro responsável pela área da energia, ordenar novo sequestro ou determinar a imediata rescisão do contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo X — Suspensão e extinção da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVIII — Casos de extinção da concessão
+
+1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respectivo prazo.
+
+2 - A extinção da concessão opera a transmissão para o concedente de todos os bens e meios a ela afectos, nos termos previstos nas presentes bases e no contrato de concessão, bem como dos direitos e das obrigações inerentes ao seu exercício, sem prejuízo do direito de regresso do concedente sobre a concessionária pelas obrigações por esta assumidas que sejam estranhas às actividades da concessão ou que hajam sido contraídas em violação da lei ou do contrato de concessão ou, ainda, que sejam obrigações vencidas e não cumpridas.
+
+3 - Da transmissão prevista no número anterior excluem-se os fundos ou reservas consignados à garantia ou cobertura de obrigações da concessionária de cujo cumprimento lhe seja dada quitação pelo concedente, a qual se presume se decorrido um ano sobre a extinção da concessão não houver declaração em contrário do concedente, através do ministro responsável pela área da energia.
+
+4 - A tomada de posse da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, à qual assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respectivo auto.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIX — Procedimentos em caso de extinção da concessão
+
+1 - O concedente reserva-se o direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efectuar, durante o mesmo prazo, a transferência progressiva da actividade objecto da concessão para a nova concessionária.
+
+2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XL — Decurso do prazo da concessão
+
+1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
+
+2 - Cessando a concessão pelo decurso do prazo, é paga pelo Estado à concessionária uma indemnização correspondente ao valor contabilístico dos bens afectos à concessão, adquiridos pela concessionária, com referência ao último balanço aprovado, líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido.
+
+3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLI — Resgate da concessão
+
+1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com pelo menos 1 ano de antecedência.
+
+2 - O concedente assume, decorrido o período de um ano sobre a notificação do resgate, todos os bens e meios afectos à concessão anteriormente à data dessa notificação, incluindo todos os direitos e obrigações inerentes ao exercício da concessão, e ainda aqueles que tenham sido assumidos pela concessionária após a data da notificação desde que tenham sido previamente autorizados pelo concedente, através do ministro responsável pela área da energia.
+
+3 - A assunção de obrigações por parte do concedente é feita, sem prejuízo do seu direito de regresso sobre a concessionária, pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
+
+4 - Em caso de resgate, a concessionária tem direito a uma indemnização cujo valor deve atender ao valor contabilístico, à data do resgate, dos bens revertidos para o concedente, livres de quaisquer ónus ou encargos, e ao valor de eventuais lucros cessantes.
+
+5 - O valor contabilístico dos bens referidos no número anterior, à data do resgate, entende-se líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido, incluindo-se nestes o valor dos bens cedidos pelo concedente.
+
+6 - Para efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação, é determinado de acordo com o seu estado de funcionamento efectivo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLII — Rescisão do contrato de concessão pelo concedente
+
+1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
+
+2 - Constituem, nomeadamente, causas de rescisão do contrato de concessão por parte do concedente, os seguintes factos ou situações:
+
+a) Desvio do objecto e dos fins da concessão;
+
+b) Suspensão ou interrupção injustificadas das actividades objecto da concessão;
+
+c) Oposição reiterada ao exercício da supervisão, acompanhamento e fiscalização da concessão, repetida desobediência às determinações, ordens, diretivas ou instruções do concedente nos termos do contrato de concessão, nomeadamente no que respeita ao fornecimento de informações e documentos solicitados pelo concedente, ou sistemática inobservância das leis e regulamentos aplicáveis à exploração da concessão, quando se mostrem ineficazes as sanções aplicadas;
+
+d) Recusa em proceder à adequada conservação e reparação das infra-estruturas ou ainda à sua necessária ampliação;
+
+e) Recusa ou impossibilidade da concessionária em retomar a concessão, nos termos do disposto no n.º 8 da base XXXVII, ou, quando o tiver feito, continuação das situações que motivaram o sequestro;
+
+f) Cobrança dolosa das tarifas com valor superior ao fixado;
+
+g) Dissolução ou insolvência da concessionária;
+
+h) Transmissão ou oneração da concessão, no todo ou em parte, sem prévia autorização;
+
+i) Recusa da reconstituição atempada da caução.
+
+3 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior.
+
+4 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1 desta base, possa motivar a rescisão da concessão, o concedente, através do ministro responsável pela área da energia, deve notificar a concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
+
+5 - Caso a concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento nos termos determinados pelo concedente, este pode rescindir o contrato de concessão mediante comunicação enviada à concessionária, por carta registada com aviso de recepção, sem prejuízo do disposto no número seguinte.
+
+6 - Caso o concedente pretenda rescindir o contrato de concessão, designadamente pelos factos referidos na alínea g) do n.º 1, deve previamente notificar os principais credores da concessionária que sejam conhecidos para, no prazo que lhes for determinado, nunca superior a três meses, proporem uma solução que possa sobrestar à rescisão, desde que o concedente com ela concorde.
+
+7 - A comunicação da decisão de rescisão referida no n.º 5 produz efeitos imediatos, independentemente de qualquer outra formalidade.
+
+8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afectos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos nos termos gerais de direito.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+###### Base XLIII — Rescisão do contrato de concessão pela concessionária
+
+1 - A concessionária pode rescindir o contrato de concessão com fundamento no incumprimento grave das obrigações do concedente, se do mesmo resultarem perturbações que ponham em causa o exercício da actividade concedida.
+
+2 - A rescisão prevista no número anterior implica a transmissão de todos os bens e meios afectos à concessão para o concedente, sem prejuízo do direito da concessionária ser ressarcida dos prejuízos que lhe foram causados, incluindo o valor dos investimentos efectuados e lucros cessantes calculados nos termos previstos anteriormente para o resgate.
+
+3 - A rescisão do contrato de concessão produz efeitos à data da sua comunicação ao concedente por carta registada com aviso de recepção.
+
+4 - No caso de rescisão do contrato de concessão pela concessionária, esta deve seguir o procedimento previsto para o concedente nos n.os 4 e 5 da base anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo XI — Disposições diversas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLIV — Exercício dos poderes do concedente
+
+Os poderes do concedente referidos nas presentes bases, excepto quando devam ser exercidos pelo ministro responsável pela área da energia, devem ser exercidos pela DGGE, sendo os actos praticados pelo respectivo Director-Geral, ou pela ERSE, consoante as competências de cada uma destas entidades.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLV — Resolução de diferendos
+
+1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de Agosto.
+
+2 - A concessionária e os operadores e utilizadores da RNTGN podem, nos termos da lei, celebrar convenções de arbitragem para solução dos litígios emergentes dos respectivos contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+## Anexo IV — (a que se refere o n.º 1 do artigo 70.º) Bases das concessões da actividade de distribuição de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo I — Disposições e princípios gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base I — Objecto da concessão
+
+1 - A concessão tem por objecto a actividade de distribuição regional de gás natural em baixa e média pressão exercida em regime de serviço público através da RNDGN na área que venha a ser definida no contrato de concessão.
+
+2 - Integram-se no objecto da concessão:
+
+a) O recebimento, veiculação e entrega de gás natural em média e baixa pressões;
+
+b) A construção, operação, exploração, manutenção e expansão de todas as infra-estruturas que integram a RNDGN, na área correspondente à concessão e, bem assim, das instalações necessárias para a sua operação.
+
+3 - Integram-se ainda no objecto da concessão:
+
+a) O planeamento, desenvolvimento, expansão e gestão técnica da RNDGN e a construção das respectivas infra-estruturas e das instalações necessárias para a sua operação;
+
+b) A gestão da interligação da RNDGN com a RNTGN.
+
+4 - Sem prejuízo do disposto no artigo 31.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro, a concessionária pode exercer outras actividades, para além das que se integram no objecto da concessão, no respeito pela legislação aplicável ao sector do gás natural, com fundamento no proveito daí resultante para a concessão ou com vista a optimizar a utilização dos bens afectos à mesma, desde que essas actividades sejam acessórias ou complementares e não prejudiquem a regularidade e a continuidade da prestação do serviço público e sejam previamente autorizadas pelo concedente.
+
+5 - A concessionária é desde já autorizada, nos termos do número anterior, a explorar, directa ou indirectamente, ou ceder a exploração, da capacidade excedentária da rede de telecomunicações instalada para a operação da RNDGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base II — Âmbito e exclusividade da concessão
+
+1 - A concessão tem como âmbito geográfico os concelhos indicados no contrato de concessão e é exercida em regime de exclusivo, sem prejuízo do direito de acesso de terceiros às várias infra-estruturas que a integram nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis.
+
+2 - O regime de exclusivo referido no n.º 1 pode ser alterado em conformidade com a política energética aprovada pela União Europeia e aplicável ao Estado Português.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base III — Prazo da concessão
+
+1 - O prazo da concessão é fixado no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respectivo contrato.
+
+2 - A concessão pode ser renovada se o interesse público assim o justificar e a concessionária tiver cumprido as suas obrigações legais e contratuais.
+
+3 - A intenção de renovação da concessão deve ser comunicada à concessionária, pelo concedente, com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IV — Serviço público
+
+1 - A concessionária deve desempenhar a actividade concessionada de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no sector do gás, com vista a garantir, designadamente, a segurança de pessoas e bens.
+
+2 - Com o objectivo de assegurar a permanente adequação da concessão às exigências da regularidade, da continuidade e eficiência do serviço público, o concedente reserva-se o direito de alterar, por via legal ou regulamentar, as condições da sua exploração.
+
+3 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base XXXIV, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base V — Direitos e obrigações da concessionária
+
+1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidas no Decreto-Lei n.º 30/2006, de 15 de Fevereiro, e demais legislação e regulamentação aplicáveis à actividade que integra o objecto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases e no contrato de concessão.
+
+2 - A concessionária deve contribuir para a segurança do abastecimento de gás natural, assegurando nomeadamente a capacidade das respectivas redes e demais infra-estruturas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VI — Princípios aplicáveis às relações com os utilizadores
+
+1 - A concessionária deve proporcionar aos utilizadores da RNDGN, de forma não discriminatória e transparente, o acesso às respectivas infra-estruturas, nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos, ou ainda de condicionalismos de natureza contratual desde que aceites pela ERSE.
+
+2 - O disposto no número anterior não impede a concessionária de celebrar contratos a longo prazo, no respeito pelas regras da concorrência.
+
+3 - A concessionária tem o direito de receber pela utilização das redes e demais infra-estruturas e pela prestação dos serviços inerentes uma retribuição por aplicação de tarifas reguladas definidas no Regulamento Tarifário.
+
+4 - A concessionária deve preservar a confidencialidade das informações comercialmente sensíveis obtidas no seu relacionamento com os utilizadores, bem como a de quaisquer outros dados no respeito pelas disposições legais aplicáveis à protecção de dados pessoais.
+
+5 - A concessionária deve manter, por um prazo de cinco anos, um registo das queixas ou reclamações que lhe tenham sido apresentadas pelos utilizadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo II — Bens e meios afectos à concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VII — Bens e meios afectos à concessão
+
+1 - Consideram-se afectos à concessão os bens que constituem a RNDGN na parte correspondente à área da mesma, designadamente:
+
+a) O conjunto de condutas de distribuição de gás natural a jusante das estações de redução de pressão de 1.ª classe com as respectivas tubagens, válvulas de seccionamento, antenas e estações de compressão;
+
+b) As instalações afectas à redução de pressão para entrega a clientes finais, incluindo todo o equipamento de controlo, regulação e medida indispensável à operação e funcionamento do sistema de distribuição de gás natural;
+
+c) As instalações e equipamentos de telecomunicações, telemedida e telecomando afectas à gestão das instalações de distribuição e entrega de gás natural aos clientes finais.
+
+2 - Consideram-se ainda afectos à concessão:
+
+a) Os imóveis pertencentes à concessionária em que estejam implantados os bens referidos no número anterior, assim como as servidões constituídas em benefício da concessão;
+
+b) Outros bens móveis ou direitos relativos a bens imóveis utilizados ou relacionados com o exercício da actividade objecto da concessão;
+
+c) Os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular;
+
+d) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrigações da concessionária, por força de obrigação emergente da lei ou do contrato de concessão e enquanto durar essa vinculação;
+
+e) As relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços;
+
+f) Os activos incorpóreos correspondentes aos investimentos realizados pelas concessionárias associados aos processos de conversão de clientes para gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base VIII — Inventário do património
+
+1 - A concessionária deve elaborar e manter permanentemente actualizado, e à disposição do concedente, um inventário do património afecto à concessão.
+
+2 - No inventário a que se refere o número anterior devem ser mencionados os ónus ou encargos que recaem sobre os bens afectos à concessão.
+
+3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base X.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base IX — Manutenção dos bens afectos à concessão
+
+A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança, os bens e meios afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base X — Regime de oneração e transmissão dos bens afectos à concessão
+
+1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
+
+2 - Os bens e direitos que tenham perdido utilidade para a concessão são abatidos ao inventário referido na base VIII, mediante prévia autorização do concedente, que se considera concedida se este não se opuser no prazo de 30 dias contados da recepção do pedido.
+
+3 - A oneração ou transmissão de bens imóveis afectos à concessão fica sujeita a autorização do ministro responsável pela área da energia.
+
+4 - A oneração ou transmissão de bens, e direitos, afectos à concessão em desrespeito do disposto na presente base determina a nulidade dos respectivos actos ou contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XI — Posse e propriedade dos bens
+
+1 - A concessionária detém a posse e propriedade dos bens afectos à concessão enquanto durar a concessão e até à extinção desta.
+
+2 - Com a extinção da concessão, os bens a ela afectos transferem-se para o concedente nos termos previstos nas presentes bases e no contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo III — Sociedade concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XII — Objecto social, sede e forma
+
+1 - O projecto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do ministro responsável pela área da energia.
+
+2 - A concessionária deve ter como objecto social principal, ao longo de todo o período de duração da concessão, o exercício da actividade integrada no objecto da concessão, devendo manter ao longo do mesmo período a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
+
+3 - O objecto social da concessionária pode incluir o exercício de outras actividades, para além das que integram o objecto da concessão e, bem assim, a participação no capital de outras sociedades, desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao sector do gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIII — Acções da concessionária
+
+1 - Todas as acções representativas do capital social da concessionária são obrigatoriamente nominativas.
+
+2 - A oneração ou transmissão de acções representativas do capital social da concessionária depende, sob pena de nulidade, de autorização prévia do concedente, a qual não pode ser infundadamente recusada e se considera tacitamente concedida se não for recusada, por escrito, no prazo de 30 dias a contar a partir da data da respectiva solicitação.
+
+3 - Exceptua-se do disposto no número anterior a oneração de acções efectuada em benefício das entidades financiadoras de qualquer das actividades que integram o objecto da concessão, e no âmbito dos contratos de financiamento que venham a ser celebrados pela concessionária para o efeito, desde que as entidades financiadoras assumam, nos referidos contratos, a obrigação de obter a autorização prévia do concedente em caso de execução das garantias de que resulte a transmissão a terceiros das acções oneradas.
+
+4 - A oneração de acções referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e, bem assim, informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIV — Deliberações dos órgãos da sociedade concessionária e acordos entre accionistas
+
+1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do ministro responsável pela área da energia, as deliberações da concessionária relativas à alteração do objecto social, à transformação, fusão, cisão ou dissolução da sociedade.
+
+2 - Os acordos parassociais celebrados entre os accionistas da concessionária, bem como as respectivas alterações, devem ser objecto de aprovação prévia pelo concedente, através do ministro responsável pela área da energia.
+
+3 - As autorizações a aprovações previstas na presente base não podem ser infundadamente recusadas e considerar-se-ão tacitamente concedidas se não forem recusadas, por escrito, no prazo de 30 dias a contar a partir da data da respectiva solicitação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XV — Financiamento
+
+1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objecto da concessão, de forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
+
+2 - Para os efeitos do disposto no n.º 1, a concessionária deve manter, no final de cada ano, um rácio de autonomia financeira superior a 20%.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo IV — Construção, planeamento, remodelação e expansão das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVI — Projectos
+
+1 - A construção e a exploração da rede e demais infra-estruturas de distribuição de gás natural ficam sujeitas à aprovação dos respectivos projectos nos termos da legislação aplicável.
+
+2 - A concessionária é responsável pela concepção, projecto e construção de todas as infra-estruturas e instalações que integram a concessão, bem como pela sua remodelação e expansão.
+
+3 - A aprovação dos projectos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de concepção, projecto, construção ou da inadequação das instalações e do equipamento ao serviço da concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVII — Direitos e deveres decorrentes da aprovação dos projectos
+
+1 - A aprovação dos respectivos projectos confere à concessionária, nomeadamente, os seguintes direitos:
+
+a) Utilizar, de acordo com a legislação aplicável, os bens do domínio público ou privado do Estado e de outras pessoas colectivas públicas para o estabelecimento ou passagem das respectivas infra-estruturas ou instalações;
+
+b) Constituir, nos termos da legislação aplicável, as servidões sobre os imóveis necessários ao estabelecimento das respectivas infra-estruturas ou instalações;
+
+c) Proceder à expropriação, por utilidade pública e urgente, nos termos da legislação aplicável, dos bens imóveis, ou direitos a eles relativos, necessários ao estabelecimento das respectivas infra-estruturas ou instalações.
+
+2 - As licenças e autorizações exigidas por lei para a exploração das redes e demais infra-estruturas consideram-se outorgadas à concessionária com a aprovação dos respectivos projectos, sem prejuízo da verificação por parte das entidades licenciadoras da conformidade na sua execução.
+
+3 - Cabe à concessionária o pagamento das indemnizações decorrentes do exercício dos direitos referidos no n.º 1.
+
+4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XVIII — Planeamento, remodelação e expansão das redes e demais infra-estruturas
+
+1 - O planeamento das redes e demais infra-estruturas está integrado no planeamento da RNDGN, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+2 - Constitui encargo e responsabilidade da concessionária o planeamento, remodelação e expansão das redes e demais infra-estruturas de distribuição de gás natural que integram a concessão, tendo em conta as condições exigíveis à satisfação do consumo na área da concessão de acordo a expansão previsional do mercado de gás natural.
+
+3 - A concessionária deve observar na remodelação e expansão das infraestruturas os prazos de execução adequados à permanente satisfação das necessidades identificadas no PDIRGN e no respetivo PDIRD.
+
+4 - A concessionária deve elaborar e apresentar ao concedente, nos termos previstos na legislação e regulamentação aplicáveis e de forma articulada com a gestão técnica global do sistema e com os utilizadores, o respetivo PDIRD.
+
+5 - Por razões de interesse público, nomeadamente as relativas à segurança, regularidade e qualidade do abastecimento, o concedente pode determinar a remodelação ou expansão das redes e infra-estruturas que integram a concessão, nos termos que venham a ser fixados no respectivo contrato.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25
+
+### Capítulo V — Exploração das infra-estruturas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XIX — Condições de exploração
+
+1 - A concessionária, enquanto operadora da RNDGN na área da sua concessão, é responsável pela exploração e manutenção das redes e infra-estruturas que integram a concessão, no respeito pela legislação e regulamentação aplicáveis.
+
+2 - Compete à concessionária gerir os fluxos de gás natural na rede, assegurando a sua interoperacionalidade com as outras redes a que esteja ligada e com as instalações dos consumidores, no quadro da gestão técnica global do sistema.
+
+3 - A concessionária deve assegurar que a distribuição de gás natural é efectuada em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XX — Informação
+
+A concessionária tem a obrigação de fornecer ao concedente todos os elementos relativos à concessão que este entenda dever solicitar-lhe.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXI — Participação de desastres e acidentes
+
+1 - A concessionária é obrigada a participar imediatamente à DGGE todos os desastres e acidentes ocorridos nas suas instalações e, se tal não for possível, no prazo máximo de três dias a contar a partir da data da ocorrência.
+
+2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXII — Ligações das redes de distribuição à RNTGN e aos consumidores
+
+1 - A ligação das redes de distribuição à RNTGN deve fazer-se nas condições previstas nos regulamentos aplicáveis.
+
+2 - A ligação das redes de distribuição aos consumidores deve fazer-se nas condições previstas nos regulamentos aplicáveis.
+
+3 - A concessionária pode recusar, fundamentadamente, o acesso às respectivas redes e infra-estruturas com base na falta de capacidade ou falta de ligação, ou se esse acesso a impedir de cumprir as suas obrigações de serviço público.
+
+4 - A concessionária pode ainda recusar a ligação aos consumidores finais sempre que as instalações e os equipamentos de recepção dos mesmos não preencham as disposições legais e regulamentares aplicáveis, nomeadamente as respeitantes aos requisitos técnicos e de segurança.
+
+5 - A concessionária pode impor aos consumidores, sempre que o exijam razões de segurança, a substituição, reparação ou adaptação dos respectivos equipamentos de ligação ou de recepção.
+
+6 - A concessionária tem o direito de montar, nas instalações dos consumidores, equipamentos de medida ou de telemedida, bem como sistemas de protecção nos pontos de ligação da sua rede com essas instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIII — Relacionamento com a concessionária da RNTGN
+
+A concessionária encontra-se sujeita às obrigações que decorrem do exercício, por parte da concessionária da RNTGN, das suas competências em matéria de gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIV — Interrupção por facto imputável ao consumidor
+
+1 - A concessionária pode interromper a prestação do serviço público concessionado nos termos da regulamentação aplicável e, nomeadamente, nos seguintes casos:
+
+a) Alteração não autorizada do funcionamento de equipamentos de queima ou sistemas de ligação às redes de distribuição de gás natural que ponha em causa a segurança ou a regularidade da entrega;
+
+b) Incumprimento grave dos regulamentos aplicáveis ou, em caso de emergência, das suas ordens e instruções;
+
+c) Incumprimento de obrigações contratuais pelo cliente final, designadamente em caso de falta de pagamento a qualquer comercializador de gás natural, incluindo o comercializador de último recurso.
+
+2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos consumidores que causem perturbações que afectem a qualidade do serviço prestado quando, uma vez identificadas as causas perturbadoras, os consumidores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXV — Interrupções por razões de interesse público ou de serviço
+
+1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência, declarada ao abrigo de legislação específica.
+
+2 - As interrupções das actividades objecto da concessão, por razões de serviço, têm lugar quando haja necessidade imperiosa de realizar manobras ou trabalhos de ligação, reparação ou conservação das infra-estruturas ou instalações, desde que tenham sido esgotadas todas as possibilidades alternativas.
+
+3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores das redes e os consumidores que possam vir a ser afectados, com a antecedência mínima de 36 horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das redes e demais infra-estruturas de distribuição de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVI — Medidas de protecção
+
+1 - Sem prejuízo das medidas de emergência adoptadas pelo Governo, quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
+
+2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGGE, às respectivas autoridades concelhias, à autoridade policial da zona afectada e, se for caso disso, ao Serviço Nacional de Protecção Civil.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVII — Responsabilidade civil
+
+1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da actividade objecto da concessão.
+
+2 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das infra-estruturas e instalações integradas na concessão é feita no exclusivo interesse da concessionária.
+
+3 - A concessionária fica obrigada à constituição de um seguro de responsabilidade civil para cobertura dos danos materiais e corporais causados a terceiros e resultantes do exercício da respectiva actividade, cujo montante mínimo obrigatório é fixado por portaria do ministro responsável pela área da energia e actualizável de três em três anos.
+
+4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da actualização referida no número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXVIII — Cobertura por seguros
+
+1 - Para além do seguro referido na base anterior, a concessionária deve assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva cobertura dos riscos da concessão.
+
+2 - No âmbito da obrigação referida no número anterior, a concessionária fica obrigada a constituir seguros envolvendo todas as infra-estruturas e instalações que integram a concessão, contra riscos de incêndio, explosão e danos devido a terramoto ou temporal, nos termos fixados no contrato de concessão.
+
+3 - O disposto nos números anteriores pode ser objecto de regulamentação pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo VI — Garantias e fiscalização do cumprimento das obrigações da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXIX — Caução
+
+1 - Para a garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução a definir no contrato de concessão entre (euro) 1000000 e (euro) 5000000.
+
+2 - O concedente pode utilizar a caução sempre que a concessionária não cumpra qualquer obrigação assumida no contrato de concessão.
+
+3 - O recurso à caução é precedido de despacho do ministro responsável pela área da energia, não dependendo de qualquer outra formalidade ou de prévia decisão judicial ou arbitral.
+
+4 - Sempre que o concedente utilize a caução, a concessionária deve proceder à reposição do seu montante integral no prazo de 30 dias a contar a partir da data daquela utilização.
+
+5 - O valor da caução é actualizado de três em três anos de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística.
+
+6 - A caução só pode ser levantada pela concessionária um ano após a data da extinção do contrato de concessão ou antes de decorrido aquele prazo por determinação expressa do concedente, através do ministro responsável pela área da energia, mas sempre após a extinção da concessão.
+
+7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma à primeira solicitação, cujo texto deve ser previamente aprovado pelo concedente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXX — Fiscalização e regulação
+
+1 - Sem prejuízo das competências atribuídas a outras entidades públicas, cabe à DGGE o exercício dos poderes de fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades públicas, cabe à ERSE o exercício dos poderes de regulação das actividades que integram o objecto da concessão, nos termos previstos na legislação e na regulamentação aplicáveis.
+
+3 - Para efeitos do disposto nos números anteriores, a concessionária deve prestar todas as informações e facultar todos os documentos que lhe forem solicitados pelas entidades fiscalizadora e reguladora no âmbito das respectivas competências, bem como permitir o livre acesso do pessoal das referidas entidades devidamente credenciado e no exercício das suas funções a todas as suas instalações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo VII — Modificações objectivas e subjectivas da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXI — Alteração do contrato de concessão
+
+1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respectivo equilíbrio económico e financeiro nos termos previstos na base XXXIV.
+
+2 - O contrato de concessão pode também ser alterado por força de disposição legal imperativa, designadamente a decorrente das políticas energéticas aprovadas pela União Europeia e aplicáveis ao Estado Português.
+
+3 - O contrato de concessão pode ainda ser modificado por acordo entre o concedente e a concessionária, desde que a modificação não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXII — Transmissão e oneração da concessão
+
+1 - A concessionária não pode, sem prévia autorização do concedente, através do ministro responsável pela área da energia, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
+
+2 - Os actos praticados ou os contratos celebrados em violação do disposto no número anterior são nulos, sem prejuízo de outras sanções aplicáveis.
+
+3 - No caso de subconcessão ou de trespasse, a concessionária deve comunicar ao concedente a sua intenção de proceder à subconcessão ou ao trespasse, remetendo-lhe a minuta do respectivo contrato de subconcessão ou de trespasse e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do subconcessionário ou do trespassário.
+
+4 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações decorrentes do contrato de concessão.
+
+5 - Ocorrendo trespasse da concessão, consideram-se transmitidos para o trespassário todos os direitos e obrigações da concessionária, assumindo ainda aquele os deveres, as obrigações e os encargos que eventualmente venham a ser-lhe impostos pelo concedente como condição para a autorização do trespasse.
+
+6 - A concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse, em termos em que não seja afectada ou interrompida a prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo VIII — Condição económica e financeira da concessionária
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIII — Equilíbrio económico e financeiro da concessão
+
+1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
+
+2 - O equilíbrio económico e financeiro baseia-se no reconhecimento dos custos de investimento, de operação e manutenção e na adequada remuneração dos activos afectos à concessão.
+
+3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIV — Reposição do equilíbrio económico e financeiro
+
+1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio financeiro da concessão, nos seguintes casos:
+
+a) Modificação unilateral, imposta pelo concedente, das condições de exploração da concessão, nos termos previstos nos n.os 2 e 3 da base IV, desde que, em resultado directo da mesma, se verifique, para a concessionária, um determinado aumento de custos ou uma determinada perda de receitas e esta não possa legitimamente proceder a tal reposição por recurso aos meios resultantes de uma correcta e prudente gestão;
+
+b) Alterações legislativas que tenham um impacte directo sobre as receitas ou custos respeitantes às actividades integradas na concessão.
+
+2 - Os parâmetros, termos e critérios da reposição do equilíbrio económico e financeiro da concessão são fixados no contrato de concessão.
+
+3 - Sempre que haja lugar à reposição do equilíbrio económico e financeiro da concessão, tal reposição pode ter lugar através de uma das seguintes modalidades:
+
+a) Prorrogação do prazo da concessão;
+
+b) Revisão do cronograma ou redução das obrigações de investimento previamente aprovadas;
+
+c) Atribuição de compensação directa pelo concedente;
+
+d) Combinação das modalidades anteriores ou qualquer outra forma que seja acordada.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo IX — Incumprimento do contrato de concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXV — Responsabilidade da concessionária por incumprimento
+
+1 - A violação, pela concessionária, de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
+
+2 - A responsabilidade da concessionária cessa sempre que ocorra caso de força maior, ficando a seu cargo fazer prova da ocorrência.
+
+3 - Consideram-se unicamente casos de força maior os acontecimentos imprevisíveis e irresistíveis cujos efeitos se produzam independentemente da vontade ou circunstâncias pessoais da concessionária.
+
+4 - Constituem, nomeadamente, casos de força maior actos de guerra, hostilidades ou invasão, terrorismo, epidemias, radiações atómicas, graves inundações, raios, ciclones, tremores de terra e outros cataclismos naturais que afectem a actividade objecto da concessão.
+
+5 - A ocorrência de um caso de força maior tem por efeito exonerar a concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do contrato de concessão que sejam afectadas pela ocorrência do mesmo, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido.
+
+6 - No caso de impossibilidade de cumprimento do contrato de concessão por causa de força maior, o concedente pode proceder à sua rescisão, nos termos fixados no mesmo.
+
+7 - A concessionária fica obrigada a comunicar ao concedente a ocorrência de qualquer evento qualificável como caso de força maior, bem como a indicar, no mais curto prazo possível, quais as obrigações emergentes do contrato de concessão cujo cumprimento, no seu entender, se encontra impedido ou dificultado por força de tal ocorrência e, bem assim, se for o caso, as medidas que tomou ou pretende tomar para fazer face à situação ocorrida, a fim de mitigar o impacte do referido evento e os respectivos custos.
+
+8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, dos efeitos da verificação de um caso de força maior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVI — Multas contratuais
+
+1 - Sem prejuízo das situações de incumprimento que podem dar origem a sequestro ou rescisão da concessão nos termos previstos nas presentes bases e no contrato de concessão, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia em função da gravidade da infracção cometida e do grau de culpa do infractor, até (euro) 5000000.
+
+2 - A aplicação de multas contratuais está dependente de notificação prévia da concessionária pelo concedente para reparar o incumprimento e do não cumprimento do prazo de reparação fixado nessa notificação, nos termos do número seguinte, ou da não reparação integral da falta pela concessionária naquele prazo.
+
+3 - O prazo de reparação do incumprimento é fixado pelo concedente de acordo com critérios de razoabilidade e tem sempre em atenção a defesa do interesse público e a manutenção em funcionamento da concessão.
+
+4 - Caso a concessionária não proceda ao pagamento voluntário das multas contratuais que lhe forem aplicadas no prazo de 20 dias a contar a partir da sua fixação e notificação pelo concedente, este pode utilizar a caução para pagamento das mesmas.
+
+5 - O valor máximo das multas estabelecido na presente base é actualizado em Janeiro de cada ano, de acordo com o índice de preços no consumidor no continente, excluindo habitação, publicado pelo Instituto Nacional de Estatística, referente ao ano anterior.
+
+6 - A aplicação de multas não prejudica a aplicação de outras sanções contratuais nem de outras sanções previstas na lei ou em regulamento nem isenta a concessionária da responsabilidade civil, criminal e contra-ordenacional em que incorrer perante o concedente ou terceiro.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVII — Sequestro
+
+1 - Em caso de incumprimento grave pela concessionária das obrigações emergentes do contrato de concessão, o concedente, através de despacho do ministro responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
+
+2 - O sequestro da concessão pode ter lugar, nomeadamente, quando se verifique qualquer das seguintes situações por motivos imputáveis à concessionária:
+
+a) Estiver iminente ou ocorrer a cessação ou interrupção, total ou parcial, do desenvolvimento da actividade objecto da concessão;
+
+b) Deficiências graves na organização, no funcionamento ou no regular desenvolvimento da actividade objecto da concessão, bem como em situações de insegurança de pessoas e bens;
+
+c) Deficiências graves no estado geral das redes e demais infra-estruturas que comprometam a continuidade ou a qualidade da actividade objecto da concessão.
+
+3 - A concessionária está obrigada a proceder à entrega do estabelecimento da concessão no prazo que lhe for fixado pelo concedente quando lhe for comunicada a decisão de sequestro da concessão.
+
+4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da concessão, observar-se-á, com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 4 e 5 da base XLII.
+
+5 - Verificado o sequestro, a concessionária suporta todos os encargos que resultarem para o concedente do exercício da concessão, bem como as despesas extraordinárias necessárias ao restabelecimento da normalidade.
+
+6 - Logo que cessem as razões do sequestro e seja restabelecido o normal funcionamento da concessão, a concessionária é notificada para retomar a concessão no prazo que lhe for fixado.
+
+7 - A concessionária pode optar pela rescisão da concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da concessão, sendo então aplicável o disposto na base XLIII.
+
+8 - Se a concessionária não retomar a concessão no prazo que lhe for fixado, pode o concedente, através do ministro responsável pela área da energia, determinar a imediata rescisão do contrato de concessão.
+
+9 - No caso de a concessionária ter retomado o exercício da concessão e continuarem a verificar-se graves deficiências no mesmo, pode o concedente, através do ministro responsável pela área da energia, ordenar novo sequestro ou determinar a imediata rescisão do contrato de concessão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo X — Suspensão e extinção da concessão
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXVIII — Casos de extinção da concessão
+
+1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respectivo prazo.
+
+2 - A extinção da concessão determina a transmissão para o concedente de todos os bens e meios a ela afectos, nos termos previstos nas presentes bases e no contrato de concessão, bem como dos direitos e das obrigações inerentes ao seu exercício, sem prejuízo do direito de regresso do concedente sobre a concessionária pelas obrigações assumidas pela concessionária que sejam estranhas às actividades da concessão ou hajam sido contraídas em violação da lei ou do contrato de concessão ou, ainda, que sejam obrigações vencidas e não cumpridas.
+
+3 - Da transmissão prevista no número anterior excluem-se os fundos ou reservas consignados à garantia ou cobertura de obrigações da concessionária de cujo cumprimento lhe seja dada quitação pelo concedente, a qual se presume se decorrido um ano sobre a extinção da concessão não houver declaração em contrário do concedente, através do ministro responsável pela área da energia.
+
+4 - A tomada de posse do estabelecimento da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, à qual assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respectivo auto.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XXXIX — Decurso do prazo da concessão
+
+1 - Decorrido o prazo da concessão, transmitem-se para o concedente todos os bens e meios afectos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para os efeitos do contrato de concessão.
+
+2 - Cessando a concessão pelo decurso do prazo, é paga pelo Estado à concessionária uma indemnização correspondente ao valor contabilístico dos bens afectos à concessão adquiridos pela concessionária com referência ao último balanço aprovado, líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido.
+
+3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XL — Procedimentos em caso de extinção da concessão
+
+1 - O concedente reserva-se o direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efectuar, durante o mesmo prazo, a transferência progressiva da actividade objecto da concessão para a nova concessionária.
+
+2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLI — Resgate da concessão
+
+1 - O concedente, através do ministro responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respectivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de recepção, com, pelo menos, um ano de antecedência.
+
+2 - O concedente assume, decorrido o período de um ano sobre a notificação do resgate, todos os bens e meios afectos à concessão anteriormente à data dessa notificação, incluindo todos os direitos e obrigações inerentes ao exercício da concessão e ainda aqueles que tenham sido assumidos pela concessionária após a data da notificação desde que tenham sido previamente autorizados pelo concedente, através do ministro responsável pela área da energia.
+
+3 - A assunção de obrigações por parte do concedente é feita, sem prejuízo do seu direito de regresso sobre a concessionária, pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
+
+4 - Em caso de resgate, a concessionária tem direito a uma indemnização cujo valor deve atender ao valor contabilístico à data do resgate dos bens revertidos para o concedente, livres de quaisquer ónus ou encargos, e ao valor de eventuais lucros cessantes.
+
+5 - O valor contabilístico dos bens referidos no número anterior, à data do resgate, entende-se líquido de amortizações e de comparticipações financeiras e subsídios a fundo perdido, incluindo-se nestes o valor dos bens cedidos pelo concedente.
+
+6 - Para efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efectivo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLII — Rescisão do contrato de concessão pelo concedente
+
+1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
+
+2 - Constituem, nomeadamente, causas de rescisão do contrato de concessão por parte do concedente os seguintes factos ou situações:
+
+a) Desvio do objecto e dos fins da concessão;
+
+b) Suspensão ou interrupção injustificada da actividade objecto da concessão;
+
+c) Oposição reiterada ao exercício da fiscalização, repetida desobediência às determinações do concedente ou sistemática inobservância das leis e dos regulamentos aplicáveis à exploração, quando se mostrem ineficazes as sanções aplicadas;
+
+d) Recusa em proceder aos investimentos necessários à adequada conservação e reparação das redes e demais infra-estruturas ou à respectiva ampliação;
+
+e) Recusa ou impossibilidade da concessionária em retomar a concessão, nos termos do disposto no n.º 8 da base XXXVII, ou, quando o tiver feito, verificar-se a continuação das situações que motivaram o sequestro;
+
+f) Cobrança dolosa das tarifas com valor superior ao fixado;
+
+g) Dissolução ou insolvência da concessionária;
+
+h) Transmissão ou oneração da concessão, no todo ou em parte, sem prévia autorização;
+
+i) Recusa da reconstituição atempada da caução.
+
+3 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior.
+
+4 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1 desta base, possa motivar a rescisão da concessão, o concedente, através do ministro responsável pela área da energia, deve notificar a concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
+
+5 - Caso a concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento nos termos determinados pelo concedente, este pode rescindir o contrato de concessão mediante comunicação enviada à concessionária, por carta registada com aviso de recepção, sem prejuízo do disposto no número seguinte.
+
+6 - Caso o concedente pretenda rescindir o contrato de concessão, designadamente pelos factos referidos na alínea g) do n.º 1, deve previamente notificar os principais credores da concessionária que sejam conhecidos para, no prazo que lhes for determinado, nunca superior a três meses, proporem uma solução que possa sobrestar à rescisão, desde que o concedente com ela concorde.
+
+7 - A comunicação da decisão de rescisão referida no n.º 5 produz efeitos imediatos, independentemente de qualquer outra formalidade.
+
+8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afectos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos nos termos gerais de direito.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLIII — Rescisão do contrato de concessão pela concessionária
+
+1 - A concessionária pode rescindir o contrato de concessão com fundamento no incumprimento grave das obrigações do concedente se do mesmo resultarem perturbações que ponham em causa o exercício da actividade concedida.
+
+2 - A rescisão prevista no número anterior implica a transmissão de todos os bens e meios afectos à concessão para o concedente, sem prejuízo do direito da concessionária ser ressarcida dos prejuízos que lhe foram causados, incluindo o valor dos investimentos efectuados e dos lucros cessantes calculados nos termos previstos anteriormente para o resgate.
+
+3 - A rescisão do contrato de concessão produz efeitos reportados à data da sua comunicação ao concedente por carta registada com aviso de recepção.
+
+4 - No caso de rescisão do contrato de concessão pela concessionária, esta deve seguir o procedimento previsto para o concedente nos n.os 4 e 5 da base anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo XI — Disposições diversas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLIV — Exercício dos poderes do concedente
+
+Os poderes do concedente referidos nas presentes bases, excepto quando devam ser exercidos pelo ministro responsável pela área da energia, devem ser exercidos pela DGGE, sendo os actos praticados pelo respectivo director-geral ou pela ERSE, consoante as competências de cada uma destas entidades.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Base XLV — Resolução de diferendos
+
+1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de Agosto.
+
+2 - A concessionária e os operadores e consumidores da RNTGN podem, nos termos da lei, celebrar convenções de arbitragem para solução dos litígios emergentes dos respectivos contratos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+## Anexo V — Declaração de habilitação e não impedimento ao exercício da atividade de comercialização de gás natural
+
+[a que se refere a alínea b) do n.º 2 do artigo 34.º do Decreto-Lei n.º 140/2006, de 26 de julho]
+
+1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de ... (firma, número de identificação de pessoa coletiva, sede ou estabelecimento principal no território nacional e código de acesso à certidão permanente de registo comercial), requerente do registo para a atividade de comercialização de gás natural, declara, sob compromisso de honra, que a sua representada:
+
+a) Não se encontra em estado de insolvência, em fase de liquidação, dissolução ou cessação de atividade, sujeito a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respetivo processo pendente;
+
+b) Tem a sua situação contributiva e fiscal regularizada perante a administração nacional;
+
+c) Não desenvolve ou pretende desenvolver atividades no âmbito dos setores da eletricidade e do gás natural em violação das regras aplicáveis de separação de atividades.
+
+2 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a não obtenção do registo, ou a sua revogação se já obtido, sendo o mesmo responsável pelas indemnizações e sanções pecuniárias aplicáveis, e pode determinar a aplicação da sanção acessória de privação do exercício do direito de exercer a atividade de comercialização ou outra no âmbito dos setores da eletricidade e gás natural, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
+
+... (local), ... (data), ... (assinatura).
+
+(Nome e qualidade.)
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 231/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437), em vigor a partir de 2012-11-25

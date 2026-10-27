@@ -1,0 +1,1303 @@
+---
+schema_version: '1.0'
+id: eu:celex:32011R0305:por
+title: Regulamento (UE) n. ° 305/2011 do Parlamento Europeu e do Conselho, de 9 de Março de 2011
+short_title: null
+summary: Regulamento (UE) n. ° 305/2011 do Parlamento Europeu e do Conselho, de 9 de Março de 2011 , que estabelece condições
+  harmonizadas para a comercialização dos produtos de construção e que revoga a Directiva 89/106/CEE do Conselho Texto relevante
+  para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2011/305
+official_date: null
+publication_date: '2011-04-04'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 88 de 4.4.2011
+  number: '88'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/d9dc2b2a-47b7-4fb3-b055-9b55731a48a5.0020.02/DOC_1
+entry_into_force_dates:
+- '2011-04-24'
+- '2013-07-01'
+end_of_validity_date: '2040-01-07'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-05-29'
+version_history:
+  file: regulamento-ue-2011-305.versoes.json
+  count: 7
+  source_lastmod: '2026-05-29'
+  versions:
+  - date: '2011-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Fornecimento da declaração de desempenho
+    - Altera Artigo 11.º — Deveres dos fabricantes
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera Artigo 60.º — Actos delegados
+    - Altera Artigo 68.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS BÁSICOS DAS OBRAS DE CONSTRUÇÃO
+    - Adita 1. Resistência mecânica e estabilidade
+    - Adita 2. Segurança contra incêndio
+    - Adita 3. Higiene, saúde e ambiente
+    - Adita 4. Segurança e acessibilidade na utilização
+    - Adita 5. Protecção contra o ruído
+    - Adita 6. Economia de energia e isolamento térmico
+    - Adita 7. Utilização sustentável dos recursos naturais
+    - Adita ANEXO II
+    - Adita PROCEDIMENTO DE APROVAÇÃO DO DOCUMENTO DE AVALIAÇÃO EUROPEU
+    - Adita 1. Pedido de Avaliação Técnica Europeia
+    - Adita 2. Contrato
+    - Adita 3. Programa de trabalho
+    - Adita 4. Projecto de Documento de Avaliação Europeu
+    - Adita 5. Participação da Comissão
+    - Adita 6. Prorrogação e atrasos
+    - Adita 7. Alterações e aprovação de um Documento de Avaliação Europeu
+    - Adita 8. Versão final do Documento de Avaliação Europeu a publicar
+    - Adita ANEXO III
+    - Adita DECLARAÇÃO DE DESEMPENHO
+    - Adita N.º …
+    - Adita ANEXO IV
+    - Adita GAMAS DE PRODUTOS E REQUISITOS APLICÁVEIS AOS OAT
+    - Adita ANEXO V
+    - Adita AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Adita 1. SISTEMAS DE AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Adita 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Adita 3. CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO TÉCNICA HARMONIZADA
+      PERTINENTE
+  - date: '2014-06-16'
+    amending: eu:celex:32014R0568:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 568/2014 DA COMISSÃO de 18 de fevereiro de 2014; REGULAMENTO DELEGADO (UE)
+      N. o 574/2014 DA COMISSÃO de 21 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera 1. SISTEMAS DE AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Altera 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - Altera Notas
+    - Adita N.º
+    - Adita Instruções para elaboração da declaração de desempenho
+    - Adita 1. ASPETOS GERAIS
+    - Adita 2. FLEXIBILIDADE
+    - Adita 3. INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO
+    - Adita 1.1. Sistema 1+
+    - Adita 1.2. Sistema 1
+    - Adita 1.3. Sistema 2+
+    - Adita 1.4. Sistema 3
+    - Adita 1.5. Sistema 4
+    - Adita 1.6. Produtos de construção para os quais tenha sido emitida uma Avaliação Técnica Europeia
+    - 'Adita 3. NOTIFICAÇÕES HORIZONTAIS: CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO
+      TÉCNICA HARMONIZADA PERTINENTE'
+    - Suprime N.º …
+    - Suprime 3. CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO TÉCNICA HARMONIZADA
+      PERTINENTE
+  - date: '2021-07-16'
+    amending: eu:celex:32019R1020:por
+    amending_title: REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera Artigo 56.º — Procedimento aplicável a nível nacional a produtos de construção que constituam um risco
+    - Altera N.º
+    - Altera Notas
+  - date: '2024-11-17'
+    amending: eu:celex:32024R2769:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2769 DA COMISSÃO de 30 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Fornecimento da declaração de desempenho
+    - Altera Artigo 11.º — Deveres dos fabricantes
+    - Altera Artigo 31.º — Coordenação dos OAT
+    - Altera Artigo 35.º — Protecção dos interesses financeiros da União
+    - Altera 1.6. Produtos de construção para os quais tenha sido emitida uma Avaliação Técnica Europeia
+    - Altera 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+    - 'Altera 3. NOTIFICAÇÕES HORIZONTAIS: CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO
+      TÉCNICA HARMONIZADA PERTINENTE'
+    - Altera Notas
+    - Adita 1.4-A. Sistema 3+
+  - date: '2026-01-08'
+    amending: eu:celex:32024R3110:por
+    amending_title: REGULAMENTO (UE) 2024/3110 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 64.º — Comité
+    - Altera Notas
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 3.º — Requisitos básicos das obras de construção e características essenciais dos produtos de construção
+    - Suprime Artigo 10.º — Pontos de contacto para produtos do sector da construção
+    - Suprime Artigo 19.º — Documento de Avaliação Europeu
+    - Suprime Artigo 20.º — Princípios para a elaboração e aprovação dos Documentos de Avaliação Europeus
+    - Suprime Artigo 21.º — Deveres do OAT que recebe um pedido de Avaliação Técnica Europeia
+    - Suprime Artigo 22.º — Publicação
+    - Suprime Artigo 23.º — Resolução de litígios em caso de desacordo entre OAT
+    - Suprime Artigo 24.º — Conteúdo dos Documentos de Avaliação Europeus
+    - Suprime Artigo 25.º — Objecções formais contra Documentos de Avaliação Europeus
+    - Suprime Artigo 26.º — Avaliação Técnica Europeia
+    - Suprime Artigo 29.º — Designação, controlo e avaliação dos OAT
+    - Suprime Artigo 30.º — Requisitos aplicáveis aos OAT
+    - Suprime Artigo 31.º — Coordenação dos OAT
+    - Suprime Artigo 32.º — Financiamento da União
+    - Suprime Artigo 33.º — Disposições financeiras
+    - Suprime Artigo 34.º — Gestão e controlo
+    - Suprime Artigo 35.º — Protecção dos interesses financeiros da União
+    - Suprime Artigo 41.º — Requisitos aplicáveis às autoridades notificadoras
+    - Suprime Artigo 42.º — Dever de informação dos Estados-Membros
+    - Suprime Artigo 43.º — Requisitos aplicáveis aos organismos notificados
+    - Suprime Artigo 44.º — Presunção de conformidade
+    - Suprime Artigo 45.º — Filiais e subcontratados dos organismos notificados
+    - Suprime Artigo 46.º — Utilização de instalações fora do laboratório de ensaios dos organismos notificados
+    - Suprime Artigo 50.º — Alterações à notificação
+    - Suprime Artigo 51.º — Contestação da competência dos organismos notificados
+    - Suprime Artigo 54.º — Troca de experiências
+    - Suprime Artigo 56.º — Procedimento aplicável a nível nacional a produtos de construção que constituam um risco
+    - Suprime Artigo 57.º — Procedimento de salvaguarda da União
+    - Suprime Artigo 58.º — Produtos de construção conformes que todavia constituem um risco para a saúde e a segurança
+    - Suprime Artigo 59.º — Não conformidade formal
+    - Suprime Artigo 65.º — Revogação
+    - Suprime Artigo 66.º — Disposições transitórias
+    - Suprime Artigo 67.º — Relatório da Comissão
+    - Suprime Artigo 68.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime REQUISITOS BÁSICOS DAS OBRAS DE CONSTRUÇÃO
+  - date: '2026-05-29'
+    amending: eu:celex:32024R2748:por
+    amending_title: REGULAMENTO (UE) 2024/2748 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 64.º — Comité
+    - Altera 1.4-A. Sistema 3+
+    - Altera Notas
+    - Adita CAPÍTULO VI-A
+    - Adita PROCEDIMENTOS DE EMERGÊNCIA
+    - Adita Artigo 38.º-A — Aplicação de procedimentos de emergência
+    - Adita Artigo 38.º-B — Prioridade da avaliação e verificação da regularidade do desempenho de produtos de construção
+      designados como bens relevantes em situação de crise
+    - Adita Artigo 38.º-C — Avaliação e declaração de desempenho com base em normas e especificações comuns
+    - Adita Artigo 38.º-D — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
+identifiers:
+  celex: 32011R0305
+  eli: http://data.europa.eu/eli/reg/2011/305/oj
+  oj: oj:JOL_2011_088_R_0005_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32011R0305:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32011R0305
+  metadata_url: http://publications.europa.eu/resource/cellar/d9dc2b2a-47b7-4fb3-b055-9b55731a48a5.0020
+  content_url: http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0305-20260529
+  retrieved_at: '2026-10-22T15:51:26Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-08-11T16:50:18.720+02:00'
+integrity:
+  source_sha256: 61cf617af663ba189cf8373f1f1c5d6c044dab45cf24bcbfbf91071293687b9d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:51:26Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2011-305.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aproximação das legislações
+- edifício
+- livre circulação de mercadorias
+- marcação «CE» de conformidade
+- política da construção
+- regulamento técnico
+- selo de qualidade
+relationships:
+- type: amended_by
+  target: celex:32014R0568
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2b7adf33-e658-11e3-8cd4-01aa75ed71a1
+  date: '2014-05-28'
+- type: amended_by
+  target: celex:32014R0574
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9d5ffcb2-e637-11e3-8cd4-01aa75ed71a1
+  date: '2014-05-28'
+- type: amended_by
+  target: celex:32019R1020
+  label: null
+  source: http://publications.europa.eu/resource/cellar/903d90ee-9712-11e9-9369-01aa75ed71a1
+  date: '2019-06-25'
+- type: amended_by
+  target: celex:32024R2769
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8811fb1a-94d1-11ef-a130-01aa75ed71a1
+  date: '2024-10-28'
+- type: amended_by
+  target: celex:32024R2748
+  label: null
+  source: http://publications.europa.eu/resource/cellar/45f91f8a-9d7a-11ef-85f0-01aa75ed71a1
+  date: '2024-11-08'
+- type: amends
+  target: celex:31993L0068
+  label: null
+  source: http://publications.europa.eu/resource/cellar/72b887b9-8a59-4f48-9922-4adac6ab5eef
+  date: '1993-08-30'
+- type: amends
+  target: celex:32003R1882
+  label: null
+  source: http://publications.europa.eu/resource/cellar/102e48a9-478f-4fee-8b8d-ef9068ea3936
+  date: '2003-10-30'
+- type: based_on
+  target: celex:12010E114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/94bc087a-00f3-4733-bc23-0b3e1f99704e
+  date: '2010-04-27'
+- type: based_on
+  target: celex:12010E294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5a84f05-84b6-456e-92d5-e94879c9719a
+  date: '2010-04-27'
+- type: cited_by
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1139191704:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1166969779:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:124750394:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:125468543:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:204953813:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:220949537:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:500018:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:66674011:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67283028:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:912066251:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31995R2988
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7b4a2174-0293-457a-9bdc-fe2d298d8d79
+- type: cites
+  target: celex:31996R2185
+  label: null
+  source: http://publications.europa.eu/resource/cellar/adc86f79-268e-4ac4-8ae5-85c70ade888f
+- type: cites
+  target: celex:31998L0008
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd121338-803b-4793-b8bd-6db66b18104a
+- type: cites
+  target: celex:31998L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62dd72e1-3993-48dc-ba0e-e84e7531cb4c
+- type: cites
+  target: celex:31999D0468
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
+- type: cites
+  target: celex:31999R1073
+  label: null
+  source: http://publications.europa.eu/resource/cellar/05d93cd4-6bdc-4ee6-a0eb-69750b4366c5
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5c835afb-2ec6-4577-bdf8-756d3d694eeb
+- type: cites
+  target: celex:32002R1605
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ec39c4bf-a5ad-4962-afe3-471e9695cbe3
+- type: cites
+  target: celex:32002R2342
+  label: null
+  source: http://publications.europa.eu/resource/cellar/526688a4-f711-4bad-8667-2e5b32c67184
+- type: cites
+  target: celex:32003H0361
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6ca8d655-126b-4a42-ada4-e9058fa45155
+- type: cites
+  target: celex:32006R1907
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d
+- type: cites
+  target: celex:32008D0768
+  label: null
+  source: http://publications.europa.eu/resource/cellar/493403fe-dd8d-4178-9297-1b324d5b140a
+- type: cites
+  target: celex:32008L0098
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a32ddb30-1a98-4911-964a-e4f4f638f20d
+- type: cites
+  target: celex:32008R0764
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7cf47f4f-3dde-4031-8c1b-24cfcca7b002
+- type: cites
+  target: celex:32008R0765
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdd70f57-7032-4121-92ae-ccf8ef68c15b
+- type: cites
+  target: celex:32008R1272
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6bf54b59-7673-461b-b8e1-f24c545cbd3c
+- type: corrected_by
+  target: celex:32011R0305R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7cdd0cd2-a362-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/edf72147-a360-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bcb62411-a35f-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bfac20ac-a361-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(05)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c172d6ed-a361-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(06)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4b11a9ea-a361-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(07)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/120d37a3-a360-11e2-ab01-01aa75ed71a1
+  date: '2013-04-12'
+- type: corrected_by
+  target: celex:32011R0305R(08)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aa2f0e02-510e-11e4-a0cb-01aa75ed71a1
+  date: '2014-10-11'
+- type: corrected_by
+  target: celex:32011R0305R(09)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/40aee8a6-641a-11e5-9317-01aa75ed71a1
+  date: '2015-09-26'
+- type: corrected_by
+  target: celex:32011R0305R(10)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/21eb6ee0-0209-11ea-8c1f-01aa75ed71a1
+  date: '2019-11-08'
+- type: repealed_by
+  target: celex:32024R3110
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a860ee13-bce2-11ef-91ed-01aa75ed71a1
+  date: '2024-12-18'
+- type: repeals
+  target: celex:31989L0106
+  label: null
+  source: http://publications.europa.eu/resource/cellar/51fee36c-5525-419a-bc02-ce637c770030
+  date: '1989-02-11'
+article_structure:
+  article_count: 37
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T15:51:26Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (UE) n. ° 305/2011 do Parlamento Europeu e do Conselho, de 9 de Março de 2011
+
+de 9 de Março de 2011
+
+que estabelece condições harmonizadas para a comercialização dos produtos de construção e que revoga a Directiva 89/106/CEE do Conselho
+
+(Texto relevante para efeitos do EEE)
+
+## CAPÍTULO I
+
+### DISPOSIÇÕES GERAIS
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, entende-se por:
+
+1. «Produto de construção», um produto ou *kit* fabricado e colocado no mercado para incorporação permanente em obras de construção ou em partes delas e cujo desempenho influencia o desempenho das obras de construção no que se refere aos seus requisitos básicos;
+
+2. «*Kit*», um produto de construção colocado no mercado por um único fabricante como um conjunto de pelo menos dois componentes separados que têm de ser associados para serem incorporados nas obras de construção;
+
+3. «Obras de construção», obras de construção civil e de engenharia civil;
+
+4. «Características essenciais», as características do produto de construção correspondentes às aos requisitos básicos das obras de construção;
+
+5. «Desempenho de um produto de construção», o desempenho correspondente às características essenciais pertinentes do produto, expresso por nível ou classe, ou por meio de uma descrição;
+
+6. «Nível», o resultado da avaliação do desempenho de um produto de construção correspondente às suas características essenciais, expresso em valor numérico;
+
+7. «Classe», uma gama de níveis de desempenho de um produto de construção delimitada por um valor mínimo e um valor máximo;
+
+8. «Nível-limite», o nível mínimo ou máximo de desempenho de uma característica essencial de um produto de construção;
+
+9. «Produto-tipo», o conjunto de níveis ou classes de desempenho representativos de um produto de construção, correspondente às suas características essenciais, obtido a partir de uma determinada combinação de matérias-primas ou de outros elementos segundo um processo específico de fabrico;
+
+10. «Especificações técnicas harmonizadas», normas harmonizadas e documentos de avaliação europeus;
+
+11. «Norma harmonizada», uma norma aprovada por um dos organismos europeus de normalização constantes do anexo I da Directiva 98/34/CE, com base num pedido emitido pela Comissão ao abrigo do artigo 6.º dessa Directiva;
+
+12. «Documento de Avaliação Europeu», um documento aprovado pela organização dos OAT para efeitos de emissão de Avaliações Técnicas Europeias;
+
+13. «Avaliação Técnica Europeia», uma avaliação documentada do desempenho de um produto de construção, correspondente às suas características essenciais, de acordo com o respectivo Documento de Avaliação Europeu;
+
+14. «Utilização prevista», a utilização prevista de um produto de construção definida na respectiva especificação técnica harmonizada;
+
+15. «Documentação técnica específica», a documentação que demonstre que os métodos previstos no âmbito do sistema aplicável de avaliação e verificação da regularidade do desempenho foram substituídos por outros métodos, desde que os resultados obtidos por esses outros métodos sejam equivalentes aos resultados obtidos pelos métodos de ensaio definidos na norma harmonizada correspondente;
+
+16. «Disponibilização no mercado», qualquer oferta de um produto de construção para distribuição ou utilização no mercado da União no âmbito de uma actividade comercial, a título oneroso ou gratuito;
+
+17. «Colocação no mercado», a primeira disponibilização de um produto de construção no mercado da União;
+
+18. «Operador económico», o fabricante, o importador, o distribuidor ou o mandatário;
+
+19. «Fabricante», uma pessoa singular ou colectiva que fabrique ou mande conceber ou fabricar um produto de construção e o comercialize em seu próprio nome ou com a sua própria marca;
+
+20. «Distribuidor», uma pessoa singular ou colectiva que faça parte da cadeia de abastecimento, para além do fabricante ou do importador, e que disponibilize um produto de construção no mercado;
+
+21. «Importador», uma pessoa singular ou colectiva estabelecida na União que coloque um produto de construção proveniente de um país terceiro no mercado da União;
+
+22. «Mandatário», uma pessoa singular ou colectiva estabelecida na União que tenha sido mandatada por escrito por um fabricante para agir em seu nome a fim de executar funções especificadas;
+
+23. «Retirada», uma medida destinada a impedir a disponibilização no mercado de um produto de construção integrado no circuito comercial;
+
+24. «Recolha», uma medida destinada a obter o retorno de um produto de construção que já tenha sido disponibilizado ao utilizador final;
+
+25. «Acreditação», a acreditação na acepção do Regulamento (CE) n.º 765/2008;
+
+26. «Controlo de produção em fábrica», o controlo interno documentado e permanente da produção realizada em fábrica, de acordo com as especificações técnicas harmonizadas aplicáveis;
+
+27. «Microempresa», uma microempresa na acepção da Recomendação da Comissão de 6 de Maio de 2003, relativa à definição de micro, pequenas e médias empresas ([^1^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0001));
+
+28. «Ciclo de vida», as fases consecutivas e interligadas da vida de um produto de construção, desde a aquisição das matérias-primas ou desde a sua geração a partir de recursos naturais até à eliminação final;
+
+29. «Bens relevantes em situação de crise», os bens relevantes em situação de crise na aceção do artigo 3.º, ponto 6, do Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0002));
+
+30. «Modo de emergência do mercado interno», o modo de emergência do mercado interno na aceção do artigo 3.º, ponto 3, do Regulamento (UE) 2024/2747.
+
+## CAPÍTULO II
+
+### DECLARAÇÃO DE DESEMPENHO E MARCAÇÃO CE
+
+###### Artigo 4.º — Declaração de desempenho
+
+1. Se um produto de construção for abrangido por uma norma harmonizada ou estiver conforme com uma Avaliação Técnica Europeia emitida para esse produto, o fabricante deve elaborar uma declaração de desempenho para esse produto aquando da sua colocação no mercado.
+
+2. Se um produto de construção for abrangido por uma norma harmonizada ou estiver conforme com uma Avaliação Técnica Europeia emitida para esse produto, qualquer informação, em qualquer formato, sobre o seu desempenho em relação às características essenciais definidas na especificação técnica harmonizada aplicável só pode ser fornecida se for incluída e especificada na declaração de desempenho, excepto no caso de, ao abrigo do artigo 5.º, não ter sido feita qualquer declaração de desempenho.
+
+3. Ao fazer a declaração de desempenho, o fabricante assume a responsabilidade pela conformidade do produto de construção com o desempenho declarado. Na falta de indícios objectivos em contrário, os Estados-Membros presumem que a declaração de desempenho elaborada pelo fabricante é exacta e fiável.
+
+###### Artigo 5.º — Derrogações à obrigação de fazer uma declaração de desempenho
+
+Não obstante o disposto no n.º 1 do artigo 4.º, e na falta de disposições da União ou nacionais que exijam a declaração de características essenciais no território onde os produtos de construção se destinem a ser utilizados, ao colocar no mercado um produto de construção abrangido por uma norma harmonizada o fabricante pode abster-se de fazer uma declaração de desempenho caso:
+
+a) O produto de construção seja fabricado individualmente ou por medida, sem ser em série, em resposta a uma encomenda específica, e instalado numa obra única de construção identificada, por um fabricante responsável pela incorporação segura do produto nas obras, nos termos da legislação nacional aplicável e sob a responsabilidade dos encarregados da segurança da execução das obras de construção designados ao abrigo da legislação nacional aplicável;
+
+b) O produto de construção seja fabricado no estaleiro para incorporação na respectiva obra, nos termos da legislação nacional aplicável e sob a responsabilidade dos encarregados da segurança da execução das obras de construção designados ao abrigo da legislação nacional aplicável; ou
+
+c) O produto de construção seja fabricado de forma tradicional ou de forma adequada à conservação do património e de acordo com um processo não industrial para renovar de forma adequada obras de construção oficialmente protegidas como parte de determinado ambiente ou devido ao seu especial valor arquitectónico ou histórico, nos termos da legislação nacional aplicável.
+
+###### Artigo 6.º — Conteúdo da declaração de desempenho
+
+1. A declaração de desempenho deve descrever o desempenho dos produtos de construção relativamente às suas características essenciais, de acordo com as especificações técnicas harmonizadas aplicáveis.
+
+2.
+
+A declaração de desempenho deve incluir, em especial, as seguintes informações:
+
+a) A referência do produto-tipo para o qual foi feita a declaração de desempenho;
+
+b) O sistema ou sistemas de avaliação e verificação da regularidade do desempenho do produto de construção, nos termos do anexo V;
+
+c) O número de referência e a data de emissão da norma harmonizada ou da Avaliação Técnica Europeia utilizadas para a avaliação de cada característica essencial;
+
+d) Se for caso disso, o número de referência da documentação técnica específica utilizada e os requisitos que, segundo o fabricante, o produto satisfaz.
+
+3.
+
+Da declaração de desempenho deve igualmente constar:
+
+a) A utilização ou utilizações previstas do produto de construção, de acordo com a especificação técnica harmonizada aplicável;
+
+b) A lista das características essenciais determinadas na especificação técnica harmonizada para a utilização ou utilizações previstas declaradas;
+
+c) O desempenho de pelo menos uma das características essenciais do produto de construção que seja relevante para a utilização ou utilizações previstas declaradas;
+
+d) Se for caso disso, o desempenho do produto de construção, por níveis ou classes ou por meio de uma descrição, se necessário com base num cálculo, relativamente às suas características essenciais determinadas nos termos do n.º 3 do artigo 3.º;
+
+e) O desempenho das características essenciais do produto de construção relacionadas com a utilização ou utilizações previstas, tendo em conta as disposições em relação à utilização ou utilizações previstas no território onde o fabricante tenciona colocar o produto no mercado;
+
+f) Para as características essenciais constantes da lista relativamente às quais não seja declarado nenhum desempenho, o acrónimo «NPD» (Desempenho Não Determinado);
+
+g) Caso tenha sido emitida uma Avaliação Técnica Europeia para esse produto, o desempenho, por níveis ou classes ou por meio de uma descrição, do produto de construção relativamente a todas as características essenciais constantes da Avaliação Técnica Europeia correspondente.
+
+4. A declaração de desempenho deve ser redigida segundo o modelo constante do anexo III.
+
+5. As informações referidas no artigo 31.º ou, se for o caso, no artigo 33.º do Regulamento (CE) n.º 1907/2006 devem ser prestadas juntamente com a declaração de desempenho.
+
+###### Artigo 7.º — Fornecimento da declaração de desempenho
+
+1. Deve ser fornecida uma cópia da declaração de desempenho de cada produto disponibilizado no mercado, em suporte papel ou por meios electrónicos;
+
+Contudo, se for fornecido um lote do mesmo produto a um único utilizador, o lote pode ser acompanhado por uma única cópia da declaração de desempenho, em suporte papel ou por meios electrónicos.
+
+2. Deve ser fornecida uma cópia da declaração de desempenho em suporte papel quando o destinatário a solicitar.
+
+3. Não obstante o disposto nos n.^os^ 1 e 2, a cópia da declaração de desempenho [**►C1**](http://publications.europa.eu/resource/celex/32011R0305R%2805%29) pode ser disponibilizada num sítio da internet**◄**, em condições a estabelecer pela Comissão por meio de actos delegados, nos termos do artigo 60.º. Estas condições deverão, nomeadamente, garantir que a declaração de desempenho se mantenha disponível pelo menos durante o período referido no n.º 2 do artigo 11.º
+
+4. A declaração de desempenho deve ser apresentada na língua ou línguas exigidas pelo Estado-Membro em que o produto é disponibilizado.
+
+###### Artigo 8.º — Princípios gerais e utilização da marcação CE
+
+1. Os princípios gerais enunciados no artigo 30.º do Regulamento (CE) n.º 765/2008 são aplicáveis à marcação CE.
+
+2. A marcação CE deve ser aposta nos produtos de construção que forem objecto de declaração de desempenho feita pelo fabricante nos termos dos artigos 4.º e 6.º
+
+Se a declaração de desempenho não tiver sido feita pelo fabricante nos termos dos artigos 4.º e 6.º, a marcação CE não pode ser aposta.
+
+Ao apor ou mandar apor a marcação CE no produto de construção, os fabricantes indicam que assumem a responsabilidade pela conformidade do produto com o seu desempenho declarado, bem como pelo cumprimento de todos os requisitos aplicáveis estabelecidos no presente regulamento e noutros instrumentos relevantes da legislação de harmonização da União que prevêem a sua aposição.
+
+As regras de aposição da marcação CE previstas noutros instrumentos relevantes da legislação de harmonização da União aplicam-se sem prejuízo do disposto no presente número.
+
+3. No que se refere a produtos de construção abrangidos por normas harmonizadas ou para os quais tenha sido emitida uma Avaliação Técnica Europeia, a marcação CE é a única marcação que atesta a conformidade do produto de construção com o desempenho declarado relativamente às características essenciais abrangidas por essas normas harmonizadas ou pela Avaliação Técnica Europeia.
+
+A este respeito, os Estados-Membros não devem introduzir nas suas medidas nacionais quaisquer referências a marcações distintas da marcação CE para atestar a conformidade com o desempenho declarado relativamente às características essenciais abrangidas por uma norma harmonizada, ou devem eliminar tais referências das suas medidas nacionais.
+
+4. Os Estados-Membros não podem proibir nem dificultar, no seu território ou sob a sua responsabilidade, a disponibilização no mercado ou a utilização de produtos de construção que ostentem a marcação CE se os desempenhos declarados corresponderem aos requisitos de utilização nesse Estado-Membro.
+
+5. Os Estados-Membros devem assegurar que a utilização dos produtos de construção que ostentam a marcação CE não seja entravada por regras ou condições impostas por organismos públicos ou privados que actuem como empresas públicas ou como organismos públicos com base na sua posição de monopólio ou sob mandato público, se os desempenhos declarados corresponderem aos requisitos de utilização nesse Estado-Membro.
+
+6. Os métodos utilizados pelos Estados-Membros nos seus requisitos aplicáveis às obras de construção, bem como outras regras nacionais relativas às características essenciais dos produtos de construção, devem estar de acordo com normas harmonizadas.
+
+###### Artigo 9.º — Regras e condições para aposição da marcação CE
+
+1. A marcação CE deve ser aposta de modo visível, legível e indelével no produto de construção ou numa etiqueta a ele fixada. Se a natureza do produto não o permitir ou justificar, a marcação CE deve ser aposta na embalagem ou nos documentos de acompanhamento.
+
+2. A marcação CE é seguida pelos dois últimos algarismos do ano em que foi aposta pela primeira vez, pelo nome e pelo endereço registado do fabricante, ou por uma marca distintiva através da qual seja possível identificar facilmente e sem qualquer ambiguidade o nome e o endereço do fabricante, pelo código de identificação único do produto-tipo, pelo número de referência da declaração de desempenho, pelo nível ou classe de desempenho declarado, pela referência à especificação técnica harmonizada aplicada, pelo número de identificação do organismo notificado, se for caso disso, e pela utilização prevista constante da especificação técnica harmonizada aplicada.
+
+3. A marcação CE deve ser aposta antes de o produto de construção ser colocado no mercado. Pode ser seguida por um pictograma ou por qualquer outra marca que indique, nomeadamente, um risco ou uma utilização especiais.
+
+## CAPÍTULO III
+
+### DEVERES DOS OPERADORES ECONÓMICOS
+
+###### Artigo 11.º — Deveres dos fabricantes
+
+1. Os fabricantes devem fazer a declaração de desempenho nos termos dos artigos 4.º e 6.º e apor a marcação CE nos termos dos artigos 8.º e 9.º
+
+Como base da declaração de desempenho, os fabricantes devem redigir documentação técnica com a descrição de todos os elementos relevantes relacionados com o sistema exigido de avaliação e verificação da regularidade do desempenho.
+
+2. Os fabricantes devem conservar a documentação técnica e a declaração de desempenho durante um período de dez anos a contar da data de colocação no mercado do produto de construção.
+
+Se for caso disso, a Comissão pode, por meio de actos delegados nos termos do artigo 60.º, alterar o referido período para famílias de produtos de construção em função do tempo previsível de vida ou do papel desempenhado pelo produto de construção nas obras de construção.
+
+3. Os fabricantes devem assegurar a introdução de procedimentos para garantir que a produção em série mantenha o desempenho declarado. As alterações do produto-tipo e das especificações técnicas harmonizadas aplicáveis devem ser devidamente tidas em conta.
+
+Caso o considerem apropriado para assegurar a precisão, a fiabilidade e a estabilidade do desempenho declarado de um produto de construção, os fabricantes devem realizar ensaios por amostragem dos produtos de construção colocados ou disponibilizados no mercado, devem investigar e, se necessário, manter um registo das reclamações, dos produtos não conformes e dos produtos recolhidos, e devem manter os distribuidores informados de todas estas acções de controlo.
+
+4. Os fabricantes devem assegurar que os seus produtos de construção ostentem [**►C1**](http://publications.europa.eu/resource/celex/32011R0305R%2805%29) o tipo, lote ou número da série, ou**◄** quaisquer outros elementos que permitam a respectiva identificação, ou, se as dimensões ou a natureza do produto não o permitirem, que a informação exigida conste da embalagem ou de um documento que acompanhe o produto de construção.
+
+5. Os fabricantes devem indicar o seu nome, a sua designação comercial ou marca comercial registada e o seu endereço de contacto no produto de construção, ou, caso tal não seja possível, na embalagem ou num documento que acompanhe o produto de construção. [**►C1**](http://publications.europa.eu/resource/celex/32011R0305R%2805%29) O endereço deve indicar um único ponto onde o fabricante pode ser contactado.**◄**
+
+6. Ao disponibilizarem um produto de construção no mercado, os fabricantes devem assegurar que o produto seja acompanhado por instruções e informações de segurança numa língua determinada pelo Estado-Membro em causa, facilmente compreensível pelos utilizadores.
+
+7. Os fabricantes que considerem ou tenham motivos para crer que determinado produto de construção que colocaram no mercado não está conforme com a declaração de desempenho ou não cumpre qualquer outro requisito aplicável previsto no presente regulamento devem tomar imediatamente as medidas correctivas necessárias para assegurar a conformidade do produto de construção ou, se for caso disso, para o retirar ou recolher. Além disso, se o produto constituir um risco, os fabricantes devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros em que o produto de construção tenha sido disponibilizado, prestando-lhes informações detalhadas, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
+
+8. Mediante pedido fundamentado de uma autoridade nacional competente, os fabricantes devem facultar-lhe toda a informação e documentação necessárias para demonstrar a conformidade do produto de construção com a declaração de desempenho e o cumprimento dos outros requisitos aplicáveis previstos no presente regulamento, numa língua que essa autoridade possa compreender facilmente. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer acção destinada a eliminar os riscos provocados pelos produtos de construção que tenham colocado no mercado.
+
+###### Artigo 12.º — Mandatários
+
+1. Os fabricantes podem designar por escrito um mandatário.
+
+A elaboração da documentação técnica não pode ser confiada ao mandatário.
+
+2.
+
+O mandatário deve praticar os actos definidos no mandato. O mandato deve permitir ao mandatário exercer, pelo menos, as seguintes funções:
+
+a) Manter à disposição das autoridades de fiscalização nacionais a declaração de desempenho e a documentação técnica durante o período referido no n.º 2 do artigo 11.º;
+
+b) Mediante pedido fundamentado de uma autoridade nacional competente, facultar-lhe toda a informação e documentação necessárias para demonstrar a conformidade do produto de construção com a declaração de desempenho e o cumprimento dos outros requisitos aplicáveis previstos no presente regulamento;
+
+c) Cooperar com as autoridades nacionais competentes, a pedido destas, em qualquer acção destinada a eliminar os riscos provocados pelos produtos de construção abrangidos pelo seu mandato.
+
+###### Artigo 13.º — Deveres dos importadores
+
+1. Os importadores só podem colocar no mercado da União produtos de construção que cumpram os requisitos aplicáveis previstos no presente regulamento.
+
+2. Antes de colocarem um produto de construção no mercado, os importadores devem certificar-se de que o fabricante procedeu à avaliação e verificação da regularidade do desempenho. Os importadores devem certificar-se de que o fabricante elaborou a documentação técnica referida no segundo parágrafo do n.º 1 do artigo 11.º e fez a declaração de desempenho nos termos do artigos 4.º e 6.º. Devem igualmente assegurar que, quando tal seja exigido, o produto ostente a marcação CE e seja acompanhado pelos documentos exigidos e o fabricante cumpra os requisitos previstos nos n.^os^ 4 e 5 do artigo 11.º
+
+Caso um importador considere ou tenha motivos para crer que o produto de construção não está conforme com a declaração de desempenho ou não cumpre qualquer outro requisito aplicável do presente regulamento, não pode colocar o produto de construção no mercado enquanto o mesmo não tiver sido posto em conformidade com a declaração de desempenho que o acompanha e não cumprir os outros requisitos aplicáveis previstos no presente regulamento, ou enquanto a declaração de desempenho não tiver sido corrigida. Além disso, se o produto de construção constituir um risco, o importador deve informar desse facto o fabricante e as autoridades de fiscalização do mercado.
+
+3. Os importadores devem indicar o seu nome, a sua designação comercial ou a sua marca comercial registada e o seu endereço de contacto no produto de construção, ou, se tal não for possível, na embalagem ou num documento que acompanhe o produto.
+
+4. Ao disponibilizarem um produto de construção no mercado, os importadores devem assegurar que o produto seja acompanhado por instruções e informações de segurança numa língua determinada pelo Estado-Membro em causa, facilmente compreensível pelos utilizadores.
+
+5. Enquanto um produto de construção estiver sob a sua responsabilidade, os importadores devem assegurar que as condições de armazenamento e de transporte não prejudiquem a sua conformidade com a declaração de desempenho nem o cumprimento dos outros requisitos aplicáveis previstos no presente regulamento.
+
+6. Sempre que tal seja adequado para assegurar a precisão, a fiabilidade e a estabilidade do desempenho declarado de um produto de construção, os importadores devem realizar ensaios por amostragem dos produtos de construção colocados ou disponibilizados no mercado, devem investigar e, se necessário, manter um registo das reclamações, dos produtos não conformes e dos produtos recolhidos, e devem manter os distribuidores informados de todas estas acções de controlo.
+
+7. Os importadores que considerem ou tenham motivos para crer que um produto de construção que colocaram no mercado não está conforme com a declaração de desempenho ou não cumpre qualquer outro requisito aplicável previsto no presente regulamento, devem tomar imediatamente as medidas correctivas necessárias para assegurar a conformidade do produto de construção ou, se for caso disso, para o retirar ou recolher. Além disso, se o produto constituir um risco, os importadores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros em que disponibilizaram o produto de construção, prestando-lhes informações detalhadas, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
+
+8. Durante o período referido no n.º 2 do artigo 11.º, os importadores devem manter uma cópia da declaração de desempenho à disposição das autoridades de fiscalização do mercado e assegurar que a documentação técnica seja facultada a essas autoridades, mediante pedido.
+
+9. Mediante pedido fundamentado de uma autoridade nacional competente, os importadores devem facultar-lhe toda a informação e documentação necessárias para demonstrar a conformidade do produto de construção com a declaração de desempenho e o cumprimento dos outros requisitos aplicáveis previstos no presente regulamento, numa língua que essa autoridade possa compreender facilmente. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer acção destinada a eliminar os riscos provocados pelos produtos de construção que tenham colocado no mercado.
+
+###### Artigo 14.º — Deveres dos distribuidores
+
+1. Ao disponibilizarem um produto de construção no mercado, os distribuidores devem agir com a diligência devida em relação aos requisitos do presente regulamento.
+
+2. Antes de disponibilizarem um produto de construção no mercado, os distribuidores devem assegurar que, quando tal seja exigido, o produto ostente a marcação CE e seja acompanhado pelos documentos exigidos pelo presente regulamento e por instruções e informações de segurança numa língua determinada pelo Estado-Membro em causa, facilmente compreensível pelos utilizadores. Os distribuidores devem igualmente certificar-se de que o fabricante e o importador cumpriram os requisitos previstos, respectivamente, nos n.^os^ 4 e 5 do artigo 11.º e no n.º 3 do artigo 13.º
+
+Caso um distribuidor considere ou tenha motivos para crer que um produto de construção não está conforme com a declaração de desempenho ou não cumpre qualquer outro requisito aplicável do presente regulamento, não pode colocar o produto de construção no mercado enquanto o produto não tiver sido posto em conformidade com a declaração de desempenho que o acompanha e não cumprir os outros requisitos aplicáveis previstos no presente regulamento, ou enquanto a declaração de desempenho não tiver sido corrigida. Além disso, se o produto constituir um risco, o distribuidor deve informar desse facto o fabricante ou o importador, bem como as autoridades de fiscalização do mercado.
+
+3. Enquanto um produto de construção estiver sob a sua responsabilidade, os distribuidores devem assegurar que as condições de armazenamento e de transporte não prejudiquem a sua conformidade com a declaração de desempenho nem o cumprimento dos outros requisitos aplicáveis previstos no presente regulamento.
+
+4. Os distribuidores que considerem ou tenham motivos para crer que um produto de construção que disponibilizaram no mercado não está conforme com a declaração de desempenho ou não cumpre qualquer outro requisito aplicável previsto no presente regulamento, devem assegurar que sejam tomadas as medidas correctivas necessárias para assegurar a conformidade do produto de construção ou, se for caso disso, para o retirar ou recolher. Além disso, se o produto constituir um risco, os distribuidores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros em que disponibilizaram o produto, prestando-lhes informações detalhadas, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
+
+5. Mediante pedido fundamentado de uma autoridade nacional competente, os distribuidores devem facultar-lhe toda a informação e a documentação necessárias para demonstrar a conformidade do produto de construção com a declaração de desempenho e o cumprimento dos outros requisitos aplicáveis previstos no presente regulamento, numa língua que essa autoridade possa compreender facilmente. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer acção destinada a eliminar os riscos provocados pelos produtos de construção que tenham disponibilizado no mercado.
+
+###### Artigo 15.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores
+
+Para efeitos do presente regulamento, são considerados fabricantes e, por conseguinte, sujeitos aos deveres que vinculam o fabricante por força do artigo 11.º os importadores ou distribuidores que coloquem um produto no mercado em seu próprio nome ou com a sua própria marca comercial, ou que alterem um produto de construção já colocado no mercado de tal forma que possa afectar a sua conformidade com a declaração de desempenho.
+
+###### Artigo 16.º — Identificação dos operadores económicos
+
+Os operadores económicos devem facultar às autoridades de fiscalização do mercado, mediante pedido e durante os períodos referidos no n.º 2 do artigo 11.º, a identificação:
+
+a) Do operador económico que lhes forneceu um determinado produto;
+
+b) Do operador económico a quem forneceram um determinado produto.
+
+## CAPÍTULO IV
+
+### ESPECIFICAÇÕES TÉCNICAS HARMONIZADAS
+
+###### Artigo 17.º — Normas harmonizadas
+
+1. As normas harmonizadas são estabelecidas pelos organismos europeus de normalização constantes do anexo I da Directiva 98/34/CE com base em pedidos (a seguir designados «mandatos») emanados da Comissão nos termos do artigo 6.º dessa directiva, após terem consultado o Comité Permanente da Construção a que se refere o artigo 64.º do presente regulamento (a seguir designado «Comité Permanente da Construção»).
+
+2. Quando as partes interessadas participarem no processo de elaboração de normas harmonizadas nos termos do presente artigo, os organismos europeus de normalização devem assegurar que as várias categorias de interessados estejam representadas de forma justa e equitativa em todas as instâncias.
+
+3. As normas harmonizadas fornecem os métodos e critérios de avaliação do desempenho dos produtos de construção relativamente às suas características essenciais.
+
+Caso tal seja previsto no respectivo mandato, as normas harmonizadas devem referir uma utilização prevista dos produtos por elas abrangidos.
+
+As normas harmonizadas devem prever, se for caso disso e sem pôr em risco o rigor, a fiabilidade ou a estabilidade dos resultados, métodos menos onerosos do que os ensaios para a avaliação do desempenho dos produtos de construção em função das suas características essenciais.
+
+4. Os organismos europeus de normalização determinam nas normas harmonizadas o controlo de produção em fábrica aplicável, que deve ter em conta as condições específicas do processo de fabrico do produto de construção em causa.
+
+As normas harmonizadas incluem os pormenores técnicos necessários para a aplicação do sistema de avaliação e verificação da regularidade do desempenho.
+
+5. A Comissão avalia a conformidade das normas harmonizadas estabelecidas pelos organismos europeus de normalização com os mandatos correspondentes.
+
+A Comissão publica no *Jornal Oficial da União Europeia* a lista de referências das normas harmonizadas que estão em conformidade com os mandatos correspondentes.
+
+Para cada norma harmonizada constante da lista, deve ser indicado o seguinte:
+
+a) As referências das eventuais especificações técnicas harmonizadas substituídas;
+
+b) A data do início do período de coexistência;
+
+c) A data do fim do período de coexistência.
+
+A Comissão publica todas as actualizações da lista.
+
+A partir da data do início do período de coexistência, é possível utilizar uma norma harmonizada para fazer uma declaração de desempenho para um produto de construção por ela abrangido. Os organismos nacionais de normalização têm a obrigação de transpor as normas harmonizadas de acordo com a Directiva 98/34/CE.
+
+Sem prejuízo dos artigos 36.º a 38.º, a partir da data do fim do período de coexistência, as normas harmonizadas são os únicos meios utilizados para fazer a declaração de desempenho dos produtos de construção por elas abrangidos.
+
+No fim do período de coexistência, as normas nacionais incompatíveis devem ser eliminadas, devendo os Estados-Membros pôr termo à validade de todas as disposições nacionais incompatíveis.
+
+###### Artigo 18.º — Objecções formais contra as normas harmonizadas
+
+1. Caso um Estado-Membro ou a Comissão considerem que uma norma harmonizada não satisfaz inteiramente os requisitos estabelecidos no mandato correspondente, o Estado-Membro em causa ou a Comissão, após consulta do Comité Permanente da Construção, submetem o assunto à apreciação do Comité criado ao abrigo do artigo 5.º da Directiva 98/34/CE, apresentando as suas razões. O Comité deve dar parecer o mais depressa possível, após consulta dos organismos europeus de normalização relevantes.
+
+2. Em função do parecer do Comité criado ao abrigo do artigo 5.º da Directiva 98/34/CE, a Comissão toma a decisão de publicar, não publicar, publicar com restrições, manter, manter com restrições ou suprimir as referências à norma harmonizada em questão no *Jornal Oficial da União Europeia*.
+
+3. A Comissão informa o organismo europeu de normalização da sua decisão e, se necessário, solicita a revisão da norma harmonizada em causa.
+
+###### Artigo 27.º — Níveis ou classes de desempenho
+
+1. A Comissão pode adoptar actos delegados nos termos do artigo 60.º para estabelecer classes de desempenho para as características essenciais dos produtos de construção.
+
+2. Se a Comissão estabelecer classes de desempenho para as características essenciais dos produtos de construção, os organismos europeus de normalização devem utilizá-las nas normas harmonizadas. Se for caso disso, a organização dos OAT deve utilizar essas classes nos Documentos de Avaliação Europeus.
+
+Se a Comissão não estabelecer classes de desempenho para as características essenciais dos produtos de construção, os organismos europeus de normalização podem estabelecê-las nas normas harmonizadas, com base num mandato revisto.
+
+3. Caso os mandatos relevantes o prevejam, os organismos europeus de normalização devem estabelecer nas normas harmonizadas níveis-limite de desempenho para as características essenciais e, se for caso disso, para as utilizações previstas, níveis-limite de desempenho esses que devem ser respeitados pelos produtos de construção nos Estados-Membros.
+
+4. Se os organismos europeus de normalização definirem classes de desempenho numa norma harmonizada, a organização dos OAT deve utilizar essas classes nos Documentos de Avaliação Europeus, caso sejam adequadas para o produto de construção.
+
+Se necessário, a organização dos OAT pode estabelecer nos Documentos de Avaliação Europeus, com o acordo da Comissão e após consulta do Comité Permanente da Construção, classes de desempenho e níveis-limite para as características essenciais de um produto de construção no âmbito da sua utilização prevista pelo fabricante.
+
+5. A Comissão pode adoptar actos delegados, nos termos do artigo 60.º, para estabelecer as condições nas quais se considera que um produto de construção atinge um determinado nível ou classe de desempenho sem ensaios ou sem ensaios complementares.
+
+Se essas condições não forem estabelecidas pela Comissão, podem ser estabelecidas pelos organismos europeus de normalização nas normas harmonizadas, com base num mandato revisto.
+
+6. Se a Comissão tiver estabelecido sistemas de classificação nos termos do n.º 1, os Estados-Membros só podem determinar os níveis ou classes de desempenho que devem ser respeitados pelos produtos de construção relativamente às suas características essenciais com base nesses sistemas de classificação.
+
+7. Caso determinem níveis-limite ou classes de desempenho, os organismos europeus de normalização e a organização dos OAT devem respeitar as necessidades regulamentares dos Estados-Membros.
+
+###### Artigo 28.º — Avaliação e verificação da regularidade do desempenho
+
+1. A avaliação e a verificação da regularidade do desempenho dos produtos de construção relativamente às suas características essenciais devem ser efectuadas segundo um dos sistemas previstos no anexo V.
+
+2. A Comissão determina por meio de actos delegados, nos termos do artigo 60.º, tendo particularmente em conta os efeitos na saúde e na segurança das pessoas e no ambiente, qual o sistema ou sistemas aplicáveis a um dado produto de construção ou família de produtos de construção ou a uma determinada característica essencial, podendo rever essa decisão. Ao fazê-lo, a Comissão deve ter igualmente em conta as experiências documentadas transmitidas pelas autoridades nacionais no que se refere à fiscalização do mercado.
+
+A Comissão deve dar sempre preferência ao sistema ou sistemas menos onerosos compatíveis com o cumprimento de todos os requisitos básicos das obras de construção.
+
+3. O sistema ou sistemas assim seleccionados devem ser indicados nos mandatos relativos às normas harmonizadas e nas especificações técnicas harmonizadas.
+
+## CAPÍTULO V
+
+### ORGANISMOS DE AVALIAÇÃO TÉCNICA
+
+## CAPÍTULO VI
+
+### PROCEDIMENTOS SIMPLIFICADOS
+
+###### Artigo 36.º — Utilização de documentação técnica adequada
+
+1.
+
+Ao determinar um produto-tipo, o fabricante pode substituir o ensaio ou o cálculo desse tipo por documentação técnica adequada que demonstre que:
+
+a) Se considera, sem ensaios ou cálculos, ou sem ensaios ou cálculos suplementares, que o produto de construção que o fabricante coloca no mercado corresponde a um determinado nível ou classe de desempenho relativamente a uma ou mais das suas características essenciais, de acordo com as condições estabelecidas nas especificações técnicas harmonizadas aplicáveis ou em decisão da Comissão;
+
+b) O produto de construção, abrangido por uma norma harmonizada, que o fabricante coloca no mercado corresponde ao produto-tipo de outro produto de construção, fabricado por outro fabricante, já ensaiado de acordo com a norma harmonizada aplicável. Caso estas condições estejam preenchidas, o fabricante pode declarar que o desempenho corresponde aos resultados, totais ou parciais, dos ensaios realizados a esse outro produto. Os fabricantes só podem utilizar os resultados de ensaios realizados por outro fabricante se para tal obtiverem autorização deste último, que continua a ser responsável pelo rigor, fiabilidade e estabilidade desses resultados; ou
+
+c) O produto de construção, abrangido por uma especificação técnica harmonizada, que o fabricante coloca no mercado é um sistema de componentes que o fabricante monta seguindo rigorosamente as instruções precisas dadas pelo fornecedor desse sistema ou de um dos seus componentes, que já procedeu a ensaios desse sistema ou desse componente relativamente a uma ou várias das suas características essenciais, de acordo com a especificação técnica harmonizada aplicável. Caso estas condições estejam preenchidas, o fabricante pode declarar que o desempenho corresponde aos resultados, totais ou parciais, dos ensaios realizados ao sistema ou ao componente que lhe foram fornecidos. Os fabricantes só podem utilizar os resultados de ensaios realizados por outro fabricante ou fornecedor de sistemas se para tal obtiverem autorização desse fabricante ou fornecedor de sistemas, que continua a ser responsável pelo rigor, fiabilidade e estabilidade desses resultados.
+
+2. Se o produto de construção referido no n.º 1 pertencer a uma família de produtos de construção para a qual o sistema aplicável de avaliação e verificação da regularidade do desempenho é o sistema 1 + ou o sistema 1 previstos no anexo V, a documentação técnica adequada referida no n.º 1 deve ser verificada por um organismo de certificação de produtos notificado nos termos do anexo V.
+
+###### Artigo 37.º — Utilização de procedimentos simplificados por microempresas
+
+As microempresas que fabricam produtos de construção abrangidos por normas harmonizadas podem substituir a determinação do produto-tipo com base no ensaio desse tipo para os sistemas 3 e 4 aplicáveis nos termos do anexo V utilizando métodos diferentes dos constantes da norma harmonizada aplicável. Esses fabricantes podem também tratar os produtos de construção aos quais se aplica o sistema 3 de acordo com as disposições previstas para o sistema 4. Caso um fabricante utilize estes procedimentos simplificados, deve demonstrar a conformidade do produto de construção com os requisitos aplicáveis por meio de documentação técnica específica, bem como a equivalência dos procedimentos usados com os procedimentos previstos nas normas harmonizadas.
+
+###### Artigo 38.º — Outros procedimentos simplificados
+
+1. No que se refere aos produtos de construção abrangidos por normas harmonizadas fabricados individualmente ou por medida, sem ser em série, em resposta a uma encomenda específica, e instalados numa única obra de construção identificada, o fabricante pode substituir a parte de avaliação do desempenho do sistema aplicável prevista no anexo V por documentação técnica específica que demonstre a conformidade do produto com os requisitos aplicáveis, bem como a equivalência dos procedimentos usados com os procedimentos previstos nas normas harmonizadas.
+
+2. Se o produto de construção referido no n.º 1 pertencer a uma família de produtos de construção para a qual o sistema aplicável de avaliação e verificação da regularidade do desempenho é o sistema 1 + ou o sistema 1 previstos no anexo V, a documentação técnica específica deve ser verificada por um organismo de certificação de produtos notificado nos termos do anexo V.
+
+## CAPÍTULO VI-A
+
+### PROCEDIMENTOS DE EMERGÊNCIA
+
+###### Artigo 38.º-A — Aplicação de procedimentos de emergência
+
+1. Os artigos 38.º-B a 38.º-D do presente regulamento são aplicáveis apenas se a Comissão tiver adotado um ato de execução nos termos do artigo 28.º do Regulamento (UE) 2024/2747 no que diz respeito aos produtos de construção abrangidos pelo presente regulamento.
+
+2. Os artigos 38.º-B a 38.º-D do presente regulamento são aplicáveis apenas a produtos de construção que tenham sido designados como bens relevantes em situação de crise nos termos do artigo 18.º, n.º 4, do Regulamento (UE) 2024/2747.
+
+3. Os artigos 38.º-B a 38.º-D do presente regulamento são aplicáveis apenas durante o modo de emergência do mercado interno que tenha sido ativado em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747.
+
+4. A Comissão pode adotar atos de execução relativos às medidas corretivas ou restritivas a tomar, aos procedimentos a seguir e aos requisitos específicos de rotulagem e rastreabilidade relativamente a produtos de construção colocados no mercado em conformidade com os artigos 38.º-B e 38.º-C. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 64.º, n.º 2-A.
+
+###### Artigo 38.º-B — Prioridade da avaliação e verificação da regularidade do desempenho de produtos de construção designados como bens relevantes em situação de crise
+
+1. O presente artigo aplica-se a produtos de construção elencados no ato de execução a que se refere o artigo 38.º-A, n.º 1, que estão sujeitos ao exercício, por terceiros, de funções dos organismos notificados relacionadas com a avaliação e verificação da regularidade do desempenho em conformidade com o artigo 28.º, n.º 1.
+
+2. Os organismos notificados envidam todos os esforços para tratar com caráter prioritário os pedidos de exercício, por terceiros, de funções relacionadas com a avaliação e verificação da regularidade do desempenho dos produtos de construção a que se refere o n.º 1, independentemente de esses pedidos terem sido apresentados antes ou depois da ativação dos procedimentos de emergência nos termos do artigo 38.º-A.
+
+3. A atribuição de prioridade aos pedidos de exercício, por terceiros, de funções relacionadas com a avaliação e verificação da regularidade do desempenho de produtos de construção nos termos do n.º 2 não deve resultar em custos adicionais desproporcionais para os fabricantes que apresentaram esses pedidos.
+
+4. Os organismos notificados envidam esforços razoáveis para aumentar as respetivas capacidades de avaliação e verificação dos produtos a que se refere o n.º 1 relativamente aos quais foram notificados.
+
+###### Artigo 38.º-C — Avaliação e declaração de desempenho com base em normas e especificações comuns
+
+1.
+
+Nos casos em que os produtos de construção tenham sido designados como bens relevantes em situação de crise, a Comissão fica habilitada a adotar atos de execução que elenquem normas adequadas ou estabeleçam especificações comuns para abranger os métodos e os critérios para avaliar o desempenho desses produtos em relação às suas características essenciais em qualquer um dos seguintes casos:
+
+a) Sempre que não tenha sido publicada no *Jornal Oficial da União Europeia* uma referência a normas harmonizadas que abranjam os métodos e critérios pertinentes para avaliar o desempenho desses produtos em relação às suas características essenciais em conformidade com o Regulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0008)) e que não esteja prevista a publicação de tal referência dentro de um prazo razoável; ou
+
+b) Sempre que as perturbações graves do funcionamento do mercado interno, que conduziram à ativação do modo de emergência do mercado interno em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747, restrinjam significativamente as possibilidades de os fabricantes fazerem uso das normas harmonizadas que fornecem os métodos e critérios pertinentes para avaliar o desempenho desses produtos em relação às suas características essenciais e cujas referências já foram publicadas no *Jornal Oficial da União Europeia* em conformidade com o Regulamento (UE) n.º 1025/2012.
+
+2. Os atos de execução a que se refere o n.º 1 estabelecem a solução técnica alternativa mais adequada para efeitos de consecução da avaliação e declaração de desempenho em conformidade com o n.º 5. Para o efeito, as referências das normas europeias ou as referências das normas nacionais ou internacionais aplicáveis pertinentes podem ser publicadas nesses atos de execução ou, caso não exista uma norma europeia ou uma norma nacional ou internacional aplicável pertinente, podem ser estabelecidas especificações comuns por esses atos de execução.
+
+3. Os atos de execução a que se refere o n.º 1 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 64.º, n.º 2-A, e são aplicáveis até ao último dia do período durante o qual o modo de emergência do mercado interno estiver ativo, salvo se os referidos atos de execução forem alterados ou revogados em conformidade com o n.º 7 do presente artigo.
+
+4. Antes de elaborar o projeto de ato de execução a que se refere o n.º 1 do presente artigo, a Comissão informa o comité a que se refere o artigo 22.º do Regulamento (UE) n.º 1025/2012 de que considera terem sido preenchidas as condições previstas no n.º 1 do presente artigo. Ao elaborar esse projeto de ato de execução, a Comissão tem em conta as opiniões dos organismos pertinentes ou dos grupos de peritos criados ao abrigo do presente regulamento e consulta devidamente todas as partes interessadas pertinentes.
+
+5. Sem prejuízo dos artigos 4.º e 6.º, os métodos e critérios estabelecidos nas normas ou especificações comuns a que se refere o n.º 1 do presente artigo podem ser utilizados, no todo ou em parte, para avaliar e declarar o desempenho de produtos de construção abrangidos por essas normas ou especificações comuns em relação às suas características essenciais. A partir do dia seguinte à caducidade ou desativação do modo de emergência do mercado interno deixa de ser possível elaborar declarações de desempenho baseadas nas normas ou nas especificações comuns referidas no ato de execução a que se refere o n.º 1 do presente artigo.
+
+6. Em derrogação do disposto no artigo 38.º-A, n.º 3, a menos que exista razão suficiente para crer que os produtos de construção abrangidos pelas normas ou especificações comuns a que se refere o n.º 1 do presente artigo representam um risco para a saúde ou a segurança das pessoas ou não apresentam o desempenho declarado, as declarações de desempenho dos produtos de construção que foram colocados no mercado em conformidade com essas normas ou especificações comuns continuam a ser válidas após a caducidade ou revogação de um ato de execução adotado nos termos do n.º 3 do presente artigo e após a caducidade ou desativação do modo de emergência do mercado interno.
+
+7. Sempre que um Estado-Membro considere que uma norma ou especificação comum a que se refere o n.º 1 está incorreta em termos de métodos e critérios para a avaliação do desempenho em relação a características essenciais, informa a Comissão desse facto, apresentando uma explicação detalhada. A Comissão avalia essa explicação detalhada e, se for caso disso, altera ou revoga o ato de execução que elenca a norma ou estabelece a especificação comum em causa.
+
+###### Artigo 38.º-D — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
+
+1. Os Estados-Membros dão prioridade a atividades de fiscalização do mercado relativas a produtos de construção elencados no ato de execução a que se refere o artigo 38.º-A, n.º 1, do presente regulamento. A Comissão facilita a coordenação destes esforços de atribuição de prioridade através da rede da União para a conformidade dos produtos, criada ao abrigo do artigo 29.º do Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0009)).
+
+2. As autoridades de fiscalização do mercado dos Estados-Membros asseguram que são envidados os melhores esforços para prestar assistência a outras autoridades de fiscalização do mercado durante o modo de emergência do mercado interno, nomeadamente através da mobilização e do envio de uma equipa de peritos para reforçar temporariamente o pessoal das autoridades de fiscalização do mercado que solicitam assistência ou prestando apoio logístico como o reforço da capacidade de ensaio dos produtos de construção elencados no ato de execução a que se refere o artigo 38.º-A, n.º 1.
+
+## CAPÍTULO VII
+
+### AUTORIDADES NOTIFICADORAS E ORGANISMOS NOTIFICADOS
+
+###### Artigo 39.º — Notificação
+
+Os Estados-Membros devem notificar a Comissão e os outros Estados-Membros dos organismos autorizados a agir enquanto terceiros no processo de avaliação e verificação da regularidade do desempenho ao abrigo do presente regulamento (a seguir designados por «organismos notificados»).
+
+###### Artigo 40.º — Autoridades notificadoras
+
+1. Os Estados-Membros devem designar a autoridade notificadora responsável pela instauração e execução dos procedimentos necessários para a avaliação e notificação dos organismos que serão autorizados a exercer, enquanto terceiros, as funções de avaliação e verificação da regularidade do desempenho para efeitos do presente regulamento, bem como pelo controlo dos organismos notificados, nomeadamente no que respeita ao cumprimento do disposto no artigo 43.º
+
+2. Os Estados-Membros podem decidir que a avaliação e o controlo referidos no n.º 1 sejam efectuados pelos seus organismos de acreditação nacionais na acepção e nos termos do Regulamento (CE) n.º 765/2008.
+
+3. Se a autoridade notificadora delegar ou de qualquer outro modo atribuir as funções de avaliação, notificação ou controlo referidas no n.º 1 a um organismo que não seja público, esse organismo deve ser uma pessoa colectiva e cumprir, com as necessárias adaptações, os requisitos referidos no artigo 41.º. Além disso, esse organismo deve dotar-se de capacidade para garantir a cobertura da responsabilidade civil decorrente das actividades que exerce.
+
+4. A autoridade notificadora deve assumir a plena responsabilidade pelas funções exercidas pelos organismos a que se refere o n.º 3.
+
+###### Artigo 47.º — Pedido de notificação
+
+1. Para serem autorizados a exercer, enquanto terceiros, as funções de avaliação e verificação da regularidade do desempenho, os organismos devem apresentar um pedido de notificação à autoridade notificadora do Estado-Membro onde se encontrem estabelecidos.
+
+2. O pedido deve ser acompanhado de uma descrição das actividades a realizar, dos procedimentos de avaliação e/ou verificação em relação aos quais os organismos se consideram competentes e de um certificado de acreditação, caso exista, emitido por um organismo nacional de acreditação, na acepção do Regulamento (CE) n.º 765/2008, que ateste que o organismo cumpre os requisitos estabelecidos no artigo 43.º
+
+3. Se o organismo em questão não puder apresentar um certificado de acreditação, deve fornecer à autoridade notificadora todas as provas documentais necessárias à verificação, ao reconhecimento e ao controlo regular da sua conformidade com os requisitos estabelecidos no artigo 43.º
+
+###### Artigo 48.º — Procedimento de notificação
+
+1. As autoridades notificadoras só podem notificar os organismos que cumpram os requisitos estabelecidos no artigo 43.º
+
+2. As autoridades notificadoras devem notificar a Comissão e os restantes Estados-Membros, nomeadamente utilizando o instrumento de notificação electrónico criado e gerido pela Comissão.
+
+Excepcionalmente, nos casos a que se refere o ponto 3 do anexo V em que não se disponha do instrumento electrónico adequado, são aceites as notificações em papel.
+
+3. A notificação deve incluir dados pormenorizados das actividades a realizar, uma referência à especificação técnica harmonizada aplicável e, para efeitos do sistema referido no anexo V, as características essenciais que são da competência dos organismos.
+
+Contudo, a referência à especificação técnica harmonizada aplicável não é necessária nos casos previstos no n.º 3 do anexo V.
+
+4. Se a notificação não se basear no certificado de acreditação referido no n.º 2 do artigo 47.º, a autoridade notificadora deve facultar à Comissão e aos restantes Estados-Membros todas as provas documentais que atestem a competência técnica do organismo notificado e as disposições introduzidas para assegurar que esse organismo seja auditado regularmente e continue a cumprir os requisitos estabelecidos no artigo 43.º
+
+5. O organismo em causa só pode exercer as funções de organismo notificado se nem a Comissão nem os Estados-Membros levantarem objecções no prazo de duas semanas a contar da notificação, caso seja utilizado um certificado de acreditação, ou de dois meses, caso não seja utilizado um certificado de acreditação.
+
+Só um tal organismo é considerado como um organismo notificado para efeitos do presente regulamento.
+
+6. A Comissão e os outros Estados-Membros devem ser informados de qualquer alteração relevante introduzida posteriormente na notificação.
+
+###### Artigo 49.º — Números de identificação e listas dos organismos notificados
+
+1. A Comissão deve atribuir um número de identificação a cada organismo notificado.
+
+A Comissão deve atribuir um único número, mesmo que o organismo esteja notificado ao abrigo de vários actos da União.
+
+2. A Comissão deve publicar a lista dos organismos notificados ao abrigo do presente regulamento, incluindo os números de identificação que lhes foram atribuídos e as actividades para as quais foram notificados, nomeadamente utilizando o instrumento de notificação electrónico criado e gerido pela Comissão.
+
+A Comissão deve assegurar a actualização dessa lista.
+
+###### Artigo 52.º — Deveres operacionais dos organismos notificados
+
+1. Os organismos notificados devem exercer as funções, enquanto terceiros, de acordo com os sistemas de avaliação e verificação da regularidade do desempenho previstas no anexo V.
+
+2. A avaliação e verificação da regularidade do desempenho são efectuadas em condições de transparência relativamente ao fabricante e de modo proporcionado, evitando encargos desnecessários para os operadores económicos. Os organismos notificados devem exercer as suas funções tendo em devida conta a dimensão da empresa, o sector em que a empresa opera, a sua estrutura, o grau de complexidade tecnológica dos produtos em questão e a natureza – fabrico em série ou em massa – do processo de produção.
+
+Ao fazê-lo, os organismos notificados devem, contudo, respeitar o grau de rigor exigido pelo presente regulamento relativamente ao produto em causa e ter em conta o papel desempenhado pelo produto para o cumprimento de todos os requisitos básicos das obras de construção.
+
+3. Se, no decurso da inspecção inicial da unidade fabril e do controlo de produção em fábrica, o organismo notificado verificar que o fabricante não assegura a regularidade do desempenho do produto fabricado, deve exigir que o fabricante tome as medidas correctivas adequadas e não emite um certificado.
+
+4. Se, durante a actividade de controlo destinada a verificar a regularidade do desempenho do produto fabricado, o organismo notificado verificar que o produto de construção já não apresenta o mesmo desempenho que o do produto-tipo, deve exigir que o fabricante tome as medidas correctivas adequadas e, se necessário, suspende ou retira o respectivo certificado.
+
+5. Se não forem tomadas medidas correctivas, ou se essas medidas não tiverem o efeito requerido, o organismo notificado restringe, suspende ou retira o certificado, consoante o caso.
+
+###### Artigo 53.º — Dever de informação dos organismos notificados
+
+1.
+
+Os organismos notificados devem comunicar à autoridade notificadora as seguintes informações:
+
+a) Qualquer recusa, restrição, suspensão ou retirada de certificados;
+
+b) Quaisquer circunstâncias que afectem o âmbito e as condições de notificação;
+
+c) Quaisquer pedidos de informação que tenham recebido das autoridades de fiscalização do mercado sobre actividades de avaliação e/ou verificação da regularidade do desempenho;
+
+d) Mediante pedido, indicação das tarefas executadas, enquanto terceiros, ao abrigo dos sistemas de avaliação e verificação da regularidade do desempenho no âmbito da respectiva notificação, e de quaisquer outras actividades realizadas, incluindo actividades transfronteiriças e subcontratação.
+
+2. Os organismos notificados devem pôr à disposição dos outros organismos notificados ao abrigo do presente regulamento que exerçam, enquanto terceiros, funções semelhantes de acordo com os sistemas de avaliação e verificação da regularidade do desempenho e para produtos de construção abrangidos pela mesma especificação técnica harmonizada todas as informações relevantes sobre questões relativas aos resultados negativos daquelas avaliações e/ou verificações e, mediante pedido, igualmente aos resultados positivos.
+
+###### Artigo 55.º — Coordenação dos organismos notificados
+
+A Comissão deve garantir o estabelecimento e o bom funcionamento de uma coordenação e uma cooperação apropriadas entre os organismos notificados ao abrigo do artigo 39.º, sob a forma de um grupo de organismos notificados.
+
+Os Estados-Membros devem garantir que os organismos por eles notificados participem nos trabalhos desse grupo, directamente ou através de representantes designados, ou que os representantes dos organismos notificados sejam informados acerca desses trabalhos.
+
+## CAPITULO VIII
+
+### FISCALIZAÇÃO DO MERCADO E PROCEDIMENTOS DE SALVAGUARDA
+
+## CAPÍTULO IX
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 60.º — Actos delegados
+
+Para alcançar os objectivos do presente regulamento, nomeadamente para eliminar e evitar restrições à disponibilização de produtos de construção no mercado, são delegadas na Comissão as seguintes matérias, nos termos do artigo 61.º e nas condições previstas nos artigos 62.º e 63.º:
+
+a) A determinação, se for caso disso, das características essenciais ou dos níveis-limite dentro de famílias específicas de produtos de construção em relação aos quais o fabricante deve declarar, nos termos dos artigos 3.º a 6.º, o desempenho do seu produto aquando da sua colocação no mercado em função da utilização prevista, por níveis ou classes, ou por meio de uma descrição;
+
+b) As condições em que uma declaração de desempenho pode ser processada electronicamente a fim de ser disponibilizada num sítio da internet, nos termos do artigo 7.º;
+
+c) A alteração do período durante o qual o fabricante deve conservar a documentação técnica e a declaração de desempenho após a colocação do produto de construção no mercado, nos termos do artigo 11.º, com base no tempo previsível de vida do produto ou no papel desempenhado pelo produto nas obras de construção;
+
+d) A alteração do anexo II e, se necessário, a adopção de regras processuais suplementares, nos termos do n.º 3 do artigo 19.º, para assegurar a conformidade com os princípios do artigo 20.º, ou a aplicação na prática dos procedimentos estabelecidos no artigo 21.º;
+
+e) A adaptação do anexo III, do quadro 1 do anexo IV e do anexo V em resposta ao progresso técnico;
+
+f) O estabelecimento e a adaptação de classes de desempenho em resposta ao progresso técnico, nos termos do n.º 1 do artigo 27.º;
+
+g) As condições em que se considera que um produto de construção satisfaz um certo nível ou classe de desempenho sem ensaios ou sem ensaios suplementares nos termos do n.º 5 do artigo 27.º, desde que o cumprimento dos requisitos básicos das obras de construção não seja prejudicado;
+
+h) A adaptação, o estabelecimento e a revisão dos sistemas de avaliação e verificação da regularidade do desempenho nos termos do artigo 28.º, em relação a um produto, a uma família de produtos ou a uma característica essencial, em função:
+
+i) da importância do papel desempenhado pelo produto ou da característica essencial em causa no que se refere aos requisitos básicos das obras de construção;
+
+ii) da natureza do produto;
+
+iii) do efeito da variabilidade das características essenciais do produto de construção durante o tempo previsível de vida do produto; e
+
+iv) da susceptibilidade do produto a defeitos de fabrico.
+
+###### Artigo 61.º — Exercício da delegação
+
+1. O poder de adoptar os actos delegados a que se refere o artigo 60.º é conferido à Comissão por um período de cinco anos a contar de 24 de Abril de 2011. A Comissão apresenta um relatório relativo aos poderes delegados pelo menos seis meses antes do final do referido período de cinco anos. A delegação de poderes é renovada automaticamente por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a revogarem nos termos do artigo 62.º
+
+2. Assim que adoptar um acto delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e o Conselho.
+
+3. O poder de adoptar actos delegados conferido à Comissão está sujeito às condições previstas nos artigos 62.º e 63.º
+
+###### Artigo 62.º — Revogação da delegação
+
+1. A delegação de poderes referida no artigo 60.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho.
+
+2. A instituição que der início a um procedimento interno para decidir se revoga a delegação de poderes procura informar a outra instituição e a Comissão num prazo razoável antes de tomar a decisão final, indicando os poderes delegados que poderão ser objecto de revogação e os eventuais motivos da mesma.
+
+3. A decisão de revogação põe termo à delegação dos poderes nela especificados. Produz efeitos imediatamente ou numa data posterior nela especificada. A decisão de revogação não afecta a validade dos actos delegados em vigor. A decisão é publicada no *Jornal Oficial da União Europeia*.
+
+###### Artigo 63.º — Objecções aos actos delegados
+
+1. O Parlamento Europeu ou o Conselho podem levantar objecções a um acto delegado no prazo de três meses a contar da data de notificação.
+
+Por iniciativa do Parlamento Europeu ou do Conselho, esse prazo é prorrogado por três meses.
+
+2. Se, no termo do prazo referido no n.º 1, nem o Parlamento Europeu nem o Conselho tiverem levantado objecções ao acto delegado, este é publicado no *Jornal Oficial da União Europeia* e entra em vigor na data nele prevista.
+
+O acto delegado pode ser publicado no *Jornal Oficial da União Europeia* e entrar em vigor antes do termo do referido prazo se tanto o Parlamento Europeu como o Conselho informarem a Comissão de que não tencionam formular objecções.
+
+3. Se, no prazo a que se refere o n.º 1, o Parlamento Europeu ou o Conselho levantarem objecções a um acto delegado, este não entra em vigor. A instituição que formular objecções ao acto delegado expõe os motivos das mesmas.
+
+###### Artigo 64.º — Comité
+
+1. A Comissão é assistida pelo Comité Permanente da Construção.
+
+2. Caso se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE.
+
+2-A. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0010)).
+
+3. Os Estados-Membros asseguram que os membros do Comité Permanente da Construção possam exercer as suas funções evitando conflitos de interesses, em particular no que se refere aos procedimentos de obtenção da marcação CE.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## ANEXO III
+
+### DECLARAÇÃO DE DESEMPENHO
+
+### N.º
+
+1. Código de identificação único do produto-tipo:
+
+2. Utilização(ões) prevista(s)
+
+3. Fabricante:
+
+4. Mandatário:
+
+5. Sistema(s) de avaliação e verificação da regularidade do desempenho (AVCP):
+
+6A. Norma harmonizada:
+
+6B. Documento de Avaliação Europeu
+
+7. Desempenho(s) declarado(s):
+
+8. Documentação Técnica Adequada e/ou Documentação Técnica Específica:
+
+### Instruções para elaboração da declaração de desempenho
+
+#### 1. ASPETOS GERAIS
+
+Estas instruções destinam-se a orientar os fabricantes ao elaborarem uma declaração de desempenho em conformidade com o Regulamento (UE) n.º 305/2011, respeitando o modelo do presente anexo (a seguir denominado «modelo»).
+
+Estas instruções não fazem parte das declarações de desempenho a emitir pelo fabricante e não devem ser nelas incluídas.
+
+Ao fazer uma declaração de desempenho, o fabricante deve:
+
+1) Reproduzir os textos e os títulos principais do modelo que não são indicados entre parênteses retos;
+
+2) Substituir os espaços em branco e os parênteses retos, inserindo as informações necessárias.
+
+Na declaração de desempenho, os fabricantes podem também incluir a referência ao sítio *web* no qual é disponibilizado um exemplar da declaração de desempenho, em conformidade com o artigo 7.º, n.º 3, do Regulamento (UE) n.º 305/2011. Essa referência pode ser incluída a seguir ao ponto 8 ou em qualquer outro local onde não afete a legibilidade e a clareza das informações obrigatórias.
+
+#### 2. FLEXIBILIDADE
+
+Desde que a informação obrigatória exigida pelo artigo 6.º do Regulamento (UE) n.º 305/2011 seja prestada de forma clara, completa e coerente, aquando da preparação de uma declaração de desempenho, é possível:
+
+1) Utilizar um formato diferente do previsto no modelo;
+
+2) Combinar os pontos do modelo apresentando alguns deles em conjunto;
+
+3) Apresentar os pontos do modelo sob uma ordem diferente ou utilizar um ou mais quadros;
+
+4) Omitir alguns pontos do modelo que não sejam relevantes relativamente ao produto para o qual a declaração de desempenho é elaborada. Tal é o caso, por exemplo, de uma declaração de desempenho, que tanto se pode basear numa norma harmonizada como numa Avaliação Técnica Europeia emitida para o produto, sendo que cada uma das alternativas exclui a outra. Estas omissões podem também dizer respeito aos pontos relativos ao mandatário ou à utilização da Documentação Técnica Adequada e da Documentação Técnica Específica;
+
+5) Apresentar os pontos sem serem numerados.
+
+Se um fabricante pretender emitir uma única declaração de desempenho abrangendo diferentes variantes de um produto-tipo, é necessário, pelo menos, que os seguintes elementos sejam enumerados separadamente e claramente para cada variante do produto: o número da declaração de desempenho, o código de identificação mencionado no ponto 1 e os desempenhos declarados no ponto 7.
+
+#### 3. INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO
+
+Ponto do modelo Instruções
+
+Número da declaração de desempenho Número de referência da declaração de desempenho, previsto no artigo 9.º, n.º 2, do Regulamento (UE) n.º 305/2011. A escolha do número é deixada ao critério do fabricante. Este número pode ser o mesmo que o código de identificação único do produto-tipo, indicado no ponto 1 do modelo.
+
+Ponto 1 Indicar o código de identificação único do produto-tipo referido no artigo 6.º, n.º 2, alínea a), do Regulamento (UE) n.º 305/2011. No artigo 9.º, n.º 2, do Regulamento (UE) n.º 305/2011, o código de identificação único determinado pelo fabricante, que deve seguir-se à marcação CE, está ligado ao produto-tipo e, consequentemente, ao conjunto de níveis ou classes de desempenho de um produto de construção, conforme apresentado na declaração de desempenho elaborada para esse produto. Além disso, para os destinatários de produtos de construção, em especial os utilizadores finais, é necessário poder identificar, de forma inequívoca, esse conjunto de níveis ou classes de desempenho em relação a qualquer produto. Por conseguinte, cada produto de construção para o qual foi elaborada uma declaração de desempenho deve estar associado, pelo seu fabricante, ao respetivo produto-tipo e a um dado conjunto de níveis ou classes de desempenho por meio do código de identificação único, funcionando igualmente como referência, mencionada no artigo 6.º, n.º 2, alínea a), do Regulamento (UE) n.º 305/2011.
+
+Ponto 2 Indicar a utilização prevista, ou lista das utilizações previstas, se for caso disso, do produto de construção, tal como previsto pelo fabricante, em conformidade com a especificação técnica harmonizada aplicável.
+
+Ponto 3 Indicar o nome, o nome comercial registado ou marca registada e o endereço de contacto do fabricante, nos termos do artigo 11.º, n.º 5, do Regulamento (UE) n.º 305/2011.
+
+Ponto 4 Este ponto deve ser incluído e preenchido apenas em caso de ter sido designado um mandatário. Neste caso, indicar o nome e o endereço de contacto do mandatário cujo mandato abrange os atos especificados no artigo 12.º, n.º 2, do Regulamento (UE) n.º 305/2011.
+
+Ponto 5 Indicar o número do sistema ou sistemas de avaliação e verificação da regularidade do desempenho (AVCP) aplicáveis do produto de construção, conforme previsto no anexo V do Regulamento (UE) n.º 305/2011. Se houver vários sistemas, cada um deles deve ser declarado.
+
+Pontos 6A e 6B Uma vez que os fabricantes podem elaborar uma declaração de desempenho com base numa norma harmonizada ou numa Avaliação Técnica Europeia emitida para o produto, estas duas situações diferentes, apresentadas nos termos dos pontos 6A e 6B, devem ser tratadas como alternativas, sendo apenas uma delas aplicada e preenchida na declaração de desempenho. No caso do ponto 6A, ou seja, quando uma declaração de desempenho se baseia numa norma harmonizada, indicar todas as características seguintes: a) O número de referência da norma harmonizada e a sua data de emissão (referência datada); e b) O número de identificação do(s) organismo(s) notificado(s). Ao fornecer o nome do(s) organismo(s) notificado(s), é essencial que a denominação seja fornecida na língua original, sem tradução para outras línguas. No caso do ponto 6B, ou seja, quando uma declaração de desempenho se baseia numa Avaliação Técnica Europeia emitida para o produto, indicar todas as informações seguintes: a) O número do Documento de Avaliação Europeu e a sua data de emissão; b) O número da Avaliação Técnica Europeia e a sua data de emissão; c) O nome do Organismo de Avaliação Técnica; e d) O número de identificação do(s) organismo(s) notificado(s).
+
+Ponto 7 Neste ponto, a declaração de desempenho deve indicar: a) A lista das características essenciais, determinadas na especificação técnica harmonizada, para a utilização ou utilizações previstas indicadas no ponto 2; e b) Para cada característica essencial, o desempenho declarado, por nível ou classe, ou por meio de uma descrição, em relação a esta característica ou, para as características relativamente às quais não seja declarado qualquer desempenho, o acrónimo «NPD» (Desempenho Não Determinado). O presente ponto pode ser preenchido utilizando um quadro que apresente as relações entre as especificações técnicas harmonizadas e os sistemas de avaliação e verificação da regularidade do desempenho aplicados, respetivamente, a cada característica essencial do produto, bem como o desempenho em relação a cada característica essencial. O desempenho deverá ser declarado de forma clara e explícita. Por conseguinte, o desempenho não pode ser descrito na declaração de desempenho apenas mediante a introdução de uma fórmula de cálculo, a aplicar pelos beneficiários. Além disso, os níveis ou as classes de desempenho constantes dos documentos de referência devem ser reproduzidas na declaração de desempenho e, por conseguinte, não podem ser expressos unicamente pela inserção de referências a estes documentos na declaração de desempenho. Contudo, o desempenho, nomeadamente o comportamento estrutural de um produto de construção, pode ser expresso por referência à documentação de produção respetiva ou a cálculos estruturais de projeto. No presente caso, os documentos relevantes devem ser anexados à declaração de desempenho.
+
+Ponto 8 Este ponto só deve ser incluído e preenchido numa declaração de desempenho se tiverem sido utilizadas a Documentação Técnica Adequada e/ou a Documentação Técnica Específica, em conformidade com os artigos 36.º a 38.º do Regulamento (UE) n.º 305/2011, a fim de indicar os requisitos a que o produto obedece. Neste caso, a declaração de desempenho deve indicar neste ponto: a) O número de referência da Documentação Técnica Adequada e/ou da Documentação Técnica Específica utilizadas, e b) Os requisitos a que o produto obedece.
+
+Assinatura Substituir os espaços indicados entre parênteses retos pela informação indicada e a assinatura.
+
+## ANEXO V
+
+### AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+
+### 1. SISTEMAS DE AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+
+O fabricante deve redigir a declaração de desempenho e determinar o produto-tipo com base na avaliação e na verificação da regularidade do desempenho realizadas no quadro dos seguintes sistemas:
+
+#### 1.1. Sistema 1+
+
+a) O fabricante realiza:
+
+i) o controlo da produção em fábrica,
+
+ii) os ensaios adicionais de amostras colhidas na unidade fabril pelo fabricante de acordo com um programa de ensaios previamente estabelecido;
+
+b) O organismo de certificação de produtos notificado decidirá da emissão, restrição, suspensão ou retirada do certificado de regularidade do desempenho do produto de construção, com base nos resultados das seguintes avaliações e verificações realizadas por esse organismo:
+
+i) uma avaliação do desempenho do produto de construção realizada com base nos ensaios (incluindo amostragem), nos cálculos, nos valores tabelados ou na documentação descritiva do produto,
+
+ii) a inspeção inicial da unidade fabril e do controlo da produção em fábrica,
+
+iii) o acompanhamento, a apreciação e a avaliação contínuos do controlo da produção em fábrica,
+
+iv) ensaio aleatório de amostras colhidas na unidade fabril ou nas instalações de armazenagem do fabricante pelo organismo de certificação de produtos notificado.
+
+#### 1.2. Sistema 1
+
+a) O fabricante realiza:
+
+i) o controlo da produção em fábrica,
+
+ii) os ensaios adicionais de amostras colhidas na unidade fabril pelo fabricante de acordo com um programa de ensaios previamente estabelecido;
+
+b) O organismo de certificação de produtos notificado decidirá da emissão, restrição, suspensão ou retirada do certificado de regularidade do desempenho do produto de construção, com base nos resultados das seguintes avaliações e verificações realizadas por esse organismo:
+
+i) uma avaliação do desempenho do produto de construção realizada com base nos ensaios (incluindo amostragem), nos cálculos, nos valores tabelados ou na documentação descritiva do produto,
+
+ii) a inspeção inicial da unidade fabril e do controlo da produção em fábrica,
+
+iii) o acompanhamento, a apreciação e a avaliação contínuos do controlo da produção em fábrica.
+
+#### 1.3. Sistema 2+
+
+a) O fabricante realiza:
+
+i) uma avaliação do desempenho do produto de construção com base nos ensaios (incluindo amostragem), nos cálculos, nos valores tabelados ou na documentação descritiva desse produto,
+
+ii) o controlo da produção em fábrica,
+
+iii) os ensaios de amostras colhidas na unidade fabril pelo fabricante de acordo com um programa de ensaios previamente estabelecido;
+
+b) O organismo de certificação de controlo da produção em fábrica notificado decidirá da emissão, restrição, suspensão ou retirada do certificado de conformidade do controlo da produção em fábrica, com base nos resultados das seguintes avaliações e verificações realizadas por esse organismo:
+
+i) a inspeção inicial da unidade fabril e do controlo da produção em fábrica,
+
+ii) o acompanhamento, a apreciação e a avaliação contínuos do controlo da produção em fábrica;
+
+#### 1.4. Sistema 3
+
+a) O fabricante realiza o controlo da produção em fábrica;
+
+b) O laboratório notificado avalia o desempenho com base nos ensaios (baseados na amostragem realizada pelo fabricante), nos cálculos, nos valores tabelados ou na documentação descritiva do produto de construção.
+
+#### 1.4-A. Sistema 3+
+
+a) O fabricante realiza:
+
+i) a avaliação do desempenho do produto com base na recolha de dados de valores introduzidos, pressupostos e modelização;
+
+ii) o controlo da produção em fábrica;
+
+b) [**►C2**](http://publications.europa.eu/resource/celex/32024R2769R%2801%29) O organismo de validação da avaliação notificado decidirá da emissão, restrição, suspensão ou retirada do relatório de validação da regularidade do desempenho do produto de construção, com base nos resultados das seguintes avaliações e verificações realizadas por esse organismo:**◄**
+
+i) validação dos valores introduzidos, pressupostos e conformidade com as regras genéricas ou específicas aplicáveis à categoria de produtos;
+
+ii) validação da avaliação do fabricante;
+
+iii) validação do processo aplicado para gerar essa avaliação;
+
+iv) validação da utilização correta dos programas informáticos adequados para a avaliação;
+
+v) inspeção inicial da unidade fabril para validar quaisquer dados específicos da empresa.
+
+#### 1.5. Sistema 4
+
+a) O fabricante realiza:
+
+i) uma avaliação do desempenho do produto de construção com base nos ensaios, nos cálculos, nos valores tabelados ou na documentação descritiva desse produto,
+
+ii) o controlo da produção em fábrica;
+
+b) Não existem tarefas que exijam a intervenção de organismos notificados.
+
+#### 1.6. Produtos de construção para os quais tenha sido emitida uma Avaliação Técnica Europeia
+
+Os organismos notificados que realizem tarefas no âmbito dos sistemas 1+, 1, 3 e 3+ bem como os fabricantes que realizem tarefas no âmbito dos sistemas 2+ e 4, devem considerar a Avaliação Técnica Europeia emitida para o produto de construção em causa como a avaliação do desempenho desse produto. Por conseguinte, os organismos notificados e os fabricantes não realizam as tarefas referidas nos pontos 1.1 b) i), 1.2 b) i), 1.3 a) i), 1.4. b), 1.4-A a) i), e 1.5.ª) i), respetivamente.
+
+### 2. ORGANISMOS ENVOLVIDOS NA AVALIAÇÃO E VERIFICAÇÃO DA REGULARIDADE DO DESEMPENHO
+
+No que respeita à função dos organismos notificados envolvidos na avaliação e verificação da regularidade do desempenho dos produtos de construção, distinguem-se:
+
+(1) O organismo de certificação dos produtos: um organismo notificado, em conformidade com o capítulo VII, para realizar a certificação da regularidade do desempenho;
+
+(2) O organismo de certificação do controlo da produção em fábrica: um organismo notificado, em conformidade com o capítulo VII, para realizar a certificação do controlo da produção em fábrica;
+
+(3) Laboratório: um organismo notificado, em conformidade com o capítulo VII, para medir, analisar, ensaiar, calcular ou avaliar de qualquer outro modo o desempenho dos produtos de construção;
+
+(4) Organismo de validação da avaliação: um organismo notificado, em conformidade com o capítulo VII, para validar a avaliação do desempenho dos produtos de construção.
+
+### 3. NOTIFICAÇÕES HORIZONTAIS: CASOS DE CARACTERÍSTICAS ESSENCIAIS EM QUE NÃO É EXIGIDA A REFERÊNCIA A UMA ESPECIFICAÇÃO TÉCNICA HARMONIZADA PERTINENTE
+
+1. Reação ao fogo
+
+2. Resistência ao fogo
+
+3. Desempenho relativamente ao fogo no exterior
+
+4. Desempenho acústico
+
+5. Emissões de substâncias perigosas
+
+6. Sustentabilidade ambiental
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 124 de 20.5.2003, p. 36.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho, de 9 de outubro de 2024, que estabelece um regime relativo a emergências no mercado interno e à resiliência do mercado interno e que altera o Regulamento (CE) n.º 2679/98 do Conselho (Regulamento relativo a Emergências e à Resiliência do Mercado Interno) (JO L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Regulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à normalização europeia, que altera as Diretivas 89/686/CEE e 93/15/CEE do Conselho e as Diretivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE do Parlamento Europeu e do Conselho e revoga a Decisão 87/95/CEE do Conselho e a Decisão n.º 1673/2006/CE do Parlamento Europeu e do Conselho (JO L 316 de 14.11.2012, p. 12).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0009)) Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à fiscalização do mercado e à conformidade dos produtos e que altera a Diretiva 2004/42/CE e os Regulamentos (CE) n.º 765/2008 e (UE) n.º 305/2011 (JO L 169 de 25.6.2019, p. 1).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/879b753e-4321-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0010)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).

@@ -1,0 +1,520 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:284923:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-225262739",
+ "dre_path": "/dr/detalhe/portaria/1102-f-2000-284923",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "225261303",
+    "225261304",
+    "225261305",
+    "225261306",
+    "225261307",
+    "225261308",
+    "225261309",
+    "225261310",
+    "225261311",
+    "225261312",
+    "225261313",
+    "225261314",
+    "225261315",
+    "225261316",
+    "225261317",
+    "225261318",
+    "225261320",
+    "225261321"
+   ]
+  },
+  {
+   "date": "2005-03-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:588835:por",
+     "title": "Portaria n.º 244/2005",
+     "published": "2005-03-08",
+     "dre_path": "/dr/detalhe/portaria/244-2005-588835"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "225261303",
+    "225261322",
+    "225261304",
+    "225261305",
+    "225261306",
+    "225261307",
+    "225261308",
+    "225261309",
+    "225261310",
+    "225261311",
+    "225261312",
+    "225261313",
+    "225261314",
+    "225261315",
+    "225261316",
+    "229856853",
+    "225261318",
+    "225261319",
+    "225261320",
+    "225261321"
+   ]
+  },
+  {
+   "date": "2015-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66348203:por",
+     "title": "Portaria n.º 17/2015",
+     "published": "2015-01-27",
+     "dre_path": "/dr/detalhe/portaria/17-2015-66348203"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "225261303",
+    "225261322",
+    "225261304",
+    "225261305",
+    "225261306",
+    "225261307",
+    "225261308",
+    "225261309",
+    "225261310",
+    "225261311",
+    "225261312",
+    "225261313",
+    "229856854",
+    "225261315",
+    "225261316",
+    "229856853",
+    "225261318",
+    "225261319",
+    "225261320",
+    "225261321"
+   ]
+  },
+  {
+   "date": "2023-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225217602:por",
+     "title": "Portaria n.º 411/2023",
+     "published": "2023-12-05",
+     "dre_path": "/dr/detalhe/portaria/411-2023-225217602"
+    }
+   ],
+   "changes": [
+    "Revoga REGULAMENTO DA PESCA POR ARTE ENVOLVENTE-ARRASTANTE"
+   ],
+   "fragments": [
+    "225261303",
+    "229856855",
+    "229856856",
+    "229856857",
+    "229856858",
+    "229856859",
+    "229856860",
+    "229856861",
+    "229856862",
+    "229856863",
+    "229856864",
+    "229856865",
+    "229856866",
+    "229856867",
+    "229856868",
+    "229856869",
+    "229856870",
+    "229856871",
+    "229856872",
+    "229856873"
+   ]
+  }
+ ],
+ "fragments": {
+  "225261303": {
+   "fragment_id": "225262740",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-F/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «pesca por arte envolvente-arrastante», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca por Arte Envolvente-Arrastante, que faz parte integrante da presente portaria.\n\n2.º É revogada a Portaria n.º 488/96, de 13 de Setembro.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA PESCA POR ARTE ENVOLVENTE-ARRASTANTE"
+  },
+  "225261304": {
+   "fragment_id": "225262741",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "225261305": {
+   "fragment_id": "225262742",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de exercício da pesca por arte envolvente-arrastante."
+  },
+  "225261306": {
+   "fragment_id": "225262743",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da arte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição da arte\n\nPor pesca por arte envolvente-arrastante entende-se qualquer método de pesca que utiliza estruturas de rede, com frequência dotadas de bolsa central e grandes «asas» laterais que arrastam e, prévia ou simultaneamente, envolvem ou cercam."
+  },
+  "225261307": {
+   "fragment_id": "225262744",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exercício da pesca\n\nA pesca por arte envolvente-arrastante só pode ser exercida com a chamada arte de xávega."
+  },
+  "225261308": {
+   "fragment_id": "225262745",
+   "type": 1,
+   "heading": "Capítulo II — Arte de xávega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Arte de xávega"
+  },
+  "225261309": {
+   "fragment_id": "225262746",
+   "type": 11,
+   "heading": "Artigo 4.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Caracterização\n\n1 - A xávega é uma arte de alar para terra, conforme esquema constante do anexo I ao presente Regulamento, com as seguintes características:\n\na) Dimensões máximas da arte:\n\nComprimento dos cabos de alagem (calas) - 3000 m;\n\nComprimento das asas - 380 m;\n\nComprimento total do saco - 50 m;\n\nb) Dimensões mínimas da arte (malhagem mínima):\n\nVazios de malha dos claros (junto às calas) - 500 mm;\n\nVazios de malha das alcanelas (junto à boca do saco central) - 120 mm;\n\nVazios de malha do saco (incluindo a cuada) - 20 mm.\n\n2 - O esforço de tracção necessário à alagem da arte para a terra pode ter origem mecânica ou animal, incluindo-se nesta a força braçal humana.\n\n3 - A xávega é largada por embarcações licenciadas para o efeito."
+  },
+  "225261310": {
+   "fragment_id": "225262747",
+   "type": 11,
+   "heading": "Artigo 5.º — Áreas de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Áreas de operação\n\n1 - A xávega só pode operar na área da jurisdição da capitania de porto de registo da respectiva embarcação.\n\n2 - Os arrais darão conhecimento prévio dos locais de actividade das xávegas às entidades com tutela nas respectivas áreas do domínio público marítimo.\n\n3 - Os locais de faina de cada xávega são os tradicionalmente definidos e serão demarcados pela autoridade marítima, estando as alterações de localização sujeitas a concordância da mesma autoridade."
+  },
+  "225261311": {
+   "fragment_id": "225262748",
+   "type": 11,
+   "heading": "Artigo 6.º — Limites ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limites ao exercício da pesca\n\n1 - O exercício da pesca com xávega não é permitido durante a época balnear em praias concessionadas, entre as 10 horas e 30 minutos e as 18 horas e 30 minutos, salvo o disposto no número seguinte.\n\n2 - Mediante autorização prévia a ser requerida à Direcção-Geral das Pescas e Aquicultura (DGPA), poderão, a título excepcional e por razões de mostra etnográfica, ser levadas a efeito demonstrações da arte de xávega, sendo proibida a venda do pescado capturado, o qual apenas poderá ter por destino o consumo próprio dos promotores ou a entrega a entidades públicas ou instituições privadas de solidariedade social."
+  },
+  "225261312": {
+   "fragment_id": "225262749",
+   "type": 11,
+   "heading": "Artigo 7.º — Interrupção dos lanços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Interrupção dos lanços\n\nSempre que nas capturas de um lanço predominem espécimes que não tenham o tamanho mínimo legalmente exigido, a actividade da xávega será interrompida até ao virar da maré.\n\n> Nota: [Artigo 3.º, Portaria n.º 104/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/104-2015-66953292) No âmbito do estudo sobre a atividade da arte-xávega, não se aplica, entre abril e novembro de 2015, o disposto no presente artigo. Durante esse período, a atividade da arte-xávega é interrompida e são suspensos os desembarques, até ao virar da maré, após um lanço em que mais de 30 % do peso das capturas corresponda a espécimes subdimensionadas."
+  },
+  "225261313": {
+   "fragment_id": "225262750",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade dos arrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade dos arrais\n\n1 - Os arrais são responsáveis pela manobra das xávegas e pelo cumprimento da legislação em vigor.\n\n2 - Os responsáveis pelas operações em terra são obrigados a manter as praias devidamente limpas nas áreas de pesca, não sendo permitido o abandono de peixe ou de qualquer apetrecho na praia."
+  },
+  "225261314": {
+   "fragment_id": "225262751",
+   "type": 11,
+   "heading": "Artigo 9.º — Uso de animais ou tractores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Uso de animais ou tractores\n\n1 - O acesso à praia de animais ou tractores para alagem das artes terá lugar apenas no local ou locais determinados pela autoridade marítima no início de cada safra, a fim de ser evitada a destruição do sistema dunar.\n\n2 - Durante a faina só são permitidos três veículos de tracção mecânica por cada xávega, dos quais dois se destinam à alagem das redes e ao apoio às embarcações e o terceiro é de reserva, podendo apenas ser usado no transporte de apetrechos e pescado.\n\n3 - Não é permitido o uso de quaisquer acessórios nos tractores que não sejam os guinchos para alagem das redes, os necessários às manobras de movimentação da embarcação e os atrelados para transporte de materiais de pesca e do pescado."
+  },
+  "225261315": {
+   "fragment_id": "225262752",
+   "type": 11,
+   "heading": "Artigo 10.º — Manifesto de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Manifesto de captura\n\n1 - Os arrais de uma xávega ficam obrigados a manifestar anualmente à DGPA a quantidade total de pescado capturado, por espécies, e o valor por que foi vendido.\n\n2 - O manifesto previsto no número anterior é feito em impresso do modelo constante do anexo II ao presente Regulamento, devendo ser entregue nos 30 dias seguintes ao termo do ano civil a que respeita."
+  },
+  "225261316": {
+   "fragment_id": "225262753",
+   "type": 11,
+   "heading": "Artigo 11.º — Autorização, licenciamento e renovação das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autorização, licenciamento e renovação das licenças\n\n1 - Não são concedidas novas autorizações nem licenciamento inicial para o exercício da pesca com xávega.\n\n2 - Aquando da renovação das respectivas licenças, deverá ser remetido à DGPA, conjuntamente com o impresso de renovação e demais documentação prevista na legislação em vigor, o rol de matrícula do pessoal que faz parte da companha da xávega.\n\n3 - A renovação das licenças de pesca está condicionada ao cumprimento da obrigação prevista no artigo anterior, para além de outros critérios e condições a fixar nos termos da legislação em vigor."
+  },
+  "225261317": {
+   "fragment_id": "225262754",
+   "type": 11,
+   "heading": "Artigo 12.º — Cancelamento da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cancelamento da autorização\n\nAs autorizações para a pesca com xávega serão canceladas nos seguintes casos:\n\na) Não exercício da actividade sem justificação no ano anterior;\n\nb) Abate da embarcação ao registo na frota de pesca."
+  },
+  "225261318": {
+   "fragment_id": "225262755",
+   "type": 11,
+   "heading": "Artigo 13.º — Mudança de porto de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mudança de porto de registo\n\nA transferência de porto de registo de uma embarcação autorizada para o uso de xávega só pode ser feita para uma capitania/delegação marítima onde tradicionalmente é exercida esta pesca."
+  },
+  "225261320": {
+   "fragment_id": "225262757",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver figura no documento original)"
+  },
+  "225261321": {
+   "fragment_id": "225262758",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 10.º)\n\n(ver modelo no documento original)"
+  },
+  "225261322": {
+   "fragment_id": "225262759",
+   "type": 14,
+   "heading": "REGULAMENTO DA PESCA POR ARTE ENVOLVENTE-ARRASTANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## REGULAMENTO DA PESCA POR ARTE ENVOLVENTE-ARRASTANTE"
+  },
+  "229856853": {
+   "fragment_id": "225262754",
+   "type": 11,
+   "heading": "Artigo 12.º — Cancelamento da autorização",
+   "in_force_from": "2005-03-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 244/2005 - Diário da República n.º 47/2005, Série I-B de 2005-03-08](https://diariodarepublica.pt/dr/detalhe/portaria/244-2005-588835), em vigor a partir de 2005-03-09"
+   ],
+   "markdown": "###### Artigo 12.º — Cancelamento da autorização\n\nAs autorizações para a pesca com xávega serão canceladas nos seguintes casos:\n\na) Não exercício da actividade sem justificação no ano anterior;\n\nb) Abate da embarcação ao registo na frota de pesca, salvo quando esta seja dada como contrapartida para a construção de nova embarcação e desde que esta seja determinada, exclusivamente, por razões ligadas ao aumento de segurança.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 244/2005 - Diário da República n.º 47/2005, Série I-B de 2005-03-08](https://diariodarepublica.pt/dr/detalhe/portaria/244-2005-588835), em vigor a partir de 2005-03-09"
+  },
+  "225261319": {
+   "fragment_id": "225262756",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000."
+  },
+  "229856854": {
+   "fragment_id": "225262751",
+   "type": 11,
+   "heading": "Artigo 9.º — Uso de animais ou tractores",
+   "in_force_from": "2015-01-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2015 - Diário da República n.º 18/2015, Série I de 2015-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/17-2015-66348203), em vigor a partir de 2015-01-28"
+   ],
+   "markdown": "###### Artigo 9.º — Uso de animais ou tractores\n\n1 - O acesso à praia de animais ou tractores para alagem das artes terá lugar apenas no local ou locais determinados pela autoridade marítima no início de cada safra, a fim de ser evitada a destruição do sistema dunar.\n\n2 - Durante a faina só são permitidos quatro veículos de tração mecânica por cada xávega, dos quais dois se destinam à alagem das redes, um ao apoio à embarcação e transporte de apetrechos e pescado, sendo o outro de reserva.\n\n3 - Não é permitido o uso de quaisquer acessórios nos tractores que não sejam os guinchos para alagem das redes, os necessários às manobras de movimentação da embarcação e os atrelados para transporte de materiais de pesca e do pescado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2015 - Diário da República n.º 18/2015, Série I de 2015-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/17-2015-66348203), em vigor a partir de 2015-01-28"
+  },
+  "229856855": {
+   "fragment_id": "225262759",
+   "type": 14,
+   "heading": "REGULAMENTO DA PESCA POR ARTE ENVOLVENTE-ARRASTANTE",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "## REGULAMENTO DA PESCA POR ARTE ENVOLVENTE-ARRASTANTE\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856856": {
+   "fragment_id": "225262741",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856857": {
+   "fragment_id": "225262742",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de exercício da pesca por arte envolvente-arrastante.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856858": {
+   "fragment_id": "225262743",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da arte",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 2.º — Definição da arte\n\nPor pesca por arte envolvente-arrastante entende-se qualquer método de pesca que utiliza estruturas de rede, com frequência dotadas de bolsa central e grandes «asas» laterais que arrastam e, prévia ou simultaneamente, envolvem ou cercam.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856859": {
+   "fragment_id": "225262744",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício da pesca",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Exercício da pesca\n\nA pesca por arte envolvente-arrastante só pode ser exercida com a chamada arte de xávega.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856860": {
+   "fragment_id": "225262745",
+   "type": 1,
+   "heading": "Capítulo II — Arte de xávega",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "### Capítulo II — Arte de xávega\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856861": {
+   "fragment_id": "225262746",
+   "type": 11,
+   "heading": "Artigo 4.º — Caracterização",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 4.º — Caracterização\n\n1 - A xávega é uma arte de alar para terra, conforme esquema constante do anexo I ao presente Regulamento, com as seguintes características:\n\na) Dimensões máximas da arte:\n\nComprimento dos cabos de alagem (calas) - 3000 m;\n\nComprimento das asas - 380 m;\n\nComprimento total do saco - 50 m;\n\nb) Dimensões mínimas da arte (malhagem mínima):\n\nVazios de malha dos claros (junto às calas) - 500 mm;\n\nVazios de malha das alcanelas (junto à boca do saco central) - 120 mm;\n\nVazios de malha do saco (incluindo a cuada) - 20 mm.\n\n2 - O esforço de tracção necessário à alagem da arte para a terra pode ter origem mecânica ou animal, incluindo-se nesta a força braçal humana.\n\n3 - A xávega é largada por embarcações licenciadas para o efeito.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856862": {
+   "fragment_id": "225262747",
+   "type": 11,
+   "heading": "Artigo 5.º — Áreas de operação",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 5.º — Áreas de operação\n\n1 - A xávega só pode operar na área da jurisdição da capitania de porto de registo da respectiva embarcação.\n\n2 - Os arrais darão conhecimento prévio dos locais de actividade das xávegas às entidades com tutela nas respectivas áreas do domínio público marítimo.\n\n3 - Os locais de faina de cada xávega são os tradicionalmente definidos e serão demarcados pela autoridade marítima, estando as alterações de localização sujeitas a concordância da mesma autoridade.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856863": {
+   "fragment_id": "225262748",
+   "type": 11,
+   "heading": "Artigo 6.º — Limites ao exercício da pesca",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 6.º — Limites ao exercício da pesca\n\n1 - O exercício da pesca com xávega não é permitido durante a época balnear em praias concessionadas, entre as 10 horas e 30 minutos e as 18 horas e 30 minutos, salvo o disposto no número seguinte.\n\n2 - Mediante autorização prévia a ser requerida à Direcção-Geral das Pescas e Aquicultura (DGPA), poderão, a título excepcional e por razões de mostra etnográfica, ser levadas a efeito demonstrações da arte de xávega, sendo proibida a venda do pescado capturado, o qual apenas poderá ter por destino o consumo próprio dos promotores ou a entrega a entidades públicas ou instituições privadas de solidariedade social.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856864": {
+   "fragment_id": "225262749",
+   "type": 11,
+   "heading": "Artigo 7.º — Interrupção dos lanços",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 7.º — Interrupção dos lanços\n\nSempre que nas capturas de um lanço predominem espécimes que não tenham o tamanho mínimo legalmente exigido, a actividade da xávega será interrompida até ao virar da maré.\n\n> Nota: [Artigo 3.º, Portaria n.º 104/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/104-2015-66953292) No âmbito do estudo sobre a atividade da arte-xávega, não se aplica, entre abril e novembro de 2015, o disposto no presente artigo. Durante esse período, a atividade da arte-xávega é interrompida e são suspensos os desembarques, até ao virar da maré, após um lanço em que mais de 30 % do peso das capturas corresponda a espécimes subdimensionadas.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856865": {
+   "fragment_id": "225262750",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade dos arrais",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 8.º — Responsabilidade dos arrais\n\n1 - Os arrais são responsáveis pela manobra das xávegas e pelo cumprimento da legislação em vigor.\n\n2 - Os responsáveis pelas operações em terra são obrigados a manter as praias devidamente limpas nas áreas de pesca, não sendo permitido o abandono de peixe ou de qualquer apetrecho na praia.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856866": {
+   "fragment_id": "225262751",
+   "type": 11,
+   "heading": "Artigo 9.º — Uso de animais ou tractores",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2015 - Diário da República n.º 18/2015, Série I de 2015-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/17-2015-66348203), em vigor a partir de 2015-01-28"
+   ],
+   "markdown": "###### Artigo 9.º — Uso de animais ou tractores\n\n1 - O acesso à praia de animais ou tractores para alagem das artes terá lugar apenas no local ou locais determinados pela autoridade marítima no início de cada safra, a fim de ser evitada a destruição do sistema dunar.\n\n2 - Durante a faina só são permitidos quatro veículos de tração mecânica por cada xávega, dos quais dois se destinam à alagem das redes, um ao apoio à embarcação e transporte de apetrechos e pescado, sendo o outro de reserva.\n\n3 - Não é permitido o uso de quaisquer acessórios nos tractores que não sejam os guinchos para alagem das redes, os necessários às manobras de movimentação da embarcação e os atrelados para transporte de materiais de pesca e do pescado.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2015 - Diário da República n.º 18/2015, Série I de 2015-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/17-2015-66348203), em vigor a partir de 2015-01-28"
+  },
+  "229856867": {
+   "fragment_id": "225262752",
+   "type": 11,
+   "heading": "Artigo 10.º — Manifesto de captura",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 10.º — Manifesto de captura\n\n1 - Os arrais de uma xávega ficam obrigados a manifestar anualmente à DGPA a quantidade total de pescado capturado, por espécies, e o valor por que foi vendido.\n\n2 - O manifesto previsto no número anterior é feito em impresso do modelo constante do anexo II ao presente Regulamento, devendo ser entregue nos 30 dias seguintes ao termo do ano civil a que respeita.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856868": {
+   "fragment_id": "225262753",
+   "type": 11,
+   "heading": "Artigo 11.º — Autorização, licenciamento e renovação das licenças",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 11.º — Autorização, licenciamento e renovação das licenças\n\n1 - Não são concedidas novas autorizações nem licenciamento inicial para o exercício da pesca com xávega.\n\n2 - Aquando da renovação das respectivas licenças, deverá ser remetido à DGPA, conjuntamente com o impresso de renovação e demais documentação prevista na legislação em vigor, o rol de matrícula do pessoal que faz parte da companha da xávega.\n\n3 - A renovação das licenças de pesca está condicionada ao cumprimento da obrigação prevista no artigo anterior, para além de outros critérios e condições a fixar nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856869": {
+   "fragment_id": "225262754",
+   "type": 11,
+   "heading": "Artigo 12.º — Cancelamento da autorização",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 244/2005 - Diário da República n.º 47/2005, Série I-B de 2005-03-08](https://diariodarepublica.pt/dr/detalhe/portaria/244-2005-588835), em vigor a partir de 2005-03-09"
+   ],
+   "markdown": "###### Artigo 12.º — Cancelamento da autorização\n\nAs autorizações para a pesca com xávega serão canceladas nos seguintes casos:\n\na) Não exercício da actividade sem justificação no ano anterior;\n\nb) Abate da embarcação ao registo na frota de pesca, salvo quando esta seja dada como contrapartida para a construção de nova embarcação e desde que esta seja determinada, exclusivamente, por razões ligadas ao aumento de segurança.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 244/2005 - Diário da República n.º 47/2005, Série I-B de 2005-03-08](https://diariodarepublica.pt/dr/detalhe/portaria/244-2005-588835), em vigor a partir de 2005-03-09"
+  },
+  "229856870": {
+   "fragment_id": "225262755",
+   "type": 11,
+   "heading": "Artigo 13.º — Mudança de porto de registo",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "###### Artigo 13.º — Mudança de porto de registo\n\nA transferência de porto de registo de uma embarcação autorizada para o uso de xávega só pode ser feita para uma capitania/delegação marítima onde tradicionalmente é exercida esta pesca.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856871": {
+   "fragment_id": "225262756",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000.\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856872": {
+   "fragment_id": "225262757",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "## Anexo I\n\n(ver figura no documento original)\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  },
+  "229856873": {
+   "fragment_id": "225262758",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 10.º)",
+   "in_force_from": "2023-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 10.º)\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 16.º do/a [Portaria n.º 411/2023 - Diário da República n.º 234/2023, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/411-2023-225217602), em vigor a partir de 2023-12-10"
+  }
+ }
+}

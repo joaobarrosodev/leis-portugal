@@ -1,0 +1,425 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0114:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0114-20260614",
+ "dre_path": null,
+ "source_lastmod": "2026-06-14",
+ "versions": [
+  {
+   "date": "2002-01-17",
+   "future": false,
+   "celex": "32001L0114",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f0c2e92e0ff9ed2",
+    "7bebfed10df37755",
+    "71dc64b70d31a0f9",
+    "2007faf77849fe9a",
+    "736fc85b779409d0",
+    "d47b63bbb9699636",
+    "1582cebc7b0e1ac9",
+    "b8831df8e845aaee",
+    "9043e8a0fa8932b2",
+    "3d495c91ec062d75",
+    "7cf4000c8c436e79",
+    "e880d6e60381fc35",
+    "3a214d1a6b1606fc"
+   ]
+  },
+  {
+   "date": "2007-10-07",
+   "future": false,
+   "celex": "02001L0114-20071007",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0061:por",
+     "title": "DIRECTIVA 2007/61/CE DO CONSELHO de 26 de Setembro de 2007",
+     "published": null,
+     "celex": "32007L0061"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Adita ANEXO I",
+    "Adita DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS",
+    "Adita 1. Leite parcialmente desidratado",
+    "Adita 2. Leite totalmente desidratado",
+    "Adita 3. Tratamentos",
+    "Adita 4. Adições e matérias-primas autorizadas",
+    "Adita ANEXO II",
+    "Adita DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+    "Adita Notas",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO I — DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS",
+    "Suprime ANEXO II — DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I"
+   ],
+   "fragments": [
+    "179fcf5319a611b8",
+    "7bebfed10df37755",
+    "d28b1d27c8bddb7c",
+    "736fc85b779409d0",
+    "6e0a284d18863b4b",
+    "40de8ab1e57dfcc6",
+    "b8831df8e845aaee",
+    "579872a69fb5a3e9",
+    "8c67fb4ef0b03ec9",
+    "d0e0dc3a997caa2a",
+    "d664376e2a8dcecd",
+    "9e62d0dc3bfb6030",
+    "de4a72e09d0ff538",
+    "de6550c1d00e90ea",
+    "3e3f4658c1416d69",
+    "29f4c8f6e76f073e",
+    "852174729551523b",
+    "7a138abf6332b2cd",
+    "f3507df7cf3d5abc"
+   ]
+  },
+  {
+   "date": "2026-06-14",
+   "future": false,
+   "celex": "02001L0114-20260614",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1021:por",
+     "title": "REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013",
+     "published": null,
+     "celex": "32013R1021"
+    },
+    {
+     "id": "eu:celex:32024L1438:por",
+     "title": "DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024",
+     "published": null,
+     "celex": "32024L1438"
+    },
+    {
+     "id": null,
+     "title": "ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T%2FACT"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera 3. Tratamentos",
+    "Altera 4. Adições e matérias-primas autorizadas",
+    "Altera DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+    "Altera Notas",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º"
+   ],
+   "fragments": [
+    "49c6ad10d494adb8",
+    "7bebfed10df37755",
+    "29d1ca7c4516b197",
+    "736fc85b779409d0",
+    "b8831df8e845aaee",
+    "579872a69fb5a3e9",
+    "8c67fb4ef0b03ec9",
+    "d0e0dc3a997caa2a",
+    "d664376e2a8dcecd",
+    "9e62d0dc3bfb6030",
+    "de4a72e09d0ff538",
+    "de6550c1d00e90ea",
+    "29fabcfaab95607c",
+    "713ae8913f0af18f",
+    "852174729551523b",
+    "7c1d461ab9fcce5b",
+    "348b2624d4317670"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f0c2e92e0ff9ed2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/114/CE do Conselho, de 20 de Dezembro de 2001, relativa a determinados leites conservados parcial ou totalmente desidratados, destinados à alimentação humana** *Jornal Oficial nº L 015 de 17/01/2002 p. 0019 - 0023*\n\nDirectiva 2001/114/CE do Conselho\n\nde 20 de Dezembro de 2001\n\nrelativa a determinados leites conservados parcial ou totalmente desidratados, destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o Parecer do Parlamento Europeu(2),\n\nTendo em conta o Parecer do Comité Económico e Social(3),\n\nConsiderando o seguinte:\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 76/118/CEE do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados-Membros respeitantes a certos leites conservados parcial ou totalmente desidratados destinados à alimentação humana(4), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita aos leites conservados poderem criar condições de concorrência desleal, susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a Directiva 76/118/CEE teve por objectivo estabelecer definições e fixar regras comuns no que respeita à composição, às características de fabrico e à rotulagem de determinados leites conservados, por forma a garantir a livre circulação dos produtos em questão na Comunidade.\n\n(4) A Directiva 76/118/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos aditivos autorizados, à higiene e às normas sanitárias estabelecidas na Directiva 92/46/CEE(5).\n\n(5) Por motivos de clareza, é necessário proceder à reformulação da Directiva 76/118/CEE, por forma a tornar mais acessíveis as regras relativas às condições de produção e comercialização de determinados leites conservados parcial ou totalmente desidratados destinados à alimentação humana.\n\n(6) São aplicáveis as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 2000/13/CE do Parlamento Europeu e do Conselho(6), sob reserva de determinadas condições.\n\n(7) Sem prejuízo do disposto na Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios(7), nalguns Estados-Membros, é autorizada a adição de vitaminas aos produtos definidos na presente directiva. Não obstante, não é julgado conveniente alargar essa possibilidade ao conjunto da Comunidade. Nestas circunstâncias, os Estados-Membros são livres de autorizar ou proibir a adição de vitaminas no que respeita aos seus produtos nacionais, desde que seja salvaguardado o princípio da livre circulação de mercadorias na Comunidade, de acordo com as regras e princípios consagrados no Tratado.\n\n(8) No que diz respeito aos produtos destinados a lactentes, é aplicável a Directiva 91/321/CEE da Comissão, de 14 de Maio de 1991, relativa às fórmulas para lactentes e fórmulas de transição(8).\n\n(9) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.o do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(10) As medidas necessárias à execução da presente directiva serão aprovados nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(9).\n\n(11) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7bebfed10df37755": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos leites conservados parcial ou totalmente desidratados definidos no anexo I."
+  },
+  "71dc64b70d31a0f9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros podem autorizar, sem prejuízo do disposto na Directiva 90/496/CEE, a adição de vitaminas aos produtos definidos no anexo I."
+  },
+  "2007faf77849fe9a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I da presente directiva, nas condições seguintes:\n\n1. a) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidos na alínea a), o anexo III contém uma lista de denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. A percentagem de matéria gorda láctea, expressa em massa relativamente ao produto acabado, salvo no caso dos produtos definidos no ponto 1, alíneas d) e g), e no ponto 2, alínea d), do anexo I, e a percentagem de resíduo seco isento de matéria gorda proveniente do leite, no caso dos produtos definidos no ponto 1 do anexo I, devem figurar na rotulagem na proximidade da denominação de venda.\n\n3. No caso dos produtos definidos no ponto 2 do anexo I, deve figurar na rotulagem o modo de diluição ou de reconstituição, incluindo a indicação do teor de matéria gorda do produto uma vez diluído ou reconstituído.\n\n4. Quando forem acondicionados numa embalagem exterior produtos com menos de 20 g por unidade, as indicações previstas no presente artigo, com excepção da denominação referida no alínea a) do n.o 1, poderão figurar apenas na embalagem exterior.\n\n5. A rotulagem dos produtos definidos no ponto 2 do anexo I deverá indicar que o produto \"não se destina à alimentação de crianças com menos de 12 meses\"."
+  },
+  "736fc85b779409d0": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros não adoptarão, para os produtos definidos nos anexos I e II, disposições nacionais não previstas na presente directiva."
+  },
+  "d47b63bbb9699636": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs medidas necessárias à execução da presente directiva relativas às matérias adiante indicadas serão aprovadas pelo procedimento de regulamentação a que se refere o n.o 2 do artigo 6.o:\n\n- harmonização da presente directiva com as disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios,\n\n- adaptações ao progresso técnico."
+  },
+  "1582cebc7b0e1ac9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios (a seguir designado por \"Comité\") instituído pelo artigo 1.o da Decisão 69/414/CEE(10).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "b8831df8e845aaee": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Directiva 76/118/CEE é revogada, com efeitos a partir de 17 de Julho de 2003.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva."
+  },
+  "9043e8a0fa8932b2": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 17 de Julho de 2003 e informarão imediatamente a Comissão desse facto.\n\nEstas medidas serão aplicadas de modo a:\n\n- autorizar, com efeitos a partir de 17 de Julho de 2003, a comercialização dos produtos definidos no anexo I que obedeçam às definições e regras previstas na presente directiva,\n\n- proibir, com efeitos a partir de 17 de Julho de 2004, a comercialização dos produtos não conformes com a presente directiva.\n\nContudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 76/118/CEE antes de 17 de Julho de 2004.\n\nQuando os Estados-Membros adoptarem essas medidas, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "3d495c91ec062d75": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "7cf4000c8c436e79": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Dezembro de 2001.\n\nPelo Conselho\n\nO Presidente\n\nC. Picqué\n\n(1) JO C 231 de 9.8.1996, p. 20.\n\n(2) JO C 279 de 1.10.1999, p. 95.\n\n(3) JO C 56 de 24.2.1997, p. 20.\n\n(4) JO L 24 de 30.1.1976, p. 49. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1944.\n\n(5) JO L 268 de 14.9.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 94/71/CE. (JO L 368 de 31.12.1994, p. 33).\n\n(6) JO L 109 de 6.5.2000, p. 29.\n\n(7) JO L 276 de 6.10.1990, p. 40.\n\n(8) JO L 175 de 4.7.1991, p. 35. Directiva com a última redacção que lhe foi dada pela Directiva 1999/50/CE (JO L 139 de 2.6.1999, p. 29).\n\n(9) JO L 184 de 17.7.1999, p. 23.\n\n(10) JO L 291 de 19.11.1969, p. 9."
+  },
+  "e880d6e60381fc35": {
+   "fragment_id": "ANEXO I — DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "ANEXO I — DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS\n\n1. Leite parcialmente desidratado\n\nDesigna o produto líquido, açucarado ou não, obtido directamente por eliminação parcial da água do leite, do leite total ou parcialmente desnatado ou de uma mistura destes produtos, eventualmente adicionado de nata, de leite totalmente desidratado ou destes dois produtos; a quantidade de leite totalmente desidratado adicionada não poderá representar, no produto acabado, mais de 25 % do resíduo seco total proveniente do leite.\n\n- Leites concentrados não açucarados\n\na) Leite evaporado rico em matéria gorda\n\nLeite parcialmente desidratado que contém, em massa, pelo menos 15 % de matéria gorda e pelo menos 26,5 % de resíduo seco total proveniente do leite.\n\nb) Leite evaporado\n\nLeite parcialmente desidratado que contém, em massa, pelo menos 7,5 % de matéria gorda e pelo menos 25 % de resíduo seco total proveniente do leite.\n\nc) Leite evaporado parcialmente desnatado\n\nLeite parcialmente desidratado que contém, em massa, pelo menos 1 % e menos de 7,5 % de matéria gorda, e pelo menos 20 % de resíduo seco total proveniente do leite.\n\nd) Leite evaporado desnatado ou leite evaporado magro\n\nLeite parcialmente desidratado que contém, em massa, um máximo de 1 % de matéria gorda e pelo menos 20 % de resíduo seco total proveniente do leite.\n\n- Leites concentrados açucarados\n\ne) Leite condensado ou leite condensado inteiro\n\nLeite parcialmente desidratado a que foi adicionada sacarose (açúcar semibranco, açúcar branco ou açúcar branco extra) e que contém, em massa, pelo menos 8 % de matéria gorda e pelo menos 28 % de resíduo seco total proveniente do leite.\n\nf) Leite condensado parcialmente desnatado ou leite condensado meio-gordo\n\nLeite parcialmente desidratado a que foi adicionada sacarose (açúcar semibranco, açúcar branco ou açúcar branco extra) e que contém, em massa, pelo menos 1 % e menos de 8 % de matéria gorda, e pelo menos 24 % de resíduo seco total proveniente do leite.\n\ng) Leite condensado desnatado ou leite condensado magro\n\nLeite parcialmente desidratado a que foi adicionada sacarose (açúcar semibranco, açúcar branco ou açúcar branco extra) e que contém, em massa, um máximo de 1 % de matéria gorda e pelo menos 24 % de resíduo seco total proveniente do leite.\n\n2. Leite totalmente desidratado\n\nDesigna o produto pulverulento obtido directamente por eliminação da água do leite, do leite total ou parcialmente desnatado, da nata ou de uma mistura destes produtos e caracterizado por um teor de humidade igual ou inferior a 5 %, em massa, do produto acabado.\n\na) Leite em pó rico em matéria gorda\n\nLeite desidratado que contém, em massa, pelo menos 42 % de matéria gorda.\n\nb) Leite em pó ou leite em pó gordo\n\nLeite desidratado que contém, em massa, pelo menos 26 % e menos de 42 % de matéria gorda.\n\nc) Leite em pó parcialmente desnatado\n\nLeite desidratado que contém, em massa, mais de 1,5 % e menos de 26 % de matéria gorda.\n\nd) Leite em pó magro\n\nLeite desidratado que contém, em massa, um máximo de 1,5 % de matéria gorda.\n\n3. Tratamentos\n\na) No fabrico dos produtos definidos no ponto 1, alíneas e) a g), é autorizada uma quantidade adicional de lactose não superior a 0,03 %, em massa, do produto acabado.\n\nb) Sem prejuízo do disposto na Directiva 92/46/CEE do Conselho, de 16 de Junho de 1992, que adopta as normas sanitárias relativas à produção de leite cru, de leite tratado termicamente e de produtos à base de leite e à sua colocação no mercado, a conservação dos produtos referidos nos pontos 1 e 2 será obtida:\n\n- no tocante aos produtos referidos no ponto 1, alíneas a) a d), por tratamento térmico (esterilização, UHT, etc.),\n\n- no tocante aos produtos referidos no ponto 1, alíneas e) a g), por adição de sacarose,\n\n- no tocante aos produtos referidos no ponto 2, por desidratação.\n\n4. Adições autorizadas\n\nNos termos do artigo 2.o, é autorizada a adição de vitaminas aos produtos definidos no presente anexo, sem prejuízo do disposto na Directiva 90/496/CEE."
+  },
+  "3a214d1a6b1606fc": {
+   "fragment_id": "ANEXO II — DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO II — DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I\n\na) A expressão \"evaporated milk\", em inglês, designa o produto definido no ponto 1, alínea b), do anexo I que contém, em massa, um mínimo de 9 % de matéria gorda e pelo menos 31 % de resíduo seco total proveniente do leite.\n\nb) As expressões \"lait demi-écrémé concentré\" e \"lait demi-écrémé concentré non sucré\", em francês, \"leche evaporada semidesnatada\", em espanhol, \"geëvaporeerde halfvolle melk\" e \"halfvolle koffiemelk\", em neerlandês, e \"evaporated semi-skimmed milk\", em inglês, designam o produto definido no ponto 1, alínea c), do anexo I que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 24 % de resíduo seco total.\n\nc) As expressões \"kondenseret kaffefløde\", em dinamarquês, e \"kondensierte kaffeesahne\", em alemão, designam o produto definido no ponto 1, alínea a), do anexo I.\n\nd) As expressões \"flødepulver\", em dinamarquês, \"Rahmpulver\" e \"Sahnepulver\", em alemão, \"crème en poudre\", em francês, \"roompoeder\", em neerlandês, \"gräddpulver\", em sueco, e \"kermajauhe\", em finlandês, designam o produto definido no ponto 2, alínea a), do anexo I.\n\ne) As expressões \"lait demi-écrémé concentré sucré\", em francês, \"leche condensada semidesnatada\", em espanhol, e \"gecondenseerde halfvolle melk met suiker\", em neerlandês, designam o produto definido no ponto 1, alínea f), do anexo I que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 28 % de resíduo seco total proveniente do leite.\n\nf) As expressões \"lait demi-écrémé en poudre\", em francês, \"semi-skimmed milk powder\" ou \"dried semi-skimmed milk\", em inglês, e \"halfvolle melkpoeder\", em neerlandês, designam o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 14 % e 16 %.\n\ng) A expressão \"leite em pó meio gordo\", em português, designa o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 13 % e 26 %.\n\nh) A expressão \"koffiemelk\", em neerlandês, designa o produto definido no ponto 1, alínea b), do anexo I.\n\ni) A expressão \"rasvaton maitojauhe\", em finlandês, designa o produto definido no ponto 2, alínea d), do anexo I.\n\nj) A expressão \"leche en polvo semidesnatada\", em espanhol, designa o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 10 % e 16 %."
+  },
+  "179fcf5319a611b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa a determinados leites conservados parcial ou totalmente desidratados, destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0001)),\n\nTendo em conta o Parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0002)),\n\nTendo em conta o Parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 76/118/CEE do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados-Membros respeitantes a certos leites conservados parcial ou totalmente desidratados destinados à alimentação humana ([^4^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0004)), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita aos leites conservados poderem criar condições de concorrência desleal, susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a Directiva 76/118/CEE teve por objectivo estabelecer definições e fixar regras comuns no que respeita à composição, às características de fabrico e à rotulagem de determinados leites conservados, por forma a garantir a livre circulação dos produtos em questão na Comunidade.\n\n(4) A Directiva 76/118/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos aditivos autorizados, à higiene e às normas sanitárias estabelecidas na Directiva 92/46/CEE ([^5^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0005)).\n\n(5) Por motivos de clareza, é necessário proceder à reformulação da Directiva 76/118/CEE, por forma a tornar mais acessíveis as regras relativas às condições de produção e comercialização de determinados leites conservados parcial ou totalmente desidratados destinados à alimentação humana.\n\n(6) São aplicáveis as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 2000/13/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0006)), sob reserva de determinadas condições.\n\n(7) Sem prejuízo do disposto na Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0007)), nalguns Estados-Membros, é autorizada a adição de vitaminas aos produtos definidos na presente directiva. Não obstante, não é julgado conveniente alargar essa possibilidade ao conjunto da Comunidade. Nestas circunstâncias, os Estados-Membros são livres de autorizar ou proibir a adição de vitaminas no que respeita aos seus produtos nacionais, desde que seja salvaguardado o princípio da livre circulação de mercadorias na Comunidade, de acordo com as regras e princípios consagrados no Tratado.\n\n(8) No que diz respeito aos produtos destinados a lactentes, é aplicável a Directiva 91/321/CEE da Comissão, de 14 de Maio de 1991, relativa às fórmulas para lactentes e fórmulas de transição ([^8^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0008)).\n\n(9) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(10) As medidas necessárias à execução da presente directiva serão aprovados nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^9^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0009)).\n\n(11) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d28b1d27c8bddb7c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I da presente directiva, nas condições seguintes:\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidos na alínea a), o anexo III contém uma lista de denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. A percentagem de matéria gorda láctea, expressa em massa relativamente ao produto acabado, salvo no caso dos produtos definidos no ponto 1, alíneas d) e g), e no ponto 2, alínea d), do anexo I, e a percentagem de resíduo seco isento de matéria gorda proveniente do leite, no caso dos produtos definidos no ponto 1 do anexo I, devem figurar na rotulagem na proximidade da denominação de venda.\n\n3. No caso dos produtos definidos no ponto 2 do anexo I, deve figurar na rotulagem o modo de diluição ou de reconstituição, incluindo a indicação do teor de matéria gorda do produto uma vez diluído ou reconstituído.\n\n4. Quando forem acondicionados numa embalagem exterior produtos com menos de 20 g por unidade, as indicações previstas no presente artigo, com excepção da denominação referida no alínea a) do n.º 1, poderão figurar apenas na embalagem exterior.\n\n5. A rotulagem dos produtos definidos no ponto 2 do anexo I deverá indicar que o produto «não se destina à alimentação de crianças com menos de 12 meses»."
+  },
+  "6e0a284d18863b4b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs medidas necessárias à execução da presente directiva relativas às matérias adiante indicadas serão aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 6.º:\n\n— harmonização da presente directiva com as disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios,\n\n— adaptações ao progresso técnico."
+  },
+  "40de8ab1e57dfcc6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios (a seguir designado por «Comité») instituído pelo artigo 1.º da Decisão 69/414/CEE ([^10^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0010)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "579872a69fb5a3e9": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 17 de Julho de 2003 e informarão imediatamente a Comissão desse facto.\n\nEstas medidas serão aplicadas de modo a:\n\n— autorizar, com efeitos a partir de 17 de Julho de 2003, a comercialização dos produtos definidos no anexo I que obedeçam às definições e regras previstas na presente directiva,\n\n— proibir, com efeitos a partir de 17 de Julho de 2004, a comercialização dos produtos não conformes com a presente directiva.\n\nContudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 76/118/CEE antes de 17 de Julho de 2004.\n\nQuando os Estados-Membros adoptarem essas medidas, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "8c67fb4ef0b03ec9": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "d0e0dc3a997caa2a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "9e62d0dc3bfb6030": {
+   "fragment_id": "DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS"
+  },
+  "de4a72e09d0ff538": {
+   "fragment_id": "1. Leite parcialmente desidratado",
+   "type": "divisao",
+   "heading": "1. Leite parcialmente desidratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Leite parcialmente desidratado\n\nDesigna o produto líquido, açucarado ou não, obtido por eliminação parcial da água do leite, do leite total ou parcialmente desnatado ou de uma mistura destes produtos, eventualmente adicionado de nata, de leite totalmente desidratado ou destes dois produtos; a quantidade de leite totalmente desidratado adicionada não poderá representar, no produto acabado, mais de 25 % do resíduo seco total proveniente do leite.\n\n— Leites concentrados não açucarados\n\na) Leite evaporado rico em matéria gorda\n\nb) Leite evaporado\n\nc) Leite evaporado parcialmente desnatado\n\nd) Leite evaporado desnatado ou leite evaporado magro\n\n— Leites concentrados açucarados\n\ne) Leite condensado ou leite condensado inteiro\n\nf) Leite condensado parcialmente desnatado ou leite condensado meio-gordo\n\ng) Leite condensado desnatado ou leite condensado magro"
+  },
+  "de6550c1d00e90ea": {
+   "fragment_id": "2. Leite totalmente desidratado",
+   "type": "divisao",
+   "heading": "2. Leite totalmente desidratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Leite totalmente desidratado\n\nDesigna o produto pulverulento obtido por eliminação da água do leite, do leite total ou parcialmente desnatado, da nata ou de uma mistura destes produtos e caracterizado por um teor de humidade igual ou inferior a 5 %, em massa, do produto acabado.\n\na) Leite em pó rico em matéria gorda\n\nb) Leite em pó ou leite em pó gordo\n\nc) Leite em pó parcialmente desnatado\n\nd) Leite em pó magro"
+  },
+  "3e3f4658c1416d69": {
+   "fragment_id": "3. Tratamentos",
+   "type": "divisao",
+   "heading": "3. Tratamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Tratamentos\n\na) No fabrico dos produtos definidos no ponto 1, alíneas e) a g), é autorizada uma quantidade adicional de lactose não superior a 0,03 %, em massa, do produto acabado.\n\nb) [**►M1**](http://publications.europa.eu/resource/celex/32007L0061) Sem prejuízo do disposto no Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^11^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0011)), a conservação dos produtos referidos nos pontos 1 e 2 será obtida:**◄**\n\n— no tocante aos produtos referidos no ponto 1, alíneas a) a d), por tratamento térmico (esterilização, UHT, etc.),\n\n— no tocante aos produtos referidos no ponto 1, alíneas e) a g), por adição de sacarose,\n\n— no tocante aos produtos referidos no ponto 2, por desidratação.\n\nc) Sem prejuízo dos requisitos relativos à composição constantes dos pontos 1 e 2 do presente anexo, o teor de proteínas do leite pode ser ajustado a um valor mínimo de 34 % em massa (em relação ao resíduo seco isento de matéria gorda), por adição e/ou eliminação de constituintes do leite sem alterar, no leite ajustado, a proporção entre proteínas do soro e caseína."
+  },
+  "29f4c8f6e76f073e": {
+   "fragment_id": "4. Adições e matérias-primas autorizadas",
+   "type": "divisao",
+   "heading": "4. Adições e matérias-primas autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Adições e matérias-primas autorizadas\n\na) Vitaminas e minerais em conformidade com o Regulamento (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006, relativo à adição de vitaminas, minerais e determinadas outras substâncias aos alimentos ([^12^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#E0012)).\n\nb) Para o ajustamento do teor de proteínas referido na alínea c) do ponto 3, são autorizadas as seguintes matérias-primas:\n\ni) concentrado lácteo\n\nii) permeato lácteo\n\niii) lactose"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "7a138abf6332b2cd": {
+   "fragment_id": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I\n\na) A expressão «evaporated milk», em inglês, designa o produto definido no ponto 1, alínea b), do anexo I que contém, em massa, um mínimo de 9 % de matéria gorda e pelo menos 31 % de resíduo seco total proveniente do leite.\n\nb) As expressões «lait demi-écrémé concentré» e «lait demi-écrémé concentré non sucré», em francês, «leche evaporada semidesnatada», em espanhol, «geëvaporeerde halfvolle melk» e «halfvolle koffiemelk», em neerlandês, e «evaporated semi-skimmed milk», em inglês, designam o produto definido no ponto 1, alínea c), do anexo I que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 24 % de resíduo seco total.\n\nc) As expressões «kondenseret kaffefløde», em dinamarquês, e «kondensierte kaffeesahne», em alemão, designam o produto definido no ponto 1, alínea a), do anexo I.\n\nd) As expressões «flødepulver», em dinamarquês, «Rahmpulver» e «Sahnepulver», em alemão, «crème en poudre», em francês, «roompoeder», em neerlandês, «gräddpulver», em sueco, e «kermajauhe», em finlandês, designam o produto definido no ponto 2, alínea a), do anexo I.\n\ne) As expressões «lait demi-écrémé concentré sucré», em francês, «leche condensada semidesnatada», em espanhol, e «gecondenseerde halfvolle melk met suiker», em neerlandês, designam o produto definido no ponto 1, alínea f), do anexo I que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 28 % de resíduo seco total proveniente do leite.\n\nf) As expressões «lait demi-écrémé en poudre», em francês, «semi-skimmed milk powder» ou «dried semi-skimmed milk», em inglês, e «halfvolle melkpoeder», em neerlandês, designam o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 14 % e 16 %.\n\ng) A expressão «leite em pó meio gordo», em português, designa o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 13 % e 26 %.\n\nh) A expressão «koffiemelk», em neerlandês, designa o produto definido no ponto 1, alínea b), do anexo I.\n\ni) A expressão «rasvaton maitojauhe», em finlandês, designa o produto definido no ponto 2, alínea d), do anexo I.\n\nj) A expressão «leche en polvo semidesnatada», em espanhol, designa o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 10 % e 16 %.\n\nk) A expressão maltesa «*Ħalib evaporat*» designa o produto definido na alínea b) do ponto 1 do Anexo I.\n\nl) A expressão maltesa «*Ħalib evaporat b'kontenut baxx ta' xaħam*» designa o produto definido na alínea c) do ponto 1 do Anexo I.\n\nm) A expressão estónia «*koorepulber*» designa o produto definido na alínea a) do ponto 2 do Anexo I.\n\nn) A expressão estónia «*piimapulber*» designa o produto definido na alínea b) do ponto 2 do Anexo I.\n\no) A expressão estónia «*väherasvane kondenspiim*» designa o produto definido na alínea c) do ponto 1 do Anexo I.\n\np) A expressão estónia «*magustatud väherasvane kondenspiim*» designa o produto definido na alínea f) do ponto 1 do Anexo I.\n\nq) A expressão estónia «*väherasvane piimapulber*» na alínea c) do ponto 2 do Anexo I.\n\nr) A expressão checa «*zahuštěná neslazená smetana*» designa o produto definido na alínea a) do ponto 1 do Anexo I.\n\ns) A expressão checa «*zahuštěné neslazené plnotučné mléko*» designa o produto definido na alínea b) do ponto 1 do Anexo I.\n\nt) A expressão checa «*zahuštěné neslazené polotučné mléko*» designa o produto definido na alínea c) do ponto 1 do Anexo I, que contém, em massa, entre 4 % e 4,5 % de matéria gorda.\n\nu) A expressão checa «*zahuštěné slazené plnotučné mléko*» designa o produto definido na alínea e) do ponto 1 do Anexo I.\n\nv) A expressão checa «*zahuštěné slazené polotučné mléko*» designa o produto definido na alínea f) do ponto 1 do Anexo I, que contém, em massa, entre 4 % e 4,5 % de matéria gorda.\n\nw) A expressão checa «*sušená smetana*» designa o produto definido na alínea a) do ponto 2 do Anexo I.\n\nx) A expressão checa «*sušené polotučné mléko*» designa o produto definido na alínea c) do ponto 2 do Anexo I que contém, em massa, entre 14 % e 16 % de matéria gorda.\n\n---"
+  },
+  "f3507df7cf3d5abc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 95.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0004)) JO L 24 de 30.1.1976, p. 49. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1944.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0005)) JO L 268 de 14.9.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 94/71/CE. (JO L 368 de 31.12.1994, p. 33).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0007)) JO L 276 de 6.10.1990, p. 40.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0008)) JO L 175 de 4.7.1991, p. 35. Directiva com a última redacção que lhe foi dada pela Directiva 1999/50/CE (JO L 139 de 2.6.1999, p. 29).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0010)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0011)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/ba276a5b-7fb9-4908-b7cf-d5621bdf4459.0018.03/DOC_1#src.E0012)) JO L 404 de 30.12.2006, p. 26."
+  },
+  "49c6ad10d494adb8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa a determinados leites conservados parcial ou totalmente desidratados, destinados à alimentação humana"
+  },
+  "29d1ca7c4516b197": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0001)) é aplicável aos produtos definidos no anexo I da presente diretiva, sob as seguintes condições:\n\n1.\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidos na alínea a), o anexo III contém uma lista de denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. A percentagem de matéria gorda láctea, expressa em massa relativamente ao produto acabado, salvo no caso dos produtos definidos no ponto 1, alíneas d) e g), e no ponto 2, alínea d), do anexo I, e a percentagem de resíduo seco isento de matéria gorda proveniente do leite, no caso dos produtos definidos no ponto 1 do anexo I, devem figurar na rotulagem na proximidade da denominação de venda.\n\n3. No caso dos produtos definidos no ponto 2 do anexo I, deve figurar na rotulagem o modo de diluição ou de reconstituição, incluindo a indicação do teor de matéria gorda do produto uma vez diluído ou reconstituído.\n\n4. Quando forem acondicionados numa embalagem exterior produtos com menos de 20 g por unidade, as indicações previstas no presente artigo, com excepção da denominação referida no alínea a) do n.º 1, poderão figurar apenas na embalagem exterior.\n\n5. A rotulagem dos produtos definidos no ponto 2 do anexo I deverá indicar que o produto «não se destina à alimentação de crianças com menos de 12 meses»."
+  },
+  "29fabcfaab95607c": {
+   "fragment_id": "3. Tratamentos",
+   "type": "divisao",
+   "heading": "3. Tratamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Tratamentos\n\na) No fabrico dos produtos definidos no ponto 1, alíneas e) a g), é autorizada uma quantidade adicional de lactose não superior a 0,03 %, em massa, do produto acabado.\n\nb) [**►M1**](http://publications.europa.eu/resource/celex/32007L0061) Sem prejuízo do disposto no Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^2^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0003)), a conservação dos produtos referidos nos pontos 1 e 2 será obtida:**◄**\n\n— no tocante aos produtos referidos no ponto 1, alíneas a) a d), por tratamento térmico (esterilização, UHT, etc.),\n\n— no tocante aos produtos referidos no ponto 1, alíneas e) a g), por adição de sacarose,\n\n— no tocante aos produtos referidos no ponto 2, por desidratação.\n\nc) Sem prejuízo dos requisitos relativos à composição constantes dos pontos 1 e 2 do presente anexo, o teor de proteínas do leite pode ser ajustado a um valor mínimo de 34 % em massa (em relação ao resíduo seco isento de matéria gorda), por adição e/ou eliminação de constituintes do leite sem alterar, no leite ajustado, a proporção entre proteínas do soro e caseína.\n\nd) Redução do teor de lactose por conversão desta em glicose e galactose. As modificações da composição do leite em resultado deste tratamento só são admitidas se forem indicadas na embalagem do produto de modo claramente visível e legível e de maneira indelével. Essa indicação não prejudica a obrigatoriedade da rotulagem nutricional prevista pelo Regulamento (UE) n.º 1169/2011. Os Estados-Membros podem limitar ou proibir as modificações da composição do leite previstas na presente alínea."
+  },
+  "713ae8913f0af18f": {
+   "fragment_id": "4. Adições e matérias-primas autorizadas",
+   "type": "divisao",
+   "heading": "4. Adições e matérias-primas autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Adições e matérias-primas autorizadas\n\na) Vitaminas e minerais em conformidade com o Regulamento (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006, relativo à adição de vitaminas, minerais e determinadas outras substâncias aos alimentos ([^3^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0004)).\n\nb) Para o ajustamento do teor de proteínas referido na alínea c) do ponto 3, são autorizadas as seguintes matérias-primas:\n\ni) concentrado lácteo\n\nii) permeato lácteo\n\niii) lactose\n\nc) Enzimas alimentares autorizadas em conformidade com o Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0005)).\n\nd) Aditivos alimentares autorizados em conformidade com o Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#E0006))."
+  },
+  "7c1d461ab9fcce5b": {
+   "fragment_id": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I\n\na) A expressão «evaporated milk», em inglês, designa o produto definido no ponto 1, alínea b), do anexo I.\n\nb) As expressões «lait demi-écrémé concentré» e «lait demi-écrémé concentré non sucré», em francês, «leche evaporada semidesnatada», em espanhol, «geëvaporeerde halfvolle melk» e «halfvolle koffiemelk», em neerlandês, e «evaporated semi-skimmed milk», em inglês, designam o produto definido no ponto 1, alínea c), do anexo I que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 24 % de resíduo seco total.\n\nc) As expressões «kondenseret kaffefløde», em dinamarquês, e «kondensierte kaffeesahne», em alemão, designam o produto definido no ponto 1, alínea a), do anexo I.\n\nd) As expressões «flødepulver», em dinamarquês, «Rahmpulver» e «Sahnepulver», em alemão, «crème en poudre», em francês, «roompoeder», em neerlandês, «gräddpulver», em sueco, e «kermajauhe», em finlandês, designam o produto definido no ponto 2, alínea a), do anexo I.\n\ne) As expressões «lait demi-écrémé concentré sucré», em francês, «leche condensada semidesnatada», em espanhol, e «gecondenseerde halfvolle melk met suiker», em neerlandês, designam o produto definido no ponto 1, alínea f), do anexo I que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 28 % de resíduo seco total proveniente do leite.\n\nf) As expressões «lait demi-écrémé en poudre», em francês, «semi-skimmed milk powder» ou «dried semi-skimmed milk», em inglês, e «halfvolle melkpoeder», em neerlandês, designam o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 14 % e 16 %.\n\ng) A expressão «leite em pó meio gordo», em português, designa o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 13 % e 26 %.\n\nh) A expressão «koffiemelk», em neerlandês, designa o produto definido no ponto 1, alínea b), do anexo I.\n\ni) A expressão «rasvaton maitojauhe», em finlandês, designa o produto definido no ponto 2, alínea d), do anexo I.\n\nj) A expressão «leche en polvo semidesnatada», em espanhol, designa o produto definido no ponto 2, alínea c), do anexo I com um teor de matéria gorda compreendido entre 10 % e 16 %.\n\nk) A expressão maltesa «Ħalib evaporat» designa o produto definido na alínea b) do ponto 1 do Anexo I.\n\nl) A expressão maltesa «Ħalib evaporat b'kontenut baxx ta' xaħam» designa o produto definido na alínea c) do ponto 1 do Anexo I.\n\nm) A expressão estónia «koorepulber» designa o produto definido na alínea a) do ponto 2 do Anexo I.\n\nn) A expressão estónia «piimapulber» designa o produto definido na alínea b) do ponto 2 do Anexo I.\n\no) A expressão estónia «väherasvane kondenspiim» designa o produto definido na alínea c) do ponto 1 do Anexo I.\n\np) A expressão estónia «magustatud väherasvane kondenspiim» designa o produto definido na alínea f) do ponto 1 do Anexo I.\n\nq) A expressão estónia «väherasvane piimapulber» na alínea c) do ponto 2 do Anexo I.\n\nr) A expressão checa «zahuštěná neslazená smetana» designa o produto definido na alínea a) do ponto 1 do Anexo I.\n\ns) A expressão checa «zahuštěné neslazené plnotučné mléko» designa o produto definido na alínea b) do ponto 1 do Anexo I.\n\nt) A expressão checa «zahuštěné neslazené polotučné mléko» designa o produto definido na alínea c) do ponto 1 do Anexo I, que contém, em massa, entre 4 % e 4,5 % de matéria gorda.\n\nu) A expressão checa «zahuštěné slazené plnotučné mléko» designa o produto definido na alínea e) do ponto 1 do Anexo I.\n\nv) A expressão checa «zahuštěné slazené polotučné mléko» designa o produto definido na alínea f) do ponto 1 do Anexo I, que contém, em massa, entre 4 % e 4,5 % de matéria gorda.\n\nw) A expressão checa «sušená smetana» designa o produto definido na alínea a) do ponto 2 do Anexo I.\n\nx) A expressão checa «sušené polotučné mléko» designa o produto definido na alínea c) do ponto 2 do Anexo I que contém, em massa, entre 14 % e 16 % de matéria gorda.\n\n---"
+  },
+  "348b2624d4317670": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, que altera os Regulamentos (CE) n.º 1924/2006 e (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho e revoga as Diretivas 87/250/CEE da Comissão, 90/496/CEE do Conselho, 1999/10/CE da Comissão, 2000/13/CE do Parlamento Europeu e do Conselho, 2002/67/CE e 2008/5/CE da Comissão e o Regulamento (CE) n.º 608/2004 da Comissão (JO L 304 de 22.11.2011, p. 18).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0003)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22.**◄**\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0004)) JO L 404 de 30.12.2006, p. 26.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo às enzimas alimentares e que altera a Diretiva 83/417/CEE do Conselho, o Regulamento (CE) n.º 1493/1999 do Conselho, a Diretiva 2000/13/CE, a Diretiva 2001/112/CE do Conselho e o Regulamento (CE) n.º 258/97 (JO L 354 de 31.12.2008, p. 7).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1#src.E0006)) Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aditivos alimentares (JO L 354 de 31.12.2008, p. 16)."
+  }
+ }
+}

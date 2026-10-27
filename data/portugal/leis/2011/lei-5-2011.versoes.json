@@ -1,0 +1,1125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:278888:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-165950868",
+ "dre_path": "/dr/detalhe/lei/5-2011-278888",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165781046",
+    "165781047",
+    "165781048",
+    "165781049",
+    "165781050",
+    "165781051",
+    "165781052",
+    "165781053",
+    "165781054",
+    "165781055",
+    "165781056",
+    "165781057",
+    "165781058",
+    "165781059",
+    "165781060",
+    "165781061",
+    "165781062",
+    "165781063",
+    "165781064",
+    "165781065",
+    "165781066",
+    "165781067",
+    "165781068",
+    "165781069",
+    "165781070",
+    "165781071",
+    "165781072",
+    "165781073",
+    "165781074",
+    "166078975",
+    "166078976",
+    "166078977",
+    "166078978",
+    "166078979",
+    "166078980",
+    "166078981",
+    "166078982",
+    "166078983",
+    "166078984",
+    "166078985",
+    "166078986",
+    "166078987",
+    "166078988",
+    "166078989",
+    "166078990",
+    "166078991",
+    "166078992",
+    "166078993",
+    "166078994",
+    "166078995",
+    "166078996",
+    "166078997",
+    "166078998",
+    "166078999",
+    "166079000",
+    "166079001",
+    "166079002",
+    "166079003",
+    "166079004",
+    "166079005",
+    "166079006",
+    "166079007",
+    "166079008",
+    "166079009",
+    "166079010",
+    "166079011",
+    "166079012",
+    "166079013",
+    "166079014",
+    "166079015",
+    "166079016",
+    "166079017",
+    "166079018",
+    "166079019",
+    "166079020",
+    "166079021",
+    "166079022",
+    "166079023",
+    "166079024",
+    "166079025",
+    "166079026",
+    "166079027",
+    "166079028",
+    "166079029",
+    "166079030",
+    "166079031",
+    "166079032",
+    "166079033",
+    "166079034",
+    "166079035",
+    "166079036",
+    "166079037",
+    "166079038",
+    "166079040"
+   ]
+  },
+  {
+   "date": "2021-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165950845:por",
+     "title": "Decreto-Lei n.º 55/2021",
+     "published": "2021-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/55-2021-165950845"
+    }
+   ],
+   "changes": [
+    "Adita Secção III",
+    "Adita Artigo 30.º-A",
+    "Adita Artigo 30.º-B",
+    "Adita Artigo 30.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 59.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "165781046",
+    "165781047",
+    "165781048",
+    "166079042",
+    "165781050",
+    "165781051",
+    "165781052",
+    "165781053",
+    "165781054",
+    "165781055",
+    "165781056",
+    "165781057",
+    "165781058",
+    "165781059",
+    "165781060",
+    "165781061",
+    "165781062",
+    "165781063",
+    "166079043",
+    "166079044",
+    "165781066",
+    "165781067",
+    "166079045",
+    "166079046",
+    "165781070",
+    "165781071",
+    "165781072",
+    "165781073",
+    "165781074",
+    "166078975",
+    "166078976",
+    "166078977",
+    "166079050",
+    "166078979",
+    "166078980",
+    "166078981",
+    "166079051",
+    "166078983",
+    "166078984",
+    "166078985",
+    "166079049",
+    "166079053",
+    "166079054",
+    "166079055",
+    "166078986",
+    "166078987",
+    "166078988",
+    "166078989",
+    "166078990",
+    "166078991",
+    "166078992",
+    "166078993",
+    "166078994",
+    "166078995",
+    "166078996",
+    "166078997",
+    "166078998",
+    "166078999",
+    "166079000",
+    "166079001",
+    "166079002",
+    "166079003",
+    "166079004",
+    "166079005",
+    "166079006",
+    "166079007",
+    "166079008",
+    "166079009",
+    "166079010",
+    "166079011",
+    "166079012",
+    "166079013",
+    "166079014",
+    "166079015",
+    "166079016",
+    "166079017",
+    "166079018",
+    "166079019",
+    "166079020",
+    "166079021",
+    "166079047",
+    "166079023",
+    "166079024",
+    "166079025",
+    "166079026",
+    "166079027",
+    "166079028",
+    "166079029",
+    "166079030",
+    "166079031",
+    "166079032",
+    "166079033",
+    "166079034",
+    "166079035",
+    "166079036",
+    "166079037",
+    "166079038",
+    "166079039",
+    "166079048"
+   ]
+  }
+ ],
+ "fragments": {
+  "165781046": {
+   "fragment_id": "165950869",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 5/2011\n\nde 2 de Março\n\nLei das Ordens Honoríficas Portuguesas\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "165781047": {
+   "fragment_id": "165950870",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "165781048": {
+   "fragment_id": "165950871",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - A presente lei estabelece o elenco e os fins das Ordens Honoríficas Portuguesas, define a sua orgânica interna, o processo de concessão e investidura dos seus membros e respectivos direitos, deveres e disciplina.\n\n2 - A presente lei contém ainda a descrição das insígnias de cada uma das Ordens Honoríficas Portuguesas e as regras quanto ao uso das mesmas e para a aceitação de condecorações estrangeiras.\n\n3 - A presente lei prevalece sobre quaisquer normas gerais ou especiais relativas às Ordens Honoríficas Portuguesas não expressamente revogadas no artigo 70.º"
+  },
+  "165781049": {
+   "fragment_id": "165950872",
+   "type": 11,
+   "heading": "Artigo 2.º — Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ordens Honoríficas Portuguesas\n\nAs Ordens Honoríficas Portuguesas são as seguintes:\n\na) Antigas Ordens Militares:\n\nDa Torre e Espada, do Valor, Lealdade e Mérito;\n\nDe Cristo;\n\nDe Avis;\n\nDe Sant'Iago da Espada;\n\nb) Ordens Nacionais:\n\nDo Infante D. Henrique;\n\nDa Liberdade;\n\nc) Ordens de Mérito Civil:\n\nDo Mérito;\n\nDa Instrução Pública;\n\nDo Mérito Empresarial."
+  },
+  "165781050": {
+   "fragment_id": "165950873",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade geral das Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidade geral das Ordens Honoríficas Portuguesas\n\n1 - As Ordens Honoríficas Portuguesas destinam-se a galardoar ou a distinguir, em vida ou a título póstumo, os cidadãos nacionais que se notabilizem por méritos pessoais, por feitos militares ou cívicos, por actos excepcionais ou por serviços relevantes prestados ao País.\n\n2 - Quando a condecoração se destine a galardoar feitos heróicos em campanha é concedida com palma.\n\n3 - De harmonia com os usos internacionais, as Ordens Honoríficas Portuguesas podem ser atribuídas a cidadãos estrangeiros, como membros honorários de qualquer grau, não se lhes aplicando as condições da sua concessão a cidadãos nacionais.\n\n4 - Os corpos militarizados e as unidades ou estabelecimentos militares podem ser declarados membros honorários de qualquer das Ordens Honoríficas Portuguesas, sem indicação de grau.\n\n5 - As localidades, assim como colectividades e instituições que sejam pessoas colectivas de direito público ou de utilidade pública há, pelo menos, 25 anos podem também ser declaradas membros honorários de qualquer das Ordens Honoríficas Portuguesas, sem indicação de grau.\n\n6 - Em todos os casos previstos nos números anteriores, respeitam-se sempre as finalidades específicas de cada Ordem, conforme resultam da presente lei."
+  },
+  "165781051": {
+   "fragment_id": "165950874",
+   "type": 11,
+   "heading": "Artigo 4.º — Grão-Mestre das Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Grão-Mestre das Ordens Honoríficas Portuguesas\n\nO Presidente da República é o Grão-Mestre das Ordens Honoríficas Portuguesas."
+  },
+  "165781052": {
+   "fragment_id": "166078875",
+   "type": 11,
+   "heading": "Artigo 5.º — Banda das Três Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Banda das Três Ordens\n\n1 - A condecoração privativa do Presidente da República é a Banda das Três Ordens.\n\n2 - A Banda das Três Ordens reúne, numa só insígnia, as Grã-Cruzes das Antigas Ordens Militares de Cristo, de Avis e de Sant'Iago da Espada.\n\n3 - As insígnias da Banda das Três Ordens são assumidas pelo Presidente da República ao dar entrada no Palácio de Belém, depois da tomada de posse na Assembleia da República."
+  },
+  "165781053": {
+   "fragment_id": "166078876",
+   "type": 11,
+   "heading": "Artigo 6.º — Insígnias da Banda das Três Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Insígnias da Banda das Três Ordens\n\n1 - As insígnias da Banda das Três Ordens são constituídas por uma banda com as cores das Ordens de Cristo, Avis e Sant'Iago da Espada, respectivamente vermelho, verde e violeta, tendo pendente sobre o laço e encadeado por uma coroa de louros de esmalte verde perfilada e frutada de ouro, com 33 mm x 25 mm, um medalhão oval, com motivos decorativos de ouro, em recorte aberto e perfilado do mesmo metal, com 50 mm x 65 mm, com três ovais de esmalte branco, carregada cada uma do distintivo de uma das três Ordens e com uma bordadura de esmalte da respectiva cor da ordem, contida em filetes de ouro, ficando o de Cristo em chefe, o de Avis à dextra da ponta e o de Sant'Iago à sinistra da ponta, colocados os dois últimos, respectivamente, em banda e em barra; e uma placa dourada, em raios abrilhantados, de 85 mm de diâmetro, tendo ao centro e sobre uma superfície circular de esmalte azul, de 30 mm de diâmetro, lavrada com motivos decorativos de ouro, a ordenação atrás descrita para o medalhão envolvida por coroa circular de esmalte vermelho e bordadura lavrada e perfilada de ouro, donde partem raios prateados.\n\n2 - Quando o Presidente da República for oficial de qualquer ramo das Forças Armadas, usa normalmente com a farda apenas o distintivo da Banda das Três Ordens, colocado no lado esquerdo do peito, sempre que não ostente as respectivas insígnias.\n\n3 - Com traje civil que não seja de gala, o Presidente da República pode usar uma miniatura representativa das insígnias da Banda das Três Ordens, em forma de oval, com 15 mm x 18 mm, constituída por fita das cores da Banda, carregada dos respectivos distintivos.\n\n4 - Com traje civil, o Presidente da República pode ainda usar uma roseta de 12 mm de diâmetro, com as cores da Banda, filetada interiormente de ouro."
+  },
+  "165781054": {
+   "fragment_id": "166078877",
+   "type": 11,
+   "heading": "Artigo 7.º — Uso de insígnias pelo Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Uso de insígnias pelo Presidente da República\n\n1 - A Banda das Três Ordens deve ser usada sempre com a placa descrita no artigo anterior, que precede sobre as demais placas que o Presidente da República usar, com excepção do disposto no n.º 3.\n\n2 - O Presidente da República pode usar, com a Banda das Três Ordens, qualquer Grande-Colar das Ordens Honoríficas Portuguesas, sem a respectiva Banda do Grande-Colar, devendo nesse caso a placa do Grande-Colar ser colocada na segunda posição de precedência.\n\n3 - Por ocasião de um encontro diplomático, o Presidente da República pode usar o Grande-Colar ou Grã-Cruz de uma Ordem estrangeira, precedendo nesse caso a placa dessa Ordem sobre a placa da Banda das Três Ordens, que será colocada na segunda posição de precedência."
+  },
+  "165781055": {
+   "fragment_id": "166078878",
+   "type": 1,
+   "heading": "Capítulo II — Antigas Ordens Militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Antigas Ordens Militares"
+  },
+  "165781056": {
+   "fragment_id": "166078879",
+   "type": 8,
+   "heading": "Secção I — Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito"
+  },
+  "165781057": {
+   "fragment_id": "166078880",
+   "type": 11,
+   "heading": "Artigo 8.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Finalidade específica\n\nA Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito destina-se a galardoar:\n\na) Méritos excepcionalmente distintos no exercício das funções dos cargos supremos dos órgãos de soberania ou no comando de tropas em campanha;\n\nb) Feitos excepcionais de heroísmo militar ou cívico;\n\nc) Actos e ou serviços excepcionais de abnegação e sacrifício pela Pátria e pela Humanidade."
+  },
+  "165781058": {
+   "fragment_id": "166078881",
+   "type": 11,
+   "heading": "Artigo 9.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Graus\n\n1 - Os graus da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama.\n\n2 - Quem tiver exercido o cargo de Presidente da República é inscrito, no final do seu mandato e independentemente de acto de agraciamento, como Grande-Colar da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito, sendo-lhe entregues as respectivas insígnias."
+  },
+  "165781059": {
+   "fragment_id": "166078882",
+   "type": 11,
+   "heading": "Artigo 10.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito é uma estrela de cinco pontas de esmalte branco perfilada de ouro, assente sobre uma coroa de carvalho de esmalte verde perfilada e frutada de ouro, tendo entre as duas pontas superiores uma torre de ouro e iluminada de azul, sendo a estrela carregada, ao centro, de um círculo de ouro com uma espada de esmalte azul, posta em faixa sobre uma coroa de carvalho de esmalte verde e realçada de ouro, tudo envolvido por coroa circular de esmalte azul filetada de ouro, com a legenda «Valor, Lealdade e Mérito», em letras maiúsculas de ouro, no reverso, ao centro e em campo de esmalte azul, o escudo nacional, circundado da legenda «República Portuguesa», em letras maiúsculas de ouro, e a fita azul-ferrete.\n\n2 - As insígnias do Grande-Colar da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito são as seguintes:\n\na) Colar formado, alternadamente, por torres de ouro e iluminadas de azul, com 28 mm de altura por 23 mm de base, e espadas de esmalte azul, com 42 mm dispostas sobre coroas de carvalho, com 25 mm por 25 mm, de esmalte verde perfiladas e frutadas de ouro, suspensas em corrente dupla dourada, e ao centro, sobre duas espadas de esmalte azul cruzadas, com 65 mm, e suportada por dois dragões de ouro, uma torre do mesmo metal e iluminada de azul, com 42 mm de altura por 30 mm de base; o colar tem pendente o distintivo da Ordem, com a torre coberta, com 80 mm de diâmetro;\n\nb) Banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo, com a medida de 78 mm x 68 mm;\n\nc) Placa pentagonal dourada, com 68 mm x 82 mm, em raios abrilhantados, carregada de uma estrela da Ordem, com uma torre, coberta, de ouro e iluminada de azul, entre as duas pontas superiores.\n\n3 - As insígnias dos restantes graus da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo, com a medida de 78 mm x 68 mm; e placa pentagonal dourada, com 68 mm x 82 mm, em raios abrilhantados, carregada de uma estrela da Ordem, com uma torre, coberta, de ouro e iluminada de azul, entre as duas pontas superiores;\n\nb) Grande-Oficial: placa igual à de Grã-Cruz;\n\nc) Comendador: placa idêntica à de Grande-Oficial, mas prateada;\n\nd) Oficial: o distintivo descrito na alínea a), com 44 mm de diâmetro, suspenso de fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, para as senhoras, e tendo sobre a fivela ou sobre o nó do laço uma roseta da cor da fita, com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: o distintivo descrito na alínea anterior, sem roseta.\n\n4 - Além das insígnias descritas no número anterior para os diversos graus, os agraciados podem usar nos actos solenes um colar formado por espadas de esmalte azul, com 25 mm, dispostas sobre coroas de carvalho de esmalte verde perfiladas e frutadas, e torres iluminadas de azul com 23 mm de altura por 20 mm de base, encadeados alternadamente, tendo pendente o distintivo da Ordem, com a torre coberta, com 70 mm de diâmetro, o qual é, como o colar, de prata esmaltada para cavaleiro e de ouro esmaltado para os demais graus.\n\n5 - Os condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito podem usar tantas insígnias quantos os graus que lhes tiverem sido concedidos."
+  },
+  "165781060": {
+   "fragment_id": "166078883",
+   "type": 11,
+   "heading": "Artigo 11.º — Concessão de insígnias a militares e unidades militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Concessão de insígnias a militares e unidades militares\n\n1 - Aos militares condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito é permitido o uso das insígnias respectivas, em passeio, com qualquer uniforme.\n\n2 - A concessão da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito a unidades militares, por feitos ou serviços relevantes em combate, importa, para os militares que tomaram parte na prática daquele feito ou serviço, integrados nos efectivos da unidade, formação ou fracção, o direito ao uso de um distintivo especial.\n\n3 - O distintivo referido no número anterior, usado com todos os uniformes, é constituído por cordões encadeados, de 4 mm de diâmetro, da cor da fita da Ordem, tendo, respectivamente, 0,40 mm e 0,60 mm de comprimento, suspensos da platina direita, passando o mais comprido por baixo do braço e indo ambos prender a um botão da farda, conforme o estabelecido no respectivo plano de uniformes; os cordões serão terminados por duas agulhetas de 60 mm de comprimento.\n\n4 - Os cordões e as agulhetas são, respectivamente, de seda e prata dourada para os oficiais, de algodão e prata para os sargentos e de algodão e cobre para as praças.\n\n5 - Aos militares nas condições deste artigo é feito o respectivo averbamento nos seus registos de matrícula, sem o que não podem usar o respectivo distintivo.\n\n6 - A miniatura dos cordões para uso com as fitas das condecorações são de modelo análogo ao previsto para a medalha militar e nos materiais indicados no n.º 4."
+  },
+  "165781061": {
+   "fragment_id": "166078884",
+   "type": 11,
+   "heading": "Artigo 12.º — Honras militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Honras militares\n\nAos vários graus da Ordem, concedidos a militares e a civis, pertencem as honras militares correspondentes aos seguintes postos, se os condecorados não tiverem outras superiores:\n\na) Grande-Colar e Grã-Cruz - General;\n\nb) Grande-Oficial - Coronel;\n\nc) Comendador - Tenente-Coronel;\n\nd) Oficial - Major;\n\ne) Cavaleiro ou Dama - Alferes."
+  },
+  "165781062": {
+   "fragment_id": "166078885",
+   "type": 8,
+   "heading": "Secção II — Ordem Militar de Cristo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ordem Militar de Cristo"
+  },
+  "165781063": {
+   "fragment_id": "166078886",
+   "type": 11,
+   "heading": "Artigo 13.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Finalidade específica\n\nA Ordem Militar de Cristo destina-se a distinguir destacados serviços prestados ao País no exercício das funções de soberania."
+  },
+  "165781064": {
+   "fragment_id": "166078887",
+   "type": 11,
+   "heading": "Artigo 14.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Graus\n\nOs graus da Ordem Militar de Cristo são os seguintes:\n\na) Grã-Cruz;\n\nb) Grande-Oficial;\n\nc) Comendador;\n\nd) Oficial;\n\ne) Cavaleiro ou Dama."
+  },
+  "165781065": {
+   "fragment_id": "166078888",
+   "type": 11,
+   "heading": "Artigo 15.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem Militar de Cristo é uma cruz latina, pátea, de esmalte vermelho, perfilada de ouro, carregada de cruz latina de esmalte branco, e a fita vermelha.\n\n2 - As insígnias da Ordem Militar de Cristo são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 55 mm x 43 mm; e placa dourada em raios, com 70 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, perfilado de ouro e circundado de um festão de louro de ouro;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: a cruz singela, com 38 mm x 28 mm, suspensa de uma fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, para as senhoras, tendo sobre a fivela ou sobre o nó do laço uma roseta, da cor da fita, com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: insígnia idêntica à de Oficial, sem roseta.\n\n3 - Nos actos solenes, os condecorados com os graus de Oficial e Cavaleiro podem usar, pendente do pescoço por uma fita da cor da Ordem, o distintivo com as dimensões indicadas no número anterior para o grau de Comendador."
+  },
+  "165781066": {
+   "fragment_id": "166078889",
+   "type": 8,
+   "heading": "Secção III — Ordem Militar de Avis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Ordem Militar de Avis"
+  },
+  "165781067": {
+   "fragment_id": "166078890",
+   "type": 11,
+   "heading": "Artigo 16.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Finalidade específica\n\nA Ordem Militar de Avis destina-se a premiar altos serviços militares, sendo exclusivamente reservada a oficiais das Forças Armadas e da Guarda Nacional Republicana, bem como a unidades, órgãos, estabelecimentos e corpos militares."
+  },
+  "165781068": {
+   "fragment_id": "166078891",
+   "type": 11,
+   "heading": "Artigo 17.º — Graus e quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Graus e quadro\n\n1 - Os graus da Ordem Militar de Avis são os seguintes:\n\na) Grã-Cruz;\n\nb) Grande-Oficial;\n\nc) Comendador;\n\nd) Oficial;\n\ne) Cavaleiro ou Dama.\n\n2 - A Ordem Militar de Avis tem um quadro, aprovado por decreto do Presidente da República, com a disponibilidade máxima de agraciados em cada momento para cada um dos graus, com excepção do de Cavaleiro ou Dama, que pode ser concedido em número ilimitado.\n\n3 - Os cidadãos estrangeiros a quem seja concedida a Ordem Militar de Avis são considerados membros honorários e não são contabilizados no número máximo de agraciados do quadro da Ordem."
+  },
+  "165781069": {
+   "fragment_id": "166078892",
+   "type": 11,
+   "heading": "Artigo 18.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem Militar de Avis é uma cruz florida, de esmalte verde, perfilada de ouro, e a fita verde.\n\n2 - As insígnias dos diversos graus desta Ordem são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 50 mm x 40 mm; e placa dourada em raios abrilhantados, com 85 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, filetado de ouro e circundado de um festão de louro de ouro;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao de Grã-Cruz, suspenso de fita pendente do pescoço, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: cruz singela, com 38 mm x 28 mm, suspensa de uma fita, de 30 mm, com fivela dourada, tendo sobre a fivela uma roseta, da cor da fita, com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: a insígnia idêntica à de Oficial, sem roseta.\n\n3 - As senhoras agraciadas com a Ordem Militar de Avis podem usar a insígnia pendente de um laço, que é de 40 mm para as insígnias de Grande-Oficial ou Comendador e de 30 mm para as de Oficial ou Dama.\n\n4 - Nos actos solenes, os condecorados com os graus de Oficial e Cavaleiro podem usar, pendente do pescoço por uma fita da cor da Ordem, o distintivo com as dimensões indicadas no n.º 2 para o grau de Comendador.\n\n5 - Na ordem de precedência das diferentes modalidades da medalha militar, as insígnias da Ordem Militar de Avis são colocadas imediatamente após as da Ordem Militar de Cristo e as desta a seguir à medalha de cruz de guerra."
+  },
+  "165781070": {
+   "fragment_id": "166078893",
+   "type": 11,
+   "heading": "Artigo 19.º — Correspondência à hierarquia militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Correspondência à hierarquia militar\n\n1 - Aos diferentes graus da Ordem Militar de Avis correspondem os seguintes postos da hierarquia militar:\n\na) Vice-almirante ou tenente-general e postos superiores: Grã-Cruz;\n\nb) Capitão-de-mar-e-guerra ou coronel e contra-almirante ou major-general: Grande-Oficial;\n\nc) Capitão-de-fragata ou tenente-coronel: Comendador;\n\nd) Capitão-tenente ou major: Oficial;\n\ne) Primeiro-tenente ou capitão: Cavaleiro ou Dama.\n\n2 - Salvo em casos absolutamente excepcionais, e por iniciativa do Presidente da República, é obrigatoriamente respeitada a correspondência estabelecida no n.º 1."
+  },
+  "165781071": {
+   "fragment_id": "166078894",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de atribuição\n\n1 - São condições gerais necessárias, no seu conjunto, para atribuição de qualquer grau da Ordem Militar de Avis as seguintes:\n\na) Ter prestado, pelo menos, sete anos de serviço a contar da data da graduação ou promoção a oficial;\n\nb) Ter no decurso da carreira militar revelado elevados atributos morais e profissionais, manifestados através de uma irrepreensível conduta, reconhecidas qualidades cívicas e virtudes militares;\n\nc) Ter prestado serviços altamente meritórios, reconhecidamente relevantes e distintos e que tenham contribuído para o prestígio militar das Forças Armadas ou da Guarda Nacional Republicana, com especial relevância para os serviços prestados em campanha ou com risco de vida.\n\n2 - As condições especiais que, salvo nos casos de concessão por serviços excepcionais prestados em campanha ou com risco de vida, devem ser satisfeitas para atribuição de qualquer grau da Ordem Militar de Avis são as seguintes:\n\na) Grã-Cruz: ter sido previamente condecorado com a Grã-Cruz da Medalha de Mérito Militar ou com a medalha de mérito militar de 1.ª classe e com uma medalha de ouro de serviços distintos, atribuída enquanto oficial general;\n\nb) Grande-Oficial: ter sido previamente condecorado com a medalha de mérito militar de 1.ª classe e com uma medalha de serviços distintos no posto correspondente ao grau para que é proposto ou, em alternativa, ter sido previamente condecorado com a medalha de mérito militar de 2.ª classe e duas medalhas de serviços distintos, uma das quais no posto correspondente ao grau para que é proposto;\n\nc) Comendador e Oficial: ter sido previamente condecorado com a medalha de mérito militar de 2.ª classe e com uma medalha de serviços distintos como oficial superior;\n\nd) Cavaleiro ou Dama: ter sido previamente condecorado com a medalha de mérito militar de 3.ª classe e com uma medalha de serviços distintos.\n\n3 - O Chefe do Estado-Maior-General das Forças Armadas, ouvido o chefe do estado-maior do ramo, ou os chefes do estado-maior dos ramos, ouvidos os respectivos conselhos superiores, propõem ao Ministro da Defesa Nacional o agraciamento dos oficiais mais dotados que satisfaçam globalmente os requisitos fixados nos números anteriores.\n\n4 - Procedimento análogo ao estabelecido no número anterior, ajustado à orgânica da Guarda Nacional Republicana, é adoptado pelo seu comandante-geral, devendo as respectivas propostas ser dirigidas ao Ministro da Defesa Nacional, por intermédio do Ministro da Administração Interna.\n\n5 - As propostas de agraciamento devem:\n\na) Apresentar os fundamentos em que se baseiam, nos termos dos n.os 1 e 2, nomeadamente:\n\ni) Os louvores que revelam os elevados atributos morais e profissionais, bem como a descrição dos serviços altamente meritórios e reconhecidamente relevantes e distintos;\n\nii) Indicação de que os louvores referidos não serviram de base para a concessão de outro grau;\n\niii) Nota biográfica do oficial proposto, destacando as suas habilitações, colocações e situações, louvores e condecorações;\n\nb) Conter os pareceres dos órgãos mencionados nos n.os 3 e 4, conforme o caso;\n\nc) Conter um juízo global dos serviços prestados à instituição militar ou à Guarda Nacional Republicana pelos oficiais propostos.\n\n6 - Ao oficial que deixar de satisfazer as condições previstas na alínea b) do n.º 1 do presente artigo é aplicável o disposto no artigo 55.º da presente lei.\n\n7 - O disposto nos n.os 3 e 4 do presente artigo não é aplicável aos casos em que a atribuição da Ordem Militar de Avis ocorra por iniciativa do Presidente da República e à atribuição do grau de Grã-Cruz aos almirantes, generais, almirantes da Armada e marechais."
+  },
+  "165781072": {
+   "fragment_id": "166078895",
+   "type": 11,
+   "heading": "Artigo 21.º — Procedimento de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Procedimento de concessão\n\n1 - O Chanceler das Antigas Ordens Militares, baseado nas vagas existentes no quadro da Ordem Militar de Avis e em função dos respectivos efectivos orgânicos em oficiais dos ramos das Forças Armadas e da Guarda Nacional Republicana, comunica anualmente, até 31 de Dezembro, aos chefes de estado-maior dos ramos e ao Comandante-Geral da Guarda Nacional Republicana o número máximo de propostas, por graus, que podem apresentar.\n\n2 - As propostas de agraciamento devem dar entrada na Chancelaria das Ordens Honoríficas Portuguesas, anualmente, até 31 de Março.\n\n3 - A imposição das insígnias da Ordem Militar de Avis é feita em cerimónia pública, civil ou militar."
+  },
+  "165781073": {
+   "fragment_id": "166078896",
+   "type": 8,
+   "heading": "Secção IV — Ordem Militar de Sant'Iago da Espada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Ordem Militar de Sant'Iago da Espada"
+  },
+  "165781074": {
+   "fragment_id": "166078897",
+   "type": 11,
+   "heading": "Artigo 22.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Finalidade específica\n\nA Ordem Militar de Sant'Iago da Espada destina-se a distinguir o mérito literário, científico e artístico."
+  },
+  "166078975": {
+   "fragment_id": "166078898",
+   "type": 11,
+   "heading": "Artigo 23.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Graus\n\nOs graus da Ordem Militar de Sant'Iago da Espada são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama."
+  },
+  "166078976": {
+   "fragment_id": "166078899",
+   "type": 11,
+   "heading": "Artigo 24.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem Militar de Sant'Iago da Espada é uma cruz em forma de espada, de esmalte vermelho, perfilada de ouro, assente sobre duas palmas entrelaçadas, de esmalte verde, perfiladas de ouro, com a legenda «Ciências, Letras e Artes», em letras maiúsculas de ouro, sobre listel de esmalte branco, e a fita violeta.\n\n2 - As insígnias do Grande-Colar da Ordem Militar de Sant'Iago da Espada são as seguintes:\n\na) Colar formado por vieiras, com 30 mm x 30 mm, suspensas em corrente dupla; ao centro, uma vieira, com 35 mm x 35 mm, ladeada por dois golfinhos; o colar, todo de ouro, tem pendente e encadeado por uma coroa de louros com os seus frutos, com 25 mm x 32 mm, a cruz da Ordem, de esmalte violeta e perfilada de ouro, com 40 mm x 60 mm, circundada por um festão de folhas de louro com os seus frutos, atado com fitas cruzadas nos topos e nos lados, também de ouro, com 52 mm x 65 mm;\n\nb) Banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço a cruz idêntica à pendente do colar, com as dimensões adequadas;\n\nc) Placa dourada em raios, com 70 mm de diâmetro, tendo ao centro a cruz idêntica à pendente do colar, com as dimensões adequadas.\n\n3 - As insígnias dos restantes graus da Ordem Militar de Sant'Iago da Espada são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo, com 65 mm de comprimento; e placa dourada em raios, com 70 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado do distintivo da Ordem, envolvido por uma coroa circular de esmalte vermelho, contida em filetes de ouro, com a legenda «Ciências, Letras e Artes», em letras maiúsculas de ouro, tudo circundado por um festão de louro de ouro;\n\nb) Grande-Oficial: placa idêntica à de Grã-Cruz;\n\nc) Comendador: placa idêntica à de Grande-Oficial, mas prateada;\n\nd) Oficial: o distintivo da Ordem, com 22 mm x 30 mm, pendente de uma coroa de louros de esmalte verde perfilada e frutada a ouro, com 20 mm x 14 mm, suspenso de fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, para as senhoras, e tendo sobre a fivela ou sobre o nó do laço uma roseta da cor da fita, com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: insígnia idêntica à de Oficial, sem roseta.\n\n4 - Além das insígnias descritas no número anterior para os diversos graus, os agraciados podem usar, nos actos solenes, um colar formado, alternadamente, de coroas de louros de esmalte verde perfiladas e frutadas, com 20 mm de diâmetro, e distintivos da Ordem, de 22 mm x 30 mm, tendo pendente e encadeado por uma coroa de louros, semelhante às anteriores, com 33 mm x 30 mm, o distintivo, com 65 mm x 50 mm, que será, como o colar, de prata esmaltada para o grau de Cavaleiro ou Dama e de ouro esmaltado para os demais graus."
+  },
+  "166078977": {
+   "fragment_id": "166078900",
+   "type": 1,
+   "heading": "Capítulo III — Ordens Nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Ordens Nacionais"
+  },
+  "166078978": {
+   "fragment_id": "166078901",
+   "type": 8,
+   "heading": "Secção I — Ordem do Infante D. Henrique",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Ordem do Infante D. Henrique"
+  },
+  "166078979": {
+   "fragment_id": "166078902",
+   "type": 11,
+   "heading": "Artigo 25.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Finalidade específica\n\nA Ordem do Infante D. Henrique destina-se a distinguir quem houver prestado:\n\na) Serviços relevantes a Portugal, no País e no estrangeiro;\n\nb) Serviços na expansão da cultura portuguesa ou para conhecimento de Portugal, da sua História e dos seus valores."
+  },
+  "166078980": {
+   "fragment_id": "166078903",
+   "type": 11,
+   "heading": "Artigo 26.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Graus\n\nOs graus da Ordem do Infante D. Henrique são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama."
+  },
+  "166078981": {
+   "fragment_id": "166078904",
+   "type": 11,
+   "heading": "Artigo 27.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem do Infante D. Henrique é uma cruz pátea, de esmalte vermelho, filetada de ouro, e a fita tripartida em faixas iguais, das cores azul, branca e negra, dispostas em pala.\n\n2 - As insígnias do Grande-Colar da Ordem do Infante D. Henrique são as seguintes:\n\na) Colar formado por cruzes singelas da Ordem, de 20 mm, alternadas e encadeadas com duas capelas de carrasqueira secantes e douradas, com 35 mm x 36 mm; o colar tem pendente e encadeada por uma capela de carrasqueira dourada a cruz da Ordem, com 55 mm x 65 mm;\n\nb) Banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo com 55 mm x 26 mm;\n\nc) Placa dourada, com 75 mm de diâmetro, em forma de resplendor de raios, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, contido por listel circular negro, realçado a ouro, com o mote «Talant de bien faire», em caracteres dourados.\n\n3 - As insígnias dos restantes graus da Ordem do Infante D. Henrique são as seguintes:\n\na) Grã-Cruz: banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo com 55 mm x 26 mm; e placa dourada, com 75 mm de diâmetro, em forma de resplendor de raios, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, contido por listel circular negro, realçado a ouro, com o mote «Talant de bien faire», em caracteres dourados;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: cruz singela, com 30 mm x 35 mm, suspensa de fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, para as senhoras, e tendo sobre a fivela ou sobre o nó do laço uma roseta das cores da fita com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: insígnia idêntica à de Oficial, sem roseta."
+  },
+  "166078982": {
+   "fragment_id": "166078905",
+   "type": 8,
+   "heading": "Secção II — Ordem da Liberdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ordem da Liberdade"
+  },
+  "166078983": {
+   "fragment_id": "166078906",
+   "type": 11,
+   "heading": "Artigo 28.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Finalidade específica\n\nA Ordem da Liberdade destina-se a distinguir serviços relevantes prestados em defesa dos valores da civilização, em prol da dignificação da pessoa humana e à causa da liberdade."
+  },
+  "166078984": {
+   "fragment_id": "166078907",
+   "type": 11,
+   "heading": "Artigo 29.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Graus\n\nOs graus da Ordem da Liberdade são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama."
+  },
+  "166078985": {
+   "fragment_id": "166078908",
+   "type": 11,
+   "heading": "Artigo 30.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem da Liberdade é um medalhão constituído por um círculo central de esmalte branco com uma cruz grega de esmalte azul perfilada de ouro, envolvido por coroa circular de ouro lavrada em forma de raios divergentes do centro, circundada por outra coroa circular de esmalte azul-ferrete filetada de ouro pelo exterior, tudo envolvido por onze voos estilizados de esmalte branco perfilados de ouro e sobrepostos alternadamente, e encimado por uma chama esmaltada de vermelho, realçada de ouro, contida numa capela de loureiro de esmalte verde com as folhas perfiladas de ouro, e a fita amarela com uma lista central branca.\n\n2 - As insígnias do Grande-Colar da Ordem da Liberdade são as seguintes:\n\na) Colar formado alternadamente pelos seguintes elementos do distintivo da Ordem: cruz assente num círculo de esmalte branco, de 20 mm de diâmetro, e chama numa capela de loureiro, com 25 mm x 38 mm, ligadas por argolas e tendo pendente o distintivo da Ordem, com 65 mm de diâmetro, encimado pela referida chama numa capela de loureiro, com 28 mm x 40 mm;\n\nb) Banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 50 mm de diâmetro, encimado pela chama com a capela, com as dimensões adequadas;\n\nc) Placa dourada em raios abrilhantados, com 79 mm de diâmetro, onde figura, ao centro, o distintivo sobre campo de esmalte azul-celeste, ficando com a chama e a capela de loureiro colocadas sobre a placa, numa altura de dois terços do seu comprimento total.\n\n3 - As insígnias dos restantes graus da Ordem da Liberdade são as seguintes:\n\na) Grã-Cruz: banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 50 mm de diâmetro, encimado pela chama com a capela, com as dimensões adequadas; e placa dourada em raios abrilhantados, com 79 mm de diâmetro, onde figura, ao centro, o distintivo sobre campo de esmalte azul-celeste, ficando com a chama e a capela de loureiro colocadas sobre a placa, numa altura de dois terços do seu comprimento total;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: o distintivo da Ordem, com 40 mm de diâmetro no seu todo, tendo a capela de loureiro 16 mm na parte mais larga e 24 mm na altura, suspenso de fita, de 30 mm e fivela dourada, ou de laço, da mesma largura, tendo 14 mm na lista central, tendo sobre a fivela ou sobre o nó do laço uma roseta das cores da fita com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: insígnia idêntica à de Oficial, sem roseta."
+  },
+  "166078986": {
+   "fragment_id": "166078909",
+   "type": 1,
+   "heading": "Capítulo IV — Ordens de Mérito Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Ordens de Mérito Civil"
+  },
+  "166078987": {
+   "fragment_id": "166078910",
+   "type": 8,
+   "heading": "Secção I — Ordem do Mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Ordem do Mérito"
+  },
+  "166078988": {
+   "fragment_id": "166078911",
+   "type": 11,
+   "heading": "Artigo 31.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Finalidade específica\n\nA Ordem do Mérito destina-se a galardoar actos ou serviços meritórios praticados no exercício de quaisquer funções, públicas ou privadas, que revelem abnegação em favor da colectividade."
+  },
+  "166078989": {
+   "fragment_id": "166078912",
+   "type": 11,
+   "heading": "Artigo 32.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Graus\n\nOs graus da Ordem do Mérito são os seguintes:\n\na) Grã-Cruz;\n\nb) Grande-Oficial;\n\nc) Comendador;\n\nd) Oficial;\n\ne) Medalha."
+  },
+  "166078990": {
+   "fragment_id": "166078913",
+   "type": 11,
+   "heading": "Artigo 33.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem do Mérito é uma cruz de braços iguais, pátea, de oito pontas, de esmalte azul, filetada de ouro, tendo ao centro um círculo de esmalte azul filetado de ouro, carregado de uma estrela de ouro, contido em coroa circular de esmalte branco filetada de ouro pelo exterior, com a legenda «Bem merecer», em letras maiúsculas de ouro; no reverso, ao centro e em campo de esmalte azul, o escudo nacional, circundado da legenda «República Portuguesa», em letras maiúsculas de ouro, e a fita tripartida, em palas de igual dimensão, a do centro de amarelo e as laterais de negro.\n\n2 - As insígnias da Ordem do Mérito são as seguintes:\n\na) Grã-Cruz: banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço e encadeado por uma coroa de louros com os seus frutos de ouro o distintivo da Ordem, com 52 mm x 52 mm; e placa dourada em forma de cruz, com 65 mm x 65 mm, semelhante à do distintivo da Ordem, sendo a coroa de esmalte branco circundada de um festão de louro de ouro;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: o distintivo da Ordem, com 38 mm x 38 mm, pendente de uma coroa de louros com os seus frutos de ouro, com 22 mm de diâmetro, suspensa de fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, tendo sobre a fivela ou sobre o nó do laço uma roseta das cores da fita com 10 mm de diâmetro;\n\ne) Medalha: insígnia idêntica à de Oficial, sem roseta."
+  },
+  "166078991": {
+   "fragment_id": "166078914",
+   "type": 8,
+   "heading": "Secção II — Ordem da Instrução Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ordem da Instrução Pública"
+  },
+  "166078992": {
+   "fragment_id": "166078915",
+   "type": 11,
+   "heading": "Artigo 34.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Finalidade específica\n\nA Ordem da Instrução Pública destina-se a galardoar altos serviços prestados à causa da educação e do ensino."
+  },
+  "166078993": {
+   "fragment_id": "166078916",
+   "type": 11,
+   "heading": "Artigo 35.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Graus\n\nOs graus da Ordem da Instrução Pública são os seguintes:\n\na) Grã-Cruz;\n\nb) Grande-Oficial;\n\nc) Comendador;\n\nd) Oficial;\n\ne) Medalha."
+  },
+  "166078994": {
+   "fragment_id": "166078917",
+   "type": 11,
+   "heading": "Artigo 36.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem da Instrução Pública é constituído por duas palmas entrelaçadas de ouro e a fita amarela.\n\n2 - As insígnias da Ordem da Instrução Pública são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 60 mm x 54 mm; e placa dourada, com 80 mm de diâmetro, em forma de resplendor de raios, tendo sobreposta uma estrela de oito pontas de esmalte azul e filetada de prata, à qual se sobrepõe o escudo nacional de ouro, envolvido por duas palmas, também de ouro, unidas no topo e nos pecíolos, estes cruzados e atados por um listel ondulado, de esmalte branco, com a legenda «Instrução pública», em letras maiúsculas de ouro, tudo em recortes;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: o distintivo da Ordem, com 56 mm x 48 mm, suspensas de fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, tendo sobre a fivela ou sobre o nó do laço uma roseta da cor da fita com 10 mm de diâmetro;\n\ne) Medalha: insígnia idêntica à de Oficial, sem roseta."
+  },
+  "166078995": {
+   "fragment_id": "166078918",
+   "type": 8,
+   "heading": "Secção III — Ordem do Mérito Empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Ordem do Mérito Empresarial"
+  },
+  "166078996": {
+   "fragment_id": "166078919",
+   "type": 11,
+   "heading": "Artigo 37.º — Finalidade específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Finalidade específica\n\n1 - A Ordem do Mérito Empresarial destina-se a distinguir quem haja prestado, como empresário ou trabalhador, serviços relevantes no fomento ou na valorização:\n\na) Da agricultura, da pecuária, das pescas ou do património florestal do País;\n\nb) Do comércio, do turismo ou dos serviços;\n\nc) Das indústrias.\n\n2 - A cada um dos sectores económicos constantes das alíneas anteriores corresponde uma Classe: Agrícola, Comercial e Industrial."
+  },
+  "166078997": {
+   "fragment_id": "166078920",
+   "type": 11,
+   "heading": "Artigo 38.º — Graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Graus\n\nOs graus da Ordem do Mérito Empresarial são os seguintes:\n\na) Grã-Cruz;\n\nb) Grande-Oficial;\n\nc) Comendador;\n\nd) Oficial;\n\ne) Medalha."
+  },
+  "166078998": {
+   "fragment_id": "166078921",
+   "type": 11,
+   "heading": "Artigo 39.º — Distintivo e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem do Mérito Empresarial é constituído por uma estrela de nove pontas esmaltadas de verde, de azul ou de vermelho, segundo for do mérito agrícola, comercial ou industrial, perfilada e arraiada de ouro, tendo ao centro, em campo de ouro, o escudo nacional, contido em coroa circular de esmalte branco com a legenda «Mérito Agrícola», «Mérito Comercial», «Mérito Industrial», conforme a classe, em letras maiúsculas de ouro, e a fita chamalote tripartida em palas, sendo a do centro branca e as laterais da cor da classe, de largura igual a dois terços da parte branca.\n\n2 - As insígnias da Ordem do Mérito Empresarial são as seguintes:\n\na) Grã-Cruz: banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço e encadeado por uma coroa de louros de esmalte verde perfilada e frutada de ouro o distintivo da Ordem, com 65 mm de diâmetro; e placa em forma de estrela de nove pontas esmaltadas de verde, de azul ou de vermelho, conforme for do mérito agrícola, comercial ou industrial, perfilada e arraiada de ouro, com 75 mm de diâmetro, com nove estrelas pequenas do mesmo esmalte colocadas sobre os raios entre cada uma das suas pontas; no centro, em campo de ouro, o escudo nacional, contido em coroa circular de esmalte branco com a legenda «Mérito Agrícola», «Mérito Comercial» ou «Mérito Industrial», conforme a classe, em letras maiúsculas de ouro;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa arraiada de prata;\n\nd) Oficial: o distintivo da Ordem, com 47 mm de diâmetro, pendente de uma coroa de louros de esmalte verde perfilada e frutada de ouro, suspensa de fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, tendo sobre a fivela ou sobre o nó do laço uma roseta das cores da fita, com 10 mm de diâmetro;\n\ne) Medalha: insígnia idêntica à de Oficial, sem roseta."
+  },
+  "166078999": {
+   "fragment_id": "166078922",
+   "type": 1,
+   "heading": "Capítulo V — Orgânica das Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Orgânica das Ordens Honoríficas Portuguesas"
+  },
+  "166079000": {
+   "fragment_id": "166078923",
+   "type": 11,
+   "heading": "Artigo 40.º — Órgãos das Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Órgãos das Ordens Honoríficas Portuguesas\n\n1 - O Presidente da República, como Grão-Mestre das Ordens Honoríficas Portuguesas, superintende na organização, orientação e disciplina das Ordens.\n\n2 - O Grão-Mestre é coadjuvado, no exercício das suas funções, pelos Chanceleres e pelos Conselhos das Ordens."
+  },
+  "166079001": {
+   "fragment_id": "166078924",
+   "type": 11,
+   "heading": "Artigo 41.º — Chanceleres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Chanceleres\n\n1 - Cada grupo das Ordens Honoríficas Portuguesas dispõe de um Chanceler, nomeado por decreto do Presidente da República e pelo período do seu mandato, de entre Grã-Cruzes de uma das Ordens desse grupo.\n\n2 - Os Chanceleres das Ordens tomam posse perante o Presidente da República.\n\n3 - No impedimento ou ausência prolongada no estrangeiro de um Chanceler, sob proposta deste, o Presidente da República designa, de entre os vogais do respectivo Conselho, um Vice-Chanceler."
+  },
+  "166079002": {
+   "fragment_id": "166078925",
+   "type": 11,
+   "heading": "Artigo 42.º — Competência dos Chanceleres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competência dos Chanceleres\n\nCompete aos Chanceleres das Ordens:\n\na) Propor ao Presidente da República os membros do respectivo Conselho;\n\nb) Convocar e presidir às reuniões dos Conselhos das Ordens em que superintendam;\n\nc) Representar o Presidente da República nas cerimónias respeitantes às mesmas Ordens;\n\nd) Assinar os diplomas de concessão de condecorações das Ordens em que superintendam;\n\ne) Propor a substituição dos vogais do respectivo Conselho que, por três faltas seguidas e não justificadas, não compareçam às reuniões para que foram convocados;\n\nf) Propor a dissolução do Conselho das Ordens a seu cargo sempre que, por falta de número, seja impossível, por três vezes seguidas, realizar as reuniões convocadas;\n\ng) Determinar a instauração de processo disciplinar aos membros das Ordens que infrinjam os seus deveres para com a Pátria, a sociedade ou a Ordem a que pertencerem;\n\nh) Promover tudo quanto for conveniente para a defesa do prestígio das Ordens que lhes estão confiadas."
+  },
+  "166079003": {
+   "fragment_id": "166078926",
+   "type": 11,
+   "heading": "Artigo 43.º — Conselho dos Chanceleres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conselho dos Chanceleres\n\nOs Chanceleres das Ordens reúnem em Conselho, secretariado pelo Secretário-Geral das Ordens, sempre que for conveniente, para coordenarem tarefas, harmonizarem critérios e procedimentos e tratarem de outros assuntos de interesse comum às Ordens."
+  },
+  "166079004": {
+   "fragment_id": "166078927",
+   "type": 11,
+   "heading": "Artigo 44.º — Conselhos das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Conselhos das Ordens\n\n1 - Sem prejuízo do disposto nos números seguintes, cada grupo das Ordens Honoríficas Portuguesas dispõe de um Conselho, presidido pelo respectivo Chanceler, e integrado por oito vogais, nomeados por alvará do Presidente da República e pelo período do seu mandato, de entre Grã-Cruzes, Grande-Oficiais e Comendadores das respectivas Ordens.\n\n2 - Os vogais da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito podem ser escolhidos de entre os condecorados com qualquer grau.\n\n3 - Os vogais da Ordem Militar de Avis são sempre oficiais generais, de preferência de ramos diferentes.\n\n4 - Em cada Conselho há uma representação tanto quanto possível equitativa das Ordens que compõem o respectivo grupo.\n\n5 - Os membros dos Conselhos das Ordens tomam posse perante o Presidente da República.\n\n6 - Aos membros dos Conselhos das Ordens, por cada reunião em que participem, é devido o pagamento das despesas de transporte e estadia inerentes à deslocação que porventura tenham de fazer."
+  },
+  "166079005": {
+   "fragment_id": "166078928",
+   "type": 11,
+   "heading": "Artigo 45.º — Competência dos Conselhos das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Competência dos Conselhos das Ordens\n\nCompete aos Conselhos das Ordens:\n\na) Elaborar os respectivos regimentos;\n\nb) Propor as alterações julgadas necessárias para melhor funcionamento do respectivo grupo das Ordens;\n\nc) Dar parecer sobre as propostas e solicitações de agraciamento com as respectivas Ordens;\n\nd) Propor, nos termos da presente lei, a concessão de condecorações com as suas Ordens;\n\ne) Julgar os processos disciplinares instaurados aos membros das Ordens e propor ao Presidente da República e Grão-Mestre das Ordens a irradiação dos mesmos;\n\nf) Passar à condição de membro honorário os membros das Ordens que deixem de ser portugueses nos termos da lei da nacionalidade;\n\ng) Efectivar a irradiação automática dos membros das Ordens que, nos termos da alínea e), tenham sido irradiados de qualquer Ordem e dos que, por sentença judicial transitada em julgado, tenham sido condenados pela prática de crime doloso punido com pena de prisão superior a 3 anos."
+  },
+  "166079006": {
+   "fragment_id": "166078929",
+   "type": 1,
+   "heading": "Capítulo VI — Concessão das Ordens e Investidura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Concessão das Ordens e Investidura"
+  },
+  "166079007": {
+   "fragment_id": "166078930",
+   "type": 11,
+   "heading": "Artigo 46.º — Competência do Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Competência do Presidente da República\n\n1 - A concessão de qualquer grau das Ordens Honoríficas Portuguesas é da exclusiva competência do Presidente da República como Grão-Mestre das Ordens.\n\n2 - A competência referida no número anterior pode ser exercida por iniciativa própria do Presidente da República ou por proposta das entidades mencionadas no artigo 47.º\n\n3 - Sem prejuízo do disposto no número seguinte, o grau de Grande-Colar destina-se a agraciar Chefes de Estado.\n\n4 - O Grande-Colar pode ainda ser concedido, por decreto do Presidente da República, a antigos Chefes de Estado e a pessoas cujos feitos, de natureza extraordinária e especial relevância para Portugal, os tornem merecedores dessa distinção.\n\n5 - O Presidente da República pode conceder o título de membro honorário a colectividades ou instituições dispensando os requisitos previstos no n.º 5 do artigo 3.º da presente lei."
+  },
+  "166079008": {
+   "fragment_id": "166078931",
+   "type": 11,
+   "heading": "Artigo 47.º — Propostas para concessão de Ordens Honoríficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Propostas para concessão de Ordens Honoríficas\n\n1 - O Presidente da Assembleia da República e o Primeiro-Ministro podem propor a concessão dos graus de qualquer Ordem a cidadãos nacionais ou estrangeiros.\n\n2 - A iniciativa das propostas apresentadas pelo Primeiro-Ministro pode partir de qualquer dos ministros.\n\n3 - A iniciativa das propostas de concessão da Ordem Militar de Avis é reservada ao ministro responsável pela Defesa Nacional, ouvido o Chefe do Estado-Maior-General das Forças Armadas ou os Chefes dos Estados-Maiores do Exército, da Armada ou da Força Aérea, consoante o ramo a que pertença o agraciado, sendo formalizada pelo Primeiro-Ministro.\n\n4 - Os Conselhos das Ordens podem propor a concessão de qualquer grau das respectivas Ordens, por iniciativa de qualquer dos seus membros ou no termo da apreciação das solicitações de agraciamento formuladas por quaisquer cidadãos ou entidades.\n\n5 - A concessão de qualquer condecoração a cidadãos estrangeiros, quando não seja da iniciativa do Presidente da República ou por proposta do Presidente da Assembleia da República ou do Primeiro-Ministro, é precedida de informação do ministro responsável pelos negócios estrangeiros."
+  },
+  "166079009": {
+   "fragment_id": "166078932",
+   "type": 11,
+   "heading": "Artigo 48.º — Forma e conteúdo das propostas e reserva do direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Forma e conteúdo das propostas e reserva do direito de acesso\n\n1 - As propostas de concessão de qualquer grau das Ordens Honoríficas Portuguesas devem ser devidamente fundamentadas e assinadas pela entidade proponente.\n\n2 - Os fundamentos exigidos para a concessão do título de membro honorário de uma Ordem a localidades, colectividades e instituições devem ser provados pela entidade proponente, em documentação anexa à proposta, quando não constituam factos notórios.\n\n3 - É especialmente obrigado ao dever de sigilo quem aceder, no exercício e por causa das suas funções, à documentação referida nos números anteriores."
+  },
+  "166079010": {
+   "fragment_id": "166078933",
+   "type": 11,
+   "heading": "Artigo 49.º — Forma do acto de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Forma do acto de concessão\n\n1 - A concessão reveste a forma de alvará, a publicar, integralmente ou por extracto, na 2.ª série do Diário da República.\n\n2 - Concedida a condecoração, a Chancelaria das Ordens emite o correspondente diploma, assinado pelo Chanceler da respectiva Ordem e autenticado com o selo branco da Chancelaria.\n\n3 - Os diplomas respeitantes ao grau de Grande-Colar são também assinados pelo Presidente da República."
+  },
+  "166079011": {
+   "fragment_id": "166078934",
+   "type": 11,
+   "heading": "Artigo 50.º — Investidura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Investidura\n\n1 - A investidura consiste na imposição das insígnias ao agraciado por quem presidir ao acto cerimonial.\n\n2 - A investidura de cidadãos portugueses é precedida da assinatura do compromisso de honra de observância da Constituição e da lei e de respeito pela disciplina própria das Ordens Honoríficas Portuguesas.\n\n3 - A investidura é solene quando o Presidente da República e Grão-Mestre das Ordens o determinar no despacho de concessão.\n\n4 - Na investidura solene, a imposição de insígnias é precedida da leitura do alvará da concessão.\n\n5 - A investidura solene tem lugar em acto presidido pelo Presidente da República.\n\n6 - O Presidente da República pode deferir ao Presidente da Assembleia da República ou ao Primeiro-Ministro a imposição de insígnias, nomeadamente em agraciamentos resultantes de proposta dos mesmos.\n\n7 - O Presidente da República pode ainda, por expressa delegação sua, encarregar da imposição das insígnias os Chanceleres das respectivas Ordens, os Membros do Governo, os Representantes da República nas Regiões Autónomas, em actos a realizar nelas, os Chefes de Estado-Maior ou o Embaixador de Portugal no país onde a cerimónia ocorra.\n\n8 - Nos casos previstos nos n.os 6 e 7 do presente artigo, é obrigatório que na cerimónia de imposição de insígnias seja feita a leitura do alvará de concessão, bem como a referência de que a imposição é feita em nome de Sua Excelência o Presidente da República.\n\n9 - Quando a condecoração haja sido concedida com palma, a investidura tem lugar em formatura de tropas.\n\n10 - A solenidade da investidura pode ser simplificada em circunstâncias especiais."
+  },
+  "166079012": {
+   "fragment_id": "166078935",
+   "type": 1,
+   "heading": "Capítulo VII — Direitos e deveres dos membros das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Direitos e deveres dos membros das Ordens"
+  },
+  "166079013": {
+   "fragment_id": "166078936",
+   "type": 11,
+   "heading": "Artigo 51.º — Membros das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Membros das Ordens\n\n1 - São membros das Ordens Honoríficas Portuguesas todos os cidadãos ou entidades agraciados nos termos da presente lei.\n\n2 - Os membros das Ordens Honoríficas Portuguesas pertencem a uma das categorias seguintes:\n\na) Titulares;\n\nb) Honorários.\n\n3 - Membros titulares são os cidadãos portugueses condecorados com qualquer grau da Ordem a que pertencem.\n\n4 - Membros honorários são os cidadãos estrangeiros, as unidades e estabelecimentos militares, os corpos militarizados e as localidades, colectividades ou instituições condecoradas com qualquer Ordem."
+  },
+  "166079014": {
+   "fragment_id": "166078937",
+   "type": 11,
+   "heading": "Artigo 52.º — Direitos dos membros das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Direitos dos membros das Ordens\n\n1 - Os membros titulares das Ordens Honoríficas Portuguesas têm direito ao uso das insígnias que lhes tiverem sido concedidas e às honras e precedências constantes da presente lei.\n\n2 - Os membros honorários das Ordens Honoríficas Portuguesas têm unicamente o direito ao uso das insígnias do seu grau.\n\n3 - Os membros honorários a que se referem os n.os 4 e 5 do artigo 3.º da presente lei podem usar as insígnias da Ordem no escudo, brasão ou selo que os identifique e, quando possuam bandeira ou estandarte, laço com as cores da Ordem, tendo pendente o distintivo respectivo."
+  },
+  "166079015": {
+   "fragment_id": "166078938",
+   "type": 11,
+   "heading": "Artigo 53.º — Direitos específicos dos membros de algumas Antigas Ordens Militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Direitos específicos dos membros de algumas Antigas Ordens Militares\n\n1 - Os militares agraciados com qualquer grau das Ordens Militares da Torre e Espada, do Valor, Lealdade e Mérito e de Avis, quando ostentem as respectivas insígnias, têm direito ao uso do uniforme militar, seja qual for o seu quadro ou situação e mesmo depois de deixarem a efectividade de serviço.\n\n2 - Os condecorados com qualquer grau da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito têm preferência na admissão em estabelecimentos sociais administrados pelo Estado e o direito a uma pensão, correspondente ao salário mínimo nacional e cumulável com quaisquer outras que lhes sejam devidas, se carecerem de meios de subsistência suficientes.\n\n3 - A concessão da pensão referida no número anterior e a sua transmissão aos cônjuges sobrevivos, ou às pessoas que tenham vivido em situação similar à dos cônjuges, e aos filhos menores é isenta de quaisquer emolumentos ou impostos.\n\n4 - Em memória dos agraciados com as Ordens Militares da Torre e Espada, do Valor, Lealdade e Mérito e de Avis, os seus órfãos têm preferência absoluta na admissão nos estabelecimentos de ensino militar, bem como nos estabelecimentos escolares dependentes dos departamentos militares."
+  },
+  "166079016": {
+   "fragment_id": "166078939",
+   "type": 11,
+   "heading": "Artigo 54.º — Deveres dos membros das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Deveres dos membros das Ordens\n\n1 - São deveres dos membros titulares das Ordens Honoríficas Portuguesas:\n\na) Defender e prestigiar Portugal em todas as circunstâncias;\n\nb) Regular o seu procedimento, público e privado, pelos ditames da virtude e da honra;\n\nc) Acatar as determinações e instruções do Conselho da respectiva Ordem;\n\nd) Dignificar a sua Ordem por todos os meios e em todas as circunstâncias.\n\n2 - Os membros honorários têm o dever de não prejudicar, de modo algum, os interesses de Portugal."
+  },
+  "166079017": {
+   "fragment_id": "166078940",
+   "type": 11,
+   "heading": "Artigo 55.º — Disciplina das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Disciplina das Ordens\n\n1 - Sempre que haja conhecimento da violação de qualquer dos deveres enunciados no artigo anterior, deve ser instaurado processo disciplinar, mediante despacho do Chanceler do respectivo Conselho.\n\n2 - Para instrutor do processo é designado no mesmo despacho um membro da Ordem de grau superior ao do arguido, ou do mesmo grau, se for Grã-Cruz.\n\n3 - No processo disciplinar é diligência impreterível a audiência do arguido, ao qual deve ser entregue nota de culpa e facultada a apresentação de defesa.\n\n4 - Concluída a instrução, é o processo presente ao respectivo Conselho e nele relatado pelo instrutor, que assiste à reunião, sem voto.\n\n5 - Se a acusação for julgada procedente, é imposta ao arguido, conforme a gravidade da falta e do desprestígio causado à Ordem, a sua admoestação ou irradiação.\n\n6 - A admoestação é da competência do Chanceler e consiste na repreensão do infractor, pessoalmente ou por escrito.\n\n7 - A irradiação dos quadros da Ordem tem a mesma forma do acto de concessão e implica a privação do uso da condecoração e a perda de todos os direitos a ela inerentes."
+  },
+  "166079018": {
+   "fragment_id": "166078941",
+   "type": 1,
+   "heading": "Capítulo VIII — Uso das insígnias das Ordens Honoríficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Uso das insígnias das Ordens Honoríficas"
+  },
+  "166079019": {
+   "fragment_id": "166078942",
+   "type": 11,
+   "heading": "Artigo 56.º — Uso de distintivos e insígnias nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Uso de distintivos e insígnias nacionais\n\n1 - Os condecorados com mais de um grau de qualquer das Ordens usam só a insígnia correspondente ao mais elevado, com excepção do disposto no artigo 10.º para os condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito ou quando as condecorações hajam sido concedidas com palma.\n\n2 - As condecorações concedidas com palma têm sobre a fita uma palma dourada colocada horizontalmente da esquerda para a direita.\n\n3 - Não é permitido o uso simultâneo de duas ou mais bandas, e só pode ser usada uma insígnia pendente do pescoço, qualquer que seja o grau a que corresponda.\n\n4 - As unidades e estabelecimentos militares e os corpos militarizados aos quais houver sido conferida uma condecoração usam sobre o laço da bandeira de desfile ou estandarte outro laço de fitas da cor da Ordem, de 0,1 m de largura, franjadas de ouro, tendo pendente numa das pontas o respectivo distintivo.\n\n5 - As localidades, colectividades e instituições que sejam membros honorários de uma Ordem têm direito a usar o laço definido no número anterior na respectiva bandeira de desfile ou estandarte oficial, quando os possuam, não devendo os laços das condecorações ser usados cumulativamente com quaisquer adornos ou com outras insígnias."
+  },
+  "166079020": {
+   "fragment_id": "166078943",
+   "type": 11,
+   "heading": "Artigo 57.º — Uso das insígnias de Grande-Colar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Uso das insígnias de Grande-Colar\n\n1 - O Grande-Colar pode ser usado em simultâneo com a Banda do Grande-Colar e é sempre usado com a respectiva placa.\n\n2 - Os agraciados com o Grande-Colar de qualquer das Ordens podem optar por usar apenas a Banda do Grande-Colar, desde que acompanhada da placa."
+  },
+  "166079021": {
+   "fragment_id": "166078944",
+   "type": 11,
+   "heading": "Artigo 58.º — Uso das insígnias de Grã-Cruz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Uso das insígnias de Grã-Cruz\n\n1 - Com a Banda de Grã-Cruz é usada sempre a respectiva placa.\n\n2 - Nos casos da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito e da Ordem Militar de Sant'Iago da Espada, os agraciados com a Grã-Cruz podem usar, em simultâneo, a banda de Grã-Cruz e o colar correspondente, ou apenas este, mas sempre acompanhado da respectiva placa."
+  },
+  "166079022": {
+   "fragment_id": "166078945",
+   "type": 11,
+   "heading": "Artigo 59.º — Uso de distintivos e insígnias nacionais e estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Uso de distintivos e insígnias nacionais e estrangeiras\n\n1 - As insígnias das condecorações nacionais precedem as estrangeiras e as das Ordens Honoríficas Portuguesas são colocadas, da direita para a esquerda, no lado esquerdo do peito, pela seguinte ordem de precedência:\n\nTorre e Espada, do Valor, Lealdade e Mérito;\n\nCristo;\n\nAvis;\n\nSant'Iago da Espada;\n\nInfante D. Henrique;\n\nLiberdade;\n\nMérito;\n\nInstrução Pública;\n\nMérito Empresarial.\n\n2 - Quando as insígnias das condecorações não se contenham numa só linha, a ordem de precedência começa pela linha superior.\n\n3 - Por ocasião de um encontro diplomático, o agraciado com condecorações do país com quem se realiza o encontro pode usá-las em simultâneo com condecorações nacionais, precedendo nesse caso a condecoração estrangeira.\n\n4 - Com trajo civil que não seja de gala:\n\na) Os detentores do grau de Cavaleiro podem usar, no lado esquerdo do peito, uma fita das cores da ordem;\n\nb) Os agraciados com os graus de Oficial, Comendador, Grande-Oficial e Grã-Cruz podem usar, respectivamente e também no lado esquerdo do peito, uma roseta de 8 mm de diâmetro, com as cores da respectiva Ordem, a qual tem galão de prata para os comendadores, de ouro e prata para os grandes-oficiais e de ouro para os Grã-Cruzes; e os agraciados com o Grande-Colar, uma roseta de 12 mm de diâmetro, com as cores da Ordem, filetada interiormente de ouro.\n\n5 - Nas cerimónias solenes, os agraciados com diversas condecorações podem usar as miniaturas dos respectivos distintivos e fitas suspensas de uma corrente ou de uma pequena barra metálica, colocada no topo do peito, do lado esquerdo dos uniformes ou dos vestidos, ou na lapela esquerda dos trajos ou uniformes adequados.\n\n6 - Nos uniformes em que é permitido o uso de fitas são elas aplicadas, sem fivelas, numa ou mais placas metálicas colocadas horizontalmente, sem intervalo, sobrepondo-se às fitas as rosetas definidas na alínea b) do n.º 4 para o respectivo grau.\n\n7 - As miniaturas das senhoras podem suspender de um pequeno laço das cores da Ordem."
+  },
+  "166079023": {
+   "fragment_id": "166078946",
+   "type": 1,
+   "heading": "Capítulo IX — Uso indevido de condecorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Uso indevido de condecorações"
+  },
+  "166079024": {
+   "fragment_id": "166078947",
+   "type": 11,
+   "heading": "Artigo 60.º — Uso indevido de distintivos e insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Uso indevido de distintivos e insígnias\n\n1 - Sem prejuízo do disposto no artigo 67.º da presente lei, em todo o território nacional, nos postos diplomáticos de Portugal e a bordo de aeronaves ou embarcações de pavilhão nacional é vedado aos cidadãos nacionais o uso de insígnias das Ordens Honoríficas Portuguesas que não tenham sido conferidas pelo Presidente da República, ou de Ordens estrangeiras cuja aceitação não tenha sido autorizada pelo mesmo, quando tal seja legalmente necessário.\n\n2 - Aos cidadãos nacionais e aos estrangeiros em Portugal é também vedado o uso, em público, de quaisquer insígnias de ordens honoríficas não instituídas pela República Portuguesa e pelos Estados e entidades, internacionalmente reconhecidos, que detenham tal poder.\n\n3 - Nos casos referidos nos números anteriores, os infractores ficam sujeitos à responsabilidade criminal por abuso de designação, sinal ou uniforme, prevista no Código Penal."
+  },
+  "166079025": {
+   "fragment_id": "166078948",
+   "type": 1,
+   "heading": "Capítulo X — Aceitação de condecorações estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Aceitação de condecorações estrangeiras"
+  },
+  "166079026": {
+   "fragment_id": "166078949",
+   "type": 11,
+   "heading": "Artigo 61.º — Pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Pedido de autorização\n\n1 - O pedido de autorização para aceitar condecorações estrangeiras é dirigido ao Presidente da República, com a indicação do nome, profissão e residência do requerente, bem como dos necessários elementos de identificação do agraciamento, e apresentado, com o respectivo diploma, na Chancelaria da Ordem ou a esta endereçado.\n\n2 - O pedido, instruído com as informações necessárias do Ministério dos Negócios Estrangeiros, é submetido a despacho do Presidente da República.\n\n3 - O despacho de autorização para a aceitação da condecoração estrangeira é publicado no Diário da República, 2.ª série, e comunicado ao interessado e à Chancelaria das Ordens Honoríficas Portuguesas para efeitos de registo do respectivo diploma de agraciamento."
+  },
+  "166079027": {
+   "fragment_id": "166078950",
+   "type": 11,
+   "heading": "Artigo 62.º — Dispensa do pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Dispensa do pedido de autorização\n\n1 - Estão dispensados do pedido de autorização para aceitação de condecorações estrangeiras, sem prejuízo do registo dos respectivos diplomas de agraciamento, o Presidente da República e o seu cônjuge, os presidentes dos demais órgãos de soberania e dos órgãos de governo próprio das Regiões Autónomas, os membros do Governo, os chefes dos estados-maiores das Forças Armadas, bem como o pessoal da Presidência da República e dos gabinetes das entidades anteriormente referidas, quando agraciados, uns e outros, nessa qualidade.\n\n2 - O disposto no número anterior é extensivo às entidades integradas nas comitivas do Presidente da República, do Presidente da Assembleia da República ou do Primeiro-Ministro em actos oficiais no estrangeiro ou agraciados por ocasião de encontros de natureza diplomática em Portugal."
+  },
+  "166079028": {
+   "fragment_id": "166078951",
+   "type": 1,
+   "heading": "Capítulo XI — Chancelaria das Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Chancelaria das Ordens Honoríficas Portuguesas"
+  },
+  "166079029": {
+   "fragment_id": "166078952",
+   "type": 11,
+   "heading": "Artigo 63.º — Natureza e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Natureza e finalidade\n\n1 - A Chancelaria das Ordens Honoríficas Portuguesas é o serviço destinado a assegurar o regular funcionamento das Ordens, integrado na Presidência da República e dirigido pelo respectivo Secretário-Geral, que, por inerência, será o Secretário-Geral das Ordens.\n\n2 - A Chancelaria das Ordens está a cargo de um coordenador nomeado pelo Secretário-Geral da Presidência da República de entre o pessoal da Secretaria-Geral."
+  },
+  "166079030": {
+   "fragment_id": "166078953",
+   "type": 11,
+   "heading": "Artigo 64.º — Competência do Secretário-Geral das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Competência do Secretário-Geral das Ordens\n\nCompete ao Secretário-Geral das Ordens:\n\na) Manter o Presidente da República ao corrente das deliberações dos Conselhos das Ordens e submeter a seu despacho as propostas que dependerem da sua resolução;\n\nb) Assistir tecnicamente os Conselhos das Ordens;\n\nc) Secretariar, sem voto, as reuniões de todos os Conselhos e assistir os Chanceleres na execução das deliberações tomadas, ficando a seu cargo a redacção e arquivo das respectivas actas;\n\nd) Superintender os serviços da Chancelaria das Ordens;\n\ne) Promover quaisquer estudos e trabalhos de investigação com vista ao esclarecimento de assuntos respeitantes às Ordens, nomeadamente a organização de um arquivo histórico, donde conste o nome e outros elementos relativos a individualidades agraciadas."
+  },
+  "166079031": {
+   "fragment_id": "166078954",
+   "type": 11,
+   "heading": "Artigo 65.º — Competência da Chancelaria das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Competência da Chancelaria das Ordens\n\nCompete à Chancelaria das Ordens:\n\na) Assegurar o expediente relativo às Ordens Honoríficas;\n\nb) Registar todas as condecorações concedidas, bem como as autorizações de aceitação de condecorações estrangeiras a cidadãos portugueses e essas mesmas, quando a autorização seja legalmente dispensada;\n\nc) Promover a organização de publicações no âmbito da sua competência, nomeadamente o Anuário das Ordens Honoríficas Portuguesas;\n\nd) Promover a divulgação pública da informação relativa às Ordens Honoríficas Portuguesas, aos agraciamentos e à respectiva base de dados através do sítio da Internet da Chancelaria das Ordens;\n\ne) Desempenhar as tarefas administrativas necessárias ao regular funcionamento das Ordens."
+  },
+  "166079032": {
+   "fragment_id": "166078955",
+   "type": 11,
+   "heading": "Artigo 66.º — Apoio técnico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Apoio técnico e administrativo\n\nA Chancelaria das Ordens é apoiada técnica e administrativamente pelos serviços competentes da Secretaria-Geral da Presidência da República."
+  },
+  "166079033": {
+   "fragment_id": "166078956",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Disposições transitórias e finais"
+  },
+  "166079034": {
+   "fragment_id": "166078957",
+   "type": 11,
+   "heading": "Artigo 67.º — Extinta Ordem do Império",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Extinta Ordem do Império\n\nOs agraciados com a extinta Ordem do Império mantêm o direito ao uso das respectivas insígnias."
+  },
+  "166079035": {
+   "fragment_id": "166078958",
+   "type": 11,
+   "heading": "Artigo 68.º — Esboços das insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Esboços das insígnias\n\nOs esboços das insígnias descritas no articulado da presente lei constam do anexo, que dela faz parte integrante."
+  },
+  "166079036": {
+   "fragment_id": "166078959",
+   "type": 11,
+   "heading": "Artigo 69.º — Mandatos dos Chanceleres e dos vogais dos Conselhos das Ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Mandatos dos Chanceleres e dos vogais dos Conselhos das Ordens\n\nOs mandatos dos Chanceleres e dos vogais dos Conselhos das Ordens actualmente em funções cessam com o termo do mandato presidencial em curso."
+  },
+  "166079037": {
+   "fragment_id": "166078960",
+   "type": 11,
+   "heading": "Artigo 70.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Revogações\n\nSão revogados:\n\na) Os Decretos-Leis n.os 414-A/86, de 15 de Dezembro, 85/88, de 10 de Março, e 80/91, de 19 de Fevereiro;\n\nb) Os Decretos Regulamentares n.os 71-A/86, de 15 de Dezembro, 12/88, de 10 de Março, 18/89, de 6 de Julho, 15/90, de 8 de Junho, 4/91, de 19 de Fevereiro, e 12/2003, de 29 de Maio."
+  },
+  "166079038": {
+   "fragment_id": "166078961",
+   "type": 11,
+   "heading": "Artigo 71.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Entrada em vigor\n\nA presente lei entra em vigor no dia da posse do Presidente da República eleito no início do ano em curso."
+  },
+  "166079040": {
+   "fragment_id": "166078963",
+   "type": 14,
+   "heading": "Anexo — Esboços das insígnias das Ordens Honoríficas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Esboços das insígnias das Ordens Honoríficas Portuguesas\n\nBanda das Três Ordens\n\n(ver documento original)\n\nOrdem Militar da Torre e Espada, do Valor, Lealdade e Mérito\n\n(ver documento original)\n\nOrdem Militar de Cristo\n\n(ver documento original)\n\nOrdem Militar de Avis\n\n(ver documento original)\n\nOrdem Militar de Sant'Iago da Espada\n\n(ver documento original)\n\nOrdem do Infante D. Henrique\n\n(ver documento original)\n\nOrdem da Liberdade\n\n(ver documento original)\n\nOrdem do Mérito\n\n(ver documento original)\n\nOrdem da Instrução Pública\n\n(ver documento original)\n\nOrdem do Mérito Empresarial\n\nClasse do Mérito Agrícola\n\n(ver documento original)\n\nClasse do Mérito Comercial\n\n(ver documento original)\n\nClasse do Mérito Industrial\n\n(ver documento original)"
+  },
+  "166079042": {
+   "fragment_id": "165950872",
+   "type": 11,
+   "heading": "Artigo 2.º — Ordens Honoríficas Portuguesas",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 2.º — Ordens Honoríficas Portuguesas\n\nAs Ordens Honoríficas Portuguesas são as seguintes:\n\na) Antigas Ordens Militares:\n\nDa Torre e Espada, do Valor, Lealdade e Mérito;\n\nDe Cristo;\n\nDe Avis;\n\nDe Sant'Iago da Espada;\n\nb) Ordens Nacionais:\n\nDo Infante D. Henrique;\n\nDa Liberdade;\n\nDe Camões;\n\nc) Ordens de Mérito Civil:\n\nDo Mérito;\n\nDa Instrução Pública;\n\nDo Mérito Empresarial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079043": {
+   "fragment_id": "166078887",
+   "type": 11,
+   "heading": "Artigo 14.º — Graus",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 14.º — Graus\n\nOs graus da Ordem Militar de Cristo são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079044": {
+   "fragment_id": "166078888",
+   "type": 11,
+   "heading": "Artigo 15.º — Distintivo e insígnias",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 15.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem Militar de Cristo é uma cruz latina, pátea, de esmalte vermelho, perfilada de ouro, carregada de cruz latina de esmalte branco, e a fita vermelha.\n\n2 - As insígnias da Ordem Militar de Cristo são as seguintes:\n\na) Colar, formado por cruzes singelas da Ordem, de 23 mm x 30 mm, alternadas e encadeadas com esferas armilares, douradas, de 30 mm de diâmetro, suspensas em corrente dupla de elos simples, dourada; ao centro, duas capelas de carrasqueira, secantes e douradas, com 60 mm x 90 mm; o colar, todo em ouro, tem pendente a cruz da Ordem, perfilada de ouro, com 45 mm x 60 mm, circundada por um festão, de recorte aberto, de folhas de louro com os seus frutos, atado com fitas cruzadas nos topos e nos lados, também de ouro, com 52 mm x 65 mm de diâmetro;\n\nb) Banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 55 mm x 43 mm;\n\nc) Placa dourada em raios, com 70 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, perfilado de ouro e circundado de um festão de louro de ouro;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n3 - As insígnias dos restantes graus da Ordem Militar de Cristo são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 55 mm x 43 mm; e placa dourada em raios, com 70 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, perfilado de ouro e circundado de um festão de louro de ouro;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: a cruz singela, com 38 mm x 28 mm, suspensa de uma fita, de 30 mm, com fivela dourada, ou de laço, da mesma largura, para as senhoras, tendo sobre a fivela ou sobre o nó do laço uma roseta, da cor da fita, com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: insígnia idêntica à de Oficial, sem roseta.\n\n4 - Nos actos solenes, os condecorados com os graus de Oficial e Cavaleiro podem usar, pendente do pescoço por uma fita da cor da Ordem, o distintivo com as dimensões indicadas no número anterior para o grau de Comendador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079045": {
+   "fragment_id": "166078891",
+   "type": 11,
+   "heading": "Artigo 17.º — Graus e quadro",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 17.º — Graus e quadro\n\n1 - Os graus da Ordem Militar de Avis são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama.\n\n2 - A Ordem Militar de Avis tem um quadro, aprovado por decreto do Presidente da República, com a disponibilidade máxima de agraciados em cada momento para cada um dos graus, com excepção do de Cavaleiro ou Dama, que pode ser concedido em número ilimitado.\n\n3 - Os cidadãos estrangeiros a quem seja concedida a Ordem Militar de Avis são considerados membros honorários e não são contabilizados no número máximo de agraciados do quadro da Ordem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079046": {
+   "fragment_id": "166078892",
+   "type": 11,
+   "heading": "Artigo 18.º — Distintivo e insígnias",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 18.º — Distintivo e insígnias\n\n1 - O distintivo da Ordem Militar de Avis é uma cruz florida, de esmalte verde, perfilada de ouro, e a fita verde.\n\n2 - As insígnias do Grande-Colar da Ordem Militar de Avis são as seguintes:\n\na) Colar, formado por cruzes singelas da Ordem, de 23 mm x 30 mm, alternadas e encadeadas com leões-marinhos alados, segurando na garra dextra uma espada antiga, de ouro, circundado por uma coroa de ramos de oliveira frutados de verde-escuro, de ouro, de 30 mm de diâmetro, suspensas em corrente dupla, dourada; ao centro, duas capelas de pilriteiro, secantes e douradas, com 40 mm x 110 mm; o colar, todo em ouro, tem pendente a cruz da Ordem, perfilada de ouro, com 45 mm x 60 mm, circundada por um festão, de recorte aberto, de folhas de louro com os seus frutos, atado com fitas cruzadas nos topos e nos lados, também de ouro, com 52 mm x 65 mm;\n\nb) Banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 50 mm x 40 mm;\n\nc) Placa dourada em raios abrilhantados, com 85 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, filetado de ouro e circundado de um festão de louro de ouro;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n3 - As insígnias dos restantes graus da Ordem Militar de Avis são as seguintes:\n\na) Grã-Cruz: banda de seda da cor da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 50 mm x 40 mm; e placa dourada em raios abrilhantados, com 85 mm de diâmetro, tendo ao centro um círculo de esmalte branco carregado da cruz da Ordem, filetado de ouro e circundado de um festão de louro de ouro;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao de Grã-Cruz, suspenso de fita pendente do pescoço, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: cruz singela, com 38 mm x 28 mm, suspensa de uma fita, de 30 mm, com fivela dourada, tendo sobre a fivela uma roseta, da cor da fita, com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: a insígnia idêntica à de Oficial, sem roseta.\n\n4 - As senhoras agraciadas com a Ordem Militar de Avis podem usar a insígnia pendente de um laço, que é de 40 mm para as insígnias de Grande-Oficial ou Comendador e de 30 mm para as de Oficial ou Dama.\n\n5 - Nos actos solenes, os condecorados com os graus de Oficial e Cavaleiro podem usar, pendente do pescoço por uma fita da cor da Ordem, o distintivo com as dimensões indicadas no n.º 2 para o grau de Comendador.\n\n6 - Na ordem de precedência das diferentes modalidades da medalha militar, as insígnias da Ordem Militar de Avis são colocadas imediatamente após as da Ordem Militar de Cristo e as desta a seguir à medalha de cruz de guerra.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079050": {
+   "fragment_id": "166078901",
+   "type": 8,
+   "heading": "Secção I — Ordem do Infante D. Henrique",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Ordem do Infante D. Henrique"
+  },
+  "166079051": {
+   "fragment_id": "166078905",
+   "type": 8,
+   "heading": "Secção II — Ordem da Liberdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ordem da Liberdade"
+  },
+  "166079049": {
+   "fragment_id": "166078965",
+   "type": 8,
+   "heading": "Secção III — Ordem de Camões",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "#### Secção III — Ordem de Camões\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079053": {
+   "fragment_id": "166078966",
+   "type": 11,
+   "heading": "Artigo 30.º-A — Finalidade específica",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 30.º-A — Finalidade específica\n\nA Ordem de Camões destina-se a distinguir quem tiver prestado:\n\na) Serviços relevantes à língua portuguesa e à sua projeção no mundo e à intensificação das relações culturais entre os povos e as comunidades que se exprimem em português;\n\nb) Serviços relevantes para a conservação dos laços das comunidades portuguesas com Portugal.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079054": {
+   "fragment_id": "166078967",
+   "type": 11,
+   "heading": "Artigo 30.º-B — Graus",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 30.º-B — Graus\n\nOs graus da Ordem de Camões são os seguintes:\n\na) Grande-Colar;\n\nb) Grã-Cruz;\n\nc) Grande-Oficial;\n\nd) Comendador;\n\ne) Oficial;\n\nf) Cavaleiro ou Dama.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079055": {
+   "fragment_id": "166078968",
+   "type": 11,
+   "heading": "Artigo 30.º-C — Distintivo e insígnias",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 30.º-C — Distintivo e insígnias\n\n1 - O distintivo da Ordem de Camões é um medalhão, de ouro, carregado ao centro, por um círculo de esmalte azul, filetado a ouro pelo exterior, com a efígie de Luís Vaz de Camões, de ouro, em relevo, envolvido por uma coroa de ramos de carvalho com os seus frutos, atada com fitas cruzadas na base, de esmalte verde e realçada de ouro, sendo o todo assente sobre timão de ouro.\n\n2 - No reverso do medalhão, ao centro e em campo de ouro, o escudo nacional sobre uma esfera armilar, com a legenda 'Aqueles que por obras valerosas se vão da lei da morte libertando * Luís Vaz de Camões * Os Lusíadas', em letras maiúsculas em relevo, sendo a fita tripartida disposta em palas, sendo a do centro azul-marinho e as laterais de cor amarela, de largura igual a 2/3 da parte azul.\n\n3 - As insígnias de Grande-Colar da Ordem de Camões são as seguintes:\n\na) Colar, de ouro, formado alternadamente por coroas de louros de esmalte verde perfiladas e frutadas, de 20 mm de diâmetro, e por um livro aberto (Os Lusíadas), carregado por uma pena, de ouro, com 25 mm x 38 mm, em argolas de ouro ovais, tendo pendente e encadeado uma coroa de ramos de carvalho, com 25 mm x 32 mm e o distintivo da Ordem, com 60 mm de diâmetro;\n\nb) Banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o laço o distintivo da Ordem, com 50 mm de diâmetro;\n\nc) Placa dourada, de oito raios abrilhantados, com 80 mm de diâmetro, tendo ao centro o medalhão central do distintivo da Ordem.\n\n4 - As insígnias dos restantes graus da Ordem de Camões são as seguintes:\n\na) Grã-Cruz: banda de seda das cores da Ordem, com largura de 100 mm para homem e de 60 mm para senhora, posta a tiracolo da direita para a esquerda, tendo pendente sobre o distintivo da Ordem, com 50 mm de diâmetro, encimado por uma coroa de carvalho, com as dimensões adequadas e placa dourada de oito raios abrilhantados, com 80 mm de diâmetro, onde figura, ao centro, o medalhão central do distintivo da Ordem;\n\nb) Grande-Oficial: o distintivo da Ordem, de tamanho idêntico ao da Grã-Cruz, suspenso de fita pendente do pescoço, com largura de 30 mm, ou de laço, de 40 mm, para as senhoras, e placa igual à de Grã-Cruz;\n\nc) Comendador: insígnia idêntica à de Grande-Oficial, com placa prateada;\n\nd) Oficial: o distintivo da Ordem, com 40 mm de diâmetro no seu todo, suspenso de fita da Ordem, de 30 mm e fivela dourada, ou de laço, da mesma largura, tendo sobre a fivela ou sobre o nó do laço uma roseta das cores da fita com 10 mm de diâmetro;\n\ne) Cavaleiro ou Dama: insígnia idêntica à de Oficial, sem roseta.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079047": {
+   "fragment_id": "166078945",
+   "type": 11,
+   "heading": "Artigo 59.º — Uso de distintivos e insígnias nacionais e estrangeiras",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "###### Artigo 59.º — Uso de distintivos e insígnias nacionais e estrangeiras\n\n1 - As insígnias das condecorações nacionais precedem as estrangeiras e as das Ordens Honoríficas Portuguesas são colocadas, da direita para a esquerda, no lado esquerdo do peito, pela seguinte ordem de precedência:\n\nTorre e Espada, do Valor, Lealdade e Mérito;\n\nCristo;\n\nAvis;\n\nSant'Iago da Espada;\n\nInfante D. Henrique;\n\nLiberdade;\n\nCamões;\n\nMérito;\n\nInstrução Pública;\n\nMérito Empresarial.\n\n2 - Quando as insígnias das condecorações não se contenham numa só linha, a ordem de precedência começa pela linha superior.\n\n3 - Por ocasião de um encontro diplomático, o agraciado com condecorações do país com quem se realiza o encontro pode usá-las em simultâneo com condecorações nacionais, precedendo nesse caso a condecoração estrangeira.\n\n4 - Com trajo civil que não seja de gala:\n\na) Os detentores do grau de Cavaleiro podem usar, no lado esquerdo do peito, uma fita das cores da ordem;\n\nb) Os agraciados com os graus de Oficial, Comendador, Grande-Oficial e Grã-Cruz podem usar, respectivamente e também no lado esquerdo do peito, uma roseta de 8 mm de diâmetro, com as cores da respectiva Ordem, a qual tem galão de prata para os comendadores, de ouro e prata para os grandes-oficiais e de ouro para os Grã-Cruzes; e os agraciados com o Grande-Colar, uma roseta de 12 mm de diâmetro, com as cores da Ordem, filetada interiormente de ouro.\n\n5 - Nas cerimónias solenes, os agraciados com diversas condecorações podem usar as miniaturas dos respectivos distintivos e fitas suspensas de uma corrente ou de uma pequena barra metálica, colocada no topo do peito, do lado esquerdo dos uniformes ou dos vestidos, ou na lapela esquerda dos trajos ou uniformes adequados.\n\n6 - Nos uniformes em que é permitido o uso de fitas são elas aplicadas, sem fivelas, numa ou mais placas metálicas colocadas horizontalmente, sem intervalo, sobrepondo-se às fitas as rosetas definidas na alínea b) do n.º 4 para o respectivo grau.\n\n7 - As miniaturas das senhoras podem suspender de um pequeno laço das cores da Ordem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  },
+  "166079039": {
+   "fragment_id": "166078962",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de Janeiro de 2011.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 16 de Fevereiro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de Fevereiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "166079048": {
+   "fragment_id": "166078963",
+   "type": 14,
+   "heading": "Anexo — Esboços das insígnias das Ordens Honoríficas Portuguesas",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+   ],
+   "markdown": "## Anexo — Esboços das insígnias das Ordens Honoríficas Portuguesas\n\nBanda das Três Ordens\n\n(ver documento original)\n\nOrdem Militar da Torre e Espada, do Valor, Lealdade e Mérito\n\n(ver documento original)\n\nOrdem Militar de Cristo\n\n(ver documento original)\n\nOrdem Militar de Avis\n\n(ver documento original)\n\nOrdem Militar de Sant'Iago da Espada\n\n(ver documento original)\n\nOrdem do Infante D. Henrique\n\n(ver documento original)\n\nOrdem da Liberdade\n\n(ver documento original)\n\nOrdem de Camões\n\n(ver documento original)\n\nOrdem do Mérito\n\n(ver documento original)\n\nOrdem da Instrução Pública\n\n(ver documento original)\n\nOrdem do Mérito Empresarial\n\nClasse do Mérito Agrícola\n\n(ver documento original)\n\nClasse do Mérito Comercial\n\n(ver documento original)\n\nClasse do Mérito Industrial\n\n(ver documento original)\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 55/2021 - Diário da República n.º 124/2021, Série I de 2021-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2021-165950845), em vigor a partir de 2021-06-30"
+  }
+ }
+}

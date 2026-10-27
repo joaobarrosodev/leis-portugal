@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:378112:por
+title: Portaria n.º 1005/82
+short_title: null
+summary: Altera a Portaria n.º 588/82, de 16 de Junho, que determina os benefícios a atribuir aos titulares da Carta de Exportador
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação
+proposing_entity: null
+official_number: 1005/82
+official_date: null
+publication_date: '1982-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1982, Série I de 1982-10-28
+  number: '250'
+  series: I
+  supplement: null
+  pages: 3572 - 3572
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25000/35723572.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378112'
+  dre_path: /dr/detalhe/portaria/1005-1982-378112
+  internal: pt:dre:378112:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1005-1982-378112
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1005-1982-378112
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:59:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f1d3aa36de3c30a25959df35ea690ee59902cd4437352aab701ef497820e560e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carta de Exportador
+- Comércio Externo
+- Empresa
+- Exportação
+relationships:
+- type: cites
+  target: pt:dre:395898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607341:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:59:58Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1005/82
+
+de 28 de Outubro
+
+Considerando importante proceder a alguns ajustamentos à [Portaria n.º 588/82](https://diariodarepublica.pt/dr/detalhe/portaria/588-1982-395898), publicada no Diário da República, 1.ª série, n.º 136, de 16 de Junho, e que determina os benefícios a atribuir, durante o 2.º semestre de 1982, aos titulares da Carta de Exportador:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Indústria, Energia e Exportação, que lhe sejam introduzidas as seguintes alterações:
+
+1.º O n.º 6.º passa a ter a seguinte redacção:
+
+6.º:
+
+a) Os benefícios estabelecidos no n.º 1.º aplicar-se-ão às operações de crédito com início a partir de 1 de Julho de 1982, quer as empresas tenham optado por plafond anual ou semestral;
+
+A retroactividade a 1 de Julho de 1982 dos restantes benefícios previstos na presente portaria será precedida de proposta casuística, a qual terá em conta a possibilidade da aplicação deste princípio;
+
+O disposto nas alíneas anteriores será aplicado às empresas que formalizem a respectiva candidatura à Carta de Exportador, nos termos do disposto nos n.os 1 e 2 do artigo 9.º do [Decreto-Lei n.º 116/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1982-607341), de 15 de Abril, até 15 dias após a publicação desta portaria;
+
+d) Quando a formalização da candidatura à Carta de Exportador tenha lugar após a data referida na alínea anterior, a atribuição dos benefícios terá lugar a partir da data de outorga da Carta.
+
+2.º O n.º 7.º passa a ser o n.º 8.º
+
+3.º São aditados os seguintes números:
+
+7.º Sempre que os titulares da Carta de Exportador sejam agrupamentos de empresas para a exportação, qualquer que seja a forma jurídica que revistam estas sociedades, poderá verificar-se uma transferência de benefícios para as empresas agrupadas, a qual deve ser explicitada na Carta de Exportador outorgada.
+
+9.º A presente portaria vigora até 31 de Dezembro de 1982.
+
+Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação, 15 de Outubro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta.

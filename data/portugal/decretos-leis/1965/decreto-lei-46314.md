@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:236703:por
+title: Decreto-Lei n.º 46314
+short_title: null
+summary: Autoriza o Ministro das Finanças, mediante prévia informação favorável do Secretário de Estado do Comércio, a isentar
+  de direitos as importações de azeite para abastecimento público, realizadas pela Junta Nacional do Azeite, até ao limite
+  de 30000 t
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: '46314'
+official_date: null
+publication_date: '1965-04-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 93/1965, Série I de 1965-04-28
+  number: '93'
+  series: I
+  supplement: null
+  pages: 604 - 604
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/04/09300/06040604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '236703'
+  dre_path: /dr/detalhe/decreto-lei/46314-1965-236703
+  internal: pt:dre:236703:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46314-1965-236703
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46314-1965-236703
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3041bd2e9fa84ff80809ea3035ba106123b0ee69dcc2cd0d7da7a2f4ef0952c3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Azeite
+- Contribuições e Impostos
+- Definição de Competências
+- Direitos Aduaneiros
+- Junta Nacional do Azeite
+- Ministro das Finanças
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:53:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46314
+
+Prevê-se que o volume da produção de azeite no presente ano cultural não seja suficiente para assegurar a completa satisfação do consumo interno;
+
+Na base de uma tal previsão, e tendo em vista garantir a regularidade do abastecimento público, foi considerado indispensável promover a compra de azeite estrangeiro;
+
+A fim de atenuar os prejuízos decorrentes desta importação, cuja realização foi confiada à Junta Nacional do Azeite, torna-se necessário que a mesma beneficie da isenção dos respectivos direitos aduaneiros;
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Fica autorizado o Ministro das Finanças, mediante prévia informação favorável do Secretário de Estado do Comércio, a isentar de direitos as importações de azeite para abastecimento público, realizadas pela Junta Nacional do Azeite, até ao limite de 30000 t.
+
+Art. 2.º Fica igualmente autorizado o Ministro das Finanças, nas condições do artigo anterior, a isentar de direitos de importação os bidões que acondicionam aquele produto.
+
+Art. 3.º O disposto nos artigos anteriores é também de aplicar às importações de azeite já efectuadas no ano de 1964 pela Junta Nacional do Azeite.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 28 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:392265:por
+title: Decreto n.º 5/79
+short_title: null
+summary: Revoga o Decreto n.º 385/74, de 26 de Agosto, que sujeitou a servidão militar uma faixa de terreno confinante com
+  o perímetro reservado a um quartel em Coina
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministérios da Defesa Nacional, da Administração Interna e da Habitação e Obras Públicas
+proposing_entity: null
+official_number: 5/79
+official_date: null
+publication_date: '1979-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/1979, Série I de 1979-01-19
+  number: '16'
+  series: I
+  supplement: null
+  pages: 71 - 71
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/01/01600/00710071.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392265'
+  dre_path: /dr/detalhe/decreto/5-1979-392265
+  internal: pt:dre:392265:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1979-392265
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1979-392265
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3d513b3fe6f9679a4d9c2660e8a45ce5a655a4a481704c099d3f865ce93790db
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Barreiro
+- Exército
+- Instalação Militar
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:475727:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:53:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 5/79
+
+de 19 de Janeiro
+
+Considerando não serem já necessários ao Departamento do Exército os terrenos localizados em Coina, do concelho do Barreiro, previstos para a construção de um quartel;
+
+Considerando, por isso, a necessidade de libertar os particulares dos condicionamentos a que estão sujeitos pela existência da servidão militar que, entretanto, foi criada:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Artigo único. É revogado o [Decreto n.º 385/74](https://diariodarepublica.pt/dr/detalhe/decreto/385-1974-475727), de 26 de Agosto, que criou a servidão militar para protecção dos terrenos onde se previu viria a ser construído um quartel, situados na região de Coina, do concelho do Barreiro.
+
+Carlos Alberto da Mota Pinto - José Alberto Loureiro dos Santos - António Gonçalves Ribeiro - João Orlindo Almeida Pina.
+
+Promulgado em 8 de Janeiro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

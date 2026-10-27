@@ -1,0 +1,342 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:647290:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-105367432",
+ "dre_path": "/dr/detalhe/portaria/349-b-2013-647290",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "150661633",
+    "105362542",
+    "105362543"
+   ]
+  },
+  {
+   "date": "2015-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70789581:por",
+     "title": "Portaria n.º 379-A/2015",
+     "published": "2015-10-22",
+     "dre_path": "/dr/detalhe/portaria/379-a-2015-70789581"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "105362541",
+    "105771781",
+    "105362543",
+    "105362544"
+   ]
+  },
+  {
+   "date": "2016-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105371722:por",
+     "title": "Portaria n.º 319/2016",
+     "published": "2016-12-15",
+     "dre_path": "/dr/detalhe/portaria/319-2016-105371722"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "105362541",
+    "121924683",
+    "121924689",
+    "121924685",
+    "121924686"
+   ]
+  },
+  {
+   "date": "2019-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121854639:por",
+     "title": "Portaria n.º 98/2019",
+     "published": "2019-04-02",
+     "dre_path": "/dr/detalhe/portaria/98-2019-121854639"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "105362541",
+    "121924687",
+    "121924684",
+    "121924685",
+    "121924688"
+   ]
+  },
+  {
+   "date": "2019-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124539913:por",
+     "title": "Portaria n.º 297/2019",
+     "published": "2019-09-09",
+     "dre_path": "/dr/detalhe/portaria/297-2019-124539913"
+    }
+   ],
+   "changes": [
+    "Adita Anexo II",
+    "Altera Artigo 1.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "105362541",
+    "124569044",
+    "121924689",
+    "121924685",
+    "124569045",
+    "124569043"
+   ]
+  },
+  {
+   "date": "2020-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150570704:por",
+     "title": "Decreto-Lei n.º 101-D/2020",
+     "published": "2020-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/101-d-2020-150570704"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "150661633",
+    "150661634",
+    "150661635",
+    "150661636",
+    "150661637",
+    "150661638"
+   ]
+  }
+ ],
+ "fragments": {
+  "150661633": {
+   "fragment_id": "105367433",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-12-08",
+   "changed_by": [],
+   "markdown": "Portaria n.º 349-B/2013\n\nde 29 de novembro\n\nO Decreto-Lei n.º 118/2013, de 20 de agosto, aprovou o Sistema de Certificação Energética dos Edifícios, o Regulamento de Desempenho Energético dos Edifícios de Habitação e o Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços, transpondo ainda a Diretiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0031\" title=\"Link para Directiva da Comunidade Europeia\">2010/31/UE</a>, do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa ao desempenho energético dos edifícios.\n\nImporta agora, no desenvolvimento daquele decreto-lei, definir a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados do Sistema de Certificação Energética dos Edifícios (SCE), bem como os requisitos de comportamento técnico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a grande intervenção.\n\nAssim:\n\nAo abrigo do disposto no Regulamento de Desempenho Energético dos Edifícios de Habitação (REH), publicado pelo Decreto-Lei n.º 118/2013, de 20 de agosto, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:"
+  },
+  "105362542": {
+   "fragment_id": "105367434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE, bem como os requisitos de comportamento técnico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a grande intervenção.\n\n2 - O Anexo constante da presente portaria e que dela faz parte integrante, é aprovado nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto:\n\na) Para os efeitos do n.º 5 do artigo 15.º;\n\nb) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 26.º;\n\nc) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 5 do artigo 27.º;\n\nd) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 28.º;\n\ne) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 6 do artigo 29.º"
+  },
+  "105362543": {
+   "fragment_id": "105367435",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "105362541": {
+   "fragment_id": "105367433",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 349-B/2013\n\nde 29 de novembro\n\nO Decreto-Lei n.º 118/2013, de 20 de agosto, aprovou o Sistema de Certificação Energética dos Edifícios, o Regulamento de Desempenho Energético dos Edifícios de Habitação e o Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços, transpondo ainda a Diretiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0031\" title=\"Link para Directiva da Comunidade Europeia\">2010/31/UE</a>, do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa ao desempenho energético dos edifícios.\n\nImporta agora, no desenvolvimento daquele decreto-lei, definir a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados do Sistema de Certificação Energética dos Edifícios (SCE), bem como os requisitos de comportamento técnico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a grande intervenção.\n\nAssim:\n\nAo abrigo do disposto no Regulamento de Desempenho Energético dos Edifícios de Habitação (REH), publicado pelo Decreto-Lei n.º 118/2013, de 20 de agosto, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:"
+  },
+  "105771781": {
+   "fragment_id": "105367434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2015-10-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE, bem como os requisitos de comportamento técnico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a intervenções.\n\n2 - O Anexo constante na presente portaria e que dela faz parte integrante, é aprovado nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, e pelo Decreto-Lei n.º 194/2015, de 14 de setembro:\n\na) Para os efeitos do n.º 5 do artigo 15.º;\n\nb) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 26.º;\n\nc) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 5 do artigo 27.º;\n\nd) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 28.º;\n\ne) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 6 do artigo 29.º\n\n3 - Todas as operações urbanísticas, incluindo as operações urbanísticas identificadas no n.º 2 do artigo 2.º do Decreto-Lei n.º 53/2014, de 8 de abril, com a redação dada pelo Decreto-Lei n.º 194/2015, de 14 de setembro, devem cumprir os requisitos de eficiência energética e de qualidade térmica estabelecidos nos termos da presente portaria, do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, e pelo Decreto-Lei n.º 194/2015, de 14 de setembro, e demais regulamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+  },
+  "105362544": {
+   "fragment_id": "105367436",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 29 de novembro de 2013.\n\n(ver documento original)"
+  },
+  "121924683": {
+   "fragment_id": "105367434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2016-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE, bem como os requisitos de comportamento térmico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a intervenção.\n\n2 - O Anexo constante na presente portaria e que dela faz parte integrante, é aprovado nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, e pelo Decreto-Lei n.º 194/2015, de 14 de setembro:\n\na) Para os efeitos do n.º 5 do artigo 15.º;\n\nb) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 26.º;\n\nc) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 5 do artigo 27.º;\n\nd) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 28.º;\n\ne) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 6 do artigo 29.º\n\n3 - Todas as operações urbanísticas, incluindo as operações urbanísticas identificadas no n.º 2 do artigo 2.º do Decreto-Lei n.º 53/2014, de 8 de abril, com a redação dada pelo Decreto-Lei n.º 194/2015, de 14 de setembro, devem cumprir os requisitos de eficiência energética e de qualidade térmica estabelecidos nos termos da presente portaria, do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, e pelo Decreto-Lei n.º 194/2015, de 14 de setembro, e demais regulamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+  },
+  "121924689": {
+   "fragment_id": "105367435",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "121924685": {
+   "fragment_id": "105367436",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 29 de novembro de 2013.\n\n(ver documento original)"
+  },
+  "121924686": {
+   "fragment_id": "121929189",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I"
+  },
+  "121924687": {
+   "fragment_id": "105367434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2019-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE, bem como os requisitos de comportamento térmico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a intervenção.\n\n2 - O anexo constante da presente portaria e que dela faz parte integrante é aprovado nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, e pela Lei n.º 52/2018, de 20 de agosto:\n\na) Para os efeitos do n.º 5 do artigo 15.º;\n\nb) Para os efeitos do artigo 16.º;\n\nc) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 26.º;\n\nd) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 5 do artigo 27.º;\n\ne) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 28.º;\n\nf) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 6 do artigo 29.º\n\n3 - Todas as operações urbanísticas, incluindo as operações urbanísticas identificadas no n.º 2 do artigo 2.º do Decreto-Lei n.º 53/2014, de 8 de abril, com a redação dada pelo Decreto-Lei n.º 194/2015, de 14 de setembro, devem cumprir os requisitos de eficiência energética e de qualidade térmica estabelecidos nos termos da presente portaria, do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, e pela Lei n.º 52/2018, de 20 de agosto, e demais regulamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+  },
+  "121924684": {
+   "fragment_id": "105367435",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "121924688": {
+   "fragment_id": "121929189",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2019-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03"
+   ],
+   "markdown": "## Anexo I\n\n(Ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03"
+  },
+  "124569044": {
+   "fragment_id": "105367434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2019-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE, bem como os requisitos de comportamento térmico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a intervenção.\n\n2 - Os anexos constantes da presente portaria e que dela fazem parte integrante são aprovados nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, pela Lei n.º 52/2018, de 20 de agosto e pelo Decreto-Lei n.º 95/2019, de 18 de julho:\n\na) Para os efeitos do n.º 5 do artigo 15.º;\n\nb) Para os efeitos do artigo 16.º;\n\nc) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 26.º;\n\nd) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 5 do artigo 27.º;\n\ne) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 28.º;\n\nf) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 6 do artigo 29.º;\n\ng) Para os efeitos do artigo 29.º-A.\n\n3 - Todas as operações urbanísticas devem cumprir os requisitos de eficiência energética e de qualidade térmica estabelecidos nos termos da presente portaria, do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, pela Lei n.º 52/2018, de 20 de agosto e pelo Decreto-Lei n.º 95/2019, de 18 de julho e demais regulamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+  },
+  "124569045": {
+   "fragment_id": "121929189",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": "2019-11-15",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\n(Ver documento original)\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03"
+  },
+  "124569043": {
+   "fragment_id": "124539952",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 4.º)",
+   "in_force_from": "2019-11-15",
+   "changed_by": [
+    "Aditado pelo/a Anexo II do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 4.º)\n\n1 - Objeto\n\n1.1 - O presente anexo estabelece o regime especial para intervenções de reabilitação de edifícios existentes destinados total ou predominantemente ao uso habitacional ou de frações, com construção anterior à aplicação do Decreto-Lei n.º 40/90 de 6 de fevereiro, nas situações de exceção previstas nos termos previstos no n.º 5 do artigo 28.º e no n.º 5 do artigo 29.º do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, pela Lei n.º 52/2018, de 20 de agosto e pelo Decreto-Lei n.º 95/2019, de 18 de julho.\n\n2 - Âmbito de aplicação\n\n2.1 - A metodologia de certificação prevista no presente artigo é utilizada nas operações de reabilitação de edifícios destinados predominantemente ao uso habitacional ou de frações, de acordo com o Quadro I, em função do tipo de edifício e do custo da intervenção, sendo esse custo calculado nos termos definidos na portaria prevista no n.º 2 do artigo 29.º-A do Decreto-Lei n.º 118/2013, de 20 de agosto, na sua atual redação dada pelo Decreto-Lei n.º 95/2019, de 18 de julho.\n\nQUADRO I\n\nTipo de operações de reabilitação em função do tipo de edifício e do custo da intervenção\n\n(ver documento original)\n\n3 - Modelo de Aplicação e Requisitos\n\n3.1 - Nas intervenções do tipo X é exigido o cumprimento do seguinte:\n\na) Os coeficientes de transmissão térmica superficial dos elementos a intervencionar na envolvente opaca e envidraçada devem respeitar os valores máximos indicados no Quadro II.\n\nQUADRO II\n\nCoeficientes de transmissão térmica superficiais máximos admissíveis U(índice max) (W/m2K)\n\n(ver documento original)\n\nb) Os fatores solares dos vãos envidraçados horizontais e verticais da envolvente externa a intervencionar devem respeitar os valores máximos indicados no Quadro III.\n\nQUADRO III\n\nValores máximos admissíveis de g(índice Tmáx)\n\n(ver documento original)\n\n3.2 - Nas intervenções de tipo Y são utilizadas as regras de simplificação do REH, a utilizar nos edifícios sujeitos a grandes intervenções, bem como existentes, com as seguintes adaptações:\n\na) A relação entre os valores das necessidades nominais e limite de energia primária (Ntc/Nt) é, no máximo, 2,00;\n\nb) Os coeficientes de transmissão térmica superficial dos elementos a intervencionar na envolvente opaca e envidraçada devem respeitar os valores máximos indicados no Quadro II;\n\nc) Os fatores solares dos vãos envidraçados horizontais e verticais da envolvente externa a intervencionar devem respeitar os valores máximos indicados no Quadro III;\n\nd) As perdas térmicas lineares são quantificadas através do agravamento das perdas térmicas em superfície corrente do elemento construtivo onde se inserem utilizando o fator multiplicativo conforme constante no Quadro IV:\n\nQUADRO IV\n\nValores dos fatores multiplicativo para determinação de perdas térmicas lineares\n\n(ver documento original)\n\ne) Os critérios de ventilação mínimos no inverno são os definidos na norma NP 1037-1 no que se refere a:\n\ni) Obrigatoriedade de admissão de ar nos quartos e sala, com caudais de ar de 30 e 60 m3/h, respetivamente,\n\nii) Extração de ar natural em instalações sanitárias segundo os critérios da norma NP 1037-1 ou extração de ar mecânica permanente com caudais de 45 e 30 m3/h, em instalações sanitárias com e sem duche, respetivamente;\n\nf) O disposto na alínea anterior é aplicável sem prejuízo do cumprimento da taxa de renovação horária prevista no n.º 4 do artigo 28.º do Decreto-Lei n.º 118/2013, de 20 de agosto, na sua atual redação.\n\n3.3 - Nas intervenções de tipo Z é utilizado o método de cálculo do REH com as seguintes simplificações:\n\na) A relação entre os valores das necessidades nominais e limite de energia primária (Ntc/Nt) é, no máximo, 1,50;\n\nb) Os demais requisitos devem ser iguais às alíneas b), c), d), e) e f) do n.º 3.2.\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15"
+  },
+  "150661634": {
+   "fragment_id": "105367434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2020-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define a metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE, bem como os requisitos de comportamento térmico e de eficiência dos sistemas técnicos dos edifícios novos e edifícios sujeitos a intervenção.\n\n2 - Os anexos constantes da presente portaria e que dela fazem parte integrante são aprovados nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, pela Lei n.º 52/2018, de 20 de agosto e pelo Decreto-Lei n.º 95/2019, de 18 de julho:\n\na) Para os efeitos do n.º 5 do artigo 15.º;\n\nb) Para os efeitos do artigo 16.º;\n\nc) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 26.º;\n\nd) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 5 do artigo 27.º;\n\ne) Para os efeitos dos n.os 1, 2, 3 e 4 do artigo 28.º;\n\nf) Para os efeitos do n.º 1, da alínea a) do n.º 2 e dos n.os 4 e 6 do artigo 29.º;\n\ng) Para os efeitos do artigo 29.º-A.\n\n3 - Todas as operações urbanísticas devem cumprir os requisitos de eficiência energética e de qualidade térmica estabelecidos nos termos da presente portaria, do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, pela Lei n.º 52/2018, de 20 de agosto e pelo Decreto-Lei n.º 95/2019, de 18 de julho e demais regulamentos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319/2016 - Diário da República n.º 239/2016, Série I de 2016-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/319-2016-105371722), em vigor a partir de 2016-12-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2015 - Diário da República n.º 207/2015, 2º Suplemento, Série I de 2015-10-22](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2015-70789581), em vigor a partir de 2015-10-23"
+  },
+  "150661635": {
+   "fragment_id": "105367435",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": "2020-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01"
+  },
+  "150661636": {
+   "fragment_id": "105367436",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 29 de novembro de 2013.\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01"
+  },
+  "150661637": {
+   "fragment_id": "121929189",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": "2020-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\n(Ver documento original)\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2019 - Diário da República n.º 65/2019, Série I de 2019-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/98-2019-121854639), em vigor a partir de 2019-04-03"
+  },
+  "150661638": {
+   "fragment_id": "124539952",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 4.º)",
+   "in_force_from": "2020-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01",
+    "Aditado pelo/a Anexo II do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 4.º)\n\n1 - Objeto\n\n1.1 - O presente anexo estabelece o regime especial para intervenções de reabilitação de edifícios existentes destinados total ou predominantemente ao uso habitacional ou de frações, com construção anterior à aplicação do Decreto-Lei n.º 40/90 de 6 de fevereiro, nas situações de exceção previstas nos termos previstos no n.º 5 do artigo 28.º e no n.º 5 do artigo 29.º do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 68-A/2015, de 30 de abril, pelo Decreto-Lei n.º 194/2015, de 14 de setembro, pelo Decreto-Lei n.º 251/2015, de 25 de novembro, pelo Decreto-Lei n.º 28/2016, de 23 de junho, pela Lei n.º 52/2018, de 20 de agosto e pelo Decreto-Lei n.º 95/2019, de 18 de julho.\n\n2 - Âmbito de aplicação\n\n2.1 - A metodologia de certificação prevista no presente artigo é utilizada nas operações de reabilitação de edifícios destinados predominantemente ao uso habitacional ou de frações, de acordo com o Quadro I, em função do tipo de edifício e do custo da intervenção, sendo esse custo calculado nos termos definidos na portaria prevista no n.º 2 do artigo 29.º-A do Decreto-Lei n.º 118/2013, de 20 de agosto, na sua atual redação dada pelo Decreto-Lei n.º 95/2019, de 18 de julho.\n\nQUADRO I\n\nTipo de operações de reabilitação em função do tipo de edifício e do custo da intervenção\n\n(ver documento original)\n\n3 - Modelo de Aplicação e Requisitos\n\n3.1 - Nas intervenções do tipo X é exigido o cumprimento do seguinte:\n\na) Os coeficientes de transmissão térmica superficial dos elementos a intervencionar na envolvente opaca e envidraçada devem respeitar os valores máximos indicados no Quadro II.\n\nQUADRO II\n\nCoeficientes de transmissão térmica superficiais máximos admissíveis U(índice max) (W/m2K)\n\n(ver documento original)\n\nb) Os fatores solares dos vãos envidraçados horizontais e verticais da envolvente externa a intervencionar devem respeitar os valores máximos indicados no Quadro III.\n\nQUADRO III\n\nValores máximos admissíveis de g(índice Tmáx)\n\n(ver documento original)\n\n3.2 - Nas intervenções de tipo Y são utilizadas as regras de simplificação do REH, a utilizar nos edifícios sujeitos a grandes intervenções, bem como existentes, com as seguintes adaptações:\n\na) A relação entre os valores das necessidades nominais e limite de energia primária (Ntc/Nt) é, no máximo, 2,00;\n\nb) Os coeficientes de transmissão térmica superficial dos elementos a intervencionar na envolvente opaca e envidraçada devem respeitar os valores máximos indicados no Quadro II;\n\nc) Os fatores solares dos vãos envidraçados horizontais e verticais da envolvente externa a intervencionar devem respeitar os valores máximos indicados no Quadro III;\n\nd) As perdas térmicas lineares são quantificadas através do agravamento das perdas térmicas em superfície corrente do elemento construtivo onde se inserem utilizando o fator multiplicativo conforme constante no Quadro IV:\n\nQUADRO IV\n\nValores dos fatores multiplicativo para determinação de perdas térmicas lineares\n\n(ver documento original)\n\ne) Os critérios de ventilação mínimos no inverno são os definidos na norma NP 1037-1 no que se refere a:\n\ni) Obrigatoriedade de admissão de ar nos quartos e sala, com caudais de ar de 30 e 60 m3/h, respetivamente,\n\nii) Extração de ar natural em instalações sanitárias segundo os critérios da norma NP 1037-1 ou extração de ar mecânica permanente com caudais de 45 e 30 m3/h, em instalações sanitárias com e sem duche, respetivamente;\n\nf) O disposto na alínea anterior é aplicável sem prejuízo do cumprimento da taxa de renovação horária prevista no n.º 4 do artigo 28.º do Decreto-Lei n.º 118/2013, de 20 de agosto, na sua atual redação.\n\n3.3 - Nas intervenções de tipo Z é utilizado o método de cálculo do REH com as seguintes simplificações:\n\na) A relação entre os valores das necessidades nominais e limite de energia primária (Ntc/Nt) é, no máximo, 1,50;\n\nb) Os demais requisitos devem ser iguais às alíneas b), c), d), e) e f) do n.º 3.2.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 101-D/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), em vigor a partir de 2020-12-08, produz efeitos a partir de 2021-07-01\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 297/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/297-2019-124539913), em vigor a partir de 2019-11-15"
+  }
+ }
+}

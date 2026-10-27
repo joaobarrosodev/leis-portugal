@@ -1,0 +1,205 @@
+---
+schema_version: '1.0'
+id: pt:dre:538424:por
+title: Decreto Legislativo Regional n.º 6/2004/A
+short_title: null
+summary: Classifica como monumento natural regional a gruta das Torres, na ilha do Pico
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 6/2004/A
+official_date: null
+publication_date: '2004-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/2004, Série I-A de 2004-03-18
+  number: '66'
+  series: I
+  supplement: null
+  pages: 1471 - 1473
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/03/066a00/14711473.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/6/2004/03/18/a/dre/pt/html
+  oj: null
+  dre: '538424'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/6-2004-538424
+  internal: pt:dre:538424:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2004-538424
+  metadata_url: https://data.dre.pt/eli/declegreg/6/2004/03/18/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2004-538424
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:20:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b9653731a54b9ccdfbd88ad3a17657a6de2a060556d6d6295e2807a36af56be1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Contra-ordenação
+- Fiscalização
+- Gruta das Torres
+- Ilha do Pico
+- Monumento Natural
+- Proteção do Ambiente
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:456524:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:541442:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/1993/12/23/a/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: repealed_by
+  target: pt:dre:456524:por
+  label: "Revogado o presente diploma e reclassificado e integrado no Parque Natural da Ilha do Pico, o Monumento Natural\
+    \ Regional da Gruta das Torres, pelo DLR.20/2008/A.09.07.2008.AL-RAA, DR.IS [131] de 09.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:20:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 6/2004/A
+
+Classifica a gruta das Torres como monumento natural regional
+
+Considerando que a classificação das áreas protegidas se rege pelo disposto no [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com as adaptações constantes do [Decreto Legislativo Regional n.º 21/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-541442), de 23 de Dezembro;
+
+Considerando que, devido à sua natureza vulcânica e à presença de escoadas lávicas do tipo basáltico, as ilhas do arquipélago dos Açores apresentam um diversificado património espeleológico com valor insubstituível e inestimável, encontrando-se por vezes sujeito a usos que podem pôr em perigo a sua preservação;
+
+Considerando que são conhecidas cerca de 212 cavidades naturais, tubos de lava e algares vulcânicos, algumas delas correspondendo a muitas dezenas de quilómetros de caminhos subterrâneos, onde existem habitats naturais únicos;
+
+Considerando que a gruta das Torres, na ilha do Pico - considerado o maior túnel lávico conhecido da Região Autónoma dos Açores, com cerca de 5150 m de comprimento total, de interior rico em formações lávicas, estalagmites lávicas, bancadas laterais, lava balls, paredes estriadas e lavas encordoadas -, se situa entre aquelas cavidades naturais em que a necessidade de protecção, preservação e de partilha dos valores biológicos, estéticos, científicos e culturais mais se fazem sentir;
+
+Considerando que espaços como este, isolada ou conjuntamente, constituem paisagens subterrâneas de características muito especiais, o que lhes confere particular destaque no panorama vulcano-espeleológico regional, justificando-se, por isso, a sua protecção e salvaguarda como áreas protegidas:
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+É classificada como monumento natural regional a gruta das torres, na ilha do Pico.
+
+###### Artigo 2.º — Objectivos
+
+Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos a prosseguir com a classificação como monumento natural regional da gruta das Torres:
+
+a) O estudo científico e a divulgação, numa perspectiva de educação ambiental, da área protegida;
+
+b) A valorização e preservação da área protegida, com a criação de infra-estruturas que facilitem a sua exploração de uma forma ordenada e responsável, impedindo a destruição do património natural ali existente;
+
+c) O condicionamento das actividades realizadas na área protegida e respectiva envolvente.
+
+###### Artigo 3.º — Limites
+
+1 - Os limites do monumento natural regional da gruta das Torres são os fixados no texto e na carta que constituem, respectivamente, os anexos I e II ao presente diploma e do qual fazem parte integrante.
+
+2 - As dúvidas de interpretação eventualmente suscitadas pela leitura da carta que constitui o anexo II ao presente diploma poderão ser resolvidas através da consulta do original, à escala 1:25000, arquivado para o efeito na direcção regional com competência em matéria de ambiente e nos serviços de ambiente da ilha do Pico.
+
+###### Artigo 4.º — Interdições e autorizações
+
+1 - Nas áreas abrangidas pelo monumento natural regional da gruta das Torres são interditos os seguintes actos e actividades:
+
+a) A realização de obras que, por qualquer modo, possam danificar ou destruir a superfície e o interior das cavidades vulcânicas, incluindo os espeleotemas;
+
+b) A exploração de recursos geológicos e a alteração da morfologia do terreno, nomeadamente através de escavações, aterros e depósitos de resíduos sólidos de qualquer tipo;
+
+c) A abertura de novas vias de comunicação ou de acesso ou qualquer modificação das existentes;
+
+d) A instalação de linhas eléctricas, telefónicas ou de condutas, nomeadamente tubagens de água ou saneamento;
+
+e) A prática de actividades desportivas, nomeadamente o desporto motorizado;
+
+f) O depósito ou abandono de qualquer tipo de resíduos fora dos locais autorizados;
+
+g) A introdução, colheita, captura, abate ou detenção de quaisquer espécies animais, vegetais e de fungos;
+
+h) O corte de árvores e a alteração do coberto vegetal;
+
+i) A entrada ou permanência nas cavidades vulcânicas;
+
+j) A posse ou comercialização de espeleotemas.
+
+2 - Exceptuam-se do disposto no número anterior os actos e actividades necessários à preservação, valorização e ordenamento da área protegida, bem como os efectuados com fins exclusivos de investigação científica, arqueológica ou de monitorização ambiental, os quais ficam sujeitos a autorização prévia da direcção regional com competência em matéria de ambiente.
+
+3 - Mediante prévia aprovação de adequado plano de gestão para a área protegida, poderá ser autorizado pela direcção regional com competência em matéria de ambiente um regime de acesso, de permanência e de exploração turística das cavidades vulcânicas a que se refere a alínea i) do n.º 1.
+
+###### Artigo 5.º — Gestão da área
+
+A gestão do monumento natural regional da gruta das Torres cabe à direcção regional com competência em matéria de ambiente.
+
+###### Artigo 6.º — Contra-ordenações
+
+1 - Para além das previstas no artigo 22.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, constitui contra-ordenação a prática, sem autorização, de qualquer dos actos ou actividades previstos no artigo 4.º
+
+2 - A punição, o sancionamento acessório e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os n.os 2 e 3 do artigo 22.º e os artigos 23.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com as adaptações constantes dos artigos 9.º e 10.º do [Decreto Legislativo Regional n.º 21/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-541442), de 23 de Dezembro.
+
+###### Artigo 7.º — Reposição da situação anterior à infracção
+
+Compete à direcção regional com competência em matéria de ambiente ordenar a reposição da situação anterior à infracção, por conta do infractor, nos termos do disposto no artigo 25.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, e no n.º 1 do artigo 10.º do [Decreto Legislativo Regional n.º 21/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-541442), de 23 de Dezembro.
+
+###### Artigo 8.º — Fiscalização
+
+A fiscalização do disposto no presente diploma e demais legislação aplicável ao monumento natural regional da gruta das Torres compete à direcção regional com competência em matéria de ambiente, em colaboração com as autarquias locais, os serviços florestais e as demais entidades competentes, nos termos da legislação em vigor.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Janeiro de 2004.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 1 de Março de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+## ANEXO I — Descrição dos limites do monumento natural regional da gruta das Torres a que se refere o artigo 3.º
+
+De acordo com o mapa do anexo II, o limite do monumento natural regional da gruta das Torres está definido por um rectângulo, com o vértice norte (UTM 26S 367789; 4262855), vértice oeste (UTM 26S 367602; 4262593), vértice sul (UTM 26S 369185; 4261405) e vértice este (UTM 26S 369378; 4261661).
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/03/066a00/14711473.pdf)

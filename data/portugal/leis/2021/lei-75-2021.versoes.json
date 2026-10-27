@@ -1,0 +1,290 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174480833:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-174595429",
+ "dre_path": "/dr/detalhe/lei/75-2021-174480833",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174595345",
+    "174595346",
+    "174595347",
+    "174595348",
+    "174595349",
+    "174595350",
+    "174595351",
+    "174595352",
+    "174595353"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "174595345",
+    "174595346",
+    "174595347",
+    "174595348",
+    "174595349",
+    "174595350",
+    "174595351",
+    "836903975",
+    "836903976",
+    "836903977",
+    "836903978"
+   ]
+  },
+  {
+   "date": "2026-04-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1073088591:por",
+     "title": "Decreto-Lei n.º 79/2026",
+     "published": "2026-03-17",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2026-1073088591"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º-A"
+   ],
+   "fragments": [
+    "174595345",
+    "174595346",
+    "1073679175",
+    "1073679375",
+    "174595349",
+    "174595350",
+    "174595351",
+    "1073679575",
+    "836903976",
+    "836903977",
+    "836903978"
+   ]
+  },
+  {
+   "date": "2026-05-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1092323202:por",
+     "title": "Lei n.º 14/2026",
+     "published": "2026-04-27",
+     "dre_path": "/dr/detalhe/lei/14-2026-1092323202"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º-A"
+   ],
+   "fragments": [
+    "174595345",
+    "174595346",
+    "1095118575",
+    "1095118775",
+    "174595349",
+    "174595350",
+    "174595351",
+    "1095115175",
+    "836903976",
+    "836903977",
+    "836903978"
+   ]
+  }
+ ],
+ "fragments": {
+  "174595345": {
+   "fragment_id": "174595430",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 75/2021\n\nde 18 de novembro\n\nSumário: Reforça o acesso ao crédito e contratos de seguros por pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, proibindo práticas discriminatórias e consagrando o direito ao esquecimento, alterando a Lei n.º 46/2006, de 28 de agosto, e o regime jurídico do contrato de seguro.\n\nReforça o acesso ao crédito e contratos de seguros por pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, proibindo práticas discriminatórias e consagrando o direito ao esquecimento, alterando a Lei n.º 46/2006, de 28 de agosto, e o regime jurídico do contrato de seguro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "174595346": {
+   "fragment_id": "174595431",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei consagra o direito ao esquecimento a pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, melhorando o seu acesso ao crédito e a contratos de seguro.\n\n2 - A presente lei procede à:\n\na) primeira alteração à Lei n.º 46/2006, de 28 de agosto, que proíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde;\n\nb) segunda alteração ao regime jurídico do contrato de seguro, aprovado em anexo ao Decreto-Lei n.º 72/2008, de 16 de abril, e alterado pela Lei n.º 147/2015, de 9 de setembro."
+  },
+  "174595347": {
+   "fragment_id": "174595432",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Pessoas que tenham superado situações de risco agravado de saúde», pessoas que comprovadamente tenham estado em situação de risco agravado de saúde, como definido pela alínea c) do artigo 3.º da Lei n.º 46/2006, de 28 de agosto, e que já não se encontram nesta situação, após a realização de protocolo terapêutico que seja comprovadamente capaz de limitar significativa e duradouramente os seus efeitos;\n\nb) «Pessoas que tenham superado situação de deficiência», pessoas que comprovadamente tenham estado em situação de deficiência igual ou superior a 60 % e que tenham recuperado as suas estruturas ou funções psicológicas, intelectuais, fisiológicas ou anatómicas, reduzindo a sua incapacidade abaixo desse limiar;\n\nc) «Pessoas que tenham mitigado situações de risco agravado de saúde ou de deficiência», pessoas que se encontrem a realizar tratamentos comprovadamente capazes de limitar significativa e duradouramente os efeitos da sua situação de risco agravado de saúde ou de deficiência;\n\nd) «Consumidor», pessoas na aceção da alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, que transpõe parcialmente a Diretiva 2014/17/UE, relativa a contratos de crédito aos consumidores para imóveis destinados a habitação, e da alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 133/2009, de 2 de junho, que transpõe para a ordem jurídica interna a Diretiva 2008/48/CE do Parlamento e do Conselho, de 23 de abril, relativa a contratos de crédito aos consumidores."
+  },
+  "174595348": {
+   "fragment_id": "174595433",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito ao esquecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direito ao esquecimento\n\n1 - As pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência têm, na qualidade de consumidor, direito ao esquecimento na contratação de crédito à habitação e crédito aos consumidores, bem como na contratação de seguros obrigatórios ou facultativos associados aos referidos créditos, garantindo que:\n\na) Não podem ser sujeitas a um aumento de prémio de seguro ou exclusão de garantias de contratos de seguro;\n\nb) Nenhuma informação de saúde relativa à situação médica que originou o risco agravado de saúde ou a deficiência pode ser recolhida ou objeto de tratamento pelas instituições de crédito ou seguradores em contexto pré-contratual.\n\n2 - Nenhuma informação de saúde relativa à situação de risco agravado de saúde ou de deficiência pode ser recolhida pelas instituições de crédito ou seguradores em contexto pré-contratual desde que tenham decorrido, de forma ininterrupta:\n\na) 10 anos desde o término do protocolo terapêutico, no caso de risco agravado de saúde ou deficiência superada;\n\nb) Cinco anos desde o término do protocolo terapêutico, no caso de a patologia superada ter ocorrido antes dos 21 anos de idade;\n\nc) Dois anos de protocolo terapêutico continuado e eficaz, no caso de risco agravado de saúde ou deficiência mitigada."
+  },
+  "174595349": {
+   "fragment_id": "174595434",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 46/2006, de 28 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 46/2006, de 28 de agosto\n\nOs artigos 3.º e 9.º da Lei n.º 46/2006, de 28 de agosto, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) 'Pessoas com risco agravado de saúde' pessoas que sofrem de toda e qualquer patologia que determine uma alteração orgânica ou funcional, de longa duração, evolutiva, potencialmente incapacitante e que altere a qualidade de vida do portador a nível físico, mental, emocional, social e económico e seja causa potencial de invalidez precoce ou de significativa redução de esperança de vida;\n\nd) ...\n\nArtigo 9.º\n\n[...]\n\n1 - A prática de qualquer ato discriminatório referido no capítulo ii da presente lei ou a violação do acordo que concretiza o disposto no artigo 15.º-A do Decreto-Lei n.º 72/2008, de 16 de abril, por pessoa singular constitui contraordenação punível com coima graduada entre 5 e 10 vezes o valor da retribuição mínima mensal garantida, sem prejuízo do disposto no n.º 5 e da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber.\n\n2 - A prática de qualquer ato discriminatório referido no capítulo ii da presente lei ou a violação do acordo que concretiza o disposto no artigo 15.º-A do Decreto-Lei n.º 72/2008, de 16 de abril, por pessoa coletiva de direito privado ou de direito público constitui contraordenação punível com coima graduada entre 20 e 30 vezes o valor da retribuição mínima mensal garantida, sem prejuízo do disposto no n.º 5 e da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber.\n\n3 - ...\n\n4 - ...\n\n5 - ...»"
+  },
+  "174595350": {
+   "fragment_id": "174595435",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao regime jurídico do contrato de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao regime jurídico do contrato de seguro\n\nOs artigos 15.º e 217.º do regime jurídico do contrato de seguro, aprovado em anexo ao Decreto-Lei n.º 72/2008, de 16 de abril, passam a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - ...\n\n2 - São consideradas práticas discriminatórias, em razão da deficiência ou de risco agravado de saúde, as ações ou omissões, dolosas ou negligentes, que violem o princípio da igualdade, implicando para as pessoas naquela situação um tratamento menos favorável do que aquele que seja dado a outra pessoa em situação comparável, nos termos da Lei n.º 46/2006, de 28 de agosto.\n\n3 - No caso previsto no número anterior, as práticas e técnicas de avaliação, seleção e aceitação de riscos próprias do segurador para efeitos de celebração, execução e cessação do contrato de seguro, que não estejam proibidas pelo artigo 15.º-A, estão sujeitas a supervisão da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), devendo ser objetivamente fundamentadas, tendo por base dados estatísticos e atuariais rigorosos considerados relevantes nos termos dos princípios da técnica seguradora.\n\n4 - Sem prejuízo do disposto no número anterior, em caso de recusa de celebração de um contrato de seguro ou de agravamento do respetivo prémio em razão de deficiência ou de risco agravado de saúde, o segurador deve, com base nos dados obtidos nos termos do número anterior, prestar ao proponente, sem dependência de pedido nesse sentido, informação sobre o rácio entre os fatores de risco específicos e os fatores de risco de pessoa em situação comparável mas não afetada por aquela deficiência ou risco agravado de saúde, nos termos dos n.os 3 a 6 do artigo 178.º\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - Na celebração, execução e cessação do contrato de seguro são proibidas as práticas que discriminem entre a saúde física e mental ou psíquica.\n\nArtigo 217.º\n\n[...]\n\n1 - Em caso de não renovação do contrato ou da cobertura e não estando o risco coberto de forma proporcional por um contrato de seguro posterior, o segurador não pode, nos dois anos subsequentes e até que se mostre esgotado o capital seguro no último período de vigência do contrato, recusar as prestações resultantes de doença manifestada, de outros cuidados de saúde relacionados ou outro facto ocorrido na vigência do contrato, desde que cobertos pelo seguro.\n\n2 - ...»"
+  },
+  "174595351": {
+   "fragment_id": "174595436",
+   "type": 11,
+   "heading": "Artigo 6.º — Aditamento ao regime jurídico do contrato de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aditamento ao regime jurídico do contrato de seguro\n\nSão aditados os artigos 15.º-A e 15.º-B ao regime jurídico do contrato de seguro, aprovado em anexo ao Decreto-Lei n.º 72/2008, de 16 de abril, com a seguinte redação:\n\n«Artigo 15.º-A\n\nAcordo nacional de acesso ao crédito e a seguros\n\n1 - O Estado celebra e mantém um acordo nacional relativo ao acesso ao crédito e a contratos de seguros por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, entre este e as associações setoriais representativas de instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros, bem como organizações nacionais que representam pessoas com risco agravado de saúde, pessoas com deficiência e utentes do sistema de saúde.\n\n2 - O acordo previsto no número anterior tem como objeto:\n\na) Assegurar o acesso sem discriminação ao crédito à habitação e ao crédito aos consumidores por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência;\n\nb) Assegurar que as instituições de crédito ou sociedades financeiras tenham em conta os direitos, liberdades e garantias das pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência;\n\nc) Definir categorias específicas de dados e informações que possam ser exigidas e operações de tratamento desses dados e informações e das suas garantias de sigilo;\n\nd) Desenvolver um mecanismo de mediação entre os seguradores e as instituições de crédito e as pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência;\n\ne) Definir orientações gerais relativamente à informação a divulgar obrigatoriamente nos sítios da Internet das instituições de crédito, das sociedades financeiras, das sociedades mútuas, das instituições de previdência e dos seguradores.\n\n3 - Qualquer pessoa que tenha superado ou mitigado situações de risco agravado de saúde ou de deficiência tem, na qualidade de consumidor, direito a beneficiar do acordo previsto no n.º 1 na contratação de crédito à habitação e crédito aos consumidores, bem como na contratação de seguros obrigatórios ou facultativos associados aos referidos créditos.\n\n4 - Excetuam-se do disposto no número anterior os beneficiários do regime de concessão de crédito bonificado à habitação a pessoa com deficiência, aprovado pela Lei n.º 64/2014, de 26 de agosto.\n\n5 - O acordo aplica-se a todas as instituições de crédito, sociedades financeiras creditícias, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros que exerçam atividade em território português.\n\n6 - Em qualquer caso, o acordo deve garantir o cumprimento do disposto no n.º 2 do artigo 3.º da Lei n.º 75/2021, de 18 de novembro, sem prejuízo de poder determinar termos e prazos mais favoráveis ao consumidor para além dos quais as pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência têm direito ao esquecimento.\n\n7 - O acordo define um procedimento de fixação de uma grelha de referência que permita definir os termos e prazos referidos no número anterior para cada patologia ou incapacidade, em linha com o progresso terapêutico, os dados científicos e o conhecimento sobre o risco de saúde, de crédito ou segurador que cada patologia ou incapacidade represente.\n\n8 - A grelha de referência prevista no número anterior deve ser atualizada a cada dois anos e é pública, devendo o Estado publicitá-la nos sítios de Internet relevantes.\n\n9 - Os requerentes de contratos de crédito ou de seguro são informados das disposições do direito ao esquecimento e dos termos deste acordo, em formato e linguagem inteligível para não especialistas, a definir pelo Conselho Nacional de Supervisores Financeiros (CNSF) em ficha de informação normalizada, devendo o requerente assinar que tomou conhecimento dessas disposições.\n\n10 - O acordo previsto no n.º 1 pode convencionar um mecanismo de pooling dos custos adicionais decorrentes da contratação de seguros ou créditos com pessoas que tenham superado ou mitigado situações de risco de saúde agravado ou de deficiência, sendo este implementado e financiado exclusivamente pelas instituições privadas.\n\n11 - O acordo previsto no n.º 1 é obrigatoriamente sujeito a parecer preliminar da Comissão Nacional de Proteção de Dados e da Direção-Geral da Saúde e publicado no Diário da República e nos sítios da Internet dos seus signatários.\n\n12 - Na falta de acordo ou na circunstância da sua renúncia, resolução, não prorrogação ou não renovação, as matérias que este deveria abranger são definidas por decreto-lei, após consulta à Comissão Nacional de Proteção de Dados, à Direção-Geral da Saúde e ao CNSF.\n\n13 - Compete ao Banco de Portugal e à ASF, no que respeita aos contratos de crédito e aos contratos de seguros, respetivamente, a fiscalização do cumprimento do acordo previsto no n.º 1 ou, na sua ausência, do decreto-lei referido no número anterior.\n\n14 - Compete ao CNSF apresentar ao Ministério das Finanças e à Assembleia da República um relatório bienal de acompanhamento da execução do acordo previsto no n.º 1 ou, na sua ausência, do decreto-lei referido no n.º 12.\n\nArtigo 15.º-B\n\nSituações equiparadas\n\n1 - Para efeitos da aplicação do artigo anterior, consideram-se igualmente abrangidas as pessoas que superaram situações de risco agravado e que, apesar de terem comprovadamente cessado a fase de tratamentos ativos, ainda tenham de realizar tratamentos coadjuvantes.\n\n2 - Os prazos mencionados no n.º 2 do artigo 3.º da Lei n.º 75/2021, de 18 de novembro, aplicam-se com as devidas adaptações à informação referida na alínea b) do n.º 1 e no n.º 2 do artigo 17.º do Código do Trabalho.»"
+  },
+  "174595352": {
+   "fragment_id": "174595437",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nO Governo, no prazo de um ano após a entrada em vigor da presente lei, regulamenta a prestação de cuidados de saúde relacionados por parte do segurador cessante, nos termos do artigo 217.º do regime jurídico do contrato de seguro, aprovado em anexo ao Decreto-Lei n.º 72/2008, de 16 de abril."
+  },
+  "174595353": {
+   "fragment_id": "174595438",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de janeiro de 2022."
+  },
+  "836903975": {
+   "fragment_id": "836794273",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Deveres de informação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 310.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Deveres de informação\n\n1 - Compete às instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros prestar todos os esclarecimentos exigíveis e informar o consumidor, no acesso ao crédito à habitação e ao crédito ao consumo, sobre as condições aplicáveis por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência.\n\n2 - O incumprimento dos deveres de informação e de esclarecimento previstos na presente lei faz incorrer as instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros em responsabilidade civil, nos termos gerais.\n\n> Aditado pelo/a Artigo 310.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "836903976": {
+   "fragment_id": "174595437",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 309.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\n1 - O Governo, no prazo de um ano após a entrada em vigor da presente lei, regulamenta a prestação de cuidados de saúde relacionados por parte do segurador cessante, nos termos do artigo 217.º do regime jurídico do contrato de seguro, aprovado em anexo ao Decreto-Lei n.º 72/2008, de 16 de abril.\n\n2 - A Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF) pode, através de norma regulamentar:\n\na) Definir parâmetros para operacionalização do dever de não recolha ou tratamento, pelos seguradores, da informação de saúde relativa à situação médica que originou o risco agravado de saúde ou a deficiência, tal como previsto na alínea b) do n.º 1 do artigo 3.º;\n\nb) Detalhar o sentido e a extensão das práticas previstas nos n.os 2, 3 e 10 do artigo 15.º do regime jurídico do contrato de seguro, bem como dos fatores de risco a considerar para efeitos do n.º 4 do mesmo artigo;\n\nc) Detalhar o sentido e a extensão da noção de tratamentos coadjuvantes, para efeitos de aplicação do disposto no artigo 15.º-B do regime jurídico do contrato de seguro;\n\nd) Definir parâmetros para operacionalização do mecanismo de proteção de cobertura previsto no artigo 217.º do regime jurídico do contrato de seguro.\n\n3 - A ASF e o Banco de Portugal podem regulamentar os deveres de informação referidos no artigo 6.º-A relativamente às entidades sujeitas à sua supervisão.\n\n> Alterado pelo/a Artigo 309.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "836903977": {
+   "fragment_id": "174595438",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de janeiro de 2022."
+  },
+  "836903978": {
+   "fragment_id": "174595439",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de outubro de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 11 de novembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 15 de novembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114737476"
+  },
+  "1073679175": {
+   "fragment_id": "174595432",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Pessoas que tenham superado situações de risco agravado de saúde», pessoas que comprovadamente tenham estado em situação de risco agravado de saúde, como definido pela alínea c) do artigo 3.º da Lei n.º 46/2006, de 28 de agosto, e que já não se encontram nesta situação, após a realização de protocolo terapêutico que seja comprovadamente capaz de limitar significativa e duradouramente os seus efeitos;\n\nb) «Pessoas que tenham superado situação de deficiência», pessoas que comprovadamente tenham estado em situação de deficiência igual ou superior a 60 % e que tenham recuperado as suas estruturas ou funções psicológicas, intelectuais, fisiológicas ou anatómicas, reduzindo a sua incapacidade abaixo desse limiar;\n\nc) «Pessoas que tenham mitigado situações de risco agravado de saúde ou de deficiência», pessoas que se encontrem a realizar tratamentos comprovadamente capazes de limitar significativa e duradouramente os efeitos da sua situação de risco agravado de saúde ou de deficiência;\n\nd) «Consumidor», pessoas na aceção da alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, que transpõe parcialmente a Diretiva 2014/17/UE, relativa a contratos de crédito aos consumidores para imóveis destinados a habitação, e da alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 133/2009, de 2 de junho, que transpõe para a ordem jurídica interna a Diretiva 2008/48/CE do Parlamento e do Conselho, de 23 de abril, relativa a contratos de crédito aos consumidores;\n\ne) ‘Protocolo terapêutico’, orientações sistemáticas utilizadas por profissionais de saúde para planear e implementar tratamentos eficazes para diversas condições clínicas, tendo em consideração o tipo de patologia em causa, o seu estádio, o grau de diferenciação celular e a genética, assim como as caraterísticas da pessoa envolvida;\n\nf) ‘Tratamento coadjuvante’, o tratamento administrado que atua como potenciador do tratamento base, quer seja neoadjuvante ou adjuvante, com carácter farmacológico ou não farmacológico.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+  },
+  "1073679375": {
+   "fragment_id": "174595433",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito ao esquecimento",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+   ],
+   "markdown": "###### Artigo 3.º — Direito ao esquecimento\n\n1 - As pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência têm, na qualidade de consumidor, direito ao esquecimento na contratação de crédito à habitação e crédito aos consumidores, bem como na contratação de seguros obrigatórios ou facultativos associados aos referidos créditos, garantindo que:\n\na) Não podem ser sujeitas a um aumento de prémio de seguro ou exclusão de garantias de contratos de seguro;\n\nb) Nenhuma informação de saúde relativa à situação médica que originou o risco agravado de saúde ou a deficiência pode ser recolhida ou objeto de tratamento pelas instituições de crédito ou seguradores em contexto pré-contratual.\n\n2 - Nenhuma informação de saúde relativa à situação de risco agravado de saúde ou de deficiência pode ser recolhida pelas instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros em contexto pré-contratual desde que tenham decorrido, de forma ininterrupta:\n\na) 10 anos desde o término do protocolo terapêutico, no caso de risco agravado de saúde ou deficiência superada;\n\nb) Cinco anos desde o término do protocolo terapêutico, no caso de a patologia superada ter ocorrido antes dos 21 anos de idade;\n\nc) Dois anos de protocolo terapêutico continuado e eficaz, no caso de risco agravado de saúde ou deficiência mitigada.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+  },
+  "1073679575": {
+   "fragment_id": "836794273",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Deveres de informação",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 310.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Deveres de informação\n\n1 - Compete às instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros prestar todos os esclarecimentos exigíveis e informar o consumidor, no acesso ao crédito à habitação e ao crédito ao consumo, sobre as condições aplicáveis a pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência.\n\n2 - O incumprimento dos deveres de informação e de esclarecimento previstos na presente lei faz incorrer as instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros em responsabilidade civil, nos termos gerais.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 310.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "1095118575": {
+   "fragment_id": "174595432",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2026 - Diário da República n.º 81/2026, Série I de 2026-04-27](https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202), em vigor a partir de 2026-05-02.",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos da presente lei, entende-se por:\n\na) «Pessoas que tenham superado situações de risco agravado de saúde», pessoas que comprovadamente tenham estado em situação de risco agravado de saúde, como definido pela alínea c) do artigo 3.º da Lei n.º 46/2006, de 28 de agosto, e que já não se encontram nesta situação, após a realização de protocolo terapêutico que seja comprovadamente capaz de limitar significativa e duradouramente os seus efeitos;\n\nb) «Pessoas que tenham superado situação de deficiência», pessoas que comprovadamente tenham estado em situação de deficiência igual ou superior a 60 % e que tenham recuperado as suas estruturas ou funções psicológicas, intelectuais, fisiológicas ou anatómicas, reduzindo a sua incapacidade abaixo desse limiar;\n\nc) «Pessoas que tenham mitigado situações de risco agravado de saúde ou de deficiência», pessoas que se encontrem a realizar tratamentos comprovadamente capazes de limitar significativa e duradouramente os efeitos da sua situação de risco agravado de saúde ou de deficiência;\n\nd) «Consumidor», pessoas na aceção da alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, que transpõe parcialmente a Diretiva 2014/17/UE, relativa a contratos de crédito aos consumidores para imóveis destinados a habitação, e da alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 133/2009, de 2 de junho, que transpõe para a ordem jurídica interna a Diretiva 2008/48/CE do Parlamento e do Conselho, de 23 de abril, relativa a contratos de crédito aos consumidores;\n\ne) ‘Protocolo terapêutico’, orientações sistemáticas utilizadas por profissionais de saúde para planear e implementar tratamentos eficazes para diversas condições clínicas, tendo em consideração o tipo de patologia em causa, o seu estádio, o grau de diferenciação celular e a genética, assim como as caraterísticas da pessoa envolvida;\n\nf) ‘Tratamento coadjuvante’, o tratamento administrado que atua como potenciador do tratamento base, quer seja neoadjuvante ou adjuvante, com carácter farmacológico ou não farmacológico.\n\n2 - Sem prejuízo da definição de outras situações de saúde em sede do acordo ou do decreto-lei previstos, respetivamente, nos n.os 2 e 12 do artigo 15.º-A do regime jurídico do contrato de seguro, aprovado em anexo ao Decreto-Lei n.º 72/2008, de 16 de abril, incluem-se nas situações de saúde abrangidas pelas definições das alíneas a) a c) do n.º 1, e respetivos prazos, a doença oncológica, a VIH, a diabetes e a hepatite C.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2026 - Diário da República n.º 81/2026, Série I de 2026-04-27](https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202), em vigor a partir de 2026-05-02.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+  },
+  "1095118775": {
+   "fragment_id": "174595433",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito ao esquecimento",
+   "in_force_from": "2026-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2026 - Diário da República n.º 81/2026, Série I de 2026-04-27](https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202), em vigor a partir de 2026-05-02.",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+   ],
+   "markdown": "###### Artigo 3.º — Direito ao esquecimento\n\n1 - As pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência têm, na qualidade de consumidor, direito ao esquecimento na contratação de crédito à habitação e de crédito aos consumidores, bem como na contratação de seguros obrigatórios ou facultativos associados aos referidos créditos, garantindo que:\n\na) Não podem ser sujeitas a um aumento de prémio de seguro ou exclusão de garantias de contratos de seguro;\n\nb) Nenhuma informação de saúde relativa à situação médica que originou o risco agravado de saúde ou a deficiência pode ser recolhida ou objeto de tratamento pelas instituições de crédito ou seguradores em contexto pré-contratual.\n\n2 - Nenhuma informação de saúde relativa à situação de risco agravado de saúde ou de deficiência pode ser recolhida pelas instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros em contexto pré-contratual desde que tenham decorrido, de forma ininterrupta:\n\na) 10 anos desde o término do protocolo terapêutico, no caso de risco agravado de saúde ou deficiência superada;\n\nb) Cinco anos desde o término do protocolo terapêutico, no caso de a patologia superada ter ocorrido antes dos 21 anos de idade;\n\nc) Dois anos de protocolo terapêutico continuado e eficaz, no caso de risco agravado de saúde ou deficiência mitigada.\n\n3 - O disposto nos números anteriores aplica-se igualmente à contratação de créditos para fins comerciais ou profissionais, quando celebrados por pessoa singular, ainda que esta atue no âmbito da sua atividade comercial ou profissional, bem como aos seguros obrigatórios ou facultativos associados a esses créditos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2026 - Diário da República n.º 81/2026, Série I de 2026-04-27](https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202), em vigor a partir de 2026-05-02.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16."
+  },
+  "1095115175": {
+   "fragment_id": "836794273",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Deveres de informação",
+   "in_force_from": "2026-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2026 - Diário da República n.º 81/2026, Série I de 2026-04-27](https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202), em vigor a partir de 2026-05-02.",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 310.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Deveres de informação\n\n1 - Compete às instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros prestar todos os esclarecimentos exigíveis e informar o consumidor, no acesso ao crédito à habitação, e ao crédito ao consumo, bem como as pessoas singulares ou coletivas que contratem créditos para fins comerciais ou profissionais, sobre as condições aplicáveis às pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência.\n\n2 - O incumprimento dos deveres de informação e de esclarecimento previstos na presente lei faz incorrer as instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência, instituições de pagamento, instituições de moeda eletrónica, empresas de seguros e distribuidores de seguros em responsabilidade civil, nos termos gerais.\n\n3 - O Estado, através dos membros do Governo responsáveis pelas áreas da saúde e da defesa do consumidor, em colaboração com as associações de defesa do consumidor de âmbito nacional e de interesse genérico, desenvolve campanhas de informação, designadamente nos estabelecimentos de saúde e no âmbito da cooperação com organizações de base comunitária, sobre as condições aplicáveis às pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2026 - Diário da República n.º 81/2026, Série I de 2026-04-27](https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202), em vigor a partir de 2026-05-02.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 79/2026 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 310.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  }
+ }
+}

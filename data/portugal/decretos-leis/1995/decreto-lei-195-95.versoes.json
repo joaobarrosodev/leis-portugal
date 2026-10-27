@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484655:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-117658832",
+ "dre_path": "/dr/detalhe/decreto-lei/195-1995-484655",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-07-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117658332",
+    "117658333",
+    "117658334",
+    "117658335",
+    "117658336",
+    "117658337",
+    "117658338",
+    "117658339",
+    "117658340"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "117658332",
+    "117658343",
+    "117658344",
+    "117658335",
+    "117658345",
+    "117658346",
+    "117658347",
+    "117658339",
+    "117658348",
+    "117658349",
+    "117658350"
+   ]
+  }
+ ],
+ "fragments": {
+  "117658332": {
+   "fragment_id": "117658833",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 195/95\n\nde 28 de Julho\n\nO Decreto n.º 45266, de 23 de Setembro de 1963, com a redacção do Decreto n.º 486/73, de 27 de Setembro, veio fixar a idade de reforma, permitindo, porém, que o ministro competente pudesse reduzi-la relativamente aos trabalhadores que exercessem profissões consideradas «especialmente desgastantes».\n\nNeste contexto, foi sendo reconhecido, desde o início da década de 70, aos trabalhadores do interior ou da lavra subterrânea da indústria mineira o direito de antecipação da idade de acesso à pensão por velhice, inicialmente desde os 60 anos de idade e actualmente desde os 50 anos de idade, procedendo-se também à bonificação do cálculo das pensões de invalidez, velhice e sobrevivência.\n\nNo mesmo sentido, e uma vez que se constatou que as condições de penosidade e o ambiente nocivo em que se desenvolve a actividade mineira são extensivos a outras actividades de apoio, desde que exercidas no subsolo com carácter habitual e predominante, e ainda porque a experiência da aplicação da Portaria n.º 656/81, de 1 de Agosto, assim o revelou, impôs-se alargar a estas últimas actividades de apoio o mesmo quadro de protecção na reforma.\n\nMantendo-se todo o enquadramento subjacente à fixação daquelas particularidades, agora agravado pela actual conjuntura dos mercados das matérias-primas com reflexos na situação de crise que atravessa o sector mineiro, impôs-se a adopção de medidas específicas dirigidas à salvaguarda dos períodos de trabalho desenvolvidos no interior das minas, tornando-se irrelevante, designadamente, o não exercício daquela actividade à data do requerimento da pensão.\n\nNo actual quadro normativo, a antecipação da idade de acesso à pensão em função da natureza da actividade exercida, designadamente da sua penosidade especial ou por motivos conjunturais que exijam uma protecção específica, carece de regulamentação própria.\n\nRefira-se também que o artigo 25.º do Decreto-Lei n.º 329/93, de 25 de Setembro, impôs como limite etário de antecipação os 60 anos de idade ou o que estivesse especialmente previsto em legislação vigente à data da entrada em vigor daquele diploma. Ora, para os trabalhadores do interior das minas o limite etário encontrava-se já fixado nos 50 anos de idade.\n\nAproveita-se ainda a oportunidade para aperfeiçoar e integrar num único quadro normativo o conjunto dos princípios e dos meios de prova indispensáveis à concretização dos direitos reconhecidos aos trabalhadores do interior das minas, permitindo-se que, em casos excepcionais devidamente fundamentados, seja extensivo aos trabalhadores do exterior da mina parte do regime aplicável aos do interior.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117658333": {
+   "fragment_id": "117658834",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define o regime especial de acesso às pensões de invalidez e de velhice dos trabalhadores do interior das minas."
+  },
+  "117658334": {
+   "fragment_id": "117658835",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\n1 - O presente diploma aplica-se a todos os trabalhadores do interior ou da lavra subterrânea das minas, incluindo aqueles que desempenhem uma actividade exclusiva ou predominantemente de apoio.\n\n2 - A cessação da actividade no interior da mina antes do requerimento da pensão não prejudica a aplicação do presente regime relativamente ao período de tempo em que a actividade em causa foi efectivamente exercida.\n\n3 - O regime jurídico previsto no presente diploma pode ser estendido por lei aos trabalhadores do exterior das minas atendendo a excepcionais razões conjunturais que tornem necessária uma protecção específica, devendo o seu financiamento ser assegurado nos termos do artigo 26.º do Decreto-Lei n.º 329/93, de 25 de Setembro."
+  },
+  "117658335": {
+   "fragment_id": "117658836",
+   "type": 11,
+   "heading": "Artigo 3.º — Actividades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actividades de apoio\n\nPara efeito do disposto no n.º 1 do artigo anterior, consideram-se actividades de apoio, designadamente, as de manutenção mecânica e eléctrica, de ventilação, de esgoto e saneamento, de entivação e similares."
+  },
+  "117658336": {
+   "fragment_id": "117658837",
+   "type": 11,
+   "heading": "Artigo 4.º — Idade limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Idade limite\n\n1 - A idade normal de pensão de velhice fixada no regime geral de segurança social é reduzida em um ano por cada dois de serviço efectivo em trabalho de fundo prestado ininterrupta ou interpoladamente.\n\n2 - O disposto no número anterior tem como limite os 50 anos, idade a partir da qual pode ser reconhecido o direito daqueles trabalhadores à pensão por velhice, sem prejuízo do disposto nos números seguintes.\n\n3 - O limite de idade fixado no número anterior pode ser reduzido até cinco anos, verificando-se situações excepcionais de conjuntura.\n\n4 - O disposto no número anterior fica dependente da celebração de protocolo entre a entidade patronal dos respectivos trabalhadores e a segurança social, a homologar pelo Ministro do Emprego e da Segurança Social, em que se estabeleça que todos os encargos decorrentes da antecipação da idade de acesso à pensão de velhice serão assumidos pela empresa."
+  },
+  "117658337": {
+   "fragment_id": "117658838",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montante da pensão\n\n1 - O montante da pensão por invalidez ou velhice é calculado nos termos do regime geral da segurança social, com um acréscimo à taxa global de formação de 2,2% por cada dois anos de serviço efectivo em trabalho de fundo prestado ininterrupta ou interpoladamente.\n\n2 - O montante da pensão calculado nos termos do número anterior não pode ultrapassar o limite de 80% da remuneração de referência.\n\n3 - O disposto no n.º 1 é aplicável ao cálculo da pensão de sobrevivência a que tenham direito os familiares dos trabalhadores."
+  },
+  "117658338": {
+   "fragment_id": "117658839",
+   "type": 11,
+   "heading": "Artigo 6.º — Meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Meios de prova\n\n1 - Para efeitos de aplicação do disposto no presente diploma, os períodos em que o trabalhador prestou serviço no interior da mina são comprovados:\n\na) Por declaração da entidade empregadora, relativamente aos trabalhadores efectivos do interior ou de lavra subterrânea;\n\nb) Por declaração da entidade empregadora, devidamente fundamentada, com indicação, designadamente, da categoria profissional, do regime de trabalho e dos períodos de tempo, relativamente aos trabalhadores que exercem habitual e predominantemente actividades de apoio.\n\n2 - Nos casos em que o trabalhador esteja impossibilitado de apresentar a declaração, deve substituí-la por todos os elementos que possam, de alguma forma, comprovar o exercício de actividade no interior da mina."
+  },
+  "117658339": {
+   "fragment_id": "117658840",
+   "type": 11,
+   "heading": "Artigo 7.º — Diligências probatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diligências probatórias\n\nO disposto no artigo 6.º não impede a realização, pelas instituições de segurança social, de diligências probatórias, sempre que o considerem necessário."
+  },
+  "117658340": {
+   "fragment_id": "117658841",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 860/94, de 23 de Setembro."
+  },
+  "117658343": {
+   "fragment_id": "117658834",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define o regime especial de acesso às pensões de invalidez e de velhice dos trabalhadores do interior das minas, das lavarias de minério e dos trabalhadores da extração ou transformação primária da pedra, incluindo a serragem e o corte da pedra em bruto.\n\n> Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658344": {
+   "fragment_id": "117658835",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\n1 - O presente diploma aplica-se a todos os trabalhadores do interior ou da lavra subterrânea das minas, incluindo aqueles que desempenhem uma atividade exclusiva ou predominantemente de apoio, nas quais se incluem os trabalhadores das lavarias.\n\n2 - O presente diploma aplica-se ainda aos trabalhadores da indústria das pedreiras que trabalhem diretamente na extração ou na transformação primária da pedra, incluindo a serragem e o corte da pedra em bruto, de acordo com a lista de profissões.\n\n3 - A cessação das atividades a que se referem os n.os 1 e 2 antes do requerimento da pensão não prejudica a aplicação do presente regime relativamente ao período de tempo em que a atividade em causa foi efetivamente exercida.\n\n4 - O regime jurídico previsto no presente diploma pode ser estendido por lei aos trabalhadores do exterior das minas atendendo a excepcionais razões conjunturais que tornem necessária uma protecção específica, devendo o seu financiamento ser assegurado nos termos do artigo 26.º do Decreto-Lei n.º 329/93, de 25 de Setembro.\n\n> Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658345": {
+   "fragment_id": "117658837",
+   "type": 11,
+   "heading": "Artigo 4.º — Idade limite",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Idade limite\n\n1 - A idade normal de pensão de velhice fixada no regime geral de segurança social é reduzida em um ano por cada dois de serviço efetivo, prestado ininterrupta ou interpoladamente, em trabalho de fundo, nas lavarias de minério, na extração ou na transformação primária da pedra, incluindo a serragem e o corte da pedra em bruto.\n\n2 - O disposto no número anterior tem como limite os 50 anos, idade a partir da qual pode ser reconhecido o direito daqueles trabalhadores à pensão por velhice, sem prejuízo do disposto nos números seguintes.\n\n3 - O limite de idade fixado no número anterior pode ser reduzido até cinco anos, verificando-se situações excepcionais de conjuntura.\n\n4 - O disposto no número anterior fica dependente da celebração de protocolo entre a entidade patronal dos respectivos trabalhadores e a segurança social, a homologar pelo Ministro do Emprego e da Segurança Social, em que se estabeleça que todos os encargos decorrentes da antecipação da idade de acesso à pensão de velhice serão assumidos pela empresa.\n\n> Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658346": {
+   "fragment_id": "117658838",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante da pensão",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Montante da pensão\n\n1 - O montante da pensão por invalidez ou velhice é calculado nos termos do regime geral da segurança social, com um acréscimo à taxa global de formação de 2,2 % por cada dois anos de serviço efetivo, prestado ininterrupta ou interpoladamente, em trabalho de fundo, nas lavarias de minério, na extração ou na transformação primária da pedra, incluindo a serragem e o corte da pedra em bruto.\n\n2 - O montante da pensão calculado nos termos do número anterior não pode ultrapassar o limite de 80% da remuneração de referência.\n\n3 - O disposto no n.º 1 é aplicável ao cálculo da pensão de sobrevivência a que tenham direito os familiares dos trabalhadores.\n\n> Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658347": {
+   "fragment_id": "117658839",
+   "type": 11,
+   "heading": "Artigo 6.º — Meios de prova",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Meios de prova\n\n1 - Para efeitos de aplicação do disposto no presente diploma, os períodos em que o trabalhador prestou serviço no interior da mina ou nas lavarias são comprovados:\n\na) Por declaração da entidade empregadora, relativamente aos trabalhadores efectivos do interior ou de lavra subterrânea;\n\nb) Por declaração da entidade empregadora, devidamente fundamentada, com indicação, designadamente, da categoria profissional, do regime de trabalho e dos períodos de tempo, relativamente aos trabalhadores que exercem habitual e predominantemente actividades de apoio.\n\n2 - Os períodos em que o trabalhador prestou serviço na extração ou na transformação da pedra são comprovados por documento que ateste o exercício da profissão na indústria das pedreiras e respetivo período de exercício, emitido pela entidade empregadora.\n\n3 - Nos casos em que o trabalhador esteja impossibilitado de apresentar a declaração, deve substituí-la por todos os elementos que possam, de alguma forma, comprovar o exercício de atividade.\n\n> Alterado pelo/a Artigo 335.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658348": {
+   "fragment_id": "117658843",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Regulamentação",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 336.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Regulamentação\n\nA lista de profissões prevista no n.º 2 do artigo 2.º e o documento comprovativo da profissão exercida indicado no n.º 2 do artigo 6.º são definidos em portaria do membro do Governo responsável pela área da segurança social.\n\n> Aditado pelo/a Artigo 336.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658349": {
+   "fragment_id": "117658841",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 860/94, de 23 de Setembro."
+  },
+  "117658350": {
+   "fragment_id": "117658842",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Junho de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - José Bernardo Veloso Falcão e Cunha.\n\nPromulgado em 13 de Julho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Julho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

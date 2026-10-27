@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0072:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0072-20110501",
+ "dre_path": null,
+ "source_lastmod": "2011-05-01",
+ "versions": [
+  {
+   "date": "2002-08-15",
+   "future": false,
+   "celex": "32002L0072",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c55143fc1afea64f",
+    "59a6c5070157c8a1",
+    "a35d7f43fab89fe1",
+    "2830c81711d80155",
+    "5d265e34e875c628",
+    "e1e3b0b213d43c07",
+    "9338e5a97d3ab323",
+    "c6c36e98d0f5783b",
+    "19b9fd8dfaa18584",
+    "4cffc232aea303ac",
+    "9c5a01112400b0b7",
+    "3ec9ef5d72f5cfcb",
+    "72f9e81d92132496",
+    "0db3d5625ebcf25c",
+    "69bd8d53a2aa71ba",
+    "d44bd6ebd723c92c",
+    "3763ce6d50d8a149",
+    "be12e373375031e8",
+    "ad72b141152bf34d",
+    "10c466468723aa73",
+    "38f113e2df4d7a69",
+    "b3c9ca45b659b17f",
+    "22104902fe63194a",
+    "2826b7bcab8c7d59",
+    "a5de7f7bd1e0f98a",
+    "ada8536aa5d4f4ff",
+    "6426524814d302a6",
+    "ac7ce8f7c9c19a95"
+   ]
+  },
+  {
+   "date": "2011-05-01",
+   "future": false,
+   "celex": "02002L0072-20110501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO I — DISPOSIÇÕES ADICIONAIS APLICÁVEIS PARA VERIFICAÇÃO DO CUMPRIMENTO DOS LIMITES DE MIGRAÇÃO",
+    "Suprime ANEXO II — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM SER USADAS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA",
+    "Suprime Secção A — Lista de monómeros e outras substâncias iniciadoras autorizados",
+    "Suprime Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na secção A",
+    "Suprime ANEXO III — LISTA INCOMPLETA DE ADITIVOS QUE PODEM SER UTILIZADOS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA",
+    "Suprime Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário",
+    "Suprime Secção B — Lista incompleta dos aditivos referidos no segundo parágrafo do artigo 4.o",
+    "Suprime ANEXO IV — PRODUTOS OBTIDOS POR FERMENTAÇÃO BACTERIANA",
+    "Suprime ANEXO V — ESPECIFICAÇÕES",
+    "Suprime PARTE A: Especificações gerais",
+    "Suprime PARTE B: Outras especificações — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO VI — NOTAS RELATIVAS À COLUNA \"RESTRIÇÕES E/OU ESPECIFICAÇÕES\"",
+    "Suprime ANEXO VII — Parte A",
+    "Suprime Parte B — PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+    "Suprime ANEXO VIII — QUADRO DE CORRELAÇÃO"
+   ],
+   "fragments": [
+    "3eb6b1ddf3e8e739"
+   ]
+  }
+ ],
+ "fragments": {
+  "c55143fc1afea64f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/72/CE da Comissão, de 6 de Agosto de 2002, relativa aos materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 220 de 15/08/2002 p. 0018 - 0058*\n\nDirectiva 2002/72/CE da Comissão\n\nde 6 de Agosto de 2002\n\nrelativa aos materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/109/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos materiais e objectos destinados a entrar em contacto com os géneros alimentícios(1), e, nomeadamente, o seu artigo 3.o,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\nConsiderando o seguinte:\n\n(1) A Directiva 90/128/CEE da Comissão, de 23 de Fevereiro de 1990, relativa aos materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios(2), com a última redacção que lhe foi dada pela Directiva 2002/17/CE(3), foi frequente e substancialmente alterada; é, pois, conveniente, por uma questão de lógica e clareza, proceder à sua consolidação.\n\n(2) O artigo 2.o da Directiva 89/109/CEE estabelece que os materiais e objectos, no seu estado acabado, não devem ceder aos géneros alimentícios constituintes em quantidade susceptível de representar um risco para a saúde humana ou de provocar uma alteração inaceitável da composição dos géneros alimentícios.\n\n(3) Para atingir este objectivo no caso dos materiais e objectos de matéria plástica, o instrumento adequado é uma directiva específica na acepção do artigo 3.o da Directiva 89/109/CEE, cujas disposições gerais se tornam igualmente aplicáveis ao caso em questão.\n\n(4) O âmbito da presente directiva deve coincidir com o da Directiva 82/711/CEE do Conselho(4).\n\n(5) Dado que as regras estabelecidas na presente directiva não são adequadas às resinas de permuta iónica, estes materiais serão abrangidos por uma directiva específica ulterior.\n\n(6) Os silicones devem ser considerados mais como elastómeros do que como matérias plásticas, pelo que devem ser excluídos da definição de matérias plásticas.\n\n(7) O estabelecimento de uma lista de substâncias autorizadas, acompanhada de um limite relativo à migração global e, se necessário, de outras restrições específicas é suficiente para atingir o objectivo fixado no artigo 2.o da Directiva 89/109/CEE.\n\n(8) Além dos monómeros e outras substâncias iniciadoras completamente avaliados e autorizados a nível comunitário, também existem monómeros e substâncias iniciadoras avaliados e autorizados pelo menos num Estado-Membro e que podem continuar a ser utilizados, na pendência da sua avaliação pelo Comité Científico da Alimentação Humana e da decisão acerca da sua inclusão na lista comunitária. A presente directiva será tornada extensiva, consequente e oportunamente, às substâncias e sectores provisoriamente excluídos.\n\n(9) A actual lista de aditivos é uma lista incompleta uma vez que não contém todas as substâncias actualmente aceites num ou vários Estados-Membros. Consequentemente, estas substâncias continuam, assim, a ser regulamentadas por disposições nacionais na pendência de uma decisão sobre a sua inclusão na lista comunitária.\n\n(10) A presente directiva estabelece especificações apenas para algumas substâncias. As outras substâncias, que possam necessitar de especificações, permanecem regulamentadas a este nível pelas disposições nacionais enquanto se aguarda uma decisão a nível comunitário.\n\n(11) Em relação a determinados aditivos, as restrições estabelecidas na presente directiva ainda não podem ser aplicadas em todas as situações, na pendência da recolha e da avaliação de todos os dados necessários para uma melhor estimativa da exposição do consumidor em determinadas situações específicas; por conseguinte, estes aditivos aparecem numa lista diferente da dos aditivos completamente regulamentados a nível comunitário.\n\n(12) A Directiva 82/711/CEE estabelece as regras de base necessárias à verificação da migração dos constituintes dos materiais e objectos em matéria plástica e a Directiva 85/572/CEE do Conselho(5) fixa a lista dos simuladores a utilizar nos testes de migração.\n\n(13) A determinação da quantidade de uma substância num material ou num objecto acabado é mais simples que a determinação do seu nível de migração específica. Por conseguinte, a verificação da conformidade através da determinação da quantidade em vez do nível de migração específica deveria ser permitida em certas condições.\n\n(14) Para determinados tipos de plásticos, a disponibilidade de modelos de difusão geralmente reconhecidos baseados em dados experimentais permite a avaliação do nível de migração de uma substância em certas condições, evitando deste modo testes complexos, dispendiosos e demorados.\n\n(15) O limite de migração global é uma medida do carácter inerte do material e impede uma alteração inaceitável da composição dos géneros alimentícios, reduzindo, além disso, a necessidade de um grande número de limites de migração específica ou outras restrições, proporcionando assim um controlo eficaz.\n\n(16) A Directiva 78/142/CEE do Conselho(6) estabelece limites relativamente à quantidade de cloreto de vinilo existente nos materiais e objectos de matéria plástica preparados com essa substância e relativamente à quantidade de cloreto de vinilo libertada por estes materiais e objectos e as Directivas 80/766/CEE(7) e 81/432/CEE(8) da Comissão fixam os métodos comunitários de análise para controlo destes limites.\n\n(17) Tendo em vista a eventual responsabilidade, é necessário prever a declaração escrita referida no n.o 5 do artigo 6.o da Directiva 89/109/CEE sempre que se utilizarem para fins profissionais materiais e objectos de matéria plástica que não sejam, pela sua natureza, claramente destinados a uma utilização alimentar.\n\n(18) A Directiva 80/590/CEE da Comissão(9) determina o símbolo que pode acompanhar os materiais e objectos destinados a entrar em contacto com os géneros alimentícios.\n\n(19) De acordo com o princípio da proporcionalidade, é necessário e adequado, para a realização do objectivo básico de assegurar a livre circulação dos materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios, estabelecer regras relativamente à definição das matérias plásticas e das substâncias permitidas. A presente directiva limita-se ao que é necessário para atingir os objectivos perseguidos em conformidade com o terceiro parágrafo do artigo 5.o do Tratado.\n\n(20) Em conformidade com o artigo 3.o da Directiva 89/109/CEE, o Comité Científico da Alimentação Humana foi consultado sobre as disposições susceptíveis de afectar a saúde pública.\n\n(21) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal.\n\n(22) A presente directiva deverá ser sem prejuízo dos prazos de transposição constantes na parte B do anexo VII de que os Estados-Membros dispõem para alcançar a conformidade com a Directiva 90/128/CEE e com os actos que a alteram,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "59a6c5070157c8a1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é uma directiva específica na acepção do artigo 3.o da Directiva 89/109/CEE.\n\n2. A presente directiva aplica-se aos materiais e objectos de matéria plástica, bem como às suas partes, que são:\n\na) Constituídos exclusivamente de matéria plástica; ou\n\nb) Compostos de duas ou mais camadas, cada uma das quais é constituída exclusivamente de matéria plástica, ligadas entre si por adesivos ou por qualquer outro meio;\n\ne que, no estado de produtos acabados, se destinam a entrar em contacto ou estão postos em contacto, em conformidade com a utilização a que se destinam, com os géneros alimentícios.\n\n3. Para efeitos do disposto na presente directiva, entende-se por \"matéria plástica\" o composto macromolecular orgânico obtido por polimerização, policondensação, poliadição ou outro processo similar a partir de moléculas de peso molecular inferior ou por alteração química de macromoléculas naturais. Podem ser adicionadas outras substâncias ou matérias a este composto macromolecular.\n\nContudo, não são consideradas como \"matérias plásticas\":\n\na) As películas de celulose regenerada envernizadas ou não envernizadas, abrangidas pela Directiva 93/10/CEE da Comissão(10);\n\nb) Os elastómeros e as borrachas naturais e sintéticas;\n\nc) Os papéis e cartões, modificados ou não por incorporação de matéria plástica;\n\nd) Os revestimentos de superfície obtidos a partir de:\n\n- ceras parafínicas, incluindo as ceras de parafina sintéticas e/ou ceras microcristalinas,\n\n- misturas das ceras referidas no primeiro travessão, entre si e/ou com matérias plásticas;\n\ne) Resinas de permuta iónica;\n\nf) Silicones.\n\n4. A presente directiva não se aplica, enquanto não for tomada uma decisão nesse sentido, aos materiais e objectos compostos de duas ou mais camadas, das quais pelo menos uma não é exclusivamente constituída de matéria plástica, mesmo que a que se destina a entrar em contacto directo com os géneros alimentícios seja constituída exclusivamente por matéria plástica."
+  },
+  "a35d7f43fab89fe1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs materiais e objectos de matéria plástica não devem ceder os seus constituintes aos géneros alimentícios em quantidades superiores a 10 miligramas de substância(s) por decímetro quadrado de área de superfície do material ou objecto (mg/dm2) (limite de migração global). Todavia, esse limite é de 60 miligramas de substância(s) libertada(s) por quilograma de género alimentício (mg/kg) nos seguintes casos:\n\na) Objectos que são recipientes ou que são comparáveis a recipientes ou que possam ser cheios, com uma capacidade não inferior a 500 mililitros (ml) e não superior a 10 litros (l);\n\nb) Objectos que possam ser cheios e para os quais seja impraticável determinar a área de contacto com o género alimentício;\n\nc) Tampas, vedantes, rolhas ou dispositivos similares de vedação."
+  },
+  "2830c81711d80155": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Apenas os monómeros e as outras substâncias iniciadoras incluídos nas secções A e B do anexo II podem ser usados no fabrico de materiais e objectos de matéria plástica sujeitos às restrições aí especificadas.\n\n2. Em derrogação ao n.o 1, os monómeros e as outras substâncias iniciadoras incluídos na secção B do anexo II podem continuar a ser usados o mais tardar até 31 de Dezembro de 2004, na pendência da respectiva avaliação pelo Comité Científico da Alimentação Humana.\n\n3. A lista na secção A do anexo II pode ser alterada:\n\n- quer pela inclusão de substâncias incluídas na secção B do anexo II, de acordo com os critérios estabelecidos no anexo II da Directiva 89/109/CEE,\n\n- quer pela inclusão de \"novas substâncias\", isto é, substâncias que não estão indicadas nem na secção A nem na secção B do anexo II, de acordo com o artigo 3.o da Directiva 89/109/CEE.\n\n4. Nenhum Estado-Membro autorizará a utilização de nenhuma nova substância nos seus territórios, excepto ao abrigo do processo previsto no artigo 4.o da Directiva 89/109/CEE.\n\n5. As listas das secções A e B do anexo II não incluem ainda monómeros e outras substâncias iniciadoras utilizados apenas no fabrico de:\n\n- revestimentos de superfície obtidos a partir de produtos resinosos ou polimerizados sob a forma de líquido, pó ou dispersão, tais como vernizes, lacas, tintas, etc.,\n\n- resinas epoxídicas,\n\n- adesivos e promotores de adesão,\n\n- tintas de impressão."
+  },
+  "5d265e34e875c628": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNas secções A e B do anexo III figura uma lista incompleta dos aditivos que podem ser utilizados no fabrico de materiais e objectos de matéria plástica, sujeitos às restrições e/ou especificações aí referidas.\n\nNo que respeita às substâncias da secção B do anexo III, os limites de migração específica serão aplicáveis a partir de 1 de Janeiro de 2004, quando a verificação da conformidade for efectuada num simulador D ou em meios de ensaio de testes de substituição, tal como estabelecido nas Directivas 82/711/CEE e 85/572/CEE."
+  },
+  "e1e3b0b213d43c07": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSó os produtos obtidos por fermentação bacteriana indicados no anexo IV podem entrar em contacto com os géneros alimentícios."
+  },
+  "9338e5a97d3ab323": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As especificações gerais relativas a materiais e objectos de matéria plástica são estabelecidas na parte A do anexo V. Outras especificações relativas a algumas substâncias constantes dos anexos II, III e IV são estabelecidas na parte B do anexo V.\n\n2. No anexo VI, é explicado o significado da numeração que figura, entre parênteses, na coluna \"Restrições e/ou especificações\"."
+  },
+  "c6c36e98d0f5783b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs limites de migração específica da lista estabelecida no anexo II são expressos em mg/kg. Todavia, tais limites são expressos em mg/dm2 nos seguintes casos:\n\na) Objectos que são recipientes ou que são comparáveis a recipientes ou que possam ser cheios, com uma capacidade inferior a 500 ml ou superior a 10 litros;\n\nb) Folhas, películas ou outros objectos que não possam ser cheios ou para os quais seja impraticável determinar a relação entre a área de superfície de tais objectos e a quantidade de géneros alimentícios em contacto com eles.\n\nNestes casos, o limite expresso no anexo II em mg/kg será dividido pelo factor de conversão 6 a fim de o exprimir em mg/dm2."
+  },
+  "19b9fd8dfaa18584": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A verificação do cumprimento dos limites de migração será efectuada de acordo com as regras estabelecidas nas Directivas 82/711/CEE e 85/572/CEE e nas disposições adicionais estabelecidas no anexo I da presente directiva.\n\n2. A verificação do cumprimento dos limites de migração específica prevista no n.o 1 não será obrigatória, se for possível estabelecer que o cumprimento do limite de migração global estipulado no artigo 2.o implica que os limites de migração específica não sejam excedidos.\n\n3. A verificação do cumprimento dos limites de migração específica prevista no n.o 1 não será obrigatória, se for possível estabelecer que, assumindo a migração completa da substância residual no material ou objecto, não se possa exceder o limite de migração específica.\n\n4. A verificação da conformidade com os limites de migração específica prevista no n.o 1 pode ser assegurada pela determinação da quantidade de uma substância no material ou objecto acabado, desde que tenha sido estabelecida uma relação entre essa quantidade e o valor da migração específica da substância através de uma experiência adequada ou pela aplicação de modelos de difusão geralmente reconhecidos e baseados em provas científicas. Para demonstrar a não-conformidade de um material ou objecto, é obrigatória a confirmação do valor da migração realizando um ensaio experimental."
+  },
+  "4cffc232aea303ac": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Nos estádios do mercado que não sejam os de venda a retalho, os materiais e objectos de matéria plástica destinados a entrar em contacto com géneros alimentícios serão acompanhados por uma declaração escrita, nos termos do n.o 5 do artigo 6.o da Directiva 89/109/CEE.\n\n2. O n.o 1 não se aplica aos materiais e objectos de matéria plástica que, pela sua natureza, se destinam claramente a entrar em contacto com géneros alimentícios."
+  },
+  "9c5a01112400b0b7": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. É revogada a Directiva 90/128/CEE, alterada pelas directivas que constam da parte A do anexo VII, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição e aplicação previstos na parte B do anexo VII.\n\n2. As referências às directivas revogadas devem entender-se como referências à presente directiva e ser lidas de acordo com o quadro de correspondências que consta do anexo VIII."
+  },
+  "3ec9ef5d72f5cfcb": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "72f9e81d92132496": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 6 de Agosto de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 40 de 11.2.1989, p. 38.\n\n(2) JO L 75 de 21.3.1990; rectificada por JO L 349 de 13.12.1990, p. 26.\n\n(3) JO L 58 de 28.2.2002, p. 19.\n\n(4) JO L 297 de 23.10.1982, p. 26. Directiva com a última redacção que lhe foi dada pela Directiva 97/48/CEE (JO L 222 de 12.8.1997, p. 10).\n\n(5) JO L 372 de 31.12.1985, p. 14.\n\n(6) JO L 44 de 15.2.1978, p. 15.\n\n(7) JO L 213 de 16.8.1980, p. 42.\n\n(8) JO L 167 de 24.6.1981, p. 6.\n\n(9) JO L 151 de 19.6.1980, p. 21.\n\n(10) JO L 93 de 17.4.1993, p. 27. Directiva alterada pela Directiva 93/111/CE (JO L 310 de 14.12.1993, p. 41)."
+  },
+  "0db3d5625ebcf25c": {
+   "fragment_id": "ANEXO I — DISPOSIÇÕES ADICIONAIS APLICÁVEIS PARA VERIFICAÇÃO DO CUMPRIMENTO DOS LIMITES DE MIGRAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO I — DISPOSIÇÕES ADICIONAIS APLICÁVEIS PARA VERIFICAÇÃO DO CUMPRIMENTO DOS LIMITES DE MIGRAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DISPOSIÇÕES ADICIONAIS APLICÁVEIS PARA VERIFICAÇÃO DO CUMPRIMENTO DOS LIMITES DE MIGRAÇÃO\n\nDisposições gerais\n\n1. Ao comparar os resultados dos ensaios de migração especificados no anexo da Directiva 82/711/CEE, a densidade de todos os simuladores deve ser convencionalmente tomada como 1. Os miligramas de substância(s) libertados por litro de simulador (mg/l) corresponderão assim numericamente a miligramas de substância(s) libertados por quilograma de simulador e, tendo em conta as disposições estabelecidas na Directiva 85/572/CEE, a miligramas de substância(s) libertados por quilograma de género alimentício.\n\n2. Quando os ensaios de migração forem efectuados em amostras retiradas do material ou objecto acabado ou em amostras fabricadas para o efeito, e as quantidades de género alimentício ou simulador postas em contacto com a amostra diferirem das empregadas nas condições reais em que o material ou objecto for utilizado, os resultados obtidos devem ser corrigidos por aplicação da seguinte fórmula:\n\n>PIC FILE= \"L_2002220PT.002202.TIF\">\n\n>POSIÇÃO NUMA TABELA>\n\n3. A determinação da migração é efectuada no material ou objecto acabado ou, se tal for impraticável, utilizando ou tomas retiradas do material ou objecto acabado ou, se necessário, tomas representativas dos produtos acabados.\n\nA amostra deve ser colocada em contacto com o género alimentício ou simulador de modo a representar as condições de contacto em utilização real. Para esse fim, o ensaio deve ser efectuado de tal modo que apenas as partes da amostra destinadas a entrar em contacto com os géneros alimentícios em utilização real fiquem em contacto com o género alimentício ou simulador. Esta condição é especialmente importante no caso de materiais ou objectos que compreendam várias camadas, para tampas, etc.\n\nOs ensaios de migração em tampas, vedantes, rolhas ou dispositivos de vedação semelhantes devem ser efectuados nestes objectos, colocando-os em contacto com os recipientes a que se destinam de modo que corresponda às condições de fecho em utilização normal ou previsível.\n\nSerá admissível em todos os casos demonstrar o cumprimento dos limites de migração utilizando um ensaio mais severo.\n\n4. De acordo com o disposto no artigo 8.o da presente directiva, a amostra do material ou objecto é colocada em contacto com o género alimentício ou simulador adequado durante um período de tempo e a uma temperatura escolhidos por referência às condições de contacto na utilização real, em conformidade com as regras expressas nas Directivas 82/711/CEE e 85/572/CEE. Decorrido o período de tempo prescrito, a determinação analítica da quantidade total das substâncias (migração global) e/ou da quantidade específica de uma ou mais substâncias (migração específica) libertada pela amostra é efectuada no género alimentício ou simulador.\n\n5. Se um material ou objecto se destinar a entrar em contacto repetido com géneros alimentícios, o(s) ensaio(s) de migração deve(m) ser efectuado(s) três vezes numa única amostra, de acordo com as condições estabelecidas na Directiva 82/711/CEE, utilizando-se outra amostra do alimento ou simulador(es) em cada ocasião. O cumprimento do(s) limite(s) de migração deve ser verificado com base no nível da migração encontrado no terceiro ensaio. Todavia, se existirem provas concludentes de que o nível de migração não aumenta no segundo e terceiro ensaios e se o(s) limite(s) de migração não for(em) excedido(s) no primeiro ensaio, não é necessário mais nenhum ensaio.\n\nDisposições especiais relativas à migração global\n\n6. Se forem utilizados os simuladores aquosos especificados nas Directivas 82/711/CEE e 85/572/CEE, a determinação analítica da quantidade total de substâncias libertadas pela amostra pode ser efectuada por evaporação do simulador e pesagem do resíduo.\n\nSe for utilizado azeite refinado ou qualquer um dos seus substitutos, pode ser seguido o procedimento dado a seguir.\n\nA amostra do material ou objecto é pesada antes e depois do contacto com o simulador. O simulador absorvido pela amostra é extraído e determinado quantitativamente. A quantidade de simulador encontrada é subtraída da massa da amostra determinada após contacto com o simulador. A diferença entre as massas inicial e final corrigida representa a migração global da amostra examinada.\n\nSe um material ou objecto se destinar a entrar em contacto repetido com géneros alimentícios e se for tecnicamente impossível efectuar o ensaio descrito no n.o 5, são aceitáveis modificações desse ensaio, desde que permitam a determinação do nível de migração que ocorrer durante o terceiro ensaio. Descreve-se a seguir uma dessas possíveis modificações.\n\nO ensaio é efectuado em três amostras idênticas do material ou objecto. Uma destas será submetida ao ensaio adequado, determinando-se a migração global (M1). As segunda e terceira amostras serão submetidas às mesmas condições de temperatura, mas o período de contacto será o dobro e o triplo do especificado, sendo a migração global determinada em cada caso (M2 e M3, respectivamente).\n\nO material ou objecto será considerado como cumprindo a disposição desde que ou M1 ou M3-M2 não excedam o limite de migração global.\n\n7. Um material ou objecto que exceda o limite de migração global numa quantidade não superior à tolerância analítica mencionada a seguir deve, portanto, ser considerado como estando em conformidade com a presente directiva.\n\nForam observadas as seguintes tolerâncias analíticas:\n\n- 20 mg/kg ou 3 mg/dm2 em ensaios de migração que utilizem azeite refinado ou substitutos,\n\n- 12 mg/kg ou 2 mg/dm2 em ensaios de migração que utilizem os outros simuladores referidos nas Directivas 82/711/CEE e 85/572/CEE.\n\n8. Sem prejuízo das disposições do n.o 2 do artigo 3.o da Directiva 82/711/CEE, os ensaios de migração que utilizem azeite refinado ou substitutos não serão efectuados para verificar o cumprimento do limite de migração global nos casos em que haja provas concludentes de que o método analítico especificado é inadequado de um ponto de vista técnico.\n\nEm tais casos, para as substâncias isentas de limites de migração específica ou outras restrições da lista do anexo II, é aplicado conforme o caso, um limite de migração específica genérico de 60 mg/kg ou 10 mg/dm2. A soma de todas as migrações específicas determinadas não deve, todavia, exceder o limite de migração global."
+  },
+  "69bd8d53a2aa71ba": {
+   "fragment_id": "ANEXO II — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM SER USADAS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM SER USADAS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM SER USADAS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA\n\nINTRODUÇÃO GERAL\n\n1. O presente anexo contém a lista de monómeros e outras substâncias iniciadoras. A lista inclui:\n\n- as substâncias destinadas a serem submetidas a polimerização, para o fabrico de macromoléculas por policondensação, por poliadição ou por qualquer outro processo semelhante,\n\n- as substâncias macromoleculares, naturais ou sintéticas, utilizadas no fabrico de macromoléculas modificadas, no caso de os monómeros ou de as outras substâncias iniciadoras necessários para a sua síntese não constarem da lista,\n\n- as substâncias utilizadas para modificar substâncias macromoleculares, naturais ou sintéticas, existentes.\n\n2. A lista não inclui os sais (incluindo sais duplos e sais ácidos) de alumínio, amónio, cálcio, ferro, magnésio, potássio, sódio e zinco dos ácidos, fenóis ou álcoois autorizados, que são também autorizados; porém, as denominações que contenham \"... ácido(s), sais\" constam das listas se o(s) ácido(s) livre(s) correspondente(s) não for(em) referido(s). Em tais casos, o significado da expressão \"sais\" é \"sais de alumínio, amónio, cálcio, ferro, magnésio, potássio, sódio e zinco\".\n\n3. A lista também não inclui as seguintes substâncias cuja presença é permitida:\n\na) As substâncias que possam encontrar-se presentes no produto acabado, como:\n\n- impurezas nas substâncias utilizadas,\n\n- produtos intermédios da reacção,\n\n- produtos de decomposição;\n\nb) Os oligómeros e as substâncias macromoleculares naturais ou sintéticas, bem como as misturas respectivas, se os monómeros ou as substâncias iniciadoras necessárias para a sua síntese constarem da lista;\n\nc) As misturas das substâncias autorizadas.\n\nOs materiais e objectos que contêm as substâncias indicadas em a), b) e c) devem dar cumprimento às exigências constantes do artigo 2.o da Directiva 89/109/CEE.\n\n4. As substâncias devem ser de boa qualidade técnica no que respeita aos critérios de pureza.\n\n5. A lista contém as seguintes informações:\n\n- coluna 1 (N.o Ref.): o número de referência CEE das substâncias do material de embalagem na lista,\n\n- coluna 2 (N.o CAS): o número de registo CAS (Chemical Abstracts Service),\n\n- coluna 3 (Designação): a designação química,\n\n- coluna 4 (Restrições e/ou especificações). Estas podem incluir:\n\n- o limite de migração específica (=LME),\n\n- a quantidade máxima de substância permitida no material ou objecto acabado (=QM),\n\n- a quantidade máxima permitida de substância no material ou objecto acabado, expressa em mg/6 dm2 da superfície em contacto com os géneros alimentícios (QMA),\n\n- quaisquer outras restrições especificamente referidas,\n\n- qualquer tipo de especificação referente à substância ou ao polímero.\n\n6. Se uma substância referida na lista como composto individual for igualmente abrangida por uma denominação genérica, as restrições aplicáveis a essa substância serão as indicadas para o composto individual.\n\n7. Se houver qualquer incongruência entre o número CAS e a designação química, esta terá preferência sobre o número CAS. Se se verificar discordância entre o número CAS referido no EINECS (Inventário Europeu das Substâncias Químicas Existentes no Mercado) e o registo CAS, será aplicável o número CAS do registo CAS.\n\n8. A coluna 4 do quadro utiliza uma série de abreviaturas ou expressões, cujo significado é o seguinte:\n\nLD= limite de detecção do método de análise;\n\nPA= produto acabado;\n\nNCO= Grupo isocianato;\n\nND= não detectável. Para efeitos da presente directiva, \"não detectável\" significa que a substância não deveria ser detectada com um método de análise validado que a deveria detectar no limite de detecção especificado (LD). Caso esse método não exista, pode usar-se, enquanto se aguarda o desenvolvimento de um método validado, um método analítico com as características de desempenho adequadas ao limite de detecção;\n\nQM= quantidade máxima permitida de substância \"residual\" no material ou objecto;\n\nQM(T)= quantidade máxima permitida de substância \"residual\" no material ou objecto, expressa como o total do agrupamento ou substância(s) indicada(s). Para efeitos da presente directiva, a quantidade de substância no material ou objecto deve ser determinada através de um método de análise validado. Caso, correntemente, esse método não exista, pode usar-se, enquanto se aguarda o desenvolvimento de um método validado, um método analítico com as características de desempenho adequadas ao limite especificado;\n\nQMA= quantidade máxima permitida de substância \"residual\" no material ou objecto acabado, expressa em mg/6 dm2 da superfície em contacto com os géneros alimentícios. Para efeitos da presente directiva, a quantidade de substância na superfície do material ou objecto deve ser determinada através de um método de análise validado. Caso, correntemente, esse método não exista, pode usar-se, enquanto se aguarda o desenvolvimento de um método validado, um método analítico com as características de desempenho adequadas ao limite especificado;\n\nQMA(T)= quantidade máxima permitida de substância \"residual\" no material ou objecto, expressa em mg do total do agrupamento ou substância(s) indicada(s) por 6 dm2 da superfície em contacto com os géneros alimentícios. Para efeitos da presente directiva, a quantidade de substância na superfície do material ou objecto deve ser determinada através de um método de análise validado. Caso, correntemente, esse método não exista, pode usar-se, enquanto se aguarda o desenvolvimento de um método validado, um método analítico com as características de desempenho adequadas ao limite especificado;\n\nLME= limite de migração específica nos géneros alimentícios ou nos simuladores alimentares, a menos que seja especificado de outro modo. Para efeitos da presente directiva, a migração específica da substância deve ser determinada através de um método de análise validado. Caso, correntemente, esse método não exista, pode usar-se, enquanto se aguarda o desenvolvimento de um método validado, um método analítico com as características de desempenho adequadas ao limite especificado;\n\nLME(T)= limite de migração específica nos géneros alimentícios ou nos simuladores alimentares, expressa como total do agrupamento ou substância(s) indicada(s). Para efeitos da presente directiva, a migração específica das substâncias deve ser determinada através de um método de análise validado. Caso, correntemente, esse método não exista, pode usar-se, enquanto se aguarda o desenvolvimento de um método validado, um método analítico com as características de desempenho adequadas ao limite especificado."
+  },
+  "d44bd6ebd723c92c": {
+   "fragment_id": "Secção A — Lista de monómeros e outras substâncias iniciadoras autorizados",
+   "type": "divisao",
+   "heading": "Secção A — Lista de monómeros e outras substâncias iniciadoras autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção A — Lista de monómeros e outras substâncias iniciadoras autorizados\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3763ce6d50d8a149": {
+   "fragment_id": "Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na secção A",
+   "type": "divisao",
+   "heading": "Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na secção A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na secção A\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "be12e373375031e8": {
+   "fragment_id": "ANEXO III — LISTA INCOMPLETA DE ADITIVOS QUE PODEM SER UTILIZADOS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA",
+   "type": "divisao",
+   "heading": "ANEXO III — LISTA INCOMPLETA DE ADITIVOS QUE PODEM SER UTILIZADOS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — LISTA INCOMPLETA DE ADITIVOS QUE PODEM SER UTILIZADOS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA PLÁSTICA\n\nINTRODUÇÃO GERAL\n\n1. O presente anexo contém a lista:\n\na) Das substâncias que são incorporadas nas matérias plásticas para conferirem ao produto acabado determinadas características tecnológicas. A sua presença nos objectos produzidos é, portanto, intencional;\n\nb) Das substâncias cuja função é tornar o meio mais favorável ao processo de polimerização (por exemplo: emulsionantes, agentes tensoactivos, agentes tamponizantes,etc.).\n\nNão figuram na lista as substâncias que influenciam directamente a formação dos polímeros (nomeadamente os catalisadores).\n\n2. A lista não inclui os sais (incluindo sais duplos e sais ácidos) de alumínio, amónio, cálcio, ferro, magnésio, potássio, sódio e zinco dos ácidos, fenóis ou álcoois autorizados, que são também autorizados; porém, as denominações que contenham \"... ácido(s), sais\" constam das listas, se o(s) ácido(s) livre(s) correspondente(s) não for(em) referido(s). Em tais casos, o significado da expressão \"sais\" é \"sais de alumínio, amónio, cálcio, ferro, magnésio, potássio, sódio e zinco\".\n\n3. A lista também não inclui as seguintes substâncias cuja presença é permitida:\n\na) As substâncias que possam encontrar-se presentes no produto acabado, como:\n\n- impurezas nas substâncias utilizadas,\n\n- produtos intermédios da reacção,\n\n- produtos de decomposição;\n\nb) As misturas das substâncias autorizadas.\n\nOs materiais e objectos que contêm as substâncias indicadas em a) e b) devem dar cumprimento às exigências constantes do artigo 2.o da Directiva 89/109/CEE.\n\n4. As substâncias devem ser de boa qualidade técnica no que respeita aos critérios de pureza.\n\n5. A lista contém as seguintes informações:\n\n- coluna 1 (N.o Ref.): o número de referência CEE das substâncias do material de embalagem na lista,\n\n- coluna 2 (N.o CAS): o número de registo CAS (Chemical Abstracts Service),\n\n- coluna 3 (Designação): a designação química,\n\n- Coluna 4 (Restrições e/ou especificações). Estas podem incluir:\n\n- o limite de migração específica (LME),\n\n- a quantidade máxima de substância permitida no material ou objecto acabado (QM),\n\n- a quantidade máxima permitida de substância no material ou objecto acabado, expressa em mg/6 dm2 da superfície em contacto com os géneros alimentícios (QMA),\n\n- quaisquer outras restrições especificamente referidas,\n\n- qualquer tipo de especificação referente à substância ou ao polímero.\n\n6. Se uma substância referida na lista como composto individual for igualmente abrangida por uma denominação genérica, as restrições aplicáveis a essa substância serão as indicadas para o composto individual.\n\n7. Se houver qualquer incongruência entre o número CAS e a designação química, esta terá precedência sobre o número CAS. Se se verificar discordância entre o número CAS referido no EINECS (Inventário Europeu das Substâncias Químicas Existentes no Mercado) e o registo CAS, será aplicável o número CAS do registo CAS."
+  },
+  "ad72b141152bf34d": {
+   "fragment_id": "Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário",
+   "type": "divisao",
+   "heading": "Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "10c466468723aa73": {
+   "fragment_id": "Secção B — Lista incompleta dos aditivos referidos no segundo parágrafo do artigo 4.o",
+   "type": "divisao",
+   "heading": "Secção B — Lista incompleta dos aditivos referidos no segundo parágrafo do artigo 4.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção B — Lista incompleta dos aditivos referidos no segundo parágrafo do artigo 4.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "38f113e2df4d7a69": {
+   "fragment_id": "ANEXO IV — PRODUTOS OBTIDOS POR FERMENTAÇÃO BACTERIANA",
+   "type": "divisao",
+   "heading": "ANEXO IV — PRODUTOS OBTIDOS POR FERMENTAÇÃO BACTERIANA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — PRODUTOS OBTIDOS POR FERMENTAÇÃO BACTERIANA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "b3c9ca45b659b17f": {
+   "fragment_id": "ANEXO V — ESPECIFICAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO V — ESPECIFICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — ESPECIFICAÇÕES"
+  },
+  "22104902fe63194a": {
+   "fragment_id": "PARTE A: Especificações gerais",
+   "type": "divisao",
+   "heading": "PARTE A: Especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE A: Especificações gerais\n\nOs materiais e objectos fabricados a partir de isocianatos aromáticos ou corantes preparados por acoplamento diazóico não devem libertar aminas aromáticas primárias (expressas como anilina) numa quantidade detectável (LD = 0,02 mg/kg de alimento ou de simulador de alimento, incluindo a tolerância analítica). Contudo, excluem-se desta restrição os valores de migração das aminas aromáticas primárias constantes da presente directiva."
+  },
+  "2826b7bcab8c7d59": {
+   "fragment_id": "PARTE B: Outras especificações — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE B: Outras especificações — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B: Outras especificações — >POSIÇÃO NUMA TABELA>"
+  },
+  "a5de7f7bd1e0f98a": {
+   "fragment_id": "ANEXO VI — NOTAS RELATIVAS À COLUNA \"RESTRIÇÕES E/OU ESPECIFICAÇÕES\"",
+   "type": "divisao",
+   "heading": "ANEXO VI — NOTAS RELATIVAS À COLUNA \"RESTRIÇÕES E/OU ESPECIFICAÇÕES\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — NOTAS RELATIVAS À COLUNA \"RESTRIÇÕES E/OU ESPECIFICAÇÕES\"\n\n(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)(20)(21)(22)(23)(24) (25)(26)\n\n(1) Aviso: há o risco de o LME poder ser ultrapassado em simuladores de géneros alimentícios gordos.\n\n(2) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 10060 e 23920.\n\n(3) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 15760, 16990, 47680, 53650 e 89440.\n\n(4) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 19540, 19960 e 64800.\n\n(5) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 14200, 14230 e 41840.\n\n(6) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 66560 e 66580.\n\n(7) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 30080, 42320, 45195, 45200, 53610, 81760, 89200 e 92030.\n\n(8) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 42400, 64320, 73040, 85760, 85840, 85920 e 95725.\n\n(9) Aviso: há o risco de a migração da substância deteriorar as características organolépticas do género alimentício em contacto e, portanto, de o produto acabado não cumprir o disposto no segundo travessão do artigo 2.o da Directiva 89/109/CEE.\n\n(10) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 30180, 40980, 63200, 65120, 65200, 65280, 65360, 65440 e 73120.\n\n(11) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 45200, 64320, 81680 e 86800.\n\n(12) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 36720, 36800, 36840 e 92000.\n\n(13) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 39090 e 39120.\n\n(14) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 44960, 68078, 82020 e 89170.\n\n(15) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 15970, 48640, 48720, 48880, 61280, 61360 e 61600.\n\n(16) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 49600, 67520 e 83599.\n\n(17) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 50160, 50240, 50320, 50360, 50400, 50480, 50560, 50640, 50720, 50800, 50880, 50960, 51040 e 51120.\n\n(18) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 67600, 67680 e 67760.\n\n(19) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 60400, 60480 e 61440.\n\n(20) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 66400 e 66480.\n\n(21) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 93120 e 93280.\n\n(22) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 17260 e 18670.\n\n(23) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 13620, 36840, 40320 e 87040.\n\n(24) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 13720 e 40580.\n\n(25) Neste caso concreto, o LME(T) significa que a restrição não pode ser ultrapassada pelo somatório da migração das substâncias mencionadas com os n.os Ref.: 16650 e 51570.\n\n(26) Neste caso concreto, o QM(T) significa que a restrição não pode ser ultrapassada pelo somatório das quantidades residuais das substâncias mencionadas com os n.os Ref.: 14950, 15700, 16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210, 25240 e 25270."
+  },
+  "ada8536aa5d4f4ff": {
+   "fragment_id": "ANEXO VII — Parte A",
+   "type": "divisao",
+   "heading": "ANEXO VII — Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Parte A\n\nDIRECTIVA REVOGADA E RESPECTIVAS ALTERAÇÕES\n\n(referidas no n.o 1 do artigo 10.o)\n\nDirectiva 90/128/CEE da Comissão (JO L 349 de 13.12.1990, p. 26)\n\nDirectiva 92/39/CEE da Comissão (JO L 168 de 23.6.1992, p. 21)\n\nDirectiva 93/9/CEE da Comissão (JO L 90 de 14.4.1993, p. 26)\n\nDirectiva 95/3/CE da Comissão (JO L 41 de 23.2.1995, p. 44)\n\nDirectiva 96/11/CE da Comissão (JO L 61 de 12.3.1996, p. 26)\n\nDirectiva 1999/91/CE da Comissão (JO L 310 de 4.12.1999, p. 41)\n\nDirectiva 2001/62/CE da Comissão (JO L 221 de 17.8.2001, p. 18)\n\nDirectiva 2002/17/CE da Comissão (JO L 58 de 28.2.2002, p. 19)"
+  },
+  "6426524814d302a6": {
+   "fragment_id": "Parte B — PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+   "type": "divisao",
+   "heading": "Parte B — PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte B — PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL\n\n(Referidos no n.o 1 do artigo 10.o)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "ac7ce8f7c9c19a95": {
+   "fragment_id": "ANEXO VIII — QUADRO DE CORRELAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO VIII — QUADRO DE CORRELAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — QUADRO DE CORRELAÇÃO\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3eb6b1ddf3e8e739": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0072 — PT — 01.05.2011 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0072) [DIRECTIVA 2002/72/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32002L0072) [de 6 de Agosto de 2002](http://publications.europa.eu/resource/celex/32002L0072) [relativa aos materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios](http://publications.europa.eu/resource/celex/32002L0072) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32002L0072) (JO L 220, 15.8.2002, p.18)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 10/2011 da Comissão de 14 Janeiro de 2011](http://publications.europa.eu/resource/celex/32011R0010) — L 12 — 1 — 15.1.2011"
+  }
+ }
+}

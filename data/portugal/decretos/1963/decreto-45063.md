@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:627460:por
+title: Decreto n.º 45063
+short_title: null
+summary: Insere disposições destinadas a facilitar a acção das missões católicas na celebração do casamento canónico dos vizinhos
+  das regedorias
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Justiça
+proposing_entity: null
+official_number: '45063'
+official_date: null
+publication_date: '1963-06-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 134/1963, Série I de 1963-06-06
+  number: '134'
+  series: I
+  supplement: null
+  pages: 686 - 687
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/06/13400/06860687.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '627460'
+  dre_path: /dr/detalhe/decreto/45063-1963-627460
+  internal: pt:dre:627460:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45063-1963-627460
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45063-1963-627460
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 212fc44acb2b41d6fbb8e17a9f2e8ac49047e3a2d7eaae9e28777d5a7abdfd08
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:310179:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:35:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45063
+
+Por efeito da extinção do regime de indigenato, determinada pelo Decreto n.º 43893, de 6 de Setembro de 1961, o casamento canónico passou a ser regulado pela lei geral.
+
+Tal facto teria reflexos imediatos nos serviços do registo civil e, por isso, diploma publicado naquela mesma data procedia à sua reorganização.
+
+Apesar das providências tomadas, não podem ainda aqueles serviços cobrir devidamente todo o extenso território das províncias ultramarinas. Largas distâncias os separam, quer das missões católicas, quer dos núcleos populacionais organizados em regedorias, onde, na maior parte dos casos, continua a aplicar-se exclusivamente o direito privado tradicional.
+
+Torna-se deste modo imperioso facilitar a acção das missões católicas na celebração do casamento entre as pessoas que se regem por esse direito, tarefa, aliás, facilitada pela circunstância de o [Decreto n.º 35461](https://diariodarepublica.pt/dr/detalhe/decreto/35461-1946-310179), de 22 de Janeiro de 1946, ter perfeitamente regulado o assunto, fixando assim as bases essenciais para a solução do problema.
+
+As medidas agora tomadas destinam-se apenas a resolver as questões mais instantes, reservando-se tudo o mais para o Código do Registo Civil, já em adiantada preparação.
+
+Nestes termos, ouvido o Conselho Ultramarino; e
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º - 1. O casamento canónico dos vizinhos das regedorias regular-se-á pelas disposições aplicáveis ao casamento católico, com as alterações do presente diploma.
+
+2. Para o efeito do disposto neste diploma, são havidos como vizinhos das regedorias todos aqueles que, tendo domicílio numa regedoria, devam considerar-se vizinhos segundo o direito tradicional.
+
+Art. 2.º - 1. Antes da celebração do casamento, os párocos ou os missionários organizarão e instruirão um processo preliminar de acordo com as leis canónicas, para o que as paróquias e missões serão consideradas delegacias do registo civil.
+
+2. O casamento não poderá em qualquer caso ser celebrado se o pároco ou o missionário apurar a existência dos impedimentos de casamento civil anterior não dissolvido, ou de demência judicialmente verificada.
+
+Art. 3.º O consentimento para o casamento que deva ser dado pelos pais ou legais representantes do nubente, quando este seja menor de 21 anos ou não esteja emancipado, pode ser suprido pelo missionário, se entender que assim o exige o bem do mesmo nubente.
+
+Art. 4.º - 1. O assento paroquial será lavrado em duplicado e conforme modelo oficialmente aprovado, logo após a celebração do matrimónio, e nele deverão figurar as seguintes indicações:
+
+a) Circunscrição eclesiástica, data e hora da celebração, bem como a circunscrição administrativa, se não coincidir com aquela;
+
+b) Nome completo do pároco ou do missionário do lugar e do sacerdote que tiver oficiado no casamento;
+
+c) Nome completo, idade, estado, profissão, naturalidade e residência dos nubentes e o nome profano, se for diferente do nome do baptismo em caso de conversão à fé católica;
+
+d) Nome completo, estado, naturalidade e residência dos pais e indicação de que são vivos ou já falecidos, bem como os nomes dos procuradores dos nubentes, se os houver;
+
+e) Referência ao regime de bens do casamento;
+
+f) Apelidos do marido adoptados pela nubente;
+
+g) Referência à existência do consentimento dos pais ou representantes legais dos nubentes menores não emancipados, ou seu suprimento;
+
+h) Declaração prestada pelos nubentes de que realizam o casamento por sua livre vontade;
+
+i) Menção de que se não verificaram os impedimentos previstos na lei canónica e no n.º 2 do artigo 2.º;
+
+j) Nome completo, estado, profissão e residência de duas testemunhas;
+
+k) Nome completo da pessoa que tiver lavrado o assento.
+
+2. O assento, depois de lido em voz alta, será assinado, bem como o duplicado, pelos cônjuges e testemunhas, quando saibam e o possam fazer, pelo sacerdote oficiente e pelo que lavrou ou mandou lavrar o assento.
+
+Art. 5.º - 1. O pároco ou o missionário é obrigado a enviar, até ao dia 10 de cada mês, à repartição do registo civil da área do lugar da celebração o duplicado dos assentos do mês anterior, para ali serem transcritos no respectivo livro, após o que o casamento católico produzirá todos os efeitos civis.
+
+2. A obrigação da remessa do duplicado não é aplicável:
+
+a) Aos casamentos de consciência, cujos assentos só podem ser transcritos perante certidão de teor e mediante denúncia feita pela autoridade eclesiástica;
+
+b) Aos casamentos em que, logo após a celebração, se verifique a necessidade de convalidar o acto mediante a renovação do consentimento dos cônjuges na forma canónica, bastando remeter à repartição do registo civil, quando assim seja, o duplicado do assento paroquial da nova celebração.
+
+Art. 6º A transcrição dos actos de casamento celebrados nas paróquias ou missões católicas, agindo como delegacias do registo civil, é isenta de selo e de emolumentos.
+
+Art. 7.º - 1. Incorre em responsabilidade civil e nas penas de desobediência qualificada o sacerdote que deixar de observar o disposto no n.º 2 do artigo 2.º e no n.º 1 do artigo 4.º
+
+2. As penas aplicáveis serão obrigatòriamente convertidas em multa na primeira condenação e na primeira reincidência.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 6 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.

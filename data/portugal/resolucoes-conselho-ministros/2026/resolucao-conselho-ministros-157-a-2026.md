@@ -1,0 +1,290 @@
+---
+schema_version: '1.0'
+id: pt:dre:1153918028:por
+title: Resolução do Conselho de Ministros n.º 157-A/2026
+short_title: null
+summary: Alteração do Programa da Orla Costeira Ovar ― Marinha Grande, aprovado através da Resolução do Conselho de Ministros
+  n.º 112/2017, de 10 de agosto.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 157-A/2026
+official_date: null
+publication_date: '2026-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31
+  number: '147'
+  series: I
+  supplement: null
+  pages: 2 - 11
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14704/0000200011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/157-a/2026/07/31/p/dre/pt/html
+  oj: null
+  dre: '1153918028'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/157-a-2026-1153918028
+  internal: pt:dre:1153918028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/157-a-2026-1153918028
+  metadata_url: https://data.dre.pt/eli/resolconsmin/157-a/2026/07/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/157-a-2026-1153918028
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f37f026a7a540867c032fd7ed08eb839fb83a4c47daca2cb74a221482df59c9d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Marinha Grande
+- Ordenamento do Território
+- Orla Costeira
+- Ovar
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
+- Programa
+- Proteção do Ambiente
+relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:112/2017
+  label: Altera, a partir de 1 de agosto de 2026, o anexo i e o modelo territorial do anexo ii da Resolução do Conselho de
+    Ministros n.º 112/2017, de 10 de agosto, Diário da República n.º 154/2017, Série I
+  source: null
+  date: '2017-08-10'
+- type: cites
+  target: pt:dre:107987275:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/112/2017/08/10/p/dre
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2012/07/24/p/dre
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/232/2007/06/15/p/dre
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+- type: cites
+  target: pt:dre:860274599:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:48:43Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 157-A/2026
+
+O Programa da Orla Costeira de Ovar - Marinha Grande (POC-OMG), aprovado através da [Resolução do Conselho de Ministros n.º 112/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2017-107987275), de 10 de agosto, visa, enquanto instrumento de ordenamento dos recursos hídricos, estabelecer as bases, o quadro institucional, bem como as medidas adequadas à proteção e valorização dos recursos hídricos na sua área de intervenção, que abrange as águas marítimas costeiras e interiores e os respetivos leitos e margens, assim como as faixas de proteção marítimas e terrestres inseridas na área de circunscrição territorial da Administração da Região Hidrográfica do Centro da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), dos municípios de Ovar, Murtosa, Aveiro, Ílhavo, Vagos, Mira, Cantanhede, Figueira da Foz, Pombal, Leiria e Marinha Grande, a área da Barrinha de Esmoriz/Lagoa de Paramos, no concelho de Espinho, e a totalidade do concelho da Marinha Grande.
+
+A extensão aproximada de cerca de 140 km da orla costeira do POC-OMG, caracterizada por extensos e contínuos areais, constitui um dos maiores desafios do litoral nacional em termos de gestão integrada de recursos e esforços, designadamente, de minimização de riscos sobre pessoas e bens, atendendo a que grande parte deste território está fortemente ameaçado por um dos processos erosivos mais intensos da orla costeira europeia.
+
+Assim, no âmbito dos objetivos visados pelo POC-OMG, inscrevem-se o da valorização da fruição pública e em segurança do domínio público marítimo, promovendo um ordenamento adaptativo das praias, garantindo condições de segurança da sua utilização e a viabilidade das atividades económicas associadas.
+
+Para a prossecução destes objetivos, o POC-OMG procedeu à delimitação e classificação das praias marítimas no seu modelo territorial, enquanto as medidas que visam disciplinar os usos e as atividades foram definidas em regulamento administrativo, concretizando as normas de gestão estabelecidas nas diretivas do programa, atendendo ao disposto no artigo 10.º do [Decreto-Lei n.º 159/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2012-179368), de 24 de julho.
+
+Decorridos sete anos desde a aprovação do POC-OMG, verificou-se a necessidade de adequar a delimitação e a classificação das praias marítimas à situação existente e à procura para uso balnear e atividades complementares, bem como de proceder à correção de erros e incongruências detetados pelas diferentes entidades competentes, no âmbito da execução do programa, nas normas que contêm os princípios e os critérios para o uso e gestão das praias com aptidão balnear e zonas envolventes.
+
+Neste contexto, o [Despacho n.º 4034/2024](https://diariodarepublica.pt/dr/detalhe/despacho/4034-2024-860274599), publicado no Diário da República, 2.ª série, n.º 74, de 12 de abril, determinou a promoção da alteração ao POC-OMG, cometida à APA, I. P., cuja elaboração técnica foi acompanhada por uma comissão consultiva, que congregou, nos termos do n.º 3 daquele despacho, um conjunto alargado de entidades representativas dos interesses em presença. Nos termos do n.º 6 do referido despacho, e atendendo ao disposto no artigo 4.º do [Decreto-Lei n.º 232/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2007-639155), de 15 de junho, em articulação com os n.os 1 e 2 do artigo 120.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio (RJIGT), a alteração ao POC-OMG não foi sujeita a avaliação ambiental. Na sequência da emissão de parecer final da comissão consultiva e de reuniões de concertação com vista a ultrapassar objeções levantadas, a proposta de alteração ao POC-OMG foi revista e submetida, nos termos do artigo 50.º do RJIGT, a discussão pública, que decorreu entre 19 de março e 2 de maio de 2025.
+
+Deste processo resultaram, por um lado, a introdução de alterações pontuais às diretivas do POC-OMG, e, por outro, tal como refletido no modelo territorial ora atualizado, a criação e reclassificação das seguintes praias: Velha dos Pescadores de Esmoriz, Cortegaça/Parque de Campismo, Santa Marinha e Furadouro Sul, no município de Ovar; Biarritz Ria, no município de Ílhavo; Barrinha de Mira, no município de Mira; Murtinheira, no município de Figueira da Foz; e Água de Madeiros, no município de Marinha Grande.
+
+Simultaneamente, a APA, I. P., procedeu à revisão do Regulamento de Gestão das Praias Marítimas do Troço Ovar - Marinha Grande e dos Planos de Intervenção nas Praias (PIP), a que se refere o ponto 1.4 das diretivas, com vista a incorporar as alterações ora aprovadas, bem como ajustar o regime de gestão aplicável a determinadas praias, a exemplo da praia da Costinha, no município da Figueira da Foz, que é classificada como natural, com a possibilidade de ter um apoio de praia amovível e sazonal em função dos condicionamentos ambientais da praia e sua envolvente, e da Praia do Urso, no município de Pombal, que, apesar da manutenção da sua classificação como natural, passa a admitir a instalação de um apoio de praia mínimo amovível, tendo, ainda, sido identificado um acesso de emergência, e respetivo estacionamento, pelo que foi elaborado, para ambas, PIP, do qual constam os respetivos condicionamentos.
+
+Considerando que a alteração ao POC-OMG não implica a atualização dos planos territoriais preexistentes, versando apenas sobre as normas de gestão da respetiva área de incidência territorial e não condicionando a ocupação, uso e transformação do solo, não há lugar às audições a que refere a alínea b) do n.º 2 do artigo 51.º do RJIGT.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 51.º, do n.º 1 do artigo 116.º e do n.º 1 do artigo 119.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Alterar o anexo i da [Resolução do Conselho de Ministros n.º 112/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2017-107987275), de 10 de agosto, que aprova o Programa da Orla Costeira Ovar - Marinha Grande (POC-OMG), com a redação constante do anexo i da presente resolução e da qual faz parte integrante.
+
+2 - Alterar o modelo territorial do anexo ii da [Resolução do Conselho de Ministros n.º 112/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2017-107987275), de 10 de agosto, pelo modelo territorial constante do anexo ii da presente resolução e da qual faz parte integrante.
+
+3 - Determinar que as alterações previstas nos números anteriores não implicam a atualização dos planos territoriais preexistentes, incidindo exclusivamente sobre as normas de gestão do POC-OMG e não condicionando a ocupação, o uso nem a transformação do solo no respetivo âmbito de incidência territorial.
+
+4 - Estabelecer que os elementos referidos nos n.os1 e 2 encontram-se disponíveis para consulta no Sistema Nacional de Informação Territorial e no sítio na Internet da Agência Portuguesa do Ambiente, I. P.
+
+5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 21 de maio de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO I — (a que se refere o n.º 1)
+
+«ANEXO I
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+3.1 - [...]
+
+3.2 - [...]
+
+3.2.1 - [...]
+
+3.2.2 - [...]
+
+3.2.3 - [...]
+
+3.2.4 - [...]
+
+[...]
+
+A delimitação e classificação das praias marítimas consta do modelo territorial, dividindo-se as praias marítimas do POC-OMG em seis tipologias:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) Tipo VI - praia com uso interdito.
+
+3.2.5 - [...]
+
+[...]
+
+• Núcleos piscatórios - Locais onde a atividade piscatória, designadamente a arte xávega, se desenvolve com expressão relevante, beneficiando de condições físicas e funcionais de acesso e operação no areal, bem como de diversas infraestruturas de apoio, sendo feita a distinção entre os núcleos de nível i, onde a atividade assume maior expressão e necessita de maior nível de infraestruturação (casos da Praia de Esmoriz, Praia da Cortegaça, Furadouro, Torreira, Vagueira, Praia de Mira e Praia da Vieira), e de nível ii (casos de Torrão do Lameiro, Areão, Poço da Cruz, Praia de Mira Sul, Praia da Tocha, Cova-Gala, Costa de Lavos, Leirosa e Pedrógão), onde apenas se justifica assegurar condições de operação no areal, bem como de instalações associadas de construção ligeira.
+
+4 - [...]
+
+4.1 - [...]
+
+4.2 - [...]
+
+4.3 - [...]
+
+[...]
+
+4.3.1 - [...]
+
+[...]
+
+Quadro 1
+
+Critérios e parâmetros para o dimensionamento dos apoios de praia
+
+| Tipologia de praia | Critérios para a definição da capacidade de carga | Parâmetros para a definição da tipologia e número de apoios |  |
+| --- | --- | --- | --- |
+| Intensidade | Acessibilidade |  |  |
+| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/7,5 m2 + área útil balnear não concessionada/15 m2 | [...] | [...] |
+| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/15 m2 + área útil balnear não concessionada/25 m2 | [...]. |  |
+| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/15 m2 + área útil balnear não concessionada/25 m2 | [...] |  |
+
+[...]
+
+4.3.2 - [...]
+
+4.3.3 - [...]
+
+4.3.4 - [...]
+
+[...]
+
+NGe19. As características e dimensionamento das estruturas de apoio à pesca artesanal nos Núcleos Piscatórios devem considerar a dimensão da atividade em cada núcleo e as condições de operação existentes, devendo os Núcleos Piscatórios subdividirem-se nas seguintes tipologias:
+
+a) Núcleos piscatórios de nível i - Praia de Esmoriz, Praia da Cortegaça, Furadouro, Torreira, Vagueira, Praia de Mira e Praia da Vieira;
+
+b) Núcleos piscatórios de nível ii - Torrão do Lameiro, Areão, Poço da Cruz, Praia de Mira Sul, Praia da Tocha, Cova-Gala, Costa de Lavos, Leirosa e Pedrógão.
+
+[...]
+
+5 - [...]»
+
+## ANEXO II — (a que se refere o n.º 2)
+
+«ANEXO II
+
+Modelo Territorial
+
+(a que se refere o n.º 1)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917840.png) |
+| --- |
+
+[POC_MT_F1]
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917841.png) |
+| --- |
+
+[POC_MT_F2]
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917842.png) |
+| --- |
+
+[POC_MT_F3]
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917843.png) |
+| --- |
+
+[POC_MT_F4]
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917844.png) |
+| --- |
+
+[POC_MT_F5]
+
+86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F1.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F1.jpg)
+
+86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F2.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F2.jpg)
+
+86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F3.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F3.jpg)
+
+86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F4.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F4.jpg)
+
+86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F5.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F5.jpg)
+
+119949259
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:17px; } .Tbl4 { text-align:center; } .Tbl5 { height:26px; } .Tbl6 { min-height:62px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; }

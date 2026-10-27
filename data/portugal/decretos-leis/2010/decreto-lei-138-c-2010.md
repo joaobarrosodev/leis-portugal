@@ -1,0 +1,298 @@
+---
+schema_version: '1.0'
+id: pt:dre:666882:por
+title: Decreto-Lei n.º 138-C/2010
+short_title: null
+summary: Regula o apoio do Estado aos estabelecimentos do ensino particular e cooperativo, procedendo à quarta alteração do
+  Estatuto do Ensino Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 553/80, de 21 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 138-C/2010
+official_date: null
+publication_date: '2010-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28
+  number: '250'
+  series: I
+  supplement: null
+  pages: 5970-(13) a 5970-(14)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25001/0001300014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/138-c/2010/12/28/p/dre/pt/html
+  oj: null
+  dre: '666882'
+  dre_path: /dr/detalhe/decreto-lei/138-c-2010-666882
+  internal: pt:dre:666882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882
+  metadata_url: https://data.dre.pt/eli/dec-lei/138-c/2010/12/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b1dc54232259d5aec4dca48ed1af9a8c68bab5939710d48e8a38d9b2b346acbf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato
+- Ensino Cooperativo
+- Ensino não Superior
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estatuto do Ensino Particular e Cooperativo
+- Financiamento
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:504756:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:180670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504756:por
+  label: "Revogado a partir de 05.11.2013 o Dec Lei 553/80, de 21-nov, na redação do presente diploma, pelo DEC LEI.152/2013.04.11.2013.MECI,\
+    \ DR.IS [213] de 04.11.2013, sem prejuízo do disposto no n.º 4 do art. 6º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2013-504756
+  date: '2013-11-04'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:12:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 138-C/2010
+
+de 28 de Dezembro
+
+O presente decreto-lei regula o apoio do Estado aos estabelecimentos do ensino particular e cooperativo, permitindo a alteração das regras de financiamento e a renegociação dos contratos celebrados entre o Ministério da Educação e diversas escolas deste sector.
+
+Nos termos previstos no Estatuto do Ensino Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, o Estado financia estas escolas, designadamente onde e quando tal seja necessário para completar a oferta da rede pública de escolas e, assim, garantir o acesso universal à educação.
+
+Em zonas carecidas de escolas públicas, o Estado celebra contratos de associação com escolas particulares, com a finalidade de possibilitar às populações locais a frequência das escolas particulares nas mesmas condições de gratuitidade do ensino público.
+
+Decorridas três décadas desde o início da vigência do Estatuto, verificou-se que o esquema de financiamento do ensino particular e cooperativo está desactualizado face à evolução da rede de escolas públicas dos últimos 30 anos e à melhoria das condições de ensino, tornando-se necessário racionalizar a gestão dos recursos financeiros públicos.
+
+São, assim, criadas as condições para proceder à renegociação dos contratos entre o Ministério da Educação e as escolas particulares, uma vez que se constata que o financiamento pelo Estado das escolas particulares e cooperativas, através destes contratos, não é tão necessário como era há três décadas. Com efeito, o investimento na escola pública, tanto no alargamento da rede como na modernização e na qualidade do ensino, determina que sejam reequacionados os termos do apoio ao ensino particular e cooperativo.
+
+O objectivo é generalizar regras de financiamento assentes no princípio do financiamento por turma e por aluno, já adoptadas no financiamento dos cursos profissionais e de outras ofertas educativas de dupla certificação ministradas nas escolas profissionais privadas.
+
+Estas regras permitem ter um esquema de financiamento mais simples e mais claro, diminuir substancialmente a carga burocrática, reforçar a equidade no tratamento das entidades promotoras do ensino particular e cooperativo e promover a igualdade de oportunidades nas condições de ensino dos alunos abrangidos pelo financiamento.
+
+Refira-se, finalmente, que o presente decreto-lei, ao permitir renegociar os termos de financiamento do ensino particular e cooperativo, traduz um exercício de racionalização da gestão dos recursos financeiros públicos, que ganha particular relevo num momento de esforço nacional de consolidação e equilíbrio das contas públicas.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e pela [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), de 19 de Março, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei regula o apoio do Estado às escolas particulares e cooperativas de ensino não superior, alterando o [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+
+###### Artigo 2.º — Alteração do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro
+
+Os artigos 12.º, 13.º, 15.º, 17.º e 20.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 12.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os contratos devem:
+
+a) Especificar os direitos e as obrigações assumidas pelas escolas e pelo Estado; e
+
+b) Seguir a minuta aprovada por portaria do membro do Governo responsável pela área da educação.
+
+5 - ...
+
+Artigo 13.º
+
+1 - ...
+
+2 - Os contratos têm âmbito plurianual, sem prejuízo do ajuste do montante de financiamento em cada ano lectivo, em função da alteração do número de alunos ou de turmas a financiar, podendo ser renovados por acordo das partes.
+
+3 - ...
+
+4 - (Revogado.)
+
+Artigo 15.º
+
+1 - O Estado concede às escolas que celebrem contratos de associação um apoio financeiro, que consiste na atribuição de um subsídio, nos termos a fixar por portaria do membro do Governo responsável pela área da educação.
+
+2 - (Revogado.)
+
+3 - O Estado assegura que o contrato de associação é mantido até à conclusão do ciclo de ensino pelas turmas por ele abrangidas.
+
+4 - A portaria a que se refere o n.º 1 deve:
+
+a) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por turma, tendo em consideração os custos das turmas das escolas públicas de nível e grau equivalentes;
+
+b) Estabelecer, quanto a novos contratos plurianuais a celebrar ou a renovar para um novo ciclo de ensino, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do subsídio a conceder, tendo em conta os calendários do ano lectivo, devendo as comunicações realizar-se preferencialmente por meios electrónicos;
+
+c) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do subsídio a conceder, designadamente o número de turmas constituídas, devendo as comunicações realizar-se preferencialmente por meios electrónicos;
+
+d) Estabelecer os termos em que o subsídio é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo.
+
+Artigo 17.º
+
+1 - ...
+
+2 - O subsídio a conceder pelo Estado e a redução da propina a que a escola se obriga são fixados por portaria do membro do Governo responsável pela área da educação.
+
+3 - O Estado assegura que o contrato simples é mantido até à conclusão do ciclo de ensino pelos alunos por ele abrangidos.
+
+4 - A portaria a que se refere o n.º 1 deve:
+
+a) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por aluno, tendo em consideração a diferenciação do financiamento de acordo com a condição económica do agregado familiar;
+
+b) Estabelecer, quanto a novos contratos plurianuais a celebrar ou a renovar para um novo ciclo de ensino, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do subsídio a conceder, tendo em conta os calendários do ano lectivo, devendo as comunicações realizar-se preferencialmente por meios electrónicos;
+
+c) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do subsídio a conceder, designadamente o número de alunos abrangidos, devendo as comunicações realizar-se preferencialmente por meios electrónicos;
+
+d) Estabelecer os termos em que o subsídio é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo.
+
+Artigo 20.º
+
+1 - ...
+
+a) Conceder um subsídio, nos termos a fixar por portaria do membro do Governo responsável pela área da educação;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+2 - (Revogado.)
+
+3 - O Estado assegura que o contrato de patrocínio é mantido até à conclusão do ciclo de ensino pelas turmas e pelos alunos por ele abrangidos.
+
+4 - A portaria a que se refere a alínea a) do n.º 1 deve:
+
+a) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por turma ou por aluno;
+
+b) Estabelecer, quanto a novos contratos plurianuais a celebrar ou a renovar para um novo ciclo de ensino, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do subsídio a conceder, tendo em conta os calendários do ano lectivo, devendo as comunicações realizar-se preferencialmente por meios electrónicos;
+
+c) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do subsídio a conceder, designadamente o número de alunos abrangidos ou de turmas constituídas, devendo as comunicações realizar-se preferencialmente por meios electrónicos;
+
+d) Estabelecer os termos em que o subsídio é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo.»
+
+###### Artigo 3.º — Contratos em vigor
+
+1 - Os contratos de associação em execução à data da entrada em vigor do presente decreto-lei são renegociados de acordo com as regras estabelecidas no presente decreto-lei e respectiva regulamentação.
+
+2 - A renegociação prevista no número anterior não determina a cessação da vigência dos contratos em execução à data de entrada em vigor do presente decreto-lei.
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 4 do artigo 13.º, o n.º 2 do artigo 15.º, o n.º 2 do artigo 20.º, o artigo 22.º e o n.º 2 do artigo 103.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro;
+
+b) O [Decreto-Lei n.º 37/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1983-308346), de 25 de Janeiro;
+
+c) A [Portaria n.º 613/85](https://diariodarepublica.pt/dr/detalhe/portaria/613-1985-180670), de 19 de Agosto;
+
+d) O artigo 5.º do [Decreto-Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1988-286306), de 31 de Março;
+
+e) O [Decreto-Lei n.º 344/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1988-355512), de 28 de Setembro;
+
+f) O [Decreto-Lei n.º 484/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1988-353888), de 29 de Dezembro;
+
+g) Os artigos 25.º e 28.º do [Decreto-Lei n.º 35/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1990-335264), de 25 de Janeiro.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel Girão de Melo Veiga Vilar.
+
+Promulgado em 27 de Dezembro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de Dezembro de 2010.
+
+Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.

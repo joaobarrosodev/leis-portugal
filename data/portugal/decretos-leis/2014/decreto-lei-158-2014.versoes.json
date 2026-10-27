@@ -1,0 +1,805 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58585557:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-106535930",
+ "dre_path": "/dr/detalhe/decreto-lei/158-2014-58585557",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-10-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106489874",
+    "106532575",
+    "106532576",
+    "106532577",
+    "106532578",
+    "106532579",
+    "106532580",
+    "106532582",
+    "106532583",
+    "106532584",
+    "106532585",
+    "106532586",
+    "106532587",
+    "106532588",
+    "106532589",
+    "106532590",
+    "106532591",
+    "106532592",
+    "106532593",
+    "106532594",
+    "106532595",
+    "106532596",
+    "106532597",
+    "106532598",
+    "106532599",
+    "106532600",
+    "106532601",
+    "106532602",
+    "106532603",
+    "106532604",
+    "106532605",
+    "106532606",
+    "106532607",
+    "106532608",
+    "106532609",
+    "106532610",
+    "106532611"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "106489874",
+    "106532575",
+    "106532576",
+    "106532577",
+    "106532578",
+    "106532579",
+    "106532580",
+    "106532581",
+    "106532582",
+    "106532583",
+    "106532584",
+    "106532585",
+    "117659200",
+    "106532587",
+    "106532588",
+    "106532589",
+    "106532590",
+    "106532591",
+    "106532592",
+    "106532593",
+    "106532594",
+    "106532595",
+    "106532596",
+    "106532597",
+    "117659201",
+    "106532599",
+    "117659202",
+    "106532601",
+    "106532602",
+    "106532603",
+    "106532604",
+    "106532605",
+    "106532606",
+    "106532607",
+    "106532608",
+    "106532609",
+    "106532610",
+    "106532611"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140950562:por",
+     "title": "Lei n.º 47/2020",
+     "published": "2020-08-24",
+     "dre_path": "/dr/detalhe/lei/47-2020-140950562"
+    }
+   ],
+   "changes": [
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "106489874",
+    "106532575",
+    "106532576",
+    "106532577",
+    "106532578",
+    "106532579",
+    "106532580",
+    "106532581",
+    "208644788",
+    "208644789",
+    "208644790",
+    "208644791",
+    "208644792",
+    "208644793",
+    "208644794",
+    "208644795",
+    "208644796",
+    "208644797",
+    "208644798",
+    "208644799",
+    "208644800",
+    "208644801",
+    "208644802",
+    "208644803",
+    "208644804",
+    "208644805",
+    "208644806",
+    "208644807",
+    "208644808",
+    "208644809",
+    "208644810",
+    "208644811",
+    "208644812",
+    "208644813",
+    "208644814",
+    "208644815",
+    "208644816",
+    "208644817"
+   ]
+  }
+ ],
+ "fragments": {
+  "106489874": {
+   "fragment_id": "106535931",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 158/2014\n\nde 24 de outubro\n\nO presente decreto-lei transpõe para a ordem jurídica interna o artigo 5.º da Diretiva n.º 2008/8/CE, do Conselho, de 12 de fevereiro de 2008, que altera a Diretiva n.º 2006/112/CE, do Conselho, de 28 de novembro de 2006, relativa ao sistema comum do imposto sobre o valor acrescentado (Diretiva do IVA).\n\nA transposição do artigo 5.º da Diretiva n.º 2008/8/CE, do Conselho, de 12 de fevereiro de 2008, implica a introdução de alterações ao artigo 6.º do Código do Imposto sobre o Valor Acrescentado (Código do IVA) em matéria da localização das prestações de serviços de telecomunicações, de radiodifusão ou televisão e dos serviços por via eletrónica, quando efetuadas a não sujeitos passivos, as quais passam a ser tributadas no lugar onde o destinatário está estabelecido ou tem o seu domicílio.\n\nAdicionalmente, o artigo 6.º do Código do IVA é alterado no sentido de ser concretizada a possibilidade prevista na alínea b) do artigo 59.º-A da Diretiva do IVA, determinando-se a tributação em Portugal dos serviços de telecomunicações, de radiodifusão ou televisão ou prestados por via eletrónica nas situações em que, estando o adquirente dos serviços estabelecido ou domiciliado fora da Comunidade, a exploração e utilização efetivas dos mesmos tenha lugar no território nacional.\n\nNo sentido de simplificar o cumprimento das obrigações referentes ao IVA em Estados-membros nos quais os sujeitos passivos não estejam estabelecidos, relativamente aos serviços de telecomunicações, de radiodifusão ou televisão ou prestados por via eletrónica a destinatários que não sejam sujeitos passivos do imposto, é ainda introduzido um regime especial que permite a tais sujeitos passivos o respetivo registo para efeitos do IVA e a entrega das declarações de registo e de imposto num único Estado-membro.\n\nA introdução deste regime especial, aplicável, aos sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio na Comunidade mas que não estejam estabelecidos no Estado membro de consumo, bem como aos sujeitos passivos não estabelecidos na Comunidade, determina a revogação do regime especial aprovado pelo Decreto-Lei n.º 130/2003, de 28 de junho, alterado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 237.º da Lei n.º 83-C/2013, de 31 de dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "106532575": {
+   "fragment_id": "106535932",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma procede à transposição para a ordem jurídica interna do artigo 5.º da Diretiva n.º 2008/8/CE, do Conselho, de 12 de fevereiro de 2008, em matéria de localização das prestações de serviços, introduzindo alterações na legislação do imposto sobre o valor acrescentado (IVA), no que diz respeito às prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica e aprovando o regime especial do IVA para sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade."
+  },
+  "106532576": {
+   "fragment_id": "106535933",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código do IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do IVA\n\nO artigo 6.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, abreviadamente designado por Código do IVA, passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, quando o destinatário for uma pessoa estabelecida ou domiciliada fora do território nacional.\n\n10 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, quando o destinatário for uma pessoa estabelecida ou domiciliada no território nacional.\n\n11 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [Revogada];\n\nj) [Revogada];\n\nl) [Revogada];\n\nm) [...].\n\n12 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) Prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, cujo destinatário seja uma pessoa estabelecida ou domiciliada fora da Comunidade, quando o prestador tenha no território nacional a sede da sua atividade, um estabelecimento estável ou, na sua falta, o domicílio, a partir do qual os serviços sejam prestados, e a utilização e exploração efetivas desses serviços tenham lugar no território nacional;\n\ne) [...].\n\n13 - [...].\n\n14 - Para efeitos da alínea d) do n.º 12, considera-se que a utilização e exploração efetivas ocorrem no território nacional em situações em que a presença física neste território do destinatário direto dos serviços seja necessária para a prestação dos mesmos, nomeadamente, quando os mesmos sejam prestados em locais como cabines ou quiosques telefónicos, lojas abertas ao público, átrios de hotel, restaurantes, cibercafés, áreas de acesso a uma rede local sem fios e locais similares.\n\n15 - Sendo o destinatário dos serviços uma pessoa que não seja um sujeito passivo dos referidos no n.º 5 do artigo 2.º, para além das situações abrangidas pelo número anterior, considera-se que a utilização e exploração efetivas ocorrem no território nacional quando se situar neste território o local em que aquele disponha de uma linha fixa instalada, o local a que pertença o indicativo da rede móvel de um módulo de identificação de assinante (cartão SIM), ou o local em que esteja situado um descodificador ou dispositivo similar ou, sendo este local desconhecido, para onde tenha sido remetido um cartão de visualização, através dos quais os serviços de telecomunicações, de radiodifusão ou televisão ou os serviços por via eletrónica sejam prestados.»"
+  },
+  "106532577": {
+   "fragment_id": "106535934",
+   "type": 11,
+   "heading": "Artigo 3.º — Aprovação do regime especial do imposto sobre o valor acrescentado para sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aprovação do regime especial do imposto sobre o valor acrescentado para sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade\n\nÉ aprovado, em anexo ao presente diploma e que dele faz parte integrante, o regime especial do IVA para sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade."
+  },
+  "106532578": {
+   "fragment_id": "106535935",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\n1 - São revogadas as alíneas i), j) e l) do n.º 11 do artigo 6.º do Código do IVA.\n\n2 - É revogado o regime especial para sujeitos passivos não estabelecidos na Comunidade que prestem serviços por via eletrónica a não sujeitos passivos nela residentes, aprovado pelo Decreto-Lei n.º 130/2003, de 28 de junho, alterado pelo Decreto-Lei n.º 186/2009, de 12 de agosto."
+  },
+  "106532579": {
+   "fragment_id": "106535936",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma transitória\n\n1 - Os sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade, que pretendam aplicar o regime especial a que se refere o artigo 3.º a partir de 1 de janeiro de 2015 podem, desde a entrada em vigor do presente diploma até e 31 de dezembro de 2014, efetuar por via eletrónica, junto da Autoridade Tributária e Aduaneira, o registo para efeitos da aplicação do referido regime.\n\n2 - Os sujeitos passivos que em 31 de dezembro de 2014 se encontrem abrangidos pelo regime especial referido no n.º 2 do artigo anterior ficam automaticamente abrangidos pelo regime especial a que se refere o artigo 3.º"
+  },
+  "106532580": {
+   "fragment_id": "106535937",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo no disposto no número seguinte, o presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O disposto nos artigos 2.º a 4.º produz os seus efeitos a partir de 1 de janeiro de 2015."
+  },
+  "106532582": {
+   "fragment_id": "106535939",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\nRegime especial do imposto sobre o valor acrescentado para sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade."
+  },
+  "106532583": {
+   "fragment_id": "106535940",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito de aplicação do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito de aplicação do regime"
+  },
+  "106532584": {
+   "fragment_id": "106535941",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "106532585": {
+   "fragment_id": "106535942",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regime especial do imposto sobre o valor acrescentado (IVA) é aplicável aos sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio na Comunidade mas não estejam estabelecidos no Estado-membro de consumo e aos sujeitos passivos não estabelecidos na Comunidade, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade."
+  },
+  "106532586": {
+   "fragment_id": "106535943",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos do presente regime, entende-se por:\n\na) «Sujeito passivo», um sujeito passivo não estabelecido no Estado-membro de consumo ou um sujeito passivo não estabelecido na Comunidade;\n\nb) «Sujeito passivo não estabelecido no Estado-membro de consumo», as pessoas singulares ou coletivas com sede, estabelecimento estável ou domicílio na Comunidade, que não disponham de sede, estabelecimento estável ou domicílio no território do Estado-membro de consumo;\n\nc) «Sujeito passivo não estabelecido na Comunidade», as pessoas singulares ou coletivas que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio no território da Comunidade e não devam estar registadas, para efeitos do imposto sobre o valor acrescentado, em qualquer Estado-membro pela prática de outras operações tributáveis;\n\nd) «Estado-membro de consumo», o Estado-membro no qual se considera efetuada a prestação de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica;\n\ne) «Estado-membro de identificação», o Estado-membro escolhido pelo sujeito passivo não estabelecido na Comunidade para declarar o início da sua atividade na qualidade de sujeito passivo no território da Comunidade ou o Estado-membro no qual o sujeito passivo estabelecido na Comunidade tem a sede, estabelecimento estável, ou na sua falta, um domicílio;\n\nf) «Serviços de telecomunicações», «serviços de radiodifusão ou televisão» e «serviços por via eletrónica», os serviços a que se refere a alínea h) do n.º 9, a alínea h) do n.º 10, a alínea d) do n.º 12 e os n.os 14 e 15 do artigo 6.º do Código do IVA;\n\ng) «Declaração de IVA», a declaração que contém as informações necessárias para determinar o montante de imposto devido em cada Estado-membro."
+  },
+  "106532587": {
+   "fragment_id": "106535944",
+   "type": 11,
+   "heading": "Artigo 3.º — Opção pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos referidos no artigo 1.º que reúnam as condições previstas nas secções seguintes, podem optar pela aplicação do presente regime, devendo para esse efeito efetuar eletronicamente o respetivo registo junto da Autoridade Tributária e Aduaneira.\n\n2 - Quando exerçam a opção referida no número anterior, os sujeitos passivos ficam obrigados ao cumprimento, por via eletrónica, junto da Autoridade Tributária e Aduaneira, de todas as obrigações previstas no presente regime."
+  },
+  "106532588": {
+   "fragment_id": "106535945",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusão do regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusão do regime especial\n\nA Autoridade Tributária e Aduaneira procede à exclusão oficiosa dos sujeitos passivos do regime especial e ao cancelamento do respetivo registo nos seguintes casos:\n\na) Quando os sujeitos passivos tenham deixado de preencher os requisitos necessários para integrar o regime especial;\n\nb) Quando os sujeitos passivos comuniquem que deixaram de prestar serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica;\n\nc) Quando existam indícios de que as suas atividades tributáveis abrangidos pelo presente regime especial cessaram;\n\nd) Quando reiteradamente os sujeitos passivos não cumpram as regras relativas ao regime especial."
+  },
+  "106532589": {
+   "fragment_id": "106535946",
+   "type": 8,
+   "heading": "Secção II — Disposições aplicáveis aos sujeitos passivos estabelecidos na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições aplicáveis aos sujeitos passivos estabelecidos na Comunidade"
+  },
+  "106532590": {
+   "fragment_id": "106535947",
+   "type": 3,
+   "heading": "Subsecção I — Regime especial aplicável aos sujeitos passivos estabelecidos no território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Regime especial aplicável aos sujeitos passivos estabelecidos no território nacional"
+  },
+  "106532591": {
+   "fragment_id": "106535948",
+   "type": 11,
+   "heading": "Artigo 5.º — Opção pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos com sede, estabelecimento estável ou, na sua falta, domicílio em território nacional, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em qualquer outro Estado-membro da Comunidade, podem optar pelo registo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes da prestação dos referidos serviços.\n\n2 - Tendo exercido a opção prevista no número anterior, o regime especial aplica-se a todos os referidos serviços prestados na Comunidade a não sujeitos passivos nela estabelecidos ou domiciliados, exceto aos serviços que sejam prestados em Estado-membro no qual o sujeito passivo disponha de um estabelecimento estável.\n\n3 - Um sujeito passivo que não disponha de sede na Comunidade mas disponha de um estabelecimento estável em território nacional e estabelecimentos estáveis em outros Estados-membros, e que tenha exercido a opção a que se refere o n.º 1, é obrigado a manter o território nacional como Estado-membro de identificação durante o ano civil em que exerceu a opção e nos dois anos civis subsequentes."
+  },
+  "106532592": {
+   "fragment_id": "106535949",
+   "type": 11,
+   "heading": "Artigo 6.º — Número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número de identificação fiscal\n\nPara efeitos do disposto no artigo anterior os sujeitos passivos estabelecidos em território nacional utilizam o respetivo número de identificação fiscal."
+  },
+  "106532593": {
+   "fragment_id": "106535950",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito à dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito à dedução\n\nOs sujeitos passivos estabelecidos em território nacional que optem pela aplicação do regime especial exercem o direito à dedução do imposto suportado em território nacional para a realização das prestações de serviços por ele abrangidas na declaração periódica a que se refere o artigo 41.º do Código do IVA."
+  },
+  "106532594": {
+   "fragment_id": "106535951",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito ao reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito ao reembolso\n\n1 - Os sujeitos passivos referidos no artigo anterior podem solicitar o reembolso do imposto suportado noutros Estados-membros para a realização das prestações de serviços abrangidas pelo regime especial, nos termos do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso, aprovado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - O disposto no número anterior não é aplicável se os sujeitos passivos estiverem registados para efeitos do IVA no território dos Estados-membros de consumo."
+  },
+  "106532595": {
+   "fragment_id": "106535952",
+   "type": 3,
+   "heading": "Subsecção II — Regime especial aplicável aos sujeitos passivos estabelecidos noutros Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Regime especial aplicável aos sujeitos passivos estabelecidos noutros Estados-membros"
+  },
+  "106532596": {
+   "fragment_id": "106535953",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito ao reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito ao reembolso\n\n1 - Os sujeitos passivos estabelecidos noutros Estados-membros, que neles optem pela aplicação do regime para declarar as prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica efetuadas no território nacional, estão excluídos do direito à dedução previsto nos artigos 19.º e seguintes do Código do IVA, podendo solicitar o reembolso do imposto suportado em território nacional, nos termos do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso, aprovado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - O direito ao reembolso previsto no número anterior não está subordinado ao disposto no n.º 1 do artigo 5.º do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso.\n\n3 - Não obstante o disposto nos números anteriores, se os sujeitos passivos referidos no n.º 1 estiverem registados para efeitos do IVA em território nacional, o direito à dedução do imposto suportado em território nacional para a realização das prestações de serviços abrangidas pelo regime especial deve ser exercido na declaração periódica a que se refere o artigo 41.º do Código do IVA."
+  },
+  "106532597": {
+   "fragment_id": "106535954",
+   "type": 8,
+   "heading": "Secção III — Disposições aplicáveis a sujeitos passivos não estabelecidos na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições aplicáveis a sujeitos passivos não estabelecidos na Comunidade"
+  },
+  "106532598": {
+   "fragment_id": "106535955",
+   "type": 11,
+   "heading": "Artigo 10.º — Opção pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio na Comunidade, nem aí estejam obrigados a registo para efeitos do IVA, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade, podem optar pelo registo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes da prestação dos referidos serviços.\n\n2 - Tendo exercido a opção referida no número anterior, o regime especial aplica-se a todos os serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados na Comunidade, independentemente do Estado-membro da tributação."
+  },
+  "106532599": {
+   "fragment_id": "106535956",
+   "type": 11,
+   "heading": "Artigo 11.º — Número de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Número de identificação\n\n1 - Para efeitos do disposto no artigo anterior, a Autoridade Tributária e Aduaneira atribui aos sujeitos passivos não estabelecidos na Comunidade um número de identificação para efeitos do IVA, que lhes é comunicado por via eletrónica.\n\n2 - Os sujeitos passivos devem utilizar esse número de identificação no cumprimento das obrigações decorrentes da prestação dos serviços referidos no n.º 1 do artigo anterior."
+  },
+  "106532600": {
+   "fragment_id": "106535957",
+   "type": 11,
+   "heading": "Artigo 12.º — Declaração de registo no regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Declaração de registo no regime\n\n1 - Na declaração de registo no regime o sujeito passivo não estabelecido na Comunidade deve indicar, como elementos de identificação, o nome, endereço postal, os endereços eletrónicos, incluindo os sítios na internet, o número de identificação fiscal no respetivo país, se o tiver, e declarar que não se encontra registado para efeitos do IVA em qualquer outro Estado-membro da Comunidade.\n\n2 - O sujeito passivo não estabelecido na Comunidade deve comunicar quaisquer alterações das informações apresentadas, no prazo de 15 dias a contar da data da alteração."
+  },
+  "106532601": {
+   "fragment_id": "106535958",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito ao reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito ao reembolso\n\n1 - Os sujeitos passivos não estabelecidos na Comunidade que optem pela aplicação do regime previsto na presente secção estão excluídos do direito à dedução previsto nos artigos 19.º e seguintes do Código do IVA, podendo solicitar o reembolso do imposto suportado em território nacional, de acordo com o disposto nos artigos 18.º a 20.º do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso, aprovado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - Para efeitos da concessão do reembolso previsto no número anterior, não há lugar à aplicação das regras de reciprocidade e de nomeação do representante fiscal, previstas no artigo 18.º do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso."
+  },
+  "106532602": {
+   "fragment_id": "106535959",
+   "type": 1,
+   "heading": "Capítulo II — Obrigações dos sujeitos passivos que optem pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Obrigações dos sujeitos passivos que optem pelo regime especial"
+  },
+  "106532603": {
+   "fragment_id": "106535960",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamento do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamento do imposto\n\n1 - Os sujeitos passivos que efetuem o registo em território nacional devem proceder ao pagamento do imposto devido por todos os serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em Estados-membros da Comunidade, nos quais os sujeitos passivos não estejam estabelecidos, no momento da declaração a que se refere o artigo 16.º, ou o mais tardar, no termo do prazo para a apresentação da mesma.\n\n2 - Cada pagamento deve respeitar apenas a uma declaração entregue, remeter para o número de referência dessa declaração e ser efetuado mediante transferência para uma conta bancária, em euros, indicada pela Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.\n\n3 - Quando a contraprestação pelos serviços prestados não for expressa em euros, deve ser aplicada a taxa de câmbio em vigor no último dia do período abrangido pela declaração.\n\n4 - As taxas de câmbio a utilizar são as taxas de câmbio do dia referido no número anterior publicadas pelo Banco Central Europeu ou, quando não haja publicação nesse dia, do dia de publicação seguinte."
+  },
+  "106532604": {
+   "fragment_id": "106535961",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações declarativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações declarativas\n\n1 - Além da obrigação de pagamento do imposto, os sujeitos passivos que optem pelo registo no regime especial são ainda obrigados a:\n\na) Declarar, por via eletrónica, o registo, a alteração e a cessação da sua atividade abrangida pelo regime especial;\n\nb) Submeter, por via eletrónica, uma declaração de IVA, por cada trimestre do ano civil, relativa aos serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade; e\n\nc) Conservar registos das operações abrangidas pelo regime especial, de forma adequada ao apuramento e fiscalização do imposto.\n\n2 - As declarações referidas nas alíneas a) e b) do número anterior obedecem aos modelos aprovados pelo Regulamento de Execução (UE) n.º 815/2012, da Comissão, de 13 de setembro de 2012.\n\n3 - Os sujeitos passivos não estabelecidos na Comunidade que tenham exercido a opção prevista no artigo 3.º, bem como os sujeitos passivos estabelecidos em outros Estados-membros da Comunidade que se encontrem abrangidos por um regime especial equivalente noutro Estado-membro, estão dispensados do cumprimento das obrigações previstas no Código do IVA, relativamente às prestações de serviços de telecomunicações, radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em território nacional."
+  },
+  "106532605": {
+   "fragment_id": "106535962",
+   "type": 11,
+   "heading": "Artigo 16.º — Declaração de IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Declaração de IVA\n\n1 - A declaração de IVA prevista na alínea b) do n.º 1 do artigo anterior deve mencionar o número de identificação do sujeito passivo e, por cada Estado-membro de consumo em que o imposto é devido, o valor total, líquido de imposto, das prestações de serviços efetuadas durante o período de tributação, o montante de imposto correspondente discriminado por taxas, bem como a taxa ou taxas aplicáveis, e o montante total do imposto devido.\n\n2 - A declaração de IVA a submeter por sujeitos passivos estabelecidos em território nacional inclui ainda, quando o sujeito passivo tenha um ou mais estabelecimentos estáveis a partir do qual os serviços são prestados, além do situado em território nacional, o valor total das prestações de serviços abrangidas pelo regime especial, relativamente a cada Estado-membro no qual disponha de um estabelecimento, bem como o número de identificação para efeitos de IVA ou o número de identificação fiscal desse estabelecimento, discriminado por Estado-membro de consumo.\n\n3 - Para efeitos do disposto nos números anteriores, as taxas do imposto aplicáveis são as que vigorem em cada Estado-membro de consumo.\n\n4 - A declaração de IVA deve ser submetida até ao dia 20 do mês seguinte ao trimestre do ano civil a que respeitam as prestações de serviços.\n\n5 - A obrigação de submissão da declaração de IVA subsiste mesmo que não haja, no período correspondente, operações tributáveis em qualquer Estado-membro."
+  },
+  "106532606": {
+   "fragment_id": "106535963",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo contabilístico das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Registo contabilístico das operações\n\n1 - O registo contabilístico das prestações de serviços deve ser organizado de forma a possibilitar o conhecimento dos elementos necessários ao cálculo do imposto e permitir o seu controlo.\n\n2 - Os registos devem ser conservados por um prazo de 10 anos, a contar de 31 de dezembro do ano em que operação tiver sido efetuada.\n\n3 - Os registos devem ser disponibilizados eletronicamente, a pedido da Autoridade Tributária e Aduaneira ou de qualquer Estado-membro de consumo.\n\n4 - Os sujeitos passivos não estabelecidos em território nacional que se encontrem abrangidos por um regime especial equivalente noutro Estado-membro e prestem serviços de telecomunicações, radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em território nacional, devem disponibilizar eletronicamente, a pedido da Autoridade Tributária e Aduaneira, os registos dessas operações."
+  },
+  "106532607": {
+   "fragment_id": "106535964",
+   "type": 1,
+   "heading": "Capítulo III — Garantias dos sujeitos passivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Garantias dos sujeitos passivos"
+  },
+  "106532608": {
+   "fragment_id": "106535965",
+   "type": 11,
+   "heading": "Artigo 18.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Notificações\n\n1 - Para efeitos deste regime especial, as notificações dirigidas a sujeitos passivos não estabelecidos em território nacional são efetuadas por via eletrónica, autenticadas com assinatura eletrónica avançada nos termos previstos pelo Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas.\n\n2 - As notificações efetuadas nos termos do número anterior presumem-se feitas na data do envio, servindo de prova a cópia da mensagem de onde conste que esta foi enviada com sucesso."
+  },
+  "106532609": {
+   "fragment_id": "106535966",
+   "type": 11,
+   "heading": "Artigo 19.º — Meios de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Meios de defesa\n\nDa recusa do registo ou decisão de exclusão do regime especial cabe recurso hierárquico, a submeter por via eletrónica, ou impugnação judicial, nos termos do Código de Procedimento e de Processo Tributário."
+  },
+  "106532610": {
+   "fragment_id": "106535967",
+   "type": 1,
+   "heading": "Capítulo IV — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposição final"
+  },
+  "106532611": {
+   "fragment_id": "106535968",
+   "type": 11,
+   "heading": "Artigo 20.º — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direito aplicável\n\nA disciplina do Código do IVA e respetiva legislação complementar é aplicável em tudo o que não se revelar contrário ao disposto no presente regime especial, no Regulamento de Execução (UE) n.º 282/2011, do Conselho, de 15 de março de 2011, e no Regulamento de Execução (UE) n.º 815/2012, da Comissão, de 13 de setembro de 2012."
+  },
+  "106532581": {
+   "fragment_id": "106535938",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete.\n\nPromulgado em 16 de outubro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de outubro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "117659200": {
+   "fragment_id": "106535943",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos do presente regime, entende-se por:\n\na) «Sujeito passivo», um sujeito passivo não estabelecido no Estado-membro de consumo ou um sujeito passivo não estabelecido na Comunidade;\n\nb) «Sujeito passivo não estabelecido no Estado-membro de consumo», as pessoas singulares ou coletivas com sede, estabelecimento estável ou domicílio na Comunidade, que não disponham de sede, estabelecimento estável ou domicílio no território do Estado-membro de consumo;\n\nc) 'Sujeito passivo não estabelecido na Comunidade', as pessoas singulares ou coletivas que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio no território da Comunidade;\n\nd) «Estado-membro de consumo», o Estado-membro no qual se considera efetuada a prestação de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica;\n\ne) «Estado-membro de identificação», o Estado-membro escolhido pelo sujeito passivo não estabelecido na Comunidade para declarar o início da sua atividade na qualidade de sujeito passivo no território da Comunidade ou o Estado-membro no qual o sujeito passivo estabelecido na Comunidade tem a sede, estabelecimento estável, ou na sua falta, um domicílio;\n\nf) 'Serviços de telecomunicações', 'serviços de radiodifusão ou televisão' e 'serviços por via eletrónica', os serviços a que se refere a alínea h) do n.º 9, a alínea h) do n.º 10, a alínea d) do n.º 12, os n.os 14 e 15 do artigo 6.º e o artigo 6.º-A do Código do IVA;\n\ng) «Declaração de IVA», a declaração que contém as informações necessárias para determinar o montante de imposto devido em cada Estado-membro.\n\n> Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117659201": {
+   "fragment_id": "106535955",
+   "type": 11,
+   "heading": "Artigo 10.º — Opção pelo regime especial",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio na Comunidade, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade, podem optar pelo registo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes da prestação dos referidos serviços.\n\n2 - Tendo exercido a opção referida no número anterior, o regime especial aplica-se a todos os serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados na Comunidade, independentemente do Estado-membro da tributação.\n\n> Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117659202": {
+   "fragment_id": "106535957",
+   "type": 11,
+   "heading": "Artigo 12.º — Declaração de registo no regime",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Declaração de registo no regime\n\n1 - Na declaração de registo no regime o sujeito passivo não estabelecido na Comunidade deve indicar, como elementos de identificação, o nome, endereço postal, os endereços eletrónicos, incluindo os sítios na Internet, o número de identificação fiscal no respetivo país, se o tiver, e declarar que não tem a sede, estabelecimento estável ou, na sua falta, domicílio na Comunidade.\n\n2 - O sujeito passivo não estabelecido na Comunidade deve comunicar quaisquer alterações das informações apresentadas, no prazo de 15 dias a contar da data da alteração.\n\n> Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "208644788": {
+   "fragment_id": "106535939",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\nRegime especial do imposto sobre o valor acrescentado para sujeitos passivos não estabelecidos no Estado-membro de consumo ou não estabelecidos na Comunidade que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644789": {
+   "fragment_id": "106535940",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito de aplicação do regime",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo I — Âmbito de aplicação do regime\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644790": {
+   "fragment_id": "106535941",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644791": {
+   "fragment_id": "106535942",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regime especial do imposto sobre o valor acrescentado (IVA) é aplicável aos sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio na Comunidade mas não estejam estabelecidos no Estado-membro de consumo e aos sujeitos passivos não estabelecidos na Comunidade, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644792": {
+   "fragment_id": "106535943",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos do presente regime, entende-se por:\n\na) «Sujeito passivo», um sujeito passivo não estabelecido no Estado-membro de consumo ou um sujeito passivo não estabelecido na Comunidade;\n\nb) «Sujeito passivo não estabelecido no Estado-membro de consumo», as pessoas singulares ou coletivas com sede, estabelecimento estável ou domicílio na Comunidade, que não disponham de sede, estabelecimento estável ou domicílio no território do Estado-membro de consumo;\n\nc) 'Sujeito passivo não estabelecido na Comunidade', as pessoas singulares ou coletivas que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio no território da Comunidade;\n\nd) «Estado-membro de consumo», o Estado-membro no qual se considera efetuada a prestação de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica;\n\ne) «Estado-membro de identificação», o Estado-membro escolhido pelo sujeito passivo não estabelecido na Comunidade para declarar o início da sua atividade na qualidade de sujeito passivo no território da Comunidade ou o Estado-membro no qual o sujeito passivo estabelecido na Comunidade tem a sede, estabelecimento estável, ou na sua falta, um domicílio;\n\nf) 'Serviços de telecomunicações', 'serviços de radiodifusão ou televisão' e 'serviços por via eletrónica', os serviços a que se refere a alínea h) do n.º 9, a alínea h) do n.º 10, a alínea d) do n.º 12, os n.os 14 e 15 do artigo 6.º e o artigo 6.º-A do Código do IVA;\n\ng) «Declaração de IVA», a declaração que contém as informações necessárias para determinar o montante de imposto devido em cada Estado-membro.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "208644793": {
+   "fragment_id": "106535944",
+   "type": 11,
+   "heading": "Artigo 3.º — Opção pelo regime especial",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos referidos no artigo 1.º que reúnam as condições previstas nas secções seguintes, podem optar pela aplicação do presente regime, devendo para esse efeito efetuar eletronicamente o respetivo registo junto da Autoridade Tributária e Aduaneira.\n\n2 - Quando exerçam a opção referida no número anterior, os sujeitos passivos ficam obrigados ao cumprimento, por via eletrónica, junto da Autoridade Tributária e Aduaneira, de todas as obrigações previstas no presente regime.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644794": {
+   "fragment_id": "106535945",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusão do regime especial",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusão do regime especial\n\nA Autoridade Tributária e Aduaneira procede à exclusão oficiosa dos sujeitos passivos do regime especial e ao cancelamento do respetivo registo nos seguintes casos:\n\na) Quando os sujeitos passivos tenham deixado de preencher os requisitos necessários para integrar o regime especial;\n\nb) Quando os sujeitos passivos comuniquem que deixaram de prestar serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica;\n\nc) Quando existam indícios de que as suas atividades tributáveis abrangidos pelo presente regime especial cessaram;\n\nd) Quando reiteradamente os sujeitos passivos não cumpram as regras relativas ao regime especial.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644795": {
+   "fragment_id": "106535946",
+   "type": 8,
+   "heading": "Secção II — Disposições aplicáveis aos sujeitos passivos estabelecidos na Comunidade",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção II — Disposições aplicáveis aos sujeitos passivos estabelecidos na Comunidade\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644796": {
+   "fragment_id": "106535947",
+   "type": 3,
+   "heading": "Subsecção I — Regime especial aplicável aos sujeitos passivos estabelecidos no território nacional",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "##### Subsecção I — Regime especial aplicável aos sujeitos passivos estabelecidos no território nacional\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644797": {
+   "fragment_id": "106535948",
+   "type": 11,
+   "heading": "Artigo 5.º — Opção pelo regime especial",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos com sede, estabelecimento estável ou, na sua falta, domicílio em território nacional, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em qualquer outro Estado-membro da Comunidade, podem optar pelo registo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes da prestação dos referidos serviços.\n\n2 - Tendo exercido a opção prevista no número anterior, o regime especial aplica-se a todos os referidos serviços prestados na Comunidade a não sujeitos passivos nela estabelecidos ou domiciliados, exceto aos serviços que sejam prestados em Estado-membro no qual o sujeito passivo disponha de um estabelecimento estável.\n\n3 - Um sujeito passivo que não disponha de sede na Comunidade mas disponha de um estabelecimento estável em território nacional e estabelecimentos estáveis em outros Estados-membros, e que tenha exercido a opção a que se refere o n.º 1, é obrigado a manter o território nacional como Estado-membro de identificação durante o ano civil em que exerceu a opção e nos dois anos civis subsequentes.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644798": {
+   "fragment_id": "106535949",
+   "type": 11,
+   "heading": "Artigo 6.º — Número de identificação fiscal",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Número de identificação fiscal\n\nPara efeitos do disposto no artigo anterior os sujeitos passivos estabelecidos em território nacional utilizam o respetivo número de identificação fiscal.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644799": {
+   "fragment_id": "106535950",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito à dedução",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Direito à dedução\n\nOs sujeitos passivos estabelecidos em território nacional que optem pela aplicação do regime especial exercem o direito à dedução do imposto suportado em território nacional para a realização das prestações de serviços por ele abrangidas na declaração periódica a que se refere o artigo 41.º do Código do IVA.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644800": {
+   "fragment_id": "106535951",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito ao reembolso",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Direito ao reembolso\n\n1 - Os sujeitos passivos referidos no artigo anterior podem solicitar o reembolso do imposto suportado noutros Estados-membros para a realização das prestações de serviços abrangidas pelo regime especial, nos termos do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso, aprovado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - O disposto no número anterior não é aplicável se os sujeitos passivos estiverem registados para efeitos do IVA no território dos Estados-membros de consumo.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644801": {
+   "fragment_id": "106535952",
+   "type": 3,
+   "heading": "Subsecção II — Regime especial aplicável aos sujeitos passivos estabelecidos noutros Estados-membros",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "##### Subsecção II — Regime especial aplicável aos sujeitos passivos estabelecidos noutros Estados-membros\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644802": {
+   "fragment_id": "106535953",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito ao reembolso",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 9.º — Direito ao reembolso\n\n1 - Os sujeitos passivos estabelecidos noutros Estados-membros, que neles optem pela aplicação do regime para declarar as prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica efetuadas no território nacional, estão excluídos do direito à dedução previsto nos artigos 19.º e seguintes do Código do IVA, podendo solicitar o reembolso do imposto suportado em território nacional, nos termos do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso, aprovado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - O direito ao reembolso previsto no número anterior não está subordinado ao disposto no n.º 1 do artigo 5.º do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso.\n\n3 - Não obstante o disposto nos números anteriores, se os sujeitos passivos referidos no n.º 1 estiverem registados para efeitos do IVA em território nacional, o direito à dedução do imposto suportado em território nacional para a realização das prestações de serviços abrangidas pelo regime especial deve ser exercido na declaração periódica a que se refere o artigo 41.º do Código do IVA.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644803": {
+   "fragment_id": "106535954",
+   "type": 8,
+   "heading": "Secção III — Disposições aplicáveis a sujeitos passivos não estabelecidos na Comunidade",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção III — Disposições aplicáveis a sujeitos passivos não estabelecidos na Comunidade\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644804": {
+   "fragment_id": "106535955",
+   "type": 11,
+   "heading": "Artigo 10.º — Opção pelo regime especial",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio na Comunidade, que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade, podem optar pelo registo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes da prestação dos referidos serviços.\n\n2 - Tendo exercido a opção referida no número anterior, o regime especial aplica-se a todos os serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados na Comunidade, independentemente do Estado-membro da tributação.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "208644805": {
+   "fragment_id": "106535956",
+   "type": 11,
+   "heading": "Artigo 11.º — Número de identificação",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Número de identificação\n\n1 - Para efeitos do disposto no artigo anterior, a Autoridade Tributária e Aduaneira atribui aos sujeitos passivos não estabelecidos na Comunidade um número de identificação para efeitos do IVA, que lhes é comunicado por via eletrónica.\n\n2 - Os sujeitos passivos devem utilizar esse número de identificação no cumprimento das obrigações decorrentes da prestação dos serviços referidos no n.º 1 do artigo anterior.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644806": {
+   "fragment_id": "106535957",
+   "type": 11,
+   "heading": "Artigo 12.º — Declaração de registo no regime",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Declaração de registo no regime\n\n1 - Na declaração de registo no regime o sujeito passivo não estabelecido na Comunidade deve indicar, como elementos de identificação, o nome, endereço postal, os endereços eletrónicos, incluindo os sítios na Internet, o número de identificação fiscal no respetivo país, se o tiver, e declarar que não tem a sede, estabelecimento estável ou, na sua falta, domicílio na Comunidade.\n\n2 - O sujeito passivo não estabelecido na Comunidade deve comunicar quaisquer alterações das informações apresentadas, no prazo de 15 dias a contar da data da alteração.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 277.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "208644807": {
+   "fragment_id": "106535958",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito ao reembolso",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Direito ao reembolso\n\n1 - Os sujeitos passivos não estabelecidos na Comunidade que optem pela aplicação do regime previsto na presente secção estão excluídos do direito à dedução previsto nos artigos 19.º e seguintes do Código do IVA, podendo solicitar o reembolso do imposto suportado em território nacional, de acordo com o disposto nos artigos 18.º a 20.º do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso, aprovado pelo Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - Para efeitos da concessão do reembolso previsto no número anterior, não há lugar à aplicação das regras de reciprocidade e de nomeação do representante fiscal, previstas no artigo 18.º do Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-membro de reembolso.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644808": {
+   "fragment_id": "106535959",
+   "type": 1,
+   "heading": "Capítulo II — Obrigações dos sujeitos passivos que optem pelo regime especial",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo II — Obrigações dos sujeitos passivos que optem pelo regime especial\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644809": {
+   "fragment_id": "106535960",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamento do imposto",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Pagamento do imposto\n\n1 - Os sujeitos passivos que efetuem o registo em território nacional devem proceder ao pagamento do imposto devido por todos os serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em Estados-membros da Comunidade, nos quais os sujeitos passivos não estejam estabelecidos, no momento da declaração a que se refere o artigo 16.º, ou o mais tardar, no termo do prazo para a apresentação da mesma.\n\n2 - Cada pagamento deve respeitar apenas a uma declaração entregue, remeter para o número de referência dessa declaração e ser efetuado mediante transferência para uma conta bancária, em euros, indicada pela Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.\n\n3 - Quando a contraprestação pelos serviços prestados não for expressa em euros, deve ser aplicada a taxa de câmbio em vigor no último dia do período abrangido pela declaração.\n\n4 - As taxas de câmbio a utilizar são as taxas de câmbio do dia referido no número anterior publicadas pelo Banco Central Europeu ou, quando não haja publicação nesse dia, do dia de publicação seguinte.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644810": {
+   "fragment_id": "106535961",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações declarativas",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigações declarativas\n\n1 - Além da obrigação de pagamento do imposto, os sujeitos passivos que optem pelo registo no regime especial são ainda obrigados a:\n\na) Declarar, por via eletrónica, o registo, a alteração e a cessação da sua atividade abrangida pelo regime especial;\n\nb) Submeter, por via eletrónica, uma declaração de IVA, por cada trimestre do ano civil, relativa aos serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica prestados a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na Comunidade; e\n\nc) Conservar registos das operações abrangidas pelo regime especial, de forma adequada ao apuramento e fiscalização do imposto.\n\n2 - As declarações referidas nas alíneas a) e b) do número anterior obedecem aos modelos aprovados pelo Regulamento de Execução (UE) n.º 815/2012, da Comissão, de 13 de setembro de 2012.\n\n3 - Os sujeitos passivos não estabelecidos na Comunidade que tenham exercido a opção prevista no artigo 3.º, bem como os sujeitos passivos estabelecidos em outros Estados-membros da Comunidade que se encontrem abrangidos por um regime especial equivalente noutro Estado-membro, estão dispensados do cumprimento das obrigações previstas no Código do IVA, relativamente às prestações de serviços de telecomunicações, radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em território nacional.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644811": {
+   "fragment_id": "106535962",
+   "type": 11,
+   "heading": "Artigo 16.º — Declaração de IVA",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Declaração de IVA\n\n1 - A declaração de IVA prevista na alínea b) do n.º 1 do artigo anterior deve mencionar o número de identificação do sujeito passivo e, por cada Estado-membro de consumo em que o imposto é devido, o valor total, líquido de imposto, das prestações de serviços efetuadas durante o período de tributação, o montante de imposto correspondente discriminado por taxas, bem como a taxa ou taxas aplicáveis, e o montante total do imposto devido.\n\n2 - A declaração de IVA a submeter por sujeitos passivos estabelecidos em território nacional inclui ainda, quando o sujeito passivo tenha um ou mais estabelecimentos estáveis a partir do qual os serviços são prestados, além do situado em território nacional, o valor total das prestações de serviços abrangidas pelo regime especial, relativamente a cada Estado-membro no qual disponha de um estabelecimento, bem como o número de identificação para efeitos de IVA ou o número de identificação fiscal desse estabelecimento, discriminado por Estado-membro de consumo.\n\n3 - Para efeitos do disposto nos números anteriores, as taxas do imposto aplicáveis são as que vigorem em cada Estado-membro de consumo.\n\n4 - A declaração de IVA deve ser submetida até ao dia 20 do mês seguinte ao trimestre do ano civil a que respeitam as prestações de serviços.\n\n5 - A obrigação de submissão da declaração de IVA subsiste mesmo que não haja, no período correspondente, operações tributáveis em qualquer Estado-membro.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644812": {
+   "fragment_id": "106535963",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo contabilístico das operações",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 17.º — Registo contabilístico das operações\n\n1 - O registo contabilístico das prestações de serviços deve ser organizado de forma a possibilitar o conhecimento dos elementos necessários ao cálculo do imposto e permitir o seu controlo.\n\n2 - Os registos devem ser conservados por um prazo de 10 anos, a contar de 31 de dezembro do ano em que operação tiver sido efetuada.\n\n3 - Os registos devem ser disponibilizados eletronicamente, a pedido da Autoridade Tributária e Aduaneira ou de qualquer Estado-membro de consumo.\n\n4 - Os sujeitos passivos não estabelecidos em território nacional que se encontrem abrangidos por um regime especial equivalente noutro Estado-membro e prestem serviços de telecomunicações, radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em território nacional, devem disponibilizar eletronicamente, a pedido da Autoridade Tributária e Aduaneira, os registos dessas operações.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644813": {
+   "fragment_id": "106535964",
+   "type": 1,
+   "heading": "Capítulo III — Garantias dos sujeitos passivos",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo III — Garantias dos sujeitos passivos\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644814": {
+   "fragment_id": "106535965",
+   "type": 11,
+   "heading": "Artigo 18.º — Notificações",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 18.º — Notificações\n\n1 - Para efeitos deste regime especial, as notificações dirigidas a sujeitos passivos não estabelecidos em território nacional são efetuadas por via eletrónica, autenticadas com assinatura eletrónica avançada nos termos previstos pelo Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas.\n\n2 - As notificações efetuadas nos termos do número anterior presumem-se feitas na data do envio, servindo de prova a cópia da mensagem de onde conste que esta foi enviada com sucesso.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644815": {
+   "fragment_id": "106535966",
+   "type": 11,
+   "heading": "Artigo 19.º — Meios de defesa",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Meios de defesa\n\nDa recusa do registo ou decisão de exclusão do regime especial cabe recurso hierárquico, a submeter por via eletrónica, ou impugnação judicial, nos termos do Código de Procedimento e de Processo Tributário.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644816": {
+   "fragment_id": "106535967",
+   "type": 1,
+   "heading": "Capítulo IV — Disposição final",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo IV — Disposição final\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  },
+  "208644817": {
+   "fragment_id": "106535968",
+   "type": 11,
+   "heading": "Artigo 20.º — Direito aplicável",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 20.º — Direito aplicável\n\nA disciplina do Código do IVA e respetiva legislação complementar é aplicável em tudo o que não se revelar contrário ao disposto no presente regime especial, no Regulamento de Execução (UE) n.º 282/2011, do Conselho, de 15 de março de 2011, e no Regulamento de Execução (UE) n.º 815/2012, da Comissão, de 13 de setembro de 2012.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-07-01"
+  }
+ }
+}

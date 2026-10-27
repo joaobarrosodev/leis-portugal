@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:262803:por
+title: Decreto-Lei n.º 48725
+short_title: null
+summary: Dá nova redacção ao § único do artigo 1.º do Decreto-Lei n.º 48191, que substitui por uma taxa de porto de 1 por
+  cento e 1 por mil sobre o valor, respectivamente, das mercadorias descarregadas e carregadas, submetidas a despacho na sede
+  da Alfândega do Porto e suas dependências na área portuária do Douro e Leixões, o imposto de cais criado pelo Decreto n.º
+  12122
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Comunicações - Administração dos Portos do Douro e Leixões
+proposing_entity: null
+official_number: '48725'
+official_date: null
+publication_date: '1968-12-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 284/1968, Série I de 1968-12-03
+  number: '284'
+  series: I
+  supplement: null
+  pages: 1756 - 1756
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/12/28400/17561756.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '262803'
+  dre_path: /dr/detalhe/decreto-lei/48725-1968-262803
+  internal: pt:dre:262803:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: be73d53a725c9333e3aa08bb59325c6db396f513965cf79514e1736cffb87eb0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Alfândega
+- Circulação de Mercadorias
+- Definição de Competências
+- Desalfândegamento
+- Isenção de Taxas e Emolumentos
+- Ministro das Comunicações
+- Porto
+- Tarifa Portuária
+relationships:
+- type: cites
+  target: pt:dre:405351:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:07:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48725
+
+O [Decreto-Lei n.º 48191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48191-1967-405351), de 30 de Dezembro de 1967, permitiu, pelo § único do seu artigo 1.º, que o Ministro das Comunicações pudesse bonificar ou isentar da taxa de porto as mercadorias em cabotagem, em trânsito, em baldeação e em regime de reexportação ou reimportação.
+
+Reconhece-se, porém, que convém igualmente abranger nessa possibilidade de beneficiarem de bonificação ou isenção mercadorias em transferência.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. O § único do artigo 1.º do [Decreto-Lei n.º 48191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48191-1967-405351), de 30 de Dezembro de 1967, passa a ter a seguinte redacção:
+
+§ único. O Ministro das Comunicações poderá, por simples despacho, bonificar ou isentar desta taxa as mercadorias em cabotagem, em trânsito, em baldeação, em transferência e em regime de reexportação ou reimportação.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Estêvão Abranches Couceiro do Canto Moniz.
+
+Promulgado em 21 de Novembro de 1968.
+
+Publique-se.
+
+Presidência da República, 3 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

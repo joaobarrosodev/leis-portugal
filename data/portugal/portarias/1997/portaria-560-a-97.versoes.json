@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:529401:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-885926377",
+ "dre_path": "/dr/detalhe/portaria/560-a-1997-529401",
+ "source_lastmod": "2024-08-27",
+ "versions": [
+  {
+   "date": "1997-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885804799"
+   ]
+  },
+  {
+   "date": "1997-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:675014:por",
+     "title": "Portaria n.º 1091/97",
+     "published": "1997-11-03",
+     "dre_path": "/dr/detalhe/portaria/1091-1997-675014"
+    }
+   ],
+   "changes": [
+    "Altera Mapa III"
+   ],
+   "fragments": [
+    "885804799",
+    "885804800",
+    "885804801",
+    "885804802",
+    "885804809"
+   ]
+  }
+ ],
+ "fragments": {
+  "885804799": {
+   "fragment_id": "885926378",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 560-A/97\n\nde 25 de Julho\n\nO planeamento necessário ao lançamento do novo ano escolar determina a realização de ajustamentos no respectivo parque de estabelecimentos de ensino, de forma a satisfazer as necessidades educativas da população, cumprindo assim os objectivos constantes do artigo 37.º da Lei de Bases do Sistema Educativo - Lei n.º 46/86, de 14 de Outubro.\n\nAlém da criação de escolas que agreguem sequencialmente os três ciclos do ensino básico de modo a construir estabelecimentos integrados deste nível de escolaridade, o reordenamento anual da rede escolar tem vindo a contemplar, ainda que pontualmente, a criação de escolas do 1.º ciclo, atendendo a necessidades de renovação do parque escolar, e, por outro lado, tem procurado encontrar alternativas que evitem a suspensão do funcionamento de estabelecimentos onde se verifica diminuição acentuada da frequência escolar. Através destas medidas, o Governo privilegia na sua acção e nos meios que disponibiliza o ciclo inicial das aprendizagens básicas, no sentido de assegurar melhores condições de acesso e sucesso escolar a todas as crianças e de concretização dos objectivos da escolaridade obrigatória.\n\nAssim, e considerando o que, em relação às habilitações do pessoal docente e respectivos quadros, se determina no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, bem como nos artigos 2.º e 3.º do Decreto-Lei n.º 18/88, de 21 de Janeiro, conjugado com os artigos 26.º e 124.º do Estatuto da Carreira Docente, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, e ainda o disposto no Decreto-Lei n.º 407/89, de 16 de Novembro;\n\nConsiderando, no que respeita ao pessoal não docente, o disposto no Decreto-Lei n.º 223/87, de 30 de Maio, e legislação complementar;\n\nAo abrigo do disposto no n.º 2 do artigo 26.º do Decreto-Lei n.º 139-A/90, de 28 de Abril:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:\n\n1.º São criadas as seguintes escolas do ensino básico:\n\na) Escolas do 1.º ciclo\n\nDistrito de Aveiro:\n\n01.15.0375 São João, São João de Ovar, Ovar (3 lugares);\n\nDistrito de Lisboa:\n\n11.07.1010 n.º 4 Loures (Infantado), Loures, Loures (7 lugares);\n\n11.07.1028 n.º 9 Odivelas (Arroja), Odivelas, Loures (16 lugares);\n\nb) Escola dos 1.º e 2.º ciclos\n\nDistrito do Porto:\n\nB410 São João de Deus, Porto (24T) (com 20 lugares no 1.º ciclo);\n\nc) Escolas dos 1.º, 2.º e 3.º ciclos\n\nDistrito de Braga:\n\nB371 Arnoso, Santa Maria, Vila Nova de Famalicão (12T) (com 4 lugares no 1.º ciclo);\n\nB380 Pedome, Vila Nova de Famalicão (24T) (com 8 lugares no 1.º ciclo);\n\nB398 Gondifelos, Vila Nova de Famalicão (18T) (com 6 lugares no 1.º ciclo);\n\nDistrito de Castelo Branco:\n\nB185 São Vicente da Beira, Castelo Branco (12T) (com 4 lugares no 1.º ciclo);\n\nDistrito de Leiria:\n\nB193 Peniche n.º 2 (24T) (com 4 lugares no 1.º ciclo);\n\nDistrito de Lisboa:\n\nB223 Apelação, Loures (24T);\n\nB266 Bom Sucesso, Alverca, Vila Franca de Xira (24T);\n\nDistrito do Porto:\n\nB401 Barranha, Matosinhos (18T) (com 10 lugares no 1.º ciclo);\n\nd) Escolas dos 2.º e 3.º ciclos\n\nDistrito de Aveiro:\n\nB487 Canedo, Santa Maria da Feira (24T);\n\nDistrito de Braga:\n\nB134 Moure, Vila Verde (24T);\n\nB142 Calendário, Vila Nova de Famalicão (24T);\n\nB363 Lamaçães, Braga (30T);\n\nDistrito de Faro:\n\nB312 Paderne, Albufeira (12T);\n\nB320 Lagos n.º 2 (25T);\n\nB339 Quarteira n.º 2, Loulé (25T);\n\nB347 Olhão n.º 3 (25T);\n\nB355 Mexilhoeira Grande, Portimão (12T);\n\nDistrito de Lisboa:\n\nB207 Casal da Boba, Amadora (24T);\n\nB231 Ramada, Loures (24T);\n\nB240 Santo António dos Cavaleiros, Loures (24T);\n\nB258 Terrugem, Sintra (24T);\n\nDistrito de Portalegre:\n\nB290 Montargil, Ponte de Sor (11T);\n\nDistrito do Porto:\n\nB150 Eiriz, Paços de Ferreira (24T);\n\nB169 Penalves, Póvoa de Varzim (30T);\n\nB177 Avintes, Vila Nova de Gaia (24T);\n\nB428 Nevogilde, Lousada (24T);\n\nB436 Lagares, Felgueiras (24T);\n\nB444 Ancede, Baião (24T);\n\nB452 Cruz de Pau, Matosinhos (24T);\n\nB479 Sande, Marco de Canaveses (24T);\n\nDistrito de Santarém:\n\nB274 Pontével, Cartaxo (24T);\n\nDistrito de Setúbal:\n\nB282 Pegões, Montijo (11T);\n\nB304 Cercal, Santiago do Cacém (11T).\n\n2.º São criadas as seguintes escolas do ensino básico, que resultam da transformação de escolas extintas no n.º 4.º:\n\na) Escola dos 1.º e 2.º ciclos do ensino básico\n\nDistrito de Leiria:\n\n1660 Batalha (com 7 lugares no 1.º ciclo);\n\nb) Escolas dos 1.º, 2.º e 3.º ciclos do ensino básico\n\nDistrito de Portalegre:\n\n2437 Gavião;\n\nDistrito de Santarém:\n\n3050 Rio Maior (com 3 lugares no 1.º ciclo);\n\nc) Escola dos 1.º, 2.º e 3.º ciclos do ensino básico com jardim-de-infância\n\nDistrito de Aveiro:\n\nA596 Pardilhó, Estarreja (com 1 lugar de jardim-de-infância);\n\nd) Escolas dos 2.º e 3.º ciclos do ensino básico\n\nDistrito de Aveiro:\n\n0191 Mealhada;\n\n0213 Bento Carqueja, Oliveira de Azeméis;\n\nDistrito de Bragança:\n\n0639 Augusto Moreno, Bragança;\n\n5711 Paulo Quintela, Bragança;\n\n0671 Macedo de Cavaleiros;\n\n0698 Luciano Cordeiro, Mirandela;\n\n0728 Visconde de Vila Maior, Torre de Moncorvo;\n\n0752 Vinhais;\n\nDistrito de Castelo Branco:\n\n0795 Pêro da Covilhã, Covilhã;\n\nDistrito de Évora:\n\n1201 Reguengos de Monsaraz;\n\nDistrito de Faro:\n\n1279 Lagos;\n\nDistrito de Lisboa:\n\n1830 Cadaval;\n\n1945 Fernão Lopes, Lisboa;\n\n5088 Caxias, Oeiras;\n\nDistrito do Porto:\n\n2470 Amarante;\n\n2500 Vila Cova da Lixa, Felgueiras;\n\n2526 Rio Tinto, Gondomar;\n\n2631 Paredes;\n\n3867 Baltar, Paredes;\n\n2810 São Lourenço, Ermesinde, Valongo;\n\n5444 Canidelo, Vila Nova de Gaia;\n\nDistrito de Santarém:\n\n3000 Coruche;\n\nDistrito de Setúbal:\n\n3298 Sesimbra;\n\nDistrito de Viana do Castelo:\n\n3387 Paredes de Coura;\n\n3395 Diogo Bernardes, Ponte da Barca;\n\n3417 Valença;\n\nDistrito de Vila Real:\n\n3450 D. Sancho II, Alijó;\n\n3530 Peso da Régua;\n\n3581 Vila Pouca de Aguiar;\n\nDistrito de Viseu:\n\n3638 Cinfães;\n\n3646 Lamego.\n\n3.º São criadas as seguintes escolas do ensino secundário:\n\nDistrito de Lisboa:\n\nB215 Encarnação, Lisboa (24T);\n\nDistrito do Porto:\n\nB460 Vilela, Paredes (24T).\n\n4.º São extintas as seguintes escolas:\n\na) Escolas preparatórias\n\nDistrito de Aveiro:\n\n0191 Mealhada;\n\n0213 Bento Carqueja, Oliveira de Azeméis;\n\nDistrito de Bragança:\n\n0639 Augusto Moreno, Bragança;\n\n5711 Paulo Quintela, Bragança;\n\n0671 Macedo de Cavaleiros;\n\n0698 Luciano Cordeiro, Mirandela;\n\n0728 Visconde de Vila Maior, Torre de Moncorvo;\n\n0752 Vinhais;\n\nDistrito de Castelo Branco:\n\n0795 Pêro da Covilhã, Covilhã;\n\nDistrito de Évora:\n\n1201 Reguengos de Monsaraz;\n\nDistrito de Faro:\n\n1279 Lagos;\n\nDistrito de Leiria:\n\n1660 Batalha;\n\nDistrito de Lisboa:\n\n1830 Cadaval;\n\n1945 Fernão Lopes, Lisboa;\n\n5088 Caxias, Oeiras;\n\nDistrito do Porto:\n\n2470 Amarante;\n\n2500 Vila Cova da Lixa, Felgueiras;\n\n2526 Rio Tinto, Gondomar;\n\n2631 Paredes;\n\n3867 Baltar, Paredes;\n\n2810 São Lourenço, Ermesinde, Valongo;\n\n5444 Canidelo, Vila Nova de Gaia;\n\nDistrito de Santarém:\n\n3000 Coruche;\n\nDistrito de Setúbal:\n\n3298 Sesimbra;\n\nDistrito de Viana do Castelo:\n\n3387 Paredes de Coura;\n\n3395 Diogo Bernardes, Ponte da Barca;\n\n3417 Valença;\n\nDistrito de Vila Real:\n\n3450 D. Sancho II, Alijó;\n\n3530 Peso da Régua;\n\n3581 Vila Pouca de Aguiar;\n\nDistrito de Viseu:\n\n3638 Cinfães;\n\n3646 Lamego;\n\nb) Escolas C + S\n\nDistrito de Portalegre:\n\n2437 Gavião;\n\nDistrito de Santarém:\n\n3050 Rio Maior;\n\nc) Escola dos 1.º, 2.º e 3.º ciclos\n\nDistrito de Aveiro:\n\nA596 Pardilhó, Estarreja;\n\nd) Escolas secundárias\n\nDistrito de Lisboa:\n\n631J D. Maria I, Lisboa;\n\n634M Veiga Beirão, Lisboa.\n\n5.º São extintas as seguintes secções das escolas dos 2.º e 3.º ciclos do ensino básico:\n\nDistrito de Braga:\n\nSecção em Gondifelos da Escola de Júlio Brandão, Vila Nova de Famalicão;\n\nSecção em Pedome da Escola de Bernardino Machado, Vila Nova de Famalicão;Secção em Arnoso da Escola de D. Maria II, Vila Nova de Famalicão;\n\nDistrito do Porto:\n\nSecção em Barranha da Escola da Senhora da Hora, Matosinhos;\n\nSecção em São João de Deus da Escola da Areosa, Porto.\n\n6.º Os quadros e dotações do pessoal docente passam a ser os constantes do mapa I anexo à presente portaria, o qual inclui as dotações e quadros de pessoal docente das escolas referidas nos n.os 1.º, 2.º e 3.º da presente portaria.\n\n7.º Os lugares do pessoal não docente constantes do mapa II anexo à presente portaria são adicionados aos quadros de vinculação a que se refere o Decreto-Lei n.º 223/87, de 30 de Maio, e legislação complementar.\n\n8.º Os quadros de afectação de pessoal não docente a que se refere o artigo 3.º do Decreto-Lei n.º 223/87, de 30 de Maio, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 191/89, de 7 de Junho, passam a ser os constantes do mapa III anexo à presente portaria.\n\n9.º A criação e extinção de escolas previstas na presente portaria produz efeitos a partir de 1 de Setembro de 1997, salvo a criação das escolas do 1.º ciclo no distrito de Lisboa previstas no n.º 1.º, alínea a), que produz efeitos a partir de 1 de Setembro de 1995.\n\nMinistérios das Finanças e da Educação."
+  },
+  "885804800": {
+   "fragment_id": "885926379",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 25 de Julho de 1997.\n\nPelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Educação, Eduardo Carrega Marçal Grilo."
+  },
+  "885804801": {
+   "fragment_id": "885926381",
+   "type": 14,
+   "heading": "Mapa I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa I\n\n(ver documento original)"
+  },
+  "885804802": {
+   "fragment_id": "885926382",
+   "type": 14,
+   "heading": "Mapa II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa II\n\n(ver documento original)"
+  },
+  "885804809": {
+   "fragment_id": "885926383",
+   "type": 14,
+   "heading": "Mapa III",
+   "in_force_from": "1997-11-08",
+   "changed_by": [
+    "Alterado pelo/a MAPA III do/a [Portaria n.º 1091/97 - Diário da República n.º 254/1997, Série I-B de 1997-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1997-675014), em vigor a partir de 1997-11-08"
+   ],
+   "markdown": "## Mapa III\n\n(ver documento original)\n\n> Alterado pelo/a MAPA III do/a [Portaria n.º 1091/97 - Diário da República n.º 254/1997, Série I-B de 1997-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1997-675014), em vigor a partir de 1997-11-08"
+  }
+ }
+}

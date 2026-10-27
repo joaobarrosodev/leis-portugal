@@ -1,0 +1,719 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0002-20241126",
+ "dre_path": null,
+ "source_lastmod": "2024-11-26",
+ "versions": [
+  {
+   "date": "2007-04-25",
+   "future": false,
+   "celex": "32007L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212ed0d47c1721e2",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "39e469ef5d761723",
+    "edac65423990f825",
+    "65f03a23f3266e9a",
+    "0e56419ad2749991",
+    "f0f8c960bfdbce9b",
+    "25c16cb87ced3e46",
+    "c905721ee5cb4e78",
+    "f35b64145a89b823",
+    "1e7a0903d2eed348",
+    "00fe48e70a36205b",
+    "189355e6a8b9f252",
+    "1bd5702e14382080",
+    "7e91907c7c1b2314",
+    "faa57cf345d0020f",
+    "1ecfc79da3f1ac7f",
+    "95e095ed55161675",
+    "f5a7912de9a1a375",
+    "2128257c4831a109",
+    "cf1a451d3c919b8b",
+    "69a599f4b5a071ba",
+    "33bd7df7406058d6",
+    "65ebe4c370b08661",
+    "40ed6b62e188ac6f",
+    "fc55236a296dc3e3",
+    "495a07f3902157d7",
+    "b76d202a844f758e",
+    "e7f450d72dadc1f1",
+    "a2770714f0d8b449",
+    "f9e45e6261f6050d",
+    "e1ea5f186826e074",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "0b384dc12e05ee85",
+    "285f84497aa2a6b5",
+    "b4bb9a669678553d",
+    "b09a1803f3dde65a",
+    "159da16fc6ac6b8c",
+    "a6f63cfc8d377d78",
+    "d334c70a5600617a"
+   ]
+  },
+  {
+   "date": "2019-06-26",
+   "future": false,
+   "celex": "02007L0002-20190626",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1010:por",
+     "title": "REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019",
+     "published": null,
+     "celex": "32019R1010"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA A) DO ARTIGO 9.º",
+    "Adita ANEXO II",
+    "Adita CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA B) DO ARTIGO 9.º",
+    "Adita ANEXO III",
+    "Adita CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA B) DO ARTIGO 6.º E A ALÍNEA B) DO ARTIGO 9.º"
+   ],
+   "fragments": [
+    "182ce95ffde1f00d",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "39e469ef5d761723",
+    "edac65423990f825",
+    "b8d866c509c5a847",
+    "91284d01e8d15eb6",
+    "f0f8c960bfdbce9b",
+    "25c16cb87ced3e46",
+    "c905721ee5cb4e78",
+    "f35b64145a89b823",
+    "1e7a0903d2eed348",
+    "00fe48e70a36205b",
+    "189355e6a8b9f252",
+    "1bd5702e14382080",
+    "7e91907c7c1b2314",
+    "faa57cf345d0020f",
+    "1ecfc79da3f1ac7f",
+    "95e095ed55161675",
+    "f5a7912de9a1a375",
+    "2128257c4831a109",
+    "cf1a451d3c919b8b",
+    "69a599f4b5a071ba",
+    "33bd7df7406058d6",
+    "65ebe4c370b08661",
+    "40ed6b62e188ac6f",
+    "fc55236a296dc3e3",
+    "495a07f3902157d7",
+    "b76d202a844f758e",
+    "e7f450d72dadc1f1",
+    "a2770714f0d8b449",
+    "f9e45e6261f6050d",
+    "e1ea5f186826e074",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "6295b4b4aa88d1e4",
+    "285f84497aa2a6b5",
+    "a8b2b684da29fa0c",
+    "b09a1803f3dde65a",
+    "159da16fc6ac6b8c",
+    "b204ba0058a54d5b",
+    "d664376e2a8dcecd",
+    "d6e38596baae0eea",
+    "852174729551523b",
+    "a917ff63a13a8721",
+    "720af75c92791b10",
+    "eab1cacbf21794f4",
+    "b7832c42891ebf64"
+   ]
+  },
+  {
+   "date": "2024-11-26",
+   "future": false,
+   "celex": "02007L0002-20241126",
+   "acts": [
+    {
+     "id": "eu:celex:32024D2829:por",
+     "title": "DECISÃO (UE) 2024/2829 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024",
+     "published": null,
+     "celex": "32024D2829"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "182ce95ffde1f00d",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "39e469ef5d761723",
+    "edac65423990f825",
+    "b8d866c509c5a847",
+    "ac8bfdff55994256",
+    "f0f8c960bfdbce9b",
+    "25c16cb87ced3e46",
+    "d064508aec722f9b",
+    "f35b64145a89b823",
+    "1e7a0903d2eed348",
+    "00fe48e70a36205b",
+    "189355e6a8b9f252",
+    "69cb3efd5411a47f",
+    "7e91907c7c1b2314",
+    "faa57cf345d0020f",
+    "1ecfc79da3f1ac7f",
+    "95e095ed55161675",
+    "652936a159c121d1",
+    "2128257c4831a109",
+    "a580b923311d450c",
+    "69a599f4b5a071ba",
+    "33bd7df7406058d6",
+    "65ebe4c370b08661",
+    "40ed6b62e188ac6f",
+    "fc55236a296dc3e3",
+    "495a07f3902157d7",
+    "b76d202a844f758e",
+    "e7f450d72dadc1f1",
+    "a2770714f0d8b449",
+    "f9e45e6261f6050d",
+    "e1ea5f186826e074",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "609078c4b52e120e",
+    "212b187d693dcddd",
+    "a8b2b684da29fa0c",
+    "6f80192e813635f3",
+    "159da16fc6ac6b8c",
+    "b204ba0058a54d5b",
+    "d664376e2a8dcecd",
+    "d6e38596baae0eea",
+    "852174729551523b",
+    "a917ff63a13a8721",
+    "720af75c92791b10",
+    "eab1cacbf21794f4",
+    "d2e6a81147ab361e"
+   ]
+  }
+ ],
+ "fragments": {
+  "212ed0d47c1721e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Março de 2007\n\nque estabelece uma infra-estrutura de informação geográfica na Comunidade Europeia (Inspire)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr1-L_2007108PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado, tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 17 de Janeiro de 2007 [([^2])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr2-L_2007108PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) A política da Comunidade no domínio do ambiente tem por objectivo atingir um nível de protecção elevado, tendo em conta a diversidade das situações existentes nas diferentes regiões da Comunidade. Além disso, é necessária informação, incluindo informação geográfica, para a definição e execução dessa política e de outras políticas comunitárias que devam integrar as exigências em matéria de protecção do ambiente em conformidade com o artigo 6.º do Tratado. Para conseguir essa integração, é necessário estabelecer uma certa coordenação entre utilizadores e fornecedores da informação, a fim de que a informação e os conhecimentos provenientes de diferentes sectores possam ser combinados.\n\n(2) O sexto programa de acção em matéria de Ambiente, aprovado pela Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002 [([^3])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr3-L_2007108PT.01000101-E0003), exige que se preste toda a atenção à necessidade de assegurar que a política ambiental da Comunidade seja definida de forma integrada, tendo em conta as diferenças regionais e locais. Existem vários problemas ao nível da disponibilidade, qualidade, organização, acessibilidade e partilha das informações geográficas necessárias para alcançar os objectivos estabelecidos naquele programa.\n\n(3) Os problemas de disponibilidade, qualidade, organização, acessibilidade e partilha das informações geográficas são comuns a um grande número de políticas e de áreas temáticas no domínio da informação e são sentidos aos vários níveis da autoridade pública. Para os resolver são necessárias medidas que incidam sobre o intercâmbio, a partilha, o acesso e a utilização de dados geográficos interoperáveis e de serviços de dados geográficos aos vários níveis da autoridade pública, e de diferentes sectores. Deverá, pois, ser criada uma infra-estrutura de informação geográfica na Comunidade.\n\n(4) A infra-estrutura de informação geográfica na Comunidade Europeia (Inspire) deverá facilitar a tomada de decisão respeitante a políticas e actividades susceptíveis de ter um impacto directo ou indirecto no ambiente.\n\n(5) A Inspire deverá basear-se nas infra-estruturas de informação geográfica criadas pelos Estados-Membros e tornadas compatíveis com regras comuns de aplicação e suplementadas por medidas ao nível comunitário. Essas medidas deverão assegurar que as infra-estruturas de informação geográfica criadas pelos Estados-Membros sejam compatíveis e utilizáveis num contexto comunitário e transfronteiriço.\n\n(6) As infra-estruturas de informação geográfica dos Estados-Membros deverão ser concebidas de forma a que os dados geográficos sejam armazenados, disponibilizados e mantidos ao nível mais adequado; a que seja possível combinar de forma coerente dados geográficos de várias fontes na Comunidade e partilhá-los entre vários utilizadores e aplicações; a que os dados geográficos recolhidos a um dado nível da autoridade pública possam ser partilhados com outras autoridades públicas; a que os dados geográficos sejam disponibilizados em condições que não limitem indevidamente a sua ampla utilização; a que seja fácil encontrar os dados geográficos disponíveis, avaliar a sua adequação ao objectivo em vista e conhecer as condições aplicáveis à sua utilização.\n\n(7) Há uma certa sobreposição entre a informação geográfica abrangida pela presente directiva e a abrangida pela Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre ambiente [([^4])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr4-L_2007108PT.01000101-E0004). A presente directiva não deverá prejudicar a Directiva 2003/4/CE.\n\n(8) A presente directiva não deverá prejudicar a Directiva 2003/98/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à reutilização de informações do sector público [([^5])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr5-L_2007108PT.01000101-E0005), cujos objectivos são complementares dos da presente directiva.\n\n(9) A presente directiva não deverá afectar a existência ou a detenção de direitos de propriedade intelectual por autoridades públicas.\n\n(10) A criação da Inspire representará uma considerável mais-valia para outras iniciativas comunitárias — e delas beneficiará também — como o Regulamento (CE) n.º 876/2002 do Conselho, de 21 de Maio de 2002, que institui a empresa comum Galileu [([^6])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr6-L_2007108PT.01000101-E0006), e a Comunicação da Comissão ao Parlamento Europeu e ao Conselho intitulada «Vigilância Global do Ambiente e da Segurança (GMES): Criação de uma capacidade GMES até 2008 — [Plano de acção (2004-2008)]». Os Estados-Membros deverão considerar a possibilidade de utilizar os dados e serviços resultantes da Galileu e da GMES à medida que estes fiquem disponíveis, sobretudo no que diz respeito à referenciação temporal e espacial fornecida pela Galileu.\n\n(11) Têm vindo a ser tomadas numerosas iniciativas, tanto ao nível nacional como comunitário, com o objectivo de recolher, harmonizar ou organizar a divulgação ou utilização da informação geográfica. Tais iniciativas podem ser estabelecidas pela legislação comunitária, como a Decisão 2000/479/CE da Comissão, de 17 de Julho de 2000, relativa à criação de um registo europeu das emissões de poluentes (EPER) nos termos do artigo 15.º da Directiva 96/61/CE do Conselho relativa à prevenção e controlo integrados da poluição (IPPC) [([^7])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr7-L_2007108PT.01000101-E0007), e o Regulamento (CE) n.º 2152/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao acompanhamento das florestas e das interacções ambientais na Comunidade (Forest Focus) [([^8])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr8-L_2007108PT.01000101-E0008), no quadro de programas financiados pela Comunidade (por exemplo, Corine Land Cover, Sistema Europeu de Informação sobre a Política de Transportes), ou podem emanar de iniciativas tomadas a nível nacional ou regional. A presente directiva virá não só servir de complemento a essas iniciativas, fornecendo um quadro que permitirá a sua interoperabilidade, mas basear-se-á também nas experiências e iniciativas existentes, sem repetir trabalhos já efectuados.\n\n(12) A presente directiva deverá ser aplicável aos dados geográficos na posse das autoridades públicas ou detidos em seu nome e à utilização de dados geográficos pelas autoridades públicas no cumprimento das suas atribuições. Contudo, em certas condições, deverá ser também aplicável aos dados geográficos na posse de pessoas singulares ou colectivas que não sejam autoridades públicas, se essas pessoas o solicitarem.\n\n(13) A presente directiva não deverá estabelecer requisitos quanto à recolha de novos dados nem à comunicação dessas informações à Comissão, dado que essas matérias são regidas por outros diplomas legais no domínio do ambiente.\n\n(14) A criação das infra-estruturas nacionais deverá ser progressiva e, consequentemente, as matérias a que se referem os dados geográficos abrangidos pela presente directiva deverão ser classificadas de acordo com diferentes níveis de prioridade. A criação das infra-estruturas nacionais deverá ter em conta em que medida os dados geográficos são necessários a uma ampla gama de aplicações em vários domínios políticos, a prioridade das acções previstas nas políticas comunitárias que necessitam de dados geográficos harmonizados e os progressos já alcançados pelos Estados-Membros em matéria de harmonização.\n\n(15) O tempo e os recursos desperdiçados na procura de dados geográficos existentes ou na verificação da adequação da sua utilização para um dado objectivo constituem um sério obstáculo à plena exploração dos dados disponíveis. Os Estados-Membros deverão, por isso, fornecer descrições dos conjuntos e serviços de dados geográficos disponíveis, sob a forma de metadados.\n\n(16) Dado que a grande diversidade de formatos e estruturas em que os dados geográficos são organizados e consultados na Comunidade dificulta a eficiente formulação, aplicação, acompanhamento e avaliação da legislação comunitária que afecta directa ou indirectamente o ambiente, deverão ser previstas medidas de execução que facilitem a utilização de dados geográficos de várias fontes nos Estados-Membros. Tais medidas deverão ser concebidas para tornar interoperáveis os conjuntos de dados geográficos, cabendo aos Estados-Membros assegurar que quaisquer dados ou informações necessários para se atingirem os objectivos de interoperabilidade estejam disponíveis em condições que não restrinjam a sua utilização para esse efeito. As disposições de execução deverão, sempre que possível, basear-se em normas internacionais e não acarretar encargos excessivos para os Estados-Membros\n\n(17) São necessários serviços em rede para a partilha dos dados geográficos entre os vários níveis de autoridade pública na Comunidade. Esses serviços em rede deverão permitir encontrar, transformar, visualizar e descarregar dados geográficos e utilizar esses dados, bem como serviços de cibercomércio. Os serviços da rede deverão funcionar de acordo com especificações estabelecidas de comum acordo e com critérios mínimos de desempenho, a fim de assegurar a interoperabilidade das infra-estruturas criadas pelos Estados-Membros. A rede de serviços deve também incluir a possibilidade técnica de as autoridades públicas colocarem à disposição os seus conjuntos e serviços de dados geográficos.\n\n(18) Alguns dos conjuntos e serviços de dados geográficos de interesse para as políticas comunitárias que afectam directa ou indirectamente o ambiente encontram-se na posse de terceiros e são por eles explorados. Os Estados-Membros deverão, por isso, oferecer a terceiros a possibilidade de contribuir para as infra-estruturas nacionais, desde que tal não afecte a coesão e facilidade de utilização dos dados geográficos e serviços de dados geográficos abrangidos por essas infra-estruturas.\n\n(19) A experiência adquirida pelos Estados-Membros demonstra que, para que uma infra-estrutura de informação geográfica seja criada com sucesso, é importante que um número mínimo de serviços seja posto gratuitamente à disposição do público. Os Estados-Membros deverão, pois, disponibilizar gratuitamente, pelo menos, os serviços de pesquisa e, em certas condições específicas, de visualização dos conjuntos de dados geográficos.\n\n(20) Para facilitar a integração das infra-estruturas nacionais na Inspire, os Estados-Membros deverão permitir o acesso às suas infra-estruturas através de um geo-portal comunitário gerido pela Comissão, para além de quaisquer pontos de acesso que decidam eles próprios explorar.\n\n(21) A fim de pôr à disposição informações provenientes dos vários níveis de autoridade pública, os Estados-Membros deverão eliminar os obstáculos práticos que se levantam nesta matéria às autoridades públicas ao nível nacional, regional e local no desempenho das atribuições públicas que possam ter um impacto directo ou indirecto no ambiente.\n\n(22) As autoridades públicas precisam de aceder facilmente aos conjuntos e serviços de dados geográficos pertinentes durante o desempenho das suas atribuições públicas. Esse acesso pode ser dificultado se estiver dependente de uma negociação individual *ad hoc* entre autoridades públicas de cada vez que for solicitado. Os Estados-Membros deverão tomar as medidas necessárias para impedir obstáculos práticos à partilha de dados, recorrendo, por exemplo, a acordos prévios entre autoridades públicas.\n\n(23) Nos casos em que uma autoridade pública fornece a outra autoridade pública do mesmo Estado-Membro conjuntos e serviços de dados geográficos necessários para o cumprimento de obrigações de informação impostas pela legislação ambiental comunitária, o Estado-Membro em questão deverá poder determinar que o fornecimento de tais conjuntos e serviços seja gratuito. Os mecanismos destinados à partilha de conjuntos e serviços de dados geográficos entre governos e outras administrações públicas e pessoas singulares ou colectivas que exerçam funções administrativas públicas nos termos da lei nacional deverão ter em conta a necessidade de proteger a viabilidade financeira das autoridades públicas, em particular daquelas cujo financiamento deva ser assegurado através de receitas próprias. Em qualquer caso, a taxa cobrada não deverá exceder o custo da recolha, produção, reprodução e divulgação juntamente com uma rentabilidade razoável.\n\n(24) A prestação de serviços de rede deverá ser realizada sem prejuízo dos princípios relativos à protecção de dados pessoais, nos termos da Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^9])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr9-L_2007108PT.01000101-E0009).\n\n(25) Os quadros criados para a partilha de dados geográficos entre autoridades públicas às quais a presente directiva impõe o dever de partilha deverão ter um efeito neutro não só em relação a tais autoridades públicas no interior de um dado Estado-Membro, mas também em relação às autoridades públicas congéneres de outros Estados-Membros e às instituições comunitárias. Dado que as instituições e organismos comunitários têm frequentemente necessidade de integrar e avaliar informação geográfica proveniente de todos os Estados-Membros, deverão poder ter acesso aos dados geográficos e respectivos serviços e poder utilizá-los, em condições harmonizadas.\n\n(26) Com o objectivo de incentivar o desenvolvimento de serviços de valor acrescentado por terceiros, em benefício das autoridades públicas e do público, é necessário facilitar o acesso aos dados geográficos que se estendem para além das fronteiras administrativas ou nacionais.\n\n(27) A criação eficaz de infra-estruturas de informação geográfica exige um esforço de coordenação da parte de todos quantos têm interesse na criação dessas infra-estruturas, quer na qualidade de fornecedores, quer de utilizadores. Deverão, pois, ser estabelecidas estruturas de coordenação adequadas, que abranjam os vários níveis de governo e tenham em conta a repartição de competências e responsabilidades nos Estados-Membros.\n\n(28) A fim de beneficiar da tecnologia mais avançada e da experiência concreta no domínio das infra-estruturas de informação, convém que as medidas necessárias à execução da presente directiva se baseiem nas normas internacionais e nas normas aprovadas pelos organismos europeus de normalização nos termos da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas [([^10])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr10-L_2007108PT.01000101-E0010).\n\n(29) Dado que a Agência Europeia do Ambiente, criada ao abrigo do Regulamento (CEE) n.º 1210/90 do Conselho, de 7 de Maio de 1990, que institui a Agência Europeia do Ambiente e a Rede Europeia de Informação e de Observação do Ambiente [([^11])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr11-L_2007108PT.01000101-E0011), tem por missão fornecer à Comunidade informação ambiental objectiva, fiável e comparável ao nível da Comunidade e visa, entre outros aspectos, melhorar o fluxo de informações ambientais de interesse político entre os Estados-Membros e as instituições comunitárias, deverá tal Agência contribuir de forma activa para a aplicação da presente directiva.\n\n(30) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar Melhor» [([^12])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr12-L_2007108PT.01000101-E0012), os Estados-Membros são encorajados a elaborarem, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a directiva e as medidas de transposição, e a procederem à sua publicação.\n\n(31) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE da Comissão, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^13])](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntr13-L_2007108PT.01000101-E0013).\n\n(32) Em especial, deverá ser atribuída competência à Comissão para adaptar a descrição das categorias temáticas de dados geográficos a que se referem os anexos I, II e III. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais da presente directiva, tais medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º A da Decisão 1999/468/CE.\n\n(33) Deverá igualmente ser atribuída competência à Comissão para aprovar medidas de execução que definam aspectos técnicos da interoperabilidade e harmonização de conjuntos e serviços de dados geográficos, regras destinadas a regulamentar as condições de acesso aos referidos conjuntos e serviços e regras relativas às especificações técnicas e às obrigações de serviços em rede. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais da presente directiva, tais medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º A da Decisão 1999/468/CE.\n\n(34) Os trabalhos preparatórios das decisões sobre a aplicação da presente directiva e à futura evolução da Inspire exigem um acompanhamento contínuo da aplicação da mesma e a apresentação regular de relatórios.\n\n(35) Atendendo a que o objectivo da presente directiva, a saber, o estabelecimento da Inspire, não pode ser suficientemente realizado pelos Estados-Membros devido aos aspectos transnacionais e à necessidade geral de coordenar na Comunidade as condições de acesso, troca e partilha de informação geográfica, e pode, pois, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "39e469ef5d761723": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva tem por objectivo fixar regras gerais para o estabelecimento da infra-estrutura de informação geográfica na Comunidade Europeia (a seguir designada «Inspire»), para efeitos das políticas ambientais comunitárias e das políticas ou actividades susceptíveis de ter impacto ambiental.\n\n2. A Inspire baseia-se nas infra-estruturas de informação geográfica criadas e exploradas pelos Estados-Membros."
+  },
+  "edac65423990f825": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A presente directiva é aplicável sem prejuízo das Directivas 2003/4/CE e 2003/98/CE.\n\n2. A presente directiva não afecta a existência ou a detenção de direitos de propriedade intelectual por autoridades públicas."
+  },
+  "65f03a23f3266e9a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara os efeitos da presente directiva, entende-se por:\n\n1. «Infra-estrutura de informação geográfica»: metadados, conjuntos e serviços de dados geográficos; serviços e tecnologias em rede; acordos em matéria de partilha, acesso e utilização, e mecanismos, processos e procedimentos de coordenação e acompanhamento estabelecidos, explorados ou disponibilizados nos termos da presente directiva;\n\n2. «Dados geográficos»: quaisquer dados com uma referência directa ou indirecta a uma localização ou zona geográfica específica;\n\n3. «Conjunto de dados geográficos»: uma colecção identificável de dados geográficos;\n\n4. «Serviços de dados geográficos»: as operações que podem ser efectuadas, utilizando uma aplicação informática, com os dados geográficos contidos em conjuntos de dados geográficos ou com os metadados correspondentes;\n\n5. «Objecto geográfico»: a representação abstracta de um fenómeno real relacionado com uma localização ou zona geográfica específica;\n\n6. «Metadados»: informações que descrevem conjuntos e serviços de dados geográficos e que permitem pesquisá-los, inventariá-los e utilizá-los;\n\n7. «Interoperabilidade»: a possibilidade de os conjuntos de dados geográficos serem combinados, e de os serviços interagirem, sem intervenção manual repetitiva, de tal forma que o resultado seja coerente e o valor acrescentado dos conjuntos e serviços de dados seja reforçado;\n\n8. «Geoportal Inspire»: um sítio internet, ou equivalente, que dá acesso aos serviços referidos no n.º 1 do artigo 11.º;\n\n9. «Autoridade pública»: a) Um governo ou outros órgãos da administração pública nacional, regional ou local, incluindo órgãos consultivos; b) Qualquer pessoa singular ou colectiva que exerça funções administrativas públicas nos termos da lei nacional, incluindo deveres, actividades ou serviços específicos relacionados com o ambiente; e c) Qualquer pessoa singular ou colectiva que tenha responsabilidades ou exerça funções públicas, ou que preste serviços públicos relacionados com o ambiente, sob o controlo de um órgão ou de uma pessoa abrangida pelas alíneas a) ou b). Os Estados-Membros podem prever que, sempre que órgãos ou instituições actuarem no exercício de poderes judiciais ou legislativos, não são considerados autoridade pública para os efeitos da presente directiva.\n\na) Um governo ou outros órgãos da administração pública nacional, regional ou local, incluindo órgãos consultivos;\n\nb) Qualquer pessoa singular ou colectiva que exerça funções administrativas públicas nos termos da lei nacional, incluindo deveres, actividades ou serviços específicos relacionados com o ambiente; e\n\nc) Qualquer pessoa singular ou colectiva que tenha responsabilidades ou exerça funções públicas, ou que preste serviços públicos relacionados com o ambiente, sob o controlo de um órgão ou de uma pessoa abrangida pelas alíneas a) ou b).\n\n10. «Terceiro»: qualquer pessoa singular ou colectiva que não seja uma autoridade pública."
+  },
+  "0e56419ad2749991": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A presente directiva abrange os conjuntos de dados geográficos que satisfaçam as seguintes condições:\n\na) Estarem relacionados com uma zona sobre a qual um Estado-Membro tenha e/ou exerça jurisdição;\n\nb) Estarem disponíveis em formato electrónico;\n\nc) Serem mantidos por uma das seguintes entidades ou por conta da mesma: i) uma autoridade pública, tendo sido fornecidos ou recebidos por uma autoridade pública, ou sendo geridos ou actualizados por essa autoridade e abrangidos no âmbito das respectivas atribuições públicas; ii) um terceiro ao qual a rede tenha sido disponibilizada nos termos do artigo 12.º\n\ni) uma autoridade pública, tendo sido fornecidos ou recebidos por uma autoridade pública, ou sendo geridos ou actualizados por essa autoridade e abrangidos no âmbito das respectivas atribuições públicas;\n\nii) um terceiro ao qual a rede tenha sido disponibilizada nos termos do artigo 12.º\n\nd) Dizerem respeito a um ou mais dos temas enumerados nos anexos I, II ou III.\n\n2. Nos casos em que sejam conservadas por várias autoridades públicas, ou por conta das mesmas, múltiplas cópias idênticas dos mesmos conjuntos de dados geográficos, a presente directiva apenas se aplica à versão de referência da qual derivam as cópias.\n\n3. A presente directiva abrange igualmente os serviços de dados geográficos respeitantes aos dados contidos nos conjuntos de dados geográficos referidos no n.º 1.\n\n4. A presente directiva não exige a recolha de novos dados geográficos.\n\n5. No caso dos conjuntos de dados geográficos que satisfazem as condições estabelecidas na alínea c) do n.º 1, mas sobre os quais um terceiro detém direitos de propriedade intelectual, a autoridade pública só pode adoptar medidas ao abrigo da presente directiva com o consentimento desse terceiro.\n\n6. Em derrogação do n.º 1, a presente directiva apenas abrange os conjuntos de dados geográficos detidos pelas autoridades públicas que operam ao nível mais baixo da administração pública de um Estado-Membro ou por conta destas se o Estado-Membro possuir legislação ou regulamentação que exija a sua recolha e divulgação.\n\n7. A descrição das categorias temáticas de dados referidas nos anexos I, II e III pode ser adaptada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 22.º a fim de ter em conta a evolução das necessidades, em termos de dados geográficos, das políticas comunitárias com incidências ambientais."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "25c16cb87ced3e46": {
+   "fragment_id": "METADADOS",
+   "type": "divisao",
+   "heading": "METADADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### METADADOS"
+  },
+  "c905721ee5cb4e78": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros devem assegurar que sejam criados metadados para os conjuntos e serviços de dados geográficos que correspondam às categorias temáticas enumeradas nos anexos I, II e III, e que esses metadados sejam mantidos actualizados.\n\n2. Os metadados devem incluir informações sobre:\n\na) A conformidade dos conjuntos de dados geográficos com as disposições de execução previstas no n.º 1 do artigo 7.º;\n\nb) As condições aplicáveis ao acesso e à utilização dos conjuntos e serviços de dados geográficos e, quando aplicável, as taxas correspondentes;\n\nc) A qualidade e validade dos conjuntos de dados geográficos;\n\nd) As autoridades públicas responsáveis pelo estabelecimento, gestão, manutenção e distribuição de conjuntos e serviços de dados geográficos;\n\ne) As restrições ao acesso do público e os motivos dessas restrições, nos termos do artigo 13.º\n\n3. Os Estados-Membros devem tomar as medidas necessárias para assegurar que os metadados sejam completos e de qualidade suficiente para cumprir o objectivo estabelecido no n.º 6 do artigo 3.º\n\n4. As disposições de execução do presente artigo devem ser aprovadas até 15 de Maio de 2008 pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 22.º Essas disposições devem ter em conta as normas internacionais aplicáveis e os requisitos dos utilizadores, em particular no que se refere aos metadados de validação."
+  },
+  "f35b64145a89b823": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros devem criar os metadados referidos no artigo 5.º de acordo com o seguinte calendário:\n\na) Até dois anos após a data de aprovação de disposições de execução nos termos do n.º 4 do artigo 5.º no caso dos conjuntos de dados geográficos correspondentes às categorias temáticas enumeradas nos anexos I e II;\n\nb) Até cinco anos após a data de aprovação de disposições de execução nos termos do n.º 4 do artigo 5.º no caso dos conjuntos de dados geográficos correspondentes às categorias temáticas enumeradas no anexo III."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "00fe48e70a36205b": {
+   "fragment_id": "INTEROPERABILIDADE DOS CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS",
+   "type": "divisao",
+   "heading": "INTEROPERABILIDADE DOS CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTEROPERABILIDADE DOS CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS"
+  },
+  "189355e6a8b9f252": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As disposições de execução que definem os aspectos técnicos da interoperabilidade e, se exequível, a harmonização dos conjuntos e serviços de dados geográficos, destinadas a alterar elementos não essenciais da presente directiva, completando-a, devem ser aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 22.º Na elaboração das disposições de execução devem ser tidos em conta os requisitos dos utilizadores pertinentes, as iniciativas existentes e as normas internacionais para a harmonização dos conjuntos de dados geográficos, bem como considerações de viabilidade e de custos-benefícios. Sempre que organizações instituídas ao abrigo do direito internacional tenham adoptado normas pertinentes com vista a assegurar a interoperabilidade ou a harmonização de conjuntos e serviços de dados geográficos, essas normas devem ser integradas, e os meios técnicos existentes devem ser mencionados, se adequado, nas disposições de execução a que se refere o presente número.\n\n2. Como ponto de partida para a elaboração das disposições de execução referidas no n.º 1, a Comissão deve efectuar análises para assegurar que tais disposições sejam viáveis e proporcionadas em termos de custos e benefícios esperados e informar o Comité referido no n.º 1 do artigo 22º dos resultados dessas análises. Quando tal lhes for solicitado, os Estados-Membros devem prestar à Comissão as informações necessárias à elaboração das referidas análises.\n\n3. Os Estados-Membros devem assegurar que todos os conjuntos de dados geográficos recentemente coligidos e largamente reestruturados, bem como os serviços de dados geográficos correspondentes, estejam disponíveis em conformidade com as disposições de execução referidas no n.º 1 no prazo de dois anos a contar da aprovação destas, bem como que os restantes conjuntos e serviços de dados geográficos ainda em vigor estejam disponíveis em conformidade com as disposições de execução no prazo de sete anos a contar da aprovação destas. Os conjuntos de dados geográficos devem ser disponibilizados em conformidade com as disposições de execução, quer através da adaptação dos conjuntos de dados geográficos existentes, quer dos serviços de transformação a que se refere a alínea d) do n.º 1 do artigo 11.º\n\n4. As disposições de execução referidas no n.º 1 abrangem a definição e classificação de objectos geográficos pertinentes para os conjuntos de dados geográficos relacionados com as categorias temáticas enumeradas no anexo I, II ou III e o modo como esses dados geográficos são georeferenciados.\n\n5. Os representantes dos Estados-Membros ao nível nacional, regional e local, bem como outras pessoas singulares ou colectivas a quem os dados geográficos interessem por força do papel que desempenham na infra-estrutura de informação geográfica, designadamente os utilizadores, produtores, prestadores de serviços de valor acrescentado ou órgãos de coordenação, devem ter oportunidade de participar nos debates preparatórios sobre o conteúdo das disposições de execução referidas no n.º 1, antes da sua análise pelo Comité referido no n.º 1 do artigo 22.º"
+  },
+  "1bd5702e14382080": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. No caso de conjuntos de dados geográficos que correspondam a uma ou mais das categorias temáticas enumeradas no anexo I ou II, as disposições de execução previstas no n.º 1 do artigo 7.º devem satisfazer as condições estabelecidas nos n.^os^ 2, 3 e 4 do presente artigo.\n\n2. As disposições de execução dizem respeito aos seguintes aspectos dos dados geográficos:\n\na) Um quadro comum de identificação única dos objectos geográficos que permita estabelecer uma correspondência com os identificadores existentes nos sistemas nacionais, a fim de assegurar a respectiva interoperabilidade;\n\nb) Relação entre objectos geográficos;\n\nc) Principais atributos e correspondentes glossários multilingues habitualmente exigidos para as políticas susceptíveis de ter impacto ambiental;\n\nd) Informações sobre a dimensão temporal dos dados;\n\ne) Actualizações dos dados.\n\n3. As disposições de execução são concebidas de forma a assegurar a coerência entre as informações relativas a um mesmo local ou entre as informações que digam respeito ao mesmo objecto representado em diferentes escalas.\n\n4. As disposições de execução são concebidas de forma a assegurar que as informações derivadas de diferentes conjuntos de dados geográficos sejam comparáveis no que respeita aos aspectos referidos no n.º 4 do artigo 7.º e no n.º 2 do presente artigo."
+  },
+  "7e91907c7c1b2314": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs disposições de execução previstas no n.º 1 do artigo 7.º devem ser aprovadas de acordo com o seguinte calendário:\n\na) Até 15 de Maio de 2009, no caso dos conjuntos de dados geográficos que correspondam a uma ou mais das categorias temáticas enumeradas no anexo I;\n\nb) Até 15 de Maio de 2012, no caso dos conjuntos de dados geográficos que correspondam a uma ou mais das categorias temáticas enumeradas no anexo II ou III."
+  },
+  "faa57cf345d0020f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros devem assegurar que quaisquer informações, designadamente dados, códigos e classificações técnicas, necessárias ao cumprimento das disposições de execução previstas no n.º 1 do artigo 7.º sejam disponibilizadas às autoridades públicas ou a terceiros em condições que não restrinjam a sua utilização para esse efeito.\n\n2. A fim de assegurar a coerência dos dados geográficos relativos a uma entidade geográfica que transpõe a fronteira entre dois ou mais Estados-Membros, os Estados Membros devem decidir, quando adequado, por consentimento mútuo qual a forma e a posição dessa entidade comum."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "95e095ed55161675": {
+   "fragment_id": "SERVIÇOS DE REDE",
+   "type": "divisao",
+   "heading": "SERVIÇOS DE REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SERVIÇOS DE REDE"
+  },
+  "f5a7912de9a1a375": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-Membros devem estabelecer e explorar uma rede dos serviços, a seguir enumerados, para os conjuntos e serviços de dados geográficos em relação aos quais tenham sido criados metadados nos termos da presente directiva:\n\na) Serviços de pesquisa que permitam procurar conjuntos e serviços de dados geográficos com base no conteúdo dos correspondentes metadados e visualizar o conteúdo dos metadados;\n\nb) Serviços de visualização que permitam, no mínimo, visualizar, navegar, aumentar e reduzir a escala de visualização, deslocar ou sobrepor conjuntos visualizáveis de dados geográficos e visualizar informação contida em legendas e qualquer conteúdo relevante dos metadados;\n\nc) Serviços de descarregamento que permitam descarregar e, se exequível, aceder directamente a cópias integrais ou parciais de conjuntos de dados geográficos;\n\nd) Serviços de transformação que permitam transformar conjuntos de dados geográficos tendo em vista garantir a interoperabilidade;\n\ne) Serviços que permitam chamar serviços de dados geográficos.\n\nEsses serviços devem ter em conta os requisitos dos utilizadores pertinentes, ser fáceis de utilizar, estar à disposição do público e ser acessíveis via internet ou por qualquer outro meio de telecomunicação adequado.\n\n2. Para os efeitos dos serviços referidos na alínea a) do n.º 1, deve ser aplicada, pelo menos, a seguinte combinação de critérios de pesquisa:\n\na) Palavras-chave;\n\nb) Classificação dos dados e serviços geográficos;\n\nc) Qualidade e validade dos conjuntos de dados geográficos;\n\nd) Grau de conformidade com as disposições de execução previstas no n.º 1 do artigo 7.º;\n\ne) Localização geográfica;\n\nf) Condições de acesso e utilização aplicáveis aos conjuntos e serviços de dados geográficos;\n\ng) Autoridades públicas responsáveis pelo estabelecimento, gestão, manutenção e distribuição de conjuntos e serviços de dados geográficos.\n\n3. Os serviços de transformação referidos na alínea d) do n.º 1 devem ser combinados com os outros serviços referidos nesse número de forma a permitir que todos esses serviços funcionem nos termos das disposições de execução previstas no artigo 7.º"
+  },
+  "2128257c4831a109": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros devem assegurar que as autoridades públicas disponham da possibilidade técnica de ligar os seus conjuntos e serviços de dados geográficos à rede referida no n.º 1 do artigo 11.º Esse serviço deve ser igualmente disponibilizado, quando solicitado, a terceiros cujos conjuntos e serviços de dados geográficos cumpram disposições de execução que estabeleçam obrigações designadamente em matéria de metadados, serviços de rede e interoperabilidade."
+  },
+  "cf1a451d3c919b8b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Em derrogação do n.º 1 do artigo 11.º, os Estados-Membros podem restringir o acesso do público aos conjuntos e serviços de dados geográficos através dos serviços referidos na alínea a) do n.º 1 do artigo 11.º caso tal acesso possa afectar negativamente as relações internacionais, a segurança pública ou a defesa nacional.\n\nEm derrogação do n.º 1 do artigo 11.º, os Estados-Membros podem restringir o acesso do público aos conjuntos e serviços de dados geográficos através dos serviços referidos nas alíneas b) a e) do n.º 1 do artigo 11.º, ou aos serviços de comércio electrónico referidos no n.º 3 do artigo 14.º, caso tal acesso possa afectar negativamente algum dos seguintes aspectos:\n\na) A confidencialidade dos procedimentos das autoridades públicas, nos casos em que tal confidencialidade esteja prevista na lei;\n\nb) As relações internacionais, a segurança pública ou a defesa nacional;\n\nc) O funcionamento da justiça, o direito de qualquer pessoa a um julgamento equitativo ou a possibilidade de as autoridades públicas realizarem inquéritos de natureza criminal ou disciplinar;\n\nd) A confidencialidade das informações comerciais ou industriais, no caso de tal confidencialidade estar prevista no direito nacional ou comunitário para proteger um interesse económico legítimo, incluindo o interesse público em manter a confidencialidade estatística e o segredo fiscal;\n\ne) Os direitos de propriedade intelectual;\n\nf) A confidencialidade de dados pessoais e/ou ficheiros relativos a uma pessoa singular, quando a pessoa em causa não tiver consentido na divulgação da informação ao público, caso tal confidencialidade esteja prevista no direito nacional ou comunitário;\n\ng) Os interesses ou a protecção de qualquer pessoa que tenha prestado voluntariamente a informação solicitada sem estar sujeita à obrigação legal de a prestar nem poder ser sujeita a tal obrigação, a não ser que essa pessoa tenha consentido em divulgar a informação em causa;\n\nh) A protecção do ambiente a que essa informação diz respeito, por exemplo a localização de espécies raras.\n\n2. As razões para limitar o acesso, previstas no n.º 1, devem ser interpretadas de forma restritiva, tendo em conta, em cada caso, o interesse público defendido pela concessão do acesso. Em cada caso concreto, o interesse público defendido pela divulgação dos dados deve ser ponderado relativamente ao interesse defendido pela restrição ou pelo condicionamento do acesso. Os Estados-Membros não podem, ao abrigo das alíneas a), d), f), g) e h) do n.º 1, restringir o acesso à informação sobre emissões para o ambiente.\n\n3. Neste âmbito, e para efeitos da aplicação da alínea f) do n.º 1, os Estados-Membros devem assegurar o cumprimento dos requisitos da Directiva 95/46/CE."
+  },
+  "69a599f4b5a071ba": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-Membros devem assegurar que os serviços referidos nas alíneas a) e b) do n.º 1 do artigo 11.º sejam colocados gratuitamente à disposição do público.\n\n2. Em derrogação do disposto no n.º 1, os Estados-Membros podem permitir que uma autoridade pública que forneça serviços referidos na alínea b) do n.º 1 do artigo 11.º cobre taxas caso as mesmas assegurem a manutenção de conjuntos de dados geográficos ou dos correspondentes serviços, especialmente em casos que envolvam grande volume de dados frequentemente actualizados.\n\n3. Os dados disponibilizados através dos serviços de visualização referidos na alínea b) do n.º 1 do artigo 11.º podem ser apresentados numa forma que impeça a sua reutilização para fins comerciais.\n\n4. Se as autoridades públicas cobrarem taxas pelos serviços referidos nas alíneas b), c) ou e) do n.º 1 do artigo 11.º, os Estados-Membros devem assegurar a disponibilidade de serviços de comércio electrónico. Esses serviços podem ser cobertos por declarações de exoneração de responsabilidade, licenças por clique ou, se necessário, licenças comuns."
+  },
+  "33bd7df7406058d6": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão deve criar e explorar um geoportal Inspire ao nível comunitário.\n\n2. Os Estados-Membros devem facultar o acesso aos serviços referidos no n.º 1 do artigo 11.º através do geoportal Inspire referido no n.º 1. Os Estados-Membros podem também facultar o acesso a esses serviços através dos seus próprios pontos de acesso."
+  },
+  "65ebe4c370b08661": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs disposições de execução destinadas a alterar elementos não essenciais do presente capítulo, completando-o, devem ser aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 22.º e definir, nomeadamente:\n\na) As especificações técnicas para os serviços referidos nos artigos 11.º e 12.º e os critérios de desempenho mínimo para esses serviços, tendo em conta os actuais requisitos e recomendações adoptados no âmbito da legislação comunitária em matéria de ambiente para a apresentação de relatórios, os actuais serviços de cibercomércio e o progresso tecnológico;\n\nb) As obrigações referidas no artigo 12.º"
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "fc55236a296dc3e3": {
+   "fragment_id": "PARTILHA DE DADOS",
+   "type": "divisao",
+   "heading": "PARTILHA DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTILHA DE DADOS"
+  },
+  "495a07f3902157d7": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Os Estados-Membros devem adoptar medidas com vista à partilha de conjuntos e serviços de dados geográficos entre as autoridades públicas referidas nas alíneas a) e b) do n.º 9 do artigo 3.º Tais medidas devem possibilitar às referidas autoridades públicas o acesso aos conjuntos e serviços de dados geográficos, e o intercâmbio e a utilização desses conjuntos e serviços, para efeitos dos serviços públicos susceptíveis de terem impacto ambiental.\n\n2. As medidas previstas no n.º 1 devem excluir quaisquer restrições susceptíveis de criar obstáculos práticos, no ponto de utilização, à partilha de conjuntos e serviços de dados geográficos.\n\n3. Os Estados-Membros podem permitir que as autoridades públicas que fornecem conjuntos e serviços de dados geográficos concedam licenças de exploração dos mesmos, e/ou exijam o pagamento correspondente, às autoridades públicas ou instituições ou órgãos da Comunidade que utilizem tais conjuntos e serviços. As referidas taxas ou licenças devem ser inteiramente compatíveis com o objectivo geral de facilitar a partilha de conjuntos e serviços de dados geográficos entre autoridades públicas. Nos casos em que sejam cobradas taxas, estas devem corresponder ao mínimo necessário para assegurar a qualidade e o fornecimento de conjuntos e serviços de dados geográficos com uma rentabilidade razoável, respeitando embora, se for caso disso, as necessidades de auto-financiamento das autoridades públicas que os fornecem. Os conjuntos e serviços de dados geográficos fornecidos pelos Estados-Membros a instituições ou órgãos comunitários para cumprimento de obrigações de informação impostas pela legislação ambiental comunitária não estão sujeitos a pagamento.\n\n4. As modalidades de partilha de conjuntos e serviços de dados geográficos, previstas nos n.^os^ 1, 2 e 3, devem estar abertas às autoridades públicas a que se referem as alíneas a) e b) do n.º 9 do artigo 3.º dos outros Estados-Membros e às instituições e órgãos da Comunidade, para efeitos dos serviços públicos susceptíveis de terem impacto ambiental.\n\n5. As modalidades de partilha de conjuntos e serviços de dados geográficos, previstas nos n.^os^ 1, 2 e 3, devem estar abertas, numa base de reciprocidade e equivalência, aos organismos instituídos por acordos internacionais em que sejam partes a Comunidade e os Estados-Membros, para os efeitos de tarefas susceptíveis de terem impacto ambiental.\n\n6. Caso as modalidades de partilha de conjuntos e serviços de dados geográficos previstas nos n.^os^ 1, 2 e 3 sejam disponibilizadas nos termos dos n.^os^ 4 e 5, podem ser sujeitas a requisitos previstos nas legislações nacionais que condicionem a sua utilização.\n\n7. Em derrogação do presente artigo, os Estados-Membros podem limitar a partilha quando tal possa comprometer o funcionamento da justiça, a segurança pública, a defesa nacional ou as relações internacionais.\n\n8. Os Estados-Membros devem facultar às instituições e órgãos da Comunidade o acesso aos conjuntos e serviços de dados geográficos em condições harmonizadas. As disposições de execução dessas condições, destinadas a alterar elementos não essenciais da presente directiva, completando-a, devem ser aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 22.º Estas disposições de execução devem respeitar inteiramente os princípios estabelecidos nos n.^os^ 1 a 3."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "e7f450d72dadc1f1": {
+   "fragment_id": "COORDENAÇÃO E MEDIDAS COMPLEMENTARES",
+   "type": "divisao",
+   "heading": "COORDENAÇÃO E MEDIDAS COMPLEMENTARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COORDENAÇÃO E MEDIDAS COMPLEMENTARES"
+  },
+  "a2770714f0d8b449": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-Membros devem assegurar a designação de estruturas e mecanismos adequados para coordenar, aos vários níveis de governo, os contributos de todos os interessados nas suas infra-estruturas de informação geográfica.\n\nEssas estruturas devem coordenar, nomeadamente, os contributos dos utilizadores, produtores, prestadores de serviços de valor acrescentado e órgãos de coordenação no que se refere à identificação dos conjuntos de dados pertinentes, das necessidades dos utilizadores, do fornecimento de informação sobre as práticas existentes e do retorno da informação sobre a aplicação da presente directiva."
+  },
+  "f9e45e6261f6050d": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. A Comissão é responsável pela coordenação da Inspire ao nível comunitário, sendo coadjuvada para o efeito pelas organizações competentes e, em especial, pela Agência Europeia do Ambiente.\n\n2. Os Estados-Membros devem designar os pontos de contacto, por norma autoridades públicas, que serão responsáveis pelos contactos com a Comissão no que respeita à presente directiva. Os pontos de contacto terão o apoio de uma estrutura de coordenação, tendo em conta a repartição de poderes e responsabilidades em cada Estado-Membro"
+  },
+  "e1ea5f186826e074": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs disposições de execução referidas na presente directiva devem ter em devida conta as normas aprovadas pelos organismos europeus de normalização nos termos da Directiva 98/34/CE, assim como as normas internacionais."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "0b384dc12e05ee85": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os Estados-Membros devem acompanhar a aplicação e utilização das respectivas infra-estruturas de informação geográfica e devem facultar os resultados desse acompanhamento à Comissão e ao público de forma permanente.\n\n2. Até 15 de Maio de 2010, os Estados-Membros devem enviar um relatório à Comissão descrevendo sumariamente o seguinte:\n\na) A forma como são coordenados os produtores do sector público e utilizadores de conjuntos e serviços de dados geográficos e os organismos intermediários, bem como as relações com terceiros e a forma como a qualidade é assegurada;\n\nb) Contributos das autoridades públicas ou terceiros para o funcionamento e a coordenação da infra-estrutura de informação geográfica;\n\nc) Informações sobre a utilização da infra-estrutura de informação geográfica;\n\nd) Acordos de partilha de dados entre autoridades públicas;\n\ne) Custos e benefícios da aplicação da presente directiva.\n\n3. De três em três anos, com início até 15 de Maio de 2013, os Estados-Membros devem enviar um relatório à Comissão contendo informações actualizadas relativas aos pontos referidos no n.º 2.\n\n4. As disposições pormenorizadas para a execução do presente artigo devem ser aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 22.º"
+  },
+  "285f84497aa2a6b5": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "b4bb9a669678553d": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAté 15 de Maio de 2014, e seguidamente de seis em seis anos, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho, um relatório sobre a aplicação da presente directiva, com base, nomeadamente, nos relatórios dos Estados-Membros elaborados nos termos dos n.^os^ 2 e 3 do artigo 21.º\n\nO relatório deve ser acompanhado, se necessário, de propostas de acção comunitária."
+  },
+  "b09a1803f3dde65a": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 15 de Maio de 2009.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "159da16fc6ac6b8c": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA presente directiva entra em vigor vinte dias após o da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "a6f63cfc8d377d78": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 14 de Março de 2007.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**G. GLOSER**\n\n---"
+  },
+  "d334c70a5600617a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc1-L_2007108PT.01000101-E0001) [JO C 221 de 8.9.2005, p. 33](http://publications.europa.eu/resource/oj/JOC_2005_221_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc2-L_2007108PT.01000101-E0002) Parecer do Parlamento Europeu de 7 de Junho de 2005 ([JO C 124 E de 25.5.2006, p. 116](http://publications.europa.eu/resource/oj/JOC_2006_124_E_TOC)), posição comum do Conselho de 23 de Janeiro de 2006 ([JO C 126 E de 30.5.2006, p. 16](http://publications.europa.eu/resource/oj/JOC_2006_126_E_TOC)) e posição do Parlamento Europeu de 13 de Junho de 2006 (ainda não publicada em Jornal Oficial). Decisão do Conselho de 29 de Janeiro de 2007 e resolução legislativa do Parlamento Europeu de 13 de Fevereiro de 2007 (ainda não publicada em Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc3-L_2007108PT.01000101-E0003) [JO L 242 de 10.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_242_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc4-L_2007108PT.01000101-E0004) [JO L 41 de 14.2.2003, p. 26](http://publications.europa.eu/resource/oj/JOL_2003_041_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc5-L_2007108PT.01000101-E0005) [JO L 345 de 31.12.2003, p. 90](http://publications.europa.eu/resource/oj/JOL_2003_345_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc6-L_2007108PT.01000101-E0006) [JO L 138 de 28.5.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_138_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc7-L_2007108PT.01000101-E0007) [JO L 192 de 28.7.2000, p. 36](http://publications.europa.eu/resource/oj/JOL_2000_192_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc8-L_2007108PT.01000101-E0008) [JO L 324 de 11.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_324_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 788/2004 ([JO L 138 de 30.4.2004, p. 17](http://publications.europa.eu/resource/oj/JOL_2004_138_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc9-L_2007108PT.01000101-E0009) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003 ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc10-L_2007108PT.01000101-E0010) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc11-L_2007108PT.01000101-E0011) [JO L 120 de 11.5.1990, p. 1](http://publications.europa.eu/resource/oj/JOL_1990_120_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1641/2003 do Parlamento Europeu e do Conselho ([JO L 245 de 29.9.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_245_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc12-L_2007108PT.01000101-E0012) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018.02/DOC_1#ntc13-L_2007108PT.01000101-E0013) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão alterada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC))."
+  },
+  "182ce95ffde1f00d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Março de 2007\n\nque estabelece uma infra-estrutura de informação geográfica na Comunidade Europeia (Inspire)"
+  },
+  "b8d866c509c5a847": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara os efeitos da presente directiva, entende-se por:\n\n1. «Infra-estrutura de informação geográfica»: metadados, conjuntos e serviços de dados geográficos; serviços e tecnologias em rede; acordos em matéria de partilha, acesso e utilização, e mecanismos, processos e procedimentos de coordenação e acompanhamento estabelecidos, explorados ou disponibilizados nos termos da presente directiva;\n\n2. «Dados geográficos»: quaisquer dados com uma referência directa ou indirecta a uma localização ou zona geográfica específica;\n\n3. «Conjunto de dados geográficos»: uma colecção identificável de dados geográficos;\n\n4. «Serviços de dados geográficos»: as operações que podem ser efectuadas, utilizando uma aplicação informática, com os dados geográficos contidos em conjuntos de dados geográficos ou com os metadados correspondentes;\n\n5. «Objecto geográfico»: a representação abstracta de um fenómeno real relacionado com uma localização ou zona geográfica específica;\n\n6. «Metadados»: informações que descrevem conjuntos e serviços de dados geográficos e que permitem pesquisá-los, inventariá-los e utilizá-los;\n\n7. «Interoperabilidade»: a possibilidade de os conjuntos de dados geográficos serem combinados, e de os serviços interagirem, sem intervenção manual repetitiva, de tal forma que o resultado seja coerente e o valor acrescentado dos conjuntos e serviços de dados seja reforçado;\n\n8. «Geoportal Inspire»: um sítio internet, ou equivalente, que dá acesso aos serviços referidos no n.º 1 do artigo 11.º;\n\n9. «Autoridade pública»:\n\na) Um governo ou outros órgãos da administração pública nacional, regional ou local, incluindo órgãos consultivos;\n\nb) Qualquer pessoa singular ou colectiva que exerça funções administrativas públicas nos termos da lei nacional, incluindo deveres, actividades ou serviços específicos relacionados com o ambiente; e\n\nc) Qualquer pessoa singular ou colectiva que tenha responsabilidades ou exerça funções públicas, ou que preste serviços públicos relacionados com o ambiente, sob o controlo de um órgão ou de uma pessoa abrangida pelas alíneas a) ou b).\n\n10. «Terceiro»: qualquer pessoa singular ou colectiva que não seja uma autoridade pública."
+  },
+  "91284d01e8d15eb6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A presente directiva abrange os conjuntos de dados geográficos que satisfaçam as seguintes condições:\n\na) Estarem relacionados com uma zona sobre a qual um Estado-Membro tenha e/ou exerça jurisdição;\n\nb) Estarem disponíveis em formato electrónico;\n\nc) Serem mantidos por uma das seguintes entidades ou por conta da mesma:\n\ni) uma autoridade pública, tendo sido fornecidos ou recebidos por uma autoridade pública, ou sendo geridos ou actualizados por essa autoridade e abrangidos no âmbito das respectivas atribuições públicas;\n\nii) um terceiro ao qual a rede tenha sido disponibilizada nos termos do artigo 12.º\n\nd) Dizerem respeito a um ou mais dos temas enumerados nos anexos I, II ou III.\n\n2. Nos casos em que sejam conservadas por várias autoridades públicas, ou por conta das mesmas, múltiplas cópias idênticas dos mesmos conjuntos de dados geográficos, a presente directiva apenas se aplica à versão de referência da qual derivam as cópias.\n\n3. A presente directiva abrange igualmente os serviços de dados geográficos respeitantes aos dados contidos nos conjuntos de dados geográficos referidos no n.º 1.\n\n4. A presente directiva não exige a recolha de novos dados geográficos.\n\n5. No caso dos conjuntos de dados geográficos que satisfazem as condições estabelecidas na alínea c) do n.º 1, mas sobre os quais um terceiro detém direitos de propriedade intelectual, a autoridade pública só pode adoptar medidas ao abrigo da presente directiva com o consentimento desse terceiro.\n\n6. Em derrogação do n.º 1, a presente directiva apenas abrange os conjuntos de dados geográficos detidos pelas autoridades públicas que operam ao nível mais baixo da administração pública de um Estado-Membro ou por conta destas se o Estado-Membro possuir legislação ou regulamentação que exija a sua recolha e divulgação.\n\n7. A descrição das categorias temáticas de dados referidas nos anexos I, II e III pode ser adaptada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 22.º a fim de ter em conta a evolução das necessidades, em termos de dados geográficos, das políticas comunitárias com incidências ambientais."
+  },
+  "6295b4b4aa88d1e4": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os Estados-Membros devem acompanhar a aplicação e utilização das respectivas infra-estruturas de informação geográfica e devem facultar os resultados desse acompanhamento à Comissão e ao público de forma permanente.\n\n2. Até 31 de março de cada ano, os Estados-Membros atualizam, se for necessário, e publicam um relatório de síntese. Esses relatórios, que são tornados públicos pelos serviços da Comissão, assistidos pela Agência Europeia do Ambiente, descrevem sumariamente o seguinte:\n\na) A forma como são coordenados os produtores do sector público e utilizadores de conjuntos e serviços de dados geográficos e os organismos intermediários, bem como as relações com terceiros e a forma como a qualidade é assegurada;\n\nb) Contributos das autoridades públicas ou terceiros para o funcionamento e a coordenação da infra-estrutura de informação geográfica;\n\nc) Informações sobre a utilização da infra-estrutura de informação geográfica;\n\nd) Acordos de partilha de dados entre autoridades públicas;\n\ne) Custos e benefícios da aplicação da presente directiva.\n\n4. As disposições pormenorizadas para a execução do presente artigo devem ser aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 22.º"
+  },
+  "a8b2b684da29fa0c": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA Agência Europeia do Ambiente publica e atualiza anualmente a análise global à escala da União com base nos metadados e dados disponibilizados pelos Estados-Membros através dos seus serviços em rede, nos termos do artigo 21.º. A análise global à escala da União inclui, se for caso disso, indicadores de realizações, de resultados e de impactos da presente diretiva, mapas globais à escala da União e relatórios gerais por Estado-Membro.\n\nA Comissão efetua, até 1 de janeiro de 2022 e, posteriormente, pelo menos de cinco em cinco anos, uma avaliação da presente diretiva e da sua aplicação e torna-a pública. Essa avaliação baseia-se, nomeadamente, nos seguintes elementos:\n\na) A experiência adquirida com a aplicação da presente diretiva;\n\nb) As informações recolhidas pelos Estados-Membros nos termos do artigo 21.º e as análises globais à escala da União elaboradas pela Agência Europeia do Ambiente;\n\nc) Dados científicos e analíticos pertinentes;\n\nd) Outras informações, incluindo dados científicos e analíticos pertinentes exigidos com base nas orientações sobre a melhoria da regulamentação, nomeadamente com base em processos de gestão de informações eficazes e eficientes."
+  },
+  "b204ba0058a54d5b": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d6e38596baae0eea": {
+   "fragment_id": "CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA A) DO ARTIGO 9.º",
+   "type": "divisao",
+   "heading": "CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA A) DO ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA A) DO ARTIGO 9.º\n\n1. Sistemas de referencia\n\n2. Sistemas de quadrículas geográficas\n\n3. Toponímia\n\n4. Unidades administrativas\n\n5. Endereços\n\n6. Parcelas cadastrais\n\n7. Redes de transporte\n\n8. Hidrografia\n\n9. Sítios protegidos"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a917ff63a13a8721": {
+   "fragment_id": "CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA B) DO ARTIGO 9.º",
+   "type": "divisao",
+   "heading": "CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA B) DO ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E A ALÍNEA B) DO ARTIGO 9.º\n\n1. Altitude\n\n2. Ocupação do solo\n\n3. Ortoimagens\n\n4. Geologia"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "eab1cacbf21794f4": {
+   "fragment_id": "CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA B) DO ARTIGO 6.º E A ALÍNEA B) DO ARTIGO 9.º",
+   "type": "divisao",
+   "heading": "CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA B) DO ARTIGO 6.º E A ALÍNEA B) DO ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA B) DO ARTIGO 6.º E A ALÍNEA B) DO ARTIGO 9.º\n\n1. Unidades estatísticas\n\n2. Edifícios\n\n3. Solo\n\n4. Uso do solo\n\n5. Saúde humana e segurança\n\n6. Serviços de utilidade pública e do Estado\n\n7. Instalações de monitorização do ambiente\n\n8. Instalações industriais e de produção\n\n9. Instalações agrícolas e aquícolas\n\n10. Distribuição da população — demografia\n\n11. Zonas de gestão/restrição/regulamentação e unidades de reporte\n\n12. Zonas de risco natural\n\n13. Condições atmosféricas\n\n14. Características geometeorológicas\n\n15. Características oceanográficas\n\n16. Regiões marinhas\n\n17. Regiões biogeográficas\n\n18. Habitats e biótopos\n\n19. Distribuição das espécies\n\n20. Recursos energéticos\n\n21. Recursos minerais\n\n---"
+  },
+  "b7832c42891ebf64": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fd736d46-b769-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 228 de 9.9.1996, p. 1. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 (JO L 363 de 20.12.2006, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fd736d46-b769-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 327 de 22.12.2000, p. 1. Directiva com a última redacção que lhe foi dada pela Decisão n.º 2455/2001/CE (JO L 331 de 15.12.2001, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fd736d46-b769-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 257 de 10.10.1996, p. 26. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 166/2006 do Parlamento Europeu e do Conselho (JO L 33 de 4.2.2006, p. 1)."
+  },
+  "ac8bfdff55994256": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1.\n\nA presente directiva abrange os conjuntos de dados geográficos que satisfaçam as seguintes condições:\n\na) Estarem relacionados com uma zona sobre a qual um Estado-Membro tenha e/ou exerça jurisdição;\n\nb) Estarem disponíveis em formato electrónico;\n\nc) Serem mantidos por uma das seguintes entidades ou por conta da mesma:\n\ni) uma autoridade pública, tendo sido fornecidos ou recebidos por uma autoridade pública, ou sendo geridos ou actualizados por essa autoridade e abrangidos no âmbito das respectivas atribuições públicas;\n\nii) um terceiro ao qual a rede tenha sido disponibilizada nos termos do artigo 12.º\n\nd) Dizerem respeito a um ou mais dos temas enumerados nos anexos I, II ou III.\n\n2. Nos casos em que sejam conservadas por várias autoridades públicas, ou por conta das mesmas, múltiplas cópias idênticas dos mesmos conjuntos de dados geográficos, a presente directiva apenas se aplica à versão de referência da qual derivam as cópias.\n\n3. A presente directiva abrange igualmente os serviços de dados geográficos respeitantes aos dados contidos nos conjuntos de dados geográficos referidos no n.º 1.\n\n4. A presente directiva não exige a recolha de novos dados geográficos.\n\n5. No caso dos conjuntos de dados geográficos que satisfazem as condições estabelecidas na alínea c) do n.º 1, mas sobre os quais um terceiro detém direitos de propriedade intelectual, a autoridade pública só pode adoptar medidas ao abrigo da presente directiva com o consentimento desse terceiro.\n\n6. Em derrogação do n.º 1, a presente directiva apenas abrange os conjuntos de dados geográficos detidos pelas autoridades públicas que operam ao nível mais baixo da administração pública de um Estado-Membro ou por conta destas se o Estado-Membro possuir legislação ou regulamentação que exija a sua recolha e divulgação.\n\n7. A descrição das categorias temáticas de dados referidas nos anexos I, II e III pode ser adaptada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 22.º a fim de ter em conta a evolução das necessidades, em termos de dados geográficos, das políticas comunitárias com incidências ambientais."
+  },
+  "d064508aec722f9b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros devem assegurar que sejam criados metadados para os conjuntos e serviços de dados geográficos que correspondam às categorias temáticas enumeradas nos anexos I, II e III, e que esses metadados sejam mantidos actualizados.\n\n2.\n\nOs metadados devem incluir informações sobre:\n\na) A conformidade dos conjuntos de dados geográficos com as disposições de execução previstas no n.º 1 do artigo 7.º;\n\nb) As condições aplicáveis ao acesso e à utilização dos conjuntos e serviços de dados geográficos e, quando aplicável, as taxas correspondentes;\n\nc) A qualidade e validade dos conjuntos de dados geográficos;\n\nd) As autoridades públicas responsáveis pelo estabelecimento, gestão, manutenção e distribuição de conjuntos e serviços de dados geográficos;\n\ne) As restrições ao acesso do público e os motivos dessas restrições, nos termos do artigo 13.º\n\n3. Os Estados-Membros devem tomar as medidas necessárias para assegurar que os metadados sejam completos e de qualidade suficiente para cumprir o objectivo estabelecido no n.º 6 do artigo 3.º\n\n4. As disposições de execução do presente artigo devem ser aprovadas até 15 de Maio de 2008 pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 22.º Essas disposições devem ter em conta as normas internacionais aplicáveis e os requisitos dos utilizadores, em particular no que se refere aos metadados de validação."
+  },
+  "69cb3efd5411a47f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. No caso de conjuntos de dados geográficos que correspondam a uma ou mais das categorias temáticas enumeradas no anexo I ou II, as disposições de execução previstas no n.º 1 do artigo 7.º devem satisfazer as condições estabelecidas nos n.^os^ 2, 3 e 4 do presente artigo.\n\n2.\n\nAs disposições de execução dizem respeito aos seguintes aspectos dos dados geográficos:\n\na) Um quadro comum de identificação única dos objectos geográficos que permita estabelecer uma correspondência com os identificadores existentes nos sistemas nacionais, a fim de assegurar a respectiva interoperabilidade;\n\nb) Relação entre objectos geográficos;\n\nc) Principais atributos e correspondentes glossários multilingues habitualmente exigidos para as políticas susceptíveis de ter impacto ambiental;\n\nd) Informações sobre a dimensão temporal dos dados;\n\ne) Actualizações dos dados.\n\n3. As disposições de execução são concebidas de forma a assegurar a coerência entre as informações relativas a um mesmo local ou entre as informações que digam respeito ao mesmo objecto representado em diferentes escalas.\n\n4. As disposições de execução são concebidas de forma a assegurar que as informações derivadas de diferentes conjuntos de dados geográficos sejam comparáveis no que respeita aos aspectos referidos no n.º 4 do artigo 7.º e no n.º 2 do presente artigo."
+  },
+  "652936a159c121d1": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1.\n\nOs Estados-Membros devem estabelecer e explorar uma rede dos serviços, a seguir enumerados, para os conjuntos e serviços de dados geográficos em relação aos quais tenham sido criados metadados nos termos da presente directiva:\n\na) Serviços de pesquisa que permitam procurar conjuntos e serviços de dados geográficos com base no conteúdo dos correspondentes metadados e visualizar o conteúdo dos metadados;\n\nb) Serviços de visualização que permitam, no mínimo, visualizar, navegar, aumentar e reduzir a escala de visualização, deslocar ou sobrepor conjuntos visualizáveis de dados geográficos e visualizar informação contida em legendas e qualquer conteúdo relevante dos metadados;\n\nc) Serviços de descarregamento que permitam descarregar e, se exequível, aceder directamente a cópias integrais ou parciais de conjuntos de dados geográficos;\n\nd) Serviços de transformação que permitam transformar conjuntos de dados geográficos tendo em vista garantir a interoperabilidade;\n\ne) Serviços que permitam chamar serviços de dados geográficos.\n\nEsses serviços devem ter em conta os requisitos dos utilizadores pertinentes, ser fáceis de utilizar, estar à disposição do público e ser acessíveis via internet ou por qualquer outro meio de telecomunicação adequado.\n\n2.\n\nPara os efeitos dos serviços referidos na alínea a) do n.º 1, deve ser aplicada, pelo menos, a seguinte combinação de critérios de pesquisa:\n\na) Palavras-chave;\n\nb) Classificação dos dados e serviços geográficos;\n\nc) Qualidade e validade dos conjuntos de dados geográficos;\n\nd) Grau de conformidade com as disposições de execução previstas no n.º 1 do artigo 7.º;\n\ne) Localização geográfica;\n\nf) Condições de acesso e utilização aplicáveis aos conjuntos e serviços de dados geográficos;\n\ng) Autoridades públicas responsáveis pelo estabelecimento, gestão, manutenção e distribuição de conjuntos e serviços de dados geográficos.\n\n3. Os serviços de transformação referidos na alínea d) do n.º 1 devem ser combinados com os outros serviços referidos nesse número de forma a permitir que todos esses serviços funcionem nos termos das disposições de execução previstas no artigo 7.º"
+  },
+  "a580b923311d450c": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1.\n\nEm derrogação do n.º 1 do artigo 11.º, os Estados-Membros podem restringir o acesso do público aos conjuntos e serviços de dados geográficos através dos serviços referidos na alínea a) do n.º 1 do artigo 11.º caso tal acesso possa afectar negativamente as relações internacionais, a segurança pública ou a defesa nacional.\n\nEm derrogação do n.º 1 do artigo 11.º, os Estados-Membros podem restringir o acesso do público aos conjuntos e serviços de dados geográficos através dos serviços referidos nas alíneas b) a e) do n.º 1 do artigo 11.º, ou aos serviços de comércio electrónico referidos no n.º 3 do artigo 14.º, caso tal acesso possa afectar negativamente algum dos seguintes aspectos:\n\na) A confidencialidade dos procedimentos das autoridades públicas, nos casos em que tal confidencialidade esteja prevista na lei;\n\nb) As relações internacionais, a segurança pública ou a defesa nacional;\n\nc) O funcionamento da justiça, o direito de qualquer pessoa a um julgamento equitativo ou a possibilidade de as autoridades públicas realizarem inquéritos de natureza criminal ou disciplinar;\n\nd) A confidencialidade das informações comerciais ou industriais, no caso de tal confidencialidade estar prevista no direito nacional ou comunitário para proteger um interesse económico legítimo, incluindo o interesse público em manter a confidencialidade estatística e o segredo fiscal;\n\ne) Os direitos de propriedade intelectual;\n\nf) A confidencialidade de dados pessoais e/ou ficheiros relativos a uma pessoa singular, quando a pessoa em causa não tiver consentido na divulgação da informação ao público, caso tal confidencialidade esteja prevista no direito nacional ou comunitário;\n\ng) Os interesses ou a protecção de qualquer pessoa que tenha prestado voluntariamente a informação solicitada sem estar sujeita à obrigação legal de a prestar nem poder ser sujeita a tal obrigação, a não ser que essa pessoa tenha consentido em divulgar a informação em causa;\n\nh) A protecção do ambiente a que essa informação diz respeito, por exemplo a localização de espécies raras.\n\n2. As razões para limitar o acesso, previstas no n.º 1, devem ser interpretadas de forma restritiva, tendo em conta, em cada caso, o interesse público defendido pela concessão do acesso. Em cada caso concreto, o interesse público defendido pela divulgação dos dados deve ser ponderado relativamente ao interesse defendido pela restrição ou pelo condicionamento do acesso. Os Estados-Membros não podem, ao abrigo das alíneas a), d), f), g) e h) do n.º 1, restringir o acesso à informação sobre emissões para o ambiente.\n\n3. Neste âmbito, e para efeitos da aplicação da alínea f) do n.º 1, os Estados-Membros devem assegurar o cumprimento dos requisitos da Directiva 95/46/CE."
+  },
+  "609078c4b52e120e": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os Estados-Membros devem acompanhar a aplicação e utilização das respectivas infra-estruturas de informação geográfica e devem facultar os resultados desse acompanhamento à Comissão e ao público de forma permanente.\n\n2.\n\n[**►M2**](http://publications.europa.eu/resource/celex/32024D2829) De dois em dois anos, a partir de 31 de março de 2025, os Estados-Membros atualizam, até 31 de março, se for necessário, um relatório de síntese. Esses relatórios, que são tornados públicos pelos serviços da Comissão, descrevem sumariamente o seguinte:**◄**\n\na) A forma como são coordenados os produtores do sector público e utilizadores de conjuntos e serviços de dados geográficos e os organismos intermediários, bem como as relações com terceiros e a forma como a qualidade é assegurada;\n\nb) Contributos das autoridades públicas ou terceiros para o funcionamento e a coordenação da infra-estrutura de informação geográfica;\n\nc) Informações sobre a utilização da infra-estrutura de informação geográfica;\n\nd) Acordos de partilha de dados entre autoridades públicas;\n\ne) Custos e benefícios da aplicação da presente directiva.\n\n4. As disposições pormenorizadas para a execução do presente artigo devem ser aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 22.º"
+  },
+  "212b187d693dcddd": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A Comissão é assistida por um comité.\n\n2.\n\nSempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "6f80192e813635f3": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1.\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 15 de Maio de 2009.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "d2e6a81147ab361e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4c15da8c-a680-11ef-85f0-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 228 de 9.9.1996, p. 1. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 (JO L 363 de 20.12.2006, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4c15da8c-a680-11ef-85f0-01aa75ed71a1.0020.02/DOC_1#src.E0002)) JO L 327 de 22.12.2000, p. 1. Directiva com a última redacção que lhe foi dada pela Decisão n.º 2455/2001/CE (JO L 331 de 15.12.2001, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4c15da8c-a680-11ef-85f0-01aa75ed71a1.0020.02/DOC_1#src.E0003)) JO L 257 de 10.10.1996, p. 26. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 166/2006 do Parlamento Europeu e do Conselho (JO L 33 de 4.2.2006, p. 1)."
+  }
+ }
+}

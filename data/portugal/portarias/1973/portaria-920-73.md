@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:408087:por
+title: Portaria n.º 920/73
+short_title: null
+summary: Inclui uma nova alínea no artigo 75.º do Plano de Uniformes para Oficiais, Aspirantes a Oficial e Cadetes da Armada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: 920/73
+official_date: null
+publication_date: '1973-12-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1973, Série I de 1973-12-28
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2502 - 2502
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30000/25022502.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408087'
+  dre_path: /dr/detalhe/portaria/920-1973-408087
+  internal: pt:dre:408087:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/920-1973-408087
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/920-1973-408087
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: efad4e181c3dc01b18373cd2a61545fd15b285dfea0f59a4e043dd5d41674adc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:18:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:18:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 920/73
+
+de 28 de Dezembro
+
+Ao abrigo do disposto no artigo 6.º do [Decreto n.º 42862](https://diariodarepublica.pt/dr/detalhe/decreto/42862-1960-282138), de 25 de Fevereiro de 1960, que aprovou e mandou pôr em execução o Plano de Uniformes para Oficiais, Aspirantes a Oficial e Cadetes da Armada, alterado pelo [Decreto n.º 44441](https://diariodarepublica.pt/dr/detalhe/decreto/44441-1962-164617), de 2 de Julho de 1962:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que no artigo 75.º do referido Plano seja incluída uma nova alínea com a redacção seguinte:
+
+5) Os vice-almirantes que exerçam, ou tenham exercido, as funções de chefe do Estado-Maior-General das Forças Armadas ou de presidente do Supremo Tribunal Militar usam estrelas de ouro fosco em vez de estrelas de prata fosca, nas condições a que se refere este artigo.
+
+Ministério da Marinha, 17 de Dezembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.

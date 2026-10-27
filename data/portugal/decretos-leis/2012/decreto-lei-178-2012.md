@@ -1,0 +1,617 @@
+---
+schema_version: '1.0'
+id: pt:dre:179028:por
+title: Decreto-Lei n.º 178/2012
+short_title: null
+summary: Institui o SIREVE - Sistema de Recuperação de Empresas por Via Extrajudicial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 178/2012
+official_date: null
+publication_date: '2012-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/2012, Série I de 2012-08-03
+  number: '150'
+  series: I
+  supplement: null
+  pages: 4082 - 4086
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15000/0408204086.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes:
+- Os procedimentos de Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), regulados pelo presente diploma,
+  que estejam em curso sem que tenha sido celebrado acordo, podem ser concluídos ao abrigo do regime em que foram desencadeados,
+  nos termos e prazos estipulados no referido diploma.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-03-03'
+version_history:
+  file: decreto-lei-178-2012.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-03-02'
+    amending: pt:dre:66443115:por
+    amending_title: Decreto-Lei n.º 26/2015
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 21.º-A
+    - Adita Artigo 21.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 7.º
+  - date: '2018-03-03'
+    amending: pt:dre:114796179:por
+    amending_title: Lei n.º 8/2018
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/178/2012/p/cons/20180302/pt/html
+  oj: null
+  dre: '179028'
+  dre_path: /dr/detalhe/decreto-lei/178-2012-179028
+  internal: pt:dre:179028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2012-179028
+  metadata_url: https://data.dre.pt/eli/dec-lei/178/2012/p/cons/20180302/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-67175429
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-67175429
+  retrieved_at: '2026-10-22T11:59:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: aeed58cc8d60a18ddfc5a56d121c1e980fe8a2b1de8e3bdbcc00a5bdab830ac6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:59:13Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-178-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ACTO Extrajudicial
+- Insolvência
+- Falência
+- Empresa
+- Dados Estatísticos
+- Código da Insolvência e da Recuperação de Empresas
+- Recuperação de Empresas
+- IAPMEI
+- Situação Económica Dificil
+- Viabilidade Económica
+relationships:
+- type: amended_by
+  target: pt:dre:66443115:por
+  label: Adita Artigo 2.º-A; Adita Artigo 21.º-A; Adita Artigo 21.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    3.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º;
+    Altera Artigo 21.º; Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:114796179:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179
+  date: '2018-03-02'
+- type: cites
+  target: pt:dre:146924:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/43/2011/10/25/p/dre
+- type: cites
+  target: pt:dre:239981:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/1998/10/20/p/dre
+- type: cites
+  target: pt:dre:480707:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:543685:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/11/2012/02/03/p/dre
+article_structure:
+  article_count: 27
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:59:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 178/2012
+
+Decreto-Lei n.º 178/2012
+
+de 3 de agosto
+
+No âmbito do Programa de Assistência Económica e Financeira a Portugal, acordado com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu, encontra-se previsto um conjunto de medidas que têm como objetivo a promoção dos mecanismos de recuperação extrajudicial de devedores, ou seja, de procedimentos alternativos ao processo de insolvência, que visam a recuperação da empresa pela via não judicial, promovendo a obtenção de uma solução consensual entre a empresa em dificuldades financeiras e os respetivos credores.
+
+Entre estas medidas, encontra-se a aprovação dos Princípios Orientadores da Recuperação Extrajudicial de Devedores, publicados em anexo à Resolução do Conselho de Ministros n.º 43/2011, de 25 de outubro, e que constituem um instrumento de adesão voluntária destinado a promover a eficácia dos procedimentos extrajudiciais de recuperação de devedores.
+
+Outra das medidas previstas consiste na revisão do procedimento de conciliação extrajudicial que funciona junto do Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P. (IAPMEI, I. P.), através da introdução de alterações que contribuam para dotar este procedimento de mecanismos mais céleres, eficientes e eficazes, e que possibilitem um melhor funcionamento do procedimento, com vista a alcançar taxas de recuperação de empresas significativamente mais elevadas.
+
+A revisão levada a cabo pelo presente diploma, que cria o Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), introduz vantagens significativas para o desenvolvimento do mecanismo já existente, reforçando o seu papel enquanto instrumento fundamental numa estratégia de recuperação e viabilização das empresas em situação económica difícil. Desde logo, o SIREVE constitui um processo de revitalização acompanhado pelo IAPMEI e não pelos tribunais.
+
+Com efeito, o SIREVE, que se enquadra no âmbito do Programa Revitalizar, aprovado pela Resolução do Conselho de Ministros n.º 11/2012, de 3 de fevereiro, permite que, ao invés de recorrerem aos processos judiciais previstos no âmbito do Código da Insolvência e da Recuperação de Empresas (CIRE), as empresas que se encontrem numa situação financeira difícil ou numa situação de insolvência iminente ou atual e os respetivos credores, que representem no mínimo 50 % do total das suas dívidas, possam optar por celebrar um acordo extrajudicial visando a recuperação e viabilização da empresa, o devedor, e que lhe permita continuar a sua atividade económica. Durante todo o procedimento do SIREVE, a empresa e os credores beneficiam de um acompanhamento por parte do IAPMEI, I. P., organismo especialmente vocacionado para o apoio à revitalização empresarial. Tal acompanhamento manifesta-se, designadamente, na emissão de um juízo técnico acerca da viabilidade da empresa e sobre a proposta de acordo extrajudicial e no envolvimento durante as negociações e elaboração do referido acordo, do qual também é subscritor. Este acordo extrajudicial constitui indubitavelmente uma vantagem muito significativa no atual difícil contexto económico-financeiro em que o tecido empresarial português se desenvolve.
+
+Entre as principais alterações introduzidas pelo SIREVE, destaca-se a redução significativa - de nove para quatro meses - do prazo para a conclusão do processo negocial, a introdução de mecanismos de proteção da empresa e dos credores durante o processo negocial e a desmaterialização e simplificação do processo, com base na utilização de uma plataforma eletrónica. Por outro lado, garante-se a necessária articulação do SIREVE com os processos judiciais em curso, nos quais produz efeitos designadamente através da extinção, em regra, das ações executivas para pagamento de quantia certa e de quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, intentadas contra a empresa, sempre que seja celebrado acordo extrajudicial. O SIREVE constitui, desta forma, uma verdadeira alternativa à via judicial, sendo mais flexível e eficiente e permitindo reestruturações a todos os níveis mais vantajosas para todos os envolvidos.
+
+Foram ouvidos a União Geral de Trabalhadores (UGT), a Confederação Empresarial de Portugal (CIP), a Confederação de Comércio e Serviços de Portugal (CCP), a Confederação do Turismo Português (CTP), o Conselho Superior da Magistratura, o Conselho Superior do Ministério Público, a Ordem dos Advogados, a Associação Portuguesa dos Administradores Judiciais, a Associação Sindical dos Juízes Portugueses, e o Sindicato dos Magistrados do Ministério Público. Foi ainda promovida a audição da Confederação dos Agricultores de Portugal (CAP) e da Câmara dos Solicitadores.
+
+Assim:
+
+Nos termos do disposto na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179) O Decreto-Lei n.º 178/2012, de 3 de agosto é revogado, sem prejuízo do disposto no n.º 3 do artigo 35.º da mesma Lei. Os procedimentos de Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), regulados pelo Decreto-Lei n.º 178/2012, de 3 de agosto, alterado pelo Decreto-Lei n.º 26/2015, de 6 de fevereiro, que estejam em curso sem que tenha sido celebrado acordo, podem ser concluídos ao abrigo do regime em que foram desencadeados, nos termos e prazos estipulados no referido diploma.
+
+###### Artigo 1.º — Objeto
+
+O presente diploma cria o Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), que constitui um procedimento que visa promover a recuperação extrajudicial de empresas, através da celebração de um acordo entre a empresa e todos ou alguns dos seus credores, que viabilize a sua recuperação e assegure a sua sustentabilidade.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 2.º — Âmbito de aplicação e legitimidade
+
+1 - O SIREVE destina-se a empresas que se encontrem em situação económica difícil ou numa situação de insolvência iminente, nos termos do Código da Insolvência e da Recuperação de Empresas (CIRE), que obtenham uma avaliação global positiva dos seguintes indicadores relativos aos três últimos exercícios completos à data de apresentação do requerimento:
+
+a) Indicador 1: autonomia financeira, medida pela relação entre o valor dos capitais próprios e o valor do ativo líquido total;
+
+b) Indicador 2: relação entre os resultados antes de depreciações, gastos de financiamento e impostos, e o valor dos juros e gastos similares;
+
+c) Indicador 3: relação entre a dívida financeira e os resultados antes de depreciações, gastos de financiamento e impostos.
+
+2 - Considera-se que cada indicador obtém avaliação positiva relativamente a um determinado exercício quando se verifiquem as seguintes condições:
+
+a) Indicador 1: autonomia financeira superior a 5 %;
+
+b) Indicador 2: resultados antes de depreciações, gastos de financiamento e impostos/juros e gastos similares superior a 1,3;
+
+c) Indicador 3: dívida financeira/resultados antes de depreciações, gastos de financiamento e impostos igual ou superior a 0, e inferior a 10.
+
+3 - Considera-se que a empresa obtém uma avaliação global positiva dos indicadores referidos no n.º 1 quando se verifiquem as seguintes condições cumulativas:
+
+a) Cada indicador deve obter, em pelo menos um dos exercícios considerados, avaliação positiva;
+
+b) No total das combinações possíveis devem ser observadas, pelo menos, 50 % de avaliações positivas.
+
+4 - O prazo referido no n.º 1 é reduzido para os dois últimos exercícios completos relativamente às empresas que, à data da apresentação do requerimento, apenas tenham dois exercícios completos.
+
+5 - Para efeitos do presente diploma, a noção de empresa abrange somente as sociedades comerciais e os empresários em nome individual que possuam contabilidade organizada.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 2.º-A — Diagnóstico da situação económica e financeira da empresa
+
+1 - A empresa interessada em obter a sua recuperação através do SIREVE, deve submeter-se a prévio diagnóstico da respetiva situação económica e financeira, através da plataforma informática para o efeito disponibilizada no sítio na Internet do IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.).
+
+2 - A plataforma referida no número anterior gera automaticamente informação sobre a situação económica e financeira da empresa, com base nos dados disponibilizados pela mesma.
+
+3 - A plataforma referida nos números anteriores pode também ser utilizada, de forma gratuita, por qualquer empresa que pretenda proceder ao diagnóstico da respetiva situação económica e financeira, não implicando tal utilização, ou o resultado da mesma, a obrigatoriedade da subsequente sujeição ao SIREVE ou a qualquer outro processo de recuperação de empresas.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 3.º — Apresentação do requerimento de utilização do SIREVE
+
+1 - A empresa interessada em obter a sua recuperação através do SIREVE dirige, por meios eletrónicos, um requerimento nesse sentido ao IAPMEI, I. P..
+
+2 - O requerimento previsto no número anterior deve ser preenchido de acordo com o modelo disponibilizado no sítio na Internet do IAPMEI, I. P., e conter, designadamente, os seguintes elementos:
+
+a) Os fundamentos do recurso ao SIREVE;
+
+b) A identificação das partes a participar no SIREVE;
+
+c) A identificação do credor ou dos credores com os quais a empresa pretende negociar que representem, pelo menos, um terço do total das dívidas da empresa, conforme resulte dos documentos de prestação de contas a juntar com o requerimento;
+
+d) O conteúdo do acordo que se pretende obter;
+
+e) O plano de negócios.
+
+e) O plano de negócios, que explicite e fundamente os respetivos pressupostos;
+
+f) Cópia da Informação Empresarial Simplificada (IES) referente aos três últimos exercícios económicos, ou aos últimos dois exercícios económicos no caso das entidades previstas no n.º 4 do artigo 2.º;
+
+g) Lista completa e detalhada de créditos financeiros;
+
+h) Cópia do balancete analítico com antiguidade não superior a três meses à data de apresentação do requerimento, validado pelo respetivo Técnico Oficial de Contas ou, caso exista, Revisor Oficial de Contas;
+
+i) Relação de todas as ações declarativas e ou executivas instauradas contra a empresa e ou seus garantes, conforme definidos no n.º 7 do presente artigo.
+
+3 - O requerimento é acompanhado de cópia, em suporte digital, de todos os elementos e documentos referidos no número anterior, bem como do comprovativo do pagamento da taxa devida pela utilização do SIREVE.
+
+4 - O plano de negócios previsto na alínea e) do n.º 2 deve identificar as medidas e os meios necessários à reposição das condições de sustentabilidade económica da atividade da empresa, bem como a capacidade desta em assegurar o cumprimento do acordo de reestruturação e o pagamento das dívidas aos credores evidenciada através dos documentos contabilísticos previsionais, nomeadamente balanço, demonstração de resultados e mapa de fluxos de caixa relativos a um período mínimo de cinco anos.
+
+5 - Para efeitos do disposto na alínea f) do n.º 2, apenas é exigível a entrega de cópia da IES cujo prazo legal de submissão já tenha terminado, devendo ainda ser remetidas ao IAPMEI, I. P., cópias das IES cujo prazo legal de submissão termine durante o processo de SIREVE, após essa data.
+
+6 - O requerente pode ser dispensado de apresentar documentos que a Administração Pública já possua, nos termos e para os efeitos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.
+
+7 - Para efeitos do presente diploma, consideram-se garantes da empresa quaisquer pessoas singulares ou coletivas que tenham prestado garantias pessoais ou reais, destinadas a assegurar o cumprimento das obrigações da empresa.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 4.º — Taxa devida pela utilização do SIREVE
+
+1 - Pela utilização do SIREVE é devido o pagamento de uma taxa, destinada a suportar os encargos relativos ao funcionamento do procedimento, a qual constitui receita do IAPMEI, I. P.
+
+2 - O valor da taxa é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+###### Artigo 5.º — Suspensão de prazo do CIRE
+
+1 - A apresentação do requerimento de utilização do SIREVE suspende o prazo fixado no n.º 1 do artigo 18.º do CIRE para apresentação à insolvência.
+
+2 - A suspensão prevista no número anterior cessa com o decurso do prazo de cinco dias após ter sido proferido o despacho de recusa do requerimento previsto na alínea a) do n.º 1 do artigo seguinte ou o despacho de extinção referido no n.º 2 do artigo 16.º
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 6.º — Apreciação do requerimento de utilização do SIREVE
+
+1 - No prazo de 15 dias, a contar da data de apresentação do requerimento de utilização do SIREVE, o IAPMEI, I. P., profere despacho:
+
+a) De recusa do requerimento quando:
+
+i) Não se encontrem verificados os requisitos do artigo 2.º;
+
+ii) [Revogada];
+
+iii) A utilização do SIREVE não seja eficaz para a obtenção do acordo;
+
+iv) O requerimento tenha sido instruído sem ser possível o seu aperfeiçoamento;
+
+v) Nas situações previstas no n.º 1 do artigo 18.º;
+
+b) De convite ao aperfeiçoamento do requerimento, verificando-se a falta de algum dos elementos previstos nos n.os 2 e 3 do artigo 3.º ou de fundamento adequado quanto às condições de viabilidade da empresa;
+
+c) De aceitação do requerimento, nos restantes casos.
+
+2 - A recusa prevista na alínea a) do número anterior é sempre fundamentada.
+
+3 - O despacho de convite ao aperfeiçoamento do requerimento de utilização do SIREVE contém a indicação das informações ou dos documentos em falta e menciona a necessidade de a empresa, sob pena de recusa do requerimento, proceder à sua junção no prazo de 10 dias.
+
+4 - No prazo de 12 dias a contar da junção dos elementos a que alude o número anterior, o IAPMEI profere despacho de recusa ou de aceitação.
+
+5 - Caso o requerimento de utilização do SIREVE seja aceite, o IAPMEI, I. P., promove, após proferir o respetivo despacho de aceitação, as diligências e os contactos necessários entre a empresa e os credores identificados pela empresa no requerimento, com vista à concretização de acordo que viabilize a recuperação da empresa, competindo-lhe orientar as reuniões que convocar.
+
+6 - As diligências referidas no número anterior incluem o envio aos credores da proposta de acordo e de plano de negócios apresentados pela empresa, podendo consubstanciar também, nomeadamente, a sugestão de propostas e de modelos negociais.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 7.º — Juízo técnico do IAPMEI
+
+Proferido despacho de aceitação do requerimento de utilização do SIREVE, o IAPMEI, I. P., procede à análise da viabilidade da empresa e da adequação do acordo pretendido à sua viabilização emitindo o respetivo parecer técnico no prazo de 30 dias.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 8.º — Papel do IAPMEI nas negociações
+
+1 - Sem prejuízo dos contactos diretos entre os interessados, o IAPMEI, I. P., acompanha as negociações, podendo promover a participação de outras entidades no SIREVE para além das indicadas pela empresa, designadamente, os credores que tenham instaurado contra a empresa ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, bem como as entidades com competências legais, conhecimento ou experiência setorialmente relevantes.
+
+2 - O IAPMEI, I. P., pode, a todo o tempo:
+
+a) Solicitar à empresa ou aos interessados a prestação de esclarecimentos ou de informações que considere indispensáveis, os quais devem ser prestados no prazo de 10 dias;
+
+b) Sugerir, fundamentadamente, à empresa a modificação do plano de negócios e dos termos do acordo inicialmente pretendido.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 9.º — Participação da Fazenda Pública e da Segurança Social
+
+1 - Sempre que relacionados no requerimento de utilização do SIREVE, é obrigatória a participação no SIREVE da Fazenda Pública e da Segurança Social, sem prejuízo destas entidades poderem fundamentadamente manifestar a sua indisponibilidade para a celebração de acordo.
+
+2 - [Revogado].
+
+3 - A Fazenda Pública e a Segurança Social indicam, individualmente, as condições de regularização dos respetivos créditos.
+
+4 - A dívida englobada no plano de pagamentos compreende a dívida relativa à Fazenda Pública e à Segurança Social, apurada e existente até à data de aceitação do requerimento de utilização do SIREVE, incluindo, nomeadamente, a quantia exequenda, os juros e as coimas.
+
+5 - O plano de pagamentos tem como limite máximo o legalmente previsto.
+
+6 - Na falta de pagamento pontual de novas dívidas à Fazenda Pública ou à Segurança Social, que se vençam após aceitação do requerimento de utilização do SIREVE, aquelas entidades podem fazer cessar a sua participação neste procedimento.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 10.º — Participação de outros credores
+
+Até ao termo do prazo previsto no n.º 9 do artigo seguinte, qualquer credor cuja participação não tenha sido solicitada pela empresa nem promovida pelo IAPMEI, I. P., pode requerer a sua participação no SIREVE.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 11.º — Fase de negociações
+
+1 - Durante as negociações, os participantes devem atuar de acordo com os princípios orientadores publicados em anexo à Resolução do Conselho de Ministros n.º 43/2011, de 25 de outubro.
+
+2 - O despacho de aceitação do requerimento de utilização do SIREVE obsta à instauração contra a empresa, ou respetivos garantes relativamente às operações garantidas, de quaisquer ações executivas para pagamento de quantia certa ou outras ações destinadas a exigir o cumprimento de obrigações pecuniárias enquanto o procedimento não for extinto, e suspende, automaticamente e por igual período, as ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, instauradas contra a empresa, ou respetivos garantes relativamente às operações garantidas, que se encontrem pendentes à data da respetiva prolação.
+
+3 - Os efeitos previstos no número anterior cessam relativamente às ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, instauradas ou a instaurar contra a empresa:
+
+a) Pela Fazenda Pública ou pela Segurança Social, a partir da data em que, fundamentadamente, cada um destes credores manifestar a sua indisponibilidade para celebrar acordo com a empresa, nos termos do n.º 1 do artigo 9.º;
+
+b) Pelos restantes credores não incluídos na alínea anterior, a partir da data em que comuniquem ao IAPMEI, I. P., que não pretendem participar no SIREVE.
+
+4 - Para os efeitos previstos nos números anteriores, o IAPMEI, I. P., comunica ao tribunal respetivo, preferencialmente por meios eletrónicos, o teor do despacho de aceitação do requerimento de utilização do SIREVE, bem como, se for caso disso, a extinção do procedimento, a indisponibilidade da Fazenda Pública e da Segurança Social para celebrar acordo com a empresa e os credores que não pretendem participar no procedimento.
+
+5 - Até à extinção do procedimento e salvo tratando-se de atividade constante no seu objeto, a empresa fica impedida de ceder, locar, alienar ou por qualquer modo onerar, no todo ou em parte, os bens que integram o seu património, sob pena de impugnação e invalidade, por parte dos credores prejudicados, dos atos que diminuam, frustrem, dificultem, ponham em perigo ou retardem a satisfação dos seus direitos.
+
+6 - As garantias convencionadas entre o devedor e os seus credores durante o processo, com a finalidade de proporcionar àquele os necessários meios financeiros para o desenvolvimento da sua atividade, mantêm-se mesmo que, findo o processo, venha a ser declarada, no prazo de dois anos, a insolvência do devedor, ou venha a ser por este iniciado um novo processo de reestruturação.
+
+7 - Sem prejuízo do disposto no n.º 5, os negócios jurídicos celebrados no âmbito do SIREVE, cuja finalidade seja prover a empresa de meios de financiamento suficientes para viabilizar a sua recuperação, são insuscetíveis de resolução por aplicação das regras previstas no n.º 6 do artigo 120.º do CIRE.
+
+8 - Os credores que, no decurso do processo, financiem a atividade do devedor disponibilizando-lhe capital para a sua revitalização, gozam, em caso de insolvência, de um privilégio creditório mobiliário geral, graduado antes do privilégio creditório mobiliário geral concedido aos trabalhadores.
+
+9 - Os participantes no procedimento devem comunicar ao IAPMEI, I. P., a sua posição relativamente à proposta de acordo apresentada pela empresa, no prazo de 60 dias após a notificação do despacho de aceitação do requerimento de utilização do SIREVE.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 12.º — Celebração do acordo
+
+1 - O acordo obtido no SIREVE é obrigatoriamente reduzido a escrito e assinado pela empresa, pelo IAPMEI, I. P., e pelos credores que votem a sua aprovação.
+
+2 - Considera-se aprovado o plano de recuperação que:
+
+a) Sendo votado por credores cujos créditos representem, pelo menos, um terço do total das dívidas apuradas da empresa, recolha o voto favorável de mais de dois terços da totalidade dos votos emitidos e mais de metade dos votos emitidos corresponda a créditos não subordinados, nos termos do Código da Insolvência e da Recuperação de Empresas, não se considerando as abstenções; ou
+
+b) Recolha o voto favorável de credores cujos créditos representem mais de metade da totalidade das dívidas apuradas da empresa, e mais de metade destes votos corresponda a créditos não subordinados, nos termos do CIRE, não se considerando as abstenções.
+
+3 - Cada credor pode assinar apenas uma cópia do acordo referido no número anterior, que fica arquivada junto do processo, não sendo necessário que um mesmo documento reúna as assinaturas de todos os credores, desde que o conteúdo de cada exemplar seja absolutamente coincidente com o dos restantes.
+
+4 - Sempre que seja necessário conferir eficácia a quaisquer atos ou negócios jurídicos previstos no acordo, este deve obedecer à forma legalmente prevista para os referidos atos ou negócios jurídicos.
+
+5 - Existindo ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, instauradas contra a empresa, o acordo estabelece o regime de repartição dos encargos e das custas com os processos, sendo que, na falta de estipulação, os mesmos são suportados, em partes iguais, pelo credor e pela empresa.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 13.º — Efeitos do acordo
+
+1 - Celebrado o acordo nos termos do artigo anterior, e salvo quando o mesmo preveja a manutenção da respetiva suspensão, extinguem-se automaticamente as ações executivas para pagamento de quantia certa instauradas contra a empresa e ou os seus respetivos garantes relativamente às operações garantidas, e, salvo transação, mantêm-se suspensas, por prejudicialidade, as ações destinadas a exigir o cumprimento de ações pecuniárias instauradas contra a empresa e ou os seus respetivos garantes relativamente às operações garantidas.
+
+2 - O disposto no número anterior não se aplica às ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, instauradas por credores que não tenham subscrito o acordo.
+
+3 - Para os efeitos previstos nos números anteriores, o IAPMEI, I. P., comunica ao tribunal respetivo, preferencialmente por meios eletrónicos, a celebração do acordo, bem como os termos nele previstos relativamente às ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, instauradas contra a empresa ou respetivos garantes.
+
+4 - As medidas decorrentes da celebração de acordo no âmbito do SIREVE beneficiam da aplicação dos benefícios emolumentares e fiscais, previstos nos artigos 268.º, 269.º e 270.º do CIRE, nos termos do n.º 2 do artigo 16.º do mesmo diploma.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 14.º — Resolução do acordo
+
+1 - Verificando-se o incumprimento definitivo pela empresa das obrigações assumidas no acordo ou, se a empresa, no prazo de 30 dias a contar da data da notificação para o efeito, não cumprir aquelas obrigações nos termos assumidos no acordo, os credores subscritores podem, individualmente, resolver o acordo.
+
+2 - Se surgirem novas dívidas à Fazenda Pública ou à Segurança Social, o acordo cessa relativamente a estas entidades caso a regularização das mesmas não se verifique no prazo de 90 dias a contar da respetiva data de vencimento.
+
+3 - A decisão de resolução ou de cessação do acordo tomada pelos credores é de imediato comunicada por escrito ao IAPMEI, I. P., o qual dá conhecimento da mesma, por meios eletrónicos, aos demais subscritores e comunica ao tribunal onde estejam pendentes as ações executivas para pagamento de quantia certa ou quaisquer outras ações destinadas a exigir o cumprimento de obrigações pecuniárias, instauradas contra a empresa ou respetivos garantes relativamente às obrigações garantidas, sendo aplicável o disposto no Código de Processo Civil quanto ao prosseguimento ou renovação da instância, com as devidas adaptações.
+
+4 - O tribunal respetivo pode determinar, consoante os casos, a renovação da instância ou a imediata prossecução dos autos, nos termos gerais.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 15.º — Prazo de conclusão do procedimento
+
+1 - O prazo de conclusão do procedimento não deve exceder três meses, a contar da data do despacho de aceitação do requerimento de utilização do SIREVE.
+
+2 - O prazo referido no número anterior pode ser prorrogado uma só vez, por um período de um mês, mediante requerimento fundamentado da empresa ou de qualquer dos credores participantes no procedimento e a emissão de parecer favorável do IAPMEI, I. P..
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 16.º — Extinção do procedimento
+
+1 - O procedimento extingue-se automaticamente pelo decurso do prazo previsto no artigo anterior, sem que tenha sido celebrado acordo.
+
+2 - Mediante despacho, o IAPMEI pode declarar extinto o procedimento, em qualquer momento, quando:
+
+a) Concluir pela verificação de alguma das situações de recusa do requerimento previstas na alínea a) do n.º 1 do artigo 6.º;
+
+b) Os termos do acordo proposto não sejam aceites por credores que perfaçam uma das maiorias referidas no n.º 2 do artigo 12.º;
+
+c) A empresa solicite a extinção do procedimento através de requerimento nesse sentido dirigido ao IAPMEI, I. P..
+
+3 - O IAPMEI, I. P., comunica ao tribunal respetivo, preferencialmente por meios eletrónicos, a extinção do procedimento operada nos termos dos números anteriores.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 17.º — Apresentação de novo requerimento de utilização do SIREVE
+
+As empresas que não obtenham acordo no procedimento, não cumpram as obrigações decorrentes de acordo celebrado, ou requeiram a extinção do procedimento, ficam impedidas, pelo prazo de dois anos a contar da data do despacho de aceitação do requerimento, de apresentar novo requerimento a pedir a utilização do SIREVE.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 18.º — SIREVE, processo de insolvência e processo especial de revitalização
+
+1 - Obsta à utilização do SIREVE:
+
+a) A apresentação à insolvência por parte da empresa;
+
+b) A declaração de insolvência da empresa;
+
+c) A pendência do processo especial de revitalização;
+
+d) A conclusão, sem aprovação do plano de recuperação ou verificando-se o incumprimento dos termos do plano de recuperação, do processo especial de revitalização nos dois anos anteriores à apresentação do requerimento de utilização do SIREVE, nos termos do artigo 17.º-G do CIRE.
+
+2 - Sem prejuízo do disposto na alínea a) do número anterior, a pendência de processo judicial de insolvência não obsta à utilização do SIREVE.
+
+3 - No caso previsto no número anterior, se ainda não tiver sido declarada a insolvência, a instância judicial pode ser suspensa pelo juiz, a requerimento da empresa, mediante apresentação do despacho de aceitação do requerimento de utilização do SIREVE.
+
+4 - A suspensão prevista no número anterior cessa com a extinção do procedimento operada nos termos do artigo 16.º
+
+5 - Para os efeitos previstos no número anterior, o IAPMEI, I. P., comunica ao respetivo tribunal, preferencialmente por meios eletrónicos, a extinção do procedimento.
+
+6 - A utilização do SIREVE não impede o recurso ao processo especial de revitalização.
+
+7 - O recurso ao processo especial de revitalização durante a utilização do SIREVE determina a extinção deste procedimento.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 19.º — Utilização das propostas de acordo no âmbito de processo de insolvência
+
+1 - As propostas tendentes à celebração de acordo no SIREVE podem servir de base a propostas de planos de recuperação ou de planos de pagamentos a apresentar no âmbito de processo judicial nos termos do CIRE.
+
+2 - Caso corresponda ao disposto no n.º 2 do artigo 252.º do CIRE e, no âmbito do SIREVE, tenha sido objeto de aprovação escrita por credores que representem mais de dois terços do valor total dos créditos relacionados pela empresa neste procedimento, a proposta de acordo pode ser submetida, pela empresa que recorreu ao SIREVE, ao juiz do tribunal competente para o processo de insolvência, para suprimento da aprovação dos restantes credores relacionados pela empresa neste procedimento e consequente homologação, com os mesmos efeitos previstos no CIRE para o plano de pagamentos.
+
+3 - Para efeitos do disposto no número anterior, é dispensada a notificação dos credores cuja aprovação escrita conste do requerimento apresentado, sendo apenas notificados, nos termos do artigo 256.º do CIRE, os credores cuja aprovação se requer que seja suprida pelo Tribunal.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+###### Artigo 20.º — Prazos
+
+1 - Sempre que devam ser ouvidos a empresa, os demais interessados ou outras entidades, o IAPMEI, I. P., fixa prazo, para o efeito, nunca superior a 10 dias.
+
+2 - Os prazos previstos no presente diploma são contínuos, incluindo sábados, domingos e feriados, e não se suspendem em férias judiciais.
+
+3 - Se o prazo terminar em sábado, domingo ou dia feriado transfere-se para o primeiro dia útil seguinte.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+###### Artigo 21.º — Reporte de informação estatística
+
+1 - Com vista à monitorização do SIREVE, o IAPMEI, I. P., reporta, trimestralmente, informação estatística sobre o seu funcionamento aos membros do Governo responsáveis pelas áreas das finanças, da justiça, da economia, da solidariedade e da segurança social, assim como ao Mediador de Crédito.
+
+2 - A informação estatística a que se refere o número anterior deve conter, designadamente, os seguintes elementos:
+
+a) Número de pedidos de utilização do SIREVE;
+
+b) Número e tempo médio de emissão dos despachos de aceitação, de recusa e de aperfeiçoamento;
+
+c) Duração média e taxa de sucesso do processo de negociação;
+
+d) Número dos acordos celebrados;
+
+e) Número de procedimentos extintos, discriminando o motivo de entre os previstos no n.º 2 do artigo 16.º que determinou a extinção;
+
+f) Taxa de sucesso da recuperação, com base na monitorização dos acordos celebrados.
+
+g) Número de pedidos de utilização do processo de diagnóstico previsto no artigo 2.º-A.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 21.º-A — Informações relativas a instrumentos e boas práticas de recuperação empresarial
+
+O IAPMEI, I. P., disponibiliza no seu sítio na Internet informação detalhada relativa a estratégias, instrumentos e diferentes processos de recuperação empresarial, considerando as melhores práticas internacionais, prestando, ainda, informação adicional neste âmbito, quando assim lhe seja solicitado.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 21.º-B — Confidencialidade
+
+1 - Com exceção das comunicações essenciais no âmbito dos procedimentos descritos nos artigos 8.º e 11.º, e para efeitos estatísticos, nos termos do artigo 21.º, o recurso ao SIREVE é confidencial.
+
+2 - É, igualmente, confidencial o recurso por qualquer empresa ao processo de diagnóstico previsto no artigo 2.º-A, bem como a informação nesse âmbito disponibilizada, que apenas pode ser utilizada para efeitos estatísticos.»
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2015-66443115), em vigor a partir de 2015-03-02
+
+###### Artigo 22.º — Disposições transitórias
+
+1 - Os procedimentos de conciliação regulados pelo Decreto-Lei n.º 316/98, de 20 de outubro, alterado pelo Decreto-Lei n.º 201/2004, de 18 de agosto, e cujos processos se encontrem em curso, ainda sem celebração de acordo, podem ser concluídos no regime em que foram desencadeados, nos termos e dentro dos prazos estipulados no referido diploma.
+
+2 - Mediante requerimento da empresa, os procedimentos referidos no número anterior podem transitar para o novo regime, ficando sujeitos ao cumprimento integral dos requisitos constantes do presente diploma, nomeadamente no que respeita à observância dos prazos.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+###### Artigo 23.º — Norma revogatória
+
+Sem prejuízo do disposto no n.º 1 do artigo anterior, é revogado o Decreto-Lei n.º 316/98, de 20 de outubro, alterado pelo Decreto-Lei n.º 201/2004, de 18 de agosto.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+###### Artigo 24.º — Entrada em vigor
+
+O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03
+
+Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 26 de julho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de julho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 36.º do/a [Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), em vigor a partir de 2018-03-03

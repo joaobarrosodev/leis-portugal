@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004D0573:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0573-20040807",
+ "dre_path": null,
+ "source_lastmod": "2004-08-07",
+ "versions": [
+  {
+   "date": "2004-08-06",
+   "future": false,
+   "celex": "32004D0573",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6be390382439c6ea",
+    "8f9a4fec5fe4b033",
+    "218d304579e06cd7",
+    "545c668b2313ac7c",
+    "3f1367a4fca39056",
+    "0d90cb81650bcdcd",
+    "7bd8269a46569152",
+    "81b79700441a6e07",
+    "b79f49977d72debf",
+    "6f3e499dd9207b3e",
+    "e4b7f08c384f427f"
+   ]
+  }
+ ],
+ "fragments": {
+  "6be390382439c6ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa à organização de voos comuns para o afastamento do território de dois ou mais Estados-Membros de nacionais de países terceiros que estejam sujeitos a decisões individuais de afastamento\n\n(2004/573/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea b) do ponto 3 do seu artigo 63.º;\n\nTendo em conta a iniciativa da República Italiana [([^1])](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntr1-L_2004261PT.01002801-E0001),\n\nConsiderando o seguinte:\n\n(1) O plano global de luta contra a imigração ilegal e o tráfico de seres humanos na União Europeia [([^2])](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntr2-L_2004261PT.01002801-E0003), aprovado pelo Conselho em 28 de Fevereiro de 2002, baseado na Comunicação de 15 de Novembro de 2001 da Comissão ao Parlamento Europeu e ao Conselho sobre uma política comum em matéria de imigração ilegal, salienta que a política de readmissão e repatriação constitui uma parte integrante e crucial da luta contra a imigração clandestina. Para o efeito, o plano global acentua a necessidade de determinar certas acções concretas, tal como a definição de uma abordagem comum e a cooperação entre os Estados–Membros em matéria de execução das medidas de repatriamento. É, pois, necessário aprovar normas comuns em matéria de processos de repatriamento.\n\n(2) O plano de gestão das fronteiras externas da União Europeia, aprovado pelo Conselho em 13 de Junho de 2002, baseado na comunicação de 7 de Maio de 2002 da Comissão ao Parlamento Europeu e ao Conselho — para uma gestão integrada das fronteiras externas dos Estados–Membros da União Europeia, prevê a realização de operações de repatriamento racionalizadas como uma das medidas e acções de gestão integrada das fronteiras externas dos Estados–Membros da União Europeia.\n\n(3) O programa de acção em matéria de repatriamento, aprovado pelo Conselho em 28 de Novembro de 2002, baseado no livro verde de 10 de Abril de 2002 da Comissão sobre uma política de repatriamento de residentes ilegais, bem como na comunicação de 14 de Outubro de 2002 da Comissão ao Parlamento Europeu e ao Conselho sobre uma política de repatriamento de residentes ilegais recomenda, no âmbito das medidas e acções relativas ao aperfeiçoamento da cooperação operacional entre os Estados–Membros, que o repatriamento de nacionais de países terceiros ilegalmente residentes no território de um Estado–Membro, seja efectuado da forma mais eficaz possível, através da partilha das capacidades existentes em matéria de organização de voos comuns.\n\n(4) Importa evitar que exista uma lacuna na Comunidade em matéria de organização de voos comuns.\n\n(5) A partir de 1 de Maio de 2004, o Conselho deixa de poder deliberar com base numa iniciativa de um Estado–Membro.\n\n(6) O Conselho esgotou todas as possibilidades de obter atempadamente o parecer do Parlamento Europeu.\n\n(7) Nestas circunstâncias excepcionais, a presente decisão deverá ser aprovada sem o parecer do Parlamento Europeu.\n\n(8) Os Estados–Membros deverão executar a presente decisão com devido respeito pelos direitos humanos e as liberdades fundamentais, em especial os previstos na Convenção Europeia para a protecção dos direitos do Homem e das liberdades fundamentais de 4 de Novembro de 1950, da Convenção das Nações Unidas contra a tortura e outras penas ou tratamentos cruéis, desumanos ou degradantes, de 10 de Novembro de 1984, da Convenção de Genebra relativa ao estatuto dos refugiados, de 28 de Julho de 1951, e respectivo protocolo de Nova Iorque, de 31 de Janeiro de 1967, da Convenção Internacional sobre os direitos da criança, de 20 de Novembro de 1989, e da Carta dos Direitos Fundamentais da União Europeia, de 18 de Dezembro de 2000 [([^3])](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntr3-L_2004261PT.01002801-E0005).\n\n(9) A presente decisão deverá ser aplicável sem prejuízo dos instrumentos internacionais relevantes em matéria de afastamento por via aérea, tais como o anexo 9 da Convenção de Chicago de 1944 sobre a aviação civil internacional e o Documento 30 da Conferência Europeia da Aviação Civil (CEAC).\n\n(10) As orientações comuns não vinculativas em matéria de disposições de segurança para operações conjuntas de afastamento por via aérea deverão fornecer indicações úteis para a aplicação da presente decisão.\n\n(11) Nos termos dos artigos 1.º e 2.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação da presente decisão, pelo que não lhe está vinculada nem sujeita à sua aplicação. Uma vez que a presente decisão visa desenvolver o acervo de Schengen em aplicação das disposições do Título IV da Parte III do Tratado que institui a Comunidade Europeia, a Dinamarca deverá decidir, nos termos do artigo 5.º do Protocolo acima referido e no prazo de seis meses a contar da data de aprovação da presente decisão pelo Conselho, se procede ou não à respectiva transposição para o seu direito interno.\n\n(12) Quanto à República da Islândia e ao Reino da Noruega, a presente decisão constitui um desenvolvimento das disposições do acervo de Schengen, na acepção do Acordo celebrado em 18 de Maio de 1999 entre o Conselho da União Europeia e a República da Islândia e o Reino da Noruega relativo à associação destes Estados à execução, à aplicação e ao desenvolvimento do acervo de Schengen [([^4])](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntr4-L_2004261PT.01002801-E0007), que é abrangido pelo domínio referido na alínea c) do artigo 1.º da Decisão 1999/437/CEE do Conselho, relativa a determinadas regras de aplicação do referido acordo [([^5])](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntr5-L_2004261PT.01002801-E0009). No termo dos procedimentos previstos no acordo, os direitos e obrigações decorrentes da presente decisão serão igualmente aplicáveis a esses dois Estados e nas relações entre esses mesmos Estados e os Estados–Membros da Comunidade Europeia destinatários da presente decisão.\n\n(13) Nos termos do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda apenso ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, estes Estados–Membros notificaram a sua intenção de participarem na aprovação e na aplicação da presente decisão,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8f9a4fec5fe4b033": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente decisão consiste em coordenar as operações conjuntas de afastamento por via aérea, do território de dois ou mais Estados–Membros, de nacionais de países terceiros que estejam sujeitos a decisões individuais de afastamento (seguidamente designados «nacionais de países terceiros»)."
+  },
+  "218d304579e06cd7": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente decisão, entende–se por:\n\na) «Nacional de um país terceiro»: a pessoa que não possui a nacionalidade de um Estado–Membro da União Europeia, da República da Islândia ou do Reino da Noruega;\n\nb) «Estado–Membro organizador»: um Estado–Membro encarregado da organização de voos comuns;\n\nc) «Estado–Membro participante»: um Estado–Membro que participe em voos comuns organizados por um Estado–Membro organizador;\n\nd) «Voo comum»: a operação de transporte dos nacionais de países terceiros, efectuada por uma transportadora aérea seleccionada para o efeito;\n\ne) «Operações de afastamento» e «operações conjuntas de afastamento por via aérea»: o conjunto de acções necessárias para afastar os nacionais de países terceiros, incluindo o transporte em voos comuns;\n\nf) «Escolta(s)»: o pessoal de segurança encarregado de acompanhar os nacionais de países terceiros num voo comum, bem como as pessoas responsáveis pela assistência médica e os intérpretes."
+  },
+  "545c668b2313ac7c": {
+   "fragment_id": "Artigo 3.º — Autoridade nacional",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autoridade nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade nacional\n\nCada Estado–Membro designa a autoridade nacional encarregada da organização e/ou participação em voos comuns e comunica aos restantes Estados–Membros as informações pertinentes."
+  },
+  "3f1367a4fca39056": {
+   "fragment_id": "Artigo 4.º — Tarefas do Estado–Membro organizador",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tarefas do Estado–Membro organizador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tarefas do Estado–Membro organizador\n\n1. Sempre que, com vista ao afastamento de nacionais de países terceiros, um Estado–Membro decidir organizar um voo comum aberto à participação dos restantes Estados–Membros, informa as autoridades nacionais desses Estados–Membros.\n\n2. A autoridade nacional do Estado–Membro organizador adopta as medidas necessárias para garantir o bom desenrolar do voo comum. Em especial:\n\na) Selecciona a transportadora aérea e determina, juntamente com ela, todos os custos relevantes do voo comum, assumindo as obrigações contratuais pertinentes e certificando–se de que a transportadora toma todas as medidas necessárias para efectuar o voo comum, prestando a assistência adequada aos nacionais de países terceiros e às respectivas escoltas;\n\nb) Solicita e recebe dos países terceiros de trânsito e de destino as autorizações exigidas para efectuar o voo comum;\n\nc) Recorre aos seus contactos e toma as disposições necessárias para a organização do voo comum com os Estados–Membros participantes;\n\nd) Define os procedimentos e os aspectos de pormenor de natureza operacional e determina, de comum acordo com os Estados–Membros participantes, o número de escoltas adequadas ao número de nacionais de países terceiros a afastar;\n\ne) Celebra os acordos financeiros adequados de comum acordo com os Estados–Membros participantes."
+  },
+  "0d90cb81650bcdcd": {
+   "fragment_id": "Artigo 5.º — Tarefas do Estado–Membro participante",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Tarefas do Estado–Membro participante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tarefas do Estado–Membro participante\n\nSempre que decidir participar num voo comum, o Estado–Membro participante:\n\na) Informa a autoridade nacional do Estado–Membro organizador da sua intenção de participar no voo comum, especificando o número de nacionais de países terceiros que pretende afastar;\n\nb) Fornece um número suficiente de escoltas para cada nacional de um país terceiro a afastar. Se as escoltas forem exclusivamente fornecidas pelo Estado–Membro organizador, cada Estado–Membro participante deve assegurar a presença a bordo de, no mínimo, dois representantes. Esses representantes, cujo estatuto será idêntico ao das escoltas, estão encarregados de entregar às autoridades do país de destino os nacionais de países terceiros que se encontrem sob sua responsabilidade."
+  },
+  "7bd8269a46569152": {
+   "fragment_id": "Artigo 6.º — Tarefas comuns",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Tarefas comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tarefas comuns\n\nO Estado–Membro organizador e cada Estado–Membro participante:\n\na) Asseguram que cada nacional de um país terceiro e a respectiva escolta sejam titulares de documentos de viagem válidos e de quaisquer outros documentos adicionais necessários, tais como vistos de entrada e/ou de trânsito, certificados ou registos;\n\nb) Informam, logo que possível, as respectivas representações diplomáticas e consulares nos países terceiros de trânsito e de destino acerca das disposições relativas ao voo comum, a fim de obterem a assistência necessária."
+  },
+  "81b79700441a6e07": {
+   "fragment_id": "Artigo 7.º — Cláusula final",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cláusula final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cláusula final\n\nAo realizarem operações conjuntas de afastamento por via aérea, os Estados–Membros tomam em devida conta as orientações comuns em matéria de disposições de segurança nas operações conjuntas de afastamento por via aérea, que acompanham a presente decisão."
+  },
+  "b79f49977d72debf": {
+   "fragment_id": "Artigo 8.º — Produção de efeitos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nA presente decisão produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "6f3e499dd9207b3e": {
+   "fragment_id": "Artigo 9.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destinatários\n\nOs Estados–Membros são os destinatários da presente decisão em conformidade com o Tratado.\n\nFeito no Luxemburgo, em 29 de Abril de 2004.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. McDOWELL**\n\n---"
+  },
+  "e4b7f08c384f427f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntc1-L_2004261PT.01002801-E0001) [JO C 223 de 19.9.2003, p. 3](http://publications.europa.eu/resource/oj/JOC_2003_223_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntc2-L_2004261PT.01002801-E0003) [JO C 142 de 14.6.2002, p. 23](http://publications.europa.eu/resource/oj/JOC_2002_142_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntc3-L_2004261PT.01002801-E0005) [JO C 364 de 18.12.2000, p. 1](http://publications.europa.eu/resource/oj/JOC_2000_364_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntc4-L_2004261PT.01002801-E0007) [JO L 176 de 10.7.1999, p. 36](http://publications.europa.eu/resource/oj/JOL_1999_176_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/52cff0ec-e762-4f51-9abf-be9bc6629811.0009.07/DOC_1#ntc5-L_2004261PT.01002801-E0009) [JO L 176 de 10.7.1999, p. 31](http://publications.europa.eu/resource/oj/JOL_1999_176_R_TOC)."
+  }
+ }
+}

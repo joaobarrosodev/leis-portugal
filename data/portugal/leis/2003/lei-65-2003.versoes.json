@@ -1,0 +1,985 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:655967:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2003-67135975",
+ "dre_path": "/dr/detalhe/lei/65-2003-655967",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67105663",
+    "67105664",
+    "67105665",
+    "67105666",
+    "67105667",
+    "67105668",
+    "67105669",
+    "67105670",
+    "67105671",
+    "67105672",
+    "67105673",
+    "67105674",
+    "67136075",
+    "67136076",
+    "67136077",
+    "67136078",
+    "67136079",
+    "67136080",
+    "67136081",
+    "67136082",
+    "67136083",
+    "67136084",
+    "67136085",
+    "67136086",
+    "67136087",
+    "67136088",
+    "67136089",
+    "67136090",
+    "67136091",
+    "67136092",
+    "67136093",
+    "67136094",
+    "67136095",
+    "67136096",
+    "67136097",
+    "67136098",
+    "67136099",
+    "67136100",
+    "67136101",
+    "67136102",
+    "67136103",
+    "67136104",
+    "67136105",
+    "67136106",
+    "67136107",
+    "67136108",
+    "67136109",
+    "67136110",
+    "67136111",
+    "67136112",
+    "67136113",
+    "67136114"
+   ]
+  },
+  {
+   "date": "2015-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67123262:por",
+     "title": "Lei n.º 35/2015",
+     "published": "2015-05-04",
+     "dre_path": "/dr/detalhe/lei/35-2015-67123262"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 38.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "67105663",
+    "67105664",
+    "67105665",
+    "67105666",
+    "67194416",
+    "67105668",
+    "67194418",
+    "67105670",
+    "67105671",
+    "67194419",
+    "67194423",
+    "67194424",
+    "67136075",
+    "67194425",
+    "67194426",
+    "67136078",
+    "67136079",
+    "67194469",
+    "67194427",
+    "67194410",
+    "67194429",
+    "67194412",
+    "67136084",
+    "67136085",
+    "67136086",
+    "67136087",
+    "67136088",
+    "67136089",
+    "67136090",
+    "67136091",
+    "67136092",
+    "67136093",
+    "67136094",
+    "67136095",
+    "67136096",
+    "67136097",
+    "67136098",
+    "67194465",
+    "67136100",
+    "67136101",
+    "67136102",
+    "67136103",
+    "67136104",
+    "67136105",
+    "67136106",
+    "67136107",
+    "67136108",
+    "67136109",
+    "67194466",
+    "67136111",
+    "67136112",
+    "67136113",
+    "67194468"
+   ]
+  },
+  {
+   "date": "2019-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124642986:por",
+     "title": "Lei n.º 115/2019",
+     "published": "2019-09-12",
+     "dre_path": "/dr/detalhe/lei/115-2019-124642986"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "67105663",
+    "67105664",
+    "67105665",
+    "67105666",
+    "67194416",
+    "67105668",
+    "67194418",
+    "67105670",
+    "67105671",
+    "124667552",
+    "67194423",
+    "67194424",
+    "67136075",
+    "67194425",
+    "67194426",
+    "67136078",
+    "67136079",
+    "124667553",
+    "124667554",
+    "67194410",
+    "124667555",
+    "67194412",
+    "67136084",
+    "67136085",
+    "67136086",
+    "124667556",
+    "67136088",
+    "67136089",
+    "67136090",
+    "67136091",
+    "67136092",
+    "67136093",
+    "67136094",
+    "67136095",
+    "67136096",
+    "67136097",
+    "67136098",
+    "67194465",
+    "67136100",
+    "67136101",
+    "67136102",
+    "67136103",
+    "67136104",
+    "67136105",
+    "67136106",
+    "67136107",
+    "67136108",
+    "67136109",
+    "67194466",
+    "67136111",
+    "67136112",
+    "67136113",
+    "67194468"
+   ]
+  },
+  {
+   "date": "2023-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220949539:por",
+     "title": "Lei n.º 52/2023",
+     "published": "2023-08-28",
+     "dre_path": "/dr/detalhe/lei/52-2023-220949539"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 11.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "67105663",
+    "67105664",
+    "67105665",
+    "67105666",
+    "67194416",
+    "67105668",
+    "67194418",
+    "67105670",
+    "67105671",
+    "124667552",
+    "67194423",
+    "67194424",
+    "67136075",
+    "67194425",
+    "67194426",
+    "220943349",
+    "67136078",
+    "67136079",
+    "220943354",
+    "124667554",
+    "67194410",
+    "124667555",
+    "67194412",
+    "67136084",
+    "67136085",
+    "67136086",
+    "220943350",
+    "220943351",
+    "67136089",
+    "67136090",
+    "67136091",
+    "67136092",
+    "67136093",
+    "67136094",
+    "67136095",
+    "220943352",
+    "67136097",
+    "67136098",
+    "67194465",
+    "220943353",
+    "67136101",
+    "67136102",
+    "67136103",
+    "67136104",
+    "67136105",
+    "67136106",
+    "67136107",
+    "67136108",
+    "67136109",
+    "67194466",
+    "67136111",
+    "67136112",
+    "67136113",
+    "67194468"
+   ]
+  }
+ ],
+ "fragments": {
+  "67105663": {
+   "fragment_id": "67135976",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 65/2003\n\nde 23 de Agosto\n\nAprova o regime jurídico do mandado de detenção europeu (em cumprimento da Decisão Quadro n.º <a href=\"eurlex.asp?ano=2002&id=32002F0584\" title=\"Link para Decisão da Comunidade Europeia\">2002/584/JAI</a>, do Conselho, de 13 de Junho).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "67105664": {
+   "fragment_id": "67135977",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "67105665": {
+   "fragment_id": "67135978",
+   "type": 8,
+   "heading": "Secção I — Noção, âmbito, conteúdo e transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Noção, âmbito, conteúdo e transmissão"
+  },
+  "67105666": {
+   "fragment_id": "67135979",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção e efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção e efeitos\n\n1 - O mandado de detenção europeu é uma decisão judiciária emitida por um Estado membro com vista à detenção e entrega por outro Estado membro de uma pessoa procurada para efeitos de procedimento criminal ou para cumprimento de uma pena ou medida de segurança privativas da liberdade.\n\n2 - O mandado de detenção europeu é executado com base no princípio do reconhecimento mútuo e em conformidade com o disposto na presente lei e na Decisão Quadro n.º <a href=\"eurlex.asp?ano=2002&id=32002F0584\" title=\"Link para Decisão da Comunidade Europeia\">2002/584/JAI</a>, do Conselho, de 13 de Junho."
+  },
+  "67105667": {
+   "fragment_id": "67135980",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O mandado de detenção europeu pode ser emitido por factos puníveis, pela lei do Estado membro de emissão, com pena ou medida de segurança privativas da liberdade de duração máxima não inferior a 12 meses ou, quando tiver por finalidade o cumprimento de pena ou de medida de segurança, desde que a sanção aplicada tenha duração não inferior a 4 meses.\n\n2 - Será concedida a extradição com origem num mandado de detenção europeu, sem controlo da dupla incriminação do facto, sempre que os factos, de acordo com a legislação do Estado membro de emissão, constituam as seguintes infracções, puníveis no Estado membro de emissão com pena ou medida de segurança privativas de liberdade de duração máxima não inferior a 3 anos:\n\na) Participação numa organização criminosa;\n\nb) Terrorismo;\n\nc) Tráfico de seres humanos;\n\nd) Exploração sexual de crianças e pedopornografia;\n\ne) Tráfico ilícito de estupefacientes e de substâncias psicotrópicas;\n\nf) Tráfico ilícito de armas, munições e explosivos;\n\ng) Corrupção;\n\nh) Fraude, incluindo a fraude lesiva dos interesses financeiros das Comunidades Europeias, na acepção da convenção de 26 de Julho de 1995 relativa à protecção dos interesses financeiros das Comunidades Europeias;\n\ni) Branqueamento dos produtos do crime;\n\nj) Falsificação de moeda, incluindo a contrafacção do euro;\n\nl) Cibercriminalidade;\n\nm) Crimes contra o ambiente, incluindo o tráfico ilícito de espécies animais ameaçadas e de espécies e essências vegetais ameaçadas;\n\nn) Auxílio à entrada e à permanência irregulares;\n\no) Homicídio voluntário e ofensas corporais graves;\n\np) Tráfico ilícito de órgãos e de tecidos humanos;\n\nq) Rapto, sequestro e tomada de reféns;\n\nr) Racismo e xenofobia;\n\ns) Roubo organizado ou à mão armada;\n\nt) Tráfico de bens culturais, incluindo antiguidades e obras de arte;\n\nu) Burla;\n\nv) Extorsão de protecção e extorsão;\n\nx) Contrafacção e piratagem de produtos;\n\nz) Falsificação de documentos administrativos e respectivo tráfico;\n\naa) Falsificação de meios de pagamento;\n\nbb) Tráfico ilícito de substâncias hormonais e outros factores de crescimento;\n\ncc) Tráfico ilícito de materiais nucleares e radioactivos;\n\ndd) Tráfico de veículos roubados;\n\nee) Violação;\n\nff) Fogo posto;\n\ngg) Crimes abrangidos pela jurisdição do Tribunal Penal Internacional;\n\nhh) Desvio de avião ou navio;\n\nii) Sabotagem.\n\n3 - No que respeita às infracções não previstas no número anterior só é admissível a entrega da pessoa reclamada se os factos que justificam a emissão do mandado de detenção europeu constituírem infracção punível pela lei portuguesa, independentemente dos seus elementos constitutivos ou da sua qualificação."
+  },
+  "67105668": {
+   "fragment_id": "67135981",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo e forma do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conteúdo e forma do mandado de detenção europeu\n\n1 - O mandado de detenção europeu contém as seguintes informações, apresentadas em conformidade com o formulário em anexo:\n\na) Identidade e nacionalidade da pessoa procurada;\n\nb) Nome, endereço, número de telefone e de fax e endereço de correio electrónico da autoridade judiciária de emissão;\n\nc) Indicação da existência de uma sentença com força executiva, de um mandado de detenção ou de qualquer outra decisão judicial com a mesma força executiva nos casos previstos nos artigos 1.º e 2.º;\n\nd) Natureza e qualificação jurídica da infracção, tendo, nomeadamente, em conta o disposto no artigo 2.º;\n\ne) Descrição das circunstâncias em que a infracção foi cometida, incluindo o momento, o lugar e o grau de participação na infracção da pessoa procurada;\n\nf) Pena proferida, caso se trate de uma sentença transitada em julgado, ou a medida da pena prevista pela lei do Estado membro de emissão para essa infracção;\n\ng) Na medida do possível, as outras consequências da infracção.\n\n2 - O mandado de detenção deve ser traduzido numa das línguas oficiais do Estado membro de execução ou noutra língua oficial das instituições das Comunidades Europeias aceite por este Estado, mediante declaração depositada junto do Secretariado-Geral do Conselho."
+  },
+  "67105669": {
+   "fragment_id": "67135982",
+   "type": 11,
+   "heading": "Artigo 4.º — Transmissão do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transmissão do mandado de detenção europeu\n\n1 - Quando se souber onde se encontra a pessoa procurada a autoridade judiciária de emissão pode transmitir o mandado de detenção europeu directamente à autoridade judiciária de execução.\n\n2 - A autoridade judiciária de emissão pode, em qualquer caso, decidir inserir a indicação da pessoa procurada no sistema de informação Schengen (SIS).\n\n3 - A inserção da indicação deve ser efectuada nos termos do disposto no artigo 95.º da Convenção de Aplicação do Acordo Schengen, de 14 de Junho de 1985, relativo à supressão gradual dos controlos nas fronteiras comuns, de 19 de Junho de 1990.\n\n4 - Uma indicação inserida no SIS produz os mesmos efeitos de um mandado de detenção europeu, desde que acompanhada das informações referidas no n.º 1 do artigo 3.º\n\n5 - As autoridades de polícia criminal que verifiquem a existência de uma indicação efectuada nos termos do número anterior procedem à detenção da pessoa procurada."
+  },
+  "67105670": {
+   "fragment_id": "67135983",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras de transmissão do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras de transmissão do mandado de detenção europeu\n\n1 - A transmissão do mandado de detenção europeu pode ter lugar através do sistema de telecomunicações de segurança da rede judiciária europeia.\n\n2 - Quando não for possível recorrer ao SIS, a autoridade judiciária de emissão pode recorrer aos serviços da INTERPOL para transmitir o mandado de detenção europeu.\n\n3 - A autoridade judiciária de emissão pode transmitir o mandado de detenção europeu por todo e qualquer meio seguro que permita obter um registo escrito do mesmo, em condições que dêem ao Estado membro a possibilidade de verificar a sua autenticidade.\n\n4 - Todas as dificuldades relacionadas com a transmissão ou a autenticidade de todo e qualquer documento necessário para a execução do mandado de detenção europeu devem ser resolvidas através de contactos directos entre as autoridades judiciárias interessadas ou, se for caso disso, através da intervenção das autoridades centrais dos Estados membros.\n\n5 - Qualquer entidade que receba um mandado de detenção europeu e não seja competente para lhe dar seguimento transmite-o, no mais curto prazo, ao Ministério Público junto do tribunal da relação competente para o processo de execução do mandado de detenção europeu e informa a autoridade judiciária de emissão."
+  },
+  "67105671": {
+   "fragment_id": "67135984",
+   "type": 8,
+   "heading": "Secção II — Medidas provisórias, princípio da especialidade, entrega e extradição posterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Medidas provisórias, princípio da especialidade, entrega e extradição posterior"
+  },
+  "67105672": {
+   "fragment_id": "67135985",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nTransferência temporária e audição da pessoa procurada na pendência do processo de execução do mandado de detenção europeu\n\n1 - Sempre que o mandado de detenção europeu tenha sido emitido para efeitos de procedimento penal, a autoridade judiciária de emissão pode solicitar à autoridade judiciária de execução que:\n\na) Se proceda à audição da pessoa procurada;\n\nb) Autorize a transferência temporária da pessoa procurada.\n\n2 - As condições em que se realiza a audição da pessoa procurada e as condições e duração da transferência temporária são fixadas por acordo entre a autoridade judiciária de emissão e a autoridade judiciária de execução.\n\n3 - A pessoa procurada é ouvida pela autoridade judiciária de emissão, coadjuvada pela pessoa designada em conformidade com o direito do Estado membro de emissão.\n\n4 - A pessoa procurada é ouvida nos termos previstos na legislação no Estado membro de execução e as condições são fixadas por acordo entre a autoridade judiciária de emissão e a autoridade judiciária de execução.\n\n5 - A autoridade judiciária de execução competente pode designar uma outra autoridade judiciária de emissão para tomar parte na audição da pessoa procurada, no sentido de assegurar a correcta aplicação da disciplina jurídica estabelecida pelos n.os 3 e 4 e das condições acordadas com a autoridade judiciária de emissão.\n\n6 - Em caso de transferência temporária, a pessoa procurada deve poder regressar ao Estado membro de execução para assistir às audiências que tenham lugar no âmbito do processo de execução do mandado de detenção europeu."
+  },
+  "67105673": {
+   "fragment_id": "67135986",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípio da especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípio da especialidade\n\n1 - A pessoa entregue em cumprimento de um mandado de detenção europeu não pode ser sujeita a procedimento penal, condenada ou privada de liberdade por uma infracção praticada em momento anterior à sua entrega e diferente daquela que motivou a emissão do mandado de detenção europeu.\n\n2 - O disposto no número anterior não se aplica quando:\n\na) A pessoa entregue, tendo a possibilidade de abandonar o território do Estado membro de emissão não o fizer num prazo de 45 dias a contar da extinção definitiva da sua responsabilidade penal, ou regressar a esse território após o ter abandonado;\n\nb) A infracção não for punível com pena ou medida de segurança privativas da liberdade;\n\nc) O procedimento penal não der lugar à aplicação de uma medida restritiva da liberdade individual;\n\nd) A pessoa entregue seja sujeita a pena ou medida não privativas da liberdade, nomeadamente uma sanção pecuniária ou uma medida alternativa, mesmo se esta pena ou medida forem susceptíveis de restringir a sua liberdade individual;\n\ne) A pessoa tenha consentido na sua entrega e renunciado também à regra da especialidade, nos termos do disposto nos n.os 5 e 6 do artigo 18.º;\n\nf) A pessoa, após ter sido entregue, tenha renunciado expressamente ao benefício da regra da especialidade no que diz respeito a determinados factos praticados em data anterior à sua entrega;\n\ng) Exista consentimento da autoridade judiciária de execução que proferiu a decisão de entrega, nos termos do disposto no n.º 4.\n\n3 - A renúncia prevista na alínea f) do número anterior deve:\n\na) Ser feita perante as autoridades judiciárias competentes do Estado membro de emissão e registada em conformidade com o direito desse Estado;\n\nb) Ser redigida por forma a demonstrar que a pessoa expressou a sua renúncia voluntariamente e em plena consciência das suas consequências;\n\nc) Ser prestada com a assistência de um defensor.\n\n4 - Se o Estado membro de emissão for o Estado Português, o consentimento a que se refere a alínea g) do n.º 2:\n\na) É prestado perante o tribunal da relação da área do seu domicílio ou, se não o tiver, da área onde se encontrar a pessoa em causa, observando-se as formalidades previstas no artigo 18.º, com as necessárias adaptações;\n\nb) É apresentado à autoridade judiciária de execução acompanhado das informações referidas no n.º 1 do artigo 3.º e de uma tradução, nos termos do n.º 2 do artigo 3.º;\n\nc) Deve ser prestado sempre que esteja em causa infracção que permita a entrega, por aplicação do regime jurídico do mandado de detenção europeu;\n\nd) Deve ser recusado pelos motivos previstos no artigo 11.º, podendo ainda ser recusado apenas com os fundamentos previstos no artigo 12.º;\n\ne) Deve ser prestado ou recusado no prazo de 30 dias a contar da data da recepção do pedido.\n\n5 - É competente para solicitar o consentimento a que se refere a alínea g) do n.º 2 a Procuradoria-Geral da República."
+  },
+  "67105674": {
+   "fragment_id": "67135987",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrega ou extradição posterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrega ou extradição posterior\n\n1 - A pessoa entregue a um Estado membro em execução de um mandado de detenção europeu pode, sem o consentimento do Estado membro de execução, ser entregue a outro Estado membro por força de um mandado de detenção europeu emitido por uma infracção praticada antes da sua entrega, nos seguintes casos:\n\na) Quando a pessoa procurada não beneficiar da regra da especialidade, nos termos das alíneas a), e), f) e g) do n.º 2 do artigo 7.º;\n\nb) Quando a pessoa procurada consinta na sua entrega a Estado membro diverso do Estado membro de execução, por força de um mandado de detenção europeu.\n\n2 - O consentimento previsto na alínea b) do número anterior deve:\n\na) Ser prestado perante as autoridades judiciárias competentes do Estado membro de emissão e registado em conformidade com o direito desse Estado;\n\nb) Ser redigido por forma a demonstrar que a pessoa o deu voluntariamente e com plena consciência das sua consequências;\n\nc) Ser prestado com a assistência de um defensor.\n\n3 - Se o Estado membro de emissão for o Estado Português, o consentimento a que se refere a alínea b) do n.º 1 é prestado perante o tribunal da relação da área do seu domicílio ou, se não o tiver, da área onde se encontrar a pessoa em causa, observando-se as formalidades previstas no artigo 18.º da presente lei, com as necessárias adaptações.\n\n4 - Fora dos casos previstos nos números anteriores o Estado membro de emissão pode solicitar à autoridade judiciária de execução o consentimento para a entrega da pessoa procurada a outro Estado membro, ficando a decisão respectiva sujeita às seguintes regras:\n\na) O pedido é apresentado em conformidade com o disposto no artigo 4.º, acompanhado das informações referidas no n.º 1 do artigo 3.º e de uma tradução, nos termos do n.º 2 do artigo 3.º;\n\nb) Será proferida decisão de entrega sempre que a infracção que motivou a emissão do mandado de detenção pertença ao elenco de infracções que podem justificar a emissão de um mandado de detenção europeu;\n\nc) A decisão deve ser tomada no prazo máximo de 30 dias a contar da data da recepção do pedido;\n\nd) A entrega é recusada com os fundamentos previstos no artigo 11.º e pode ser recusada com os fundamentos previstos no artigo 12.º;\n\ne) Verificando-se alguma das situações descritas no artigo 13.º o Estado membro de execução deve dar as garantias aí previstas.\n\n5 - Sem prejuízo do disposto no n.º 1, uma pessoa que tenha sido entregue em execução de um mandado de detenção europeu não pode ser extraditada para um Estado terceiro sem o consentimento da autoridade judiciária de execução que proferiu a decisão de entrega.\n\n6 - O consentimento a que se refere o número anterior deve ser dado em conformidade com as convenções que vinculem esse Estado membro e de acordo com o direito desse Estado.\n\n7 - É competente para solicitar o consentimento a que se referem os n.os 4 e 5 a Procuradoria-Geral da República."
+  },
+  "67136075": {
+   "fragment_id": "67135988",
+   "type": 8,
+   "heading": "Secção III — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Outras disposições"
+  },
+  "67136076": {
+   "fragment_id": "67135989",
+   "type": 11,
+   "heading": "Artigo 9.º — Autoridade central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autoridade central\n\nÉ designada como autoridade central, para os efeitos previstos na presente lei, a Procuradoria-Geral da República."
+  },
+  "67136077": {
+   "fragment_id": "67135990",
+   "type": 11,
+   "heading": "Artigo 10.º — Desconto da detenção cumprida no Estado membro de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Desconto da detenção cumprida no Estado membro de execução\n\n1 - O período de tempo de detenção resultante da execução de um mandado de detenção europeu é descontado no período total de privação da liberdade a cumprir no Estado membro de emissão em virtude de uma condenação a uma pena ou medida de segurança.\n\n2 - Para o efeito do disposto no número anterior a autoridade central transmite à autoridade judiciária de emissão todas as informações respeitantes ao período de tempo de detenção cumprido pela pessoa procurada em execução do mandado de detenção europeu."
+  },
+  "67136078": {
+   "fragment_id": "67135991",
+   "type": 1,
+   "heading": "Capítulo II — Execução de mandado de detenção europeu emitido por Estado membro estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Execução de mandado de detenção europeu emitido por Estado membro estrangeiro"
+  },
+  "67136079": {
+   "fragment_id": "67135992",
+   "type": 8,
+   "heading": "Secção I — Condições de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições de execução"
+  },
+  "67136080": {
+   "fragment_id": "67135993",
+   "type": 11,
+   "heading": "Artigo 11.º — Causas de recusa de execução do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Causas de recusa de execução do mandado de detenção europeu\n\nA execução do mandado de detenção europeu será recusada quando:\n\na) A infracção que motiva a emissão do mandado de detenção europeu tiver sido amnistiada em Portugal, desde que os tribunais portugueses sejam competentes para o conhecimento da infracção;\n\nb) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei do Estado membro onde foi proferida a decisão;\n\nc) A pessoa procurada for inimputável em razão da idade, nos termos da lei portuguesa, em relação aos factos que motivam a emissão do mandado de detenção europeu;\n\nd) A infracção for punível com pena de morte ou com outra pena de que resulte lesão irreversível da integridade física;\n\ne) A emissão do mandado de detenção for determinada por motivos políticos."
+  },
+  "67136081": {
+   "fragment_id": "67135994",
+   "type": 11,
+   "heading": "Artigo 12.º — Causas de recusa facultativa de execução do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Causas de recusa facultativa de execução do mandado de detenção europeu\n\n1 - A execução do mandado de detenção europeu pode ser recusada quando:\n\na) O facto que motiva a emissão do mandado de detenção europeu não constituir infracção punível de acordo com a lei portuguesa, desde que se trate de infracção não incluída no n.º 2 do artigo 2.º;\n\nb) Estiver pendente em Portugal procedimento penal contra a pessoa procurada pelo facto que motiva a emissão do mandado de detenção europeu;\n\nc) Sendo os factos que motivam a emissão do mandado de detenção europeu do conhecimento do Ministério Público, não tiver sido instaurado ou tiver sido arquivado o respectivo processo;\n\nd) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro em condições que obstem ao ulterior exercício da acção penal, fora dos casos previstos na alínea b) do artigo 11.º;\n\ne) Tiverem decorrido os prazos de prescrição do procedimento criminal ou da pena, de acordo com a lei portuguesa, desde que os tribunais portugueses sejam competentes para o conhecimento dos factos que motivam a emissão do mandado de detenção europeu;\n\nf) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um país terceiro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei portuguesa;\n\ng) A pessoa procurada se encontrar em território nacional, tiver nacionalidade portuguesa ou residir em Portugal, desde que o mandado de detenção tenha sido emitido para cumprimento de uma pena ou medida de segurança e o Estado Português se comprometa a executar aquela pena ou medida de segurança, de acordo com a lei portuguesa;\n\nh) O mandado de detenção europeu tiver por objecto infracção que:\n\ni) Segundo a lei portuguesa tenha sido cometida, em todo ou em parte, em território nacional ou a bordo de navios ou aeronaves portugueses; ou\n\nii) Tenha sido praticada fora do território do Estado membro de emissão desde que a lei penal portuguesa não seja aplicável aos mesmos factos quando praticados fora do território nacional.\n\n2 - A execução do mandado de detenção europeu não pode ser recusada, em matéria de contribuições e impostos, de alfândegas e de câmbios, com o fundamento previsto no n.º 1, pela circunstância de a legislação portuguesa não impor o mesmo tipo de contribuições ou impostos ou não prever o mesmo tipo de regulamentação em matéria de contribuições e impostos, de alfândegas e de câmbios que a legislação do Estado membro de emissão."
+  },
+  "67136082": {
+   "fragment_id": "67135995",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantias a fornecer pelo Estado membro de emissão em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Garantias a fornecer pelo Estado membro de emissão em casos especiais\n\nA execução do mandado de detenção europeu só terá lugar se o Estado membro de emissão prestar uma das seguintes garantias:\n\na) Quando o mandado de detenção europeu tiver sido emitido para efeitos de cumprimento de uma pena ou medida de segurança imposta por uma decisão proferida na ausência do arguido e se a pessoa em causa não tiver sido notificada pessoalmente ou de outro modo informada da data e local da audiência que determinou a decisão proferida na sua ausência, só será proferida decisão de entrega se a autoridade judiciária de emissão fornecer garantias consideradas suficientes de que é assegurada à pessoa procurada a possibilidade de interpor recurso ou de requerer novo julgamento no Estado membro de emissão e de estar presente no julgamento;\n\nb) Quando a infracção que motiva a emissão do mandado de detenção europeu for punível com pena ou medida de segurança privativas da liberdade com carácter perpétuo, só será proferida decisão de entrega se estiver prevista no sistema jurídico do Estado membro de emissão uma revisão da pena aplicada, a pedido ou o mais tardar no prazo de 20 anos, ou a aplicação das medidas de clemência a que a pessoa procurada tenha direito nos termos do direito ou da prática do Estado membro de emissão, com vista a que tal pena ou medida não seja executada;\n\nc) Quando a pessoa procurada para efeitos de procedimento penal for nacional ou residente no Estado membro de execução, a decisão de entrega pode ficar sujeita à condição de que a pessoa procurada, após ter sido ouvida, seja devolvida ao Estado membro de execução para nele cumprir a pena ou a medida de segurança privativas da liberdade a que foi condenada no Estado membro de emissão."
+  },
+  "67136083": {
+   "fragment_id": "67135996",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações internacionais concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações internacionais concorrentes\n\n1 - O regime jurídico do mandado de detenção europeu não prejudica as obrigações assumidas pelo Estado Português sempre que a pessoa procurada tenha sido extraditada para Portugal a partir de um terceiro Estado e esteja protegida por disposições em matéria de especialidade do acordo ao abrigo do qual foi extraditada.\n\n2 - No caso previsto no número anterior serão tomadas pela autoridade judiciária de execução todas as medidas necessárias para solicitar imediatamente o consentimento do Estado de onde a pessoa procurada foi extraditada, por forma que esta possa ser entregue ao Estado membro de emissão.\n\n3 - Os prazos estabelecidos no artigo 26.º só começam a correr a partir da data em que as regras de especialidade deixarem de vigorar.\n\n4 - Serão asseguradas as condições materiais necessárias para a entrega efectiva da pessoa procurada enquanto se aguardar a decisão do Estado de onde foi extraditada."
+  },
+  "67136084": {
+   "fragment_id": "67135997",
+   "type": 8,
+   "heading": "Secção II — Processo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Processo de execução"
+  },
+  "67136085": {
+   "fragment_id": "67135998",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para a execução do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência para a execução do mandado de detenção europeu\n\n1 - É competente para o processo judicial de execução do mandado de detenção europeu o tribunal da relação da área do seu domicílio ou, se não o tiver, da área onde se encontrar a pessoa procurada à data da emissão do mandado.\n\n2 - O julgamento é da competência da secção criminal."
+  },
+  "67136086": {
+   "fragment_id": "67135999",
+   "type": 11,
+   "heading": "Artigo 16.º — Despacho liminar e detenção da pessoa procurada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Despacho liminar e detenção da pessoa procurada\n\n1 - Recebido o mandado de detenção europeu o Ministério Público junto do tribunal da relação competente promove a sua execução no prazo de quarenta e oito horas.\n\n2 - Efectuada a distribuição, o processo é imediatamente concluso ao juiz relator para, no prazo de cinco dias, proferir despacho liminar sobre suficiência das informações que acompanham o mandado de detenção europeu, tendo especialmente em conta o disposto no artigo 3.º\n\n3 - Se as informações comunicadas pelo Estado membro de emissão forem insuficientes para que se possa decidir da entrega, serão solicitadas com urgência as informações complementares necessárias, podendo ser fixado prazo para a sua recepção.\n\n4 - A autoridade judiciária de emissão pode transmitir, por sua iniciativa, a qualquer momento, todas as informações suplementares que repute úteis.\n\n5 - Quando o mandado de detenção europeu contiver todas as informações exigidas pelo artigo 3.º e estiver devidamente traduzido é ordenada a sua entrega ao Ministério Público, para que providencie pela detenção da pessoa procurada.\n\n6 - A detenção da pessoa procurada obedece aos requisitos estabelecidos no Código de Processo Penal para a detenção de suspeitos."
+  },
+  "67136087": {
+   "fragment_id": "67136000",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos do detido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos do detido\n\n1 - A pessoa procurada é informada, quando for detida, da existência e do conteúdo do mandado de detenção europeu, bem como da possibilidade de consentir em ser entregue à autoridade judiciária de emissão.\n\n2 - O detido tem direito a ser assistido por defensor.\n\n3 - Quando o detido não conheça ou não domine a língua portuguesa é nomeado, sem qualquer encargo para ele, intérprete idóneo."
+  },
+  "67136088": {
+   "fragment_id": "67136001",
+   "type": 11,
+   "heading": "Artigo 18.º — Audição do detido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Audição do detido\n\n1 - A entidade que proceder à detenção comunica-a de imediato, pela via mais expedita e que permita o registo por escrito, ao Ministério Público junto do tribunal da relação competente.\n\n2 - A pessoa procurada é apresentada ao Ministério Público, para audição pessoal, imediatamente ou no mais curto prazo possível.\n\n3 - O juiz relator procede à audição do detido, no prazo máximo de quarenta e oito horas após a detenção, e decide sobre a validade e manutenção desta, podendo aplicar-lhe medida de coacção prevista no Código de Processo Penal.\n\n4 - O juiz relator nomeia previamente defensor ao detido, se não tiver advogado constituído.\n\n5 - O juiz relator procede à identificação do detido, elucidando-o sobre a existência e o conteúdo do mandado de detenção europeu e sobre o direito de se opor à execução do mandado ou de consentir nela e os termos em que o pode fazer, bem como sobre a faculdade de renunciar ao benefício da regra da especialidade.\n\n6 - O consentimento na entrega à autoridade judiciária de emissão prestado pelo detido, o teor da informação que lhe foi transmitida sobre a regra da especialidade e a declaração do detido são exarados em auto, assinado pela pessoa procurada e pelo seu defensor ou advogado constituído."
+  },
+  "67136089": {
+   "fragment_id": "67136002",
+   "type": 11,
+   "heading": "Artigo 19.º — Audição do detido pelo tribunal de 1.ª instância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Audição do detido pelo tribunal de 1.ª instância\n\n1 - Sempre que o detido não possa, por qualquer razão, ser ouvido pelo tribunal da relação é apresentado ao Ministério Público junto do tribunal de 1.ª instância da sede do tribunal competente.\n\n2 - No caso previsto no número anterior, a audição tem lugar exclusivamente para efeitos de validação e manutenção da detenção ou de aplicação de medida de coacção prevista no Código de Processo Penal pelo juiz do tribunal de 1.ª instância, devendo o Ministério Público tomar as providências adequadas à apresentação do detido no primeiro dia útil subsequente."
+  },
+  "67136090": {
+   "fragment_id": "67136003",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução do mandado de detenção com consentimento da pessoa procurada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Execução do mandado de detenção com consentimento da pessoa procurada\n\n1 - O consentimento na entrega à autoridade judiciária de emissão prestado pelo detido é irrevogável e tem como consequência a renúncia ao processo de execução do mandado de detenção europeu.\n\n2 - O juiz deve certificar-se de que o consentimento a que se refere o número anterior foi prestado voluntariamente e com plena consciência das suas consequências.\n\n3 - A decisão judicial de homologação do consentimento equivale, para todos os efeitos, à decisão final do processo de execução do mandado de detenção europeu."
+  },
+  "67136091": {
+   "fragment_id": "67136004",
+   "type": 11,
+   "heading": "Artigo 21.º — Oposição da pessoa procurada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Oposição da pessoa procurada\n\n1 - Se a pessoa procurada não consentir na sua entrega ao Estado membro de emissão é concedida a palavra ao seu defensor para que deduza oposição.\n\n2 - A oposição pode ter por fundamentos o erro na identidade do detido ou a existência de causa de recusa de execução do mandado de detenção europeu.\n\n3 - Deduzida a oposição, nos termos dos números anteriores, é concedida a palavra ao Ministério Público para que se pronuncie sobre as questões suscitadas na mesma e sobre a verificação dos requisitos de que depende a execução do mandado de detenção europeu.\n\n4 - A oposição e os meios de prova devem ser apresentados no decurso da diligência de audição do arguido, sem prejuízo de, a requerimento do defensor, o tribunal fixar, por despacho irrecorrível, prazo para o efeito, sempre que tal prazo seja necessário para a preparação da defesa ou para a apresentação dos meios de prova, tendo em conta a necessidade de se cumprirem os prazos estabelecidos no artigo 26.º\n\n5 - Finda a produção da prova será concedida a palavra ao Ministério Público e ao defensor da pessoa procurada para alegações orais."
+  },
+  "67136092": {
+   "fragment_id": "67136005",
+   "type": 11,
+   "heading": "Artigo 22.º — Decisão sobre a execução do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Decisão sobre a execução do mandado de detenção europeu\n\n1 - O tribunal profere decisão fundamentada sobre a execução do mandado de detenção europeu no prazo de cinco dias a contar da data em que ocorrer a audição da pessoa procurada.\n\n2 - Se as informações comunicadas pelo Estado membro de emissão forem insuficientes para que se possa decidir da entrega, são solicitadas com urgência as informações necessárias, podendo ser fixado prazo para a sua recepção, para que possam ser cumpridos os prazos estabelecidos no artigo 26.º"
+  },
+  "67136093": {
+   "fragment_id": "67136006",
+   "type": 11,
+   "heading": "Artigo 23.º — Decisão em caso de pedidos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Decisão em caso de pedidos concorrentes\n\n1 - Se vários Estados-membros tiverem emitido um mandado de detenção europeu contra a mesma pessoa, o tribunal decide sobre qual dos mandados deve ser executado tendo em conta todas as circunstâncias e, em especial:\n\na) A gravidade relativa das infracções;\n\nb) O lugar da prática das infracções;\n\nc) As datas dos mandados de execução concorrentes;\n\nd) A circunstância de o mandado ter sido emitido para efeitos de procedimento penal ou de cumprimento de uma pena ou medida de segurança privativas da liberdade.\n\n2 - Pode ser solicitado parecer ao EUROJUST para efeitos da tomada da decisão prevista no n.º 1.\n\n3 - Em caso de conflito entre um mandado de detenção europeu e um pedido de extradição apresentado por um país terceiro, a decisão sobre qual dos pedidos deve ser satisfeito tem em conta todas as circunstâncias, em especial as referidas no n.º 1, bem como as mencionadas na convenção aplicável.\n\n4 - O disposto no presente artigo não prejudica as obrigações assumidas pelo Estado Português previstas no Estatuto do Tribunal Penal Internacional."
+  },
+  "67136094": {
+   "fragment_id": "67136007",
+   "type": 11,
+   "heading": "Artigo 24.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Recurso\n\n1 - Só é admissível recurso:\n\na) Da decisão que mantiver a detenção ou a substituir por medida de coacção;\n\nb) Da decisão final sobre a execução do mandado de detenção europeu.\n\n2 - O prazo para a interposição do recurso é de cinco dias e conta-se a partir da notificação da decisão ou, tratando-se de decisão oral reproduzida em acta, a partir da data em que tiver sido proferida.\n\n3 - O requerimento de interposição do recurso é sempre motivado, sob pena de não admissão do recurso. Se o recurso for interposto por declaração na acta, a motivação pode ser apresentada no prazo de cinco dias, contado da data da interposição.\n\n4 - O requerimento de interposição do recurso e a motivação são notificados ao sujeito processual afectado pelo recurso, para que possa responder, no prazo de cinco dias.\n\n5 - O julgamento dos recursos previstos neste artigo é da competência das secções criminais do Supremo Tribunal de Justiça.\n\n6 - O processo é remetido ao Supremo Tribunal de Justiça imediatamente após a junção da resposta ou findo o prazo para a sua apresentação."
+  },
+  "67136095": {
+   "fragment_id": "67136008",
+   "type": 11,
+   "heading": "Artigo 25.º — Vista do processo e julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Vista do processo e julgamento\n\n1 - Feita a distribuição na secção criminal do Supremo Tribunal de Justiça, o processo é concluso ao relator, por cinco dias, e depois remetido, com projecto de acórdão, a visto simultâneo dos restantes juízes, por cinco dias.\n\n2 - O processo é submetido a julgamento na primeira sessão após o último visto, independentemente de inscrição em tabela e com preferência sobre os outros e baixa três dias após o trânsito."
+  },
+  "67136096": {
+   "fragment_id": "67136009",
+   "type": 11,
+   "heading": "Artigo 26.º — Prazos e regras relativos à decisão sobre a execução do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Prazos e regras relativos à decisão sobre a execução do mandado de detenção europeu\n\n1 - Se a pessoa procurada consentir na sua entrega ao Estado membro de emissão, a decisão definitiva sobre a execução do mandado de detenção europeu deve ser tomada no prazo de 10 dias a contar da data em que foi prestado o consentimento.\n\n2 - Nos outros casos a decisão definitiva sobre a execução do mandado de detenção europeu deve ser tomada no prazo de 60 dias após a detenção da pessoa procurada.\n\n3 - Quando o mandado de detenção europeu não puder ser executado nos prazos previstos nos n.os 1 ou 2, nomeadamente por ter sido interposto recurso da decisão proferida, a autoridade judiciária de emissão será informada do facto e das suas razões, podendo os prazos ser prorrogados por mais 30 dias.\n\n4 - Serão asseguradas as condições materiais necessárias para a entrega efectiva da pessoa procurada enquanto não for tomada uma decisão definitiva sobre a execução do mandado de detenção europeu.\n\n5 - Sempre que, devido a circunstâncias excepcionais, não for possível cumprir os prazos fixados no presente artigo, a Procuradoria-Geral da República informará a EUROJUST do facto e das suas razões."
+  },
+  "67136097": {
+   "fragment_id": "67136010",
+   "type": 11,
+   "heading": "Artigo 27.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Privilégios e imunidades\n\n1 - Quando a pessoa procurada beneficiar de um privilégio ou de uma imunidade de jurisdição ou de execução os prazos fixados no artigo 26.º só começam a correr a partir do dia em que ocorrer o conhecimento de que tal privilégio ou imunidade foi levantado.\n\n2 - Se o levantamento do privilégio ou da imunidade for da competência de uma autoridade portuguesa o respectivo pedido é apresentado pelo tribunal competente para o processo judicial de execução do mandado de detenção europeu no mais curto prazo.\n\n3 - Se o levantamento do privilégio ou da imunidade for da competência de outro Estado ou de uma organização internacional compete à autoridade judiciária de emissão apresentar-lhe o respectivo pedido.\n\n4 - Serão asseguradas as condições materiais necessárias a uma entrega efectiva da pessoa procurada a partir do momento em que esta deixe de beneficiar do privilégio ou imunidade."
+  },
+  "67136098": {
+   "fragment_id": "67136011",
+   "type": 11,
+   "heading": "Artigo 28.º — Notificação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Notificação da decisão\n\nO tribunal competente notifica a autoridade judiciária de emissão, no mais curto prazo, da decisão proferida sobre a execução do mandado de detenção europeu."
+  },
+  "67136099": {
+   "fragment_id": "67136012",
+   "type": 11,
+   "heading": "Artigo 29.º — Prazo para a entrega da pessoa procurada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Prazo para a entrega da pessoa procurada\n\n1 - A pessoa procurada deve ser entregue no mais curto prazo possível, numa data acordada entre o tribunal e a autoridade judiciária de emissão.\n\n2 - A entrega deve ter lugar no prazo máximo de 10 dias, a contar da decisão definitiva de execução do mandado de detenção europeu.\n\n3 - Se for impossível a entrega da pessoa procurada no prazo previsto no número anterior, em virtude de facto de força maior que ocorra num dos Estados membros, o tribunal realiza os contactos necessários com a autoridade judiciária de emissão para ser acordada uma nova data de entrega, a qual deverá ter lugar no prazo de 10 dias a contar da data fixada nos termos do número anterior.\n\n4 - A entrega pode ser temporariamente suspensa por motivos humanitários graves, nomeadamente por existirem motivos sérios para considerar que a entrega colocaria manifestamente em perigo a vida ou a saúde da pessoa procurada.\n\n5 - O tribunal informa a autoridade judiciária de emissão da cessação dos motivos que determinaram a suspensão temporária da entrega da pessoa procurada e é acordada uma nova data de entrega, a qual deverá ter lugar no prazo de 10 dias."
+  },
+  "67136100": {
+   "fragment_id": "67136013",
+   "type": 11,
+   "heading": "Artigo 30.º — Prazos de duração máxima da detenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Prazos de duração máxima da detenção\n\n1 - A detenção da pessoa procurada cessa quando, desde o seu início, tiverem decorrido 60 dias sem que seja proferida pelo tribunal da relação decisão sobre a execução do mandado de detenção europeu, podendo ser substituída por medida de coacção prevista no Código de Processo Penal.\n\n2 - O prazo previsto no número anterior é elevado para 90 dias se for interposto recurso da decisão sobre a execução do mandado de detenção europeu proferida pelo tribunal da relação.\n\n3 - Os prazos previstos nos números anteriores são elevados para 150 dias se for interposto recurso para o Tribunal Constitucional."
+  },
+  "67136101": {
+   "fragment_id": "67136014",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrega diferida ou condicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrega diferida ou condicional\n\n1 - O tribunal pode, após ter proferido decisão no sentido da execução do mandado de detenção europeu, suspender a entrega da pessoa procurada, para que seja sujeita a procedimento penal em Portugal ou, no caso de já ter sido condenada por sentença transitada em julgado, para que possa cumprir, em Portugal, a pena respectiva.\n\n2 - Quando deixem de se verificar os motivos que justificaram o diferimento da entrega, o tribunal informa a autoridade judiciária de emissão e é acordada uma nova data de entrega, a qual deverá ter lugar no prazo de 10 dias.\n\n3 - Em lugar de diferir a entrega o tribunal pode decidir entregar a pessoa procurada ao Estado membro de emissão, temporariamente, em condições a fixar em acordo escrito com a autoridade judiciária de emissão, vinculativo para todas as autoridades do Estado membro de emissão."
+  },
+  "67136102": {
+   "fragment_id": "67136015",
+   "type": 11,
+   "heading": "Artigo 32.º — Apreensão e entrega de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Apreensão e entrega de bens\n\n1 - O tribunal competente para o processo judicial de execução do mandado de detenção europeu ordena a apreensão e entrega à autoridade judiciária de emissão, a seu pedido ou por iniciativa das entidades competentes, dos objectos:\n\na) Que possam servir de prova;\n\nb) Que tenham sido adquiridos pela pessoa procurada em resultado da infracção.\n\n2 - Os objectos referidos no número anterior são entregues à autoridade judiciária de emissão mesmo quando o mandado de execução europeu não puder ser executado, por morte ou evasão da pessoa procurada.\n\n3 - Os objectos referidos no n.º 1 que sejam susceptíveis de apreensão ou perda podem, para efeitos de um procedimento penal em curso em Portugal, ser conservados temporariamente ou entregues ao Estado membro de emissão na condição de serem restituídos.\n\n4 - Ficam ressalvados os direitos adquiridos pelo Estado Português ou por terceiros sobre os objectos referidos no n.º 1.\n\n5 - No caso previsto no número anterior os objectos apreendidos e entregues ao Estado membro de emissão serão restituídos gratuitamente logo que concluído o procedimento penal."
+  },
+  "67136103": {
+   "fragment_id": "67136016",
+   "type": 11,
+   "heading": "Artigo 33.º — Natureza urgente do processo de execução do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Natureza urgente do processo de execução do mandado de detenção europeu\n\n1 - Os actos processuais relativos ao processo de execução do mandado de detenção europeu praticam-se mesmo fora dos dias úteis, das horas de expediente dos serviços de justiça e das férias judiciais.\n\n2 - Os prazos relativos ao processo de execução do mandado de detenção europeu correm em férias."
+  },
+  "67136104": {
+   "fragment_id": "67136017",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direito subsidiário\n\nÉ aplicável, subsidiariamente, ao processo de execução do mandado de detenção europeu o Código de Processo Penal."
+  },
+  "67136105": {
+   "fragment_id": "67136018",
+   "type": 11,
+   "heading": "Artigo 35.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Despesas\n\n1 - As despesas ocasionadas pela execução do mandado de detenção europeu em território nacional serão suportadas pelo Estado Português.\n\n2 - Todas as outras despesas serão custeadas pelo Estado membro de emissão."
+  },
+  "67136106": {
+   "fragment_id": "67136019",
+   "type": 1,
+   "heading": "Capítulo III — Emissão em Portugal de mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Emissão em Portugal de mandado de detenção europeu"
+  },
+  "67136107": {
+   "fragment_id": "67136020",
+   "type": 11,
+   "heading": "Artigo 36.º — Competência para a emissão do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Competência para a emissão do mandado de detenção europeu\n\nÉ competente para a emissão do mandado de detenção europeu a autoridade judiciária competente para ordenar a detenção ou a prisão da pessoa procurada nos termos da lei portuguesa."
+  },
+  "67136108": {
+   "fragment_id": "67136021",
+   "type": 11,
+   "heading": "Artigo 37.º — Regime da emissão e transmissão do mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regime da emissão e transmissão do mandado de detenção europeu\n\nA emissão e a transmissão do mandado de detenção europeu estão sujeitas às regras previstas no capítulo I."
+  },
+  "67136109": {
+   "fragment_id": "67136022",
+   "type": 1,
+   "heading": "Capítulo IV — Trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Trânsito"
+  },
+  "67136110": {
+   "fragment_id": "67136023",
+   "type": 11,
+   "heading": "Artigo 38.º — Trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Trânsito\n\n1 - É facultado o trânsito, pelo território ou pelo espaço aéreo nacional, para efeitos de entrega de uma pessoa procurada, desde que não se trate de cidadão nacional ou pessoa residente em território nacional, destinando-se a entrega ao cumprimento de pena ou medida de segurança privativas da liberdade quando sejam comunicados os seguintes elementos:\n\na) A identidade e a nacionalidade da pessoa sobre a qual recai o mandado de detenção europeu;\n\nb) A existência de um mandado de detenção europeu;\n\nc) A natureza e a qualificação jurídica da infracção;\n\nd) A descrição das circunstâncias em que a infracção foi praticada, incluindo a data e o lugar.\n\n2 - Se a pessoa sobre a qual recai o mandado de detenção europeu para efeitos de procedimento penal tiver a nacionalidade portuguesa ou residir em território nacional, a autorização do trânsito pode ficar sujeita à condição de que a pessoa, após ter sido ouvida, seja restituída para cumprimento da pena ou medida de segurança privativas da liberdade a que venha a ser condenada no Estado membro de emissão.\n\n3 - O pedido de trânsito pode ser comunicado à autoridade central por qualquer meio que permita conservar um registo escrito.\n\n4 - A decisão sobre o pedido de trânsito é comunicada pelo mesmo procedimento.\n\n5 - O disposto neste artigo não se aplica em caso de trânsito por via aérea sem que esteja prevista uma aterragem em território nacional.\n\n6 - Em caso de aterragem imprevista o Estado membro de emissão deve comunicar os elementos previstos no n.º 1.\n\n7 - O regime estabelecido no presente artigo é aplicável, com as necessárias adaptações, ao trânsito de pessoa extraditada de um país terceiro para um Estado membro."
+  },
+  "67136111": {
+   "fragment_id": "67136024",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "67136112": {
+   "fragment_id": "67136025",
+   "type": 11,
+   "heading": "Artigo 39.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Disposição transitória\n\nAté que o SIS esteja em condições de transmitir todas as informações referidas no artigo 3.º, a inserção, no SIS, da indicação da pessoa procurada produz os mesmos efeitos de um mandado de detenção europeu enquanto se aguarda a recepção do original em boa e devida forma."
+  },
+  "67136113": {
+   "fragment_id": "67136026",
+   "type": 11,
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nO regime jurídico do mandado de detenção europeu entra em vigor no dia 1 de Janeiro de 2004, aplicando-se aos pedidos recebidos depois desta data com origem em Estados membros que tenham optado pela aplicação imediata da Decisão Quadro, do Conselho, de 13 de Junho de 2002 relativa ao mandado de detenção europeu e aos processos de entrega entre os Estados membros, publicada no Jornal Oficial das Comunidades Europeias, de 18 de Julho de 2002.\n\nAprovada em 3 de Julho de 2003.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 4 de Agosto de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 8 de Agosto de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "67136114": {
+   "fragment_id": "67136027",
+   "type": 14,
+   "heading": "Anexo — Mandado de detenção europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mandado de detenção europeu\n\n(O presente mandado deve ser redigido ou traduzido numa das línguas oficiais do Estado membro de execução, sempre que este tiver sido definido, ou noutra língua aceite por esse Estado.)\n\nO presente mandado foi emitido por uma autoridade judiciária competente. Solicita-se a detenção do indivíduo abaixo indicado e a sua entrega às autoridades judiciárias para efeitos de procedimento penal ou de cumprimento de uma pena ou medida de segurança privativas da liberdade.\n\n(ver modelo no documento original)\n\nFoto e impressões digitais da pessoa procurada, caso existam e possam ser transmitidas, ou contacto da pessoa junto da qual se poderão obter esses dados ou o perfil de ADN (se for possível enviar e se a informação não tiver sido já incluída.)\n\n(ver modelo no documento original)"
+  },
+  "67194416": {
+   "fragment_id": "67135980",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O mandado de detenção europeu pode ser emitido por factos puníveis, pela lei do Estado membro de emissão, com pena ou medida de segurança privativas da liberdade de duração máxima não inferior a 12 meses ou, quando tiver por finalidade o cumprimento de pena ou de medida de segurança, desde que a sanção aplicada tenha duração não inferior a 4 meses.\n\n2 - Será concedida a entrega da pessoa procurada com base num mandado de detenção europeu, sem controlo da dupla incriminação do facto, sempre que os factos, de acordo com a legislação do Estado membro de emissão, constituam as seguintes infrações, puníveis no Estado membro de emissão com pena ou medida de segurança privativas de liberdade de duração máxima não inferior a três anos:\n\na) Participação numa organização criminosa;\n\nb) Terrorismo;\n\nc) Tráfico de seres humanos;\n\nd) Exploração sexual de crianças e pedopornografia;\n\ne) Tráfico ilícito de estupefacientes e de substâncias psicotrópicas;\n\nf) Tráfico ilícito de armas, munições e explosivos;\n\ng) Corrupção;\n\nh) Fraude, incluindo a fraude lesiva dos interesses financeiros das Comunidades Europeias, na acepção da convenção de 26 de Julho de 1995 relativa à protecção dos interesses financeiros das Comunidades Europeias;\n\ni) Branqueamento dos produtos do crime;\n\nj) Falsificação de moeda, incluindo a contrafacção do euro;\n\nl) Cibercriminalidade;\n\nm) Crimes contra o ambiente, incluindo o tráfico ilícito de espécies animais ameaçadas e de espécies e essências vegetais ameaçadas;\n\nn) Auxílio à entrada e à permanência irregulares;\n\no) Homicídio voluntário e ofensas corporais graves;\n\np) Tráfico ilícito de órgãos e de tecidos humanos;\n\nq) Rapto, sequestro e tomada de reféns;\n\nr) Racismo e xenofobia;\n\ns) Roubo organizado ou à mão armada;\n\nt) Tráfico de bens culturais, incluindo antiguidades e obras de arte;\n\nu) Burla;\n\nv) Extorsão de protecção e extorsão;\n\nx) Contrafacção e piratagem de produtos;\n\nz) Falsificação de documentos administrativos e respectivo tráfico;\n\naa) Falsificação de meios de pagamento;\n\nbb) Tráfico ilícito de substâncias hormonais e outros factores de crescimento;\n\ncc) Tráfico ilícito de materiais nucleares e radioactivos;\n\ndd) Tráfico de veículos roubados;\n\nee) Violação;\n\nff) Fogo posto;\n\ngg) Crimes abrangidos pela jurisdição do Tribunal Penal Internacional;\n\nhh) Desvio de avião ou navio;\n\nii) Sabotagem.\n\n3 - No que respeita às infracções não previstas no número anterior só é admissível a entrega da pessoa reclamada se os factos que justificam a emissão do mandado de detenção europeu constituírem infracção punível pela lei portuguesa, independentemente dos seus elementos constitutivos ou da sua qualificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194418": {
+   "fragment_id": "67135982",
+   "type": 11,
+   "heading": "Artigo 4.º — Transmissão do mandado de detenção europeu",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 4.º — Transmissão do mandado de detenção europeu\n\n1 - Quando se souber onde se encontra a pessoa procurada a autoridade judiciária de emissão pode transmitir o mandado de detenção europeu directamente à autoridade judiciária de execução.\n\n2 - A autoridade judiciária de emissão pode, em qualquer caso, decidir inserir a indicação da pessoa procurada no sistema de informação Schengen (SIS).\n\n3 - A inserção da indicação deve ser efetuada nos termos do disposto nos artigos 26.º a 31.º da Decisão 2007/533/JAI do Conselho, de 12 de junho de 2007, relativa ao estabelecimento, ao funcionamento e à utilização do Sistema de Informação Schengen de segunda geração (SIS II).\n\n4 - Uma indicação inserida no SIS produz os mesmos efeitos de um mandado de detenção europeu, desde que acompanhada das informações referidas no n.º 1 do artigo 3.º\n\n5 - As autoridades de polícia criminal que verifiquem a existência de uma indicação efectuada nos termos do número anterior procedem à detenção da pessoa procurada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194419": {
+   "fragment_id": "67135985",
+   "type": 11,
+   "heading": "Artigo 6.º — Transferência temporária e audição da pessoa procurada enquanto se aguarda a decisão sobre a execução do mandado",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 6.º — Transferência temporária e audição da pessoa procurada enquanto se aguarda a decisão sobre a execução do mandado\n\n1 - Sempre que o mandado de detenção europeu tenha sido emitido para efeitos de procedimento penal, a autoridade judiciária de emissão, enquanto se aguarda a decisão sobre a execução do mandado, pode solicitar à autoridade judiciária de execução que:\n\na) Se proceda à audição da pessoa procurada; ou\n\nb) Autorize a transferência temporária da pessoa procurada.\n\n2 - As condições em que se realiza a audição da pessoa procurada e as condições e duração da transferência temporária são fixadas por acordo entre a autoridade judiciária de emissão e a autoridade judiciária de execução.\n\n3 - A pessoa procurada é ouvida pela autoridade judiciária de emissão, coadjuvada pela pessoa designada em conformidade com o direito do Estado membro de emissão, nos casos em que tenha sido concedida a transferência temporária a que se refere a alínea a) do n.º 1.\n\n4 - A pessoa procurada é ouvida nos termos previstos na legislação no Estado membro de execução e as condições são fixadas por acordo entre a autoridade judiciária de emissão e a autoridade judiciária de execução.\n\n5 - A autoridade judiciária de execução competente pode designar uma outra autoridade judiciária do seu Estado para tomar parte na audição da pessoa procurada, no sentido de assegurar a correta aplicação da disciplina jurídica estabelecida pelos n.os 3 e 4 e das condições acordadas com a autoridade judiciária de emissão.\n\n6 - Em caso de transferência temporária, a pessoa procurada deve poder regressar ao Estado membro de execução para assistir às audiências que tenham lugar no âmbito do processo de execução do mandado de detenção europeu.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194423": {
+   "fragment_id": "67135986",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípio da especialidade",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 7.º — Princípio da especialidade\n\n1 - A pessoa entregue em cumprimento de um mandado de detenção europeu não pode ser sujeita a procedimento penal, condenada ou privada de liberdade por uma infracção praticada em momento anterior à sua entrega e diferente daquela que motivou a emissão do mandado de detenção europeu.\n\n2 - O disposto no número anterior não se aplica quando:\n\na) A pessoa entregue, tendo a possibilidade de abandonar o território do Estado membro de emissão não o fizer num prazo de 45 dias a contar da extinção definitiva da sua responsabilidade penal, ou regressar a esse território após o ter abandonado;\n\nb) A infracção não for punível com pena ou medida de segurança privativas da liberdade;\n\nc) O procedimento penal não der lugar à aplicação de uma medida restritiva da liberdade individual;\n\nd) A pessoa entregue seja sujeita a pena ou medida não privativas da liberdade, nomeadamente uma sanção pecuniária ou uma medida alternativa, mesmo se esta pena ou medida forem susceptíveis de restringir a sua liberdade individual;\n\ne) A pessoa, previamente à sua entrega, tenha nela consentido e renunciado ao benefício da regra da especialidade perante a autoridade judiciária de execução;\n\nf) A pessoa, após ter sido entregue, tenha renunciado expressamente ao benefício da regra da especialidade no que diz respeito a determinados factos praticados em data anterior à sua entrega;\n\ng) Exista consentimento da autoridade judiciária de execução que proferiu a decisão de entrega.\n\n3 - Se o Estado membro de emissão for o Estado português, a renúncia prevista na alínea f) do número anterior deve:\n\na) Ser feita perante o tribunal da relação da área onde a pessoa residir ou se encontrar;\n\nb) Ser exarada em auto assinado pela pessoa e redigida por forma a demonstrar que essa pessoa foi informada dos factos e das suas consequências jurídicas e expressou a sua renúncia voluntariamente e com plena consciência das consequências dessa renúncia;\n\nc) Ser prestada com a assistência de um defensor.\n\n4 - Se o Estado membro de execução for o Estado português, o consentimento a que se refere a alínea g) do n.º 2:\n\na) É prestado pelo tribunal da relação que proferiu a decisão de entrega;\n\nb) (Revogada.)\n\nc) Deve ser prestado sempre que esteja em causa infracção que permita a entrega, por aplicação do regime jurídico do mandado de detenção europeu;\n\nd) Deve ser recusado pelos motivos previstos no artigo 11.º, podendo ainda ser recusado apenas com os fundamentos previstos nos artigos 12.º e 12.º-A;\n\ne) Devem ser prestadas as garantias a que se refere o artigo 13.º, em relação às situações nele previstas;\n\nf) Deve ser prestado ou recusado no prazo de 30 dias a contar da data da recepção do pedido.\n\n5 - Se o Estado português for o Estado de emissão, é competente para solicitar o consentimento a que se refere a alínea g) do n.º 2 a autoridade judiciária com competência para o conhecimento da infração praticada em momento anterior à sua entrega e diferente daquela que motivou a emissão do mandado de detenção europeu.\n\n6 - O pedido de consentimento a que se refere a alínea g) do n.º 2 é apresentado pelo Estado membro de emissão ao Estado membro de execução acompanhado das informações referidas no n.º 1 do artigo 3.º e de uma tradução, nos termos do n.º 2 do artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194424": {
+   "fragment_id": "67135987",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrega ou extradição posterior",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 8.º — Entrega ou extradição posterior\n\n1 - A pessoa entregue a um Estado membro em execução de um mandado de detenção europeu pode, sem o consentimento do Estado membro de execução, ser entregue a outro Estado membro por força de um mandado de detenção europeu emitido por uma infracção praticada antes da sua entrega, nos seguintes casos:\n\na) Quando a pessoa procurada não beneficiar da regra da especialidade, nos termos das alíneas a), e), f) e g) do n.º 2 do artigo 7.º;\n\nb) Quando a pessoa procurada consinta na sua entrega a Estado membro diverso do Estado membro de execução, por força de um mandado de detenção europeu.\n\n2 - O consentimento previsto na alínea b) do número anterior deve:\n\na) Ser prestado perante as autoridades judiciárias competentes do Estado membro de emissão e registado em conformidade com o direito desse Estado;\n\nb) Ser redigido por forma a demonstrar que a pessoa o deu voluntariamente e com plena consciência das sua consequências;\n\nc) Ser prestado com a assistência de um defensor.\n\n3 - Se o Estado membro de emissão for o Estado Português, o consentimento a que se refere a alínea b) do n.º 1 é prestado perante o tribunal da relação da área do seu domicílio ou, se não o tiver, da área onde se encontrar a pessoa em causa, observando-se as formalidades previstas no artigo 18.º da presente lei, com as necessárias adaptações.\n\n4 - Se o Estado membro de execução for o Estado português, ao consentimento a que se refere a alínea g) do n.º 2 do artigo anterior é aplicável o disposto no n.º 4 do mesmo artigo.\n\n5 - O pedido de consentimento referido no número anterior é apresentado em conformidade com o disposto no artigo 4.º, acompanhado das informações referidas no n.º 1 do artigo 3.º e de uma tradução, nos termos do n.º 2 do mesmo artigo.\n\n6 - Sem prejuízo do disposto no n.º 1, uma pessoa que tenha sido entregue em execução de um mandado de detenção europeu não pode ser extraditada para um Estado terceiro sem o consentimento da autoridade judiciária de execução que proferiu a decisão de entrega.\n\n7 - O consentimento a que se refere o número anterior deve ser dado em conformidade com as convenções que vinculem esse Estado membro e de acordo com o direito desse Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194425": {
+   "fragment_id": "67135989",
+   "type": 11,
+   "heading": "Artigo 9.º — Autoridade central",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 9.º — Autoridade central\n\nÉ designada como autoridade central, para assistir as autoridades judiciárias competentes e demais efeitos previstos na presente lei, a Procuradoria-Geral da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194426": {
+   "fragment_id": "67135990",
+   "type": 11,
+   "heading": "Artigo 10.º — Desconto da detenção cumprida no Estado membro de execução",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 10.º — Desconto da detenção cumprida no Estado membro de execução\n\n1 - O período de tempo de detenção resultante da execução de um mandado de detenção europeu é descontado no período total de privação da liberdade a cumprir no Estado membro de emissão em virtude de uma condenação a uma pena ou medida de segurança.\n\n2 - Para o efeito do disposto no número anterior, no momento da entrega, a autoridade judiciária de execução transmite à autoridade judiciária de emissão todas as informações respeitantes ao período de tempo de detenção cumprido pela pessoa procurada em execução do mandado de detenção europeu.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194469": {
+   "fragment_id": "67135993",
+   "type": 11,
+   "heading": "Artigo 11.º — Causas de recusa de execução do mandado de detenção europeu",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 11.º — Causas de recusa de execução do mandado de detenção europeu\n\nA execução do mandado de detenção europeu será recusada quando:\n\na) A infracção que motiva a emissão do mandado de detenção europeu tiver sido amnistiada em Portugal, desde que os tribunais portugueses sejam competentes para o conhecimento da infracção;\n\nb) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei do Estado membro onde foi proferida a decisão;\n\nc) A pessoa procurada for inimputável em razão da idade, nos termos da lei portuguesa, em relação aos factos que motivam a emissão do mandado de detenção europeu;\n\nd) (Revogada).\n\ne) (Revogada).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194427": {
+   "fragment_id": "67135994",
+   "type": 11,
+   "heading": "Artigo 12.º — Causas de recusa facultativa de execução do mandado de detenção europeu",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 12.º — Causas de recusa facultativa de execução do mandado de detenção europeu\n\n1 - A execução do mandado de detenção europeu pode ser recusada quando:\n\na) O facto que motiva a emissão do mandado de detenção europeu não constituir infracção punível de acordo com a lei portuguesa, desde que se trate de infracção não incluída no n.º 2 do artigo 2.º;\n\nb) Estiver pendente em Portugal procedimento penal contra a pessoa procurada pelo facto que motiva a emissão do mandado de detenção europeu;\n\nc) Sendo os factos que motivam a emissão do mandado de detenção europeu do conhecimento do Ministério Público, não tiver sido instaurado ou tiver sido decidido pôr termo ao respetivo processo por arquivamento;\n\nd) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro em condições que obstem ao ulterior exercício da acção penal, fora dos casos previstos na alínea b) do artigo 11.º;\n\ne) Tiverem decorrido os prazos de prescrição do procedimento criminal ou da pena, de acordo com a lei portuguesa, desde que os tribunais portugueses sejam competentes para o conhecimento dos factos que motivam a emissão do mandado de detenção europeu;\n\nf) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado terceiro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei do Estado da condenação;\n\ng) A pessoa procurada se encontrar em território nacional, tiver nacionalidade portuguesa ou residir em Portugal, desde que o mandado de detenção tenha sido emitido para cumprimento de uma pena ou medida de segurança e o Estado Português se comprometa a executar aquela pena ou medida de segurança, de acordo com a lei portuguesa;\n\nh) O mandado de detenção europeu tiver por objecto infracção que:\n\ni) Segundo a lei portuguesa tenha sido cometida, em todo ou em parte, em território nacional ou a bordo de navios ou aeronaves portugueses; ou\n\nii) Tenha sido praticada fora do território do Estado membro de emissão desde que a lei penal portuguesa não seja aplicável aos mesmos factos quando praticados fora do território nacional.\n\n2 - A execução do mandado de detenção europeu não pode ser recusada, em matéria de contribuições e impostos, de alfândegas e de câmbios, com o fundamento previsto no n.º 1, pela circunstância de a legislação portuguesa não impor o mesmo tipo de contribuições ou impostos ou não prever o mesmo tipo de regulamentação em matéria de contribuições e impostos, de alfândegas e de câmbios que a legislação do Estado membro de emissão.\n\n3 - A recusa de execução nos termos da alínea g) do n.º 1 depende de decisão do tribunal da relação, no processo de execução do mandado de detenção europeu, a requerimento do Ministério Público, que declare a sentença exequível em Portugal, confirmando a pena aplicada.\n\n4 - A decisão a que se refere o número anterior é incluída na decisão de recusa de execução, sendo-lhe aplicável, com as devidas adaptações, o regime relativo à revisão e confirmação de sentenças condenatórias estrangeiras.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194410": {
+   "fragment_id": "67194330",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Decisões proferidas na sequência de um julgamento no qual o arguido não tenha estado presente",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 12.º-A — Decisões proferidas na sequência de um julgamento no qual o arguido não tenha estado presente\n\n1 - A execução do mandado de detenção europeu emitido para efeitos de cumprimento de uma pena ou medida de segurança privativas da liberdade pode ser recusada se a pessoa não tiver estado presente no julgamento que conduziu à decisão, a menos que do mandado conste que a pessoa, em conformidade com a legislação do Estado membro de emissão:\n\na) Foi notificada pessoalmente da data e do local previstos para o julgamento que conduziu à decisão, ou recebeu informação oficial da data e do local previstos para o julgamento, de uma forma que deixou inequivocamente estabelecido que tinha conhecimento do julgamento previsto e de que podia ser proferida uma decisão mesmo não estando presente no julgamento; ou\n\nb) Tendo conhecimento do julgamento previsto, conferiu mandato a um defensor por si designado ou pelo Estado para a sua defesa e foi efetivamente representado por esse defensor no julgamento; ou\n\nc) Depois de ter sido notificada da decisão e expressamente informada do direito a novo julgamento ou a recurso que permita a reapreciação do mérito da causa, incluindo de novas provas, que pode conduzir a uma decisão distinta da inicial, declarou expressamente que não contestava a decisão ou não requereu novo julgamento ou recurso dentro do prazo aplicável; ou\n\nd) Não foi notificada pessoalmente da decisão, mas na sequência da sua entrega ao Estado de emissão é expressamente informada de imediato do direito que lhe assiste a novo julgamento ou a recurso que permita a reapreciação do mérito da causa, incluindo apreciação de novas provas, que podem conduzir a uma decisão distinta da inicial, bem como dos respetivos prazos.\n\n2 - No caso de o mandado de detenção europeu ser emitido nas condições da alínea d) do número anterior, e de a pessoa em causa não ter recebido qualquer informação oficial prévia sobre a existência do processo penal que lhe foi instaurado, nem ter sido notificada da decisão, ao ser informada sobre o teor do mandado de detenção europeu pode a mesma requerer que lhe seja facultada cópia da decisão antes da sua entrega ao Estado membro de emissão.\n\n3 - Para efeitos do disposto no número anterior, logo após ter sido informada do requerimento, a autoridade judiciária de emissão faculta, a título informativo, cópia da decisão por intermédio da autoridade judiciária de execução, sem que tal implique atraso no processo ou retarde a entrega, não sendo esta comunicação considerada como uma notificação formal da decisão nem relevante para a contagem de quaisquer prazos aplicáveis para requerer novo julgamento ou interpor recurso.\n\n4 - No caso de a pessoa ser entregue nas condições da alínea d) do n.º 1 e ter requerido um novo julgamento ou interposto recurso, a detenção desta é, até estarem concluídos tais trâmites, revista em conformidade com a legislação do Estado membro de emissão, quer oficiosamente, quer a pedido da pessoa em causa.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194429": {
+   "fragment_id": "67135995",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantias a fornecer pelo Estado membro de emissão em casos especiais",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 13.º — Garantias a fornecer pelo Estado membro de emissão em casos especiais\n\n1- A execução do mandado de detenção europeu só terá lugar se o Estado membro de emissão prestar uma das seguintes garantias:\n\na) Quando a infracção que motiva a emissão do mandado de detenção europeu for punível com pena ou medida de segurança privativas da liberdade com carácter perpétuo, só será proferida decisão de entrega se estiver prevista no sistema jurídico do Estado membro de emissão uma revisão da pena aplicada, a pedido ou o mais tardar no prazo de 20 anos, ou a aplicação das medidas de clemência a que a pessoa procurada tenha direito nos termos do direito ou da prática do Estado membro de emissão, com vista a que tal pena ou medida não seja executada;\n\nb) Quando a pessoa procurada para efeitos de procedimento penal for nacional ou residente no Estado membro de execução, a decisão de entrega pode ficar sujeita à condição de que a pessoa procurada, após ter sido ouvida, seja devolvida ao Estado membro de execução para nele cumprir a pena ou a medida de segurança privativas da liberdade a que foi condenada no Estado membro de emissão.\n\n2 - À situação prevista na alínea b) do número anterior é aplicável o disposto nos n.os 3 e 4 do artigo 12.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194412": {
+   "fragment_id": "67135996",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações internacionais concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações internacionais concorrentes\n\n1 - O regime jurídico do mandado de detenção europeu não prejudica as obrigações assumidas pelo Estado Português sempre que a pessoa procurada tenha sido extraditada para Portugal a partir de um terceiro Estado e esteja protegida por disposições em matéria de especialidade do acordo ao abrigo do qual foi extraditada.\n\n2 - No caso previsto no número anterior serão tomadas pela autoridade judiciária de execução todas as medidas necessárias para solicitar imediatamente o consentimento do Estado de onde a pessoa procurada foi extraditada, por forma que esta possa ser entregue ao Estado membro de emissão.\n\n3 - Os prazos estabelecidos no artigo 26.º só começam a correr a partir da data em que as regras de especialidade deixarem de vigorar.\n\n4 - Serão asseguradas as condições materiais necessárias para a entrega efectiva da pessoa procurada enquanto se aguardar a decisão do Estado de onde foi extraditada."
+  },
+  "67194465": {
+   "fragment_id": "67136012",
+   "type": 11,
+   "heading": "Artigo 29.º — Prazo para a entrega da pessoa procurada",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 29.º — Prazo para a entrega da pessoa procurada\n\n1 - A pessoa procurada deve ser entregue no mais curto prazo possível, numa data acordada entre o tribunal e a autoridade judiciária de emissão.\n\n2 - A entrega deve ter lugar no prazo máximo de 10 dias, a contar da decisão definitiva de execução do mandado de detenção europeu.\n\n3 - Se for impossível a entrega da pessoa procurada no prazo previsto no número anterior, em virtude de facto de força maior que ocorra num dos Estados membros, o tribunal e a autoridade judiciária de emissão estabelecem de imediato os contactos necessários para ser acordada uma nova data de entrega, a qual deverá ter lugar no prazo de 10 dias a contar da nova data acordada.\n\n4 - A entrega pode ser temporariamente suspensa por motivos humanitários graves, nomeadamente por existirem motivos sérios para considerar que a entrega colocaria manifestamente em perigo a vida ou a saúde da pessoa procurada.\n\n5 - O tribunal informa de imediato a autoridade judiciária de emissão da cessação dos motivos que determinaram a suspensão temporária da entrega da pessoa procurada e é acordada uma nova data de entrega, a qual deverá ter lugar no prazo de 10 dias a contar da nova data acordada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194466": {
+   "fragment_id": "67136023",
+   "type": 11,
+   "heading": "Artigo 38.º — Trânsito",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 38.º — Trânsito\n\n1 - É facultado o trânsito, pelo território ou pelo espaço aéreo nacional, para efeitos de entrega de uma pessoa procurada, desde que não se trate de cidadão nacional ou pessoa residente em território nacional, destinando-se a entrega ao cumprimento de pena ou medida de segurança privativas da liberdade quando sejam comunicados os seguintes elementos:\n\na) A identidade e a nacionalidade da pessoa sobre a qual recai o mandado de detenção europeu;\n\nb) A existência de um mandado de detenção europeu;\n\nc) A natureza e a qualificação jurídica da infracção;\n\nd) A descrição das circunstâncias em que a infracção foi praticada, incluindo a data e o lugar.\n\n2 - Se a pessoa sobre a qual recai o mandado de detenção europeu para efeitos de procedimento penal tiver a nacionalidade portuguesa ou residir em território nacional, a autorização do trânsito pode ficar sujeita à condição de que a pessoa, após ter sido ouvida, seja restituída para cumprimento da pena ou medida de segurança privativas da liberdade a que venha a ser condenada no Estado membro de emissão.\n\n3 - O pedido de trânsito pode ser comunicado à autoridade central por qualquer meio que permita conservar um registo escrito.\n\n4 - A decisão sobre o pedido de trânsito é comunicada pelo mesmo procedimento.\n\n5 - Os pedidos de trânsito a que se referem os n.os 2 e 3 são transmitidos pela autoridade central ao Ministério Público no tribunal da relação competente, o qual, colhidas as informações necessárias, decide no mais curto prazo, compatível com a efetivação do trânsito.\n\n6 - O tribunal da relação competente, para o efeito previsto no número anterior, é o do lugar onde se verificar ou tiver início o trânsito da pessoa procurada em território nacional.\n\n7 - O pedido de trânsito só pode ser recusado nos casos previstos no artigo 11.º\n\n8 - O disposto neste artigo não se aplica em caso de trânsito por via aérea sem que esteja prevista uma aterragem em território nacional.\n\n9 - Em caso de aterragem imprevista o Estado membro de emissão deve comunicar os elementos previstos no n.º 1.\n\n10 - O regime estabelecido no presente artigo é aplicável, com as necessárias adaptações, ao trânsito de pessoa extraditada de um país terceiro para um Estado membro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "67194468": {
+   "fragment_id": "67136027",
+   "type": 14,
+   "heading": "Anexo — Mandado de detenção europeu",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "## Anexo — Mandado de detenção europeu\n\nMandado de detenção europeu\n\nO presente mandado foi emitido por uma autoridade judiciária competente. Solicita-se a detenção do indivíduo abaixo indicado e a sua entrega às autoridades judiciárias para efeitos de procedimento penal ou de cumprimento de uma pena ou medida de segurança privativas da liberdade.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "124667552": {
+   "fragment_id": "67135985",
+   "type": 11,
+   "heading": "Artigo 6.º — Transferência temporária e audição da pessoa procurada enquanto se aguarda a decisão sobre a execução do mandado",
+   "in_force_from": "2019-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 6.º — Transferência temporária e audição da pessoa procurada enquanto se aguarda a decisão sobre a execução do mandado\n\n1 - Sempre que o mandado de detenção europeu tenha sido emitido para efeitos de procedimento penal e, para qualquer uma das finalidades seguintes, tenha sido emitida e reconhecida uma decisão europeia de investigação, a autoridade judiciária de execução do mandado de detenção europeu, enquanto se aguarda a decisão sobre a execução do mandado, pode aceitar que:\n\na) Se proceda à audição da pessoa procurada; ou\n\nb) Autorize a transferência temporária da pessoa procurada.\n\n2 - As condições em que se realiza a audição da pessoa procurada e as condições e a duração da transferência temporária observam o disposto na Lei n.º 88/2017, de 21 de agosto.\n\n3 -Em caso de transferência temporária, a pessoa procurada deve poder regressar ao Estado membro de execução para assistir às audiências que tenham lugar no âmbito do processo de execução do mandado de detenção europeu.\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "124667553": {
+   "fragment_id": "67135993",
+   "type": 11,
+   "heading": "Artigo 11.º — Motivos de não execução obrigatória do mandado de detenção europeu",
+   "in_force_from": "2019-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 11.º — Motivos de não execução obrigatória do mandado de detenção europeu\n\nA execução do mandado de detenção europeu é recusada quando:\n\na) A infracção que motiva a emissão do mandado de detenção europeu tiver sido amnistiada em Portugal, desde que os tribunais portugueses sejam competentes para o conhecimento da infracção;\n\nb) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei do Estado membro onde foi proferida a decisão;\n\nc) A pessoa procurada for inimputável em razão da idade, nos termos da lei portuguesa, em relação aos factos que motivam a emissão do mandado de detenção europeu;\n\nd) (Revogada).\n\ne) (Revogada).\n\nf) O facto que motiva a emissão do mandado de detenção europeu não constituir infração punível de acordo com a lei portuguesa, desde que se trate de infração não incluída no n.º 2 do artigo 2.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "124667554": {
+   "fragment_id": "67135994",
+   "type": 11,
+   "heading": "Artigo 12.º — Motivos de não execução facultativa do mandado de detenção europeu",
+   "in_force_from": "2019-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 12.º — Motivos de não execução facultativa do mandado de detenção europeu\n\n1 - A execução do mandado de detenção europeu pode ser recusada quando:\n\na) (Revogada.)\n\nb) Estiver pendente em Portugal procedimento penal contra a pessoa procurada pelo facto que motiva a emissão do mandado de detenção europeu;\n\nc) Sendo os factos que motivam a emissão do mandado de detenção europeu do conhecimento do Ministério Público, não tiver sido instaurado ou tiver sido decidido pôr termo ao respetivo processo por arquivamento;\n\nd) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro em condições que obstem ao ulterior exercício da acção penal, fora dos casos previstos na alínea b) do artigo 11.º;\n\ne) Tiverem decorrido os prazos de prescrição do procedimento criminal ou da pena, de acordo com a lei portuguesa, desde que os tribunais portugueses sejam competentes para o conhecimento dos factos que motivam a emissão do mandado de detenção europeu;\n\nf) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado terceiro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei do Estado da condenação;\n\ng) A pessoa procurada se encontrar em território nacional, tiver nacionalidade portuguesa ou residir em Portugal, desde que o mandado de detenção tenha sido emitido para cumprimento de uma pena ou medida de segurança e o Estado Português se comprometa a executar aquela pena ou medida de segurança, de acordo com a lei portuguesa;\n\nh) O mandado de detenção europeu tiver por objecto infracção que:\n\ni) Segundo a lei portuguesa tenha sido cometida, em todo ou em parte, em território nacional ou a bordo de navios ou aeronaves portugueses; ou\n\nii) Tenha sido praticada fora do território do Estado membro de emissão desde que a lei penal portuguesa não seja aplicável aos mesmos factos quando praticados fora do território nacional.\n\n2 - A execução do mandado de detenção europeu não pode ser recusada, em matéria de contribuições e impostos, de alfândegas e de câmbios, com o fundamento previsto no n.º 1, pela circunstância de a legislação portuguesa não impor o mesmo tipo de contribuições ou impostos ou não prever o mesmo tipo de regulamentação em matéria de contribuições e impostos, de alfândegas e de câmbios que a legislação do Estado membro de emissão.\n\n3 - A recusa de execução nos termos da alínea g) do n.º 1 depende de decisão do tribunal da relação, no processo de execução do mandado de detenção europeu, a requerimento do Ministério Público, que declare a sentença exequível em Portugal, confirmando a pena aplicada.\n\n4 - A decisão a que se refere o número anterior é incluída na decisão de recusa de execução, sendo-lhe aplicável, com as devidas adaptações, o regime relativo ao reconhecimento de sentenças penais que imponham penas de prisão ou medidas privativas da liberdade no âmbito da União Europeia, devendo a autoridade judiciária de execução, para este efeito, solicitar a transmissão da sentença.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "124667555": {
+   "fragment_id": "67135995",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantias a fornecer pelo Estado membro de emissão em casos especiais",
+   "in_force_from": "2019-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 13.º — Garantias a fornecer pelo Estado membro de emissão em casos especiais\n\n1- A execução do mandado de detenção europeu só terá lugar se o Estado membro de emissão prestar uma das seguintes garantias:\n\na) Quando a infracção que motiva a emissão do mandado de detenção europeu for punível com pena ou medida de segurança privativas da liberdade com carácter perpétuo, só será proferida decisão de entrega se estiver prevista no sistema jurídico do Estado membro de emissão uma revisão da pena aplicada, a pedido ou o mais tardar no prazo de 20 anos, ou a aplicação das medidas de clemência a que a pessoa procurada tenha direito nos termos do direito ou da prática do Estado membro de emissão, com vista a que tal pena ou medida não seja executada;\n\nb) Quando a pessoa procurada para efeitos de procedimento penal for nacional ou residente no Estado membro de execução, a decisão de entrega pode ficar sujeita à condição de que a pessoa procurada, após ter sido ouvida, seja devolvida ao Estado membro de execução para nele cumprir a pena ou a medida de segurança privativas da liberdade a que foi condenada no Estado membro de emissão.\n\n2 - À situação prevista na alínea b) do número anterior é correspondentemente aplicável o disposto na parte final do n.º 4 do artigo 12.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "124667556": {
+   "fragment_id": "67136000",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos do detido",
+   "in_force_from": "2019-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12"
+   ],
+   "markdown": "###### Artigo 17.º — Direitos do detido\n\n1 - A pessoa procurada é informada, quando for detida, da existência e do conteúdo do mandado de detenção europeu, bem como da possibilidade de consentir ou não consentir em ser entregue à autoridade judiciária de emissão.\n\n2 - O detido tem direito a ser assistido por defensor.\n\n3 - Quando o detido não conheça ou não domine a língua portuguesa é nomeado, sem qualquer encargo para ele, intérprete idóneo.\n\n4 - É correspondentemente aplicável o disposto nos artigos 57.º a 67.º do Código de Processo Penal, devendo ser entregue à pessoa procurada, quando for detida, documento de que constem os direitos referidos nos números anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12"
+  },
+  "220943349": {
+   "fragment_id": "220948672",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Informação sobre direito a constituir advogado",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+   ],
+   "markdown": "###### Artigo 10.º-A — Informação sobre direito a constituir advogado\n\nSempre que seja transmitido pelo Estado-Membro de execução que o detido pretende exercer o direito a constituir advogado no Estado-Membro de emissão, é transmitida ao Estado-Membro de execução, sem demora injustificada, informação que ajude o detido a exercer esse direito.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+  },
+  "220943354": {
+   "fragment_id": "67135993",
+   "type": 11,
+   "heading": "Artigo 11.º — Motivos de não execução obrigatória do mandado de detenção europeu",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+   ],
+   "markdown": "###### Artigo 11.º — Motivos de não execução obrigatória do mandado de detenção europeu\n\nA execução do mandado de detenção europeu é recusada quando:\n\na) A infracção que motiva a emissão do mandado de detenção europeu tiver sido amnistiada em Portugal, desde que os tribunais portugueses sejam competentes para o conhecimento da infracção;\n\nb) A pessoa procurada tiver sido definitivamente julgada pelos mesmos factos por um Estado membro desde que, em caso de condenação, a pena tenha sido integralmente cumprida, esteja a ser executada ou já não possa ser cumprida segundo a lei do Estado membro onde foi proferida a decisão;\n\nc) A pessoa procurada for inimputável em razão da idade, nos termos da lei portuguesa, em relação aos factos que motivam a emissão do mandado de detenção europeu;\n\nd) (Revogada).\n\ne) (Revogada).\n\nf) (Revogada.)\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2015 - Diário da República n.º 85/2015, Série I de 2015-05-04](https://diariodarepublica.pt/dr/detalhe/lei/35-2015-67123262), em vigor a partir de 2015-06-03"
+  },
+  "220943350": {
+   "fragment_id": "67136000",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos do detido",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12"
+   ],
+   "markdown": "###### Artigo 17.º — Direitos do detido\n\n1 - A pessoa procurada é informada, quando for detida, da existência e do conteúdo do mandado de detenção europeu, bem como da possibilidade de consentir ou não consentir em ser entregue à autoridade judiciária de emissão.\n\n2 - O detido tem direito a ser assistido por defensor e a ser informado sobre o direito a constituir advogado no Estado-Membro de emissão, para auxílio do defensor nomeado ou do advogado constituído em território nacional.\n\n3 - Quando o detido não conheça ou não domine a língua portuguesa é nomeado, sem qualquer encargo para ele, intérprete idóneo.\n\n4 - É correspondentemente aplicável o disposto nos artigos 57.º a 67.º do Código de Processo Penal, devendo ser entregue à pessoa procurada, quando for detida, documento de que constem os direitos referidos nos números anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 115/2019 - Diário da República n.º 175/2019, Série I de 2019-09-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2019-124642986), em vigor a partir de 2019-10-12"
+  },
+  "220943351": {
+   "fragment_id": "67136001",
+   "type": 11,
+   "heading": "Artigo 18.º — Audição do detido",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+   ],
+   "markdown": "###### Artigo 18.º — Audição do detido\n\n1 - A entidade que proceder à detenção comunica-a de imediato, pela via mais expedita e que permita o registo por escrito, ao Ministério Público junto do tribunal da relação competente.\n\n2 - A pessoa procurada é apresentada ao Ministério Público, para audição pessoal, imediatamente ou no mais curto prazo possível.\n\n3 - O juiz relator procede à audição do detido, no prazo máximo de quarenta e oito horas após a detenção, e decide sobre a validade e manutenção desta, podendo aplicar-lhe medida de coacção prevista no Código de Processo Penal.\n\n4 - O juiz relator nomeia previamente defensor ao detido, se não tiver advogado constituído, e informa-o sobre o direito a constituir advogado no Estado-Membro de emissão, para auxílio do defensor nomeado ou do advogado constituído em território nacional.\n\n5 - O juiz relator procede à identificação do detido, elucidando-o sobre a existência e o conteúdo do mandado de detenção europeu e sobre o direito de se opor à execução do mandado ou de consentir nela e os termos em que o pode fazer, bem como sobre a faculdade de renunciar ao benefício da regra da especialidade.\n\n6 - O consentimento na entrega à autoridade judiciária de emissão prestado pelo detido, o teor da informação que lhe foi transmitida sobre a regra da especialidade e a declaração do detido são exarados em auto, assinado pela pessoa procurada e pelo seu defensor ou advogado constituído.\n\n7 - Sempre que, nos termos do n.º 4, o detido declare pretender exercer o direito a constituir advogado no Estado-Membro de emissão, é prontamente informada a autoridade competente daquele Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+  },
+  "220943352": {
+   "fragment_id": "67136009",
+   "type": 11,
+   "heading": "Artigo 26.º — Prazos e regras relativos à decisão sobre a execução do mandado de detenção europeu",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+   ],
+   "markdown": "###### Artigo 26.º — Prazos e regras relativos à decisão sobre a execução do mandado de detenção europeu\n\n1 - Se a pessoa procurada consentir na sua entrega ao Estado membro de emissão, a decisão definitiva sobre a execução do mandado de detenção europeu deve ser tomada no prazo de 10 dias a contar da data em que foi prestado o consentimento.\n\n2 - Nos outros casos a decisão definitiva sobre a execução do mandado de detenção europeu deve ser tomada no prazo de 60 dias após a detenção da pessoa procurada.\n\n3 - Quando o mandado de detenção europeu não puder ser executado nos prazos previstos nos n.os 1 ou 2, a autoridade judiciária de emissão é informada do facto e das suas razões, podendo os prazos ser prorrogados por mais 30 dias.\n\n4 - Serão asseguradas as condições materiais necessárias para a entrega efectiva da pessoa procurada enquanto não for tomada uma decisão definitiva sobre a execução do mandado de detenção europeu.\n\n5 - Sempre que, devido a circunstâncias excepcionais, não for possível cumprir os prazos fixados no presente artigo, a Procuradoria-Geral da República informará a EUROJUST do facto e das suas razões.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+  },
+  "220943353": {
+   "fragment_id": "67136013",
+   "type": 11,
+   "heading": "Artigo 30.º — Prazos de duração máxima da detenção",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+   ],
+   "markdown": "###### Artigo 30.º — Prazos de duração máxima da detenção\n\n1 - A detenção da pessoa procurada cessa quando, desde o seu início, tiverem decorrido 60 dias sem que seja proferida pelo tribunal da relação decisão sobre a execução do mandado de detenção europeu, podendo ser substituída por medida de coacção prevista no Código de Processo Penal.\n\n2 - O prazo previsto no número anterior é elevado para 90 dias se for interposto recurso da decisão sobre a execução do mandado de detenção europeu proferida pelo tribunal da relação.\n\n3 - Os prazos previstos nos números anteriores são elevados para 150 dias se for interposto recurso para o Tribunal Constitucional.\n\n5 - A detenção da pessoa procurada cessa ainda quando tiverem decorrido os prazos referidos nos n.os 2, 3 e 5 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2023 - Diário da República n.º 166/2023, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/lei/52-2023-220949539), em vigor a partir de 2023-08-29"
+  }
+ }
+}

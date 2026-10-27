@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:220942:por
+title: Portaria n.º 680/71
+short_title: null
+summary: Estabelece as normas destinadas a regular a importação de batata de semente e a protecção à batata de semente nacional
+  - Revoga as Portarias n.os 20855 e 23724
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Comissão de Coordenação Económica
+proposing_entity: null
+official_number: 680/71
+official_date: null
+publication_date: '1971-12-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 286/1971, 1º Suplemento, Série I de 1971-12-07
+  number: '286'
+  series: I
+  supplement: null
+  pages: 1890-(22) a 1890-(23)
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28601/00220023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '220942'
+  dre_path: /dr/detalhe/portaria/680-1971-220942
+  internal: pt:dre:220942:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1971-220942
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1971-220942
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 54118424861e1a738d174cce0f7375f3ffad826f8a39ec6812df1ef1269406a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:472724:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:439600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637463:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:38:47Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 680/71
+
+de 7 de Dezembro
+
+Embora mantendo-se, na generalidade, os princípios consignados nas Portarias n.os 20855 e 23724, respectivamente de 20 de Outubro de 1964 e 22 de Novembro de 1968, afigura-se conveniente incluir numa portaria única as normas que regulam a importação de batata de semente e a protecção à batata de semente nacional, adaptando-as ao condicionalismo de cada campanha.
+
+Nestes termos, com fundamento no disposto nos Decretos-Leis n.os 36665, 38747 e 45835, respectivamente de 10 de Dezembro de 1947, 10 de Maio de 1952 e 27 de Julho de 1964:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:
+
+1.º É livre a importação de todas as variedades de batata de semente incluídas na lista a que se refere o artigo 20.º do [Decreto-Lei n.º 36665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36665-1947-637463), de 10 de Dezembro de 1947.
+
+2.º A importação da batata de semente das variedades Arran-Banner e Arran-Consul será efectuada segundo o regime de contingentes, estabelecendo-se para estes os quantitativos, respectivamente, de 3000 t e 5000 t.
+
+3.º Se as circunstâncias o aconselharem, a Junta Nacional das Frutas poderá escalonar no tempo a importação das variedades referidas no número anterior, a efectuar ao abrigo dos contingentes globais no mesmo fixados.
+
+4.º Os importadores terão direito à importação de uma parte dos contingentes estabelecidos para as variedades Arran-Banner e Arran-Consul proporcional à média das importações de todas as variedades efectuadas nos últimos cinco anos pelos próprios.
+
+5.º Não será autorizada a importação de batata de semente da classe C ou de classes correspondentes e inferiores, nem de tubérculos que passem pela malha quadrada de 28 mm ou que não passem pela malha quadrada de 60 mm de lado.
+
+6.º Mantém-se em 3 por cento a tolerância em peso por saco de 50 kg de batata.
+
+7.º Serão aplicados à batata de semente importar, com excepção das classes Élite ou equivalentes e superiores, os seguintes diferenciais:
+
+a) De 80$00/saco de 50 kg para as variedades Arran-Banner e Voran;
+
+b) De 60$00/saco de 50 kg para a variedade Arran-Consul;
+
+c) De 20$00/saco de 50 kg para as variedades restantes.
+
+8.º O diferencial aplicado à variedade Voran será restituído aos produtores que provem, mediante documento autenticado pelos industriais, ter entregue a respectiva produção à indústria de amido, numa relação semente/produção a definir pela Junta Nacional das Frutas.
+
+9.º O produto dos diferenciais cobrados nos termos do n.º 7.º desta portaria, deduzidas as despesas de administração, reverterá para um fundo administrado pela Junta Nacional das Frutas destinado às intervenções necessárias para regularizar os preços da batata (Fundo para Regularização de Preços de Batata).
+
+10.º O pagamento dos diferenciais constituirá uma das condições prévias para o licenciamento da importação de batata de semente e será efectuado por meio de guia de depósito na Caixa Geral de Depósitos, Crédito e Previdência passada pela Junta Nacional das Frutas, não podendo as importâncias depositadas ser movimentadas sem prévia autorização do Secretário de Estado do Comércio.
+
+11.º A protecção à batata de semente nacional consistirá um subsidio, a retirar do fundo constituído pelos diferenciais da batata de semente, igual ao produto das quantidades médias de batata das classes A e B certificadas nos últimos cinco anos, de acordo com as indicações a fornecer pela Repartição dos Serviços Fitopatológicos da Direcção-Geral dos Serviços Agrícolas, pelos preços, respectivamente, de 1500$00 e 1000$00 por tonelada.
+
+12.º A Junta distribuirá este subsídio global pelas diferentes cooperativas, proporcionalmente às quantidades de batata das classes A e B certificadas na presente campanha, segundo os números fornecidos pela Repartição dos Serviços Fitopatológicos, devendo a quota-parte de cada uma ser distribuída pelos respectivos associados proporcionalmente às suas produções, de modo que a classe A seja beneficiada com um subsídio superior em 50 por cento ao atribuído à classe B.
+
+13.º Os importadores assegurarão o escoamento de 40 por cento da produção de batata de semente nacional.
+
+14.º Para o efeito previsto no número anterior, o direito à importação dos contingentes estabelecidos no n.º 2.º desta portaria só será concedido aos importadores que tenham feito prova, perante a Junta Nacional das frutas, de que adquiriram a uma ou mais cooperativas de produtores de batata de semente nacional o correspondente ao boletim ou boletins que pretendam visar até ao quantitativo proporcional à quota que lhes couber relativamente aos 40 por cento da produção a que se refere o número antecedente.
+
+15.º Beneficiam de isenção da taxa de $10/kg instituída pela [Portaria n.º 17433](https://diariodarepublica.pt/dr/detalhe/portaria/17433-1959-439600), de 18 de Novembro de 1959, desde que cheguem aos portos do continente até 15 de Dezembro do ano em curso, as seguintes variedades:
+
+Anita, Agnes, Ari, Arran Pilot, Aurélia, Bem, Beta, Bintje, Carla, Cosina, Craigs Alliance, Daroli, Desirée, Diana, Eersteling (ou Duque of York), Eigenheimer, Epoka, Fina, Grata, Heiko, Hela, Home Guard, Immgard, Isola, Kerne, King Edward, Knik, Mador, Mirka, Nervia, Santa Lucia (ou Oberanbacher Frühe), Opus, Ostara, Passat, Pentland Beauty, Poet, Record, Riek, Sientje, Tombola, Turma, Valdor, Valuta e Wigro.
+
+16.º A Junta Nacional das Frutas expedirá as instruções necessárias ao cumprimento dos preceitos anteriores.
+
+17.º São revogadas as Portarias n.os 20855, de 20 de Outubro de 1964, e 23724, de 22 de Novembro de 1968.
+
+Pelo Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto, Subsecretário de Estado do Comércio.

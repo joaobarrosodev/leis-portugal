@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:611358:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2010-907600474",
+ "dre_path": "/dr/detalhe/aviso/54-2010-611358",
+ "source_lastmod": "2025-02-14",
+ "versions": [
+  {
+   "date": "2010-03-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907586558"
+   ]
+  }
+ ],
+ "fragments": {
+  "907586558": {
+   "fragment_id": "907624775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 54/2010\n\nPor ordem superior se torna público ter a República Portuguesa depositado, em 27 de Março de 2009, junto do Governo dos Estados Unidos da América, em Washington, o instrumento de ratificação do Protocolo de Adesão da República da Albânia ao Tratado do Atlântico Norte, assinado em Bruxelas em 9 de Julho de 2008.\n\nO Protocolo de Adesão da República da Albânia ao Tratado do Atlântico Norte foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 15/2009 e ratificado pelo Decreto do Presidente da República n.º 19/2009, ambos publicados no Diário da República, 1.ª série, n.º 55, de 19 de Março de 2009.\n\nNos termos do artigo ii do referido Protocolo, o mesmo entrou em vigor em 27 de Março de 2009."
+  }
+ }
+}

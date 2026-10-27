@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:283161:por
+title: Despacho Normativo n.º 6/88
+short_title: null
+summary: Atribui à Secção Regional do Tribunal de Contas da Região Autónoma da Madeira no ano económico de 1988 uma quota
+  de descongelamento
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 6/88
+official_date: null
+publication_date: '1988-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/1988, Série I de 1988-02-15
+  number: '38'
+  series: I
+  supplement: null
+  pages: 528 - 528
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03800/05280528.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '283161'
+  dre_path: /dr/detalhe/despacho-normativo/6-1988-283161
+  internal: pt:dre:283161:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1988-283161
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1988-283161
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5fcdaf62be24f12a1dce6f7f7c91f2f5ad7a89cf7f95be4c1282c6aebc80357f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Madeira.região Autónoma
+- Quota de Descongelamento
+- Secção Regional do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:40:35Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 6/88
+
+Tornando-se indispensável admitir, através de concurso externo, pessoal para a Secção Regional do Tribunal de Contas da Região Autónoma da Madeira, por forma a colmatar as insuficiências da oferta do mercado dos vinculados à função pública e assegurar um mais vasto leque de opções e um recrutamento e selecção consentâneos com a qualidade exigida aos serviços, no âmbito da prossecução da fiscalização da legalidade das despesas públicas da Região Autónoma da Madeira:
+
+Nestes termos, e mediante proposta do juiz da Secção:
+
+Determina-se, ao abrigo dos artigos 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, com a alteração introduzida pelo [Decreto-Lei n.º 215/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775), de 29 de Maio, que seja atribuída à Secção Regional do Tribunal de Contas da Região Autónoma da Madeira no ano económico de 1988 a quota de descongelamento decorrente do mapa anexo ao presente despacho.
+
+Presidência do Conselho de Ministros e Ministério das Finanças, 29 de Janeiro de 1988. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
+
+Quotas de descongelamento - 1988
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03800/05280528.pdf)

@@ -1,0 +1,2619 @@
+---
+schema_version: '1.0'
+id: pt:dre:683861:por
+title: Decreto-Lei n.º 29/2006
+short_title: null
+summary: Estabelece os princípios gerais relativos à organização e funcionamento do sistema eléctrico nacional, bem como ao
+  exercício das actividades de produção, transporte, distribuição e comercialização de electricidade e à organização dos mercados
+  de electricidade, transpondo para a ordem jurídica interna os princípios da Directiva n.º 2003/54/CE, do Parlamento Europeu
+  e do Conselho, de 26 de Junho, que estabelece regras comuns para o mercado interno da electricidade, e revoga a Directiva
+  n.º 96/92/CE, do Parlamento Europeu e do Conselho, de 19 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 29/2006
+official_date: null
+publication_date: '2006-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2006, Série I-A de 2006-02-15
+  number: '33'
+  series: I
+  supplement: null
+  pages: 1189 - 1203
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/02/033a00/11891203.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-15'
+version_history:
+  file: decreto-lei-29-2006.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-30'
+    amending: pt:dre:342644:por
+    amending_title: Decreto-Lei n.º 104/2010
+    changes:
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Entrada Vigor Diploma
+  - date: '2011-06-21'
+    amending: pt:dre:670026:por
+    amending_title: Decreto-Lei n.º 78/2011
+    changes:
+    - Adita Artigo 25.º-A
+    - Adita Artigo 25.º-B
+    - Adita Artigo 36.º-A
+    - Adita Subsecção V
+    - Adita Artigo 41.º-A
+    - Adita Artigo 42.º-A
+    - Adita Artigo 43.º-A
+    - Adita Artigo 45.º-A
+    - Adita Artigo 45.º-B
+    - Adita Artigo 57.º-A
+    - Adita Artigo 65.º-A
+    - Adita Artigo 73.º-A
+    - Adita Artigo 78.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+  - date: '2012-03-27'
+    amending: pt:dre:553927:por
+    amending_title: Decreto-Lei n.º 75/2012
+    changes:
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º
+    - Entrada Vigor Diploma
+  - date: '2012-05-24'
+    amending: pt:dre:177864:por
+    amending_title: Decreto-Lei n.º 112/2012
+    changes:
+    - Altera Artigo 25.º
+    - Entrada Vigor Diploma
+  - date: '2012-10-09'
+    amending: pt:dre:190642:por
+    amending_title: Declaração de Retificação n.º 74/2012; Decreto-Lei n.º 215-A/2012
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 23.º
+    - Retifica Artigo 61.º
+    - Adita Artigo 23.º-A
+    - Adita Artigo 25.º-C
+    - Adita Artigo 25.º-D
+    - Adita Artigo 25.º-E
+    - Adita Artigo 25.º-F
+    - Adita Subsecção II
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 26.º-C
+    - Adita Artigo 26.º-D
+    - Adita Artigo 26.º-E
+    - Adita Artigo 26.º-F
+    - Adita Artigo 26.º-G
+    - Adita Artigo 26.º-H
+    - Adita Artigo 26.º-I
+    - Adita Artigo 26.º-J
+    - Adita Artigo 26.º-K
+    - Adita Subsecção IV
+    - Adita Artigo 59.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 25.º-A
+    - Altera Artigo 25.º-B
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+  - date: '2015-09-01'
+    amending: pt:dre:70128401:por
+    amending_title: Decreto-Lei n.º 178/2015
+    changes:
+    - Altera Artigo 73.º-A
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+  - date: '2020-10-02'
+    amending: pt:dre:144272498:por
+    amending_title: Decreto-Lei n.º 79/2020
+    changes:
+    - Altera Artigo 73.º-A
+  - date: '2022-01-15'
+    amending: pt:dre:177634016:por
+    amending_title: Decreto-Lei n.º 15/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/29/2006/p/cons/20220114/pt/html
+  oj: null
+  dre: '683861'
+  dre_path: /dr/detalhe/decreto-lei/29-2006-683861
+  internal: pt:dre:683861:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861
+  metadata_url: https://data.dre.pt/eli/dec-lei/29/2006/p/cons/20220114/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34575875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34575875
+  retrieved_at: '2026-10-22T11:53:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2039f6e099f156a094ba57a84dc4f4200e79a6009b594d9269067ac20110866c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:53:56Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-29-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Distribuição de Energia Elétrica
+- Aproximação das Legislações
+- Garantia
+- Sociedade Anónima
+- Energia Elétrica
+- Contrato de Concessão
+- Definição de Competências
+- EDP
+- Entidade Reguladora do Sector Eléctrico
+- Licenciamento
+- Mercado Interno
+- Direcção Geral de Geologia e Energia
+- Ministro da Economia e da Inovação
+- Informação do Consumidor
+- Preço
+- Produção de Energia Elétrica
+- Madeira.região Autónoma
+- Proteção do Consumidor
+- Rede Elétrica de Serviço Público
+- Rede Elétrica Nacional
+- REDE Nacional de Distribuição de Electricidade em Média e ALTA Tensão
+- Rede Nacional de Transporte de Energia Elétrica
+- Regime Jurídico
+- Seguro Obrigatório de Responsabilidade Civil
+- Governo
+- Açores
+- Sistema Elétrico Nacional
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:342644:por
+  label: Altera Artigo 46.º; Altera Artigo 48.º; Altera Artigo 49.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644
+  date: '2010-09-29'
+- type: amended_by
+  target: pt:dre:670026:por
+  label: Adita Artigo 25.º-A; Adita Artigo 25.º-B; Adita Artigo 36.º-A; Adita Subsecção V; Adita Artigo 41.º-A; Adita Artigo
+    42.º-A; Adita Artigo 43.º-A; Adita Artigo 45.º-A; Adita Artigo 45.º-B; Adita Artigo 57.º-A; Adita Artigo 65.º-A; Adita
+    Artigo 73.º-A; Adita Artigo 78.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera
+    Artigo 18.º; Altera Artigo 20.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:553927:por
+  label: Altera Artigo 46.º; Altera Artigo 49.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:177864:por
+  label: Altera Artigo 25.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864
+  date: '2012-05-23'
+- type: amended_by
+  target: pt:dre:588860:por
+  label: Entrada Vigor Diploma; Retifica Artigo 23.º; Retifica Artigo 61.º; Adita Artigo 23.º-A; Adita Artigo 25.º-C; Adita
+    Artigo 25.º-D; Adita Artigo 25.º-E; Adita Artigo 25.º-F; Adita Subsecção II; Adita Artigo 26.º-A; Adita Artigo 26.º-B;
+    Adita Artigo 26.º-C; Adita Artigo 26.º-D; Adita Artigo 26.º-E; Adita Artigo 26.º-F; Adita Artigo 26.º-G; Adita Artigo
+    26.º-H; Adita Artigo 26.º-I; Adita Artigo 26.º-J; Adita Artigo 26.º-K
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860
+  date: '2012-10-08'
+- type: amended_by
+  target: pt:dre:190642:por
+  label: Entrada Vigor Diploma; Retifica Artigo 23.º; Retifica Artigo 61.º; Adita Artigo 23.º-A; Adita Artigo 25.º-C; Adita
+    Artigo 25.º-D; Adita Artigo 25.º-E; Adita Artigo 25.º-F; Adita Subsecção II; Adita Artigo 26.º-A; Adita Artigo 26.º-B;
+    Adita Artigo 26.º-C; Adita Artigo 26.º-D; Adita Artigo 26.º-E; Adita Artigo 26.º-F; Adita Artigo 26.º-G; Adita Artigo
+    26.º-H; Adita Artigo 26.º-I; Adita Artigo 26.º-J; Adita Artigo 26.º-K
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/74-2012-190642
+  date: '2012-12-07'
+- type: amended_by
+  target: pt:dre:70128401:por
+  label: Altera Artigo 73.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2015-70128401
+  date: '2015-08-27'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Altera Artigo 30.º; Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:144272498:por
+  label: Altera Artigo 73.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2020-144272498
+  date: '2020-10-01'
+- type: amended_by
+  target: pt:dre:177634016:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
+- type: cites
+  target: celex:31983L0349
+  label: null
+  source: http://data.europa.eu/eli/dir/1983/349/oj
+- type: cites
+  target: celex:31989R4064
+  label: null
+  source: http://data.europa.eu/eli/reg/1989/4064/oj
+- type: cites
+  target: celex:31996L0092
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/92/oj
+- type: cites
+  target: celex:32003L0054
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/54/oj
+- type: cites
+  target: celex:32004L0039
+  label: null
+  source: null
+- type: cites
+  target: celex:32004R0139
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0714
+  label: null
+  source: null
+- type: transposes
+  target: celex:32003L0054
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0072
+  label: null
+  source: null
+article_structure:
+  article_count: 110
+  section_count: 32
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:53:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 29/2006
+
+O quadro organizativo do sistema eléctrico nacional foi aprovado em 1995 e estabeleceu a coexistência de um sistema eléctrico de serviço público e de um sistema eléctrico independente, sendo este último organizado segundo uma lógica de mercado.
+
+Aquele quadro sofreu alterações em 1997, de forma a consagrar, na íntegra, os princípios da Directiva n.º <a href="eurlex.asp?ano=1996&id=396L0092" title="Link para Directiva da Comunidade Europeia">96/92/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Dezembro.
+
+A Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0054" title="Link para Directiva da Comunidade Europeia">2003/54/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Junho, revogou a Directiva n.º <a href="eurlex.asp?ano=1996&id=396L0092" title="Link para Directiva da Comunidade Europeia">96/92/CE</a> e estabeleceu novas regras para o mercado interno da electricidade, implicando a alteração da legislação aprovada em 1995 e 1997.
+
+As alterações legislativas ocorridas em 2003 e em 2004 assumiram um carácter meramente transitório, faltando-lhes a sua integração num quadro legislativo devidamente sistematizado e coerente.
+
+A Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, que aprovou a estratégia nacional para a energia, estabelece como uma das linhas de orientação a liberalização e a promoção da concorrência nos mercados energéticos, através da alteração dos respectivos enquadramentos estruturais.
+
+O presente decreto-lei, concretizando no plano normativo a orientação estratégica da Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, define para o sector eléctrico um quadro legislativo coerente e articulado com a legislação comunitária e os principais objectivos estratégicos aprovados na referida resolução. Neste sentido, são estabelecidos os princípios de organização e funcionamento do sistema eléctrico nacional, bem como as regras gerais aplicáveis ao exercício das actividades de produção, transporte, distribuição e comercialização, transpondo-se, desta forma, os princípios da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0054" title="Link para Directiva da Comunidade Europeia">2003/54/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Junho, tendo por finalidade o incremento de um mercado livre e concorrencial.
+
+Em contraposição com o anterior regime, o novo quadro estabelece um sistema eléctrico nacional integrado, em que as actividades de produção e comercialização são exercidas em regime de livre concorrência, mediante a atribuição de licença, e as actividades de transporte e distribuição são exercidas mediante a atribuição de concessões de serviço público. Estas actividades são exercidas tendo em conta a racionalidade dos meios a utilizar e a protecção do ambiente, nomeadamente através da eficiência energética e da promoção das energias renováveis e sem prejuízo das obrigações de serviço público.
+
+A produção de electricidade integra a classificação de produção em regime ordinário e produção em regime especial. Ao exercício desta actividade está subjacente a garantia do abastecimento, no âmbito do funcionamento de um mercado liberalizado, em articulação com a promoção de uma política que confere grande relevância à eficiência energética e à protecção do ambiente, incrementando a produção de electricidade mediante o recurso a fontes endógenas renováveis de energia. O acesso à actividade é livre, cabendo aos interessados, no quadro de um mercado liberalizado, a respectiva iniciativa. Abandona-se, assim, a lógica do planeamento centralizado dos centros electroprodutores. Neste ambiente liberalizado, o Estado actua de forma supletiva à iniciativa privada, criando as condições de enquadramento para que a actividade desta se possa mover num ambiente profícuo ao desenvolvimento do mercado. Nestes termos, cabe ao Estado suprir as falhas de mercado, assumindo uma posição de garante do abastecimento de electricidade, através da monitorização permanente do sector eléctrico pelos órgãos competentes da Administração Pública, com a colaboração dos intervenientes no sector, nomeadamente das empresas reguladas. É neste quadro que, no caso de a iniciativa privada não estar a assegurar as capacidades de produção de electricidade que garantam o abastecimento, cabe ao Estado, através de concurso público, promover as condições possibilitadoras da produção, de acordo com as necessidades do consumo, da eficiência energética e da promoção da qualidade ambiental.
+
+A actividade de transporte de electricidade é exercida mediante a exploração da rede nacional de transporte, a que corresponde uma única concessão exercida em exclusivo e em regime de serviço público. Esta actividade é separada jurídica e patrimonialmente das demais actividades desenvolvidas no âmbito do sistema eléctrico nacional, assegurando-se a independência e a transparência do exercício da actividade e do seu relacionamento com as demais. Considerando que a rede nacional de transporte assume um papel crucial no sistema eléctrico nacional, a sua exploração integra a função de gestão técnica global do sistema, assegurando a coordenação sistémica das instalações de produção e de distribuição, tendo em vista a continuidade e a segurança do abastecimento e o funcionamento integrado e eficiente do sistema.
+
+A distribuição de electricidade processa-se através da exploração da rede nacional de distribuição, que corresponde à rede em média e alta tensões, e da exploração das redes de distribuição em baixa tensão. A rede nacional de distribuição é explorada mediante uma única concessão do Estado, exercida em exclusivo e em regime de serviço público, convertendo-se a actual licença vinculada de distribuição de electricidade em média e alta tensões em contrato de concessão, no respeito das garantias do equilíbrio de exploração da actual entidade licenciada. As redes de distribuição em baixa tensão continuam a ser exploradas mediante concessões municipais, sem prejuízo de os municípios continuarem a poder explorar directamente as respectivas redes. Esta actividade é juridicamente separada das actividades do transporte e das demais actividades não relacionadas com a distribuição, não sendo obrigatória esta separação quando os distribuidores de baixa tensão abasteçam menos de 100000 clientes. As actuais concessionárias de distribuição de baixa tensão continuam a explorar as respectivas concessões pelo prazo de duração das mesmas.
+
+A actividade de comercialização de electricidade é livre, ficando, contudo, sujeita a atribuição de licença pela entidade administrativa competente, definindo-se, claramente, o elenco dos direitos e dos deveres na perspectiva de um exercício transparente da actividade. No exercício da sua actividade, os comercializadores podem livremente comprar e vender electricidade. Para o efeito, têm o direito de acesso às redes de transporte e de distribuição de electricidade, mediante o pagamento de tarifas reguladas. Os consumidores, destinatários dos serviços de electricidade, podem, nas condições do mercado, escolher livremente o seu comercializador, não sendo a mudança onerada do ponto de vista contratual. Para o efeito, os consumidores são os titulares do direito de acesso às redes. Tendo em vista simplificar e tornar efectiva a mudança do comercializador, é criada a figura do operador logístico de mudança de comercializador, sendo o seu regime de exercício objecto de legislação complementar.
+
+No âmbito da protecção dos consumidores, define-se um serviço universal, caracterizado pela garantia do fornecimento em condições de qualidade e continuidade de serviço e de protecção quanto a tarifas e preços e de acesso a informação em termos simples e compreensíveis. As associações de defesa dos consumidores têm direito a participação e consulta quanto ao enquadramento das actividades que directamente se relacionem com os direitos dos consumidores. Ainda no âmbito da protecção dos consumidores, consagra-se a figura do comercializador de último recurso, sujeito a regulação, que assume o papel de garante do fornecimento de electricidade aos consumidores, nomeadamente aos mais frágeis, em condições de qualidade e continuidade de serviço. Trata-se de uma entidade que actuará enquanto o mercado liberalizado não estiver a funcionar com plena eficácia e eficiência, em condições de assegurar a todos os consumidores o fornecimento de electricidade segundo as suas necessidades. Neste sentido, as funções de comercializador de último recurso são atribuídas, provisoriamente, aos distribuidores de electricidade pelo prazo de duração da sua concessão.
+
+Nos termos referidos no decreto-lei, as actividades de transporte, distribuição, comercialização de electricidade de último recurso e de operação logística de mudança de comercializador estão sujeitas a regulação. Sem prejuízo das competências de outras entidades administrativas, a regulação sectorial é da competência da Entidade Reguladora dos Serviços Energéticos, cabendo-lhe, na esfera das suas atribuições, elaborar, periodicamente, um relatório sobre o funcionamento do sector, a entregar ao Governo, para posterior envio à Assembleia da República e à Comissão Europeia.
+
+A segurança do abastecimento é garantida pelo Estado, através da adopção de medidas adequadas ao equilíbrio entre a oferta e a procura, designadamente as respeitantes à gestão técnica global do sistema, à diversificação das fontes de abastecimento e ao planeamento, construção e manutenção das instalações necessárias. Compete à Direção-Geral de Energia e Geologia a monitorização da segurança do abastecimento, com a colaboração da entidade concessionária da rede nacional de transporte. A Direção-Geral de Energia e Geologia elaborará, periodicamente, um relatório de monitorização que será entregue ao Governo, à Assembleia da República e à Comissão Europeia.
+
+No quadro da convergência do sistema eléctrico nacional, o decreto-lei é aplicável às Regiões Autónomas, através de diplomas regionais a adoptar pelos seus órgãos competentes, no respeito dos princípios dos seus estatutos.
+
+Os regimes de exercício das actividades previstas neste decreto-lei, incluindo os procedimentos para atribuição das concessões e das licenças, são objecto de desenvolvimento em legislação complementar.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, o Conselho Nacional do Consumo e a Comissão Nacional de Protecção de Dados Pessoais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece as bases gerais da organização e funcionamento do sistema eléctrico nacional (SEN), bem como as bases gerais aplicáveis ao exercício das actividades de produção, transporte, distribuição e comercialização de electricidade e à organização dos mercados de electricidade.
+
+2 - O presente decreto-lei transpõe para a ordem jurídica nacional os princípios da Diretiva n.º 2009/72/CE, do Parlamento Europeu e do Conselho, de 13 de julho, que estabelece regras comuns para o mercado interno da eletricidade e que revoga a Diretiva n.º 2003/54/CE, do Parlamento Europeu e do Conselho, de 26 de junho.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se a todo o território nacional, sem prejuízo do disposto no capítulo VII.
+
+2 - Salvo menção expressa no presente decreto-lei, as referências à organização, ao funcionamento e ao regime das actividades que integram o SEN reportam-se ao continente.
+
+3 - O disposto no número anterior não prejudica, a nível nacional, a unidade e a integração do SEN.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende se por:
+
+a) «Alta tensão (AT)» a tensão entre fases cujo valor eficaz é superior a 45 kV e igual ou inferior a 110 kV;
+
+b) «Baixa tensão (BT)» a tensão entre fases cujo valor eficaz é igual ou inferior a 1 kV;
+
+c) «Cliente» o cliente grossista e o cliente final de eletricidade;
+
+d) «Cliente doméstico» o consumidor final que compra electricidade para uso doméstico próprio, excluindo actividades comerciais ou profissionais;
+
+e) «Cliente elegível» o consumidor livre de comprar electricidade ao fornecedor da sua escolha;
+
+f) «Cliente final» o consumidor que compra electricidade para consumo próprio;
+
+g) «Cliente final economicamente vulnerável» a pessoa que se encontre na condição de beneficiar da tarifa social de fornecimento de energia elétrica, nos termos do Decreto-Lei n.º 138-A/2010, de 28 de dezembro;
+
+h) «Cliente grossista» a pessoa singular ou colectiva que compra electricidade para efeitos de revenda;
+
+i) «Comercialização» a compra e venda de electricidade a clientes, incluindo a revenda;
+
+j) «Comercializador» a entidade registada para a comercialização de electricidade cuja actividade consiste na compra a grosso e na venda a grosso e a retalho de electricidade;
+
+k) «Comercializador de último recurso» a entidade titular de licença de comercialização de energia eléctrica sujeita a obrigações de serviço universal;
+
+l) «Consumidor» o cliente final de electricidade;
+
+m) «Controlo» a relação entre empresas, na aceção do Regulamento (CE) n.º 139/2004, de 20 de janeiro, relativo ao controlo das concentrações de empresas, decorrente de direitos, contratos ou outros meios que conferem a uma empresa, isoladamente ou em conjunto, e tendo em conta as circunstâncias de facto e de direito, a possibilidade de exercer uma influência determinante sobre outra, nomeadamente através de direitos de propriedade, de uso ou de fruição sobre a totalidade ou parte dos ativos de uma empresa ou de direitos ou contratos que conferem uma influência determinante na composição, nas deliberações ou nas decisões dos órgãos de uma empresa;
+
+n) «Derivado de electricidade» um dos instrumentos financeiros especificados nos n.os 5, 6 ou 7 da secção C do anexo i da Directiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa aos mercados de instrumentos financeiros, sempre que esteja relacionado com a electricidade;
+
+o) «Distribuição» a veiculação de electricidade em redes de distribuição de alta, média e baixa tensões para entrega ao cliente, excluindo a comercialização;
+
+p) «Distribuidor» a entidade titular de uma concessão de distribuição de electricidade;
+
+q) «Empresa coligada» uma empresa filial, na acepção do artigo 41.º da Sétima Directiva n.º <a href="eurlex.asp?ano=1983&id=383L0349" title="Link para Directiva da Comunidade Europeia">83/349/CEE</a>, do Conselho, de 13 de Junho, baseada na alínea g) do n.º 2 do artigo 44.º do Tratado da Comunidade Europeia e relativa às contas consolidadas, ou uma empresa associada, na acepção do n.º 1 do artigo 33.º da mesma directiva, ou ainda empresas que pertençam aos mesmos accionistas;
+
+r) «Empresas de eletricidade» os intervenientes no SEN, nos termos do artigo 14.º do presente decreto-lei, com exceção dos consumidores de eletricidade;
+
+s) «Empresa horizontalmente integrada» uma empresa que exerce pelo menos uma das actividades de produção para venda, transporte, distribuição ou fornecimento de electricidade e ainda uma actividade não directamente ligada ao sector da electricidade;
+
+t) «Empresa verticalmente integrada» uma empresa de electricidade ou um grupo de empresas de electricidade em que a mesma pessoa ou as mesmas pessoas têm direito, directa ou indirectamente, a exercer controlo e em que a empresa ou grupo de empresas exerce, pelo menos, uma das actividades de transporte ou distribuição e, pelo menos, uma das actividades de produção ou comercialização de electricidade;
+
+u) «Fontes de energia renováveis» as fontes de energia não fósseis renováveis, tais como: energia eólica, solar, geotérmica, das ondas, das marés, hídrica, biomassa, gás de aterro, gás proveniente de estações de tratamento de águas residuais e biogás;
+
+v) «Interligação» o equipamento de transporte que atravessa ou transpõe uma fronteira entre Estados membros vizinhos, com a única finalidade de interligar as respectivas redes de transporte de electricidade;
+
+w) «Linha directa» a linha eléctrica que liga um local de produção isolado a um cliente isolado, ou linha eléctrica que liga um produtor de electricidade e uma empresa de comercialização de electricidade para abastecer directamente os seus próprios estabelecimentos, filiais e clientes elegíveis;
+
+x) «Média tensão (MT)» a tensão entre fases cujo valor eficaz é superior a 1 kV e igual ou inferior a 45 kV;
+
+y) «Mercados organizados» os sistemas com diferentes modalidades de contratação que possibilitam o encontro entre a oferta e a procura de electricidade e de instrumentos cujo activo subjacente seja electricidade ou activo equivalente;
+
+z) «Muito alta tensão (MAT)» a tensão entre fases cujo valor eficaz é superior a 110 kV;
+
+aa) «Operador da rede de distribuição» a pessoa singular ou colectiva que exerce a actividade de distribuição e é responsável, numa área específica, pelo desenvolvimento, exploração e manutenção da rede de distribuição e, quando aplicável, das suas interligações com outras redes, bem como por assegurar a garantia de capacidade da rede a longo prazo;
+
+bb) «Operador da rede de transporte» a pessoa singular ou colectiva responsável que exerce a actividade de transporte e é responsável, numa área específica, pelo desenvolvimento, exploração e manutenção da rede de transporte e, quando aplicável, das suas interligações com outras redes, bem como por assegurar a garantia de capacidade da rede a longo prazo, para atender pedidos razoáveis de transporte de electricidade;
+
+cc) «Operador de transporte independente (OTI)» a entidade que adote as regras da subsecção ii da secção ii do capítulo ii do presente decreto-lei e que nessa qualidade seja certificada, aprovada e designada como operador da Rede Nacional de Transporte (RNT);
+
+dd) «Produção distribuída» a produção de electricidade em centrais ligadas à rede de distribuição;
+
+ee) «Produtor» a pessoa singular ou colectiva que produz electricidade;
+
+ff) «Rede interligada» a rede constituída por várias redes de transporte e de distribuição ligadas entre si;
+
+gg) «Rede Eléctrica de Serviço Público (RESP)» o conjunto das instalações de serviço público destinadas ao transporte e distribuição de electricidade que integram a Rede Nacional de Transporte de Electricidade (RNT), a Rede Nacional de Distribuição de Electricidade em Média e Alta Tensão (RND) e as redes de distribuição de electricidade em baixa tensão;
+
+hh) «Rede Nacional de Distribuição (RND)» a rede nacional de distribuição de electricidade em média e alta tensão;
+
+ii) «Rede Nacional de Transporte (RNT)» a rede nacional de transporte de electricidade, no continente;
+
+jj) «Sistema eléctrico nacional (SEN)» o conjunto de princípios, organizações, agentes e instalações eléctricas relacionados com as actividades abrangidas pelo presente decreto-lei no território nacional;
+
+kk) «Serviços de sistema» os meios e contratos necessários para o acesso e exploração, em condições de segurança, de um sistema eléctrico, mas excluindo aqueles que são tecnicamente reservados aos operadores da rede de transporte, no exercício das suas funções;
+
+ll) «Sistema» o conjunto de redes, de instalações de produção, de pontos de recepção e de entrega de electricidade ligados entre si e localizados em Portugal e das interligações a sistemas eléctricos vizinhos;
+
+mm) «Transporte» a veiculação de electricidade numa rede interligada de muito alta tensão e de alta tensão, para efeitos de recepção dos produtores e entrega a distribuidores, comercializadores ou a grandes clientes finais, mas sem incluir a comercialização;
+
+nn) «Utilizador da rede» a pessoa singular ou colectiva que entrega electricidade à rede ou que é abastecida através dela.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 4.º — Objectivo e princípios gerais
+
+1 - O exercício das actividades abrangidas pelo presente decreto-lei tem como objectivo fundamental contribuir para o desenvolvimento e para a coesão económica e social, assegurando, nomeadamente, a oferta de electricidade em termos adequados às necessidades dos consumidores, quer qualitativa quer quantitativamente.
+
+2 - O exercício das actividades abrangidas pelo presente decreto-lei deve obedecer a princípios de racionalidade e eficiência dos meios a utilizar, contribuindo para a progressiva melhoria da competitividade e eficiência do SEN, no quadro da realização do mercado interno de energia, tendo em conta a utilização racional dos recursos, a sua preservação, a manutenção do equilíbrio ambiental e a protecção dos consumidores.
+
+3 - O exercício das actividades previstas no presente decreto-lei processa-se com observância dos princípios da concorrência, sem prejuízo do cumprimento das obrigações de serviço público.
+
+4 - O exercício das actividades de produção e de comercialização de electricidade processa-se em regime de livre concorrência.
+
+5 - O exercício das actividades de transporte e de distribuição de electricidade processa-se em regime de concessão de serviço público, em exclusivo, nos termos definidos em diploma específico.
+
+6 - (Revogado).
+
+7 - Nos termos do presente decreto-lei, são assegurados a todos os interessados os seguintes direitos:
+
+a) Liberdade de acesso ou de candidatura ao exercício das actividades;
+
+b) Não discriminação;
+
+c) Igualdade de tratamento e de oportunidades;
+
+d) Imparcialidade nas decisões;
+
+e) Transparência e objectividade das regras e decisões;
+
+f) Acesso à informação e salvaguarda da confidencialidade da informação comercial considerada sensível;
+
+g) Liberdade de escolha do comercializador de electricidade.
+
+h) Direito de reclamação e ao seu tratamento eficiente.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 5.º — Obrigações de serviço público
+
+1 - Sem prejuízo do exercício das actividades em regime livre e concorrencial, são estabelecidas obrigações de serviço público.
+
+2 - As obrigações de serviço público são da responsabilidade dos intervenientes no SEN, nos termos previstos no presente decreto-lei e na legislação complementar.
+
+3 - São obrigações de serviço público, nomeadamente:
+
+a) A segurança, a regularidade e a qualidade do abastecimento;
+
+b) A garantia da universalidade de prestação do serviço;
+
+c) A garantia da ligação de todos os clientes às redes;
+
+d) A protecção dos consumidores, designadamente quanto a tarifas e preços;
+
+e) A promoção da eficiência energética, a protecção do ambiente e a racionalidade de utilização dos recursos renováveis e endógenos;
+
+f) A convergência do SEN, traduzida na solidariedade e cooperação com os sistemas eléctricos das Regiões Autónomas.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 6.º — Protecção dos consumidores
+
+1 - (Revogado.)
+
+2 - No exercício das atividades abrangidas pelo presente decreto-lei, é assegurada a proteção dos consumidores, nomeadamente quanto à prestação do serviço, ao exercício do direito de informação, à qualidade da prestação do serviço, às tarifas e preços, à repressão de cláusulas abusivas e à resolução de litígios, de acordo com o previsto na Lei n.º 23/96, de 26 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, 6/2011, de 10 de março, e 44/2011, de 22 de junho.
+
+3 - Para os efeitos do disposto no número anterior, são adotados os seguintes mecanismos:
+
+a) Disponibilização de uma plataforma centralizada que preste aos consumidores de energia toda a informação necessária ao exercício dos seus direitos, a indicação da legislação em vigor e os meios de resolução de litígios disponíveis;
+
+b) O tratamento eficiente das reclamações através da Entidade Reguladora dos Serviços Energéticos (ERSE), e a resolução extrajudicial de litígios, nos termos previstos na lei, nomeadamente na Lei n.º 23/96, de 26 de julho, e nos Estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, alterado pelos Decretos-Leis n.os 200/2002, de 25 de setembro, e 212/2012, de 25 de setembro.
+
+4 - É assegurada proteção ao cliente final economicamente vulnerável, através da adoção de medidas de salvaguarda destinadas a satisfazer as suas necessidades de consumo, designadamente em matéria de preços e de proibição de cortes de ligação.
+
+5 - As associações de consumidores têm o direito de ser consultadas na definição do enquadramento jurídico das actividades previstas no presente decreto-lei.
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 7.º — Protecção do ambiente
+
+1 - No exercício das actividades abrangidas pelo presente decreto-lei, os intervenientes no SEN devem adoptar as providências adequadas à minimização dos impactes ambientais, observando as disposições legais aplicáveis.
+
+2 - O Governo deve promover políticas de utilização racional de energia e incentivar a utilização dos recursos renováveis tendo em vista a eficiência energética e a promoção da qualidade do ambiente.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 8.º — Medidas de salvaguarda
+
+1 - Em caso de crise energética como tal definida na lei aplicável às crises energéticas, nomeadamente de crise súbita no mercado da energia ou de ameaça à segurança de pessoas e bens ou à integridade da rede, o Governo pode adotar medidas excecionais de salvaguarda, em conformidade com os termos previstos na lei aplicável às crises energéticas e às infraestruturas críticas.
+
+2 - As medidas de salvaguarda devem ser limitadas no tempo e restringir-se ao necessário para solucionar a crise ou ameaça que as justificou, minorando as perturbações no funcionamento do mercado de electricidade.
+
+3 - O Governo comunica de imediato as medidas de salvaguarda adotadas aos outros Estados membros e à Comissão Europeia.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 9.º — Competências do Governo
+
+1 - O Governo define a política do SEN e a sua organização e funcionamento, com vista à realização de um mercado competitivo, eficiente, seguro e ambientalmente sustentável, de acordo com o presente decreto-lei, competindo-lhe, neste âmbito:
+
+a) Emitir a legislação complementar relativa ao exercício das atividades abrangidas pelo presente decreto-lei;
+
+b) Emitir a legislação complementar relativa ao projeto, ao licenciamento, à execução e à exploração das instalações elétricas;
+
+c) Promover a cooperação dos mercados regionais;
+
+d) Promover a adoção de medidas e políticas sociais necessárias à proteção dos clientes finais economicamente vulneráveis;
+
+e) Colaborar no desenvolvimento de infraestruturas fundamentais para a construção do mercado interno da energia.
+
+2 - Compete, ainda, ao Governo garantir a segurança do abastecimento do SEN, designadamente através da:
+
+a) Definição das participações dos vários vectores energéticos para a produção de electricidade;
+
+b) Promoção da adequada diversificação das fontes de abastecimento;
+
+c) Definição e promoção da contribuição dos recursos endógenos renováveis;
+
+d) Promoção da eficiência energética e da utilização racional de eletricidade;
+
+e) Monitorização da segurança do abastecimento;
+
+f) Declaração de crise energética nos termos da legislação aplicável e adoção das correspondentes medidas de salvaguarda, de forma a minorar os seus efeitos.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+### Capítulo II — Organização, regime de actividades e funcionamento
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 10.º — Sistema eléctrico nacional
+
+Para efeitos do presente decreto-lei, entende-se por «SEN» o conjunto de princípios, organizações, agentes e instalações eléctricas relacionados com as actividades abrangidas pelo presente decreto-lei no território nacional.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 11.º — Rede Eléctrica de Serviço Público
+
+1 - No continente, a RESP abrange o conjunto das instalações de serviço público destinadas ao transporte e distribuição de electricidade que integram a RNT, a RND e as redes de distribuição de electricidade em baixa tensão.
+
+2 - Nas Regiões Autónomas, a estrutura das respectivas RESP é estabelecida pelos órgãos competentes regionais, nos termos definidos no capítulo VII.
+
+3 - Os bens que integram a RESP só podem ser onerados ou transmitidos nos termos previstos em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 12.º — Utilidade pública das instalações da RESP
+
+1 - As instalações da RESP são consideradas, para todos os efeitos, de utilidade pública.
+
+2 - O estabelecimento e a exploração das instalações da RESP ficam sujeitos à aprovação dos respectivos projectos nos termos da legislação aplicável.
+
+3 - A aprovação dos projectos confere ao seu titular os seguintes direitos:
+
+a) Utilizar, nas condições definidas pela legislação aplicável, os bens do domínio público ou privado do Estado e dos municípios para o estabelecimento ou passagem das partes integrantes da RESP, nos termos da legislação aplicável;
+
+b) Solicitar a expropriação, por utilidade pública e urgente, nos termos do Código das Expropriações, dos imóveis necessários ao estabelecimento das partes integrantes da RESP;
+
+c) Solicitar a constituição de servidões sobre os imóveis necessários ao estabelecimento das partes integrantes da RESP, nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 13.º — Actividades do sistema eléctrico nacional
+
+O SEN integra o exercício das seguintes actividades:
+
+a) Produção de electricidade;
+
+b) Transporte de electricidade;
+
+c) Distribuição de electricidade;
+
+d) Comercialização de electricidade;
+
+e) Operação de mercados organizados de eletricidade;
+
+f) Operação logística de mudança de comercializador de electricidade.
+
+g) Outras atividades relacionadas com a prestação de serviços no âmbito do mercado integrado no SEN.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 14.º — Intervenientes no SEN
+
+São intervenientes no SEN:
+
+a) Os produtores de electricidade;
+
+b) O operador da rede de transporte de electricidade;
+
+c) Os operadores das redes de distribuição de electricidade em MT e AT;
+
+d) Os operadores das redes de distribuição de electricidade em BT;
+
+e) Os comercializadores de electricidade, incluindo o comercializador de último recurso;
+
+f) Os operadores de mercados de electricidade;
+
+g) O operador logístico da mudança de comercializador de electricidade;
+
+h) Os consumidores de electricidade.
+
+i) Outros intervenientes que, nos termos da lei, possam exercer as atividades previstas na alínea g) do artigo anterior.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+#### Secção I — Produção de electricidade
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção I — Regime de exercício e classificação
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 15.º — Regime de exercício
+
+O exercício da atividade de produção de eletricidade é livre, ficando sujeito à obtenção de licença ou, nos casos previstos em legislação complementar, à realização de comunicação prévia junto das entidades administrativas competentes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 16.º — Classificação
+
+A produção de electricidade assume a seguinte classificação:
+
+a) Produção em regime ordinário;
+
+b) Produção em regime especial.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 17.º — Produção de electricidade em regime ordinário
+
+1 - Considera-se produção de eletricidade em regime ordinário a atividade de produção que não esteja abrangida por um regime jurídico especial.
+
+2 - O disposto no número anterior não prejudica a inclusão no regime ordinário dos centros eletroprodutores:
+
+a) Relativamente aos quais ainda produzam efeitos contratos de aquisição de energia celebrados ao abrigo do disposto no Decreto-Lei n.º 183/95, de 27 de julho, alterado pelos Decretos-Leis n.os 56/97, de 14 de março, 198/2000, de 24 de agosto, 153/2004, de 30 de junho, 172/2006, 23 de agosto, e 226-A/2007, de 31 de maio;
+
+b) Que beneficiem da compensação pecuniária correspondente aos custos para a manutenção do equilíbrio contratual (CMEC), prevista no Decreto-Lei n.º 240/2004, de 27 de dezembro, alterado pelos Decretos-Leis n.os 199/2007, de 18 de maio, e 264/2007, de 24 de julho;
+
+c) Que beneficiem de incentivos à garantia de potência pelos mesmos disponibilizada ao SEN, nos termos previstos em legislação complementar.
+
+3 - O regime jurídico de produção em regime ordinário, que inclui os procedimentos para a atribuição das licenças, é estabelecido em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860)
+
+###### Artigo 18.º — Produção de electricidade em regime especial
+
+1 - Considera-se produção em regime especial a atividade de produção sujeita a regimes jurídicos especiais, tais como a produção de eletricidade através de cogeração e de recursos endógenos, renováveis e não renováveis, a microprodução, a miniprodução e a produção sem injeção de potência na rede, bem como a produção de eletricidade através de recursos endógenos, renováveis e não renováveis, não sujeita a regime jurídico especial.
+
+2 - A produção de eletricidade em regime especial pode beneficiar de incentivos à utilização de recursos endógenos renováveis ou à promoção da eficiência energética através da produção combinada de calor e eletricidade, nos termos e pelo período estabelecido na lei.
+
+3 - O regime jurídico de produção em regime especial é estabelecido na lei.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+##### Subsecção II — Relacionamento comercial
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 19.º — Relacionamento dos produtores de electricidade em regime ordinário
+
+1 - Os produtores de electricidade em regime ordinário podem vender a electricidade produzida através das seguintes modalidades de relacionamento comercial:
+
+a) Celebração de contratos bilaterais com clientes finais, com comercializadores de eletricidade e, se for o caso, com a entidade responsável pela gestão dos contratos de aquisição de energia celebrados ao abrigo do Decreto-Lei n.º 183/95, de 27 de julho, alterado pelos Decretos-Leis n.os 56/97, de 14 de março, 198/2000, de 24 de agosto, 153/2004, de 30 de junho, 172/2006, 23 de agosto, e 226-A/2007, de 31 de maio, que ainda se mantenham em vigor;
+
+b) Participação nos mercados organizados.
+
+2 - Os produtores de electricidade em regime ordinário podem igualmente fornecer serviços de sistema, através da celebração de contratos com o operador de sistema, ou através da participação em mercados organizados para este efeito.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860)
+
+###### Artigo 20.º — Relacionamento dos produtores de electricidade em regime especial
+
+1 - Os produtores de eletricidade em regime especial gozam do direito de vender toda ou parte da eletricidade que produzem ao comercializador de último recurso, sempre que beneficiem de remuneração garantida, ou, quando não usufruam de tal benefício, a um qualquer comercializador, incluindo um facilitador de mercado que agregue a produção, em mercados organizados ou através de contratos bilaterais, nas condições estabelecidas na lei.
+
+2 - Os produtores de electricidade em regime especial podem igualmente fornecer serviços de sistema, através da celebração de contratos com o operador de sistema, ou através da participação em mercados organizados, nos termos previstos na lei.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+#### Secção II — Exploração das redes de transporte de electricidade
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção I — Regime de exercício, constituição e operação
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 21.º — Regime de exercício
+
+1 - A actividade de transporte de electricidade, que integra a gestão global do sistema, é exercida em regime de concessão de serviço público, em exclusivo, mediante a exploração da RNT.
+
+2 - A concessão da RNT é atribuída na sequência de realização de concurso público, salvo se, de acordo com os princípios e regras gerais da contratação pública, estiverem reunidas condições para o recurso a outro procedimento adjudicatório, mediante contrato outorgado pelo membro do Governo responsável pela área da energia, em representação do Estado.
+
+3 - (Revogado.)
+
+4 - As bases da concessão da RNT, bem como os procedimentos para a sua atribuição, são estabelecidas em legislação complementar.
+
+5 - A entidade concessionária da RNT está obrigada a respeitar as disposições legais em matéria de certificação e a praticar os necessários atos e diligências com vista a garantir a obtenção e manutenção da referida certificação.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 22.º — Composição da RNT
+
+A RNT compreende as redes que integram a concessão do operador da RNT, as interligações e as instalações para a operação da rede de transporte e para a gestão técnica global do SEN.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 23.º — Gestão técnica global do SEN
+
+1 - A gestão técnica global do SEN é exercida com independência, de forma transparente e não discriminatória, e consiste na coordenação sistémica das instalações que constituem o SEN, de forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e continuidade do abastecimento de eletricidade, nos termos previstos em legislação complementar.
+
+2 - A gestão técnica global do SEN é da responsabilidade do operador da RNT.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Rectificado pelo/a [Declaração de Retificação n.º 74/2012 - Diário da República n.º 237/2012, Série I de 2012-12-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/74-2012-190642), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 23.º-A — Funções do operador da RNT no âmbito da política energética
+
+1 - A Direção-Geral de Energia e Geologia (DGEG) define e concretiza, mediante regulamento, a forma de execução das obrigações do operador da RNT previstas na lei e no contrato de concessão no apoio ao concedente em matéria de política energética e que não estejam exclusivamente ligadas à exploração da RNT e à gestão técnica do sistema, as quais devem ser cumpridas de forma independente.
+
+2 - O cumprimento das obrigações previstas no número anterior é acompanhado e fiscalizado por uma comissão de auditoria, composta por representantes, em número igual, do Estado, enquanto concedente, e da ERSE.
+
+3 - Compete à DGEG promover a constituição da comissão de auditoria prevista no número anterior e aprovar o respetivo regulamento de funcionamento, após parecer vinculativo da ERSE.
+
+4 - A comissão de auditoria prevista no n.º 2 deve reunir pelo menos uma vez por trimestre e elaborar relatórios, com a periodicidade indicada no regulamento previsto no número anterior, indicando as situações de incumprimento ou cumprimento defeituoso detetadas e as medidas propostas com vista à respetiva sanação e formulando recomendações quanto à atuação da entidade concessionária da RNT no exercício das funções decorrentes das obrigações referidas no n.º 1.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 24.º — Operador da RNT
+
+1 - O operador da RNT é a entidade concessionária da respetiva rede, sem prejuízo do disposto nos artigos 25.º-A a 25.º-F.
+
+2 - São deveres do operador da RNT, nomeadamente:
+
+a) Assegurar a exploração e manutenção da RNT em condições de segurança, fiabilidade e qualidade de serviço;
+
+b) Gerir os fluxos de electricidade na rede, assegurando a sua interoperacionalidade com as redes a que esteja ligada;
+
+c) Disponibilizar serviços de sistema aos utilizadores da RESP, nomeadamente através de mecanismos eficientes de compensação de desvios de energia, assegurando a respectiva liquidação;
+
+d) Assegurar a capacidade a longo prazo da RNT, contribuindo para a segurança do abastecimento;
+
+e) Assegurar o planeamento, a construção e a gestão técnica da RNT de forma a permitir o acesso de terceiros e gerir de forma eficiente as instalações e os meios técnicos disponíveis, tendo em conta o estabelecido na alínea seguinte;
+
+f) Assegurar o relacionamento e o cumprimento das obrigações junto da Agência de Cooperação dos Reguladores da Energia e da Rede Europeia dos Operadores das Redes de Transporte (REORT) para a electricidade;
+
+g) Assegurar a não discriminação entre os utilizadores ou categorias de utilizadores da RNT;
+
+h) Facultar aos utilizadores da RNT as informações de que necessitem para o acesso à rede;
+
+i) Fornecer ao operador de qualquer outra rede, com a qual esteja ligado, e aos intervenientes do SEN as informações necessárias ao desenvolvimento coordenado das diversas redes, bem como ao seu funcionamento seguro e eficiente;
+
+j) Preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas atividades e impedir a divulgação discriminatória de informações sobre as suas próprias atividades que possam ser comercialmente vantajosas, salvo na medida do que for necessário ao cumprimento das suas obrigações legais, em particular perante a DGEG, a ERSE e a Comissão Europeia;
+
+k) Prever o nível de reservas necessárias à garantia de segurança do abastecimento, no curto e médio prazos;
+
+l) Prever a utilização dos equipamentos de produção e, em especial, do uso das reservas hidroeléctricas;
+
+m) Receber dos operadores de mercado e de todos os agentes directamente interessados toda a informação necessária à gestão técnica global de sistema.
+
+n) Publicar as informações necessárias para assegurar uma concorrência efectiva e o funcionamento eficaz do mercado, sem prejuízo da garantia de confidencialidade de informações comercialmente sensíveis, nos termos dos regulamentos da ERSE.
+
+3 - Para efeitos do disposto nas alíneas b) e c) do número anterior, devem ser aplicados mecanismos transparentes e competitivos, definidos no Regulamento de Operação das Redes.
+
+4 - Não é permitido ao operador da RNT a aquisição de electricidade para efeitos de comercialização.
+
+5 - O operador da RNT não pode utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 25.º — Separação jurídica e patrimonial da atividade de transporte
+
+1 - O operador da RNT é independente, no plano jurídico e patrimonial, das entidades que exerçam, directamente ou através de empresas coligadas, actividades de produção ou comercialização de electricidade ou gás natural.
+
+2 - De forma a assegurar a independência prevista no número anterior, devem ser garantidos os seguintes critérios mínimos:
+
+a) O operador da RNT ou as empresas que o controlem não podem, direta ou indiretamente, exercer controlo ou direitos sobre uma empresa que exerça qualquer das atividades de produção ou de comercialização de eletricidade ou de gás natural;
+
+b) As pessoas que exerçam qualquer das atividades de produção ou de comercialização de eletricidade ou de gás natural ou as empresas que as controlem não podem, direta ou indiretamente, exercer controlo ou exercer direitos sobre o operador da RNT ou a RNT;
+
+c) O operador da RNT ou qualquer um dos seus acionistas não podem, direta ou indiretamente, designar membros do órgão de administração ou de fiscalização de empresas que exerçam as atividades de produção ou comercialização de eletricidade ou de gás natural ou de órgãos que legalmente as representam;
+
+d) As pessoas que exerçam controlo ou direitos sobre empresas que exerçam qualquer das atividades de produção ou comercialização de eletricidade ou de gás natural não podem, direta ou indiretamente, designar membros dos órgãos de administração ou de fiscalização do operador da RNT ou de órgãos que legalmente o representam;
+
+e) As pessoas que integram o órgão de administração ou de fiscalização do operador da RNT ou os órgãos que legalmente o representam estão impedidas de integrar órgãos sociais ou participar nas estruturas de empresas que exerçam a atividade de produção ou comercialização de eletricidade ou de gás natural, não podendo os referidos gestores do operador da RNT prestar serviços, direta ou indiretamente, a estas empresas;
+
+f) Os interesses profissionais das pessoas referidas na alínea anterior devem ficar devidamente salvaguardados, de forma a assegurar a sua independência;
+
+g) O operador da RNT deve dispor de um poder decisório efectivo e independente de outros intervenientes do SEN, designadamente no que respeita aos activos necessários para manter ou desenvolver a rede;
+
+h) O operador da RNT deve dispor de um código ético de conduta relativo à independência funcional da operação da rede e proceder à sua publicitação;
+
+i) Nenhuma entidade, incluindo as que exerçam atividades no setor elétrico, nacional ou estrangeiro, pode deter, diretamente ou sob qualquer forma indireta, mais de 25 % do capital social do operador da RNT ou de empresas que o controlem.
+
+j) [Revogada.]
+
+3 - O exercício de direitos nos termos e para os efeitos referidos nas alíneas a) a d) do número anterior integra, em particular:
+
+a) O poder de exercer direitos de voto;
+
+b) O poder de designar membros dos órgãos de administração ou de fiscalização ou dos órgãos que legalmente representam a empresa;
+
+c) A detenção da maioria do capital social.
+
+4 - O disposto na alínea i) do n.º 2 e no número anterior não se aplica ao Estado ou a empresas por ele controladas, nem prejudica a existência de relações de domínio no seio do grupo societário em que o operador da RNT se integra à data da entrada em vigor do Decreto-Lei n.º 112/2012, de 23 de maio.
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864), em vigor a partir de 2012-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 25.º-A — Aprovação, designação e certificação do operador da RNT
+
+1 - A entidade concessionária da rede de transporte deve ser aprovada e designada como operador da RNT pelo membro do Governo responsável pela área da energia, o qual deve comunicar essa designação à Comissão Europeia e promover a sua publicação no Jornal Oficial da União Europeia.
+
+2 - Para que possa ser aprovada e designada como operador da RNT, a entidade concessionária da rede de transporte deve requerer a sua certificação nos termos do presente artigo, sem prejuízo de a ERSE poder promover a referida certificação no caso de a entidade concessionária não o fazer atempadamente.
+
+3 - A certificação da entidade concessionária como operador da RNT tem como objetivo avaliar o cumprimento das condições relativas à separação jurídica e patrimonial estabelecidas no artigo anterior, sem prejuízo do disposto no artigo 25.º-F.
+
+4 - A entidade concessionária da RNT é certificada pela ERSE, a quem cabe, também, o permanente acompanhamento e fiscalização do cumprimento das condições da certificação concedida.
+
+5 - A entidade concessionária da RNT deve notificar a ERSE de quaisquer alterações ou transações previstas ou ocorridas na pendência do respetivo procedimento de certificação que possam relevar para a apreciação do cumprimento das condições referidas no n.º 1.
+
+6 - A ERSE elabora um projeto de decisão sobre o pedido de certificação do operador da RNT no prazo de quatro meses a contar da data da sua apresentação, findo o qual se considera tacitamente emitido um projeto de decisão que concede a certificação.
+
+7 - O projeto de decisão sobre o pedido de certificação do operador da RNT é imediatamente notificado pela ERSE à Comissão Europeia, para efeitos de emissão de parecer nos termos previstos no artigo 3.º do Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de julho, devendo ser acompanhado de toda a informação relevante associada à decisão.
+
+8 - No prazo de dois meses após a receção do parecer da Comissão Europeia ou do decurso do prazo para a sua emissão, a ERSE deve aprovar uma decisão definitiva sobre o pedido de certificação do operador da RNT, tendo em consideração o referido parecer, nos termos previstos no artigo 3.º do Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+9 - A decisão referida no número anterior é publicada, juntamente com o parecer da Comissão Europeia, nos sítios na Internet da ERSE e da DGEG.
+
+10 - A ERSE e a Comissão Europeia podem pedir à entidade concessionária da RNT e às empresas que exercem atividades de produção ou de comercialização qualquer informação com relevância para o cumprimento das suas funções ao abrigo do presente artigo.
+
+11 -A ERSE deve preservar a confidencialidade das informações comercialmente sensíveis que obtenha durante o processo de certificação.
+
+12 - Os procedimentos a observar para a certificação do cumprimento das condições previstas no n.º 3 são estabelecidos por regulamentação emitida pela ERSE.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 25.º-B — Reapreciação das condições de certificação do operador da RNT
+
+1 - O operador da RNT deve notificar a ERSE de quaisquer alterações ou transações previstas que possam exigir a reapreciação das condições relativas à separação jurídica e patrimonial estabelecidas no artigo 25.º
+
+2 - A ERSE inicia um procedimento de reapreciação da certificação:
+
+a) Após a receção de uma notificação do operador da RNT nos termos previstos no número anterior;
+
+b) Sempre que tenha conhecimento, por outra via, da realização ou da previsão de alterações ou transações que levem ao incumprimento das condições da certificação do operador da RNT;
+
+c) Na sequência de pedido fundamentado da Comissão Europeia.
+
+3 - A reapreciação da certificação observa, com as devidas adaptações, o disposto nos n.os 4 a 12 do artigo anterior.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 25.º-C — Certificação relativamente a países terceiros à União Europeia
+
+1 - Caso a entidade concessionária da rede de transporte seja controlada por uma pessoa ou pessoas de país ou países terceiros à União Europeia, a respetiva certificação como operador da RNT observa o disposto no presente artigo e no artigo seguinte.
+
+2 - A ERSE deve notificar a Comissão Europeia do pedido de certificação apresentado pela entidade referida no número anterior.
+
+3 - A entidade concessionária deve notificar a ERSE de quaisquer alterações ou transações previstas ou ocorridas na pendência do respetivo procedimento de certificação que possam relevar para a decisão a proferir, cabendo à ERSE notificar, de imediato, a Comissão Europeia caso tais alterações ou transações sejam suscetíveis de conduzir à aquisição do controlo da entidade concessionária ou da RNT por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
+
+4 - A ERSE elabora um projeto de decisão, no prazo máximo de quatro meses a contar da data de apresentação do pedido de certificação.
+
+5 - A ERSE remete o projeto de decisão à Comissão Europeia para emissão de parecer sobre:
+
+a) Se a entidade concessionária cumpre integralmente os requisitos de independência e de separação jurídica e patrimonial previstos no artigo 25.º ou, no caso previsto nos n.os 5 e seguintes do artigo 25.º-F, o disposto na subsecção ii da presente secção; e
+
+b) Se a atribuição da certificação põe, ou não, em risco a segurança do abastecimento energético da União Europeia.
+
+6 - A Comissão Europeia emite o seu parecer sobre o projeto de decisão remetido nos termos do número anterior e notifica-o à ERSE no prazo de dois meses após a receção do pedido, prorrogável por mais dois meses se a Comissão Europeia consultar a Agência de Cooperação dos Reguladores da Energia, o membro do Governo responsável pela área da energia ou os interessados sobre o referido projeto de decisão.
+
+7 - Na falta de emissão de parecer no prazo indicado no número anterior, considera-se que a Comissão Europeia não tem objeções ao projeto de decisão da ERSE.
+
+8 - O parecer da Comissão Europeia é tomado em consideração na decisão final sobre o pedido de certificação.
+
+9 - A ERSE emite a sua decisão final no prazo de dois meses a contar da receção do parecer da Comissão Europeia ou do termo do prazo para a respetiva emissão.
+
+10 - A decisão final é imediatamente notificada pela ERSE à Comissão Europeia, acompanhada de todas as informações relevantes a ela associadas e, se for o caso, dos fundamentos da divergência com o parecer da Comissão Europeia.
+
+11 - A decisão final e respetiva fundamentação são publicadas, juntamente com o parecer da Comissão Europeia, nos sítios na Internet da ERSE e da DGEG.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 25.º-D — Recusa de certificação relativamente a países terceiros
+
+1 - A ERSE deve recusar a certificação da entidade concessionária referida no n.º 1 do artigo anterior, sempre que não tiver sido demonstrado que:
+
+a) A entidade concessionária cumpre integralmente os requisitos de independência e de separação jurídica e patrimoniais previstos no artigo 25.º ou, no caso previsto nos n.os 5 e seguintes do artigo 25.º-F, o disposto na subsecção ii da presente secção;
+
+b) A certificação não põe em risco a segurança do abastecimento energético, a nível nacional ou da União Europeia, tendo em conta o disposto no número seguinte.
+
+2 - Na avaliação realizada ao abrigo da alínea b) do número anterior, deve ter-se em consideração:
+
+a) Os direitos e obrigações assumidos pela União Europeia em relação ao país ou países terceiros em causa à luz do direito internacional, designadamente os acordos celebrados com um ou mais países terceiros em que a União Europeia seja parte e que tenham por objeto questões de segurança do abastecimento;
+
+b) Os direitos e obrigações assumidos pelo Estado Português em relação a esse país ou países terceiros em virtude de acordos celebrados com este ou estes, na medida em que estejam em conformidade com o direito da União Europeia;
+
+c) Outros factos e circunstâncias específicos do caso e do país ou países terceiros em causa.
+
+3 - A avaliação prevista na alínea b) do n.º 1 é realizada pelo membro do Governo responsável pela área da energia ou por entidade por si designada, mediante despacho que reveste caráter vinculativo para a decisão da ERSE.
+
+4 - Para efeitos de realização da avaliação prevista na alínea b) do n.º 1, a ERSE deve notificar de imediato o membro do Governo responsável pela área da energia ou a entidade por este designada do pedido de certificação apresentado, do parecer emitido pela Comissão ou da respetiva omissão de pronúncia, bem como de todas as demais informações e elementos relevantes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 25.º-E — Reapreciação da certificação relativamente a países terceiros
+
+1 - O operador da RNT deve notificar a ERSE sempre que ocorram quaisquer circunstâncias suscetíveis de conduzir à aquisição do seu controlo ou do controlo da RNT por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
+
+2 - A ERSE inicia um procedimento de reapreciação da certificação do operador da RNT, notificando, de imediato, a Comissão Europeia:
+
+a) Após a receção da notificação referida no número anterior;
+
+b) Sempre que tenha conhecimento, por outra via, de quaisquer circunstâncias suscetíveis de conduzir à aquisição do controlo do operador da RNT ou do controlo dessa rede por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
+
+3 - O procedimento de reapreciação iniciado nos termos do número anterior observa, com as devidas adaptações, o disposto nos artigos 25.º-C e 25.º-D.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 25.º-F — Modelos alternativos de separação
+
+1 - Caso, no âmbito do processo de certificação do operador da RNT, surjam objeções à certificação da entidade concessionária da RNT nos termos do artigo 25.º-A por se considerar que a mesma integra uma empresa verticalmente integrada em violação do disposto no artigo 25.º, a ERSE notifica a referida entidade concessionária para praticar os atos e adotar as medidas necessárias a assegurar o cumprimento integral das condições relativas à separação jurídica e patrimonial previstas no artigo 25.º
+
+2 - Os atos e as medidas cuja prática a ERSE pode impor à entidade concessionária da RNT para efeitos do disposto no número anterior têm em vista assegurar que:
+
+a) A atividade prevista no artigo 70.º do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, e 104/2010, de 29 de setembro, e quaisquer atividades de produção ou comercialização de eletricidade ou de gás natural são exercidas por uma entidade independente da entidade concessionária da RNT, no plano jurídico, organizativo e na tomada de decisões;
+
+b) Os titulares de cargos de administração da entidade concessionária da RNT ficam impedidos de integrar os órgãos sociais, colaborar ou participar, de qualquer forma, nas estruturas da entidade independente prevista na alínea anterior;
+
+c) Os titulares de cargos de administração na entidade independente prevista na alínea a) e os respetivos trabalhadores ou colaboradores ficam impedidos de integrar os órgãos sociais, colaborar ou participar, de qualquer forma, na entidade concessionária da RNT;
+
+d) Os interesses profissionais das pessoas sujeitas aos impedimentos previstos nas alíneas b) e c) ficam devidamente salvaguardados de forma a assegurar a sua capacidade de agir de forma independente;
+
+e) A entidade concessionária da RNT e a entidade independente prevista na alínea a) ficam impedidas de partilhar quaisquer serviços, internos ou externos, nomeadamente jurídicos;
+
+f) A entidade concessionária da RNT e a entidade independente referida na alínea a) preservam a confidencialidade das informações comercialmente sensíveis obtidas no exercício das respetivas atividades, não devendo partilhar entre elas e devendo impedir a divulgação a terceiros de informações comercialmente sensíveis, para além do que for estritamente necessário para a realização de transações comerciais ou para o cumprimento das suas obrigações legais, em particular perante a DGEG, a ERSE e a Comissão Europeia;
+
+g) A contabilidade da entidade independente referida na alínea a) se encontra separada da contabilidade da entidade concessionária da RNT e submetida a revisão e a auditoria por revisor oficial de contas e auditor distintos dos que realizam a revisão oficial de contas e a auditoria desta entidade concessionária.
+
+3 - Para efeitos das alíneas c) e d) do número anterior, as pessoas sujeitas aos impedimentos referidos nas mesmas alíneas:
+
+a) Estão impedidas de manter qualquer relação contratual ou profissional, direta ou indireta, com a entidade relativamente à qual se verifica o impedimento, ou deter quaisquer interesses de natureza económica ou financeira na mesma empresa;
+
+b) Estão impedidas de receber da entidade relativamente à qual se verifica o impedimento, direta ou indiretamente, qualquer remuneração ou benefício financeiro, sendo que a sua remuneração não pode depender das atividades ou resultados da referida empresa;
+
+c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação antecipada dos respetivos contratos ou mandatos não foi justificada, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+4 - Os custos incorridos pela entidade concessionária da RNT em resultado da prática dos atos ou adoção das medidas previstas no n.º 2 apenas podem ser repercutidos na tarifa de uso global do sistema, nos termos da legislação e regulamentos em vigor, mediante autorização prévia da DGEG e desde que tenham sido incorridos de forma justificada e eficiente.
+
+5 - A entidade concessionária da RNT pode, em alternativa à prática dos atos ou adoção das medidas previstas no n.º 2, requerer ao membro do Governo responsável pela área da energia que autorize a adoção das regras previstas na subsecção ii da presente secção.
+
+6 - A decisão, por parte do membro do Governo responsável pela área da energia, de autorizar a adoção das regras previstas na subsecção ii da presente secção depende da prévia certificação da entidade concessionária da RNT enquanto OTI, bem como da respetiva aprovação pela Comissão Europeia.
+
+7 - A certificação da entidade concessionária enquanto OTI depende do cumprimento dos requisitos previstos na subsecção ii da presente secção.
+
+8 - Aplica-se ao procedimento de certificação previsto no número anterior o disposto nos artigos 25.º-A e 25.º-B e, se for o caso, nos artigos 25.º-C a 25.º-E, bem como no artigo 3.º do Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+9 - A certificação da entidade concessionária da RNT como OTI nos termos do n.os 5 a 7 não afeta a qualidade de concessionária da RNT por parte da referida entidade.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º — Qualidade de serviço
+
+A prestação do serviço de transporte pela concessionária deve obedecer a padrões de qualidade de serviço estabelecidos no Regulamento da Qualidade de Serviço.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção II — «Operador de transporte independente»
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-A — Ativos, equipamento, pessoal e identidade
+
+1 - Para ser certificada enquanto operador de transporte independente (OTI), a entidade concessionária da RNT deve dispor de todos os recursos humanos, técnicos, materiais e financeiros necessários ao cumprimento das suas obrigações nos termos da presente subsecção e ao exercício da atividade de transporte de eletricidade, devendo, designadamente, ser o proprietário de todos os ativos, incluindo a RNT, e contratar o pessoal necessário ao exercício da atividade de transporte de eletricidade, incluindo para o desempenho das funções societárias.
+
+2 - O previsto no número anterior não prejudica a possibilidade de concentração da operação da RNT e da Rede Nacional de Transporte de Gás Natural no OTI ou da exploração, por empresa coligada, da Rede Nacional de Transporte de Gás Natural.
+
+3 - É proibida a subcontratação de pessoal e a prestação de serviços entre empresas que integram a empresa verticalmente integrada, sem prejuízo do disposto no número seguinte.
+
+4 - O OTI pode prestar serviços a empresas que integram a empresa verticalmente integrada, desde que se verifiquem os seguintes requisitos cumulativos:
+
+a) A prestação desses serviços não implique um tratamento discriminatório dos utilizadores de rede, seja acessível a todos os utilizadores de rede nos mesmos termos e condições e não restrinja, distorça ou coloque entraves à concorrência ao nível da produção ou da comercialização;
+
+b) Os termos e condições da prestação desses serviços sejam aprovados pela ERSE.
+
+5 - Sem prejuízo das decisões do órgão de supervisão previsto no artigo 26.º-E, a empresa verticalmente integrada deve disponibilizar atempadamente ao OTI, na sequência de um pedido deste para esse efeito, os recursos financeiros necessários para a realização de futuros projetos de investimento e substituição dos ativos existentes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-B — Deveres do OTI
+
+1 - A atividade de transporte de eletricidade exercida pelo OTI compreende, para além do disposto no n.º 2 do artigo 24.º, pelo menos, os deveres seguidamente indicados:
+
+a) Assegurar o relacionamento com terceiros, a ERSE ou outras entidades;
+
+b) Assegurar a representação do operador da rede de transporte na Rede Europeia dos Operadores das Redes de Transporte para a Eletricidade (REORT para a Eletricidade), junto do MIBEL e de outros mercados regionais;
+
+c) Gerir a atribuição a terceiros do acesso à RNT, a qual deve ser exercida sem discriminação entre os utilizadores ou categorias de utilizadores da rede;
+
+d) Cobrar todas as taxas relativas à RNT, incluindo as taxas de acesso, as taxas de compensação para todos os serviços auxiliares, designadamente a compra de serviços, tais como custos de compensação e energia de perdas;
+
+e) Assegurar a exploração, a manutenção e o desenvolvimento de uma rede de transporte segura, eficiente e económica;
+
+f) Planificar o investimento de forma a desenvolver a capacidade da rede para satisfazer uma procura razoável a longo prazo e garantir a segurança do abastecimento;
+
+g) Participar na criação de mercados organizados e associações entre empresas que incluam, designadamente, um ou mais operadores de rede de transporte e outros interessados, com o objetivo de desenvolver a criação de mercados regionais ou de facilitar o processo de liberalização; e
+
+h) Assegurar a prestação de todos os serviços da empresa, incluindo serviços jurídicos, contabilísticos e informáticos necessários.
+
+2 - O OTI deve adotar uma das formas de sociedade comercial de responsabilidade limitada previstas na lei.
+
+3 - O OTI deve garantir a diferenciação entre a sua imagem, comunicação, marca e instalações e as da empresa verticalmente integrada ou de empresas que a integrem.
+
+4 - O OTI está impedido de partilhar sistemas ou equipamentos informáticos, instalações materiais e sistemas de segurança e controlo de acesso com a empresa verticalmente integrada ou qualquer empresa que a integre, não podendo designadamente recorrer aos mesmos consultores ou empresas para a prestação de serviços respeitantes aos sistemas e equipamento informáticos e aos sistemas de segurança e controlo de acesso.
+
+5 - A contabilidade do OTI é submetida a revisão e a auditoria por revisor oficial de contas e auditor distintos dos que realizam a revisão oficial de contas e a auditoria da empresa verticalmente integrada ou de qualquer empresa que a integre.
+
+6 - O OTI deve preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício da suas atividades, devendo impedir a divulgação discriminatória de informações sobre as suas próprias atividades que possam ser comercialmente vantajosas, bem como, se for o caso, a divulgação de informações comercialmente sensíveis às demais empresas que integram a empresa verticalmente integrada, para além do que for estritamente necessário para a realização de transações comerciais ou para o cumprimento das suas obrigações legais e contratuais, em particular perante a DGEG, a ERSE e a Comissão Europeia.
+
+7 - O operador da RNT não pode, no âmbito da compra ou venda de eletricidade por empresas coligadas, utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-C — Independência do OTI
+
+1 - Sem prejuízo das competências de decisão do órgão de supervisão previsto no artigo 26.º-E, o OTI dispõe dos seguintes poderes:
+
+a) O poder de decisão no que respeita aos ativos necessários para explorar, manter ou desenvolver a rede, o qual é exercido de forma efetiva e independente da empresa verticalmente integrada; e
+
+b) O poder de angariar e mobilizar meios financeiros no mercado de capitais, em especial através da contração de empréstimos e de aumentos de capital.
+
+2 - O OTI deve assegurar que dispõe dos recursos necessários para exercer a atividade de transporte de forma adequada e eficiente e para assegurar o desenvolvimento e a manutenção de uma rede de transporte eficiente, segura e económica.
+
+3 - As empresas filiais que integram a empresa verticalmente integrada e que exercem atividades de produção ou de comercialização estão impedidas de deter qualquer participação, direta ou indireta, no capital social do OTI.
+
+4 - O OTI está impedido de deter qualquer participação, direta ou indireta, no capital social de qualquer uma das empresas referidas no número anterior, estando-lhe ainda vedado receber dividendos ou quaisquer outros benefícios financeiros dessas empresas.
+
+5 - Os estatutos e a estrutura global de gestão do OTI devem assegurar a efetiva independência deste em conformidade com o disposto na presente subsecção.
+
+6 - A empresa verticalmente integrada não pode determinar, direta ou indiretamente, o comportamento concorrencial do OTI, no que respeita às suas atividades quotidianas e de gestão da RNT, bem como quanto às atividades necessárias para a preparação do plano decenal de desenvolvimento da rede ao abrigo do artigo 30.º
+
+7 - No cumprimento dos deveres e funções enumerados no n.º 2 do artigo 24.º e no n.º 1 do artigo anterior ou do disposto nos artigos 14.º, 15.º e 16.º do Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de julho, o OTI não pode tratar de forma discriminatória quaisquer pessoas ou entidades, nem restringir, distorcer ou colocar entraves à concorrência na atividade de produção ou de comercialização.
+
+8 - Quaisquer relações comerciais e financeiras entre a empresa verticalmente integrada e o OTI, incluindo empréstimos deste à empresa verticalmente integrada, devem obedecer a condições de mercado.
+
+9 - O OTI está obrigado a manter registos pormenorizados das relações comerciais e financeiras previstas no número anterior e a disponibilizá-los à ERSE, a pedido desta.
+
+10 - O OTI submete à aprovação da ERSE todos os acordos e contratos comerciais e financeiros celebrados com a empresa verticalmente integrada.
+
+11 - O OTI informa a ERSE dos recursos financeiros, a que se refere o n.º 5 do artigo 26.º-A, que estejam disponíveis para futuros investimentos e para a substituição dos ativos existentes.
+
+12 - A empresa verticalmente integrada deve abster-se de qualquer comportamento que impeça ou prejudique o cumprimento, por parte do operador da RNT, das obrigações que lhe incumbem nos termos da presente subsecção, não podendo exigir que o operador da RNT obtenha autorização da empresa verticalmente integrada para cumprir essas obrigações.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-D — Independência do pessoal e da gestão do OTI
+
+1 - As decisões relativas à nomeação e recondução dos titulares dos órgãos de administração ou gerência e dos responsáveis pela gestão do OTI, às respetivas condições de trabalho, incluindo a remuneração, bem como as decisões respeitantes à cessação dos respetivos mandatos ou contratos são tomadas pelo órgão de supervisão do OTI previsto no artigo seguinte.
+
+2 - A ERSE deve ser informada previamente quanto à identidade dos titulares dos órgãos de administração ou gerência e dos responsáveis pela gestão do OTI e às condições dos respetivos mandatos ou contratos, incluindo as relativas à duração e cessação, bem como sobre as razões subjacentes a uma decisão de cessação dos referidos mandatos ou contratos.
+
+3 - As decisões previstas no n.º 1 e as condições dos mandatos ou dos contratos referidos no número anterior só produzem os seus efeitos se, no prazo de três semanas a contar da notificação da ERSE, esta não levantar objeções nos termos do número seguinte.
+
+4 - A ERSE pode levantar objeções às decisões referidas no n.º 1 nos seguintes casos:
+
+a) Se surgirem dúvidas quanto à independência profissional da pessoa designada responsável pela gestão ou para membro de um órgão de administração ou gerência; ou
+
+b) Se existirem dúvidas quanto à justificação da cessação antecipada de um mandato.
+
+5 - Sem prejuízo do disposto no número seguinte, a maioria dos responsáveis pela gestão e dos membros do órgão de administração ou de gerência do OTI não pode, nos últimos três anos, direta ou indiretamente, ter assumido quaisquer posições, responsabilidades profissionais ou relações de negócios ou detido quaisquer interesses na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas maioritários, com exceção do próprio OTI.
+
+6 - Aos restantes responsáveis pela gestão e membros dos órgãos de administração ou de gerência do OTI é aplicável a incompatibilidade prevista no número anterior relativamente a funções exercidas nos últimos seis meses.
+
+7 - Os responsáveis pela gestão, os membros dos órgãos de administração e gerência e os trabalhadores do OTI estão impedidos de exercer quaisquer funções na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas maioritários, ou de manter com as referidas entidades qualquer espécie de vínculo ou estabelecer com elas qualquer relação, direta ou indireta, de natureza laboral, de negócios ou outra.
+
+8 - Os responsáveis pela gestão, os membros dos órgãos de administração e gerência e os trabalhadores do OTI não podem deter quaisquer interesses ou participação no capital social da empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas maioritários, com exceção do próprio OTI, ou receber das referidas entidades, direta ou indiretamente, qualquer remuneração ou benefício financeiro, sendo que a sua remuneração não pode depender das atividades ou resultados da empresa verticalmente integrada, para além do próprio OTI.
+
+9 - Os responsáveis pela gestão e os membros dos órgãos de administração e gerência têm o direito de reclamar junto da ERSE quanto à cessação antecipada dos respetivos contratos ou mandatos, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+10 - Os responsáveis pela gestão e os membros dos órgãos de administração e gerência do OTI ficam impedidos, durante um período de quatro anos após o termo dos respetivos contratos ou mandatos, de estabelecer qualquer vínculo ou entrar em qualquer relação, direta ou indireta, de natureza laboral, de negócios ou outra, com a empresa verticalmente integrada, com quaisquer empresas que a integrem ou com os seus acionistas maioritários, com exceção do próprio OTI.
+
+11 - O disposto nos n.os 6 a 10 é igualmente aplicável a todos os responsáveis pela gestão executiva do OTI, bem como a todos aqueles que respondam diretamente perante estes sobre questões relacionadas com o funcionamento, a manutenção ou o desenvolvimento da rede.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-E — Órgão de supervisão
+
+1 - O OTI tem um órgão de supervisão composto pelo número de membros indicado nos seus estatutos, os quais representam o acionista ou acionistas que direta ou indiretamente controlam o OTI e os demais titulares, direta ou indiretamente, de ações do OTI, cabendo a cada um destes grupos de acionistas indicar metade dos referidos membros, nos termos indicados nos referidos estatutos.
+
+2 - Compete ao órgão de supervisão deliberar sobre quaisquer questões suscetíveis de ter um impacto significativo no valor dos ativos dos acionistas ou sócios do OTI, em especial, as decisões relacionadas com a aprovação dos planos financeiros anuais e de longo prazo, com o nível de endividamento do OTI e o montante dos dividendos distribuídos aos respetivos acionistas ou sócios.
+
+3 - O órgão de supervisão não tem competência para deliberar sobre as atividades diárias do OTI, a gestão da rede e, bem assim, sobre atividades necessárias para a preparação do plano decenal de desenvolvimento da rede previsto no artigo 30.º
+
+4 - O disposto nos n.os 2, 3, 5 e 7 a 10 do artigo 26.º-D é aplicável a metade menos um dos membros do órgão de supervisão.
+
+5 - O disposto na alínea b) do n.º 4 do artigo 26.º-D é aplicável a todos os membros do órgão de supervisão.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-F — Programa de conformidade
+
+1 - O OTI deve elaborar e executar um programa de conformidade que contemple as medidas adotadas e obrigações específicas para excluir comportamentos discriminatórios, devendo ainda estabelecer o plano de monitorização do cumprimento do referido programa.
+
+2 - O programa de conformidade é submetido à aprovação da ERSE, sem prejuízo das competências do responsável pela conformidade previsto no artigo seguinte.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-G — Responsável pela conformidade
+
+1 - O órgão de supervisão designa um responsável pela conformidade, que pode ser uma pessoa singular ou coletiva, ficando tal designação sujeita a aprovação prévia pela ERSE.
+
+2 - A ERSE apenas pode recusar a designação do responsável pela conformidade com fundamento na falta de independência ou de capacidade profissional do candidato proposto pelo órgão de supervisão ao abrigo do número anterior.
+
+3 - Os termos do contrato que regule a atividade e as condições de trabalho do responsável pela conformidade, incluindo a sua duração, estão sujeitos à aprovação da ERSE.
+
+4 - Os termos contratuais referidos no número anterior devem assegurar a independência do responsável pela conformidade e facultar-lhe todos os recursos necessários ao bom cumprimento das suas funções.
+
+5 - Durante a vigência do contrato previsto no n.º 3, o responsável pela conformidade está impedido de deter quaisquer interesses ou participação no capital social ou exercer quaisquer funções ou cargos na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas detentores de uma participação de controlo, estando igualmente impedido de manter com as referidas entidades qualquer espécie de vínculo ou estabelecer com elas qualquer relação, direta ou indireta, de natureza laboral, de negócios ou outra.
+
+6 - É aplicável ao responsável pela conformidade o disposto nos n.os 2 a 5 e 7 a 11 do artigo 26.º-D.
+
+7 - O órgão de supervisão pode destituir o responsável pela conformidade, com fundamento na sua falta de independência ou de capacidade profissional, mediante aprovação prévia pela ERSE ou a pedido desta.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-H — Funções do responsável pela conformidade
+
+1 - Sem prejuízo dos poderes de fiscalização da ERSE, compete ao responsável pela conformidade:
+
+a) Monitorizar a implementação do programa de conformidade;
+
+b) Elaborar um relatório anual que descreva as medidas tomadas para a implementação do programa de conformidade e submetê-lo à ERSE;
+
+c) Informar regularmente o órgão de supervisão e emitir recomendações sobre o programa de conformidade e a sua implementação;
+
+d) Participar à ERSE quaisquer violações das regras relativas à implementação do programa de conformidade;
+
+e) Comunicar à ERSE a existência de quaisquer relações comerciais ou financeiras entre a empresa verticalmente integrada e o OTI;
+
+f) Informar regularmente a ERSE e o órgão de supervisão do OTI, oralmente ou por escrito, sobre a atividade por si desenvolvida;
+
+g) Submeter à ERSE as propostas de decisão sobre o plano de investimentos ou as propostas relativas a determinados investimentos na rede, elaboradas pelo órgão de administração ou de gerência do OTI, devendo enviar as referidas propostas até ao momento em que estas forem apresentadas pelo referido órgão de administração ou de gerência ao órgão de supervisão do OTI.
+
+2 - O responsável pela conformidade deve ainda participar à ERSE, que deve atuar em conformidade com o disposto no artigo 26.º-J, sempre que a empresa verticalmente integrada, em assembleia geral de acionistas ou através do voto dos membros do órgão de supervisão por si indicados, inviabilize a aprovação de uma deliberação tendo como efeito impedir ou atrasar a realização de investimentos na rede que, de acordo com o respetivo plano decenal de desenvolvimento, deveriam ser realizados nos três anos seguintes.
+
+3 - Compete ainda ao responsável pela conformidade fiscalizar o cumprimento pelo OTI dos deveres de confidencialidade previstos na alínea j) do n.º 2 do artigo 24.º e nos n.os 6 e 7 do artigo 26.º-B.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-I — Poderes do responsável pela conformidade
+
+1 - O responsável pela conformidade tem acesso a todos os dados relevantes do OTI, bem como aos serviços pelo mesmo prestados e a todas as informações necessárias para o cumprimento das suas funções.
+
+2 - Sempre que esteja no exercício das funções que lhe são atribuídas pelo presente diploma, o responsável pela conformidade tem acesso, sem aviso prévio, aos escritórios e às instalações do OTI.
+
+3 - O responsável pela conformidade pode participar em todas as reuniões do órgão de administração ou de gerência, da assembleia geral e do órgão de supervisão do OTI, devendo, em especial, participar em todas as reuniões que incidam sobre as matérias seguidamente indicadas:
+
+a) Condições de acesso à rede, tal como definidas no Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de julho, em especial no que diz respeito a tarifas, serviços de acesso prestados a terceiros, atribuição de capacidade e gestão de congestionamentos, transparência, compensação e mercados secundários;
+
+b) Projetos empreendidos com vista a explorar, manter e desenvolver a RNT, incluindo os investimentos em ligações à rede e interligações;
+
+c) Compra ou venda da energia necessária para a exploração da RNT.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-J — Poderes para tomar decisões de investimento
+
+1 - O OTI deve comunicar à ERSE qualquer decisão envolvendo a não realização dos investimentos previstos no plano decenal de desenvolvimento da RNT (PDIRT) para os três anos seguintes, apresentando os respetivos fundamentos.
+
+2 - Se, no entendimento da ERSE, os fundamentos apresentados pelo OTI ao abrigo do número anterior não constituírem motivos imperiosos independentes da vontade do OTI, a ERSE é obrigada, se o investimento em causa ainda se justificar, a adotar uma das medidas seguidamente indicadas, destinadas a garantir a realização do investimento em causa com base no PDIRT:
+
+a) Ordenar ao operador da RNT a realização do referido investimento;
+
+b) Promover a realização de um procedimento concursal para a realização do referido investimento pelos investidores interessados; ou
+
+c) Obrigar o OTI a realizar um aumento de capital aberto a terceiros com vista ao financiamento dos investimentos necessários por parte de investidores independentes.
+
+3 - Sempre que a ERSE optar pela alternativa prevista na alínea b) do número anterior, poderá impor ao OTI uma ou mais condições, de entre as seguidamente indicadas:
+
+a) O financiamento do investimento por terceiros;
+
+b) A construção da obra por qualquer terceiro ou pelo OTI;
+
+c) A exploração dos novos ativos pelo OTI.
+
+4 - Nos casos previstos nas alíneas b) e c) do n.º 2, o OTI deve fornecer aos investidores a informação necessária para a realização do investimento, estando obrigado a ligar os troços construídos à RNT e, de um modo geral, a envidar todos os esforços para facilitar a execução do referido investimento.
+
+5 - A ERSE aprova os termos e condições de natureza financeira da realização do novo investimento.
+
+6 - Quando a ERSE fizer uso dos poderes previstos no n.º 2, os custos dos investimentos realizados no desenvolvimento da RNT são repercutidos na tarifa de uso global do sistema ou noutra tarifa aplicável à globalidade dos consumidores de energia elétrica nos termos a definir no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 26.º-K — Ligação à RNT
+
+1 - O OTI elabora e publica procedimentos transparentes e eficientes para a ligação não discriminatória de novas centrais elétricas à RNT, os quais estão sujeitos a aprovação prévia pela ERSE, ouvida a DGEG.
+
+2 - O OTI não pode recusar a ligação de uma nova central elétrica à RNT com fundamento numa eventual limitação futura da capacidade disponível da rede, nomeadamente em virtude da existência de congestionamentos na rede, devendo prestar as informações e esclarecimentos necessários.
+
+3 - O OTI não pode recusar um novo ponto de ligação à rede alegando que este acarretará custos adicionais relacionados com um necessário aumento da capacidade de elementos da rede nas imediações do ponto de ligação.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+##### Subsecção III — Ligação e acesso às redes de transporte
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 27.º — Ligação às redes
+
+1 - A ligação das instalações de produção, de distribuição ou de consumo à RNT deve ser efectuada em condições técnica e economicamente adequadas, nos termos estabelecidos no Regulamento de Relações Comerciais, no Regulamento da Rede de Transporte, no Regulamento de Operação das Redes e no Regulamento da Qualidade de Serviço.
+
+2 - A ligação à RNT dos centros electroprodutores em regime especial efectua-se nos termos estabelecidos em legislação complementar.
+
+3 - A responsabilidade pelos encargos com a ligação à RNT é estabelecida nos termos previstos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 28.º — Acesso à rede nacional de transporte
+
+O operador da RNT deve proporcionar aos interessados, de forma não discriminatória e transparente, o acesso às respetivas redes, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento do Acesso às Redes e às Interligações e do Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+##### Subsecção IV — Relacionamento comercial
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 29.º — Relacionamento da concessionária da RNT
+
+O operador da RNT relaciona-se comercialmente com os utilizadores das respetivas instalações, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas reguladas definidas no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+##### Subsecção V — Planeamento
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 30.º — Planeamento da RNT
+
+1 - O planeamento da RNT deve prever medidas destinadas a assegurar a adequação da rede, a segurança do abastecimento e a existência de capacidade para a receção e entrega de eletricidade, com níveis adequados de segurança e de qualidade de serviço, tendo em conta as disposições e os objetivos previstos no Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de julho, no âmbito do mercado interno da eletricidade.
+
+2 - Para efeitos do disposto no número anterior, o operador da RNT deve elaborar, de dois em dois anos, ou anualmente, caso esteja sujeito às regras previstas na subsecção ii da presente secção, um plano decenal do desenvolvimento e investimento da rede de transporte (PDIRT), tendo por base o relatório de monitorização da segurança do abastecimento, a caracterização técnica da rede e a oferta e procura atuais e previstas, após consulta pública.
+
+3 - O PDIRT deve estar coordenado com o planeamento das redes com que se interliga, nomeadamente com a rede de distribuição em MT e AT e com as redes de sistemas vizinhos.
+
+4 - O PDIRT deve conter, pelo menos, informação sobre as infraestruturas a construir ou modernizar no período de 10 anos seguinte, indicação dos investimentos que o operador da RNT já decidiu efetuar e, dentro destes, aqueles a realizar nos três anos seguintes, bem como o respetivo calendário de execução.
+
+5 - O PDIRT deve ainda contemplar:
+
+a) As obrigações decorrentes do Mercado Ibérico de Electricidade (MIBEL) e os objectivos previstos no Regulamento (CE) n.º 714/2009, do Parlamento Europeu e do Conselho, de 13 de Julho;
+
+b) As medidas de articulação necessárias ao cumprimento junto da Agência de Cooperação dos Reguladores da Energia e da REORT para a electricidade, nomeadamente no âmbito do plano decenal não vinculativo de desenvolvimento da rede à escala comunitária.
+
+6 - O membro do Governo responsável pela área da energia aprova o PDIRT, após parecer da ERSE, submissão a consulta pública e discussão na Assembleia da República, nos termos definidos em legislação complementar.
+
+7 - O procedimento de elaboração do PDIRT é definido em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+#### Secção III — Exploração das redes de distribuição de electricidade
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção I — Regime de exercício, instalações e operação
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 31.º — Regime de exercício
+
+1 - A actividade de distribuição de electricidade é exercida em regime de concessão de serviço público, em exclusivo, mediante a exploração da RND e das redes de BT.
+
+2 - A concessão da RND é atribuída, mediante contrato outorgado pelo membro do Governo responsável pela área da energia.
+
+3 - As concessões das redes de BT são atribuídas mediante contratos outorgados pelos órgãos competentes dos respectivos municípios.
+
+4 - O estabelecido no n.º 1 não prejudica a opção dos municípios entre a exploração directa e a atribuição de concessão das respectivas redes.
+
+5 - As bases das concessões de distribuição de electricidade, bem como os procedimentos para a sua atribuição, são estabelecidas em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Republicado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 32.º — Composição da rede de distribuição em MT e AT
+
+1 - A rede de distribuição em MT e AT compreende as subestações, as linhas de MT e de AT, os postos de seccionamento e de corte e os aparelhos e acessórios ligados à sua exploração.
+
+2 - Os bens referidos no número anterior são identificados nas bases da respectiva concessão.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 33.º — Composição das redes de distribuição em BT
+
+1 - As redes de distribuição em BT compreende os postos de transformação, as linhas de BT, os ramais, as instalações de iluminação pública e os aparelhos e acessórios afectos à sua exploração.
+
+2 - Os bens referidos no número anterior são identificados nas bases da respectiva concessão.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 34.º — Operação da rede de distribuição
+
+1 - A concessão de distribuição integra a operação da rede de distribuição.
+
+2 - A operação da rede de distribuição é realizada pelo operador da rede de distribuição e está sujeita às disposições do Regulamento de Operação das Redes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 35.º — Operador de rede de distribuição
+
+1 - O operador de rede de distribuição é uma entidade concessionária da RND ou de redes em BT.
+
+2 - São deveres do operador de rede de distribuição, nomeadamente:
+
+a) Assegurar a capacidade da rede, a longo prazo, para atender a pedidos razoáveis de distribuição de electricidade;
+
+b) Explorar, manter e desenvolver, em condições economicamente sustentáveis, uma rede de distribuição de electricidade segura, fiável e eficiente na área em que opera, respeitando devidamente o ambiente, bem como a eficiência energética e qualidade de serviço;
+
+c) Gerir os fluxos de electricidade na rede, assegurando a sua interoperacionalidade com as redes a que esteja ligada e com as instalações dos clientes, no quadro da gestão técnica global do sistema;
+
+d) Assegurar a capacidade e fiabilidade da respectiva rede de distribuição de electricidade, contribuindo para a segurança do abastecimento;
+
+e) Assegurar o planeamento, a construção e a gestão da rede de forma a permitir o acesso de terceiros e gerir de forma eficiente as instalações, nos termos a prever na lei;
+
+f) Assegurar que não haja discriminação entre os utilizadores ou categorias de utilizadores da rede;
+
+g) Facultar aos utilizadores as informações de que necessitem para o acesso à rede e sua utilização eficientes;
+
+h) Fornecer ao operador de qualquer outra rede com a qual esteja ligada, aos comercializadores e aos clientes as informações necessárias ao funcionamento seguro e eficiente, bem como ao desenvolvimento coordenado das diversas redes;
+
+i) Preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício da sua actividade.
+
+3 - O operador da rede de distribuição pode assumir, nos termos a prever na regulamentação da ERSE, obrigações de compensação das respetivas redes de distribuição.
+
+4 - Salvo nos casos previstos no presente decreto-lei, o operador de rede de distribuição não pode adquirir electricidade para comercialização.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 36.º — Separação jurídica da actividade de distribuição
+
+1 - O operador de rede de distribuição é independente, no plano jurídico, da organização e da tomada de decisões de outras actividades não relacionadas com a distribuição.
+
+2 - De forma a assegurar a independência prevista no número anterior, devem ser garantidos os seguintes critérios mínimos:
+
+a) Os gestores do operador de rede de distribuição não podem integrar os órgãos sociais nem participar nas estruturas de empresas que tenham por atividade a exploração da produção, transporte ou comercialização de eletricidade;
+
+b) Os interesses profissionais dos gestores referidos na alínea anterior devem ficar devidamente salvaguardados, de forma a assegurar a sua independência;
+
+c) (Revogada.)
+
+d) O operador de rede de distribuição deve dispor de um código ético de conduta relativo à independência funcional da respectiva operação da rede e proceder à sua publicitação.
+
+e) O operador da rede de distribuição deve garantir a diferenciação da sua imagem e comunicação das restantes entidades que actuam no âmbito do SEN, nos termos estabelecidos no Regulamento de Relações Comerciais.
+
+f) O operador da rede de distribuição não pode, diretamente ou por intermédio de empresa por si controlada, deter uma participação no capital social de empresas que tenham por atividade a exploração da produção, transporte ou comercialização de eletricidade.
+
+3 - Para efeitos do disposto na alínea b) do número anterior, os gestores do operador da rede de distribuição:
+
+a) Estão impedidos de manter qualquer relação contratual ou profissional, direta ou indireta, com empresas que tenham por atividade a exploração da produção, transporte ou comercialização de eletricidade ou deter quaisquer interesses de natureza económica ou financeira nas mesmas empresas;
+
+b) Estão impedidos de receber, direta ou indiretamente, de empresas que tenham por atividade a exploração da produção, transporte ou comercialização de eletricidade qualquer remuneração ou benefício financeiro;
+
+c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação antecipada dos respetivos contratos ou mandatos não foi justificada, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+4 - O operador de rede de distribuição que pertença a uma empresa verticalmente integrada deve dispor dos recursos necessários, designadamente humanos, técnicos, financeiros e materiais, para explorar, manter e desenvolver a rede, assim como deve dispor de um poder de decisão, exercido em termos efetivos e independentes da empresa verticalmente integrada, no que respeita aos ativos necessários para manter, explorar ou desenvolver a rede.
+
+5 - O disposto no número anterior não obsta a que:
+
+a) Existam mecanismos de coordenação adequados para assegurar a proteção dos direitos de supervisão económica e de gestão da empresa verticalmente integrada no que respeita à rentabilidade dos ativos do operador, nos termos regulamentados pela ERSE;
+
+b) A empresa verticalmente integrada aprove o plano financeiro anual do operador, ou instrumento equivalente, e estabeleça limites globais para os níveis de endividamento desse operador.
+
+6 - Sem prejuízo do disposto na alínea b) do número anterior, a empresa verticalmente integrada não pode dar instruções relativamente à exploração diária ou às decisões específicas sobre a construção ou o melhoramento das instalações que não excedam os termos do plano financeiro aprovado, ou instrumento equivalente.
+
+7 - A remuneração dos gestores do operador de rede de distribuição referido no n.º 4 não pode depender, direta ou indiretamente, das atividades ou resultados das empresas que integram a empresa verticalmente integrada e que tenham por atividade a exploração da produção, transporte ou comercialização de eletricidade.
+
+8 - Sem prejuízo da separação contabilística das atividades, a separação jurídica prevista no presente artigo e a forma de comunicação prevista na alínea e) do n.º 2 não é exigida aos operadores das redes de distribuição de BT que abasteçam um número de clientes inferior a 100 000.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 36.º-A — Programa de conformidade do operador de rede de distribuição
+
+1 - O operador de uma rede de distribuição que pertença a empresa verticalmente integrada e sirva um número de clientes igual ou superior a 100 000 deve elaborar um programa de conformidade que contemple as medidas adoptadas para excluir comportamentos discriminatórios.
+
+2 - O programa de conformidade referido no número anterior deve incluir medidas para verificação do seu cumprimento e o código ético de conduta previsto na alínea d) do n.º 2 do artigo anterior.
+
+3 - A elaboração do programa de conformidade, bem como o acompanhamento da sua execução, é da responsabilidade da entidade designada pelo operador da rede de distribuição.
+
+4 - A entidade responsável pela elaboração e acompanhamento da execução do programa de conformidade deve ser totalmente independente e ter acesso a todas as informações necessárias do operador de rede de distribuição e de quaisquer empresas coligadas para o cumprimento das suas funções.
+
+5 - O programa de conformidade é previamente submetido à aprovação da ERSE.
+
+6 - A entidade responsável pela elaboração e acompanhamento da execução do programa de conformidade apresenta à ERSE um relatório anual, que deve ser publicado nos sítios na Internet da ERSE e do respetivo operador da rede de distribuição.
+
+7 - Os termos e a forma a que devem obedecer o programa de conformidade e os relatórios de acompanhamento da sua execução, bem como a sua publicitação, constam do Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 37.º — Qualidade de serviço
+
+A prestação do serviço de distribuição aos clientes ligados às redes de distribuição deve obedecer a padrões de qualidade de serviço estabelecidos no Regulamento da Qualidade de Serviço.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção II — Ligação e acesso às redes de distribuição
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 38.º — Ligação às redes de distribuição MT, AT e BT
+
+1 - A ligação da rede de transporte, das instalações de produção e das instalações de consumo às redes de distribuição, bem como entre estas, deve ser efectuada em condições técnica e economicamente adequadas, nos termos estabelecidos no Regulamento da Qualidade de Serviço, no Regulamento de Relações Comerciais, no Regulamento da Rede de Distribuição e no Regulamento de Operação das Redes.
+
+2 - A ligação das instalações de produção ou consumo à rede de distribuição em BT deve ser efectuada em condições técnica e economicamente adequadas, nos termos estabelecidos no Regulamento de Relações Comerciais e no Regulamento da Rede de Distribuição.
+
+3 - A ligação às redes de distribuição dos centros electroprodutores em regime especial efectua-se nos termos de legislação complementar.
+
+4 - A responsabilidade pelos encargos com a ligação à rede de distribuição é estabelecida nos termos previstos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 39.º — Acesso às redes de distribuição
+
+Os operadores das redes de distribuição devem proporcionar aos interessados, de forma não discriminatória, o acesso às suas redes, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento do Acesso às Redes e às Interligações.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção III — Relacionamento comercial
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 40.º — Relacionamento das concessionárias das redes de distribuição
+
+As concessionárias das redes de distribuição relacionam-se comercialmente com os utilizadores das respectivas instalações, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas reguladas definidas no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção IV — Planeamento das redes de distribuição
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 41.º — Planeamento das redes de distribuição
+
+1 - O planeamento das redes de distribuição deve assegurar a existência de capacidade nas redes para a receção e entrega de eletricidade, com níveis adequados de qualidade de serviço e de segurança, e o seu desenvolvimento adequado e eficiente, no âmbito do mercado interno da eletricidade..
+
+2 - Para efeitos do disposto no número anterior, os operadores das redes de distribuição devem elaborar, de dois em dois anos, o plano de desenvolvimento e investimento quinquenal das respectivas redes, tendo por base a caracterização técnica da rede e da oferta e procura actuais e previstas, após consulta aos interessados.
+
+3 - O plano de desenvolvimento e investimento da RND (PDIRD) deve estar coordenado com o planeamento da rede de transporte, nos termos definidos na lei.
+
+4 - O planeamento das redes de distribuição deve ter em conta e facilitar o desenvolvimento de medidas de gestão da procura e de produção distribuída de electricidade.
+
+5 - O membro do Governo responsável pela área da energia aprova o PDIRD, após parecer da ERSE e do operador do RNT e submissão a consulta pública e discussão na Assembleia da República, nos termos definidos em legislação complementar.
+
+6 - O PDIRD e o respetivo procedimento de elaboração obedecem aos termos estabelecidos em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+##### Subsecção V — Redes de distribuição fechadas
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 41.º-A — Redes de distribuição fechadas
+
+1 - Considera-se 'rede de distribuição fechada' uma rede que se integre em domínios ou infra-estruturas excluídas do âmbito das concessões de distribuição de electricidade dos municípios, nomeadamente uma rede que distribua electricidade no interior de um sítio industrial, comercial ou de serviços partilhados, geograficamente circunscritos, caminhos de ferro, portos, aeroportos e parques de campismo, e preencha um dos seguintes requisitos:
+
+a) Por razões técnicas ou de segurança específicas, as operações ou o processo de produção dos utilizadores desta rede estejam integrados;
+
+b) A rede distribuir electricidade essencialmente ao proprietário ou ao operador da rede ou a empresas ligadas a estes.
+
+2 - Os termos da classificação e estabelecimento de uma rede de distribuição fechada e a disciplina da sua exploração são estabelecidos em portaria dos membros do Governo responsáveis pela área da energia e da tutela, ouvida a ERSE.
+
+3 - Sem prejuízo do estabelecido no número seguinte, as tarifas de acesso de terceiros às redes fechadas são estabelecidas pelos seus proprietários ou operadores, não estando sujeitas aos requisitos estabelecidos para a aprovação das tarifas reguladas pela ERSE.
+
+4 - Caso um utilizador de uma rede fechada não concorde, por falta de transparência e razoabilidade, com as tarifas de acesso ou as suas metodologias, pode solicitar a intervenção da ERSE para analisar e, caso necessário, fixar as tarifas segundo as metodologias a estabelecer por esta entidade nos seus regulamentos.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+#### Secção IV — Comercialização de electricidade
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+##### Subsecção I — Regime do exercício
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 42.º — Regime de exercício
+
+1 - O exercício da actividade de comercialização de electricidade é livre, ficando sujeito a registo prévio, nos termos estabelecidos na lei.
+
+2 - O exercício da atividade de comercialização de último recurso e do facilitador de mercado está sujeito a licença.
+
+3 - O exercício da actividade de comercialização de electricidade consiste na compra e venda de electricidade, para comercialização a clientes finais ou outros agentes, através da celebração de contratos bilaterais ou da participação em mercados organizados.
+
+4 - A comercialização de eletricidade deve obedecer às condições estabelecidas no presente decreto-lei, em legislação complementar, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
+
+5 - O fornecimento de eletricidade, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento das Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 42.º-A — Reconhecimento de comercializadores
+
+1 - No âmbito do funcionamento de mercados constituídos ao abrigo de acordos internacionais de que o Estado Português seja parte, o reconhecimento da qualidade de comercializador por uma das partes significa o reconhecimento automático pela outra, nos termos previstos nos respectivos acordos.
+
+2 - Compete à DGEG efectuar o registo dos comercializadores reconhecidos nos termos do número anterior.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 43.º — Separação jurídica da actividade
+
+A actividade de comercialização de electricidade é separada juridicamente das restantes actividades.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 43.º-A — Direitos e deveres do comercializador
+
+1 - Constituem direitos do comercializador, nomeadamente, os seguintes:
+
+a) Transaccionar electricidade através de contratos bilaterais com outros agentes do mercado de electricidade ou através dos mercados organizados desde que cumpra os requisitos para acesso a estes mercados;
+
+b) Ter acesso às redes e às interligações, nos termos legalmente estabelecidos, para entrega de electricidade aos respectivos clientes;
+
+c) Contratar livremente a venda de electricidade com os seus clientes.
+
+2 - Constituem deveres do comercializador, nomeadamente, os seguintes:
+
+a) Apresentar propostas de fornecimento de eletricidade para as quais disponha de oferta a todos os clientes que o solicitem, dentro da área geográfica da sua atuação, nos termos previstos no Regulamento das Relações Comerciais, com respeito pelos princípios estabelecidos na legislação da concorrência;
+
+b) Entregar electricidade às redes para o fornecimento aos seus clientes de acordo com a planificação prevista e cumprindo a regulamentação aplicável;
+
+c) Colaborar na promoção das políticas de eficiência energética e de gestão da procura nos termos legalmente estabelecidos;
+
+d) Prestar a informação devida aos clientes, nomeadamente sobre as ofertas mais apropriadas ao seu perfil de consumo;
+
+e) Emitir facturação discriminada de acordo com as normas aplicáveis;
+
+f) Proporcionar aos seus clientes meios de pagamento diversificados, não discriminando entre clientes;
+
+g) Não discriminar entre clientes e praticar, nas suas operações, transparência comercial;
+
+h) Manter o registo de todas as operações comerciais, cumprindo os requisitos legais de manutenção de bases de dados, durante um prazo mínimo de cinco anos, com sujeição a auditoria, nos termos estabelecidos no Regulamento de Relações Comerciais;
+
+i) Prestar informações à DGEG e à ERSE sobre consumos, número de clientes, preços e condições de venda para os diversos segmentos ou bandas de consumo, nas diversas categorias de clientes, com salvaguarda das regras de confidencialidade;
+
+j) Manter a capacidade técnica, legal e financeira necessárias para o exercício da função.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+##### Subsecção II — Relacionamento comercial
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 44.º — Relacionamento dos comercializadores de electricidade
+
+1 - Os comercializadores de electricidade podem contratar a electricidade necessária ao abastecimento dos seus clientes através da celebração de contratos bilaterais ou através da participação em mercados organizados.
+
+2 - Os comercializadores de electricidade relacionam-se comercialmente com os operadores das redes às quais estão ligadas as instalações dos seus clientes, assumindo a responsabilidade pelo pagamento das tarifas de uso das redes e outros serviços, bem como pela prestação das garantias contratuais legalmente estabelecidas.
+
+3 - O relacionamento comercial com os clientes decorre da celebração de um contrato de compra e venda de electricidade, que deve observar as disposições estabelecidas no Regulamento de Relações Comerciais.
+
+4 - Os comercializadores de electricidade podem exigir aos seus clientes, nos termos da lei, a prestação de caução a seu favor, para garantir o cumprimento das obrigações decorrentes do contrato de compra e venda de electricidade.
+
+5 - Compete aos comercializadores de electricidade exercer as funções associadas ao relacionamento comercial, nomeadamente a facturação da energia fornecida e a respectiva cobrança, bem como o cumprimento dos deveres de informação relativos às condições de prestação de serviço, na observância do Regulamento de Relações Comerciais e do Regulamento de Qualidade de Serviço.
+
+6 - Constitui obrigação dos comercializadores de electricidade a manutenção de um registo actualizado dos seus clientes e das reclamações por eles apresentadas.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 45.º — Rotulagem da electricidade
+
+1 - Os comercializadores de electricidade, nas facturas ou na documentação que as acompanhe e no material promocional posto à disposição dos clientes finais, devem especificar as seguintes referências:
+
+a) A contribuição de cada fonte de energia para o total da electricidade adquirida pelo comercializador de electricidade no ano anterior;
+
+b) As fontes de consulta em que se baseiam as informações facultadas ao público sobre o impacte ambiental, nomeadamente em termos de emissões de dióxido de carbono, outros gases poluentes e resíduos resultantes da produção de electricidade a partir das diversas fontes da energia comercializadas no decurso do ano anterior.
+
+2 - No que respeita à electricidade adquirida através de um mercado organizado ou importada de uma empresa situada fora da União Europeia, podem ser utilizados os dados agregados disponibilizados pelo mercado ou pela empresa no ano anterior.
+
+3 - Para além do disposto nos números anteriores, os comercializadores devem, ainda, em matéria de rotulagem de electricidade, cumprir com as disposições estabelecidas na lei e regulamentação aplicável.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 45.º-A — Relações com os clientes
+
+1 - Os contratos de fornecimento de eletricidade estão sujeitos à forma escrita e devem integrar informações sobre os direitos dos consumidores, incluindo sobre o tratamento de reclamações, as quais devem ser comunicadas de forma clara e de fácil compreensão, nomeadamente através das páginas na Internet dos comercializadores.
+
+2 - Sem prejuízo de outros requisitos previstos na lei, o contrato de fornecimento de energia elétrica rege-se por princípios de transparência, informação e equidade, devendo especificar os seguintes elementos:
+
+a) A identificação completa e o endereço do comercializador, bem como o código de identificação da instalação de consumo;
+
+b) Os serviços fornecidos e os níveis de qualidade desses serviços, suas características e data do início de fornecimento de electricidade, bem como as condições normais de acesso e utilização dos serviços do comercializador;
+
+c) O tipo de serviços de manutenção, caso sejam oferecidos;
+
+d) A duração do contrato, as condições de renovação e termo, bem como as condições de denúncia, devendo especificar se a denúncia importa ou não o pagamento de encargos;
+
+e) A compensação e as disposições de reembolso aplicáveis caso os níveis de qualidade dos serviços contratados não sejam atingidos, designadamente em caso de faturação inexata ou em atraso;
+
+f) A especificação dos meios de pagamento ao dispor dos clientes;
+
+g) Os meios de resolução de litígios, que devem ser acessíveis, simples e eficazes;
+
+h) Informações sobre os direitos dos consumidores, incluindo as relativas ao tratamento de reclamações e tarifas e taxas de comunicação aplicáveis, as quais devem ser comunicadas de forma clara, nomeadamente através das páginas na Internet das empresas.
+
+3 - Os comercializadores devem ainda:
+
+a) Facultar, a todo o momento, o acesso do cliente aos seus dados de consumo de forma gratuita;
+
+b) Conceder acesso aos dados do cliente a outro comercializador mediante acordo do cliente, nos termos a estabelecer na lei;
+
+c) Informar os clientes sobre o seu consumo, os preços e as tarifas aplicáveis, com frequência suficiente que lhes permita regular o seu próprio consumo sem custos adicionais.
+
+4 - Previamente à celebração dos contratos, os comercializadores devem prestar aos clientes informação sobre as condições contratuais referidas no n.º 2 e as garantias previstas no número anterior.
+
+5 - As condições gerais devem ser equitativas e transparentes e ser redigidas em linguagem clara e compreensível, assegurando aos clientes a escolha quanto aos métodos de pagamento, em conformidade com a legislação que estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores.
+
+6 - Qualquer diferença nos termos e condições de pagamento dos contratos com os clientes deve reflectir os custos dos diferentes sistemas de pagamento para o comercializador.
+
+7 - Os clientes devem ser notificados, nos termos previstos no Regulamento de Relações Comerciais, de qualquer intenção de alterar as condições contratuais e informados do seu direito de denúncia.
+
+8 - Os comercializadores devem notificar os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes denunciar de imediato os contratos se não aceitarem as novas condições que lhes sejam notificadas pelos respetivos comercializadores.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 45.º-B — Informação sobre preços
+
+1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, nos termos do Regulamento de Relações Comerciais, a tabela de preços de referência relativos aos fornecimentos em BT que se propõem praticar no âmbito da comercialização de electricidade, bem como as suas alterações, nos termos a regulamentar por esta entidade.
+
+2 - Os comercializadores ficam ainda obrigados a:
+
+a) Publicitar os preços de referência relativos aos fornecimentos em BT que praticam, designadamente nos seus sítios na Internet e em conteúdos promocionais;
+
+b) Enviar à ERSE semestralmente os preços praticados a todos os clientes nos meses anteriores.
+
+3 - A publicitação referida no número anterior deve permitir aos clientes com fornecimentos em BT conhecerem as diversas opções ao nível de preços existentes, permitindo-lhes optar, em cada momento, pelas melhores condições oferecidas no mercado.
+
+4 - A informação prevista no presente artigo fica sujeita a supervisão da ERSE, ficando os comercializadores obrigados a facultar-lhe toda a documentação necessária e o acesso directo aos registos que suportam esta informação.
+
+5 - Os comercializadores ficam ainda obrigados a enviar à DGEG, com a periodicidade prevista na lei, informação relativa aos preços médios praticados, consumos e número de clientes, bem como às componentes dos referidos preços e respetivos encargos.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+##### Subsecção III — Comercializador de último recurso
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 46.º — Exercício da atividade de comercialização de último recurso
+
+1 - Considera-se 'comercializador de último recurso' o comercializador que estiver sujeito a obrigações de serviço público universal, nos termos previstos na presente subsecção.
+
+2 - A prestação de serviço público universal implica o fornecimento de eletricidade para satisfação das necessidades dos clientes de eletricidade com fornecimentos ou entregas em BTN, nos termos da legislação aplicável, nomeadamente a relativa à proteção do consumidor.
+
+3 - As obrigações de serviço público universal respeitam ao fornecimento de eletricidade aos clientes finais com potências contratadas iguais ou inferiores a 41,4 kVA enquanto forem aplicáveis as tarifas reguladas ou as tarifas transitórias legalmente previstas e, após a extinção destas, ao fornecimento de eletricidade para satisfação das necessidades dos clientes finais economicamente vulneráveis.
+
+4 - O comercializador de último recurso é ainda responsável por fornecer eletricidade aos clientes cujo comercializador em regime de mercado tenha ficado impedido de exercer a atividade, bem como por assegurar o fornecimento de eletricidade em locais onde não exista oferta dos comercializadores de eletricidade em regime de mercado, nos termos a definir em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 75/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), em vigor a partir de 2012-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2010 - Diário da República n.º 190/2010, Série I de 2010-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), em vigor a partir de 2010-09-30
+
+###### Artigo 47.º — Separação jurídica da actividade de comercializador de último recurso
+
+1 - A atividade de comercialização de eletricidade de último recurso é separada juridicamente das restantes atividades, incluindo outras formas de comercialização, sendo exercida segundo critérios de independência, definidos na lei e no Regulamento das Relações Comerciais, sem prejuízo do disposto no n.º 8 do artigo 36.º
+
+2 - O comercializador de último recurso deve diferenciar as suas imagem e comunicação das restantes entidades que actuam no âmbito do SEN por forma a não induzir confusão com estas últimas entidades, nos termos estabelecidos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 48.º — Obrigação de fornecimento de electricidade
+
+1 - (Revogado).
+
+2 - A comercialização de electricidade deve obedecer às condições estabelecidas no presente decreto-lei, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
+
+3 - O fornecimento, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2010 - Diário da República n.º 190/2010, Série I de 2010-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), em vigor a partir de 2010-09-30
+
+###### Artigo 49.º — Relacionamento comercial do comercializador de último recurso
+
+1 - Sem prejuízo do disposto nos artigos 44.º e 45.º, ao relacionamento comercial do comercializador de último recurso aplica-se o disposto nos números seguintes.
+
+2 - À aquisição de electricidade aplicam-se as seguintes regras:
+
+a) O comercializador de último recurso deve adquirir a eletricidade produzida pelos produtores em regime especial com remuneração garantida nos termos da lei, nas condições estabelecidas na legislação complementar;
+
+b) O comercializador de último recurso pode adquirir electricidade para abastecer os seus clientes em mercados organizados, ou através de contratos bilaterais mediante a realização de concursos ou através de outros procedimentos definidos em legislação complementar;
+
+c) Os contratos estabelecidos de acordo com a alínea anterior carecem de aprovação nos termos do Regulamento de Relações Comerciais.
+
+3 - À venda de eletricidade aplicam-se as seguintes regras:
+
+a) O comercializador de último recurso é obrigado a fornecer eletricidade aos clientes com fornecimentos ou entregas em BTN com potência contratada que o requisitem, até ao limite de potência requisitada para efeitos de ligação, nos termos estabelecidos no n.º 3 do artigo 46.º e com observância das demais exigências regulamentares;
+
+b) O comercializador de último recurso deve aplicar tarifas reguladas de venda aos clientes finais referidos na alínea anterior e, a partir da extinção das tarifas reguladas, as tarifas transitórias e as tarifas aplicáveis aos clientes finais economicamente vulneráveis legalmente previstas, em ambos os casos conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 75/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), em vigor a partir de 2012-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2010 - Diário da República n.º 190/2010, Série I de 2010-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), em vigor a partir de 2010-09-30
+
+##### Subsecção IV — «Facilitador de mercado»
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 49.º-A — Exercício da atividade de facilitador de mercado
+
+1 - Considera-se «facilitador de mercado» o comercializador que estiver sujeito à obrigação de aquisição da energia produzida pelos produtores em regime especial com remuneração de mercado, nas condições estabelecidas em legislação complementar.
+
+2 - O membro do Governo responsável pela área da energia pode promover procedimento concursal de iniciativa pública, nos termos e condições a definir em legislação complementar, com vista a selecionar uma entidade que atuará como facilitador de mercado, ao abrigo do disposto no número anterior.
+
+3 - A atividade do facilitador de mercado deve obedecer às condições estabelecidas no presente decreto-lei e em legislação complementar, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860)
+
+#### Secção V — Gestão de mercados organizados
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 50.º — Regime de exercício
+
+1 - O exercício da actividade de gestão de mercados organizados de electricidade é livre, ficando sujeito a autorização.
+
+2 - O exercício da actividade de gestão de mercados organizados é da responsabilidade dos operadores de mercados, de acordo com o estabelecido em legislação complementar, sem prejuízo das disposições da legislação financeira que sejam aplicáveis aos mercados em que se realizem operações a prazo.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 51.º — Deveres dos operadores de mercados
+
+São deveres dos operadores de mercados, nomeadamente:
+
+a) Gerir mercados organizados de contratação de electricidade;
+
+b) Assegurar que os mercados referidos na alínea anterior sejam dotados de adequados serviços de liquidação;
+
+c) Divulgar informação relativa ao funcionamento dos mercados de forma transparente e não discriminatória, devendo, nomeadamente, publicar informação, agregada por agente, relativa a preços e quantidades transaccionadas;
+
+d) Comunicar ao operador de rede de transporte toda a informação relevante para a gestão técnica do SEN e para a gestão comercial da capacidade de interligação, nos termos do Regulamento de Operação das Redes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 52.º — Integração da gestão de mercados organizados
+
+A gestão de mercados organizados integra-se no âmbito do funcionamento dos mercados constituídos ao abrigo de acordos internacionais celebrados entre o Estado Português e outros Estados membros da União Europeia.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+### Capítulo III — Consumidores
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 53.º — Direitos
+
+1 - Todos os consumidores têm o direito de escolher o seu comercializador de electricidade, podendo adquirir a electricidade directamente a produtores, a comercializadores ou através dos mercados organizados.
+
+2 - Os consumidores têm o direito ao fornecimento de eletricidade com observância dos seguintes princípios:
+
+a) Acesso às redes a que se pretendam ligar;
+
+b) (Revogada.)
+
+c) Acesso à informação sobre os seus direitos no que se refere ao serviço universal, designadamente através de uma plataforma centralizada;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+3 - (Revogado.)
+
+4 - Os consumidores têm direito a:
+
+a) Aceder e ter à sua disposição os seus próprios dados de consumo e, gratuitamente e mediante acordo, conceder acesso aos seus dados a qualquer comercializador nos termos do Regulamento de Relações Comerciais;
+
+b) Dispor de uma ampla escolha quanto aos métodos de pagamento, que não devem promover uma discriminação entre os clientes, nem incluir entraves extracontratuais ao exercício dos direitos dos consumidores, nomeadamente através de documentação excessiva e complexa, nos termos do Regulamento de Relações Comerciais;
+
+c) Ser compensados pela inobservância dos níveis regulamentados de qualidade de serviço;
+
+d) Obter informação sobre o seu consumo e custos efetivos, com a frequência que lhes permita regular o seu próprio consumo.
+
+5 - Os consumidores devem ter à sua disposição procedimentos transparentes e simples para o tratamento de reclamações relacionadas com o fornecimento de eletricidade, permitindo que os litígios sejam resolvidos de modo justo e rápido, prevendo um sistema de compensação e o recurso aos mecanismos de resolução extrajudicial de conflitos, nos termos previstos na lei, nomeadamente na lei de proteção dos utentes dos serviços públicos essenciais.
+
+6 - Os consumidores têm ainda o direito a recorrer, com vista à resolução das reclamações relacionadas com o fornecimento de eletricidade, a uma entidade independente que tenha por atribuição a defesa do consumidor ou a proteção dos seus direitos de consumo no âmbito do setor energético.
+
+7 - Se um cliente, respeitando as condições contratuais, pretender mudar de comercializador, essa mudança deve ser efetuada no prazo de três semanas, não podendo o cliente ser obrigado a realizar qualquer pagamento ou suportar qualquer custo por tal mudança.
+
+8 - Na sequência da mudança de comercializador, os clientes devem receber um acerto de contas final, no prazo máximo de seis semanas após essa mudança ter tido lugar.
+
+9 - A especificação dos mecanismos e procedimentos de apoio dos direitos dos consumidores previstos no presente decreto-lei é estabelecida na lei e em regulamentação complementar.
+
+10 - A todos os clientes é garantido o fornecimento de electricidade nos termos previstos no presente decreto-lei.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 54.º — Direitos de informação
+
+1 - Sem prejuízo do disposto nas Leis n.os 24/96, de 31 de Julho, alterada pela Lei n.º 85/98, de 16 de Dezembro, e pelo Decreto-Lei n.º 67/2003, de 8 de Maio, e 23/96, de 26 de Julho, alterada pelas Leis n.os 12/2008, de 26 de Fevereiro, 24/2008, de 2 de Junho, e 6/2011, de 10 de Março, os consumidores, ou os seus representantes, têm direito a:
+
+a) Informação não discriminatória e adequada às suas condições específicas, em particular no que respeita aos clientes finais economicamente vulneráveis;
+
+b) Informação completa e adequada de forma a permitir a sua participação nos mercados de electricidade;
+
+c) Informação, de forma transparente e não discriminatória, sobre preços e tarifas aplicáveis e condições normais de acesso e utilização dos serviços energéticos;
+
+d) Informação completa e adequada de forma a promover a eficiência energética;
+
+e) Acesso atempado a toda a informação de carácter público, de uma forma clara e objectiva, capaz de permitir a liberdade de escolha sobre as melhores opções de fornecimento;
+
+f) Consulta prévia sobre todos os atos que possam a vir a modificar o conteúdo dos seus direitos;
+
+g) Acesso aos dados de consumo.
+
+2 - Os comercializadores e operadores das redes de distribuição de electricidade devem fornecer aos seus clientes, nos termos e na forma estabelecidos no Regulamento de Relações Comerciais, o catálogo ou lista dos direitos dos consumidores de energia, nos termos aprovados pela Comissão Europeia.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 55.º — Deveres
+
+Constituem deveres dos consumidores:
+
+a) Prestar as garantias a que estejam obrigados por lei;
+
+b) Proceder aos pagamentos a que estiverem obrigados;
+
+c) Contribuir para a melhoria da protecção do ambiente;
+
+d) Contribuir para a melhoria da eficiência energética e da utilização racional de energia;
+
+e) Manter em condições de segurança as suas instalações e equipamentos, nos termos das disposições legais aplicáveis, e evitar que as mesmas introduzam perturbações fora dos limites estabelecidos regulamentarmente nas redes a que se encontram ligados;
+
+f) Facultar todas as informações estritamente necessárias ao fornecimento de electricidade.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+### Capítulo IV — Regulação
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+#### Secção I — Disposições e atribuições gerais
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 56.º — Finalidade da regulação do sistema eléctrico nacional
+
+A regulação do SEN tem por finalidade contribuir para assegurar a eficiência e a racionalidade das actividades em termos objectivos, transparentes, não discriminatórios e concorrenciais, através da sua contínua supervisão e acompanhamento, integrada nos objectivos da realização do mercado interno da electricidade.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 57.º — Actividades sujeitas a regulação
+
+1 - As actividades de transporte, de distribuição e de comercialização de electricidade, bem como as de operação logística de mudança de comercializador e de gestão de mercados organizados, estão sujeitas a regulação, sem prejuízo do disposto nos números seguintes.
+
+2 - A regulação a que se refere o número anterior é atribuída à ERSE, sem prejuízo das competências atribuídas à Direção-Geral de Energia e Geologia (DGEG), à Autoridade da Concorrência, à Comissão do Mercado de Valores Mobiliários e a outras entidades administrativas, no domínio específico das suas atribuições.
+
+3 - A regulação exerce-se nos termos e com os limites previstos no presente decreto-lei e na legislação que defina as competências das entidades referidas no número anterior.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Republicado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 57.º-A — Objectivos gerais da regulação da ERSE
+
+A regulação da electricidade pela ERSE visa a prossecução dos seguintes objectivos:
+
+a) Promoção, em colaboração com a Agência de Cooperação dos Reguladores da Energia, com as entidades reguladoras de outros Estados membros e com a Comissão Europeia, de um mercado interno de electricidade concorrencial, seguro e ecologicamente sustentável, incluindo a abertura efectiva do mercado a todos os consumidores, e zelar pela existência de condições que permitam que as redes de electricidade do SEN funcionem de forma eficaz e fiável;
+
+b) Desenvolvimento de mercados regionais concorrenciais e com elevado nível de funcionamento na União Europeia;
+
+c) Supressão das restrições ao comércio de electricidade, incluindo o desenvolvimento das capacidades adequadas de transporte fronteiriço para satisfazer a procura e reforçar a integração dos mercados nacionais que possa facilitar o fluxo de electricidade através da União Europeia;
+
+d) Garantia, de forma adequada e racional, do desenvolvimento de redes seguras, fiáveis, eficientes e não discriminatórias, orientadas para o consumidor, tendo presente os objectivos gerais da política energética, bem como a ligação da produção de electricidade a partir de fontes de energia renováveis e veiculada nas redes de transporte e distribuição;
+
+e) Garantia de que os operadores das redes do SEN recebem incentivos adequados para aumentar a eficiência das redes e promover a integração do mercado;
+
+f) Garantia de que os clientes beneficiam do funcionamento eficiente do mercado, através da promoção de uma concorrência efectiva e da garantia de protecção dos consumidores;
+
+g) Contribuição para alcançar padrões elevados de serviço universal do abastecimento de eletricidade, para a proteção dos clientes finais economicamente vulneráveis ou em zonas afastadas e para a mudança de comercializador;
+
+h) Contribuição para a emergência de mercados retalhistas transparentes e eficientes, designadamente através da adopção de regulamentação respeitante a disposições contratuais, compromissos com clientes, intercâmbio de dados, posse de dados, responsabilidade na medição de energia e liquidação das transacções;
+
+i) Garantia de acesso dos clientes e comercializadores às redes, bem como o direito dos grandes clientes de celebrar contratos simultaneamente com diversos comercializadores.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 58.º — Competências da regulação no âmbito do SEN
+
+1 - Sem prejuízo das atribuições e competências previstas nos seus Estatutos, nos regulamentos europeus e na lei, a ERSE exerce as seguintes e competências de regulação do SEN:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Cooperar com as outras entidades reguladoras, em particular, com a Comissão Europeia e com a Agência de Cooperação dos Reguladores de Energia, facultando-lhes toda a informação necessária, designadamente, no âmbito da promoção de uma gestão óptima das redes e das interligações, nos termos previstos nos regulamentos comunitários, visando em especial a segurança do abastecimento e a gestão dos congestionamentos das redes;
+
+f) Exercer as funções que lhe são atribuídas pela legislação comunitária no âmbito do Mercado Interno da Energia, designadamente no mercado ibérico e nos mercados regionais de que Portugal faça parte;
+
+g) Cumprir e aplicar as decisões vinculativas da Comissão Europeia e da Agência de Cooperação dos Reguladores de Energia;
+
+h) Supervisionar o nível de transparência do mercado, incluindo os preços, a existência de subvenções cruzadas entre actividades, a qualidade de serviço, a ocorrência de práticas contratuais restritivas, o tempo em que os operadores das redes demoram a executar as ligações e reparações, assim como a aplicação de regras relativas às atribuições dos operadores das redes;
+
+i) Relatar anualmente a sua actividade e o cumprimento das suas obrigações à Assembleia da República, ao Governo, à Comissão Europeia e à Agência de Cooperação dos Reguladores de Energia, devendo o relatório abranger as medidas adoptadas e os resultados obtidos;
+
+j) Emitir decisões vinculativas sobre todas as empresas que actuam no âmbito do SEN;
+
+l) Impor sanções efectivas nos termos do regime sancionatório previsto no artigo 76.º;
+
+m) Conduzir inquéritos, realizar auditorias, efectuar inspecções nas instalações das empresas e exigir-lhes toda a documentação de que necessite para o cumprimento da sua actividade;
+
+2 - Quando, no âmbito do processo de certificação do operador da RNT, este for sujeito às obrigações previstas na subsecção ii da secção ii do capítulo ii, a regulação da ERSE tem ainda como objetivo, para além do disposto no número anterior, monitorizar o cumprimento das obrigações do operador da RNT e da empresa verticalmente integrada e a relação entre ambos, no âmbito das competências que lhe são atribuídas por lei.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 59.º — Direito de acesso à informação
+
+1 - As entidades referidas no artigo 57.º têm o direito de obter dos intervenientes no SEN a informação necessária ao exercício das suas competências específicas e ao conhecimento do mercado.
+
+2 - O disposto no número anterior inclui também o direito de acesso aos documentos de prestação de contas das empresas de eletricidade.
+
+3 - As entidades referidas no artigo 57.º preservam a confidencialidade das informações comercialmente sensíveis, podendo, no entanto, trocar entre si ou divulgar as informações que sejam necessárias ao exercício das suas funções.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 59.º-A — Separação contabilística
+
+1 - As empresas de eletricidade devem, sem prejuízo das exigências constantes do presente diploma em matéria de separação jurídica e independentemente da sua forma jurídica e regime de propriedade, elaborar, submeter aos respetivos órgãos competentes e publicar as suas contas anuais, nos termos da legislação e regulamentação aplicável.
+
+2 - As empresas de eletricidade que não sejam legalmente obrigadas a publicar as suas contas anuais devem manter um exemplar dessas contas à disposição do público na sua sede social ou estabelecimento principal.
+
+3 - As empresas de eletricidade que não sejam legalmente obrigadas a ter um órgão de fiscalização devem submeter as respetivas contas anuais a um revisor oficial de contas para proceder à revisão legal, que deverá ser publicitada nos termos da legislação e regulamentação aplicável.
+
+4 - Na elaboração das suas contas anuais e na sua contabilidade interna, as empresas de eletricidade devem, com o fim de evitar discriminações, subvenções cruzadas e distorções de concorrência, respeitar as seguintes regras de separação e organização contabilística:
+
+a) As contas devem estar separadas para cada uma das suas atividades de transporte e distribuição, nos mesmos termos em que a contabilidade seria organizada se estas atividades fossem exercidas por empresas distintas;
+
+b) As atividades do setor da eletricidade não ligadas ao transporte ou distribuição devem estar refletidas em contas próprias, que podem ser consolidadas;
+
+c) Os rendimentos provenientes da propriedade da RNT devem ser especificados nas contas;
+
+d) Outras atividades não ligadas ao setor da eletricidade devem estar refletidas em contas próprias, que podem ser consolidadas se tal se mostrar adequado;
+
+e) A contabilidade interna deve incluir um balanço e uma conta de ganhos e perdas para cada atividade;
+
+f) Na sua contabilidade interna, as empresas devem especificar as regras de imputação dos elementos do ativo e do passivo, dos encargos e rendimentos, bem como da depreciação, sem prejuízo das normas contabilísticas aplicadas na elaboração das contas separadas;
+
+g) As regras referidas na alínea anterior só podem ser alteradas em casos excecionais, devendo tais alterações ser expressamente indicadas e fundamentadas;
+
+h) As contas anuais devem referir em notas quaisquer transações de importância não residual efetuadas com empresas coligadas.
+
+5 - A revisão legal de contas prevista nos n.os 1 e 3 deve verificar, em particular, a observância da obrigação de prevenir a discriminação e as subvenções cruzadas a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 60.º — Dever de informação
+
+1 - A ERSE apresenta aomembro do Governo responsável pela área da energia, em data estabelecida em legislação complementar, um relatório sobre o funcionamento do mercado de electricidade e sobre o grau de concorrência efectiva, indicando também as medidas adoptadas e a adoptar, tendo em vista reforçar a eficácia e a eficiência do mercado.
+
+2 - A ERSE faz publicar o relatório referido no número anterior e dele dá conhecimento à Assembleia da República e à Comissão Europeia.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Republicado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+#### Secção II — Sistema tarifário
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 61.º — Princípios aplicáveis ao cálculo e à fixação das tarifas
+
+1 - O cálculo e a fixação das tarifas reguladas aplicáveis às diversas actividades, considerando como tal as tarifas de uso das redes, de uso global do sistema e comercialização de último recurso, obedecem aos seguintes princípios:
+
+a) Igualdade de tratamento e de oportunidades;
+
+b) Uniformidade tarifária, de modo que o sistema tarifário se aplique universalmente a todos os clientes, promovendo-se a convergência dos sistemas eléctricos do continente e das Regiões Autónomas;
+
+c) Transparência na formulação e fixação das tarifas;
+
+d) Inexistência de subsidiações cruzadas entre actividades e entre clientes, através da adequação das tarifas aos custos e da adopção do princípio da aditividade tarifária;
+
+e) Transmissão dos sinais económicos adequados a uma utilização eficiente das redes e demais instalações do SEN;
+
+f) Protecção dos clientes face à evolução das tarifas, assegurando, simultaneamente, o equilíbrio económico e financeiro às actividades exercidas em regime de serviço público em condições de gestão eficiente;
+
+g) Criação de incentivos ao desempenho eficiente das actividades reguladas das empresas;
+
+h) Contribuição para a promoção da eficiência energética e da qualidade ambiental.
+
+2 - O membro do Governo responsável pela área da energia define, mediante portaria, ouvida a ERSE, os critérios para a repercussão diferenciada dos custos decorrentes de medidas de política energética, de sustentabilidade ou de interesse económico geral nas tarifas reguladas previstas no número anterior, os quais devem estabelecer a repartição dos referidos custos, entre os diferentes níveis de tensão e tipos de fornecimento e, seguidamente, a sua afetação aos consumidores dentro de cada nível de tensão e do tipo de fornecimento, tendo em conta a potência contratada, o perfil tarifário, bem como os consumos verificados em cada período horário e sazonal, de forma a incentivar a modulação e uma maior eficiência energética do consumo.
+
+3 - Para os efeitos do número anterior, incluem-se nos custos de interesse económico geral os montantes dos incentivos à garantia de potência, os sobrecustos da produção de eletricidade em regime especial, a diferença entre os encargos totais com a aquisição e a receita proveniente da venda da energia elétrica adquirida ao abrigo dos Contratos de Aquisição de Energia (CAE) em vigor, os encargos com os custos de manutenção do equilíbrio contratual (CMEC), os custos com a remuneração dos terrenos do domínio público hídrico, com planos de promoção da eficiência no consumo, os montantes respeitantes à sustentabilidade dos mercados, os sobreproveitos decorrentes da extinção das tarifas reguladas e os sobrecustos com a convergência tarifária com as Regiões Autónomas, bem como outros previstos no Regulamento Tarifário a repercutir na tarifa de Uso Global do Sistema.
+
+4 - O cálculo e a fixação das tarifas e preços regulados são da competência da ERSE, entrando em vigor após a sua publicação nos termos previstos no Regulamento Tarifário.
+
+5 - A fixação das demais tarifas e preços de venda a clientes finais não abrangidos pelo n.º 1 do presente artigo são da responsabilidade dos comercializadores de mercado, devendo na sua fixação ter em conta os princípios estabelecidos no n.º 1 naquilo que não for incompatível com a sua natureza de comercializador de mercado.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Rectificado pelo/a [Declaração de Retificação n.º 74/2012 - Diário da República n.º 237/2012, Série I de 2012-12-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/74-2012-190642), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 62.º — Regulamento tarifário
+
+1 - As regras e as metodologias para o cálculo e fixação das tarifas reguladas previstas no n.º 1 do artigo anterior, bem como a estrutura tarifária, são estabelecidas no Regulamento Tarifário.
+
+2 - As disposições do Regulamento Tarifário devem adequar-se à organização e funcionamento do mercado interno da electricidade.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+### Capítulo V — Segurança do abastecimento
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 63.º — Monitorização da segurança do abastecimento
+
+1 - A monitorização da segurança de abastecimento é assegurada pelo Governo, através da DGEG, com a colaboração do operador da RNT, nos termos do presente artigo, do artigo 64.º e da legislação complementar.
+
+2 - A monitorização da segurança de abastecimento deve abranger, nomeadamente, o equilíbrio entre a oferta e a procura no mercado nacional, o nível de procura prevista e dos fornecimentos disponíveis, a capacidade suplementar prevista ou em construção, bem como a qualidade e o nível de manutenção das redes e as medidas destinadas a fazer face a níveis extremos de procura e às falhas de um ou mais produtores ou comercializadores.
+
+3 - A DGEG apresenta ao membro do Governo responsável pela área da energia, em data estabelecida em legislação complementar, uma proposta de relatório anual de monitorização, indicando, também, as medidas adotadas e a adotar tendo em vista reforçar a segurança do abastecimento do SEN.
+
+4 - O Governo publica o relatório anual previsto no número anterior até 31 de julho de cada ano, dando conhecimento do mesmo à Comissão Europeia e à ERSE.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 64.º — Segurança do fornecimento
+
+1 - Sem prejuízo do regime geral de acesso à actividade de produção, o Governo pode, em último recurso, promover procedimento concursal para a atribuição de licença para a construção e a exploração de centros electroprodutores destinados a assegurar as necessidades de energia e potência identificadas no relatório de monitorização da segurança do abastecimento ou no PDIRT.
+
+2 - A promoção do procedimento concursal e a aprovação das peças do procedimento são competência do membro do Governo responsável pela área da energia.
+
+3 - O procedimento concursal rege-se pelo presente decreto-lei, pelas peças do procedimento e pelos princípios gerais da contratação pública.
+
+4 - Aos centros electroprodutores abrangidos pela licença referida no n.º 1 podem ser impostas obrigações de serviço público, incluindo a obrigação de colocação de toda a sua produção no mercado organizado, nos termos a estabelecer nos documentos relativos ao procedimento.
+
+5 - (Revogado).
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+### Capítulo VI — Prestação de informação
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 65.º — Deveres
+
+1 - Não se aplicam às Regiões Autónomas as disposições relativas ao mercado organizado, bem como as disposições relativas à separação jurídica das atividades de produção, transporte, distribuição e comercialização de eletricidade, nos termos da derrogação prevista no artigo 44.º da Diretiva n.º 2009/72/CE, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+2 - Sem prejuízo do estabelecido no número anterior, a ERSE e a DGEG, no âmbito das atribuições desta de articulação com o Instituto Nacional de Estatística e nos termos previstos na Lei n.º 22/2008, de 13 de maio, podem solicitar aos intervenientes do SEN as informações necessárias à caracterização do SEN e ao exato conhecimento do mercado.
+
+3 - Os operadores e comercializadores do SEN devem comunicar às entidades administrativas competentes o início, a alteração ou a cessação da sua actividade, no prazo e nos termos dos respectivos contratos de concessão ou licenças.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 65.º-A — Manutenção de dados e informações relevantes
+
+1 - As empresas de electricidade estão obrigadas a manter à disposição da DGEG, da ERSE, da Autoridade da Concorrência e da Comissão Europeia, para cumprimento das respectivas obrigações e competências, todos os suportes contratuais e dados e informações relativos a todas as transacções relevantes de electricidade, nos termos estabelecidos no Regulamento de Relações Comerciais.
+
+2 - Para efeitos do número anterior, as empresas de electricidade estão obrigadas a manter os elementos aí previstos durante um período de, pelo menos, cinco anos a fim de poderem ser facultados ou facilitado o acesso directo, para consulta ou auditoria.
+
+3 - A informação referida no n.º 1 deve especificar as características das transacções relevantes, tais como as relativas à duração, à entrega e à regularização, à quantidade e à hora de execução, os preços de transacção e os meios para identificar o cliente grossista em causa, assim como elementos específicos de todos os contratos abertos de comercialização de electricidade.
+
+4 - A ERSE aprova regulamentos para definir os métodos e disposições para a manutenção dos registos, assim como o formato e teor dos dados a manter, de acordo com as orientações adoptadas pela Comissão Europeia ao abrigo da Directiva n.º 2009/72/CE, do Parlamento Europeu e do Conselho, de 13 de Julho.
+
+5 - O disposto nos números anteriores é aplicável aos elementos específicos de todos os contratos de derivados de electricidade celebrados por comercializadores com clientes grossistas e com o operador da RNT, após aprovação pela Comissão Europeia das orientações referidas no número anterior.
+
+6 - A ERSE pode tornar pública a informação prevista no presente artigo, salvaguardando a informação considerada comercialmente sensível sobre intervenientes ou transacções em concreto, nos termos do Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+### Capítulo VII — Regiões Autónomas
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 66.º — Âmbito de aplicação e órgãos competentes
+
+1 - Não se aplicam às Regiões Autónomas as disposições relativas ao mercado organizado, bem como as disposições relativas à separação jurídica das atividades de produção, transporte, distribuição e comercialização de eletricidade, nos termos da derrogação prevista no artigo 44.º da Diretiva n.º 2009/72/CE, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+2 - As adaptações decorrentes da aplicação do disposto no número anterior são efectuadas mediante acto legislativo regional.
+
+3 - Nas Regiões Autónomas, as competências cometidas ao Governo da República, à DGGE e a outros organismos da administração central são exercidas pelos correspondentes membros do Governo Regional e pelos serviços e organismos das administrações regionais com idênticas atribuições e competências, sem prejuízo das competências da ERSE, da Autoridade da Concorrência e de outras entidades de actuação com âmbito nacional.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 67.º — Extensão da regulação às Regiões Autónomas
+
+1 - A regulação da ERSE exercida no âmbito do SEN é extensiva às Regiões Autónomas.
+
+2 - A extensão das competências de regulação da ERSE às Regiões Autónomas assenta no princípio da partilha dos benefícios decorrentes da convergência do funcionamento do SEN, nomeadamente em matéria de convergência tarifária e de relacionamento comercial.
+
+3 - A convergência do funcionamento do SEN por via da regulação tem por finalidade, ao abrigo dos princípios da cooperação e da solidariedade do Estado, contribuir para a correcção das desigualdades das Regiões Autónomas resultantes da insularidade e do seu carácter ultraperiférico.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 68.º — Aplicação da regulamentação
+
+O Regulamento Tarifário, o Regulamento de Relações Comerciais, o Regulamento do Acesso às Redes e às Interligações e o Regulamento da Qualidade de Serviço são aplicáveis às Regiões Autónomas, tendo em conta as suas especificidades, nomeadamente as que estão relacionadas com a descontinuidade, a dispersão e a dimensão geográfica e do mercado.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+### Capítulo VIII — Regime transitório
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 69.º — Contrato de concessão da RNT
+
+1 - A concessão da RNT, atribuída à REN - Rede Eléctrica Nacional, S. A., pelos Decretos-Leis n.os 182/95 e 185/95, ambos de 27 de Julho, e pelo respectivo contrato de concessão, mantém-se na titularidade desta entidade.
+
+2 - A exploração da referida concessão passa a processar-se nos termos do presente decreto-lei e da legislação complementar.
+
+3 - O actual contrato de concessão, celebrado entre o Estado e a REN - Rede Eléctrica Nacional, S. A., é, mediante aditamento, modificado por força das alterações decorrentes do presente decreto-lei e da legislação complementar, salvaguardando-se o princípio da reposição de equilíbrio contratual.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 70.º — Licença de distribuição de electricidade em MT E AT
+
+1 - A licença de distribuição de electricidade em MT e AT, da titularidade da EDP Distribuição - Energia, S. A., é convertida em concessão, mediante a celebração do respectivo contrato.
+
+2 - A exploração da concessão referida no número anterior passa a processar-se nos termos do presente decreto-lei e da legislação complementar, salvaguardando-se o princípio do equilíbrio da exploração.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 71.º — Concessões de distribuição de electricidade em BT
+
+1 - As actuais concessões de distribuição de electricidade em BT, atribuídas e renovadas nos termos do Decreto-Lei n.º 344-B/82, de 1 de Setembro, mantêm-se na titularidade das respectivas concessionárias, sem prejuízo do estabelecido nos números seguintes.
+
+2 - A exploração das concessões de electricidade em BT passa a processar-se nos termos do presente decreto-lei e da legislação complementar.
+
+3 - Os actuais contratos de concessão, celebrados entre os municípios e as entidades concessionárias, são modificados por força das alterações decorrentes do presente decreto-lei e da legislação complementar, observando-se o prazo dos contratos actualmente em vigor, contado a partir da data da sua celebração ou da sua renovação, nos termos do diploma referido no n.º 1.
+
+4 - A modificação dos contratos deve ocorrer no prazo e nos termos estabelecidos em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 72.º — Manutenção do equilíbrio contratual dos contratos de aquisição de energia
+
+1 - Os termos da manutenção do equilíbrio contratual dos contratos de aquisição de electricidade, celebrados entre a entidade concessionária da RNT e os produtores vinculados ao abrigo do Decreto-Lei n.º 183/95, de 27 de Julho, são estabelecidos em legislação específica.
+
+2 - Enquanto não cessarem os contratos referidos no número anterior, cabe à entidade concessionária da RNT, ou à entidade que a venha a substituir na gestão destes contratos, a aquisição e a entrega de electricidade, nos termos a definir em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 73.º — Atribuição transitória da qualidade de comercializador de último recurso
+
+1 - A licença prevista no n.º 2 do artigo 46.º é atribuída à sociedade, juridicamente independente das sociedades que exerçam as demais actividades previstas no presente decreto-lei, a constituir pela EDP Distribuição - Energia, S. A.
+
+2 - A licença prevista no número anterior caduca na data da extinção do contrato de concessão da RND resultante da conversão prevista no n.º 1 do artigo 70.º
+
+3 - A sociedade referida no n.º 1 deve estar constituída no prazo e nos termos estabelecidos em legislação complementar.
+
+4 - É igualmente atribuída às demais entidades concessionárias, ao abrigo do Decreto-Lei n.º 344-B/82, de 1 de Setembro, a qualidade de comercializador de último recurso dentro da sua área de concessão, enquanto durar o correspondente contrato de concessão.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 73.º-A — Repercussão dos sobrecustos com a aquisição de energia a produtores em regime especial
+
+1 - Os sobrecustos com a produção em regime especial determinados nos termos da lei, incluindo os ajustamentos dos dois anos anteriores, devem ser repercutidos nos proveitos a recuperar pelas empresas reguladas num período máximo de cinco anos, para efeitos do cálculo das tarifas.
+
+2 - O mecanismo previsto no número anterior pode ser utilizado pela ERSE, para os anos subsequentes a 2012, tendo em conta as necessidades de estabilidade tarifária.
+
+3 - A parcela de proveitos permitidos, resultantes da diferença entre os proveitos permitidos em cada ano e os resultantes da repercussão em anos seguintes dos sobrecustos referidos nos números anteriores, deve ser identificada como ajustamento tarifário e suscetível de ser transmitida nos termos previstos no artigo 3.º do Decreto-Lei n.º 237-B/2006, de 18 de dezembro, e no artigo 5.º do Decreto-Lei n.º 165/2008, de 21 de agosto.
+
+4 - A transferência intertemporal de proveitos referida nos números anteriores deve ser compensada pela aplicação de uma taxa de remuneração, a definir por portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.
+
+5 - A taxa de remuneração referida no número anterior considera o equilíbrio económico e financeiro das atividades reguladas e o prazo associado à recuperação integral dos proveitos permitidos que são objeto de alisamento.
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+8 - De acordo com o regime de transferência intertemporal estabelecido no presente artigo, só podem ser repercutidos nos proveitos a recuperar pelas empresas reguladas os ajustamentos tarifários referentes a sobrecustos com a produção em regime especial ocorridos até 31 de dezembro de 2025.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2020 - Diário da República n.º 192/2020, Série I de 2020-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2020-144272498), em vigor a partir de 2020-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2015 - Diário da República n.º 167/2015, Série I de 2015-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2015-70128401), em vigor a partir de 2015-09-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+### Capítulo IX — Disposições finais
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 74.º — Arbitragem
+
+1 - Os conflitos entre o Estado ou os municípios e as respectivas entidades concessionárias, emergentes dos respectivos contratos, podem ser resolvidos por recurso a arbitragem.
+
+2 - Os conflitos entre as entidades concessionárias e os demais interveniente no SEN, no âmbito das respectivas actividades, podem ser igualmente resolvidos por recurso à arbitragem.
+
+3 - Das decisões dos tribunais arbitrais cabe recurso para os tribunais judiciais nos termos da lei geral.
+
+4 - Compete à ERSE promover a arbitragem destinada à resolução de conflitos entre os agentes e os clientes.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 75.º — Garantias
+
+Para garantir o cumprimento das suas obrigações, os operadores de redes e os produtores devem constituir e manter em vigor um seguro de responsabilidade civil, proporcional ao potencial risco inerente às atividades, de montante a definir nos termos da legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+###### Artigo 76.º — Regime sancionatório
+
+O regime sancionatório aplicável às disposições do presente decreto-lei e da legislação complementar é estabelecido em decreto-lei específico.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 77.º — Regulamentação
+
+1 - Os regimes jurídicos das actividades previstas no presente decreto-lei, incluindo as respectivas bases de concessão, e os procedimentos para atribuição das licenças e concessões são estabelecidos por decreto-lei.
+
+2 - Para efeitos da aplicação do presente decreto-lei, são previstos os seguintes regulamentos:
+
+a) O Regulamento do Acesso às Redes e às Interligações, que estabelece as condições técnicas e comerciais segundo as quais se processa o acesso às redes de transporte e de distribuição e às interligações;
+
+b) O Regulamento Tarifário, que estabelece os critérios e métodos para a formulação de tarifas, designadamente as de acesso às redes e às interligações e aos serviços de sistema, as tarifas de venda de electricidade do comercializador de último recurso, segundo os princípios definidos no presente decreto-lei e demais legislação aplicável, bem como disposições específicas aplicáveis à convergência tarifária entre o continente e as Regiões Autónomas;
+
+c) O Regulamento de Relações Comerciais, que estabelece as regras de funcionamento das relações comerciais entre os vários intervenientes no SEN, as condições comerciais para ligação às redes públicas, as regras relativas à medição, leitura e disponibilização de dados de consumo, bem como as regras aplicáveis à escolha de comercializador e funcionamento dos mercados de energia eléctrica;
+
+d) O Regulamento da Qualidade de Serviço, que estabelece os padrões de qualidade de serviço de natureza técnica e comercial;
+
+e) O Regulamento da Rede de Transporte, que define a constituição e caracterização da rede de transporte e estabelece as condições da sua exploração, nomeadamente no que respeita ao controlo e operação, incluindo relacionamento com as entidades a ela ligadas, à realização de manobras e execução de trabalhos e respectiva manutenção, as condições técnicas gerais e particulares aplicáveis à ligação das instalações a elas ligadas e aos sistemas de apoio, medição, protecção e ensaios da rede e dessas mesmas instalações, bem como as condições e limitações à injecção de potência reactiva decorrentes da necessidade de assegurar a fiabilidade e segurança da rede e a qualidade de serviço;
+
+f) O Regulamento da Rede de Distribuição, que define a constituição e a caracterização da rede de distribuição e estabelece as condições da sua exploração, nomeadamente no respeitante ao controlo e operação, incluindo o relacionamento com as entidades a ela ligadas, à realização de manobras e execução de trabalhos e respectiva manutenção, as condições técnicas gerais e particulares aplicáveis à ligação das instalações a elas ligadas e aos sistemas de apoio, medição, protecção e ensaios da rede e dessas mesmas instalações, bem como as condições e limitações à injecção de potência reactiva decorrentes da necessidade de assegurar a fiabilidade e segurança das rede e a qualidade de serviço;
+
+g) O Regulamento de Operação das Redes, que estabelece as condições necessárias à gestão dos fluxos de electricidade na RNT, assegurando a sua interoperacionalidade com as redes a que esteja ligada, bem como as condições para a verificação técnica da exploração e a adaptação em tempo real da produção ao consumo.
+
+h) O Regulamento da Forma de Execução das obrigações do operador da RNT no apoio ao Concedente em matéria de política energética, com vista a assegurar o seu cumprimento das referidas obrigações de forma independente;
+
+i) O Regulamento de Funcionamento da Comissão de Auditoria ao cumprimento do regulamento referido na alínea anterior.
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 78.º — Operação logística de mudança de comercializador de electricidade
+
+O regime de exercício da actividade de operação logística de mudança de comercializador de electricidade é estabelecido em legislação complementar.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 78.º-A — Sistemas inteligentes
+
+1 - Designam-se por sistemas inteligentes os sistemas destinados à medição da energia eléctrica e gestão da informação relativa à electricidade que favoreçam a participação activa do consumidor no mercado de fornecimento de electricidade.
+
+2 - A implementação de sistemas inteligentes mencionados no número anterior depende de:
+
+a) Avaliação económica de longo prazo de todos os custos e benefícios para o mercado, designadamente para operadores de rede, comercializadores e para o consumidor individual;
+
+b) Estudo que determine qual o modelo de sistema inteligente economicamente mais racional e o prazo para a sua instalação.
+
+3 - (Revogado.)
+
+4 - Após a avaliação prevista no n.º 2, o membro do Governo responsável pela área da energia aprova, mediante portaria, um sistema inteligente, tendo em conta o cumprimento das obrigações europeias e respetivos prazos de cumprimento.
+
+5 - A portaria prevista no número anterior prevê, nomeadamente, os requisitos técnicos e funcionais do sistema inteligente, os respetivos calendários de instalação, bem como o modo de financiamento dos custos inerentes e de repercussão desses custos nas tarifas reguladas.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215-A/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), em vigor a partir de 2012-10-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), em vigor a partir de 2011-06-21
+
+###### Artigo 79.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 182/95, de 27 de Julho, na redacção que lhe foi dada pelos Decretos-Leis n.os 56/97, de 14 de Março, 24/99, de 28 de Janeiro, 198/2000, de 24 de Agosto, 69/2002, de 25 de Março, e 85/2002, de 6 de Abril;
+
+b) O Decreto-Lei n.º 69/2002, de 25 de Março;
+
+c) O artigo 4.º do Decreto-Lei n.º 187/95, na redacção que lhe foi dada pelo Decreto-Lei n.º 44/97, de 20 de Fevereiro, que mantém a sua vigência até 31 de Dezembro de 2006.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 80.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 2 de Fevereiro de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Fevereiro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15

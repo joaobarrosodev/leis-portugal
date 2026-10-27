@@ -1,0 +1,233 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130779510:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-150109575",
+ "dre_path": "/dr/detalhe/decreto-lei/10-k-2020-130779510",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202011924",
+    "150110682",
+    "150110683",
+    "150110684"
+   ]
+  },
+  {
+   "date": "2020-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:149971740:por",
+     "title": "Decreto-Lei n.º 101-A/2020",
+     "published": "2020-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/101-a-2020-149971740"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "150110681",
+    "150110682",
+    "150110683",
+    "150110686",
+    "150110687",
+    "150110688"
+   ]
+  },
+  {
+   "date": "2021-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154946852:por",
+     "title": "Decreto-Lei n.º 8-B/2021",
+     "published": "2021-01-22",
+     "dre_path": "/dr/detalhe/decreto-lei/8-b-2021-154946852"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Revoga Artigo 2.º-A"
+   ],
+   "fragments": [
+    "150110681",
+    "150110682",
+    "154789537",
+    "154789538",
+    "150110687",
+    "150110688"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202011924",
+    "202011925",
+    "202011926",
+    "202011927",
+    "202011928",
+    "202011929"
+   ]
+  }
+ ],
+ "fragments": {
+  "202011924": {
+   "fragment_id": "150109576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-K/2020\n\nde 26 de março\n\nSumário: Estabelece um regime excecional e temporário de faltas justificadas motivadas por assistência à família, no âmbito da pandemia da doença COVID-19.\n\nA Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, constituindo uma calamidade pública. A situação tem evoluído muito rapidamente em todo o mundo e, em particular, na União Europeia.\n\nAtendendo à situação excecional que o país atravessa, o Governo decretou a suspensão das atividades letivas e não letivas e formativas com presença de estudantes em estabelecimentos públicos, particulares e cooperativos e do setor social e solidário de educação pré-escolar, básica, secundária e do ensino superior.\n\nPara permitir o necessário acompanhamento das crianças, o Governo, através do Decreto-Lei n.º 10-A/2020, de 13 de março, considerou como faltas justificadas as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência, fora dos períodos de interrupções letivas fixados nos anexos ii e iv ao Despacho n.º 5754-A/2019, publicado no Diário da República, 2.ª série, n.º 115, de 18 de junho.\n\nEsta medida enquadra-se num conjunto de medidas de apoio à família e ao acompanhamento de crianças, como a criação de um apoio excecional à família para acompanhamento de filhos menores de 12 anos ou, independentemente da idade, com deficiência ou doença crónica que se aplica fora dos períodos de interrupção letiva, ou enquanto durar a suspensão das atividades dos serviços de creche no caso dos pais com filhos que frequentassem estes estabelecimentos.\n\nFace ao exposto, o cenário atual, não só exigente, mas também em constante mutação, obriga a que as medidas inicialmente adotadas pelo Governo sejam reforçadas, no sentido de melhorar a sua adequação à realidade. Assim, avaliadas as circunstâncias, entende o Governo que é necessário reforçar as condições atribuídas às famílias na prestação de assistência a filhos menores durante os períodos de interrupção letiva fixadas no referido Despacho.\n\nAo mesmo tempo, atenta a situação atual, entende o Governo que é igualmente necessário acautelar as situações em que se verifica a necessidade de assistência a parente ou afim na linha reta ascendente que se encontre a cargo do trabalhador e que frequente equipamentos sociais cuja atividade seja suspensa.\n\nPor fim, entende o Governo salvaguardar a situação profissional dos bombeiros voluntários que trabalham no setor privado e social e que, para o desempenho de serviço de socorro e de transporte de doentes no âmbito da pandemia da doença COVID-19, necessitam de faltar ao trabalho. A justificação de faltas para este setor visa repor condições de paridade com os bombeiros voluntários a exercer funções públicas, abrangidos pelo regime excecional de dispensa de serviço, previsto no artigo 32.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "150110682": {
+   "fragment_id": "150109577",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece um regime excecional e temporário de faltas justificadas motivadas por assistência à família ou por desempenho de funções de bombeiro voluntário com contrato de trabalho com empregador do setor privado ou social, no âmbito da pandemia da doença COVID-19.\n\n2 - O disposto no presente decreto-lei não prejudica a possibilidade de estabelecer um regime específico para profissionais de saúde que acomode a possibilidade de assistência a dependente a cargo que frequente equipamentos sociais e que alargue a aplicação do regime já previsto para a assistência à família dos profissionais de saúde também aos períodos de férias escolares."
+  },
+  "150110683": {
+   "fragment_id": "150109578",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de faltas justificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional de faltas justificadas\n\n1 - Durante a vigência do presente decreto-lei, e sem prejuízo do disposto no artigo 22.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, consideram-se faltas justificadas:\n\na) As motivadas por assistência a filho ou outro dependente a cargo menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica, bem como a neto que viva com o trabalhador em comunhão de mesa e habitação e que seja filho de adolescente com idade inferior a 16 anos, nos períodos de interrupção letiva fixados nos anexos ii e iv ao Despacho n.º 5754-A/2019, publicado no Diário da República, 2.ª série, n.º 115, de 18 de junho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho, quando aplicável;\n\nb) As motivadas por assistência a cônjuge ou pessoa que viva em união de facto ou economia comum com o trabalhador, parente ou afim na linha reta ascendente que se encontre a cargo do trabalhador e que frequente equipamentos sociais cuja atividade seja suspensa por determinação da autoridade de saúde, no âmbito do exercício das suas competências, ou pelo Governo, desde que não seja possível continuidade de apoio através de resposta social alternativa;\n\nc) As motivadas pela prestação de socorro ou transporte, no âmbito da pandemia da doença COVID-19, por bombeiros voluntários com contrato de trabalho com empregador do setor privado ou social, comprovadamente chamados pelo respetivo corpo de bombeiros.\n\n2 - As faltas justificadas ao abrigo do número anterior não determinam a perda de quaisquer direitos, salvo quanto à retribuição.\n\n3 - Para efeitos do disposto nos números anteriores, o trabalhador comunica a ausência ao empregador nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n4 - As faltas previstas no presente artigo não contam para o limite anual previsto nos artigos 49.º, 50.º e 252.º do Código do Trabalho.\n\n5 - Para prestar assistência nas situações previstas nas alíneas a) e b) do n.º 1, o trabalhador pode proceder à marcação de férias, sem necessidade de acordo com o empregador, mediante comunicação, por escrito com antecedência de dois dias relativamente ao início do período de férias.\n\n6 - Durante o período de férias previsto no número anterior é devida retribuição do período correspondente à que o trabalhador receberia se estivesse em serviço efetivo, não se aplicando o n.º 3 do artigo 264.º do Código do Trabalho, podendo neste caso o subsídio de férias ser pago na sua totalidade até ao quarto mês seguinte ao do início do gozo de férias.\n\n7 - O disposto no n.º 5 não é aplicável aos trabalhadores abrangidos pelo artigo 10.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n8 - Para efeitos do disposto na alínea c) do n.º 1, o comandante do respetivo corpo de bombeiros emite documento escrito, devidamente assinado, comprovando os dias em que o bombeiro voluntário prestou serviço, sendo o respetivo salário encargo da Autoridade Nacional de Emergência e Proteção Civil.\n\n9 - O disposto nos números anteriores não afasta a aplicação de disposição mais favorável prevista no Código do Trabalho, em legislação específica ou em instrumento de regulamentação coletiva de trabalho aplicável.\n\n10 - Os estabelecimentos a que se refere o n.º 1 do artigo 10.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, asseguram o acolhimento dos beneficiários indicados na mesma disposição durante o período de interrupção letiva."
+  },
+  "150110684": {
+   "fragment_id": "150109579",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "150110681": {
+   "fragment_id": "150109576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, constituindo uma calamidade pública. A situação tem evoluído muito rapidamente em todo o mundo e, em particular, na União Europeia.\n\nAtendendo à situação excecional que o país atravessa, o Governo decretou a suspensão das atividades letivas e não letivas e formativas com presença de estudantes em estabelecimentos públicos, particulares e cooperativos e do setor social e solidário de educação pré-escolar, básica, secundária e do ensino superior.\n\nPara permitir o necessário acompanhamento das crianças, o Governo, através do Decreto-Lei n.º 10-A/2020, de 13 de março, considerou como faltas justificadas as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência, fora dos períodos de interrupções letivas fixados nos anexos ii e iv ao Despacho n.º 5754-A/2019, publicado no Diário da República, 2.ª série, n.º 115, de 18 de junho.\n\nEsta medida enquadra-se num conjunto de medidas de apoio à família e ao acompanhamento de crianças, como a criação de um apoio excecional à família para acompanhamento de filhos menores de 12 anos ou, independentemente da idade, com deficiência ou doença crónica que se aplica fora dos períodos de interrupção letiva, ou enquanto durar a suspensão das atividades dos serviços de creche no caso dos pais com filhos que frequentassem estes estabelecimentos.\n\nFace ao exposto, o cenário atual, não só exigente, mas também em constante mutação, obriga a que as medidas inicialmente adotadas pelo Governo sejam reforçadas, no sentido de melhorar a sua adequação à realidade. Assim, avaliadas as circunstâncias, entende o Governo que é necessário reforçar as condições atribuídas às famílias na prestação de assistência a filhos menores durante os períodos de interrupção letiva fixadas no referido Despacho.\n\nAo mesmo tempo, atenta a situação atual, entende o Governo que é igualmente necessário acautelar as situações em que se verifica a necessidade de assistência a parente ou afim na linha reta ascendente que se encontre a cargo do trabalhador e que frequente equipamentos sociais cuja atividade seja suspensa.\n\nPor fim, entende o Governo salvaguardar a situação profissional dos bombeiros voluntários que trabalham no setor privado e social e que, para o desempenho de serviço de socorro e de transporte de doentes no âmbito da pandemia da doença COVID-19, necessitam de faltar ao trabalho. A justificação de faltas para este setor visa repor condições de paridade com os bombeiros voluntários a exercer funções públicas, abrangidos pelo regime excecional de dispensa de serviço, previsto no artigo 32.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "150110686": {
+   "fragment_id": "150109581",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Faltas motivadas por suspensão das atividades letivas e não letivas e formativas",
+   "in_force_from": "2020-11-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28"
+   ],
+   "markdown": "###### Artigo 2.º-A — Faltas motivadas por suspensão das atividades letivas e não letivas e formativas\n\n1 - Consideram-se faltas justificadas as motivadas por assistência a filho ou outro dependente a cargo menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica, bem como a neto que viva com o trabalhador em comunhão de mesa e habitação e que seja filho de adolescente com idade inferior a 16 anos, decorrentes da suspensão das atividades letivas e não letivas e formativas nos termos previstos nos n.os 1 e 4 do artigo 22.º do Decreto n.º 9/2020, de 21 de novembro.\n\n2 - Às faltas dadas ao abrigo do presente artigo aplica-se o regime previsto nos n.os 2 a 4 e 6 do artigo anterior.\n\n3 - Para prestar assistência a filho na situação prevista no n.º 1, o trabalhador pode, em alternativa, proceder à marcação de férias, sem necessidade de acordo com o empregador, mediante comunicação por escrito.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28"
+  },
+  "150110687": {
+   "fragment_id": "150109579",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "150110688": {
+   "fragment_id": "150109580",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149098"
+  },
+  "154789537": {
+   "fragment_id": "150109578",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de faltas justificadas",
+   "in_force_from": "2021-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22"
+   ],
+   "markdown": "###### Artigo 2.º — Regime excecional de faltas justificadas\n\n1 - Durante a vigência do presente decreto-lei, e sem prejuízo do disposto no artigo 22.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, consideram-se faltas justificadas:\n\na) (Revogada);\n\nb) As motivadas por assistência a cônjuge ou pessoa que viva em união de facto ou economia comum com o trabalhador, parente ou afim na linha reta ascendente que se encontre a cargo do trabalhador e que frequente equipamentos sociais cuja atividade seja suspensa por determinação da autoridade de saúde, no âmbito do exercício das suas competências, ou pelo Governo, desde que não seja possível continuidade de apoio através de resposta social alternativa;\n\nc) As motivadas pela prestação de socorro ou transporte, no âmbito da pandemia da doença COVID-19, por bombeiros voluntários com contrato de trabalho com empregador do setor privado ou social, comprovadamente chamados pelo respetivo corpo de bombeiros.\n\n2 - As faltas justificadas ao abrigo do número anterior não determinam a perda de quaisquer direitos, salvo quanto à retribuição.\n\n3 - Para efeitos do disposto nos números anteriores, o trabalhador comunica a ausência ao empregador nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n4 - As faltas previstas no presente artigo não contam para o limite anual previsto nos artigos 49.º, 50.º e 252.º do Código do Trabalho.\n\n5 - Para prestar assistência nas situações previstas nas alíneas a) e b) do n.º 1, o trabalhador pode proceder à marcação de férias, sem necessidade de acordo com o empregador, mediante comunicação, por escrito com antecedência de dois dias relativamente ao início do período de férias.\n\n6 - Durante o período de férias previsto no número anterior é devida retribuição do período correspondente à que o trabalhador receberia se estivesse em serviço efetivo, não se aplicando o n.º 3 do artigo 264.º do Código do Trabalho, podendo neste caso o subsídio de férias ser pago na sua totalidade até ao quarto mês seguinte ao do início do gozo de férias.\n\n7 - O disposto no n.º 5 não é aplicável aos trabalhadores abrangidos pelo artigo 10.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n8 - Para efeitos do disposto na alínea c) do n.º 1, o comandante do respetivo corpo de bombeiros emite documento escrito, devidamente assinado, comprovando os dias em que o bombeiro voluntário prestou serviço, sendo o respetivo salário encargo da Autoridade Nacional de Emergência e Proteção Civil.\n\n9 - O disposto nos números anteriores não afasta a aplicação de disposição mais favorável prevista no Código do Trabalho, em legislação específica ou em instrumento de regulamentação coletiva de trabalho aplicável.\n\n10 - Os estabelecimentos a que se refere o n.º 1 do artigo 10.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, asseguram o acolhimento dos beneficiários indicados na mesma disposição durante o período de interrupção letiva.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22"
+  },
+  "154789538": {
+   "fragment_id": "150109581",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Faltas motivadas por suspensão das atividades letivas e não letivas e formativas",
+   "in_force_from": "2021-01-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28"
+   ],
+   "markdown": "###### Artigo 2.º-A — Faltas motivadas por suspensão das atividades letivas e não letivas e formativas\n\n1 - Consideram-se faltas justificadas as motivadas por assistência a filho ou outro dependente a cargo menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica, bem como a neto que viva com o trabalhador em comunhão de mesa e habitação e que seja filho de adolescente com idade inferior a 16 anos, decorrentes da suspensão das atividades letivas e não letivas e formativas nos termos previstos nos n.os 1 e 4 do artigo 22.º do Decreto n.º 9/2020, de 21 de novembro.\n\n2 - Às faltas dadas ao abrigo do presente artigo aplica-se o regime previsto nos n.os 2 a 4 e 6 do artigo anterior.\n\n3 - Para prestar assistência a filho na situação prevista no n.º 1, o trabalhador pode, em alternativa, proceder à marcação de férias, sem necessidade de acordo com o empregador, mediante comunicação por escrito.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28"
+  },
+  "202011925": {
+   "fragment_id": "150109577",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece um regime excecional e temporário de faltas justificadas motivadas por assistência à família ou por desempenho de funções de bombeiro voluntário com contrato de trabalho com empregador do setor privado ou social, no âmbito da pandemia da doença COVID-19.\n\n2 - O disposto no presente decreto-lei não prejudica a possibilidade de estabelecer um regime específico para profissionais de saúde que acomode a possibilidade de assistência a dependente a cargo que frequente equipamentos sociais e que alargue a aplicação do regime já previsto para a assistência à família dos profissionais de saúde também aos períodos de férias escolares.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011926": {
+   "fragment_id": "150109578",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de faltas justificadas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22"
+   ],
+   "markdown": "###### Artigo 2.º — Regime excecional de faltas justificadas\n\n1 - Durante a vigência do presente decreto-lei, e sem prejuízo do disposto no artigo 22.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, consideram-se faltas justificadas:\n\na) (Revogada);\n\nb) As motivadas por assistência a cônjuge ou pessoa que viva em união de facto ou economia comum com o trabalhador, parente ou afim na linha reta ascendente que se encontre a cargo do trabalhador e que frequente equipamentos sociais cuja atividade seja suspensa por determinação da autoridade de saúde, no âmbito do exercício das suas competências, ou pelo Governo, desde que não seja possível continuidade de apoio através de resposta social alternativa;\n\nc) As motivadas pela prestação de socorro ou transporte, no âmbito da pandemia da doença COVID-19, por bombeiros voluntários com contrato de trabalho com empregador do setor privado ou social, comprovadamente chamados pelo respetivo corpo de bombeiros.\n\n2 - As faltas justificadas ao abrigo do número anterior não determinam a perda de quaisquer direitos, salvo quanto à retribuição.\n\n3 - Para efeitos do disposto nos números anteriores, o trabalhador comunica a ausência ao empregador nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n4 - As faltas previstas no presente artigo não contam para o limite anual previsto nos artigos 49.º, 50.º e 252.º do Código do Trabalho.\n\n5 - Para prestar assistência nas situações previstas nas alíneas a) e b) do n.º 1, o trabalhador pode proceder à marcação de férias, sem necessidade de acordo com o empregador, mediante comunicação, por escrito com antecedência de dois dias relativamente ao início do período de férias.\n\n6 - Durante o período de férias previsto no número anterior é devida retribuição do período correspondente à que o trabalhador receberia se estivesse em serviço efetivo, não se aplicando o n.º 3 do artigo 264.º do Código do Trabalho, podendo neste caso o subsídio de férias ser pago na sua totalidade até ao quarto mês seguinte ao do início do gozo de férias.\n\n7 - O disposto no n.º 5 não é aplicável aos trabalhadores abrangidos pelo artigo 10.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n8 - Para efeitos do disposto na alínea c) do n.º 1, o comandante do respetivo corpo de bombeiros emite documento escrito, devidamente assinado, comprovando os dias em que o bombeiro voluntário prestou serviço, sendo o respetivo salário encargo da Autoridade Nacional de Emergência e Proteção Civil.\n\n9 - O disposto nos números anteriores não afasta a aplicação de disposição mais favorável prevista no Código do Trabalho, em legislação específica ou em instrumento de regulamentação coletiva de trabalho aplicável.\n\n10 - Os estabelecimentos a que se refere o n.º 1 do artigo 10.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, asseguram o acolhimento dos beneficiários indicados na mesma disposição durante o período de interrupção letiva.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22"
+  },
+  "202011927": {
+   "fragment_id": "150109581",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Faltas motivadas por suspensão das atividades letivas e não letivas e formativas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28"
+   ],
+   "markdown": "###### Artigo 2.º-A — Faltas motivadas por suspensão das atividades letivas e não letivas e formativas\n\n1 - Consideram-se faltas justificadas as motivadas por assistência a filho ou outro dependente a cargo menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica, bem como a neto que viva com o trabalhador em comunhão de mesa e habitação e que seja filho de adolescente com idade inferior a 16 anos, decorrentes da suspensão das atividades letivas e não letivas e formativas nos termos previstos nos n.os 1 e 4 do artigo 22.º do Decreto n.º 9/2020, de 21 de novembro.\n\n2 - Às faltas dadas ao abrigo do presente artigo aplica-se o regime previsto nos n.os 2 a 4 e 6 do artigo anterior.\n\n3 - Para prestar assistência a filho na situação prevista no n.º 1, o trabalhador pode, em alternativa, proceder à marcação de férias, sem necessidade de acordo com o empregador, mediante comunicação por escrito.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28"
+  },
+  "202011928": {
+   "fragment_id": "150109579",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011929": {
+   "fragment_id": "150109580",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149098\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

@@ -1,0 +1,600 @@
+---
+schema_version: '1.0'
+id: eu:celex:31998D0653:por
+title: '98/653/CE: Decisão da Comissão de 18 de Novembro de 1998'
+short_title: null
+summary: '98/653/CE: Decisão da Comissão de 18 de Novembro de 1998 relativa a medidas de emergência em matéria de protecção
+  contra a encefalopatia espongiforme bovina (BSE), tornadas necessárias pela ocorrência de BSE em Portugal [notificada com
+  o número C(1998) 3544] (Texto relevante para efeitos do EEE)'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1998/653
+official_date: null
+publication_date: '1998-11-20'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 311 de 20.11.1998
+  number: '311'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/7c21ac3e-afbe-4836-ba47-fd6a4f608a3b.0011.02/DOC_1
+entry_into_force_dates:
+- '1998-11-18'
+end_of_validity_date: '2001-05-14'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+version_history:
+  file: decisao-ue-1998-653.versoes.json
+  count: 1
+  source_lastmod: '2000-02-04'
+  versions:
+  - date: '1998-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: 31998D0653
+  eli: http://data.europa.eu/eli/dec/1998/653/oj
+  oj: oj:JOL_1998_311_R_0023_015
+  dre: null
+  dre_path: null
+  internal: eu:celex:31998D0653:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31998D0653
+  metadata_url: http://publications.europa.eu/resource/cellar/7c21ac3e-afbe-4836-ba47-fd6a4f608a3b.0011
+  content_url: http://publications.europa.eu/resource/cellar/7c21ac3e-afbe-4836-ba47-fd6a4f608a3b.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T14:46:32Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-26T08:37:59.609+01:00'
+integrity:
+  source_sha256: ed7532f44749a12f949990f74d8727a4c7928ff03233edc871901b3133d6b3bf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:32Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-1998-653.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Portugal
+- bovino
+- doença animal
+- inspeção veterinária
+- legislação veterinária
+- produto animal
+relationships:
+- type: amended_by
+  target: celex:31999D0517
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b4f935e4-3f6d-4c2a-b6b1-cbfbfbb07c37
+  date: '1999-08-04'
+- type: amended_by
+  target: celex:31999D0713
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8ca2d2ef-a6f7-4532-9ba2-518f939fc1c9
+  date: '1999-11-10'
+- type: amended_by
+  target: celex:32000D0104
+  label: null
+  source: http://publications.europa.eu/resource/cellar/57d02b5e-fb18-48ab-bf29-d53389bfb3ef
+  date: '2000-02-09'
+- type: based_on
+  target: celex:31990L0425
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab8624bc-b6de-43f3-9a99-83fc83c8d85f
+  date: '1990-08-18'
+- type: based_on
+  target: celex:31989L0662
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0c21eb0f-b405-4c20-8b0b-7e7c3bb1ee16
+  date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:168630:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:514662:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:611688:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:655308:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:661353:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31964L0433
+  label: null
+  source: http://publications.europa.eu/resource/cellar/759f2d2b-6b09-4d07-ae48-d56a16b166d6
+- type: cites
+  target: celex:31977L0099
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7c32d7ef-2983-4ed2-84c8-369af82bbef3
+- type: cites
+  target: celex:31982L0894
+  label: null
+  source: http://publications.europa.eu/resource/cellar/44f52f1b-6d0b-4083-959a-38fa9a1d3374
+- type: cites
+  target: celex:31991D0398
+  label: null
+  source: http://publications.europa.eu/resource/cellar/64f213da-b6e2-48fe-b5cf-75d2b021c8d0
+- type: cites
+  target: celex:31994D0381
+  label: null
+  source: http://publications.europa.eu/resource/cellar/474716a3-1ebd-4f30-8aee-1db8ac3bcee8
+- type: cites
+  target: celex:31994L0065
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5a1988e1-9646-4e5a-bfa1-73c96dea5d93
+- type: cites
+  target: celex:31996D0381
+  label: null
+  source: http://publications.europa.eu/resource/cellar/615a21f5-1307-408d-b83d-c50e28f3a022
+- type: cites
+  target: celex:31996D0449
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a4d413c0-c12f-4cb3-96a3-61d3423aa557
+- type: cites
+  target: celex:31997D0534
+  label: null
+  source: http://publications.europa.eu/resource/cellar/05970fc5-ee4a-4599-bc09-a40fc86f9f98
+- type: cites
+  target: celex:31997D0735
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fd9f58df-2647-47f5-836a-402c94f71cbe
+- type: cites
+  target: celex:31997R0820
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d8f6ed5b-08b8-4308-9fd9-3c182b60b8a3
+- type: cites
+  target: celex:31998D0272
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3a48a00a-1762-48e4-a9a1-759b0540418c
+- type: repealed_by
+  target: celex:32001D0376
+  label: null
+  source: http://publications.europa.eu/resource/cellar/315b1a6e-1064-47dc-8616-4ab3ccc95bfc
+  date: '2001-05-16'
+article_structure:
+  article_count: 18
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:46:32Z'
+  warnings:
+  - '01998D0653-19990728: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998D0653-19991021: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998D0653-20000204: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  errors: []
+---
+
+# 98/653/CE: Decisão da Comissão de 18 de Novembro de 1998
+
+**98/653/CE: Decisão da Comissão de 18 de Novembro de 1998 relativa a medidas de emergência em matéria de protecção contra a encefalopatia espongiforme bovina (BSE), tornadas necessárias pela ocorrência de BSE em Portugal [notificada com o número C(1998) 3544] (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 311 de 20/11/1998 p. 0023 - 0031*
+
+DECISÃO DA COMISSÃO de 18 de Novembro de 1998 relativa a medidas de emergência em matéria de protecção contra a encefalopatia espongiforme bovina (BSE), tornadas necessárias pela ocorrência de BSE em Portugal [notificada com o número C(1998) 3544] (Texto relevante para efeitos do EEE) (98/653/CE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos zootécnicos e veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (1), com a última redacção que lhe foi dada pela Directiva 92/118/CEE (2), e, nomeadamente, o nº 4 do seu artigo 10º,
+
+Tendo em conta a Directiva 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno (3), com a última redacção que lhe foi dada pela Directiva 92/118/CEE, e, nomeadamente, o nº 4 do seu artigo 9º,
+
+(1) Considerando que se sabe há já muitos anos que várias encefalopatias espongiformes transmissíveis ocorrem tanto no ser humano como nos animais; que a encefalopatia espongiforme bovina (BSE) foi identificada pela primeira vez nos bovinos em 1986 e que, nos anos seguintes, se verificou a sua ocorrência noutras espécies animais; que, em 1996, foi descrita uma nova variante da doença de Creutzfeldt-Jakob (nv-DCJ); que se têm vindo a acumular provas de que o agente causador da BSE é idêntico ao que causa a nv-DCJ;
+
+(2) Considerando que, entre 1 de Janeiro de 1998 e 14 de Outubro de 1998, foram notificados 66 casos de BSE em Portugal; que daí resulta, para o período dos últimos 12 meses, uma taxa de incidência da BSE de 105,6 casos por milhão de animais com idade superior a dois anos; que foram identificados dois casos em animais nascidos depois da proibição de utilização de proteínas de mamíferos na alimentação dos ruminantes; que a evolução da incidência da doença indica a existência da possibilidade de reciclagem e acumulação do agente da BSE no efectivo bovino português;
+
+(3) Considerando que foram efectuadas em Portugal pelo Serviço de Inspecções e de Controlos Veterinários e Fitossanitários da Comissão, de 7 a 12 de Julho de 1996, e pelo Serviço Alimentar e Veterinário da Comissão, de 15 a 21 de Junho de 1997 e de 11 a 15 de Maio de 1998, várias deslocações em serviço, relativas a questões ligadas à BSE; que as referidas deslocações contribuíram para a avaliação da aplicação e da eficácia das medidas de protecção contra a BSE; que as referidas deslocações conduziram à conclusão de que, apesar de se terem registado progressos importantes, nem todos os factores de risco eram adequadamente geridos; que o Serviço Alimentar e Veterinário realizou uma nova deslocação em serviço de 28 de Setembro a 2 de Outubro de 1998; que esta deslocação confirmou a maior parte das conclusões das anteriores deslocações em serviço e, apesar da melhoria global da situação, permitiu verificar a permanência de deficiências na aplicação das medidas de controlo dos factores de risco; que o nítido aumento da incidência de BSE, especialmente a partir de Junho de 1998, causa sérias preocupações quanto à evolução da doença no futuro próximo; que, com base nos resultados da referida deslocação em serviço, se concluiu que, devido às deficiências existentes até muito recentemente na aplicação da legislação comunitária relativa à identificação e registo dos animais e das medidas de vigilância das encefalopatias espongiformes transmissíveis e de erradicação da BSE, não é possível ter garantias adequadas sobre os antecedentes dos efectivos de origem e de trânsito, bem como das mães dos bovinos, no que respeita à BSE;
+
+(4) Considerando que, em 27 de Março de 1998, o Comité Científico Director (CCD) emitiu parecer sobre os riscos ligados à BSE; que, nesse parecer, o CCD identificou três importantes questões respeitantes a esses riscos: em primeiro lugar, os riscos de exposição do ser humano resultantes do consumo directo de matérias potencialmente infecciosas, em segundo lugar, os riscos para o ser humano decorrentes da ingestão ou da exposição a matérias transformadas potencialmente infecciosas e, em terceiro lugar, os riscos de propagação da infecção através da reciclagem de matérias infecciosas existentes nos alimentos para animais; que a Comissão do Código Zoossanitário do Gabinete Internacional de Epizootias (GIE) propõe igualmente que a avaliação dos riscos para a saúde pública e a sanidade animal em países, ou regiões de países, se baseie numa combinação dos dados relativos à propagação da BSE e dos relativos à aplicação de medidas de controlo dos riscos;
+
+(5) Considerando que, nestas circunstâncias e a título de medida de urgência, é conveniente proibir temporariamente a expedição a partir de Portugal para os outros Estados-membros de todos os bovinos e de todos os produtos deles provenientes, ou que contenham matérias deles derivadas, que possam entrar nas cadeias alimentares humana ou animal ou se destinem a ser utilizados em produtos cosméticos ou médicos ou em dispositivos médicos que, para impedir desvios dos fluxos comerciais, tal proibição abrange também as exportações para países terceiros; que é necessário proibir temporariamente a expedição a partir de Portugal de farinhas de carne e de ossos de mamíferos, bem como de alimentos para animais e fertilizantes que as contenham, que, pela sua natureza, poderiam entrar na cadeia alimentar animal;
+
+(6) Considerando que o nível dos riscos de propagação ou de introdução da doença através de bovinos vivos em efectivos não infectados é considerado importante; que as medidas complementares propostas por Portugal para controlar os riscos de exposição do ser humano e dos animais a matérias infectadas são consideradas adequadas; que há que ter em conta o tempo necessário para a aplicação eficaz dessas medidas e a apreciação da execução das referidas medidas; que, em consequência, a proibição da expedição de produtos provenientes de bovinos pode ser limitada no tempo, desde que uma análise de riscos aplicada com base nas conclusões da deslocação em serviço do Serviço Alimentar e Veterinário e que tenha em conta a evolução da doença, demonstre que foram tomadas medidas adequadas para gerir todos os riscos e que as medidas comunitárias e nacionais pertinentes são respeitadas e eficazmente aplicadas; que, na sequência de resultados favoráveis de tal análise de riscos, o período previsto para a proibição da exportação de carne e de certos outros produtos pode ser reduzido;
+
+(7) Considerando que o Regulamento (CE) nº 820/97 do Conselho, de 21 de Abril de 1997, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino (4), prevê um sistema que permite reconstituir o historial dos animais até às mães e aos efectivos de origem; que tal sistema constitui uma condição prévia para uma erradicação eficaz da BSE e que é necessário que Portugal garanta a aplicação eficaz dessas disposições comunitárias;
+
+(8) Considerando que a Decisão 98/272/CE da Comissão, de 23 de Abril de 1998, relativa à vigilância epidemiológica das encefalopatias espongiformes transmissíveis e que altera a Decisão 94/474/CE (5), prevê um programa de formação contínua destinado a promover a declaração das encefalopatias espongiformes transmissíveis, a notificação obrigatória, as restrições das deslocações, o eventual abate, o exame e destruição de animais suspeitos, a realização de um programa de amostragem e vigilância e a comunicação anual à Comissão e aos Estados-membros dos resultados desse programa, nomeadamente as informações relativas ao número e aos resultados das investigações clínicas e epidemiológicas praticadas em animais suspeitos; que, dada a gravidade da situação, se justifica exigir que Portugal aumente a frequência dos relatórios transmitidos à Comissão e aos outros Estados-membros para uma vez de quatro em quatro semanas;
+
+(9) Considerando que a Decisão 96/381/CE da Comissão, de 20 de Junho de 1996, que aprova as medidas a aplicar no que respeita à encefalopatia espongiforme bovina em Portugal (6), refere o princípio, estabelecido no ponto 6 das conclusões da reunião do Conselho de 1 a 3 de Abril de 1996, de que um programa de controlo da BSE e de redução do número de casos futuros deve centrar-se na eliminação dos animais ou, se for caso disso, dos efectivos com maior probabilidade de terem estado em contacto com farinhas de carne e de ossos infectadas; que os principais princípios do plano são:
+
+a) O abate obrigatório dos animais identificados como importados do Reino Unido, de todos os animais de efectivos em que tenham ocorrido casos de BSE e de todos os animais de outros efectivos identificados como pertencentes à mesma coorte de nascimento dos animais infectados;
+
+b) Um sistema aperfeiçoado de acompanhamento sanitário das explorações com bovinos e uma vigilância intensificada da indústria de alimentos para animais, a fim de evitar a eventual utilização de farinhas de carne e de ossos;
+
+que, a Comissão aprovou que, nas condições especiais de Portugal e com o objectivo de restaurar a confiança dos consumidores, seja adoptada em Portugal uma política de abate integral dos efectivos; que o plano aprovado pela Decisão 93/381/CE prevê o abate de todos os animais que pertençam à mesma coorte de nascimento dos animais infectados; que, em consequência, Portugal deve identificar todos os animais pertencentes à mesma coorte de nascimento, independentemente de os animais infectados terem nascido ou terem sido criados no mesmo efectivo ou num efectivo diferente daquele a que pertenciam no momento da confirmação de BSE;
+
+(10) Considerando que as disposições da Directiva 82/894/CEE do Conselho, de 21 de Dezembro de 1982, relativa à notificação de doenças dos animais na Comunidade (7), com a última redacção que lhe foi dada pela Decisão 98/12/CE da Comissão (8), exige que os Estados-membros notifiquem directamente à Comissão, pelo menos no primeiro dia útil de cada semana, os focos secundários de BSE confirmados no seu território;
+
+(11) Considerando que, com vista à protecção da saúde pública e da sanidade animal na Comunidade, a Comissão adoptou a Decisão 94/381/CE, de 27 de Junho de 1994, relativa a certas medidas de protecção respeitantes à encefalopatia espongiforme bovina e à alimentação à base de proteínas derivadas de mamíferos (9), alterada pela Decisão 95/60/CE (10), que proibiu, em toda a Comunidade, a utilização de proteínas de mamíferos na alimentação dos ruminantes, a Decisão 96/449/CE, de 18 de Julho de 1996, que aprova sistemas alternativos de tratamento térmico para a transformação de resíduos animais com vista à inactivação dos agentes da encefalopatia espongiforme (11), que estabelece o melhor método disponível de transformação de resíduos animais no que respeita aos agentes das encefalopatias espongiformes, e a Decisão 97/735/CE, de 21 de Outubro de 1997, relativa a determinadas medidas de protecção respeitantes ao comércio de certos tipos de resíduos de mamíferos (12);
+
+(12) Considerando que, conforme notificado à Comissão em 12 de Outubro de 1998, Portugal tomou medidas que incluem a proibição da incorporação de farinhas de carne e de osso nos alimentos para animais e a exigência de destruição das farinhas de carne e de ossos; que, posteriormente, Portugal se comprometeu a recolher e destruir todas as existências de farinhas de carne e de ossos e de alimentos que as contenham existentes em estabelecimentos de transformação de resíduos animais, fábricas de alimentos para animais, estabelecimentos agrícolas ou quaisquer outros locais; que se considera que estas medidas reduzem os riscos de propagação da doença através dos alimentos para animais;
+
+(13) Considerando que, conforme notificado à Comissão em 12 de Outubro de 1998, Portugal adoptou medidas com vista à destruição de certas matérias de risco, incluindo os tecidos de bovinos, ovinos e caprinos definidos como matérias de risco especificadas na Decisão 97/534/CE da Comissão, de 30 de Julho de 1997, relativa à proibição de utilização de matérias de risco no que diz respeito às encefalopatias espongiformes transmissíveis (13), com a última redacção que lhe foi dada pela Decisão 98/248/CE do Conselho (14); que se considera que essas medidas reduzem os riscos de exposição do ser humano ou de animais, directa ou indirectamente, ao agente da BSE presente nas matérias de risco;
+
+(14) Considerando que, nestas circunstâncias e a título de medida de emergência, se justifica determinar que Portugal dê aplicação a programas que demonstrem a efectiva observância do conjunto da legislação comunitária pertinente, da presente decisão e da legislação nacional pertinente e apresente à Comissão, de quatro em quatro semanas, um relatório pormenorizado sobre os resultados desse programa;
+
+(15) Considerando que devem ser aplicadas normas estritas no que respeita à exclusão de certos produtos da proibição e aos produtos provenientes de bovinos abatidos fora de Portugal;
+
+(16) Considerando que, dada a situação epidemiológica e as deslocações de bovinos vivos para a região Autónoma dos Açores, a presente decisão não é aplicável a esta região;
+
+(17) Considerando que, para apoiar financeiramente os esforços realizados por Portugal, a Comissão proporá, tão cedo quanto possível, medidas adequadas;
+
+(18) Considerando que, para verificar a aplicação das medidas previstas na presente decisão, a Comissão deve prosseguir as inspecções comunitárias em Portugal;
+
+(19) Considerando que na pendência de um exame global da situação a presente decisão será revista à luz de novos dados científicos;
+
+(20) Considerando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+### CAPÍTULO I — FINS
+
+###### Artigo 1º
+
+1. Sem prejuízo das disposições comunitárias adoptadas com vista à protecção contra a encefalopatia espongiforme bovina (BSE), a presente decisão estabelece medidas de emergência tornadas necessárias pela ocorrência de BSE em Portugal.
+
+2. A presente decisão não é aplicável na Região Autónoma dos Açores.
+
+Todavia, Portugal assegurará que as normas dos artigos 2º a 12º são aplicadas no que respeita à expedição a partir de outras partes de Portugal para os Açores.
+
+### CAPÍTULO II — BOVINOS VIVOS, EMBRIÕES DE BOVINOS, FARINHAS DE CARNE E DE OSSOS E PRODUTOS DERIVADOS
+
+###### Artigo 2º
+
+Portugal assegurará que não sejam expedidos do seu território para outros Estados-membros ou países terceiros:
+
+a) Bovinos vivos e embriões de bovinos;
+
+b) Farinhas de carne, farinhas de ossos e farinhas de carne e de ossos provenientes de mamíferos;
+
+c) Alimentos para animais e fertilizantes que contenham materiais referidos na alínea b).
+
+###### Artigo 3º
+
+Em derrogação do artigo 2º, os alimentos para carnívoros domésticos que contenham materiais referidos na alínea b) do artigo 1º podem ser expedidos para outros Estados-membros ou países terceiros, desde que esses materiais não sejam originários de Portugal e que sejam observadas as normas previstas nos artigos 8º e 9º
+
+### CAPÍTULO III — MATERIAIS PROVENIENTES DE BOVINOS ABATIDOS EM PORTUGAL
+
+###### Artigo 4º
+
+Portugal assegurará que, até 1 de Agosto de 1999, não sejam expedidos do seu território para outros Estados-membros ou países terceiros, quando provenientes de bovinos abatidos em Portugal:
+
+a) Carne;
+
+b) Produtos susceptíveis de entrar nas cadeias alimentares humana ou animal;
+
+c) Matérias destinadas a ser utilizadas em produtos cosméticos ou médicos ou em dispositivos médicos.
+
+###### Artigo 5º
+
+1. Em derrogação do artigo 4º, Portugal pode autorizar a produção e a expedição para outros Estados-membros ou países terceiros de:
+
+a) Aminoácidos, péptidos e sebo que tenham sido produzidos em estabelecimentos colocados sob controlo veterinário oficial relativamente aos quais se tenha provado que operam em conformidade com os termos do anexo;
+
+b) Produtos à base de sebo e produtos derivados do sebo por saponificação, transesterificação ou hidrólise, quando tenham sido obtidos a partir de sebo produzido em conformidade com o presente artigo;
+
+c) Amostras, expedidas dos laboratórios veterinários nacionais de Lisboa e Porto para institutos oficialmente aprovados, obtidas a partir de bovinos abatidos em Portugal e destinadas a ser utilizadas em exames laboratoriais ou na investigação sobre a BSE e testes de diagnóstico da BSE.
+
+2. Portugal assegurará que os produtos referidos nas alíneas a) e b) do nº 1 sejam rotulados, ou de outra forma identificados, de modo a indicar o estabelecimento de produção e a precisar que são adequados para utilização na alimentação humana ou animal e em produtos cosméticos ou médicos ou em dispositivos médicos.
+
+3. Portugal assegurará que os produtos referidos na alínea a) do nº 1, expedidos para outros Estados-membros ao abrigo do presente artigo, sejam acompanhados de um certificado de salubridade, emitido por um veterinário oficial, que indique que esses produtos satisfazem as normas da presente decisão e que ateste a frequência dos controlos oficiais efectuados.
+
+4. Nenhum estabelecimento pode iniciar ou reiniciar a expedição dos produtos objecto do presente artigo antes de Portugal transmitir à Comissão e aos outros Estados-membros a lista dos estabelecimentos referidos na alínea a) do nº 1, indicando para cada estabelecimento o fim para que foi aprovado. Portugal deve comunicar imediatamente à Comissão e aos outros Estados-membros qualquer alteração dessa lista.
+
+###### Artigo 6º
+
+Portugal assegurará que a gelatina, o fosfato dicálcio, o colagénio, o sebo, os produtos à base de sebo e os produtos derivados do sebo por saponificação, transesterificação ou hidrólise, destinados a utilizações técnicas e obtidos a partir de matérias-primas provenientes de bovinos abatidos em Portugal, sejam rotulados, ou de outra forma identificados, de modo a indicar o estabelecimento de produção e a precisar que não são adequados para utilização na alimentação humana ou animal, em produtos cosméticos ou médicos ou em dispositivos médicos.
+
+### CAPÍTULO IV — MATERIAIS PROVENIENTES DE BOVINOS NÃO ABATIDOS EM PORTUGAL
+
+###### Artigo 7º
+
+Portugal garantirá a observância do disposto nos artigos 8º a 12º aquando da expedição do seu território para outros Estados-membros ou países terceiros dos seguintes produtos provenientes de bovinos não abatidos em Portugal:
+
+a) «Carne fresca», tal como definida na Directiva 64/433/CEE do Conselho (15);
+
+b) «Carnes picadas» e «preparados de carne», tal como definidos na Directiva 94/65/CE (16);
+
+c) «Produtos à base de carne» e «outros produtos de origem animal», tal como definidos na Directiva 77/99/CEE (17);
+
+d) Alimentos para carnívoros domésticos;
+
+e) Gelatina, fosfato dicálcico, sebo, produtos à base de sebo e produtos derivados do sebo por saponificação, transesterificação ou hidrólise, aminoácidos, péptidos e colagénio, susceptíveis de entrar nas cadeias alimentares humana ou animal, ou que se destinem a ser utilizados em produtos cosméticos ou médicos ou em dispositivos médicos.
+
+###### Artigo 8º
+
+1. Os produtos referidos no artigo 7º devem provir e, se for caso disso, ter passado por estabelecimentos em Portugal:
+
+a) Aprovados pela autoridade competente;
+
+b) Colocados sob controlo veterinário oficial ou, no caso dos produtos derivados do sebo por saponificação, transesterificação ou hidrólise, colocados sob o controlo da autoridade competente;
+
+c) Que tenham instalado um sistema de rastreio das matérias-primas que garanta a sua origem ao longo da cadeia de produção;
+
+d) Que tenham instalado um sistema de registo das quantidades de matérias entradas e saídas, de modo a permitir o controlo cruzado das remessas entradas ou saídas;
+
+e) Em que os produtos sejam descarregados, transformados, armazenados, manipulados, carregados e transportados separadamente, ou em alturas diferentes, dos produtos que não satisfazem as condições do presente artigo e dos artigos 9º, 10º e 11º
+
+2. Portugal transmitirá à Comissão e aos outros Estados-membros a lista dos estabelecimentos que satisfazem as condições previstas no nº 1, indicando para cada um deles o fim para que foi aprovado. Portugal deve comunicar imediatamente à Comissão e aos outros Estados-membros qualquer alteração dessa lista.
+
+###### Artigo 9º
+
+1. Os produtos referidos nas alíneas a) a d) do artigo 7º devem provir e, se for caso disso, ter passado por estabelecimentos em Portugal no quais:
+
+a) Todas as operações de descarregamento, transformação, armazenagem, ou outras manipulações, e carregamento dos produtos sejam efectuadas sob controlo oficial;
+
+b) Os produtos sejam armazenados em câmaras frigoríficas em que não estejam simultaneamente presentes produtos provenientes de bovinos que não preencham as condições estatuídas no presente artigo e nos artigos 8º, 10º, 11º e 12º e que fiquem fechadas e seladas pela autoridade competente estando esta ausente;
+
+c) Os produtos sejam marcados ou rotulados com uma marca suplementar distinta que não possa ser confundida com a marca de salubridade comunitária;
+
+d) Os produtos susceptíveis de serem expedidos de Portugal nos termos do presente artigo e dos artigos 8º, 10º, 11º e 12º, mas que se destinem a ser comercializados em Portugal, não ostentem a marca suplementar referida na alínea c). Sempre que esteja presente, essa marca deve ser cancelada ou retirada da carne ou cancelada no rótulo na altura em que a carne deixe o estabelecimento.
+
+Portugal transmitirá à Comissão e aos outros Estados-membros o modelo da marca suplementar.
+
+2. Para efeitos da marcação de salubridade e aplicação das marcas suplementares previstas na legislação comunitária, a autoridade competente terá e conservará sob a sua responsabilidade:
+
+a) Os instrumentos para a marcação de salubridade da carne e para a aplicação das marcas suplementares, os quais só podem ser entregues a pessoal auxiliar na altura da marcação e durante o período necessário para o efeito;
+
+b) Todos os rótulos que ostentem uma marca de salubridade ou uma marca suplementar. Tais rótulos ostentarão números de série e podem ser entregues a pessoal auxiliar, no número necessário, na altura da sua utilização.
+
+3. Os produtos referidos no nº 1 serão transportados em meios de transporte selados pela autoridade competente.
+
+Quando tais produtos forem expedidos para outros Estados-membros, serão acompanhados de um certificado de salubridade emitido por um veterinário oficial, que ateste a observância das condições do presente artigo e dos artigos 8º, 10º, 11º e 12º e que identifique todos os estabelecimentos em que os produtos foram obtidos, transformados, manipulados ou armazenados, bem como todos os rótulos e respectivos números de série referentes à remessa.
+
+A carne deve ser acompanhada do certificado de salubridade referido no anexo IV da Directiva 64/433/CEE, que deve identificar, na secção «Identificação da carne», todos os rótulos e respectivos números de série referentes à remessa.
+
+Deve ser acrescentada a todos os certificados a seguinte menção:
+
+«Produzido em conformidade com a Decisão 98/653/CE da Comissão».
+
+4. Portugal informará a autoridade competente, através do sistema Animo, referido na Decisão 91/398/CEE (18), ou por fax, do local de destino de cada remessa.
+
+###### Artigo 10º
+
+Sem prejuízo do nº 1, alínea d), do artigo 9º, no que respeita aos produtos referidos na alínea a) do artigo 7º que provêm ou, se for caso disso, passaram por estabelecimentos em Portugal as marcas de salubridade não serão removidas, excepto quando tal seja inevitável durante o processo de corte.
+
+###### Artigo 11º
+
+Os produtos referidos na alínea e) do artigo 7º que sejam expedidos para outros Estados-membros devem ser rotulados de modo a indicar o estabelecimento de produção e a precisar que foram produzidos de acordo com a presente decisão e, consoante o caso, que são adequados para utilização na alimentação humana ou animal, em produtos cosméticos ou médicos ou em dispositivos médicos.
+
+###### Artigo 12º
+
+1. Um Estado-membro que expeça carne referida na alínea a) do artigo 7º proveniente de um estabelecimento ou de um posto de inspecção fronteiriço comunitário aprovado no seu território através do território de Portugal ou para um estabelecimento aprovado nos termos do artigo 8º assegurará que a carne seja acompanhada de um certificado veterinário emitido por um veterinário oficial ou pelo certificado emitido pela autoridade competente do posto de inspecção fronteiriço.
+
+Os originais de todos os certificados devem acompanhar a remessa até ao estabelecimento de destino.
+
+2. A carne referida na alínea a) do artigo 7º deve ser transportada num veículo selado oficialmente.
+
+Os selos só podem ser retirados em caso de inspecção oficial.
+
+3. Um Estado-membro que expeça os produtos referidos na alínea e) do artigo 7º, ou quaisquer matérias-primas a utilizar para produção desses produtos, para um estabelecimento aprovado nos termos do artigo 8º assegurará que sejam rotulados, ou de outra forma identificados, de modo a indicar o estabelecimento e o Estado-membro em que foram produzidos.
+
+### CAPÍTULO V — FISCALIZAÇÃO E RELATÓRIOS
+
+###### Artigo 13º
+
+1. Portugal completará os esforços realizados e dará execução a um programa para demonstrar a efectiva observância do conjunto da legislação comunitária pertinente no que respeita à identificação e registo dos animais, à notificação das doenças dos animais, à vigilância epidemiológica das encefalopatias espongiformes transmissíveis e de todas as outras disposições legislativas comunitárias relativas à protecção contra a BSE.
+
+2. Portugal adoptará um programa para demonstrar a efectiva aplicação das:
+
+a) Disposições da presente decisão;
+
+b) Medidas nacionais pertinentes de protecção contra a BSE, nomeadamente as relativas à erradicação da doença.
+
+3. Os programas referidos nos nºs 1 e 2 incluirão o acompanhamento permanente da aplicação das disposições pertinentes e, se for caso disso, o exame físico dos produtos em causa através de um método aprovado.
+
+###### Artigo 14º
+
+Portugal enviará de quatro em quatro semanas à Comissão um relatório sobre a aplicação das medidas de protecção adoptadas contra as encefalopatias espongiformes transmissíveis, em conformidade com as disposições comunitárias e nacionais, e sobre os resultados do programa referido no artigo 13º
+
+###### Artigo 15º
+
+A Comissão realizará em Portugal inspecções comunitárias no local com o objectivo de:
+
+a) Verificar a aplicação das disposições da presente decisão, nomeadamente no que respeita à execução dos controlos oficiais;
+
+b) Examinar a evolução da incidência da doença, a efectiva aplicação das medidas nacionais pertinentes e realizar uma análise de riscos destinada a demonstrar se foram tomadas medidas apropriadas para gerir qualquer risco.
+
+### CAPÍTULO VI — DISPOSIÇÕES FINAIS
+
+###### Artigo 16º
+
+1. Na pendência de um exame global da situação e, nomeadamente, da evolução da incidência da doença e da efectiva aplicação das medidas pertinentes, e à luz de novos dados científicos, a presente decisão será revista o mais tardar 18 meses após a sua adopção.
+
+2. A pedido de Portugal, a presente decisão será alterada para ter em conta os diferentes sistemas de controlo que forneçam garantias equivalentes às medidas previstas nos artigos 5º a 12º
+
+3. A presente decisão será alterada, se for caso disso, após consulta do Comité Científico adequado, de acordo com o procedimento previsto no artigo 18º da Directiva 89/662/CEE.
+
+###### Artigo 17º
+
+Os Estados-membros adoptarão as medidas necessárias para dar cumprimento à presente decisão. Do facto informarão imediatamente a Comissão.
+
+###### Artigo 18º
+
+Os Estados-membros são os destinatários da presente decisão.
+
+Feito em Bruxelas, em 18 de Novembro de 1998.
+
+Pela Comissão
+
+Franz FISCHLER
+
+Membro da Comissão
+
+(1) JO L 224 de 18. 8. 1990, p. 29.
+
+(2) JO L 62 de 15. 3. 1993, p. 49.
+
+(3) JO L 395 de 30. 12. 1989, p. 13.
+
+(4) JO L 117 de 7. 5. 1997, p. 1.
+
+(5) JO L 122 de 24. 4. 1998, p. 59.
+
+(6) JO L 149 de 22. 6. 1996, p. 25.
+
+(7) JO L 378 de 31. 12. 1982, p. 58.
+
+(8) JO L 4 de 8. 1. 1998, p. 63.
+
+(9) JO L 172 de 7. 7. 1994, p. 23.
+
+(10) JO L 55 de 11. 3. 1995, p. 43.
+
+(11) JO L 184 de 24. 7. 1996, p. 43.
+
+(12) JO L 294 de 28. 10. 1997, p. 7.
+
+(13) JO L 216 de 8. 8. 1997, p. 95.
+
+(14) JO L 102 de 2. 4. 1998, p. 26.
+
+(15) JO 121 de 29. 7. 1964, p. 2012/64.
+
+(16) JO L 368 de 31. 12. 1994, p. 10.
+
+(17) JO L 26 de 31. 1. 1977, p. 85.
+
+(18) JO L 221 de 9. 8. 1991, p. 30.
+
+## ANEXO — CAPÍTULO 1
+
+1. Nos termos do disposto no artigo 5º, podem ser exportados de Portugal os seguintes produtos:
+
+a) Aminoácidos e péptidos produzidos a partir de peles mediante um processo que envolva a exposição das matérias a um pH de 1 a 2, seguido de um pH >!SP31!11, seguido de um tratamento térmico a 140 °C durante 30 minutos a 3 bar,
+
+b) Sebo e produtos à base de sebo produzidos a partir de matérias provenientes de animais próprios para consumo humano que tenham sido submetidas a um dos processos descritos no capítulo 2,
+
+c) Produtos derivados do sebo por um dos processos descritos no capítulo 3.
+
+2. Os produtos referidos no ponto 1 devem ser filtrados após terem sido produzidos.
+
+3. Os bovinos que apresentem sinais de BSE não podem ser utilizados como matéria-prima para a produção dos produtos referidos no ponto 1.
+
+4. Para a produção dos produtos referidos no ponto 1, não podem ser utilizados os seguintes tecidos: crânio, coluna vertebral, cérebro, espinal medula, olhos, amígdalas, timo, intestinos e baço.
+
+### CAPÍTULO 2 — A. Normas de produção aplicáveis ao sebo produzido em Portugal a partir de matérias provenientes de bovinos abatidos em Portugal
+
+1. O sebo só pode ser produzido unicamente através dos sistemas descritos nos capítulos I, II, III, IV, VI e VII do anexo da Decisão 92/562/CEE da Comissão (1), em que se encontrem reunidas as seguintes condições mínimas:
+
+### CAPÍTULO I
+
+(tratamento em descontínuo/sob pressão/gordura natural)
+
+Dimensão máxima das partículas: 150 mm
+
+>POSIÇÃO NUMA TABELA>
+
+### CAPÍTULO II
+
+(tratamento em descontínuo/sob pressão/gordura natural)
+
+Dimensão máxima das partículas: 50 mm
+
+>POSIÇÃO NUMA TABELA>
+
+### CAPÍTULO III
+
+(tratamento em contínuo/pressão atmosférica/gordura natural)
+
+Dimensão máxima das partículas: 30 mm
+
+>POSIÇÃO NUMA TABELA>
+
+CAPÍTULOS IV e VI
+
+(tratamento em contínuo/pressão atmosférica/gordura adicionada e tratamento em contínuo/sob pressão/gordura adicionada)
+
+Dimensão máxima das partículas: 30 mm
+
+>POSIÇÃO NUMA TABELA>
+
+### CAPÍTULO VII
+
+(tratamento em contínuo/pressão atmosférica/desengorduramento)
+
+Dimensão máxima das partículas: 20 mm
+
+>POSIÇÃO NUMA TABELA>
+
+As exigências de temperatura e de tempo acima referidas podem ser aplicadas simultaneamente.
+
+2. Portugal só pode aprovar estabelecimentos em relação aos quais se tenha demonstrado, pelos métodos fixados na secção B, que operam em conformidade com as condições estabelecidas no ponto 1.
+
+3. Podem igualmente ser aprovados os sistemas em descontínuo que satisfaçam os parâmetros definidos no ponto 2 para os sistemas em contínuo que operam em conformidade com os capítulos III, IV, VI ou VII.
+
+B. Processos de aprovação dos estabelecimentos de transformação dos resíduos provenientes de ruminantes para a produção de sebo em Portugal, por aplicação dos métodos descritos no anexo da Decisão 92/562/CEE
+
+1. Temperatura - sistemas em contínuo e em descontínuo
+
+Para registar a temperatura em diferentes fases do processo, devem ser instalados, a distâncias regulares ao longo do equipamento, aparelhos de controlo da temperatura. A intervalos regulares, devem ser registadas as temperaturas e efectuadas calibrações.
+
+2. Pressão (unicamente capítulo II)
+
+Para registar a pressão em diferentes fases do processo, devem ser instalados aparelhos de controlo da pressão. A intervalos regulares, devem ser registadas as pressões e efectuadas calibrações.
+
+3. Dimensão das partículas - todos os sistemas
+
+### CAPÍTULO 3 — Alimentos destinados à alimentação humana ou animal, produtos médicos ou dispositivos médicos e seus produtos de base ou intermédios
+
+Os derivados do sebo podem ser utilizados desde que sejam produzidos por um método adequado, validado e estritamente certificado, nomeadamente:
+
+1. Transesterificação ou hidrólise a uma temperatura não inferior a 200 °C, durante pelo menos 20 minutos, sob presão (produção de glicerol, ácidos gordos e ésteres de ácidos gordos); ou
+
+2. Saponificação com NaOH 12M (produção de glicerol e de sabão):
+
+- por um processo em descontínuo: a uma temperatura não inferior a 95 °C, durante pelo menos 3 horas,
+
+ou
+
+- por um processo em contínuo: a uma temperatura não inferior a 140 °C e uma pressão de 2 bar, durante pelo menos 8 minutos, ou equivalente.
+
+Produtos cosméticos e seus produtos de base ou intermédios
+
+Os derivados do sebo podem ser utilizados desde que sejam utilizados, e estritamente certificados pelo produtor, os seguintes métodos:
+
+1. Transesterificação ou hidrólise a uma temperatura não inferior a 200 °C e uma pressão de 40 bar, durante 20 minutos (glicerol, ácidos gordos e ésteres de ácidos gordos); ou
+
+2. Saponificação com NaOH 12M (glicerol e de sabão):
+
+- por um processo em descontínuo: a 95 °C durante 3 horas,
+
+ou
+
+- por um processo em contínuo: a 140 °C e 2 bar durante 8 minutos, ou equivalente.
+
+(1) JO L 359 de 9. 12. 1992, p. 23.

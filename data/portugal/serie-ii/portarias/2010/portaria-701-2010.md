@@ -1,0 +1,90 @@
+---
+schema_version: '1.0'
+id: pt:dre:1597780:por
+title: Portaria n.º 701/2010
+short_title: null
+summary: Concede a medalha de coragem, abnegação e humanidade, grau prata, ao motorista de embarcações salva-vidas Israel
+  Pedro da Mata Cartucho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 701/2010
+official_date: null
+publication_date: '2010-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/2010, Série II de 2010-09-27
+  number: '188'
+  series: II
+  supplement: null
+  pages: 48356 - 48356
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/09/188000000/4835648356.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1597780'
+  dre_path: /dr/detalhe/portaria/701-2010-1597780
+  internal: pt:dre:1597780:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-2010-1597780
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-2010-1597780
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e9458409792c7d3aaa5b4392d6275736b767fb81013a1ddd5682e322fcac9ea5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:27:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:27:26Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 701/2010
+
+Manda o Chefe do Estado-Maior da Armada, em harmonia com a proposta do Director do Instituto de Socorros a Náufragos, que seja concedida a medalha de coragem, abnegação e humanidade, grau prata, ao 11521005 motorista de embarcação salva-vidas Israel Pedro da Mata Cartucho, tripulante da embarcação salva-vidas "SR 28", pelo relevante serviço prestado na salvação de náufragos, quando do salvamento da jovem, de quinze anos, que se encontrava inanimada a cerca de quatro metros de profundidade, em frente à praia Internacional, em Matosinhos.
+
+Ministério da Defesa Nacional - Marinha, 09-09-2010. - O Almirante Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+203719223

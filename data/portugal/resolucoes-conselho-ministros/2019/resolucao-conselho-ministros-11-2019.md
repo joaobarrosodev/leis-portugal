@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:117919460:por
+title: Resolução do Conselho de Ministros n.º 11/2019
+short_title: null
+summary: Autoriza a despesa relativa ao Plano de Renovação da Frota da Transtejo, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 11/2019
+official_date: null
+publication_date: '2019-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2019, Série I de 2019-01-18
+  number: '13'
+  series: I
+  supplement: null
+  pages: 364 - 365
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01300/0036400365.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-03-30'
+version_history:
+  file: resolucao-conselho-ministros-11-2019.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-05-03'
+    amending: pt:dre:162325937:por
+    amending_title: Resolução do Conselho de Ministros n.º 45-A/2021
+    changes:
+    - Altera Diploma
+  - date: '2022-03-30'
+    amending: pt:dre:180994142:por
+    amending_title: Resolução do Conselho de Ministros n.º 33/2022
+    changes:
+    - Altera Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/11/2019/p/cons/20231103/pt/html
+  oj: null
+  dre: '117919460'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/11-2019-117919460
+  internal: pt:dre:117919460:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2019-117919460
+  metadata_url: https://data.dre.pt/eli/resolconsmin/11/2019/p/cons/20231103/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2019-181066887
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2019-181066887
+  retrieved_at: '2026-10-22T12:49:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 1a09cd20271898f0611997478b459ca333ddca8be94be0cadc4a1a1c9ba71697
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:49:55Z'
+  notes: 3 versão(ões); histórico completo em resolucao-conselho-ministros-11-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Embarcação
+- Autorização de Despesas
+- Financiamento
+- Conselho de Administração
+- Delegação de Competências
+- RIO TEJO
+- Transporte
+- Transporte de Passageiros
+- Transporte Fluvial
+- Transporte Público
+- Transtejo
+- Governo XXI
+- Fundo Ambiental
+relationships:
+- type: amended_by
+  target: pt:dre:162325937:por
+  label: Altera Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-a-2021-162325937
+  date: '2021-04-28'
+- type: amended_by
+  target: pt:dre:180994142:por
+  label: Altera Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2022-180994142
+  date: '2022-03-25'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:49:55Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 11/2019
+
+Resolução do Conselho de Ministros n.º 11/2019
+
+A promoção de um transporte público de qualidade, com prioridade às pessoas e com vista a reduzir o uso do transporte individual, é um vetor essencial do programa do XXI Governo Constitucional que se articula com a estratégia nacional de descarbonização das cadeias de mobilidade, para cumprimento dos compromissos de redução da pegada de carbono e de combate ao aquecimento global decorrentes do acordo de Paris.
+
+Em particular no contexto dos principais aglomerados urbanos, com destaque para as áreas metropolitanas de Lisboa e Porto, onde os movimentos pendulares casa-trabalho-casa e casa-escola-casa assumem particular intensidade, a oferta de um transporte coletivo de qualidade e adequado à procura é um eixo fundamental, importando portanto manter padrões de serviço de excelência, quer em termos de fiabilidade e frequências, quer em termos de conforto e qualidade do serviço.
+
+Adicionalmente, é sobejamente reconhecido o desinvestimento a que as empresas públicas foram sujeitas e que conduziu à degradação significativa dos ativos de exploração, em particular das suas frotas, com impactos significativos na fiabilidade das mesmas e no cumprimento das frequências estabelecidas.
+
+Considerando o caso particular da Transtejo, S. A., tem-se assistido a constrangimentos significativos na operação da empresa, refletidos nas várias supressões que em muito degradam o serviço e a sua imagem perante os utilizadores, que muitas vezes não têm outra alternativa para se deslocarem entre as margens norte e sul do rio Tejo ou, pelo menos, outras opções igualmente competitivas em termos de economia de tempo e dinheiro.
+
+Há diversos fatores estruturais que concorrem para intensificar os constrangimentos à operação desta empresa, entre os quais: i) a elevada idade média da frota que realiza as ligações Cacilhas-Cais do Sodré (38 anos), Seixal-Cais do Sodré e Montijo-Cais do Sodré (mais de 20 anos); ii) o seu estado de degradação face ao desinvestimento na sua manutenção; iii) a elevada intensidade de operação, com muitas atracações por dia que em muito desgastam as embarcações; iv) a heterogeneidade da frota que torna os processos de gestão e manutenção dos navios mais complexos e onerosos; v) e a necessidade de dar cumprimento aos períodos de docagem obrigatórios com vista a garantir as condições de navegabilidade e segurança dos navios.
+
+Não obstante o esforço recente de recuperação do investimento na manutenção dos navios, tais ações não conferem qualquer solução estável e duradoura para a operação da empresa, pelo caráter estrutural dos constrangimentos sentidos.
+
+É premente dar uma resposta, também ela estrutural, à presente situação, sendo entendimento do Governo que tal só pode passar pela renovação integral da frota de navios que opera as referidas ligações fluviais, bem como pelo estabelecimento de um contrato de manutenção que garanta fiabilidade e níveis de disponibilidade da frota da Transtejo, S. A., a longo prazo.
+
+Esta solução estrutural passará, portanto, por um projeto de renovação integral da frota da Transtejo, S. A., que opera atualmente as ligações Cacilhas-Cais do Sodré, Seixal-Cais do Sodré e Montijo-Cais do Sodré, constituída por até 10 navios iguais, cujo investimento deve atingir um valor não superior a 57 milhões de euros, a realizar entre 2019 e 2024, atendendo ao tempo de desenvolvimento dos projetos, construção e entrega dos navios. Por forma a garantir desde logo o compromisso dos fornecedores e níveis de serviço, fiabilidade e consequentemente, de regularidade e qualidade do serviço, pretende-se ainda assegurar um contrato de manutenção para os navios até 2035.
+
+Face a um projeto desta envergadura e à natureza plurianual dos compromissos a assumir, importa assim conferir autorização à Transtejo, S. A., para proceder à respetiva assunção de encargos.
+
+Assim:
+
+Nos termos do n.º 2 do artigo 45.º da Lei n.º 91/2001, de 20 de agosto, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, e do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, o Conselho de Ministros resolve:
+
+1 - Aprovar a proposta referente ao 'Plano de Renovação da Frota da Transtejo, S. A.', doravante designado por Plano, que inclui os seguintes investimentos, para os quais deve a Transtejo - Transportes Tejo, S. A. (Transtejo, S. A.), realizar todas as ações necessárias com vista à concretização:
+
+a) Da aquisição de 10 novos navios;
+
+b) Da aquisição e construção dos postos de carregamento;
+
+c) Da manutenção dos navios e dos postos de carregamento para o período de 2022 a 2036.
+
+2 - Autorizar a Transtejo, S. A., a assumir os encargos plurianuais e a realizar a despesa necessária à concretização do Plano referido no número anterior, até ao montante global de (euro) 70 545 497, referentes à componente de investimento, e de até (euro) 28 800 505, referentes à componente de manutenção, valores aos quais acresce o IVA à taxa legal em vigor.
+
+3 - Determinar que os encargos orçamentais decorrentes da execução do Plano, não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+
+a) Encargos com a componente investimento em navios e postos de carregamento:
+
+i) Em 2019: (euro) 31 085,00;
+
+ii) Em 2020: (euro) 5 166,00;
+
+iii) Em 2021: (euro) 13 158 170,00;
+
+iv) Em 2022: (euro) 30 650 998,00;
+
+v) Em 2023: (euro) 20 244 277;
+
+vi) Em 2024: (euro) 6 455 801;
+
+b) Encargos com a componente manutenção de navios, postos de carregamento e infraestruturas flutuantes:
+
+i) Em 2022: (euro) 1 254 000,00;
+
+ii) Entre 2023 e 2036: (euro) 1 967 607,50 em cada ano.
+
+4 - Determinar que o investimento resultante da execução da componente de aquisição do Plano é financiado exclusivamente pelo Fundo Ambiental, por fundos europeus no âmbito do Programa Operacional Sustentabilidade e Eficiência no Uso de Recursos (POSEUR), por receitas decorrentes do abate e desmantelamento da frota a substituir e pelo orçamento da Transtejo, S. A., nos seguintes termos:
+
+a) Transferências orçamentais provenientes do Fundo Ambiental, reconhecendo-se, nos termos da lei, estar em causa uma intervenção de especial relevância, até ao montante global de (euro) 55 954 856, repartidas da seguinte forma:
+
+i) Em 2021: (euro) 9 178 000,00;
+
+ii) Em 2022: (euro) 25 567 678,00;
+
+iii) Em 2023: (euro) 14 858 918;
+
+iv) Em 2024: (euro) 6 350 260;
+
+b) Verbas financiadas por fundos europeus no âmbito do POSEUR, no montante global mínimo de (euro) 12 210 576, repartidas da seguinte forma:
+
+i) Em 2021: (euro) 3 862 320,00;
+
+ii) Em 2022: (euro) 4 009 708,00;
+
+iii) Em 2023: (euro) 4 338 548;
+
+c) Receita obtida com o abate e desmantelamento de navios da Transtejo S. A., a substituir, no montante global de (euro) 1 950 000,00, repartida da seguinte forma:
+
+i) Em 2022: (euro) 975 000,00;
+
+ii) Em 2023: (euro) 975 000,00.
+
+d) Verbas do orçamento da Transtejo, S. A., no montante global de (euro) 430 065,00, repartidas da seguinte forma:
+
+i) Em 2019: (euro) 31 085,00;
+
+ii) Em 2020: (euro) 5 166,00;
+
+iii) Em 2021: (euro) 117 850,00;
+
+iv) Em 2022: (euro) 98 612,00;
+
+v) Em 2023: (euro) 71 811,00;
+
+vi) Em 2024: (euro) 105 541,00.
+
+5 - Determinar que, caso a receita prevista na alínea c) do número anterior seja superior ao montante global previsto, o excedente deve ser utilizado para reduzir a necessidade de financiamento por parte do Fundo Ambiental.
+
+6 - Determinar que, caso a receita prevista na alínea c) do n.º 4 fique abaixo do montante global previsto, os montantes em falta devem ser suportados por transferências do Fundo Ambiental.
+
+7 - Sem prejuízo das fontes de financiamento definidas no n.º 4, incumbir o Conselho de Administração da Transtejo, S. A., de instruir os procedimentos necessários para obter financiamento adicional ao abrigo de programas operacionais de fundos europeus, a estabelecer no âmbito do Quadro Financeiro Plurianual 2021-2027.
+
+8 - Determinar que, caso seja possível obter financiamento adicional nos termos previstos no número anterior, deve o mesmo ser utilizado para reduzir as necessidades de financiamento a suprir por transferências do Fundo Ambiental.
+
+9 - Determinar que os encargos financeiros resultantes da componente manutenção do Plano referido no n.º 1 são financiados através do orçamento da Transtejo, S. A.
+
+10 - Estabelecer que os montantes fixados para cada ano económico nos n.os 3 e 4 acima identificados, são acrescidos do saldo apurado no ano anterior.
+
+11 - Delegar no conselho de administração da Transtejo, S. A., com faculdade de subdelegação, as competências legalmente atribuídas pelo Código dos Contratos Públicos ao órgão competente para a decisão de contratar, designadamente a decisão de escolha do procedimento, a aprovação das peças do procedimento, a retificação das peças do procedimento, a decisão sobre erros e omissões identificados pelos interessados e a decisão de adjudicação, relativamente aos procedimentos de formação do contrato de aquisição para concretização do investimento referido no n.º 1.
+
+12 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 45-A/2021 - Diário da República n.º 82/2021, 1º Suplemento, Série I de 2021-04-28](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-a-2021-162325937), em vigor a partir de 2021-05-03
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 33/2022 - Diário da República n.º 60/2022, Série I de 2022-03-25](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2022-180994142), em vigor a partir de 2022-03-30
+
+Presidência do Conselho de Ministros, 10 de janeiro de 2019. — O Primeiro -Ministro, António Luís Santos da Costa.

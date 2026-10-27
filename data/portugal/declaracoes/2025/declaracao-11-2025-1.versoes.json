@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:943647414:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2025-943762818",
+ "dre_path": "/dr/detalhe/declaracao/11-2025-943647414",
+ "source_lastmod": "2025-12-02",
+ "versions": [
+  {
+   "date": "2025-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "956497730",
+    "943770775"
+   ]
+  }
+ ],
+ "fragments": {
+  "956497730": {
+   "fragment_id": "943770475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Designação de representantes de Grupos Parlamentares para o Conselho Nacional de Educação\n\nA Assembleia da República declara, nos termos da alínea b) do n.º 1 do artigo 4.º do Decreto-Lei n.º 21/2015, de 3 de fevereiro, que os Grupos Parlamentares designaram os seguintes representantes efetivos para o Conselho Nacional de Educação:\n\nCatarina das Neves Batista Cerqueira (Livre);\n\nAntónio José Carlos Pinho (CDS - Partido Popular) - suplente Frederico Pinho de Almeida."
+  },
+  "943770775": {
+   "fragment_id": "943770675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assembleia da República, 29 de outubro de 2025. - A Secretária-Geral, Anabela Cabral Ferreira."
+  }
+ }
+}

@@ -1,0 +1,621 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:164870237:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-175862905",
+ "dre_path": "/dr/detalhe/portaria/121-2021-164870237",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175861439",
+    "175861440",
+    "175861441",
+    "175861442",
+    "175861443",
+    "175861444",
+    "175861445",
+    "175861446",
+    "175861447",
+    "175861448",
+    "175861449",
+    "175861450",
+    "175861451",
+    "175861452",
+    "175861453",
+    "175861454",
+    "175861455",
+    "175861456",
+    "175861457",
+    "175861458",
+    "175861459",
+    "175861460",
+    "175861461",
+    "175861462",
+    "175861463",
+    "175861464",
+    "175861465",
+    "175861466",
+    "175861467",
+    "175861468",
+    "175861469"
+   ]
+  },
+  {
+   "date": "2021-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175780036:por",
+     "title": "Portaria n.º 295/2021",
+     "published": "2021-12-13",
+     "dre_path": "/dr/detalhe/portaria/295-2021-175780036"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "175861439",
+    "175861440",
+    "175861441",
+    "175861442",
+    "175861471",
+    "175861444",
+    "175861445",
+    "175861446",
+    "175861447",
+    "175861472",
+    "175861449",
+    "175861450",
+    "175861451",
+    "175861452",
+    "175861453",
+    "175861454",
+    "175861455",
+    "175861456",
+    "175861457",
+    "175861458",
+    "175861459",
+    "175861460",
+    "175861461",
+    "175861462",
+    "175861463",
+    "175861464",
+    "175861465",
+    "175861466",
+    "175861467",
+    "175861468",
+    "175861473",
+    "175861470"
+   ]
+  },
+  {
+   "date": "2022-03-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:180923377:por",
+     "title": "Portaria n.º 119/2022",
+     "published": "2022-03-23",
+     "dre_path": "/dr/detalhe/portaria/119-2022-180923377"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "175861439",
+    "175861440",
+    "175861441",
+    "175861442",
+    "175861471",
+    "175861444",
+    "175861445",
+    "175861446",
+    "175861447",
+    "175861472",
+    "175861449",
+    "175861450",
+    "175861451",
+    "175861452",
+    "175861453",
+    "175861454",
+    "175861455",
+    "175861456",
+    "175861457",
+    "175861458",
+    "175861459",
+    "175861460",
+    "175861461",
+    "175861462",
+    "175861463",
+    "175861464",
+    "175861465",
+    "175861466",
+    "175861467",
+    "175861468",
+    "180903216",
+    "175861470"
+   ]
+  },
+  {
+   "date": "2023-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214847018:por",
+     "title": "Portaria n.º 178/2023",
+     "published": "2023-06-27",
+     "dre_path": "/dr/detalhe/portaria/178-2023-214847018"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "175861439",
+    "175861440",
+    "175861441",
+    "175861442",
+    "214905680",
+    "214905681",
+    "175861445",
+    "214905682",
+    "175861447",
+    "175861472",
+    "175861449",
+    "175861450",
+    "214905683",
+    "175861452",
+    "175861453",
+    "175861454",
+    "175861455",
+    "175861456",
+    "175861457",
+    "175861458",
+    "175861459",
+    "175861460",
+    "175861461",
+    "175861462",
+    "175861463",
+    "175861464",
+    "175861465",
+    "175861466",
+    "175861467",
+    "214905684",
+    "180903216",
+    "175861470"
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910517156:por",
+     "title": "Portaria n.º 95/2025/1",
+     "published": "2025-03-12",
+     "dre_path": "/dr/detalhe/portaria/95-2025-910517156"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "175861439",
+    "175861440",
+    "175861441",
+    "175861442",
+    "214905680",
+    "214905681",
+    "175861445",
+    "214905682",
+    "910584384",
+    "175861472",
+    "175861449",
+    "175861450",
+    "214905683",
+    "175861452",
+    "175861453",
+    "910584385",
+    "175861455",
+    "175861456",
+    "175861457",
+    "175861458",
+    "175861459",
+    "175861460",
+    "175861461",
+    "175861462",
+    "175861463",
+    "175861464",
+    "175861465",
+    "175861466",
+    "175861467",
+    "214905684",
+    "180903216",
+    "175861470"
+   ]
+  }
+ ],
+ "fragments": {
+  "175861439": {
+   "fragment_id": "175862906",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 121/2021\n\nde 9 de junho\n\nSumário: Regulamenta o arquivo eletrónico de documentos lavrados por notário e de outros documentos arquivados nos cartórios, a certidão notarial permanente e a participação de atos por via eletrónica à Conservatória dos Registos Centrais.\n\nO Estatuto da Ordem dos Notários, aprovado pela Lei n.º 155/2015, de 15 de setembro, estabelece, como uma das atribuições da Ordem dos Notários, a adoção de medidas que promovam a reorganização dos sistemas de arquivo eletrónico de documentos notariais por forma a que possam, nos casos legalmente admitidos e de acordo com as obrigações legais aplicáveis, ser consultados através de uma certidão notarial permanente, cuja consulta dispensa a exibição do documento original, nos termos de portaria a aprovar pelo membro do Governo responsável pela área da justiça.\n\nParalelamente, o Código do Registo Predial prevê, no seu artigo 43.º-B, que os documentos que contenham factos sujeitos a registo são arquivados eletronicamente, nos termos a definir por portaria do membro do Governo responsável pela área da justiça, sendo a comprovação para efeitos de registo dos factos constantes de documentos que devam ser arquivados eletronicamente feita através da respetiva consulta eletrónica, dispensando-se a apresentação do respetivo suporte em papel perante o serviço de registo.\n\nA presente portaria vem, assim, regulamentar o arquivo eletrónico de documentos lavrados por notários e de outros documentos arquivados nos cartórios e a respetiva disponibilização através de certidão notarial permanente, passando a comprovação, para efeitos de registo, dos factos constantes de documentos que devam ser arquivados eletronicamente, a ser feita através da consulta eletrónica desse documento, mediante a apresentação do código de acesso à certidão permanente.\n\nAo mesmo tempo, regulamenta-se a participação dos atos por via eletrónica, pelos notários, à Conservatória dos Registos Centrais, prevista no artigo 187.º do Código do Notariado, prevendo-se que, até à disponibilização de um sistema de informação da responsabilidade do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), que integre os índices gerais de títulos e que permita operar uma comunicação entre sistemas, a participação dos atos seja efetuada através do envio de ficheiro eletrónico à Conservatória dos Registos Centrais, nos termos definidos em protocolo celebrado entre a Ordem dos Notários e o IRN, I. P.\n\nForam ouvidas a Comissão Nacional de Proteção de Dados, a Ordem dos Advogados, a Ordem dos Notários e a Ordem dos Solicitadores e dos Agentes de Execução.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Justiça, ao abrigo do disposto na alínea o) do artigo 3.º do Estatuto da Ordem dos Notários, aprovado pela Lei n.º 155/2015, de 15 de setembro, no n.º 1 do artigo 187.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto, e no n.º 1 do artigo 43.º-B do Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho, e no uso das competências delegadas pela Ministra da Justiça nos termos do n.º 2 do Despacho n.º 269/2020, publicado no Diário da República, 2.ª série, n.º 6, de 9 de janeiro de 2020, o seguinte:"
+  },
+  "175861440": {
+   "fragment_id": "175862907",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "175861441": {
+   "fragment_id": "175862908",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta:\n\na) O arquivo eletrónico de documentos lavrados por notário e de outros documentos arquivados nos cartórios e a respetiva disponibilização através de certidão notarial permanente;\n\nb) A participação por via eletrónica, pelos notários, de atos à Conservatória dos Registos Centrais."
+  },
+  "175861442": {
+   "fragment_id": "175862909",
+   "type": 1,
+   "heading": "Capítulo II — Arquivo eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Arquivo eletrónico"
+  },
+  "175861443": {
+   "fragment_id": "175862910",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão obrigatoriamente sujeitos a arquivo eletrónico:\n\na) Os documentos lavrados por notário relativamente aos quais deva ser participada informação à Conservatória dos Registos Centrais nos termos do artigo 187.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto, e que abrangem:\n\ni) Testamentos públicos;\n\nii) Instrumentos de aprovação, depósito ou abertura de testamentos cerrados e de testamentos internacionais; e\n\niii) Escrituras públicas;\n\nb) Os documentos particulares autenticados por notário que não titulem atos sujeitos a registo predial;\n\nc) Os documentos lavrados por notário que envolvam aceitação, ratificação, retificação, alteração ou revogação de documento previamente arquivado eletronicamente.\n\n2 - Podem igualmente ser sujeitos a arquivo eletrónico, a pedido de qualquer interessado:\n\na) Os instrumentos de atas de reunião de órgãos sociais;\n\nb) Os instrumentos de procurações que não estejam sujeitas a registo obrigatório na base de dados das procurações, criada pelo artigo 1.º da Lei n.º 19/2008, de 21 de abril;\n\nc) Os documentos que forem entregues nos cartórios para ficarem arquivados."
+  },
+  "175861444": {
+   "fragment_id": "175862911",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo para arquivamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazo para arquivamento\n\n1 - Os documentos notariais obrigatoriamente sujeitos a arquivo eletrónico nos termos do artigo anterior são arquivados na data da elaboração do documento.\n\n2 - Se, em virtude de dificuldades de caráter técnico respeitantes ao funcionamento da plataforma eletrónica a que se refere o artigo seguinte, não for possível realizar o arquivo, este facto deve ser expressamente mencionado em documento instrutório, a anexar ao documento a arquivar, lavrado pelo notário ou por trabalhador autorizado, indicando o motivo da impossibilidade, o tipo de documento a arquivar, a data e a hora da sua elaboração e a identificação da entidade que o elaborou, devendo o arquivo eletrónico ser efetuado nas 48 horas seguintes."
+  },
+  "175861445": {
+   "fragment_id": "175862912",
+   "type": 11,
+   "heading": "Artigo 4.º — Plataforma eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Plataforma eletrónica\n\n1 - A plataforma eletrónica a utilizar para o arquivo eletrónico de documentos notariais e de outros documentos arquivados nos cartórios, a realizar por notários e trabalhadores devidamente autorizados a praticar atos notariais, e para a certidão notarial permanente é disponibilizada e gerida pela Ordem dos Notários.\n\n2 - O acesso e a prática de atos na plataforma informática pelos notários e trabalhadores devidamente autorizados a praticar atos notariais efetuam-se de acordo com perfis de acesso definidos pela entidade gestora da plataforma tendo em conta as funções e necessidades de cada utilizador.\n\n3 - Os notários e os trabalhadores devidamente autorizados a praticar atos notariais autenticam-se na plataforma eletrónica com recurso a certificados digitais qualificados que comprovem a sua qualidade profissional ou outro meio de identificação que ofereça garantias de segurança similares.\n\n4 - A plataforma deve adotar, nos serviços a disponibilizar ao público, normas abertas nos termos da Lei n.º 36/2011, de 21 de junho, alterada pelo Decreto-Lei n.º 83/2018, de 19 de outubro."
+  },
+  "175861446": {
+   "fragment_id": "175862913",
+   "type": 11,
+   "heading": "Artigo 5.º — Ingresso no arquivo eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ingresso no arquivo eletrónico\n\n1 - É condição de ingresso do documento no arquivo eletrónico a aposição da assinatura eletrónica qualificada do notário ou do trabalhador devidamente autorizado a praticar atos notariais.\n\n2 - Relativamente a cada um dos documentos arquivados eletronicamente são registados na plataforma eletrónica os seguintes elementos:\n\na) Descrição do documento, nomeadamente espécie de documento, denominação do ato, livro em que foi lavrado ou maço em que se encontra fisicamente arquivado e o número de páginas, com indicação do número da primeira folha onde o ato foi lavrado;\n\nb) Identificação do cartório notarial e do notário ou trabalhador que praticou o ato em questão;\n\nc) Data do documento arquivado;\n\nd) Data e hora do arquivo eletrónico do documento;\n\ne) Número de identificação único do documento.\n\n3 - No que respeita aos atos previstos no n.º 1 do artigo 2.º, e com vista à comunicação eletrónica prevista no artigo 187.º do Código do Notariado, são ainda registados na plataforma eletrónica os seguintes elementos:\n\na) Relativamente aos testamentos públicos e respetivas escrituras de revogação: o nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do testador ou do outorgante, a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal do testador;\n\nb) Relativamente às demais escrituras públicas:\n\ni) O objeto do ato e o seu valor;\n\nii) A firma ou denominação de Estabelecimento Individual de Responsabilidade Limitada ou de pessoa coletiva a que o ato respeita, a sede e o respetivo número de identificação fiscal;\n\niii) No caso dos títulos de doação em que os doadores tenham instituído encargos a favor da alma ou de interesse público que devam ser cumpridos depois da sua morte, a informação desse circunstancialismo;\n\niv) No caso de escrituras de renúncia ou repúdio de herança ou legado, o nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do outorgante, bem como a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal;\n\nv) No caso de escrituras públicas não compreendidas na subalínea anterior, o nome completo e a morada dos sujeitos ativos e passivos, bem como os respetivos números de identificação fiscal se a natureza do ato o exigir, e ainda, caso seja conhecido, o número de identificação civil ou equivalente relativamente a estrangeiros;\n\nvi) As indicações necessárias à fiscalização do pagamento das obrigações fiscais;\n\nc) Relativamente aos instrumentos de aprovação de testamentos cerrados e de testamentos internacionais:\n\ni) O nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do testador, bem como a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal do testador;\n\nii) A indicação de o testamento ter sido ou não cosido e lacrado;\n\nd) Relativamente aos instrumentos de depósito ou de abertura de testamentos cerrados e de testamentos internacionais: o nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do testador, bem como a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal do testador.\n\n4 - Para além dos referidos nos números anteriores e quando determinado pela entidade gestora podem ser registados na plataforma eletrónica outros elementos relativos aos atos titulados pelo documento."
+  },
+  "175861447": {
+   "fragment_id": "175862914",
+   "type": 11,
+   "heading": "Artigo 6.º — Formato dos ficheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formato dos ficheiros\n\n1 - Os ficheiros que contenham os documentos a submeter a arquivo eletrónico devem adotar o formato PDF (Portable Document Format), preferencialmente a versão PDF/A, e ter a dimensão máxima a definir em regulamento a aprovar pela Ordem dos Notários.\n\n2 - No caso dos documentos notariais obrigatoriamente sujeitos a arquivo eletrónico nos termos do n.º 1 do artigo 2.º, a cada documento a arquivar deve corresponder um único ficheiro, que deve incluir eventuais documentos complementares elaborados nos termos do artigo 64.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto.\n\n3 - No caso dos documentos facultativamente sujeitos a arquivo eletrónico nos termos do n.º 2 do artigo 2.º, a Ordem dos Notários pode aprovar, por regulamento, formatos distintos de arquivo."
+  },
+  "175861448": {
+   "fragment_id": "175862915",
+   "type": 11,
+   "heading": "Artigo 7.º — Associação entre documentos arquivados eletronicamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Associação entre documentos arquivados eletronicamente\n\nAquando do respetivo arquivo eletrónico, os atos notariais que envolvam aceitação, ratificação, retificação, alteração ou revogação de ato titulado em documento previamente arquivado eletronicamente, são associados, pelos utilizadores, ao documento já arquivado, através do número de identificação único do documento."
+  },
+  "175861449": {
+   "fragment_id": "175862916",
+   "type": 11,
+   "heading": "Artigo 8.º — Comprovativo do arquivo eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comprovativo do arquivo eletrónico\n\nPor cada documento arquivado eletronicamente é disponibilizado um comprovativo do respetivo arquivo, com a identificação do utilizador, da data e hora do arquivo, dos documentos arquivados e do número de identificação único do documento, bem como uma certidão notarial permanente, os quais são enviados por correio eletrónico, short message service (SMS) ou outro meio eletrónico idóneo para o efeito para o notário responsável pelo arquivo eletrónico, que remete a certidão notarial permanente ao requerente."
+  },
+  "175861450": {
+   "fragment_id": "175862917",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor probatório dos documentos arquivados eletronicamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Valor probatório dos documentos arquivados eletronicamente\n\n1 - Para que seja reconhecido aos documentos arquivados eletronicamente o mesmo valor probatório dos documentos originais é sucessivamente aposta aos documentos arquivados eletronicamente assinatura eletrónica qualificada e selo temporal qualificado, com validade máxima de 10 anos, pela Ordem dos Notários, enquanto entidade gestora da plataforma eletrónica, antes de expirar a validade da última assinatura eletrónica qualificada aposta.\n\n2 - O disposto no número anterior não dispensa a conservação, no documento, dos algoritmos, parâmetros, dados e validação cronológica relativos às assinaturas e selos anteriores."
+  },
+  "175861451": {
+   "fragment_id": "175862918",
+   "type": 11,
+   "heading": "Artigo 10.º — Consulta eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Consulta eletrónica\n\n1 - Os documentos arquivados eletronicamente podem ser consultados na plataforma eletrónica a que se refere o artigo 4.º, acessível no endereço www.notarios.pt, por:\n\na) Qualquer entidade ou interessado que disponha de um código de acesso à certidão notarial permanente;\n\nb) Notário e respetivos trabalhadores do cartório em que se encontre o arquivo físico desses documentos, de acordo com os perfis de acesso definidos pela entidade gestora da plataforma.\n\n2 - Os documentos arquivados eletronicamente podem ainda ser consultados, nos termos a definir por protocolo e mediante indicação do número do processo no âmbito do qual a consulta tem lugar ou do motivo da consulta, por:\n\na) Magistrados judiciais e magistrados do Ministério Público, no âmbito da prossecução das suas atribuições;\n\nb) Entidades nas quais seja delegada, nos termos da lei processual, a prática de atos de inquérito ou instrução, ou às quais incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nc) Entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de atos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.\n\n3 - A comprovação, para efeitos de registo predial, dos factos constantes de documentos sujeitos a arquivo eletrónico nos termos da alínea a) do n.º 1 do artigo 2.º, elaborados a partir da data de entrada em vigor da presente portaria, é feita através da consulta eletrónica do documento, mediante apresentação do código de acesso à certidão notarial permanente."
+  },
+  "175861452": {
+   "fragment_id": "175862919",
+   "type": 1,
+   "heading": "Capítulo III — Certidão permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Certidão permanente"
+  },
+  "175861453": {
+   "fragment_id": "175862920",
+   "type": 11,
+   "heading": "Artigo 11.º — Certidão notarial permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Certidão notarial permanente\n\n1 - Designa-se por certidão notarial permanente a disponibilização do acesso, por via eletrónica, a um documento arquivado eletronicamente nos termos da presente portaria, permanentemente atualizado.\n\n2 - O acesso previsto no número anterior efetua-se mediante a utilização de um código de acesso.\n\n3 - A disponibilização do código de acesso à certidão notarial permanente dispensa, durante o seu prazo de validade, a exibição do documento original perante qualquer entidade pública ou privada, para todos os efeitos legais."
+  },
+  "175861454": {
+   "fragment_id": "175862921",
+   "type": 11,
+   "heading": "Artigo 12.º — Pedido de certidão notarial permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pedido de certidão notarial permanente\n\n1 - O pedido de certidão notarial permanente pode ser realizado:\n\na) No sítio na Internet com o endereço www.notarios.pt, mantido pela Ordem dos Notários;\n\nb) Verbalmente, em qualquer cartório notarial, mediante indicação dos dados identificativos do documento em causa.\n\n2 - O pedido de renovação de certidão notarial permanente pode ser realizado até à data limite do seu prazo de validade, pelas formas previstas no número anterior, mediante indicação do código de acesso à certidão notarial permanente.\n\n3 - Para efeitos do disposto no presente artigo, o sítio na Internet referido na alínea a) do n.º 1 deve permitir, entre outras que se mostrem necessárias, as seguintes funcionalidades:\n\na) A identificação do requerente, mediante indicação do nome ou firma e do endereço de correio eletrónico ou número de telemóvel e dos demais elementos necessários ao pedido;\n\nb) A autenticação eletrónica do requerente através de certificados digitais, quando, nos termos da lei, haja que demonstrar a legitimidade do requerente;\n\nc) A entrega de documentos necessários à apreciação do pedido;\n\nd) A disponibilização de formas de pagamento do serviço por via eletrónica;\n\ne) O envio ao requerente do código de acesso à certidão notarial permanente por correio eletrónico, SMS ou por outro meio eletrónico idóneo para o efeito."
+  },
+  "175861455": {
+   "fragment_id": "175862922",
+   "type": 11,
+   "heading": "Artigo 13.º — Código de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Código de acesso\n\nApós o pedido de certidão notarial permanente ou da sua renovação e confirmado o pagamento dos montantes devidos, é disponibilizado ao requerente um código de acesso que permite a visualização da certidão notarial permanente no sítio na Internet referido na alínea a) do n.º 1 do artigo anterior."
+  },
+  "175861456": {
+   "fragment_id": "175862923",
+   "type": 11,
+   "heading": "Artigo 14.º — Prazo de validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prazo de validade\n\nA certidão notarial permanente é disponibilizada por prazo não inferior a um ano, a determinar por regulamento a aprovar pela Ordem dos Notários."
+  },
+  "175861457": {
+   "fragment_id": "175862924",
+   "type": 11,
+   "heading": "Artigo 15.º — Custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Custo\n\nPor cada pedido de certidão notarial permanente ou de renovação desta é devido, pelo requerente, o valor correspondente ao cobrado para as certidões em suporte físico, cujos valores máximos se encontram previstos na tabela de honorários e encargos notariais, aprovada pela Portaria n.º 385/2004, de 16 de abril."
+  },
+  "175861458": {
+   "fragment_id": "175862925",
+   "type": 1,
+   "heading": "Capítulo IV — Taxas pela gestão da plataforma e cobrança e distribuição de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Taxas pela gestão da plataforma e cobrança e distribuição de valores"
+  },
+  "175861459": {
+   "fragment_id": "175862926",
+   "type": 11,
+   "heading": "Artigo 16.º — Taxas pela gestão da plataforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas pela gestão da plataforma\n\nEnquanto entidade gestora da plataforma eletrónica a que se refere o artigo 4.º, a Ordem dos Notários pode cobrar aos notários taxas pela gestão da plataforma, observando-se, quanto a essa matéria, o disposto no respetivo Estatuto, aprovado pela Lei n.º 155/2015, de 15 de setembro."
+  },
+  "175861460": {
+   "fragment_id": "175862927",
+   "type": 11,
+   "heading": "Artigo 17.º — Cobrança e distribuição de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cobrança e distribuição de valores\n\n1 - O valor devido pela emissão ou renovação de certidão notarial permanente constitui receita do notário titular do arquivo físico.\n\n2 - A Ordem dos Notários, enquanto entidade gestora da plataforma eletrónica a que se refere o artigo 4.º, centraliza a cobrança e a distribuição pelos notários dos montantes devidos pela emissão ou renovação de certidões notariais permanentes."
+  },
+  "175861461": {
+   "fragment_id": "175862928",
+   "type": 1,
+   "heading": "Capítulo V — Tratamento de dados, auditoria e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Tratamento de dados, auditoria e fiscalização"
+  },
+  "175861462": {
+   "fragment_id": "175862929",
+   "type": 11,
+   "heading": "Artigo 18.º — Tratamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Tratamento de dados pessoais\n\n1 - A plataforma eletrónica a que se refere o artigo 4.º tem por finalidade o arquivo eletrónico de documentos lavrados por notários e de outros documentos arquivados nos cartórios e a disponibilização de certidões notariais permanentes dos documentos nela arquivados.\n\n2 - A Ordem dos Notários é a entidade responsável pelo tratamento de dados pessoais efetuado no âmbito da presente portaria, nos termos e para os efeitos definidos na Lei n.º 58/2019, de 8 de agosto, e no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho.\n\n3 - Cabe à Ordem dos Notários assegurar os direitos de informação, de acesso e de retificação dos dados pelos respetivos titulares, bem como velar pela legalidade da consulta ou comunicação da informação.\n\n4 - A informação constante do arquivo eletrónico pode ser divulgada para fins de investigação científica ou para fins estatísticos, desde que não possam ser identificáveis as pessoas a que respeita.\n\n5 - As entidades autorizadas a aceder diretamente aos dados obrigam-se a adotar todas as medidas necessárias à estrita observância das regras de segurança estabelecidas na Lei n.º 58/2019, de 8 de agosto, e no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho.\n\n6 - A plataforma eletrónica a que se refere o artigo 4.º deve estar dotada das garantias de segurança necessárias a impedir a consulta, a modificação, a supressão, o acrescentamento ou a comunicação de dados por quem não esteja legalmente habilitado."
+  },
+  "175861463": {
+   "fragment_id": "175862930",
+   "type": 11,
+   "heading": "Artigo 19.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sigilo\n\nQuem, no exercício das suas funções, tome conhecimento dos dados constantes da plataforma eletrónica a que se refere o artigo 4.º fica obrigado a sigilo."
+  },
+  "175861464": {
+   "fragment_id": "175862931",
+   "type": 11,
+   "heading": "Artigo 20.º — Auditoria e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Auditoria e fiscalização\n\n1 - Os acessos à plataforma eletrónica a que se refere o artigo 4.º são objeto de um registo eletrónico individualizado, para fins de auditoria e de fiscalização pelas entidades competentes.\n\n2 - Do registo a que se refere o número anterior constam a data do acesso, a identificação do utilizador e a informação registada ou consultada, independentemente da finalidade do acesso.\n\n3 - O registo a que se referem os números anteriores é conservado pelo período de dois anos, cabendo à Ordem dos Notários a sua análise regular.\n\n4 - Para efeitos de auditoria, a Ordem dos Notários mantém uma conta bancária aberta especificamente para a cobrança e distribuição dos montantes devidos pela emissão ou renovação de certidões notariais permanentes."
+  },
+  "175861465": {
+   "fragment_id": "175862932",
+   "type": 1,
+   "heading": "Capítulo VI — Participação de atos à Conservatória dos Registos Centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Participação de atos à Conservatória dos Registos Centrais"
+  },
+  "175861466": {
+   "fragment_id": "175862933",
+   "type": 11,
+   "heading": "Artigo 21.º — Participação de atos por via eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Participação de atos por via eletrónica\n\nAté à disponibilização de um sistema de informação da responsabilidade do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), que integre os índices gerais de títulos, que permita uma comunicação eletrónica entre sistemas de informação, a participação de atos, pelos notários, à Conservatória dos Registos Centrais, prevista no artigo 187.º do Código do Notariado, relativamente a todos os atos aí previstos, é efetuada através do envio de ficheiro eletrónico à Conservatória dos Registos Centrais, nos termos definidos em protocolo celebrado entre a Ordem dos Notários e o IRN, I. P."
+  },
+  "175861467": {
+   "fragment_id": "175862934",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "175861468": {
+   "fragment_id": "175862935",
+   "type": 11,
+   "heading": "Artigo 22.º — Documentos notariais previamente elaborados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Documentos notariais previamente elaborados\n\nOs documentos notariais elaborados em data anterior à da entrada em vigor da presente portaria podem ingressar no arquivo eletrónico por iniciativa do notário titular do respetivo arquivo físico, podendo a Ordem dos Notários determinar, por regulamento, a isenção do pagamento, pelos notários, das taxas a que se refere o artigo 16.º"
+  },
+  "175861469": {
+   "fragment_id": "175862936",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, a presente portaria entra em vigor seis meses após a sua publicação.\n\n2 - O arquivo eletrónico de documentos a pedido do interessado, a que se refere o n.º 2 do artigo 2.º, pode ficar condicionado até um período máximo de seis meses após a entrada em vigor da presente portaria, nos termos a definir por despacho do Bastonário da Ordem dos Notários, a publicitar no endereço www.notarios.pt."
+  },
+  "175861471": {
+   "fragment_id": "175862910",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão obrigatoriamente sujeitos a arquivo eletrónico:\n\na) Os documentos lavrados por notário relativamente aos quais deva ser participada informação à Conservatória dos Registos Centrais nos termos do artigo 187.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto, e que abrangem:\n\ni) Testamentos públicos;\n\nii) Instrumentos de aprovação, depósito ou abertura de testamentos cerrados e de testamentos internacionais; e\n\niii) Escrituras de revogação de testamentos e escrituras de renúncia ou repúdio de herança ou legado; e\n\niv) Escrituras públicas;\n\nb) (Revogada.)\n\nc) Os averbamentos a atos notariais previstos nos artigos 131.º e 132.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto.\n\n2 - Podem igualmente ser sujeitos a arquivo eletrónico, a pedido de qualquer interessado:\n\na) Os instrumentos de atas de reunião de órgãos sociais;\n\nb) Os instrumentos de procurações que não estejam sujeitas a registo obrigatório na base de dados das procurações, criada pelo artigo 1.º da Lei n.º 19/2008, de 21 de abril;\n\nc) Os documentos que forem entregues nos cartórios para ficarem arquivados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+  },
+  "175861472": {
+   "fragment_id": "175862915",
+   "type": 11,
+   "heading": "Artigo 7.º — Associação entre documentos arquivados eletronicamente",
+   "in_force_from": "2021-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+   ],
+   "markdown": "###### Artigo 7.º — Associação entre documentos arquivados eletronicamente\n\nAquando do respetivo arquivo eletrónico, os averbamentos a documentos previamente arquivados eletronicamente são associados, pelos utilizadores, ao documento já arquivado, através do número de identificação único do documento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+  },
+  "175861473": {
+   "fragment_id": "175862936",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2021-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte, a presente portaria entra em vigor seis meses após a sua publicação e produz efeitos a 4 de abril de 2022.\n\n2 - O arquivo eletrónico de documentos a pedido do interessado, a que se refere o n.º 2 do artigo 2.º, pode ficar condicionado até um período máximo de seis meses após a data de produção de efeitos a que se refere o número anterior, nos termos a definir por despacho do Bastonário da Ordem dos Notários, a publicitar no endereço www.notarios.pt.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+  },
+  "175861470": {
+   "fragment_id": "175862937",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 4 de junho de 2021.\n\n114299177"
+  },
+  "180903216": {
+   "fragment_id": "175862936",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2022-03-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2022 - Diário da República n.º 58/2022, Série I de 2022-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/119-2022-180923377), em vigor a partir de 2022-03-24",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte, a presente portaria entra em vigor seis meses após a sua publicação e produz efeitos a 1 de junho de 2022.\n\n2 - O arquivo eletrónico de documentos a pedido do interessado, a que se refere o n.º 2 do artigo 2.º, pode ficar condicionado até um período máximo de seis meses após a data de produção de efeitos a que se refere o número anterior, nos termos a definir por despacho do Bastonário da Ordem dos Notários, a publicitar no endereço www.notarios.pt.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2022 - Diário da República n.º 58/2022, Série I de 2022-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/119-2022-180923377), em vigor a partir de 2022-03-24\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+  },
+  "214905680": {
+   "fragment_id": "175862910",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão obrigatoriamente sujeitos a arquivo eletrónico:\n\na) Os documentos lavrados por notário relativamente aos quais deva ser participada informação à Conservatória dos Registos Centrais nos termos do artigo 187.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto, e que abrangem:\n\ni) Testamentos públicos;\n\nii) Instrumentos de aprovação, depósito ou abertura de testamentos cerrados e de testamentos internacionais; e\n\niii) Escrituras de revogação de testamentos e escrituras de renúncia ou repúdio de herança ou legado; e\n\niv) Escrituras públicas;\n\nb) (Revogada.)\n\nc) Os averbamentos a atos notariais previstos nos artigos 131.º e 132.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto.\n\n2 - Podem igualmente ser sujeitos a arquivo eletrónico, a pedido de qualquer interessado ou por iniciativa do notário:\n\na) Os instrumentos de atas de reunião de órgãos sociais;\n\nb) Os instrumentos de procurações que não estejam sujeitas a registo obrigatório na base de dados das procurações, criada pelo artigo 1.º da Lei n.º 19/2008, de 21 de abril;\n\nc) Os documentos que forem entregues nos cartórios para ficarem arquivados.\n\nd) As públicas-formas eletrónicas de documentos físicos extraídas pelo notário, nos termos do n.º 1 do artigo 166.º do Código do Notariado, que contenham a declaração de conformidade com o original e sejam uma cópia de teor, total ou parcial, de documento exibido;\n\ne) Os demais documentos de qualquer tipo arquivados no cartório.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2021 - Diário da República n.º 239/2021, Série I de 2021-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), em vigor a partir de 2021-12-14"
+  },
+  "214905681": {
+   "fragment_id": "175862911",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo para arquivamento",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+   ],
+   "markdown": "###### Artigo 3.º — Prazo para arquivamento\n\n1 - Os documentos notariais obrigatoriamente sujeitos a arquivo eletrónico nos termos do artigo anterior são arquivados na data da elaboração do documento.\n\n2 - Se, em virtude de dificuldades de caráter técnico respeitantes ao funcionamento da plataforma eletrónica a que se refere o artigo seguinte ou outro impedimento de força maior, não for possível realizar o arquivo, este facto deve ser expressamente declarado na plataforma eletrónica logo que cessar o impedimento, em campo criado para o efeito, indicando o motivo do impedimento, o tipo de documento a arquivar, a data e a hora da sua elaboração e a identificação da entidade que o elaborou, devendo o arquivo eletrónico ser efetuado nas 72 horas seguintes ou logo que cesse o impedimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+  },
+  "214905682": {
+   "fragment_id": "175862913",
+   "type": 11,
+   "heading": "Artigo 5.º — Ingresso no arquivo eletrónico",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+   ],
+   "markdown": "###### Artigo 5.º — Ingresso no arquivo eletrónico\n\n1 - É condição de ingresso do documento no arquivo eletrónico a aposição da assinatura eletrónica qualificada do notário ou do trabalhador devidamente autorizado a praticar atos notariais.\n\n2 - Relativamente a cada um dos documentos arquivados eletronicamente são registados na plataforma eletrónica os seguintes elementos:\n\na) Descrição do documento, nomeadamente espécie de documento, denominação do ato, livro em que foi lavrado ou maço em que se encontra fisicamente arquivado e o número de páginas, com indicação do número da primeira folha onde o ato foi lavrado;\n\nb) Identificação do cartório notarial e do notário ou trabalhador que praticou o ato em questão;\n\nc) Data do documento arquivado;\n\nd) Data e hora do arquivo eletrónico do documento;\n\ne) Número de identificação único do documento.\n\n3 - No que respeita aos atos previstos no n.º 1 do artigo 2.º, e com vista à comunicação eletrónica prevista no artigo 187.º do Código do Notariado, são ainda registados na plataforma eletrónica os seguintes elementos:\n\na) Relativamente aos testamentos públicos e respetivas escrituras de revogação: o nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do testador ou do outorgante, a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal do testador;\n\nb) Relativamente às demais escrituras públicas:\n\ni) O objeto do ato e o seu valor;\n\nii) A firma ou denominação de Estabelecimento Individual de Responsabilidade Limitada ou de pessoa coletiva a que o ato respeita, a sede e o respetivo número de identificação fiscal;\n\niii) No caso dos títulos de doação em que os doadores tenham instituído encargos a favor da alma ou de interesse público que devam ser cumpridos depois da sua morte, a informação desse circunstancialismo;\n\niv) No caso de escrituras de renúncia ou repúdio de herança ou legado, o nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do outorgante, bem como a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal;\n\nv) No caso de escrituras públicas não compreendidas na subalínea anterior, o nome completo e a morada dos sujeitos ativos e passivos, bem como os respetivos números de identificação fiscal se a natureza do ato o exigir, e ainda, caso seja conhecido, o número de identificação civil ou equivalente relativamente a estrangeiros;\n\nvi) As indicações necessárias à fiscalização do pagamento das obrigações fiscais;\n\nc) Relativamente aos instrumentos de aprovação de testamentos cerrados e de testamentos internacionais:\n\ni) O nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do testador, bem como a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal do testador;\n\nii) A indicação de o testamento ter sido ou não cosido e lacrado;\n\nd) Relativamente aos instrumentos de depósito ou de abertura de testamentos cerrados e de testamentos internacionais: o nome completo, a filiação, a data de nascimento, a naturalidade, o estado civil e a morada do testador, bem como a respetiva nacionalidade, caso este não seja português ou tenha outra nacionalidade para além da portuguesa, e ainda, caso sejam conhecidos, o número de identificação civil, ou equivalente relativamente a estrangeiros, e o número de identificação fiscal do testador.\n\n4 - Para além dos referidos nos números anteriores e quando determinado pela entidade gestora podem ser registados na plataforma eletrónica outros elementos relativos aos atos titulados pelo documento.\n\n5 - Devem ser registados no momento de arquivamento os dados relativos ao livro em que o documento foi lavrado ou ao maço em que se encontra fisicamente arquivado, devendo os restantes dados ser registados em prazo a definir pela entidade gestora, de acordo com os prazos legais aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+  },
+  "214905683": {
+   "fragment_id": "175862918",
+   "type": 11,
+   "heading": "Artigo 10.º — Consulta eletrónica",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+   ],
+   "markdown": "###### Artigo 10.º — Consulta eletrónica\n\n1 - Os documentos arquivados eletronicamente podem ser consultados na plataforma eletrónica a que se refere o artigo 4.º, acessível no endereço www.notarios.pt, por:\n\na) Qualquer entidade ou interessado que disponha de um código de acesso à certidão notarial permanente;\n\nb) Notário e respetivos trabalhadores do cartório em que se encontre o arquivo físico desses documentos, de acordo com os perfis de acesso definidos pela entidade gestora da plataforma.\n\n2 - Os documentos arquivados eletronicamente podem ainda ser consultados, nos termos a definir por protocolo e mediante indicação do número do processo no âmbito do qual a consulta tem lugar ou do motivo da consulta, por:\n\na) Magistrados judiciais e magistrados do Ministério Público, no âmbito da prossecução das suas atribuições;\n\nb) Entidades nas quais seja delegada, nos termos da lei processual, a prática de atos de inquérito ou instrução, ou às quais incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nc) Entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de atos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.\n\nd) Agentes de execução, no âmbito da prossecução das suas atribuições, quando autorizados pelo juiz do processo.\n\n3 - A comprovação, para efeitos de registo predial, dos factos constantes de documentos sujeitos a arquivo eletrónico nos termos da alínea a) do n.º 1 do artigo 2.º, elaborados a partir da data de entrada em vigor da presente portaria, é feita através da consulta eletrónica do documento, mediante apresentação do código de acesso à certidão notarial permanente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+  },
+  "214905684": {
+   "fragment_id": "175862935",
+   "type": 11,
+   "heading": "Artigo 22.º — Documentos notariais previamente elaborados",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+   ],
+   "markdown": "###### Artigo 22.º — Documentos notariais previamente elaborados\n\nOs documentos arquivados nos cartórios em data anterior à da entrada em vigor da presente portaria podem ingressar no arquivo eletrónico por iniciativa do notário titular do respetivo arquivo físico, podendo a Ordem dos Notários determinar, por regulamento, a isenção do pagamento, pelos notários, das taxas a que se refere o artigo 16.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2023 - Diário da República n.º 123/2023, Série I de 2023-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), em vigor a partir de 2023-06-28"
+  },
+  "910584384": {
+   "fragment_id": "175862914",
+   "type": 11,
+   "heading": "Artigo 6.º — Formato dos ficheiros",
+   "in_force_from": "2025-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 95/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/95-2025-910517156), em vigor a partir de 2025-03-13"
+   ],
+   "markdown": "###### Artigo 6.º — Formato dos ficheiros\n\n1 - Os ficheiros que contenham os documentos a submeter a arquivo eletrónico devem adotar o formato PDF (Portable Document Format), preferencialmente a versão PDF/A, e ter a dimensão máxima a definir em regulamento a aprovar pela Ordem dos Notários.\n\n2 - No caso dos documentos notariais obrigatoriamente sujeitos a arquivo eletrónico nos termos do n.º 1 do artigo 2.º, a cada documento a arquivar deve corresponder um único ficheiro, que deve incluir, além do seu conteúdo, o demais previsto no artigo no n.º 1 do artigo 168.º do Código do Notariado.\n\n3 - No caso dos documentos facultativamente sujeitos a arquivo eletrónico nos termos do n.º 2 do artigo 2.º, a Ordem dos Notários pode aprovar, por regulamento, formatos distintos de arquivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 95/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/95-2025-910517156), em vigor a partir de 2025-03-13"
+  },
+  "910584385": {
+   "fragment_id": "175862921",
+   "type": 11,
+   "heading": "Artigo 12.º — Pedido de certidão notarial permanente",
+   "in_force_from": "2025-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 95/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/95-2025-910517156), em vigor a partir de 2025-03-13"
+   ],
+   "markdown": "###### Artigo 12.º — Pedido de certidão notarial permanente\n\n1 - O pedido de certidão notarial permanente pode ser realizado:\n\na) No sítio na Internet com o endereço www.notarios.pt, mantido pela Ordem dos Notários;\n\nb) Verbalmente, em qualquer cartório notarial, mediante indicação dos dados identificativos do documento em causa.\n\n2 - O pedido de renovação de certidão notarial permanente pode ser realizado até à data limite do seu prazo de validade, pelas formas previstas no número anterior, mediante indicação do código de acesso à certidão notarial permanente.\n\n3 - Para efeitos do disposto no presente artigo, o sítio na Internet referido na alínea a) do n.º 1 deve permitir, entre outras que se mostrem necessárias, as seguintes funcionalidades:\n\na) A identificação do requerente, mediante indicação do nome ou firma e do endereço de correio eletrónico ou número de telemóvel e dos demais elementos necessários ao pedido;\n\nb) A autenticação eletrónica do requerente através de certificados digitais ou outro meio de identificação que ofereça garantias de segurança equivalentes, quando, nos termos da lei, haja que demonstrar a legitimidade do requerente;\n\nc) A entrega de documentos necessários à apreciação do pedido;\n\nd) A disponibilização de formas de pagamento do serviço por via eletrónica;\n\ne) O envio ao requerente do código de acesso à certidão notarial permanente por correio eletrónico, SMS ou por outro meio eletrónico idóneo para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 95/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/95-2025-910517156), em vigor a partir de 2025-03-13"
+  }
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122074191:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122074213",
+ "dre_path": "/dr/detalhe/decreto-lei/47-2019-122074191",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-04-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122068063",
+    "122068064",
+    "122068065",
+    "122068066",
+    "122068067",
+    "122068068",
+    "122068069",
+    "122068070",
+    "122068071",
+    "122068072",
+    "122068073"
+   ]
+  },
+  {
+   "date": "2022-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177455547:por",
+     "title": "Lei n.º 9/2022",
+     "published": "2022-01-11",
+     "dre_path": "/dr/detalhe/lei/9-2022-177455547"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122068063",
+    "122068064",
+    "177528505",
+    "122068066",
+    "122068067",
+    "122068068",
+    "122068069",
+    "122068070",
+    "122068071",
+    "122068072",
+    "122068073",
+    "122068074"
+   ]
+  }
+ ],
+ "fragments": {
+  "122068063": {
+   "fragment_id": "122074214",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 47/2019\n\nde 11 de abril\n\nA Resolução do Conselho de Ministros n.º 42/2016, de 18 de agosto, aprovou o Programa Capitalizar, enquanto programa estratégico de apoio à capitalização das empresas, à retoma do investimento e ao relançamento da economia, com o objetivo de promover estruturas financeiras mais equilibradas, reduzindo os passivos das empresas economicamente viáveis, ainda que com níveis excessivos de endividamento, bem como de melhorar as condições de acesso ao financiamento das pequenas e médias empresas. O Programa Capitalizar constitui um dos pilares fundamentais do Programa do XXI Governo Constitucional, também refletido no Programa Nacional de Reformas.\n\nNo seguimento do diagnóstico realizado pela Estrutura de Missão para a Capitalização das Empresas, e após ouvidos os agentes económicos e a sociedade civil, o Programa Capitalizar integrou medidas enquadradas em cinco eixos de atuação: Simplificação Administrativa e Enquadramento Sistémico, Fiscalidade, Reestruturação Empresarial, Alavancagem de Financiamento e Investimento e Dinamização do Mercado de Capitais.\n\nNo âmbito do eixo da Simplificação Administrativa e Enquadramento Sistémico, foi aprovada a medida «disseminar o mecanismo de early warning desenvolvido pelo IAPMEI - Agência para a Competitividade e Inovação, I. P., nomeadamente pela integração dos dados que as empresas reportam à Autoridade Tributária e ao Banco de Portugal» (medida n.º 4).\n\nCom efeito, desde 2015 que o IAPMEI, I. P., disponibiliza no seu portal uma ferramenta de autodiagnóstico financeiro para as empresas, de utilização voluntária, com base no carregamento de dados dos balanços e demonstração de resultados das empresas, gerando indicadores que resultam num comentário global sobre a situação da empresa e na disponibilização do IAPMEI, I. P., para interagir com a empresa face a eventuais questões que se coloquem quanto ao desempenho dos indicadores apurados.\n\nNão obstante, o IAPMEI, I. P., constatou a reduzida utilização deste mecanismo, com apenas um terço das empresas registadas a concluir o processo.\n\nAssim, embora a medida aprovada no âmbito do Programa Capitalizar tenha como ponto de partida o mecanismo de autodiagnóstico já existente, pretende, em rigor, ir mais além, colocando Portugal num lugar de destaque nesta matéria, quer ao nível da União Europeia, quer ao nível da OCDE.\n\nA implementação da medida permitirá disponibilizar às empresas indicadores económico-financeiros compilados a partir da Central de Balanços do Banco de Portugal e analisados pelo IAPMEI, I. P., com base nos dados constantes da Informação Empresarial Simplificada (IES), em articulação com o Instituto Nacional de Estatística (na qualidade de Autoridade Estatística responsável pelas Estatísticas Estruturais das Empresas transmitidas à Comissão Europeia (Eurostat), relativos à saúde financeira de cada empresa, bem como uma breve menção expressa a eventuais mecanismos disponíveis e a remissão para o IAPMEI, I. P., em caso de necessidade de apoio especializado. Esta informação constará do sítio da Internet do IAPMEI, I. P., e será difundida pelo Portal das Finanças.\n\nForam ouvidos o Banco de Portugal, a Comissão Nacional de Proteção de Dados e o Conselho Superior de Estatística.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122068064": {
+   "fragment_id": "122074215",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei cria o mecanismo de alerta precoce (MAP), que consiste num procedimento de prestação de informação económica e financeira aos membros dos órgãos de administração das empresas com sede em Portugal, numa base anual, constituindo um mecanismo de apoio à decisão e gestão empresarial com base em análises estatísticas.\n\n2 - O presente decreto-lei altera:\n\na) O Decreto-Lei n.º 204/2008, de 14 de outubro;\n\nb) O Decreto-Lei n.º 266/2012, de 28 de dezembro, alterado pelo Decreto-Lei n.º 82/2014, de 20 de maio."
+  },
+  "122068065": {
+   "fragment_id": "122074216",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Os destinatários da informação económica e financeira gerada pelo MAP são os membros dos órgãos de administração de sociedades não financeiras com sede em Portugal, sujeitas à apresentação do Anexo A no âmbito da informação empresarial simplificada (IES), e que sejam micro, pequenas e médias empresas ou empresas de pequena-média capitalização, sem prejuízo do disposto no número seguinte.\n\n2 - Excluem-se do âmbito de aplicação do presente decreto-lei:\n\na) Sociedades abertas;\n\nb) Empresas que integram a secção K da classificação portuguesa de atividades económicas (CAE);\n\nc) Empresas incluídas na CAE 70100;\n\nd) Entidades do setor público;\n\ne) Empresas que não evidenciem sinais de atividade relevante no período em análise."
+  },
+  "122068066": {
+   "fragment_id": "122074217",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades intervenientes\n\n1 - As entidades intervenientes no MAP são as seguintes:\n\na) Banco de Portugal;\n\nb) IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.);\n\nc) Autoridade Tributária e Aduaneira (AT).\n\n2 - As entidades intervenientes no MAP limitam-se exclusivamente ao seguinte:\n\na) O Banco de Portugal, em articulação com o Instituto Nacional de Estatística, I. P. (INE, I. P.), disponibiliza ao IAPMEI, I. P., os dados estatísticos relativos aos indicadores económico-financeiros a definir no protocolo a que se refere o n.º 1 do artigo 6.º, calculados a partir da informação da Central de Balanços do Banco de Portugal, nos termos do artigo 7.º;\n\nb) O IAPMEI, I. P., efetua uma análise quantitativa e tendencial dos dados estatísticos disponibilizados pelo Banco de Portugal, bem como uma apreciação qualitativa sobre a situação financeira de cada empresa;\n\nc) A análise e apreciação efetuadas pelo IAPMEI, I. P., são disponibilizadas às empresas em conjunto com uma breve menção a eventuais mecanismos de apoio existentes e à disponibilidade do IAPMEI, I. P., em caso de necessidade de apoio especializado; e\n\nd) A AT informa os membros dos órgãos de administração das empresas, utilizando para o efeito os endereços de correio eletrónico disponíveis nas suas bases de dados, e comunica nas respetivas áreas do Portal das Finanças das empresas que a informação relativa ao MAP se encontra disponível no sítio da Internet do IAPMEI, I. P., podendo ser ainda previstas outras formas de comunicação a efetuar pela AT ou pelo IAPMEI, I. P., nos termos do protocolo a celebrar ao abrigo do n.º 2 do artigo 6.º"
+  },
+  "122068067": {
+   "fragment_id": "122074218",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1 - A prestação de informação económica e financeira no âmbito do MAP é efetuada pelo IAPMEI, I. P., através da elaboração de uma análise quantitativa e tendencial, com recurso ao cálculo de sete indicadores económico-financeiros com base na informação da IES referente a cada empresa, complementada com uma apreciação qualitativa da situação financeira e económica da empresa, decorrente de algoritmo operacionalizado pelo IAPMEI, I. P., que posiciona os indicadores económico-financeiros de cada empresa no contexto de empresas do mesmo setor com dimensão semelhante, nos termos do protocolo a celebrar ao abrigo do n.º 1 do artigo 6.º\n\n2 - A análise quantitativa e tendencial tem por base indicadores produzidos pelo Banco de Portugal, com recurso aos dados estatísticos das empresas da Central de Balanços do Banco de Portugal, os quais têm por base, designadamente, a IES, sendo objeto de controlo de qualidade através da comparação com outras fontes de informação disponíveis, como seja a Central de Responsabilidades de Crédito (CRC), com vista à disponibilização dos referidos indicadores pelo Banco de Portugal ao IAPMEI, I. P., para os efeitos do previsto no presente decreto-lei.\n\n3 - Os indicadores que o Banco de Portugal disponibiliza ao IAPMEI, I. P., nos termos do número anterior não podem reproduzir a informação de base subjacente aos mesmos que tenha caráter reservado.\n\n4 - Até ao dia 31 de dezembro de cada ano, é enviada pela AT uma mensagem de correio eletrónico aos membros dos órgãos de administração das empresas, cujo conteúdo é definido nos termos do protocolo a celebrar ao abrigo do n.º 2 do artigo 6.º\n\n5 - Até à mesma data, a AT inclui um alerta, cujo conteúdo é definido nos termos do protocolo a celebrar ao abrigo do n.º 2 do artigo 6.º, na área das empresas no Portal das Finanças, de onde consta uma hiperligação para a informação disponibilizada no sítio da Internet do IAPMEI, I. P.\n\n6 - Caso se verifique um adiamento dos prazos legais para submissão da IES, os prazos referidos nos números anteriores são adiados na mesma medida."
+  },
+  "122068068": {
+   "fragment_id": "122074219",
+   "type": 11,
+   "heading": "Artigo 5.º — Finalidade e uso da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Finalidade e uso da informação\n\n1 - É vedada ao IAPMEI, I. P., a transmissão de informação económica e financeira produzida no âmbito do MAP, salvo nos casos expressamente previstos no presente decreto-lei.\n\n2 - É ainda vedada a possibilidade de qualquer entidade pública ou privada ou pessoa singular requerer a disponibilização pelas empresas, ainda que voluntária, da informação ou resultados produzidos ou conhecidos no âmbito do presente decreto-lei, para qualquer fim ou efeito.\n\n3 - A informação prestada no âmbito do MAP não responsabiliza as entidades intervenientes."
+  },
+  "122068069": {
+   "fragment_id": "122074220",
+   "type": 11,
+   "heading": "Artigo 6.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protocolos\n\n1 - O IAPMEI, I. P., o Banco de Portugal e o INE, I. P., celebram um protocolo no qual estabelecem, para efeitos do disposto no presente decreto-lei, a articulação entre as três entidades, definem os indicadores que o Banco de Portugal disponibiliza ao IAPMEI, I. P., bem como a respetiva periodicidade, e preveem as medidas de segurança relativas à salvaguarda da informação disponibilizada.\n\n2 - O IAPMEI, I. P., e a AT celebram um protocolo no qual estabelecem a articulação entre as duas entidades e definem os termos e conteúdo das comunicações a enviar às empresas destinatárias e aos respetivos membros dos órgãos de administração.\n\n3 - O tratamento dos dados pessoais previsto no presente decreto-lei e no protocolo referido no número anterior é regulado pela legislação relativa à proteção de dados pessoais, designadamente o Regulamento Geral de Proteção de Dados, aprovado pelo Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016."
+  },
+  "122068070": {
+   "fragment_id": "122074221",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de segredo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dever de segredo\n\n1 - O Banco de Portugal transmite informação ao IAPMEI, I. P., nos termos do presente decreto-lei, e, na estrita medida do necessário, em derrogação do dever legal de segredo, sem prejuízo do disposto quanto à libertação de dados sujeitos ao segredo estatístico previsto na legislação aplicável.\n\n2 - O IAPMEI, I. P., na medida em que receba informações do Banco de Portugal nos termos previstos na parte final do número anterior, fica sujeito a dever de segredo, nos termos e com as consequências previstas na lei, e apenas pode transmitir as informações recebidas às empresas às quais respeitem.\n\n3 - O referido dever de segredo é aplicável às pessoas que exerçam ou tenham exercido funções no IAPMEI, I. P., bem como às que lhe prestem ou tenham prestado serviços a título permanente ou ocasional."
+  },
+  "122068071": {
+   "fragment_id": "122074222",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Decreto-Lei n.º 204/2008, de 14 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Decreto-Lei n.º 204/2008, de 14 de outubro\n\nO artigo 5.º do Decreto-Lei n.º 204/2008, de 14 de outubro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) Análise da situação económica e financeira das empresas.\n\n2 - [...].»"
+  },
+  "122068072": {
+   "fragment_id": "122074223",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Decreto-Lei n.º 266/2012, de 28 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto-Lei n.º 266/2012, de 28 de dezembro\n\nO artigo 3.º do Decreto-Lei n.º 266/2012, de 28 de dezembro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...];\n\nv) [...];\n\nvi) [...];\n\nvii) [...];\n\nviii) Análise da situação económica e financeira das empresas no âmbito do Mecanismo de Alerta Precoce;\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...].»"
+  },
+  "122068073": {
+   "fragment_id": "122074224",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "177528505": {
+   "fragment_id": "122074216",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Os destinatários da informação económica e financeira gerada pelo MAP são os membros dos órgãos de administração de sociedades não financeiras com sede em Portugal, sujeitas à apresentação do anexo A no âmbito da informação empresarial simplificada (IES), sem prejuízo do disposto no número seguinte.\n\n2 - Excluem-se do âmbito de aplicação do presente decreto-lei:\n\na) (Revogada.)\n\nb) Empresas que integram a secção K da classificação portuguesa de atividades económicas (CAE);\n\nc) Empresas incluídas na CAE 70100;\n\nd) Entidades do setor público;\n\ne) (Revogada.)\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11"
+  },
+  "122068074": {
+   "fragment_id": "122074225",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de janeiro de 2019. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Maria de Fátima de Jesus Fonseca - João Jorge Arede Correia Neves.\n\nPromulgado em 2 de abril de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 8 de abril de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112213652"
+  }
+ }
+}

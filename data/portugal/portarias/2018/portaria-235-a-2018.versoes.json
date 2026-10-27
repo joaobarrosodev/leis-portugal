@@ -1,0 +1,665 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116154369:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-116169730",
+ "dre_path": "/dr/detalhe/portaria/235-a-2018-116154369",
+ "source_lastmod": "2025-03-06",
+ "versions": [
+  {
+   "date": "2018-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116169630",
+    "116169631",
+    "116169632",
+    "116169633",
+    "116169634",
+    "116169635",
+    "116169636",
+    "116169637",
+    "116169638",
+    "116169639",
+    "116169640",
+    "116169641",
+    "116169642",
+    "116169643",
+    "116169644",
+    "116169645",
+    "116169646",
+    "116169647",
+    "116169648",
+    "116169649",
+    "116169650",
+    "116169651",
+    "116169652",
+    "116169653",
+    "116169654",
+    "116169655",
+    "116169656",
+    "116169657",
+    "116169658",
+    "116169659",
+    "116169660",
+    "116169661",
+    "116169662",
+    "116169663",
+    "116169664",
+    "116169665",
+    "116169666",
+    "116169667",
+    "116169668",
+    "116169669",
+    "116169670",
+    "116169671",
+    "116169672",
+    "116169673",
+    "116169674",
+    "116170375",
+    "116170376",
+    "116170377",
+    "116170378",
+    "116170379",
+    "116170380",
+    "116170381",
+    "116170382",
+    "116170383",
+    "116170384",
+    "116170385",
+    "116170386",
+    "116170387",
+    "116170388",
+    "116170390",
+    "116170391"
+   ]
+  },
+  {
+   "date": "2025-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:909816063:por",
+     "title": "Portaria n.º 86/2025/1",
+     "published": "2025-03-06",
+     "dre_path": "/dr/detalhe/portaria/86-2025-909816063"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "116169630",
+    "116169631",
+    "116169632",
+    "116169633",
+    "116169634",
+    "116169635",
+    "116169636",
+    "116169637",
+    "116169638",
+    "116169639",
+    "116169640",
+    "116169641",
+    "116169642",
+    "116169643",
+    "909913890",
+    "116169645",
+    "116169646",
+    "116169647",
+    "116169648",
+    "116169649",
+    "116169650",
+    "116169651",
+    "116169652",
+    "116169653",
+    "116169654",
+    "116169655",
+    "116169656",
+    "116169657",
+    "116169658",
+    "116169659",
+    "116169660",
+    "116169661",
+    "116169662",
+    "116169663",
+    "116169664",
+    "116169665",
+    "116169666",
+    "116169667",
+    "116169668",
+    "116169669",
+    "116169670",
+    "116169671",
+    "116169672",
+    "116169673",
+    "116169674",
+    "116170375",
+    "116170376",
+    "116170377",
+    "116170378",
+    "116170379",
+    "116170380",
+    "116170381",
+    "116170382",
+    "116170383",
+    "116170384",
+    "116170385",
+    "116170386",
+    "116170387",
+    "116170388",
+    "116170389",
+    "116170390",
+    "116170391"
+   ]
+  }
+ ],
+ "fragments": {
+  "116169630": {
+   "fragment_id": "116169731",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 235-A/2018\n\nde 23 de agosto\n\nO Decreto-Lei n.º 55/2018, de 6 de julho, estabelece o currículo do ensino básico e do ensino secundário, os princípios orientadores da sua conceção, operacionalização e avaliação das aprendizagens, de modo a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as capacidades e atitudes que contribuem para alcançar as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\nO referido decreto-lei confere autonomia curricular às escolas, materializada, entre outros aspetos, na possibilidade de gestão flexível das matrizes curriculares-base das ofertas educativas e formativas, adequando-as às opções curriculares de cada escola.\n\nTendo por referência o Sistema Nacional de Qualificações, estabelecido pelo Decreto-Lei n.º 396/2007, de 31 de dezembro, alterado pelo Decreto-Lei n.º 14/2017, de 26 de janeiro, pretende-se que os cursos profissionais, que conferem um nível 4 de qualificação do Quadro Nacional de Qualificações e correspondente nível do Quadro Europeu de Qualificações, desenvolvam o perfil profissional associado à respetiva qualificação do Catálogo Nacional de Qualificações, instrumento de gestão estratégica das qualificações de nível não superior.\n\nA presente portaria vem regulamentar a oferta dos cursos profissionais, concretizando a execução dos princípios enunciados no Decreto-Lei n.º 55/2018, de 6 de julho, definindo as regras e procedimentos de operacionalização do currículo, bem como da avaliação e certificação das aprendizagens, visando proporcionar aos alunos uma formação profissional inicial e aprendizagens diversificadas, de acordo com os seus interesses, com vista ao prosseguimento de estudos e ou à inserção no mercado de trabalho.\n\nNo desenvolvimento da autonomia e flexibilidade curricular conferida às escolas, especificam-se os procedimentos de gestão da carga horária tendo em vista a organização das suas matrizes curriculares.\n\nEstabelecem-se, também, os princípios de atuação e as normas orientadoras relativas ao desenvolvimento dos domínios de autonomia curricular, à organização e ao funcionamento da componente de Cidadania e Desenvolvimento no quadro da Estratégia Nacional da Educação para a Cidadania, bem como à integração das disciplinas de Português Língua Não Materna e de Língua Gestual Portuguesa.\n\nDefinem-se, ainda, as condições que possibilitam aos alunos a adoção de um percurso formativo próprio, designadamente através da substituição de disciplinas e complemento de currículo.\n\nAs normas relativas à avaliação, enquanto parte integrante do ensino e aprendizagem, são desenvolvidas em conformidade com o estabelecido no referido Decreto-Lei n.º 55/2018, de 6 de julho, destacando-se a consagração da prova de aptidão profissional como instrumento de avaliação externa das aprendizagens, bem como a consideração da classificação da disciplina de Educação Física para efeitos de apuramento da classificação final do curso, valorizando todas as disciplinas do currículo, garantindo-se ainda a estes alunos a realização dos exames finais nacionais que elegerem como provas de ingresso para acesso ao ensino superior. Sobre da avaliação, procede-se também à clarificação das regras de funcionamento dos conselhos de turma de avaliação, evitando, deste modo, a emissão de direito circulatório.\n\nDestaca-se, por fim, a extinção da classificação final do curso para efeitos de prosseguimento de estudos, afastando-se a obrigatoriedade da realização dos exames nacionais dos cursos científico-humanísticos por parte dos alunos que concluem cursos profissionais, bem como o ajustamento da fórmula de cálculo da classificação final do curso, tendo em vista valorizar as especificidades destes cursos em todas as componentes de formação e aprova de aptidão profissional, separando-se a certificação do ensino secundário do acesso ao ensino superior e permitindo ultrapassar os constrangimentos relativos ao desenvolvimento dos cursos profissionais enquadrados em regime provisório no Catálogo Nacional de Qualificações.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 9.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, alterado pelo Decreto-Lei n.º 14/2017, de 26 de janeiro, bem como no n.º 2 do artigo 8.º e do n.º 6 do artigo 22.º do Decreto-Lei n.º 55/2018, de 6 de julho, manda o Governo, pelos Secretários de Estado da Educação e do Emprego, o seguinte:"
+  },
+  "116169631": {
+   "fragment_id": "116169732",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "116169632": {
+   "fragment_id": "116169733",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede à regulamentação dos cursos profissionais de nível secundário de dupla certificação, escolar e profissional, a que se referem a alínea a) do n.º 1 do artigo 9.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, alterado pelo Decreto-Lei n.º 14/2017, de 26 de janeiro, que regula o Sistema Nacional de Qualificações, e a alínea b) do n.º 4 do artigo 7.º do Decreto-Lei n.º 55/2018, de 6 de julho, tomando como referência a matriz curricular-base constante do anexo VIII deste último decreto-lei.\n\n2 - A presente portaria define ainda as regras e procedimentos da conceção e operacionalização do currículo dos cursos previstos no número anterior, bem como da avaliação e certificação das aprendizagens, tendo em vista o perfil profissional associado à respetiva qualificação do Catálogo Nacional de Qualificações (CNQ), conferente do nível 4 do Quadro Nacional de Qualificações (QNQ) e correspondente nível do Quadro Europeu de Qualificações (QEQ), bem como o Perfil dos Alunos à Saída da Escolaridade Obrigatória."
+  },
+  "116169633": {
+   "fragment_id": "116169734",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente portaria aplica-se aos agrupamentos de escolas e às escolas não agrupadas da rede pública, às escolas profissionais públicas e privadas, bem como aos estabelecimentos de ensino particular e cooperativo, doravante designados por escolas, sem prejuízo do previsto, respetivamente, no Decreto-Lei n.º 92/2014, de 20 de junho, alterado pela Lei n.º 69/2015, de 16 de julho, e no Estatuto do Ensino Particular e Cooperativo.\n\n2 - As referências constantes da presente portaria aos órgãos de direção, administração e gestão dos estabelecimentos do ensino público, bem como às estruturas de coordenação e supervisão pedagógica, aplicam-se aos órgãos e estruturas com competência equivalente, de acordo com o regime jurídico aplicável aos diferentes estabelecimentos de ensino."
+  },
+  "116169634": {
+   "fragment_id": "116169735",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual, e do artigo 3.º do Decreto-Lei n.º 55/2018, 6 de julho, entende-se por:\n\na) «Acumulação de pontos de crédito», o processo através do qual o indivíduo reúne créditos obtidos através da certificação de aprendizagens num percurso de qualificação, nos termos da Portaria n.º 47/2017, de 1 de fevereiro, que regula o Sistema Nacional de Créditos do Ensino e Formação Profissionais;\n\nb) «Articulação curricular», a interligação, realizada a diferentes níveis e modos de interação, de saberes oriundos das componentes de formação e disciplinas, numa perspetiva de articulação horizontal e ou vertical, tendo por objetivo a construção progressiva de conhecimento global;\n\nc) «Autopropostos», os candidatos à realização de exames finais nacionais admitidos sem Classificação Interna Final (CIF);\n\nd) «Contrato de formação», o instrumento que estabelece a organização e regras inerentes à frequência do curso, assinado no início do ciclo de formação pelo órgão competente da escola e pelo aluno e, ainda, pelos pais ou encarregados de educação, caso o aluno seja menor de idade;\n\ne) «Entidades de acolhimento», entidades externas à escola, designadamente empresas ou outras organizações, responsáveis por assegurar aos alunos a formação em contexto de trabalho, de acordo com o plano de trabalho individual previamente definido;\n\nf) «Equipas educativas», o grupo de docentes e formadores que lecionam às mesmas turmas as diversas componentes de formação, disciplinas e Unidades de Formação de Curta Duração (UFCD), trabalhando em conjunto nas diferentes fases do processo de ensino e aprendizagem, bem como de avaliação, com vista à adoção de estratégias que permitam rentabilizar tempos, instrumentos e agilizar procedimentos;\n\ng) «Opções curriculares», as diferentes possibilidades de organização e gestão, à disposição da escola, a implementar de acordo com as prioridades por ela definidas, no contexto da sua comunidade educativa, decorrentes da apropriação do currículo e do exercício da sua autonomia, que permitem a consecução das áreas de competências do Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\nh) «Pontos de crédito»,a expressão numérica do peso global dos resultados de aprendizagem associados a uma qualificação e do peso específico de cada unidade de qualificação, nos termos da Portaria n.º 47/2017, de 1 de fevereiro;\n\ni) «Trabalho interdisciplinar», a interseção curricular, estabelecendo articulação entre aprendizagens de várias componentes de formação, disciplinas e UFCD, abordadas de forma integrada, privilegiando uma visão globalizante dos saberes;\n\nj) «Unidade de formação de curta duração de bolsa», a UFCD que, apesar de necessária para completar uma qualificação, constitui uma unidade opcional, assumindo um caráter não nuclear."
+  },
+  "116169635": {
+   "fragment_id": "116169736",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo individual do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processo individual do aluno\n\n1 - O percurso escolar do aluno deve ser documentado de forma sistemática no processo individual a que se refere o artigo 11.º do Estatuto do Aluno e Ética Escolar.\n\n2 - O processo individual é atualizado ao longo do ensino secundário de modo a proporcionar uma visão global do percurso do aluno, facilitando o seu acompanhamento e permitindo uma intervenção adequada.\n\n3 - A atualização do processo previsto no número anterior é da responsabilidade do diretor de turma.\n\n4 - O processo individual do aluno acompanha-o sempre que este mude de escola, sendo a escola de origem a responsável pela sua disponibilização à escola de destino.\n\n5 - Do processo individual do aluno, que contém os seus dados de identificação, devem constar todos os elementos que assinalem o seu percurso e a sua evolução, designadamente:\n\na) O contrato de formação;\n\nb) Fichas de registo de avaliação, resultantes da avaliação interna, incluindo a identificação e classificação final das disciplinas, módulos, UFCD e da componente de formação em contexto de trabalho, assim como a identificação da entidade de acolhimento em que esta decorreu;\n\nc) No âmbito da avaliação externa, a identificação do projeto da Prova de Aptidão Profissional (PAP) e respetiva classificação final;\n\nd) Relatórios médicos e ou de avaliação psicológica, quando existam;\n\ne) Relatório técnico-pedagógico, programa educativo individual e identificação das áreas curriculares específicas, quando aplicável;\n\nf) Registo da participação em representação dos pares em órgãos da escola e em atividades ou projetos, designadamente culturais, artísticos, desportivos, científicos e no âmbito do suporte básico de vida e de Cidadania e Desenvolvimento, entre outros de relevante interesse social desenvolvidos na escola;\n\ng) Outros que a escola considere adequados.\n\n6 - O disposto nos números anteriores está sujeito aos limites constitucionais e legais, designadamente ao previsto na legislação sobre proteção de dados pessoais, no que diz respeito ao acesso e tratamento desses dados e ao sigilo profissional."
+  },
+  "116169636": {
+   "fragment_id": "116169737",
+   "type": 1,
+   "heading": "Capítulo II — Currículo dos cursos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Currículo dos cursos profissionais"
+  },
+  "116169637": {
+   "fragment_id": "116169738",
+   "type": 8,
+   "heading": "Secção I — Conceção e operacionalização do currículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conceção e operacionalização do currículo"
+  },
+  "116169638": {
+   "fragment_id": "116169739",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nOs cursos profissionais visam proporcionar aos alunos uma formação profissional inicial e aprendizagens diversificadas, de acordo com os seus interesses, com vista ao prosseguimento de estudos e ou à inserção no mercado do trabalho, procurando, através dos conhecimentos, capacidades e atitudes trabalhados nas diferentes componentes de formação, alcançar as áreas de competências constantes do Perfil dos Alunos à Saída Escolaridade Obrigatória."
+  },
+  "116169639": {
+   "fragment_id": "116169740",
+   "type": 11,
+   "heading": "Artigo 6.º — Matriz curricular-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Matriz curricular-base\n\n1 - O currículo dos cursos profissionais integra o plano curricular organizado nos termos previstos na matriz curricular-base constante no anexo VIII ao Decreto-Lei n.º 55/2018, de 6 de julho.\n\n2 - O plano curricular organizado na matriz curricular-base referida no número anterior integra as seguintes componentes de formação:\n\na) A componente de formação sociocultural, estruturada em disciplinas comuns a todos os cursos, que visa contribuir para a construção da identidade pessoal, social e cultural dos alunos;\n\nb) A componente de formação científica, estruturada em duas ou três disciplinas, que visa proporcionar uma formação científica consistente com o perfil profissional associado à respetiva qualificação;\n\nc) A componente de formação tecnológica, organizada em UFCD, que visa a aquisição e desenvolvimento de um conjunto de aprendizagens, conhecimentos, aptidões e competências técnicas definidas para o perfil profissional associado à respetiva qualificação;\n\nd) A componente de formação em contexto de trabalho (FCT), realizada em empresas ou noutras organizações, em períodos de duração variável ao longo ou no final da formação, enquanto experiências de trabalho, designadamente sob a forma de estágio, integrando um conjunto de atividades profissionais que visam a aquisição e o desenvolvimento de competências técnicas, relacionais e organizacionais relevantes para a qualificação profissional a adquirir.\n\n3 - A matriz curricular-base inscreve, também, a disciplina de Educação Moral e Religiosa como componente de oferta obrigatória e de frequência facultativa, com uma carga horária nunca inferior a 81 horas, a distribuir pelos três anos do ciclo de formação, cujo tempo acresce ao total da matriz.\n\n4 - Sem prejuízo do disposto nos números anteriores, os cursos profissionais obedecem aos perfis profissionais e referenciais de formação associados às respetivas qualificações que integram o CNQ, nos termos do disposto no Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual, e são agrupados por áreas de educação e formação, de acordo com a Classificação Nacional de Áreas de Educação e Formação, aprovada pela Portaria n.º 256/2005, de 16 de março.\n\n5 - Sem prejuízo do disposto nos números anteriores, nos cursos enquadrados em regime provisório no CNQ, mantém-se a organização da componente tecnológica em três a quatro disciplinas, definidas nos planos de estudo publicados nas portarias de criação de cada curso, em lugar das UFCD, aplicando-se os programas em vigor para as referidas disciplinas."
+  },
+  "116169640": {
+   "fragment_id": "116169741",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão da carga horária inscrita nas matrizes curriculares-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão da carga horária inscrita nas matrizes curriculares-base\n\n1 - A carga horária total prevista na matriz curricular-base dos cursos profissionais é distribuída e gerida pela escola, designadamente no âmbito do seu projeto de flexibilidade e autonomia curricular, de forma a otimizar a gestão modular e a FCT, ao longo dos três anos do ciclo de formação, acautelando o cumprimento das horas definidas no referencial de formação constante no CNQ, que serve de base à qualificação visada, bem como o necessário equilíbrio anual, semanal e diário, nos termos estabelecidos nos números seguintes.\n\n2 - A carga horária da FCT deve ser ajustada em função da carga horária definida para a componente tecnológica da respetiva qualificação, de modo a não ultrapassar a carga horária máxima do total da formação.\n\n3 - A carga horária do curso é distribuída ao longo dos três anos do ciclo de formação, de modo a não exceder as trinta e cinco horas por semana e as sete horas por dia, sem prejuízo do disposto nos n.os 8 e 9 do artigo 16.º\n\n4 - A carga horária, para efeitos do disposto no número anterior, é organizada por hora de formação, sem prejuízo do disposto no n.º 6.\n\n5 - Da distribuição da carga horária total pelos diferentes anos do ciclo de formação não pode resultar, no conjunto dos três anos, um número de horas inferior ao previsto na matriz curricular-base para as diferentes componentes de formação.\n\n6 - No desenvolvimento da autonomia e flexibilidade curricular conferida às escolas, e considerando, entre outras, as prioridades e opções curriculares previstas no artigo 19.º do Decreto-Lei n.º 55/2018, de 6 de julho, as escolas organizam as suas matrizes curriculares na unidade de tempo que consideram mais adequada.\n\n7 - Com o objetivo de encontrar respostas pedagogicamente adequadas ao contexto da turma ou grupo de alunos, as escolas podem gerir em cada componente, sociocultural e científica, num intervalo entre 0 % e 25 %, o resultado da soma das cargas horárias das disciplinas, procedendo à redistribuição desse resultado entre as disciplinas da respetiva componente.\n\n8 - Com vista à promoção de melhores aprendizagens, a operacionalização da faculdade conferida no número anterior pode variar ao longo do ano letivo.\n\n9 - Sempre que da implementação do previsto no n.º 6 resultar fração de tempo inferior à unidade adotada, o tempo sobrante é utilizado nessa mesma componente de formação.\n\n10 - Nas disciplinas de caráter laboratorial, oficinal, informático ou artístico ou que impliquem trabalho prático ou experimental, pode haver lugar ao desdobramento de turmas, nos termos definidos por despacho do membro do Governo responsável pela área da educação.\n\n11 - É possível agregar componentes de formação, disciplinas e UFCD, comuns de cursos diferentes, mediante autorização prévia dos serviços competentes para os efeitos previstos no artigo 42.º\n\n12 - As decisões tomadas no âmbito da gestão da carga horária, bem como as previstas no artigo seguinte, devem ser comunicadas aos pais e encarregados de educação."
+  },
+  "116169641": {
+   "fragment_id": "116169742",
+   "type": 11,
+   "heading": "Artigo 8.º — Matriz curricular de escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Matriz curricular de escola\n\n1 - No âmbito do planeamento curricular ao nível da escola e da turma, e considerando as decisões previstas no artigo anterior em sede de matriz curricular, cabe também à escola decidir, em conformidade como previsto no artigo 14.º do Decreto-Lei n.º 55/2018, de 6 de julho, sobre:\n\na) A implementação das opções curriculares adequadas ao seu projeto educativo e à materialização do plano de estudos do curso, considerando, entre outras, as opções previstas no n.º 2 do artigo 19.º do decreto-lei acima referido;\n\nb) A forma de implementação da componente de Cidadania e Desenvolvimento, nos termos do artigo 10.º;\n\nc) A opção pelo desenvolvimento da disciplina de Tecnologias de Informação e Comunicação ou por uma Oferta de Escola, de frequência obrigatória, gerindo a carga horária em função da necessidade de reforço das aprendizagens.\n\n2 - A disciplina de Oferta de Escola, a que se refere a alínea c) do número anterior, deve enquadrar-se no projeto educativo e atender à disponibilidade de recursos humanos e financeiros.\n\n3 - A matriz curricular de escola concretiza-se na definição do plano de estudos, que deverá ser inserido pelo órgão de administração e gestão da escola no Sistema Integrado de Informação e Gestão da Oferta Educativa e Formativa (SIGO), até ao início das atividades letivas.\n\n4 - Sempre que exista a disciplina de Oferta de Escola os respetivos documentos curriculares são aprovados pelo conselho pedagógico."
+  },
+  "116169642": {
+   "fragment_id": "116169743",
+   "type": 11,
+   "heading": "Artigo 9.º — Domínios de autonomia curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Domínios de autonomia curricular\n\n1 - Os domínios de autonomia curricular (DAC) constituem uma opção curricular de trabalho interdisciplinar e ou articulação curricular, cuja planificação deve identificar as componentes de formação, disciplinas e UFCD envolvidas, bem como a forma de organização.\n\n2 - O trabalho em DAC tem por base as Aprendizagens Essenciais, quando aplicável, e os demais documentos curriculares, com vista ao desenvolvimento das áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória, bem como no perfil profissional associado à respetiva qualificação.\n\n3 - Os DAC, numa interseção de aprendizagens de diferentes componentes de formação, disciplinas e UFCD, exploram percursos pedagógico-didáticos, em que se privilegia o trabalho prático e ou experimental e o desenvolvimento das capacidades de pesquisa, relação e análise, tendo por base, designadamente:\n\na) Os temas ou problemas abordados sob perspetivas disciplinares, numa abordagem interdisciplinar;\n\nb) Os conceitos, factos, relações, procedimentos, capacidades e competências, na sua transversalidade e especificidade disciplinar;\n\nc) Os géneros textuais associados à produção e transmissão de informação e de conhecimento presentes nos vários saberes disciplinares.\n\n4 - Na concretização dos DAC não fica prejudicada a existência das componentes de formação, bem como das disciplinas e das UFCD, previstas na matriz curricular."
+  },
+  "116169643": {
+   "fragment_id": "116169744",
+   "type": 11,
+   "heading": "Artigo 10.º — Cidadania e Desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cidadania e Desenvolvimento\n\n1 - No quadro da Estratégia Nacional de Educação para a Cidadania (ENEC), cabe à escola aprovar a sua estratégia de educação para a cidadania de acordo com o previsto no artigo 15.º do Decreto-Lei n.º 55/2018, de 6 de julho.\n\n2 - Na estratégia de educação para a cidadania definida pela escola, os domínios a desenvolver, a que se refere a alínea a) do n.º 2 do artigo 15.º acima mencionado, são os constantes no anexo I à presente portaria e da qual faz parte integrante.\n\n3 - A componente de Cidadania e Desenvolvimento é uma área de trabalho transversal, onde se cruzam contributos das diferentes componentes de formação, disciplinas e UFCD com os temas da estratégia de educação para a cidadania da escola, através do desenvolvimento e concretização de projetos pelos alunos.\n\n4 - Cabe ainda à escola decidir a forma de implementar a componente de Cidadania e Desenvolvimento, podendo optar, designadamente por:\n\na) A oferta como disciplina autónoma;\n\nb) A prática de coadjuvação no âmbito de uma disciplina;\n\nc) O funcionamento em justaposição com outra disciplina;\n\nd) Desenvolvimento de temas e projetos, no âmbito das diferentes componentes de formação, disciplinas e UFCD da matriz, sob a coordenação de um dos professores ou formadores da turma ou grupo de alunos.\n\n5 - Independentemente das opções adotadas pela escola previstas no número anterior, a componente de Cidadania e Desenvolvimento não é objeto de avaliação sumativa, sendo a participação nos projetos desenvolvidos no âmbito desta componente objeto de registo no certificado do aluno."
+  },
+  "116169644": {
+   "fragment_id": "116169745",
+   "type": 11,
+   "heading": "Artigo 11.º — Português Língua Não Materna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Português Língua Não Materna\n\n1 - No ensino secundário, as matrizes curriculares podem integrar a disciplina de Português Língua Não Materna (PLNM) destinada a alunos que se encontram numa das seguintes situações:\n\na) A sua língua materna não seja o português;\n\nb) Não tenham tido o português como língua de escolarização e para os quais, de acordo com o seu percurso escolar e o seu perfil sociolinguístico, a escola considere ser a oferta curricular mais adequada.\n\n2 - Para o desenvolvimento da disciplina de PLNM são constituídos, com base no Quadro Europeu Comum de Referência para as Línguas, os seguintes níveis de proficiência linguística:\n\na) Iniciação (A1, A2);\n\nb) Intermédio (B1);\n\nc) Avançado (B2, C1).\n\n3 - Tendo em vista o posicionamento em nível de proficiência, cabe à escola proceder a uma avaliação do conhecimento da língua portuguesa, a ocorrer no momento em que o aluno ingressa no sistema educativo.\n\n4 - A avaliação referida no número anterior é realizada de acordo com os descritores do Quadro Europeu Comum de Referência para as Línguas e com base em modelo de teste disponibilizado pela Direção-Geral da Educação.\n\n5 - Os alunos que sejam posicionados no nível de Iniciação (A1, A2) ou no nível Intermédio (B1) frequentam a disciplina de PLNM como equivalente à disciplina de Português nos termos seguintes:\n\na) Em grupos constituídos, no mínimo, por 10 alunos, podendo, caso tal se revele necessário, ser agrupados alunos dos níveis A1, A2 e B1;\n\nb) Na sua turma, nos tempos letivos da disciplina de Português, quando se mostre inviável a aplicação do previsto na alínea anterior.\n\n6 - Os alunos posicionados no nível Avançado (B2, C1) frequentam a disciplina de Português.\n\n7 - Os alunos de PLNM são organizados por grupos de nível de proficiência linguística e não por ano de formação, devendo seguir as Aprendizagens Essenciais de PLNM do respetivo nível, com adequação do processo de ensino, aprendizagem e avaliação à sua faixa etária.\n\n8 - Aos alunos recém-chegados ao sistema educativo nacional posicionados no nível de proficiência linguística de Iniciação (A1, A2), com vista a promover a equidade e a igualdade de oportunidades, pode a escola, em articulação com os pais ou encarregados de educação, disponibilizar respostas educativas que facilitem o acesso ao currículo, através de:\n\na) Mobilização de medidas de suporte à aprendizagem e à inclusão;\n\nb) Adaptações ao processo de avaliação:\n\ni) Interna;\n\nii) Externa.\n\n9 - Na concretização do previsto na alínea a) e na subalínea i) da alínea b)do número anterior deve ser garantida a integração dos alunos na turma."
+  },
+  "116169645": {
+   "fragment_id": "116169746",
+   "type": 11,
+   "heading": "Artigo 12.º — Língua materna de alunos de sistemas de ensino estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Língua materna de alunos de sistemas de ensino estrangeiros\n\nAos alunos recém-integrados no ensino secundário, provenientes de sistemas educativos estrangeiros, cuja língua materna não é o Português, e que no seu percurso escolar apenas estudaram uma língua estrangeira, aplica-se o seguinte:\n\na) Reconhecimento da língua materna do aluno;\n\nb) Reforço da aprendizagem do Português, designadamente como PLNM;\n\nc) Dispensa da obrigatoriedade de iniciar uma segunda língua estrangeira, visando o reforço do previsto na alínea anterior;\n\nd) Continuidade da aprendizagem da língua estrangeira do sistema de ensino de origem do aluno (LE I), desde que esta seja oferecida no sistema educativo português;\n\ne) Possibilidade do aluno iniciar, no 1.º ano do ciclo de formação, uma nova língua estrangeira (LE II), desde que esta não coincida com a sua língua materna."
+  },
+  "116169646": {
+   "fragment_id": "116169747",
+   "type": 11,
+   "heading": "Artigo 13.º — Educação bilingue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Educação bilingue\n\n1 - As escolas de referência para a educação e ensino bilingue constituem uma resposta educativa especializada para garantir o acesso ao currículo nacional.\n\n2 - Para os efeitos previstos no número anterior, a matriz curricular-base dos cursos profissionais integra na componente de formação sociocultural:\n\na) Língua Gestual Portuguesa (LGP) como primeira língua (L1);\n\nb) Língua Portuguesa Escrita como Segunda Língua (L2).\n\n3 - Nos termos dos n.os 1 e 2, a disciplina de LGP substitui a disciplina de Português.\n\n4 - Os alunos cuja primeira língua é a LGP frequentam ainda a disciplina de L2, com acréscimo de carga horária, tendo como referência a carga horária da matriz curricular-base dos cursos profissionais.\n\n5 - Os tempos a atribuir às disciplinas mencionadas no n.º 2 são os previstos para a correspondente disciplina na matriz curricular-base, podendo as escolas proceder ao seu reforço, de acordo com as necessidades identificadas.\n\n6 - Sem prejuízo do estabelecido no n.º 4, os alunos dão continuidade à língua estrangeira iniciada no ensino básico ou, em alternativa, por decisão da escola e em articulação com os pais ou encarregados de educação, podem iniciar uma segunda língua estrangeira."
+  },
+  "116169647": {
+   "fragment_id": "116169748",
+   "type": 11,
+   "heading": "Artigo 14.º — Organização do percurso formativo do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Organização do percurso formativo do aluno\n\n1 - Os alunos dos cursos profissionais realizam, obrigatoriamente, todas as componentes de formação do curso que frequentam.\n\n2 - Na componente de formação tecnológica, os alunos podem substituir as UFCD de bolsa escolhidas pela escola por outras constantes da bolsa do mesmo referencial de formação, em função do percurso formativo pretendido e dos recursos disponíveis, mediante procedimento a fixar no regulamento interno da escola.\n\n3 - Em conformidade com o disposto no artigo 16.º do Decreto-Lei n.º 55/2018, de 6 de julho, o aluno pode realizar um percurso formativo próprio, de acordo com as regras constantes no artigo seguinte."
+  },
+  "116169648": {
+   "fragment_id": "116169749",
+   "type": 11,
+   "heading": "Artigo 15.º — Percurso formativo próprio e complemento de currículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Percurso formativo próprio e complemento de currículo\n\n1 - Na prossecução do desenvolvimento de maior flexibilidade nos planos curriculares é garantida, aos alunos dos cursos profissionais, a possibilidade de adoção de um percurso formativo próprio através da substituição de disciplinas da componente de formação científica por disciplinas que apresentem afinidades e tenham uma carga horária igual ou superior ou que, para além disso, permitam alargar o espetro de aprendizagens noutra área.\n\n2 - Para efeitos do disposto no número anterior é permitida a substituição de uma das disciplinas da componente de formação científica, através da aplicação da tabela constante do anexo II à presente portaria e da qual faz parte integrante, por:\n\na) Disciplina correspondente dos cursos artísticos especializados;\n\nb) Disciplina da formação específica dos cursos científico-humanísticos.\n\n3 - A substituição de disciplinas é feita aquando da inscrição para a frequência do 1.º ano do ciclo de formação ou até ao quinto dia útil do 2.º período.\n\n4 - Quando os cursos profissionais forem ministrados em escolas que não ofereçam as disciplinas com as quais é possível ser efetuada a substituição, pode ser permitida a frequência destas numa outra escola, desde que sejam estabelecidas as condições necessárias, designadamente, protocolos de colaboração.\n\n5 - O percurso formativo do aluno pode, ainda, ser complementado mediante a matrícula em disciplinas ou UFCD adicionais, de acordo com os recursos disponíveis na escola.\n\n6 - Nos casos previstos no número anterior, a classificação obtida nas disciplinas e UFCD consideradas complemento do currículo pode também ser contabilizada, até ao limite de duas disciplinas e quatro UFCD, para o cálculo da média final de curso, por opção do aluno, desde que integrem o referencial de formação do respetivo curso, não contando para efeitos de conclusão do mesmo.\n\n7 - A adoção de um percurso próprio é feita mediante requerimento do encarregado de educação ou do aluno, quando maior de idade, devendo ser garantido o acesso a toda a informação relevante, tendo por referência a totalidade do ciclo de formação, nomeadamente o impacto da sua opção no que respeita à carga horária a cumprir, regime de assiduidade, condições de avaliação e de conclusão de estudos."
+  },
+  "116169649": {
+   "fragment_id": "116169750",
+   "type": 11,
+   "heading": "Artigo 16.º — Organização e desenvolvimento da componente de formação em contexto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Organização e desenvolvimento da componente de formação em contexto de trabalho\n\n1 - A FCT, nos temos da alínea d) do n.º 2 do artigo 6.º, integra um conjunto de atividades profissionais relevantes para o perfil profissional associado à respetiva qualificação do curso frequentado pelo aluno, desenvolvidas sob coordenação e acompanhamento da escola.\n\n2 - A FCT realiza-se nas entidades de acolhimento, em períodos de duração variável ao longo ou no final da formação, enquanto experiências de trabalho, designadamente sob a forma de estágio.\n\n3 - A título excecional, por razões supervenientes à entrada em funcionamento do curso, e mediante autorização prévia dos serviços competentes para os efeitos previstos no artigo 42.º, a FCT pode realizar-se, parcialmente, através da simulação de um conjunto de atividades profissionais relevantes para o perfil profissional associado à respetiva qualificação, a desenvolver em condições similares às do contexto real de trabalho.\n\n4 - A concretização da FCTé antecedida e prevista em protocolo enquadrador celebrado entre a escola e as entidades de acolhimento, as quais devem desenvolver atividades profissionais compatíveis e adequadas ao perfil profissional associado à respetiva qualificação.\n\n5 - A organização e o desenvolvimento da FCT obedecem a um plano de trabalho individual, elaborado com a participação das partes envolvidas e assinado pelo órgão competente da escola, pela entidade de acolhimento, pelo aluno e ainda pelos pais ou encarregados de educação, caso o aluno seja menor de idade.\n\n6 - O plano de trabalho, depois de assinado, é considerado como parte integrante do contrato de formação.\n\n7 - O plano a que se referem os números anteriores deve, obrigatoriamente, identificar:\n\na) Os objetivos e as competências técnicas, relacionais e organizacionais a desenvolver ao longo da FCT;\n\nb) A programação, o período de duração, o horário e o local de realização das atividades;\n\nc) As formas de monitorização e acompanhamento do aluno e os respetivos responsáveis pela sua operacionalização;\n\nd) Os direitos e deveres das partes envolvidas.\n\n8 - A FCT deve ser ajustada ao horário de funcionamento da entidade de acolhimento, não devendo ultrapassar, sempre que possível, a duração semanal de trinta e cinco horas, nem a duração diária de sete horas.\n\n9 - Caso a duração máxima de referência prevista no número anterior seja excedida, o protocolo e o plano referidos nos n.os4 e 5 do presente artigo mencionam, expressamente, os fundamentos da duração estipulada, sem prejuízo da possibilidade de recusa pelo aluno ou pelos pais ou encarregados de educação, se aquele for menor de idade.\n\n10 - A responsabilidade pela orientação e pelo acompanhamento do aluno durante o desenvolvimento da FCT é partilhada, sob coordenação da escola, pelo orientador da FCT designado pela escola, nos termos do n.º 14 do presente artigo, e pelo tutor designado pela entidade de acolhimento, nos termos do n.º 3 do artigo 17.º\n\n11 - Os alunos têm direito a um seguro que garanta a cobertura dos riscos das deslocações a que estiverem obrigados, bem como das atividades a desenvolver.\n\n12 - O protocolo e o contrato referidos nos n.os 4 e 6 do presente artigo não geram nem titulam, respetivamente, relações de trabalho subordinado e caducam com a conclusão da formação para que foram celebrados.\n\n13 - A aprendizagem visada pela FCT inclui, também, a aquisição de conhecimentos e o desenvolvimento de competências no âmbito da segurança e saúde no trabalho.\n\n14 - O orientador da FCT é designado pelo órgão de administração e gestão da escola, ouvido o diretor de curso, de entre os professores ou formadores que lecionam as disciplinas da componente de formação tecnológica."
+  },
+  "116169650": {
+   "fragment_id": "116169751",
+   "type": 11,
+   "heading": "Artigo 17.º — Responsabilidades dos intervenientes na componente de formação em contexto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsabilidades dos intervenientes na componente de formação em contexto de trabalho\n\n1 - Na FCT, são responsabilidades específicas da escola:\n\na) Assegurar a sua realização nos termos definidos na lei e nos regulamentos aplicáveis;\n\nb) Assegurar a elaboração e celebração dos protocolos com as entidades de acolhimento;\n\nc) Estabelecer os critérios de distribuição dos alunos pelas entidades de acolhimento;\n\nd) Assegurar a elaboração e a assinatura dos contratos de formação com os alunos e seus pais ou encarregados de educação, se aqueles forem menores de idade;\n\ne) Assegurar a elaboração do plano de trabalho de cada aluno, bem como a respetiva assinatura por parte de todos os intervenientes;\n\nf) Acompanhar a execução do plano de trabalho de cada aluno, bem como a avaliação do seu desempenho, em colaboração com a entidade de acolhimento;\n\ng) Assegurar que os alunos se encontram cobertos por seguro em todas as atividades da FCT;\n\nh) Assegurar, em conjunto com as entidades de acolhimento e os alunos, as condições logísticas necessárias à realização e ao acompanhamento da FCT.\n\n2 - São responsabilidades específicas do orientador da FCT:\n\na) Elaborar o plano de trabalho do aluno, em articulação com o diretor de curso e, quando for o caso, com os demais órgãos de coordenação e supervisão pedagógica da escola, bem como com os restantes professores e formadores do curso e o tutor designado pela entidade de acolhimento;\n\nb) Acompanhar a execução do plano de trabalho do aluno, nomeadamente através de deslocações periódicas, pelo menos duas vezes por período de FCT, aos locais em que a mesma se realiza;\n\nc) Avaliar, em conjunto com o tutor designado pela entidade de acolhimento, o desempenho do aluno;\n\nd) Acompanhar o aluno na elaboração dos relatórios da FCT;\n\ne) Propor ao conselho de turma de avaliação, ouvido o tutor, a classificação do aluno na FCT.\n\n3 - São responsabilidades específicas da entidade de acolhimento:\n\na) Designar o tutor;\n\nb) Colaborar na elaboração do protocolo e do plano de trabalho do aluno;\n\nc) Atribuir ao aluno tarefas que permitam a execução do seu plano de trabalho;\n\nd) Colaborar no acompanhamento e na avaliação do desempenho do aluno na FCT;\n\ne) Assegurar o acesso à informação necessária ao desenvolvimento daFCT, nomeadamente no que diz respeito à integração socioprofissional do aluno na entidade;\n\nf) Controlar a assiduidade e a pontualidade do aluno;\n\ng) Assegurar, em conjunto com a escola e o aluno, as condições logísticas necessárias à realização e ao acompanhamento da FCT.\n\n4 - São responsabilidades específicas do aluno:\n\na) Colaborar na elaboração do seu plano de trabalho;\n\nb) Participar nas reuniões de acompanhamento e avaliação da FCT, sempre que for convocado;\n\nc) Cumprir, no que lhe compete, o seu plano de trabalho;\n\nd) Respeitar a organização do trabalho na entidade de acolhimento e utilizar com zelo os bens, equipamentos e instalações da mesma;\n\ne) Não utilizar para outros fins, sem prévia autorização da entidade de acolhimento, a informação a que tiver acesso durante a FCT;\n\nf) Ser assíduo e pontual;\n\ng) Justificar as faltas perante o diretor de turma, o diretor de curso e o tutor, de acordo com as normas internas da escola e da entidade de acolhimento;\n\nh) Elaborar os relatórios intercalares e o relatório final da FCT, de acordo com o estabelecido no regulamento interno da escola.\n\n5 - Quando a FCTse desenvolva nos termos previstos no n.º 3 do artigo 16.º as funções atribuídas ao tutor designado pela entidade de acolhimento são assumidas pelos professores ou formadores da componente de formação tecnológica."
+  },
+  "116169651": {
+   "fragment_id": "116169752",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamento da componente de formação em contexto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamento da componente de formação em contexto de trabalho\n\n1 - A FCT rege-se, em todas as matérias não previstas na presente portaria ou noutra legislação aplicável, por regulamento específico, aprovado pelos órgãos competentes da escola, sendo este parte integrante do respetivo regulamento interno.\n\n2 - O regulamento da FCT define, entre outras, as seguintes matérias:\n\na) Os direitos e deveres de todos os intervenientes;\n\nb) O regime aplicável às modalidades efetivamente encontradas pela escola para a operacionalização da FCT;\n\nc) A fórmula de apuramento da respetiva classificação final, incluindo o peso relativo a atribuir às suas diferentes modalidades ou etapas de concretização;\n\nd) Os critérios de designação do orientador da FCT, responsável pelo acompanhamento dos alunos."
+  },
+  "116169652": {
+   "fragment_id": "116169753",
+   "type": 11,
+   "heading": "Artigo 19.º — Planeamento curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Planeamento curricular\n\n1 - No âmbito das atribuições que lhes estão legalmente atribuídas, compete aos órgãos de direção, administração e gestão da escola a conceção e operacionalização do planeamento curricular, designadamente no que respeita à decisão sobre as prioridades e opções estruturantes de natureza curricular.\n\n2 - Os alunos são envolvidos no desenho de opções curriculares e na avaliação da sua eficácia, bem como no planeamento do ensino e na avaliação, tendo por referência processos de autorregulação da aprendizagem.\n\n3 - O conselho pedagógico, enquanto órgão de coordenação e supervisão pedagógica e orientação educativa, para além de propor a definição das opções curriculares estruturantes a consagrar no projeto educativo da escola, delibera sobre:\n\na) A adoção de outros instrumentos de planeamento curricular, definindo, sempre que existam, a sua natureza e finalidades;\n\nb) As formas de monitorização do planeamento curricular no âmbito dos instrumentos adotados pela escola.\n\n4 - Com vista à prossecução das áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória e do perfil profissional associado à respetiva qualificação, intervêm na concretização das opções curriculares estruturantes, bem como no planeamento e na organização das atividades a desenvolver, designadamente:\n\na) O conselho de turma;\n\nb) As equipas educativas, caso existam;\n\nc) O diretor de curso, nos termos do n.º 5 do presente artigo;\n\nd) Outros professores ou técnicos que intervenham no processo de ensino e aprendizagem e representantes de serviços ou entidades cuja contribuição o conselho de turma considere conveniente;\n\ne) Os representantes dos pais e encarregados de educação da turma.\n\n5 - A articulação das aprendizagens nas diferentes componentes de formação, disciplinas e UFCD é assegurada pelo diretor de curso, designado pelo órgão de administração e gestão da escola, ouvido o conselho pedagógico, preferencialmente de entre os docentes profissionalizados que lecionam as UFCD da componente de formação tecnológica, competindo-lhe, sem prejuízo de outras competências definidas em regulamento interno ou delegadas:\n\na) Assegurar a articulação pedagógica entre as diferentes componentes de formação, disciplinas e UFCD;\n\nb) Organizar e coordenar as atividades a desenvolver no âmbito da componente de formação tecnológica;\n\nc) Participar nas reuniões do conselho de turma, no âmbito das suas funções;\n\nd) Intervir no âmbito da orientação e acompanhamento da PAP, nos termos previstos na presente portaria;\n\ne) Assegurar a articulação entre a escola e as entidades de acolhimento da FCT, identificando-as, selecionando-as, preparando protocolos, participando na elaboração do plano de trabalho e dos contratos de formação, procedendo à distribuição dos alunos por aquelas entidades e coordenando o acompanhamento dos mesmos, em estreita relação com o orientador da FCT e o tutor responsáveis pelo acompanhamento dos alunos na FCT;\n\nf) Assegurar a articulação com os serviços com competência em matéria de apoio socioeducativo;\n\ng) Coordenar o acompanhamento e a avaliação do curso.\n\n6 - Assumem especial relevância no planeamento curricular os intervenientes diretamente envolvidos no processo de ensino, aprendizagem e avaliação, designadamente o diretor de turma, competindo-lhe, entre outras matérias, promover:\n\na) A adequação do currículo e das ações estratégicas de ensino às características específicas da turma ou grupo de alunos, tomando decisões relativas à consolidação, aprofundamento e enriquecimento das Aprendizagens Essenciais e demais documentos curriculares;\n\nb) O desenvolvimento de trabalho interdisciplinar e de articulação curricular, sustentado em práticas de planeamento conjunto de estratégias de ensino e de aprendizagem, incluindo os procedimentos, técnicas e instrumentos e de avaliação.\n\n7 - No desenvolvimento do previsto no n.º 4 devem ser privilegiadas dinâmicas de trabalho pedagógico de natureza interdisciplinar e de articulação disciplinar, concretizadas numa ação educativa que, nos termos previstos no n.º 3 do artigo 21.º do Decreto-Lei n.º 55/2018, de 6 de julho, vise, entre outras, garantir:\n\na) Uma atuação preventiva que permita antecipar e prevenir o insucesso e o abandono escolares;\n\nb) A implementação das medidas multinível, universais, seletivas e adicionais, que se revelem ajustadas à aprendizagem e inclusão dos alunos;\n\nc) A rentabilização eficiente dos recursos e oportunidades existentes na escola e na comunidade;\n\nd) A adequação, diversidade e complementaridade das estratégias de ensino e aprendizagem, bem como a produção de informação descritiva sobre os desempenhos dos alunos;\n\ne) A regularidade da monitorização, avaliando a intencionalidade e o impacto das estratégias e medidas adotadas."
+  },
+  "116169653": {
+   "fragment_id": "116169754",
+   "type": 8,
+   "heading": "Secção II — Avaliação das aprendizagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliação das aprendizagens"
+  },
+  "116169654": {
+   "fragment_id": "116169755",
+   "type": 3,
+   "heading": "Subsecção I — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Processo de avaliação"
+  },
+  "116169655": {
+   "fragment_id": "116169756",
+   "type": 11,
+   "heading": "Artigo 20.º — Objeto da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Objeto da avaliação\n\n1 - A avaliação incide sobre as aprendizagens desenvolvidas pelos alunos, tendo por referência os documentos curriculares e, quando aplicável, as Aprendizagens Essenciais, que constituem orientação curricular de base, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória, bem como nos conhecimentos, aptidões e atitudes identificados no perfil profissional associado à respetiva qualificação.\n\n2 - A avaliação assume caráter contínuo e sistemático, ao serviço das aprendizagens, e fornece ao professor ou formador, ao aluno, aos pais ou encarregados de educação e aos restantes intervenientes, informação sobre o desenvolvimento do trabalho, a qualidade das aprendizagens realizadas e os percursos para a sua melhoria.\n\n3 - As informações obtidas em resultado da avaliação permitem ainda a revisão do processo de ensino e de aprendizagem.\n\n4 - A avaliação certifica as aprendizagens realizadas, nomeadamente os saberes adquiridos, as capacidades e atitudes desenvolvidas no âmbito das áreas de competência inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória, bem como os conhecimentos, aptidões e atitudes identificados no perfil profissional associado à respetiva qualificação."
+  },
+  "116169656": {
+   "fragment_id": "116169757",
+   "type": 11,
+   "heading": "Artigo 21.º — Intervenientes e competências no processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Intervenientes e competências no processo de avaliação\n\n1 - No processo de avaliação das aprendizagens são intervenientes, para além dos constantes no artigo 19.º, o orientador da PAPe os membros do júri da PAP.\n\n2 - Podem ainda participar no processo de avaliação outros elementos que intervenham no processo formativo do aluno.\n\n3 - Aos professores, formadores e outros profissionais intervenientes no processo de avaliação compete, designadamente através da modalidade de avaliação formativa, e em harmonia com as orientações definidas pelos órgãos com competências no domínio pedagógico-didático:\n\na) Adotar medidas que visam contribuir para as aprendizagens de todos os alunos;\n\nb) Fornecer informação aos alunos, pais ou encarregados de educação sobre o desenvolvimento das aprendizagens;\n\nc) Reajustar as práticas educativas orientando-as para a promoção do sucesso educativo.\n\n4 - O acompanhamento e a avaliação das aprendizagens são da responsabilidade do conselho de turma, sob proposta dos professores e formadores de cada componente de formação, disciplina, módulos, e UFCD, bem como do órgão de administração e gestão e dos órgãos de coordenação e supervisão pedagógica da escola.\n\n5 - Compete ao órgão de administração e gestão, com base em dados regulares da avaliação das aprendizagens e noutros elementos apresentados pelo diretor de turma, bem como pela equipa multidisciplinar prevista no Decreto-Lei n.º 54/2018, de 6 de julho, mobilizar e coordenar os recursos educativos existentes, com vista a desencadear respostas adequadas às necessidades dos alunos.\n\n6 - As respostas às necessidades dos alunos, enquanto medidas de promoção do sucesso educativo, devem ser pedagogicamente alinhadas com evidências do desempenho, assumindo, sempre que aplicável, um caráter transitório.\n\n7 - O órgão de administração e gestão deve ainda garantir o acesso à informação e assegurar as condições de participação dos alunos e dos pais ou encarregados de educação, dos professores e formadores e de outros profissionais intervenientes no processo, nos termos definidos no regulamento interno."
+  },
+  "116169657": {
+   "fragment_id": "116169758",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Critérios de avaliação\n\n1 - Até ao início do ano letivo, o conselho pedagógico da escola, enquanto órgão regulador do processo de avaliação das aprendizagens, define, no âmbito das prioridades e opções curriculares, e sob proposta dos departamentos curriculares, os critérios de avaliação tendo em conta, designadamente:\n\na) O Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\nb) As Aprendizagens Essenciais, quando aplicável;\n\nc) Os perfis profissionais e referenciais de formação associados às respetivas qualificações constantes no CNQ;\n\nd) Os demais documentos curriculares respeitantes a cada curso profissional, visando, quando aplicável, a consolidação, aprofundamento e enriquecimento das Aprendizagens Essenciais.\n\n2 - Nos critérios de avaliação deve ser enunciado um perfil de aprendizagens específicas no âmbito de cada componente de formação, integrando descritores de desempenho, em consonância com o disposto no número anterior.\n\n3 - Os critérios de avaliação devem traduzir a importância relativa que cada um dos domínios e temas assume nas Aprendizagens Essenciais, quando aplicável, e nos demais documentos curriculares, designadamente no que respeita à valorização da competência da oralidade e à dimensão prática e ou experimental das aprendizagens a desenvolver.\n\n4 - Os critérios de avaliação constituem referenciais comuns na escola para cada curso profissional, sendo operacionalizados pelo conselho de turma.\n\n5 - O órgão de administração e gestão deve garantir a divulgação dos critérios de avaliação junto dos diversos intervenientes, em especial dos alunos e dos pais ou encarregados de educação."
+  },
+  "116169658": {
+   "fragment_id": "116169759",
+   "type": 11,
+   "heading": "Artigo 23.º — Registo, tratamento e análise da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Registo, tratamento e análise da informação\n\n1 - As informações relativas a cada aluno decorrentes das diferentes modalidades de avaliação devem ser objeto de registo, nos termos a definir pelos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola.\n\n2 - Cabe ao diretor definir os procedimentos adequados para assegurar a circulação, em tempo útil, da informação relativa aos resultados e desempenhos escolares, a fim de garantir as condições necessárias para que os encarregados de educação e os alunos possam participar na melhoria das aprendizagens.\n\n3 - A partir da informação individual sobre o desempenho dos alunos e da informação agregada, nomeadamente dos relatórios com resultados e outros dados relevantes ao nível da turma e da escola, os professores e formadores e os demais intervenientes no processo de ensino e aprendizagem devem implementar rotinas de avaliação sobre as suas práticas pedagógicas com vista à consolidação ou reajustamento de estratégias que conduzam à melhoria das aprendizagens.\n\n4 - A análise a que se refere o número anterior deve ter em conta os indicadores considerados relevantes, designadamente as taxas de retenção e desistência, progressão e conclusão, numa lógica de melhoria de prestação do serviço educativo.\n\n5 - No processo de análise da informação devem valorizar-se abordagens de complementaridade entre os dados da avaliação interna e os gerados pela avaliação externa, nomeadamente os decorrentes da PAP, visando uma leitura abrangente do percurso de aprendizagem do aluno, designadamente no contexto específico da escola.\n\n6 - Do resultado da análise devem decorrer processos de planificação das atividades curriculares e extracurriculares que, sustentados pelos dados disponíveis, visem melhorar a qualidade das aprendizagens, combater o abandono escolar e promover o sucesso educativo.\n\n7 - Os resultados do processo mencionado nos n.os 3, 4 e 5 são disponibilizados à comunidade escolar pelos meios considerados adequados."
+  },
+  "116169659": {
+   "fragment_id": "116169760",
+   "type": 3,
+   "heading": "Subsecção II — Avaliação interna e externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Avaliação interna e externa"
+  },
+  "116169660": {
+   "fragment_id": "116169761",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação interna\n\n1 - A avaliação interna das aprendizagens compreende, de acordo com a finalidade que preside à recolha de informação, as modalidades formativa e sumativa.\n\n2 - A avaliação interna das aprendizagens é da responsabilidade dos professores, formadores e dos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola.\n\n3 - Na avaliação interna são envolvidos os alunos, privilegiando-se um processo de autorregulação das suas aprendizagens.\n\n4 - O tutor intervém também na avaliação interna das aprendizagens, no âmbito da FCT."
+  },
+  "116169661": {
+   "fragment_id": "116169762",
+   "type": 11,
+   "heading": "Artigo 25.º — Avaliação formativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Avaliação formativa\n\n1 - A avaliação formativa, enquanto principal modalidade de avaliação, integra o processo de ensino e de aprendizagem fundamentando o seu desenvolvimento.\n\n2 - Os procedimentos a adotar no âmbito desta modalidade de avaliação devem privilegiar:\n\na) A regulação do ensino e das aprendizagens, através da recolha de informação que permita conhecer a forma como se ensina e como se aprende, fundamentando a adoção e o ajustamento de medidas e estratégias pedagógicas;\n\nb) O caráter contínuo e sistemático dos processos avaliativos e a sua adaptação aos contextos em que ocorrem;\n\nc) A diversidade das formas de recolha de informação, recorrendo a uma variedade de procedimentos, técnicas e instrumentos adequados às finalidades que lhes presidem, à diversidade das aprendizagens, aos destinatários e às circunstâncias em que ocorrem.\n\n3 - Na recolha de informação sobre as aprendizagens, com recurso à diversidade e adequação de procedimentos, técnicas e instrumentos de avaliação, devem ser prosseguidos objetivos de melhoria da qualidade da informação a recolher.\n\n4 - A melhoria da qualidade da informação recolhida exige a triangulação de estratégias, técnicas e instrumentos, beneficiando com a intervenção de mais do que um avaliador."
+  },
+  "116169662": {
+   "fragment_id": "116169763",
+   "type": 11,
+   "heading": "Artigo 26.º — Avaliação sumativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Avaliação sumativa\n\n1 - A avaliação sumativa consubstancia um juízo global sobre as aprendizagens desenvolvidas pelos alunos nas diferentes disciplinas, módulos, UFCD e na FCT.\n\n2 - A avaliação sumativa traduz a necessidade de informar alunos e pais ou encarregados de educação sobre o estado de desenvolvimento das aprendizagens.\n\n3 - Esta modalidade de avaliação traduz ainda a tomada de decisão sobre o percurso escolar do aluno.\n\n4 - A coordenação do processo de tomada de decisão relativa à avaliação sumativa, garantindo a sua natureza globalizante e o respeito pelos critérios de avaliação referidos no artigo 22.º, compete ao diretor de turma.\n\n5 - A avaliação sumativa processa-se de acordo com o previsto nos artigos 27.º e 37.º\n\n6 - Aos alunos e encarregados de educação deve ser garantida informação regular sobre a sua evolução, incluindo as áreas a melhorar ou a consolidar, a inscrever na ficha de registo de avaliação.\n\n7 - O aluno pode requerer, em condições a fixar pelos órgãos competentes da escola, a avaliação dos módulos e UFCD não concluídos.\n\n8 - A avaliação sumativa sobre a FCT observa, ainda, o disposto nos artigos 16.º a 18.º"
+  },
+  "116169663": {
+   "fragment_id": "116169764",
+   "type": 11,
+   "heading": "Artigo 27.º — Formalização da avaliação sumativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Formalização da avaliação sumativa\n\n1 - A avaliação sumativa é formalizada pelo conselho de turma de avaliação, nos termos do artigo 37.º, tendo as seguintes finalidades:\n\na) Apreciação global das aprendizagens desenvolvidas pelo aluno e do seu aproveitamento ao longo do ano;\n\nb) Atribuição de classificação final nas diferentes disciplinas, módulos, UFCD e na FCT,já concluídos pelo aluno.\n\n2 - A avaliação sumativa é da responsabilidade conjunta e exclusiva dos professores e formadores que compõem o conselho de turma, sob critérios aprovados pelo conselho pedagógico de acordo com o disposto no artigo 22.º, sem prejuízo do disposto nos números seguintes.\n\n3 - A classificação de cada módulo e UFCD, a atribuir a cada aluno, é proposta pelo professor ou formador ao conselho de turma de avaliação, para deliberação, sendo os momentos de realização da avaliação, no final de cada módulo e UFCD, acordados entre o professor ou formador e o aluno ou grupo de alunos, tendo em conta as realizações e os ritmos de aprendizagem dos alunos.\n\n4 - Nas disciplinas cuja organização não obriga a uma estrutura modular, a classificação final da disciplina é atribuída após a sua conclusão, aplicando-se os demais procedimentos previsto no número anterior.\n\n5 - Do disposto nos números anteriores não pode resultar uma diminuição do reporte aos alunos e aos pais ou encarregados de educação sobre a avaliação das aprendizagens, devendo ser garantida, informação sobre a sua evolução, incluindo as áreas a melhorar ou a consolidar, a inscrever na ficha de registo de avaliação.\n\n6 - No que se refere à FCT, a avaliação é da responsabilidade conjunta do tutor da entidade de acolhimento e do orientador da FCT, que deve propor a classificação ao conselho de turma de avaliação.\n\n7 - A avaliação sumativa expressa-se numa escala de 0 a 20 valores e, sempre que se considere relevante, é acompanhada de uma apreciação descritiva sobre a evolução da aprendizagem do aluno, incluindo as áreas a melhorar ou a consolidar, a inscrever, sempre que aplicável, na ficha de registo de avaliação.\n\n8 - Exceciona-se do disposto no número anterior Cidadania e Desenvolvimento, que,em caso algum, é objeto de avaliação sumativa.\n\n9 - A participação nos projetos desenvolvidos no âmbito da disciplina de Cidadania e Desenvolvimento é objeto de registo anual no certificado do aluno.\n\n10 - As aprendizagens desenvolvidas pelos alunos no quadro das opções curriculares, nomeadamente dos DAC a que se refere o artigo 9.º, são consideradas na avaliação das respetivas disciplinas, módulos, UFCD ou da FCT."
+  },
+  "116169664": {
+   "fragment_id": "116169765",
+   "type": 11,
+   "heading": "Artigo 28.º — Avaliação externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Avaliação externa\n\n1 - A avaliação externa das aprendizagens deve contemplar a avaliação da capacidade de mobilização e de integração de todos os conhecimentos, aptidões, atitudes e competências profissionais, sendo realizada, em complemento da avaliação interna das aprendizagens, através da PAP.\n\n2 - A natureza externa da PAP é assegurada pela integração no júri de personalidades externas, de reconhecido mérito na área da formação profissional ou dos setores de atividade afins ao curso e outros representantes do setor do respetivo curso, realizando-se a prova nos termos previstos nos artigos 29.º a 33.º\n\n3 - Os alunos dos cursos regulados pela presente portaria podem candidatar-se, na qualidade de alunos autopropostos, à realização de exames finais nacionais que elegerem como provas de ingresso para acesso ao ensino superior.\n\n4 - Aos alunos abrangidos por medidas universais, seletivas ou adicionais, aplicadas no âmbito do regime jurídico da educação inclusiva, aprovado pelo Decreto-Lei n.º 54/2018, de 6 de julho, que realizem os exames finais nacionais nos termos do número anterior são garantidas, se necessário, adaptações no processo de realização dos mesmos."
+  },
+  "116169665": {
+   "fragment_id": "116169766",
+   "type": 11,
+   "heading": "Artigo 29.º — Prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Prova de aptidão profissional\n\n1 - A PAP, de acordo com o previsto na subalínea v) da alínea b) do n.º 2 do artigo 23.º do Decreto-Lei n.º 55/2018, de 6 de julho, integra a avaliação externa.\n\n2 - A PAP consiste na apresentação e defesa, perante um júri, de um projeto consubstanciado num produto, material ou intelectual, numa intervenção ou numa atuação, consoante a natureza dos cursos, bem como do respetivo relatório final de realização e apreciação crítica, demonstrativo de conhecimentos, aptidões, atitudes e competências profissionais adquiridos ao longo do percurso formativo do aluno, em todas as componentes de formação, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória e no perfil profissional associado à respetiva qualificação.\n\n3 - A PAP, regulada nos termos dos artigos seguintes, realiza-se durante o último ano do ciclo de formação, em condições a fixar pelos órgãos competentes da escola.\n\n4 - Nos termos da alínea c) do n.º 5 do artigo 4.º, deve constar do processo individual do aluno a identificação do projeto da PAP e respetiva classificação final, expressa numa escala de 0 a 20 valores."
+  },
+  "116169666": {
+   "fragment_id": "116169767",
+   "type": 11,
+   "heading": "Artigo 30.º — Conceção e concretização do projeto da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conceção e concretização do projeto da prova de aptidão profissional\n\n1 - O projeto da PAP centra-se em temas e problemas perspetivados e desenvolvidos pelo aluno em estreita ligação com os contextos de trabalho e realiza-se sob orientação e acompanhamento de um professor ou formador.\n\n2 - Tendo em conta a natureza do projeto pode o mesmo ser desenvolvido em equipa, desde que, em todas as suas fases e momentos de concretização, seja visível e avaliável a contribuição individual específica de cada um dos membros da equipa.\n\n3 - A concretização do projeto compreende três momentos essenciais:\n\na) Conceção;\n\nb) Fases de desenvolvimento;\n\nc) Autoavaliação e elaboração do relatório final.\n\n4 - O relatório final a que se refere a alínea c) do número anterior integra, nomeadamente:\n\na) A fundamentação da escolha do projeto;\n\nb) Os documentos ilustrativos da concretização do projeto;\n\nc) A análise crítica global da execução do projeto, considerando as principais dificuldades e obstáculos encontrados e as formas de os superar;\n\nd) Os anexos, designadamente os registos de autoavaliação das diferentes fases do projeto e das avaliações intermédias do orientador da PAP.\n\n5 - Nos casos em que o projeto revista a forma de uma atuação perante o júri, os momentos de concretização previstos nos números anteriores podem ser adaptados em conformidade."
+  },
+  "116169667": {
+   "fragment_id": "116169768",
+   "type": 11,
+   "heading": "Artigo 31.º — Orientação e acompanhamento da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Orientação e acompanhamento da prova de aptidão profissional\n\n1 - O orientador da PAP é designado pelo órgão de administração e gestão da escola de entre os professores e formadores que lecionam as disciplinas da componente de formação tecnológica.\n\n2 - Ao orientador da PAP compete, em especial:\n\na) Orientar o aluno na escolha do projeto a desenvolver, na sua realização e na redação do relatório final;\n\nb) Informar o aluno sobre os critérios de avaliação;\n\nc) Decidir se o projeto e o relatório estão em condições de serem presentes ao júri;\n\nd) Orientar o aluno na preparação da apresentação a realizar na PAP;\n\ne) Registar a classificação da PAP na respetiva pauta, nos termos do artigo 38.º\n\n3 - O diretor de curso e o diretor de turma, em colaboração com o órgão de administração e gestão e com os demais órgãos de coordenação e supervisão pedagógica da escola, asseguram a articulação entre os professores e formadores das várias componentes de formação, de modo a que sejam cumpridos, de acordo com a calendarização estabelecida, todos os procedimentos necessários à realização da PAP, competindo ainda, ao primeiro, propor para aprovação do conselho pedagógico os critérios de avaliação da PAP e datas de apresentação.\n\n4 - Sem prejuízo dos números anteriores, o órgão de administração e gestão, em colaboração com os órgãos de coordenação e supervisão pedagógica da escola, é responsável pelo planeamento necessário à realização da PAP."
+  },
+  "116169668": {
+   "fragment_id": "116169769",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamento da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regulamento da prova de aptidão profissional\n\n1 - A PAP rege-se, em todas as matérias não previstas na presente portaria ou noutra legislação aplicável, por regulamento específico aprovado pelos órgãos competentes da escola, sendo este parte integrante do respetivo regulamento interno.\n\n2 - O regulamento da PAP define, entre outras, as seguintes matérias:\n\na) A calendarização de todo o processo;\n\nb) Os direitos e deveres de todos os intervenientes;\n\nc) Os critérios e os trâmites a observar, pelos diferentes órgãos e demais intervenientes, para aceitação e acompanhamento dos projetos;\n\nd) A negociação dos projetos, no contexto da escola e no contexto de trabalho;\n\ne) Os critérios de classificação a observar pelo júri da PAP;\n\nf) A duração da apresentação pública da PAP, com uma duração de referência de 60 minutos;\n\ng) O número de horas semanais, constantes do horário dos alunos, para a concretização da PAP;\n\nh) O modo de justificação de falta à apresentação da PAP e a marcação de uma segunda data para o efeito."
+  },
+  "116169669": {
+   "fragment_id": "116169770",
+   "type": 11,
+   "heading": "Artigo 33.º — Júri da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Júri da prova de aptidão profissional\n\n1 - O júri de avaliação da PAP é designado pelo órgão de administração e gestão da escola e tem a seguinte composição:\n\na) O diretor da escola ou um seu representante, que preside;\n\nb) O diretor de curso;\n\nc) O diretor de turma;\n\nd) O orientador do projeto;\n\ne) Um representante das associações empresariais ou das empresas de setores afins ao curso;\n\nf) Um representante das associações sindicais dos setores de atividade afins ao curso;\n\ng) Uma personalidade de reconhecido mérito na área da formação profissional ou dos setores de atividade afins ao curso.\n\n2 - O júri de avaliação, para deliberar, necessita da presença de, pelo menos, quatro elementos dos referidos no número anterior, estando entre eles, obrigatoriamente:\n\na) O elemento a que se refere a alínea a);\n\nb) Dois dos elementos a que se referem as alíneas e) a g).\n\n3 - Em caso de empate nas votações o presidente tem voto de qualidade."
+  },
+  "116169670": {
+   "fragment_id": "116169771",
+   "type": 3,
+   "heading": "Subsecção III — Classificação, aprovação e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Classificação, aprovação e progressão"
+  },
+  "116169671": {
+   "fragment_id": "116169772",
+   "type": 11,
+   "heading": "Artigo 34.º — Condições de aprovação e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Condições de aprovação e progressão\n\n1 - A aprovação em cada disciplina depende da obtenção, em cada um dos respetivos módulos, de uma classificação igual ou superior a 10 valores.\n\n2 - A aprovação na componente de formação tecnológica depende da obtenção, em cada uma das UFCD, ou módulos quando aplicável, de uma classificação igual ou superior a 10 valores.\n\n3 - A aprovação na FCT e na PAP depende da obtenção de uma classificação final igual ou superior a 10 valores em cada uma delas.\n\n4 - No âmbito da sua autonomia, os órgãos competentes da escola definem, em sede de regulamento interno, critérios e condições de progressão, nomeadamente quando, por motivos não imputáveis à escola, o aluno não cumpriu, nos prazos previamente definidos, os objetivos de aprendizagem previstos para os módulos ou UFCD.\n\n5 - A progressão é objeto de deliberação em conselho de turma de avaliação de acordo com o estabelecido no regulamento interno da escola.\n\n6 - A aprovação na disciplina de Educação Moral e Religiosa verifica-se quando o aluno obtém uma classificação igual ou superior a 10 valores.\n\n7 - A aprovação nas disciplinas cuja organização não obriga a uma estrutura modular verifica-se quando o aluno obtém uma classificação igual ou superior a 10 valores.\n\n8 - Nas situações em que o aluno tenha procedido a substituição de disciplinas no plano curricular, as novas disciplinas passam a integrar o plano de estudos do aluno, aplicando-se, com as devidas adaptações, o disposto para as restantes disciplinas do plano de estudos."
+  },
+  "116169672": {
+   "fragment_id": "116169773",
+   "type": 11,
+   "heading": "Artigo 35.º — Classificações finais das disciplinas e da componente de formação tecnológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Classificações finais das disciplinas e da componente de formação tecnológica\n\n1 - A classificação final de cada disciplina das componentes de formação sociocultural e científica obtém-se pela média aritmética simples, arredondada às unidades, das classificações obtidas em cada módulo.\n\n2 - Nas disciplinas sem organização modular a classificação final da disciplina é atribuída após a sua conclusão, nos termos do disposto no n.º 4 do artigo 27.º e no artigo 37.º\n\n3 - A classificação final da componente de formação tecnológica obtém-se pela média aritmética simples, arredondada às unidades, das classificações obtidas em cada UFCD, ou módulo quando aplicável."
+  },
+  "116169673": {
+   "fragment_id": "116169774",
+   "type": 11,
+   "heading": "Artigo 36.º — Classificação final do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Classificação final do curso\n\n1 - A classificação final do curso obtém-se mediante a aplicação da seguinte fórmula:\n\nCFC = 0,22*FSC + 0,22*FC + 0,22*FT + 0,11*FCT + 0,23*PAP\n\nsendo:\n\nCFC = classificação final do curso, arredondada às unidades;\n\nFSC = média aritmética simples das classificações finais de todas as disciplinas que integram o plano de estudos na componente de formação sociocultural, arredondada às décimas;\n\nFC = média aritmética simples das classificações finais de todas as disciplinas que integram o plano de estudos na componente de formação científica, arredondada às décimas;\n\nFT = média aritmética simples das classificações finais de todas as UFCDque integram o plano de estudos na componente de formação tecnológica, arredondada às unidades;\n\nFCT = classificação da formação em contexto de trabalho, arredondada às unidades;\n\nPAP = classificação da prova de aptidão profissional, arredondada às unidades.\n\n2 - Sem prejuízo do disposto no número anterior, nos cursos enquadrados em regime provisório no CNQ, em que se mantêm as três a quatro disciplinas da componente tecnológica definidas nos planos de estudo publicados nas portarias de criação de cada curso, a variável FT representa a média aritmética simples das classificações finais de todos os módulos das disciplinas que integram o plano de estudos na componente de formação tecnológica, arredondada às décimas.\n\n3 - A disciplina de Educação Moral e Religiosa não é considerada para efeitos de apuramento da classificação a que se refere o número anterior."
+  },
+  "116169674": {
+   "fragment_id": "116170275",
+   "type": 11,
+   "heading": "Artigo 37.º — Conselho de turma de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Conselho de turma de avaliação\n\n1 - O conselho de turma para efeitos de avaliação dos alunos é constituído pelos professores e formadores da turma e reúne, pelo menos, três vezes em cada ano letivo.\n\n2 - Compete ao conselho de turma:\n\na) Apreciar a proposta de classificação apresentada por cada professor ou formador, tendo em conta as informações que a suportam e a situação global do aluno;\n\nb) Deliberar sobrea classificação final a atribuir nas diferentes disciplinas, módulos, UFCD e na FCT, já concluídos pelo aluno.\n\n3 - O funcionamento dos conselhos de turma obedece ao previsto no Código do Procedimento Administrativo.\n\n4 - Quando a reunião não se puder realizar, por falta de quórum ou por indisponibilidade de elementos de avaliação, deve ser convocada nova reunião, no prazo máximo de 48 horas, para a qual cada um dos professores ou formadores deve previamente disponibilizar, ao órgão de administração e gestão, os elementos de avaliação de cada aluno.\n\n5 - Nas situações previstas no número anterior, o diretor de turma ou quem o substitua apresenta ao conselho de turma os elementos de avaliação de cada aluno.\n\n6 - As deliberações das reuniões do conselho de turma de avaliação devem resultar do consenso dos professores e formadores que o integrem.\n\n7 - No conselho de turma podem intervir, sem direito a voto, outros professores e formadores ou técnicos que participem no processo de ensino e aprendizagem, bem como outros elementos cuja participação o conselho pedagógico considere conveniente.\n\n8 - Cabe ao órgão de administração e gestão fixar os períodos de realização dos conselhos de turma, bem como designar o respetivo secretário responsável pela elaboração da ata."
+  },
+  "116170375": {
+   "fragment_id": "116170276",
+   "type": 11,
+   "heading": "Artigo 38.º — Registo das classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Registo das classificações\n\n1 - As classificações são registadas em pauta, bem como nos restantes documentos previstos para esse efeito, após deliberação do conselho de turma de avaliação.\n\n2 - A publicitação em pauta da classificação de cada módulo ou UFCD só tem lugar quando o aluno atingir, nesse módulo ou UFCD, a classificação mínima de 10 valores.\n\n3 - A publicitação em pauta das classificações da FCT e da PAP ocorre após o último conselho de turma de avaliação do ciclo de formação.\n\n4 - As deliberações do conselho de turma relativas às classificações são ratificadas pelo órgão de administração e gestão da escola.\n\n5 - O órgão de administração e gestão da escola deve garantir a verificação das pautas e da restante documentação relativa às reuniões dos conselhos de turma, assegurando-se da conformidade do cumprimento das disposições em vigor, competindo-lhe desencadear os mecanismos necessários à correção de eventuais irregularidades.\n\n6 - O órgão de administração e gestão da escola assegura, após a ratificação prevista no n.º 4, a atribuição e o registo no SIGO dos pontos de crédito acumulados pelos alunos, uma vez definidas as orientações metodológicas previstas na alínea d) do n.º 1 do artigo 45.º\n\n7 - As pautas, após a ratificação prevista no n.º 4, são afixadas em local apropriado no interior da escola, nelas devendo constar a data da respetiva afixação.\n\n8 - O órgão de administração e gestão da escola pode determinar a repetição da reunião do conselho de turma, sempre que considere ser necessário, informando sobre os motivos que fundamentam tal determinação.\n\n9 - Se, após a repetição da reunião, subsistirem factos que, no entender do diretor da escola, impeçam a ratificação da deliberação do conselho de turma, deve a situação ser apreciada em reunião do conselho pedagógico."
+  },
+  "116170376": {
+   "fragment_id": "116170277",
+   "type": 11,
+   "heading": "Artigo 39.º — Impugnações administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Impugnações administrativas\n\n1 - Os procedimentos relativos às reclamações ou recursos interpostos sobre a matéria de avaliação dos alunos são objeto de regulação nos termos definidos no regulamento interno da escola.\n\n2 - As classificações referentes aos exames finais nacionais são passíveis de impugnação administrativa, nos termos do regulamento de provas e exames, aprovado por despacho do membro do Governo responsável pela área da educação."
+  },
+  "116170377": {
+   "fragment_id": "116170278",
+   "type": 3,
+   "heading": "Subsecção IV — Assiduidade, conclusão e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Assiduidade, conclusão e certificação"
+  },
+  "116170378": {
+   "fragment_id": "116170279",
+   "type": 11,
+   "heading": "Artigo 40.º — Assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Assiduidade\n\n1 - No cumprimento do plano de estudos, para efeitos de conclusão do curso com aproveitamento, devem estar reunidos, cumulativamente, os seguintes requisitos:\n\na) A assiduidade do aluno não pode ser inferior a 90 % da carga horária de cada disciplina nas componentes de formação sociocultural e científica;\n\nb) A assiduidade do aluno não pode ser inferior a 90 % da carga horária do conjunto das UFCD da componente de formação tecnológica;\n\nc) A assiduidade do aluno na FCT não pode ser inferior a 95 % da carga horária prevista.\n\n2 - Para efeitos do previsto no número anterior, o resultado da aplicação de qualquer das percentagens nele estabelecidas é arredondado por defeito à unidade imediatamente anterior, para o cálculo da assiduidade, e é arredondado por excesso à unidade imediatamente seguinte, para determinar o limite de faltas permitido aos alunos.\n\n3 - Sem prejuízo dos números anteriores e na demais legislação aplicável, o conselho pedagógico da escola define regras de assiduidade que permitam assegurar as aprendizagens dos alunos, bem como a aplicação dos procedimentos a adotar no âmbito das várias modalidades de avaliação, observando, em especial, o disposto nos números seguintes.\n\n4 - Quando a falta de assiduidade do aluno for devidamente justificada, nos termos da legislação aplicável, as escolas devem assegurar:\n\na) No âmbito das disciplinas das componentes sociocultural e científica e das UFCD da componente de formação tecnológica, em alternativa:\n\ni) O prolongamento das atividades até ao cumprimento do número total de horas de formação estabelecidas;\n\nii) O desenvolvimento de mecanismos de recuperação tendo em vista o cumprimento dos objetivos de aprendizagem;\n\nb) No âmbito da FCT, o seu prolongamento a fim de permitir o cumprimento do número de horas estabelecido.\n\n5 - O disposto no número anterior não prejudica a aplicação das medidas previstas na lei ou, subsidiariamente, outras fixadas em regulamento interno, designadamente no caso de faltas injustificadas.\n\n6 - As escolas asseguram a oferta integral do número de horas de formação previsto no plano de estudos, adotando para o efeito todos os mecanismos de compensação ou substituição previstos na lei e nos respetivos estatutos ou regulamentos internos.\n\n7 - Para efeitos do disposto no presente artigo, relativamente aos cursos enquadrados em regime provisório no CNQ, em que se mantêm as três a quatro disciplinas da componente tecnológica definidas nos planos de estudo publicados nas portarias de criação de cada curso, as menções às UFCD consideram-se relativas a cada um dos módulos das disciplinas da componente tecnológica."
+  },
+  "116170379": {
+   "fragment_id": "116170280",
+   "type": 11,
+   "heading": "Artigo 41.º — Conclusão e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Conclusão e certificação\n\n1 - A conclusão com aproveitamento de um curso profissional obtém-se pela aprovação em todas as componentes de formação, disciplinas e UFCD, bem como na PAP, sendo registada no SIGO, nos termos do disposto no Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual.\n\n2 - A conclusão de um curso profissional é certificada pelo órgão de administração e gestão da escola através da emissão, em regra, em formato eletrónico de:\n\na) Um diploma que ateste a conclusão do nível secundário de educação e indique o curso concluído, respetiva classificação final e o nível 4 de qualificação do QNQ e correspondente nível do QEQ;\n\nb) Um certificado de qualificações, que indique o nível 4 de qualificação do QNQ e correspondente nível do QEQ e a classificação final do curso e discrimine as disciplinas do plano de estudos e respetivas classificações, as UFCD da componente de formação tecnológica e respetivas classificações, a classificação da componente de formação em contexto de trabalho, bem como a designação do projeto e a classificação obtida na respetiva PAP.\n\n3 - O certificado a que se refere a alínea b) do número anterior deve ainda atestar a participação do aluno em representação dos pares em órgãos da escola e em atividades ou projetos, designadamente, culturais, artísticos, desportivos, científicos e no âmbito do suporte básico de vida, de Cidadania e Desenvolvimento, entre outros de relevante interesse social desenvolvidos na escola.\n\n4 - Para os alunos abrangidos por medidas adicionais, designadamente adaptações curriculares significativas, aplicadas no âmbito do Decreto-Lei n.º 54/2018, de 6 de julho, a certificação obedece ao estipulado no artigo 30.º do aludido decreto-lei.\n\n5 - A requerimento dos interessados podem ser emitidos, em qualquer momento do percurso escolar do aluno, os correspondentes documentos comprovativos da conclusão de disciplinas, de módulos, de UFCD, da FCT e da PAP, e as respetivas classificações.\n\n6 - Sempre que o aluno, após conclusão de qualquer curso profissional, frequentar outro curso ou outras disciplinas ou UFCD do mesmo ou de outros cursos, a seu pedido e em caso de aproveitamento, pode ser emitida certidão da qual conste a classificação obtida nas disciplinas ou UFCD bem como, em caso de conclusão de outro curso, os respetivos diploma e certificado de conclusão."
+  },
+  "116170380": {
+   "fragment_id": "116170281",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "116170381": {
+   "fragment_id": "116170282",
+   "type": 11,
+   "heading": "Artigo 42.º — Autorização de funcionamento dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Autorização de funcionamento dos cursos\n\n1 - O funcionamento dos cursos profissionais está condicionado à apresentação de candidatura através do SIGO, sendo a sua autorização em rede decidida na sequência de procedimento de planeamento e concertação da rede, integrado com as restantes ofertas educativas e formativas do ensino secundário, a definir por despacho do membro do Governo responsável pela área da educação.\n\n2 - Os serviços competentes do Ministério da Educação, em razão da matéria, procedem à apreciação das candidaturas a que se refere o número anterior, observando os critérios de ordenamento da rede de oferta formativa definidos pela Agência Nacional para a Qualificação e o Ensino Profissional, I. P. (ANQEP, I. P.), que emite parecer no âmbito do procedimento de planeamento e concertação da rede, tendo em vista a sua autorização pelo membro do Governo responsável pela área da educação.\n\n3 - Sem prejuízo do disposto nos números anteriores, e para os efeitos neles previstos, as escolas que se proponham ministrar cursos profissionais devem reunir, cumulativamente, os seguintes requisitos:\n\na) Possuir autorização de funcionamento e respetivos aditamentos dos cursos, quando legalmente exigido;\n\nb) Existir compatibilidade e inserção da oferta de cursos profissionais no respetivo projeto educativo;\n\nc) Revelar capacidade de iniciativa e abertura para a partilha de informação, saberes e experiências a nível interno e a nível externo, designadamente através da participação em rede com as restantes escolas e centros de formação que ofereçam formações semelhantes;\n\nd) Assegurar um corpo docente detentor de conhecimentos e experiência adequados às qualificações visadas;\n\ne) Assegurar capacidades para o estabelecimento de relações de cooperação com o tecido económico e social envolvente, nomeadamente com as empresas e as autarquias locais, concretizada na capacidade de negociar protocolos que permitam a realização e o acompanhamento da componente de FCT, bem como a inserção profissional dos futuros diplomados;\n\nf) Possuir lotação, instalações e equipamentos adequados e capacidade de gestão e administração dos mesmos, bem como a demais logística associada ao desenvolvimento de todas as componentes de formação."
+  },
+  "116170382": {
+   "fragment_id": "116170283",
+   "type": 11,
+   "heading": "Artigo 43.º — Preparação para o exercício de profissões regulamentadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Preparação para o exercício de profissões regulamentadas\n\nA autorização de funcionamento dos cursos que preparam para o exercício de profissões regulamentadas, ou seja, profissões cujo exercício requer o cumprimento de um conjunto de requisitos determinados pela Autoridade Competente para a verificação do cumprimento dos requisitos, está condicionada à utilização do respetivo referencial de formação do CNQ e a parecer favorável daquela Autoridade, após verificação das condições necessárias à sua realização."
+  },
+  "116170383": {
+   "fragment_id": "116170284",
+   "type": 11,
+   "heading": "Artigo 44.º — Organização do ano escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Organização do ano escolar\n\n1 - A organização do ano escolar respeita o calendário escolar definido por despacho do membro do Governo responsável pela área da educação para os estabelecimentos públicos do ensino secundário, que pode prever regras específicas para o funcionamento dos cursos profissionais.\n\n2 - Sem prejuízo do disposto no número anterior, o ano escolar é organizado de modo que sejam cumpridas, no mínimo, duas interrupções das atividades escolares de duração não inferior a seis dias úteis seguidos, coincidentes com o Natal e com a Páscoa, e uma terceira, por período nunca inferior a 22 dias úteis seguidos, a ocorrer, em cada ano escolar, entre a segunda semana do mês de julho e a primeira do mês de setembro.\n\n3 - As atividades formativas, bem como todos os procedimentos de avaliação sumativa previstos para a conclusão do plano de estudos, respeitantes aos alunos que, no ano letivo imediatamente seguinte, pretendam prosseguir estudos, devem estar concluídos em tempo útil compatível com a continuidade dos percursos formativos pretendidos pelos alunos."
+  },
+  "116170384": {
+   "fragment_id": "116170285",
+   "type": 11,
+   "heading": "Artigo 45.º — Regulamentação e orientações complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Regulamentação e orientações complementares\n\n1 - No desenvolvimento do currículo dos cursos profissionais, compete à ANQEP, I. P.:\n\na) Definir as disciplinas que constituem a componente de formação científica, de acordo com a especificidade de cada curso;\n\nb) Promover a elaboração das Aprendizagens Essenciais e dos demais documentos curriculares das disciplinas que integram as componentes de formação sociocultural e científica dos cursos profissionais, a homologar pelo membro do Governo responsável pela área da educação;\n\nc) Definir as orientações metodológicas, no âmbito do processo de referenciação faseado dos cursos profissionais no CNQ, previsto pelo Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual, mediante Circular a publicitar anualmente;\n\nd) Definir as orientações metodológicas para o registo e atribuição de pontos de crédito pelas escolas, no âmbito do disposto na Portaria n.º 47/2017, de 1 de fevereiro.\n\n2 - A afetação do exercício dos cargos e funções previstos na presente portaria no horário de trabalho dos docentes, bem como outras condições de funcionamento não previstas na presente portaria, são reguladas por despacho do membro do Governo responsável pela área da educação, de acordo com o regime jurídico aplicável aos diferentes estabelecimentos de ensino.\n\n3 - As matérias não previstas na presente portaria, ou não expressamente remetidas para regulamentação subsequente, são resolvidas mediante aplicação da regulamentação em vigor que o não contrarie e, quando se justifique, através das orientações definidas pela ANQEP, I. P.\n\n4 - As matérias não expressamente contempladas nos regulamentos e orientações a que se referem os números anteriores são previstas nos regulamentos internos das escolas."
+  },
+  "116170385": {
+   "fragment_id": "116170286",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma transitória\n\nAs portarias de criação dos cursos profissionais regulados pela Portaria n.º 550-C/2004, de 21 de maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de agosto, mantêm a sua vigência até à conclusão do processo de referenciação do respetivo curso no CNQ, previsto pelo Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual."
+  },
+  "116170386": {
+   "fragment_id": "116170287",
+   "type": 11,
+   "heading": "Artigo 47.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Norma revogatória\n\nÉ revogada a Portaria n.º 74-A/2013, de 15 fevereiro, na sua redação atual, de acordo com a calendarização de produção de efeitos fixada no artigo seguinte."
+  },
+  "116170387": {
+   "fragment_id": "116170288",
+   "type": 11,
+   "heading": "Artigo 48.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Produção de efeitos\n\n1 - A presente portaria produz efeitos a partir do ano letivo de:\n\na) 2018/2019, no que respeita ao 1.º ano do ciclo de formação;\n\nb) 2019/2020, no que respeita ao 2.º ano do ciclo de formação;\n\nc) 2020/2021, no que respeita ao 3.º ano do ciclo de formação.\n\n2 - Sem prejuízo do disposto no número anterior, às turmas das escolas abrangidas pelo Despacho n.º 5908/2017, de 5 de julho de 2017, são aplicáveis as disposições da presente portaria nos termos seguintes:\n\na) 2018/2019, no que respeita ao 2.º ano do ciclo de formação;\n\nb) 2019/2020, no que respeita ao 3.º ano do ciclo de formação."
+  },
+  "116170388": {
+   "fragment_id": "116170289",
+   "type": 11,
+   "heading": "Artigo 49.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116170390": {
+   "fragment_id": "116170291",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 10.º)\n\nConstituem domínios da estratégia de educação para a cidadania:\n\na) Domínios obrigatórios a desenvolver:\n\ni) Direitos humanos (civis e políticos, económicos, sociais e culturais, e de solidariedade);\n\nii) Igualdade de género;\n\niii) Interculturalidade (diversidade cultural e religiosa);\n\niv) Desenvolvimento sustentável;\n\nv) Educação ambiental;\n\nvi) Saúde (promoção da saúde, saúde pública, alimentação e exercício físico);\n\nb) Domínios opcionais a desenvolver:\n\ni) Sexualidade (diversidade, direitos, saúde sexual e reprodutiva);\n\nii) Media;\n\niii) Instituições e participação democrática;\n\niv) Literacia financeira e educação para o consumo;\n\nv) Segurança rodoviária;\n\nvi) Risco;\n\nvii) Empreendedorismo (nas vertentes económica e social);\n\nviii) Mundo do trabalho;\n\nix) Segurança, defesa e paz;\n\nx) Bem-estar animal;\n\nxi) Voluntariado;\n\nxii) Outros a definir de acordo com as necessidades de educação para a cidadania diagnosticadas pela escola."
+  },
+  "116170391": {
+   "fragment_id": "116170292",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 15.º)\n\n(ver documento original)\n\n111605059"
+  },
+  "909913890": {
+   "fragment_id": "116169745",
+   "type": 11,
+   "heading": "Artigo 11.º — Português Língua Não Materna",
+   "in_force_from": "2025-03-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 86/2025/1 - Diário da República n.º 46/2025, Série I de 2025-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/86-2025-909816063), em vigor a partir de 2025-03-07"
+   ],
+   "markdown": "###### Artigo 11.º — Português Língua Não Materna\n\n1 - No ensino secundário, as matrizes curriculares podem integrar a disciplina de Português Língua Não Materna (PLNM) destinada a alunos que se encontram numa das seguintes situações:\n\na) A sua língua materna não seja o português;\n\nb) Não tenham tido o português como língua de escolarização e para os quais, de acordo com o seu percurso escolar e o seu perfil sociolinguístico, a escola considere ser a oferta curricular mais adequada.\n\n2 - Para o desenvolvimento da disciplina de PLNM são constituídos, com base no Quadro Europeu Comum de Referência para as Línguas, os seguintes níveis de proficiência linguística:\n\na) Iniciação (A1, A2);\n\nb) Intermédio (B1);\n\nc) Avançado (B2, C1).\n\n3 - Tendo em vista o posicionamento em nível de proficiência, cabe à escola proceder a uma avaliação do conhecimento da língua portuguesa, a ocorrer no momento em que o aluno ingressa no sistema educativo.\n\n4 - A avaliação referida no número anterior é realizada de acordo com os descritores do Quadro Europeu Comum de Referência para as Línguas e com base em modelo de teste disponibilizado pela Direção-Geral da Educação.\n\n5 - Os alunos que sejam posicionados no nível de Iniciação (A1, A2) ou no nível Intermédio (B1) frequentam a disciplina de PLNM como equivalente à disciplina de Português nos termos seguintes:\n\na) Em grupos constituídos, no mínimo, por 10 alunos, podendo, caso tal se revele necessário, ser agrupados alunos dos níveis A1, A2 e B1;\n\nb) Na sua turma, nos tempos letivos da disciplina de Português, quando se mostre inviável a aplicação do previsto na alínea anterior.\n\n6 - Os alunos posicionados no nível Avançado (B2, C1) frequentam a disciplina de Português.\n\n7 - Os alunos de PLNM são organizados por grupos de nível de proficiência linguística e não por ano de formação, devendo seguir as Aprendizagens Essenciais de PLNM do respetivo nível, com adequação do processo de ensino, aprendizagem e avaliação à sua faixa etária.\n\n8 - Aos alunos recém-chegados ao sistema educativo nacional posicionados no nível de proficiência linguística de Iniciação (A1, A2), com vista a promover a equidade e a igualdade de oportunidades, pode a escola, em articulação com os pais ou encarregados de educação, disponibilizar respostas educativas que facilitem o acesso ao currículo, através de:\n\na) Mobilização de medidas de suporte à aprendizagem e à inclusão;\n\nb) Adaptações ao processo de avaliação:\n\ni) Interna;\n\nii) Externa.\n\n9 - Na concretização do previsto na alínea a) e na subalínea i) da alínea b)do número anterior deve ser garantida a integração dos alunos na turma.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 86/2025/1 - Diário da República n.º 46/2025, Série I de 2025-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/86-2025-909816063), em vigor a partir de 2025-03-07"
+  },
+  "116170389": {
+   "fragment_id": "116170290",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Educação, João Miguel Marques da Costa, em 22 de agosto de 2018. - O Secretário de Estado do Emprego, Miguel Filipe Pardal Cabrita, em 23 de agosto de 2018."
+  }
+ }
+}

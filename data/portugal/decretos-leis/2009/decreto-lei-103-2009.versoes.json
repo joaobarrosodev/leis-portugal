@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608248:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-853383356",
+ "dre_path": "/dr/detalhe/decreto-lei/103-2009-608248",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853385476",
+    "853385477",
+    "853385478",
+    "853385479",
+    "853385480",
+    "853385481",
+    "853385482",
+    "853385483",
+    "853385484",
+    "853385485",
+    "853385486",
+    "853385487",
+    "853385488",
+    "853385489",
+    "853385490",
+    "853385491"
+   ]
+  },
+  {
+   "date": "2010-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:610471:por",
+     "title": "Decreto-Lei n.º 14/2010",
+     "published": "2010-03-09",
+     "dre_path": "/dr/detalhe/decreto-lei/14-2010-610471"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "853385476",
+    "853385477",
+    "853385478",
+    "853385501",
+    "853385480",
+    "853385481",
+    "853385482",
+    "853385483",
+    "853385484",
+    "853385485",
+    "853385486",
+    "853385487",
+    "853385488",
+    "853385489",
+    "853385490",
+    "853385491",
+    "853385492"
+   ]
+  }
+ ],
+ "fragments": {
+  "853385476": {
+   "fragment_id": "853383357",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 103/2009\n\nde 12 de Maio\n\nPerante a actual conjuntura económica e o respectivo reflexo no mercado do emprego, revela-se ser de toda a conveniência a flexibilização das normas relativas às condições dos empréstimos destinados à habitação própria permanente, apoiando-se assim as famílias relativamente aos encargos assumidos com a sua habitação permanente e preservando-se o próprio património habitacional.\n\nNeste sentido, é adoptada uma medida extraordinária e transitória destinada a criar as condições para que seja concedida aos actuais mutuários, desde que se encontrem na situação de desemprego há, pelo menos, três meses, uma moratória no reembolso dos empréstimos à habitação própria e permanente, quaisquer que sejam o tipo e o regime jurídico do empréstimo em curso, de valor equivalente a 50 % da sua prestação mensal.\n\nPara tal, é criada uma linha de crédito, disponibilizada pelo Estado, que financia a referida moratória, durante um prazo máximo de 24 meses. O crédito concedido pelo Estado é reembolsado à taxa Euribor a seis meses deduzida de 0,5 %. O reembolso é amenizado na medida em que terá lugar durante todo o prazo de maturidade do empréstimo em causa, podendo ser prolongado por mais dois anos para além daquele prazo.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nForam ouvidos, a título facultativo, o Banco de Portugal e a Associação Portuguesa de Bancos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "853385477": {
+   "fragment_id": "853383358",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada uma linha de crédito extraordinária destinada à protecção da habitação própria permanente em caso de desemprego de, pelo menos, um dos mutuários do crédito à habitação própria permanente, independentemente do tipo de crédito contraído ou do respectivo regime, assumindo, para todos os efeitos, a natureza de crédito à habitação própria permanente.\n\n2 - A linha é disponibilizada pelo Estado, através da Direcção-Geral do Tesouro e Finanças (DGTF), aos mutuários abrangidos.\n\n3 - A linha de crédito suporta a redução em 50 % da prestação mensal de capital e juros a cargo do mutuário, durante um período máximo de 24 meses."
+  },
+  "853385478": {
+   "fragment_id": "853383359",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - O acesso à linha de crédito criada pelo presente decreto-lei depende da verificação cumulativa das seguintes condições:\n\na) Os requerentes serem mutuários no âmbito de contratos de crédito à habitação destinado à aquisição, construção ou realização de obras de conservação ordinária, extraordinária e de beneficiação de habitação própria permanente, independentemente do regime de crédito;\n\nb) O contrato de crédito à habitação referido na alínea anterior ter sido celebrado até 19 de Março de 2009;\n\nc) O mutuário, ou pelo menos um dos mutuários, do empréstimo à habitação própria permanente encontrar-se na situação de desemprego.\n\n2 - Para efeitos do disposto no presente decreto-lei, considera-se estar na situação de desemprego:\n\na) Quem, tendo sido trabalhador por conta de outrem, se encontre desempregado e inscrito como tal no centro de emprego há três ou mais meses;\n\nb) Quem, tendo sido trabalhador por conta própria e se encontre inscrito no centro de emprego nas condições referidas na alínea anterior, prove ter tido e ter cessado actividade há três ou mais meses.\n\n3 - A prova da situação de desemprego a que se refere o número anterior é efectuada pela instituição de crédito mutuante junto do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), por via electrónica, nos termos da legislação aplicável.\n\n4 - Os mutuários que, à data da entrada em vigor do presente decreto-lei, já se encontrem em situação de incumprimento das obrigações emergentes do empréstimo à habitação própria permanente podem ter acesso à linha de crédito, podendo esta abranger as prestações vencidas após a perda de emprego."
+  },
+  "853385479": {
+   "fragment_id": "853383360",
+   "type": 11,
+   "heading": "Artigo 3.º — Formalização e apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formalização e apreciação do pedido\n\n1 - Para efeitos de acesso à linha de crédito, os mutuários devem efectuar, até 31 de Dezembro de 2009, o respectivo pedido junto da instituição de crédito mutuante, sem prejuízo do disposto no n.º 3 do artigo anterior.\n\n2 - Apenas pode ser recusado o acesso à linha de crédito se resultar manifestamente evidente que o mutuário, independentemente do montante da redução da prestação, não tem condições para cumprir com o serviço da dívida."
+  },
+  "853385480": {
+   "fragment_id": "853383361",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilização da linha de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Utilização da linha de crédito\n\n1 - Em contrapartida do recurso à linha de crédito, na data de pagamento da prestação emergente do contrato de crédito à habitação própria permanente, o mutuário é financiado pelo montante correspondente a 50 % daquela prestação, definida nos termos do respectivo contrato de crédito.\n\n2 - O procedimento descrito no número anterior mantém-se desde o acesso do mutuário à linha de crédito, sem prejuízo da situação prevista no artigo 7.º, por um período máximo de 24 meses, contado desde o início de eventuais prestações vencidas.\n\n3 - A utilização da linha de crédito depende do efectivo pagamento, por parte do mutuário, da parcela que é da sua responsabilidade, a qual corresponde a 50 % da prestação vencida do crédito à habitação própria permanente.\n\n4 - A utilização da linha de crédito está sujeita ao limite máximo de (euro) 500 de redução mensal da prestação suportada pelo mutuário."
+  },
+  "853385481": {
+   "fragment_id": "853383362",
+   "type": 11,
+   "heading": "Artigo 5.º — Juros e amortização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Juros e amortização\n\n1 - O montante utilizado vence juros à taxa Euribor a seis meses deduzida de 0,5 %, calculados nos termos do artigo 4.º do Decreto-Lei n.º 51/2007, de 7 de Março, na redacção introduzida pelo Decreto-Lei n.º 88/2008, de 29 de Maio.\n\n2 - A amortização do montante utilizado, que inclui os juros vencidos nos termos do número anterior, deve iniciar-se, no limite, a partir do mês subsequente ao último mês de utilização da linha de crédito e deve estar concluída até ao termo do prazo do respectivo crédito à habitação própria permanente, sendo efectuada no regime de prestações constantes de capital e juros.\n\n3 - A pedido do mutuário, o prazo de reembolso pode ser prolongado por um prazo até dois anos após o termo do prazo de reembolso do respectivo crédito à habitação própria permanente, independentemente da prorrogação deste.\n\n4 - Em caso de atraso no pagamento das prestações devidas pela utilização da presente linha de crédito são devidos juros de mora à taxa prevista no n.º 1, acrescida de 1 %."
+  },
+  "853385482": {
+   "fragment_id": "853383363",
+   "type": 11,
+   "heading": "Artigo 6.º — Amortização antecipada e transferência de empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Amortização antecipada e transferência de empréstimo\n\n1 - Enquanto se encontrar em dívida qualquer montante emergente da linha de crédito, as importâncias entregues pelo mutuário à instituição de crédito destinadas a amortização antecipada do crédito são aplicadas, em primeiro lugar, na amortização daquele montante até à sua integral e efectiva extinção e só após esta ocorrer pode o mutuário amortizar antecipadamente o crédito para habitação própria permanente.\n\n2 - Ao reembolso total para efeitos de transferência do crédito à habitação própria permanente para outra instituição de crédito não se aplica o disposto no número anterior, devendo, nesse caso, o reembolso antecipado total ter associada a transferência da linha de crédito, mantendo-se as mesmas condições e sem que desta possam resultar quaisquer encargos."
+  },
+  "853385483": {
+   "fragment_id": "853383364",
+   "type": 11,
+   "heading": "Artigo 7.º — Vencimento antecipado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vencimento antecipado\n\nO incumprimento pelo mutuário de qualquer obrigação emergente do contrato de crédito para habitação própria permanente, durante a vigência da presente linha de crédito, determina o automático e imediato vencimento antecipado de todas as obrigações do mutuário desta emergentes, ficando o mutuário obrigado a restituir ao Estado os respectivos créditos."
+  },
+  "853385484": {
+   "fragment_id": "853383365",
+   "type": 11,
+   "heading": "Artigo 8.º — Garantias do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Garantias do Estado\n\n1 - Os créditos concedidos pelo Estado ao abrigo da presente linha de crédito gozam de privilégio imobiliário geral, aplicando-se aos casos de incumprimento o processo de execução fiscal.\n\n2 - Para efeitos do número anterior, a certidão de dívida emitida pela Direcção-Geral do Tesouro e Finanças constitui título executivo."
+  },
+  "853385485": {
+   "fragment_id": "853383366",
+   "type": 11,
+   "heading": "Artigo 9.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Seguros\n\n1 - A aplicação do presente decreto-lei não prejudica a aplicação dos contratos de seguro que garantam o pagamento da prestação do crédito à habitação em situação de desemprego.\n\n2 - No caso do número anterior, o recurso à linha de crédito tem lugar apenas após o termo do pagamento das prestações que sejam asseguradas ou cobertas por tais contratos."
+  },
+  "853385486": {
+   "fragment_id": "853383367",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Isenções\n\nAs operações de crédito, bem como os pedidos de documentos ou certidões que se revelem necessários para acesso e utilização da linha de crédito estão isentos de taxas emolumentares, comissões e despesas."
+  },
+  "853385487": {
+   "fragment_id": "853383368",
+   "type": 11,
+   "heading": "Artigo 11.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Falsas declarações\n\nA prestação comprovada de falsas declarações com o intuito de aceder à presente linha de crédito determina, em consequência, a integral reposição do benefício auferido à taxa prevista no n.º 1 do artigo 5.º acrescida de 2 %."
+  },
+  "853385488": {
+   "fragment_id": "853383369",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\nNo âmbito das suas atribuições, compete à Inspecção-Geral de Finanças promover inspecções regulares para verificação do cumprimento do disposto no presente decreto-lei, designadamente por amostragem."
+  },
+  "853385489": {
+   "fragment_id": "853383370",
+   "type": 11,
+   "heading": "Artigo 13.º — Prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prevalência\n\nAs disposições constantes do presente decreto-lei prevalecem sobre as normas de cada um dos regimes de crédito à habitação própria permanente que se mostrem incompatíveis com o aqui disposto, relativamente aos mutuários abrangidos."
+  },
+  "853385490": {
+   "fragment_id": "853383371",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentação e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamentação e procedimentos\n\nOs procedimentos a observar entre a DGTF e as instituições de crédito, relativos à disponibilização do financiamento a favor dos mutuários, e respectiva gestão, controlo, amortização e cobrança constam de protocolo a celebrar entre as mesmas."
+  },
+  "853385491": {
+   "fragment_id": "853383372",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "853385501": {
+   "fragment_id": "853383360",
+   "type": 11,
+   "heading": "Artigo 3.º — Formalização e apreciação do pedido",
+   "in_force_from": "2010-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 14/2010 - Diário da República n.º 47/2010, Série I de 2010-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2010-610471), em vigor a partir de 2010-03-10"
+   ],
+   "markdown": "###### Artigo 3.º — Formalização e apreciação do pedido\n\n1 - Para efeitos de acesso à linha de crédito, os mutuários devem efectuar até 31 de Dezembro de 2010 o respectivo pedido junto da instituição de crédito mutuante, sem prejuízo do disposto no n.º 3 do artigo anterior.\n\n2 - Apenas pode ser recusado o acesso à linha de crédito se resultar manifestamente evidente que o mutuário, independentemente do montante da redução da prestação, não tem condições para cumprir com o serviço da dívida.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 14/2010 - Diário da República n.º 47/2010, Série I de 2010-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2010-610471), em vigor a partir de 2010-03-10"
+  },
+  "853385492": {
+   "fragment_id": "853383373",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - José António Fonseca Vieira da Silva.\n\nPromulgado em 6 de Maio de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Maio de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

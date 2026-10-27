@@ -1,0 +1,1018 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014R0907:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0907-20230101",
+ "dre_path": null,
+ "source_lastmod": "2023-01-01",
+ "versions": [
+  {
+   "date": "2021-08-15",
+   "future": false,
+   "celex": "02014R0907-20210815",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0cbfd7a8d5bd42de",
+    "226c39ffd0a88dad",
+    "b8d9bbeb9b5b29fe",
+    "7ebe695f4b1e88e1",
+    "687dc87827e9b5a9",
+    "e529229df7b5ea21",
+    "d945255076db2665",
+    "f0f8c960bfdbce9b",
+    "4136baa6ce897f64",
+    "67f1f45d47461b43",
+    "b8e6402048d62f0c",
+    "c04421d13eb7b464",
+    "001bfea077eef256",
+    "d8c607f7a849c895",
+    "69d1d0ff9f83350f",
+    "cdab9a1892f75340",
+    "455d5b3ac5f1ccea",
+    "74c43d0380808ee5",
+    "1e7a0903d2eed348",
+    "9b23100184394f86",
+    "c999deda044e182d",
+    "ddb38fac69b47fcb",
+    "3f11961215789ab3",
+    "1ecfc79da3f1ac7f",
+    "86625afa5cc86392",
+    "9b406af514eb9164",
+    "94025840580d5a97",
+    "8ddaf0c92429ed78",
+    "05bb53fb5df0aee1",
+    "c42c0c2b3cabd519",
+    "908aa9c6496da6c1",
+    "94d33e01b94405c3",
+    "08d30f4afbc5ff43",
+    "59ddc29c477d481e",
+    "26b21ae81c1c494b",
+    "e80c6b81926f0f84",
+    "5475a6b753686231",
+    "ac8387eef8dd0a6f",
+    "c12bce3f20e4b765",
+    "0c90dd4bc2fd7365",
+    "d38a3ab229ff8b25",
+    "5e117dadbf52c1ae",
+    "2a6934845bb7c573",
+    "a1f8f2d9d0ca7a66",
+    "b3a4577c0ab69336",
+    "99914c97986278df",
+    "40ed6b62e188ac6f",
+    "abee56d872667db8",
+    "84acdcd65fc66da0",
+    "4e154ceb789af357",
+    "879221618021a396",
+    "d668d7491b39384d",
+    "7f71ca5fac0e924a",
+    "c868f515e9821dda",
+    "2890f3e70f623021",
+    "d4d237e4799768c7",
+    "139a0bf9e24ca2a6",
+    "8df7d3e4356fcf17",
+    "cda8d0627a22c179",
+    "45c5229fadecd508",
+    "3394cda5bdeb4797",
+    "d1bb54b1a32a8762",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "bfe96d9410721527",
+    "3fa9c00ddaab4dbb",
+    "0fecc1772a41517b",
+    "bd67d4fd6b1d4508",
+    "0b927ed2c62a8362",
+    "d664376e2a8dcecd",
+    "8417735722b6d94d",
+    "d0ee003a4aedfa45",
+    "9e2ddd204b6ff747",
+    "0b1f8e6d14153f07",
+    "4337f0390d39afcd",
+    "1a16453a5b389671",
+    "852174729551523b",
+    "2457640032d96990",
+    "9168a2e78c47cc22",
+    "ba4a3f742107d578",
+    "0bd03a0bd8de141c",
+    "720af75c92791b10",
+    "e7ba517d77328ba1",
+    "7f4a6817c9e61d29",
+    "8fb0a465a735aa0d",
+    "e89a8612e49d6b71",
+    "ac32aa7d37f0c126",
+    "71ec9791d55670d9",
+    "9a6f61bdf24a1b7e",
+    "425dc811ce4d3e8b",
+    "e03a0eb4d5b2eef3",
+    "dc162124483ad0eb",
+    "0a8e210b9104465b",
+    "64610ae29a6cb67c",
+    "2f43aed6bb865f52",
+    "90c7d2baf4d44ee2",
+    "f33bd0e68a702e97",
+    "e96da251ffa810c3"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "celex": "02014R0907-20230101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime ORGANISMOS PAGADORES E OUTROS",
+    "Suprime Artigo 1.º — Condições de acreditação dos organismos pagadores",
+    "Suprime Artigo 2.º — Condições de acreditação dos organismos de coordenação",
+    "Suprime Artigo 3.º — Obrigações dos organismos pagadores no que respeita à intervenção pública",
+    "Suprime Artigo 4.º — Inventários",
+    "Suprime CAPÍTULO II",
+    "Suprime GESTÃO FINANCEIRA",
+    "Suprime Artigo 5.º",
+    "Suprime Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Garantia",
+    "Suprime Artigo 5.º-A — Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Desenvolvimento Rural",
+    "Suprime Artigo 6.º — Incumprimento da primeira data de pagamento",
+    "Suprime Artigo 7.º — Compensações por organismos pagadores",
+    "Suprime Artigo 8.º — Aprovação com atraso do orçamento da União",
+    "Suprime Artigo 9.º — Diferimento de pagamentos mensais",
+    "Suprime Artigo 10.º — Suspensão dos pagamentos por apresentação tardia",
+    "Suprime Artigo 11.º — Taxa de câmbio aplicável na elaboração das declarações de despesas",
+    "Suprime CAPÍTULO III",
+    "Suprime APURAMENTO DAS CONTAS E OUTROS CONTROLOS",
+    "Suprime Artigo 12.º — Critérios e metodologia para aplicação das correções no quadro do apuramento da conformidade",
+    "Suprime Artigo 13.º — Obrigação na sequência dos procedimentos de recuperação",
+    "Suprime Artigo 14.º — Controlo das transações",
+    "Suprime CAPÍTULO IV",
+    "Suprime GARANTIAS",
+    "Suprime SECÇÃO 1",
+    "Suprime Âmbito de aplicação e terminologia",
+    "Suprime Artigo 15.º — Âmbito",
+    "Suprime Artigo 16.º — Terminologia do presente capítulo",
+    "Suprime SECÇÃO 2",
+    "Suprime Exigência de garantia",
+    "Suprime Artigo 17.º — Parte responsável",
+    "Suprime Artigo 18.º — Dispensa da exigência de garantia",
+    "Suprime Artigo 19.º — Condições aplicáveis às garantias",
+    "Suprime Artigo 20.º — Utilização do euro",
+    "Suprime Artigo 21.º — Garante",
+    "Suprime Artigo 22.º — Força maior",
+    "Suprime SECÇÃO 3",
+    "Suprime Liberação e execução de garantias diversas das referidas na secção 4",
+    "Suprime Artigo 23.º — Execução de garantias",
+    "Suprime Artigo 24.º — Liberação de garantias",
+    "Suprime Artigo 25.º — Limites",
+    "Suprime SECÇÃO 4",
+    "Suprime Garantias relativas a adiantamentos",
+    "Suprime Artigo 26.º — Âmbito",
+    "Suprime Artigo 27.º — Liberação de garantias",
+    "Suprime CAPÍTULO V",
+    "Suprime UTILIZAÇÃO DO EURO",
+    "Suprime Artigo 28.º — Restituições à exportação e trocas comerciais com os países terceiros",
+    "Suprime Artigo 29.º — Restituições à produção e ajudas específicas",
+    "Suprime Artigo 30.º — Setor vitivinícola",
+    "Suprime Artigo 31.º — Montantes e pagamentos no setor do leite e dos produtos lácteos",
+    "Suprime Artigo 32.º — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição de fruta nas escolas",
+    "Suprime Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas",
+    "Suprime Artigo 33.º — Preço mínimo da beterraba, imposição sobre os excedentes e encargo à produção no setor do açúcar",
+    "Suprime Artigo 34.º — Montantes de caráter estrutural ou ambiental e despesas gerais dos programas operacionais",
+    "Suprime Artigo 35.º — Montantes relacionados com a autorização de concessão de assistência financeira nacional a organizações de produtores do setor das frutas e produtos hortícolas e reembolso parcial desta assistência financeira nacional",
+    "Suprime Artigo 36.º — Outros montantes e preços",
+    "Suprime Artigo 37.º — Pagamento dos adiantamentos",
+    "Suprime Artigo 38.º — Garantias",
+    "Suprime Artigo 39.º — Controlo das transações",
+    "Suprime Artigo 40.º — Determinação da taxa de câmbio",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 41.º — Disposições transitórias",
+    "Suprime Artigo 42.º — Alteração do Regulamento (CE) n.º 376/2008",
+    "Suprime Artigo 43.º — Alteração do Regulamento (CE) n.º 612/2009",
+    "Suprime Artigo 44.º — Revogações",
+    "Suprime Artigo 45.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime CRITÉRIOS DE ACREDITAÇÃO",
+    "Suprime (Artigo 1.º)",
+    "Suprime 1. AMBIENTE INTERNO",
+    "Suprime 2. ATIVIDADES DE CONTROLO",
+    "Suprime 3. INFORMAÇÃO E COMUNICAÇÃO",
+    "Suprime 4. ACOMPANHAMENTO",
+    "Suprime ANEXO II",
+    "Suprime OBRIGAÇÕES DOS ORGANISMOS PAGADORES E PROCEDIMENTOS DE INSPEÇÃO FÍSICA",
+    "Suprime (Artigo 3.º)",
+    "Suprime A. OBRIGAÇÕES DOS ORGANISMOS PAGADORES",
+    "Suprime B. PROCEDIMENTO DE INSPEÇÃO FÍSICA A SEGUIR NOS CONTROLOS PREVISTOS NA SECÇÃO A, POR SETOR DA POLÍTICA AGRÍCOLA COMUM",
+    "Suprime ANEXO III",
+    "Suprime PRINCÍPIOS GERAIS E OBRIGAÇÕES RELATIVOS ÀS RESPONSABILIDADES DOS ARMAZENISTAS, A INCLUIR NOS CONTRATOS DE ARMAZENAGEM CELEBRADOS ENTRE ORGANISMOS PAGADORES E ARMAZENISTAS",
+    "Suprime I. QUALIDADE DOS PRODUTOS",
+    "Suprime II. QUANTIDADES EM FALTA",
+    "Suprime III. DOCUMENTOS COMPROVATIVOS E DECLARAÇÕES MENSAIS E ANUAL",
+    "Suprime IV. CONTABILIDADE INFORMATIZADA DAS EXISTÊNCIAS E DISPONIBILIZAÇÃO DAS INFORMAÇÕES",
+    "Suprime V. FORMA E TEOR DOS DOCUMENTOS TRANSMITIDOS AO ORGANISMO PAGADOR",
+    "Suprime VI. CONSERVAÇÃO DE DOCUMENTOS",
+    "Suprime ANEXO IV",
+    "Suprime LIMITES DE TOLERÂNCIA",
+    "Suprime (Artigo 4.º)",
+    "Suprime ANEXO V",
+    "Suprime Medidas a que se refere o artigo 10.º",
+    "Suprime ANEXO VI",
+    "Suprime Medidas a que se refere o artigo 14.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a15535510b937d5a"
+   ]
+  }
+ ],
+ "fragments": {
+  "0cbfd7a8d5bd42de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de março de 2014\n\nque completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "b8d9bbeb9b5b29fe": {
+   "fragment_id": "ORGANISMOS PAGADORES E OUTROS",
+   "type": "divisao",
+   "heading": "ORGANISMOS PAGADORES E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANISMOS PAGADORES E OUTROS"
+  },
+  "7ebe695f4b1e88e1": {
+   "fragment_id": "Artigo 1.º — Condições de acreditação dos organismos pagadores",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Condições de acreditação dos organismos pagadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Condições de acreditação dos organismos pagadores\n\n1.\n\nOs organismos pagadores que procedem à gestão e ao controlo da despesa como previsto no artigo 7.º, n.º 1, do Regulamento (UE) n.º 1306/2013 devem oferecer, em relação aos pagamentos que efetuam, bem como à comunicação e à conservação de informações, garantias suficientes de que:\n\na) Antes da autorização dos pagamentos, são verificados a elegibilidade dos pedidos e, no âmbito do desenvolvimento rural, o processo de atribuição das ajudas, bem como a conformidade destes com as normas da União;\n\nb) Os pagamentos efetuados são contabilizados de forma exata e integral;\n\nc) São realizados os controlos estabelecidos na legislação da União;\n\nd) Os documentos exigidos são apresentados nos prazos e sob a forma estabelecidos nas normas da União;\n\ne) Os documentos estão acessíveis e são conservados de modo a garantir a sua integridade, validade e legibilidade ao longo do tempo, incluindo no que diz respeito a documentos eletrónicos, na aceção das normas da União.\n\n2.\n\nOs Estados-Membros acreditam como organismos pagadores os serviços ou organismos que satisfaçam as condições previstas no n.º 1. Além disso, para ser acreditado, o organismo pagador deve dispor de uma organização administrativa e de um sistema de controlo interno que satisfaçam os critérios estabelecidos no anexo I («critérios de acreditação») relativamente aos seguintes domínios:\n\na) Ambiente interno;\n\nb) Atividades de controlo;\n\nc) Informação e comunicação;\n\nd) Acompanhamento.\n\nOs Estados-Membros podem estabelecer critérios de acreditação complementares para ter em conta a dimensão, as responsabilidades e outras especificidades do organismo pagador."
+  },
+  "687dc87827e9b5a9": {
+   "fragment_id": "Artigo 2.º — Condições de acreditação dos organismos de coordenação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Condições de acreditação dos organismos de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acreditação dos organismos de coordenação\n\n1. Se for acreditado mais de um organismo pagador, em conformidade com o artigo 7.º, n.º 4, do Regulamento (UE) n.º 1306/2013, o Estado-Membro deve decidir da acreditação do organismo de coordenação através de um ato oficial ao nível ministerial, depois de ter verificado se as regras administrativas do organismo em causa oferecem garantias suficientes de que este é capaz de desempenhar as tarefas referidas naquele artigo.\n\n2.\n\nPara ser acreditado, o organismo de coordenação deve ter estabelecido procedimentos destinados a garantir que:\n\na) As declarações à Comissão se baseiam em informações provenientes de fontes devidamente autorizadas;\n\nb) As declarações à Comissão são devidamente autorizadas antes de lhe serem transmitidas;\n\nc) Existe uma pista de auditoria adequada em apoio das informações transmitidas à Comissão;\n\nd) É conservado com toda a segurança, em papel ou em suporte informático, um registo das informações recebidas e transmitidas."
+  },
+  "e529229df7b5ea21": {
+   "fragment_id": "Artigo 3.º — Obrigações dos organismos pagadores no que respeita à intervenção pública",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações dos organismos pagadores no que respeita à intervenção pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações dos organismos pagadores no que respeita à intervenção pública\n\n1. Incumbe aos organismos pagadores, a que se refere o artigo 7.º, n.º 1, do Regulamento (UE) n.º 1306/2013, assegurar a gestão e o controlo das transações ligadas às medidas de intervenção relativas à armazenagem pública sob sua responsabilidade, conforme estabelecido no anexo II do presente regulamento e, se for caso disso, na legislação agrícola setorial, nomeadamente respeitando as percentagens mínimas de controlo fixadas nesse anexo.\n\nOs organismos pagadores podem delegar as suas competências na matéria a organismos de intervenção que satisfaçam as condições de acreditação estabelecidas no anexo I, ponto 1.C, do presente regulamento ou intervir por intermédio de outros organismos pagadores.\n\n2.\n\nOs organismos pagadores e os organismos de intervenção podem, sem prejuízo da sua responsabilidade geral no respeitante à armazenagem pública:\n\na) Confiar a gestão de determinadas medidas de armazenagem pública a pessoas singulares ou coletivas que armazenem produtos agrícolas de intervenção («armazenistas»);\n\nb) Mandatar pessoas singulares ou coletivas para efetuar determinadas tarefas específicas previstas pela legislação agrícola setorial.\n\nSe os organismos pagadores confiarem a gestão aos armazenistas referidos na alínea a), primeiro parágrafo, a gestão deve ser obrigatoriamente efetuada com base em contratos de armazenagem, de acordo com obrigações e princípios gerais definidos no anexo III.\n\n3.\n\nAs obrigações dos organismos pagadores em matéria de armazenagem pública são, nomeadamente, as seguintes:\n\na) Manter, para cada produto objeto de uma medida de intervenção sob a forma de armazenagem pública, uma contabilidade das existências e uma contabilidade financeira, com base nas operações que realizam no período compreendido entre 1 de outubro e 30 de setembro, a seguir denominado «exercício contabilístico»;\n\nb) Manter atualizada uma lista dos armazenistas com os quais celebraram contrato no quadro da armazenagem pública. Essa lista deve conter referências que permitam uma identificação precisa de todos os locais de armazenagem, da capacidade destes, do número de armazéns, frigoríficos ou silos e dos respetivos esquemas e plantas;\n\nc) Manter à disposição da Comissão os contratos-tipo utilizados para a armazenagem pública, bem como as regras estabelecidas para a tomada a cargo, a armazenagem e a saída dos produtos dos armazéns dos armazenistas e as regras aplicáveis em matéria de responsabilidade destes últimos;\n\nd) Manter uma contabilidade de existências centralizada e informatizada, de que constem todos os locais de armazenagem, todos os produtos e as quantidades e qualidades correspondentes e que precise, para cada um deles, a massa (líquida e bruta, se for caso disso) ou o volume;\n\ne) Assegurar a realização de todas as operações de armazenagem, conservação, transporte ou transferência dos produtos de intervenção, em conformidade com as legislações da União e nacional, sem prejuízo da responsabilidade dos compradores, dos outros organismos pagadores intervenientes na operação ou das pessoas mandatadas a este título;\n\nf) Efetuar, periodicamente, ao longo do ano, sem aviso prévio, verificações nos locais de armazenagem dos produtos de intervenção. Todavia, desde que o objetivo do controlo não fique comprometido, pode ser dado um pré-aviso, com a antecedência estritamente necessária. Exceto em casos devidamente justificados, essa antecedência não pode exceder 24 horas;\n\ng) Efetuar um inventário anual em conformidade com o artigo 4.º.\n\nSe, num dado Estado-Membro, a gestão das contas de armazenagem pública para um ou vários produtos for assegurada por vários organismos pagadores, a contabilidade das existências e a contabilidade financeira referidas nas alíneas a) e d) devem ser consolidadas ao nível do Estado-Membro antes da comunicação à Comissão das informações correspondentes.\n\n4.\n\nOs organismos pagadores devem adotar todas as medidas necessárias para garantir:\n\na) Que os produtos abrangidos pelas medidas de intervenção da União sejam devidamente conservados pela verificação da qualidade dos produtos armazenados, pelo menos, uma vez por ano;\n\nb) A integridade das existências de intervenção.\n\n5.\n\nOs organismos pagadores devem informar imediatamente a Comissão:\n\na) Dos casos em que o prolongamento do período de armazenagem do produto pode provocar a deterioração deste;\n\nb) Das perdas ou deterioração quantitativas do produto na sequência de catástrofes naturais.\n\nSempre que se verifiquem as situações contempladas nas alíneas a) ou b) do primeiro parágrafo, a Comissão deve adotar as decisões adequadas:\n\na) Em conformidade com o procedimento de exame a que se refere o artigo 229.º, n.º 2, do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0001)), no respeitante às situações contempladas na alínea a);\n\nb) Em conformidade com o procedimento de exame a que se refere artigo 116.º, n.º 3, do Regulamento (UE) n.º 1306/2013, no respeitante às situações contempladas na alínea b).\n\n6. Devem ficar a cargo dos organismos pagadores as consequências financeiras da má conservação de produtos que tenham sido objeto de medidas de intervenção da União, nomeadamente devido a inadequação dos métodos de armazenagem. Sem prejuízo de eventuais ações contra os armazenistas, os organismos pagadores são responsáveis financeiramente caso não cumpram os seus compromissos ou obrigações.\n\n7. Os organismos pagadores devem manter permanentemente à disposição dos agentes da Comissão e das pessoas por esta mandatadas, por via eletrónica ou na sede do organismo pagador, as contas de armazenagem pública e todos os documentos, contratos e ficheiros elaborados ou recebidos no âmbito das operações de intervenção."
+  },
+  "d945255076db2665": {
+   "fragment_id": "Artigo 4.º — Inventários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inventários\n\n1. No decurso de cada exercício contabilístico, os organismos pagadores devem efetuar um inventário de cada produto que tenha sido objeto da intervenção da União.\n\nOs organismos pagadores devem comparar os resultados deste inventário com os dados contabilísticos. As diferenças quantitativas verificadas e os montantes resultantes das diferenças qualitativas detetadas nos controlos devem ser contabilizadas em conformidade com as regras adotadas nos termos do artigo 46.º, n.º 6, alínea a), do Regulamento (UE) n.º 1306/2013.\n\n2. Para efeitos do n.º 1, as quantidades em falta na sequência de operações normais de armazenagem correspondem à diferença entre as existências teóricas resultantes do inventário contabilístico, por um lado, e as existências reais determinadas com base no inventário previsto no n.º 1 ou as existências contabilísticas que subsistam depois de esgotadas as existências reais do armazém, por outro, e estão sujeitas aos limites de tolerância fixados do anexo IV."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "4136baa6ce897f64": {
+   "fragment_id": "GESTÃO FINANCEIRA",
+   "type": "divisao",
+   "heading": "GESTÃO FINANCEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GESTÃO FINANCEIRA"
+  },
+  "67f1f45d47461b43": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º"
+  },
+  "b8e6402048d62f0c": {
+   "fragment_id": "Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Garantia",
+   "type": "divisao",
+   "heading": "Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Garantia\n\n1. No que se refere ao Fundo Europeu Agrícola de Garantia (FEAGA), ao abrigo das exceções referidas no artigo 40.º, primeiro parágrafo, do Regulamento (UE) n.º 1306/2013 e em conformidade com o princípio da proporcionalidade, as despesas efetuadas após os prazos de pagamento são elegíveis para pagamentos da União, nas condições estabelecidas nos n.^os^ 2 a 6 do presente artigo.\n\n2. Se as despesas efetuadas após o termo do prazo não excederem 5 % das despesas efetuadas dentro do prazo, não é efetuada nenhuma redução dos pagamentos mensais.\n\nSe as despesas efetuadas após o termo do prazo forem superiores à margem de 5 %, qualquer despesa suplementar efetuada em atraso é reduzida de acordo com as seguintes regras:\n\na) as despesas efetuadas no primeiro mês após o mês de termo do prazo de pagamento são reduzidas em 10 %,\n\nb) as despesas efetuadas no segundo mês após o mês de termo do prazo de pagamento são reduzidas em 25 %,\n\nc) as despesas efetuadas no terceiro mês após o mês de termo do prazo de pagamento são reduzidas em 45 %,\n\nd) as despesas efetuadas no quarto mês após o mês de termo do prazo de pagamento são reduzidas em 70 %,\n\ne) as despesas efetuadas com atraso superior a quatro meses em relação ao mês de termo do prazo de pagamento são reduzidas em 100 %.\n\n3.\n\nEm derrogação ao n.º 2, no caso de pagamentos diretos abrangidos pelo limite máximo referido no artigo 7.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0002)), são aplicáveis as seguintes regras:\n\na) Se a margem referida no n.º 2, primeiro parágrafo, não tiver sido totalmente utilizada para pagamentos efetuados relativamente ao ano civil N até 15 de outubro do ano N + 1 e a parte restante dessa margem for superior a 2 %, essa parte restante é reduzida a 2 %;\n\nb) No exercício financeiro N+1, os pagamentos diretos, excluídos os pagamentos previstos no Regulamento (UE) n.º 228/2013 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0003)) e no Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0004)), a título do ano N-1 ou de anos anteriores após o termo do prazo de pagamento, só serão elegíveis para financiamento do FEAGA se o montante total dos pagamentos diretos efetuados no exercício financeiro N+1, corrigidos, se for caso disso, para os montantes anteriores ao ajustamento previsto no artigo 26.º do Regulamento (UE) n.º 1306/2013, não exceder o limite máximo estabelecido no anexo III do Regulamento (UE) n.º 1307/2013 para o ano N, em conformidade com o artigo 7.º do mesmo regulamento;\n\nc) As despesas que excederem os limites referidos nas alíneas a) ou b) são reduzidas em 100 %.\n\nOs montantes dos reembolsos referidos no artigo 26.º, n.º 5, do Regulamento (UE) n.º 1306/2013 não são tidos em conta para efeitos da verificação do preenchimento da condição enunciada no presente número, primeiro parágrafo, alínea b).\n\n4. Em caso de aplicação de condições especiais de gestão a determinadas medidas, ou se os Estados-Membros apresentarem razões fundamentadas, a Comissão aplica um escalonamento diferente dos previstos nos n.^os^ 2 e 3 e/ou taxas de redução inferiores ou nulas.\n\nTodavia, o primeiro parágrafo não é aplicável às despesas que excedam o limite referido no n.º 3, alínea b).\n\n5. O respeito dos prazos de pagamento deve ser verificado uma vez por exercício financeiro, em relação às despesas efetuadas até 15 de outubro. Em caso de incumprimento dos prazos de pagamento constatado no quadro das declarações mensais de despesas, pode ser efetuada uma verificação adicional do cumprimento dos prazos de pagamento, relativamente às despesas efetuadas até 31 de julho.\n\nAs eventuais ultrapassagens dos prazos de pagamento devem ser tomadas em consideração, o mais tardar, na decisão de apuramento das contas a que se refere o artigo 51.º do Regulamento (UE) n.º 1306/2013.\n\n6. As reduções a que se refere o presente artigo são efetuadas sem prejuízo da ulterior decisão relativa ao apuramento da conformidade, nos termos do artigo 52.º do Regulamento (UE) n.º 1306/2013."
+  },
+  "c04421d13eb7b464": {
+   "fragment_id": "Artigo 5.º-A — Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Desenvolvimento Rural",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Desenvolvimento Rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Desenvolvimento Rural\n\n1. Ao abrigo das exceções a que se refere o artigo 40.º, primeiro parágrafo, do Regulamento (UE) n.º 1306/2013, e em conformidade com o princípio da proporcionalidade, as despesas respeitantes ao Fundo Europeu Agrícola de Desenvolvimento Rural efetuadas após o termo do prazo de pagamento são elegíveis para pagamentos da União, nas condições estabelecidas nos n.^os^ 2 a 6 do presente artigo.\n\n2. Se as despesas efetuadas após o termo do prazo a que se refere o artigo 75.º, n.º 1, do Regulamento/(UE) n.º 1306/2013 não excederem 5 % das despesas efetuadas dentro do prazo, não será efetuada qualquer redução aos pagamentos intercalares.\n\nSe as despesas efetuadas após o termo do prazo a que se refere o artigo 75.º, n.º 1, do Regulamento (UE) n.º 1306/2013 excederem o limiar de 5 %, qualquer despesa suplementar efetuada com atraso será reduzida nos períodos indicados no artigo 22.º, n.º 2, do Regulamento de Execução (UE) n.º 908/2014 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0008)), nos seguintes termos:\n\na) As despesas efetuadas entre 1 de julho e 15 de outubro do ano em que expira o prazo de pagamento são reduzidas de 25 %;\n\nb) As despesas efetuadas entre 16 de outubro e 31 de dezembro do ano em que expira o prazo de pagamento são reduzidas de 60 %;\n\nc) As despesas efetuadas após 31 de dezembro do ano em que expira o prazo de pagamento são reduzidas de 100 %;\n\n3. Em derrogação ao disposto no n.º 2, se o limiar a que se refere o seu primeiro parágrafo não tiver sido utilizado totalmente para pagamentos relativos ao ano civil N efetuados até 31 de dezembro do ano N + 1 e a parte restante desse limiar exceder 2 %, será esta reduzida a 2 %;\n\n4. Se se verificarem condições excecionais de gestão de determinadas medidas, ou se os Estados-Membros invocarem razões fundamentadas, a Comissão aplicará escalonamentos diferentes dos estabelecidos nos n.^os^ 2 e 3, reduções inferiores ou não aplicará qualquer redução.\n\n5. As verificações do cumprimento do prazo de pagamento das despesas efetuadas até 15 de outubro devem ser efetuadas uma vez em cada exercício financeiro.\n\nO eventual incumprimento do prazo será tido em conta na decisão de apuramento das contas a que se refere o artigo 51.º do Regulamento (UE) n.º 1306/2013.\n\n6. As reduções a que se refere o presente artigo serão aplicadas sem prejuízo da decisão subsequente relativa ao apuramento da conformidade, a que se refere o artigo 52.º do Regulamento (UE) n.º 1306/2013.\n\n7. Os limiares e reduções referidos nos n.^os^ 2 e 3 devem ser calculados separadamente em relação às dotações do Fundo Europeu Agrícola de Desenvolvimento Rural, sem os recursos adicionais referidos no artigo 58.º-A do Regulamento (UE) n.º 1305/2013, e em relação a esses recursos adicionais."
+  },
+  "001bfea077eef256": {
+   "fragment_id": "Artigo 6.º — Incumprimento da primeira data de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Incumprimento da primeira data de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Incumprimento da primeira data de pagamento\n\nNo que respeita ao FEAGA, se os Estados-Membros estiverem autorizados a pagar adiantamentos até um determinado montante máximo antes do primeiro dia do período de pagamento fixado na legislação agrícola setorial, as despesas pagas acima desse montante máximo são consideradas efetuadas antes do primeiro dia do período de pagamento. Porém, de acordo com as exceções referidas no artigo 40.º, primeiro parágrafo, do Regulamento (UE) n.º 1306/2013, tais despesas são elegíveis para pagamentos da União mediante uma redução de 10 %."
+  },
+  "d8c607f7a849c895": {
+   "fragment_id": "Artigo 7.º — Compensações por organismos pagadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Compensações por organismos pagadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Compensações por organismos pagadores\n\n1. Na sua decisão relativa aos pagamentos mensais a adotar em conformidade com o artigo 18.º, n.º 3, do Regulamento (UE) n.º 1306/2013, a Comissão deve efetuar o pagamento do saldo das despesas declaradas por cada Estado-Membro na sua declaração mensal, diminuídas do montante das receitas afetadas incluído pelo Estado-Membro em questão nas suas declarações de despesas. Esta compensação equivale ao recebimento das receitas correspondentes.\n\nAs dotações de autorização e as dotações de pagamento geradas pelas receitas afetadas são disponibilizadas a partir da afetação dessas receitas às rubricas orçamentais.\n\n2. Se os montantes referidos no artigo 43.º, n.º 1, alínea c), do Regulamento (UE) n.º 1306/2013 tiverem sido retidos antes do pagamento da ajuda a que diz respeito a irregularidade ou negligência, devem ser deduzidos da despesa correspondente.\n\n3. Os montantes das contribuições do Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) recuperados junto dos beneficiários, no âmbito do programa de desenvolvimento rural em causa, em cada período de referência, são deduzidos do montante a pagar pelo FEADER na declaração de despesas do mesmo período.\n\n4. Os montantes a mais ou a menos eventualmente resultantes do apuramento das contas referido no artigo 51.º do Regulamento (UE) n.º 1306/2013 e que possam ser reutilizados a título do programa de desenvolvimento rural são acrescentados ou deduzidos do montante da contribuição do FEADER na primeira declaração estabelecida após a decisão de apuramento das contas.\n\n5. O financiamento pelo FEAGA será igual às despesas, calculadas com base nas informações transmitidas pelo organismo pagador depois de deduzidas as eventuais receitas resultantes das medidas de intervenção, validadas através do sistema informatizado estabelecido pela Comissão e incluídas pelo organismo pagador na sua declaração de despesas."
+  },
+  "69d1d0ff9f83350f": {
+   "fragment_id": "Artigo 8.º — Aprovação com atraso do orçamento da União",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Aprovação com atraso do orçamento da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aprovação com atraso do orçamento da União\n\n1. No que respeita ao FEAGA, se o orçamento da União não tiver sido aprovado no início do exercício orçamental, os pagamentos mensais referidos no artigo 18.º do Regulamento (UE) n.º 1306/2013 corresponderão a uma percentagem das declarações de despesas recebidas de cada Estado-Membro, estabelecida por capítulo de despesas e no respeito dos limites fixados no artigo 16.º do Regulamento (UE, Euratom) n.º 966/2012. Nas decisões relativas aos reembolsos ulteriores, a Comissão tem em conta os saldos ainda não reembolsados aos Estados-Membros.\n\n2.\n\nNo que respeita ao FEADER, se o orçamento da União não tiver sido aprovado no início do exercício orçamental:\n\na) Os pagamentos intermédios referidos no artigo 36.º do Regulamento (UE) n.º 1306/2013 corresponderão proporcionalmente às dotações disponíveis segundo uma percentagem das declarações de despesas recebidas para cada programa de desenvolvimento rural. Nos pagamentos intermédios ulteriores, a Comissão tem em conta os saldos ainda não reembolsados aos Estados-Membros;\n\nb) No tocante às autorizações orçamentais referidas no artigo 33.º do Regulamento (UE) n.º 1306/2013, as primeiras frações anuais de pagamento após a adoção dos programas de desenvolvimento rural devem respeitar a ordem de adoção dos programas em causa. As autorizações orçamentais para as frações anuais de pagamento ulteriores devem seguir a ordem dos programas que esgotaram as autorizações respetivas. Se as dotações de autorização disponíveis forem limitadas, a Comissão pode atribuir autorizações anuais parciais aos programas de desenvolvimento rural. Assim que fiquem disponíveis dotações de autorização adicionais, deve ter prioridade a autorização de cobertura do saldo restante desses programas."
+  },
+  "cdab9a1892f75340": {
+   "fragment_id": "Artigo 9.º — Diferimento de pagamentos mensais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Diferimento de pagamentos mensais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Diferimento de pagamentos mensais\n\nApós informar os Estados-Membros em causa, a Comissão pode diferir os pagamentos mensais referidos no artigo 18.º do Regulamento (UE) n.º 1306/2013 aos Estados-Membros cujas comunicações referidas no artigo 102.º, n.º 1, alínea c), subalíneas i) e ii), do mesmo regulamento sejam recebidas com atraso ou contenham discrepâncias que careçam de controlo."
+  },
+  "455d5b3ac5f1ccea": {
+   "fragment_id": "Artigo 10.º — Suspensão dos pagamentos por apresentação tardia",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Suspensão dos pagamentos por apresentação tardia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão dos pagamentos por apresentação tardia\n\n1. A suspensão dos pagamentos referida no artigo 42.º do Regulamento (UE) n.º 1306/2013 aplica-se às medidas enumeradas no anexo V do presente regulamento.\n\n2.\n\nNo que respeita às despesas no âmbito do FEAGA, aplicam-se as seguintes taxas de suspensão dos pagamentos:\n\na) Se os resultados dos controlos não tiverem sido enviados até 15 de outubro, 1 % das despesas relativamente às quais as informações pertinentes não foram enviadas atempadamente;\n\nb) Se os resultados dos controlos não tiverem sido enviados até 1 de dezembro, 1,5 % das despesas relativamente às quais as informações pertinentes não foram enviadas atempadamente.\n\n3.\n\nNo que respeita às despesas no âmbito do FEADER, aplicam-se as seguintes taxas de suspensão de pagamentos:\n\na) Se os resultados dos controlos não tiverem sido enviados até 15 de outubro, 1 % das despesas relativamente às quais as informações pertinentes não foram enviadas atempadamente;\n\nb) Se os resultados dos controlos não tiverem sido enviados até 15 de janeiro, 1,5 % das despesas relativamente às quais as informações pertinentes não foram enviadas atempadamente."
+  },
+  "74c43d0380808ee5": {
+   "fragment_id": "Artigo 11.º — Taxa de câmbio aplicável na elaboração das declarações de despesas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Taxa de câmbio aplicável na elaboração das declarações de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxa de câmbio aplicável na elaboração das declarações de despesas\n\n1. Em conformidade com o artigo 106.º, n.º 4 do Regulamento (UE) n.º 1306/2013, ao elaborarem as suas declarações de despesas respeitantes ao FEAGA, os Estados-Membros que não adotaram o euro devem aplicar a taxa de câmbio que utilizaram nos pagamentos aos beneficiários ou no recebimento das receitas, em conformidade com o capítulo V e com a legislação agrícola setorial. Para as decisões de apuramento referidas nos artigos 51.º e 52.º do Regulamento (UE) n.º 1306/2013, os Estados-Membros devem utilizar a primeira taxa de câmbio estabelecida pelo Banco Central Europeu após a data de adoção dessas decisões.\n\nNos casos diferentes dos referidos no primeiro parágrafo, nomeadamente no tocante a programas de promoção aprovados ao abrigo do Regulamento (CE) n.º 3/2008 ([^6^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0009)) do Conselho e medidas de promoção no setor vitivinícola, bem como no que se refere às operações para as quais a legislação agrícola setorial não tenha fixado um facto gerador, é aplicável a penúltima taxa de câmbio estabelecida pelo Banco Central Europeu antes do mês a título do qual é declarada a despesa ou afetada a receita.\n\n2. Para elaborarem as suas declarações de despesas respeitantes aos programas de desenvolvimento rural, os Estados-Membros não pertencentes à área do euro devem aplicar a cada operação de pagamento ou de cobrança a penúltima taxa de câmbio estabelecida pelo Banco Central Europeu antes do mês em que as operações são registadas nas contas do organismo pagador.\n\nA taxa de câmbio aplicável às operações cujo facto gerador não tenha sido fixado pela legislação agrícola setorial é a penúltima taxa de câmbio estabelecida pelo Banco Central Europeu antes do último mês do período para o qual é declarada a despesa ou a receita afetada."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "9b23100184394f86": {
+   "fragment_id": "APURAMENTO DAS CONTAS E OUTROS CONTROLOS",
+   "type": "divisao",
+   "heading": "APURAMENTO DAS CONTAS E OUTROS CONTROLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APURAMENTO DAS CONTAS E OUTROS CONTROLOS"
+  },
+  "c999deda044e182d": {
+   "fragment_id": "Artigo 12.º — Critérios e metodologia para aplicação das correções no quadro do apuramento da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Critérios e metodologia para aplicação das correções no quadro do apuramento da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios e metodologia para aplicação das correções no quadro do apuramento da conformidade\n\n1. A fim de adotar, em conformidade com o artigo 52.º, n.º 1, do Regulamento (UE) n.º 1306/2013, uma decisão sobre os montantes a excluir do financiamento pela União, a Comissão estabelece uma distinção entre os montantes ou partes dos montantes identificados como montantes gastos indevidamente e os determinados mediante aplicação de correções extrapoladas ou fixas.\n\nA fim de determinar os montantes a excluir do financiamento da União, a Comissão, quando constatar que as despesas não foram efetuadas em conformidade com a legislação da União e, no que respeita ao FEADER, em conformidade com a legislação aplicável da União e nacional, baseia-se nas suas próprias conclusões e toma em consideração as informações disponibilizadas pelos Estados-Membros no âmbito do procedimento de apuramento da conformidade, realizado segundo o disposto no artigo 52.º do Regulamento (UE) n.º 1306/2013.\n\n2. A Comissão baseia a exclusão na identificação dos montantes gastos indevidamente apenas se lhe for possível identificá-los mediante um esforço proporcionado. Se a Comissão não conseguir identificar os montantes gastos indevidamente mediante um esforço proporcionado, os Estados-Membros podem, nos períodos definidos pela Comissão no decurso do procedimento de apuramento da conformidade, apresentar dados relativos à verificação desses montantes com base num exame de todos os casos individuais potencialmente afetados pela não-conformidade. A verificação deve abranger a totalidade das despesas efetuadas em violação da legislação aplicável e imputadas ao orçamento da União. Os dados apresentados devem incluir todos os montantes individuais inelegíveis devido à não-conformidade em causa.\n\n3. Se não for possível identificar os montantes gastos indevidamente em conformidade com o n.º 2, a Comissão pode determinar os montantes a excluir mediante aplicação de correções extrapoladas. A fim de permitir à Comissão determinar esses montantes, os Estados-Membros podem, nos períodos definidos pela Comissão no decurso do procedimento de apuramento da conformidade, apresentar um cálculo do montante a excluir do financiamento da União, extrapolando, através de meios estatísticos, os resultados dos controlos efetuados sobre uma amostra representativa desses casos. A amostra deve ser extraída do universo para o qual a mesma não-conformidade pode ser razoavelmente previsível.\n\n4.\n\nA fim de ter em conta os resultados apresentados pelos Estados-Membros, como referido nos n.^os^ 2 e 3, a Comissão deve estar em condições de:\n\na) Avaliar os métodos utilizados para a identificação ou a extrapolação, que devem ser claramente descritos pelos Estados-Membros;\n\nb) Verificar a representatividade da amostra a que se refere o n.º 3;\n\nc) Verificar o conteúdo e os resultados da identificação ou da extrapolação que lhe foi apresentada;\n\nd) Obter uma prova de auditoria suficiente e relevante em matéria de dados subjacentes.\n\n5.\n\nNa aplicação do n.º 3, os Estados-Membros podem utilizar as estatísticas de controlo dos organismos pagadores confirmadas pelo organismo de certificação, ou pela avaliação do nível de erro efetuada por este organismo no contexto dos seus trabalhos de auditoria referidos no artigo 9.º do Regulamento (UE) n.º 1306/2013, nas seguintes condições:\n\na) A Comissão está satisfeita com os trabalhos realizados pelos organismos de certificação, tanto em termos de estratégia de auditoria como relativamente ao conteúdo, à extensão e à qualidade do trabalho de auditoria real;\n\nb) O âmbito dos trabalhos dos organismos de certificação é coerente com o do inquérito de apuramento da conformidade em causa, nomeadamente no que se refere às medidas ou regimes;\n\nc) Foi tido em conta nas avaliações o montante das sanções que cabia aplicar.\n\n6. Se as condições para a determinação dos montantes a excluir do financiamento da União, referidas nos n.^os^ 2 e 3, não forem respeitadas ou a natureza do caso for tal que os montantes a excluir não podem ser determinados com base nos mesmos números, a Comissão aplica as devidas correções fixas, tendo em conta a natureza e a gravidade da infração, bem como a sua própria estimativa do risco de prejuízo financeiro para a União.\n\nO nível de correção fixa é estabelecido tendo em conta, nomeadamente, o tipo de casos de não-conformidade identificados. Para o efeito, deve estabelecer-se uma distinção entre deficiências nos controlos-chave e nos controlos ancilares:\n\na) Os controlos-chave são os controlos administrativos e as verificações no local necessários para determinar a elegibilidade da ajuda e a aplicação pertinente de reduções e sanções;\n\nb) Os controlos ancilares são todas as outras operações administrativas requeridas para tratar corretamente os pedidos.\n\nSe, no âmbito do mesmo procedimento de apuramento da conformidade, forem estabelecidos diferentes casos de não-conformidade que individualmente desencadeariam correções fixas diferentes, só é aplicável o nível mais elevado de correção fixa.\n\n7.\n\nAo estabelecer o nível das correções fixas, a Comissão tem nomeadamente em conta as seguintes circunstâncias, que demonstram uma maior gravidade das deficiências e um risco mais elevado de prejuízos para o orçamento da União:\n\na) Um ou mais controlos-chave não são efetuados ou são efetuados de um modo tão deficiente ou tão pouco frequente que são considerados ineficazes para determinar a elegibilidade do pedido ou evitar irregularidades; ou\n\nb) São detetadas três ou mais deficiências no que diz respeito ao mesmo sistema de controlo; ou\n\nc) A aplicação pelo Estado-Membro de um sistema de controlo é considerada inexistente ou gravemente deficiente, e existem provas de irregularidades e negligências importantes na prevenção de práticas irregulares ou fraudulentas; ou\n\nd) Já foi aplicada uma correção a esse Estado-Membro por deficiências semelhantes no mesmo setor, tendo em conta, contudo, as medidas de correção ou de compensação já tomadas pelo Estado-Membro.\n\n8. Se o Estado-Membro apresentar elementos objetivos que não satisfaçam as condições previstas nos n.^os^ 2 e 3 do presente artigo, mas que demonstram que o risco máximo de perdas para os Fundos é inferior ao que resultaria da aplicação de uma taxa fixa mais baixa do que a proposta, a Comissão aplica essa taxa fixa mais baixa ao decidir dos montantes a excluir do financiamento da União em conformidade com o artigo 52.º do Regulamento (UE) n.º 1306/2013.\n\n9. Os montantes efetivamente recuperados junto dos beneficiários e creditados aos Fundos antes de uma data determinada, a estabelecer pela Comissão durante o procedimento de apuramento da conformidade, são deduzidos do montante que a Comissão decida excluir do financiamento da União em conformidade com o artigo 52.º do Regulamento (UE) n.º 1306/2013."
+  },
+  "ddb38fac69b47fcb": {
+   "fragment_id": "Artigo 13.º — Obrigação na sequência dos procedimentos de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Obrigação na sequência dos procedimentos de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigação na sequência dos procedimentos de recuperação\n\nApós a conclusão dos procedimentos de recuperação referidos no artigo 54.º, n.º 2, primeiro parágrafo, do Regulamento (UE) n.º 1306/2013, os Estados-Membros devem:\n\na) Creditar ao FEAGA 50 % dos montantes recuperados, após dedução das despesas de recuperação, como previsto no artigo 55.º, segundo parágrafo, do referido regulamento;\n\nb) Creditar ao FEADER, 50 % dos montantes recuperados após o encerramento do programa de desenvolvimento rural ou antes do encerramento do programa, mas que não puderam ser reafetados em conformidade com o artigo 56.º do Regulamento (UE) n.º 1306/2013."
+  },
+  "3f11961215789ab3": {
+   "fragment_id": "Artigo 14.º — Controlo das transações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Controlo das transações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo das transações\n\nO sistema de controlo estabelecido pelo título V, capítulo III, do Regulamento (UE) n.º 1306/2013 não se aplica às medidas enumeradas no anexo VI do presente regulamento."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "86625afa5cc86392": {
+   "fragment_id": "GARANTIAS",
+   "type": "divisao",
+   "heading": "GARANTIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GARANTIAS"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "94025840580d5a97": {
+   "fragment_id": "Âmbito de aplicação e terminologia",
+   "type": "divisao",
+   "heading": "Âmbito de aplicação e terminologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito de aplicação e terminologia"
+  },
+  "8ddaf0c92429ed78": {
+   "fragment_id": "Artigo 15.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito\n\nO presente capítulo é aplicável a todos os casos em que a legislação agrícola setorial preveja uma garantia, quer o termo preciso «garantia» seja utilizado ou não.\n\nO presente capítulo não se aplica às garantias constituídas para assegurar o pagamento dos direitos de importação ou de exportação a que se refere o Regulamento (CEE) n.º 2913/92 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0010))."
+  },
+  "05bb53fb5df0aee1": {
+   "fragment_id": "Artigo 16.º — Terminologia do presente capítulo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Terminologia do presente capítulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Terminologia do presente capítulo\n\nPara efeitos do presente capítulo, entende-se por:\n\na) «Autoridade competente», uma parte autorizada a receber uma garantia ou uma parte autorizada a decidir, de acordo com a regulamentação aplicável, se a garantia deve ser liberada ou executada;\n\nb) «Garantia global», uma garantia constituída a favor da autoridade competente com o objetivo de assegurar o cumprimento de mais do que uma obrigação:\n\nc) «Parte em causa do montante garantido», a parte do montante garantido correspondente à quantidade em relação à qual não foi respeitado um requisito."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "908aa9c6496da6c1": {
+   "fragment_id": "Exigência de garantia",
+   "type": "divisao",
+   "heading": "Exigência de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exigência de garantia"
+  },
+  "94d33e01b94405c3": {
+   "fragment_id": "Artigo 17.º — Parte responsável",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Parte responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Parte responsável\n\nA parte responsável pelo pagamento do montante devido se a obrigação não for cumprida, ou alguém em seu nome, deve constituir uma garantia."
+  },
+  "08d30f4afbc5ff43": {
+   "fragment_id": "Artigo 18.º — Dispensa da exigência de garantia",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Dispensa da exigência de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Dispensa da exigência de garantia\n\n1.\n\nA autoridade competente pode dispensar a exigência de garantia se a parte responsável pelo cumprimento da obrigação for:\n\na) Um organismo público que exerça funções de autoridade pública; ou\n\nb) Um organismo privado que exerça, sob supervisão do Estado, as funções referidas na alínea a).\n\n2. A autoridade competente pode dispensar a exigência de garantia se o montante a garantir for inferior a 500 EUR. Nesse caso, o interessado deve comprometer-se, por escrito, a pagar um montante igual ao da garantia dispensada, se a obrigação correspondente não for cumprida.\n\nPara efeitos da aplicação do primeiro parágrafo, no cálculo do valor da garantia incluem-se todas as obrigações pertinentes ligadas a uma mesma operação."
+  },
+  "59ddc29c477d481e": {
+   "fragment_id": "Artigo 19.º — Condições aplicáveis às garantias",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Condições aplicáveis às garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Condições aplicáveis às garantias\n\n1. A autoridade competente deve recusar-se a aceitar, ou deve pedir para substituir, qualquer garantia que considere inadequada ou insatisfatória ou que não assegure cobertura durante um período suficiente.\n\n2. Se um depósito em dinheiro for efetuado por transferência, a garantia só se considera constituída quando a autoridade competente se tiver certificado de que pode dispor do montante em causa.\n\n3. Um cheque cujo pagamento esteja garantido por uma instituição financeira reconhecida para esse efeito pelo Estado-Membro da autoridade competente é considerado depósito em dinheiro. A autoridade competente só tem de apresentar o cheque a pagamento quando o período de garantia do cheque estiver a expirar.\n\nUm cheque diverso do referido no primeiro parágrafo só vale para a constituição de uma garantia quando a autoridade competente se tiver certificado de que pode dispor do montante em causa.\n\n4. Todas as despesas apresentadas por instituições financeiras são suportadas pela parte que constitui a garantia.\n\n5. Não são pagos juros às partes que constituam garantias sob a forma de depósito em dinheiro."
+  },
+  "26b21ae81c1c494b": {
+   "fragment_id": "Artigo 20.º — Utilização do euro",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Utilização do euro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Utilização do euro\n\n1. As garantias devem ser constituídas em euros.\n\n2. Se a garantia for aceite num Estado-Membro que não tenha adotado o euro, o montante da garantia em euros é convertido na moeda nacional aplicável, em conformidade com o disposto no capítulo V. O compromisso correspondente à garantia e o montante a reter em caso de irregularidade ou de incumprimento mantêm-se fixados em euros."
+  },
+  "e80c6b81926f0f84": {
+   "fragment_id": "Artigo 21.º — Garante",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Garante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Garante\n\n1. O garante deve ter a sua sede jurídica ou um estabelecimento na União e, sob reserva das disposições do Tratado relativas à livre prestação de serviços, ser aceite pela autoridade competente do Estado-Membro no qual a garantia seja constituída. O garante vincula-se mediante um compromisso escrito.\n\n2.\n\nO compromisso escrito deve precisar, pelo menos:\n\na) A obrigação ou, caso se trate de uma garantia global, os tipos de obrigação, cujo cumprimento é garantido pelo pagamento de uma soma de dinheiro;\n\nb) O montante máximo garantido pelo garante;\n\nc) O compromisso que o garante assume, conjunta e solidariamente com a parte responsável pelo cumprimento da obrigação em causa, de pagar, até ao montante máximo indicado, nos trinta dias seguintes à interpelação da autoridade competente nesse sentido, qualquer soma que passe a ser devida por execução da garantia.\n\n3. Compete à autoridade competente estabelecer o procedimento a seguir para afetar a cada obrigação em causa uma parte ou a totalidade de uma garantia global constituída por escrito."
+  },
+  "5475a6b753686231": {
+   "fragment_id": "Artigo 22.º — Força maior",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Força maior\n\nQualquer pessoa sobre quem impenda uma obrigação coberta por uma garantia que alegue que tal obrigação não foi cumprida por motivos de força maior deve apresentar às autoridades competentes prova por estas considerada bastante de que se trata efetivamente de um caso de força maior. Se a autoridade competente reconhecer que se trata de um caso de força maior, a obrigação é cancelada exclusivamente para liberação da garantia."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "c12bce3f20e4b765": {
+   "fragment_id": "Liberação e execução de garantias diversas das referidas na secção 4",
+   "type": "divisao",
+   "heading": "Liberação e execução de garantias diversas das referidas na secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Liberação e execução de garantias diversas das referidas na secção 4"
+  },
+  "0c90dd4bc2fd7365": {
+   "fragment_id": "Artigo 23.º — Execução de garantias",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Execução de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Execução de garantias\n\n1. A obrigação referida no artigo 66.º, n.º 1, do Regulamento (UE) n.º 1306/2013 consiste no requisito, fundamental para os objetivos do regulamento que o impõe, da execução ou omissão de uma determinada ação.\n\n2. Se a obrigação não for cumprida e não tiver sido estabelecido um prazo para a cumprir, a garantia é executada quando a autoridade competente concluir que a obrigação não foi cumprida.\n\n3. Se o cumprimento da obrigação estiver sujeito a um prazo determinado e a obrigação só for cumprida depois de expirado esse prazo, a garantia é executada.\n\nNesse caso, 10 % da garantia são imediatamente executados, aplicando-se ao saldo a seguinte percentagem adicional:\n\na) 2 % por dia além do termo do prazo estabelecido, se a obrigação disser respeito à importação de produtos num país terceiro;\n\nb) 5 % por dia além do termo do prazo estabelecido, se a obrigação disser respeito à saída de produtos do território aduaneiro da União.\n\n4. Se a obrigação for cumprida atempadamente e a apresentação de prova do seu cumprimento estiver sujeita a um prazo determinado, a garantia que cobre a obrigação em causa é executada, por cada dia além do prazo estabelecido, por aplicação do coeficiente «0,2/prazo fixado em dias», tendo em conta o artigo 25.º.\n\nSe a prova a que se refere o primeiro parágrafo consistir na apresentação de um certificado de importação ou de exportação utilizado ou expirado ou na apresentação de um comprovativo de que os produtos saíram do território aduaneiro da União, são executados 15 % da garantia se a prova for apresentada depois do prazo determinado referido no primeiro parágrafo, mas antes de transcorridos 730 dias após a data de expiração do certificado, se for o caso. Transcorridos esses 730 dias, a garantia restante é integralmente executada.\n\nSe a prova a que se refere o primeiro parágrafo consistir na apresentação de um certificado de exportação com prefixação da restituição utilizado ou expirado, são executados da garantia:\n\na) 10 %, se o certificado for apresentado entre o 61.º e 90.º dia após a data de expiração do mesmo;\n\nb) 50 %, se o certificado for apresentado entre o 91.º e 120.º dia após a data de expiração do mesmo;\n\nc) 70 %, se o certificado for apresentado entre o 121.º e 150.º dia após a data de expiração do mesmo;\n\nd) 80 %, se o certificado for apresentado entre o 151.º e 180.º dia após a data de expiração do mesmo;\n\ne) 100 %, se o certificado for apresentado depois do 180.º dia após a data de expiração do mesmo.\n\n5. O montante da garantia a executar é aproximado ao montante imediatamente inferior em unidades de euro ou da moeda nacional aplicável."
+  },
+  "d38a3ab229ff8b25": {
+   "fragment_id": "Artigo 24.º — Liberação de garantias",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Liberação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Liberação de garantias\n\n1. A garantia ou, se for caso disso, o remanescente desta é liberado sem demora logo que seja apresentada a prova prevista na regulamentação específica da União de que a obrigação foi cumprida ou logo que a garantia seja executada apenas parcialmente em conformidade com o artigo 66.º, n.º 2, do Regulamento (UE) n.º 1306/2013 e com o artigo 23.º do presente regulamento.\n\n2. A pedido, a garantia é liberada parcialmente se a prova prevista para esse efeito tiver sido apresentada relativamente a uma parte da quantidade de produto, na condição de que essa parte não seja inferior à quantidade mínima eventualmente especificada no regulamento que impõe a garantia ou, na falta desta, à quantidade mínima eventualmente especificada pelo Estado-Membro.\n\n3. Se não tiver sido estabelecido nenhum período para a apresentação da prova necessária à liberação do montante garantido, esse período será de 365 dias a contar do termo do prazo especificado para o cumprimento da obrigação que foi objeto da constituição da garantia. Se esse prazo não tiver sido especificado, o período será de 365 dias a contar da data a partir da qual todas as obrigações estiverem cumpridas.\n\nO termo do período previsto no primeiro parágrafo não deve ser posterior em mais de 1 095 dias à data da afetação da garantia à obrigação em causa."
+  },
+  "5e117dadbf52c1ae": {
+   "fragment_id": "Artigo 25.º — Limites",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Limites\n\n1. O montante total executado não pode exceder 100 % da parte em causa do montante garantido.\n\n2. A autoridade competente pode renunciar à execução de montantes inferiores a 100 EUR, desde que as disposições legislativas, regulamentares ou administrativas nacionais prevejam essa possibilidade para casos comparáveis."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "a1f8f2d9d0ca7a66": {
+   "fragment_id": "Garantias relativas a adiantamentos",
+   "type": "divisao",
+   "heading": "Garantias relativas a adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Garantias relativas a adiantamentos"
+  },
+  "b3a4577c0ab69336": {
+   "fragment_id": "Artigo 26.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Âmbito\n\nO disposto na presente secção aplica-se a todos os casos em que a regulamentação específica da União preveja que um montante pode ser adiantado antes de ter sido cumprida a obrigação a que está subordinada a obtenção da ajuda ou do benefício em causa."
+  },
+  "99914c97986278df": {
+   "fragment_id": "Artigo 27.º — Liberação de garantias",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Liberação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Liberação de garantias\n\n1.\n\nA garantia é liberada se, alternativamente:\n\na) Tiver sido determinado o direito à concessão definitiva do montante adiantado;\n\nb) O adiantamento tiver sido reembolsado, aumentado do suplemento previsto na regulamentação específica da União.\n\n2. Uma vez ultrapassada a data-limite para apresentação de prova do direito à concessão definitiva do montante atribuído sem que tal se tenha verificado, a autoridade competente deve proceder de imediato à execução da garantia.\n\nTodavia, se a legislação específica da União assim o determinar, a prova pode ser feita após essa data, com reembolso parcial da garantia."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "abee56d872667db8": {
+   "fragment_id": "UTILIZAÇÃO DO EURO",
+   "type": "divisao",
+   "heading": "UTILIZAÇÃO DO EURO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### UTILIZAÇÃO DO EURO"
+  },
+  "84acdcd65fc66da0": {
+   "fragment_id": "Artigo 28.º — Restituições à exportação e trocas comerciais com os países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Restituições à exportação e trocas comerciais com os países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Restituições à exportação e trocas comerciais com os países terceiros\n\n1. Para os montantes relativos às importações e para as imposições de exportação, fixados em euros pela legislação da União referente à política agrícola comum e aplicáveis pelos Estados-Membros nas moedas nacionais, a taxa de conversão é especificamente igual à taxa aplicável a título do artigo 18.º, n.º 1, do Regulamento (CEE) n.º 2913/92.\n\n2. Para as restituições à exportação fixadas em euros e para os preços e montantes expressos em euros pela legislação agrícola da União relativa às trocas comerciais com países terceiros, o facto gerador da taxa de câmbio é a aceitação da declaração aduaneira.\n\n3. Para o cálculo do valor forfetário de importação dos frutos e produtos hortícolas, referido no artigo 136.º, n.º 1, do Regulamento (UE) n.º 543/2011 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0011)), com vista à determinação do preço de entrada referido no artigo 137.º, n.º 1, do mesmo regulamento, o facto gerador da taxa de câmbio para os preços representativos utilizados no cálculo daquele valor forfetário e do montante da redução referido no artigo 134.º, n.º 3, daquele regulamento é o dia a que correspondem os preços representativos."
+  },
+  "4e154ceb789af357": {
+   "fragment_id": "Artigo 29.º — Restituições à produção e ajudas específicas",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Restituições à produção e ajudas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Restituições à produção e ajudas específicas\n\n1. Para as restituições concedidas à produção fixadas em euros pela legislação da União, o facto gerador da taxa de câmbio é a data em que é declarado que os produtos atingiram o destino imposto, se for caso disso, pela referida legislação. Nos casos em que o destino não é imposto, o facto gerador é a aceitação do pedido de pagamento da restituição pelo organismo pagador.\n\n2. Para as ajudas concedidas por quantidades de produto comercializado ou a utilizar de maneira específica, e sem prejuízo do disposto nos artigos 30.º a 33.º, o facto gerador da taxa de câmbio é o primeiro ato que assegure, após a tomada a cargo dos produtos pelo operador em causa, uma utilização adequada desses produtos e que constitua um requisito para a concessão da ajuda.\n\n3. Para as ajudas relativas à armazenagem privada, o facto gerador da taxa de câmbio é o primeiro dia do período para o qual é concedida a ajuda estabelecida a título de um mesmo contrato.\n\n4. Para as ajudas não referidas nos n.^os^ 2 e 3 do presente artigo e nos artigos 30.º e 31.º, o facto gerador da taxa de câmbio é a data-limite de apresentação dos pedidos."
+  },
+  "879221618021a396": {
+   "fragment_id": "Artigo 30.º — Setor vitivinícola",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Setor vitivinícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Setor vitivinícola\n\n1.\n\nO facto gerador da taxa de câmbio é o primeiro dia da campanha vitivinícola no decurso da qual é concedido apoio para:\n\na) A reestruturação e reconversão de vinhas referida no artigo 46.º do Regulamento (UE) n.º 1308/2013;\n\nb) A criação de fundos mutualistas referida no artigo 48.º do Regulamento (UE) n.º 1308/2013;\n\nc) Os seguros de colheitas referidos no artigo 49.º do Regulamento (UE) n.º 1308/2013.\n\n2. Para as ajudas à destilação voluntária ou obrigatória de subprodutos da vinificação, previstas no artigo 52.º do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o primeiro dia da campanha vitivinícola em que os subprodutos são entregues.\n\n3. Para os investimentos referidos no artigo 50.º do Regulamento (UE) n.º 1308/2013 e a inovação no setor vitivinícola referida no artigo 51.º do mesmo regulamento, o facto gerador da taxa de câmbio é o dia 1 de janeiro do ano de adoção da decisão de concessão da ajuda.\n\n4. Para as operações de colheita em verde referidas no artigo 47.º do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o dia em que a operação de colheita em verde se realiza."
+  },
+  "d668d7491b39384d": {
+   "fragment_id": "Artigo 31.º — Montantes e pagamentos no setor do leite e dos produtos lácteos",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Montantes e pagamentos no setor do leite e dos produtos lácteos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Montantes e pagamentos no setor do leite e dos produtos lácteos\n\n1. Para a ajuda concedida ao fornecimento de determinados produtos lácteos a alunos de estabelecimentos de ensino, prevista no artigo 1.º do Regulamento (CE) n.º 657/2008 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0012)), o facto gerador da taxa de câmbio é o primeiro dia do período a que se refere o pedido de pagamento da ajuda mencionado no artigo 11.º do mesmo regulamento.\n\n2. Para o pagamento da imposição referida no artigo 1.º do Regulamento (CE) n.º 595/2004 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0013)), relativamente a um determinado período de doze meses na aceção da parte II, título I, capítulo III, do Regulamento (UE) n.º 1234/2007 do Conselho ([^11^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0014)), o facto gerador da taxa de câmbio é o dia 1 de abril seguinte ao período em causa.\n\n3. Para os custos de transporte referidos no artigo 30.º, n.º 3, do Regulamento (UE) n.º 1272/2009 da Comissão ([^12^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0015)), o facto gerador da taxa de câmbio é o dia em que a proposta válida foi recebida pela autoridade competente."
+  },
+  "7f71ca5fac0e924a": {
+   "fragment_id": "Artigo 32.º — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição de fruta nas escolas",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição de fruta nas escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição de fruta nas escolas\n\nNo que respeita à ajuda para a distribuição de fruta e produtos hortícolas, frutas e produtos hortícolas transformados, bananas e produtos derivados às crianças, referida no artigo 1.º do Regulamento (CE) n.º 288/2009 da Comissão ([^13^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0016)), o facto gerador da taxa de câmbio é o dia 1 de janeiro que precede o período referido no artigo 4.º, n.º 1, desse regulamento."
+  },
+  "c868f515e9821dda": {
+   "fragment_id": "Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas",
+   "type": "artigo",
+   "heading": "Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas\n\nNo que respeita à ajuda para a aplicação do regime de distribuição nas escolas a que se refere a parte II, título I, capítulo II, secção I, do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o dia 1 de janeiro que precede o ano letivo em causa."
+  },
+  "2890f3e70f623021": {
+   "fragment_id": "Artigo 33.º — Preço mínimo da beterraba, imposição sobre os excedentes e encargo à produção no setor do açúcar",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Preço mínimo da beterraba, imposição sobre os excedentes e encargo à produção no setor do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Preço mínimo da beterraba, imposição sobre os excedentes e encargo à produção no setor do açúcar\n\nPara o encargo à produção aplicável ao açúcar, o preço mínimo da beterraba e a imposição sobre os excedentes, referidos, respetivamente, nos artigos 128.º, 135.º e 142.º do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o dia 1 de outubro da campanha de comercialização a cujo título são aplicados ou pagos os preços e montantes."
+  },
+  "d4d237e4799768c7": {
+   "fragment_id": "Artigo 34.º — Montantes de caráter estrutural ou ambiental e despesas gerais dos programas operacionais",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Montantes de caráter estrutural ou ambiental e despesas gerais dos programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Montantes de caráter estrutural ou ambiental e despesas gerais dos programas operacionais\n\n1. Para os montantes referidos no anexo II do Regulamento (UE) n.º 1305/2013, assim como para os montantes relativos às medidas aprovadas ao abrigo do Regulamento (CE) n.º 1698/2005, cujos pagamentos aos beneficiários sejam tomados a cargo pelos programas de desenvolvimento rural aprovados ao abrigo do Regulamento (UE) n.º 1305/2013, o facto gerador da taxa de câmbio é o dia 1 de janeiro do ano em que a decisão de concessão da ajuda é tomada.\n\nTodavia, quando, em conformidade com a regulamentação da União, o pagamento dos montantes referidos no primeiro parágrafo for escalonado por vários anos, o facto gerador da taxa de câmbio para cada uma das frações anuais é o dia 1 de janeiro do ano a cujo título é paga a fração em causa.\n\n2. Para os montantes referidos no anexo IX, ponto 2, alínea a), do Regulamento (UE) n.º 543/2011, destinados a cobrir as despesas gerais especificamente relacionadas com os fundos operacionais e programas operacionais referidos nos artigos 32.º e 33.º do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o dia 1 de janeiro do ano a que as despesas dizem respeito."
+  },
+  "139a0bf9e24ca2a6": {
+   "fragment_id": "Artigo 35.º — Montantes relacionados com a autorização de concessão de assistência financeira nacional a organizações de produtores do setor das frutas e produtos hortícolas e reembolso parcial desta assistência financeira nacional",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Montantes relacionados com a autorização de concessão de assistência financeira nacional a organizações de produtores do setor das frutas e produtos hortícolas e reembolso parcial desta assistência financeira nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Montantes relacionados com a autorização de concessão de assistência financeira nacional a organizações de produtores do setor das frutas e produtos hortícolas e reembolso parcial desta assistência financeira nacional\n\n1. Para os pedidos de autorização de concessão da assistência financeira nacional referida no artigo 35.º do Regulamento (UE) n.º 1308/2013, o facto gerador é o prazo de apresentação dos pedidos à Comissão, nos termos do artigo 92.º, n.º 1, do Regulamento (UE) n.º 543/2011.\n\n2. Para o reembolso da assistência financeira nacional pela União, nos termos do artigo 95.º do Regulamento (UE) n.º 543/2011, o facto gerador da taxa de câmbio é o prazo de apresentação do pedido de ajuda pelas organizações de produtores às autoridades competentes dos Estados-Membros em conformidade com o artigo 69.º, n.º 1, do Regulamento (UE) n.º 543/2011."
+  },
+  "8df7d3e4356fcf17": {
+   "fragment_id": "Artigo 36.º — Outros montantes e preços",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Outros montantes e preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Outros montantes e preços\n\nPara os preços e montantes não referidos nos artigos 28.º a 35.º, ou os montantes relacionados com esses preços, expressos em euros na legislação da União ou no âmbito de um processo de concurso, o facto gerador da taxa de câmbio é o primeiro dia do mês em que ocorre um dos seguintes atos jurídicos:\n\na) Para compras, a receção da proposta válida;\n\nb) Para vendas, a receção da proposta válida;\n\nc) Para as retiradas de produtos do setor dos frutos e produtos hortícolas, o dia da retirada;\n\nd) Para as operações de não-colheita e de colheita em verde no setor dos frutos e produtos hortícolas, o dia das referidas operações;\n\ne) Para os custos de transporte, transformação ou armazenamento público e para montantes atribuídos para estudos no âmbito de um processo de concurso, o último dia para a apresentação de propostas;\n\nf) Para o registo de preços, montantes ou propostas no mercado, o dia para o qual o preço, montante ou proposta é registado;\n\ng) Para as sanções relacionadas com o incumprimento da legislação agrícola, a data do ato pelo qual os factos foram constatados pela autoridade competente;\n\nh) Para os volumes de negócios ou os montantes relativos a volumes de produção, o início do período de referência definido pela legislação agrícola."
+  },
+  "cda8d0627a22c179": {
+   "fragment_id": "Artigo 37.º — Pagamento dos adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Pagamento dos adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pagamento dos adiantamentos\n\nPara os adiantamentos, o facto gerador da taxa de câmbio é o facto gerador aplicável ao preço ou montante a que o adiantamento diz respeito, se este facto tiver já ocorrido à data do pagamento do adiantamento, ou, noutros casos, a data da fixação em euros do adiantamento ou, na sua falta, a data do pagamento do adiantamento. O facto gerador da taxa de câmbio aplica-se aos adiantamentos sem prejuízo da aplicação à totalidade do preço ou montante em causa do facto gerador desse preço ou montante."
+  },
+  "45c5229fadecd508": {
+   "fragment_id": "Artigo 38.º — Garantias",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Garantias\n\nPara as garantias, o facto gerador da taxa de câmbio é a data em que a garantia é constituída.\n\nContudo, aplicam-se as seguintes exceções:\n\na) Para as garantias relacionadas com adiantamentos, o facto gerador da taxa de câmbio é o facto gerador definido para o montante do adiantamento, se este facto tiver já ocorrido na data do pagamento da garantia;\n\nb) Para as garantias relacionadas com a apresentação de propostas, o facto gerador da taxa de câmbio é o dia em que a proposta é apresentada;\n\nc) Para as garantias relacionadas com a execução das propostas, o facto gerador da taxa de câmbio é a data-limite para a apresentação de propostas."
+  },
+  "3394cda5bdeb4797": {
+   "fragment_id": "Artigo 39.º — Controlo das transações",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Controlo das transações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Controlo das transações\n\nOs montantes em euros que figuram no título V, capítulo III, do Regulamento (UE) n.º 1306/2013 são, se for caso disso, convertidos em moeda nacional aplicando as taxas de câmbio em vigor no primeiro dia útil do ano de início do período de controlo e publicadas na série C do *Jornal Oficial da União Europeia*."
+  },
+  "d1bb54b1a32a8762": {
+   "fragment_id": "Artigo 40.º — Determinação da taxa de câmbio",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Determinação da taxa de câmbio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Determinação da taxa de câmbio\n\nSe o facto gerador estiver fixado na legislação da União, a taxa de câmbio a aplicar é a última taxa fixada pelo Banco Central Europeu (BCE) antes do primeiro dia do mês em que ocorre o facto gerador.\n\nContudo:\n\na) Para os casos referidos no artigo 28.º, n.º 2, do presente regulamento, em que o facto gerador da taxa de câmbio é a aceitação da declaração aduaneira, a taxa de câmbio a aplicar é a referida no artigo 18.º, n.º 1, do Regulamento (CEE) n.º 2913/92;\n\nb) Para as despesas de intervenção efetuadas no quadro de operações de armazenagem pública, a taxa de câmbio a aplicar é a taxa resultante da aplicação do artigo 3.º, n.º 2, do Regulamento Delegado (UE) n.º 906/2014 da Comissão ([^14^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0017));\n\nc) Para o preço mínimo da beterraba referido no artigo 33.º do presente regulamento, a taxa de câmbio a aplicar é a taxa média estabelecida pelo Banco Central Europeu (BCE) do último mês antes do facto gerador."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "bfe96d9410721527": {
+   "fragment_id": "Artigo 41.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Disposições transitórias\n\n1. Sempre que um organismo pagador acreditado em conformidade com o Regulamento (UE) n.º 1290/2005 assuma a responsabilidade de despesas pelas quais não era anteriormente responsável, será acreditado em relação às novas responsabilidades até 1 de janeiro de 2015.\n\n2. As medidas enumeradas no anexo do Regulamento (CE) n.º 1106/2010 não estarão sujeitas ao sistema de controlo estabelecido no título V, capítulo III, do Regulamento (UE) n.º 1306/2013 para efeitos do controlo das despesas anteriores ao exercício financeiro de 2014.\n\n3. Sempre que, na legislação específica, seja feita referência às exigências principais, secundárias ou subordinadas referidas no Regulamento de Execução (UE) n.º 282/2012, é aplicável o artigo 23.º, n.^os^ 2, 3 e 4, do presente regulamento.\n\n4.\n\nPara os programas de desenvolvimento rural a que se refere o artigo 15.º do Regulamento (CE) n.º 1698/2005:\n\na) O disposto no artigo 38.º, n.º 1, do Regulamento (UE) n.º 1306/2013 é aplicável às autorizações orçamentais não utilizadas até 31 de dezembro do segundo ano seguinte ao da autorização orçamental. No artigo 38.º desse regulamento, as referências ao ano N+3 são consideradas referências ao ano N+2;\n\nb) Os pagamentos intermédios efetuados pela Comissão estão subordinados, em conformidade com o artigo 36.º, n.º 3, alínea b), do Regulamento (UE) n.º 1306/2013, à obrigação de respeitar o montante total da contribuição do FEADER para cada prioridade, relativamente a todo o período abrangido pelo programa em questão;\n\nc) Para efeitos da aplicação dos artigos 37.º e 38.º do Regulamento (UE) n.º 1306/2013, a data final de elegibilidade das despesas é a estabelecida no artigo 71.º, n.º 1, do Regulamento (CE) n.º 1698/2005.\n\n5. Para efeitos de aplicação do artigo 54.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 1306/2013, nos casos comunicados ou a comunicar à Comissão relativamente aos exercícios financeiros de 2013 e 2014, conforme referido no artigo 6.º, alínea h), do Regulamento (CE) n.º 885/2006, continua a ser tido em conta o exercício financeiro do primeiro auto relativo à irregularidade, na aceção do artigo 35.º do Regulamento (CE) n.º 1290/2005. Nos casos relativamente aos quais não tenha sido estabelecido um primeiro auto administrativo ou judicial de irregularidade antes de 16 de outubro de 2014, aplica-se o disposto no artigo 54.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 1306/2013.\n\nNo que respeita ao FEADER, para efeitos do apuramento das contas em conformidade com o artigo 51.º do Regulamento (UE) n.º 1306/2013, as disposições do artigo 54.º, n.º 2, do mesmo regulamento aplicam-se aos apuramentos das contas com início no apuramento relativo ao exercício financeiro de 2014."
+  },
+  "3fa9c00ddaab4dbb": {
+   "fragment_id": "Artigo 42.º — Alteração do Regulamento (CE) n.º 376/2008",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Alteração do Regulamento (CE) n.º 376/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Alteração do Regulamento (CE) n.º 376/2008\n\nNo artigo 34.º do Regulamento (CE) n.º 376/2008, são suprimidos os n.^os^ 6 e 7.\n\nTodavia, essas disposições continuam a aplicar-se às garantias corretamente constituídas apresentadas ao abrigo desse regulamento antes da data de entrada em vigor do presente regulamento."
+  },
+  "0fecc1772a41517b": {
+   "fragment_id": "Artigo 43.º — Alteração do Regulamento (CE) n.º 612/2009",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Alteração do Regulamento (CE) n.º 612/2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Alteração do Regulamento (CE) n.º 612/2009\n\nNo artigo 47.º do Regulamento (CE) n.º 612/2009, é suprimido o n.º 3.\n\nTodavia, essas disposições continuam a aplicar-se às garantias corretamente constituídas apresentadas ao abrigo desse regulamento antes da data de entrada em vigor do presente regulamento."
+  },
+  "bd67d4fd6b1d4508": {
+   "fragment_id": "Artigo 44.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Revogações\n\nSão revogados os Regulamentos (CE) n.º 883/2006, (CE) n.º 884/2006, (CE) n.º 885/2006, (CE) n.º 1913/2006, (UE) n.º 1106/2010 e o Regulamento de Exeução (UE) n.º 282/2012.\n\nNo entanto:\n\na) O Regulamento de Execução (UE) n.º 282/2012 continua a aplicar-se às garantias corretamente constituídas ao abrigo desse regulamento antes da data de entrada em vigor do presente regulamento;\n\nb) O artigo 4.º do Regulamento (CE) n.º 883/2006 continua a aplicar-se às despesas efetuadas até 15 de outubro de 2014;\n\nc) O artigo 11.º e o capítulo III do Regulamento (CE) n.º 885/2006 continuam a aplicar-se até 31 de dezembro de 2014."
+  },
+  "0b927ed2c62a8362": {
+   "fragment_id": "Artigo 45.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO artigo 41.º, n.º 4, é aplicável a partir de 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8417735722b6d94d": {
+   "fragment_id": "CRITÉRIOS DE ACREDITAÇÃO",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE ACREDITAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE ACREDITAÇÃO"
+  },
+  "d0ee003a4aedfa45": {
+   "fragment_id": "(Artigo 1.º)",
+   "type": "divisao",
+   "heading": "(Artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 1.º)"
+  },
+  "9e2ddd204b6ff747": {
+   "fragment_id": "1. AMBIENTE INTERNO",
+   "type": "divisao",
+   "heading": "1. AMBIENTE INTERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. AMBIENTE INTERNO\n\nO organismo pagador deve dispor de uma estrutura orgânica que lhe permita desempenhar as seguintes funções principais relativamente às despesas do FEAGA e do FEADER:\n\ni) Autorização e controlo dos pagamentos para determinar se o montante que deve ser pago a um beneficiário está em conformidade com as normas da União, o que inclui, nomeadamente, controlos administrativos e verificações no local;\n\nii) Pagamento aos beneficiários (ou aos seus representantes) do montante autorizado ou, no caso do desenvolvimento rural, da parte do cofinanciamento da União;\n\niii) Contabilização de todos os pagamentos nas contas separadas do organismo pagador respeitantes às despesas do FEAGA e do FEADER, sob forma de um sistema de informação, e preparação de sínteses periódicas das despesas, nomeadamente as declarações mensais (FEAGA), trimestrais (FEADER) e anuais destinadas à Comissão. Nas contas do organismo pagador devem registar-se igualmente os ativos financiados pelos Fundos, nomeadamente no que se refere a existências de intervenção, adiantamentos em saldo, garantias e devedores.\n\nA estrutura orgânica do organismo pagador deve apresentar uma atribuição clara dos poderes e das responsabilidades a todos os níveis de funcionamento e garantir a separação das três funções referidas no primeiro parágrafo, cujas responsabilidades devem ser definidas num organograma. A estrutura orgânica deve incluir os serviços técnicos e o serviço de auditoria interna previstos no ponto 4.\n\nO organismo pagador deve garantir o seguinte:\n\ni) A afetação de recursos humanos adequados para a realização das operações e a disponibilidade das competências técnicas necessárias nos diferentes níveis de funcionamento;\n\nii) Uma repartição de tarefas que não permita que nenhum agente detenha mais que uma das responsabilidades de autorização, pagamento ou contabilização dos montantes imputados ao FEAGA ou ao FEADER, nem desempenhe qualquer dessas tarefas sem supervisão de um segundo agente;\n\niii) A definição, por escrito, das responsabilidades de cada agente, incluindo a fixação dos limites financeiros da sua autoridade;\n\niv) Uma formação adequada do pessoal em todos os níveis de funcionamento, nomeadamente uma sensibilização para a fraude, e a aplicação de uma política de rotação dos elementos do pessoal que ocupem posições sensíveis, ou, em alternativa, uma supervisão acrescida;\n\nv) A adoção de medidas adequadas para afastar o risco de conflito de interesses, quando pessoas que detenham uma posição de responsabilidade ou ocupem um posto sensível no âmbito da verificação, autorização, pagamento e contabilização de pedidos ou pedidos de pagamento, desempenhem também outras funções fora do organismo pagador.\n\nC.1) Se o organismo pagador delegar qualquer das suas tarefas noutro organismo, em conformidade com o artigo 7.º do Regulamento (UE) n.º 1306/2013, devem ser satisfeitas as seguintes condições:\n\ni) Deve ser concluído um acordo escrito entre o organismo pagador e esse organismo, que especifique, além das tarefas delegadas, a natureza da informação e dos documentos comprovativos a submeter ao organismo pagador, assim como o prazo em que devem ser apresentados. O acordo deve permitir ao organismo pagador satisfazer os critérios de acreditação;\n\nii) O organismo pagador permanece, em todos os casos, responsável pela eficiência da gestão dos Fundos em causa. O organismo pagador conserva inteira responsabilidade pela legalidade e regularidade das operações subjacentes, incluindo a proteção dos interesses financeiros da União, bem como pela declaração da correspondente despesa à Comissão e pela elaboração das contas em conformidade;\n\niii) Devem ser claramente definidas as responsabilidades e obrigações do outro organismo, nomeadamente no que diz respeito ao controlo e à verificação da observância das normas da União;\n\niv) O organismo pagador deve assegurar-se de que o outro organismo dispõe de sistemas eficazes que garantam o cumprimento das suas tarefas de um modo adequado;\n\nv) O outro organismo deve confirmar explicitamente ao organismo pagador que cumpre, de facto, as suas tarefas e descrever os meios utilizados;\n\nvi) O organismo pagador deve proceder regularmente a uma revisão das tarefas delegadas, para confirmar que o trabalho é realizado satisfatoriamente e que está em conformidade com as normas da União.\n\nC.2) As condições enunciadas *supra,* em C. 1), i), ii), iii) e v), aplicam-se, *mutatis mutandis*, aos casos em que as funções do organismo pagador são exercidas por outro organismo, como parte das suas tarefas correntes, com base na legislação nacional."
+  },
+  "0b1f8e6d14153f07": {
+   "fragment_id": "2. ATIVIDADES DE CONTROLO",
+   "type": "divisao",
+   "heading": "2. ATIVIDADES DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. ATIVIDADES DE CONTROLO\n\nO organismo pagador deve adotar os seguintes procedimentos:\n\ni) O organismo pagador deve estabelecer, por escrito, os procedimentos pormenorizados relativos à receção, registo e tratamento dos pedidos, incluindo uma descrição de todos os documentos a utilizar;\n\nii) Cada agente responsável pela autorização deve ter à sua disposição uma lista pormenorizada dos controlos a realizar, devendo confirmar nos documentos comprovativos correspondentes ao pedido que esses controlos foram efetuados. A confirmação pode ser efetuada por meios eletrónicos. Deve ser incluída a prova de revisão sistemática do trabalho, baseada num sistema, num plano ou em amostragem, efetuada por um membro superior do pessoal;\n\niii) O pagamento dos pedidos só deve ser autorizado após terem sido efetuados controlos suficientes para garantir a conformidade dos pedidos com as normas da União.\n\niv) A direção do organismo pagador deve ser informada, ao nível adequado, regular e atempadamente, dos resultados dos controlos administrativos e das verificações no local efetuados, de modo que a suficiência desses controlos possa sempre ser tida em conta antes de um pedido ser liquidado;\n\nv) O trabalho realizado deve ser descrito pormenorizadamente no relatório que deve acompanhar cada pedido, lote de pedidos ou, se for caso disso, num relatório que abranja uma campanha de comercialização. O relatório deve ser acompanhado por um certificado da elegibilidade dos pedidos aprovados e da natureza, alcance e limites do trabalho realizado. No respeitante ao FEADER, é necessária igualmente uma garantia de que os critérios para a concessão da ajuda, nomeadamente a contratação, foram observados e que todas as normas nacionais e da União aplicáveis, incluindo as fixadas no programa de desenvolvimento rural, foram cumpridas. Quando os controlos físicos ou administrativos não forem exaustivos, mas sim realizados com base numa amostra de pedidos, os pedidos selecionados devem ser identificados e o método de amostragem descrito, bem como os resultados de todas as inspeções e as medidas tomadas em relação às discrepâncias e irregularidades detetadas. Os documentos comprovativos devem ser suficientes para garantir que todos os controlos exigidos relativamente à elegibilidade dos pedidos autorizados foram executados;\n\nvi) Quando os documentos (em papel ou em formato eletrónico) relativos aos pedidos autorizados e controlos efetuados forem conservados por outros organismos, estes e o organismo pagador devem estabelecer procedimentos que garantam o registo da localização de todos os documentos associados a cada pagamento.\n\nO organismo pagador deve adotar os procedimentos necessários para garantir que os pagamentos são efetuados unicamente nas contas bancárias dos beneficiários ou dos representantes destes. O pagamento deve ser executado pela entidade bancária do organismo pagador ou, se adequado, por um serviço governamental encarregado de pagamentos, nos cinco dias úteis seguintes à data da imputação ao FEAGA ou ao FEADER. Devem ser adotados procedimentos para garantir que todos os pagamentos relativamente aos quais as transferências não sejam executadas não são declarados aos Fundos para reembolso. Se tais pagamentos já tiverem sido declarados aos Fundos, devem ser recreditados aos Fundos através de uma das declarações mensais ou trimestrais seguintes ou, o mais tardar, nas contas anuais. Não podem ser feitos pagamentos em numerário. A aprovação do gestor orçamental e/ou do seu superior pode ser feita por meios eletrónicos, desde que esteja garantido um nível adequado de segurança e que a informação relativa à identidade do signatário seja introduzida na memória eletrónica.\n\nO organismo pagador deve adotar os seguintes procedimentos:\n\ni) Os procedimentos contabilísticos devem garantir que as declarações mensais (FEAGA), trimestrais (FEADER) e anuais são completas, rigorosas e elaboradas atempadamente, e que quaisquer erros ou omissões são detetados e corrigidos, nomeadamente através de controlos e conciliações realizados periodicamente;\n\nii) A contabilidade relativa à armazenagem de intervenção deve garantir que as quantidades e os correspondentes custos são correta e atempadamente tratados e registados por lote identificável, na conta adequada, em cada estádio, desde a aceitação de uma proposta até ao escoamento físico do produto, em conformidade com os regulamentos aplicáveis, e que a quantidade e a natureza das existências em qualquer local possam ser determinadas a qualquer altura.\n\nDevem ser adotados procedimentos para assegurar que:\n\ni) Os pagamentos de adiantamentos são identificados separadamente nos registos contabilísticos ou auxiliares;\n\nii) As garantias só são dadas por instituições financeiras que satisfaçam as condições do capítulo IV do presente regulamento e sejam aprovadas pelas autoridades competentes, e permanecem válidas até serem liberadas ou executadas, mediante simples pedido do organismo pagador;\n\niii) Os adiantamentos são regularizados nos prazos estipulados e os adiantamentos cujos prazos tenham sido ultrapassados sejam identificados com rapidez e as respetivas garantias imediatamente executadas.\n\nTodos os critérios previstos nas secções A) a D) aplicam-se, *mutatis mutandis*, às imposições, garantias executadas, pagamentos reembolsados, receitas afetadas, etc., que o organismo pagador tenha de cobrar em nome do FEAGA e do FEADER.\n\nO organismo pagador deve estabelecer um sistema para a identificação de todos os montantes devidos e para o registo, numa única lista de devedores, de todas as dívidas antes da sua cobrança. A lista de devedores deve ser analisada regularmente e devem ser tomadas medidas para que as dívidas vencidas sejam cobradas.\n\nA informação sobre as provas documentais da autorização, da contabilização e do pagamento dos pedidos, bem como sobre a gestão dos adiantamentos, garantias e dívidas, deve estar disponível no organismo pagador de modo a assegurar, a qualquer momento, uma pista de auditoria suficientemente pormenorizada."
+  },
+  "4337f0390d39afcd": {
+   "fragment_id": "3. INFORMAÇÃO E COMUNICAÇÃO",
+   "type": "divisao",
+   "heading": "3. INFORMAÇÃO E COMUNICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. INFORMAÇÃO E COMUNICAÇÃO\n\nO organismo pagador deve adotar os procedimentos necessários para garantir que as alterações da regulamentação da União, nomeadamente das taxas de ajuda aplicáveis, sejam registadas e que as instruções, bases de dados e listas de controlos sejam atualizadas atempadamente.\n\ni) Sem prejuízo do disposto no ponto ii), a segurança dos sistemas de informação deve basear-se nos critérios estabelecidos pela versão aplicável no exercício financeiro em causa de uma das seguintes normas:\n\n— *International Standards Organisation 27002: Code of practice for Information Security controls* (ISO);\n\n— *Bundesamt für Sicherheit in der Infomationstechnik: IT-Grundschutzhandbuch/IT Baseline Protection Manual* (BSI);\n\n— *Information Systems Audit and Control Association: Control objectives for Information and related Technology* (COBIT).\n\nii) A partir de 16 de outubro de 2016, a segurança dos sistemas de informação será certificada em conformidade com a International Standards Organisation 27001: Sistemas de gestão da segurança da informação — Requisitos (ISO)."
+  },
+  "1a16453a5b389671": {
+   "fragment_id": "4. ACOMPANHAMENTO",
+   "type": "divisao",
+   "heading": "4. ACOMPANHAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. ACOMPANHAMENTO\n\nAs atividades de controlo interno devem abranger, pelo menos, os seguintes domínios:\n\ni) Acompanhamento dos serviços técnicos e dos organismos delegados responsáveis pela realização dos controlos e por outras funções, a fim de garantir a aplicação correta dos regulamentos, diretrizes e procedimentos;\n\nii) Introdução de alterações nos sistemas, a fim de melhorar os sistemas de controlo em geral;\n\niii) Exame dos pedidos/reclamações apresentados ao organismo pagador e de outras informações que indiciem irregularidades;\n\niv) Procedimentos de acompanhamento para prevenir e detetar fraudes e irregularidades, devendo ser dada especial atenção aos domínios das despesas da PAC no âmbito da competência do organismo pagador que estejam expostos a um elevado risco de fraude ou de outras irregularidades graves.\n\nO acompanhamento contínuo deve fazer parte das atividades normais e habituais do organismo pagador. As operações diárias e as atividades de controlo do organismo pagador devem ser submetidas a um acompanhamento contínuo a todos os níveis, para assegurar uma pista de auditoria suficientemente pormenorizada.\n\nO organismo pagador deve adotar os seguintes procedimentos:\n\ni) O serviço de auditoria interna deve ser independente dos outros serviços do organismo pagador e responder diretamente perante o diretor deste último;\n\nii) O serviço de auditoria interna deve verificar se os procedimentos adotados pelo organismo pagador são adequados para garantir que o cumprimento das normas da União é verificado e que as contas são precisas, completas e estabelecidas atempadamente. As verificações podem limitar-se a medidas selecionadas e a amostras de operações, desde que um programa de auditoria garanta que todas as áreas significativas, nomeadamente os serviços encarregados das autorizações, são abrangidas num período não superior a cinco anos;\n\niii) O trabalho do serviço de auditoria interna deve ser executado de acordo com as normas internacionalmente aceites e registado em documentos de trabalho, devendo dar origem a relatórios e recomendações dirigidas à direção do organismo pagador."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "2457640032d96990": {
+   "fragment_id": "OBRIGAÇÕES DOS ORGANISMOS PAGADORES E PROCEDIMENTOS DE INSPEÇÃO FÍSICA",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DOS ORGANISMOS PAGADORES E PROCEDIMENTOS DE INSPEÇÃO FÍSICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DOS ORGANISMOS PAGADORES E PROCEDIMENTOS DE INSPEÇÃO FÍSICA"
+  },
+  "9168a2e78c47cc22": {
+   "fragment_id": "(Artigo 3.º)",
+   "type": "divisao",
+   "heading": "(Artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 3.º)"
+  },
+  "ba4a3f742107d578": {
+   "fragment_id": "A. OBRIGAÇÕES DOS ORGANISMOS PAGADORES",
+   "type": "divisao",
+   "heading": "A. OBRIGAÇÕES DOS ORGANISMOS PAGADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A. OBRIGAÇÕES DOS ORGANISMOS PAGADORES\n\nCada local de armazenagem deve ser inspecionado pelo menos uma vez por ano, de acordo com as disposições da secção B, devendo a inspeção incidir, nomeadamente:\n\n— no processo de recolha das informações relativas à armazenagem pública,\n\n— na conformidade dos dados contabilísticos conservados no local pelo armazenista com os dados transmitidos ao organismo pagador,\n\n— na presença física em armazém das quantidades mencionadas nos registos contabilísticos do armazenista que tenham servido de base para a última declaração mensal por ele transmitida, avaliada visualmente ou, em caso de dúvida ou contestação, com recurso a pesagem ou a medição,\n\n— na qualidade dos produtos armazenados, que deve ser sã, íntegra e comercializável.\n\nA presença física deve ser confirmada através de uma inspeção física suficientemente representativa, que abranja, pelo menos, as percentagens indicadas na secção B e permita tirar conclusões acerca da presença efetiva, nas existências, da totalidade das quantidades inscritas na contabilidade das existências.\n\nOs controlos de qualidade devem ser visuais, olfativos e/ou organolépticos, e, em caso de dúvida, ser complementados por análises aprofundadas.\n\nCaso se detetem anomalias na inspeção física, deve ser inspecionada, segundo o mesmo método, uma percentagem suplementar das quantidades armazenadas no âmbito do regime de intervenção. Se necessário, a inspeção pode incluir a pesagem da totalidade dos produtos do lote ou do armazém inspecionado.\n\n1. Compete ao organismo de inspeção interno do organismo pagador ou ao organismo por este mandatado elaborar um relatório sobre cada controlo ou inspeção física efetuado.\n\n2. Do relatório devem constar, no mínimo, os seguintes elementos:\n\na) Identificação do armazenista, endereço do armazém visitado e designação dos lotes inspecionados;\n\nb) Data e hora do início e do fim da inspeção;\n\nc) Local onde a inspeção foi efetuada e descrição das condições de armazenagem, embalagem e acessibilidade;\n\nd) Identificação completa, qualificações profissionais e mandatos das pessoas que procederam à inspeção;\n\ne) Ações de inspeção efetuadas e procedimento seguido para as determinações quantitativas, compreendendo os métodos de medição, os cálculos efetuados, os resultados intermédios e finais obtidos e as conclusões extraídas;\n\nf) Em relação a cada lote ou qualidade existente no armazém, quantidade constante do livro do organismo pagador, quantidade constante do livro do armazém e eventuais divergências observadas entre os dois livros;\n\ng) Em relação a cada lote ou qualidade inspecionado(a) fisicamente, os dados referidos na alínea f), bem como a quantidade constatada no local e as eventuais discrepâncias, o número do lote ou da qualidade, as paletes, caixas de cartão, silos, cubas ou outros recipientes em causa e a massa (líquida e bruta, se for caso disso) ou o volume correspondente;\n\nh) Declarações do armazenista em caso de divergências ou discrepâncias;\n\ni) Local, data e assinatura do relator, assim como do armazenista ou do representante deste;\n\nj) Eventual inspeção alargada em caso de anomalia, com indicação da percentagem das quantidades armazenadas que foram objeto dessa inspeção, das divergências observadas e das explicações dadas.\n\n3. Os relatórios devem ser imediatamente enviados ao chefe do serviço responsável pela contabilidade do organismo pagador.\n\n4. Os relatórios, a que devem ter acesso os agentes da Comissão e as pessoas por esta mandatadas, devem ser conservados na sede do organismo pagador.\n\n5. O organismo pagador deve elaborar um documento de síntese de que constem os seguintes elementos:\n\n— os controlos efetuados, distinguindo claramente as inspeções físicas (controlos de inventário),\n\n— as quantidades verificadas,\n\n— as anomalias detetadas em relação às declarações mensais e anuais e as razões de tais anomalias."
+  },
+  "0bd03a0bd8de141c": {
+   "fragment_id": "B. PROCEDIMENTO DE INSPEÇÃO FÍSICA A SEGUIR NOS CONTROLOS PREVISTOS NA SECÇÃO A, POR SETOR DA POLÍTICA AGRÍCOLA COMUM",
+   "type": "divisao",
+   "heading": "B. PROCEDIMENTO DE INSPEÇÃO FÍSICA A SEGUIR NOS CONTROLOS PREVISTOS NA SECÇÃO A, POR SETOR DA POLÍTICA AGRÍCOLA COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### B. PROCEDIMENTO DE INSPEÇÃO FÍSICA A SEGUIR NOS CONTROLOS PREVISTOS NA SECÇÃO A, POR SETOR DA POLÍTICA AGRÍCOLA COMUM\n\n1. A amostra de lotes a verificar deve representar, pelo menos, 5 % da quantidade total em regime de armazenagem pública. A amostra deve ser selecionada antes da visita ao armazém, com base nos dados contabilísticos do organismo pagador, mas o armazenista não deve ser dela informado.\n\n2. A verificação no local da presença dos lotes selecionados e da composição dos mesmos deve ser efetuada da seguinte forma:\n\n— identificação dos números de controlo dos lotes e das caixas de cartão, com base nos boletins de compra ou de entrada,\n\n— pesagem das paletes (uma em cada dez) e das caixas de cartão (uma por palete),\n\n— verificação visual do conteúdo de uma caixa de cartão (uma caixa por cada cinco paletes),\n\n— verificação do estado das embalagens.\n\n3. O relatório de inspeção deve conter uma descrição dos lotes inspecionados fisicamente e dos defeitos observados.\n\n1. A amostra de lotes a verificar deve representar, pelo menos, 5 % da quantidade em regime de armazenagem pública. A amostra deve ser selecionada antes da visita ao armazém, com base nos dados contabilísticos do organismo pagador, mas o armazenista não deve ser dela informado.\n\n2. A verificação no local da presença dos lotes selecionados e da composição dos mesmos deve ser efetuada da seguinte forma:\n\n— identificação dos números de controlo dos lotes e dos sacos, com base nos boletins de compra ou de entrada,\n\n— pesagem das paletes (uma em cada dez) e dos sacos (um em cada dez),\n\n— verificação visual do conteúdo de um saco (um saco por cada cinco paletes),\n\n— verificação do estado das embalagens.\n\n3. O relatório de inspeção deve conter uma descrição dos lotes inspecionados fisicamente e dos defeitos observados.\n\na) Seleção dos silos ou compartimentos a verificar, que devem representar, pelo menos, 5 % da quantidade total de cereais ou de arroz em regime de armazenagem pública.\n\nb) Inspeção física:\n\n— verificação da presença de cereais ou de arroz nos silos ou compartimentos selecionados,\n\n— identificação dos cereais ou do arroz,\n\n— inspeção das condições de armazenagem e controlo da qualidade dos produtos armazenados nas condições estabelecidas no Regulamento (UE) n.º 1272/2009 ([^15^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0018)),\n\n— comparação do local de armazenagem e da identidade dos cereais ou do arroz com os registos do armazém,\n\n— avaliação das quantidades armazenadas por um método previamente aprovado pelo organismo pagador, cuja descrição deve encontrar-se na sede deste;\n\nc) Em cada local de armazenagem devem estar disponíveis uma planta do armazém e as dimensões de cada silo ou compartimento de armazenagem.\n\nNa verificação volumétrica dos produtos é tolerado um certo desvio.\n\nAs regras do anexo III, ponto II, aplicam-se, portanto, sempre que a massa de cereais ou de arroz armazenados em silos ou em pilhas, determinada na inspeção física, difira em 5 % ou mais da massa contabilística correspondente.\n\nNo caso da armazenagem de cereais ou de arroz, podem registar-se as quantidades determinadas na pesagem à entrada em armazém, em vez das resultantes de uma avaliação volumétrica, se esta não oferecer um grau de exatidão adequado e se a diferença observada entre os dois valores não for excessiva.\n\nO organismo pagador pode recorrer, sob a sua responsabilidade, a esta possibilidade quando as circunstâncias, avaliadas caso a caso, o justificarem. Nesse caso, deve fazer disso menção no relatório da inspeção, servindo-se do seguinte modelo:\n\n| Produto: | Armazenista: Armazém, silo: N.º da unidade de armazenagem: | Data: |\n| --- | --- | --- |\n| Lote | Quantidade indicada na contabilidade de existências: |  |\n\nA. **Existências em silo**\n\n| N.º do compartimento do silo | Volume de acordo com as especificações (m^3^) (A) | Volume livre determinado (m^3^) (B) | Volume de cereais armazenados (m^3^) (A-B) | Massa específica constatada (100 kg/hl) | Massa de cereais ou de arroz |\n| --- | --- | --- | --- | --- | --- |\n\nTotal (A): …\n\nB. **Existências em pilhas**\n\n|  | Compartimento n.º | Compartimento n.º | Compartimento n.º |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Superfície ocupada … Altura: … | …m^2^ … … …m | … …m^3^ … | …m^2^ … … …m | … …m^3^ … | …m^2^ … … …m | … …m^3^ … |\n| …m^2^ … … …m |  |  |  |  |  |  |\n| …m^2^ … … …m |  |  |  |  |  |  |\n| …m^2^ … … …m |  |  |  |  |  |  |\n| Correções: … | …m^3^ | …m^3^ | …m^3^ |  |  |  |\n| Volume: … | …m^3^ | …m^3^ | …m^3^ |  |  |  |\n| Massa específica: … | …kg/hl | …kg/hl | …kg/hl |  |  |  |\n| Massa total | …toneladas | …toneladas | …toneladas |  |  |  |\n\nTotal (B): …\n\nMassa total no armazém: …\n\nDiferença relativamente à massa contabilística: …\n\nEm %: …\n\n…, em [data]\n\n… (Carimbo e assinatura)\n\nInspetor do organismo pagador:\n\n1. A amostra de lotes a verificar deve representar, pelo menos, 5 % da quantidade total em regime de armazenagem pública. A amostra deve ser selecionada antes da visita ao armazém, com base nos dados contabilísticos do organismo pagador, mas o armazenista não deve ser dela informado.\n\n2. No caso da carne desossada, a verificação no local da presença dos lotes selecionados e da composição dos mesmos deve ser efetuada da seguinte forma:\n\n— identificação dos lotes e das paletes e verificação do número de caixas de cartão,\n\n— verificação da massa de 10 % das paletes ou dos contentores,\n\n— verificação da massa de 10 % das caixas de cartão de cada palete pesada,\n\n— verificação visual do conteúdo destas caixas de cartão, bem como do estado das embalagens nas caixas de cartão.\n\n3. O relatório de inspeção deve conter uma descrição dos lotes inspecionados fisicamente e dos defeitos observados."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "e7ba517d77328ba1": {
+   "fragment_id": "PRINCÍPIOS GERAIS E OBRIGAÇÕES RELATIVOS ÀS RESPONSABILIDADES DOS ARMAZENISTAS, A INCLUIR NOS CONTRATOS DE ARMAZENAGEM CELEBRADOS ENTRE ORGANISMOS PAGADORES E ARMAZENISTAS",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS GERAIS E OBRIGAÇÕES RELATIVOS ÀS RESPONSABILIDADES DOS ARMAZENISTAS, A INCLUIR NOS CONTRATOS DE ARMAZENAGEM CELEBRADOS ENTRE ORGANISMOS PAGADORES E ARMAZENISTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS GERAIS E OBRIGAÇÕES RELATIVOS ÀS RESPONSABILIDADES DOS ARMAZENISTAS, A INCLUIR NOS CONTRATOS DE ARMAZENAGEM CELEBRADOS ENTRE ORGANISMOS PAGADORES E ARMAZENISTAS"
+  },
+  "7f4a6817c9e61d29": {
+   "fragment_id": "(Artigo 3.º)",
+   "type": "divisao",
+   "heading": "(Artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 3.º)\n\nO armazenista é responsável pela boa conservação dos produtos objeto de medidas de intervenção da União. O armazenista assume as consequências financeiras da má conservação dos produtos."
+  },
+  "8fb0a465a735aa0d": {
+   "fragment_id": "I. QUALIDADE DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "I. QUALIDADE DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### I. QUALIDADE DOS PRODUTOS\n\nEm caso de deterioração da qualidade dos produtos armazenados em regime de intervenção, devido a condições de armazenagem más ou inadequadas, as perdas serão suportadas pelo armazenista e devem ser contabilizadas nas contas de armazenagem pública como perda resultante da deterioração do produto devido às condições de armazenagem."
+  },
+  "e89a8612e49d6b71": {
+   "fragment_id": "II. QUANTIDADES EM FALTA",
+   "type": "divisao",
+   "heading": "II. QUANTIDADES EM FALTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. QUANTIDADES EM FALTA\n\n1. O armazenista é responsável pelas discrepâncias observadas entre as quantidades em armazém e as indicações constantes das declarações de existências transmitidas ao organismo pagador.\n\n2. Se as quantidades em falta excederem as admitidas pelos limites de tolerância aplicáveis, em conformidade com o artigo 4.º, com o anexo II, secção B, ponto III, n.º 2, e com o anexo IV, ou pela legislação agrícola setorial, o total dessas quantidades deve ser imputado ao armazenista como perda não identificável. Se contestar as quantidades em falta, o armazenista pode exigir a pesagem ou medição do produto, ficando, neste caso, a seu cargo as despesas que esta operação implicar, a menos que se apure que as quantidades indicadas estão, na realidade, presentes ou que a diferença não excede os limites de tolerância aplicáveis; nesse caso, as despesas de pesagem ou medição são imputáveis ao organismo pagador."
+  },
+  "ac32aa7d37f0c126": {
+   "fragment_id": "III. DOCUMENTOS COMPROVATIVOS E DECLARAÇÕES MENSAIS E ANUAL",
+   "type": "divisao",
+   "heading": "III. DOCUMENTOS COMPROVATIVOS E DECLARAÇÕES MENSAIS E ANUAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### III. DOCUMENTOS COMPROVATIVOS E DECLARAÇÕES MENSAIS E ANUAL\n\na) Os documentos relativos à entrada, permanência e saída dos produtos, utilizados para elaborar as contas anuais, devem estar em poder do armazenista e conter, no mínimo, os seguintes elementos:\n\n— local de armazenagem (se for caso disso, identificação do silo ou da cuba),\n\n— quantidade transitada do mês anterior,\n\n— entradas e saídas, por lote,\n\n— existências no fim do período.\n\nb) Os documentos relativos à entrada, permanência e saída dos produtos devem ser transmitidos pelo armazenista ao organismo pagador, no mínimo, uma vez por mês, em complemento de uma declaração recapitulativa mensal das existências. Esses documentos devem estar em poder do organismo pagador antes do dia 10 do mês seguinte àquele a que a declaração das existências diz respeito;\n\nc) Reproduz-se a seguir o modelo (indicativo) de declaração recapitulativa mensal das existências. Os organismos pagadores devem disponibilizá-lo por via eletrónica aos armazenistas.\n\n| Produtos: | Armazenista: Armazém: N.º: Endereço: | Mês: |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Lote | Descrição | Quantidade (kg, toneladas, hl, caixas, peças etc.) | Data | Observações |  |\n| Entrada | Saída |  |  |  |  |\n|  | Quantidade transitada |  |  |  |  |\n|  | Quantidade a transitar |  |  |  |  |\n\na) O armazenista deve elaborar uma declaração anual das existências com base nas declarações mensais descritas no ponto 1. Essa declaração deve ser transmitida ao organismo pagador até ao dia 15 de outubro seguinte ao encerramento do exercício;\n\nb) A declaração anual das existências deve recapitular as quantidades armazenadas, discriminadas por produto e por local de armazenagem, indicando, relativamente a cada produto, as quantidades em armazém, os números dos lotes (exceto no caso dos cereais), o ano da entrada em armazém e uma explicação das anomalias eventualmente detetadas;\n\nc) Reproduz-se a seguir o modelo (indicativo) de declaração recapitulativa anual das existências.\n\n| Produtos: | Armazenista: Armazém: N.º: Endereço: | Ano: |  |\n| --- | --- | --- | --- |\n| Lote | Descrição | Quantidade e/ou massa contabilizadas | Observações |"
+  },
+  "71ec9791d55670d9": {
+   "fragment_id": "IV. CONTABILIDADE INFORMATIZADA DAS EXISTÊNCIAS E DISPONIBILIZAÇÃO DAS INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "IV. CONTABILIDADE INFORMATIZADA DAS EXISTÊNCIAS E DISPONIBILIZAÇÃO DAS INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### IV. CONTABILIDADE INFORMATIZADA DAS EXISTÊNCIAS E DISPONIBILIZAÇÃO DAS INFORMAÇÕES\n\nOs contratos de armazenagem pública celebrados entre organismos pagadores e armazenistas devem conter disposições que permitam garantir o cumprimento da legislação da União.\n\nOs contratos devem estipular o seguinte:\n\n— a manutenção de uma contabilidade informatizada das existências de intervenção,\n\n— a disponibilidade direta e imediata de um inventário permanente,\n\n— a disponibilidade a qualquer momento de todos os documentos relativos à entrada, permanência e saída dos produtos do armazém, bem como dos documentos contabilísticos e dos registos elaborados em aplicação do presente regulamento que se encontrem em poder do armazenista,\n\n— a possibilidade de acesso permanente a esses documentos por parte dos agentes do organismo pagador e da Comissão, bem como de qualquer pessoa devidamente mandatada pelos mesmos."
+  },
+  "9a6f61bdf24a1b7e": {
+   "fragment_id": "V. FORMA E TEOR DOS DOCUMENTOS TRANSMITIDOS AO ORGANISMO PAGADOR",
+   "type": "divisao",
+   "heading": "V. FORMA E TEOR DOS DOCUMENTOS TRANSMITIDOS AO ORGANISMO PAGADOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### V. FORMA E TEOR DOS DOCUMENTOS TRANSMITIDOS AO ORGANISMO PAGADOR\n\nA forma e o teor dos documentos referidos no ponto III, n.^os^ 1 e 2, devem ser estabelecidos em conformidade com o artigo 104.º do Regulamento (UE) n.º 1306/2013."
+  },
+  "425dc811ce4d3e8b": {
+   "fragment_id": "VI. CONSERVAÇÃO DE DOCUMENTOS",
+   "type": "divisao",
+   "heading": "VI. CONSERVAÇÃO DE DOCUMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### VI. CONSERVAÇÃO DE DOCUMENTOS\n\nO armazenista deve conservar os documentos comprovativos das operações de armazenagem pública durante o período exigido pelas normas de apuramento das contas adotadas com base no artigo 104.º do Regulamento (UE) n.º 1306/2013, sem prejuízo das disposições nacionais aplicáveis."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "dc162124483ad0eb": {
+   "fragment_id": "LIMITES DE TOLERÂNCIA",
+   "type": "divisao",
+   "heading": "LIMITES DE TOLERÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LIMITES DE TOLERÂNCIA"
+  },
+  "0a8e210b9104465b": {
+   "fragment_id": "(Artigo 4.º)",
+   "type": "divisao",
+   "heading": "(Artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 4.º)\n\n1. Os limites de tolerância das perdas de quantidades resultantes de operações normais de armazenagem efetuadas de acordo com as regras são fixados, para cada produto agrícola objeto de medidas de armazenagem pública, do seguinte modo:\n\n— cereais, 0,2 %\n\n— arroz *paddy*, milho 0,4 %\n\n— leite em pó desnatado 0,0 %\n\n— manteiga 0,0 %\n\n— carne de bovino 0,6 %\n\n2. A percentagem de perdas admitidas na desossagem da carne de bovino é de 32 % e aplica-se ao conjunto das quantidades desossadas durante o exercício.\n\n3. Os limites de tolerância referidos no n.º 1 são fixados em percentagem da massa real, sem embalagem, das quantidades entradas em armazém e tomadas a cargo durante o exercício, adicionadas das quantidades em armazém no início do exercício.\n\n4. As perdas em número de embalagens ou de peças registadas não são cobertas pela tolerância.\n\n5. As perdas resultantes de furtos e outras perdas resultantes de causas identificáveis não entram no cálculo dos limites de tolerância referidos nos n.^os^ 1 e 2."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "2f43aed6bb865f52": {
+   "fragment_id": "Medidas a que se refere o artigo 10.º",
+   "type": "divisao",
+   "heading": "Medidas a que se refere o artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas a que se refere o artigo 10.º\n\n1. Regimes enumerados no anexo I do Regulamento (CE) n.º 73/2009 e, a partir de 2016, regimes enumerados no anexo I do Regulamento (UE) n.º 1307/2013.\n\n2. Medidas relativas ao desenvolvimento rural ao abrigo da parte II, títulos I e II, do Regulamento (UE) n.º 65/2011 da Comissão ([^16^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#E0019)) e medidas relativas ao desenvolvimento rural referidas no título III, capítulo I, do Regulamento (UE) n.º 1305/2013."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "f33bd0e68a702e97": {
+   "fragment_id": "Medidas a que se refere o artigo 14.º",
+   "type": "divisao",
+   "heading": "Medidas a que se refere o artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas a que se refere o artigo 14.º\n\n1. Reestruturação e reconversão de vinhas, em conformidade com o artigo 46.º do Regulamento (UE) n.º 1308/2013;\n\n2. Colheita em verde, em conformidade com o artigo 47.º do Regulamento (UE) n.º 1308/2013.\n\n---"
+  },
+  "e96da251ffa810c3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho (JO L 347 de 20.12.2013, p. 671).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum e que revoga o Regulamento (CE) n.º 637/2008 do Conselho e o Regulamento (CE) n.º 73/2009 do Conselho (JO L 347 de 20.12.2013, p. 608).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (UE) n.º 228/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio da agricultura a favor das regiões ultraperiféricas da União e revoga o Regulamento (CE) n.º 247/2006 do Conselho (JO L 78 de 20.3.2013, p. 23).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio agrícola a favor das ilhas menores do mar Egeu e revoga o Regulamento (CE) n.º 1405/2006 do Conselho (JO L 78 de 20.3.2013, p. 41).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Regulamento de Execução (UE) n.º 908/2014 da Comissão, de 6 de agosto de 2014, que estabelece as normas de execução do Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que diz respeito aos organismos pagadores e outros organismos, gestão financeira, apuramento das contas, controlos, garantias e transparência (JO L 255 de 28.8.2014, p. 59).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0009)) Regulamento (CE) n.º 3/2008 do Conselho, de 17 de dezembro de 2007, relativo a ações de informação e promoção a favor dos produtos agrícolas no mercado interno e nos países terceiros (JO L 3 de 5.1.2008, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0010)) Regulamento (CEE) n.º 2913/92 do Conselho, de 12 de outubro de 1992, que estabelece o que estabelece o Código Aduaneiro Comunitário (JO L 302 de 19.10.1992, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0011)) Regulamento de Execução (UE) n.º 543/2011 da Comissão, de 7 de junho de 2011, que estabelece regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho nos setores das frutas e produtos hortícolas e das frutas e produtos hortícolas transformados (JO L 157 de 15.6.2011, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0012)) Regulamento (CE) n.º 657/2008 da Comissão, de 10 de julho de 2008, que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos nos estabelecimentos de ensino (JO L 183 de 11.7.2008, p. 17).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0013)) Regulamento (CE) n.º 595/2004 da Comissão, de 30 de março de 2004, que estabelece regras de execução do Regulamento (CE) n.º 1788/2003 do Conselho que institui uma imposição no setor do leite e dos produtos lácteos (JO L 94 de 31.3.2004, p. 22).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0014)) Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») (JO L 299 de 16.11.2007, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0015)) Regulamento (UE) n.º 1272/2009 da Comissão, de 11 de dezembro de 2009, que estabelece regras comuns de execução do Regulamento (CE) n.º 1234/2007 do Conselho no respeitante à compra e venda de produtos agrícolas no quadro da intervenção pública (JO L 349 de 29.12.2009, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0016)) Regulamento (CE) n.º 288/2009 da Comissão, de 7 de abril de 2009, que estabelece normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à ajuda comunitária para a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados, bananas e produtos derivados às crianças nos estabelecimentos de ensino, no quadro do regime de distribuição de fruta nas escolas (JO L 94 de 8.4.2009, p. 38).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0017)) Regulamento Delegado (UE) n.º 906/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, no que respeita às despesas de intervenção pública. (ver página 1 do presente Jornal Oficial).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0018)) Regulamento (UE) n.º 1272/2009 da Comissão, de 11 de dezembro de 2009, que estabelece regras comuns de execução do Regulamento (CE) n.º 1234/2007 do Conselho no respeitante à compra e venda de produtos agrícolas no quadro da intervenção pública (JO L 349 de 29.12.2009, p. 1).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/344ddd8c-15d8-11ec-b4fe-01aa75ed71a1.0019.02/DOC_1#src.E0019)) Regulamento (UE) n.º 65/2011 da Comissão, de 27 de janeiro de 2011, que estabelece as regras de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativas aos procedimentos de controlo e à condicionalidade no que respeita às medidas de apoio ao desenvolvimento rural (JO L 25 de 28.1.2011, p. 8)."
+  },
+  "a15535510b937d5a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02014R0907 — PT — 01.01.2023 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32014R0907) [REGULAMENTO DELEGADO (UE) N.º 907/2014 DA COMISSÃO](http://publications.europa.eu/resource/celex/32014R0907) [de 11 de março de 2014](http://publications.europa.eu/resource/celex/32014R0907) [que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro](http://publications.europa.eu/resource/celex/32014R0907) (JO L 255, 28.8.2014, p.18)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2022/127 da Comissão de 7 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0127) — L 20 — 95 — 31.1.2022"
+  }
+ }
+}

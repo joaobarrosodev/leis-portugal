@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0149:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0149-20091218",
+ "dre_path": null,
+ "source_lastmod": "2009-12-18",
+ "versions": [
+  {
+   "date": "2009-11-28",
+   "future": false,
+   "celex": "32009L0149",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "968d2c3298ec95bc",
+    "79ede1e1f31b3d36",
+    "b843157bcdf45a3b",
+    "241b6f2a74d05a90",
+    "af36f222a0282e3d",
+    "c153df40155684e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "968d2c3298ec95bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro de 2009\n\nque altera a Directiva 2004/49/CE do Parlamento Europeu e do Conselho no que respeita aos indicadores comuns de segurança e aos métodos comuns de cálculo dos custos dos acidentes\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2004/49/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativa à segurança dos caminhos-de-ferro da Comunidade, e que altera a Directiva 95/18/CE do Conselho relativa às licenças das empresas de transporte ferroviário e a Directiva 2001/14/CE relativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação da segurança (Directiva relativa à segurança ferroviária) [([^1])](http://publications.europa.eu/resource/cellar/68385001-131a-4171-bf84-66972e313000.0018.02/DOC_1#ntr1-L_2009313PT.01006501-E0001), nomeadamente o n.º 2 do artigo 5.º,\n\nTendo em conta a recomendação da Agência Ferroviária Europeia (ERA/REC/SAF/02-2008) de 29 de Setembro de 2008,\n\nConsiderando o seguinte:\n\n(1) O n.º 2 do artigo 5.º da Directiva 2004/49/CE, na sua versão corrigida, prevê a possibilidade de se rever o anexo I de forma a incluir definições comuns dos indicadores comuns de segurança (ICS) e métodos comuns para o cálculo dos custos dos acidentes.\n\n(2) Nos termos do n.º 1 do artigo 5.º da Directiva 2004/49/CE, devem ser recolhidas informações sobre ICS para facilitar a avaliação da consecução dos objectivos comuns de segurança (OCS). Em conformidade com o n.º 3 do artigo 7.º dessa directiva, os OCS devem ser acompanhados de uma avaliação do impacto económico em termos de aceitação dos riscos pela sociedade. O principal objectivo dos indicadores comuns de segurança deve ser medir o desempenho em termos de segurança e facilitar a avaliação do impacto económico dos objectivos comuns de segurança. Por conseguinte, em vez de indicadores relacionados com os custos de todos os acidentes suportados pelos caminhos-de-ferro, há que optar por indicadores relacionados com o impacto económico dos acidentes na sociedade.\n\n(3) A atribuição de valores monetários à melhoria da segurança deve ser perspectivada num contexto de recursos orçamentais limitados para acções de política pública. Assim, para seleccionar iniciativas que garantam uma atribuição eficiente dos recursos, torna-se necessário estabelecer uma ordem de prioridades para as diferentes acções.\n\n(4) O artigo 9.º do Regulamento (CE) n.º 881/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que institui a Agência Ferroviária Europeia (Regulamento relativo à Agência) [([^2])](http://publications.europa.eu/resource/cellar/68385001-131a-4171-bf84-66972e313000.0018.02/DOC_1#ntr2-L_2009313PT.01006501-E0002) mandata a Agência para estabelecer uma rede com as autoridades nacionais responsáveis pela segurança e com as autoridades nacionais responsáveis pelos inquéritos, a fim de definir o conteúdo dos indicadores comuns de segurança enumerados no anexo I da Directiva 2004/49/CE. Em resposta a este mandato, a Agência emitiu, em 29 de Setembro de 2008, a sua recomendação sobre a revisão do anexo I da Directiva 2004/49/CE: definições comuns dos indicadores comuns de segurança e métodos comuns para calcular o impacto económico dos acidentes (ERA/REC/SAF/02-2008).\n\n(5) O anexo I da Directiva 2004/49/CE deve, pois, ser alterado.\n\n(6) As medidas previstas na presente directiva são conformes com o parecer do Comité instituído pelo artigo 21.º da Directiva 96/48/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "79ede1e1f31b3d36": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 2004/49/CE é substituído pelo texto do anexo da presente directiva."
+  },
+  "b843157bcdf45a3b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptam e publicam as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 18 de Junho de 2010. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "241b6f2a74d05a90": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor 20 dias após a data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "af36f222a0282e3d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Novembro de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "c153df40155684e7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/68385001-131a-4171-bf84-66972e313000.0018.02/DOC_1#ntc1-L_2009313PT.01006501-E0001) [JO L 164 de 30.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/68385001-131a-4171-bf84-66972e313000.0018.02/DOC_1#ntc2-L_2009313PT.01006501-E0002) [JO L 164 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC)"
+  }
+ }
+}

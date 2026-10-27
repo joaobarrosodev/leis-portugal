@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:860301448:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-863354527",
+ "dre_path": "/dr/detalhe/aviso/19-2024-860301448",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2024-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "863350240"
+   ]
+  }
+ ],
+ "fragments": {
+  "863350240": {
+   "fragment_id": "863354528",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 19/2024/1\n\nPor ordem superior se torna público que, em 7 de dezembro de 2022, a República Francesa notificou o Governo da República Portuguesa, na qualidade de depositário, da sua denúncia do Tratado da Carta da Energia, adotado em Lisboa, a 17 de dezembro de 1994.\n\nNos termos do artigo 47.º, n.º 2, do Tratado da Carta da Energia, a denúncia do Tratado por uma Parte Contratante produz efeitos um ano a contar da data da receção da notificação pelo depositário.\n\nAssim, a denúncia do Tratado pela República Francesa produziu efeitos a 8 de dezembro de 2023."
+  }
+ }
+}

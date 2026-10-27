@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1898:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1898-20260731",
+ "dre_path": null,
+ "source_lastmod": "2026-07-31",
+ "versions": [
+  {
+   "date": "2026-07-31",
+   "future": false,
+   "celex": "02026D1898-20260731",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1cdf04be95d4fb30",
+    "15796c151f8122fb",
+    "717db0ea3ae79105",
+    "10220b9774fa9034",
+    "e3c9d1b748833bf5"
+   ]
+  }
+ ],
+ "fragments": {
+  "1cdf04be95d4fb30": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de julho de 2026,\n\nrelativa à nomeação do diretor da Autoridade para os partidos políticos europeus e as fundações políticas europeias"
+  },
+  "15796c151f8122fb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Philippe MUSQUAR é nomeado diretor da Autoridade para os partidos políticos europeus e as fundações políticas europeias pelo período compreendido entre 1 de setembro de 2026 e 31 de agosto de 2031.\n\n2. O diretor é nomeado como agente temporário no grau AD 12, escalão 1.\n\n3. A nomeação está sujeita à assinatura pelo diretor nomeado da declaração de independência e inexistência de conflito de interesses que consta do anexo da presente decisão."
+  },
+  "717db0ea3ae79105": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "e3c9d1b748833bf5": {
+   "fragment_id": "DECLARAÇÃO DE INDEPENDÊNCIA E INEXISTÊNCIA DE CONFLITO DE INTERESSES",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO DE INDEPENDÊNCIA E INEXISTÊNCIA DE CONFLITO DE INTERESSES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECLARAÇÃO DE INDEPENDÊNCIA E INEXISTÊNCIA DE CONFLITO DE INTERESSES\n\nEu, abaixo assinado,..................................., declaro que tomei conhecimento do disposto no artigo 8.º, n.º 3, do Regulamento (UE, Euratom) 2025/2445 do Parlamento Europeu e do Conselho relativo ao estatuto e ao financiamento dos partidos políticos europeus e das fundações políticas europeias e que desempenharei a função de diretor da Autoridade para os partidos políticos europeus e as fundações políticas europeias («Autoridade») com total independência e em plena conformidade com as regras desse regulamento. Sempre que aja em nome da Autoridade, não solicitarei nem aceitarei instruções de nenhuma instituição ou governo, ou de qualquer outro órgão ou organismo. Abster-me-ei de qualquer ato que seja incompatível com a natureza das minhas funções.\n\nDeclaro que, tanto quanto é do meu conhecimento, não me encontro em situação de conflito de interesses. Existe conflito de interesses sempre que o exercício imparcial e objetivo das funções de diretor da Autoridade se encontre comprometido por motivos que envolvam a família, a vida privada, afinidades políticas, nacionais, filosóficas ou religiosas, interesses económicos ou qualquer outro motivo de comunhão de interesses com um beneficiário de financiamento ao abrigo do Regulamento (UE, Euratom) 2025/2445. Em especial, declaro não ser deputado ao Parlamento Europeu, não ser titular de nenhum mandato eleitoral, nem ser atual ou antigo funcionário de um partido político europeu ou de uma fundação política europeia.\n\nFeito em […],\n\n*[DATA + ASSINATURA*\n\n*do diretor nomeado]*"
+  }
+ }
+}

@@ -1,0 +1,810 @@
+---
+schema_version: '1.0'
+id: pt:dre:248263:por
+title: Decreto-Lei n.º 152/2005
+short_title: null
+summary: Regula a aplicação na ordem jurídica interna do artigo 16.º e do n.º 1 do artigo 17.º do Regulamento (CE) n.º 2037/2000,
+  do Parlamento Europeu e do Conselho, de 29 de Junho, relativo às substâncias que empobrecem a camada de ozono
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 152/2005
+official_date: null
+publication_date: '2005-08-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2005, Série I-A de 2005-08-31
+  number: '167'
+  series: I
+  supplement: null
+  pages: 5284 - 5293
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/08/167a00/52845293.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-01-01'
+version_history:
+  file: decreto-lei-152-2005.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-02-28'
+    amending: pt:dre:247445:por
+    amending_title: Decreto-Lei n.º 35/2008
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 7.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Anexo I
+  - date: '2014-06-01'
+    amending: pt:dre:25345968:por
+    amending_title: Decreto-Lei n.º 85/2014
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 9.º
+  - date: '2018-01-01'
+    amending: pt:dre:114288884:por
+    amending_title: Decreto-Lei n.º 145/2017
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/152/2005/p/cons/20171130/pt/html
+  oj: null
+  dre: '248263'
+  dre_path: /dr/detalhe/decreto-lei/152-2005-248263
+  internal: pt:dre:248263:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263
+  metadata_url: https://data.dre.pt/eli/dec-lei/152/2005/p/cons/20171130/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-114291824
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-114291824
+  retrieved_at: '2026-10-22T12:15:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 61124f1603c87c53f95ddf40b156d8e29fcb4d3800596747145e4b747c1c106f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:15:47Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-152-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assistência Técnica
+- Gestão de Resíduos
+- Certificação Profissional
+- Multa
+- Contra-ordenação
+- Climatização
+- Equipamento Térmico
+- Saúde Pública
+- Especificação Técnica
+- Fiscalização
+- Habilitações Literárias
+- Instituto do Ambiente
+- Licenciamento
+- Instituto dos Resíduos
+- Normas de Segurança
+- Ozono
+- Proteção do Ambiente
+- Qualificação Profissional
+- Madeira.região Autónoma
+- Regime Jurídico
+- Regulamento CE
+- Açores
+- Equipamento de Combate a Incêndios
+relationships:
+- type: amended_by
+  target: pt:dre:247445:por
+  label: Adita Artigo 5.º-A; Adita Artigo 7.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445
+  date: '2008-02-27'
+- type: amended_by
+  target: pt:dre:25345968:por
+  label: Altera Artigo 3.º; Altera Artigo 11.º; Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968
+  date: '2014-05-27'
+- type: amended_by
+  target: pt:dre:114288884:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884
+  date: '2017-11-30'
+- type: cites
+  target: celex:32000R2037
+  label: null
+  source: http://data.europa.eu/eli/reg/2000/2037/oj
+- type: cites
+  target: celex:32067R2015
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:15:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 152/2005
+
+Decreto-Lei n.º 152/2005
+
+de 31 de Agosto
+
+O empobrecimento da camada de ozono provocado pela emissão de certas substâncias para a atmosfera tem como resultado o aumento das radiações UV-B, constituindo uma ameaça grave para a saúde e para o ambiente.
+
+O Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho, relativo às substâncias que empobrecem a camada de ozono, cuja implementação na ordem jurídica interna foi assegurada pelo Decreto-Lei n.º 119/2002, de 20 de Abril, impõe a definição dos requisitos em matéria de qualificações mínimas do pessoal envolvido nas operações de recuperação, reciclagem, valorização e destruição de substâncias que empobrecem a camada de ozono contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores, bem como em equipamento que contenha solventes, e nas operações de manutenção e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias.
+
+O presente diploma procede à necessária regulamentação nacional dos requisitos de qualificações mínimas do pessoal envolvido nas operações em questão. Uma vez que a matéria em causa deve ser da competência do ministério que tutela as questões ambientais, procede-se à alteração do n.º 1 do artigo 5.º do citado Decreto-Lei n.º 119/2002, de 20 de Abril, em conformidade.
+
+Ainda no contexto da aplicação do Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a> e em cumprimento do artigo 4.º do citado Decreto-Lei n.º 119/2002, de 20 de Abril, foi elaborado um plano de acção destinado a promover e optimizar a recuperação para reciclagem, valorização e destruição de substâncias regulamentadas e que agora importa implementar mediante a adopção das medidas neste preconizadas.
+
+Neste contexto, pretende-se clarificar as obrigações dos proprietários e ou detentores de equipamentos contendo substâncias regulamentadas, bem como as obrigações dos técnicos qualificados para intervenções nestes equipamentos e a responsabilidade pela gestão dos resíduos contendo as substâncias regulamentadas, reforçando as disposições legais aplicáveis à sua gestão adequada, adoptando soluções técnicas específicas de gestão dos resíduos em causa e ainda melhorando o sistema de registo de dados e de troca de informação entre as diferentes autoridades competentes com vista à monitorização do cumprimento das disposições legais deste diploma.
+
+Quanto aos equipamentos que contenham solventes, dada a especificidade dos usos das substâncias envolvidas, a definição dos requisitos de qualificações mínimas adequados encontra-se ainda em avaliação, pelo que esta matéria deve ser objecto de legislação própria posterior.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas, a Ordem dos Engenheiros, a Associação Nacional dos Engenheiros Técnicos, a Associação Nacional de Empresas de Protecção Incêndio e a Associação Portuguesa da Indústria de Refrigeração e Ar Condicionado.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma visa regulamentar as operações de recuperação para reciclagem, valorização e destruição de substâncias que empobrecem a camada de ozono contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores e equipamentos que contenham solventes, bem como as operações de manutenção e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias, nos termos dos artigos 16.º e 17.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho.
+
+2 - O presente decreto-lei define igualmente os requisitos de qualificações mínimas do pessoal envolvido nas operações referidas no número anterior, bem como nas operações de trasfega, reciclagem, valorização e destruição das substâncias regulamentadas.
+
+3 - O presente diploma discrimina ainda as obrigações dos proprietários e ou detentores, dos técnicos qualificados e dos operadores de gestão de resíduos intervenientes no ciclo de vida dos equipamentos que contêm as substâncias regulamentadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente diploma, são aplicáveis as definições constantes do Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho.
+
+###### Artigo 3.º — Recuperação, reciclagem, valorização e destruição de substâncias regulamentadas
+
+1 - (Revogado.)
+
+2 - Apenas os técnicos qualificados de acordo com o presente decreto-lei podem assegurar as operações de trasfega, reciclagem, valorização e destruição das substâncias que empobrecem a camada de ozono, as operações de recuperação para reciclagem, valorização e destruição dessas substâncias contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores, bem como as operações de manutenção, reparação e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias, aplicando-se quanto aos equipamentos contendo solventes o disposto no artigo 10.º
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 4.º — Conceito de técnico qualificado
+
+Consideram-se técnicos qualificados os indivíduos que preenchem os requisitos de qualificações mínimas estabelecidos no artigo 5.º e sejam detentores do respectivo certificado nos termos deste diploma.
+
+###### Artigo 5.º — Qualificações mínimas
+
+1 - Os técnicos são qualificados para intervenções de trasfega, reciclagem, valorização e destruição das substâncias que empobrecem a camada de ozono, para as intervenções de recuperação para reciclagem, valorização e destruição, dessas substâncias contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, bem como para as intervenções de manutenção, reparação e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias, nos grupos A, B ou C, nos seguintes termos:
+
+a) O técnico qualificado do grupo A deve possuir um dos seguintes requisitos:
+
+i) Engenheiro, com actividade profissional relevante e continuada em climatização ou refrigeração nos últimos cinco anos reconhecida pela Ordem dos Engenheiros;
+
+ii) Engenheiro técnico, com actividade profissional relevante e continuada em climatização ou refrigeração nos últimos cinco anos reconhecida pela Associação Nacional dos Engenheiros Técnicos;
+
+b) O técnico qualificado do grupo B deve possuir, no mínimo, dois anos de experiência profissional relevante e continuada em sistemas de climatização ou refrigeração, adquirida nos últimos cinco anos e uma qualificação de nível 3, obtida pela via da formação ou do reconhecimento, validação e certificação de competências (RVCC), relativa a uma das seguintes saídas profissionais:
+
+i) Técnico mecânico de frio e climatização;
+
+ii) Técnico de frio e climatização;
+
+iii) Técnico de refrigeração e climatização;
+
+iv) Técnico de climatização;
+
+v) Técnico de refrigeração;
+
+c) O técnico qualificado do grupo C deve possuir, no mínimo, dois anos de experiência profissional relevante e continuada em sistemas de climatização ou refrigeração, adquirida nos últimos cinco anos e uma qualificação de nível 2, obtida pela via da formação ou do reconhecimento, validação e certificação de competências (RVCC), relativa a uma das seguintes saídas profissionais:
+
+i) Electromecânico de refrigeração e climatização;
+
+ii) Electromecânico de refrigeração;
+
+iii) Electromecânico de climatização;
+
+iv) Electromecânico de frio industrial;
+
+v) Montador de máquinas de refrigeração e climatização.
+
+2 - São ainda qualificados para intervir em sistemas fixos de protecção contra incêndios ou extintores os técnicos, dos grupos D ou E, nos termos seguintes:
+
+a) O técnico qualificado do grupo D deve possuir os seguintes requisitos de qualificação cumulativos:
+
+i) Escolaridade mínima obrigatória;
+
+ii) Frequência e aproveitamento em curso de formação específica em manutenção de sistemas fixos de protecção contra incêndios;
+
+iii) Experiência de três anos relevante e continuada adquirida nos últimos cinco anos em manutenção de sistemas fixos de protecção contra incêndios;
+
+b) O técnico qualificado do grupo E deve possuir os seguintes requisitos de qualificação cumulativos:
+
+i) Escolaridade mínima obrigatória;
+
+ii) Frequência e aproveitamento em curso de formação específica em manutenção de extintores;
+
+iii) Experiência de três anos relevante e continuada adquirida nos últimos cinco anos em manutenção de extintores.
+
+3 - Na falta dos requisitos previstos na alínea a) do n.º 1, ou de curso de formação e condições previstas nas alíneas b) e c) do mesmo número, é admitida a qualificação no grupo A, B ou C, respectivamente, a outros licenciados no caso do grupo A ou a técnicos nos casos dos grupos B ou C, todos com experiência profissional relevante e continuada em sistemas de climatização e refrigeração adquirida nos últimos cinco anos, comprovada com a aprovação em exame teórico-prático e análise dos seus curricula, por uma comissão tripartida constituída por um representante da Agência Portuguesa do Ambiente, adiante abreviadamente designada APA, que preside, um representante do Instituto do Emprego e Formação Profissional (IEFP), I. P., e um representante das Associações Sectoriais de Aquecimento, Ventilação e Ar Condicionado (AVAC), designada por Comissão para o Sector da Refrigeração e Ar Condicionado (CRAC).
+
+4 - Na falta dos cursos de formação referidos nas subalíneas ii) das alíneas a) e b) do n.º 2, é admitida a qualificação a técnicos com experiência profissional relevante e continuada em manutenção de sistemas de protecção contra incêndios e extintores nos últimos cinco anos, comprovada com a aprovação em exame teórico-prático e análise dos seus curricula por uma comissão tripartida constituída por um representante da APA, que preside, um representante do IEFP, I. P., e um representante das associações sectoriais representantes das empresas que intervêm em sistemas de protecção contra incêndios e extintores, adiante designada por Comissão para o Sector da Extinção de Incêndios (CEI).
+
+5 - O disposto nos n.os 3 e 4 é aplicável durante um prazo de três anos após a entrada em vigor do presente diploma.
+
+6 - Os técnicos qualificados na categoria I nos termos da alínea a) do n.º 2 do artigo 3.º do Regulamento de Execução (UE) n.º 2015/2067, da Comissão, de 17 de novembro de 2015, podem obter a qualificação nos termos previstos no n.º 1 do presente artigo para os grupos F-A ou F-B, caso satisfaçam os seguintes requisitos:
+
+a) Para efeitos de qualificação no grupo F-A, a detenção de licenciatura em engenharia ou engenharia técnica;
+
+b) Para efeitos de qualificação no grupo F-B, o 12.º ano de escolaridade.
+
+7 - Os técnicos qualificados na categoria I nos termos da alínea a) do n.º 2 do artigo 3.º do Regulamento de Execução (UE) n.º 2015/2067, da Comissão, de 17 de novembro de 2015, estão automaticamente qualificados como técnicos do grupo F-C, devendo requerer a emissão do correspondente certificado à APA, de acordo com o disposto no artigo seguinte.
+
+8 - Os técnicos qualificados na categoria I nos termos da alínea a) do n.º 2 do artigo 3.º do Regulamento de Execução (UE) n.º 2015/2067, da Comissão, de 17 de novembro de 2015, caso pretendam a qualificação nos grupos F-A ou F-B, devem requerer a emissão do correspondente certificado à APA, de acordo com o disposto no artigo seguinte.
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 145/2017 - Diário da República n.º 231/2017, Série I de 2017-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 5.º-A — Competências e funcionamento da CRAC e da CEI
+
+1 - São competências da CRAC e da CEI, na respectiva área de intervenção:
+
+a) Analisar e emitir parecer sobre os requerimentos de qualificação apresentados nas condições previstas nos n.os 3 e 4 do artigo anterior;
+
+b) Analisar e emitir parecer sobre os curricula referidos nos n.os 3 e 4 do artigo anterior;
+
+c) Deliberar, com base nos pareceres referidos nas alíneas anteriores, sobre quais os requerentes que reúnem as condições necessárias para se submeterem aos exames teórico-práticos referidos nos n.os 3 e 4 do artigo anterior;
+
+d) Definir os conteúdos programáticos dos exames teórico-práticos referidos nos n.os 3 e 4 do artigo anterior;
+
+e) Definir os critérios para efeitos da renovação dos certificados, conforme previsto no n.º 3 do artigo 7.º;
+
+f) Analisar e emitir parecer sobre os documentos que comprovam a actualização profissional, nos casos de pedidos de renovação de certificados emitidos ao abrigo dos n.os 3 e 4 do artigo anterior;
+
+g) Deliberar sobre a entidade ou entidades que, em cada ano civil, assegura ou asseguram a realização dos exames teórico-práticos referidos nos n.os 3 e 4 do artigo anterior, bem como a supervisão da ou das mesmas.
+
+2 - O regime de funcionamento da CRAC e da CEI são objecto de regulamento interno a aprovar pelas próprias comissões.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 6.º — Certificado
+
+1 - O reconhecimento como técnico qualificado é da competência da APA, que emite para o efeito um certificado, a disponibilizar por via eletrónica, nos termos do disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual.
+
+2 - Para efeitos de emissão do certificado, o interessado apresenta um requerimento dirigido ao presidente da APA, em formulário de modelo aprovado pela APA e disponibilizado no seu sítio na Internet, acessível através do Balcão do Empreendedor, acompanhado dos documentos comprovativos das condições previstas no artigo anterior.
+
+3 - No caso de o interessado se encontrar nas condições previstas no n.º 3 ou no n.º 4 do artigo 5.º, os requerimentos são apresentados em dois períodos em cada ano, respectivamente durante o mês de Março e Junho, sendo os exames fixados em datas subsequentes a cada um destes períodos.
+
+4 - Os documentos comprovativos da posse das habilitações académicas e profissionais podem ser apresentados em cópia simples, em suporte digital ou de papel, de acordo com o preceito referido no n.º 1.
+
+5 - A APA mantém actualizada a lista dos certificados emitidos com a identificação dos técnicos qualificados e respectiva qualificação e promove a sua divulgação, designadamente por meios electrónicos, sempre que disponíveis.
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 145/2017 - Diário da República n.º 231/2017, Série I de 2017-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 7.º — Período de validade do certificado e renovação
+
+1 - O certificado emitido nos termos do artigo anterior tem a validade de três anos, renovável por iguais períodos.
+
+2 - O pedido de renovação do certificado, acompanhado dos documentos que demonstrem actualização profissional, é apresentado em requerimento dirigido ao presidente da APA, em formulário de modelo aprovado pela APA e disponibilizado no seu site, três meses antes da data do termo da respectiva validade.
+
+3 - A apreciação dos documentos que comprovem a actualização profissional, para efeitos de renovação do certificado, cabe à CRAC ou à CEI, consoante o caso.
+
+4 - A falta de renovação do certificado determina a caducidade do mesmo e a consequente necessidade de emissão de novo certificado, nos termos do artigo anterior.
+
+5 - Sem prejuízo do disposto no n.º 1, nos casos previstos nos n.os 6 a 8 do artigo 5.º, o certificado a emitir tem a validade do certificado emitido nos termos do disposto na alínea a) do n.º 2 do artigo 3.º do Regulamento de Execução (UE) n.º 2015/2067, da Comissão, de 17 de novembro de 2015, caso esta seja inferior a três anos na data da apresentação do requerimento.
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 145/2017 - Diário da República n.º 231/2017, Série I de 2017-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 7.º-A — Taxas
+
+1 - Pela emissão de certificados e suas renovações, bem como pela realização do exame teórico-prático referido nos n.os 3 e 4 do artigo 5.º, são devidas taxas destinadas a custear os inerentes encargos administrativos, a cobrar pela APA nos seguintes termos:
+
+a) Emissão do certificado - (euro) 100;
+
+b) Realização do exame teórico-prático - (euro) 50;
+
+c) Renovação do certificado - (euro) 80.
+
+2 - O valor das taxas previstas no número anterior considera-se automaticamente actualizado todos os anos por aplicação do índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado para a casa decimal superior, devendo a APA proceder à divulgação regular dos valores em vigor para cada ano.
+
+3 - A receita gerada pelas taxas previstas no n.º 1 constitui receita própria e exclusiva das entidades seguidamente identificadas e é afectada do seguinte modo:
+
+a) 100 % para a APA, no caso de emissão ou renovação de certificado ao abrigo dos n.os 1 e 2 do artigo 5.º ou do n.º 2 do artigo 7.º, respectivamente;
+
+b) 55 % para a APA e 45 % repartido em partes iguais para as restantes entidades representadas na CRAC e na CEI, no caso de pedido de emissão de certificado ao abrigo dos n.os 3 e 4 do artigo 5.º ou de renovação dos mesmos nos termos do n.º 3 do artigo 7.º;
+
+c) 100 % para a entidade ou entidades que realizarem os exames teórico-práticos, relativamente à taxa referida na alínea b) do n.º 1.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 9.º
+
+Co-responsabilização dos intervenientes no ciclo de vida dos equipamentos contendo substâncias regulamentadas
+
+1 - O proprietário e ou detentor de um equipamento de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores deve:
+
+a) Recorrer a um técnico qualificado, na acepção do artigo 4.º, para efeitos das operações referidas no artigo 8.º;
+
+b) Proceder à verificação anual do equipamento fixo com uma carga de fluido refrigerante superior a 3 kg para detecção de eventuais fugas de substâncias regulamentadas, recorrendo para o efeito a um técnico qualificado;
+
+c) Encaminhar para um operador de gestão de resíduos licenciado o equipamento que atinge o fim de vida e se transforma num resíduo, directamente ou através de entidades responsáveis por um sistema de gestão de fluxos específicos de resíduos.
+
+2 - O técnico qualificado, na acepção do artigo 4.º, enquanto detentor do resíduo constituído pelas substâncias regulamentadas resultante das intervenções técnicas efectuadas, deve assegurar o seu encaminhamento para operador de gestão de resíduos licenciado.
+
+3 - Os operadores de gestão de resíduos, enquanto detentores de equipamentos em fim de vida que contêm as substâncias regulamentadas, devem:
+
+a) Recorrer a um técnico qualificado, na acepção do artigo 4.º, para efeito das operações de recuperação das substâncias regulamentadas antes de qualquer operação de desmantelamento ou destruição definitiva do referido resíduo, bem como para efeitos de operações de reciclagem, valorização ou destruição;
+
+b) Assegurar a correcta gestão dos resíduos contendo as substâncias regulamentadas.
+
+4 - Todos os intervenientes no circuito de gestão referido nos números anteriores asseguram de forma partilhada a gestão dos resíduos constituídos pelas substâncias regulamentadas e devem adoptar as soluções técnicas que constam do anexo IV do presente diploma, do qual faz parte integrante, aplicáveis ao estádio do seu nível de intervenção e grau de responsabilização.
+
+5 - No âmbito do presente diploma, em matéria de gestão de resíduos é competente o Instituto dos Resíduos.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 8.º — Intervenções técnicas em equipamentos contendo substâncias regulamentadas
+
+1 - As intervenções técnicas em equipamentos de refrigeração e de ar condicionado e bombas de calor devem ser efectuadas pelos técnicos qualificados identificados na alínea a) do anexo i ao presente decreto-lei, do qual faz parte integrante, e segundo a norma EN 378.
+
+2 - As intervenções técnicas em sistemas de protecção contra incêndios e extintores devem ser efectuadas pelos técnicos qualificados identificados na alínea b) do anexo i e segundo as normas NPEN 3-7, NPEN 27201 e NP 4413.
+
+3 - Por cada intervenção, o técnico qualificado deve preencher, em duplicado, uma ficha de modelo constante dos anexos ii e iii ao presente decreto-lei, do qual fazem parte integrante, conforme aplicável.
+
+4 - Os técnicos qualificados conservam um exemplar da ficha e entregam o segundo exemplar ao proprietário e ou detentor do equipamento ou do resíduo de equipamento.
+
+5 - As intervenções técnicas referidas no presente artigo devem acautelar todas as medidas viáveis para evitar ou minimizar as fugas das substâncias regulamentadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 11.º — Fiscalização, contra-ordenações e sanções
+
+1 - Sem prejuízo das contra-ordenações previstas no artigo 8.º do Decreto-Lei n.º 119/2002, de 20 de Abril, bem como nos diplomas legais de gestão de resíduos aplicáveis, constitui contra-ordenação ambiental grave:
+
+a) [Revogada.]
+
+b) A realização de operações de recuperação, reciclagem, valorização e destruição das substâncias regulamentadas contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores por técnicos não qualificados;
+
+c) As intervenções em equipamentos de refrigeração e de ar condicionado e bombas de calor realizadas por técnicos sem as qualificações identificadas na alínea a) do anexo i;
+
+d) As intervenções em equipamentos de refrigeração e de ar condicionado e bombas de calor realizadas sem observância da norma EN 378;
+
+e) As intervenções em sistemas de protecção contra incêndios e extintores realizadas por técnicos sem as qualificações identificadas na alínea b) do anexo i;
+
+f) As intervenções em sistemas de protecção contra incêndios e extintores efectuadas sem observância das normas NPEN 3-7, NPEN 27201 e NP 4413;
+
+g) [Revogada.]
+
+h) [Revogada.]
+
+i) [Revogada.]
+
+j) [Revogada.]
+
+l) Não observância pelos respectivos intervenientes das soluções técnicas aplicáveis constantes do anexo iv.
+
+2 - Constitui contra-ordenação ambiental leve:
+
+a) O não preenchimento da ficha de intervenção a que se refere o n.º 3 do artigo 8.º;
+
+b) A não entrega das fichas de intervenção conforme exigível nos termos do n.º 4 do artigo 8.º
+
+3 - A tentativa e a negligência são puníveis.
+
+4 - À fiscalização, processamento e aplicação das coimas relativas às contra-ordenações previstas no presente artigo são aplicáveis os artigos 7.º e 9.º do Decreto-Lei n.º 119/2002, de 20 de Abril, respectivamente.
+
+5 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
+
+6 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática de infracções graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+7 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 10.º — Equipamentos que contenham solventes
+
+1 - A definição dos requisitos de qualificações mínimas do pessoal envolvido nas operações de recuperação, reciclagem, valorização e destruição das substâncias regulamentadas contidas em equipamentos que contenham solventes é objecto de legislação própria.
+
+2 - Para além do cumprimento da obrigação referida no n.º 1 do artigo 3.º, os proprietários e ou detentores de equipamentos que contenham solventes, bem como os operadores de gestão de resíduos detentores destes equipamentos em fim de vida, devem assegurar a correcta gestão dos resíduos contendo as substâncias regulamentadas, nos termos da legislação de gestão de resíduos aplicável.
+
+###### Artigo 12.º — Aplicação às Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das adaptações que possam ser introduzidas através de diploma regional adequado, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais.
+
+2 - As importâncias cobradas em resultado da aplicação das coimas pelas Regiões Autónomas constituem receita própria.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+###### Artigo 13.º — Alteração ao Decreto-Lei n.º 119/2002, de 20 de Abril
+
+O artigo 5.º do Decreto-Lei n.º 119/2002, de 20 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 5.º
+
+[...]
+
+1 - Compete aos organismos próprios do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional dar cumprimento ao disposto no n.º 5 do artigo 16.º e no n.º 1 do artigo 17.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho, no que respeita às qualificações mínimas do pessoal envolvido nas operações de recuperação, reciclagem, valorização e destruição de substâncias que empobrecem a camada de ozono contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores, bem como em equipamento que contenha solventes, e nas operações de manutenção e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 14.º — Norma revogatória
+
+São revogadas as alíneas i) e j) do n.º 1 e a alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 119/2002, de 20 de Abril.
+
+Visto e aprovado em Conselho de Ministros de 8 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - João Titterington Gomes Cravinho - Luís Manuel Moreira de Campos e Cunha - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
+
+Promulgado em 2 de Agosto de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Agosto de 2005.
+
+Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
+
+## Anexo I — Qualificações dos técnicos necessários, por tipo de intervenção
+
+a) Equipamentos de refrigeração e de ar condicionado e bombas de calor
+
+(ver documento original)
+
+b) Sistemas fixos de protecção contra incêndios e extintores
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 145/2017 - Diário da República n.º 231/2017, Série I de 2017-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445), em vigor a partir de 2008-02-28
+
+## Anexo II — Ficha de intervenção relativa a equipamentos de refrigeração e de ar condicionado e bombas de calor
+
+1 - Identificação do proprietário/detentor do equipamento: ...
+
+2 - Identificação do técnico responsável pela intervenção:
+
+2.1 - Qualificação do técnico: ...
+
+2.2 - Nome, número de identificação fiscal e contacto: ...
+
+3 - Data da intervenção: ...
+
+4 - Localização do equipamento: ...
+
+5 - Características do equipamento (marca, modelo, número de série, etc.): ...
+
+6 - Tipo(s) de intervenção(ões), de acordo com o anexo I: ...
+
+7 - Identificação do agente refrigerante:
+
+a) Designação química: ...
+
+b) Fórmula química: ...
+
+c) Código da Lista Europeia de Resíduos, publicado na Portaria n.º 209/2004, de 3 de Março: ...
+
+8 - Carga do agente refrigerante contida no equipamento: ... (kg).
+
+9 - Capacidade de refrigeração do equipamento: ... (kW).
+
+10 - Quantidade de agente refrigerante:
+
+Recuperado: ... (kg);
+
+Reciclado (recuperado e recarregado): ... (kg);
+
+Valorizado: ... (kg);
+
+Destruído: ... (kg);
+
+Nova carga: ... (kg);
+
+(Identificação do agente refrigerante caso seja substituído.)
+
+11 - Quantidade do agente refrigerante recuperado para efeitos de:
+
+Destruição: ... (kg);
+
+Reciclagem: ... (kg);
+
+Valorização: ... (kg).
+
+12 - Observações: ...
+
+O Técnico Responsável, ...
+
+O Proprietário/Detentor, ...
+
+## Anexo III — Ficha de intervenção relativa a sistemas de protecção contra incêndios e extintores
+
+1 - Identificação do proprietário/detentor do sistema e ou equipamento: ...
+
+2 - Identificação do técnico responsável pela intervenção:
+
+2.1 - Qualificação do técnico: ...
+
+2.2 - Nome, número de identificação fiscal e contacto: ...
+
+3 - Data da intervenção: ...
+
+4 - Localização do sistema e ou equipamento: ...
+
+5 - Características do sistema e ou equipamento: ...
+
+6 - Identificação do agente extintor:
+
+a) Designação química: ...
+
+b) Fórmula química: ...
+
+c) Código da Lista Europeia de Resíduos, publicado na Portaria n.º 209/2004, de 3 de Março: ...
+
+7 - Carga do agente extintor contida no sistema e ou equipamento: ... (kg).
+
+8 - Quantidade de agente extintor:
+
+Recuperado: ... (kg);
+
+Reciclado (recuperado e recarregado): ... (kg);
+
+Valorizado: ... (kg);
+
+Destruído: ... (kg);
+
+Nova carga: ... (kg);
+
+(Identificação do agente extintor caso seja substituído.)
+
+9 - Quantidade do agente extintor recuperado para efeitos de:
+
+Destruição: ... (kg);
+
+Reciclagem: ... (kg);
+
+Valorização: ... (kg).
+
+10 - Observações: ...
+
+O Técnico Responsável, ...
+
+O Proprietário/Detentor, ...
+
+## Anexo IV — Soluções técnicas de gestão de resíduos contendo substâncias que empobrecem a camada de ozono (ODS)
+
+1 - Âmbito. - O Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho, aplica-se a todas as substâncias que empobreçam a camada do ozono (ODS). No quadro n.º 1 apresenta-se uma súmula das substâncias regulamentadas que podem ser encontradas na constituição de resíduos de equipamentos de refrigeração, solventes, espumas e equipamento de combate a incêndios:
+
+QUADRO N.º 1
+
+Distribuição de substâncias regulamentadas por diferentes produtos/equipamentos
+
+(ver quadro no documento original)
+
+2 - Operações de gestão. - A designação das operações a que os resíduos são sujeitos é efectuada na óptica das definições constantes no artigo 2.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho.
+
+Neste contexto, consideram-se as operações de recolha e armazenamento de resíduos como recuperação, a reciclagem é entendida como o processo a partir do qual é possível a reutilização de parte ou da totalidade dos resíduos, as operações de tratamento são designadas como de valorização e as de eliminação como de destruição.
+
+2.1 - Recolha, armazenamento e transporte de resíduos com ODS. - Uma gestão adequada de certos tipos de equipamentos em fim de vida, nomeadamente de refrigeração e de ar condicionado contendo CFC e HCFC, passa pelo respeito de procedimentos adequados na sua recolha, acondicionamento e transporte, no trajecto que os conduz desde o seu utilizador final (doméstico ou industrial) até ao local de valorização e ou reciclagem e, ainda, pela implementação posterior dos requisitos necessários ao seu correcto desmantelamento. Devem ser observadas as condições necessárias para prevenir tanto os danos nos equipamentos como derrames de ODS e dos óleos de lubrificação.
+
+Previamente à reciclagem e ou valorização de equipamentos em fim de vida que contenham substâncias regulamentadas, devem ser observados aspectos essenciais relativos às condições de armazenamento, nomeadamente no que concerne à verificação do seu estado físico e de limpeza, aos procedimentos a levar a cabo durante o período de armazenamento e, ainda, às condições físicas e de segurança do próprio espaço de armazenamento.
+
+Neste sentido, na recolha e armazenamento deste tipo de equipamentos devem ser observados os seguintes aspectos:
+
+Condições prévias de recepção - a recepção dos equipamentos deve encontrar-se sujeita à aplicação efectiva de procedimentos que evitem a danificação da sua estrutura e componentes, assim como prevenir danos sobre o ambiente devidos a eventuais fugas. Em particular, deverão ser implementadas medidas que previnam danos nos circuitos de refrigeração. Devem encontrar-se previstos sistemas de recolha para eventuais fugas de fluidos com utilização de agentes/substâncias de absorção em quantidades suficientes.
+
+Os detentores dos equipamentos em fim de vida devem ser devidamente informados pelos operadores de gestão de resíduos sobre as condições em que devem manter os equipamentos durante o seu transporte e entrega;
+
+Transporte - no transporte destes equipamentos devem ser tomadas precauções especiais no sentido de evitar que perdas líquidas não controladas causem poluição aquática. No sentido de prevenir fugas de CFC e outros poluentes, os equipamentos devem ser convenientemente amarrados no veículo de transporte de forma a evitarem-se danos no equipamento.
+
+Nas operações de carga e descarga destes resíduos para os veículos de transporte os equipamentos não devem sofrer pancadas nem ser invertidos e devem ser colocados de forma segura evitando que escorreguem ou caiam durante o transporte.
+
+Os equipamentos devem ser transportados na vertical, sem ser invertidos e sem exercer pressão nos anéis de refrigeração;
+
+Inspecção - à chegada ao local de armazenamento deve ser efectuada a verificação e registo da existência de danos nos equipamentos ou ocorrência de derrames. Os registos devem especificar a quantidade de equipamentos recebidos, por tipo de refrigerante e por tipo de isolamento;
+
+Limpeza - no caso dos frigoríficos/combinados e arcas congeladoras, as prateleiras e separadores no interior dos equipamentos devem ser retirados (para facilitar a limpeza) e proceder à sua limpeza de modo que sejam retirados quaisquer vestígios de alimentos que ainda se encontrem no seu interior. Este procedimento reduz o risco do desenvolvimento de germes e da produção de odores durante o período de armazenamento;
+
+Armazenagem - nos equipamentos que estejam destinados à remoção de ODS em duas fases (extracção dos fluidos de refrigeração em fase separada do tratamento da espuma de isolamento), a respectiva extracção de gás deve ser efectuada num período que não ultrapasse os três meses.
+
+O armazenamento dos equipamentos antes da extracção de gás deve ser feito em locais com superfícies impermeabilizadas e com sistema de drenagem controlada.
+
+Os equipamentos devem ser armazenados completos (inteiros) e na vertical e o seu empilhamento deve ser efectuado de forma a prevenir situações de fugas de substâncias perigosas, assim como não dificultar ou impedir a execução das operações posteriores de tratamento: altura de empilhamento equivalente à altura de dois equipamentos, cerca de 3,5 m.
+
+Se os equipamentos tiverem sido previamente desmantelados, as condições do armazenamento dos componentes e peças devem assegurar a protecção das espumas, devendo ser removidos todos os objectos cortantes, e a altura de empilhamento das peças deve ser condicionada de modo a evitar o esmagamento das peças;
+
+Segurança - os locais de armazenamento devem evidenciar as condições de segurança no sentido de evitar acessos não autorizados.
+
+No caso de ser garantida a interdição de acessos não autorizados (quando os equipamentos são armazenados no interior de um edifício fechado, por exemplo), não é necessário retirar as portas dos equipamentos frigoríficos.
+
+Nos restantes casos devem ser tomadas medidas no sentido de evitar o encarceramento de crianças no interior de equipamentos, nomeadamente de frigoríficos e arcas, devendo remover-se as portas e ou as borrachas que mantêm as portas fechadas.
+
+Os sistemas de fecho de portas tipo «trinco», existentes em frigoríficos antigos, devem ser retirados antes do armazenamento;
+
+Prevenção de incêndios - nos locais de armazenamento deverão encontrar-se disponíveis e sujeitos a manutenção regular por parte dos bombeiros todos os mecanismos adequados de combate a incêndios.
+
+2.2 - Reciclagem e valorização. - As soluções técnicas apresentadas aplicam-se à recuperação, reciclagem e valorização de ODS contidas em equipamentos de refrigeração em fim de vida e na de equipamentos de combate a incêndios:
+
+Refrigeração
+
+De acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R2037" title="Link para Regulamento da Comunidade Europeia">2037/2000</a>, do Parlamento Europeu e do Conselho, de 29 de Junho, a partir de 1 de Janeiro de 2001, os CFC recuperados devem ser destruídos a partir de tecnologias ambientalmente adequadas. Quanto aos HCFC, poder-se-á, até 2015, optar pela sua destruição ou reutilização. A partir de 1 de Janeiro de 2015 serão proibidos todos os hidroclorofluorocarbonos.
+
+A recuperação de ODS deve ser efectuada com o menor número possível de etapas, devendo, a partir do momento em que seja iniciado, ser minimizados os tempos de armazenamento entre essas etapas.
+
+Apresenta-se uma lista hierárquica preferencial relativa às alternativas a considerar na recuperação de ODS:
+
+1) Tratamento de ODS em equipamentos não danificados em unidade de tratamento com sistema de desgaseificação integrado e totalmente automática;
+
+2) Incineração do equipamento completo (intacto e não danificado);
+
+3) Desgaseificação, seguida de recuperação de ODS e deposição noutro local;
+
+4) Processamento manual dos equipamentos, corte e desmantelamento para recuperação de ODS e deposição noutro local.
+
+Para atingir uma boa eficiência na recuperação de ODS, a extracção do gás refrigerante deve ser efectuada durante a mesma etapa em que se extrai o óleo de lubrificação, com um mínimo de 90% em peso do óleo que está a ser extraído do sistema.
+
+A regulamentação de ODS nos equipamentos de refrigeração abrange quer as substâncias do fluido refrigerante contido nos sistemas de refrigeração quer as contidas na espuma de isolamento.
+
+A idade dos equipamentos pode fornecer uma indicação sobre as substâncias presentes nas espumas de isolamento de frigoríficos e congeladores, podendo ser identificadas a partir de quatro tecnologias principais de produção:
+
+CFC-11 - equipamentos fabricados antes de 1990;
+
+CFC-11 reduzido - equipamentos fabricados entre 1991 e 1994;
+
+HCFC-14b - equipamentos fabricados a partir de 1994;
+
+Misturas de ciclopentanos - equipamentos fabricados a partir de 1994.
+
+As misturas de hidrocarbonetos aparecem actualmente como alternativa de substituição na utilização de HCFC-14b, a qual foi eliminada a partir de 1 de Janeiro de 2003.
+
+Para os fluidos refrigerantes, as opções no fabrico destes equipamentos ao longo do tempo têm sido as seguintes:
+
+CFC-12 - equipamentos fabricados antes de 1990;
+
+HCFC-22 - equipamentos fabricados após 1990;
+
+HFC-134a - equipamentos fabricados após 1995;
+
+Isobutano ou outros hidrocarbonetos - equipamentos fabricados após 1995.
+
+No que diz respeito ao processo de recuperação de ODS nos equipamentos de refrigeração, devem considerar-se duas etapas: a extracção do gás refrigerante (desgaseificação) e a recuperação das substâncias contidas nas espumas de isolamento.
+
+Etapa n.º 1 - Extracção do gás refrigerante
+
+Existem duas alternativas do processo de extracção do gás:
+
+A - Remoção do refrigerante e do óleo durante a mesma etapa;
+
+B - Remoção do refrigerante e do óleo em etapas diferentes.
+
+1 - A extracção do refrigerante e do óleo durante a mesma etapa permite obter uma maior eficiência de recuperação a partir da utilização de sucção em vácuo, sendo o aproveitamento da pressão inicial do sistema a forma mais eficiente da remoção do óleo.
+
+2 - Antes do processo de extracção do gás, a temperatura do óleo deve estar pelo menos a 5ºC (alternativa A).
+
+3 - O processo de extracção deve ser levado a cabo numa área fechada em que seja possível a captura e recuperação de emissões de substâncias regulamentadas (por exemplo, por adsorção ou condensação) para deposição posterior (alternativa B).
+
+4 - Os processos de extracção devem ser executados de forma consecutiva e sem intervalo de tempo entre si (alternativa B).
+
+5 - No processo de extracção de gás, as emissões de ODS devem ser limitadas a um máximo de 5 g por equipamento (alternativa B).
+
+6 - Os fluxos de ar devem ser controlados de forma a evitar o desenvolvimento de concentrações atmosféricas de gás refrigerante que possam representar algum perigo. Isto pode acontecer, por exemplo, quando se procede à extracção de hidrocarbonetos (alternativa B).
+
+7 - De forma a reduzir a viscosidade do óleo antes de proceder à extracção de gás, a temperatura do óleo deve ser elevada a 20ºC antes do início do processo de desgaseificação.
+
+8 - Após a extracção da mistura óleo-refrigerante ter sido efectuada, as duas fracções devem ser separadas o mais rapidamente possível de forma a permitir extrair a maior quantidade possível de refrigerante do óleo (alternativas A e B).
+
+9 - A percentagem remanescente no óleo não deve ultrapassar 0,9% em peso (alternativas A e B).
+
+10 - Devem ser efectuados registos relativamente ao óleo e ao refrigerante removidos sobre as quantidades, origens, destinos, frequência de extracção, modo de transporte e métodos de tratamento (alternativas A e B).
+
+11 - Devem ser implementados e mantidos registos de resíduos encaminhados (alternativas A e B).
+
+12 - As áreas de armazenagem devem ser devidamente delimitadas e os recipientes etiquetados de forma clara e inequívoca.
+
+13 - Os recipientes de armazenamento, cilindros, tambores, etc., devem encontrar-se em boas condições e sujeitos a inspecção periódica.
+
+Os refrigerantes gasosos são mais difíceis de condicionar do que os agentes expansores, que são líquidos. A alternativa A possui um melhor desempenho, alcançando perdas de ODS, por equipamento, de 1,17 g no refrigerante e de 0,14 g no óleo. Em qualquer situação, as perdas não devem ultrapassar a gama dos 1,5 g-3,5 g por equipamento.
+
+Etapa n.º 2 - Recuperação de ODS nas espumas de isolamento
+
+Após a drenagem do sistema refrigerante o compressor deve ser removido do equipamento e colocado num contentor selado.
+
+Os comutadores ou outros componentes que contenham mercúrio devem ser removidos do equipamento e colocados em contentor adequado antes da respectiva destruição.
+
+Todos os condensadores e componentes electrónicos devem ser retirados dos equipamentos.
+
+Unidades de tratamento totalmente automáticas
+
+A capacidade de processamento de uma unidade totalmente automática típica pode processar entre 60 e 100 módulos por hora. Em primeiro lugar, os equipamentos são esmagados ou triturados e depois enviados para um moinho. Os metais ferrosos e não ferrosos são separados nesta fase, juntamente com as fracções em plástico. A espuma propriamente dita é separada a partir da utilização de um separador de ar, sofrendo depois uma moagem; o pó assim produzido é normalmente encaminhado para um ciclone, para extracção de quantidades residuais de agente espumante. As ODS libertadas nesta fase são recolhidas através de sistemas de filtros regenerativos e de condensadores. Devido às diferenças entre os pontos de ebulição respectivos, a condensação da água ocorre em primeiro lugar e em seguida a dos agentes expansores. Refrigerante e água devem ser recuperados separadamente.
+
+Sendo que o objectivo pretendido é reduzir ao mínimo as perdas de ODS, numa unidade de tratamento totalmente automática deve ser efectuada a monitorização das quantidades destas substâncias em cada sector/actividade relevante da unidade, de acordo com o quadro n.º 2:
+
+QUADRO N.º 2
+
+Monitorização de perdas de ODS numa unidade de tratamento totalmente automática
+
+(ver quadro no documento original)
+
+Unidades de tratamento semiautomáticas ou manuais
+
+Os processos manuais podem ser distinguidos em duas classes:
+
+1) Desmantelamento discreto e parcial dos equipamentos - em que os componentes com espuma são expedidos para processamento completo numa unidade de tratamento semiautomática ou totalmente automática;
+
+2) Desmantelamento manual - que precede o envio directo para incineração das espumas e outros componentes.
+
+O princípio de reduzir ao mínimo as perdas de ODS é igualmente importante neste tipo de processamento. Deve ser garantido que o desmantelamento de frigoríficos e congeladores mantenha os níveis de perdas de espumas, contidas nos componentes de metal e plástico do equipamento, o mais baixo possível. O poliuretano, no entanto, é um adesivo natural e os agentes expansores mantêm-se de forma significativa dissolvidos na matriz de poliuretano. O processo de desmantelamento estritamente manual não permite a recuperação ou a destruição das espumas contidas nos equipamentos. A menos que o operador consiga demonstrar que cumpre os requisitos exigidos para as unidades totalmente automáticas, os processos de desmantelamento manual ou semiautomático não deverão ser implementados.
+
+Halons
+
+O uso de halons encontra-se hoje restrito à necessidade de responder a situações críticas com aplicação na protecção civil ou actividade militar, tendo sido proibida a sua produção. Enquanto não se encontrarem soluções completas em substâncias alternativas, a reciclagem e valorização de halons constitui um bom método para suprir futuras necessidades críticas. Por outro lado, a reciclagem é uma melhor alternativa à destruição.
+
+A reciclagem de halons consiste na remoção de contaminantes (óleos, hidrogénio, partículas) a partir de um processo de refrigeração e filtração de forma que o halon possa de novo ser re-introduzido num sistema de combate a incêndio. A valorização dos halons envolve o seu reprocessamento com a consequente produção de um produto com novas especificações através de processos de filtração, destilação, refrigeração e vaporização. Se o halon se mantiver contaminado, então a única solução possível é a sua destruição.
+
+Para a reciclagem de halons, o sistema de bombagem deve permitir a transferência rápida e eficiente do halon líquido e gasoso do recipiente para o equipamento de reciclagem. O sistema de reciclagem pode incluir dois módulos funcionando de forma automática: 1) remoção de contaminantes por processo de filtração, e 2) remoção de hidrogénio por condensação do halon e purga do hidrogénio. A substituição dos filtros deve ser feita sem libertação de halons.
+
+2.3 - Destruição. - As substâncias fluoradas, como os CFC, são conhecidas pelas suas excelentes características de estabilidade. Esta vantagem, que se verifica durante a sua utilização, revela-se uma desvantagem quando o produto ou o equipamento onde se encontram atingem o seu fim de vida.
+
+Nos países partes do Protocolo de Montreal a destruição de ODS deve ser efectuada de acordo com as tecnologias aprovadas pelo Protocolo. A maioria das tecnologias actualmente utilizadas agrupa-se entre várias categorias de incineração e tecnologias de utilização de plasma. As tecnologias de destruição aprovadas no âmbito do Protocolo de Montreal e a sua aplicabilidade para os grupos de ODS mais relevantes encontram-se sumarizadas no quadro n.º 3:
+
+QUADRO N.º 3
+
+Tecnologias de destruição aceites no âmbito do Protocolo de Montreal
+
+(ver quadro no documento original)

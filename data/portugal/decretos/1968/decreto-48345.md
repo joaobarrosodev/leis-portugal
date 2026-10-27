@@ -1,0 +1,478 @@
+---
+schema_version: '1.0'
+id: pt:dre:234721:por
+title: Decreto n.º 48345
+short_title: null
+summary: Autoriza a Administração dos Portos do Douro e Leixões a promover o desenvolvimento dos estudos em curso para a revisão
+  total do regulamento das tarifas praticadas nos portos sob a sua jurisdição e introduz alterações no regulamento aprovado
+  pelo Decreto n.º 26747 - Revoga o Decreto n.º 35842
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Administração dos Portos do Douro e Leixões
+proposing_entity: null
+official_number: '48345'
+official_date: null
+publication_date: '1968-04-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 95/1968, Série I de 1968-04-20
+  number: '95'
+  series: I
+  supplement: null
+  pages: 560 - 562
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/04/09500/05600562.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '234721'
+  dre_path: /dr/detalhe/decreto/48345-1968-234721
+  internal: pt:dre:234721:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48345-1968-234721
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48345-1968-234721
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 230e6cb352c3100d39610599fb9d04126c62d79692df4d02ddb858cfa65efcf5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
+relationships:
+- type: amended_by
+  target: pt:dre:252058:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:141592:por
+  label: "Alterados os artigos 16.º, 63.º, 64.º, 65.º, 66.º, 67.º, 68.º, 69.º, 70.º e 71.º e aditados os artigos 71.º-A e\
+    \ 71.º-B todos do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo Decreto 26747,\
+    \ de 06 de Julho 1936, DG.IS [156], na redacção do Decreto 35842, de 30 de Agosto 1946 pelo DEC.341/70.17.07.1970.MCOMN,\
+    \ DG.IS [165] de 17.07.1970\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/341-1970-141592
+  date: '1970-07-17'
+- type: amended_by
+  target: pt:dre:633370:por
+  label: "Alterados os artigos 39.º e 48.º do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões aprovado\
+    \ pelo Decreto 26747, de 06 de Julho 1936, na redacção do presente diploma, pelo DEC.432/71.29.09.1971.MCOMN, DG.IS [242]\
+    \ de 14.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/432-1971-633370
+  date: '1971-09-29'
+- type: amended_by
+  target: pt:dre:480771:por
+  label: "Alterados os artigos 53.º, 54.º, 91.º, 92.º, 93.º, 115.º, 123.º e 124.º do Decreto 26747, de 06 de Julho 1936, na\
+    \ redacção do presente diploma pelo DEC.3/76.19.12.1975.MTC, DG.IS [2] de 03.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-1976-480771
+  date: '1975-12-19'
+- type: cites
+  target: pt:dre:157025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252058:por
+  label: "Revogado pelo DR.28/77.03.05.1977.MCT, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1977-252058
+  date: '1977-05-03'
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:02:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48345
+
+O regulamento de tarifas pelo qual são cobradas as receitas de exploração da Administração dos Portos do Douro e Leixões foi aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936. Dez anos depois, em 30 de Agosto de 1946, foi publicado o [Decreto n.º 35842](https://diariodarepublica.pt/dr/detalhe/decreto/35842-1946-157025), para actualizar algumas tarifas, aquelas que, por corresponderem a serviços com grande despesa de material e mão-de-obra, estavam fortemente deficitárias em consequência da alteração de valores provocada pela guerra. Passaram sobre isso mais de vinte anos, durante os quais o movimento dos portos do Douro e Leixões cresceu de 900000 t anuais a mais de 2800000 t. As obras de ampliação e melhoramento, o apetrechamento e a organização dos portos aumentaram a rapidez, a eficiência e a segurança dos serviços prestados.
+
+O custo dos materiais e o da mão-de-obra subiram consideràvelmente, mas estes aumentos não tiveram expressão final equivalente na ordem de grandeza dos preços de custo dos serviços por que foram compensados pelo grande aumento na quantidade desses serviços e pelas economias introduzidas na sua organização.
+
+Apesar disso, impõem-se alguns reajustamentos em várias tarifas para que a exploração se não torne muito deficitária, como em alguns casos já sucede.
+
+O estudo para uma revisão do regulamento de tarifas é demorado e os trabalhos em curso têm de basear-se no cálculo da rentabilidade das mesmas.
+
+A necessidade de cobertura financeira para os elevados gastos com obras indispensáveis nos portos de Leixões e do Douro, contempladas no III Plano de Fomento, levou o Conselho de Ministros para os Assuntos Económicos a aprovar, em 2 de Novembro de 1967, uma proposta do Ministro das Comunicações, na qual, entre outras medidas, se previu um aumento global de 15 por cento nas tarifas de exploração.
+
+Esse aumento já obtivera parecer favorável da junta consultiva daqueles portos, em sua reunião de 18 de Novembro de 1963, de acordo com o exigido pelo artigo 13.º, n.º 1.º, do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), de 2 de Julho de 1948.
+
+Nestes termos e nos da alínea 13.º do artigo 8.º da [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), de 20 de Julho de 1948;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º A Administração dos Portos do Douro e Leixões promoverá o desenvolvimento dos estudos em curso para a revisão total do regulamento das tarifas praticadas nos portos sob sua administração.
+
+Art. 2.º Entretanto, como primeira parte dessa revisão, os artigos abaixo indicados do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, são alterados pela seguinte forma:
+
+...
+
+Art. 26.º A taxa de acostagem no primeiro período de cinco dias, indivisível, e por tonelada de arqueação bruta, é de $40.
+
+...
+
+Art. 39.º Além das 24 horas, toda a mercadoria armazenada de modo que o espaço de terreno ou de cais ocupado pela mesma ou por outra mercadoria pertencente ao mesmo expedidor, transportador, consignatário ou destinatário não tenha ficado livre e desembaraçado pagará a seguinte taxa de armazenagem:
+
+a) Primeiro período - pelos primeiros sete dias a seguir ou fracção e por cada metro quadrado ... 1$00
+
+b) Segundo período - pelos sete dias a seguir ao primeiro período ou fracção e por cada metro quadrado ... 1$50
+
+c) Terceiro período - pelos quinze dias a seguir ao segundo período ou fracção e por cada metro quadrado ... 2$50
+
+d) Quarto período - pelos trinta dias a seguir ao terceiro período ou fracção e por cada metro quadrado ... 5$00
+
+e) Quinto período e outros a seguir por cada trinta dias ou fracção e por cada metro quadrado ... 7$50
+
+...
+
+Art. 48.º ...
+
+§ 1.º Quando se tratar de pesagem de mercadoria que não possa ser efectuada senão em básculas, a taxa a aplicar será de 3$00 por pesada.
+
+§ 2.º ...
+
+...
+
+Arts. 53.º e 54.º A guindagem de mercadoria com os aparelhos da Administração dos Portos do Douro e Leixões será tarifada a 6$00 por tonelada quando o seu rendimento horário for igual ou superior a 15 t e a 90$00 por hora quando for inferior.
+
+...
+
+Art. 63.º Os serviços de reboque fora dos portos do Douro e Leixões estão sujeitos por cada rebocador empregado à seguinte taxa, por horas e meias horas, com o mínimo cobrável de uma hora:
+
+Preço total, em escudos, por hora:
+
+800 + 0,08 T,
+
+sendo T a tonelagem bruta ou de deslocação, conforme se trate de navios mercantes ou de guerra.
+
+§ único. O tempo será contado desde a hora da largo da amarração até à hora de amarrar, na volta.
+
+Art. 64.º A taxa de aluguer dos rebocadores fora dos portos, sem reboque, aplicável por horas e meias horas, é de 800$00 por hora, com o mínimo cobrável de uma hora.
+
+Art. 65.º O reboque de fragatas entre, os portos do Douro e Leixões é tarifado pela tarifa geral do artigo 63.º modificado, mas contar-se-á apenas o tempo de reboque efectivo.
+
+...
+
+Art. 67.º A taxa de rebocador à ordem é de 180$00 por hora, aplicável por fracções mínimas de quarto de hora.
+
+Art. 68.º As tarifas dos rebocadores em serviço dentro dos portos são as seguintes:
+
+a) Com reboque, por hora ... 300$00
+
+b) Sem reboque, por hora ... 250$00
+
+c) Reboque para entrada e saída de navios nas docas n.os 1 e 2 ou para atracação e desatracação ao cais do molhe sul, pelas fórmulas seguintes, em escudos, com o mínimo cobrável de ... 260$00
+
+Navios de 500 a 2000 t:
+
+100 + 0,32 T.
+
+Navios de mais de 2000 t:
+
+340 + 0,2 T,
+
+sendo T a tonelagem bruta no caso dos navios mercantes ou o deslocamento nos navios de guerra.
+
+Art. 69.º As taxas de aluguer das lanchas com motor em serviço nos portos são as seguintes:
+
+a) Por qualquer serviço, cada hora ... 190$00
+
+b) Por serviço de atracação de navios aos cais ou de largada, independentemente do tempo empregado ... 190$00
+
+...
+
+Art. 71.º A taxa de lancha à ordem é de 68$00 por cada hora, com a fracção mínima de um quarto de hora.
+
+...
+
+Art. 81.º Pelas primeiras duas horas normais (mínimo cobrável), compreendendo barco, bomba, vestido e aprestos, bem como o pessoal de tripulação (seis homens), o preço do serviço de um mergulhador requisitado à Administração dos Portos do Douro e Leixões é de 1300$00.
+
+Por cada hora a seguir (indivisível), dentro das horas normais, o preço é de 300$00.
+
+...
+
+Arts. 91.º, 92.º e 93.º Pelo fornecimento de água cobrar-se-ão as seguintes taxas:
+
+a) Por terra, nos cais e por cada metro cúbico:
+
+A embarcações de pesca ... 4$80
+
+A quaisquer outras ... 7$20
+
+b) Por barca-cisterna e por cada metro cúbico:
+
+A embarcações de pesca ... 13$50
+
+A quaisquer outras ... 18$00
+
+sendo de 5 m3 o mínimo facturável nos fornecimentos por barca-cisterna.
+
+...
+
+Art. 98.º Pelo aluguer das máquinas, ferramentas e utensílios abaixo designados cobrar-se-ão as seguintes taxas por cada dia, completo ou incompleto:
+
+Alavancas, pés-de-cabra, etc. ... 4$00
+
+Amarrações com bóia, até 500 t ... 110$00
+
+Amarrações de 500 a 1000 t ... 200$00
+
+Ancoras até 100 kg ... 8$00
+
+Ancoras de 100 a 500 kg ... 14$00
+
+Ancoras de 500 a 1000 kg ... 18$00
+
+Ancoras de 1000 a 1500 kg ... 22$00
+
+Ancoras de 1500 a 3600 kg ... 60$00
+
+Ancoras de 3600 a 5000 kg ... 100$00
+
+Aparato para descarga de vagões ... 120$00
+
+Aparato para descarga de automóveis ... 80$00
+
+Aparato para tabuleiros ... 30$00
+
+Balanças de pesagem e respectivo jogo de pesos ... 50$00
+
+Baldes de ferro ... 20$00
+
+Barris para água ... 5$00
+
+Bate-estacas de madeira (incluindo guincho, cabo e peso) ... 50$00
+
+Bombas centrífugas, tipos BCa e BCc ... 7$00
+
+Busca-vidas, fateixas, arpéus ... 5$00
+
+Cabos para amarração (springs) ... 120$00
+
+Cadernal de quatro gornes ... 75$00
+
+Calhas ... 11$00
+
+Carros de mão ... 8$00
+
+Carros de mão com rodas de borracha e rolamentos ... 15$00
+
+Cavaletes, pranchas móveis ... 18$00
+
+Carrelas ... 15$00
+
+Carretas ... 20$00
+
+Cesta automática de maxilas ... 200$00
+
+Chaves alemãs, inglesas e francesas ... 4$00
+
+Corta-arame, escopros, martelos e maços ... 3$00
+
+Defensas flutuantes ... 40$00
+
+Encerados ... 20$00
+
+Esmerilador eléctrico portátil ... 30$00
+
+Esticadores ... 5$00
+
+Estropos de aço até 20 mm ... 14$00
+
+Estropos de aço além de 20 mm ... 24$00
+
+Estropos de massa ... 14$00
+
+Explosor eléctrico (incluindo fio para ligação) ... 10$00
+
+Faróis de petróleo, gasómetros de acetileno ... 10$00
+
+Fita métrica ... 8$00
+
+Forja volante ... 12$00
+
+Ganchos para algodão ... 14$00
+
+Garras para rolos de papel ... 30$00
+
+Garibaldi de 500 kg ... 25$00
+
+Garibaldi de 2000 gk ... 40$00
+
+Garibaldi de 4000 kg ... 50$00
+
+Garibaldi de 5000 kg ... 50$00
+
+Garibaldi de 10000 kg ... 80$00
+
+Guincho manual singelo ... 12$00
+
+Guincho manual dobrado ... 18$00
+
+Guincho manual tipo GYd ... 30$00
+
+Guindaste manual ... 40$00
+
+Lingas de corrente para 3 t ... 14$00
+
+Lingas de corrente para 10 t ... 24$00
+
+Lingas de corrente para mais de 10 t ... 70$00
+
+Macacos de forqueta ou de manivela ... 5$00
+
+Macaco hidráulico para 5 t ... 10$00
+
+Macaco hidráulico para 25 t ... 25$00
+
+Macaco hidráulico para 50 t ... 25$00
+
+Macaco hidráulico para 70 t ... 35$00
+
+Macaco hidráulico para 100 t ... 40$00
+
+Macaco hidráulico para 150 t ... 50$00
+
+Macaco hidráulico para 200 t ... 70$00
+
+Marteletes perfuradores ou demolidores ... 140$00
+
+Mordentes para descarga de chapa ... 24$00
+
+Pás, picaretas, enxadas, gadanhos ... 4$00
+
+Patolas para barris ... 14$00
+
+Patolas para cascos ... 14$00
+
+Pranchas para passageiros ... 30$00
+
+Redes para carga e descarga ... 16$00
+
+Rolos de madeira ... 5$00
+
+Serras, tesouras, trados, torqueses ... 4$00
+
+Sonda manual completa ... 30$00
+
+Tabuleiros e caixas para descarga ... 12$00
+
+§ 1.º O tempo de aluguer das ferramentas, máquinas e utensílios é contado desde o dia da sua saída do respectivo depósito até ao seu regresso ao mesmo depósito, quer o material tenha sido utilizado, quer não.
+
+§ 2.º ...
+
+...
+
+Art. 115.º ...
+
+...
+
+i) Ocupação acidental com vasilhame na rampa do pescado, em Matosinhos - por metro quadrado e por dia ... $50
+
+j) Ocupação com materiais de construção, matérias-primas, artigos de consumo, etc.:
+
+1) Em Leixões, por metro quadrado e por ano ... 24$00
+
+2) No Douro, por metro quadrado e por ano ... 18$00
+
+Art. 3.º Ao mesmo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, são aditados os seguintes artigos:
+
+## TÍTULO XI — Transportes automóveis
+
+Art. 123.º As tarifas de transportes automóveis de mercadorias dentro das zonas dos portos e nas horas normais são:
+
+a) Empilhadores:
+
+Carga ou descarga - 6$00 por tonelada.
+
+Carga ou descarga e arrumação - 7$00 por tonelada.
+
+b) Tractores com atrelados:
+
+Transporte - 6$00 por tonelada.
+
+c) Empilhadores e tractores com atrelados (trabalhando conjuntamente):
+
+Carga, transporte, descarga e arrumação - 10$00 por tonelada.
+
+d) Camiões basculantes:
+
+Transporte (até 1 km) e descarga - 7$00 por tonelada.
+
+§ único. Os atrelados que, no fim do transporte diário, forem deixados carregados pagam 30$00/dia.
+
+Art. 124.º Quando os serviços dos aparelhos de transporte automóvel forem prestados fora das zonas dos portos, as tarifas a aplicar são, desde a saída até à entrada na recolha ou nos serviços:
+
+Empilhadores de capacidade superior a 4 t - 120$00/hora.
+
+Empilhadores de capacidade igual ou inferior a 4 t - 80$00/hora.
+
+Tractores - 80$0/hora.
+
+Atrelados - 50$00/dia.
+
+Art. 125.º Fora das horas normais de trabalho, quando os aparelhos de transporte automóvel estejam requisitados e prontos a prestar serviço, mas não sejam utilizados pelo requisitante, é devida a seguinte tarifa de aparelhos à ordem:
+
+Empilhadores de capacidade superior a 4 t - 30$00/hora.
+
+Empilhadores de capacidade igual ou inferior a 4 t - 24$00/hora.
+
+Tractores - 24$00/hora.
+
+Art. 126.º Fora das horas normais de trabalho, as tarifas do artigo 123.º são aumentadas 1$00 por tonelada e as do artigo 124.º são aumentadas de 10 por cento.
+
+Art. 4.º Estas alterações tarifárias entrarão em vigor no primeiro dia do mês seguinte ao da publicação deste diploma.
+
+Art. 5.º Fica revogado o [Decreto n.º 35842](https://diariodarepublica.pt/dr/detalhe/decreto/35842-1946-157025), de 30 de Agosto de 1946.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 20 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

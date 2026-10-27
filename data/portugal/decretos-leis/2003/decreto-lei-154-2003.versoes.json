@@ -1,0 +1,755 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:671576:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-213917315",
+ "dre_path": "/dr/detalhe/decreto-lei/154-2003-671576",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213917520",
+    "213917521",
+    "213917522",
+    "213917523",
+    "213917524",
+    "213917525",
+    "213917526",
+    "213917527",
+    "213917528",
+    "213917529",
+    "213917530",
+    "213917531",
+    "213917532",
+    "213917533",
+    "213917534",
+    "213917535",
+    "213917536",
+    "213917537",
+    "213917538",
+    "213917539",
+    "213917540",
+    "213917541",
+    "213917542",
+    "213917543",
+    "213917544",
+    "213917545",
+    "213917546",
+    "213917547",
+    "213917548",
+    "213917549",
+    "213917550",
+    "213917551",
+    "213917552",
+    "213917553",
+    "213917554",
+    "213917555",
+    "213917556",
+    "213917557",
+    "213917558",
+    "213917559",
+    "213917560",
+    "213917561",
+    "213917562",
+    "213917563",
+    "213917564",
+    "213917565",
+    "213917566",
+    "213917567",
+    "213917568",
+    "213917569",
+    "213917570",
+    "213917571",
+    "213917572",
+    "213917573",
+    "213917574",
+    "213936975",
+    "213936976",
+    "213936977",
+    "213936978"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 41.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 41.º"
+   ],
+   "fragments": [
+    "213917520",
+    "213917521",
+    "213917522",
+    "213917523",
+    "213917524",
+    "213917525",
+    "213936985",
+    "213917527",
+    "213917528",
+    "213917529",
+    "213936986",
+    "213936987",
+    "213936988",
+    "213917533",
+    "213917534",
+    "213917535",
+    "213917536",
+    "213917537",
+    "213917538",
+    "213917539",
+    "213917540",
+    "213917541",
+    "213917542",
+    "213917543",
+    "213917544",
+    "213917545",
+    "213917546",
+    "213917547",
+    "213917548",
+    "213917549",
+    "213917550",
+    "213917551",
+    "213917552",
+    "213917553",
+    "213917554",
+    "213917555",
+    "213917556",
+    "213936989",
+    "213936990",
+    "213917559",
+    "213917560",
+    "213917561",
+    "213917562",
+    "213917563",
+    "213917564",
+    "213917565",
+    "213917566",
+    "213917567",
+    "213917568",
+    "213917569",
+    "213917570",
+    "213917571",
+    "213917572",
+    "213917573",
+    "213936991",
+    "213936980",
+    "213936981",
+    "213936982",
+    "213936983",
+    "213936984",
+    "213936979"
+   ]
+  }
+ ],
+ "fragments": {
+  "213917520": {
+   "fragment_id": "213917316",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 154/2003\n\nde 15 de Julho\n\nO Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de Abril de 2000, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 83/2000, de 28 de Setembro, e ratificado pelo Decreto do Presidente da República n.º 79/2000, de 14 de Dezembro, revogou a Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses, celebrada em Brasília em 7 de Setembro de 1971.\n\nImporta agora regulamentar a aplicação do Tratado no que respeita ao regime processual de atribuição e registo do estatuto de igualdade aos cidadãos brasileiros residentes em Portugal bem como o reflexo em Portugal da atribuição do estatuto de igualdade a cidadãos portugueses residentes no Brasil.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "213917521": {
+   "fragment_id": "213917317",
+   "type": 1,
+   "heading": "Capítulo I — Regime de aplicação e registo do estatuto de igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime de aplicação e registo do estatuto de igualdade"
+  },
+  "213917522": {
+   "fragment_id": "213917318",
+   "type": 8,
+   "heading": "Secção I — Atribuição do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Atribuição do estatuto"
+  },
+  "213917523": {
+   "fragment_id": "213917319",
+   "type": 11,
+   "heading": "Artigo 1.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Iniciativa\n\nOs cidadãos brasileiros que pretendam aceder ao estatuto de igualdade de direitos e deveres ou de direitos políticos, previstos no capítulo 2 do título II do Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de Abril de 2000, devem requerê-lo, nos termos do presente diploma."
+  },
+  "213917524": {
+   "fragment_id": "213917320",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso ao estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso ao estatuto\n\n1 - O reconhecimento de direitos políticos depende da concessão prévia ou simultânea do estatuto de igualdade.\n\n2 - Em caso de cumulação de pedidos, estes são apreciados num único processo."
+  },
+  "213917525": {
+   "fragment_id": "213917321",
+   "type": 11,
+   "heading": "Artigo 3.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Legitimidade\n\nOs pedidos de concessão do estatuto de igualdade de direitos e deveres e de reconhecimento do gozo de direitos políticos constituem actos pessoais, só podendo ser praticados pelo interessado ou por intermédio de procurador com poderes especiais."
+  },
+  "213917526": {
+   "fragment_id": "213917322",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência para a decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência para a decisão\n\nA atribuição do estatuto de igualdade de direitos e deveres e o reconhecimento da capacidade de gozo de direitos políticos é da competência do Ministro da Administração Interna."
+  },
+  "213917527": {
+   "fragment_id": "213917323",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos\n\n1 - O estatuto de igualdade é concedido aos cidadãos brasileiros civilmente capazes, de acordo com a sua lei nacional, que tenham residência habitual em território português, comprovada através de autorização de residência.\n\n2 - Para além dos requisitos enunciados no número anterior, o gozo de direitos políticos apenas pode ser reconhecido aos requerentes com residência habitual em território nacional há, pelo menos, três anos.\n\n3 - A igualdade quanto aos direitos políticos não pode ser reconhecida aos requerentes que se encontrem privados de idênticos direitos no Brasil."
+  },
+  "213917528": {
+   "fragment_id": "213917324",
+   "type": 11,
+   "heading": "Artigo 6.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requerimento\n\nOs pedidos de concessão do estatuto de igualdade de direitos e deveres e de reconhecimento do gozo de direitos políticos devem ser formulados em requerimento que contenha a indicação do nome completo, data do nascimento, estado civil, filiação, naturalidade e residência do requerente, e são instruídos com os documentos necessários para comprovar, além da identidade do requerente, os requisitos mencionados no artigo precedente."
+  },
+  "213917529": {
+   "fragment_id": "213917325",
+   "type": 11,
+   "heading": "Artigo 7.º — Prova dos requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prova dos requisitos\n\n1 - A prova da nacionalidade e do gozo de direitos políticos no Brasil pode fazer-se através de documentos que, de harmonia com a lei brasileira, sejam para tal suficientes ou por declaração emitida por consulado do Brasil em Portugal.\n\n2 - A prova da identidade, da capacidade civil, da residência habitual em território português, devidamente autorizada, e da sua duração faz-se nos termos gerais."
+  },
+  "213917530": {
+   "fragment_id": "213917326",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação do pedido\n\nOs pedidos de concessão do estatuto de igualdade de direitos e deveres e do reconhecimento de direitos políticos são apresentados nos serviços centrais do Serviço de Estrangeiros e Fronteiras ou nas suas direcções regionais."
+  },
+  "213917531": {
+   "fragment_id": "213917327",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução do processo\n\n1 - No acto de recepção do requerimento verificar-se-á se este contém as indicações necessárias e se está devidamente instruído, devendo ser enviado aos serviços centrais do Serviço de Estrangeiros e Fronteiras, se não tiver sido aí directamente apresentado.\n\n2 - Em caso de omissão de indicações ou de falta dos documentos necessários, o requerente é notificado para, no prazo de 30 dias, prestar os esclarecimentos necessários ou juntar os documentos solicitados, sob pena de arquivamento do processo.\n\n3 - No final da instrução, o órgão instrutor elabora relatório e proposta de decisão fundamentada que, se não for favorável ao requerente, lhe deverá ser notificada, nos termos e para os efeitos da lei processual administrativa."
+  },
+  "213917532": {
+   "fragment_id": "213917328",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazo para decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo para decisão\n\nA decisão do pedido é proferida no prazo de 30 dias a contar da apresentação pelo Serviço de Estrangeiros e Fronteiras ao Ministro da Administração Interna do processo devidamente instruído e relatado."
+  },
+  "213917533": {
+   "fragment_id": "213917329",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicação\n\nA decisão sobre a concessão do estatuto de igualdade de direitos e deveres e sobre o reconhecimento do gozo de direitos políticos é objecto de publicação, por extracto, na 2.ª série do Diário da República."
+  },
+  "213917534": {
+   "fragment_id": "213917330",
+   "type": 11,
+   "heading": "Artigo 12.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recurso\n\nDas decisões que deneguem o acesso ao estatuto de igualdade cabe recurso para os Tribunais Administrativos nos termos da lei geral."
+  },
+  "213917535": {
+   "fragment_id": "213917331",
+   "type": 8,
+   "heading": "Secção II — Extinção do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Extinção do estatuto"
+  },
+  "213917536": {
+   "fragment_id": "213917332",
+   "type": 11,
+   "heading": "Artigo 13.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Extinção\n\n1 - O estatuto de igualdade de direitos e deveres e o reconhecimento do gozo de direitos políticos extinguem-se em caso de caducidade ou cancelamento da autorização de residência em território nacional ou quando o beneficiário perca a nacionalidade brasileira.\n\n2 - O gozo de direitos políticos extingue-se ou suspende-se em caso de privação dos mesmos direitos no Brasil."
+  },
+  "213917537": {
+   "fragment_id": "213917333",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registo\n\nA extinção do estatuto de igualdade de direitos e deveres e do reconhecimento do gozo de direitos políticos só produz efeitos após registo, efectuado nos termos do disposto no capítulo II deste diploma."
+  },
+  "213917538": {
+   "fragment_id": "213917334",
+   "type": 8,
+   "heading": "Secção III — Conteúdo do estatuto de igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conteúdo do estatuto de igualdade"
+  },
+  "213917539": {
+   "fragment_id": "213917335",
+   "type": 3,
+   "heading": "Subsecção I — Conteúdo do estatuto de igualdade de direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Conteúdo do estatuto de igualdade de direitos e deveres"
+  },
+  "213917540": {
+   "fragment_id": "213917336",
+   "type": 11,
+   "heading": "Artigo 15.º — Equiparação de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Equiparação de direitos\n\nOs cidadãos brasileiros a quem tiver sido concedido o estatuto de igualdade gozam, a partir do registo da decisão, dos mesmos direitos e estão sujeitos aos mesmos deveres dos cidadãos nacionais, com excepção do disposto no artigo seguinte."
+  },
+  "213917541": {
+   "fragment_id": "213917337",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos não abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direitos não abrangidos\n\n1 - O estatuto de igualdade não confere o direito à protecção diplomática em Estado terceiro.\n\n2 - Ao cidadão brasileiro investido no estatuto de igualdade é reconhecido, nos termos da lei e em condições de reciprocidade, direitos não conferidos a estrangeiros, salvo o acesso aos cargos de Presidente da República, Presidente da Assembleia da República, Primeiro-Ministro, presidentes dos tribunais supremos e o serviço nas Forças Armadas e na carreira diplomática."
+  },
+  "213917542": {
+   "fragment_id": "213917338",
+   "type": 11,
+   "heading": "Artigo 17.º — Responsabilidade criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsabilidade criminal\n\nOs cidadãos brasileiros investidos no estatuto de igualdade ficam sujeitos à lei penal nacional em condições idênticas às dos portugueses."
+  },
+  "213917543": {
+   "fragment_id": "213917339",
+   "type": 11,
+   "heading": "Artigo 18.º — Extradição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Extradição\n\nOs portugueses e brasileiros beneficiários do estatuto de igualdade ficam submetidos à lei penal do Estado de residência nas mesmas condições em que os respectivos nacionais e não estão sujeitos à extradição, salvo se requerida pelo Governo do Estado da nacionalidade."
+  },
+  "213917544": {
+   "fragment_id": "213917340",
+   "type": 3,
+   "heading": "Subsecção II — Conteúdo do reconhecimento da igualdade de direitos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Conteúdo do reconhecimento da igualdade de direitos políticos"
+  },
+  "213917545": {
+   "fragment_id": "213917341",
+   "type": 11,
+   "heading": "Artigo 19.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Âmbito\n\nO reconhecimento da igualdade de direitos políticos permite aos cidadãos que deles beneficiem o pleno exercício dos direitos de natureza política, nos termos da Constituição e da lei, com as limitações previstas no n.º 2 do artigo 16.º do presente diploma."
+  },
+  "213917546": {
+   "fragment_id": "213917342",
+   "type": 11,
+   "heading": "Artigo 20.º — Exclusividade do gozo de direitos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Exclusividade do gozo de direitos políticos\n\nO gozo de direitos políticos no Estado de residência importa a suspensão do exercício dos mesmos direitos no Estado da nacionalidade."
+  },
+  "213917547": {
+   "fragment_id": "213917343",
+   "type": 3,
+   "heading": "Subsecção III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Disposições gerais"
+  },
+  "213917548": {
+   "fragment_id": "213917344",
+   "type": 11,
+   "heading": "Artigo 21.º — Âmbito da lei pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Âmbito da lei pessoal\n\nSem prejuízo do disposto nos n.os 2 e 3 do artigo 5.º e no n.º 2 do artigo 13.º do presente diploma, os requisitos da capacidade de gozo e de exercício de direitos públicos de cidadãos investidos no estatuto de igualdade são unicamente os definidos pela lei portuguesa, salvo na medida em que tal capacidade dependa da capacidade relativa a direitos privados e esta seja regida por uma outra lei."
+  },
+  "213917549": {
+   "fragment_id": "213917345",
+   "type": 11,
+   "heading": "Artigo 22.º — Nacionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Nacionalidade\n\nO acesso ao estatuto de igualdade, bem como o exercício de direitos ou o cumprimento de deveres dele decorrentes, não implicam a perda da nacionalidade nem prejudicam a aplicação da lei brasileira, como lei nacional, sempre que esta deva ser aplicada por força das normas de conflitos portuguesas."
+  },
+  "213917550": {
+   "fragment_id": "213917346",
+   "type": 11,
+   "heading": "Artigo 23.º — Direitos e deveres inerentes à nacionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direitos e deveres inerentes à nacionalidade\n\nCom ressalva do disposto no artigo 20.º, os cidadãos investidos no estatuto de igualdade mantêm todos os direitos e deveres inerentes à sua nacionalidade, com excepção daqueles que ofendam a soberania nacional ou a ordem pública do Estado de residência."
+  },
+  "213917551": {
+   "fragment_id": "213917347",
+   "type": 1,
+   "heading": "Capítulo II — Do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do registo"
+  },
+  "213917552": {
+   "fragment_id": "213917348",
+   "type": 8,
+   "heading": "Secção I — Do registo dos factos respeitantes a cidadãos brasileiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do registo dos factos respeitantes a cidadãos brasileiros"
+  },
+  "213917553": {
+   "fragment_id": "213917349",
+   "type": 11,
+   "heading": "Artigo 24.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Registo\n\nEstão obrigatoriamente sujeitos a registo os factos atributivos ou extintivos do estatuto de igualdade de direitos e deveres e do reconhecimento do gozo de direitos políticos a cidadãos brasileiros."
+  },
+  "213917554": {
+   "fragment_id": "213917350",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência\n\n1 - O registo efectua-se na Conservatória dos Registos Centrais.\n\n2 - Para o efeito do disposto no número anterior, haverá na referida Conservatória um livro de registo do estatuto dos cidadãos brasileiros em Portugal, do modelo aprovado pela Direcção-Geral dos Registos e do Notariado."
+  },
+  "213917555": {
+   "fragment_id": "213917351",
+   "type": 11,
+   "heading": "Artigo 26.º — Dever de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dever de registo\n\n1 - O registo da atribuição do estatuto de igualdade de direitos e deveres e do reconhecimento do gozo de direitos políticos, bem como o da sua extinção, é lavrado oficiosamente, quando as autoridades disponham dos elementos necessários, sem prejuízo de o interessado o poder ou dever requerer.\n\n2 - É obrigatório o requerimento, pelo interessado, do registo de extinção do estatuto de igualdade por perda da nacionalidade brasileira no prazo de 30 dias a partir da data da ocorrência dos factos."
+  },
+  "213917556": {
+   "fragment_id": "213917352",
+   "type": 11,
+   "heading": "Artigo 27.º — Óbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Óbito\n\n1 - O óbito de beneficiários do estatuto de igualdade é averbado oficiosamente, logo que as autoridades portuguesas disponham dos elementos necessários, e pode também ser requerido pelo cônjuge sobrevivo, por quem tiver vivido com o falecido em união de facto nos termos da lei civil ou por qualquer descendente, ascendente, irmão, sobrinho ou herdeiro do falecido.\n\n2 - Para os efeitos previstos no número anterior, em caso de óbito de um cidadão brasileiro em território nacional, o funcionário do registo civil que tiver lavrado o respectivo registo envia o respectivo boletim à Conservatória dos Registos Centrais no prazo de oito dias."
+  },
+  "213917557": {
+   "fragment_id": "213917353",
+   "type": 11,
+   "heading": "Artigo 28.º — Dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Dever de comunicação\n\nPara efeitos do disposto no n.º 1 do artigo 26.º do presente diploma, o Ministério da Administração Interna comunica à Conservatória dos Registos Centrais os factos que tenham ocorrido, enviando os elementos necessários para o registo no prazo de oito dias contados a partir da sua verificação."
+  },
+  "213917558": {
+   "fragment_id": "213917354",
+   "type": 11,
+   "heading": "Artigo 29.º — Forma de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Forma de registo\n\n1 - O registo da atribuição do estatuto de igualdade de direitos e deveres é feito em assento, lavrado por transcrição.\n\n2 - O registo dos restantes factos abrangidos no artigo 26.º do presente diploma efectua-se por averbamento ao assento de atribuição do estatuto de igualdade, com base em comunicação do Serviço de Estrangeiros e Fronteiras ou das autoridades brasileiras."
+  },
+  "213917559": {
+   "fragment_id": "213917355",
+   "type": 11,
+   "heading": "Artigo 30.º — Conteúdo do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conteúdo do registo\n\nO assento referido no n.º 1 do artigo anterior contém as seguintes menções especiais:\n\na) O nome completo, idade, estado civil, filiação, naturalidade e nacionalidade do interessado;\n\nb) O estatuto atribuído e a decisão que o atribua."
+  },
+  "213917560": {
+   "fragment_id": "213917356",
+   "type": 8,
+   "heading": "Secção II — Do registo dos factos respeitantes a cidadãos portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do registo dos factos respeitantes a cidadãos portugueses"
+  },
+  "213917561": {
+   "fragment_id": "213917357",
+   "type": 11,
+   "heading": "Artigo 31.º — Forma de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Forma de registo\n\n1 - Os factos atributivos e extintivos do estatuto de igualdade de direitos e deveres e do reconhecimento do gozo de direitos políticos a cidadãos portugueses no Brasil, são registados mediante averbamento ao assento de nascimento do interessado.\n\n2 - O registo é feito oficiosamente, sem prejuízo da possibilidade de o interessado o requerer."
+  },
+  "213917562": {
+   "fragment_id": "213917358",
+   "type": 11,
+   "heading": "Artigo 32.º — Dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Dever de comunicação\n\nPara o efeito da realização oficiosa do registo, o Ministério dos Negócios Estrangeiros remete à conservatória do registo civil competente os elementos referidos no n.º 1 do artigo anterior e os documentos comprovativos dos mesmos no prazo de oito dias a contar da recepção."
+  },
+  "213917563": {
+   "fragment_id": "213917359",
+   "type": 11,
+   "heading": "Artigo 33.º — Registo nos consulados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Registo nos consulados\n\nOs factos a que se reporta esta secção são também registados nos consulados portugueses competentes, nos termos gerais."
+  },
+  "213917564": {
+   "fragment_id": "213917360",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "213917565": {
+   "fragment_id": "213917361",
+   "type": 11,
+   "heading": "Artigo 34.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Prazo\n\n1 - O registo é realizado no prazo de oito dias, tratando-se de assento, ou de dois dias, em caso de averbamento.\n\n2 - O prazo conta-se a partir da data em que forem recebidos, na conservatória competente, os elementos necessários para o registo oficioso, ou da data em que for apresentado o requerimento, devidamente instruído."
+  },
+  "213917566": {
+   "fragment_id": "213917362",
+   "type": 11,
+   "heading": "Artigo 35.º — Modelo para averbamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Modelo para averbamento\n\nOs averbamentos são lavrados segundo os modelos aprovados pela Direcção-Geral dos Registos e do Notariado."
+  },
+  "213917567": {
+   "fragment_id": "213917363",
+   "type": 11,
+   "heading": "Artigo 36.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Cadernos eleitorais\n\nO registo da concessão e da extinção da igualdade de direitos políticos, tanto relativamente a cidadãos brasileiros em Portugal, como a cidadãos portugueses no Brasil, é comunicado à autoridade administrativa central com competência em matéria de recenseamento, para que esta promova as diligências legalmente adequadas."
+  },
+  "213917568": {
+   "fragment_id": "213917364",
+   "type": 11,
+   "heading": "Artigo 37.º — Valor jurídico do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Valor jurídico do registo\n\nO registo a que se refere o presente capítulo tem o valor de registo civil, sendo-lhe subsidiariamente aplicáveis, com as necessárias adaptações, as normas respeitantes a este último."
+  },
+  "213917569": {
+   "fragment_id": "213917365",
+   "type": 1,
+   "heading": "Capítulo III — Da comunicação às autoridades brasileiras dos factos que interessam à execução do Tratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da comunicação às autoridades brasileiras dos factos que interessam à execução do Tratado"
+  },
+  "213917570": {
+   "fragment_id": "213917366",
+   "type": 11,
+   "heading": "Artigo 38.º — Comunicação ao Estado Brasileiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comunicação ao Estado Brasileiro\n\n1 - O Governo Português comunica ao Governo Brasileiro todos os factos atributivos ou extintivos do estatuto de igualdade relativo aos cidadãos brasileiros, bem como a perda da nacionalidade portuguesa e o óbito daqueles que beneficiem do estatuto de igualdade no Brasil, enviando o boletim do respectivo registo no prazo de oito dias a contar da recepção deste.\n\n2 - Sempre que se verifiquem situações de plurinacionalidade dos beneficiários far-se-á menção deste facto na comunicação referida no número anterior."
+  },
+  "213917571": {
+   "fragment_id": "213917367",
+   "type": 11,
+   "heading": "Artigo 39.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Competência\n\nPara o efeito do disposto no artigo anterior, o serviço competente do registo civil envia o boletim do registo ao Ministério dos Negócios Estrangeiros, no prazo de oito dias."
+  },
+  "213917572": {
+   "fragment_id": "213917368",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "213917573": {
+   "fragment_id": "213917369",
+   "type": 11,
+   "heading": "Artigo 40.º — Bilhete de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Bilhete de identidade\n\n1 - Para uso interno os beneficiários do estatuto de igualdade têm direito a bilhete de identidade de modelo idêntico ao do que é emitido aos cidadãos nacionais, contendo a menção da nacionalidade do titular e a referência ao Tratado de Porto Seguro, de 22 de Abril de 2000.\n\n2 - O pedido de bilhete de identidade é instruído com certidão de cópia integral do assento da atribuição do estatuto de igualdade."
+  },
+  "213917574": {
+   "fragment_id": "213917370",
+   "type": 11,
+   "heading": "Artigo 41.º — Comunicação ao Ministério da Administração Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Comunicação ao Ministério da Administração Interna\n\nA Embaixada e os Consulados de Portugal no Brasil, quando tiverem conhecimento dos factos mencionados no artigo 26.º, no n.º 1 do artigo 27.º e no artigo 31.º do presente diploma, devem comunicá-los ao Ministério da Administração Interna, independentemente de comunicação que o Governo Brasileiro venha a fazer."
+  },
+  "213936975": {
+   "fragment_id": "213917371",
+   "type": 11,
+   "heading": "Artigo 42.º — Comprovação dos requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Comprovação dos requisitos\n\n1 - Os cidadãos portugueses no Brasil podem obter os documentos necessários para comprovar os requisitos do estatuto de igualdade através dos respectivos consulados.\n\n2 - Para os efeitos do número anterior, os consulados certificam a nacionalidade e a não privação de direitos políticos dos cidadãos portugueses, mediante a apresentação dos documentos necessários para o efeito, nos termos da lei portuguesa."
+  },
+  "213936976": {
+   "fragment_id": "213917372",
+   "type": 11,
+   "heading": "Artigo 43.º — Custas do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Custas do processo\n\nO pedido do estatuto de igualdade por cidadãos brasileiros em Portugal, os actos do respectivo processo e a publicação da respectiva decisão, bem como a obtenção dos documentos necessários para aqueles efeitos, são gratuitos e isentos de quaisquer taxas ou emolumentos."
+  },
+  "213936977": {
+   "fragment_id": "213917373",
+   "type": 11,
+   "heading": "Artigo 44.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Modelos\n\n1 - Os modelos de assento e dos averbamentos previstos neste diploma, da certidão do registo do estatuto de igualdade e do bilhete de identidade referido no artigo 40.º, são aprovados pela Direcção-Geral dos Registos e do Notariado.\n\n2 - O modelo dos certificados a emitir pelos consulados portugueses para os efeitos enunciados nos termos do n.º 2 do artigo 42.º são aprovados pelo Ministério dos Negócios Estrangeiros."
+  },
+  "213936978": {
+   "fragment_id": "213917374",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 126/72, de 22 de Abril."
+  },
+  "213936985": {
+   "fragment_id": "213917322",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência para a decisão",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 4.º — Competência para a decisão\n\nA atribuição do estatuto de igualdade de direitos e deveres e o reconhecimento da capacidade de gozo de direitos políticos é da competência do membro do Governo responsável pela área das migrações.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936986": {
+   "fragment_id": "213917326",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação do pedido",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 8.º — Apresentação do pedido\n\nOs pedidos de concessão do estatuto de igualdade de direitos e deveres e do reconhecimento de direitos políticos são apresentados nos serviços centrais da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), ou nas suas direções regionais.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936987": {
+   "fragment_id": "213917327",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução do processo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução do processo\n\n1 - No ato de receção do requerimento verificar-se-á se este contém as indicações necessárias e se está devidamente instruído, devendo ser enviado aos serviços centrais da AIMA, I. P., se não tiver sido aí diretamente apresentado.\n\n2 - Em caso de omissão de indicações ou de falta dos documentos necessários, o requerente é notificado para, no prazo de 30 dias, prestar os esclarecimentos necessários ou juntar os documentos solicitados, sob pena de arquivamento do processo.\n\n3 - No final da instrução, o órgão instrutor elabora relatório e proposta de decisão fundamentada que, se não for favorável ao requerente, lhe deverá ser notificada, nos termos e para os efeitos da lei processual administrativa.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936988": {
+   "fragment_id": "213917328",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazo para decisão",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 10.º — Prazo para decisão\n\nA decisão do pedido é proferida no prazo de 30 dias a contar da apresentação pela AIMA, I. P., ao membro do Governo responsável pela área das migrações do processo devidamente instruído e relatado.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936989": {
+   "fragment_id": "213917353",
+   "type": 11,
+   "heading": "Artigo 28.º — Dever de comunicação",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 28.º — Dever de comunicação\n\nPara efeitos do disposto no n.º 1 do artigo 26.º, o membro do Governo responsável pela área das migrações comunica à Conservatória dos Registos Centrais os factos que tenham ocorrido, enviando os elementos necessários para o registo no prazo de oito dias contados a partir da sua verificação.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936990": {
+   "fragment_id": "213917354",
+   "type": 11,
+   "heading": "Artigo 29.º — Forma de registo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 29.º — Forma de registo\n\n1 - O registo da atribuição do estatuto de igualdade de direitos e deveres é feito em assento, lavrado por transcrição.\n\n2 - O registo dos restantes factos abrangidos no artigo 26.º efetua-se por averbamento ao assento de atribuição do estatuto de igualdade, com base em comunicação da AIMA, I. P., ou das autoridades brasileiras.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936991": {
+   "fragment_id": "213917370",
+   "type": 11,
+   "heading": "Artigo 41.º — Comunicação ao membro do Governo responsável pela área das migrações",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 41.º — Comunicação ao membro do Governo responsável pela área das migrações\n\nA Embaixada e os Consulados de Portugal no Brasil quando tiverem conhecimento dos factos mencionados no artigo 26.º, no n.º 1 do artigo 27.º e no artigo 31.º devem comunicá-los ao membro do governo responsável pela área das migrações, independentemente de comunicação que o Governo Brasileiro venha a fazer.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936980": {
+   "fragment_id": "213937079",
+   "type": 11,
+   "heading": "Artigo 41.º-A — Plataforma de Interoperabilidade da Administração Pública",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 41.º-A — Plataforma de Interoperabilidade da Administração Pública\n\nAs trocas de informação estruturada entre serviços e organismos da Administração Pública previstas no presente decreto-lei são, sempre que possível, efetuadas com recurso à Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos fixados pela Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho.\n\n> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213936981": {
+   "fragment_id": "213917371",
+   "type": 11,
+   "heading": "Artigo 42.º — Comprovação dos requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Comprovação dos requisitos\n\n1 - Os cidadãos portugueses no Brasil podem obter os documentos necessários para comprovar os requisitos do estatuto de igualdade através dos respectivos consulados.\n\n2 - Para os efeitos do número anterior, os consulados certificam a nacionalidade e a não privação de direitos políticos dos cidadãos portugueses, mediante a apresentação dos documentos necessários para o efeito, nos termos da lei portuguesa."
+  },
+  "213936982": {
+   "fragment_id": "213917372",
+   "type": 11,
+   "heading": "Artigo 43.º — Custas do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Custas do processo\n\nO pedido do estatuto de igualdade por cidadãos brasileiros em Portugal, os actos do respectivo processo e a publicação da respectiva decisão, bem como a obtenção dos documentos necessários para aqueles efeitos, são gratuitos e isentos de quaisquer taxas ou emolumentos."
+  },
+  "213936983": {
+   "fragment_id": "213917373",
+   "type": 11,
+   "heading": "Artigo 44.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Modelos\n\n1 - Os modelos de assento e dos averbamentos previstos neste diploma, da certidão do registo do estatuto de igualdade e do bilhete de identidade referido no artigo 40.º, são aprovados pela Direcção-Geral dos Registos e do Notariado.\n\n2 - O modelo dos certificados a emitir pelos consulados portugueses para os efeitos enunciados nos termos do n.º 2 do artigo 42.º são aprovados pelo Ministério dos Negócios Estrangeiros."
+  },
+  "213936984": {
+   "fragment_id": "213917374",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 126/72, de 22 de Abril."
+  },
+  "213936979": {
+   "fragment_id": "213937075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 4 de Julho de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 7 de Julho de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

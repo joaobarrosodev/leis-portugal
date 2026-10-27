@@ -1,0 +1,386 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641154:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-34564275",
+ "dre_path": "/dr/detalhe/lei/52-2007-641154",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45203175",
+    "45203275",
+    "45203375",
+    "45203475",
+    "45203575",
+    "45203675",
+    "45203775",
+    "45203875",
+    "45203975",
+    "45204075",
+    "45204175",
+    "45204275",
+    "45204375"
+   ]
+  },
+  {
+   "date": "2008-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247991:por",
+     "title": "Lei n.º 11/2008",
+     "published": "2008-02-20",
+     "dre_path": "/dr/detalhe/lei/11-2008-247991"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "45203175",
+    "45203275",
+    "45203375",
+    "45203475",
+    "114926165",
+    "114926163",
+    "45203775",
+    "45203875",
+    "114926164",
+    "45204475",
+    "45204075",
+    "45204175",
+    "45204275",
+    "45204375"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "45203175",
+    "45203275",
+    "45203375",
+    "45203475",
+    "114926165",
+    "114926166",
+    "45203775",
+    "45203875",
+    "114926164",
+    "45204475",
+    "45204075",
+    "45204175",
+    "45204275",
+    "45204375"
+   ]
+  },
+  {
+   "date": "2017-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106549661:por",
+     "title": "Decreto-Lei n.º 25/2017",
+     "published": "2017-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2017-106549661"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "45203175",
+    "45203275",
+    "45203375",
+    "45203475",
+    "114926165",
+    "114926166",
+    "114926167",
+    "45203875",
+    "114926164",
+    "45204475",
+    "45204075",
+    "45204175",
+    "45204275",
+    "114926168"
+   ]
+  },
+  {
+   "date": "2019-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123930786:por",
+     "title": "Decreto-Lei n.º 108/2019",
+     "published": "2019-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2019-123930786"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "45203175",
+    "45203275",
+    "45203375",
+    "45203475",
+    "114926165",
+    "123915056",
+    "114926167",
+    "45203875",
+    "114926164",
+    "45204475",
+    "45204075",
+    "45204175",
+    "45204275",
+    "114926168"
+   ]
+  },
+  {
+   "date": "2024-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:891867280:por",
+     "title": "Decreto-Lei n.º 74/2024",
+     "published": "2024-10-21",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2024-891867280"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "45203175",
+    "45203275",
+    "45203375",
+    "45203475",
+    "114926165",
+    "123915056",
+    "892297843",
+    "45203875",
+    "114926164",
+    "45204475",
+    "45204075",
+    "45204175",
+    "45204275",
+    "114926168"
+   ]
+  }
+ ],
+ "fragments": {
+  "45203175": {
+   "fragment_id": "35184075",
+   "type": 15,
+   "heading": "Diploma — Adapta o regime da Caixa Geral de Aposentações ao regime geral da segurança social em matéria de aposentação e cálculo de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "45203275": {
+   "fragment_id": "35358875",
+   "type": 11,
+   "heading": "Artigo 1.º — Cálculo das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Cálculo das pensões\n\nO artigo 5.º da Lei n.º 60/2005, de 29 de Dezembro (estabelece mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões), passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\nCálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação 'P', resulta da multiplicação do factor de sustentabilidade correspondente ao ano da aposentação pela soma das seguintes parcelas:\n\na) A primeira parcela, designada 'P1', correspondente ao tempo de serviço prestado até 31 de Dezembro de 2005 e é calculada com base na seguinte fórmula:\n\nR x T1/C\n\nem que:\n\nR é a remuneração mensal relevante nos termos do Estatuto da Aposentação, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, com um limite máximo correspondente a 12 vezes o indexante dos apoios sociais (IAS);\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de Dezembro de 2005, com o limite máximo de C; e\n\nC é o número constante do anexo ii;\n\nb) A segunda, com a designação 'P2', relativa ao tempo de serviço posterior a 31 de Dezembro de 2005, é fixada de acordo com os artigos 29.º a 32.º do Decreto-Lei n.º 187/2007, de 10 de Maio, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada a partir das remunerações anuais mais elevadas registadas a partir de 1 de Janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de Dezembro de 2005, perfazer o limite do anexo II;\n\nT2 é a taxa anual de formação da pensão determinada de acordo com os artigos 29.º a 31.º do Decreto-Lei n.º 187/2007, de 10 de Maio;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de Janeiro de 2006, para, somados aos anos registados até 31 de Dezembro de 2005, perfazerem o limite do anexo ii.\n\n2 - O factor de sustentabilidade correspondente ao ano da aposentação é fixado, com base nos dados publicados anualmente pelo Instituto Nacional de Estatística, nos seguintes termos:\n\nEMV2006/EMVano i-1\n\nem que:\n\nEMV2006 é a esperança média de vida aos 65 anos verificada em 2006;\n\nEMVano i-1 é a esperança média de vida aos 65 anos verificada no ano anterior ao da aposentação.\n\n3 - Para efeito do disposto nos números anteriores, considera-se como ano da aposentação aquele em que se verifique o facto ou acto determinante referido no artigo 43.º do Estatuto da Aposentação.\n\n4 - (Anterior n.º 2.)»"
+  },
+  "45203375": {
+   "fragment_id": "35358975",
+   "type": 11,
+   "heading": "Artigo 2.º — Acto determinante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acto determinante\n\nOs artigos 39.º e 43.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, com a redacção do Decreto-Lei n.º 191-A/79, de 25 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 39.º\n\nAposentação voluntária\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O requerente não pode desistir do seu pedido de aposentação depois de proferido despacho a reconhecer o direito a aposentação voluntária que não dependa de incapacidade ou de verificados os factos a que se referem as alíneas b) a d) do n.º 1 do artigo 43.º\n\nArtigo 43.º\n\nRegime da aposentação\n\n1 - ...\n\na) Seja recebido pela Caixa Geral de Aposentações o pedido de aposentação voluntária que não dependa de verificação de incapacidade;\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - ...\n\n3 - ...»"
+  },
+  "45203475": {
+   "fragment_id": "35359075",
+   "type": 11,
+   "heading": "Artigo 3.º — Incapacidade absoluta geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incapacidade absoluta geral\n\n1 - A atribuição e o cálculo das pensões de aposentação atribuídas com fundamento em incapacidade permanente e absoluta para toda e qualquer profissão ou trabalho têm as seguintes especialidades:\n\na) Um prazo de garantia de três anos;\n\nb) Um valor mínimo igual à pensão mínima garantida no regime geral da segurança social correspondente ao tempo de serviço do anexo i; e\n\nc) Não aplicação do factor de sustentabilidade até que o pensionista atinge a idade de 65 anos, momento em que a pensão é alterada, através da multiplicação do valor que tiver nessa data pelo factor de sustentabilidade correspondente a esse ano.\n\n2 - A alteração prevista na alínea c) do número anterior não se aplica aos pensionistas que, à data em que completem 65 anos de idade, tiverem recebido pensão de aposentação atribuída com fundamento em incapacidade absoluta geral por um período superior a 20 anos."
+  },
+  "45203575": {
+   "fragment_id": "35359175",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução da pensão de aposentação antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Redução da pensão de aposentação antecipada\n\n1 - O valor da pensão de aposentação antecipada, calculado nos termos gerais, é reduzido pela aplicação de um factor de redução determinado pela fórmula 1 - x, em que x é igual à taxa global de redução do valor da pensão.\n\n2 - A taxa global de redução é o produto da taxa mensal de 0,5  % pelo número de meses de antecipação apurado entre a idade do interessado no momento do acto determinante referido no artigo 43.º do Estatuto da Aposentação e a de 65 anos.\n\n3 - O número de meses de antecipação a considerar para a determinação da taxa global de redução da pensão é reduzido em 12 meses por cada período de dois anos que o tempo de serviço efectivo exceda os 40 anos."
+  },
+  "45203675": {
+   "fragment_id": "35359275",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante da pensão bonificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montante da pensão bonificada\n\n1 - Sem prejuízo do disposto no n.º 4, a pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações com a idade e o tempo de serviço do anexo ii é calculada nos termos gerais e bonificada pela aplicação do factor definido no número seguinte.\n\n2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.\n\n3 - A taxa global de bonificação é o produto da taxa mensal do anexo iii, em função do tempo de serviço no momento do acto determinante referido no artigo 43.º do Estatuto da Aposentação, pelo número de meses apurados entre a data em que se verificaram as condições de acesso à aposentação com fundamento no artigo 37.º do Estatuto da Aposentação, alterado pelo artigo 3.º da Lei n.º 60/2005, de 29 de Dezembro, e aquele acto determinante, com o limite de 70 anos.\n\n4 - Sem prejuízo do disposto no número anterior, a pensão dos subscritores que possam aposentar-se antecipadamente sem redução da pensão com fundamento no artigo 37.º-A do Estatuto da Aposentação, conjugado com o artigo 4.º da Lei n.º 60/2005, de 29 de Dezembro, e, a partir de 2015, também com o n.º 3 do artigo anterior, e optem por não o fazer é bonificada pela aplicação da taxa global resultante do produto de uma taxa mensal de 0,65  % pelo número de meses apurados entre a data em que se verificaram as condições de acesso à aposentação antecipada sem redução ao abrigo daquele regime e a data do acto determinante da aposentação, até ao limite da idade do anexo ii.\n\n5 - Para efeitos de apuramento das taxas de bonificação referidas nos números anteriores, relevam apenas os meses de exercício efectivo de funções posteriores à entrada em vigor da presente lei.\n\n6 - O montante da pensão bonificada não pode, em nenhuma circunstância, ser superior a 90  % da última remuneração mensal do subscritor."
+  },
+  "45203775": {
+   "fragment_id": "35359375",
+   "type": 11,
+   "heading": "Artigo 6.º — Actualização de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Actualização de pensões\n\n1 - As pensões de aposentação, reforma e invalidez são actualizadas anualmente, a partir do 2.º ano seguinte ao da sua atribuição, com efeitos a partir do dia 1 de Janeiro de cada ano, em função do seu montante, de acordo com o anexo iv, tendo em conta o valor do IAS e os seguintes indicadores de referência:\n\na) O crescimento real do produto interno bruto (PIB) correspondente à média da taxa do crescimento médio anual dos últimos dois anos, terminados no 3.º trimestre do ano anterior àquele a que se reporta a actualização ou no trimestre imediatamente anterior, se aquele não estiver disponível à data de 10 de Dezembro;\n\nb) A variação média dos últimos 12 meses do índice de preços no consumidor (IPC), sem habitação, disponível em 30 de Novembro do ano anterior àquele a que se reporta a actualização.\n\n2 - Para efeitos do disposto no número anterior, a variação anual do PIB é aquela que decorre entre o 4.º trimestre de um ano e o 3.º trimestre do ano seguinte.\n\n3 - Transitoriamente, no ano de 2008, o crescimento real do PIB, previsto na alínea a) do n.º 1, corresponde apenas ao verificado no ano terminado no 3.º trimestre do ano anterior àquele a que se reporta a actualização.\n\n4 - Os termos da actualização das pensões de acordo com os números anteriores são definidos em portaria do Ministro das Finanças.\n\n5 - A aplicação das regras definidas no n.º 1 não pode prejudicar o princípio de estabilidade orçamental estabelecido no artigo 84.º da Lei n.º 91/2001, de 20 de Agosto, alterada e republicada pela Lei n.º 48/2004, de 24 de Agosto.\n\n6 - As pensões de aposentação, reforma e invalidez fixadas com base em fórmula de cálculo anterior à introduzida pela presente lei de montante superior a 12 vezes o IAS não são objecto de actualização até que o seu valor seja ultrapassado por aquele limite.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2024 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2024-891867280) A redação introduzida pelo Decreto-Lei n.º 74/2024, de 21 de outubro, aplica-se a todas as pessoas que passaram à situação de reformado ou pensionista no ano de 2024."
+  },
+  "45203875": {
+   "fragment_id": "35359475",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguarda de direitos\n\n1 - As pensões que estiverem a ser abonadas à data de entrada em vigor da presente lei não sofrem qualquer redução no seu valor.\n\n2 - A limitação no cálculo da primeira parcela da pensão a 12 vezes o IAS e a regra de não actualização das pensões de valor superior àquele montante não se aplicam aos subscritores ou pensionistas se, da aplicação das regras previstas na alínea b) do n.º 1 do artigo 5.º da Lei n.º 60/2005, de 29 de Dezembro, em que RR é apurada a partir das remunerações posteriores a 1993 e N considera a totalidade da carreira contributiva, resultar valor superior àquele limite.\n\n3 - A limitação no cálculo e o factor de sustentabilidade introduzidos pelo artigo 1.º da presente lei não são aplicáveis às pensões atribuídas a quem já reunisse condições para passagem à aposentação ou à reforma anteriormente à sua entrada em vigor.\n\n4 - O disposto na presente lei não se aplica aos subscritores ou pensionistas cujos direitos à pensão, garantidos através de fundos de pensões, foram transferidos para a Caixa Geral de Aposentações, juntamente com as provisões necessárias para suportar os correspondentes encargos."
+  },
+  "45203975": {
+   "fragment_id": "35359575",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO regime estabelecido na presente lei produz efeitos a partir do dia 1 de Janeiro de 2008, com as seguintes excepções:\n\na) O regime de redução da pensão antecipada, que se aplica a partir de 1 de Janeiro de 2015;\n\nb) O regime de actualização das pensões de valor superior a 1,5 IAS e inferior ou igual a 6 IAS, que se aplica a partir de 1 de Janeiro de 2009;\n\nc) O regime de actualização das pensões de valor superior a 6 IAS, que se aplica a partir de 1 de Janeiro de 2011, sem prejuízo do disposto no n.º 6 do artigo 5.º"
+  },
+  "45204075": {
+   "fragment_id": "35359675",
+   "type": 14,
+   "heading": "Anexo I — [referido na alínea b) do n.º 1 do artigo 3.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [referido na alínea b) do n.º 1 do artigo 3.º]\n\n(ver documento original)"
+  },
+  "45204175": {
+   "fragment_id": "35359775",
+   "type": 14,
+   "heading": "Anexo II — (referido no n.º 1 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (referido no n.º 1 do artigo 5.º)\n\n(ver documento original)"
+  },
+  "45204275": {
+   "fragment_id": "35359875",
+   "type": 14,
+   "heading": "Anexo III — (referido no n.º 3 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (referido no n.º 3 do artigo 5.º)\n\n(ver documento original)"
+  },
+  "45204375": {
+   "fragment_id": "35359975",
+   "type": 14,
+   "heading": "Anexo IV — (referido no n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (referido no n.º 1 do artigo 6.º)\n\n(ver documento original)"
+  },
+  "114926165": {
+   "fragment_id": "35359175",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução da pensão de aposentação antecipada",
+   "in_force_from": "2008-02-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Redução da pensão de aposentação antecipada\n\n1 - O valor da pensão de aposentação antecipada, calculado nos termos gerais, é reduzido pela aplicação de um factor de redução determinado pela fórmula 1 - x, em que x é igual à taxa global de redução do valor da pensão.\n\n2 - A taxa global de redução é o produto da taxa mensal de 0,5  % pelo número de meses de antecipação apurado entre a idade do interessado no momento do acto determinante referido no artigo 43.º do Estatuto da Aposentação e a de 65 anos.\n\n3 - O número de meses de antecipação a considerar para a determinação da taxa global de redução da pensão é reduzido em 12 meses por cada período de dois anos que o tempo de serviço efectivo exceda os 40 anos.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "114926163": {
+   "fragment_id": "35359275",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante da pensão bonificada",
+   "in_force_from": "2008-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Montante da pensão bonificada\n\n1 - Sem prejuízo do disposto no n.º 4, a pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações com a idade e o tempo de serviço do anexo ii é calculada nos termos gerais e bonificada pela aplicação do factor definido no número seguinte.\n\n2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.\n\n3 - A taxa global de bonificação é o produto da taxa mensal do anexo iii, em função do tempo de serviço no momento do acto determinante referido no artigo 43.º do Estatuto da Aposentação, pelo número de meses apurados entre a data em que se verificaram as condições do anexo ii e aquele acto determinante, com o limite de 70 anos.\n\n4 - Sem prejuízo do disposto no número anterior, a pensão dos subscritores que possam aposentar-se antecipadamente sem redução da pensão com fundamento no artigo 37.º-A do Estatuto da Aposentação e optem por não o fazer é bonificada pela aplicação da taxa global resultante do produto de uma taxa mensal de 0,65 % pelo número de meses apurados entre a data em que se verificaram as condições de acesso à aposentação antecipada sem redução ao abrigo daquele regime e a data do acto determinante da aposentação, até ao limite da idade do anexo ii.\n\n5 - Para efeitos de apuramento das taxas de bonificação referidas nos números anteriores, relevam apenas os meses de exercício efectivo de funções posteriores à entrada em vigor da presente lei.\n\n6 - O montante da pensão bonificada não pode, em nenhuma circunstância, ser superior a 90  % da última remuneração mensal do subscritor.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "114926164": {
+   "fragment_id": "35359575",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2008-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO regime estabelecido na presente lei produz efeitos a partir do dia 1 de Janeiro de 2008, com as seguintes excepções:\n\na) (Revogada);\n\nb) O regime de actualização das pensões de valor superior a 1,5 IAS e inferior ou igual a 6 IAS, que se aplica a partir de 1 de Janeiro de 2009;\n\nc) O regime de actualização das pensões de valor superior a 6 IAS, que se aplica a partir de 1 de Janeiro de 2011, sem prejuízo do disposto no n.º 6 do artigo 5.º\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "45204475": {
+   "fragment_id": "35360075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "114926166": {
+   "fragment_id": "35359275",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante da pensão bonificada",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Montante da pensão bonificada\n\n1 - A pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações, I. P., que reúnam as condições de aposentação ordinária estabelecidas no artigo 3.º-A da Lei n.º 60/2005, de 29 de dezembro, é calculada nos termos gerais e bonificada pela aplicação do fator definido no número seguinte.\n\n2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.\n\n3 - A taxa global de bonificação é o produto da taxa de bonificação mensal referida no anexo iii à presente lei, em função do tempo de serviço no momento do ato determinante referido no artigo 43.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, pelo número de meses apurados entre a data em que se verificaram as condições de aposentação ordinária referidas no n.º 1 e aquele ato determinante, com o limite de 70 anos.\n\n4 - (Revogado.)\n\n5 - Para efeitos de apuramento da taxa global de bonificação, relevam apenas os meses de exercício efetivo de funções posteriores a 1 de janeiro de 2008.\n\n6 - O montante da pensão bonificada não pode, em nenhuma circunstância, ser superior a 90  % da última remuneração mensal do subscritor.\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "114926167": {
+   "fragment_id": "35359375",
+   "type": 11,
+   "heading": "Artigo 6.º — Actualização de pensões",
+   "in_force_from": "2017-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+   ],
+   "markdown": "###### Artigo 6.º — Actualização de pensões\n\n1 - As pensões de aposentação, reforma e invalidez são actualizadas anualmente, a partir do 2.º ano seguinte ao da sua atribuição, com efeitos a partir do dia 1 de Janeiro de cada ano, em função do seu montante, de acordo com o anexo iv, tendo em conta o valor do IAS e os seguintes indicadores de referência:\n\na) O crescimento real do produto interno bruto (PIB) correspondente à média da taxa do crescimento médio anual dos últimos dois anos, terminados no 3.º trimestre do ano anterior àquele a que se reporta a actualização ou no trimestre imediatamente anterior, se aquele não estiver disponível à data de 10 de Dezembro;\n\nb) A variação média dos últimos 12 meses do índice de preços no consumidor (IPC), sem habitação, disponível em dezembro do ano anterior ao que reporta a atualização, ou em 30 de novembro, se aquele não estiver disponível à data da assinatura do diploma de atualização.\n\n2 - Para efeitos do disposto no número anterior, a variação anual do PIB é aquela que decorre entre o 4.º trimestre de um ano e o 3.º trimestre do ano seguinte.\n\n3 - Transitoriamente, no ano de 2008, o crescimento real do PIB, previsto na alínea a) do n.º 1, corresponde apenas ao verificado no ano terminado no 3.º trimestre do ano anterior àquele a que se reporta a actualização.\n\n4 - Os termos da atualização das pensões de acordo com os números anteriores são definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n5 - A aplicação das regras definidas no n.º 1 não pode prejudicar o princípio de estabilidade orçamental estabelecido no artigo 10.º da Lei n.º 151/2015, de 11 de setembro.\n\n6 - As pensões de aposentação, reforma e invalidez fixadas com base em fórmula de cálculo anterior à introduzida pela presente lei de montante superior a 12 vezes o IAS não são objecto de actualização até que o seu valor seja ultrapassado por aquele limite.\n\n> Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+  },
+  "114926168": {
+   "fragment_id": "35359975",
+   "type": 14,
+   "heading": "Anexo IV — (referido no n.º 1 do artigo 6.º)",
+   "in_force_from": "2017-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+   ],
+   "markdown": "## Anexo IV — (referido no n.º 1 do artigo 6.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+  },
+  "123915056": {
+   "fragment_id": "35359275",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante da pensão bonificada",
+   "in_force_from": "2019-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Montante da pensão bonificada\n\n1 - A pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações, I. P., que reúnam as condições de aposentação estabelecidas no n.º 1 ou no n.º 2 do artigo 37.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual, é calculada nos termos gerais e bonificada pela aplicação do fator definido no número seguinte.\n\n2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.\n\n3 - A taxa global de bonificação é o produto da taxa de bonificação mensal referida no anexo iii à presente lei, em função do tempo de serviço no momento do ato determinante referido no artigo 43.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, pelo número de meses apurados entre a data em que se verificaram as condições de aposentação ordinária referidas no n.º 1 e aquele ato determinante, com o limite de 70 anos.\n\n4 - (Revogado.)\n\n5 - Para efeitos de apuramento da taxa global de bonificação, relevam apenas os meses de exercício efetivo de funções posteriores a 1 de janeiro de 2008.\n\n6 - O montante da pensão bonificada não pode, em nenhuma circunstância, ser superior a 90  % da última remuneração mensal do subscritor.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "892297843": {
+   "fragment_id": "35359375",
+   "type": 11,
+   "heading": "Artigo 6.º — Actualização de pensões",
+   "in_force_from": "2024-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2024 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2024-891867280), em vigor a partir de 2024-11-01",
+    "Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+   ],
+   "markdown": "###### Artigo 6.º — Actualização de pensões\n\n1 - O valor das pensões de aposentação, reforma e invalidez é atualizado anualmente, a partir do ano seguinte ao da sua atribuição, com efeitos a partir do dia 1 de janeiro de cada ano, em função do seu montante, de acordo com o anexo iv, tendo em conta o valor do IAS e os seguintes indicadores de referência:\n\na) O crescimento real do produto interno bruto (PIB) correspondente à média da taxa do crescimento médio anual dos últimos dois anos, terminados no 3.º trimestre do ano anterior àquele a que se reporta a actualização ou no trimestre imediatamente anterior, se aquele não estiver disponível à data de 10 de Dezembro;\n\nb) A variação média dos últimos 12 meses do índice de preços no consumidor (IPC), sem habitação, disponível em dezembro do ano anterior ao que reporta a atualização, ou em 30 de novembro, se aquele não estiver disponível à data da assinatura do diploma de atualização.\n\n2 - Para efeitos do disposto no número anterior, a variação anual do PIB é aquela que decorre entre o 4.º trimestre de um ano e o 3.º trimestre do ano seguinte.\n\n3 - Transitoriamente, no ano de 2008, o crescimento real do PIB, previsto na alínea a) do n.º 1, corresponde apenas ao verificado no ano terminado no 3.º trimestre do ano anterior àquele a que se reporta a actualização.\n\n4 - Os termos da atualização das pensões de acordo com os números anteriores são definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n5 - A aplicação das regras definidas no n.º 1 não pode prejudicar o princípio de estabilidade orçamental estabelecido no artigo 10.º da Lei n.º 151/2015, de 11 de setembro.\n\n6 - As pensões de aposentação, reforma e invalidez fixadas com base em fórmula de cálculo anterior à introduzida pela presente lei de montante superior a 12 vezes o IAS não são objecto de actualização até que o seu valor seja ultrapassado por aquele limite.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2024 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2024-891867280) A redação introduzida pelo Decreto-Lei n.º 74/2024, de 21 de outubro, aplica-se a todas as pessoas que passaram à situação de reformado ou pensionista no ano de 2024.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2024 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2024-891867280), em vigor a partir de 2024-11-01\n\n> Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+  }
+ }
+}

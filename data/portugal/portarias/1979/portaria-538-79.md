@@ -1,0 +1,1297 @@
+---
+schema_version: '1.0'
+id: pt:dre:364900:por
+title: Portaria n.º 538/79
+short_title: null
+summary: Fixa a classificação das mercadorias para efeito da aplicações de taxa de porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Direcção-Geral de Portos
+proposing_entity: null
+official_number: 538/79
+official_date: null
+publication_date: '1979-10-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/1979, Série I de 1979-10-12
+  number: '236'
+  series: I
+  supplement: null
+  pages: 2634 - 2638
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/10/23600/26342638.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '364900'
+  dre_path: /dr/detalhe/portaria/538-1979-364900
+  internal: pt:dre:364900:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1979-364900
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1979-364900
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4992917b50103f806b12acd990b095e47dce5f3a2b3e0386c0c3c38f9b54220d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Classificação de Mercadorias
+- Direcção Geral de Portos
+- Junta Autónoma dos Portos
+- Regulamento
+- Tarifa Portuária
+relationships:
+- type: amended_by
+  target: pt:dre:485049:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:portaria:300/90
+  label: ADITADAS E ALTERADAS VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA 930/80, PUBLICADA NO
+    DR.IS, 255, DE 801104. ADITADAS E ALTERADAS VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA 170/82,
+    PUBLICADA NO DR.IS, 31, DE 820206, COM A ALTERAÇÃO CONSTANTE DA PORTARIA 930/80, DE 11/4. ADITADAS E ALTERADAS VARIAS
+    MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA 626/84, PUBLICADA NO DR.IS, 194, DE 840822, COM A ALTERAÇÃO
+    CONSTANTE DA PORTARIA 930/80, DE 11/4. ALTERADAS VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA
+    300/90, PUBLICADA NO DR.IS, 89, DE 900417, COM A ALTERAÇÃO CONSTANTE DA PORTARIA 626/84, DE 22/8. E DA PORTARIA 626/84,
+    DE 22/8.
+  source: null
+- type: amended_by
+  target: pt:dre:331984:por
+  label: "Alterada a tabela de classificação pela PORT.300/90.17.04.1990.MOPTC, DR.IS [[89]] de 17.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-1990-331984
+  date: '1990-04-17'
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:01:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 538/79
+
+de 12 de Outubro
+
+O Regulamento de Tarifas das Juntas Autónomas dos Portos foi aprovado pelo [Decreto-Lei n.º 291/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1979-377542), de 16 de Agosto.
+
+No n.º 3 do artigo 82.º desse Regulamento de Tarifas diz-se que a relação de mercadorias a incluir em cada um dos dez grupos referidos na alínea b) do n.º 2 do mesmo artigo, em que terão de ser classificadas para efeitos de aplicação da taxa de porto, será a constante de portaria do Ministro dos Transportes e Comunicações, a publicar sob proposta da Direcção-Geral de Portos, que, para o efeito, colherá das administrações portuárias os necessários elementos, tendo entretanto sido obtidos esses elementos.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, ao abrigo do n.º 3 do artigo 82.º do Regulamento de Tarifas das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 291/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1979-377542), de 16 de Agosto:
+
+As juntas autónomas dos portos, para efeitos de aplicação da taxa de porto às mercadorias movimentadas nos portos sob a sua jurisdição, passam a classificar, a partir do dia 1 de Novembro de 1979, essas mercadorias em cada um dos dez grupos referidos na alínea b) do n.º 2 do artigo 82.º e na alínea b) do n.º 1 do artigo 83.º do Regulamento de Tarifas das Juntas Autónomas dos Portos, de acordo com a relação seguinte:
+
+Grupo I
+
+Caroço de azeitona.
+
+Casca de amêndoa.
+
+Cascalho, brita ou gravilha.
+
+Gelo.
+
+Grainha de uva.
+
+Lenha.
+
+Papel velho.
+
+Resíduos e cinzas de pirites.
+
+Sal de salmoura.
+
+Grupo II
+
+Ácido clorídrico.
+
+Ácido sulfúrico.
+
+Areia.
+
+Barro.
+
+Beterraba.
+
+Blenda.
+
+Boniatos.
+
+Carbonato de cálcio natural.
+
+Caulino.
+
+Desperdício de algodão e de lã.
+
+Enxofre.
+
+Escória de ferro-manganés.
+
+Espatoflúor.
+
+Feldspatos.
+
+Folhelho de uva.
+
+Fosforites.
+
+Galena.
+
+Greda.
+
+Minério de quartzo.
+
+Pedra a granel.
+
+Pedra-pomes.
+
+Pirites.
+
+Polpa de azeitona moída.
+
+Sal comum a granel.
+
+Sal-gema.
+
+Trapo velho.
+
+Volframite.
+
+Grupo III
+
+Água de mesa ou mineromedicinal.
+
+Alabastro em bruto.
+
+Alcatrão.
+
+Alfarroba.
+
+Alfarroba triturada.
+
+Almagre.
+
+Apara-lápis (trombeteiros).
+
+Arame de ferro galvanizado.
+
+Argila.
+
+Barite.
+
+Barro Clay.
+
+Bauxite.
+
+Bolota verde ou seca.
+
+Breu.
+
+Calcário em cubos.
+
+Cal hidráulica.
+
+Cal em pedra e em pó.
+
+Carvão vegetal.
+
+Centeio.
+
+Chumbo velho.
+
+Clínquer (de cimento).
+
+Cloreto de cálcio.
+
+Cloreto de magnésio.
+
+Cloreto de potássio.
+
+Combustíveis líquidos (excepto gasolina).
+
+Cortiça em aparas.
+
+Creosoto.
+
+Desperdícios de papel.
+
+Esparto.
+
+Farelo de trigo.
+
+Ferro e aço para construção e reparação naval.
+
+Formol.
+
+Fosfato diamónico.
+
+Gesso em pedra e moído.
+
+Goma-arábica.
+
+Granito em blocos.
+
+Ilmenite.
+
+Lixívia.
+
+Mármore em blocos.
+
+Mica.
+
+Minério de bário.
+
+Minério de estanho.
+
+Minério de ferro.
+
+Minério de manganés.
+
+Nitrato natural do Chile.
+
+Nitrossulfato de amónio.
+
+Óxido de magnésio.
+
+Palha de todas as classes.
+
+Posolanas.
+
+Rações para gado.
+
+Sal higienizado e sal comum em sacos.
+
+Soda.
+
+Sienite em blocos.
+
+Sucata de ferro.
+
+Sulfato de amónio.
+
+Sulfato de bário.
+
+Sulfato de potássio.
+
+Sulfato de sódio.
+
+Talco mineral.
+
+Tijolos e telhas ordinárias.
+
+Ureia.
+
+Zinco velho.
+
+Grupo IV
+
+Acetileno.
+
+Ácido fosfórico.
+
+Ácidos não especificados.
+
+Aço em billettes.
+
+Aço em chapas.
+
+Aço em chapas (coils-bobinas).
+
+Aglomerado de madeira.
+
+Aguarrás.
+
+Alfaias agrícolas.
+
+Alhos.
+
+Aluminato de sódio.
+
+Areia de quartzo.
+
+Artigos escolares (livros, papéis, utensílios).
+
+Asfalto a granel.
+
+Aveia.
+
+Bagaço de soja.
+
+Barricas e vasilhame de madeira.
+
+Barro trabalhado.
+
+Barro vidrado.
+
+Batata de consumo.
+
+Bentonite.
+
+Bicarbonato de sódio.
+
+Bicarbonato de potássio.
+
+Bórax.
+
+Bronze inutilizado.
+
+Canas e caniços.
+
+Carbonato de bário.
+
+Carbonato de cálcio.
+
+Carbonato de sódio.
+
+Carboneto de cálcio.
+
+Castanhas verdes.
+
+Cebolas.
+
+Centeio.
+
+Cevada.
+
+Cimento.
+
+Combustíveis gasosos (liquefeitos).
+
+Coque.
+
+Cortiça em granulado.
+
+Estearina.
+
+Estilha de madeira.
+
+Farinha de centeio.
+
+Farinha de milho.
+
+Favas.
+
+Ferro em varões.
+
+Fibrocimento e acessórios.
+
+Figos secos.
+
+Fosfato diamónico e de amónio.
+
+Gasolina.
+
+Gesso em obra.
+
+Grafite.
+
+Ladrilhos cerâmicos.
+
+Leite.
+
+Maçã.
+
+Madeira de pinho, de eucalipto e de criptomária para fabrico de pasta de papel.
+
+Madeira de pinho para caixas.
+
+Madeira de pinho para construções.
+
+Madeira em postes telegráficos.
+
+Madeira em toros para minas.
+
+Madeira serrada.
+
+Malte.
+
+Máquinas e aparelhos para construção naval.
+
+Melaço.
+
+Milho.
+
+Mosaicos.
+
+Palma em rama.
+
+Pasta para eléctrodos.
+
+Pasta de figo.
+
+Peles em retalhos.
+
+Pêras.
+
+Plantas vivas.
+
+Rede de ferro galvanizado.
+
+Sabão comum.
+
+Sardinha congelada.
+
+Sorgo.
+
+Superfosfatos.
+
+Tijolos e telhas finas.
+
+Trigo.
+
+Vassouras e piaçás.
+
+Vinagre.
+
+Grupo V
+
+Aço em barras.
+
+Aço em fios.
+
+Aço em perfis.
+
+Açúcar em rama.
+
+Adubos compostos.
+
+Água oxigenada.
+
+Alfa-pineno.
+
+Alpista.
+
+Alumínia calcinada.
+
+Amendoim em casca.
+
+Arroz.
+
+Asfalto em bidões.
+
+Bananas.
+
+Batata de semente.
+
+Bidões vazios e usados.
+
+Borracha sintética.
+
+Caixas de cartão e cartolina (vazias).
+
+Carbonato de magnésio.
+
+Castanhas secas (pilé).
+
+Cerveja.
+
+Chicória.
+
+Cloreto de vinilo.
+
+Cloro líquido.
+
+Colas industriais.
+
+Contentores vazios.
+
+Detergentes.
+
+Dipenteno.
+
+Farinha de peixe.
+
+Farinha de soja.
+
+Farinha de trigo e outros cereais não especificados.
+
+Feijão descascado.
+
+Fermentos.
+
+Ferro em barras.
+
+Ferro em chapas.
+
+Ferro para fabrico de arcos.
+
+Ferro-manganés.
+
+Ferro em perfis.
+
+Fios e cabos eléctricos.
+
+Folha de alumínio.
+
+Folha-de-flandres.
+
+Garrafas e garrafões vazios.
+
+Garrafas de gás vazias.
+
+Grainha de alfarroba.
+
+Granito em cubos e em paralelepípedos.
+
+Granito em guias.
+
+Granito em obra.
+
+Grão.
+
+Lã suja.
+
+Laranjas e limões.
+
+Leveduras.
+
+Livros e impressos nacionais.
+
+Madeira estrangeira em prancha.
+
+Madeira exótica.
+
+Madeira prensada.
+
+Madeira trabalhada de qualquer espécie.
+
+Mantimentos.
+
+Mármore em chapa.
+
+Mármore serrado.
+
+Massas alimentícias.
+
+Mercadorias não especificadas.
+
+Metil-etil-cetona.
+
+Natas de leite.
+
+Óleo de cachalote.
+
+Óleo de peixe (excepto bacalhau).
+
+Ovos.
+
+Paletas sem cargas.
+
+Parquets.
+
+Pasta de madeira crua para fabrico de papel.
+
+Polietileno.
+
+Postes e vigas de betão.
+
+Refrigerantes.
+
+Sacos de papel para embalagens.
+
+Semente de alfarroba.
+
+Semente de girassol.
+
+Sementes não especificadas.
+
+Sílico-manganés.
+
+Solventes aromáticos (benzeno, nitrobenzeno, tolueno, xileno, xilol, etc.).
+
+Sulfato de chumbo.
+
+Sulfato de cobre.
+
+Sulfato de crómio.
+
+Tomates.
+
+Tremoço.
+
+Tubos de barro e de cimento.
+
+Uvas frescas.
+
+Vidro e vidraça em chapa.
+
+Vimes em bruto.
+
+Vinho comum a granel.
+
+Grupo VI
+
+Abacate.
+
+Açúcar.
+
+Álcool.
+
+Álcool vinílico.
+
+Alumina.
+
+Alumínio em bruto.
+
+Alumínio em lingotes.
+
+Alumínio em pranchas.
+
+Amêndoa em casca.
+
+Ananás e abacaxi.
+
+Animais vivos.
+
+Anzóis e artigos de pesca.
+
+Aparelhos e máquinas agrícolas.
+
+Aparelhos de solda.
+
+Arame de cobre e latão.
+
+Azulejos.
+
+Banha de porco.
+
+Banheiras de todos os tipos.
+
+Básculas e balanças.
+
+Baterias de cozinha.
+
+Beta-pineno.
+
+Bicicletas.
+
+Cabos e cordas de juta e sisal.
+
+Camas de ferro.
+
+Carne de suíno e de bovino.
+
+Carris de ferro e acessórios.
+
+Cobre velho.
+
+Colchões e acessórios.
+
+Concentrado de tomate.
+
+Conservas de azeitona.
+
+Conservas de produtos hortícolas.
+
+Contraplacados de madeira.
+
+Cortiça em pranchas.
+
+Couro em pêlo.
+
+Eléctrodos.
+
+Farinha de semente de alfarroba.
+
+Ferro fundido.
+
+Ferro trabalhado.
+
+Figos secos em caixas.
+
+Frutas frescas não especificadas.
+
+Frutas secas não especificadas.
+
+Ftalato de dioctilo.
+
+Impressos.
+
+Isoladores para linhas eléctricas.
+
+Lacre.
+
+Lápis.
+
+Latas de alumínio.
+
+Latas de folha-de-flandres.
+
+Latas e bidões de ferro zincado.
+
+Látex (borracha virgem).
+
+Louças de alumínio.
+
+Louças de uso doméstico.
+
+Mármore em obra.
+
+Mulite.
+
+Óleo de fígado de bacalhau.
+
+Óleos de sementes não especificadas.
+
+Papel em bobinas para imprimir.
+
+Papel, cartolina, cartão em rolos ou folhas.
+
+Papel e sobrescritos para escrever.
+
+Pasta de madeira branqueada para fabrico de papel.
+
+Pasta para papel kraft.
+
+Pasta Soderberg.
+
+Peças para bicicletas.
+
+Pedra de esmeril.
+
+Peixe congelado não especificado.
+
+Peles e couros.
+
+Pez louro.
+
+Placas de espuma de poliuretano (para estofos e colchões).
+
+Polietileno em tubos.
+
+Porcelanas.
+
+Pregos e cavilhas.
+
+Preparados para alimentação de crianças.
+
+Produtos de moldação.
+
+Redes.
+
+Resina dismutada.
+
+Sacaria nova de fibras não especificadas.
+
+Sumos de frutas.
+
+Tapioca.
+
+Tecidos para enfardar.
+
+Tijolos refractários.
+
+Trevo.
+
+Tripas secas ou em salmoura.
+
+Tubos de ferro galvanizado e acessórios.
+
+Tubos P. V. C. e acessórios.
+
+Vagonetas e carros de mão.
+
+Vinho comum e da Madeira em cascos e em contentores.
+
+Vinho comum engarrafado.
+
+Zinco em lingotes.
+
+Zinco trabalhado.
+
+Grupo VII
+
+Aço em cabos.
+
+Aço em curvas.
+
+Aço em tubos.
+
+Aguardente e outras bebidas espirituosas nacionais.
+
+Algodão.
+
+Alumínio em chapa.
+
+Alumínio galvanizado.
+
+Alumínio em perfilados (para caixilharia).
+
+Amêndoa em miolo.
+
+Amendoim descascado.
+
+Ânodos de zinco.
+
+Aparelhos e objectos para instalações eléctricas.
+
+Asfalto em bidões.
+
+Atum congelado e salgado.
+
+Azeite.
+
+Bolachas, biscoitos e similares.
+
+Bolbos de flores.
+
+Cabos e cordas de fibras artificiais ou sintéticas.
+
+Calçado de todas as espécies.
+
+Carne de suíno e bovino.
+
+Cobre.
+
+Cobre em lingotes.
+
+Conserva de atum.
+
+Conservas de biqueirão.
+
+Conservas de cavala.
+
+Conservas de ervilhas.
+
+Conservas de frutas não especificadas.
+
+Conservas de peixes não especificados.
+
+Conservas de sardinhas.
+
+Corda em rolos.
+
+Correarias.
+
+Cortiça em aglomerados.
+
+Cortiça em placas e em discos.
+
+Curtidos.
+
+Espelhos.
+
+Explosivos, pólvora e dinamite.
+
+Farinhas lácteas.
+
+Ferragens e quinquilharias.
+
+Ferramentas manuais e acessórios.
+
+Ferro em correntes.
+
+Fibra de vidro.
+
+Fibras têxteis não especificadas.
+
+Fogões domésticos e industriais a lenha, carvão ou gasóleo.
+
+Fósforos.
+
+Lava-louças de alumínio.
+
+Louças sanitárias.
+
+Malas e maletas.
+
+Manteiga, margarina e similares.
+
+Móveis de pinho e aglomerados (novos ou usados).
+
+Nozes com casca.
+
+Objectos de escritório.
+
+Óleos lubrificantes.
+
+Óleos para usos domésticos.
+
+Ostras.
+
+Parafusos, rebites, porcas e similares.
+
+Peças para automóveis (C. K. D.)
+
+Peças para motorizadas.
+
+Peixe fresco.
+
+Pesticidas para usos agrícolas e florestais.
+
+Pilhas eléctricas.
+
+Pincéis e trinchas.
+
+Plásticos em obra.
+
+Pneumáticos e câmaras-de-ar.
+
+Pomada para calçado.
+
+Produtos farmacêuticos não especificados.
+
+Produtos químicos não especificados.
+
+Resinas sintéticas.
+
+Sabonetes.
+
+Sacaria de juta.
+
+Solas.
+
+Tabaco em rama.
+
+Tecidos de juta.
+
+Tintas.
+
+Tornos mecânicos.
+
+Vernizes.
+
+Vidro em obra.
+
+Vimes em obra.
+
+Vinhos espumosos, espirituosos e licorosos nacionais.
+
+Xaropes medicinais.
+
+Zinco em obra.
+
+Grupo VIII
+
+Anilinas.
+
+Artigos de borracha.
+
+Artigos de desporto (excepto barcos).
+
+Bacalhau seco ou verde e seus derivados.
+
+Bombas eléctricas.
+
+Borracha manufacturada ou vulcanizada.
+
+Cacau.
+
+Celulóide em bruto ou em obra.
+
+Chocolate.
+
+Cobre trabalhado.
+
+Cobre em tubos.
+
+Contadores de água, gás e electricidade.
+
+Correias de couro.
+
+Correias de transmissão.
+
+Desinfectantes.
+
+Enchidos e conservas de carne.
+
+Espoletas de minas.
+
+Estanho trabalhado.
+
+Ferramentas mecânicas.
+
+Fitas magnéticas para gravação.
+
+Fogões domésticos e industriais eléctricos e a gás.
+
+Incubadoras.
+
+Insecticidas.
+
+Lâmpadas de todas as classes.
+
+Máquinas e aparelhos eléctricos e electro-domésticos não especificados.
+
+Máquinas não especificadas.
+
+Mariscos não especificados.
+
+Mercúrio.
+
+Metais especiais.
+
+Móveis de madeira.
+
+Móveis metálicos.
+
+Nozes sem casca.
+
+Papel de fumar.
+
+Peças para máquinas, automóveis e tractores.
+
+Peles manufacturadas não especificadas.
+
+Pesticidas para usos domésticos.
+
+Pimenta e especiarias não especificadas.
+
+Produtos de chocolate e cacau.
+
+Queijos.
+
+Tampas de alumínio e de folha-de-flandres.
+
+Tecidos de algodão, de fibras sintéticas e de lã.
+
+Torneiras e acessórios.
+
+Grupo IX
+
+Alcaparras.
+
+Anchovas.
+
+Aparelhos de rádio, televisão e similares e acessórios.
+
+Aparelhos telefónicos.
+
+Armas de caça, defesa, cartuchos e acessórios.
+
+Autocarros.
+
+Automóveis ligeiros de cilindrada inferior a 1300 cc.
+
+Bebidas estrangeiras.
+
+Bijutarias.
+
+Brinquedos.
+
+Camionetas.
+
+Chapas de tufenol.
+
+Cortiça em rolhas.
+
+Cromos.
+
+Discos fonográficos.
+
+Empilhadores.
+
+Estampas.
+
+Fibra de nylon.
+
+Fio de seda.
+
+Fitas magnéticas gravadas.
+
+Flores artificiais.
+
+Furgonetas.
+
+Geradores.
+
+Guarda-chuvas.
+
+Guarda-sóis.
+
+Impermeáveis.
+
+Instrumentos de cirurgia e acessórios.
+
+Instrumentos de óptica e acessórios.
+
+Lenços de algibeira.
+
+Livros, brochuras e impressos estrangeiros.
+
+Lonas de algodão.
+
+Lonas para fabrico de pneus.
+
+Malhas interiores e exteriores.
+
+Máquinas e aparelhos para produção de frio.
+
+Máquinas, caldeiras e aparelhos para instalações mecânicas.
+
+Máquinas de calcular.
+
+Máquinas de escrever e coser nacionais.
+
+Material eléctrico.
+
+Material para indústria óptica.
+
+Material para prospecção petrolífera.
+
+Motociclos.
+
+Motores de explosão ou combustão interna.
+
+Peças para navios não especificadas.
+
+Pinhão em miolo.
+
+Sombrinhas.
+
+Tabaco manufacturado.
+
+Tapeçarias nacionais.
+
+Tecidos de todas as classes estrangeiros.
+
+Tractores.
+
+Transformadores.
+
+Velocípedes.
+
+Vestuário nacional.
+
+Grupo X
+
+Ágar-ágar.
+
+Alabastro trabalhado.
+
+Âmbar.
+
+Antiguidades.
+
+Aparelhos de ciência, de arte e acessórios.
+
+Aquecedores eléctricos e de gás.
+
+Artigos de campismo.
+
+Astracã e peles análogas.
+
+Automóveis ligeiros de cilindrada igual ou superior a 1300 cc.
+
+Bombas e moto-bombas para líquidos e gases.
+
+Bordados.
+
+Bronzes artísticos.
+
+Café.
+
+Caravanas.
+
+Cristais.
+
+Embarcações desportivas, de recreio e acessórios.
+
+Esculturas.
+
+Essências.
+
+Estátuas.
+
+Exaustores.
+
+Gramofones e seus análogos.
+
+Imagens.
+
+Instrumentos de música não especificados.
+
+Joalharia.
+
+Leques.
+
+Máquinas de escrever e coser e similares estrangeiras.
+
+Máquinas de filmar, projectar e acessórios.
+
+Máquinas fotográficas e acessórios.
+
+Marfim.
+
+Metais preciosos.
+
+Moedas.
+
+Moldes de aço.
+
+Objectos de arte.
+
+Pelaria fina.
+
+Perfumarias e cosméticos.
+
+Planos, pianolas e acessórios.
+
+Porcelana fina e artística.
+
+Prata em moedas.
+
+Prata trabalhada.
+
+Quadros.
+
+Relojoaria.
+
+Tapeçarias antigas.
+
+Tapeçarias estrangeiras.
+
+Tecidos de seda.
+
+Vestuário estrangeiro.
+
+Vidro para e em lentes.
+
+Ministério dos Transportes e Comunicações, 11 de Setembro de 1979. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.

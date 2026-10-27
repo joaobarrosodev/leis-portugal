@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0118:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0118-20030717",
+ "dre_path": null,
+ "source_lastmod": "2003-07-17",
+ "versions": [
+  {
+   "date": "1976-01-30",
+   "future": false,
+   "celex": "31976L0118",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2003-07-17",
+   "future": false,
+   "celex": "01976L0118-20030717",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "4d7350463201d700"
+   ]
+  }
+ ],
+ "fragments": {
+  "4d7350463201d700": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0118 — PT — 17.07.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0118) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0118) [de 18 de Dezembro de 1975](http://publications.europa.eu/resource/celex/31976L0118) [relativa à aproximação das legislações dos Estados-membros respeitantes a certos leites conservados parcial ou totalmente desidratados destinados à alimentação humana](http://publications.europa.eu/resource/celex/31976L0118) [(76/118/CEE)](http://publications.europa.eu/resource/celex/31976L0118) (JO L 024, 30.1.1976, p.49)\n\n**revogado por:**\n\n- [Directiva 2001/114/CE do Conselho de 20 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001L0114) — L 15 — 19 — 17.1.2002"
+  }
+ }
+}

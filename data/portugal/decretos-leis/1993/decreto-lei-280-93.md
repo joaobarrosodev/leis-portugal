@@ -1,0 +1,476 @@
+---
+schema_version: '1.0'
+id: pt:dre:356105:por
+title: Decreto-Lei n.º 280/93
+short_title: null
+summary: Estabelece o regime jurídico do trabalho portuário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 280/93
+official_date: null
+publication_date: '1993-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1993, Série I-A de 1993-08-13
+  number: '189'
+  series: I
+  supplement: null
+  pages: 4324 - 4327
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/08/189a00/43244327.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-02-01'
+version_history:
+  file: decreto-lei-280-93.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1993-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-02-01'
+    amending: pt:dre:588819:por
+    amending_title: Lei n.º 3/2013
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Capítulo V
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/280/1993/p/cons/20130114/pt/html
+  oj: null
+  dre: '356105'
+  dre_path: /dr/detalhe/decreto-lei/280-1993-356105
+  internal: pt:dre:356105:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1993-356105
+  metadata_url: https://data.dre.pt/eli/dec-lei/280/1993/p/cons/20130114/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-869610288
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-869610288
+  retrieved_at: '2026-10-22T13:09:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 10a1a07f94029ccbd40ece0a42a761b1b3400b7388c305ac025f240602c7ed75
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:09:52Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-280-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa
+- Multa
+- Administração de Portos
+- Carreira Profissional
+- Fiscalização
+- Instituto do Trabalho Portuário
+- Licenciamento
+- Operador Portuário
+- Contrato de Trabalho
+- Regime Jurídico
+- Trabalhador Portuário
+- Trabalho Portuário
+relationships:
+- type: amended_by
+  target: pt:dre:588819:por
+  label: Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Capítulo V; Altera
+    Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Revoga Artigo 5.º; Revoga Artigo 20.º; Revoga
+    Artigo 21.º; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819
+  date: '2013-01-14'
+- type: cites
+  target: pt:dre:285295:por
+  label: null
+  source: http://data.dre.pt/eli/lei/1/1993/01/06/p/dre
+- type: cites
+  target: pt:dre:288245:por
+  label: null
+  source: http://data.dre.pt/eli/port/1037/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:301635:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/357/1991/09/20/p/dre
+article_structure:
+  article_count: 26
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:09:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 280/93
+
+Decreto-Lei n.º 280/93
+
+de 13 de Agosto
+
+Os interesses da economia nacional reclamam medidas susceptíveis de proporcionarem um acréscimo de eficiência e competitividade dos portos portugueses, designadamente através de reformulação do regime jurídico do trabalho portuário.
+
+Por outro lado, os portos enfrentam uma constante evolução tecnológica, traduzida, nomeadamente, em novas exigências de qualificação dos trabalhadores e na redução da utilização intensiva de mão-de-obra.
+
+De outra parte, a dinâmica do processo de integração europeia e os desafios que, neste contexto, se colocam ao nosso país impõem a necessidade de salvaguardar a competitividade dos portos nacionais.
+
+Ponderando estes factores, o regime jurídico que agora se estabelece visa contribuir para uma racionalização da gestão de mão-de-obra nos portos portugueses, por forma a viabilizar o abaixamento dos custos de operação portuária, condição indispensável para que os portos nacionais possam enfrentar com sucesso os exigentes desafios do futuro.
+
+Para além disso, pretende o Governo com a nova disciplina de relação de trabalho portuário consagrar um regime que contribua, de forma sustentada, para a estabilidade do emprego, para uma adequada qualificação profissional e para uma maior dignificação dos trabalhadores portuários.
+
+O presente diploma foi sujeito a discussão pública, tendo sido ouvidas as associações sindicais representativas dos trabalhadores portuários, nos termos do previsto na Lei n.º 16/79, de 26 de Maio.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 2.º da Lei n.º 1/93, de 6 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Generalidades
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente diploma estabelece o regime jurídico do trabalho portuário.
+
+2 - Considera-se trabalho portuário, para efeitos do presente diploma, o prestado nas diversas tarefas de movimentação de cargas nas áreas portuárias de prestação de serviço público e nas áreas portuárias de serviço privativo, dentro da zona portuária.
+
+3 - O disposto no presente diploma não é aplicável:
+
+a) Ao trabalho prestado por trabalhadores das autoridades portuárias, nem ao dos trabalhadores que na zona portuária não se encontrem exclusiva ou predominantemente afetos à atividade de movimentação de cargas;
+
+b) À movimentação de cargas em cais e terminais através da utilização de trailers ou veículos pesados de transporte de mercadorias;
+
+c) Ao trabalho relativo à movimentação e arrumação de mercadorias em armazéns, bem como em parques e outras infraestruturas de plataformas logísticas constituídas ao abrigo da Lei n.º 152/2008, de 5 de agosto, ainda que integradas em zonas portuárias;
+
+d) Ao controlo de entradas e saídas de mercadorias em portarias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 2.º — Definições
+
+Para efeitos deste diploma, entende-se por:
+
+a) «Efetivo dos portos», o conjunto de trabalhadores que, possuindo aptidões e qualificação profissional adequadas ao exercício da profissão, desenvolvem a sua atividade profissional na movimentação de cargas, ao abrigo de um contrato de trabalho;
+
+b) «Atividade de movimentação de cargas», a atividade de estiva, desestiva, conferência, carga, descarga, transbordo, movimentação e arrumação de mercadorias em cais, parques e terminais;
+
+c) «Empresa de trabalho portuário», a pessoa colectiva cuja actividade consiste exclusivamente na cedência de trabalhadores qualificados para o exercício das diferentes tarefas portuárias de movimentação de cargas;
+
+d) «Zona portuária», o espaço situado dentro dos limites da área de jurisdição das autoridades portuárias, constituído, designadamente, por planos de água, canais de acesso, molhes e obras de protecção, cais, terminais, terraplenos e quaisquer terrenos, armazéns e outras instalações;
+
+e) «Áreas portuárias de prestação de serviço público», as áreas dominiais situadas na zona portuária e as instalações nela implantadas, pertencentes ou submetidas à jurisdição da autoridade portuária e por ela mantidas ou objecto de concessão de serviço público, nas quais se realizam operações de movimentação de cargas, em regime de serviço público;
+
+f) «Áreas portuárias de serviço privativo», as áreas situadas na zona portuária e as instalações nelas implantadas que sejam objecto de direitos de uso privativo de parcelas de domínio público sob a jurisdição da autoridade portuária, nas quais se realizam operações de movimentação de cargas, exclusivamente destinadas ou com origem no próprio estabelecimento industrial e que se enquadram no exercício normal da actividade prevista no título de uso privativo;
+
+g) «Serviço público de movimentação de cargas», aquele que é prestado a terceiros por empresa devidamente licenciada para o efeito, com fins comerciais, na zona portuária;
+
+h) «Autoridade portuária», as administrações portuárias e as juntas autónomas dos portos, a quem está cometida a administração e a responsabilidade pelo funcionamento dos portos nacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 3.º — Regime das relações de trabalho
+
+Às relações entre o trabalhador que desenvolve a sua atividade profissional na movimentação de cargas e as empresas de estiva, as empresas de trabalho portuário e as empresas que explorem áreas de serviço privativo é aplicável o disposto no presente diploma, no Código do Trabalho e demais legislação complementar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 4.º — Organização do trabalho portuário
+
+1 - Na organização e prestação do trabalho portuário as entidades empregadoras e utilizadoras de trabalho portuário devem ter em conta as exigências de qualidade, produtividade e continuidade do serviço prestado aos utentes dos portos, bem como os interesses da economia e abastecimento nacional e o princípio da livre circulação de pessoas e mercadorias.
+
+2 - A organização do trabalho nas operações portuárias só pode ser sujeita aos limites ou contingentes admitidos por lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+### Capítulo II — Contratos de trabalho portuário
+
+###### Artigo 5.º — Carteira profissional
+
+Só podem ser contratados para a prestação de trabalho portuário
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 202/93 - Diário da República n.º 255/1993, 2º Suplemento, Série I-A de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/202-1993-337041), produz efeitos a partir de 1993-11-01
+
+###### Artigo 6.º — Formação e qualificação profissional
+
+1 - O trabalhador que desenvolve a sua atividade profissional na movimentação de cargas deve receber periodicamente da respetiva entidade empregadora a formação profissional necessária ao desempenho correto e em segurança das suas funções, a ministrar por entidades certificadas.
+
+2 - Para efeitos de cumprimento do disposto no número anterior, a entidade empregadora deve assegurar ao trabalhador:
+
+a) Formação inicial no momento do ingresso no mercado do trabalho portuário;
+
+b) Formação profissional periódica visando a atualização de conhecimentos, sem prejuízo do direito individual à formação contínua prevista no artigo 131.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.
+
+3 - Constitui contraordenação grave a violação do disposto nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 6.º-A — Proteção da saúde e segurança no trabalho
+
+1 - É aplicável à atividade de movimentação de cargas o regime jurídico da promoção da segurança e saúde no trabalho, aprovado pela Lei n.º 102/2009, de 10 de setembro, sem prejuízo do disposto nos números seguintes.
+
+2 - A entidade empregadora deve assegurar ao trabalhador condições de saúde e segurança em todos os aspetos relacionados com a atividade de movimentação de cargas, nomeadamente no plano da instalação e manutenção da sinalização de segurança nas áreas portuárias.
+
+3 - Sem prejuízo da formação prevista no artigo 6.º do presente diploma, a entidade empregadora deve assegurar ao trabalhador uma formação adequada no domínio da segurança e saúde no trabalho.
+
+4 - Constitui contraordenação grave a violação do disposto nos n.os 2 e 3.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 7.º — Regime especial do trabalho portuário
+
+1 - É aplicável à atividade de movimentação de cargas o disposto no artigo 142.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, não podendo a duração total de contratos de trabalho a termo de muito curta duração celebrados com o mesmo empregador para a atividade de movimentação de cargas exceder 120 dias de trabalho no ano civil.
+
+2 - O contrato de trabalho a termo para movimentação de cargas pode ser celebrado por prazo inferior a seis meses, desde que a sua duração não seja inferior à prevista para a tarefa ou serviço a realizar.
+
+3 - O contrato de trabalho a termo celebrado para movimentação de cargas não tem limite de renovações, não podendo, no entanto, a sua duração exceder três anos.
+
+4 - É admitida a prestação de trabalho de movimentação de cargas na modalidade de trabalho intermitente.
+
+5 - Para os efeitos previstos no número anterior, o empregador deve informar o trabalhador do início de cada período de prestação de trabalho com a antecedência de 10 dias, podendo em instrumento de regulamentação coletiva de trabalho ser acordado um prazo inferior.
+
+6 - A prestação do trabalho portuário suplementar só pode ser feita até ao limite máximo de 250 horas anuais.
+
+7 - O limite máximo referido no número anterior pode ser afastado por instrumento de regulamentação coletiva de trabalho quando a adoção de outro regime contratual de trabalho suplementar ou de outro limite máximo melhor se harmonizem com a adoção e implementação de outras disposições sobre utilização, contratação e remuneração de pessoal que favoreçam a eficiência e competitividade do respetivo porto.
+
+8 - O afastamento do limite máximo previsto no número anterior depende de homologação pelos membros do Governo responsáveis pelas áreas dos transportes e laboral, sob parecer favorável do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), relativo à verificação das respetivas condições.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+### Capítulo III — Empresas de trabalho portuário
+
+###### Artigo 8.º — Licenciamento
+
+1 - O exercício da actividade de cedência de trabalhadores para a realização de operações portuárias depende de licenciamento.
+
+2 - O licenciamento das empresas de trabalho portuário é da competência do IMT, I. P., e será atribuído de acordo com o procedimento fixado por portaria do membro do Governo responsável pela área dos transportes.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 9.º — Empresas de trabalho portuário
+
+1 - Podem requerer a licença referida no artigo anterior as pessoas colectivas de direito privado constituídas sob forma de associação, de cooperativa ou de sociedade comercial, cujo objecto social consista exclusivamente na cedência temporária de trabalhadores portuários.
+
+2 - A concessão de licença depende do preenchimento dos requisitos de natureza técnica, económica e financeira, a estabelecer por decreto regulamentar.
+
+3 - Aplica-se subsidiariamente à actividade das empresas referidas nos números anteriores o disposto no Decreto-Lei n.º 358/89, de 17 de Outubro.
+
+4 - As empresas de trabalho portuário podem ceder trabalhadores que para esse efeito tenham contratado diretamente ou, nos termos a definir em instrumentos de regulamentação coletiva de trabalho, com recurso a relações contratuais celebradas com empresas de trabalho temporário, não constituindo esta relação cedência ilícita tal como prevista no n.º 2 do artigo 173.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.
+
+5 - Podem solicitar a concessão de licença, nos termos do n.º 1, as empresas que hajam iniciado o respectivo processo de constituição, caso em que a licença só poderá ser concedida a título provisório, pelo período de 180 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 10.º — Registo de empresas
+
+1 - O IMT, I. P., manterá atualizados os registos das empresas de trabalho portuário que atuam em cada porto.
+
+2 - O registo referido no número anterior tem carácter público, podendo qualquer interessado pedir certidões das inscrições dele constantes.
+
+3 - O licenciamento e a autorização referidos no artigo 8.º serão oficiosamente comunicados, no prazo de oito dias, pelo IMT, I. P., às autoridades portuárias, para efeitos de registo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+### Capítulo IV — Transição de regimes
+
+###### Artigo 11.º — Transição de regimes anteriores
+
+1 - São extintos, sem prejuízo dos direitos garantidos por este diploma, os regimes de inscrição e de exclusivo dos trabalhadores portuários inscritos, bem como os contingentes dos portos, criados nos termos da legislação anteriormente vigente em matéria de trabalho portuário, designadamente do artigo 25.º do Decreto-Lei n.º 151/90, de 15 de Maio.
+
+2 - Aos trabalhadores portuários inscritos no contingente dos diversos portos é reconhecida, sem qualquer formalidade, a integração no efetivo portuário nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 12.º — Transformação dos organismos de gestão de mão-de-obra portuária
+
+1 - Os organismos de gestão de mão-de-obra portuária e as demais entidades responsáveis pela gestão de mão-de-obra do contigente comum dos portos podem, nos nove meses subsequentes à entrada em vigor do presente diploma, transformar-se em empresas de trabalho portuário.
+
+2 - A transformação referida no número anterior depende da adaptação do organismo em causa aos requisitos previstos no presente diploma e seus regulamentos, devendo o registo correspondente do ITP ser por ele requerido, depois de cumpridas todas as demais formalidades da transformação.
+
+3 - Conservam o estatuto de utilidade pública, quando mantenham a forma associativa, as entidades referidas nos números anteriores que:
+
+a) Absorvam trabalhadores oriundos do contingente comum criado ao abrigo da legislação anterior no porto em que se propõem operar, em número não inferior a um terço desse contingente;
+
+b) Ofereçam especiais garantias em matéria de estabilidade de emprego e de cooperação com a administração na prossecução dos interesses e fins desta, nomeadamente no desenvolvimento e melhoria dos serviços portuários.
+
+###### Artigo 13.º — Título contratual dos trabalhadores oriundos do contingente comum
+
+1 - Os trabalhadores que, à data de entrada em vigor do presente diploma, se encontrem inscritos num organismo de gestão de mão-de-obra portuária regularmente constituído e registados no ITP, quando perteçam ao contingente comum do porto, são considerados, para todos os efeitos legais, vinculados àquele organismo por contrato de trabalho sem termo.
+
+2 - A antiguidade dos contratos a que se refere o número anterior reporta-se à data da primeira inscrição do trabalhador no contingente de qualquer porto.
+
+###### Artigo 14.º — Direito de opção dos trabalhadores dos quadros de empresas de operação portuária
+
+1 - Os trabalhadores portuários que se encontrem, à data da entrada em vigor do presente diploma, vinculados por contrato de trabalho sem termo aos quadros privativos de uma empresa de operação portuária, ao abrigo do artigo 33.º do Decreto-Lei n.º 151/90, podem optar pela manutenção na referida situação ou pelo ingresso nos quadros do organismo de gestão de mão-de-obra existente no respectivo porto, mantendo a antiguidade decorrente da sua posição contratual anterior com a categoria de trabalhador portuário de base.
+
+2 - A opção pelo ingresso nos quadros do organismo referidos no número anterior depende de comunicação assinada e reconhecida, por qualquer meio legal, como sendo do próprio trabalhador, dirigida a esse organismo e com conhecimento simultâneo, por duplicado, ao ITP e à entidade empregadora, a qual produz todos os seus efeitos, quer em relação àquele organismo, quer em relação a esta entidade, no 1.º dia do 2.º mês subsequente àquela comunicação e conhecimento.
+
+3 - O direito de opção dos trabalhadores abrangidos pelo n.º 1 deve ser exercido, sob pena de caducidade, dentro do prazo de três meses contados da data de entrada em vigor do presente diploma.
+
+###### Artigo 15.º — Antiguidade dos trabalhadores oriundos do contingente comum
+
+Os trabalhadores oriundos dos organismos de gestão de mão-de-obra portuária que sejam contratados por empresas de trabalho portuário ou por qualquer outro empregador que realize operações portuárias mantêm, para efeitos de reforma, a antiguidade da respectiva inscrição.
+
+### Capítulo V — Regime das contraordenações
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 16.º — Regime das contraordenações
+
+1 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, aplica-se às infrações por violação do presente diploma.
+
+2 - O processamento das contraordenações laborais segue o regime processual previsto na Lei n.º 107/2009, de 14 de setembro, competindo ao serviço com competência inspetiva do ministério responsável pela área laboral a instrução dos respetivos processos.
+
+3 - Sem prejuízo dos números anteriores, às infrações por violação do presente diploma no que respeita ao licenciamento, registo e autorizações das empresas de trabalho portuário é aplicável o regime geral das contraordenações, competindo ao serviço com competência inspetiva do ministério responsável pela área dos transportes a instrução dos respetivos processos.
+
+4 - A tentativa e a negligência são puníveis, sendo, nesse caso, reduzidos para metade os limites mínimos e máximos das coimas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 17.º — Exercício de atividade de empresa de trabalho portuário por entidade não licenciada
+
+1 - O exercício da atividade de empresa de trabalho portuário por entidade não licenciada constitui contraordenação, punível com coima variável em função do volume de negócios da empresa e do grau da culpa do infrator.
+
+2 - Os limites mínimo e máximo das coimas correspondentes são os seguintes:
+
+a) Se praticada por empresa com volume de negócios inferior a (euro) 500 000, de 20 unidades de conta processual (UC) a 40 UC em caso de negligência e de 45 UC a 95 UC em caso de dolo;
+
+b) Se praticada por empresa com volume de negócios igual ou superior a (euro) 500 000 e inferior a (euro) 2 500 000, de 32 UC a 80 UC em caso de negligência e de 85 UC a 190 UC em caso de dolo;
+
+c) Se praticada por empresa com volume de negócios igual ou superior a (euro) 2 500 000 e inferior a (euro) 5 000 000, de 42 UC a 120 UC em caso de negligência e de 120 UC a 280 UC em caso de dolo;
+
+d) Se praticada por empresa com volume de negócios igual ou superior a (euro) 5 000 000 e inferior a (euro) 10 000 000, de 55 UC a 140 UC em caso de negligência e de 145 UC a 400 UC em caso de dolo;
+
+e) Se praticada por empresa com volume de negócios igual ou superior a (euro) 10 000 000, de 90 UC a 300 UC em caso de negligência e de 300 UC a 600 UC em caso de dolo.
+
+3 - O volume de negócios reporta-se ao ano civil anterior ao da prática da infração.
+
+4 - Caso a empresa não tenha atividade no ano civil anterior ao da prática da infração, considera-se o volume de negócios do ano mais recente.
+
+5 - No ano de início de atividade são aplicáveis os limites previstos para empresa com volume de negócios inferior a (euro) 500 000.
+
+6 - Se o empregador não indicar o volume de negócios, aplicam-se os limites previstos para empresa com volume de negócios igual ou superior a (euro) 10 000 000.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 18.º — Sanções acessórias
+
+1 - Para além das sanções acessórias previstas no Código do Trabalho, o exercício da atividade de empresa de trabalho portuário por entidade não licenciada é ainda punível com ordem de encerramento do estabelecimento onde a atividade é exercida até à regularização da situação, juntamente com a coima.
+
+2 - As sanções acessórias referidas no número anterior são averbadas no registo referido no artigo 10.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 19.º — Destino das coimas
+
+1 - Nos processos cuja instrução esteja cometida ao serviço com competência inspetiva do ministério responsável pela área dos transportes, o produto da coima será repartido de acordo com as seguintes proporções:
+
+a) 20 % para o serviço com competência inspetiva do ministério responsável pela área dos transportes;
+
+b) 20 % para a autoridade portuária;
+
+c) 60 % para o Estado.
+
+2 - O serviço com competência inspetiva do ministério responsável pela área dos transportes transfere trimestralmente para as entidades referidas no número anterior as importâncias a que têm direito.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 20.º — Sanção acessória
+
+Pela comissão das infracções a que se referem os artigos 17.º e 18.º pode ser aplicada, conjuntamente com a coima, a sanção de interdição de exercício de actividade até dois anos.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 21.º — Destino das coimas
+
+1 - O montante das coimas resultantes das contra-ordenações cujo processamento e decisão sejam da competência do ITP reverte para esta entidade na proporção de 20%, cabendo outro tanto à autoridade portuária, sendo o remanescente entregue nos cofres do Estado.
+
+2 - O ITP remeterá trimestralmente às entidades referidas no número anterior as importâncias a que têm direito.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 22.º — Medidas complementares
+
+1 - Decorrido o prazo a que se refere o n.º 1 do artigo 13.º, caso não ocorra a transformação do organismo aí previsto em empresa de trabalho portuário nem se encontre assegurada, por outra forma, a manutenção do vínculo laboral de todos os trabalhadores oriundos do referido organismo, o Estado, supletiva e transitoriamente, garante, directamente ou através de entidade a constituir para o efeito, a continuidade deste vínculo e a satisfação dos direitos dele emergentes.
+
+2 - Nos portos onde, após o processo de reestruturação da operação e do trabalho portuário, se verifique existirem ainda excedentes de pessoal portuário do contingente comum não absorvidos pela nova organização do sector, por efeito da maior especialização ou da redução da procura de mão-de-obra ou da introdução de novas tecnologias e métodos de trabalho, serão estabelecidos incentivos à reconversão profissional, à rescisão por mútuo acordo do respectivo contrato e ao abandono da actividade.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 23.º — Processos
+
+Os organismos de gestão de mão-de-obra ficam obrigados a remeter às entidades para as quais os trabalhadores se transfiram todos os processos, documentos e informações a eles respeitantes.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 3/2013 - Diário da República n.º 9/2013, Série I de 2013-01-14](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), em vigor a partir de 2013-02-01
+
+###### Artigo 24.º — Revogação expressa
+
+São revogados:
+
+a) Os artigos 17.º a 20.º do Decreto-Lei n.º 282-C/84, de 20 de Agosto;
+
+b) Os Decretos-Leis n.os 151/90, de 15 de Maio, e 357/91, de 20 de Setembro;
+
+c) As Portarias n.os 481/90, de 28 de Junho, 580/90, de 21 de Junho, e 1037/91, de 9 de Outubro.
+
+###### Artigo 25.º — Entrada em vigor
+
+O presente diploma entra em vigor em 1 de Novembro de 1993.
+
+Visto e aprovado em Conselho de Ministros de 8 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda - Eduardo Eugénio Castro de Azevedo Soares.
+
+Promulgado em 28 de Julho de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Julho de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

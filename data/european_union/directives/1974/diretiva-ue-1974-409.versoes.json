@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31974L0409:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974L0409-20030801",
+ "dre_path": null,
+ "source_lastmod": "2003-08-01",
+ "versions": [
+  {
+   "date": "1974-08-12",
+   "future": false,
+   "celex": "31974L0409",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2003-08-01",
+   "future": false,
+   "celex": "01974L0409-20030801",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "1f735acdfdb88e32"
+   ]
+  }
+ ],
+ "fragments": {
+  "1f735acdfdb88e32": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974L0409 — PT — 01.08.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974L0409) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31974L0409) [de 22 de Julho de 1974](http://publications.europa.eu/resource/celex/31974L0409) [relativa à harmonização das legislações dos Estados-membros respeitantes ao mel](http://publications.europa.eu/resource/celex/31974L0409) [(74/409/CEE)](http://publications.europa.eu/resource/celex/31974L0409) (JO L 221, 12.8.1974, p.10)\n\n**revogado por:**\n\n- [Directiva 2001/110/CE do Conselho de 20 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001L0110) — L 10 — 47 — 12.1.2002"
+  }
+ }
+}

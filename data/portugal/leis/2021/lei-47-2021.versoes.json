@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:168184695:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-203320596",
+ "dre_path": "/dr/detalhe/lei/47-2021-168184695",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "203313735",
+    "203313736",
+    "203313737",
+    "203313738",
+    "203313739"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:203283192:por",
+     "title": "Acórdão do Tribunal Constitucional n.º 626/2022",
+     "published": "2022-11-10",
+     "dre_path": "/dr/detalhe/acordao-tribunal-constitucional/626-2022-203283192",
+     "date": "2021-07-24"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "203313735": {
+   "fragment_id": "203320597",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 47/2021\n\nde 23 de julho\n\nSumário: Revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário.\n\nRevisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "203313736": {
+   "fragment_id": "203320598",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina a abertura de um processo negocial com as estruturas sindicais para a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário estabelecido pelo Decreto-Lei n.º 132/2012, de 27 de junho."
+  },
+  "203313737": {
+   "fragment_id": "203320599",
+   "type": 11,
+   "heading": "Artigo 2.º — Revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário\n\nNo prazo de 30 dias, o Governo inicia negociação com as estruturas sindicais para a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário de forma a garantir a valorização da carreira docente nos termos definidos no artigo 3.º da presente lei."
+  },
+  "203313738": {
+   "fragment_id": "203320600",
+   "type": 11,
+   "heading": "Artigo 3.º — Valorização da carreira docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valorização da carreira docente\n\nA revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário prevista na presente lei orienta-se pelos seguintes critérios:\n\na) Respeito pela graduação profissional e eliminação de ultrapassagens;\n\nb) Vinculação de docentes contratados mais célere e sistemática;\n\nc) Inclusão dos horários incompletos para efeitos de mobilidade interna;\n\nd) Alteração dos intervalos horários."
+  },
+  "203313739": {
+   "fragment_id": "203320601",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

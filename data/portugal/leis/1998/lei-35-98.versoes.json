@@ -1,0 +1,503 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424492:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-75032831",
+ "dre_path": "/dr/detalhe/lei/35-1998-424492",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75034157",
+    "75034158",
+    "75034159",
+    "75034160",
+    "75034161",
+    "75034162",
+    "75034163",
+    "75034164",
+    "75034165",
+    "75034166",
+    "75034167",
+    "75034168",
+    "75034169",
+    "75034170",
+    "75034171",
+    "75034172",
+    "75034173",
+    "75034174",
+    "75033175",
+    "75033176",
+    "75033177",
+    "75033178",
+    "75033179",
+    "75033180",
+    "75033181",
+    "75033182",
+    "75033183",
+    "75033184",
+    "75033185"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:242072:por",
+     "title": "Declaração de Rectificação n.º 14/98",
+     "published": "1998-09-11",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-1998-242072",
+     "date": "1998-07-19"
+    }
+   ]
+  },
+  {
+   "date": "2015-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66022084:por",
+     "title": "Lei n.º 82-D/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-d-2014-66022084"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "75034157",
+    "75034158",
+    "75034159",
+    "75034160",
+    "75034161",
+    "75034162",
+    "75034163",
+    "75034164",
+    "75034165",
+    "75034166",
+    "75034167",
+    "75034168",
+    "75034169",
+    "75034170",
+    "75034171",
+    "75033206",
+    "75033207",
+    "75034174",
+    "75033175",
+    "75033176",
+    "75033177",
+    "75033178",
+    "75033179",
+    "75033180",
+    "75033181",
+    "75033182",
+    "75033183",
+    "75033184",
+    "75033185",
+    "75033186"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "75034157",
+    "75034158",
+    "75034159",
+    "75034160",
+    "75034161",
+    "75034162",
+    "165089844",
+    "75034164",
+    "75034165",
+    "75034166",
+    "75034167",
+    "75034168",
+    "75034169",
+    "75034170",
+    "165089845",
+    "75033206",
+    "165089843",
+    "75034174",
+    "75033175",
+    "75033176",
+    "75033177",
+    "75033178",
+    "75033179",
+    "75033180",
+    "75033181",
+    "75033182",
+    "75033183",
+    "75033184",
+    "75033185",
+    "75033186"
+   ]
+  },
+  {
+   "date": "2024-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:896613426:por",
+     "title": "Lei n.º 42/2024",
+     "published": "2024-11-14",
+     "dre_path": "/dr/detalhe/lei/42-2024-896613426"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "75034157",
+    "75034158",
+    "75034159",
+    "75034160",
+    "75034161",
+    "75034162",
+    "165089844",
+    "75034164",
+    "75034165",
+    "75034166",
+    "75034167",
+    "75034168",
+    "75034169",
+    "75034170",
+    "165089845",
+    "75033206",
+    "896636272",
+    "75034174",
+    "75033175",
+    "75033176",
+    "75033177",
+    "75033178",
+    "75033179",
+    "75033180",
+    "75033181",
+    "75033182",
+    "75033183",
+    "75033184",
+    "75033185",
+    "75033186"
+   ]
+  }
+ ],
+ "fragments": {
+  "75034157": {
+   "fragment_id": "75032832",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 35/98\n\nde 18 de Julho\n\nDefine o estatuto das organizações não governamentais de ambiente (revoga a Lei n.º 10/87, de 4 de Abril)\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "75034158": {
+   "fragment_id": "75032833",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75034159": {
+   "fragment_id": "75032834",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei define o estatuto das organizações não governamentais de ambiente, adiante designadas por ONGA."
+  },
+  "75034160": {
+   "fragment_id": "75032835",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - Entende-se por ONGA, para efeitos da presente lei, as associações dotadas de personalidade jurídica e constituídas nos termos da lei geral que não prossigam fins lucrativos, para si ou para os seus associados, e visem, exclusivamente, a defesa e valorização do ambiente ou do património natural e construído, bem como a conservação da Natureza.\n\n2 - Podem ser equiparados a ONGA, para efeitos dos artigos 5.º, 6.º, 13.º, 14.º e 15.º da presente lei, outras associações, nomeadamente sócio-profissionais, culturais e científicas, que não prossigam fins partidários, sindicais ou lucrativos, para si ou para os seus associados, e tenham como área de intervenção principal o ambiente, o património natural e construído ou a conservação da Natureza.\n\n3 - Cabe ao Instituto de Promoção Ambiental, adiante designado por IPAMB, proceder, no acto do registo, ao reconhecimento da equiparação prevista no número anterior.\n\n4 - São ainda consideradas ONGA, para efeitos da presente lei, as associações dotadas de personalidade jurídica e constituídas nos termos da lei geral que não tenham fins lucrativos e resultem do agrupamento de várias ONGA, tal como definidas no n.º 1, ou destas com associações equiparadas."
+  },
+  "75034161": {
+   "fragment_id": "75032836",
+   "type": 1,
+   "heading": "Capítulo II — Estatuto das ONGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estatuto das ONGA"
+  },
+  "75034162": {
+   "fragment_id": "75032837",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuição do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuição do estatuto\n\nO estatuto concedido às ONGA pela presente lei depende do respectivo registo, nos termos dos artigos 17.º e seguintes."
+  },
+  "75034163": {
+   "fragment_id": "75032838",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Utilidade pública\n\n1 - As ONGA com efectiva e relevante actividade e registo ininterrupto junto do IPAMB há pelo menos cinco anos têm direito ao reconhecimento como pessoas colectivas de utilidade pública, para todos os efeitos legais, desde que preencham os requisitos previstos no artigo 2.º do Decreto-Lei n.º 460/77, de 7 de Novembro.\n\n2 - Compete ao Primeiro-Ministro, mediante parecer do IPAMB, reconhecer o preenchimento das condições referidas no número anterior e emitir a respectiva declaração de utilidade pública.\n\n3 - A declaração de utilidade pública referida no número anterior é publicada no Diário da República.\n\n4 - Será entregue às ONGA objecto de declaração de utilidade pública o correspondente diploma, nos termos da lei geral.\n\n5 - As ONGA a que se referem os números anteriores estão dispensadas do registo e demais obrigações previstas no Decreto-Lei n.º 460/77, de 7 de Novembro, sem prejuízo do disposto nas alíneas b) e c) do artigo 12.º do mesmo diploma legal.\n\n6 - A declaração de utilidade pública concedida ao abrigo do disposto no presente artigo e as inerentes regalias cessam:\n\na) Com a extinção da pessoa colectiva;\n\nb) Por decisão do Primeiro-Ministro, se tiver deixado de se verificar algum dos pressupostos da declaração;\n\nc) Com a suspensão ou anulação do registo junto do IPAMB."
+  },
+  "75034164": {
+   "fragment_id": "75032839",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso à informação\n\n1 - As ONGA gozam, nos termos da lei, do direito de consulta e informação junto dos órgãos da Administração Pública sobre documentos ou decisões administrativas com incidência no ambiente, nomeadamente em matéria de:\n\na) Planos e projectos de política de ambiente, incluindo projectos de ordenamento ou fomento florestal, agrícola ou cinegético;\n\nb) Planos sectoriais com repercussões no ambiente;\n\nc) Planos regionais, municipais e especiais de ordenamento do território e instrumentos de planeamento urbanístico;\n\nd) Planos e decisões abrangidos pelo disposto no artigo 4.º da Lei n.º 83/95, de 31 de Agosto;\n\ne) Criação de áreas protegidas e classificação de património natural e cultural;\n\nf) Processos de avaliação de impacte ambiental;\n\ng) Medidas de conservação de espécies e habitats;\n\nh) Processos de auditoria ambiental, certificação empresarial e atribuição de rotulagem ecológica.\n\n2 - A consulta referida no número anterior é gratuita, regendo-se o acesso aos documentos administrativos, nomeadamente a sua reprodução e passagem de certidões, pelo disposto na lei geral.\n\n3 - As ONGA têm legitimidade para pedir, nos termos da lei, a intimação judicial das autoridades públicas no sentido de facultarem a consulta de documentos ou processos e de passarem as devidas certidões."
+  },
+  "75034165": {
+   "fragment_id": "75032840",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito de participação\n\nAs ONGA têm o direito de participar na definição da política e das grandes linhas de orientação legislativa em matéria de ambiente."
+  },
+  "75034166": {
+   "fragment_id": "75032841",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de representação\n\n1 - As ONGA de âmbito nacional gozam do estatuto de parceiro social para todos os feitos legais, designadamente o de representação no Conselho Económico e Social, no conselho directivo do IPAMB e nos órgãos consultivos da Administração Pública, de acordo com a especificidade e a incidência territorial da sua actuação, com vista à prossecução dos fins previstos no n.º 1 do artigo 2.º\n\n2 - As ONGA de âmbito regional ou local têm direito de representação nos órgãos consultivos da administração pública regional ou local, bem como nos órgãos consultivos da administração pública central com competência sectorial relevante, de acordo com a especificidade e a incidência territorial da sua actuação, com vista à prossecução dos fins previstos no n.º 1 do artigo 2.º\n\n3 - Para efeitos do direito de representação previsto no presente artigo, entende-se por:\n\na) ONGA de âmbito nacional - as ONGA que desenvolvam, com carácter regular e permanente, actividades de interesse nacional ou em todo o território nacional e que tenham pelo menos 2000 associados;\n\nb) ONGA de âmbito regional - as ONGA que desenvolvam, com carácter regular e permanente, actividades de interesse ou alcance geográfico supramunicipal e que tenham pelo menos 400 associados;\n\nc) ONGA de âmbito local - as ONGA que desenvolvam, com carácter regular e permanente, actividades de interesse ou alcance geográfico municipal ou inframunicipal e que tenham pelo menos 100 associados.\n\n4 - O disposto no número anterior aplica-se também às ONGA que resultem do agrupamento de associações, relevando apenas, para apuramento do número de associados, as associações que preencham os requisitos fixados no n.º 1 do artigo 2.º\n\n5 - O exercício do direito de representação pelas ONGA que resultem do agrupamento de associações exclui o exercício do mesmo direito pelas associações agrupadas.\n\n6 - Cabe ao IPAMB, no acto do registo, a atribuição do âmbito às ONGA."
+  },
+  "75034167": {
+   "fragment_id": "75032842",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatuto dos dirigentes das ONGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatuto dos dirigentes das ONGA\n\n1 - Os dirigentes e outros membros das ONGA que forem designados para exercer funções de representação, nos termos do artigo 7.º, gozam dos direitos consagrados nos números seguintes.\n\n2 - Para o exercício das funções referidas no número anterior, os dirigentes das ONGA que sejam trabalhadores por conta de outrem têm direito a usufruir de um horário de trabalho flexível, em termos a acordar com a entidade patronal, sempre que a natureza da respectiva actividade laboral o permita.\n\n3 - Os períodos de faltas dados por motivo de comparência em reuniões dos órgãos em que os dirigentes exerçam representação ou com membros de órgãos de soberania são considerados justificados, para todos os efeitos legais, até ao máximo acumulado de 10 dias de trabalho por ano e não implicam a perda das remunerações e regalias devidas.\n\n4 - Os dirigentes das ONGA referidos no n.º 1 e que sejam estudantes gozam de prerrogativas idênticas às previstas no Decreto-Lei n.º 152/91, de 23 de Abril, com as necessárias adaptações."
+  },
+  "75034168": {
+   "fragment_id": "75032843",
+   "type": 11,
+   "heading": "Artigo 9.º — Meios e procedimentos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Meios e procedimentos administrativos\n\n1 - As ONGA têm legitimidade para promover junto das entidades competentes os meios administrativos de defesa do ambiente, bem como para iniciar o procedimento administrativo e intervir nele, nos termos e para os efeitos do disposto na Lei n.º 11/87, de 7 de Abril, no Decreto-Lei n.º 442/91, de 15 de Novembro, e na Lei n.º 83/95, de 31 de Agosto.\n\n2 - As ONGA podem solicitar aos laboratórios públicos competentes, por requerimento devidamente fundamentado, a realização de análises sobre a composição ou o estado de quaisquer componentes do ambiente e divulgar os correspondentes resultados, sendo estes pedidos submetidos a parecer da autoridade administrativa competente em razão da matéria e atendidos antes de quaisquer outros, salvo os urgentes ou das entidades públicas."
+  },
+  "75034169": {
+   "fragment_id": "75032844",
+   "type": 11,
+   "heading": "Artigo 10.º — Legitimidade processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legitimidade processual\n\nAs ONGA, independentemente de terem ou não interesse directo na demanda, têm legitimidade para:\n\na) Propor as acções judiciais necessárias à prevenção, correcção, suspensão e cessação de actos ou omissões de entidades públicas ou privadas que constituam ou possam constituir factor de degradação do ambiente;\n\nb) Intentar, nos termos da lei, acções judiciais para efectivação da responsabilidade civil relativa aos actos e omissões referidos na alínea anterior;\n\nc) Recorrer contenciosamente dos actos e regulamentos administrativos que violem as disposições legais que protegem o ambiente;\n\nd) Apresentar queixa ou denúncia, bem como constituir-se assistentes em processo penal por crimes contra o ambiente e acompanhar o processo de contra-ordenação, quando o requeiram, apresentando memoriais, pareceres técnicos, sugestões de exames ou outras diligências de prova até que o processo esteja pronto para decisão final."
+  },
+  "75034170": {
+   "fragment_id": "75032845",
+   "type": 11,
+   "heading": "Artigo 11.º — Isenção de emolumentos e custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Isenção de emolumentos e custas\n\n1 - As ONGA estão isentas do pagamento dos emolumentos notariais devidos pelas respectivas escrituras de constituição ou de alteração dos estatutos.\n\n2 - As ONGA estão isentas de preparos, custas e imposto do selo devidos pela sua intervenção nos processos referidos nos artigos 9.º e 10.º\n\n3 - A litigância de má fé rege-se pela lei geral."
+  },
+  "75034171": {
+   "fragment_id": "75032846",
+   "type": 11,
+   "heading": "Artigo 12.º — Isenções fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Isenções fiscais\n\n1 - As ONGA têm direito às isenções fiscais atribuídas pela lei às pessoas colectivas de utilidade pública.\n\n2 - Nas transmissões de bens e na prestação de serviços que afectuem as ONGA beneficiam das isenções de IVA previstas para os organismos sem fins lucrativos.\n\n3 - As ONGA beneficiam das regalias previstas no artigo 10.º do Decreto-Lei n.º 460/77, de 7 de Novembro."
+  },
+  "75034172": {
+   "fragment_id": "75032847",
+   "type": 11,
+   "heading": "Artigo 13.º — Mecenato ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mecenato ambiental\n\nAos donativos em dinheiro ou em série concedidos às ONGA e que se destinem a financiar projectos de interesse público previamente reconhecido pelo IPAMB será aplicável, sem acumulação, o regime do mecenato cultural previsto nos Códigos do IRS e do IRC."
+  },
+  "75034173": {
+   "fragment_id": "75032848",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apoios\n\n1 - As ONGA têm direito ao apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins.\n\n2 - Incumbe ao IPAMB prestar, nos termos da Lei n.º 11/87, de 7 de Abril, e dos regulamentos aplicáveis, apoio técnico e financeiro às ONGA e equiparadas.\n\n3 - A irregularidade na aplicação do apoio financeiro implica:\n\na) Suspensão do mesmo e reposição das quantias já recebidas;\n\nb) Inibição de concorrer a apoio financeiro do IPAMB por um período de três anos;\n\nc) Responsabilidade civil e criminal nos termos gerais.\n\n4 - O IPAMB procede, semestralmente, à publicação no Diário da República da lista dos apoios financeiros concedidos, nos termos da Lei n.º 26/94, de 29 de Agosto.\n\n> Nota: [Artigo 5.º, Lei n.º 42/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2024-896613426) As alterações introduzidas ao presente artigo, aplicam-se ao imposto sobre o rendimento das pessoas singulares liquidado relativamente aos rendimentos auferidos nos anos de 2024 e seguintes."
+  },
+  "75034174": {
+   "fragment_id": "75032849",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de antena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de antena\n\n1 - As ONGA têm direito de antena na rádio e na televisão, nos mesmos termos das associações profissionais.\n\n2 - O exercício do direito de antena pelas ONGA que resultem do agrupamento de associações, nos termos do n.º 4 do artigo 2.º, exclui o exercício do mesmo direito pelas associações agrupadas."
+  },
+  "75033175": {
+   "fragment_id": "75032850",
+   "type": 11,
+   "heading": "Artigo 16.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dever de colaboração\n\nAs ONGA e os órgãos da Administração Pública competentes devem colaborar na realização de projectos ou acções que promovam a protecção e valorização do ambiente."
+  },
+  "75033176": {
+   "fragment_id": "75032851",
+   "type": 1,
+   "heading": "Capítulo III — Registo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo e fiscalização"
+  },
+  "75033177": {
+   "fragment_id": "75032852",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Registo\n\n1 - O IPAMB organiza, em termos a regulamentar, o registo nacional das ONGA e equiparadas.\n\n2 - Só são admitidas ao registo as associações que tenham pelo menos 100 associados.\n\n3 - As associações candidatas ao registo remetem ao IPAMB um requerimento instruído com cópia dos actos de constituição e dos respectivos estatutos.\n\n4 - O IPAMB procede anualmente à publicação no Diário da República da lista das associações registadas."
+  },
+  "75033178": {
+   "fragment_id": "75032853",
+   "type": 11,
+   "heading": "Artigo 18.º — Actualização do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Actualização do registo\n\n1 - As associações inscritas no registo estão obrigadas a enviar anualmente ao IPAMB:\n\na) Relatório de actividades e relatório de contas aprovados pelos órgãos estatutários competentes;\n\nb) Número de associados em 31 de Dezembro do ano respectivo.\n\n2 - As associações inscritas no registo estão obrigadas a enviar ao IPAMB todas as alterações aos elementos fornecidos aquando da instrução do processo de inscrição, no prazo de 30 dias a contar da data em que ocorreram tais alterações, nomeadamente:\n\na) Cópia da acta da assembleia geral relativa à eleição dos órgãos sociais e respectivo termo de posse;\n\nb) Cópia da acta da assembleia geral relativa à alteração dos estatutos;\n\nc) Extrato da alteração dos estatutos publicada no Diário da República;\n\nd) Alteração do valor da quotização dos seus membros;\n\ne) Alteração da sede."
+  },
+  "75033179": {
+   "fragment_id": "75032854",
+   "type": 11,
+   "heading": "Artigo 19.º — Modificação do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Modificação do registo\n\nO IPAMB promove a modificação do registo, oficiosamente ou a requerimento da interessada, sempre que as características de uma associação registada se alterem por forma a justificar classificação ou atribuição de âmbito diferente da constante do registo."
+  },
+  "75033180": {
+   "fragment_id": "75032855",
+   "type": 11,
+   "heading": "Artigo 20.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fiscalização\n\n1 - Compete ao IPAMB fiscalizar o cumprimento da presente lei, nomeadamente através de auditorias periódicas às associações inscritas no registo.\n\n2 - O IPAMB pode efectuar auditorias extraordinárias às associações inscritas no registo sempre que julgue necessário, nomeadamente:\n\na) Para verificação dos dados fornecidos ao IPAMB no acto de registo;\n\nb) No âmbito da prestação do apoio técnico e financeiro.\n\n3 - Das auditorias pode resultar, por decisão fundamentada do presidente do IPAMB, a suspensão ou a anulação da inscrição das associações no registo quando se verifique o incumprimento da lei ou o não preenchimento dos requisitos exigidos para efeitos de registo."
+  },
+  "75033181": {
+   "fragment_id": "75032856",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "75033182": {
+   "fragment_id": "75032857",
+   "type": 11,
+   "heading": "Artigo 21.º — Transição de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transição de registos\n\n1 - As associações de defesa do ambiente inscritas no anterior registo junto do IPAMB transitam oficiosamente para o novo registo nacional das ONGA e equiparadas quando preencham os requisitos previstos na presente lei.\n\n2 - O IPAMB, no prazo de 30 dias a contar da entrada em vigor da presente lei, notifica as associações interessadas da transição referida no número anterior.\n\n3 - Se da aplicação da presente lei resultar a alteração da classificação ou do âmbito a atribuir, ou o não preenchimento dos requisitos exigidos para efeitos de registo, o IPAMB notifica desse facto as associações interessadas, concedendo-lhes um prazo de 180 dias para comunicarem as alterações efectuadas.\n\n4 - Na falta da comunicação das alterações a que se refere o número anterior, considera-se, consoante os casos, automaticamente modificado o registo nos termos da notificação feita pelo IPAMB ou excluída a associação do registo nacional das ONGA ou equiparadas."
+  },
+  "75033183": {
+   "fragment_id": "75032858",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regulamentação\n\nA presente lei será objecto de regulamentação no prazo de 90 dias após a data da sua publicação."
+  },
+  "75033184": {
+   "fragment_id": "75032859",
+   "type": 11,
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\nÉ revogada a Lei n.º 10/87, de 4 de Abril."
+  },
+  "75033185": {
+   "fragment_id": "75032860",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\n1 - Na parte que não necessita de regulamentação esta lei entra imediatamente em vigor.\n\n2 - As disposições da presente lei não abrangidas pelo número anterior entram em vigor com a publicação da respectiva regulamentação."
+  },
+  "75033206": {
+   "fragment_id": "75032847",
+   "type": 11,
+   "heading": "Artigo 13.º — Mecenato ambiental",
+   "in_force_from": "1998-07-19",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 14/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-1998-242072), em vigor a partir de 1998-07-19"
+   ],
+   "markdown": "###### Artigo 13.º — Mecenato ambiental\n\nAos donativos em dinheiro ou em espécie concedidos às ONGA e que se destinem a financiar projectos de interesse público previamente reconhecido pelo IPAMB será aplicável, sem acumulação, o regime do mecenato cultural previsto nos Códigos do IRS e do IRC.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 14/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-1998-242072), em vigor a partir de 1998-07-19"
+  },
+  "75033207": {
+   "fragment_id": "75032848",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoios",
+   "in_force_from": "2015-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05"
+   ],
+   "markdown": "###### Artigo 14.º — Apoios\n\n1 - As ONGA têm direito ao apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins.\n\n2 - Incumbe ao IPAMB prestar, nos termos da Lei n.º 11/87, de 7 de Abril, e dos regulamentos aplicáveis, apoio técnico e financeiro às ONGA e equiparadas.\n\n3 - A irregularidade na aplicação do apoio financeiro implica:\n\na) Suspensão do mesmo e reposição das quantias já recebidas;\n\nb) Inibição de concorrer a apoio financeiro do IPAMB por um período de três anos;\n\nc) Responsabilidade civil e criminal nos termos gerais.\n\n4 - O IPAMB procede, semestralmente, à publicação no Diário da República da lista dos apoios financeiros concedidos, nos termos da Lei n.º 26/94, de 29 de Agosto.\n\n5 - Uma quota equivalente a 0,5 % do imposto sobre o rendimento das pessoas singulares, liquidado com base nas declarações anuais, pode ser destinada pelo contribuinte, para fins ambientais, a uma entidade referida no artigo 1.º que tenha sido reconhecida como pessoa coletiva de utilidade pública, nos termos do artigo 4.º, através da indicação dessa entidade na declaração de rendimentos, e desde que essa entidade tenha requerido o respetivo benefício fiscal.\n\n6 - As verbas destinadas, nos termos do número anterior, às ONGA são entregues pelo Tesouro às mesmas, que apresentam à Autoridade Tributária e Aduaneira um relatório anual do destino dado aos montantes recebidos.\n\n7 - O contribuinte que não use a faculdade prevista no n.º 5 pode fazer uma consignação fiscal equivalente a favor de uma pessoa coletiva de utilidade pública de fins ambientais, que indica na sua declaração de rendimentos.\n\n8 - Para efeitos do disposto nos n.os 5 e 7, a Agência Portuguesa do Ambiente, I. P., deve proceder à criação e manutenção de um registo do qual constem as entidades beneficiárias.\n\n9 - A informação constante do referido registo deve ser comunicada anualmente à Autoridade Tributária e Aduaneira, para efeitos de verificação da possibilidade de consignação prevista nos n.os 5 e 7.\n\n10 - A Autoridade Tributária e Aduaneira publica, na página das declarações eletrónicas, até ao primeiro dia do prazo de entrega das declarações, previsto no artigo 60.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, todas as entidades que se encontram em condições de beneficiar da consignação fiscal prevista nos n.os 5 e 7.\n\n11 - As verbas a entregar às entidades referidas nos n.os 5 e 7 devem ser inscritas em rubrica própria no Orçamento do Estado.\n\n12 - Da nota demonstrativa da liquidação de imposto sobre o rendimento das pessoas singulares deve constar a identificação da entidade beneficiada, bem como o montante consignado nos termos dos n.os 5 e 7.\n\n13 - As verbas referidas nos n.os 5 e 7, respeitantes a imposto sobre o rendimento das pessoas singulares liquidado com base nas declarações de rendimentos entregues dentro do prazo legal, devem ser transferidas para as entidades beneficiárias até 31 de março do ano seguinte ao da entrega da referida declaração.\n\n14 - A consignação fiscal prevista no presente artigo não é cumulável com a consignação fiscal prevista na Lei n.º 16/2001, de 22 de junho, sendo alternativa face a essa consignação.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05"
+  },
+  "75033186": {
+   "fragment_id": "75032861",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 3 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "165089844": {
+   "fragment_id": "75032838",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilidade pública",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Utilidade pública\n\n1 - As ONGA com efectiva e relevante actividade e registo ininterrupto junto do IPAMB há pelo menos cinco anos têm direito ao reconhecimento como pessoas colectivas de utilidade pública, para todos os efeitos legais, desde que preencham os requisitos previstos no artigo 2.º do Decreto-Lei n.º 460/77, de 7 de Novembro.\n\n2 - Compete ao Primeiro-Ministro, mediante parecer do IPAMB, reconhecer o preenchimento das condições referidas no número anterior e emitir a respectiva declaração de utilidade pública.\n\n3 - A declaração de utilidade pública referida no número anterior é publicada no Diário da República.\n\n4 - Será entregue às ONGA objecto de declaração de utilidade pública o correspondente diploma, nos termos da lei geral.\n\n5 - As ONGA a que se referem os números anteriores estão dispensadas do registo e demais obrigações previstas no Decreto-Lei n.º 460/77, de 7 de Novembro, sem prejuízo do disposto nas alíneas b) e c) do artigo 12.º do mesmo diploma legal.\n\n6 - A declaração de utilidade pública concedida ao abrigo do disposto no presente artigo e as inerentes regalias cessam:\n\na) Com a extinção da pessoa colectiva;\n\nb) Por decisão do Primeiro-Ministro, se tiver deixado de se verificar algum dos pressupostos da declaração;\n\nc) Com a suspensão ou anulação do registo junto do IPAMB.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165089845": {
+   "fragment_id": "75032846",
+   "type": 11,
+   "heading": "Artigo 12.º — Isenções fiscais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Isenções fiscais\n\n1 - As ONGA têm direito às isenções fiscais atribuídas pela lei às pessoas colectivas de utilidade pública.\n\n2 - Nas transmissões de bens e na prestação de serviços que afectuem as ONGA beneficiam das isenções de IVA previstas para os organismos sem fins lucrativos.\n\n3 - As ONGA beneficiam das regalias previstas no artigo 10.º do Decreto-Lei n.º 460/77, de 7 de Novembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165089843": {
+   "fragment_id": "75032848",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoios",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05"
+   ],
+   "markdown": "###### Artigo 14.º — Apoios\n\n1 - As ONGA têm direito ao apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins.\n\n2 - Incumbe ao IPAMB prestar, nos termos da Lei n.º 11/87, de 7 de Abril, e dos regulamentos aplicáveis, apoio técnico e financeiro às ONGA e equiparadas.\n\n3 - A irregularidade na aplicação do apoio financeiro implica:\n\na) Suspensão do mesmo e reposição das quantias já recebidas;\n\nb) Inibição de concorrer a apoio financeiro do IPAMB por um período de três anos;\n\nc) Responsabilidade civil e criminal nos termos gerais.\n\n4 - O IPAMB procede, semestralmente, à publicação no Diário da República da lista dos apoios financeiros concedidos, nos termos da Lei n.º 26/94, de 29 de Agosto.\n\n5 - Uma quota equivalente a 0,5 % do imposto sobre o rendimento das pessoas singulares, liquidado com base nas declarações anuais, pode ser destinada pelo contribuinte, para fins ambientais, a uma entidade referida no artigo 1.º à qual tenha sido atribuído o estatuto de utilidade pública, através da indicação dessa entidade na declaração de rendimentos, e desde que essa entidade tenha requerido o respetivo benefício fiscal.\n\n6 - As verbas destinadas, nos termos do número anterior, às ONGA são entregues pelo Tesouro às mesmas, que apresentam à Autoridade Tributária e Aduaneira um relatório anual do destino dado aos montantes recebidos.\n\n7 - O contribuinte que não use a faculdade prevista no n.º 5 pode fazer uma consignação fiscal equivalente a favor de uma pessoa coletiva de utilidade pública de fins ambientais, que indica na sua declaração de rendimentos.\n\n8 - Para efeitos do disposto nos n.os 5 e 7, a Agência Portuguesa do Ambiente, I. P., deve proceder à criação e manutenção de um registo do qual constem as entidades beneficiárias.\n\n9 - A informação constante do referido registo deve ser comunicada anualmente à Autoridade Tributária e Aduaneira, para efeitos de verificação da possibilidade de consignação prevista nos n.os 5 e 7.\n\n10 - A Autoridade Tributária e Aduaneira publica, na página das declarações eletrónicas, até ao primeiro dia do prazo de entrega das declarações, previsto no artigo 60.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, todas as entidades que se encontram em condições de beneficiar da consignação fiscal prevista nos n.os 5 e 7.\n\n11 - As verbas a entregar às entidades referidas nos n.os 5 e 7 devem ser inscritas em rubrica própria no Orçamento do Estado.\n\n12 - Da nota demonstrativa da liquidação de imposto sobre o rendimento das pessoas singulares deve constar a identificação da entidade beneficiada, bem como o montante consignado nos termos dos n.os 5 e 7.\n\n13 - As verbas referidas nos n.os 5 e 7, respeitantes a imposto sobre o rendimento das pessoas singulares liquidado com base nas declarações de rendimentos entregues dentro do prazo legal, devem ser transferidas para as entidades beneficiárias até 31 de março do ano seguinte ao da entrega da referida declaração.\n\n14 - A consignação fiscal prevista no presente artigo não é cumulável com a consignação fiscal prevista na Lei n.º 16/2001, de 22 de junho, sendo alternativa face a essa consignação.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05"
+  },
+  "896636272": {
+   "fragment_id": "75032848",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoios",
+   "in_force_from": "2024-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 42/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2024-896613426), em vigor a partir de 2024-11-15",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05"
+   ],
+   "markdown": "###### Artigo 14.º — Apoios\n\n1 - As ONGA têm direito ao apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins.\n\n2 - Incumbe ao IPAMB prestar, nos termos da Lei n.º 11/87, de 7 de Abril, e dos regulamentos aplicáveis, apoio técnico e financeiro às ONGA e equiparadas.\n\n3 - A irregularidade na aplicação do apoio financeiro implica:\n\na) Suspensão do mesmo e reposição das quantias já recebidas;\n\nb) Inibição de concorrer a apoio financeiro do IPAMB por um período de três anos;\n\nc) Responsabilidade civil e criminal nos termos gerais.\n\n4 - O IPAMB procede, semestralmente, à publicação no Diário da República da lista dos apoios financeiros concedidos, nos termos da Lei n.º 26/94, de 29 de Agosto.\n\n5 - Uma quota equivalente a 1 % do imposto sobre o rendimento das pessoas singulares, liquidado com base nas declarações anuais, pode ser destinada pelo contribuinte, para fins ambientais, a uma entidade referida no artigo 1.º à qual tenha sido atribuído o estatuto de utilidade pública, indicando-a na declaração de rendimentos, desde que essa entidade tenha requerido o respetivo benefício fiscal.\n\n6 - As verbas destinadas, nos termos do número anterior, às ONGA são entregues pelo Tesouro às mesmas, que apresentam à Autoridade Tributária e Aduaneira um relatório anual do destino dado aos montantes recebidos.\n\n7 - O contribuinte que não use a faculdade prevista no n.º 5 pode fazer uma consignação fiscal equivalente a favor de uma pessoa coletiva de utilidade pública de fins ambientais, que indica na sua declaração de rendimentos.\n\n8 - Para efeitos do disposto nos n.os 5 e 7, a Agência Portuguesa do Ambiente, I. P., deve proceder à criação e manutenção de um registo do qual constem as entidades beneficiárias.\n\n9 - A informação constante do referido registo deve ser comunicada anualmente à Autoridade Tributária e Aduaneira, para efeitos de verificação da possibilidade de consignação prevista nos n.os 5 e 7.\n\n10 - A Autoridade Tributária e Aduaneira publica, na página das declarações eletrónicas, até ao primeiro dia do prazo de entrega das declarações, previsto no artigo 60.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, todas as entidades que se encontram em condições de beneficiar da consignação fiscal prevista nos n.os 5 e 7.\n\n11 - As verbas a entregar às entidades referidas nos n.os 5 e 7 devem ser inscritas em rubrica própria no Orçamento do Estado.\n\n12 - Da nota demonstrativa da liquidação de imposto sobre o rendimento das pessoas singulares deve constar a identificação da entidade beneficiada, bem como o montante consignado nos termos dos n.os 5 e 7.\n\n13 - As verbas referidas nos n.os 5 e 7, respeitantes a imposto sobre o rendimento das pessoas singulares liquidado com base nas declarações de rendimentos entregues dentro do prazo legal, devem ser transferidas para as entidades beneficiárias até 31 de março do ano seguinte ao da entrega da referida declaração.\n\n14 - A consignação fiscal prevista no presente artigo não é cumulável com a consignação fiscal prevista na Lei n.º 16/2001, de 22 de junho, sendo alternativa face a essa consignação.\n\n> Nota: [Artigo 5.º, Lei n.º 42/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2024-896613426) As alterações introduzidas ao presente artigo, aplicam-se ao imposto sobre o rendimento das pessoas singulares liquidado relativamente aos rendimentos auferidos nos anos de 2024 e seguintes.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 42/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2024-896613426), em vigor a partir de 2024-11-15\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05"
+  }
+ }
+}

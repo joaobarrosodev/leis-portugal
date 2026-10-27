@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:571457:por
+title: Decreto Regulamentar Regional n.º 18/90/A
+short_title: null
+summary: Altera vários artigos do Estatuto da Inspecção Regional do Trabalho (IRT), aprovado pelo Decreto Regulamentar Regional
+  n.º 13/85/A, de 22 de Agosto
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Juventude e Recursos Humanos
+proposing_entity: null
+official_number: 18/90/A
+official_date: null
+publication_date: '1990-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/1990, Série I de 1990-05-23
+  number: '118'
+  series: I
+  supplement: null
+  pages: 2338 - 2340
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11800/23382340.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '571457'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/18-1990-571457
+  internal: pt:dre:571457:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1990-571457
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1990-571457
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:27:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 88799f462f5044f9214206d37c074462eb4fd1b61edc87e605956fd1dd8da8ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Carreira Profissional
+- Estágio de Formação
+- Estatuto
+- Inspecção Regional do Trabalho
+- Pessoal de Inspecção
+relationships:
+- type: amended_by
+  target: pt:dre:606949:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:181032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606949:por
+  label: "Revogado pelo DRR.14/2001/A.2001.10.22.SREC-RAA, DR.IS-B [260] de 09.11.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2001-606949
+  date: '2001-10-22'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:27:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 18/90/A
+
+O [Decreto-Lei n.º 232/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1989-619930), de 24 de Julho, alterou o Estatuto da Inspecção-Geral do Trabalho, reestruturando e revalorizando as carreiras de regime especial que integram o grupo de pessoal técnico de inspecção.
+
+Tal evento surge na sequência dos Decretos-Leis n.os [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e [265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+Urge, pois, adequar os correspondentes dispositivos legais do Estatuto da Inspecção Regional do Trabalho às regras que enformam o sistema emergente dos referidos normativos.
+
+Assim:
+
+O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea g), da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 38.º a 40.º, 43.º, 45.º, 47.º, 48.º, 51.º e 52.º do Estatuto da Inspecção Regional do Trabalho (IRT), aprovado pelo [Decreto Regulamentar Regional n.º 13/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1985-181032), de 22 de Agosto, passam a ter a seguinte redacção:
+
+###### Artigo 38.º — Natureza das carreiras
+
+O pessoal técnico de inspecção é integrado em carreiras verticais, de regime especial, de harmonia com o disposto nos n.os 1 e 2 do artigo 8.º, no n.º 3 do artigo 13.º e no n.º 3 do artigo 14.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos n.os 4 e 5 do artigo 2.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+###### Artigo 39.º — Estrutura das carreiras
+
+1 - O pessoal técnico de inspecção compreende os seguintes grupos: juristas, engenheiros, médicos, técnicos superiores e técnicos.
+
+2 - Os grupos de juristas, engenheiros, médicos e técnicos superiores desenvolvem-se pelas seguintes categorias: inspector superior, inspector-coordenador, inspector principal, inspector de 1.ª classe e inspector de 2.ª classe.
+
+3 - O grupo de técnicos desenvolve-se pelas seguintes categorias:
+
+a) Inspector de 1.ª classe e de 2.ª classe;
+
+b) ...
+
+###### Artigo 40.º — Descrição de conteúdos funcionais
+
+1- ...
+
+2- ...
+
+3 - Ao pessoal das categorias de inspector de 1.ª classe e de inspector de 2.ª classe do grupo de técnicos incumbe ainda exercer funções de coordenação e chefia de grupos de trabalho de inspectores-adjuntos, em condições a estabelecer de acordo com as necessidades do serviço.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - Ao pessoal da categoria de inspector-coordenador, para além das funções indicadas nos números anteriores, incumbe, nomeadamente:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+9 - ...
+
+10 - ...
+
+###### Artigo 43.º — Condições nos grupos de juristas, engenheiros, médicos e técnicos superiores
+
+1 - O ingresso nos grupos de juristas, engenheiros, médicos e técnicos superiores é feito na categoria de inspector de 2.ª classe e condicionado a aprovação em estágio.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 45.º — Condições de acesso
+
+1 - O acesso nas carreiras efectua-se dentro de cada grupo, mediante concurso, nos termos do disposto nos números seguintes.
+
+2 - Nos grupos de juristas, engenheiros, médicos e técnicos superiores, o acesso obedece às seguintes regras:
+
+a) Inspector superior, de entre inspectores-coordenadores com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;
+
+b) Inspector-coordenador, de entre inspectores principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;
+
+c) Inspector principal e inspector de 1.ª classe, de entre, respectivamente, inspectores de 1.ª classe e de 2.ª classe com, pelo menos, três anos de serviço nas respectivas categorias classificados de Bom.
+
+3 - No grupo de técnicos, o acesso obedece às seguintes regras:
+
+a) Inspector de 1.ª classe, de entre inspectores de 2.ª classe com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;
+
+b) Inspector de 2.ª classe, de entre inspectores-adjuntos principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;
+
+c) Inspectores-adjuntos principais, de 1.ª classe, de 2.ª classe e de 3.ª classe, de entre, respectivamente, inspectores-adjuntos de 1.ª classe, de 2.ª classe, de 3.ª classe e auxiliares com, pelo menos, três anos de serviço nas respectivas categorias classificados de Bom.
+
+4 - Os candidatos a inspector-coordenador dos grupos referidos no n.º 2 e a inspector de 2.ª classe do grupo de técnicos podem apresentar um trabalho que verse um tema actual e concreto, de interesse para a IRT, no qual se sustente uma solução devidamente fundamentada, cabendo ao júri com base nesse trabalho, avaliar da capacidade de análise e concepção do candidato.
+
+5 - O trabalho referido no número anterior será devidamente valorado para efeitos de classificação final.
+
+###### Artigo 47.º — Condições de estágio
+
+1 - O estágio desdobra-se em duas fases sequenciais:
+
+a) Frequência de um curso de formação;
+
+b) Tirocínio preenchido predominantemente por serviço externo.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - As condições do estágio serão regulamentadas por portaria conjunta dos Secretários Regionais da Administração Interna e da Juventude e Recursos Humanos.
+
+###### Artigo 48.º — Duração do estágio
+
+1 - O estágio tem a duração de um ano, findo o qual os estagiários serão ordenados em função da classificação obtida.
+
+2 - O curso de formação referido na alínea a) do n.º 1 do artigo anterior tem a seguinte duração:
+
+a) Para os grupos de juristas, engenheiros, médicos e técnicos superiores, 280 horas de aulas, a efectuar em três meses;
+
+b) Para o grupo de técnicos, 560 horas, a efectuar em seis meses.
+
+3 - ...
+
+###### Artigo 51.º — Regime do estagiário
+
+1 - A frequência do estágio será feita em regime de contrato administrativo de provimento, no caso de indivíduos não vinculados à função pública, e em regime de comissão de serviço extraordinário, no caso de se tratar de funcionários.
+
+2 - Ao estagiário será assegurado o seu estatuto desde a conclusão do estágio até à posse na categoria a que se candidata, desde que esta ocorra no prazo de um ano a contar da conclusão do estágio.
+
+3 - Implica a imediata rescisão do contrato administrativo de provimento ou o termo da comissão de serviço extraordinária, consoante se trate de indivíduos não vinculados ou vinculados à função pública, a desistência ou a falta de aproveitamento no estágio, sem que tal confira direito a qualquer indemnização.
+
+4 - Os estagiários serão nomeados na categoria de ingresso do grupo a que se destinam em função do número de vagas abertas a concurso.
+
+###### Artigo 52.º — Remuneração do estagiário
+
+1 - Os estagiários serão remunerados em conformidade com o previsto no anexo n.º 7 do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, para o pessoal técnico de inspecção da Inspecção-Geral do Trabalho, consoante se destinem ao grupo de técnicos ou aos outros grupos.
+
+2 - ...
+
+Art. 2.º Os concursos de admissão a estágio, bem como os respectivos estágios, reger-se-ão pelas normas em vigor à data da abertura desses concursos.
+
+Art. 3.º São revogados o n.º 3 do artigo 32.º, os artigos 33.º e 49.º e o n.º 3 do artigo 50.º do Estatuto da IRT.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de Abril de 1990.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 4 de Maio de 1990.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

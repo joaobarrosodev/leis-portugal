@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344395:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-34481275",
+ "dre_path": "/dr/detalhe/portaria/838-2010-344395",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48822575",
+    "48822675",
+    "48822775"
+   ]
+  },
+  {
+   "date": "2016-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74604862:por",
+     "title": "Portaria n.º 159/2016",
+     "published": "2016-06-08",
+     "dre_path": "/dr/detalhe/portaria/159-2016-74604862"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "48822575",
+    "75458297",
+    "48822775",
+    "48822875"
+   ]
+  }
+ ],
+ "fragments": {
+  "48822575": {
+   "fragment_id": "35101075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 414/91, de 22 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 501/99, de 19 de Novembro, define o regime legal da carreira dos técnicos superiores de saúde, enumerando no artigo 9.º os respectivos ramos de actividades e as correspondentes licenciaturas adequadas.\n\nConsiderando a existência de formação académica, já concluída, no domínio da nutrição e, até à presente data, não inserida no elenco de licenciaturas consideradas adequadas para efeitos de ingresso no ramo da nutrição, da carreira de técnico superior de saúde;\n\nConsiderando a natureza e suficiência dos conteúdos programáticos daquela formação para efeitos de início de estágio de especialidade da carreira de técnico superior;\n\nConsiderando que a licenciatura em causa apresenta um plano curricular, suficientemente vocacionado para o exercício dos conteúdos funcionais próprios do ramo de nutrição, conforme parecer técnico de peritos/especialistas na matéria:\n\nDeverá reconhecer-se a licenciatura em Dietética e Nutrição da Faculdade de Medicina da Universidade de Lisboa, como adequada ao ingresso no ramo de nutrição da carreira de técnico superior de saúde.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 9.º do Decreto-Lei n.º 414/91, de 22 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 501/99, de 19 de Novembro:\n\nManda o Governo, pela Ministra da Saúde, o seguinte:"
+  },
+  "48822675": {
+   "fragment_id": "35807375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos de ingresso no estágio da carreira de técnico superior de saúde é aditada ao elenco das licenciaturas previstas no n.º 1 do artigo 9.º do Decreto-Lei n.º 414/91, de 22 de Outubro, a seguinte licenciatura:\n\nRamo de nutrição: Dietética e Nutrição, da Faculdade de Medicina da Universidade de Lisboa."
+  },
+  "48822775": {
+   "fragment_id": "35807475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente portaria produz efeitos a partir do dia seguinte ao da sua publicação."
+  },
+  "75458297": {
+   "fragment_id": "35807375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2016-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2016 - Diário da República n.º 110/2016, Série I de 2016-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/159-2016-74604862), em vigor a partir de 2016-06-09"
+   ],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos de ingresso no estágio da carreira de técnico superior de saúde é aditada ao elenco das licenciaturas previstas no n.º 1 do artigo 9.º do Decreto-Lei n.º 414/91, de 22 de outubro, para o ramo de nutrição, as licenciaturas em Dietética e em Dietética e Nutrição, e posse da respetiva cédula profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2016 - Diário da República n.º 110/2016, Série I de 2016-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/159-2016-74604862), em vigor a partir de 2016-06-09"
+  },
+  "48822875": {
+   "fragment_id": "35807575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Saúde, Ana Maria Teodoro Jorge, em 25 de Agosto de 2010."
+  }
+ }
+}

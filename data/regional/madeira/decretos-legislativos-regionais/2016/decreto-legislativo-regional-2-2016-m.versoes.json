@@ -1,0 +1,810 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73168880:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-116852296",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2016-73168880",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116866575",
+    "116866576",
+    "116866577",
+    "116866578",
+    "116866579",
+    "116866580",
+    "116866581",
+    "116866582",
+    "116866583",
+    "116866584",
+    "116866585",
+    "116866586",
+    "116866587",
+    "116866588",
+    "116866589",
+    "116866590",
+    "116866591",
+    "116866592",
+    "116866593"
+   ]
+  },
+  {
+   "date": "2018-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116852292:por",
+     "title": "Decreto Legislativo Regional n.º 20/2018/M",
+     "published": "2018-11-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2018-116852292"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "116866575",
+    "116866576",
+    "116866577",
+    "116866621",
+    "116866622",
+    "116866623",
+    "116866581",
+    "116866582",
+    "116866583",
+    "116866584",
+    "116866624",
+    "116866586",
+    "116866587",
+    "116866588",
+    "116866625",
+    "116866590",
+    "116866626",
+    "116866592",
+    "116866593",
+    "116866594"
+   ]
+  },
+  {
+   "date": "2019-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123930787:por",
+     "title": "Decreto Legislativo Regional n.º 9/2019/M",
+     "published": "2019-08-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2019-123930787"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "116866575",
+    "116866576",
+    "116866577",
+    "116866621",
+    "116866622",
+    "116866623",
+    "116866581",
+    "116866582",
+    "116866583",
+    "116866584",
+    "116866624",
+    "116866586",
+    "123956075",
+    "116866588",
+    "116866625",
+    "116866590",
+    "116866626",
+    "116866592",
+    "116866593",
+    "116866594"
+   ]
+  },
+  {
+   "date": "2020-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128771582:por",
+     "title": "Decreto Legislativo Regional n.º 1-A/2020/M",
+     "published": "2020-01-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "116866575",
+    "116866576",
+    "116866577",
+    "116866621",
+    "116866622",
+    "116866623",
+    "116866581",
+    "116866582",
+    "116866583",
+    "116866584",
+    "116866624",
+    "116866586",
+    "123956075",
+    "139995145",
+    "139995165",
+    "139995166",
+    "139995153",
+    "139995159",
+    "139995168",
+    "139995167",
+    "139995162",
+    "139995163",
+    "139995164"
+   ]
+  },
+  {
+   "date": "2020-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139918084:por",
+     "title": "Decreto Legislativo Regional n.º 12/2020/M",
+     "published": "2020-08-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2020-139918084"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 14.º-A"
+   ],
+   "fragments": [
+    "116866575",
+    "116866576",
+    "116866577",
+    "116866621",
+    "116866622",
+    "116866623",
+    "116866581",
+    "116866582",
+    "116866583",
+    "116866584",
+    "116866624",
+    "116866586",
+    "123956075",
+    "139995169",
+    "139995165",
+    "139995170",
+    "139995171",
+    "139995159",
+    "139995168",
+    "139995167",
+    "139995162",
+    "139995163",
+    "139995164"
+   ]
+  },
+  {
+   "date": "2025-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:927416001:por",
+     "title": "Decreto Legislativo Regional n.º 4/2025/M",
+     "published": "2025-08-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-2025-927416001"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 12.º-A"
+   ],
+   "fragments": [
+    "116866575",
+    "116866576",
+    "116866577",
+    "927641015",
+    "927641016",
+    "927641017",
+    "116866581",
+    "116866582",
+    "927641018",
+    "927641019",
+    "927641020",
+    "927641021",
+    "927641022",
+    "927641023",
+    "927641034",
+    "927641035",
+    "927641036",
+    "927641037",
+    "927641024",
+    "927641038",
+    "927641039",
+    "927641040",
+    "927641041",
+    "927641029"
+   ]
+  }
+ ],
+ "fragments": {
+  "116866575": {
+   "fragment_id": "116852297",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 2/2016/M\n\nConselho Económico e da Concertação Social da Região Autónoma da Madeira\n\nO Conselho Económico e Social da Madeira, não obstante o tempo de existência, tem pautado a sua ação, por uma escassa intervenção, circunscrita ao plano formal e residual. Contudo, o Programa do atual Governo Regional assume o objetivo da sua dinamização, o que implica a sua reestruturação e reformulação, com atribuições e competências consentâneas, de modo a torná-lo num importante órgão de consulta, no domínio das questões económicas, sociais e laborais.\n\nEm termos da Região Autónoma da Madeira, o Decreto Regional n.º 19/78/M, de 7 de abril, criou o Conselho Regional do Plano, órgão com competências na área económica. Posteriormente o Decreto Legislativo Regional n.º 7/94/M, de 7 de abril, retificado pela Declaração de retificação n.º 51/94, de 30 de abril e alterado pelo Decreto Legislativo Regional n.º 12/97/M, de 20 de agosto, instituiu o Conselho Económico e Social da Madeira, embora tendo competências essencialmente na área económica.\n\nMais recentemente o Decreto Legislativo Regional n.º 25/2008/M, de 24 de junho, atribui ao Conselho Económico e Social da Madeira as competências do Conselho Económico e Social, em termos de arbitragem Obrigatória.\n\nPor seu turno, o Decreto Legislativo Regional n.º 4/2012/M, de 16 de março, atribui ao Conselho Económico e Social da Madeira as competências estabelecidas pelo Decreto-Lei n.º 259/2009, de 25 de setembro (que regulamenta a arbitragem obrigatória, a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve), ampliando deste modo o seu campo de intervenção.\n\nNeste contexto de atribuições, urge dinamizar o Conselho Económico e Social da Região, diferenciando-o do passado, ativando a sua função no domínio laboral e de concertação e perspetivando uma ação mais dinâmica e atuante. Com este propósito é criada, dentro deste organismo, a Comissão Permanente de Concertação Social, constituída por membros do Governo e representantes de sindicatos e associações, à qual compete promover o diálogo e a concertação entre os parceiros sociais, contribuir para a definição das políticas de rendimento e preços, de emprego e formação profissional.\n\nAssim sendo, constituiu opção dotar o Conselho Económico e Social da Região, de uma verdadeira intervenção social e laboral, face aos desafios da atual conjuntura, que determina a valorização de instâncias de diálogo e de apoio, para permitir decisões fundamentadas e assentes no tripartismo, no contributo amplo, sobretudo dos principais agentes da Sociedade, como os que integram o Conselho Regional.\n\nNesta ordem de valores, procede-se à reestruturação do atual Conselho Económico e Social da Região, conscientes de que este será uma estrutura essencial, no contexto da nova dinâmica que se pretende imprimir à economia regional, na sua dimensão social, como estrutura de reforço do diálogo social.\n\nAssim,\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "116866576": {
+   "fragment_id": "116852298",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nPelo presente Decreto Legislativo Regional, é criado o Conselho Económico e da Concertação Social da Região Autónoma da Madeira, adiante designado por Conselho."
+  },
+  "116866577": {
+   "fragment_id": "116852299",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO Conselho tem por finalidade possibilitar a efetiva participação dos agentes sociais e económicos, na definição da política económica, social e laboral da Madeira, no plano consultivo, de concertação e de arbitragem, nos termos das atribuições e competências estabelecidas ou outras que lhe sejam atribuídas por lei."
+  },
+  "116866578": {
+   "fragment_id": "116852300",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Ao Conselho, compete, em geral, assegurar a participação das estruturas produtivas, económicas e sociais, na análise da evolução económica, social e laboral da Região.\n\n2 - O Conselho exerce as suas funções com autonomia e independência.\n\n3 - Para assegurar o cumprimento do disposto no n.º 1, o Conselho deverá:\n\na) Emitir parecer prévio sobre os planos de investimento e sobre os planos de desenvolvimento económico e social, assim como sobre a sua execução;\n\nb) Emitir decisões, pareceres e recomendações, nos processos legislativos e outros, que impliquem matéria económica, social e laboral;\n\nc) Emitir parecer sobre propostas legislativas no domínio das matérias inerentes às suas atribuições;\n\nd) Pronunciar-se sobre matérias de segurança social, emprego, formação profissional, concertação social, contratação coletiva e política de rendimentos em geral;\n\ne) Pronunciar-se sobre os planos sectoriais e espaciais, e a acompanhar a sua execução;\n\nf) Pronunciar-se a solicitação do Governo Regional, sobre matérias inerentes às suas atribuições.\n\ng) Acompanhar a atividade dos representantes da Região no Conselho Económico e da Concertação Social;\n\nh) Apreciar as posições da Região nas instâncias da União Europeias, no âmbito da política económica, social e laboral;\n\ni) Apreciar, em geral, a evolução da economia e as medidas da política económica, social e laboral no âmbito da Região;\n\nj) Promover o diálogo e a concertação entre parceiros sociais;\n\nk) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, retificada pela Declaração de retificação n.º 21/2009, de 18 de março e alterada pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho (retificada pela Declaração de Retificação n.º 38/2012, de 23 de julho), 47/2012, de 29 de agosto, 69/2013, de 30 de agosto, 27/2014, de 8 de maio, 55/2014, de 25 de agosto, 28/2015, de 14 de abril, e 120/2015, de 1 de setembro, conforme o disposto no Decreto Legislativo Regional n.º 4/2012/M, de 16 de março;\n\nl) Aprovar o seu regulamento interno."
+  },
+  "116866579": {
+   "fragment_id": "116852301",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O Conselho tem a seguinte composição:\n\na) Um presidente e vice-presidente eleitos pela Assembleia Legislativa da Região Autónoma da Madeira.\n\nb) Dois vice-presidentes, um escolhido de entre os representantes dos trabalhadores indicados na alínea e), e um escolhido de entre os representantes das associações patronais indicados na alínea f), do n.º 1 deste artigo, em regime de rotatividade;\n\nc) Sete representantes do Governo Regional, das áreas do Trabalho, Emprego, Segurança Social, Educação, Economia, designados por resolução do Conselho de Governo;\n\nd) Dois representantes das autarquias, nomeados pela Associação de Municípios da Região;\n\ne) Quatro representantes dos sindicatos, sendo um indicado pela União dos Sindicatos do Arquipélago da Madeira (USAM), um pela Delegação da União Geral dos trabalhadores (UGT Madeira), um pela União dos Sindicatos Independentes (USI), e um pela Confederação Geral dos Trabalhadores Portugueses (CGTP);\n\nf) Quatro representantes das associações patronais, sendo um indicado pela Associação Comercial e Industrial do Funchal (ACIF), um indicado pela Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM), um indicado pela Associação de Comércio e Serviços (ACS), e um indicado pela Associação de Agricultores da Madeira;\n\ng) Um representante da Associação dos Jovens Empresários;\n\nh) Um representante da Associação dos Jovens Agricultores;\n\ni) Um representante das cooperativas agrícolas;\n\nj) Um representante das cooperativas de habitação;\n\nk) Um representante do Secretariado Regional da União das Misericórdias Portuguesas;\n\nl) Um representante da Universidade da Madeira;\n\nm) Um representante designado pela Delegação Regional da Ordem dos Economistas;\n\nn) Os representantes da Região Autónoma da Madeira no Conselho Económico e Social nacional;\n\no) Duas personalidades de reconhecido mérito em matérias económicas, sociais e laborais, a designar pelo Plenário do Conselho;\n\np) Um representante da ANAFRE;\n\nq) Um representante da ordem dos engenheiros e um representante da ordem dos Arquitetos.\n\n2 - O mandato dos membros do Conselho, corresponde ao período de uma Legislatura da Assembleia Legislativa da Região Autónoma da Madeira, cessando as suas funções com a tomada de posse na Legislatura seguinte dos novos órgãos."
+  },
+  "116866580": {
+   "fragment_id": "116852302",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Designação dos membros\n\n1 - O presidente, nos primeiros 15 dias após a sua eleição, dá início ao processo de designação dos elementos integrantes do Conselho.\n\n2 - Após indicação dos diferentes elementos, que deverá ocorrer até 90 dias após a eleição do presidente, este promoverá uma reunião plenária, em cuja ordem de trabalhos constará a eleição do vice-presidente."
+  },
+  "116866581": {
+   "fragment_id": "116852303",
+   "type": 11,
+   "heading": "Artigo 6.º — Perda de mandato e substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Perda de mandato e substituição\n\n1 - Perdem o mandato:\n\na) Os membros que, por escrito, deixem de ser reconhecidos como seus representantes, pelos organismos competentes;\n\nb) Os membros que não cumpram com os requisitos definidos no regimento;\n\nc) Os membros que a ele renunciarem, mediante comunicação escrita dirigida ao presidente do Conselho;\n\nd) O presidente, por renúncia, dirigida, por escrito, ao presidente da Assembleia Legislativa da Região Autónoma da Madeira.\n\n2 - No caso da alínea b) do n.º 1, os elementos, querendo, podem recorrer da decisão para plenário.\n\n3 - A substituição dos membros deverá ser feita, por solicitação do presidente, no prazo de 30 dias."
+  },
+  "116866582": {
+   "fragment_id": "116852304",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos do Conselho\n\nSão órgãos do Conselho:\n\na) O presidente;\n\nb) O plenário;\n\nc) A Comissão Permanente de Concertação Social;\n\nd) As comissões especializadas;\n\ne) O conselho coordenador."
+  },
+  "116866583": {
+   "fragment_id": "116852305",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Compete ao presidente:\n\na) Representar o Conselho;\n\nb) Preparar a ordem de trabalhos, convocar e dirigir as reuniões plenárias;\n\nc) Solicitar às comissões a elaboração de estudos, pareceres e informações;\n\nd) Solicitar, quando necessário, a empresas ou entidades nacionais ou não, a elaboração de estudos e outros trabalhos de interesse económico para a Região;\n\ne) Apresentar ao Governo, com aprovação do conselho coordenador, proposta orçamental do Conselho;\n\nf) Convidar, por sua iniciativa, ou a pedido das comissões, quaisquer entidades, entre elas os membros do Governo, consideradas úteis ao assunto em análise;\n\ng) Fazer cumprir o regimento;\n\nh) Designar o secretário-geral;\n\ni) Exercer outras competências atribuídas por lei.\n\n2 - O presidente pode delegar num vice-presidente as competências que entender, com parecer favorável do conselho coordenador.\n\n3 - O presidente, em todas as suas funções, tem voto de qualidade.\n\n4 - O Presidente do Conselho tem competência idêntica à de Secretário Regional no que respeita à autorização de despesa e prática de atos administrativos."
+  },
+  "116866584": {
+   "fragment_id": "116852306",
+   "type": 11,
+   "heading": "Artigo 9.º — Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Plenário\n\n1 - O plenário é constituído por todos os membros que integram o Conselho.\n\n2 - O plenário é o órgão competente para exprimir as opiniões do Conselho.\n\n3 - O plenário funciona com a maioria dos membros."
+  },
+  "116866585": {
+   "fragment_id": "116852307",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão Permanente de Concertação Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão Permanente de Concertação Social\n\n1 - Compete à Comissão Permanente de Concertação Social, em especial, promover o diálogo e a concertação entre os parceiros sociais, contribuir para a definição das políticas de rendimento e preços, de emprego e formação profissional.\n\n2 - A Comissão Permanente de Concertação Social tem a seguinte composição:\n\na) Dois membros do Governo, a designar por despacho do Presidente do Governo Regional;\n\nb) Um representante da União de Sindicatos do Arquipélago da Madeira (USAM);\n\nc) Um representante da Delegação Regional do União Geral de Trabalhadores (UGT Madeira);\n\nd) Um representante da Delegação da Madeira da União dos Sindicatos Independentes (USI);\n\ne) Um representante da Associação Comercial e Industrial do Funchal (ACIF);\n\nf) Um representante da Associação de Comércio e Serviços (ACS);\n\ng) Um representante de Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM);\n\n3 - A Comissão Permanente de Concertação Social é presidida pelo Presidente do Governo Regional ou por um Secretário Regional em que ele delegar.\n\n4 - Os membros da Comissão Permanente de Concertação Social podem fazer-se acompanhar de especialistas para os assistir nas reuniões da Comissão ou dos grupos de trabalho.\n\n5 - Em matéria de concertação social, não carecem de aprovação pelo plenário as deliberações tomadas pela respetiva comissão especializada.\n\n6 - Compete à Comissão Permanente de Concertação Social aprovar o seu regulamento específico."
+  },
+  "116866586": {
+   "fragment_id": "116852308",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissões especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissões especializadas\n\n1 - As comissões especializadas podem ser permanentes ou temporárias.\n\n2 - A comissão de política económica e social é permanente.\n\n3 - São comissões especializadas temporárias as definidas pelo plenário, que indicará a composição, o objeto e o tempo.\n\n4 - A indicação dos membros para cada uma das comissões deve refletir o objetivo da mesma.\n\n5 - Os membros do Conselho não podem recusar a sua participação nas comissões e têm como atribuições:\n\na) Eleger o seu presidente, que tem voto de qualidade, dirigirá os trabalhos e fará a ligação com os órgãos do Conselho e que, no caso da comissão permanente, fará parte do conselho coordenador;\n\nb) Elaborar estudos, pareceres, relatórios a pedido dos outros órgãos do Conselho;\n\nc) Propor ao presidente do Conselho a realização de estudos que considere úteis ao desempenho das suas funções;\n\nd) Requerer, através do presidente do Conselho, as informações, depoimentos e esclarecimentos necessários aos seus trabalhos."
+  },
+  "116866587": {
+   "fragment_id": "116852309",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho Coordenador\n\n1 - O Conselho Coordenador é composto pelo presidente do Conselho, com voto de qualidade, pelos vice-presidentes e pelos presidentes das comissões especializadas e pelo secretário-geral cujas competências estão dispostas em regulamento próprio.\n\n2 - Compete ao Conselho Coordenador:\n\na) Colaborar com o presidente do Conselho no exercício das suas funções;\n\nb) Preparar e aprovar a proposta orçamental do Conselho, as suas alterações e a respetiva conta de gestão;\n\nc) Controlar a legalidade dos atos administrativos e financeiros;\n\nd) Autorizar a constituição de um fundo de maneio e controlar a sua utilização;\n\ne) Exercer as demais competências relativas a despesas públicas."
+  },
+  "116866588": {
+   "fragment_id": "116852310",
+   "type": 11,
+   "heading": "Artigo 13.º — Sede e apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sede e apoios\n\n1 - O Conselho dispõe de sede própria e de serviços de apoio técnico administrativo, cuja instalação compete ao Governo Regional.\n\n2 - O Conselho disporá de informação estatística necessária, regional, nacional ou estrangeira, para o exercício das suas funções.\n\n3 - Quando julgar necessário, o Conselho pode solicitar ao Governo Regional as informações julgadas necessárias, incluso a presença dos membros do Governo, no plenário ou nas comissões, sem direito a voto.\n\n4 - Qualquer membro do governo, sem direito a voto, pode, por sua iniciativa, participar nos trabalhos do plenário ou das comissões."
+  },
+  "116866589": {
+   "fragment_id": "116852311",
+   "type": 11,
+   "heading": "Artigo 14.º — Autonomia do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autonomia do Conselho\n\n1 - O Conselho é dotado de autonomia administrativa.\n\n2 - Os meios financeiros necessários ao seu funcionamento são inscritos no Orçamento da Região."
+  },
+  "116866590": {
+   "fragment_id": "116852312",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nA Regulamentação do presente diploma, pelo Governo Regional, sob proposta do Conselho, será feita até 120 dias, após a eleição do presidente."
+  },
+  "116866591": {
+   "fragment_id": "116852313",
+   "type": 11,
+   "heading": "Artigo 16.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pessoal\n\nOs serviços de apoio técnico e administrativo dispõem de pessoal destacado dos quadros do Governo Regional."
+  },
+  "116866592": {
+   "fragment_id": "116852314",
+   "type": 11,
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\nCom a aprovação do presente diploma, são revogados os Decretos Legislativos Regionais n.os 7/94/M, de 7 de abril e 12/97/M, de 20 de agosto."
+  },
+  "116866593": {
+   "fragment_id": "116852315",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia, do mês seguinte, ao da sua publicação."
+  },
+  "116866621": {
+   "fragment_id": "116852300",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2018-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Ao Conselho, compete, em geral, assegurar a participação das estruturas produtivas, económicas e sociais, na análise da evolução económica, social e laboral da Região.\n\n2 - O Conselho exerce as suas funções com autonomia e independência.\n\n3 - Para assegurar o cumprimento do disposto no n.º 1, o Conselho deverá:\n\na) Emitir parecer prévio sobre os planos de investimento e sobre os planos de desenvolvimento económico e social, assim como sobre a sua execução;\n\nb) Emitir decisões, pareceres e recomendações, nos processos legislativos e outros, que impliquem matéria económica, social e laboral;\n\nc) Emitir parecer sobre propostas legislativas no domínio das matérias inerentes às suas atribuições;\n\nd) Pronunciar-se sobre matérias de segurança social, emprego, formação profissional, concertação social, contratação coletiva e política de rendimentos em geral;\n\ne) Pronunciar-se sobre os planos sectoriais e espaciais, e a acompanhar a sua execução;\n\nf) Pronunciar-se a solicitação do Governo Regional, sobre matérias inerentes às suas atribuições.\n\ng) Acompanhar a atividade dos representantes da Região no Conselho Económico e da Concertação Social;\n\nh) Apreciar as posições da Região nas instâncias da União Europeias, no âmbito da política económica, social e laboral;\n\ni) Apreciar, em geral, a evolução da economia e as medidas da política económica, social e laboral no âmbito da Região;\n\nj) Promover o diálogo e a concertação entre parceiros sociais;\n\nk) Acompanhar as estratégias e políticas públicas de desenvolvimento da economia social;\n\nl) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, retificada pela Declaração de retificação n.º 21/2009, de 18 de março e alterada pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho (retificada pela Declaração de Retificação n.º 38/2012, de 23 de julho), 47/2012, de 29 de agosto, 69/2013, de 30 de agosto, 27/2014, de 8 de maio, 55/2014, de 25 de agosto, 28/2015, de 14 de abril, e 120/2015, de 1 de setembro, conforme o disposto no Decreto Legislativo Regional n.º 4/2012/M, de 16 de março;\n\nm) Aprovar o seu regulamento interno.\n\n4 - O Conselho será responsável pela elaboração de um relatório anual sobre o desenvolvimento da economia social regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "116866622": {
+   "fragment_id": "116852301",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2018-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O Conselho tem a seguinte composição:\n\na) Um presidente e vice-presidente eleitos pela Assembleia Legislativa da Região Autónoma da Madeira.\n\nb) Dois vice-presidentes, um escolhido de entre os representantes dos trabalhadores indicados na alínea e), e um escolhido de entre os representantes das associações patronais indicados na alínea f), do n.º 1 deste artigo, em regime de rotatividade;\n\nc) Sete representantes do Governo Regional, das áreas do Trabalho, do Emprego, da Segurança Social, da Educação, da Economia, das Finanças e do Turismo, designados por resolução do Conselho de Governo;\n\nd) Dois representantes das autarquias, nomeados pela Associação de Municípios da Região;\n\ne) Três representantes dos sindicados, sendo um indicado pela União dos Sindicatos do Arquipélago da Madeira (USAM), um pela Delegação da União Geral dos Trabalhadores (UGT Madeira) e um pela União dos Sindicados Independentes (USI);\n\nf) Três representantes das associações patronais, sendo um indicado pela Associação Comercial e Industrial do Funchal (ACIF), um indicado pela Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM) e um indicado pela Associação de Agricultores da Madeira;\n\ng) Um representante da Associação dos Jovens Empresários;\n\nh) Um representante da Associação dos Jovens Agricultores;\n\ni) Um representante das cooperativas agrícolas e de pescas;\n\nj) Um representante das cooperativas de habitação;\n\nk) Um representante do Secretariado Regional da União das Misericórdias Portuguesas;\n\nl) Um representante da Universidade da Madeira;\n\nm) Um representante designado pela Delegação Regional da Ordem dos Economistas;\n\nn) Os representantes da Região Autónoma da Madeira no Conselho Económico e Social nacional;\n\no) Duas personalidades de reconhecido mérito em matérias económicas, sociais e laborais, a designar pelo Plenário do Conselho;\n\np) Um representante da ANAFRE;\n\nq) Um representante da ordem dos engenheiros e um representante da ordem dos Arquitetos.\n\nr) Um representante das associações mutualistas;\n\ns) Um representante das profissões liberais;\n\nt) Um representante das organizações representativas das pessoas com deficiência;\n\nu) Um representante da União das Instituições Particulares de Solidariedade Social;\n\nv) Um representante das associações que atuem no âmbito cultural, recreativo e do desporto;\n\nw) Um representante das associações que atuem no âmbito do desenvolvimento local;\n\nx) Um representante do Conselho Permanente das Comunidades Madeirenses.\n\n2 - Todas as entidades identificadas no número anterior terão de estar sediadas ou ter trabalho reconhecido na Região Autónoma da Madeira.\n\n3 - O mandato dos membros do Conselho, corresponde ao período de uma Legislatura da Assembleia Legislativa da Região Autónoma da Madeira, cessando as suas funções com a tomada de posse na Legislatura seguinte dos novos órgãos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "116866623": {
+   "fragment_id": "116852302",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação dos membros",
+   "in_force_from": "2018-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 5.º — Designação dos membros\n\n1 - O presidente, nos primeiros 15 dias após a sua eleição, dá início ao processo de designação dos elementos integrantes do Conselho.\n\n2 - Após indicação dos diferentes elementos, que deverá ocorrer até 90 dias após a eleição do presidente, este promoverá uma reunião plenária, em cuja ordem de trabalhos constará a eleição dos vice-presidentes previstos na alínea b) do n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "116866624": {
+   "fragment_id": "116852307",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão Permanente de Concertação Social",
+   "in_force_from": "2018-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 10.º — Comissão Permanente de Concertação Social\n\n1 - Compete à Comissão Permanente de Concertação Social, em especial, promover o diálogo e a concertação entre os parceiros sociais, contribuir para a definição das políticas de rendimento e preços, de emprego e formação profissional.\n\n2 - A Comissão Permanente de Concertação Social tem a seguinte composição:\n\na) Dois membros do Governo, a designar por despacho do Presidente do Governo Regional;\n\nb) Um representante da União de Sindicatos do Arquipélago da Madeira (USAM);\n\nc) Um representante da Delegação Regional do União Geral de Trabalhadores (UGT Madeira);\n\nd) Um representante da Delegação da Madeira da União dos Sindicatos Independentes (USI);\n\ne) Um representante da Associação Comercial e Industrial do Funchal (ACIF);\n\nf) Um representante da Associação de Agricultores da Madeira;\n\ng) Um representante de Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM);\n\n3 - A Comissão Permanente de Concertação Social é presidida pelo Presidente do Governo Regional ou por um Secretário Regional em que ele delegar.\n\n4 - Os membros da Comissão Permanente de Concertação Social podem fazer-se acompanhar de especialistas para os assistir nas reuniões da Comissão ou dos grupos de trabalho.\n\n5 - Em matéria de concertação social, não carecem de aprovação pelo plenário as deliberações tomadas pela respetiva comissão especializada.\n\n6 - Compete à Comissão Permanente de Concertação Social aprovar o seu regulamento específico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "116866625": {
+   "fragment_id": "116852311",
+   "type": 11,
+   "heading": "Artigo 14.º — Autonomia do Conselho",
+   "in_force_from": "2018-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 14.º — Autonomia do Conselho\n\n1 - O Conselho é dotado de autonomia administrativa e financeira.\n\n2 - Os meios financeiros necessários ao seu funcionamento são inscritos no Orçamento da Região, por proposta do Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "116866626": {
+   "fragment_id": "116852313",
+   "type": 11,
+   "heading": "Artigo 16.º — Pessoal",
+   "in_force_from": "2018-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 16.º — Pessoal\n\nOs serviços de apoio técnico e administrativo dispõem de pessoal pertencente à administração pública regional, em regime de mobilidade nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "116866594": {
+   "fragment_id": "116852316",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de novembro de 2015.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 29 de dezembro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "123956075": {
+   "fragment_id": "116852309",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho Coordenador",
+   "in_force_from": "2019-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2019/M - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2019-123930787), em vigor a partir de 2019-08-14"
+   ],
+   "markdown": "###### Artigo 12.º — Conselho Coordenador\n\n1 - O Conselho Coordenador é composto pelo presidente do Conselho, com voto de qualidade, pelos vice-presidentes e pelos presidentes das comissões especializadas e pelo secretário-geral cujas competências estão dispostas em regulamento próprio.\n\n2 - Compete ao Conselho Coordenador:\n\na) Colaborar com o presidente do Conselho no exercício das suas funções;\n\nb) Preparar e aprovar a proposta orçamental do Conselho, as suas alterações e a respetiva conta de gestão;\n\nc) Controlar a legalidade dos atos administrativos e financeiros;\n\nd) Autorizar a constituição de um fundo de maneio e controlar a sua utilização;\n\ne) Exercer as demais competências relativas a despesas públicas;\n\nf) Regulamentar e conceder as contribuições financeiras a atribuir às organizações referidas no artigo 10.º, cuja dotação se encontra inscrita no orçamento do Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2019/M - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2019-123930787), em vigor a partir de 2019-08-14"
+  },
+  "139995145": {
+   "fragment_id": "139995389",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Secretário-geral",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Secretário-geral\n\n1 - O Conselho dispõe de um secretário-geral que é nomeado, por despacho do presidente do Conselho de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respetivas funções.\n\n2 - O secretário-geral coordena o serviço de apoio técnico e administrativo do Conselho, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "139995165": {
+   "fragment_id": "116852310",
+   "type": 11,
+   "heading": "Artigo 13.º — Sede e apoios",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Sede e apoios\n\n1 - O Conselho dispõe de sede própria e de um serviço de apoio técnico e administrativo, cuja instalação compete à Assembleia Legislativa da Região Autónoma da Madeira.\n\n2 - O Conselho disporá de informação estatística necessária, regional, nacional ou estrangeira, para o exercício das suas funções.\n\n3 - Quando julgar necessário, o Conselho pode solicitar ao Governo Regional as informações julgadas necessárias, incluso a presença dos membros do Governo, no plenário ou nas comissões, sem direito a voto.\n\n4 - Qualquer membro do governo, sem direito a voto, pode, por sua iniciativa, participar nos trabalhos do plenário ou das comissões.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "139995166": {
+   "fragment_id": "116852311",
+   "type": 11,
+   "heading": "Artigo 14.º — Financiamento",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 14.º — Financiamento\n\nOs meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região e incluídos na verba afeta à Assembleia Legislativa da Região Autónoma da Madeira, a qual assegura a respetiva transferência ao Conselho.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "139995153": {
+   "fragment_id": "139995390",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Direito a senhas de presença",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Direito a senhas de presença\n\nA participação nas reuniões dos órgãos do Conselho confere aos membros que não sejam titulares de órgão de Governo próprio da Região, direito a senhas de presença.\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "139995159": {
+   "fragment_id": "139995391",
+   "type": 11,
+   "heading": "Artigo 14.º-B — Regulamentos internos",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º-B — Regulamentos internos\n\nOs regulamentos internos do Conselho são publicados na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "139995168": {
+   "fragment_id": "116852312",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nA Regulamentação do presente diploma, pelo Governo Regional, sob proposta do Conselho, será feita até 120 dias, após a eleição do presidente.\n\n> Revogado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "139995167": {
+   "fragment_id": "116852313",
+   "type": 11,
+   "heading": "Artigo 16.º — Pessoal",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 16.º — Pessoal\n\n1 - Os serviços de apoio técnico e administrativo dispõem de pessoal pertencente à administração pública regional, em regime de mobilidade nos termos da lei.\n\n2 - A mobilidade a que se refere o número anterior tem como limite o prazo de exercício de funções dos membros do Conselho\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "139995162": {
+   "fragment_id": "116852314",
+   "type": 11,
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\nCom a aprovação do presente diploma, são revogados os Decretos Legislativos Regionais n.os 7/94/M, de 7 de abril e 12/97/M, de 20 de agosto."
+  },
+  "139995163": {
+   "fragment_id": "116852315",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia, do mês seguinte, ao da sua publicação."
+  },
+  "139995164": {
+   "fragment_id": "116852316",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de novembro de 2015.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 29 de dezembro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "139995169": {
+   "fragment_id": "139995389",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Secretário-geral",
+   "in_force_from": "2020-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Secretário-geral\n\n1 - O Conselho dispõe de um secretário-geral que é nomeado, por despacho do presidente do Conselho de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respetivas funções.\n\n2 - O secretário-geral coordena o serviço de apoio técnico e administrativo do Conselho, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.\n\n3 - O secretário-geral tem direito a auferir uma remuneração mensal até ao valor padrão determinado para os titulares dos cargos de direção intermédia de 2.º grau, a fixar no despacho a que se refere o artigo 14.º-A.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "139995170": {
+   "fragment_id": "116852311",
+   "type": 11,
+   "heading": "Artigo 14.º — Financiamento",
+   "in_force_from": "2020-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 14.º — Financiamento\n\nOs meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região e assegurados através da verba afeta à Assembleia Legislativa da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "139995171": {
+   "fragment_id": "139995390",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Direito a senhas de presença",
+   "in_force_from": "2020-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Direito a senhas de presença\n\nA participação nas reuniões do Conselho Coordenador confere aos membros que não sejam titulares de órgão de governo próprio da Região ou que não aufiram remunerações devidas por funções desempenhadas no Conselho, o direito a senhas de presença, em montante e condições a fixar por despacho do Presidente da Assembleia Legislativa da Região Autónoma da Madeira, sob proposta do conselho de administração.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "927641015": {
+   "fragment_id": "116852300",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Ao Conselho, compete, em geral, assegurar a participação das estruturas produtivas, económicas e sociais, na análise da evolução económica, social e laboral da Região.\n\n2 - O Conselho exerce as suas funções com autonomia e independência.\n\n3 - Para assegurar o cumprimento do disposto no n.º 1, o Conselho deverá:\n\na) Emitir parecer prévio sobre os planos de investimento e sobre os planos de desenvolvimento económico e social, assim como sobre a sua execução;\n\nb) Emitir decisões, pareceres e recomendações, nos processos legislativos e outros, que impliquem matéria económica, social e laboral;\n\nc) Emitir parecer sobre propostas legislativas no domínio das matérias inerentes às suas atribuições;\n\nd) Pronunciar-se sobre matérias de segurança social, emprego, formação profissional, economia social, concertação social, contratação coletiva e política de rendimentos em geral;\n\ne) Pronunciar-se sobre os planos sectoriais e espaciais, e a acompanhar a sua execução;\n\nf) Pronunciar-se a solicitação do Governo Regional, sobre matérias inerentes às suas atribuições.\n\ng) Acompanhar a atividade dos representantes da Região no Conselho Económico e Social nacional;\n\nh) Apreciar as posições da Região nas instâncias da União Europeia, no âmbito da política económica, social e laboral e emitir parecer sobre a participação portuguesa no processo de construção europeia, nomeadamente quanto às implicações económicas, financeiras e sociais de maior impacto na Região, assim como sobre a execução dos fundos estruturais ou outros programas onde se preveja a utilização de fundos da União Europeia na Região;\n\ni) Apreciar, em geral, a evolução da economia e as medidas da política económica, social e laboral no âmbito da Região;\n\nj) Promover o diálogo e a concertação entre parceiros sociais;\n\nk) Acompanhar as estratégias e políticas públicas de desenvolvimento da economia social;\n\nl) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, retificada pela Declaração de retificação n.º 21/2009, de 18 de março e alterada pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho (retificada pela Declaração de Retificação n.º 38/2012, de 23 de julho), 47/2012, de 29 de agosto, 69/2013, de 30 de agosto, 27/2014, de 8 de maio, 55/2014, de 25 de agosto, 28/2015, de 14 de abril, e 120/2015, de 1 de setembro, conforme o disposto no Decreto Legislativo Regional n.º 4/2012/M, de 16 de março;\n\nm) Aprovar o seu regulamento interno.\n\n4 - O Conselho será responsável pela elaboração de um relatório anual sobre o desenvolvimento da economia social regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "927641016": {
+   "fragment_id": "116852301",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O Conselho tem a seguinte composição:\n\na) Um presidente e vice-presidente a eleger pela Assembleia Legislativa da Região Autónoma da Madeira;\n\nb) Um vice-presidente, a designar pela UGT - União Geral dos Trabalhadores da Madeira;\n\nc) Um vice-presidente, a designar pela União dos Sindicatos do Arquipélago da Madeira (USAM);\n\nd) Um vice-presidente, a designar pela Associação Comercial e Industrial do Funchal (ACIF);\n\ne) Um vice-presidente, a designar pela Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM);\n\nf) Nove representantes do Governo Regional, das áreas do trabalho, do emprego, da segurança social, da educação, da economia, das finanças, da modernização administrativa, do turismo e do ambiente, a designar por resolução do Conselho de Governo Regional;\n\ng) Um representante do setor público empresarial da Região Autónoma da Madeira, a designar por resolução do Conselho do Governo Regional;\n\nh) Três representantes dos municípios, a designar pela Associação de Municípios da Região Autónoma da Madeira, sendo pelo menos um referente, preferencialmente, a um município da costa norte da Região;\n\ni) Um representante do Município do Porto Santo, a designar pelo mesmo;\n\nj) Um representante da delegação regional da Associação Nacional de Freguesias (ANAFRE), a designar pela mesma;\n\nk) Um representante da Universidade da Madeira, a designar pela mesma;\n\nl) Um representante da Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação, a designar pela mesma;\n\nm) Um representante da Delegação da Madeira da União dos Sindicados Independentes (USI), a designar pela mesma;\n\nn) Um representante da Associação de Agricultores da Madeira, a designar pela mesma;\n\no) Um representante da Associação dos Jovens Empresários, a designar pela mesma;\n\np) Um representante da Associação dos Jovens Agricultores, a designar pela mesma;\n\nq) Um representante das cooperativas agrícolas e de pescas, a designar pelas cooperativas de âmbito regional;\n\nr) Um representante das cooperativas de habitação, a designar pelas cooperativas de âmbito regional;\n\ns) Um representante da União das Instituições Particulares de Solidariedade Social da Madeira, a designar pela mesma;\n\nt) Um representante do Secretariado Regional da União das Misericórdias Portuguesas, a designar pelo mesmo;\n\nu) Um representante das profissões liberais, a designar pelas representações regionais das ordens profissionais;\n\nv) Um representante da Ordem dos Economistas, a designar pela delegação regional;\n\nw) Um representante da Ordem dos Engenheiros, a designar pela secção regional;\n\nx) Um representante da Ordem dos Engenheiros Técnicos, a designar pela secção regional;\n\ny) Um representante da Ordem dos Arquitetos, a designar pela secção regional;\n\nz) Os representantes da Região Autónoma da Madeira no Conselho Económico e Social nacional;\n\naa) Duas personalidades de reconhecido mérito em matérias económicas, sociais e laborais, a designar pelo plenário do Conselho;\n\nbb) Um representante das associações de defesa do consumidor, a designar pelas associações de âmbito regional;\n\ncc) Um representante das associações de defesa do ambiente, a designar pelas associações de âmbito regional;\n\ndd) Um representante das organizações representativas das pessoas com deficiência, a designar pelas associações de âmbito regional;\n\nee) Um representante das organizações da área da igualdade de género, a designar pelas associações de âmbito regional;\n\nff) Um representante das associações que atuem no âmbito cultural, recreativo e do desporto, a designar pelas associações de âmbito regional;\n\ngg) Um representante das associações que atuem no âmbito do desenvolvimento local, a designar pelas associações de âmbito regional;\n\nhh) Um representante da juventude madeirense, a designar pelo Conselho de Juventude da Madeira;\n\nii) Um representante das associações mutualistas, a designar pelas associações de âmbito regional;\n\njj) Um representante do Conselho da Diáspora Madeirense, a designar pelo departamento do Governo Regional com competência na matéria.\n\n2 - Todas as entidades identificadas no número anterior têm de estar sediadas ou ter trabalho reconhecido na Região Autónoma da Madeira.\n\n3 - O mandato dos membros do Conselho corresponde ao período de uma legislatura da Assembleia Legislativa da Região Autónoma da Madeira, cessando as suas funções com a tomada de posse na legislatura seguinte dos novos órgãos, e está sujeito a um limite máximo de 12 anos consecutivos.\n\n4 - Se o termo do período máximo de 12 anos ocorrer durante o desempenho de funções, a limitação apenas se verifica no final do mandato em curso.\n\n5 - Os representantes das entidades referidas no n.º 1 que tenham atingido o limite referido no n.º 3, não podem ser novamente designados como membros do Conselho, durante os 4 anos subsequentes ao último mandato consecutivo permitido.\n\n6 - Para cada um dos setores representados, há um número de suplentes igual ao dos respetivos representantes no Conselho, com exceção dos representantes referidos nas alíneas a) a e) do n.º 1.\n\n7 - É proibida a acumulação de representação por um membro do Conselho.\n\n8 - Os representantes dos trabalhadores referidos nas alíneas b), c) e m) do n.º 1 e das organizações referidas nas alíneas d), e) e n) do referido número incluem, obrigatoriamente, os respetivos representantes na Comissão Permanente de Concertação Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "927641017": {
+   "fragment_id": "116852302",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação dos membros",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 5.º — Designação dos membros\n\n1 - O presidente, nos primeiros 15 dias após a sua eleição, dá início ao processo de designação dos elementos integrantes do Conselho, o qual deve ocorrer até 90 dias após a referida eleição.\n\n2 - Sempre que a representação se refira a mais do que uma entidade, o presidente do Conselho procura consenso entre elas quanto à escolha do membro representante, nos termos do regulamento do Conselho.\n\n3 - Não sendo possível o consenso, ponderada a representatividade dos candidatos, compete ao Conselho a escolha do membro representante.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "927641018": {
+   "fragment_id": "116852305",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+   ],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Compete ao presidente:\n\na) Representar o Conselho;\n\nb) Preparar a ordem de trabalhos, convocar e dirigir as reuniões plenárias e do Conselho Coordenador;\n\nc) Solicitar às comissões a elaboração de estudos, pareceres e informações;\n\nd) Solicitar, quando necessário, a empresas ou entidades nacionais ou não, a elaboração de estudos e outros trabalhos de interesse económico para a Região;\n\ne) Apresentar à Assembleia Legislativa da Região Autónoma da Madeira, com aprovação do Conselho Coordenador, a proposta orçamental do Conselho;\n\nf) Convidar, por sua iniciativa, ou a pedido das comissões, quaisquer entidades, entre elas os membros do Governo, consideradas úteis ao assunto em análise;\n\ng) Fazer cumprir o regimento;\n\nh) Designar o secretário-geral;\n\ni) Exercer outras competências atribuídas por lei.\n\n2 - O presidente pode delegar num vice-presidente as competências que entender, com parecer favorável do conselho coordenador.\n\n3 - O presidente, em todas as suas funções, tem voto de qualidade.\n\n4 - O Presidente do Conselho tem competência idêntica à de Secretário Regional no que respeita à autorização de despesa e prática de atos administrativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+  },
+  "927641019": {
+   "fragment_id": "116852306",
+   "type": 11,
+   "heading": "Artigo 9.º — Plenário",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+   ],
+   "markdown": "###### Artigo 9.º — Plenário\n\n1 - O plenário é constituído por todos os membros que integram o Conselho.\n\n2 - O plenário é o órgão competente para exprimir as opiniões do Conselho, sem prejuízo do disposto no artigo seguinte.\n\n3 - O plenário funciona com a maioria dos membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+  },
+  "927641020": {
+   "fragment_id": "116852307",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão Permanente de Concertação Social",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 10.º — Comissão Permanente de Concertação Social\n\n1 - Compete à Comissão Permanente de Concertação Social, em especial, promover o diálogo e a concertação entre os parceiros sociais, contribuir para a definição das políticas de rendimento e preços, de emprego e formação profissional.\n\n2 - A Comissão Permanente de Concertação Social tem a seguinte composição:\n\na) Dois membros do Governo, a designar por despacho do Presidente do Governo Regional;\n\nb) Um representante da União de Sindicatos do Arquipélago da Madeira (USAM);\n\nc) Um representante da UGT - União Geral de Trabalhadores da Madeira;\n\nd) Um representante da Delegação da Madeira da União dos Sindicatos Independentes (USI);\n\ne) Um representante da Associação Comercial e Industrial do Funchal (ACIF);\n\nf) Um representante da Associação de Agricultores da Madeira;\n\ng) Um representante de Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM);\n\nh) O presidente do Conselho, sem direito a voto.\n\n3 - A Comissão Permanente de Concertação Social é presidida pelo Presidente do Governo Regional ou por um Secretário Regional em que ele delegar.\n\n4 - Os membros da Comissão Permanente de Concertação Social podem fazer-se acompanhar de especialistas para os assistir nas reuniões da Comissão ou dos grupos de trabalho.\n\n5 - Em matéria de concertação social, não carecem de aprovação pelo plenário as deliberações tomadas pela respetiva comissão especializada.\n\n6 - Compete à Comissão Permanente de Concertação Social aprovar o seu regulamento específico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "927641021": {
+   "fragment_id": "116852308",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissões especializadas",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+   ],
+   "markdown": "###### Artigo 11.º — Comissões especializadas\n\n1 - Para além dos trabalhos em plenário, a atividade dos membros do Conselho desenvolve-se na Comissão Permanente de Concertação Social e nas comissões especializadas, as quais podem ser permanentes ou temporárias.\n\n2 - São permanentes as comissões especializadas:\n\na) De política económica e social;\n\nb) Quaisquer outras que venham a ser decididas pelo plenário, por maioria qualificada de dois terços dos seus membros em efetividade de funções.\n\n3 - São comissões especializadas temporárias as definidas pelo plenário, que indicará a composição, o objeto e o tempo.\n\n4 - A indicação dos membros para cada uma das comissões deve refletir o objetivo da mesma, não podendo os membros do Conselho recusar a sua participação nas comissões.\n\n5 - Compete às comissões especializadas:\n\na) Eleger o seu presidente, que tem voto de qualidade, dirige os trabalhos e faz a ligação com os órgãos do Conselho e que, no caso das comissões permanentes, faz parte do Conselho Coordenador;\n\nb) Elaborar estudos, pareceres, relatórios a pedido dos outros órgãos do Conselho;\n\nc) Propor ao presidente do Conselho a realização de estudos que considere úteis ao desempenho das suas funções;\n\nd) Requerer, através do presidente do Conselho, as informações, depoimentos e esclarecimentos necessários aos seus trabalhos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+  },
+  "927641022": {
+   "fragment_id": "116852309",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho Coordenador",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2019/M - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2019-123930787), em vigor a partir de 2019-08-14"
+   ],
+   "markdown": "###### Artigo 12.º — Conselho Coordenador\n\n1 - O Conselho Coordenador é composto pelo presidente do Conselho, com voto de qualidade, pelos vice-presidentes, pelos presidentes das comissões especializadas permanentes e pelo secretário-geral.\n\n2 - Compete ao Conselho Coordenador:\n\na) Colaborar com o presidente do Conselho no exercício das suas funções;\n\nb) Preparar e aprovar a proposta orçamental do Conselho, as suas alterações e a respetiva conta de gestão;\n\nc) Controlar a legalidade dos atos administrativos e financeiros;\n\nd) Autorizar a constituição de um fundo de maneio e controlar a sua utilização;\n\ne) Exercer as demais competências relativas a despesas públicas;\n\nf) Regulamentar e conceder as contribuições financeiras a atribuir às organizações referidas no artigo 10.º, cuja dotação se encontra inscrita no orçamento do Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2019/M - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2019-123930787), em vigor a partir de 2019-08-14"
+  },
+  "927641023": {
+   "fragment_id": "139995389",
+   "type": 11,
+   "heading": "Artigo 13.º — Secretário-geral",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Secretário-geral\n\n1 - O Conselho dispõe de um secretário-geral que é nomeado, por despacho do presidente do Conselho de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respetivas funções.\n\n2 - O secretário-geral coordena o serviço de apoio técnico e administrativo do Conselho, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.\n\n3 - O secretário-geral tem direito a auferir uma remuneração mensal até ao valor padrão determinado para os titulares dos cargos de direção intermédia de 2.º grau, a fixar no despacho a que se refere o artigo 14.º-A.\n\n4 - Compete ao secretário-geral:\n\na) Apoiar o funcionamento dos órgãos do Conselho sob a orientação do presidente;\n\nb) Preparar os estudos e as informações que se mostrem necessários;\n\nc) Coordenar os serviços de apoio técnico e administrativo e assegurar o expediente relativo ao funcionamento dos órgãos do Conselho;\n\nd) Estar presente, sem direito a intervir nem direito a voto, nas reuniões de todos os órgãos do Conselho e elaborar as respetivas atas;\n\ne) Exercer quaisquer outras competências que lhe sejam delegadas pelo presidente do Conselho, bem como as demais previstas nos regulamentos internos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "927641034": {
+   "fragment_id": "116852310",
+   "type": 11,
+   "heading": "Artigo 14.º — Sede e apoios",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Sede e apoios\n\n1 - O Conselho dispõe de sede própria e de um serviço de apoio técnico e administrativo, cuja instalação compete à Assembleia Legislativa da Região Autónoma da Madeira.\n\n2 - O Conselho disporá de informação estatística necessária, regional, nacional ou estrangeira, para o exercício das suas funções.\n\n3 - Quando julgar necessário, o Conselho pode solicitar ao Governo Regional as informações julgadas necessárias, incluso a presença dos membros do Governo, no plenário ou nas comissões, sem direito a voto.\n\n4 - Qualquer membro do governo, sem direito a voto, pode, por sua iniciativa, participar nos trabalhos do plenário ou das comissões.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "927641035": {
+   "fragment_id": "116852311",
+   "type": 11,
+   "heading": "Artigo 15.º — Financiamento",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 15.º — Financiamento\n\nOs meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região e assegurados através da verba afeta à Assembleia Legislativa da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "927641036": {
+   "fragment_id": "139995390",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito a senhas de presença",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Direito a senhas de presença\n\nA participação nas reuniões do Conselho Coordenador confere aos membros que não sejam titulares de órgão de governo próprio da Região ou que não aufiram remunerações devidas por funções desempenhadas no Conselho, o direito a senhas de presença, em montante e condições a fixar por despacho do Presidente da Assembleia Legislativa da Região Autónoma da Madeira, sob proposta do conselho de administração.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "927641037": {
+   "fragment_id": "139995391",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentos internos",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Regulamentos internos\n\nOs regulamentos internos do Conselho são publicados na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.\n\n> Aditado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "927641024": {
+   "fragment_id": "927635260",
+   "type": 11,
+   "heading": "Artigo 18.º — Dispensa do exercício efetivo de funções",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+   ],
+   "markdown": "###### Artigo 18.º — Dispensa do exercício efetivo de funções\n\n1 - Os membros do Conselho têm direito a ser dispensados do exercício das suas funções profissionais pelo período necessário para assistir às reuniões para que tenham sido convocados, até ao máximo de 10 dias úteis por ano.\n\n2 - Os membros do Conselho que pretendam exercer o direito previsto no número anterior devem avisar, por escrito, a entidade empregadora com, pelo menos, três dias de antecedência.\n\n3 - As dispensas previstas no presente artigo são equiparadas a serviço efetivo para todos os efeitos legais.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 4/2025/M - Diário da República n.º 147/2025, Série I de 2025-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001), em vigor a partir de 2025-08-02"
+  },
+  "927641038": {
+   "fragment_id": "116852312",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamentação",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Regulamentação\n\nA Regulamentação do presente diploma, pelo Governo Regional, sob proposta do Conselho, será feita até 120 dias, após a eleição do presidente.\n\n> Revogado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "927641039": {
+   "fragment_id": "116852313",
+   "type": 11,
+   "heading": "Artigo 20.º — Pessoal",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+   ],
+   "markdown": "###### Artigo 20.º — Pessoal\n\n1 - Os serviços de apoio técnico e administrativo dispõem de pessoal pertencente à administração pública regional, em regime de mobilidade nos termos da lei.\n\n2 - A mobilidade a que se refere o número anterior tem como limite o prazo de exercício de funções dos membros do Conselho\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2018/M - Diário da República n.º 211/2018, Série I de 2018-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292), em vigor a partir de 2018-11-03"
+  },
+  "927641040": {
+   "fragment_id": "116852314",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": "2025-08-02",
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nCom a aprovação do presente diploma, são revogados os Decretos Legislativos Regionais n.os 7/94/M, de 7 de abril e 12/97/M, de 20 de agosto."
+  },
+  "927641041": {
+   "fragment_id": "116852315",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": "2025-08-02",
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia, do mês seguinte, ao da sua publicação."
+  },
+  "927641029": {
+   "fragment_id": "116852316",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de novembro de 2015.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 29 de dezembro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

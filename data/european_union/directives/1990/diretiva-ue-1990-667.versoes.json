@@ -1,0 +1,379 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0667:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0667-20030430",
+ "dre_path": null,
+ "source_lastmod": "2003-04-30",
+ "versions": [
+  {
+   "date": "1990-12-27",
+   "future": false,
+   "celex": "31990L0667",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0da9e74567de3fd8",
+    "1e6d6e0e375c13b5",
+    "872ab0446a96831e",
+    "b05d4c9bcd7bdb14",
+    "ae4f5be0173b709f",
+    "c6f274e9e9246cf1",
+    "bf5b2176a5bed8ba",
+    "e88585ff3a58d1dd",
+    "ecfc129d15f7c335",
+    "da0eee3c344181e9",
+    "20361aa0c9ef809e",
+    "2f9fd55b867e6ead",
+    "005c3f02443634f4",
+    "7c5f63ee6c8e5f2d",
+    "da4aac72cbf5af73",
+    "c5b8f541001071d9",
+    "f14dcd73d9901e73",
+    "0f17cc9b60dbfcf2",
+    "d1412a06ab11fd30",
+    "ca9ea231046b5393",
+    "359feb7e658b231f",
+    "7e10c1427762f0f8",
+    "1f3830bf9928ceee",
+    "67eaa365885df18d",
+    "826eb9b4ab52a244",
+    "26d8e435575045a4",
+    "edbd0e2716f7c499",
+    "377c8667a1f0407d",
+    "1ca830336214d055",
+    "34dbeb80ce5cc79f",
+    "e473943b7bd1bdc6",
+    "b73069530485fbfb",
+    "136fa20e106a699b",
+    "eda1fdebcd1c6b34"
+   ]
+  },
+  {
+   "date": "2003-04-30",
+   "future": false,
+   "celex": "01990L0667-20030430",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1°.",
+    "Suprime Artigo 2°.",
+    "Suprime CAPÍTULO II — NORMAS PARA A TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS E A COLOCAÇÃO NO MERCADO DOS PRODUTOS FINAIS",
+    "Suprime Artigo 3°.",
+    "Suprime Artigo 4°.",
+    "Suprime Artigo 5°.",
+    "Suprime capítulo I; — b)",
+    "Suprime Artigo 6°.",
+    "Suprime Artigo 7°. — Em casos especiais e sob o controlo veterinário das autoridades competentes, os Estados-membros podem autorizar,",
+    "Suprime Artigo 8°.",
+    "Suprime CAPÍTULO III — CONTROLOS E INSPECÇÕES A EFECTUAR POR CADA ESTADO-MEMBRO NAS INSTALAÇÕES DE TRANSFORMAÇÃO DE ALTO E BAIXO RISCO EM FUNCIONAMENTO NO SEU TERRITÓRIO",
+    "Suprime Artigo 9°.",
+    "Suprime Artigo 10°.",
+    "Suprime Artigo 11°.",
+    "Suprime CAPÍTULO IV",
+    "Suprime Artigo 12°.",
+    "Suprime Artigo 13°.",
+    "Suprime Artigo 14°.",
+    "Suprime CAPÍTULO V — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 15°.",
+    "Suprime Artigo 16°.",
+    "Suprime Artigo 17°.",
+    "Suprime Artigo 18°.",
+    "Suprime Artigo 19°.",
+    "Suprime Artigo 20°. — O Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprovará, o mais tardar até 31 de",
+    "Suprime Artigo 21°.",
+    "Suprime Artigo 22°. — Os Estados-membros são os destinatários da presente",
+    "Suprime ANEXO I — EXIGÊNCIAS SANITÁRIAS PARA A RECOLHA E O TRANSPORTE DE RESÍDUOS ANIMAIS",
+    "Suprime ANEXO II — EXIGÊNCIAS SANITÁRIAS PARA AS INSTALAÇÕES DE TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS",
+    "Suprime CAPÍTULO I — Condições exigidas para a aprovação das instalações de transformação de resíduos animais",
+    "Suprime CAPÍTULO II — Higiene das operações efectuadas nas instalações de transformação de resíduos animais",
+    "Suprime CAPÍTULO III — Exigências relativas aos produtos resultantes da transformação"
+   ],
+   "fragments": [
+    "bdd53a7fdd8489ae"
+   ]
+  }
+ ],
+ "fragments": {
+  "0da9e74567de3fd8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE** *Jornal Oficial nº L 363 de 27/12/1990 p. 0051 - 0060 Edição especial finlandesa: Capítulo 3 Fascículo 36 p. 0031 Edição especial sueca: Capítulo 3 Fascículo 36 p. 0031*\n\nDIRECTIVA DO CONSELHO\n\nde 27 de Novembro de 1990\n\nque estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE\n\n(90/667/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43°.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Comunidade deve adoptar medidas destinadas a realizar progressivamente o mercado interno num período que termina em 31 de Dezembro de 1992;\n\nConsiderando que a produção animal se reveste de grande importância na agricultura da Comunidade; que, além disso, os resíduos animais, quando incorrectamente destruídos, podem dar origem à propagação de agentes patogénicos no ambiente, levando a uma diminuição da produtividade e das margens de lucro no sector em causa; que se torna, pois, necessário estabelecer normas harmonizadas para a transformação dos resíduos animais e a colocação no mercado de produtos tratados deles resultantes;\n\nConsiderando que deve ser estabelecida uma distinção nas medidas a aplicar em função da natureza da matéria-prima utilizada;\n\nConsiderando que, para evitar qualquer risco de dispersão dos agentes patogénicos, se torna necessário transformar os resíduos animais em instalações próprias para esse fim, aprovadas e vigiadas, ou destruí-los através de um processo\n\nadequado; que, além disso, sempre que se trate de resíduos animais que comportem um risco elevado, devem esses resíduos ser recolhidos e transportados directamente para o local de transformação designado pelo Estado-membro interessado; que, em determinadas circunstâncias e principalmente quando a distância e o tempo de transporte o justifiquem, o local de transformação designado pode situar-se noutro Estado-membro;\n\nConsiderando que se devem limitar as possibilidades de utilização de algumas matérias;\n\nConsiderando que, a fim de tomar em consideração determinadas práticas, há que estabelecer derrogações aos tratamentos previstos para utilizações vigiadas;\n\nConsiderando a necessidade de submeter as fábricas de transformação a um autocontrolo da sua produção e, principalmente, da observância das normas microbiológicas aplicáveis do produto final;\n\nConsiderando a necessidade de prever um processo de inspecção comunitário;\n\nConsiderando que os produtos em questão devem estar submetidos às normas de controlo veterinárias estabelecidas pela Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990 relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (4) e, eventualmente, às medidas de salvaguarda;\n\nConsiderando que há que prever normas mínimas de carácter transitório para os produtos importados;\n\nConsiderando a necessidade de prever um processo de cooperação entre a Comissão e os Estados-membros, a fim de adoptar medidas de aplicação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1e6d6e0e375c13b5": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "872ab0446a96831e": {
+   "fragment_id": "Artigo 1°.",
+   "type": "artigo",
+   "heading": "Artigo 1°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°.\n\n1. A presente directiva estabelece:\n\na) As normas sanitárias e de saúde pública que regem:\n\nii) A eliminação e/ou transformação dos resíduos animais, com vista à destruição de quaisquer agentes patogénicos que neles possam ester presentes;\n\nii)\n\nA produção de alimentos de origem animal segundo métodos susceptíveis de evitar a presença de eventuais agentes patogénicos nesses alimentos;\n\nb)\n\nAs normas de colocação no mercado de resíduos animais não destinados ao consumo humano.\n\n2. Nao são afectadas pela presente directiva:\n\na)\n\nAs legislações veterinárias nacionais aplicáveis à erradicação e ao controlo de certas doenças e à utilização das sobras de cozinha e de mesa;\n\nb)\n\nAs normas sanitárias nacionais que regem a produção de alimentos compostos para animais que contenham componentes de origem animal e vegetal e de alimentos para animais que contenham apenas substâncias de origem vegetal."
+  },
+  "b05d4c9bcd7bdb14": {
+   "fragment_id": "Artigo 2°.",
+   "type": "artigo",
+   "heading": "Artigo 2°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°.\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Resíduos animais: as carcaças ou partes de carcaças de animais ou de peixes ou os produtos de origem animal não destinados ao consumo humano directo, com excepção dos excrementos animais e das sobras de cozinha e de mesa;\n\n2. Matérias de alto risco: os resíduos animais referidos no artigo 3°.de que haja suspeita de apresentarem sérios riscos para a saúde humana ou animal;\n\n3. Matérias de baixo risco: os resíduos animais não abrangidos pelo artigo 3°.que não apresentem sérios riscos de propagação de doenças entre animais ou de animais ao homem;\n\n4. Instalação de transformação de baixo risco: uma instalação em que se transformam matérias de baixo risco em ingredientes a incluir nos alimentos para animais, a farinha de peixe, em conformidade com o artigo 5°.;\n\n5. Instalação de transformação de alto risco: uma instalação em que, em conformidade com o artigo 3°., os resíduos animais são submetidos a tratamento ou transformação, com o objectivo de destruir os agentes patogénicos;\n\n6. Alimentos para animais de estimação: os alimentos para cães, gatos e outros animais de estimação, total ou parcialmente preparados a partir de matérias de baixo risco;\n\n7. Produtos técnicos ou farmacêuticos: os produtos não destinados ao consumo humano ou animal;\n\n8. Estabelecimento: uma instalação de transformação de baixo risco, uma instalação de transformação de alto risco, uma fábrica de farinha de peixe ou de alimentos para animais de estimação ou uma instalação em que sejam preparados produtos técnicos ou farmacêuticos e onde sejam utilizados resíduos de animais para a preparação de tais produtos;\n\n9. Autoridade competente: a autoridade designada pela autoridade central competente para controlar a aplicação da presente directiva."
+  },
+  "ae4f5be0173b709f": {
+   "fragment_id": "CAPÍTULO II — NORMAS PARA A TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS E A COLOCAÇÃO NO MERCADO DOS PRODUTOS FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — NORMAS PARA A TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS E A COLOCAÇÃO NO MERCADO DOS PRODUTOS FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — NORMAS PARA A TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS E A COLOCAÇÃO NO MERCADO DOS PRODUTOS FINAIS\n\nA. Matérias de alto risco"
+  },
+  "c6f274e9e9246cf1": {
+   "fragment_id": "Artigo 3°.",
+   "type": "artigo",
+   "heading": "Artigo 3°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°.\n\n1. As matérias de alto risco a seguir enumeradas devem ser transformadas numa instalação de transformação de alto risco aprovada pelo Estado-membro, nos termos do disposto no n°. 1 do artigo 4°., ou destruídas por incineração ou enterramento, nos termos do disposto no n°. 2:\n\na) Todos os bovinos, suínos, caprinos, ovinos, solípedes, aves de capoeira e outros animais utilizados na produção agrícola, mortos na exploração mas não abatidos para consumo humano, incluindo os nados-mortos e os fetos;\n\nb)\n\nOs cadáveres de animais não referidos na alínea a) e indicados pela autoridade competente do Estado-membro;\n\nc)\n\nOs animais abatidos no âmbito de medidas de luta contra doenças, quer na exploração quer em qualquer outro local designado pela autoridade competente;\n\nd)\n\nOs resíduos, incluindo o sangue, provenientes de animais que, na altura da inspecção veterinária efectuada na altura do abate, revelem sinais clínicos de doenças transmissíveis ao homem ou a outros animais;\n\ne)\n\nTodas as partes de animais abatidos em condições regulares que nao tenham sido apresentadas à inspecção post mortem, com excepção dos couros, peles, cascos, penas, lã, chifres, sangue e produtos similares;\n\nf)\n\nQualquer carne, carne de ave de capoeira, peixe, caça e qualquer género de origem animal alterados que, por esse motivo, apresente um risco para a saúde humana e animal;\n\ng)\n\nOs animais, carne fresca, carne de aves de capoeira, peixe, caça e protudos de carne e lacticínios importados de países terceiros que, por ocasião dos controlos previstos na legislação comunitária, nao cumpram as exigências veterinárias para a sua importação para a Comunidade, excepto se forem reexportados ou se a sua importação for aceite, sem prejuízo das restrições estabelecidas nas disposiçoes comunitárias;\n\nh)\n\nSem prejuízo dos casos de abate urgentes ordenados por motivos de bem-estar, os animais de criação mortos durante o transporte;\n\ni)\n\nOs resíduos animais que contenham resíduos de substâncias susceptíveis de apresentar riscos para a saúde humana ou animal; o leite, a carne ou os produtos de origem animal que, devido à presença dos referidos resíduos, sejam impróprios para consumo humano;\n\nj)\n\nOs peixes que apresentem sinais clínicos de doenças transmissíveis ao homem ou a outros peixes.\n\n2. As autoridades competentes podem, se necessário, decidir que as matérias de alto risco devam ser destruídas por incineração ou enterramento quando:\n\n- o transporte para a instalação de transformação de matérias de alto risco mais próxima de animais infectados ou suspeitos de estar infectados por uma doença epizoótica for rejeitado por haver perigo de propagação de riscos sanitários,\n\n- os animais estiverem infectados ou houver suspeitas de estarem infectados por doenças graves ou contiverem resíduos que possam constituir um risco para a saúde humana ou animal e sejam susceptíveis de resistir a um tratamento térmico insuficiente,\n\n- o alastramento de uma doença epizoótica conduzir à saturação da instalação de transformação das matérias de alto risco,\n\n- os resíduos animais em causa provierem de lugares de difícil acesso,\n\n- a quantidade e a distância a percorrer não justificarem a recolha dos resíduos.\n\nO enterramento deve ser efectuado a uma profundidade suficiente para impedir que os animais carnívoros cheguem aos cadáveres ou detritos e num terreno apropriado, a fim de evitar a contaminação dos lençóis freáticos ou qualquer prejuízo para o ambiente. Antes do enterramento, os cadáveres ou detritos devem ser aspergidos, se necessário, com um desinfectante adequado autorizado pela autoridade competente."
+  },
+  "bf5b2176a5bed8ba": {
+   "fragment_id": "Artigo 4°.",
+   "type": "artigo",
+   "heading": "Artigo 4°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°.\n\n1. Os Estados-membros aprovarão, para a totalidade ou parte do seu território, uma ou mais instalações de transformação de alto risco encarregadas da recolha e transformação de matérias de alto risco. Qualquer Estado-membro pode decidir designar uma instalação de transformação de alto\n\nrisco situada noutro Estado-membro, obtido o acordo deste último.\n\n2. Para poderem ser aprovadas pela autoridade competente, as instalações de transformação de alto risco devem:\n\na) Preencher as condições exigidas no anexo II, capítulo I;\n\nb)\n\nTratar, transformar e armazenar os resíduos animais nos termos do anexo II, capítulo II;\n\nc)\n\nSer inspeccionadas pelas autoridades competentes nos termos do artigo 10°.;\n\nd)\n\nGarantir que os produtos da transformação satisfaçam as condições exigidas no anexo II, capítulo III.\n\n3. A aprovação será suspensa logo que deixem de ser respeitadas as condições em que foi concedida.\n\nB. Matérias de baixo risco"
+  },
+  "e88585ff3a58d1dd": {
+   "fragment_id": "Artigo 5°.",
+   "type": "artigo",
+   "heading": "Artigo 5°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°.\n\n1. As matérias de baixo risco devem ser transformadas numa instalação de transformação de alto ou baixo risco aprovada em conformidade com o n°. 2 do artigo 4°., numa fábrica de alimentos para animais de estimação ou numa fábrica de produtos técnicos ou farmacêuticos ou ser eliminadas por incineração ou enterramento em conformidade com o n°. 2 do artigo 3°.\n\nSão consideradas matérias de baixo risco, além dos resíduos animais referidos no ponto 3 do artigo 2°.:\n\n- os produtos excluídos em conformidade com o n°. 1, alínea e), do artigo 3°., desde que entrem no fabrico de alimentos para animais,\n\n- os peixes capturados no mar alto para a produção de farinha de peixe,\n\n- as miudezas frescas de peixe provenientes de fábricas de produtos à base de peixe destinadas ao consumo humano.\n\nDeve ser considerada como matéria de alto risco a mistura de matérias de baixo risco tratadas conjuntamente com matérias de alto risco.\n\nQuando as matérias de baixo risco forem transformadas numa instalação de produção de alimentos para animais de estimação ou numa fábrica de produtos técnicos ou farmacêuticos, a autoridade competente pode impor a condição de o encaminhamento, a armazenagem e o tratamento dessas matérias se efectuar num local e em condições específicas.\n\nA farinha de peixe proveniente de fábricas que recebam e transformem exclusivamente matérias de baixo risco destinadas ao fabrico de farinha de peixe deverá satisfazer as condições enunciadas no anexo II, capítulo III.\n\n2. Para poderem ser aprovadas pela autoridade competente, as instalações de transformação de baixo risco devem:\n\na) Preencher as condições exigidas no anexo II,"
+  },
+  "ecfc129d15f7c335": {
+   "fragment_id": "capítulo I; — b)",
+   "type": "divisao",
+   "heading": "capítulo I; — b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### capítulo I; — b)\n\nTratar, transformar e armazenar os resíduos animais nos termos do anexo II, capítulo II;\n\nc)\n\nSer inspeccionadas pelas autoridades competentes nos termos do artigo 10°.;\n\nd)\n\nGarantir que os produtos da transformação satisfaçam as condições previstas no anexo II, capítulo III.\n\nA aprovação será suspensa logo que deixem de ser respeitadas as condições em que foi concedida.\n\n3. Os estabelecimentos que utilizam matérias de baixo risco para a preparação de alimentos para animais de estimação ou de produtos farmacêuticos ou técnicos devem ser registados pela autoridade competente e satisfazer as seguintes exigências:\n\na)\n\nPossuir equipamentos adequados para armazenar e tratar os resíduos animais com toda a segurança;\n\nb)\n\nPossuir equipamentos adequados para destruir os resíduos animais em bruto não utilizados que sobrem da produção de alimentos para animais de estimação ou de produtos farmacêuticos ou técnicos ou enviar os resíduos animais não aproveitados para uma instalação de transformação ou para um incinerador;\n\nc)\n\nPossuir equipamentos adequados para destruir os resíduos resultantes do processo de produção que, por razões de saúde pública ou animal, sejam impróprios para posterior inclusão noutros alimentos para animais. Esses equipamentos devem permitir a incineração ou o enterramento em terreno adequado para evitar a contaminação dos cursos de água ou qualquer agressão ao ambiente;\n\nd)\n\nSer inspeccionados regularmente pelas autoridades competentes, a fim de verificar se cumprem as exigências da presente directiva."
+  },
+  "da0eee3c344181e9": {
+   "fragment_id": "Artigo 6°.",
+   "type": "artigo",
+   "heading": "Artigo 6°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°.\n\nDurante a preparação de alimentos para animais de estimação, o tratamento a que certos produtos de origem animal derivados exclusivamente de animais ou de peixe e não destinados ao consumo humano devem ser submetidos, bem como as condições de fabrico desses produtos serão determinados de acordo com o procedimento previsto no artigo 19°., na medida em que tal for necessário para a protecção dos animais de estimação ou por razões de higiene ou de saúde pública.\n\nC. Derrogações"
+  },
+  "20361aa0c9ef809e": {
+   "fragment_id": "Artigo 7°. — Em casos especiais e sob o controlo veterinário das autoridades competentes, os Estados-membros podem autorizar,",
+   "type": "artigo",
+   "heading": "Artigo 7°. — Em casos especiais e sob o controlo veterinário das autoridades competentes, os Estados-membros podem autorizar,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°. — Em casos especiais e sob o controlo veterinário das autoridades competentes, os Estados-membros podem autorizar,\n\niii) A utilização de resíduos animais para fins científicos;\n\niii) A utilização dos resíduos animais referidos no n°. 1, alíneas a), b) e e), do artigo 3°., desde que provenientes de animais que não tenham sido abatidos devido à presença ou à suspeita de uma doença de declaração obrigatória, bem como dos resíduos animais referidos no artigo 5°., para a alimentação de animais de jardim zoológico ou de circo, peleiros, de cães de caça de matilhas reconhecidas ou de vermineiras;\n\niii) A distribuição local, por intermediários já aprovados à data da adopção da presente directiva, de pequeras quantidades dos resíduos referidos na subalínea ii), para a alimentação de animais cuja carne não se destine ao, consumo humano, desde que a autoridade competente considere que dai não decorre qualquer risco para a saúde humana ou animal.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará, antes de 31 de Dezembro de 1992, as regras sanitárias e de polícia sanitária aplicáveis ao tratamento de certos resíduos destinados à comercialização local de alimentos para certas categorias de animais.\n\nA Comissão acompanhará as proposições referidas no parágrafo anterior de um relatório sobre a aplicação da subalínea iii).\n\nNa ausência de regras específicas, os knackers Yards tornar-se-ão conformes às normas constantes da presente directiva, o mais tardar até 31 de Dezembro de 1995.\n\nOs Estados-membros informarão a Comissão sempre que recorrerem a esta possibilidade e comunicar-lhe-ão as modalidades de controlo utilizadas para evitar desvios na utilização desses resíduos.\n\nNos termos do procedimento previsto no artigo 18°., a Comissão pode alterar ou completar as medidas de controlo aplicadas.\n\nD. Condições gerais"
+  },
+  "2f9fd55b867e6ead": {
+   "fragment_id": "Artigo 8°.",
+   "type": "artigo",
+   "heading": "Artigo 8°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°.\n\nOs resíduos animais devem ser recolhidos, transportados e identificados em conformidade com o anexo I."
+  },
+  "005c3f02443634f4": {
+   "fragment_id": "CAPÍTULO III — CONTROLOS E INSPECÇÕES A EFECTUAR POR CADA ESTADO-MEMBRO NAS INSTALAÇÕES DE TRANSFORMAÇÃO DE ALTO E BAIXO RISCO EM FUNCIONAMENTO NO SEU TERRITÓRIO",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — CONTROLOS E INSPECÇÕES A EFECTUAR POR CADA ESTADO-MEMBRO NAS INSTALAÇÕES DE TRANSFORMAÇÃO DE ALTO E BAIXO RISCO EM FUNCIONAMENTO NO SEU TERRITÓRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — CONTROLOS E INSPECÇÕES A EFECTUAR POR CADA ESTADO-MEMBRO NAS INSTALAÇÕES DE TRANSFORMAÇÃO DE ALTO E BAIXO RISCO EM FUNCIONAMENTO NO SEU TERRITÓRIO"
+  },
+  "7c5f63ee6c8e5f2d": {
+   "fragment_id": "Artigo 9°.",
+   "type": "artigo",
+   "heading": "Artigo 9°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°.\n\n1. Os Estados-membros devem assegurar que, sob a sua responsabilidade, os operadores e os proprietários de instalações de transformação de baixo ou alto risco ou os\n\nrespectivos representantes, tomem todas as medidas necessárias para dar cumprimento às exigências contidas na presente directiva, nomeadamente para:\n\n- identificar e controlar os pontos sensíveis das respectivas instalações de transformação de baixo ou de alto risco,\n\n- colher amostras representativas nas fábricas de farinha de peixe e, nas outras instalações de transformação de baixo ou de alto risco, amostras representativas de cada lote transformado, para verificar o cumprimento das normas microbiológicas dos produtos estabelecidas no anexo II, capítulo III e a ausência de resíduos físico-químicos,\n\n- registar e manter, por um período mínimo de dois anos, os resultados das diversas inspecções e testes, para apresentação às autoridades competentes,\n\n- criar um sistema que permita estabelecer uma relação entre o lote expedido e o momento da produção desse lote.\n\n2. Quando os resultados de um teste a uma amostra exigido nos termos do artigo 9°.não forem conformes com o anexo II, capítulo III, o operador da instalação de transformação deverá:\n\n- notificar imediatamente a autoridade competente,\n\n- procurar as causas dos incumprimentos,\n\n- assegurar-se de que as matérias contaminadas ou suspeitas de o estar não sejam removidas da instalação antes de terem sido sujeitas a nova transformação sob a vigilância directa da autoridade competente e de terem sido oficialmente colhidas novas amostras para efeitos do controlo microbiológico estabelecido no anexo II, capítulo III. Caso não seja possível, por qualquer razão, proceder a uma nova transformação, essas matérias deverão ser utilizadas para outros fins que não a alimentação animal.\n\n3. Nos termos do procedimento previsto no artigo 18°., a Comissão estabelecerá as regras de aplicação do presente artigo."
+  },
+  "da4aac72cbf5af73": {
+   "fragment_id": "Artigo 10°.",
+   "type": "artigo",
+   "heading": "Artigo 10°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°.\n\n1. As autoridades competentes devem proceder com regularidade a inspecções e controles aleatórios às instalações de transformação de baixo ou de alto risco designadas, a fim de verificarem:\n\n- o respeito das disposições da presente directiva, nomeadamente o anexo I e o anexo II, capítulos I, II e III,\n\n- as condições microbiólogicas dos produtos após tratamento; os controlos microbiológicas incluirão, nomeadamente, a pesquisa de salmonelas e enterobacteriáceas, nos termos do anexo II, capítulo III.\n\nAs análises e os testes serão efectuados de acordo com métodos cientificamente reconhecidos, nomeadamente com\n\nos métodos estabelecidos na regulamentação comunitária ou, na sua falta, em normas internacionais reconhecidas.\n\n2. Se as inspecções efectuadas pela autoridade competente demonstrarem que nem todas as exigências da presente directiva estão a ser respeitadas, a autoridade competente deverá tomar as medidas adequadas. N° que diz especialmente respeito ao não cumprimento do disposto no presente artigo em relação às normas microbiológicas e aos tipos de controlos microbiológicos, o fabricante deve:\n\n- fornecer imediatamente à autoridade competente informações completas sobre a natureza da amostra e o lote de onde a amostra foi retirada,\n\n- transformar ou voltar a transformar o lote contaminado, sob a supervisão da autoridade competente,\n\n- aumentar a frequência da recolha de amostras e dos controlos de produção,\n\n- analisar os registos da matéria-prima correspondente à amostra do produto final,\n\n- promover operações adequadas de descontaminação e limpeza da instalação.\n\n3. Nos termos de procedimento previsto no artigo 19°., a Comissão estabelecerá, se necessário, as regras de aplicação do presente artigo."
+  },
+  "c5b8f541001071d9": {
+   "fragment_id": "Artigo 11°.",
+   "type": "artigo",
+   "heading": "Artigo 11°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°.\n\nCada Estado-membro elaborará uma lista das instalações de transformação de resíduos animais aprovadas em funcionamento no seu território. A cada instalação será atribuído um número oficial que a identifique como fábrica de transformação de matérias de alto ou de baixo risco, de alimentos para animais de estimação ou de produtos técnicos ou farmacêuticos à base de resíduos animais.\n\nA lista e as respectivas actualizações serão posteriormente enviadas aos outros Estados-membros e à Comissão."
+  },
+  "f14dcd73d9901e73": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV"
+  },
+  "0f17cc9b60dbfcf2": {
+   "fragment_id": "Artigo 12°.",
+   "type": "artigo",
+   "heading": "Artigo 12°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°.\n\n1. Na medida em que tal for necessário para garantir uma aplicação uniforme da presente directiva e em colaboração com as autoridades nacionais, a Comissão poderá encarregar peritos veterinários seus de levar a cabo inspecções in loco. Os peritos poderão, nomeadamente, verificar se os estabelecimentos aprovados se encontram efectivamente conformes à presente directiva. A Comissão deve informar os Estados-membros dos resultados das inspecções.\n\nQualquer Estado-membro em cujo território seja levada a cabo uma inspecção deve prestar toda a assistência de que os peritos necessitem para o desempenho das suas tarefas.\n\nAs regras gerais para aplicação do presente artigo serão fixadas de acordo com o procedimento previsto no artigo 19°.\n\n2. Os Estados-membros em causa devem tomar as medidas necessárias para atender aos resultados das inspecções referidas no n°. 1 e, nomeadamente, proibir a colocação no mercado de produtos provenientes de instalações de transformação que tenham deixado de estar conformes com a presente directiva. Se um Estado-membro não adoptar essas medidas ou se as medidas tomadas forem consideradas insuficientes, aplicar-se-á o artigo 8°.da Directiva 89//662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno (1)."
+  },
+  "d1412a06ab11fd30": {
+   "fragment_id": "Artigo 13°.",
+   "type": "artigo",
+   "heading": "Artigo 13°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°.\n\n1. A Directiva 90/425/CEE é aplicável, nomeadamente, à organização e às acções a empreender na sequência dos controlos levados a efeito pelo Estado-membro de destino e às medidas de salvaguarda a aplicar.\n\n2. A Directiva 90/425/CEE sofre as seguintes alterações:\n\na) N° final do anexo A, deverá ser aditada a seguinte menção:\n\n«Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE.\n\nJO n°.L 363 de 27. 12. 1990, p. 51.».\n\nb)\n\nN° anexo B, é suprimido o primeiro travessão."
+  },
+  "ca9ea231046b5393": {
+   "fragment_id": "Artigo 14°.",
+   "type": "artigo",
+   "heading": "Artigo 14°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°.\n\nNos termos do procedimento previsto no artigo 18°., a Comissão definirá as condições de higiene a observar no fabrico de alimentos para animais de estimação produzidos a partir de resíduos animais.\n\nNos termos do procedimento previsto no artigo 18°., a Comissão estabelecerá os critérios para a recolha de amostras e para os controlos microbiológicos."
+  },
+  "359feb7e658b231f": {
+   "fragment_id": "CAPÍTULO V — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — DISPOSIÇÕES FINAIS"
+  },
+  "7e10c1427762f0f8": {
+   "fragment_id": "Artigo 15°.",
+   "type": "artigo",
+   "heading": "Artigo 15°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°.\n\n1. A Comissão estabelecerá as modalidades e a frequência das inspecções referidas no artigo 9°.e no n°. 1 do artigo 10°., em conformidade com o procedimento previsto no artigo 19°.\n\n2. A Comissão fixará os métodos de referência para os exames microbiológicos de acordo com o mesmo procedimento."
+  },
+  "1f3830bf9928ceee": {
+   "fragment_id": "Artigo 16°.",
+   "type": "artigo",
+   "heading": "Artigo 16°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16°.\n\nOs anexos à presente directiva e, nomeadamente em função da evolução dos conhecimentos científicos em matéria de luta contra a encefalite bovina espongiforme (EBE), as disposições relativas aos tratamentos previstos no anexo II,\n\ncapítulo II, pontos a) e c), serão alterados pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão."
+  },
+  "67eaa365885df18d": {
+   "fragment_id": "Artigo 17°.",
+   "type": "artigo",
+   "heading": "Artigo 17°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17°.\n\nAté à entrada em vigor das normas comunitárias relativas à importação de países terceiros de resíduos animais e de alimentos para animais de estimação fabricados a partir de resíduos animais, os Estados-membros aplicarão a essas importações condições pelo menos equivalentes às estabelecidas na presente directiva, com excepção das relativas às condições de aprovação.\n\nEm especial, apenas admitirão as matérias de baixo risco ou as matérias de alto risco referidas no n°. 1, alíneas g) a i), do artigo 3°., que tenham sido previamente tratadas, se o país terceiro for capaz de dar garantias de que essas matérias foram submetidas a um tratamento satisfatório e que respeitam as normas microbiológicas do anexo II, capítulo III.\n\nFica proibida a importação das matérias de alto risco referidas no n°. 1, alíneas a) a f), do artigo 3°.\n\nOs Estados-membros garantirão, por meio de controlos da importação, o cumprimento destas exigências mínimas."
+  },
+  "826eb9b4ab52a244": {
+   "fragment_id": "Artigo 18°.",
+   "type": "artigo",
+   "heading": "Artigo 18°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18°.\n\n1. Nos casos em que é feita referência ao procedimento previsto no presente artigo, o assunto será submetido sem demora ao Comité Veterinário Permanente, criado pela Decisão 68/361/CEE do Conselho (2), a seguir designado por «o comité», pelo seu presidente, por iniciativa deste ou a pedido de um Estado-membro.\n\n2. Nas votações do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no n°. 2 do artigo 148°.do Tratado. O presidente não participa na votação.\n\n3. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo de dois dias. O comité pronuncia-se por maioria de 54 votos.\n\n4. A Comissão adopta as medidas projectadas e põe-nas imediatamente em vigor, quando o parecer do comité lhes for favorável.\n\n5. Se o parecer do comité não for favorável ou na falta de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, num prazo de 15 dias a contar da data em que o assunto tiver sido submetido à apreciação do Conselho, este ainda não tiver deliberado, o Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "26d8e435575045a4": {
+   "fragment_id": "Artigo 19°.",
+   "type": "artigo",
+   "heading": "Artigo 19°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19°.\n\n1. Nos casos em que é feita referência ao procedimento previsto no presente artigo, o assunto será submetido sem demora ao comité pelo seu presidente, por iniciativa deste ou a pedido de um Estado-membro.\n\n2. Nas votações do comité, os votos dos Estados-membros estão sujeitos à ponderação prevista no n°. 2 do artigo 148°.do Tratado. O presidente não participa na votação.\n\n3. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O comité pronuncia-se por maioria de 54 votos.\n\n4. A Comissão adopta as medidas projectadas e põe-nas imediatamente em vigor, quando o parecer do comité lhes for favorável.\n\n5. Se o parecer do comité não for favorável ou na falta de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, num prazo de três meses a contar da data em que o assunto tiver sido submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "edbd0e2716f7c499": {
+   "fragment_id": "Artigo 20°. — O Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprovará, o mais tardar até 31 de",
+   "type": "artigo",
+   "heading": "Artigo 20°. — O Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprovará, o mais tardar até 31 de",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20°. — O Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprovará, o mais tardar até 31 de\n\nDezembro de 1992, as normas sanitárias a cumprir na produção de alimentos para animais que contenham componentes de produtos vegetais e animais, bem como as normas de higiene a observar na produção de alimentos para animais que apenas contenham substâncias de origem vegetal."
+  },
+  "377c8667a1f0407d": {
+   "fragment_id": "Artigo 21°.",
+   "type": "artigo",
+   "heading": "Artigo 21°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21°.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento ao disposto na presente directiva, o mais tardar até 31 de Dezembro de 1991.\n\n2. Contudo, no que respeita aos territórios dos Laender de Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen e Thueringen, a República Federal da Alemanha disporá de um prazo suplementar de um ano para o fazer.\n\nA República Federal da Alemanha apresentará, o mais tardar até 30 de Junho de 1992, à Comissão e aos outros Estados-membros reunidos no Comité Veterinário Permanente, um relatório sobre a situação em matéria de eliminação dos resíduos de origem animal naqueles Laender.\n\nA Comissão decide, segundo o procedimento previsto no artigo 19°., de eventuais medidas de transição para certos estabelecimentos situados nos referidos Laender.\n\n3. Sempre que os Estados-membros adoptarem as disposições referidas no n°. 1, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "1ca830336214d055": {
+   "fragment_id": "Artigo 22°. — Os Estados-membros são os destinatários da presente",
+   "type": "artigo",
+   "heading": "Artigo 22°. — Os Estados-membros são os destinatários da presente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22°. — Os Estados-membros são os destinatários da presente\n\ndirectiva.\n\nFeito em Bruxelas, em 27 de Novembro de 1990.\n\nPelo Conselho\n\nO Presidente\n\nV. SACCOMANDI\n\n(1) JO n°.C 327 de 30. 12. 1989, p. 76.\n\n(2) JO n°.C 260 de 15. 10. 1990, p. 161.\n\n(=) JO n°.C 124 de 21. 5. 1990, p. 4.\n\n(4) JO n°.L 224 de 18. 8. 1990, p. 29.\n\n(1) JO n°.L 395 de 30. 12. 1989, p. 13.\n\n(2) JO n°.L 255 de 18. 10. 1968, p. 23."
+  },
+  "34dbeb80ce5cc79f": {
+   "fragment_id": "ANEXO I — EXIGÊNCIAS SANITÁRIAS PARA A RECOLHA E O TRANSPORTE DE RESÍDUOS ANIMAIS",
+   "type": "divisao",
+   "heading": "ANEXO I — EXIGÊNCIAS SANITÁRIAS PARA A RECOLHA E O TRANSPORTE DE RESÍDUOS ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — EXIGÊNCIAS SANITÁRIAS PARA A RECOLHA E O TRANSPORTE DE RESÍDUOS ANIMAIS\n\n1. Os resíduos animais devem ser recolhidos e transportados para os estabelecimentos ou instalações de tratamento de alto ou de baixo risco aprovados em recipientes ou veículos adequados, que não permitam quaisquer derramamentos. Os recipientes ou veículos devem ser devidamente cobertos.\n\n2. Os veículos, os oleados de cobertura e os recipientes reutilizáveis devem ser mantidos limpos.\n\n3. A autoridade competente deve tomar as medidas necessárias para controlar o transporte de matérias de alto risco, exigindo a manutenção de registos e dos documentos que devem acompanhar essas matérias durante o transporte para o local onde vão ser destruídas ou, se necessário, selando os recipientes.\n\n4. Se determinados produtos à base de carne, de leite ou de peixe, não destinados ao consumo humano e derivados de peixes ou animais cuja carne e leite tenham sido aprovados para consumo humano, forem directamente transportados, a granel, para uma instalação de transformação, tanto as informações relativas à origem, nome e natureza dos resíduos animais como a expressão «impróprio para consumo humano» devem constar de uma etiqueta presa ao recipiente, caixa de cartão ou outro tipo de embalagem, em letras de, pelo menos, 2 centímetros de altura."
+  },
+  "e473943b7bd1bdc6": {
+   "fragment_id": "ANEXO II — EXIGÊNCIAS SANITÁRIAS PARA AS INSTALAÇÕES DE TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS",
+   "type": "divisao",
+   "heading": "ANEXO II — EXIGÊNCIAS SANITÁRIAS PARA AS INSTALAÇÕES DE TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — EXIGÊNCIAS SANITÁRIAS PARA AS INSTALAÇÕES DE TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS"
+  },
+  "b73069530485fbfb": {
+   "fragment_id": "CAPÍTULO I — Condições exigidas para a aprovação das instalações de transformação de resíduos animais",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Condições exigidas para a aprovação das instalações de transformação de resíduos animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Condições exigidas para a aprovação das instalações de transformação de resíduos animais\n\n1. As instalações e equipamentos devem satisfazer, no mínimo, as seguintes exigências:\n\na) As instalações de transformação devem estar suficientemente afastadas da via pública e de outras instalações, como os matadouros. As instalações de tratamento de matérias de alto risco não devem ter a mesma localização que um matadouro, salvo se se encontrarem numa parte de edifício totalmente separada; as pessoas não autorizadas e os animais não devem ter acesso às instalações;\n\nb)\n\nAs instalações devem ter uma zona «limpa» e uma zona «não limpa», devidamente separadas. A zona não limpa deve possuir um local coberto para a recepção dos resíduos animais e deve ser construída de forma a poder ser facilmente limpa e desinfectada. Os pavimentos devem ser concebidos de modo a facilitar a drenagem de líquidos. Devem existir instalações sanitárias, vestiários e lavabos adequados para uso do pessoal.\n\nSempre que necessário, deve existir na zona não limpa equipamento adequado para a esfola ou peladura de animais, bem como um local para armazenagem de couros;\n\nc)\n\nNos termos do capítulo II, as instalações devem possuir uma capacidade e produção de água quente e vapor suficientes para o tratamento dos resíduos animais;\n\nd)\n\nA zona não limpa deve, se necessário, possuir equipamento para redução do volume dos resíduos animais, bem como equipamento para transporte dos resíduos triturados para a unidade de transformação;\n\ne)\n\nÉ exigida uma instalação de transformação fechada para a transformação dos resíduos animais nos termos do capítulo II. Se for necessário um tratamento térmico, esta instalação deve estar equipada com:\n\n- aparelhos de medição para controlar a temperatura e, se necessário, a pressão nos pontos sensíveis,\n\n- dispositivos de registo para registar continuamente os resultados das medições,\n\n- um sistema de segurança adequado que impeça uma temperatura insuficiente;\n\nf)\n\nPara impedir a recontaminação do produto transformado final pela matéria-prima que entra na instalação, deverá ser prevista uma separação clara entre a área da fábrica reservada à descarga e ao tratamento da matéria-prima e as partes reservadas à posterior transformação do material tratado termicamente e à armazenagem dos produtos finais.\n\n2. As instalações de transformação devem possuir equipamentos adequados para limpeza e desinfecção, tanto dos recipientes ou contentores onde os resíduos animais são colocados como dos veículos - com excepção dos navios - em que são transportados.\n\n3. As instalações de transformação devem possuir meios adequados que permitam desinfectar imediatamente as rodas antes da partida dos veículos que transportem matérias de alto risco ou que saiam do sector não limpo da instalação.\n\n4. As instalações de transformação devem possuir um sistema de evacuação de águas residuais que reúna as condições de higiene exigidas.\n\n5. As instalações de transformação devem possuir o seu próprio laboratório ou recorrer aos serviços de um laboratório equipado para efectuar as análises essenciais, nomeadamente para verificar a conformidade com o disposto no capítulo III."
+  },
+  "136fa20e106a699b": {
+   "fragment_id": "CAPÍTULO II — Higiene das operações efectuadas nas instalações de transformação de resíduos animais",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Higiene das operações efectuadas nas instalações de transformação de resíduos animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Higiene das operações efectuadas nas instalações de transformação de resíduos animais\n\n1. Os resíduos animais devem ser transformados o mais depressa possível após a chegada. Enquando aguardam a transformação, devem ser convenientemente armazenados.\n\n2. Os recipientes, contentores e veículos utilizados para transporte dos resíduos animais devem ser limpos, lavados e desinfectados apósa cada utilização.\n\n3. As pessoas que trabalhem na zona não limpa não podem ter acesso à zona limpa sem terem mudado previamente de roupa de trabalho e de calçado ou procedido à desinfecção deste. Nenhum aquipamento ou utensílio pode ser transferido da zona não limpa para a zona limpa.\n\n4. As águas residuais provenientes do sector não limpo devem ser tratadas por forma a eliminar todos os agentes patogénicos.\n\n5. Devem ser sistematicamente tomadas medidas preventivas contra pássaros, roedores, insectos e outros animais daninhos.\n\n6. Os resíduos animais devem ser transformados nas seguintes condições:\n\na) As matérias de alto risco devem ser aquecidas a uma temperatura interior de pelo menos 133°. C durante 20 minutos, à pressão de 3 bar. O tamanho das partículas de matéria bruta antes do tratamento deve ser reduzido a, pelo menos, 50 milímetros, através de um aparelho de esmagamento ou de um triturador;\n\nb)\n\nNos pontos sensíveis do processo térmico deverão existir termógrafos para controlar o tratamento térmico;\n\nc)\n\nPodem ser empregues outros sistemas de tratamento térmico se, de acordo com o procedimento previsto no artigo 19°., forem considerados capazes de oferecer garantias equivalentes em matéria de segurança microbiológica.\n\nEsses sistemas de tratamento térmico apenas poderão ser autorizados se for colhida diariamente durante um mês uma amostra do produto acabado para se verificar o respeito pelas normas biológicas enunciadas no capítulo III, pontos 1 e 2. Posteriormente, deverão ser periodicamente colhidas amostras do produto, em conformidade com o n°. 1 do artigo 9°.e o n°. 1 do artigo 10°.\n\n7. As instalações e os equipamentos devem ser mantidos em bom estado de conservação; os equipamentos de medição devem ser calibrados a intervalos regulares.\n\n8. Os produtos acabados devem ser manipulados e armazenados na instalação de transformação de forma a impedir a recontaminação.\n\n9. Os couros devem ser salgados com cloreto de sódio."
+  },
+  "eda1fdebcd1c6b34": {
+   "fragment_id": "CAPÍTULO III — Exigências relativas aos produtos resultantes da transformação",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Exigências relativas aos produtos resultantes da transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Exigências relativas aos produtos resultantes da transformação\n\n1. N° caso de matérias de alto risco, as amostras dos produtos finais colhidas imediatamente após o tratamento térmico não devem conter quaisquer esporos de bactérias patogénicas termo-resistentes (ausência de clostridium perfringens em 1 grama de produto).\n\n2. As amostras dos produtos finais resultantes tanto de matérias de baixo risco como de matérias de alto risco devem ser colhidas durante a armazenagem na instalação de transformação ou no termo desta, para que os referidos produtos obedeçam às seguintes normas:\n\nsalmonelas: ausência em 25 g: n = 5, c = 0, m = 0, M = 0;\n\nenterobacteriáceas: n = 5, c = 2, m = 10, M = 3 x 10$/g,\n\nsendo,\n\nn =\n\nnúmero de unidades que constituem a amostra;\n\nm =\n\nvalor limiar para o número de bactérias; o resultado é considerado satisfatório se o número de bactérias em todas as unidades da amostra não exceder m;\n\nM =\n\nvalor máximo para o número de bactérias; o resultado é considerado insatisfatório se o número de bactérias em uma ou mais unidades da amostra for igual ou superior a M;\n\nc =\n\nnúmero de unidades da amostra cuja contagem bacteriana se pode situar entre n e M; considera-se a amostra aceitável se a contagem bacteriana das outras unidades da amostra for igual ou inferior a m."
+  },
+  "bdd53a7fdd8489ae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0667 — PT — 30.04.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0667) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0667) [de 27 de Novembro de 1990](http://publications.europa.eu/resource/celex/31990L0667) [que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE](http://publications.europa.eu/resource/celex/31990L0667) [(90/667/CEE)](http://publications.europa.eu/resource/celex/31990L0667) (JO L 363, 27.12.1990, p.51)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1774/2002 do Parlamento Europeu e do Conselho de 3 de Outubro de 2002](http://publications.europa.eu/resource/celex/32002R1774) — L 273 — 1 — 10.10.2002"
+  }
+ }
+}

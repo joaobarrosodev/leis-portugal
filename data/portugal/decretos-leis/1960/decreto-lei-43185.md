@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:514844:por
+title: Decreto-Lei n.º 43185
+short_title: null
+summary: Actualiza as normas que disciplinam a actividade das associações de socorros mútuos conhecidas por fúnebres familiares
+  - Revoga o Decreto-Lei n.º 31434 e o artigo 19.º do Decreto-Lei n.º 32674
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social - Gabinete do Ministro
+proposing_entity: null
+official_number: '43185'
+official_date: null
+publication_date: '1960-09-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 222/1960, Série I de 1960-09-23
+  number: '222'
+  series: I
+  supplement: null
+  pages: 2001 - 2003
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/20012003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '514844'
+  dre_path: /dr/detalhe/decreto-lei/43185-1960-514844
+  internal: pt:dre:514844:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43185-1960-514844
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43185-1960-514844
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 44db7f4788b48b731cf45377bf2538941191f2ed36d5e37f706e7527ccca85bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação de Socorros Mútuos
+- Associação Mutualista
+- Beneficiário
+- Seguro
+- Subsídio de Funeral
+relationships:
+- type: amended_by
+  target: pt:dre:567059:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:263549:por
+  label: "Dada nova redacção ao § 1º do art. 1º pelo DEC LEI.48685.13.11.1968.MCPS, DG.IS [267] de 13.11.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48685-1968-263549
+  date: '1968-11-13'
+- type: cites
+  target: pt:dre:358136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594099:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567059:por
+  label: "Revogado pelo DEC LEI.347/81.22.12.1981.PCM, DR.IS [293] de 22.12.1981, sem prejuízo do disposto nos seus artigos\
+    \ 6.º e 18.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1981-567059
+  date: '1981-12-22'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:33:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43185
+
+1. Não obstante as vicissitudes por que têm passado, as associações de socorros mútuos sempre desempenharam papel importante na cobertura de vários riscos sociais. Justo é salientar este facto, pois a obra que realizaram, graças ao espírito associativo das pessoas nelas inscritas e ao esforço e dedicação dos seus dirigentes, bem merece o apreço e o louvor do País.
+
+O Ministério das Corporações e Previdência Social vem acompanhando de perto, como lhe cumpre, a vida das instituições mutualistas, em ordem à coordenação das suas actividades e à melhoria do seu funcionamento. Ùltimamente, tem-se insistido de forma especial nesta orientação, com os resultados mais animadores.
+
+Nem se compreenderia outro procedimento em face das conveniências gerais e da necessidade de estimular por todos os meios a progressiva aplicação do princípio institucionalista que está na base da doutrina corporativa consagrada na Constituição Política e no Estatuto do Trabalho Nacional.
+
+2. Houve, é certo, quem supusesse que a criação e a expansão da previdência social haveriam de afectar sèriamente as associações de socorros mútuos; não pode, contudo, dizer-se que esta previsão se tenha verificado.
+
+O seguro obrigatório e o mutualismo são susceptíveis de coexistir, tanto mais que se completam recìprocamente. Por mais acentuados que sejam os progressos da previdência obrigatória, há-de ficar sempre um largo campo de acção em que as instituições mutualistas poderão viver e desenvolver-se.
+
+Por isso, a projectada reforma das caixas de previdência não exclui, antes aconselha, que se proceda à gradual revisão dos diplomas legislativos que regulam as associações de socorros mútuos, ou seja, na classificação da lei, as instituições de previdência da 3.ª categoria.
+
+3. Na impossibilidade de se promover agora a remodelação conjunta de toda aquela legislação, está o Governo em condições, após estudos feitos, de aperfeiçoar e actualizar as normas que disciplinam a actividade das associações de socorros mútuos conhecidas por fúnebres familiares, as quais, abrangendo mais de 300000 inscritos, realizam um seguro por morte do sócio ou de pessoa da sua família.
+
+Constitui finalidade de tal seguro a cobertura das despesas de funeral, ou a cargo directo da própria associação ou através da concessão de um subsídio pecuniário. O modesto nível destas prestações tem permitido a prática generalizada da quota uniforme, que não depende, portanto, nem da idade do sócio à data da filiação, nem da composição do agregado familiar.
+
+Os estudos actuariais de que estas modalidades foram objecto levaram oportunamente à promulgação do [Decreto-Lei n.º 31434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31434-1941-358136), de 30 de Julho de 1941.
+
+Compreende-se, porém, que este diploma, decorridos quase vinte anos, careça de ser revisto. Tal é o objectivo do presente decreto-lei.
+
+4. Aquando da publicação do diploma de 1941, as referidas associações ou se dedicavam exclusivamente ao seguro familiar por morte ou garantiam ainda, a título acessório, uma assistência clínica que pouco pesava nos orçamentos. Mantinham-se preponderantemente como associações fúnebres. As normas da sua regulamentação e fiscalização deveriam ser, como foram, as aconselhadas pela natureza da actividade a que se dedicavam.
+
+Mas hoje em dia o panorama é muito diferente. Várias dessas mutualidades, tomando como ponto de partida a assistência clínica, estabeleceram, entretanto, um verdadeiro seguro na doença. Outras estão também a alargar o grupo dos inscritos no seguro de vida de carácter individual, em que os capitais a legar se não restringem a um simples subsídio de funeral.
+
+As modalidades que se foram desenvolvendo ou que vão sendo introduzidas exigem normas de gestão e inspecção idênticas àquelas a que se encontram sujeitas as demais associações de socorros mútuos. Todavia, estão já longe de satisfazer tal exigência as providências decretadas em 1941, com base na classificação das associações em fúnebres e não fúnebres, consoante predominasse ou não a modalidade familiar. A manter-se este critério, várias associações teriam de abandonar a sua actual designação, que pretendem conservar.
+
+Por isso, subordinam-se agora à legislação geral os esquemas de seguro individual, sem passar para a posição secundária relativamente ao seguro familiar. Crê-se que desta forma se estimulará o meritório esforço que tais associações exercem no domínio da acção médico-social.
+
+5. Quanto ao seguro familiar, vai-se ao encontro de pretensões formuladas pelos próprios dirigentes mutualistas.
+
+Assim, permite-se o seguro para os ascendentes em geral, e não apenas em relação aos pais, como até agora acontecia. O mesmo se faz quanto aos irmãos a cargo do sócio, quer a incapacidade derive de menoridade ou de outra causa. Prevê-se ainda que o valor dos subsídios ascenda a 800$00 por morte de adulto e a 400$00 por morte de menor, o que representa a elevação para o dobro dos limites em vigor desde 1941. Por outro lado, a existência de modalidades de seguro que requerem distintos sistemas de fiscalização implica a organização de contas e fundos próprios e a fixação de parcelas da quota global que a estes devem ser consignadas, bem como a determinação da responsabilidade que a cada uma das modalidades deve caber nas despesas gerais de administração. Só deste modo se podem estabelecer os indispensáveis balanços de cada ramo de seguro.
+
+6. Finalmente, atende-se à situação das associações abrangidas pelo artigo 19.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, elevando-se para 400$00 o limite de 200$00 previsto naquele artigo. Esta actualização, além de se justificar pelo tempo que já decorreu sobre aquele diploma, não poderia deixar de acompanhar o que ora se faz quanto ao subsídio por morte.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º As associações de socorros mútuos que se dedicam à concessão de pequenos subsídios de funeral ou se propõem fazer a expensas suas os funerais dos sócios e das pessoas de sua família, sem exigência do pagamento de qualquer outra quota que não seja a que competir ao sócio, ficam sujeitas, pelo que se refere a esta modalidade de seguro, à regulamentação constante do presente decreto-lei.
+
+§ 1.º O valor dos benefícios em dinheiro ou em espécie não pode exceder 800$00, sendo, porém, reduzido a 400$00 por morte de familiar menor de 16 anos.
+
+§ 2.º Consideram-se pessoas de família do sócio: o cônjuge; os descendentes legítimos do sexo masculino menores de 16 anos e os de idade superior que não possam por incapacidade física angariar os meios necessários ao seu sustento; os descendentes legítimos do sexo feminino enquanto se conservarem solteiros e a cargo do sócio; e ainda os ascendentes e os irmãos que com ele coabitem há mais de um ano e se encontrem a seu cargo.
+
+Art. 2.º As associações devem organizar e manter actualizados dois ficheiros individuais, um relativo a sócios, outro referente às pessoas pela morte das quais possam ser concedidos benefícios. Dos ficheiros devem constar todos os elementos considerados indispensáveis à identificação dos sócios e seus familiares.
+
+§ 1.º Os sócios actualmente existentes e as pessoas que de futuro se inscrevam na modalidade de seguro fúnebre familiar são obrigados a fornecer à associação, no prazo de 60 dias, a contar da data da entrada em vigor do presente decreto-lei para os primeiros, e no acto da inscrição para as segundas, uma relação nominal das pessoas que se encontrem nas condições do § 2.º do artigo 1.º com a indicação da data do nascimento e do respectivo parentesco.
+
+§ 2.º Os sócios ficam obrigados a fornecer à associação os elementos necessários à actualização dos ficheiros a que se refere o corpo deste artigo, dentro do prazo de 60 dias, a contar da data em que se verifique qualquer ocorrência que deva ser assinalada.
+
+Art. 3.º As associações de socorros mútuos a que se refere o artigo 1.º ficam dispensadas do cumprimento do disposto do artigo 17.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, relativamente à modalidade de seguro fúnebre familiar.
+
+Art. 4.º Sempre que a receita da modalidade fúnebre familiar não atinja em determinado ano o montante das despesas, devem as associações requerer, até 31 de Março do ano seguinte, a revisão dos benefícios e encargos sociais da modalidade, que poderá ser deferida por despacho do Ministro das Corporações e Previdência Social, com dispensa das formalidades normalmente exigidas para a alteração dos estatutos.
+
+§ único. A revisão dos benefícios e encargos sociais poderá também ser determinada por despacho do Ministro das Corporações e Previdência Social em resultado de estudos técnicos elaborados pelos serviços competentes do Ministério.
+
+Art. 5.º Relativamente à modalidade fúnebre familiar, as associações manterão dois fundos - fundo disponível e fundo permanente -, sujeitos às disposições gerais.
+
+§ único. O saldo anual do fundo disponível será integralmente transferido para o fundo permanente.
+
+Art. 6.º As associações referidas no artigo 1.º ficam obrigadas a submeter à aprovação do Ministro das Corporações e Previdência Social, no prazo de seis meses, a contar da data da entrada em vigor deste decreto-lei, a alteração dos estatutos para efeitos da repartição da quota.
+
+§ único. São dispensadas da discriminação da parcela da quota destinada a despesas de administração as associações que pratiquem apenas a modalidade de seguro fúnebre familiar.
+
+Art. 7.º O não cumprimento do disposto nos §§ 1.º e 2.º do artigo 2.º e ainda a prestação de falsas declarações implicam a perda dos direitos de sócios por seis meses, contados a partir da data em que a associação tomou conhecimento da infracção.
+
+Art. 8.º As associações de socorros mútuos cujos objectivos se restrinjam à concessão de assistência médica e farmacêutica e de subsídios para funeral não superiores a 400$00 deverão requerer até 31 de Março a modificação dos benefícios e encargos sociais, sempre que no ano anterior se tiver verificado que as quotas, acrescidas dos rendimentos dos fundos de tais instituições, não atingiram o valor das despesas.
+
+§ 1.º A modificação de benefícios e encargos prevista neste artigo far-se-á por simples despacho e independentemente das formalidades exigidas para a alteração dos estatutos das associações de socorros mútuos.
+
+§ 2.º Os preceitos anteriores são aplicáveis às associações em que haja classes de sócios com direito apenas às vantagens referidas neste artigo, no que respeita aos benefícios e encargos das mesmas classes, ainda que aos restantes sócios se reconheçam direitos superiores.
+
+Art. 9.º Continuam em vigor, na parte não prejudicada pelos artigos anteriores, as disposições legais aplicáveis às associações de socorros mútuos.
+
+Art. 10.º Os casos omissos serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
+
+Art. 11.º São revogados o [Decreto-Lei n.º 31434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31434-1941-358136), de 30 de Julho de 1941, e o artigo 19.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

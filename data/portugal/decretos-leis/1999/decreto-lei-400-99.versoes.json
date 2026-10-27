@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666876:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-853385913",
+ "dre_path": "/dr/detalhe/decreto-lei/400-1999-666876",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853385537",
+    "853385538",
+    "853385539",
+    "853385540",
+    "853385541"
+   ]
+  },
+  {
+   "date": "2017-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114303790:por",
+     "title": "Decreto-Lei n.º 146/2017",
+     "published": "2017-12-05",
+     "dre_path": "/dr/detalhe/decreto-lei/146-2017-114303790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "853385537",
+    "853385538",
+    "853385547",
+    "853385540",
+    "853385541",
+    "853385542"
+   ]
+  }
+ ],
+ "fragments": {
+  "853385537": {
+   "fragment_id": "853385914",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 400/99\n\nde 14 de Outubro\n\nPreâmbulo\n\nA integração do Banco de Portugal no Sistema Europeu de Bancos Centrais e a emergência da moeda única europeia determinam alterações nas condições e no regime jurídico de produção do papel-moeda. A missão que está cometida ao Banco de Portugal de assegurar e velar pela genuinidade e segurança da circulação monetária, assim como a actividade que já desempenha no âmbito das operações de acabamento das notas, tornam oportuno que se clarifique e reforce o seu papel, quer na produção de notas, quer na regulamentação desta actividade.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "853385538": {
+   "fragment_id": "853385915",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O Banco de Portugal tem a faculdade de:\n\na) Produzir e imprimir papel-moeda, em todos os seus estádios de fabrico;\n\nb) Produzir documentos de segurança;\n\nc) Realizar ou assegurar a distribuição de notas;\n\nd) Desenvolver os serviços conexos e complementares das actividades referidas nas alíneas anteriores.\n\n2 - Compete igualmente ao Banco de Portugal regulamentar, por aviso, a actividade de produção de papel-moeda em Portugal e o estabelecimento das condições de autorização do seu exercício e dos serviços conexos."
+  },
+  "853385539": {
+   "fragment_id": "853385916",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA actividade de produção e impressão de papel-moeda pode ser realizada pelo Banco, directamente ou através da sociedade anónima já constituída Valora - Serviços de Apoio à Emissão Monetária, S. A., ou de outra entidade que o Banco entenda constituir para o efeito, ou em cujo capital entenda participar, não podendo a sua participação no capital dessas entidades ser inferior a 51% do mesmo."
+  },
+  "853385540": {
+   "fragment_id": "853385917",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA atribuição à INCM, S. A., dos direitos previstos no n.º 1 do artigo 2.º do Decreto-Lei n.º 170/99, de 19 de Maio, em nada prejudica o disposto no presente diploma, no âmbito da matéria nele versada."
+  },
+  "853385541": {
+   "fragment_id": "853385918",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ revogado o Decreto-Lei n.º 386/91, de 10 de Outubro."
+  },
+  "853385547": {
+   "fragment_id": "853385916",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2017-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2017 - Diário da República n.º 233/2017, Série I de 2017-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2017-114303790), em vigor a partir de 2017-12-05"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA atividade de produção e impressão de papel-moeda pode ser realizada pelo Banco, diretamente ou através da sociedade anónima, já constituída, Valora - Serviços de Apoio à Emissão Monetária, S. A., ou de outra entidade que o Banco entenda constituir para o efeito ou em cujo capital entenda participar, em conformidade com o regime jurídico do Eurosistema relativo à produção e aquisição de notas de euro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2017 - Diário da República n.º 233/2017, Série I de 2017-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2017-114303790), em vigor a partir de 2017-12-05"
+  },
+  "853385542": {
+   "fragment_id": "853385919",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 30 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

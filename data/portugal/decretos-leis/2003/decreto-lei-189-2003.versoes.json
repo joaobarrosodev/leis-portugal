@@ -1,0 +1,197 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:656088:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-862763328",
+ "dre_path": "/dr/detalhe/decreto-lei/189-2003-656088",
+ "source_lastmod": "2026-05-26",
+ "versions": [
+  {
+   "date": "2003-08-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "862749544",
+    "862749545",
+    "862749546",
+    "862749547",
+    "862749548",
+    "862749549",
+    "862749550",
+    "862749551",
+    "862749552",
+    "862749553",
+    "862749554",
+    "862749555"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594009:por",
+     "title": "Decreto-Lei n.º 105/2026",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2026-1126594009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "862749544",
+    "862749545",
+    "1127124675",
+    "862749547",
+    "862749548",
+    "862749549",
+    "862749550",
+    "1127124875",
+    "1127125075",
+    "862749553",
+    "862749554",
+    "862749555",
+    "862749556"
+   ]
+  }
+ ],
+ "fragments": {
+  "862749544": {
+   "fragment_id": "862763329",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 189/2003\n\nde 22 de Agosto\n\nO regime de atribuição da pensão por méritos excepcionais na defesa da liberdade e da democracia encontra-se disperso por vários diplomas - Decretos-Leis n.os 171/77, de 30 de Abril, 43/78, de 11 de Março, 31/81, de 28 de Fevereiro, e 215/87, de 29 de Maio, e Despacho Normativo n.º 9-H/80, de 9 de Janeiro.\n\nEsta dispersão dificulta a interpretação e aplicação do referido regime, em especial no que respeita à organização e instrução do processo, havendo, pois, todo o interesse em promover a centralização desta matéria num único diploma, aproveitando-se a oportunidade para proceder à actualização de algumas disposições, designadamente as referentes à remuneração relevante para o cálculo da pensão.\n\nPor outro lado, a natureza da pensão em causa, a necessidade de simplificação de procedimentos e a evolução sócio-económica verificada nos últimos anos aconselham a que se adoptem soluções idênticas às previstas no Decreto-Lei n.º 466/99, de 6 de Novembro, que aprovou o novo regime jurídico das pensões de preço de sangue e por serviços excepcionais e relevantes prestados ao País, designadamente no que respeita à emissão de parecer prévio da Procuradoria-Geral da República, à determinação dos beneficiários e à acumulação da pensão com outros rendimentos.\n\nFoi ouvida a Caixa Geral de Aposentações.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "862749545": {
+   "fragment_id": "862763330",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma permite a atribuição de uma pensão expressiva de público reconhecimento aos cidadãos portugueses que se tenham distinguido por méritos excepcionais na defesa da liberdade e da democracia."
+  },
+  "862749546": {
+   "fragment_id": "862763331",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuição da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuição da pensão\n\nA atribuição da pensão é efectuada por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, precedido de parecer favorável da Procuradoria-Geral da República."
+  },
+  "862749547": {
+   "fragment_id": "862763332",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários da pensão\n\n1 - A pensão pode ser atribuída em benefício do próprio autor dos factos que lhe dão origem, enquanto vivo, ou, após a sua morte, de quem estiver, à data do óbito, sucessivamente e por ordem de preferência, em alguma das situações referidas nas alíneas seguintes:\n\na) Cônjuges sobrevivos separados judicialmente de pessoas e bens, divorciados, pessoas que estiverem nas condições do artigo 2020.º do Código Civil e descendentes;\n\nb) Pessoa que o tenha criado e sustentado;\n\nc) Ascendentes de qualquer grau;\n\nd) Irmãos.\n\n2 - Se a pensão tiver sido atribuída em vida ao próprio autor dos factos que lhe dão origem, transmite-se, após a sua morte, às pessoas que a poderiam requerer pelo seu falecimento."
+  },
+  "862749548": {
+   "fragment_id": "862763333",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos gerais\n\n1 - O direito a receber a pensão só é reconhecido às pessoas que, incluindo-se em alguma das alíneas do n.º 1 do artigo anterior, estivessem a cargo do falecido à data do óbito e reúnam os requisitos indicados no artigo 5.º\n\n2 - O requisito de estar a cargo do falecido à data do óbito é dispensado quanto aos órfãos menores, à pessoa que criou o falecido e aos ascendentes.\n\n3 - Às pessoas incluídas nas alíneas b) e c) do n.º 1 do artigo 3.º é reconhecido o direito de, a todo o tempo, requererem a pensão."
+  },
+  "862749549": {
+   "fragment_id": "862763334",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos especiais\n\n1 - O cônjuge sobrevivo não separado judicialmente de pessoas e bens só tem direito à pensão desde que estivesse a viver em comunhão de mesa e habitação com o falecido à data do óbito.\n\n2 - Os separados judicialmente de pessoas e bens ou divorciados só têm direito à pensão desde que:\n\na) Tivessem direito a receber do falecido à data do óbito pensão de alimentos fixada ou homologada judicialmente;\n\nb) Não sejam casados nem se encontrem nas condições previstas no artigo 2020.º do Código Civil.\n\n3 - Aquele que estiver nas condições previstas no artigo 2020.º do Código Civil só tem direito à pensão depois de sentença judicial que lhe fixe o direito a alimentos, ainda que provisório, e enquanto se mantiver o referido direito.\n\n4 - Os descendentes só têm direito à pensão enquanto satisfizerem as seguintes condições:\n\na) Terem menos de 18 ou de 21 anos e estarem matriculados e a frequentar curso de nível secundário ou equiparado ou menos de 25 anos e estarem matriculados e a frequentar curso superior ou equiparado;\n\nb) Independentemente da idade, sofrerem de incapacidade absoluta e permanente para o trabalho.\n\n5 - A pessoa que criou o falecido e os ascendentes deste só têm direito à pensão quando tiverem mais de 65 anos ou, sendo de idade inferior, se sofrerem de incapacidade absoluta e permanente para o trabalho.\n\n6 - Os irmãos têm direito à pensão desde que satisfaçam os requisitos indicados no n.º 4 e sejam órfãos de pai e mãe à data do falecimento do autor da pensão."
+  },
+  "862749550": {
+   "fragment_id": "862763335",
+   "type": 11,
+   "heading": "Artigo 6.º — Quantitativo e abono da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Quantitativo e abono da pensão\n\n1 - As regras sobre o cálculo, acumulação, redução, reversão, abono e cessação do direito à pensão, bem como as respeitantes à prova de rendimentos, concorrência de beneficiários e execução da decisão, são as estabelecidas para as pensões de preço de sangue e por serviços excepcionais e relevantes prestados ao País, previstas no Decreto-Lei n.º 466/99, de 6 de Novembro, com as especialidades constantes no presente diploma.\n\n2 - Para efeitos de cálculo da pensão, a remuneração a considerar é a auferida à data dos factos que lhe dão origem e determina-se de acordo com o regime estabelecido nos artigos 47.º e 48.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, não podendo, porém, o seu montante ser de valor inferior ao escalão 1 do vencimento base de um soldado da Guarda Nacional Republicana em vigor à mesma data.\n\n3 - Nos casos em que o autor não tenha qualquer vínculo funcional ao Estado, incluindo as autarquias locais, ter-se-á em conta, para efeitos de cálculo da pensão, o valor mínimo referido no número anterior.\n\n4 - Sempre que os rendimentos ou proventos de qualquer natureza do agregado familiar do ou dos beneficiários da pensão sejam superiores ao dobro do salário mínimo nacional, a parte que exceder esse limite será deduzida à quota-parte da pensão que lhes couber, não podendo, porém, o valor desta ser inferior à correspondente quota-parte do salário mínimo nacional.\n\n5 - A pensão por méritos excepcionais na defesa da liberdade e da democracia não é acumulável com as pensões previstas no Decreto-Lei n.º 466/99, de 6 de Novembro."
+  },
+  "862749551": {
+   "fragment_id": "862763336",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução do processo de atribuição da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrução do processo de atribuição da pensão\n\n1 - A iniciativa da atribuição da pensão compete aos membros do Governo, aos deputados, aos órgãos da administração local e regional e a quaisquer organismos ou instituições de interesse público.\n\n2 - As entidades referidas no número anterior dirigem ao Ministro das Finanças uma proposta que contenha a qualificação inequívoca e fundamentada do cidadão em causa como alguém que se distinguiu por méritos excepcionais na defesa da liberdade e da democracia, com indicação do ou dos beneficiários da pensão quando o autor dos factos que lhe dão origem já tenha falecido.\n\n3 - A proposta referida no número anterior deve ser instruída com as certidões, atestados e demais documentos que provem os factos justificativos da atribuição da pensão, assim como o nome, filiação, nacionalidade, data do nascimento e estado civil do ou dos beneficiários.\n\n4 - As propostas de atribuição de pensões são remetidas à Caixa Geral de Aposentações, que organiza o processo, podendo solicitar às entidades competentes todos os demais elementos que considere necessários, designadamente os que respeitem à verificação dos requisitos a que se referem os artigos 4.º e 5.º\n\n5 - Concluída a organização do processo, a Caixa Geral de Aposentações remete-o à Procuradoria-Geral da República para emissão do parecer previsto no artigo 2.º, enviando-o, após a emissão daquele parecer, ao Ministro das Finanças para despacho."
+  },
+  "862749552": {
+   "fragment_id": "862763337",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento da pensão\n\nA pensão por méritos excepcionais na defesa da liberdade e da democracia é devida a partir da data da publicação do despacho conjunto referido no artigo 2.º"
+  },
+  "862749553": {
+   "fragment_id": "862763338",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\nOs quantitativos das pensões que estiverem a ser abonadas não sofrem qualquer redução por força da entrada em vigor do presente diploma, mantendo-se inalterados até que da sua aplicação resultem quantitativos superiores."
+  },
+  "862749554": {
+   "fragment_id": "862763339",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogação\n\nSão revogados o Decreto-Lei n.º 171/77, de 30 de Abril, o Despacho Normativo n.º 9-H/80, de 9 de Janeiro, e o artigo 2.º do Decreto-Lei n.º 215/87, de 29 de Maio."
+  },
+  "862749555": {
+   "fragment_id": "862763340",
+   "type": 11,
+   "heading": "Artigo 11.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Produção de efeitos\n\nO presente diploma produz efeitos no dia seguinte ao da sua publicação, aplicando-se aos processos pendentes."
+  },
+  "1127124675": {
+   "fragment_id": "862763331",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuição da pensão",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 153.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuição da pensão\n\nA atribuição da pensão é efetuada por despacho do Primeiro-Ministro, precedido de parecer favorável da Procuradoria-Geral da República.\n\n> Alterado pelo/a Artigo 153.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+  },
+  "1127124875": {
+   "fragment_id": "862763336",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução do processo de atribuição da pensão",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 153.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 7.º — Instrução do processo de atribuição da pensão\n\n1 - A iniciativa da atribuição da pensão compete aos membros do Governo, aos deputados, aos órgãos da administração local e regional e a quaisquer organismos ou instituições de interesse público.\n\n2 - As entidades referidas no número anterior dirigem ao Primeiro-Ministro uma proposta que contenha a qualificação inequívoca e fundamentada do cidadão em causa como alguém que se distinguiu por méritos excecionais na defesa da liberdade e da democracia, com indicação do ou dos beneficiários da pensão quando o autor dos factos que lhe dão origem já tenha falecido.\n\n3 - A proposta referida no número anterior deve ser instruída com as certidões, atestados e demais documentos que provem os factos justificativos da atribuição da pensão, assim como o nome, filiação, nacionalidade, data do nascimento e estado civil do ou dos beneficiários.\n\n4 - As propostas de atribuição de pensões são remetidas à Caixa Geral de Aposentações, que organiza o processo, podendo solicitar às entidades competentes todos os demais elementos que considere necessários, designadamente os que respeitem à verificação dos requisitos a que se referem os artigos 4.º e 5.º\n\n5 - Concluída a organização do processo, a Caixa Geral de Aposentações remete-o à Procuradoria-Geral da República para emissão do parecer previsto no artigo 2.º, enviando-o, após a emissão daquele parecer, ao Primeiro-Ministro para despacho.\n\n> Alterado pelo/a Artigo 153.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+  },
+  "1127125075": {
+   "fragment_id": "862763337",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento da pensão",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 153.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 8.º — Pagamento da pensão\n\nA pensão por méritos excecionais na defesa da liberdade e da democracia é devida a partir da data da publicação do despacho referido no artigo 2.º\n\n> Alterado pelo/a Artigo 153.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+  },
+  "862749556": {
+   "fragment_id": "862763341",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.\n\nPromulgado em 6 de Agosto de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Agosto de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

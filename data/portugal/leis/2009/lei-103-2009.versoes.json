@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489737:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34513875",
+ "dre_path": "/dr/detalhe/lei/103-2009-489737",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47061875",
+    "47061975",
+    "47062075",
+    "47062175",
+    "47062275",
+    "47062375",
+    "47062475",
+    "47062575",
+    "47062675",
+    "47062775",
+    "47062875",
+    "47062975",
+    "47063075",
+    "47063175",
+    "47063275",
+    "47063375",
+    "47063475",
+    "47063575",
+    "47063675",
+    "47063775",
+    "47063875",
+    "47063975",
+    "47064075",
+    "47064175",
+    "47064275",
+    "47064375",
+    "47064475",
+    "47064575",
+    "47064675",
+    "47064775",
+    "47064875",
+    "47064975",
+    "47065075",
+    "47065175"
+   ]
+  },
+  {
+   "date": "2015-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70215245:por",
+     "title": "Lei n.º 141/2015",
+     "published": "2015-09-08",
+     "dre_path": "/dr/detalhe/lei/141-2015-70215245"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "47061875",
+    "47061975",
+    "47062075",
+    "47062175",
+    "47062275",
+    "47062375",
+    "47062475",
+    "70217349",
+    "47062675",
+    "47062775",
+    "70217350",
+    "47062975",
+    "47063075",
+    "70217351",
+    "47063275",
+    "47063375",
+    "47063475",
+    "47063575",
+    "47063675",
+    "70217352",
+    "47063875",
+    "47063975",
+    "47064075",
+    "47064175",
+    "47064275",
+    "70217353",
+    "47064475",
+    "47064575",
+    "47064675",
+    "47064775",
+    "47064875",
+    "47064975",
+    "47065075",
+    "47065175",
+    "47065375"
+   ]
+  }
+ ],
+ "fragments": {
+  "47061875": {
+   "fragment_id": "35133675",
+   "type": 15,
+   "heading": "Diploma — Aprova o regime jurídico do apadrinhamento civil, procedendo à alteração do Código do Registo Civil, do Código do Imposto sobre o Rendimento das Pessoas Singulares, da Lei de Organização e Funcionamento dos Tribunais Judiciais e do Código Civil.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "47061975": {
+   "fragment_id": "35554475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece o regime jurídico aplicável ao apadrinhamento civil."
+  },
+  "47062075": {
+   "fragment_id": "35554575",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nO apadrinhamento civil é uma relação jurídica, tendencialmente de carácter permanente, entre uma criança ou jovem e uma pessoa singular ou uma família que exerça os poderes e deveres próprios dos pais e que com ele estabeleçam vínculos afectivos que permitam o seu bem-estar e desenvolvimento, constituída por homologação ou decisão judicial e sujeita a registo civil."
+  },
+  "47062175": {
+   "fragment_id": "35554675",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nA presente lei aplica-se às crianças e jovens que residam em território nacional."
+  },
+  "47062275": {
+   "fragment_id": "35554775",
+   "type": 11,
+   "heading": "Artigo 4.º — Capacidade para apadrinhar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capacidade para apadrinhar\n\nPodem apadrinhar pessoas maiores de 25 anos, previamente habilitadas para o efeito, sem prejuízo do disposto no n.º 5 do artigo 11.º"
+  },
+  "47062375": {
+   "fragment_id": "35554875",
+   "type": 11,
+   "heading": "Artigo 5.º — Capacidade para ser apadrinhado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capacidade para ser apadrinhado\n\n1 - Desde que o apadrinhamento civil apresente reais vantagens para a criança ou o jovem e desde que não se verifiquem os pressupostos da confiança com vista à adopção, a apreciar pela entidade competente para a constituição do apadrinhamento civil, pode ser apadrinhada qualquer criança ou jovem menor de 18 anos:\n\na) Que esteja a beneficiar de uma medida de acolhimento em instituição;\n\nb) Que esteja a beneficiar de outra medida de promoção e protecção;\n\nc) Que se encontre numa situação de perigo confirmada em processo de uma comissão de protecção de crianças e jovens ou em processo judicial;\n\nd) Que, para além dos casos previstos nas alíneas anteriores, seja encaminhada para o apadrinhamento civil por iniciativa das pessoas ou das entidades referidas no artigo 10.º\n\n2 - Também pode ser apadrinhada qualquer criança ou jovem menor de 18 anos que esteja a beneficiar de confiança administrativa, confiança judicial ou medida de promoção e protecção de confiança a instituição com vista a futura adopção ou a pessoa seleccionada para a adopção quando, depois de uma reapreciação fundamentada do caso, se mostre que a adopção é inviável."
+  },
+  "47062475": {
+   "fragment_id": "35554975",
+   "type": 11,
+   "heading": "Artigo 6.º — Proibição de vários apadrinhamentos civis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Proibição de vários apadrinhamentos civis\n\nEnquanto subsistir um apadrinhamento civil não pode constituir-se outro quanto ao mesmo afilhado, excepto se os padrinhos viverem em família."
+  },
+  "47062575": {
+   "fragment_id": "35555075",
+   "type": 11,
+   "heading": "Artigo 7.º — Exercício das responsabilidades parentais dos padrinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exercício das responsabilidades parentais dos padrinhos\n\n1 - Os padrinhos exercem as responsabilidades parentais, ressalvadas as limitações previstas no compromisso de apadrinhamento civil ou na decisão judicial.\n\n2 - São aplicáveis, com as necessárias adaptações, os artigos 1936.º a 1941.º do Código Civil.\n\n3 - Se os pais da criança ou do jovem tiverem falecido, se estiverem inibidos do exercício das responsabilidades parentais ou se forem incógnitos, são ainda aplicáveis, com as devidas adaptações, os artigos 1943.º e 1944.º do mesmo Código.\n\n4 - As obrigações estabelecidas nos artigos referidos no número anterior são cumpridas perante as entidades que constituem o vínculo de apadrinhamento civil.\n\n5 - É aplicável, com as necessárias adaptações, o disposto nos artigos 2.º a 4.º do Decreto-Lei n.º 272/2001, de 13 de Outubro."
+  },
+  "47062675": {
+   "fragment_id": "35555175",
+   "type": 11,
+   "heading": "Artigo 8.º — Direitos dos pais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direitos dos pais\n\n1 - Os pais, exceptuados os casos previstos no n.º 3 do artigo 14.º, beneficiam dos direitos expressamente consignados no compromisso de apadrinhamento civil, designadamente:\n\na) Conhecer a identidade dos padrinhos;\n\nb) Dispor de uma forma de contactar os padrinhos;\n\nc) Saber o local de residência do filho;\n\nd) Dispor de uma forma de contactar o filho;\n\ne) Ser informados sobre o desenvolvimento integral do filho, a sua progressão escolar ou profissional, a ocorrência de factos particularmente relevantes ou de problemas graves, nomeadamente de saúde;\n\nf) Receber com regularidade fotografias ou outro registo de imagem do filho;\n\ng) Visitar o filho, nas condições fixadas no compromisso ou na decisão judicial, designadamente por ocasião de datas especialmente significativas.\n\n2 - O tribunal pode estabelecer limitações aos direitos enunciados nas alíneas d) e g) do número anterior quando os pais, no exercício destes direitos, ponham em risco a segurança ou a saúde física ou psíquica da criança ou do jovem ou comprometam o êxito da relação de apadrinhamento civil.\n\n3 - Os direitos previstos no n.º 1 podem ser reconhecidos relativamente a outras pessoas, nos termos que vierem a ser estabelecidos no compromisso de apadrinhamento civil ou na decisão judicial, sendo neste caso aplicáveis os princípios referidos no artigo 9.º"
+  },
+  "47062775": {
+   "fragment_id": "35555275",
+   "type": 11,
+   "heading": "Artigo 9.º — Princípios orientadores das relações entre pais e padrinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Princípios orientadores das relações entre pais e padrinhos\n\n1 - Os pais e padrinhos têm um dever mútuo de respeito e de preservação da intimidade da vida privada e familiar, do bom nome e da reputação.\n\n2 - Os pais e padrinhos devem cooperar na criação das condições adequadas ao bem-estar e desenvolvimento do afilhado."
+  },
+  "47062875": {
+   "fragment_id": "35555375",
+   "type": 11,
+   "heading": "Artigo 10.º — Legitimidade para tomar a iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legitimidade para tomar a iniciativa\n\n1 - O apadrinhamento civil pode ser da iniciativa:\n\na) Do Ministério Público;\n\nb) Da comissão de protecção de crianças e jovens, no âmbito dos processos que aí corram termos;\n\nc) Do organismo competente da segurança social ou de instituição por esta habilitada nos termos do n.º 3 do artigo 12.º;\n\nd) Dos pais, representante legal da criança ou do jovem ou pessoa que tenha a sua guarda de facto;\n\ne) Da criança ou do jovem maior de 12 anos.\n\n2 - Quando a iniciativa for da criança ou do jovem maior de 12 anos, o tribunal ou o Ministério Público, conforme o caso, nomeia, a seu pedido, patrono que o represente.\n\n3 - O apadrinhamento civil pode também ser constituído oficiosamente pelo tribunal."
+  },
+  "47062975": {
+   "fragment_id": "35555475",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação dos padrinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação dos padrinhos\n\n1 - Tomada a iniciativa do apadrinhamento civil por quem tiver legitimidade, os padrinhos são designados de entre pessoas ou famílias habilitadas, constantes de uma lista regional do organismo competente da segurança social.\n\n2 - Quando o apadrinhamento civil tiver lugar por iniciativa dos pais, do representante legal da criança ou do jovem, ou da pessoa que tenha a sua guarda de facto, ou ainda da criança ou do jovem, estes podem designar a pessoa ou a família da sua escolha para padrinhos, mas a designação só se torna efectiva após a respectiva habilitação.\n\n3 - Quando a designação prevista no número anterior não tiver sido feita, ou não se tiver tornado efectiva, os padrinhos são escolhidos nos termos do n.º 1.\n\n4 - A instituição que tiver acolhido a criança ou o jovem pode designar os padrinhos, nos termos do n.º 1.\n\n5 - Podem ser designados como padrinhos os familiares, a pessoa idónea ou a família de acolhimento a quem a criança ou o jovem tenha sido confiado no processo de promoção e protecção ou o tutor.\n\n6 - A escolha dos padrinhos é feita no respeito pelo princípio da audição obrigatória e da participação no processo da criança ou do jovem e dos pais, representante legal ou pessoa que tenha a sua guarda de facto."
+  },
+  "47063075": {
+   "fragment_id": "35555575",
+   "type": 11,
+   "heading": "Artigo 12.º — Habilitação dos padrinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Habilitação dos padrinhos\n\n1 - A habilitação consiste na certificação de que a pessoa singular ou os membros da família que pretendem apadrinhar uma criança ou jovem possuem idoneidade e autonomia de vida que lhes permitam assumir as responsabilidades próprias do vínculo de apadrinhamento civil.\n\n2 - A habilitação dos padrinhos cabe ao organismo competente da segurança social.\n\n3 - Mediante acordos de cooperação celebrados com o organismo competente da segurança social, as instituições que disponham de meios adequados podem adquirir a legitimidade para designar e habilitar padrinhos.\n\n4 - À recusa de habilitação dos padrinhos é aplicável o disposto no artigo 7.º do Decreto-Lei n.º 185/93, de 22 de Maio, alterado pelo Decreto-Lei n.º 120/98, de 8 de Maio, e pelas Leis n.os 31/2003, de 22 de Agosto, e 28/2007, de 2 de Agosto."
+  },
+  "47063175": {
+   "fragment_id": "35555675",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição da relação de apadrinhamento civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Constituição da relação de apadrinhamento civil\n\n1 - O apadrinhamento civil constitui-se:\n\na) Por decisão do tribunal, nos casos em que esteja a correr um processo judicial de promoção e protecção ou um processo tutelar cível, nos casos em que, não sendo obtido o consentimento de uma das pessoas referidas no n.º 1 do artigo 14.º, possa o mesmo ser dispensado nos termos do n.º 4 do mesmo artigo, e nos casos em que tenha havido parecer desfavorável do conselho de família;\n\nb) Por compromisso de apadrinhamento civil homologado pelo tribunal.\n\n2 - O tribunal deve, sempre que possível, tomar em conta um compromisso de apadrinhamento civil que lhe seja proposto ou promover a sua celebração, com a observância do n.º 6 do artigo 11.º\n\n3 - O apadrinhamento civil pode constituir-se em qualquer altura de um processo de promoção e protecção ou de um processo tutelar cível e, quando tiver lugar após a aplicação de uma medida de promoção e protecção ou após uma decisão judicial sobre responsabilidades parentais com que se mostre incompatível, determina necessariamente a sua cessação."
+  },
+  "47063275": {
+   "fragment_id": "35555775",
+   "type": 11,
+   "heading": "Artigo 14.º — Consentimento para o apadrinhamento civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Consentimento para o apadrinhamento civil\n\n1 - Para o apadrinhamento civil é necessário o consentimento:\n\na) Da criança ou do jovem maior de 12 anos;\n\nb) Do cônjuge do padrinho ou da madrinha não separado judicialmente de pessoas e bens ou de facto ou da pessoa que viva com o padrinho ou a madrinha em união de facto;\n\nc) Dos pais do afilhado, mesmo que não exerçam as responsabilidades parentais, e ainda que sejam menores;\n\nd) Do representante legal do afilhado;\n\ne) De quem tiver a sua guarda de facto, nos termos do artigo 5.º da Lei de Protecção de Crianças e Jovens em Perigo.\n\n2 - O consentimento das pessoas referidas nas alíneas c), d) e e) do número anterior não é necessário quando, tendo havido confiança judicial ou tendo sido aplicada medida de promoção e protecção de confiança a instituição com vista a futura adopção ou a pessoa seleccionada para adopção, se verifique a situação prevista no n.º 2 do artigo 5.º\n\n3 - Não é necessário o consentimento dos pais que tenham sido inibidos das responsabilidades parentais por terem infringido culposamente os deveres para com os filhos, com grave prejuízo destes.\n\n4 - O tribunal pode dispensar o consentimento:\n\na) Das pessoas que o deveriam prestar nos termos do n.º 1, se estiverem privadas do uso das faculdades mentais ou se, por qualquer outra razão, houver grave dificuldade em as ouvir;\n\nb) Das pessoas referidas nas alíneas c), d) e e) do n.º 1, quando se verifique alguma das situações que, nos termos das alíneas c), d) e e) do n.º 1 do artigo 1978.º do Código Civil, permitiriam a confiança judicial;\n\nc) Do representante legal ou de quem tenha a guarda de facto quando estes ponham em perigo a segurança, saúde, formação, educação ou desenvolvimento da criança ou do jovem;\n\nd) Dos pais da criança ou do jovem, quando tenham sido inibidos totalmente do exercício das responsabilidades parentais fora dos casos previstos no número anterior;\n\ne) Dos pais da criança ou do jovem, quando, tendo sido aplicada qualquer medida de promoção e protecção, a criança ou o jovem não possa regressar para junto deles ou aí permanecer por persistirem factores de perigo que imponham o afastamento, passados 18 meses após o início da execução da medida.\n\n5 - As comissões de protecção de crianças e jovens, a segurança social e as instituições por esta habilitadas nos termos do n.º 3 do artigo 12.º comunicam ao tribunal os casos em que entendam dever haver lugar a dispensa do consentimento, cabendo a este desencadear o procedimento previsto no n.º 5 do artigo 19.º\n\n6 - Quando a criança ou o jovem estiver sujeito a tutela, exige-se o parecer favorável do conselho de família."
+  },
+  "47063375": {
+   "fragment_id": "35555875",
+   "type": 11,
+   "heading": "Artigo 15.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comunicação\n\nNos casos em que a comissão de protecção de crianças e jovens ou o organismo competente da segurança social, ou a instituição por esta habilitada, entenderem que a iniciativa do apadrinhamento civil que lhes foi apresentada pelos pais, pelo representante legal da criança ou do jovem, pela pessoa que tenha a sua guarda de facto, ou pela criança ou jovem maior de 12 anos, não se revela capaz de satisfazer o interesse da criança ou do jovem, comunicam-no ao tribunal, com o seu parecer."
+  },
+  "47063475": {
+   "fragment_id": "35555975",
+   "type": 11,
+   "heading": "Artigo 16.º — Compromisso de apadrinhamento civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Compromisso de apadrinhamento civil\n\nO compromisso de apadrinhamento civil, ou a decisão do tribunal, contém obrigatoriamente:\n\na) A identificação da criança ou do jovem;\n\nb) A identificação dos pais, representante legal ou pessoa que tenha a sua guarda de facto;\n\nc) A identificação dos padrinhos;\n\nd) As eventuais limitações ao exercício, pelos padrinhos, das responsabilidades parentais;\n\ne) O regime das visitas dos pais ou de outras pessoas, familiares ou não, cujo contacto com a criança ou jovem deva ser preservado;\n\nf) O montante dos alimentos devidos pelos pais, se for o caso;\n\ng) As informações a prestar pelos padrinhos ou pelos pais, representante legal ou pessoa que tinha a sua guarda de facto, à entidade encarregada do apoio do vínculo de apadrinhamento civil."
+  },
+  "47063575": {
+   "fragment_id": "35556075",
+   "type": 11,
+   "heading": "Artigo 17.º — Subscritores do compromisso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Subscritores do compromisso\n\nSubscrevem obrigatoriamente o compromisso:\n\na) Os padrinhos;\n\nb) As pessoas que têm de dar consentimento;\n\nc) A instituição onde a criança ou o jovem estava acolhido e que promoveu o apadrinhamento civil;\n\nd) A entidade encarregada de apoiar o apadrinhamento civil;\n\ne) O pró-tutor, quando o tutor vier a assumir a condição de padrinho."
+  },
+  "47063675": {
+   "fragment_id": "35556175",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\nÉ competente para a constituição do apadrinhamento civil, nos termos do n.º 1 do artigo 13.º, o tribunal de família e menores ou, fora das áreas abrangidas pela jurisdição dos tribunais de família e menores, o tribunal da comarca da área da localização da instituição em que a criança ou o jovem se encontra acolhido ou da área da sua residência."
+  },
+  "47063775": {
+   "fragment_id": "35556275",
+   "type": 11,
+   "heading": "Artigo 19.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Processo\n\n1 - Quando o compromisso de apadrinhamento civil for celebrado na comissão de protecção de crianças e jovens ou no organismo competente da segurança social, ou em instituição por esta habilitada, é o mesmo enviado ao tribunal competente, para homologação, acompanhado de relatório social.\n\n2 - Caso o tribunal considere que o compromisso não acautela suficientemente os interesses da criança ou do jovem, ou não satisfaz os requisitos legais, pode convidar os subscritores a alterá-lo, após o que decide sobre a homologação.\n\n3 - As pessoas referidas no artigo 10.º da presente lei dirigem a sua pretensão à comissão de protecção de crianças e jovens, ou ao tribunal, em que já corra termos processo respeitante à mesma criança ou jovem ou, na sua inexistência, ao Ministério Público, ao organismo competente da segurança social ou a instituição por esta habilitada nos termos do n.º 3 do artigo 12.º\n\n4 - No prazo de 10 dias após a sua notificação, a criança ou o jovem, os seus pais, representante legal, a pessoa que tenha a guarda de facto e os padrinhos podem requerer a apreciação judicial:\n\na) Da decisão de não homologação do compromisso de apadrinhamento civil pelo Ministério Público;\n\nb) Do despacho de confirmação, pelo Ministério Público, do parecer negativo à constituição do apadrinhamento civil, previsto no artigo 15.º, seguindo o processo os seus termos como processo judicial quando o juiz dele discordar.\n\n5 - Nos casos em que pode haver lugar a dispensa do consentimento, nos termos do n.º 4 do artigo 14.º, o tribunal notifica o Ministério Público, a criança ou o jovem maior de 12 anos, os pais, o representante legal ou quem detiver a guarda de facto para alegarem por escrito, querendo, e apresentarem prova no prazo de 10 dias.\n\n6 - Se não for apresentada prova, a decisão é da competência do juiz singular, se for apresentada prova, há lugar a debate judicial perante um tribunal composto pelo juiz, que preside, e por dois juízes sociais.\n\n7 - O processo judicial de apadrinhamento civil é de jurisdição voluntária.\n\n8 - O processo judicial de apadrinhamento civil é tramitado por via electrónica nos termos gerais das normas de processo civil.\n\n9 - Em qualquer estado da causa e sempre que o entenda conveniente, oficiosamente, com o consentimento dos interessados, ou a requerimento destes, pode o juiz determinar a intervenção de serviços públicos ou privados de mediação."
+  },
+  "47063875": {
+   "fragment_id": "35556375",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoio ao apadrinhamento civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Apoio ao apadrinhamento civil\n\n1 - O apoio do apadrinhamento civil tem em vista:\n\na) Criar ou intensificar as condições necessárias para o êxito da relação de apadrinhamento;\n\nb) Avaliar o êxito da relação de apadrinhamento, do ponto de vista do interesse do afilhado.\n\n2 - O apoio cabe às comissões de protecção de crianças e jovens, nos casos em que o compromisso de apadrinhamento civil foi celebrado em processo que aí correu termos, ou ao organismo competente da segurança social.\n\n3 - O organismo competente da segurança social pode delegar o apoio em instituições que disponham de meios adequados.\n\n4 - O apoio termina quando a entidade responsável concluir que a integração familiar normal do afilhado se verificou e, em qualquer caso, passados 18 meses sobre a constituição do vínculo."
+  },
+  "47063975": {
+   "fragment_id": "35556475",
+   "type": 11,
+   "heading": "Artigo 21.º — Alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alimentos\n\n1 - Os padrinhos consideram-se ascendentes em 1.º grau do afilhado para efeitos da obrigação de lhe prestar alimentos, mas são precedidos pelos pais deste em condições de satisfazer esse encargo.\n\n2 - O afilhado considera-se descendente em 1.º grau dos padrinhos para o efeito da obrigação de lhes prestar alimentos, mas é precedido pelos filhos destes em condições de satisfazer este encargo."
+  },
+  "47064075": {
+   "fragment_id": "35556575",
+   "type": 11,
+   "heading": "Artigo 22.º — Impedimento matrimonial e dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Impedimento matrimonial e dispensa\n\n1 - O vínculo de apadrinhamento civil é impedimento impediente à celebração do casamento entre padrinhos e afilhados.\n\n2 - O impedimento é susceptível de dispensa pelo conservador do registo civil, que a concede quando haja motivos sérios que justifiquem a celebração do casamento, ouvindo, sempre que possível, quando um dos nubentes for menor, os pais.\n\n3 - A infracção do disposto no n.º 1 do presente artigo importa, para o padrinho ou madrinha, a incapacidade para receber do seu consorte qualquer benefício por doação ou testamento."
+  },
+  "47064175": {
+   "fragment_id": "35556675",
+   "type": 11,
+   "heading": "Artigo 23.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direitos\n\n1 - Os padrinhos e o afilhado têm direito a:\n\na) Beneficiar do regime jurídico de faltas e licenças equiparado ao dos pais e dos filhos;\n\nb) Beneficiar de prestações sociais nos mesmos termos dos pais e dos filhos;\n\nc) Acompanhar-se reciprocamente na assistência na doença, como se fossem pais e filhos.\n\n2 - Os padrinhos têm direito a:\n\na) Considerar o afilhado como dependente para efeitos do disposto nos artigos 79.º, 82.º e 83.º do Código do IRS;\n\nb) Beneficiar do estatuto de dador de sangue.\n\n3 - O afilhado beneficia das prestações de protecção nos encargos familiares e integra, para o efeito, o agregado familiar dos padrinhos."
+  },
+  "47064275": {
+   "fragment_id": "35556775",
+   "type": 11,
+   "heading": "Artigo 24.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Duração\n\n1 - O apadrinhamento civil constitui um vínculo permanente, salvo o disposto no artigo seguinte.\n\n2 - Os direitos e obrigações dos padrinhos inerentes ao exercício das responsabilidades parentais e os alimentos cessam nos mesmos termos em que cessam os dos pais, ressalvadas as disposições em contrário estabelecidas no compromisso de apadrinhamento civil."
+  },
+  "47064375": {
+   "fragment_id": "35556875",
+   "type": 11,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\n1 - O apadrinhamento civil pode ser revogado por iniciativa de qualquer subscritor do compromisso de apadrinhamento, do organismo competente da segurança social ou de instituição por esta habilitada nos termos do n.º 3 do artigo 12.º, da comissão de protecção de crianças e jovens, do Ministério Público ou do tribunal, quando:\n\na) Houver acordo de todos os intervenientes no compromisso de apadrinhamento;\n\nb) Os padrinhos infrinjam culposa e reiteradamente os deveres assumidos com o apadrinhamento, em prejuízo do superior interesse do afilhado, ou quando, por enfermidade, ausência ou outras razões, não se mostrem em condições de cumprir aqueles deveres;\n\nc) O apadrinhamento civil se tenha tornado contrário aos interesses do afilhado;\n\nd) A criança ou o jovem assuma comportamentos, actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os padrinhos se lhe oponham de modo adequado a remover essa situação;\n\ne) A criança ou jovem assuma de modo persistente comportamentos que afectem gravemente a pessoa ou a vida familiar dos padrinhos, de tal modo que a continuidade da relação de apadrinhamento civil se mostre insustentável;\n\nf) Houver acordo dos padrinhos e do afilhado maior.\n\n2 - A decisão de revogação do apadrinhamento civil cabe à entidade que o constituiu.\n\n3 - Pedida a revogação e havendo oposição de alguma das pessoas que deram o consentimento, a decisão compete ao tribunal, por iniciativa do Ministério Público.\n\n4 - Ao previsto nos n.os 2 e 3 do presente artigo aplicam-se, com as devidas adaptações, os critérios de fixação de competência estabelecidos no artigo 18.º, cabendo a decisão à entidade que, no momento, se mostrar territorialmente competente.\n\n5 - O processo judicial de revogação do apadrinhamento civil é tramitado por via electrónica nos termos gerais das normas de processo civil.\n\n6 - Em qualquer estado da causa e sempre que o entenda conveniente, oficiosamente, com o consentimento dos interessados, ou a requerimento destes, pode o juiz determinar a intervenção de serviços públicos ou privados de mediação."
+  },
+  "47064475": {
+   "fragment_id": "35556975",
+   "type": 11,
+   "heading": "Artigo 26.º — Direitos dos padrinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direitos dos padrinhos\n\nQuando o apadrinhamento civil for revogado contra a vontade dos padrinhos, e sem culpa deles, as pessoas que tiveram o estatuto de padrinhos mantêm, enquanto o seu exercício não for contrário aos interesses da criança ou do jovem, os seguintes direitos:\n\na) Saber o local de residência da criança ou do jovem;\n\nb) Dispor de uma forma de contactar a criança ou o jovem;\n\nc) Ser informados sobre o desenvolvimento integral da criança ou do jovem, a sua progressão escolar ou profissional, a ocorrência de factos particularmente relevantes ou de problemas graves, nomeadamente de saúde;\n\nd) Receber com regularidade fotografias ou outro registo de imagem da criança ou do jovem;\n\ne) Visitar a criança ou o jovem, designadamente por ocasião de datas especialmente significativas."
+  },
+  "47064575": {
+   "fragment_id": "35557075",
+   "type": 11,
+   "heading": "Artigo 27.º — Efeitos da revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Efeitos da revogação\n\nOs efeitos do apadrinhamento civil cessam no momento em que a decisão de revogação se torna definitiva."
+  },
+  "47064675": {
+   "fragment_id": "35557175",
+   "type": 11,
+   "heading": "Artigo 28.º — Registo civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Registo civil\n\n1 - A constituição do apadrinhamento civil e a sua revogação são sujeitas a registo civil obrigatório, efectuado imediata e oficiosamente pelo tribunal que decida pela sua constituição ou revogação.\n\n2 - O registo civil da constituição ou da revogação do apadrinhamento civil é efectuado, sempre que possível, por via electrónica, nos termos do artigo 78.º do Código do Registo Civil."
+  },
+  "47064775": {
+   "fragment_id": "35557275",
+   "type": 11,
+   "heading": "Artigo 29.º — Alteração ao Código do Registo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alteração ao Código do Registo Civil\n\nOs artigos 1.º, 69.º e 78.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de Junho, alterado pelos Decretos-Leis n.os 224-A/96, de 26 de Novembro, 36/97, de 31 de Janeiro, 120/98, de 8 de Maio, 375-A/99, de 20 de Setembro, 228/2001, de 20 de Agosto, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 113/2002, de 20 de Abril, 194/2003, de 23 de Agosto, e 53/2004, de 18 de Março, pela Lei n.º 29/2007, de 2 de Agosto, pelo Decreto-Lei n.º 324/2007, de 28 de Setembro, pela Lei n.º 61/2008, de 31 de Outubro, e pelos Decretos-Leis n.os 247-B/2008, de 30 de Dezembro, e 100/2009, de 11 de Maio, e pela Lei n.º 29/2009, de 29 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - O registo civil é obrigatório e tem por objecto os seguintes factos:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) O apadrinhamento civil e a sua revogação;\n\nj) [Anterior alínea i).]\n\nl) [Anterior alínea j).]\n\nm) [Anterior alínea l).]\n\nn) [Anterior alínea m).]\n\no) [Anterior alínea n).]\n\np) [Anterior alínea o).]\n\nq) [Anterior alínea p).]\n\n2 - ...\n\nArtigo 69.º\n\n[...]\n\n1 - Ao assento de nascimento são especialmente averbados:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) A constituição do apadrinhamento civil e a sua revogação;\n\ni) [Anterior alínea h).]\n\nj) [Anterior alínea i).]\n\nl) [Anterior alínea j).]\n\nm) [Anterior alínea l).]\n\nn) [Anterior alínea m).]\n\no) [Anterior alínea n).]\n\np) [Anterior alínea o).]\n\nq) [Anterior alínea p).]\n\n2 - ...\n\n3 - ...\n\nArtigo 78.º\n\n[...]\n\n1 - ...\n\n2 - A comunicação prevista no número anterior é enviada no prazo de um dia após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.\n\n3 - ...»"
+  },
+  "47064875": {
+   "fragment_id": "35557375",
+   "type": 11,
+   "heading": "Artigo 30.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares\n\nOs artigos 79.º, 82.º e 83.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, abreviadamente designado por Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 79.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) 40 % do valor da retribuição mínima mensal, por cada dependente ou afilhado civil que não seja sujeito passivo deste imposto;\n\ne) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 82.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Aquisição de bens e serviços directamente relacionados com despesas de saúde dos afilhados civis, ascendentes e colaterais até ao 3.º grau do sujeito passivo, que sejam isentas do IVA, ainda que haja renúncia à isenção, ou sujeitas à taxa reduzida de 5 %, desde que não possuam rendimentos superiores ao salário mínimo nacional mais elevado e com aquele vivam em economia comum;\n\nc) ...\n\nd) ...\n\n2 - ...\n\nArtigo 83.º\n\n[...]\n\n1 - São dedutíveis à colecta 30 % das despesas de educação e de formação profissional do sujeito passivo, dos seus dependentes e dos afilhados civis, com o limite de 160 % do valor mensal do salário mínimo nacional mais elevado, independentemente do estado civil do sujeito passivo.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...»"
+  },
+  "47064975": {
+   "fragment_id": "35557475",
+   "type": 11,
+   "heading": "Artigo 31.º — Alteração à Lei de Organização e Funcionamento dos Tribunais Judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alteração à Lei de Organização e Funcionamento dos Tribunais Judiciais\n\nO n.º 1 do artigo 115.º da Lei n.º 52/2008, de 28 de Agosto, que aprova a Lei de Organização e Funcionamento dos Tribunais Judiciais, passa a ter a seguinte redacção:\n\n«Artigo 115.º\n\n[...]\n\n1 - Compete igualmente aos juízos de família e menores:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) Constituir a relação de apadrinhamento civil e decretar a sua revogação;\n\nh) [Anterior alínea g).]\n\ni) [Anterior alínea h).]\n\nj) [Anterior alínea i).]\n\nl) [Anterior alínea j).]\n\nm) [Anterior alínea l).]\n\nn) [Anterior alínea m).]\n\n2 - ...\n\n3 - ...»"
+  },
+  "47065075": {
+   "fragment_id": "35557575",
+   "type": 11,
+   "heading": "Artigo 32.º — Alteração ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Alteração ao Código Civil\n\nOs artigos 1921.º e 1961.º do Código Civil passam a ter a seguinte redacção:\n\n«Artigo 1921.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - ...\n\n3 - O disposto no n.º 1 não é aplicável quando se constituir o apadrinhamento civil.\n\nArtigo 1961.º\n\n[...]\n\nA tutela termina:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) Pela constituição do apadrinhamento civil.»"
+  },
+  "47065175": {
+   "fragment_id": "35557675",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\n1 - A habilitação dos padrinhos, prevista no artigo 12.º, será regulamentada por decreto-lei no prazo de 120 dias.\n\n2 - A presente lei entra em vigor no dia seguinte ao da publicação daquele diploma regulamentador.\n\n3 - Entre a data da publicação e a data de entrada em vigor desta lei, serão desenvolvidas acções de formação tendo como destinatários as entidades a que sejam atribuídas competências nesta lei."
+  },
+  "70217349": {
+   "fragment_id": "35555075",
+   "type": 11,
+   "heading": "Artigo 7.º — Exercício das responsabilidades parentais dos padrinhos",
+   "in_force_from": "2015-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+   ],
+   "markdown": "###### Artigo 7.º — Exercício das responsabilidades parentais dos padrinhos\n\n1 - Os padrinhos exercem as responsabilidades parentais, ressalvadas as limitações previstas no compromisso de apadrinhamento civil ou na decisão judicial.\n\n2 - São aplicáveis, com as necessárias adaptações, os artigos 1936.º a 1941.º do Código Civil.\n\n3 - Se os pais da criança ou do jovem tiverem falecido, se estiverem inibidos do exercício das responsabilidades parentais ou se forem incógnitos, são ainda aplicáveis, com as devidas adaptações, os artigos 1943.º e 1944.º do mesmo Código.\n\n4 - As obrigações estabelecidas nos artigos referidos no número anterior são cumpridas perante o tribunal.\n\n5 - É aplicável, com as necessárias adaptações, o disposto nos artigos 2.º a 4.º do Decreto-Lei n.º 272/2001, de 13 de Outubro.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+  },
+  "70217350": {
+   "fragment_id": "35555375",
+   "type": 11,
+   "heading": "Artigo 10.º — Legitimidade para tomar a iniciativa",
+   "in_force_from": "2015-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+   ],
+   "markdown": "###### Artigo 10.º — Legitimidade para tomar a iniciativa\n\n1 - O apadrinhamento civil pode ser da iniciativa:\n\na) Do Ministério Público;\n\nb) Da comissão de protecção de crianças e jovens, no âmbito dos processos que aí corram termos;\n\nc) Do organismo competente da segurança social ou de instituição por esta habilitada nos termos do n.º 3 do artigo 12.º;\n\nd) Dos pais, representante legal da criança ou do jovem ou pessoa que tenha a sua guarda de facto;\n\ne) Da criança ou do jovem maior de 12 anos.\n\n2 - Quando a iniciativa for da criança ou do jovem maior de 12 anos, o tribunal nomeia, a seu pedido, patrono que o represente.\n\n3 - O apadrinhamento civil pode também ser constituído oficiosamente pelo tribunal.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+  },
+  "70217351": {
+   "fragment_id": "35555675",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição da relação de apadrinhamento civil",
+   "in_force_from": "2015-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+   ],
+   "markdown": "###### Artigo 13.º — Constituição da relação de apadrinhamento civil\n\n1 - O apadrinhamento civil constitui-se:\n\na) Por decisão do tribunal, nos casos em que:\n\ni) Esteja a correr um processo judicial de promoção e proteção ou um processo tutelar cível;\n\nii) Não sendo obtido o consentimento de uma das pessoas referidas no n.º 1 do artigo 14.º, possa o mesmo ser dispensado nos termos do n.º 4 do mesmo artigo;\n\niii) Tenha havido parecer desfavorável do conselho de família;\n\nb) Por compromisso de apadrinhamento civil homologado pelo tribunal.\n\n2 - O tribunal deve, sempre que possível, tomar em conta um compromisso de apadrinhamento civil que lhe seja proposto ou promover a sua celebração, com a observância do n.º 6 do artigo 11.º\n\n3 - O apadrinhamento civil pode constituir-se em qualquer altura de um processo de promoção e protecção ou de um processo tutelar cível e, quando tiver lugar após a aplicação de uma medida de promoção e protecção ou após uma decisão judicial sobre responsabilidades parentais com que se mostre incompatível, determina necessariamente a sua cessação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+  },
+  "70217352": {
+   "fragment_id": "35556275",
+   "type": 11,
+   "heading": "Artigo 19.º — Processo",
+   "in_force_from": "2015-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+   ],
+   "markdown": "###### Artigo 19.º — Processo\n\n1 - Quando o compromisso de apadrinhamento civil for celebrado na comissão de protecção de crianças e jovens ou no organismo competente da segurança social, ou em instituição por esta habilitada, é o mesmo enviado ao tribunal competente, para homologação, acompanhado de relatório social.\n\n2 - Caso o tribunal considere que o compromisso não acautela suficientemente os interesses da criança ou do jovem, ou não satisfaz os requisitos legais, pode convidar os subscritores a alterá-lo, após o que decide sobre a homologação.\n\n3 - As pessoas referidas no artigo 10.º da presente lei dirigem a sua pretensão à comissão de protecção de crianças e jovens, ou ao tribunal, em que já corra termos processo respeitante à mesma criança ou jovem ou, na sua inexistência, ao Ministério Público, ao organismo competente da segurança social ou a instituição por esta habilitada nos termos do n.º 3 do artigo 12.º\n\n4 - (Revogado.)\n\n5 - Nos casos em que pode haver lugar a dispensa do consentimento, nos termos do n.º 4 do artigo 14.º, o tribunal notifica o Ministério Público, a criança ou o jovem maior de 12 anos, os pais, o representante legal ou quem detiver a guarda de facto para alegarem por escrito, querendo, e apresentarem prova no prazo de 10 dias.\n\n6 - Se não for apresentada prova, a decisão é da competência do juiz singular, se for apresentada prova, há lugar a debate judicial perante um tribunal composto pelo juiz, que preside, e por dois juízes sociais.\n\n7 - O processo judicial de apadrinhamento civil é de jurisdição voluntária.\n\n8 - O processo judicial de apadrinhamento civil é tramitado por via electrónica nos termos gerais das normas de processo civil.\n\n9 - Em qualquer estado da causa e sempre que o entenda conveniente, oficiosamente, com o consentimento dos interessados, ou a requerimento destes, pode o juiz determinar a intervenção de serviços públicos ou privados de mediação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+  },
+  "70217353": {
+   "fragment_id": "35556875",
+   "type": 11,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": "2015-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+   ],
+   "markdown": "###### Artigo 25.º — Revogação\n\n1 - O apadrinhamento civil pode ser revogado por iniciativa de qualquer subscritor do compromisso de apadrinhamento, do organismo competente da segurança social ou de instituição por esta habilitada nos termos do n.º 3 do artigo 12.º, da comissão de protecção de crianças e jovens, do Ministério Público ou do tribunal, quando:\n\na) Houver acordo de todos os intervenientes no compromisso de apadrinhamento;\n\nb) Os padrinhos infrinjam culposa e reiteradamente os deveres assumidos com o apadrinhamento, em prejuízo do superior interesse do afilhado, ou quando, por enfermidade, ausência ou outras razões, não se mostrem em condições de cumprir aqueles deveres;\n\nc) O apadrinhamento civil se tenha tornado contrário aos interesses do afilhado;\n\nd) A criança ou o jovem assuma comportamentos, actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os padrinhos se lhe oponham de modo adequado a remover essa situação;\n\ne) A criança ou jovem assuma de modo persistente comportamentos que afectem gravemente a pessoa ou a vida familiar dos padrinhos, de tal modo que a continuidade da relação de apadrinhamento civil se mostre insustentável;\n\nf) Houver acordo dos padrinhos e do afilhado maior.\n\n2 - A decisão de revogação do apadrinhamento civil cabe ao tribunal.\n\n3 - (Revogado.)\n\n4 - Ao previsto no n.º 2 do presente artigo aplicam-se, com as devidas adaptações, os critérios de fixação de competência estabelecidos no artigo 18.º, cabendo a decisão à entidade que, no momento, se mostrar territorialmente competente.\n\n5 - O processo judicial de revogação do apadrinhamento civil é tramitado por via electrónica nos termos gerais das normas de processo civil.\n\n6 - Em qualquer estado da causa e sempre que o entenda conveniente, oficiosamente, com o consentimento dos interessados, ou a requerimento destes, pode o juiz determinar a intervenção de serviços públicos ou privados de mediação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 141/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), em vigor a partir de 2015-10-08"
+  },
+  "47065375": {
+   "fragment_id": "35557775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Julho de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 31 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 31 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:3283546:por
+title: Declaração de Rectificação n.º 2204/2010
+short_title: null
+summary: Alteração e republicação dos anexos i e ii do despacho n.º 4140/2008, publicados no Diário da República, 2.ª série,
+  n.º 33, de 15 de Fevereiro de 2008, referentes à publicação no plano de estudos da licenciatura em Engenharia Informática
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Instituto Politécnico do Porto
+proposing_entity: null
+official_number: 2204/2010
+official_date: null
+publication_date: '2010-10-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2010, Série II de 2010-10-29
+  number: '211'
+  series: II
+  supplement: null
+  pages: 54152 - 54153
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3283546'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2204-2010-3283546
+  internal: pt:dre:3283546:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2204-2010-3283546
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2204-2010-3283546
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2b3eaf317c3255adc14276bf3e300041b0e0a7f93eb7c4cb80f8dac020eafacb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:22:11Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 2204/2010
+
+Declaração de rectificação n.º 2204/2010
+
+Por se ter detectado inexactidões na publicação dos anexos i e ii do despacho n.º 4140/2008, publicados no Diário da República, 2.ª série, n.º 33, de 15 de Fevereiro de 2008, referentes à publicação do plano de estudos da licenciatura em Engenharia Informática, ministrada no Instituto Superior de Engenharia do Instituto Politécnico do Porto, republica-se na íntegra os referidos anexos.
+
+7 de Outubro de 2010. - A Presidente, Rosário Gambôa.
+
+## ANEXO I — Estrutura curricular
+
+1 - Estabelecimento de ensino: Instituto Politécnico do Porto.
+
+2 - Unidade orgânica: Instituto Superior de Engenharia do Porto.
+
+3 - Curso: Engenharia Informática.
+
+4 - Grau ou diploma: licenciatura; ISCED - nível 5.
+
+5 - Área científica predominante do curso: Ciências e Tecnologias da Especialidade/ Engenharia Informática.
+
+6 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 180.
+
+7 - Duração normal do curso: três anos curriculares.
+
+8 - Opções, ramos, ou outras formas de organização de percursos alternativos em que o curso se estruture: não aplicável.
+
+9 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau ou diploma:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+
+10 - Observações:
+
+## ANEXO II — Plano de estudos
+
+Instituto Politécnico do Porto - Instituto Superior de Engenharia
+
+Curso de Engenharia Informática
+
+Licenciatura; ISCED - nível 5
+
+Área científica predominante: Ciências e Tecnologias da Especialidade/ Engenharia Informática
+
+QUADRO N.º 1
+
+1.º ano curricular
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+
+QUADRO N.º 2
+
+2.º ano curricular
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+
+QUADRO N.º 3
+
+3.º ano curricular
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+
+203856235

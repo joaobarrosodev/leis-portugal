@@ -1,0 +1,1026 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499499:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-106955825",
+ "dre_path": "/dr/detalhe/lei/67-2013-499499",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106928766",
+    "106928767",
+    "106928768",
+    "106928769",
+    "106928770",
+    "106928771",
+    "106928773",
+    "106928774",
+    "106958675",
+    "106958676",
+    "106958677",
+    "106958678",
+    "106958679",
+    "106958680",
+    "106958681",
+    "106958682",
+    "106958683",
+    "106958684",
+    "106958685",
+    "106958686",
+    "106958687",
+    "106958688",
+    "106958689",
+    "106958690",
+    "106958691",
+    "106958692",
+    "106958693",
+    "106958694",
+    "106958695",
+    "106958696",
+    "106958697",
+    "106958698",
+    "106958699",
+    "106958700",
+    "106958701",
+    "106958702",
+    "106958703",
+    "106958704",
+    "106958705",
+    "106958706",
+    "106958707",
+    "106958708",
+    "106958709",
+    "106958710",
+    "106958711",
+    "106958712",
+    "106958713",
+    "106958714",
+    "106958715",
+    "106958716",
+    "106958717",
+    "106958718",
+    "106958719",
+    "106958720",
+    "106958721",
+    "106958722",
+    "106958723",
+    "106958724",
+    "106958725",
+    "106958726",
+    "106958727",
+    "106958728",
+    "106958729",
+    "106958730",
+    "106958731",
+    "106958732",
+    "106958733"
+   ]
+  },
+  {
+   "date": "2017-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106955049:por",
+     "title": "Lei n.º 12/2017",
+     "published": "2017-05-02",
+     "dre_path": "/dr/detalhe/lei/12-2017-106955049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 48.º"
+   ],
+   "fragments": [
+    "106928766",
+    "106928767",
+    "106928768",
+    "106958740",
+    "106928770",
+    "106928771",
+    "106928772",
+    "106928773",
+    "106928774",
+    "106958675",
+    "106958676",
+    "106958677",
+    "106958678",
+    "106958741",
+    "106958680",
+    "106958681",
+    "106958682",
+    "106958683",
+    "106958684",
+    "106958742",
+    "106958686",
+    "106958687",
+    "106958688",
+    "106958689",
+    "106958690",
+    "106958691",
+    "106958692",
+    "106958693",
+    "106958694",
+    "106958695",
+    "106958743",
+    "106958697",
+    "106958744",
+    "106958745",
+    "106958700",
+    "106958701",
+    "106958702",
+    "106958703",
+    "106958746",
+    "106958747",
+    "106958706",
+    "106958707",
+    "106958708",
+    "106958709",
+    "106958710",
+    "106958711",
+    "106958712",
+    "106958748",
+    "106958714",
+    "106958715",
+    "106958716",
+    "106958717",
+    "106958718",
+    "106958719",
+    "106958720",
+    "106958721",
+    "106958722",
+    "106958723",
+    "106958724",
+    "106958725",
+    "106958726",
+    "106958727",
+    "106958728",
+    "106958729",
+    "106958730",
+    "106958731",
+    "106958749",
+    "106958733"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 38.º"
+   ],
+   "fragments": [
+    "106928766",
+    "106928767",
+    "106928768",
+    "106958740",
+    "106928770",
+    "106928771",
+    "106928772",
+    "106928773",
+    "106928774",
+    "106958675",
+    "106958676",
+    "106958677",
+    "106958678",
+    "106958741",
+    "106958680",
+    "106958681",
+    "106958682",
+    "106958683",
+    "106958684",
+    "106958742",
+    "106958686",
+    "106958687",
+    "106958688",
+    "106958689",
+    "106958690",
+    "106958691",
+    "106958692",
+    "106958693",
+    "106958694",
+    "106958695",
+    "106958743",
+    "106958697",
+    "106958744",
+    "106958745",
+    "106958700",
+    "106958701",
+    "106958702",
+    "106958703",
+    "106958746",
+    "106958747",
+    "106958706",
+    "106958707",
+    "106958708",
+    "106958709",
+    "106958710",
+    "106958711",
+    "106958712",
+    "106958748",
+    "106958714",
+    "106958715",
+    "106958716",
+    "106958717",
+    "106958718",
+    "106958719",
+    "117639992",
+    "106958721",
+    "106958722",
+    "106958723",
+    "106958724",
+    "106958725",
+    "106958726",
+    "106958727",
+    "106958728",
+    "106958729",
+    "106958730",
+    "106958731",
+    "106958749",
+    "106958733"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "106928766",
+    "106928767",
+    "106928768",
+    "106958740",
+    "106928770",
+    "106928771",
+    "106928772",
+    "106928773",
+    "106928774",
+    "106958675",
+    "106958676",
+    "106958677",
+    "106958678",
+    "106958741",
+    "106958680",
+    "106958681",
+    "106958682",
+    "106958683",
+    "106958684",
+    "106958742",
+    "106958686",
+    "106958687",
+    "106958688",
+    "106958689",
+    "106958690",
+    "106958691",
+    "106958692",
+    "106958693",
+    "106958694",
+    "106958695",
+    "106958743",
+    "106958697",
+    "106958744",
+    "106958745",
+    "106958700",
+    "106958701",
+    "106958702",
+    "106958703",
+    "106958746",
+    "106958747",
+    "106958706",
+    "106958707",
+    "106958708",
+    "106958709",
+    "106958710",
+    "106958711",
+    "106958712",
+    "153013512",
+    "106958714",
+    "153013513",
+    "106958716",
+    "106958717",
+    "106958718",
+    "106958719",
+    "117639992",
+    "106958721",
+    "106958722",
+    "106958723",
+    "106958724",
+    "106958725",
+    "106958726",
+    "106958727",
+    "106958728",
+    "106958729",
+    "106958730",
+    "106958731",
+    "106958749",
+    "106958733"
+   ]
+  }
+ ],
+ "fragments": {
+  "106928766": {
+   "fragment_id": "106955826",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 67/2013\n\nde 28 de agosto\n\nLei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "106928767": {
+   "fragment_id": "106955827",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova a lei-quadro das entidades reguladoras."
+  },
+  "106928768": {
+   "fragment_id": "106955828",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação da lei-quadro das entidades reguladoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação da lei-quadro das entidades reguladoras\n\nÉ aprovada em anexo à presente lei, da qual faz parte integrante, a lei-quadro das entidades reguladoras."
+  },
+  "106928769": {
+   "fragment_id": "106955829",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas de adaptação e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Normas de adaptação e transitórias\n\n1 - Os estatutos das entidades reguladoras atualmente existentes devem ser adaptados por decreto-lei ao disposto na lei-quadro, em anexo à presente lei, no prazo de 90 dias após a entrada em vigor desta lei e entram em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n2 - No prazo máximo de 30 dias a contar do 1.º dia útil seguinte ao da publicação da presente lei, cada entidade reguladora deve apresentar ao Governo um projeto de alteração dos respetivos estatutos que os adeque ao regime previsto na lei-quadro, em anexo à presente lei.\n\n3 - Para efeitos do disposto no n.º 1, são reconhecidas como entidades reguladoras as seguintes entidades atualmente existentes:\n\na) Instituto de Seguros de Portugal;\n\nb) Comissão do Mercado de Valores Mobiliários;\n\nc) Autoridade da Concorrência;\n\nd) Entidade Reguladora dos Serviços Energéticos;\n\ne) Autoridade Nacional de Comunicações (ICP - ANACOM) que será objeto de redenominação nos termos do artigo seguinte;\n\nf) Instituto Nacional de Aviação Civil, I. P. (INAC, I. P.), que será objeto de redenominação nos termos do artigo seguinte;\n\ng) Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres, fluviais e marítimos, que será objeto de reestruturação nos termos do artigo seguinte;\n\nh) Entidade Reguladora dos Serviços de Águas e Resíduos;\n\ni) Entidade Reguladora da Saúde.\n\n4 - A lei-quadro em anexo à presente lei não se aplica ao Banco de Portugal e à Entidade Reguladora para a Comunicação Social, que se regem por legislação própria.\n\n5 - Até à entrada em vigor dos diplomas a que se refere o n.º 1, as entidades reguladoras atualmente existentes continuam a reger-se pelas disposições e atos normativos, regulamentares e administrativos que lhes são aplicáveis.\n\n6 - A remuneração dos membros do conselho de administração, dos trabalhadores e os pagamentos efetuados a prestadores de serviços de entidades reguladoras acompanham a alteração geral anual que vier a ser aplicada, de modo transversal, à globalidade das entidades públicas."
+  },
+  "106928770": {
+   "fragment_id": "106955830",
+   "type": 11,
+   "heading": "Artigo 4.º — Reestruturação e redenominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reestruturação e redenominação\n\n1 - O IMT, I. P., é reestruturado, sucedendo-lhe a Autoridade da Mobilidade e dos Transportes nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres, fluviais e marítimos.\n\n2 - A reestruturação prevista no número anterior é realizada por decreto-lei, observando-se o disposto no Decreto-Lei n.º 200/2006, de 25 de outubro, e na Lei n.º 53/2006, de 7 de dezembro.\n\n3 - São objeto de redenominação o ICP - ANACOM e o INAC, I. P., que passam a designar-se Autoridade Nacional de Comunicações e Autoridade Nacional da Aviação Civil, respetivamente.\n\n4 - As reestruturações e redenominações produzem efeitos com a entrada em vigor dos estatutos respetivos."
+  },
+  "106928771": {
+   "fragment_id": "106955831",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - A entrada em vigor da presente lei ou dos diplomas a que se refere o n.º 1 do artigo 3.º não implica a cessação dos mandatos em curso.\n\n2 - Relativamente aos titulares dos órgãos das entidades reguladoras que tenham sido designados ou providos definitivamente, os mandatos mantêm a duração inicialmente definida, sem possibilidade de renovação.\n\n3 - As incompatibilidades ou impedimentos estabelecidos na lei-quadro das entidades reguladoras, em anexo à presente lei, aplicam-se aos titulares dos órgãos das entidades reguladoras que venham a ser designados ao abrigo da lei-quadro.\n\n4 - Os trabalhadores ou titulares de cargos de direção ou equiparados das entidades reguladoras relativamente aos quais se verifiquem incompatibilidades ou impedimentos em resultado das alterações introduzidas pela lei-quadro das entidades reguladoras, em anexo à presente lei, devem pôr termo a essas situações, no prazo máximo de seis meses a contar da entrada em vigor da presente lei, ou fazer cessar os respetivos vínculos com as entidades reguladoras.\n\n5 - As alterações introduzidas pela lei-quadro das entidades reguladoras, em anexo à presente lei, ao estatuto remuneratório dos titulares dos respetivos órgãos, já designados ou a designar, produzem efeitos no mês seguinte ao da determinação das remunerações nos termos do artigo 25.º da referida lei-quadro.\n\n6 - Em relação aos atuais titulares dos órgãos das entidades reguladoras e que se encontrem em exercício de funções, da aplicação da regra prevista no número anterior não pode resultar, durante a vigência do Programa de Ajustamento Económico e Financeiro ou até à conclusão do respetivo mandato se for posterior, um aumento de qualquer das componentes da remuneração auferida à data da entrada em vigor da presente lei."
+  },
+  "106928773": {
+   "fragment_id": "106955833",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nLEI-QUADRO DAS ENTIDADES REGULADORAS"
+  },
+  "106928774": {
+   "fragment_id": "106955834",
+   "type": 13,
+   "heading": "Título I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Objeto e âmbito de aplicação"
+  },
+  "106958675": {
+   "fragment_id": "106955835",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei-quadro estabelece os princípios e as normas por que se regem as entidades administrativas independentes com funções de regulação e de promoção e defesa da concorrência respeitantes às atividades económicas dos setores privado, público, cooperativo e social, doravante e para efeitos da presente lei-quadro designadas por entidades reguladoras.\n\n2 - As normas constantes da presente lei-quadro são de aplicação imperativa sobre as normas especiais atualmente em vigor, salvo na medida em que o contrário resulte do direito da União Europeia e do Regime Jurídico da Concorrência ou expressamente da presente lei-quadro."
+  },
+  "106958676": {
+   "fragment_id": "106955836",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei-quadro é aplicável às entidades reguladoras definidas como tal por lei.\n\n2 - O disposto na presente lei-quadro não se aplica quando exista norma de direito da União Europeia ou internacional que disponha em sentido contrário e seja aplicável à entidade reguladora e respetiva atividade, devendo nesse caso os estatutos da entidade refletir essa especificidade.\n\n3 - A presente lei-quadro não se aplica ao Banco de Portugal e à Entidade Reguladora para a Comunicação Social, que se regem por legislação própria."
+  },
+  "106958677": {
+   "fragment_id": "106955837",
+   "type": 13,
+   "heading": "Título II — Princípios e regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Princípios e regras gerais"
+  },
+  "106958678": {
+   "fragment_id": "106955838",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza e requisitos\n\n1 - As entidades reguladoras são pessoas coletivas de direito público, com a natureza de entidades administrativas independentes, com atribuições em matéria de regulação da atividade económica, de defesa dos serviços de interesse geral, de proteção dos direitos e interesses dos consumidores e de promoção e defesa da concorrência dos setores privado, público, cooperativo e social.\n\n2 - Por forma a prosseguirem as suas atribuições com independência, as entidades reguladoras devem observar os requisitos seguintes:\n\na) Dispor de autonomia administrativa e financeira;\n\nb) Dispor de autonomia de gestão;\n\nc) Possuir independência orgânica, funcional e técnica;\n\nd) Possuir órgãos, serviços, pessoal e património próprio;\n\ne) Ter poderes de regulação, de regulamentação, de supervisão, de fiscalização e de sanção de infrações;\n\nf) Garantir a proteção dos direitos e interesses dos consumidores."
+  },
+  "106958679": {
+   "fragment_id": "106955839",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de gestão\n\n1 - As entidades reguladoras devem observar os seguintes princípios de gestão:\n\na) Exercício da respetiva atividade de acordo com elevados padrões de qualidade;\n\nb) Garantia de eficiência económica no que se refere à sua gestão e soluções adotadas nas suas atividades;\n\nc) Gestão por objetivos devidamente determinados e quantificados e avaliação periódica em função dos resultados;\n\nd) Transparência na atuação através da discussão pública de projetos de documentos que contenham normas regulamentares e da disponibilização pública de documentação relevante sobre as suas atividades e funcionamento com impacto sobre os consumidores e entidades reguladas, incluindo sobre o custo da sua atividade para o setor regulado;\n\ne) Respeito dos princípios da prévia cabimentação e programação da realização das despesas subjacentes à assunção de compromissos e aos pagamentos em atraso das entidades públicas.\n\n2 - Quanto à sua gestão financeira e patrimonial as entidades reguladoras regem-se segundo o disposto na presente lei-quadro, nos respetivos estatutos e, supletivamente, pelo regime jurídico aplicável às entidades públicas empresariais.\n\n3 - Os órgãos das entidades reguladoras asseguram que os recursos de que dispõem são administrados de forma eficiente e sem desperdícios, devendo sempre adotar ou propor as soluções organizativas e os métodos de atuação que representem o menor custo na prossecução eficaz das atribuições públicas a seu cargo.\n\n4 - As entidades reguladoras não podem criar ou participar na criação de entidades de direito privado com fins lucrativos, nem adquirir participações em tais entidades."
+  },
+  "106958680": {
+   "fragment_id": "106955840",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime jurídico\n\n1 - As entidades reguladoras regem-se pelas normas constantes da presente lei-quadro, pela legislação setorial aplicável, pelos respetivos estatutos e regulamentos internos.\n\n2 - Sem prejuízo do disposto no número anterior e no regime jurídico da concorrência, são subsidiariamente aplicáveis, no âmbito do exercício de poderes públicos:\n\na) O Código do Procedimento Administrativo e quaisquer outras normas e princípios de âmbito geral respeitantes aos atos administrativos do Estado;\n\nb) As leis do contencioso administrativo, quando estejam em causa atos praticados no exercício de funções públicas de autoridade e contratos de natureza administrativa.\n\n3 - São ainda aplicáveis às entidades reguladoras, designadamente:\n\na) O regime da contratação pública;\n\nb) O regime da responsabilidade civil do Estado;\n\nc) Os deveres de informação decorrentes do Sistema de Informação da Organização do Estado (SIOE);\n\nd) O regime de jurisdição e controlo financeiro do Tribunal de Contas;\n\ne) O regime de inspeção e auditoria dos serviços do Estado."
+  },
+  "106958681": {
+   "fragment_id": "106955841",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processo de criação\n\n1 - As entidades reguladoras só podem ser criadas para a prossecução de atribuições de regulação de atividades económicas que recomendem, face à necessidade de independência no seu desenvolvimento, a não submissão à direção do Governo.\n\n2 - As entidades reguladoras não podem ser criadas para:\n\na) Desenvolver atividades que, nos termos da Constituição, devam ser desempenhadas por serviços e organismos da administração direta ou indireta do Estado;\n\nb) Participar, direta ou indiretamente, como operadores nas atividades reguladas ou estabelecer quaisquer parcerias com destinatários da respetiva atividade.\n\n3 - A criação de entidades reguladoras obedece cumulativamente à verificação dos requisitos constantes do n.º 2 do artigo 3.º e dos seguintes:\n\na) Necessidade efetiva e interesse público na criação de uma nova pessoa coletiva para prossecução dos objetivos visados;\n\nb) Necessidade de independência para a prossecução das atribuições em causa;\n\nc) Capacidade de assegurar condições financeiras de autossuficiência.\n\n4 - A criação de entidades reguladoras é sempre precedida de estudo prévio sobre a necessidade e interesse público na sua criação, que avalia ainda as implicações financeiras e de funcionamento para o Estado, os efeitos sobre as atividades económicas dos setores privado, público, cooperativo e social em que vai atuar e consequências para os respetivos consumidores, bem como outras matérias que sejam consideradas relevantes ou definidas enquanto tal.\n\n5 - Os requisitos previstos no n.º 3 não se aplicam às entidades reguladoras cuja criação é determinada por direito da União Europeia, sendo a sua criação sempre precedida de estudo prévio que avalia as implicações financeiras e de funcionamento para o Estado, bem como outras matérias que sejam consideradas relevantes ou definidas enquanto tal."
+  },
+  "106958682": {
+   "fragment_id": "106955842",
+   "type": 11,
+   "heading": "Artigo 7.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Criação\n\n1 - As entidades reguladoras são criadas por lei.\n\n2 - As atividades económicas e setores sobre os quais atuam as entidades reguladoras são definidos nos respetivos diplomas de criação.\n\n3 - Cabe ao Governo definir e aprovar por decreto-lei os estatutos da entidade reguladora, os quais devem conter os seguintes elementos:\n\na) Designação e sede;\n\nb) Missão, atribuições e âmbito dos setores e das atividades económicas reguladas;\n\nc) Poderes de regulação, de regulamentação, de supervisão, de fiscalização e de sanção de infrações;\n\nd) Órgãos, composição, respetivas competências e forma de vinculação;\n\ne) Meios patrimoniais e financeiros atribuídos, incluindo o modelo de financiamento e todas as fontes de financiamento suportadas pelos destinatários da respetiva atividade;\n\nf) Outras disposições legais de caráter especial que se revelem necessárias sobre matérias não reguladas na presente lei-quadro e nos demais diplomas legais aplicáveis à entidade reguladora."
+  },
+  "106958683": {
+   "fragment_id": "106955843",
+   "type": 11,
+   "heading": "Artigo 8.º — Extinção, fusão ou cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Extinção, fusão ou cisão\n\n1 - A extinção, fusão ou cisão de entidades reguladoras são reguladas por lei, a qual em caso de extinção determina ainda, os termos da liquidação e da reafetação do seu pessoal.\n\n2 - As entidades reguladoras devem ser extintas quando se verifique que não subsistem as razões que ditaram a sua criação ou se tenha tornado impossível o desempenho da missão ou prossecução das atribuições para as quais tenham sido criadas.\n\n3 - A extinção de entidades reguladoras é precedida de estudo prévio para os efeitos previstos no número anterior."
+  },
+  "106958684": {
+   "fragment_id": "106955844",
+   "type": 11,
+   "heading": "Artigo 9.º — Ministério responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ministério responsável\n\n1 - Sem prejuízo da sua independência, cada entidade reguladora está adstrita a um ministério, abreviadamente designado como ministério responsável, em cuja lei orgânica deve ser referida.\n\n2 - A entidade reguladora considera-se adstrita ao ministério cujo membro do Governo seja o responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora."
+  },
+  "106958685": {
+   "fragment_id": "106955845",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos e funcionamento\n\n1 - As disposições relativas aos órgãos das entidades reguladoras e ao seu funcionamento constam dos respetivos estatutos.\n\n2 - Sem prejuízo do disposto no número anterior, as entidades reguladoras estabelecem, nos respetivos regulamentos internos, regras sobre as seguintes matérias:\n\na) A organização e disciplina do trabalho;\n\nb) O regime do pessoal, incluindo avaliação de desempenho e mérito;\n\nc) O regime de carreiras;\n\nd) O estatuto remuneratório do pessoal;\n\ne) O regime de proteção social aplicável ao pessoal."
+  },
+  "106958686": {
+   "fragment_id": "106955846",
+   "type": 11,
+   "heading": "Artigo 11.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação\n\n1 - As entidades reguladoras estabelecem formas de cooperação e associação com outras entidades de direito público ou privado, nomeadamente com outras entidades reguladoras, a nível comunitário ou internacional, quando isso se mostre necessário ou conveniente para a prossecução das respetivas atribuições.\n\n2 - As entidades reguladoras estabelecem, entre si, formas de cooperação e associação nas matérias referentes ao exercício de funções e nos assuntos de interesse comum, respeitando sempre as atribuições, bem como os poderes regulatórios e sancionatórios próprios.\n\n3 - As entidades reguladoras devem cooperar e colaborar com a entidade reguladora com competência para a aplicação das regras de defesa da concorrência nos termos do regime jurídico da concorrência, sem prejuízo do estabelecimento, por protocolo, entre aquela, as demais entidades reguladoras e outras entidades públicas relevantes, de outras formas de cooperação que se revelem adequadas a garantir a sua aplicação."
+  },
+  "106958687": {
+   "fragment_id": "106955847",
+   "type": 11,
+   "heading": "Artigo 12.º — Princípio da especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Princípio da especialidade\n\n1 - Sem prejuízo da observância do princípio da legalidade no domínio da gestão pública, e salvo disposição expressa em contrário, a capacidade jurídica das entidades reguladoras abrange a prática de todos os atos jurídicos, o gozo de todos os direitos e a sujeição a todas as obrigações necessárias à prossecução das suas atribuições.\n\n2 - As entidades reguladoras podem exercer funções de apoio técnico e consulta à Assembleia da República e ao Governo, nos termos definidos nos respetivos estatutos.\n\n3 - As entidades reguladoras não podem exercer atividades ou usar os seus poderes fora das suas atribuições nem dedicar os seus recursos a finalidades diversas das que lhes tenham sido cometidas.\n\n4 - As entidades reguladoras não podem garantir a terceiros o cumprimento de obrigações de outras pessoas jurídicas, públicas ou privadas."
+  },
+  "106958688": {
+   "fragment_id": "106955848",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito e organização territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Âmbito e organização territorial\n\n1 - As entidades reguladoras têm âmbito nacional, sem prejuízo do disposto nos Estatutos Político-Administrativos das regiões autónomas.\n\n2 - As entidades reguladoras podem dispor de serviços territorialmente desconcentrados, sempre que tal se justifique, nos termos previstos nos respetivos estatutos.\n\n3 - Os estatutos das entidades reguladoras podem determinar o alargamento do seu âmbito para além do disposto no n.º 1."
+  },
+  "106958689": {
+   "fragment_id": "106955849",
+   "type": 11,
+   "heading": "Artigo 14.º — Diligência e sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Diligência e sigilo\n\nOs titulares dos órgãos das entidades reguladoras, bem como o pessoal e os prestadores de serviços e seus colaboradores, estão sujeitos aos deveres de diligência e sigilo sobre todos os assuntos que lhes sejam confiados ou de que tenham conhecimento por causa do exercício das suas funções."
+  },
+  "106958690": {
+   "fragment_id": "106955850",
+   "type": 13,
+   "heading": "Título III — Organização, serviços e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Organização, serviços e gestão"
+  },
+  "106958691": {
+   "fragment_id": "106955851",
+   "type": 1,
+   "heading": "Capítulo I — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Organização"
+  },
+  "106958692": {
+   "fragment_id": "106955852",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "106958693": {
+   "fragment_id": "106955853",
+   "type": 11,
+   "heading": "Artigo 15.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Órgãos\n\n1 - São órgãos obrigatórios das entidades reguladoras:\n\na) O conselho de administração;\n\nb) A comissão de fiscalização ou fiscal único.\n\n2 - Os estatutos de cada entidade reguladora podem prever outros órgãos de natureza consultiva, de regulação tarifária ou de participação dos destinatários da respetiva atividade.\n\n3 - O exercício dos cargos nos órgãos previstos no número anterior pode ser remunerado, nos termos dos respetivos estatutos, exclusivamente através de senhas de presença, em valor a definir no regulamento interno da entidade reguladora, o qual não pode ultrapassar o limite de dois abonos correspondentes ao valor do abono de ajudas de custo atribuídas pela entidade reguladora por deslocação em território nacional."
+  },
+  "106958694": {
+   "fragment_id": "106955854",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "106958695": {
+   "fragment_id": "106955855",
+   "type": 11,
+   "heading": "Artigo 16.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Função\n\nO conselho de administração é o órgão colegial responsável pela definição da atuação da entidade reguladora, bem como pela direção dos respetivos serviços."
+  },
+  "106958696": {
+   "fragment_id": "106955856",
+   "type": 11,
+   "heading": "Artigo 17.º — Composição e designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Composição e designação\n\n1 - O conselho de administração é um órgão composto por um presidente e até três vogais, podendo ter ainda um vice-presidente, devendo ser assegurado, na sua composição, um número ímpar de membros.\n\n2 - Os membros do conselho de administração são escolhidos de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, competindo a sua indicação ao membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora.\n\n3 - Os membros do conselho de administração são designados por resolução do Conselho de Ministros, após audição da comissão competente da Assembleia da República, a pedido do Governo que deve ser acompanhado de parecer da Comissão de Recrutamento e Seleção da Administração Pública relativa à adequação do perfil do indivíduo às funções a desempenhar, incluindo o cumprimento das regras de incompatibilidade e impedimento aplicáveis.\n\n4 - A Assembleia da República, através da comissão competente, elabora e aprova relatório referente à audição a que se refere o número anterior, de que dá conhecimento ao Governo.\n\n5 - A resolução de designação, devidamente fundamentada, é publicada no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional dos designados.\n\n6 - Em caso de designação simultânea de dois ou mais membros do conselho de administração, o termo dos respetivos mandatos não pode coincidir, devendo divergir entre eles pelo menos seis meses, através, se necessário, da limitação da duração de um ou mais mandatos.\n\n7 - Não pode ocorrer a designação ou proposta de designação entre a convocação de eleições para a Assembleia da República ou a demissão do Governo e a investidura parlamentar do Governo recém-designado, salvo se se verificar a vacatura dos cargos em causa e a urgência da designação, caso em que as referidas designação ou proposta de designação de que não tenha ainda resultado designação dependem de confirmação pelo Governo recém-designado.\n\n8 - O provimento do presidente do conselho de administração deve garantir a alternância de género e o provimento dos vogais deve assegurar a representação mínima de 33 % de cada género."
+  },
+  "106958697": {
+   "fragment_id": "106955857",
+   "type": 11,
+   "heading": "Artigo 18.º — Dever de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Dever de reserva\n\n1 - Os membros do conselho de administração não podem fazer declarações ou comentários sobre processos em curso ou questões concretas relativas a entidades sobre os quais atua a respetiva entidade reguladora, salvo para defesa da honra ou para a realização de outro interesse legítimo.\n\n2 - Não são abrangidas pelo dever de reserva as declarações relativas a processos já concluídos, bem como a prestação de informações que visem a realização de direitos ou interesses legítimos, nomeadamente o do acesso à informação."
+  },
+  "106958698": {
+   "fragment_id": "106955858",
+   "type": 11,
+   "heading": "Artigo 19.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Incompatibilidades e impedimentos\n\n1 - Os membros do conselho de administração exercem as suas funções em regime de exclusividade não podendo, designadamente:\n\na) Ser titulares de órgãos de soberania, das regiões autónomas ou do poder local, nem desempenhar quaisquer outras funções públicas ou profissionais, salvo funções docentes ou de investigação, desde que não remuneradas;\n\nb) Manter, direta ou indiretamente, qualquer vínculo ou relação contratual, remunerada ou não, com empresas, grupos de empresas ou outras entidades destinatárias da atividade da entidade reguladora ou deter quaisquer participações sociais ou interesses nas mesmas;\n\nc) Manter, direta ou indiretamente, qualquer vínculo ou relação contratual, remunerada ou não, com outras entidades cuja atividade possa colidir com as suas atribuições e competências.\n\n2 - Depois da cessação do seu mandato e durante um período de dois anos os membros do conselho de administração não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da respetiva entidade reguladora, tendo direito no referido período a uma compensação equivalente a 1/2 do vencimento mensal.\n\n3 - No caso da entidade reguladora com competência para a aplicação das regras de defesa da concorrência, a proibição prevista no número anterior respeita às empresas ou entidades que tenham tido intervenção em processos ou sido destinatárias de atos, decisões ou deliberações daquela entidade, durante o período em que os membros do conselho de administração em causa tenham exercido funções.\n\n4 - No caso da entidade reguladora com competência na área da saúde, para efeitos do disposto na alínea b) do n.º 1, os profissionais do sistema nacional de saúde devem suspender o respetivo vínculo ou relação contratual, não lhes sendo aplicável o disposto no n.º 2 quando regressem ao lugar de origem.\n\n5 - A compensação prevista no n.º 2 não é atribuída nas seguintes situações:\n\na) Se e enquanto o membro do conselho de administração desempenhar qualquer outra função ou atividade remunerada;\n\nb) Quando o membro do conselho de administração tenha direito a pensão de reforma ou de aposentação e opte por esta; ou\n\nc) Nos casos em que o mandato do membro do conselho de administração cesse por outro motivo que não o decurso do respetivo prazo.\n\n6 - Em caso de incumprimento do disposto nos n.os 2 e 3, o membro do conselho de administração fica obrigado à devolução do montante equivalente a todas as remunerações líquidas auferidas durante o período em que exerceu funções, bem como da totalidade das compensações líquidas recebidas nos termos do n.º 2, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I. P.\n\n7 - Os estatutos de cada entidade reguladora podem acrescer, nos termos da lei e dos atos de direito da União Europeia aplicáveis, outras incompatibilidades e outros impedimentos aplicáveis aos membros do conselho de administração.\n\n8 - Em tudo o que não esteja especificamente regulado na presente lei-quadro e nos estatutos da entidade reguladora, os membros do conselho de administração ficam sujeitos ao regime de incompatibilidades e impedimentos estabelecido para os titulares de altos cargos públicos."
+  },
+  "106958699": {
+   "fragment_id": "106955859",
+   "type": 11,
+   "heading": "Artigo 20.º — Duração e cessação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Duração e cessação do mandato\n\n1 - O mandato dos membros do conselho de administração tem a duração de seis anos, não sendo renovável, sem prejuízo do disposto no número seguinte.\n\n2 - Os membros do conselho de administração podem ser providos nos órgãos da respetiva entidade reguladora decorridos seis anos após a cessação do mandato anterior.\n\n3 - O mandato dos membros do conselho de administração cessa pelo decurso do respetivo prazo e ainda por:\n\na) Morte ou incapacidade física ou psíquica permanente ou com uma duração que se preveja ultrapassar a data do termo da comissão de serviço ou do período para o qual foram designados;\n\nb) Renúncia, através de declaração escrita apresentada ao membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora;\n\nc) Incompatibilidade superveniente;\n\nd) Condenação, por sentença transitada em julgado, em crime doloso que ponha em causa a idoneidade para o exercício do cargo;\n\ne) Cumprimento de pena de prisão;\n\nf) Dissolução do conselho de administração ou destituição dos seus membros nos termos dos n.os 4 e 5;\n\ng) A extinção da entidade reguladora.\n\n4 - A dissolução do conselho de administração e a destituição de qualquer dos seus membros só pode ocorrer mediante resolução do Conselho de Ministros fundamentada em motivo justificado.\n\n5 - Para efeitos do disposto no número anterior, entende-se que existe motivo justificado sempre que se verifique falta grave, responsabilidade individual ou coletiva, apurada em inquérito devidamente instruído, por entidade independente do Governo, e precedendo parecer do conselho consultivo, quando exista, da entidade reguladora em causa, e da audição da comissão parlamentar competente, nomeadamente em caso de:\n\na) Desrespeito grave ou reiterado das normas legais e estatutos, designadamente o não cumprimento das obrigações de transparência e informação no que respeita à atividade da entidade reguladora, bem como dos regulamentos e orientações da entidade reguladora;\n\nb) Incumprimento do dever de exercício de funções em regime de exclusividade ou violação grave ou reiterada do dever de reserva;\n\nc) Incumprimento substancial e injustificado do plano de atividades ou do orçamento da entidade reguladora.\n\n6 - Nas situações de cessação do mandato pelo decurso do respetivo prazo e renúncia, os membros do conselho de administração mantêm-se no exercício das suas funções até à sua efetiva substituição.\n\n7 - No caso de vacatura por um dos motivos previstos nos números anteriores, a vaga é preenchida no prazo máximo de 45 dias após a sua verificação."
+  },
+  "106958700": {
+   "fragment_id": "106955860",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência\n\n1 - Compete ao conselho de administração, no âmbito da orientação e gestão da entidade reguladora:\n\na) Dirigir a respetiva atividade;\n\nb) Definir e aprovar a organização interna da respetiva entidade;\n\nc) Elaborar os planos e relatórios a submeter anualmente à Assembleia da República e ao Governo e assegurar a respetiva execução;\n\nd) Acompanhar e avaliar sistematicamente a atividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização eficiente dos meios postos à sua disposição e pelos resultados atingidos;\n\ne) Elaborar o relatório de atividades;\n\nf) Elaborar o balanço social, nos termos da lei aplicável;\n\ng) Exercer os poderes de direção, gestão e disciplina do pessoal;\n\nh) Praticar atos respeitantes ao pessoal que estejam previstos na lei e nos estatutos;\n\ni) Aprovar os regulamentos previstos nos estatutos e os que sejam necessários ao desempenho das atribuições da entidade reguladora;\n\nj) Praticar os demais atos de gestão decorrentes da aplicação da lei e dos estatutos e necessários ao bom funcionamento dos serviços;\n\nk) Designar os representantes da entidade reguladora junto de outras entidades;\n\nl) Exercer funções de consulta à Assembleia da República nos termos dos estatutos e prestar informações e esclarecimentos sobre a respetiva atividade ao abrigo do artigo 49.º;\n\nm) Coadjuvar o Governo através de apoio técnico, elaboração de pareceres, estudos, informações e projetos de legislação;\n\nn) Assegurar a representação da entidade reguladora e, a pedido do Governo, do Estado em organismos e fóruns nacionais e internacionais no âmbito das relações com entidades nacionais e internacionais congéneres ou com relevância para a respetiva atividade;\n\no) Constituir mandatários da entidade reguladora, em juízo e fora dele, incluindo a faculdade de substabelecer;\n\np) Designar um secretário a quem cabe certificar os atos e deliberações;\n\nq) Exercer as demais competências fixadas nos estatutos da entidade reguladora.\n\n2 - Compete ao conselho de administração, no domínio da gestão financeira e patrimonial:\n\na) Elaborar o orçamento anual e assegurar a respetiva execução;\n\nb) Arrecadar e gerir as receitas e autorizar as despesas necessárias ao seu funcionamento;\n\nc) Elaborar o relatório e contas do exercício;\n\nd) Gerir o património;\n\ne) Aceitar doações, heranças ou legados a benefício de inventário;\n\nf) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;\n\ng) Exercer os demais poderes previstos na lei e nos estatutos e que não estejam atribuídos a outro órgão;\n\nh) Exercer as demais competências fixadas nos estatutos da entidade reguladora.\n\n3 - As entidades reguladoras são representadas, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho de administração, por dois dos seus membros ou por mandatários especialmente designados por eles.\n\n4 - Sem prejuízo do disposto na alínea o) do n.º 1, o conselho de administração pode sempre optar por solicitar o apoio e a representação em juízo por parte do Ministério Público, ao qual compete, nesse caso, defender os interesses da entidade reguladora.\n\n5 - Os atos praticados pelo conselho de administração são impugnáveis junto dos tribunais competentes, nos termos da lei.\n\n6 - O conselho de administração pode delegar competências em qualquer um dos seus membros."
+  },
+  "106958701": {
+   "fragment_id": "106955861",
+   "type": 11,
+   "heading": "Artigo 22.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Funcionamento\n\n1 - O conselho de administração reúne pelo menos uma vez por semana e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n2 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n3 - A ata das reuniões deve ser assinada por todos os membros presentes, podendo os membros discordantes do teor das deliberações tomadas exarar na ata as respetivas declarações de voto."
+  },
+  "106958702": {
+   "fragment_id": "106955862",
+   "type": 11,
+   "heading": "Artigo 23.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência do presidente\n\n1 - Compete, em especial, ao presidente do conselho de administração:\n\na) Presidir às reuniões, orientar os seus trabalhos e assegurar o cumprimento das respetivas deliberações;\n\nb) Assegurar as relações com a Assembleia da República, o Governo e os demais serviços e organismos públicos;\n\nc) Solicitar pareceres à comissão de fiscalização ou ao fiscal único e, quando existam, aos órgãos consultivos;\n\nd) Exercer as competências que lhe sejam delegadas pelo conselho de administração;\n\ne) Exercer as demais competências fixadas nos estatutos da entidade reguladora.\n\n2 - O presidente pode delegar, ou subdelegar, competências no vice-presidente, quando exista, ou nos vogais.\n\n3 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente, quando exista, ou pelo vogal que ele indicar, e na sua falta pelo vogal mais antigo.\n\n4 - Sem prejuízo do disposto no n.º 4 do artigo 14.º do Código do Procedimento Administrativo, o presidente ou quem o substituir pode vetar as deliberações do conselho de administração que repute contrárias à lei, aos estatutos ou ao interesse público, devendo o veto ser objeto de uma declaração de voto fundamentada e lavrada na ata.\n\n5 - Nos casos previstos no número anterior, as deliberações só podem ser aprovadas após novo procedimento decisório, incluindo a audição das entidades que o presidente ou quem o substituir repute convenientes."
+  },
+  "106958703": {
+   "fragment_id": "106955863",
+   "type": 11,
+   "heading": "Artigo 24.º — Responsabilidade dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade dos membros\n\n1 - Os membros do conselho de administração são solidariamente responsáveis pelos atos praticados no exercício das suas funções.\n\n2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem votado contra, em declaração registada na respetiva ata, bem como os membros ausentes que tenham declarado por escrito o seu desacordo, que igualmente é registado na ata."
+  },
+  "106958704": {
+   "fragment_id": "106955864",
+   "type": 11,
+   "heading": "Artigo 25.º — Estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Estatuto dos membros\n\n1 - Aos membros do conselho de administração é aplicável o regime estatutário definido na presente lei-quadro.\n\n2 - A remuneração dos membros do conselho de administração integra um vencimento mensal e, para despesas de representação, um abono mensal pago 12 vezes ao ano, o qual não pode ultrapassar 40 % do respetivo vencimento mensal.\n\n3 - O vencimento mensal e o abono mensal para despesas de representação dos membros do conselho de administração são fixados pela comissão de vencimentos.\n\n4 - A fixação nos termos do número anterior do vencimento mensal e do abono mensal para despesas de representação dos membros do conselho de administração não tem efeitos retroativos nem deve ser alterada no curso do mandato, sem prejuízo das alterações de remuneração que se apliquem, de modo transversal, à globalidade das entidades públicas.\n\n5 - A utilização de cartões de crédito e outros instrumentos de pagamento, viaturas, comunicações, prémios, suplementos e gozo de benefícios sociais pelos membros do conselho de administração obedece ao disposto no Decreto-Lei n.º 71/2007, de 27 de março.\n\n6 - As situações de inerência de funções ou cargos por membros do conselho de administração em entidades ou outras estruturas relacionadas com as entidades reguladoras não conferem direito a qualquer remuneração adicional ou quaisquer outros benefícios e regalias."
+  },
+  "106958705": {
+   "fragment_id": "106955865",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão de vencimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comissão de vencimentos\n\n1 - Junto de cada entidade reguladora funciona uma comissão de vencimentos.\n\n2 - Cada comissão de vencimentos é composta por três membros, assim designados:\n\na) Um indicado pelo membro do Governo responsável pela área das finanças;\n\nb) Um indicado pelo membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora;\n\nc) Um terceiro indicado pela entidade reguladora, que tenha preferencialmente exercido cargo num dos órgãos obrigatórios da mesma, ou, na falta de tal indicação, cooptado pelos membros referidos nas alíneas anteriores.\n\n3 - Na determinação das remunerações a comissão de vencimentos deve observar os seguintes critérios:\n\na) A dimensão, a complexidade, a exigência e a responsabilidade inerentes às funções;\n\nb) O impacto no mercado regulado do regime de taxas, tarifas ou contribuições que a entidade reguladora estabelece ou aufere;\n\nc) As práticas habituais de mercado no setor de atividade da entidade reguladora;\n\nd) A conjuntura económica, a necessidade de ajustamento e de contenção remuneratória em que o País se encontre e o vencimento mensal do Primeiro-Ministro como valor de referência;\n\ne) Outros critérios que entenda adequados atendendo às especificidades do setor de atividade da entidade reguladora.\n\n4 - Os membros das comissões de vencimentos não são remunerados nem têm direito a qualquer outra vantagem ou regalia."
+  },
+  "106958706": {
+   "fragment_id": "106955866",
+   "type": 8,
+   "heading": "Secção III — Comissão de fiscalização e fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Comissão de fiscalização e fiscal único"
+  },
+  "106958707": {
+   "fragment_id": "106955867",
+   "type": 11,
+   "heading": "Artigo 27.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Função\n\nA comissão de fiscalização, ou o fiscal único, é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da entidade reguladora e de consulta do respetivo conselho de administração nesses domínios."
+  },
+  "106958708": {
+   "fragment_id": "106955868",
+   "type": 11,
+   "heading": "Artigo 28.º — Composição, designação, mandato e estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Composição, designação, mandato e estatuto\n\n1 - Quando exista, a comissão de fiscalização é composta por um presidente e dois vogais, sendo um dos vogais revisor oficial de contas.\n\n2 - O fiscal único é revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n3 - Os membros da comissão de fiscalização e o fiscal único são designados por despacho dos membros do Governo responsáveis pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora.\n\n4 - O mandato dos membros da comissão de fiscalização e do fiscal único tem a duração de quatro anos, não sendo renovável, sem prejuízo do disposto no número seguinte.\n\n5 - Os membros da comissão de fiscalização e o fiscal único podem ser providos nos órgãos da respetiva entidade reguladora decorridos quatro anos após a cessação de mandato anterior.\n\n6 - No caso de cessação do mandato, os membros da comissão de fiscalização e o fiscal único mantêm-se no exercício de funções até à efetiva substituição ou emissão de despacho de cessação de funções por parte do membro do Governo responsável pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora.\n\n7 - O presidente e o fiscal único, e os vogais da comissão de fiscalização, têm direito a um vencimento mensal, pago 12 vezes ao ano, no valor de 1/4 do vencimento mensal fixado para o presidente e vogais do conselho de administração, respetivamente.\n\n8 - É aplicável aos membros da comissão de fiscalização e ao fiscal único o disposto nas alíneas b) e c) do n.º 1 do artigo 19.º, não podendo ainda manter qualquer vínculo laboral com o Estado.\n\n9 - No caso da entidade reguladora com competência para a aplicação das regras de defesa da concorrência, os impedimentos dispostos nas alíneas b) e c) do n.º 1 do artigo 19.º apenas respeitam às empresas ou entidades com intervenção em processos ou destinatárias de atos, decisões ou deliberações daquela entidade, durante o período em que os membros da comissão de fiscalização e o fiscal único em causa exerçam funções.\n\n10 - Os estatutos de cada entidade reguladora podem definir outras incompatibilidades e outros impedimentos aplicáveis aos membros da comissão de fiscalização e ao fiscal único."
+  },
+  "106958709": {
+   "fragment_id": "106955869",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências\n\n1 - Compete à comissão de fiscalização ou ao fiscal único:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira, patrimonial e contabilística;\n\nb) Dar parecer sobre o orçamento e suas revisões e alterações, bem como sobre o plano de atividades na perspetiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório e contas do exercício, incluindo documentos de certificação legal de contas;\n\nd) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ne) Dar parecer sobre a aceitação de doações, heranças ou legados;\n\nf) Dar parecer sobre a contratação de empréstimos, quando a entidade reguladora esteja habilitada a fazê-lo;\n\ng) Manter o conselho de administração informado sobre os resultados das verificações e exames a que proceda;\n\nh) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\ni) Propor a realização de auditorias externas, quando isso se revelar necessário ou conveniente;\n\nj) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas ou outras entidades públicas encarregues da inspeção e auditoria dos serviços do Estado;\n\nk) Participar às entidades competentes as irregularidades que detete;\n\nl) Exercer as demais competências fixadas nos estatutos da entidade reguladora.\n\n2 - O prazo para elaboração dos pareceres referidos no número anterior é de 30 dias a contar da receção dos documentos a que respeitam, ressalvadas as situações de urgência imperiosa.\n\n3 - Para exercício da sua competência, a comissão de fiscalização e o fiscal único têm direito a:\n\na) Obter do conselho de administração todas as informações e esclarecimentos que considere necessários;\n\nb) Ter livre acesso a todos os serviços e à documentação da entidade reguladora, podendo requisitar a presença de responsáveis e solicitar os esclarecimentos que considere necessários;\n\nc) Promover a realização de reuniões com o conselho de administração para análise de questões compreendidas no âmbito das suas atribuições, sempre que a sua natureza ou importância o justifique;\n\nd) Tomar ou propor as demais providências que considere indispensáveis."
+  },
+  "106958710": {
+   "fragment_id": "106955870",
+   "type": 11,
+   "heading": "Artigo 30.º — Funcionamento da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Funcionamento da comissão de fiscalização\n\n1 - Quando exista, a comissão de fiscalização reúne pelo menos uma vez por mês e extraordinariamente sempre que o presidente a convoque, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n2 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n3 - A ata das reuniões deve ser assinada por todos os membros presentes, podendo os membros discordantes do teor das deliberações tomadas exarar na ata as respetivas declarações de voto."
+  },
+  "106958711": {
+   "fragment_id": "106955871",
+   "type": 1,
+   "heading": "Capítulo II — Serviços e trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Serviços e trabalhadores"
+  },
+  "106958712": {
+   "fragment_id": "106955872",
+   "type": 11,
+   "heading": "Artigo 31.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Serviços\n\nAs entidades reguladoras dispõem dos serviços indispensáveis à prossecução das suas atribuições."
+  },
+  "106958713": {
+   "fragment_id": "106955873",
+   "type": 11,
+   "heading": "Artigo 32.º — Trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Trabalhadores\n\n1 - Aos trabalhadores das entidades reguladoras é aplicado o regime do contrato individual de trabalho.\n\n2 - As entidades reguladoras podem ser partes em instrumentos de regulamentação coletiva do trabalho.\n\n3 - O recrutamento de trabalhadores segue procedimento de tipo concursal que, em qualquer caso, deve observar os seguintes princípios:\n\na) Publicitação da oferta de emprego na página eletrónica da entidade reguladora e na Bolsa de Emprego Público;\n\nb) Igualdade de condições e de oportunidades dos candidatos;\n\nc) Aplicação de métodos e critérios objetivos e detalhados de avaliação e seleção;\n\nd) Fundamentação da decisão tomada.\n\n4 - A adoção do regime do contrato individual de trabalho não dispensa os requisitos e as limitações decorrentes da prossecução do interesse público, nomeadamente os respeitantes a acumulações e incompatibilidades legalmente estabelecidos para os trabalhadores em funções públicas.\n\n5 - Ficam sujeitos ao disposto nas alíneas b) e c) do n.º 1 do artigo 19.º todos os trabalhadores das entidades reguladoras, bem como todos os prestadores de serviços relativamente aos quais possa existir conflito de interesses, designadamente quando se trate da prestação de serviços nas áreas jurídica e económico-financeira, cabendo ao conselho de administração aferir e acautelar a existência daquele conflito.\n\n6 - Nas situações de cessação de funções e durante um período de dois anos os titulares de cargos de direção ou equiparados das entidades reguladoras não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da respetiva entidade reguladora, ficando, em caso de incumprimento, obrigados à devolução de todas as remunerações líquidas auferidas, até ao máximo de três anos, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I. P.\n\n7 - No caso da entidade reguladora com competência para a aplicação das regras de defesa da concorrência, a proibição prevista no número anterior respeita às empresas ou entidades que tenham tido intervenção em processos ou sido destinatárias de atos, decisões ou deliberações daquela entidade, durante o período em que os titulares de cargos de direção ou equiparados em causa tenham exercido funções.\n\n8 - Ficam excluídas do disposto nos n.os 6 e 7 as situações de cessação de funções por caducidade de contrato de trabalho a termo, cessação de comissão de serviço quando regressem ao lugar de origem ou por iniciativa da entidade reguladora.\n\n9 - Os estatutos de cada entidade reguladora podem definir outras incompatibilidades e outros impedimentos aplicáveis aos trabalhadores e prestadores de serviços e aos titulares de cargos de direção ou equiparados."
+  },
+  "106958714": {
+   "fragment_id": "106955874",
+   "type": 1,
+   "heading": "Capítulo III — Gestão económico-financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão económico-financeira e patrimonial"
+  },
+  "106958715": {
+   "fragment_id": "106958775",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime orçamental e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime orçamental e financeiro\n\n1 - As entidades reguladoras dispõem, quanto à gestão financeira e patrimonial, da autonomia própria prevista na presente lei-quadro, no que se refere ao seu orçamento.\n\n2 - As regras da contabilidade pública e o regime dos fundos e serviços autónomos, nomeadamente as normas relativas à autorização de despesas, à transição e utilização dos resultados líquidos e às cativações de verbas, não são aplicáveis às entidades reguladoras, sem prejuízo do disposto no número seguinte.\n\n3 - Às verbas provenientes da utilização de bens do domínio público ou que dependam de dotações do Orçamento do Estado é aplicável o regime orçamental e financeiro dos serviços e fundos autónomos, designadamente em matéria de autorização de despesas, transição e utilização dos resultados líquidos e cativações de verbas."
+  },
+  "106958716": {
+   "fragment_id": "106958776",
+   "type": 11,
+   "heading": "Artigo 34.º — Contribuição, taxas e tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Contribuição, taxas e tarifas\n\n1 - As entidades reguladoras podem cobrar, nos termos dos respetivos estatutos, uma contribuição às empresas e outras entidades sujeitas aos seus poderes de regulação e de promoção e defesa da concorrência respeitantes à atividade económica dos setores privado, público, cooperativo e social.\n\n2 - As entidades reguladoras podem ainda cobrar, nos termos dos respetivos estatutos, taxas ou tarifas às empresas e outras entidades destinatárias da atividade da entidade reguladora e dos serviços prestados por esta, com exceção das situações a que se refere o n.º 4 do artigo 40.º\n\n3 - A incidência subjetiva e objetiva, o montante ou a alíquota, a periodicidade e, se for caso disso, as isenções e reduções, totais ou parciais, prazos de vigência e os limites máximos e mínimos da coleta da contribuição e de cada taxa ou tarifa a que se referem os números anteriores são fixados, ouvida a entidade reguladora, por portaria dos membros do Governo responsáveis pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora.\n\n4 - O disposto no número anterior não é aplicável sempre que a determinação de tarifas ou preços regulados seja atribuição da entidade reguladora, aplicando-se, nesse caso, o disposto nos estatutos e na legislação setorial aplicável.\n\n5 - Compete à entidade reguladora estabelecer por regulamento os modos e prazos de liquidação e cobrança das contribuições, taxas e tarifas.\n\n6 - A cobrança coerciva das contribuições, taxas e tarifas cuja obrigação de pagamento esteja estabelecida na lei segue o processo de execução fiscal, regulado pelo Código de Procedimento e de Processo Tributário, efetivando-se através dos serviços competentes de justiça fiscal sendo aquelas equiparadas a créditos do Estado.\n\n7 - Para os efeitos do disposto no número anterior, constitui título executivo bastante a certidão com valor de título executivo de acordo com o disposto no Código de Procedimento e de Processo Tributário."
+  },
+  "106958717": {
+   "fragment_id": "106958777",
+   "type": 11,
+   "heading": "Artigo 35.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Património\n\n1 - O património próprio das entidades reguladoras é constituído pelos bens, direitos e obrigações de conteúdo económico, afetos pelo Estado ou adquiridos pelas entidades reguladoras.\n\n2 - As entidades reguladoras regem-se pelos regimes jurídicos do património imobiliário público, dos bens móveis do Estado e do parque de veículos do Estado, relativamente aos bens que lhe tenham sido afetos pelo Estado, e pelo direito privado em relação aos demais bens.\n\n3 - Pelas obrigações da entidade reguladora responde apenas o seu património, mas os credores, uma vez executada a integralidade do património da mesma ou extinta a entidade reguladora, podem demandar o Estado para satisfação dos seus créditos.\n\n4 - Em caso de extinção, o património das entidades reguladoras e os bens sujeitos à sua administração revertem para o Estado, salvo quando se tratar de fusão ou cisão, caso em que o património e os bens podem reverter para a nova entidade reguladora ou ser-lhe afetos, desde que tal possibilidade esteja expressamente prevista no diploma legal que proceder à fusão ou cisão."
+  },
+  "106958718": {
+   "fragment_id": "106958778",
+   "type": 11,
+   "heading": "Artigo 36.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Receitas\n\n1 - As entidades reguladoras dispõem de receitas próprias.\n\n2 - Consideram-se receitas próprias das entidades reguladoras, nomeadamente:\n\na) As contribuições, taxas ou tarifas cobradas pelo exercício da atividade reguladora ou pelos serviços prestados ou pela remoção de um obstáculo jurídico;\n\nb) Os montantes das coimas aplicadas pelas infrações que lhes compete sancionar, nos termos previstos nos respetivos regimes sancionatórios;\n\nc) Outras contribuições, taxas ou tarifas legalmente impostas aos operadores sujeitos à sua regulação ou aos utilizadores finais;\n\nd) Supletivamente, as dotações do orçamento do Estado;\n\ne) Outras receitas definidas nos termos da lei ou dos estatutos.\n\n3 - Em casos excecionais, devidamente fundamentados, e mediante portaria dos membros do Governo responsáveis pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora, podem ser atribuídas receitas consignadas às entidades reguladoras.\n\n4 - As entidades reguladoras não podem recorrer ao crédito, salvo em circunstâncias excecionais expressamente previstas na lei de enquadramento orçamental ou autorização prévia dos membros do Governo responsáveis pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora."
+  },
+  "106958719": {
+   "fragment_id": "106958779",
+   "type": 11,
+   "heading": "Artigo 37.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Despesas\n\nConstituem despesas das entidades reguladoras as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "106958720": {
+   "fragment_id": "106958780",
+   "type": 11,
+   "heading": "Artigo 38.º — Contabilidade, contas e tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contabilidade, contas e tesouraria\n\n1 - As entidades reguladoras aplicam o Sistema de Normalização Contabilística.\n\n2 - A prestação de contas rege-se, fundamentalmente, pelo disposto na Lei de Organização e Processo do Tribunal de Contas e respetivas disposições regulamentares.\n\n3 - Às entidades reguladoras é aplicável o regime da Tesouraria do Estado e, em particular, o princípio e as regras da unidade de tesouraria.\n\n4 - A entidade reguladora elabora e atualiza, anualmente, o respetivo inventário de bens imóveis, nos termos do regime jurídico do património imobiliário público.\n\n5 - Salvo quando sejam provenientes da utilização de bens do domínio público ou tenham origem em transferências do Orçamento do Estado, casos em que para este podem reverter, os resultados líquidos das entidades reguladoras transitam para o ano seguinte, podendo ser utilizados, designadamente, em benefício dos consumidores ou do setor regulado, nos termos a definir nos estatutos de cada entidade reguladora."
+  },
+  "106958721": {
+   "fragment_id": "106958781",
+   "type": 11,
+   "heading": "Artigo 39.º — Sistema de indicadores de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Sistema de indicadores de desempenho\n\n1 - As entidades reguladoras devem utilizar um sistema coerente de indicadores de desempenho, que reflita o conjunto das atividades prosseguidas e dos resultados obtidos.\n\n2 - O sistema deve englobar indicadores de eficiência, eficácia e qualidade.\n\n3 - Compete à comissão de fiscalização ou ao fiscal único aferir a qualidade dos sistemas de indicadores de desempenho, bem como avaliar, anualmente, os resultados obtidos pela entidade reguladora em função dos meios disponíveis, cujas conclusões são reportadas aos membros do Governo responsáveis pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora."
+  },
+  "106958722": {
+   "fragment_id": "106958782",
+   "type": 1,
+   "heading": "Capítulo IV — Poderes e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Poderes e procedimentos"
+  },
+  "106958723": {
+   "fragment_id": "106958783",
+   "type": 11,
+   "heading": "Artigo 40.º — Poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Poderes\n\n1 - Nos termos e limites dos respetivos estatutos, compete às entidades reguladoras no exercício dos seus poderes de regulação, de supervisão, de fiscalização e de sanção de infrações respeitantes às atividades económicas dos setores privado, público, cooperativo e social, designadamente:\n\na) Fazer cumprir as leis, os regulamentos e os atos de direito da União Europeia aplicáveis;\n\nb) Fixar ou colaborar na fixação de taxas, tarifas e preços a praticar no respetivo setor regulado;\n\nc) Fixar as regras de acesso à atividade económica regulada, nos casos e nos termos previstos na lei;\n\nd) Assegurar, nas atividades baseadas em redes, o acesso equitativo e não discriminatório às mesmas por parte dos vários operadores, nos termos previstos na lei;\n\ne) Garantir, nas atividades que prestam «serviços de interesse geral», as competentes «obrigações de serviço público» ou «obrigações de serviço universal»;\n\nf) Implementar as leis e demais regulamentos aplicáveis ao respetivo setor de atividade;\n\ng) Verificar o cumprimento de deveres legais ou regulamentares a que se encontram sujeitos os destinatários das suas atividades;\n\nh) Verificar o cumprimento de qualquer orientação ou determinação emitida pela entidade reguladora ou de qualquer outra obrigação relacionada com o respetivo setor de atividade;\n\ni) Emitir ordens e instruções, conceder autorizações e aprovações ou homologações nos casos legalmente previstos.\n\n2 - Nos termos e limites dos respetivos estatutos, compete ainda às entidades reguladoras no exercício dos seus poderes de regulamentação, designadamente:\n\na) Elaborar e aprovar regulamentos e outras normas de caráter geral, instruções ou outras normas de caráter particular referidas a interesses, obrigações ou direitos das entidades ou atividades reguladas ou dos seus utilizadores;\n\nb) Emitir recomendações e diretivas genéricas;\n\nc) Propor e homologar códigos de conduta e manuais de boas práticas dos destinatários da respetiva atividade;\n\nd) Pronunciarem-se, a pedido da Assembleia da República ou do Governo, sobre iniciativas legislativas ou outras relativas à regulação do respetivo setor de atividade;\n\ne) Formular sugestões com vista à criação ou revisão do quadro legal e regulatório.\n\n3 - Nos termos e limites dos respetivos estatutos ou do regime sancionatório aplicável, compete às entidades reguladoras no exercício dos seus poderes em matéria de inspeção e auditoria, de fiscalização e sancionatórios, designadamente:\n\na) Fiscalizar e auditar a aplicação das leis e regulamentos, e demais normas aplicáveis, bem como as obrigações contraídas pelos concessionários ou prestadores de serviços nos respetivos contratos para a prestação de serviço público ou de serviço universal, quando respeitem a atividades sujeitas à sua regulação;\n\nb) Fiscalizar e auditar a aplicação das leis e regulamentos, e demais normas aplicáveis às atividades sujeitas à sua jurisdição e proceder às necessárias inspeções, inquéritos e auditorias;\n\nc) Desencadear os procedimentos sancionatórios em caso de infrações de deveres e obrigações derivados de normas legais ou regulamentares, bem como de obrigações contraídas pelos concessionários ou prestadores de serviços nos respetivos contratos para a prestação de serviço público ou de serviço universal, quando respeitem a atividades sujeitas à sua regulação;\n\nd) Adotar as necessárias medidas cautelares e aplicar as devidas sanções;\n\ne) Denunciar às entidades competentes as infrações cuja punição não caiba no âmbito das suas atribuições e colaborar com estas;\n\nf) Cobrar coimas.\n\n4 - Nos termos e limites dos respetivos estatutos, quando lhes sejam atribuídos poderes de mediação, compete às entidades reguladoras, designadamente:\n\na) Divulgar a arbitragem voluntária para a resolução de conflitos e disponibilizar serviços de mediação de conflitos;\n\nb) Atuar na resolução de conflitos entre as empresas e outras entidades sujeitas à sua jurisdição, ou entre estas e os seus clientes ou terceiros, reconhecendo ou não os direitos alegados e invocados;\n\nc) Apreciar das reclamações dos consumidores ou terceiros e adotar as providências necessárias, nos termos previstos na lei;\n\nd) Prestar informação, orientação e apoio aos utentes e consumidores dos respetivos setores de atividade económica, bem como sobre as reclamações apresentadas.\n\n5 - Os órgãos da entidade reguladora não podem delegar ou concessionar a entidades públicas ou privadas, por prazo determinado ou indeterminado, com ou sem remuneração, contrapartida ou renda periódica, a prossecução de quaisquer das suas atribuições ou poderes regulatórios e sancionatórios."
+  },
+  "106958724": {
+   "fragment_id": "106958784",
+   "type": 11,
+   "heading": "Artigo 41.º — Procedimento de regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Procedimento de regulamentação\n\n1 - Antes da aprovação ou alteração de qualquer regulamento que contenha normas de eficácia externa as entidades reguladoras devem proporcionar a intervenção do Governo, das empresas, de outras entidades destinatárias da atividade da entidade reguladora, das associações de utentes ou consumidores relevantes e do público em geral.\n\n2 - Para efeitos do disposto no número anterior, a entidade reguladora procede à divulgação do respetivo projeto na sua página eletrónica, para fins de discussão pública, podendo os interessados apresentar comentários e sugestões.\n\n3 - A consulta pública deve ser realizada num período não inferior a 30 dias, salvo se outro prazo for definido nos estatutos ou se situações de urgência devidamente fundamentadas motivarem a definição de prazo inferior.\n\n4 - No relatório preambular dos regulamentos, a entidade reguladora deve fundamentar as suas opções, designadamente com referência aos comentários e sugestões apresentados durante o período de discussão pública.\n\n5 - Os regulamentos que contenham normas de eficácia externa são publicados no Diário da República e imediatamente disponibilizados na página eletrónica da entidade reguladora."
+  },
+  "106958725": {
+   "fragment_id": "106958785",
+   "type": 11,
+   "heading": "Artigo 42.º — Poderes em matéria de inspeção e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Poderes em matéria de inspeção e auditoria\n\n1 - As entidades reguladoras devem efetuar inspeções e auditorias pontualmente, em execução de planos de inspeções previamente aprovados e sempre que se verifiquem circunstâncias que indiciem perturbações no respetivo setor de atividade.\n\n2 - Os trabalhadores mandatados pelas respetivas entidades reguladoras para efetuar uma inspeção ou auditoria são equiparados a agentes da autoridade, podendo:\n\na) Aceder a todas as instalações, terrenos e meios de transporte das empresas e outras entidades destinatárias da atividade da entidade reguladora e a quem colabore com aquelas;\n\nb) Inspecionar os livros e outros registos relativos às empresas e outras entidades destinatárias da atividade da entidade reguladora e a quem colabore com aquelas, independentemente do seu suporte;\n\nc) Obter, por qualquer forma, cópias ou extratos dos documentos controlados;\n\nd) Solicitar a qualquer representante legal, trabalhador ou colaborador da empresa ou de outra entidade destinatária da atividade da entidade reguladora e a quem colabore com aquelas, esclarecimentos sobre factos ou documentos relacionados com o objeto e a finalidade da inspeção ou auditoria e registar as suas respostas;\n\ne) Identificar, para posterior atuação, as entidades e pessoas que infrinjam as leis e regulamentos sujeitos à fiscalização da entidade reguladora;\n\nf) Reclamar o auxílio de autoridades policiais e administrativas quando o julguem necessário para o cabal desempenho das suas funções.\n\n3 - Os trabalhadores das entidades reguladoras que exerçam funções inspetivas e de auditoria devem ser portadores de um cartão de identificação para o efeito.\n\n4 - Os colaboradores das pessoas mandatadas para acompanhar uma inspeção ou auditoria devem ser portadores de credencial."
+  },
+  "106958726": {
+   "fragment_id": "106958786",
+   "type": 11,
+   "heading": "Artigo 43.º — Poderes sancionatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Poderes sancionatórios\n\nCompete às entidades reguladoras, nos termos dos respetivos regimes sancionatórios, praticar todos os atos necessários ao processamento e punição das infrações às leis e regulamentos cuja implementação ou supervisão lhes compete, bem como do incumprimento das suas próprias determinações."
+  },
+  "106958727": {
+   "fragment_id": "106958787",
+   "type": 11,
+   "heading": "Artigo 44.º — Obrigação de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Obrigação de colaboração\n\nPara efeitos do disposto na presente lei-quadro, os representantes legais das empresas ou outras entidades destinatárias da atividade da entidade reguladora e as pessoas que colaborem com aquelas estão obrigadas a prestar toda a colaboração que lhes seja solicitada pela entidade reguladora para o cabal desempenho das suas funções, designadamente as informações e documentos que lhe sejam solicitados, os quais devem ser fornecidos no prazo estabelecido pelas entidades reguladoras, que não pode ser superior a 30 dias."
+  },
+  "106958728": {
+   "fragment_id": "106958788",
+   "type": 1,
+   "heading": "Capítulo V — Independência, responsabilidade, transparência e proteção do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Independência, responsabilidade, transparência e proteção do consumidor"
+  },
+  "106958729": {
+   "fragment_id": "106958789",
+   "type": 11,
+   "heading": "Artigo 45.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Independência\n\n1 - As entidades reguladoras são independentes no exercício das suas funções e não se encontram sujeitas a superintendência ou tutela governamental, sem prejuízo do disposto nos números seguintes.\n\n2 - Os membros do Governo não podem dirigir recomendações ou emitir diretivas aos órgãos dirigentes das entidades reguladoras sobre a sua atividade reguladora nem sobre as prioridades a adotar na respetiva prossecução.\n\n3 - O membro do Governo responsável pela área de atividade económica sobre a qual incide a atuação da entidade reguladora pode solicitar informações aos órgãos das entidades reguladoras sobre a execução dos planos de atividades, anuais e plurianuais, bem como dos orçamentos e respetivos planos plurianuais.\n\n4 - Carecem de aprovação prévia, no prazo de 60 dias após a sua receção, por parte dos membros do Governo responsáveis pela área das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora, os orçamentos e respetivos planos plurianuais, o balanço e as contas.\n\n5 - Carecem também de aprovação prévia, no prazo referido no número anterior, pelo membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora, outros atos de incidência financeira cuja aprovação prévia se encontre prevista nos estatutos.\n\n6 - As aprovações previstas nos n.os 4 e 5 apenas podem ser recusadas mediante decisão fundamentada em ilegalidade ou prejuízo para os fins da entidade reguladora ou para o interesse público ou ainda em parecer desfavorável emitido pelo conselho consultivo, caso este exista.\n\n7 - Decorridos os prazos previstos nos números anteriores, sem que sobre eles seja proferida decisão expressa, consideram-se os respetivos documentos tacitamente aprovados.\n\n8 - Carecem ainda de autorização prévia por parte dos membros do Governo responsáveis pelas áreas das finanças e pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora, sob pena de ineficácia jurídica:\n\na) A aceitação de doações, heranças ou legados;\n\nb) A aquisição ou alienação de bens imóveis, nos termos da lei;\n\nc) Outros atos de incidência patrimonial cuja aprovação prévia se encontre prevista nos estatutos."
+  },
+  "106958730": {
+   "fragment_id": "106958790",
+   "type": 11,
+   "heading": "Artigo 46.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Responsabilidade\n\n1 - Os titulares dos órgãos das entidades reguladoras e os seus trabalhadores respondem civil, criminal, disciplinar e financeiramente pelos atos e omissões que pratiquem no exercício das suas funções, nos termos da Constituição e demais legislação aplicável.\n\n2 - A responsabilidade financeira é efetivada pelo Tribunal de Contas, nos termos da respetiva legislação.\n\n3 - Quando sejam demandados judicialmente por terceiros nos termos do n.º 1, os titulares dos órgãos das entidades reguladoras e os seus trabalhadores têm direito a apoio jurídico assegurado pela entidade reguladora, sem prejuízo do direito de regresso desta nos termos gerais."
+  },
+  "106958731": {
+   "fragment_id": "106958791",
+   "type": 11,
+   "heading": "Artigo 47.º — Proteção do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Proteção do consumidor\n\n1 - Incumbe às entidades reguladoras a adequada promoção da defesa dos serviços de interesse geral e da proteção dos direitos e interesses dos consumidores nas áreas de atividade económica sobre a qual incide a respetiva atuação.\n\n2 - Os estatutos das entidades reguladoras devem prever a representação das associações de consumidores nos respetivos órgãos de natureza consultiva, de regulação tarifária ou de participação dos destinatários da respetiva atividade, bem como a participação dessas associações em processos de consulta e audição públicas a realizar no decurso da tomada de decisões suscetíveis de afetar os direitos e interesses dos consumidores.\n\n3 - Sem prejuízo do disposto no Decreto-Lei n.º 156/2005, de 15 de setembro, compete às entidades reguladoras a resolução de conflitos entre operadores sujeitos à sua regulação, ou entre estes e consumidores, designadamente:\n\na) Dinamizar e cooperar com os mecanismos alternativos de resolução de conflitos existentes ou, em colaboração com outras entidades, promover a criação de outros mecanismos, cabendo-lhes neste caso promover a adesão das entidades intervenientes da respetiva área de atividade económica sobre a qual incide a sua atuação;\n\nb) Prestar informação, orientação e apoio aos consumidores e cooperar com as associações de consumidores na dinamização dos seus direitos e interesses no setor regulado;\n\nc) Divulgar, semestralmente, um quadro estatístico sobre as reclamações dos consumidores, os operadores mais reclamados e os resultados decorrentes da sua atuação;\n\nd) Mediante solicitação dos interessados, promover o tratamento das reclamações através de mediação, conciliação ou arbitragem, em termos processuais simples, expeditos e tendencialmente gratuitos;\n\ne) Emitir recomendações ou, na sequência do tratamento das reclamações, ordenar aos operadores sujeitos à sua regulação a adoção das providências necessárias à reparação justa dos direitos dos consumidores."
+  },
+  "106958732": {
+   "fragment_id": "106958792",
+   "type": 11,
+   "heading": "Artigo 48.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Transparência\n\nAs entidades reguladoras devem disponibilizar uma página eletrónica, com todos os dados relevantes, nomeadamente:\n\na) Todos os diplomas legislativos que os regulam, os estatutos e os regulamentos;\n\nb) A composição dos órgãos, incluindo os respetivos elementos biográficos e valor das componentes do estatuto remuneratório aplicado;\n\nc) Todos os planos de atividades e relatórios de atividades;\n\nd) Todos os orçamentos e contas, incluindo os respetivos balanços e planos plurianuais;\n\ne) Informação referente à sua atividade regulatória e sancionatória;\n\nf) O mapa de pessoal, sem identificação nominal, e respetivo estatuto remuneratório e sistema de carreiras."
+  },
+  "106958733": {
+   "fragment_id": "106958793",
+   "type": 11,
+   "heading": "Artigo 49.º — Prestação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Prestação de informação\n\n1 - No 1.º trimestre de cada ano de atividade as entidades reguladoras apresentam na comissão parlamentar competente da Assembleia da República o respetivo plano de atividades e a programação do seu desenvolvimento.\n\n2 - Anualmente as entidades reguladoras elaboram e enviam à Assembleia da República e ao Governo um relatório detalhado sobre a respetiva atividade e funcionamento no ano antecedente, sendo tal relatório objeto de publicação na sua página eletrónica.\n\n3 - Sempre que tal lhes seja solicitado, os membros dos órgãos das entidades reguladoras devem apresentar-se perante a comissão parlamentar competente, para prestar informações ou esclarecimentos sobre a respetiva atividade."
+  },
+  "106958740": {
+   "fragment_id": "106955829",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas de adaptação e transitórias",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 3.º — Normas de adaptação e transitórias\n\n1 - Os estatutos das entidades reguladoras atualmente existentes devem ser adaptados por decreto-lei ao disposto na lei-quadro, em anexo à presente lei, no prazo de 90 dias após a entrada em vigor desta lei e entram em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n2 - No prazo máximo de 30 dias a contar do 1.º dia útil seguinte ao da publicação da presente lei, cada entidade reguladora deve apresentar ao Governo um projeto de alteração dos respetivos estatutos que os adeque ao regime previsto na lei-quadro, em anexo à presente lei.\n\n3 - Para efeitos do disposto no n.º 1, são reconhecidas como entidades reguladoras as seguintes entidades atualmente existentes:\n\na) Instituto de Seguros de Portugal;\n\nb) Comissão do Mercado de Valores Mobiliários;\n\nc) Autoridade da Concorrência;\n\nd) Entidade Reguladora dos Serviços Energéticos;\n\ne) Autoridade Nacional de Comunicações (ICP - ANACOM) que será objeto de redenominação nos termos do artigo seguinte;\n\nf) Instituto Nacional de Aviação Civil, I. P. (INAC, I. P.), que será objeto de redenominação nos termos do artigo seguinte;\n\ng) Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres, fluviais e marítimos, que será objeto de reestruturação nos termos do artigo seguinte;\n\nh) Entidade Reguladora dos Serviços de Águas e Resíduos;\n\ni) Entidade Reguladora da Saúde.\n\n4 - A lei-quadro em anexo à presente lei não se aplica ao Banco de Portugal e à Entidade Reguladora para a Comunicação Social, que se regem por legislação própria.\n\n5 - Até à entrada em vigor dos diplomas a que se refere o n.º 1, as entidades reguladoras atualmente existentes continuam a reger-se pelas disposições e atos normativos, regulamentares e administrativos que lhes são aplicáveis.\n\n6 - A remuneração dos membros do conselho de administração, dos trabalhadores e os pagamentos efetuados a prestadores de serviços de entidades reguladoras acompanham a alteração geral anual que vier a ser aplicada, de modo transversal, à globalidade das entidades públicas.\n\n7 - É reconhecido aos atuais trabalhadores das entidades reguladoras previstas no n.º 3 do presente artigo o direito de opção quanto à manutenção do vínculo de contrato de trabalho em funções públicas.\n\n8 - Sem prejuízo da aplicação do regime do contrato individual de trabalho em tudo quanto respeite à prestação efetiva de trabalho, os trabalhadores que optarem, nos prazos fixados estatutariamente, pela manutenção do vínculo de contrato de trabalho em funções públicas continuam a pertencer ao mapa de pessoal da entidade reguladora, em lugares a extinguir quando vagarem, e são integrados nas carreiras dos restantes trabalhadores, em igualdade de circunstâncias, garantias e direitos, mediante a adoção da figura de mobilidade intercarreiras.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106928772": {
+   "fragment_id": "106955832",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de julho de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 19 de agosto de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 20 de agosto de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "106958741": {
+   "fragment_id": "106955839",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de gestão",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios de gestão\n\n1 - As entidades reguladoras devem observar os seguintes princípios de gestão:\n\na) Exercício da respetiva atividade de acordo com elevados padrões de qualidade;\n\nb) Garantia de eficiência económica no que se refere à sua gestão e soluções adotadas nas suas atividades;\n\nc) Gestão por objetivos devidamente determinados e quantificados e avaliação periódica em função dos resultados;\n\nd) Transparência na atuação através da discussão pública de projetos de documentos que contenham normas regulamentares e da disponibilização pública de documentação relevante sobre as suas atividades e funcionamento com impacto sobre os consumidores e entidades reguladas, incluindo sobre o custo da sua atividade para o setor regulado;\n\ne) Respeito dos princípios da prévia cabimentação e programação da realização das despesas subjacentes à assunção de compromissos e aos pagamentos em atraso das entidades públicas.\n\nf) Transparência no funcionamento dos órgãos e na gestão do pessoal.\n\n2 - Quanto à sua gestão financeira e patrimonial as entidades reguladoras regem-se segundo o disposto na presente lei-quadro, nos respetivos estatutos e, supletivamente, pelo regime jurídico aplicável às entidades públicas empresariais.\n\n3 - Os órgãos das entidades reguladoras asseguram que os recursos de que dispõem são administrados de forma eficiente e sem desperdícios, devendo sempre adotar ou propor as soluções organizativas e os métodos de atuação que representem o menor custo na prossecução eficaz das atribuições públicas a seu cargo.\n\n4 - As entidades reguladoras não podem criar ou participar na criação de entidades de direito privado com fins lucrativos, nem adquirir participações em tais entidades.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958742": {
+   "fragment_id": "106955845",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos e funcionamento",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 10.º — Órgãos e funcionamento\n\n1 - As disposições relativas aos órgãos das entidades reguladoras e ao seu funcionamento constam dos respetivos estatutos.\n\n2 - Sem prejuízo do disposto no número anterior, as entidades reguladoras estabelecem, nos respetivos regulamentos internos, regras sobre as seguintes matérias:\n\na) A organização e disciplina do trabalho;\n\nb) O regime do pessoal, incluindo avaliação de desempenho e mérito;\n\nc) O regime de carreiras;\n\nd) O estatuto remuneratório do pessoal;\n\ne) O regime de proteção social aplicável ao pessoal.\n\nf) O regime de prevenção de conflitos de interesses.\n\n3 - É garantida aos trabalhadores, através da comissão de trabalhadores ou, na sua falta, das comissões intersindicais, das comissões sindicais ou dos delegados sindicais, a audição e participação na elaboração dos regulamentos internos previstos nos termos do número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958743": {
+   "fragment_id": "106955856",
+   "type": 11,
+   "heading": "Artigo 17.º — Composição e designação",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 17.º — Composição e designação\n\n1 - O conselho de administração é um órgão composto por um presidente e até três vogais, podendo ter ainda um vice-presidente, devendo ser assegurado, na sua composição, um número ímpar de membros.\n\n2 - Os membros do conselho de administração são escolhidos de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, competindo a sua indicação ao membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora.\n\n3 - Os membros do conselho de administração são designados por resolução do Conselho de Ministros, tendo em consideração o parecer fundamentado da comissão competente da Assembleia da República.\n\n4 - Para efeitos do número anterior, a emissão do parecer é precedida de audição na comissão parlamentar competente, a pedido do Governo, o qual deve ser acompanhado de parecer da Comissão de Recrutamento e Seleção para a Administração Pública relativo à adequação do perfil do indivíduo às funções a desempenhar, incluindo o cumprimento das regras de incompatibilidade e impedimento aplicáveis.\n\n5 - A resolução de designação, devidamente fundamentada, é publicada no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional dos designados e a conclusão do parecer da Assembleia da República.\n\n6 - Em caso de designação simultânea de dois ou mais membros do conselho de administração, o termo dos respetivos mandatos não pode coincidir, devendo divergir entre eles pelo menos seis meses, através, se necessário, da limitação da duração de um ou mais mandatos.\n\n7 - Não pode ocorrer a designação ou proposta de designação entre a convocação de eleições para a Assembleia da República ou a demissão do Governo e a investidura parlamentar do Governo recém-designado, salvo se se verificar a vacatura dos cargos em causa e a urgência da designação, caso em que as referidas designação ou proposta de designação de que não tenha ainda resultado designação dependem de confirmação pelo Governo recém-designado.\n\n8 - O provimento do presidente do conselho de administração deve garantir a alternância de género e o provimento dos vogais deve assegurar a representação mínima de 33 % de cada género.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958744": {
+   "fragment_id": "106955858",
+   "type": 11,
+   "heading": "Artigo 19.º — Incompatibilidades e impedimentos",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 19.º — Incompatibilidades e impedimentos\n\n1 - Os membros do conselho de administração exercem as suas funções em regime de exclusividade não podendo, designadamente:\n\na) Ser titulares de órgãos de soberania, das regiões autónomas ou do poder local, nem desempenhar quaisquer outras funções públicas ou profissionais, salvo funções docentes ou de investigação, desde que não remuneradas;\n\nb) Manter, direta ou indiretamente, qualquer vínculo ou relação contratual, remunerada ou não, com empresas, grupos de empresas ou outras entidades destinatárias da atividade da entidade reguladora ou deter quaisquer participações sociais ou interesses nas mesmas;\n\nc) Manter, direta ou indiretamente, qualquer vínculo ou relação contratual, remunerada ou não, com outras entidades cuja atividade possa colidir com as suas atribuições e competências.\n\nd) Realizar, diretamente ou por interposta pessoa, operações sobre instrumentos financeiros relacionados com empresas, grupos de empresas ou outras entidades destinatárias da atividade da entidade reguladora.\n\n2 - Depois da cessação do seu mandato e durante um período de dois anos os membros do conselho de administração não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da respetiva entidade reguladora, tendo direito no referido período a uma compensação equivalente a 1/2 do vencimento mensal.\n\n3 - No caso da entidade reguladora com competência para a aplicação das regras de defesa da concorrência, a proibição prevista no número anterior respeita às empresas ou entidades que tenham tido intervenção em processos ou sido destinatárias de atos, decisões ou deliberações daquela entidade, durante o período em que os membros do conselho de administração em causa tenham exercido funções.\n\n4 - No caso da entidade reguladora com competência na área da saúde, para efeitos do disposto na alínea b) do n.º 1, os profissionais do sistema nacional de saúde devem suspender o respetivo vínculo ou relação contratual, não lhes sendo aplicável o disposto no n.º 2 quando regressem ao lugar de origem.\n\n5 - A compensação prevista no n.º 2 não é atribuída nas seguintes situações:\n\na) Se e enquanto o membro do conselho de administração desempenhar qualquer outra função ou atividade remunerada;\n\nb) Quando o membro do conselho de administração tenha direito a pensão de reforma ou de aposentação e opte por esta; ou\n\nc) Nos casos em que o mandato do membro do conselho de administração cesse por outro motivo que não o decurso do respetivo prazo.\n\n6 - Em caso de incumprimento do disposto nos n.os 2 e 3, o membro do conselho de administração fica obrigado à devolução do montante equivalente a todas as remunerações líquidas auferidas durante o período em que exerceu funções, bem como da totalidade das compensações líquidas recebidas nos termos do n.º 2, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I. P.\n\n7 - Os estatutos de cada entidade reguladora podem acrescer, nos termos da lei e dos atos de direito da União Europeia aplicáveis, outras incompatibilidades e outros impedimentos aplicáveis aos membros do conselho de administração.\n\n8 - Em tudo o que não esteja especificamente regulado na presente lei-quadro e nos estatutos da entidade reguladora, os membros do conselho de administração ficam sujeitos ao regime de incompatibilidades e impedimentos estabelecido para os titulares de altos cargos públicos.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958745": {
+   "fragment_id": "106955859",
+   "type": 11,
+   "heading": "Artigo 20.º — Duração e cessação do mandato",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 20.º — Duração e cessação do mandato\n\n1 - O mandato dos membros do conselho de administração tem a duração de seis anos, não sendo renovável, sem prejuízo do disposto no número seguinte.\n\n2 - Os membros do conselho de administração podem ser providos nos órgãos da respetiva entidade reguladora decorridos seis anos após a cessação do mandato anterior.\n\n3 - O mandato dos membros do conselho de administração cessa pelo decurso do respetivo prazo e ainda por:\n\na) Morte ou incapacidade física ou psíquica permanente ou com uma duração que se preveja ultrapassar a data do termo da comissão de serviço ou do período para o qual foram designados;\n\nb) Renúncia, através de declaração escrita apresentada ao membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora;\n\nc) Incompatibilidade originária, detetada após a designação, ou superveniente;\n\nd) Condenação, por sentença transitada em julgado, em crime doloso que ponha em causa a idoneidade para o exercício do cargo;\n\ne) Cumprimento de pena de prisão;\n\nf) Dissolução do conselho de administração ou destituição dos seus membros nos termos dos n.os 4 e 5;\n\ng) A extinção da entidade reguladora;\n\nh) Prestação de falsas declarações no processo de designação ou na proposta de designação.\n\n4 - A dissolução do conselho de administração e a destituição de qualquer dos seus membros só pode ocorrer mediante resolução do Conselho de Ministros, oficiosamente ou tendo em conta recomendação da Assembleia da República, e sempre fundamentada em motivo justificado.\n\n5 - Para efeitos do disposto no número anterior, entende-se que existe motivo justificado sempre que se verifique falta grave, responsabilidade individual ou coletiva, apurada em inquérito devidamente instruído, por entidade independente do Governo, e precedendo parecer do conselho consultivo, quando exista, da entidade reguladora em causa, e da audição da comissão parlamentar competente, nomeadamente em caso de:\n\na) Desrespeito grave ou reiterado das normas legais e estatutos, designadamente o não cumprimento das obrigações de transparência e informação no que respeita à atividade da entidade reguladora, bem como dos regulamentos e orientações da entidade reguladora;\n\nb) Incumprimento do dever de exercício de funções em regime de exclusividade ou violação grave ou reiterada do dever de reserva;\n\nc) Incumprimento substancial e injustificado do plano de atividades ou do orçamento da entidade reguladora.\n\n6 - Nas situações de cessação do mandato pelo decurso do respetivo prazo e renúncia, os membros do conselho de administração mantêm-se no exercício das suas funções até à sua efetiva substituição.\n\n7 - No caso de vacatura por um dos motivos previstos nos números anteriores, a vaga é preenchida no prazo máximo de 45 dias após a sua verificação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958746": {
+   "fragment_id": "106955864",
+   "type": 11,
+   "heading": "Artigo 25.º — Estatuto e remunerações dos membros",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 25.º — Estatuto e remunerações dos membros\n\n1 - Aos membros do conselho de administração é aplicável o regime estatutário definido na presente lei-quadro.\n\n2 - A remuneração dos membros do conselho de administração integra um vencimento mensal e, para despesas de representação, um abono mensal pago 12 vezes ao ano, o qual não pode ultrapassar 40 % do respetivo vencimento mensal.\n\n3 - Para efeitos do disposto no número anterior, o vencimento mensal não pode ultrapassar em 30 % o último nível remuneratório da tabela remuneratória única prevista na Portaria n.º 1553-C/2008, de 31 de dezembro.\n\n4 - O vencimento mensal e o abono mensal para despesas de representação dos membros do conselho de administração são fixados pela comissão de vencimentos.\n\n5 - A fixação nos termos do número anterior do vencimento mensal e do abono mensal para despesas de representação dos membros do conselho de administração não tem efeitos retroativos nem deve ser alterada no curso do mandato, sem prejuízo das alterações de remuneração que se apliquem, de modo transversal, à globalidade das entidades públicas.\n\n6 - A utilização de cartões de crédito e outros instrumentos de pagamento, viaturas, comunicações, prémios, suplementos e gozo de benefícios sociais pelos membros do conselho de administração obedece ao disposto no Decreto-Lei n.º 71/2007, de 27 de março, e constitui remuneração, para efeitos fiscais.\n\n7 - As situações de inerência de funções ou cargos por membros do conselho de administração em entidades ou outras estruturas relacionadas com as entidades reguladoras não conferem direito a qualquer remuneração adicional ou quaisquer outros benefícios e regalias.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958747": {
+   "fragment_id": "106955865",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão de vencimentos",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 26.º — Comissão de vencimentos\n\n1 - Junto de cada entidade reguladora funciona uma comissão de vencimentos.\n\n2 - Cada comissão de vencimentos é composta por três membros, assim designados:\n\na) Um indicado pelo membro do Governo responsável pela área das finanças;\n\nb) Um indicado pelo membro do Governo responsável pela principal área de atividade económica sobre a qual incide a atuação da entidade reguladora;\n\nc) Um terceiro indicado pela entidade reguladora, que tenha preferencialmente exercido cargo num dos órgãos obrigatórios da mesma, ou, na falta de tal indicação, cooptado pelos membros referidos nas alíneas anteriores.\n\n3 - Na determinação das remunerações a comissão de vencimentos deve observar os seguintes critérios:\n\na) A dimensão, a complexidade, a exigência e a responsabilidade inerentes às funções;\n\nb) O impacto no mercado regulado do regime de taxas, tarifas ou contribuições que a entidade reguladora estabelece ou aufere;\n\nc) As práticas habituais de mercado no setor de atividade da entidade reguladora;\n\nd) A conjuntura económica, a necessidade de ajustamento e de contenção remuneratória em que o País se encontre e o vencimento mensal do Primeiro-Ministro como valor de referência;\n\ne) As remunerações auferidas pelos trabalhadores da entidade reguladora;\n\nf) O desenvolvimento das atividades económicas sobre as quais incide a atuação da entidade reguladora;\n\ng) Os pareceres sobre a atividade e o funcionamento da entidade reguladora;\n\nh) Outros critérios que entenda adequados atendendo às especificidades do setor de atividade da entidade reguladora.\n\n4 - A determinação das remunerações consta de relatório elaborado pela comissão de vencimentos, devidamente fundamentado, que deve ser remetido ao Governo e à Assembleia da República antes da audição dos membros do conselho de administração.\n\n5 - A comissão de vencimentos deve rever as remunerações dos membros do conselho de administração, pelo menos, a cada seis anos.\n\n6 - Os membros das comissões de vencimentos não são remunerados nem têm direito a qualquer outra vantagem ou regalia.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958748": {
+   "fragment_id": "106955873",
+   "type": 11,
+   "heading": "Artigo 32.º — Trabalhadores",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 32.º — Trabalhadores\n\n1 - Aos trabalhadores das entidades reguladoras é aplicado o regime do contrato individual de trabalho.\n\n2 - As entidades reguladoras podem ser partes em instrumentos de regulamentação coletiva do trabalho.\n\n3 - O recrutamento de trabalhadores e a designação dos titulares de cargos de direção ou equiparados das entidades reguladoras segue procedimento concursal que, em qualquer caso, deve observar os seguintes princípios:\n\na) Publicitação da oferta de emprego na página eletrónica da entidade reguladora e na Bolsa de Emprego Público;\n\nb) Igualdade de condições e de oportunidades dos candidatos;\n\nc) Aplicação de métodos e critérios objetivos e detalhados de avaliação e seleção;\n\nd) Fundamentação da decisão tomada.\n\ne) O disposto no n.º 3 do artigo 4.º\n\n4 - A adoção do regime do contrato individual de trabalho não dispensa os requisitos e as limitações decorrentes da prossecução do interesse público, nomeadamente os respeitantes a acumulações e incompatibilidades legalmente estabelecidos para os trabalhadores em funções públicas.\n\n5 - Ficam sujeitos ao disposto nas alíneas b) a d) do n.º 1 do artigo 19.º todos os trabalhadores das entidades reguladoras, bem como todos os prestadores de serviços relativamente aos quais possa existir conflito de interesses, designadamente quando se trate da prestação de serviços nas áreas jurídica e económico-financeira, cabendo ao conselho de administração e à comissão de fiscalização aferir e acautelar a existência daquele conflito.\n\n6 - Nas situações de cessação de funções e durante um período de dois anos os titulares de cargos de direção ou equiparados das entidades reguladoras não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da respetiva entidade reguladora, ficando, em caso de incumprimento, obrigados à devolução de todas as remunerações líquidas auferidas, até ao máximo de três anos, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I. P.\n\n7 - No caso da entidade reguladora com competência para a aplicação das regras de defesa da concorrência, a proibição prevista no número anterior respeita às empresas ou entidades que tenham tido intervenção em processos ou sido destinatárias de atos, decisões ou deliberações daquela entidade, durante o período em que os titulares de cargos de direção ou equiparados em causa tenham exercido funções.\n\n8 - Ficam excluídas do disposto nos n.os 6 e 7 as situações de cessação de funções por caducidade de contrato de trabalho a termo, cessação de comissão de serviço quando regressem ao lugar de origem ou por iniciativa da entidade reguladora.\n\n9 - Os estatutos de cada entidade reguladora podem definir outras incompatibilidades e outros impedimentos aplicáveis aos trabalhadores e prestadores de serviços e aos titulares de cargos de direção ou equiparados.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "106958749": {
+   "fragment_id": "106958792",
+   "type": 11,
+   "heading": "Artigo 48.º — Transparência",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 48.º — Transparência\n\nAs entidades reguladoras devem disponibilizar uma página eletrónica, com todos os dados relevantes, nomeadamente:\n\na) Todos os diplomas legislativos que os regulam, os estatutos e os regulamentos;\n\nb) A composição dos órgãos, incluindo os respetivos elementos biográficos e valor das componentes do estatuto remuneratório aplicado;\n\nc) Todos os planos de atividades e relatórios de atividades;\n\nd) Todos os orçamentos e contas, incluindo os respetivos balanços e planos plurianuais;\n\ne) Informação referente à sua atividade regulatória e sancionatória;\n\nf) O mapa de pessoal, sem identificação nominal, e respetivo estatuto remuneratório e sistema de carreiras.\n\ng) Os relatórios e pareceres da comissão de fiscalização ou do fiscal único;\n\nh) O relatório da comissão de vencimentos;\n\ni) Os regulamentos internos referidos no n.º 2 do artigo 10.º\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "117639992": {
+   "fragment_id": "106958780",
+   "type": 11,
+   "heading": "Artigo 38.º — Contabilidade, contas e tesouraria",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 329.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Contabilidade, contas e tesouraria\n\n1 - As entidades reguladoras aplicam o Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP).\n\n2 - A prestação de contas rege-se, fundamentalmente, pelo disposto na Lei de Organização e Processo do Tribunal de Contas e respetivas disposições regulamentares.\n\n3 - Às entidades reguladoras é aplicável o regime da Tesouraria do Estado e, em particular, o princípio e as regras da unidade de tesouraria.\n\n4 - A entidade reguladora elabora e atualiza, anualmente, o respetivo inventário de bens imóveis, nos termos do regime jurídico do património imobiliário público.\n\n5 - Salvo quando sejam provenientes da utilização de bens do domínio público ou tenham origem em transferências do Orçamento do Estado, casos em que para este podem reverter, os resultados líquidos das entidades reguladoras transitam para o ano seguinte, podendo ser utilizados, designadamente, em benefício dos consumidores ou do setor regulado, nos termos a definir nos estatutos de cada entidade reguladora.\n\n> Alterado pelo/a Artigo 329.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "153013512": {
+   "fragment_id": "106955873",
+   "type": 11,
+   "heading": "Artigo 32.º — Trabalhadores",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 427.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 32.º — Trabalhadores\n\n1 - Aos trabalhadores das entidades reguladoras é aplicado o regime do contrato individual de trabalho.\n\n2 - As entidades reguladoras podem ser partes em instrumentos de regulamentação coletiva do trabalho.\n\n3 - O recrutamento de trabalhadores e a designação dos titulares de cargos de direção ou equiparados das entidades reguladoras segue procedimento concursal que, em qualquer caso, deve observar os seguintes princípios:\n\na) Publicitação da oferta de emprego na página eletrónica da entidade reguladora e na Bolsa de Emprego Público;\n\nb) Igualdade de condições e de oportunidades dos candidatos;\n\nc) Aplicação de métodos e critérios objetivos e detalhados de avaliação e seleção;\n\nd) Fundamentação da decisão tomada.\n\ne) O disposto no n.º 3 do artigo 4.º\n\n4 - A adoção do regime do contrato individual de trabalho não dispensa os requisitos e as limitações decorrentes da prossecução do interesse público, nomeadamente os respeitantes a acumulações e incompatibilidades legalmente estabelecidos para os trabalhadores em funções públicas.\n\n5 - Ficam sujeitos ao disposto nas alíneas b) a d) do n.º 1 do artigo 19.º todos os trabalhadores das entidades reguladoras, bem como todos os prestadores de serviços relativamente aos quais possa existir conflito de interesses, designadamente quando se trate da prestação de serviços nas áreas jurídica e económico-financeira, cabendo ao conselho de administração e à comissão de fiscalização aferir e acautelar a existência daquele conflito.\n\n6 - Nas situações de cessação de funções e durante um período de dois anos os titulares de cargos de direção ou equiparados das entidades reguladoras não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da respetiva entidade reguladora, ficando, em caso de incumprimento, obrigados à devolução de todas as remunerações líquidas auferidas, até ao máximo de três anos, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I. P.\n\n7 - No caso da entidade reguladora com competência para a aplicação das regras de defesa da concorrência, a proibição prevista no número anterior respeita às empresas ou entidades que tenham tido intervenção em processos ou sido destinatárias de atos, decisões ou deliberações daquela entidade, durante o período em que os titulares de cargos de direção ou equiparados em causa tenham exercido funções.\n\n8 - Ficam excluídas do disposto nos n.os 6 e 7 as situações de cessação de funções por caducidade de contrato de trabalho a termo, cessação de comissão de serviço quando regressem ao lugar de origem ou por iniciativa da entidade reguladora.\n\n9 - Os estatutos de cada entidade reguladora podem definir outras incompatibilidades e outros impedimentos aplicáveis aos trabalhadores e prestadores de serviços e aos titulares de cargos de direção ou equiparados.\n\n10 - A gestão do pessoal, incluindo a contratação de trabalhadores, não está sujeita a parecer dos membros do Governo.\n\n> Alterado pelo/a Artigo 427.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), em vigor a partir de 2017-05-03"
+  },
+  "153013513": {
+   "fragment_id": "106958775",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime orçamental e financeiro",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 427.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Regime orçamental e financeiro\n\n1 - As entidades reguladoras dispõem, quanto à gestão financeira e patrimonial, da autonomia própria prevista na presente lei-quadro, no que se refere ao seu orçamento.\n\n2 - As regras da contabilidade pública e o regime dos fundos e serviços autónomos, nomeadamente as normas relativas à autorização de despesas, à transição e utilização dos resultados líquidos e às cativações de verbas, não são aplicáveis às entidades reguladoras, sem prejuízo do disposto no número seguinte.\n\n3 - Às verbas provenientes da utilização de bens do domínio público ou que dependam de dotações do Orçamento do Estado é aplicável o regime orçamental e financeiro dos serviços e fundos autónomos, designadamente em matéria de autorização de despesas, transição e utilização dos resultados líquidos.\n\n4 - Sem prejuízo do disposto no artigo 45.º, não podem ser impostas às entidades reguladoras cativações de verbas sobre os montantes das respetivas receitas próprias ou sujeição a autorização dos membros do Governo para celebração de contratos ou realização de despesa.\n\n> Alterado pelo/a Artigo 427.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  }
+ }
+}

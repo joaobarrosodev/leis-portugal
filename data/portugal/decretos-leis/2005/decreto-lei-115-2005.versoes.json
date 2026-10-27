@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:236275:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34448875",
+ "dre_path": "/dr/detalhe/decreto-lei/115-2005-236275",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43575875",
+    "43575975",
+    "43576075",
+    "43576175",
+    "43576275",
+    "43576375",
+    "43576475",
+    "43576575",
+    "43576675",
+    "43576775",
+    "43576875",
+    "43576975"
+   ]
+  },
+  {
+   "date": "2005-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583785:por",
+     "title": "Decreto-Lei n.º 190/2005",
+     "published": "2005-11-04",
+     "dre_path": "/dr/detalhe/decreto-lei/190-2005-583785"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "43575875",
+    "43575975",
+    "164934044",
+    "43576175",
+    "43576275",
+    "43576375",
+    "164934045",
+    "43576575",
+    "43576675",
+    "43576775",
+    "43576875",
+    "43576975",
+    "43577075"
+   ]
+  }
+ ],
+ "fragments": {
+  "43575875": {
+   "fragment_id": "35068675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "As condições climatéricas adversas que determinam a existência de situações de seca de reconhecida gravidade no País têm tido uma maior repercussão na vida dos agricultores cujos rendimentos estão particularmente afectados quer pelas perdas de produção quer pela necessidade de aquisição de meios de produção que permitam continuar a desenvolver a sua actividade.\n\nO Governo, que tem procurado minorar tais reflexos negativos na economia dos agricultores, nomeadamente através da criação de apoios financeiros ou abertura de linhas de crédito bonificado aos titulares de explorações pecuárias, apícolas e hortifrutícolas situadas nas zonas mais afectadas pela falta de chuva, não pode, no entanto, deixar de tomar uma iniciativa tendente a minimizar os efeitos resultantes da dificuldade que os produtores agrícolas têm sentido para fazer face aos encargos decorrentes do regime de segurança social.\n\nNesta conformidade, o presente diploma estabelece, numa óptica de complementaridade com as ajudas já aprovadas, a dispensa de pagamento de contribuições para a segurança social por um período de seis meses para aqueles que estão abrangidos pelo regime de segurança social dos trabalhadores independentes, nos termos do disposto no Decreto-Lei n.º 328/93, de 25 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 159/2001, de 18 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "43575975": {
+   "fragment_id": "35222775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma dispensa por um período de seis meses do pagamento da taxa contributiva fixada pelo artigo 37.º-A do Decreto-Lei n.º 328/93, de 25 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 159/2001, de 18 de Maio, os produtores agrícolas e respectivos cônjuges abrangidos pelo regime social dos trabalhadores independentes cujas explorações se situem na área de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.\n\n2 - A dispensa a que se refere o número anterior não afecta a manutenção do registo de remunerações por equivalência à entrada de contribuições de acordo com a respectiva base de incidência.\n\n3 - A referida dispensa abrange os titulares de explorações agrícolas que reúnam os requisitos estabelecidos no artigo 2.º e que estejam inscritos na segurança social nos seis meses anteriores à data da entrada em vigor do presente diploma."
+  },
+  "43576075": {
+   "fragment_id": "35222875",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\nDa dispensa de pagamento a que se refere o presente diploma só podem beneficiar os agricultores que reúnam cumulativamente as seguintes condições:\n\na) Serem detentores de explorações agrícolas com uma dimensão igual ou inferior a 12 unidades de dimensão europeia (UDE);\n\nb) Não exercerem qualquer outra actividade geradora de rendimentos de trabalho para além da produção agrícola;\n\nc) Terem a respectiva situação contributiva regularizada perante a segurança social;\n\nd) Terem como base de incidência contributiva montante não superior a duas vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores;\n\ne) Terem sofrido quebras de produção iguais ou superiores a 20% nas regiões desfavorecidas ou 30% nas restantes zonas relativamente à produção média dos últimos três anos;\n\nf) Não serem pensionistas de qualquer regime de protecção social nacional ou estrangeiro."
+  },
+  "43576175": {
+   "fragment_id": "35222975",
+   "type": 11,
+   "heading": "Artigo 3.º — Caracterização das unidades de dimensão europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Caracterização das unidades de dimensão europeia\n\n1 - As UDE, referidas no artigo anterior, são unidades que permitem, nos termos da Decisão da Comissão n.º <a href=\"eurlex.asp?ano=1985&id=385D0377\" title=\"Link para Decisão da Comunidade Europeia\">85/377/CEE</a>, de 7 de Junho, determinar, em cada ano, o valor monetário da produção agrícola bruta, deduzida de certos custos específicos a ela inerentes, correspondendo 1 UDE a (euro) 1200.\n\n2 - Para cálculo das UDE são utilizadas as margens brutas padrão de referência divulgadas pelo Gabinete de Planeamento e Política Agro-Alimentar."
+  },
+  "43576275": {
+   "fragment_id": "35223075",
+   "type": 11,
+   "heading": "Artigo 4.º — Regularização das contribuições em dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regularização das contribuições em dívida\n\n1 - Consideram-se como tendo a situação contributiva regularizada os produtores agrícolas e seus cônjuges que, tendo valores contributivos em dívida, requeiram a sua regularização nos termos previstos no presente diploma.\n\n2 - O beneficiário que à data do requerimento não tenha a situação contributiva regularizada perante a segurança social pode requerer o pagamento diferido das contribuições em dívida, com o limite máximo de 36 prestações mensais.\n\n3 - Nos casos previstos no número anterior, há lugar à dispensa do pagamento de juros de mora referentes aos montantes em dívida desde que a dívida de contribuições venha a ser efectivamente paga nos termos e condições em que vier a ser deferida a sua regularização."
+  },
+  "43576375": {
+   "fragment_id": "35223175",
+   "type": 11,
+   "heading": "Artigo 5.º — Causas de cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Causas de cessação\n\nA dispensa de pagamento da taxa contributiva cessa nos seguintes casos:\n\na) Termo do período de concessão;\n\nb) Falta de pagamento no prazo do respectivo vencimento de qualquer das prestações para a regularização da situação devedora."
+  },
+  "43576475": {
+   "fragment_id": "35223275",
+   "type": 11,
+   "heading": "Artigo 6.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requerimento\n\n1 - A dispensa temporária de pagamento prevista no presente diploma depende de requerimento a apresentar até 30 de Setembro de 2005 pelos agricultores que reúnam as condições estabelecidas no artigo 2.º, nas direcções regionais de agricultura (DRA), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, da área de localização da respectiva exploração.\n\n2 - O requerimento é apresentado em modelo próprio, o qual integra todos os elementos necessários à identificação dos requerentes e à verificação do preenchimento das condições, cabendo à DRA da área de residência certificar as declarações dele constantes.\n\n3 - O modelo a que se refere o número anterior é aprovado por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade Social."
+  },
+  "43576575": {
+   "fragment_id": "35223375",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrução\n\n1 - A apresentação do requerimento referido no artigo anterior deve ser precedida da decisão da DRA respectiva sobre a condição a que se refere a alínea e) do artigo 2.º\n\n2 - Para efeitos da instrução do processo, podem as DRA solicitar ou obter informações e elementos complementares necessários à correcta apreciação do pedido, designadamente no que se refere à exclusividade dos rendimentos.\n\n3 - A instrução do processo deve ocorrer no prazo máximo de 20 dias após a recepção do requerimento, prorrogável, se necessário, por período não superior a 10 dias."
+  },
+  "43576675": {
+   "fragment_id": "35223475",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão e efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Decisão e efeitos\n\n1 - A verificação das condições por parte da DRA é confirmada em campo próprio do requerimento, o qual é por esta remetido aos serviços da segurança social da área de residência do beneficiário.\n\n2 - Os serviços da segurança social devem proferir decisão sobre o pedido no prazo máximo de 30 dias após a recepção do requerimento.\n\n3 - A dispensa produz efeitos a partir do 1.º dia do mês seguinte àquele em que haja ocorrido o deferimento, sem prejuízo do disposto no número seguinte.\n\n4 - Os serviços da segurança social da área de residência comunicam à DRA a decisão final do processo."
+  },
+  "43576775": {
+   "fragment_id": "35223575",
+   "type": 11,
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\nO financiamento do regime previsto no presente diploma é assegurado pelo orçamento do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, que transferirá para o orçamento da segurança social o montante global correspondente à sua aplicação."
+  },
+  "43576875": {
+   "fragment_id": "35223675",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição condicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição condicional\n\n1 - Nos termos do artigo 88.º do Tratado que institui a Comunidade Europeia, o regime estabelecido pelo presente diploma está dependente da decisão da Comissão Europeia sobre a respectiva compatibilidade com o direito comunitário.\n\n2 - Sem prejuízo do disposto no número anterior, o regime estabelecido neste diploma tem início a partir da sua entrada em vigor.\n\n3 - Em caso de decisão negativa da Comissão Europeia, há lugar aos necessários ajustamentos do regime instituído pelo presente diploma junto dos respectivos beneficiários."
+  },
+  "43576975": {
+   "fragment_id": "35223775",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "164934044": {
+   "fragment_id": "35222875",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": "2005-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2005-583785), em vigor a partir de 2005-11-05"
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1- Da dispensa de pagamento a que se refere o presente diploma só podem beneficiar os agricultores que reúnam cumulativamente as seguintes condições:\n\na) Serem detentores de explorações agrícolas com uma dimensão igual ou inferior a 16 unidades de dimensão europeia (UDE);\n\nb) Não exercerem qualquer outra actividade geradora de rendimentos de trabalho para além da produção agrícola;\n\nc) Terem a respectiva situação contributiva regularizada perante a segurança social;\n\nd) Terem como base de incidência contributiva montante não superior a duas vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores;\n\ne) Terem sofrido quebras de produção iguais ou superiores a 20% nas regiões desfavorecidas ou 30% nas restantes zonas relativamente à produção média dos últimos três anos;\n\nf) Não serem pensionistas de qualquer regime de protecção social nacional ou estrangeiro.\n\n2 - A falta de cumprimento dos requisitos cumulativos exigidos no número anterior por um dos cônjuges abrangidos pelas medidas estabelecidas no presente decreto-lei não prejudica o deferimento do requerimento do outro cônjuge.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2005-583785), em vigor a partir de 2005-11-05"
+  },
+  "164934045": {
+   "fragment_id": "35223275",
+   "type": 11,
+   "heading": "Artigo 6.º — Requerimento",
+   "in_force_from": "2005-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2005-583785), em vigor a partir de 2005-11-05"
+   ],
+   "markdown": "###### Artigo 6.º — Requerimento\n\n1 - A dispensa temporária de pagamento prevista no presente decreto-lei depende de requerimento a apresentar até 30 de Novembro de 2005 pelos agricultores que reúnam as condições estabelecidas no artigo 2.º nas direcções regionais de agricultura (DRA), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, da área de localização da respectiva exploração.\n\n2 - O requerimento é apresentado em modelo próprio, o qual integra todos os elementos necessários à identificação dos requerentes e à verificação do preenchimento das condições, cabendo à DRA da área de residência certificar as declarações dele constantes.\n\n3 - O modelo a que se refere o número anterior é aprovado por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2005-583785), em vigor a partir de 2005-11-05"
+  },
+  "43577075": {
+   "fragment_id": "35223875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva.\n\nPromulgado em 29 de Junho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

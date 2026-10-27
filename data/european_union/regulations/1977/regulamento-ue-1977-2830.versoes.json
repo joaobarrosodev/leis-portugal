@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977R2830:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977R2830-20010315",
+ "dre_path": null,
+ "source_lastmod": "2001-03-15",
+ "versions": [
+  {
+   "date": "1977-12-24",
+   "future": false,
+   "celex": "31977R2830",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f26082f0b59c617b",
+    "4804cbc66ae200e1",
+    "39c7cfbe7aeb84d9",
+    "40a25b74afb63bdc",
+    "4effae339adfdf92",
+    "6769cc1dd1ef810a",
+    "2070c8c8b07608fa",
+    "46204f771e3c4a78",
+    "1364db13cb8d84c1",
+    "db7f359d2c7fc250",
+    "230f497db686db0c",
+    "deab8e39e52de55a"
+   ]
+  },
+  {
+   "date": "2001-03-15",
+   "future": false,
+   "celex": "01977R2830-20010315",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime ANEXO I — ESQUEMA DO BALANÇO",
+    "Suprime ANEXO II — NOMENCLATURA DAS CONTAS DO BALANÇO",
+    "Suprime ANEXO III — ESQUEMA DA CONTA DE LUCROS E PERDAS",
+    "Suprime ANEXO IV — NOMENCLATURA DA CONTA DE LUCROS E PERDAS"
+   ],
+   "fragments": [
+    "e604ce5b9f812839"
+   ]
+  }
+ ],
+ "fragments": {
+  "f26082f0b59c617b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2830/77 do Conselho, de 12 de Dezembro de 1977, relativo às medidas necessárias para tornar comparáveis as contabilidades e as contas anuais das empresas de caminho-de-ferro** *Jornal Oficial nº L 334 de 24/12/1977 p. 0013 - 0021 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0227 Edição especial grega: Capítulo 07 Fascículo 2 p. 0035 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0227 Edição especial espanhola: Capítulo 07 Fascículo 2 p. 0080 Edição especial portuguesa: Capítulo 07 Fascículo 2 p. 0080*\n\nREGULAMENTO (CEE) No 2830/77 DO CONSELHO de 12 de Dezembro de 1977 relativo às medidas necessárias para tornar comparáveis as contabilidades e as contas anuais das empresas de caminho-de-ferro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o,\n\nTendo em conta a Decisão 75/327/CEE do Conselho, de 20 de Maio de 1975, relativo ao saneamento da situação das empresas de caminho de ferro e à harmonização das regras que regulam as relações financeiras entre essas empresas e os Estados (1) e, nomeadamente, o no 2 do seu artigo 8o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a harmonização das regras relativas às relações financeiras entre os Estados e as empresas de caminho-de-ferro deve inspirar-se, na medida do possível, nos princípios aplicáveis em matéria financeira e contabilística às empresas industriais e comerciais; que esta harmonização exige a adopção de medidas para tornar comparáveis as contas anuais das empresas de caminho-de-ferro;\n\nConsiderando que a comparabilidade das contas anuais das empresas de caminho-de-ferro deve contribuir para melhorar a transparência dos resultados financeiros destas empresas e das intervenções financeiras do Estado;\n\nConsiderando que a comparabilidade destas contas anuais pode ser estabelecida pela transposição dos resultados anuais das empresas de caminho-de-ferro para um quador uniforme;\n\nConsiderando que, para progredir na comparabilidade e na harmonização das contas anuais das empresas de caminho-de-ferro, convém criar um comité consultivo para assistir a Comissão neste domínio,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4804cbc66ae200e1": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento tem por objectivo tornar comparáveis as contas anuais das empresas de caminho-de-ferro. Na acepção do presente regulamento, entende-se por contas anuais o balanço e a conta de lucros e perdas, estabelecidos de acordo com os artigos 3o e 4o."
+  },
+  "39c7cfbe7aeb84d9": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO presente regulamento aplica-se às empresas de caminho-de-ferro seguintes:\n\n- Société nationale des chemins de fer belges (SNCB) /Nationale Maatschappij der Belgische Spoorwegen (NMBS),\n\n- Danske Statsbaner (DSB),\n\n- Deutsche Bundesbahn (DB),\n\n- Société nationale des chemins de fer français (SNCF),\n\n- Coras Iompair Eireann (CIE),\n\n- Azienda autonoma delle ferrovie dello Stato (FS),\n\n- Société nationale des chemins de fer luxembourgeois (CFL),\n\n- Naamloze Vennootschap Nederlandse Spoorwegen (NS),\n\n- British Railways Board (BRB),\n\n- Northern Ireland Railways Company Ltd (NIR)."
+  },
+  "40a25b74afb63bdc": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs empresas de caminho-de-ferro efectuarão anualmente, e pela primeira vez para o exercício de 1977, uma transposição dos seus resultados anuais, estabelecidos segundo as disposições nacionais em vigor, para os esquemas das contas anuais que constam dos Anexos I e III."
+  },
+  "4effae339adfdf92": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O balanço é transposto em conformidade com o Anexo I com base nas rubricas da nomenclatura fixada no Anexo II.\n\n2. A conta de lucros e perdas é transpsosta em conformidade com o Anexo III com base nas rubricas da nomenclatura fixada no Anexo IV.\n\n3. As empresas de caminho-de-ferro acrescentarão notas explicativas às contas anuais transpostas. Estas notas indicarão, nomeadamente:\n\n- as divergências em relação às rubricas da nomenclatura aquando da transposição das contas, as razões destas derrogações e as consequências possíveis sobre o nível de comparabilidade das contas transpostas,\n\n- os métodos de avaliação para as rubricas que tenham sido estimadas tais como amortizações, trabalhos em curso e imobilizações.\n\nA Comissão pode pedir explicações suplementares com vista a alcançar o objectivo de comparabilidade previsto no artigo 1o."
+  },
+  "6769cc1dd1ef810a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. As empresas de caminho-de-ferro comunicarão à Comissão, no prazo de doze meses a contar do fim do exercício considerado, as contas anuais transpostas referidas no artigo 3o.\n\n2. Seis meses após ter recebido as comunicações referidas no no 1, a Comissão apresentará ao Conselho um resumo sinóptico."
+  },
+  "2070c8c8b07608fa": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. É instituído junto da Comissão um Comité Consultivo que tem por missão assisti-la na aplicação do presente regulamento.\n\n2. O Comité dará o seu parecer sobre todas as questões relativas aos problemas e soluções que se apresentem para melhorar a comparabilidade das contas anuais transpostas e progredir para uma maior harmonização das contabilidades das empresas de caminho-de-ferro.\n\n3. O Comité é presidido por um representante da Comissão e composto por dois representantes designados por cada Estado-membro. Os membros do Comité podem fazer-se assistir pelos periotos que designarem. O Comité é convocado pela Comissão, a qual assegurará o secretariado.\n\n4. O relatório que a Comissão enviará de dois em dois anos ao Conselho, em aplicação do no 1 do artigo 14o da Decisão 75/327/CEE, apresentará, as conclusões dos trabalhos do Comité."
+  },
+  "46204f771e3c4a78": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nAntes de 1 de Janeiro de 1983, a Comissão, à luz da experiência adquirida e dos desenvolvimentos no domínio geral da contabilidade e tendo em conta o parecer do Comité, apresentará, se for caso disso, as propostas de alteração do presente regulamento e seus anexos, com vista a melhorar a comparabilidade das contas anuais transpostas.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 12 de Dezembro de 1977.\n\nPelo Conselho\n\nO Presidente\n\nL. DHOORE\n\n(1) JO no L 152 de 12. 6. 1975, p. 3.(2) JO no C 163 de 11. 7. 1977, p. 33.(3) JO no C 180 de 28. 7. 1977, p. 34."
+  },
+  "1364db13cb8d84c1": {
+   "fragment_id": "ANEXO I — ESQUEMA DO BALANÇO",
+   "type": "divisao",
+   "heading": "ANEXO I — ESQUEMA DO BALANÇO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ESQUEMA DO BALANÇO"
+  },
+  "db7f359d2c7fc250": {
+   "fragment_id": "ANEXO II — NOMENCLATURA DAS CONTAS DO BALANÇO",
+   "type": "divisao",
+   "heading": "ANEXO II — NOMENCLATURA DAS CONTAS DO BALANÇO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — NOMENCLATURA DAS CONTAS DO BALANÇO\n\nCLASSE 0 - CONTAS DE CAPITAL PRÓPRIO E DE DÉBITOS A LONGO PRAZO\n\n00 - Capital\n\n- Partes ou acções liberadas, ainda não amortizadas\n\n- Partes ou acções liberadas amortizadas\n\n- Partes ou acções não liberadas\n\n- Dotações ou contribuições do Estado\n\n01 - Reservas\n\nRode incluir as seguintes rubricas:\n\n- reserva legal\n\n- reservas estatutárias\n\n- reservas de reavalização do activo (aumentos do valor resultantes da reavalização das rubricas do balanço)\n\n- outras reservas (inclui igualmente a amortização financeira dos empréstimos nos casos em que os caminhos-de-ferro imputaram à conta de lucros e perdas a parte do capital das anuidades de amortização dos empréstimos)\n\n02 - Contribuições para os custos de investimento\n\nParticipação do Estado ou de terceiros para a realização de determinado projecto de investimento\n\n03 - Provisões\n\n- Provisões constituídas por certos caminhos-de-ferro para financiar a substituição das suas imobilizações e que substituem deste modo a amortização industrial\n\n- Provisões para cobrir certas perdas e encargos\n\n- Fundos de seguro\n\n04 - Fundos a favor do pessoal\n\nNomeadamente, fundos de pensões geridos pelos caminhos-de-ferro, quando não existam caixas de pensões autónomas, e fundos de poupança\n\n05 - Dívidas financeiras a longo prazo\n\nTrata-se de dívidas a mais de um ano; devem ser contabilizadas pelo valor do reembolso. Se for caso disso, é necessário indicar separadamente as dívidas a empresas nas quais a empresa de caminho-de-ferro tem participações de capital.\n\nCLASSE I - CONTAS DE ACTIVO IMOBILIZADO\n\nAs correcções para depreciações serão imputadas às respectivas subcontas de amortização\n\n10 - Terrenos e instalações fixas\n\n10.0 - Valor de aquisição ou de reconstrução (incluindo as reavaliações eventuais e contribuições a favor de terceiros)\n\n- Terrenos (construídos e não construídos)\n\n- Aterros e vias\n\n- Obras de arte\n\n- Edifícios\n\n- Instalações fixas de tracção eléctrica\n\n- Instalações de segurança e de telecomunicações (incluindo passagens de nível; não incluindo edifícios)\n\n- Instalações diversas\n\n10.1 - Amortizações\n\n11 - Material de transporte\n\n11.0 - Valor de aquisição ou de construção\n\n- Veículos motores\n\n- Carruagens de passageiros\n\n- Vagões de mercadorias\n\n- Material de transporte rodoviário\n\n- Material naval incluindo aerodeslizadores («hovercraft»)\n\n- Outro equipamento incluindo contentores\n\n11.1 - Amortizações\n\n12 - Outro equipamento (incluindo mobiliário e ferramentas e máquinas, veículos de serviços especializados - automotoras para inspecção de túneis, automotoras para inspecção de catenárias, etc. - estrados («palettes») e equipamento de elevação)\n\n12.0 - Valor de aquisição ou de construção\n\n12.1 - Amortizações\n\n13 - Imobilizações em curso\n\n- Instalações fixas\n\n- Material de transporte\n\n- Outros materiais\n\n14 - Participações de capital noutras empresas\n\n15 - Empréstimos a longo prazo (empréstimos a mais de um ano)\n\nSe for casso disso, é necessário indicar separadamente os empréstimos concedidos a uma empresa na qual a empresa de caminho-de-ferro tem participações de capital\n\n16 - Custos de emissão, prémios de emissão e prémios de reembolso dos empréstimos (relativos à parte ainda não amortizada)\n\n17 - Valores imobilizados diversos (patentes, concessões, licenças e outros direitos similares)\n\nCLASSE 2 - CONTAS DE EXISTÊNCIAS\n\n20 - Existências em armazém ou em parques\n\n- Valor de aquisição ou de construção\n\n- Correcções para depreciação\n\n21 - Existências em fabrico ou em reparação\n\nCLASSE 3 - CONTAS DE TERCEIROS\n\n30 - Devedores (fornecedores, clientes, pessoal, Estado, filiais, associadas ou accionistas, outros devedores e contas de transição e de regularização)\n\n- Valor nominal\n\n- Correcções para depreciação\n\n31 - Credores (fornecedores, clientes, pessoal, Estado, filiais, associadas ou accionistas, outros credores, incluindo depósitos e cauções recebidas e contas de transição e de regularização)\n\nCLASSE 4 - CONTAS FINANCEIRAS\n\n40 - Dívidas financeiras a menos de um ano\n\n41 - Empréstimos a menos de um ano\n\n- Valor nominal\n\n- Correcções para depreciação\n\n42 - Letras e outros títulos a receber\n\n- Valor nominal\n\n- Correcções para depreciação\n\n43 - Cheques a receber\n\n44 - Letras e outros títulos a pagar\n\n45 - Títulos em carteira\n\nNão incluindo os títulos de participação de capital noutras empresas (cf. conta no 14)\n\n- Valor de aquisição\n\n- Correscções para depreciação\n\n46 - Conta de cheques postais\n\n47 - Bancos\n\n48 - Caixa"
+  },
+  "230f497db686db0c": {
+   "fragment_id": "ANEXO III — ESQUEMA DA CONTA DE LUCROS E PERDAS",
+   "type": "divisao",
+   "heading": "ANEXO III — ESQUEMA DA CONTA DE LUCROS E PERDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — ESQUEMA DA CONTA DE LUCROS E PERDAS\n\n\"\"I - Exploração geral\" ID=\"1\">60. Despesas com o pessoal\n\n61. Fornecimentos e serviços de terceiros\n\n62. Impostos e taxas (1)\n\n63. Dotações para amortizações\n\n64. Dotações para provisões\n\n65. Encargos financeiros> ID=\"2\"\"\" ID=\"1\"\" ID=\"2\">70. Proveitos do tráfego\n\n0. Passageiros e bagagens\n\na) Cominho-de-ferro\n\nb) Estrada\n\nc) Outros meios de transporte\n\n1. Mercadorias\n\na) Caminho-de-ferro\n\ni) Comboio completo e vagão completo:\n\n- tráfego nacional\n\n- tráfego internacional\n\nii) Avulso e encomendas:\n\n- tráfego nacional\n\n- tráfego internacional\n\nb) Estrada\n\nc) Outros meios de transporte\n\n2. Tráfego postal\n\n71. Proveitos financeiros\n\n72. Outros proveitos\n\n73. Contrapartida de custos imputados a outras contas\n\n74. Compensações e auxílios recebidos c/base em:\n\n0. Regulamento (CEE) no 1191/69\n\n1. Regulamento (CEE) no 1192/69\n\n2. Regulamento (CEE) no 1107/70, artigo 3o\n\n3. Outras compensações e auxílios\"> ID=\"1\">Total de custos> ID=\"2\">Total de proveitos\"> ID=\"1\">91.0 - Lucro de exploração do exercício> ID=\"2\">91.1 - Perda de exploração do exercício\">II - Resumo de «Lucros e Perdas»\" ID=\"1\">91.1 Perda de exploração do exercício> ID=\"2\">91.0 Lucro de exploração do exercício\"> ID=\"1\">91.3 Perdas extrãordinárias> ID=\"2\">91.2 Lucros extrãordinários\"> ID=\"1\">91.4 Impostos sobre sociedades> ID=\"2\">91.5 Subvenção de equilibrio\n\n- Regulamento (CEE) no 1107/70, artigo 4o\n\n- outras\"> ID=\"1\">91.6 Lucros de exploração do exercício> ID=\"2\">91.7 Perda de exploração do exercício\"\">\n\n(1) Facultativo, ver Anexo IV"
+  },
+  "deab8e39e52de55a": {
+   "fragment_id": "ANEXO IV — NOMENCLATURA DA CONTA DE LUCROS E PERDAS",
+   "type": "divisao",
+   "heading": "ANEXO IV — NOMENCLATURA DA CONTA DE LUCROS E PERDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — NOMENCLATURA DA CONTA DE LUCROS E PERDAS\n\n(esquema: ver Anexo III)\n\nI. EXPLORAÇÃO GERAL\n\nCLASSE 6 - CONTAS DE CUSTOS\n\n60 (1) - Despesas com o pessoal: compreende os seguintes elementos:\n\n- remunerações do pessoal activo (incluindo as remunerações relacionadas com imobilizações, fornecimentos e trabalhos para terceiros)\n\n- encargos com reformas: montante de reformas pagas directamente pelos caminhos-de-ferro, deduzidas as quotizações pagas eventualmente pelos agentes activos. Montante das quotizações pagas pelos caminhos-de-ferro para caixas de pensões autónomas\n\n- encargos sociais diversos (prestações familiares, segurança, solidariedade social, formação de pessoal)\n\n61 (1) - Fornecimentos e serviços de terceiros: compreende os seguintes elementos:\n\n- consumo energético incluindo as relacionadas com imobilizações e terceiros\n\n- consumo de materiais incluindo as relacionadas com imobilizações e terceiros\n\n- prestações de terceiros incluindo as relacionadas com imobilizações e terceiros\n\n- rendas e alugueres\n\n- encargos diversos (seguros, indemnizações, fornecimentos de água e gás e despesas de gestão diversas)\n\n62 (1) - Impostos e taxas - (IVA não dedutível e outros impostos e taxas à excepção dos impostos sobre sociedades) os caminhos-de-ferro que utilizam esta rubrica devem indicar explicitamente de que taxas se trata.\n\n63 - Dotações para amortizações\n\n64 - Dotações para provisões (para certas perdas e encargos bem como seguros e substituição de imobilizações para certos caminhos-de-ferro).\n\n65 - Encargos financeiros\n\nCLASSE 7 - CONTAS DE PROVEITOS (2)\n\n70 - Proveitos do tráfego (incluindo os proveitos das actividades acessórias, com exclusão dos transportes em serviço)\n\n70.0 - Tráfego de passageiros e bagagens\n\na) Caminho-de-ferro\n\nb) Estrada\n\nc) Outros meios de transporte\n\n70.1 - Tráfego de mercadorias\n\na) Caminho-de-ferro\n\ni) Comboio - completo e vagão completo\n\n- tráfego nacional (3)\n\n- tráfego internacional (3)\n\nii) Avulso e encomendas\n\n- tráfego nacional (4)\n\n- tráfego internacional (5)\n\nb) Estrada\n\nc) Outros meios de transporte\n\n70.2 - Tráfego postal\n\n71 - Proveitos financeiros (juros de títulos em carteira e dividendos dos títulos de participação)\n\n72 - Outros proveitos\n\n72.1 - Proveitos de obras e fornecimentos por conta do Estado (investimentos na rede)\n\n72.2 - Proveitos de obras e fornecimentos para terceiros\n\n72.3 - Proveitos de outras actividades, incluindo alugueres\n\n72.4 - Proveitos diversos\n\n73 - Contrapartida dos encargos imputados a outras contas (nomeadamente contas de imobilizações e de existências)\n\n74 - Compensações e auxílios\n\n74.0 - Compensações por obrigações de serviço público: Regulamento (CEE) no 1191/69\n\n74.1 - Compensações a título de normalização de contas: Regulamento (CEE) no 1192/69 (de acordo com o disposto no artigo 10o)\n\n74.2 - Auxílios: Regulamento (CEE) no 1107/70, artigo 3o\n\n74.3 - Outras compensações e auxílios (com exclusão das subvenções de equilíbrio)\n\nII. RESUMO DE «LUCROS E PERDAS»\n\nCLASSE 9 - CONTAS DE RESULTADOS\n\n91.0-91.1 - Lucro ou perda de exploração do exercício\n\n91.2-92.3 - Lucros e perdas extrãordinárias\n\n(Rubricas nas quais são inscritas verbas de certo valor, resultantes de acontecimentos ou negócios fora da actividade normal da empresa e que, em princípio, não se repetem frequentemente)\n\n91.4 - Impostos sobre sociedades (impostos sobre lucros e em certos países também sobre capitais próprios)\n\n91.5 - Subvenção de equilíbrio\n\n- Regulamento (CEE) no 1107/70, artigo 4o\n\n- outras\n\nAs empresas, que determinam o resultado da conta de «Lucros e Perdas» sem tomar em consideração estas subvenções, podem indicar estas subvenções em nota separada.\n\n91.6 - Lucro do exercício - a transferir para a conta no 07.0\n\n91.7 - Perda do exercício - a transferir para a conta no 07.1\n\n(1) Os impostos e taxas são agrupados ou na rubrica 62, com indicação da sua natureza, ou incluídos nas rubricas 60 e 61.(2) Todos os proveitos são líquidos de impostos (nomeadamente, líquidos do IVA).(3) Definições:\n\n- tráfego nacional de mercadorias: esta expressão refere-se aos transportes cujas carga e descarga são efectuadas dentro do país.\n\n- tráfego internacional de mercadorias: esta expressão designa os transportes cuja carga e/ou descarga são efectuadas no estrangeiro.(4) Definições:\n\n- tráfego nacional de mercadorias: esta expressão refere-se aos transportes cujas carga e descarga são efectuadas dentro do país.\n\n- tráfego internacional de mercadorias: esta expressão designa os transportes cuja carga e/ou descarga são efectuadas no estrangeiro."
+  },
+  "e604ce5b9f812839": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977R2830 — PT — 15.03.2001 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977R2830) [REGULAMENTO (CEE) N.º 2830/77 DO CONSELHO](http://publications.europa.eu/resource/celex/31977R2830) [de 12 de Dezembro de 1977](http://publications.europa.eu/resource/celex/31977R2830) [relativo às medidas necessárias para tornar comparáveis as contabilidades e as contas anuais das empresas de caminho-de-ferro](http://publications.europa.eu/resource/celex/31977R2830) (JO L 334, 24.12.1977, p.13)\n\n**revogado por:**\n\n- [Directiva 2001/14/CE do Parlamento Europeu e do Conselho de 26 de Fevereiro de 2001](http://publications.europa.eu/resource/celex/32001L0014) — L 75 — 29 — 15.3.2001"
+  }
+ }
+}

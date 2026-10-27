@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0491:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0491-20121222",
+ "dre_path": null,
+ "source_lastmod": "2012-12-22",
+ "versions": [
+  {
+   "date": "1984-10-17",
+   "future": false,
+   "celex": "31984L0491",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d7b3de226038262",
+    "ca682cdcc3af11fb",
+    "f90476802aa0a24f",
+    "61a1eae7c2ce0c84",
+    "3c68c60ac0abacdf",
+    "c8cc3072ab72734a",
+    "dc21b4367093eaec",
+    "31293c232ff8934e",
+    "e506fb8ed2d9330c",
+    "4d0abc9f3b60c4b0",
+    "19c46b394eeaae2a",
+    "8ab775f4510a5464"
+   ]
+  },
+  {
+   "date": "2009-01-13",
+   "future": false,
+   "celex": "01984L0491-20090113",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime ANEXO I — VALORES-LIMITE, PRAZOS FIXADOS PARA A ENTRADA EM VIGOR DESSES VALORES E PROCEDIMENTO DE FISCALIZAÇÃO E DE CONTROLO A APLICAR àS DESCARGAS",
+    "Suprime ANEXO II — OBJECTIVOS DE QUALIDADE",
+    "Suprime ANEXO III — MÉTODOS DE MEDIDA",
+    "Suprime ANEXO IV — PROCEDIMENTO DE CONTROLO PARA OS OBJECTIVOS DE QUALIDADE"
+   ],
+   "fragments": [
+    "0a8bac5c089720ac"
+   ]
+  },
+  {
+   "date": "2012-12-22",
+   "future": false,
+   "celex": "01984L0491-20121222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "b749644b3d21c8c6"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d7b3de226038262": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 84/491/CEE do Conselho, de 9 de Outubro de 1984, relativa aos valores-limite e aos objectivos de qualidade para as descargas de hexaclorociclohexano** *Jornal Oficial nº L 274 de 17/10/1984 p. 0011 - 0017 Edição especial espanhola: Capítulo 15 Fascículo 5 p. 0059 Edição especial portuguesa: Capítulo 15 Fascículo 5 p. 0059 Edição especial finlandesa: Capítulo 15 Fascículo 6 p. 0159 Edição especial sueca: Capítulo 15 Fascículo 6 p. 0159*\n\nDIRECTIVA DO CONSELHO de 9 de Outubro de 1984 relativa aos valores-limite e aos objectivos de qualidade para as descargas de hexaclorociclohexano\n\n(84/491/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas derramadas no meio aquático da Comunidade (1) e, nomeadamente, os seus artigos 6o e 12o,\n\nTendo em conta a proposta da Comissão (2),\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que, para proteger o meio aquático da Comunidade contra a poluição por determinadas substâncias perigosas, o artigo 3o da Directiva 76/464/CEE instaura um regime de autorizações prévias que fixam normas de emissão para as descargas das substâncias constantes da lista I que figura no seu anexo; que o artigo 6o da dita directiva prevê a fixação de valores limites para as normas de emissão, mas também a fixação de objectivos de qualidade para o meio aquático afectado pelas descargas dessas substâncias;\n\nConsiderando que o hexaclorocicloexano, a seguir denominado «HCH», é um composto orgânico de halogénio e que, devido à sua toxicidade, à sua persistência e à sua bioacumulação, é objecto da lista I;\n\nConsiderando que os Estados-membros devem aplicar os valores limites, exceptuando-se os casos em que podem recorrer aos objectivos de qualidade;\n\nConsiderando que, dado que a poluição causada pelas descargas directas de HCH para as águas é provocada, em grande parte, pelos estabelecimentos que o produzem, o tratam ou, acessoriamente, o formulam no mesmo lugar, é conveniente fixar valores-limite para as descargas de tais estabelecimentos e fixar objectivos de qualidade para o meio aquático para o qual o HCH é descarregado por esses estabelecimentos;\n\nConsiderando que o impacto das outras fontes industriais directas de poluição pelo HCH é igualmente importante e que é, por conseguinte, conveniente, para as descargas em relação às quais não é possível, por razões técnicas, fixar valores limites de emissão a nível comunitário, que os Estados-membros fixem, de forma autónoma, normas de emissão que tenham em conta os melhores meios técnicos disponíveis;\n\nConsiderando que os Estados-membros devem assegurar que as medidas tomadas nos termos da presente directiva não tenham por efeito um acréscimo da poluição do solo e do ar;\n\nConsiderando que, para que os Estados-membros possam provar que os objectivos de qualidade são respeitados, é conveniente prever um procedimento de controlo específico;\n\nConsiderando que é necessário prever a fiscalização, por parte dos Estados-membros, do meio aquático afectado pelas descargas de HCH acima referidas, com vista a uma aplicação eficaz da presente directiva;\n\nConsiderando que é importante que a Comissão faça um relatório ao Conselho, de cinco em cinco anos, sobre a aplicação da presente directiva pelos Estados-membros;\n\nConsiderando que, dado que as águas subterrâneas são objecto da Directiva 80/68/CEE (5), não entram no campo de aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ca682cdcc3af11fb": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva:\n\n- fixa, nos termos do no 1, do artigo 6o, da Directiva 76/464/CEE, os valores-limite das normas de emissão do HCH para as descargas provenientes de estabelecimentos industriais, na acepção do ponto g) do artigo 2o, da presente directiva,\n\n- fixa, nos termos do no 2, do artigo 6o, da Directiva 76/464/CEE, os objectivos de qualidade para o meio aquático em relação ao HCH,\n\n- fixa, nos termos do no 4 do artigo 6o, da Directiva 76/464/CEE, os prazos estabelecidos para o cumprimento das condições previstas nas autorizações concedidas pelas altas autoridades competentes dos Estados-membros, no que se refere às descargas existentes,\n\n- fixa, nos termos do no 1, do artigo 12o, da Directiva 76/464/CEE, os métodos de medida de referência que permitem determinar a concentração de HCH nas descargas e no meio aquático,\n\n- estabelece, nos termos do no 3, do artigo 6o, da Directiva 76/464/CEE, um procedimento de controlo,\n\n- ordena aos Estados-membros que colaborem sempre que as descargas afectem as águas de vários Estados-membros.\n\n2. A presente directiva é aplicável às águas referidas no artigo 1o da Directiva 76/464/CEE, com excepção das águas subterrâneas."
+  },
+  "f90476802aa0a24f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, entende-se por:\n\na) HCH\n\nOs isómeros do 1,2,3,4,5,6-hexaclorocicloexano;\n\nb) lindano\n\nUm produto que contém, no mínimo, 99 % do isómero do 1,2,3,4,5,6-hexaclorocicloexano;\n\nc) extracção do lindano\n\nA separação do lindano a partir de uma mistura dos isómeros do hexaclorocicloexano;\n\nd) valores-limite\n\nOs valores-limite que figuram no Anexo I;\n\ne) objectivos de qualidade\n\nAs exigências que figuram no Anexo II;\n\nf) tratamento do HCH\n\nQualquer processo industrial que implique a produção ou a utilização do HCH ou qualquer outro processo industrial ao qual seja inerente a presença do HCH;\n\ng) estabelecimento industrial\n\nQualquer estabelecimento no qual se efectue o tratamento do HCH ou de qualquer outra substância que contenha o HCH;\n\nh) estabelecimento existente\n\nO estabelecimento industrial em actividade na data da notificação da presente directiva;\n\ni) novo estabelecimento\n\n- o estabelecimento industrial que iniciou a sua actividade após a data de notificação da presente directiva,\n\n- o estabelecimento industrial existente cuja capacidade de produção ou de tratamento do HCH foi consideravelmente aumentada, após a data de notificação da presente directiva."
+  },
+  "61a1eae7c2ce0c84": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os valores-limite, os prazos fixados para a entrada em vigor destes valores e o procedimento de fiscalização e de controlo a aplicar às descargas figuram no Anexo I.\n\n2. Os valores-limite aplicam-se, normalmente, no ponto onde as águas residuais que contêm HCH saem do estabelecimento industrial.\n\nSe as águas residuais que contêm HCH forem tratadas fora do estabelecimento industrial, numa instalação de tratamento destinada a eliminar o HCH, o Estado-membro pode permitir que os valores-limite sejam aplicados no ponto onde as águas residuais saem da instalação de tratamento.\n\n3. As autorizações previstas no artigo 3o, da Directiva 76/464/CEE, devem incluir disposições que sejam, pelo menos, tão severas como as que figuram no Anexo I da presente directiva, salvo no caso em que o Estado-membro observa o disposto no no 3, do artigo 6o, da Directiva 76/464/CEE, com base nos Anexos II e IV da presente directiva.\n\nEstas autorizações serão reexaminadas, pelo menos, de quatro em quatro anos.\n\n4. Sem prejuízo das suas obrigações decorrentes dos nos 1, 2 e 3, assim como das disposições da Directiva 76/464/CEE, os Estados-membros só podem conceder autorizações para os novos estabelecimentos se estes estabelecimentos aplicarem as normas que correspondam aos melhores meios técnicos disponíveis, quando tal for necessário para eliminar a poluição, nos termos do artigo 2o da dita directiva ou para prevenir as distorções da concorrência.\n\nQualquer que seja o método adoptado, se, por razões técnicas, as medidas previstas não correspondem aos melhores meios técnicos disponíveis, o Estado-membro fornecerá à Comissão, previamente a qualquer autorização, as justificações de tais razões.\n\nA Comissão transmitirá, imediatamente, essas justificações aos outros Estados-membros e dirigirá, a todos os Estados-membros, o mais rapidamente possível, um relatório com o seu parecer sobre a derrogação referida no segundo parágrafo. Se necessário, a Comissão apresentará simultaneamente propostas adequadas ao Conselho.\n\n5. O método de análise de referência a utilizar para determinar a presença de HCH figura no ponto 1, do Anexo III. Podem ser utilizados outros métodos, desde que os limites de detecção, a precisão e a exactidão destes métodos sejam, pelo menos, tão válidos como os que figuram no ponto 1, do Anexo III. A exactidão requerida para a medida do débito dos efluentes figura no ponto 2, do Anexo III.\n\n6. Os Estados-membros velarão por que as medidas tomadas nos termos da presente directiva não conduzam a um aumento da poluição pelo HCH noutros meios e, nomeadamente, no solo e no ar."
+  },
+  "3c68c60ac0abacdf": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros em causa assegurarão a fiscalização do meio aquático afectado pelas descargas dos estabelecimentos industriais.\n\nSempre que descargas afectem as águas de vários Estados-membros, estes colaborarão de modo a harmonizar os procedimentos de fiscalização."
+  },
+  "c8cc3072ab72734a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Com base nas informações que lhe forem fornecidas pelos Estados-membros, nos termos do artigo 13o da Directiva 76/464/CEE, e a seu pedido, apresentado caso a caso, em especial no que se refere:\n\n- aos pormenores relativos às autorizações que fixam as normas de emissão para as descargas de HCH,\n\n- aos resultados do inventário das descargas de HCH efectuados nas águas referidas no no 2 do artigo 1o,\n\n- aos resultados das medições efectuadas pela rede nacional instituida com vista a determinar as concentrações de HCH,\n\na Comissão procederá a uma avaliação comparativa da aplicação da presente directiva pelos Estados-membros.\n\n2. De cinco em cinco anos e, pela primeira vez quatro anos a contar da notificação da presente directiva, a Comissão transmitirá ao Conselho os resultados da avaliação comparativa referida no no 1.\n\n3. Caso haja modificações dos conhecimentos científicos relativos, principalmente, à toxicidade, à persistência e à acumulação de HCH nos organismos vivos e nos sedimentos ou caso haja aperfeiçoamento dos melhores meios técnicos disponíveis, a Comissão apresentará ao Conselho propostas adequadas destinadas a reforçar, se necessário, os valores-limite, e os objectivos de qualidade ou a fixar valores-limite e objectivos de qualidade suplementares."
+  },
+  "dc21b4367093eaec": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros aplicarão as medidas necessárias para dar cumprimento à presente directiva, antes de 1 de Abril de 1986. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptem no domínio regulado pela presente directiva."
+  },
+  "31293c232ff8934e": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 9 de Outubro de 1984.\n\nPelo Conselho\n\nO Presidente\n\nJ. BRUTON\n\n(1) JO no L 129 de 18. 5. 1976, p. 23.(2) JO no C 215 de 11. 8. 1983, p. 3.(3) JO no C 127 de 14. 5. 1984, p. 1.(4) JO no C 57 de 29. 2. 1984, p. 1.(5) JO no L 20 de 26. 1. 1980, p. 43."
+  },
+  "e506fb8ed2d9330c": {
+   "fragment_id": "ANEXO I — VALORES-LIMITE, PRAZOS FIXADOS PARA A ENTRADA EM VIGOR DESSES VALORES E PROCEDIMENTO DE FISCALIZAÇÃO E DE CONTROLO A APLICAR àS DESCARGAS",
+   "type": "divisao",
+   "heading": "ANEXO I — VALORES-LIMITE, PRAZOS FIXADOS PARA A ENTRADA EM VIGOR DESSES VALORES E PROCEDIMENTO DE FISCALIZAÇÃO E DE CONTROLO A APLICAR àS DESCARGAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — VALORES-LIMITE, PRAZOS FIXADOS PARA A ENTRADA EM VIGOR DESSES VALORES E PROCEDIMENTO DE FISCALIZAÇÃO E DE CONTROLO A APLICAR àS DESCARGAS\n\n1. Valores-limite e prazos\n\n>(1)()(4)()\"> ID=\"1\" ASSV=\"2\">1. Estabelecimento para a produção de HCH> ID=\"2\">Gramas de HCH por tonelada de HCH produzido (2)()> ID=\"3\">3> ID=\"4\">2\"> ID=\"2\">Miligramas de HCH por litro descarregado (3)()> ID=\"3\">3> ID=\"4\">2\"> ID=\"1\" ASSV=\"2\">2. Estabelecimento para a extracção de lindano> ID=\"2\">Gramas de HCH por tonelada de HCH tratado (2)()> ID=\"3\">15> ID=\"4\">4\"> ID=\"2\">Miligramas de HCH por litro descarregado (3)()> ID=\"3\">8> ID=\"4\">2\"> ID=\"1\" ASSV=\"2\">3. Estabelecimento onde é produzido HCH e extraído on lindano> ID=\"2\">Gramos de HCH por tonelada de HCH produzida (2)()> ID=\"3\">16> ID=\"4\">5\"> ID=\"2\">Miligramas de HCH por litro descarregado (3)()> ID=\"3\">6> ID=\"4\">2\"\">\n\n2. Os valores-limite, expressos em termos de concentração, que, em princípio, não devem ser ultrapassados, figuram no quadro acima. Os valores-limite expressos em concentrações máximas nunca podem ser superiores aos valores-limite expressos em peso, divididos pelas necessidades de água por tonelada de HCH produzido ou tratado.\n\nOs valores-limite, em peso, expressos em termos da quantidade de HCH decarregada em relação à quantidade de HCH produzido ou tratado, que figuram no quadro acima, devem sempre ser respeitados.\n\n3. Os valores-limite das médias diárias serão iguais, aquando dos controlos executados de acordo com as disposições dos pontos 4 e 5 seguintes ao dobro dos valores-limite das médias mensais correspondentes que figuram no quadro acima.\n\n4. Para verificar se as descargas satisfazem as normas de emissão fixadas nos termos da presente directiva, deverá ser instituído um procedimento de controlo.\n\nEste procedimento deverá prever a recolha e a análise de amostras, bem como a medição do débito e a quantidade de HCH produzido ou tratado. Se for impossível determinar a quantidade de HCH produzido ou tratado, o procedimento de controlo pode basear-se, no máximo, sobre a quantidade de HCH susceptível de ser produzida ou tratada durante o período em causa, tendo em conta as instalações de produção em funcionamento e os limites sobre os quais se baseia a autorização.\n\n5. A amostragem é realizada a partir de uma amostra representativa da descarga durante um periode de vinte e quatro horas. A quantidade de HCH descarregada ao longo de um mês deve ser calculada com base nas quantidades de HCH descarregadas diariamente.\n\nPorém, pode ser instaurado um procedimento de controlo simplificado para os estabelecimentos industriais que não descarreguem mais de 3 kg de HCH por ano.\n\n(1)() Os valores-limite indicados no quadro incluem igualmente as descargas eventuais provenientes da formulação do lindano no mesmo local.\n\nPara os sectores industriais que tratam o HCH e que não são citados no presente quadro, nomeadamente para os estabelecimentos industriais de formulação do lindano que produzem agentes de protecção das plantas, da madeira e dos cabos, o Conselho definirá, posteriormente, sempre que necessário, medidas adequadas e valores-limite. Entretanto, os Estados-membros fixarão, de forma autónoma, as normas de emissão para as descargas destes estabelecimentos, tendo em consideração os melhores meios técnicos disponíveis.\n\n(2)() Valores-limite em peso (média mensal).\n\n(3)() Valores-limite em concentração (concentração média mensal em HCH, ponderada em função do débito do efluente).\n\n(4)() Valores-limite aplicáveis à quantidade total de HCH presente em todas as emissõs do águas, que contêm HCH, provenientes do local de estabelecimento industrial."
+  },
+  "4d0abc9f3b60c4b0": {
+   "fragment_id": "ANEXO II — OBJECTIVOS DE QUALIDADE",
+   "type": "divisao",
+   "heading": "ANEXO II — OBJECTIVOS DE QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — OBJECTIVOS DE QUALIDADE\n\nPara os Estados-membros que apliquem a excepção prevista no no 3, do artigo 6o, da Directiva 76/464/CEE, as normas de emissão que os Estados-membros devem estabelecer e fazer aplicar, nos termos do artigo 5o da dita directiva, serão fixadas de forma que o(s) objectivo(s) de qualidade adequado(s), entre aqueles a seguir enumerados, seja(m) respeitado(s) na região afectada pelas descargas de HCH. A autoridade competente indica a região afectada em cada caso e seleciona, entre os objectivos de qualidade que figuram no ponto 1, aquele ou aqueles que considere adequado(s), de acordo com a utilização a que se destina a região afectada e tendo em conta o facto que o objectivo da presente directiva é o de eliminar qualquer forma a poluição.\n\n1. A fim de eliminar a poluição, na acepção da Directiva 76/464/CEE e nos termos do artigo 2o da dita directiva, são fixados os objectivos de qualidade (1) seguintes, que serão medidos num ponto suficientemente próximo do ponto de descarga (2).\n\n1.1. A concentração total de HCH, nas águas interiores de superfície afectadas pelas descargas, não deve exceder 100 nanogramas por litro.\n\n1.2. A concentração total de HCH nas águas dos estuários e dos mares territoriais, não deve exceder 20 nanogramas por litro.\n\n1.3. No caso das águas utilizadas para a produção de água potável, o teor em HCH deve respeitar as exigências da Directiva 75/440/CEE (3).\n\n2. Além das exigências acima referidas, as concentrações de HCH nas águas interiores de superfície devem ser determinadas pela rede nacional referida no artigo 5o da presente directiva e os resultados devem ser comparados com uma concentração total de HCH de 50 nanogramas por litro.\n\nSe esta concentração não for respeitada num dos pontos da rede nacional, as razões devem ser indicadas à Comissão.\n\n3. A concentração total de HCH nos sedimentos e/ou nos moluscos e/ou nos crustáceos e/ou nos peixes não deve aumentar de forma significativa com o tempo.\n\n4. Quando se aplicam vários objectivos de qualidade às águas de uma região, a qualidade dessas águas deve ser suficiente para respeitar cada um desses objectivos.\n\n(1) As concentrações indicadas nos pontos 1.1 e 1.2 constituem as exigências mínimas necessárias para proteger a vida aquática da poluição, na acepção do no 2, ponto e), do artigo 1o, da Directiva 76/464/CEE.(2) Com excepção do objectivo de qualidade referido no ponto 1.3, todas as concentrações se referem à média aritmética dos resultados obtidos durante um ano.(3) A Directiva 75/440/CEE diz respeito à qualidade exigida para as águas superficiais destinadas à produção de água alimentar nos Estados-membros (JO no L 194 de 25. 7. 1975, p. 26). Esta directiva prevê um valor imperativo «pesticidas-total» (que inclui o HCH)."
+  },
+  "19c46b394eeaae2a": {
+   "fragment_id": "ANEXO III — MÉTODOS DE MEDIDA",
+   "type": "divisao",
+   "heading": "ANEXO III — MÉTODOS DE MEDIDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MÉTODOS DE MEDIDA\n\n1. O método de análise de referência para determinar a concentração das substâncias em causa nas descargas e nas águas é a cromatografia em fase gasosa, com detecção por captura de electrões, após extracção por solvente adequado e purificação.\n\nA exactidão (1) e a precisão (1) do método devem ser de ± 50 % para uma concentração que represente o dobro do valor do limite de detecção.\n\nO limite de detecção (1) deve ser:\n\n- no caso das descargas, um décimo da concentração exigida no local da amostragem,\n\n- no caso das águas submetidas a um objectivo de qualidade:\n\ni) para as águas interiores de superfície, um décimo da concentração \"ê\" indicada no objectivo de qualidade;\n\nii) para as águas de estuários e de mares territoriais, um quinto da concentração indicada no objectivo de qualidade,\n\n- no caso de sedimentos, 1 µg/kg, peso seco,\n\n- no caso dos organismos vivos, 1 µg/kg, peso húmido.\n\n2. A medida do débito dos efluentes deve ser efectuada com uma exactidão de ± 20 %.\n\n(1) As definições destes termos figuram na Directiva 79/869/CEE do Conselho, de 9 de Outubro de 1979, relativo aos métodos de medida e à frequência de amostragem e de análise das águas superficiais destinadas à produção de água alimentar nos Estados-membros (JO no L 271 de 29. 10. 1979, p. 44)."
+  },
+  "8ab775f4510a5464": {
+   "fragment_id": "ANEXO IV — PROCEDIMENTO DE CONTROLO PARA OS OBJECTIVOS DE QUALIDADE",
+   "type": "divisao",
+   "heading": "ANEXO IV — PROCEDIMENTO DE CONTROLO PARA OS OBJECTIVOS DE QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — PROCEDIMENTO DE CONTROLO PARA OS OBJECTIVOS DE QUALIDADE\n\n1. A autoridade competente define as prescrições, as modalidades de fiscalização e os prazos necessários para assegurar o respeito do ou dos objectivos de qualidade em causa, no que se refere a qualquer autorização concedida nos termos da presente directiva.\n\n2. Para cada objectivo de qualidade escolhido e aplicado, o Estado-membro faz um relatório à Comissão, nos termos do no 3, do artigo 6o, da Directiva 76/464/CEE, sobre:\n\n- os pontos de descarga e o dispositivo de dispersão,\n\n- a zona na qual se aplica o objectivo de qualidade,\n\n- a localização dos pontos de colheita,\n\n- a frequência de amostragem,\n\n- os métodos de amostragem e de medida,\n\n- os resultados obtidos.\n\n3. As amostras devem ser suficientemente representativas da qualidade do meio aquático na região afectada pelas descargas e a frequência de amostragem deve ser suficiente para pôr em evidência as modificações eventuais no meio aquático, tendo em conta, nomeadamente, as variações naturais do regime hidrológico."
+  },
+  "0a8bac5c089720ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0491 — PT — 13.01.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/384L0491) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/384L0491) [de 9 de Outubro de 1984](http://publications.europa.eu/resource/celex/384L0491) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de hexaclorociclohexano](http://publications.europa.eu/resource/celex/384L0491) [(84/491/CEE)](http://publications.europa.eu/resource/celex/384L0491) (JO L 274, 17.10.1984, p.11)\n\n**revogado por:**"
+  },
+  "b749644b3d21c8c6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0491 — PT — 22.12.2012 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984L0491) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31984L0491) [de 9 de Outubro de 1984](http://publications.europa.eu/resource/celex/31984L0491) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de hexaclorociclohexano](http://publications.europa.eu/resource/celex/31984L0491) [(84/491/CEE)](http://publications.europa.eu/resource/celex/31984L0491) (JO L 274, 17.10.1984, p.11)\n\n**revogado por:**\n\n- [Directiva 2008/105/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0105) — L 348 — 84 — 24.12.2008"
+  }
+ }
+}

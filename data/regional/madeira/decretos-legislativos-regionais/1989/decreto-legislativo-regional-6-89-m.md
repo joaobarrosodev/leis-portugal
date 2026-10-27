@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:612467:por
+title: Decreto Legislativo Regional n.º 6/89/M
+short_title: null
+summary: Aprova a Lei Orgânica da Secretaria Regional dos Assuntos Sociais. Revoga o Decreto Legislativo Regional n.º 8/86/M,
+  de 14 de Junho
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 6/89/M
+official_date: null
+publication_date: '1989-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1989, Série I de 1989-02-18
+  number: '41'
+  series: I
+  supplement: null
+  pages: 673 - 675
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04100/06730675.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '612467'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/6-1989-612467
+  internal: pt:dre:612467:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1989-612467
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1989-612467
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:38:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 92c2ecccfbe1f9bff187fc3b51ee4f74924665128df3774c22f2e2e126d25287
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
+relationships:
+- type: amended_by
+  target: pt:dre:571259:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:571259:por
+  label: "Aprovada nova estrutura orgânica, pelo DRR.6-A/93/M.24.03.1993.GR-RAM, DR.IS-B [71]Supl de 25.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-a-1993-571259
+  date: '1993-03-24'
+- type: cites
+  target: pt:dre:179992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626807:por
+  label: "Revogado, com a entrada em vigor do diploma a que se refere o art. 13.º do DLR 26/92/M, de 11-Nov, relativo à Secretaria\
+    \ Regional dos Assuntos Sociais, com excepção dos seus arts 5.º, n.º 2, e 7.º, n.º 2, pelo DLR.3/93/M.10.02.1993.ALR-RAM,\
+    \ DR.IS-A [50] de 01.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1993-626807
+  date: '1993-02-10'
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:38:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 6/89/M
+
+Lei Orgânica da Secretaria Regional dos Assuntos Sociais
+
+As alterações produzidas na estrutura do Governo Regional pelo [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, determinaram a necessidade de se proceder ao ajustamento da orgânica da Secretaria Regional dos Assuntos Sociais, por forma a adequá-la aos princípios e orientações decorrentes do conteúdo do referido diploma.
+
+Apesar das alterações agora introduzidas no âmbito das atribuições desta Secretaria Regional, verifica-se, através da experiência observada com o seu funcionamento, toda a conveniência em manter as características essenciais dos serviços existentes na anterior estrutura, na medida em que estes se tenham revelado ajustados à prossecução de uma política eficaz nos domínios da saúde e da Segurança Social. Isto sem prejuízo da necessidade de serem criadas desde já condições para se proceder, num futuro próximo, a alguns ajustamentos na orgânica e natureza dos serviços, por forma a dotá-los de maior eficácia e operacionalidade em termos de gestão dos seus recursos humanos e materiais.
+
+Deste modo, entendeu-se por conveniente continuar a consagrar para alguns dos serviços que compõem a estrutura orgânica da Secretaria Regional dos Assuntos Sociais, nomeadamente os do sector da saúde, o princípio da autonomia administrativa e financeira, que lhes vinha sendo aplicado, prosseguindo-se assim com as condições entendidas como adequadas ao desempenho das respectivas funções.
+
+Por outro lado, constatou-se a necessidade de criar para o sector da Segurança Social um organismo revestindo a natureza de um serviço personalizado e dispondo de autonomia administrativa, financeira e patrimonial, com o qual se pretendem criar condições mais adequadas à prossecução dos objectivos pretendidos no plano da gestão patrimonial e financeira deste sector, sem que seja posto em causa o necessário enquadramento jurídico-institucional dos respectivos serviços na estrutura do Governo desta Região Autónoma.
+
+Finalmente, com a enunciação formal do Serviço de Formação Permanente de Pessoal na estrutura orgânica da Secretaria Regional dos Assuntos Sociais, agora criada, pretende-se reconhecer a importância da formação profissional contínua num sector cujas especificidades técnicas são evidentes, bem como do seu contributo para o esforço de modernização e racionalização dos serviços, que vem sendo desenvolvido nos últimos anos pelo Governo Regional, com o objectivo de criar condições mais adequadas a um correcto aproveitamento dos recursos técnicos postos à disposição da Região Autónoma da Madeira nas áreas da saúde e da Segurança Social.
+
+Assim:
+
+Ao abrigo da alínea a) do artigo 229.º da Constituição da República, a Assembleia Regional da Madeira determina, para valer como lei, o seguinte:
+
+### CAPÍTULO I — Da natureza, atribuições e tutela
+
+###### Artigo 1.º — Natureza e atribuições
+
+Em conformidade com o disposto nos artigos 1.º, alínea g), e 7.º, alíneas a) e b), do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, a Secretaria Regional dos Assuntos Sociais, adiante designada por SRAS, é o departamento do Governo Regional da Madeira ao qual compete, em termos genéricos, definir e coordenar a política regional nos domínios da saúde e da Segurança Social.
+
+###### Artigo 2.º — Tutela
+
+A SRAS é dirigida superiormente pelo Secretário Regional dos Assuntos Sociais, que a representa a todos os níveis, podendo, nos termos da lei, delegar competências no chefe de gabinete ou nos titulares de cargos de direcção e chefia dos órgãos e serviços que integram a estrutura desta Secretaria Regional.
+
+### CAPÍTULO II — Da estrutura e serviços
+
+###### Artigo 3.º — Estrutura
+
+A estrutura da SRAS compreende os seguintes órgãos e serviços:
+
+a) Gabinete do Secretário Regional;
+
+b) Direcção Regional dos Hospitais;
+
+c) Direcção Regional de Saúde Pública;
+
+d) Direcção Regional da Segurança Social;
+
+e) Escola de Enfermagem Pós-Básica da Madeira;
+
+f) Serviço de Formação Permanente de Pessoal.
+
+###### Artigo 4.º — Gabinete do Secretário Regional
+
+Integram o Gabinete do Secretário Regional todos os órgãos e serviços da SRAS que desenvolvem acções de apoio directo ao Secretário Regional e não se enquadram em qualquer dos restantes departamentos enunciados no artigo anterior.
+
+###### Artigo 5.º — Direcção Regional dos Hospitais
+
+1 - A Direcção Regional dos Hospitais, abreviadamente designada por DRHH, é um departamento da SRAS ao qual compete coordenar, dirigir e apoiar tecnicamente as acções desenvolvidas pelos estabelecimentos hospitalares da Região, em conformidade com as orientações superiores do Secretário Regional dos Assuntos Sociais.
+
+2 - A DRHH integra o Centro Hospitalar do Funchal, abreviadamente designado por CHF, com características de um serviço personalizado, dotado de autonomia administrativa, financeira e patrimonial, além dos órgãos, serviços e equipamentos indispensáveis à prossecução dos objectivos fixados para o sector hospitalar da Região Autónoma da Madeira.
+
+###### Artigo 6.º — Direcção Regional de Saúde Pública
+
+1 - A Direcção Regional de Saúde Pública, abreviadamente designada por DRSP, é um departamento da SRAS, dotado de autonomia administrativa e financeira, ao qual compete coordenar, dirigir e apoiar tecnicamente as acções desenvolvidas no âmbito da saúde pública e dos cuidados individuais de saúde não diferenciados, em conformidade com as orientações superiores do Secretário Regional dos Assuntos Sociais.
+
+2 - A DRSP integra o Laboratório Regional de Saúde Pública, todos os centros de saúde regionais, além dos órgãos, serviços e equipamentos indispensáveis à prossecução dos objectivos fixados para o sistema de saúde pública e dos cuidados de saúde não diferenciados na Região Autónoma da Madeira.
+
+###### Artigo 7.º — Direcção Regional da Segurança Social
+
+1 - A Direcção Regional da Segurança Social, abreviadamente designada por DRSS, é um departamento da SRAS ao qual compete coordenar, dirigir e apoiar tecnicamente as acções desenvolvidas no âmbito do sistema da Segurança Social na Região Autónoma da Madeira, com excepção das áreas da educação especial, creches e jardins-de-infância.
+
+2 - A DRSS integra o Centro de Segurança Social da Madeira, abreviadamente designado por CSSM, que reveste a natureza de um serviço personalizado, dotado de autonomia administrativa, financeira e patrimonial, além dos órgãos, serviços e equipamentos indispensáveis à prossecução dos objectivos fixados para o sector da Segurança Social nesta Região Autónoma.
+
+###### Artigo 8.º — Escola de Enfermagem Pós-Básica da Madeira
+
+A Escola de Enfermagem Pós-Básica da Madeira, criada pelo [Decreto Legislativo Regional n.º 16/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1985-179992), de 29 de Julho, abreviadamente designada por EEPBM, é um estabelecimento da SRAS, dotado de autonomia técnico-pedagógica e administrativa, ao qual compete desenvolver acções no domínio da formação pós-básica de enfermeiros, incluindo as áreas de investigação, administração e docência.
+
+###### Artigo 9.º — Serviço de Formação Permanente de Pessoal
+
+O Serviço de Formação Permanente de Pessoal, abreviadamente designado por SFPP, é um serviço de apoio à gestão dos recursos humanos da SRAS, dotado de autonomia administrativa, ao qual compete coordenar e desenvolver acções no âmbito da formação e aperfeiçoamento profissional do pessoal pertencente aos quadros desta Secretaria Regional e de instituições particulares, sem fins lucrativos, do respectivo âmbito e tutela.
+
+###### Artigo 10.º — Natureza, orgânica e funcionamento dos serviços
+
+A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços referidos no artigo 3.º do presente diploma serão definidos por decreto regulamentar regional.
+
+### CAPÍTULO III — Do pessoal
+
+###### Artigo 11.º — Quadros
+
+O pessoal da SRAS é agrupado de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal de informática;
+
+d) Pessoal técnico;
+
+e) Pessoal técnico-profissional;
+
+f) Pessoal administrativo;
+
+g) Pessoal auxiliar;
+
+h) Pessoal operário.
+
+###### Artigo 12.º — Ingresso, carreira, provimento e mobilidade
+
+As condições de ingresso, acesso e progressão nas carreiras, bem como os requisitos de provimento e mobilidade do pessoal pertencente aos quadros dos diversos departamentos e serviços da SRAS, são as constantes das normais gerais e especiais aplicáveis à administração regional autónoma.
+
+###### Artigo 13.º — Pessoal além dos quadros
+
+Para acorrer a necessidades individuais ou extraordinárias dos departamentos e serviços que integram a SRAS, poderá ser autorizada a contratação de pessoal além dos quadros pelo Secretário Regional dos Assuntos Sociais, nos termos da legislação em vigor.
+
+###### Artigo 14.º — Prestação de serviços
+
+Nos termos da legislação em vigor e sempre que as circunstâncias o justifiquem, o Secretário Regional dos Assuntos Sociais pode:
+
+a) Encomendar estudos e serviços;
+
+b) Convidar entidades nacionais e estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual;
+
+c) Contratar pessoal em regime de tarefa.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 15.º — Primeiro provimento
+
+O primeiro provimento em lugares dos quadros de pessoal do Gabinete do Secretário Regional e serviços dependentes far-se-á através de lista nominativa, aprovada pelo vice-presidente do Governo Regional e Coordenação Económica e pelos Secretários Regionais da Administração Pública e dos Assuntos Sociais e sujeita a anotação da Secção Regional do Tribunal de Contas, sempre que se tratar de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem.
+
+###### Artigo 16.º — Revogação
+
+É revogado o [Decreto Legislativo Regional n.º 8/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1986-569901), de 14 de Junho.
+
+Aprovado em sessão plenária em 13 de Dezembro de 1988.
+
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
+
+Assinado em 30 de Dezembro de 1988.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

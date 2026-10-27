@@ -1,0 +1,1406 @@
+---
+schema_version: '1.0'
+id: pt:dre:66619896:por
+title: Portaria n.º 57/2015
+short_title: null
+summary: Aprova o Regulamento de aplicação dos regimes de pagamento base, pagamento por práticas agrícolas benéficas para
+  o clima e para o ambiente, pagamento para os jovens agricultores, pagamento específico para o algodão e regime da pequena
+  agricultura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 57/2015
+official_date: null
+publication_date: '2015-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2015, Série I de 2015-02-27
+  number: '41'
+  series: I
+  supplement: null
+  pages: 1232 - 1245
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/02/04100/0123201245.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-02-03'
+version_history:
+  file: portaria-57-2015.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-11-26'
+    amending: pt:dre:71100901:por
+    amending_title: Portaria n.º 409/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+  - date: '2016-02-12'
+    amending: pt:dre:73576686:por
+    amending_title: Portaria n.º 24-B/2016
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 35.º
+    - Altera Anexo II
+    - Altera Anexo IV
+  - date: '2016-12-17'
+    amending: pt:dre:105371773:por
+    amending_title: Portaria n.º 321/2016
+    changes:
+    - Adita Artigo 34.º-A
+    - Adita Artigo 34.º-B
+    - Adita Capítulo IX
+    - Altera Artigo 15.º
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 32.º
+    - Altera Capítulo VIII
+  - date: '2017-09-15'
+    amending: pt:dre:108141766:por
+    amending_title: Portaria n.º 273/2017
+    changes:
+    - Altera Artigo 34.º-B
+  - date: '2018-01-26'
+    amending: pt:dre:114782542:por
+    amending_title: Declaração de Retificação n.º 7/2018; Portaria n.º 35/2018
+    changes:
+    - Retifica Artigo 5.º
+    - Retifica Artigo 13.º
+    - Retifica Artigo 34.º-C
+    - Adita Artigo 34.º-C
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Anexo II
+    - Revoga Anexo I
+  - date: '2018-07-25'
+    amending: pt:dre:115764794:por
+    amending_title: Portaria n.º 218/2018
+    changes:
+    - Altera Anexo II
+  - date: '2019-01-15'
+    amending: pt:dre:117754021:por
+    amending_title: Portaria n.º 12/2019
+    changes:
+    - Adita Artigo 34.º-D
+    - Altera Artigo 12.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Anexo II
+  - date: '2020-01-25'
+    amending: pt:dre:128470388:por
+    amending_title: Portaria n.º 18/2020
+    changes:
+    - Adita Anexo VI
+    - Altera Artigo 13.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+  - date: '2021-02-12'
+    amending: pt:dre:157116188:por
+    amending_title: Portaria n.º 33/2021
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 5.º-A
+    - Altera Capítulo II
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º-B
+    - Altera Anexo II
+    - Altera Anexo III
+    - Revoga Anexo IV
+  - date: '2022-02-03'
+    amending: pt:dre:178532529:por
+    amending_title: Portaria n.º 74/2022
+    changes:
+    - Adita Artigo 5.º-B
+    - Altera Artigo 2.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º-A
+    - Altera Artigo 34.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/57/2015/p/cons/20220202/pt/html
+  oj: null
+  dre: '66619896'
+  dre_path: /dr/detalhe/portaria/57-2015-66619896
+  internal: pt:dre:66619896:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896
+  metadata_url: https://data.dre.pt/eli/port/57/2015/p/cons/20220202/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-71124978
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-71124978
+  retrieved_at: '2026-10-22T12:04:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d8ae2aa8887de6d2c8345fe420616233f5c07fce8808cccff0621aeea08fd12c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:04:35Z'
+  notes: 11 versão(ões); histórico completo em portaria-57-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desenvolvimento Rural
+- Apoio ao Investimento
+- Projeto de Investimento
+- Pagamento
+- Jovem Agricultor
+- Exploração Agrícola
+- Agricultor
+- Regulamento
+- Regulamento CE
+- Agricultura
+- Algodão
+- Subsídio não Reembolsável
+- PDR 2020
+relationships:
+- type: amended_by
+  target: pt:dre:71100901:por
+  label: Altera Artigo 3.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 16.º;
+    Altera Artigo 18.º; Altera Artigo 21.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901
+  date: '2015-11-25'
+- type: amended_by
+  target: pt:dre:73576686:por
+  label: Altera Artigo 4.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo
+    19.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 35.º; Altera Anexo II; Altera Anexo IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686
+  date: '2016-02-11'
+- type: amended_by
+  target: pt:dre:105371773:por
+  label: Adita Artigo 34.º-A; Adita Artigo 34.º-B; Adita Capítulo IX; Altera Artigo 15.º; Altera Artigo 1.º; Altera Artigo
+    4.º; Altera Artigo 5.º; Altera Artigo 12.º; Altera Artigo 17.º; Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo
+    27.º; Altera Artigo 32.º; Altera Capítulo VIII
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773
+  date: '2016-12-16'
+- type: amended_by
+  target: pt:dre:108141766:por
+  label: Altera Artigo 34.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/273-2017-108141766
+  date: '2017-09-14'
+- type: amended_by
+  target: pt:dre:114561768:por
+  label: Retifica Artigo 5.º; Retifica Artigo 13.º; Retifica Artigo 34.º-C; Adita Artigo 34.º-C; Altera Artigo 4.º; Altera
+    Artigo 5.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 21.º; Altera Artigo 25.º; Altera
+    Artigo 26.º; Altera Anexo II; Revoga Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768
+  date: '2018-01-25'
+- type: amended_by
+  target: pt:dre:114782542:por
+  label: Retifica Artigo 5.º; Retifica Artigo 13.º; Retifica Artigo 34.º-C; Adita Artigo 34.º-C; Altera Artigo 4.º; Altera
+    Artigo 5.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 21.º; Altera Artigo 25.º; Altera
+    Artigo 26.º; Altera Anexo II; Revoga Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2018-114782542
+  date: '2018-03-01'
+- type: amended_by
+  target: pt:dre:115764794:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/218-2018-115764794
+  date: '2018-07-24'
+- type: amended_by
+  target: pt:dre:117754021:por
+  label: Adita Artigo 34.º-D; Altera Artigo 12.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021
+  date: '2019-01-14'
+- type: amended_by
+  target: pt:dre:128470388:por
+  label: Adita Anexo VI; Altera Artigo 13.º; Altera Artigo 25.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/18-2020-128470388
+  date: '2020-01-24'
+- type: amended_by
+  target: pt:dre:157116188:por
+  label: Adita Artigo 2.º-A; Adita Artigo 5.º-A; Altera Capítulo II; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    25.º; Altera Artigo 27.º; Altera Artigo 33.º; Altera Artigo 34.º-B; Altera Anexo II; Altera Anexo III; Revoga Anexo IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188
+  date: '2021-02-11'
+- type: amended_by
+  target: pt:dre:178532529:por
+  label: Adita Artigo 5.º-B; Altera Artigo 2.º-A; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 33.º; Altera Artigo
+    34.º-A; Altera Artigo 34.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529
+  date: '2022-02-02'
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: cites
+  target: celex:31999R1257
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: cites
+  target: celex:32008R0637
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/637/oj
+- type: cites
+  target: celex:32009L0147
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/147/oj
+- type: cites
+  target: celex:32009R0073
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/73/oj
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1306/oj
+- type: cites
+  target: celex:32013R1307
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1307/oj
+- type: cites
+  target: celex:32014R0639
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/639/oj
+- type: cites
+  target: celex:32014R0641
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/641/oj
+- type: cites
+  target: eli:http://data.europa.eu/el
+  label: null
+  source: http://data.europa.eu/el
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/55/2005/12/20/p/dre
+- type: cites
+  target: pt:dre:546872:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/25/2005/04/18/p/dre
+- type: cites
+  target: pt:dre:617116:por
+  label: null
+  source: http://data.dre.pt/eli/port/68/2010/02/03/p/dre
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/7/2005/02/01/p/dre
+- type: cites
+  target: pt:dre:671916:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/21/2006/03/28/p/dre
+article_structure:
+  article_count: 46
+  section_count: 16
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:04:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 57/2015
+
+Portaria n.º 57/2015
+
+de 27 de fevereiro
+
+O Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece as regras para os pagamentos diretos aos agricultores no âmbito da política agrícola comum (PAC), veio revogar o Regulamento (CE) n.º 637/2008 e o Regulamento (CE) n.º 73/2009, ambos do Conselho, determinando, consequentemente, a caducidade dos direitos atribuídos no âmbito do regime de pagamento único, e introduzindo novos regimes de apoio direto em resultado do acordo político sobre a reforma da PAC alcançado em dezembro de 2013.
+
+De modo a assegurar o bom funcionamento dos regimes no novo quadro jurídico, foram adotadas regras comunitárias para os regimes de pagamentos diretos aos agricultores, através do Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março e do Regulamento de Execução (UE) n.º 641/2014, da Comissão, de 16 de junho, e a nível nacional, pelo Despacho normativo n.º 3/2015, de 15 de janeiro.
+
+Os novos regimes de pagamentos diretos iniciam-se no dia 1 de janeiro de 2015, sendo por isso necessário proceder ao estabelecimento das modalidades de aplicação nacional, designadamente no que se refere à implementação do conceito de agricultor ativo, dos requisitos mínimos para a concessão dos pagamentos diretos, do mecanismo de redução de pagamentos, do regime de pagamento base, do pagamento por práticas agrícolas benéficas para o clima e para o ambiente, do pagamento para os jovens agricultores, do pagamento específico para o algodão e do regime da pequena agricultura.
+
+Relativamente ao regime de pagamento de base, importa definir as condições de acesso dos agricultores, designadamente as que dizem respeito à primeira atribuição de direitos ao pagamento, à elegibilidade e condições de utilização das parcelas agrícolas, bem como às condições em que se processam as transferências de direitos e a atribuição de direitos com proveniência da reserva nacional.
+
+Para efeitos de elegibilidade das superfícies das subparcelas ao regime de pagamento base são definidos diferentes graus de elegibilidade, de forma a garantir que as superfícies a beneficiar, pelo regime de pagamento base, se encontram em condições agrícolas e de pastoreio adequadas, incluindo a introdução de um critério de encabeçamento mínimo nas superfícies de prados e pastagens permanentes.
+
+Um dos objetivos da nova PAC é a melhoria do desempenho ambiental através de uma componente greening, obrigatória no regime de pagamento base, que apoiará práticas agrícolas benéficas para o clima e para o ambiente, aplicáveis em toda a superfície elegível da exploração agrícola. O pagamento por práticas agrícolas benéficas para o clima e para o ambiente é concedido como um suplemento anual do pagamento base e compreende três práticas: a diversificação de culturas, a manutenção dos prados permanentes, e as superfícies de interesse ecológico. Neste contexto, são estabelecidas algumas regras complementares, nomeadamente a definição dos períodos de controlo da prática de diversificação de culturas e as superfícies consideradas como superfícies de interesse ecológico.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, no Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março e no Regulamento de Execução (UE) n.º 641/2014, da Comissão de 16 de junho de 2014, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado, em anexo à presente portaria, da qual faz parte integrante, o Regulamento de aplicação dos regimes de pagamento base, pagamento por práticas agrícolas benéficas para o clima e para o ambiente, pagamento para os jovens agricultores, pagamento específico para o algodão e regime da pequena agricultura, adiante designado por Regulamento.
+
+###### Artigo 2.º — Anexos
+
+O Regulamento contém os seguintes anexos, do qual fazem parte integrante:
+
+a) Anexo I, relativo à lista negativa das atividades económicas (CAE rev.3) para efeitos de definição de agricultor ativo;
+
+b) Anexo II, relativo às regras de elegibilidade para efeitos do regime de pagamento base das parcelas agrícolas;
+
+c) Anexo III, relativo à tabela de conversão das cabeças normais (CN);
+
+d) Anexo IV, relativo às medidas e ações dos programas de desenvolvimento rural para efeitos da verificação da formação e competência adquirida.
+
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 25 de fevereiro de 2015.
+
+## Anexo — Regulamento de aplicação do regime de pagamento base, pagamento por práticas agrícolas benéficas para o clima e para o ambiente, pagamento para os jovens agricultores, pagamento específico para o algodão e regime da pequena agricultura
+
+### Capítulo I — Objeto e definições
+
+###### Artigo 1.º — Objeto
+
+1 - O presente Regulamento estabelece as normas nacionais complementares dos regimes de pagamentos diretos, previstos no Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, no Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março, e no Regulamento de Execução (UE) n.º 641/2014, da Comissão de 16 de junho, no que se refere à aplicação das decisões nacionais relativas:
+
+a) Ao regime de pagamento de base (RPB);
+
+b) Ao pagamento por práticas agrícolas benéficas para o clima e para o ambiente (greening);
+
+c) Ao pagamento para os jovens agricultores;
+
+d) Ao pagamento específico para o algodão;
+
+e) Ao regime da pequena agricultura (RPA).
+
+f) Ao regime do pagamento redistributivo.
+
+2 - O presente Regulamento estabelece ainda os requisitos mínimos para a concessão dos pagamentos diretos, a definição de agricultor ativo e a redução de pagamentos, previstos nos artigos 9.º, 10.º e 11.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos de aplicação do presente Regulamento, e para além das definições constantes do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, do Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março, e do Regulamento de Execução (UE) n.º 641/2014, da Comissão de 16 de junho, entende-se por:
+
+a) «Alteração de estatuto jurídico ou de denominação», as situações de alteração da pessoa coletiva de um tipo para outro, bem como a passagem de pessoa coletiva a pessoa singular ou vice-versa, mantendo, a pessoa resultante da alteração de estatuto, o controlo da gestão, dos benefícios e do risco financeiro da exploração;
+
+b) «Atividade agrícola», a produção, criação ou cultivo de produtos agrícolas, incluindo colheita, ordenha, criação de animais, e detenção de animais para fins de produção, ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;
+
+c) «Atividades não agrícolas em parcelas de uso predominantemente agrícola», as atividades realizadas, em parcelas agrícolas declaradas no pedido único (PU), de natureza educacional, cultural, desportiva ou recreativa, com duração limitada, que sejam realizadas fora do período vegetativo da cultura, ou que, no caso das parcelas de prado e pastagem permanente ou de pousio, não ponham em causa pela sua intensidade a atividade agrícola realizada;
+
+d) «Direito ao pagamento», os direitos de pagamento base detidos pelo agricultor, que geram o direito a receber os montantes neles fixados, quando ativados com hectares elegíveis;
+
+e) «Herança antecipada de direitos ao pagamento», a transmissão total ou parcial da titularidade dos direitos ao pagamento, por doação a herdeiro legitimário ou partilha em vida;
+
+f) «Herança antecipada de exploração», a transmissão total ou parcial da titularidade da exploração para agricultor sucessível ou situações equiparadas, por doação a herdeiro legitimário ou partilha em vida;
+
+g) «Índice de qualificação fisiográfica da parcela (IQFP)», o indicador que traduz a relação entre a morfologia da parcela de referência e o seu risco de erosão e consta da identificação da exploração (IE) do Sistema de Identificação Parcelar (iSIP);
+
+h) «Parcelas isentas de reconversão», as pastagens permanentes criadas no âmbito de compromissos assumidos no âmbito do Regulamento (CE) n.º 1698/2005, do Conselho de 20 de setembro, e com o Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho de 17 de dezembro, bem como as parcelas com pastagens permanentes que tenham sido objeto de florestação nas condições previstas no n.º 4 do artigo 45.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro;
+
+i) «Prado permanente ambientalmente sensível», os prados permanentes sujeitos à obrigação de não lavra e não conversão identificados no iSIP em áreas abrangidas pelas Diretivas 92/43/CEE ou 2009/147/CE;
+
+j) «Proporção anual de prados permanentes», quociente entre a superfície total de pastagens permanentes do ano em causa e a superfície agrícola total declarada nesse mesmo ano;
+
+k) «Proporção de referência nacional de prados permanentes», quociente entre a superfície total de prados permanentes nos termos da alínea a) do n.º 2 do artigo 45.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e a superfície agrícola total declarada em 2015;
+
+l) «Subparcela», a porção contínua de terreno homogénea com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no iSIP;
+
+m) «Superfície agrícola», qualquer superfície de terras aráveis, prados e pastagens permanentes, ou culturas permanentes.
+
+###### Artigo 2.º-A — Flexibilidade entre pilares
+
+1 - Ao abrigo do disposto no artigo 14.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual, o montante de 85 milhões de euros, afeto às medidas do FEADER no exercício financeiro de 2022, é transferido para o regime de pagamentos diretos referentes ao ano civil de 2021.
+
+2 - Ao abrigo do disposto no artigo 14.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual, o montante de 85 milhões de euros, afeto às medidas do FEADER no exercício financeiro de 2023, é transferido para o regime de pagamentos diretos referentes ao ano civil de 2022.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+### Capítulo II — Requisitos mínimos, agricultor ativo, redução de pagamentos e convergência
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+###### Artigo 3.º — Requisitos mínimos para a concessão de pagamento diretos
+
+1 - Podem beneficiar de pagamentos diretos os agricultores ativos que exerçam atividade agrícola em território nacional e que respeitem as condições previstas no presente artigo.
+
+2 - A superfície mínima elegível da exploração que pode beneficiar de pagamentos diretos é de 0,5 hectares, antes da aplicação de reduções e sanções.
+
+3 - Os beneficiários de pagamentos diretos com uma superfície inferior a 0,5 hectares podem receber pagamentos diretos se o montante total dos pagamentos, pedidos ou a conceder antes da aplicação de reduções e sanções, a título dos regimes de apoio associados previstos no Despacho normativo n.º 14/2014, de 29 de outubro, for, em determinado ano civil, igual ou superior a (euro) 100.
+
+4 - O limiar de superfície mínima previsto no n.º 2 não é aplicado aos beneficiários de pagamentos diretos das regiões autónomas dos Açores e da Madeira, de acordo com o disposto no n.º 4 do artigo 10.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 4.º — Agricultor ativo
+
+Ao abrigo do disposto no artigo 9.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, na redação atual, não são aplicáveis as disposições previstas nos n.os 2, 3 e 3-A do mesmo preceito.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+###### Artigo 5.º — Redução de pagamentos
+
+1 - Ao montante do pagamento base do agricultor são aplicadas as seguintes deduções:
+
+a) 100 %, sobre o montante que exceda (euro) 300.000;
+
+b) 5 %, sobre o montante entre (euro) 150.000 e (euro) 300.000.
+
+2 - Para efeitos de determinação do montante de pagamento base referido no número anterior, é subtraído o montante correspondente aos salários de mão-de-obra permanente ligados à atividade agrícola, efetivamente pagos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego.
+
+3 - Para efeitos do número anterior, o agricultor deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU, declaração que contenha informação sobre os salários relativos à mão de obra permanente ligados à atividade agrícola, efetivamente pagos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego.
+
+4 - São avaliadas para efeitos do disposto no artigo 60.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, as transferências de direitos a que se refere o n.º 1 do artigo 17.º, efetuadas por agricultores cujos direitos detidos, de acordo com o PU do ano anterior, excedam o montante total de (euro) 150.000.
+
+> Retificado pelo/a [Declaração de Retificação n.º 7/2018 - Diário da República n.º 43/2018, Série I de 2018-03-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2018-114782542), em vigor a partir de 2018-01-26
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 5.º-A — Valor dos direitos ao pagamento base e convergência
+
+1 - Em 2021 o valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2020, cujo valor unitário seja inferior ao valor unitário médio nacional em 2021, é aumentado em uma sexta parte da diferença para a média nacional em 2021, de acordo com o n.º 11 do artigo 25.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho.
+
+2 - Em aplicação do disposto no número anterior são reduzidos de forma proporcional os direitos ao pagamento, a título de propriedade ou de arrendamento, que tenham valor superior ao valor unitário médio nacional em 2021, detidos pelos agricultores em 31 de dezembro de 2020 até ao limite do valor médio unitário de 2021.
+
+3 - A redução prevista no número anterior aplica-se à diferença entre o valor dos direitos detidos pelos agricultores e o valor unitário nacional em 2021.
+
+4 - O valor unitário médio nacional em 2021, referido nos números anteriores, é calculado de acordo com a alínea b) do n.º 11 do artigo 25.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+5 - Caso o montante do referido no n.º 2 não seja suficiente para aplicar o disposto no n.º 1, a fixação do aumento será ajustada.
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+###### Artigo 5.º-B — Valor dos direitos ao pagamento base e convergência 2022
+
+1 - Em 2022 o valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2021, cujo valor unitário seja inferior ao valor unitário médio nacional em 2022, é aumentado em uma quinta parte da diferença para a média nacional em 2022, de acordo com o n.º 11 do artigo 25.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho.
+
+2 - Em aplicação do disposto no número anterior são reduzidos de forma proporcional os direitos ao pagamento, a título de propriedade ou de arrendamento, que tenham valor superior ao valor unitário médio nacional em 2022, detidos pelos agricultores em 31 de dezembro de 2021 até ao limite do valor médio unitário de 2022.
+
+3 - A redução prevista no número anterior aplica-se à diferença entre o valor dos direitos detidos pelos agricultores e o valor unitário nacional em 2022.
+
+4 - O valor unitário médio nacional em 2022, referido nos números anteriores, é calculado de acordo com a alínea b) do n.º 11 do artigo 25.º do Regulamento (UE) n.º 1307/2013,do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+5 - Caso o montante referido no n.º 2 não seja suficiente para aplicar o disposto no n.º 1, a fixação do aumento será ajustada.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+### Capítulo III — Regime de pagamento base
+
+###### Artigo 6.º — Condição geral de acesso ao regime de pagamento de base
+
+Têm acesso ao RPB os agricultores ativos que exerçam atividade agrícola em território continental e que obtenham direitos ao pagamento numa das seguintes situações:
+
+a) Primeira atribuição de direitos ao pagamento;
+
+b) Primeira atribuição de direitos ao pagamento por herança, herança antecipada, alteração de estatuto jurídico ou denominação, fusão, cisão e cláusula de transmissão em contrato de compra e venda ou arrendamento;
+
+c) Atribuição de direitos ao pagamento no âmbito da reserva nacional;
+
+d) Transferência de direitos ao pagamento.
+
+###### Artigo 7.º — Primeira atribuição dos direitos ao pagamento
+
+1 - O número de direitos ao pagamento a ser atribuído a cada agricultor é igual ao número de hectares elegíveis declarados no PU de 2013, ou igual ao número de hectares elegíveis declarados no PU de 2015, consoante o que for mais baixo.
+
+2 - Para efeitos do número anterior, a dimensão mínima da exploração é de 0,5 hectares elegíveis, em aplicação do n.º 9 do artigo 24.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+3 - Podem requerer a atribuição de direitos ao pagamento do RPB, para efeitos das alíneas a) do artigo 6.º, os agricultores ativos que apresentem um pedido de primeira atribuição de direitos ao pagamento em 2015, desde que cumpram uma das seguintes condições:
+
+a) Tenham tido direito a receber pagamentos diretos em 2013, antes de qualquer redução ou exclusão;
+
+b) Não tendo direitos de pagamento do regime de pagamento único (RPU) em 2013, a título de propriedade ou arrendamento, tenham apresentado PU no ano de 2013.
+
+4 - Podem apresentar um pedido de atribuição de direitos ao pagamento no regime de pagamento base, para efeitos da alínea b) do artigo 6.º, os agricultores ativos que:
+
+a) Tenham herdado, incluindo por herança antecipada, uma exploração ou parte dela de um agricultor que reunisse a condição expressa no número anterior, na proporção de hectares recebidos por efeito da herança e nas mesmas condições do agricultor de que herdaram;
+
+b) Tenham sucedido na titularidade de uma exploração ou parte dela por efeito de alteração de denominação ou estatuto jurídico, ou de cisão ou fusão de uma entidade que reunisse a condição expressa no número anterior, pelo número de hectares da exploração em cuja titularidade sucederam, e nas mesmas condições da entidade objeto de alteração de denominação ou de estatuto, fusão ou cisão;
+
+c) Tenham adquirido, por compra, uma exploração ou parte desta, em cujo contrato de compra e venda conste cláusula expressa de transferência do direito a receber direitos ao pagamento, em aplicação do n.º 8 do artigo 24.º do Regulamento (UE) n.º 1307/2013, no caso do agricultor vendedor exercer atividade agrícola em 2015 e ser considerado agricultor ativo;
+
+d) Sejam arrendatários de uma exploração ou parte dela, desde que no contrato de arrendamento conste cláusula expressa de transferência do direito a receber direitos ao pagamento, em aplicação do n.º 8 do artigo 24.º do Regulamento (UE) n.º 1307/2013, no caso do senhorio, exercer atividade agrícola em 2015 e ser considerado agricultor ativo.
+
+5 - Sempre que um agricultor, devido a caso de força maior ou circunstância excecional previstos no artigo 10.º, tiver sido impedido de apresentar pedido de atribuição de direitos ao pagamento são-lhe atribuídos direitos ao pagamento a título da reserva nacional, em aplicação do n.º 7 do artigo 30.º do Regulamento n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+###### Artigo 8.º — Procedimentos nos casos referidos na alínea b) do artigo 6.º
+
+1 - As situações de herança, herança antecipada, alteração de denominação ou estatuto, fusão, cisão e cláusula de transmissão em contrato de compra e venda ou arrendamento, previstas no n.º 4 do artigo anterior, devem ser formalizadas em modelo próprio, no formulário situações de transição, modelo H, disponível no sítio da Internet do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt, acompanhado da documentação exigida.
+
+2 - A apresentação do formulário referido no número anterior é feita junto das entidades intervenientes, Direções Regionais de Agricultura e Pescas ou na área reservada do sítio da Internet do IFAP, I. P., em www.ifap.pt, durante o período de apresentação do PU de 2015.
+
+3 - Os casos referidos nas alíneas a) e b) do n.º 4 do artigo anterior que tenham ocorrido em 2014 e que tenham sido apresentados e validados no âmbito do RPU são considerados válidos para efeitos do regime de pagamento base.
+
+4 - Nos casos referidos no número anterior é dispensado o preenchimento do formulário referido no n.º 1, sendo utilizado, para efeitos de cálculo do número e valor inicial dos seus direitos de pagamento base, o número de hectares da exploração transmitidos na correspondente proporção de direitos de RPU transferidos.
+
+5 - Em caso de discordância entre os hectares calculados nos números anteriores e os hectares da exploração, efetivamente recebidos ou cedidos, deve ser apresentado o formulário modelo H com a distribuição dos hectares da exploração.
+
+6 - Nos casos referidos nas alíneas c) e d) do n.º 4 do artigo anterior, se dos respetivos contratos de compra e venda ou de arrendamento não constar cláusula expressa de transmissão do direito de receber direitos de pagamento base, podem as partes apresentar uma adenda conforme minuta disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt.
+
+###### Artigo 9.º — Estabelecimento definitivo do valor e do número de direitos ao pagamento em primeira atribuição
+
+1 - No âmbito da primeira atribuição, o número de direitos a estabelecer ao agricultor, bem como o cálculo do seu valor são determinados de acordo com as regras fixadas no artigo 7.º e nos artigos 8.º e 9.º do Despacho normativo n.º 3/2015, de 21 de janeiro.
+
+2 - Quando a escritura ou documento particular autenticado de compra e venda, do total ou de parte da exploração, é celebrada entre 15 de maio de 2014 e a última data para a apresentação do pedido de primeira atribuição de direitos, com uma cláusula contratual entre agricultores ativos, nos termos do artigo 20.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março:
+
+a) O vendedor no PU de 2015 apresenta o pedido de atribuição de direitos ao pagamento sujeitos a essa cláusula, com a identificação do comprador e com o número de hectares elegíveis sujeitos à cláusula contratual;
+
+b) Os direitos ao pagamento, integrando o cálculo do seu número e do seu valor unitário, são atribuídos ao vendedor, sendo o número de direitos correspondentes à cláusula, automaticamente transferidos para o comprador;
+
+c) O comprador apresenta o pedido de pagamento no PU de 2015.
+
+3 - Quando o contrato de arrendamento, do total ou de parte da exploração, é celebrado entre 15 de maio de 2014 e a última data para a apresentação do pedido de primeira atribuição de direitos, com uma cláusula contratual entre agricultores ativos, nos termos do artigo 21.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março:
+
+a) O senhorio no PU de 2015 apresenta o pedido de atribuição de direitos ao pagamento sujeitos a essa cláusula, com a identificação do arrendatário e do número de hectares elegíveis sujeitos à cláusula contratual;
+
+b) Os direitos ao pagamento, integrando o cálculo do seu número e do seu valor unitário, são atribuídos ao senhorio, sendo o número de direitos correspondentes à cláusula, automaticamente transferidos para o arrendatário;
+
+c) O arrendatário apresenta o pedido de pagamento no PU de 2015.
+
+4 - Para efeitos do número anterior, com a cessação do contrato de arrendamento da exploração ou parte desta, os hectares elegíveis sujeitos à cláusula contratual e os correspondentes direitos ao pagamento retornam ao senhorio, desde que os direitos não tenham caducado.
+
+5 - No caso dos senhorios que apresentaram PU em 2013 e que possuíam direitos de RPU transferidos temporariamente em 2013, os direitos ao pagamento, integrando o cálculo do seu número e do seu valor unitário, são atribuídos ao senhorio da seguinte forma:
+
+a) Para efeitos do cálculo do número e valor dos direitos são considerados o montante de pagamentos e o número de hectares elegíveis em 2014, correspondentes aos direitos de RPU arrendados ao arrendatário;
+
+b) Os direitos ao pagamento calculados nos termos da alínea anterior são atribuídos ao senhorio e automaticamente transferidos para o arrendatário.
+
+6 - O disposto no número anterior só é aplicável aos contratos de arrendamento que terminam antes de 1 de junho de 2019.
+
+7 - Na data de fim dos contratos de arrendamento referidos no número anterior, retornam ao senhorio os hectares elegíveis que acompanhavam a transferência temporária de direitos RPU em 2013, e o número de direitos RPB correspondente ao número de direitos RPU que estavam transferidos temporariamente.
+
+8 - No caso do disposto no n.º 5, se existir concordância escrita dos dois intervenientes, aplica-se o método de cálculo referido no n.º 1.
+
+9 - Para efeitos do estabelecimento do valor dos direitos ao pagamento, caso se verifique que o montante dos pagamentos diretos relativos ao ano de 2014 é inferior a 90 % do montante correspondente ao ano anterior, devido a caso de força maior ou circunstância excecional, o valor unitário inicial é determinado com base no montante recebido pelo agricultor em 2013, em aplicação do disposto no artigo 19.º do Regulamento (UE) n.º 639/2014, da Comissão, de 11 de março.
+
+10 - A situação referida no número anterior é comunicada por escrito, acompanhada dos respetivos documentos comprovativos, pelo beneficiário, ao IFAP, I. P., até ao último dia para a apresentação do PU de 2015.
+
+11 - Até 1 de abril de 2016 o IFAP, I. P., informa o agricultor do valor e do número definitivo de direitos ao pagamento para cada ano até 2019.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 10.º — Casos de força maior e circunstâncias excecionais
+
+Para além das situações previstas nas alíneas a), c), d) e e) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, podem ser também reconhecidos como casos de força maior e circunstâncias excecionais as seguintes situações:
+
+a) Incapacidade profissional do beneficiário, desde que por período superior a seis meses, devidamente verificada nos termos legais;
+
+b) Expropriação por utilidade pública ou outro ato previsto no Código das Expropriações, de toda a exploração ou uma parte importante da mesma, no caso da expropriação não ser previsível no dia de apresentação do pedido;
+
+c) Emparcelamento ou intervenção pública de ordenamento fundiário ou similar, designadamente, para efeitos do disposto nos artigos 7.º e 16.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 11.º — Candidatura à reserva nacional
+
+Podem candidatar-se à atribuição de direitos ao pagamento a título da reserva nacional do RPB os agricultores ativos que, até à data limite de entrega do PU, cumpram o disposto no n.º 2 do artigo 3.º e as condições de acesso previstas no artigo 12.º
+
+###### Artigo 12.º — Condições de acesso à reserva nacional
+
+1 - Podem solicitar a atribuição de direitos ao pagamento provenientes da reserva nacional os agricultores ativos nas seguintes situações:
+
+a) Jovem agricultor que se instale pela primeira vez numa exploração agrícola na qualidade de responsável da exploração;
+
+b) Agricultor que inicie a atividade agrícola;
+
+c) Agricultor que, devido a caso de força maior ou circunstância excecional, tenha sido impedido de solicitar a primeira atribuição de direitos ao pagamento.
+
+2 - Os agricultores ativos previstos nas alíneas a) e b) do número anterior devem demonstrar até à data-limite de alteração do PU, pelo menos, uma das seguintes competências ou formação adquirida:
+
+a) Qualificação de nível 4 ou 5, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, ou qualificação de nível 6, 7 ou 8, relativa ao ensino superior, nas áreas agrícola, florestal ou animal;
+
+b) Curso de empresário agrícola homologado pelo Ministério da Agricultura, Florestas e Desenvolvimento Rural;
+
+c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;
+
+d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, 'Técnico/a de Produção Agropecuária', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas, ou do referencial de formação 623166, 'Técnico/a de Recursos Florestais e Ambientais', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 4436, de 50 horas, acrescidas de, alternativamente:
+
+i) 150 horas de outras unidades de formação dos mesmos referenciais, com exceção das que constam do anexo v da presente portaria, da qual faz parte integrante;
+
+ii) Serviço de aconselhamento agrícola obtido nos termos do n.º 7 do artigo 14.º da Portaria n.º 151/2016, de 26 de maio, que cria o Sistema de Aconselhamento Agrícola e Florestal;
+
+e) Qualificação de nível 2, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, no caso dos agricultores ativos previstos na alínea a) do número anterior.
+
+3 - [Revogado]
+
+4 - No caso de pessoa coletiva constituída por mais de um jovem agricultor, as exigências em termos de competências e formação tem de ser verificada em pelo menos num dos jovens agricultores que participa no capital e gestão da pessoa coletiva, em aplicação da alínea c) do n.º 1 do artigo 49.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março.
+
+5 - Podem, ainda, solicitar a atribuição de direitos ao pagamento provenientes da reserva nacional os agricultores ou os seus herdeiros, nas seguintes situações:
+
+a) Jovens agricultores que receberam direitos ao pagamento provenientes da reserva nacional do RPU em 2014, se a candidatura à reserva nacional for apresentada em 2015.
+
+b) Agricultores que apresentaram PU em 2013 com número de hectares elegíveis inferior a 0,5 hectares, se a candidatura à reserva nacional for apresentada em 2015;
+
+c) (Revogada);
+
+d) Agricultores titulares de direitos de RPU em 2013, sem ativação nesse ano, mas com ativação de direitos em 2014, se a candidatura à reserva nacional for apresentada em 2015;
+
+e) Agricultores que tenham comprado hectares elegíveis entre 15 de maio de 2013 e 31 de dezembro de 2014, cumpram o n.º 3 do artigo 7.º e tenham concluído, até 31 de dezembro de 2014, um investimento ao abrigo da ação n.º 1.1.1 «Modernização e capacitação das empresas», Componente 1 - Investimentos em explorações agrícolas para a produção primária de produtos agrícolas ou da ação n.º 1.1.2 «Investimentos de pequena dimensão», ambas do programa PRODER, se a candidatura à reserva nacional for submetida em 2015.
+
+6 - Para efeitos do disposto na alínea a) do n.º 1, consideram-se jovens agricultores os agricultores que se encontrem nas condições da alínea a) do n.º 11 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+7 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se agricultores que se instalem pela primeira vez numa exploração agrícola na qualidade de responsáveis da exploração, os agricultores que se encontrem nas condições da alínea b) do n.º 11 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+8 - Os agricultores referidos no n.º 6 apenas são elegíveis para efeitos de atribuição de direitos ao pagamento quando tenham iniciado a atividade agrícola até cinco anos antes da data de apresentação de um pedido de atribuição de direitos.
+
+9 - Os agricultores referidos no n.º 7 apenas são elegíveis para efeitos de atribuição de direitos ao pagamento quando tenham iniciado a atividade agrícola até dois anos antes da data de apresentação de um pedido de atribuição de direitos.
+
+10 - São ainda atribuídos pela reserva nacional os direitos que vierem a ser reconhecidos ao agricultor por decisão judicial transitada em julgado ou ato administrativo definitivo.
+
+11 - No caso das pessoas coletivas que iniciem atividade agrícola nos termos da alínea b) do n.º 1, as exigências em termos de competências e formação devem ser cumpridas, pelo menos, por um dos sócios que exerce o controlo da pessoa coletiva.
+
+12 - Para o ano de 2022, podem ainda solicitar a atribuição de direitos ao pagamento provenientes da reserva nacional os agricultores cujas parcelas ou subparcelas das respetivas explorações agrícolas estejam localizadas em zona vulnerável, de acordo com a listagem das freguesias vulneráveis prevista no anexo ii da Portaria n.º 301/2020, de 24 de dezembro, que se encontre em uma das seguintes condições:
+
+a) Agricultor que nos anos de 2018, 2019 e 2020 tenha ativado no pedido único um número de hectares elegíveis superior ao número máximo de direitos que detinha no mesmo período;
+
+b) Agricultor que, não detendo direitos ao pagamento, tenha submetido pedido único com hectares elegíveis nos anos de 2018, 2019 e 2020.
+
+13 - O disposto no número anterior não é aplicável a áreas de baldio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021), em vigor a partir de 2019-01-15, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 13.º — Atribuição e valor dos direitos ao pagamento provenientes da reserva nacional
+
+1 - O valor dos direitos ao pagamento atribuídos aos agricultores referidos no artigo anterior, com exceção dos previstos na alínea c) do n.º 1, é igual ao valor da média nacional dos direitos ao pagamento no ano de atribuição, calculado de acordo com o estabelecido no n.º 8 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, sem prejuízo do disposto no n.º 9 do mesmo artigo relativamente às situações de decisão judicial transitada em julgado ou ato administrativo definitivo.
+
+2 - Aos agricultores que se enquadrem numa das situações previstas nos n.os 1 e 5 do artigo anterior e na alínea b) do artigo 6.º, são atribuídos, em primeiro lugar, os direitos resultantes da primeira atribuição, sendo subsequentemente atribuídos os direitos por via da reserva nacional, caso reúnam as condições para tal.
+
+3 - O número de direitos a atribuir é igual:
+
+a) Ao número de hectares elegíveis declarados no PU, para os agricultores identificados nas alíneas a) e b) do n.º 1 do artigo anterior, descontados dos direitos ao pagamento já detidos, a título de propriedade ou de arrendamento;
+
+b) Ao menor número entre o número de direitos constantes da decisão judicial e o número de hectares elegíveis declarados no PU, descontados dos direitos ao pagamento já detidos, a nível de propriedade ou de arrendamento, no ano da atribuição para os beneficiários referidos no n.º 10 do artigo anterior;
+
+c) Ao número de hectares elegíveis declarados no PU, até ao máximo de 90, ou ao máximo de direitos atribuídos da reserva nacional em 2014, consoante o mais elevado, para os agricultores da alínea a) do n.º 5 do artigo anterior;
+
+d) A 0,5 direitos no caso dos agricultores da alínea b) do n.º 5 do artigo anterior;
+
+e) (Revogada);
+
+f) Ao menor número entre o número de hectares elegíveis que foram declarados em 2014 e 2015 para os beneficiários referidos na alínea d) do n.º 5 do artigo anterior;
+
+g) Ao menor número entre o número de hectares elegíveis constantes da escritura de venda de terras e o número de hectares elegíveis declarados no PU de 2015 descontados dos direitos atribuídos através do n.º 3 do artigo 7.º do Despacho normativo n.º 3/2015, de 21 de janeiro, para os beneficiários referidos na alínea e) do n.º 5 do artigo anterior.
+
+h) Ao número de hectares elegíveis declarados pelo agricultor no pedido único de 2022, a título de propriedade ou de arrendamento, descontados dos direitos ao pagamento já detidos, localizados em zona vulnerável, para os agricultores referidos na alínea a) do n.º 12 do artigo anterior;
+
+i) Ao número de hectares elegíveis declarados pelo agricultor no pedido único de 2022, a título de propriedade ou de arrendamento para os agricultores referidos na alínea b) do n.º 12 do artigo anterior.
+
+4 - A reserva nacional abrange as candidaturas previstas nas alíneas a), b) e c) do n.º 1, no n.º 10 e no n.º 12 do artigo anterior.
+
+5 - No caso dos montantes disponíveis na reserva nacional não serem suficientes para as atribuições referidas no número anterior deve proceder-se a uma redução linear do valor aos direitos ao pagamento existentes para cobrir estas necessidades.
+
+6 - Depois de atribuídos os direitos às candidaturas previstas no n.º 4, procede-se, por ordem, à atribuição de direitos ao pagamento às candidaturas da alínea c) do n.º 1 do artigo anterior.
+
+7 - No caso de já não existirem montantes para atribuir à totalidade das candidaturas previstas no número anterior, não será efetuada a atribuição dos direitos ao pagamento correspondentes a essas candidaturas.
+
+8 - No caso de uma decisão judicial transitada em julgado ou ato administrativo definitivo insuscetível de impugnação, a atribuição nesse ano está condicionada a que a data dessa decisão não seja posterior ao último dia do prazo para a apresentação do PU ao abrigo do RPB.
+
+9 - No caso de uma decisão judicial transitada em julgado ou ato administrativo definitivo insuscetível de impugnação posterior ao último dia do prazo para apresentação do PU, o pedido de atribuição de direitos à reserva nacional só pode ser apresentado no ano seguinte.
+
+10 - O número de direitos a atribuir provenientes da reserva nacional previsto no n.º 3 é limitado:
+
+a) Ao número de hectares elegíveis detidos pelo agricultor a título de propriedade ou de arrendamento, nos termos legais, com a duração mínima, no caso do arrendamento, de cinco anos;
+
+b) Nas áreas de baldio, exploradas por compartes titulares do baldio, ao número de direitos de utilização do baldio.
+
+11 - Nas áreas de baldio, para efeitos de atribuição dos direitos ao pagamento provenientes da reserva nacional, apenas se considera a atividade de pastoreio de prática local que cumpra um encabeçamento mínimo, constituído por espécies de ruminantes ou de equídeos, de 0,2 CN por hectare de área de baldio, detido na exploração durante o período de retenção, de acordo com a tabela de conversão constante do anexo iii.
+
+12 - Para efeitos do disposto no número anterior, o período de retenção é compreendido entre:
+
+a) 1 de janeiro e 30 de abril, para os bovinos, ovinos e caprinos;
+
+b) 1 de janeiro e 31 de dezembro, para os equídeos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 18/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/18-2020-128470388), em vigor a partir de 2020-01-25
+
+> Retificado pelo/a [Declaração de Retificação n.º 7/2018 - Diário da República n.º 43/2018, Série I de 2018-03-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2018-114782542), em vigor a partir de 2018-01-26
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 14.º — Direitos não utilizados devido à ocorrência de casos de força maior
+
+1 - Os agricultores que devido a casos de força maior ou circunstâncias excecionais, previstos no artigo 10.º, não tenham ativado os direitos ao pagamento por um período de dois anos consecutivos, podem apresentar, junto do IFAP, I. P., até ao final do período de apresentação do PU do segundo ano, um pedido devidamente fundamentado.
+
+2 - Para efeitos do disposto no número anterior o beneficiário deve fornecer todos os meios de prova considerados pertinentes, de modo a que os direitos não revertam para a reserva nacional.
+
+###### Artigo 15.º — Elegibilidade das parcelas agrícolas e condições específicas relativas às subparcelas agrícolas
+
+1 - As subparcelas candidatas ao RPB devem estar à disposição do agricultor no dia 31 de maio de cada ano e devem cumprir as condições de elegibilidade ao longo de todo o ano civil, salvo casos de força maior ou circunstâncias excecionais.
+
+2 - São definidas, quando aplicável, as regras de elegibilidade para efeitos do RPB das parcelas agrícolas, previstas no anexo II à presente portaria, da qual faz parte integrante, as subparcelas de:
+
+a) Culturas temporárias;
+
+b) Culturas permanentes;
+
+c) Prados e pastagens permanentes:
+
+i) Em sob coberto de quercíneas, sob coberto de castanheiro, pinheiro manso ou oliveira, que não sejam explorados para a produção de fruto, ou em sob coberto das várias espécies de árvores referidas;
+
+ii) Sem predominância de vegetação arbustiva;
+
+iii) Com predominância de vegetação arbustiva em prática local, inseridas em zonas de baldio.
+
+3 - São ainda elegíveis para efeitos de RPB:
+
+a) As subparcelas exploradas em regime de talhadia de curta rotação;
+
+b) Ao longo do período de compromisso, as parcelas de superfícies florestadas ao abrigo das medidas relativas à florestação de terras agrícolas previstas no Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de maio, no Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de setembro, ou no Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, desde que essas superfícies pudessem permitir a utilização de direitos ao abrigo do RPU em 2008.
+
+4 - As subparcelas agrícolas com a ocupação cultural prevista nos números 2 e 3 são elegíveis para efeitos do RPB, na área máxima elegível determinada no iSIP.
+
+5 - [Revogado]
+
+6 - [Revogado]
+
+7 - [Revogado]
+
+8 - Sempre que sejam realizadas atividades não agrícolas nas subparcelas referidas no n.º 2, a duração máxima dessas atividades está limitada a 30 dias, devendo ser comunicada ao IFAP, I. P., com uma antecedência mínima de 10 dias úteis.
+
+9 - A comunicação ao IFAP, I. P., referida no número anterior deve incluir a identificação das subparcelas onde essas atividades serão desenvolvidas, a data de início, a duração e a finalidade das mesmas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+###### Artigo 16.º — Condições de utilização dos direitos ao pagamento
+
+1 - O agricultor pode utilizar os direitos ao pagamento em qualquer hectare elegível do território continental, nos termos do n.º 2 do artigo 32.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, exceto no caso referido no número seguinte.
+
+2 - Nas áreas de baldio:
+
+a) Os direitos ao pagamento apenas podem ser utilizados pelo agricultor cujo cálculo de direitos ao pagamento na atribuição inicial de direitos tenha sido realizado com base nessas áreas, incluindo os respetivos herdeiros ou agricultores resultantes de alterações de denominação ou estatuto jurídico, fusão ou cisão;
+
+b) Os direitos a utilizar correspondem, no máximo, à área de baldio contabilizada para efeitos de atribuição inicial de direitos, incluindo os atribuídos pela reserva nacional.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 17.º — Transferência de direitos ao pagamento
+
+1 - Os direitos podem ser transferidos:
+
+a) Definitivamente, independentemente da alienação de quaisquer hectares elegíveis;
+
+b) Temporariamente, quando acompanhados do arrendamento de igual número de hectares elegíveis e subordinando-se à vigência desse contrato.
+
+2 - Salvo o disposto nos números seguintes, a transferência de direitos ao pagamento pode ocorrer a qualquer momento, devendo a mesma ser comunicada ao IFAP, I. P., em modelo próprio, disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, durante o período a definir anualmente, ficando a respetiva produção de efeitos dependente da verificação dos requisitos legais aplicáveis.
+
+3 - O número de direitos ao pagamento atribuídos em 2015 aos agricultores que participam no regime da pequena agricultura, bem como a participação no regime da pequena agricultura, não podem ser transferidos, exceto em caso de herança e herança antecipada.
+
+4 - Não é permitida a transferência dos direitos ao pagamento durante o ano civil da respetiva aquisição, exceto em caso de herança e herança antecipada.
+
+5 - Não é permitida a transferência dos direitos a pagamento obtidos da reserva nacional ao abrigo do disposto nas alíneas a) e b) do n.º 1 do artigo 12.º, até ao termo do ano civil seguinte ao da sua aquisição, exceto em caso de herança e herança antecipada.
+
+> Nota: [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021) A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de janeiro de 2019, com exceção das alterações introduzidas ao artigo 17.º do regulamento anexo à Portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 18.º — Ganhos excecionais
+
+1 - Em caso de venda, arrendamento ou termo de todo ou parte do arrendamento de superfícies agrícolas após 31 de maio de 2014, é aplicada a cláusula dos ganhos excecionais estabelecida no artigo 28.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro.
+
+2 - O disposto no número anterior é aplicado nas situações em que a diminuição da área elegível de 2015 em relação à de 2014 é superior a 35 %.
+
+3 - O aumento do valor dos direitos, originado pela diminuição da área elegível em 2015, é determinado com base na diferença entre o valor dos direitos após a venda, arrendamento ou termo do contrato de arrendamento e o valor dos direitos que seria atribuído caso não tivesse ocorrido a referida diminuição.
+
+4 - A totalidade do aumento do valor dos direitos ao pagamento que seria atribuído ao agricultor em causa reverte para a reserva nacional, sendo no caso do arrendamento a duração mínima do contrato igual a um ano.
+
+5 - A cláusula dos ganhos excecionais não se aplica:
+
+a) Nos casos em que tenha sido formalizada a cláusula contratual prevista nos n.os 2 e 3 do artigo 9.º;
+
+b) Nos casos em que a diminuição da área elegível decorra de alteração de critérios de elegibilidade, nomeadamente, em áreas de baldio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+### Capítulo IV — Pagamento por práticas agrícolas benéficas para o clima e para o ambiente (greening)
+
+###### Artigo 19.º — Objetivo e práticas agrícolas do pagamento greening
+
+1 - Tendo como objetivo a melhoria do desempenho ambiental das explorações agrícolas os agricultores com direitos ao pagamento de RPB estão sujeitos, nos hectares elegíveis das suas explorações, ao cumprimento das práticas agrícolas benéficas para o clima e para o ambiente, designado pagamento greening.
+
+2 - O pagamento greening é constituído por três práticas:
+
+a) Diversificação de culturas;
+
+b) Manutenção dos prados permanentes;
+
+c) Superfície de interesse ecológico.
+
+3 - Para efeitos de cumprimento das práticas agrícolas benéficas para o clima e para o ambiente, o agricultor pode aderir ao regime de certificação ambiental a que se refere a alínea b) do n.º 3 do artigo 43.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, a estabelecer em diploma próprio.
+
+4 - O regime de certificação ambiental é aplicável às explorações agrícolas especializadas nas culturas de milho e ou tomate e incide sobre as práticas referidas nas alíneas b) e c) do n.º 2 e a prática equivalente 'Cobertura do solo durante o inverno' prevista no ponto 1.3 do anexo IX do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+###### Artigo 20.º — Forma de atribuição do montante do pagamento greening
+
+1 - O pagamento greening previsto no Capítulo 3 do Título III do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, é concedido anualmente aos agricultores que tenham direitos de RPB e que nos hectares elegíveis cumpram as práticas do pagamento greening.
+
+2 - A atribuição do pagamento referido no número anterior é realizada sob a forma de uma percentagem do valor total dos direitos ao pagamento que o beneficiário tenha ativado em hectares elegíveis, de acordo com o disposto no terceiro parágrafo do n.º 9 do artigo 43.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+###### Artigo 21.º — Período de controlo para efeitos de verificação da prática de diversificação de culturas
+
+1 - Em cumprimento do disposto no n.º 1 do artigo 40.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março, o período de controlo para efeitos do cálculo das diferentes culturas, com vista à verificação do cumprimento da prática de diversificação de culturas é o período de cultivo entre 1 de maio e 31 de julho do ano a que diz respeito o PU, período durante o qual a cultura ou os vestígios desta devem estar presentes na subparcela.
+
+2 - Para efeitos de cumprimento da prática de diversificação de culturas, as obrigações devem ser respeitadas em toda a superfície da subparcela durante a totalidade do período referido no número anterior.
+
+3 - Em caso de controlo no local, para efeitos de cumprimento da prática de diversificação de culturas serão contabilizadas as culturas ou os seus vestígios e as áreas verificadas no terreno.
+
+4 - Não são contabilizadas para efeitos da prática de diversificação de culturas as culturas fixadoras de azoto a que se refere a alínea e) do n.º 1 do artigo 25.º que não se encontrem presentes no terreno durante o período de diversificação de culturas definido no n.º 1 do presente artigo.
+
+5 - As subparcelas de pousio não devem apresentar produção agrícola nem ser pastoreadas no período entre 1 de fevereiro e 31 de julho.
+
+6 - Nas subparcelas de terras em pousio que se encontrem protegidas com uma cobertura vegetal instalada com ervas ou outras forrageiras herbáceas, deve ser observado o seguinte:
+
+a) A cobertura vegetal instalada não pode ser destinada à produção de grão;
+
+b) A cobertura vegetal instalada não pode, em caso algum, ser utilizada para fins agrícolas, pastoreio ou corte antes de 31 de julho.
+
+7 - Para efeitos do presente artigo, com exceção das superfícies de interesse ecológico a que se refere a alínea a) do n.º 1 do artigo 25.º, os trabalhos de mobilização do solo, preparatórios da cultura seguinte de outono-inverno ou da instalação de culturas permanentes, podem ter início a partir de 1 de março nas parcelas em que o índice de qualificação fisiográfica da parcela (IQFP) tenha o valor igual ou inferior a 3, desde que o agricultor:
+
+a) Informe previamente, por formulário próprio, o IFAP, I. P. com, pelo menos, quinze dias de antecedência;
+
+b) Tenha previamente submetido o PU e não podendo apresentar alteração ao PU em data posterior à data da informação ao IFAP, I. P. para mobilização do solo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 22.º — Prática de manutenção dos prados permanentes incluindo manutenção dos prados permanentes ambientalmente sensíveis
+
+1 - A obrigação de manutenção da proporção de superfície de prados permanentes em relação à superfície agrícola total declarada pelos agricultores é realizada a nível nacional, em aplicação do disposto no 5.º parágrafo do n.º 2 do artigo 45.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+2 - A conversão de subparcelas de prados permanentes está sujeita a autorização individual, prévia, do IFAP, I. P., sem prejuízo do disposto no n.º 3, relativo à proteção dos prados permanentes ambientalmente sensíveis em Rede Natura 2000.
+
+3 - Os agricultores que detenham, na sua exploração agrícola, subparcelas de prados permanentes, localizadas em zonas abrangidas pelas Diretivas Aves e Habitats, e que estejam classificados e identificados no iSIP como ambientalmente sensíveis, não podem converter para outros usos nem proceder à lavra dessas subparcelas, nos termos do disposto no primeiro parágrafo do n.º 1 do artigo 45.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro.
+
+###### Artigo 23.º — Procedimentos de permuta ou alteração de uso de subparcelas classificadas como prados permanentes
+
+1 - Para efeitos do n.º 1 do artigo anterior a permuta entre parcelas exploradas pelo mesmo beneficiário e a alteração do uso das parcelas classificadas como prados permanentes, dependem de autorização do IFAP, I. P.
+
+2 - Excetua-se do disposto no número anterior as parcelas isentas de reconversão, em que a respetiva alteração depende apenas de comunicação prévia.
+
+3 - Só são autorizadas as alterações de uso enquanto for respeitado o valor de 95,5 % da relação de referência nacional de prados permanentes.
+
+4 - Os pedidos de permuta entre parcelas efetuam-se junto das entidades intervenientes, em formulário próprio, a remeter ao IFAP, I. P., no prazo de 30 dias contados a partir da data da sua formalização.
+
+5 - Os pedidos de autorização e as comunicações para alteração de uso das parcelas classificadas como prados permanentes, efetuam-se junto das entidades intervenientes ou pelo próprio beneficiário por transmissão eletrónica de dados, nos períodos para o efeito fixados e divulgados no sítio da Internet do IFAP, I. P., em www.ifap.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 131/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/131-2016-74403503)
+
+###### Artigo 24.º — Obrigações dos beneficiários
+
+1 - Sempre que a proporção anual de prados permanentes seja inferior a 95 % da proporção de referência nacional, é efetuada uma reconversão nacional até atingir 98 % da proporção de referência nacional de prados permanentes.
+
+2 - Sempre que se verifique a situação prevista no número anterior, o beneficiário é notificado, até 31 de dezembro, da obrigação de reconversão para prado permanente de uma determinada área, antes do termo do prazo para apresentação do PU para o ano seguinte, nos termos do disposto nos n.os 2 e 3, do artigo 44.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março.
+
+3 - Sempre que se verifique que foram convertidas ou lavradas subparcelas de prados ambientalmente sensíveis referidas no n.º 3 do artigo 22.º, o beneficiário é notificado da obrigação de reconversão das mesmas e do respetivo prazo, o qual não deve ser posterior à data prevista para apresentação do PU para o ano seguinte, nos termos do disposto no artigo 42.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março.
+
+4 - As novas parcelas de prados permanentes que tenham sido objeto de reconversão, através de permuta ou em resultado de reconversão nacional, ficam obrigadas a permanecer com essa ocupação, durante os cinco anos seguintes ao facto que lhes deu origem.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 131/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/131-2016-74403503)
+
+###### Artigo 25.º — Prática de superfície de interesse ecológico
+
+1 - Para efeitos do cumprimento da prática de superfície de interesse ecológico são designadas como superfícies de interesse ecológico, em aplicação do disposto no n.º 2 do artigo 46.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, as seguintes superfícies:
+
+a) Terras em pousio;
+
+b) Elementos paisagísticos abrangidos pelas normas mínimas para as boas condições agrícolas e ambientais (BCAA) e pelos requisitos legais de gestão (RLG) no âmbito da condicionalidade, a que refere o Despacho Normativo n.º 6/2015, de 20 de fevereiro, constituídos por:
+
+i) Galerias ripícolas localizadas na Rede Natura 2000, abrangidas pelos RLG 2 e 3, que respeitam, respetivamente, à Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro, relativa à conservação das aves selvagens, e à Diretiva 92/43/CEE do Conselho, de 21 de maio, relativa à preservação dos habitats naturais e da fauna e da flora selvagem;
+
+ii) Elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura;
+
+iii) Bosquetes localizados no interior das parcelas de superfície agrícola;
+
+c) Os hectares dedicados a sistemas agroflorestais que recebem ou tenham recebido apoio no âmbito do desenvolvimento rural, nos termos do artigo 44.º do Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de setembro, ou do artigo 23.º do Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro;
+
+d) Florestação de terras agrícolas, no âmbito dos programas de desenvolvimento rural previstos nos Regulamentos (CE) n.os 1257/1999, de 17 de maio e 1698/2005, de 20 de setembro, do Conselho, e no Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro;
+
+e) Com as seguintes culturas fixadoras de azoto, desde que cultivadas em parcelas com IQFP 1 e 2, sem prejuízo da legislação aplicável às zonas vulneráveis a nitratos do Continente, onde prevalecem as obrigações definidas nos respetivos programas de ação:
+
+i) Tremocilha (Lupinus spp.), fava (Vicia faba), feijão (Phaseolus spp.), feijão-frade (Vigna unguiculata), amendoim (Arachis spp.), grão-de-bico (Cicer spp.), ervilha (Pisum spp.), tremoço (Lupinus spp.), luzerna (Medicago spp.), serradela (Ornithopus spp.), ervilhaca (Vicia spp.), trevo (Trifolium spp.) e soja (Glycine max), incluindo misturas entre estas espécies;
+
+ii) Misturas das espécies referidas na subalínea anterior com outras culturas, desde que estas últimas representem uma percentagem inferior a 50 %;
+
+f) Terras deixadas em pousio para plantas melíferas, ou seja, espécies ricas em pólen e néctar;
+
+g) (Revogada).
+
+2 - Para serem consideradas como superfícies de interesse ecológico em determinado ano, as superfícies identificadas no número anterior têm de ser identificadas no PU desse ano.
+
+3 - Sem prejuízo das obrigações definidas no âmbito da norma BCAA 4 - Cobertura mínima dos solos, a que se refere o anexo iii do Despacho Normativo n.º 6/2015, de 20 de fevereiro, para serem consideradas superfícies de interesse ecológico, as subparcelas de pousio e as subparcelas de pousio para plantas melíferas não podem ser mobilizadas nem apresentar produção agrícola ou ser pastoreadas e, no caso de pousio para plantas melíferas, não podem, ainda, ser objeto de colheita, no período entre 1 de fevereiro e 31 de julho.
+
+4 - Não colidem com o disposto no número anterior as ações destinadas a estabelecer uma cobertura do solo por coberto vegetal para efeitos de biodiversidade, incluindo a sementeira de misturas de flores silvestres.
+
+5 - Para efeitos de cálculo das áreas relativas à superfície de interesse ecológico prevista na subalínea iii) da alínea b) e na alínea f) do n.º 1, é utilizado o fator de ponderação de 1,5, constante do anexo x do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+6 - Não é permitida a utilização de produtos fitofarmacêuticos, incluindo sementes tratadas com produtos fitofarmacêuticos, nas seguintes superfícies de interesse ecológico:
+
+a) Terras em pousio, no período referido no n.º 3;
+
+b) Culturas fixadoras de azoto, desde o início da sementeira até ao final da colheita;
+
+c) Terras deixadas em pousio para plantas melíferas.
+
+7 - Para efeitos da alínea b) do número anterior, as datas de sementeira e de colheita devem ser inscritas no caderno de campo ou registo atualizado de utilização dos produtos fitofarmacêuticos.
+
+8 - Não estão abrangidas pelo disposto no n.º 6 as substâncias de base aprovadas a nível comunitário para utilização na proteção fitossanitária das culturas, constantes de lista publicitada no sítio da Internet da Direção-Geral de Agricultura e Veterinária.
+
+9 - São excluídas do pagamento ao prémio por perda de rendimento as subparcelas a que se refere a alínea d) do n.º 1 do presente artigo que sejam utilizadas para efeitos de cumprimento da prática de superfície de interesse ecológico.
+
+10 - Para efeitos da alínea f) do n.º 1, a superfície deve ser semeada de forma a assegurar uma cobertura de solo uniforme, em mistura de, pelo menos, quatro espécies de plantas constantes da lista de espécies elegíveis fixada no anexo vi da presente portaria, em que a espécie com menor ocupação deve representar, pelo menos, 10 % do total da área da parcela.
+
+11 - Nas superfícies a que se refere a alínea f) do n.º 1 é permitida a colocação de colmeias.
+
+12 - Nas superfícies consideradas de interesse ecológico em que estejam presentes outras plantas herbáceas que não as plantas constantes da listagem de espécies elegíveis definida no anexo vi da presente portaria, da qual faz parte integrante, as plantas melíferas devem constituir, pelo menos, 80 % do coberto vegetal da parcela.
+
+13 - Os agricultores que identifiquem no Pedido Único terras deixadas em pousio para plantas melíferas como superfícies de interesse ecológico devem conservar em sua posse, durante o respetivo ano civil, os comprovativos de aquisição de sementes de plantas melíferas, isoladas ou em mistura, nomeadamente a fatura de compra discriminada ou o certificado de sementes certificadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 18/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/18-2020-128470388), em vigor a partir de 2020-01-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021), em vigor a partir de 2019-01-15, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+### Capítulo V — Pagamento para os jovens agricultores
+
+###### Artigo 26.º — Beneficiários
+
+1 - O pagamento para os jovens agricultores, previsto no artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, é concedido anualmente aos jovens agricultores que tenham direitos de RPB e que cumpram os critérios de competência e de formação definidos no presente capítulo.
+
+2 - O pagamento referido no número anterior é concedido por um período máximo de cinco anos a contar da data de apresentação do primeiro pedido de pagamento para os jovens agricultores, desde que esta ocorra dentro do período de cinco anos subsequente à primeira instalação numa exploração agrícola na qualidade de responsáveis pela mesma.
+
+3 - Para efeitos do número anterior, não é contabilizado o ano em que se verifica a instalação, se esta for posterior ao último dia do prazo de apresentação do PU.
+
+4 - Nos termos do n.º 2 do artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, considera-se jovem agricultor, a pessoa singular que não tenha mais de 40 anos de idade no ano de apresentação do PU para os jovens agricultores e que se instale pela primeira vez numa exploração agrícola na qualidade de responsável da exploração, ou que já se tenha instalado no período de cinco anos anterior à primeira apresentação do referido pedido.
+
+5 - Caso o beneficiário seja uma pessoa coletiva, o efetivo e duradouro controlo da pessoa coletiva, em termos de decisões relativas à gestão, benefícios e riscos financeiros, deve ser exercido pelo jovem agricultor que no primeiro ano do pedido do pagamento para os jovens agricultores não tenha mais de 40 anos de idade.
+
+6 - Para efeitos de primeira instalação na exploração, é considerada a mais antiga das datas verificadas nas fontes de informação oficiais, nomeadamente nas bases de informação residentes no IFAP, I. P.
+
+7 - O disposto no n.º 2 é igualmente aplicável aos agricultores que receberam pagamentos para jovens agricultores referentes a Pedidos Únicos anteriores a 2018.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 18/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/18-2020-128470388), em vigor a partir de 2020-01-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 409/2015 - Diário da República n.º 231/2015, Série I de 2015-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/409-2015-71100901), em vigor a partir de 2015-11-26, produz efeitos a partir de 2015-02-28
+
+###### Artigo 27.º — Critérios de competências e formação
+
+1 - Em aplicação do disposto no n.º 3 do artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, podem beneficiar do pagamento previsto no presente capítulo os jovens agricultores que demonstrem até à data-limite de alteração do PU, pelo menos, uma das seguintes competências ou formação adquirida:
+
+a) Qualificação de nível 2, 4 ou 5, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça ou uma qualificação de nível 6, 7 ou 8, relativa ao ensino superior, nas áreas agrícola, florestal ou animal;
+
+b) Curso de empresário agrícola homologado pelo Ministério da Agricultura, Florestas e Desenvolvimento Rural;
+
+c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;
+
+d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, 'Técnico/a de Produção Agropecuária', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas, ou do referencial de formação 623166, 'Técnico/a de Recursos Florestais e Ambientais', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 4436, de 50 horas, acrescidas de, alternativamente:
+
+i) 150 horas de outras unidades de formação dos mesmos referenciais, com exceção das que constam do anexo v da presente portaria, da qual faz parte integrante;
+
+ii) Serviço de aconselhamento agrícola obtido nos termos do n.º 7 do artigo 14.º da Portaria n.º 151/2016, de 26 de maio.
+
+2 - No caso de pessoa coletiva constituída por mais de um jovem agricultor, as exigências em termos de competências e formação tem de ser verificada em pelo menos num dos jovens agricultores que participa no capital e gestão da pessoa coletiva, em aplicação da alínea c) do n.º 1 do artigo 49.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021), em vigor a partir de 2019-01-15, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+###### Artigo 28.º — Montante de pagamento e metodologia de cálculo
+
+1 - O montante anual do pagamento para os jovens agricultores é calculado multiplicando o número de direitos ao pagamento que o beneficiário ativou por um valor unitário que corresponde a 25 % do montante que resulta do quociente entre o produto da aplicação de uma percentagem fixa sobre o limite máximo nacional para o ano civil de 2019, pelo número de todos os hectares elegíveis declarados em 2015, nos termos da alínea b) do n.º 6 do artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+2 - A percentagem fixa referida no número anterior é igual à percentagem que o limite máximo nacional do RPB em 2015 representa no limite nacional de pagamentos diretos no mesmo ano, em aplicação do n.º 1 do artigo 22.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+3 - O limite máximo de direitos de pagamento ativados por jovem agricultor que podem dar direito ao pagamento para os jovens agricultores é de 90, em aplicação do n.º 9 do artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro.
+
+### Capítulo VI — Pagamento específico para o algodão
+
+###### Artigo 29.º — Regras gerais
+
+1 - O pagamento específico para o algodão é concedido por hectare de superfície de algodão elegível, devendo a cultura ser realizada em regime de regadio, ser mantida no solo em condições de crescimento normal até à abertura das cápsulas, e ser efetivamente objeto de colheita.
+
+2 - Não é permitida a produção de algodão por mais de dois anos consecutivos na mesma subparcela.
+
+3 - As variedades autorizadas para a prática desta cultura devem estar inscritas no Catálogo Comunitário de Variedades.
+
+4 - A densidade mínima de plantação é de 100 000 plantas/ha.
+
+5 - A superfície elegível para a produção de algodão fica limitada aos distritos de Beja, Castelo Branco, Évora, Faro e Portalegre.
+
+### Capítulo VII — Regime da pequena agricultura
+
+###### Artigo 30.º — Regras gerais
+
+1 - Os agricultores que em 2015 sejam detentores de direitos ao pagamento, atribuídos a título do RPB, e que cumpram os requisitos mínimos para a concessão dos pagamentos diretos, podem participar no regime da pequena agricultura.
+
+2 - Os agricultores que participam no regime da pequena agricultura ficam dispensados do cumprimento das práticas agrícolas benéficas para o clima e o ambiente previstas no Capítulo 3, do Título III do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, e isentos de sanções no âmbito da condicionalidade, prevista no artigo 93.º do Regulamento (UE) n.º 1306/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, sem prejuízo da aplicação da legislação específica comunitária referida no anexo II do mesmo Regulamento.
+
+###### Artigo 31.º — Participação no regime
+
+1 - Sem prejuízo do disposto no n.º 4 do artigo 61.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, se a estimativa do montante a receber a título dos regimes de pagamento de base, pagamento greening e apoios associados, for inferior a 500 (euro), os agricultores são incluídos no regime da pequena agricultura em 2015.
+
+2 - Os agricultores referidos no número anterior podem retirar-se expressamente do regime até 9 de junho 2015, deixando de ter o direito de participar no mesmo nos anos subsequentes.
+
+3 - Os agricultores que não sejam abrangidos pelo disposto no n.º 1 podem participar no regime da pequena agricultura, formalizando a sua intenção no âmbito do PU relativo ao ano de 2015.
+
+4 - Sem prejuízo do disposto nos números anteriores os agricultores que estejam abrangidos pelo regime da pequena agricultura podem, em qualquer ano subsequente a 2015, formalizar a sua intenção de retirada expressa do regime no âmbito do PU, deixando de ter o direito de participar no regime.
+
+###### Artigo 32.º — Condições artificiais
+
+1 - Tratando-se de herança, legado ou partilha em vida, apenas pode ser requerida a participação no regime da pequena agricultura quando a totalidade da exploração seja transmitida para um único herdeiro.
+
+2 - O disposto no número anterior é aplicável aos casos de transmissão da propriedade ou de transmissão da posse ou gozo da exploração.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 33.º — Montante de pagamento
+
+1- O pagamento anual pela participação no regime da pequena agricultura é de 600 (euro), em aplicação do disposto na alínea b) e nos 2.º e 3.º parágrafos do n.º 1 do artigo 63.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+2 - Nos termos da legislação referida no número anterior, para o ano de 2021, o pagamento anual pela participação no regime da pequena agricultura é de (euro) 850.
+
+3 - Nos termos da legislação referida no n.º 1, para o ano de 2022, o pagamento anual pela participação no regime da pequena agricultura é de (euro) 1000.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 131/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/131-2016-74403503)
+
+###### Artigo 34.º — Compromissos dos agricultores
+
+1 - Durante todo o período de participação no regime, os agricultores devem manter o número de hectares elegíveis igual ao número de direitos ao pagamento que lhes foi atribuído quando aderiram em 2015.
+
+2 - Os direitos ao pagamento ativados pelo agricultor em 2015, são considerados ativados durante o período de participação do agricultor, no regime da pequena agricultura.
+
+### Capítulo VIII — Pagamento redistributivo
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 34.º-A — Regras gerais
+
+1 - No âmbito das regras do pagamento redistributivo previstas no artigo 41.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, é concedido aos agricultores um pagamento anual até aos primeiros cinco hectares elegíveis, desde que sejam ativados com direitos ao pagamento de RPB.
+
+2 - Para o ano de 2022, é concedido aos agricultores um pagamento anual até aos primeiros 10 hectares elegíveis, desde que sejam ativados com direitos ao pagamento de RPB.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 34.º-B — Montante de pagamento
+
+1 - O limite máximo financeiro anual do regime de pagamento redistributivo, em aplicação do disposto no n.º 1 do artigo 42.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, é fixado nas seguintes percentagens, aplicáveis aos valores previstos no anexo ii do mesmo regulamento:
+
+a) 3,960 093 26 %, para o ano de 2017;
+
+b) 3,902 110 36 %, para o ano de 2018;
+
+c) 3,845 800 90 %, para os anos seguintes.
+
+2 - O montante anual de pagamento redistributivo é apurado através da multiplicação do valor unitário indicativo de (euro) 50 pelo número de direitos ativados, até ao máximo de cinco direitos por agricultor.
+
+3 - Em aplicação do n.º 5 do artigo 22.º do Regulamento (UE) n.º 1307/2013, o montante de financiamento necessário ao limite máximo financeiro anual do regime de pagamento redistributivo referido no n.º 1 é obtido anualmente pela redução linear do valor de todos os direitos ao pagamento de RPB.
+
+4 - No ano de 2021, o limite máximo financeiro anual do regime de pagamento redistributivo, em aplicação do disposto no n.º 1 do artigo 42.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, é fixado na percentagem de 8,12 %, aplicável aos valores previstos no anexo ii do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual.
+
+5 - No ano de 2021, o valor do pagamento redistributivo é apurado através da multiplicação do valor de (euro) 120 por hectare para os primeiros 5 hectares elegíveis de cada exploração agrícola.
+
+6 - No ano de 2022, o limite máximo financeiro anual do regime de pagamento redistributivo, em aplicação do disposto no n.º 1 do artigo 42.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, é fixado na percentagem de 11,39267834 % aplicável aos valores previstos no anexo ii do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual.
+
+7 - No ano de 2022, o valor do pagamento redistributivo é apurado através da multiplicação do valor unitário indicativo de (euro) 120 por hectare para os primeiros 10 hectares elegíveis de cada exploração agrícola.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 74/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/74-2022-178532529), em vigor a partir de 2022-02-03, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 273/2017 - Diário da República n.º 178/2017, Série I de 2017-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/273-2017-108141766), em vigor a partir de 2017-09-15, produz efeitos a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 34.º-C — Condições artificiais
+
+São avaliadas para efeitos do disposto no artigo 60.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, as transferências de direitos a que se refere o n.º 1 do artigo 17.º, efetuadas por agricultores beneficiários do pagamento redistributivo que procedem à divisão das suas explorações.
+
+> Retificado pelo/a [Declaração de Retificação n.º 7/2018 - Diário da República n.º 43/2018, Série I de 2018-03-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2018-114782542), em vigor a partir de 2018-01-26
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+### Capítulo IX — Disposições finais e transitórias
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773), em vigor a partir de 2016-12-17, produz efeitos a partir de 2017-01-01
+
+###### Artigo 34.º-D — Criação de condições artificiais
+
+Nos termos do artigo 60.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, não são atribuídos ou reconhecidos quaisquer direitos ou situações jurídicas de vantagem a pessoas singulares ou coletivas relativamente às quais se conclua terem sido criadas artificialmente as condições requeridas para sua atribuição ou reconhecimento.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021), em vigor a partir de 2019-01-15, produz efeitos a partir de 2019-01-01
+
+###### Artigo 35.º — Disposição transitória
+
+No ano de 2016, excecionalmente, os n.os 5, 6 e 7 do artigo 15.º não são aplicáveis.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 321/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/321-2016-105371773)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+## Anexo I — (a que se refere o n.º 1 do artigo 4.º)
+
+Lista negativa das atividades económicas (CAE Rev.3) para efeitos de definição de agricultor ativo
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+## Anexo II — (a que se refere o n.º 2 do artigo 15.º)
+
+Regras de elegibilidade para efeitos do RPB das parcelas agrícolas
+
+(ver documento original)
+
+> Nota: [Artigo 8.º, Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188) As alterações ao anexo ii do regulamento aprovado em anexo à Portaria n.º 57/2015, de 27 de fevereiro, aprovadas pelo artigo 3.º da presente portaria, produzem efeitos no pedido único de 2020.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 12/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/12-2019-117754021), em vigor a partir de 2019-01-15, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 218/2018 - Diário da República n.º 141/2018, Série I de 2018-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/218-2018-115764794), em vigor a partir de 2018-07-25, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 35/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/35-2018-114561768), em vigor a partir de 2018-01-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 131/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/131-2016-74403503)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+## Anexo III — (a que se refere o n.º 11 do artigo 13.º)
+
+Tabela de conversão em cabeças normais (CN)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12
+
+## Anexo IV — (a que se refere o n.º 6 do artigo 26.º)
+
+Medidas e ações dos programas de desenvolvimento rural para efeitos da verificação da formação e competência adquirida
+
+a) Ação 1.1.1 - «Modernização e Capacitação das Empresas» - Componente 1 (Investimentos em explorações agrícolas para a produção primária de produtos agrícolas), no âmbito do PRODER;
+
+b) Ação 1.1.2 - «Investimentos de pequena dimensão», no âmbito do PRODER;
+
+c) Ação 1.1.3 - «Instalação de jovens agricultores», no âmbito do PRODER;
+
+d) Ação 3.1.1 - «Jovens Agricultores», no âmbito do PDR 2020;
+
+e) Ação 3.2.1 - «Investimento na exploração agrícola», no âmbito do PDR 2020;
+
+f) Ação 3.2.2 - «Pequenos Investimentos na Exploração Agrícola», no âmbito do PDR 2020.
+
+> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 33/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/33-2021-157116188), em vigor a partir de 2021-02-12, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 24-B/2016 - Diário da República n.º 29/2016, 1º Suplemento, Série I de 2016-02-11](https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2016-73576686), em vigor a partir de 2016-02-12, produz efeitos a partir de 2016-01-01
+
+## Anexo V — Referenciais de formação excluída
+
+[a que se referem a alínea d) do n.º 2 do artigo 12.º e a alínea d) do n.º 1 do artigo 27.º]
+
+Referencial de Formação Global CNQ - Código e unidade de formação
+
+6365 Turismo em espaço rural
+
+5436 Liderança e motivação de equipas
+
+4478 Técnicas de socorrismo princípios
+
+7852 Perfil e potencial do empreendedor - diagnóstico/ desenvolvimento
+
+7853 Ideias e oportunidades de negócio
+
+8598 Desenvolvimento pessoal e técnicas de procura de emprego
+
+8599 Comunicação assertiva e técnicas de procura de emprego
+
+8600 Competências empreendedoras e técnicas de procura de emprego
+
+2854 Código da estrada
+
+6392 Distribuição e comercialização de produtos fitofarmacêuticos
+
+9262 Produtos fitofarmacêuticos venda responsável - atualização
+
+## Anexo VI — Lista das espécies de plantas melíferas
+
+(a que se referem os n.os 10 e 12 do artigo 25.º)
+
+Facélia - Phacelia tanacetifolia
+
+Esparceta - Onobrychis viciifolia
+
+Trevo-encarnado - Trifolium incarnatum
+
+Trevo-de-cheiro - Meliloto officinalis
+
+Luzerna-lupulina - Medicago lupulina
+
+Trigo-sarraceno - Fagopyrum esculentum
+
+Serradela - Ornithopus spp.
+
+Calêndula - Calendula spp.
+
+Trevo-de-alexandria - Trifolium alexandrinum
+
+Chicória-selvagem - Chichorium intybus
+
+Centáurea - Centaurea spp.
+
+Trevo-da-pérsia - Trifolium resupinatum
+
+Malva - Malva spp.
+
+Trevo-híbrido - Trifolium hybridum
+
+Coentros - Coriandrum sativum
+
+Cominho-preto - Nigella sativa
+
+Endro - Anethum graveolens
+
+Pastinaca ou cheróvia - Pastinaca sativa
+
+Funcho - Foeniculum vulgare Mill.
+
+Cenoura-selvagem - Daucus carota L.
+
+Mostarda-branca - Sinapis alba
+
+Dente-de-leão - Taraxacum officinale
+
+Malmequer - Chrysanthemum leucanthemum ou Leucanthemum vulgare
+
+Latiros, chicharos ou cizirão - Lathyrus spp.
+
+Margaridas - Bellis spp.
+
+Papoila - Papaver rhoeas
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 18/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/18-2020-128470388), em vigor a partir de 2020-01-25
+
+###### Artigo 3.º — Norma revogatória
+
+São revogados:
+
+a) A Portaria n.º 68/2010, de 3 de fevereiro;
+
+b) O Despacho normativo n.º 7/2005, publicado no Diário da República, 1.ª série-B, n.º 22, de 1 de fevereiro;
+
+c) O Despacho normativo n.º 25/2005, publicado no Diário da República, 1.ª série-B, n.º 75, de 18 de abril;
+
+d) O Despacho normativo n.º 55/2005, publicado no Diário da República, 1.ª série-B, n.º 242, de 20 de dezembro;
+
+e) O Despacho normativo n.º 21/2006, publicado no Diário da República, 1.ª série-B, n.º 62, de 28 de março;
+
+f) O Despacho normativo n.º 2/2010, publicado no Diário da República, 2.ª série, n.º 20, de 29 de janeiro;
+
+g) O Despacho normativo n.º 8/2010, publicado no Diário da República, 2.ª série, n.º 55, de 19 de março;
+
+h) O Despacho normativo n.º 6/2011, publicado no Diário da República, 2.ª série, n.º 63, de 30 de março.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.

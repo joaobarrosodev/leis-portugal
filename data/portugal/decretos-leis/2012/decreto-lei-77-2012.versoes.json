@@ -1,0 +1,262 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553937:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-960671543",
+ "dre_path": "/dr/detalhe/decreto-lei/77-2012-553937",
+ "source_lastmod": "2026-01-21",
+ "versions": [
+  {
+   "date": "2026-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1017369017:por",
+     "title": "Decreto-Lei n.º 11/2026",
+     "published": "2026-01-21",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2026-1017369017"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "962438175",
+    "1020028975",
+    "962438575",
+    "1020028976",
+    "1020028982",
+    "1020028983",
+    "1020028984",
+    "1020028985",
+    "1020028986",
+    "1020028987",
+    "1020028988",
+    "1020028995",
+    "1020028996",
+    "1020028997",
+    "1020028998",
+    "1020028999",
+    "1020029000",
+    "1020029001"
+   ]
+  },
+  {
+   "date": "2026-05-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1102472597:por",
+     "title": "Decreto-Lei n.º 95/2026",
+     "published": "2026-04-30",
+     "dre_path": "/dr/detalhe/decreto-lei/95-2026-1102472597"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º-A"
+   ],
+   "fragments": [
+    "962438175",
+    "1020028975",
+    "962438575",
+    "1020028976",
+    "1020028982",
+    "1020028983",
+    "1020028984",
+    "1020028985",
+    "1020028986",
+    "1020028987",
+    "1020028988",
+    "1103941175",
+    "1020028996",
+    "1020028997",
+    "1020028998",
+    "1020028999",
+    "1020029000",
+    "1020029001"
+   ]
+  }
+ ],
+ "fragments": {
+  "962438175": {
+   "fragment_id": "962438075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nA Casa Pia de Lisboa, I. P. (CPL, I. P.), enquanto instituição bicentenária ao serviço da educação e da solidariedade social em Portugal, tem funcionado segundo vários modelos, todos eles geradores de importantes e conclusivas experiências no campo social e pedagógico. Sendo uma instituição de vocação socioeducativa, a CPL, I. P., dirige-se a crianças e jovens em situação socialmente desfavorecida, com necessidades específicas e, por isso, com desigualdade de oportunidades de acesso e de sucesso.\n\nPossui, no entanto, elementos distintivos das organizações afins. O modelo de gestão adotado visa introduzir uma flexibilidade adequada à resposta célere e eficaz às múltiplas solicitações colocadas à CPL, I. P., que reclamam uma intervenção especializada e um cuidado técnico com vista à ressocialização e desenvolvimento pessoal das crianças e jovens. Aposta-se, por isso, numa gestão orientada por processos, tendo as crianças e os jovens no centro de toda a atividade da CPL, I. P., e numa estrutura e funcionamento dos serviços em rede, promotora da coesão institucional. Para além do órgão de direção, que é o conselho diretivo, mantém-se o conselho institucional, ao qual são cometidas funções deliberativas de importância estratégica para a vida da instituição. Prevê-se ainda um conselho de curadores, o qual tem por missão velar pela fidelidade da CPL, I. P., ao cumprimento das suas atribuições, atuando como instância de observação e escuta das aspirações e necessidades das crianças e jovens.\n\nValoriza-se igualmente uma maior abertura à comunidade, dando continuidade ao relacionamento e à interação dos centros de educação e desenvolvimento - aos quais cabe assegurar as diversas respostas sociais - com outras entidades. Privilegia-se ainda a cooperação com outras entidades e a abertura à participação dos diferentes agentes sociais, culturais e económicos, sendo assim criadas as condições para fomentar o desenvolvimento psicossocial das crianças e jovens que se encontram confiados à responsabilidade da CPL, I. P., o que constitui o objetivo primacial de todo o processo de reestruturação desencadeado.\n\nReconhecendo a importância da qualificação dos recursos humanos numa instituição com a natureza da CPL, I. P., procura-se uma maior transparência no agir institucional, através da criação de condições organizativas para a mobilização e participação generalizada dos colaboradores, a todos os níveis, no diagnóstico, debate e apresentação de contributos no âmbito da intervenção e da organização. Como nota relevante de continuidade, a CPL, I. P., mantém a sua autonomia técnica e pedagógica, nas áreas sociais, educativas e formativas, com observância das orientações definidas pela tutela. Procura-se, deste modo, concretizar a missão da CPL, I. P., destacando e reforçando elementos organizativos e metodológicos que constituem mais-valia, em termos de gestão.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1020028975": {
+   "fragment_id": "962438275",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Casa Pia de Lisboa, I. P., abreviadamente designada por CPL, I. P., é um instituto público, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - A CPL, I. P., é ainda dotada de autonomia técnica e pedagógica, que compreende a capacidade de intervenção nas áreas social, educativa e formativa, com observância das orientações definidas pelo ministério da tutela e das que sejam seguidas no ministério da área da educação, e com garantia do reconhecimento oficial para todos os ciclos, níveis e formas de ensino ministrados, nos termos da lei em vigor.\n\n3 - A CPL, I. P., prossegue atribuições do Ministério do Trabalho, Solidariedade e da Segurança Social, sob superintendência e tutela do respetivo ministro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "962438575": {
+   "fragment_id": "962438475",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - A CPL, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - A CPL, I. P., tem sede em Lisboa."
+  },
+  "1020028976": {
+   "fragment_id": "962438675",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nA CPL, I. P., tem por missão a educação, a formação e a proteção de crianças e jovens, especialmente os provenientes de contextos vulneráveis, garantindo-lhes percursos educativos inclusivos e de qualidade, promovendo a plena cidadania, em respeito pelos seus direitos fundamentais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028982": {
+   "fragment_id": "1019857691",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Atribuições",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 3.º-A — Atribuições\n\nSão atribuições da CPL, I. P.:\n\na) Promover a proteção e a promoção dos direitos das crianças e jovens provenientes de contextos vulneráveis, com predominância dos fatores de risco ou de perigo;\n\nb) Garantir às crianças e jovens percursos educativos através de uma escolaridade prolongada;\n\nc) Desenvolver um modelo do ensino profissional de qualidade que aposte, designadamente, no reforço da formação e da integração profissional;\n\nd) Assegurar respostas educativas e formativas, orientadas para a certificação escolar e profissional, favorecendo a empregabilidade, a autonomia e a igualdade de oportunidades;\n\ne) Proporcionar um ambiente de vida estável, seguro e estimulante, adequado ao desenvolvimento físico, emocional e social das crianças e jovens com medida de promoção e proteção;\n\nf) Garantir a integração das crianças e jovens em contextos familiares apropriados e devidamente avaliados, sempre que tal corresponda ao seu superior interesse;\n\ng) Desenvolver programas de habilitação e reabilitação, formação e integração destinados a crianças e jovens com deficiência, designadamente surdos e surdo-cegos, promovendo a sua inclusão educativa, profissional e social;\n\nh) Colaborar com famílias com crianças e jovens, no sentido de apoiar a prevenção e reparação de situações de risco psicossocial, mediante o desenvolvimento de competências parentais, pessoais e sociais;\n\ni) Promover programas de respostas educativas, formativas e sociais estruturados, integrados e articulados, assentes em modelos inovadores e transformadores.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028983": {
+   "fragment_id": "962438875",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos da CPL, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho institucional;\n\nd) O conselho consultivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028984": {
+   "fragment_id": "962439075",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por um vogal.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão da CPL, I. P.:\n\na) Definir as linhas de orientação e o plano estratégico;\n\nb) Promover o alinhamento e a coerência entre o plano estratégico e os restantes instrumentos de gestão;\n\nc) Assegurar a eficácia da comunicação interna e externa;\n\nd) Definir recursos de acordo com as prioridades do plano estratégico;\n\ne) Admitir e autorizar a saída de crianças e jovens dos programas de respostas educativas, formativas e sociais;\n\nf) Autorizar a concessão de apoios sociais a crianças e jovens que frequentam os programas de respostas educativas, formativas e sociais da CPL, I. P., ou ex-educandos, nomeadamente bolsas e subsídios;\n\ng) Aprovar as orientações internas necessárias à concretização do modelo socioeducativo;\n\nh) Promover formas alargadas de parceria com outras entidades que prossigam atividades de caráter complementar.\n\ni) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028985": {
+   "fragment_id": "962439275",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos."
+  },
+  "1020028986": {
+   "fragment_id": "962439475",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho institucional",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho institucional\n\n1 - O conselho institucional é um órgão de consulta, apoio e participação na definição das linhas gerais de atuação da CPL, I. P.\n\n2 - O conselho institucional é presidido pelo presidente do conselho diretivo e composto pelos demais membros do conselho diretivo e pelos dirigentes diretamente dependentes daquele órgão.\n\n3 - O conselho institucional pode ainda reunir com a presença de todos os dirigentes da CPL, I. P.\n\n4 - Sem prejuízo das competências conferidas por lei, compete ao conselho institucional:\n\na) Pronunciar-se sobre os grandes temas da vida da instituição;\n\nb) Promover o alinhamento estratégico e a harmonização dos modelos de intervenção entre todas as unidades orgânicas e potenciar as oportunidades de cooperação sobre projetos, de âmbito bilateral ou multilateral;\n\nc) Pronunciar-se sobre o orçamento, o plano e o relatório de atividades anuais;\n\nd) Pronunciar-se sobre as linhas de orientação geral e o plano estratégico;\n\ne) Acompanhar a monitorização dos indicadores dos instrumentos de gestão.\n\n5 - O conselho institucional reúne ordinariamente uma vez por mês, com exceção dos meses de agosto e dezembro, e extraordinariamente sempre que o presidente o convoque.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028987": {
+   "fragment_id": "962439675",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho consultivo",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de consulta e apoio na definição das linhas gerais de atuação da CPL, I. P., competindo-lhe:\n\na) Emitir parecer sobre os instrumentos de gestão;\n\nb) Pronunciar-se sobre as questões que lhe sejam submetidas pelo conselho diretivo ou pelo respetivo presidente;\n\nc) Apresentar sugestões ou propostas ao conselho diretivo, destinadas a fomentar ou aperfeiçoar as atividades da CPL, I. P.\n\n2 - O conselho consultivo é composto por:\n\na) Presidente do conselho diretivo da CPL, I. P., que preside;\n\nb) Os demais membros do conselho diretivo;\n\nc) Os dirigentes máximos dos organismos com atribuições na área da ação social, da inclusão, da gestão do sistema educativo, da formação e emprego e ainda da promoção dos direitos e proteção das crianças e jovens.\n\n3 - Podem ainda fazer parte do conselho consultivo três personalidades de reconhecido mérito de diversos setores da vida nacional na área de atribuições da CPL, I. P.\n\n4 - Os membros do conselho consultivo referidos no número anterior são designados pelo membro do Governo da tutela pelo período de três anos, renovável por igual período.\n\n5 - O presidente do conselho consultivo indica o membro que o substitui nas suas faltas ou impedimentos.\n\n6 - A participação no conselho consultivo não é remunerada.\n\n7 - O conselho consultivo reúne semestralmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028988": {
+   "fragment_id": "962439875",
+   "type": 11,
+   "heading": "Artigo 9.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organização interna\n\nA organização interna da CPL, I. P., é a prevista nos respetivos estatutos."
+  },
+  "1020028995": {
+   "fragment_id": "1019857692",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Cargos dirigentes intermédios",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 9.º-A — Cargos dirigentes intermédios\n\n1 - É cargo de direção intermédia de 1.º grau da CPL, I. P., o diretor de departamento e os diretores executivos de nível 1.\n\n2 - São cargos de direção intermédia de 2.º grau da CPL, I. P., o diretor executivo de nível 2 e o diretor de unidade.\n\n3 - São cargos de direção intermédia de 3.º grau da CPL, I. P., os diretores técnicos e o coordenador de núcleo.\n\n4 - A remuneração dos cargos de direção intermédia de 3.º grau é determinada em percentagem da remuneração dos cargos de direção intermédia de 1.º grau, nos seguintes termos:\n\na) Remuneração base - 40 %;\n\nb) Despesas de representação - 24 %.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028996": {
+   "fragment_id": "962440075",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas",
+   "in_force_from": "2026-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 10.º — Receitas\n\n1 - A CPL, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e no orçamento da segurança social.\n\n2 - A CPL, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As comparticipações, transferências, donativos ou subsídios concedidos por quaisquer entidades;\n\nb) Os subsídios de compensação a suportar por quem tiver obrigação de prestar alimentos ao menor assistido ou pelas entidades que solicitarem o apoio da CPL, I. P.;\n\nc) Os rendimentos de bens próprios e os demais rendimentos que fruir a qualquer título;\n\nd) As quantias provenientes da prestação de serviços ou da venda de produtos e bens;\n\ne) As heranças, legados, doações ou outras liberalidades;\n\nf) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - Os saldos das receitas referidas no número anterior, verificados no final de cada ano, transitam para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  },
+  "1020028997": {
+   "fragment_id": "962440275",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas\n\nConstituem despesas da CPL, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "1020028998": {
+   "fragment_id": "962440475",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património da CPL, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "1020028999": {
+   "fragment_id": "962440675",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 397-A/2007, de 31 de dezembro."
+  },
+  "1020029000": {
+   "fragment_id": "962440875",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "1020029001": {
+   "fragment_id": "962441075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 16 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 19 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1103941175": {
+   "fragment_id": "1019857692",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Cargos dirigentes intermédios",
+   "in_force_from": "2026-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2026-1102472597), em vigor a partir de 2026-05-05, com efeitos a partir de 2026-04-01.",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+   ],
+   "markdown": "###### Artigo 9.º-A — Cargos dirigentes intermédios\n\n1 - É cargo de direção intermédia de 1.º grau da CPL, I. P., o diretor de departamento e os diretores executivos de nível 1.\n\n2 - São cargos de direção intermédia de 2.º grau da CPL, I. P., o diretor executivo de nível 2 e o diretor de unidade.\n\n3 - São cargos de direção intermédia de 3.º grau da CPL, I. P., os diretores técnicos e o coordenador de núcleo.\n\n4 - A remuneração dos cargos de direção intermédia de 3.º grau é determinada em percentagem da remuneração dos cargos de direção superior de 1.º grau, nos seguintes termos:\n\na) Remuneração base - 40 %;\n\nb) Despesas de representação - 24,5 %.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 95/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2026-1102472597) A alteração efetuada ao presente artigo aplica-se ao cálculo da remuneração dos titulares dos cargos de direção intermédia de 3.º grau da Casa Pia de Lisboa, I. P., desde a data de produção de efeitos do Decreto-Lei n.º 11/2026, de 21 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2026-1102472597), em vigor a partir de 2026-05-05, com efeitos a partir de 2026-04-01.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017), em vigor a partir de 2026-01-26"
+  }
+ }
+}

@@ -1,0 +1,278 @@
+---
+schema_version: '1.0'
+id: pt:dre:447894:por
+title: Decreto Regional n.º 3/78/A
+short_title: null
+summary: Estabelece o enquadramento do orçamento da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 3/78/A
+official_date: null
+publication_date: '1978-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 15/1978, Série I de 1978-01-18
+  number: '15'
+  series: I
+  supplement: null
+  pages: 116 - 118
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01500/01160118.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '447894'
+  dre_path: /dr/detalhe/decreto-regional/3-1978-447894
+  internal: pt:dre:447894:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-447894
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-447894
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 414f50bbf91179a42cd662dd141015ced3dfb7bd49512c1cb7b306ca0d0f792a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Alteração Orçamental
+- Assembleia Legislativa Regional
+- Contabilidade Pública
+- Despesas Públicas
+- Execução do Orçamento
+- Fiscalização
+- Governo Regional
+- Orçamento Regional
+- Relatório e Contas
+- Tribunal de Contas
+relationships:
+- type: amended_by
+  target: pt:dre:216516:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:660166:por
+  label: "Alterados os arts. 9º e 11º, pelo DLR.4/84/A.1984.01.16.ARA, DR.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1984-660166
+  date: '1984-01-16'
+- type: amended_by
+  target: pt:dre:496889:por
+  label: "Alterados os arts. 10º, n.ºs 1 e 3, 12º, nºs 3 e 4, 13º, 14º e 19º, n.ºs 1 e 2, pelo DLR.17/87/A.1987.11.13.ARA,\
+    \ DR.IS [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-1987-496889
+  date: '1987-11-13'
+- type: repealed_by
+  target: pt:dre:216516:por
+  label: "Revogado pela LEI.79/98.1998.11.24.AR DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-1998-216516
+  date: '1998-11-24'
+article_structure:
+  article_count: 22
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:23:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 3/78/A
+
+A Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
+
+###### Artigo 1.º — (Objecto)
+
+As regras referentes ao orçamento da Região Autónoma dos Açores, os procedimentos para a sua elaboração, execução, alteração e fiscalização e a responsabilidade orçamental obedecerão aos princípios e normas constantes dos artigos seguintes.
+
+### CAPÍTULO I — Princípios e regras orçamentais
+
+###### Artigo 2.º — (Anualidade)
+
+O orçamento da Região é anual e o ano económico coincide com o ano civil.
+
+###### Artigo 3.º — (Unidade e universalidade)
+
+1 - O orçamento da Região é unitário e compreenderá progressivamente todas as receitas e despesas da Administração Regional, incluindo as receitas e despesas dos serviços e fundos autónomos.
+
+2 - Os orçamentos das autarquias locais regionais bem como das empresas públicas que exerçam a sua actividade exclusivamente na Região são independentes, na sua elaboração, aprovação e execução, do orçamento da Região, mas deste deverão constar, progressivamente, em mapas globais anexos, os elementos necessários à apreciação da situação financeira de todo o sector público regional.
+
+###### Artigo 4.º — (Equilíbrio)
+
+1 - O orçamento da Região deverá prever os recursos necessários para cobrir todas as despesas.
+
+2 - As receitas correntes serão, pelo menos, iguais às despesas correntes, salvo se a conjuntura do período a que se refere o orçamento o não permitir.
+
+###### Artigo 5.º — (Orçamento bruto)
+
+1 - Todas as receitas serão inscritas no orçamento pela importância integral em que forem avaliadas, sem dedução alguma para encargos de cobrança ou de qualquer outra natureza.
+
+2 - Todas as despesas serão inscritas no orçamento pela sua importância integral, sem dedução de qualquer espécie.
+
+###### Artigo 6.º — (Não consignação)
+
+1 - No orçamento não poderá afectar-se o produto de quaisquer receitas à cobertura de determinadas despesas.
+
+2 - Exceptuam-se do disposto no número anterior os casos em que, por virtude de autonomia financeira ou de razão especial, a lei expressamente determine afectação de certas receitas e determinadas despesas.
+
+3 - Exceptuam-se igualmente do disposto no n.º 1 o presente artigo as receitas atribuídas à Região ou pela mesma cobradas para fins específicos.
+
+###### Artigo 7.º — (Especificação)
+
+1 - O orçamento da Região especificará suficientemente as receitas nele previstas e as despesas nele fixadas.
+
+2 - São nulos os créditos orçamentais que possibilitem a existência de dotações para utilização confidencial ou para fundos secretos.
+
+###### Artigo 8.º — (Classificação das receitas e despesas)
+
+A especificação das receitas e despesas respeitará, no orçamento da Região, a classificação orgânica e económica, devendo ser essas receitas e despesas sempre agrupadas, dentro da classificação económica, em correntes e de capital.
+
+### CAPÍTULO II — Procedimento para a elaboração do orçamento da Região
+
+###### Artigo 9.º — (Proposta de orçamento)
+
+1 - O Governo Regional apresentará à Assembleia Regional até 30 de Setembro de cada ano a proposta do orçamento para o ano económico seguinte, a qual será integrada com a proposta de plano regional anual.
+
+2 - A proposta de orçamento referida no número anterior deverá ter em conta as orientações do plano regional a médio prazo.
+
+###### Artigo 10.º — (Conteúdo da proposta de orçamento)
+
+1 - A proposta de orçamento conterá a discriminação das receitas por tipos e das despesas na parte respeitante às dotações globais correspondentes às funções das Secretarias Regionais.
+
+2 - A proposta de orçamento conterá a indicação das fontes de financiamento do eventual deficit orçamental, ou a indicação do destino a dar ao eventual excedente.
+
+3 - A proposta de orçamento referida no n.º 1 será acompanhada de todos os elementos necessários à justificação da política orçamental apresentada.
+
+###### Artigo 11.º — (Votação do orçamento)
+
+A Assembleia Regional votará a proposta de orçamento até 10 de Novembro de cada ano.
+
+###### Artigo 12.º — (Atraso na proposta do orçamento)
+
+1 - Se a Assembleia Regional não aprovar a proposta de orçamento de modo que possa entrar em execução no início do ano económico a que se destina, manter-se-á em vigor, por duodécimos, o orçamento do ano anterior, de acordo com o disposto nos números seguintes.
+
+2 - A manutenção de vigência do orçamento do ano anterior será feita com as alterações que nele forem introduzidas durante a sua execução.
+
+3 - Se a Assembleia Regional aprovar o plano anual e, em sua execução, forem autorizadas pelo Governo Regional despesas de capital, estas poderão ser efectuadas ao abrigo daquela aprovação enquanto não for aprovado o orçamento.
+
+4 - O disposto nos números anteriores cessará no primeiro dia do mês seguinte ao decurso do prazo mínimo de quinze dias sobre a aprovação do orçamento.
+
+###### Artigo 13.º — (Elaboração do orçamento)
+
+1 - O orçamento da Região será elaborado pelo Governo Regional de acordo com as resoluções que tiverem incidido sobre as propostas do orçamento e do plano regionais.
+
+2 - Nas especificações das dotações, o Governo Regional dará prioridade às obrigações decorrentes de lei ou de contrato e, seguidamente, à execução de programas ou projectos plurianuais e outros empreendimentos constantes do plano regional anual, devendo ainda assegurar a necessária correcção entre as previsões orçamentais e a evolução da conjuntura.
+
+###### Artigo 14.º — (Decreto regulamentar orçamental)
+
+1 - O orçamento da Região será posto em execução pelo Governo Regional através de decreto regulamentar, de modo que possa começar a ser executado no início do ano económico a que diz respeito, excepto nos casos previstos nos n.os 2 a 4 do artigo 12.º
+
+2 - O diploma referido no número anterior conterá além das demais disposições reguladoras ou orientadoras da execução orçamental, a especificação das receitas pertencentes à Região, com discriminação suficiente de cada artigo no orçamento, bem como o mapa das despesas autorizadas, pelo menos com a discriminação dos capítulos de cada divisão administrativa.
+
+### CAPÍTULO III — Execução do orçamento e alterações orçamentais
+
+###### Artigo 15.º — (Efeitos do orçamento das receitas)
+
+1 - Nenhuma receita poderá ser liquidada ou cobrada, mesmo que seja legal, se não tiver sido objecto de inscrição orçamental.
+
+2 - Exceptuam-se do número anterior as receitas atribuídas à Região ou, pelo menos, arrecadadas para fins específicos.
+
+3 - A cobrança poderá, todavia, ser efectuada mesmo para além do montante inscrito no orçamento.
+
+###### Artigo 16.º — (Efeitos do orçamento das despesas)
+
+1 - As dotações orçamentais constituem o limite máximo a utilizar na realização das despesas.
+
+2 - Nenhuma despesa poderá ser efectuada sem que, além de ser legal, se encontre suficientemente discriminada no orçamento da Região Autónoma dos Açores, tenha cabimento no correspondente crédito orçamental e obedeça ao princípio da utilização por duodécimos, salvas, neste último caso, as excepções autorizadas por lei.
+
+3 - Nenhum encargo poderá ser assumido sem que a correspondente despesa obedeça aos requisitos do número anterior.
+
+###### Artigo 17.º — (Supressão ou redução de dotações)
+
+1 - O Secretário Regional das Finanças, ouvido o Secretário Regional competente, poderá suprimir as dotações que careçam de justificação ou reduzir os seus montantes, desde que não afectem a execução de investimentos do plano regional e não violem as obrigações legais da Região.
+
+2 - O disposto no número anterior poderá assumir carácter genérico, com a forma de reduções gerais ou anulação de dotações determinadas por decreto regulamentar regional.
+
+###### Artigo 18.º — (Administração orçamental e contabilidade pública)
+
+1 - Enquanto não forem estabelecidas normas próprias de funcionamento da administração orçamental regional, aplicar-se-ão as normas da Contabilidade Pública.
+
+2 - A vigência e a execução do orçamento da Região obedecerão ao sistema do ano económico.
+
+###### Artigo 19.º — (Alterações orçamentais)
+
+1 - Para ocorrer a despesas indispensáveis e urgentes não previstas ou insuficientemente dotadas no orçamento, poderá o Governo Regional, após autorização da Assembleia Regional e, no caso de esta se não encontrar reunida em Plenário, da Comissão competente, mandar abrir créditos especiais com compensação no aumento provisional de receitas até ao limite máximo de 20% do valor total das receitas orçamentais aprovadas pela Assembleia Regional.
+
+2 - As transferências de verbas entre Secretarias Regionais diferentes carecem também de autorização da Assembleia Regional, nos termos do número anterior.
+
+3 - Os quantitativos de despesas relativas às contas de ordem, bem como das despesas que tenham compensação em receitas, podem ser alterados automaticamente até à concorrência das cobranças efectivas de receitas.
+
+4 - As despesas que, por expressa determinação de lei, possam ser realizadas com utilização de saldos de dotações de anos anteriores, podem ser automaticamente alteradas em montante idêntico ao respectivo saldo.
+
+5 - O Governo Regional definirá, por decreto regulamentar, as regras gerais a que deverão obedecer as alterações orçamentais da sua competência.
+
+### CAPÍTULO IV — Fiscalização e responsabilidade orçamental
+
+###### Artigo 20.º — (Fiscalização orçamental)
+
+1 - A fiscalização administrativa da execução orçamental compete, além de à própria entidade responsável pela gestão e pela execução, a entidades hierarquicamente superiores e de tutela e a órgãos gerais de inspecção e contrôle administrativo, aos serviços da contabilidade pública regional, devendo ser efectuada nos termos da legislação aplicável.
+
+2 - A fiscalização jurisdicionalizada da execução orçamental compete à Secção Regional do Tribunal de Contas e deverá ser efectuada nos termos da legislação aplicável.
+
+3 - A fiscalização a exercer pelas entidades referidas nos números anteriores atenderá aos princípios de que a execução orçamental deve obter a maior utilidade e rendimento sociais com o mais baixo custo.
+
+###### Artigo 21.º — (Contas públicas regionais)
+
+1 - O resultado da execução orçamental constará de contas provisórias e da conta da Região.
+
+2 - O Governo Regional publicará trimestralmente as contas provisórias e apresentará à Assembleia Regional a conta da Região até 31 de Outubro do ano seguinte àquele a que respeita.
+
+3 - A Assembleia Regional apreciará e aprovará a conta da Região, precedendo parecer da Secção Regional do Tribunal de Contas, e, no caso de não aprovação, determinará, se a isso houver lugar, a efectivação das correspondentes responsabilidades.
+
+###### Artigo 22.º — (Regulamentação)
+
+O Governo Regional procederá, por decreto regulamentar, ao desenvolvimento dos princípios gerais contidos no presente diploma e publicará a necessária regulamentação.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 24 de Novembro de 1977.
+
+O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.
+
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.
+
+Publique-se.
+
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.

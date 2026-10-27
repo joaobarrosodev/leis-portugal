@@ -1,0 +1,351 @@
+---
+schema_version: '1.0'
+id: pt:dre:450786:por
+title: Portaria n.º 560/83
+short_title: null
+summary: Estabelece o regulamento da conservação arquivística do Ministério da Indústria, Energia e Exportação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria, Energia e Exportação
+proposing_entity: null
+official_number: 560/83
+official_date: null
+publication_date: '1983-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1983, Série I de 1983-05-11
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1673 - 1676
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10800/16731676.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '450786'
+  dre_path: /dr/detalhe/portaria/560-1983-450786
+  internal: pt:dre:450786:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1983-450786
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1983-450786
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 32b40fe106d0614b374e0e9d76047075731a7a5d05ca9740583a7597c683056e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conservação de Documentos
+- Ministério da Indústria Energia e Exportação
+relationships:
+- type: cites
+  target: pt:dre:323571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609103:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:43:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 560/83
+
+de 11 de Maio
+
+A gestão das organizações exige uma capacidade de resposta rápida, apoiada numa informação segura, aos problemas que lhe são postos.
+
+Daí a importância do arquivo, não como mero depósito de documentos, mas como centro activo de informações.
+
+Importa, pois, resolver os problemas de rapidez de consulta, e mesmo de espaço, que afectam a maioria dos arquivos e que resultam, fundamentalmente, do grande volume de documentação existente.
+
+O [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, determina que serão fixados por portaria os prazos mínimos de conservação em arquivo dos documentos na posse dos serviços públicos. O mesmo diploma permite a microfilmagem e consequente destruição dos documentos, antes de decorridos os respectivos prazos de conservação.
+
+Assim, o MIEE, quer pelas necessidades existentes, quer pelo acolhimento legal já estabelecido nesta matéria através da [Portaria n.º 315/82](https://diariodarepublica.pt/dr/detalhe/portaria/315-1982-609103), de 24 de Março, procura encontrar, através da racionalização do processo de arquivo, soluções para uma melhor operacionalidade dos serviços.
+
+Nestes termos e ao abrigo do disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002):
+
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria, Energia e Exportação, aprovar o seguinte:
+
+REGULAMENTO DA CONSERVAÇÃO ARQUIVÍSTICA DO MIEE
+
+1.º
+
+(Âmbito de aplicação)
+
+Este regulamento é aplicável a todos os serviços do MIEE que não disponham de regulamento próprio sobre a matéria.
+
+2.º
+
+(Prazo de conservação de documentos)
+
+1 - Os prazos mínimos de conservação de documentos são os que constam do presente regulamento, ressalvado, contudo, o que estiver fixado por legislação especial.
+
+2 - Os documentos de conservação indefinida deverão, decorrido o prazo de 30 anos, ser apreciados pela comissão prevista no n.º 3.º da [Portaria n.º 315/82](https://diariodarepublica.pt/dr/detalhe/portaria/315-1982-609103), que avaliará os que, pelo seu interesse, deverão ser conservados permanentemente.
+
+3.º
+
+(Documentos de interesse histórico)
+
+1 - Os documentos considerados de interesse histórico deverão ser conservados na forma original, mesmo quando se decida a sua microfilmagem.
+
+2 - Em casos de dúvida quanto ao interesse histórico dos documentos mencionados no número anterior, deverá ser consultado o Instituto Português do Património Cultural (IPPC), criado pelo [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
+
+4.º
+
+(Documentação de conservação indefinida)
+
+1 - Consideram-se documentos de conservação indefinida os seguintes:
+
+a) Estudos de planeamento, programas aprovados e relatórios da execução respectiva;
+
+b) Estatísticas fundamentais para o planeamento e gestão dos serviços quando não publicadas;
+
+c) Documentos básicos relativos à criação, estrutura ou alteração dos serviços do MIEE;
+
+d) Documentos relativos às grandes linhas de política prosseguida pelo MIEE, nos sectores de actividade que lhe estão adstritos:
+
+Estudos prévios, relatórios e actas;
+
+Versões sucessivas dos diplomas fundamentais e suas interpretações;
+
+Todas as unidades arquivísticas organizadas com base no assunto tratado ou na entidade que lhes deu origem, a partir do ano em que os assuntos respectivos obtiverem resolução final e depois de aliviados dos documentos de mero expediente;
+
+e) Documentos respeitantes às funções específicas dos serviços nos seus aspectos basilares, tais como:
+
+Regulamentos internos;
+
+Relatórios sobre tarefas fundamentais realizadas;
+
+f) Documentos relativos às funções não específicas e fundamentais dos serviços, tais como:
+
+Relatórios, livros de actas e mapas de despesas anuais elaboradas ao abrigo do artigo 3.º do [Decreto n.º 27327](https://diariodarepublica.pt/dr/detalhe/decreto/27327-1936-323571), de 15 de Dezembro de 1936;
+
+Contas de gerência e as respectivas peças justificativas fundamentais;
+
+Folhas de vencimentos, salários, gratificações e outros abonos (até à aposentação ou morte de todos os funcionários nelas inscritos);
+
+Cadastro de bens do domínio privado;
+
+Processos individuais dos servidores quanto aos documentos relativos a nascimentos, estado civil, situação militar, habilitações literárias, formação profissional, números identificadores, remunerações, méritos, deméritos, admissões, exercício de funções alheias ao Ministério, acumulações, promoções, transferências, comissões de serviço e extinção do exercício das funções públicas e, bem assim, dos processos disciplinares ou de certidões requeridas e passadas, sua integração em órgãos sociais e sindicais;
+
+Fichas de cadastro de pessoal;
+
+Documentos definidores da organização arquivística dos serviços ao longo de toda a sua existência;
+
+g) Todas as unidades arquivísticas organizadas com base no assunto tratado ou na entidade que lhes deu origem, quando:
+
+Iniciadas no ano de criação de serviços e em anos terminados em 0;
+
+Concluídas em anos de extinção de serviços;
+
+h) Documentos de grande interesse administrativo ou outros, expressamente reconhecidos pelos membros do Governo, sob proposta dos directores-gerais ou equiparados.
+
+2 - Os documentos de conservação indefinida, ao fim de 30 anos, e ouvida a comissão, serão enviados ao arquivo erudito do Ministério, se considerados de interesse histórico, e inutilizados, em caso contrário.
+
+5.º
+
+(Documentos que podem ser inutilizados após certo prazo)
+
+Podem ser inutilizados os documentos seguintes, após os prazos mínimos que se indicam:
+
+a) 20 anos a partir do ano em que os assuntos respectivos obtiverem resolução final ou, quando não sujeitos a resolução final, a partir do ano de realização da actividade respectiva, tais como:
+
+1) Informações;
+
+2) Processos de contencioso;
+
+3) Recursos contenciosos ou hierárquicos;
+
+4) Processos de sindicância e de inquérito aos serviços;
+
+5) Documentação relativa ao sistema de classificação de serviço;
+
+6) Instrumentos de pesquisa dos arquivos próprios, designadamente inventário, catálogo e índice ou, na sua falta, sucessivamente, fichas de registo de documentação por assuntos, ou livros ou fichas de registo de entrada de correspondência e copiadores de correspondência expedida;
+
+7) Mapas de Conta Geral do Estado;
+
+8) Registo das folhas e das respectivas autorizações de pagamento;
+
+9) Notas de lançamento e extractos enviados por entidades bancárias;
+
+10) Ordens de recebimento;
+
+11) Ordens de pagamento por transferência bancária;
+
+12) Processos relativos a concurso de admissão e promoção de pessoal e respectivas provas práticas, com excepção dos trabalhos originais, que deverão ser conservados no serviço de biblioteca;
+
+b) 10 anos a partir do ano em que findou o tratamento administrativo ou técnico dos documentos, integrados ou não em processos de entre os quais:
+
+1) Documentos referentes a aquisição ou a fornecimento de bens e serviços por entidades estranhas ao Ministério, a partir da sua liquidação;
+
+2) Registo da correspondência entrada e saída, por entidades, em livros ou fichas;
+
+3) Informações ou propostas de carácter geral;
+
+4) Pareceres de contencioso;
+
+5) Projectos de orçamento;
+
+6) Contas correntes com os orçamentos nos serviços não autónomos;
+
+7) Alterações orçamentais;
+
+8) Registo de guias de depósito e reposição;
+
+9) Listas de antiguidade;
+
+10) Folhas de ajudas de custo e subsídio de viagem e marcha;
+
+11) Fundos permanentes;
+
+12) Documentos de operações diversas;
+
+13) Requisições de fundos e respectivas restituições;
+
+14) Guias de depósito e de reposição;
+
+15) Processos que, nas delegações regionais, ou noutros serviços externos, constituam mera duplicação dos existentes nos respectivos serviços centrais;
+
+c) 5 anos a partir do ano em que findou o tratamento administrativo ou técnico dos documentos, integrados ou não em copiadores ou processos, de entre os quais:
+
+1) Todos os documentos avulsos ou integrados em unidades arquivísticas organizadas cronologicamente com base na forma dos documentos ou no tipo de acção a executar, tais como copiadores, livros de registo, etc.;
+
+2) Copiadores de requerimentos de certidões e expediente subsequente;
+
+3) Livros ou fichas de ponto (após a publicação da lista de antiguidade definitiva);
+
+4) Relações de frequência dos trabalhadores da função pública;
+
+5) Copiadores de expediente relacionado com acidentes em serviço;
+
+6) Protocolos de entrega de correspondência;
+
+7) Livros de balancetes;
+
+8) Registo de cabimento prévio;
+
+9) Requisições internas de material e respectivas fichas de suporte;
+
+10) Guias de remessa de material;
+
+11) Boletins diários e mapas mensais de controle da gestão das viaturas;
+
+12) Pedidos de antecipação de duodécimos;
+
+13) Registo de cheques emitidos relativos a SOFE e ADSE;
+
+174) Contratos de assistência, aluguer e aquisição de serviços (após o seu término ou rescisão).
+
+6.º
+
+(Documentos que podem ser inutilizados com prévia microfilmagem)
+
+1 - Por necessidade de espaço, os documentos referidos no artigo precedente poderão ser inutilizados antes dos prazos indicados, contanto que sejam microfilmados.
+
+2 - Deve ser dada prioridade à microfilmagem de documentos de maior prazo de conservação e mais volumosos.
+
+3 - A microfilmagem dos documentos implica as operações seguintes:
+
+a) Selecção da documentação;
+
+b) Preparação dos originais a microfilmar;
+
+c) Ordenação e inserção de elementos de identificação das unidades arquivísticas;
+
+d) Microfilmagem propriamente dita e revelação;
+
+e) Conferência do microfilme com o original, no sentido de verificar que não foi omitido nenhum documento e que a fotografia se encontra em boas condições técnicas;
+
+f) Identificação das microcópias;
+
+g) Descrição e armazenamento, das microcópias.
+
+4 - A autenticidade das microcópias, quer no que respeita a cada uma em si própria, quer em relação ao conjunto de documentos de cada unidade arquivística, é garantida por:
+
+a) Um termo de abertura e outro de encerramento, com visto do responsável pelo serviço, que serão microfilmados, respectivamente, no início e no fim do filme correspondente;
+
+b) Uma lista de verificação das microcópias, de cada unidade arquivística, donde conste o número, o conteúdo, a exactidão com o original e se existem ou não cortes ou emendas no filme, garantida por declaração assinada pelo conferente responsável pela autenticidade;
+
+5 - Os responsáveis pelas operações de microfilmagem e segurança de documentos cuja inutilização seja permitida serão designados pelos dirigentes dos serviços.
+
+6 - A microfilmagem será realizada quando os dirigentes a considerem justificada económica e funcionalmente.
+
+7.º
+
+(Documentos de inutilização imediata)
+
+Podem ser inutilizados, logo após o seu conhecimento ou depois do expediente que originem, os documentos de interesse efémero e diminuto, tais como:
+
+a) Recortes de publicações periódicas de informação geral, quando não dêem origem a actuação administrativa;
+
+b) Notas de simples conhecimento, tais como cartas, postais, ofícios e comunicações;
+
+c) Pedidos de informação e respectivas respostas quando não requeiram qualquer acção ou decisão consequente;
+
+d) Correspondência referente a convites;
+
+e) Comunicados e notas de actividades públicas e privadas recebidos para simples conhecimento ocasional;
+
+f) Recordatórias a que foi dado cumprimento.
+
+8.º
+
+(Resolução de dúvidas)
+
+As dúvidas que surjam na aplicação da presente portaria serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação, ouvido o secretário-geral.
+
+Ministério da Indústria, Energia e Exportação.
+
+Assinada em 26 de Abril de 1983.
+
+O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta.

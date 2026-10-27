@@ -1,0 +1,1168 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218329:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-115299622",
+ "dre_path": "/dr/detalhe/decreto-lei/78-2004-218329",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116320676",
+    "115287573",
+    "115287574",
+    "115304775",
+    "115304776",
+    "115304777",
+    "115304778",
+    "115304779",
+    "115304780",
+    "115304781",
+    "115304782",
+    "115304783",
+    "115304784",
+    "115304785",
+    "115304786",
+    "115304787",
+    "115304788",
+    "115304789",
+    "115304790",
+    "115304791",
+    "115304792",
+    "115304793",
+    "115304794",
+    "115304795",
+    "115304796",
+    "115304797",
+    "115304798",
+    "115304799",
+    "115304800",
+    "115304801",
+    "115304802",
+    "115304803",
+    "115304804",
+    "115304805",
+    "115304806",
+    "115304807",
+    "115304808",
+    "115304809",
+    "115304810",
+    "115304811",
+    "115304812",
+    "115304813",
+    "115304814",
+    "115304815",
+    "115304816",
+    "115304817",
+    "115304818",
+    "115304819",
+    "115304820",
+    "115304821",
+    "115304822",
+    "115304823",
+    "115304824",
+    "115304825",
+    "115304827",
+    "115304828"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:537861:por",
+     "title": "Decreto-Lei n.º 126/2006",
+     "published": "2006-07-03",
+     "dre_path": "/dr/detalhe/decreto-lei/126-2006-537861",
+     "date": "2006-03-04"
+    }
+   ]
+  },
+  {
+   "date": "2018-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115487878:por",
+     "title": "Decreto-Lei n.º 39/2018",
+     "published": "2018-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/39-2018-115487878"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "116320676",
+    "116320677",
+    "116320678",
+    "116320679",
+    "116320680",
+    "116320681",
+    "116320682",
+    "116320683",
+    "116320684",
+    "116320685",
+    "116320686",
+    "116320687",
+    "116320688",
+    "116320689",
+    "116320690",
+    "116320691",
+    "116320692",
+    "116320693",
+    "116320694",
+    "116320695",
+    "116320696",
+    "116320697",
+    "116320698",
+    "116320699",
+    "116320700",
+    "116320701",
+    "116320702",
+    "116320703",
+    "116320704",
+    "116320705",
+    "116320706",
+    "116320707",
+    "116320708",
+    "116320709",
+    "116320710",
+    "116320711",
+    "116320712",
+    "116320713",
+    "116320714",
+    "116320715",
+    "116320716",
+    "116320717",
+    "116320718",
+    "116320719",
+    "116320720",
+    "116320721",
+    "116320722",
+    "116320723",
+    "116320724",
+    "116320725",
+    "116320726",
+    "116320727",
+    "116320728",
+    "116320729",
+    "116320730",
+    "116320731",
+    "116320732"
+   ]
+  }
+ ],
+ "fragments": {
+  "116320676": {
+   "fragment_id": "115299623",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-07-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 78/2004\n\nde 3 de Abril\n\nA definição de valores limite de concentração de poluentes na atmosfera, ao nível do solo, que se reconheçam adequados à protecção da saúde humana e do ambiente é um dos principais instrumentos da política da qualidade do ar. Por outro lado, a fixação de valores limite de emissão na fonte para os poluentes mais significativos, pelos seus efeitos na saúde das populações e no ambiente em geral, constitui medida essencial para uma política de prevenção e controlo da poluição atmosférica. Estas duas vertentes fundamentais da estratégia da protecção do ambiente atmosférico têm, no quadro nacional, consagração legislativa desde há mais de uma década, no Decreto-Lei n.º 352/90, de 9 de Novembro, ao qual se reconhece o mérito de ter introduzido uma concepção, à época inovadora, no domínio da gestão do recurso ar.\n\nEsta norma estratégica tem vindo a ser definida ao nível da União Europeia, sobretudo desde a década de 80, em que se assistiu a numerosas iniciativas regulamentares visando reduzir e controlar quer os níveis de concentração de poluentes na atmosfera quer as emissões atmosféricas de certos poluentes com origem em fontes fixas. Aliás, o 5.º e o 6.º Programas de Acção em Matéria de Ambiente e Desenvolvimento Sustentável prevêem medidas destinadas a combater a acidificação, a eutrofização dos solos e a formação de ozono troposférico, implicando uma estratégia especialmente vocacionada para evitar que sejam excedidas as cargas críticas na exposição a poluentes atmosféricos acidificantes, eutrofizantes e fotoquímicos. O estabelecimento de valores limite de emissão aplicáveis às emissões de SO(índice 2), NO(índice x), COV, NH(índice 3), para além dos compostos halogenados, partículas e metais, constitui, pois, um meio eficaz de satisfazer os objectivos dessa estratégia que estão também em consonância com os definidos no Protocolo de Gotemburgo, de 1 de Dezembro de 1999, à Convenção de 1979 da Comissão Económica para a Europa das Nações Unidas (UNECE) sobre a Poluição Atmosférica Transfronteiras a Longa Distância, relativo à redução da acidificação, da eutrofização e do ozono troposférico.\n\nA transposição para o direito interno da Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0062\" title=\"Link para Directiva da Comunidade Europeia\">96/62/CE</a>, relativa à gestão da qualidade do ar, concretizada através da publicação do Decreto-Lei n.º 276/99, de 23 de Julho, veio, entretanto, dar início a um processo de reforma legislativa do Decreto-Lei n.º 352/90, de 9 de Novembro, revogando-o na parte correspondente aos objectivos de avaliação sistemática e da gestão de qualidade do ar, introduzindo mecanismos e instrumentos de intervenção mais eficazes e modernos.\n\nContudo, a necessidade de introduzir uma profunda revisão do regime das emissões de poluentes, reconhecida ao nível dos mais diversos quadrantes, compreendendo operadores e agentes económicos, agentes da administração central e local e entidades fiscalizadoras, impunha a alteração da parte remanescente e ainda em vigor do referido Decreto-Lei n.º 352/90, de, 9 de Novembro, e da respectiva legislação complementar, conduzindo à sua completa reforma.\n\nO presente diploma vem, pois, consagrar a reforma das normas vigentes em matéria de emissões constantes da legislação e institui um novo regime legal de protecção e controlo da poluição atmosférica. Com este diploma pretende-se, com efeito, possibilitar uma resposta mais eficaz e ajustada às necessidades de actualização de conceitos, metodologias, princípios e objectivos e, de um modo geral, definir os traços fundamentais de uma verdadeira política de prevenção e controlo da poluição atmosférica, estabelecendo um adequado regime sancionatório.\n\nEssencial é, também, a introdução de mecanismos económicos e fiscais na área das emissões de poluentes que tornem possível a satisfação de compromissos internos e internacionais em sede de prevenção e redução da poluição atmosférica, bem como a definição da base estruturante da elaboração dos inventários de emissões nacional e regionais.\n\nO regime legal ora instituído, a par do regime das normas constantes do Decreto-Lei n.º 276/99, de 23 de Julho, passa a constituir o enquadramento legislativo da política de gestão do ar em Portugal, na dupla vertente, respectivamente, da prevenção e controlo das emissões de poluentes atmosféricos e da avaliação e gestão da qualidade do ar.\n\nForam ouvidos os órgãos de governo das Regiões Autónomas e a Associação Nacional de Municípios.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "115287573": {
+   "fragment_id": "115299624",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "115287574": {
+   "fragment_id": "115299625",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime da prevenção e controlo das emissões de poluentes para a atmosfera, fixando os princípios, objectivos e instrumentos apropriados à garantia de protecção do recurso natural ar, bem como as medidas, procedimentos e obrigações dos operadores das instalações abrangidas, com vista a evitar ou reduzir a níveis aceitáveis a poluição atmosférica originada nessas mesmas instalações."
+  },
+  "115304775": {
+   "fragment_id": "115299626",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios e objectivos\n\n1 - Incumbe ao Estado promover as medidas de carácter administrativo e técnico ou outras que garantam a protecção e controlo do ambiente atmosférico.\n\n2 - Constituem objectivos do presente diploma a prevenção e o controlo da poluição atmosférica, incluindo, nomeadamente:\n\na) A definição de políticas, de medidas e de procedimentos destinados a evitar ou reduzir os níveis de emissão originados em instalações responsáveis pela descarga de poluentes para a atmosfera, segundo metas e calendários fixados em cada momento;\n\nb) O fomento de iniciativas públicas e privadas ou de parcerias destinadas a promover a melhoria da qualidade do ar, designadamente através da utilização de melhores técnicas disponíveis e de combustíveis menos poluentes, com vista, nomeadamente, a desenvolver uma política integrada da prevenção do controlo da poluição atmosférica, bem como a evitar as transferências de descargas poluentes de um meio receptor para outro, no quadro da aplicação do Decreto-Lei n.º 194/2000, de 31 de Agosto;\n\nc) A promoção de políticas e medidas concretas que permitam, num quadro global, coordenar e articular esforços na redução das emissões de gases com efeito de estufa originados em instalações abrangidas pelo presente diploma;\n\nd) A adopção de medidas adequadas à progressiva redução e ao controlo dos efeitos da transferência de poluição atmosférica a longas distâncias, designadamente numa perspectiva transfronteiriça."
+  },
+  "115304776": {
+   "fragment_id": "115299627",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - Estão abrangidas pelo presente diploma todas as fontes de emissão de poluentes atmosféricos associadas a:\n\na) Actividades de carácter industrial;\n\nb) Produção de electricidade e ou de vapor;\n\nc) Manutenção e reparação de veículos;\n\nd) Pesquisa e exploração de massas minerais;\n\ne) Instalações de combustão integradas em estabelecimentos industriais, comerciais ou de serviços, entre os quais os de prestação de cuidados de saúde, os de ensino e instituições do Estado;\n\nf) Actividades de armazenagem de combustíveis.\n\n2 - Excluem-se do âmbito de aplicação do presente diploma:\n\na) As instalações de combustão com uma potência térmica nominal igual ou inferior a 100 kWth (kilowatts térmicos), excepto no que respeita ao artigo 7.º do presente diploma;\n\nb) Os geradores de emergência, excepto no que respeita ao disposto no artigo 7.º e no n.º 4 do artigo 21.º do presente diploma;\n\nc) Os sistemas de ventilação, na acepção da alínea vv) do artigo 4.º do presente diploma;\n\nd) As instalações ou parte de instalações utilizadas exclusivamente para investigação, desenvolvimento ou experimentação de novos produtos ou processos.\n\n3 - O regime instituído pelo presente diploma não prejudica o disposto em legislação especial, nomeadamente na relativa a tectos de emissão nacionais, à incineração de resíduos e à limitação das emissões de poluentes atmosféricos provenientes de grandes instalações de combustão, nem o regime legal relativo a emissões de compostos orgânicos voláteis.\n\n4 - O regime aplicável às instalações abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto, relativo à prevenção e controlo integrados da poluição, e que sejam objecto de licença ambiental, prevalece sobre as disposições do presente diploma no que se refere às emissões atmosféricas, desde que o procedimento de licença ambiental esteja concluído à data de entrada em vigor do presente diploma.\n\n5 - A aplicação do presente diploma não prejudica o disposto no Decreto-Lei n.º 276/99, de 23 de Julho, relativo à qualidade do ar, pelo que as condições constantes dos planos de acção aí previstos, em particular no que respeita às emissões das instalações localizadas nas áreas afectas, prevalecem sobre os requisitos do presente diploma."
+  },
+  "115304777": {
+   "fragment_id": "115299628",
+   "type": 11,
+   "heading": "Artigo 4.º — Conceitos e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conceitos e definições\n\nPara efeitos do presente diploma e demais legislação complementar, entende-se por:\n\na) «Actividade sazonal» a actividade cujo desenvolvimento está limitado a uma determinada época do ano, não totalizando um período de funcionamento superior a seis meses durante um ano civil;\n\nb) «Aerossóis» as partículas sólidas ou líquidas em suspensão num meio gasoso, com uma velocidade de queda irrelevante e com uma dimensão que excede a de um colóide (de um nanómetro a um micrómetro);\n\nc) «Alteração da exploração» uma alteração das características e ou do funcionamento de uma instalação, ou ainda o resultado da sua ampliação, da qual possam resultar efeitos significativos nas pessoas ou no ambiente;\n\nd) Alteração substancial:\n\ni) No caso de instalações abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto, a definição constante da alínea b) do n.º 1 do artigo 2.º;\n\nii) Para as restantes instalações, um aumento em 25% da capacidade nominal ou uma variação do caudal mássico de qualquer poluente atmosférico superior a 25%, ou ainda qualquer alteração que, do ponto de vista da comissão de coordenação e desenvolvimento regional (CCDR) competente, quando tecnicamente justificado, seja susceptível de produzir efeitos significativos nas pessoas ou no ambiente;\n\ne) «Autorização ou licença» a decisão escrita da entidade coordenadora do licenciamento que titula a permissão da exploração ou de funcionamento, total ou parcial, de uma instalação, bem como a sua entrada em funcionamento;\n\nf) «Biomassa» os produtos que consistem, na totalidade ou em parte, numa matéria vegetal proveniente da agricultura ou da silvicultura, que pode ser utilizada como combustível para efeitos de recuperação do seu teor energético, bem como os resíduos a seguir enumerados quando utilizados como combustível:\n\ni) Resíduos vegetais resultantes de actividades nos domínios da agricultura e da silvicultura;\n\nii) Resíduos vegetais da indústria de transformação de produtos alimentares, se o calor gerado for recuperado;\n\niii) Resíduos vegetais fibrosos da indústria de pasta virgem e de produção de papel, se forem co-incinerados no local de produção e se o calor gerado for recuperado;\n\niv) Resíduos da cortiça;\n\nv) Resíduos de madeira, com excepção dos que possam conter compostos orgânicos halogenados ou metais pesados, resultantes de tratamento com conservantes ou revestimento, incluindo em especial resíduos de madeira provenientes de obras de construção e demolição;\n\ng) «Caudal mássico» a quantidade emitida de um poluente atmosférico, expressa em unidades de massa por unidade de tempo;\n\nh) «Capacidade nominal» a capacidade máxima de projecto de uma instalação, nas condições de funcionamento normal, ou a entrada máxima de solventes orgânicos expressa em unidades de massa, calculada em média diária, nas condições de funcionamento normal e com o volume de produção para que foi projectada;\n\ni) «Chaminé» o órgão de direccionamento ou controlo da exaustão dos efluentes gasosos através do qual se faz a sua descarga para a atmosfera;\n\nj) «Combustível» qualquer matéria sólida, líquida ou gasosa que alimenta uma instalação de combustão, com excepção dos resíduos abrangidos pela legislação relativa à incineração de resíduos, nomeadamente pelo Decreto-Lei n.º 273/98, de 2 de Setembro;\n\nl) «Composto orgânico» qualquer composto que contenha pelo menos o elemento carbono e um ou mais dos seguintes elementos: hidrogénio, halogéneos, oxigénio, enxofre, fósforo, silício ou azoto, à excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;\n\nm) «Composto orgânico volátil (COV)» um composto orgânico com uma pressão de vapor igual ou superior a 0,01 kPa a 293,15 K, ou com volatilidade equivalente nas condições de utilização específicas. A fracção de creosoto que exceda este valor de pressão de vapor a 293,15 K deve ser considerada um COV;\n\nn) «Condições normais de pressão e temperatura» as condições referidas à temperatura de 273,15 K e à pressão de 101,3 kPa;\n\no) «Conduta» o órgão de direccionamento ou controlo de efluentes gasosos de uma fonte de emissão através do qual se faz o seu confinamento e transporte para uma chaminé;\n\np) «Conduta de ventilação» o órgão de exaustão associado a um sistema de ventilação;\n\nq) «Diluição» a introdução de ar secundário na conduta ou chaminé que transporta o efluente gasoso, não justificada do ponto de vista do funcionamento do equipamento ou sistemas a jusante, com o objectivo de promover a diminuição da concentração dos poluentes presentes nesse efluente;\n\nr) «Efluente gasoso» o fluxo de poluentes atmosféricos sob a forma de gases, partículas ou aerossóis;\n\ns) «Emissão» a descarga, directa ou indirecta, para a atmosfera dos poluentes atmosféricos presentes no efluente gasoso;\n\nt) «Emissão difusa» a emissão que não é feita através de uma chaminé, incluindo as fugas e as emissões não confinadas para o ambiente exterior, através de janelas, portas e aberturas afins, bem como de válvulas e empanques;\n\nu) «Entidade coordenadora do licenciamento» a entidade da administração central, regional ou local a quem compete a coordenação plena do processo de licenciamento, de instalação ou de alteração, nos termos da legislação aplicável das instalações abrangidas pelo presente diploma;\n\nv) «Fonte difusa» o ponto de origem de emissões difusas;\n\nx) «Fonte de emissão» o ponto de origem de uma emissão;\n\nz) «Fontes múltiplas» o conjunto de fontes pontuais idênticas, com as mesmas características técnicas, associadas aos mesmos tipo e fase de processo produtivo e à mesma instalação, cujos efluentes gasosos têm a mesma natureza e a mesma composição qualitativa e quantitativa;\n\naa) «Fonte pontual» o ponto de origem de uma emissão efectuada de forma confinada através de uma chaminé;\n\nbb) «Funcionamento normal» a condição que abrange todos os períodos de funcionamento de uma instalação, à excepção das operações de arranque, de paragem e de manutenção do respectivo equipamento;\n\ncc) «Gerador de emergência» o motor estacionário de combustão interna, utilizado como fonte secundária de energia eléctrica ou mecânica apenas em situações de falha de energia não controladas pelo operador e funcionando somente em situações de emergência ou de ensaio. Incluem-se nestes equipamentos os geradores associados a sistemas de incêndio;\n\ndd) «Grande instalação de combustão» toda e qualquer instalação de combustão com potência térmica igual ou superior a 50 MWth (megawatt térmicos), incluída no âmbito de aplicação do Decreto-Lei n.º 178/2003, de 5 de Agosto;\n\nee) «Instalação» uma unidade técnica fixa ou amovível na qual são desenvolvidas uma ou mais actividades susceptíveis de produzir emissões para a atmosfera;\n\nff) «Instalação de combustão» qualquer equipamento técnico onde um ou mais combustíveis sejam sujeitos a um processo de combustão;\n\ngg) «Instalação existente» qualquer instalação:\n\ni) Licenciada ou autorizada nos termos da legislação aplicável até à data de entrada em vigor do presente diploma;\n\nii) Para a qual tenha sido apresentado e esteja em condições de ser instruído pela entidade coordenadora do licenciamento o pedido de autorização, ou licenciamento, até à data de entrada em vigor do presente diploma, desde que esse pedido venha a ter decisão favorável e a instalação entre em funcionamento no prazo máximo de 12 meses após aquela data;\n\nhh) «Instalação nova» qualquer instalação que não seja enquadrada pela definição de instalação existente;\n\nii) «Limiar mássico máximo» o valor do caudal mássico de um dado poluente atmosférico acima do qual se torna obrigatória a monitorização em contínuo desse poluente;\n\njj) «Limiar mássico mínimo» o valor do caudal mássico de um dado poluente atmosférico abaixo do qual não é obrigatório o cumprimento do respectivo valor limite de emissão;\n\nll) «Operador» qualquer pessoa singular ou colectiva pública ou privada que pretenda explorar, explore ou possua a instalação ou em quem tenha sido delegado um poder económico determinante sobre o funcionamento técnico da instalação, nos termos da legislação aplicável;\n\nmm) «Operações de arranque ou de paragem» as operações efectuadas com a finalidade de colocar em funcionamento ou retirar de funcionamento uma instalação ou um equipamento;\n\nnn) «Obstáculo» qualquer estrutura física que possa interferir nas condições de dispersão normal dos poluentes atmosféricos;\n\noo) «Obstáculo próximo» qualquer obstáculo situado num raio até 300 m da fonte emissora, incluindo o edifício de implantação da chaminé, e que cumpra as condições definidas na portaria referida no n.º 1 do artigo 30.º;\n\npp) «Poder calorífico inferior ou PCI» a quantidade de calor libertada pela combustão completa de uma unidade em volume ou massa de um combustível, quando queimado completamente a uma certa temperatura, permanecendo os produtos de combustão em fase gasosa (sem condensação do vapor de água);\n\nqq) «Poluentes atmosféricos» as substâncias introduzidas, directa ou indirectamente, pelo homem no ar ambiente, que exercem uma acção nociva sobre a saúde humana e ou o meio ambiente;\n\nrr) «Potência térmica nominal de uma instalação» a quantidade de energia térmica contida no combustível, expressa em PCI, susceptível de ser consumida por unidade de tempo em condições de funcionamento contínuo e à carga máxima, a qual deve ser expressa em megawatts térmicos ou num dos seus múltiplos;\n\nss) «Preparação» a mistura ou solução constituída por duas ou mais substâncias;\n\ntt) «Queima a céu aberto» qualquer processo de combustão que decorra ao ar livre;\n\nuu) «Sistema de exaustão» o sistema funcionando a pressões próximas da pressão atmosférica, com carácter regular ou não, constituído por um órgão mecânico (ventilador) e um conjunto de condutas, que promove a captação e o direccionamento de poluentes atmosféricos para uma chaminé e que pode ter por objectivo a minimização de emissões difusas e a sua transformação em emissões pontuais;\n\nvv) «Sistema de ventilação» o sistema que tem por objectivo promover a renovação de ar interior de uma instalação para maior conforto térmico e para regeneração do ar saturado em vapor de água;\n\nxx) «Substâncias» os elementos e compostos químicos no estado natural ou produzidos pela indústria, na forma sólida, líquida ou gasosa, com excepção das substâncias radioactivas, na acepção do Decreto-Lei n.º 348/89, de 12 de Outubro, e dos organismos geneticamente modificados, na acepção do Decreto-Lei n.º 126/93, de 20 de Abril;\n\nzz) «Tectos de emissão nacionais» a quantidade máxima de uma substância, expressa em unidades de massa, que pode ser emitida a nível nacional durante um ano civil;\n\naaa) «Valor limite de emissão ou VLE» a massa de um poluente atmosférico, expressa em termos de determinados parâmetros específicos, em concentração, percentagem e ou nível de uma emissão que não deve ser excedida durante um ou mais períodos determinados e calculada em condições normais de pressão e temperatura."
+  },
+  "115304778": {
+   "fragment_id": "115299629",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrumentos de prevenção e controlo de emissões de poluentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrumentos de prevenção e controlo de emissões de poluentes\n\nA protecção do ambiente atmosférico é assegurada através de um conjunto de instrumentos complementares que promovam a prevenção e o controlo das emissões de poluentes atmosféricos, nomeadamente:\n\na) Incentivos à instalação das melhores técnicas disponíveis e de equipamentos que previnam e ou reduzam a poluição atmosférica;\n\nb) Inclusão de condições relativas à protecção do ambiente atmosférico no âmbito do licenciamento, autorização ou aprovação das instalações, nos termos previstos na legislação aplicável e no Decreto-Lei n.º 194/2000, de 21 de Agosto;\n\nc) Promoção da educação ambiental visando o esclarecimento, a formação e a participação das populações na identificação e na resolução dos problemas de poluição atmosférica;\n\nd) Lançamento de programas de investigação e de desenvolvimento no domínio da prevenção e controlo da poluição;\n\ne) Elaboração e manutenção de um inventário nacional de fontes de emissão de poluentes atmosféricos."
+  },
+  "115304779": {
+   "fragment_id": "115299630",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrumentos económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instrumentos económicos\n\nA protecção do ambiente atmosférico é ainda assegurada através da promoção de incentivos à internalização dos custos ambientais associados à utilização do recurso ar, nomeadamente mediante a utilização de instrumentos baseados na lógica do mercado, incluindo um sistema de transacção de direitos de emissão, impostos, taxas e subsídios ambientais."
+  },
+  "115304780": {
+   "fragment_id": "115299631",
+   "type": 11,
+   "heading": "Artigo 7.º — Tectos de emissão nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tectos de emissão nacionais\n\nSem prejuízo do disposto no presente diploma, são estabelecidas em diploma próprio as medidas necessárias ao cumprimento dos tectos de emissão nacionais de SO(índice 2), NO(índice x), COV e NH(índice 3), bem como a elaboração de um programa de redução de emissões, de acordo com a natureza, objectivos, calendários e outros requisitos impostos no Decreto-Lei n.º 193/2003, de 22 de Agosto, relativo aos tectos de emissão nacionais."
+  },
+  "115304781": {
+   "fragment_id": "115299632",
+   "type": 11,
+   "heading": "Artigo 8.º — Inventário de fontes e de emissões atmosféricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inventário de fontes e de emissões atmosféricas\n\n1 - Compete ao Instituto do Ambiente (IA) a elaboração do Inventário Nacional de Emissões de Poluentes Atmosféricos (INEPA) e a quantificação das respectivas emissões para cada ano civil.\n\n2 - Compete à CCDR a realização, para cada ano civil, do inventário regional de emissões de poluentes atmosféricos na área territorial da respectiva jurisdição.\n\n3 - Para os efeitos previstos nos números anteriores e sempre que solicitada, é obrigatória a disponibilização ao IA e ou às CCDR de toda a informação relevante e actualizada pelas entidades detentoras da mesma, públicas ou privadas, incluindo operadores e entidades responsáveis pela produção de dados estatísticos.\n\n4 - Compete ao IA definir os objectivos, metodologias, informação a disponibilizar, prazos e procedimentos de validação, assim como a articulação entre os inventários regionais e nacionais.\n\n5 - Até 30 de Junho de cada ano, as CCDR devem remeter, em suporte digital, ao IA os dados relativos aos inventários regionais do ano anterior.\n\n6 - Compete ao IA organizar e manter actualizada uma base de dados de emissões de poluentes atmosféricos relativa ao INEPA e aos inventários regionais.\n\n7 - Dos inventários referidos nos n.os 1 e 2 não consta a identificação das fontes de emissão envolvidas."
+  },
+  "115304782": {
+   "fragment_id": "115299633",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas gerais de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas gerais de prevenção\n\n1 - O operador deve assegurar que a instalação é projectada e construída de modo a reduzir as emissões de poluentes atmosféricos e evitar a transferência de poluição de um meio receptor para outro, mediante a adopção das melhores técnicas disponíveis que possibilitem a sua aplicação em condições económica e tecnicamente viáveis, tendo em conta os respectivos custos e benefícios.\n\n2 - O operador deve adoptar todas as medidas necessárias para assegurar que no decurso do funcionamento da instalação, incluindo as condições de funcionamento normal, e as condições de arranque, de paragem ou de manutenção, e na desactivação definitiva da instalação são respeitados os princípios e os objectivos estabelecidos no presente diploma."
+  },
+  "115304783": {
+   "fragment_id": "115299634",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas especiais para minimização das emissões difusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas especiais para minimização das emissões difusas\n\nSem prejuízo de outras disposições aplicáveis em matéria de construção e de exploração das instalações, nem das normas sobre higiene e segurança no trabalho, o operador deve adoptar as seguintes medidas para minimizar as emissões difusas:\n\na) Captação e canalização para um sistema de exaustão das emissões difusas de poluentes atmosféricos, sempre que técnica e economicamente viável;\n\nb) Confinar, por regra, a armazenagem de produtos de características pulverulentas ou voláteis;\n\nc) Equipar com dispositivos de captação e exaustão, os equipamentos de manipulação, transfega, transporte e armazenagem, desde que técnica e economicamente viável;\n\nd) Garantir, sempre que seja técnica e economicamente viável, meios de pulverização com água ou aditivos, caso se verifique a necessidade imperiosa de armazenamento ao ar livre;\n\ne) Armazenar, na medida do possível, em espaços fechados os produtos a granel que possam conduzir a emissões de poluentes para a atmosfera;\n\nf) Assegurar que o pavimento da área envolvente da instalação, incluindo vias de circulação e locais de parqueamento, possui revestimento adequado a evitar a contaminação de solos e aquíferos e é mantido em condições de higiene e limpeza."
+  },
+  "115304784": {
+   "fragment_id": "115299635",
+   "type": 11,
+   "heading": "Artigo 11.º — Sistemas de tratamento de efluentes gasosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sistemas de tratamento de efluentes gasosos\n\n1 - Os equipamentos de despoeiramento e de tratamento de efluentes gasosos de uma instalação devem ser dimensionados de modo a poderem suportar variações de caudal, temperatura e composição química dos efluentes gasosos a tratar, em particular durante as operações de arranque e de paragem da instalação, sempre que tecnicamente viável.\n\n2 - Os equipamentos referidos no número anterior devem ter uma exploração e manutenção adequadas, de modo a reduzirem ao mínimo os períodos de indisponibilidade e a permitirem um nível de eficiência elevado.\n\n3 - Em situações de funcionamento deficiente ou de avaria do equipamento, em que se verifique não ser possível repor a situação de funcionamento normal no prazo de vinte e quatro horas, o operador tem o dever de notificar a CCDR competente no prazo máximo de quarenta e oito horas contadas da verificação da deficiência ou da avaria.\n\n4 - Nas situações previstas no número anterior, a CCDR adopta as providências que entenda necessárias, designadamente a imposição de medidas adicionais para que o funcionamento da instalação regresse à normalidade, ou, caso se justifique, a suspensão da actividade, nos termos do artigo 26.º\n\n5 - As situações de funcionamento deficiente ou de avaria do equipamento não podem, em circunstância alguma, exceder um total de cento e setenta horas em cada ano civil."
+  },
+  "115304785": {
+   "fragment_id": "115299636",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalações que utilizam solventes orgânicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalações que utilizam solventes orgânicos\n\n1 - As instalações que utilizem substâncias e preparações às quais sejam atribuídas ou devam ser acompanhadas das frases de risco R 45, R 46, R 49, R 60 e R 61, devido ao teor de COV classificados como cancerígenos, mutagénicos ou tóxicos para a reprodução, nos termos do Decreto-Lei n.º 82/95, de 22 de Abril, e da Portaria n.º 732-A/96, de 11 de Dezembro, devem proceder à sua substituição, na medida do possível, por substâncias ou preparações menos perigosas.\n\n2 - Às instalações referidas no número anterior não se aplica o disposto nos n.os 4 e 6 do artigo 19.º do presente diploma."
+  },
+  "115304786": {
+   "fragment_id": "115299637",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição da queima a céu aberto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proibição da queima a céu aberto\n\n1 - É expressamente proibida a queima a céu aberto de quaisquer resíduos, na acepção do Decreto-Lei n.º 239/97, de 9 de Setembro, bem como de todo o tipo de material designado correntemente por sucata.\n\n2 - Exceptua-se da proibição do número anterior apenas a queima de material lenhoso e de outro material vegetal no âmbito de actividades agro-florestais, desde que devidamente autorizadas nos termos dos artigos 39.º e 40.º do Decreto-Lei n.º 310/2002, de 18 de Dezembro."
+  },
+  "115304787": {
+   "fragment_id": "115299638",
+   "type": 11,
+   "heading": "Artigo 14.º — Autorização ou licença da instalação e suas renovações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autorização ou licença da instalação e suas renovações\n\n1 - A autorização de funcionamento ou a concessão da licença de exploração de novas instalações bem como as respectivas renovações só são emitidas se o operador demonstrar que a instalação respeita as disposições do presente diploma e, em especial, que:\n\na) Tomou as medidas adequadas à redução da poluição atmosférica na origem, tendo em conta a tecnologia disponível com desempenho ambiental adequado aplicável ao processo em causa, prevalecendo este objectivo sobre as tecnologias de fim de linha;\n\nb) De um ponto de vista técnico, a instalação está apta a garantir o cumprimento dos valores limite de emissão (VLE) que lhe são aplicados;\n\nc) A instalação cumpre, entre outras, as normas do presente diploma relativas ao sistema de descarga e de tratamento de poluentes atmosféricos, à minimização dos efeitos das emissões difusas, aos aspectos construtivos da chaminé e à monitorização das emissões atmosféricas.\n\n2 - As licenças emitidas em desconformidade do disposto no número anterior são nulas."
+  },
+  "115304788": {
+   "fragment_id": "115299639",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração da instalação\n\nSempre que uma instalação existente é objecto de uma alteração substancial na acepção da alínea d) do artigo 4.º, é considerada como uma nova instalação para efeitos da aplicação do presente diploma."
+  },
+  "115304789": {
+   "fragment_id": "115299640",
+   "type": 1,
+   "heading": "Capítulo II — Valores limite de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Valores limite de emissão"
+  },
+  "115304790": {
+   "fragment_id": "115299641",
+   "type": 8,
+   "heading": "Secção I — Normas gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Normas gerais"
+  },
+  "115304791": {
+   "fragment_id": "115299642",
+   "type": 11,
+   "heading": "Artigo 16.º — Objectivos e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Objectivos e princípios\n\n1 - A imposição de VLE visa assegurar a protecção da saúde humana e do ambiente e constitui um instrumento essencial da política de prevenção e controlo do ambiente atmosférico.\n\n2 - Os VLE aplicam-se a grupos, famílias ou categorias de substâncias emitidas por qualquer fonte de emissão.\n\n3 - A determinação de VLE tem por base:\n\na) A existência de tecnologia disponível com desempenho ambiental adequado aplicável ao processo em causa;\n\nb) A necessidade de protecção do ambiente, da saúde e do bem-estar das populações;\n\nc) O programa para os tectos de emissão nacionais."
+  },
+  "115304792": {
+   "fragment_id": "115299643",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de VLE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação de VLE\n\n1 - Os VLE aplicáveis às fontes de emissão abrangidas pelo presente diploma são fixados por portarias conjuntas dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente.\n\n2 - A aplicação e o cumprimento dos VLE fixados nas portarias referidas no número anterior são obrigatórios para todas as fontes de emissão, sem prejuízo do disposto no artigo 27.º\n\n3 - O cumprimento dos VLE presume-se assegurado desde que observadas as disposições constantes dos artigos 18.º a 27.º do presente diploma.\n\n4 - As disposições legais relativas às grandes instalações de combustão, às instalações abrangidas pelo Decreto-Lei n.º 242/2001, de 31 de Agosto, e às instalações de incineração de resíduos prevalecem sobre as constantes do presente diploma, sem prejuízo da sua aplicação subsidiária."
+  },
+  "115304793": {
+   "fragment_id": "115299644",
+   "type": 8,
+   "heading": "Secção II — Monitorização das emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Monitorização das emissões"
+  },
+  "115304794": {
+   "fragment_id": "115299645",
+   "type": 11,
+   "heading": "Artigo 18.º — Medições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Medições\n\n1 - O autocontrolo das emissões sujeitas a VLE é obrigatório e da responsabilidade do operador.\n\n2 - O autocontrolo das emissões é efectuado nos termos fixados na respectiva autorização ou licença da instalação, mas sempre no respeito pelas disposições constantes do presente diploma ou de acordo com o estipulado nos artigos 19.º a 22.º do presente diploma.\n\n3 - As instalações de combustão abrangidas pelo Decreto-Lei n.º 178/2003, de 5 de Agosto, com potência térmica superior a 50 MW e inferior a 100 MW, estão obrigadas ao autocontrolo das suas emissões, a efectuar de acordo com o disposto no presente diploma."
+  },
+  "115304795": {
+   "fragment_id": "115299646",
+   "type": 11,
+   "heading": "Artigo 19.º — Monitorização pontual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Monitorização pontual\n\n1 - Estão sujeitas a monitorização pontual, a realizar duas vezes em cada ano civil, com um intervalo mínimo de dois meses entre medições, as emissões de poluentes que possam estar presentes no efluente gasoso, para os quais esteja fixado um VLE nos termos do n.º 1 do artigo 17.º, e cujo caudal mássico de emissão se situe entre o limiar mássico máximo e o limiar mássico mínimo fixados nas portarias a que se refere o mesmo artigo.\n\n2 - A CCDR competente pode exigir uma periodicidade de monitorização adequada à situação, sempre que, de uma forma fundamentada, se verifique que a monitorização pontual, efectuada nos termos referidos no número anterior, não é suficiente para assegurar o correcto acompanhamento das emissões para a atmosfera.\n\n3 - No caso de fontes pontuais, abrangidas pelo n.º 1, associadas a instalações onde sejam desenvolvidas actividades sazonais, a monitorização pode ser efectuada apenas uma vez por ano, durante o período em que se encontrem a laborar.\n\n4 - Quando da monitorização realizada de acordo com o n.º 1, num período mínimo de 12 meses e cujos resultados sejam apresentados conforme o estipulado no anexo II, resultar que o caudal mássico de emissão de um poluente é consistentemente inferior ao seu limiar mássico mínimo fixado nos diplomas a que se refere o n.º 1 do artigo 17.º, a monitorização pontual das emissões desse poluente pode ser efectuada apenas uma vez, de três em três anos, desde que a instalação mantenha inalteradas as suas condições de funcionamento.\n\n5 - A CCDR competente pode inibir o exercício da faculdade prevista no número anterior em qualquer momento e em situações devidamente justificadas.\n\n6 - No caso de fontes múltiplas em que todos os poluentes estejam sujeitos a monitorização nos termos do n.º 1, o autocontrolo pode ser efectuado, com carácter rotativo, num número representativo de fontes pontuais, estimando-se as emissões das restantes fontes com base num factor de emissão médio, calculado a partir das fontes caracterizadas.\n\n7 - Para efeitos do disposto no número anterior, o operador deve apresentar à entidade coordenadora do licenciamento um plano de monitorização que inclua os elementos referidos no anexo I ao presente diploma, que dele faz parte integrante, sendo tal plano remetido à CCDR competente.\n\n8 - A CCDR competente deve proferir decisão sobre a aprovação do plano de monitorização referido no número anterior no prazo de 90 dias seguidos a contar da data da sua recepção.\n\n9 - O exercício da faculdade prevista no n.º 6 prejudica a aplicação do disposto no n.º 4."
+  },
+  "115304796": {
+   "fragment_id": "115299647",
+   "type": 11,
+   "heading": "Artigo 20.º — Monitorização em contínuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Monitorização em contínuo\n\n1 - Estão sujeitas a monitorização em contínuo as emissões de poluentes cujo caudal mássico de emissão ultrapasse o limiar mássico máximo fixado nas portarias a que se refere o n.º 1 do artigo 17.º\n\n2 - Para obtenção de um valor médio diário válido não podem ser excluídos mais de seis valores médios horários num mesmo dia devido a mau funcionamento ou à reparação/manutenção do sistema de medição em contínuo.\n\n3 - Caso se verifique a anulação de mais de 36 valores médios diários num ano, devida a mau funcionamento ou à reparação/manutenção do sistema de medição em contínuo, o IA pode exigir que o operador tome as medidas adequadas para melhorar a fiabilidade do sistema em causa.\n\n4 - As situações abrangidas pelo n.º 1 em que se comprove não ser tecnicamente possível proceder à monitorização em contínuo das emissões de poluentes atmosféricos são analisadas caso a caso.\n\n5 - Para efeitos do número anterior, o operador apresenta um plano de monitorização alternativo à entidade coordenadora do licenciamento, que o remete ao IA, para decisão sobre a aprovação do plano, no prazo de 90 dias seguidos a contar da data da sua recepção."
+  },
+  "115304797": {
+   "fragment_id": "115299648",
+   "type": 11,
+   "heading": "Artigo 21.º — Dispensa de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dispensa de monitorização\n\n1 - A monitorização é dispensada nas fontes pontuais associadas a instalações que funcionem menos de 25 dias por ano ou por um período anual inferior a quinhentas horas.\n\n2 - A dispensa de monitorização prevista no número anterior só produz efeitos após a comunicação à CCDR competente, efectuada pelo operador, de que as fontes pontuais se encontram nas condições aí fixadas.\n\n3 - O disposto no número anterior obriga o operador à realização de pelo menos uma medição pontual, nos termos do n.º 1 do artigo 19.º do presente diploma, que demonstre o cumprimento dos VLE aplicáveis nos termos do n.º 1 do artigo 17.º e do n.º 3 do artigo 24.º\n\n4 - O operador está obrigado a possuir o registo actualizado do número de horas de funcionamento e consumo de combustível anuais para todas as instalações abrangidas pelo presente artigo."
+  },
+  "115304798": {
+   "fragment_id": "115299649",
+   "type": 11,
+   "heading": "Artigo 22.º — Métodos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Métodos\n\nOs métodos de medição, recolha e análise das emissões de poluentes atmosféricos emitidos por fontes pontuais são os fixados nas portarias referidas no n.º 1 do artigo 17.º, sem prejuízo da aplicação de outras normas europeias (CEN) ou nacionais."
+  },
+  "115304799": {
+   "fragment_id": "115299650",
+   "type": 11,
+   "heading": "Artigo 23.º — Comunicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comunicação de resultados\n\n1 - Os resultados da monitorização pontual são remetidos à CCDR competente, à excepção das situações em que se proceda também à monitorização em contínuo de, pelo menos, um poluente, nas quais os resultados da monitorização pontual são remetidos ao IA.\n\n2 - A comunicação dos resultados referida no número anterior é efectuada no prazo de 60 dias seguidos contados da data da realização da monitorização pontual e contém a informação constante do anexo II do presente diploma, de que faz parte integrante.\n\n3 - Os resultados do autocontrolo referentes à monitorização em contínuo são remetidos ao IA, de acordo com os requisitos constantes da nota técnica aprovada pelo despacho n.º 79/95, publicado no Diário da República, 2.ª série, n.º 10, de 12 de Janeiro de 1996, ou de outras que a substituam.\n\n4 - No caso de fontes pontuais sujeitas a monitorização pontual ou em contínuo, é efectuada, pelo menos uma vez de três em três anos, uma medição recorrendo a um laboratório externo acreditado."
+  },
+  "115304800": {
+   "fragment_id": "115299651",
+   "type": 8,
+   "heading": "Secção III — Cumprimento de VLE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cumprimento de VLE"
+  },
+  "115304801": {
+   "fragment_id": "115299652",
+   "type": 11,
+   "heading": "Artigo 24.º — Condições de cumprimento de VLE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condições de cumprimento de VLE\n\n1 - No caso da monitorização em contínuo, os VLE consideram-se respeitados se a avaliação dos resultados demonstrar que, para as horas de funcionamento da fonte pontual, durante um ano civil, se verificam cumulativamente as seguintes características:\n\na) Nenhum valor médio de um mês de calendário excede o VLE;\n\nb) Nenhum valor médio diário excede em mais de 30% o VLE;\n\nc) Nenhum valor médio horário excede em mais de 100% o VLE, quando se trate de novas instalações.\n\n2 - No caso da monitorização pontual, à excepção das situações referidas no n.º 3, os VLE consideram-se respeitados se nenhum dos resultados das medições efectuadas ultrapassar o VLE respectivo.\n\n3 - Para as instalações de combustão abrangidas pelo n.º 1 do artigo 21.º, os VLE consideram-se respeitados se não forem excedidos em mais de 50%.\n\n4 - Para os efeitos do disposto nos n.os 2 e 3, a amostragem deve ser representativa das condições de funcionamento normal da instalação.\n\n5 - Se dois ou mais equipamentos independentes forem instalados ou alterados de modo que os respectivos efluentes gasosos sejam emitidos por uma única chaminé comum, tendo em conta factores técnicos e económicos, o complexo formado deve ser considerado uma única fonte de emissão.\n\n6 - Para efeitos do disposto no número anterior, são fixados VLE específicos através das portarias referidas no n.º 1 do artigo 17.º"
+  },
+  "115304802": {
+   "fragment_id": "115299653",
+   "type": 11,
+   "heading": "Artigo 25.º — Tolerâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Tolerâncias\n\n1 - Excepcionalmente, os VLE podem ser ultrapassados nos períodos de avaria ou de mau funcionamento das instalações ou dos sistemas de tratamento dos efluentes gasosos e nos períodos de arranque e paragem.\n\n2 - Os períodos máximos admitidos, de acordo com o descrito no número anterior e à excepção dos períodos de arranque e paragem, não podem exceder dezasseis horas seguidas e a sua duração total em cada ano civil não pode ultrapassar cento e setenta horas, por fonte pontual, sem prejuízo de condições específicas previstas nas portarias referidas no n.º 1 do artigo 17.º\n\n3 - Para efeitos da verificação do disposto no número anterior, é aplicável às instalações novas, bem como às existentes, a condição prevista na alínea c) do n.º 1 do artigo 24.º\n\n4 - São obrigatoriamente comunicadas à CCDR competente, num prazo de quarenta e oito horas, as situações abrangidas pelo disposto no n.º 1, com excepção dos períodos de arranque e paragem programados.\n\n5 - As CCDR remetem mensalmente ao IA todas as notificações recebidas referentes às fontes de emissão abrangidas pelo disposto no n.º 1 do artigo 20.º"
+  },
+  "115304803": {
+   "fragment_id": "115299654",
+   "type": 11,
+   "heading": "Artigo 26.º — Situações de incumprimento de VLE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Situações de incumprimento de VLE\n\n1 - Sempre que o operador verifique que uma situação de incumprimento de um VLE subsiste por um período superior a dezasseis horas seguidas, tem o dever de o comunicar à CCDR competente no prazo máximo de quarenta e oito horas e de adoptar de imediato as medidas correctivas adequadas, incluindo um programa de vigilância apropriado.\n\n2 - Caso as situações de incumprimento, como a referida no número anterior, ponham em risco o cumprimento dos valores limite da qualidade do ar ou o cumprimento dos limiares de alerta da qualidade do ar, a CCDR competente notifica o operador para que este, no prazo que lhe for fixado:\n\na) Reduza a capacidade de laboração; ou\n\nb) Utilize um combustível menos poluente; ou\n\nc) Adopte qualquer outra medida que promova a rápida redução das emissões do poluente atmosférico em causa.\n\n3 - Se das situações referidas nos números anteriores resultar comprovadamente perigo para a saúde pública ou para o ambiente atmosférico, a CCDR competente notifica o operador, nos termos do artigo 39.º para suspender a laboração no prazo que lhe for determinado.\n\n4 - O disposto no número anterior não se aplica se estiver em causa uma instalação cujo funcionamento seja considerado imprescindível ao interesse público, reconhecido por despacho conjunto dos Ministros da tutela e das Cidades, Ordenamento do Território e Ambiente.\n\n5 - A CCDR deve manter o IA e a entidade coordenadora do licenciamento informados aquando da ocorrência e desenvolvimentos de situações como as previstas nos números anteriores."
+  },
+  "115304804": {
+   "fragment_id": "115299655",
+   "type": 11,
+   "heading": "Artigo 27.º — Situação de não sujeição ao cumprimento de VLE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Situação de não sujeição ao cumprimento de VLE\n\n1 - A exigência de cumprimento de um VLE fixado para um determinado poluente não se aplica a uma fonte de emissão em que se constate que as emissões desse poluente, com a instalação a funcionar à sua capacidade nominal, registem um caudal mássico inferior ao limiar mássico mínimo fixado nas portarias a que se refere o n.º 1 do artigo 17.º, para esse mesmo poluente.\n\n2 - Considera-se que uma instalação se encontra na situação prevista no número anterior se estiver abrangida pelo regime da monitorização pontual constante do n.º 4 do artigo 19.º do presente diploma."
+  },
+  "115304805": {
+   "fragment_id": "115299656",
+   "type": 8,
+   "heading": "Secção IV — Equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Equipamento"
+  },
+  "115304806": {
+   "fragment_id": "115299657",
+   "type": 11,
+   "heading": "Artigo 28.º — Metrologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Metrologia\n\n1 - Os instrumentos utilizados na monitorização, pontual ou em contínuo, são periodicamente submetidos ao controlo metrológico, no caso de existir regulamentação específica, e, na falta desta, a calibrações efectuadas por laboratórios acreditados, preferencialmente no âmbito do Sistema Português da Qualidade.\n\n2 - Os instrumentos referidos no número anterior devem ser acompanhados de uma ficha técnica actualizada da realização das operações de verificação/calibração com a indicação dos procedimentos utilizados para assegurar a rastreabilidade e exactidão dos resultados das medições.\n\n3 - A ficha referida no número anterior pode constar em suporte de papel, informático ou outro adequado, e é sempre disponibilizada às entidades fiscalizadoras."
+  },
+  "115304807": {
+   "fragment_id": "115299658",
+   "type": 1,
+   "heading": "Capítulo III — Descarga de poluentes atmosféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Descarga de poluentes atmosféricos"
+  },
+  "115304808": {
+   "fragment_id": "115299659",
+   "type": 11,
+   "heading": "Artigo 29.º — Normas de descarga para a atmosfera",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Normas de descarga para a atmosfera\n\n1 - A descarga de poluentes para a atmosfera é efectuada através de uma chaminé de altura adequada para permitir uma boa dispersão dos poluentes e salvaguardar o ambiente e a saúde humana.\n\n2 - É expressamente proibida a diluição dos efluentes gasosos.\n\n3 - Salvo nas situações previstas nos n.os 2, 4, 5 e 6 do artigo 31.º e sempre que tecnicamente viável, a velocidade de saída dos gases, em regime de funcionamento normal da instalação, deve ser, pelo menos, 6 m.s(elevado a -1), se o caudal ultrapassar 5000 m3.h(elevado a -1), ou 4 m.s(elevado a -1), se o caudal for inferior ou igual a 5000 m3.h(elevado a -1)."
+  },
+  "115304809": {
+   "fragment_id": "115299660",
+   "type": 11,
+   "heading": "Artigo 30.º — Cálculo da altura de chaminés",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cálculo da altura de chaminés\n\n1 - A altura de uma chaminé, expressa em metros, é a distância entre o seu topo e o solo, medida na vertical, e é determinada em função do nível de emissões dos poluentes atmosféricos, dos obstáculos próximos, dos parâmetros climatológicos e das condições de descarga dos efluentes gasosos, de acordo com a metodologia de cálculo fixada por portaria conjunta dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente.\n\n2 - As chaminés não podem ter uma altura inferior a 10 m, salvo nas situações previstas nos n.os 2 a 6 do artigo 31.º\n\n3 - Nos casos em que seja comprovadamente inviável, do ponto de vista técnico e ou económico, a aplicação do disposto no n.º 1 do presente artigo e nos n.os 2 a 6 do artigo 31.º, a entidade coordenadora do licenciamento pode, mediante requerimento do operador e de acordo com o parecer prévio da CCDR competente, aprovar uma altura diferente para a chaminé, tomando sempre em consideração a adequação do valor determinado às condições processuais, aos parâmetros climatológicos e aos obstáculos à dispersão do penacho.\n\n4 - No caso de fontes pontuais dotadas com sistemas de tratamento do efluente gasoso em que seja comprovadamente inviável, do ponto de vista técnico e económico, a aplicação do disposto no n.º 1 do presente artigo, a entidade coordenadora do licenciamento pode, mediante requerimento do operador e de acordo com o parecer prévio da CCDR competente, autorizar a isenção de obrigatoriedade de construção de uma chaminé.\n\n5 - O parecer referido no número anterior é emitido num prazo de 90 dias seguidos, a contar da data da sua recepção, e deve conter as condições alternativas de controlo das emissões.\n\n6 - Sempre que se verificar que as emissões de uma instalação conduzem a uma violação dos valores limite da qualidade do ar, o operador fica obrigado a adoptar as medidas adicionais de redução das emissões que lhe forem fixadas."
+  },
+  "115304810": {
+   "fragment_id": "115299661",
+   "type": 11,
+   "heading": "Artigo 31.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Situações especiais\n\n1 - A portaria referida no n.º 1 do artigo 30.º identifica os casos especiais em que o cálculo da altura adequada das chaminés é condicionado à apresentação, pelo operador, de um estudo das condições locais de dispersão e difusão atmosféricas, mediante o emprego de modelos matemáticos de dispersão, ou de ensaios analógicos em modelo reduzido, tendo em atenção os parâmetros climatológicos e as características topográficas particulares da região.\n\n2 - A altura de uma chaminé cujos caudais mássicos de todos os seus poluentes atmosféricos sejam inferiores aos respectivos limiares mássicos mínimos pode ser inferior a 10 m, desde que a sua cota máxima seja superior, em 3 m, à cota máxima do obstáculo próximo mais desfavorável.\n\n3 - As chaminés das centrais betuminosas móveis localizadas a mais de 100 m de habitações podem apresentar uma altura de 8 m, desde que seja respeitado o VLE sectorial para partículas definido nas portarias referidas no n.º 1 do artigo 17.º\n\n4 - As hottes laboratoriais não estão sujeitas a VLE, devendo, todavia, a cota máxima das respectivas chaminés ser sempre superior, em pelo menos 1 m, à cota máxima do próprio edifício.\n\n5 - As estufas de secagem de madeira e de folha de madeira existentes na indústria da fileira da madeira não estão sujeitas a VLE, devendo, todavia, a cota máxima das respectivas chaminés ser sempre superior, em pelo menos 1 m, à cota máxima do obstáculo próximo mais desfavorável."
+  },
+  "115304811": {
+   "fragment_id": "115299662",
+   "type": 11,
+   "heading": "Artigo 32.º — Normas relativas à construção de chaminés",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Normas relativas à construção de chaminés\n\n1 - A chaminé deve apresentar secção circular, o seu contorno não deve ter pontos angulosos e a variação da secção, particularmente nas proximidades da saída dos efluentes gasosos para a atmosfera, deve ser contínua e lenta, devendo ainda a convergência ser cuidadosamente realizada.\n\n2 - Não é permitida a colocação de «chapéus» ou de outros dispositivos similares que condicionem a boa dispersão dos poluentes atmosféricos no topo de qualquer chaminé associada a processos de combustão.\n\n3 - Podem ser colocados dispositivos no topo de uma chaminé associada a processos não abrangidos pelo número anterior, desde que estes não diminuam a dispersão vertical ascendente dos gases.\n\n4 - A chaminé deve ser dotada de tomas de amostragem para captação de emissões e, sempre que necessário, devem ser construídas plataformas fixas, de forma a tornar possível a realização, em segurança, das amostragens e de outras intervenções.\n\n5 - Nos casos em que não se justifique a construção de plataformas fixas, o operador deve adoptar todas as medidas de construção de apoios no local de modo a facilitar a intervenção por parte de entidades externas, nomeadamente de fiscalização.\n\n6 - As secções da chaminé onde se proceda às amostragens e as respectivas plataformas devem satisfazer os requisitos estabelecidos na norma portuguesa em vigor.\n\n7 - Nos casos em que não seja aplicável o n.º 6, e desde que tecnicamente justificado, podem ser estabelecidas secções de amostragem alternativas à mencionada no número anterior, de acordo com o disposto no artigo 22.º"
+  },
+  "115304812": {
+   "fragment_id": "115299663",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e sanções"
+  },
+  "115304813": {
+   "fragment_id": "115299664",
+   "type": 11,
+   "heading": "Artigo 33.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma incumbe à Inspecção-Geral do Ambiente (IGA) e às CCDR, sem prejuízo das competências próprias de outras entidades, nomeadamente as entidades coordenadoras do licenciamento."
+  },
+  "115304814": {
+   "fragment_id": "115299665",
+   "type": 11,
+   "heading": "Artigo 34.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1850, no caso de pessoas singulares, e de (euro) 2500 a (euro) 22400, no caso de pessoas colectivas:\n\na) A violação da obrigação de assegurar que a instalação é projectada e construída de modo a reduzir emissões de poluentes atmosféricos, nos termos do disposto no n.º 1 do artigo 9.º;\n\nb) A violação da obrigação de captação e canalização das emissões difusas, para um sistema de exaustão, nos termos da alínea a) do artigo 10.º;\n\nc) A violação de obrigação de proceder à armazenagem confinada de produtos com características pulverulentas ou voláteis, nos termos da alínea b) do artigo 10.º;\n\nd) A violação da obrigação de munir os equipamentos de manipulação, transfega e transporte com dispositivos de captação e exaustão, nos termos da alínea c) do artigo 10.º;\n\ne) A violação da obrigação de pulverização com água ou aditivos dos produtos armazenados ao ar livre, nos termos da alínea d) do artigo 10.º;\n\nf) A violação da obrigação de armazenamento de produtos a granel em espaços fechados, nos termos da alínea e) do artigo 10.º;\n\ng) A violação da obrigação de pavimentação da instalação com revestimento adequado ou violação da obrigação de manter as instalações em condições de higiene e limpeza, nos termos da alínea f) do artigo 10.º;\n\nh) A violação da obrigação de dimensionamento adequado dos equipamentos de despoeiramento e de tratamento de efluentes gasosos, nos termos do n.º 1 do artigo 11.º;\n\ni) A violação da obrigação de exploração e manutenção adequada dos equipamentos referidos na alínea anterior, nos termos do n.º 2 do artigo 11.º;\n\nj) Não cumprimento da obrigação de notificação prevista nos termos do n.º 3 do artigo 11.º;\n\nl) Violação da obrigação de utilização de substâncias ou preparações menos nocivas, nos termos do n.º 1 do artigo 12.º;\n\nm) Não apresentação de um plano alternativo de monitorização ao IA, nas situações previstas no n.º 5 do artigo 20.º;\n\nn) A violação da obrigação de detenção de um comprovativo do cumprimento dos VLE aplicáveis, nos termos do n.º 3 do artigo 21.º, nos casos de dispensa de monitorização de fontes pontuais, ao abrigo dos n.os 1 e 2 do artigo 21.º;\n\no) A violação da obrigação de detenção de um registo actualizado do número de horas de funcionamento e de consumo de combustível anuais, nos termos do n.º 4 do artigo 21.º, nos casos de dispensa de monitorização, ao abrigo dos n.os 1 e 2 do mesmo artigo;\n\np) A violação da obrigação de utilização dos métodos definidos nos termos do artigo 22.º;\n\nq) Não cumprimento da obrigação de monitorização das emissões com recurso a um laboratório externo, nos termos do n.º 4 do artigo 23.º;\n\nr) Não cumprimento de obrigação de comunicação à CCDR, prevista no n.º 4 do artigo 25.º;\n\ns) Não cumprimento das obrigações de controlo metrológico dos equipamentos de monitorização, previstas nos n.os 1 e 2 do artigo 28.º;\n\nt) Violação do cumprimento da velocidade de saída dos gases, nos termos do n.º 3 do artigo 29.º;\n\nu) Violação das medidas adicionais impostas nos termos do n.º 6 do artigo 30.º\n\n2 - Constitui contra-ordenação grave, punível com coima de (euro) 500 a (euro) 3700, no caso de pessoas singulares, e de (euro) 5000 a (euro) 44800, no caso de pessoas colectivas:\n\na) Não cumprimento dos limites máximos de horas previstos no n.º 5 do artigo 11.º;\n\nb) A violação da proibição de queima a céu aberto prevista no n.º 1 do artigo 13.º;\n\nc) A violação da obrigação de cumprimento dos VLE, estabelecida no n.º 2 do artigo 17.º;\n\nd) A violação da obrigação da realização do autocontrolo, nos termos do artigo 18.º;\n\ne) A violação da obrigação de realização da monitorização pontual, nos termos do n.º 1 do artigo 19.º;\n\nf) Não cumprimento da obrigação de monitorização em contínuo, nos termos exigidos nos n.os 1, 2 e 3 do artigo 20.º;\n\ng) Incumprimento de obrigação de envio à CCDR ou ao IA dos resultados de monitorização, nos termos dos n.os 1, 2 e 3 do artigo 23.º;\n\nh) Não cumprimento de qualquer das medidas previstas nos n.os 1 e 2 do artigo 26.º, nas situações de incumprimento de VLE;\n\ni) Violação da obrigação de descarga de poluentes para a atmosfera através de uma chaminé, nos termos do n.º 1 do artigo 29.º;\n\nj) Violação da proibição de diluição dos efluentes gasosos, nos termos do n.º 2 do artigo 29.º;\n\nl) Não cumprimento da metodologia de cálculo de altura das chaminés fixada na portaria prevista no n.º 1 do artigo 30.º;\n\nm) Violação da altura mínima das chaminés, nos termos previstos no n.º 2 do artigo 30.º;\n\nn) Não cumprimento das condições de controlo das emissões impostas no n.º 5 do artigo 30.º;\n\no) Não cumprimento das normas relativas à construção de chaminés, previstas no artigo 32.º"
+  },
+  "115304815": {
+   "fragment_id": "115299666",
+   "type": 11,
+   "heading": "Artigo 35.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sanções acessórias\n\n1 - Às contra-ordenações previstas no artigo anterior podem, em simultâneo com coima e nos termos da lei geral, ser aplicadas as seguintes sanções acessórias:\n\na) Perda a favor do Estado dos objectos pertencentes ao agente e utilizados na prática da infracção;\n\nb) Interdição do exercício da actividade;\n\nc) Privação do direito a subsídios ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás.\n\n2 - A aplicação de sanções acessórias ao abrigo do presente artigo deve ser comunicada à entidade coordenadora do licenciamento da actividade em causa e publicitada."
+  },
+  "115304816": {
+   "fragment_id": "115299667",
+   "type": 11,
+   "heading": "Artigo 36.º — Instrução e decisão dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Instrução e decisão dos processos\n\n1 - A instauração e a instrução dos processos relativos às contra-ordenações referidas no artigo 34.º é da competência da IGA e das CCDR, nas áreas sob a sua jurisdição.\n\n2 - Compete ao dirigente máximo da entidade que tenha instruído o processo de contra-ordenação decidir a aplicação de coimas e de sanções acessórias."
+  },
+  "115304817": {
+   "fragment_id": "115299668",
+   "type": 11,
+   "heading": "Artigo 37.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Produto das coimas\n\nO produto das coimas previstas no artigo 34.º é afectado, independentemente da fase processual em que estas forem liquidadas, da seguinte forma:\n\na) 10% para a entidade que tenha levantado o auto;\n\nb) 30% para a entidade que instrui o processo e aplica a coima;\n\nc) 60% para o Estado."
+  },
+  "115304818": {
+   "fragment_id": "115299669",
+   "type": 11,
+   "heading": "Artigo 38.º — Responsabilidade por danos ao ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Responsabilidade por danos ao ambiente\n\n1 - Aquele que, com dolo ou mera culpa, infringir as disposições do presente diploma, provocando danos no ambiente, em geral, e afectando a qualidade do ambiente atmosférico, em particular, fica constituído na obrigação de indemnizar o Estado pelos danos a que der causa.\n\n2 - O referido no número anterior não prejudica o exercício pelos particulares da pretensão indemnizatória fundada no n.º 4 do artigo 40.º da Lei n.º 11/87, de 7 de Abril, e demais legislação aplicável.\n\n3 - Quando não seja possível quantificar com precisão o dano causado, o tribunal fixará, com recurso a critérios de equidade, o montante da indemnização, tomando em consideração, nomeadamente, a lesão da componente ambiental, o custo previsível da reposição da situação anterior à prática do acto danoso e o proveito económico eventualmente angariado mediante a prática da infracção.\n\n4 - Em caso de concurso de infractores, a responsabilidade pelo dano é solidária.\n\n5 - O pedido de indemnização fundado na violação das disposições do presente diploma será sempre deduzido perante os tribunais comuns."
+  },
+  "115304819": {
+   "fragment_id": "115299670",
+   "type": 11,
+   "heading": "Artigo 39.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Medidas cautelares\n\n1 - O inspector-geral do Ambiente ou o dirigente máximo da CCDR podem, por despacho, sempre que seja detectada uma situação de perigo grave para o ambiente atmosférico ou para a qualidade do ar, adoptar as medidas cautelares que em cada caso se justifiquem para prevenir ou eliminar a situação de perigo, nomeadamente a suspensão da laboração da instalação, o encerramento no todo ou em parte da instalação ou a apreensão do todo ou parte do equipamento, mediante selagem.\n\n2 - A cessação das medidas cautelares previstas no número anterior é determinada, a requerimento do operador, por despacho do inspector-geral do Ambiente ou do dirigente máximo da CCDR, após verificação de que a situação de perigo grave para o ambiente atmosférico ou para a qualidade do ar cessou.\n\n3 - A adopção de medidas cautelares ao abrigo do presente artigo, bem como a sua cessação, é comunicada de imediato ao IA e à entidade coordenadora do licenciamento da instalação em causa."
+  },
+  "115304820": {
+   "fragment_id": "115299671",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "115304821": {
+   "fragment_id": "115299672",
+   "type": 11,
+   "heading": "Artigo 40.º — Revisão de VLE e de limiares mássicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revisão de VLE e de limiares mássicos\n\nOs VLE e os limiares mássicos serão revistos por meio de portarias dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, tendo em conta a evolução da melhor tecnologia disponível e a situação do ambiente atmosférico no território nacional."
+  },
+  "115304822": {
+   "fragment_id": "115299673",
+   "type": 11,
+   "heading": "Artigo 41.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Aplicação às Regiões Autónomas\n\n1 - O regime previsto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.\n\n2 - Os serviços e organismos das respectivas administrações regionais devem remeter ao IA as informações necessárias no âmbito do INEPA, bem como todas as demais que lhes forem solicitadas por aquele Instituto, para efeitos do cumprimento de compromissos assumidos ao nível da União Europeia."
+  },
+  "115304823": {
+   "fragment_id": "115299674",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\n1 - Com a entrada em vigor do presente diploma é revogado o Decreto-Lei n.º 352/90, de 9 de Novembro.\n\n2 - Com a entrada em vigor das portarias previstas no n.º 1 do artigo 17.º do presente diploma é revogado o disposto nos n.os 5.º e 6.º da Portaria n.º 286/93, de 12 de Março, bem como as Portarias n.os 1058/94, de 2 de Dezembro, e 1387/2003, de 22 de Dezembro.\n\n3 - As referências ao artigo 5.º do Decreto-Lei n.º 352/90, de 9 de Novembro, contidas nas portarias mencionadas no número anterior consideram-se feitas ao artigo 17.º do presente diploma a partir da data de entrada em vigor deste."
+  },
+  "115304824": {
+   "fragment_id": "115304875",
+   "type": 11,
+   "heading": "Artigo 43.º — Disposições transitórias aplicáveis às instalações existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Disposições transitórias aplicáveis às instalações existentes\n\n1 - Para se adaptarem ao regime estabelecido no presente diploma as instalações existentes que estavam abrangidas pelo âmbito do Decreto-Lei n.º 352/90, de 9 de Novembro, dispõem de dois anos, contados a partir da data da entrada em vigor do presente decreto-lei, ou, se posterior, da data em que finalizam o seu processo de licenciamento, com excepção da disposição constante do n.º 1 do artigo 11.º, de cuja aplicação ficam isentas.\n\n2 - As instalações existentes que não estavam abrangidas pelo Decreto-Lei n.º 352/90, de 9 de Novembro, dispõem de dois anos, contados da data de entrada em vigor do presente diploma, ou, se posterior, da data em que finalizam o seu processo de licenciamento, para se adaptarem ao presente regime.\n\n3 - Até à entrada em vigor da portaria prevista no n.º 1 do artigo 30.º, continuarão sujeitas ao que se dispõe no n.º 1 do artigo 31.º as instalações industriais de potência térmica superior a 50 MW ou que se localizem em áreas classificadas ao abrigo do Decreto-Lei n.º 613/76, de 27 de Julho."
+  },
+  "115304825": {
+   "fragment_id": "115304876",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 90 dias a contar da data da sua publicação."
+  },
+  "115304827": {
+   "fragment_id": "115304878",
+   "type": 14,
+   "heading": "Anexo I — Elementos constituintes do plano de monitorização para o autocontrolo no caso de fontes múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Elementos constituintes do plano de monitorização para o autocontrolo no caso de fontes múltiplas\n\nA - Dados relativos ao estabelecimento:\n\na) Denominação e localização;\n\nb) Descrição da(s) actividade(s) e, se possível, o fluxograma do processo;\n\nc) Capacidade instalada e data de licenciamento.\n\nB - Dados relativos às fontes pontuais:\n\nListagem e descrição das fontes pontuais, incluindo denominação interna (código) de cada uma delas, planta com a respectiva localização e identificação, actividade/processo associado a cada fonte, regime de funcionamento respectivo (contínuo ou descontínuo, cíclico), características das respectivas chaminés (altura, diâmetro interno, cota de implantação) e indicação da(s) fonte(s) para a qual se efectua o pedido.\n\nC - Dados relativos às emissões de poluentes atmosféricos:\n\na) Relatórios, nos termos do anexo II, de monitorização pontual efectuada nas chaminés que constituem as fontes múltiplas em causa, no último ano de actividade;\n\nb) Plano de monitorização para as fontes pontuais múltiplas em causa, incluindo o número de chaminés a monitorizar, de acordo com o quadro n.º 1, e respectiva identificação, a periodicidade e os poluentes a medir.\n\nQUADRO N.º 1\n\nNúmero de chaminés a monitorizar no caso de fontes múltiplas\n\n(ver quadro no documento original)"
+  },
+  "115304828": {
+   "fragment_id": "115304879",
+   "type": 14,
+   "heading": "Anexo II — Especificações sobre o conteúdo do relatório de autocontrolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Especificações sobre o conteúdo do relatório de autocontrolo\n\nUm relatório de caracterização de efluentes gasosos para verificação da conformidade com a legislação sobre emissões de poluentes atmosféricos deve conter, no mínimo, a seguinte informação:\n\na) Nome e localização do estabelecimento;\n\nb) Identificação da(s) fonte(s) alvo de monitorização (instalação a que está associada) e denominação interna (código);\n\nc) Dados da entidade responsável pela realização dos ensaios, incluindo a data da recolha e da análise;\n\nd) Data do relatório;\n\ne) Data de realização dos ensaios, diferenciando entre recolha e análise;\n\nf) Identificação dos técnicos envolvidos nos ensaios, indicando explicitamente as operações de recolha, análise e responsável técnico;\n\ng) Objectivo dos ensaios;\n\nh) Normas utilizadas nas determinações e indicação dos desvios, justificação e consequências;\n\ni) Descrição sumária da instalação incluindo, sempre que possível, o respectivo layout (exemplo: capacidade nominal, combustíveis utilizados, equipamentos de redução, etc.);\n\nj) Condições relevantes de operação durante o período de realização do ensaio (exemplo: capacidade utilizada, matérias-primas, etc.);\n\nl) Existência de planos de monitorização, VLE específicos definidos pela entidade coordenadora do licenciamento ou qualquer isenção concedida no âmbito do presente diploma (ver nota *);\n\nm) Informações relativas ao local de amostragem (exemplo: dimensões da chaminé/conduta, número de pontos de toma, número de tomas de amostragem, etc.);\n\nn) Condições relevantes do escoamento durante a realização dos ensaios (teor de oxigénio, pressão na chaminé, humidade, massa molecular, temperatura, velocidade e caudal do efluente gasoso-efectivo e PTN, expressos em unidades SI);\n\no) Resultados e precisão considerando os algarismos significativos expressos nas unidades em que são definidos os VLE, indicando concentrações «tal-qual» medidas e corrigidas para o teor de O(índice 2) adequado;\n\np) Comparação dos resultados com os VLE aplicáveis. Apresentação de caudais mássicos;\n\nq) No caso de fontes múltiplas, deverá ser apresentada a estimativa das emissões das fontes inseridas no plano, com o respectivo factor de emissão, calculado a partir das fontes caracterizadas;\n\nr) Indicação dos equipamentos de medição utilizados.\n\nAnexos: detalhes sobre o sistema de qualidade utilizado; certificados de calibração dos equipamentos de medição; cópias de outros dados de suporte essenciais.\n\n(nota *) Deverá ser remetida apenas no primeiro relatório, ou sempre que ocorra uma alteração substancial."
+  },
+  "116320677": {
+   "fragment_id": "115299624",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320678": {
+   "fragment_id": "115299625",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime da prevenção e controlo das emissões de poluentes para a atmosfera, fixando os princípios, objectivos e instrumentos apropriados à garantia de protecção do recurso natural ar, bem como as medidas, procedimentos e obrigações dos operadores das instalações abrangidas, com vista a evitar ou reduzir a níveis aceitáveis a poluição atmosférica originada nessas mesmas instalações.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320679": {
+   "fragment_id": "115299626",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios e objectivos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Princípios e objectivos\n\n1 - Incumbe ao Estado promover as medidas de carácter administrativo e técnico ou outras que garantam a protecção e controlo do ambiente atmosférico.\n\n2 - Constituem objectivos do presente diploma a prevenção e o controlo da poluição atmosférica, incluindo, nomeadamente:\n\na) A definição de políticas, de medidas e de procedimentos destinados a evitar ou reduzir os níveis de emissão originados em instalações responsáveis pela descarga de poluentes para a atmosfera, segundo metas e calendários fixados em cada momento;\n\nb) O fomento de iniciativas públicas e privadas ou de parcerias destinadas a promover a melhoria da qualidade do ar, designadamente através da utilização de melhores técnicas disponíveis e de combustíveis menos poluentes, com vista, nomeadamente, a desenvolver uma política integrada da prevenção do controlo da poluição atmosférica, bem como a evitar as transferências de descargas poluentes de um meio receptor para outro, no quadro da aplicação do Decreto-Lei n.º 194/2000, de 31 de Agosto;\n\nc) A promoção de políticas e medidas concretas que permitam, num quadro global, coordenar e articular esforços na redução das emissões de gases com efeito de estufa originados em instalações abrangidas pelo presente diploma;\n\nd) A adopção de medidas adequadas à progressiva redução e ao controlo dos efeitos da transferência de poluição atmosférica a longas distâncias, designadamente numa perspectiva transfronteiriça.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320680": {
+   "fragment_id": "115299627",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - Estão abrangidas pelo presente diploma todas as fontes de emissão de poluentes atmosféricos associadas a:\n\na) Actividades de carácter industrial;\n\nb) Produção de electricidade e ou de vapor;\n\nc) Manutenção e reparação de veículos;\n\nd) Pesquisa e exploração de massas minerais;\n\ne) Instalações de combustão integradas em estabelecimentos industriais, comerciais ou de serviços, entre os quais os de prestação de cuidados de saúde, os de ensino e instituições do Estado;\n\nf) Actividades de armazenagem de combustíveis.\n\n2 - Excluem-se do âmbito de aplicação do presente diploma:\n\na) As instalações de combustão com uma potência térmica nominal igual ou inferior a 100 kWth (kilowatts térmicos), excepto no que respeita ao artigo 7.º do presente diploma;\n\nb) Os geradores de emergência, excepto no que respeita ao disposto no artigo 7.º e no n.º 4 do artigo 21.º do presente diploma;\n\nc) Os sistemas de ventilação, na acepção da alínea vv) do artigo 4.º do presente diploma;\n\nd) As instalações ou parte de instalações utilizadas exclusivamente para investigação, desenvolvimento ou experimentação de novos produtos ou processos.\n\n3 - O regime instituído pelo presente diploma não prejudica o disposto em legislação especial, nomeadamente na relativa a tectos de emissão nacionais, à incineração de resíduos e à limitação das emissões de poluentes atmosféricos provenientes de grandes instalações de combustão, nem o regime legal relativo a emissões de compostos orgânicos voláteis.\n\n4 - O regime aplicável às instalações abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto, relativo à prevenção e controlo integrados da poluição, e que sejam objecto de licença ambiental, prevalece sobre as disposições do presente diploma no que se refere às emissões atmosféricas, desde que o procedimento de licença ambiental esteja concluído à data de entrada em vigor do presente diploma.\n\n5 - A aplicação do presente diploma não prejudica o disposto no Decreto-Lei n.º 276/99, de 23 de Julho, relativo à qualidade do ar, pelo que as condições constantes dos planos de acção aí previstos, em particular no que respeita às emissões das instalações localizadas nas áreas afectas, prevalecem sobre os requisitos do presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320681": {
+   "fragment_id": "115299628",
+   "type": 11,
+   "heading": "Artigo 4.º — Conceitos e definições",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Conceitos e definições\n\nPara efeitos do presente diploma e demais legislação complementar, entende-se por:\n\na) «Actividade sazonal» a actividade cujo desenvolvimento está limitado a uma determinada época do ano, não totalizando um período de funcionamento superior a seis meses durante um ano civil;\n\nb) «Aerossóis» as partículas sólidas ou líquidas em suspensão num meio gasoso, com uma velocidade de queda irrelevante e com uma dimensão que excede a de um colóide (de um nanómetro a um micrómetro);\n\nc) «Alteração da exploração» uma alteração das características e ou do funcionamento de uma instalação, ou ainda o resultado da sua ampliação, da qual possam resultar efeitos significativos nas pessoas ou no ambiente;\n\nd) Alteração substancial:\n\ni) No caso de instalações abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto, a definição constante da alínea b) do n.º 1 do artigo 2.º;\n\nii) Para as restantes instalações, um aumento em 25% da capacidade nominal ou uma variação do caudal mássico de qualquer poluente atmosférico superior a 25%, ou ainda qualquer alteração que, do ponto de vista da comissão de coordenação e desenvolvimento regional (CCDR) competente, quando tecnicamente justificado, seja susceptível de produzir efeitos significativos nas pessoas ou no ambiente;\n\ne) «Autorização ou licença» a decisão escrita da entidade coordenadora do licenciamento que titula a permissão da exploração ou de funcionamento, total ou parcial, de uma instalação, bem como a sua entrada em funcionamento;\n\nf) «Biomassa» os produtos que consistem, na totalidade ou em parte, numa matéria vegetal proveniente da agricultura ou da silvicultura, que pode ser utilizada como combustível para efeitos de recuperação do seu teor energético, bem como os resíduos a seguir enumerados quando utilizados como combustível:\n\ni) Resíduos vegetais resultantes de actividades nos domínios da agricultura e da silvicultura;\n\nii) Resíduos vegetais da indústria de transformação de produtos alimentares, se o calor gerado for recuperado;\n\niii) Resíduos vegetais fibrosos da indústria de pasta virgem e de produção de papel, se forem co-incinerados no local de produção e se o calor gerado for recuperado;\n\niv) Resíduos da cortiça;\n\nv) Resíduos de madeira, com excepção dos que possam conter compostos orgânicos halogenados ou metais pesados, resultantes de tratamento com conservantes ou revestimento, incluindo em especial resíduos de madeira provenientes de obras de construção e demolição;\n\ng) «Caudal mássico» a quantidade emitida de um poluente atmosférico, expressa em unidades de massa por unidade de tempo;\n\nh) «Capacidade nominal» a capacidade máxima de projecto de uma instalação, nas condições de funcionamento normal, ou a entrada máxima de solventes orgânicos expressa em unidades de massa, calculada em média diária, nas condições de funcionamento normal e com o volume de produção para que foi projectada;\n\ni) «Chaminé» o órgão de direccionamento ou controlo da exaustão dos efluentes gasosos através do qual se faz a sua descarga para a atmosfera;\n\nj) «Combustível» qualquer matéria sólida, líquida ou gasosa que alimenta uma instalação de combustão, com excepção dos resíduos abrangidos pela legislação relativa à incineração de resíduos, nomeadamente pelo Decreto-Lei n.º 273/98, de 2 de Setembro;\n\nl) «Composto orgânico» qualquer composto que contenha pelo menos o elemento carbono e um ou mais dos seguintes elementos: hidrogénio, halogéneos, oxigénio, enxofre, fósforo, silício ou azoto, à excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;\n\nm) «Composto orgânico volátil (COV)» um composto orgânico com uma pressão de vapor igual ou superior a 0,01 kPa a 293,15 K, ou com volatilidade equivalente nas condições de utilização específicas. A fracção de creosoto que exceda este valor de pressão de vapor a 293,15 K deve ser considerada um COV;\n\nn) «Condições normais de pressão e temperatura» as condições referidas à temperatura de 273,15 K e à pressão de 101,3 kPa;\n\no) «Conduta» o órgão de direccionamento ou controlo de efluentes gasosos de uma fonte de emissão através do qual se faz o seu confinamento e transporte para uma chaminé;\n\np) «Conduta de ventilação» o órgão de exaustão associado a um sistema de ventilação;\n\nq) «Diluição» a introdução de ar secundário na conduta ou chaminé que transporta o efluente gasoso, não justificada do ponto de vista do funcionamento do equipamento ou sistemas a jusante, com o objectivo de promover a diminuição da concentração dos poluentes presentes nesse efluente;\n\nr) «Efluente gasoso» o fluxo de poluentes atmosféricos sob a forma de gases, partículas ou aerossóis;\n\ns) «Emissão» a descarga, directa ou indirecta, para a atmosfera dos poluentes atmosféricos presentes no efluente gasoso;\n\nt) «Emissão difusa» a emissão que não é feita através de uma chaminé, incluindo as fugas e as emissões não confinadas para o ambiente exterior, através de janelas, portas e aberturas afins, bem como de válvulas e empanques;\n\nu) «Entidade coordenadora do licenciamento» a entidade da administração central, regional ou local a quem compete a coordenação plena do processo de licenciamento, de instalação ou de alteração, nos termos da legislação aplicável das instalações abrangidas pelo presente diploma;\n\nv) «Fonte difusa» o ponto de origem de emissões difusas;\n\nx) «Fonte de emissão» o ponto de origem de uma emissão;\n\nz) «Fontes múltiplas» o conjunto de fontes pontuais idênticas, com as mesmas características técnicas, associadas aos mesmos tipo e fase de processo produtivo e à mesma instalação, cujos efluentes gasosos têm a mesma natureza e a mesma composição qualitativa e quantitativa;\n\naa) «Fonte pontual» o ponto de origem de uma emissão efectuada de forma confinada através de uma chaminé;\n\nbb) «Funcionamento normal» a condição que abrange todos os períodos de funcionamento de uma instalação, à excepção das operações de arranque, de paragem e de manutenção do respectivo equipamento;\n\ncc) «Gerador de emergência» o motor estacionário de combustão interna, utilizado como fonte secundária de energia eléctrica ou mecânica apenas em situações de falha de energia não controladas pelo operador e funcionando somente em situações de emergência ou de ensaio. Incluem-se nestes equipamentos os geradores associados a sistemas de incêndio;\n\ndd) «Grande instalação de combustão» toda e qualquer instalação de combustão com potência térmica igual ou superior a 50 MWth (megawatt térmicos), incluída no âmbito de aplicação do Decreto-Lei n.º 178/2003, de 5 de Agosto;\n\nee) «Instalação» uma unidade técnica fixa ou amovível na qual são desenvolvidas uma ou mais actividades susceptíveis de produzir emissões para a atmosfera;\n\nff) «Instalação de combustão» qualquer equipamento técnico onde um ou mais combustíveis sejam sujeitos a um processo de combustão;\n\ngg) «Instalação existente» qualquer instalação:\n\ni) Licenciada ou autorizada nos termos da legislação aplicável até à data de entrada em vigor do presente diploma;\n\nii) Para a qual tenha sido apresentado e esteja em condições de ser instruído pela entidade coordenadora do licenciamento o pedido de autorização, ou licenciamento, até à data de entrada em vigor do presente diploma, desde que esse pedido venha a ter decisão favorável e a instalação entre em funcionamento no prazo máximo de 12 meses após aquela data;\n\nhh) «Instalação nova» qualquer instalação que não seja enquadrada pela definição de instalação existente;\n\nii) «Limiar mássico máximo» o valor do caudal mássico de um dado poluente atmosférico acima do qual se torna obrigatória a monitorização em contínuo desse poluente;\n\njj) «Limiar mássico mínimo» o valor do caudal mássico de um dado poluente atmosférico abaixo do qual não é obrigatório o cumprimento do respectivo valor limite de emissão;\n\nll) «Operador» qualquer pessoa singular ou colectiva pública ou privada que pretenda explorar, explore ou possua a instalação ou em quem tenha sido delegado um poder económico determinante sobre o funcionamento técnico da instalação, nos termos da legislação aplicável;\n\nmm) «Operações de arranque ou de paragem» as operações efectuadas com a finalidade de colocar em funcionamento ou retirar de funcionamento uma instalação ou um equipamento;\n\nnn) «Obstáculo» qualquer estrutura física que possa interferir nas condições de dispersão normal dos poluentes atmosféricos;\n\noo) «Obstáculo próximo» qualquer obstáculo situado num raio até 300 m da fonte emissora, incluindo o edifício de implantação da chaminé, e que cumpra as condições definidas na portaria referida no n.º 1 do artigo 30.º;\n\npp) «Poder calorífico inferior ou PCI» a quantidade de calor libertada pela combustão completa de uma unidade em volume ou massa de um combustível, quando queimado completamente a uma certa temperatura, permanecendo os produtos de combustão em fase gasosa (sem condensação do vapor de água);\n\nqq) «Poluentes atmosféricos» as substâncias introduzidas, directa ou indirectamente, pelo homem no ar ambiente, que exercem uma acção nociva sobre a saúde humana e ou o meio ambiente;\n\nrr) «Potência térmica nominal de uma instalação» a quantidade de energia térmica contida no combustível, expressa em PCI, susceptível de ser consumida por unidade de tempo em condições de funcionamento contínuo e à carga máxima, a qual deve ser expressa em megawatts térmicos ou num dos seus múltiplos;\n\nss) «Preparação» a mistura ou solução constituída por duas ou mais substâncias;\n\ntt) «Queima a céu aberto» qualquer processo de combustão que decorra ao ar livre;\n\nuu) «Sistema de exaustão» o sistema funcionando a pressões próximas da pressão atmosférica, com carácter regular ou não, constituído por um órgão mecânico (ventilador) e um conjunto de condutas, que promove a captação e o direccionamento de poluentes atmosféricos para uma chaminé e que pode ter por objectivo a minimização de emissões difusas e a sua transformação em emissões pontuais;\n\nvv) «Sistema de ventilação» o sistema que tem por objectivo promover a renovação de ar interior de uma instalação para maior conforto térmico e para regeneração do ar saturado em vapor de água;\n\nxx) «Substâncias» os elementos e compostos químicos no estado natural ou produzidos pela indústria, na forma sólida, líquida ou gasosa, com excepção das substâncias radioactivas, na acepção do Decreto-Lei n.º 348/89, de 12 de Outubro, e dos organismos geneticamente modificados, na acepção do Decreto-Lei n.º 126/93, de 20 de Abril;\n\nzz) «Tectos de emissão nacionais» a quantidade máxima de uma substância, expressa em unidades de massa, que pode ser emitida a nível nacional durante um ano civil;\n\naaa) «Valor limite de emissão ou VLE» a massa de um poluente atmosférico, expressa em termos de determinados parâmetros específicos, em concentração, percentagem e ou nível de uma emissão que não deve ser excedida durante um ou mais períodos determinados e calculada em condições normais de pressão e temperatura.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320682": {
+   "fragment_id": "115299629",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrumentos de prevenção e controlo de emissões de poluentes",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Instrumentos de prevenção e controlo de emissões de poluentes\n\nA protecção do ambiente atmosférico é assegurada através de um conjunto de instrumentos complementares que promovam a prevenção e o controlo das emissões de poluentes atmosféricos, nomeadamente:\n\na) Incentivos à instalação das melhores técnicas disponíveis e de equipamentos que previnam e ou reduzam a poluição atmosférica;\n\nb) Inclusão de condições relativas à protecção do ambiente atmosférico no âmbito do licenciamento, autorização ou aprovação das instalações, nos termos previstos na legislação aplicável e no Decreto-Lei n.º 194/2000, de 21 de Agosto;\n\nc) Promoção da educação ambiental visando o esclarecimento, a formação e a participação das populações na identificação e na resolução dos problemas de poluição atmosférica;\n\nd) Lançamento de programas de investigação e de desenvolvimento no domínio da prevenção e controlo da poluição;\n\ne) Elaboração e manutenção de um inventário nacional de fontes de emissão de poluentes atmosféricos.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320683": {
+   "fragment_id": "115299630",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrumentos económicos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Instrumentos económicos\n\nA protecção do ambiente atmosférico é ainda assegurada através da promoção de incentivos à internalização dos custos ambientais associados à utilização do recurso ar, nomeadamente mediante a utilização de instrumentos baseados na lógica do mercado, incluindo um sistema de transacção de direitos de emissão, impostos, taxas e subsídios ambientais.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320684": {
+   "fragment_id": "115299631",
+   "type": 11,
+   "heading": "Artigo 7.º — Tectos de emissão nacionais",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Tectos de emissão nacionais\n\nSem prejuízo do disposto no presente diploma, são estabelecidas em diploma próprio as medidas necessárias ao cumprimento dos tectos de emissão nacionais de SO(índice 2), NO(índice x), COV e NH(índice 3), bem como a elaboração de um programa de redução de emissões, de acordo com a natureza, objectivos, calendários e outros requisitos impostos no Decreto-Lei n.º 193/2003, de 22 de Agosto, relativo aos tectos de emissão nacionais.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320685": {
+   "fragment_id": "115299632",
+   "type": 11,
+   "heading": "Artigo 8.º — Inventário de fontes e de emissões atmosféricas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Inventário de fontes e de emissões atmosféricas\n\n1 - Compete ao Instituto do Ambiente (IA) a elaboração do Inventário Nacional de Emissões de Poluentes Atmosféricos (INEPA) e a quantificação das respectivas emissões para cada ano civil.\n\n2 - Compete à CCDR a realização, para cada ano civil, do inventário regional de emissões de poluentes atmosféricos na área territorial da respectiva jurisdição.\n\n3 - Para os efeitos previstos nos números anteriores e sempre que solicitada, é obrigatória a disponibilização ao IA e ou às CCDR de toda a informação relevante e actualizada pelas entidades detentoras da mesma, públicas ou privadas, incluindo operadores e entidades responsáveis pela produção de dados estatísticos.\n\n4 - Compete ao IA definir os objectivos, metodologias, informação a disponibilizar, prazos e procedimentos de validação, assim como a articulação entre os inventários regionais e nacionais.\n\n5 - Até 30 de Junho de cada ano, as CCDR devem remeter, em suporte digital, ao IA os dados relativos aos inventários regionais do ano anterior.\n\n6 - Compete ao IA organizar e manter actualizada uma base de dados de emissões de poluentes atmosféricos relativa ao INEPA e aos inventários regionais.\n\n7 - Dos inventários referidos nos n.os 1 e 2 não consta a identificação das fontes de emissão envolvidas.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320686": {
+   "fragment_id": "115299633",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas gerais de prevenção",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 9.º — Medidas gerais de prevenção\n\n1 - O operador deve assegurar que a instalação é projectada e construída de modo a reduzir as emissões de poluentes atmosféricos e evitar a transferência de poluição de um meio receptor para outro, mediante a adopção das melhores técnicas disponíveis que possibilitem a sua aplicação em condições económica e tecnicamente viáveis, tendo em conta os respectivos custos e benefícios.\n\n2 - O operador deve adoptar todas as medidas necessárias para assegurar que no decurso do funcionamento da instalação, incluindo as condições de funcionamento normal, e as condições de arranque, de paragem ou de manutenção, e na desactivação definitiva da instalação são respeitados os princípios e os objectivos estabelecidos no presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320687": {
+   "fragment_id": "115299634",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas especiais para minimização das emissões difusas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas especiais para minimização das emissões difusas\n\nSem prejuízo de outras disposições aplicáveis em matéria de construção e de exploração das instalações, nem das normas sobre higiene e segurança no trabalho, o operador deve adoptar as seguintes medidas para minimizar as emissões difusas:\n\na) Captação e canalização para um sistema de exaustão das emissões difusas de poluentes atmosféricos, sempre que técnica e economicamente viável;\n\nb) Confinar, por regra, a armazenagem de produtos de características pulverulentas ou voláteis;\n\nc) Equipar com dispositivos de captação e exaustão, os equipamentos de manipulação, transfega, transporte e armazenagem, desde que técnica e economicamente viável;\n\nd) Garantir, sempre que seja técnica e economicamente viável, meios de pulverização com água ou aditivos, caso se verifique a necessidade imperiosa de armazenamento ao ar livre;\n\ne) Armazenar, na medida do possível, em espaços fechados os produtos a granel que possam conduzir a emissões de poluentes para a atmosfera;\n\nf) Assegurar que o pavimento da área envolvente da instalação, incluindo vias de circulação e locais de parqueamento, possui revestimento adequado a evitar a contaminação de solos e aquíferos e é mantido em condições de higiene e limpeza.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320688": {
+   "fragment_id": "115299635",
+   "type": 11,
+   "heading": "Artigo 11.º — Sistemas de tratamento de efluentes gasosos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Sistemas de tratamento de efluentes gasosos\n\n1 - Os equipamentos de despoeiramento e de tratamento de efluentes gasosos de uma instalação devem ser dimensionados de modo a poderem suportar variações de caudal, temperatura e composição química dos efluentes gasosos a tratar, em particular durante as operações de arranque e de paragem da instalação, sempre que tecnicamente viável.\n\n2 - Os equipamentos referidos no número anterior devem ter uma exploração e manutenção adequadas, de modo a reduzirem ao mínimo os períodos de indisponibilidade e a permitirem um nível de eficiência elevado.\n\n3 - Em situações de funcionamento deficiente ou de avaria do equipamento, em que se verifique não ser possível repor a situação de funcionamento normal no prazo de vinte e quatro horas, o operador tem o dever de notificar a CCDR competente no prazo máximo de quarenta e oito horas contadas da verificação da deficiência ou da avaria.\n\n4 - Nas situações previstas no número anterior, a CCDR adopta as providências que entenda necessárias, designadamente a imposição de medidas adicionais para que o funcionamento da instalação regresse à normalidade, ou, caso se justifique, a suspensão da actividade, nos termos do artigo 26.º\n\n5 - As situações de funcionamento deficiente ou de avaria do equipamento não podem, em circunstância alguma, exceder um total de cento e setenta horas em cada ano civil.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320689": {
+   "fragment_id": "115299636",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalações que utilizam solventes orgânicos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Instalações que utilizam solventes orgânicos\n\n1 - As instalações que utilizem substâncias e preparações às quais sejam atribuídas ou devam ser acompanhadas das frases de risco R 45, R 46, R 49, R 60 e R 61, devido ao teor de COV classificados como cancerígenos, mutagénicos ou tóxicos para a reprodução, nos termos do Decreto-Lei n.º 82/95, de 22 de Abril, e da Portaria n.º 732-A/96, de 11 de Dezembro, devem proceder à sua substituição, na medida do possível, por substâncias ou preparações menos perigosas.\n\n2 - Às instalações referidas no número anterior não se aplica o disposto nos n.os 4 e 6 do artigo 19.º do presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320690": {
+   "fragment_id": "115299637",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição da queima a céu aberto",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Proibição da queima a céu aberto\n\n1 - É expressamente proibida a queima a céu aberto de quaisquer resíduos, na acepção do Decreto-Lei n.º 239/97, de 9 de Setembro, bem como de todo o tipo de material designado correntemente por sucata.\n\n2 - Exceptua-se da proibição do número anterior apenas a queima de material lenhoso e de outro material vegetal no âmbito de actividades agro-florestais, desde que devidamente autorizadas nos termos dos artigos 39.º e 40.º do Decreto-Lei n.º 310/2002, de 18 de Dezembro.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320691": {
+   "fragment_id": "115299638",
+   "type": 11,
+   "heading": "Artigo 14.º — Autorização ou licença da instalação e suas renovações",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Autorização ou licença da instalação e suas renovações\n\n1 - A autorização de funcionamento ou a concessão da licença de exploração de novas instalações bem como as respectivas renovações só são emitidas se o operador demonstrar que a instalação respeita as disposições do presente diploma e, em especial, que:\n\na) Tomou as medidas adequadas à redução da poluição atmosférica na origem, tendo em conta a tecnologia disponível com desempenho ambiental adequado aplicável ao processo em causa, prevalecendo este objectivo sobre as tecnologias de fim de linha;\n\nb) De um ponto de vista técnico, a instalação está apta a garantir o cumprimento dos valores limite de emissão (VLE) que lhe são aplicados;\n\nc) A instalação cumpre, entre outras, as normas do presente diploma relativas ao sistema de descarga e de tratamento de poluentes atmosféricos, à minimização dos efeitos das emissões difusas, aos aspectos construtivos da chaminé e à monitorização das emissões atmosféricas.\n\n2 - As licenças emitidas em desconformidade do disposto no número anterior são nulas.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320692": {
+   "fragment_id": "115299639",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração da instalação",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Alteração da instalação\n\nSempre que uma instalação existente é objecto de uma alteração substancial na acepção da alínea d) do artigo 4.º, é considerada como uma nova instalação para efeitos da aplicação do presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320693": {
+   "fragment_id": "115299640",
+   "type": 1,
+   "heading": "Capítulo II — Valores limite de emissão",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "### Capítulo II — Valores limite de emissão\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320694": {
+   "fragment_id": "115299641",
+   "type": 8,
+   "heading": "Secção I — Normas gerais",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "#### Secção I — Normas gerais\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320695": {
+   "fragment_id": "115299642",
+   "type": 11,
+   "heading": "Artigo 16.º — Objectivos e princípios",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Objectivos e princípios\n\n1 - A imposição de VLE visa assegurar a protecção da saúde humana e do ambiente e constitui um instrumento essencial da política de prevenção e controlo do ambiente atmosférico.\n\n2 - Os VLE aplicam-se a grupos, famílias ou categorias de substâncias emitidas por qualquer fonte de emissão.\n\n3 - A determinação de VLE tem por base:\n\na) A existência de tecnologia disponível com desempenho ambiental adequado aplicável ao processo em causa;\n\nb) A necessidade de protecção do ambiente, da saúde e do bem-estar das populações;\n\nc) O programa para os tectos de emissão nacionais.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320696": {
+   "fragment_id": "115299643",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de VLE",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 17.º — Aplicação de VLE\n\n1 - Os VLE aplicáveis às fontes de emissão abrangidas pelo presente diploma são fixados por portarias conjuntas dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente.\n\n2 - A aplicação e o cumprimento dos VLE fixados nas portarias referidas no número anterior são obrigatórios para todas as fontes de emissão, sem prejuízo do disposto no artigo 27.º\n\n3 - O cumprimento dos VLE presume-se assegurado desde que observadas as disposições constantes dos artigos 18.º a 27.º do presente diploma.\n\n4 - As disposições legais relativas às grandes instalações de combustão, às instalações abrangidas pelo Decreto-Lei n.º 242/2001, de 31 de Agosto, e às instalações de incineração de resíduos prevalecem sobre as constantes do presente diploma, sem prejuízo da sua aplicação subsidiária.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320697": {
+   "fragment_id": "115299644",
+   "type": 8,
+   "heading": "Secção II — Monitorização das emissões",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "#### Secção II — Monitorização das emissões\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320698": {
+   "fragment_id": "115299645",
+   "type": 11,
+   "heading": "Artigo 18.º — Medições",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 18.º — Medições\n\n1 - O autocontrolo das emissões sujeitas a VLE é obrigatório e da responsabilidade do operador.\n\n2 - O autocontrolo das emissões é efectuado nos termos fixados na respectiva autorização ou licença da instalação, mas sempre no respeito pelas disposições constantes do presente diploma ou de acordo com o estipulado nos artigos 19.º a 22.º do presente diploma.\n\n3 - As instalações de combustão abrangidas pelo Decreto-Lei n.º 178/2003, de 5 de Agosto, com potência térmica superior a 50 MW e inferior a 100 MW, estão obrigadas ao autocontrolo das suas emissões, a efectuar de acordo com o disposto no presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320699": {
+   "fragment_id": "115299646",
+   "type": 11,
+   "heading": "Artigo 19.º — Monitorização pontual",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Monitorização pontual\n\n1 - Estão sujeitas a monitorização pontual, a realizar duas vezes em cada ano civil, com um intervalo mínimo de dois meses entre medições, as emissões de poluentes que possam estar presentes no efluente gasoso, para os quais esteja fixado um VLE nos termos do n.º 1 do artigo 17.º, e cujo caudal mássico de emissão se situe entre o limiar mássico máximo e o limiar mássico mínimo fixados nas portarias a que se refere o mesmo artigo.\n\n2 - A CCDR competente pode exigir uma periodicidade de monitorização adequada à situação, sempre que, de uma forma fundamentada, se verifique que a monitorização pontual, efectuada nos termos referidos no número anterior, não é suficiente para assegurar o correcto acompanhamento das emissões para a atmosfera.\n\n3 - No caso de fontes pontuais, abrangidas pelo n.º 1, associadas a instalações onde sejam desenvolvidas actividades sazonais, a monitorização pode ser efectuada apenas uma vez por ano, durante o período em que se encontrem a laborar.\n\n4 - Quando da monitorização realizada de acordo com o n.º 1, num período mínimo de 12 meses e cujos resultados sejam apresentados conforme o estipulado no anexo II, resultar que o caudal mássico de emissão de um poluente é consistentemente inferior ao seu limiar mássico mínimo fixado nos diplomas a que se refere o n.º 1 do artigo 17.º, a monitorização pontual das emissões desse poluente pode ser efectuada apenas uma vez, de três em três anos, desde que a instalação mantenha inalteradas as suas condições de funcionamento.\n\n5 - A CCDR competente pode inibir o exercício da faculdade prevista no número anterior em qualquer momento e em situações devidamente justificadas.\n\n6 - No caso de fontes múltiplas em que todos os poluentes estejam sujeitos a monitorização nos termos do n.º 1, o autocontrolo pode ser efectuado, com carácter rotativo, num número representativo de fontes pontuais, estimando-se as emissões das restantes fontes com base num factor de emissão médio, calculado a partir das fontes caracterizadas.\n\n7 - Para efeitos do disposto no número anterior, o operador deve apresentar à entidade coordenadora do licenciamento um plano de monitorização que inclua os elementos referidos no anexo I ao presente diploma, que dele faz parte integrante, sendo tal plano remetido à CCDR competente.\n\n8 - A CCDR competente deve proferir decisão sobre a aprovação do plano de monitorização referido no número anterior no prazo de 90 dias seguidos a contar da data da sua recepção.\n\n9 - O exercício da faculdade prevista no n.º 6 prejudica a aplicação do disposto no n.º 4.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320700": {
+   "fragment_id": "115299647",
+   "type": 11,
+   "heading": "Artigo 20.º — Monitorização em contínuo",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 20.º — Monitorização em contínuo\n\n1 - Estão sujeitas a monitorização em contínuo as emissões de poluentes cujo caudal mássico de emissão ultrapasse o limiar mássico máximo fixado nas portarias a que se refere o n.º 1 do artigo 17.º\n\n2 - Para obtenção de um valor médio diário válido não podem ser excluídos mais de seis valores médios horários num mesmo dia devido a mau funcionamento ou à reparação/manutenção do sistema de medição em contínuo.\n\n3 - Caso se verifique a anulação de mais de 36 valores médios diários num ano, devida a mau funcionamento ou à reparação/manutenção do sistema de medição em contínuo, o IA pode exigir que o operador tome as medidas adequadas para melhorar a fiabilidade do sistema em causa.\n\n4 - As situações abrangidas pelo n.º 1 em que se comprove não ser tecnicamente possível proceder à monitorização em contínuo das emissões de poluentes atmosféricos são analisadas caso a caso.\n\n5 - Para efeitos do número anterior, o operador apresenta um plano de monitorização alternativo à entidade coordenadora do licenciamento, que o remete ao IA, para decisão sobre a aprovação do plano, no prazo de 90 dias seguidos a contar da data da sua recepção.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320701": {
+   "fragment_id": "115299648",
+   "type": 11,
+   "heading": "Artigo 21.º — Dispensa de monitorização",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Dispensa de monitorização\n\n1 - A monitorização é dispensada nas fontes pontuais associadas a instalações que funcionem menos de 25 dias por ano ou por um período anual inferior a quinhentas horas.\n\n2 - A dispensa de monitorização prevista no número anterior só produz efeitos após a comunicação à CCDR competente, efectuada pelo operador, de que as fontes pontuais se encontram nas condições aí fixadas.\n\n3 - O disposto no número anterior obriga o operador à realização de pelo menos uma medição pontual, nos termos do n.º 1 do artigo 19.º do presente diploma, que demonstre o cumprimento dos VLE aplicáveis nos termos do n.º 1 do artigo 17.º e do n.º 3 do artigo 24.º\n\n4 - O operador está obrigado a possuir o registo actualizado do número de horas de funcionamento e consumo de combustível anuais para todas as instalações abrangidas pelo presente artigo.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320702": {
+   "fragment_id": "115299649",
+   "type": 11,
+   "heading": "Artigo 22.º — Métodos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Métodos\n\nOs métodos de medição, recolha e análise das emissões de poluentes atmosféricos emitidos por fontes pontuais são os fixados nas portarias referidas no n.º 1 do artigo 17.º, sem prejuízo da aplicação de outras normas europeias (CEN) ou nacionais.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320703": {
+   "fragment_id": "115299650",
+   "type": 11,
+   "heading": "Artigo 23.º — Comunicação de resultados",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 23.º — Comunicação de resultados\n\n1 - Os resultados da monitorização pontual são remetidos à CCDR competente, à excepção das situações em que se proceda também à monitorização em contínuo de, pelo menos, um poluente, nas quais os resultados da monitorização pontual são remetidos ao IA.\n\n2 - A comunicação dos resultados referida no número anterior é efectuada no prazo de 60 dias seguidos contados da data da realização da monitorização pontual e contém a informação constante do anexo II do presente diploma, de que faz parte integrante.\n\n3 - Os resultados do autocontrolo referentes à monitorização em contínuo são remetidos ao IA, de acordo com os requisitos constantes da nota técnica aprovada pelo despacho n.º 79/95, publicado no Diário da República, 2.ª série, n.º 10, de 12 de Janeiro de 1996, ou de outras que a substituam.\n\n4 - No caso de fontes pontuais sujeitas a monitorização pontual ou em contínuo, é efectuada, pelo menos uma vez de três em três anos, uma medição recorrendo a um laboratório externo acreditado.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320704": {
+   "fragment_id": "115299651",
+   "type": 8,
+   "heading": "Secção III — Cumprimento de VLE",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "#### Secção III — Cumprimento de VLE\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320705": {
+   "fragment_id": "115299652",
+   "type": 11,
+   "heading": "Artigo 24.º — Condições de cumprimento de VLE",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 24.º — Condições de cumprimento de VLE\n\n1 - No caso da monitorização em contínuo, os VLE consideram-se respeitados se a avaliação dos resultados demonstrar que, para as horas de funcionamento da fonte pontual, durante um ano civil, se verificam cumulativamente as seguintes características:\n\na) Nenhum valor médio de um mês de calendário excede o VLE;\n\nb) Nenhum valor médio diário excede em mais de 30% o VLE;\n\nc) Nenhum valor médio horário excede em mais de 100% o VLE, quando se trate de novas instalações.\n\n2 - No caso da monitorização pontual, à excepção das situações referidas no n.º 3, os VLE consideram-se respeitados se nenhum dos resultados das medições efectuadas ultrapassar o VLE respectivo.\n\n3 - Para as instalações de combustão abrangidas pelo n.º 1 do artigo 21.º, os VLE consideram-se respeitados se não forem excedidos em mais de 50%.\n\n4 - Para os efeitos do disposto nos n.os 2 e 3, a amostragem deve ser representativa das condições de funcionamento normal da instalação.\n\n5 - Se dois ou mais equipamentos independentes forem instalados ou alterados de modo que os respectivos efluentes gasosos sejam emitidos por uma única chaminé comum, tendo em conta factores técnicos e económicos, o complexo formado deve ser considerado uma única fonte de emissão.\n\n6 - Para efeitos do disposto no número anterior, são fixados VLE específicos através das portarias referidas no n.º 1 do artigo 17.º\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320706": {
+   "fragment_id": "115299653",
+   "type": 11,
+   "heading": "Artigo 25.º — Tolerâncias",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 25.º — Tolerâncias\n\n1 - Excepcionalmente, os VLE podem ser ultrapassados nos períodos de avaria ou de mau funcionamento das instalações ou dos sistemas de tratamento dos efluentes gasosos e nos períodos de arranque e paragem.\n\n2 - Os períodos máximos admitidos, de acordo com o descrito no número anterior e à excepção dos períodos de arranque e paragem, não podem exceder dezasseis horas seguidas e a sua duração total em cada ano civil não pode ultrapassar cento e setenta horas, por fonte pontual, sem prejuízo de condições específicas previstas nas portarias referidas no n.º 1 do artigo 17.º\n\n3 - Para efeitos da verificação do disposto no número anterior, é aplicável às instalações novas, bem como às existentes, a condição prevista na alínea c) do n.º 1 do artigo 24.º\n\n4 - São obrigatoriamente comunicadas à CCDR competente, num prazo de quarenta e oito horas, as situações abrangidas pelo disposto no n.º 1, com excepção dos períodos de arranque e paragem programados.\n\n5 - As CCDR remetem mensalmente ao IA todas as notificações recebidas referentes às fontes de emissão abrangidas pelo disposto no n.º 1 do artigo 20.º\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320707": {
+   "fragment_id": "115299654",
+   "type": 11,
+   "heading": "Artigo 26.º — Situações de incumprimento de VLE",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 26.º — Situações de incumprimento de VLE\n\n1 - Sempre que o operador verifique que uma situação de incumprimento de um VLE subsiste por um período superior a dezasseis horas seguidas, tem o dever de o comunicar à CCDR competente no prazo máximo de quarenta e oito horas e de adoptar de imediato as medidas correctivas adequadas, incluindo um programa de vigilância apropriado.\n\n2 - Caso as situações de incumprimento, como a referida no número anterior, ponham em risco o cumprimento dos valores limite da qualidade do ar ou o cumprimento dos limiares de alerta da qualidade do ar, a CCDR competente notifica o operador para que este, no prazo que lhe for fixado:\n\na) Reduza a capacidade de laboração; ou\n\nb) Utilize um combustível menos poluente; ou\n\nc) Adopte qualquer outra medida que promova a rápida redução das emissões do poluente atmosférico em causa.\n\n3 - Se das situações referidas nos números anteriores resultar comprovadamente perigo para a saúde pública ou para o ambiente atmosférico, a CCDR competente notifica o operador, nos termos do artigo 39.º para suspender a laboração no prazo que lhe for determinado.\n\n4 - O disposto no número anterior não se aplica se estiver em causa uma instalação cujo funcionamento seja considerado imprescindível ao interesse público, reconhecido por despacho conjunto dos Ministros da tutela e das Cidades, Ordenamento do Território e Ambiente.\n\n5 - A CCDR deve manter o IA e a entidade coordenadora do licenciamento informados aquando da ocorrência e desenvolvimentos de situações como as previstas nos números anteriores.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320708": {
+   "fragment_id": "115299655",
+   "type": 11,
+   "heading": "Artigo 27.º — Situação de não sujeição ao cumprimento de VLE",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Situação de não sujeição ao cumprimento de VLE\n\n1 - A exigência de cumprimento de um VLE fixado para um determinado poluente não se aplica a uma fonte de emissão em que se constate que as emissões desse poluente, com a instalação a funcionar à sua capacidade nominal, registem um caudal mássico inferior ao limiar mássico mínimo fixado nas portarias a que se refere o n.º 1 do artigo 17.º, para esse mesmo poluente.\n\n2 - Considera-se que uma instalação se encontra na situação prevista no número anterior se estiver abrangida pelo regime da monitorização pontual constante do n.º 4 do artigo 19.º do presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320709": {
+   "fragment_id": "115299656",
+   "type": 8,
+   "heading": "Secção IV — Equipamento",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "#### Secção IV — Equipamento\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320710": {
+   "fragment_id": "115299657",
+   "type": 11,
+   "heading": "Artigo 28.º — Metrologia",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 28.º — Metrologia\n\n1 - Os instrumentos utilizados na monitorização, pontual ou em contínuo, são periodicamente submetidos ao controlo metrológico, no caso de existir regulamentação específica, e, na falta desta, a calibrações efectuadas por laboratórios acreditados, preferencialmente no âmbito do Sistema Português da Qualidade.\n\n2 - Os instrumentos referidos no número anterior devem ser acompanhados de uma ficha técnica actualizada da realização das operações de verificação/calibração com a indicação dos procedimentos utilizados para assegurar a rastreabilidade e exactidão dos resultados das medições.\n\n3 - A ficha referida no número anterior pode constar em suporte de papel, informático ou outro adequado, e é sempre disponibilizada às entidades fiscalizadoras.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320711": {
+   "fragment_id": "115299658",
+   "type": 1,
+   "heading": "Capítulo III — Descarga de poluentes atmosféricos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "### Capítulo III — Descarga de poluentes atmosféricos\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320712": {
+   "fragment_id": "115299659",
+   "type": 11,
+   "heading": "Artigo 29.º — Normas de descarga para a atmosfera",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 29.º — Normas de descarga para a atmosfera\n\n1 - A descarga de poluentes para a atmosfera é efectuada através de uma chaminé de altura adequada para permitir uma boa dispersão dos poluentes e salvaguardar o ambiente e a saúde humana.\n\n2 - É expressamente proibida a diluição dos efluentes gasosos.\n\n3 - Salvo nas situações previstas nos n.os 2, 4, 5 e 6 do artigo 31.º e sempre que tecnicamente viável, a velocidade de saída dos gases, em regime de funcionamento normal da instalação, deve ser, pelo menos, 6 m.s(elevado a -1), se o caudal ultrapassar 5000 m3.h(elevado a -1), ou 4 m.s(elevado a -1), se o caudal for inferior ou igual a 5000 m3.h(elevado a -1).\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320713": {
+   "fragment_id": "115299660",
+   "type": 11,
+   "heading": "Artigo 30.º — Cálculo da altura de chaminés",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 30.º — Cálculo da altura de chaminés\n\n1 - A altura de uma chaminé, expressa em metros, é a distância entre o seu topo e o solo, medida na vertical, e é determinada em função do nível de emissões dos poluentes atmosféricos, dos obstáculos próximos, dos parâmetros climatológicos e das condições de descarga dos efluentes gasosos, de acordo com a metodologia de cálculo fixada por portaria conjunta dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente.\n\n2 - As chaminés não podem ter uma altura inferior a 10 m, salvo nas situações previstas nos n.os 2 a 6 do artigo 31.º\n\n3 - Nos casos em que seja comprovadamente inviável, do ponto de vista técnico e ou económico, a aplicação do disposto no n.º 1 do presente artigo e nos n.os 2 a 6 do artigo 31.º, a entidade coordenadora do licenciamento pode, mediante requerimento do operador e de acordo com o parecer prévio da CCDR competente, aprovar uma altura diferente para a chaminé, tomando sempre em consideração a adequação do valor determinado às condições processuais, aos parâmetros climatológicos e aos obstáculos à dispersão do penacho.\n\n4 - No caso de fontes pontuais dotadas com sistemas de tratamento do efluente gasoso em que seja comprovadamente inviável, do ponto de vista técnico e económico, a aplicação do disposto no n.º 1 do presente artigo, a entidade coordenadora do licenciamento pode, mediante requerimento do operador e de acordo com o parecer prévio da CCDR competente, autorizar a isenção de obrigatoriedade de construção de uma chaminé.\n\n5 - O parecer referido no número anterior é emitido num prazo de 90 dias seguidos, a contar da data da sua recepção, e deve conter as condições alternativas de controlo das emissões.\n\n6 - Sempre que se verificar que as emissões de uma instalação conduzem a uma violação dos valores limite da qualidade do ar, o operador fica obrigado a adoptar as medidas adicionais de redução das emissões que lhe forem fixadas.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320714": {
+   "fragment_id": "115299661",
+   "type": 11,
+   "heading": "Artigo 31.º — Situações especiais",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 31.º — Situações especiais\n\n1 - A portaria referida no n.º 1 do artigo 30.º identifica os casos especiais em que o cálculo da altura adequada das chaminés é condicionado à apresentação, pelo operador, de um estudo das condições locais de dispersão e difusão atmosféricas, mediante o emprego de modelos matemáticos de dispersão, ou de ensaios analógicos em modelo reduzido, tendo em atenção os parâmetros climatológicos e as características topográficas particulares da região.\n\n2 - A altura de uma chaminé cujos caudais mássicos de todos os seus poluentes atmosféricos sejam inferiores aos respectivos limiares mássicos mínimos pode ser inferior a 10 m, desde que a sua cota máxima seja superior, em 3 m, à cota máxima do obstáculo próximo mais desfavorável.\n\n3 - As chaminés das centrais betuminosas móveis localizadas a mais de 100 m de habitações podem apresentar uma altura de 8 m, desde que seja respeitado o VLE sectorial para partículas definido nas portarias referidas no n.º 1 do artigo 17.º\n\n4 - As hottes laboratoriais não estão sujeitas a VLE, devendo, todavia, a cota máxima das respectivas chaminés ser sempre superior, em pelo menos 1 m, à cota máxima do próprio edifício.\n\n5 - As estufas de secagem de madeira e de folha de madeira existentes na indústria da fileira da madeira não estão sujeitas a VLE, devendo, todavia, a cota máxima das respectivas chaminés ser sempre superior, em pelo menos 1 m, à cota máxima do obstáculo próximo mais desfavorável.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320715": {
+   "fragment_id": "115299662",
+   "type": 11,
+   "heading": "Artigo 32.º — Normas relativas à construção de chaminés",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — Normas relativas à construção de chaminés\n\n1 - A chaminé deve apresentar secção circular, o seu contorno não deve ter pontos angulosos e a variação da secção, particularmente nas proximidades da saída dos efluentes gasosos para a atmosfera, deve ser contínua e lenta, devendo ainda a convergência ser cuidadosamente realizada.\n\n2 - Não é permitida a colocação de «chapéus» ou de outros dispositivos similares que condicionem a boa dispersão dos poluentes atmosféricos no topo de qualquer chaminé associada a processos de combustão.\n\n3 - Podem ser colocados dispositivos no topo de uma chaminé associada a processos não abrangidos pelo número anterior, desde que estes não diminuam a dispersão vertical ascendente dos gases.\n\n4 - A chaminé deve ser dotada de tomas de amostragem para captação de emissões e, sempre que necessário, devem ser construídas plataformas fixas, de forma a tornar possível a realização, em segurança, das amostragens e de outras intervenções.\n\n5 - Nos casos em que não se justifique a construção de plataformas fixas, o operador deve adoptar todas as medidas de construção de apoios no local de modo a facilitar a intervenção por parte de entidades externas, nomeadamente de fiscalização.\n\n6 - As secções da chaminé onde se proceda às amostragens e as respectivas plataformas devem satisfazer os requisitos estabelecidos na norma portuguesa em vigor.\n\n7 - Nos casos em que não seja aplicável o n.º 6, e desde que tecnicamente justificado, podem ser estabelecidas secções de amostragem alternativas à mencionada no número anterior, de acordo com o disposto no artigo 22.º\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320716": {
+   "fragment_id": "115299663",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e sanções",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "### Capítulo IV — Fiscalização e sanções\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320717": {
+   "fragment_id": "115299664",
+   "type": 11,
+   "heading": "Artigo 33.º — Fiscalização",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 33.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma incumbe à Inspecção-Geral do Ambiente (IGA) e às CCDR, sem prejuízo das competências próprias de outras entidades, nomeadamente as entidades coordenadoras do licenciamento.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320718": {
+   "fragment_id": "115299665",
+   "type": 11,
+   "heading": "Artigo 34.º — Contra-ordenações e coimas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/2006 - Diário da República n.º 126/2006, Série I de 2006-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2006-537861), em vigor a partir de 2006-03-04"
+   ],
+   "markdown": "###### Artigo 34.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1850, no caso de pessoas singulares, e de (euro) 2500 a (euro) 22400, no caso de pessoas colectivas:\n\na) A violação da obrigação de assegurar que a instalação é projectada e construída de modo a reduzir emissões de poluentes atmosféricos, nos termos do disposto no n.º 1 do artigo 9.º;\n\nb) A violação da obrigação de captação e canalização das emissões difusas, para um sistema de exaustão, nos termos da alínea a) do artigo 10.º;\n\nc) A violação de obrigação de proceder à armazenagem confinada de produtos com características pulverulentas ou voláteis, nos termos da alínea b) do artigo 10.º;\n\nd) A violação da obrigação de munir os equipamentos de manipulação, transfega e transporte com dispositivos de captação e exaustão, nos termos da alínea c) do artigo 10.º;\n\ne) A violação da obrigação de pulverização com água ou aditivos dos produtos armazenados ao ar livre, nos termos da alínea d) do artigo 10.º;\n\nf) A violação da obrigação de armazenamento de produtos a granel em espaços fechados, nos termos da alínea e) do artigo 10.º;\n\ng) A violação da obrigação de pavimentação da instalação com revestimento adequado ou violação da obrigação de manter as instalações em condições de higiene e limpeza, nos termos da alínea f) do artigo 10.º;\n\nh) A violação da obrigação de dimensionamento adequado dos equipamentos de despoeiramento e de tratamento de efluentes gasosos, nos termos do n.º 1 do artigo 11.º;\n\ni) A violação da obrigação de exploração e manutenção adequada dos equipamentos referidos na alínea anterior, nos termos do n.º 2 do artigo 11.º;\n\nj) Não cumprimento da obrigação de notificação prevista nos termos do n.º 3 do artigo 11.º;\n\nl) Violação da obrigação de utilização de substâncias ou preparações menos nocivas, nos termos do n.º 1 do artigo 12.º;\n\nm) Não apresentação de um plano alternativo de monitorização ao IA, nas situações previstas no n.º 5 do artigo 20.º;\n\nn) A violação da obrigação de detenção de um comprovativo do cumprimento dos VLE aplicáveis, nos termos do n.º 3 do artigo 21.º, nos casos de dispensa de monitorização de fontes pontuais, ao abrigo dos n.os 1 e 2 do artigo 21.º;\n\no) A violação da obrigação de detenção de um registo actualizado do número de horas de funcionamento e de consumo de combustível anuais, nos termos do n.º 4 do artigo 21.º, nos casos de dispensa de monitorização, ao abrigo dos n.os 1 e 2 do mesmo artigo;\n\np) A violação da obrigação de utilização dos métodos definidos nos termos do artigo 22.º;\n\nq) Não cumprimento da obrigação de monitorização das emissões com recurso a um laboratório externo, nos termos do n.º 4 do artigo 23.º;\n\nr) Não cumprimento de obrigação de comunicação à CCDR, prevista no n.º 4 do artigo 25.º;\n\ns) Não cumprimento das obrigações de controlo metrológico dos equipamentos de monitorização, previstas nos n.os 1 e 2 do artigo 28.º;\n\nt) Violação do cumprimento da velocidade de saída dos gases, nos termos do n.º 3 do artigo 29.º;\n\nu) Violação das medidas adicionais impostas nos termos do n.º 6 do artigo 30.º\n\n2 - Constitui contra-ordenação grave, punível com coima de (euro) 500 a (euro) 3700, no caso de pessoas singulares, e de (euro) 5000 a (euro) 44800, no caso de pessoas colectivas:\n\na) Não cumprimento dos limites máximos de horas previstos no n.º 5 do artigo 11.º;\n\nb) A violação da proibição de queima a céu aberto prevista no n.º 1 do artigo 13.º;\n\nc) A violação da obrigação de cumprimento dos VLE, estabelecida no n.º 2 do artigo 17.º;\n\nd) A violação da obrigação da realização do autocontrolo, nos termos do artigo 18.º;\n\ne) A violação da obrigação de realização da monitorização pontual, nos termos do n.º 1 do artigo 19.º;\n\nf) Não cumprimento da obrigação de monitorização em contínuo, nos termos exigidos nos n.os 1, 2 e 3 do artigo 20.º;\n\ng) Incumprimento de obrigação de envio à CCDR ou ao IA dos resultados de monitorização, nos termos dos n.os 1, 2 e 3 do artigo 23.º;\n\nh) Não cumprimento de qualquer das medidas previstas nos n.os 1 e 2 do artigo 26.º, nas situações de incumprimento de VLE;\n\ni) Violação da obrigação de descarga de poluentes para a atmosfera através de uma chaminé, nos termos do n.º 1 do artigo 29.º;\n\nj) Violação da proibição de diluição dos efluentes gasosos, nos termos do n.º 2 do artigo 29.º;\n\nl) Não cumprimento da metodologia de cálculo de altura das chaminés fixada na portaria prevista no n.º 1 do artigo 30.º;\n\nm) Violação da altura mínima das chaminés, nos termos previstos no n.º 2 do artigo 30.º;\n\nn) Não cumprimento das condições de controlo das emissões impostas no n.º 5 do artigo 30.º;\n\no) Não cumprimento das normas relativas à construção de chaminés, previstas no artigo 32.º\n\n3 - A tentativa e a negligência são puníveis, sendo nesse caso reduzidos para metade os limites mínimos e máximos das coimas referidos no presente artigo.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/2006 - Diário da República n.º 126/2006, Série I de 2006-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2006-537861), em vigor a partir de 2006-03-04"
+  },
+  "116320719": {
+   "fragment_id": "115299666",
+   "type": 11,
+   "heading": "Artigo 35.º — Sanções acessórias",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 35.º — Sanções acessórias\n\n1 - Às contra-ordenações previstas no artigo anterior podem, em simultâneo com coima e nos termos da lei geral, ser aplicadas as seguintes sanções acessórias:\n\na) Perda a favor do Estado dos objectos pertencentes ao agente e utilizados na prática da infracção;\n\nb) Interdição do exercício da actividade;\n\nc) Privação do direito a subsídios ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás.\n\n2 - A aplicação de sanções acessórias ao abrigo do presente artigo deve ser comunicada à entidade coordenadora do licenciamento da actividade em causa e publicitada.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320720": {
+   "fragment_id": "115299667",
+   "type": 11,
+   "heading": "Artigo 36.º — Instrução e decisão dos processos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 36.º — Instrução e decisão dos processos\n\n1 - A instauração e a instrução dos processos relativos às contra-ordenações referidas no artigo 34.º é da competência da IGA e das CCDR, nas áreas sob a sua jurisdição.\n\n2 - Compete ao dirigente máximo da entidade que tenha instruído o processo de contra-ordenação decidir a aplicação de coimas e de sanções acessórias.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320721": {
+   "fragment_id": "115299668",
+   "type": 11,
+   "heading": "Artigo 37.º — Produto das coimas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 37.º — Produto das coimas\n\nO produto das coimas previstas no artigo 34.º é afectado, independentemente da fase processual em que estas forem liquidadas, da seguinte forma:\n\na) 10% para a entidade que tenha levantado o auto;\n\nb) 30% para a entidade que instrui o processo e aplica a coima;\n\nc) 60% para o Estado.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320722": {
+   "fragment_id": "115299669",
+   "type": 11,
+   "heading": "Artigo 38.º — Responsabilidade por danos ao ambiente",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2006 - Diário da República n.º 126/2006, Série I de 2006-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2006-537861), em vigor a partir de 2006-03-04"
+   ],
+   "markdown": "###### Artigo 38.º — Responsabilidade por danos ao ambiente\n\n1 - Aquele que, com dolo ou mera culpa, infringir as disposições do presente diploma, provocando danos no ambiente, em geral, e afectando a qualidade do ambiente atmosférico, em particular, fica constituído na obrigação de indemnizar o Estado pelos danos a que der causa.\n\n2 - O referido no número anterior não prejudica o exercício pelos particulares da pretensão indemnizatória fundada no n.º 4 do artigo 40.º da Lei n.º 11/87, de 7 de Abril, e demais legislação aplicável.\n\n3 - Quando não seja possível quantificar com precisão o dano causado, o tribunal fixará, com recurso a critérios de equidade, o montante da indemnização, tomando em consideração, nomeadamente, a lesão da componente ambiental, o custo previsível da reposição da situação anterior à prática do acto danoso e o proveito económico eventualmente angariado mediante a prática da infracção.\n\n4 - Em caso de concurso de infractores, a responsabilidade pelo dano é solidária.\n\n5 - (Revogado).\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2006 - Diário da República n.º 126/2006, Série I de 2006-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2006-537861), em vigor a partir de 2006-03-04"
+  },
+  "116320723": {
+   "fragment_id": "115299670",
+   "type": 11,
+   "heading": "Artigo 39.º — Medidas cautelares",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 39.º — Medidas cautelares\n\n1 - O inspector-geral do Ambiente ou o dirigente máximo da CCDR podem, por despacho, sempre que seja detectada uma situação de perigo grave para o ambiente atmosférico ou para a qualidade do ar, adoptar as medidas cautelares que em cada caso se justifiquem para prevenir ou eliminar a situação de perigo, nomeadamente a suspensão da laboração da instalação, o encerramento no todo ou em parte da instalação ou a apreensão do todo ou parte do equipamento, mediante selagem.\n\n2 - A cessação das medidas cautelares previstas no número anterior é determinada, a requerimento do operador, por despacho do inspector-geral do Ambiente ou do dirigente máximo da CCDR, após verificação de que a situação de perigo grave para o ambiente atmosférico ou para a qualidade do ar cessou.\n\n3 - A adopção de medidas cautelares ao abrigo do presente artigo, bem como a sua cessação, é comunicada de imediato ao IA e à entidade coordenadora do licenciamento da instalação em causa.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320724": {
+   "fragment_id": "115299671",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320725": {
+   "fragment_id": "115299672",
+   "type": 11,
+   "heading": "Artigo 40.º — Revisão de VLE e de limiares mássicos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 40.º — Revisão de VLE e de limiares mássicos\n\nOs VLE e os limiares mássicos serão revistos por meio de portarias dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, tendo em conta a evolução da melhor tecnologia disponível e a situação do ambiente atmosférico no território nacional.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320726": {
+   "fragment_id": "115299673",
+   "type": 11,
+   "heading": "Artigo 41.º — Aplicação às Regiões Autónomas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 41.º — Aplicação às Regiões Autónomas\n\n1 - O regime previsto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.\n\n2 - Os serviços e organismos das respectivas administrações regionais devem remeter ao IA as informações necessárias no âmbito do INEPA, bem como todas as demais que lhes forem solicitadas por aquele Instituto, para efeitos do cumprimento de compromissos assumidos ao nível da União Europeia.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320727": {
+   "fragment_id": "115299674",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\n1 - Com a entrada em vigor do presente diploma é revogado o Decreto-Lei n.º 352/90, de 9 de Novembro.\n\n2 - Com a entrada em vigor das portarias previstas no n.º 1 do artigo 17.º do presente diploma é revogado o disposto nos n.os 5.º e 6.º da Portaria n.º 286/93, de 12 de Março, bem como as Portarias n.os 1058/94, de 2 de Dezembro, e 1387/2003, de 22 de Dezembro.\n\n3 - As referências ao artigo 5.º do Decreto-Lei n.º 352/90, de 9 de Novembro, contidas nas portarias mencionadas no número anterior consideram-se feitas ao artigo 17.º do presente diploma a partir da data de entrada em vigor deste.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320728": {
+   "fragment_id": "115304875",
+   "type": 11,
+   "heading": "Artigo 43.º — Disposições transitórias aplicáveis às instalações existentes",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 43.º — Disposições transitórias aplicáveis às instalações existentes\n\n1 - Para se adaptarem ao regime estabelecido no presente diploma as instalações existentes que estavam abrangidas pelo âmbito do Decreto-Lei n.º 352/90, de 9 de Novembro, dispõem de dois anos, contados a partir da data da entrada em vigor do presente decreto-lei, ou, se posterior, da data em que finalizam o seu processo de licenciamento, com excepção da disposição constante do n.º 1 do artigo 11.º, de cuja aplicação ficam isentas.\n\n2 - As instalações existentes que não estavam abrangidas pelo Decreto-Lei n.º 352/90, de 9 de Novembro, dispõem de dois anos, contados da data de entrada em vigor do presente diploma, ou, se posterior, da data em que finalizam o seu processo de licenciamento, para se adaptarem ao presente regime.\n\n3 - Até à entrada em vigor da portaria prevista no n.º 1 do artigo 30.º, continuarão sujeitas ao que se dispõe no n.º 1 do artigo 31.º as instalações industriais de potência térmica superior a 50 MW ou que se localizem em áreas classificadas ao abrigo do Decreto-Lei n.º 613/76, de 27 de Julho.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320729": {
+   "fragment_id": "115304876",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 90 dias a contar da data da sua publicação.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320730": {
+   "fragment_id": "115304877",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.\n\nPromulgado em 22 de Março de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Março de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320731": {
+   "fragment_id": "115304878",
+   "type": 14,
+   "heading": "Anexo I — Elementos constituintes do plano de monitorização para o autocontrolo no caso de fontes múltiplas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "## Anexo I — Elementos constituintes do plano de monitorização para o autocontrolo no caso de fontes múltiplas\n\nA - Dados relativos ao estabelecimento:\n\na) Denominação e localização;\n\nb) Descrição da(s) actividade(s) e, se possível, o fluxograma do processo;\n\nc) Capacidade instalada e data de licenciamento.\n\nB - Dados relativos às fontes pontuais:\n\nListagem e descrição das fontes pontuais, incluindo denominação interna (código) de cada uma delas, planta com a respectiva localização e identificação, actividade/processo associado a cada fonte, regime de funcionamento respectivo (contínuo ou descontínuo, cíclico), características das respectivas chaminés (altura, diâmetro interno, cota de implantação) e indicação da(s) fonte(s) para a qual se efectua o pedido.\n\nC - Dados relativos às emissões de poluentes atmosféricos:\n\na) Relatórios, nos termos do anexo II, de monitorização pontual efectuada nas chaminés que constituem as fontes múltiplas em causa, no último ano de actividade;\n\nb) Plano de monitorização para as fontes pontuais múltiplas em causa, incluindo o número de chaminés a monitorizar, de acordo com o quadro n.º 1, e respectiva identificação, a periodicidade e os poluentes a medir.\n\nQUADRO N.º 1\n\nNúmero de chaminés a monitorizar no caso de fontes múltiplas\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  },
+  "116320732": {
+   "fragment_id": "115304879",
+   "type": 14,
+   "heading": "Anexo II — Especificações sobre o conteúdo do relatório de autocontrolo",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "## Anexo II — Especificações sobre o conteúdo do relatório de autocontrolo\n\nUm relatório de caracterização de efluentes gasosos para verificação da conformidade com a legislação sobre emissões de poluentes atmosféricos deve conter, no mínimo, a seguinte informação:\n\na) Nome e localização do estabelecimento;\n\nb) Identificação da(s) fonte(s) alvo de monitorização (instalação a que está associada) e denominação interna (código);\n\nc) Dados da entidade responsável pela realização dos ensaios, incluindo a data da recolha e da análise;\n\nd) Data do relatório;\n\ne) Data de realização dos ensaios, diferenciando entre recolha e análise;\n\nf) Identificação dos técnicos envolvidos nos ensaios, indicando explicitamente as operações de recolha, análise e responsável técnico;\n\ng) Objectivo dos ensaios;\n\nh) Normas utilizadas nas determinações e indicação dos desvios, justificação e consequências;\n\ni) Descrição sumária da instalação incluindo, sempre que possível, o respectivo layout (exemplo: capacidade nominal, combustíveis utilizados, equipamentos de redução, etc.);\n\nj) Condições relevantes de operação durante o período de realização do ensaio (exemplo: capacidade utilizada, matérias-primas, etc.);\n\nl) Existência de planos de monitorização, VLE específicos definidos pela entidade coordenadora do licenciamento ou qualquer isenção concedida no âmbito do presente diploma (ver nota *);\n\nm) Informações relativas ao local de amostragem (exemplo: dimensões da chaminé/conduta, número de pontos de toma, número de tomas de amostragem, etc.);\n\nn) Condições relevantes do escoamento durante a realização dos ensaios (teor de oxigénio, pressão na chaminé, humidade, massa molecular, temperatura, velocidade e caudal do efluente gasoso-efectivo e PTN, expressos em unidades SI);\n\no) Resultados e precisão considerando os algarismos significativos expressos nas unidades em que são definidos os VLE, indicando concentrações «tal-qual» medidas e corrigidas para o teor de O(índice 2) adequado;\n\np) Comparação dos resultados com os VLE aplicáveis. Apresentação de caudais mássicos;\n\nq) No caso de fontes múltiplas, deverá ser apresentada a estimativa das emissões das fontes inseridas no plano, com o respectivo factor de emissão, calculado a partir das fontes caracterizadas;\n\nr) Indicação dos equipamentos de medição utilizados.\n\nAnexos: detalhes sobre o sistema de qualidade utilizado; certificados de calibração dos equipamentos de medição; cópias de outros dados de suporte essenciais.\n\n(nota *) Deverá ser remetida apenas no primeiro relatório, ou sempre que ocorra uma alteração substancial.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 39/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), em vigor a partir de 2018-07-01"
+  }
+ }
+}

@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:105750649:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 3/2017/M
+short_title: null
+summary: Recomenda ao Governo da República que tome as diligências necessárias para proceder à transferência dos documentos
+  produzidos por instituições regionais que se encontram na Torre do Tombo, para o Arquivo Regional da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 3/2017/M
+official_date: null
+publication_date: '2017-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2017, Série I de 2017-01-12
+  number: '9'
+  series: I
+  supplement: null
+  pages: 409 - 409
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00900/0040900409.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/3/2017/01/12/m/dre/pt/html
+  oj: null
+  dre: '105750649'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/3-2017-105750649
+  internal: pt:dre:105750649:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/3-2017-105750649
+  metadata_url: https://data.dre.pt/eli/resolalram/3/2017/01/12/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/3-2017-105750649
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 49d2ab1fc0bb1d4c294f60e56c753ef2289e452e54144160f8f70e90e68f9376
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo Nacional da Torre do Tombo
+- Arquivo Regional da Madeira
+- Documentação
+- Documentação Classificada
+- Governo
+- Património Cultural
+- Recomendação
+relationships:
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:552048:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2012/05/16/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:52:33Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 3/2017/M
+
+Recomenda ao Governo da República que tome as diligências necessárias à transferência, para a Região Autónoma da Madeira, dos documentos produzidos por instituições regionais que se encontram na Torre do Tombo.
+
+Nos finais do século XIX, foram levados para Lisboa vários documentos produzidos na Região Autónoma da Madeira, nomeadamente, os documentos do Cabido da Sé do Funchal, do Convento de Santa Clara, do Convento da Encarnação, da Provedoria da Real Fazenda e da Alfândega do Funchal.
+
+Estes documentos, que integram o Património Cultural da Região Autónoma da Madeira, na sua vertente de Património Arquivístico são, desde 1932, solicitados pela Região, tendo sido a sua reivindicação reafirmada após a inauguração das novas instalações do Arquivo Regional da Madeira, e constantemente renovada, através do Governo Regional, da Assembleia Legislativa e da Assembleia da República, perante os sucessivos governos da República. Recorde-se o voto de protesto aprovado pela Assembleia Legislativa, em 2005, no qual se reiterou que os referidos documentos foram transferidos para Lisboa com o compromisso de ali permanecerem somente até o novo arquivo ficar concluído.
+
+O Arquivo Regional da Madeira integra serviços de excelência no âmbito da arquivística e da preservação, conservação e restauro do património de reconhecida importância histórica e cultural, reunindo, assim, todos os requisitos para receber a documentação que, no presente, se encontra na Torre do Tombo, em Lisboa, e que foi produzida na Região, pelo que, consubstancia a base da memória coletiva, diversa e múltipla da Região Autónoma da Madeira.
+
+Entende-se que a transferência deste acervo para a Região permitiria democratizar e simplificar o contacto da população «originária» com os documentos que construíram a sua própria história, instituindo-se esta transferência, inclusivamente, como fator de cidadania.
+
+Assim,
+
+A Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho e revisto e alterado pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho e pelo facto de esta matéria integrar as atribuições cometidas pelo [Decreto-Lei n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2012-552048), de 16 de maio, à Direção-Geral do Livro, dos Arquivos e das Bibliotecas, recomendar ao Governo da República que tome as diligências necessárias para proceder à transferência dos documentos produzidos por instituições regionais que se encontram na Torre do Tombo, para o Arquivo Regional da Madeira.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de dezembro de 2016.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.

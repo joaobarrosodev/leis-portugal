@@ -1,0 +1,363 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R0930:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R0930-20090812",
+ "dre_path": null,
+ "source_lastmod": "2009-08-12",
+ "versions": [
+  {
+   "date": "2000-05-05",
+   "future": false,
+   "celex": "32000R0930",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1c79ab466326a37c",
+    "b711da3b696b59c5",
+    "c4bac063cd1c598f",
+    "40cd1fdb4f536be8",
+    "0c5e14ad282b44b8",
+    "2db35049997e78c2",
+    "4c5b34b8f7591b74",
+    "2ef057ea19efb196",
+    "55082e4a26216bf6",
+    "0663eee4371e35d7"
+   ]
+  },
+  {
+   "date": "2004-11-11",
+   "future": false,
+   "celex": "02000R0930-20041111",
+   "acts": [
+    {
+     "id": "eu:celex:32004R1831:por",
+     "title": "REGULAMENTO (CE) N. o 1831/2004 DA COMISSÃO de 21 de Outubro de 2004",
+     "published": null,
+     "celex": "32004R1831"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Adita ANEXO",
+    "Adita ESPÉCIES ESTREITAMENTE RELACIONADAS",
+    "Adita [Alínea b) do artigo 4.º]",
+    "Adita Notas",
+    "Suprime ANEXO — ESPÉCIES ESTREITAMENTE RELACIONADAS"
+   ],
+   "fragments": [
+    "97192df851b6f6de",
+    "6b1226e267edc9b0",
+    "15e66aba628cc27c",
+    "626a835a1e111d43",
+    "8fdeacfe397ea76a",
+    "5ec03a825200bd90",
+    "074e1bbe32657380",
+    "2ef057ea19efb196",
+    "5f5445369d4ae902",
+    "10220b9774fa9034",
+    "70b17a08ca3e3105",
+    "d77fee4d408590da",
+    "c88c95e3943ec3bd"
+   ]
+  },
+  {
+   "date": "2007-08-22",
+   "future": false,
+   "celex": "02000R0930-20070822",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0920:por",
+     "title": "REGULAMENTO (CE) N. o 920/2007 DA COMISSÃO de 1 de Agosto de 2007",
+     "published": null,
+     "celex": "32007R0920"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita Espécies estreitamente relacionadas",
+    "Suprime ESPÉCIES ESTREITAMENTE RELACIONADAS",
+    "Suprime [Alínea b) do artigo 4.º]"
+   ],
+   "fragments": [
+    "ac75f8b7f5d433ae",
+    "6b1226e267edc9b0",
+    "c5ad2118b207e5dc",
+    "626a835a1e111d43",
+    "0ff0cabf8a7eece5",
+    "5ec03a825200bd90",
+    "074e1bbe32657380",
+    "d904eac6e6fd34c9",
+    "5f5445369d4ae902",
+    "10220b9774fa9034",
+    "3fdacc067f6e2dc3",
+    "7c65141e03490da5"
+   ]
+  },
+  {
+   "date": "2009-08-12",
+   "future": false,
+   "celex": "02000R0930-20090812",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime ANEXO",
+    "Suprime Espécies estreitamente relacionadas",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "929d127e501e014c"
+   ]
+  }
+ ],
+ "fragments": {
+  "1c79ab466326a37c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 5.5.2000 | PT | Jornal Oficial da União Europeia | L 108/3 |\n| --- | --- | --- | --- |\n\nREGULAMENTO (CE) N.o 930/2000 DA COMISSÃO\n\nde 4 de Maio de 2000\n\nque estabelece as regras de execução relativas à adequação das denominações das variedades das espécies de plantas agrícolas e das espécies de plantas hortícolas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/457/CEE do Conselho, de 29 de Setembro de 1970, que diz respeito ao catálogo comum das variedades das espécies de plantas agrícolas[(1)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntr1-L_2000108PT.01000301-E0001), com a última redacção que lhe foi dada pela Directiva 98/96/CE[(2)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntr2-L_2000108PT.01000301-E0002), e, nomeadamente, o n.o 6 do seu artigo 9.o,\n\nTendo em conta a Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas[(3)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntr3-L_2000108PT.01000301-E0003), com a última redacção que lhe foi dada pela Directiva 98/96/CE, e, nomeadamente, o n.o 6 do seu artigo 10.o,\n\nConsiderando o seguinte:\n\n(1) As Directivas 70/457/CEE e 70/458/CEE estabeleceram regras gerais respeitantes à adequação das denominações das variedades, através de uma referência ao artigo 63.o do Regulamento (CE) n.o 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais[(4)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntr4-L_2000108PT.01000301-E0004), alterado pelo Regulamento (CE) n.o 2506/95[(5)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntr5-L_2000108PT.01000301-E0005).\n\n(2) Para efeitos da aplicação das Directivas 70/457/CEE e 70/458/CEE, é adequado estabelecer regras de execução dos critérios estabelecidos pelo artigo 63.o do Regulamento (CE) n.o 2100/94, nomeadamente no que se refere aos impedimentos para a designação de uma denominação varietal especificados nos seus n.os 3 e 4. Numa primeira fase, tais regras de execução devem limitar-se aos seguintes impedimentos: — utilização excluída por um direito anterior de um terceiro, — dificuldades em matéria de reconhecimento ou reprodução, — denominações idênticas ou susceptíveis de ser confundidas com a denominação varietal de uma outra variedade, — denominações idênticas ou susceptíveis de ser confundidas com outras designações, — denominações susceptíveis de induzir em erro ou causar confusão quanto às características da variedade ou outros aspectos.\n\n— utilização excluída por um direito anterior de um terceiro,\n\n— dificuldades em matéria de reconhecimento ou reprodução,\n\n— denominações idênticas ou susceptíveis de ser confundidas com a denominação varietal de uma outra variedade,\n\n— denominações idênticas ou susceptíveis de ser confundidas com outras designações,\n\n— denominações susceptíveis de induzir em erro ou causar confusão quanto às características da variedade ou outros aspectos.\n\n(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b711da3b696b59c5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece, para efeitos da aplicação do n.o 6, primeiro parágrafo, do artigo 9.o da Directiva 70/457/CEE e do n.o 6, primeiro parágrafo, do artigo 10.o da Directiva 70/458/CEE, regras de execução de determinados critérios estabelecidos pelo artigo 63.o do Regulamento (CE) n.o 2100/94 para a elegibilidade de denominações de variedades."
+  },
+  "c4bac063cd1c598f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. No caso de uma marca registada como um direito anterior de um terceiro, a utilização de uma denominação varietal no território da Comunidade é considerada excluída pela notificação à autoridade competente para a aprovação da denominação varietal de uma marca registada num ou mais Estados-Membros ou a nível comunitário, antes da aprovação da denominação varietal, que seja idêntica ou similar à denominação varietal e esteja registada para mercadorias idênticas ou similares à variedade vegetal em causa.\n\n2. No caso de um direito anterior do requerente em relação à totalidade ou parte da denominação proposta, o n.o 1 do artigo 18.o do Regulamento (CE) n.o 2100/94 aplicar-se-á mutatis mutandis."
+  },
+  "40cd1fdb4f536be8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Considera-se que uma denominação varietal causa dificuldades aos seus utilizadores em matéria de reconhecimento ou reprodução nos seguintes casos:\n\na) Quando tiver a forma de uma «denominação de fantasia» e: i) Consistir numa única letra; ii) Consistir numa série de letras que não formem uma palavra pronunciável ou contiver essa série de letras como uma entidade separada, excepto se essa série for uma abreviatura consagrada; iii) Contiver um algarismo, excepto quando este for parte integrante do nome ou quando indicar que a variedade faz ou fará parte de uma série numerada de variedades biologicamente relacionadas; iv) Consistir em mais de três componentes; no entanto, no caso do n.o 4 do artigo 63.o do Regulamento (CE) n.o 2100/94, a existência de mais de três componentes não será considerada um impedimento; v) Consistir numa palavra excessivamente longa ou contiver uma palavra excessivamente longa; vi) Contiver um hífen, um espaço em branco que não se situe entre as entidades em que consiste, outro sinal, uma mistura de minúsculas e maiúsculas no interior das entidades, um expoente, um índice, um símbolo ou um desenho;\n\ni) Consistir numa única letra;\n\nii) Consistir numa série de letras que não formem uma palavra pronunciável ou contiver essa série de letras como uma entidade separada, excepto se essa série for uma abreviatura consagrada;\n\niii) Contiver um algarismo, excepto quando este for parte integrante do nome ou quando indicar que a variedade faz ou fará parte de uma série numerada de variedades biologicamente relacionadas;\n\niv) Consistir em mais de três componentes; no entanto, no caso do n.o 4 do artigo 63.o do Regulamento (CE) n.o 2100/94, a existência de mais de três componentes não será considerada um impedimento;\n\nv) Consistir numa palavra excessivamente longa ou contiver uma palavra excessivamente longa;\n\nvi) Contiver um hífen, um espaço em branco que não se situe entre as entidades em que consiste, outro sinal, uma mistura de minúsculas e maiúsculas no interior das entidades, um expoente, um índice, um símbolo ou um desenho;\n\nb) Quando tiver a forma de um «código» e: i) Consistir apenas num ou mais algarismos, excepto no caso de linhas puras ou de tipos de variedades similarmente específicos; ii) Consistir numa única letra; iii) Contiver mais do que dez letras ou letras e algarismos; iv) Contiver mais do que quatro grupos alternados de uma letra ou letras e de um algarismo ou algarismos; v) Contiver um hífen, um espaço em branco que não constitua uma separação de uma palavra pronunciável, outro sinal, um expoente, um índice, um símbolo ou um desenho.\n\ni) Consistir apenas num ou mais algarismos, excepto no caso de linhas puras ou de tipos de variedades similarmente específicos;\n\nii) Consistir numa única letra;\n\niii) Contiver mais do que dez letras ou letras e algarismos;\n\niv) Contiver mais do que quatro grupos alternados de uma letra ou letras e de um algarismo ou algarismos;\n\nv) Contiver um hífen, um espaço em branco que não constitua uma separação de uma palavra pronunciável, outro sinal, um expoente, um índice, um símbolo ou um desenho.\n\n2. Aquando da apresentação da proposta relativa a uma denominação varietal, o requerente deve declarar se a denominação proposta tem a forma de uma «denominação de fantasia» ou de um «código».\n\n3. Se o requerente não fizer qualquer declaração sobre a forma da denominação proposta, a denominação será considerada uma «denominação de fantasia»."
+  },
+  "0c5e14ad282b44b8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAo avaliar a identidade ou confusão com a denominação varietal de uma outra variedade, são aplicáveis as seguintes disposições:\n\na) Considera-se que «susceptível de ser confundida com» abrange, inter alia, a denominação de uma variedade com uma diferença de apenas uma letra ou algarismo, ou de acentos em letras, relativamente à denominação varietal de uma variedade de uma espécie estreitamente relacionada, que tenha sido oficialmente aceite para comercialização na Comunidade, no Espaço Económico Europeu ou numa parte contratante da União Internacional para a Protecção das Obtenções Vegetais, ou que seja objecto de um direito varietal nesses territórios; no entanto, não é abrangida uma diferença de apenas uma letra numa abreviatura consagrada como uma entidade separada da denominação varietal. Sem prejuízo do artigo 6.o, a presente disposição não se aplica a uma denominação varietal sob a forma de um código, se a denominação varietal de referência tiver também a forma de um código;\n\nb) Consideram-se «espécies estreitamente relacionadas» as espécies que estejam contidas na mesma classe em conformidade com o anexo ou, se não for caso disso, que pertençam ao mesmo género botânico;\n\nc) Considera-se que uma «variedade que já não existe» é uma variedade que já não tem existência comercial;\n\nd) «Um registo oficial de variedades vegetais» considera-se como uma referência ao catálogo comum de variedades de espécies de plantas agrícolas ou ao de espécies de plantas hortícolas ou a um registo compilado e mantido pelo Instituto Comunitário das Variedades Vegetais, por um organismo oficial dos Estados-Membros da Comunidade ou do Espaço Económico Europeu ou por uma parte contratante da União Internacional para a Protecção das Obtenções Vegetais;\n\ne) «Variedade cuja denominação não tenha adquirido especial relevância»: considera-se que a denominação de uma variedade que, num determinado momento, tenha sido inscrita num registo oficial de variedades vegetais e que tenha, assim, adquirido uma relevância especial perde essa relevância quando tiver expirado um período de dez anos após a sua supressão desse registo."
+  },
+  "2db35049997e78c2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão consideradas designações correntemente utilizadas para a comercialização de mercadorias ou que têm que permanecer livres nos termos de outra legislação:\n\na) As denominações monetárias ou os termos associados com pesos e medidas;\n\nb) Os termos que se tenham tornado parte da linguagem corrente na totalidade ou em parte da Comunidade e cuja aprovação como denominação varietal impediria a sua utilização por outrem aquando da comercialização de materiais de reprodução ou propagação de outras variedades;\n\nc) As expressões que, por força da legislação, não possam ser utilizadas para fins diferentes dos previstos por essa legislação."
+  },
+  "4c5b34b8f7591b74": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nConsidera-se que uma denominação varietal pode induzir em erro ou causar confusão se:\n\na) Transmitir a falsa impressão de que a variedade tem características ou valor especiais;\n\nb) Transmitir a falsa impressão de que a variedade está relacionada com, ou deriva de, outra variedade específica;\n\nc) Se referir a uma característica ou valor específicos de uma forma que transmita a falsa impressão de que apenas essa variedade os possui, quando, na realidade, outras variedades da mesma espécie possam possuir a mesma característica ou valor;\n\nd) Por força da sua similaridade com uma denominação comercial bem conhecida, diferente de uma marca registada ou de uma denominação varietal, sugira que a variedade é uma outra variedade ou transmita uma falsa impressão sobre a identidade do requerente, da pessoa responsável pela manutenção da variedade ou do reprodutor;\n\ne) Consista em, ou contenha: i) Comparativos ou superlativos; ii) O nome botânico, ou parte do nome botânico, de um género ou espécie do reino vegetal; iii) O nome vulgar de um género ou espécie do reino vegetal pertencente quer ao grupo de espécies de plantas agrícolas quer ao de espécies de plantas hortícolas a que a variedade pertence; ou iv) O nome de uma pessoa singular ou colectiva, ou uma referência a esse nome, de forma a transmitir uma falsa impressão quanto à identidade do requerente, da pessoa responsável pela manutenção da variedade ou do reprodutor.\n\ni) Comparativos ou superlativos;\n\nii) O nome botânico, ou parte do nome botânico, de um género ou espécie do reino vegetal;\n\niii) O nome vulgar de um género ou espécie do reino vegetal pertencente quer ao grupo de espécies de plantas agrícolas quer ao de espécies de plantas hortícolas a que a variedade pertence; ou\n\niv) O nome de uma pessoa singular ou colectiva, ou uma referência a esse nome, de forma a transmitir uma falsa impressão quanto à identidade do requerente, da pessoa responsável pela manutenção da variedade ou do reprodutor."
+  },
+  "2ef057ea19efb196": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs denominações varietais que tenham sido aceites sob a forma de um código serão claramente indicadas como tais no catálogo ou catálogos oficiais respectivos dos Estados-Membros relativos às variedades vegetais oficialmente aceites, ou no catálogo comum respectivo, por uma nota de pé-de-página com a seguinte menção: «denominação varietal aprovada sob a forma de um “código”»."
+  },
+  "55082e4a26216bf6": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n2. O presente regulamento não será aplicável a denominações varietais que tiverem sido propostas pelo requerente à autoridade competente para aprovação destas antes da data da sua entrada em vigor.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 4 de Maio de 2000.\n\nPela Comissão\n\nDavid BYRNE\n\nMembro da Comissão\n\n[(1)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntc1-L_2000108PT.01000301-E0001) [JO L 225 de 12.10.1970, p. 1](http://publications.europa.eu/resource/oj/JOL_1970_225_R_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntc2-L_2000108PT.01000301-E0002) [JO L 25 de 1.2.1999, p. 27](http://publications.europa.eu/resource/oj/JOL_1999_025_R_TOC).\n\n[(3)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntc3-L_2000108PT.01000301-E0003) [JO L 225 de 12.10.1970, p. 7](http://publications.europa.eu/resource/oj/JOL_1970_225_R_TOC).\n\n[(4)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntc4-L_2000108PT.01000301-E0004) [JO L 227 de 1.9.1994, p. 1](http://publications.europa.eu/resource/oj/JOL_1994_227_R_TOC).\n\n[(5)](http://publications.europa.eu/resource/cellar/cc8ca36c-fa05-45e3-b1f1-2edc3af0fb99.0009.05/DOC_1#ntc5-L_2000108PT.01000301-E0005) [JO L 258 de 28.10.1995, p. 3](http://publications.europa.eu/resource/oj/JOL_1995_258_R_TOC)."
+  },
+  "0663eee4371e35d7": {
+   "fragment_id": "ANEXO — ESPÉCIES ESTREITAMENTE RELACIONADAS",
+   "type": "divisao",
+   "heading": "ANEXO — ESPÉCIES ESTREITAMENTE RELACIONADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESPÉCIES ESTREITAMENTE RELACIONADAS\n\n[Alínea b) do artigo 4.o]\n\nClasse A (UPOV classe 1): Avena, Hordeum, Secale, Triticale, Triticum\n\nClasse B (UPOV classe 3): Sorghum, Zea\n\nClasse C (UPOV classe 4): Agrostis, Alopecurus, Arrhenatherum, Bromus, Cynosurus, Dactylis, Festuca, Lolium, Phalaris, Phleum, Poa, Trisetum\n\nClasse D (UPOV classe 5): Brassica oleracea, Brassica chinensis, Brassica pekinensis\n\nClasse E (UPOV classe 6): Brassica napus, Brassica campestis, Brassica rapa, Brassica juncea, Brassica nigra, Sinapis\n\nClasse F (UPOV classe 7): Lotus, Medicago, Ornithopus, Onobrychis, Trifolium\n\nClasse G (UPOV classe 8): Lupinus albus L., Lupinus angustifolius L., Lupinus luteus L.\n\nClasse H (UPOV classe 9): Vicia fabia L.\n\nClasse I (UPOV classe 10): Beta vulgaris L. var. alba DC., Beta vulgaris L. var. altissima\n\nClasse K (UPOV classe 11): Beta vulgaris ssp. vulgaris var. conditiva Alef. (syn.: Beta vulgaris L. var. rubra L.), Beta vulgaris L. var. cicla L., Beta vulgaris L. ssp. vulgaris var. vulgaris\n\nClasse L (UPOV classe 12): Lactuca, Valerianella, Cichorium\n\nClasse M (UPOV classe 13): Cucumis sativus\n\nClasse N (UPOV classe 14): Citrullus, Cucumis melo, Cucurbita\n\nClasse O (UPOV classe 15): Anthriscus, Petroselinum\n\nClasse P (UPOV classe 16): Daucus, Pastinaca\n\nClasse Q (UPOV classe 17): Anethum, Carum, Foeniculum\n\nClasse R (UPOV classe 21): Solanum tuberosum L.\n\nClasse S (UPOV classe 24): Helianthus annuus"
+  },
+  "97192df851b6f6de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Maio de 2000\n\nque estabelece as regras de execução relativas à adequação das denominações das variedades das espécies de plantas agrícolas e das espécies de plantas hortícolas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/457/CEE do Conselho, de 29 de Setembro de 1970, que diz respeito ao catálogo comum das variedades das espécies de plantas agrícolas ([^1^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 98/96/CE ([^2^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 6 do seu artigo 9.º,\n\nTendo em conta a Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 98/96/CE, e, nomeadamente, o n.º 6 do seu artigo 10.º,\n\n(1) As Directivas 70/457/CEE e 70/458/CEE estabeleceram regras gerais respeitantes à adequação das denominações das variedades, através de uma referência ao artigo 63.º do Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^4^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#E0004)), alterado pelo Regulamento (CE) n.º 2506/95 ([^5^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#E0005)).\n\n(2) Para efeitos da aplicação das Directivas 70/457/CEE e 70/458/CEE, é adequado estabelecer regras de execução dos critérios estabelecidos pelo artigo 63.º do Regulamento (CE) n.º 2100/94, nomeadamente no que se refere aos impedimentos para a designação de uma denominação varietal especificados nos seus n.^os^ 3 e 4. Numa primeira fase, tais regras de execução devem limitar-se aos seguintes impedimentos: — utilização excluída por um direito anterior de um terceiro, — dificuldades em matéria de reconhecimento ou reprodução, — denominações idênticas ou susceptíveis de ser confundidas com a denominação varietal de uma outra variedade, — denominações idênticas ou susceptíveis de ser confundidas com outras designações, — denominações susceptíveis de induzir em erro ou causar confusão quanto às características da variedade ou outros aspectos.\n\n(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6b1226e267edc9b0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece, para efeitos da aplicação do n.º 6, primeiro parágrafo, do artigo 9.º da Directiva 70/457/CEE e do n.º 6, primeiro parágrafo, do artigo 10.º da Directiva 70/458/CEE, regras de execução de determinados critérios estabelecidos pelo artigo 63.º do Regulamento (CE) n.º 2100/94 para a elegibilidade de denominações de variedades."
+  },
+  "15e66aba628cc27c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. No caso de uma marca registada como um direito anterior de um terceiro, a utilização de uma denominação varietal no território da Comunidade é considerada excluída pela notificação à autoridade competente para a aprovação da denominação varietal de uma marca registada num ou mais Estados-Membros ou a nível comunitário, antes da aprovação da denominação varietal, que seja idêntica ou similar à denominação varietal e esteja registada para mercadorias idênticas ou similares à variedade vegetal em causa.\n\n2. No caso de uma indicação geográfica ou denominação de origem de produtos agrícolas e géneros alimentícios como direito anterior de um terceiro, uma denominação varietal no território da Comunidade é considerada excluída quando a denominação varietal não observar o artigo 13.º do Regulamento (CEE) n.º 2081/92 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#E0006)) no que respeita a uma indicação geográfica ou denominação de origem protegida num Estado-Membro ou na Comunidade ao abrigo do n.º 5 do artigo 5.º, do artigo 6.º ou do antigo artigo 17.º desse regulamento para bens idênticos ou comparáveis à variedade vegetal em causa.\n\n3. Um impedimento à adequação de uma denominação provocado por um direito anterior, tal como referido no n.º 2, pode ser removido sempre que seja obtido um consentimento escrito do detentor do direito anterior para a utilização da denominação em relação à variedade, desde que tal consentimento não seja susceptível de induzir o público em erro no que se refere à verdadeira origem do produto.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32004R1831) 4.**◄** No caso de um direito anterior do requerente em relação à totalidade ou parte da denominação proposta, o n.º 1 do artigo 18.º do Regulamento (CE) n.º 2100/94 aplicar-se-á *mutatis mutandis*."
+  },
+  "626a835a1e111d43": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Considera-se que uma denominação varietal causa dificuldades aos seus utilizadores em matéria de reconhecimento ou reprodução nos seguintes casos:\n\na) Quando tiver a forma de uma «denominação de fantasia» e:\n\ni) Consistir numa única letra;\n\nii) Consistir numa série de letras que não formem uma palavra pronunciável numa língua oficial da Comunidade ou contiver essa série de letras como uma elemento separado; no entanto, quando a referida série for uma abreviatura consagrada, esta última deve ser limitada a um máximo de dois conjuntos de até três caracteres cada um, situados em cada um dos extremos da denominação;\n\niii) Contiver um algarismo, excepto quando este for parte integrante do nome ou indicar que a variedade faz ou fará parte de uma série numerada de variedades relacionadas pelo seu historial de reprodução;\n\niv) Consistir em mais de três palavras ou elementos, excepto quando a sequência da redacção a tornar facilmente reconhecida ou reprodutível;\n\nv) Consistir numa palavra ou elemento excessivamente longos ou contiver uma palavra ou elemento excessivamente longos;\n\nvi) Contiver um sinal de pontuação ou outro símbolo, uma mistura de minúsculas e maiúsculas (excepto se a primeira letra for uma maiúscula e o resto da denominação estiver em minúsculas), um índice, um expoente ou um desenho;\n\nb) Quando tiver a forma de um «código» e:\n\ni) Consistir apenas num ou mais algarismos, excepto no caso de linhas puras ou de tipos de variedades similarmente específicos;\n\nii) Consistir numa única letra;\n\niii) Contiver mais do que dez letras ou letras e algarismos;\n\niv) Contiver mais do que quatro grupos alternados de uma letra ou letras e de um algarismo ou algarismos;\n\nv) Contiver um sinal de pontuação ou outro símbolo, um índice, um expoente ou um desenho.\n\n2. Aquando da apresentação da proposta relativa a uma denominação varietal, o requerente deve declarar se a denominação proposta tem a forma de uma «denominação de fantasia» ou de um «código».\n\n3. Se o requerente não fizer qualquer declaração sobre a forma da denominação proposta, a denominação será considerada uma «denominação de fantasia»."
+  },
+  "8fdeacfe397ea76a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAo avaliar a identidade ou confusão com a denominação varietal de uma outra variedade, são aplicáveis as seguintes disposições:\n\na) Considera-se que «susceptível de ser confundida com» abrange, *inter alia*, a denominação de uma variedade com uma diferença de apenas uma letra, ou de acentos em letras, relativamente à denominação varietal de uma variedade de uma espécie estreitamente relacionada, que tenha sido oficialmente aceite para comercialização na Comunidade, no Espaço Económico Europeu ou numa parte contratante da União Internacional para a Protecção das Obtenções Vegetais (UPOV), ou que seja objecto de um direito varietal nesses territórios. No entanto, não deve ser considerada como confusa uma diferença de apenas uma letra numa abreviatura consagrada como uma entidade separada da denominação varietal. Além disso, quando a letra diferente for de tal modo característica que torne a denominação claramente distinta de denominações varietais já registadas, não deve ser considerada como confusa. As diferenças de duas ou mais letras não devem ser consideradas como confusas, excepto nos casos em que as duas letras apenas trocam de lugar. Uma diferença de um dígito entre números (quando um número for admissível numa denominação de fantasia) não deve ser considerada como confusa.\n\nb) Consideram-se «espécies estreitamente relacionadas» as espécies que estejam contidas na mesma classe em conformidade com o anexo ou, se não for caso disso, que pertençam ao mesmo género botânico;\n\nc) Considera-se que uma «variedade que já não existe» é uma variedade que já não tem existência comercial;\n\nd) «Um registo oficial de variedades vegetais» considera-se como uma referência ao catálogo comum de variedades de espécies de plantas agrícolas ou ao de espécies de plantas hortícolas ou a um registo compilado e mantido pelo Instituto Comunitário das Variedades Vegetais, por um organismo oficial dos Estados-Membros da Comunidade ou do Espaço Económico Europeu ou por uma parte contratante da União Internacional para a Protecção das Obtenções Vegetais;\n\ne) «Variedade cuja denominação não tenha adquirido especial relevância»: considera-se que a denominação de uma variedade que, num determinado momento, tenha sido inscrita num registo oficial de variedades vegetais e que tenha, assim, adquirido uma relevância especial perde essa relevância quando tiver expirado um período de dez anos após a sua supressão desse registo."
+  },
+  "5ec03a825200bd90": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão consideradas designações correntemente utilizadas para a comercialização de mercadorias ou que têm que permanecer livres nos termos de outra legislação:\n\na) As denominações monetárias ou os termos associados com pesos e medidas;\n\nc) As expressões que, por força da legislação, não possam ser utilizadas para fins diferentes dos previstos por essa legislação."
+  },
+  "074e1bbe32657380": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nConsidera-se que uma denominação varietal pode induzir em erro ou causar confusão se:\n\na) Transmitir a falsa impressão de que a variedade tem características ou valor especiais;\n\nb) Transmitir a falsa impressão de que a variedade está relacionada com, ou deriva de, outra variedade específica;\n\nc) Se referir a uma característica ou valor específicos de uma forma que transmita a falsa impressão de que apenas essa variedade os possui, quando, na realidade, outras variedades da mesma espécie possam possuir a mesma característica ou valor;\n\nd) Por força da sua similaridade com uma denominação comercial bem conhecida, diferente de uma marca registada ou de uma denominação varietal, sugira que a variedade é uma outra variedade ou transmita uma falsa impressão sobre a identidade do requerente, da pessoa responsável pela manutenção da variedade ou do reprodutor;\n\ne) Consista em, ou contenha:\n\ni) Comparativos ou superlativos;\n\nii) O nome botânico ou o nome vulgar da espécie, pertencente quer ao grupo de espécies de plantas agrícolas quer ao de espécies de plantas hortícolas a que a variedade pertence;\n\niv) O nome de uma pessoa singular ou colectiva, ou uma referência a esse nome, de forma a transmitir uma falsa impressão quanto à identidade do requerente, da pessoa responsável pela manutenção da variedade ou do reprodutor;\n\nf) Inclui uma denominação geográfica que provavelmente iria induzir o público em erro quanto às características ou valor da variedade."
+  },
+  "5f5445369d4ae902": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\n2. O presente regulamento não será aplicável a denominações varietais que tiverem sido propostas pelo requerente à autoridade competente para aprovação destas antes da data da sua entrada em vigor.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "70b17a08ca3e3105": {
+   "fragment_id": "ESPÉCIES ESTREITAMENTE RELACIONADAS",
+   "type": "divisao",
+   "heading": "ESPÉCIES ESTREITAMENTE RELACIONADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPÉCIES ESTREITAMENTE RELACIONADAS"
+  },
+  "d77fee4d408590da": {
+   "fragment_id": "[Alínea b) do artigo 4.º]",
+   "type": "divisao",
+   "heading": "[Alínea b) do artigo 4.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [Alínea b) do artigo 4.º]\n\nClasse A (UPOV classe 1): *Avena, Hordeum, Secale, Triticale, Triticum*\n\nClasse B (UPOV classe 3): *Sorghum, Zea*\n\nClasse C (UPOV classe 4): *Agrostis, Alopecurus, Arrhenatherum, Bromus, Cynosurus, Dactylis, Festuca, Lolium, Phalaris, Phleum, Poa, Trisetum*\n\nClasse D (UPOV classe 5): *Brassica oleracea, Brassica chinensis, Brassica pekinensis*\n\nClasse E (UPOV classe 6): *Brassica napus, Brassica campestis, Brassica rapa, Brassica juncea, Brassica nigra, Sinapis*\n\nClasse F (UPOV classe 7): *Lotus, Medicago, Ornithopus, Onobrychis, Trifolium*\n\nClasse G (UPOV classe 8): *Lupinus albus* L., *Lupinus angustifolius* L., *Lupinus luteus* L.\n\nClasse H (UPOV classe 9): *Vicia fabia* L.\n\nClasse I (UPOV classe 10): *Beta vulgaris* L. var. *alba* DC., *Beta vulgaris* L. var. *altissima*\n\nClasse K (UPOV classe 11): *Beta vulgaris* ssp. *vulgaris* var. *conditiva* Alef. (syn.: *Beta vulgaris* L. var. *rubra* L.), *Beta vulgaris* L. var. *cicla* L., *Beta vulgaris* L. ssp. *vulgaris* var. *vulgaris*\n\nClasse L (UPOV classe 12): *Lactuca, Valerianella, Cichorium*\n\nClasse M (UPOV classe 13): *Cucumis sativus*\n\nClasse N (UPOV classe 14): *Citrullus, Cucumis melo, Cucurbita*\n\nClasse O (UPOV classe 15): *Anthriscus, Petroselinum*\n\nClasse P (UPOV classe 16): *Daucus, Pastinaca*\n\nClasse Q (UPOV classe 17): *Anethum, Carum, Foeniculum*\n\nClasse R (UPOV classe 21): *Solanum tuberosum* L.\n\nClasse S (UPOV classe 24): *Helianthus annuus*\n\n---"
+  },
+  "c88c95e3943ec3bd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#src.E0001)) JO L 225 de 12.10.1970, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#src.E0002)) JO L 25 de 1.2.1999, p. 27.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#src.E0003)) JO L 225 de 12.10.1970, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#src.E0004)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#src.E0005)) JO L 258 de 28.10.1995, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8f2aa02b-67f0-45cf-96ab-8691cee9360c.0017.03/DOC_1#src.E0006)) JO L 208 de 27.7.1992, p. 1."
+  },
+  "ac75f8b7f5d433ae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Maio de 2000\n\nque estabelece as regras de execução relativas à adequação das denominações das variedades das espécies de plantas agrícolas e das espécies de plantas hortícolas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/457/CEE do Conselho, de 29 de Setembro de 1970, que diz respeito ao catálogo comum das variedades das espécies de plantas agrícolas ([^1^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 98/96/CE ([^2^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 6 do seu artigo 9.º,\n\nTendo em conta a Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 98/96/CE, e, nomeadamente, o n.º 6 do seu artigo 10.º,\n\n(1) As Directivas 70/457/CEE e 70/458/CEE estabeleceram regras gerais respeitantes à adequação das denominações das variedades, através de uma referência ao artigo 63.º do Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^4^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0004)), alterado pelo Regulamento (CE) n.º 2506/95 ([^5^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0005)).\n\n(2) Para efeitos da aplicação das Directivas 70/457/CEE e 70/458/CEE, é adequado estabelecer regras de execução dos critérios estabelecidos pelo artigo 63.º do Regulamento (CE) n.º 2100/94, nomeadamente no que se refere aos impedimentos para a designação de uma denominação varietal especificados nos seus n.^os^ 3 e 4. Numa primeira fase, tais regras de execução devem limitar-se aos seguintes impedimentos: — utilização excluída por um direito anterior de um terceiro, — dificuldades em matéria de reconhecimento ou reprodução, — denominações idênticas ou susceptíveis de ser confundidas com a denominação varietal de uma outra variedade, — denominações idênticas ou susceptíveis de ser confundidas com outras designações, — denominações susceptíveis de induzir em erro ou causar confusão quanto às características da variedade ou outros aspectos.\n\n(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c5ad2118b207e5dc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. No caso de uma marca registada como um direito anterior de um terceiro, a utilização de uma denominação varietal no território da Comunidade é considerada excluída pela notificação à autoridade competente para a aprovação da denominação varietal de uma marca registada num ou mais Estados-Membros ou a nível comunitário, antes da aprovação da denominação varietal, que seja idêntica ou similar à denominação varietal e esteja registada para mercadorias idênticas ou similares à variedade vegetal em causa.\n\n2. No caso de uma indicação geográfica ou denominação de origem de produtos agrícolas e géneros alimentícios como direito anterior de um terceiro, uma denominação varietal no território da Comunidade é considerada excluída quando a denominação varietal não observar o artigo 13.º do Regulamento (CEE) n.º 2081/92 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0006)) no que respeita a uma indicação geográfica ou denominação de origem protegida num Estado-Membro ou na Comunidade ao abrigo do n.º 5 do artigo 5.º, do artigo 6.º ou do antigo artigo 17.º desse regulamento para bens idênticos ou comparáveis à variedade vegetal em causa.\n\n3. Um impedimento à adequação de uma denominação provocado por um direito anterior, tal como referido no n.º 2, pode ser removido sempre que seja obtido um consentimento escrito do detentor do direito anterior para a utilização da denominação em relação à variedade, desde que tal consentimento não seja susceptível de induzir o público em erro no que se refere à verdadeira origem do produto.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32004R1831) 4.**◄** No caso de um direito anterior do requerente em relação à totalidade ou parte da denominação proposta, o n.º 1 do artigo 18.º do Regulamento (CE) n.º 2100/94 aplicar-se-á *mutatis mutandis*."
+  },
+  "0ff0cabf8a7eece5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAo avaliar a identidade ou confusão com a denominação varietal de uma outra variedade, são aplicáveis as seguintes disposições:\n\na) Considera-se que «susceptível de ser confundida com» abrange, *inter alia*, a denominação de uma variedade com uma diferença de apenas uma letra, ou de acentos em letras, relativamente à denominação varietal de uma variedade de uma espécie estreitamente relacionada, que tenha sido oficialmente aceite para comercialização na Comunidade, no Espaço Económico Europeu ou numa parte contratante da União Internacional para a Protecção das Obtenções Vegetais (UPOV), ou que seja objecto de um direito varietal nesses territórios. No entanto, não deve ser considerada como confusa uma diferença de apenas uma letra numa abreviatura consagrada como uma entidade separada da denominação varietal. Além disso, quando a letra diferente for de tal modo característica que torne a denominação claramente distinta de denominações varietais já registadas, não deve ser considerada como confusa. As diferenças de duas ou mais letras não devem ser consideradas como confusas, excepto nos casos em que as duas letras apenas trocam de lugar. Uma diferença de um dígito entre números (quando um número for admissível numa denominação de fantasia) não deve ser considerada como confusa.\n\nb) A definição de «espécies estreitamente relacionadas» deve ser a incluída no anexo ao presente regulamento;\n\nc) Considera-se que uma «variedade que já não existe» é uma variedade que já não tem existência comercial;\n\nd) «Um registo oficial de variedades vegetais» considera-se como uma referência ao catálogo comum de variedades de espécies de plantas agrícolas ou ao de espécies de plantas hortícolas ou a um registo compilado e mantido pelo Instituto Comunitário das Variedades Vegetais, por um organismo oficial dos Estados-Membros da Comunidade ou do Espaço Económico Europeu ou por uma parte contratante da União Internacional para a Protecção das Obtenções Vegetais;\n\ne) «Variedade cuja denominação não tenha adquirido especial relevância»: considera-se que a denominação de uma variedade que, num determinado momento, tenha sido inscrita num registo oficial de variedades vegetais e que tenha, assim, adquirido uma relevância especial perde essa relevância quando tiver expirado um período de dez anos após a sua supressão desse registo."
+  },
+  "d904eac6e6fd34c9": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs denominações varietais que tenham sido aceites sob a forma de um código serão claramente indicadas como tais no catálogo ou catálogos oficiais respectivos dos Estados-Membros relativos às variedades vegetais oficialmente aceites, ou no catálogo comum respectivo, por uma nota de pé-de-página com a seguinte menção: «denominação varietal aprovada sob a forma de um «código»»."
+  },
+  "3fdacc067f6e2dc3": {
+   "fragment_id": "Espécies estreitamente relacionadas",
+   "type": "divisao",
+   "heading": "Espécies estreitamente relacionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies estreitamente relacionadas\n\nPor «espécies estreitamente relacionadas», referidas na alínea b) do artigo 4.º, deve entender-se o seguinte:\n\na) Se existir mais de uma classe dentro de um género, é aplicável a lista de classes constante do ponto 1;\n\nb) Se as classes abrangerem mais de um género, é aplicável a lista de classes constante do ponto 2;\n\nc) Regra geral, no caso de géneros e espécies não abrangidos pelas listas de classes constantes dos pontos 1 e 2, um género é considerado uma classe.\n\n1. Classes dentro de um género\n\nClasses Nomes científicos\n\nClasse 1.1 *Brassica oleracea*\n\nClasse 1.2 *Brassica*, excluindo *Brassica Oleracea*\n\nClasse 2.1 *Beta vulgaris* — beterraba sacarina, beterraba forrageira\n\nClasse 2.2 *Beta vulgaris* — beterraba, incluindo *Cheltenham beet* ou acelga\n\nClasse 2.3 *Beta*, excluindo as classes 2.1 e 2.2.\n\nClasse 3.1 *Cucumis sativus*\n\nClasse 3.2 *Cucumis melo*\n\nClasse 3.3 *Cucumis*, excluindo as classes 3.1 e 3.2\n\nClasse 4.1 *Solanum tuberosum*\n\nClasse 4.2 *Solanum*, excluindo a classe 4.1\n\n2. Classes que abrangem mais de um género\n\n| Classes | Nomes científicos |\n| --- | --- |\n| Classe 201 | *Secale, Triticale, Triticum* |\n| Classe 203 [(^1^)](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0007) | *Agrostis, Dactylis, Festuca, Festulolium, Lolium, Phalaris, Phleum* e *Poa* |\n| Classe 204 [(^1^)](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#E0007) | *Lotus, Medicago, Ornithopus, Onobrychis, Trifolium* |\n| Classe 205 | *Cichorium, Lactuca* |\n| (^1^)As classes 203 e 204 não são exclusivamente estabelecidas com base nas espécies estreitamente relacionadas. |  |\n\n---"
+  },
+  "7c65141e03490da5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#src.E0001)) JO L 225 de 12.10.1970, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#src.E0002)) JO L 25 de 1.2.1999, p. 27.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#src.E0003)) JO L 225 de 12.10.1970, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#src.E0004)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#src.E0005)) JO L 258 de 28.10.1995, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/eb273ba9-f877-4697-9e3e-2828450da193.0018.03/DOC_1#src.E0006)) JO L 208 de 27.7.1992, p. 1."
+  },
+  "929d127e501e014c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R0930 — PT — 12.08.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R0930) [REGULAMENTO (CE) N.º 930/2000 DA COMISSÃO](http://publications.europa.eu/resource/celex/32000R0930) [de 4 de Maio de 2000](http://publications.europa.eu/resource/celex/32000R0930) [que estabelece as regras de execução relativas à adequação das denominações das variedades das espécies de plantas agrícolas e das espécies de plantas hortícolas](http://publications.europa.eu/resource/celex/32000R0930) (JO L 108, 5.5.2000, p.3)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 637/2009 da Comissão de 22 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0637) — L 191 — 10 — 23.7.2009"
+  }
+ }
+}

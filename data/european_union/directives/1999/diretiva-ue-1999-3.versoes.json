@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0003:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0003-19990313",
+ "dre_path": null,
+ "source_lastmod": "1999-03-13",
+ "versions": [
+  {
+   "date": "1999-03-13",
+   "future": false,
+   "celex": "01999L0003-19990313",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5003aa4b84d3fc33",
+    "8c9396aa242e5e8c",
+    "af262a4470212e61",
+    "04db93c6a6ef993b",
+    "d2706621933798e1",
+    "636033b56c2aea56",
+    "cbdc6addc4b6054d",
+    "10220b9774fa9034",
+    "e6a597a39c65b223"
+   ]
+  }
+ ],
+ "fragments": {
+  "5003aa4b84d3fc33": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro de 1999\n\nrelativa ao estabelecimento de uma lista comunitária de alimentos e ingredientes alimentares tratados por radiação ionizante"
+  },
+  "8c9396aa242e5e8c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Sem prejuízo da lista positiva comunitária a ser estabelecida nos termos do segundo parágrafo do n.º 3 do artigo 4.º da directiva-quadro, a presente directiva estabelece uma lista positiva inicial comunitária de alimentos e ingredientes alimentares, adiante denominados géneros alimentícios, que podem ser tratados por radiação ionizante e fixa as doses máximas autorizadas para alcançar o objectivo pretendido.\n\n2. O tratamento dos referidos produtos por radiação ionizante só pode ser autorizado de acordo com as disposições previstas na directiva-quadro. Serão utilizados, nomeadamente, métodos de ensaio nos termos do n.º 3 do artigo 7.º da directiva-quadro.\n\n3. Os géneros alimentícios que podem ser ionizados, bem como as doses globais médias a que podem ser submetidos, encontram-se indicados no anexo."
+  },
+  "af262a4470212e61": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros não podem proibir, limitar ou impedir a comercialização de géneros alimentícios irradiados de acordo com as disposições gerais da directiva-quadro e com as disposições da presente directiva pelo facto de estes terem sido tratados por ionização."
+  },
+  "04db93c6a6ef993b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs eventuais alterações à presente directiva serão efectuadas de acordo com o procedimento previsto no artigo 100.ºA do Tratado."
+  },
+  "d2706621933798e1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros porão em vigor as respectivas disposições legislativas, regulamentares e administrativas para darem cumprimento à presente directiva de forma a autorizar, até 20 de Setembro de 2000, a comercialização e a utilização de géneros alimentícios irradiados em conformidade com a presente directiva.\n\nDesse facto informarão a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "636033b56c2aea56": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "cbdc6addc4b6054d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "e6a597a39c65b223": {
+   "fragment_id": "GÉNEROS ALIMENTÍCIOS QUE PODEM SER TRATADOS POR RADIAÇÕES IONIZANTES E DOSES MÁXIMAS DE IRRADIAÇÃO",
+   "type": "divisao",
+   "heading": "GÉNEROS ALIMENTÍCIOS QUE PODEM SER TRATADOS POR RADIAÇÕES IONIZANTES E DOSES MÁXIMAS DE IRRADIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GÉNEROS ALIMENTÍCIOS QUE PODEM SER TRATADOS POR RADIAÇÕES IONIZANTES E DOSES MÁXIMAS DE IRRADIAÇÃO\n\nCategoria de géneros alimentícios Dose global média de radiação absorvida (valor máximo) (kGy)\n\n[**►C1**](http://publications.europa.eu/resource/celex/31999L0003R%2801%29) Ervas aromáticas secas, especiarias secas e condimentos vegetais secos**◄** 10"
+  }
+ }
+}

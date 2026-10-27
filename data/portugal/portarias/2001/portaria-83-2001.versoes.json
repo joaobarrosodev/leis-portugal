@@ -1,0 +1,572 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:319912:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1005132423",
+ "dre_path": "/dr/detalhe/portaria/83-2001-319912",
+ "source_lastmod": "2026-04-08",
+ "versions": [
+  {
+   "date": "2001-02-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1005314575",
+    "1005314775",
+    "1005314975",
+    "1005315175",
+    "1005315375",
+    "1005315575",
+    "1005315775",
+    "1005315975",
+    "1005316175",
+    "1005316375",
+    "1005316575",
+    "1005316775",
+    "1005316975",
+    "1005317175",
+    "1005317375",
+    "1005317575",
+    "1005317775",
+    "1005317975",
+    "1005318175",
+    "1005318375",
+    "1005318575",
+    "1005318775",
+    "1005318975",
+    "1005319175",
+    "1005319375",
+    "1005319575",
+    "1005319775",
+    "1005319975"
+   ]
+  },
+  {
+   "date": "2001-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165179:por",
+     "title": "Portaria n.º 438/2001",
+     "published": "2001-04-28",
+     "dre_path": "/dr/detalhe/portaria/438-2001-165179"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "1005314575",
+    "1005314775",
+    "1005314975",
+    "1005315175",
+    "1005315375",
+    "1005315575",
+    "1005315775",
+    "1005315975",
+    "1005316175",
+    "1005316375",
+    "1005316575",
+    "1005316775",
+    "1005316975",
+    "1005317175",
+    "1005317375",
+    "1005317575",
+    "1005317775",
+    "1005317975",
+    "1005318175",
+    "1082848175",
+    "1005318575",
+    "1005318775",
+    "1005318975",
+    "1005319175",
+    "1005319375",
+    "1005319575",
+    "1005319775",
+    "1082848375"
+   ]
+  },
+  {
+   "date": "2001-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515824:por",
+     "title": "Portaria n.º 1019/2001",
+     "published": "2001-08-22",
+     "dre_path": "/dr/detalhe/portaria/1019-2001-515824"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "1005314575",
+    "1005314775",
+    "1005314975",
+    "1005315175",
+    "1082967075",
+    "1005315575",
+    "1005315775",
+    "1082967275",
+    "1082967475",
+    "1082967675",
+    "1005316575",
+    "1082967875",
+    "1005316975",
+    "1005317175",
+    "1005317375",
+    "1005317575",
+    "1005317775",
+    "1005317975",
+    "1005318175",
+    "1082848175",
+    "1005318575",
+    "1005318775",
+    "1082968075",
+    "1005319175",
+    "1005319375",
+    "1005319575",
+    "1005319775",
+    "1082848375"
+   ]
+  },
+  {
+   "date": "2001-10-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:614365:por",
+     "title": "Portaria n.º 1148/2001",
+     "published": "2001-09-28",
+     "dre_path": "/dr/detalhe/portaria/1148-2001-614365"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "1005314575",
+    "1005314775",
+    "1005314975",
+    "1005315175",
+    "1082967075",
+    "1005315575",
+    "1005315775",
+    "1082967275",
+    "1082967475",
+    "1082967675",
+    "1005316575",
+    "1082967875",
+    "1005316975",
+    "1005317175",
+    "1005317375",
+    "1005317575",
+    "1005317775",
+    "1005317975",
+    "1005318175",
+    "1083315775",
+    "1005318575",
+    "1005318775",
+    "1082968075",
+    "1005319175",
+    "1005319375",
+    "1005319575",
+    "1005319775",
+    "1082848375"
+   ]
+  },
+  {
+   "date": "2005-02-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:619369:por",
+     "title": "Portaria n.º 141/2005",
+     "published": "2005-02-03",
+     "dre_path": "/dr/detalhe/portaria/141-2005-619369"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "1005314575",
+    "1005314775",
+    "1005314975",
+    "1005315175",
+    "1082967075",
+    "1005315575",
+    "1005315775",
+    "1082967275",
+    "1082967475",
+    "1082967675",
+    "1005316575",
+    "1084103875",
+    "1005316975",
+    "1005317175",
+    "1005317375",
+    "1005317575",
+    "1005317775",
+    "1005317975",
+    "1005318175",
+    "1084104075",
+    "1005318575",
+    "1005318775",
+    "1082968075",
+    "1005319175",
+    "1005319375",
+    "1005319575",
+    "1005319775",
+    "1082848375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1005314575": {
+   "fragment_id": "1005314475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Como instrumento potenciador dos objectivos a prosseguir no âmbito do Programa Operacional Agricultura e Desenvolvimento Rural, designado «Programa AGRO», nomeadamente em matéria de modernização e reconversão tecnológica, da qualidade e segurança alimentar e de reforço das medidas de formação de recursos humanos, assume particular importância a requalificação e o apetrechamento de estruturas laboratoriais e a criação de centros tecnológicos dirigidos às principais fileiras agro-industriais, bem como a modernização e especialização de estruturas formativas.\n\nO presente diploma visa, assim, estabelecer um regime de ajudas aplicáveis a investimentos em infra-estruturas formativas e tecnológicas, enquadrando-se no 9.º travessão do artigo 33.º e no n.º 3 do artigo 35.º, ambos do Regulamento (CE) n.º 1257/99, do Conselho, de 17 de Maio.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Medida n.º 9, «Infra-Estruturas Formativas e Tecnológicas», do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa AGRO», em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "1005314775": {
+   "fragment_id": "1005314675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 17 de Janeiro de 2001.\n\nA Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "1005314975": {
+   "fragment_id": "1005314875",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA MEDIDA N.º 9, «INFRA-ESTRUTURAS FORMATIVAS E TECNOLÓGICAS»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA MEDIDA N.º 9, «INFRA-ESTRUTURAS FORMATIVAS E TECNOLÓGICAS»"
+  },
+  "1005315175": {
+   "fragment_id": "1005315075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições iniciais"
+  },
+  "1005315375": {
+   "fragment_id": "1005315275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e objectivos\n\nO presente Regulamento estabelece o regime das ajudas a conceder no âmbito da medida n.º 9, «Infra-estruturas formativas e tecnológicas», do Programa AGRO, que tem por objectivos, nomeadamente, os seguintes:\n\na) Modernizar estruturas laboratoriais, designadamente no domínio da experimentação e do desenvolvimento tecnológico do sector agrário;\n\nb) Criar centros tecnológicos que contribuam para a modernização e adequação dos sistemas produtivos e das práticas culturais e da qualificação e valorização do sector agrário;\n\nc) Reestruturar a rede de centros de formação profissional agrária."
+  },
+  "1005315575": {
+   "fragment_id": "1005315475",
+   "type": 11,
+   "heading": "Artigo 2.º — Acções a apoiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acções a apoiar\n\nA medida n.º 9 integra as seguintes acções:\n\na) Acção n.º 9.1, «Infra-estruturas e equipamentos de desenvolvimento tecnológico e experimentação»;\n\nb) Acção n.º 9.2, «Requalificação das estruturas formativas»."
+  },
+  "1005315775": {
+   "fragment_id": "1005315675",
+   "type": 1,
+   "heading": "Capítulo II — Acção n.º 9.1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acção n.º 9.1"
+  },
+  "1005315975": {
+   "fragment_id": "1005315875",
+   "type": 11,
+   "heading": "Artigo 3.º — Investimentos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Investimentos elegíveis\n\nNo âmbito desta acção podem ser concedidas ajudas aos seguintes projectos de investimento:\n\na) Modernização e apetrechamento das estruturas laboratoriais e de experimentação do sector;\n\nb) Criação e apetrechamento de centros tecnológicos ligados às fileiras agro-industriais, com o objectivo de, nomeadamente, institucionalizar uma rede de conhecimento tecnológico e de difusão e transferência de novos métodos e práticas."
+  },
+  "1005316175": {
+   "fragment_id": "1005316075",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\n1 - Para acesso às presentes ajudas deve ser apresentado um projecto que reúna as seguintes condições:\n\na) Tenha enquadramento na política relativa aos laboratórios e centros tecnológicos definida para o sector por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nb) Respeite a uma fileira ou área tecnológica transversal, no caso dos centros tecnológicos;\n\nc) Seja viável técnica e economicamente, quando se trate de centros tecnológicos;\n\nd) Tenha início após a celebração do contrato de atribuição de ajudas.\n\n2 - Deve ainda ser apresentado um plano estratégico com uma duração mínima de 10 anos que tenha enquadramento na política a que se refere a alínea a) do número anterior."
+  },
+  "1005316375": {
+   "fragment_id": "1005316275",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste capítulo:\n\na) Os titulares de estruturas laboratoriais e de desenvolvimento tecnológico e experimentação, no caso da alínea a) do artigo 3.º;\n\nb) As entidades reconhecidas para o efeito pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, quando se trate da alínea b) do artigo 3.º\n\n2 - O processo de reconhecimento referido na alínea b) do número anterior será estabelecido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n3 - Os beneficiários devem dispor de um sistema de contabilidade que lhes permita evidenciar os investimentos realizados no âmbito deste diploma."
+  },
+  "1005316575": {
+   "fragment_id": "1005316475",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\nNo âmbito da presente acção são elegíveis as despesas com:\n\na) Aquisição de bens e serviços necessários à concretização do projecto, nomeadamente estudos e projectos;\n\nb) Construção, beneficiação ou recuperação de instalações e outras estruturas;\n\nc) Aquisição de bens de capital;\n\nd) Fiscalização e acompanhamento das obras."
+  },
+  "1005316775": {
+   "fragment_id": "1005316675",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma e valor das ajudas\n\nAs ajudas são atribuídas sob a forma de incentivo não reembolsável, no valor de 100% das despesas elegíveis, quando se trate de entidades públicas, ou de 75% das despesas elegíveis, nos restantes casos.\n\n> Nota: [2.º, Portaria n.º 141/2005 - Diário da República n.º 24/2005, Série I-B de 2005-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/141-2005-619369) A alteração ao presente artigo aplica-se a todas as candidaturas ainda não decididas à data de 4 de fevereiro de 2005."
+  },
+  "1005316975": {
+   "fragment_id": "1005316875",
+   "type": 1,
+   "heading": "Capítulo III — Acção n.º 9.2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acção n.º 9.2"
+  },
+  "1005317175": {
+   "fragment_id": "1005317075",
+   "type": 11,
+   "heading": "Artigo 8.º — Investimentos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Investimentos elegíveis\n\nNo âmbito desta acção, podem ser concedidas ajudas aos projectos que visem a especialização e modernização de centros de formação profissional agrária."
+  },
+  "1005317375": {
+   "fragment_id": "1005317275",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições de acesso\n\nPara acesso às presentes ajudas devem ser reunidas as seguintes condições:\n\na) Tratar-se de centros de formação em funcionamento;\n\nb) Os centros de formação devem integrar a rede de centros definida no plano de especialização e estruturação dos centros de formação profissional agrária homologada pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nc) Os projectos devem ser tecnicamente viáveis;\n\nd) A execução do projecto deve ter início após a celebração do contrato de atribuição de ajudas."
+  },
+  "1005317575": {
+   "fragment_id": "1005317475",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\nPodem beneficiar das ajudas previstas neste capítulo os titulares de centros de formação profissional agrária que integrem a rede de centros referida na alínea b) do número anterior."
+  },
+  "1005317775": {
+   "fragment_id": "1005317675",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis\n\nNo âmbito da presente acção são elegíveis as despesas com:\n\na) Aquisição de bens e serviços necessários à concretização do projecto, designadamente estudos e projectos;\n\nb) Construção, beneficiação ou recuperação de instalações e outras estruturas dos centros e explorações anexas;\n\nc) Aquisição de bens de capital necessários ao apetrechamento dos centros, designadamente equipamentos didácticos, técnicos e tecnológicos, e meios de transporte necessários à formação;\n\nd) Fiscalização e acompanhamento das obras."
+  },
+  "1005317975": {
+   "fragment_id": "1005317875",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Forma e valor das ajudas\n\nAs ajudas são atribuídas sob a forma de incentivo não reembolsável, no valor de 100% das despesas elegíveis."
+  },
+  "1005318175": {
+   "fragment_id": "1005318075",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições processuais e norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições processuais e norma transitória"
+  },
+  "1005318375": {
+   "fragment_id": "1005318275",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\nAs candidaturas são apresentadas junto da estrutura de apoio técnico do Programa AGRO, entre 15 e 30 de Março e entre 1 e 15 de Setembro, de acordo com formulário próprio e acompanhado dos documentos indicados nas respectivas instruções."
+  },
+  "1005318575": {
+   "fragment_id": "1005318475",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise das candidaturas\n\nA análise das candidaturas e a formulação das respectivas propostas de decisão competem ao gestor do Programa AGRO, sem prejuízo da faculdade de delegação de competências, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril."
+  },
+  "1005318775": {
+   "fragment_id": "1005318675",
+   "type": 11,
+   "heading": "Artigo 15.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Parecer da unidade de gestão\n\nAs propostas de decisão sobre as candidaturas são submetidas a parecer da unidade de gestão."
+  },
+  "1005318975": {
+   "fragment_id": "1005318875",
+   "type": 11,
+   "heading": "Artigo 16.º — Decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.\n\n3 - As demais candidaturas são aprovadas tendo em conta a dotação orçamental da medida.\n\n4 - Em caso de insuficiência de verbas, consideram-se prioritários os seguintes projectos:\n\na) Em todos os casos: projectos que visem a recuperação e ou beneficiação de estruturas já existentes;\n\nb) Estruturas laboratoriais: projectos visando a acreditação de laboratórios e projectos relativos a laboratórios de controlo ambiental;\n\nc) Centros tecnológicos: projectos incidentes em fileiras prioritárias;\n\nd) Centros de formação profissional agrária: projectos que visem a especialização de centros.\n\n5 - As fileiras prioritárias referidas na alínea c) do número anterior são definidas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "1005319175": {
+   "fragment_id": "1005319075",
+   "type": 11,
+   "heading": "Artigo 17.º — Contrato de atribuição de ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contrato de atribuição de ajudas\n\n1 - A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo máximo de 45 dias a contar da data de aprovação da candidatura.\n\n2 - Pode ser exigida a constituição de garantias a favor do IFADAP para segurança do reembolso das ajudas atribuídas."
+  },
+  "1005319375": {
+   "fragment_id": "1005319275",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos beneficiários\n\nConstituem obrigações dos beneficiários:\n\na) Manter integralmente os requisitos que estiveram na base da atribuição da ajuda durante 10 anos contados a partir da data de celebração do contrato de atribuição de ajudas;\n\nb) Executar o projecto nos prazos previstos."
+  },
+  "1005319575": {
+   "fragment_id": "1005319475",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento das ajudas\n\nO pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos."
+  },
+  "1005319775": {
+   "fragment_id": "1005319675",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Execução do projecto\n\n1 - A execução material dos projectos deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato e estar concluída no prazo indicado no respectivo contrato de atribuição de ajudas.\n\n2 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no número anterior."
+  },
+  "1005319975": {
+   "fragment_id": "1005319875",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\n1 - Podem ser consideradas as despesas efectuadas a partir de 19 de Novembro de 1999, desde que as respectivas candidaturas sejam apresentadas até 31 de Março do corrente ano.\n\n2 - No caso referido no número anterior não se aplica o disposto na alínea d) do artigo 4.º e na alínea d) do artigo 9.º"
+  },
+  "1082848175": {
+   "fragment_id": "1005318275",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": "2001-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+   ],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\nAs candidaturas são apresentadas junto da estrutura de apoio técnico do Programa AGRO, entre 15 e 30 de Abril e entre 1 e 15 de Setembro, de acordo com formulário próprio e acompanhado dos documentos indicados nas respectivas instruções.\n\n> Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+  },
+  "1082848375": {
+   "fragment_id": "1005319875",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": "2001-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+   ],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\n1 - Podem ser consideradas as despesas efectuadas a partir de 19 de Novembro de 1999, desde que as respectivas candidaturas sejam apresentadas até 30 de Abril do corrente ano.\n\n2 - No caso referido no número anterior não se aplica o disposto na alínea d) do artigo 4.º e na alínea d) do artigo 9.º\n\n> Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+  },
+  "1082967075": {
+   "fragment_id": "1005315275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivos",
+   "in_force_from": "2001-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e objectivos\n\nO presente Regulamento estabelece o regime das ajudas a conceder no âmbito da medida n.º 9, «Infra-estruturas formativas e tecnológicas», do Programa AGRO, que tem por objectivos, nomeadamente, os seguintes:\n\na) Modernizar, apetrechar e instalar estruturas laboratoriais, designadamente no domínio da experimentação e desenvolvimento tecnológico do sector agrário;\n\nb) Criar centros tecnológicos que contribuam para a modernização e adequação dos sistemas produtivos e das práticas culturais e da qualificação e valorização do sector agrário;\n\nc) Reestruturar a rede de centros de formação profissional agrária.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1082967275": {
+   "fragment_id": "1005315875",
+   "type": 11,
+   "heading": "Artigo 3.º — Investimentos elegíveis",
+   "in_force_from": "2001-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 3.º — Investimentos elegíveis\n\nNo âmbito desta acção podem ser concedidas ajudas aos seguintes projectos de investimento:\n\na) Modernização, apetrechamento e instalação de estruturas laboratoriais e de experimentação do sector;\n\nb) Criação e apetrechamento de centros tecnológicos ligados às fileiras agro-industriais, com o objectivo de, nomeadamente, institucionalizar uma rede de conhecimento tecnológico e de difusão e transferência de novos métodos e práticas.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1082967475": {
+   "fragment_id": "1005316075",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": "2001-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\n1 - Para acesso às presentes ajudas deve ser apresentado um projecto que reúna as seguintes condições:\n\na) Tenha enquadramento na política relativa aos laboratórios e centros tecnológicos definida para o sector por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nb) Respeite a uma fileira ou área tecnológica transversal, no caso dos centros tecnológicos;\n\nc) Seja sustentável económica e financeiramente;\n\nd) Tenha início após a celebração do contrato de atribuição de ajudas.\n\n2 - Deve ainda ser apresentado um plano estratégico com uma duração mínima de 10 anos que tenha enquadramento na política a que se refere a alínea a) do número anterior.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1082967675": {
+   "fragment_id": "1005316275",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2001-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste capítulo:\n\na) Todas as pessoas singulares e colectivas de direito público ou privado, no caso da alínea a) do artigo 3.º;\n\nb) As entidades reconhecidas para o efeito pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, quando se trate da alínea b) do artigo 3.º\n\n2 - O processo de reconhecimento referido na alínea b) do número anterior será estabelecido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n3 - Os beneficiários devem dispor de um sistema de contabilidade que lhes permita evidenciar os investimentos realizados no âmbito deste diploma.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1082967875": {
+   "fragment_id": "1005316675",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e valor das ajudas",
+   "in_force_from": "2001-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 7.º — Forma e valor das ajudas\n\nAs ajudas são atribuídas sob a forma de incentivo não reembolsável, no valor de 100% das despesas elegíveis, quando se trate de entidades públicas, ou de 75% das despesas elegíveis, nos restantes casos, excepto quando as estruturas sejam tituladas por entidades com fins lucrativos e os seus laboratórios não estejam integrados em rede nacional de rastreio e controlo, em que o valor da ajuda é de 70% das despesas elegíveis.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1082968075": {
+   "fragment_id": "1005318875",
+   "type": 11,
+   "heading": "Artigo 16.º — Decisão das candidaturas",
+   "in_force_from": "2001-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 16.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.\n\n3 - As demais candidaturas são aprovadas tendo em conta a dotação orçamental da medida.\n\n4 - Em caso de insuficiência de verbas, consideram-se prioritários os seguintes projectos:\n\na) No âmbito da acção n.º 9.1 e por ordem decrescente de importância:\n\ni) Projectos que visem o rastreio e controlo de resíduos em produtos vegetais e doenças de animais em infra-estruturas consideradas fundamentais nesses domínios pelo despacho a que se refere a alínea a) do n.º 1 do artigo 4.º;\n\nii) Projectos que visem a recuperação e ou beneficiação de estruturas já existentes consideradas fundamentais pelo despacho referido no número anterior;\n\niii) Demais projectos, em função do seu nível de sustentabilidade, abrangência e eficiência, preferindo, em caso de igualdade, os que visem a acreditação de laboratórios e o controlo ambiental, seguidos dos relativos a centros tecnológicos incidentes em fileiras prioritárias;\n\nb) No que se refere à acção n.º 9.2, projectos que visem a especialização de centros, seguidos dos que visem a recuperação e ou beneficiação de estruturas existentes.\n\n5 - As fileiras prioritárias referidas na subalínea iii) da alínea a) do número anterior são definidas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1083315775": {
+   "fragment_id": "1005318275",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": "2001-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1148/2001 - Diário da República n.º 226/2001, Série I-B de 2001-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2001-614365), em vigor a partir de 2001-10-03.",
+    "Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+   ],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\nAs candidaturas são apresentadas junto, da estrutura de apoio técnico do Programa AGRO, entre 1 e 30 de Setembro, de acordo com formulário próprio acompanhado dos documentos indicados nas respectivas instruções.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1148/2001 - Diário da República n.º 226/2001, Série I-B de 2001-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2001-614365), em vigor a partir de 2001-10-03.\n\n> Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+  },
+  "1084103875": {
+   "fragment_id": "1005316675",
+   "type": 11,
+   "heading": "Artigo 7 — Forma e valor das ajudas",
+   "in_force_from": "2005-02-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 141/2005 - Diário da República n.º 24/2005, Série I-B de 2005-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/141-2005-619369), em vigor a partir de 2005-02-04.",
+    "Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+   ],
+   "markdown": "###### Artigo 7 — Forma e valor das ajudas\n\nAs ajudas são atribuídas sob a forma de incentivo não reembolsável, no valor de 100% das despesas elegíveis, quando se trate de entidades públicas ou de organizações sem fins lucrativos cujo investimento seja reconhecido de interesse público, ou de 75% das despesas elegíveis, nos restantes casos.\n\n> Nota: [2.º, Portaria n.º 141/2005 - Diário da República n.º 24/2005, Série I-B de 2005-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/141-2005-619369) A alteração ao presente artigo aplica-se a todas as candidaturas ainda não decididas à data de 4 de fevereiro de 2005.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 141/2005 - Diário da República n.º 24/2005, Série I-B de 2005-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/141-2005-619369), em vigor a partir de 2005-02-04.\n\n> Alterado pelo/a [Portaria n.º 1019/2001 - Diário da República n.º 194/2001, Série I-B de 2001-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/1019-2001-515824), em vigor a partir de 2001-08-27."
+  },
+  "1084104075": {
+   "fragment_id": "1005318275",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação de candidaturas",
+   "in_force_from": "2005-02-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 141/2005 - Diário da República n.º 24/2005, Série I-B de 2005-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/141-2005-619369), em vigor a partir de 2005-02-04.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1148/2001 - Diário da República n.º 226/2001, Série I-B de 2001-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2001-614365), em vigor a partir de 2001-10-03.",
+    "Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+   ],
+   "markdown": "###### Artigo 13.º — Apresentação de candidaturas\n\n1 - O processo de candidatura às ajudas previstas neste Regulamento inicia-se com a publicação pelo gestor do Programa AGRO de um convite para apresentação de candidatura.\n\n2 - Do convite devem constar as seguintes informações:\n\na) Objecto do convite;\n\nb) Local e data limite para obtenção de esclarecimentos sobre o convite, bem como para levantamento do formulário de candidatura.\n\n3 - O convite será acompanhado de uma circular, da qual constam, entre outras, as seguintes indicações:\n\na) Requisitos de admissão das candidaturas;\n\nb) Modo de apresentação das candidaturas;\n\nc) Elementos das candidaturas e documentos que a acompanham;\n\nd) Critérios de análise e selecção;\n\ne) Valores das ajudas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 141/2005 - Diário da República n.º 24/2005, Série I-B de 2005-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/141-2005-619369), em vigor a partir de 2005-02-04.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1148/2001 - Diário da República n.º 226/2001, Série I-B de 2001-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2001-614365), em vigor a partir de 2001-10-03.\n\n> Alterado pelo/a [Portaria n.º 438/2001 - Diário da República n.º 99/2001, Série I-B de 2001-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/438-2001-165179), em vigor a partir de 2001-05-03."
+  }
+ }
+}

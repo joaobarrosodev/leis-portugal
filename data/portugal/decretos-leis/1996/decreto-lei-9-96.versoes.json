@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:619736:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-944411608",
+ "dre_path": "/dr/detalhe/decreto-lei/9-1996-619736",
+ "source_lastmod": "2025-11-05",
+ "versions": [
+  {
+   "date": "1996-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944396339"
+   ]
+  },
+  {
+   "date": "1996-02-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152937:por",
+     "title": "Declaração de Rectificação n.º 3-A/96",
+     "published": "1996-02-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/3-a-1996-152937"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "944396339",
+    "944396336"
+   ]
+  }
+ ],
+ "fragments": {
+  "944396339": {
+   "fragment_id": "944411609",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1996-02-29",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 9/96\n\nde 14 de Fevereiro\n\nTorna-se necessário proceder à correcção de uma anomalia referente à revalorização da carreira de contador-verificador, incluindo os contadores-verificadores-adjuntos, do Tribunal de Contas, determinando-se que os efeitos dessa revalorização operada pelo Decreto-Lei n.º 312/89, de 21 de Setembro, retroajam a Janeiro de 1988, cobrindo-se, assim, o lapso de tempo que vai entre essa data e o dia 1 de Outubro de 1989, data da sua entrada em vigor. Desta forma, irá sanar-se uma situação que violava os princípios da justiça e da igualdade de tratamento, que já tinha sido reconhecida pelo Provedor de Justiça na recomendação n.º 94/94, pois essa solução foi adoptada para casos perfeitamente análogos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo único\n\nAo disposto nos n.os 1 e 4 do artigo 5.º, no artigo 7.º e no n.º 2 do artigo 8.º do Decreto-Lei n.º 312/89, de 21 de Setembro, aplica-se o preceituado no artigo 15.º do Decreto-Lei n.º 265/88, de 28 de Julho."
+  },
+  "944396336": {
+   "fragment_id": "944411610",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 26 de Janeiro de 1996.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Janeiro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,370 @@
+---
+schema_version: '1.0'
+id: pt:dre:553471:por
+title: Decreto-Lei n.º 65/2012
+short_title: null
+summary: Estabelece, no âmbito do sistema previdencial, o regime jurídico de proteção social na eventualidade de desemprego
+  dos trabalhadores que se encontrem enquadrados no regime dos trabalhadores independentes e que prestam serviços maioritariamente
+  a uma entidade contratante
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Solidariedade e da Segurança Social
+proposing_entity: null
+official_number: 65/2012
+official_date: null
+publication_date: '2012-03-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/2012, Série I de 2012-03-15
+  number: '54'
+  series: I
+  supplement: null
+  pages: 1242 - 1244
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05400/0124201244.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-12-01'
+version_history:
+  file: decreto-lei-65-2012.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-03-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-02-04'
+    amending: pt:dre:256986:por
+    amending_title: Decreto-Lei n.º 13/2013
+    changes:
+    - Altera Artigo 6.º
+  - date: '2021-12-17'
+    amending: pt:dre:175983734:por
+    amending_title: Decreto-Lei n.º 119/2021
+    changes:
+    - Adita Artigo 10.º-A
+  - date: '2023-12-01'
+    amending: pt:dre:225044391:por
+    amending_title: Decreto-Lei n.º 113/2023
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/65/2012/p/cons/20231130/pt/html
+  oj: null
+  dre: '553471'
+  dre_path: /dr/detalhe/decreto-lei/65-2012-553471
+  internal: pt:dre:553471:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2012-553471
+  metadata_url: https://data.dre.pt/eli/dec-lei/65/2012/p/cons/20231130/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-115611854
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-115611854
+  retrieved_at: '2026-10-22T12:20:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 76c0c177d4fc679dfae2de22198ad71d06f30f630ddcdba7b289dacc4cd833cc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:20:07Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-65-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Emprego
+- Desempregado
+- Internet
+- Prestações de Desemprego
+- Desemprego
+- Emprego
+- Proteção no Desemprego
+- Proteção Social
+- Segurança Social
+- Subsídio de Desemprego
+- Subsídio Social de Desemprego
+- Trabalhador Independente
+- SUBSÍDIO POR CESSAÇÃO DE ATIVIDADE
+relationships:
+- type: amended_by
+  target: pt:dre:256986:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:175983734:por
+  label: Adita Artigo 10.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2021-175983734
+  date: '2021-12-16'
+- type: amended_by
+  target: pt:dre:225044391:por
+  label: Altera Artigo 6.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391
+  date: '2023-11-30'
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:20:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 65/2012
+
+Decreto-Lei n.º 65/2012
+
+de 15 de março
+
+Através do presente decreto-lei o Governo institui um regime jurídico de proteção na eventualidade desemprego, de natureza contributiva, que tem como âmbito pessoal os trabalhadores independentes que prestam serviços a uma entidade contratante da qual dependam economicamente.
+
+O objetivo é estender a estes trabalhadores independentes a proteção no desemprego, cumprindo também o compromisso assumido pelo Governo português no memorando de entendimento sobre os condicionalismos da política económica (MoU).
+
+O conceito de dependência económica adotado é o que se encontra subjacente ao conceito de entidade contratante previsto no artigo 140.º do Código dos Regimes Contributivos, aprovado pela Lei n.º 110/2009, de 16 de setembro.
+
+Ficam, assim, abrangidos pelo presente decreto-lei os trabalhadores independentes que, no mesmo ano civil, obtenham da mesma empresa, seja ela uma pessoa coletiva ou uma pessoa singular com atividade empresarial, independentemente da sua natureza e das finalidades que prossigam, 80 % ou mais do valor total anual dos rendimentos obtidos na atividade independente.
+
+Com vista a assegurar a sustentabilidade financeira da medida, optou-se por financiar a proteção social no desemprego destes trabalhadores através das contribuições pagas pelas empresas, decorrentes da taxa contributiva de 5 % devida na sua qualidade de entidades contratantes.
+
+Tendo em conta os riscos que se encontram sempre associados à implementação de uma medida de proteção social inovadora, como é o caso, decidiu-se que o regime jurídico a instituir devia ter como subsidiário o regime de proteção social no desemprego dos trabalhadores por conta de outrem previsto no Decreto-Lei n.º 220/2006, de 3 de novembro, regulando no presente decreto-lei as matérias que, atentas as especificidades próprias da atividade profissional independente, necessitam de regras especiais face àquele regime.
+
+É o caso, por exemplo, da previsão de um prazo de garantia mais alargado e da impossibilidade de acesso ao regime de flexibilização da idade de acesso à pensão por velhice específico do regime de proteção social do desemprego dos trabalhadores por conta de outrem.
+
+Atento o carácter inovatório da proteção, prevê-se a reavaliação do regime ora instituído no prazo de dois anos, com vista a adequá-lo às disfuncionalidades que, entretanto, venham a ser identificadas e que careçam de correção.
+
+Por último, considera-se que a implementação do regime de proteção social no desemprego dos trabalhadores independentes, economicamente dependentes, seja operacionalizada em estreita articulação com o reforço das políticas ativas de emprego, com vista à rápida inserção no mercado de trabalho daqueles trabalhadores.
+
+Para isso, o Governo considera fundamental a implementação de medidas que visem a criação de postos de trabalho e que reforcem a empregabilidade, nomeadamente as que visam promover a inserção no mercado de trabalho dos desempregados antes destes perderem o direito à proteção no desemprego.
+
+Foram ouvidos os órgãos de governo próprio da Regiões Autónomas e os parceiros sociais com assento na Comissão Permanente da Concertação Social.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 4/2007, de 16 de janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece, no âmbito do sistema previdencial, o regime jurídico de proteção social na eventualidade de desemprego dos trabalhadores que se encontrem enquadrados no regime dos trabalhadores independentes e que prestam serviços maioritariamente a uma entidade contratante.
+
+###### Artigo 2.º — Caracterização da eventualidade
+
+1 - Para efeitos do presente decreto-lei é considerado desemprego toda a situação decorrente da cessação involuntária do contrato de prestação de serviços com entidade contratante do trabalhador independente, economicamente dependente, com capacidade e disponibilidade para o trabalho e inscrito para emprego no centro de emprego.
+
+2 - Consideram-se entidades contratantes as definidas como tal no artigo 140.º do Código dos Regimes Contributivos.
+
+###### Artigo 3.º — Âmbito pessoal
+
+1 - Integram o âmbito pessoal do presente decreto-lei os beneficiários enquadrados no regime dos trabalhadores independentes que sejam economicamente dependentes de uma única entidade contratante.
+
+2 - Consideram-se economicamente dependentes os trabalhadores independentes que reúnam os requisitos previstos no artigo 140.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social (CRC), aprovado pela Lei n.º 110/2009, de 16 de setembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+###### Artigo 4.º — Âmbito material
+
+1 - A proteção social na eventualidade efetiva-se mediante a atribuição do subsídio por cessação de atividade e do subsídio parcial por cessação de atividade.
+
+2 - O subsídio por cessação de atividade visa compensar a perda de rendimentos dos trabalhadores independentes em consequência da cessação involuntária da atividade independente resultante da cessação de contrato de prestação de serviços com entidade contratante.
+
+3 - O subsídio parcial por cessação de atividade é atribuído nas situações em que o trabalhador independente, após cessar o contrato de prestação de serviços com a entidade contratante, mantenha uma atividade profissional cujo rendimento seja inferior ao montante do subsídio por cessação de atividade.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+###### Artigo 5.º — Titularidade
+
+A titularidade do direito aos subsídios previstos no artigo anterior é reconhecida aos beneficiários que integram o âmbito pessoal do presente decreto-lei que reúnam as respetivas condições de atribuição à data da cessação do contrato de prestação de serviços com entidade contratante e residam em território nacional.
+
+###### Artigo 6.º — Condições de atribuição
+
+1 - O reconhecimento do direito ao subsídio por cessação de atividade ao trabalhador independente depende da verificação cumulativa das seguintes condições:
+
+a) Cessação involuntária do vínculo contratual celebrado com a entidade contratante;
+
+b) Cumprimento do prazo de garantia;
+
+c) O trabalhador independente ter sido considerado economicamente dependente de entidade contratante no ano civil imediatamente anterior ao da cessação do contrato de prestação de serviços;
+
+d) O trabalhador independente ser considerado economicamente dependente à data da cessação do contrato de prestação de serviços;
+
+e) Inscrição no centro de emprego da área de residência, para efeitos de emprego.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, considera-se a cessação do contrato de prestação de serviços por iniciativa do trabalhador independente economicamente dependente com o estatuto de vítima de violência doméstica.
+
+3 - Não é reconhecido o direito à proteção aos beneficiários que à data da cessação involuntária do contrato de prestação de serviços tenham idade legal de acesso à pensão de velhice, desde que se encontre cumprido o respetivo prazo de garantia.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 113/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391), em vigor a partir de 2023-12-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 13/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986), em vigor a partir de 2013-02-04, produz efeitos a partir de 2012-07-01
+
+###### Artigo 7.º — Data do desemprego
+
+Considera-se data do desemprego o dia imediatamente subsequente àquele em que se verificou a cessação do contrato de prestação de serviços, indicado pela entidade contratante em modelo próprio.
+
+###### Artigo 8.º — Prazo de garantia
+
+1 - O prazo de garantia para atribuição dos subsídios por cessação de atividade é de 360 dias de exercício de atividade independente economicamente dependente, com o correspondente pagamento efetivo de contribuições, num período de 24 meses imediatamente anterior à data da cessação involuntária do contrato de prestação de serviços.
+
+2 - Para efeitos do disposto no número anterior, quando necessário, podem ainda ser considerados os períodos de registo de remunerações no âmbito do regime geral dos trabalhadores por conta de outrem e do regime dos trabalhadores independentes.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+###### Artigo 9.º — Verificação do prazo de garantia
+
+1 - Os períodos de registo de remunerações correspondentes a situações de equivalência decorrentes da concessão do subsídio por cessação da atividade não são relevantes para efeitos de verificação do prazo de garantia.
+
+2 - Os períodos de registo de remunerações relevantes para o preenchimento de um prazo de garantia com atribuição de subsídio por cessação da atividade não são considerados para efeitos de prazo de garantia em nova situação de desemprego por cessação de contrato de trabalho ou de prestação de serviços com entidade contratante.
+
+3 - Os períodos de registos de remunerações decorrentes de coexistência de subsídio parcial por cessação de atividade e exercício de atividade profissional por conta de outrem ou independente, nos termos previstos no presente decreto-lei, não relevam para efeitos do prazo de garantia.
+
+###### Artigo 10.º — Montante do subsídio por cessação de atividade
+
+1 - O montante diário do subsídio por cessação de atividade é calculado na base de 30 dias por mês, de acordo com a seguinte fórmula:
+
+(RR x 0,65) x P
+
+2 - Para efeitos de aplicação da fórmula referida no número anterior, entende-se por:
+
+a) 'RR' a remuneração média diária definida por R/360, em que R representa o total das remunerações registadas nos 12 meses civis que precedem o 2.º mês anterior ao da data da cessação involuntária do contrato de prestação de serviços;
+
+b) 'P' a percentagem correspondente à dependência económica do beneficiário relativamente à entidade contratante.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+###### Artigo 10.º-A — Majoração do montante do subsídio por cessação de atividade
+
+1 - O montante diário do subsídio por cessação de atividade, calculado nos termos do artigo anterior, é majorado em 10 % quando, no mesmo agregado familiar, ambos os cônjuges ou pessoas que vivam em união de facto, ou o parente único no agregado monoparental, tenham filhos ou equiparados a cargo e sejam titulares de uma das seguintes prestações:
+
+a) Subsídio de desemprego;
+
+b) Subsídio por cessação de atividade;
+
+c) Subsídio por cessação de atividade profissional.
+
+2 - O titular do subsídio por cessação de atividade tem ainda direito à majoração prevista no número anterior quando o seu cônjuge ou pessoa que com ele viva em união de facto se encontre em situação de desemprego não subsidiado e tenham filhos ou equiparados a cargo.
+
+3 - Para efeitos do número anterior considera-se em situação de desemprego a pessoa inscrita para procura de emprego no serviço público de emprego.
+
+4 - Quando os beneficiários sejam casados ou vivam em união de facto a majoração é de 10 % para cada um.
+
+5 - Sempre que o cônjuge ou pessoa que vive em união de facto deixe de ser titular de subsídio de desemprego e lhe seja atribuído subsídio social de desemprego subsequente, ou deixe de ser titular do subsídio por cessação de atividade ou de subsídio por cessação de atividade profissional e permaneça em situação de desemprego sem auferir qualquer prestação social por essa eventualidade, mantém-se a majoração do subsídio por cessação de atividade em relação ao beneficiário desta prestação social.
+
+6 - O conceito de agregado monoparental referido no n.º 1 obedece ao previsto no artigo 8.º-A do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual, que institui o abono de família para crianças e jovens e define a proteção na eventualidade de encargos familiares no âmbito do subsistema de proteção familiar.
+
+7 - A majoração prevista no n.º 1 depende de requerimento e da prova das condições de atribuição.
+
+8 - A majoração do subsídio por cessação de atividade prevista no presente artigo aplica-se ainda aos beneficiários que, à data da entrada em vigor do presente decreto-lei, se encontrem a receber essa prestação ou cujos requerimentos para a sua atribuição estejam pendentes de decisão por parte dos serviços competentes.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2021-175983734), em vigor a partir de 2021-12-17, produz efeitos a partir de 2022-01-01
+
+###### Artigo 11.º — Requerimento
+
+1 - O requerimento para atribuição do subsídio por cessação de atividade deve ser apresentado no prazo de 90 dias consecutivos a contar da data do desemprego por cessação do contrato de prestação de serviços e precedido de inscrição para emprego no centro de emprego.
+
+2 - O requerimento, de modelo próprio, é apresentado no centro de emprego da área da residência do beneficiário ou online no sítio da Internet da segurança social.
+
+###### Artigo 12.º — Elementos instrutórios do requerimento
+
+1 - O requerimento do subsídio por cessação de atividade é instruído com informação comprovativa da situação de cessação involuntária do contrato de prestação de serviços e da data a que se reporta, em modelo próprio, bem como com a declaração comprovativa do estatuto de violência doméstica do beneficiário, na situação prevista no n.º 2 do artigo 6.º
+
+2 - A informação da situação de cessação involuntária do contrato de prestação de serviços é emitida, em modelo próprio, pela entidade contratante no sítio da Internet da segurança social, no prazo de cinco dias úteis a contar da data da cessação do contrato de prestação de serviços.
+
+3 - A declaração prevista no n.º 1 é apresentada pelo beneficiário no sítio da Internet da segurança social, devendo ser corretamente digitalizada e integralmente apreensível.
+
+4 - Os beneficiários têm o dever de conservar os originais dos meios de prova, pelo prazo de cinco anos, bem como o dever de os apresentar sempre que solicitados pelos serviços competentes.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 113/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391), em vigor a partir de 2023-12-01
+
+###### Artigo 13.º — Modelos do requerimento
+
+Os modelos dos requerimentos referidos nos artigos 7.º, 11.º e 12.º são aprovados por despacho do membro do Governo responsável pela área da solidariedade e segurança social.
+
+###### Artigo 14.º — Meios de prova específicos do subsídio parcial por cessação de atividade
+
+A atribuição do subsídio parcial por cessação de atividade depende ainda da prova das seguintes condições especiais:
+
+a) Tipo de atividade exercida;
+
+b) Retribuição mensal do trabalho por conta de outrem a tempo parcial ou do montante ilíquido da atividade independente.
+
+###### Artigo 15.º — Registo de equivalências
+
+1 - O período de pagamento do subsídio por cessação de atividade dá lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor do subsídio, relevando para o prazo de garantia das prestações diferidas e imediatas, com exceção do desemprego por cessação do contrato de trabalho e por cessação do contrato de prestação de serviços.
+
+2 - Nas situações de atribuição de subsídio parcial de cessação de atividade, a remuneração a registar por equivalência à entrada de contribuições é igual à diferença entre a remuneração por trabalho por conta de outrem ou entre o rendimento relevante da atividade exercida como trabalho independente e o valor do subsídio por cessação de atividade.
+
+###### Artigo 16.º — Exclusão do regime de flexibilização da idade de pensão por velhice
+
+O regime de flexibilização da idade de acesso à pensão por velhice previsto no regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem não se aplica aos trabalhadores independentes economicamente dependentes.
+
+###### Artigo 17.º — Financiamento
+
+As contribuições das entidades contratantes sobre serviços prestados por trabalhadores independentes financiam a eventualidade de desemprego para os efeitos previstos no presente decreto-lei.
+
+###### Artigo 18.º — Aplicação subsidiária
+
+Em tudo o que não se encontre especialmente previsto no presente diploma aplica-se subsidiariamente o regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem, com as devidas adaptações.
+
+###### Artigo 19.º — Avaliação do regime instituído
+
+O regime de proteção social no desemprego dos trabalhadores independentes economicamente dependentes estabelecido no presente decreto-lei é objeto de avaliação no prazo de dois anos após a data da sua entrada em vigor.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 1 de julho de 2012.
+
+Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 5 de março de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 7 de março de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

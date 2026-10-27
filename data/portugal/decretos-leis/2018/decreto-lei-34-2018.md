@@ -1,0 +1,427 @@
+---
+schema_version: '1.0'
+id: pt:dre:115312062:por
+title: Decreto-Lei n.º 34/2018
+short_title: null
+summary: Estabelece os termos da integração dos trabalhadores da Administração Pública que prestam serviço nos programas operacionais,
+  nos organismos intermédios e no órgão de coordenação dos fundos europeus
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Planeamento e das Infraestruturas
+official_number: 34/2018
+official_date: null
+publication_date: '2018-05-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/2018, Série I de 2018-05-15
+  number: '93'
+  series: I
+  supplement: null
+  pages: 2164 - 2168
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09300/0216402168.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-10-05'
+version_history:
+  file: decreto-lei-34-2018.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2018-05-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-05'
+    amending: pt:dre:222421857:por
+    amending_title: Decreto-Lei n.º 84/2023
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/34/2018/p/cons/20231004/pt/html
+  oj: null
+  dre: '115312062'
+  dre_path: /dr/detalhe/decreto-lei/34-2018-115312062
+  internal: pt:dre:115312062:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2018-115312062
+  metadata_url: https://data.dre.pt/eli/dec-lei/34/2018/p/cons/20231004/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115327809
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115327809
+  retrieved_at: '2026-10-22T12:19:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d2d7c1ab011edfdf66ffb7467b56063485ed15dc74f87e72bfe822f4e8a5402c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:19:02Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-34-2018.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Emprego
+- Regime do Contrato de Trabalho em Funções Públicas
+- Admissão de Pessoal
+- Agência para o Desenvolvimento e Coesão
+- Concurso
+- Criação de Lugares
+- Administração Pública
+- Recrutamento de Pessoal
+- Conselho Diretivo
+- Integração de Trabalhadores
+- FSE
+- Período Experimental
+- Programa Operacional
+- Quadro de Pessoal
+- Remuneração
+- Mobilidade de Pessoal
+- PORTUGAL 2020
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+relationships:
+- type: amended_by
+  target: pt:dre:222421857:por
+  label: Adita Artigo 6.º-A; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857
+  date: '2023-10-04'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/59/2014/10/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/59/2014/10/30/p/dre
+- type: cites
+  target: pt:dre:106536877:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/32/2017/02/28/p/dre
+- type: cites
+  target: pt:dre:114425584:por
+  label: null
+  source: http://data.dre.pt/eli/lei/112/2017/12/29/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:572634:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:65908879:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/73-b/2014/12/16/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:19:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 34/2018
+
+Decreto-Lei n.º 34/2018
+
+de 15 de maio
+
+A promoção do emprego e o combate à precariedade laboral é uma das prioridades do XXI Governo Constitucional. Nesta conformidade, pela Resolução do Conselho de Ministros n.º 32/2017, de 28 de fevereiro, foi aprovado o Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública (PREVPAP), o qual abrange os casos relativos a postos de trabalho que correspondem a necessidades permanentes dos serviços da Administração Pública, sem o adequado vínculo jurídico, desde que se verifiquem alguns dos indícios previstos no artigo 12.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.
+
+Aquela delimitação do âmbito de aplicação do PREVPAP deixou de fora os trabalhadores das estruturas de missão que operacionalizam os fundos europeus, que têm vindo a transitar sucessivamente de um quadro de financiamento europeu para o seguinte.
+
+A opção seguida ao longo dos anos de assentar os modelos de governação dos fundos europeus em estruturas de missão, motivada pelo limite temporal dos quadros de financiamento, tem permitido apenas a contratação de trabalhadores a termo.
+
+Sublinhe-se que estes trabalhadores, altamente qualificados e especializados, têm sido e são essenciais para a boa execução dos fundos europeus, reconhecendo-se agora a condição do regime de precaridade em que têm vindo a prestar este serviço relevante no quadro da Administração Pública.
+
+A par dos trabalhadores que integram as Autoridades de Gestão dos Fundos Europeus, existem outros que exercem funções em organismos intermédios cujos contratos de trabalho a termo resolutivo ou prestações de serviço estão ligados a tarefas de gestão de fundos europeus que foram delegadas nesses organismos. E, bem assim, os trabalhadores que prestam serviço nas estruturas previstas na Resolução do Conselho de Ministros n.º 15/2014, de 24 de fevereiro, que também operacionalizam fundos europeus com o horizonte temporal de 2020.
+
+Reconhecendo tudo isto, a Lei n.º 112/2017, de 29 de dezembro, que regula os termos da regularização prevista no PREVPAP, autoriza o Governo a desenvolver os procedimentos necessários à reconfiguração do vínculo laboral dos trabalhadores que prestam serviço nos programas operacionais ou nos organismos intermédios, que operacionalizam os fundos europeus, prevendo a sua integração com contratos de trabalho em funções públicas por tempo indeterminado, mediante prévia submissão a procedimento concursal.
+
+Com a reconfiguração do vínculo contratual destes trabalhadores, há uma mudança de paradigma no regime de contratação, passando a modalidade de contrato de trabalho por tempo indeterminado a ser a regra de contratação.
+
+Foram observados os procedimentos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 18.º da Lei n.º 112/2017, de 29 de dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece os termos da integração dos trabalhadores com contrato de trabalho em funções públicas a termo resolutivo, certo ou incerto, ou de prestação de serviços para execução de trabalho subordinado, a que se refere o artigo 18.º da Lei n.º 112/2017, de 29 de dezembro.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei abrange os trabalhadores da Administração Pública que prestam serviço nos programas operacionais, nos organismos intermédios ou no órgão de coordenação técnica geral dos fundos, que operacionalizam o Portugal 2020, que correspondam ao conteúdo funcional de carreiras gerais, nos termos da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+2 - O disposto no número anterior abrange os trabalhadores que operacionalizam o Portugal 2020 que, cumulativamente, cumpram os seguintes requisitos:
+
+a) Possuam contrato de trabalho em funções públicas a termo resolutivo, certo ou incerto, ou de prestação de serviços para execução de trabalho subordinado, para o desempenho de atividades relacionadas com a gestão, acompanhamento, certificação, pagamentos, monitorização, avaliação e divulgação de fundos europeus estruturais e de investimento;
+
+b) O desempenho efetivo das atividades referidas no número anterior corresponda a, pelo menos, 70 % do seu período normal de trabalho;
+
+c) A respetiva remuneração seja financiada pelos fundos afetos à assistência técnica dos programas operacionais do Portugal 2020.
+
+3 - São ainda abrangidos pelo presente decreto-lei os trabalhadores com contrato de trabalho em funções públicas a termo resolutivo, certo ou incerto, ou de prestação de serviços para execução de trabalho subordinado, que prestam serviço nas estruturas previstas na Resolução do Conselho de Ministros n.º 15/2014, de 24 de fevereiro, no limite das dotações nela previstas, enquanto órgãos que asseguram a execução a nível nacional de um programa europeu de gestão centralizada na Comissão Europeia.
+
+###### Artigo 3.º — Âmbito da integração
+
+1 - A integração ao abrigo do presente decreto-lei aplica-se aos trabalhadores que reúnam, cumulativamente, os seguintes requisitos:
+
+a) Possuam contrato de trabalho a termo resolutivo, certo ou incerto, ou de prestação de serviços para execução de trabalho subordinado;
+
+b) Seja reconhecido, pelo dirigente máximo do respetivo órgão ou serviço, que o trabalhador se encontra nas circunstâncias referidas no n.º 2 ou no n.º 3 do artigo anterior.
+
+2 - Considera-se ainda preenchido o requisito previsto na alínea a) do n.º 1 no caso dos trabalhadores que, cumulativamente, observem as seguintes condições:
+
+a) À data de entrada em vigor do presente decreto-lei, se encontrem no exercício de funções dirigentes nas autoridades de gestão dos programas operacionais ou no órgão de coordenação técnica geral dos fundos;
+
+b) Comprovem que, em momento anterior ao início do exercício das funções dirigentes nos programas operacionais ou no órgão de coordenação técnica geral dos fundos, reuniam os requisitos previstos no n.º 2 do artigo anterior.
+
+###### Artigo 4.º — Modo de integração
+
+Os trabalhadores abrangidos pelo presente decreto-lei são integrados na carreira correspondente às funções exercidas que deram origem à sua integração e, no caso das carreiras pluricategoriais, na respetiva categoria de base, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, mediante aprovação em procedimento concursal.
+
+###### Artigo 5.º — Período experimental
+
+Aos trabalhadores integrados nos termos do presente decreto-lei é aplicável o disposto no artigo 11.º da Lei n.º 112/2017, de 29 de dezembro.
+
+###### Artigo 6.º — Mapa de pessoal
+
+1 - É criado, na Agência para o Desenvolvimento e Coesão, I. P. (Agência, I. P.), um mapa de pessoal específico para os trabalhadores dos programas operacionais dos fundos europeus estruturais e de investimento, o qual é estruturado por programa operacional, com a indicação do número de postos de trabalho afetos a cada programa operacional, e financiado em exclusivo pelos referidos programas.
+
+2 - A caracterização dos postos de trabalho é feita em função da atividade da autoridade de gestão dos respetivos programas operacionais, mediante proposta das autoridades de gestão à Agência, I. P., às quais cabe aplicar o sistema integrado de gestão e avaliação do desempenho na Administração Pública a que se refere a Lei n.º 66-B/2007, de 28 de dezembro.
+
+3 - A dotação inicial de postos de trabalho a prever no mapa de pessoal referido nos números anteriores corresponde ao número de trabalhadores abrangidos pelos procedimentos concursais.
+
+4 - No caso dos organismos intermédios, do órgão de coordenação técnica geral dos fundos ou das estruturas referidas no n.º 3 do artigo 2.º, para efeitos de abertura de procedimentos concursais para a integração dos trabalhadores abrangidos pelo presente decreto-lei, quando o número de postos de trabalho não ocupados seja insuficiente, é automaticamente aumentado, nos mapas de pessoal dos órgãos ou serviços abrangidos, o número de postos de trabalho estritamente necessário para corresponder ao número de trabalhadores.
+
+5 - Quando as mesmas funções sejam exercidas a tempo parcial, os respetivos períodos normais de trabalho são adicionados para perfazer um posto de trabalho.
+
+6 - O mapa de pessoal específico é homologado pelo membro do Governo que exerce superintendência e tutela sobre a Agência, I. P., após aprovação, pelos membros do Governo responsáveis pela coordenação política específica, da parte do mapa de pessoal respeitante aos correspondentes programas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 6.º-A — Pessoal do mapa específico no período de programação de 2021-2027
+
+1 - No âmbito do quadro de programação de 2021-2027, integram o mapa de pessoal específico a que se refere o n.º 1 do artigo anterior os trabalhadores com vínculo de emprego público por tempo indeterminado das autoridades de gestão dos programas temáticos, do programa de assistência técnica, do plano estratégico da Política Agrícola Comum para Portugal (PEPAC) e do Programa Fundo para o Asilo, a Migração e a Integração (FAMI).
+
+2 - A dotação máxima de postos de trabalho do mapa de pessoal específico não pode exceder, para cada programa, o número de trabalhadores fixado nas resoluções do Conselho de Ministros que estabelecem a composição das respetivas autoridades de gestão, nem o número total correspondente à soma do número desses trabalhadores.
+
+3 - Na transição de quadros de programação, os trabalhadores a que se refere o n.º 1 do artigo anterior são, nos termos dos n.os 4 e 5 do artigo 72.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, afetos às autoridades de gestão que sucedem nas competências, nos direitos e nas obrigações das autoridades de gestão dos programas aos quais os trabalhadores se encontravam afetos, sem prejuízo do estabelecido no número seguinte.
+
+4 - Os trabalhadores do mapa de pessoal específico a que se refere o n.º 1 do artigo anterior que, no momento da transição entre quadros de programação, não sejam afetos nos termos do número anterior podem ser afetos a qualquer outro dos programas do mapa de pessoal específico referidos no n.º 1, mediante aceitação expressa do trabalhador e obtido o acordo da Agência, I. P., e da autoridade de gestão do programa de destino, passando o trabalhador a exercer a prestação de trabalho sob a direção e disciplina do competente órgão, e sendo os respetivos encargos suportados pelo orçamento do programa de destino.
+
+5 - Os trabalhadores do mapa de pessoal específico que não sejam afetos nos termos dos n.os 3 e 4 permanecem no mapa de pessoal específico da Agência, I. P., integrados em sistematização própria criada para o efeito, sendo afetos ao exercício de funções relacionadas com a gestão, o acompanhamento, a certificação, o pagamento, a monitorização, a avaliação ou a divulgação de fundos europeus, sob direção e disciplina da Agência, I. P., e sendo os respetivos encargos por esta suportados.
+
+6 - O estabelecido nos n.os 3 a 5 não prejudica o regime de reafetação de trabalhadores entre programas do mapa de pessoal específico nos termos do artigo 10.º, aplicável também, com as necessárias adaptações, à reafetação dos trabalhadores referidos no número anterior, nem a possibilidade de os trabalhadores do mapa de pessoal específico exercerem funções ao abrigo dos instrumentos de mobilidade geral previstos na LTFP.
+
+7 - À afetação de trabalhadores prevista nos n.os 3 a 5 é aplicável o disposto no n.º 3 do artigo 10.º
+
+8 - O regime previsto nos n.os 3 a 5 aplica-se aos trabalhadores do mapa de pessoal específico que, no momento da transição de quadros de programação, se encontrem designados em comissão de serviço, em exercício de funções em gabinetes ministeriais, ou exerçam outras funções de caráter transitório noutro órgão ou serviço, sem prejuízo da manutenção do exercício das funções de caráter transitório até ao respetivo termo.
+
+9 - O regime previsto no presente artigo é aplicável com as necessárias adaptações aos períodos de programação seguintes ao período de programação de 2021-2027.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 7.º — Procedimento concursal
+
+1 - Aos procedimentos concursais é aplicável o disposto na Lei n.º 112/2017, de 29 de dezembro, com as especificidades previstas nos números seguintes.
+
+2 - O número de postos de trabalho a tempo completo a incluir nos procedimentos concursais corresponde ao número de trabalhadores abrangidos pelo procedimento.
+
+3 - O órgão ou serviço que presta apoio a cada programa operacional realiza os procedimentos concursais para o preenchimento dos postos de trabalho afetos aos mesmos, em articulação com as autoridades de gestão dos programas operacionais, sob a coordenação da Agência, I. P.
+
+4 - A caracterização dos postos de trabalho referidos no número anterior é definido pelos órgãos e serviços de apoio dos programas operacionais, devendo corresponder à caracterização dos postos de trabalho previstos no mapa de pessoal identificado no n.º 1 do artigo 6.º
+
+5 - Os procedimentos concursais são abertos no prazo de 60 dias a contar da data da entrada em vigor do presente decreto-lei.
+
+6 - Podem ser opositores aos procedimentos concursais os trabalhadores que se encontram na situação descrita no artigo 3.º e que exerçam as funções correspondentes aos postos de trabalho.
+
+7 - Para os postos de trabalho referidos no n.º 5 do artigo anterior, podem ser opositores aos procedimentos concursais os trabalhadores que se encontram na situação descrita no artigo 3.º e que exerçam as funções correspondentes aos postos de trabalho a tempo parcial.
+
+8 - Cabe ao conselho diretivo da Agência, I. P., homologar a lista de ordenação dos candidatos dos procedimentos concursais para preenchimento dos postos de trabalho afetos aos programas operacionais do Portugal 2020.
+
+###### Artigo 8.º — Processo de integração
+
+1 - Os trabalhadores dos programas operacionais são integrados no mapa de pessoal previsto no n.º 1 do artigo 6.º, mediante a constituição de vínculos de emprego público por tempo indeterminado, precedida de aprovação em procedimento concursal.
+
+2 - Os trabalhadores dos organismos intermédios e do órgão de coordenação técnica geral dos fundos são integrados no mapa de pessoal dos respetivos organismos, mediante a constituição de vínculos de emprego público por tempo indeterminado, precedida de aprovação em procedimento concursal.
+
+3 - Os trabalhadores referidos no número anterior cujo organismo tenha uma duração temporal limitada são integrados no mapa de pessoal previsto no n.º 1 do artigo 6.º, em posto de trabalho afeto ao programa operacional temático no âmbito do qual o organismo intermédio opera ou no programa operacional da assistência técnica do Portugal 2020.
+
+4 - Os trabalhadores referidos no n.º 3 do artigo 2.º são integrados no mapa de pessoal da Secretaria-Geral da Educação e Ciência e são automaticamente colocados em regime de mobilidade nas estruturas previstas na Resolução do Conselho de Ministros n.º 15/2014, de 24 de fevereiro, não podendo, em momento algum, ser ultrapassada a dotação máxima de trabalhadores definida para essas estruturas, independentemente da forma de recrutamento e ou relação contratual utilizada.
+
+5 - Os trabalhadores referidos no n.º 1 são automaticamente afetos às autoridades de gestão dos respetivos programas operacionais para nelas exercerem a sua prestação de trabalho, sob a direção e disciplina dos competentes órgãos das autoridades de gestão.
+
+6 - Os encargos com as remunerações dos trabalhadores referidos no n.º 1 são suportados pelo orçamento dos programas operacionais, inscrito nos respetivos órgãos ou serviços de apoio.
+
+7 - Os encargos com as remunerações dos trabalhadores referidos no n.º 4 são suportados pelo orçamento de funcionamento das estruturas previstas na Resolução do Conselho de Ministros n.º 15/2014, de 24 de fevereiro.
+
+###### Artigo 9.º — Remuneração
+
+1 - Aos trabalhadores integrados com contrato de trabalho em funções públicas por tempo indeterminado nos termos do presente decreto-lei é aplicável o disposto nos artigos 12.º e 13.º da Lei n.º 112/2017, de 29 de dezembro, com as especificidades previstas nos números seguintes.
+
+2 - A alteração do posicionamento remuneratório dos trabalhadores dos programas operacionais, nos termos previstos no número anterior, é da responsabilidade da respetiva autoridade de gestão, sob a coordenação da Agência, I. P.
+
+3 - Os trabalhadores integrados que, por efeitos da aplicação das regras relativas à determinação do posicionamento remuneratório referidas no n.º 1, fiquem com uma remuneração base inferior à que detinham na situação que deu origem à integração, auferem um suplemento remuneratório, que corresponde ao diferencial de remuneração.
+
+4 - O montante do suplemento remuneratório, fixado através da aplicação das regras previstas nos artigos 12.º e 13.º da Lei n.º 112/2017, de 29 de dezembro, diminui no montante do aumento salarial dos trabalhadores que decorra por força de alteração do seu posicionamento remuneratório.
+
+5 - O disposto no número anterior não inviabiliza o aumento do suplemento remuneratório por efeitos da aplicação do coeficiente de atualização salarial aplicável à remuneração base da generalidade dos trabalhadores em funções públicas.
+
+6 - O montante anual do suplemento remuneratório é pago em 12 meses por ano e é devido pelo exercício efetivo das funções que deram origem à sua integração.
+
+7 - Perdem o direito ao suplemento remuneratório os trabalhadores que, a qualquer título, deixem de exercer as funções referidas no número anterior, sem prejuízo de regimes especiais que o salvaguardem.
+
+8 - Mantêm o direito ao suplemento remuneratório previsto no presente artigo os trabalhadores que exerçam funções em regime de mobilidade prevista na LTFP:
+
+a) Na Agência, I. P.;
+
+b) Nos programas referidos no n.º 1 do artigo 6.º-A;
+
+c) Nas CCDR desde que afetos exclusivamente aos programas regionais dos fundos europeus.
+
+9 - Os trabalhadores que consolidem a mobilidade prevista no número anterior mantêm o direito ao suplemento remuneratório enquanto exercerem as funções que deram origem à respetiva atribuição, e até à integração do mesmo nos termos previstos no n.º 4.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 10.º — Reafetação de trabalhadores do mapa específico
+
+1 - É permitida a reafetação de trabalhadores entre programas no âmbito do mapa de pessoal específico previsto no n.º 1 do artigo 6.º-A.
+
+2 - A reafetação carece de aceitação expressa do trabalhador e depende do acordo da Agência, I. P., da autoridade de gestão do programa de origem e da autoridade de gestão do programa de destino, para a qual o trabalhador passa a exercer a sua prestação de trabalho, sob a direção e disciplina do competente órgão.
+
+3 - Os trabalhadores reafetados nos termos dos números anteriores mantêm o suplemento remuneratório, sem prejuízo de gozarem de outros direitos e garantias previstos no regime geral de mobilidade, regulado na LTFP, e sem prejuízo do disposto no n.º 9 do artigo anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 11.º — Regime transitório de proteção
+
+Os vínculos de emprego público a termo resolutivo certo e os contratos de prestação de serviços dos trabalhadores abrangidos pelo artigo 3.º existentes à data de entrada em vigor do presente decreto-lei são prorrogados até à conclusão dos correspondentes procedimentos concursais.
+
+###### Artigo 12.º — Alteração ao Decreto-Lei n.º 137/2014, de 12 de setembro
+
+O artigo 19.º do Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento para o período de 2014-2020, passa a ter a seguinte redação:
+
+«Artigo 19.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - [...].
+
+10 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) À afetação de trabalhadores do mapa de pessoal dos programas operacionais dos fundos europeus da Agência, I. P.
+
+11 - [...].»
+
+###### Artigo 13.º — Recrutamento de novos trabalhadores para os programas operacionais
+
+1 - O recrutamento de novos trabalhadores para o mapa de pessoal específico dos programas a que se refere o n.º 1 do artigo 6.º-A é efetuado através de recrutamento centralizado ou de recrutamento promovido pela Agência, I. P., a solicitação das autoridades de gestão, de acordo com a disponibilidade orçamental dos correspondentes programas, inscrita nos respetivos serviços de apoio, os quais identificam as necessidades e definem os perfis dos trabalhadores a recrutar, e sem prejuízo das competências dos serviços ou organismos que prestam o apoio logístico e administrativo às respetivas autoridades de gestão relativas ao recrutamento dos demais trabalhadores.
+
+2 - O disposto no presente decreto-lei não determina, em momento algum, o aumento ou a diminuição do número de elementos de cada autoridade de gestão, de acordo com a dotação fixada na resolução do Conselho de Ministros que procede à respetiva criação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 14.º — Alteração do posicionamento remuneratório dos trabalhadores dos programas
+
+1 - Após a integração e reposicionamento dos trabalhadores nos termos dos artigos 12.º e 13.º da Lei n.º 112/2017, de 29 de dezembro, compete à Agência, I. P., operacionalizar a alteração do posicionamento remuneratório dos trabalhadores afetos ao mapa de pessoal específico dos programas dos fundos europeus, nos termos da lei.
+
+2 - Para o efeito, devem as autoridades de gestão comunicar à Agência, I. P., a decisão de homologação da avaliação dos trabalhadores em cada ciclo avaliativo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 15.º — Procedimentos concursais pendentes
+
+1 - Mantêm-se em vigor os procedimentos concursais que se encontrem pendentes à data da entrada em vigor do presente decreto-lei para o preenchimento de postos de trabalho que reúnam as características enunciadas no artigo 2.º nos órgãos, serviços ou estruturas nele referidos.
+
+2 - Os procedimentos referidos no número anterior consideram-se abertos na modalidade de contrato de trabalho em funções públicas por tempo indeterminado.
+
+3 - Aplica-se aos procedimentos referidos no n.º 1 os artigos 6.º, 7.º, n.º 2, e 8.º do presente decreto-lei, com as necessárias adaptações.
+
+4 - Os procedimentos concursais consideram-se abertos apenas para os postos de trabalho existentes à data da publicitação dos avisos de abertura.
+
+###### Artigo 16.º — Disposições finais
+
+1 - Os trabalhadores que, por força do disposto no presente decreto-lei, sejam integrados nas carreiras gerais da função pública, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, cessam o vínculo de emprego público a termo resolutivo, certo ou incerto, e os contratos de prestação de serviços, não havendo lugar ao pagamento de qualquer compensação nem à respetiva substituição por trabalhadores com relações contratuais de natureza temporária.
+
+2 - Os trabalhadores previstos no n.º 2 do artigo 3.º que venham a ser recrutados nos termos do presente decreto-lei mantêm-se em funções dirigentes, celebrando o respetivo contrato de trabalho em funções públicas por tempo indeterminado apenas quando cessarem o exercício dessas funções.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de abril de 2018. - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - José António Fonseca Vieira da Silva - Ângelo Nelson Rosário de Souza.
+
+Promulgado em 5 de maio de 2018.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 11 de maio de 2018.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111344044

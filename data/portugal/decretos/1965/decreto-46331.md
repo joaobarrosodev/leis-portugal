@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:294149:por
+title: Decreto n.º 46331
+short_title: null
+summary: Autoriza a Administração-Geral dos Correios, Telégrafos e Telefones a celebrar dois contratos para o fornecimento
+  de cabos telefónicos urbanos
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Administração-Geral dos Correios, Telégrafos e Telefones
+proposing_entity: null
+official_number: '46331'
+official_date: null
+publication_date: '1965-05-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 106/1965, Série I de 1965-05-13
+  number: '106'
+  series: I
+  supplement: null
+  pages: 662 - 662
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/05/10600/06620662.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294149'
+  dre_path: /dr/detalhe/decreto/46331-1965-294149
+  internal: pt:dre:294149:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46331-1965-294149
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46331-1965-294149
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:45:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f32ad5ea82269229bcf31d1da1e7c9d746824a517c8925577c4f45781428b183
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302689:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:45:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46331
+
+Carece a Administração-Geral dos Correios, Telégrafos e Telefones de proceder à aquisição de cabos telefónicos urbanos destinados à ampliação e remodelação da rede telefónica nacional.
+
+Concluídas as formalidades conducentes à adjudicação, delas resulta que o encargo se reparte por mais de um ano económico.
+
+Não se verificando a circunstância prevista no artigo 1.º do [Decreto-Lei n.º 41597](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41597-1958-302689), de 24 de Abril de 1958, há que dar cumprimento ao que dispõe o artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição Política, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar os seguintes contratos para o fornecimento de cabos telefónicos urbanos:
+
+a) Com a firma Cabos Armados e Telefónicos, Lda., pela importância de 18808854$30;
+
+b) Com a firma Fábrica de Condutores Eléctricos Diogo d'Ávila, Lda., pela importância de 12930637$50.
+
+Estas importâncias estão sujeitas a ajustamento proveniente de eventual variação das cotações das matérias-primas - cobre, chumbo e fita de aço -, conforme tabela de correcção constante dos contratos, e serão oneradas com os encargos de capital provenientes do escalonamento dos pagamentos indicados no artigo seguinte.
+
+Art. 2.º O pagamento será efectuado em nove prestações, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender em cada ano económico mais do que as importâncias a seguir indicadas:
+
+a) À firma Cabos Armados e Telefónicos, Lda.:
+
+Em 1966 - 6722660$80 (em duas prestações);
+
+Em 1967 - 4541774$10 (em duas prestações);
+
+Em 1968 - 4301773$00 (em duas prestações);
+
+Em 1969 - 4061772$00 (em duas prestações);
+
+Em 1970 - 1940885$60.
+
+b) À firma Fábrica de Condutores Eléctricos Diogo d'Ávila, Lda.:
+
+Em 1966 - 4621668$40 (em duas prestações);
+
+Em 1967 - 3122361$00 (em duas prestações);
+
+Em 1968 - 2957366$10 (em duas prestações);
+
+Em 1969 - 2792371$20 (em duas prestações);
+
+Em 1970 - 1334312$50.
+
+Estas importâncias serão acrescidas das correspondentes ao agravamento de custo resultante da aplicação da tabela de correcção referida no artigo 1.º e a última acrescida do valor dos excessos de fabrico sobre as quantidades adjudicadas e que, nos termos contratuais, devam ser adquiridas.
+
+Art. 3.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá, em qualquer altura da execução destes contratos e desde que para tanto tenha as necessárias possibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, assim, sem efeito os limites indicados no artigo anterior.
+
+Esta antecipação será feita com o desconto dos correspondentes encargos de capital referidos no artigo 1.º
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 13 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

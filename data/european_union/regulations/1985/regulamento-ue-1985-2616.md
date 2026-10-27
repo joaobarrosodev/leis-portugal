@@ -1,0 +1,394 @@
+---
+schema_version: '1.0'
+id: eu:celex:31985R2616:por
+title: Regulamento (CEE) nº 2616/85 do Conselho, de 16 de Setembro de 1985
+short_title: null
+summary: Regulamento (CEE) nº 2616/85 do Conselho, de 16 de Setembro de 1985, relativo à conclusão do Acordo de Cooperação
+  Comercial e Económica entre a Comunidade Económica Europeia e a República Popular da China
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1985/2616
+official_date: null
+publication_date: '1985-09-19'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 250 de 19.9.1985
+  number: '250'
+  series: null
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/86c68e3b-f502-423a-8fc7-57db8a10abbc.0011.02/DOC_1
+entry_into_force_dates:
+- '1985-09-22'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31985R2616
+  eli: http://data.europa.eu/eli/reg/1985/2616/oj
+  oj: null
+  dre: null
+  dre_path: null
+  internal: eu:celex:31985R2616:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31985R2616
+  metadata_url: http://publications.europa.eu/resource/cellar/86c68e3b-f502-423a-8fc7-57db8a10abbc.0011
+  content_url: http://publications.europa.eu/resource/cellar/86c68e3b-f502-423a-8fc7-57db8a10abbc.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:42:13Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2013-07-12T21:34:30.535+02:00'
+integrity:
+  source_sha256: acfa58e064db2d901efbaec19c9734ef7c0779f9092ef46fe6692d7917265b24
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:42:13Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- China
+- acordo de cooperação (UE)
+- cooperação comercial
+- cooperação económica
+relationships:
+- type: based_on
+  target: celex:11957E113
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8204c9eb-d7d2-443d-a4c1-e6a7f2089338
+  date: '1957-03-25'
+- type: based_on
+  target: celex:11957E235
+  label: null
+  source: http://publications.europa.eu/resource/cellar/974eded0-d2d9-4941-8471-f3333ba93c66
+  date: '1957-03-25'
+article_structure:
+  article_count: 22
+  section_count: 4
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:42:13Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) nº 2616/85 do Conselho, de 16 de Setembro de 1985
+
+**Regulamento (CEE) nº 2616/85 do Conselho, de 16 de Setembro de 1985, relativo à conclusão do Acordo de Cooperação Comercial e Económica entre a Comunidade Económica Europeia e a República Popular da China** *Jornal Oficial nº L 250 de 19/09/1985 p. 0001 - 0001 Edição especial finlandesa: Capítulo 11 Fascículo 11 p. 0226 Edição especial espanhola: Capítulo 11 Fascículo 22 p. 0158 Edição especial sueca: Capítulo 11 Fascículo 11 p. 0226 Edição especial portuguesa: Capítulo 11 Fascículo 22 p. 0158*
+
+REGULAMENTO (CEE) No 2616/85 DO CONSELHO de 16 de Setembro de 1985 relativo à conclusão do Acordo de Cooperação Comercial e Económica entre a Comunidade Económica Europeia e a República Popular da China
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 113o e 235o,
+
+Tendo em conta a proposta da Comissão,
+
+Tendo em conta o parecer do Parlamento Europeu (1),
+
+Considerando que é conveniente aprovar o Acordo de Cooperação Comercial e Económica entre a Comunidade Económica Europeia e a República Popular da China,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1o
+
+O Acordo de Cooperação Comercial e Económica entre a Comunidade Económica Europeia e a República Popular da China é aprovado em nome da Comunidade.
+
+O texto do Acordo vem anexo ao presente regulamento.
+
+###### Artigo 2o
+
+O Presidente do Conselho procederá à notificação prevista no artigo 18o do Acordo (2).
+
+###### Artigo 3o
+
+Na Comissão Mista instituída pelo Acordo, a Comunidade será representada pela Comissão, assistida por representantes dos Estados-membros.
+
+###### Artigo 4o
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito no Luxemburgo em 16 de Setembro de 1985.
+
+Pelo Conselho
+
+O Presidente
+
+M. FISCHBACH
+
+(1) Parecer de 11 de Julho de 1985 (ainda não publicado no Jornal Oficial).(2) A data de entrada em vigor do Acordo será publicada no Jornal Oficial das Comunidades Europeias pelo Secretariado-Geral do Conselho.
+
+ACORDO de Cooperação Comercial e Económica entre a Comunidade Económica Europeia e a República Popular da China
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+O GOVERNO DA REPÚBLICA POPULAR DA CHINA,
+
+VERIFICANDO com satisfação o desenvolvimento das relações de amizade entre a Comunidade Económica Europeia e a República Popular da China,
+
+CONSIDERANDO que a execução do Acordo Comercial entre a Comunidade Económica Europeia e a República Popular da China, assinado em 3 de Abril de 1978, foi satisfatória,
+
+ANIMADOS pela vontade comum de instaurar uma nova fase nas suas relações comerciais e económicas,
+
+DESEJOSOS DE intensificar e diversificar, numa base de igualdade e de vantagens mútuas, as suas trocas comerciais e desenvolver activamente uma cooperação económica e técnica que corresponda ao seu interesse mútuo,
+
+DECIDIRAM CONCLUIR O PRESENTE ACORDO COM AS SEGUINTES DISPOSIÇÕES:
+
+###### Artigo 1o
+
+As duas Partes Contratantes esforçar-se-ao, no âmbito das respectivas leis e regulamentações em vigor, em conformidade com os princípios da igualdade e das vantagens mútuas:
+
+- por promover e intensificar as suas trocas comerciais,
+
+- por fomentar uma expansão contínua da cooperação económica.
+
+### CAPÍTULO I — Cooperação comercial
+
+###### Artigo 2o
+
+As duas Partes Contratantes reafirmam a sua vontade:
+
+a) De tomar todas as medidas úteis para criar condições favoráveis às trocas comerciais mútuas;
+
+b) De fazer todo o possível para melhorar a estrutura das suas trocas comerciais, tendo em vista alcançar uma sua maior diversificação;
+
+c) De examinar, cada uma pelo seu lado, num espírito positivo, as sugestões formuladas pela outra Parte, nomeadamente no âmbito da Comissão Mista, com a finalidade de facilitar as trocas comerciais mútuas.
+
+###### Artigo 3o
+
+1. As duas Partes Contratantes conceder-se-ao mutuamente, nas suas relações comerciais, o tratamento da nação mais favorecida, em tudo o que disser respeito:
+
+a) Aos direitos aduaneiros e encargos de qualquer natureza aplicados à importação, à exportação, à reexportação ou ao trânsito dos produtos, incluindo as modalidades de cobrança destes direitos e encargos;
+
+b) Às regulamentações, procedimentos e formalidades respeitantes ao desembaraço aduaneiro, ao trânsito, à armazenagem e ao transbordo dos produtos importados ou exportados;
+
+c) Aos impostos e outras imposições internas que incidem directa ou indirectamente sobre os produtos e serviços importados ou exportados;
+
+d) Às formalidades administrativas de concessão de licenças de importação ou de exportação.
+
+2. O disposto no no 1 não se aplica quando se trate:
+
+a) De vantagens concedidas por uma das Partes Contratantes aos Estados integrados juntamente com ela numa mesma união aduaneira ou zona de comércio livre;
+
+b) De vantagens concedidas por uma das Partes Contratantes aos países limítrofes a fim de facilitar o comércio fronteiriço;
+
+c) De medidas que uma das Partes Contratantes possa tomar para fazer face a obrigações decorrentes de acordos internacionais sobre produtos de base.
+
+###### Artigo 4o
+
+As duas Partes Contratantes desenvolverão todos os esforços para favorecer a expansão harmoniosa das trocas comerciais recíprocas e para contribuir, de acordo com os seus próprios meios, para a realização de um equilíbrio das suas trocas comerciais.
+
+No caso de surgir um desequilíbrio evidente, o problema deve ser examinado no âmbito da Comissão Mista que recomendará as medidas a tomar para melhorar a situação.
+
+###### Artigo 5o
+
+1. A República Popular da China tomará em consideração de maneira positiva as importações provenientes da Comunidade Económica Europeia. Para esse efeito, as autoridades chinesas competentes velarão por que os exportadores da Comunidade tenham a possibilidade de participar plenamente nas oportunidades de comércio com a China.
+
+2. A Comunidade Económica Europeia orientar-se-á para um grau de liberalização crescente das importações provenientes da República Popular da China. Para o efeito, esforçar-se-á por aplicar progressivamente medidas de extensão da lista dos produtos cuja importação da China está liberalizada e por proceder a aumentos do volume dos contingentes. As modalidades de aplicação serão examinadas no âmbito da Comissão Mista.
+
+###### Artigo 6o
+
+1. As duas Partes Contratantes devem trocar informações sobre os problemas que possam vir a surgir nas suas trocas comerciais e, com o intuito de promover essas mesmas trocas, encetar consultas amigáveis tendo em vista encontrar uma solução mutuamente satisfatória para esses problemas. As Partes Contratantes procurarão não tomar medidas antes da realização de consultas.
+
+2. Todavia, no caso excepcional de a situação não permitir qualquer demora, cada uma das Partes Contratantes pode tomar medidas mas deve esforçar-se sempre que possível antes de as tomar, por proceder a consultas amigáveis.
+
+3. Cada uma das Partes Contratantes procurará, ao tomar as medidas referidas no no 2, não prejudicar os objectivos gerais do presente Acordo.
+
+###### Artigo 7o
+
+As duas Partes Contratantes comprometem-se a promover visitas de pessoas, de grupos e de delegações dos meios económicos, comerciais e industriais, a facilitar o intercâmbio e os contactos industriais e técnicos de carácter comercial, a favorecer a organização por ambas as partes de feiras e exposições, bem como a prestação de serviços a elas relativas. Devem ainda conceder-se mutuamente, tanto quanto possível, facilidades relacionadas com as actividades acima mencionadas.
+
+###### Artigo 8o
+
+O comércio de mercadorias e a prestação de serviços entre as duas Partes Contratantes efectuar-se-ao aos preços e valores do mercado.
+
+###### Artigo 9o
+
+As Partes Contratantes acordam em que os pagamentos das transacções serão efectuados, em conformidade com as respectivas leis e regulamentações em vigor, nas moedas dos Estados-membros da Comunidade, em renminbis ou em qualquer moeda convertível aceite pelas duas partes interessadas nas transacções.
+
+### CAPÍTULO II — Cooperação económica
+
+###### Artigo 10o
+
+No âmbito das suas competências respectivas e, com o objectivo, nomeadamente de fomentar o desenvolvimento das indústrias e da agricultura da Comunidade Económica Europeia e da República Popular da China, de diversificar as suas relações económicas, de encorajar o progresso científico e técnico, de abrir novas fontes de abastecimento e novos mercados, de contribuir para o desenvolvimento das suas economias e para a elevação dos seus níveis de vida, as duas Partes Contratantes acordam em desenvolver a cooperação económica em todos os domínios definidos de comum acordo, nomeadamente:
+
+- indústria e minas,
+
+- agricultura e sector agro-industrial,
+
+- ciência e tecnologia,
+
+- energia,
+
+- transportes e comunicações,
+
+- protecção do ambiente,
+
+- cooperação em países terceiros.
+
+###### Artigo 11o
+
+Em função das respectivas necessidades e de acordo com os seus meios de acção próprios, as Partes Contratantes fomentarão a cooperação industrial e técnica, nos seus vários aspectos, em benefício dos seus organismos ou empresas.
+
+A fim de realizar os objectivos do presente Acordo, as duas Partes Contratantes esforçar-se-ao por facilitar e promover, entre outras actividades:
+
+- a coprodução e os empreendimentos comuns,
+
+- a exploração comum,
+
+- a transferência de tecnologia,
+
+- a cooperação entre instituições financeiras,
+
+- as visitas, os contactos e as actividades de promoção da cooperação entre pessoas, delegações e organismos económicos,
+
+- a organização de seminários e simpósios,
+
+- os serviços de consultadoria,
+
+- a assistência técnica, incluindo a respeitante à formação do pessoal,
+
+- o intercâmbio contínuo de informações e de opiniões relativas à cooperação comercial e económica.
+
+###### Artigo 12o
+
+1. A fim de alcançar os objectivos do presente Acordo, no âmbito das respectivas leis, regulamentações e políticas, as duas Partes Contratantes acordam em promover e encorajar maiores investimentos de interesse recíproco.
+
+2. As Partes esforçar-se-ao igualmente por melhorar o actual ambiente favorável aos investimentos, nomeadamente fomentando a extensão, pelos Estados-membros da Comunidade Económica Europeia e pela República Popular da China, dos acordos em matéria de promoção e protecção dos investimentos, com base nos princípios da equidade e da reciprocidade.
+
+###### Artigo 13o
+
+Tendo em conta a diferença de nível de desenvolvimento entre as duas Partes Contratantes, a Comunidade Económica Europeia está disposta, no âmbito das suas actividades de auxílio ao desenvolvimento, em conformidade com as suas próprias normas e na medida dos seus meios, a prosseguir as suas intervenções a favor do desenvolvimento da China.
+
+A Comunidade confirma estar disposta a encarar a possibilidade de aumentar e diversificar estas intervenções.
+
+###### Artigo 14o
+
+Sem prejuízo das disposições dos Tratados que instituem as Comunidades Europeias aplicáveis na matéria, o presente Acordo, bem como qualquer acção empreendida no seu âmbito, não alteram, de forma alguma, a competência dos Estados-membros das Comunidades para empreender actividades bilaterais com a República Popular da China no sector da cooperação económica e para, eventualmente, concluir novos acordos de cooperação económica com a República Popular da China.
+
+### CAPÍTULO III — Comissão Mista
+
+###### Artigo 15o
+
+1. As duas Partes Contratantes instituem, no âmbito do presente Acordo de Cooperação Comercial e Económica, uma Comissão Mista, composta por representantes da Comunidade Económica Europeia, por um lado, e por representantes da República Popular da China, por outro.
+
+2. À Comissão Mista cabe:
+
+- acompanhar e examinar o funcionamento do presente Acordo e passar em revista as acções de cooperação realizadas,
+
+- analisar todas as questões que possam vir a surgir na aplicação do presente Acordo,
+
+- analisar os problemas que possam constituir obstáculo ao desenvolvimento da cooperação comercial e económica entre as Partes Contratantes,
+
+- analisar os meios e as novas possibilidades de desenvolvimento da cooperação comercial e económica,
+
+- formular recomendações susceptíveis de contribuir para a realização dos objectivos do presente Acordo nos domínios de interesse comum.
+
+3. A Comissão Mista reunir-se-á uma vez por ano, alternadamente em Bruxelas e em Pequim. Podem ser convocadas, de comum acordo, sessões extrãordinárias, a pedido de uma das Partes Contratantes. A presidência da Comissão Mista será exercida alternadamente por cada uma das Partes Contratantes. A Comissão Mista pode criar, sempre que as duas Partes o considerem necessário, grupos de trabalho para a assistirem no desempenho das suas funções.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 16o
+
+No que diz respeito à Comunidade Económica Europeia, o presente Acordo aplica-se aos territórios em que é aplicável o Tratado que institui a Comunidade Económica Europeia, nas condições previstas neste Tratado.
+
+###### Artigo 17o
+
+O presente Acordo substitui o Acordo Comercial entre a Comunidade Económica Europeia e a República Popular da China, de 3 de Abril de 1978, que entrou em vigor em 1 de Junho do mesmo ano.
+
+###### Artigo 18o
+
+O presente Acordo entra em vigor no primeiro dia do mês seguinte à data da notificação mútua pelas Partes Contratantes da realização dos procedimentos legais necessários para o efeito. É concluído por um período de cinco anos. O Acordo será reconduzido tacitamente por períodos de um ano, se nenhuma das duas Partes Contratantes notificar a sua denúncia à outra Parte, por escrito, seis meses antes do seu termo.
+
+Podem, contudo, ser-lhe introduzidas alterações, de comum acordo entre as duas Partes Contratantes, para ter em consideração situações novas.
+
+Til bekraeftelse heraf har undertegnede, som er behoerigt befuldmaegtigede hertil, underskrevet denne aftale.
+
+Zu Urkund dessen haben die hierzu gehoerig befugten Unterzeichneten dieses Abkommen unterschrieben.
+
+Eis pistosi ton anotero, oi katothi, deontos exoysiodotimenoi pros toyto, ypegrapsan tin paroysa symfonia.
+
+In witness whereof, the undersigned, being duly authorized thereto, have signed this Agreement.
+
+En foi de quoi, les soussignés, dûment habilités à cette fin, ont signé le présent accord.
+
+In fede di che, i sottoscritti, debitamente abilitati a tal fine, hanno firmato il presente accordo.
+
+Ten blijke waarvan de ondergetekenden, naar behoren daartoe gemachtigd, deze Overeenkomst hebben ondertekend.
+
+Em fé do que, os abaixo-assinados, devidamente habilitados para o efeito, assinaram o presente Acordo.
+
+Udfaerdiget i Bruxelles, den enogtyvende maj nitten hundrede og femogfirs i to eksemplarer paa dansk, engelsk, fransk, graesk, italiensk, nederlandsk, tysk og kinesisk, idet hver af disse tekster har samme gyldighed.
+
+Geschehen zu Bruessel am einundzwanzigsten Mai neunzehnhundertfuenfundachtzig in zwei Unterschriften in daenischer, deutscher, englischer, franzoesischer, griechischer, italienischer, niederlaendischer und chinesischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
+
+Egine stis Vryxelles, stis eikosi mia Maioy chilia eviakosia ogdonta pente, se dyo antitypa stin angliki, galliki, germaniki, daniki, elliniki, italiki, ollandiki kai kinethiki glossa, kai ola ta keimena einai exisoy afthentika.
+
+Done at Brussels on the twenty-first day of May in the year one thousand nine hundred and eighty-five, in two copies in the Danish, Dutch, English, French, German, Greek, Italian and Chinese languages, each text being equally authentic.
+
+Fait à Bruxelles, le vingt et un mai mil neuf cent quatre-ving-cinq, en deux exemplaires, en langues allemande, anglaise, danoise, française, grecque, italienne, néerlandaise et chinoise, chacun de ces textes faisant également foi.
+
+Fatto a Bruxelles, il ventuno maggio millenovecentottantacinque, in due esemplari, nelle lingue danese, francese, greca, inglese, italiana, olandese, tedesca e cinese, ciascuno di questi testi facente ugualmente fede.
+
+Gedaan te Brussel, op eenentwintig mei negentienhonderd vijfentachtig, in twee exemplaren, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse en de Chinese taal, zijnde alle teksten gelijkelijk authentiek.
+
+Feito em Bruxelas, aos vinte e um de Maio de mil novecentos e oitenta e cinco, em duplo exemplar, em língua alemã, dinamarquesa, francesa, grega, inglesa, italiana, neerlandesa e chinesa, fazendo fé qualquer destes textos.
+
+For Raadet for De europaeiske Faellesskaber
+
+Fuer den Rat der Europaeischen Gemeinschaften
+
+Gia to Symvoylio ton Evropaikon Koinotiton
+
+For the Council of the European Communities
+
+Pour le Conseil des Communautés européennes
+
+Per il Consiglio delle Comunità europee
+
+Voor de Raad van de Europese Gemeenschappen
+
+Pelo Conselho das Comunidades Europeias
+
+For regeringen for Den kinesiske Folkerepublik
+
+Fuer die Regierung der Volksrepublik China
+
+Gia tin kyvernisi tis Laikis Dimokratias tis Kinas
+
+For the Government of the People's Republic of China
+
+Pour le Gouvernement de la république populaire de Chine
+
+Per il governo della Repubblica popolare cinese
+
+Voor de Regering van de Volksrepublik China
+
+Pelo Governo da República Popular da China

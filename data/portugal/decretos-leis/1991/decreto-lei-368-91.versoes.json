@@ -1,0 +1,1435 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:293348:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-808125366",
+ "dre_path": "/dr/detalhe/decreto-lei/368-1991-293348",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "808166369",
+    "808166370",
+    "808166371",
+    "808166372",
+    "808166374",
+    "808192175",
+    "808192176",
+    "808192177",
+    "808192178",
+    "808192179",
+    "808192180",
+    "808192181",
+    "808192182",
+    "808192183",
+    "808192184",
+    "808192185",
+    "808192186",
+    "808192187",
+    "808192188",
+    "808192189",
+    "808192190",
+    "808192191",
+    "808192192",
+    "808192193",
+    "808192194",
+    "808192195",
+    "808192196",
+    "808192197",
+    "808192198",
+    "808192199",
+    "808192200",
+    "808192201",
+    "808192202",
+    "808192203",
+    "808192204",
+    "808192205",
+    "808192206",
+    "808192207",
+    "808192208",
+    "808192209",
+    "808192210",
+    "808192211",
+    "808192212",
+    "808192213",
+    "808192214",
+    "808192215",
+    "808192216",
+    "808192217",
+    "808192218",
+    "808192219",
+    "808192220",
+    "808192221",
+    "808192222",
+    "808192223",
+    "808192224",
+    "808192225",
+    "808192226",
+    "808192227",
+    "808192228",
+    "808192229",
+    "808192230",
+    "808192231",
+    "808192232",
+    "808192233",
+    "808192234",
+    "808192235",
+    "808192236",
+    "808192237",
+    "808192238",
+    "808192239",
+    "808192240",
+    "808192241",
+    "808192242",
+    "808192243",
+    "808192244",
+    "808192245",
+    "808192246",
+    "808192247",
+    "808192248",
+    "808192249",
+    "808192250",
+    "808192251",
+    "808192252",
+    "808192253",
+    "808192254",
+    "808192255",
+    "808192256",
+    "808192257",
+    "808192258",
+    "808192259",
+    "808192260",
+    "808192261",
+    "808192262",
+    "808192263",
+    "808192264",
+    "808192265",
+    "808192266",
+    "808192267",
+    "808192268",
+    "808192269",
+    "808192270",
+    "808192271",
+    "808192272",
+    "808192273",
+    "808192274",
+    "808192375",
+    "808192376",
+    "808192377",
+    "808192378",
+    "808192379",
+    "808192380",
+    "808192381",
+    "808192382",
+    "808192383",
+    "808192384",
+    "808192385",
+    "808192386",
+    "808192387",
+    "808192388",
+    "808192389",
+    "808192390"
+   ]
+  },
+  {
+   "date": "1997-11-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:675651:por",
+     "title": "Lei n.º 117/97",
+     "published": "1997-11-04",
+     "dre_path": "/dr/detalhe/lei/117-1997-675651"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 60.º"
+   ],
+   "fragments": [
+    "808166369",
+    "808166370",
+    "808166371",
+    "808192393",
+    "808166373",
+    "808166374",
+    "808192175",
+    "808192176",
+    "808192177",
+    "808192178",
+    "808192394",
+    "808192180",
+    "808192181",
+    "808192182",
+    "808192183",
+    "808192184",
+    "808192185",
+    "808192186",
+    "808192187",
+    "808192188",
+    "808192189",
+    "808192190",
+    "808192191",
+    "808192192",
+    "808192193",
+    "808192194",
+    "808192195",
+    "808192196",
+    "808192197",
+    "808192198",
+    "808192199",
+    "808192200",
+    "808192201",
+    "808192202",
+    "808192203",
+    "808192204",
+    "808192205",
+    "808192206",
+    "808192207",
+    "808192208",
+    "808192209",
+    "808192210",
+    "808192211",
+    "808192212",
+    "808192213",
+    "808192214",
+    "808192215",
+    "808192216",
+    "808192217",
+    "808192218",
+    "808192219",
+    "808192220",
+    "808192221",
+    "808192222",
+    "808192223",
+    "808192224",
+    "808192225",
+    "808192226",
+    "808192227",
+    "808192228",
+    "808192229",
+    "808192230",
+    "808192231",
+    "808192232",
+    "808192233",
+    "808192234",
+    "808192235",
+    "808192236",
+    "808192237",
+    "808192238",
+    "808192239",
+    "808192240",
+    "808192241",
+    "808192242",
+    "808192243",
+    "808192244",
+    "808192245",
+    "808192246",
+    "808192247",
+    "808192398",
+    "808192249",
+    "808192250",
+    "808192251",
+    "808192252",
+    "808192253",
+    "808192254",
+    "808192255",
+    "808192256",
+    "808192257",
+    "808192258",
+    "808192259",
+    "808192260",
+    "808192261",
+    "808192262",
+    "808192263",
+    "808192264",
+    "808192265",
+    "808192266",
+    "808192267",
+    "808192268",
+    "808192269",
+    "808192270",
+    "808192271",
+    "808192272",
+    "808192273",
+    "808192274",
+    "808192375",
+    "808192376",
+    "808192377",
+    "808192378",
+    "808192379",
+    "808192380",
+    "808192381",
+    "808192382",
+    "808192383",
+    "808192384",
+    "808192385",
+    "808192386",
+    "808192387",
+    "808192388",
+    "808192389",
+    "808192390"
+   ]
+  },
+  {
+   "date": "2015-10-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70179154:por",
+     "title": "Lei n.º 125/2015",
+     "published": "2015-09-03",
+     "dre_path": "/dr/detalhe/lei/125-2015-70179154"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "808166369",
+    "808166370",
+    "808166371",
+    "808197407",
+    "808166373",
+    "808166374",
+    "808192175",
+    "808192176",
+    "808192177",
+    "808192178",
+    "808192394",
+    "808192180",
+    "808192181",
+    "808192182",
+    "808192183",
+    "808192184",
+    "808192185",
+    "808192186",
+    "808192187",
+    "808192188",
+    "808192189",
+    "808192190",
+    "808192191",
+    "808192192",
+    "808192193",
+    "808192194",
+    "808192195",
+    "808192196",
+    "808192197",
+    "808192198",
+    "808192199",
+    "808192200",
+    "808192201",
+    "808192202",
+    "808192203",
+    "808192204",
+    "808192205",
+    "808192206",
+    "808192207",
+    "808192208",
+    "808192209",
+    "808192210",
+    "808192211",
+    "808192212",
+    "808192213",
+    "808192214",
+    "808192215",
+    "808192216",
+    "808192217",
+    "808192218",
+    "808192219",
+    "808192220",
+    "808192221",
+    "808192222",
+    "808192223",
+    "808192224",
+    "808192225",
+    "808192226",
+    "808192227",
+    "808192228",
+    "808192229",
+    "808192230",
+    "808192231",
+    "808192232",
+    "808192233",
+    "808192234",
+    "808192235",
+    "808192236",
+    "808192237",
+    "808192238",
+    "808192239",
+    "808192240",
+    "808192241",
+    "808192242",
+    "808192243",
+    "808192244",
+    "808192245",
+    "808192246",
+    "808192247",
+    "808192398",
+    "808192249",
+    "808192250",
+    "808192251",
+    "808192252",
+    "808192253",
+    "808192254",
+    "808192255",
+    "808192256",
+    "808192257",
+    "808192258",
+    "808192259",
+    "808192260",
+    "808192261",
+    "808192262",
+    "808192263",
+    "808192264",
+    "808192265",
+    "808192266",
+    "808192267",
+    "808192268",
+    "808192269",
+    "808192270",
+    "808192271",
+    "808192272",
+    "808192273",
+    "808192274",
+    "808192375",
+    "808192376",
+    "808192377",
+    "808192378",
+    "808192379",
+    "808192380",
+    "808192381",
+    "808192382",
+    "808192383",
+    "808192384",
+    "808192385",
+    "808192386",
+    "808192387",
+    "808192388",
+    "808192389",
+    "808192390"
+   ]
+  }
+ ],
+ "fragments": {
+  "808166369": {
+   "fragment_id": "808125367",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 368/91\n\nde 4 de Outubro\n\nO presente diploma responde à necessidade de instruir uma ordem profissional que regule e discipline o exercício da actividade médico-veterinária em termos de assegurar o respeito dos princípios deontológicos que devem nortear todos os profissionais que a ela se dedicam e de garantir a prossecução dos interesses públicos que lhe estão subjacentes.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 19/91, de 18 de Junho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 5.º, Lei n.º 125/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/125-2015-70179154) A versão consolidada do presente diploma deve ser consultada no anexo II da Lei n.º 125/2015, de de 3 de setembro, que o republicou."
+  },
+  "808166370": {
+   "fragment_id": "808125368",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada a Ordem dos Médicos Veterinários e aprovado o respectivo Estatuto, anexo ao presente diploma, e que dele faz parte integrante."
+  },
+  "808166371": {
+   "fragment_id": "808125369",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Ordem dos Médicos Veterinários é a entidade competente para efeitos de registo e fiscalização do exercício da actividade veterinária, de acordo com o disposto no Decreto-Lei n.º 399/89, de 10 de Novembro."
+  },
+  "808166372": {
+   "fragment_id": "808125370",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Por portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação será designada uma comissão instaladora da Ordem dos Médicos Veterinários e aprovado o respectivo regulamento interno.\n\n2 - Compete à comissão instaladora referida no número anterior aceitar as inscrições na Ordem e exercer as funções e competências atribuídas pelo respectivo Estatuto à comissão eleitoral.\n\n3 - A comissão instaladora cessa automaticamente funções com a tomada de posse dos membros dos órgãos da Ordem eleitos em assembleia geral a realizar até 31 de Novembro de 1991."
+  },
+  "808166374": {
+   "fragment_id": "808125372",
+   "type": 14,
+   "heading": "Anexo — Estatuto da Ordem dos Médicos Veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatuto da Ordem dos Médicos Veterinários\n\n> Nota: [Artigo 5.º, Lei n.º 125/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/125-2015-70179154) A versão consolidada do Estatuto da Ordem dos Médicos Veterinários deve ser consultada no anexo II da Lei n.º 125/2015, de 3 de setembro, que o republicou."
+  },
+  "808192175": {
+   "fragment_id": "808125373",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "808192176": {
+   "fragment_id": "808125374",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição, natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição, natureza e sede\n\n1 - A Ordem dos Médicos Veterinários, abreviadamente designada Ordem, é a instituição representativa dos licenciados em Medicina Veterinária ou equiparados legais que, em conformidade com os preceitos deste Estatuto e demais disposições legais aplicáveis, exercem actividades veterinárias.\n\n2 - A Ordem é uma associação pública independente dos órgãos do Estado, sendo livre e autónoma no âmbito das suas atribuições.\n\n3 - A sede da Ordem é em Lisboa."
+  },
+  "808192177": {
+   "fragment_id": "808192275",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivo\n\nO objectivo essencial da Ordem é a defesa do exercício da profissão veterinária, contribuindo para a sua melhoria e progresso nos domínios científico, técnico e profissional, o apoio aos interesses profissionais dos seus membros e a salvaguarda dos princípios deontológicos que se impõem em toda a actividade veterinária."
+  },
+  "808192178": {
+   "fragment_id": "808192276",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nConstituem atribuições da Ordem:\n\na) Intervir na defesa da saúde pública através da salvaguarda e promoção da sanidade animal e da higiene alimentar;\n\nb) Zelar pela função social, dignidade e prestigio da profissão de médico veterinário e promover o respeito pelos respectivos princípios deontológicos;\n\nc) Representar os médicos veterinários perante quaisquer entidades públicas ou privadas;\n\nd) Emitir a cédula profissional de médico veterinário;\n\ne) Exercer a jurisdição disciplinar em relação aos médicos veterinários por actos de natureza médico-veterinária praticados no exercício da profissão, nos termos do capítulo VI do presente Estatuto;\n\nf) Elaborar estudos e propor aos órgãos competentes as medidas necessárias a um adequado e eficaz exercício da actividade veterinária, bem como emitir parecer sobre os projectos de diplomas legislativos que interessem à prossecução das suas atribuições;\n\ng) Emitir parecer acerca de planos de estudos e cursos conducentes à formação de médicos veterinários;\n\nh) Fomentar a solidariedade entre os seus membros;\n\ni) Incentivar, dinamizar e apoiar as acções tendentes ao desenvolvimento e aperfeiçoamento da veterinária, nomeadamente através da organização, por si ou em colaboração com outras entidades, de cursos de especialização e reciclagem e de congressos, seminários, conferências e outras actividades da mesma natureza;\n\nj) Intensificar a cooperação com os organismos interessados, públicos ou privados, nacionais ou estrangeiros, em todas as matérias do âmbito das actividades veterinárias."
+  },
+  "808192179": {
+   "fragment_id": "808192277",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura\n\n1 - A Ordem tem âmbito nacional e está internamente estruturada em delegações regionais incumbidas de desenvolver regionalmente as acções conducentes à prossecução das atribuições da Ordem.\n\n2 - A Ordem compreende três delegações regionais: Delegação Regional do Norte, Delegação Regional do Centro e Delegação Regional do Sul, com sede, respectivamente, no Porto, em Coimbra e em Lisboa.\n\n3 - As delegações regionais da Ordem abrangem as áreas dos seguintges distritos:\n\na) Delegação Regional do Norte - Porto, Viana do Castelo, Braga, Vila Real e Bragança;\n\nb) Delegação Regional do Centro - Aveiro, Coimbra, Viseu, Guarda e Castelo Branco;\n\nc) Delegação Regional do Sul - Lisboa, Santarém, Portalegre, Setúbal, Évora, Beja e Faro.\n\n4 - Por proposta de, pelo menos, 50% dos veterinários que exerçam actividade nas Regiões Autónomas dos Açores e da Madeira, podem ser criadas delegações regionais em cada uma delas, mediante deliberação da assembleia geral, que fixará as respectivas sedes.\n\n5 - Enquanto não forem criadas as delegações regionais a que se refere o número anterior, as Regiões Autónomas dos Açores e da Madeira são abrangidas pela Delegação Regional do Sul.\n\n6 - Enquanto o território de Macau se encontrar sob administração portuguesa, o conselho directivo designa um delegado da Ordem para aquele território."
+  },
+  "808192180": {
+   "fragment_id": "808192278",
+   "type": 11,
+   "heading": "Artigo 5.º — Insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Insígnias\n\nA Ordem tem direito a usar emblema, estandarte e selo próprios, de modelo aprovado pela assembleia geral, sob proposta do conselho profissional e deontológico."
+  },
+  "808192181": {
+   "fragment_id": "808192279",
+   "type": 11,
+   "heading": "Artigo 6.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação\n\n1 - A Ordem pode aderir a quaisquer organizações nacionais, internacionais e estrangeiras de natureza científica, profissional ou social que visem o exercício da medicina veterinária e ou a protecção dos direitos, e interesses dos veterinários.\n\n2 - A adesão às organizações referidas no número anterior depende de deliberação do conselho directivo."
+  },
+  "808192182": {
+   "fragment_id": "808192280",
+   "type": 11,
+   "heading": "Artigo 7.º — Representação da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Representação da Ordem\n\n1 - A Ordem é representada em juízo e fora dele pelo bastonário ou pelos presidentes dos conselhos regionais, quando se trate de actos da responsabilidade das respectivas delegações.\n\n2 - A Ordem tem capacidade judiciária nas acções respeitantes a matéria das suas atribuições e pode conceder patrocínio em processos de qualquer natureza ou constituir-se assistente, para defesa de direitos ou interesses do exercício da actividade veterinária, bem como dos seus membros, em todos os casos relacionados com o exercício da profissão ou com o exercício dos cargos nos seus órgãos."
+  },
+  "808192183": {
+   "fragment_id": "808192281",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos\n\n1 - Os actos praticados pelos órgãos da Ordem admitem os recursos graciosos previstos no presente Estatuto.\n\n2 - Salvo disposição em contrário, o prazo de interposição dos recursos graciosos é de 30 dias.\n\n3 - Dos actos lesivos dos direitos ou interesses de terceiros praticados pelos órgãos da Ordem cabe recurso contencioso para os tribunais administrativos, nos termos gerais de direito."
+  },
+  "808192184": {
+   "fragment_id": "808192282",
+   "type": 1,
+   "heading": "Capítulo II — Membros da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Membros da Ordem"
+  },
+  "808192185": {
+   "fragment_id": "808192283",
+   "type": 11,
+   "heading": "Artigo 9.º — Espécies de membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Espécies de membros\n\n1 - A Ordem tem membros efectivos e extraordinários.\n\n2 - Os membros extraordinários podem ser correspondentes ou honorários."
+  },
+  "808192186": {
+   "fragment_id": "808192284",
+   "type": 11,
+   "heading": "Artigo 10.º — Membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Membros efectivos\n\n1 - Podem inscrever-se na Ordem como membros efectivos os portugueses ou estrangeiros que residam em Portugal licenciados em Medicina Veterinária por escolas ou universidades portuguesas autorizadas a conceder licenciaturas e, ainda, os portugueses e os nacionais de Estados membros das Comunidades Europeias habilitados com cursos ministrados em universidades daqueles Estados equiparados ou reconhecidos nos termos da legislação aplicável.\n\n2 - Podem também ser admitidos como membros efectivos da Ordem:\n\na) Os nacionais de Estados membros das Comunidades Europeias que, embora habilitados com cursos ministrados em universidades desses Estados, não abrangidos pelo número anterior, reúnam os requisitos previstos na lei para o acesso à actividade veterinária em Portugal;\n\nb) Os portugueses e os estrangeiros habilitados com cursos que, pela lei portuguesa, por acordos internacionais ou por deliberação do conselho profissional e deontológico, sejam considerados equipavalentes aos referidos no número anterior.\n\n3 - O conselho profissional e deontológico só pode considerar como equivalentes à licenciatura em Medicina Veterinária, para efeitos da parte final da alínea b) do número anterior, os cursos que respeitem os requisitos previstos nos n.os 1, 2 e 3 do artigo 1.º da Directiva do Conselho n.º 78/1027/CEE, de 18 de Dezembro de 1978.\n\n4 - A admissão de estrangeiros como membros efectivos da Ordem, nos termos ds alínea b) do n.º 2, depende da existência de reciprocidade para os médicos veterinários portugueses no respectivo país de origem e de conhecimentos adequados da língua portuguesa.\n\n5 - Para comprovação dos requisitos previstos no n.º 3 e na parte final no número anterior, o conselho profissional e deontológico pode sujeitar os candidatos à prestação de provas adequadas."
+  },
+  "808192187": {
+   "fragment_id": "808192285",
+   "type": 11,
+   "heading": "Artigo 11.º — Membros extraordinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Membros extraordinários\n\n1 - Podem ser membros honorários pessoas singulares ou colectivas, nacionais ou estrangeiras, que, por relevantes actividades desenvolvidas no âmbito das ciências veterinárias ou da profissão veterinária, sejam consideradas merecedoras de tal distinção.\n\n2 - Podem ser membros correspondentes as personalidades que no estrangeiro tenham desenvolvido papel de relevo nas ciências veterinárias."
+  },
+  "808192188": {
+   "fragment_id": "808192286",
+   "type": 11,
+   "heading": "Artigo 12.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inscrição\n\n1 - A inscrição de membros efectivos e a admissão de membros extraordinários efectuam-se nos termos de regulamento aprovar pelo conselho directivo no respeito do disposto no presente Estatuto e demais legislação aplicável.\n\n2 - O requerimento de inscrição de membros efectivos é dirigido ao conselho regional em cuja área de competência o requerente tem o seu domicílio profissional, que, após a instrução do mesmo, o remete para o conselho directivo para decisão.\n\n3 - A admissão de membros extraordinários é da competência do conselho directivo sob parecer favorável do conselho profissional e deontológico."
+  },
+  "808192189": {
+   "fragment_id": "808192287",
+   "type": 11,
+   "heading": "Artigo 13.º — Restrições ao direito de inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Restrições ao direito de inscrição\n\n1 - Não podem ser admitidos como membros da Ordem:\n\na) Os que não possuam idoneidade moral para o exercício da profissão;\n\nb) Os declarados interditos ou inabilitados por sentença transitada em julgado;\n\nc) Os que estejam em situação de incompatibilidade com o exercício da medicina veterinária.\n\n2 - A verificação da falta de idoneidade moral é sempre objecto de processo próprio, que segue os termos do processo disciplinar, com as necessárias adaptações."
+  },
+  "808192190": {
+   "fragment_id": "808192288",
+   "type": 11,
+   "heading": "Artigo 14.º — Demissão e exclusão da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Demissão e exclusão da Ordem\n\nPerdem a qualidade de membros da Ordem:\n\na) Os membros que se demitirem;\n\nb) Os membros que fiquem nas situações previstas nas alíneas a) e b) do n.º 1 do artigo anterior."
+  },
+  "808192191": {
+   "fragment_id": "808192289",
+   "type": 11,
+   "heading": "Artigo 15.º — Suspensão da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Suspensão da inscrição\n\nÉ suspensa a inscrição na Ordem:\n\na) Aos membros que o requererem;\n\nb) Aos membros que se atrasem no pagamento das quotas ou outros encargos devidos à Ordem por um período superior a seis meses;\n\nc) Aos membros a que tenha sido aplicada a pena disciplinar de suspensão;\n\nd) Aos membros que fiquem em situação de incompatibilidade com o exercício da medicina veterinária."
+  },
+  "808192192": {
+   "fragment_id": "808192290",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos dos médicos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direitos dos médicos veterinários\n\nConstituem, designadamente, direitos dos membros da Ordem:\n\na) Exercer a sua profissão na totalidade do território nacional;\n\nb) Gozar de todos os benefícios, regalias e serviços prestados pela Ordem, de acordo com o presente Estatuto e regulamentos aplicáveis;\n\nc) Requerer a emissão de cédula profissional e outros documentos comprovativos da sua capacidade para o exercício da actividade veterinária;\n\nd) Eleger e ser eleito para os órgãos da Ordem;\n\ne) Participar nas actividades da Ordem, quer no exercício dos mandatos pata que hajam sido eleitos ou designados, quer em todas as realizações por ela organizadas;\n\nf) Solicitar a intervenção da Ordem na defesa dos seus direitos e interesses profissionais;\n\ng) Reclamar e recorrer das deliberações e decisões dos órgãos da Ordem."
+  },
+  "808192193": {
+   "fragment_id": "808192291",
+   "type": 1,
+   "heading": "Capítulo III — Deontologia profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Deontologia profissional"
+  },
+  "808192194": {
+   "fragment_id": "808192292",
+   "type": 11,
+   "heading": "Artigo 17.º — Deveres em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deveres em geral\n\n1 - É dever dos médicos veterinários, em geral, exercer a sua actividade com os adequados conhecimentos científicos e técnicos, o respeito pela vida animal, a prossecução da sanidade animal e a colaboração na defesa da saúde pública, de acordo com as normas legais, éticas e deontológicas a ela aplicáveis.\n\n2 - O médico veterinário está sujeito, em especial, a deveres e obrigações para com a comunidade, a Ordem, os utentes dos serviços e para com os outros médicos veterinários.\n\n3 - A deontologia profissional dos veterinários será objecto do código deontológico veterinário, que desenvolverá os princípios constantes dos artigos seguintes.\n\n4 - A aprovação do código deontológico veterinário compete à assembleia geral sob proposta do conselho profissional e deontológico."
+  },
+  "808192195": {
+   "fragment_id": "808192293",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres do médico veterinário para com a comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deveres do médico veterinário para com a comunidade\n\n1 - Sem prejuízo do disposto no código deontológico veterinário, constituem deveres do médico veterinário para com a comunidade:\n\na) Manter permanentemente aperfeiçoados e actualizados os seus conhecimentos científicos e técnicos, participando para o efeito em cursos de actualização, seminários, conferências e outras actividades científicas e culturais;\n\nb) Não emitir atestados que não correspondam integralmente à verdade;\n\nc) Recusar participar em intervenções destinadas a, ilegitimamente, obter rendimentos biológicos superiores às reais capacidades dos animais ou a atribuir-lhes qualidades fictícias;\n\nd) Excepto em situação de justificada urgência, não dar consultas nem prescrever medicamentos ou tratamentos a animais que não observou pessoalmente;\n\ne) Abster-se de colaborar em actividades ilegais de pessoas não habilitadas para o exercício da medicina veterinária;\n\nf) Não participar, de qualquer forma, em actividades que ponham em risco espécies raras ou em vias de extinção ou que alterem de forma grave os equilíbrios biológicos;\n\ng) Recusar os serviços sempre que lhe sejam exigidas tarefas que ultrapassem as suas capacidades ou disponibilidades;\n\nh) Abster-se de executar ou participar em experiências científicas sem utilidade para a investigação ou ensino e naquelas em que se verifiquem crueldades inúteis ou em que o sofrimento dos animais não seja atenuado pelos meios tecnicamente adequados;\n\ni) Executar as suas tarefas com competência e zelo, não abandonando, sem justficação, tarefas ou cargos que aceite desempenhar;\n\nj) Abster-se de actos de propaganda ou publicidade da sua actividade;\n\nl) Guardar segredo profissional.\n\n2 - Não é abrangida pela alínea j) do número anterior a afixação de tabuletas no consultório ou o anúncio em publicação com a simples indicação do nome do médico veterinário, títulos e especializações, endereço do consultório e horas de consulta ou, ainda, de mudança de residência, alteração de telefone ou recomeço da actividade profissional.\n\n3 - O segredo profissional abrange o conjunto de factos de carácter reservado referentes a assuntos profissionais que lhe tenham sido revelados pelo cliente ou conhecidos no exercício da profissão, ou no desempenho de cargo na Ordem.\n\n4 - Cessa a obrigação do sigilo profissional sempre que:\n\na) A lei o determine ou o interessado o autorize;\n\nb) A defesa da dignidade, direitos e interesses legítimos do médico veterinário ou do cliente o imponha, desde que tal seja reconhecido pelo conselho profissional e deontológico;\n\nc) Estando em causa factos cujo conhecimento adveio da titularidade de órgão da Ordem, tal seja reconhecido pelo respectivo órgão ou, sendo este singular, pelo conselho profissional e deontológico."
+  },
+  "808192196": {
+   "fragment_id": "808192294",
+   "type": 11,
+   "heading": "Artigo 19.º — Deveres dos médicos veterinários para com a Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres dos médicos veterinários para com a Ordem\n\nSem prejuízo do disposto no código deontológico veterinário, constituem deveres dos médicos veterinários para com a Ordem:\n\na) Não prejudicar os fins e o prestigio da Ordem e da actividade médico-veterinária;\n\nb) Respeitar o presente Estatuto, o código deontológico veterinário e outros regulamentos;\n\nc) Cumprir as decisões e deliberações dos órgãos da Ordem;\n\nd) Colaborar na prossecução das atribuições da Ordem e exercer os cargos para que tenha sido eleito ou designado;\n\ne) Pagar as quotas e outros valores devidos à Ordem que sejam estabelecidos pelos órgãos competentes;\n\nf) Comunicar, no prazo máximo de 30 dias, a mudança de residência ou da sua situação profissional."
+  },
+  "808192197": {
+   "fragment_id": "808192295",
+   "type": 11,
+   "heading": "Artigo 20.º — Deveres recíprocos dos médicos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Deveres recíprocos dos médicos veterinários\n\nSem prejuízo do disposto no código deontológico veterinário, constituem deveres dos médicos veterinários nas suas relações recíprocas:\n\na) Proceder de forma leal e urbana;\n\nb) Não ofender, de forma directa ou indirecta, a reputação de outro médico veterinário, sem prejuízo do direito à crítica e à denúnica de factos violadores dos princípios deontológicos;\n\nc) Prestar-se a substituir outro médico veterinário em caso de férias, doença ou outro impedimento temporário, desde que, nas circunstâncias concretas, tal lhe seja legitimamente exigível;\n\nd) Não aceitar trabalhos de que outro médico veterinário tenha sido encarregado, sem esclarecimento dos motivos da situação e do conhecimento da regularização contratual anterior;\n\ne) Abster-se, em concorrência com os outros médicos veterinários, da prática de actos que não respeitem a dignidade da profissão;\n\nf) Remunerar de uma forma justa os médicos veterinários seus colaboradores e, bem assim, contribuir para a sua actualização e aperfeiçoamento profissional."
+  },
+  "808192198": {
+   "fragment_id": "808192296",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos da Ordem"
+  },
+  "808192199": {
+   "fragment_id": "808192297",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "808192200": {
+   "fragment_id": "808192298",
+   "type": 11,
+   "heading": "Artigo 21.º — Enumeração dos órgãos da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Enumeração dos órgãos da Ordem\n\nSão órgãos da Ordem:\n\na) O congresso;\n\nb) A assembleia geral;\n\nc) O conselho profissional e deontológico;\n\nd) O conselho directivo;\n\ne) O bastonário;\n\nf) O conselho fiscal;\n\ng) As assembleias regionais;\n\nh) Os conselhos regionais."
+  },
+  "808192201": {
+   "fragment_id": "808192299",
+   "type": 11,
+   "heading": "Artigo 22.º — Quem pode ser eleito para os órgãos da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Quem pode ser eleito para os órgãos da Ordem\n\n1 - Podem ser eleitos para os órgãos da Ordem os médicos veterinários com inscrição em vigor e sem punição de carácter disciplinar mais grave do que a de advertência.\n\n2 - Só podem ser eleitos para membros do conselho profissional e deontológico os médicos veterinários com mais de 10 anos de exercício de profissão."
+  },
+  "808192202": {
+   "fragment_id": "808192300",
+   "type": 11,
+   "heading": "Artigo 23.º — Prazo do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Prazo do mandato\n\n1 - Os titulares dos órgãos da Ordem são eleitos para mandatos de três anos.\n\n2 - Não é admitida a reeleição dos membros do conselho directivo e dos conselhos regionais para um terceiro mandato consecutivo nem nos três anos subsequentes ao termo do segundo mandato consecutivo."
+  },
+  "808192203": {
+   "fragment_id": "808192301",
+   "type": 11,
+   "heading": "Artigo 24.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Apresentação de candidaturas\n\n1 - A eleição para os órgãos da Ordem depende da apresentação de propostas de candidatura, que devem ser efectuadas perante o presidente da mesa da assembleia geral ou perante os presidentes das assembleias regionais, consoante se tratar de eleições para os órgãos nacionais ou para os órgãos regionais.\n\n2 - O prazo para a apresentação de propostas de candidaturas, que são individualizadas para cada órgão, decorre até 31 de Outubro do ano imediatamente anterior ao início do triénio subsequente.\n\n3 - As propostas são subscritas por um mínimo de 50 ou 25 médicos veterinários com inscrição em vigor consoante se trate, respectivamente, de candidaturas para órgãos nacionais ou regionais.\n\n4 - Se até à data referida no n.º 2 não tiverem sido apresentadas candidaturas para todos os órgãos, deve tal omissão ser suprida pelo conselho directivo e pelos conselhos regionais, consoante se trate de órgãos nacionais ou regionais, até ao dia 15 de Novembro seguinte.\n\n5 - As propostas de candidaturas devem conter a identificação dos proponentes e dos candidatos, com indicação dos respectivos números da cédula profissional e residência, bem como a declaração de aceitação da candidatura pelos propostos, a indicação do candidato a presidente do respectivo órgão e as linhas gerais do respectivo programa."
+  },
+  "808192204": {
+   "fragment_id": "808192302",
+   "type": 11,
+   "heading": "Artigo 25.º — Data das eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Data das eleições\n\n1 - As eleições para os diversos órgãos da Ordem realizam-se entre 1 e 20 de Dezembro, na data que for designada pelo presidente da mesa da assembleia geral.\n\n2 - As eleições quer para os órgãos nacionais, que incluem a eleição da mesa da assembleia geral, do conselho profissional e deontológico, do conselho directivo e do conselho fiscal, quer para os conselhos regionais têm lugar na mesma data."
+  },
+  "808192205": {
+   "fragment_id": "808192303",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comissão eleitoral\n\n1 - Com a marcação da data das eleições é designada uma comissão eleitoral, com a seguinte composição:\n\na) O bastonário, que preside;\n\nb) Um representante do conselho profissional e deontológico;\n\nc) Um representante do conselho fiscal;\n\nd) Um dos vice-presidentes da mesa da assembleia geral.\n\n2 - À comissão eleitoral compete:\n\na) Confirmar a boa organização dos ficheiros de inscritos e mandar afixar os cadernos eleitorais;\n\nb) Apreciar as reclamações sobre os cadernos eleitorais;\n\nc) Verificar a regularidade das candidaturas;\n\nd) Promover a fiscalização do processo eleitoral;\n\ne) Decidir as reclamações sobre o processo eleitoral.\n\n3 - Dos actos da comissão eleitoral cabe recurso para o conselho profissional e deontológico."
+  },
+  "808192206": {
+   "fragment_id": "808192304",
+   "type": 11,
+   "heading": "Artigo 27.º — Assembleia eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Assembleia eleitoral\n\n1 - A assembleia eleitoral funciona em secções de voto, uma em cada delegação regional, assumindo as mesas das assembleias regionais funções de mesas de voto.\n\n2 - Quando tal se justifique, a comissão eleitoral pode constituir outras secções de voto, designadamente nas regiões autónomas, fixando a composição das mesas de voto respectivas.\n\n3 - A convocatória da assembleia eleitoral fixa o horário de funcionamento das secções de voto, por período não inferior a seis horas."
+  },
+  "808192207": {
+   "fragment_id": "808192305",
+   "type": 11,
+   "heading": "Artigo 28.º — Voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Voto\n\n1 - Apenas têm voto os médicos veterinários com inscrição em vigor e no pleno exercício dos seus direitos.\n\n2 - O voto é secreto, podendo ser exercido pessoalmente por correspondência, caso em que será dirigido ao presidente da respectiva mesa de voto.\n\n3 - No caso de voto por correspondência, o boletiom é encerrado em sobrescrito acompanhado de carta com o nome e assinatura do votante reconhecida pelo notário ou acompanhada de fotocópia do seu bilhete de identidade."
+  },
+  "808192208": {
+   "fragment_id": "808192306",
+   "type": 11,
+   "heading": "Artigo 29.º — Renúncia ao cargo e suspensão temporária de exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Renúncia ao cargo e suspensão temporária de exercício de funções\n\n1 - Quando sobrevenha motivo relevante, pode o médico veterinário membro de órgão da Ordem solicitar ao conselho profissional e deontológico a aceitação da sua renúncia ou a suspensão temporária do exercício de funções.\n\n2 - O pedido deve ser fundamentado, não podendo a suspensão ser por prazo superior a seis meses."
+  },
+  "808192209": {
+   "fragment_id": "808192307",
+   "type": 11,
+   "heading": "Artigo 30.º — Efeitos das penas disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Efeitos das penas disciplinares\n\n1 - O mandato de qualquer membro dos órgãos da Ordem caduca quando o respectivo titular seja punido disciplinarmente com pena superior à de advertência e por efeito do trânsito em julgado da respectiva decisão.\n\n2 - Em caso de suspensão preventiva ou de decisão disciplinar de que seja interposto recurso, o titular fica suspenso do exercício de funções até decisão com trânsito em julgado."
+  },
+  "808192210": {
+   "fragment_id": "808192308",
+   "type": 11,
+   "heading": "Artigo 31.º — Substituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Substituições\n\n1 - No caso de renúncia ou caducidade do mandato, por motivo disciplinar ou por morte, do presidente de órgão colegial da Ordem, o respectivo órgão, na primeira reunião ordinária subsequente ao facto, elege de entre os seus membros um novo presidente e coopta um novo membro.\n\n2 - No caso de renúncia ou caducidade do mandato, por motivo disciplinar ou por morte, de outros membros de órgãos colegiais da Ordem, o respectivo órgão coopta um novo membro.\n\n3 - Nos casos previstos nos números anteriores os substitutos exercem funções até ao termo do mandato do respectivo antecessor."
+  },
+  "808192211": {
+   "fragment_id": "808192309",
+   "type": 8,
+   "heading": "Secção II — Do congresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do congresso"
+  },
+  "808192212": {
+   "fragment_id": "808192310",
+   "type": 11,
+   "heading": "Artigo 32.º — Composição e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição e organização\n\n1 - O congresso é o órgão consultivo de âmbito nacional, constituído por todos os membros da Ordem e outras pessoas que, satisfazendo as condições fixadas, nele se inscrevam.\n\n2 - O congresso é organizado pelo conselho directivo em conjunto com o conselho regional em cuja área o mesmo se realiza."
+  },
+  "808192213": {
+   "fragment_id": "808192311",
+   "type": 11,
+   "heading": "Artigo 33.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competências\n\nCompete ao congresso:\n\na) Tomar posição sobre o exercício da medicina veterinária, seu estatuto e garantias;\n\nb) Pronunciar-se sobre questões de natureza científica, técnica e profissional;\n\nc) Aprovar recomendações de carácter associativo e profissional."
+  },
+  "808192214": {
+   "fragment_id": "808192312",
+   "type": 11,
+   "heading": "Artigo 34.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Reuniões\n\n1 - O congresso reúne, ordinariamente, de dois em dois anos e, extraordinariamente, quando for convocado pelo conselho directivo, por sua iniciativa ou a solicitação do conselho profissional e deontológico.\n\n2 - O congresso reúne, preferencialmente, de forma alternada em cada uma das áreas correspondentes às delegações regionais da Ordem.\n\n3 - O congresso é presidido pela mesa da assembleia geral."
+  },
+  "808192215": {
+   "fragment_id": "808192313",
+   "type": 11,
+   "heading": "Artigo 35.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Funcionamento\n\nO congresso funciona nos termos do regulamento aprovado pelo conselho directivo sob proposta da mesa da assembleia geral e após parecer do conselho profissional e deontológico."
+  },
+  "808192216": {
+   "fragment_id": "808192314",
+   "type": 8,
+   "heading": "Secção III — Da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da assembleia geral"
+  },
+  "808192217": {
+   "fragment_id": "808192315",
+   "type": 11,
+   "heading": "Artigo 36.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Composição\n\nA assembleia geral é constituída por todos os médicos veterinários com inscrição em vigor na Ordem."
+  },
+  "808192218": {
+   "fragment_id": "808192316",
+   "type": 11,
+   "heading": "Artigo 37.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Competência\n\nCompete à assembleia geral:\n\na) Eleger e destituir o conselho profissional e deontológicvo, o conselho directivo, o conselho fiscal e a mesa;\n\nb) Aprovar o plano de actividades e o orçamento apresentados pelo conselho directivo;\n\nc) Aprovar o relatório e contas apresentados pelo conselho directivo;\n\nd) Deliberar sobre propostas de alteração aos estatutos;\n\ne) Apreciar a actividade dos órgãos nacionais e aprovar moções e recomendações de carácter profissional e associativo;\n\nf) Deliberar sobre a criação de delegações regionais nas Regiões Autónomas dos Açores e da Madeira, ouvidas as assembleias regionais já existentes, nos termos deste Estatuto;\n\ng) Fixar o valor das quotas e das taxas pela emissão e renovação das cédulas profissionais;\n\nh) Fixar a percentagem do valor de quotização a atribuir às delegações regionais;\n\ni) Aprovar os regulamentos necessários à prossecução dos fins da Ordem;\n\nj) Pronunciar-se sobre quaisquer assuntos que lhe sejam presentes pelos outros órgãos;\n\nl) Deliberar sobre todos os assuntos que não estejam compreendidos nas competências específicas dos restantes órgãos da Ordem."
+  },
+  "808192219": {
+   "fragment_id": "808192317",
+   "type": 11,
+   "heading": "Artigo 38.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída pelo presidente, por três vice-presidentes e por dois secretários.\n\n2 - O presidente e os secretários são eleitos pela assembleia geral, sendo os vice-presidentes os presidentes das assembleias regionais."
+  },
+  "808192220": {
+   "fragment_id": "808192318",
+   "type": 11,
+   "heading": "Artigo 39.º — Reuniões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reuniões ordinárias\n\n1 - A assembleia geral reúne ordinariamente para a eleição da respectiva mesa, do conselho profissional e deontológico, do conselho directivo e do conselho fiscal, para a discussão e aprovação do orçamento e para a discussão e votação do relatório e contas.\n\n2 - A assembleia geral para a eleição dos órgãos nacionais da Ordem reúne nos termos previstos nos artigos 25.º, 27.º e 28.º\n\n3 - A assembleia geral destinada à aprovação do plano de actividades e orçamento reúne na 1.ª quinzena de Dezembro do ano anterior ao do exercício a que disserem respeito, realizando-se a assembleia geral destinada à aprovação do relatório e contas na 1.ª quinzena de Abril do ano imediato ao do respectivo exercício."
+  },
+  "808192221": {
+   "fragment_id": "808192319",
+   "type": 11,
+   "heading": "Artigo 40.º — Reuniões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Reuniões extraordinárias\n\nA assembleia geral reúne extraordinariamente quando os interesses superiores da Ordem o aconselhem, por iniciativa da respectiva mesa, do conselho profissional e deontológico, do conselho directivo, do conselho fiscal de uma das assembleias regionais ou de 10% dos médicos veterinários com inscrição em vigor e no pleno exercício dos seus direitos."
+  },
+  "808192222": {
+   "fragment_id": "808192320",
+   "type": 11,
+   "heading": "Artigo 41.º — Convocatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Convocatória\n\n1 - As reuniões da assembleia geral são convocadas pelo presidente da respectiva mesa por meio de anúncios publicados em dois jornais diários de grande circulação com a antecedência mínima de 30 dias em relação à data designada para a reunião.\n\n2 - Tratando-se da reunião da assembleia geral a que se refere o n.º 2 do artigo 39.º, os boletins de voto devem estar à disposição dos interessados em votar por correspondência nas sedes das delegações regionais nos 10 dias que antecedem a mesma."
+  },
+  "808192223": {
+   "fragment_id": "808192321",
+   "type": 11,
+   "heading": "Artigo 42.º — Voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Voto\n\n1 - Salvo no que respeita às assembleias gerais previstas no n.º 2 do artigo 39.º, é admissível o voto por procuração a favor de médico veterinário com a inscrição em vigor.\n\n2 - A procuração constará de carta dirigida ao presidente da mesa de voto com a assinatura do mandante reconhecida por notário ou acompanhada de fotocópia do bilhete de identidade."
+  },
+  "808192224": {
+   "fragment_id": "808192322",
+   "type": 8,
+   "heading": "Secção IV — Do conselho profissional e deontológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do conselho profissional e deontológico"
+  },
+  "808192225": {
+   "fragment_id": "808192323",
+   "type": 11,
+   "heading": "Artigo 43.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Composição\n\n1 - O conselho profissional e deontológico constitui o órgão jurisdicional da Ordem e é composto por sete membros eleitos por método de representação proporcional ao número de votos obtidos pelas listas candidatas.\n\n2 - As listas de candidatura devem incluir associados inscritos em cada uma das delegações regionais, de entre membros de reconhecido prestígio e mérito profissional.\n\n3 - Na primeira reunião de cada mandato o conselho profissional e deontológico elege de entre os seus membros um vice-presidente e um secretário."
+  },
+  "808192226": {
+   "fragment_id": "808192324",
+   "type": 11,
+   "heading": "Artigo 44.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Competências\n\nCompete ao conselho profissional e deontológico:\n\na) Julgar os recursos interpostos com fundamento em ilegalidade de actos dos outros órgãos da Ordem;\n\nb) Resolver os conflitos negativos ou positivos de competência entre os órgãos da Ordem;\n\nc) Deliberar sobre os pedidos de escusa, renúncia e suspensão temporária de membros dos órgãos da Ordem;\n\nd) Exercer o poder disciplinar sobre os membros da Ordem;\n\ne) Emitir os pareceres que lhe sejam solicitados pelos outros órgãos da Ordem;\n\nf) Elaborar e aprovar o seu regimento;\n\ng) Exercer as demais competências que lhe sejam atribuídas por lei, pelo presente Estatuto e seus regulamentos."
+  },
+  "808192227": {
+   "fragment_id": "808192325",
+   "type": 8,
+   "heading": "Secção V — Do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Do conselho directivo"
+  },
+  "808192228": {
+   "fragment_id": "808192326",
+   "type": 11,
+   "heading": "Artigo 45.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Composição\n\n1 - O conselho directivo e composto por sete membros, eleitos directamente pela assembleia geral.\n\n2 - As listas candidatas à eleição do conselho directivo devem incluir associados inscritos em todas as delegações regionais.\n\n3 - Na primeira reunião de cada mandato o conselho directivo elege de entre os seus membros um vice-presidente, um secretário e um tesoureiro."
+  },
+  "808192229": {
+   "fragment_id": "808192327",
+   "type": 11,
+   "heading": "Artigo 46.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Competência\n\n1 - Compete ao conselho directivo:\n\na) Dirigir os serviços da Ordem de âmbito nacional;\n\nb) Definir a posição da Ordem perante o órgãos de soberania e da Administração Pública em tudo o que se relacione com a prossecução das suas atribuições;\n\nc) Emitir parecer sobre projectos de diplomas legislativos ou regulamentares que interessem ao exercício da profissão de médico veterinário e propor as alterações que entenda convenientes;\n\nd) Executar as deliberações da assembleia geral;\n\ne) Elaborar e submeter à aprovação da assembleia geral o plano de actividades, o orçamento, o relatório e as contas anuais;\n\nf) Deliberar sobre os pedidos de inscrição na Ordem e emitir as respectivas cédulas profissionais;\n\ng) Cobrar as receitas da Ordem e autorizar as despesas;\n\nh) Desenvolver as relações da Ordem com instituições nacionais ou estrangeiras da mesma natureza;\n\ni) Propor à aprovação da assembleia geral o valor das quotas, taxas e outros encargos a pagar pelos membros da Ordem;\n\nj) Elaborar e manter actualizado ficheiro dos membos da Ordem;\n\nl) Administrar o património da Ordem;\n\nm) Aprovar, após audição dos conselhos regionais e parecer do conselho profissional e deontológico, os regulamentos necessários à execução do Estatuto e à prossecução das atribuições da Ordem;\n\nn) Elaborar e aprovar o seu regimento;\n\no) Organizar e fazer publicar uma revista de especialidade e um boletim periódico, como órgão informativo da Ordem;\n\np) Exercer as demais competências que a lei ou os regulamentos lhe atribuam.\n\n2 - Salvo quanto às matérias constantes das alíneas b), c), e), f), i) e m) do número anterior, o conselho directivo pode delegar em qualquer dos seus membros a sua competência.\n\n3 - Do actos praticados no exercício da competência delegada, nos termos do número anterior, cabe recurso para o conselho directivo."
+  },
+  "808192230": {
+   "fragment_id": "808192328",
+   "type": 11,
+   "heading": "Artigo 47.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Reuniões\n\nO conselho directivo reúne, ordinariamente, pelo menos duas vezes por mês, nos dias previamente definidos, e, extraordinariamente, a convocação do seu presidente, por iniciativa deste, ou a solicitação da maioria dos seus membros."
+  },
+  "808192231": {
+   "fragment_id": "808192329",
+   "type": 8,
+   "heading": "Secção VI — Do bastonário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Do bastonário"
+  },
+  "808192232": {
+   "fragment_id": "808192330",
+   "type": 11,
+   "heading": "Artigo 48.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Definição\n\nO presidente do conselho directivo é o bastonário da Ordem."
+  },
+  "808192233": {
+   "fragment_id": "808192331",
+   "type": 11,
+   "heading": "Artigo 49.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Competências\n\n1 - Compete ao bastonário:\n\na) Representar a Ordem em juízo e fora dele;\n\nb) Zelar pelo cumprimento do presente Estatuto e seus regulamentos;\n\nc) Participar, querendo, nas reuniões de todos os órgãos colegiais da Ordem, só tendo, porém, direito a voto nas reuniões do congresso, da assembleia geral e do conselho directivo;\n\nd) Exercer as competências que lhe sejam delegadas pelo conselho directivo;\n\ne) Exercer qualquer competência do conselho directivo em casos de urgência.\n\n2 - Os actos praticados pelo bastonário no exercício da competência prevista na alínea e) do número anterior devem ser sujeitos a ratificação do conselho directivo na primeira reunião que se efectuar após a sua prática."
+  },
+  "808192234": {
+   "fragment_id": "808192332",
+   "type": 8,
+   "heading": "Secção VII — Do conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Do conselho fiscal"
+  },
+  "808192235": {
+   "fragment_id": "808192333",
+   "type": 11,
+   "heading": "Artigo 50.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Composição\n\n1 - O conselho fiscal é composto por três membros eleitos por método de representação proporcional ao número de votos obtidos pelas listas de candidatura.\n\n2 - Na primeira reunião de cada mandato o conselho fiscal elege de entre os seus membros o vice-presidente e o secretário."
+  },
+  "808192236": {
+   "fragment_id": "808192334",
+   "type": 11,
+   "heading": "Artigo 51.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Competências\n\nCompete ao conselho fiscal:\n\na) Apreciar bimestralmente a contabilidade da Ordem, quer de âmbito nacional quer a respeitante às delegações regionais;\n\nb) Emitir parecer sobre o relatório, contas e orçamento anuais apresentados pelo conselho directivo e pelos conselhos regionais;\n\nc) Apresentar ao conselho directivo e aos conselhos regionais as propostas que considerar adequadas para a melhoria da situação patrimonial e financeira da Ordem;\n\nd) Emitir os pareceres que lhe sejam solicitados pelos outros órgãos da Ordem;\n\ne) Elaborar e aprovar o seu regimento;\n\nf) Exercer as demais competências que lhe sejam atribuídas pela lei e pelo presente Estatuto e seus regulamentos."
+  },
+  "808192237": {
+   "fragment_id": "808192335",
+   "type": 8,
+   "heading": "Secção VIII — Das assembleias regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Das assembleias regionais"
+  },
+  "808192238": {
+   "fragment_id": "808192336",
+   "type": 11,
+   "heading": "Artigo 52.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Composição\n\nEm cada delegação regional funciona uma assembleia regional, constituída por todos os médicos veterinários inscritos por essa delegação."
+  },
+  "808192239": {
+   "fragment_id": "808192337",
+   "type": 11,
+   "heading": "Artigo 53.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Competências\n\nCompete às assembleias regionais:\n\na) Eleger o conselho regional e a mesa da assembleia geral;\n\nb) Aprovar o orçamento, relatório e contas da delegação;\n\nc) Apreciar a actividade do conselho regional e aprovar moções e recomendações de carácter profissional e associativo;\n\nd) Apresentar propostas aos órgãos nacionais;\n\ne) Deliberar sobre os assuntos que lhe sejam presentes pelo conselho regional ou pelo conselho directivo."
+  },
+  "808192240": {
+   "fragment_id": "808192338",
+   "type": 11,
+   "heading": "Artigo 54.º — Mesas das assembleias regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Mesas das assembleias regionais\n\nAs mesas das assembleias regionais são constituídas por um presidente, um vice-presidente e um secretário."
+  },
+  "808192241": {
+   "fragment_id": "808192339",
+   "type": 11,
+   "heading": "Artigo 55.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Funcionamento\n\n1 - As assembleias regionais reúnem ordinariamente para a eleição da respectiva mesa do conselho regional, para discussão e aprovação do orçamento regional e para a discussão e votação do relatório e contas.\n\n2 - À convocação e funcionamento das assembleias regionais aplica-se, com as necessárias adaptações, o regime estabelecido nos artigos 39.º a 42.º do presente Estatuto."
+  },
+  "808192242": {
+   "fragment_id": "808192340",
+   "type": 8,
+   "heading": "Secção IX — Dos conselhos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Dos conselhos regionais"
+  },
+  "808192243": {
+   "fragment_id": "808192341",
+   "type": 11,
+   "heading": "Artigo 56.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Composição\n\n1 - Em cada delegação regional funciona um conselho regional, constituído por quatro membros eleitos directamente pela respectiva assembleia regional.\n\n2 - Na primeira reunião de cada triénio, cada conselho regional elege de entre os seus membros o vice-presidente, o secretário e o tesoureiro."
+  },
+  "808192244": {
+   "fragment_id": "808192342",
+   "type": 11,
+   "heading": "Artigo 57.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Competência\n\n1 - Compete ao conselho regional:\n\na) Representar a delegação regional;\n\nb) Dirigir os serviços da delegação regional e administrar o património a ela afecto;\n\nc) Elaborar e submeter à aprovação da assembleia regional o plano de actividades, o orçamento, o relatório e as contas anuais;\n\nd) Cooperar com os demais órgãos da Ordem na prossecução das suas atribuições;\n\ne) Instruir os pedidos de inscrição na Ordem e enviá-los para deliberação do conselho directivo com o seu parecer;\n\nf) Manter actualizado o registo dos membros da Ordem com domicílio profissional na respectiva área geográfica;\n\ng) Convocar as reuniões da assembleia regional;\n\nh) Enviar, no prazo de 15 dias após a sua aprovação pela assembleia regional, o plano de actividades, o orçamento, o relatório e as contas anuais;\n\ni) Executar as deliberações da assembleia regional;\n\nj) Emitir os pareceres solicitados pelos demais órgãos da Ordem;\n\nl) Zelar pelo cumprimento do Estatuto e respectivos regulamentos;\n\nm) Cobrar as receitas da secção regional e autorizar as despesas;\n\nn) Aprovar o seu regimento;\n\no) Desenvolver as acções necessárias à prossecução das atribuições da Ordem no que respeita à sua área geográfica.\n\n2 - Salvo quanto às matérias previstas nas alíneas c), e), g), j) e n) do número anterior, o conselho regional pode delegar em qualquer dos seus membros as suas competências.\n\n3 - Dos actos praticados no exercício de competências delegadas nos termos do número anterior cabe recurso para o conselho regional."
+  },
+  "808192245": {
+   "fragment_id": "808192343",
+   "type": 11,
+   "heading": "Artigo 58.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Reuniões\n\nOs conselhos regionais reúnem nos termos previstos no artigo 47.º"
+  },
+  "808192246": {
+   "fragment_id": "808192344",
+   "type": 1,
+   "heading": "Capítulo V — Exercício da medicina veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Exercício da medicina veterinária"
+  },
+  "808192247": {
+   "fragment_id": "808192345",
+   "type": 11,
+   "heading": "Artigo 59.º — Medicina veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Medicina veterinária\n\nA medicina veterinária consiste na actividade cujo correcto e eficaz desempenho depende de o seu autor reunir os requisitos previstos no n.º 1 do artigo 1.º da Directiva do Conselho n.º 78/1027/CEE, de 18 de Dezembro de 1978, e traduz-se nas acções que visam o bem-estar e saúde animal, a higiene pública veterinária, a inspecção de produtos de origem animal e a melhoria zootécnica da produção de espécies animais, nomeadamente:\n\na) Acções no âmbito da saúde animal, mormente na prevenção e erradicação de zoonoses;\n\nb) Assistência clínica a animais;\n\nc) Inspecção hígio-sanitária de animais e seus produtos;\n\nd) Assistência zootécnica à criação de animais;\n\ne) Assistência tecnológica a indústrias de produtos animais;\n\nf) Acções no âmbito da higiene pública veterinária, nomeadamente no campo dos alimentos;\n\ng) Peritagem em assuntos que estejam intimamente ligados com a actividade veterinária;\n\nh) Formulação de pareceres técnicos sobre assuntos do âmbito das disciplinas científicas universitárias propedêuticas ou clínicas veterinárias realizadas pelo veterinário;\n\ni) Quaisquer outras acções que, atentas as circunstâncias, devem ser realizadas por pessoas com a formação científica, técnica e profissional especializada no âmbito das ciências veterinárias."
+  },
+  "808192248": {
+   "fragment_id": "808192346",
+   "type": 11,
+   "heading": "Artigo 60.º — Exercício profissional da medicina veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Exercício profissional da medicina veterinária\n\n1 - Sem prejuízo do disposto no artigo seguinte, só os médicos veterinários com inscrição em vigor na Ordem podem exercer, no território nacional, a título profissional, a actividade médica veterinária.\n\n2 - O exercício da profissão veterinária em infracção ao disposto no número anterior constitui crime de usurpação de funções punido nos termos do disposto no artigo 400.º do Código Penal."
+  },
+  "808192249": {
+   "fragment_id": "808192347",
+   "type": 11,
+   "heading": "Artigo 61.º — Prestação de serviços por médicos veterinários legalmente estabelecidos em Estados comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Prestação de serviços por médicos veterinários legalmente estabelecidos em Estados comunitários\n\n1 - Os portugueses e os nacionais de Estados membros das Comunidades Europeias que legalmente exerçam actividade veterinária nesses Estados podem prestar em Portugal serviços médico-veterinários individualizados, nos termos da legislação aplicável.\n\n2 - No caso previsto no número anterior, os médicos veterinários em causa consideram-se, independentemente de qualquer formalismo, inscritos na Ordem para efeitos de deontologia e de responsabilidade disciplinar."
+  },
+  "808192250": {
+   "fragment_id": "808192348",
+   "type": 11,
+   "heading": "Artigo 62.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Incompatibilidades\n\n1 - O exercício da medicina veterinária é incompatível com as funções e actividades seguintes:\n\na) Titular de órgão de soberania e respectivos assessores, membros, funcionários ou agentes contratados dos respectivos gabinetes;\n\nb) Membros do governo regional e respectivos assessores, membros e funcionários ou agentes contratados dos respectivos gabinetes;\n\nc) Governador civil ou vice-governador civil;\n\nd) Presidente de câmara municipal e vereador em regime de permanência;\n\ne) Gestor público;\n\nf) Quaisquer outros que por lei sejam considerados incompatíveis com o exercício da medicina veterinária.\n\n2 - Os membros da Ordem que fiquem em situação de incompatibilidade nos termos do número anterior devem requerer a suspensão da sua inscrição no prazo máximo de 30 dias após a posse do respectivo cargo."
+  },
+  "808192251": {
+   "fragment_id": "808192349",
+   "type": 11,
+   "heading": "Artigo 63.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Impedimentos\n\nOs médicos veterinários que sejam funcionários ou agentes da Administração Pública, ou que de outra forma a esta prestem serviços, estão impedidos de exercer a actividade médica veterinária, a título de profissão liberal ou de trabalho subordinado, directa ou indirectamente, a favor de pessoas singulares ou colectivas de direito privado com as quais mantenham relações de serviço no exercício da função que desempenham na Administração Pública."
+  },
+  "808192252": {
+   "fragment_id": "808192350",
+   "type": 11,
+   "heading": "Artigo 64.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Identificação\n\nOs médicos veterinários estão obrigados, em todos os documentos que emitem no exercício da medicina veterinária, a identificar-se com o número da sua cédula profissional."
+  },
+  "808192253": {
+   "fragment_id": "808192351",
+   "type": 1,
+   "heading": "Capítulo VI — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Responsabilidade disciplinar"
+  },
+  "808192254": {
+   "fragment_id": "808192352",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "808192255": {
+   "fragment_id": "808192353",
+   "type": 11,
+   "heading": "Artigo 65.º — Jurisdição disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Jurisdição disciplinar\n\nOs médicos veterinários estão sujeitos à jurisdição disciplinar dos órgãos da Ordem, nos termos previstos no presente Estatuto e nos respectivos regulamentos."
+  },
+  "808192256": {
+   "fragment_id": "808192354",
+   "type": 11,
+   "heading": "Artigo 66.º — Infracção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Infracção disciplinar\n\nComete infracção disciplinar o médico veterinário que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados neste Estatuto, nos seus regulamentos, no código deontológico ou nas demais disposições aplicáveis."
+  },
+  "808192257": {
+   "fragment_id": "808192355",
+   "type": 11,
+   "heading": "Artigo 67.º — Concorrência de responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Concorrência de responsabilidades\n\nA responsabilidade disciplinar é independente da responsabilidade civil e criminal."
+  },
+  "808192258": {
+   "fragment_id": "808192356",
+   "type": 11,
+   "heading": "Artigo 68.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Competência disciplinar\n\n1 - Salvo o disposto no número seguinte, compete ao conselho profissional e deontológico o exercício do poder disciplinar.\n\n2 - O exercício do poder disciplinar relativamente aos membros do conselho profissional e deontológico compete a este órgão reunido em conjunto com o conselho fiscal, aplicando-se em tudo o mais o disposto nos artigos seguintes com as devidas adaptações."
+  },
+  "808192259": {
+   "fragment_id": "808192357",
+   "type": 11,
+   "heading": "Artigo 69.º — Instauração do processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Instauração do processo disciplinar\n\n1 - O processo disciplinar é instaurado mediante decisão do presidente do conselho profissional e deontológico ou por deliberação deste por sua iniciativa ou com base em participação dirigida aos órgãos da Ordem por qualquer pessoa, devidamente identificada, que tenha conhecimento de factos susceptíveis de integrarem infracção disciplinar.\n\n2 - Os tribunais e as autoridades públicas devem dar conhecimento à Ordem da prática por médicos veterinários de factos susceptíveis de constituírem infracção disciplinar.\n\n3 - O Ministério Público e as demais entidades com poderes de investigação criminal ou policial devem remeter à Ordem certidão das participações apresentadas contra médicos veterinários."
+  },
+  "808192260": {
+   "fragment_id": "808192358",
+   "type": 11,
+   "heading": "Artigo 70.º — Prescrição do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve decorridos que sejam três anos sobre a prática da infracção, ou da cessação de funções do agente como titular de órgão da Ordem, quando estejam em causa infracções cometidas durante o respectivo mandato.\n\n2 - No caso de a infracção disciplinar constituir simultaneamente crime, o procedimento disciplinar prescreve no mesmo prazo do procedimento criminal, quando este for superior.\n\n3 - A demissão da Ordem ou a suspensão da inscrição não fazem cessar a responsabilidade disciplinar por infracções anteriormente praticadas nem, no caso de suspensão, pelas cometidas durante a mesma.\n\n4 - A prescrição é de conhecimento oficioso, podendo, no entanto, o médico veterinário arguido requerer a continuação do processo."
+  },
+  "808192261": {
+   "fragment_id": "808192359",
+   "type": 11,
+   "heading": "Artigo 71.º — Natureza secreta do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Natureza secreta do processo\n\n1 - Até ao despacho de acusação o processo disciplinar é secreto.\n\n2 - O relator pode, contudo, autorizar a consulta do processo pelo interessado ou pelo arguido quando não haja inconveniente para a instrução."
+  },
+  "808192262": {
+   "fragment_id": "808192360",
+   "type": 8,
+   "heading": "Secção II — Das penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das penas"
+  },
+  "808192263": {
+   "fragment_id": "808192361",
+   "type": 11,
+   "heading": "Artigo 72.º — Penas disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Penas disciplinares\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Multa até três vezes o salário mínimo nacional;\n\nd) Multa até três vezes o salário mínimo nacional e suspensão até seis meses;\n\ne) Multa até cinco vezes o salário mínimo nacional e suspensão até dois anos;\n\nf) Multa até 10 vezes o salário mínimo nacional e suspensão até 10 anos.\n\n2 - As penas previstas nas alíneas e) e f) do número anterior só podem ser aplicadas por infracção disciplinar que afecte gravemente a dignidade e o prestígio profissional."
+  },
+  "808192264": {
+   "fragment_id": "808192362",
+   "type": 11,
+   "heading": "Artigo 73.º — Aplicação da pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Aplicação da pena\n\nNa aplicação da pena deve atender-se aos antecedentes profissionais e disciplinares do arguido, à gravidade da infracção, ao grau de culpa, à situação económica do arguido e a todas as demais circunstâncias da infracção."
+  },
+  "808192265": {
+   "fragment_id": "808192363",
+   "type": 8,
+   "heading": "Secção III — Da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da instrução"
+  },
+  "808192266": {
+   "fragment_id": "808192364",
+   "type": 11,
+   "heading": "Artigo 74.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Instrução\n\n1 - Na instrução do processo disciplinar deve o relator fazer prevalecer a verdade material, remover os obstáculos ao seu regular e rápido andamento e recusar o que for inútil ou dilatório, sem prejuízo do direito de defesa.\n\n2 - O relator pode requisitar a realização de diligências ao presidente do conselho regional em cuja área foram praticados os factos em causa.\n\n3 - Na instrução do processo são admissíveis todos os meios de prova em direito permitidos."
+  },
+  "808192267": {
+   "fragment_id": "808192365",
+   "type": 11,
+   "heading": "Artigo 75.º — Termo da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Termo da instrução\n\n1 - Finda a instrução, o relator profere despacho de acusação ou emite parecer fundamentado que conclua pelo arquivamento do processo ou por que este fique a aguardar a produção de melhor prova.\n\n2 - Não sendo proferido despacho de acusação, o relator apresenta o parecer da primeira reunião do conselho a fim de ser deliberado o arquivamento do processo e a produção de melhor prova ou determinado que este prossiga com a realização de diligências complementares ou com o despacho de acusação."
+  },
+  "808192268": {
+   "fragment_id": "808192366",
+   "type": 8,
+   "heading": "Secção IV — Da acusação e defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da acusação e defesa"
+  },
+  "808192269": {
+   "fragment_id": "808192367",
+   "type": 11,
+   "heading": "Artigo 76.º — Despacho de acusação e sua notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Despacho de acusação e sua notificação\n\n1 - O despacho de acusação deve especificar a identidade do arguido, os factos imputados e as circunstâncias em que os mesmos foram praticados, as normas legais e regulamentares infringidas e o prazo para a apresentação da defesa.\n\n2 - O arguido é notificado da acusação, pessoalmente ou por carta registada com aviso de recepção, com a entrega da respectiva cópia."
+  },
+  "808192270": {
+   "fragment_id": "808192368",
+   "type": 11,
+   "heading": "Artigo 77.º — Defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Defesa\n\n1 - O prazo para a apresentação da defesa é de 20 dias.\n\n2 - O arguido pode nomear para a sua defesa um representante especialmente mandatado para esse efeito.\n\n3 - A defesa deve expor clara e concisamente os factos e as razões que a fundamentam.\n\n4 - Com a defesa deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer as diligências necessárias para o apuramento dos factos especificados.\n\n5 - Não podem ser indicadas mais de cinco testemunhas por cada facto e o seu total não pode exceder o número de 20."
+  },
+  "808192271": {
+   "fragment_id": "808192369",
+   "type": 11,
+   "heading": "Artigo 78.º — Alegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Alegações\n\nRealizadas as diligências a que se refere o artigo anterior e outras que sejam determinadas pelo relator, o interessado e o arguido são notificados para alegarem por escrito no prazo de 20 dias."
+  },
+  "808192272": {
+   "fragment_id": "808192370",
+   "type": 8,
+   "heading": "Secção V — Do julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Do julgamento"
+  },
+  "808192273": {
+   "fragment_id": "808192371",
+   "type": 11,
+   "heading": "Artigo 79.º — Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Julgamento\n\n1 - Finda a instrução, o processo é presente ao conselho profissional e deontológico para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - As penas previstas nas alíneas e) e f) do n.º 1 do artigo 72.º só podem ser aplicadas mediante deliberação que obtenha dois terços dos votos de todos os membros do conselho profissional e deontológico."
+  },
+  "808192274": {
+   "fragment_id": "808192372",
+   "type": 11,
+   "heading": "Artigo 80.º — Notificação do acórdão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Notificação do acórdão\n\n1 - Os acórdãos finais são notificados ao arguido e aos interessados nos termos do n.º 2 do artigo 76.º\n\n2 - O acórdão que aplicar pena de suspensão é também notificado à entidade empregadora do infractor."
+  },
+  "808192375": {
+   "fragment_id": "808192373",
+   "type": 8,
+   "heading": "Secção VI — Do processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Do processo de inquérito"
+  },
+  "808192376": {
+   "fragment_id": "808192374",
+   "type": 11,
+   "heading": "Artigo 81.º — Processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Processo de inquérito\n\n1 - Pode ser ordenada a abertura de processo de inquérito sempre que não esteja concretizada a infracção ou não seja conhecido o infractor e, ainda, quando se torne necessário proceder a averiguações destinadas ao esclarecimento dos factos.\n\n2 - O processo de inquérito regula-se com as necessárias adaptações pelas normas aplicáveis ao processo disciplinar em tudo o que não esteja especialmente previsto."
+  },
+  "808192377": {
+   "fragment_id": "808192475",
+   "type": 11,
+   "heading": "Artigo 82.º — Termo de instrução em processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Termo de instrução em processo de inquérito\n\n1 - Finda a instrução, o relator emite um parecer fundamentado em que proponha o prosseguimento do processo como disciplinar ou o seu arquivamento, consoante considere que existem ou não indicios suficientes da prática da infracção.\n\n2 - O relator apresenta o seu parecer na primeira reunião do conselho profissional e deontológico a fim de ser deliberado que o processo prossiga como disciplinar, seja arquivado ou sejam realizadas diligências complementares.\n\n3 - Caso o parecer não seja aprovado, pode ser designado novo relator de entre os membros do conselho que façam vencimento."
+  },
+  "808192378": {
+   "fragment_id": "808192476",
+   "type": 8,
+   "heading": "Secção VII — Da revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Da revisão"
+  },
+  "808192379": {
+   "fragment_id": "808192477",
+   "type": 11,
+   "heading": "Artigo 83.º — Condições de concessão de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Condições de concessão de revisão\n\nAs decisões com trânsito em julgado apenas podem ser revistas pelo conselho profissional e deontológico, nos seguintes casos:\n\na) Quando se tenham descoberto novos factos ou novas provas documentais susceptíveis de alterar a decisão proferida;\n\nb) Quando uma outra decisão transitada em julgado declarar falsos quaisquer elementos de prova susceptíveis de terem determinado a decisão revidenda;\n\nc) Quando se mostrar, por exame psiquiátrico ou outras diligências, que a falta de integridade mental do arguido condenado poderia ter determinado a sua inimputabilidade."
+  },
+  "808192380": {
+   "fragment_id": "808192478",
+   "type": 11,
+   "heading": "Artigo 84.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Legitimidade\n\nO pedido de revisão das decisões deve ser formulado, em requerimento, pelo interessado ou pelo arguido condenado ou, tendo estes falecido, pelos seus descendentes, cônjuges ou irmãos."
+  },
+  "808192381": {
+   "fragment_id": "808192479",
+   "type": 11,
+   "heading": "Artigo 85.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Instrução\n\n1 - Apresentado o pedido, é efectuada a distribuição, sendo posteriormente o arguido ou o interessado notificados para responder ao pedido de revisão no prazo de um mês.\n\n2 - Com o pedido e a resposta é oferecida toda a prova."
+  },
+  "808192382": {
+   "fragment_id": "808192480",
+   "type": 11,
+   "heading": "Artigo 86.º — Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Julgamento\n\n1 - Realizadas as diligências requeridas e as que tiverem sido consideradas necessárias, o relator elabora o seu parecer, seguindo o processo com 25 dias a cada um dos membros do conselho.\n\n2 - Findo o prazo de visto, o processo é submetido à deliberação do conselho.\n\n3 - A concessão de revisão tem de ser votada pela maioria absoluta dos membros do conselho."
+  },
+  "808192383": {
+   "fragment_id": "808192481",
+   "type": 8,
+   "heading": "Secção VIII — Da execução das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Da execução das decisões"
+  },
+  "808192384": {
+   "fragment_id": "808192482",
+   "type": 11,
+   "heading": "Artigo 87.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Competência\n\nCompete ao presidente do conselho regional dar execução a todas as decisões proferidas nos processos em que sejam arguidos médicos veterinários com domicílio profissional na área da respectiva secção."
+  },
+  "808192385": {
+   "fragment_id": "808192483",
+   "type": 11,
+   "heading": "Artigo 88.º — Incumprimento das decisões disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Incumprimento das decisões disciplinares\n\nÉ suspensa a inscrição do médico veterinário punido até cumprimento das decisões disciplinares."
+  },
+  "808192386": {
+   "fragment_id": "808192484",
+   "type": 11,
+   "heading": "Artigo 89.º — Início de cumprimento da pena de suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Início de cumprimento da pena de suspensão\n\n1 - O cumprimento da pena de suspensão tem início a partir do dia da respectiva notificação.\n\n2 - Se à data do início da suspensão estiver suspensa ou cancelada a inscrição do arguido, o cumprimento da pena de suspensão tem início a partir do dia imediato àquele em que tiver lugar o levantamento da suspensão da inscrição ou a reinscrição ou a partir do termo da anterior pena de suspensão."
+  },
+  "808192387": {
+   "fragment_id": "808192485",
+   "type": 1,
+   "heading": "Capítulo VII — Receitas e despesas da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Receitas e despesas da Ordem"
+  },
+  "808192388": {
+   "fragment_id": "808192486",
+   "type": 11,
+   "heading": "Artigo 90.º — Constituem receitas da Ordem, a nível nacional:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Constituem receitas da Ordem, a nível nacional:\n\na) O produto das taxas de inscrição;\n\nb) A percentagem do montante das quotizações mensais dos seus membros, fixada pela assembleia geral;\n\nc) O produto da actividade editorial, de prestação de serviços e outras actividades;\n\nd) Legados, donativos e subsídios que lhe sejam feitos por quaisquer pessoas singulares ou colectivas;\n\ne) Os juros dos depósitos bancários;\n\nf) O rendimento dos bens móveis e imóveis da Ordem;\n\ng) O produto das multas aplicadas por infracções disciplinares;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por força da lei."
+  },
+  "808192389": {
+   "fragment_id": "808192487",
+   "type": 11,
+   "heading": "Artigo 91.º — Receitas das delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Receitas das delegações regionais\n\nConstituem receitas das secções regionais:\n\na) A percentagem do montante das quotizações mensais dos membros inscritos na delegação regional, fixado em assembleia geral;\n\nb) O produto das actividades do âmbito regional desenvolvidas pelos respectivos serviços;\n\nc) O rendimento dos bens móveis e imóveis da Ordem afectos à delegação regional;\n\nd) Os juros dos depósitos bancários da delegação regional;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por força da lei."
+  },
+  "808192390": {
+   "fragment_id": "808192488",
+   "type": 11,
+   "heading": "Artigo 92.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Isenções\n\nA Ordem está isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha."
+  },
+  "808192393": {
+   "fragment_id": "808125370",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 257/91 - Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1991-491884), produz efeitos a partir de 1991-10-09"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Por portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação será designada uma comissão instaladora da Ordem dos Médicos Veterinários e aprovado o respectivo regulamento interno.\n\n2 - Compete à comissão instaladora referida no número anterior aceitar as inscrições na Ordem e exercer as funções e competências atribuídas pelo respectivo Estatuto à comissão eleitoral.\n\n3 - A comissão instaladora cessa automaticamente funções com a tomada de posse dos membros dos órgãos da Ordem eleitos em assembleia geral a realizar até 30 de Novembro de 1991.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 257/91 - Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1991-491884), produz efeitos a partir de 1991-10-09"
+  },
+  "808166373": {
+   "fragment_id": "808125371",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho.\n\nPromulgado em 20 de Setembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Setembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "808192394": {
+   "fragment_id": "808192277",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 257/91 - Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1991-491884), produz efeitos a partir de 1991-10-09"
+   ],
+   "markdown": "###### Artigo 4.º — Estrutura\n\n1 - A Ordem tem âmbito nacional e está internamente estruturada em delegações regionais incumbidas de desenvolver regionalmente as acções conducentes à prossecução das atribuições da Ordem.\n\n2 - A Ordem compreende três delegações regionais: Delegação Regional do Norte, Delegação Regional do Centro e Delegação Regional do Sul, com sede, respectivamente, no Porto, em Coimbra e em Lisboa.\n\n3 - As delegações regionais da Ordem abrangem as áreas dos seguintges distritos:\n\na) Delegação Regional do Norte - Porto, Viana do Castelo, Braga, Vila Real e Bragança;\n\nb) Delegação Regional do Centro - Aveiro, Coimbra, Leiria, Viseu, Guarda e Castelo Branco;\n\nc) Delegação Regional do Sul - Lisboa, Santarém, Portalegre, Setúbal, Évora, Beja e Faro.\n\n4 - Por proposta de, pelo menos, 50% dos veterinários que exerçam actividade nas Regiões Autónomas dos Açores e da Madeira, podem ser criadas delegações regionais em cada uma delas, mediante deliberação da assembleia geral, que fixará as respectivas sedes.\n\n5 - Enquanto não forem criadas as delegações regionais a que se refere o número anterior, as Regiões Autónomas dos Açores e da Madeira são abrangidas pela Delegação Regional do Sul.\n\n6 - Enquanto o território de Macau se encontrar sob administração portuguesa, o conselho directivo designa um delegado da Ordem para aquele território.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 257/91 - Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1991-491884), produz efeitos a partir de 1991-10-09"
+  },
+  "808192398": {
+   "fragment_id": "808192346",
+   "type": 11,
+   "heading": "Artigo 60.º — Exercício profissional da medicina veterinária",
+   "in_force_from": "1997-11-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 117/97 - Diário da República n.º 255/1997, Série I-A de 1997-11-04](https://diariodarepublica.pt/dr/detalhe/lei/117-1997-675651), em vigor a partir de 1997-11-09"
+   ],
+   "markdown": "###### Artigo 60.º — Exercício profissional da medicina veterinária\n\n1 - Sem prejuízo do disposto no artigo seguinte, só os médicos veterinários com inscrição em vigor na Ordem podem exercer, no território nacional, a título profissional, a actividade médica veterinária.\n\n2 - O exercício da profissão veterinária em infracção ao disposto no número anterior constitui crime de usurpação de funções, punido nos termos do disposto no artigo 358.º do Código Penal.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 117/97 - Diário da República n.º 255/1997, Série I-A de 1997-11-04](https://diariodarepublica.pt/dr/detalhe/lei/117-1997-675651), em vigor a partir de 1997-11-09"
+  },
+  "808197407": {
+   "fragment_id": "808125370",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-10-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 125/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/125-2015-70179154), em vigor a partir de 2015-10-03",
+    "Retificado pelo/a [Declaração de Rectificação n.º 257/91 - Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1991-491884), produz efeitos a partir de 1991-10-09"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Por portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação será designada uma comissão instaladora da Ordem dos Médicos Veterinários e aprovado o respectivo regulamento interno.\n\n2 - Compete à comissão instaladora referida no número anterior aceitar as inscrições na Ordem e exercer as funções e competências atribuídas pelo respectivo Estatuto à comissão eleitoral.\n\n3 - A comissão instaladora cessa automaticamente funções com a tomada de posse dos membros dos órgãos da Ordem eleitos em assembleia geral a realizar até 30 de Novembro de 1991.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 125/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/125-2015-70179154), em vigor a partir de 2015-10-03\n\n> Retificado pelo/a [Declaração de Rectificação n.º 257/91 - Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1991-491884), produz efeitos a partir de 1991-10-09"
+  }
+ }
+}

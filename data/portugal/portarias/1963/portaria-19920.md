@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:693225:por
+title: Portaria n.º 19920
+short_title: null
+summary: Designa as importâncias que os conselhos administrativos de diversas unidades e estabelecimentos da Força Aérea ficam
+  autorizados a sacar em conta do capítulo 7.º do orçamento ordinário dos encargos gerais da Nação em vigor
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Aeronáutica
+proposing_entity: null
+official_number: '19920'
+official_date: null
+publication_date: '1963-06-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 150/1963, Série I de 1963-06-27
+  number: '150'
+  series: I
+  supplement: null
+  pages: 785 - 785
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/06/15000/07850785.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '693225'
+  dre_path: /dr/detalhe/portaria/19920-1963-693225
+  internal: pt:dre:693225:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19920-1963-693225
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19920-1963-693225
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:30:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bf9bf7d4d30c17e1420a66ed59c40c6b73980829571cb11bed01ebc447f31dca
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:30:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Encargos Gerais da Nação
+- Força Aérea
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:351557:por
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:30:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19920
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que, nos termos do § 4.º do artigo 48.º do [Decreto-Lei n.º 41758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41758-1958-351557), de 25 de Julho de 1958, os conselhos administrativos das unidades e estabelecimentos da Força Aérea a seguir indicados sejam autorizados a sacar, em conta do capítulo 7.º do orçamento ordinário dos encargos gerais da Nação em vigor, as importâncias que lhes vão designadas:
+
+Artigo 149.º, n.º 3), alínea a):
+
+Base aérea n.º 1 ... 5954$40
+
+Base aérea n.º 2 ... 49042$10
+
+Base aérea n.º 3 ... 17685$00
+
+Base aérea n.º 5 ... 385$60
+
+Artigo 149.º, n.º 4), alínea c):
+
+Base aérea n.º 3 ... 144$20
+
+Base aérea n.º 5 ... 193$20
+
+Artigo 151.º, n.º 3), alínea a):
+
+Base aérea n.º 2 ... 9448$00
+
+Artigo 152.º, n.º 1), alínea b):
+
+Base aérea n.º 6 ... 20525$00
+
+Artigo 152.º, n.º 2), alínea a):
+
+Base aérea n.º 6 ... 18300$00
+
+Artigo 152.º, n.º 3), alínea c):
+
+Base aérea n.º 4 ... 18320$00
+
+Artigo 152.º, n.º 4), alínea a):
+
+Base aérea n.º 2 ... 5885$00
+
+###### Artigo 155.º, n.º 3): — Grupo de detecção, alerta e conduta da intercepção n.º 1 ... 255$00
+
+Base aérea n.º 2 ... 515$20
+
+Base aérea n.º 4 ... 12911$40
+
+Base aérea n.º 5 ... 640$00
+
+Base aérea n.º 6 ... 433$20
+
+###### Artigo 156.º, n.º 1): — Comando da Zona Aérea dos Açores ... 1129896$40
+
+###### Artigo 158.º, n.º 1): — Base aérea n.º 4 ... 1697$40
+
+Secretaria de Estado da Aeronáutica, 27 de Junho de 1963. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.

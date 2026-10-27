@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0060:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0060-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "1996-10-18",
+   "future": false,
+   "celex": "31996L0060",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45d59c7a6ef1237b",
+    "f1eedd49ca1e9c82",
+    "972ada9873ae2408",
+    "08679796e5a0d151",
+    "e4cb316c30e73dc2",
+    "8dee5150385ac763",
+    "5d1878e99f3ed4cc",
+    "001a1044897158a5",
+    "9484f6137ab3a5a8",
+    "7c163f8c908e0d14",
+    "2350f922e810e44e",
+    "67f067665cc53e61"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "01996L0060-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO I — ETIQUETA",
+    "Suprime ANEXO II — FICHA",
+    "Suprime ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+    "Suprime ANEXO IV — CLASSES DE EFICIÊNCIA",
+    "Suprime ANEXO V — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "febb04663176d99b"
+   ]
+  }
+ ],
+ "fragments": {
+  "45d59c7a6ef1237b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/60/CE da Comissão de 19 de Setembro de 1996 relativa à aplicação da Directiva 92/75/CEE do Conselho à etiquetagem energética das máquinas combinadas de lavar e secar roupa para uso doméstico** *Jornal Oficial nº L 266 de 18/10/1996 p. 0001 - 0027*\n\nDIRECTIVA 96/60/CE DA COMISSÃO de 19 de Setembro de 1996 relativa à aplicação da Directiva 92/75/CEE do Conselho à etiquetagem energética das máquinas combinadas de lavar e secar roupa para uso doméstico\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de etiquetagem e outras indicações uniformes relativas aos produtos (1), e nomeadamente os seus artigos 9º e 12º,\n\nConsiderando que o consumo de electricidade das máquinas combinadas de lavar e secar roupa representa uma parte significativa da procura total de energia na Comunidade; que o consumo de energia destes aparelhos pode ser consideravelmente reduzido;\n\nConsiderando que uma lavagem mais eficiente exige muitas vezes um maior consumo de água e energia; que as informações sobre a eficiência de lavagem de uma máquina são úteis para avaliar as informações sobre o seu consumo de energia e água; que essas informações podem orientar os consumidores na escolha de um aparelho que faça uma utilização racional da energia;\n\nConsiderando que a Comunidade, confirmando o seu interesse num sistema de normalização internacional capaz de produzir normas que sejam efectivamente utilizadas por todos os parceiros do comércio internacional e de satisfazer as exigências da política comunitária, convida os organismos de normalização europeus a prosseguirem a sua cooperação com os organismos de normalização internacionais;\n\nConsiderando que o Comité Europeu de Normalização (CEN) e o Comité Europeu de Normalização Electrotécnica (Cenelec) são os organismos reconhecidamente competentes para adoptar normas harmonizadas de acordo com as orientações gerais para a cooperação entre a Comissão e esses dois organismos, assinadas em 13 de Novembro de 1984; que, para efeitos da presente directiva, uma norma harmonizada é uma especificação técnica (norma europeia ou documento de harmonização) adoptada pelo Cenelec com base em incumbência da Comissão, nos termos do disposto na Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, que estabelece um procedimento de informação no domínio das normas e regulamentações técnicas (2), com a última redacção que lhe foi dada pela Decisão 96/139/CE da Comissão (3), e com base nas orientações gerais acima referidas;\n\nConsiderando que as medidas enunciadas na presente directiva estão de acordo com o parecer do comité estabelecido pelo artigo 10º da Directiva 92/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f1eedd49ca1e9c82": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva aplica-se às máquinas combinadas de lavar e secar roupa para uso doméstico alimentadas pela rede eléctrica. Estão excluídas as máquinas que podem igualmente utilizar outras fontes de energia.\n\n2. As informações exigidas pela presente directiva serão avaliadas de acordo com normas harmonizadas cujos números de referência tenham sido publicados no Jornal Oficial das Comunidades Europeias e relativamente às quais os Estados-membros tenham publicado os números de referência das normas nacionais que transpõem essas normas harmonizadas. As disposições da presente directiva que prevejam o fornecimento de informações relativas ao ruído apenas se aplicam caso essas informações sejam exigidas nos termos do artigo 3º da Directiva 86/594/CEE do Conselho (4). Essas informações, quando exigidas, serão avaliadas em conformidade com essa mesma directiva.\n\n3. As normas harmonizadas referidas no nº 2 serão elaboradas por incumbência da Comissão, nos termos da Directiva 83/189/CEE.\n\n4. Na presente directiva, as expressões são utilizadas com a mesma acepção que na Directiva 92/75/CEE, excepto se o contexto exigir que assim não seja."
+  },
+  "972ada9873ae2408": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A documentação técnica referida no nº 3 do artigo 2º da Directiva 92/75/CEE incluirá:\n\n- o nome e o endereço do fornecedor,\n\n- uma descrição geral do modelo, que permita identificá-lo inequivocamente,\n\n- informações, incluindo, se necessário, desenhos, relativas às principais características do modelo, designadamente as que afectam de modo significativo o consumo de energia,\n\n- relatórios dos ensaios de medição efectuados no modelo de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º da presente directiva,\n\n- instruções de funcionamento, se for caso disso.\n\n2. A etiqueta referida no nº 1 do artigo 2º da Directiva 92/75/CEE deve obedecer às especificações do anexo I da presente directiva. A etiqueta deve ser colocada na parte externa do aparelho, à frente ou em cima, de modo a ficar claramente visível e não tapada.\n\n3. O conteúdo e o formato da ficha referida no nº 1 do artigo 2º da Directiva 92/75/CEE devem obedecer às especificações do anexo II da presente directiva.\n\n4. Nas circunstâncias previstas no artigo 5º da Directiva 92/75/CEE e quando a proposta de venda, de aluguer ou de aluguer com opção de venda for feita através de uma comunicação impressa, como, por exemplo, um catálogo de vendas por correspondência, essa comunicação deve incluir todas as informações especificadas no anexo III da presente directiva.\n\n5. A classe de eficiência energética de um aparelho, bem como a sua classe de eficiência de lavagem, devem ser expressas como especificado no anexo IV."
+  },
+  "08679796e5a0d151": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros adoptarão todas as medidas necessárias para garantir que todos os fornecedores e distribuidores estabelecidos no seu território cumpram as obrigações impostas pela presente directiva."
+  },
+  "e4cb316c30e73dc2": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva até 15 de Julho de 1997. Do facto informarão imediatamente a Comissão. Essas disposições serão aplicáveis a partir de 1 de Agosto de 1997.\n\nTodavia, os Estados-membros permitirão, até 31 de Janeiro de 1998:\n\n- a colocação no mercado, a comercialização e/ou a exposição de produtos e\n\n- a distribuição das comunicações impressas referidas no nº 4 do artigo 2º que não estejam conformes com a presente directiva.\n\nAs disposições adoptadas pelos Estados-membros incluirão uma referência à presente directiva ou serão acompanhadas da referida referência aquando da sua publicação oficial. As modalidades da referência são adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as normas de direito nacional adoptadas no domínio regido pela presente directiva."
+  },
+  "8dee5150385ac763": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "5d1878e99f3ed4cc": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Setembro de 1996.\n\nPela Comissão\n\nChristos PAPOUTSIS\n\nMembro da Comissão\n\n(1) JO nº L 297 de 13. 10. 1992, p. 16.\n\n(2) JO nº L 109 de 26. 4. 1983, p. 8.\n\n(3) JO nº L 32 de 10. 2. 1996, p. 31.\n\n(4) JO nº L 334 de 6. 12. 1986, p. 24."
+  },
+  "001a1044897158a5": {
+   "fragment_id": "ANEXO I — ETIQUETA",
+   "type": "divisao",
+   "heading": "ANEXO I — ETIQUETA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ETIQUETA\n\nEstrutura da etiqueta\n\n1. A etiqueta deverá ser seleccionada a partir das ilustrações que se seguem, na versão linguística correspondente:\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n2. As seguintes notas especificam as informações a incluir:\n\nNotas\n\nI. Nome ou marca comercial do fornecedor.\n\nII. Identificação do modelo do fornecedor.\n\nIII. Classe de eficiência energética do modelo determinada de acordo com o anexo IV, sendo indicada ao mesmo nível da seta correspondente.\n\nIV. Sem prejuízo de eventuais requisitos decorrentes do sistema comunitário de atribuição da etiqueta ecológica, se, ao abrigo do Regulamento (CEE) nº 880/92 do Conselho (1), tiver sido atribuído a um modelo uma «etiqueta ecológica comunitária», poder-se-á incluir uma cópia dessa etiqueta ecológica. O «guia de desenho de etiquetas para máquinas combinadas de lavar e secar roupa» a seguir referido explica o modo como a marcação ecológica pode ser incluída na etiqueta.\n\nV. Consumo de energia em quilowatts-hora (kWh) por ciclo de operação completa (lavagem, centrifugação e secagem), utilizando o ciclo normal de tecidos de algodão a 60 °C e o ciclo de secagem de «algodão pronto a arrumar», de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\nVI. Consumo de energia em quilowatts-hora por ciclo de lavagem (lavagem e centrifugação apenas), utilizando o ciclo normal de tecidos de algodão a 60 °C, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\nVII. Classe de eficiência de lavagem determinada de acordo com o anexo IV.\n\nVIII. Velocidade máxima de centrifugação no ciclo normal de tecidos de algodão a 60 °C, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\nIX. Capacidade do aparelho, em quilogramas, no ciclo normal de tecidos de algodão a 60 °C (sem secagem) de acordo com as normas harmonizadas referidas no nº 2 do artigo 1º\n\nX. Capacidade do aparelho, em quilogramas, no ciclo de secagem «algodão pronto a arrumar» de acordo com as normas harmonizadas referidas no nº 2 do artigo 1º\n\nXI. Consumo de água, em litros, no ciclo de operação completa (lavagem, centrifugação e secagem), utilizando o ciclo normal de tecidos de algodão a 60 °C e o ciclo de secagem de «algodão pronto a arrumar», de acordo com as normas harmonizadas referidas no nº 2 do artigo 1º\n\nXII. Nível de ruído durante os ciclos de lavagem, centrifugação e secagem, com base no ciclo normal a 60 °C, nos termos da Directiva 86/594/CEE do Conselho (2).\n\nNota\n\nOs termos de outras línguas equivalentes aos acima utilizados constam do anexo V.\n\nImpressão\n\n3. Definem-se a seguir certos aspectos da etiqueta:\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UMA IMAGEN>\n\nCores utilizadas:\n\nCMAP - ciano, magenta, amarelo, preto.\n\nExemplo: 07X0: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nSetas:\n\n- A: X0X0\n\n- B: 70X0\n\n- C: 30X0\n\n- D: 00X0\n\n- E: 03X0\n\n- F: 07X0\n\n- G: 0XX0\n\nCor da esquadria: X070\n\nTodo o texto é a preto. O fundo é branco.\n\nTodas as informações necessárias para a impressão estão contidas num «guia de desenho de etiquetas para máquinas combinadas de lavar e secar roupa», que pode ser obtido no seguinte endereço:\n\nSecretariado do Comité para a etiquetagem energética e informações normalizadas sobre aparelhos electrodomésticos\n\nDirecção-Geral XVII (Energia)\n\nComissão das Comunidades Europeias\n\nRue de la Loi/Wetstraat 200\n\nB-1049 Bruxelas.\n\n(1) JO nº L 99 de 11. 4. 1992, p. 1.\n\n(2) JO nº L 344 de 6. 12. 1986, p. 24. As normas de medição do ruído pertinentes são a norma EN 60704-2-4 para a lavagem e a centrifugação e a norma EN 60704-2-6 para a secagem e a norma EN 60704-3."
+  },
+  "9484f6137ab3a5a8": {
+   "fragment_id": "ANEXO II — FICHA",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA\n\nA ficha deve conter as informações que se seguem. As informações podem ser apresentadas sob a forma de um quadro que abranja uma série de aparelhos fornecidos pelo mesmo fornecedor, devendo nesse caso respeitar a ordem a seguir especificada, ou acompanhar a descrição do aparelho.\n\n1. Marca comercial do fornecedor.\n\n2. Identificação do modelo do fornecedor.\n\n3. Classe de eficiência energética do modelo, como definida no anexo IV, expressa em termos de «classe de eficiência energética... numa escala de A (mais eficiente) a G (menos eficiente)». Se essa informação for fornecida num quadro pode ser expressa de outro modo, desde que seja claro que a escala vai de A (mais eficiente) a G (menos eficiente).\n\n4. Caso as informações sejam fornecidas num quadro e caso tenha sido atribuído a alguns dos aparelhos enumerados no quadro uma «etiqueta ecológica comunitária» nos termos do Regulamento (CEE) nº 880/92, essa informação pode ser incluída no quadro. Nesse caso, o cabeçalho da linha deve ser «etiqueta ecológica comunitária» e a entrada consistirá numa cópia da marcação ecológica (a flor). Esta disposição não prejudica eventuais requisitos decorrentes do sistema de atribuição de etiquetas ecológicas comunitárias.\n\n5. Consumo de energia na lavagem, na centrifugação, e na secagem, em quilowatts-hora (kWh) por ciclo de operação completa, de acordo com o anexo I, nota V.\n\n6. Consumo de energia apenas na lavagem e na centrifugação, em quilowatts-hora por ciclo de lavagem, de acordo com o anexo I, nota VI.\n\n7. Classe de eficiência de lavagem, de acordo com o anexo IV, expressa em termos de «classe de eficiência de lavagem... numa escala de A (mais elevada) a G (mais baixa)». Esta informação pode ser expressa de outro modo, desde que seja claro que a escala vai de A (mais elevada) a G (mais baixa).\n\n8. Eficiência de centrifugação, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º, num ciclo normal de lavagem de tecidos de algodão a 60 °C, expressa em termos de «água residual após centrifugação... % (em percentagem do peso da roupa seca)».\n\n9. Velocidade máxima de centrifugação, de acordo com o anexo I, nota VIII.\n\n10. Capacidade de lavagem do aparelho, de acordo com o anexo I, nota IX, num ciclo normal de lavagem de tecidos de algodão a 60 °C.\n\n11. Capacidade de secagem do aparelho, de acordo com o anexo I, nota X, num ciclo normal de secagem «algodão pronto a arrumar».\n\n12. Consumo de água na lavagem, na centrifugação e na secagem, em litros por ciclo de operação completa, de acordo com o anexo I, nota XI.\n\n13. Consumo de água apenas na lavagem e na centrifugação, em litros, utilizando o ciclo normal de lavagem (e centrifugação) de tecidos de algodão a 60 °C, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\n14. Tempo de lavagem e de secagem. Duração do programa por ciclo de operação completa (utilizando o ciclo normal de lavagem de tecidos de algodão a 60 °C e o ciclo normal de «algodão pronto a arrumar»), relativamente à capacidade nominal de lavagem, de acordo com as normas harmonizadas referidas no nº 2 do artigo 1º\n\n15. Os fornecedores podem incluir as mesmas informações mencionadas nos pontos 5 a 14 relativamente a outros ciclos de lavagem ou de secagem.\n\n16. Consumo de energia e de água, que corresponde a 200 vezes os consumos referidos nos pontos 5 (energia) e 12 (água). Este consumo médio será expresso como «consumo anual típico de um agregado familiar de quatro pessoas, que utiliza sempre a máquina combinada de lavar e secar para secar a roupa (200 ciclos)».\n\n17. Consumo de energia e de água, que corresponde a 200 vezes os consumos referidos nos pontos 6 (energia) e 13 (água). Este consumo médio será expresso como «consumo anual típico de um agregado familiar de quatro pessoas, que nunca utiliza a máquina combinada de lavar e secar para secar a roupa (200 ciclos)».\n\n18. Nível de ruído durante os ciclos de lavagem, centrifugação e secagem, utilizando o ciclo normal de tecidos de algodão a 60 °C e o ciclo de secagem de «algodão pronto a arrumar», nos termos da Directiva 86/594/CEE.\n\nAs informações constantes da etiqueta podem ser apresentadas sob a forma de uma reprodução da etiqueta, quer a cores quer a preto e branco.\n\nNota\n\nOs termos de outras línguas equivalentes aos acima utilizados constam do anexo V."
+  },
+  "7c163f8c908e0d14": {
+   "fragment_id": "ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA\n\nOs catálogos de vendas por correspondência e outras informações impressas referidas no nº 4 do artigo 2º devem conter os dados que se seguem pela ordem indicada:\n\n1. Classe de eficiência energética (anexo II, ponto 3)\n\n2. Consumo de energia (lavagem, centrifugação e secagem) (anexo II, ponto 5)\n\n3. Consumo de energia (apenas lavagem e centrifugação) (anexo II, ponto 6)\n\n4. Classe de eficiência de lavagem (anexo II, ponto 7)\n\n5. Eficiência de centrifugação (anexo II, ponto 8)\n\n6. Velocidade de centrifugação (anexo II, ponto 9)\n\n7. Capacidade (lavagem) (anexo II, ponto 10)\n\n8. Capacidade (secagem) (anexo II, ponto 11)\n\n9. Consumo de água (lavagem e secagem) (anexo II, ponto 12)\n\n10. Consumo de água (apenas lavagem e centrifugação) (anexo II, ponto 13)\n\n11. Consumo anual típico de um agregado familiar de quatro pessoas que utiliza sempre a máquina combinada de lavar e secar para secar a roupa (200 ciclos) (anexo II, ponto 16)\n\n12. Consumo anual típico de um agregado familiar de quatro pessoas que nunca utiliza a máquina combinada de lavar e secar para secar a roupa (200 ciclos) (anexo II, ponto 17)\n\n13. Nível de ruído (anexo II, ponto 18)\n\nCaso se forneçam outras informações contidas na ficha, elas devem ser apresentadas na forma definida no anexo II e incluídas na lista supra na ordem estabelecida para a ficha.\n\nNota\n\nOs termos de outras línguas equivalentes aos acima utilizados constam do anexo V."
+  },
+  "2350f922e810e44e": {
+   "fragment_id": "ANEXO IV — CLASSES DE EFICIÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO IV — CLASSES DE EFICIÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CLASSES DE EFICIÊNCIA\n\n1. A classe de eficiência energética será determinada de acordo com o seguinte quadro 1:\n\n>POSIÇÃO NUMA TABELA>\n\n2. A classe de eficiência de lavagem de um aparelho será determinada de acordo com o seguinte quadro 2:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "67f067665cc53e61": {
+   "fragment_id": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >POSIÇÃO NUMA TABELA>"
+  },
+  "febb04663176d99b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01996L0060 — PT — 01.03.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996L0060) [DIRECTIVA 96/60/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31996L0060) [de 19 de Setembro de 1996](http://publications.europa.eu/resource/celex/31996L0060) [relativa à aplicação da Directiva 92/75/CEE do Conselho à etiquetagem energética das máquinas combinadas de lavar e secar roupa para uso doméstico](http://publications.europa.eu/resource/celex/31996L0060) (JO L 266, 18.10.1996, p.1)\n\n**Revogada por:**\n\n- [Regulamento Delegado (UE) 2019/2014 da Comissão de 11 de março de 2019](http://publications.europa.eu/resource/celex/32019R2014) — L 315 — 29 — 5.12.2019"
+  }
+ }
+}

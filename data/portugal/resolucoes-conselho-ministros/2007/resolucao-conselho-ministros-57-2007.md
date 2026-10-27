@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:519383:por
+title: Resolução do Conselho de Ministros n.º 57/2007
+short_title: null
+summary: Aprova as minutas do contrato de investimento e respectivos anexos, a celebrar pelo Estado Português, a Roca Sanitário,
+  S. A., a Roca Cerâmica e Comércio, S. A., e a BLB - Indústrias Metalúrgicas, S. A., que tem por objecto a expansão e modernização
+  da unidade industrial desta última sociedade, localizada em Águeda
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 57/2007
+official_date: null
+publication_date: '2007-04-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/2007, Série I de 2007-04-20
+  number: '78'
+  series: I
+  supplement: null
+  pages: 2497 - 2497
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/07800/24972497.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/57/2007/04/20/p/dre/pt/html
+  oj: null
+  dre: '519383'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/57-2007-519383
+  internal: pt:dre:519383:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-2007-519383
+  metadata_url: https://data.dre.pt/eli/resolconsmin/57/2007/04/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-2007-519383
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:12:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5bc5831c6c931e6810d51ee7c5e40c6d7cc59372fbc5437999859e5bfbef402c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:12:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Águeda
+- Benefícios Fiscais
+- Contrato de Investimento
+- Indústria da Cerâmica
+- Indústria Metalúrgica
+- IRC
+relationships:
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:12:19Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 57/2007
+
+A BLB - Indústrias Metalúrgicas, S. A., é uma empresa do Grupo Roca, constituída em 1992 e localizada em Águeda, que centra a sua actividade na produção de banheiras em chapa de aço esmaltado e bases para chuveiro, sendo actualmente o único produtor nacional deste sector.
+
+A BLB - Indústrias Metalúrgicas, S. A., decidiu realizar um projecto de investimento destinado à expansão e modernização da sua unidade industrial, através quer da racionalização e inovação tecnológica quer do aumento da produção, da melhoria da qualidade e da diversificação dos seus produtos. O projecto visa o desenvolvimento de um processo inovador de esmaltagem, com ganhos ambientais na redução de lamas e na quantidade de esmalte recuperado, cuja utilização será disseminada por outras unidades do Grupo.
+
+O projecto de investimento em causa contribuirá para o reforço da competitividade da empresa, posicionando-a no terceiro lugar como produtor europeu, bem como para o aumento significativo do valor de vendas e para a possibilidade de duplicação de exportações, destacando-se como principais mercados a Espanha, a Argentina e o Chile.
+
+O investimento ronda um valor global de 8,4 milhões de euros, estando prevista a criação de 61 postos de trabalho e a manutenção dos actuais, bem como o alcance de valores de vendas, acumulados desde 2005, de 125,2 milhões de euros em 2008 e de 313,7 milhões de euros em 2013, ano do termo da vigência do contrato, cuja minuta é aprovada pela presente resolução do Conselho de Ministros.
+
+Deste modo, considera-se que este projecto, pelo seu mérito, demonstra especial interesse para a economia nacional e reúne as condições necessárias à admissão ao regime contratual e à concessão de incentivos financeiros e fiscais previstos para grandes projectos de investimento.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar as minutas do contrato de investimento e respectivos anexos, a celebrar pelo Estado Português, representado pela Agência Portuguesa para o Investimento, E. P. E., a Roca Sanitário, S. A., a Roca Cerâmica e Comércio, S. A., e a BLB - Indústrias Metalúrgicas, S. A., que tem por objecto a expansão e modernização da unidade industrial desta última sociedade, localizada em Águeda.
+
+2 - Conceder os benefícios fiscais em sede de IRC que constam do contrato de investimento e do contrato de concessão de benefícios fiscais, sob proposta do Ministro de Estado e das Finanças, atento o disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na redacção que lhe foi dada pelo [Decreto-Lei n.º 198/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), de 3 de Julho, e pelas Leis n.os [85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), de 4 de Agosto, [109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), de 27 de Dezembro, [32-B/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), de 30 de Dezembro, [55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), de 30 de Dezembro, [60-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), de 30 de Dezembro, e [53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro, e no [Decreto-Lei n.º 409/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1999-667137), de 15 de Outubro, sendo, em sede de IRC, atribuída pelo Conselho de Ministros a majoração de relevância excepcional do projecto para a economia nacional, na percentagem de 1%.
+
+3 - Determinar que o original do contrato referido no n.º 1 fique arquivado na Agência Portuguesa para o Investimento, E. P. E.
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 29 de Março de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

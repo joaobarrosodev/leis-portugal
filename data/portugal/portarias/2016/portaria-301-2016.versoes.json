@@ -1,0 +1,965 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105283926:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-203413404",
+ "dre_path": "/dr/detalhe/portaria/301-2016-105283926",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-11-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "203450675",
+    "203450676",
+    "203450677",
+    "203450678",
+    "203450679",
+    "203450681",
+    "203450682",
+    "203450683",
+    "203450684",
+    "203450685",
+    "203450686",
+    "203450687",
+    "203450688",
+    "203450689",
+    "203450690",
+    "203450691",
+    "203450692",
+    "203450693",
+    "203450694",
+    "203450695",
+    "203450696",
+    "203450697",
+    "203450698",
+    "203450699",
+    "203450700",
+    "203450701",
+    "203450702",
+    "203450703",
+    "203450704",
+    "203450705",
+    "203450706",
+    "203450707",
+    "203450708",
+    "203450709",
+    "203450710",
+    "203450711",
+    "203450712",
+    "203450713",
+    "203450714",
+    "203450715",
+    "203450716",
+    "203450717",
+    "203450718",
+    "203450719",
+    "203450720",
+    "203450721",
+    "203450722",
+    "203450723",
+    "203450724",
+    "203450725",
+    "203450726",
+    "203450727",
+    "203450728",
+    "203450729",
+    "203450730",
+    "203450731",
+    "203450732",
+    "203450733",
+    "203450734",
+    "203450735",
+    "203450736",
+    "203450737",
+    "203450738",
+    "203450739"
+   ]
+  },
+  {
+   "date": "2022-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:203338167:por",
+     "title": "Portaria n.º 275/2022",
+     "published": "2022-11-14",
+     "dre_path": "/dr/detalhe/portaria/275-2022-203338167"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 43.º",
+    "Altera Anexo A",
+    "Altera Anexo B",
+    "Altera Anexo C"
+   ],
+   "fragments": [
+    "203450675",
+    "203450676",
+    "203450677",
+    "203450678",
+    "203450679",
+    "203450680",
+    "203450681",
+    "203450682",
+    "203450683",
+    "203450684",
+    "203450685",
+    "203450686",
+    "203450687",
+    "203451113",
+    "203450689",
+    "203451114",
+    "203451115",
+    "203450692",
+    "203450693",
+    "203450694",
+    "203451116",
+    "203450696",
+    "203450697",
+    "203450698",
+    "203451117",
+    "203451118",
+    "203450701",
+    "203451119",
+    "203451120",
+    "203451121",
+    "203451109",
+    "203451122",
+    "203451111",
+    "203451112",
+    "203450708",
+    "203450709",
+    "203450710",
+    "203450711",
+    "203450712",
+    "203451123",
+    "203450714",
+    "203450715",
+    "203450716",
+    "203451124",
+    "203450718",
+    "203450719",
+    "203450720",
+    "203450721",
+    "203450722",
+    "203451125",
+    "203451126",
+    "203451127",
+    "203451128",
+    "203451129",
+    "203450728",
+    "203451130",
+    "203451131",
+    "203450731",
+    "203450732",
+    "203450733",
+    "203450734",
+    "203451132",
+    "203450736",
+    "203451133",
+    "203451134",
+    "203451135"
+   ]
+  }
+ ],
+ "fragments": {
+  "203450675": {
+   "fragment_id": "203413405",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 301/2016\n\nde 30 de novembro\n\nO Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, estabelece que a avaliação do militar na efetividade de serviço visa apreciar o mérito do militar, assegurando o desenvolvimento na carreira respetiva, fundamentado na demonstração da capacidade militar e da competência técnica para o exercício de funções para as quais é exigível um nível de responsabilidade especialmente elevado.\n\nNecessariamente, a avaliação dos militares das Forças Armadas deverá ser efetuada com base em critérios objetivos relativamente ao exercício de todas as suas atividades e funções.\n\nPor força do n.º 5 do artigo 81.º do EMFAR, as instruções para a execução do Sistema de Avaliação do Mérito dos Militares das Forças Armadas (SAMMFA) são reguladas por portaria do membro do Governo responsável pela área da defesa nacional, sob proposta do Conselho de Chefes de Estado-Maior.\n\nAssim:\n\nAo abrigo do n.º 5 do artigo 81.º do EMFAR, aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, manda o Governo, pelo Ministro da Defesa Nacional, sob proposta do Conselho de Chefes de Estado-Maior, o seguinte:"
+  },
+  "203450676": {
+   "fragment_id": "203413406",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento da Avaliação do Mérito dos Militares das Forças Armadas (RAMMFA), em anexo à presente portaria, da qual faz parte integrante."
+  },
+  "203450677": {
+   "fragment_id": "203413407",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições complementares\n\n1 - Até à entrada em vigor da presente portaria, deve ser implementado um sistema de informação de suporte do Sistema de Avaliação do Mérito dos Militares das Forças Armadas, que assegure a adequada reserva e sigilo no processamento da informação, o histórico dos atuais sistemas de avaliação, bem como os requisitos do RAMMFA.\n\n2 - Sempre que nos períodos em apreciação seja necessário considerar Fichas e Impressos de Avaliação Individual anteriores à entrada em vigor do RAMMFA, é considerada a respetiva classificação, transformada numa escala de 0 a 20 valores.\n\n3 - Sempre que seja necessário estabelecer a correspondência do aproveitamento em cursos ou estágios de promoção que não sejam traduzidos na escala de 10 a 20 valores, a mesma é feita da seguinte forma:\n\na) Distinto ou Muito Bom - 18 valores;\n\nb) Bom - 16 valores;\n\nc) Regular ou Aprovado - 14 valores;\n\nd) Suficiente - 12 valores.\n\n4 - Sempre que seja necessário quantificar aspetos constantes nos processos individuais dos militares não previstos nas alíneas do número anterior, os mesmos são definidos por despacho do Chefe do Estado-Maior do respetivo ramo."
+  },
+  "203450678": {
+   "fragment_id": "203413408",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSem prejuízo dos efeitos produzidos, são revogados os seguintes diplomas:\n\na) Portaria n.º 21/1994, de 8 de janeiro;\n\nb) Portaria n.º 502/1995, de 26 de maio, alterada pela Portaria n.º 1380/2002, de 23 de outubro;\n\nc) Portaria n.º 1246/2002, de 7 de setembro, com a exceção do artigo 20.º;\n\nd) Portaria n.º 976/2004, de 3 de agosto."
+  },
+  "203450679": {
+   "fragment_id": "203413409",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2018 e deve ser revista no prazo máximo de três anos contados a partir dessa data."
+  },
+  "203450681": {
+   "fragment_id": "203413411",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DA AVALIAÇÃO DO MÉRITO DOS MILITARES DAS FORÇAS ARMADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DA AVALIAÇÃO DO MÉRITO DOS MILITARES DAS FORÇAS ARMADAS\n\n(a que se refere o artigo 1.º)"
+  },
+  "203450682": {
+   "fragment_id": "203413412",
+   "type": 1,
+   "heading": "Capítulo I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições Gerais"
+  },
+  "203450683": {
+   "fragment_id": "203413413",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO Regulamento da Avaliação do Mérito dos Militares das Forças Armadas (RAMMFA) define o Sistema de Avaliação do Mérito dos Militares das Forças Armadas (SAMMFA) e estabelece as instruções para a sua execução."
+  },
+  "203450684": {
+   "fragment_id": "203413414",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO RAMMFA aplica-se a todos os militares das Forças Armadas na efetividade de serviço, independentemente da forma de prestação de serviço, com exceção de:\n\na) Almirantes ou generais e vice-almirantes ou tenentes-generais;\n\nb) Contra-almirantes ou majores-generais dos quadros especiais em que estes postos sejam os mais elevados."
+  },
+  "203450685": {
+   "fragment_id": "203413415",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de Avaliação do Mérito dos Militares das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de Avaliação do Mérito dos Militares das Forças Armadas"
+  },
+  "203450686": {
+   "fragment_id": "203413416",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceito\n\nO SAMMFA integra o conjunto dos avaliadores e avaliados, os órgãos intervenientes, as bases e o sistema de informação."
+  },
+  "203450687": {
+   "fragment_id": "203413417",
+   "type": 11,
+   "heading": "Artigo 4.º — Mérito do militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mérito do militar\n\nO mérito do militar é o nível atingido pelo militar no desempenho de cargos e no exercício de todas as suas atividades e funções, decorrente:\n\na) Da demonstração de competências;\n\nb) Do grau do potencial estimado para enfrentar níveis crescentes de responsabilidades;\n\nc) Dos resultados obtidos nos ciclos de estudos e cursos, tirocínios e estágios;\n\nd) Das eventuais medidas disciplinares e penais que lhe sejam aplicadas;\n\ne) De outros elementos de informação constantes no currículo;\n\nf) Da sua antiguidade no posto."
+  },
+  "203450688": {
+   "fragment_id": "203413418",
+   "type": 11,
+   "heading": "Artigo 5.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Finalidade\n\n1 - O SAMMFA tem por finalidade determinar o mérito do militar, tendo em vista uma correta gestão dos recursos humanos nos ramos das Forças Armadas, designadamente quanto a:\n\na) Recrutamento e seleção;\n\nb) Formação e aperfeiçoamento;\n\nc) Promoção;\n\nd) Progressão horizontal;\n\ne) Desempenho de cargos e exercício de funções.\n\n2 - O SAMMFA visa ainda:\n\na) Compatibilizar as competências do avaliado com os interesses e as necessidades da instituição militar, tendo em vista a crescente complexidade científica, técnica, operacional e organizacional;\n\nb) Contribuir para incentivar o cumprimento das missões e tarefas, bem como estimular o aperfeiçoamento técnico-militar;\n\nc) Atualizar e melhorar o conhecimento do potencial humano existente."
+  },
+  "203450689": {
+   "fragment_id": "203413419",
+   "type": 11,
+   "heading": "Artigo 6.º — Bases do SAMMFA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Bases do SAMMFA\n\n1 - Constituem bases do SAMMFA:\n\na) A avaliação individual (AI);\n\nb) A avaliação da formação (AF);\n\nc) A avaliação disciplinar (AD);\n\nd) A antiguidade no posto (AP);\n\ne) A avaliação complementar (AC).\n\n2 - A avaliação individual consiste na avaliação do desempenho evidenciado em cargos e funções.\n\n3 - A avaliação da formação consiste na apreciação dos resultados obtidos pelos militares, enquanto sujeitos a ciclos de estudos e cursos, tirocínios e estágios, respeitantes ao ensino e formação nas Forças Armadas.\n\n4 - A avaliação disciplinar consiste na apreciação dos louvores e das penas disciplinares e criminais aplicadas, no âmbito do Regulamento de Disciplina Militar e do Código de Justiça Militar.\n\n5 - A antiguidade no posto consiste na valoração do tempo de permanência no respetivo posto, determinada pela data fixada no documento oficial de promoção.\n\n6 - A avaliação complementar respeita à apreciação do militar feita com base no conjunto dos elementos do seu currículo e da avaliação do seu potencial."
+  },
+  "203450690": {
+   "fragment_id": "203413420",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentação do SAMMFA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Documentação do SAMMFA\n\nO SAMMFA tem como suporte os seguintes documentos:\n\na) Ficha de Avaliação (FAV), comum aos ramos, que regista, no período considerado, os dados do militar, quantificáveis e não quantificáveis, relativos à avaliação das competências e ao potencial do avaliado, e que consta do anexo A do presente regulamento, do qual faz parte integrante;\n\nb) Documento de registo do currículo do militar, que integra os dados do processo individual, no tocante às bases do SAMMFA, com exceção da avaliação individual;\n\nc) Ficha de Avaliação do Mérito (FAM), que integra as bases avaliação individual, avaliação da formação, avaliação disciplinar e antiguidade no posto, e que consta do anexo C do presente regulamento, do qual faz parte integrante."
+  },
+  "203450691": {
+   "fragment_id": "203413421",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso à documentação\n\n1 - A documentação relativa ao SAMMFA é tratada com a adequada reserva e sigilo no processamento da informação, sem prejuízo do conhecimento pelo avaliado do respetivo processo individual, da publicação de louvores, penas, resultados finais de cursos, concursos, provas, tirocínios, estágios ou outros elementos que devam ou possam ser do conhecimento geral.\n\n2 - Os únicos ficheiros e registos do SAMMFA são os existentes sob a responsabilidade dos órgãos de administração de pessoal dos ramos, não sendo autorizada outra forma de arquivo de informação do sistema por qualquer outro órgão, entidade ou pessoa.\n\n3 - Enquanto decorrer o processo de avaliação, o acesso às FAV, ficheiros e registos, independentemente do respetivo suporte, é restrito às entidades e pessoas intervenientes no processo do SAMMFA, na fase e em atividades cuja competência lhes está atribuída.\n\n4 - O acesso à documentação relativa ao SAMMFA subordina-se ao disposto no Código do Procedimento Administrativo e à legislação relativa ao acesso a documentos administrativos."
+  },
+  "203450692": {
+   "fragment_id": "203413422",
+   "type": 1,
+   "heading": "Capítulo III — Bases do Sistema de Avaliação do Mérito dos Militares das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Bases do Sistema de Avaliação do Mérito dos Militares das Forças Armadas"
+  },
+  "203450693": {
+   "fragment_id": "203413423",
+   "type": 8,
+   "heading": "Secção I — Avaliação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Avaliação individual"
+  },
+  "203450694": {
+   "fragment_id": "203413424",
+   "type": 11,
+   "heading": "Artigo 9.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Finalidade\n\nConstitui finalidade da avaliação individual:\n\na) Contribuir para o conhecimento do potencial humano dos militares das Forças Armadas;\n\nb) Fornecer aos ramos informação sobre o desempenho dos militares;\n\nc) Permitir e incentivar o constante desenvolvimento e aperfeiçoamento dos militares;\n\nd) Possibilitar a oportunidade de melhoria nos desempenhos abaixo do esperado;\n\ne) Apoiar os processos seletivos e de promoção;\n\nf) Promover o diálogo entre o avaliador e o avaliado."
+  },
+  "203450695": {
+   "fragment_id": "203413425",
+   "type": 11,
+   "heading": "Artigo 10.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios\n\nOs princípios da avaliação individual são os seguintes:\n\na) É obrigatória e contínua e constitui uma atribuição da hierarquia militar;\n\nb) Requer atenta observação dos militares a avaliar durante o período de tempo a que respeita, sendo independente de outras avaliações anteriores;\n\nc) O tempo mínimo de observação é de cento e vinte dias;\n\nd) É condicionada pela forma de prestação de serviço militar efetivo e pela categoria e posto;\n\ne) É sempre fundamentada e obrigatoriamente comunicada ao avaliado;\n\nf) A avaliação individual do militar que presta serviço fora da estrutura orgânica das Forças Armadas compete aos superiores hierárquicos de que depende, nos termos definidos neste regulamento;\n\ng) Nenhuma avaliação individual pode, por si só, determinar qualquer ato de administração de pessoal em matéria de promoções;\n\nh) As avaliações nitidamente divergentes, nos termos do artigo 87.º do EMFAR, são averiguadas por despacho do Chefe de Estado-Maior (CEM) do respetivo ramo."
+  },
+  "203450696": {
+   "fragment_id": "203413426",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios gerais\n\n1 - A avaliação individual incide sobre o desempenho do militar que se materializa através da apreciação de um conjunto de competências evidenciadas no desempenho de cargos e exercícios de funções.\n\n2 - As competências, consubstanciadas em descritores, são quantificadas em níveis, através da observação de indicadores."
+  },
+  "203450697": {
+   "fragment_id": "203413427",
+   "type": 11,
+   "heading": "Artigo 12.º — Objetividade da avaliação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Objetividade da avaliação individual\n\nA avaliação individual subordina-se a juízos de valor precisos e objetivos, de modo a evitar:\n\na) Influenciar a avaliação de um conjunto de competências, com base na impressão causada por uma em particular;\n\nb) Avaliar com excessiva benevolência, atribuindo um nível de desempenho acima do evidenciado;\n\nc) Avaliar com extremo rigor, atribuindo um nível de desempenho abaixo do evidenciado;\n\nd) Estabelecer ligações erradas entre competências, no pressuposto de que possuem uma correlação que conduz à atribuição da mesma classificação;\n\ne) Usar a perceção de si mesmo como padrão de referência para avaliação;\n\nf) Ter em consideração aspetos ou situações que extravasem o âmbito da FAV;\n\ng) Elaborar juízo não correspondente ao nível da competência avaliada;\n\nh) Atribuir níveis elevados e sentir pressão para o continuar a fazer."
+  },
+  "203450698": {
+   "fragment_id": "203413428",
+   "type": 11,
+   "heading": "Artigo 13.º — Tipos de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Tipos de avaliação\n\n1 - A avaliação individual dos militares pode ser:\n\na) Periódica;\n\nb) Extraordinária.\n\n2 - A avaliação periódica não deve exceder o período de um ano.\n\n3 - A avaliação extraordinária é a que se verifica fora das datas a que dizem respeito as avaliações periódicas."
+  },
+  "203450699": {
+   "fragment_id": "203413429",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliação periódica\n\n1 - Estão sujeitos a avaliação periódica todos os militares na efetividade de serviço, com a exceção referida no artigo 2.º\n\n2 - Os militares que desempenhem cargos ou exerçam funções em regime de acumulação, nos termos previstos na lei, por mais de cento e oitenta dias, na estrutura orgânica ou fora dela, são avaliados nos mesmos termos da avaliação periódica pelo comandante, diretor ou chefe ao qual estão diretamente subordinados nesse cargo ou função, devendo a situação de acumulação ser expressamente mencionada na FAV.\n\n3 - Não estão sujeitos a avaliação periódica os militares que se encontrem nas situações de:\n\na) Licença para estudos;\n\nb) Licença ilimitada;\n\nc) Inatividade temporária;\n\nd) Frequência de cursos de promoção;\n\ne) Licença especial para exercício de capacidade eleitoral passiva.\n\n4 - O período a que se refere a avaliação periódica reporta-se, em termos de tempo de observação do avaliador sobre o avaliado, a um período mínimo de cento e vinte dias.\n\n5 - As datas a que dizem respeito as avaliações periódicas, são as constantes do seguinte quadro:\n\n(ver documento original)"
+  },
+  "203450700": {
+   "fragment_id": "203413430",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação extraordinária\n\n1 - A avaliação extraordinária é elaborada sempre que:\n\na) Seja determinada pelo Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) ou pelo CEM do respetivo ramo;\n\nb) Qualquer dos avaliadores considere justificado e oportuno proceder a uma reavaliação;\n\nc) O militar termine o exercício de funções ou a execução de tarefas, com a duração mínima de cento e oitenta dias, em unidade, estabelecimento ou órgão diferente daquele em que está colocado, desde que estas não decorram da frequência de cursos ou estágios;\n\nd) O militar não possa ser sujeito a avaliação periódica e não tenha qualquer avaliação nesse ano;\n\ne) Em caso de licença planeada, de duração previsível superior a cento e oitenta dias, ligada ao regime de parentalidade.\n\n2 - A avaliação extraordinária é ainda elaborada, desde que tenha decorrido um período igual ou superior a cento e oitenta dias após a última avaliação, quando:\n\na) Se verifique a transferência do avaliado;\n\nb) O avaliado transite para uma das situações previstas no n.º 3 do artigo anterior;\n\nc) O militar do Quadro Permanente (QP) passe à situação de reserva e deixe a efetividade de serviço;\n\nd) O militar do QP, na situação de reserva, deixe a efetividade de serviço ou requeira a continuação na mesma.\n\n3 - Para o militar em regime de voluntariado e em regime de contrato, nas suas várias modalidades, desde que decorridos cento e oitenta dias sobre a última avaliação individual, tem lugar uma avaliação extraordinária nas seguintes situações:\n\na) Para promoção;\n\nb) Para renovação de contrato;\n\nc) Quando requeiram a admissão noutra forma de prestação de serviço;\n\nd) Termine a prestação de serviço."
+  },
+  "203450701": {
+   "fragment_id": "203413431",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliadores\n\n1 - Na avaliação individual dos militares das Forças Armadas intervêm, em regra, um primeiro e um segundo avaliadores e, nos termos previstos neste regulamento, o comandante, diretor ou chefe da unidade, estabelecimento ou órgão de colocação do avaliado.\n\n2 - Os avaliadores devem munir-se de todos os elementos objetivos que permitam formular uma apreciação justa sobre o avaliado, sendo da sua exclusiva responsabilidade as avaliações que venham a efetuar.\n\n3 - Na estrutura orgânica das Forças Armadas, os avaliadores dos militares dos QP são obrigatoriamente militares dos QP.\n\n4 - O último interveniente no processo de avaliação ou, por sua delegação, um dos avaliadores, deve dar conhecimento ao avaliado do resultado da avaliação e prestar os esclarecimentos julgados convenientes no sentido de contribuir para o estímulo, orientação e valorização do avaliado, bem como para a melhoria do serviço e da ligação entre comandantes e subordinados.\n\n5 - A avaliação individual dos militares em cargos na dependência do CEMGFA é da responsabilidade do seu superior hierárquico nacional, definido pelo CEMGFA.\n\n6 - Os avaliadores dos militares que prestam serviço fora da estrutura orgânica das Forças Armadas, sem prejuízo do disposto no n.º 3 do artigo 82.º do EMFAR, são definidos por despacho do CEMGFA ou do CEM do respetivo ramo."
+  },
+  "203450702": {
+   "fragment_id": "203413432",
+   "type": 11,
+   "heading": "Artigo 17.º — Primeiro avaliador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Primeiro avaliador\n\n1 - A determinação do primeiro avaliador baseia-se no princípio da subordinação direta do avaliado, devendo o seu escalão ser tão baixo quanto compatível com funções de comando, direção e chefia, sendo o seu posto e condições definidas na tabela seguinte:\n\n(ver documento original)\n\n2 - Nos casos em que não é possível respeitar o disposto no número anterior, o primeiro avaliador é designado pelo comandante, diretor ou chefe da respetiva unidade, estabelecimento ou órgão.\n\n3 - Compete ao primeiro avaliador:\n\na) Promover, sempre que possível, com o avaliado:\n\ni) Reunião inicial, com a vista a realçar os critérios utilizados na avaliação;\n\nii) Reuniões de acompanhamento, com vista a comunicar o nível do desempenho e incentivar o seu desenvolvimento e aperfeiçoamento;\n\nb) Preencher, obrigatoriamente, todos os campos da FAV de que é responsável, de acordo com as instruções nela constantes e o disposto neste regulamento, e elaborar um juízo ampliativo objetivo de modo a fundamentar a avaliação atribuída;\n\nc) Indicar as funções militares que considera mais adequadas às aptidões identificadas no avaliado;\n\nd) Emitir parecer sobre o potencial do avaliado, a ser considerado na avaliação complementar;\n\ne) Emitir parecer sobre a permanência do avaliado na unidade, estabelecimento ou órgão, a ser considerado na avaliação complementar;\n\nf) Fundamentar, obrigatória e objetivamente, a apreciação das competências que originaram uma avaliação desfavorável, bem como a atribuição de qualquer nível 5."
+  },
+  "203450703": {
+   "fragment_id": "203413433",
+   "type": 11,
+   "heading": "Artigo 18.º — Segundo avaliador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Segundo avaliador\n\n1 - O segundo avaliador é o militar de quem depende hierárquica ou funcionalmente o primeiro avaliador, tendo em regra, no mínimo, o posto de capitão-tenente ou major.\n\n2 - Não há segundo avaliador quando o primeiro avaliador:\n\na) For oficial general;\n\nb) Estiver diretamente subordinado ao CEMGFA ou ao CEM do ramo;\n\nc) Estiver diretamente subordinado a vice-almirante (VALM)/tenente-general (TGEN) e tal for definido pelo CEMGFA ou pelo CEM do respetivo ramo;\n\nd) For titular de cargo situado no topo da hierarquia funcional de uma entidade não inserida na estrutura das Forças Armadas.\n\n3 - Compete ao segundo avaliador:\n\na) Emitir um parecer respeitante ao potencial do avaliado e indicar a sua posição relativa entre os militares do mesmo posto que evidenciaram potencial acima dos pares, a ser considerado na avaliação complementar;\n\nb) Pronunciar-se sobre a forma como o primeiro avaliador apreciou os avaliados do mesmo posto, considerados no seu conjunto;\n\nc) Pronunciar-se quanto ao modo como o primeiro avaliador apreciou o avaliado."
+  },
+  "203450704": {
+   "fragment_id": "203413434",
+   "type": 11,
+   "heading": "Artigo 19.º — Comandante, diretor ou chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comandante, diretor ou chefe\n\nAo comandante, diretor ou chefe da unidade, estabelecimento ou órgão, compete:\n\na) Promover com os avaliadores subordinados as reuniões tidas por convenientes para o estabelecimento de orientação que contribua para a desejada uniformização do processo da avaliação e para a consequente equidade desta;\n\nb) Homologar a avaliação dos militares seus subordinados que integram a estrutura orgânica que comandam, dirigem ou chefiam, exceto quando for avaliador."
+  },
+  "203450705": {
+   "fragment_id": "203413435",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - Na avaliação do desempenho apreciam-se as seguintes competências:\n\na) Adaptabilidade;\n\nb) Autodomínio;\n\nc) Comunicação;\n\nd) Cultura geral;\n\ne) Cultura militar;\n\nf) Decisão;\n\ng) Determinação e perseverança;\n\nh) Iniciativa;\n\ni) Julgamento;\n\nj) Liderança militar;\n\nk) Planeamento e organização;\n\nl) Relações humanas e cooperação;\n\nm) Sentido do dever e disciplina;\n\nn) Técnico-profissional;\n\no) Qualidade global do desempenho.\n\n2 - As competências são caracterizadas no anexo B do presente regulamento, do qual faz parte integrante, definindo-se, para cada uma, o respetivo descritor e indicadores, as quais são avaliadas nos níveis de classificação numa escala de 1 a 5.\n\n3 - Para os grumetes e soldados não se apreciam as competências referidas nas alíneas d), f), i), j) e k) do n.º 1.\n\n4 - As competências têm a ponderação correspondente aos seguintes coeficientes:\n\na) Coeficiente dois (2) as inerentes à especificidade militar: Decisão; Determinação e perseverança; Julgamento; Liderança militar; Sentido do dever e disciplina; Cultura Militar;\n\nb) Coeficiente um (1) as que, para além das constantes na alínea anterior, são consideradas essenciais para o cumprimento das missões ou tarefas, bem como para a avaliação eclética dos militares: Adaptabilidade; Qualidade global do desempenho; Autodomínio; Iniciativa; Planeamento e organização; Técnico-profissional; Comunicação; Cultura Geral; Relações humanas e cooperação.\n\n5 - As competências a apreciar são as aplicáveis na tabela seguinte, considerando as funções militares definidas no artigo 34.º do EMFAR:\n\n(ver documento original)\n\n6 - Os militares em atividades de docência e de investigação, bem como os oficiais subalternos e capitães e os primeiros-sargentos a desempenhar cargos ou exercer funções militares de execução, nos termos do artigo 39.º do EMFAR, para além das competências constantes no quadro da alínea anterior, são também apreciadas as competências de Cultura Geral, Julgamento e Planeamento e Organização.\n\n7 - Se o avaliador não detiver elementos suficientes para formular um juízo de valor preciso e objetivo sobre o desempenho do avaliado relativamente às competências previstas, pode apreciá-las como «não observado», com caráter excecional, justificando obrigatoriamente essa opção."
+  },
+  "203450706": {
+   "fragment_id": "203413436",
+   "type": 11,
+   "heading": "Artigo 21.º — Níveis de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Níveis de classificação\n\nPara classificar as competências do avaliado, o avaliador dispõe de uma escala de graduação que comporta os seguintes níveis:\n\na) Muito Bom, a que corresponde o nível cinco, sendo atribuído quando o avaliado demonstra o cumprimento dos descritivos referentes a todos os indicadores em grau excecional;\n\nb) Bom, a que corresponde o nível quatro, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores, ultrapassando a maioria dos mesmos;\n\nc) Suficiente, a que corresponde o nível três, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores;\n\nd) Insuficiente, a que corresponde o nível dois, sendo atribuído quando o avaliado denota deficiências menores no cumprimento dos descritivos referentes aos indicadores, que podem ser corrigidas;\n\ne) Mau, a que corresponde o nível um, sendo atribuído quando o avaliado não atinge, de forma persistente, os descritivos referentes aos indicadores."
+  },
+  "203450707": {
+   "fragment_id": "203413437",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação individual desfavorável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação individual desfavorável\n\n1 - A avaliação periódica ou extraordinária é considerada desfavorável quando:\n\na) For atribuído o nível 1 a qualquer competência;\n\nb) Acumulem duas ou mais classificações do nível 2 no conjunto das competências.\n\n2 - A avaliação individual desfavorável tem relevância para a:\n\na) Nomeação para ações de formação com vista à melhoria do desempenho;\n\nb) Não satisfação das condições gerais de promoção constantes no EMFAR;\n\nc) Exclusão dos processos seletivos de nomeações e indigitações;\n\nd) Não transição para a progressão horizontal;\n\ne) Rescisão ou não renovação dos contratos dos militares nos diferentes regimes."
+  },
+  "203450708": {
+   "fragment_id": "203413438",
+   "type": 8,
+   "heading": "Secção II — Avaliação da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliação da formação"
+  },
+  "203450709": {
+   "fragment_id": "203413439",
+   "type": 11,
+   "heading": "Artigo 23.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Finalidade\n\nA avaliação da formação aprecia os resultados obtidos pelos militares, enquanto sujeitos a ciclos de estudos e cursos, tirocínios e estágios, respeitantes ao ensino e formação nas Forças Armadas, com a finalidade de contribuir para a determinação do mérito do militar."
+  },
+  "203450710": {
+   "fragment_id": "203413440",
+   "type": 11,
+   "heading": "Artigo 24.º — Critérios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Critérios gerais\n\n1 - A avaliação da formação é determinada, em regra, pela classificação obtida ou, na ausência desta, pela apreciação qualitativa de:\n\na) Cursos de formação inicial para ingresso nas diferentes formas de prestação de serviço, categorias e classes, armas e serviços ou especialidades;\n\nb) Cursos de promoção;\n\nc) Cursos de especialização, atualização, aperfeiçoamento e valorização que sejam definidos por despacho do CEM do ramo.\n\n2 - Dos cursos referidos no número anterior apenas são considerados os reportados à categoria a que o militar pertence."
+  },
+  "203450711": {
+   "fragment_id": "203413441",
+   "type": 8,
+   "heading": "Secção III — Avaliação disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Avaliação disciplinar"
+  },
+  "203450712": {
+   "fragment_id": "203413442",
+   "type": 11,
+   "heading": "Artigo 25.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Finalidade\n\nA avaliação disciplinar aprecia os louvores atribuídos e as penas disciplinares e criminais aplicadas, com a finalidade de contribuir para a determinação do mérito do militar."
+  },
+  "203450713": {
+   "fragment_id": "203413443",
+   "type": 11,
+   "heading": "Artigo 26.º — Critérios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Critérios gerais\n\n1 - Os louvores individuais são apreciados quanto às entidades que os concederam e à natureza das situações em que foram atribuídos.\n\n2 - As penas disciplinares e criminais são apreciadas quanto ao seu tipo e medida.\n\n3 - Para efeitos da avaliação disciplinar são considerados os elementos do registo disciplinar verificados no posto, ou no conjunto de postos em apreciação.\n\n4 - Não são considerados na avaliação quaisquer processos pendentes sobre os quais não tenha sido proferida decisão definitiva."
+  },
+  "203450714": {
+   "fragment_id": "203413444",
+   "type": 8,
+   "heading": "Secção IV — Avaliação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Avaliação complementar"
+  },
+  "203450715": {
+   "fragment_id": "203413445",
+   "type": 11,
+   "heading": "Artigo 27.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Finalidade\n\nA avaliação complementar aprecia o potencial do militar e o conjunto dos elementos do currículo, com a finalidade de contribuir para a determinação do mérito do militar."
+  },
+  "203450716": {
+   "fragment_id": "203413446",
+   "type": 11,
+   "heading": "Artigo 28.º — Critérios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Critérios gerais\n\nA avaliação complementar inclui a análise dos elementos constantes do processo individual do militar, designadamente:\n\na) A qualidade do desempenho dos cargos e funções do avaliado no atual e, no mínimo, no anterior posto;\n\nb) A natureza, as condições e as exigências peculiares dos cargos e funções exercidas no atual e, no mínimo, no posto anterior;\n\nc) A qualidade do desempenho de cargo de posto superior, quando tenha ocorrido;\n\nd) O elenco e conteúdo de funções e cargos desempenhados na estrutura orgânica e fora da estrutura orgânica das Forças Armadas;\n\ne) A participação em atividades operacionais designadamente, no âmbito das Forças Nacionais Destacadas (FND), em campanha, em situações de conflito ou de crise e em atividades de treino operacional e técnico;\n\nf) Outras qualificações e especializações militares e técnicas adquiridas;\n\ng) Os conhecimentos e qualificações obtidos em outros cursos ou ações de formação, por iniciativa do avaliado, desde que adequados e utilizados no desempenho de cargos e funções em benefício das Forças Armadas;\n\nh) Cursos de especialização, atualização, aperfeiçoamento e valorização, não contabilizados no âmbito da avaliação da formação;\n\ni) Recompensas e condecorações não consideradas no âmbito da avaliação disciplinar;\n\nj) Os elementos constantes da FAV, no que respeita aos juízos ampliativos dos avaliadores e à avaliação do potencial do avaliado;\n\nk) A opinião sobre a permanência do avaliado na unidade, estabelecimento ou órgão;\n\nl) Outras situações consideradas relevantes."
+  },
+  "203450717": {
+   "fragment_id": "203413447",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação do potencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Avaliação do potencial\n\n1 - A avaliação do potencial é um julgamento subjetivo que visa uma projeção do desempenho verificado durante o período avaliado, em futuras circunstâncias que encerrem níveis específicos de maior responsabilidade.\n\n2 - Nesta avaliação os avaliadores estimam:\n\na) O potencial do avaliado comparado com o potencial percecionado no universo dos outros militares do mesmo posto;\n\nb) A posição relativa do avaliado face ao conjunto dos militares do mesmo posto por si avaliados com potencial «acima dos pares»;\n\nc) As funções militares de exercício preferencial do avaliado.\n\n3 - Quando o militar não denotar o potencial adequado para assumir maior responsabilidade, essa avaliação tem relevância para os efeitos do disposto no n.º 2 do artigo 22.º"
+  },
+  "203450718": {
+   "fragment_id": "203413448",
+   "type": 8,
+   "heading": "Secção V — Antiguidade no posto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Antiguidade no posto"
+  },
+  "203450719": {
+   "fragment_id": "203413449",
+   "type": 11,
+   "heading": "Artigo 30.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Finalidade\n\nA antiguidade no posto valoriza o tempo de permanência no respetivo posto, com a finalidade de contribuir para a determinação do mérito do militar."
+  },
+  "203450720": {
+   "fragment_id": "203413450",
+   "type": 11,
+   "heading": "Artigo 31.º — Critério geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Critério geral\n\nA antiguidade no posto reporta-se ao tempo de serviço efetivo a partir da data de antiguidade no respetivo posto, contabilizado nos termos do EMFAR."
+  },
+  "203450721": {
+   "fragment_id": "203413451",
+   "type": 1,
+   "heading": "Capítulo IV — Integração das Bases do Sistema de Avaliação do Mérito dos Militares das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Integração das Bases do Sistema de Avaliação do Mérito dos Militares das Forças Armadas"
+  },
+  "203450722": {
+   "fragment_id": "203413452",
+   "type": 11,
+   "heading": "Artigo 32.º — Ponderação das bases",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Ponderação das bases\n\n1 - As bases avaliação individual, avaliação da formação, avaliação disciplinar e a antiguidade no posto são integradas através da atribuição de ponderações tendo em consideração o posto e as finalidades previstas no artigo 5.º, que totalizam 100 %, de acordo com a seguinte tabela:\n\n(ver documento original)\n\n2 - As percentagens das diferentes bases do sistema, referidas no número anterior, dependendo das finalidades previstas no artigo 5.º, podem, por despacho do respetivo CEM, ser aumentadas ou diminuídas em 5 %.\n\n3 - A contribuição da avaliação complementar na determinação do mérito do militar é efetuada através da adição, à média ponderada obtida nos termos do n.º 1, de um valor determinado nos termos do artigo 37.º"
+  },
+  "203450723": {
+   "fragment_id": "203413453",
+   "type": 11,
+   "heading": "Artigo 33.º — Metodologia e quantificação da avaliação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Metodologia e quantificação da avaliação individual\n\n1 - A quantificação da avaliação individual, relativa a um período anual, inclui os resultados das avaliações periódicas e extraordinárias nele verificados e obedece à seguinte metodologia:\n\na) O resultado da avaliação é registado na parte respetiva da FAV;\n\nb) As datas que dizem respeito às avaliações periódicas são as definidas no n.º 5 do artigo 14.º;\n\nc) Sempre que, no período a que se reporta a avaliação periódica, o militar for avaliado mais de uma vez, é considerada a média da parte quantificada das FAV respetivas, independentemente do tipo de avaliação;\n\nd) Anualmente, os resultados são harmonizados de acordo com a metodologia a definir por despacho do CEM do respetivo ramo.\n\n2 - A quantificação da base avaliação individual, relativa às finalidades do SAMMFA, obedece à seguinte metodologia:\n\na) Calcula-se a média ponderada dos períodos definidos, sendo o resultado convertido na escala de 0 a 20 valores, arredondado às centésimas;\n\nb) Para a promoção por escolha é considerada a média ponderada da avaliação individual relativa ao militar no posto, ou conjunto de postos referidos nos universos que se seguem:\n\n(ver documento original)\n\nc) Para efeitos do disposto na alínea anterior, são consideradas para a média as FAV do posto anterior que não tenham sido contabilizadas para a promoção ao posto atual;\n\nd) Quando o militar não tiver qualquer avaliação individual num determinado período anual, é atribuída a esse período a média da avaliação no posto, ou no posto anterior, no caso de a FAV ser a primeira nesse posto.\n\n3 - Para efeitos da alínea b) do número anterior, as avaliações individuais nos postos de primeiro-tenente ou capitão e primeiro-sargento são consideradas com coeficiente 2, enquanto as restantes têm coeficiente 1."
+  },
+  "203450724": {
+   "fragment_id": "203413454",
+   "type": 11,
+   "heading": "Artigo 34.º — Metodologia e quantificação da avaliação da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Metodologia e quantificação da avaliação da formação\n\n1 - Para o cálculo da média, na escala de 10 a 20 valores, arredondada às centésimas, são considerados:\n\na) Os cursos ou concursos de ingresso e de promoção na categoria, comuns às categorias dos militares, com os seguintes coeficientes:\n\n(ver documento original)\n\nb) Os cursos de promoção estatutários, não referidos na alínea anterior, são também considerados para o cálculo da média, sendo-lhes atribuído um coeficiente definido por despacho do CEM do respetivo ramo.\n\n2 - Podem ser considerados outros cursos por despacho do CEM do respetivo ramo, devendo neste constar a finalidade definida no n.º 1 do artigo 5.º a que se destina e o valor a adicionar à média ponderada obtida nos termos do número anterior.\n\n3 - Sempre que no universo em análise existam militares que não possuam classificação num ou mais cursos de ingresso ou de transição para categoria superior proceder-se-á, para cada um, da seguinte forma:\n\na) Com base na classificação obtida no curso, de coeficiente mais elevado nos termos do n.º 1, que tenha frequentado, determina-se o número de ordem que lhe corresponde, em mérito relativo no conjunto das classificações do referido curso, obtidas pelos militares incluídos no universo em apreciação;\n\nb) Utilizando o número de ordem determinado anteriormente, insere-se o militar na lista ordenada de classificações do curso não frequentado, por forma a ocupar o mesmo número de ordem, em mérito relativo, que se obteve para o curso frequentado referido no n.º 1;\n\nc) Atribui-se ao militar no curso ou estágio não frequentado a menor classificação que lhe possibilite ser considerado no número de ordem em que foi inserido;\n\nd) No caso de se verificar a existência de militares que não possuam classificação em nenhum dos cursos ou concursos em apreço, é considerada, para cada um deles, classificação igual à mais baixa verificada no universo em apreciação."
+  },
+  "203450725": {
+   "fragment_id": "203413455",
+   "type": 11,
+   "heading": "Artigo 35.º — Metodologia e quantificação da avaliação disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Metodologia e quantificação da avaliação disciplinar\n\n1 - São quantificados os louvores e as penas disciplinares e criminais averbadas no conjunto de postos dos universos definidos na alínea b) do n.º 2 do artigo 33.º\n\n2 - O registo disciplinar é quantificado em pontos, convertidos até às centésimas na escala de 0 a 20 valores, em que 10 significa que o militar nada tem averbado no registo disciplinar e são desprezados os valores abaixo de 0 e superiores a 20.\n\n3 - A pontuação obtida, convertida na correspondência de 1 ponto a 0,1 valores, é somada algebricamente à base de 10 valores, considerando valores positivos os dos louvores e negativos os das penas disciplinares e criminais.\n\n4 - A pontuação a atribuir aos louvores e às penas disciplinares e criminais é a seguinte:\n\n(ver documento original)"
+  },
+  "203450726": {
+   "fragment_id": "203413456",
+   "type": 11,
+   "heading": "Artigo 36.º — Metodologia e quantificação da antiguidade no posto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Metodologia e quantificação da antiguidade no posto\n\n1 - A antiguidade no posto consiste na quantificação do tempo de serviço efetivo no respetivo posto, contabilizado nos termos do EMFAR, a partir da data fixada no documento oficial de promoção e medida em dias.\n\n2 - Para a quantificação da antiguidade é atribuído a cada dia de serviço efetivo um valor de 0,005 valores, sendo a soma dos valores arredondada às centésimas e desprezando-se o que ultrapassar 20 valores."
+  },
+  "203450727": {
+   "fragment_id": "203413457",
+   "type": 11,
+   "heading": "Artigo 37.º — Metodologia e quantificação da avaliação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Metodologia e quantificação da avaliação complementar\n\n1 - Para efeitos de promoção por escolha, à classificação obtida de acordo com o n.º 2 do artigo 32.º pode ser adicionado um determinado valor, cujo máximo é definido por despacho do CEM do respetivo ramo, nunca superior a 1 valor, atribuído pelos conselhos de classes, das armas e dos serviços ou de especialidades, atentos os critérios gerais definidos no artigo 28.º\n\n2 - Para outras finalidades podem ser considerados outros elementos do currículo, em termos a definir por despacho do CEM do respetivo ramo."
+  },
+  "203450728": {
+   "fragment_id": "203413458",
+   "type": 1,
+   "heading": "Capítulo V — Registos e Documentação do SAMMFA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Registos e Documentação do SAMMFA"
+  },
+  "203450729": {
+   "fragment_id": "203413459",
+   "type": 11,
+   "heading": "Artigo 38.º — Ficha de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Ficha de avaliação\n\n1 - A FAV é o documento no qual são registados os juízos avaliativos produzidos no âmbito do processo de avaliação.\n\n2 - O modelo de FAV é aplicável a todos os ramos das Forças Armadas e é o constante no anexo A.\n\n3 - O resultado da FAV, no que respeita à avaliação individual, é determinado pela média ponderada dos níveis obtidos pelas competências, sendo expressa numa escala de 1 a 5 (aproximada às centésimas).\n\n4 - No caso de o primeiro avaliador não dispor de elementos de observação que lhe permitam avaliar uma dada competência, pode abster-se de o fazer, assinalando o facto na FAV pela designação de «Não Observado» e justificando-o.\n\n5 - A FAV, para efeitos da avaliação individual, só é considerada válida se forem avaliadas mais de metade das competências.\n\n6 - À FAV podem, sempre que necessário, ser adicionadas folhas para continuação dos comentários de qualquer avaliador.\n\n7 - O tratamento administrativo da FAV é estabelecido em despacho do CEM do respetivo ramo."
+  },
+  "203450730": {
+   "fragment_id": "203413460",
+   "type": 11,
+   "heading": "Artigo 39.º — Registo do currículo do militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Registo do currículo do militar\n\n1 - O modelo de registo do currículo é específico de cada ramo e aplicável a todos os postos.\n\n2 - O conteúdo do registo do currículo circunscreve-se à categoria a que o militar pertence.\n\n3 - O registo do currículo contém os dados do militar no tocante à identificação, antiguidade, colocações, cargos desempenhados, funções exercidas, condecorações, registo disciplinar, habilitações militares resultantes de cursos de formação, promoção, qualificação e especialização, habilitações civis e aptidão física.\n\n4 - O registo do currículo é obrigatoriamente elaborado para os militares dos QP na efetividade de serviço e, quando necessário, para os militares nas demais formas de prestação de serviço efetivo."
+  },
+  "203450731": {
+   "fragment_id": "203413461",
+   "type": 11,
+   "heading": "Artigo 40.º — Ficha de avaliação do mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Ficha de avaliação do mérito\n\n1 - A FAM, que consta do anexo C, resulta do tratamento dos dados quantificados constantes da avaliação individual, da avaliação da formação, da avaliação disciplinar e da antiguidade no posto, calculando-se a sua média com base nas ponderações referidas no artigo 32.º, expressa na escala de 0 a 20 valores, arredondado às centésimas.\n\n2 - Compete ao órgão de administração de pessoal elaborar, por quadro especial, uma lista dos militares a apreciar para promoção por escolha, de acordo com a metodologia a definir pelo CEM do respetivo ramo, que são enviadas aos conselhos de classes, das armas e dos serviços ou de especialidades.\n\n3 - Para efeitos da elaboração da lista referida no número anterior, são considerados os elementos constantes no currículo e publicados, em ordem de serviço, ordem do ramo ou Diário da República, até 31 de julho desse ano, com exceção da antiguidade que é contabilizada até 31 de dezembro desse mesmo ano.\n\n4 - Os registos relativos às bases quantificáveis devem ser disponibilizados para consulta dos militares que nesse ano são sujeitos a apreciação para a promoção por escolha, de forma que estes possam conferir e, se for caso disso, comunicar eventuais incorreções.\n\n5 - À média calculada de acordo com o n.º 1 pode ser adicionado o valor atribuído nos termos definidos no n.º 1 do artigo 37.º, constituindo a sua soma o mérito do militar."
+  },
+  "203450732": {
+   "fragment_id": "203413462",
+   "type": 1,
+   "heading": "Capítulo VI — Meios graciosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Meios graciosos"
+  },
+  "203450733": {
+   "fragment_id": "203413463",
+   "type": 11,
+   "heading": "Artigo 41.º — Reclamação e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Reclamação e recurso\n\nÉ assegurado ao avaliado o direito à reclamação e ao recurso hierárquico, sempre que discordar da avaliação individual atribuída."
+  },
+  "203450734": {
+   "fragment_id": "203413464",
+   "type": 11,
+   "heading": "Artigo 42.º — Reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Reclamação\n\n1 - A reclamação deve ser individual e dirigida por escrito, através das vias competentes, ao autor do ato, no prazo de 15 dias contados a partir do conhecimento oficial da avaliação produzida.\n\n2 - No caso de o autor do ato estar fora da efetividade de serviço no momento em que tiver de decidir, não há lugar a reclamação, mas apenas ao recurso hierárquico."
+  },
+  "203450735": {
+   "fragment_id": "203413465",
+   "type": 11,
+   "heading": "Artigo 43.º — Decisão sobre reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Decisão sobre reclamação\n\nO autor do ato tem o prazo de 15 dias para proferir a sua decisão, devendo para o efeito:\n\na) Analisar objetivamente a matéria constante da reclamação;\n\nb) Esclarecer quaisquer factos ou posições referenciadas na reclamação, designadamente, quando aplicável, ouvindo o primeiro avaliador;\n\nc) Considerar improcedente a reclamação e manter os níveis anteriormente conferidos ou atender à reclamação no todo ou em parte, alterando o nível e assinalando o novo nível com as suas iniciais, ou dando nova fundamentação;\n\nd) Dar conhecimento da sua avaliação ao avaliado."
+  },
+  "203450736": {
+   "fragment_id": "203413466",
+   "type": 11,
+   "heading": "Artigo 44.º — Recurso hierárquico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Recurso hierárquico\n\n1 - O recurso é necessário e deve ser interposto no prazo de 30 dias contados a partir da data do conhecimento oficial da avaliação produzida ou, tendo havido reclamação, da data da decisão, ou do decurso do prazo referido no artigo anterior sem que haja sido tomada uma decisão.\n\n2 - O recurso é dirigido ao mais elevado superior hierárquico do autor do ato recorrido, salvo se a competência para a decisão se encontrar delegada ou subdelegada, podendo o respetivo requerimento ser apresentado ao autor do ato ou à autoridade a quem seja dirigido.\n\n3 - O autor do ato recorrido providencia pela entrega ou remessa do recurso, bem como das peças que lhe deram origem, no prazo de cinco dias.\n\n4 - O recurso hierárquico deve ser decidido no prazo de 30 dias a contar da data em que o mesmo foi recebido pela entidade competente para dele tomar conhecimento.\n\n5 - Se o recurso hierárquico for indeferido, ou se no prazo referido no número anterior, não haja sido tomada decisão sobre o mesmo, o avaliado tem a possibilidade de impugnar contenciosamente o ato."
+  },
+  "203450737": {
+   "fragment_id": "203413467",
+   "type": 14,
+   "heading": "Anexo A — Ficha de Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A — Ficha de Avaliação\n\n[a que se refere a alínea a) do artigo 7.º]\n\n(ver documento original)\n\nInstruções de Preenchimento\n\n1 - A FAV pode ser escrita por meios informáticos ou manuscrita a tinta preta e as emendas ou rasuras ressalvadas.\n\n2 - Podem ser utilizadas no preenchimento da FAV as abreviaturas em uso nos ramos das Forças Armadas.\n\n3 - Todos os campos da FAV são de preenchimento obrigatório, salvo quando expressamente referido nestas instruções.\n\n4 - Todas as caixas devem ser completa e corretamente preenchidas, de acordo com o RAMMFA e estas instruções de preenchimento.\n\n5 - No cabeçalho, na linha identificada com «a)» deve ser indicado o ramo a que pertence o avaliado.\n\n6 - Caixa 1: identificação completa do avaliado e dos cargos/funções. Deve ser indicada a unidade e o estabelecimento, órgão ou serviço de colocação. Para cada um dos cargos desempenhados e funções exercidas deve ser indicado o período em apreciação e a função militar a que corresponde (comando, direção ou chefia, estado-maior, chefia técnica ou execução).\n\n7 - Caixa 2: identificação do tipo de avaliação, devendo ser indicado o período a que respeita. No caso de avaliação extraordinária deve ser assinalado o motivo.\n\n8 - Caixa 3: identificação dos avaliadores intervenientes no processo e do comandante, diretor ou chefe da unidade, estabelecimento ou órgão.\n\n9 - Caixa 4: destina-se ao controlo e verificação pela U/E/O de gestão do pessoal.\n\n10 - Caixa 5 (campos 5.1 a 5.15): preenchida pelos avaliadores intervenientes no processo da seguinte forma:\n\na) O primeiro avaliador, com base nos indicadores de cada competência, posiciona o avaliado numa escala de 1 a 5, assinalando com uma cruz (X) o campo correspondente e nos níveis de classificação;\n\nb) O campo «não observado» é assinalado quando o avaliado não demonstrou evidências que o permitam posicionar numa escala de 1 a 5 com base nos indicadores de cada competência.\n\nc) Para classificar as competências do avaliado, o avaliador dispõe de uma escala de graduação que comporta os seguintes níveis:\n\n(1) Muito Bom, a que corresponde o valor cinco, sendo atribuído quando o avaliado demonstra o cumprimento dos descritivos referentes a todos os indicadores em grau excecional;\n\n(2) Bom, a que corresponde o valor quatro, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores, ultrapassando a maioria dos mesmos;\n\n(3) Suficiente, a que corresponde o valor três, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores;\n\n(4) Insuficiente, a que corresponde o valor dois, sendo atribuído quando o avaliado denota deficiências menores no cumprimento dos descritivos referentes aos indicadores, que podem ser corrigidas;\n\n(5) Mau, a que corresponde o valor um, sendo atribuído quando o avaliado não atinge, de forma persistente, os descritivos referentes aos indicadores.\n\n11 - Caixa 6: preenchida pelos avaliadores intervenientes no processo da seguinte forma:\n\na) No campo 6.1 o avaliador deve comparar o avaliado com todo o universo de militares do mesmo posto que já tenha avaliado. A opção «não aplicável» é obrigatoriamente fundamentada;\n\nb) No campo 6.2 o avaliador deve ordenar os seus avaliados do mesmo posto que classificou como acima da média (X em Y). A opção «não aplicável» é obrigatoriamente fundamentada;\n\nc) No campo 6.3 deve indicar as funções militares que melhor se adequam ao avaliado. Podem ser assinaladas mais do que uma opção.\n\n12 - Caixa 7: Destina-se ao primeiro avaliador:\n\na) No campo 7.1 o avaliador expressa o seu parecer relativamente à permanência do avaliado;\n\nb) No campo 7.2 o avaliador identifica as necessidades formativas que poderão contribuir para a melhoria do desempenho do avaliado;\n\nc) No campo 7.3 é inscrita a média ponderada das observações efetuadas. A média encontrada é validada pelo órgão de gestão de pessoal do ramo, podendo ser retificada caso a mesma não se encontre correta;\n\nd) No campo 7.4 o avaliador fundamenta, obrigatória e objetivamente, a apreciação das competências que originaram uma avaliação desfavorável, bem como a atribuição de qualquer nível 5 em qualquer das competências. Fundamenta obrigatoriamente a indicação de «não aplicável» nos campos 6.1 e 6.2. Assinala o número de folhas anexas, se houver, escreve as suas iniciais, data e rubrica.\n\n13 - Caixa 8: Destina-se ao segundo avaliador:\n\na) No campo 8.1 o avaliador pronuncia-se quanto ao modo como o primeiro avaliador apreciou os avaliados do mesmo posto, considerados no seu conjunto;\n\nb) No campo 8.2 o avaliador pronuncia-se quanto ao modo como o primeiro avaliador apreciou o avaliado, sempre que tiver conhecimento deste, quando possuir opinião parcial ou globalmente divergente, fundamentando sumariamente as razões daquela divergência. Fundamenta obrigatoriamente a indicação de «não aplicável» nos campos 6.1 e 6.2. Assinala o número de folhas anexas, se houver, escreve as suas iniciais, data e rubrica.\n\n14 - Caixa 9: Destina-se ao comandante, diretor ou chefe:\n\nO campo 9.1 é de redação livre. Assinala o número de folhas anexas, se houver, escreve as suas iniciais, data e rubrica.\n\n15 - Caixa 10: Destina-se a ser utilizada pelo avaliado:\n\na) No campo 10.1, de preenchimento não obrigatório, o avaliado escreve a sua opinião sobre a orientação de carreira, datando e rubricando;\n\nb) O campo 10.2, o avaliado indica o número total de folhas anexas, rubrica e data, após tomar conhecimento integral da FAV."
+  },
+  "203450738": {
+   "fragment_id": "203413468",
+   "type": 14,
+   "heading": "Anexo B — Descrição das Competências e Avaliação do Potencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B — Descrição das Competências e Avaliação do Potencial\n\n(a que se refere o n.º 2 do artigo 20.º)\n\n1 - Caracterização das Competências\n\n(ver documento original)\n\n2 - Avaliação do Potencial\n\na) Potencial comparado com os militares no mesmo posto:\n\n1) Acima dos pares;\n\n2) Ao nível dos pares;\n\n3) Ao nível dos pares, carecendo de desenvolvimento em alguns aspetos;\n\n4) Não denota o potencial adequado para assumir maior responsabilidade.\n\nb) A posição relativa do avaliado face ao conjunto dos militares do mesmo posto por si avaliados com potencial «acima dos pares»;\n\nc) As funções militares de exercício preferencial do avaliado:\n\n1) Comando/Direção/Chefia;\n\n2) Estado-Maior;\n\n3) Chefia Técnica;\n\n4) Execução."
+  },
+  "203450739": {
+   "fragment_id": "203413469",
+   "type": 14,
+   "heading": "Anexo C — [a que se refere a alínea c) do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo C — [a que se refere a alínea c) do artigo 7.º]\n\n(ver documento original)"
+  },
+  "203450680": {
+   "fragment_id": "203413410",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Defesa Nacional, José Alberto de Azeredo Ferreira Lopes, em 23 de novembro de 2016."
+  },
+  "203451113": {
+   "fragment_id": "203413418",
+   "type": 11,
+   "heading": "Artigo 5.º — Finalidade",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 5.º — Finalidade\n\n1 - O SAMMFA tem por finalidade determinar o mérito do militar, tendo em vista uma correta gestão dos recursos humanos nos ramos das Forças Armadas, designadamente quanto a:\n\na) Recrutamento e seleção;\n\nb) Formação e aperfeiçoamento;\n\nc) Promoção;\n\nd) Progressão horizontal;\n\ne) Desempenho de cargos e exercício de funções.\n\nf) Renovação contratual.\n\n2 - O SAMMFA visa ainda:\n\na) Compatibilizar as competências do avaliado com os interesses e as necessidades da instituição militar, tendo em vista a crescente complexidade científica, técnica, operacional e organizacional;\n\nb) Contribuir para incentivar o cumprimento das missões e tarefas, bem como estimular o aperfeiçoamento técnico-militar;\n\nc) Atualizar e melhorar o conhecimento do potencial humano existente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451114": {
+   "fragment_id": "203413420",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentação do SAMMFA",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 7.º — Documentação do SAMMFA\n\n1 - O SAMMFA tem como suporte os seguintes documentos:\n\na) Ficha de Avaliação (FAV), comum aos ramos, que regista, no período considerado, os dados do militar, quantificáveis e não quantificáveis, relativos à avaliação das competências e ao potencial do avaliado, e que consta do anexo A do presente regulamento, do qual faz parte integrante;\n\nb) Documento de registo do currículo do militar, que integra os dados do processo individual, no tocante às bases do SAMMFA, com exceção da avaliação individual;\n\nc) Ficha de Avaliação do Mérito (FAM), que integra as bases avaliação individual, avaliação da formação, avaliação disciplinar e antiguidade no posto, e que consta do anexo C do presente regulamento, do qual faz parte integrante.\n\n2 - O documento mencionado na alínea b) do número anterior pode ser substituído pelo acesso a sistemas de informação onde constem os elementos indicados no n.º 3 do artigo 39.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451115": {
+   "fragment_id": "203413421",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à documentação",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso à documentação\n\n1 - A documentação relativa ao SAMMFA é tratada com a adequada reserva e sigilo no processamento da informação, sem prejuízo do conhecimento pelo avaliado do respetivo processo individual, da publicação de louvores, penas, resultados finais de cursos, concursos, provas, tirocínios, estágios ou outros elementos que devam ou possam ser do conhecimento geral.\n\n2 - Os únicos ficheiros e registos do SAMMFA são os existentes sob a responsabilidade dos órgãos de administração de pessoal dos ramos, não sendo autorizada outra forma de arquivo de informação do sistema por qualquer outro órgão, entidade ou pessoa.\n\n3 - Enquanto decorrer o processo de avaliação, o acesso às FAV, ficheiros e registos, independentemente do respetivo suporte, é restrito às entidades e pessoas intervenientes no processo do SAMMFA, na fase e em atividades cuja competência lhes está atribuída.\n\n4 - O acesso à documentação relativa ao SAMMFA, disponibilizada em suporte físico ou por via digital, subordina-se ao disposto no Código do Procedimento Administrativo e à legislação relativa ao acesso a documentos administrativos, conjugado com o regime legal de proteção de dados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451116": {
+   "fragment_id": "203413425",
+   "type": 11,
+   "heading": "Artigo 10.º — Princípios",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 10.º — Princípios\n\nOs princípios da avaliação individual são os seguintes:\n\na) É obrigatória e contínua e constitui uma prerrogativa da hierarquia militar;\n\nb) Requer atenta observação dos militares a avaliar durante o período de tempo a que respeita, sendo independente de outras avaliações anteriores;\n\nc) O tempo mínimo de observação é de 120 dias seguidos;\n\nd) É condicionada pela forma de prestação de serviço militar efetivo e pela categoria e posto;\n\ne) É sempre fundamentada e obrigatoriamente comunicada ao avaliado;\n\nf) A avaliação individual do militar que presta serviço fora da estrutura orgânica das Forças Armadas compete aos superiores hierárquicos de que depende, nos termos definidos neste regulamento;\n\ng) Nenhuma avaliação individual pode, por si só, determinar qualquer ato de administração de pessoal em matéria de promoções;\n\nh) As avaliações nitidamente divergentes, nos termos do artigo 87.º do EMFAR, são averiguadas por despacho do Chefe de Estado-Maior (CEM) do respetivo ramo.\n\ni) É elaborada e processada com recurso ao sistema de informação que a suporta, excetuando-se os casos em que tal se revele inviável e haja concordância por parte do órgão de administração de pessoal do ramo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451117": {
+   "fragment_id": "203413429",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliação periódica",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 14.º — Avaliação periódica\n\n1 - Estão sujeitos a avaliação periódica todos os militares na efetividade de serviço, com a exceção referida no artigo 2.º\n\n2 - Os militares que desempenhem cargos ou exerçam funções em regime de acumulação, nos termos previstos na lei, por mais de cento e oitenta dias, na estrutura orgânica ou fora dela, são avaliados nos mesmos termos da avaliação periódica pelo comandante, diretor ou chefe ao qual estão diretamente subordinados nesse cargo ou função, devendo a situação de acumulação ser expressamente mencionada na FAV.\n\n3 - Não estão sujeitos a avaliação periódica os militares que se encontrem nas situações de:\n\na) Licença para estudos;\n\nb) Inatividade temporária;\n\nc) Frequência de cursos de promoção;\n\nd) Frequência de curso que habilite ao ingresso nos quadros permanentes ou ao regime de contrato;\n\ne) Frequência de cursos e ciclos de estudos, com duração superior a um ano, definidos por despacho do Chefe de Estado-Maior do respetivo ramo.\n\n4 - O período a que se refere a avaliação periódica reporta-se, em termos de tempo de observação do avaliador sobre o avaliado, a um período mínimo de 120 dias seguidos.\n\n5 - As datas a que dizem respeito as avaliações periódicas são as constantes do seguinte quadro:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451118": {
+   "fragment_id": "203413430",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação extraordinária",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 15.º — Avaliação extraordinária\n\n1 - A avaliação extraordinária é elaborada sempre que:\n\na) Seja determinada pelo Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) ou pelo CEM do respetivo ramo;\n\nb) Qualquer dos avaliadores considere justificado e oportuno proceder a uma avaliação adicional;\n\nc) O militar termine o exercício de funções ou a execução de tarefas, com a duração mínima de cento e oitenta dias, em unidade, estabelecimento ou órgão diferente daquele em que está colocado, desde que estas não decorram da frequência de cursos ou estágios;\n\nd) O militar não possa ser sujeito a avaliação periódica e não tenha qualquer avaliação desde a data estabelecida para a última avaliação periódica;\n\ne) Em caso de licença planeada, de duração previsível superior a cento e oitenta dias, ligada ao regime de parentalidade.\n\n2 - A avaliação extraordinária é ainda elaborada, desde que tenha decorrido um período igual ou superior a cento e oitenta dias após a última avaliação, quando:\n\na) Se verifique a transferência do avaliado ou alteração do primeiro avaliador;\n\nb) O avaliado transite para uma das situações previstas no n.º 3 do artigo anterior;\n\nc) O avaliado ou o primeiro avaliador passe à situação da reserva e deixe a efetividade de serviço;\n\nd) O avaliado ou o primeiro avaliador, na situação de reserva, deixe a efetividade de serviço;\n\ne) O avaliado, na situação de reserva, requeira continuação na efetividade de serviço.\n\n3 - Para o militar em regime de voluntariado e em regime de contrato, nas suas várias modalidades, desde que decorridos cento e oitenta dias sobre a última avaliação individual, tem lugar uma avaliação extraordinária nas seguintes situações:\n\na) Para promoção;\n\nb) Para renovação de contrato;\n\nc) Quando requeiram a admissão noutra forma de prestação de serviço;\n\nd) Termine a prestação de serviço.\n\n4 - Não estão sujeitos a avaliação extraordinária os militares que se encontrem nas situações de:\n\na) Licença para estudos;\n\nb) Inatividade temporária;\n\nc) Frequência de cursos de promoção;\n\nd) Frequência de curso que habilita ao ingresso nos quadros permanentes ou ao regime de contrato;\n\ne) Frequência de cursos e ciclos de estudos, com duração superior a um ano, definidos por despacho do Chefe de Estado-Maior do respetivo ramo, com exceção das situações previstas na alínea a) do número seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451119": {
+   "fragment_id": "203413432",
+   "type": 11,
+   "heading": "Artigo 17.º — Primeiro avaliador",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 17.º — Primeiro avaliador\n\n1 - O primeiro avaliador determina-se com base no princípio da subordinação direta do avaliado, sendo o seu posto e condições os indicados na tabela seguinte:\n\n(ver documento original)\n\n2 - Nos casos em que não for exequível o cumprimento das condições definidas na tabela constante do número anterior, o primeiro avaliador é designado pelo comandante, diretor ou chefe da respetiva unidade, estabelecimento ou órgão.\n\n3 - Compete ao primeiro avaliador:\n\na) Promover, sempre que possível, com o avaliado:\n\ni) Reunião inicial, com a vista a realçar os critérios utilizados na avaliação;\n\nii) Reuniões de acompanhamento, com vista a comunicar o nível do desempenho e incentivar o seu desenvolvimento e aperfeiçoamento;\n\niii) Reunião no final do período de avaliação, tendo o avaliado a oportunidade de indicar as principais atividades desenvolvidas nesse período e a opinião sobre orientações de carreira.\n\nb) Preencher, obrigatoriamente, todos os campos da FAV de que é responsável, de acordo com as instruções nela constantes e o disposto neste regulamento, e elaborar um juízo ampliativo objetivo de modo a fundamentar a avaliação atribuída;\n\nc) Indicar as funções militares que considera mais adequadas às aptidões identificadas no avaliado;\n\nd) Emitir parecer sobre o potencial do avaliado, a ser considerado na avaliação complementar;\n\ne) Emitir parecer sobre a permanência do avaliado na unidade, estabelecimento ou órgão, a ser considerado na avaliação complementar;\n\nf) Fundamentar, obrigatória e objetivamente, a apreciação das competências que originaram uma avaliação desfavorável, bem como a atribuição de qualquer nível 5.\n\ng) Fundamentar, obrigatória e objetivamente, a seleção das opções da avaliação do potencial 'Não denota potencial adequado para assumir maior responsabilidade' ou 'Não aplicável'.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451120": {
+   "fragment_id": "203413433",
+   "type": 11,
+   "heading": "Artigo 18.º — Segundo avaliador",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 18.º — Segundo avaliador\n\n1 - O segundo avaliador é o militar de quem depende hierárquica ou funcionalmente o primeiro avaliador, tendo em regra, no mínimo, o posto de capitão-tenente ou major.\n\n2 - Não há segundo avaliador quando o primeiro avaliador:\n\na) For oficial general;\n\nb) Estiver diretamente subordinado ao CEMGFA ou ao CEM do ramo;\n\nc) Estiver diretamente subordinado a vice-almirante (VALM)/tenente-general (TGEN) e tal for definido pelo CEMGFA ou pelo CEM do respetivo ramo;\n\nd) For titular de cargo situado no topo da hierarquia funcional de uma entidade não inserida na estrutura das Forças Armadas.\n\n3 - Compete ao segundo avaliador:\n\na) Emitir um parecer respeitante ao potencial do avaliado comparado com o potencial percecionado no universo dos outros militares do mesmo posto, a ser considerado na avaliação complementar;\n\nb) Pronunciar-se quanto ao modo como o primeiro avaliador apreciou o avaliado, fundamentando quando considerar essa apreciação subavaliada ou sobreavaliada;\n\nc) Fundamentar, obrigatória e objetivamente, a seleção das opções da avaliação do potencial 'Não denota potencial adequado para assumir maior responsabilidade' ou 'Não aplicável'.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451121": {
+   "fragment_id": "203413434",
+   "type": 11,
+   "heading": "Artigo 19.º — Comandante, diretor ou chefe",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 19.º — Comandante, diretor ou chefe\n\n1 - Ao comandante, diretor ou chefe da unidade, estabelecimento ou órgão, compete:\n\na) Promover com os avaliadores subordinados as reuniões tidas por convenientes para o estabelecimento de orientação que contribua para a desejada uniformização do processo da avaliação e para a consequente equidade desta;\n\nb) Homologar a avaliação dos militares seus subordinados que integram a estrutura orgânica que comandam, dirigem ou chefiam, exceto quando for avaliador.\n\n2 - Por despacho do CEM do respetivo ramo, pode ser autorizada ao comandante, diretor ou chefe da unidade, estabelecimento ou órgão a delegação da competência referida na alínea b) do número anterior no seu inferior hierárquico imediato, adjunto ou substituto, nas situações em que este não é avaliador.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451109": {
+   "fragment_id": "203451043",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Homologação por oficial general",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 19.º-A — Homologação por oficial general\n\nNos casos em que um oficial general intervém como avaliador, nos termos definidos neste regulamento, compete-lhe homologar a avaliação individual.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451122": {
+   "fragment_id": "203413435",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - Na avaliação do desempenho apreciam-se as seguintes competências:\n\na) Adaptabilidade;\n\nb) Autodomínio;\n\nc) Comunicação;\n\nd) Cultura geral;\n\ne) Cultura militar;\n\nf) Decisão;\n\ng) Determinação e perseverança;\n\nh) Iniciativa;\n\ni) Julgamento;\n\nj) Liderança militar;\n\nk) Planeamento e organização;\n\nl) Relações humanas e cooperação;\n\nm) Sentido do dever e disciplina;\n\nn) Técnico-profissional;\n\no) Qualidade global do desempenho.\n\n2 - As competências são caracterizadas no anexo B do presente regulamento, do qual faz parte integrante, definindo-se, para cada uma, o respetivo descritor e indicadores, as quais são avaliadas nos níveis de classificação numa escala de 1 a 5.\n\n3 - Para os grumetes e soldados não se apreciam as competências referidas nas alíneas d), f), i), j) e k) do n.º 1.\n\n4 - As competências têm a ponderação correspondente aos seguintes coeficientes:\n\na) Coeficiente dois (2) as inerentes à especificidade militar: Decisão; Determinação e perseverança; Julgamento; Liderança militar; Sentido do dever e disciplina; Cultura Militar;\n\nb) Coeficiente um (1) as que, para além das constantes na alínea anterior, são consideradas essenciais para o cumprimento das missões ou tarefas, bem como para a avaliação eclética dos militares: Adaptabilidade; Qualidade global do desempenho; Autodomínio; Iniciativa; Planeamento e organização; Técnico-profissional; Comunicação; Cultura Geral; Relações humanas e cooperação.\n\n5 - Os militares a desempenhar cargos ou exercer funções militares de execução, nos termos do artigo 39.º do EMFAR, não são avaliados na competência liderança militar, exceto nas situações em que, por quadro orgânico, tenham subordinados na sua dependência.\n\n6 - Se o avaliador não detiver elementos suficientes para formular um juízo de valor preciso e objetivo sobre o desempenho do avaliado relativamente às competências previstas, pode apreciá-las como «não observado», com caráter excecional, justificando obrigatoriamente essa opção.\n\n7 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451111": {
+   "fragment_id": "203413436",
+   "type": 11,
+   "heading": "Artigo 21.º — Níveis de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Níveis de classificação\n\nPara classificar as competências do avaliado, o avaliador dispõe de uma escala de graduação que comporta os seguintes níveis:\n\na) Muito Bom, a que corresponde o nível cinco, sendo atribuído quando o avaliado demonstra o cumprimento dos descritivos referentes a todos os indicadores em grau excecional;\n\nb) Bom, a que corresponde o nível quatro, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores, ultrapassando a maioria dos mesmos;\n\nc) Suficiente, a que corresponde o nível três, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores;\n\nd) Insuficiente, a que corresponde o nível dois, sendo atribuído quando o avaliado denota deficiências menores no cumprimento dos descritivos referentes aos indicadores, que podem ser corrigidas;\n\ne) Mau, a que corresponde o nível um, sendo atribuído quando o avaliado não atinge, de forma persistente, os descritivos referentes aos indicadores."
+  },
+  "203451112": {
+   "fragment_id": "203413437",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação individual desfavorável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação individual desfavorável\n\n1 - A avaliação periódica ou extraordinária é considerada desfavorável quando:\n\na) For atribuído o nível 1 a qualquer competência;\n\nb) Acumulem duas ou mais classificações do nível 2 no conjunto das competências.\n\n2 - A avaliação individual desfavorável tem relevância para a:\n\na) Nomeação para ações de formação com vista à melhoria do desempenho;\n\nb) Não satisfação das condições gerais de promoção constantes no EMFAR;\n\nc) Exclusão dos processos seletivos de nomeações e indigitações;\n\nd) Não transição para a progressão horizontal;\n\ne) Rescisão ou não renovação dos contratos dos militares nos diferentes regimes."
+  },
+  "203451123": {
+   "fragment_id": "203413443",
+   "type": 11,
+   "heading": "Artigo 26.º — Critérios gerais",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 26.º — Critérios gerais\n\n1 - Os louvores individuais são apreciados quanto às entidades que os concederam e à natureza das situações em que foram atribuídos.\n\n2 - As penas disciplinares e criminais são apreciadas quanto ao seu tipo e medida.\n\n3 - Para efeitos da avaliação disciplinar, são considerados os elementos do registo disciplinar verificados no posto, ou no conjunto de postos em apreciação, e forma de prestação de serviço a que o militar pertence.\n\n4 - Não são considerados na avaliação quaisquer processos pendentes sobre os quais não tenha sido proferida decisão definitiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451124": {
+   "fragment_id": "203413447",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação do potencial",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 29.º — Avaliação do potencial\n\n1 - A avaliação do potencial é um julgamento subjetivo que visa uma projeção do desempenho verificado durante o período avaliado, em futuras circunstâncias que encerrem níveis específicos de maior responsabilidade.\n\n2 - Nesta avaliação os avaliadores estimam:\n\na) O potencial do avaliado comparado com o potencial percecionado no universo dos outros militares do mesmo posto;\n\nb) As funções militares de exercício preferencial do avaliado, considerando as definidas no EMFAR.\n\nc) [Revogada.]\n\n3 - Quando o militar não denotar o potencial adequado para assumir maior responsabilidade, essa avaliação pode ter relevância para os efeitos do disposto no n.º 2 do artigo 22.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451125": {
+   "fragment_id": "203413453",
+   "type": 11,
+   "heading": "Artigo 33.º — Metodologia e quantificação da avaliação individual",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 33.º — Metodologia e quantificação da avaliação individual\n\n1 - A quantificação da avaliação individual, relativa a um período anual, inclui os resultados das avaliações periódicas e extraordinárias nele verificados e obedece à seguinte metodologia:\n\na) O resultado da avaliação é registado na parte respetiva da FAV;\n\nb) As datas que dizem respeito às avaliações periódicas são as definidas no n.º 5 do artigo 14.º;\n\nc) Para efeitos de cálculo da avaliação individual da FAM, as datas a que dizem respeito as avaliações periódicas determinam o ano de referência para a FAM;\n\nd) Quando a data de fim das avaliações extraordinárias ultrapassa a data de referência para a avaliação periódica, essa avaliação é considerada para o ano de referência seguinte;\n\ne) Sempre que, no período a que se reporta a avaliação periódica, o militar for avaliado mais de uma vez, é considerada a média da parte quantificada das FAV respetivas, independentemente do tipo de avaliação;\n\nf) Anualmente, os resultados são harmonizados de acordo com a metodologia a definir por despacho do CEM do respetivo ramo.\n\n2 - A quantificação da base avaliação individual, relativa às finalidades do SAMMFA, obedece à seguinte metodologia:\n\na) Calcula-se a média ponderada dos períodos definidos, sendo o resultado convertido na escala de 0 a 20 valores, arredondado às centésimas;\n\nb) Para a promoção por escolha é considerada a média ponderada da avaliação individual relativa ao militar no posto, ou conjunto de postos referidos nos universos que se seguem:\n\n(ver documento original)\n\nc) Para efeitos do disposto na alínea anterior, são consideradas para a média as FAV do posto anterior que não tenham sido contabilizadas para a promoção ao posto atual, salvo disposição contrária definida por despacho do CEM do respetivo ramo;\n\nd) Quando o militar não tiver qualquer avaliação individual num determinado período anual, é atribuída a esse período a média das avaliações periódicas ou extraordinárias anteriormente atribuídas a esse militar nesse posto, ou no posto anterior, no caso de a FAV ser a primeira nesse posto.\n\n3 - Para efeitos da alínea b) do número anterior, quando exista mais que um posto a concorrer para a apreciação, as avaliações individuais no posto atual são consideradas com coeficiente 2, enquanto as restantes têm coeficiente 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451126": {
+   "fragment_id": "203413454",
+   "type": 11,
+   "heading": "Artigo 34.º — Metodologia e quantificação da avaliação da formação",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 34.º — Metodologia e quantificação da avaliação da formação\n\n1 - Para o cálculo da média, na escala de 10 a 20 valores, arredondada às centésimas, são considerados:\n\na) Os cursos ou concursos de ingresso e de promoção na categoria, comuns às categorias dos militares, com os seguintes coeficientes:\n\n(ver documento original)\n\nb) Os cursos de promoção estatutários, não referidos na alínea anterior, são também considerados para o cálculo da média, sendo-lhes atribuído um coeficiente definido por despacho do CEM do respetivo ramo.\n\n2 - Podem ser considerados outros cursos por despacho do CEM do respetivo ramo, devendo neste constar a finalidade definida no n.º 1 do artigo 5.º a que se destina e o valor a adicionar à média ponderada obtida nos termos do número anterior.\n\n3 - Sempre que no universo em análise existam militares que não possuam classificação num ou mais cursos de ingresso ou de transferência de quadro especial, ou de promoção na categoria proceder-se-á, para cada um, da seguinte forma:\n\na) Com base na classificação obtida no curso, de coeficiente mais elevado nos termos do n.º 1, que tenha frequentado, determina-se o número de ordem que lhe corresponde, em mérito relativo no conjunto das classificações do referido curso, obtidas pelos militares incluídos no universo em apreciação;\n\nb) Utilizando o número de ordem determinado anteriormente, insere-se o militar na lista ordenada de classificações do curso não frequentado, por forma a ocupar o mesmo número de ordem, em mérito relativo, que se obteve para o curso frequentado referido no n.º 1;\n\nc) Atribui-se ao militar no curso ou estágio não frequentado a menor classificação que lhe possibilite ser considerado no número de ordem em que foi inserido, salvo se o militar ocupar o último número de ordem desse universo, ao qual se atribui a melhor classificação, por forma a ocupar o mesmo número de ordem determinado na alínea a) do presente número;\n\nd) No caso de se verificar a existência de militares que não possuam classificação em nenhum dos cursos ou concursos em apreço, é considerada, para cada um deles, classificação igual à mais baixa verificada no universo em apreciação.\n\ne) No caso em que todos os militares do universo em apreciação não possuam classificação no curso, é considerada a nota de 10 valores para todos os militares no curso em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451127": {
+   "fragment_id": "203413455",
+   "type": 11,
+   "heading": "Artigo 35.º — Metodologia e quantificação da avaliação disciplinar",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 35.º — Metodologia e quantificação da avaliação disciplinar\n\n1 - São quantificados os louvores e as penas disciplinares e criminais averbadas no conjunto de postos dos universos definidos na alínea b) do n.º 2 do artigo 33.º\n\n2 - O registo disciplinar é quantificado em pontos, convertidos até às centésimas na escala de 0 a 20 valores, em que 10 significa que o militar nada tem averbado no registo disciplinar e são desprezados os valores abaixo de 0 e superiores a 20.\n\n3 - A pontuação obtida, convertida na correspondência de 1 ponto a 0,1 valores, é somada algebricamente à base de 10 valores, considerando valores positivos os dos louvores e negativos os das penas disciplinares e criminais.\n\n4 - A pontuação a atribuir aos louvores e às penas disciplinares e criminais é a seguinte:\n\n(ver documento original)\n\n5 - Para efeitos do disposto no n.º 1, são considerados os louvores e as penas disciplinares e criminais averbadas no posto anterior que não tenham sido contabilizados para a promoção ao posto atual, salvo disposição contrária definida por despacho do CEM do respetivo ramo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451128": {
+   "fragment_id": "203413456",
+   "type": 11,
+   "heading": "Artigo 36.º — Metodologia e quantificação da antiguidade no posto",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 36.º — Metodologia e quantificação da antiguidade no posto\n\n1 - A antiguidade no posto consiste na quantificação do tempo de serviço efetivo no respetivo posto, contabilizado nos termos do EMFAR, a partir da data fixada no documento oficial de promoção e medida em dias.\n\n2 - Para a quantificação da antiguidade é atribuído a cada dia de serviço efetivo um valor de 0,005 valores, sendo a soma dos valores arredondada às centésimas.\n\n3 - Para efeitos de promoção por escolha, ao valor apurado nos termos do número anterior é descontado o valor correspondente ao número de anos igual ao menor dos tempos mínimos no posto, estabelecido no EMFAR, dos militares em apreciação, desprezando-se valores superiores a 20.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451129": {
+   "fragment_id": "203413457",
+   "type": 11,
+   "heading": "Artigo 37.º — Metodologia e quantificação da avaliação complementar",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 37.º — Metodologia e quantificação da avaliação complementar\n\n1 - Para efeitos de promoção por escolha, à classificação obtida de acordo com o n.º 2 do artigo 32.º pode ser adicionado um determinado valor, cujo máximo e termos são definidos por despacho do CEM do respetivo ramo, nunca superior a 1 valor, a atribuir pelos conselhos de classes, das armas e dos serviços ou de especialidades, ou conselho equivalente, atentos os critérios gerais definidos no artigo 28.º\n\n2 - Para outras finalidades podem ser considerados outros elementos do currículo, em termos a definir por despacho do CEM do respetivo ramo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451130": {
+   "fragment_id": "203413459",
+   "type": 11,
+   "heading": "Artigo 38.º — Ficha de avaliação",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 38.º — Ficha de avaliação\n\n1 - A FAV é o documento no qual são registados os juízos avaliativos produzidos no âmbito do processo de avaliação.\n\n2 - O modelo de FAV é aplicável a todos os ramos das Forças Armadas e é o constante no anexo A.\n\n3 - O resultado da FAV, no que respeita à avaliação individual, é determinado pela média ponderada dos níveis obtidos pelas competências, sendo expressa numa escala de 1 a 5 (aproximada às centésimas).\n\n4 - No caso de o primeiro avaliador não dispor de elementos de observação que lhe permitam avaliar uma dada competência, pode abster-se de o fazer, assinalando o facto na FAV pela designação de «Não Observado» e justificando-o.\n\n5 - A FAV, para efeitos da quantificação da avaliação individual, só é considerada válida se forem avaliadas mais de metade das competências.\n\n6 - À FAV podem, sempre que necessário, ser adicionadas folhas para continuação dos comentários de qualquer avaliador.\n\n7 - O tratamento administrativo da FAV é estabelecido em despacho do CEM do respetivo ramo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451131": {
+   "fragment_id": "203413460",
+   "type": 11,
+   "heading": "Artigo 39.º — Registo do currículo do militar",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 39.º — Registo do currículo do militar\n\n1 - O modelo de registo do currículo é específico de cada ramo e aplicável a todos os postos.\n\n2 - O conteúdo do registo do currículo circunscreve-se à categoria e forma de prestação de serviço a que o militar pertence.\n\n3 - O registo do currículo contém os dados do militar no tocante à identificação, antiguidade, colocações, cargos desempenhados, funções exercidas, condecorações, registo disciplinar, habilitações militares resultantes de cursos de formação, promoção, qualificação e especialização, habilitações civis e aptidão física.\n\n4 - O registo do currículo é obrigatoriamente elaborado para os militares dos QP na efetividade de serviço e, quando necessário, para os militares nas demais formas de prestação de serviço efetivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451132": {
+   "fragment_id": "203413465",
+   "type": 11,
+   "heading": "Artigo 43.º — Decisão sobre reclamação",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 43.º — Decisão sobre reclamação\n\nO autor do ato tem o prazo de 15 dias para proferir a sua decisão, devendo para o efeito:\n\na) Analisar objetivamente a matéria constante da reclamação;\n\nb) Esclarecer quaisquer factos ou posições referenciadas na reclamação, designadamente, quando aplicável, ouvindo o primeiro avaliador;\n\nc) Considerar improcedente a reclamação e manter os níveis anteriormente conferidos ou atender à reclamação no todo ou em parte, alterando o nível e assinalando o novo nível com as suas iniciais, ou dando nova fundamentação ou revogando a avaliação individual produzida e ordenando nova avaliação individual a elaborar nos termos do disposto nos artigos 16.º a 19.º;\n\nd) Impossibilitada a produção de nova avaliação ao militar reclamante nos termos da parte final do número anterior, designadamente por substituição superveniente do primeiro avaliador, é competente para o efeito o segundo avaliador ou, na falta ou impossibilidade deste, o autor do ato;\n\ne) Dar conhecimento da nova avaliação ao avaliado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451133": {
+   "fragment_id": "203413467",
+   "type": 14,
+   "heading": "Anexo A — Ficha de Avaliação",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "## Anexo A — Ficha de Avaliação\n\n[a que se refere a alínea a) do artigo 7.º]\n\n(ver documento original)\n\nInstruções de Preenchimento\n\n1 - A FAV pode ser escrita por meios informáticos ou manuscrita a tinta preta e as emendas ou rasuras ressalvadas.\n\n2 - Podem ser utilizadas no preenchimento da FAV as abreviaturas em uso nos ramos das Forças Armadas.\n\n3 - Todos os campos da FAV são de preenchimento obrigatório, salvo quando expressamente referido nestas instruções.\n\n4 - Todas as caixas devem ser completa e corretamente preenchidas, de acordo com o RAMMFA e estas instruções de preenchimento.\n\n5 - No cabeçalho, na linha identificada com «a)» deve ser indicado o ramo a que pertence o avaliado.\n\n6 - Caixa 1: identificação completa do avaliado e dos cargos/funções. Deve ser indicada a unidade e o estabelecimento, órgão ou serviço de colocação. Para cada um dos cargos desempenhados e funções exercidas deve ser indicado o período em apreciação e a função militar a que corresponde (comando, direção ou chefia, estado-maior, chefia técnica ou execução).\n\n7 - Caixa 2: identificação do tipo de avaliação, devendo ser indicado o período a que respeita. No caso de avaliação extraordinária deve ser assinalado o motivo.\n\n8 - Caixa 3: identificação dos avaliadores intervenientes no processo e do comandante, diretor ou chefe da unidade, estabelecimento ou órgão.\n\n9 - Caixa 4: destina-se ao controlo e verificação pela U/E/O de gestão do pessoal.\n\n10 - Caixa 5 (campos 5.1 a 5.15): preenchida pelos avaliadores intervenientes no processo da seguinte forma:\n\na) O primeiro avaliador, com base nos indicadores de cada competência, posiciona o avaliado numa escala de 1 a 5, assinalando com uma cruz (X) o campo correspondente e nos níveis de classificação;\n\nb) O campo «não observado» é assinalado quando o avaliado não demonstrou evidências que o permitam posicionar numa escala de 1 a 5 com base nos indicadores de cada competência.\n\nc) Para classificar as competências do avaliado, o avaliador dispõe de uma escala de graduação que comporta os seguintes níveis:\n\n(1) Muito Bom, a que corresponde o valor cinco, sendo atribuído quando o avaliado demonstra o cumprimento dos descritivos referentes a todos os indicadores em grau excecional;\n\n(2) Bom, a que corresponde o valor quatro, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores, ultrapassando a maioria dos mesmos;\n\n(3) Suficiente, a que corresponde o valor três, sendo atribuído quando o avaliado atinge o cumprimento dos descritivos referentes aos indicadores;\n\n(4) Insuficiente, a que corresponde o valor dois, sendo atribuído quando o avaliado denota deficiências menores no cumprimento dos descritivos referentes aos indicadores, que podem ser corrigidas;\n\n(5) Mau, a que corresponde o valor um, sendo atribuído quando o avaliado não atinge, de forma persistente, os descritivos referentes aos indicadores.\n\n11 - Caixa 6: preenchida pelos avaliadores intervenientes no processo da seguinte forma:\n\na) No campo 6.1 o avaliador deve comparar o avaliado com todo o universo de militares do mesmo posto que já tenha avaliado. A opção «não aplicável» é obrigatoriamente fundamentada;\n\nb) No campo 6.2 o avaliador deve ordenar os seus avaliados do mesmo posto que classificou como acima da média (X em Y). A opção «não aplicável» é obrigatoriamente fundamentada;\n\nc) No campo 6.3 deve indicar as funções militares que melhor se adequam ao avaliado. Podem ser assinaladas mais do que uma opção.\n\n12 - Caixa 7: Destina-se ao primeiro avaliador:\n\na) No campo 7.1 o avaliador expressa o seu parecer relativamente à permanência do avaliado;\n\nb) No campo 7.2 o avaliador identifica as necessidades formativas que poderão contribuir para a melhoria do desempenho do avaliado;\n\nc) No campo 7.3 é inscrita a média ponderada das observações efetuadas. A média encontrada é validada pelo órgão de gestão de pessoal do ramo, podendo ser retificada caso a mesma não se encontre correta;\n\nd) No campo 7.4 o avaliador fundamenta, obrigatória e objetivamente, a apreciação das competências que originaram uma avaliação desfavorável, bem como a atribuição de qualquer nível 5 em qualquer das competências. Fundamenta obrigatoriamente a indicação de «não aplicável» nos campos 6.1 e 6.2. Assinala o número de folhas anexas, se houver, escreve as suas iniciais, data e rubrica.\n\n13 - Caixa 8: Destina-se ao segundo avaliador:\n\na) No campo 8.1 o avaliador pronuncia-se quanto ao modo como o primeiro avaliador apreciou os avaliados do mesmo posto, considerados no seu conjunto;\n\nb) No campo 8.2 o avaliador pronuncia-se quanto ao modo como o primeiro avaliador apreciou o avaliado, sempre que tiver conhecimento deste, quando possuir opinião parcial ou globalmente divergente, fundamentando sumariamente as razões daquela divergência. Fundamenta obrigatoriamente a indicação de «não aplicável» nos campos 6.1 e 6.2. Assinala o número de folhas anexas, se houver, escreve as suas iniciais, data e rubrica.\n\n14 - Caixa 9: Destina-se ao comandante, diretor ou chefe:\n\nO campo 9.1 é de redação livre. Assinala o número de folhas anexas, se houver, escreve as suas iniciais, data e rubrica.\n\n15 - Caixa 10: Destina-se a ser utilizada pelo avaliado:\n\na) No campo 10.1, de preenchimento não obrigatório, o avaliado escreve a sua opinião sobre a orientação de carreira, datando e rubricando;\n\nb) O campo 10.2, o avaliado indica o número total de folhas anexas, rubrica e data, após tomar conhecimento integral da FAV.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451134": {
+   "fragment_id": "203413468",
+   "type": 14,
+   "heading": "Anexo B — Descrição das Competências e Avaliação do Potencial",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "## Anexo B — Descrição das Competências e Avaliação do Potencial\n\n(a que se refere o n.º 2 do artigo 20.º)\n\n1 - Caracterização das Competências\n\n(ver documento original)\n\n2 - Avaliação do Potencial\n\na) Potencial comparado com os militares no mesmo posto:\n\n1) Acima dos pares;\n\n2) Ao nível dos pares;\n\n3) Ao nível dos pares, carecendo de desenvolvimento em alguns aspetos;\n\n4) Não denota o potencial adequado para assumir maior responsabilidade.\n\nb) A posição relativa do avaliado face ao conjunto dos militares do mesmo posto por si avaliados com potencial «acima dos pares»;\n\nc) As funções militares de exercício preferencial do avaliado:\n\n1) Comando/Direção/Chefia;\n\n2) Estado-Maior;\n\n3) Chefia Técnica;\n\n4) Execução.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  },
+  "203451135": {
+   "fragment_id": "203413469",
+   "type": 14,
+   "heading": "Anexo C — [a que se refere a alínea c) do artigo 7.º]",
+   "in_force_from": "2022-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+   ],
+   "markdown": "## Anexo C — [a que se refere a alínea c) do artigo 7.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 275/2022 - Diário da República n.º 219/2022, Série I de 2022-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167), em vigor a partir de 2022-11-15"
+  }
+ }
+}

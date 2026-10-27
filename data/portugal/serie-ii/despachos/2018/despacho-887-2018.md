@@ -1,0 +1,1007 @@
+---
+schema_version: '1.0'
+id: pt:dre:114561388:por
+title: Despacho n.º 887/2018
+short_title: null
+summary: Fixa o número máximo das unidades orgânicas flexíveis e das equipas multidisciplinares, estabelece-se a estrutura
+  orgânica flexível da Secretaria-Geral da Administração Interna
+jurisdiction: portugal
+territory: null
+document_type: despacho
+document_type_label: Despacho
+issuing_authority:
+- Administração Interna - Secretaria-Geral
+proposing_entity: null
+official_number: 887/2018
+official_date: null
+publication_date: '2018-01-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/2018, Série II de 2018-01-23
+  number: '16'
+  series: II
+  supplement: null
+  pages: 2745 - 2752
+  pdf_url: https://files.diariodarepublica.pt/2s/2018/01/016000000/0274502752.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114561388'
+  dre_path: /dr/detalhe/despacho/887-2018-114561388
+  internal: pt:dre:114561388:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho/887-2018-114561388
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho/887-2018-114561388
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 90babf242c7eaffead22e8455472b78e72e9fdb7f6f6cebd873b38e8a2f236e7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T11:03:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Administração Interna
+- Orgânica
+- Pessoal Dirigente
+- Secretaria Geral
+relationships:
+- type: amended_by
+  target: pt:dre:159087191:por
+  label: Alterados com efeitos a 01.03.2021, a título provisório e enquanto vigorar a presidência portuguesa da União Europeia
+    (PPUE 2021) até 30.06.2021, os arts. 1.º, 10.º e 12.º, pelo(a) Despacho n.º 2610/2021 - Diário da República n.º 47/2021,
+    Série II de 2021-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2610-2021-159087191
+  date: '2021-03-09'
+- type: cites
+  target: pt:dre:106549657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64359557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179157:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176498632:por
+  label: Revogado, pelo(a) Despacho n.º 12643/2021 - Diário da República n.º 249/2021, Série II de 2021-12-2, nos termos do
+    seu n.º 2 do art. 24.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12643-2021-176498632
+  date: '2021-12-27'
+article_structure:
+  article_count: 22
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:03:45Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho n.º 887/2018
+
+Considerando a necessidade de ser emprestada uma maior atuação e acompanhamento na execução das medidas e procedimentos constantes da [Lei n.º 10/2017](https://diariodarepublica.pt/dr/detalhe/lei/10-2017-106549657), de 3 de março, que aprova a Lei da Programação de Infraestruturas e Equipamentos das Forças e Serviços de Segurança da Administração Interna
+
+Na consideração, ainda, da necessidade de existência de uma única unidade orgânica que centralize toda a intervenção no âmbito da execução da LPIEFSS;
+
+Atendendo a que importa dar cumprimento ao Despacho da Secretária de Estado Adjunta e da Administração Interna de 15 de janeiro;
+
+E que, do mesmo modo, tem de ser dado cumprimento ao Despacho do Secretário de Estado da Administração Interna, n.º 9448/2017, de 16 de outubro, publicado no Diário da República, 2.ª série, n.º 207, de 26 de outubro de 2017;
+
+Atento ao facto de, nos termos do n.º 5 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, com as alterações introduzidas pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de agosto, ex-vi artigo 7.º, n.º 1, alínea f), da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, alterada pelas Leis n.os [51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de agosto, [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril e [64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro, [68/2013](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), de 29 de agosto e [128/2015](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), de 3 de setembro, as unidades orgânicas flexíveis dos serviços poderem ser criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá, entre outras, as respetivas atribuições e competências;
+
+Considerando, por outro lado, que o [Decreto Regulamentar n.º 29/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-2012-553441), de 13 de março, alterado pelo [Decreto-Lei n.º 161-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), de 2 de dezembro e na redação dada pelo [Decreto-Lei n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), de 11 e julho, definiu a missão, atribuições e tipo de organização interna da SGAIAI e a Portaria n.º 145/2014, de 16 de julho, veio determinar a estrutura nuclear dos serviços e as competências das respetivas unidades orgânicas, fixando, do mesmo modo, o número máximo das unidades orgânicas flexíveis e de equipas multidisciplinares;
+
+Assim, ao abrigo dos n.os 5, 6, 7 e 8 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, com as alterações introduzidas pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de agosto, ex-vi artigo 7.º, n.º 1, alínea f), da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, alterada pelas Leis n.os [51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de agosto, [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril e [64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro e em decorrência do estabelecido no artigo 7.º, da Portaria n.º 145/2014, de 16 de julho, que fixa o número máximo das unidades orgânicas flexíveis e das equipas multidisciplinares, estabelece-se a estrutura orgânica flexível da Secretaria-Geral da Administração Interna e respetivas atribuições e competências.
+
+###### Artigo 1.º — Unidades orgânicas flexíveis e Equipas Multidisciplinares da Secretaria-Geral
+
+A Secretaria-Geral da Administração Interna, abreviadamente designada SGAI, estrutura-se nas seguintes unidades orgânicas flexíveis e equipas multidisciplinares:
+
+a) Divisão de Orçamento e Contabilidade e Divisão de Projetos Financeiros, integradas na Direção de Serviços de Gestão Orçamental e Financeira;
+
+b) Divisão de Contratação Pública e Divisão de Aprovisionamento e Logística, integradas na Direção de Serviços da Unidade Ministerial de Compras;
+
+c) Divisão de Programação de Infraestruturas e Equipamentos, que fica na direta dependência do Secretário-Geral da Administração Interna;
+
+d) Divisão de Gestão de Pessoal, integrada na Direção de Serviços de Planeamento, Controlo e Recursos Humanos;
+
+e) Divisão de Documentação e Arquivo e Divisão de Informação e Relações Públicas, integradas na Direção de Serviços de Documentação e Relações Públicas;
+
+f) Divisão de Contraordenações, integrada na Direção de Serviços de Assessoria Jurídica, Contencioso e Política Legislativa;
+
+g) Divisão de Gestão dos Fundos Comunitários, integrada na Direção de Serviços de Gestão dos Fundos Comunitários;
+
+h) Divisão de Relações Internacionais, integrada na Direção de Serviços de Relações Internacionais;
+
+i) Divisão Jurídica e de Estudos Eleitorais, integrada na Direção de Serviços de Apoio Técnico e Estudos Eleitorais;
+
+j) Divisão de Sistemas de Informação Eleitorais, integrada na Direção de Serviços de Gestão dos Sistemas de Informação Eleitoral;
+
+k) Divisão de Administração Eleitoral;
+
+l) Centro de Operações e Gestão do Sistema Integrado das Redes de Emergência e Segurança de Portugal;
+
+m) Divisão de Património e Planeamento de Instalações, integrada na Direção de Serviços de Património e Planeamento de Instalações
+
+n) Equipa Multidisciplinar de Comunicações Críticas;
+
+o) Equipa Multidisciplinar de Sistemas em Produção;
+
+p) Equipa Multidisciplinar de Rede de Multisserviço da Rede Nacional de Segurança Interna.
+
+###### Artigo 2.º
+
+##### Divisão de Orçamento e Contabilidade
+
+À Divisão de Orçamento e Contabilidade, abreviadamente designada DOC, compete, no âmbito da execução orçamental e contabilística dos gabinetes dos membros do Governo da AI, da SGAI e dos serviços abrangidos pela prestação de serviços comuns (psc):
+
+a) Acompanhar e assegurar o desenvolvimento dos procedimentos contabilísticos relativamente aos orçamentos que se encontram sob a sua responsabilidade, praticando e promovendo, de acordo com as disposições legais aplicáveis, todos os atos técnicos, administrativos e contabilísticos, de acordo com princípios de boa gestão, eficaz e eficiente;
+
+b) Garantir o controlo de gestão financeira dos gabinetes dos membros do Governo que integram o MAI e da SGAI;
+
+c) Executar os orçamentos de projetos que se lhe encontram cometidos;
+
+d) Executar os procedimentos contabilísticos dos orçamentos geridos pela SGAI, promovendo todos os atos necessários para o efeito;
+
+e) Processar e liquidar as despesas autorizadas, bem como, organizar e manter a contabilidade dos orçamentos cuja execução é desenvolvida pela SGAI;
+
+f) Organizar a conta de gerência dos gabinetes dos membros do Governo, da SGAI e das demais estruturas a que presta apoio no âmbito da psc;
+
+g) Elaborar relatórios de execução orçamental dos gabinetes dos membros do Governo, da SGAI e das demais estruturas a que presta apoio no âmbito da psc;
+
+h) Assegurar o reporte da informação à Direção Geral do Orçamento relativa a fundos disponíveis, pagamentos em atraso, unidade de tesouraria, encargos plurianuais dos gabinetes dos membros do Governo, da SGAI e das demais estruturas a que presta apoio no âmbito da psc;
+
+i) Verificar a conformidade legal de todos os documentos de despesa e preparar o respetivo pagamento;
+
+j) Assegurar a arrecadação de receitas da SGAI, procedendo ao registo contabilístico das receitas arrecadadas pela SGAI e pelas demais estruturas a que presta apoio no âmbito da psc;
+
+k) Desenvolver os procedimentos destinados à constituição, reconstituição e liquidação dos fundos de maneio relativos aos orçamentos cuja execução é garantida pela SGAI;
+
+l) Preparar os pedidos de libertação de crédito por conta das dotações inscritas no Orçamento do
+
+Estado ou das despesas com compensação em receita;
+
+m) Emitir requisições e processamento das despesas associadas a missões e deslocações no País e no estrangeiro;
+
+n) Assegurar o reporte da informação à Direção Geral do Orçamento relativa a deslocações em território nacional e no estrangeiro e dos fluxos financeiros da Administração Central, dos gabinetes dos membros do Governo, da SGAI e das demais estruturas a que presta apoio no âmbito da psc;
+
+o) Emitir declarações de rendimentos de fornecedores e de certidões de receita e elaboração, registo e liquidação das guias de reposição abatidas e não abatidas nos pagamentos relativos aos gabinetes dos membros do Governo, da SGAI e das demais estruturas a que presta apoio no âmbito da psc;
+
+p) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 3.º
+
+##### Divisão de Projetos Financeiros
+
+À Divisão de Projetos Financeiros, abreviadamente designada DPF, compete, designadamente, no âmbito da sua intervenção:
+
+a) Acompanhar a elaboração da proposta de orçamento de investimento da AI no âmbito do Orçamento do Estado;
+
+b) Acompanhar, em colaboração com a DSPPI, com a DSTIC e em cooperação com as forças de segurança e dos serviços da AI, a execução dos investimentos em infraestruturas, equipamentos e tecnologias de informação e comunicações da AI;
+
+c) Assegurar a elaboração dos relatórios de controlo de execução dos investimentos da AI;
+
+d) Preparar e acompanhar a execução das candidaturas comunitárias dos projetos de investimento da SGAIAI, bem como assegurar a elaboração dos pedidos de pagamento e relatórios de execução;
+
+e) Desenvolver e assegurar a atualização do sistema de informação de gestão de infraestruturas e equipamentos das Forças e Serviços de Segurança da AI;
+
+f) No âmbito das suas competências, prestar informações e assessoria técnica e emitir pareceres;
+
+g) Assegurar as demais funções cometidas por lei ou superiormente determinadas.
+
+###### Artigo 4.º
+
+##### Divisão de Contratação Pública
+
+À Divisão de Contratação Pública, abreviadamente designada DCP, compete, designadamente, no âmbito da sua intervenção:
+
+a) Observar os princípios gerais e as regras orientadoras fixados no Sistema Nacional de Compras Públicas, designadamente as relações e obrigações de e para com a Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP) e entidades compradoras vinculadas;
+
+b) Elaborar anualmente o Plano de Compras do Ministério (PCM), procedendo, junto dos serviços e organismos da AI, ao levantamento e à agregação de necessidades de bens, serviços e empreitadas de valor superior a (euro) 150.000;
+
+c) Promover a centralização, ao nível ministerial, da negociação e celebração de acordos quadro ou outros contratos públicos em matérias não centralizadas ao nível da ESPAP;
+
+d) Executar os procedimentos tendentes à aquisição ou locação de bens e serviços e de empreitadas, não centralizados pela DSUMC, bem como, desenvolver os processos de negociação, que conduzam à racionalização e diminuição dos encargos, sob proposta e em articulação com os serviços envolvidos;
+
+e) Implementar e gerir os sistemas de informação relacionados com as compras nos moldes definidos pela ESPAP;
+
+f) Emitir pareceres relativamente a propostas de aquisição ou locação de bens e serviços, que a Tutela Governamental tiver por bem solicitar à SGAIAI;
+
+g) Funcionar como apoio de primeira linha dentro da AI, relativamente a acordos quadro ou outros contratos públicos celebrados pela ESPAP;
+
+h) Enviar informações de compras à ESPAP nos moldes e na periodicidade que vierem a ser definidas por esta entidade;
+
+i) Efetuar a agregação de informação de compras ao nível da AI, nos moldes definidos pela ESPAP;
+
+j) Monitorizar os consumos e supervisionar a aplicação das condições negociadas;
+
+k) Em articulação com as entidades compradoras, zelar para que os orçamentos de fornecimentos de bens e serviços externos sejam efetuados por itens de compra e utilizando preços de referência adequados;
+
+l) Controlar e monitorizar a execução orçamental de compras, nomeadamente com vista a assegurar que as reduções de custos unitários se traduzam em poupança efetiva;
+
+m) Desenvolver procedimentos nas áreas das suas competências, com vista à adesão aos mesmos por parte das entidades e organismos da AI, numa lógica de ganhos de eficiência e de redução de custos;
+
+n) Proceder à agregação das necessidades de compras públicas ecológicas e comunicação das mesmas à ESPAP;
+
+o) Preparar, realizar e gerir os contratos de fornecimentos de serviços, nomeadamente, de locação, de assistência técnica e de manutenção de equipamentos dos gabinetes dos membros do Governo, da SGAI e dos serviços aos quais presta apoio no âmbito psc;
+
+p) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 5.º
+
+##### Divisão de Aprovisionamento e Logística
+
+À Divisão de Aprovisionamento e Logística, abreviadamente designada DAL, compete no âmbito da gestão dos bens e serviços e da logística dos gabinetes dos membros do Governo da AI, da SGAI e restantes serviços abrangidos pela psc:
+
+a) Assegurar a gestão dos recursos patrimoniais afetos aos gabinetes dos membros do Governo da AI, à SGAI e, bem como, aos serviços abrangidos pela psc;
+
+b) Gerir o processo de manutenção dos equipamentos de comunicações móveis dos gabinetes governamentais, SGAI e serviços e organismos aos quais presta apoio no âmbito da psc;
+
+c) Organizar e manter atualizado o cadastro e inventário de bens;
+
+d) Assegurar a gestão do edifício sede da AI e de outras instalações afetas à SGAI, designadamente no que se refere à necessidade de restauro e conservação;
+
+e) Assegurar a gestão do parque de veículos automóveis afetos aos gabinetes governamentais e à SGAI;
+
+f) Assegurar a gestão e distribuição dos bens correntes aos gabinetes dos membros do Governo da AI e à SGAI;
+
+g) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 6.º
+
+##### Divisão de Programação de Infraestruturas e Equipamentos
+
+1 - O âmbito de atuação da Divisão de Programação de Infraestruturas e Equipamentos, abreviadamente designada DPIE, é exclusivamente dedicado à Lei de Programação de Infraestruturas e Equipamentos das Forças e Serviços de Segurança (LPIEFSS), sob tutela do membro do Governo responsável pela área da Administração Interna, aprovada pela [Lei n.º 10/2017](https://diariodarepublica.pt/dr/detalhe/lei/10-2017-106549657), de 3 de março e funcionando na direta dependência do Secretário-Geral da Administração Interna.
+
+2 - A DPIE tem as seguintes atribuições, designadamente, no âmbito da sua intervenção:
+
+a) Articular, designadamente com as forças e serviços de segurança, todos os trabalhos indispensáveis à concretização da LPIEFSS;
+
+b) Observar os princípios gerais e as regras orientadoras fixados no Sistema Nacional de Compras Públicas, designadamente as relações e obrigações de e para com a Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP) e entidades compradoras vinculadas;
+
+c) Executar os procedimentos tendentes à aquisição ou locação de bens e serviços e de empreitadas, abrangidas pela LPIEFSS, bem como, desenvolver os processos de negociação, que conduzam à racionalização e diminuição dos encargos, sob proposta e em articulação com os serviços envolvidos;
+
+d) Implementar e gerir os sistemas de informação relacionados com as compras nos moldes definidos pela ESPAP;
+
+e) Enviar informações de compras à ESPAP nos moldes e na periodicidade que vierem a ser definidas por esta entidade;
+
+f) Garantir, em permanência, a monitorização material e financeira dos procedimentos precontratuais e da execução dos respetivos contratos;
+
+g) Elaborar o relatório previsto no n.º 3 do artigo 4.º da [Lei n.º 10/2017](https://diariodarepublica.pt/dr/detalhe/lei/10-2017-106549657), de 3 de março;
+
+h) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+3 - A DPIE é constituída, para além do chefe de divisão, por elementos designados em regime de comissão de serviço e afetos em permanência, sendo os respetivos encargos suportados pelos serviços de origem, nos termos do Despacho da Secretária de Estado Adjunta e da Administração Interna de 15 de janeiro de 2018.
+
+###### Artigo 7.º
+
+##### Divisão de Gestão de Pessoal
+
+À Divisão de Gestão de Pessoal, abreviadamente designada DGP, que integra a Secção de Pessoal, abreviadamente designada SP, compete no âmbito dos gabinetes dos membros do Governo, da SGAI e dos serviços da AI, designadamente aqueles que são abrangidos pela psc:
+
+1 - Em matéria de recursos humanos e no quadro da psc:
+
+a) Elaborar o balanço social da SGAI e dos serviços integrados na psc;
+
+b) Promover e executar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego;
+
+c) Assegurar o registo de assiduidade do pessoal, bem como organizar as listas de antiguidade do pessoal;
+
+d) Assegurar o processamento de remunerações, outros abonos do pessoal e demais prestações complementares;
+
+e) Assegurar a gestão do processo de avaliação do desempenho da SGAI, no âmbito dos SIADAP 2 e SIADAP 3;
+
+f) Prestar apoio administrativo e auxiliar aos gabinetes governamentais, bem como aos serviços e órgãos sem estrutura administrativa própria.
+
+2 - Em matéria de recursos humanos e no quadro do acompanhamento da atividade das entidades, serviços e organismos da AI:
+
+a) Elaborar o balanço social consolidado da AI;
+
+b) Proceder, em articulação com os serviços competentes da Administração Pública, às ações necessárias à prossecução da política de recursos humanos no âmbito da AI;
+
+c) Emitir pareceres em matéria de recursos humanos;
+
+d) Assegurar os atos de administração relativos ao pessoal em situação de mobilidade especial, que lhe seja afeto, em articulação com a entidade gestora da mobilidade, nos termos legais.
+
+3 - Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+4 - Compete à SP:
+
+a) Assegurar a execução de todos os procedimentos administrativos relacionados com o pessoal dos gabinetes governamentais da AI, da SGAI, bem como dos demais serviços e estruturas cujo apoio esteja a seu cargo no âmbito da psc;
+
+b) Organizar e manter atualizado o cadastro de todo o pessoal a seu cargo, bem como assegurar o registo de assiduidade do pessoal e a organização das listas de antiguidade do pessoal;
+
+c) Assegurar o expediente referente ao processamento de remunerações, outros abonos do pessoal e demais prestações complementares, relacionados com o pessoal dos gabinetes governamentais da AI, da SGAI, bem como dos demais serviços e estruturas cujo apoio esteja a seu cargo no âmbito da psc;
+
+d) Assegurar o expediente relativo à concessão dos benefícios sociais de direito, relativamente ao pessoal integrado nos gabinetes governamentais da AI, da SGAI, bem como dos demais serviços e estruturas cujo apoio esteja a seu cargo no âmbito da psc;
+
+e) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 8.º
+
+##### Divisão de Documentação e Arquivo
+
+À Divisão de Documentação e Arquivo, abreviadamente designada DDA, compete no âmbito dos gabinetes dos membros do Governo, da SGAI e dos serviços da AI, designadamente aqueles que são abrangidos pela psc:
+
+1 - Na área da documentação:
+
+a) Recolher, tratar e difundir, sempre que possível com recurso à via eletrónica, a documentação e informação técnica especializada com interesse para as atividades da AI;
+
+b) Organizar e manter atualizado o Centro de Documentação da SGAI, assegurando o tratamento da documentação, através de técnicas documentais automatizadas e gerir a Biblioteca on-line;
+
+c) Identificar e gerir os recursos documentais dos serviços integrados na psc;
+
+d) Promover a organização e gestão de um catálogo coletivo do acervo documental existente nos centros de documentação e bibliotecas dos serviços abrangidos pela psc e a sua disponibilização por via eletrónica;
+
+e) Assegurar a ligação e acessos a bases de dados nacionais e estrangeiras, nomeadamente de legislação;
+
+f) Editar, divulgar e distribuir as publicações elaboradas na SGAI ou noutros organismos da AI.
+
+2 - Na área do Arquivo:
+
+a) Organizar e manter o arquivo geral da AI, com competências sobre toda a documentação de arquivo que deixou de ser de uso corrente e assegurar a sua gestão;
+
+b) Acautelar a gestão dos arquivos correntes dos gabinetes dos membros do Governo e da SGAI;
+
+c) Estudar e propor normas uniformes para a elaboração de um sistema de classificação de documentos de arquivo e apoiar os Serviços da AI no desenvolvimento do plano de classificação único da AI;
+
+d) Elaborar e atualizar, em colaboração com os organismos a quem presta apoio, a proposta de portaria de gestão de documentos única da AI ou outros instrumentos que legitimem a eliminação de documentos de arquivo, de acordo com a legislação em vigor;
+
+e) Apoiar tecnicamente os organismos da AI na conceção e implementação de sistemas de gestão integrada de documentos de arquivo.
+
+3 - Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 9.º
+
+##### Divisão de Informação e Relações Públicas
+
+À Divisão de Informação e Relações Públicas, abreviadamente designada DIRP, compete assegurar aos gabinetes dos membros do Governo, à SGAI e aos serviços da AI, designadamente aqueles que são abrangidos pela psc:
+
+1 - No âmbito das Relações Públicas:
+
+a) Garantir o serviço de relações públicas da AI e superintender em todos os assuntos de protocolo no âmbito da AI, articulando com os demais serviços e organismos da AI a sua ação, organizando os atos relativos às obrigações protocolares dos serviços e organismos da AI, em especial dos membros do Governo;
+
+b) Realizar e apoiar a organização de congressos, seminários, conferências e outras atividades afins na AI;
+
+c) Prestar apoio aos órgãos de comunicação social, promovendo a eficiência e oportunidade das relações e coordenando as ações setoriais dos diversos serviços e organismos da AI nesse âmbito;
+
+d) Assegurar a receção e atendimento ao público no edifício sede da AI;
+
+e) Apoiar a estada e visita de missões e delegações estrangeiras ao País, quando superiormente solicitado.
+
+2 - No âmbito da Informação:
+
+a) Recolher, tratar e difundir a informação dos órgãos de comunicação social com interesse para as atividades da AI, em articulação com a assessoria de imprensa dos gabinetes dos membros do Governo;
+
+b) Assegurar os contactos com os órgãos da comunicação social, acompanhando a preparação e difusão dos materiais destinados a publicação, nomeadamente providenciando quanto à distribuição dos textos das intervenções oficiais;
+
+c) Participar na divulgação das atividades dos serviços da AI;
+
+d) Assegurar, quando superiormente solicitado, a inserção da informação relativa aos gabinetes dos membros do Governo da AI na página eletrónica do Governo;
+
+e) Gerir o sistema de tratamento de reclamações;
+
+f) Assegurar a receção e a distribuição da correspondência e demais documentos entrados na DIRP e proceder ao respetivo encaminhamento.
+
+3 - Na área da Comunicação:
+
+a) Definir planos e modelos de comunicação interna e externa e respetivos suportes e assegurar a sua manutenção e desenvolvimento no âmbito da SGAI;
+
+b) Assegurar a articulação uniforme das atividades de comunicação dos serviços e organismos aos quais presta apoio no âmbito da psc;
+
+c) Proceder ao registo e divulgação, no âmbito da SGAI, sempre que possível com recurso à via eletrónica, das normas e diretivas internas, necessárias ao seu funcionamento.
+
+4 - Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 10.º
+
+##### Divisão de Contraordenações
+
+À Divisão de Contraordenações, abreviadamente designada por DCo, compete:
+
+a) Coordenar a instrução dos processos de contraordenação cuja decisão esteja legalmente cometida ao Secretário-Geral, propondo as diligências instrutórias, probatórias e as notificações necessárias;
+
+b) Elaborar propostas de decisão de arquivamento ou de aplicação da coima e sanção acessória, no âmbito dos mesmos processos, efetuando as notificações subsequentes
+
+c) Analisar os recursos interpostos das decisões proferidas nos processos de contraordenação, propondo a revogação de decisões ou o envio do processo a tribunal no prazo legal;
+
+d) Promover o envio ao tribunal competente, para execução, dos processos cujo pagamento da coima não foi efetuado voluntariamente;
+
+e) Assegurar as articulações necessárias à cobrança de coimas e a sua transferência para as entidades definidas por lei;
+
+f) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 11.º
+
+##### Divisão de Gestão de Fundos Comunitários
+
+À Divisão de Gestão de Fundos Comunitários, abreviadamente designada por DGFC, compete:
+
+a) Acompanhar a execução dos projetos/operações cofinanciados e, quando for o caso, proceder ao pagamento das respetivas despesas, de acordo com as normas regulamentares aplicáveis;
+
+b) Assegurar que são cumpridas as condições necessárias de cobertura orçamental das operações;
+
+c) Verificar que foram fornecidos os produtos e os serviços financiados;
+
+d) Verificar a elegibilidade das despesas;
+
+e) Assegurar que as despesas declaradas pelos beneficiários para as operações foram efetuadas no cumprimento das regras comunitárias e nacionais, podendo promover a realização de verificações de operações por amostragem;
+
+f) Assegurar que os beneficiários e outros organismos abrangidos pela execução dos projetos/operações mantêm um sistema contabilístico separado, ou um código contabilístico adequado, para todas as transações relacionadas com o projeto/operação, sem prejuízo das normas contabilísticas nacionais;
+
+g) Criar e garantir o funcionamento de um sistema adequado e fiável de validação das despesas, e assegurar que, sempre que a tarefa for desempenhada por outra entidade, a autoridade de certificação recebe todas as informações necessárias sobre os procedimentos e verificações levadas a cabo em relação às despesas com vista à certificação;
+
+h) Realizar verificações e controlos de gestão sobre os projetos/operações cofinanciados;
+
+i) Assegurar o reporte e encerramento dos projetos/operações pelos respetivos beneficiários;
+
+j) Assegurar a apresentação de todos os relatórios necessários, em conformidade com a legislação nacional e comunitária aplicável;
+
+k) Realizar as verificações jurídicas de elegibilidade das despesas apresentadas no âmbito dos projetos cofinanciados por fundos comunitários, ou outros financiamentos internacionais, designadamente em termos de cumprimento dos procedimentos de contratação pública, bem como acompanhar as questões relativas ao precontencioso e ao contencioso no âmbito da gestão de fundos comunitários;
+
+l) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 12.º
+
+##### Divisão de Relações Internacionais
+
+À Divisão de Relações Internacionais, abreviadamente designada por DRI, compete:
+
+a) Assegurar e acompanhar a política internacional do Estado Português nas áreas de atribuições da AI, preparando a participação e coordenando a posição do Ministério em todos os atos, comissões nacionais e exercícios internacionais, relativos a tratados, acordos, convénios, protocolos e memorandos de entendimento, bilaterais ou multilaterais, bem como de outros instrumentos internacionais nas áreas de atribuições da AI;
+
+b) Coordenar a representação da AI e dar parecer prévio, a submeter a aprovação do Ministro da Administração Interna, sobre os instrumentos internacionais que os serviços da AI preparem ou devam assinar, no contexto das relações internacionais de cooperação com os Estados-membros da União Europeia, com os Estados do Espaço Económico Europeu, com os Estados terceiros e com organismos e organizações internacionais;
+
+c) Manter atualizado o arquivo e conservação dos acordos internacionais assinados no âmbito da AI;
+
+d) Coordenar a participação das Forças e Serviços de Segurança da AI em missões internacionais de paz, humanitárias e de gestão civil de crises, bem como a colocação de peritos do Ministério em organizações e organismos internacionais;
+
+e) Assegurar a coordenação das atividades dos oficiais de ligação da AI, elaborando as respetivas cartas de missão, procedendo à avaliação da atividade desenvolvida, em função dos objetivos traçados e dos resultados obtidos, elaborando relatórios periódicos e promovendo a devida articulação com as Forças e Serviços de Segurança e com os restantes serviços da AI;
+
+f) Acompanhar e apoiar as delegações de Estados e de organizações e organismos internacionais que se desloquem a Portugal no âmbito de acordos, programas e projetos ou iniciativas de cooperação na área de atribuições da AI;
+
+g) Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 13.º
+
+##### Divisão Jurídica e de Estudos Eleitorais
+
+À Divisão Jurídica e de Estudos Eleitorais, abreviadamente designada por DJEE, compete:
+
+a) Produzir estudos em matéria de direito eleitoral, nomeadamente ao nível comparado, bem como estudar a legislação, doutrina e jurisprudência eleitorais, tendo em vista contribuir para iniciativas legislativas de alteração, tendentes ao aperfeiçoamento do sistema e do processo eleitoral, conferindo-lhe maior eficiência, celeridade e garantias de integridade;
+
+b) Elaborar informações e emitir pareceres jurídicos sobre a interpretação dos textos legais em matéria eleitoral, bem como sobre a integração das suas lacunas e, ainda, sobre projetos ou propostas de lei e outros diplomas de natureza eleitoral, quando solicitado;
+
+c) Acompanhar a aplicação das diretivas eleitorais, participar nas reuniões para o efeito convocadas e elaborar os relatórios pertinentes;
+
+d) Participar em conferências, seminários e reuniões de natureza eleitoral, promovidas pelas Instâncias da União Europeia, bem como por organizações ou entidades internacionais com o seu aval e elaborar os respetivos relatórios;
+
+e) Elaborar estudos no âmbito do recenseamento eleitoral, com vista ao aperfeiçoamento do quadro legal e procedimental existente, à satisfação das necessidades internas do serviço e às solicitações externas;
+
+f) Apoiar, nas vertentes jurídica e executiva, os intervenientes nos processos de recenseamento, eleitorais e referendários, promovendo a interpretação e assegurando o esclarecimento dos textos legais aplicáveis, a elaboração da competente documentação, o tratamento de reclamações apresentadas no âmbito do recenseamento eleitoral, ou, quando tal não seja possível, procedendo ao seu encaminhamento para os serviços competentes;
+
+g) Assegurar a realização de ações de divulgação, esclarecimento e formação adequadas à efetiva e correta participação dos eleitores, órgãos locais e agentes da administração eleitoral nos atos de recenseamento, eleições e referendos;
+
+h) Assegurar a manutenção de um serviço permanente de esclarecimento eleitoral, através de atendimento por via eletrónica, telefónica e pessoal, a todos os intervenientes nos processos de recenseamento, eleitorais e referendários;
+
+i) Dar satisfação a todas as solicitações apresentadas pelas entidades recenseadoras, tribunais, serviços do Ministério Público, órgãos de polícia criminal e outras entidades legalmente autorizadas, relativas a dados constantes na base de dados central do recenseamento eleitoral (BDRE);
+
+j) Planear, organizar, elaborar e publicar toda a documentação necessária ao apoio e esclarecimento jurídico dos eleitores e demais intervenientes diretos no recenseamento, nas eleições e nos referendos, no território nacional e no estrangeiro;
+
+k) Planear, organizar, executar e conduzir as operações relativas ao processo de votação dos eleitores portugueses residentes no estrangeiro, incluindo as operações de escrutínio dos atos eleitorais que se processem por correspondência;
+
+l) Acompanhar e apoiar tecnicamente o Ministério dos Negócios Estrangeiros no âmbito do recenseamento eleitoral, da realização de eleições e de referendos, em particular no que se refere ao exercício presencial do direito de voto dos cidadãos portugueses residentes no estrangeiro e à modalidade de voto antecipado para eleitores residentes em território nacional mas temporariamente deslocados no estrangeiro;
+
+m) Definir o objeto e objetivo de estudos estatísticos e de sociologia eleitoral a elaborar com base na informação disponível ou recorrendo ao lançamento de inquéritos ou questionários;
+
+n) Organizar, apurar e tratar estatística e informaticamente a informação obtida, com vista à análise dos dados e à elaboração dos citados estudos;
+
+o) Preparar e organizar para publicação os estudos realizados, designadamente, atlas dos resultados de todos os atos eleitorais e referendários e caracterização dos eleitos;
+
+p) Assegurar a disponibilização da informação eleitoral necessária à execução de investigações e estudos por parte de instituições universitárias e outras;
+
+q) Organizar e assegurar a manutenção e gestão atualizada de uma base de dados de eleitos para os órgãos de soberania, regiões autónomas, autarquias locais e deputados nacionais ao Parlamento Europeu, com vista ao seu tratamento e publicação.
+
+r) Organizar e preparar para publicação todos os trabalhos realizados em matéria eleitoral;
+
+s) Assegurar a execução da cooperação a nível internacional em matéria eleitoral, designadamente com os PLP;
+
+t) Assegurar as demais funções cometidas por lei ou superiormente determinadas.
+
+###### Artigo 14.º
+
+##### Divisão de Sistemas de Informação Eleitorais
+
+À Divisão de Sistemas de Informação Eleitorais, abreviadamente designada por DSIE, compete:
+
+a) Assegurar a gestão e a manutenção permanentes da base de dados do recenseamento eleitoral, abreviadamente designada por BDRE, garantindo o correto funcionamento e atualização de todas as componentes e aplicações que lhe estão associadas;
+
+b) Assegurar a integração na BDRE de toda a informação relativa ao recenseamento dos cidadãos eleitores;
+
+c) Garantir a interoperabilidade da BDRE com outras bases de dados e sistemas de informação que, por lei, lhe estão associados;
+
+d) Promover a emissão de listagens e cadernos eleitorais, em suporte de papel ou digital, nos termos da lei do recenseamento eleitoral;
+
+e) Assegurar a obtenção de dados estatísticos relativos ao recenseamento, com base na informação constante da BDRE;
+
+f) Apoiar os intervenientes nos processos de recenseamento, eleitorais e referendários, ao nível das aplicações informáticas e manutenção de bases de dados;
+
+g) Planear e coordenar a realização dos escrutínios provisórios das eleições e referendos;
+
+h) Manter uma base de dados eleitorais, com os resultados do recenseamento, atos eleitorais e referendos realizados desde 1975, segundo os diversos tipos de notação e níveis de agregação;
+
+i) Manter e disponibilizar ao público um sistema de informação digital eleitoral com os dados referidos na alínea anterior;
+
+j) Colaborar no estudo, definição, conceção e implementação dos sistemas de informação e comunicação afetos à administração eleitoral;
+
+k) Estabelecer e consagrar critérios e regras de segurança, de privacidade e de recuperação em caso de falha dos dados e das aplicações;
+
+l) Assegurar as demais funções cometidas por lei ou superiormente determinadas.
+
+###### Artigo 15.º
+
+##### Divisão de Administração Eleitoral
+
+Compete à Divisão de Administração Eleitoral, abreviadamente designada por DAE:
+
+a) Proceder à previsão das despesas e elaborar o respetivo projeto de orçamento dos atos eleitorais e referendários;
+
+b) Planificar, coordenar e desenvolver o apoio financeiro, logístico e administrativo em matéria eleitoral, promovendo a execução, aprovisionamento e distribuição de material e equipamento destinados às assembleias eleitorais;
+
+c) Elaborar e propor critérios para atribuição e transferência de verbas para as autarquias locais, em matéria de recenseamento eleitoral, atos eleitorais e referendários;
+
+d) Integrar as comissões arbitrais de estações de televisão, de rádios de âmbito nacional, regional e local, que se constituam nos termos legais para determinar o montante das compensações a atribuir pela transmissão dos tempos de antena das campanhas eleitorais;
+
+e) Executar as campanhas mediáticas superiormente propostas, sobre o recenseamento eleitoral, eleições e referendos no território nacional e no estrangeiro;
+
+f) Promover a execução gráfica, publicação e distribuição dos documentos relativos e necessários aos atos eleitorais e referendários produzidos pela Administração Eleitoral;
+
+g) Obter, tratar e enviar às entidades competentes os elementos necessários à impressão dos boletins de voto em todos os atos eleitorais e referendários;
+
+h) Acompanhar os processos de pagamento das despesas respeitantes ao processo eleitoral;
+
+i) Organizar e manter atualizada a relação completa do equipamento destinado às secções de voto, nomeadamente, urnas e câmaras de voto;
+
+j) No âmbito do recenseamento eleitoral, receber e distribuir internamente as reclamações apresentadas pelos cidadãos eleitores;
+
+k) Assegurar a publicação da Revista Eleições e de outras publicações periódicas;
+
+l) Proceder a estudos em matéria de logística e finanças eleitorais;
+
+m) Propor e organizar a realização de inquéritos no âmbito da sua competência;
+
+n) Assegurar a gestão da expedição e da receção de correspondência e respetivo arquivo;
+
+o) Elaborar todos os processos relativos a missões e deslocações no País e no estrangeiro da área da administração eleitoral e instruir os processos aquisitivos relativos ao apoio logístico em matéria de cooperação eleitoral, nomeadamente com os PLP;
+
+p) Prever necessidades em matéria de economato;
+
+q) Providenciar pela manutenção e atualização da biblioteca da administração eleitoral;
+
+r) Assegurar as demais funções de natureza administrativa necessárias ao funcionamento da área de Administração Eleitoral.
+
+###### Artigo 16.º — Centro Operações e Gestão do Sistema Integrado das Redes de Emergência e Segurança de Portugal
+
+É criado, ao nível de Divisão, o Centro Operações e Gestão do Sistema Integrado das Redes de Emergência e Segurança de Portugal, abreviadamente designado por COG SIRESP e também por Entidade Gestora.
+
+1 - Ao COG SIRESP compete:
+
+1.1 - Ao nível da Coordenação:
+
+a) Providenciar para que todos os elementos afetos ao COG SIRESP sejam credenciados através dos Sub-Registos das Entidades;
+
+b) Apoiar a atividade operacional dos utilizadores (Helpdesk), tendo em conta os "Procedimentos standard" Helpdesk 1.ª Linha;
+
+c) Propor superiormente alterações da Rede com vista à melhoria dos níveis de disponibilidade e qualidade do sistema, da qualidade da prestação de serviços, bem como, a adaptação às necessidades específicas dos utilizadores;
+
+d) Definir e implementar as políticas de segurança, em coordenação com a SIRESP S. A.;
+
+e) Elaborar/propor/alterar e fazer aprovar as Normas de Execução Permanente, Planos de Emergência, Planos de Evacuação e Planos de Incêndio do Centro de Gestão, Centro de Gestão Alternativo, Helpdesk 1.ª Linha e Gabinete de Segurança;
+
+f) Elaborar relatórios com vista a uma melhoria na cobertura do sistema e novas funcionalidades a introduzir na rede e participar na aceitação de novos elementos ou funcionalidades na rede SIRESP;
+
+g) Definir os planos de formação para os utilizadores e pessoal do COG SIRESP;
+
+h) Promover e apoiar a entrada de novos utilizadores, bem como, assegurar a ligação com as entidades que os tutelam;
+
+i) Assegurar o devido apoio às entidades utilizadoras, zelando pelo cumprimento das regras de utilização da rede SIRESP;
+
+j) Apoiar as entidades por ocasião de exercícios próprios ou conjuntos.
+
+1.2 - Ao nível da Supervisão:
+
+a) Elaborar as escalas de serviço, validar o relatório no final do turno e, mensalmente, mapas de suplemento de escala;
+
+b) Manter atualizadas as credenciações dos elementos afetos ao COG SIRESP;
+
+c) Assegurar a implementação dos procedimentos do Helpdesk de 1.ª Linha;
+
+d) Executar todas as operações inerentes ao User Configuration Manager;
+
+e) Assegurar a configuração e operação das consolas de Despacho;
+
+f) Assegurar a execução dos procedimentos de acesso aos sites;
+
+g) Cumprir os procedimentos de manutenção corretiva e preventiva do subsistema de despacho e de gestão;
+
+h) Ministrar formação técnica ou reciclagem aos operadores sempre que necessário;
+
+i) Garantir a segurança das instalações, não autorizando a entrada de pessoas estranhas ao serviço, nos termos das normas em vigor no SEGNAC e mantendo atualizada a lista de entidades autorizadas a entrar nos COG e no Gabinete de Segurança;
+
+j) Cumprir os procedimentos para alarmes de intrusão e incêndio em sites do MAI;
+
+k) Fornecer relatórios sobre o inventário de material do SIRESP, sempre que solicitado;
+
+l) Cumprir os procedimentos sobre entrega de material volante de reserva em armazém e a sua troca e reparação;
+
+m) Cumprir os procedimentos sobre o desaparecimento, extravio ou furto de equipamentos Rádio;
+
+n) Exigir o cumprimento das normas relativas ao serviço por parte das Entidades Utilizadoras;
+
+o) Gerir os Trouble Tickets, registos de todas as interações com os utilizadores e ocorrências relevantes na rede;
+
+p) Fazer a articulação entre o COG Madeira e a Entidade Operadora e vice-versa;
+
+q) Manter atualizada a lista de autorizações de acesso aos MSO's do Continente por parte dos supervisores;
+
+r) Manter atualizada a lista de contactos das entidades e de todos os elementos afetos ao COG SIRESP.
+
+1.3 - Ao nível da Operação:
+
+a) Executar os procedimentos do Helpdesk de 1.ª Linha, com as entidades utilizadoras, para despiste de avarias, conforme indicação do referido manual e/ou indicações do supervisor;
+
+b) Garantir aos utilizadores informação sobre constrangimentos existentes no funcionamento da rede;
+
+c) Operar as consolas de despacho;
+
+d) Executar os procedimentos sobre a utilização das estações móveis conforme consta nas normas do operador;
+
+e) Executar comandos no "RCM" (Rádio Control Manager), conforme o respetivo Manual de Operações;
+
+f) Executar as operações em modo técnico dos equipamentos portáteis para despiste de avarias de sites ou faltas de cobertura;
+
+g) Manter em escuta e operar os Talkgroups relacionados com o serviço, ou outros que forem determinados superiormente;
+
+h) Utilizar a ferramenta o "affiliation display" para monitorização na Rede de Rádios, Sites ou Talkgroups, sempre que necessário;
+
+i) Registar todas as interações com os utilizadores na ferramenta de Helpdesk e Troubleticketing da SGAI, bem como todas as ocorrências relevantes na rede;
+
+j) Encaminhar para as respetivas entidades o mapa da MPI (manutenção preventiva das infraestruturas);
+
+k) Encaminhar os pedidos de acesso aos sites e notificações de manutenção às entidades utilizadoras;
+
+l) Informar sempre que se verifique uma mudança do procedimento de acesso a algum site, mantendo a lista de contactos e procedimentos de entrada nos Sites atualizada;
+
+m) Esclarecer as entidades utilizadores sobre os procedimentos de alarmes de intrusão, incêndio e acessos aos sites do MAI;
+
+n) Informar as entidades utilizadoras sobre procedimentos adotar aquando da avaria de UPS's e ar condicionado nas Salas de Despacho do SIRESP;
+
+o) Limitar a entrada de pessoas estranhas ao serviço exceto, as que estão mencionadas na lista de acesso e acompanhá-las sempre que estejam dentro das instalações;
+
+p) Executar os procedimentos sobre entrega de material volante;
+
+q) Participar de imediato ao supervisor qualquer avaria existente nos equipamentos do COG SIRESP ou falta de material para manter o seu normal funcionamento;
+
+r) Elaborar relatórios de ocorrência sempre que necessário informando de seguida o supervisor;
+
+s) Elaborar o relatório no final do turno.
+
+1.4 - Ao nível da Supervisão de Segurança:
+
+a) Controlar as chaves Mestras dos sites mantendo-as no Gabinete de Segurança em chaveiro próprio e selado;
+
+b) Assegurar a salvaguarda de todo o material classificado no Gabinete de Segurança;
+
+c) Auxiliar na elaboração e implementação dos "fleetmappings"das entidades utilizadoras;
+
+d) Carregar as chaves nos equipamentos do SIRESP e no Sistema de Autenticação da Rede (AuC);
+
+e) Configurar a gravação de voz;
+
+f) Executar, sempre que solicitado por escrito e por pessoal autorizado, a análise, pesquisa e gravação de comunicações voz, inserção de TG's para gravação mencionados no fleetmappings das entidades utilizadoras;
+
+g) Configurar terminais rádio e apoio na sua programação, bem como, o sistema de Rádio;
+
+h) Analisar e registar a qualidade de serviço do sistema e seus componentes, em termos de funções e desempenho do mesmo, nomeadamente, tráfego circulante, tempo de resposta das equipas de manutenção e disponibilidade;
+
+i) Apoiar as entidades por ocasião de exercícios próprios ou conjuntos.
+
+2 - O COG SIRESP será coordenado por um chefe de divisão a designar nos termos legalmente previstos, e que terá por missão garantir a ligação com a Entidade Operadora (SIRESP, S. A.).
+
+3 - O chefe de divisão assegurará diretamente as competências identificadas nas alíneas a) a j) do ponto 1.1, bem como, a coordenação de todas as outras atribuições previstas no ponto 1.2. a 1.4.
+
+4 - Na falta ou impedimento do chefe de divisão e tal como previsto no n.º 8, este é substituído pelo supervisor mais antigo que faça parte do efetivo do COG SIRESP, assumindo todas as funções inerentes ao serviço.
+
+5 - O COG SIRESP é constituído, para além do chefe de divisão mencionado no artigo 4.º do presente Despacho, por elementos designados em regime de comissão de serviço e afetos em permanência, pela Guarda Nacional Republicana (GNR) e pela Polícia de Segurança Pública (PSP), conforme Despacho do Secretário de Estado da Administração Interna n.º 9448/2017, de 16 de outubro, publicado no Diário da República, 2.ª série, n.º 207, de 26 de outubro de 2017, nos seguintes termos:
+
+a) 2 Sargentos-Ajudantes ou Sargentos-Chefes, devidamente credenciados, para exercício de funções na área da supervisão;
+
+b) 4 Guardas, devidamente credenciados, para exercício de funções na área da operação;
+
+c) 2 Guardas, devidamente credenciados, para o exercício de funções na área de supervisão de segurança e apoio a novos utilizadores;
+
+d) 2 Chefes ou Chefes-Principais, devidamente credenciados, para exercício de funções na área da supervisão;
+
+e) 4 Agentes, devidamente credenciados, para exercício de funções na área da operação;
+
+f) 2 Agentes, devidamente credenciados, para o exercício de funções na área de supervisão de segurança e apoio a novos utilizadores.
+
+6 - As atribuições identificadas como Supervisão, são asseguradas, por 2 Sargentos-Ajudantes ou Sargentos-Chefes da GNR e por 2 Chefes ou Chefes-Principais da PSP, todos devidamente credenciados, organizados em escala rotativa entre si, garantindo uma disponibilidade de serviço de 24 horas, 7 dias por semana e 365 dias ano.
+
+7 - Os supervisores assumem as responsabilidades de coadjuvar e fazer cumprir todas ordens emanadas pelo chefe de divisão em cada turno nas atividades diárias, bem como, pelo cumprimento das normas e regulamentos internos referente ao COG SIRESP e quaisquer outras instruções em vigor por parte de todos os operadores sob o seu comando, exercendo as competências mencionadas nas alíneas a) a r), do ponto 1.2.
+
+8 - Os supervisores dependem diretamente do chefe de divisão, a quem substituem nas faltas e impedimentos, conforme a regra definida no n.º 4 do presente Despacho.
+
+9 - A substituição de um supervisor é assegurada pelos outros supervisores, de acordo com a posição na escala rotativa definida, e em caso de impossibilidade pela coordenação direta do chefe de divisão.
+
+10 - As atribuições identificadas como Operação são asseguradas, por 4 Guardas da GNR, e por 4 Agentes da PSP, todos devidamente credenciados para exercício de funções nesta área, em escala rotativa entre si, garantindo uma disponibilidade de serviço de 24 horas, 7 dias por semana e 365 dias ano, e tendo como missão operar o Helpdesk de 1.ª Linha destinado a responder às dificuldades e solicitações dos utilizadores finais, exercendo as competências mencionadas nas alíneas a) a s), do ponto 1.3.
+
+11 - Os operadores dependem diretamente dos supervisores, operando-se a respetiva substituição pelos outros operadores, de acordo com a posição na escala rotativa definida, e em caso de impossibilidade pela coordenação direta do supervisor.
+
+12 - As atribuições identificadas como Supervisão de Segurança são asseguradas ao nível de "técnico de telecomunicações e segurança de rede", por 2 Guardas da GNR, e por 2 Agentes da PSP, todos devidamente credenciados para o exercício de funções na área de supervisão de segurança e apoio a novos utilizadores, em escala rotativa entre si, garantindo uma disponibilidade de serviço de 24 horas, 7 dias por semana e 365 dias ano, e tendo como missão elaborar todas as instruções de segurança e normas técnicas inerentes ao COG SIRESP, exercendo as competências mencionadas nas alíneas a) a i), do ponto 1.4.
+
+13 - Os técnicos mencionados no ponto anterior, dependem diretamente do chefe de divisão, operando-se a respetiva substituição pelos outros técnicos, de acordo com a posição na escala rotativa definida, e em caso de impossibilidade pela coordenação direta do chefe de divisão.
+
+###### Artigo 17.º
+
+##### Divisão de Património e Planeamento de Instalações
+
+À Divisão de Património e Planeamento de Instalações, abreviadamente designada por DPPI, compete:
+
+1 - No âmbito do Património:
+
+b) Organizar e atualizar o cadastro e o inventário do património imobiliário afeto ao MAI, criando e mantendo, para esse efeito, uma base de dados com toda a informação relevante para o apoio ao planeamento de investimentos e manutenção;
+
+c) Prestar apoio técnico na elaboração de projetos para instalações e outras infraestruturas da AI;
+
+d) Em articulação com os serviços e forças de segurança da AI e tendo em conta os planos plurianual e anuais superiormente aprovados, acompanhar a execução material dos projetos e dos contratos relativos a empreitadas de construção, remodelação, beneficiação, reabilitação, adaptação, conservação e ampliação de instalações e de outras infraestruturas da AI;
+
+e) No âmbito das suas competências, prestar informações, assessoria técnica e emitir pareceres, nomeadamente sobre projetos elaborados por outras entidades;
+
+f) Colaborar na elaboração dos relatórios de execução das obras em que a SGAI participe e doutros documentos de apoio à gestão.
+
+2 - No âmbito do Planeamento de Instalações:
+
+a) Estudar, acompanhar e apoiar a política de instalações das forças e serviços de segurança e restantes serviços da AI;
+
+b) Em articulação com os serviços e forças de segurança da AI, proceder ou promover à análise, avaliação e previsão das necessidades de obras de construção, remodelação, beneficiação, reabilitação, adaptação, conservação e ampliação de instalações e de outras infraestruturas;
+
+c) Tendo em consideração as necessidades existentes e previstas e a disponibilidade orçamental, promover ou colaborar com os serviços da AI na elaboração dos seguintes documentos, a serem submetidos para aprovação pela Tutela:
+
+i) Um plano plurianual de projetos de intervenções nas instalações e outras infraestruturas do Ministério;
+
+ii) Planos anuais de construção, remodelação, beneficiação, reabilitação, adaptação, conservação e ampliação de infraestruturas, necessariamente subordinados ao Plano previsto na subalínea anterior;
+
+iii) Proposta de orçamento adequada aos planos referidos;
+
+d) Em articulação com a DSUMC, propor, orientar e acompanhar os procedimentos de contratação pública da competência daquela Direção de Serviços, considerados necessários para a prossecução das suas atividades;
+
+e) Prestar o apoio técnico necessário que lhe vier a ser solicitado pela Unidade de Gestão Patrimonial da AI.
+
+3 - Assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas.
+
+###### Artigo 18.º — Equipa Multidisciplinar de Comunicações Críticas
+
+À Equipa Multidisciplinar de Comunicações Críticas, abreviadamente designada por EMCC e coordenada por elemento com estatuto remuneratório equiparado a diretor de serviços, compete:
+
+1 - No âmbito das suas atribuições relativas ao Sistema Integrado de Redes de Emergência e Segurança de Portugal - SIRESP:
+
+a) Promover as ações que permitam assegurar, em plenitude e com eficácia, o programa definido no contrato relativo à implementação do SIRESP, que corresponda às necessidades das forças e serviços de emergência e de segurança, satisfazendo a intercomunicação entre as diversas forças e serviços;
+
+b) Desenvolver soluções que permitam interoperabilidade entre as infraestruturas das redes SIRESP com a Rede Nacional de Segurança Interna (RNSI) em articulação com a EMRNSI;
+
+c) Acompanhar e participar na coordenação e planeamento, em articulação com os demais parceiros e interessados, das ações de desenvolvimento da rede SIRESP;
+
+d) Suportar os utilizadores e entidades utilizadoras da rede, disponibilizando um helpdesk especializado com controlo das interações ou incidentes reportados;
+
+e) Monitorizar os níveis de serviço prestados pela rede e coordenar junto da operadora o garante desses mesmos níveis de serviço contratados;
+
+f) Estudar as capacidades e potencialidades da rede, acompanhar as novas funcionalidades e equipamentos;
+
+g) Articular e promover junto das entidades utilizadoras os novos desenvolvimentos;
+
+h) Em articulação com a DSUMC, propor e acompanhar os procedimentos de contratação necessária ao potenciar do desempenho e utilização da rede;
+
+i) À Equipa Multidisciplinar de Comunicações Críticas compete as atribuições relativas ao Planeamento e Gestão da infraestrutura de suporte à rede SIRESP, cuja propriedade é do Estado, bem como, o acompanhamento da execução técnica do contrato celebrado com a SIRESP, S. A.; À Equipa Multidisciplinar de Comunicações Críticas compete as atribuições relativas ao Planeamento e Gestão da infraestrutura de suporte à rede SIRESP, cuja propriedade é do Estado, bem como, o acompanhamento da execução técnica do contrato celebrado com a SIRESP, S. A.
+
+2 - No quadro da participação no projeto 112.pt:
+
+a) Apoiar a manutenção da solução aplicacional do serviço 112.pt;
+
+b) Articular com as equipas técnicas dos fornecedores da solução tecnológica e aplicacional 112.pt (equipas de outsourcing), nomeadamente apoio técnico nas soluções propostas, participação nas reuniões de projeto, colaboração na produção de documentação do projeto, e revisão dos documentos elaborados;
+
+c) Garantir a correta implementação da solução técnica e funcionamento eficaz do serviço 112.pt, através da elaboração de testes internos e controlo dos testes efetuados pela equipa de desenvolvimento aplicacional;
+
+d) Assegurar a gestão do calendário do projeto 112.pt, garantido a implementação da solução e das alterações aprovadas nos prazos previstos;
+
+e) Assegurar a produção periódica de relatórios no sentido de assegurar à Direção, o conhecimento e controlo do projeto 112.pt;
+
+f) Apoiar a equipa operacional do projeto 112.pt;
+
+g) Apoiar na contratação, implementação e gestão do Centro Operacional Norte 112.pt;
+
+h) Assegurar o cumprimento das obrigações assumidas pelo Ministério da Administração Interna (MAI) no domínio do atendimento do número europeu de emergência 112, garantindo o seu funcionamento e operacionalidade;
+
+i) Assegurar o bom funcionamento dos instrumentos de operacionalização do número europeu de emergência 112, em articulação com as forças de segurança, a Autoridade Nacional de Proteção Civil (ANPC) e o Instituto Nacional de Emergência Médica (INEM);
+
+j) Garantir o suporte à implementação do eCall em Portugal (PieCall.pt)
+
+3 - Assegurar as demais funções cometidas por lei ou superiormente determinadas.
+
+###### Artigo 19.º — Equipa Multidisciplinar de Sistemas em Produção
+
+À Equipa Multidisciplinar de Sistemas em Produção, abreviadamente designada por EMSP e coordenada por elemento com estatuto remuneratório equiparado a diretor de serviços, compete:
+
+1 - No âmbito dos Sistemas e Data Center:
+
+a) Garantir o bom funcionamento dos serviços de correio eletrónico e nomes de domínio dos serviços centrais da AI, tanto de natureza operacional como de suporte;
+
+b) Gerir a arquitetura de domínios para todos os organismos da AI;
+
+c) Assegurar todas as atividades diárias de gestão dos ambientes produtivos das equipas e procedimentos de suporte;
+
+d) Administrar os sistemas informáticos e as bases de dados de uso partilhado e potenciando soluções de virtualização e cloud;
+
+e) Publicar os "sites" públicos dos organismos da AI;
+
+f) Promover e gerir os centros de processamento de dados da AI (um principal, um alternativo para fazer face a situações de contingência e outros que venha a ser necessário implementar para a execução das competências da AI);
+
+g) Estabelecer a ligação com os utentes no que respeita às aplicações em regime normal de exploração, velando pela oportuna receção dos dados e entrega dos produtos do processamento e verificar a qualidade dos produtos no que respeita à obediência às especificações acordadas com os utentes e aos padrões de controlo que por estes tenham sido fornecidos;
+
+h) Supervisionar e garantir a exploração dos sistemas críticos da AI instalados nos seus Data Center, estudando o seu desempenho e garantindo a sua escalabilidade;
+
+i) Afetar recursos de equipamento e de suporte lógico às aplicações em desenvolvimento, otimizar a utilização do material disponível e manter estatísticas atualizadas sobre a ocupação e rendimento do material e as condições de exploração dos sistemas;
+
+j) Manter e gerir o arquivo dos ficheiros em suporte informático e, nos casos em que tal se torne necessário, proceder ao registo dos dados por meio de equipamento adequado;
+
+k) Promover a elaboração dos manuais de operação, assegurando a sua correta aplicação e atualização;
+
+l) Estabelecer as ligações com os fornecedores dos equipamentos instalados, com vista à obtenção de informações técnicas, correção de anomalias e apoio especializado no domínio dos suportes lógicos;
+
+m) Em articulação com a DSUMC, propor e acompanhar os procedimentos de contratação necessária ao potenciar do desempenho e utilização das Infraestruturas do Centro de Dados da AI.
+
+2 - No âmbito do Suporte e HelpDesk:
+
+a) Assegurar o funcionamento do serviço de Helpdesk 24x7X365 - Disponibiliza um serviço de Helpdesk que atua como ponto focal no relacionamento com os Organismos e/ou Utilizadores;
+
+b) Garantir o cumprimento dos Níveis de Serviço Acordados (SLA);
+
+c) Assegurar o apoio técnico às equipas de apoio local e outras entidades na área das tecnologias de informação e comunicações;
+
+d) Garantir o Suporte Local aos Organismos MAI em regime 7x5;
+
+e) Garantir o Apoio às Migrações dos "sites" dos Organismos para a RNSI e Upgrades de Soluções de Software Transversais ao MAI;
+
+f) Efetuar intervenções técnicas a pedido das entidades da AI.
+
+3 - Assegurar as demais funções cometidas por lei ou superiormente determinadas.
+
+###### Artigo 20.º — Equipa Multidisciplinar de Rede Multisserviço da Rede Nacional de Segurança Interna
+
+À Equipa Multidisciplinar de Rede Multisserviço da Rede Nacional de Segurança Interna, abreviadamente designada por EMRNSI e coordenada por elemento com estatuto remuneratório equiparado a chefe de divisão, compete:
+
+a) Assegurar a gestão de sistemas de utilização comum entre forças e serviços de segurança e demais serviços da AI, nomeadamente no âmbito das comunicações, com os melhores níveis de qualidade de serviço;
+
+b) Garantir o bom funcionamento dos serviços suportados pela rede e acesso à Internet dos serviços centrais da AI, tanto de natureza operacional como de suporte;
+
+c) Participar no estudo, na coordenação e na execução das atividades relativas ao planeamento, administração, produção e desenvolvimento dos sistemas de comunicações de todos os organismos da AI, em articulação com os utilizadores dos diversos sistemas a quem presta apoio;
+
+d) Estudar e planear, numa perspetiva de rentabilização e potenciação da eficácia e de interoperabilidade, a arquitetura de comunicações e coordenar a gestão dos sistemas existentes nas forças e serviços de segurança e demais serviços da AI;
+
+e) Promover a migração para novas tecnologias e serviços de rede, de natureza sinérgica, como voz sobre IP, facsimile sobre IP, videoconferência e videovigilância;
+
+f) Gerir e garantir a manutenção, para uso partilhado, das comunicações com entidades externas ao MAI, velando pela sua eficácia e segurança;
+
+g) Assegurar o bom funcionamento das infraestruturas de comunicação da AI, com os melhores níveis de qualidade de serviço, garantindo o bom funcionamento dos serviços de rede, a todos os serviços da AI, tanto de natureza operacional como de suporte;
+
+h) Promover o desenvolvimento da segurança dos sistemas de comunicação e informação, através das melhores práticas operacionais internacionais e estabelecer as políticas de segurança em vigor no MAI;
+
+i) Contribuir, em articulação com serviços tutelados por outros ministérios, para o reforço da segurança das comunicações e sistemas de informação da Administração Pública;
+
+j) Gerir, controlar e acompanhar o projeto RNSI, garantindo a monitorização, os níveis de serviço, e o apoio técnico;
+
+k) Desenvolver soluções que permitam interoperabilidade entre a Rede Nacional de Segurança
+
+Interna (RNSI) e outras redes como o SIRESP ou o 112, em articulação com a EMCC;
+
+l) Assegurar a monitorização de todos os ambientes sob controlo da rede de comunicações RNSI 24X7X365;
+
+m) Em articulação com a DSUMC, propor e acompanhar os procedimentos de contratação necessária ao potenciar do desempenho e utilização da rede RNSI e os serviços por ela suportados;
+
+n) Assegurar as demais funções cometidas por lei ou superiormente determinadas.
+
+###### Artigo 21.º — Unidade de Gestão Patrimonial
+
+Compete à Unidade de Gestão Patrimonial, abreviadamente designada UGP-AI, nos termos do n.º 7.1 da [Resolução do Conselho de Ministros n.º 162/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2008-438714), de 2 de outubro, publicada no Diário da República, 1.ª série, n.º 207, de 24 de outubro de 2008, que funciona na direta dependência do Secretário-Geral, o acompanhamento e controlo da prestação e atualização da informação sobre o parque imóvel afeto aos Serviços da AI, e assegurar o desenvolvimento de outras atribuições que, no âmbito do seu quadro de intervenção, lhe forem superiormente cometidas, devendo a sua constituição ser fixada por despacho do Ministro da Administração Interna.
+
+###### Artigo 22.º — Disposições finais
+
+1 - O presente despacho produz efeitos à data da sua assinatura.
+
+2 - São revogados os [Despacho n.º 15128-A/2014](https://diariodarepublica.pt/dr/detalhe/despacho/15128-a-2014-64359557), de 12 de dezembro de 2014, publicado no Diário da República, 2.º suplemento, 2.ª série, n.º 240, de 12 de dezembro de 2014 e [Despacho n.º 9764/2017](https://diariodarepublica.pt/dr/detalhe/despacho/9764-2017-114163974), de 26 de outubro de 2017, publicado no Diário da República, 2.ª série, n.º 216, de 9 de novembro de 2017.
+
+17 de janeiro de 2018. - O Secretário-Geral, Carlos Palma.
+
+311067592

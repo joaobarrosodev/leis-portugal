@@ -1,0 +1,926 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286078:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34465475",
+ "dre_path": "/dr/detalhe/decreto-lei/95-2006-286078",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51765975",
+    "44768975",
+    "44769075",
+    "44769175",
+    "44769275",
+    "44769375",
+    "44769475",
+    "44769575",
+    "44769675",
+    "44769775",
+    "44769875",
+    "44769975",
+    "44770075",
+    "44770175",
+    "44770275",
+    "44770375",
+    "44770475",
+    "44770575",
+    "44770675",
+    "44770775",
+    "44770875",
+    "44770975",
+    "44771075",
+    "44771175",
+    "44771275",
+    "44771375",
+    "44771475",
+    "44771575",
+    "44771675",
+    "44771775",
+    "44771875",
+    "44771975",
+    "44772075",
+    "44772175",
+    "44772275",
+    "44772375",
+    "44772475",
+    "44772575",
+    "44772675",
+    "44772775",
+    "44772875",
+    "44772975",
+    "44773075",
+    "44773175",
+    "44773275",
+    "44773375",
+    "44773475",
+    "44773575",
+    "44773675",
+    "44773775",
+    "44773875",
+    "44773975",
+    "44774075",
+    "44774175",
+    "44774275",
+    "44774375",
+    "44774475"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483411:por",
+     "title": "Decreto-Lei n.º 317/2009",
+     "published": "2009-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/317-2009-483411"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 35.º",
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 41.º"
+   ],
+   "fragments": [
+    "51761875",
+    "44768975",
+    "44769075",
+    "44769175",
+    "51760875",
+    "44769375",
+    "44769475",
+    "44769575",
+    "44769675",
+    "44769775",
+    "44769875",
+    "44769975",
+    "44770075",
+    "44770175",
+    "44770275",
+    "44770375",
+    "44770475",
+    "44770575",
+    "44770675",
+    "44770775",
+    "44770875",
+    "51761175",
+    "44771075",
+    "44771175",
+    "44771275",
+    "44771375",
+    "44771475",
+    "44771575",
+    "44771675",
+    "44771775",
+    "44771875",
+    "44771975",
+    "44772075",
+    "44772175",
+    "44772275",
+    "44772375",
+    "44772475",
+    "44772575",
+    "44772675",
+    "44772775",
+    "44772875",
+    "44772975",
+    "44773075",
+    "44773175",
+    "51761575",
+    "44773375",
+    "44773475",
+    "44773575",
+    "44773675",
+    "44773775",
+    "44773875",
+    "44773975",
+    "44774075",
+    "51761675",
+    "44774275",
+    "44774375",
+    "44774475",
+    "44774575"
+   ]
+  },
+  {
+   "date": "2011-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670368:por",
+     "title": "Lei n.º 46/2011",
+     "published": "2011-06-24",
+     "dre_path": "/dr/detalhe/lei/46-2011-670368"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 38.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51765975",
+    "44768975",
+    "44769075",
+    "44769175",
+    "51760875",
+    "44769375",
+    "44769475",
+    "44769575",
+    "44769675",
+    "44769775",
+    "44769875",
+    "44769975",
+    "44770075",
+    "44770175",
+    "44770275",
+    "44770375",
+    "44770475",
+    "44770575",
+    "44770675",
+    "44770775",
+    "44770875",
+    "51761175",
+    "44771075",
+    "44771175",
+    "44771275",
+    "44771375",
+    "44771475",
+    "44771575",
+    "44771675",
+    "44771775",
+    "44771875",
+    "44771975",
+    "44772075",
+    "44772175",
+    "44772275",
+    "44772375",
+    "44772475",
+    "44772575",
+    "44772675",
+    "44772775",
+    "44772875",
+    "44772975",
+    "44773075",
+    "44773175",
+    "51761575",
+    "44773375",
+    "44773475",
+    "44773575",
+    "51765775",
+    "44773775",
+    "44773875",
+    "44773975",
+    "44774075",
+    "51761675",
+    "44774275",
+    "44774375",
+    "44774475",
+    "44774575"
+   ]
+  },
+  {
+   "date": "2012-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553919:por",
+     "title": "Lei n.º 14/2012",
+     "published": "2012-03-26",
+     "dre_path": "/dr/detalhe/lei/14-2012-553919"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "51765975",
+    "44768975",
+    "44769075",
+    "44769175",
+    "51760875",
+    "44769375",
+    "44769475",
+    "44769575",
+    "44769675",
+    "44769775",
+    "44769875",
+    "44769975",
+    "44770075",
+    "44770175",
+    "44770275",
+    "44770375",
+    "44770475",
+    "44770575",
+    "44770675",
+    "44770775",
+    "44770875",
+    "51761175",
+    "44771075",
+    "44771175",
+    "53033075",
+    "44771375",
+    "44771475",
+    "44771575",
+    "44771675",
+    "44771775",
+    "44771875",
+    "44771975",
+    "44772075",
+    "44772175",
+    "44772275",
+    "44772375",
+    "44772475",
+    "44772575",
+    "44772675",
+    "44772775",
+    "44772875",
+    "44772975",
+    "44773075",
+    "44773175",
+    "51761575",
+    "44773375",
+    "44773475",
+    "44773575",
+    "51765775",
+    "44773775",
+    "44773875",
+    "44773975",
+    "44774075",
+    "51761675",
+    "44774275",
+    "44774375",
+    "44774475",
+    "44774575"
+   ]
+  },
+  {
+   "date": "2012-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191534:por",
+     "title": "Decreto-Lei n.º 242/2012",
+     "published": "2012-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/242-2012-191534"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "51765975",
+    "44768975",
+    "44769075",
+    "44769175",
+    "53050075",
+    "44769375",
+    "44769475",
+    "44769575",
+    "44769675",
+    "44769775",
+    "44769875",
+    "44769975",
+    "44770075",
+    "44770175",
+    "44770275",
+    "44770375",
+    "44770475",
+    "44770575",
+    "44770675",
+    "44770775",
+    "44770875",
+    "51761175",
+    "44771075",
+    "44771175",
+    "53033075",
+    "44771375",
+    "44771475",
+    "44771575",
+    "44771675",
+    "44771775",
+    "44771875",
+    "44771975",
+    "44772075",
+    "44772175",
+    "44772275",
+    "44772375",
+    "44772475",
+    "44772575",
+    "44772675",
+    "44772775",
+    "44772875",
+    "44772975",
+    "44773075",
+    "44773175",
+    "51761575",
+    "44773375",
+    "44773475",
+    "44773575",
+    "51765775",
+    "44773775",
+    "44773875",
+    "44773975",
+    "44774075",
+    "51761675",
+    "44774275",
+    "44774375",
+    "44774475",
+    "44774575"
+   ]
+  }
+ ],
+ "fragments": {
+  "51765975": {
+   "fragment_id": "35085275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-06-29",
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 143/2001, de 26 de Abril, procedeu à transposição para a ordem jurídica nacional da Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0007\" title=\"Link para Directiva da Comunidade Europeia\">97/7/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Maio, relativa à protecção dos consumidores em matéria de contratos celebrados à distância, estabelecendo o regime jurídico aplicável à generalidade dos bens e serviços. Contudo, os serviços financeiros foram expressamente excluídos do âmbito de aplicação daquele diploma, pelo que surge a necessidade de consagrar um regime específico para os contratos à distância relativos a serviços financeiros. O presente decreto-lei vem, assim, transpor para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0065\" title=\"Link para Directiva da Comunidade Europeia\">2002/65/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Setembro, relativa à comercialização à distância de serviços financeiros prestados a consumidores.\n\nO presente decreto-lei introduz, por um lado, deveres de informação pré-contratual específicos para os prestadores de serviços financeiros à distância, sem prejuízo de lhes impor que essa informação e os termos do contrato sejam depois comunicados, em papel, ao consumidor, ou noutros suporte duradouros, antes de este ficar vinculado pelo contrato. Por suporte duradouro entende-se, nomeadamente, disquetes informáticas, CD-ROM, DVD, bem como o disco duro do computador que armazene o correio electrónico.\n\nPor outro lado, o consumidor tem o direito de resolver, num determinado prazo, o contrato celebrado à distância, sem necessidade de invocar qualquer causa que justifique essa resolução e sem que haja lugar, por isso, a qualquer penalização do consumidor. Este direito de livre resolução em nada prejudica a aplicação do regime geral de resolução de contratos. O direito de livre resolução não é, contudo, aplicável a algumas situações, designadamente quando o contrato implica a prestação de serviços financeiros que incidem sobre instrumentos cujo preço dependa de flutuações do mercado, tais como os serviços relacionados com operações cambiais, instrumentos do mercado monetário, valores mobiliários, unidades de participação em organismos de investimento colectivo, futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, contratos a prazo relativos a taxas de juro, swaps de taxa de juro, de divisas ou de fluxos ligados a acções ou índices de acções (equity swaps), opções de compra ou de venda de qualquer dos instrumentos referidos, incluindo os instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, nomeadamente operações sobre divisas e sobre taxas de juro.\n\nO direito de livre resolução não impede o consumidor de solicitar, antes da extinção do prazo do exercício do direito, o início da execução do contrato, caso em que fica obrigado ao pagamento dos serviços que lhe tenham sido efectivamente prestados. Considera-se, por exemplo, que no caso de ter sido celebrado um contrato de aquisição de cartão de crédito, a utilização do cartão pelo consumidor corresponde a um pedido de início de execução do contrato.\n\nPara se assegurar uma maior protecção do consumidor português, prevê-se a obrigatoriedade de utilização da língua portuguesa em toda a informação que lhe é dirigida, o que só pode ser dispensado mediante a aceitação, pelo consumidor, da utilização de outro idioma. Procurou-se ainda proteger o consumidor face a serviços ou comunicações não solicitados.\n\nPor seu turno, quando o contrato celebrado é um contrato de execução continuada (por exemplo, um contrato de abertura de conta bancária, um contrato de gestão de carteira, um contrato de registo e depósito ou um contrato de aquisição de um cartão de crédito), que implique a subsequente realização de operações de execução, o presente decreto-lei aplica-se apenas ao contrato quadro e não à execução de cada operação sucessiva feita no âmbito desse contrato (por exemplo, no caso da subscrição de novas unidades de participação do mesmo fundo de investimento colectivo, esta será considerada uma operação sucessiva da mesma natureza).\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nForam ainda ouvidos, a título facultativo, o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, o Instituto de Seguros de Portugal, o Instituto do Consumidor, a Associação Portuguesa de Bancos, a Associação Portuguesa de Seguradores, a Associação Portuguesa de Consumidores, a Federação Nacional das Cooperativas de Consumo, a União Geral dos Consumidores, a Associação de Sociedades Financeiras para Aquisições a Crédito, a Associação Portuguesa das Empresas de Factoring, a Associação Portuguesa das Empresas de Leasing e a Associação Portuguesa de Sociedades Gestoras de Patrimónios e de Fundos de Investimento.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nFoi ainda promovida a audição, a título facultativo, da Associação de Defesa dos Consumidores e da Associação Portuguesa de Sociedades Corretoras e Financeiras de Corretagem.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 3/2006, de 21 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "44768975": {
+   "fragment_id": "35324275",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "44769075": {
+   "fragment_id": "36627175",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "44769175": {
+   "fragment_id": "38199575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime aplicável à informação pré-contratual e aos contratos relativos a serviços financeiros prestados a consumidores através de meios de comunicação à distância pelos prestadores autorizados a exercer a sua actividade em Portugal.\n\n2 - O presente decreto-lei transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0065\" title=\"Link para Directiva da Comunidade Europeia\">2002/65/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Setembro, relativa a comercialização à distância de serviços financeiros prestados a consumidores e que altera as Directivas n.os <a href=\"eurlex.asp?ano=1990&id=390L0619\" title=\"Link para Directiva da Comunidade Europeia\">90/619/CEE</a>, do Conselho, de 8 de Novembro, <a href=\"eurlex.asp?ano=1997&id=397L0007\" title=\"Link para Directiva da Comunidade Europeia\">97/7/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Maio, e <a href=\"eurlex.asp?ano=1998&id=398L0027\" title=\"Link para Directiva da Comunidade Europeia\">98/27/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, por sua vez alterada pela Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0029\" title=\"Link para Directiva da Comunidade Europeia\">2005/29/CE</a>, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno."
+  },
+  "44769275": {
+   "fragment_id": "38199675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, considera-se:\n\na) «Contrato à distância» qualquer contrato cuja formação e conclusão sejam efectuadas exclusivamente através de meios de comunicação à distância, que se integrem num sistema de venda ou prestação de serviços organizados, com esse objectivo, pelo prestador;\n\nb) «Meio de comunicação à distância» qualquer meio de comunicação que possa ser utilizado sem a presença física e simultânea do prestador e do consumidor;\n\nc) «Serviços financeiros» qualquer serviço bancário, de crédito, de seguros, de investimento ou de pagamento e os relacionados com a adesão individual a fundos de pensões abertos;\n\nd) «Prestador de serviços financeiros» as instituições de crédito e sociedades financeiras, os intermediários financeiros em valores mobiliários, as empresas de seguros e resseguros, os mediadores de seguros e as sociedades gestoras de fundos de pensões;\n\ne) «Consumidor» qualquer pessoa singular que, nos contratos à distância, actue de acordo com objectivos que não se integrem no âmbito da sua actividade comercial ou profissional."
+  },
+  "44769375": {
+   "fragment_id": "38199775",
+   "type": 11,
+   "heading": "Artigo 3.º — Intermediários de serviços financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Intermediários de serviços financeiros\n\nAs disposições do presente decreto-lei aplicáveis aos prestadores de serviços financeiros são extensíveis, com as devidas adaptações, aos intermediários que actuem por conta daqueles, independentemente do seu estatuto jurídico e de estarem, ou não, dotados de poderes de representação."
+  },
+  "44769475": {
+   "fragment_id": "38199875",
+   "type": 11,
+   "heading": "Artigo 4.º — Contratos de execução continuada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contratos de execução continuada\n\n1 - Nos contratos que compreendam um acordo inicial de prestação do serviço financeiro e a subsequente realização de operações de execução continuada, as disposições do presente decreto-lei aplicam-se apenas ao acordo inicial.\n\n2 - Quando não exista um acordo inicial de prestação do serviço financeiro mas este se traduza na realização de operações de execução continuada, os artigos 13.º a 18.º aplicam-se apenas à primeira daquelas operações.\n\n3 - Sempre que decorra um período superior a um ano entre as operações referidas no número anterior, os artigos 13.º a 18.º são aplicáveis à primeira operação realizada após tal intervalo de tempo."
+  },
+  "44769575": {
+   "fragment_id": "38199975",
+   "type": 11,
+   "heading": "Artigo 5.º — Irrenunciabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Irrenunciabilidade\n\nO consumidor não pode renunciar aos direitos que lhe são conferidos pelo presente decreto-lei."
+  },
+  "44769675": {
+   "fragment_id": "36627275",
+   "type": 1,
+   "heading": "Capítulo II — Utilização de meios de comunicação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Utilização de meios de comunicação à distância"
+  },
+  "44769775": {
+   "fragment_id": "38200075",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração do meio de comunicação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração do meio de comunicação à distância\n\nO consumidor pode, em qualquer momento da relação contratual, alterar o meio de comunicação à distância utilizado, desde que essa alteração seja compatível com o contrato celebrado ou com a natureza do serviço financeiro prestado."
+  },
+  "44769875": {
+   "fragment_id": "38200175",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços financeiros não solicitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços financeiros não solicitados\n\n1 - É proibida a prestação de serviços financeiros à distância que incluam um pedido de pagamento, imediato ou diferido, ao consumidor que os não tenha prévia e expressamente solicitado.\n\n2 - O consumidor a quem sejam prestados serviços financeiros não solicitados não fica sujeito a qualquer obrigação relativamente a esses serviços, nomeadamente de pagamento, considerando-se os serviços prestados a título gratuito.\n\n3 - O silêncio do consumidor não vale como consentimento para efeitos do número anterior.\n\n4 - O disposto nos números anteriores não prejudica o regime da renovação tácita dos contratos."
+  },
+  "44769975": {
+   "fragment_id": "38200275",
+   "type": 11,
+   "heading": "Artigo 8.º — Comunicações não solicitadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comunicações não solicitadas\n\n1 - O envio de mensagens relativas à prestação de serviços financeiros à distância cuja recepção seja independente da intervenção do destinatário, nomeadamente por via de sistemas automatizados de chamada, por telecópia ou por correio electrónico, carece do consentimento prévio do consumidor.\n\n2 - O envio de mensagens mediante a utilização de outros meios de comunicação à distância que permitam uma comunicação individual apenas pode ter lugar quando não haja oposição do consumidor manifestada nos termos previstos em legislação ou regulamentação especiais.\n\n3 - As comunicações a que se referem os números anteriores, bem como a emissão ou recusa de consentimento prévio, não podem gerar quaisquer custos para o consumidor."
+  },
+  "44770075": {
+   "fragment_id": "38200375",
+   "type": 11,
+   "heading": "Artigo 9.º — Idioma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Idioma\n\n1 - Sempre que o consumidor seja português, a informação pré-contratual, os termos do contrato à distância e todas as demais comunicações relativas ao contrato são efectuadas em língua portuguesa, excepto quando o consumidor aceite a utilização de outro idioma.\n\n2 - Nas demais situações, o prestador deve indicar ao consumidor o idioma ou idiomas em que é transmitida a informação pré-contratual, os termos do contrato à distância e as demais comunicações relativas ao contrato."
+  },
+  "44770175": {
+   "fragment_id": "38200475",
+   "type": 11,
+   "heading": "Artigo 10.º — Ónus da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ónus da prova\n\n1 - A prova do cumprimento da obrigação de informação ao consumidor, assim como do consentimento deste em relação à celebração do contrato e, sendo caso disso, à sua execução, compete ao prestador.\n\n2 - São proibidas as cláusulas que determinem que cabe ao consumidor o ónus da prova do cumprimento da totalidade ou de parte das obrigações do prestador referidas no número anterior."
+  },
+  "44770275": {
+   "fragment_id": "35324375",
+   "type": 13,
+   "heading": "Título II — Informação pré-contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Informação pré-contratual"
+  },
+  "44770375": {
+   "fragment_id": "36627375",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma e momento da prestação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma e momento da prestação da informação\n\n1 - A informação constante do presente título e os termos do contrato devem ser comunicados em papel ou noutro suporte duradouro disponível e acessível ao consumidor, em tempo útil e antes de este ficar vinculado por uma proposta ou por um contrato à distância.\n\n2 - Considera-se suporte duradouro aquele que permita armazenar a informação dirigida pessoalmente ao consumidor, possibilitando no futuro, durante o período de tempo adequado aos fins a que a informação se destina, um acesso fácil à mesma e a sua reprodução inalterada.\n\n3 - Se a iniciativa da celebração do contrato partir do consumidor e o meio de comunicação à distância escolhido por este não permitir a transmissão da informação e dos termos do contrato de acordo com o n.º 1, o prestador deve cumprir estas obrigações imediatamente após a celebração do mesmo.\n\n4 - O consumidor pode, a qualquer momento da relação contratual, exigir que lhe sejam fornecidos os termos do contrato em suporte de papel."
+  },
+  "44770475": {
+   "fragment_id": "36627475",
+   "type": 11,
+   "heading": "Artigo 12.º — Clareza da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Clareza da informação\n\nA informação constante do presente título deve identificar, de modo inequívoco, os objectivos comerciais do prestador e ser prestada de modo claro e perceptível, de forma adaptada ao meio de comunicação à distância utilizado e com observância dos princípios da boa fé."
+  },
+  "44770575": {
+   "fragment_id": "36627575",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação relativa ao prestador de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação relativa ao prestador de serviços\n\nDeve ser prestada ao consumidor a seguinte informação relativa ao prestador do serviço:\n\na) Identidade e actividade principal do prestador, sede ou domicílio profissional onde se encontra estabelecido e qualquer outro endereço geográfico relevante para as relações com o consumidor;\n\nb) Identidade do eventual representante do prestador no Estado membro da União Europeia de residência do consumidor e endereço geográfico relevante para as relações do consumidor com o representante;\n\nc) Identidade do profissional diferente do prestador com quem o consumidor tenha relações comerciais, se existir, a qualidade em que este se relaciona com o consumidor e o endereço geográfico relevante para as relações do consumidor com esse profissional;\n\nd) Número de matrícula na conservatória do registo comercial ou outro registo público equivalente no qual o prestador se encontre inscrito com indicação do respectivo número de registo ou forma de identificação equivalente nesse registo;\n\ne) Indicação da sujeição da actividade do prestador a um regime de autorização necessária e identificação da respectiva autoridade de supervisão."
+  },
+  "44770675": {
+   "fragment_id": "36627675",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação relativa ao serviço financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação relativa ao serviço financeiro\n\nDeve ser prestada ao consumidor a seguinte informação sobre o serviço financeiro:\n\na) Descrição das principais características do serviço financeiro;\n\nb) Preço total devido pelo consumidor ao prestador pelo serviço financeiro, incluindo o conjunto das comissões, encargos e despesas inerentes e todos os impostos pagos através do prestador ou, não podendo ser indicado um preço exacto, a base de cálculo do preço que permita a sua verificação pelo consumidor;\n\nc) Indicação da eventual existência de outros impostos ou custos que não sejam pagos através do prestador ou por ele facturados;\n\nd) Custos adicionais decorrentes, para o consumidor, da utilização de meios de comunicação à distância, quando estes custos adicionais sejam facturados;\n\ne) Período de validade das informações prestadas;\n\nf) Instruções relativas ao pagamento;\n\ng) Indicação de que o serviço financeiro está associado a instrumentos que impliquem riscos especiais relacionados com as suas características ou com as operações a executar;\n\nh) Indicação de que o preço depende de flutuações dos mercados financeiros fora do controlo do prestador e que os resultados passados não são indicativos dos resultados futuros."
+  },
+  "44770775": {
+   "fragment_id": "36627775",
+   "type": 11,
+   "heading": "Artigo 15.º — Informação relativa ao contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Informação relativa ao contrato\n\n1 - Deve ser prestada ao consumidor a seguinte informação relativa ao contrato à distância:\n\na) A existência ou inexistência do direito de livre resolução previsto no artigo 19.º, com indicação da respectiva duração, das condições de exercício, do montante que pode ser exigido ao consumidor nos termos dos artigos 24.º e 25.º e das consequências do não exercício de tal direito;\n\nb) As instruções sobre o exercício do direito de livre resolução, designadamente quanto ao endereço, geográfico ou electrónico, para onde deve ser enviada a notificação deste;\n\nc) A indicação do Estado membro da União Europeia ao abrigo de cuja lei o prestador estabelece relações com o consumidor antes da celebração do contrato à distância;\n\nd) A duração mínima do contrato à distância, tratando-se de contratos de execução permanente ou periódica;\n\ne) Os direitos das partes em matéria de resolução antecipada ou unilateral do contrato à distância, incluindo as eventuais penalizações daí decorrentes;\n\nf) A lei aplicável ao contrato à distância e o tribunal competente previstos nas cláusulas contratuais.\n\n2 - A informação sobre obrigações contratuais a comunicar ao consumidor na fase pré-contratual deve ser conforme à lei presumivelmente aplicável ao contrato à distância."
+  },
+  "44770875": {
+   "fragment_id": "36627875",
+   "type": 11,
+   "heading": "Artigo 16.º — Informação sobre mecanismos de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Informação sobre mecanismos de protecção\n\nDeve ser prestada ao consumidor informação relativa aos seguintes mecanismos de protecção:\n\na) Sistemas de indemnização aos investidores e de garantia de depósitos;\n\nb) Existência ou inexistência de meios extrajudiciais de resolução de litígios e respectivo modo de acesso."
+  },
+  "44770975": {
+   "fragment_id": "36627975",
+   "type": 11,
+   "heading": "Artigo 17.º — Informação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Informação adicional\n\nO disposto no presente título não prejudica os requisitos de informação prévia adicional previstos na legislação reguladora dos serviços financeiros, a qual deve ser prestada nos termos do n.º 1 do artigo 11.º"
+  },
+  "44771075": {
+   "fragment_id": "36628075",
+   "type": 11,
+   "heading": "Artigo 18.º — Comunicações por telefonia vocal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comunicações por telefonia vocal\n\n1 - Quando o contacto com o consumidor seja estabelecido por telefonia vocal, o prestador deve indicar inequivocamente, no início da comunicação, a sua identidade e o objectivo comercial do contacto.\n\n2 - Perante o consentimento expresso do consumidor, o prestador apenas está obrigado à transmissão da seguinte informação:\n\na) Identidade da pessoa que contacta com o consumidor e a sua relação com o prestador;\n\nb) Descrição das principais características do serviço financeiro;\n\nc) Preço total a pagar ao prestador pelo serviço financeiro, incluindo todos os impostos pagos através do prestador, ou, quando não possa ser indicado um preço exacto, a base para o cálculo do preço que permita a sua verificação pelo consumidor;\n\nd) Indicação da eventual existência de outros impostos ou custos que não sejam pagos através do prestador ou por ele facturados;\n\ne) Existência ou inexistência do direito de livre resolução previsto no artigo 19.º, com indicação, quando o mesmo exista, da respectiva duração, das condições de exercício e do montante que pode ser exigido ao consumidor nos termos dos artigos 24.º e 25.\n\n3 - O prestador deve ainda comunicar ao consumidor a existência de outras informações e respectiva natureza que, nesse momento, lhe podem ser prestadas, caso este o pretenda.\n\n4 - O disposto nos números anteriores não prejudica o dever de o prestador transmitir posteriormente ao consumidor toda a informação prevista no presente título, nos termos do artigo 11.º"
+  },
+  "44771175": {
+   "fragment_id": "35324475",
+   "type": 13,
+   "heading": "Título III — Direito de livre resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Direito de livre resolução"
+  },
+  "44771275": {
+   "fragment_id": "36628175",
+   "type": 11,
+   "heading": "Artigo 19.º — Livre resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Livre resolução\n\nO consumidor tem o direito de resolver livremente o contrato à distância, sem necessidade de indicação do motivo e sem que possa haver lugar a qualquer pedido de indemnização ou penalização do consumidor."
+  },
+  "44771375": {
+   "fragment_id": "36628275",
+   "type": 11,
+   "heading": "Artigo 20.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Prazo\n\n1 - O prazo de exercício do direito de livre resolução é de 14 dias, excepto para contratos de seguro de vida e relativos à adesão individual a fundos de pensões abertos, em que o prazo é de 30 dias.\n\n2 - O prazo para o exercício do direito de livre resolução conta-se a partir da data da celebração do contrato à distância, ou da data da recepção, pelo consumidor, dos termos do mesmo e das informações, de acordo com o n.º 3 do artigo 11.º, se esta for posterior.\n\n3 - No caso de contrato à distância relativo a seguro de vida, o prazo para a livre resolução conta-se a partir da data em que o tomador for informado da celebração do mesmo."
+  },
+  "44771475": {
+   "fragment_id": "36628375",
+   "type": 11,
+   "heading": "Artigo 21.º — Exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exercício\n\n1 - A livre resolução deve ser notificada ao prestador por meio susceptível de prova e de acordo com as instruções prestadas nos termos da alínea b) do n.º 1 do artigo 15.º\n\n2 - A notificação feita em suporte de papel ou outro meio duradouro disponível e acessível ao destinatário considera-se tempestivamente efectuada se for enviada até ao último dia do prazo, inclusive."
+  },
+  "44771575": {
+   "fragment_id": "36628475",
+   "type": 11,
+   "heading": "Artigo 22.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Excepções\n\nO direito de livre resolução previsto neste decreto-lei não é aplicável às seguintes situações:\n\na) Prestação de serviços financeiros que incidam sobre instrumentos cujo preço dependa de flutuações do mercado, insusceptíveis de controlo pelo prestador e que possam ocorrer no período de livre resolução;\n\nb) Seguros de viagem e de bagagem;\n\nc) Seguros de curto prazo, de duração inferior a um mês;\n\nd) Contratos de crédito destinados à aquisição, construção, conservação ou beneficiação de bens imóveis;\n\ne) Contratos de crédito garantidos por direito real que onere bens imóveis;\n\nf) Contratos de crédito para financiamento, total ou parcial, do custo de aquisição de um bem ou serviço cujo fornecedor tenha um acordo com o prestador do serviço financeiro, sempre que ocorra a resolução do contrato de crédito, nos termos do n.º 3 do artigo 8.º do Decreto-Lei n.º 143/2001, de 26 de Abril;\n\ng) Contratos de crédito para financiamento, total ou parcial, do custo de aquisição de um direito de utilização a tempo parcial de bens imóveis, cujo vendedor tenha um acordo com o prestador do serviço financeiro, sempre que ocorra a resolução do contrato de crédito nos termos do n.º 6 do artigo 16.º e do n.º 2 do artigo 49.º do Decreto-Lei n.º 275/93, de 5 de Agosto."
+  },
+  "44771675": {
+   "fragment_id": "36628575",
+   "type": 11,
+   "heading": "Artigo 23.º — Caducidade pelo não exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Caducidade pelo não exercício\n\nO direito de livre resolução caduca quando o contrato tiver sido integralmente cumprido, a pedido expresso do consumidor, antes de esgotado o prazo para o respectivo exercício."
+  },
+  "44771775": {
+   "fragment_id": "36628675",
+   "type": 11,
+   "heading": "Artigo 24.º — Efeitos do exercício do direito de livre resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Efeitos do exercício do direito de livre resolução\n\n1 - O exercício do direito de livre resolução extingue as obrigações e direitos decorrentes do contrato ou operação, com efeitos a partir da sua celebração.\n\n2 - Nos casos em que o prestador tenha recebido quaisquer quantias a título de pagamento dos serviços, fica obrigado a restituí-las ao consumidor no prazo de 30 dias contados da recepção da notificação da livre resolução.\n\n3 - O consumidor restitui ao prestador quaisquer quantias ou bens dele recebidos no prazo de 30 dias contados do envio da notificação da livre resolução.\n\n4 - O disposto nos números anteriores e no artigo seguinte não prejudica o regime do direito de renúncia previsto para os contratos de seguros e de adesão individual a fundos de pensões abertos."
+  },
+  "44771875": {
+   "fragment_id": "36628775",
+   "type": 11,
+   "heading": "Artigo 25.º — Início da execução do contrato no prazo de livre resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Início da execução do contrato no prazo de livre resolução\n\n1 - O consumidor não está obrigado ao pagamento correspondente ao serviço efectivamente prestado antes do termo do prazo de livre resolução.\n\n2 - Exceptuam-se os casos em que o consumidor tenha pedido o início da execução do contrato antes do termo do prazo de livre resolução, caso em que o consumidor está obrigado a pagar ao prestador, no mais curto prazo possível, o valor dos serviços efectivamente prestados em montante não superior ao valor proporcional dos mesmos no quadro das operações contratadas.\n\n3 - O pagamento referido no número anterior só pode ser exigido caso o prestador prove que informou o consumidor do montante a pagar, nos termos da alínea a) do n.º 1 do artigo 15.º"
+  },
+  "44771975": {
+   "fragment_id": "35324575",
+   "type": 13,
+   "heading": "Título IV — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Fiscalização"
+  },
+  "44772075": {
+   "fragment_id": "36628875",
+   "type": 11,
+   "heading": "Artigo 26.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entidades competentes\n\n1 - O Banco de Portugal, a Comissão do Mercado de Valores Mobiliários e o Instituto de Seguros de Portugal são competentes, no âmbito das respectivas atribuições, para a fiscalização do cumprimento das normas do presente decreto-lei.\n\n2 - O disposto no número anterior não prejudica as atribuições próprias do Instituto do Consumidor em matéria de publicidade."
+  },
+  "44772175": {
+   "fragment_id": "36628975",
+   "type": 11,
+   "heading": "Artigo 27.º — Legitimidade activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Legitimidade activa\n\nSem prejuízo das competências do Ministério Público no âmbito da acção inibitória, podem requerer a apreciação da conformidade da actuação de um prestador de serviços financeiros à distância com o presente decreto-lei, judicialmente ou perante a entidade competente, para além dos consumidores, as seguintes entidades:\n\na) Entidades públicas;\n\nb) Organizações de defesa de consumidores, incluindo associações de defesa de investidores;\n\nc) Organizações profissionais que tenham um interesse legítimo em agir."
+  },
+  "44772275": {
+   "fragment_id": "36629075",
+   "type": 11,
+   "heading": "Artigo 28.º — Prestadores de meios de comunicação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prestadores de meios de comunicação à distância\n\n1 - Os prestadores de meios de comunicação à distância devem pôr termo às práticas declaradas desconformes com o presente decreto-lei pelos tribunais ou entidades competentes e que por estes lhes tenham sido notificadas.\n\n2 - São prestadores de meios de comunicação à distância as pessoas singulares ou colectivas, privadas ou públicas, cuja actividade comercial ou profissional consista em pôr à disposição dos prestadores de serviços financeiros à distância um ou mais meios de comunicação à distância."
+  },
+  "44772375": {
+   "fragment_id": "36629175",
+   "type": 11,
+   "heading": "Artigo 29.º — Resolução extrajudicial de litígios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Resolução extrajudicial de litígios\n\n1 - Os litígios emergentes da prestação à distância de serviços financeiros a consumidores podem ser submetidos aos meios extrajudiciais de resolução de litígios que, para o efeito, venham a ser criados.\n\n2 - A entidade responsável pela resolução extrajudicial dos litígios referidos no número anterior deve, sempre que o litígio tenha carácter transfronteiriço, cooperar com as entidades dos outros Estados membros da União Europeia que desempenhem funções análogas."
+  },
+  "44772475": {
+   "fragment_id": "35324675",
+   "type": 13,
+   "heading": "Título V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Regime sancionatório"
+  },
+  "44772575": {
+   "fragment_id": "36629275",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "44772675": {
+   "fragment_id": "38200575",
+   "type": 11,
+   "heading": "Artigo 30.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Responsabilidade\n\n1 - Pela prática das contra-ordenações previstas no presente título podem ser responsabilizados, conjuntamente ou não, pessoas singulares ou colectivas, ainda que irregularmente constituídas.\n\n2 - As pessoas colectivas são responsáveis pelas contra-ordenações previstas neste título quando os factos tenham sido praticados, no exercício das respectivas funções ou em seu nome ou por sua conta, pelos titulares dos seus órgãos sociais, mandatários, representantes ou trabalhadores.\n\n3 - A responsabilidade da pessoa colectiva não preclude a responsabilidade individual dos respectivos agentes.\n\n4 - Não obsta à responsabilidade individual dos agentes a circunstância de o tipo legal da infracção exigir determinados elementos pessoais e estes só se verificarem na pessoa colectiva, ou exigir que o agente pratique o facto no seu interesse, tendo aquele actuado no interesse de outrem.\n\n5 - A invalidade e a ineficácia jurídicas dos actos em que se funde a relação entre o agente individual e a pessoa colectiva não obstam a que seja aplicado o disposto nos números anteriores."
+  },
+  "44772775": {
+   "fragment_id": "38200675",
+   "type": 11,
+   "heading": "Artigo 31.º — Tentativa e negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Tentativa e negligência\n\n1 - A tentativa e a negligência são sempre puníveis.\n\n2 - A sanção da tentativa é a do ilícito consumado, especialmente atenuada.\n\n3 - Em caso de negligência, os limites máximos e mínimos da coima são reduzidos a metade.\n\n4 - A atenuação da responsabilidade do agente individual nos termos dos números anteriores comunica-se à pessoa colectiva."
+  },
+  "44772875": {
+   "fragment_id": "38200775",
+   "type": 11,
+   "heading": "Artigo 32.º — Cumprimento do dever omitido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Cumprimento do dever omitido\n\n1 - Sempre que o ilícito de mera ordenação social resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível.\n\n2 - O infractor pode ser sujeito à injunção de cumprir o dever omitido."
+  },
+  "44772975": {
+   "fragment_id": "38200875",
+   "type": 11,
+   "heading": "Artigo 33.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Prescrição\n\n1 - O procedimento pelos ilícitos de mera ordenação social previstos neste decreto-lei prescreve no prazo de cinco anos, nos termos do regime geral dos ilícitos de mera ordenação social.\n\n2 - As sanções prescrevem no prazo de um ou três anos a contar do dia em que a decisão administrativa se tornar definitiva ou do dia em que a decisão judicial transitar em julgado, nos termos do regime geral dos ilícitos de mera ordenação social."
+  },
+  "44773075": {
+   "fragment_id": "38200975",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direito subsidiário\n\nEm tudo o que não se encontrar especialmente previsto no presente título é subsidiariamente aplicável o disposto no regime sancionatório do sector financeiro em que o ilícito foi praticado e, quando tal se revelar necessário, no regime geral dos ilícitos de mera ordenação social."
+  },
+  "44773175": {
+   "fragment_id": "36629375",
+   "type": 1,
+   "heading": "Capítulo II — Ilícitos de mera ordenação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ilícitos de mera ordenação social"
+  },
+  "44773275": {
+   "fragment_id": "38201075",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\nConstituem contra-ordenação, punível com coima de (euro) 2500 a (euro) 1500000, se praticada por pessoa colectiva, e de (euro) 1250 a (euro) 750000, se praticada por pessoa singular, as seguintes condutas:\n\na) A prestação de serviços financeiros não solicitados, nos termos previstos no artigo 7.º;\n\nb) O envio de comunicações não solicitadas, em infracção ao disposto no artigo 8.º;\n\nc) A prestação de informação que não preencha os requisitos previstos nos artigos 11.º e 12.º;\n\nd) O incumprimento dos deveres específicos de informação previstos nos artigos 9.º, 13.º a 16.º e 18.º;\n\ne) A prática de actos que, por qualquer forma, dificultem ou impeçam o regular exercício do direito de resolução contratual previsto nos artigos 19.º e seguintes ou a imposição de quaisquer indemnizações ou penalizações ao consumidor que, nos termos do presente decreto-lei, tenha exercido tal direito;\n\nf) A não restituição pelo prestador das quantias recebidas a título de pagamento de serviços dentro do prazo previsto no n.º 2 do artigo 24.º;\n\ng) A cobrança de valores ao consumidor que exerça o direito de livre resolução, em violação do disposto no artigo 25.º;\n\nh) O não cumprimento do dever de obediência dos prestadores de meios de comunicação à distância previsto no n.º 1 do artigo 28.º;\n\ni) O não cumprimento da injunção prevista no n.º 2 do artigo 32.º;\n\nj) A não restituição de quantias debitadas ao titular de cartão electrónico dentro do prazo previsto no n.º 2 do artigo 41.º"
+  },
+  "44773375": {
+   "fragment_id": "38201175",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sanções acessórias\n\nConjuntamente com as coimas, podem ser aplicadas ao responsável por qualquer das contra-ordenações previstas no artigo anterior as seguintes sanções acessórias em função da gravidade da infracção e da culpa do agente:\n\na) Apreensão e perda do objecto da infracção, incluindo o produto do benefício económico obtido pelo infractor através da sua prática;\n\nb) Interdição do exercício da profissão ou da actividade a que a contra-ordenação respeita, por um período até três anos;\n\nc) Inibição do exercício de cargos sociais e de funções de administração, direcção, chefia e fiscalização em pessoas colectivas que, nos termos do presente decreto-lei, sejam prestadoras de serviços financeiros, por um período até três anos;\n\nd) Publicação da punição definitiva, a expensas do infractor, num jornal de larga difusão na localidade da sede ou do estabelecimento permanente do infractor ou, se este for uma pessoa singular, na da sua residência."
+  },
+  "44773475": {
+   "fragment_id": "36629475",
+   "type": 1,
+   "heading": "Capítulo III — Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições processuais"
+  },
+  "44773575": {
+   "fragment_id": "38201275",
+   "type": 11,
+   "heading": "Artigo 37.º — Competência das autoridades administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Competência das autoridades administrativas\n\nSem prejuízo das competências específicas atribuídas por lei a outras entidades, a competência para o processamento das contra-ordenações previstas no presente título e para a aplicação das respectivas sanções é do Banco de Portugal, da Comissão do Mercado de Valores Mobiliários ou do Instituto de Seguros de Portugal, consoante o sector financeiro no âmbito do qual tenha sido praticada a infracção."
+  },
+  "44773675": {
+   "fragment_id": "38201375",
+   "type": 11,
+   "heading": "Artigo 38.º — Competência judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competência judicial\n\nO tribunal competente para conhecer a impugnação judicial, a revisão e a execução das decisões proferidas em processo de contra-ordenação instaurado nos termos do presente título é o Tribunal de Pequena Instância Criminal de Lisboa."
+  },
+  "44773775": {
+   "fragment_id": "35324775",
+   "type": 13,
+   "heading": "Título VI — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VI — Direito aplicável"
+  },
+  "44773875": {
+   "fragment_id": "36629575",
+   "type": 11,
+   "heading": "Artigo 39.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Direito subsidiário\n\nÀ informação pré-contratual e aos contratos de serviços financeiros prestados ou celebrados à distância são subsidiariamente aplicáveis, em tudo o que não estiver disposto no presente decreto-lei, os regimes legalmente previstos, designadamente nos seguintes diplomas:\n\na) Decreto-Lei n.º 7/2004, de 7 de Janeiro, relativo à prestação de serviços da sociedade da informação;\n\nb) Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, e respectivas alterações, para os serviços financeiros nele regulados."
+  },
+  "44773975": {
+   "fragment_id": "36629675",
+   "type": 11,
+   "heading": "Artigo 40.º — Aplicação imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Aplicação imediata\n\nA escolha pelas partes da lei de um Estado não comunitário como lei aplicável ao contrato não priva o consumidor da protecção que lhe garantem as disposições do presente decreto-lei."
+  },
+  "44774075": {
+   "fragment_id": "35324875",
+   "type": 13,
+   "heading": "Título VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VII — Disposições finais e transitórias"
+  },
+  "44774175": {
+   "fragment_id": "36629775",
+   "type": 11,
+   "heading": "Artigo 41.º — Utilização fraudulenta de cartão electrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Utilização fraudulenta de cartão electrónico\n\n1 - Nos casos de utilização fraudulenta de um cartão de crédito ou de débito para realização de pagamentos no âmbito de um serviço financeiro à distância, o titular do mesmo pode solicitar à entidade emissora ou gestora do cartão electrónico a anulação das operações de pagamento efectuadas.\n\n2 - Cessa o direito previsto no número anterior com o decurso do prazo de 30 dias sobre o conhecimento pelo consumidor da utilização fraudulenta em causa, competindo o respectivo ónus da prova à entidade emissora ou gestora do cartão electrónico.\n\n3 - A restituição ao legítimo titular do cartão das quantias que lhe foram debitadas deve ser efectuada no prazo máximo de 60 dias após a apresentação do pedido de anulação, através de crédito em conta ou por qualquer outro meio adequado.\n\n4 - O dever de restituição previsto no número anterior não prejudica o direito de regresso da entidade emissora ou gestora do cartão electrónico contra os autores da fraude ou contra o prestador do serviço, quando se demonstre que este conhecia ou, face às circunstâncias da operação, deveria conhecer a natureza fraudulenta do pagamento."
+  },
+  "44774275": {
+   "fragment_id": "36629875",
+   "type": 11,
+   "heading": "Artigo 42.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regime transitório\n\nAs normas do presente decreto-lei são aplicáveis aos prestadores estabelecidos em Estados membros da União Europeia que prestem serviços financeiros a consumidores residentes em Portugal, enquanto o direito interno daqueles Estados membros não previr obrigações correspondentes às constantes da Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0065\" title=\"Link para Directiva da Comunidade Europeia\">2002/65/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Setembro."
+  },
+  "44774375": {
+   "fragment_id": "36629975",
+   "type": 11,
+   "heading": "Artigo 43.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Aplicação no tempo\n\nO disposto no presente decreto-lei não se aplica aos contratos à distância de serviços financeiros celebrados com consumidores antes da sua entrada em vigor."
+  },
+  "44774475": {
+   "fragment_id": "36630075",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "51761875": {
+   "fragment_id": "35085275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "O Decreto-Lei n.º 143/2001, de 26 de Abril, procedeu à transposição para a ordem jurídica nacional da Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0007\" title=\"Link para Directiva da Comunidade Europeia\">97/7/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Maio, relativa à protecção dos consumidores em matéria de contratos celebrados à distância, estabelecendo o regime jurídico aplicável à generalidade dos bens e serviços. Contudo, os serviços financeiros foram expressamente excluídos do âmbito de aplicação daquele diploma, pelo que surge a necessidade de consagrar um regime específico para os contratos à distância relativos a serviços financeiros. O presente decreto-lei vem, assim, transpor para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0065\" title=\"Link para Directiva da Comunidade Europeia\">2002/65/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Setembro, relativa à comercialização à distância de serviços financeiros prestados a consumidores.\n\nO presente decreto-lei introduz, por um lado, deveres de informação pré-contratual específicos para os prestadores de serviços financeiros à distância, sem prejuízo de lhes impor que essa informação e os termos do contrato sejam depois comunicados, em papel, ao consumidor, ou noutros suporte duradouros, antes de este ficar vinculado pelo contrato. Por suporte duradouro entende-se, nomeadamente, disquetes informáticas, CD-ROM, DVD, bem como o disco duro do computador que armazene o correio electrónico.\n\nPor outro lado, o consumidor tem o direito de resolver, num determinado prazo, o contrato celebrado à distância, sem necessidade de invocar qualquer causa que justifique essa resolução e sem que haja lugar, por isso, a qualquer penalização do consumidor. Este direito de livre resolução em nada prejudica a aplicação do regime geral de resolução de contratos. O direito de livre resolução não é, contudo, aplicável a algumas situações, designadamente quando o contrato implica a prestação de serviços financeiros que incidem sobre instrumentos cujo preço dependa de flutuações do mercado, tais como os serviços relacionados com operações cambiais, instrumentos do mercado monetário, valores mobiliários, unidades de participação em organismos de investimento colectivo, futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, contratos a prazo relativos a taxas de juro, swaps de taxa de juro, de divisas ou de fluxos ligados a acções ou índices de acções (equity swaps), opções de compra ou de venda de qualquer dos instrumentos referidos, incluindo os instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, nomeadamente operações sobre divisas e sobre taxas de juro.\n\nO direito de livre resolução não impede o consumidor de solicitar, antes da extinção do prazo do exercício do direito, o início da execução do contrato, caso em que fica obrigado ao pagamento dos serviços que lhe tenham sido efectivamente prestados. Considera-se, por exemplo, que no caso de ter sido celebrado um contrato de aquisição de cartão de crédito, a utilização do cartão pelo consumidor corresponde a um pedido de início de execução do contrato.\n\nPara se assegurar uma maior protecção do consumidor português, prevê-se a obrigatoriedade de utilização da língua portuguesa em toda a informação que lhe é dirigida, o que só pode ser dispensado mediante a aceitação, pelo consumidor, da utilização de outro idioma. Procurou-se ainda proteger o consumidor face a serviços ou comunicações não solicitados.\n\nPor seu turno, quando o contrato celebrado é um contrato de execução continuada (por exemplo, um contrato de abertura de conta bancária, um contrato de gestão de carteira, um contrato de registo e depósito ou um contrato de aquisição de um cartão de crédito), que implique a subsequente realização de operações de execução, o presente decreto-lei aplica-se apenas ao contrato quadro e não à execução de cada operação sucessiva feita no âmbito desse contrato (por exemplo, no caso da subscrição de novas unidades de participação do mesmo fundo de investimento colectivo, esta será considerada uma operação sucessiva da mesma natureza).\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nForam ainda ouvidos, a título facultativo, o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, o Instituto de Seguros de Portugal, o Instituto do Consumidor, a Associação Portuguesa de Bancos, a Associação Portuguesa de Seguradores, a Associação Portuguesa de Consumidores, a Federação Nacional das Cooperativas de Consumo, a União Geral dos Consumidores, a Associação de Sociedades Financeiras para Aquisições a Crédito, a Associação Portuguesa das Empresas de Factoring, a Associação Portuguesa das Empresas de Leasing e a Associação Portuguesa de Sociedades Gestoras de Patrimónios e de Fundos de Investimento.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nFoi ainda promovida a audição, a título facultativo, da Associação de Defesa dos Consumidores e da Associação Portuguesa de Sociedades Corretoras e Financeiras de Corretagem.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 3/2006, de 21 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "51760875": {
+   "fragment_id": "38199675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, considera-se:\n\na) «Contrato à distância» qualquer contrato cuja formação e conclusão sejam efectuadas exclusivamente através de meios de comunicação à distância, que se integrem num sistema de venda ou prestação de serviços organizados, com esse objectivo, pelo prestador;\n\nb) «Meio de comunicação à distância» qualquer meio de comunicação que possa ser utilizado sem a presença física e simultânea do prestador e do consumidor;\n\nc) «Serviços financeiros» qualquer serviço bancário, de crédito, de seguros, de investimento ou de pagamento e os relacionados com a adesão individual a fundos de pensões abertos;\n\nd) 'Prestador de serviços financeiros' as instituições de crédito e sociedades financeiras, as instituições de pagamento, os intermediários financeiros em valores mobiliários, as empresas de seguros e resseguros, os mediadores de seguros e as sociedades gestoras de fundos de pensões;\n\ne) «Consumidor» qualquer pessoa singular que, nos contratos à distância, actue de acordo com objectivos que não se integrem no âmbito da sua actividade comercial ou profissional.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "51761175": {
+   "fragment_id": "36627975",
+   "type": 11,
+   "heading": "Artigo 17.º — Informação adicional",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 17.º — Informação adicional\n\n1- O disposto no presente título não prejudica os requisitos de informação prévia adicional previstos na legislação reguladora dos serviços financeiros, a qual deve ser prestada nos termos do n.º 1 do artigo 11.º\n\n2 - Nos casos em que também seja aplicável o Decreto-Lei n.º 317/2009, de 30 de Outubro, os artigos 47.º, 48.º, 52.º e 53.º do citado decreto-lei prevalecem sobre as disposições em matéria de informação constantes do artigo 9.º, do n.º 1 do artigo 11.º, quanto às informações abrangidas pela presente excepção, do artigo 13.º, das alíneas a) e b) do artigo 14.º, das alíneas d) a f) do n.º 1 do artigo 15.º e da alínea b) do artigo 16.º do presente decreto-lei.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "51761575": {
+   "fragment_id": "38201075",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\nConstituem contra-ordenação, punível com coima de (euro) 2500 a (euro) 1500000, se praticada por pessoa colectiva, e de (euro) 1250 a (euro) 750000, se praticada por pessoa singular, as seguintes condutas:\n\na) A prestação de serviços financeiros não solicitados, nos termos previstos no artigo 7.º;\n\nb) O envio de comunicações não solicitadas, em infracção ao disposto no artigo 8.º;\n\nc) A prestação de informação que não preencha os requisitos previstos nos artigos 11.º e 12.º;\n\nd) O incumprimento dos deveres específicos de informação previstos nos artigos 9.º, 13.º a 16.º e 18.º;\n\ne) A prática de actos que, por qualquer forma, dificultem ou impeçam o regular exercício do direito de resolução contratual previsto nos artigos 19.º e seguintes ou a imposição de quaisquer indemnizações ou penalizações ao consumidor que, nos termos do presente decreto-lei, tenha exercido tal direito;\n\nf) A não restituição pelo prestador das quantias recebidas a título de pagamento de serviços dentro do prazo previsto no n.º 2 do artigo 24.º;\n\ng) A cobrança de valores ao consumidor que exerça o direito de livre resolução, em violação do disposto no artigo 25.º;\n\nh) O não cumprimento do dever de obediência dos prestadores de meios de comunicação à distância previsto no n.º 1 do artigo 28.º;\n\ni) O não cumprimento da injunção prevista no n.º 2 do artigo 32.º;\n\nj) (Revogada).\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "51761675": {
+   "fragment_id": "36629775",
+   "type": 11,
+   "heading": "Artigo 41.º — Utilização fraudulenta de cartão electrónico",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 41.º — Utilização fraudulenta de cartão electrónico\n\n1 - Nos casos de utilização fraudulenta de um cartão de crédito ou de débito para realização de pagamentos no âmbito de um serviço financeiro à distância, o titular do mesmo pode solicitar à entidade emissora ou gestora do cartão electrónico a anulação das operações de pagamento efectuadas.\n\n2 - Cessa o direito previsto no número anterior com o decurso do prazo de 30 dias sobre o conhecimento pelo consumidor da utilização fraudulenta em causa, competindo o respectivo ónus da prova à entidade emissora ou gestora do cartão electrónico.\n\n3 - A restituição ao legítimo titular do cartão das quantias que lhe foram debitadas deve ser efectuada no prazo máximo de 60 dias após a apresentação do pedido de anulação, através de crédito em conta ou por qualquer outro meio adequado.\n\n4 - O dever de restituição previsto no número anterior não prejudica o direito de regresso da entidade emissora ou gestora do cartão electrónico contra os autores da fraude ou contra o prestador do serviço, quando se demonstre que este conhecia ou, face às circunstâncias da operação, deveria conhecer a natureza fraudulenta do pagamento.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "44774575": {
+   "fragment_id": "35324975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 11 de Maio de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 11 de Maio de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "51765775": {
+   "fragment_id": "38201375",
+   "type": 11,
+   "heading": "Artigo 38.º — Competência judicial",
+   "in_force_from": "2011-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 46/2011 - Diário da República n.º 120/2011, Série I de 2011-06-24](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), em vigor a partir de 2011-06-29"
+   ],
+   "markdown": "###### Artigo 38.º — Competência judicial\n\nO tribunal da concorrência, regulação e supervisão é o tribunal competente para conhecer o recurso, a revisão e a execução das decisões ou de quaisquer outras medidas legalmente susceptíveis de impugnação tomadas em processo de contra-ordenação instaurado nos termos do presente título.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 46/2011 - Diário da República n.º 120/2011, Série I de 2011-06-24](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), em vigor a partir de 2011-06-29"
+  },
+  "53033075": {
+   "fragment_id": "36628175",
+   "type": 11,
+   "heading": "Artigo 19.º — Livre resolução",
+   "in_force_from": "2012-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/lei/14-2012-553919), em vigor a partir de 2012-03-27, produz efeitos a partir de 2012-03-27"
+   ],
+   "markdown": "###### Artigo 19.º — Livre resolução\n\n1- O consumidor tem o direito de resolver livremente o contrato à distância, sem necessidade de indicação do motivo e sem que possa haver lugar a qualquer pedido de indemnização ou penalização do consumidor.\n\n2 - Num contrato à distância relativo a um determinado serviço financeiro a que esteja de alguma forma anexado um outro contrato à distância relativo a serviços financeiros prestados por um prestador ou por um terceiro com base num acordo com este, o contrato anexo considera-se automática e simultaneamente resolvido, sem qualquer penalização, desde que o consumidor exerça o direito de resolução nos termos previstos no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/lei/14-2012-553919), em vigor a partir de 2012-03-27, produz efeitos a partir de 2012-03-27"
+  },
+  "53050075": {
+   "fragment_id": "38199675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08, produz efeitos a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, considera-se:\n\na) «Contrato à distância» qualquer contrato cuja formação e conclusão sejam efectuadas exclusivamente através de meios de comunicação à distância, que se integrem num sistema de venda ou prestação de serviços organizados, com esse objectivo, pelo prestador;\n\nb) «Meio de comunicação à distância» qualquer meio de comunicação que possa ser utilizado sem a presença física e simultânea do prestador e do consumidor;\n\nc) «Serviços financeiros» qualquer serviço bancário, de crédito, de seguros, de investimento ou de pagamento e os relacionados com a adesão individual a fundos de pensões abertos;\n\nd) 'Prestador de serviços financeiros' as instituições de crédito e sociedades financeiras, as instituições de pagamento, as instituições de moeda eletrónica, os intermediários financeiros em valores mobiliários, as empresas de seguros e resseguros, os mediadores de seguros e as sociedades gestoras de fundos de pensões;\n\ne) «Consumidor» qualquer pessoa singular que, nos contratos à distância, actue de acordo com objectivos que não se integrem no âmbito da sua actividade comercial ou profissional.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08, produz efeitos a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  }
+ }
+}

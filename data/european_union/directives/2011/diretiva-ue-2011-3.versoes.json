@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011L0003:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0003-20121201",
+ "dre_path": null,
+ "source_lastmod": "2012-12-01",
+ "versions": [
+  {
+   "date": "2011-01-18",
+   "future": false,
+   "celex": "32011L0003",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55792287900bfe3e",
+    "b88ae9c838c35235",
+    "deb9096b88e7ea09",
+    "121bc7f29193c6b3",
+    "ba0343c3fb7ea11d",
+    "cfd7622b63502270"
+   ]
+  }
+ ],
+ "fragments": {
+  "55792287900bfe3e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Janeiro de 2011\n\nque altera a Directiva 2008/128/CE que estabelece os critérios de pureza específicos dos corantes que podem ser utilizados nos géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo aos aditivos alimentares [([^1])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr1-L_2011013PT.01005901-E0001), e, nomeadamente, o artigo 30.º, n.º 5,\n\nApós consulta da Autoridade Europeia para a Segurança dos Alimentos (AESA),\n\nConsiderando o seguinte:\n\n(1) A Directiva 2008/128/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr2-L_2011013PT.01005901-E0002) estabelece os critérios de pureza específicos dos corantes que podem ser utilizados nos géneros alimentícios, os quais são mencionados na Directiva 94/36/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos corantes para utilização nos géneros alimentícios [([^3])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr3-L_2011013PT.01005901-E0003).\n\n(2) Em conformidade com o artigo 30.º, n.º 4, do Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008 [([^4])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr4-L_2011013PT.01005901-E0004), as especificações dos aditivos alimentares abrangidos pelos n.^os^ 1 a 3 daquele artigo (onde se incluem também aditivos autorizados ao abrigo da Directiva 94/36/CE) são aprovadas nos termos do Regulamento (CE) n.º 1331/2008 que estabelece um procedimento de autorização comum aplicável a aditivos alimentares, enzimas alimentares e aromas alimentares, no momento em que os mesmos aditivos são registados nos anexos em conformidade com os referidos números.\n\n(3) Uma vez que as listas ainda não foram elaboradas, e a fim de assegurar que a alteração dos anexos da Directiva 94/36/CE nos termos do artigo 31.º do Regulamento (CE) n.º 1333/2008 é efectiva e que os aditivos assim autorizados respeitam condições de utilização seguras, a Directiva 2008/128/CE deve ser alterada.\n\n(4) No seu parecer de 30 de Janeiro de 2008 [([^5])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr5-L_2011013PT.01005901-E0005), a Autoridade Europeia para a Segurança dos Alimentos (a seguir denominada «Autoridade») avaliou a informação sobre a segurança da utilização de licopeno como corante alimentar obtido a partir de todas as fontes. As fontes consideradas foram as seguintes: a) licopeno E160d obtido por extracção com solventes de variedades naturais de tomates vermelhos (*Lycopersicon esculentum* L.) e subsequente remoção do solvente, b) licopeno sintético e c) licopeno de *Blakeslea trispora*.\n\n(5) A legislação actual apenas estabelece especificações para o licopeno de tomates vermelhos e precisa de ser alterada mediante a inclusão das outras duas fontes. As especificações sobre licopeno extraído de tomates vermelhos precisam igualmente de ser actualizadas. O diclorometano não precisa de constar da lista dos solventes de extracção, uma vez que já não é utilizado para o licopeno de tomates vermelhos, de acordo com a informação recebida das partes interessadas. O teor máximo de chumbo precisa de ser reduzido por razões de segurança e a referência a metais pesados é demasiado genérica e deixou de ser relevante. Além disso, a referência a variedades naturais precisa de ser actualizada de acordo com o Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr6-L_2011013PT.01005901-E0006).\n\n(6) Há informação de que o diclorometano (cloreto de metileno) é utilizado no fabrico de formulações de licopeno prontas para venda, e essa utilização é igualmente mencionada no parecer da Autoridade sobre a segurança dos produtos de licopeno dispersíveis em água fria, produzidos a partir de *Blakeslea trispora*, de 4 de Dezembro de 2008 [([^7])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr7-L_2011013PT.01005901-E0007). Produtos similares são produzidos igualmente a partir de licopeno sintético, tal como mencionado no parecer da Autoridade sobre segurança do licopeno sintético, de 10 de Abril de 2008 [([^8])](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntr8-L_2011013PT.01005901-E0008). Como a Autoridade avaliou esta utilização específica, é necessário autorizá-la com os mesmos níveis residuais que foram considerados durante a avaliação.\n\n(7) É necessário ter em conta as especificações e as técnicas de análise dos aditivos constantes do Codex Alimentarius elaboradas pelo Comité Misto de Peritos em Aditivos Alimentares (JECFA). Nomeadamente, os critérios de pureza específicos têm de ser adaptados, sempre que adequado, por forma a reflectir os limites de determinados metais pesados pertinentes.\n\n(8) A Directiva 2008/128/CE deve, por conseguinte, ser alterada em conformidade.\n\n(9) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b88ae9c838c35235": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 2008/128/CE é alterado nos termos do anexo da presente directiva."
+  },
+  "deb9096b88e7ea09": {
+   "fragment_id": "Artigo 2.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Setembro de 2011. Os Estados-Membros comunicam imediatamente à Comissão o texto das referidas disposições. As disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "ba0343c3fb7ea11d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 17 de Janeiro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "cfd7622b63502270": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc1-L_2011013PT.01005901-E0001) [JO L 354 de 13.12.2008, p. 16](http://publications.europa.eu/resource/oj/JOL_2008_354_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc2-L_2011013PT.01005901-E0002) [JO L 6 de 10.1.2009, p. 20](http://publications.europa.eu/resource/oj/JOL_2009_006_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc3-L_2011013PT.01005901-E0003) [JO L 237 de 10.9.1994, p. 13](http://publications.europa.eu/resource/oj/JOL_1994_237_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc4-L_2011013PT.01005901-E0004) [JO L 354 de 31.12.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_354_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc5-L_2011013PT.01005901-E0005) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre a segurança da utilização de 1. licopeno obtido por um processo de fermentação de *Blakeslea trispora* como corante alimentar nas categorias de alimentos e nos níveis de utilização propostos pelo requerente, 2. licopeno sintético como corante alimentar nas categorias de alimentos constantes do anexo III e do anexo V, parte 2, da Directiva 94/36/CE relativa aos corantes para utilização nos géneros alimentícios, e 3. tendo em conta os vários pedidos referentes a licopeno actualmente em curso de apreciação, incluindo a reavaliação de licopeno obtido a partir do tomate no âmbito da reavaliação sistemática de todos os corantes alimentares. *The EFSA Journal* (2008) 674, 1-66.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc6-L_2011013PT.01005901-E0006) [JO L 268 de 18.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc7-L_2011013PT.01005901-E0007) Parecer científico do Painel dos produtos dietéticos, nutrição e alergias, a pedido da Comissão, para realizar uma avaliação complementar dos produtos de licopeno dispersíveis em água fria (CWD) produzidos a partir de *Blakeslea Trispora* enquanto ingrediente alimentar, no contexto do Regulamento (CE) n.º 258/97 [*The EFSA Journal* (2008) 893, 1-15].\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/96e78a6f-17e8-47ab-8ca6-d80dfd35adc4.0009.03/DOC_1#ntc8-L_2011013PT.01005901-E0008) Parecer científico do Painel dos produtos dietéticos, nutrição e alergias, a pedido da Comissão, sobre segurança do licopeno sintético [*The EFSA Journal* (2008) 676, 1-25]."
+  }
+ }
+}

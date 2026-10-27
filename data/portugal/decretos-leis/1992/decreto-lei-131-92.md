@@ -1,0 +1,223 @@
+---
+schema_version: '1.0'
+id: pt:dre:288225:por
+title: Decreto-Lei n.º 131/92
+short_title: null
+summary: Transpõe para o direito interno a Directiva do Conselho n.º 76/767/CEE, de 27 de Julho de 1976, relativa às bases
+  do regime aplicável aos recipientes sob pressão efectiva superior a 50 kPa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 131/92
+official_date: null
+publication_date: '1992-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/1992, Série I-A de 1992-07-06
+  number: '153'
+  series: I
+  supplement: null
+  pages: 3200 - 3202
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/07/153a00/32003202.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/131/1992/07/06/p/dre/pt/html
+  oj: null
+  dre: '288225'
+  dre_path: /dr/detalhe/decreto-lei/131-1992-288225
+  internal: pt:dre:288225:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225
+  metadata_url: https://data.dre.pt/eli/dec-lei/131/1992/07/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d789b7f2b7b0863054869f4aec74c282755279de2b0bc725010a882170806c1d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CEE
+- Equipamento sob Pressão
+- Normas de Segurança
+- Segurança Pública
+relationships:
+- type: amended_by
+  target: pt:dre:254667:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31976L0767
+  label: null
+  source: http://data.europa.eu/eli/dir/1976/767/oj
+- type: repealed_by
+  target: pt:dre:309372:por
+  label: "Revogadas, a partir de 29 de Novembro de 1999, as disposições relativas a equipamentos de pressão e os conjuntos\
+    \ contidas no presente diploma pelo DEC LEI.211/99.1999.06.14.MECO,DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1999-309372
+  date: '1999-06-14'
+- type: repealed_by
+  target: pt:dre:254667:por
+  label: "Revogado, no que se refere aos equipamentos sob pressão transportáveis abrangidos pelo âmbito do presente diploma\
+    \ pelo DEC LEI.41/2002.2002.02.28.MES, DR.IS-A [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2002-254667
+  date: '2002-02-28'
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:16:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 131/92
+
+de 6 de Julho
+
+O presente decreto-lei estabelece as bases do regime aplicável aos recipientes sob pressão efectiva superior a 50 kPa (0,5 bar), transpondo para o direito interno a Directiva do Conselho n.º [76/767/CEE](https://data.europa.eu/eli/dir/1976/767/oj?locale=pt), de 27 de Julho de 1976.
+
+Abre-se assim o caminho para actualizar a regulamentação nacional sobre esta matéria, a cuja gradual substituição se irá procedendo, consoante as exigências dos compromissos assumidos internacionalmente e as capacidades próprias de adopção de novas metodologias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente decreto-lei aplica-se aos aparelhos ou recipientes fixos ou móveis nos quais possa existir ou gerar-se uma pressão efectiva de um fluido (gás, líquido ou vapor) superior a 50 kPa (0,5 bar), adiante designados por recipientes.
+
+2 - Excluem-se do âmbito do presente decreto-lei:
+
+a) Os recipientes especialmente concebidos para um fim nuclear e que, em caso de avaria, possam causar emissão de radioactividade;
+
+b) Os recipientes especialmente destinados ao equipamento ou propulsão de barcos ou de aeronaves;
+
+c) As canalizações de transporte ou de distribuição.
+
+###### Artigo 2.º — Regulamentação
+
+As regras técnicas específicas para cada categoria de recipiente relativas à concepção, construção, ensaio e, eventualmente, funcionamento, bem como os actos e configuração das marcas de aprovação de modelo ou verificação a que os mesmos recipientes devam ser submetidos para lhes ser conferida a qualidade de recipientes tipo CEE, com as consequências decorrentes da Directiva do Conselho n.º [76/767/CEE](https://data.europa.eu/eli/dir/1976/767/oj?locale=pt), de 27 de Julho de 1976, serão objecto de portaria do Ministro da Indústria e Energia.
+
+###### Artigo 3.º — Organismos de inspecção
+
+1 - A identificação dos organismos de inspecção de qualificação reconhecida no âmbito do Sistema Nacional de Gestão da Qualidade a que se refere o Decreto-Lei n.º 165/83, de 27 de Abril, para efeitos das intervenções previstas no presente diploma e na respectiva regulamentação técnica, constará de despacho do Ministro da Indústria e Energia, publicado no Diário da República.
+
+2 - Compete ao Instituto Português da Qualidade (IPQ) a notificação à Comissão e aos outros Estados membros das Comunidades Europeias da lista dos organismos de inspecção para efeito dos ensaios e demais verificações estabelecidos no presente decreto-lei e seus regulamentos.
+
+###### Artigo 4.º — Encargos
+
+1 - As importâncias devidas pelas intervenções dos organismos competentes do MIE serão fixadas por portaria do Ministro da Indústria e Energia, por forma a cobrir os custos respectivos.
+
+2 - As importâncias devidas pelas intervenções próprias dos organismos de inspecção serão por estes fixadas.
+
+###### Artigo 5.º — Colocação no mercado e utilização
+
+1 - Não podem ser colocados no mercado ou em serviço recipientes que não se encontrem numa das seguintes condições:
+
+a) Terem sido objecto de aprovação de modelo ou verificação nos termos da regulamentação específica aplicável;
+
+b) Terem sido submetidos às verificações aplicáveis, de harmonia com o disposto na portaria a que se refere o artigo 2.º
+
+2 - Não poderá ser recusada a colocação no mercado ou a entrada em serviço de um recipiente sob pressão submetido à aprovação de modelo CEE ou verificação CEE, quando aplicável, de acordo com as prescrições das directivas específicas, harmonizadas pelas regulamentações dos diferentes Estados membros.
+
+###### Artigo 6.º — Registos
+
+Os fabricantes ou os seus representantes, os importadores ou, quando for caso disso, os proprietários dos recipientes ficam solidariamente obrigados ao registo dos mesmos junto da competente delegação regional do Ministério da Indústria e Energia.
+
+###### Artigo 7.º — Qualificação dos fabricantes
+
+1 - A construção dos recipientes só poderá ser efectada por construtores que utilizem meios próprios e de qualificação reconhecida pelo IPQ, com base na NP EN 29002, códigos e normas aplicáveis.
+
+2 - O reconhecimento a que se refere o número anterior será atribuído, por solicitação do fabricante e após este ter demonstrado satisfazer os requisitos mínimos, a definir, para cada categoria de recipientes, por despacho do Ministro da Indústria e Energia.
+
+3 - Para os recipientes importados, o fabricante ou o seu representante deverá fazer prova de possuir qualificação equivalente à referida no n.º 1.
+
+###### Artigo 8.º — Cláusula de salvaguarda
+
+Quando se constate, com base numa motivação circunstanciada, que um ou mais recipientes, ainda que conformes com as prescrições aplicáveis, representam perigo para a segurança, será provisoriamente proibida ou limitada a sua comercialização, mediante decisão devidamente fundamentada do Ministro da Indústria e Energia, da qual a Comissão e os outros Estados membros serão imediatamente informados.
+
+###### Artigo 9.º — Fiscalização
+
+1 - A fiscalização do cumprimento das disposições decorrentes da aplicação do presente decreto-lei, bem como das normas técnicas necessárias à sua execução, é exercida pelas delegações regionais do Ministério da Indústria e Energia, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - Das infracções verificadas será levantado auto de notícia nos termos das disposições legais aplicáveis.
+
+3 - Os autos relativos a infracções verificadas por outras entidades serão por estas enviados àquela a quem compete a aplicação das sanções, depois de devidamente instruídos.
+
+###### Artigo 10.º — Contra-ordenações
+
+1 - O incumprimento do disposto nos artigos 5.º e 7.º do presente diploma constitui contra-ordenação punível com coima de 50000$00 a 500000$00, sem prejuízo da responsabilidade civil ou penal do mesmo decorrente, podendo, nos casos de incumprimento do disposto no n.º 1 do artigo 5.º, ser ainda determinada a apreensão do recipiente em causa, sempre que a sua utilização em condições normais represente perigo que o justifique.
+
+2 - Se o infractor for uma pessoa colectiva, o montante máximo da coima será de 6000000$00.
+
+3 - A aplicação das sanções previstas nos números anteriores compete ao director da delegação regional do Ministério da Indústria e Energia em cuja área a contra-ordenação tenha sido verificada.
+
+4 - A receita das coimas previstas nos n.os 1 e 2 terá a seguinte distribuição:
+
+a) 60% para o Orçamento do Estado;
+
+b) 20% para o serviço que levantou o auto;
+
+c) 10% para o IPQ;
+
+d) 10% para o serviço que aplicou a coima.
+
+5 - A negligência e a tentativa são puníveis.
+
+###### Artigo 11.º — Disposições gerais e transitórias
+
+1 - O IPQ acompanhará a aplicação do presente diploma, designadamente através da coordenação dos procedimentos que dele decorram com incidência no estabelecimento de critérios comuns de actuação das DRIE.
+
+2 - São revogados, com efeitos a partir da data de entrada em vigor da regulamentação referida no artigo 2.º, o Decreto-Lei n.º 101/74, de 14 de Março, e o Decreto n.º 102/74, da mesma data.
+
+3 - Não obstante a publicação de regulamentação específica, aplicar-se-ão ainda as disposições constantes dos diplomas referidos no número anterior ou normas portuguesas respectivas quando se trate de recipientes não munidos da marca CE «Garrafas de tipo CEE».
+
+4 - Serão aceites os certificados ou relatórios de ensaio emitidos por organismos de inspecção designados nos países da Comunidade Económica Europeia e notificados nos termos da Directiva n.º [76/767/CEE](https://data.europa.eu/eli/dir/1976/767/oj?locale=pt), de 27 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 14 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Miro Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
+
+Promulgado em 17 de Junho de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 19 de Junho de 1992.
+
+Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

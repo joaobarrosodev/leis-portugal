@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:197363:por
+title: Decreto-Lei n.º 175/2002
+short_title: null
+summary: Extingue a Comissão Científica Independente de Controlo e Fiscalização Ambiental da Co-Incineração, criada pelo Decreto-Lei
+  n.º 120/99, de 16 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 175/2002
+official_date: null
+publication_date: '2002-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/2002, Série I-A de 2002-07-25
+  number: '170'
+  series: I
+  supplement: null
+  pages: 5479 - 5481
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/07/170a00/54795481.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/175/2002/07/25/p/dre/pt/html
+  oj: null
+  dre: '197363'
+  dre_path: /dr/detalhe/decreto-lei/175-2002-197363
+  internal: pt:dre:197363:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2002-197363
+  metadata_url: https://data.dre.pt/eli/dec-lei/175/2002/07/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2002-197363
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bf229fa63ff8d54c786f842ade15a21551a532d26ac7fac9d9e7f4c75090e5a8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão
+- Comissão Científica Independente de Controlo e Fiscalização Ambiental da Co-incineração
+- Comissão Liquidatária
+- Extinção de Serviços
+- Gestão de Resíduos
+- Incineração de Resíduos
+relationships:
+- type: cites
+  target: pt:dre:339838:por
+  label: null
+  source: http://data.dre.pt/eli/lei/22/2000/08/10/p/dre
+- type: cites
+  target: pt:dre:544775:por
+  label: null
+  source: http://data.dre.pt/eli/lei/20/1999/04/15/p/dre
+- type: cites
+  target: pt:dre:545273:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/1999/04/16/p/dre
+- type: cites
+  target: pt:dre:545274:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1999/04/16/p/dre
+- type: cites
+  target: pt:dre:582193:por
+  label: null
+  source: http://data.dre.pt/eli/lei/149/1999/09/03/p/dre
+- type: cites
+  target: pt:dre:626842:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/516/1999/12/02/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:32:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 175/2002
+
+de 25 de Julho
+
+O programa político do XV Governo Constitucional, no domínio de ambiente, estabelece claramente uma linha de actuação, em matéria de gestão de resíduos, centrada na prevenção da sua produção e na promoção e desenvolvimento de sistemas integrados de recolha, tratamento, valorização e destino final de resíduos por fileira.
+
+Particular relevo merece a orientação do Governo em matéria de resíduos industriais perigosos, afastando claramente a opção de tratamento de fim de linha, designadamente através do processo de co-incineração em cimenteiras, como medida privilegiada para o seu tratamento, colocando na primeira linha as soluções ambientalmente mais adequadas de prevenção, reutilização e reciclagem.
+
+Esta orientação estriba-se na estratégia da União Europeia estabelecida pela resolução do Conselho de 24 de Fevereiro de 1997 e já adoptada no Plano Estratégico dos Resíduos Industriais (PESGRI) constante do [Decreto-Lei n.º 516/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1999-626842), de 2 de Dezembro, que a gestão de resíduos, em particular os resíduos perigosos, obriga à definição de uma hierarquia de preferência quanto aos destinos para cada tipo de resíduos, tendo sempre em consideração que as soluções a adoptar devem respeitar os direitos à protecção da saúde pública e um ambiente de vida humano sadio e ecologicamente equilibrado.
+
+A opção política de condicionar a resolução imediata dos grandes passivos ambientais e a gestão corrente dos fluxos de resíduos industriais perigosos, exclusivamente por métodos de valorização energética, máxime a co-incineração, a qual nunca se poderia submeter a um tecto máximo razoável de incineração de resíduos, resultaria, por consequência, num abandono por imperativos económicos das soluções de primeira linha, ambientalmente mais adequadas.
+
+De certo modo resulta óbvio que a possibilidade de aplicar soluções como a regeneração obrigatória de certo tipo de resíduos industriais perigosos, como é o caso daqueles que têm maior poder calórico, máxime óleos e solventes, sempre ficaria muito limitada se o primeiro passo fosse a incineração, qualquer que seja o seu método, para todo o tipo de resíduos.
+
+Relativamente aos antigos locais de deposição de resíduos perigosos e de solos contaminados existentes, e que constituem um passivo ambiental sobejamente conhecido no País, nos últimos seis anos, e a coberto de argumentos facilitistas de espera pela co-incineração, nenhum passo foi dado para a resolução do problema.
+
+No que diz respeito à caracterização da situação actual, em termos de resíduos perigosos produzidos e aos seus fluxos, base necessária para a definição de uma estratégia cientificamente sustentada para a sua gestão, é de referir que a inventariação existente é manifestamente insuficiente, pois é suportada no reduzido número de mapas de resíduos apresentados, os quais correspondem somente a 9% do conjunto de empresas estatisticamente referenciadas e produtoras de resíduos.
+
+Neste contexto e considerando que não é rigoroso o conhecimento das quantidades de resíduos industriais perigosos produzidos em Portugal, nem tão-pouco os seus fluxos, fica descredibilizada qualquer decisão sobre a adequabilidade da solução final de valorização energética e de um método específico, designadamente a co-incineração em cimenteiras, e constitui um estímulo negativo à adopção de outros métodos de tratamento e gestão, designadamente pela prevenção, reutilização e reciclagem.
+
+Tal opção é, aliás, contrária à orientação política que conduziu à elaboração do Plano Nacional de Prevenção dos Resíduos Industriais (PNAPRI), para o período de 2000-2015, como parte integrante da estratégia de gestão prioritária de resíduos industriais a médio/longo prazo, e cujo objectivo é reduzir a quantidade e perigosidade de resíduos industriais gerados, através da sua prevenção, incluindo a valorização interna.
+
+Neste contexto, e ainda face aos novos quantitativos de resíduos industriais previsíveis, ao avanço tecnológico ocorrido e às capacidades de tratamento actualmente existentes no espaço da União Europeia (UE), justifica e impõe-se uma reanálise da opção de destino final/valorização energética.
+
+Considerando que, neste quadro, legitimado pela confiança manifestada pela Assembleia da República no XV Governo Constitucional, após a discussão do seu Programa, se torna urgente proceder à revisão de todo o enquadramento técnico, normativo e administrativo da opção pelo método de valorização energética de resíduos perigosos em fornos de cimenteiras, o que fundamentou o despacho de 19 de Abril de 2002 do Ministro das Cidades, Ordenamento do Território e Ambiente em que se determina a suspensão dos testes de ensaio de queima de resíduos industriais perigosos que estavam a ser realizados em duas unidades cimenteiras;
+
+Considerando por último que através do [Decreto-Lei n.º 120/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1999-545273), de 16 de Abril, e na sequência da [Lei n.º 20/99](https://diariodarepublica.pt/dr/detalhe/lei/20-1999-544775), de 15 de Abril, foi criada a Comissão Científica Independente de Controlo e Fiscalização Ambiental da Co-Incineração com o objectivo de acompanhar a montagem e a aferição de todos os aspectos relacionados com o sistema de monitorização ambiental da actividade de co-incineração (n.º 2 do artigo 1.º), sendo certo que as suas funções deixaram de fazer sentido no quadro da decisão tomada pelo Governo:
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Cessa funções a Comissão Científica Independente, criada pelo [Decreto-Lei n.º 120/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1999-545273), de 16 de Abril, com a designação dada pela [Lei n.º 149/99](https://diariodarepublica.pt/dr/detalhe/lei/149-1999-582193), de 3 de Setembro.
+
+###### Artigo 2.º
+
+A Comissão referida no artigo anterior extingue-se com a aprovação do relatório final de contas, a qual deve ocorrer no prazo de 30 dias a contar da data de entrada em vigor do presente diploma.
+
+###### Artigo 3.º
+
+1 - É constituída uma comissão liquidatária na Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente.
+
+2 - Transitam para a Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente as instalações, os equipamentos e o acervo documental afectos à Comissão extinta.
+
+3 - O saldo apurado na liquidação da Comissão reverte para a dotação provisional do Ministério das Finanças.
+
+###### Artigo 4.º
+
+São revogados os artigos 4.º e 5.º da [Lei n.º 20/99](https://diariodarepublica.pt/dr/detalhe/lei/20-1999-544775), de 15 de Abril, com as alterações introduzidas pela [Lei n.º 22/2000](https://diariodarepublica.pt/dr/detalhe/lei/22-2000-339838), de 10 de Agosto, e os Decretos-Leis n.os [120/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1999-545273) e [121/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1999-545274), ambos de 16 de Abril.
+
+###### Artigo 5.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Maio de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Isaltino Afonso de Morais.
+
+Promulgado em 4 de Julho de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 15 de Julho de 2002.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

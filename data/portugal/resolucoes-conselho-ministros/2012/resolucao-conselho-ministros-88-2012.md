@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:192419:por
+title: Resolução do Conselho de Ministros n.º 88/2012
+short_title: null
+summary: Aprova procedimentos e medidas expeditos destinados a minimizar as consequências de incêndios de grande dimensão
+  e gravidade
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 88/2012
+official_date: null
+publication_date: '2012-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2012, Série I de 2012-10-18
+  number: '202'
+  series: I
+  supplement: null
+  pages: 5928 - 5929
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20200/0592805929.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre/pt/html
+  oj: null
+  dre: '192419'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/88-2012-192419
+  internal: pt:dre:192419:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2012-192419
+  metadata_url: https://data.dre.pt/eli/resolconsmin/88/2012/10/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2012-192419
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 87ab78c2387e52dc503652fc243839d0d633a0621df928cce70e171e11962334
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:30:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Interministerial
+- Financiamento
+- Incêndio
+- Instituto Nacional de Estatística
+- Ministro Adjunto e para os Assuntos Parlamentares
+- Política Agrícola
+- Política Florestal
+- Proder
+- Subsídio
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:30:13Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 88/2012
+
+A eficácia dos mecanismos de resposta às nefastas consequências dos incêndios florestais que lavraram no Algarve, em julho do corrente ano, foi objeto de reconhecimento público pelas populações e responsáveis dos municípios afetados.
+
+O Governo considera adequado criar um procedimento genérico de atuação similar, sempre que ocorram incêndios de grande dimensão e gravidade, com elevado impacte na vida social e económica das populações de uma determinada região.
+
+Assim, é constituída uma comissão interministerial e são aprovados procedimentos e medidas destinados a minimizar as consequências dos mesmos, que implicam obrigatoriamente duas fases.
+
+Numa primeira fase, a realização prévia de inquéritos junto das populações e municípios atingidos pelos incêndios com vista à obtenção de indicadores fiáveis sobre o impacte dos mesmos, quer nas pessoas e bens quer no potencial agrícola, florestal, ambiental e outros. Numa segunda fase, a intervenção dos serviços desconcentrados das áreas da proteção civil, ambiente, agricultura e florestas e segurança social, em articulação com os responsáveis da administração local, com vista à apresentação de medidas concretas, a acompanhar diretamente pelos membros do Governo com responsabilidades nas mencionadas áreas de intervenção.
+
+Os procedimentos e medidas são monitorizados e coordenados pelo membro do Governo responsável pela área da administração local, em permanente e direta articulação com a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar que sempre que ocorram incêndios de grande dimensão e gravidade com elevado impacte na vida social e económica das populações de uma determinada região é constituída uma comissão interministerial, integrada pelos membros do Governo responsáveis pelas áreas das finanças, da administração interna, da justiça, da agricultura e florestas, da solidariedade e segurança social e da administração local e coordenada pelo Ministro Adjunto e dos Assuntos Parlamentares.
+
+2 - Cometer à comissão interministerial a decisão de aplicação dos procedimentos e medidas destinados a minimizar as consequências dos incêndios, nos termos previstos nos números seguintes, a qual é imediatamente comunicada aos serviços e organismos envolvidos.
+
+3 - Estabelecer que os procedimentos a que se referem os números anteriores são os seguintes:
+
+a) O Instituto Nacional de Estatística, I. P., realiza um inquérito junto dos municípios atingidos, em articulação com as entidades competentes, destinado a inventariar os impactes dos incêndios no âmbito privado e público;
+
+b) Os serviços desconcentrados das áreas da proteção civil, segurança social, ambiente, agricultura e florestas articulam com os responsáveis dos municípios afetados a apresentação de medidas concretas de apoio às populações e áreas atingidas;
+
+c) Os membros do Governo responsáveis pelas áreas da administração interna, ambiente, agricultura e florestas e segurança social acompanham as propostas a que se refere a alínea anterior, em articulação direta com os presidentes dos municípios afetados;
+
+d) O membro do Governo responsável pela área da administração local coordena e monitoriza as medidas adotadas, mediante articulação com a Associação Nacional de Municípios Portugueses.
+
+4 - Estabelecer que o membro do Governo responsável pela área da agricultura e florestas desencadeia os procedimentos necessários à minimização dos prejuízos provocados pelos incêndios, com recurso aos seguintes instrumentos:
+
+a) Utilizar as medidas já existentes no âmbito do Programa de Desenvolvimento Rural do Continente (PRODER), nomeadamente a subação n.º 2.3.2.1, «Recuperação do potencial produtivo florestal», através das intervenções «Estabilização de emergência após incêndio» e «Reabilitação do potencial silvícola», a ação n.º 1.5.2, «Restabelecimento do potencial produtivo agrícola», e a ação n.º 1.3.2, «Gestão multifuncional», através do apoio às atividades apícola e cinegética;
+
+b) Dar prioridade, no âmbito do Programa PRODER, à análise e decisão dos projetos agrícolas e florestais localizados nas zonas mais afetadas pelos incêndios;
+
+c) Assegurar a articulação entre os serviços da administração central e local e entre estes e as organizações e associações representativas dos sectores afetados, designadamente as organizações de produtores florestais, organizações de produtores agrícolas, associações de apicultores e organizações do sector da caça, de forma a contribuir para um rápido levantamento dos prejuízos e a sua resolução;
+
+d) Estabelecer um período de interdição da caça nas áreas afetadas, superior ao legalmente previsto, com a finalidade de ser garantida uma adequada recuperação das populações cinegéticas;
+
+e) Avaliar a possibilidade de isenção ou redução proporcional das taxas de concessão, por parte das entidades gestoras das zonas de caça afetadas pelos incêndios, enquanto decorrer o período de interdição do ato venatório.
+
+5 - Estabelecer que o membro do Governo responsável pela área da solidariedade e segurança social desencadeia os procedimentos necessários à minimização dos prejuízos provocados pelos incêndios, com recurso às seguintes medidas:
+
+a) Apoiar a reparação de danos que afetaram equipamentos sociais;
+
+b) Privilegiar, obrigatoriamente, nos critérios de atribuição de apoio às vítimas dos incêndios, as situações de maior carência e aquelas cujos prejuízos não possam ser, de outra forma, atenuados;
+
+c) No domínio social, promover, com carácter prioritário e urgente, a avaliação social das famílias que se encontram em situação de comprovada carência de meios e recursos e atribuir, desde já, a título de emergência:
+
+i) Às famílias que perderam fontes de rendimento, um subsídio de compensação, de prestação única, no montante equivalente ao valor do indexante dos apoios sociais, por cada elemento do agregado familiar que viva em economia comum;
+
+ii) Aos pensionistas que perderam fontes de rendimento, um subsídio mensal complementar, no valor da pensão social, durante um período de três meses, não cumulável com o subsídio de compensação referido na alínea anterior;
+
+iii) Outros apoios sociais de natureza eventual, para além dos apoios previstos nas alíneas anteriores, quando em consequência dos incêndios verificados existam situações de comprovada carência de recursos;
+
+iv) Apoio alimentar, em caso de comprovada situação de precariedade, disponibilizado pelas cantinas sociais que detenham protocolo de cooperação firmado com a segurança social, no âmbito do Programa de Emergência Alimentar;
+
+v) Apoio psicossocial às famílias atingidas, com carácter regular, através dos contratos locais de desenvolvimento social (CLDS) a executar, por um período de 24 meses;
+
+d) Apoiar a realização de obras de reparação, nos termos da regulamentação dos CLDS, no quadro das necessidades habitacionais dos agregados familiares que ficaram com as habitações permanentes substancialmente atingidas, desde que não cobertas por seguro;
+
+e) No âmbito do sistema previdencial, prever a isenção ou deferimento do pagamento de contribuições por parte dos agricultores ou de empresas agrícolas que forem objeto de apoio a conceder pelo Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.
+
+6 - Estabelecer que as regras aplicáveis à verificação dos danos e os critérios para a comparticipação e financiamento das despesas elegíveis são os decorrentes de cada um dos instrumentos identificados nos números anteriores ou, na sua ausência, os que forem estabelecidos por despacho dos membros do Governo responsáveis pela área das finanças e do que for competente em razão da matéria.
+
+7 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+
+Presidência do Conselho de Ministros, 20 de setembro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.

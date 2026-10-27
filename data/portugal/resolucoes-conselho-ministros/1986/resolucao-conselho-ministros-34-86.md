@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:227435:por
+title: Resolução do Conselho de Ministros n.º 34/86
+short_title: null
+summary: Estabelece os níveis I, II e III da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 34/86
+official_date: null
+publication_date: '1986-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/1986, Série I de 1986-05-05
+  number: '102'
+  series: I
+  supplement: null
+  pages: 1041 - 1043
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10200/10411043.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227435'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/34-1986-227435
+  internal: pt:dre:227435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-1986-227435
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-1986-227435
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c7fe1fa2584cd5ae47013665016be5f688facd98a28e06884990a0d856ceb367
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desenvolvimento Regional
+- Estatística
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+relationships:
+- type: amended_by
+  target: pt:dre:424733:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:654317:por
+  label: Rectificada pela DECL.DD4741.09.05.1986.PCM, DR.IS [124]Supl de 31.05.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-654317
+  date: '1986-05-09'
+- type: repealed_by
+  target: pt:dre:611345:por
+  label: Revogada pelo(a) Decreto-Lei n.º 46/89 - Diário da República n.º 38/1989, Série I de 1989-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1989-611345
+  date: '1989-02-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:31:04Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 34/86
+
+A problemática da informação estatística regional tem constituído motivo de preocupação no nosso país, não só pela acentuada insuficiência da sua produção e tratamento, mas também pelas divergências que se verificam entre as matrizes de delimitação espacial adoptadas ou utilizadas pelos diferentes sectores administrativos.
+
+Tal prática tem inviabilizado análises integradas sobre diversos espaços regionais por manifesta impossibilidade de comparação de informação oriunda de diferentes sectores.
+
+Esta situação não é compatível com a preparação de todo um conjunto de decisões relativas ao planeamento do desenvolvimento e a uma valorização significativa no contexto das Comunidades Europeias, uma vez que a nossa adesão significa a adopção necessária de regras e procedimentos estatísticos comuns, onde a informação regional assume grande importância. Na verdade, para além das exigências decorrentes da política regional comunitária transmitidas pela DG XVI, verifica-se também noutros departamentos da Comissão das Comunidades Europeias a indispensabilidade de existência dessa informação (designadamente nas DG II, III, IV, V, VI, VII e X); não é só a CEE, no entanto, que manifesta estas preocupações: também o Banco Europeu de Investimentos utiliza a informação estatística regional.
+
+Não é naturalmente concebível que cada um destes utilizadores adopte ou se submeta a divisões regionais próprias e por essa razão foi criada, no âmbito da CEE, entre o Office Statistique, os serviços da Comissão e os Estados membros uma norma comum, que se designa por Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS).
+
+A nomenclatura das unidades territoriais para fins estatísticos é constituída por três níveis de agregação para unidades territoriais (níveis I, II e III), cuja fixação concreta em cada Estado membro corresponde quer a características específicas nacionais quer às condicionantes e objectivos espaciais das políticas nacionais de desenvolvimento regional.
+
+Já se deveria ter verificado, entre nós, a fixação de cada um dos níveis da Nomenclatura das Unidades Territoriais para Fins Estatísticos. Tal não ocorreu em virtude, designadamente, de dificuldades relativas ao nível II, tendo, no entanto, sido adoptado no programa de desenvolvimento regional oportunamente apresentado às instituições comunitárias competentes, como nível regional no continente, o correspondente às áreas de actuação das comissões de coordenação regional.
+
+Sendo certo que é a este nível que terão lugar as sínteses das diferentes políticas sectoriais, o Governo entende desde já adoptar essa base espacial como a correspondente ao nível II no continente.
+
+Quanto ao nível III, entendeu-se mais adequado manter indivisas as Regiões Autónomas dos Açores e da Madeira e delimitar o continente em 27 unidades territoriais. Nesta delimitação, as unidades territoriais adoptadas para o continente obedecem a um critério geral de dimensionamento que procura torná-las equiparáveis às suas congéneres dos outros países das Comunidades Europeias. Por outro lado, teve-se em vista conseguir unidades cuja dimensão espacial e demográfica não apresentasse grande desproporção entre si e, simultaneamente, que procurassem conciliar, na medida do possível, os requisitos enunciados com a identidade de características dos respectivos territórios com a problemática do desenvolvimento económico-social e com a vigente circunscrição dos agrupamentos de municípios ou de áreas de planeamento sub-regional.
+
+Assim, o Conselho de Ministros, reunido em 26 de Março de 1986, resolveu o seguinte:
+
+Os níveis I, II e III da Nomenclatura das Unidades Territoriais para Fins Estatísticos são fixados do seguinte modo:
+
+Nível I - Constituído por três unidades, correspondentes ao território do continente e de cada uma das Regiões Autónomas dos Açores e da Madeira;
+
+Nível II - Constituído por sete unidades, correspondentes no continente às áreas de actuação das comissões de coordenação regional, criadas pelo [Decreto-Lei n.º 494/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1979-365886), de 21 de Dezembro, e ainda aos territórios das Regiões Autónomas dos Açores e da Madeira;
+
+Nível III - Constituído por 29 unidades, das quais 27 no continente, constantes da listagem e da carta anexas à presente resolução, e duas correspondentes às Regiões Autónomas dos Açores e da Madeira.
+
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Unidades de nível III
+
+Norte
+
+Minho-Lima (dez municípios; 2213 km2; 256814 habitantes): Caminha, Melgaço, Monção, Paredes de Coura, Valença, Vila Nova de Cerveira, Arcos de Valdevez, Ponte da Barca, Ponte de Lima e Viana do Castelo.
+
+Cávado (seis municípios; 1216 km2; 328938 habitantes): Barcelos, Esposende, Amares, Braga, Terras de Bouro e Vila Verde.
+
+Ave (seis municípios; 1250 km2; 431800 habitantes): Guimarães, Santo Tirso, Vila Nova de Famalicão, Fafe, Póvoa de Lanhoso e Vieira do Minho.
+
+Grande Porto (nove municípios; 815 km2; 1117920 habitantes): Espinho, Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Valongo, Vila do Conde e Vila Nova de Gaia.
+
+Tâmega (doze municípios; 2035 km2; 451892 habitantes): Amarante, Baião, Cabeceiras de Basto, Celorico de Basto, Marco de Canaveses, Mondim de Basto, Castelo de Paiva, Felgueiras, Lousada, Paços de Ferreira, Paredes e Penafiel.
+
+Entre Douro e Vouga (cinco municípios; 847 km2; 236916 habitantes): Arouca, Feira, Oliveira de Azeméis, São João da Madeira e Vale de Cambra.
+
+Douro (vinte e um municípios; 4832 km2; 323184 habitantes): Alijó, Mesão Frio, Peso da Régua, Sabrosa, Santa Marta de Penaguião, Vila Real, Armamar, Lamego, Moimenta da Beira, Penedono, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Freixo de Espada à Cinta, Torre de Moncorvo, Vila Nova de Foz Côa, Mogadouro, Murça, Cinfães e Resende.
+
+Alto Trás-os-Montes (quinze municípios; 7986 km2; 280563 habitantes): Boticas, Chaves, Montalegre, Ribeira de Pena, Valpaços, Vila Pouca de Aguiar, Bragança, Miranda do Douro, Vimioso, Vinhais, Alfândega da Fé, Macedo de Cavaleiros, Mirandela, Carrazeda de Ansiães e Vila Flor.
+
+Centro
+
+Baixo Vouga (onze municípios; 1712 km2; 317332 habitantes): Aveiro, Estarreja, Ílhavo, Murtosa, Ovar, Águeda, Albergaria-a-Velha, Anadia, Oliveira do Bairro, Sever do Vouga e Vagos.
+
+Baixo Mondego (nove municípios; 2160 km2; 349262 habitantes): Figueira da Foz, Mira, Montemor-o-Velho, Soure, Cantanhede, Coimbra, Condeixa-a-Nova, Mealhada e Penacova.
+
+Pinhal Litoral (cinco municípios; 1753 km2; 215810 habitantes): Batalha, Leiria, Marinha Grande, Pombal e Porto de Mós.
+
+Pinhal Interior (dezassete municípios; 3905 km2; 176795 habitantes): Lousã, Miranda do Corvo, Penela, Vila Nova de Poiares, Arganil, Góis, Pampilhosa da Serra, Tábua, Oleiros, Proença-a-Nova, Sertã, Vila de Rei, Alvaiázere, Ansião, Castanheira de Pêra, Figueiró dos Vinhos e Pedrógão Grande.
+
+Dão-Lafões (catorze municípios; 3287 km2; 287809 habitantes): Carregal do Sal, Mortágua, Santa Comba Dão, Tondela, Oliveira de Frades, São Pedro do Sul, Vouzela, Castro Daire, Mangualde, Nelas, Penalva do Castelo, Sátão, Vila Nova de Paiva e Viseu.
+
+Serra da Estrela (quatro municípios; 1103 km2; 80545 habitantes): Fornos de Algodres, Gouveia, Oliveira do Hospital e Seia.
+
+Beira Interior-Norte (dez municípios; 4260 km2; 137389 habitantes): Aguiar da Beira, Trancoso, Meda, Celorico da Beira, Guarda, Pinhel, Figueira de Castelo Rodrigo, Almeida, Sabugal e Manteigas.
+
+Beira Interior-Sul (quatro municípios; 3738 km2; 86138 habitantes); Castelo Branco, Idanha-a-Nova, Penamacor e Vila Velha de Ródão.
+
+Cova da Beira (três municípios; 1352 km2; 99799 habitantes): Covilhã, Belmonte e Fundão.
+
+Lisboa e Vale do Tejo
+
+Oeste (catorze municípios: 2768 km2, 374462 habitantes): Alcobaça, Bombarral, Caldas da Rainha, Nazaré, Óbidos, Peniche, Lourinhã, Sobral de Monte Agraço, Torres Vedras, Mafra, Alenquer, Arruda dos Vinhos, Azambuja e Cadaval.
+
+Grande Lisboa-Norte (sete municípios; 1046 km2; 1853729 habitantes): Amadora, Cascais, Lisboa, Loures, Oeiras, Sintra e Vila Franca de Xira.
+
+Grande Lisboa-Sul (nove municípios; 1529 km2; 584648 habitantes): Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal.
+
+Médio Tejo (quinze municípios; 4651 km2; 283861 habitantes): Alcanena, Chamusca, Entroncamento, Golegã, Torres Novas, Vila Nova da Barquinha, Ferreira do Zêzere, Tomar, Vila Nova de Ourém, Abrantes, Constância, Gavião, Mação, Ponte de Sor e Sardoal.
+
+Lezíria do Tejo (oito municípios; 3200 km2; 195191 habitantes): Almeirim, Alpiarça, Cartaxo, Rio Maior, Santarém, Benavente, Coruche e Salvaterra de Magos.
+
+Alentejo
+
+Alentejo Central (treze municípios: 7114 km2, 176790 habitantes): Alcácer do Sal, Grândola, Santiago do Cacém, Sines e Odemira.
+
+Alto Alentejo (treze municípios; 4932 km2; 117976 habitantes): Alter do Chão, Castelo de Vide, Crato, Marvão, Nisa, Portalegre, Campo Maior, Elvas, Arronches, Monforte, Avis, Fronteira e Sousel.
+
+Alentejo Central (treze municípios; 7114 km2; 176790 habitantes): Arraiolos, Montemor-o-Novo, Mora, Vendas Novas, Évora, Portel, Redondo, Reguengos de Monsaraz, Viana do Alentejo, Alandroal, Borba, Estremoz e Vila Viçosa.
+
+Baixo Alentejo (catorze municípios; 8781 km2; 162444 habitantes): Aljustrel, Alvito, Beja, Cuba, Ferreira do Alentejo, Vidigueira, Barrancos, Moura, Serpa, Almodôvar, Castro Verde, Mértola, Ourique e Mourão.
+
+Algarve
+
+Algarve (dezasseis municípios; 4960 km2; 323534 habitantes): Aljezur, Lagoa, Lagos, Monchique, Portimão, Silves, Vila do Bispo, Albufeira, Faro, Loulé, Olhão, São Brás de Alportel, Alcoutim, Castro Marim, Tavira e Vila Real de Santo António.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10200/10411043.pdf)

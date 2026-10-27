@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176317415:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-176317433",
+ "dre_path": "/dr/detalhe/portaria/314-2021-176317415",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176376382",
+    "176376383",
+    "176376384",
+    "176376385",
+    "176376386"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:177455550:por",
+     "title": "Declaração de Retificação n.º 2/2022",
+     "published": "2022-01-11",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/2-2022-177455550",
+     "date": "2021-12-23"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "176376382": {
+   "fragment_id": "176317434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 314/2021\n\nde 22 de dezembro\n\nSumário: Procede à 5.ª alteração da Portaria n.º 82-C/2020, de 31 de março, que criou a medida de apoio ao reforço de emergência de equipamentos sociais e de saúde e um regime extraordinário de majoração das bolsas mensais dos «Contrato emprego-inserção» (CEI) e «Contrato emprego-inserção+» (CEI+), bem como um incentivo de emergência à substituição de trabalhadores ausentes ou temporariamente impedidos de trabalhar.\n\nA Portaria n.º 82-C/2020, de 31 de março, procedeu à criação da medida de Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde (MAREESS), de natureza temporária e excecional, para assegurar a capacidade de resposta das instituições públicas e do setor solidário com atividade na área social e da saúde, durante a pandemia da doença COVID-19, e introduziu um regime extraordinário de majoração das bolsas mensais dos «Contrato emprego-inserção» (CEI) e «Contrato emprego-inserção+» (CEI+) em projetos realizados nestas instituições.\n\nTratando-se este de um regime extraordinário e, portanto, de carácter temporário e transitório, a sua vigência tem vindo a ser prolongada em função da evolução não linear da pandemia e das pressões que esta foi gerando sobre as entidades do setor solidário com atividade nas áreas social e da saúde.\n\nAssim, o regime estabelecido pela Portaria n.º 82-C/2020, de 31 de março, foi primeiramente prorrogado até 31 de dezembro de 2020, pela Portaria n.º 162/2020, de 30 de junho, e nos termos previstos na Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, que aprovou o Programa de Estabilização Económica e Social, e mais tarde até 31 de dezembro de 2021.\n\nAgora, apesar da contenção dos efeitos da pandemia que o plano de vacinação permitiu já alcançar nas instituições com atividade na área social e da saúde, entende o Governo que, tendo em conta o prolongamento de um conjunto de medidas e regimes extraordinários associados ao contexto pandémico que ainda se assiste, e estando em causa um conjunto de atividades cuja capacidade de resposta não pode ser comprometida, deve o presente regime ser prolongado, no limite, até 31 de março de 2022.\n\nAlém da prorrogação da vigência do regime disposto pela Portaria n.º 82-C/2020, de 31 de março, na sua redação atual, procede-se ainda ao aumento do valor concedido no âmbito do prémio ao emprego para as entidades que celebrem com o destinatário da medida um contrato de trabalho sem termo, mediante observação das regras já definidas.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social, bem como as entidades representativas do setor social e solidário.\n\nAssim, ao abrigo do disposto no Decreto-Lei n.º 13/2015, de 26 de janeiro, manda o Governo, pelo Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, no uso da competência delegada pelo Despacho n.º 892/2020, de 14 de janeiro, publicado no Diário da República, 2.ª série, n.º 15, de 22 de janeiro de 2020, o seguinte:"
+  },
+  "176376383": {
+   "fragment_id": "176317435",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à quinta alteração da Portaria n.º 82-C/2020, de 31 de março, alterada pelas Portarias n.º 162/2020, de 30 de junho, n.º 218/2020, de 16 de setembro, n.º 302/2020, de 24 de dezembro, e n.º 128/2021, de 24 de junho, que criou a medida de Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde e um regime extraordinário de majoração das bolsas mensais dos «Contrato emprego-inserção» (CEI) e «Contrato emprego-inserção+» (CEI+), bem como um incentivo de emergência à substituição de trabalhadores ausentes ou temporariamente impedidos de trabalhar."
+  },
+  "176376384": {
+   "fragment_id": "176317436",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da Portaria n.º 82-C/2020, de 31 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração da Portaria n.º 82-C/2020, de 31 de março\n\nOs artigos 2.º, 5.º-A e 10.º da Portaria n.º 82-C/2020, de 31 de março, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Sem prejuízo do disposto no número anterior, os projetos com data de cessação prevista para o último mês de produção de efeitos da presente portaria podem ser prorrogados por período inferior a um mês, com a data limite de 31 de março de 2022.\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\nArtigo 5.º-A\n\n[...]\n\n1 - À entidade promotora, de natureza privada, de projeto realizado ao abrigo da medida prevista no n.º 1 do artigo 1.º que celebre com o destinatário um contrato de trabalho sem termo, no prazo máximo de 20 dias úteis a contar da data de conclusão do projeto, e que alcance, por essa via, um número total de trabalhadores superior ao observado no mês civil anterior ao início da execução do projeto, é concedido um prémio ao emprego de valor equivalente a 16 vezes o valor do IAS.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\nArtigo 10.º\n\n[...]\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos até 31 de março de 2022, sem prejuízo do disposto nos números seguintes.\n\n2 - [...].\n\n3 - Os pedidos efetuados ao abrigo do disposto no artigo 7.º-A devem ser apresentados até 31 de março de 2022, podendo produzir efeitos após essa data.»"
+  },
+  "176376385": {
+   "fragment_id": "176317437",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação no tempo\n\n1 - A presente portaria aplica-se às candidaturas aprovadas após a sua entrada em vigor, bem como aos projetos em execução, que podem ser prorrogados com efeitos até à data de cessação da produção de efeitos da Portaria n.º 82-C/2020, de 31 de março, na redação dada pela presente portaria, ainda que sejam ultrapassados os limites previstos no n.º 4 do seu artigo 1.º e no n.º 2 do artigo 3.º da Portaria n.º 128/2021, de 24 de junho.\n\n2 - A presente portaria aplica-se ainda às candidaturas aprovadas após a sua entrada em vigor, bem como aos projetos em execução, no caso de projetos realizados ao abrigo da medida prevista no n.º 2 do artigo 1.º da Portaria n.º 82-C/2020, de 31 de março, na sua redação atual."
+  },
+  "176376386": {
+   "fragment_id": "176317438",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação.\n\nO Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita, em 18 de dezembro de 2021.\n\n114833841"
+  }
+ }
+}

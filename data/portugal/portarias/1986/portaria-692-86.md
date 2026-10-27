@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:220906:por
+title: Portaria n.º 692/86
+short_title: null
+summary: Fixa para o ano de 1986 o montante de 1500000 contos para a linha de crédito bonificado a favor das cooperativas
+  agrícolas que celebrem protocolos de saneamento financeiro nos termos da Resolução do Conselho de Ministros n.º 61/86
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 692/86
+official_date: null
+publication_date: '1986-11-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 267/1986, Série I de 1986-11-19
+  number: '267'
+  series: I
+  supplement: null
+  pages: 3471 - 3471
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26700/34713471.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '220906'
+  dre_path: /dr/detalhe/portaria/692-1986-220906
+  internal: pt:dre:220906:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1986-220906
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1986-220906
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e11e817ef2e9c2bb0af2c7ddb5170a3f103ca64132198525305de550fe0040fb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Cooperativa Agrícola
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:218681:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:56:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 692/86
+
+de 19 de Novembro
+
+A [Resolução do Conselho de Ministros n.º 61/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-1986-218681), publicada no Diário da República, 1.ª série, n.º 174, de 31 de Julho de 1986, estabelece as condições em que as cooperativas agrícolas podem celebrar protocolos de saneamento financeiro e institui um conjunto de incentivos de natureza financeira, subsídios a fundo perdido e bonificações de juros, a suportar por diversas entidades, entre elas o Estado.
+
+Dispõe, igualmente, que o Governo estabelecerá, por portaria, os limites dos apoios a conceder anualmente.
+
+Torna-se, assim, necessário estipular para o ano corrente os limites referidos, bem como a entidade que procederá ao respectivo pagamento.
+
+Assim:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, nos termos do n.º 2.4 da [Resolução do Conselho de Ministros n.º 61/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-1986-218681), o seguinte:
+
+1.º Para o ano de 1986 é fixado o montante de 1500000 contos para a linha de crédito bonificado a favor das cooperativas agrícolas que celebrem protocolos de saneamento financeiro nos termos da [Resolução do Conselho de Ministros n.º 61/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-1986-218681).
+
+2.º Os subsídios a fundo perdido previstos em protocolos de saneamento financeiro de cooperativas agrícolas para 1986 serão suportadas pelas verbas que lhes são destinadas ou no orçamento de liquidação do extinto Fundo de Abastecimento ou no orçamento ordinário do Instituto Nacional de Garantia Agrícola (INGA) para o corrente exercício.
+
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+
+Assinada em 20 de Outubro de 1986.
+
+O Ministro das Finanças, Miguel José Ribeiro Cadilha. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

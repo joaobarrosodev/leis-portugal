@@ -1,0 +1,1076 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25344024:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2014-56927694",
+ "dre_path": "/dr/detalhe/lei/21-2014-25344024",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56919750",
+    "56919751",
+    "56919752",
+    "56919753",
+    "56919754",
+    "56919755",
+    "56919756",
+    "56919757",
+    "56919758",
+    "56919759",
+    "56919760",
+    "56919761",
+    "56919762",
+    "56919763",
+    "56919764",
+    "56919765",
+    "56919766",
+    "56919767",
+    "56919768",
+    "56919769",
+    "56919770",
+    "56919771",
+    "56919772",
+    "56919773",
+    "56919774",
+    "56927975",
+    "56927976",
+    "56927977",
+    "56927978",
+    "56927979",
+    "56927980",
+    "56927981",
+    "56927982",
+    "56927983",
+    "56927984",
+    "56927985",
+    "56927986",
+    "56927987",
+    "56927988",
+    "56927989",
+    "56927990",
+    "56927991",
+    "56927992",
+    "56927993",
+    "56927994",
+    "56927995",
+    "56927996",
+    "56927997",
+    "56927998",
+    "56927999",
+    "56928000",
+    "56928001",
+    "56928002",
+    "56928003",
+    "56928004",
+    "56928005",
+    "56928006",
+    "56928007",
+    "56928008",
+    "56928009",
+    "56928010",
+    "56928011",
+    "56928012",
+    "56928013",
+    "56928014",
+    "56928015",
+    "56928016",
+    "56928017",
+    "56928018",
+    "56928019",
+    "56928020",
+    "56928021"
+   ]
+  },
+  {
+   "date": "2015-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69879383:por",
+     "title": "Lei n.º 73/2015",
+     "published": "2015-07-27",
+     "dre_path": "/dr/detalhe/lei/73-2015-69879383"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 52.º"
+   ],
+   "fragments": [
+    "56919750",
+    "56919751",
+    "56919752",
+    "69839549",
+    "56919754",
+    "56919755",
+    "56919756",
+    "56919757",
+    "56919758",
+    "56919759",
+    "56919760",
+    "56919761",
+    "69839550",
+    "56919763",
+    "56919764",
+    "69839544",
+    "69839545",
+    "69839546",
+    "69839547",
+    "69839548",
+    "56919769",
+    "56919770",
+    "56919771",
+    "56919772",
+    "69839551",
+    "56919774",
+    "56927975",
+    "56927976",
+    "56927977",
+    "69839552",
+    "56927979",
+    "56927980",
+    "56927981",
+    "56927982",
+    "56927983",
+    "56927984",
+    "56927985",
+    "56927986",
+    "56927987",
+    "56927988",
+    "56927989",
+    "56927990",
+    "56927991",
+    "56927992",
+    "56927993",
+    "56927994",
+    "56927995",
+    "56927996",
+    "56927997",
+    "56927998",
+    "56927999",
+    "56928000",
+    "69839553",
+    "56928002",
+    "56928003",
+    "56928004",
+    "56928005",
+    "56928006",
+    "56928007",
+    "56928008",
+    "56928009",
+    "56928010",
+    "56928011",
+    "56928012",
+    "56928013",
+    "56928014",
+    "56928015",
+    "56928016",
+    "69839554",
+    "56928018",
+    "56928019",
+    "56928020",
+    "56928021",
+    "56928022"
+   ]
+  },
+  {
+   "date": "2019-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116043536:por",
+     "title": "Lei n.º 49/2018",
+     "published": "2018-08-14",
+     "dre_path": "/dr/detalhe/lei/49-2018-116043536"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "56919750",
+    "56919751",
+    "56919752",
+    "69839549",
+    "56919754",
+    "56919755",
+    "56919756",
+    "56919757",
+    "56919758",
+    "56919759",
+    "116056332",
+    "56919761",
+    "69839550",
+    "56919763",
+    "56919764",
+    "69839544",
+    "69839545",
+    "69839546",
+    "69839547",
+    "69839548",
+    "56919769",
+    "56919770",
+    "56919771",
+    "56919772",
+    "69839551",
+    "56919774",
+    "56927975",
+    "56927976",
+    "56927977",
+    "69839552",
+    "56927979",
+    "56927980",
+    "56927981",
+    "56927982",
+    "56927983",
+    "56927984",
+    "56927985",
+    "56927986",
+    "56927987",
+    "56927988",
+    "56927989",
+    "56927990",
+    "56927991",
+    "56927992",
+    "56927993",
+    "56927994",
+    "56927995",
+    "56927996",
+    "56927997",
+    "56927998",
+    "56927999",
+    "56928000",
+    "69839553",
+    "56928002",
+    "56928003",
+    "56928004",
+    "56928005",
+    "56928006",
+    "56928007",
+    "56928008",
+    "56928009",
+    "56928010",
+    "56928011",
+    "56928012",
+    "56928013",
+    "56928014",
+    "56928015",
+    "56928016",
+    "69839554",
+    "56928018",
+    "56928019",
+    "56928020",
+    "56928021",
+    "56928022"
+   ]
+  },
+  {
+   "date": "2026-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1068062486:por",
+     "title": "Lei n.º 9/2026",
+     "published": "2026-03-06",
+     "dre_path": "/dr/detalhe/lei/9-2026-1068062486"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "56919750",
+    "56919751",
+    "1068950775",
+    "69839549",
+    "56919754",
+    "56919755",
+    "56919756",
+    "56919757",
+    "56919758",
+    "56919759",
+    "116056332",
+    "56919761",
+    "69839550",
+    "56919763",
+    "56919764",
+    "69839544",
+    "69839545",
+    "69839546",
+    "69839547",
+    "69839548",
+    "56919769",
+    "56919770",
+    "56919771",
+    "56919772",
+    "69839551",
+    "56919774",
+    "56927975",
+    "56927976",
+    "56927977",
+    "69839552",
+    "56927979",
+    "56927980",
+    "56927981",
+    "56927982",
+    "56927983",
+    "56927984",
+    "56927985",
+    "56927986",
+    "56927987",
+    "56927988",
+    "56927989",
+    "56927990",
+    "56927991",
+    "56927992",
+    "56927993",
+    "56927994",
+    "56927995",
+    "56927996",
+    "56927997",
+    "56927998",
+    "56927999",
+    "56928000",
+    "69839553",
+    "56928002",
+    "56928003",
+    "56928004",
+    "56928005",
+    "56928006",
+    "56928007",
+    "56928008",
+    "56928009",
+    "56928010",
+    "56928011",
+    "56928012",
+    "56928013",
+    "56928014",
+    "56928015",
+    "56928016",
+    "69839554",
+    "56928018",
+    "56928019",
+    "56928020",
+    "56928021",
+    "56928022"
+   ]
+  }
+ ],
+ "fragments": {
+  "56919750": {
+   "fragment_id": "56927695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 21/2014\n\nde 16 de abril\n\nAprova a lei da investigação clínica\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "56919751": {
+   "fragment_id": "56927696",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "56919752": {
+   "fragment_id": "56927697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei regula a investigação clínica, considerada como todo o estudo sistemático destinado a descobrir ou a verificar a distribuição ou o efeito de fatores de saúde, de estados ou resultados em saúde, de processos de saúde ou de doença, do desempenho e, ou, segurança de intervenções ou da prestação de cuidados de saúde.\n\n2 - A presente lei abrange designadamente:\n\na) O regime da realização de ensaios clínicos com medicamentos de uso humano, decorrente da transposição da Diretiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0020\" title=\"Link para Directiva da Comunidade Europeia\">2001/20/CE</a>, do Parlamento Europeu e do Conselho, de 4 de abril, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à aplicação de boas práticas clínicas na condução dos ensaios clínicos de medicamentos para uso humano;\n\nb) O regime da investigação clínica de dispositivos médicos decorrentes da transposição parcial da Diretiva n.º <a href=\"eurlex.asp?ano=2007&id=307L0047\" title=\"Link para Directiva da Comunidade Europeia\">2007/47/CE</a>, do Parlamento Europeu e do Conselho, de 5 de setembro.\n\n3 - O disposto na presente lei não prejudica a aplicação da Lei n.º 67/98, de 26 de outubro, relativa à proteção de dados pessoais."
+  },
+  "56919753": {
+   "fragment_id": "56927698",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente lei, entende-se por:\n\na) «Acontecimento adverso», qualquer manifestação clínica desfavorável, independentemente da existência de relação causal com a intervenção;\n\nb) «Acontecimento adverso grave ou reação adversa grave», qualquer acontecimento ou reação adversa que se traduza na morte ou em perigo de vida do participante, na necessidade de hospitalização ou no prolongamento da hospitalização, em deficiência ou em incapacidade significativa ou duradoura, em sofrimento fetal, morte fetal, em anomalia ou em malformação congénita, ou que seja considerada clinicamente relevante pelo investigador;\n\nc) «Autoridade competente», o INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), em matéria de ensaios clínicos, de estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, ou a Comissão de Ética para a Investigação Clínica (CEIC) nos restantes estudos clínicos;\n\nd) «Boas práticas clínicas», os preceitos internacionalmente reconhecidos de qualidade ética e científica que devem ser respeitados na conceção, na realização, no registo, na notificação, na publicação e na revisão dos estudos clínicos que envolvam a participação de seres humanos;\n\ne) «Brochura do investigador», a compilação dos dados clínicos e não clínicos relativos à intervenção em estudo relevante para a investigação em seres humanos;\n\nf) «Centro de estudo clínico», entidade que realiza o estudo clínico, dotada de meios materiais e humanos adequados, independentemente da sua inserção em estabelecimento de saúde, público ou privado, laboratório, ou outro, ou da sua localização ou não em território de Estados membros da União Europeia;\n\ng) «Comissão de Ética para a Investigação Clínica», o organismo independente constituído por profissionais de saúde e outros, incumbido de assegurar a proteção dos direitos, da segurança e do bem-estar dos participantes nos estudos clínicos e de garantir os mesmos junto da sociedade;\n\nh) «Comissões de ética para a saúde (CES)», as entidades instituídas com essa denominação pelo Decreto-Lei n.º 97/95, de 10 de maio;\n\ni) «Comissão de ética competente (CEC)», a comissão encarregue de emissão do parecer previsto na presente lei, podendo ser a CEIC, a CES que funciona no centro de estudo clínico envolvido, ou a CES designada pela CEIC para esse fim;\n\nj) «Consentimento informado», a decisão expressa de participar num estudo clínico, tomada livremente por uma pessoa dotada de capacidade de o prestar ou, na falta desta, pelo seu representante legal, após ter sido devidamente informada sobre a natureza, o alcance, as consequências e os riscos do estudo, bem como o direito de se retirar do mesmo a qualquer momento, sem quaisquer consequências, de acordo com as orientações emitidas pela CEC, que devem incluir a definição do meio adequado de o prestar, o qual deve ser escrito, sempre que aplicável;\n\nk) «Divulgação de estudos clínicos», qualquer forma de comunicação que tenha por objeto ou por efeito informar sobre a realização de um estudo clínico, podendo esta incluir observações realizadas no contexto do estudo, interpretação de resultados e conclusões do mesmo junto do público, junto dos profissionais de saúde, junto dos meios de comunicação social, em publicações de caráter geral ou científico, independentemente do seu público-alvo, e em material publicitário de medicamentos, dispositivos médicos ou quaisquer outros meios de intervenção na saúde;\n\nl) «Ensaio clínico ou ensaio», qualquer investigação conduzida no ser humano, destinada a descobrir ou a verificar os efeitos clínicos, farmacológicos ou outros efeitos farmacodinâmicos de um ou mais medicamentos experimentais, ou a identificar os efeitos indesejáveis de um ou mais medicamentos experimentais, ou a analisar a absorção, a distribuição, o metabolismo e a eliminação de um ou mais medicamentos experimentais, a fim de apurar a respetiva segurança ou eficácia;\n\nm) «Equipa de investigação», é constituída pelos investigadores e ainda pelos profissionais que, por força das suas funções, participam direta e imediatamente no estudo clínico;\n\nn) «Estudo clínico ou estudo», qualquer estudo sistemático, conduzido no ser humano ou a partir de dados de saúde individuais, destinado a descobrir ou a verificar a distribuição ou o efeito de fatores de saúde, de estados ou resultados em saúde, de processos de saúde ou de doença, do desempenho e, ou, segurança de intervenções ou serviços de saúde, através de aspetos biológicos, comportamentais, sociais ou organizacionais, incluindo, nomeadamente, os seguintes estudos:\n\ni) «Estudo clínico de regimes alimentares», o estudo destinado a testar o efeito, aceitabilidade e segurança na saúde da intervenção com regimes alimentares, incluindo alimentos, nutrientes e suplementos, processos de fabrico, processamento, transporte, armazenamento e distribuição, padrões e práticas de consumo, conhecimento e educação;\n\nii) «Estudo clínico de terapêutica não convencional», o estudo destinado a testar o efeito, a aceitabilidade e a segurança da intervenção com práticas ou com produtos não tradicionalmente considerados parte da medicina convencional, tal como praticada pelos licenciados em medicina e demais profissões associadas à medicina convencional, quer em exclusividade, quer em complementaridade às medicinas convencionais;\n\no) «Estudo clínico multicêntrico», o estudo clínico realizado de acordo com um único protocolo, em mais de um centro de estudo clínico e, consequentemente, por dois ou mais investigadores;\n\np) «Estudo clínico sem intervenção», o estudo no qual estejam preenchidas as seguintes condições:\n\ni) Os medicamentos sejam prescritos ou os dispositivos médicos sejam utilizados de acordo com as condições previstas na autorização de introdução no mercado ou no procedimento de avaliação de conformidade, respetivamente;\n\nii) A inclusão do participante numa determinada estratégia terapêutica não seja previamente fixada por um protocolo de estudo, mas dependa da prática corrente;\n\niii) A decisão de prescrever o medicamento ou utilizar um dispositivo médico esteja claramente dissociada da decisão de incluir ou não o participante no estudo;\n\niv) Não seja aplicado aos participantes qualquer outro procedimento complementar de diagnóstico ou de avaliação e sejam utilizados métodos epidemiológicos para analisar os dados recolhidos;\n\nq) «Estudo clínico com intervenção», qualquer investigação que preconize uma alteração, influência ou programação dos cuidados de saúde, dos comportamentos ou dos conhecimentos dos participantes ou cuidadores, com a finalidade de descobrir ou verificar efeitos na saúde, incluindo a exposição a medicamentos, a utilização de dispositivos médicos, a execução de técnicas cirúrgicas, a exposição a radioterapia, a aplicação de produtos cosméticos e de higiene corporal, a intervenção de fisioterapia, a intervenção de psicoterapia, o uso de transfusão, a terapia celular, a participação em sessões de educação individual ou em grupo, a intervenção com regime alimentar, a intervenção no acesso ou organização dos cuidados de saúde ou a intervenção designada como terapêutica não convencional;\n\nr) «Estudo clínico de dispositivo médico», qualquer estudo com dispositivos médicos ou respetivos acessórios, que integram o âmbito de aplicação do Decreto-Lei n.º 145/2009, de 17 de junho, e cujo objetivo inclua:\n\ni) Verificar o nível de desempenho do dispositivo; ou\n\nii) Determinar eventuais efeitos secundários indesejáveis em condições normais de utilização e avaliar se constituem riscos em função da utilização prevista para o dispositivo segundo a legis artis; ou;\n\niii) Realizar o acompanhamento clínico pós-comercialização;\n\ns) «Estudo clínico de produtos cosméticos e de higiene corporal», o estudo que preconiza o uso de qualquer substância ou mistura destinada a ser posta em contacto com as diversas partes superficiais do corpo humano, designadamente epiderme, sistemas piloso e capilar, unhas, lábios e órgãos genitais externos, ou com os dentes e as mucosas bucais, com a finalidade de, exclusiva ou principalmente, os limpar, perfumar, modificar o seu aspeto, proteger, manter em bom estado ou de corrigir os odores corporais;\n\nt) «Fabricante», a pessoa singular ou coletiva responsável pela conceção, fabrico, acondicionamento e rotulagem de um dispositivo médico, com vista à sua colocação no mercado sob o seu próprio nome, independentemente das referidas operações serem efetuadas por essa pessoa, ou por terceiros por sua conta;\n\nu) «Farmacêutico qualificado», a pessoa licenciada em Ciências Farmacêuticas;\n\nv) «Inspeção», a atividade que consiste no controlo oficial dos documentos, instalações, registos, sistemas de garantia de qualidade e quaisquer outros elementos que sejam considerados relacionados com o estudo clínico;\n\nw) «Investigador», uma pessoa que exerça profissão reconhecida em Portugal para o exercício da atividade de investigação, devido às habilitações científicas e à habilitação legal para a prestação de cuidados que a mesma exija, que se responsabiliza pela realização do estudo clínico no centro de estudo e, sendo caso disso, pela equipa de investigação que executa o estudo nesse centro, podendo, neste caso, ser designado investigador principal;\n\nx) «Investigador-coordenador», o investigador responsável pela coordenação de todos os investigadores de todos os centros de estudos nacionais que participam num estudo clínico multicêntrico;\n\ny) «Mandatário» a pessoa singular ou coletiva, estabelecida na União Europeia, que, tendo sido expressamente designada pelo promotor ou fabricante, age e pode ser interpelada pelas autoridades e instâncias da União Europeia em nome do promotor ou do fabricante no que respeita às obrigações deste, nos termos da presente lei;\n\nz) «Medicamento experimental», a forma farmacêutica de uma substância ativa ou placebo, testada ou utilizada como referência num ensaio clínico, incluindo os medicamentos cuja introdução no mercado tenha sido autorizada, mas sejam utilizados ou preparados, quanto à forma farmacêutica ou acondicionamento, de modo diverso da forma autorizada, ou sejam utilizados para uma indicação não autorizada ou destinados a obter mais informações sobre a forma autorizada;\n\naa) «Monitor», o profissional, dotado da necessária competência científica ou clínica, designado pelo promotor para acompanhar o estudo clínico e para o manter permanentemente informado, relatando a sua evolução e verificando as informações e dados coligidos;\n\nbb) «Participante», a pessoa que participa no estudo clínico;\n\ncc) «Promotor», a pessoa, singular ou coletiva, o instituto ou o organismo responsável pela conceção, realização, gestão ou financiamento de um estudo clínico;\n\ndd) «Protocolo ou plano de investigação clínica», o documento que descreve a justificação, os objetivos, a conceção, a metodologia, a monitorização, os aspetos estatísticos, a organização e a condução de um estudo, assim como o arquivo dos respetivos registos, incluindo as versões sucessivas e as alterações daquele documento;\n\nee) «Reação adversa ou efeito adverso com dispositivo médico», qualquer manifestação nociva e indesejada registada a um medicamento experimental ou substância administrada a um doente ou participante no decurso do estudo clínico, independentemente da dose administrada ou qualquer acontecimento adverso relacionado com o uso do dispositivo médico no decurso do estudo;\n\nff) «Reação adversa inesperada ou efeito adverso grave inesperado», a reação adversa ou efeito adverso grave inesperado cuja natureza, gravidade, incidência ou consequência não esteja de acordo com a informação existente relativa à intervenção, nomeadamente na brochura do investigador, no caso de intervenção experimental, ou no resumo das caraterísticas do medicamento ou na análise de risco constante do dossier técnico do dispositivo médico, no caso de um medicamento autorizado ou dispositivo médico colocado no mercado;\n\ngg) «Relatório final do estudo clínico» a descrição, os resultados e a avaliação do estudo clínico, após a sua conclusão, considerando todas as observações de todos os seus participantes;\n\nhh) «Serviço farmacêutico idóneo», serviço que possui:\n\ni) uma autorização de aquisição direta de medicamentos emitida pelo INFARMED, I. P., nos termos da alínea d) do n.º 1 do artigo 79.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na qual conste averbamento que identifique o farmacêutico responsável, que deve possuir qualificação na área das boas práticas clínicas, de acordo com as normas aplicáveis, e garantir o cumprimento dos requisitos relativos ao circuito e armazenagem dos medicamentos experimentais e dos dispositivos utilizados para a sua administração, bem como dos demais medicamentos já autorizados necessários ou complementares à realização de ensaios clínicos; e\n\nii) uma autorização para aquisição direta de substâncias estupefacientes e ou psicotrópicas, nos termos do n.º 1 do artigo 5.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, republicado pelo Decreto Regulamentar n.º 28/2009, de 12 de outubro e do n.º 1 do artigo 4.º do Decreto-Lei n.º 15/93, de 22 de janeiro, caso o serviço farmacêutico manuseie substâncias desta natureza."
+  },
+  "56919754": {
+   "fragment_id": "56927699",
+   "type": 11,
+   "heading": "Artigo 3.º — Primado da pessoa humana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Primado da pessoa humana\n\n1 - Os estudos clínicos são realizados no estrito respeito pelo princípio da dignidade da pessoa humana e dos seus direitos fundamentais.\n\n2 - Os direitos dos participantes nos estudos clínicos prevalecem sempre sobre os interesses da ciência e da sociedade.\n\n3 - Na realização dos estudos clínicos, devem ser tomadas todas as precauções no sentido do respeito da privacidade do indivíduo e da minimização de eventuais danos para os seus direitos de personalidade e para a sua integridade física e mental."
+  },
+  "56919755": {
+   "fragment_id": "56927700",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de boas práticas clínicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de boas práticas clínicas\n\nTodos os estudos clínicos devem ser concebidos, realizados, registados e notificados e os seus resultados revistos e divulgados de acordo com os princípios das boas práticas clínicas, aplicáveis à investigação em seres humanos."
+  },
+  "56919756": {
+   "fragment_id": "56927701",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação de riscos e benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação de riscos e benefícios\n\n1 - A realização de estudos clínicos depende de avaliação prévia que conclua que os potenciais benefícios, no presente ou no futuro, superam os riscos e inconvenientes previsíveis.\n\n2 - Compete à CEC e ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), deliberar sobre a avaliação e conclusão referidas no número anterior, nas respetivas áreas de competência.\n\n3 - A CEC e o INFARMED, I. P., supervisionam a realização do estudo clínico e a manutenção das condições avaliadas, nas respetivas áreas de competência.\n\n4 - A avaliação descrita pode ser revista em qualquer momento no decurso do estudo clínico, mediante a existência de nova evidência ou de análises intercalares do próprio estudo."
+  },
+  "56919757": {
+   "fragment_id": "56927702",
+   "type": 1,
+   "heading": "Capítulo II — Dos participantes no estudo clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos participantes no estudo clínico"
+  },
+  "56919758": {
+   "fragment_id": "56927703",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições mínimas de proteção dos participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições mínimas de proteção dos participantes\n\n1 - Sem prejuízo do disposto no artigo anterior, um estudo clínico só pode realizar-se se, em relação ao participante no estudo ou, nos casos previstos nos artigos 7.º e 8.º, ao seu representante, forem cumpridos os seguintes requisitos:\n\na) Em entrevista prévia com o investigador, lhe forem explicados, de modo completo e em linguagem adequada à sua capacidade de compreensão, os objetivos, os riscos e os inconvenientes do estudo clínico, bem como as condições em que este é realizado;\n\nb) Na entrevista referida na alínea anterior, for informado do direito que lhe assiste de, a qualquer momento, se retirar do estudo clínico sem que tal implique qualquer alteração nos cuidados de saúde que lhe são, ou venham a ser prestados;\n\nc) Estiver assegurado o direito à integridade moral e física do participante, bem como o direito à privacidade e à proteção dos dados pessoais que lhe dizem respeito, de harmonia com o respetivo regime jurídico;\n\nd) For obtido o consentimento informado nos termos da presente lei;\n\ne) Existir um seguro que cubra a responsabilidade civil do promotor e do investigador, nos termos do disposto no n.º 2 do artigo 15.º;\n\nf) Os cuidados de saúde dispensados e as decisões clínicas tomadas em relação ao participante forem da responsabilidade de um profissional de saúde devidamente qualificado para as mesmas;\n\ng) For designado um contacto, junto do qual o participante pode obter informações mais detalhadas;\n\nh) Não forem concedidos quaisquer incentivos ou benefícios financeiros, sem prejuízo do reembolso das despesas e do ressarcimento pelos prejuízos sofridos com a participação no estudo clínico.\n\n2 - A CEC pode, de forma fundamentada e a título excecional, dispensar os requisitos constantes das alíneas a), b), d) e g) do número anterior nos estudos clínicos sem intervenção.\n\n3 - A CEC pode ainda, de forma fundamentada e a título excecional, dispensar o requisito constante da alínea e) do n.º 1 nos estudos clínicos, exceto no caso dos ensaios clínicos e dos estudos clínicos com intervenção de dispositivos médicos.\n\n4 - O participante ou o seu representante pode revogar, a todo o tempo, o consentimento informado, sem incorrer em qualquer forma de responsabilidade.\n\n5 - O disposto no número anterior não prejudica a prestação dos cuidados necessários ao estado de saúde do participante.\n\n6 - A revogação do consentimento não carece de forma especial, podendo ser expressa ou tácita."
+  },
+  "56919759": {
+   "fragment_id": "56927704",
+   "type": 11,
+   "heading": "Artigo 7.º — Participantes menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Participantes menores\n\n1 - Sem prejuízo do disposto no n.º 3, para além de outros requisitos impostos por lei, um estudo clínico só pode ser realizado em menores quando, cumulativamente:\n\na) For obtido o consentimento informado do menor com idade igual ou superior a 16 anos e do seu representante legal ou, no caso de o menor ter idade inferior à referida, do seu representante legal, o qual deve refletir a vontade presumível do menor, podendo, em ambos os casos, o consentimento ser revogado a todo o tempo, sem prejuízo para o menor;\n\nb) O menor tiver recebido informações sobre o estudo clínico e os respetivos riscos e benefícios, adequadas à sua capacidade de compreensão;\n\nc) O investigador ou, se for esse o caso, o investigador principal respeitar a vontade expressa do menor que seja capaz de formar uma opinião e avaliar as informações de se recusar a participar ou de se retirar do estudo clínico a qualquer momento.\n\n2 - O estudo clínico com intervenção só pode ser realizado em menores quando, cumulativamente:\n\na) Se verifiquem os requisitos referidos no número anterior;\n\nb) Tiver uma relação direta com o quadro clínico do menor ou, pela sua natureza, apenas possa ser realizado em menores e comporte benefícios diretos para o grupo de participantes, sendo essencial para validar dados obtidos em estudos realizados em pessoas capazes de dar o consentimento informado ou obtidos através de outros métodos de investigação;\n\nc) Tiver sido concebido para prevenir a doença ou o mal-estar, reabilitar, para minimizar a dor, o mal-estar, o medo ou qualquer outro risco previsível relacionado com a doença e com o grau de sofrimento desta, devendo o limiar do risco e o grau de sofrimento serem especificamente fixados e objeto de permanente verificação.\n\n3 - A CEC pode, de forma fundamentada e a título excecional, dispensar os requisitos constantes das alíneas a), b) e c) do n.º 1, nos estudos clínicos sem intervenção.\n\n4 - O estudo clínico com intervenção não pode ser realizado em menor sujeito a medida de acolhimento ou a medida institucional, nos termos da respetiva legislação, salvo se da não realização do estudo resultar um potencial prejuízo ou desvantagem para o mesmo.\n\n5 - Nas circunstâncias referidas no número anterior, o consentimento informado será prestado em articulação com o médico assistente."
+  },
+  "56919760": {
+   "fragment_id": "56927705",
+   "type": 11,
+   "heading": "Artigo 8.º — Participantes maiores incapazes de prestar consentimento informado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participantes maiores incapazes de prestar consentimento informado\n\n1 - Sem prejuízo do disposto no artigo 6.º, quando um participante maior não estiver em condições de prestar o consentimento informado, a realização do estudo clínico depende dos requisitos referidos nos números seguintes.\n\n2 - A realização de estudos clínicos com maiores que, antes do início da sua incapacidade, não tenham dado nem recusado o consentimento informado só é possível quando:\n\na) For obtido o consentimento informado do respetivo representante legal, nos termos do número seguinte, o qual deve refletir a vontade presumível do participante;\n\nb) A pessoa incapaz de dar o consentimento informado tiver recebido informações adequadas à sua capacidade de compreensão sobre o estudo clínico e os respetivos riscos e benefícios;\n\nc) O investigador ou, se for esse o caso, o investigador principal considerar a vontade expressa do participante que seja capaz de formar uma opinião.\n\n3 - O estudo clínico com intervenção só pode ser realizado em participantes maiores incapazes de prestar consentimento informado quando:\n\na) Se verifiquem os requisitos referidos no número anterior;\n\nb) O estudo clínico com intervenção for essencial para validar dados obtidos em estudos clínicos realizados em pessoas capazes de dar o consentimento informado ou através de outros métodos de investigação e estiver diretamente relacionado com o quadro de perigo de vida ou de debilidade de que sofra o participante em causa;\n\nc) O estudo clínico com intervenção, tiver sido concebido para prevenir a doença ou o mal-estar, reabilitar, minimizar a dor, o mal-estar, o medo ou qualquer outro previsível risco relacionado com a doença e com o grau de sofrimento desta, devendo o limiar de risco e o grau de sofrimento serem especificamente fixados e objeto de permanente verificação.\n\n4 - A CEC pode, de forma fundamentada e a título excecional, dispensar os requisitos constantes do n.º 2, nos estudos clínicos sem intervenção.\n\n5 - O estudo clínico com intervenção não pode ser realizado em incapaz de prestar consentimento informado que se encontre em acolhimento institucional, nos termos da respetiva legislação, salvo se da não realização do estudo resultar um potencial prejuízo ou desvantagem para o mesmo.\n\n6 - Nas circunstâncias referidas no número anterior, o consentimento informado será prestado em articulação com o médico assistente."
+  },
+  "56919761": {
+   "fragment_id": "56927706",
+   "type": 1,
+   "heading": "Capítulo III — Dos responsáveis pela realização do estudo clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos responsáveis pela realização do estudo clínico"
+  },
+  "56919762": {
+   "fragment_id": "56927707",
+   "type": 11,
+   "heading": "Artigo 9.º — Promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Promotor\n\n1 - Compete ao promotor:\n\na) Apresentar à CEC o pedido de parecer, referido no artigo 16.º;\n\nb) Requerer ao conselho diretivo do INFARMED, I. P., autorização para a realização do ensaio clínico, nos termos do artigo 26.º e de estudos clínicos com intervenção de dispositivos médicos, nos termos do artigo 33.º;\n\nc) Notificar o INFARMED, I. P., nos termos do artigo 34.º, nos estudos clínicos com intervenção de produtos cosméticos e de higiene corporal;\n\nd) Celebrar o contrato financeiro com o centro de estudo clínico, nos termos estabelecidos no artigo 13.º, salvo na situação de dispensa pela CEC em estudos clínicos sem intervenção;\n\ne) Propor o investigador, comprovando a qualificação científica e a habilitação profissional deste, e assegurar que este realiza o estudo clínico em conformidade com as exigências legais e regulamentares aplicáveis;\n\nf) Facultar ao investigador todos os dados químico-farmacêuticos, toxicológicos, farmacológicos, técnicos, de software, clínicos e de prova científica relevantes que garantam a segurança da intervenção e todas as informações necessárias à boa condução dos estudos, no caso de estudos clínicos com intervenção;\n\ng) Estabelecer e manter um sistema de segurança e vigilância do estudo clínico mediante monitorização efetuada sob responsabilidade de um profissional habilitado;\n\nh) Informar da existência dos pedidos e pareceres emitidos por comissões de ética sobre o mesmo estudo, ou suas variantes;\n\ni) Assegurar o cumprimento dos deveres de notificação, comunicação e de informação previstos na presente lei;\n\nj) Notificar a conclusão do estudo clínico, em conformidade com o disposto no artigo 19.º;\n\nk) Cumprir as demais obrigações legais e regulamentares aplicáveis.\n\n2 - O promotor deve indicar a entidade e local junto da qual o participante pode obter mais informações pormenorizadas relativas ao estudo clínico."
+  },
+  "56919763": {
+   "fragment_id": "56927708",
+   "type": 11,
+   "heading": "Artigo 10.º — Investigador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Investigador\n\nIncumbe ao investigador, designadamente:\n\na) Realizar o estudo clínico em conformidade com as boas práticas clínicas e as exigências legais e regulamentares aplicáveis;\n\nb) Informar e esclarecer o participante ou o seu representante, nos termos da presente lei;\n\nc) Obter o consentimento informado dos participantes, nos termos da presente lei;\n\nd) Cumprir os deveres de recolha, registo e notificação de reações e acontecimentos adversos previstos na presente lei;\n\ne) Propor ao promotor alterações ao protocolo, bem como a suspensão dos estudos, sempre que ocorram razões justificativas;\n\nf) Assegurar que as informações clínicas recolhidas durante o estudo estão contidas nas fichas clínicas, e elaborar um relatório final do estudo clínico;\n\ng) Garantir a confidencialidade na preparação, realização e conclusão do estudo clínico, bem como das informações respeitantes aos participantes no estudo clínico;\n\nh) Responsabilizar-se pelo acompanhamento clínico dos participantes durante a condução do estudo clínico e após a conclusão do mesmo, nos termos do parecer da CEC, e manter o responsável do centro de estudo clínico informado do seu andamento."
+  },
+  "56919764": {
+   "fragment_id": "56927709",
+   "type": 11,
+   "heading": "Artigo 11.º — Monitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Monitor\n\n1 - O monitor deve:\n\na) Garantir que os dados são registados de forma correta e completa;\n\nb) Verificar se o armazenamento, a distribuição, a devolução e a documentação dos materiais em investigação cumprem as normas de boas práticas clínicas.\n\n2 - As informações a prestar pelo monitor ao promotor compreendem a verificação das condições indispensáveis à realização do estudo clínico e a informação prestada a toda a equipa de investigação."
+  },
+  "56919765": {
+   "fragment_id": "56927710",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro de estudo clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Centro de estudo clínico\n\n1 - Compete ao centro de estudo clínico:\n\na) Definir os requisitos de aprovação dos contratos financeiros, disponibilizando um acordo modelo, em conformidade com o disposto no artigo seguinte;\n\nb) Decidir sobre a aprovação do contrato financeiro no prazo máximo de 15 dias a contar da data do pedido do investigador ou do promotor;\n\nc) Monitorizar a taxa de cumprimento dos contratos financeiros;\n\nd) Disponibilizar os dados relativos ao processo de aprovação e execução do contrato financeiro no Registo Nacional de Estudos Clínicos (RNEC).\n\n2 - A aprovação do contrato financeiro pode ocorrer em momento anterior ao parecer da CEC, sob condição de parecer favorável da mesma.\n\n3 - O contrato financeiro produz efeitos a partir da notificação do parecer favorável da CEC, desde que o protocolo constante do contrato não tenha sofrido alterações."
+  },
+  "56919766": {
+   "fragment_id": "56927711",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato financeiro\n\n1 - O promotor ou o seu mandatário deve celebrar contrato financeiro com o centro de estudo clínico, exceto no caso de estudos clínicos sem intervenção quando o mesmo for dispensado pela CEC.\n\n2 - Do contrato financeiro devem constar os seguintes elementos:\n\na) Os termos da realização do estudo clínico;\n\nb) As condições da sua efetivação;\n\nc) Os aspetos económicos com ele relacionados, designadamente:\n\ni) Os custos diretos do estudo clínico estabelecidos pelo centro de estudos clínico, identificando, de forma individualizada e por função desempenhada, a remuneração do investigador e dos restantes membros da equipa;\n\nii) Os custos indiretos, considerando-se como tais os despendidos na utilização de meios auxiliares de diagnóstico, os decorrentes de internamento não previsto do participante, os decorrentes do reembolso das despesas e do ressarcimento ou compensação pelas despesas e pelos prejuízos sofridos pelo participante;\n\niii) Os prazos de pagamento;\n\nd) As condições aprovadas pelas autoridades competentes a integrar no modelo de contrato financeiro;\n\ne) Todas as demais condições estabelecidas entre as partes."
+  },
+  "56919767": {
+   "fragment_id": "56927712",
+   "type": 11,
+   "heading": "Artigo 14.º — Remuneração do investigador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Remuneração do investigador\n\n1 - É permitida a remuneração do investigador, do investigador principal e dos membros da sua equipa, nos termos do contrato financeiro.\n\n2 - Sempre que o investigador ou o investigador principal ou os membros da sua equipa de investigação sejam trabalhadores do Serviço Nacional de Saúde, com relação jurídica de emprego público, a remuneração prevista no contrato financeiro é paga pelo centro de estudo clínico, com observância das regras gerais sobre a acumulação de funções previstas na lei de vínculos, carreiras e remunerações dos trabalhadores que exercem funções públicas."
+  },
+  "56919768": {
+   "fragment_id": "56927713",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade civil\n\n1 - O promotor e o investigador respondem, de forma solidária e independentemente de culpa, pelos danos patrimoniais e não patrimoniais que o estudo cause ao participante.\n\n2 - O promotor deve obrigatoriamente contratar um seguro destinado a cobrir a responsabilidade civil referida no número anterior, salvo se o mesmo for dispensado nos termos da presente lei.\n\n3 - Nos estudos clínicos com intervenção, presumem-se causados pelo estudo clínico os danos que afetem a saúde do participante durante a realização do estudo clínico e no ano seguinte à sua conclusão, sem prejuízo do disposto na alínea i) do n.º 6 do artigo 16.º\n\n4 - O parecer da CEC ou a autorização concedida pelo INFARMED, I. P., nos casos aplicáveis, não constituem fundamento de exclusão ou limitação da responsabilidade prevista no presente artigo.\n\n5 - O disposto na presente lei não constitui fundamento para eximir o promotor, o investigador, os membros da respetiva equipa de investigação e o centro de estudo clínico das formas de responsabilidade disciplinar, civil, contraordenacional ou penal estabelecidas na lei."
+  },
+  "56919769": {
+   "fragment_id": "56927714",
+   "type": 1,
+   "heading": "Capítulo IV — Dos estudos clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos estudos clínicos"
+  },
+  "56919770": {
+   "fragment_id": "56927715",
+   "type": 11,
+   "heading": "Artigo 16.º — Parecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Parecer\n\n1 - A realização de estudos clínicos é obrigatoriamente precedida de parecer favorável da CEC, a emitir no prazo de 30 dias, sem o qual o estudo não pode ser realizado.\n\n2 - Nos ensaios clínicos e nos estudos com intervenção de dispositivos médicos, a CEC é a CEIC, que emite um parecer único, salvo se esta designar uma CES para o efeito.\n\n3 - Nos restantes estudos, a CEC é:\n\na) A CES que funciona no centro de estudo clínico envolvido; ou\n\nb) No caso do centro de estudo clínico envolvido não dispor de CES, a CEIC ou a CES por ela designada.\n\n4 - A CEC deve estar dotada de competência específica no domínio da patologia e da população a que se refere o estudo clínico ou obter o respetivo aconselhamento em questões clínicas, éticas e psicossociais ligadas à doença e à população em causa.\n\n5 - O pedido de parecer é apresentado à CEC pelo promotor, através do RNEC, instruído de acordo com as indicações pormenorizadas a estabelecer pela CEIC.\n\n6 - No parecer a CEC deve pronunciar-se obrigatoriamente sobre:\n\na) A pertinência do estudo clínico e da sua conceção;\n\nb) A avaliação dos benefícios e riscos previsíveis;\n\nc) O protocolo, incluindo os planos de divulgação do estudo;\n\nd) A aptidão do investigador principal e dos restantes membros da equipa;\n\ne) As condições materiais e humanas necessárias à realização do estudo clínico;\n\nf) Os montantes e as modalidades de retribuição ou compensação eventuais dos investigadores e dos participantes nos estudos clínicos e os elementos pertinentes de qualquer contrato financeiro previsto entre o promotor e o centro de estudo clínico;\n\ng) As modalidades de recrutamento dos participantes;\n\nh) As situações de conflito de interesses por parte do promotor ou investigador envolvidos no estudo clínico;\n\ni) O prazo e as condições de acompanhamento clínico dos participantes, após a conclusão do estudo clínico, bem como, quando aplicável, o prazo de presunção se superior ao previsto no n.º 3 do artigo 15.º;\n\nj) O procedimento de obtenção do consentimento informado, incluindo as informações a prestar aos participantes.\n\n7 - Nos estudos clínicos com intervenção o parecer da CEC deve ainda pronunciar-se sobre:\n\na) A brochura do investigador;\n\nb) A qualidade das instalações;\n\nc) As disposições sobre indemnização por danos patrimoniais e não patrimoniais, incluindo o dano morte, imputáveis ao estudo clínico;\n\nd) Os seguros destinados a cobrir a responsabilidade do investigador e do promotor;\n\ne) A fundamentação da realização do estudo clínico com intervenção em que participem menores ou maiores incapazes de prestar consentimento informado, nos termos do n.º 2 do artigo 7.º e do n.º 3 do artigo 8.º\n\n8 - O parecer fundamentado deve ser comunicado, através do RNEC, ao requerente, à CEIC, quando não tenha sido esta a emiti-lo, e ao INFARMED, I. P., nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal.\n\n9 - No exercício das suas competências e para os efeitos do n.º 3 do artigo 1.º, a Comissão Nacional de Proteção de Dados (CNPD pronuncia-se num prazo de 30 dias."
+  },
+  "56919771": {
+   "fragment_id": "56927716",
+   "type": 11,
+   "heading": "Artigo 17.º — Suspensão e prorrogação de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Suspensão e prorrogação de prazos\n\n1 - No decurso do prazo referido no n.º 1 do artigo anterior e do n.º 3 do artigo 18.º, a CEC pode solicitar, uma única vez, informações complementares ao requerente, suspendendo-se o prazo para a emissão do parecer até à receção das informações.\n\n2 - O prazo para a emissão do parecer pode ser prorrogado por mais 20 dias no que respeita aos ensaios clínicos que envolvam medicamentos:\n\na) De terapia génica;\n\nb) De terapia celular somática;\n\nc) Que contenham organismos geneticamente modificados.\n\n3 - O prazo referido no número anterior pode ser prorrogado por mais 50 dias, no caso de consulta a grupos ou comités de peritos.\n\n4 - O parecer sobre ensaios clínicos que envolvam medicamentos de terapia celular xenogénica não está sujeito a qualquer prazo."
+  },
+  "56919772": {
+   "fragment_id": "56927717",
+   "type": 11,
+   "heading": "Artigo 18.º — Alterações ao protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alterações ao protocolo\n\n1 - Após o início de um estudo clínico, o promotor pode introduzir modificações no protocolo, desde que estas não alterem as condições avaliadas nos termos do n.º 1 do artigo 5.º, exceto se:\n\na) Tiverem incidências na segurança dos participantes;\n\nb) Alterem a interpretação das provas científicas em que assenta a realização do estudo clínico.\n\n2 - Nos casos referidos no número anterior, o promotor deve solicitar à CEC a modificação do protocolo, através do RNEC, e o estudo clínico só pode prosseguir de acordo com o protocolo alterado após parecer favorável da mesma.\n\n3 - A CEC emite o parecer no prazo de 20 dias a contar da data do pedido de modificação do protocolo, com base nos elementos referidos no n.os 6 e 7 do artigo 16.º e nos pareceres adotados no quadro de estudos clínicos multicêntricos, nas situações aplicáveis.\n\n4 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, o promotor notifica ainda o INFARMED, I. P., dos motivos e do teor das alterações propostas.\n\n5 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, se a CEC emitir parecer favorável e o INFARMED, I. P., ou qualquer das autoridades dos restantes Estados membros envolvidos, não emitirem objeções fundamentadas, o promotor pode prosseguir o estudo clínico de acordo com o protocolo alterado.\n\n6 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, se a CEC emitir parecer favorável e o INFARMED, I. P., ou qualquer das autoridades dos restantes Estados membros envolvidos, emitirem objeções fundamentadas, o promotor só pode prosseguir o estudo clínico se adaptar o protocolo às objeções transmitidas ou se retirar a proposta de modificação.\n\n7 - As autoridades competentes emitem orientações pormenorizadas sobre o processo e a informação necessária para a notificação de alterações ao protocolo."
+  },
+  "56919773": {
+   "fragment_id": "56927718",
+   "type": 11,
+   "heading": "Artigo 19.º — Conclusão do estudo clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conclusão do estudo clínico\n\n1 - O promotor notifica a CEC, através do RNEC, no prazo de 90 dias a contar da data de conclusão da participação do último participante no estudo clínico.\n\n2 - O investigador ou o promotor disponibiliza à CEC os resultados finais decorrentes da realização dos estudos clínicos registados no RNEC, sob a forma de relatório final do estudo clínico, de publicações ou de apresentações.\n\n3 - O relatório final, o desenho do estudo, os instrumentos de recolha de dados de domínio público, e a metainformação das bases de dados do estudo clínico devem ser disponibilizados à CEC, através do RNEC, no prazo de 12 meses após a conclusão da participação do último participante no estudo clínico.\n\n4 - As publicações e as apresentações relativas ao estudo clínico devem ser disponibilizadas à CEC, através do RNEC, no prazo de 30 dias após a sua divulgação.\n\n5 - Nos estudos com financiamento direto ou indireto através de fundos públicos, o investigador ou o promotor deve disponibilizar à CEC, através do RNEC, uma versão pública das bases de dados do estudo clínico, devidamente autorizada pela CNPD e no respeito pelos direitos do promotor e investigador em matéria de propriedade intelectual, dentro de três anos após a conclusão da participação do último participante no estudo clínico.\n\n6 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal:\n\na) O conselho diretivo do INFARMED, I. P., é notificado da conclusão do estudo clínico, nos termos do n.º 1;\n\nb) Se a conclusão do estudo clínico tiver sido antecipada, o prazo referido no n.º 1 é reduzido para 15 dias, devendo os motivos ser claramente expostos na notificação;\n\nc) A notificação é elaborada e apresentada de acordo com as indicações pormenorizadas aprovadas por deliberação do conselho diretivo do INFARMED, I. P.\n\n7 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos, no caso de antecipação da conclusão do estudo por motivos de segurança, a notificação é transmitida no prazo de 15 dias, pelo INFARMED, I. P., às autoridades de todos os Estados membros e à Comissão Europeia."
+  },
+  "56919774": {
+   "fragment_id": "56927719",
+   "type": 1,
+   "heading": "Capítulo V — Dos estudos clínicos com intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Dos estudos clínicos com intervenção"
+  },
+  "56927975": {
+   "fragment_id": "56927720",
+   "type": 8,
+   "heading": "Secção I — Dos estudos clínicos com intervenção em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos estudos clínicos com intervenção em geral"
+  },
+  "56927976": {
+   "fragment_id": "56927721",
+   "type": 11,
+   "heading": "Artigo 20.º — Medidas urgentes de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Medidas urgentes de segurança\n\n1 - O promotor e o investigador adotam todas as medidas urgentes que se mostrem adequadas à proteção dos participantes contra qualquer risco imediato para a sua segurança, nomeadamente resultante da superveniência de qualquer facto relacionado com o desenrolar do estudo clínico com intervenção ou com o desenvolvimento do medicamento experimental, do dispositivo sob investigação ou de qualquer outra intervenção.\n\n2 - O promotor transmite sem demora à CEC e, nos ensaios clínicos, nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, igualmente ao INFARMED, I. P., e às demais autoridades competentes dos Estados membros envolvidos, os elementos de risco e as medidas adotadas."
+  },
+  "56927977": {
+   "fragment_id": "56927722",
+   "type": 11,
+   "heading": "Artigo 21.º — Suspensão ou revogação do estudo clínico com intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Suspensão ou revogação do estudo clínico com intervenção\n\n1 - O INFARMED, I. P., no caso dos ensaios clínicos, nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, ou a CEC em qualquer estudo clínico com intervenção, podem suspender ou revogar a autorização para a realização do estudo clínico se tiverem razões objetivas para considerar que deixaram de estar preenchidas as condições em que se fundamentou o seu parecer ou autorização ou se dispuserem de informação que suscite dúvidas quanto à segurança ou ao fundamento científico do estudo clínico.\n\n2 - Exceto em caso de urgência, a deliberação de suspensão ou revogação do parecer ou autorização do estudo clínico com intervenção deve ser precedida de audiência escrita do promotor, o qual dispõe do prazo de sete dias consecutivos para o efeito.\n\n3 - A deliberação de suspensão ou revogação do parecer ou da autorização referida no n.º 1 é notificada, simultaneamente, ao promotor e às autoridades competentes dos outros Estados membros envolvidos e à Comissão Europeia e é disponibilizada no RNEC.\n\n4 - Existindo motivos objetivos para considerar que qualquer interveniente no estudo clínico com intervenção não está a cumprir as suas obrigações, a CEC e, nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, o INFARMED, I. P., comunicam ao faltoso as medidas que este deve adotar para corrigir a referida situação, bem como a respetiva fundamentação.\n\n5 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, as medidas referidas no número anterior são igualmente transmitidas às demais autoridades competentes dos Estados membros envolvidos e à Comissão Europeia."
+  },
+  "56927978": {
+   "fragment_id": "56927723",
+   "type": 11,
+   "heading": "Artigo 22.º — Registo e notificação de reações e acontecimentos adversos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Registo e notificação de reações e acontecimentos adversos\n\n1 - O investigador notifica ao promotor, no prazo máximo de 24 horas, todas as reações e acontecimentos adversos graves, e no caso dos dispositivos médicos, também os defeitos dos dispositivos que poderiam ter conduzido a um acontecimento adverso grave, exceto os que se encontrem identificados no protocolo ou na brochura do investigador como não carecendo de notificação imediata.\n\n2 - Após a notificação referida no número anterior, o investigador apresenta ao promotor um relatório escrito pormenorizado, no prazo máximo de cinco dias.\n\n3 - Na notificação e nos relatórios posteriores, os participantes são identificados por meio de um número de código.\n\n4 - Os acontecimentos e reações adversas ou os resultados anormais das análises laboratoriais definidos no protocolo como determinantes para as avaliações de segurança são igualmente notificados, de acordo com os requisitos de notificação e dentro dos prazos especificados no protocolo.\n\n5 - O promotor assegura:\n\na) No caso dos medicamentos, que todos os dados importantes relativos a suspeitas de reações adversas graves e inesperadas que tenham causado ou possam causar a morte do participante são registados e notificados à CEC, à autoridade competente a nível nacional e às autoridades competentes de todos os Estados membros envolvidos, no prazo máximo de sete dias, contados a partir do momento em que deles tomar conhecimento;\n\nb) No caso dos dispositivos, que todos os dados importantes relativos a acontecimentos adversos graves que tenham causado ou possam causar a morte ou deterioração grave do estado de saúde dos participantes, utilizadores ou terceiros envolvidos no estudo, são registados e notificados à CEC, à autoridade competente a nível nacional e às autoridades competentes de todos os Estados membros envolvidos imediatamente e não mais que dois dias a partir do momento em que deles tomar conhecimento;\n\nc) Outro tipo de acontecimentos adversos notificáveis, nomeadamente, relativos a defeitos dos dispositivos que poderiam ter conduzido a um acontecimento adverso grave e novos dados relativos a qualquer acontecimento adverso, são registados e notificados à CEC, à autoridade competente a nível nacional e às autoridades competentes de todos os Estados membros envolvidos no prazo máximo de sete dias, contados a partir do momento em que deles tomar conhecimento.\n\n6 - Toda a informação superveniente considerada relevante é comunicada no prazo de oito dias contados do termo do prazo previsto no número anterior.\n\n7 - O investigador transmite ao promotor, à CEC e à autoridade competente todas as informações complementares que lhe sejam solicitadas.\n\n8 - O promotor mantém registos pormenorizados de todos os acontecimentos adversos que lhe sejam notificados por qualquer investigador, devendo, se solicitado a fazê-lo, enviá-los às autoridades dos Estados membros envolvidos.\n\n9 - Todas as outras suspeitas de reações adversas graves e inesperadas ou acontecimentos adversos graves são notificadas pelo promotor à CEC, à autoridade competente, e às restantes autoridades competentes envolvidas, no prazo máximo de 15 dias contados a partir do seu conhecimento pelo promotor.\n\n10 - Durante a realização do estudo clínico com intervenção e até à sua conclusão, o promotor apresenta anualmente à CEC e à autoridade competente, uma lista de todas as suspeitas de reações adversas graves ou acontecimentos adversos graves ocorridos durante esse período, bem como um relatório relativo à segurança dos participantes.\n\n11 - As autoridades competentes emitem orientações pormenorizadas sobre o processo e a informação necessária para a notificação e investigação de acontecimentos e reações adversos."
+  },
+  "56927979": {
+   "fragment_id": "56927724",
+   "type": 11,
+   "heading": "Artigo 23.º — Fornecimento gratuito e uso compassivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fornecimento gratuito e uso compassivo\n\n1 - Os tratamentos, incluindo os medicamentos experimentais e os dispositivos utilizados para a sua administração, os dispositivos sob investigação, bem como os demais medicamentos já autorizados e dispositivos médicos já colocados no mercado, consultas e exames complementares de diagnóstico, cuja necessidade de utilização decorra apenas da prática clínica prevista para a realização do estudo e sejam adicionais à prática clínica estabelecida ou corrente, são fornecidos gratuitamente pelo promotor, sem prejuízo de compensações adicionais a estabelecer no contrato financeiro.\n\n2 - Após a conclusão do estudo clínico com intervenção, os tratamentos referidos no número anterior devem, até à sua comercialização, ser disponibilizados gratuitamente pelo promotor ao participante, desde que o investigador considere indispensável a continuação da sua utilização pelo mesmo e não existam alternativas terapêuticas de eficácia e segurança equiparáveis.\n\n3 - Para efeitos do disposto no número anterior, deve o investigador:\n\na) Obter o consentimento informado do participante ou do seu representante legal;\n\nb) Apresentar um relatório clínico justificativo da necessidade de continuação do tratamento;\n\nc) Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, comunicar à CEC, ao INFARMED, I. P., e ao responsável pela unidade de saúde, no prazo mais curto possível, a continuação do tratamento, da administração do medicamento ou da utilização do dispositivo médico;\n\nd) Notificar a CEC e o INFARMED, I. P., das reações e dos acontecimentos adversos que ocorram no decurso da administração do medicamento ou da utilização do dispositivo médico."
+  },
+  "56927980": {
+   "fragment_id": "56927725",
+   "type": 11,
+   "heading": "Artigo 24.º — Normas orientadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Normas orientadoras\n\nO conselho diretivo do INFARMED, I. P., aprova normas orientadoras para os ensaios clínicos e para os estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, tendo em conta as diretrizes aprovadas a nível da União Europeia, designadamente sobre:\n\na) A definição de princípios de boas práticas clínicas e orientações científicas pertinentes, em consonância com as orientações da Agência Europeia de Medicamentos, da Comissão Europeia, a norma EN ISO 14155 e outras disposições aplicáveis;\n\nb) As condições a integrar no modelo de contrato financeiro;\n\nc) A apresentação e o conteúdo dos pedidos referidos no n.º 1 do artigo 26.º e no n.º 2 do artigo 28.º;\n\nd) A documentação a apresentar com os pedidos referidos na alínea anterior, relativa à qualidade e fabrico do medicamento experimental, aos testes toxicológicos e farmacológicos, ao protocolo e às informações clínicas relativas ao medicamento experimental, nomeadamente a brochura do investigador;\n\ne) A apresentação e o conteúdo da proposta de alteração do protocolo, após o início do estudo;\n\nf) A notificação da conclusão do estudo;\n\ng) A base de dados europeia e intercâmbio dos dados dela constantes, por via eletrónica, no respeito estrito pelo princípio da confidencialidade dos mesmos;\n\nh) Os requisitos mínimos para a autorização de fabrico ou importação de medicamentos experimentais, aplicáveis tanto ao requerente como, posteriormente, ao titular;\n\ni) As informações que devem constar da embalagem exterior ou do acondicionamento primário de um medicamento experimental;\n\nj) A documentação sobre o ensaio que constitua o seu processo permanente, métodos de arquivo, a qualificação dos inspetores e os procedimentos de inspeção destinados a verificar a conformidade do ensaio com as disposições normativas aplicáveis;\n\nk) A recolha, a verificação e a apresentação dos relatórios sobre os acontecimentos ou reações adversas, assim como as modalidades de descodificação relativas às reações adversas inesperadas."
+  },
+  "56927981": {
+   "fragment_id": "56927726",
+   "type": 11,
+   "heading": "Artigo 25.º — Autorização e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Autorização e notificação\n\n1 - Para além do parecer da CEC, a realização de ensaios clínicos e de estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal carece de autorização do conselho diretivo do INFARMED, I. P., ou notificação a este, nos termos previstos nos artigos seguintes.\n\n2 - Os estudos clínicos referidos no número anterior devem respeitar as orientações científicas aprovadas pelo conselho diretivo do INFARMED, I. P., em consonância com as orientações da Agência Europeia de Medicamentos, da Comissão Europeia, das Normas Europeias Harmonizadas e demais disposições aplicáveis.\n\n3 - O pedido de autorização ou a respetiva notificação podem ser apresentados simultaneamente com o pedido de parecer referido no n.º 5 do artigo 16.º"
+  },
+  "56927982": {
+   "fragment_id": "56927727",
+   "type": 8,
+   "heading": "Secção II — Dos ensaios clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos ensaios clínicos"
+  },
+  "56927983": {
+   "fragment_id": "56927728",
+   "type": 3,
+   "heading": "Subsecção I — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Autorização"
+  },
+  "56927984": {
+   "fragment_id": "56927729",
+   "type": 11,
+   "heading": "Artigo 26.º — Procedimento de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Procedimento de autorização\n\n1 - O pedido de autorização para a realização de ensaios clínicos é apresentado ao INFARMED, I. P., pelo promotor, através do RNEC, e é instruído com os seguintes elementos:\n\na) O protocolo;\n\nb) A brochura do investigador;\n\nc) A identificação completa do promotor do ensaio clínico, do investigador, do investigador principal ou do investigador-coordenador;\n\nd) A identificação e as qualificações de todos os membros da equipa de investigação envolvidos no ensaio clínico;\n\ne) A identificação dos centros de estudos clínicos envolvidos, bem como declaração emitida pelo responsável dos centros de estudos clínicos indicando os termos da respetiva participação;\n\nf) A identificação das respetivas autoridades competentes, bem como, se existirem, os pareceres das comissões de ética aí proferidos, traduzidos para a língua portuguesa, no caso de ensaios clínicos multicêntricos envolvendo centros de ensaio de outros Estados membros da União Europeia ou de países terceiros;\n\ng) O dossier do medicamento experimental, no caso de ensaio clínico com medicamento experimental;\n\nh) Outros elementos considerados necessários de acordo com a Norma Orientadora aplicável da Comissão Europeia.\n\n2 - No prazo máximo de 30 dias, o conselho diretivo do INFARMED, I. P., delibera sobre o pedido de autorização.\n\n3 - No decurso do prazo referido no número anterior, o INFARMED, I. P., pode solicitar ao requerente, uma única vez, informações ou documentos complementares ao pedido apresentado, suspendendo-se o prazo até à receção das informações ou documentos.\n\n4 - No caso de o INFARMED, I. P., apresentar ao promotor objeções fundamentadas, o promotor pode, no prazo que lhe for fixado para o efeito, alterar, uma única vez, o conteúdo do pedido de autorização, suspendendo-se o prazo do n.º 2 até à apresentação da modificação.\n\n5 - A não modificação do pedido, em conformidade com o número anterior, implica a sua rejeição, não podendo realizar-se o ensaio clínico."
+  },
+  "56927985": {
+   "fragment_id": "56927730",
+   "type": 11,
+   "heading": "Artigo 27.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Casos especiais\n\n1 - O INFARMED, I. P., pode decidir sobre a necessidade de autorização expressa para os ensaios clínicos que envolvam medicamentos:\n\na) Sem autorização de introdução no mercado e que constem do anexo A do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0726\" title=\"Link para Regulamento da Comunidade Europeia\">726/2004</a> do Parlamento Europeu e do Conselho, de 31 de março de 2004;\n\nb) Que apresentem características especiais, designadamente aqueles cujas substância ou substâncias ativas sejam produtos biológicos de origem humana ou animal, contenham componentes biológicos de origem humana ou animal ou cuja produção requeira a utilização de tais componentes.\n\n2 - Dependem sempre de autorização expressa os ensaios clínicos que envolvam os seguintes medicamentos:\n\na) De terapia génica;\n\nb) De terapia celular somática;\n\nc) Que contenham organismos geneticamente modificados;\n\nd) De terapia celular xenogénica.\n\n3 - Nos casos previstos nas alíneas a) a c) do número anterior, o prazo de 30 dias para a autorização pode ser prorrogado por mais 20 dias.\n\n4 - O prazo referido no número anterior pode ainda ser prorrogado por mais 50 dias, caso haja lugar à consulta a grupos ou comités de peritos.\n\n5 - A autorização relativa a ensaios clínicos que envolvam medicamentos de terapia celular xenogénica não está sujeita a qualquer prazo.\n\n6 - Não podem ser realizados quaisquer ensaios envolvendo terapia génica que possam dar origem a modificações na identidade genética germinal do participante.\n\n7 - A autorização referida no n.º 1 é concedida sem prejuízo da eventual aplicação dos regimes jurídicos relativos à utilização confinada de microrganismos geneticamente modificados e à libertação deliberada no ambiente de organismos geneticamente modificados."
+  },
+  "56927986": {
+   "fragment_id": "56927731",
+   "type": 3,
+   "heading": "Subsecção II — Medicamentos experimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Medicamentos experimentais"
+  },
+  "56927987": {
+   "fragment_id": "56927732",
+   "type": 11,
+   "heading": "Artigo 28.º — Fabrico e a importação de medicamentos experimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fabrico e a importação de medicamentos experimentais\n\n1 - O fabrico e a importação de medicamentos experimentais estão sujeitos a autorização do conselho diretivo do INFARMED, I. P., que é válida durante o período de realização do ensaio.\n\n2 - A instrução do pedido de autorização de fabrico ou de importação, bem como as informações que devem constar da apresentação do requerimento, são definidas por deliberação do conselho diretivo do INFARMED, I. P.\n\n3 - O fabrico e a importação observam o disposto nas normas sobre boas práticas de fabrico dos medicamentos de uso humano."
+  },
+  "56927988": {
+   "fragment_id": "56927733",
+   "type": 11,
+   "heading": "Artigo 29.º — Obrigação do titular da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Obrigação do titular da autorização\n\n1 - O titular da autorização referida no artigo anterior fica obrigado a dispor, de forma efetiva e permanente, de um farmacêutico qualificado que assuma as obrigações referidas no artigo seguinte.\n\n2 - O titular da autorização é solidariamente responsável com o farmacêutico qualificado referido no número anterior."
+  },
+  "56927989": {
+   "fragment_id": "56927734",
+   "type": 11,
+   "heading": "Artigo 30.º — Obrigações do farmacêutico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Obrigações do farmacêutico\n\n1 - Sem prejuízo das suas relações com o fabricante e o importador, o farmacêutico qualificado referido no n.º 1 do artigo anterior é, nomeadamente, responsável:\n\na) Em relação ao fabrico e controlo de cada lote de medicamentos experimentais fabricado em Portugal, pelo cumprimento de normas que estabelecem os princípios e diretrizes de boas práticas de fabrico de medicamentos experimentais, de acordo com as especificações do produto e a informação transmitida para efeitos do disposto no artigo 26.º;\n\nb) Em relação ao controlo de cada lote de medicamentos experimentais fabricado em países terceiros, pelo cumprimento de normas no mínimo equivalentes às referidas na alínea anterior, de acordo com as especificações do produto e a informação transmitida para efeitos do disposto no artigo 26.º;\n\nc) Em relação aos medicamentos experimentais que sejam medicamentos de comparação provenientes de países terceiros e neles possuam uma autorização de introdução no mercado, pelo respeito pelas normas referidas nas alíneas anteriores, ou, na impossibilidade de tal comprovação documental, pela realização das análises, ensaios ou verificações necessários para confirmar que a sua qualidade está conforme com a informação notificada juntamente com o pedido de autorização, nos termos do disposto no artigo 26.º, sem prejuízo das inspeções a que haja lugar;\n\nd) Em relação a cada lote de fabrico, pelo registo e atestação, em livro de registo próprio ou documento equivalente;\n\ne) Pela atualização permanente do livro de registo ou documento equivalente referidos na alínea anterior.\n\n2 - O livro de registo ou documento equivalente deve ser mantido à disposição da autoridade competente durante 10 anos.\n\n3 - Os medicamentos experimentais provenientes de outro Estado membro da União Europeia não estão sujeitos a quaisquer controlos posteriores, desde que:\n\na) Esteja cumprido o disposto nas alíneas a), b) ou c) do n.º 1;\n\nb) Se apresentem acompanhados dos certificados de libertação dos lotes, assinados pelo farmacêutico qualificado."
+  },
+  "56927990": {
+   "fragment_id": "56927735",
+   "type": 11,
+   "heading": "Artigo 31.º — Rotulagem de medicamentos experimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Rotulagem de medicamentos experimentais\n\n1 - As informações que figuram na embalagem exterior dos medicamentos experimentais ou, se esta não existir, no respetivo acondicionamento primário devem ser redigidas em língua portuguesa.\n\n2 - As informações podem igualmente ser redigidas noutras línguas, sem prejuízo do disposto no número anterior.\n\n3 - As informações referidas no n.º 1 devem observar as normas de boas práticas de fabrico dos medicamentos de uso humano.\n\n4 - As normas referidas no número anterior devem conter disposições específicas no respeitante à rotulagem de medicamentos experimentais que apresentem as seguintes características:\n\na) Não requeiram, para a sua conceção, um fabrico ou uma embalagem particular;\n\nb) Sejam realizados com medicamentos experimentais que, nos Estados membros envolvidos, beneficiem de uma autorização de introdução no mercado e tenham sido fabricados ou importados de acordo com o regime jurídico dos medicamentos de uso humano;\n\nc) Os participantes no ensaio clínico apresentem situações clínicas que estejam incluídas nas indicações constantes da autorização de introdução no mercado do referido medicamento."
+  },
+  "56927991": {
+   "fragment_id": "56927736",
+   "type": 11,
+   "heading": "Artigo 32.º — Circuito do medicamento experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Circuito do medicamento experimental\n\n1 - Nos estabelecimentos de saúde onde se realizem ensaios clínicos, os medicamentos experimentais e os dispositivos utilizados para a sua administração, bem como os demais medicamentos já autorizados eventualmente necessários ou complementares à realização de ensaios clínicos, devem ser armazenados e cedidos pelos respetivos serviços farmacêuticos hospitalares, ou serviço farmacêutico idóneo, garantindo a segregação do medicamento e a segregação do respetivo circuito.\n\n2 - Para efeitos do número anterior, os serviços farmacêuticos hospitalares responsáveis pelo circuito do medicamento devem manter registos e confirmação do armazenamento e da utilização dos medicamentos destinados à realização dos ensaios clínicos, garantindo a respetiva segurança, responsabilidade, transparência e rastreabilidade.\n\n3 - Os serviços farmacêuticos são responsáveis pela receção, armazenamento, preparação, dispensa, recolha e devolução ou destruição do medicamento, tendo o dever de elaborar um documento descritivo do circuito do medicamento experimental contendo elementos relativos à receção, ao armazenamento, à dispensa e à administração do medicamento experimental."
+  },
+  "56927992": {
+   "fragment_id": "56927737",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III\n\nDos estudos clínicos com intervenção de dispositivos médicos e de produtos cosméticos e de higiene corporal"
+  },
+  "56927993": {
+   "fragment_id": "56927738",
+   "type": 11,
+   "heading": "Artigo 33.º — Estudos clínicos com intervenção de dispositivos médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Estudos clínicos com intervenção de dispositivos médicos\n\n1 - Os dispositivos destinados a estudos clínicos com intervenção podem ser colocados à disposição dos investigadores, desde que preencham as condições estabelecidas no Decreto-Lei n.º 145/2009, de 17 de junho.\n\n2 - A realização de estudos clínicos com intervenção de dispositivos médicos da classe III, bem como de dispositivos implantáveis e dispositivos invasivos das classes IIa ou IIb para utilização por longos prazos carece de autorização do INFARMED, I. P.\n\n3 - Para as restantes classes de dispositivos, a realização de estudos clínicos com intervenção de dispositivos médicos depende apenas de parecer favorável da CEC e de notificação do INFARMED, I. P..\n\n4 - Para efeitos do disposto no número anterior, o promotor dos estudos clínicos com intervenção de dispositivos médicos da classe III, bem como de dispositivos implantáveis e dispositivos invasivos das classes IIa ou IIb para utilização por longos prazos, apresenta o pedido de autorização ou a notificação, quando aplicável, nos termos do procedimento referido no anexo VIII do Decreto-Lei n.º 145/2009, de 17 de junho, ou, no caso de dispositivos médicos implantáveis ativos, no anexo XV do mesmo decreto-lei, exceto da alínea h) do ponto 2.2.\n\n5 - No prazo máximo de 30 dias, o conselho diretivo do INFARMED, I. P., delibera sobre o pedido de autorização.\n\n6 - No decurso do prazo referido no número anterior o INFARMED, I. P., pode solicitar ao requerente, uma única vez, informações ou documentos complementares ao pedido apresentado, suspendendo-se o prazo até à receção das informações ou documentos em causa.\n\n7 - No caso de o INFARMED, I. P., apresentar ao promotor objeções fundamentadas, o promotor pode, no prazo que lhe for fixado para o efeito, alterar, uma única vez, o conteúdo do pedido de autorização, suspendendo-se o prazo do n.º 5 até à apresentação dessa alteração.\n\n8 - A não alteração do pedido, em conformidade com o número anterior, implica a sua rejeição, não podendo realizar-se o estudo clínico com intervenção de dispositivos médicos."
+  },
+  "56927994": {
+   "fragment_id": "56927739",
+   "type": 11,
+   "heading": "Artigo 34.º — Estudos de produtos cosméticos e de higiene corporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Estudos de produtos cosméticos e de higiene corporal\n\n1 - A realização de estudos clínicos com intervenção de produtos cosméticos e de higiene corporal depende de prévia notificação ao INFARMED, I. P., por parte do promotor.\n\n2 - Os estudos clínicos referidos no número anterior respeitam as orientações científicas aprovadas pelo conselho diretivo do INFARMED, I. P., em consonância com orientações internacionais e disposições aplicáveis.\n\n3 - O estudo pode ser iniciado 30 dias após a notificação referida no n.º 1, salvo se, dentro desse prazo, o INFARMED, I. P., emitir decisão, devidamente fundamentada, desfavorável à sua realização e a notificar ao promotor."
+  },
+  "56927995": {
+   "fragment_id": "56927740",
+   "type": 1,
+   "heading": "Capítulo VI — Comissões de ética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Comissões de ética"
+  },
+  "56927996": {
+   "fragment_id": "56927741",
+   "type": 11,
+   "heading": "Artigo 35.º — Comissão de Ética para a Investigação Clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comissão de Ética para a Investigação Clínica\n\n1 - A CEIC é dotada de independência técnica e científica e funciona junto do INFARMED, I. P., sob a tutela do membro do Governo responsável pela área da saúde.\n\n2 - Compete à CEIC:\n\na) Definir os princípios de boas práticas clínicas e orientações científicas pertinentes, sem prejuízo das competências do INFARMED, I. P., nesta matéria;\n\nb) Definir as faculdades e os requisitos materiais e humanos que as CES devem reunir para estarem habilitadas a emitir parecer;\n\nc) Emitir normas orientadoras relativas às condições a integrar no modelo de contrato financeiro, sem prejuízo das competências do INFARMED, I. P., nesta matéria;\n\nd) Emitir o parecer único previsto no artigo 16.º;\n\ne) Emitir parecer relativo aos estudos clínicos a decorrer nos centros de estudos clínicos que não possuam CES, sem prejuízo da possibilidade de designar uma CES para esse fim, nos termos do artigo 16.º;\n\nf) Promover ações de formação, capacitação, desenvolvimento, certificação e acreditação, monitorização, inspeção e avaliação da atividade das CES;\n\ng) Emitir normas orientadoras relativas à apresentação do pedido e documentação a apresentar aquando do pedido de parecer previsto no artigo 16.º;\n\nh) Emitir normas orientadoras para apresentação e conteúdo da proposta de alteração do protocolo, após início do estudo clínico, nos termos do artigo 18.º, no que respeita às alterações substanciais nele introduzidas, sem prejuízo das competências do INFARMED, I. P., nesta matéria;\n\ni) Emitir normas orientadoras relativas à notificação de conclusão do estudo clínico prevista no artigo 19.º, sem prejuízo das competências do INFARMED, I. P., nesta matéria;\n\nj) Promover a normalização e uniformização dos conceitos, procedimentos e avaliações pelas CES;\n\nk) Dinamizar e coordenar a Rede Nacional de Comissões de Ética para a Saúde (RNCES);\n\nl) Promover ações de formação aos investigadores e profissionais associados à realização de estudos clínicos, nas áreas de sua competência;\n\nm) Acompanhar a atividade das CES, no que concerne às suas responsabilidades de avaliação e acompanhamento dos estudos clínicos;\n\nn) Elaborar o relatório anual de atividades e submetê-lo à apreciação do membro do Governo responsável pela área da saúde;\n\no) Prestar esclarecimentos e serviços de apoio às CES, que lhes sejam solicitados nas áreas da sua competência;\n\np) Prestar esclarecimentos e serviços de apoio aos investigadores que o solicitarem, nas áreas da sua competência;\n\nq) Promover a literacia e a divulgação social do papel da investigação clínica, da sua relevância e das garantias éticas e sociais decorrentes da sua função e da função das CES.\n\n3 - Os membros da CEIC são designados por despacho do membro do Governo responsável pela área da saúde.\n\n4 - A participação na CEIC é remunerada nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.\n\n5 - A composição, o financiamento e as regras de funcionamento, bem como a articulação entre a CEIC e as CES, são definidas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde."
+  },
+  "56927997": {
+   "fragment_id": "56927742",
+   "type": 11,
+   "heading": "Artigo 36.º — Comissão de ética competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comissão de ética competente\n\nCompete à CEC:\n\na) Avaliar, de forma independente, os aspetos metodológicos, éticos e legais dos estudos clínicos que lhe são submetidos, bem como emitir o parecer a que se refere o artigo 16.º;\n\nb) Monitorizar a execução dos estudos clínicos, em especial no que diz respeito aos aspetos éticos e à segurança e integridade dos participantes;\n\nc) Deliberar sobre a alteração, suspensão ou revogação do parecer concedido para a realização do estudo clínico;\n\nd) Prestar todas as informações e esclarecimentos sobre os pedidos que lhe forem apresentados;\n\ne) Assegurar a participação de peritos independentes na avaliação dos pedidos que lhe são remetidos, sempre que tal se revele necessário;\n\nf) Assegurar o acompanhamento do estudo clínico desde o seu início até ao seu termo, a apresentação do relatório final do estudo clínico, e as publicações e apresentações, nos termos do parecer referido no artigo 16.º;\n\ng) Avaliar as condições de acompanhamento clínico dos participantes após a conclusão do estudo clínico, nos casos em que tal se justificar;\n\nh) Assegurar a disponibilização atempada e completa da informação relativa aos estudos clínicos da sua responsabilidade através do RNEC, para efeitos do cumprimento do disposto no artigo 39.º"
+  },
+  "56927998": {
+   "fragment_id": "56927743",
+   "type": 11,
+   "heading": "Artigo 37.º — Rede Nacional das Comissões de Ética para a Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Rede Nacional das Comissões de Ética para a Saúde\n\n1 - A RNCES é constituída pela CEIC e pelas CES.\n\n2 - São objetivos da RNCES:\n\na) Promover o desenvolvimento e apoio à atividade das CES;\n\nb) Participar na avaliação e aconselhar na estratégia de desenvolvimento da atividade das CES;\n\nc) Promover a capacidade de resposta e o descongestionamento dos pedidos de parecer dos estudos clínicos;\n\nd) Promover o reconhecimento mútuo dos pareceres entre os seus elementos;\n\ne) Promover o debate sobre a ética na investigação, translação e prática clínicas;\n\nf) Promover a formação de investigadores e profissionais de saúde, no âmbito da sua prática;\n\ng) Facilitar a comunicação e partilha de recursos, informação e boas práticas entre as CES.\n\n3 - As normas de funcionamento da RNCES são aprovadas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde."
+  },
+  "56927999": {
+   "fragment_id": "56927744",
+   "type": 1,
+   "heading": "Capítulo VII — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Registo"
+  },
+  "56928000": {
+   "fragment_id": "56927745",
+   "type": 11,
+   "heading": "Artigo 38.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Base de dados\n\n1 - O INFARMED, I. P., é responsável pela criação de uma base de dados sobre ensaios clínicos e estudos clínicos com intervenção de dispositivos médicos efetuados nos centros de estudos clínicos situados no território nacional.\n\n2 - A base de dados referida no número anterior deve incluir o registo pormenorizado:\n\na) Dos dados extraídos dos pedidos de autorização referidos nos artigos 26.º e 33.º;\n\nb) Das alterações ao pedido de autorização, na sequência de apresentação de objeções fundamentadas pelo INFARMED, I. P., nos termos do n.º 5 do artigo 26.º;\n\nc) Do parecer previsto no artigo 16.º;\n\nd) Das alterações ao protocolo, nos termos previstos no artigo 18.º;\n\ne) Da notificação prevista no artigo 19.º;\n\nf) Da menção das inspeções realizadas para verificar a observância das boas práticas clínicas;\n\ng) Dos dados relativos aos casos de suspeitas de reações adversas graves inesperadas ou de acontecimentos adversos graves previstos no artigo 22.º, que tenham sido levadas ao seu conhecimento;\n\nh) Da justificação da necessidade de inclusão de dados pessoais que identifiquem ou permitam identificar os participantes.\n\n3 - Os dados contidos na base de dados referida no n.º 1 podem ser disponibilizados pelo INFARMED, I. P., à CEC e, mediante pedido fundamentado e observadas as necessárias garantias de confidencialidade, a outras entidades que nisso demonstrem interesse relevante, sempre com respeito, conforme os casos, pelo disposto na lei do Acesso aos Documentos Administrativos e na lei de Proteção de Dados Pessoais.\n\n4 - O INFARMED, I. P., colabora com a Comissão Europeia no cumprimento das obrigações que a esta incumbem, por força da legislação europeia aplicável, designadamente no respeitante à introdução na base de dados europeia da informação referida no n.º 2, nos termos do número seguinte.\n\n5 - O acesso à base de dados europeia está reservado às autoridades competentes dos Estados membros, à Agência Europeia de Medicamentos e à Comissão Europeia.\n\n6 - Para além dos elementos introduzidos na base de dados europeia, o INFARMED, I. P., só fornece informações complementares relativas a um ensaio clínico ou estudo clínico com intervenção de dispositivos médicos mediante pedido fundamentado apresentado por uma das entidades referidas no número anterior."
+  },
+  "56928001": {
+   "fragment_id": "56927746",
+   "type": 11,
+   "heading": "Artigo 39.º — Registo Nacional de Estudos Clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Registo Nacional de Estudos Clínicos\n\n1 - O RNEC constitui uma plataforma eletrónica para registo e divulgação dos estudos clínicos, que promove a interação entre os diferentes parceiros na área da investigação clínica, facilitando e incentivando o desenvolvimento de investigação de elevada qualidade em benefício dos doentes, bem como a divulgação da investigação clínica nacional ao público em geral, aos profissionais e aos investigadores.\n\n2 - O RNEC funciona junto do INFARMED, I. P., e é coordenado por uma comissão constituída por três elementos designados pelo membro do governo responsável pela área da saúde, sendo um representante do INFARMED, I. P., que preside, um representante da CEIC e um representante do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P.\n\n3 - São objetivos do RNEC:\n\na) Constituir um registo público dos estudos clínicos, dos investigadores, dos centros de estudos clínicos, dos promotores, dos pareceres das CEC, das publicações, dos instrumentos de investigação, no respeito pelos direitos do promotor e do investigador em matéria de propriedade intelectual;\n\nb) Disponibilizar elementos de suporte à realização de estudos clínicos em Portugal, ao longo das suas várias etapas, incluindo os vários formulários eletrónicos de submissão às CES, ao INFARMED, I. P., e às demais entidades;\n\nc) Identificar as áreas de conhecimento relevantes para cada interveniente nos estudos clínicos;\n\nd) Criar um portal com informação relevante sobre estudos clínicos, centros de estudos clínicos, relatórios e estudos sobre a investigação clínica em Portugal;\n\ne) Divulgar e promover oportunidades de formação na área dos estudos clínicos;\n\nf) Fomentar a colaboração entre promotores, investigadores e centros de estudos clínicos;\n\ng) Divulgar serviços públicos e privados de apoio à realização de estudos clínicos, bem como os recursos nacionais para apoio à investigação, designadamente registos clínicos, biobancos, bases de dados clínicas e genéticas, e centros de excelência;\n\nh) Divulgar indicadores de monitorização das várias fases do processo, nomeadamente respeitantes à submissão, aprovação e realização dos estudos clínicos;\n\ni) Disponibilizar a avaliação contínua da capacidade de resposta das entidades responsáveis pela aprovação e realização dos estudos clínicos;\n\nj) Contribuir para a internacionalização da investigação clínica, disponibilizando elementos de suporte à realização de estudos em Portugal dirigidos a investigadores e promotores estrangeiros;\n\nk) Disponibilizar ou, na sua impossibilidade, indicar as publicações, apresentações e relatórios decorrentes da realização dos estudos clínicos registados;\n\nl) Disponibilizar o desenho, os instrumentos de recolha de dados de domínio público e a metainformação das bases de dados, evitando a duplicação de estudos e promovendo a colaboração entre investigadores;\n\nm) Disponibilizar, obrigatoriamente para os estudos clínicos com financiamento direto ou indireto através de fundos públicos, uma versão pública das bases de dados dos estudos clínicos, devidamente autorizada pela CNPD e no respeito pelos direitos do promotor e do investigador em matéria de propriedade intelectual, no prazo de três anos após a conclusão do estudo clínico registado;\n\nn) Avaliar e monitorizar continuamente o desempenho e a qualidade da investigação clínica em Portugal;\n\no) Contribuir para a literacia e a divulgação social do papel da investigação clínica.\n\n4 - O INFARMED, I. P., deve assegurar a articulação do RNEC com informação residente na base de dados a que se refere o artigo anterior, sistemas de vigilância de saúde e de segurança, bem como com os registos públicos de estudos clínicos e repositórios científicos, promovendo a uniformização da informação, a interoperacionalidade e a comunicação entre estes.\n\n5 - Para a realização de um estudo clínico os investigadores e a respetiva equipa, os promotores, os monitores, as CES e os centros de estudos clínicos registam-se no RNEC.\n\n6 - O investigador ou o promotor deve proceder ao registo do ensaio clínico ou do estudo clínico com intervenção de dispositivos médicos no RNEC previamente ou em simultâneo ao pedido de parecer à CEC ou ao pedido de autorização ao INFARMED, I. P., bem como ao registo da atualização dos respetivos dados.\n\n7 - O investigador ou o promotor deve proceder à colocação das publicações, apresentações e relatórios respeitantes ao estudo clínico, no prazo de 30 dias após a divulgação destes.\n\n8 - Compete à CEC e à autoridade competente verificar e validar os dados constantes do RNEC dos estudos que avalia e acompanha.\n\n9 - As normas de funcionamento do RNEC são aprovadas por portaria do membro do Governo responsável pela área da saúde."
+  },
+  "56928002": {
+   "fragment_id": "56927747",
+   "type": 1,
+   "heading": "Capítulo VIII — Divulgação de estudos clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Divulgação de estudos clínicos"
+  },
+  "56928003": {
+   "fragment_id": "56927748",
+   "type": 11,
+   "heading": "Artigo 40.º — Divulgação de estudos clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Divulgação de estudos clínicos\n\n1 - A divulgação de estudos clínicos pode ser realizada diretamente pelo investigador, pelos membros da equipa de investigação ou, por terceiros, em nome destes, sem prejuízo do disposto na presente lei.\n\n2 - A divulgação de estudos clínicos deve:\n\na) Conter elementos que estejam de acordo com as observações e com os resultados do estudo, à luz das boas práticas de investigação;\n\nb) Permitir a verificação das observações e fundamentos para a interpretação dos resultados pelos destinatários;\n\nc) Indicar os responsáveis pela realização do estudo, ou pelo menos o investigador principal, bem como o promotor e o centro do estudo clínico;\n\nd) Indicar as situações de conflitos de interesse dos responsáveis pela realização do estudo, designadamente do investigador, do promotor e do centro de estudo clínico, quando existirem;\n\ne) Indicar as diferentes formas de financiamento do estudo clínico;\n\nf) Indicar as publicações onde constam os elementos necessários para verificação do disposto nas alíneas anteriores;\n\ng) Indicar o número de registo do estudo clínico no RNEC;\n\nh) Indicar a autorização da CEC, do INFARMED, I. P., e da CNPD, nas situações aplicáveis.\n\n3 - A divulgação de estudos clínicos não pode ser enganosa."
+  },
+  "56928004": {
+   "fragment_id": "56927749",
+   "type": 11,
+   "heading": "Artigo 41.º — Âmbito de exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Âmbito de exclusão\n\nO presente capítulo não se aplica:\n\na) À rotulagem e às instruções de utilização que acompanham os medicamentos, os dispositivos médicos e os produtos cosméticos e de higiene corporal;\n\nb) À correspondência necessária para dar resposta a uma pergunta específica sobre determinado estudo clínico, desde que não contenha qualquer elemento de caráter publicitário;\n\nc) Às atividades de formação."
+  },
+  "56928005": {
+   "fragment_id": "56927750",
+   "type": 11,
+   "heading": "Artigo 42.º — Divulgação junto do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Divulgação junto do público\n\n1 - A divulgação de estudos clínicos junto do público deve ser identificada enquanto tal, indicando expressamente que se trata de um estudo clínico e incluindo as informações previstas no número seguinte.\n\n2 - Para além do constante no n.º 2 do artigo 40.º, a divulgação de estudos clínicos junto do público contém ainda as seguintes informações:\n\na) O nome do estudo;\n\nb) A data de realização do estudo e o período a que se referem as observações;\n\nc) As características relevantes do desenho do estudo, nomeadamente se se trata de um estudo controlado, aleatorizado, com dados prospetivos, ou não;\n\nd) Os dados indispensáveis à interpretação das conclusões do estudo clínico, objeto de divulgação;\n\ne) As referências bibliográficas referentes à publicação do estudo.\n\n3 - A divulgação de estudos clínicos deve ser realizada de uma forma exata, suficiente, atual e verificável, de modo a permitir ao destinatário fazer uma ideia correta do estudo clínico.\n\n4 - A divulgação de estudos clínicos junto do público não pode dirigir-se exclusiva ou principalmente a crianças nem conter elementos que permitam:\n\na) Concluir que a consulta com o profissional de saúde ou a intervenção é desnecessária, em particular sugerindo um diagnóstico ou preconizando o tratamento por correspondência;\n\nb) Sugerir que o efeito da intervenção é garantido, sem reações adversas ou efeitos secundários, com resultados superiores ou equivalentes aos de outro tratamento;\n\nc) Sugerir que o estado normal de saúde da pessoa pode ser melhorado através da intervenção;\n\nd) Sugerir que o estado normal de saúde da pessoa pode ser prejudicado caso não usufrua da intervenção;\n\ne) Referir de forma abusiva ou enganosa demonstrações ou garantias de cura, de reabilitação ou de bem-estar;\n\nf) Utilizar de forma abusiva ou enganosa representações visuais das alterações do corpo humano causadas por doenças ou lesões, ou da ação de uma intervenção no corpo humano ou em partes do corpo humano."
+  },
+  "56928006": {
+   "fragment_id": "56927751",
+   "type": 11,
+   "heading": "Artigo 43.º — Fiscalização da divulgação de estudos clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Fiscalização da divulgação de estudos clínicos\n\n1 - No âmbito dos seus poderes compete à CEC e à autoridade competente, nos termos do artigo seguinte, verificar a divulgação de estudos clínicos.\n\n2 - A autoridade competente define os critérios a que obedece a fiscalização do cumprimento do disposto no presente capítulo.\n\n3 - A CEC e a autoridade competente podem, por sua iniciativa, a pedido de outra entidade pública ou privada ou mediante queixa:\n\na) Pronunciar-se sobre a divulgação do estudo clínico efetuada junto do público ou de profissionais de saúde, emitindo o respetivo parecer;\n\nb) Adotar as medidas adequadas para impedir qualquer forma de divulgação que viole o disposto na presente lei ou para retificar os efeitos de divulgação já iniciada junto do público ou dos profissionais de saúde;\n\nc) Apreciar, a título preventivo, a conformidade com a lei de determinada forma ou projeto de divulgação de um estudo clínico."
+  },
+  "56928007": {
+   "fragment_id": "56927752",
+   "type": 1,
+   "heading": "Capítulo IX — Fiscalização e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Fiscalização e controlo"
+  },
+  "56928008": {
+   "fragment_id": "56927753",
+   "type": 11,
+   "heading": "Artigo 44.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Autoridade competente\n\n1 - O INFARMED, I. P., é a autoridade competente, para os efeitos previstos na presente lei, em matéria de ensaios clínicos, estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, cabendo-lhe ainda proceder à fiscalização do cumprimento de boas práticas nestes estudos, no contexto do estudo ou fora dele.\n\n2 - Compete à Inspeção-Geral das Atividades em Saúde (IGAS), em articulação com a CEIC, fazer o controlo das boas práticas clínicas nos restantes estudos clínicos.\n\n3 - Sem prejuízo das competências atribuídas por lei a outras entidades, as autoridades competentes referidas nos números anteriores, através dos seus trabalhadores fiscalizam o cumprimento do disposto na presente lei e na respetiva regulamentação, podendo, para efeitos de apreciação clínica ou laboratorial, recorrer a serviços de terceiros.\n\n4 - Às entidades referidas nos números anteriores compete fiscalizar tudo o que esteja relacionado com o estudo clínico, incluindo:\n\na) Os locais concretos onde o estudo clínico se realiza;\n\nb) O local concreto de fabrico, importação ou exportação, distribuição ou utilização do medicamento experimental ou do dispositivo sob investigação;\n\nc) Os laboratórios de análises utilizados para o estudo clínico;\n\nd) As instalações do promotor;\n\ne) Qualquer outro estabelecimento relacionado com o estudo clínico cuja inspeção seja considerada necessária.\n\n5 - O INFARMED, I. P., credencia os seus trabalhadores para efeitos do disposto no número anterior.\n\n6 - Nos ensaios clínicos:\n\na) As inspeções são realizadas em nome da União Europeia, em articulação com as instâncias internacionais competentes, por iniciativa do INFARMED, I. P., ou a requerimento da Comissão Europeia;\n\nb) O INFARMED, I. P., comunica a realização da inspeção e os respetivos resultados à Agência Europeia de Medicamentos.\n\n7 - Os resultados das inspeções realizadas pelas autoridades competentes de outros Estados membros, ao abrigo das obrigações impostas pela ordem jurídica europeia, são reconhecidos pelas autoridades competentes.\n\n8 - Após a realização da inspeção, as entidades referidas nos n.os 1 e 2 elaboram um relatório da inspeção, que deve ser colocado à disposição da entidade inspecionada, salvo na parte que contenha informações confidenciais, e à CEC.\n\n9 - Mediante a apresentação de pedido fundamentado, a autoridade competente pode ainda disponibilizar o relatório da inspeção às autoridades competentes de outros Estados membros e à Comissão Europeia."
+  },
+  "56928009": {
+   "fragment_id": "56927754",
+   "type": 11,
+   "heading": "Artigo 45.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Contraordenações\n\n1 - Constitui contraordenação punível, no caso das pessoas singulares, com coima no montante mínimo de (euro) 500 e máximo de (euro) 50 000, e no caso das pessoas coletivas, no valor mínimo de (euro) 5000 e máximo de (euro) 750 000:\n\na) A realização de estudo clínico sem autorização da autoridade competente ou em desconformidade com os termos em que a mesma foi concedida, em violação dos artigos 25.º, 26.º e 33.º;\n\nb) A realização de estudo clínico sem o parecer favorável da CEC, em violação do artigo 16.º;\n\nc) A realização ou continuação de estudo clínico em centro de estudo clínico não dotado dos meios materiais e humanos adequados, em violação dos artigos 16.º e 26.º;\n\nd) A continuação de estudo clínico cuja autorização haja sido suspensa ou revogada, em violação do artigo 21.º;\n\ne) A utilização de medicamento experimental ou dispositivo médico em investigação clínica, em violação dos artigos 28.º a 33.º;\n\nf) A realização de estudo clínico sem que o participante tenha sido previamente informado dos objetivos, riscos, inconvenientes do estudo clínico e condições em que este é realizado ou prestado o consentimento informado, nos termos aprovados pela CEC ou pela autoridade competente, em violação dos artigos 6.º a 8.º;\n\ng) O incumprimento das obrigações do promotor, em violação do disposto no n.º 1 do artigo 9.º;\n\nh) A concessão aos participantes de quaisquer incentivos ou benefícios financeiros, em violação do artigo 6.º;\n\ni) O fabrico ou importação de medicamentos experimentais ou dispositivos médicos sem autorização, em violação do artigo 28.º ou 33.º;\n\nj) O incumprimento do disposto nos artigos 13.º, 14.º, 19.º, 20.º, 22.º, 23.º, 40.º, 42.º e 51.º;\n\nk) O incumprimento das disposições regulamentares aprovadas ao abrigo da presente lei.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "56928010": {
+   "fragment_id": "56927755",
+   "type": 11,
+   "heading": "Artigo 46.º — Processo de contraordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Processo de contraordenação\n\n1 - A instrução dos processos de contraordenação previstos na presente lei compete ao INFARMED, I. P., nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, e nos restantes casos, à IGAS, nas situações em que os factos lhe tenham sido comunicados pela CEIC.\n\n2 - A aplicação das coimas compete ao conselho diretivo ou ao dirigente máximo das entidades referidas no número anterior."
+  },
+  "56928011": {
+   "fragment_id": "56927756",
+   "type": 11,
+   "heading": "Artigo 47.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Destino do produto das coimas\n\n1 - O produto das coimas previstas na presente lei reverte:\n\na) 60 % para o Estado;\n\nb) 30 % para a autoridade competente;\n\nc) 10 % para a IGAS, nos casos em que esta intervenha nos termos da presente lei.\n\n2 - Nas situações em que o IGAS não intervenha, a percentagem referida na alínea c) do número anterior reverte a favor da autoridade competente."
+  },
+  "56928012": {
+   "fragment_id": "56927757",
+   "type": 1,
+   "heading": "Capítulo X — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposições finais e transitórias"
+  },
+  "56928013": {
+   "fragment_id": "56927758",
+   "type": 11,
+   "heading": "Artigo 48.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Taxas\n\n1 - Pelos serviços prestados no âmbito da presente lei são devidas taxas, a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n2 - As taxas a cobrar nos termos do número anterior constituem receitas das autoridades competentes, destinando-se ao financiamento das atividades relativas à aplicação da presente lei."
+  },
+  "56928014": {
+   "fragment_id": "56927759",
+   "type": 11,
+   "heading": "Artigo 49.º — Idioma dos documentos, elementos e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Idioma dos documentos, elementos e informações\n\n1 - Os documentos, elementos e informações a apresentar à CEC e à autoridade competente nos termos da presente lei e respetiva legislação complementar devem ser apresentados em língua portuguesa ou ser acompanhados de tradução oficial para a língua portuguesa, salvo quando esta seja expressamente dispensada por estas entidades.\n\n2 - A CEC ou a autoridade competente pode autorizar que algum ou alguns documentos, elementos e informações sejam apresentados noutras línguas, nos termos definidos em regulamento por si adotado."
+  },
+  "56928015": {
+   "fragment_id": "56927760",
+   "type": 11,
+   "heading": "Artigo 50.º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Impugnação\n\nAs decisões proferidas no âmbito da presente lei são impugnáveis judicialmente, nos termos gerais."
+  },
+  "56928016": {
+   "fragment_id": "56927761",
+   "type": 11,
+   "heading": "Artigo 51.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Confidencialidade\n\n1 - As informações transmitidas no âmbito da presente lei são confidenciais, ficando todos os que delas tenham conhecimento sujeitos a dever de sigilo, sem prejuízo da divulgação das informações necessárias à salvaguarda da saúde pública.\n\n2 - O disposto no número anterior não prejudica o cumprimento das obrigações da autoridade competente pelos organismos notificados no que se refere à informação recíproca e à divulgação das advertências.\n\n3 - Todos aqueles que, em qualquer qualidade, intervenham em estudos clínicos ou que, por qualquer forma, tenham conhecimento da sua realização, ficam obrigados ao dever de sigilo sobre quaisquer dados pessoais a que tenham acesso, mesmo após o termo das suas funções."
+  },
+  "56928017": {
+   "fragment_id": "56927762",
+   "type": 11,
+   "heading": "Artigo 52.º — Contagem dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Contagem dos prazos\n\nÀ contagem dos prazos previstos na presente lei são aplicáveis as regras estabelecidas no Código do Procedimento Administrativo."
+  },
+  "56928018": {
+   "fragment_id": "56927763",
+   "type": 11,
+   "heading": "Artigo 53.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Disposição transitória\n\nAté à verificação das condições necessárias ao funcionamento do RNEC, as autoridades competentes definem os meios a adotar para o cumprimento do disposto na presente lei no que se refere ao funcionamento daquele registo."
+  },
+  "56928019": {
+   "fragment_id": "56927764",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\n1 - São revogados:\n\na) A Lei n.º 46/2004, de 24 de agosto;\n\nb) Os artigos 12.º a 21.º e as alíneas n), o), p), q), r), s), t), u), v), x), z) e aa) do n.º 1 do artigo 61.º e a Parte II do Anexo XVI do Decreto-Lei n.º 145/2009, de 17 de junho.\n\n2 - As referências feitas para os diplomas revogados no número anterior consideram-se efetuadas para a presente lei."
+  },
+  "56928020": {
+   "fragment_id": "56927765",
+   "type": 11,
+   "heading": "Artigo 55.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Regulamentação\n\nA regulamentação prevista na presente lei é aprovada no prazo de 120 dias a partir da sua entrada em vigor."
+  },
+  "56928021": {
+   "fragment_id": "56927766",
+   "type": 11,
+   "heading": "Artigo 56.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 60 dias após a sua publicação."
+  },
+  "69839549": {
+   "fragment_id": "56927698",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente lei, entende-se por:\n\na) «Acontecimento adverso», qualquer manifestação clínica desfavorável, independentemente da existência de relação causal com a intervenção;\n\nb) «Acontecimento adverso grave ou reação adversa grave», qualquer acontecimento ou reação adversa que se traduza na morte ou em perigo de vida do participante, na necessidade de hospitalização ou no prolongamento da hospitalização, em deficiência ou em incapacidade significativa ou duradoura, em sofrimento fetal, morte fetal, em anomalia ou em malformação congénita, ou que seja considerada clinicamente relevante pelo investigador;\n\nc) «Auditor», profissional, dotado da necessária competência técnica, experiência e independência, designado pelo promotor para conduzir auditorias a estudos clínicos;\n\nd) «Auditoria a ensaio clínico», avaliação cuidadosa, sistemática e independente, com o objetivo de verificar se as atividades em determinado ensaio clínico estão de acordo com as disposições planeadas e estabelecidas no protocolo, bem como com os procedimentos operacionais padrão do promotor, e em concordância com as boas práticas clínicas;\n\ne) «Autoridade competente», o INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), em matéria de ensaios clínicos, de estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal, ou a Comissão de Ética para a Investigação Clínica (CEIC) nos restantes estudos clínicos;\n\nf) «Boas práticas clínicas», os preceitos internacionalmente reconhecidos de qualidade ética e científica que devem ser respeitados na conceção, na realização, no registo, na notificação, na publicação e na revisão dos estudos clínicos que envolvam a participação de seres humanos;\n\ng) «Brochura do investigador», a compilação dos dados clínicos e não clínicos relativos à intervenção em estudo relevante para a investigação em seres humanos;\n\nh) «Centro de estudo clínico», entidade que realiza o estudo clínico, dotada de meios materiais e humanos adequados, independentemente da sua inserção em estabelecimento de saúde, público ou privado, laboratório, ou outro, ou da sua localização ou não em território de Estados membros da União Europeia;\n\ni) «Comissão de Ética para a Investigação Clínica», o organismo independente constituído por profissionais de saúde e outros, incumbido de assegurar a proteção dos direitos, da segurança e do bem-estar dos participantes nos estudos clínicos e de garantir os mesmos junto da sociedade;\n\nj) «Comissões de ética para a saúde (CES)», as entidades instituídas com essa denominação pelo Decreto-Lei n.º 97/95, de 10 de maio;\n\nk) «Comissão de ética competente (CEC)», a comissão encarregue de emissão do parecer previsto na presente lei, podendo ser a CEIC, a CES que funciona no centro de estudo clínico envolvido, ou a CES designada pela CEIC para esse fim;\n\nl) «Consentimento informado», a decisão expressa de participar num estudo clínico, tomada livremente por uma pessoa dotada de capacidade de o prestar ou, na falta desta, pelo seu representante legal, após ter sido devidamente informada sobre a natureza, o alcance, as consequências e os riscos do estudo, bem como o direito de se retirar do mesmo a qualquer momento, sem quaisquer consequências, de acordo com as orientações emitidas pela CEC, que devem incluir a definição do meio adequado de o prestar, o qual deve ser escrito, sempre que aplicável;\n\nm) «Divulgação de estudos clínicos», qualquer forma de comunicação que tenha por objeto ou por efeito informar sobre a realização de um estudo clínico, podendo esta incluir observações realizadas no contexto do estudo, interpretação de resultados e conclusões do mesmo junto do público, junto dos profissionais de saúde, junto dos meios de comunicação social, em publicações de caráter geral ou científico, independentemente do seu público-alvo, e em material publicitário de medicamentos, dispositivos médicos ou quaisquer outros meios de intervenção na saúde;\n\nn) «Ensaio clínico ou ensaio», qualquer investigação conduzida no ser humano, destinada a descobrir ou a verificar os efeitos clínicos, farmacológicos ou outros efeitos farmacodinâmicos de um ou mais medicamentos experimentais, ou a identificar os efeitos indesejáveis de um ou mais medicamentos experimentais, ou a analisar a absorção, a distribuição, o metabolismo e a eliminação de um ou mais medicamentos experimentais, a fim de apurar a respetiva segurança ou eficácia;\n\no) «Equipa de investigação», é constituída pelos investigadores e ainda pelos profissionais que, por força das suas funções, participam direta e imediatamente no estudo clínico;\n\np) «Estudo clínico ou estudo», qualquer estudo sistemático, conduzido no ser humano ou a partir de dados de saúde individuais, destinado a descobrir ou a verificar a distribuição ou o efeito de fatores de saúde, de estados ou resultados em saúde, de processos de saúde ou de doença, do desempenho e, ou, segurança de intervenções ou serviços de saúde, através de aspetos biológicos, comportamentais, sociais ou organizacionais, incluindo, nomeadamente, os seguintes estudos:\n\ni) «Estudo clínico de regimes alimentares», o estudo destinado a testar o efeito, aceitabilidade e segurança na saúde da intervenção com regimes alimentares, incluindo alimentos, nutrientes e suplementos, processos de fabrico, processamento, transporte, armazenamento e distribuição, padrões e práticas de consumo, conhecimento e educação;\n\nii) «Estudo clínico de terapêutica não convencional», o estudo destinado a testar o efeito, a aceitabilidade e a segurança da intervenção com práticas ou com produtos não tradicionalmente considerados parte da medicina convencional, tal como praticada pelos licenciados em medicina e demais profissões associadas à medicina convencional, quer em exclusividade, quer em complementaridade às medicinas convencionais;\n\nq) «Estudo clínico multicêntrico», o estudo clínico realizado de acordo com um único protocolo, em mais de um centro de estudo clínico e, consequentemente, por dois ou mais investigadores;\n\nr) «Estudo clínico sem intervenção», o estudo no qual estejam preenchidas as seguintes condições:\n\ni) Os medicamentos sejam prescritos ou os dispositivos médicos sejam utilizados de acordo com as condições previstas na autorização de introdução no mercado ou no procedimento de avaliação de conformidade, respetivamente;\n\nii) A inclusão do participante numa determinada estratégia terapêutica não seja previamente fixada por um protocolo de estudo, mas dependa da prática corrente;\n\niii) A decisão de prescrever o medicamento ou utilizar um dispositivo médico esteja claramente dissociada da decisão de incluir ou não o participante no estudo;\n\niv) Não seja aplicado aos participantes qualquer outro procedimento complementar de diagnóstico ou de avaliação e sejam utilizados métodos epidemiológicos para analisar os dados recolhidos;\n\ns) «Estudo clínico com intervenção», qualquer investigação que preconize uma alteração, influência ou programação dos cuidados de saúde, dos comportamentos ou dos conhecimentos dos participantes ou cuidadores, com a finalidade de descobrir ou verificar efeitos na saúde, incluindo a exposição a medicamentos, a utilização de dispositivos médicos, a execução de técnicas cirúrgicas, a exposição a radioterapia, a aplicação de produtos cosméticos e de higiene corporal, a intervenção de fisioterapia, a intervenção de psicoterapia, o uso de transfusão, a terapia celular, a participação em sessões de educação individual ou em grupo, a intervenção com regime alimentar, a intervenção no acesso ou organização dos cuidados de saúde ou a intervenção designada como terapêutica não convencional;\n\nt) «Estudo clínico de dispositivo médico», qualquer estudo com dispositivos médicos ou respetivos acessórios, que integram o âmbito de aplicação do Decreto-Lei n.º 145/2009, de 17 de junho, e cujo objetivo inclua:\n\ni) Verificar o nível de desempenho do dispositivo; ou\n\nii) Determinar eventuais efeitos secundários indesejáveis em condições normais de utilização e avaliar se constituem riscos em função da utilização prevista para o dispositivo segundo a legis artis; ou;\n\niii) Realizar o acompanhamento clínico pós-comercialização;\n\nu) «Estudo clínico de produtos cosméticos e de higiene corporal», o estudo que preconiza o uso de qualquer substância ou mistura destinada a ser posta em contacto com as diversas partes superficiais do corpo humano, designadamente epiderme, sistemas piloso e capilar, unhas, lábios e órgãos genitais externos, ou com os dentes e as mucosas bucais, com a finalidade de, exclusiva ou principalmente, os limpar, perfumar, modificar o seu aspeto, proteger, manter em bom estado ou de corrigir os odores corporais;\n\nv) «Fabricante», a pessoa singular ou coletiva responsável pela conceção, fabrico, acondicionamento e rotulagem de um dispositivo médico, com vista à sua colocação no mercado sob o seu próprio nome, independentemente das referidas operações serem efetuadas por essa pessoa, ou por terceiros por sua conta;\n\nw) «Farmacêutico qualificado», a pessoa licenciada em Ciências Farmacêuticas;\n\nx) «Inspeção», a atividade que consiste no controlo oficial dos documentos, instalações, registos, sistemas de garantia de qualidade e quaisquer outros elementos que sejam considerados relacionados com o estudo clínico;\n\ny) «Investigador», uma pessoa que exerça profissão reconhecida em Portugal para o exercício da atividade de investigação, devido às habilitações científicas e à habilitação legal para a prestação de cuidados que a mesma exija, que se responsabiliza pela realização do estudo clínico no centro de estudo e, sendo caso disso, pela equipa de investigação que executa o estudo nesse centro, podendo, neste caso, ser designado investigador principal;\n\nz) «Investigador-coordenador», o investigador responsável pela coordenação de todos os investigadores de todos os centros de estudos nacionais que participam num estudo clínico multicêntrico;\n\naa) «Mandatário» a pessoa singular ou coletiva, estabelecida na União Europeia, que, tendo sido expressamente designada pelo promotor ou fabricante, age e pode ser interpelada pelas autoridades e instâncias da União Europeia em nome do promotor ou do fabricante no que respeita às obrigações deste, nos termos da presente lei;\n\nbb) «Medicamento experimental», a forma farmacêutica de uma substância ativa ou placebo, testada ou utilizada como referência num ensaio clínico, incluindo os medicamentos cuja introdução no mercado tenha sido autorizada, mas sejam utilizados ou preparados, quanto à forma farmacêutica ou acondicionamento, de modo diverso da forma autorizada, ou sejam utilizados para uma indicação não autorizada ou destinados a obter mais informações sobre a forma autorizada;\n\ncc) «Monitor», o profissional, dotado da necessária competência científica ou clínica, designado pelo promotor para acompanhar o estudo clínico e para o manter permanentemente informado, relatando a sua evolução e verificando as informações e dados coligidos;\n\ndd) «Monitorização de ensaios clínicos», ato de supervisionar o progresso de um ensaio clínico e de assegurar que é conduzido de acordo com o protocolo, os procedimentos operacionais padronizados, as boas práticas clínicas e a regulamentação aplicáveis;\n\nee) «Participante», a pessoa que participa no estudo clínico;\n\nff) «Promotor», a pessoa, singular ou coletiva, o instituto ou o organismo responsável pela conceção, realização, gestão ou financiamento de um estudo clínico;\n\ngg) «Protocolo ou plano de investigação clínica», o documento que descreve a justificação, os objetivos, a conceção, a metodologia, a monitorização, os aspetos estatísticos, a organização e a condução de um estudo, assim como o arquivo dos respetivos registos, incluindo as versões sucessivas e as alterações daquele documento;\n\nhh) «Reação adversa ou efeito adverso com dispositivo médico», qualquer manifestação nociva e indesejada registada a um medicamento experimental ou substância administrada a um doente ou participante no decurso do estudo clínico, independentemente da dose administrada ou qualquer acontecimento adverso relacionado com o uso do dispositivo médico no decurso do estudo;\n\nii) «Reação adversa inesperada ou efeito adverso grave inesperado», a reação adversa ou efeito adverso grave inesperado cuja natureza, gravidade, incidência ou consequência não esteja de acordo com a informação existente relativa à intervenção, nomeadamente na brochura do investigador, no caso de intervenção experimental, ou no resumo das caraterísticas do medicamento ou na análise de risco constante do dossier técnico do dispositivo médico, no caso de um medicamento autorizado ou dispositivo médico colocado no mercado;\n\njj) «Relatório final do estudo clínico» a descrição, os resultados e a avaliação do estudo clínico, após a sua conclusão, considerando todas as observações de todos os seus participantes;\n\nkk) «Serviço farmacêutico idóneo», serviço que possui:\n\ni) uma autorização de aquisição direta de medicamentos emitida pelo INFARMED, I. P., nos termos da alínea d) do n.º 1 do artigo 79.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na qual conste averbamento que identifique o farmacêutico responsável, que deve possuir qualificação na área das boas práticas clínicas, de acordo com as normas aplicáveis, e garantir o cumprimento dos requisitos relativos ao circuito e armazenagem dos medicamentos experimentais e dos dispositivos utilizados para a sua administração, bem como dos demais medicamentos já autorizados necessários ou complementares à realização de ensaios clínicos; e\n\nii) uma autorização para aquisição direta de substâncias estupefacientes e ou psicotrópicas, nos termos do n.º 1 do artigo 5.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, republicado pelo Decreto Regulamentar n.º 28/2009, de 12 de outubro e do n.º 1 do artigo 4.º do Decreto-Lei n.º 15/93, de 22 de janeiro, caso o serviço farmacêutico manuseie substâncias desta natureza.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "69839550": {
+   "fragment_id": "56927707",
+   "type": 11,
+   "heading": "Artigo 9.º — Promotor",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 9.º — Promotor\n\n1 - Compete ao promotor:\n\na) Apresentar à CEC o pedido de parecer, referido no artigo 16.º;\n\nb) Requerer ao conselho diretivo do INFARMED, I. P., autorização para a realização do ensaio clínico, nos termos do artigo 26.º e de estudos clínicos com intervenção de dispositivos médicos, nos termos do artigo 33.º;\n\nc) Notificar o INFARMED, I. P., nos termos do artigo 34.º, nos estudos clínicos com intervenção de produtos cosméticos e de higiene corporal;\n\nd) Celebrar o contrato financeiro com o centro de estudo clínico, nos termos estabelecidos no artigo 13.º, salvo na situação de dispensa pela CEC em estudos clínicos sem intervenção;\n\ne) Propor o investigador, comprovando a qualificação científica e a habilitação profissional deste, e assegurar que este realiza o estudo clínico em conformidade com as exigências legais e regulamentares aplicáveis;\n\nf) Facultar ao investigador todos os dados químico-farmacêuticos, toxicológicos, farmacológicos, técnicos, de software, clínicos e de prova científica relevantes que garantam a segurança da intervenção e todas as informações necessárias à boa condução dos estudos, no caso de estudos clínicos com intervenção;\n\ng) Estabelecer e manter um sistema de segurança e vigilância do estudo clínico mediante monitorização efetuada sob responsabilidade de um profissional habilitado;\n\nh) Assegurar a realização de auditorias, quando necessárias, de acordo com as normas de boas práticas clínicas;\n\ni) Informar da existência dos pedidos e pareceres emitidos por comissões de ética sobre o mesmo estudo, ou suas variantes;\n\nj) Assegurar o cumprimento dos deveres de notificação, comunicação e de informação previstos na presente lei;\n\nk) Notificar a conclusão do estudo clínico, em conformidade com o disposto no artigo 19.º;\n\nl) Cumprir as demais obrigações legais e regulamentares aplicáveis.\n\n2 - O promotor deve indicar a entidade e local junto da qual o participante pode obter mais informações pormenorizadas relativas ao estudo clínico.\n\n3 - Para efeitos do disposto nas alíneas g) e h) do n.º 1, o investigador e a instituição onde decorre o estudo clínico autorizam o acesso direto dos representantes do promotor, concretamente o monitor e o auditor, bem como dos serviços de fiscalização ou inspeção das autoridades reguladoras competentes, aos dados e documentos do estudo clínico, quando obtido consentimento informado do participante ou do respetivo representante legal.\n\n4 - O acesso referido no número anterior é efetuado por intermédio do investigador e na medida do estritamente necessário ao cumprimento das responsabilidades dos representantes do promotor, bem como das autoridades reguladoras competentes, pelos meios que menos risco importem para os dados pessoais, e com garantias de não discriminação dos seus titulares.\n\n5 - Os profissionais que acedem aos dados pessoais nos termos dos números anteriores devem garantir a confidencialidade da informação pessoal dos participantes no estudo clínico.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "69839544": {
+   "fragment_id": "69879394",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Auditor",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 11.º-A — Auditor\n\nO auditor deve:\n\na) Verificar, através do exame sistemático e independente das atividades e documentos relacionados com o estudo clínico, se as ditas atividades foram conduzidas, e se os dados foram registados, analisados e reportados com precisão, de acordo com o protocolo, os procedimentos operacionais padrão do promotor, as boas práticas clínicas e os requisitos previstos na regulamentação aplicável;\n\nb) Emitir o certificado de auditoria;\n\nc) Produzir um relatório da auditoria.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "69839545": {
+   "fragment_id": "56927710",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro de estudo clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Centro de estudo clínico\n\n1 - Compete ao centro de estudo clínico:\n\na) Definir os requisitos de aprovação dos contratos financeiros, disponibilizando um acordo modelo, em conformidade com o disposto no artigo seguinte;\n\nb) Decidir sobre a aprovação do contrato financeiro no prazo máximo de 15 dias a contar da data do pedido do investigador ou do promotor;\n\nc) Monitorizar a taxa de cumprimento dos contratos financeiros;\n\nd) Disponibilizar os dados relativos ao processo de aprovação e execução do contrato financeiro no Registo Nacional de Estudos Clínicos (RNEC).\n\n2 - A aprovação do contrato financeiro pode ocorrer em momento anterior ao parecer da CEC, sob condição de parecer favorável da mesma.\n\n3 - O contrato financeiro produz efeitos a partir da notificação do parecer favorável da CEC, desde que o protocolo constante do contrato não tenha sofrido alterações."
+  },
+  "69839546": {
+   "fragment_id": "56927711",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato financeiro\n\n1 - O promotor ou o seu mandatário deve celebrar contrato financeiro com o centro de estudo clínico, exceto no caso de estudos clínicos sem intervenção quando o mesmo for dispensado pela CEC.\n\n2 - Do contrato financeiro devem constar os seguintes elementos:\n\na) Os termos da realização do estudo clínico;\n\nb) As condições da sua efetivação;\n\nc) Os aspetos económicos com ele relacionados, designadamente:\n\ni) Os custos diretos do estudo clínico estabelecidos pelo centro de estudos clínico, identificando, de forma individualizada e por função desempenhada, a remuneração do investigador e dos restantes membros da equipa;\n\nii) Os custos indiretos, considerando-se como tais os despendidos na utilização de meios auxiliares de diagnóstico, os decorrentes de internamento não previsto do participante, os decorrentes do reembolso das despesas e do ressarcimento ou compensação pelas despesas e pelos prejuízos sofridos pelo participante;\n\niii) Os prazos de pagamento;\n\nd) As condições aprovadas pelas autoridades competentes a integrar no modelo de contrato financeiro;\n\ne) Todas as demais condições estabelecidas entre as partes."
+  },
+  "69839547": {
+   "fragment_id": "56927712",
+   "type": 11,
+   "heading": "Artigo 14.º — Remuneração do investigador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Remuneração do investigador\n\n1 - É permitida a remuneração do investigador, do investigador principal e dos membros da sua equipa, nos termos do contrato financeiro.\n\n2 - Sempre que o investigador ou o investigador principal ou os membros da sua equipa de investigação sejam trabalhadores do Serviço Nacional de Saúde, com relação jurídica de emprego público, a remuneração prevista no contrato financeiro é paga pelo centro de estudo clínico, com observância das regras gerais sobre a acumulação de funções previstas na lei de vínculos, carreiras e remunerações dos trabalhadores que exercem funções públicas."
+  },
+  "69839548": {
+   "fragment_id": "56927713",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade civil\n\n1 - O promotor e o investigador respondem, de forma solidária e independentemente de culpa, pelos danos patrimoniais e não patrimoniais que o estudo cause ao participante.\n\n2 - O promotor deve obrigatoriamente contratar um seguro destinado a cobrir a responsabilidade civil referida no número anterior, salvo se o mesmo for dispensado nos termos da presente lei.\n\n3 - Nos estudos clínicos com intervenção, presumem-se causados pelo estudo clínico os danos que afetem a saúde do participante durante a realização do estudo clínico e no ano seguinte à sua conclusão, sem prejuízo do disposto na alínea i) do n.º 6 do artigo 16.º\n\n4 - O parecer da CEC ou a autorização concedida pelo INFARMED, I. P., nos casos aplicáveis, não constituem fundamento de exclusão ou limitação da responsabilidade prevista no presente artigo.\n\n5 - O disposto na presente lei não constitui fundamento para eximir o promotor, o investigador, os membros da respetiva equipa de investigação e o centro de estudo clínico das formas de responsabilidade disciplinar, civil, contraordenacional ou penal estabelecidas na lei."
+  },
+  "69839551": {
+   "fragment_id": "56927718",
+   "type": 11,
+   "heading": "Artigo 19.º — Conclusão do estudo clínico",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 19.º — Conclusão do estudo clínico\n\n1 - O promotor notifica a CEC, através do RNEC, no prazo de 90 dias a contar da data de conclusão da participação do último participante no estudo clínico.\n\n2 - O investigador ou o promotor disponibiliza à CEC os resultados finais decorrentes da realização dos estudos clínicos registados no RNEC, sob a forma de relatório final do estudo clínico ou de resumo do relatório final no caso dos ensaios clínicos, de publicações ou de apresentações.\n\n3 - O relatório final ou o resumo do relatório final no caso dos ensaios clínicos, o desenho do estudo, os instrumentos de recolha de dados de domínio público, e a metainformação das bases de dados do estudo clínico devem ser disponibilizados à CEC através do RNEC, no prazo de 12 meses após a conclusão da participação do último participante no estudo clínico.\n\n4 - As publicações e as apresentações relativas ao estudo clínico devem ser disponibilizadas à CEC, através do RNEC, no prazo de 30 dias após a sua divulgação.\n\n5 - Nos estudos com financiamento direto ou indireto através de fundos públicos, o investigador ou o promotor deve disponibilizar à CEC, através do RNEC, uma versão pública das bases de dados do estudo clínico, devidamente autorizada pela CNPD e no respeito pelos direitos do promotor e investigador em matéria de propriedade intelectual, dentro de três anos após a conclusão da participação do último participante no estudo clínico.\n\n6 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos ou de produtos cosméticos e de higiene corporal:\n\na) O conselho diretivo do INFARMED, I. P., é notificado da conclusão do estudo clínico, nos termos do n.º 1;\n\nb) Se a conclusão do estudo clínico tiver sido antecipada, o prazo referido no n.º 1 é reduzido para 15 dias, devendo os motivos ser claramente expostos na notificação;\n\nc) A notificação é elaborada e apresentada de acordo com as indicações pormenorizadas aprovadas por deliberação do conselho diretivo do INFARMED, I. P.\n\n7 - Nos ensaios clínicos e nos estudos clínicos com intervenção de dispositivos médicos, no caso de antecipação da conclusão do estudo por motivos de segurança, a notificação é transmitida no prazo de 15 dias, pelo INFARMED, I. P., às autoridades de todos os Estados membros e à Comissão Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "69839552": {
+   "fragment_id": "56927723",
+   "type": 11,
+   "heading": "Artigo 22.º — Registo e notificação de reações e acontecimentos adversos",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 22.º — Registo e notificação de reações e acontecimentos adversos\n\n1 - O investigador notifica ao promotor, no prazo máximo de 24 horas, todos os acontecimentos adversos graves, e no caso dos dispositivos médicos, também os defeitos dos dispositivos que poderiam ter conduzido a um acontecimento adverso grave, exceto os que se encontrem identificados no protocolo ou na brochura do investigador como não carecendo de notificação imediata.\n\n2 - Após a notificação referida no número anterior, o investigador apresenta ao promotor um relatório escrito pormenorizado, no prazo máximo de cinco dias.\n\n3 - Na notificação e nos relatórios posteriores, os participantes são identificados por meio de um número de código.\n\n4 - Os acontecimentos adversos ou os resultados anormais das análises laboratoriais definidos no protocolo como determinantes para as avaliações de segurança são igualmente notificados, de acordo com os requisitos de notificação e dentro dos prazos especificados no protocolo.\n\n5 - O promotor assegura:\n\na) No caso dos medicamentos, que todos os dados importantes relativos a suspeitas de reações adversas graves e inesperadas que tenham causado ou possam causar a morte do participante são registados e notificados à CEC, à autoridade competente a nível nacional e às autoridades competentes de todos os Estados membros envolvidos, no prazo máximo de sete dias, contados a partir do momento em que deles tomar conhecimento;\n\nb) No caso dos dispositivos, que todos os dados importantes relativos a acontecimentos adversos graves que tenham causado ou possam causar a morte ou deterioração grave do estado de saúde dos participantes, utilizadores ou terceiros envolvidos no estudo, são registados e notificados à CEC, à autoridade competente a nível nacional e às autoridades competentes de todos os Estados membros envolvidos imediatamente e não mais que dois dias a partir do momento em que deles tomar conhecimento;\n\nc) Outro tipo de acontecimentos adversos notificáveis, nomeadamente, relativos a defeitos dos dispositivos que poderiam ter conduzido a um acontecimento adverso grave e novos dados relativos a qualquer acontecimento adverso, são registados e notificados à CEC, à autoridade competente a nível nacional e às autoridades competentes de todos os Estados membros envolvidos no prazo máximo de sete dias, contados a partir do momento em que deles tomar conhecimento.\n\n6 - Para efeitos do disposto na alínea a) do número anterior, toda a informação superveniente considerada relevante é comunicada no prazo de oito dias contados do termo do prazo previsto na mesma alínea.\n\n7 - O investigador transmite ao promotor, à CEC e à autoridade competente todas as informações complementares que lhe sejam solicitadas.\n\n8 - O promotor mantém registos pormenorizados de todos os acontecimentos adversos que lhe sejam notificados por qualquer investigador, devendo, se solicitado a fazê-lo, enviá-los às autoridades dos Estados membros envolvidos.\n\n9 - Todas as outras suspeitas de reações adversas graves e inesperadas são notificadas pelo promotor à CEC, à autoridade competente, e às restantes autoridades competentes envolvidas, no prazo máximo de 15 dias contados a partir do seu conhecimento pelo promotor.\n\n10 - Durante a realização do estudo clínico com intervenção e até à sua conclusão, o promotor apresenta anualmente à CEC e à autoridade competente, uma lista de todas as suspeitas de reações adversas graves ou acontecimentos adversos graves ocorridos durante esse período, bem como um relatório relativo à segurança dos participantes.\n\n11 - As autoridades competentes emitem orientações pormenorizadas sobre o processo e a informação necessária para a notificação e investigação de acontecimentos e reações adversos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "69839553": {
+   "fragment_id": "56927746",
+   "type": 11,
+   "heading": "Artigo 39.º — Registo Nacional de Estudos Clínicos",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 39.º — Registo Nacional de Estudos Clínicos\n\n1 - O RNEC constitui uma plataforma eletrónica para registo e divulgação dos estudos clínicos, que promove a interação entre os diferentes parceiros na área da investigação clínica, facilitando e incentivando o desenvolvimento de investigação de elevada qualidade em benefício dos doentes, bem como a divulgação da investigação clínica nacional ao público em geral, aos profissionais e aos investigadores.\n\n2 - O RNEC funciona junto do INFARMED, I. P., e é coordenado por uma comissão constituída por três elementos designados pelo membro do governo responsável pela área da saúde, sendo um representante do INFARMED, I. P., que preside, um representante da CEIC e um representante do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P.\n\n3 - São objetivos do RNEC:\n\na) Constituir um registo público dos estudos clínicos, dos investigadores, dos centros de estudos clínicos, dos promotores, dos pareceres das CEC, das publicações, dos instrumentos de investigação, no respeito pelos direitos do promotor e do investigador em matéria de propriedade intelectual;\n\nb) Disponibilizar elementos de suporte à realização de estudos clínicos em Portugal, ao longo das suas várias etapas, incluindo os vários formulários eletrónicos de submissão às CES, ao INFARMED, I. P., e às demais entidades;\n\nc) Identificar as áreas de conhecimento relevantes para cada interveniente nos estudos clínicos;\n\nd) Criar um portal com informação relevante sobre estudos clínicos, centros de estudos clínicos, relatórios e estudos sobre a investigação clínica em Portugal;\n\ne) Divulgar e promover oportunidades de formação na área dos estudos clínicos;\n\nf) Fomentar a colaboração entre promotores, investigadores e centros de estudos clínicos;\n\ng) Divulgar serviços públicos e privados de apoio à realização de estudos clínicos, bem como os recursos nacionais para apoio à investigação, designadamente registos clínicos, biobancos, bases de dados clínicas e genéticas, e centros de excelência;\n\nh) Divulgar indicadores de monitorização das várias fases do processo, nomeadamente respeitantes à submissão, aprovação e realização dos estudos clínicos;\n\ni) Disponibilizar a avaliação contínua da capacidade de resposta das entidades responsáveis pela aprovação e realização dos estudos clínicos;\n\nj) Contribuir para a internacionalização da investigação clínica, disponibilizando elementos de suporte à realização de estudos em Portugal dirigidos a investigadores e promotores estrangeiros;\n\nk) Disponibilizar ou, na sua impossibilidade, indicar as publicações, apresentações e relatórios decorrentes da realização dos estudos clínicos registados;\n\nl) Disponibilizar o desenho, os instrumentos de recolha de dados de domínio público e a metainformação das bases de dados, evitando a duplicação de estudos e promovendo a colaboração entre investigadores;\n\nm) Disponibilizar, obrigatoriamente para os estudos clínicos com financiamento direto ou indireto através de fundos públicos, uma versão pública das bases de dados dos estudos clínicos, devidamente autorizada pela CNPD e no respeito pelos direitos do promotor e do investigador em matéria de propriedade intelectual, no prazo de três anos após a conclusão do estudo clínico registado;\n\nn) Avaliar e monitorizar continuamente o desempenho e a qualidade da investigação clínica em Portugal;\n\no) Contribuir para a literacia e a divulgação social do papel da investigação clínica.\n\n4 - O INFARMED, I. P., deve assegurar a articulação do RNEC com informação residente na base de dados a que se refere o artigo anterior, sistemas de vigilância de saúde e de segurança, bem como com os registos públicos de estudos clínicos e repositórios científicos, promovendo a uniformização da informação, a interoperacionalidade e a comunicação entre estes.\n\n5 - Para a realização de um estudo clínico os investigadores e a respetiva equipa, os promotores, os monitores, os auditores, as CES e os centros de estudos clínicos registam-se no RNEC.\n\n6 - O investigador ou o promotor deve proceder ao registo do ensaio clínico ou do estudo clínico com intervenção de dispositivos médicos no RNEC previamente ou em simultâneo ao pedido de parecer à CEC ou ao pedido de autorização ao INFARMED, I. P., bem como ao registo da atualização dos respetivos dados.\n\n7 - O investigador ou o promotor deve proceder à colocação das publicações, apresentações e relatórios respeitantes ao estudo clínico, no prazo de 30 dias após a divulgação destes.\n\n8 - Compete à CEC e à autoridade competente verificar e validar os dados constantes do RNEC dos estudos que avalia e acompanha.\n\n9 - As normas de funcionamento do RNEC são aprovadas por portaria do membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "69839554": {
+   "fragment_id": "56927762",
+   "type": 11,
+   "heading": "Artigo 52.º — Contagem dos prazos",
+   "in_force_from": "2015-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+   ],
+   "markdown": "###### Artigo 52.º — Contagem dos prazos\n\n1 - À contagem dos prazos previstos na presente lei são aplicáveis as regras estabelecidas no Código do Procedimento Administrativo.\n\n2 - Sem prejuízo do disposto no número anterior, na contagem dos prazos previstos no artigo 22.º incluem-se os sábados, domingos e feriados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 73/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27](https://diariodarepublica.pt/dr/detalhe/lei/73-2015-69879383), em vigor a partir de 2015-08-03"
+  },
+  "56928022": {
+   "fragment_id": "56927767",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de fevereiro de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 1 de abril de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 3 de abril de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho"
+  },
+  "116056332": {
+   "fragment_id": "56927705",
+   "type": 11,
+   "heading": "Artigo 8.º — Participantes maiores incapazes de prestar consentimento informado",
+   "in_force_from": "2019-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10"
+   ],
+   "markdown": "###### Artigo 8.º — Participantes maiores incapazes de prestar consentimento informado\n\n1 - Sem prejuízo do disposto no artigo 6.º, quando um participante maior não estiver em condições de prestar o consentimento informado, a realização do estudo clínico depende dos requisitos referidos nos números seguintes.\n\n2 - A realização de estudos clínicos com maiores que, antes do início da sua incapacidade, não tenham dado nem recusado o consentimento informado só é possível quando:\n\na) For obtido o consentimento informado do acompanhante com poderes de representação especial, nos termos do número seguinte, o qual deve refletir a vontade presumível do participante;\n\nb) A pessoa incapaz de dar o consentimento informado tiver recebido informações adequadas à sua capacidade de compreensão sobre o estudo clínico e os respetivos riscos e benefícios;\n\nc) O investigador ou, se for esse o caso, o investigador principal considerar a vontade expressa do participante que seja capaz de formar uma opinião.\n\n3 - O estudo clínico com intervenção só pode ser realizado em participantes maiores incapazes de prestar consentimento informado quando:\n\na) Se verifiquem os requisitos referidos no número anterior;\n\nb) O estudo clínico com intervenção for essencial para validar dados obtidos em estudos clínicos realizados em pessoas capazes de dar o consentimento informado ou através de outros métodos de investigação e estiver diretamente relacionado com o quadro de perigo de vida ou de debilidade de que sofra o participante em causa;\n\nc) O estudo clínico com intervenção, tiver sido concebido para prevenir a doença ou o mal-estar, reabilitar, minimizar a dor, o mal-estar, o medo ou qualquer outro previsível risco relacionado com a doença e com o grau de sofrimento desta, devendo o limiar de risco e o grau de sofrimento serem especificamente fixados e objeto de permanente verificação.\n\n4 - A CEC pode, de forma fundamentada e a título excecional, dispensar os requisitos constantes do n.º 2, nos estudos clínicos sem intervenção.\n\n5 - O estudo clínico com intervenção não pode ser realizado em incapaz de prestar consentimento informado que se encontre em acolhimento institucional, nos termos da respetiva legislação, salvo se da não realização do estudo resultar um potencial prejuízo ou desvantagem para o mesmo.\n\n6 - Nas circunstâncias referidas no número anterior, o consentimento informado será prestado em articulação com o médico assistente.\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10"
+  },
+  "1068950775": {
+   "fragment_id": "56927697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Lei n.º 9/2026 - Diário da República n.º 46/2026, Série I de 2026-03-06](https://diariodarepublica.pt/dr/detalhe/lei/9-2026-1068062486), em vigor a partir de 2026-04-05."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei regula a investigação clínica, considerada como todo o estudo sistemático destinado a descobrir ou a verificar a distribuição ou o efeito de fatores de saúde, de estados ou resultados em saúde, de processos de saúde ou de doença, do desempenho e, ou, segurança de intervenções ou da prestação de cuidados de saúde, salvo o disposto no n.º 4.\n\n2 - [Revogado.]\n\n3 - O disposto na presente lei não prejudica a aplicação do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, bem como da legislação nacional relativa à proteção de dados pessoais que seja aplicável.\n\n4 - A presente lei não se aplica:\n\na) À realização de ensaios clínicos de medicamentos para uso humano, que se rege pelo disposto no Regulamento (UE) n.º 536/2014 do Parlamento e do Conselho, de 16 de abril de 2014, e pelo diploma que assegura a execução, na ordem jurídica interna, das obrigações decorrentes desse regulamento;\n\nb) À realização da investigação clínica de dispositivos médicos, que se rege pelo disposto no Regulamento (UE) 2017/745 do Parlamento e do Conselho, de 5 de abril de 2017, e pelo diploma que assegura a execução, na ordem jurídica interna, das obrigações decorrentes desse regulamento;\n\nc) Ao estudo de desempenho de dispositivos médicos para diagnóstico in vitro, que se rege pelo disposto no Regulamento (UE) 2017/746 do Parlamento e do Conselho, de 5 de abril de 2017, e pelo diploma que assegura a execução, na ordem jurídica interna, das obrigações decorrentes desse regulamento.\n\n> Alterado pelo/a Artigo 27.º do/a [Lei n.º 9/2026 - Diário da República n.º 46/2026, Série I de 2026-03-06](https://diariodarepublica.pt/dr/detalhe/lei/9-2026-1068062486), em vigor a partir de 2026-04-05."
+  }
+ }
+}

@@ -1,0 +1,544 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007L0014:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0014-20131126",
+ "dre_path": null,
+ "source_lastmod": "2013-11-26",
+ "versions": [
+  {
+   "date": "2008-12-02",
+   "future": false,
+   "celex": "32007L0014",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2b3ecf857619aa3",
+    "e5b7a08247279922",
+    "de099e27b99c86c3",
+    "2fd390be49733386",
+    "94db46fbcb3292d9",
+    "c8a8adff2f1a4b19",
+    "be3999e41519f5b8",
+    "7e21dc58e04d96a6",
+    "2464bd6685d5d7b0",
+    "2e1ec2d1d8f73038",
+    "01c7df6ea1203917",
+    "603d9a6ea0486cc3",
+    "b3a694d3792b6282",
+    "15b4feb2fc57f9f8",
+    "5dc7427e56c9350b",
+    "8b03db0dbd5a97e0",
+    "d6c42be7d3585550",
+    "faf48b925838d6a0",
+    "b08089ed1438817b",
+    "b7a184d8910892b4",
+    "f4d07212b0f57fe9",
+    "75aa4f06bca29019",
+    "bada09b2c7f08166",
+    "a8fb3c56e3dde19a",
+    "7b603c0b20194913",
+    "6160ff48fcf4f46c",
+    "13fef543dc9a58b2",
+    "a95d24aa52c75b94"
+   ]
+  },
+  {
+   "date": "2013-11-26",
+   "future": false,
+   "celex": "02007L0014-20131126",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0050:por",
+     "title": "DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de outubro de 2013",
+     "published": null,
+     "celex": "32013L0050"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 26.º",
+    "Altera Notas",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Suprime Artigo 2.º — Disposições processuais aplicáveis à escolha do Estado-Membro de origem",
+    "Suprime Artigo 3.º — Conteúdo mínimo das demonstrações financeiras semestrais não consolidadas",
+    "Suprime Artigo 4.º — Principais transacções pertinentes entre as partes relacionadas",
+    "Suprime Artigo 5.º — Duração máxima do «ciclo curto de liquidação» habitual",
+    "Suprime Artigo 6.º — Mecanismos do controlo a exercer pelas autoridades competentes sobre os criadores de mercado",
+    "Suprime Artigo 7.º — Calendário dos dias de negociação",
+    "Suprime Artigo 8.º — Accionistas e pessoas singulares ou colectivas referidas no artigo 10.º da Directiva «Transparência», que têm a obrigação de notificar participações qualificadas",
+    "Suprime Artigo 9.º — Circunstâncias em que a pessoa que procede à notificação deve ter conhecimento prévio da aquisição, alienação ou possibilidade do exercício de direitos de voto",
+    "Suprime Artigo 10.º — Condições de independência a satisfazer pelas sociedades gestoras e empresas de investimento envolvidas na gestão individualizada de carteiras",
+    "Suprime Artigo 11.º — Tipos de instrumentos financeiros que conferem o direito de aquisição, por exclusiva iniciativa do titular, de acções às quais estejam associados direitos de voto",
+    "Suprime Artigo 12.º — Requisitos mínimos",
+    "Suprime Artigo 13.º — Requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE",
+    "Suprime Artigo 14.º — Requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE",
+    "Suprime Artigo 15.º — Requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE",
+    "Suprime Artigo 16.º — Requisitos equivalentes aos do artigo 6.º da Directiva 2004/109/CE",
+    "Suprime Artigo 17.º — Requisitos equivalentes aos do n.º 3 do artigo 4.º da Directiva 2004/109/CE",
+    "Suprime Artigo 18.º — Requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE",
+    "Suprime Artigo 19.º — Requisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE",
+    "Suprime Artigo 20.º — Requisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE",
+    "Suprime Artigo 21.º — Requisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE",
+    "Suprime Artigo 22.º — Requisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a), do artigo 18.º da Directiva 2004/109/CE",
+    "Suprime Artigo 23.º — Equivalência relativamente ao teste de independência para empresas-mães de sociedades gestoras e empresas de investimento"
+   ],
+   "fragments": [
+    "6a58ac38be38d8b3",
+    "e5b7a08247279922",
+    "ebda907afa15ba0e",
+    "9ad749651a15d956",
+    "46acd7ebdaac233e",
+    "b26b7f2533e2a9f6",
+    "effa568366477887",
+    "efdb40b145fe635c",
+    "bbb9db2780cc37c9",
+    "5dd48f415736efc0",
+    "1387f5d183341e8a",
+    "57afecfa1cbded6d",
+    "13dede0d95dd4265",
+    "8b892c8c140bbadb",
+    "aea70b0a0fb2fba0",
+    "787f55778bc645ff",
+    "56dc0be918b55a56",
+    "0446d655303145fd",
+    "ab984a82faa56146",
+    "f16cb02462ecbdda",
+    "965e80c61f938890",
+    "d1854284eccc8e92",
+    "7b603c0b20194913",
+    "6160ff48fcf4f46c",
+    "6731723e62e76fef",
+    "f2c48b1af6816ded"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2b3ecf857619aa3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Março de 2007\n\nque estabelece as normas de execução de determinadas disposições da Directiva 2004/109/CE relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004, relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado e que altera a Directiva 2001/34/CE [([^1])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr1-L_2007069PT.01002701-E0001), especialmente o n.º 3, alínea a), do artigo 2.º, o n.º 6, primeiro parágrafo e alínea c), do artigo 5.º, o n.º 7 do artigo 9.º, o n.º 8, alíneas b) a e), do artigo 12.º, o n.º 2 do artigo 13.º, o n.º 2 do artigo 14.º, o n.º 4, alínea a), do artigo 21.º, o n.º 4, subalínea ii), e o n.º 7 do artigo 23.º,\n\nApós consulta do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários (CARMEVM) [([^2])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr2-L_2007069PT.01002701-E0002) para efeitos de aconselhamento técnico,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2004/109/CE estabelece os princípios gerais que regem a harmonização dos requisitos de transparência aplicáveis à detenção de direitos de voto ou de instrumentos financeiros que confiram o direito de aquisição de acções com direitos de voto já emitidas. Através da publicação de informações exactas, completas e oportunas sobre os emitentes de valores mobiliários, procura manter e reforçar a confiança do investidor. Do mesmo modo, ao impor aos emitentes a obrigação de se manterem informados dos movimentos que afectam as participações qualificadas no capital das empresas, procura garantir que estas últimas possam manter o público informado.\n\n(2) As normas de execução das disposições que regem os requisitos de transparência devem, ainda, ser concebidas de modo a assegurar um elevado nível de protecção do investidor, a reforçar a eficiência do mercado e ser aplicadas uniformemente.\n\n(3) No que diz respeito às disposições processuais, de acordo com as quais os investidores devem ser informados da opção do emitente quanto ao Estado-Membro de origem, afigura-se adequado que essas opções sejam divulgadas segundo o processo previsto para a informação regulamentar, no âmbito da Directiva 2004/109/CE.\n\n(4) No que se refere ao conteúdo mínimo das demonstrações financeiras semestrais condensadas, quando estas não forem elaboradas em conformidade com as normas internacionais de contabilidade, deve sê-lo de modo a evitar reflectir uma imagem enganosa do activo e do passivo, da posição financeira e dos resultados do emitente. O conteúdo dos relatórios semestrais deve ser de molde a assegurar aos investidores uma transparência adequada, mediante um fluxo regular de informações sobre o desempenho do emitente, devendo essas informações ser apresentadas de modo a que seja fácil compará-las com as prestadas no relatório anual do ano anterior.\n\n(5) Os emitentes de acções que elaborem contas consolidadas de acordo com as Normas Internacionais de Contabilidade (IAS) e as Normas Internacionais de Relato Financeiro (IFRS) devem aplicar nos relatórios anuais e semestrais previstos na Directiva 2004/109/CE a mesma definição de transacções pertinentes entre as partes relacionadas. Os emitentes de acções que não elaborem contas consolidadas e não estejam obrigados a aplicar as IAS nem as IFRS devem aplicar, nos seus relatórios semestrais previstos na Directiva 2004/109/CE, a definição de transacções pertinentes entre as partes relacionadas estabelecida na Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada no n.º 3, alínea g), do artigo 54.º do Tratado e relativa às contas anuais de certas formas de sociedades [([^3])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr3-L_2007069PT.01002701-E0003).\n\n(6) Para efeitos do benefício da isenção de notificação de participações qualificadas nos termos da Directiva 2004/109/CE, no caso de acções adquiridas exclusivamente para efeitos de operações de compensação e de liquidação, a duração máxima do «ciclo curto de liquidação» deve ser a mais breve possível.\n\n(7) Para que a autoridade competente possa controlar o cumprimento das condições para a isenção da obrigação de comunicarem informações sobre as participações qualificadas de que beneficiam os criadores de mercado, estes, quando procurem beneficiar dessa isenção, devem informar que agem ou tencionam agir como criadores de mercado e indicar as acções ou os instrumentos financeiros em causa.\n\n(8) O exercício de actividades de criação de mercado com total transparência é especialmente importante. O criador de mercado deve, por conseguinte, ser capaz de, a pedido da autoridade competente, identificar as actividades exercidas que digam respeito ao emitente em causa, em especial as acções ou os instrumentos financeiros que detém para os fins da actividade de criação de mercado.\n\n(9) No que se refere ao calendário dos dias de negociação, afigura-se adequado, tendo em vista facilitar as transacções, que os prazos sejam calculados em função dos dias de negociação do Estado-Membro do emitente. Contudo, para reforçar a transparência, deve estabelecer-se que cada autoridade competente informe os investidores e os participantes no mercado do calendário dos dias de negociação aplicável aos diversos mercados regulamentados situados ou que operem no seu território.\n\n(10) No que diz respeito às circunstâncias em que devem ser notificadas as participações qualificadas, afigura-se adequado determinar o momento em que essa obrigação é imposta, quer individual quer colectivamente, e o modo como a obrigação deve ser cumprida no caso de representantes.\n\n(11) É razoável supor que as pessoas singulares ou colectivas têm um especial dever de diligência ao adquirirem ou alienarem participações qualificadas. Por conseguinte, tais pessoas ou entidades tomarão conhecimento muito rapidamente de tais aquisições ou alienações ou da possibilidade de exercer direitos de voto, sendo, consequentemente, adequado fixar um período muito curto subsequente à transacção pertinente após o qual se considerará que tais pessoas ou entidades estão informadas.\n\n(12) A isenção da obrigação de agregar participações qualificadas deve ser reconhecida apenas a empresas-mães que possam demonstrar que as suas filiais-sociedades gestoras ou empresas de investimento satisfazem as condições de independência. Para assegurar total transparência, deve ser transmitida previamente à autoridade competente uma declaração para esse efeito. A este respeito, é importante que a notificação mencione a autoridade competente que supervisiona as actividades das sociedades gestoras nas condições estabelecidas pela Directiva 85/611/CEE, de 20 de Dezembro de 1985, que coordena as disposições legislativas, regulamentares e administrativas respeitantes a alguns organismos de investimento colectivo em valores mobiliários (OICVM) [([^4])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr4-L_2007069PT.01002701-E0004), independentemente de estarem ou não autorizadas ao abrigo da directiva, contanto que, neste último caso, sejam supervisionadas nos termos da legislação nacional.\n\n(13) Para efeitos da Directiva 2004/109/CE, os instrumentos financeiros devem ser tidos em conta para efeitos de notificação das participações qualificadas, na medida em que tais instrumentos concedam ao titular um direito incondicional de aquisição das acções subjacentes ou uma opção quanto à aquisição das acções subjacentes ou a obtenção de um valor pecuniário no prazo de vencimento. Consequentemente, não deve considerar-se que os instrumentos financeiros incluem instrumentos que confiram ao titular um direito de receber acções dependente de o preço da acção subjacente atingir um determinado nível em determinado momento. Tão-pouco devem ser consideradas como abrangendo os instrumentos que permitem ao emitente do instrumento ou a terceiros atribuir acções ou valores pecuniários ao titular no prazo de vencimento.\n\n(14) Os instrumentos financeiros referidos no anexo I, secção C, da Directiva 2004/39/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr5-L_2007069PT.01002701-E0005) não mencionados no n.º 1 do artigo 11.º da presente directiva da Comissão não são considerados instrumentos financeiros na acepção do n.º 1 do artigo 13.º da Directiva 2004/109/CE.\n\n(15) A Directiva 2004/109/CE estabelece requisitos gerais no domínio da divulgação de informações regulamentares. A mera disponibilidade das informações, o que tem como corolário o facto de os investidores terem de as procurar activamente, não é, por conseguinte, suficiente para efeitos da directiva. Consequentemente, a divulgação deve incluir a distribuição activa de informações dos emitentes pelos meios de comunicação, a fim de que chegue aos investidores.\n\n(16) São necessários requisitos mínimos de qualidade para a divulgação de informação regulamentar, para assegurar aos investidores, ainda que localizados num Estado-Membro diferente do do emitente, a igualdade de acesso à informação regulamentar. Os emitentes devem assegurar que esses requisitos mínimos são cumpridos, quer divulgando eles próprios a informação regulamentar quer confiando a terceiros a execução dessa tarefa em seu nome. Neste último caso, os terceiros devem poder divulgar em condições adequadas e dispor de mecanismos apropriados para garantir que a informação regulamentar que recebem emana do emitente em causa e que não existe um risco significativo de corrupção de dados ou de acesso não autorizado a informação privilegiada não publicada. Quando os terceiros prestam outros serviços ou desempenham outras funções, tais como na qualidade de meios de comunicação, autoridades competentes, entidades gestoras de mercados ou entidades encarregadas do mecanismo de armazenamento oficialmente nomeado, esses serviços ou funções devem ser mantidos claramente separados dos serviços e funções relacionados com a divulgação de informação regulamentar. Ao comunicar informações aos meios de comunicação, os emitentes ou terceiros devem dar prioridade à utilização de meios electrónicos e a formatos normalizados do sector, de modo a facilitar e acelerar o processamento das informações.\n\n(17) Adicionalmente, enquanto requisito mínimo, a informação regulamentar deve ser divulgada de modo a assegurar o mais amplo acesso público possível e, se viável, de forma a atingir o público, simultaneamente no interior e no exterior do Estado-Membro de origem do emitente. Tal deve ser entendido sem prejuízo do direito que assiste aos Estados-Membros de exigir aos emitentes que publiquem parte ou a totalidade da informação regulamentar em jornais nem da possibilidade de os emitentes disponibilizarem a informação regulamentar nos seus próprios sítios *web* ou noutros sítios acessíveis aos investidores.\n\n(18) Deve ser possível declarar a equivalência quando as normas gerais de países terceiros relativas à divulgação de informações proporcionem aos utilizadores uma avaliação das posições dos emitentes compreensível e amplamente equivalente, que lhes permita tomar decisões como se dispusessem de informações conformes aos requisitos da Directiva 2004/109/CE, ainda que os requisitos não sejam idênticos. Contudo, a equivalência deve limitar-se à substância da informação pertinente, não devendo ser admitida qualquer excepção no que se refere aos prazos fixados pela Directiva 2004/109/CE.\n\n(19) Para se determinar se um emitente de um país terceiro respeita requisitos equivalentes aos impostos pelo n.º 3 do artigo 4.º da Directiva 2004/109/CE, é importante assegurar a coerência com o Regulamento (CE) n.º 809/2004 da Comissão, de 29 de Abril de 2004, que estabelece normas de aplicação da Directiva 2003/71/CE do Parlamento Europeu e do Conselho no que diz respeito à informação contida nos prospectos, bem como os respectivos modelos, à inserção por remissão, à publicação dos referidos prospectos e divulgação de anúncios publicitários [([^6])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr6-L_2007069PT.01002701-E0006), especialmente no que se refere aos elementos relacionados com a informação financeira histórica a incluir num prospecto.\n\n(20) No que diz respeito à equivalência dos requisitos de independência, uma empresa-mãe de uma sociedade gestora ou de uma empresa de investimento registada num país terceiro deve poder beneficiar da isenção prevista no n.º 4 ou no n.º 5 do artigo 12.º da Directiva 2004/109/CE, independentemente de a lei do país terceiro exigir uma autorização para o exercício de actividades de gestão ou actividades de gestão de carteiras pela sociedade gestora ou pela empresa de investimento por si controlada, contanto que sejam satisfeitas determinadas condições de independência.\n\n(21) As medidas constantes da presente directiva estão de acordo com o parecer do Comité Europeu dos Valores Mobiliários,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e5b7a08247279922": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva estabelece as normas de execução do n.º 1, subalíneas i) e ii), do artigo 2.º, do n.º 3, segundo parágrafo, e do n.º 4, segunda frase, do artigo 5.º, dos n.^os^ 1, 2 e 4 do artigo 9.º, do artigo 10.º, dos n.^os^ 1, 2, 4, 5 e 6 do artigo 12.º, do n.º 2, alínea a), do artigo 12.º, do n.º 1 do artigo 13.º, do n.º 1 do artigo 21.º e dos n.^os^ 1 e 6 do artigo 23.º da Directiva 2004/109/CE."
+  },
+  "de099e27b99c86c3": {
+   "fragment_id": "Artigo 2.º — Disposições processuais aplicáveis à escolha do Estado-Membro de origem",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Disposições processuais aplicáveis à escolha do Estado-Membro de origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições processuais aplicáveis à escolha do Estado-Membro de origem\n\nQuando o emitente faça uma escolha quanto ao Estado-Membro de origem, essa escolha deve ser divulgada segundo o processo previsto para a informação regulamentar."
+  },
+  "2fd390be49733386": {
+   "fragment_id": "Artigo 3.º — Conteúdo mínimo das demonstrações financeiras semestrais não consolidadas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Conteúdo mínimo das demonstrações financeiras semestrais não consolidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conteúdo mínimo das demonstrações financeiras semestrais não consolidadas\n\n1. O conteúdo mínimo do conjunto das demonstrações financeiras semestrais condensadas, quando esse conjunto não for elaborado em conformidade com as normas internacionais de contabilidade adoptadas nos termos do artigo 6.º do Regulamento (CE) n.º 1606/2002, deve estar em conformidade com o disposto nos n.^os^ 2 e 3 do presente artigo.\n\n2. O balanço condensado e a demonstração de resultados condensada devem apresentar todas as rubricas e subtotais incluídos nas demonstrações financeiras anuais mais recentes do emitente. Se, devido a omissões, as demonstrações financeiras semestrais reflectirem uma imagem enganosa do activo, do passivo, da posição financeira e dos resultados do emitente, devem ser acrescentadas rubricas adicionais.\n\nAlém disso, devem ser incluídas as seguintes informações comparativas:\n\na) Balanço referido ao final dos primeiros seis meses do exercício corrente e um balanço comparativo referido ao final do exercício imediatamente precedente;\n\nb) Demonstração de resultados, relativamente aos primeiros seis meses do exercício corrente, incluindo, a partir da data em que tenham transcorrido dois anos sobre a data de entrada em vigor da presente directiva, informações comparativas face ao período comparável do exercício precedente.\n\n3. O registo deve incluir os seguintes elementos:\n\na) Informações suficientes para assegurar a comparabilidade das demonstrações financeiras semestrais condensadas com as demonstrações financeiras anuais;\n\nb) Informações e explicações suficientes para assegurar que o utilizador compreenda correctamente qualquer alteração significativa de montantes e qualquer evolução no período semestral em causa reflectidas no balanço e na demonstração de resultados."
+  },
+  "94db46fbcb3292d9": {
+   "fragment_id": "Artigo 4.º — Principais transacções pertinentes entre as partes relacionadas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Principais transacções pertinentes entre as partes relacionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Principais transacções pertinentes entre as partes relacionadas\n\n1. Nos relatórios de gestão intercalares, os emitentes de acções devem divulgar, relativamente às principais transacções pertinentes entre as partes relacionadas, no mínimo, os seguintes elementos:\n\na) Transacções pertinentes entre as partes relacionadas realizadas nos primeiros seis meses do exercício corrente e que tenham afectado significativamente a situação financeira ou o desempenho da empresa nesse período;\n\nb) Quaisquer alterações nas transacções pertinentes entre as partes relacionadas descritas no último relatório anual, susceptíveis de ter um efeito significativo na posição financeira ou no desempenho da empresa nos primeiros seis meses do exercício corrente.\n\n2. Quando o emitente das acções não estiver obrigado a elaborar contas consolidadas, deve divulgar, no mínimo, as transacções pertinentes entre as partes relacionadas referidas no n.º 1, ponto 7-B, do artigo 43.º da Directiva 78/660/CEE."
+  },
+  "c8a8adff2f1a4b19": {
+   "fragment_id": "Artigo 5.º — Duração máxima do «ciclo curto de liquidação» habitual",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Duração máxima do «ciclo curto de liquidação» habitual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração máxima do «ciclo curto de liquidação» habitual\n\nA duração máxima do «ciclo curto de liquidação» habitual é de três dias de negociação, contados a partir da transacção."
+  },
+  "be3999e41519f5b8": {
+   "fragment_id": "Artigo 6.º — Mecanismos do controlo a exercer pelas autoridades competentes sobre os criadores de mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Mecanismos do controlo a exercer pelas autoridades competentes sobre os criadores de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mecanismos do controlo a exercer pelas autoridades competentes sobre os criadores de mercado\n\n1. O criador de mercado que pretenda beneficiar da isenção prevista no n.º 5 do artigo 9.º da Directiva 2004/109/CE deve informar a autoridade competente do Estado-Membro de origem do emitente, o mais tardar na data-limite estabelecida no n.º 2 do artigo 12.º da Directiva 2004/109/CE, de que exerce ou tenciona exercer actividades de criação de mercado relativamente a um determinado emitente.\n\nCaso o criador de mercado cesse o exercício de actividades de criação de mercado relativamente ao emitente em causa, deve informar desse facto a autoridade competente.\n\n2. Sem prejuízo do disposto no artigo 24.º da Directiva 2004/109/CE, se a autoridade competente do emitente pedir ao criador de mercado que pretenda beneficiar da isenção prevista no n.º 5 do artigo 9.º daquela directiva que identifique as acções ou os instrumentos financeiros que detém para os fins da actividade de criação de mercado, o criador de mercado pode proceder a essa identificação por quaisquer meios verificáveis. Só se não puder identificar as acções ou instrumentos financeiros em causa o criador de mercado poderá ser obrigado a mantê-los numa conta separada para efeitos dessa identificação.\n\n3. Sem prejuízo da aplicação do n.º 4, alínea a), do artigo 24.º da Directiva 2004/109/CE, se a legislação nacional exigir um acordo de criação de mercado entre o criador de mercado e a entidade gestora de mercados e/ou o emitente, o criador de mercado deve apresentar o acordo à autoridade competente, a pedido desta."
+  },
+  "7e21dc58e04d96a6": {
+   "fragment_id": "Artigo 7.º — Calendário dos dias de negociação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Calendário dos dias de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Calendário dos dias de negociação\n\n1. Para os efeitos dos n.^os^ 2 e 6 do artigo 12.º e do n.º 1 do artigo 14.º da Directiva 2004/109/CE, aplica-se o calendário dos dias de negociação do Estado-Membro de origem do emitente.\n\n2. Cada autoridade competente deve publicar no seu sítio internet o calendário dos dias de negociação dos diversos mercados regulamentados situados ou que operam no território sob sua jurisdição."
+  },
+  "2464bd6685d5d7b0": {
+   "fragment_id": "Artigo 8.º — Accionistas e pessoas singulares ou colectivas referidas no artigo 10.º da Directiva «Transparência», que têm a obrigação de notificar participações qualificadas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Accionistas e pessoas singulares ou colectivas referidas no artigo 10.º da Directiva «Transparência», que têm a obrigação de notificar participações qualificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Accionistas e pessoas singulares ou colectivas referidas no artigo 10.º da Directiva «Transparência», que têm a obrigação de notificar participações qualificadas\n\n1. Para os efeitos do n.º 2 do artigo 12.º da Directiva 2004/109/CE, a obrigação de notificação, que nasce quando a percentagem de direitos de voto detidos atinge, excede ou se torna inferior aos limiares aplicáveis na sequência de transacções do tipo referido no artigo 10.º da Directiva 2004/109/CE, constitui uma obrigação individual que incumbe a todos os accionistas ou a todas as pessoas singulares ou colectivas referidas no artigo 10.º daquela directiva, ou ambos, caso a percentagem de direitos de voto detidos atinja, exceda ou se torne inferior aos limiares aplicáveis.\n\nNas circunstâncias referidas na alínea a) do artigo 10.º da Directiva 2004/109/CE, a obrigação de notificação constitui uma obrigação colectiva partilhada por todas as partes no acordo.\n\n2. Nas circunstâncias referidas na alínea h) do artigo 10.º da Directiva 2004/109/CE, se um accionista conferir uma procuração para uma assembleia de accionistas, a notificação pode ser efectuada de uma só vez, no momento em que confere a procuração, desde que a notificação especifique a situação que resultará em termos de direitos de voto quando o procurador deixar de poder exercer os direitos de voto segundo o seu critério.\n\nSe, nas circunstâncias referidas na alínea h) do artigo 10.º, o procurador receber uma ou mais procurações para uma assembleia de accionistas, a notificação pode ser efectuada de uma só vez, no momento da recepção das procurações, desde que a notificação especifique a situação que resultará em termos de direitos de voto quando o procurador deixar de poder exercer os direitos de voto segundo o seu critério.\n\n3. Quando o dever de efectuar uma notificação incumbir a mais do que uma pessoa singular ou colectiva, a notificação pode ser efectuada por meio de uma notificação comum única.\n\nContudo, a utilização de uma notificação comum única não isenta qualquer das pessoas singulares ou colectivas em causa das suas responsabilidades relativamente à notificação."
+  },
+  "2e1ec2d1d8f73038": {
+   "fragment_id": "Artigo 9.º — Circunstâncias em que a pessoa que procede à notificação deve ter conhecimento prévio da aquisição, alienação ou possibilidade do exercício de direitos de voto",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Circunstâncias em que a pessoa que procede à notificação deve ter conhecimento prévio da aquisição, alienação ou possibilidade do exercício de direitos de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Circunstâncias em que a pessoa que procede à notificação deve ter conhecimento prévio da aquisição, alienação ou possibilidade do exercício de direitos de voto\n\nPara os efeitos do n.º 2, alínea a), do artigo 12.º da Directiva 2004/109/CE, considera-se que o accionista ou a pessoa singular ou colectiva referida no artigo 10.º da referida directiva toma conhecimento da aquisição, alienação ou possibilidade de exercício de direitos de voto no prazo máximo de dois dias de negociação seguintes à execução da transacção."
+  },
+  "01c7df6ea1203917": {
+   "fragment_id": "Artigo 10.º — Condições de independência a satisfazer pelas sociedades gestoras e empresas de investimento envolvidas na gestão individualizada de carteiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Condições de independência a satisfazer pelas sociedades gestoras e empresas de investimento envolvidas na gestão individualizada de carteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições de independência a satisfazer pelas sociedades gestoras e empresas de investimento envolvidas na gestão individualizada de carteiras\n\n1. Para efeitos da isenção da obrigação de agregação de participações estabelecida nos primeiros parágrafos dos n.^os^ 4 e 5 do artigo 12.º da Directiva 2004/109/CE, uma empresa-mãe de uma sociedade gestora ou de uma empresa de investimento deve satisfazer as seguintes condições:\n\na) Não pode interferir, mediante instruções directas ou indirectas ou de outro modo, no exercício dos direitos de voto detidos pela sociedade gestora ou empresa de investimento;\n\nb) Essa sociedade gestora ou empresa de investimento deve ter liberdade de exercer, independentemente da empresa-mãe, os direitos de voto associados aos activos por si geridos.\n\n2. Uma empresa-mãe que pretenda beneficiar da isenção deve transmitir sem demora à autoridade competente do Estado-Membro de origem dos emitentes cujos direitos de voto se encontrem associados a participações geridas pelas sociedades gestoras ou empresas de investimento os seguintes elementos:\n\na) Uma lista dos nomes dessas sociedades gestoras e empresas de investimento, com indicação das autoridades competentes que as supervisionam ou de que nenhuma autoridade as supervisiona, mas sem referência aos emitentes em causa;\n\nb) Uma declaração de que a empresa-mãe satisfaz, relativamente a cada uma dessas sociedades gestoras ou empresas de investimento, as condições estabelecidas no n.º 1.\n\nA empresa-mãe deve actualizar continuamente a lista referida na alínea a).\n\n3. Se a empresa-mãe pretender beneficiar das isenções unicamente no que se refere aos instrumentos financeiros referidos no artigo 13.º da Directiva 2004/109/CE, deve transmitir à autoridade competente do Estado-Membro de origem do emitente apenas a lista referida na alínea a) do n.º 2.\n\n4 Sem prejuízo da aplicação do artigo 24.º da Directiva 2004/109/CE, a empresa-mãe de uma sociedade gestora ou de uma empresa de investimento deve poder demonstrar à autoridade competente do Estado-Membro de origem do emitente, a pedido, que:\n\na) As estruturas organizacionais da empresa-mãe e da sociedade gestora ou da empresa de investimento permitem assegurar o exercício dos direitos de voto independentemente da empresa-mãe;\n\nb) As pessoas que decidem do modo de exercício dos direitos de voto agem com independência;\n\nc) Existe um mandato escrito claro que estabelece uma relação directa e independente entre a empresa-mãe e a sociedade gestora ou a empresa de investimento, se a empresa-mãe for cliente da sua sociedade gestora ou empresa de investimento ou detiver direitos de voto associados aos activos geridos por estas últimas.\n\nO requisito referido na alínea a) implica, no mínimo, que a empresa-mãe e a sociedade gestora ou a empresa de investimento estabeleçam por escrito políticas e procedimentos razoavelmente concebidos para impedir a troca de informações entre a empresa-mãe e a sociedade gestora ou a empresa de investimento, relativamente ao exercício dos direitos de voto.\n\n5. Para efeitos da alínea a) do n.º 1, entende-se por «instrução directa» qualquer instrução dada pela empresa-mãe ou por outra empresa controlada pela empresa-mãe que precise o modo como a sociedade gestora ou a empresa de investimento deve exercer os direitos de voto em casos concretos.\n\nPor «instrução indirecta» entende-se qualquer instrução geral ou particular, independentemente da sua forma, dada pela empresa-mãe ou por outra empresa controlada pela empresa-mãe que limite a margem de discricionariedade da sociedade gestora ou da empresa de investimento relativamente ao exercício de direitos de voto de modo a servir interesses empresariais específicos da empresa-mãe ou de outra empresa controlada pela empresa-mãe."
+  },
+  "603d9a6ea0486cc3": {
+   "fragment_id": "Artigo 11.º — Tipos de instrumentos financeiros que conferem o direito de aquisição, por exclusiva iniciativa do titular, de acções às quais estejam associados direitos de voto",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Tipos de instrumentos financeiros que conferem o direito de aquisição, por exclusiva iniciativa do titular, de acções às quais estejam associados direitos de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tipos de instrumentos financeiros que conferem o direito de aquisição, por exclusiva iniciativa do titular, de acções às quais estejam associados direitos de voto\n\n1. Para efeitos do n.º 1 do artigo 13.º da Directiva 2004/109/CE, os valores mobiliários, opções, futuros, *swaps*, contratos a prazo sobre taxa de juro e quaisquer outros contratos sobre instrumentos derivados referidos na secção C do anexo I da Directiva 2004/39/CE são considerados instrumentos financeiros, desde que confiram o direito à aquisição, exclusivamente por iniciativa própria do titular, por força de um acordo formal, de acções a que estejam associados direitos de voto, já emitidas, de um emitente cujas acções estejam admitidas à negociação num mercado regulamentado.\n\nO titular do instrumento deve gozar, no prazo de vencimento, ou do direito incondicional à aquisição das acções subjacentes ou da opção quanto ao direito de adquirir ou não essas acções.\n\nPor «acordo formal» entende-se um acordo vinculativo nos termos do direito aplicável.\n\n2. Para os efeitos do n.º 1 do artigo 13.º da Directiva 2004/109/CE, o titular deve agregar e notificar todos os instrumentos financeiros, na acepção do n.º 1, relativos ao mesmo emitente do activo subjacente.\n\n3. A notificação requerida pelo n.º 1 do artigo 13.º da Directiva 2004/109/CE deve incluir as seguintes informações:\n\na) Situação resultante em termos de direitos de voto;\n\nb) Cadeia de empresas controladas através das quais os instrumentos financeiros são efectivamente detidos, se for caso disso;\n\nc) Data em que o limiar foi atingido ou excedido;\n\nd) Indicação, relativamente aos instrumentos com um período de exercício, da data ou do período horário em que as acções serão ou podem ser adquiridas, se for caso disso;\n\ne) Data do ou em que o instrumento expira;\n\nf) Identidade do titular;\n\ng) Nome do emitente subjacente.\n\nPara os efeitos da alínea a), a percentagem de direitos de voto é calculada em função do último número total de direitos de voto e do último valor do capital divulgados pelo emitente em conformidade com o artigo 15.º da Directiva 2004/109/CE.\n\n4. O período de notificação deve ser o estabelecido pelo n.º 2 do artigo 12.º da Directiva 2004/109/CE e pelas respectivas disposições de aplicação.\n\n5. A notificação deve ser efectuada ao emitente da acção subjacente e à autoridade competente do Estado-Membro de origem do emitente.\n\nSe o instrumento financeiro estiver relacionado com mais do que uma acção subjacente, deve ser efectuada uma notificação distinta em relação a cada emitente das acções subjacentes."
+  },
+  "b3a694d3792b6282": {
+   "fragment_id": "Artigo 12.º — Requisitos mínimos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Requisitos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos mínimos\n\n1. A divulgação de informações regulamentares para os efeitos do n.º 1 do artigo 21.º da Directiva 2004/109/CE deve ser efectuada de acordo com os requisitos mínimos estabelecidos nos n.^os^ 2 a 5.\n\n2. As informações regulamentares devem ser divulgadas de modo a assegurar que possam atingir o maior público possível e, tanto quanto possível, de forma simultânea no Estado-Membro de origem, ou no Estado-Membro referido no n.º 3 do artigo 21.º da Directiva 2004/109/CE, e nos outros Estados-Membros.\n\n3. As informações regulamentares devem ser transmitidas aos meios de comunicação através de um texto integral não editado.\n\nContudo, no caso dos relatórios e declarações referidos nos artigos 4.º, 5.º e 6.º da Directiva 2004/109/CE, este requisito deve ser considerado cumprido se o anúncio relativo às informações regulamentares for efectuado aos meios de comunicação e indicar o sítio *web*, além do mecanismo designado oficialmente para o armazenamento central das informações regulamentares, referido no artigo 21.º da referida directiva, em que os documentos pertinentes se encontram disponíveis.\n\n4. As informações regulamentares devem ser transmitidas aos meios de comunicação de modo a garantir a segurança da comunicação, minimizar o risco de corrupção de dados e de acesso não autorizado e a proporcionar certeza quanto à fonte das informações regulamentares.\n\nA segurança da recepção deve ser garantida mediante a correcção com a maior brevidade possível de qualquer falha ou interrupção na transmissão das informações regulamentares.\n\nO emitente ou a pessoa que tenha requerido a admissão à negociação num mercado regulamentado sem a autorização do emitente não é responsável pelos erros sistémicos ou deficiências nos meios de comunicação aos quais as informações regulamentares tenham sido transmitidas.\n\n5. As informações regulamentares devem ser transmitidas pelo emitente de um modo que torne claro que se trata de informações regulamentares e que permita identificar claramente o emitente em causa, o objecto das informações regulamentares e a data e a hora da transmissão das informações pelo emitente ou pela pessoa que tenha requerido a admissão à negociação num mercado regulamentado sem a autorização do emitente.\n\nMediante pedido, o emitente ou a pessoa que tenha requerido a admissão à negociação num mercado regulamentado sem a autorização do emitente pode comunicar à autoridade competente, relativamente a qualquer divulgação de informações regulamentares, o seguinte:\n\na) Nome da pessoa que transmitiu a informação;\n\nb) Dados relativos à validação dos mecanismos de segurança;\n\nc) Data e hora em que a informação foi transmitida;\n\nd) Meio pelo qual a informação foi transmitida;\n\ne) Se for caso disso, dados sobre qualquer embargo imposto pelo emitente à informação regulamentar."
+  },
+  "15b4feb2fc57f9f8": {
+   "fragment_id": "Artigo 13.º — Requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE se a sua legislação requerer que o relatório de gestão anual inclua, pelo menos, as seguintes informações:\n\na) Uma análise apropriada da evolução dos negócios, do desempenho e da situação do emitente, assim como uma descrição dos principais riscos e incertezas com que se defronta, de modo que a análise apresente uma visão equilibrada e completa do desenvolvimento e do desempenho dos negócios do emitente e da sua posição, que seja coerente com a dimensão e a complexidade da actividade exercida;\n\nb) Indicação dos acontecimentos importantes ocorridos depois do encerramento do exercício;\n\nc) Indicações sobre a provável evolução futura do emitente.\n\nA análise referida na alínea a) deve incluir, na medida do necessário para assegurar a compreensão da evolução, do desempenho ou da posição do emitente, indicadores-chave do desempenho financeiro e, se for caso disso, não financeiro, pertinentes para a actividade concreta da empresa."
+  },
+  "5dc7427e56c9350b": {
+   "fragment_id": "Artigo 14.º — Requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE se a sua legislação obrigar à apresentação de um conjunto de demonstrações financeiras condensadas, além do relatório de gestão intercalar, e à inclusão no relatório de gestão intercalar, pelo menos, das seguintes informações:\n\na) Análise do período em causa;\n\nb) Indicações sobre a provável evolução futura do emitente nos seis meses restantes do exercício;\n\nc) Para os emitentes de acções, as principais transacções pertinentes entre as partes relacionadas, caso não tenham sido divulgadas numa base contínua."
+  },
+  "8b03db0dbd5a97e0": {
+   "fragment_id": "Artigo 15.º — Requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente a dispor de uma ou mais pessoas responsáveis pelas informações financeiras anuais e semestrais, em especial pelas seguintes:\n\na) Conformidade das demonstrações financeiras com o quadro de apresentação de informações ou o conjunto de normas contabilísticas aplicáveis;\n\nb) Carácter apropriado da análise da gestão incluída no relatório de gestão."
+  },
+  "d6c42be7d3585550": {
+   "fragment_id": "Artigo 16.º — Requisitos equivalentes aos do artigo 6.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Requisitos equivalentes aos do artigo 6.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Requisitos equivalentes aos do artigo 6.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do artigo 6.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente a publicar relatórios financeiros trimestrais."
+  },
+  "faf48b925838d6a0": {
+   "fragment_id": "Artigo 17.º — Requisitos equivalentes aos do n.º 3 do artigo 4.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Requisitos equivalentes aos do n.º 3 do artigo 4.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Requisitos equivalentes aos do n.º 3 do artigo 4.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 3, primeiro parágrafo, do artigo 4.º da Directiva 2004/109/CE se a sua legislação, embora não obrigando a empresa-mãe a elaborar contas individuais, impuser ao emitente, cuja sede estatutária se situa nesse país terceiro, a inclusão, no âmbito da elaboração das contas consolidadas, das seguintes informações:\n\na) Para os emitentes de acções, cálculo dos dividendos e capacidade para os pagar;\n\nb) Para todos os emitentes, se for caso disso, o capital mínimo e os requisitos de capitais próprios e as necessidades de liquidez.\n\nPara os efeitos da equivalência, o emitente deve ainda ter a possibilidade de apresentar à autoridade competente do Estado-Membro de origem informações suplementares auditadas sobre as contas individuais do emitente enquanto entidade independente, pertinentes para os dados referidos nas alíneas a) e b). Essas informações podem ser elaboradas de acordo com as normas contabilísticas do país terceiro."
+  },
+  "b08089ed1438817b": {
+   "fragment_id": "Artigo 18.º — Requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE, relativamente às contas individuais, se a sua legislação, embora não obrigando o emitente, cuja sede estatutária se situa num país terceiro, a elaborar contas consolidadas, lhe imponha a elaboração das contas individuais de acordo com as Normas Internacionais de Contabilidade reconhecidas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntr7-L_2007069PT.01002701-E0007), aplicáveis na Comunidade, ou com as normas nacionais de contabilidade do país terceiro, equivalentes àquelas normas.\n\nPara efeitos de equivalência, se tais informações não forem conformes àquelas normas, devem ser apresentadas sob a forma de informações financeiras reformuladas.\n\nAlém disso, as contas individuais devem ser objecto de auditoria independente."
+  },
+  "b7a184d8910892b4": {
+   "fragment_id": "Artigo 19.º — Requisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Requisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE se, nos termos da sua legislação, o prazo em que o emitente cuja sede estatutária se situa nesse país terceiro deve ser notificado das participações qualificadas e em que deve divulgar ao público essas participações qualificadas for, no total, igual ou inferior a sete dias de negociação.\n\nOs prazos para a notificação ao emitente e a subsequente divulgação ao público por parte deste podem diferir dos estabelecidos nos n.^os^ 2 e 6 do artigo 12.º da Directiva 2004/109/CE."
+  },
+  "f4d07212b0f57fe9": {
+   "fragment_id": "Artigo 20.º — Requisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Requisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Requisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente, cuja sede estatutária se situa nesse país terceiro, a satisfazer as seguintes condições:\n\na) No caso de um emitente autorizado a deter até 5 %, no máximo, das suas acções próprias a que estejam associados direitos de voto, deve efectuar uma notificação sempre que for alcançado ou superado esse limiar;\n\nb) No caso de um emitente autorizado a deter entre 5 % e 10 %, no máximo, das suas acções próprias a que estejam associados direitos de voto, deve efectuar uma notificação sempre que for alcançado ou superado o limiar de 5 % ou o referido limiar máximo;\n\nc) No caso de um emitente autorizado a deter mais do que 10 % das suas acções próprias a que estejam associados direitos de voto, deve efectuar uma notificação sempre que forem alcançados ou superados os limiares de 5 % ou 10 %;\n\nPara os efeitos da equivalência, não é necessário exigir a notificação acima do limiar de 10 %."
+  },
+  "75aa4f06bca29019": {
+   "fragment_id": "Artigo 21.º — Requisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Requisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente, cuja sede estatutária se situa nesse país terceiro, a divulgar ao público o número total de direitos de voto e o capital no prazo de 30 dias após a ocorrência de um aumento ou de uma diminuição desse número total."
+  },
+  "bada09b2c7f08166": {
+   "fragment_id": "Artigo 22.º — Requisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a), do artigo 18.º da Directiva 2004/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Requisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a), do artigo 18.º da Directiva 2004/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Requisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a), do artigo 18.º da Directiva 2004/109/CE\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a) do artigo 18.º da Directiva 2004/106/CE, no que diz respeito ao conteúdo da informação sobre assembleias, se a sua legislação obrigar o emitente cuja sede estatutária se situa nesse país terceiro a prestar, no mínimo, informações sobre o local, o calendário e a ordem de trabalhos das assembleias."
+  },
+  "a8fb3c56e3dde19a": {
+   "fragment_id": "Artigo 23.º — Equivalência relativamente ao teste de independência para empresas-mães de sociedades gestoras e empresas de investimento",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Equivalência relativamente ao teste de independência para empresas-mães de sociedades gestoras e empresas de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Equivalência relativamente ao teste de independência para empresas-mães de sociedades gestoras e empresas de investimento\n\n1. Considera-se que um país terceiro estabeleceu condições de independência equivalentes às dos n.^os^ 4 e 5 do artigo 12.º da Directiva 2004/109/CE se a sua legislação obrigar as sociedades gestoras ou empresas de investimento referidas no n.º 6 do artigo 23.º daquela directiva a satisfazer as seguintes condições:\n\na) A sociedade gestora ou a empresa de investimento devem ter, em todas as situações, liberdade de exercício, independentemente da empresa-mãe, dos direitos de voto associados aos activos por si geridos;\n\nb) A sociedade gestora ou a empresa de investimento não devem ter em conta os interesses da empresa-mãe ou de qualquer outra empresa controlada pela empresa-mãe, sempre que surjam conflitos de interesses.\n\n2. A empresa-mãe deve cumprir os requisitos de notificação estabelecidos no n.º 2, alínea a), e no n.º 3 do artigo 10.º da presente directiva.\n\nAlém disso, deve declarar que a empresa-mãe satisfaz, relativamente a cada uma dessas sociedades gestoras ou empresas de investimento, as condições estabelecidas no n.º 1.\n\n3. Sem prejuízo da aplicação do artigo 24.º da Directiva 2004/109/CE, a empresa-mãe deve estar em condições de demonstrar à autoridade competente do Estado-Membro de origem do emitente, a pedido desta, que os requisitos estabelecidos no n.º 4 do artigo 10.º são cumpridos."
+  },
+  "7b603c0b20194913": {
+   "fragment_id": "Artigo 24.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Transposição\n\n1. Os Estados-Membros adoptam as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 12 meses após a data de adopção. Os Estados-Membros comunicam de imediato à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nAs disposições adoptadas pelos Estados-Membros incluem uma referência à presente directiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "6160ff48fcf4f46c": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "13fef543dc9a58b2": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Março de 2007.\n\n***Pela Comissão***\n\n**Charlie McCREEVY**\n\n***Membro da Comissão***\n\n---"
+  },
+  "a95d24aa52c75b94": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc1-L_2007069PT.01002701-E0001) [JO L 390 de 31.12.2004, p. 38](http://publications.europa.eu/resource/oj/JOL_2004_390_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc2-L_2007069PT.01002701-E0002) O CARMEVM foi instituído pela Decisão 2001/527/CE da Comissão, de 6 de Junho de 2001 ([JO L 191 de 13 de Julho de 2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_191_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc3-L_2007069PT.01002701-E0003) [JO L 222 de 14.8.1978, p. 11](http://publications.europa.eu/resource/oj/JOL_1978_222_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2006/46/CE do Parlamento Europeu e do Conselho ([JO L 224 de 16.8.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_224_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc4-L_2007069PT.01002701-E0004) [JO L 375 de 31.12.1985, p. 3](http://publications.europa.eu/resource/oj/JOL_1985_375_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2005/1/CE do Parlamento Europeu e do Conselho ([JO L 79 de 24.3.2005, p. 9](http://publications.europa.eu/resource/oj/JOL_2005_079_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc5-L_2007069PT.01002701-E0005) [JO L 145 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_145_R_TOC). Directiva alterada pela Directiva 2006/31/CE ([JO L 114 de 27.4.2006, p. 60](http://publications.europa.eu/resource/oj/JOL_2006_114_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc6-L_2007069PT.01002701-E0006) [JO L 149 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_149_R_TOC). Rectificação no [JO L 215 de 16.6.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_215_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1787/2006 ([JO L 337 de 5.12.2006, p. 17](http://publications.europa.eu/resource/oj/JOL_2006_337_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017.02/DOC_1#ntc7-L_2007069PT.01002701-E0007) [JO L 243 de 11.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_243_R_TOC)."
+  },
+  "6a58ac38be38d8b3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Março de 2007\n\nque estabelece as normas de execução de determinadas disposições da Directiva 2004/109/CE relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004, relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado e que altera a Directiva 2001/34/CE ([^1^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0001)), especialmente o n.º 3, alínea a), do artigo 2.º, o n.º 6, primeiro parágrafo e alínea c), do artigo 5.º, o n.º 7 do artigo 9.º, o n.º 8, alíneas b) a e), do artigo 12.º, o n.º 2 do artigo 13.º, o n.º 2 do artigo 14.º, o n.º 4, alínea a), do artigo 21.º, o n.º 4, subalínea ii), e o n.º 7 do artigo 23.º,\n\nApós consulta do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários (CARMEVM) ([^2^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0002)) para efeitos de aconselhamento técnico,\n\n(1) A Directiva 2004/109/CE estabelece os princípios gerais que regem a harmonização dos requisitos de transparência aplicáveis à detenção de direitos de voto ou de instrumentos financeiros que confiram o direito de aquisição de acções com direitos de voto já emitidas. Através da publicação de informações exactas, completas e oportunas sobre os emitentes de valores mobiliários, procura manter e reforçar a confiança do investidor. Do mesmo modo, ao impor aos emitentes a obrigação de se manterem informados dos movimentos que afectam as participações qualificadas no capital das empresas, procura garantir que estas últimas possam manter o público informado.\n\n(2) As normas de execução das disposições que regem os requisitos de transparência devem, ainda, ser concebidas de modo a assegurar um elevado nível de protecção do investidor, a reforçar a eficiência do mercado e ser aplicadas uniformemente.\n\n(3) No que diz respeito às disposições processuais, de acordo com as quais os investidores devem ser informados da opção do emitente quanto ao Estado-Membro de origem, afigura-se adequado que essas opções sejam divulgadas segundo o processo previsto para a informação regulamentar, no âmbito da Directiva 2004/109/CE.\n\n(4) No que se refere ao conteúdo mínimo das demonstrações financeiras semestrais condensadas, quando estas não forem elaboradas em conformidade com as normas internacionais de contabilidade, deve sê-lo de modo a evitar reflectir uma imagem enganosa do activo e do passivo, da posição financeira e dos resultados do emitente. O conteúdo dos relatórios semestrais deve ser de molde a assegurar aos investidores uma transparência adequada, mediante um fluxo regular de informações sobre o desempenho do emitente, devendo essas informações ser apresentadas de modo a que seja fácil compará-las com as prestadas no relatório anual do ano anterior.\n\n(5) Os emitentes de acções que elaborem contas consolidadas de acordo com as Normas Internacionais de Contabilidade (IAS) e as Normas Internacionais de Relato Financeiro (IFRS) devem aplicar nos relatórios anuais e semestrais previstos na Directiva 2004/109/CE a mesma definição de transacções pertinentes entre as partes relacionadas. Os emitentes de acções que não elaborem contas consolidadas e não estejam obrigados a aplicar as IAS nem as IFRS devem aplicar, nos seus relatórios semestrais previstos na Directiva 2004/109/CE, a definição de transacções pertinentes entre as partes relacionadas estabelecida na Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada no n.º 3, alínea g), do artigo 54.º do Tratado e relativa às contas anuais de certas formas de sociedades ([^3^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0003)).\n\n(6) Para efeitos do benefício da isenção de notificação de participações qualificadas nos termos da Directiva 2004/109/CE, no caso de acções adquiridas exclusivamente para efeitos de operações de compensação e de liquidação, a duração máxima do «ciclo curto de liquidação» deve ser a mais breve possível.\n\n(7) Para que a autoridade competente possa controlar o cumprimento das condições para a isenção da obrigação de comunicarem informações sobre as participações qualificadas de que beneficiam os criadores de mercado, estes, quando procurem beneficiar dessa isenção, devem informar que agem ou tencionam agir como criadores de mercado e indicar as acções ou os instrumentos financeiros em causa.\n\n(8) O exercício de actividades de criação de mercado com total transparência é especialmente importante. O criador de mercado deve, por conseguinte, ser capaz de, a pedido da autoridade competente, identificar as actividades exercidas que digam respeito ao emitente em causa, em especial as acções ou os instrumentos financeiros que detém para os fins da actividade de criação de mercado.\n\n(9) No que se refere ao calendário dos dias de negociação, afigura-se adequado, tendo em vista facilitar as transacções, que os prazos sejam calculados em função dos dias de negociação do Estado-Membro do emitente. Contudo, para reforçar a transparência, deve estabelecer-se que cada autoridade competente informe os investidores e os participantes no mercado do calendário dos dias de negociação aplicável aos diversos mercados regulamentados situados ou que operem no seu território.\n\n(10) No que diz respeito às circunstâncias em que devem ser notificadas as participações qualificadas, afigura-se adequado determinar o momento em que essa obrigação é imposta, quer individual quer colectivamente, e o modo como a obrigação deve ser cumprida no caso de representantes.\n\n(11) É razoável supor que as pessoas singulares ou colectivas têm um especial dever de diligência ao adquirirem ou alienarem participações qualificadas. Por conseguinte, tais pessoas ou entidades tomarão conhecimento muito rapidamente de tais aquisições ou alienações ou da possibilidade de exercer direitos de voto, sendo, consequentemente, adequado fixar um período muito curto subsequente à transacção pertinente após o qual se considerará que tais pessoas ou entidades estão informadas.\n\n(12) A isenção da obrigação de agregar participações qualificadas deve ser reconhecida apenas a empresas-mães que possam demonstrar que as suas filiais-sociedades gestoras ou empresas de investimento satisfazem as condições de independência. Para assegurar total transparência, deve ser transmitida previamente à autoridade competente uma declaração para esse efeito. A este respeito, é importante que a notificação mencione a autoridade competente que supervisiona as actividades das sociedades gestoras nas condições estabelecidas pela Directiva 85/611/CEE, de 20 de Dezembro de 1985, que coordena as disposições legislativas, regulamentares e administrativas respeitantes a alguns organismos de investimento colectivo em valores mobiliários (OICVM) ([^4^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0004)), independentemente de estarem ou não autorizadas ao abrigo da directiva, contanto que, neste último caso, sejam supervisionadas nos termos da legislação nacional.\n\n(13) Para efeitos da Directiva 2004/109/CE, os instrumentos financeiros devem ser tidos em conta para efeitos de notificação das participações qualificadas, na medida em que tais instrumentos concedam ao titular um direito incondicional de aquisição das acções subjacentes ou uma opção quanto à aquisição das acções subjacentes ou a obtenção de um valor pecuniário no prazo de vencimento. Consequentemente, não deve considerar-se que os instrumentos financeiros incluem instrumentos que confiram ao titular um direito de receber acções dependente de o preço da acção subjacente atingir um determinado nível em determinado momento. Tão-pouco devem ser consideradas como abrangendo os instrumentos que permitem ao emitente do instrumento ou a terceiros atribuir acções ou valores pecuniários ao titular no prazo de vencimento.\n\n(14) Os instrumentos financeiros referidos no anexo I, secção C, da Directiva 2004/39/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0005)) não mencionados no n.º 1 do artigo 11.º da presente directiva da Comissão não são considerados instrumentos financeiros na acepção do n.º 1 do artigo 13.º da Directiva 2004/109/CE.\n\n(15) A Directiva 2004/109/CE estabelece requisitos gerais no domínio da divulgação de informações regulamentares. A mera disponibilidade das informações, o que tem como corolário o facto de os investidores terem de as procurar activamente, não é, por conseguinte, suficiente para efeitos da directiva. Consequentemente, a divulgação deve incluir a distribuição activa de informações dos emitentes pelos meios de comunicação, a fim de que chegue aos investidores.\n\n(16) São necessários requisitos mínimos de qualidade para a divulgação de informação regulamentar, para assegurar aos investidores, ainda que localizados num Estado-Membro diferente do do emitente, a igualdade de acesso à informação regulamentar. Os emitentes devem assegurar que esses requisitos mínimos são cumpridos, quer divulgando eles próprios a informação regulamentar quer confiando a terceiros a execução dessa tarefa em seu nome. Neste último caso, os terceiros devem poder divulgar em condições adequadas e dispor de mecanismos apropriados para garantir que a informação regulamentar que recebem emana do emitente em causa e que não existe um risco significativo de corrupção de dados ou de acesso não autorizado a informação privilegiada não publicada. Quando os terceiros prestam outros serviços ou desempenham outras funções, tais como na qualidade de meios de comunicação, autoridades competentes, entidades gestoras de mercados ou entidades encarregadas do mecanismo de armazenamento oficialmente nomeado, esses serviços ou funções devem ser mantidos claramente separados dos serviços e funções relacionados com a divulgação de informação regulamentar. Ao comunicar informações aos meios de comunicação, os emitentes ou terceiros devem dar prioridade à utilização de meios electrónicos e a formatos normalizados do sector, de modo a facilitar e acelerar o processamento das informações.\n\n(17) Adicionalmente, enquanto requisito mínimo, a informação regulamentar deve ser divulgada de modo a assegurar o mais amplo acesso público possível e, se viável, de forma a atingir o público, simultaneamente no interior e no exterior do Estado-Membro de origem do emitente. Tal deve ser entendido sem prejuízo do direito que assiste aos Estados-Membros de exigir aos emitentes que publiquem parte ou a totalidade da informação regulamentar em jornais nem da possibilidade de os emitentes disponibilizarem a informação regulamentar nos seus próprios sítios *web* ou noutros sítios acessíveis aos investidores.\n\n(18) Deve ser possível declarar a equivalência quando as normas gerais de países terceiros relativas à divulgação de informações proporcionem aos utilizadores uma avaliação das posições dos emitentes compreensível e amplamente equivalente, que lhes permita tomar decisões como se dispusessem de informações conformes aos requisitos da Directiva 2004/109/CE, ainda que os requisitos não sejam idênticos. Contudo, a equivalência deve limitar-se à substância da informação pertinente, não devendo ser admitida qualquer excepção no que se refere aos prazos fixados pela Directiva 2004/109/CE.\n\n(19) Para se determinar se um emitente de um país terceiro respeita requisitos equivalentes aos impostos pelo n.º 3 do artigo 4.º da Directiva 2004/109/CE, é importante assegurar a coerência com o Regulamento (CE) n.º 809/2004 da Comissão, de 29 de Abril de 2004, que estabelece normas de aplicação da Directiva 2003/71/CE do Parlamento Europeu e do Conselho no que diz respeito à informação contida nos prospectos, bem como os respectivos modelos, à inserção por remissão, à publicação dos referidos prospectos e divulgação de anúncios publicitários ([^6^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0006)), especialmente no que se refere aos elementos relacionados com a informação financeira histórica a incluir num prospecto.\n\n(20) No que diz respeito à equivalência dos requisitos de independência, uma empresa-mãe de uma sociedade gestora ou de uma empresa de investimento registada num país terceiro deve poder beneficiar da isenção prevista no n.º 4 ou no n.º 5 do artigo 12.º da Directiva 2004/109/CE, independentemente de a lei do país terceiro exigir uma autorização para o exercício de actividades de gestão ou actividades de gestão de carteiras pela sociedade gestora ou pela empresa de investimento por si controlada, contanto que sejam satisfeitas determinadas condições de independência.\n\n(21) As medidas constantes da presente directiva estão de acordo com o parecer do Comité Europeu dos Valores Mobiliários,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ebda907afa15ba0e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nConteúdo mínimo das demonstrações financeiras semestrais não consolidadas\n\n(N.º 3, segundo parágrafo, do artigo 5.º da Directiva 2004/109/CE)\n\n1. O conteúdo mínimo do conjunto das demonstrações financeiras semestrais condensadas, quando esse conjunto não for elaborado em conformidade com as normas internacionais de contabilidade adoptadas nos termos do artigo 6.º do Regulamento (CE) n.º 1606/2002, deve estar em conformidade com o disposto nos n.^os^ 2 e 3 do presente artigo.\n\n2. O balanço condensado e a demonstração de resultados condensada devem apresentar todas as rubricas e subtotais incluídos nas demonstrações financeiras anuais mais recentes do emitente. Se, devido a omissões, as demonstrações financeiras semestrais reflectirem uma imagem enganosa do activo, do passivo, da posição financeira e dos resultados do emitente, devem ser acrescentadas rubricas adicionais.\n\nAlém disso, devem ser incluídas as seguintes informações comparativas:\n\na) Balanço referido ao final dos primeiros seis meses do exercício corrente e um balanço comparativo referido ao final do exercício imediatamente precedente;\n\nb) Demonstração de resultados, relativamente aos primeiros seis meses do exercício corrente, incluindo, a partir da data em que tenham transcorrido dois anos sobre a data de entrada em vigor da presente directiva, informações comparativas face ao período comparável do exercício precedente.\n\n3. O registo deve incluir os seguintes elementos:\n\na) Informações suficientes para assegurar a comparabilidade das demonstrações financeiras semestrais condensadas com as demonstrações financeiras anuais;\n\nb) Informações e explicações suficientes para assegurar que o utilizador compreenda correctamente qualquer alteração significativa de montantes e qualquer evolução no período semestral em causa reflectidas no balanço e na demonstração de resultados."
+  },
+  "9ad749651a15d956": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPrincipais transacções pertinentes entre as partes relacionadas\n\n(N.º 4, segunda frase, do artigo 5.º da Directiva 2004/109/CE)\n\n1. Nos relatórios de gestão intercalares, os emitentes de acções devem divulgar, relativamente às principais transacções pertinentes entre as partes relacionadas, no mínimo, os seguintes elementos:\n\na) Transacções pertinentes entre as partes relacionadas realizadas nos primeiros seis meses do exercício corrente e que tenham afectado significativamente a situação financeira ou o desempenho da empresa nesse período;\n\nb) Quaisquer alterações nas transacções pertinentes entre as partes relacionadas descritas no último relatório anual, susceptíveis de ter um efeito significativo na posição financeira ou no desempenho da empresa nos primeiros seis meses do exercício corrente.\n\n2. Quando o emitente das acções não estiver obrigado a elaborar contas consolidadas, deve divulgar, no mínimo, as transacções pertinentes entre as partes relacionadas referidas no n.º 1, ponto 7-B, do artigo 43.º da Directiva 78/660/CEE."
+  },
+  "46acd7ebdaac233e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nDuração máxima do «ciclo curto de liquidação» habitual\n\n(N.º 4 do artigo 9.º da Directiva 2004/109/CE)\n\nA duração máxima do «ciclo curto de liquidação» habitual é de três dias de negociação, contados a partir da transacção."
+  },
+  "b26b7f2533e2a9f6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nMecanismos do controlo a exercer pelas autoridades competentes sobre os criadores de mercado\n\n(N.º 5 do artigo 9.º da Directiva 2004/109/CE)\n\n1. O criador de mercado que pretenda beneficiar da isenção prevista no n.º 5 do artigo 9.º da Directiva 2004/109/CE deve informar a autoridade competente do Estado-Membro de origem do emitente, o mais tardar na data-limite estabelecida no n.º 2 do artigo 12.º da Directiva 2004/109/CE, de que exerce ou tenciona exercer actividades de criação de mercado relativamente a um determinado emitente.\n\nCaso o criador de mercado cesse o exercício de actividades de criação de mercado relativamente ao emitente em causa, deve informar desse facto a autoridade competente.\n\n2. Sem prejuízo do disposto no artigo 24.º da Directiva 2004/109/CE, se a autoridade competente do emitente pedir ao criador de mercado que pretenda beneficiar da isenção prevista no n.º 5 do artigo 9.º daquela directiva que identifique as acções ou os instrumentos financeiros que detém para os fins da actividade de criação de mercado, o criador de mercado pode proceder a essa identificação por quaisquer meios verificáveis. Só se não puder identificar as acções ou instrumentos financeiros em causa o criador de mercado poderá ser obrigado a mantê-los numa conta separada para efeitos dessa identificação.\n\n3. Sem prejuízo da aplicação do n.º 4, alínea a), do artigo 24.º da Directiva 2004/109/CE, se a legislação nacional exigir um acordo de criação de mercado entre o criador de mercado e a entidade gestora de mercados e/ou o emitente, o criador de mercado deve apresentar o acordo à autoridade competente, a pedido desta."
+  },
+  "effa568366477887": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCalendário dos dias de negociação\n\n(N.^os^ 2 e 6 do artigo 12.º e n.º 1 do artigo 14.º da Directiva 2004/109/CE)\n\n1. Para os efeitos dos n.^os^ 2 e 6 do artigo 12.º e do n.º 1 do artigo 14.º da Directiva 2004/109/CE, aplica-se o calendário dos dias de negociação do Estado-Membro de origem do emitente.\n\n2. Cada autoridade competente deve publicar no seu sítio internet o calendário dos dias de negociação dos diversos mercados regulamentados situados ou que operam no território sob sua jurisdição."
+  },
+  "efdb40b145fe635c": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAccionistas e pessoas singulares ou colectivas referidas no artigo 10.º da Directiva «Transparência», que têm a obrigação de notificar participações qualificadas\n\n(N.º 2 do artigo 12.º da Directiva 2004/109/CE)\n\n1. Para os efeitos do n.º 2 do artigo 12.º da Directiva 2004/109/CE, a obrigação de notificação, que nasce quando a percentagem de direitos de voto detidos atinge, excede ou se torna inferior aos limiares aplicáveis na sequência de transacções do tipo referido no artigo 10.º da Directiva 2004/109/CE, constitui uma obrigação individual que incumbe a todos os accionistas ou a todas as pessoas singulares ou colectivas referidas no artigo 10.º daquela directiva, ou ambos, caso a percentagem de direitos de voto detidos atinja, exceda ou se torne inferior aos limiares aplicáveis.\n\nNas circunstâncias referidas na alínea a) do artigo 10.º da Directiva 2004/109/CE, a obrigação de notificação constitui uma obrigação colectiva partilhada por todas as partes no acordo.\n\n2. Nas circunstâncias referidas na alínea h) do artigo 10.º da Directiva 2004/109/CE, se um accionista conferir uma procuração para uma assembleia de accionistas, a notificação pode ser efectuada de uma só vez, no momento em que confere a procuração, desde que a notificação especifique a situação que resultará em termos de direitos de voto quando o procurador deixar de poder exercer os direitos de voto segundo o seu critério.\n\nSe, nas circunstâncias referidas na alínea h) do artigo 10.º, o procurador receber uma ou mais procurações para uma assembleia de accionistas, a notificação pode ser efectuada de uma só vez, no momento da recepção das procurações, desde que a notificação especifique a situação que resultará em termos de direitos de voto quando o procurador deixar de poder exercer os direitos de voto segundo o seu critério.\n\n3. Quando o dever de efectuar uma notificação incumbir a mais do que uma pessoa singular ou colectiva, a notificação pode ser efectuada por meio de uma notificação comum única.\n\nContudo, a utilização de uma notificação comum única não isenta qualquer das pessoas singulares ou colectivas em causa das suas responsabilidades relativamente à notificação."
+  },
+  "bbb9db2780cc37c9": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCircunstâncias em que a pessoa que procede à notificação deve ter conhecimento prévio da aquisição, alienação ou possibilidade do exercício de direitos de voto\n\n(N.º 2 do artigo 12.º da Directiva 2004/109/CE)\n\nPara os efeitos do n.º 2, alínea a), do artigo 12.º da Directiva 2004/109/CE, considera-se que o accionista ou a pessoa singular ou colectiva referida no artigo 10.º da referida directiva toma conhecimento da aquisição, alienação ou possibilidade de exercício de direitos de voto no prazo máximo de dois dias de negociação seguintes à execução da transacção."
+  },
+  "5dd48f415736efc0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCondições de independência a satisfazer pelas sociedades gestoras e empresas de investimento envolvidas na gestão individualizada de carteiras\n\n(N.º 4, primeiro parágrafo, e n.º 5, primeiro parágrafo, do artigo 12.º da Directiva 2004/109/CE)\n\n1. Para efeitos da isenção da obrigação de agregação de participações estabelecida nos primeiros parágrafos dos n.^os^ 4 e 5 do artigo 12.º da Directiva 2004/109/CE, uma empresa-mãe de uma sociedade gestora ou de uma empresa de investimento deve satisfazer as seguintes condições:\n\na) Não pode interferir, mediante instruções directas ou indirectas ou de outro modo, no exercício dos direitos de voto detidos pela sociedade gestora ou empresa de investimento;\n\nb) Essa sociedade gestora ou empresa de investimento deve ter liberdade de exercer, independentemente da empresa-mãe, os direitos de voto associados aos activos por si geridos.\n\n2. Uma empresa-mãe que pretenda beneficiar da isenção deve transmitir sem demora à autoridade competente do Estado-Membro de origem dos emitentes cujos direitos de voto se encontrem associados a participações geridas pelas sociedades gestoras ou empresas de investimento os seguintes elementos:\n\na) Uma lista dos nomes dessas sociedades gestoras e empresas de investimento, com indicação das autoridades competentes que as supervisionam ou de que nenhuma autoridade as supervisiona, mas sem referência aos emitentes em causa;\n\nb) Uma declaração de que a empresa-mãe satisfaz, relativamente a cada uma dessas sociedades gestoras ou empresas de investimento, as condições estabelecidas no n.º 1.\n\nA empresa-mãe deve actualizar continuamente a lista referida na alínea a).\n\n3. Se a empresa-mãe pretender beneficiar das isenções unicamente no que se refere aos instrumentos financeiros referidos no artigo 13.º da Directiva 2004/109/CE, deve transmitir à autoridade competente do Estado-Membro de origem do emitente apenas a lista referida na alínea a) do n.º 2.\n\n4 Sem prejuízo da aplicação do artigo 24.º da Directiva 2004/109/CE, a empresa-mãe de uma sociedade gestora ou de uma empresa de investimento deve poder demonstrar à autoridade competente do Estado-Membro de origem do emitente, a pedido, que:\n\na) As estruturas organizacionais da empresa-mãe e da sociedade gestora ou da empresa de investimento permitem assegurar o exercício dos direitos de voto independentemente da empresa-mãe;\n\nb) As pessoas que decidem do modo de exercício dos direitos de voto agem com independência;\n\nc) Existe um mandato escrito claro que estabelece uma relação directa e independente entre a empresa-mãe e a sociedade gestora ou a empresa de investimento, se a empresa-mãe for cliente da sua sociedade gestora ou empresa de investimento ou detiver direitos de voto associados aos activos geridos por estas últimas.\n\nO requisito referido na alínea a) implica, no mínimo, que a empresa-mãe e a sociedade gestora ou a empresa de investimento estabeleçam por escrito políticas e procedimentos razoavelmente concebidos para impedir a troca de informações entre a empresa-mãe e a sociedade gestora ou a empresa de investimento, relativamente ao exercício dos direitos de voto.\n\n5. Para efeitos da alínea a) do n.º 1, entende-se por «instrução directa» qualquer instrução dada pela empresa-mãe ou por outra empresa controlada pela empresa-mãe que precise o modo como a sociedade gestora ou a empresa de investimento deve exercer os direitos de voto em casos concretos.\n\nPor «instrução indirecta» entende-se qualquer instrução geral ou particular, independentemente da sua forma, dada pela empresa-mãe ou por outra empresa controlada pela empresa-mãe que limite a margem de discricionariedade da sociedade gestora ou da empresa de investimento relativamente ao exercício de direitos de voto de modo a servir interesses empresariais específicos da empresa-mãe ou de outra empresa controlada pela empresa-mãe."
+  },
+  "1387f5d183341e8a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nTipos de instrumentos financeiros que conferem o direito de aquisição, por exclusiva iniciativa do titular, de acções às quais estejam associados direitos de voto\n\n(N.º 1 do artigo 13.º da Directiva 2004/109/CE)\n\n3. A notificação requerida pelo n.º 1 do artigo 13.º da Directiva 2004/109/CE deve incluir as seguintes informações:\n\na) Situação resultante em termos de direitos de voto;\n\nb) Cadeia de empresas controladas através das quais os instrumentos financeiros são efectivamente detidos, se for caso disso;\n\nc) Data em que o limiar foi atingido ou excedido;\n\nd) Indicação, relativamente aos instrumentos com um período de exercício, da data ou do período horário em que as acções serão ou podem ser adquiridas, se for caso disso;\n\ne) Data do ou em que o instrumento expira;\n\nf) Identidade do titular;\n\ng) Nome do emitente subjacente.\n\nPara os efeitos da alínea a), a percentagem de direitos de voto é calculada em função do último número total de direitos de voto e do último valor do capital divulgados pelo emitente em conformidade com o artigo 15.º da Directiva 2004/109/CE.\n\n4. O período de notificação deve ser o estabelecido pelo n.º 2 do artigo 12.º da Directiva 2004/109/CE e pelas respectivas disposições de aplicação.\n\n5. A notificação deve ser efectuada ao emitente da acção subjacente e à autoridade competente do Estado-Membro de origem do emitente.\n\nSe o instrumento financeiro estiver relacionado com mais do que uma acção subjacente, deve ser efectuada uma notificação distinta em relação a cada emitente das acções subjacentes."
+  },
+  "57afecfa1cbded6d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nRequisitos mínimos\n\n(N.º 1 do artigo 21.º da Directiva 2004/109/CE)\n\n1. A divulgação de informações regulamentares para os efeitos do n.º 1 do artigo 21.º da Directiva 2004/109/CE deve ser efectuada de acordo com os requisitos mínimos estabelecidos nos n.^os^ 2 a 5.\n\n2. As informações regulamentares devem ser divulgadas de modo a assegurar que possam atingir o maior público possível e, tanto quanto possível, de forma simultânea no Estado-Membro de origem, ou no Estado-Membro referido no n.º 3 do artigo 21.º da Directiva 2004/109/CE, e nos outros Estados-Membros.\n\n3. As informações regulamentares devem ser transmitidas aos meios de comunicação através de um texto integral não editado.\n\nContudo, no caso dos relatórios e declarações referidos nos artigos 4.º, 5.º e 6.º da Directiva 2004/109/CE, este requisito deve ser considerado cumprido se o anúncio relativo às informações regulamentares for efectuado aos meios de comunicação e indicar o sítio *web*, além do mecanismo designado oficialmente para o armazenamento central das informações regulamentares, referido no artigo 21.º da referida directiva, em que os documentos pertinentes se encontram disponíveis.\n\n4. As informações regulamentares devem ser transmitidas aos meios de comunicação de modo a garantir a segurança da comunicação, minimizar o risco de corrupção de dados e de acesso não autorizado e a proporcionar certeza quanto à fonte das informações regulamentares.\n\nA segurança da recepção deve ser garantida mediante a correcção com a maior brevidade possível de qualquer falha ou interrupção na transmissão das informações regulamentares.\n\nO emitente ou a pessoa que tenha requerido a admissão à negociação num mercado regulamentado sem a autorização do emitente não é responsável pelos erros sistémicos ou deficiências nos meios de comunicação aos quais as informações regulamentares tenham sido transmitidas.\n\n5. As informações regulamentares devem ser transmitidas pelo emitente de um modo que torne claro que se trata de informações regulamentares e que permita identificar claramente o emitente em causa, o objecto das informações regulamentares e a data e a hora da transmissão das informações pelo emitente ou pela pessoa que tenha requerido a admissão à negociação num mercado regulamentado sem a autorização do emitente.\n\nMediante pedido, o emitente ou a pessoa que tenha requerido a admissão à negociação num mercado regulamentado sem a autorização do emitente pode comunicar à autoridade competente, relativamente a qualquer divulgação de informações regulamentares, o seguinte:\n\na) Nome da pessoa que transmitiu a informação;\n\nb) Dados relativos à validação dos mecanismos de segurança;\n\nc) Data e hora em que a informação foi transmitida;\n\nd) Meio pelo qual a informação foi transmitida;\n\ne) Se for caso disso, dados sobre qualquer embargo imposto pelo emitente à informação regulamentar."
+  },
+  "13dede0d95dd4265": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nRequisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE se a sua legislação requerer que o relatório de gestão anual inclua, pelo menos, as seguintes informações:\n\na) Uma análise apropriada da evolução dos negócios, do desempenho e da situação do emitente, assim como uma descrição dos principais riscos e incertezas com que se defronta, de modo que a análise apresente uma visão equilibrada e completa do desenvolvimento e do desempenho dos negócios do emitente e da sua posição, que seja coerente com a dimensão e a complexidade da actividade exercida;\n\nb) Indicação dos acontecimentos importantes ocorridos depois do encerramento do exercício;\n\nc) Indicações sobre a provável evolução futura do emitente.\n\nA análise referida na alínea a) deve incluir, na medida do necessário para assegurar a compreensão da evolução, do desempenho ou da posição do emitente, indicadores-chave do desempenho financeiro e, se for caso disso, não financeiro, pertinentes para a actividade concreta da empresa."
+  },
+  "8b892c8c140bbadb": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nRequisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE se a sua legislação obrigar à apresentação de um conjunto de demonstrações financeiras condensadas, além do relatório de gestão intercalar, e à inclusão no relatório de gestão intercalar, pelo menos, das seguintes informações:\n\na) Análise do período em causa;\n\nb) Indicações sobre a provável evolução futura do emitente nos seis meses restantes do exercício;\n\nc) Para os emitentes de acções, as principais transacções pertinentes entre as partes relacionadas, caso não tenham sido divulgadas numa base contínua."
+  },
+  "aea70b0a0fb2fba0": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nRequisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo 5.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente a dispor de uma ou mais pessoas responsáveis pelas informações financeiras anuais e semestrais, em especial pelas seguintes:\n\na) Conformidade das demonstrações financeiras com o quadro de apresentação de informações ou o conjunto de normas contabilísticas aplicáveis;\n\nb) Carácter apropriado da análise da gestão incluída no relatório de gestão."
+  },
+  "787f55778bc645ff": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nRequisitos equivalentes aos do n.º 3 do artigo 4.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 3, primeiro parágrafo, do artigo 4.º da Directiva 2004/109/CE se a sua legislação, embora não obrigando a empresa-mãe a elaborar contas individuais, impuser ao emitente, cuja sede estatutária se situa nesse país terceiro, a inclusão, no âmbito da elaboração das contas consolidadas, das seguintes informações:\n\na) Para os emitentes de acções, cálculo dos dividendos e capacidade para os pagar;\n\nb) Para todos os emitentes, se for caso disso, o capital mínimo e os requisitos de capitais próprios e as necessidades de liquidez.\n\nPara os efeitos da equivalência, o emitente deve ainda ter a possibilidade de apresentar à autoridade competente do Estado-Membro de origem informações suplementares auditadas sobre as contas individuais do emitente enquanto entidade independente, pertinentes para os dados referidos nas alíneas a) e b). Essas informações podem ser elaboradas de acordo com as normas contabilísticas do país terceiro."
+  },
+  "56dc0be918b55a56": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nRequisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE, relativamente às contas individuais, se a sua legislação, embora não obrigando o emitente, cuja sede estatutária se situa num país terceiro, a elaborar contas consolidadas, lhe imponha a elaboração das contas individuais de acordo com as Normas Internacionais de Contabilidade reconhecidas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#E0007)), aplicáveis na Comunidade, ou com as normas nacionais de contabilidade do país terceiro, equivalentes àquelas normas.\n\nPara efeitos de equivalência, se tais informações não forem conformes àquelas normas, devem ser apresentadas sob a forma de informações financeiras reformuladas.\n\nAlém disso, as contas individuais devem ser objecto de auditoria independente."
+  },
+  "0446d655303145fd": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nRequisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 6 do artigo 12.º da Directiva 2004/109/CE se, nos termos da sua legislação, o prazo em que o emitente cuja sede estatutária se situa nesse país terceiro deve ser notificado das participações qualificadas e em que deve divulgar ao público essas participações qualificadas for, no total, igual ou inferior a sete dias de negociação.\n\nOs prazos para a notificação ao emitente e a subsequente divulgação ao público por parte deste podem diferir dos estabelecidos nos n.^os^ 2 e 6 do artigo 12.º da Directiva 2004/109/CE."
+  },
+  "ab984a82faa56146": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nRequisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do artigo 14.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente, cuja sede estatutária se situa nesse país terceiro, a satisfazer as seguintes condições:\n\na) No caso de um emitente autorizado a deter até 5 %, no máximo, das suas acções próprias a que estejam associados direitos de voto, deve efectuar uma notificação sempre que for alcançado ou superado esse limiar;\n\nb) No caso de um emitente autorizado a deter entre 5 % e 10 %, no máximo, das suas acções próprias a que estejam associados direitos de voto, deve efectuar uma notificação sempre que for alcançado ou superado o limiar de 5 % ou o referido limiar máximo;\n\nc) No caso de um emitente autorizado a deter mais do que 10 % das suas acções próprias a que estejam associados direitos de voto, deve efectuar uma notificação sempre que forem alcançados ou superados os limiares de 5 % ou 10 %;\n\nPara os efeitos da equivalência, não é necessário exigir a notificação acima do limiar de 10 %."
+  },
+  "f16cb02462ecbdda": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nRequisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do artigo 15.º da Directiva 2004/109/CE se a sua legislação obrigar o emitente, cuja sede estatutária se situa nesse país terceiro, a divulgar ao público o número total de direitos de voto e o capital no prazo de 30 dias após a ocorrência de um aumento ou de uma diminuição desse número total."
+  },
+  "965e80c61f938890": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nRequisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a), do artigo 18.º da Directiva 2004/109/CE\n\n(N.º 1 do artigo 23.º da Directiva 2004/109/CE)\n\nConsidera-se que um país terceiro estabeleceu requisitos equivalentes aos do n.º 2, alínea a), do artigo 17.º e do n.º 2, alínea a) do artigo 18.º da Directiva 2004/106/CE, no que diz respeito ao conteúdo da informação sobre assembleias, se a sua legislação obrigar o emitente cuja sede estatutária se situa nesse país terceiro a prestar, no mínimo, informações sobre o local, o calendário e a ordem de trabalhos das assembleias."
+  },
+  "d1854284eccc8e92": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nEquivalência relativamente ao teste de independência para empresas-mães de sociedades gestoras e empresas de investimento\n\n(N.º 6 do artigo 23.º da Directiva 2004/109/CE)\n\n1. Considera-se que um país terceiro estabeleceu condições de independência equivalentes às dos n.^os^ 4 e 5 do artigo 12.º da Directiva 2004/109/CE se a sua legislação obrigar as sociedades gestoras ou empresas de investimento referidas no n.º 6 do artigo 23.º daquela directiva a satisfazer as seguintes condições:\n\na) A sociedade gestora ou a empresa de investimento devem ter, em todas as situações, liberdade de exercício, independentemente da empresa-mãe, dos direitos de voto associados aos activos por si geridos;\n\nb) A sociedade gestora ou a empresa de investimento não devem ter em conta os interesses da empresa-mãe ou de qualquer outra empresa controlada pela empresa-mãe, sempre que surjam conflitos de interesses.\n\n2. A empresa-mãe deve cumprir os requisitos de notificação estabelecidos no n.º 2, alínea a), e no n.º 3 do artigo 10.º da presente directiva.\n\nAlém disso, deve declarar que a empresa-mãe satisfaz, relativamente a cada uma dessas sociedades gestoras ou empresas de investimento, as condições estabelecidas no n.º 1.\n\n3. Sem prejuízo da aplicação do artigo 24.º da Directiva 2004/109/CE, a empresa-mãe deve estar em condições de demonstrar à autoridade competente do Estado-Membro de origem do emitente, a pedido desta, que os requisitos estabelecidos no n.º 4 do artigo 10.º são cumpridos."
+  },
+  "6731723e62e76fef": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "f2c48b1af6816ded": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0001)) JO L 390 de 31.12.2004, p. 38.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0002)) O CARMEVM foi instituído pela Decisão 2001/527/CE da Comissão, de 6 de Junho de 2001 (JO L 191 de 13 de Julho de 2001, p. 43).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0003)) JO L 222 de 14.8.1978, p. 11. Directiva com a última redacção que lhe foi dada pela Directiva 2006/46/CE do Parlamento Europeu e do Conselho (JO L 224 de 16.8.2006, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0004)) JO L 375 de 31.12.1985, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 2005/1/CE do Parlamento Europeu e do Conselho (JO L 79 de 24.3.2005, p. 9).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0005)) JO L 145 de 30.4.2004, p. 1. Directiva alterada pela Directiva 2006/31/CE (JO L 114 de 27.4.2006, p. 60).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0006)) JO L 149 de 30.4.2004, p. 1. Rectificação no JO L 215 de 16.6.2004, p. 3. Regulamento alterado pelo Regulamento (CE) n.º 1787/2006 (JO L 337 de 5.12.2006, p. 17).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1#src.E0007)) JO L 243 de 11.9.2002, p. 1."
+  }
+ }
+}

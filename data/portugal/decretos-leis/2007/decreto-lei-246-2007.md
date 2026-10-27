@@ -1,0 +1,389 @@
+---
+schema_version: '1.0'
+id: pt:dre:635850:por
+title: Decreto-Lei n.º 246/2007
+short_title: null
+summary: Aprova o regime jurídico da emissão, cunhagem, colocação em circulação e comercialização da moeda metálica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 246/2007
+official_date: null
+publication_date: '2007-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/2007, Série I de 2007-06-26
+  number: '121'
+  series: I
+  supplement: null
+  pages: 4056 - 4059
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12100/40564059.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-246-2007.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-19'
+    amending: pt:dre:569757:por
+    amending_title: Decreto-Lei n.º 72-A/2010
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/246/2007/p/cons/20210129/pt/html
+  oj: null
+  dre: '635850'
+  dre_path: /dr/detalhe/decreto-lei/246-2007-635850
+  internal: pt:dre:635850:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2007-635850
+  metadata_url: https://data.dre.pt/eli/dec-lei/246/2007/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34560775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34560775
+  retrieved_at: '2026-10-22T11:52:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6bd5cc32f9da059508a7c3ec26fac15d359811dab2dd1336586860d6e4fb415f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:52:49Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-246-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Distinção Honorífica
+- Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
+- Contra-ordenação
+- EURO
+- Direção Geral do Tesouro e Finanças
+- Banco Central Europeu
+- Imprensa Nacional-Casa da Moeda
+- Banco de Portugal
+- Moeda Comemorativa
+- Regime Jurídico
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:569757:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 16.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:31998R0974
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/974/oj
+- type: cites
+  target: celex:31998R0975
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/975/oj
+- type: cites
+  target: celex:31999R0423
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/423/oj
+- type: cites
+  target: celex:32004R2182
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/2182/oj
+article_structure:
+  article_count: 22
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:52:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 246/2007
+
+Até à introdução do euro coexistiram no ordenamento jurídico português diversos diplomas, sendo que o Decreto-Lei n.º 293/86, de 12 de Setembro, cujo objecto era a definição do sistema de moeda metálica, e o Decreto-Lei n.º 178/88, de 19 de Maio, relativo à regulamentação da actividade de produção e comercialização de espécies numismáticos, estabeleciam o quadro legal no que diz respeito ao sistema de categorias aplicável ao universo das moedas metálicas, bem como o regime da sua emissão, comercialização e distribuição.
+
+A introdução física do euro, em Janeiro de 2002, veio concluir a criação de um novo sistema de moeda, comum aos Estados membros participantes na união económica e monetária, pondo termo aos sistemas monetários nacionais neles vigentes.
+
+No âmbito deste novo sistema a competência para emitir moedas metálicas pertence aos Estados membros, competindo ao Banco Central Europeu a aprovação do volume da respectiva emissão, conforme consta do n.º 2 do artigo 106.º do Tratado da Comunidade Europeia.
+
+As moedas metálicas expressas em euros, emitidas de acordo com as denominações e as especificações técnicas estabelecidas, destinam-se à circulação em toda a zona euro, são as únicas com curso legal em todos os Estados membros participantes e caracterizam-se por uma face comum e uma face nacional.
+
+A sua introdução e as respectivas especificações técnicas foram definidas nos Regulamentos (CE) n.os <a href="eurlex.asp?ano=1998&id=398R0974" title="Link para Regulamento da Comunidade Europeia">974/98</a> e <a href="eurlex.asp?ano=1998&id=398R0975" title="Link para Regulamento da Comunidade Europeia">975/98</a>, do Conselho, de 3 de Maio, na redacção dada pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=1999&id=399R0423" title="Link para Regulamento da Comunidade Europeia">423/99</a>, do Conselho, de 22 de Fevereiro, constando as respectivas características visuais da Comunicação da Comissão Europeia n.º 373/2001, publicada no Jornal Oficial das Comunidades Europeias de 28 de Dezembro de 2001.
+
+Por sua vez, o continuado interesse pelo coleccionismo numismático, associado à importância da divulgação do património artístico, cultural e histórico do País através da moeda, justificam que se continue a prever a emissão de moedas destinadas a fins comemorativos e a colecção.
+
+A este propósito é de relevar o teor da Recomendação da Comissão Europeia de 29 de Setembro de 2003, publicada no Jornal Oficial da União Europeia de 15 de Outubro de 2003, que estabeleceu um procedimento comum para a mudança do desenho do anverso nacional das moedas em euros destinadas à circulação, bem como limitou a um único valor facial a emissão de moedas comemorativas destinadas à circulação.
+
+À luz do enquadramento comunitário acima descrito, o presente decreto-lei agrupa os conceitos associados ao sistema de moeda metálica com curso legal em Portugal, concretamente no que se refere às moedas correntes e às moedas de colecção, definindo ainda as características dos diferentes tipos de acabamento a que podem ser sujeitas e as competências e responsabilidades dos intervenientes na respectiva emissão, cunhagem, colocação em circulação e comercialização, nos aspectos que não são objecto de regulamentação por normas comunitárias.
+
+Simultaneamente e em ordem a cumprir o estipulado no Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R2182" title="Link para Regulamento da Comunidade Europeia">2182/2004</a>, do Conselho, de 6 de Dezembro, relativo a medalhas e fichas similares a moedas em euros, que exorta os Estados membros a introduzir sanções aplicáveis às infracções, tendo em vista alcançar uma protecção do euro contra medalhas e fichas similares, equivalente em toda a Comunidade, estabelece-se o regime sancionatório aplicável às infracções ao disposto neste decreto-lei.
+
+No propósito de conciliar no âmbito do mesmo decreto-lei toda a legislação sobre esta matéria, procede-se à revogação do Decreto-Lei n.º 318/2002, de 28 de Dezembro, que fixa os limites de emissão de moedas correntes com acabamento especial, estabelecendo-se que, dentro do volume de emissão aprovado pelo Banco Central Europeu, a Imprensa Nacional-Casa da Moeda, S. A., é autorizada a cunhar e comercializar todas as denominações de moedas correntes com acabamento especial, dentro dos limites anuais fixados para cada tipo de moeda.
+
+Foram ouvidos o Banco de Portugal, a Imprensa Nacional-Casa da Moeda, S. A., e o Banco Central Europeu.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei regula a emissão, cunhagem, colocação em circulação e comercialização de moeda metálica, nos aspectos que não são objecto de regulamentação por normas comunitárias.
+
+###### Artigo 2.º — Moedas correntes
+
+1 - As moedas correntes destinam-se a assegurar a satisfação das necessidades de circulação monetária.
+
+2 - As características visuais da face comum, o valor facial e as especificações técnicas das moedas correntes são os definidos por legislação comunitária.
+
+3 - As moedas correntes podem ter emissões comemorativas com o objectivo de celebrar eventos, efemérides ou personalidades da mais alta relevância, nacional ou internacional.
+
+4 - As emissões comemorativas de moedas correntes caracterizam-se por uma variação do desenho da face nacional das moedas.
+
+###### Artigo 3.º — Moedas de colecção
+
+1 - As moedas de colecção são emitidas para fins numismáticos e não se destinam a assegurar a satisfação das necessidades de circulação monetária.
+
+2 - As moedas de colecção têm características visuais, valor facial e especificações técnicas diferentes das moedas correntes.
+
+3 - As moedas de colecção visam a celebração de eventos, de efemérides ou de personalidades de relevante interesse, nacional ou internacional, podendo ainda destinar-se a investimento.
+
+4 - As moedas de colecção destinadas ao investimento são cunhadas em metal precioso e o seu preço tem como referência o valor do metal incorporado, acrescido de um prémio de emissão.
+
+###### Artigo 4.º — Tipos de acabamento
+
+1 - As moedas metálicas são cunhadas com acabamento normal ou especial.
+
+2 - As moedas com acabamento normal são produzidas recorrendo a cunhos com tratamento superficial adequado à produção em série e a discos que não sofrem qualquer preparação prévia à cunhagem.
+
+3 - As moedas com acabamento especial resultam da utilização de cunhos e discos especificamente preparados e classificam-se em:
+
+a) «Flor de cunho» (FDC), as moedas cunhadas sobre discos metálicos escolhidos e com recurso a cunhos novos, seleccionadas pela qualidade de acabamento superficial nas primeiras séries de cunhagem;
+
+b) «Brilhantes não circuladas» (BNC), as moedas cunhadas sobre discos metálicos especialmente preparados e com recurso a cunhos polidos, apresentando o campo e os relevos uniformemente brilhantes;
+
+c) «Provas numismáticas» (proof), as moedas cunhadas sobre discos metálicos especialmente preparados e com recurso a cunhos foscados e polidos, apresentando o campo espelhado e os relevos matizados.
+
+### Capítulo II — Emissão, circulação e comercialização
+
+###### Artigo 5.º — Aprovação das emissões
+
+1 - A emissão de moeda metálica, independentemente do tipo de acabamento, compete ao Estado, através da Direcção-Geral do Tesouro e Finanças, de acordo com o volume de emissão aprovado pelo Banco Central Europeu.
+
+2 - As emissões comemorativas de moedas correntes e as emissões de moeda de colecção são aprovadas por portaria do membro do Governo responsável pela área das finanças, ouvido o Banco de Portugal.
+
+3 - A portaria referida no número anterior que aprove a emissão comemorativa de moeda corrente fixa as características visuais e a face nacional da moeda, os tipos de acabamento e o respectivo volume de emissão, observando os procedimentos estabelecidos a nível comunitário.
+
+4 - A portaria referida no n.º 2 que aprove a emissão de moeda de colecção fixa as características visuais, os tipos de acabamento, o valor facial e as especificações técnicas da moeda, bem como o respectivo volume de emissão.
+
+5 - Compete à Imprensa Nacional-Casa da Moeda, S. A., adiante designada por INCM, propor à Direcção-Geral do Tesouro e Finanças as emissões comemorativas de moedas correntes e de moeda de colecção.
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), em vigor a partir de 2010-06-19, produz efeitos a partir de 2010-01-01
+
+###### Artigo 6.º — Limites de emissão de moedas correntes com acabamento especial
+
+1 - Dentro do volume de emissão aprovado pelo Banco Central Europeu, a INCM é autorizada a cunhar e comercializar todas as denominações de moedas correntes nos tipos de acabamentos definidos no n.º 3 do artigo 4.º
+
+2 - O limite anual de emissão de moedas correntes com acabamento especial é fixado em:
+
+a) (euro) 232800 para as moedas com acabamento «flor de cunho» (FDC);
+
+b) (euro) 135800 para as moedas com acabamento «brilhantes não circuladas» (BNC);
+
+c) (euro) 58200 para as moedas com acabamento «provas numismáticas» (proof).
+
+3 - O disposto no número anterior não se aplica às emissões comemorativas de moedas correntes, cujos limites de emissão nos diversos tipos de acabamento são fixados na portaria que as aprovam.
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), em vigor a partir de 2010-06-19, produz efeitos a partir de 2010-01-01
+
+###### Artigo 7.º — Curso legal e poder liberatório
+
+1 - As moedas correntes têm curso legal e poder liberatório nos termos definidos pelas normas comunitárias.
+
+2 - Com excepção do Estado, através das caixas do Tesouro, do Banco de Portugal e das instituições de crédito cuja actividade consista em receber depósitos junto do público, ninguém é obrigado a aceitar, num único pagamento, mais de 50 moedas correntes.
+
+3 - As moedas de colecção têm curso legal apenas em Portugal e o poder liberatório que seja definido na portaria que aprove a sua emissão.
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), em vigor a partir de 2010-06-19, produz efeitos a partir de 2010-01-01
+
+###### Artigo 8.º — Circulação
+
+1 - O Banco de Portugal põe em circulação as moedas metálicas.
+
+2 - As moedas com acabamento normal e destinadas à distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal.
+
+3 - As moedas com acabamento especial e as moedas de colecção destinadas ao investimento são postas em circulação pelo Banco de Portugal mediante o prévio pagamento pela INCM do respectivo valor facial.
+
+4 - O valor facial das moedas efectivamente postas em circulação é entregue pelo Banco de Portugal à Direcção-Geral do Tesouro e Finanças.
+
+5 - A Direcção-Geral do Tesouro e Finanças e o Banco de Portugal definem por protocolo as soluções tendentes a salvaguardar, em permanência, a capacidade de regularização dos excedentes de moeda metálica em circulação que venham a ser apresentados em depósito no Banco de Portugal, em qualquer tipo de emissão ou acabamento, dentro do limite em que a moeda metálica pode legalmente ser detida por este.
+
+###### Artigo 9.º — Receitas do Estado
+
+1 - O valor facial das emissões comemorativas de moedas correntes e das moedas de colecção efectivamente postas em circulação constitui receita própria da Direcção-Geral do Tesouro e Finanças.
+
+2 - O Estado pode afectar a entidades ou fins específicos, relacionados com o motivo das emissões, parte ou totalidade do diferencial entre o valor facial e os custos de produção das emissões comemorativas de moedas correntes e das moedas de colecção, objecto de distribuição pública pelo respectivo valor facial.
+
+3 - A receita referida no n.º 1 do presente artigo é consignada ao pagamento dos custos de produção das respectivas moedas e às entregas previstas no número anterior, mediante inscrição de dotações com compensação em receita.
+
+4 - Para cada emissão de moedas de colecção que se destinem a ser objecto de distribuição pública pelo respectivo valor facial, o Estado, sob proposta da INCM, pode atribuir às instituições de crédito e sociedades financeiras um prémio com vista a incentivar a divulgação e a difusão de moedas de colecção pelo sistema financeiro, nunca superior a 5% do valor facial da respectiva moeda.
+
+5 - O valor do prémio referido no número anterior é entregue pela INCM às instituições de crédito e sociedades financeiras requisitantes mediante confirmação, de acordo com a informação prestada pelo Banco de Portugal, da entrega da moeda posta em circulação.
+
+###### Artigo 10.º — Comercialização
+
+1 - As moedas com acabamento especial e as moedas de colecção destinadas ao investimento são objecto de comercialização pela INCM, a quem compete fixar as respectivas condições de comercialização.
+
+2 - O preço de venda das moedas de colecção destinadas ao investimento deve observar o disposto no n.º 4 do artigo 3.º do presente decreto-lei.
+
+3 - Na comercialização de moedas, a INCM deve garantir o acesso do público em condições de igualdade e de não discriminação.
+
+4 - Para efeito do disposto no número anterior, a INCM deve publicitar as condições de comercialização das moedas.
+
+5 - Não obstante o disposto no n.º 1 do artigo anterior, o resultado da comercialização das moedas previstas no presente artigo constitui receita da INCM.
+
+###### Artigo 11.º — Encargos financeiros
+
+1 - Os custos de produção das moedas com acabamento normal e que se destinem à distribuição pública pelo respectivo valor facial são suportados pelo Estado, através da Direcção-Geral do Tesouro e Finanças.
+
+2 - O prémio referido no n.º 4 do artigo 9.º constitui uma parcela dos custos de produção.
+
+3 - Salvo o disposto no número seguinte, nas moedas que se destinem a ser comercializadas pela INCM, o Estado suporta o custo de produção correspondente ao da mesma moeda com acabamento normal.
+
+4 - A INCM suporta a totalidade dos custos de produção das moedas que comercializa, sempre que:
+
+a) Haja alteração da liga metálica base, na moeda com acabamento especial, relativamente à mesma moeda com acabamento normal;
+
+b) Se trate de moedas de colecção destinadas ao investimento;
+
+c) A emissão não contemple a cunhagem de moedas com acabamento normal.
+
+5 - O Estado, através da Direcção-Geral do Tesouro e Finanças, e a INCM fixam, mediante protocolo, o mecanismo de formação de preços, de facturação e de pagamento relativo às moedas cujos custos de produção são suportados pelo Estado.
+
+### Capítulo III — Regime sancionatório
+
+###### Artigo 12.º — Medalhas e fichas similares a moedas em euros
+
+É proibida a produção e venda de medalhas e fichas similares a moedas em euros, bem como a importação ou outro modo de introdução em território nacional, a distribuição para venda ou outros fins comerciais, nos termos previstos no Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R2182" title="Link para Regulamento da Comunidade Europeia">2182/2004</a>, do Conselho, de 6 de Dezembro.
+
+###### Artigo 13.º — Alteração de características técnicas e visuais
+
+É proibida a alteração de características técnicas e visuais das moedas expressas em euros em circulação.
+
+###### Artigo 14.º — Actividades instrumentais
+
+É igualmente proibida a produção ou simples detenção de cunhos, matrizes, moldes, programas informáticos ou outros meios técnicos que permitam a prossecução de actividades em contravenção do disposto nos artigos 12.º e 13.º
+
+###### Artigo 15.º — Moedas retiradas de circulação
+
+1 - É proibida a reprodução de moedas metálicas não denominadas em euros e retiradas de circulação, salvo se for autorizada pelo Estado, através da Direcção-Geral do Tesouro e Finanças, ouvida a INCM, devendo obedecer aos seguintes requisitos:
+
+a) Ter, pelo menos, o dobro da espessura ou massa da correspondente moeda original;
+
+b) Ter o diâmetro pelo menos 50% maior ou menor que o da correspondente moeda original;
+
+c) Ter inscrita, no campo de uma das faces, de forma bem visível, a palavra «Réplica».
+
+2 - A autorização não dispensa o requerente de obter autorização por parte de eventuais titulares de direitos de autor relativos à concepção de desenhos ou gessos das moedas objecto de reprodução.
+
+###### Artigo 16.º — Contraordenações
+
+1 - As infrações ao disposto nos artigos 12.º, 13.º, 14.º e 15.º, quando não integrem os tipos de crimes de contrafação, falsificação ou alteração do valor facial da moeda, constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+3 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a instrução e o processamento das contra-ordenações previstas no presente artigo, a quem devem ser enviados os autos levantados por outras entidades.
+
+4 - A INCM tem o dever de colaborar com a ASAE na instrução dos processos de contra-ordenações.
+
+5 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
+
+> Alterado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 17.º — Apreensão de objectos
+
+A ASAE pode apreender provisoriamente objectos que serviram ou estavam destinados a servir para a prática das contra-ordenações previstas no artigo anterior, ou que por estes foram produzidos, bem como quaisquer outros que sejam susceptíveis de servir de prova.
+
+###### Artigo 18.º — Perda independentemente de coima
+
+1 - Independentemente da aplicação da coima estabelecida no n.º 1 do artigo 16.º, são sempre apreendidas as medalhas, fichas, moedas alteradas, cunhos, matrizes, moldes ou outros meios técnicos utilizados, os quais devem ser posteriormente entregues à INCM, que procede à sua destruição.
+
+2 - O produto resultante da destruição referida no número precedente reverte integralmente a favor do Estado, uma vez deduzido dos encargos suportados pela INCM.
+
+###### Artigo 19.º — Aplicação e distribuição do produto das coimas
+
+1 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE, que delas dá conhecimento ao Banco de Portugal e à Direção-Geral do Tesouro e Finanças.
+
+2 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 20.º — Informação à Comissão Europeia
+
+O Governo envia à Comissão Europeia informação sobre as emissões comemorativas de moedas correntes seis meses antes da entrada em circulação, designadamente no que respeita ao desenho da face nacional e ao volume da emissão.
+
+###### Artigo 21.º — Comercialização de moedas metálicas denominadas em escudos
+
+O regime de comercialização previsto no artigo 10.º do presente decreto-lei aplica-se, com as necessárias adaptações, à comercialização das moedas metálicas denominadas em escudos emitidas e cunhadas ao abrigo da legislação agora revogada, detidas pela INCM à data da entrada em vigor do presente decreto-lei.
+
+###### Artigo 22.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 293/86, de 12 de Setembro, 17/88, de 19 de Maio, com as alterações introduzidas pelo artigo 6.º do Decreto-Lei n.º 138/98, de 16 de Maio, e 318/2002, de 28 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 7 de Junho de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 12 de Junho de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

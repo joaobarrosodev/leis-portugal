@@ -1,0 +1,383 @@
+---
+schema_version: '1.0'
+id: pt:dre:638544:por
+title: Decreto-Lei n.º 216/2007
+short_title: null
+summary: Aprova a orgânica do Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 216/2007
+official_date: null
+publication_date: '2007-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/2007, Série I de 2007-05-29
+  number: '103'
+  series: I
+  supplement: null
+  pages: 3494 - 3498
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34943498.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/216/2007/05/29/p/dre/pt/html
+  oj: null
+  dre: '638544'
+  dre_path: /dr/detalhe/decreto-lei/216-2007-638544
+  internal: pt:dre:638544:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2007-638544
+  metadata_url: https://data.dre.pt/eli/dec-lei/216/2007/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2007-638544
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:58:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 13255dda9a70b684a943a74353053607a32f95a824bc56aa74851a8de21715c2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Consultivo
+- Conselho Diretivo
+- Contrato Individual de Trabalho
+- Definição de Competências
+- Financiamento
+- Fiscal Único
+- Funcionário Público
+- Fundo de Estabilização Financeira da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Crédito Público
+- Instituto de Gestão Financeira da Segurança Social
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Segurança Social
+- Vice-presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:174784:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:278754:por
+  label: "Alterados os art.s 5º e 11º, pelo DEC LEI.39/2011.21.03.2011.MTSSO, DR.IS [56] de 21.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2011-278754
+  date: '2011-03-21'
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:563417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590479:por
+  label: null
+  source: http://data.dre.pt/eli/port/1273/2004/10/07/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:619168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687213:por
+  label: null
+  source: http://data.dre.pt/eli/port/741/1991/08/02/p/dre
+- type: cites
+  target: pt:dre:692274:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/449-a/1999/11/04/p/dre
+- type: repealed_by
+  target: pt:dre:174784:por
+  label: "Revogado, a partir de 01.09.2012, o presente diploma, na redação do Dec Lei 39/2011, de 21-mar, pelo DEC LEI.203/2012.28.08.2012.MSSSOC,\
+    \ DR.IS [166] de 28.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2012-174784
+  date: '2012-08-28'
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:58:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 216/2007
+
+de 29 de Maio
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do XVII Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 211/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639), de 27 de Outubro, que aprova a Lei Orgânica do Ministério do Trabalho e da Solidariedade Social, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+O regime financeiro do sistema público de segurança social, nos termos definidos na respectiva lei de bases, deve conjugar as técnicas de repartição e capitalização pública de estabilização, por forma a ajustar-se às condições económicas, sociais e demográficas.
+
+A capitalização pública de estabilização foi introduzida em 1989 pelo [Decreto-Lei n.º 259/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1989-619168), de 14 de Agosto, que criou o Fundo de Estabilização Financeira da Segurança Social (FEFSS) com personalidade jurídica e autonomia financeira e um conjunto de bens patrimoniais, que afectou à estabilização estrutural do regime financeiro do sistema de segurança social.
+
+O [Decreto-Lei n.º 449-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-a-1999-692274), de 4 de Novembro, criou o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. (IGFCSS, I. P.), que sucedeu ao FEFSS, então já com a natureza de instituto público que lhe houvera sido atribuída pelo [Decreto-Lei n.º 399/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1990-563417), de 13 de Dezembro.
+
+A criação do IGFCSS, I. P., teve como objectivo dotar a entidade gestora do FEFSS de maior capacidade de gestão do respectivo conjunto de bens patrimoniais numa nova realidade caracterizada, em especial, pela necessidade da realização de investimento de avultados montantes num contexto de adesão de Portugal à moeda única europeia (euro).
+
+O IGFCSS, I. P., desenvolveu-se, enquanto organização, equipando-se com meios técnicos e humanos especializados que lhe permitiram assegurar a transição da gestão e do investimento dos crescentes montantes do FEFSS (de 1667 milhões de euros em 1998 para mais de 6500 milhões de euros em 2006) de um ambiente limitado ao mercado Português ([Portaria n.º 741/91](https://diariodarepublica.pt/dr/detalhe/portaria/741-1991-687213), de 2 de Agosto) para os mercados da OCDE ([Portaria n.º 1273/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2004-590479), de 7 de Outubro).
+
+Assim, o IGFCSS, I. P., é actualmente uma organização pública tecnicamente especializada na actividade de gestão de fundos com horizonte de investimento de médio ou longo prazo.
+
+Sucede que a relevância das atribuições do IGFCSS, I. P., designadamente o investimento de elevados montantes nos mercados de capitais e imobiliários, exige que o Estado Português disponha de uma entidade com capacidade equivalente à de uma instituição financeira especializada na gestão de fundos, dotada de todos os meios necessários, designadamente dos instrumentos de gestão e da necessária flexibilidade que, devidamente articulados, lhe assegurem uma efectiva capacidade competitiva de intervenção nos mercados em que actua.
+
+Deste modo, para além da reformulação da Lei Orgânica do IGFCSS, I. P., com a consequente revisão dos respectivos estatutos, nos termos propostos nos artigos 9.º e 12.º da lei quadro dos institutos públicos, aproveita-se o ensejo para acentuar a natureza do FEFSS como património autónomo, nos termos constantes do presente diploma, afecto à capitalização pública de estabilização.
+
+Aproveita-se igualmente a oportunidade para acentuar a vocação que é reconhecida ao IGCFSS, I. P., no relatório final do Programa de Reestruturação da Administração Central do Estado (PRACE), isto é, a de ser, no âmbito da Administração Pública, a entidade especializada na gestão de fundos ou patrimónios autónomos, bem como dos relacionados com regimes de previdência.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., abreviadamente designado por IGFCSS, I. P., ou por Instituto de Gestão de Fundos, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - O IGFCSS, I. P., prossegue atribuições do Ministério do Trabalho e da Solidariedade Social (MTSS), sob superintendência e tutela do respectivo ministro.
+
+3 - O Fundo de Estabilização Financeira da Segurança Social (FEFSS) está integrado no IGFCSS, I. P., como património autónomo afecto exclusivamente à capitalização pública de estabilização, nos termos e com as finalidades previstas na lei de bases da segurança social.
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IGFCSS, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - O IGFCSS, I. P., tem a sua sede no Porto e uma delegação em Lisboa.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O IGFCSS, I. P., tem por missão a gestão de fundos de capitalização no âmbito do financiamento do sistema de segurança social do Estado e de outros sistemas previdenciais.
+
+2 - São atribuições do IGFCSS, I. P.:
+
+a) Gerir em regime de capitalização a carteira do Fundo de Estabilização Financeira da Segurança Social e de outros fundos e as disponibilidades financeiras que lhe sejam afectas;
+
+b) Administrar o regime público de capitalização, incluindo a gestão, em regime de capitalização, dos fundos e dos planos de rendas que lhe são subjacentes;
+
+c) Promover o adequado planeamento, organização, direcção e controlo nas áreas de gestão das carteiras de aplicações, análise de mercados e informações estatísticas;
+
+d) Administrar o património imobiliário que lhe está afecto;
+
+e) Colaborar e articular-se pelas formas convenientes com os serviços e instituições do sistema de segurança social, designadamente com o IGFSS, I. P.;
+
+f) Negociar e contratar com as instituições do sistema monetário e financeiro as aplicações pertinentes;
+
+g) Realizar as transferências necessárias para assegurar a estabilização financeira da segurança social;
+
+h) Colaborar e articular-se pelas formas convenientes com os serviços e do sector público administrativo;
+
+i) Assessorar o membro do Governo responsável pela área do trabalho e da solidariedade social nas matérias relacionadas com as suas atribuições, em especial, sobre a gestão em regime de capitalização.
+
+3 - Complementarmente, o IGFCSS, I. P., pode prestar a outras entidades, públicas ou privadas, serviços de gestão de fundos, consultoria ou apoio técnico decorrentes da sua experiência e da informação de que dispõe, bem como gerir patrimónios autónomos susceptíveis de investimento no médio e longo prazo.
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do IGFCSS, I. P.:
+
+a) O conselho directivo;
+
+b) O conselho consultivo;
+
+c) O fiscal único.
+
+###### Artigo 5.º — Conselho directivo
+
+1 - O conselho directivo é composto por um presidente, um vice-presidente e um vogal.
+
+2 - Sem prejuízo das competências que forem conferidas por lei, compete o conselho directivo:
+
+a) Elaborar propostas de regulamentos de gestão dos fundos geridos pelo IGFCSS, I. P.;
+
+b) Autorizar, aprovar e acompanhar a negociação e a contratação dos investimentos relativos aos fundos, incluindo a aquisição e alienação de imóveis, bem como as relativas às disponibilidades afectas ao IGFCSS, I. P., outorgando todos os actos e contratos necessários;
+
+c) Subcontratar, na medida do necessário, a gestão de uma parte das carteiras de fundos sob gestão do IGFCSS, I. P., a entidades financeiras especializadas com reconhecida capacidade e reputação;
+
+d) Autorizar a aquisição de serviços de natureza financeira, designadamente, a contratação de serviços de custódia e guarda de títulos, empréstimos de valores, aquisição, venda e liquidação de operações sobre valores mobiliários;
+
+e) Deliberar sobre a aquisição e alienação, locação financeira ou aluguer de bens móveis e o arrendamento de bens imóveis destinados a instalação, equipamento e funcionamento do IGFCSS, I. P.;
+
+f) Deliberar sobre a aquisição ou locação financeira de bens imóveis para os mesmos fins da alínea anterior, ou sobre a sua alienação, mediante autorização do membro do Governo responsável pela área do trabalho e da solidariedade social.
+
+3 - Em circunstâncias excepcionais e urgentes em que não seja possível reunir o conselho directivo, o presidente pode praticar quaisquer actos da competência daquele, ficando os mesmos sujeitos a ratificação, na primeira reunião realizada após a sua prática, sob pena de anulabilidade.
+
+4 - O presidente do conselho directivo é substituído, nas suas ausências ou impedimentos, pelo vice-presidente ou, no impedimento deste, pelo vogal que para o efeito o presidente venha a designar.
+
+###### Artigo 6.º — Conselho consultivo
+
+1 - O IGFCSS, I. P., dispõe de um conselho consultivo constituído por dois representantes institucionais indicados cada um deles, respectivamente, pelo Instituto de Gestão Financeira da Segurança Social, I. P., e pelo Instituto de Gestão do Crédito Público, I. P., e, ainda, por um representante de cada um dos parceiros sociais que integram a Comissão Permanente de Concertação Social e por três personalidades de reconhecida competência em matéria económica e financeira.
+
+2 - Os membros do conselho consultivo são nomeados pelo membro do Governo responsável pela área do trabalho e da solidariedade social pelo período de três anos, renovável.
+
+3 - Do acto de nomeação consta a designação do presidente do conselho consultivo.
+
+4 - O presidente do conselho consultivo designa o membro que o substitui nas suas faltas ou impedimentos.
+
+5 - Participa sempre nas reuniões do conselho consultivo, mas sem direito de voto, pelo menos um dos membros do conselho directivo do IGFCSS, I. P., por este designado caso a caso, de acordo com a natureza das matérias a tratar.
+
+6 - Compete ao conselho consultivo pronunciar-se, obrigatoriamente, sobre o plano de actividades e o relatório e contas do IGFCSS, I. P., a política de gestão do FEFSS e, quando seja caso disso, sobre quaisquer assunto que lhe seja submetido pelo presidente do conselho directivo.
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único tem as competências e é nomeado nos termos previstos na [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
+
+###### Artigo 8.º — Organização interna
+
+A organização interna do IGFCSS, I. P., é a prevista nos respectivos estatutos.
+
+###### Artigo 9.º — Estatuto dos membros do conselho directivo
+
+Aos membros do conselho directivo é aplicável o regime definido na lei quadro dos institutos públicos e, subsidiariamente, o fixado no Estatuto do Gestor Público.
+
+###### Artigo 10.º — Regime de pessoal
+
+Ao pessoal do IGFCSS, I. P., é aplicável o regime do contrato individual de trabalho.
+
+###### Artigo 11.º — Receitas
+
+1 - O IGFCSS, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e pelo orçamento da segurança social para funcionamento, em contrapartida pelo serviço de administração e gestão dos fundos públicos sob sua gestão.
+
+2 - O IGFCSS, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) As que resultem da remuneração de serviços prestados a outras entidades publicas ou privadas;
+
+b) As advenientes da venda de estudos, obras ou outras edições por si promovidas;
+
+c) Os subsídios ou donativos que lhe sejam atribuídos por qualquer entidade nacional ou estrangeira;
+
+d) As doações, heranças ou legados;
+
+e) Os rendimentos de bens próprios, bem como o produto da sua alienação e da constituição de direitos sobre os mesmos;
+
+f) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - O IGFCSS, I. P., não pode recorrer ao crédito, salvo em circunstâncias excepcionais expressamente previstas na lei de enquadramento orçamental.
+
+4 - O financiamento do orçamento do IGFCSS, I. P., não está sujeito ao regime normal de financiamento das instituições de segurança social.
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do IGFCSS, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.
+
+###### Artigo 13.º — Património
+
+O património do IGFCSS, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular.
+
+###### Artigo 14.º — Fundo de Estabilização Financeira da Segurança Social
+
+1 - Os bens, direitos e obrigações que integram o património do FEFSS são identificados em conta própria, ficando a administração e gestão do FEFSS atribuídas ao IGFCSS, I. P.
+
+2 - Os poderes de administração e gestão atribuídos ao IGFCSS, I. P., enquanto entidade gestora do FEFSS compreendem o poder de realizar quaisquer negócios jurídicos, incluindo os de aquisição, alienação e administração dos bens e direitos que integram o Fundo, com observância do respectivo regulamento de gestão.
+
+3 - O regulamento de gestão do FEFSS é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e do trabalho e da solidariedade social.
+
+4 - O capital do FEFSS corresponde ao valor patrimonial global líquido de todos os bens, direitos e obrigações, que integram a sua carteira, identificados nos termos do n.º 1, e que são afectos exclusivamente à capitalização pública de estabilização.
+
+5 - O capital do FEFSS é aumentado pelos montantes que lhe forem afectados nos termos da Lei ou mediante despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e do trabalho e da solidariedade social.
+
+6 - Os resultados apurados em cada exercício económico são afectados ao capital do FEFSS, seguindo a técnica de capitalização.
+
+7 - O capital do FEFSS pode ser utilizado para transferências em ordem ao cumprimento da estabilização do sistema de segurança social, definidas por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e do trabalho e da solidariedade social.
+
+8 - O FEFSS tem por objectivo assegurar a estabilização financeira da segurança social, através da adopção de medidas consideradas adequadas no âmbito do seu financiamento, designadamente assegurar a cobertura das despesas previsíveis com pensões por um período mínimo de dois anos.
+
+9 - O FEFSS goza das isenções fiscais concedidas ao Estado e ainda das que lhe são especialmente concedidas por lei.
+
+10 - O FEFSS está ainda isento de taxas, custas e emolumentos em quaisquer processos, actos ou contratos em que intervenha, sem prejuízo dos emolumentos pessoais e das importâncias correspondentes à participação emolumentar devida aos notários, conservadores e oficiais do registo e notariado.
+
+11 - O registo contabilístico do património do FEFSS é efectuado em conformidade com o Plano Oficial de Contabilidade das Instituições do Sistema de Solidariedade e Segurança Social (POCISSSS), com as seguintes adaptações:
+
+a) As receitas obtidas em operações de derivados financeiros são deduzidas das despesas decorrentes das mesmas operações, sendo o respectivo saldo sempre inscrito em rubrica orçamental de receita;
+
+b) Os juros corridos recebidos nas vendas de valores representativos de dívida são deduzidos dos juros corridos pagos na aquisição do mesmo género de valores, sendo o respectivo saldo sempre inscrito em rubrica orçamental de receita;
+
+c) O disposto nas alíneas anteriores não dispensa o registo contabilístico individualizado de todos os fluxos financeiros, ainda que meramente escriturais, associados às operações nelas referidas;
+
+d) O património do FEFSS é valorizado nos termos de um regulamento de valorimetria específico sujeito ao parecer do órgão de fiscalização do FEFSS baseado nas normas internacionalmente aceites para a valorização de fundos de idêntica natureza e finalidade.
+
+12 - O exercício da actividade do FEFSS corresponde ao ano civil, encerrando-se as contas com referência a 31 de Dezembro de cada ano, as quais, após parecer do órgão de fiscalização, são submetidas pela entidade gestora à aprovação do membro do Governo responsável pela área do trabalho e da solidariedade social.
+
+13 - O orçamento anual e a conta do FEFSS integram, respectivamente, o orçamento e a conta da segurança social.
+
+14 - Atendendo ao regime de gestão em capitalização, as disponibilidades financeiras de curto prazo do FEFSS não estão sujeitas ao regime de tesouraria única.
+
+15 - Transitam para o ano seguinte os saldos de gerência apurados em cada exercício.
+
+16 - Os actos e contratos relacionados com a negociação e contratação de investimentos para a carteira do FEFSS não estão abrangidos pelo regime jurídico de realização de despesas públicas e da contratação pública para a aquisição de bens e de serviços.
+
+17 - As aquisições e vendas de imóveis referentes ao património do FEFSS, por configurarem actos de gestão com a natureza de investimentos financeiros, estão isentas de quaisquer formalidades, não se subordinando às limitações legalmente aplicáveis à aquisição e venda de imóveis por parte do Estado, de empresas públicas ou de institutos públicos, ficando a efectivação das aquisições apenas dependente da avaliação por perito independente.
+
+###### Artigo 15.º — Regime transitório de função pública
+
+1 - Os funcionários públicos dos quadros de pessoal do IGFCSS, I. P., podem optar pelo regime do contrato individual de trabalho, no prazo de 90 dias a contar da data da notificação que lhe seja feita pelo serviço, nos termos do n.º 7 do artigo 16.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, ou, quando não haja lugar à aplicação de métodos de selecção, da publicitação das listas e mapas a que se refere o n.º 3 do artigo 14.º da referida lei.
+
+2 - O direito de opção é exercido mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho directivo, no prazo previsto no número anterior.
+
+3 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à função pública, que se torna efectiva com a publicação na 2.ª série do Diário da República.
+
+4 - Os lugares do quadro a que se refere o n.º 1 extinguem-se à medida que vagarem.
+
+###### Artigo 16.º — Regulamentos internos
+
+Os regulamentos internos do IGFCSS, I. P., são remetidos aos membros do Governo responsáveis pelas área das finanças e da tutela para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+###### Artigo 17.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 449-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-a-1999-692274), de 4 de Novembro.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
+
+Promulgado em 14 de Abril de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 16 de Abril de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

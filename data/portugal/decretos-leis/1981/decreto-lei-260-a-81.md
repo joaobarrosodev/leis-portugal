@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:158424:por
+title: Decreto-Lei n.º 260-A/81
+short_title: null
+summary: Dá nova redacção a alguns artigos do Estatuto e do Regulamento da Polícia de Segurança Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 260-A/81
+official_date: null
+publication_date: '1981-09-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1981, 1º Suplemento, Série I de 1981-09-02
+  number: '201'
+  series: I
+  supplement: null
+  pages: 2334-(2) a 2334-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20101/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '158424'
+  dre_path: /dr/detalhe/decreto-lei/260-a-1981-158424
+  internal: pt:dre:158424:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1981-158424
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1981-158424
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 361790c3168c19c96d95f8a8db02e31d6866344f3b2514c5c2b986f412631754
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Estatuto
+- PSP
+- Recrutamento de Pessoal
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:38:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 260-A/81
+
+de 2 de Setembro
+
+Considerando que as alterações introduzidas pelo [Decreto-Lei n.º 134/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1980-473965), de 19 de Maio, no Estatuto e no Regulamento da Polícia de Segurança Pública, aprovados, respectivamente, pelo [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, ainda não permitem os concursos e alistamentos de pessoal em condições julgadas satisfatórias;
+
+Tendo em conta que é necessário simplificar a componente documental dos concursos de admissão, de forma a aligeirar ao máximo o circuito burocrático pré-alistamento e a garantir uma informação tanto quanto possível completa e actual acerca dos eventuais alistados na altura do ingresso:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O artigo 60.º do Estatuto da Polícia de Segurança Pública, aprovado pelo [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, alterado pelo [Decreto-Lei n.º 134/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1980-473965), de 19 de Maio, passa a ter a seguinte redacção:
+
+Art. 60.º - 1 - ...
+
+2 - Com excepção da certidão esclarecedora da situação militar, é dispensada a apresentação de documentos comprovativos dos requisitos exigidos para a admissão a concurso, devendo os candidatos declarar nos requerimentos, sob compromisso de honra, que satisfazem todas as exigências legais e que cumprirão em tempo todas as formalidades inerentes ao fim em vista, sem o que não poderão prosseguir os actos de concurso, alistamento ou formação.
+
+3 - Os candidatos serão alistados de harmonia com a média das classificações obtidas em concurso, de acordo com o Regulamento da Polícia de Segurança Pública.
+
+4 - No caso de igualdade de classificação, são condições de preferência na admissão:
+
+a) Ter serviço nas forças armadas;
+
+b) Ter mais habilitações literárias;
+
+c) Possuir maior número de especialidades que interessem à Polícia de Segurança Pública;
+
+d) Menor idade.
+
+Art. 2.º Os artigos 158.º, 159.º, 160.º e 161.º do Regulamento da Polícia de Segurança Pública, aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, alterados pelo [Decreto-Lei n.º 134/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1980-473965), de 19 de Maio, passam a ter a seguinte redacção:
+
+Art. 158.º Só pode ser admitido a concurso para guardas provisórios o indivíduo que, na situação prevista no Estatuto da Polícia de Segurança Pública, preencha os seguintes requisitos:
+
+1.º Ser de nacionalidade portuguesa;
+
+2.º Não ter menos de 19 ou 21 anos de idade, respectivamente para candidatos femininos e candidatos masculinos, nem completar 28 anos de idade ou mais no ano em que se realizar o concurso;
+
+3.º Ter, no mínimo, 1,60 m ou 1,65 m de altura, respectivamente para candidatos femininos e candidatos masculinos;
+
+4.º Ter a robustez física necessária para o desempenho da função e não sofrer de doença contagiosa;
+
+5.º Ter como habilitações literárias mínimas a escolaridade obrigatória referida à época em que o candidato a frequentou;
+
+6.º Ter bom comportamento moral e civil;
+
+7.º Não ter antecedentes criminais;
+
+8.º:
+
+a) Estar, quando do sexo masculino, na efectividade de serviço militar ou tê-lo cumprido em unidades das armas ou serviços de qualquer dos ramos das Forças Armadas, ou, ainda, quando não cumprido o serviço militar por amparo, excesso de contingente ou outros, desde que, cumprida a Lei do Serviço Militar, tenha sido, sob o ponto de vista físico, considerado apto para o serviço;
+
+b) Não ter averbadas quaisquer punições, ou, no caso de estas existirem, ser analisado o motivo que lhes deu lugar, para efeito de eventual admissão;
+
+9.º Não ter sofrido mais do que uma reprovação em concursos anteriores ou ter sido excluído ou reprovado em anterior escola de alistados da Polícia de Segurança Pública.
+
+§ 1.º As condições referidas no n.º 2.º serão comprovadas mediante a apresentação de bilhete de identidade, as do n.º 4.º por certificado antituberculoso e exames laboratoriais ou outros, as do n.º 5.º por diploma oficial ou documento equivalente, as do n.º 6.º pelos necessários atestados e as do n.º 7.º pelo respectivo certificado de registo criminal. As condições referentes à situação militar serão provadas com o competente documento, através do qual se verifique que foi cumprida a Lei do Serviço Militar ou julgados aptos os candidatos, no caso de dispensa.
+
+§ 2.º As condições de admissão terão de ser comprovadas até ao acto do alistamento.
+
+§ 3.º As falsas declarações serão punidas nos termos dos §§ 1.º e 2.º do artigo 22.º do [Decreto-Lei n.º 33725](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33725-1944-550217), de 21 de Junho de 1944.
+
+Art. 159.º Os candidatos admitidos a concurso serão submetidos a uma prova de aptidão literária, inspecção médica e provas físicas e psicotécnicas, segundo normas a estabelecer pelo comandante-geral da Polícia de Segurança Pública.
+
+§ 1.º A prova de habilitação literária poderá ter lugar nos comandos distritais da Polícia de Segurança Pública, sendo dela dispensados os candidatos que provem possuir, como mínimo de habilitações literárias, o 9.º ano de escolaridade obrigatória ou o antigo 5.º ano liceal.
+
+§ 2.º As restantes provas de admissão terão lugar nos Centros de Alistamento e Selecção de Lisboa, Porto, Coimbra, Évora, Funchal, Ponta Delgada, Angra do Heroísmo e Horta, a designar pelo Comando-Geral da Polícia de Segurança Pública.
+
+Art. 160.º A admissão a concurso para a Polícia de Segurança Pública será requerida, em papel selado, ao respectivo comandante-geral, sendo oportunamente obtida a autorização dos órgãos superiores a que o requerente estiver subordinado, no caso de ser militar do activo ou funcionário de organismo do Estado.
+
+§ 1.º Com excepção da certidão esclarecedora da situação militar, é dispensada a apresentação de documentos comprovativos dos requisitos exigidos para a admissão a concurso, devendo os candidatos declarar nos respectivos requerimentos, sob compromisso de honra, que satisfazem todos os requisitos referidos no artigo 158.º deste diploma.
+
+§ 2.º A apresentação dos documentos comprovativos das condições a que se refere o artigo 158.º será exigida aos candidatos quando for julgado conveniente ao longo do processo do concurso.
+
+§ 3.º Para o efeito, cada candidato será informado, por meio de aviso expedido para a residência indicada no requerimento, de que deve apresentar os documentos necessários no prazo de trinta dias.
+
+Art. 161.º Os candidatos serão alistados segundo a classificação obtida no conjunto das provas que compõem o concurso, até ao limite das vagas existentes ou da capacidade da Escola de Formação de Guardas.
+
+§ 1.º A classificação é ordenada tendo em conta o disposto no artigo 60.º do Estatuto da Polícia de Segurança Pública.
+
+§ 2.º Além de outros casos previstos neste Regulamento, o candidato aprovado não poderá ser alistado:
+
+a) Se os documentos para tal exigidos não forem apresentados dentro do prazo;
+
+b) Se os documentos apresentados não fizerem prova bastante das condições exigidas;
+
+c) Se elementos complementares provarem que a sua conduta anterior é inconveniente para a função policial.
+
+Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 29 de Agosto de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

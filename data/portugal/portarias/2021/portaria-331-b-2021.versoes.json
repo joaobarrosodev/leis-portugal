@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176907550:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-177085026",
+ "dre_path": "/dr/detalhe/portaria/331-b-2021-176907550",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177085266",
+    "177085267",
+    "177085268",
+    "177085269",
+    "177085270",
+    "177085271",
+    "177085273",
+    "177085274",
+    "177084275"
+   ]
+  },
+  {
+   "date": "2022-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:183691733:por",
+     "title": "Portaria n.º 151/2022",
+     "published": "2022-05-20",
+     "dre_path": "/dr/detalhe/portaria/151-2022-183691733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "177085266",
+    "177085267",
+    "177085268",
+    "183795419",
+    "177085270",
+    "177085271",
+    "177085272",
+    "177085273",
+    "177085274",
+    "177084275"
+   ]
+  }
+ ],
+ "fragments": {
+  "177085266": {
+   "fragment_id": "177085027",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 331-B/2021\n\nde 31 de dezembro\n\nSumário: Altera a Portaria n.º 147/2016, de 19 de maio, definindo a metodologia de revisão das Redes de Referenciação Hospitalar.\n\nO Serviço Nacional de Saúde (SNS), enquanto conjunto articulado de estabelecimentos e serviços prestadores de cuidados de saúde, organizado territorialmente por regiões de saúde e funcionalmente por níveis de cuidados, efetiva a responsabilidade que cabe ao Estado na proteção da saúde, devendo os seus estabelecimentos e serviços orientar o respetivo funcionamento pela proximidade da prestação, pela integração de cuidados e pela articulação inter-regional dos serviços.\n\nAtravés da Portaria n.º 147/2016, de 19 de maio, foi estabelecido o processo de classificação dos hospitais, centros hospitalares e unidades locais de saúde do SNS e definido o processo de criação e revisão das Redes de Referenciação Hospitalar (RRH), como sistemas integrados e hierarquizados, que regulam as relações de complementaridade funcional e apoio técnico entre serviços hospitalares, de modo a garantir, com eficiência e qualidade, o acesso a cuidados de saúde e a formação e investigação, no âmbito de determinada especialidade médica.\n\nNo País, as RRH tiveram origem no Programa Operacional da Saúde - SAÚDE XXI, que as assumiu em algumas áreas prioritárias e como o quadro de referência de suporte ao processo de reforma estrutural do setor da saúde. Em 2011, o Grupo Técnico para a Reforma Hospitalar emitiu um conjunto de recomendações para o reforço das RRH, às quais a Portaria n.º 82/2014, de 10 de abril, procurou responder e, mais recentemente, a citada Portaria n.º 147/2016, de 19 de maio, reenquadrou.\n\nNeste contexto, em linha com o Plano de Recuperação e Resiliência (PRR), importa prosseguir o esforço de melhoria da eficiência da resposta hospitalar no SNS, designadamente através da atualização das RRH para as várias especialidades hospitalares, em especial através da revisão daquelas em vigor e da definição das redes inexistentes.\n\nPara o efeito, no quadro da reforma do modelo de governação dos hospitais públicos, torna-se, pois, necessário definir a metodologia de revisão das RRH, dando cumprimento ao marco 171 da linha de reforma RE-r03 da Componente 01: SNS do PRR.\n\nAssim:\n\nAo abrigo do disposto no artigo 1.º, nas alíneas a) e b) do artigo 2.º e no artigo 7.º do Decreto-Lei n.º 124/2011, de 29 de dezembro, nos artigos 5.º e 6.º do Decreto-Lei n.º 18/2017, de 10 de fevereiro, e no artigo 12.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, todos nas suas redações atuais, manda o Governo, pela Ministra da Saúde, o seguinte:"
+  },
+  "177085267": {
+   "fragment_id": "177085028",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração à Portaria n.º 147/2016, de 19 de maio."
+  },
+  "177085268": {
+   "fragment_id": "177085029",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 147/2016, de 19 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 147/2016, de 19 de maio\n\n1 - O artigo 2.º da Portaria n.º 147/2016, de 19 de maio, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...]\n\n2 - A criação e revisão das Redes de Referenciação Hospitalar, para efeitos da sua aprovação por despacho do membro do Governo responsável pela área da saúde, são acompanhadas pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), em articulação com a Direção-Geral da Saúde (DGS).\n\n3 - A elaboração de propostas de criação ou revisão de RRH incumbe a grupos técnicos, a constituir por despacho do membro do Governo responsável pela área da saúde e integrados por representantes da ACSS, I. P., da DGS e das cinco administrações regionais de saúde, I. P.\n\n4 - Para efeitos do disposto no número anterior, as propostas a apresentar devem, obrigatoriamente, abordar os seguintes aspetos:\n\na) Enquadramento da RRH em redes anteriores, quando aplicável;\n\nb) Âmbito da especialidade hospitalar;\n\nc) Caracterização da situação nacional em termos epidemiológicos e das condições clínicas mais frequentes;\n\nd) Caracterização da situação nacional em termos assistenciais, de recursos humanos, de equipamentos e de distribuição geográfica;\n\ne) Caraterização dos sistemas de informação existentes;\n\nf) Estimativa de necessidades de cuidados e de recursos, a cinco anos;\n\ng) Definição da arquitetura da rede, incluindo representação gráfica dos fluxos entre serviços;\n\nh) Faseamento da implementação da RRH, quando aplicável;\n\ni) Metodologia de monitorização da RRH.\n\n5 - As propostas das RRH a apresentar devem estar concluídas no prazo de 180 dias a contar da publicação do despacho a que se refere o n.º 3, sendo submetidas, dentro desse prazo, a aprovação na generalidade pelo membro do Governo responsável pela área da saúde.\n\n6 - Após a aprovação a que se refere o número anterior, a proposta de RRH é submetida a consulta pública, no portal do SNS, por um período de 30 dias úteis, competindo ao respetivo grupo técnico proceder à análise das pronúncias recebidas.\n\n7 - Findo o período de consulta pública, o grupo técnico submete a versão final da proposta de RRH à ACSS, I. P., para emissão de parecer.\n\n8 - A versão final de RRH é submetida pela ACSS, I. P., ao membro do Governo responsável pela área da saúde, acompanhada do parecer previsto no número anterior.\n\n9 - (Anterior n.º 5.)\n\n10 - (Anterior n.º 6.)»\n\n2 - O anexo à Portaria n.º 147/2016, de 19 de maio, passa a ter a redação constante do anexo à presente portaria, da qual faz parte integrante."
+  },
+  "177085269": {
+   "fragment_id": "177085030",
+   "type": 11,
+   "heading": "Artigo 3.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições finais e transitórias\n\nPara efeitos da parte ii do anexo à presente portaria, da qual faz parte integrante:\n\na) As RRH que, à data da sua entrada em vigor, ainda não estejam criadas são aprovadas até ao final de 2022;\n\nb) AS RRH cuja revisão devesse já ter ocorrido, nos termos previstos no n.º 9 do artigo 2.º da Portaria n.º 147/2016, de 19 de maio, são aprovadas até ao final do terceiro trimestre de 2022."
+  },
+  "177085270": {
+   "fragment_id": "177085031",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o artigo 8.º da Portaria n.º 147/2016, de 19 de maio."
+  },
+  "177085271": {
+   "fragment_id": "177085032",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "177085273": {
+   "fragment_id": "177085034",
+   "type": 14,
+   "heading": "Anexo — Redes de Referenciação Hospitalar do SNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Redes de Referenciação Hospitalar do SNS"
+  },
+  "177085274": {
+   "fragment_id": "177085035",
+   "type": 4,
+   "heading": "Parte I — Redes de Referenciação Hospitalar aprovadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I — Redes de Referenciação Hospitalar aprovadas\n\n1) Anatomia patológica (aprovada por despacho do Secretário de Estado Adjunto da Saúde de 28 de fevereiro de 2017);\n\n2) Anestesiologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 19 de junho de 2017);\n\n3) Cardiologia (aprovada por despacho do Ministro da Saúde de 2 de novembro de 2015);\n\n4) Cirurgia geral (aprovada por despacho do Ministro da Saúde de 13 de novembro de 2015);\n\n5) Hematologia clínica (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);\n\n6) Imuno-hemoterapia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 9 de agosto de 2017)\n\n7) Infeção pelo VIH (aprovada por despacho do Ministro da Saúde de 19 de novembro de 2015 e alterada por despacho do Secretário de Estado Adjunto e da Saúde a 7 de agosto de 2018);\n\n8) Infeciologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 11 de agosto de 2017);\n\n9) Medicina física e de reabilitação (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 28 de fevereiro de 2017);\n\n10) Medicina intensiva (atualização aprovada por despacho da Ministra da Saúde de 18 de agosto de 2020);\n\n11) Medicina nuclear (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 18 de novembro de 2016);\n\n12) Nefrologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 19 de junho de 2017);\n\n13) Oftalmologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 4 de janeiro de 2017);\n\n14) Oncologia médica (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);\n\n15) Otorrinolaringologia (aprovada por despacho do Secretário de Estado Adjunto da Saúde de 11 de agosto de 2017);\n\n16) Pneumologia (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);\n\n17) Psiquiatria e saúde mental (aprovada por despacho do Ministro da Saúde de 23 de novembro de 2015);\n\n18) Radioncologia (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);\n\n19) Reumatologia (aprovada por despacho do Ministro da Saúde de 23 de novembro de 2015);\n\n20) Urologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde, de 8 de agosto de 2017);\n\n21) Angiologia e cirurgia vascular (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 26 de setembro de 2017);\n\n22) Imunoalergologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 8 de agosto de 2018);\n\n23) Cirurgia cardiotorácica (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 19 de dezembro de 2017);\n\n24) Gastrentrologia e hepatologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 10 de janeiro de 2018);\n\n25) Neurocirurgia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 6 de setembro de 2017);\n\n26) Neurologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 23 de março de 2018);\n\n27) Cirurgia plástica, reconstrutiva e estética (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 21 de dezembro de 2017);\n\n28) Estomatologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 15 de novembro de 2017);\n\n29) Psiquiatria da infância e da adolescência (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 9 de outubro de 2018)."
+  },
+  "177084275": {
+   "fragment_id": "177085036",
+   "type": 4,
+   "heading": "Parte II — Redes de Referenciação Hospitalar em criação/revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte II — Redes de Referenciação Hospitalar em criação/revisão\n\nAnatomia patológica;\n\nAnestesiologia;\n\nAngiologia e cirurgia vascular;\n\nCardiologia;\n\nCirurgia cardíaca;\n\nCirurgia geral;\n\nCirurgia maxilo-facial;\n\nCirurgia plástica, reconstrutiva e estética;\n\nCirurgia torácica;\n\nDermatovenerealogia;\n\nEndocrinologia e nutrição;\n\nEstomatologia;\n\nGastrenterologia e hepatologia;\n\nGenética médica;\n\nHematologia clínica;\n\nImunoalergologia;\n\nImuno-hemoterapia;\n\nInfecciologia;\n\nMedicina física e reabilitação;\n\nMedicina intensiva;\n\nMedicina interna;\n\nMedicina nuclear;\n\nNefrologia;\n\nNeurocirurgia;\n\nNeurologia;\n\nOftalmologia;\n\nOncologia médica;\n\nOrtopedia;\n\nOtorrinolaringologia;\n\nPatologia clínica;\n\nPneumologia;\n\nPsiquiatria da infância e da adolescência;\n\nPsiquiatria e saúde mental;\n\nRadiologia e neurorradiologia;\n\nRadioncologia;\n\nReumatologia;\n\nSaúde materna e infantil;\n\nUrologia.\n\n114862629"
+  },
+  "183795419": {
+   "fragment_id": "177085030",
+   "type": 11,
+   "heading": "Artigo 3.º — Disposições finais e transitórias",
+   "in_force_from": "2022-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/151-2022-183691733), em vigor a partir de 2022-05-21"
+   ],
+   "markdown": "###### Artigo 3.º — Disposições finais e transitórias\n\nPara efeitos da parte ii do anexo à presente portaria, da qual faz parte integrante:\n\na) As RRH que à data da sua entrada em vigor ainda não estejam criadas são aprovadas até ao final do segundo trimestre de 2023;\n\nb) AS RRH cuja revisão devesse já ter ocorrido, nos termos previstos no n.º 9 do artigo 2.º da Portaria n.º 147/2016, de 19 de maio, são aprovadas até ao final do primeiro trimestre de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/151-2022-183691733), em vigor a partir de 2022-05-21"
+  },
+  "177085272": {
+   "fragment_id": "177085033",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões, em 30 de dezembro de 2021."
+  }
+ }
+}

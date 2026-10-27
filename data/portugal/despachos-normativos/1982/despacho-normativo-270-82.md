@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:380311:por
+title: Despacho Normativo n.º 270/82
+short_title: null
+summary: Inclui no Programa de Investimento do Sector Empresarial do Estado para 1982 os projectos da TAP - Transportes Aéreos
+  Portugueses, E. P.
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 270/82
+official_date: null
+publication_date: '1982-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 281/1982, Série I de 1982-12-06
+  number: '281'
+  series: I
+  supplement: null
+  pages: 4035 - 4036
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28100/40354036.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380311'
+  dre_path: /dr/detalhe/despacho-normativo/270-1982-380311
+  internal: pt:dre:380311:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/270-1982-380311
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/270-1982-380311
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bd29aa443eaa1a605d52652a38a7332716d219b0bac929c925f44499212d6d8c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pisee
+- TAP
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:19:39Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 270/82
+
+Dando cumprimento ao disposto no artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a nova redacção que lhe foi introduzida pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Abril, e à Resolução do Conselho de Ministros n.º 61-A/81, de 10 de Fevereiro, o Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam:
+
+1 - Consideram-se incluídos no Programa de Investimento do Sector Empresarial do Estado para 1982 os projectos da TAP - Transportes Aéreos Portugueses, E. P., a seguir discriminados, cuja execução não deverá implicar a realização de uma formação bruta de capital fixo e uma despesa de investimento superiores a, respectivamente, 672,2 e 3611,2 milhares de contos:
+
+Projectos de desenvolvimento:
+
+Em bens do património da empresa:
+
+Em curso:
+
+Computorização da carga;
+
+Sistema de informação de gestão de pessoal;
+
+Automatização da contabilidade geral;
+
+Substituição do sistema telefónico da sede;
+
+Sistema TAPMATIC;
+
+Aquisição de 3 aviões L-1011/500-83;
+
+Aquisição de 2 aviões L-1011/500-84;
+
+Remodelação do hangar 4-PD90;
+
+Computorização das delegações - 2.ª fase;
+
+Construção das torres 3 e 4, edifício 27-PD90;
+
+Projecto para a divisão de transportes - equipamentos;
+
+Sistema de TV com 8 canais;
+
+Programa GFI's.
+
+Novos:
+
+Equipamento de terra para o projecto Boeing 737/200;
+
+Construção do 4.º piso do edifício 19-PD90;
+
+Loja franca do Porto;
+
+Sistema computorizado dos abastecimentos;
+
+Plano director de informática.
+
+Investimentos correntes.
+
+2 - A despesa de investimento referida no n.º 1 será parcialmente financiada por uma dotação para capital estatutário no montante de 275 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase-capital, nos termos a serem definidos.
+
+3 - É atribuído à TAP - Transportes Aéreos Portugueses, E. P., um subsídio não reembolsável, no montante de 1222 milhões de escudos, a realizar por conta da dotação de 11000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina a compensar a empresa, durante o corrente ano, pelas obrigações de serviço público que lhe são impostas pelo Estado.
+
+4 - No presente ano fica vedado à empresa lançar e financiar qualquer projecto de investimento não contemplado nos n.os 1 e 2, salvo quando sujeito a autorização específica do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes.
+
+5 - A utilização da dotação referida no n.º 2 far-se-á após apresentação por parte da empresa ao Ministro da Habitação, Obras Públicas e Transportes e ao Secretário de Estado das Finanças de memória justificativa da necessidade da sua utilização, a qual, após despacho favorável dos membros do Governo, será enviada à Direcção-Geral do Tesouro para efeitos de disponibilização daquela dotação.
+
+6 - A utilização da verba referida no n.º 3 far-se-á até ao final do ano em curso por disponibilização directa da Direcção-Geral do Tesouro de valores mensais e iguais correspondentes à diferença entre o montante atribuído e o montante de adiantamentos eventualmente efectuados até à data do presente despacho.
+
+7 - A empresa deverá apresentar aos Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes, no prazo de 30 dias, a contar da data de publicação do presente despacho, os instrumentos previsionais de gestão para 1982, actualizados de acordo com as alterações decorrentes dos números anteriores e outras que entretanto lhe tenham sido comunicadas de acordo com o artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a nova redacção introduzida pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Fevereiro.
+
+Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes, 24 de Novembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.

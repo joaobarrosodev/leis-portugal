@@ -1,0 +1,391 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014R0654:por
+title: Regulamento (UE) n. ° 654/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014
+short_title: null
+summary: Regulamento (UE) n. ° 654/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014 , relativo ao exercício
+  dos direitos da União tendo em vista a aplicação e o cumprimento das regras do comércio internacional, e que altera o Regulamento
+  (CE) n. ° 3286/94 do Conselho que estabelece procedimentos comunitários no domínio da política comercial comum, a fim de
+  garantir o exercício dos direitos da Comunidade ao abrigo das regras do comércio internacional, nomeadamente as estabelecidas
+  sob os auspícios da Organização Mundial do Comércio
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Parlamento Europeu
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2014/654
+official_date: null
+publication_date: '2014-06-27'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 189 de 27.6.2014
+  number: '189'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/3b9bc3f0-0e94-11e4-a7d0-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2014-07-17'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2021-02-13'
+identifiers:
+  celex: 32014R0654
+  eli: http://data.europa.eu/eli/reg/2014/654/oj
+  oj: oj:JOL_2014_189_R_0003
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014R0654:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014R0654
+  metadata_url: http://publications.europa.eu/resource/cellar/3b9bc3f0-0e94-11e4-a7d0-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/0730e92a-7b83-11eb-9ac9-01aa75ed71a1.0021.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0654-20210213
+  retrieved_at: '2026-10-26T11:04:36Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-16T15:01:19.493+02:00'
+integrity:
+  source_sha256: 1f0e2d912842ba62f8d17946e07f3b40eaf7078414255d702da1a9cb21850d09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:04:36Z'
+  notes: Texto consolidado 02014R0654-20210213.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Organização Mundial do Comércio
+- acordo comercial (UE)
+- acordo internacional
+- diferendo comercial
+- norma internacional
+- violação do direito da UE
+relationships:
+- type: amended_by
+  target: celex:32015R1843
+  label: null
+  source: http://publications.europa.eu/resource/cellar/96c949bb-73ca-11e5-86db-01aa75ed71a1
+  date: '2015-10-16'
+- type: amended_by
+  target: celex:32021R0167
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a8113aa1-6cd4-11eb-aeb5-01aa75ed71a1
+  date: '2021-02-12'
+- type: amends
+  target: celex:31994R3286
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d1f26e79-3fd1-447d-a98f-d2a297593b38
+  date: '1994-12-31'
+- type: based_on
+  target: celex:12012E207
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e6ba5919-a550-49fd-8679-a25ef2908ee6
+  date: '2012-11-23'
+- type: based_on
+  target: celex:12012E294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
+  date: '2012-11-23'
+- type: cites
+  target: celex:31992R2913
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f71bf004-2920-47fc-bd9a-35e63b480baf
+- type: cites
+  target: celex:32011R0182
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cccf5222-feb3-4dc3-a4ca-9a5ec75e49af
+- type: corrected_by
+  target: celex:32014R0654R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a351cf39-5dcb-11e5-afbf-01aa75ed71a1
+  date: '2015-09-18'
+- type: repealed_by
+  target: celex:32015R1843
+  label: null
+  source: http://publications.europa.eu/resource/cellar/96c949bb-73ca-11e5-86db-01aa75ed71a1
+  date: '2015-10-16'
+article_structure:
+  article_count: 11
+  section_count: 1
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:04:36Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (UE) n. ° 654/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014
+
+> 02014R0654 — PT — 13.02.2021 — 002.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32015R1843) — [REGULAMENTO (UE) 2015/1843 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1843) — L 272 — 1 — 16.10.2015
+- [►M2](http://publications.europa.eu/resource/celex/32021R0167) — [REGULAMENTO (UE) 2021/167 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0167) — L 49 — 1 — 12.2.2021
+
+**Retificado por:**
+
+- [C1](http://publications.europa.eu/resource/celex/32014R0654R%2801%29) — [Rectificação, JO L 243, 18.9.2015, p. 14 (654/2014)](http://publications.europa.eu/resource/celex/32014R0654R%2801%29)
+
+## REGULAMENTO (UE) N.º 654/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 15 de maio de 2014
+
+relativo ao exercício dos direitos da União tendo em vista a aplicação e o cumprimento das regras do comércio internacional, e que altera o Regulamento (CE) n.º 3286/94 do Conselho que estabelece procedimentos comunitários no domínio da política comercial comum, a fim de garantir o exercício dos direitos da Comunidade ao abrigo das regras do comércio internacional, nomeadamente as estabelecidas sob os auspícios da Organização Mundial do Comércio
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento estabelece regras e procedimentos para assegurar o exercício efetivo e atempado dos direitos que assistem à União de suspender ou retirar concessões ou outras obrigações ao abrigo de acordos internacionais de comércio, a fim de:
+
+a) Responder a violações, por países terceiros, das regras do comércio internacional que afetam os interesses da União, a fim de encontrar uma solução satisfatória que restitua aos operadores económicos da União as vantagens de que beneficiam;
+
+b) Reequilibrar concessões ou outras obrigações no âmbito de relações comerciais com países terceiros, caso o tratamento concedido às mercadorias, bens ou serviços da União se altere de forma a afetar os interesses da União.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, entende-se por:
+
+a) «País», um Estado ou um território aduaneiro distinto;
+
+b) «Concessões ou outras obrigações», concessões pautais ou outras obrigações ou benefícios no domínio do comércio de mercadorias, bens ou serviços ou relativos aos aspetos dos direitos de propriedade intelectual relacionados com o comércio que a União se tenha comprometido a aplicar no seu comércio com países terceiros, por força dos acordos internacionais de comércio em que é parte;
+
+c) «Nível de anulação ou de redução», o grau em que as vantagens de que a União beneficia ao abrigo de um acordo de comércio internacional são afetadas. Salvo definição em contrário no acordo pertinente, inclui todos os impactos económicos negativos resultantes de medidas adotadas por um país terceiro;
+
+d) «Penalidade de preço obrigatória», a obrigação que incumbe às autoridades adjudicantes ou às entidades que organizam processos de adjudicação de contratos de aumentarem, salvo certas exceções, o preço de serviços e/ou mercadorias e bens originários de certos países terceiros oferecidos no âmbito de processos de adjudicação de contratos.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+O presente regulamento é aplicável:
+
+a) Na sequência da resolução de litígios comerciais no âmbito do Memorando de Entendimento da OMC sobre Resolução de Litígios (Memorando de Entendimento da OMC), caso a União tenha sido autorizada a suspender concessões ou outras obrigações ao abrigo de acordos multilaterais e plurilaterais abrangidos pelo Memorando de Entendimento da OMC;
+
+a-A) Na sequência da distribuição de um relatório do painel da OMC que confirme, no todo ou em parte, as alegações apresentadas pela União, caso um recurso nos termos do artigo 17.º do Memorando de Entendimento da OMC não possa ser concluído e se o país terceiro não tiver aceitado a arbitragem provisória nos termos do artigo 25.º do Memorando de Entendimento da OMC;
+
+b) Na sequência da resolução de litígios comerciais ao abrigo de outros acordos internacionais de comércio, incluindo acordos regionais ou bilaterais, caso a União tenha o direito de suspender concessões ou outras obrigações ao abrigo desses acordos;
+
+b-A) Nos litígios comerciais relacionados com outros acordos internacionais de comércio, incluindo acordos regionais ou bilaterais, se a resolução não for possível porque o país terceiro não está a tomar as medidas necessárias para permitir o funcionamento de um procedimento de resolução de litígios, inclusive atrasando indevidamente o processo, o que equivale a não cooperar no processo;
+
+c) Para o reequilíbrio de concessões ou de outras obrigações às quais a aplicação de uma medida de salvaguarda por um país terceiro possa dar direito, nos termos do artigo 8.º do Acordo da OMC sobre as Medidas de Salvaguarda ou das disposições em matéria de salvaguardas incluídas noutros acordos internacionais de comércio, incluindo acordos regionais ou bilaterais;
+
+d) Em caso de alteração de concessões ou compromissos por parte de um membro da OMC ao abrigo do artigo XXVIII do GATT de 1994 ou do artigo XXI do Acordo Geral sobre o Comércio de Serviços (GATS), caso não tenham sido acordados ajustamentos compensatórios e, no que respeita aos serviços, caso os ajustamentos compensatórios não tenham sido efetuados em conformidade com as conclusões do processo de arbitragem, nos termos do artigo XXI do GATS.
+
+###### Artigo 4.º — Exercício dos direitos da União
+
+1. Caso seja necessário adotar medidas para salvaguardar os interesses da União nos casos referidos no artigo 3.º, a Comissão adota atos de execução que determinem as medidas de política comercial adequadas. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 8.º, n.º 2.
+
+2.
+
+Os atos de execução adotados nos termos do n.º 1 devem satisfazer as seguintes condições:
+
+a) Caso as concessões ou outras obrigações sejam suspensas no seguimento da resolução de um litígio comercial ao abrigo do Memorando de Entendimento da OMC, o seu nível não deve exceder o nível autorizado pelo Órgão de Resolução de Litígios da OMC;
+
+b) Caso as concessões ou outras obrigações sejam suspensas no seguimento da tramitação de um processo de resolução internacional de litígios ao abrigo de outros acordos comerciais internacionais, incluindo acordos bilaterais ou regionais, o seu nível não pode exceder o nível de anulação ou de redução de vantagens resultante da medida do país terceiro em causa determinado pela Comissão ou por recurso a arbitragem, consoante o caso;
+
+b-A) Caso sejam adotadas medidas destinadas a restringir o comércio com um país terceiro nas situações previstas no artigo 3.º, alínea a-A), ou alínea b-A), essas medidas não devem ir além da anulação ou redução dos interesses comerciais da União causadas pelas medidas desse país terceiro;
+
+c) Em caso de reequilíbrio de concessões ou de outras obrigações ao abrigo das disposições em matéria de salvaguardas no âmbito de acordos internacionais de comércio, as medidas adotadas pela União devem ser substancialmente equivalentes ao nível das concessões ou de outras obrigações afetadas pela medida de salvaguarda, de acordo com as condições estabelecidas no Acordo da OMC sobre as Medidas de Salvaguarda ou com as disposições em matéria de salvaguardas previstas noutros acordos comerciais internacionais, incluindo acordos bilaterais ou regionais, ao abrigo dos quais a medida de salvaguarda é aplicada;
+
+d) Caso as concessões ou os compromissos sejam alterados ou retirados no âmbito do comércio com um país terceiro em ligação com o artigo XXVIII do GATT de 1994 e com o Memorando de Entendimento conexo ([^1^](http://publications.europa.eu/resource/cellar/0730e92a-7b83-11eb-9ac9-01aa75ed71a1.0021.02/DOC_1#E0001)) ou com o artigo XXI do GATS e os procedimentos de execução conexos, devem ser substancialmente equivalentes às concessões ou aos compromissos alterados ou retirados por esse país terceiro, de acordo com as condições estabelecidas no artigo XXVIII do GATT de 1994 e no Memorando de Entendimento conexo ou do artigo XXI do GATS e os procedimentos de execução conexos.
+
+3.
+
+As medidas de política comercial a que se refere o n.º 1 devem ser determinadas com base nos seguintes critérios, em função das informações disponíveis e do interesse geral da União:
+
+a) Capacidade das medidas para incitar os países terceiros a cumprir as regras do comércio internacional;
+
+b) Potencial das medidas para prestar apoio aos operadores económicos da União afetados por medidas adotadas por países terceiros;
+
+c) Disponibilidade de fontes alternativas de abastecimento das mercadorias, bens ou serviços em causa, a fim de evitar ou de reduzir ao mínimo os eventuais impactos negativos a nível das indústrias a jusante, das autoridades ou entidades adjudicantes ou dos consumidores finais da União;
+
+d) Capacidade para evitar a complexidade e os custos administrativos desproporcionados na aplicação das medidas;
+
+e) Critérios específicos que possam vir a ser estabelecidos em acordos internacionais de comércio relativamente aos casos referidos no artigo 3.º.
+
+###### Artigo 5.º — Medidas de política comercial
+
+1.
+
+Sem prejuízo dos acordos internacionais nos quais a União seja parte, as medidas de política comercial que podem ser tomadas por meio de atos de execução adotados nos termos do artigo 4.º, n.º 1, são as seguintes:
+
+a) Suspensão das concessões pautais e imposição de direitos aduaneiros novos ou mais elevados, incluindo o restabelecimento dos direitos aduaneiros ao nível da nação mais favorecida ou a imposição de direitos aduaneiros além do nível da nação mais favorecida, ou introdução de encargos suplementares sobre as importações ou exportações de bens ou mercadorias;
+
+b) Introdução ou aumento de restrições quantitativas às importações ou exportações de bens ou mercadorias, quer sejam concretizadas através de contingentes, licenças de importação ou exportação, quer de outras medidas;
+
+b-A) Suspensão das obrigações em matéria de comércio de serviços e imposição de restrições ao comércio de serviços;
+
+b-B) Suspensão das obrigações no que diz respeito aos aspetos dos direitos de propriedade intelectual relacionados com o comércio concedidos por uma instituição ou agência da União e válidos em toda a União, bem como a imposição de restrições à proteção desses direitos de propriedade intelectual ou à sua exploração comercial, em relação aos titulares de direitos que sejam nacionais do país terceiro em causa;
+
+c) Suspensão de concessões relativamente às mercadorias, bens, serviços ou fornecedores no domínio dos contratos públicos, através de:
+
+i) Exclusão dos contratos públicos dos fornecedores de mercadorias, bens ou serviços estabelecidos no país terceiro em causa e que operem a partir dele, e/ou das propostas cujo valor total seja constituído em mais de 50 % por mercadorias, bens ou serviços provenientes desse país terceiro; e/ou
+
+ii) Imposição de uma penalidade de preço obrigatória sobre as propostas de fornecedores de mercadorias, bens ou serviços estabelecidos no país terceiro em causa e que operem a partir dele, e/ou sobre a parte da proposta consistente em mercadorias, bens ou serviços originários desse país terceiro.
+
+1-A.
+
+Ao selecionar as medidas a adotar nos termos do n.º 1, alínea b-A), do presente artigo, a Comissão deve ponderar sempre a adoção de medidas que respeitem a seguinte hierarquia de etapas:
+
+a) Medidas relativas ao comércio de serviços que exijam uma autorização com validade em toda a União e com base no direito derivado, ou, se tais medidas não estiverem disponíveis,
+
+b) Medidas relativas a outros serviços em domínios abrangidos por uma vasta legislação da União, ou, na ausência de tais medidas,
+
+c) Medidas que, conforme demonstrado pelo exercício de recolha de informações conduzido nos termos do artigo 9.º, n.º 1, alínea a), como previsto no artigo 5.º, n.º 1-B, alínea a), não imponham encargos desproporcionados no processo de administração da regulamentação nacional pertinente.
+
+1-B.
+
+As medidas adotadas nos termos do n.º 1, alíneas b-A) e b-B), devem:
+
+a) Estar sujeitas a um exercício de recolha de informações nos termos do artigo 9.º, n.º 1-A;
+
+b) Ser ajustadas, se necessário, por meio de um ato de execução nos termos do artigo 4.º, n.º 1, sempre que, após uma revisão efetuada nos termos do artigo 9.º, n.º 1-A, a Comissão concluir que as medidas são de eficácia insuficiente ou impõem encargos não razoáveis no processo de administração da regulamentação nacional pertinente. Uma revisão desta índole é efetuada pela Comissão, pela primeira vez, seis meses após a data de aplicação das medidas e, após essa data, a intervalos de doze meses;
+
+c) Ser objeto de um relatório de avaliação, seis meses após a sua revogação, com base, nomeadamente, nos contributos prestados pelas partes interessadas, que verifique a sua eficácia e funcionamento e que retire eventuais conclusões sobre futuras medidas.
+
+2.
+
+As medidas adotadas nos termos do n.º 1, alínea c), devem:
+
+a) Estabelecer limiares, consoante as características das mercadorias, bens ou serviços em causa, acima dos quais a exclusão e/ou a penalidade de preço obrigatória é aplicável, tendo em conta o disposto no acordo de comércio em causa e o nível de anulação ou redução;
+
+b) Determinar os setores ou as categorias de mercadorias, bens ou serviços abrangidos, e as derrogações aplicáveis;
+
+c) Determinar as autoridades ou entidades adjudicantes, ou as categorias de autoridades ou de entidades adjudicantes, repartidas por Estado-Membro, cujos contratos são abrangidos. Cada Estado-Membro deve apresentar uma lista de autoridades ou entidades adjudicantes, ou categorias de autoridades ou de entidades adjudicantes, que sirva de base para essa determinação. As medidas adotadas devem garantir que se atinja um nível adequado de suspensão das concessões ou de outras obrigações e uma repartição equitativa entre Estados-Membros.
+
+###### Artigo 6.º — Regras de origem
+
+1. A origem de uma mercadoria é determinada nos termos do Regulamento (CEE) n.º 2913/92.
+
+2.
+
+A origem de um serviço é determinada com base na origem da pessoa singular ou coletiva que o presta. Considera-se que a origem do prestador de serviços é:
+
+a) No caso de uma pessoa singular, o país de que a pessoa é nacional ou em cujo território goza de um direito de residência permanente;
+
+b) No caso de uma pessoa coletiva:
+
+i) Se o serviço for prestado em moldes diferentes de uma presença comercial na União, o país onde a pessoa coletiva está constituída ou organizada nos termos da legislação desse país e em cujo território realiza um volume significativo de operações comerciais;
+
+ii) Se o serviço for prestado através de uma presença comercial na União, o Estado-Membro em que a pessoa coletiva está estabelecida e em cujo território realiza um volume de operações comerciais de tal modo significativo que lhe permita ter um vínculo direto e efetivo com a economia desse Estado-Membro.
+
+Para efeitos do primeiro parágrafo, alínea b), subalínea ii), se a pessoa coletiva que presta o serviço não realizar um volume de operações comerciais de tal modo significativo que lhe permita ter um vínculo direto e efetivo com a economia do Estado-Membro em que está estabelecida, considera-se que a origem dessa pessoa coletiva é a origem das pessoas singulares ou coletivas que a detêm ou controlam.
+
+A pessoa coletiva que presta o serviço é considerada «detida» por pessoas de um determinado país se mais de 50 % do seu capital social estiver efetivamente na posse de pessoas desse país, e é considerada «controlada» por pessoas de um determinado país se essas pessoas tiverem o poder de nomear uma maioria de administradores seus ou estiverem juridicamente habilitadas a dirigir as suas operações.
+
+3. No que respeita aos aspetos dos direitos de propriedade intelectual relacionados com o comércio, o termo «nacionais» deve ser entendido como tendo o mesmo sentido que no artigo 1.º, n.º 3, do Acordo da OMC sobre os Aspetos dos Direitos de Propriedade Intelectual relacionados com o Comércio.
+
+###### Artigo 7.º — Suspensão, alteração e revogação das medidas
+
+1. Caso, após a adoção de um ato de execução nos termos do artigo 4.º, n.º 1, o país terceiro em causa conceda à União uma compensação adequada e proporcionada nos casos referidos no artigo 3.º, n.º 1, alíneas a) e b), a Comissão pode suspender a aplicação desse ato de execução durante o período de compensação. A suspensão deve ser decidida pelo procedimento de exame a que se refere o artigo 8.º, n.º 2.
+
+2.
+
+A Comissão revoga um ato de execução adotado nos termos do artigo 4.º, n.º 1:
+
+a) Nos casos em que o país terceiro cujas medidas se considerou infringirem as regras do comércio internacional num processo de resolução de litígios tenha passado a cumpri-las, ou em que se tenha encontrado outra solução mutuamente satisfatória;
+
+b) Nos casos de reequilíbrio de concessões ou de outras obrigações na sequência da adoção de uma medida de salvaguarda por um país terceiro, se a medida de salvaguarda tiver sido retirada ou tiver expirado, ou se o país terceiro em causa tiver concedido à União uma compensação adequada e proporcionada após a adoção de um ato de execução nos termos do artigo 4.º, n.º 1;
+
+c) Nos casos de retirada ou alteração de concessões ou compromissos por um membro da OMC ao abrigo do artigo XXVIII do GATT de 1994 ou do artigo XXI do GATS, se o país terceiro em causa tiver concedido à União uma compensação adequada e proporcionada após a adoção de um ato de execução nos termos do artigo 4.º, n.º 1.
+
+A revogação referida no primeiro parágrafo é decidida pelo procedimento de exame a que se refere o artigo 8.º, n.º 2.
+
+3. Caso seja necessário proceder a ajustamentos às medidas de política comercial adotadas ao abrigo do presente regulamento, e sem prejuízo do artigo 4.º, n.^os^ 2 e 3, a Comissão pode introduzir alterações adequadas pelo procedimento de exame a que se refere o artigo 8.º, n.º 2.
+
+4. Por imperativos de urgência devidamente justificados, relativos à cessação de vigência ou à alteração da medida do país terceiro em causa, a Comissão adota atos de execução imediatamente aplicáveis, a fim de suspender, alterar ou revogar os atos de execução adotados ao abrigo do artigo 4.º, n.º 1, como previsto no presente artigo, pelo procedimento a que se refere o artigo 8.º, n.º 3.
+
+###### Artigo 8.º — Procedimento de comité
+
+1. A Comissão é assistida pelo Comité criado pelo Regulamento (CE) n.º 3286/94. Este Comité deve ser entendido como comité na aceção do artigo 3.º do Regulamento (UE) n.º 182/2011.
+
+2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+Na falta de parecer do Comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011.
+
+3. Caso se faça referência ao presente número, aplica-se o artigo 8.º do Regulamento (UE) n.º 182/2011, em conjugação com o artigo 5.º do mesmo regulamento.
+
+###### Artigo 9.º — Recolha de informações
+
+1. No âmbito da aplicação do presente regulamento, a Comissão procura obter informações e opiniões sobre os interesses económicos da União em setores específicos de mercadorias, bens ou serviços, ou sobre aspetos específicos dos direitos de propriedade intelectual relacionados com o comércio, através de um aviso publicado no *Jornal Oficial da União Europeia* ou com recurso a outros meios de comunicação pública adequados, indicando o prazo dentro do qual esses elementos devem ser apresentados. A Comissão deve ter em conta os contributos recebidos.
+
+1-A.
+
+Sempre que a Comissão tiver previstas medidas ao abrigo do artigo 5.º, n.º 1, alíneas b-A) ou b-B), informa e procede a consultas com as partes informadas, nomeadamente as associações industriais afetadas por eventuais medidas de política comercial, e com as autoridades públicas dos Estados-Membros envolvidas na elaboração ou na aplicação de legislação que regulamente os domínios afetados. Sem retardar indevidamente a adoção de tais medidas, a Comissão procura, nomeadamente, obter informações sobre:
+
+a) O impacto dessas medidas sobre os prestadores de serviços de países terceiros ou os titulares de direitos que sejam nacionais do país terceiro em causa e sobre concorrentes, utilizadores ou consumidores da União desses serviços ou titulares de direitos de propriedade intelectual;
+
+b) A interação dessas medidas com os regulamentos pertinentes dos Estados-Membros;
+
+c) Os encargos administrativos que tais medidas possam originar.
+
+A Comissão tem na máxima conta as informações recolhidas durante essas consultas.
+
+Aquando da apresentação da sua proposta de projeto de ato de execução nos termos do artigo 8.º, a Comissão fornece aos Estados-Membros uma análise das medidas previstas.
+
+2. As informações recebidas ao abrigo do presente regulamento devem ser utilizadas exclusivamente para o fim para o qual foram solicitadas.
+
+3. Nem o Parlamento Europeu, nem o Conselho, nem a Comissão, nem os Estados-Membros, nem os respetivos funcionários podem divulgar as informações de caráter confidencial recebidas ao abrigo do presente regulamento, salvo autorização expressa de quem as forneceu.
+
+4. O fornecedor das informações pode solicitar que as informações prestadas sejam consideradas confidenciais. Nesses casos, deve acompanhá-las de um resumo não confidencial que as apresente em termos gerais ou de uma declaração sobre os motivos pelos quais as informações não podem ser apresentadas sob a forma de resumo.
+
+5. Caso se afigure que um pedido de tratamento confidencial não se justifica e o fornecedor das informações não queira torná-las públicas ou autorizar a sua divulgação em termos gerais ou sob a forma de resumo, as informações em questão podem não ser tidas em conta.
+
+6. Os n.^os^ 2 a 5 não impedem a divulgação de informações de caráter geral pelas instituições da União e pelas autoridades dos Estados-Membros. Essa divulgação deve ter em conta o interesse legítimo das partes em causa em proteger os seus segredos comerciais.
+
+###### Artigo 10.º — Revisão
+
+1. Logo que possível após 13 de fevereiro de 2021, no prazo de um ano após essa data, a Comissão avalia o âmbito de aplicação do presente regulamento, tendo em conta, especialmente, as medidas de política comercial que possam ser adotadas, bem como a sua aplicação, e informa o Parlamento Europeu e o Conselho das suas conclusões.
+
+2. Atuando nos termos do n.º 1, a Comissão procede a uma avaliação destinada a prever, no âmbito do presente regulamento, medidas adicionais de política comercial que suspendam as concessões ou outras obrigações no domínio dos aspetos dos direitos de propriedade intelectual relacionados com o comércio.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+## Declaração da Comissão
+
+A Comissão congratula se com a adoção do regulamento do Parlamento Europeu e do Conselho relativo ao exercício dos direitos da União para a aplicação e o cumprimento das regras de comércio internacionais, e que altera o Regulamento (CE) n.º 3286/94 do Conselho.
+
+Nos termos do regulamento, a Comissão pode adotar atos de execução em certas situações específicas, com base em critérios objetivos e sujeita ao controlo dos Estados-Membros. No exercício desse poder, a Comissão pretende agir em conformidade com a presente declaração.
+
+Ao preparar os projetos de atos de execução, a Comissão procederá a amplas consultas, com vista a garantir que todos os interesses pertinentes sejam tidos devidamente em conta. No âmbito dessas consultas, a Comissão espera receber os contributos das partes interessadas privadas afetadas por medidas de países terceiros ou por eventuais medidas de política comercial a adotar pela União. Do mesmo modo, a Comissão espera receber os contributos das autoridades públicas que possam estar envolvidas na execução de eventuais medidas de política comercial a adotar pela União. No caso de medidas no domínio dos contratos públicos, os contributos das autoridades públicas dos Estados Membros serão tidos em especial consideração aquando da preparação dos projetos de atos de execução.
+
+A Comissão reconhece a importância de os Estados-Membros receberem informações atempadas, quando ponderar a adoção de atos de execução nos termos do presente regulamento, de modo a que estes possam contribuir para a tomada de decisões com pleno conhecimento de causa, e agirá no sentido de alcançar esse objetivo.
+
+A Comissão confirma que irá transmitir sem demora ao Parlamento e ao Conselho os projetos de atos de execução que apresentar ao comité dos Estados-Membros. De igual modo, irá transmitir sem demora ao Parlamento e ao Conselho os projetos finais de atos de execução, no seguimento da formulação de pareceres no comité.
+
+A Comissão manterá o Parlamento e o Conselho regularmente informados dos desenvolvimentos internacionais que possam dar origem a situações que exijam a adoção de medidas ao abrigo do regulamento. Tal far-se-á através dos comités e comissões competentes do Conselho e do Parlamento.
+
+A Comissão acolhe positivamente a intenção do Parlamento de promover um diálogo estruturado sobre resolução de litígios e questões relacionadas com o cumprimento das regras, e empenhar-se-á inteiramente nas sessões organizadas para o efeito com a comissão parlamentar competente, a fim de trocar pontos de vista sobre litígios comerciais e ações de execução, incluindo no que respeita aos impactos sobre as indústrias da União.
+
+Por último, a Comissão confirma que considera muito importante garantir que o regulamento é um instrumento eficaz e eficiente de aplicação dos direitos da União ao abrigo de acordos de comércio internacionais, incluindo no domínio do comércio de serviços. Por conseguinte, a Comissão, em conformidade com as disposições do regulamento, irá rever o âmbito de aplicação do artigo 5.º, com vista a abranger medidas de política comercial adicionais relativas ao comércio de serviços, assim que estejam reunidas as condições para garantir a viabilidade e a eficácia dessas medidas.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/0730e92a-7b83-11eb-9ac9-01aa75ed71a1.0021.02/DOC_1#src.E0001)) Entendimento «Interpretação e Aplicação do artigo XXVIII».

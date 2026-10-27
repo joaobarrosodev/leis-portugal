@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:612383:por
+title: Despacho Normativo n.º 17/89
+short_title: null
+summary: Determina que as pessoas abrangidas pelas medidas de apoio financeiro previstas nos programas de apoio à criação
+  do próprio emprego (ACPE) e conservação do património cultural (CPC) promovidos pelo Instituto do Emprego e Formação Profissional
+  (IEFP) ficam obrigatoriamente enquadradas no regime de segurança social dos trabalhadores independentes
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 17/89
+official_date: null
+publication_date: '1989-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/1989, Série I de 1989-02-28
+  number: '49'
+  series: I
+  supplement: null
+  pages: 878 - 878
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04900/08780878.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '612383'
+  dre_path: /dr/detalhe/despacho-normativo/17-1989-612383
+  internal: pt:dre:612383:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1989-612383
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1989-612383
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0ec7258ab2f60b7b087d90084ac87047ef1d175683a00e508f35e5a40948aa23
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:42:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Jovem Trabalhador
+- Primeiro Emprego
+- Regime Geral da Segurança Social
+- Segurança Social
+- Trabalhador Independente
+relationships:
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666683:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:42:21Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 17/89
+
+O [Despacho Normativo n.º 37/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1987-666683), de 6 de Abril, consagra o enquadramento na Segurança Social das pessoas que beneficiem de apoios financeiros para a criação de actividades independentes que não sejam qualificadas como profissões liberais, apoiadas pelo Fundo Social Europeu, nos termos previstos no [Despacho Normativo n.º 19/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-1987-662565), de 19 de Fevereiro.
+
+O Instituto do Emprego e Formação Profissional (IEFP) é o organismo público a quem compete genericamente a execução das políticas de emprego e formação profissional definidas e aprovadas pelo Governo no âmbito do [Decreto-Lei n.º 247/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1985-182655), de 12 de Julho.
+
+Assim, e na prossecução das atribuições que lhe estão cometidas no artigo 4.º do citado decreto-lei, o IEFP promove programas que se traduzem no apoio à criação de actividades independentes após um período de formação profissional, incluindo formação em gestão, dirigidos a jovens com mais de 18 e menos de 25 anos à procura do primeiro emprego e a trabalhadores desempregados há mais de doze meses e com mais de 25 anos de idade, comparticipados pelo Fundo Social Europeu.
+
+Deste modo, cumpre dar igualdade de tratamento, em matéria de segurança social, a acções que concorrem, em paralelismo, para a prossecução dos mesmos fins.
+
+Nestes termos, determina-se o seguinte:
+
+1 - As pessoas abrangidas pelas medidas de apoio financeiro previstas, designadamente, nos programas de apoio à criação do próprio emprego (ACPE) e conservação do património cultural (CPC) promovidos pelo Instituto do Emprego e Formação Profissional (IEFP) ficam obrigatoriamente enquadradas no regime de segurança social dos trabalhadores independentes, com as especificidades constantes do [Despacho Normativo n.º 37/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1987-666683), de 6 de Abril.
+
+2 - Em tudo o que não se encontre especialmente estabelecido no [Despacho Normativo n.º 37/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1987-666683), de 6 de Abril, são aplicadas, subsidiáriamente, as normas vigentes para o regime de segurança social dos trabalhadores independentes.
+
+Ministério do Emprego e da Segurança Social, 27 de Janeiro de 1989. - O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.

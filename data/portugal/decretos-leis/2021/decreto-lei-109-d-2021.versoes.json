@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175659839:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-175743696",
+ "dre_path": "/dr/detalhe/decreto-lei/109-d-2021-175659839",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175743649",
+    "175743650",
+    "175743651",
+    "175743652",
+    "175743653",
+    "175743654",
+    "175743655",
+    "175743656",
+    "175743657",
+    "175743658",
+    "175743659",
+    "175743660",
+    "175743661",
+    "175743662",
+    "175743663",
+    "175743664",
+    "175743665",
+    "175743666",
+    "175743667",
+    "175743668",
+    "175743669"
+   ]
+  },
+  {
+   "date": "2024-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858631717:por",
+     "title": "Decreto-Lei n.º 28/2024",
+     "published": "2024-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2024-858631717"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "175743649",
+    "175743650",
+    "175743651",
+    "175743652",
+    "859194195",
+    "859194196",
+    "859194199",
+    "859194197",
+    "175743657",
+    "859194198",
+    "175743659",
+    "175743660",
+    "175743661",
+    "175743662",
+    "175743663",
+    "175743664",
+    "175743665",
+    "175743666",
+    "175743667",
+    "175743668",
+    "175743669",
+    "175743670"
+   ]
+  }
+ ],
+ "fragments": {
+  "175743649": {
+   "fragment_id": "175743697",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109-D/2021\n\nde 9 de dezembro\n\nSumário: Cria um regime de registo online de representações permanentes de sociedades com sede no estrangeiro e altera vários diplomas, transpondo parcialmente a Diretiva (UE) 2019/1151.\n\nO presente decreto-lei transpõe parcialmente para a ordem jurídica interna a Diretiva (UE) 2019/1151 do Parlamento Europeu e do Conselho, de 20 de junho de 2019 (Diretiva 2019/1151), que altera a Diretiva (UE) 2017/1132 no respeitante à utilização de ferramentas e procedimentos digitais no domínio do direito das sociedades.\n\nConcretizando o objetivo de proporcionar mais soluções digitais para as sociedades no mercado interno e tentando responder aos novos desafios económicos e sociais do mundo globalizado e digital, a Diretiva 2019/1151 introduz as garantias necessárias contra a fraude, a falsificação de documentos e outros abusos e prossegue interesses como a promoção do crescimento económico, a criação de emprego e a atração de investimentos para a União Europeia, o que contribui, no seu conjunto, para gerar valor económico e social para a sociedade em geral.\n\nCom efeito, a utilização de ferramentas e procedimentos digitais para iniciar uma atividade económica de forma mais fácil, rápida e rentável em termos de custos e de tempo através da constituição de uma sociedade ou da abertura de uma sucursal e o fornecimento de informações completas sobre as sociedades constituem, nos termos do direito da União Europeia, condições prévias para assegurar o funcionamento efetivo, a modernização e a racionalização administrativa de um mercado interno competitivo e a competitividade e fiabilidade das sociedades.\n\nA Diretiva 2019/1151 vem, pois, facilitar a constituição de sociedades e o registo de sucursais, bem como reduzir os custos, o tempo e os encargos administrativos associados a esses procedimentos, em especial para as micro, pequenas e médias empresas, não descurando os aspetos atinentes à utilização de serviços de confiança pelos utilizadores nacionais e estrangeiros, a garantia de fiabilidade e credibilidade dos documentos e das informações constantes dos registos nacionais e os controlos sobre a identidade e a capacidade jurídica das pessoas em causa. Por outro lado, incentivando os Estados-Membros à prestação de informações pela via digital, de forma concisa e facilmente acessível, sobre os procedimentos e as formalidades aplicáveis à constituição de sociedades de responsabilidade limitada, ao registo de sucursais e à própria apresentação de documentos e informações, fomenta esta apresentação integralmente em linha.\n\nEssencialmente por razões de transparência e de proteção dos interesses dos trabalhadores, dos credores e dos acionistas minoritários, e a fim de promover a confiança nas transações comerciais, incluindo as de natureza transnacional no mercado único, a Diretiva 2019/1151 incentiva, por seu turno, a prestação de informações sobre as sociedades a investidores, partes interessadas, parceiros comerciais e a autoridades em geral, que devem ser gratuitas e facilmente acessíveis.\n\nPara cumprimento parcial da Diretiva 2019/1151, o presente decreto-lei cria um regime de registo online de representações permanentes de sociedades, que abrange, nomeadamente, as que tenham sede noutro Estado-Membro da União Europeia, denominado «sucursal online». Com este novo regime pretende-se, em particular, ajudar as sociedades estabelecidas no mercado interno a expandirem mais facilmente as suas atividades económicas além-fronteiras, contribuindo assim para reduzir os custos, os encargos administrativos e a duração dos procedimentos relacionados com a expansão a nível internacional, sem se descurar a necessária troca de informações entre os Estados-Membros, com observância dos requisitos técnicos definidos pelo Direito da União.\n\nPor outro lado, o presente decreto-lei altera vários diplomas legislativos, adaptando-os à Diretiva 2019/1151, mormente no que toca à constituição online de sociedades já implementada. Aproveita-se o ensejo para acolher a exigência de declaração de aceitação do cargo de gerência e administração.\n\nPor fim, tendo em vista a concretização da medida Simplex «Endereço eletrónico na certidão», estabelece-se a possibilidade de os interessados, querendo, no momento do pedido de registo de factos referentes a sociedade, facultarem endereços de correio eletrónico de modo a que fiquem a constar do registo e, subsequentemente, possam ser conhecidos através da certidão de registo.\n\nForam ouvidos o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, a Ordem dos Advogados, a Ordem dos Solicitadores e dos Agentes de Execução, a Ordem dos Notários e a Comissão Nacional da Proteção de Dados.\n\nFoi promovida a audição do Conselho Superior do Ministério Público.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175743650": {
+   "fragment_id": "175743698",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "175743651": {
+   "fragment_id": "175743699",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei transpõe parcialmente para a ordem jurídica interna a Diretiva (UE) 2019/1151 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que altera a Diretiva (UE) 2017/1132 no respeitante à utilização de ferramentas e procedimentos digitais no domínio do direito das sociedades, procedendo:\n\na) À criação de um regime de registo online de representações permanentes com simultânea nomeação do representante, de sociedades com sede no estrangeiro, denominado «sucursal online»;\n\nb) À alteração ao Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro, na sua redação atual;\n\nc) À alteração ao Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro, na sua redação atual;\n\nd) À alteração ao Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na sua redação atual;\n\ne) À alteração ao Decreto-Lei n.º 125/2006, de 29 de junho, na sua redação atual, que criou a «empresa on-line», através de um regime especial de constituição online de sociedades comerciais e civis sob forma comercial, e a «marca na hora»;\n\nf) À alteração ao Decreto-Lei n.º 24/2019, de 1 de fevereiro, que estabelece as regras aplicáveis ao acesso e intercâmbio de informação entre o registo comercial nacional e os registos comerciais de outros Estados-Membros da União Europeia."
+  },
+  "175743652": {
+   "fragment_id": "175743700",
+   "type": 1,
+   "heading": "Capítulo II — Regime de registo online de representações permanentes de sociedades com sede no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime de registo online de representações permanentes de sociedades com sede no estrangeiro"
+  },
+  "175743653": {
+   "fragment_id": "175743701",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nÉ criado um regime de registo online de representações permanentes de sociedades de responsabilidade limitada com sede no estrangeiro, através de sítio na Internet a definir por portaria do membro do Governo responsável pela área da justiça, ao qual se aplica, em tudo o que não se encontre disposto nos artigos seguintes, e com as necessárias adaptações, os artigos 3.º e 4.º, os n.os 1 e 4 do artigo 5.º, os artigos 7.º, 14.º-B, 15.º, 16.º e 17.º-A do Decreto-Lei n.º 125/2006, de 29 de junho, na sua redação atual, e respetiva regulamentação."
+  },
+  "175743654": {
+   "fragment_id": "175743702",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido online",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido online\n\n1 - Os interessados no registo online de representações permanentes de sociedades com sede no estrangeiro formulam o seu pedido online, efetuando, entre outros atos que se mostrem necessários, o pagamento, através de meios eletrónicos, dos encargos que se mostrem devidos.\n\n2 - Para o registo de criação de representação permanente e para o registo da designação e poderes dos respetivos representantes, os interessados devem enviar, através do sítio na Internet a que se refere o artigo anterior, entre outros que se venham a mostrar necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua legitimidade para o ato;\n\nb) Documento comprovativo da existência jurídica da sociedade que cria a representação permanente, quando não se trate de sociedade com sede num Estado-Membro;\n\nc) Documento comprovativo da deliberação da sociedade representada que aprova a criação da representação permanente, o seu objeto, a sua denominação, o local da representação, o capital afeto quando exigível e a data de encerramento do exercício social;\n\nd) Documento comprovativo da designação dos representantes da representação permanente e respetivos poderes e, quando deste não constem, declaração da aceitação da designação e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo;\n\ne) Cópia do contrato de sociedade da sociedade representada, completo e atualizado;\n\nf) Documento comprovativo da existência jurídica da sociedade representada.\n\n3 - Os interessados podem formular, através do sítio na Internet a que se refere o artigo anterior, pedidos de registo relativos a factos posteriores à criação da representação permanente, devendo enviar os documentos que comprovem os factos a registar.\n\n4 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de registo online de representações permanentes de sociedades com sede noutro Estado-Membro da União Europeia os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel."
+  },
+  "175743655": {
+   "fragment_id": "175743703",
+   "type": 11,
+   "heading": "Artigo 4.º — Validação e apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Validação e apreciação do pedido\n\n1 - O pedido de registo online de representações permanentes de sociedades com sede no estrangeiro só é considerado validamente apresentado após a emissão pelo sistema de informação de um comprovativo eletrónico, que indique a data e a hora da submissão do pedido, por referência à hora do meridiano de Greenwich, indicada pelo acrónimo UTC (Coordinated Universal Time).\n\n2 - Emitido o comprovativo eletrónico referido no número anterior, o serviço competente, após confirmação do pagamento efetuado pelos interessados, aprecia o pedido de registo da representação permanente, procedendo às diligências subsequentes, sem prejuízo do disposto no número seguinte.\n\n3 - O serviço competente convida os interessados a enviar, preferencialmente através do sítio na Internet a que se refere o artigo 2.º e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles constem."
+  },
+  "175743656": {
+   "fragment_id": "175743704",
+   "type": 11,
+   "heading": "Artigo 5.º — Diligências subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diligências subsequentes\n\n1 - O serviço competente pode verificar as informações sobre a sociedade representada com sede noutro Estado-Membro através do sistema de interconexão dos registos regulado no Decreto-Lei n.º 24/2019, de 1 de fevereiro.\n\n2 - Efetuada a verificação inicial da identidade e da legitimidade dos interessados para o ato, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes atos:\n\na) Registo da representação permanente e da designação dos respetivos representantes, que é imediatamente comunicado aos interessados através do sítio na Internet a que se refere o artigo 2.º;\n\nb) Comunicação automática e eletrónica da criação da representação permanente ao ficheiro central de pessoas coletivas e codificação da atividade económica;\n\nc) Promoção das publicações legais dos atos de registo referidos na alínea a), as quais se efetuam automaticamente e por via eletrónica;\n\nd) Comunicação aos interessados do número de identificação da representação permanente na segurança social;\n\ne) Comunicação aos interessados do código de acesso ao cartão eletrónico da empresa e envio posterior do cartão da empresa a título gratuito;\n\nf) Disponibilização gratuita de código de acesso à certidão permanente da representação permanente pelo período de três meses;\n\ng) Disponibilização aos serviços competentes, por via eletrónica, dos dados necessários para o controlo das obrigações tributárias à administração tributária, dos dados necessários para efeitos de comunicação do início de atividade da representação permanente à Autoridade para as Condições do Trabalho, bem como dos dados necessários à inscrição oficiosa da sociedade nos serviços de segurança social e, quando for o caso, no cadastro comercial.\n\n3 - Para os efeitos previstos na alínea g) do número anterior, os serviços da administração tributária devem notificar, por via eletrónica, os serviços de segurança social dos elementos relativos ao início de atividade.\n\n4 - A firma ou denominação constante da matrícula da representação permanente deve incluir a designação «representação permanente» ou «sucursal», a escolher pelos interessados.\n\n5 - O serviço competente regista a criação da representação permanente no prazo de 10 dias a contar da data de conclusão de todas as formalidades, assim como os restantes factos relativos à representação permanente.\n\n6 - Caso não seja possível efetuar o registo no prazo a que se refere o número anterior, o serviço competente notifica o requerente por via eletrónica dos motivos do atraso.\n\n7 - Aos pedidos de registo relativos à representação permanente que sejam apresentados posteriormente aplica-se o disposto nos n.os 1, 2, 5 e 6, com as necessárias adaptações."
+  },
+  "175743657": {
+   "fragment_id": "175743705",
+   "type": 11,
+   "heading": "Artigo 6.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Encargos\n\n1 - Pelo registo online de criação de representações permanentes de sociedades com sede noutro no estrangeiro e pelo registo online dos demais factos relativos às representações permanentes são devidos os emolumentos previstos no Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na sua redação atual.\n\n2 - Não são devidos emolumentos pessoais pelo procedimento regulado pelo presente decreto-lei."
+  },
+  "175743658": {
+   "fragment_id": "175743706",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nSão determinados por portaria do membro do Governo responsável pela área da justiça:\n\na) O endereço, as funcionalidades e as regras de funcionamento do sítio na Internet referido no artigo 2.º, desenvolvido de acordo com os requisitos técnicos previstos na Resolução do Conselho de Ministros n.º 41/2018, de 28 de março;\n\nb) Os requisitos e as condições de utilização da autenticação eletrónica e da assinatura eletrónica na indicação dos dados e na entrega de documentos no referido sítio."
+  },
+  "175743659": {
+   "fragment_id": "175743707",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "175743660": {
+   "fragment_id": "175743708",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Código das Sociedades Comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Código das Sociedades Comerciais\n\nOs artigos 252.º, 391.º, 425.º e 435.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 252.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Para efeitos de registo da designação dos gerentes, deve ser apresentado documento comprovativo da designação e, quando deste não constem, declaração de aceitação da designação e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)\n\nArtigo 391.º\n\n[...]\n\n1 - ...\n\n2 - Para efeitos de registo da designação dos administradores, deve ser apresentado documento comprovativo da designação e, quando deste não constem, declaração de aceitação da designação e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)\n\n8 - (Anterior n.º 7.)\n\nArtigo 425.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Os administradores não podem fazer-se representar no exercício do seu cargo, sendo-lhes aplicável, todavia, o disposto no n.º 8 do artigo 391.º e no n.º 5 do artigo 410.º\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\nArtigo 435.º\n\n[...]\n\n1 - ...\n\n2 - À designação dos membros do conselho geral e de supervisão aplica-se o disposto nos n.os 3 a 6 do artigo 391.º\n\n3 - ...»"
+  },
+  "175743661": {
+   "fragment_id": "175743709",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Código do Registo Comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Código do Registo Comercial\n\nOs artigos 10.º-A, 40.º, 67.º-B, 72.º-B, 74.º e 78.º-D do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 10.º-A\n\n[...]\n\n1 - ...\n\na) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou denominação, à sede e à natureza jurídica da sociedade;\n\nb) [Anterior alínea a).]\n\nc) [Anterior alínea b).]\n\n2 - ...\n\nArtigo 40.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Para efeitos de registo da designação dos representantes, deve ser apresentado documento comprovativo da designação e respetivos poderes e, quando deste não constem, declaração de aceitação da designação e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo.\n\n4 - (Anterior n.º 3.)\n\nArtigo 67.º-B\n\n[...]\n\n1 - O registo definitivo de criação e encerramento de representação permanente de sociedade portuguesa por quotas, anónima e em comandita por ações, efetuado noutro Estado-Membro e comunicado através do sistema de interconexão dos registos da União Europeia, determina o registo oficioso desse facto no registo comercial nacional.\n\n2 - Os registos definitivos dos factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência, bem como o cancelamento da matrícula, quando respeitantes a sociedades por quotas, anónimas e em comandita por ações com representações permanentes registadas noutros Estados-Membros são comunicados ao registo competente do Estado-Membro do local da representação através do sistema de interconexão dos registos da União Europeia.\n\nArtigo 72.º-B\n\nDisponibilização de informação\n\n1 - Para simples consulta, é oficiosa e gratuitamente disponibilizada no Portal Europeu da Justiça Eletrónica a seguinte informação sobre as sociedades por quotas, anónimas e em comandita por ações, bem como sobre as representações permanentes e sucursais financeiras exteriores de sociedades de responsabilidade limitada com sede noutro Estado-Membro:\n\na) Natureza jurídica;\n\nb) Firma;\n\nc) Sede das pessoas coletivas inscritas no registo comercial.\n\nd) Número de identificação de pessoa coletiva e o seu identificador único europeu (EUID);\n\ne) Estado da sociedade, nomeadamente que se encontra encerrada, em situação de liquidação ou de dissolução;\n\nf) Objeto da sociedade;\n\ng) Representantes legais e outras pessoas que podem agir em nome da sociedade;\n\nh) Qualquer representação permanente registada pela sociedade noutro Estado-Membro, incluindo a denominação, o número de registo, o EUID e o Estado-Membro onde está registada.\n\n2 - No sítio na Internet a definir por portaria do membro do Governo responsável pela área da justiça é disponibilizada uma síntese explicativa das normas respeitantes à oponibilidade a terceiros dos factos sujeitos a registo.\n\nArtigo 74.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - As cópias não certificadas podem ser disponibilizadas em suporte eletrónico, em termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\nArtigo 78.º-D\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Número do documento de identificação;\n\nf) [Anterior alínea e).]\n\ng) Endereço eletrónico, quando facultado.\n\n3 - ...\n\n4 - ...»"
+  },
+  "175743662": {
+   "fragment_id": "175743710",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado\n\nO artigo 22.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 22.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de representantes, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;\n\n4.2 - ...\n\n4.3 - ...\n\n5 - ...\n\n5.1 - ...\n\n5.2 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - ...\n\n21 - ...\n\n22 - ...\n\n23 - ...\n\n24 - ...\n\n25 - ...\n\n26 - ...»"
+  },
+  "175743663": {
+   "fragment_id": "175743711",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 125/2006, de 29 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 125/2006, de 29 de junho\n\nOs artigos 3.º, 5.º, 6.º, 7.º, 10.º, 11.º e 16.º do Decreto-Lei n.º 125/2006, de 29 de junho, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - O procedimento de constituição de sociedades ao abrigo do regime a que se refere o artigo 1.º é da competência do Registo Nacional de Pessoas Coletivas (RNPC) e das demais conservatórias do registo comercial que sejam determinadas por despacho do presidente do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).\n\n2 - (Revogado.)\n\nArtigo 5.º\n\nAutenticação e assinatura eletrónicas\n\n1 - A indicação dos dados e a entrega de documentos no sítio na Internet efetuam-se mediante prévia autenticação eletrónica no sítio na Internet a que se refere o artigo 1.º e, quando não seja dispensada, mediante aposição de assinatura eletrónica, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - (Revogado.)\n\n3 - ...\n\n4 - Nos casos em que os interessados sejam cidadãos de outros Estados-Membros da União Europeia, é admissível a utilização de meios de identificação eletrónica emitidos noutros Estados-Membros, desde que reconhecidos para efeitos de autenticação transfronteiriça, nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, e da portaria a que se refere o n.º 1.\n\nArtigo 6.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Opção por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., ou por envio do pacto ou do ato constitutivo por si elaborado;\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Declaração de aceitação dos gerentes ou administradores das sociedades por quotas ou anónimas, respetivamente, e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo, quando não constem do pacto ou do ato constitutivo a que se refere a alínea c) do n.º 1.\n\n5 - ...\n\n6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel.\n\n7 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, devendo enviar os documentos que comprovem os factos a registar.\n\nArtigo 7.º\n\nIntervenção de advogados, solicitadores e notários\n\n1 - Os advogados, solicitadores e notários que se autentiquem através de meios de autenticação eletrónica previstos na portaria a que se refere o n.º 1 do artigo 5.º enviam, através do sítio na Internet, o pacto ou o ato constitutivo da sociedade assinado eletronicamente pelos seus subscritores ou com as assinaturas dos seus subscritores reconhecidas presencialmente.\n\n2 - Para o efeito previsto no número anterior, os advogados, os solicitadores e os notários reconhecem presencialmente as assinaturas dos subscritores do pacto ou do ato constitutivo, certificando a sua identidade e, se for esse o caso, a sua capacidade e os seus poderes de representação, e ainda que os mesmos manifestaram a sua vontade em constituir a sociedade.\n\n3 - A apresentação de reconhecimento nos termos dos números anteriores por advogado ou solicitador dispensa o registo em sistema informático previsto no n.º 3 do artigo 38.º do Decreto-Lei n.º 76-A/2006, de 29 de março, na sua redação atual.\n\n4 - (Revogado.)\n\n5 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - O pedido de constituição online da sociedade só é considerado validamente apresentado após a emissão pelo sistema de informação de um comprovativo eletrónico, que indique a data e a hora da submissão do pedido, por referência à hora do meridiano de Greenwich, indicada pelo acrónimo UTC (Coordinated Universal Time).\n\n2 - ...\n\nArtigo 11.º\n\n[...]\n\n1 - ...\n\n2 - O serviço competente convida os interessados a enviar, através do sítio na Internet a que se refere o artigo 1.º e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles constem.\n\n3 - Se os interessados tiverem optado por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., e não se mostre necessária a entrega dos documentos referidos nas alíneas b) e c) do n.º 4 do artigo 6.º, o serviço competente procede a todas as diligências subsequentes previstas no artigo seguinte no prazo de cinco dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.\n\n4 - Nas restantes situações, o serviço competente procede a todas as diligências subsequentes previstas no artigo seguinte no prazo de 10 dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.\n\n5 - Caso não seja possível efetuar o registo no prazo a que se refere o número anterior, o serviço competente notifica os interessados por via eletrónica dos motivos do atraso.\n\n6 - Aos pedidos de registo relativos à sociedade que sejam apresentados em momento posterior à constituição da sociedade aplica-se o disposto nos n.os 2, 4 e 5, com as necessárias adaptações.\n\nArtigo 16.º\n\n[...]\n\n1 - Podem ser celebrados protocolos entre o IRN, I. P., e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades, com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - O IRN, I. P., pode ainda celebrar protocolos com a Autoridade Tributária e Aduaneira e com a Ordem dos Contabilistas Certificados, com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de atividade e posterior comprovação destes factos.»"
+  },
+  "175743664": {
+   "fragment_id": "175743712",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração ao Decreto-Lei n.º 24/2019, de 1 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao Decreto-Lei n.º 24/2019, de 1 de fevereiro\n\nOs artigos 6.º e 10.º do Decreto-Lei n.º 24/2019, de 1 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n1 - O registo comercial nacional notifica, através do Sistema de Interconexão, ao registo competente do Estado-Membro onde esteja registada representação permanente de sociedade portuguesa:\n\na) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou denominação, à sede e à natureza jurídica da sociedade;\n\nb) Os factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência;\n\nc) O cancelamento do registo da sociedade.\n\n2 - ...\n\n3 - O registo comercial nacional comunica, através do Sistema de Interconexão, ao registo competente do Estado Membro onde esteja registada a sociedade representada o registo de criação e o registo de encerramento da representação permanente.\n\n4 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na sociedade.\n\n5 - (Anterior n.º 4.)\n\nArtigo 10.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) Número de identificação de pessoa coletiva e o seu identificador único europeu (EUID);\n\nd) Estado da sociedade, nomeadamente que se encontra encerrada, em situação de liquidação ou de dissolução;\n\ne) Objeto da sociedade;\n\nf) Representantes legais e outras pessoas que podem agir em nome da sociedade;\n\ng) Sobre qualquer representação permanente registada pela sociedade noutro Estado-Membro, incluindo a denominação, o número de registo, o EUID e o Estado-Membro onde está registada.»"
+  },
+  "175743665": {
+   "fragment_id": "175743713",
+   "type": 11,
+   "heading": "Artigo 13.º — Aditamento ao Decreto-Lei n.º 125/2006, de 29 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aditamento ao Decreto-Lei n.º 125/2006, de 29 de junho\n\nSão aditados ao Decreto-Lei n.º 125/2006, de 29 de junho, na sua redação atual, os artigos 14.º-B e 17.º-A, com a seguinte redação:\n\n«Artigo 14.º-B\n\nApresentação subsequente de documentos e informações\n\nO sítio na Internet previsto no artigo 1.º permite a entrega de documentos e a prestação de informações subsequentemente à constituição da sociedade.\n\nArtigo 17.º-A\n\nDisponibilização de informação\n\n1 - O sítio na Internet referido no artigo 1.º disponibiliza informação sobre o procedimento de constituição de sociedades ao abrigo do regime instituído pelo presente decreto-lei em linguagem clara, em língua portuguesa e em língua inglesa.\n\n2 - A informação disponibilizada abrange, pelo menos, o seguinte:\n\na) Uma descrição do procedimento de constituição de sociedades, incluindo o procedimento de constituição online;\n\nb) Os modelos, em língua portuguesa e em língua inglesa, e os requisitos relativos à sua utilização;\n\nc) Os requisitos relativos a outros documentos relacionados com a constituição da sociedade, à identificação de pessoas e à utilização de línguas estrangeiras;\n\nd) As taxas aplicáveis e o respetivo modo de pagamento;\n\ne) Uma síntese explicativa das normas aplicáveis relativas à designação de um membro de um órgão de administração, de gestão ou de fiscalização de uma sociedade, incluindo das normas relativas à inibição de administradores ou gerentes;\n\nf) Uma síntese dos poderes e das responsabilidades do órgão de administração, do órgão de gestão e do órgão de fiscalização da sociedade, incluindo o poder de representação da sociedade nas relações com terceiros, e síntese dos poderes e das responsabilidades do representante da sucursal.»"
+  },
+  "175743666": {
+   "fragment_id": "175743714",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "175743667": {
+   "fragment_id": "175743715",
+   "type": 11,
+   "heading": "Artigo 14.º — Digitalização de documentos respeitantes aos atos submetidos a registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Digitalização de documentos respeitantes aos atos submetidos a registo\n\n1 - Os documentos respeitantes aos atos submetidos a registo que tenham sido arquivados em suporte de papel a partir de 1 de janeiro de 2007 e não se encontrem ainda em suporte eletrónico são digitalizados e arquivados na pasta eletrónica das entidades inscritas no registo comercial.\n\n2 - Os documentos respeitantes aos atos submetidos a registo que tenham sido arquivados em suporte de papel até 31 de dezembro de 2006 e não se encontrem ainda em suporte eletrónico são digitalizados e arquivados na respetiva pasta eletrónica, após receção de um pedido de registo relativo a entidade inscrita no registo comercial."
+  },
+  "175743668": {
+   "fragment_id": "175743716",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados o n.º 2 do artigo 3.º, o n.º 2 do artigo 5.º, o n.º 4 do artigo 7.º e o artigo 9.º do Decreto-Lei n.º 125/2006, de 29 de junho, na sua redação atual."
+  },
+  "175743669": {
+   "fragment_id": "175743717",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "859194195": {
+   "fragment_id": "175743701",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nÉ criado um regime de registo online de representações permanentes de sociedades de responsabilidade limitada com sede no estrangeiro, através de sítio na Internet a definir por portaria do membro do Governo responsável pela área da justiça, ao qual se aplica, em tudo o que não se encontre disposto nos artigos seguintes, e com as necessárias adaptações, os artigos 3.º e 4.º, o n.º 1 do artigo 5.º e os artigos 7.º, 14.º-B, 15.º, 16.º e 17.º-A do Decreto-Lei n.º 125/2006, de 29 de junho, na sua redação atual, e respetiva regulamentação.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  },
+  "859194196": {
+   "fragment_id": "175743702",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - Os interessados no registo online de representações permanentes de sociedades com sede no estrangeiro formulam o seu pedido online, através do sítio na Internet a que se refere o artigo anterior.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  },
+  "859194199": {
+   "fragment_id": "175743703",
+   "type": 11,
+   "heading": "Artigo 4.º — Validação e apreciação do pedido",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 4.º — Validação e apreciação do pedido\n\n1 - O pedido de registo online de representações permanentes de sociedades com sede no estrangeiro só é considerado validamente apresentado após a emissão pelo sistema de informação de um comprovativo eletrónico, que indique a data e a hora da submissão do pedido, por referência à hora do meridiano de Greenwich, indicada pelo acrónimo UTC (Coordinated Universal Time).\n\n2 - Emitido o comprovativo eletrónico referido no número anterior, o serviço competente, após confirmação do pagamento efetuado pelos interessados, aprecia o pedido de registo da representação permanente, procedendo às diligências subsequentes, sem prejuízo do disposto no número seguinte.\n\n3 - O serviço competente convida os interessados a enviar, preferencialmente através do sítio na Internet a que se refere o artigo 2.º e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles constem.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  },
+  "859194197": {
+   "fragment_id": "175743704",
+   "type": 11,
+   "heading": "Artigo 5.º — Diligências subsequentes",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 5.º — Diligências subsequentes\n\n1 - O serviço competente pode verificar as informações sobre a sociedade representada com sede noutro Estado-Membro através do sistema de interconexão dos registos regulado no Decreto-Lei n.º 24/2019, de 1 de fevereiro.\n\n2 - O serviço competente convida os interessados a enviar, através do sítio na Internet e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles devam constar.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O serviço competente procede ao registo da representação permanente e da designação dos respetivos representantes, bem como às diligências subsequentes, no prazo de 10 dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues os documentos previstos na portaria a que se refere o artigo 2.º\n\n6 - Caso não seja possível efetuar o registo no prazo a que se refere o número anterior, o serviço competente notifica o requerente por via eletrónica dos motivos do atraso.\n\n7 - Após a disponibilização aos serviços competentes dos dados necessários ao controlo das obrigações da representação permanente por parte da administração tributária, os serviços da administração tributária devem notificar, por via eletrónica, os serviços de segurança social dos elementos relativos ao início de atividade.\n\n8 - Os interessados podem formular pedidos de registo relativos a factos posteriores à criação da representação permanente, nos termos previstos no Código do Registo Comercial e respetiva regulamentação.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  },
+  "859194198": {
+   "fragment_id": "175743706",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nSão determinados por portaria do membro do Governo responsável pela área da justiça:\n\na) O endereço, as funcionalidades e as regras de funcionamento do sítio na Internet referido no artigo 2.º, desenvolvido de acordo com os requisitos técnicos previstos na Resolução do Conselho de Ministros n.º 41/2018, de 28 de março;\n\nb) O procedimento de registo online de representações permanentes, designadamente os requisitos e as condições de utilização da autenticação eletrónica e da assinatura eletrónica, os documentos a entregar, a receção e validação do pedido, os atos, comunicações e notificações a efetuar, bem como os respetivos prazos de prática dos mesmos.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  },
+  "175743670": {
+   "fragment_id": "175743718",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de novembro de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Nuno Marques de Carvalho Mendes - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 7 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de dezembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114802453"
+  }
+ }
+}

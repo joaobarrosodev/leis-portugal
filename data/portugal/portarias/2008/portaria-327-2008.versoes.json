@@ -1,0 +1,313 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249564:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-70926279",
+ "dre_path": "/dr/detalhe/portaria/327-2008-249564",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-04-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70922887",
+    "70922888",
+    "70922889",
+    "70922890",
+    "70922891",
+    "70922892",
+    "70922893",
+    "70922894",
+    "70922895",
+    "70922896"
+   ]
+  },
+  {
+   "date": "2015-09-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70386134:por",
+     "title": "Portaria n.º 309/2015",
+     "published": "2015-09-25",
+     "dre_path": "/dr/detalhe/portaria/309-2015-70386134"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "70922887",
+    "70947576",
+    "70947577",
+    "70947578",
+    "70947579",
+    "70961175",
+    "70961176",
+    "70961177",
+    "70961178",
+    "70961179",
+    "70961180",
+    "70961181",
+    "70961182",
+    "70961183",
+    "70961184"
+   ]
+  },
+  {
+   "date": "2017-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107596685:por",
+     "title": "Decreto-Lei n.º 80/2017",
+     "published": "2017-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/80-2017-107596685"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-A"
+   ],
+   "fragments": [
+    "70922887",
+    "70947576",
+    "70947577",
+    "70947578",
+    "70947579",
+    "107618580",
+    "70961176",
+    "70961177",
+    "70961178",
+    "70961179",
+    "70961180",
+    "70961181",
+    "70961182",
+    "70961183",
+    "70961184"
+   ]
+  }
+ ],
+ "fragments": {
+  "70922887": {
+   "fragment_id": "70926280",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 327/2008\n\nde 28 de Abril\n\nO Decreto-Lei n.º 39/2008, de 7 de Março, que aprovou o novo regime jurídico dos empreendimentos turísticos, veio alterar de forma profunda o quadro legal que regia o processo de instalação, exploração e funcionamento desses empreendimentos.\n\nA alteração legislativa efectuada incidiu sobre as várias fases do processo de instalação dos empreendimentos turísticos, tendo sido particularmente inovadora no que respeita ao processo de classificação.\n\nNão obstante se ter mantido um sistema de classificação obrigatório, este é agora mais flexível e deixa de atender especialmente aos requisitos físicos das instalações para passar a reflectir igualmente a qualidade dos serviços prestados. Assim o determina o artigo 35.º do mencionado diploma, ao referir que os estabelecimentos hoteleiros, os aldeamentos e os apartamentos turísticos se classificam nas categorias de 1 a 5 estrelas, atendendo à qualidade do serviço e das instalações, de acordo com os requisitos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas do turismo e do ordenamento do território.\n\nÉ na sequência da mencionada disposição legal que se torna agora necessário estabelecer os requisitos específicos da instalação, classificação e funcionamento daqueles empreendimentos turísticos para que, mediante o seu cumprimento, possam ser classificados numa das categorias previstas.\n\nAssim:\n\nAo abrigo do artigo 35.º do Decreto-Lei n.º 39/2007, de 7 de Março, manda o Governo, pelo Secretário de Estado do Ordenamento do Território e das Cidades e pelo Secretário de Estado do Turismo, o seguinte:"
+  },
+  "70922888": {
+   "fragment_id": "70926281",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o sistema de classificação dos seguintes tipos de empreendimentos turísticos:\n\na) Estabelecimentos hoteleiros;\n\nb) Aldeamentos turísticos;\n\nc) Apartamentos turísticos."
+  },
+  "70922889": {
+   "fragment_id": "70926282",
+   "type": 11,
+   "heading": "Artigo 2.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Classificação\n\nOs empreendimentos turísticos referidos no artigo anterior são classificados na respectiva tipologia e grupo, nas categorias de 1 a 5 estrelas, de acordo com o estabelecido no Decreto-Lei n.º 39/2008, de 7 de Março, e em função do cumprimento dos requisitos previstos na presente portaria."
+  },
+  "70922890": {
+   "fragment_id": "70926283",
+   "type": 11,
+   "heading": "Artigo 3.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Categorias\n\n1 - Os estabelecimentos hoteleiros classificam-se nas categorias de 1 a 5 estrelas, de acordo com os requisitos constantes do anexo i à presente portaria, que dela faz parte integrante.\n\n2 - Os aldeamentos turísticos e os apartamentos turísticos classificam-se nas categorias de 3 a 5 estrelas, de acordo com os requisitos constantes, respectivamente, dos anexos ii e iii à presente portaria, que dela fazem parte integrante."
+  },
+  "70922891": {
+   "fragment_id": "70926284",
+   "type": 11,
+   "heading": "Artigo 4.º — Sistema de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sistema de classificação\n\n1 - Sem prejuízo do cumprimento do disposto no artigo seguinte, são fixados requisitos mínimos obrigatórios para cada categoria e requisitos opcionais.\n\n2 - Para cada requisito opcional é fixado um determinado número de pontos.\n\n3 - A atribuição de uma categoria pressupõe o cumprimento dos requisitos obrigatórios, bem como a obtenção da pontuação em requisitos opcionais fixada para a mesma.\n\n4 - Após a atribuição da classificação do empreendimento turístico resultante da auditoria realizada nos termos do artigo 36.º do Decreto-Lei n.º 39/2008, de 7 de Março, podem ser alterados os requisitos opcionais dos empreendimentos, escolhidos para a obtenção da pontuação obrigatória, mediante comunicação ao Turismo de Portugal, I. P."
+  },
+  "70922892": {
+   "fragment_id": "70926285",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos obrigatórios comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos obrigatórios comuns\n\nOs empreendimentos turísticos previstos no artigo 1.º devem possuir os seguintes equipamentos e características:\n\na) Apresentar adequadas condições de higiene e limpeza, conservação e funcionamento das instalações e equipamentos;\n\nb) Insonorização de toda a maquinaria geradora de ruídos em zonas de clientes, em especial ascensores e sistemas de ar condicionado;\n\nc) Sistema de armazenamento de lixos quando não exista serviço público de recolha;\n\nd) Sistema de iluminação de segurança, de acordo com o disposto na legislação aplicável;\n\ne) Sistema de prevenção de riscos de incêndio de acordo com o disposto em diploma próprio;\n\nf) Água corrente quente e fria;\n\ng) Telefone ligado à rede exterior, quando estiver disponível o respectivo serviço público."
+  },
+  "70922893": {
+   "fragment_id": "70926286",
+   "type": 11,
+   "heading": "Artigo 6.º — Classificação das pousadas e estabelecimentos hoteleiros instalados em edifícios classificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Classificação das pousadas e estabelecimentos hoteleiros instalados em edifícios classificados\n\n1 - As pousadas instaladas em edifícios classificados como monumentos nacionais ou de interesse público devem obter a pontuação exigida para os hotéis de 4 estrelas.\n\n2 - As pousadas instaladas em edifícios classificados de interesse regional ou municipal ou em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época devem obter a pontuação exigida para os hotéis de 3 estrelas.\n\n3 - Os estabelecimentos hoteleiros instalados em edifícios classificados como monumentos nacionais, de interesse público, de interesse regional ou municipal, ou em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época poderão ser dispensados dos requisitos mínimos obrigatórios se esses requisitos se revelarem susceptíveis de afectar as características arquitectónicas ou estruturais dos edifícios."
+  },
+  "70922894": {
+   "fragment_id": "70926287",
+   "type": 11,
+   "heading": "Artigo 7.º — Áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Áreas\n\nAs áreas mínimas estabelecidas na presente portaria não se aplicam aos empreendimentos turísticos que já tenham projecto de arquitectura aprovado à data da sua entrada em vigor."
+  },
+  "70922895": {
+   "fragment_id": "70926288",
+   "type": 11,
+   "heading": "Artigo 8.º — Aldeamentos turísticos e conjuntos turísticos (resorts)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aldeamentos turísticos e conjuntos turísticos (resorts)\n\nNas situações de atravessamento de aldeamentos e conjuntos turísticos (resorts) por estradas e caminhos municipais, linhas ferroviárias secundárias, linhas de água e faixas de terreno afectas a funções de protecção e conservação de recursos naturais, devem ser garantidas, quer as condições de segurança dos utilizadores do empreendimento, quer a adequada preservação dos recursos em causa."
+  },
+  "70922896": {
+   "fragment_id": "70926289",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70947576": {
+   "fragment_id": "70926281",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o sistema de classificação dos seguintes tipos de empreendimentos turísticos:\n\na) Estabelecimentos hoteleiros;\n\nb) Aldeamentos turísticos;\n\nc) Apartamentos turísticos;\n\nd) Hotéis rurais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  },
+  "70947577": {
+   "fragment_id": "70926282",
+   "type": 11,
+   "heading": "Artigo 2.º — Classificação",
+   "in_force_from": "2015-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 2.º — Classificação\n\nSem prejuízo do cumprimento dos requisitos obrigatórios comuns de classificação previstos no artigo 5.º da presente portaria, os empreendimentos turísticos referidos no artigo anterior são classificados mediante a atribuição:\n\na) Da tipologia e, quando aplicável, do grupo, de acordo com os requisitos fixados:\n\ni) Para os estabelecimentos hoteleiros, os aldeamentos turísticos e os apartamentos turísticos, no Decreto-Lei n.º 39/2008, de 7 de março, alterado pelo Decreto-Lei n.º 228/2009, de 14 de setembro, pelo Decreto-Lei n.º 15/2014, de 23 de janeiro, pelo Decreto-Lei n.º 128/2014, de 29 de agosto, e pelo Decreto-Lei n.º 186/2015, de 3 de setembro (regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos - RJET);\n\nii) Para os hotéis rurais, no RJET e na portaria prevista na alínea b) do n.º 2 do respetivo artigo 4.º;\n\nb) Da categoria, nos termos do disposto nos artigos 3.º e 4.º e sem prejuízo das exceções previstas no artigo 4.º-A da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  },
+  "70947578": {
+   "fragment_id": "70926283",
+   "type": 11,
+   "heading": "Artigo 3.º — Categorias",
+   "in_force_from": "2015-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 3.º — Categorias\n\n1 - Aos estabelecimentos hoteleiros é atribuída uma categoria de 1 a 5 estrelas, de acordo com os requisitos constantes do anexo i da presente portaria, que dela faz parte integrante.\n\n2 - Aos aldeamentos turísticos e aos apartamentos turísticos é atribuída uma categoria de 3 a 5 estrelas, de acordo com os requisitos constantes, respetivamente, dos anexos ii e iii da presente portaria, que dela fazem parte integrante.\n\n3 - Aos hotéis rurais é atribuída uma categoria de 3 a 5 estrelas, de acordo com os requisitos constantes do anexo i da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  },
+  "70947579": {
+   "fragment_id": "70926284",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuição da categoria",
+   "in_force_from": "2015-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuição da categoria\n\n1 - Para cada categoria, são fixados:\n\na) Requisitos mínimos obrigatórios;\n\nb) Requisitos opcionais.\n\n2 - Para cada requisito opcional é fixado um determinado número de pontos.\n\n3 - A atribuição de uma categoria depende, cumulativamente:\n\na) Do cumprimento de todos os requisitos mínimos obrigatórios;\n\nb) Do cumprimento de um conjunto de requisitos opcionais que permita a obtenção da pontuação mínima obrigatória fixada para a categoria.\n\n4 - Os requisitos mínimos obrigatórios podem ser dispensados nos termos previstos na alínea a) do n.º 1 do artigo 39.º do RJET.\n\n5 - Após a fixação da classificação resultante da auditoria realizada nos termos do artigo 36.º do RJET, podem ser alterados os requisitos opcionais escolhidos para a obtenção da pontuação mínima obrigatória prevista na alínea b) do n.º 3, mediante comunicação ao Turismo de Portugal, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  },
+  "70961175": {
+   "fragment_id": "70958779",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Classificação de pousadas e dispensa da atribuição da categoria",
+   "in_force_from": "2015-09-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 4.º-A — Classificação de pousadas e dispensa da atribuição da categoria\n\n1 - As pousadas devem cumprir os requisitos fixados no anexo i da presente portaria:\n\na) Para a atribuição da categoria de 4 estrelas, quando instaladas em edifícios classificados como de interesse nacional ou de interesse público;\n\nb) Para a atribuição da categoria de 3 estrelas, quando instaladas em edifícios classificados de interesse municipal ou em edifícios que, pela sua antiguidade, valor arquitetónico e histórico, sejam representativos de uma determinada época.\n\n2 - Os demais empreendimentos turísticos referidos no artigo 1.º são dispensados da atribuição da categoria quando, solicitando-o expressamente:\n\na) No caso dos estabelecimentos hoteleiros e dos hotéis rurais, cumpram os requisitos para a atribuição da categoria de 3, 4 ou 5 estrelas, nos termos previstos no anexo i da presente portaria, devendo 20 % da pontuação obtida por via de requisitos opcionais resultar do cumprimento de requisitos constantes da secção 5 - Qualidade e Sustentabilidade desse mesmo anexo;\n\nb) No caso dos aldeamentos turísticos, cumpram os requisitos para a atribuição da categoria de 4 ou 5 estrelas, nos termos previstos no anexo ii da presente portaria, devendo 20 % da pontuação obtida por via de requisitos opcionais resultar do cumprimento de requisitos constantes da secção 5 - Qualidade e Sustentabilidade desse mesmo anexo;\n\nc) No caso dos apartamentos turísticos, cumpram os requisitos para a atribuição da categoria de 4 ou 5 estrelas, nos termos previstos no anexo iii da presente portaria, devendo 20 % da pontuação obtida por via de requisitos opcionais resultar do cumprimento de requisitos constantes da secção 5 - Qualidade e Sustentabilidade desse mesmo anexo.\n\n3 - Sem prejuízo do previsto nos números seguintes, a dispensa da atribuição da categoria isenta o empreendimento turístico de publicitar, comunicar ou ostentar qualquer categoria para todos os efeitos que tiver por convenientes, bem como proíbe terceiros de utilizarem qualquer categoria sem o seu consentimento expresso.\n\n4 - A dispensa da atribuição da categoria é concedida pelo Turismo de Portugal, I. P., em sede de fixação da classificação, no âmbito de auditoria realizada nos termos dos artigos 36.º ou 38.º do RJET, devendo o respetivo resultado constar de relatório que ateste o previsto nas alíneas a), b) ou c) do n.º 2, consoante aplicável, identificando-se a categoria de 3, 4 ou 5 estrelas que permitiu essa dispensa, bem como os requisitos opcionais verificados e o correspondente número de pontos atribuídos.\n\n5 - O empreendimento turístico a quem foi concedida a dispensa da atribuição da categoria é equiparado à categoria de 3, 4 ou 5 estrelas que permitiu essa dispensa, conforme o número de pontos obtidos, podendo esta equiparação ser invocada pelo empreendimento sempre que tal lhe for solicitado por terceiros e este pretenda dar resposta a tal solicitação.\n\n6 - A equiparação prevista no número anterior consta do Registo Nacional dos Empreendimentos Turísticos com a expressa indicação de que se trata de mera equiparação e de que a mesma não equivale à atribuição de qualquer categoria.\n\n7 - Após a fixação da classificação com dispensa da atribuição da categoria, podem ser alterados os requisitos opcionais escolhidos para a obtenção da pontuação mínima obrigatória prevista no n.º 2, mediante comunicação ao Turismo de Portugal, I. P., desde que observado o previsto no mesmo n.º 2.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  },
+  "70961176": {
+   "fragment_id": "70926285",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos obrigatórios comuns de classificação",
+   "in_force_from": "2015-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos obrigatórios comuns de classificação\n\nOs empreendimentos turísticos previstos no artigo 1.º devem cumprir os seguintes requisitos obrigatórios comuns de classificação:\n\na) Apresentar adequadas condições de higiene e limpeza, conservação e funcionamento das instalações e equipamentos;\n\nb) Insonorização de toda a maquinaria geradora de ruídos em zonas de clientes, em especial ascensores e sistemas de ar condicionado;\n\nc) Sistema de armazenamento de lixos quando não exista serviço público de recolha;\n\nd) Sistema de iluminação de segurança, de acordo com o disposto na legislação aplicável;\n\ne) Sistema de prevenção de riscos de incêndio de acordo com o disposto em diploma próprio;\n\nf) Água corrente quente e fria;\n\ng) Telefone ligado à rede exterior, quando estiver disponível o respectivo serviço público.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  },
+  "70961177": {
+   "fragment_id": "70926286",
+   "type": 11,
+   "heading": "Artigo 6.º — Classificação das pousadas e estabelecimentos hoteleiros instalados em edifícios classificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Classificação das pousadas e estabelecimentos hoteleiros instalados em edifícios classificados\n\n1 - As pousadas instaladas em edifícios classificados como monumentos nacionais ou de interesse público devem obter a pontuação exigida para os hotéis de 4 estrelas.\n\n2 - As pousadas instaladas em edifícios classificados de interesse regional ou municipal ou em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época devem obter a pontuação exigida para os hotéis de 3 estrelas.\n\n3 - Os estabelecimentos hoteleiros instalados em edifícios classificados como monumentos nacionais, de interesse público, de interesse regional ou municipal, ou em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época poderão ser dispensados dos requisitos mínimos obrigatórios se esses requisitos se revelarem susceptíveis de afectar as características arquitectónicas ou estruturais dos edifícios."
+  },
+  "70961178": {
+   "fragment_id": "70926287",
+   "type": 11,
+   "heading": "Artigo 7.º — Áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Áreas\n\nAs áreas mínimas estabelecidas na presente portaria não se aplicam aos empreendimentos turísticos que já tenham projecto de arquitectura aprovado à data da sua entrada em vigor."
+  },
+  "70961179": {
+   "fragment_id": "70926288",
+   "type": 11,
+   "heading": "Artigo 8.º — Aldeamentos turísticos e conjuntos turísticos (resorts)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aldeamentos turísticos e conjuntos turísticos (resorts)\n\nNas situações de atravessamento de aldeamentos e conjuntos turísticos (resorts) por estradas e caminhos municipais, linhas ferroviárias secundárias, linhas de água e faixas de terreno afectas a funções de protecção e conservação de recursos naturais, devem ser garantidas, quer as condições de segurança dos utilizadores do empreendimento, quer a adequada preservação dos recursos em causa."
+  },
+  "70961180": {
+   "fragment_id": "70926289",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70961181": {
+   "fragment_id": "70937790",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 11 de Abril de 2008.\n\nO Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade."
+  },
+  "70961182": {
+   "fragment_id": "70937791",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nEstabelecimentos hoteleiros\n\n(ver documento original)"
+  },
+  "70961183": {
+   "fragment_id": "70937792",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nAldeamentos turísticos\n\n(ver documento original)"
+  },
+  "70961184": {
+   "fragment_id": "70937796",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nApartamentos turísticos\n\n(ver documento original)"
+  },
+  "107618580": {
+   "fragment_id": "70958779",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Classificação de pousadas e dispensa da atribuição da categoria",
+   "in_force_from": "2017-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-30",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+   ],
+   "markdown": "###### Artigo 4.º-A — Classificação de pousadas e dispensa da atribuição da categoria\n\n1 - As pousadas devem cumprir os requisitos fixados no anexo i da presente portaria:\n\na) Para a atribuição da categoria de 4 estrelas, quando instaladas em edifícios classificados como de interesse nacional ou de interesse público;\n\nb) Para a atribuição da categoria de 3 estrelas, quando instaladas em edifícios classificados de interesse municipal ou em edifícios que, pela sua antiguidade, valor arquitetónico e histórico, sejam representativos de uma determinada época.\n\n2 - (Revogado)\n\n3 - (Revogado)\n\n4 - (Revogado)\n\n5 - (Revogado)\n\n6 - (Revogado)\n\n7 - (Revogado)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-30\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 309/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/309-2015-70386134), em vigor a partir de 2015-09-26"
+  }
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2630:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2630-20030715",
+ "dre_path": null,
+ "source_lastmod": "2003-07-15",
+ "versions": [
+  {
+   "date": "1997-12-30",
+   "future": false,
+   "celex": "31997R2630",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "597c76582dc3de7d",
+    "f8c0712c6b93b3df",
+    "c9709ecf066a9315",
+    "dbcd3fc3133b874f",
+    "5034473c0fa14fbb",
+    "545e252b16a1f6f0",
+    "81814d6a07d21435"
+   ]
+  },
+  {
+   "date": "2003-07-15",
+   "future": false,
+   "celex": "01997R2630-20030715",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º"
+   ],
+   "fragments": [
+    "8e540480d06f2e44"
+   ]
+  }
+ ],
+ "fragments": {
+  "597c76582dc3de7d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2630/97 da Comissão de 29 de Dezembro de 1997 que estabelece as disposições de aplicação do Regulamento (CE) nº 820/97 do Conselho no que respeita ao nível mínimo dos controlos a efectuar no âmbito da identificação e registo dos bovinos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 354 de 30/12/1997 p. 0023 - 0024*\n\nREGULAMENTO (CE) Nº 2630/97 DA COMISSÃO de 29 de Dezembro de 1997 que estabelece as disposições de aplicação do Regulamento (CE) nº 820/97 do Conselho no que respeita ao nível mínimo dos controlos a efectuar no âmbito da identificação e registo dos bovinos (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 820/97 do Conselho, de 21 de Abril de 1997, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino (1), e, nomeadamente, a alínea d) do seu artigo 10º,\n\nConsiderando que, tendo em vista a correcta implementação do regime de identificação e registo dos bovinos, é conveniente definir o nível mínimo dos controlos a efectuar;\n\nConsiderando que a autoridade competente de cada Estado-membro deve proceder aos controlos com base numa análise de riscos; que a análise de riscos deve ter em conta todos os factores relevantes, incluindo, nomeadamente, critérios de saúde pública e sanidade animal;\n\nConsiderando que, em princípio, todos os animais da exploração devem ser abrangidos pelos controlos, que, todavia, se, por razões de ordem prática, não for possível reuni-los na exploração em 48 horas, a autoridade competente pode prever um sistema adequado de amostragem dos animais;\n\nConsiderando que a autoridade competente de cada Estado-membro deve proceder a inspecções in loco que, em geral, são efectuadas sem aviso prévio, conforme previsto no Regulamento (CE) nº 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias (2), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 820/97;\n\nConsiderando que os Estados-membros devem enviar à Comissão um relatório anual que informe pormenorizadamente sobre a aplicação dos controlos;\n\nConsiderando que a Comissão deve facultar aos Estados-membros um modelo desse relatório;\n\nConsiderando que, tendo em conta o calendário para a aplicação do Regulamento (CE) nº 820/97, o presente regulamento deve entrar em vigor com urgência;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f8c0712c6b93b3df": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs controlos previstos no regime de identificação e registo dos bovinos estarão no mínimo em conformidade com os níveis mínimos previstos nos artigos 2º a 5º"
+  },
+  "c9709ecf066a9315": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A autoridade competente de cada Estado-membro procederá a inspecções in loco, que podem ser realizadas conjuntamente com quaisquer outras previstas pela legislação comunitária. Estas inspecções abrangerão anualmente pelo menos 10 % das explorações situadas no território de cada Estado-membro. Detectadas faltas de conformidade com a legislação comunitária em matéria de identificação, o nível mínimo de controlo será imediatamente aumentado.\n\n2. Em derrogação do nº 1, se o Estado-membro dispuser de uma base de dados plenamente operacional, conforme previsto no artigo 5º do Regulamento (CE) nº 820/97, que possibilite o cotejo eficaz de informações, pode ser previsto um nível de controlo de 5 %.\n\n3. A selecção das explorações a inspeccionar pela autoridade competente será feita com base numa análise de riscos.\n\n4. A análise de riscos por exploração terá em conta:\n\na) O número de animais da exploração, incluindo elementos sobre todos os animais presentes e todos os animais identificados na exploração;\n\nb) Critérios de saúde pública e sanidade animal, designadamente em caso de surtos anteriores;\n\nc) O montante dos prémios aos bovinos solicitados e/ou pagos anualmente à exploração, comparativamente ao montante pago no ano anterior;\n\nd) Alterações significativas de situação relativamente a anos anteriores;\n\ne) O resultado das inspecções efectuadas em anos anteriores, nomeadamente quanto:\n\n- à correcta manutenção do registo da exploração, que deve processar-se de acordo com o Regulamento (CE) nº 2629/97 da Comissão (3), que estabelece disposições de aplicação do Regulamento (CE) nº 820/97 no que respeita a marcas auriculares, registos das explorações e passaportes,\n\n- à correcta manutenção dos passaporte dos animais presentes na exploração, que deve processar-se de acordo com o Regulamento (CE) nº 2630/97;\n\nf) A comunicação, nas condições previstas, dos dados pertinentes à autoridade competente;\n\ng) Outros critérios a definir pelos Estados-membros.\n\n5. Cada inspecção será objecto de um relatório normalizado a nível nacional que apresente os resultados dos controlos efectuados e todos os elementos não satisfatórios apurados, indique as razões dos controlos e identifique as pessoas presentes. Ao produtor ou seu representante deve ser dada a possibilidade de assinar o relatório e, se o pretender, de produzir observações sobre o teor do mesmo."
+  },
+  "dbcd3fc3133b874f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O controlo abrangerá todos os animais da exploração cuja identificação esteja prevista no Regulamento (CE) nº 820/97.\n\n2. Em derrogação do nº 1, se, por razões de ordem prática, não for possível reunir os animais na exploração em 48 horas, a autoridade competente pode prever um sistema de amostragem dos animais desde que seja assegurado um nível de controlo seguro."
+  },
+  "5034473c0fa14fbb": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nAs inspecções in loco decorrerão, em geral, sem aviso prévio. Nos casos em que exista, o aviso será dado com a antecedência mínima necessária, em geral não superior a 48 horas."
+  },
+  "545e252b16a1f6f0": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A partir de 1999, inclusive, cada Estado-membro enviará à Comissão, antes de 1 de Julho de cada ano, um relatório anual que contemple os seguintes elementos:\n\na) O número de explorações existentes no Estado-membro;\n\nb) O número de inspecções efectuadas com base no artigo 2º;\n\nc) O número de animais inspeccionados;\n\nd) Todas as contravenções detectadas;\n\ne) Todas as sanções aplicadas em conformidade com o artigo 10º do Regulamento (CE) nº 820/97.\n\n2. A Comissão fornecerá aos Estados-membros um modelo para a comunicação das informações referidas no nº 1."
+  },
+  "81814d6a07d21435": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Dezembro de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 117 de 7. 5. 1997, p. 1.\n\n(2) JO L 355 de 5. 12. 1992, p. 1.\n\n(3) Ver página 19 do presente Jornal Oficial."
+  },
+  "8e540480d06f2e44": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R2630 — PT — 15.07.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R2630) [REGULAMENTO (CE) N.º 2630/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R2630) [de 29 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31997R2630) [que estabelece as disposições de aplicação do Regulamento (CE) n.º 820/97 do Conselho no que respeita ao nível mínimo dos controlos a efectuar no âmbito da identificação e registo dos bovinos](http://publications.europa.eu/resource/celex/31997R2630) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31997R2630) (JO L 354, 30.12.1997, p.23)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1082/2003 da Comissão de 23 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1082) — L 156 — 9 — 25.6.2003"
+  }
+ }
+}

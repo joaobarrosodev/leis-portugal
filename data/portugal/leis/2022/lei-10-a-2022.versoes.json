@@ -1,0 +1,122 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182727789:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-185667598",
+ "dre_path": "/dr/detalhe/lei/10-a-2022-182727789",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-04-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "185654434",
+    "185654435",
+    "185654436",
+    "185654437",
+    "185654438",
+    "185654439"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    },
+    {
+     "id": "pt:dre:835809048:por",
+     "title": "Lei n.º 81/2023",
+     "published": "2023-12-28",
+     "dre_path": "/dr/detalhe/lei/81-2023-835809048"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "185654434",
+    "185654435",
+    "185654436",
+    "185654437",
+    "836602099",
+    "185654439",
+    "185654440"
+   ]
+  }
+ ],
+ "fragments": {
+  "185654434": {
+   "fragment_id": "185667599",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 10-A/2022\n\nde 28 de abril\n\nSumário: Medidas excecionais e temporárias de resposta ao aumento dos preços dos combustíveis.\n\nMedidas excecionais e temporárias de resposta ao aumento dos preços dos combustíveis\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\n> Nota: [Artigo 283.º, Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192) Prorroga os efeitos do presente diploma até 31 de dezembro de 2023."
+  },
+  "185654435": {
+   "fragment_id": "185667600",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova as seguintes medidas excecionais e temporárias de resposta ao aumento extraordinário dos preços dos combustíveis:\n\na) Suspensão dos limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) estabelecidos nos artigos 92.º, 94.º e 95.º do Código dos Impostos Especiais de Consumo (Código dos IEC), aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, aplicáveis à gasolina sem chumbo e ao gasóleo;\n\nb) Publicação de um relatório trimestral com informação referente à formação dos preços de venda ao público dos combustíveis pela Entidade Reguladora dos Serviços Energéticos (ERSE);\n\nc) Isenção de imposto sobre o valor acrescentado (IVA) sobre adubos, fertilizantes, corretivos de solos e outros produtos para alimentação de gado, aves e outros animais, quando utilizados em atividades de produção agrícola."
+  },
+  "185654436": {
+   "fragment_id": "185667601",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração dos limites mínimos das taxas do imposto sobre os produtos petrolíferos e energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração dos limites mínimos das taxas do imposto sobre os produtos petrolíferos e energéticos\n\n1 - Os valores das taxas unitárias do ISP, determinados nos termos dos artigos 92.º, 94.º e 95.º do Código dos IEC, relativos à gasolina sem chumbo, classificada pelos códigos NC 2710 11 41 a 2710 11 49, e ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, podem ser fixados à taxa mínima de zero euros.\n\n2 - Sem prejuízo do disposto no número anterior, são aplicáveis todas as disposições legais e regulamentares relativas aos intervalos de valores das taxas unitárias do ISP referentes aos artigos 92.º, 94.º e 95.º do Código dos IEC."
+  },
+  "185654437": {
+   "fragment_id": "185667602",
+   "type": 11,
+   "heading": "Artigo 3.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Divulgação de informação\n\n1 - Sem prejuízo de outros meios de prestação de informação, a ERSE divulga trimestralmente um relatório detalhado relativo à formação dos preços de venda ao público dos combustíveis, através de publicação na sua página eletrónica e de outros meios que entenda adequados.\n\n2 - O relatório referido no número anterior deve conter, entre outras consideradas relevantes pela ERSE, as seguintes informações:\n\na) Desagregação dos preços de venda ao público da gasolina simples e do gasóleo simples, incluindo as cotações internacionais de referência, os custos com a logística primária, os custos com as reservas de segurança, os sobrecustos com a incorporação de biocombustíveis, a componente de retalho e as componentes de impostos;\n\nb) A segmentação dos preços praticados no mercado nacional por tipo de operador, incluindo informação agregada sobre as companhias petrolíferas, operadores com ofertas low-cost e hipermercados; e\n\nc) Desagregação territorial do mercado nacional de combustíveis líquidos, com um detalhe mínimo por distrito, incluindo os preços de venda ao público e a desagregação referida na alínea a)."
+  },
+  "185654438": {
+   "fragment_id": "185667603",
+   "type": 11,
+   "heading": "Artigo 4.º — Tributação de bens para produção agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tributação de bens para produção agrícola\n\n1 - Estão isentas de IVA as transmissões dos seguintes bens, quando normalmente utilizados no âmbito das atividades de produção agrícola:\n\na) Adubos, fertilizantes e corretivos de solos; e\n\nb) Farinhas, cereais e sementes, incluindo misturas, resíduos e desperdícios das indústrias alimentares, e quaisquer outros produtos próprios para alimentação de gado, aves e outros animais, referenciados no Codex Alimentarius, independentemente da raça e funcionalidade em vida, incluindo os peixes de viveiro, destinados à alimentação humana.\n\n2 - As operações referidas no número anterior conferem o direito à dedução do imposto que tenha incidido sobre bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a sua realização.\n\n> Nota: [Artigo 333.º, Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918) O disposto no presente artigo vigora até 31 de dezembro de 2025.\n\n> Nota: [Artigo 285.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) O disposto no presente artigo vigora até 31 de dezembro de 2024.\n\n> Nota: [Artigo 16.º, Lei n.º 81/2023 - Diário da República n.º 249/2023, Série I de 2023-12-28](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048) O disposto no presente artigo vigora até 31 de dezembro de 2024."
+  },
+  "185654439": {
+   "fragment_id": "185667604",
+   "type": 11,
+   "heading": "Artigo 5.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2022."
+  },
+  "836602099": {
+   "fragment_id": "185667603",
+   "type": 11,
+   "heading": "Artigo 4.º — Tributação de bens para produção agrícola",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 250.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Lei n.º 81/2023 - Diário da República n.º 249/2023, Série I de 2023-12-28](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Tributação de bens para produção agrícola\n\n1 - Estão isentas de IVA as transmissões dos seguintes bens, quando normalmente utilizados no âmbito das atividades de produção agrícola:\n\na) Adubos, fertilizantes e corretivos de solos; e\n\nb) Farinhas, cereais e sementes, incluindo misturas, resíduos e desperdícios das indústrias alimentares, e quaisquer outros produtos próprios para alimentação de gado, aves e outros animais, referenciados no Codex Alimentarius, independentemente da raça e funcionalidade em vida, incluindo os peixes de viveiro, destinados à alimentação humana.\n\nc) Garrafas de vidro.\n\n2 - Estão isentas de IVA as transmissões de todos os produtos, secos ou húmidos, destinados à alimentação de animais de companhia quando acolhidos por associações de proteção animal legalmente constituídas.\n\n3 - As operações referidas nos números anteriores conferem o direito à dedução do imposto que tenha incidido sobre bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a sua realização.\n\n> Nota: [Artigo 285.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) O disposto no presente artigo vigora até 31 de dezembro de 2024.\n\n> Nota: [Artigo 16.º, Lei n.º 81/2023 - Diário da República n.º 249/2023, Série I de 2023-12-28](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048) O disposto no presente artigo vigora até 31 de dezembro de 2024.\n\n> Alterado pelo/a Artigo 250.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Lei n.º 81/2023 - Diário da República n.º 249/2023, Série I de 2023-12-28](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048), em vigor a partir de 2024-01-01"
+  },
+  "185654440": {
+   "fragment_id": "185667605",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de abril de 2022.\n\nO Presidente da Assembleia da República, Augusto Santos Silva.\n\nPromulgada em 27 de abril de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 28 de abril de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n115271613"
+  }
+ }
+}

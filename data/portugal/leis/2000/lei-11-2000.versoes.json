@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:303579:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2000-942970386",
+ "dre_path": "/dr/detalhe/lei/11-2000-303579",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "2000-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942957959"
+   ]
+  }
+ ],
+ "fragments": {
+  "942957959": {
+   "fragment_id": "942970387",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei Orgânica n.º 1/2000\n\nde 21 de Junho\n\nQuarta alteração ao Decreto-Lei n.º 318-E/76, de 30 de Abril (Lei Eleitoral para a Assembleia Legislativa Regional da Madeira), alterado pelo Decreto-Lei n.º 427-G/76, de 1 de Junho, e pelas Leis n.os 40/80, de 8 de Agosto, e 93/88, de 6 de Agosto.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:"
+  }
+ }
+}

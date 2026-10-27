@@ -1,0 +1,1272 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483672:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-70861276",
+ "dre_path": "/dr/detalhe/decreto-lei/166-2013-483672",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-12-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "70883377",
+    "70883378",
+    "70883379",
+    "70883380",
+    "70883381",
+    "70883382",
+    "70883383",
+    "70883384",
+    "70883385",
+    "70883386",
+    "70883387",
+    "70883388",
+    "70883389",
+    "70883390",
+    "70883391",
+    "70883392",
+    "70883393",
+    "70883394",
+    "70883395",
+    "70883396"
+   ]
+  },
+  {
+   "date": "2015-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70485721:por",
+     "title": "Decreto-Lei n.º 220/2015",
+     "published": "2015-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/220-2015-70485721"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "70876286",
+    "70883378",
+    "70876287",
+    "70876288",
+    "70883381",
+    "70876289",
+    "70883383",
+    "70883384",
+    "70883385",
+    "70883386",
+    "70883387",
+    "70883388",
+    "70883389",
+    "70883390",
+    "70883391",
+    "70883392",
+    "70883393",
+    "70883394",
+    "70883395",
+    "70883396",
+    "70883397"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124283152:por",
+     "title": "Decreto-Lei n.º 128/2019",
+     "published": "2019-08-29",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2019-124283152"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "124311795",
+    "124311802",
+    "124311796",
+    "124311845",
+    "124311803",
+    "124311797",
+    "124311779",
+    "124311798",
+    "124311799",
+    "124311800",
+    "124311783",
+    "124311784",
+    "124311785",
+    "124311786",
+    "124311787",
+    "124311788",
+    "124311789",
+    "124311801",
+    "124311791",
+    "124311792",
+    "124311793",
+    "124311794"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "124311795",
+    "124311802",
+    "124311796",
+    "124311845",
+    "124311803",
+    "124311797",
+    "124311779",
+    "124311798",
+    "131051353",
+    "131051354",
+    "124311783",
+    "124311784",
+    "124311785",
+    "124311786",
+    "124311787",
+    "124311788",
+    "124311789",
+    "124311801",
+    "124311791",
+    "124311792",
+    "124311793",
+    "124311794"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "124311795",
+    "124311802",
+    "124311796",
+    "124311845",
+    "124311803",
+    "124311797",
+    "124311779",
+    "124311798",
+    "156104926",
+    "156104927",
+    "124311783",
+    "156104928",
+    "124311785",
+    "156104929",
+    "124311787",
+    "124311788",
+    "124311789",
+    "124311801",
+    "124311791",
+    "124311792",
+    "124311793",
+    "124311794"
+   ]
+  },
+  {
+   "date": "2021-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170322928:por",
+     "title": "Decreto-Lei n.º 76/2021",
+     "published": "2021-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/76-2021-170322928"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Adita Artigo 7.º-D",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 7.º-A"
+   ],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "124311795",
+    "170376080",
+    "170376081",
+    "170376082",
+    "170376083",
+    "170376084",
+    "170376085",
+    "170376086",
+    "170376102",
+    "170376118",
+    "170376134",
+    "170376135",
+    "170376136",
+    "170376137",
+    "170376138",
+    "170376139",
+    "170376140",
+    "170376141",
+    "170376142",
+    "170376143",
+    "170376144",
+    "170376145",
+    "170376146",
+    "170376147",
+    "170376148",
+    "170376149"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175506671:por",
+     "title": "Decreto-Lei n.º 108/2021",
+     "published": "2021-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2021-175506671"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "70883375",
+    "70883376",
+    "124311795",
+    "170376080",
+    "170376081",
+    "170376082",
+    "170376083",
+    "175576079",
+    "175576080",
+    "175576081",
+    "175576082",
+    "175576083",
+    "175576084",
+    "175576085",
+    "175576086",
+    "175576101",
+    "175576088",
+    "175576089",
+    "175576090",
+    "175576091",
+    "175576092",
+    "175576093",
+    "175576094",
+    "175576095",
+    "175576096",
+    "175576097",
+    "175576098",
+    "175576099",
+    "175576100"
+   ]
+  }
+ ],
+ "fragments": {
+  "70883375": {
+   "fragment_id": "70861277",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 166/2013\n\nde 27 de dezembro\n\nA transparência nas relações comerciais e o equilíbrio das posições negociais entre agentes económicos são fundamentais para a concretização de desígnios constitucionais como os do direito fundamental à livre iniciativa económica e da garantia da equilibrada concorrência entre as empresas, cabendo ao Estado estabelecer os mecanismos que assegurem o cumprimento e impeçam a distorção destes princípios.\n\nApós 19 anos de aplicação do Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelos Decretos-Leis n.os 140/98, de 16 de maio, e 10/2003, de 18 de janeiro, verifica-se uma necessidade de rever este regime. Na verdade, os constrangimentos que conduziram à sua aprovação mantêm-se e em alguns casos, alteraram-se com a evolução significativa do setor do comércio.\n\nDe salientar que o esforço para alcançar eficazmente os objetivos de equilíbrio nas relações comerciais e da sã concorrência não depende unicamente da aprovação de regulamentação pela Administração, devendo ser privilegiadas soluções de índole consensual, que envolvam o compromisso dos agentes económicos representados pelas suas estruturas associativas, num processo complementar, de autorregulação, por natureza voluntário e que, como tal, se reveste de um conjunto de vantagens, designadamente, o facto de assentar no compromisso das partes em cumprir determinados princípios e seguir determinadas condutas, bem como a inerente flexibilidade e capacidade de ajustamento ao dinamismo da atividade económica. A elaboração de um documento com as condições básicas de negociação tem, também, o mérito de reforçar a transparência e de assegurar a não discriminação e a reciprocidade entre parceiros, sendo de especial importância quando estejam em causa relações comerciais entre distribuidores e fornecedores fora do setor agroalimentar, e dentro deste, fornecedores de média e grande dimensão.\n\nPor fim, salienta-se que a autorregulação permitirá alcançar resultados mais efetivos e eficazes se incluir soluções de monitorização e de resolução de conflitos que lhe confiram credibilidade.\n\nAssim, e considerando, igualmente, as dificuldades e limitações identificadas no decurso da aplicação do Decreto-Lei n.º 370/93, de 29 de outubro, bem como a inadequação de algumas das suas normas, sentida e transmitida pelos operadores económicos, procedeu-se à revisão do regime jurídico das práticas individuais restritivas de comércio, no sentido de clarificar a sua aplicação e de tornar suficientemente dissuasor o seu incumprimento.\n\nComparativamente ao regime que se revoga, o presente decreto-lei clarifica a noção de venda com prejuízo, em particular do que se entende por preço de compra efetivo, no sentido de facilitar a sua interpretação e fiscalização, tendo em consideração, entre outros, os descontos diferidos no tempo, quando estes sejam determináveis no momento da emissão da respetiva fatura.\n\nDa mesma forma, também passa a resultar claro que a determinação do preço de venda de um determinado produto tem em consideração os descontos concedidos a esse mesmo produto mesmo que consistam na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza.\n\nO diploma densifica ainda o conceito de práticas negociais abusivas, que até agora era vago e indefinido, identificando expressamente algumas práticas consideradas abusivas, nomeadamente alterações retroativas de contratos, proibindo-se ainda determinadas práticas no setor agroalimentar, quando o fornecedor seja uma micro ou pequena empresa, organização de produtores ou cooperativa.\n\nAumentam-se, por outro lado, as penalizações pela violação do disposto no presente decreto-lei através do agravamento dos montantes das coimas, da previsão da possibilidade de adoção de medidas cautelares e de aplicação de sanções pecuniárias compulsórias.\n\nTransfere-se, ainda, a competência para a instrução dos processos de contraordenação da Autoridade da Concorrência para a Autoridade de Segurança Alimentar e Económica (ASAE) uma vez que este regime pretende proteger diretamente os agentes económicos e garantir a transparência nas relações comerciais, sempre que não esteja em causa uma afetação sensível da concorrência.\n\nFinalmente, introduz-se uma norma inovadora, que visa consagrar a institucionalização da autorregulação nesta área.\n\nTendo em conta que a aplicação do presente decreto-lei deve ser objeto de um acompanhamento que permita os ajustamentos necessários à sua eficácia, estabelece-se que a Direção-Geral das Atividades Económicas, em articulação com a ASAE, elabora um relatório no final do segundo ano a contar da data da respetiva entrada em vigor, do qual deve constar a avaliação do mecanismo previsto para a verificação da venda com prejuízo, nos casos em que o desconto consista na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza.\n\nAssim:\n\nNo uso da autorização legislativa conferida pela Lei n.º 31/2013, de 10 de maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70883376": {
+   "fragment_id": "70861278",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei aprova o regime aplicável às práticas individuais restritivas do comércio."
+  },
+  "70883377": {
+   "fragment_id": "70861279",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei apenas é aplicável às empresas estabelecidas em território nacional.\n\n2 - Estão excluídos do âmbito de aplicação do presente decreto-lei:\n\na) Os serviços de interesse económico geral;\n\nb) A compra e venda de bens e as prestações de serviços, na medida em que estejam sujeitas a regulação setorial, nomeadamente no setor financeiro, postal, dos transportes, comunicações eletrónicas e energia;\n\nc) A compra e venda de bens e as prestações de serviços com origem ou destino em país não pertencente à União Europeia ou ao Espaço Económico Europeu, sem prejuízo do disposto no n.º 1 do artigo 4.º"
+  },
+  "70883378": {
+   "fragment_id": "70861280",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação de preços ou de condições de venda discriminatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação de preços ou de condições de venda discriminatórios\n\n1 - É proibido a uma empresa praticar em relação a outra empresa preços ou condições de venda discriminatórios relativamente a prestações equivalentes, nomeadamente quando tal prática se traduza na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento, não justificadas por diferenças correspondentes no custo de fornecimento ou do serviço, nem resultantes de práticas conformes ao Direito da Concorrência.\n\n2 - São prestações equivalentes aquelas que respeitem a bens ou serviços similares e que não difiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham uma repercussão nos correspondentes custos de produção ou de comercialização.\n\n3 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.\n\n4 - Não são consideradas discriminatórias as ofertas de objetos desprovidos de valor comercial."
+  },
+  "70883379": {
+   "fragment_id": "70861281",
+   "type": 11,
+   "heading": "Artigo 4.º — Transparência nas políticas de preços e de condições de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transparência nas políticas de preços e de condições de venda\n\n1 - Os produtores, fabricantes, importadores, distribuidores, embaladores e grossistas de bens e os prestadores de serviços são obrigados a facultar a qualquer revendedor ou utilizador tabelas de preços com as correspondentes condições de venda, quando solicitadas.\n\n2 - As condições de venda devem referenciar, nomeadamente, os prazos de pagamento, as diferentes modalidades de descontos praticados e os respetivos escalões, sempre que não estejam abrangidos por segredo comercial.\n\n3 - Nos contratos sujeitos à lei portuguesa, devem ser reduzidas a escrito, sob pena de nulidade, quaisquer disposições sobre as condições em que uma empresa obtenha uma remuneração financeira ou de outra natureza dos seus fornecedores, como contrapartida da prestação de serviços específicos."
+  },
+  "70883380": {
+   "fragment_id": "70861282",
+   "type": 11,
+   "heading": "Artigo 5.º — Venda com prejuízo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem a uma empresa ou a um consumidor por um preço inferior ao seu preço de compra efetivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efetivo o preço unitário constante da fatura de compra, líquido dos pagamentos ou descontos que se relacionem direta e exclusivamente com a transação dos produtos em causa, e que se encontrem identificados na própria fatura ou, por remissão desta, em contratos de fornecimento ou tabelas de preço que estejam em vigor no momento da transação e que sejam determináveis no momento da respetiva emissão.\n\n3 - Para efeitos do disposto no número anterior, entende-se por descontos relacionados direta e exclusivamente com a transação em causa os descontos de quantidade, os descontos financeiros e os descontos promocionais desde que identificáveis quanto ao produto, respetiva quantidade e período por que vão vigorar.\n\n4 - Os descontos que forem concedidos num determinado produto são considerados na determinação do respetivo preço de venda.\n\n5 - Para efeitos de aplicação do número anterior, os descontos que consistirem na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza, concedidos em cada produto, são imputados à quantidade vendida do mesmo produto e do mesmo fornecedor nos últimos 30 dias.\n\n6 - Para os efeitos do presente decreto-lei, as faturas de compra consideram-se aceites em todos os seus termos e reconhecidas pelos seus destinatários, quando não tenham sido objeto de reclamação no prazo de 25 dias seguintes à respetiva receção.\n\n7 - Em caso de desconformidade da fatura, a sanação do vício e a emissão de uma fatura retificada deve ocorrer no prazo de 20 dias após a reclamação prevista no número anterior.\n\n8 - Para os efeitos do disposto no presente artigo, não são consideradas as alterações contidas em faturas retificadas, emitidas em data posterior aos prazos indicados.\n\n9 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.\n\n10 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afetado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento com outros bens, de características equivalentes, se efetue a preço inferior, sendo então o preço efetivo de compra substituído pelo preço resultante da nova fatura de compra;\n\nd) Bens vendidos em saldo ou liquidação.\n\n11 - A prova documental do preço de compra efetivo, do preço de venda para efeitos do disposto nos n.os 4 e 5, bem como das justificações previstas no número anterior cabe ao vendedor, sem prejuízo de a entidade fiscalizadora poder solicitar as informações que julgar convenientes aos fornecedores ou a quaisquer outras entidades."
+  },
+  "70883381": {
+   "fragment_id": "70861283",
+   "type": 11,
+   "heading": "Artigo 6.º — Recusa de venda de bens ou de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Recusa de venda de bens ou de prestação de serviços\n\n1 - Sem prejuízo dos usos normais da respetiva atividade ou de disposições legais ou regulamentares aplicáveis, é proibido a uma empresa recusar a venda de bens ou a prestação de serviços a outra empresa, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado, exceto quando se verifique causa justificativa de recusa.\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - Para efeitos do disposto no n.º 1 do presente artigo, e sem prejuízo dos n.os 1 e 2 do artigo 19.º do Decreto-Lei n.º 92/2010, de 26 de julho, são consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A existência de acordos de distribuição exclusiva para determinado território, conformes ao Direito da Concorrência;\n\nh) A proteção da propriedade intelectual;\n\ni) As restrições vigentes no Direito da União Europeia e no Direito Internacional, nomeadamente para a repressão e combate da criminalidade e terrorismo;\n\nj) A dificuldade anormal de venda ou a prestação por motivos de força maior, nomeadamente em consequência de guerra, greve, lock-out, tumultos, comoções civis, assaltos, sequestros, sabotagem, terrorismo, atos de vandalismo, insurreições civis ou militares, assaltos ou fenómenos naturais de natureza catastrófica e imprevisível;\n\nk) A ocorrência de qualquer outra circunstância inerente às condições concretas da transação que, segundo os usos normais da respetiva atividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor ou para o comprador.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior."
+  },
+  "70883382": {
+   "fragment_id": "70861284",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas negociais abusivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Práticas negociais abusivas\n\n1 - São proibidas as práticas negociais entre empresas que se traduzam:\n\na) Na imposição da impossibilidade de venda a qualquer outra empresa a um preço mais baixo;\n\nb) Na obtenção de preços, condições de pagamento, modalidades de venda ou condições de cooperação comercial exorbitantes relativamente às suas condições gerais de venda;\n\nc) Na imposição unilateral, direta ou indireta:\n\ni) de realização de uma promoção de um determinado produto;\n\nii) de quaisquer pagamentos enquanto contrapartida de uma promoção;\n\nd) Na obtenção de contrapartidas por promoções em curso ou já ocorridas, incluindo os descontos que consistirem na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza;\n\ne) Na alteração retroativa de um contrato de fornecimento.\n\n2 - Para efeitos do número anterior, consideram-se como «exorbitantes relativamente às condições gerais de venda» os preços, condições de pagamento, modalidades de venda ou condições de cooperação comercial que se traduzam na concessão de um benefício ao comprador, ou ao vendedor, não proporcional ao volume de compras ou vendas ou, se for caso disso, ao valor dos serviços prestados.\n\n3 - São, ainda, proibidas, no setor agroalimentar, as práticas negociais do comprador quando o fornecedor seja uma micro ou pequena empresa, organização de produtores ou cooperativa, e que se traduzam em:\n\na) Rejeitar ou devolver os produtos entregues, com fundamento na menor qualidade de parte ou da totalidade da encomenda ou no atraso da entrega, sem que seja demonstrada, pelo comprador, a responsabilidade do fornecedor por esse facto;\n\nb) Impor um pagamento, diretamente ou sob a forma de desconto:\n\ni) Pela não concretização das expectativas do comprador quanto ao volume ou valor das vendas;\n\nii) Para introdução ou reintrodução de produtos;\n\niii) Como compensação por custos decorrentes de uma queixa do consumidor, exceto quando o comprador demonstre que essa queixa se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\niv) Para cobrir qualquer desperdício dos produtos do fornecedor, exceto quando o comprador demonstre que tal se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\nv) Por custos relativos a transporte e armazenamento posteriores à entrega do produto;\n\nvi) Como contribuição para abertura de novos estabelecimentos ou remodelação dos existentes;\n\nvii) Como condição para iniciar uma relação comercial com um fornecedor.\n\n4 - Nos contratos sujeitos à lei portuguesa, qualquer cláusula contratual que viole o disposto no presente artigo é nula e tem-se por não escrita.\n\n5 - As práticas negociais não proibidas pelo presente artigo, nomeadamente em virtude da dimensão ou do setor de atividade dos intervenientes, devem ser objeto de autorregulação nos instrumentos a que se refere o artigo 16.º"
+  },
+  "70883383": {
+   "fragment_id": "70861285",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas cautelares\n\n1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de uma prática restritiva do comércio suscetível de provocar prejuízo grave, de difícil ou impossível reparação, a outras empresas, sempre que constate que existem indícios fortes da sua verificação, ainda que na forma tentada.\n\n2 - Após a aplicação de medida cautelar provisória nos termos do número anterior, a entidade fiscalizadora promove a audição do interessado no prazo máximo de cinco dias e decide sobre a conversão da medida cautelar provisória em definitiva no prazo máximo de 10 dias após a realização da audição.\n\n3 - Na ausência de promoção de audição ou de decisão nos prazos referidos no número anterior, a medida cautelar provisória e a sanção pecuniária compulsória a que se refere o artigo 11.º, caducam automaticamente.\n\n4 - A medida cautelar definitiva, e a sanção pecuniária compulsória a que se refere o artigo 11.º, caducam automaticamente caso o despacho de acusação em processo contraordenacional não seja notificado ao arguido, no prazo de 30 dias após aquela aplicação.\n\n5 - A medida cautelar e a sanção pecuniária compulsória referidas no número anterior vigoram até a decisão em processo contraordenacional se tornar definitiva, transitar em julgado ou caducar por condenação em processo criminal pelo mesmo facto, sem prejuízo da alteração, substituição ou revogação da medida cautelar nos termos gerais ou por aplicação de medida de coação de efeito equivalente."
+  },
+  "70883384": {
+   "fragment_id": "70861286",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima:\n\na) A violação do disposto no n.º 1 do artigo 3.º, no n.º 3 do artigo 4.º, no n.º 1 do artigo 5.º e nos n.os 1 e 3 do artigo 7.º;\n\nb) A violação do disposto no n.º 1 do artigo 4.º e dos n.os 1 e 2 do artigo 6.º;\n\nc) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora;\n\nd) A violação das medidas cautelares impostas pela entidade competente.\n\n2 - A negligência e a tentativa são puníveis, nos termos gerais."
+  },
+  "70883385": {
+   "fragment_id": "70861287",
+   "type": 11,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coimas\n\n1 - As contraordenações referidas nas alíneas a) e d) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 750 EUR e máxima de 20 000 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 2 500 EUR e máxima de 50 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 3 000 EUR e máxima de 150 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 4 000 EUR e máxima de 450 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 5 000 EUR e máxima de 2 500 000 EUR.\n\n2 - As contraordenações referidas nas alíneas b) e c) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 250 EUR e máxima de 7500 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 500 EUR e máxima de 10 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 750 EUR e máxima de 25 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 1 000 EUR e máxima de 100 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 2 500 EUR e máxima de 500 000 EUR.\n\n3 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos na Recomendação n.º <a href=\"eurlex.asp?ano=2003&id=303H0361\" title=\"Link para Recomendação da Comunidade Europeia\">2003/361/CE</a>, da Comissão Europeia, de 6 de maio de 2003."
+  },
+  "70883386": {
+   "fragment_id": "70861288",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções pecuniárias compulsórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções pecuniárias compulsórias\n\n1 - A entidade competente pode aplicar uma sanção pecuniária compulsória no caso de o agente não cumprir a decisão que impõe a adoção de medidas cautelares ou a decisão a que se refere o n.º 1 do artigo 8.º\n\n2 - A sanção pecuniária compulsória referida no número anterior consiste no pagamento de uma quantia pecuniária por cada dia de incumprimento que se verifique para além do prazo fixado para o cumprimento da obrigação.\n\n3 - A sanção pecuniária compulsória é fixada segundo critérios de razoabilidade e proporcionalidade, atendendo ao volume de negócios do infrator realizado no ano civil anterior e ao impacto negativo causado no mercado e nos utilizadores pelo incumprimento, podendo o seu montante diário oscilar entre 2 000 EUR e 50 000 EUR.\n\n4 - Os montantes fixados podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar, cumulativamente:\n\na) Um período máximo de 30 dias;\n\nb) O montante máximo acumulado de 1 500 000 EUR."
+  },
+  "70883387": {
+   "fragment_id": "70861289",
+   "type": 11,
+   "heading": "Artigo 12.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Legislação subsidiária\n\nÀs contraordenações previstas no presente decreto-lei aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "70883388": {
+   "fragment_id": "70861290",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização, instrução e decisão dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização, instrução e decisão dos processos\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos processos de contraordenação.\n\n2 - A decisão de aplicação das coimas compete ao inspetor-geral da ASAE."
+  },
+  "70883389": {
+   "fragment_id": "70861291",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino do montante das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Destino do montante das coimas\n\n1 - O produto das coimas e sanções pecuniárias compulsórias cobradas por infração ao disposto no presente decreto-lei reverte:\n\na) Em 60% para os cofres do Estado;\n\nb) Em 20 % para a ASAE;\n\nc) Em 10% para a Direção-Geral das Atividades Económicas (DGAE);\n\nd) Em 10% para o financiamento do mecanismo previsto no artigo 16.º, caso exista.\n\n2 - Caso não seja aplicável a alínea d) do número anterior, o produto do montante das coimas reverte para a ASAE."
+  },
+  "70883390": {
+   "fragment_id": "70861292",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório de execução\n\nA ASAE elabora, com uma periodicidade bienal, relatórios com indicação de todos os elementos estatísticos relevantes, relativos à aplicação do presente decreto-lei."
+  },
+  "70883391": {
+   "fragment_id": "70861293",
+   "type": 11,
+   "heading": "Artigo 16.º — Autorregulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autorregulação\n\n1 - Sem prejuízo do disposto no presente decreto-lei, as estruturas representativas de todos ou de alguns dos setores de atividade económica podem adotar instrumentos de autorregulação tendentes a regular as respetivas transações comerciais.\n\n2 - Os instrumentos de autorregulação adotados nos termos do número anterior estão sujeitos a homologação pelos membros do Governo responsáveis pela área da economia e pelos setores de atividade representados nos referidos instrumentos.\n\n3 - Os membros do Governo responsáveis pelas áreas da economia e da agricultura podem criar um mecanismo de acompanhamento da autorregulação, por portaria, que também define as competências e o modo de funcionamento do mesmo.\n\n4 - O financiamento do mecanismo de acompanhamento da autorregulação é assegurado exclusivamente pelas entidades que dele beneficiem, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 14.º"
+  },
+  "70883392": {
+   "fragment_id": "70861294",
+   "type": 11,
+   "heading": "Artigo 17.º — Validade dos contratos de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Validade dos contratos de fornecimento\n\n1 - Todos os contratos de fornecimento vigentes à data de entrada em vigor do presente decreto-lei cessam no prazo máximo de 12 meses, salvo se, dentro daquele prazo, forem revistos e compatibilizados com o regime jurídico previsto no presente diploma.\n\n2 - As cláusulas dos novos contratos que estejam em desconformidade com o regime jurídico previsto no presente decreto-lei são nulas."
+  },
+  "70883393": {
+   "fragment_id": "70861295",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei compete à DGAE, cabendo-lhe elaborar e publicar, no final do segundo ano a contar da data da respetiva entrada em vigor, e posteriormente com uma periodicidade bienal, com base em dados fornecidos pela ASAE, um relatório sobre a execução do diploma.\n\n2 - O relatório referido no número anterior deve incluir uma avaliação do mecanismo previsto para verificação da venda com prejuízo nos casos em que o desconto consista na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza."
+  },
+  "70883394": {
+   "fragment_id": "70861296",
+   "type": 11,
+   "heading": "Artigo 19.º — Transição de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transição de processos\n\n1 - Os processos contraordenacionais por infração ao Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelos Decretos-Leis n.os 10/2003, de 18 de janeiro, e 140/98, de 16 de maio, que se encontrem pendentes em fase de instrução na Autoridade da Concorrência no 30.º dia anterior à data da entrada em vigor do presente decreto-lei são remetidos oficiosamente à ASAE.\n\n2 - Nos casos a que se refere o número anterior, os prazos processuais ou substantivos suspendem-se no 30.º dia anterior à data da entrada em vigor do presente decreto-lei, reiniciando-se a contagem no 30.º dia posterior à referida data."
+  },
+  "70883395": {
+   "fragment_id": "70861297",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelo Decretos-Leis n.os 140/98, de 16 de maio, e 10/2003, de 18 de janeiro;\n\nb) A alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º 10/2003, de 18 de janeiro."
+  },
+  "70883396": {
+   "fragment_id": "70861298",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior, o artigo 19.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70876286": {
+   "fragment_id": "70861279",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2015-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei apenas é aplicável às empresas estabelecidas em território nacional.\n\n2 - Estão excluídos do âmbito de aplicação do presente decreto-lei:\n\na) Os serviços de interesse económico geral;\n\nb) A compra e venda de bens e as prestações de serviços, na medida em que estejam sujeitas a regulação setorial;\n\nc) (Revogada).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "70876287": {
+   "fragment_id": "70861281",
+   "type": 11,
+   "heading": "Artigo 4.º — Transparência nas políticas de preços e de condições de venda",
+   "in_force_from": "2015-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 4.º — Transparência nas políticas de preços e de condições de venda\n\n1 - Os produtores, fabricantes, importadores, distribuidores, embaladores e grossistas de bens e os prestadores de serviços são obrigados a facultar a qualquer revendedor ou utilizador tabelas de preços com as correspondentes condições de venda, quando solicitadas.\n\n2 - As condições de venda devem referenciar, nomeadamente, os prazos de pagamento, as diferentes modalidades de descontos praticados e os respetivos escalões, sempre que não estejam abrangidos por segredo comercial.\n\n3 - Devem ser reduzidas a escrito, sob pena de nulidade, quaisquer disposições sobre as condições em que uma empresa obtenha uma remuneração financeira ou de outra natureza dos seus fornecedores, como contrapartida da prestação de serviços específicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "70876288": {
+   "fragment_id": "70861282",
+   "type": 11,
+   "heading": "Artigo 5.º — Venda com prejuízo",
+   "in_force_from": "2015-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 5.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem a uma empresa ou a um consumidor por um preço inferior ao seu preço de compra efetivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efetivo o preço unitário constante da fatura de compra, líquido dos pagamentos ou descontos que se relacionem direta e exclusivamente com a transação dos produtos em causa, bem como dos que constem de notas de crédito e débito que remetam para aquela fatura e, bem assim, os que se encontrem identificados na própria fatura ou, por remissão desta, em contratos de fornecimento ou tabelas de preço que estejam em vigor no momento da transação e que sejam determináveis no momento da respetiva emissão.\n\n3 - Para efeitos do disposto no número anterior, entende-se por descontos relacionados direta e exclusivamente com a transação em causa os descontos de quantidade, os descontos financeiros e os descontos promocionais desde que identificáveis quanto ao produto, respetiva quantidade e período por que vão vigorar.\n\n4 - Os descontos que forem concedidos num determinado produto são considerados na determinação do respetivo preço de venda.\n\n5 - Para efeitos de aplicação do número anterior, os descontos que consistirem na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza, concedidos em cada produto, são imputados à quantidade vendida do mesmo produto e do mesmo fornecedor, no mesmo estabelecimento, nos últimos 30 dias.\n\n6 - Para os efeitos do presente decreto-lei, as faturas de compra consideram-se aceites em todos os seus termos e reconhecidas pelos seus destinatários, quando não tenham sido objeto de reclamação no prazo de 25 dias seguintes à respetiva receção.\n\n7 - Em caso de desconformidade da fatura, a sanação do vício e a emissão de uma fatura retificada deve ocorrer no prazo de 20 dias após a reclamação prevista no número anterior.\n\n8 - Para os efeitos do disposto no presente artigo, não são consideradas as alterações contidas em faturas retificadas, emitidas em data posterior aos prazos indicados.\n\n9 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.\n\n10 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afetado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento com outros bens, de características equivalentes, se efetue a preço inferior, sendo então o preço efetivo de compra substituído pelo preço resultante da nova fatura de compra;\n\nd) Bens vendidos em saldo ou liquidação.\n\n11 - A prova documental do preço de compra efetivo, do preço de venda para efeitos do disposto nos n.os 4 e 5, bem como das justificações previstas no número anterior cabe ao vendedor, sem prejuízo de a entidade fiscalizadora poder solicitar as informações que julgar convenientes aos fornecedores ou a quaisquer outras entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "70876289": {
+   "fragment_id": "70861284",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas negociais abusivas",
+   "in_force_from": "2015-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Práticas negociais abusivas\n\n1 - São proibidas as práticas negociais entre empresas que se traduzam:\n\na) Na imposição da impossibilidade de venda a qualquer outra empresa a um preço mais baixo;\n\nb) Na obtenção de preços, condições de pagamento, modalidades de venda ou condições de cooperação comercial exorbitantes relativamente às suas condições gerais de venda;\n\nc) Na imposição unilateral, direta ou indireta:\n\ni) de realização de uma promoção de um determinado produto;\n\nii) de quaisquer pagamentos enquanto contrapartida de uma promoção;\n\nd) Na obtenção de contrapartidas por promoções em curso ou já ocorridas, incluindo os descontos que consistirem na atribuição de um direito de compensação em aquisição posterior de bens equivalentes ou de outra natureza;\n\ne) Na alteração retroativa de um contrato de fornecimento.\n\n2 - Para efeitos do número anterior, consideram-se como «exorbitantes relativamente às condições gerais de venda» os preços, condições de pagamento, modalidades de venda ou condições de cooperação comercial que se traduzam na concessão de um benefício ao comprador, ou ao vendedor, não proporcional ao volume de compras ou vendas ou, se for caso disso, ao valor dos serviços prestados.\n\n3 - São, ainda, proibidas, no setor agroalimentar, as práticas negociais do comprador quando o fornecedor seja uma micro ou pequena empresa, organização de produtores ou cooperativa, e que se traduzam em:\n\na) Rejeitar ou devolver os produtos entregues, com fundamento na menor qualidade de parte ou da totalidade da encomenda ou no atraso da entrega, sem que seja demonstrada, pelo comprador, a responsabilidade do fornecedor por esse facto;\n\nb) Impor um pagamento, diretamente ou sob a forma de desconto:\n\ni) Pela não concretização das expectativas do comprador quanto ao volume ou valor das vendas;\n\nii) Para introdução ou reintrodução de produtos;\n\niii) Como compensação por custos decorrentes de uma queixa do consumidor, exceto quando o comprador demonstre que essa queixa se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\niv) Para cobrir qualquer desperdício dos produtos do fornecedor, exceto quando o comprador demonstre que tal se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\nv) Por custos relativos a transporte e armazenamento posteriores à entrega do produto;\n\nvi) Como contribuição para abertura de novos estabelecimentos ou remodelação dos existentes;\n\nvii) Como condição para iniciar uma relação comercial com um fornecedor.\n\n4 - Qualquer cláusula contratual que viole o disposto no presente artigo é nula e tem-se por não escrita.\n\n5 - As práticas negociais não proibidas pelo presente artigo, nomeadamente em virtude da dimensão ou do setor de atividade dos intervenientes, devem ser objeto de autorregulação nos instrumentos a que se refere o artigo 16.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "70883397": {
+   "fragment_id": "70861299",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de outubro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 16 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "124311795": {
+   "fragment_id": "70861279",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei é aplicável às práticas que ocorram em território nacional, ou que neste possam ter efeitos.\n\n2 - Estão excluídos do âmbito de aplicação do presente decreto-lei:\n\na) Os serviços de interesse económico geral;\n\nb) A compra e venda de bens e as prestações de serviços, na medida em que estejam sujeitas a regulação setorial;\n\nc) (Revogada).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "124311802": {
+   "fragment_id": "70861280",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação de preços ou de condições de venda discriminatórios",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Aplicação de preços ou de condições de venda discriminatórios\n\n1 - É proibido a uma empresa praticar em relação a outra empresa preços ou condições de venda discriminatórios relativamente a prestações equivalentes, nomeadamente quando tal prática se traduza na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento, não justificadas por diferenças correspondentes no custo de fornecimento ou do serviço, nem resultantes de práticas conformes ao Direito da Concorrência.\n\n2 - São prestações equivalentes aquelas que respeitem a bens ou serviços similares e que não difiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham uma repercussão nos correspondentes custos de produção ou de comercialização.\n\n3 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.\n\n4 - Não são consideradas discriminatórias as ofertas de objetos desprovidos de valor comercial.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311796": {
+   "fragment_id": "70861281",
+   "type": 11,
+   "heading": "Artigo 4.º — Transparência e equilíbrio nas relações comerciais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 4.º — Transparência e equilíbrio nas relações comerciais\n\n1 - Os contratos e acordos entre empresas devem basear-se na existência de contrapartidas efetivas e proporcionais aplicáveis às suas transações comerciais de fornecimento de produtos ou de prestação de serviços.\n\n2 - Os produtores, fabricantes, importadores, distribuidores, embaladores e grossistas de bens e os prestadores de serviços são obrigados a possuir as tabelas de preços com as correspondentes condições de venda e facultá-las, quando solicitadas, a qualquer revendedor ou utilizador.\n\n3 - As condições de venda devem referenciar, nomeadamente, os prazos de pagamento, as diferentes modalidades de descontos praticados e os respetivos escalões, sempre que não estejam abrangidos por segredo comercial.\n\n4 - Devem ser reduzidas a escrito, sob pena de nulidade, quaisquer disposições sobre as condições em que uma empresa obtenha uma remuneração financeira ou de outra natureza dos seus fornecedores, como contrapartida da prestação de serviços específicos.\n\n5 - As tabelas de preços, condições de venda, contratos de fornecimento e quaisquer disposições reduzidas a escrito nos termos do número anterior devem ser mantidas em arquivo físico ou digital por um período de três anos e disponibilizadas à entidade fiscalizadora mediante solicitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "124311845": {
+   "fragment_id": "70861282",
+   "type": 11,
+   "heading": "Artigo 5.º — Venda com prejuízo",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 5.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem a uma empresa ou a um consumidor por um preço inferior ao seu preço de compra efetivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efetivo o preço unitário identificável na fatura de compra, líquido dos descontos e pagamentos que se relacionem direta e exclusivamente com a transação dos produtos em causa.\n\n3 - Para efeitos do disposto no número anterior, entende-se por:\n\na) Descontos relacionados direta e exclusivamente com a transação dos produtos em causa, os que forem identificáveis quanto ao produto, respetiva quantidade e período por que vão vigorar;\n\nb) Pagamentos relacionados direta e exclusivamente com a transação em causa, os que tenham sido previamente negociados entre as partes e reduzidos a escrito.\n\n4 - Os descontos e pagamentos referidos no n.º 2 devem estar identificados na própria fatura ou, por remissão desta, em contratos de fornecimento ou tabelas de preço que estejam em vigor no momento da transação, e que sejam determináveis no momento da respetiva emissão, ou ainda em notas de crédito ou débito quando emitidas no prazo de três meses seguintes à data da fatura a que se referem e estejam devidamente discriminados.\n\n5 - Os descontos que forem concedidos direta e exclusivamente na venda de um determinado produto são considerados na determinação do respetivo preço de venda.\n\n6 - Para efeitos de aplicação do número anterior, os descontos concedidos para utilização de forma diferida apenas são considerados para o preço de venda quando se destinem à aquisição posterior do mesmo produto.\n\n7 - Para os efeitos do presente decreto-lei, as faturas de compra consideram-se aceites em todos os seus termos e reconhecidas pelos seus destinatários, quando não tenham sido objeto de reclamação no prazo de 25 dias seguintes à respetiva receção.\n\n8 - Em caso de desconformidade da fatura, a sanação do vício e a emissão de uma fatura retificada deve ocorrer no prazo de 20 dias após a reclamação prevista no número anterior.\n\n9 - Para os efeitos do disposto no presente artigo, não são consideradas as alterações contidas em faturas retificadas, emitidas em data posterior aos prazos indicados.\n\n10 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.\n\n11 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afetado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento se efetue a preço inferior, sendo então o preço efetivo de compra substituído pelo preço resultante da nova fatura de compra;\n\nd) Bens vendidos em saldo ou liquidação.\n\n11 - A prova documental do preço de compra efetivo, do preço de venda para efeitos do disposto nos n.os 4 e 5, bem como das justificações previstas no número anterior cabe ao vendedor, sem prejuízo de a entidade fiscalizadora poder solicitar as informações que julgar convenientes aos fornecedores ou a quaisquer outras entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "124311803": {
+   "fragment_id": "70861283",
+   "type": 11,
+   "heading": "Artigo 6.º — Recusa de venda de bens ou de prestação de serviços",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Recusa de venda de bens ou de prestação de serviços\n\n1 - Sem prejuízo dos usos normais da respetiva atividade ou de disposições legais ou regulamentares aplicáveis, é proibido a uma empresa recusar a venda de bens ou a prestação de serviços a outra empresa, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado, exceto quando se verifique causa justificativa de recusa.\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - Para efeitos do disposto no n.º 1 do presente artigo, e sem prejuízo dos n.os 1 e 2 do artigo 19.º do Decreto-Lei n.º 92/2010, de 26 de julho, são consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A existência de acordos de distribuição exclusiva para determinado território, conformes ao Direito da Concorrência;\n\nh) A proteção da propriedade intelectual;\n\ni) As restrições vigentes no Direito da União Europeia e no Direito Internacional, nomeadamente para a repressão e combate da criminalidade e terrorismo;\n\nj) A dificuldade anormal de venda ou a prestação por motivos de força maior, nomeadamente em consequência de guerra, greve, lock-out, tumultos, comoções civis, assaltos, sequestros, sabotagem, terrorismo, atos de vandalismo, insurreições civis ou militares, assaltos ou fenómenos naturais de natureza catastrófica e imprevisível;\n\nk) A ocorrência de qualquer outra circunstância inerente às condições concretas da transação que, segundo os usos normais da respetiva atividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor ou para o comprador.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311797": {
+   "fragment_id": "70861284",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas negociais abusivas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Práticas negociais abusivas\n\n1 - Sem prejuízo das regras aplicáveis em matéria de cláusulas contratuais gerais, são proibidas quaisquer práticas negociais entre empresas que se traduzam:\n\na) No impedimento de venda a qualquer outra empresa a um preço mais baixo;\n\nb) Na obtenção de preços, condições de pagamento, modalidades de venda, sanções contratuais ou condições de cooperação comercial exorbitantes relativamente às suas condições contratuais gerais;\n\nc) Na imposição unilateral, direta ou indireta:\n\ni) de realização de uma promoção de um determinado produto;\n\nii) de quaisquer pagamentos enquanto contrapartida de uma promoção;\n\nd) Na obtenção de quaisquer contrapartidas por promoções em curso ou já ocorridas, ou quaisquer outras que não sejam efetivas e proporcionais, designadamente através da emissão de notas de crédito e débito com prazo superior a três meses da data da fatura a que se referem;\n\ne) Uma alteração retroativa, ainda que extracontratual, de condições estabelecidas em contratos de fornecimento.\n\n2 - Para efeitos da alínea b) do n.º 1, consideram-se como «exorbitantes relativamente às condições gerais de venda» os preços, condições de pagamento, modalidades de venda, sanções contratuais, ou condições de cooperação comercial que se traduzam na concessão de um benefício ao comprador, ou ao vendedor, não proporcional ao volume de compras ou vendas ou, se for caso disso, ao valor dos serviços prestados.\n\n3 - São ainda proibidas quaisquer práticas negociais entre empresas que se traduzam na dedução, por uma das partes, de valores aos montantes da faturação devidos pelo fornecimento de bens ou prestação de serviços, quando:\n\na) Não estejam devidamente discriminados os motivos a que se referem, e\n\nb) A outra parte se pronuncie desfavorável e fundamentadamente no prazo de 25 dias.\n\n4 - É igualmente proibida qualquer prática unilateral que vise ou consubstancie:\n\na) Uma imposição de antecipação de cumprimento de contratos, sem indemnização;\n\nb) Uma imposição de débitos não contratualmente previstos, após o fornecimento dos bens ou serviços.\n\n5 - Quando o fornecedor seja uma micro ou pequena empresa, organização de produtores ou cooperativa, são ainda proibidas as práticas negociais do comprador que se traduzam em impor um pagamento, diretamente ou sob a forma de desconto:\n\na) Pela não concretização das expectativas do comprador quanto ao volume ou valor das vendas;\n\nb) Para introdução ou reintrodução de produtos;\n\nc) Como compensação por custos decorrentes de uma queixa do consumidor, exceto quando o comprador demonstre que essa queixa se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\nd) Por custos relativos a transporte e armazenamento posteriores à entrega do produto;\n\ne) Como contribuição para abertura de novos estabelecimentos ou remodelação dos existentes;\n\nf) Como condição para iniciar uma relação comercial com um fornecedor.\n\n6 - Para além do disposto no número anterior, são proibidas, no setor agroalimentar, as práticas negociais do comprador, quando o fornecedor seja uma micro ou pequena empresa, organização de produtores ou cooperativa, que se traduzam em:\n\na) Rejeitar ou devolver os produtos entregues, com fundamento na menor qualidade de parte ou da totalidade da encomenda ou no atraso da entrega, sem que seja demonstrada, pelo comprador, a responsabilidade do fornecedor por esse facto;\n\nb) Impor um pagamento, diretamente ou sob a forma de desconto para cobrir qualquer desperdício dos produtos do fornecedor, exceto quando o comprador demonstre que tal se deve a negligência, falha ou incumprimento contratual do fornecedor.\n\n7 - Qualquer cláusula contratual que viole o disposto no presente artigo é nula e tem-se por não escrita.\n\n8 - As práticas negociais não proibidas pelo presente artigo, nomeadamente em virtude da dimensão ou do setor de atividade dos intervenientes, devem ser objeto de autorregulação nos instrumentos a que se refere o artigo 16.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "124311779": {
+   "fragment_id": "124283170",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Fiscalização, investigação e denúncia",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Fiscalização, investigação e denúncia\n\n1 - A entidade fiscalizadora pode, mediante conhecimento da prática de infração, proceder à investigação e desencadear as ações inspetivas que entenda necessárias ao apuramento da verdade e à prossecução do interesse público na repressão de práticas restritivas do comércio.\n\n2 - Os denunciantes, sejam empresas ou associações empresariais que em nome dos seus associados apresentem denúncias, de práticas restritivas proibidas pelo presente decreto-lei têm direito à confidencialidade sobre a sua identidade, ou sobre a identidade dos associados em causa, consoante o caso, exceto perante a entidade fiscalizadora.\n\n3 - A disponibilização à entidade fiscalizadora das informações, documentos e demais elementos necessários à investigação não constitui incumprimento de qualquer dever de segredo imposto por regulamento ou contratualmente estabelecido.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311798": {
+   "fragment_id": "70861285",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas cautelares",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Medidas cautelares\n\n1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de uma prática restritiva do comércio suscetível de afetar o normal funcionamento do mercado, sempre que constate que existem indícios fortes da sua verificação, ainda que na forma tentada.\n\n2 - Após a aplicação de medida cautelar provisória nos termos do número anterior, a entidade fiscalizadora promove a audição do interessado no prazo máximo de cinco dias e decide sobre a conversão da medida cautelar provisória em definitiva no prazo máximo de 10 dias após a realização da audição.\n\n3 - Na ausência de promoção de audição ou de decisão nos prazos referidos no número anterior, a medida cautelar provisória e a sanção pecuniária compulsória a que se refere o artigo 11.º, caducam automaticamente.\n\n4 - A medida cautelar definitiva e a sanção pecuniária compulsória a que se refere o artigo 11.º vigoram até à sua revogação, por período não superior a 90 dias, salvo prorrogação, devidamente fundamentada, por igual período, devendo o despacho de acusação em processo contraordenacional ser notificado ao arguido prazo máximo de 180 dias.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311799": {
+   "fragment_id": "70861286",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima:\n\na) A violação do disposto no n.º 4 do artigo 4.º, no n.º 1 do artigo 5.º e nos n.os 1 e 6 do artigo 7.º;\n\nb) A violação do disposto no n.º 2 do artigo 4.º;\n\nc) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora;\n\nd) A violação das medidas cautelares impostas pela entidade competente;\n\ne) A violação do disposto nos n.os 3, 4 e 5 do artigo 7.º\n\n2 - A negligência e a tentativa são puníveis, nos termos gerais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311800": {
+   "fragment_id": "70861287",
+   "type": 11,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Coimas\n\n1 - As contraordenações referidas nas alíneas a) e d) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 750 EUR e máxima de 20 000 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 2 500 EUR e máxima de 50 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 3 000 EUR e máxima de 150 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 4 000 EUR e máxima de 450 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 5 000 EUR e máxima de 2 500 000 EUR.\n\n2 - As contraordenações referidas nas alíneas b) e c) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 250 EUR e máxima de 7500 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 500 EUR e máxima de 10 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 750 EUR e máxima de 25 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 1 000 EUR e máxima de 100 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 2 500 EUR e máxima de 500 000 EUR.\n\n3 - As contraordenações referidas na alínea e) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 3,74 EUR e máxima de 3740,98 EUR;\n\nb) Se praticadas por pessoa coletiva, coima mínima de 3,74 EUR e máxima de 44.891,81 EUR.\n\n4 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos na Recomendação n.º <a href=\"eurlex.asp?ano=2003&id=303H0361\" title=\"Link para Recomendação da Comunidade Europeia\">2003/361/CE</a>, da Comissão Europeia, de 6 de maio de 2003.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311783": {
+   "fragment_id": "70861288",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções pecuniárias compulsórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções pecuniárias compulsórias\n\n1 - A entidade competente pode aplicar uma sanção pecuniária compulsória no caso de o agente não cumprir a decisão que impõe a adoção de medidas cautelares ou a decisão a que se refere o n.º 1 do artigo 8.º\n\n2 - A sanção pecuniária compulsória referida no número anterior consiste no pagamento de uma quantia pecuniária por cada dia de incumprimento que se verifique para além do prazo fixado para o cumprimento da obrigação.\n\n3 - A sanção pecuniária compulsória é fixada segundo critérios de razoabilidade e proporcionalidade, atendendo ao volume de negócios do infrator realizado no ano civil anterior e ao impacto negativo causado no mercado e nos utilizadores pelo incumprimento, podendo o seu montante diário oscilar entre 2 000 EUR e 50 000 EUR.\n\n4 - Os montantes fixados podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar, cumulativamente:\n\na) Um período máximo de 30 dias;\n\nb) O montante máximo acumulado de 1 500 000 EUR."
+  },
+  "124311784": {
+   "fragment_id": "70861289",
+   "type": 11,
+   "heading": "Artigo 12.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Legislação subsidiária\n\nÀs contraordenações previstas no presente decreto-lei aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "124311785": {
+   "fragment_id": "70861290",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização, instrução e decisão dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização, instrução e decisão dos processos\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos processos de contraordenação.\n\n2 - A decisão de aplicação das coimas compete ao inspetor-geral da ASAE."
+  },
+  "124311786": {
+   "fragment_id": "70861291",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino do montante das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Destino do montante das coimas\n\n1 - O produto das coimas e sanções pecuniárias compulsórias cobradas por infração ao disposto no presente decreto-lei reverte:\n\na) Em 60% para os cofres do Estado;\n\nb) Em 20 % para a ASAE;\n\nc) Em 10% para a Direção-Geral das Atividades Económicas (DGAE);\n\nd) Em 10% para o financiamento do mecanismo previsto no artigo 16.º, caso exista.\n\n2 - Caso não seja aplicável a alínea d) do número anterior, o produto do montante das coimas reverte para a ASAE."
+  },
+  "124311787": {
+   "fragment_id": "70861292",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório de execução\n\nA ASAE elabora, com uma periodicidade bienal, relatórios com indicação de todos os elementos estatísticos relevantes, relativos à aplicação do presente decreto-lei."
+  },
+  "124311788": {
+   "fragment_id": "70861293",
+   "type": 11,
+   "heading": "Artigo 16.º — Autorregulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autorregulação\n\n1 - Sem prejuízo do disposto no presente decreto-lei, as estruturas representativas de todos ou de alguns dos setores de atividade económica podem adotar instrumentos de autorregulação tendentes a regular as respetivas transações comerciais.\n\n2 - Os instrumentos de autorregulação adotados nos termos do número anterior estão sujeitos a homologação pelos membros do Governo responsáveis pela área da economia e pelos setores de atividade representados nos referidos instrumentos.\n\n3 - Os membros do Governo responsáveis pelas áreas da economia e da agricultura podem criar um mecanismo de acompanhamento da autorregulação, por portaria, que também define as competências e o modo de funcionamento do mesmo.\n\n4 - O financiamento do mecanismo de acompanhamento da autorregulação é assegurado exclusivamente pelas entidades que dele beneficiem, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 14.º"
+  },
+  "124311789": {
+   "fragment_id": "70861294",
+   "type": 11,
+   "heading": "Artigo 17.º — Validade dos contratos de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Validade dos contratos de fornecimento\n\n1 - Todos os contratos de fornecimento vigentes à data de entrada em vigor do presente decreto-lei cessam no prazo máximo de 12 meses, salvo se, dentro daquele prazo, forem revistos e compatibilizados com o regime jurídico previsto no presente diploma.\n\n2 - As cláusulas dos novos contratos que estejam em desconformidade com o regime jurídico previsto no presente decreto-lei são nulas."
+  },
+  "124311801": {
+   "fragment_id": "70861295",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei compete à DGAE, cabendo-lhe elaborar e publicar, no seu sítio na Internet, no final do segundo ano a contar da data da respetiva entrada em vigor, e posteriormente com uma periodicidade bienal, em articulação com a ASAE e Autoridade da Concorrência, um relatório sobre a execução do diploma.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "124311791": {
+   "fragment_id": "70861296",
+   "type": 11,
+   "heading": "Artigo 19.º — Transição de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transição de processos\n\n1 - Os processos contraordenacionais por infração ao Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelos Decretos-Leis n.os 10/2003, de 18 de janeiro, e 140/98, de 16 de maio, que se encontrem pendentes em fase de instrução na Autoridade da Concorrência no 30.º dia anterior à data da entrada em vigor do presente decreto-lei são remetidos oficiosamente à ASAE.\n\n2 - Nos casos a que se refere o número anterior, os prazos processuais ou substantivos suspendem-se no 30.º dia anterior à data da entrada em vigor do presente decreto-lei, reiniciando-se a contagem no 30.º dia posterior à referida data."
+  },
+  "124311792": {
+   "fragment_id": "70861297",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelo Decretos-Leis n.os 140/98, de 16 de maio, e 10/2003, de 18 de janeiro;\n\nb) A alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º 10/2003, de 18 de janeiro."
+  },
+  "124311793": {
+   "fragment_id": "70861298",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior, o artigo 19.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124311794": {
+   "fragment_id": "70861299",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de outubro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 16 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "131051353": {
+   "fragment_id": "70861286",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima:\n\na) A violação do disposto no n.º 4 do artigo 4.º, no n.º 1 do artigo 5.º e nos n.os 1 e 3 a 6 do artigo 7.º;\n\nb) A violação do disposto no n.º 2 do artigo 4.º;\n\nc) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora;\n\nd) A violação das medidas cautelares impostas pela entidade competente;\n\ne) (Revogada).\n\n2 - A negligência e a tentativa são puníveis, nos termos gerais.\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "131051354": {
+   "fragment_id": "70861287",
+   "type": 11,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Coimas\n\n1 - As contraordenações referidas nas alíneas a) e d) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 750 EUR e máxima de 20 000 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 2 500 EUR e máxima de 50 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 3 000 EUR e máxima de 150 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 4 000 EUR e máxima de 450 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 5 000 EUR e máxima de 2 500 000 EUR.\n\n2 - As contraordenações referidas nas alíneas b) e c) do n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 250 EUR e máxima de 7500 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 500 EUR e máxima de 10 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 750 EUR e máxima de 25 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 1 000 EUR e máxima de 100 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 2 500 EUR e máxima de 500 000 EUR.\n\n3 - (Revogado.)\n\n4 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos na Recomendação n.º <a href=\"eurlex.asp?ano=2003&id=303H0361\" title=\"Link para Recomendação da Comunidade Europeia\">2003/361/CE</a>, da Comissão Europeia, de 6 de maio de 2003.\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "156104926": {
+   "fragment_id": "70861286",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave:\n\na) A violação do disposto no n.º 4 do artigo 4.º, no n.º 1 do artigo 5.º e nos n.os 1 e 3 a 6 do artigo 7.º;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) A violação das medidas cautelares impostas pela entidade competente;\n\ne) (Revogada).\n\n2 - Constitui contraordenação económica grave:\n\na) A violação do disposto no n.º 2 do artigo 4.º;\n\nb) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora.\n\n3 - A tentativa e a negligência são puníveis nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "156104927": {
+   "fragment_id": "70861287",
+   "type": 11,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Coimas\n\n1 - As contraordenações económicas muito graves previstas no n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 750 EUR e máxima de 20 000 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 2 500 EUR e máxima de 50 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 3 000 EUR e máxima de 150 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 4 000 EUR e máxima de 450 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 5 000 EUR e máxima de 2 500 000 EUR.\n\n2 - As contraordenações económicas graves previstas no n.º 2 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 250 EUR e máxima de 7500 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 500 EUR e máxima de 10 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 750 EUR e máxima de 25 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 1 000 EUR e máxima de 100 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 2 500 EUR e máxima de 500 000 EUR.\n\n3 - (Revogado.)\n\n4 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos no RJCE.\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "156104928": {
+   "fragment_id": "70861289",
+   "type": 11,
+   "heading": "Artigo 12.º — Legislação subsidiária",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Legislação subsidiária\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE, com exceção da norma relativa ao montante das coimas.\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104929": {
+   "fragment_id": "70861291",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino do montante das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º — Destino do montante das coimas\n\n1 - O produto das coimas e sanções pecuniárias compulsórias cobradas por infração ao disposto no presente decreto-lei é repartido nos termos do RJCE.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "170376080": {
+   "fragment_id": "170337478",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Âmbito subjetivo das práticas negociais no setor agroalimentar",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Âmbito subjetivo das práticas negociais no setor agroalimentar\n\nO disposto no presente decreto-lei é aplicável aos contratos celebrados com:\n\na) Fornecedores singulares ou coletivos do setor agroalimentar, independentemente do Estado-Membro da União Europeia em que estejam estabelecidos, bem como às organizações de produtores e respetivas associações, reconhecidas nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) Compradores singulares ou coletivos de produtos agrícolas e alimentares ou agrupamentos destes, independentemente do Estado-Membro da União Europeia em que se encontrem estabelecidos, ou com compradores que sejam entidades públicas, entendendo-se como tal os serviços e entidades que integram a administração direta, indireta e autónoma do Estado, incluindo os serviços e entidades da administração regional, local e associações públicas sujeitos a um regime de direito público.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170376081": {
+   "fragment_id": "70861280",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação de preços ou de condições de venda discriminatórios",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Aplicação de preços ou de condições de venda discriminatórios\n\n1 - É proibido a uma empresa praticar em relação a outra empresa preços ou condições de venda discriminatórios relativamente a prestações equivalentes, nomeadamente quando tal prática se traduza na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento, não justificadas por diferenças correspondentes no custo de fornecimento ou do serviço, nem resultantes de práticas conformes ao Direito da Concorrência.\n\n2 - São prestações equivalentes aquelas que respeitem a bens ou serviços similares e que não difiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham uma repercussão nos correspondentes custos de produção ou de comercialização.\n\n3 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.\n\n4 - Não são consideradas discriminatórias as ofertas de objetos desprovidos de valor comercial.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376082": {
+   "fragment_id": "70861281",
+   "type": 11,
+   "heading": "Artigo 4.º — Transparência e equilíbrio nas relações comerciais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 4.º — Transparência e equilíbrio nas relações comerciais\n\n1 - Os contratos e acordos entre empresas devem basear-se na existência de contrapartidas efetivas e proporcionais aplicáveis às suas transações comerciais de fornecimento de produtos ou de prestação de serviços.\n\n2 - Os produtores, fabricantes, importadores, distribuidores, embaladores e grossistas de bens e os prestadores de serviços são obrigados a possuir as tabelas de preços com as correspondentes condições de venda e facultá-las, quando solicitadas, a qualquer revendedor ou utilizador.\n\n3 - As condições de venda devem referenciar, nomeadamente, os prazos de pagamento, as diferentes modalidades de descontos praticados e os respetivos escalões, sempre que não estejam abrangidos por segredo comercial.\n\n4 - Devem ser reduzidas a escrito, sob pena de nulidade, quaisquer disposições sobre as condições em que uma empresa obtenha uma remuneração financeira ou de outra natureza dos seus fornecedores, como contrapartida da prestação de serviços específicos.\n\n5 - As tabelas de preços, condições de venda, contratos de fornecimento e quaisquer disposições reduzidas a escrito nos termos do número anterior devem ser mantidas em arquivo físico ou digital por um período de três anos e disponibilizadas à entidade fiscalizadora mediante solicitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "170376083": {
+   "fragment_id": "70861282",
+   "type": 11,
+   "heading": "Artigo 5.º — Venda com prejuízo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 5.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem a uma empresa ou a um consumidor por um preço inferior ao seu preço de compra efetivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efetivo o preço unitário identificável na fatura de compra, líquido dos descontos e pagamentos que se relacionem direta e exclusivamente com a transação dos produtos em causa.\n\n3 - Para efeitos do disposto no número anterior, entende-se por:\n\na) Descontos relacionados direta e exclusivamente com a transação dos produtos em causa, os que forem identificáveis quanto ao produto, respetiva quantidade e período por que vão vigorar;\n\nb) Pagamentos relacionados direta e exclusivamente com a transação em causa, os que tenham sido previamente negociados entre as partes e reduzidos a escrito.\n\n4 - Os descontos e pagamentos referidos no n.º 2 devem estar identificados na própria fatura ou, por remissão desta, em contratos de fornecimento ou tabelas de preço que estejam em vigor no momento da transação, e que sejam determináveis no momento da respetiva emissão, ou ainda em notas de crédito ou débito quando emitidas no prazo de três meses seguintes à data da fatura a que se referem e estejam devidamente discriminados.\n\n5 - Os descontos que forem concedidos direta e exclusivamente na venda de um determinado produto são considerados na determinação do respetivo preço de venda.\n\n6 - Para efeitos de aplicação do número anterior, os descontos concedidos para utilização de forma diferida apenas são considerados para o preço de venda quando se destinem à aquisição posterior do mesmo produto.\n\n7 - Para os efeitos do presente decreto-lei, as faturas de compra consideram-se aceites em todos os seus termos e reconhecidas pelos seus destinatários, quando não tenham sido objeto de reclamação no prazo de 25 dias seguintes à respetiva receção.\n\n8 - Em caso de desconformidade da fatura, a sanação do vício e a emissão de uma fatura retificada deve ocorrer no prazo de 20 dias após a reclamação prevista no número anterior.\n\n9 - Para os efeitos do disposto no presente artigo, não são consideradas as alterações contidas em faturas retificadas, emitidas em data posterior aos prazos indicados.\n\n10 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.\n\n11 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afetado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento se efetue a preço inferior, sendo então o preço efetivo de compra substituído pelo preço resultante da nova fatura de compra;\n\nd) Bens vendidos em saldo ou liquidação.\n\n11 - A prova documental do preço de compra efetivo, do preço de venda para efeitos do disposto nos n.os 4 e 5, bem como das justificações previstas no número anterior cabe ao vendedor, sem prejuízo de a entidade fiscalizadora poder solicitar as informações que julgar convenientes aos fornecedores ou a quaisquer outras entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "170376084": {
+   "fragment_id": "70861283",
+   "type": 11,
+   "heading": "Artigo 6.º — Recusa de venda de bens ou de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Recusa de venda de bens ou de prestação de serviços\n\n1 - Sem prejuízo dos usos normais da respetiva atividade ou de disposições legais ou regulamentares aplicáveis, é proibido a uma empresa recusar a venda de bens ou a prestação de serviços a outra empresa, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado, exceto quando se verifique causa justificativa de recusa.\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - Para efeitos do disposto no n.º 1 do presente artigo, e sem prejuízo dos n.os 1 e 2 do artigo 19.º do Decreto-Lei n.º 92/2010, de 26 de julho, são consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A existência de acordos de distribuição exclusiva para determinado território, conformes ao Direito da Concorrência;\n\nh) A proteção da propriedade intelectual;\n\ni) As restrições vigentes no Direito da União Europeia e no Direito Internacional, nomeadamente para a repressão e combate da criminalidade e terrorismo;\n\nj) A dificuldade anormal de venda ou a prestação por motivos de força maior, nomeadamente em consequência de guerra, greve, lock-out, tumultos, comoções civis, assaltos, sequestros, sabotagem, terrorismo, atos de vandalismo, insurreições civis ou militares, assaltos ou fenómenos naturais de natureza catastrófica e imprevisível;\n\nk) A ocorrência de qualquer outra circunstância inerente às condições concretas da transação que, segundo os usos normais da respetiva atividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor ou para o comprador.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376085": {
+   "fragment_id": "70861284",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas negociais abusivas",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Práticas negociais abusivas\n\n1 - Sem prejuízo das regras aplicáveis em matéria de cláusulas contratuais gerais, são proibidas quaisquer práticas negociais entre empresas que se traduzam:\n\na) No impedimento de venda a qualquer outra empresa a um preço mais baixo;\n\nb) Na obtenção de preços, condições de pagamento, modalidades de venda, sanções contratuais ou condições de cooperação comercial exorbitantes relativamente às suas condições contratuais gerais;\n\nc) Na imposição unilateral, direta ou indireta:\n\ni) de realização de uma promoção de um determinado produto;\n\nii) de quaisquer pagamentos enquanto contrapartida de uma promoção;\n\nd) Na obtenção de quaisquer contrapartidas por promoções em curso ou já ocorridas, ou quaisquer outras que não sejam efetivas e proporcionais, designadamente através da emissão de notas de crédito e débito com prazo superior a três meses da data da fatura a que se referem;\n\ne) Uma alteração retroativa, ainda que extracontratual, de condições estabelecidas em contratos de fornecimento.\n\nf) Na penalização do fornecedor pela dificuldade de fornecimento de encomendas desproporcionadas face às quantidades normais do consumo do adquirente ou aos volumes habituais de entregas do vendedor, quando o fornecimento que, em condições normais, seria concluído o não puder ser, por motivos imprevistos e de força maior, recaindo sobre o fornecedor o ónus de provar esse impedimento;\n\ng) Na aquisição, utilização ou divulgação ilegais de segredos comerciais do fornecedor, como tal configuradas no Código da Propriedade Industrial, aprovado em anexo ao Decreto-Lei n.º 110/2018, de 10 de dezembro, na sua redação atual;\n\nh) Na ameaça ou concretização de atos de retaliação comercial contra o fornecedor que exerce os seus direitos contratuais ou legais, nomeadamente ao apresentar uma queixa às autoridades competentes ou ao cooperar com as autoridades competentes no decurso de uma investigação.\n\n2 - Para efeitos da alínea b) do n.º 1, consideram-se como «exorbitantes relativamente às condições gerais de venda» os preços, condições de pagamento, modalidades de venda, sanções contratuais, ou condições de cooperação comercial que se traduzam na concessão de um benefício ao comprador, ou ao vendedor, não proporcional ao volume de compras ou vendas ou, se for caso disso, ao valor dos serviços prestados.\n\n3 - São ainda proibidas quaisquer práticas negociais entre empresas que se traduzam na dedução, por uma das partes, de valores aos montantes da faturação devidos pelo fornecimento de bens ou prestação de serviços, quando:\n\na) Não estejam devidamente discriminados os motivos a que se referem, e\n\nb) A outra parte se pronuncie desfavorável e fundamentadamente no prazo de 25 dias.\n\n4 - É igualmente proibida qualquer prática unilateral que vise ou consubstancie:\n\na) Uma imposição de antecipação de cumprimento de contratos, sem indemnização;\n\nb) Uma imposição de débitos não contratualmente previstos, após o fornecimento dos bens ou serviços.\n\n5 - São ainda proibidas as práticas negociais do comprador que se traduzam em impor um pagamento, diretamente ou sob a forma de desconto:\n\na) Pela não concretização das expectativas do comprador quanto ao volume ou valor das vendas;\n\nb) Para introdução ou reintrodução de produtos;\n\nc) Como compensação por custos decorrentes de uma queixa do consumidor, exceto quando o comprador demonstre que essa queixa se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\nd) Por custos relativos a transporte e armazenamento posteriores à entrega do produto;\n\ne) Como contribuição para abertura de novos estabelecimentos ou remodelação dos existentes;\n\nf) Como condição para iniciar uma relação comercial com um fornecedor.\n\n6 - (Revogado.)\n\n7 - O prazo previsto na alínea d) do n.º 1 pode, excecionalmente, ser prolongado no caso de venda de veículos automóveis novos, embarcações de recreio e náutica, máquinas industriais, máquinas agrícolas e autocaravanas, desde que devidamente justificado, designadamente quando a complexidade logística impossibilite o seu cumprimento, e de mútuo acordo entre as partes, não podendo, no entanto, exceder os seis meses.\n\n8 - Qualquer cláusula contratual que viole o disposto no presente artigo é nula e tem-se por não escrita.\n\n9 - As práticas negociais não proibidas pelo presente artigo, nomeadamente em virtude da dimensão ou do setor de atividade dos intervenientes, devem ser objeto de autorregulação nos instrumentos a que se refere o artigo 16.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "170376086": {
+   "fragment_id": "124283170",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Fiscalização, investigação e denúncia",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Fiscalização, investigação e denúncia\n\n1 - A entidade fiscalizadora pode, mediante conhecimento da prática de infração, proceder à investigação e desencadear as ações inspetivas que entenda necessárias ao apuramento da verdade e à prossecução do interesse público na repressão de práticas restritivas do comércio.\n\n2 - Os denunciantes, sejam empresas ou associações empresariais que em nome dos seus associados apresentem denúncias, de práticas restritivas proibidas pelo presente decreto-lei têm direito à confidencialidade sobre a sua identidade, ou sobre a identidade dos associados em causa, consoante o caso, exceto perante a entidade fiscalizadora.\n\n3 - A disponibilização à entidade fiscalizadora das informações, documentos e demais elementos necessários à investigação não constitui incumprimento de qualquer dever de segredo imposto por regulamento ou contratualmente estabelecido.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376102": {
+   "fragment_id": "170337479",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Práticas negociais proibidas no setor agroalimentar",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-B — Práticas negociais proibidas no setor agroalimentar\n\nSem prejuízo do disposto nos artigos anteriores, são ainda proibidas as seguintes práticas negociais do comprador nas transações comerciais que tenham por objeto produtos agrícolas ou alimentares:\n\na) Notificação do cancelamento de encomendas de produtos perecíveis num prazo inferior a 30 dias antes da data prevista de entrega, entendendo-se como perecíveis os produtos suscetíveis de se tornarem impróprios para venda no prazo máximo de 30 dias após a sua colheita, produção ou transformação;\n\nb) Alteração unilateral do contrato relativamente à frequência, método, local, calendário ou volume do fornecimento ou entrega, assim como das normas de qualidade, preços, condições de pagamento ou prestação dos serviços intrinsecamente associados ao contrato, nos termos do artigo 7.º-C;\n\nc) Imposição de pagamentos, diretamente ou sob a forma de desconto:\n\ni) Não relacionados com a venda de produtos agrícolas ou alimentares do fornecedor;\n\nii) Pela deterioração, perda ou desperdício de produtos do fornecedor que ocorra nas instalações do comprador, após a transferência da sua propriedade para o comprador, exceto quando o comprador demonstre que tal se deve a negligência, dolo ou incumprimento contratual do fornecedor;\n\nd) Rejeição ou devolução de produtos entregues, com fundamento na menor qualidade de parte ou da totalidade da encomenda ou no atraso da entrega, sem que seja demonstrada, pelo comprador, a responsabilidade do fornecedor por esse facto;\n\ne) Recusa de confirmação por escrito dos termos de um acordo, quando tal tenha sido expressamente solicitado pelo fornecedor, exceto nas transações comerciais entre as cooperativas constituídas ao abrigo do Decreto-Lei n.º 335/99, de 20 de agosto, na sua redação atual, ou as organizações de produtores e respetivas associações, reconhecidas nos termos da Portaria n.º 298/2019, de 9 de setembro, e os seus respetivos membros, sempre que os respetivos estatutos ou decisões deles decorrentes incluam disposições de efeito semelhante aos termos do acordo de fornecimento.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170376118": {
+   "fragment_id": "170337480",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Práticas negociais sujeitas a acordo no setor agroalimentar",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-C — Práticas negociais sujeitas a acordo no setor agroalimentar\n\n1 - Sem prejuízo do disposto nos artigos anteriores, são ainda proibidas as seguintes práticas negociais no âmbito de transações comerciais que tenham por objeto produtos agrícolas ou alimentares, salvo se as mesmas tiverem sido previamente estipuladas de forma clara e inequívoca no acordo de fornecimento ou em qualquer acordo posteriormente celebrado entre o fornecedor e o comprador:\n\na) Devolução pelo comprador de produtos não vendidos, sem efetuar o pagamento desses produtos, ou o pagamento do respetivo escoamento, ou de ambos;\n\nb) Cobrança ao fornecedor de um pagamento como condição pelo armazenamento, exposição ou inclusão no inventário dos seus produtos, ou pela disponibilização desses produtos no mercado;\n\nc) Exigência de que o fornecedor assuma a totalidade ou parte do custo dos descontos de produtos vendidos pelo comprador como parte de uma promoção, salvo se o comprador especificar antecipadamente ao início da promoção o período dessa promoção e a quantidade de produtos que prevê encomendar ao preço com desconto;\n\nd) Exigência de pagamento por parte do fornecedor por publicidade aos seus produtos ou por ações de comercialização que tenham sido efetuadas pelo comprador;\n\ne) Cobrança pelo comprador de remuneração devida a pessoal para arranjo das instalações utilizadas para a venda dos produtos do fornecedor.\n\n2 - Se forem acordados pagamentos nos termos das alíneas b) a e) do número anterior, o comprador deve facultar, por escrito, uma estimativa dos pagamentos por unidade ou globais, e no caso das alíneas b), d) e e) do mesmo número, também uma estimativa dos custos e das bases dessa estimativa, sempre que tal lhe seja requerido pelo fornecedor.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170376134": {
+   "fragment_id": "170337481",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Denúncia e investigação",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-D — Denúncia e investigação\n\n1 - A entidade fiscalizadora procede à investigação e desencadeia as ações inspetivas que entenda necessárias ao apuramento da verdade e à prossecução do interesse público na repressão de práticas restritivas do comércio.\n\n2 - Os denunciantes, sejam empresas ou associações que, em nome dos seus associados, apresentem denúncia sobre práticas restritivas proibidas pelo presente decreto-lei, têm direito à confidencialidade sobre a sua identidade, ou sobre a identidade dos associados em causa, exceto perante a entidade fiscalizadora.\n\n3 - O fornecedor pode apresentar queixa à autoridade competente do Estado-Membro em que está estabelecido ou à autoridade competente do Estado-Membro no qual está estabelecido o comprador suspeito de práticas individuais restritivas do comércio.\n\n4 - A autoridade competente a quem for endereçada a denúncia ou a queixa é responsável pela tramitação do respetivo processo.\n\n5 - A disponibilização à entidade fiscalizadora das informações, documentos e demais elementos necessários à investigação não constitui incumprimento de qualquer dever de segredo imposto por regulamento ou contratualmente estabelecido.\n\n6 - Recebida uma queixa nos termos do n.º 2, a entidade fiscalizadora informa o denunciante, dentro de um prazo razoável após a sua receção, sobre se foi, ou não, dado seguimento à mesma.\n\n7 - A entidade fiscalizadora pode abster-se de adotar as medidas necessárias à cessação da prática negocial proibida, caso exista o risco de estas revelarem a identidade do queixoso ou de divulgar qualquer outra informação que o queixoso considere lesiva dos seus interesses, desde que este tenha identificado as informações para as quais solicitou confidencialidade e assim o exija.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170376135": {
+   "fragment_id": "70861285",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Medidas cautelares\n\n1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de uma prática restritiva do comércio suscetível de afetar o normal funcionamento do mercado, sempre que constate que existem indícios fortes da sua verificação, ainda que na forma tentada.\n\n2 - Após a aplicação de medida cautelar provisória nos termos do número anterior, a entidade fiscalizadora promove a audição do interessado no prazo máximo de cinco dias e decide sobre a conversão da medida cautelar provisória em definitiva no prazo máximo de 10 dias após a realização da audição.\n\n3 - Na ausência de promoção de audição ou de decisão nos prazos referidos no número anterior, a medida cautelar provisória e a sanção pecuniária compulsória a que se refere o artigo 11.º, caducam automaticamente.\n\n4 - A medida cautelar definitiva e a sanção pecuniária compulsória a que se refere o artigo 11.º vigoram até à sua revogação, por período não superior a 90 dias, salvo prorrogação, devidamente fundamentada, por igual período, devendo o despacho de acusação em processo contraordenacional ser notificado ao arguido prazo máximo de 180 dias.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376136": {
+   "fragment_id": "70861286",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave:\n\na) A violação do disposto no n.º 4 do artigo 4.º, no n.º 1 do artigo 5.º, nas alíneas a) a h) do n.º 1 e nos n.os 3, 4 e 5 do artigo 7.º e nas alíneas a) a e) do artigo 7.º-B;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) A violação das medidas cautelares impostas pela entidade competente;\n\ne) (Revogada).\n\n2 - Constitui contraordenação económica grave:\n\na) A violação do disposto nos n.os 2 e 5 do artigo 4.º e no artigo 7.º-C;\n\nb) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora.\n\n3 - A tentativa e a negligência são puníveis nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376137": {
+   "fragment_id": "70861287",
+   "type": 11,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Coimas\n\n1 - As contraordenações económicas muito graves previstas no n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 750 EUR e máxima de 20 000 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 2 500 EUR e máxima de 50 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 3 000 EUR e máxima de 150 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 4 000 EUR e máxima de 450 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 5 000 EUR e máxima de 2 500 000 EUR.\n\n2 - As contraordenações económicas graves previstas no n.º 2 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 250 EUR e máxima de 7500 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 500 EUR e máxima de 10 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 750 EUR e máxima de 25 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 1 000 EUR e máxima de 100 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 2 500 EUR e máxima de 500 000 EUR.\n\n3 - (Revogado.)\n\n4 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos no RJCE.\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376138": {
+   "fragment_id": "70861288",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções pecuniárias compulsórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções pecuniárias compulsórias\n\n1 - A entidade competente pode aplicar uma sanção pecuniária compulsória no caso de o agente não cumprir a decisão que impõe a adoção de medidas cautelares ou a decisão a que se refere o n.º 1 do artigo 8.º\n\n2 - A sanção pecuniária compulsória referida no número anterior consiste no pagamento de uma quantia pecuniária por cada dia de incumprimento que se verifique para além do prazo fixado para o cumprimento da obrigação.\n\n3 - A sanção pecuniária compulsória é fixada segundo critérios de razoabilidade e proporcionalidade, atendendo ao volume de negócios do infrator realizado no ano civil anterior e ao impacto negativo causado no mercado e nos utilizadores pelo incumprimento, podendo o seu montante diário oscilar entre 2 000 EUR e 50 000 EUR.\n\n4 - Os montantes fixados podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar, cumulativamente:\n\na) Um período máximo de 30 dias;\n\nb) O montante máximo acumulado de 1 500 000 EUR."
+  },
+  "170376139": {
+   "fragment_id": "70861289",
+   "type": 11,
+   "heading": "Artigo 12.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Legislação subsidiária\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE, com exceção da norma relativa ao montante das coimas.\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "170376140": {
+   "fragment_id": "70861290",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização, instrução e decisão dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização, instrução e decisão dos processos\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos processos de contraordenação.\n\n2 - A decisão de aplicação das coimas compete ao inspetor-geral da ASAE."
+  },
+  "170376141": {
+   "fragment_id": "70861291",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino do montante das coimas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º — Destino do montante das coimas\n\n1 - O produto das coimas e sanções pecuniárias compulsórias cobradas por infração ao disposto no presente decreto-lei é repartido nos termos do RJCE.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "170376142": {
+   "fragment_id": "70861292",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório de execução\n\nA ASAE elabora, com uma periodicidade bienal, relatórios com indicação de todos os elementos estatísticos relevantes, relativos à aplicação do presente decreto-lei."
+  },
+  "170376143": {
+   "fragment_id": "70861293",
+   "type": 11,
+   "heading": "Artigo 16.º — Autorregulação",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 16.º — Autorregulação\n\n1 - Sem prejuízo do disposto no presente decreto-lei, as estruturas representativas de todos ou de alguns dos setores de atividade económica podem adotar instrumentos de autorregulação tendentes a regular as respetivas transações comerciais.\n\n2 - Os instrumentos de autorregulação adotados nos termos do número anterior estão sujeitos a homologação pelos membros do Governo responsáveis pela área da economia e pelos setores de atividade representados nos referidos instrumentos.\n\n3 - Os membros do Governo responsáveis pelas áreas da economia e da agricultura podem criar um mecanismo de acompanhamento da autorregulação, por portaria, que também define as competências e o modo de funcionamento do mesmo.\n\n4 - O financiamento do mecanismo de acompanhamento da autorregulação é assegurado exclusivamente pelas entidades que dele beneficiem.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170376144": {
+   "fragment_id": "70861294",
+   "type": 11,
+   "heading": "Artigo 17.º — Validade dos contratos de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Validade dos contratos de fornecimento\n\n1 - Todos os contratos de fornecimento vigentes à data de entrada em vigor do presente decreto-lei cessam no prazo máximo de 12 meses, salvo se, dentro daquele prazo, forem revistos e compatibilizados com o regime jurídico previsto no presente diploma.\n\n2 - As cláusulas dos novos contratos que estejam em desconformidade com o regime jurídico previsto no presente decreto-lei são nulas."
+  },
+  "170376145": {
+   "fragment_id": "70861295",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei compete à DGAE, cabendo-lhe elaborar e publicar, no seu sítio na Internet, no final do segundo ano a contar da data da respetiva entrada em vigor, e posteriormente com uma periodicidade bienal, em articulação com a ASAE e Autoridade da Concorrência, um relatório sobre a execução do diploma.\n\n2 - (Revogado.)\n\n3 - O Gabinete de Planeamento, Políticas e Administração Geral do Ministério da Agricultura elabora e publicita, no seu sítio na Internet, um relatório anual com base nos dados previstos no n.º 1 do artigo 10.º da Diretiva (UE) 2019/633, do Parlamento Europeu e do Conselho, de 17 de abril de 2019, que lhe devem ser remetidos pela ASAE até ao dia 15 de fevereiro de cada ano, relativo às ações de fiscalização efetuadas no ano anterior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "170376146": {
+   "fragment_id": "70861296",
+   "type": 11,
+   "heading": "Artigo 19.º — Transição de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transição de processos\n\n1 - Os processos contraordenacionais por infração ao Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelos Decretos-Leis n.os 10/2003, de 18 de janeiro, e 140/98, de 16 de maio, que se encontrem pendentes em fase de instrução na Autoridade da Concorrência no 30.º dia anterior à data da entrada em vigor do presente decreto-lei são remetidos oficiosamente à ASAE.\n\n2 - Nos casos a que se refere o número anterior, os prazos processuais ou substantivos suspendem-se no 30.º dia anterior à data da entrada em vigor do presente decreto-lei, reiniciando-se a contagem no 30.º dia posterior à referida data."
+  },
+  "170376147": {
+   "fragment_id": "70861297",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelo Decretos-Leis n.os 140/98, de 16 de maio, e 10/2003, de 18 de janeiro;\n\nb) A alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º 10/2003, de 18 de janeiro."
+  },
+  "170376148": {
+   "fragment_id": "70861298",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior, o artigo 19.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "170376149": {
+   "fragment_id": "70861299",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de outubro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 16 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "175576079": {
+   "fragment_id": "175531296",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Oferta de bens ou serviços de alojamento por prestador intermediário de serviços em plataforma eletrónica",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2021-175506671), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º-A — Oferta de bens ou serviços de alojamento por prestador intermediário de serviços em plataforma eletrónica\n\nNo âmbito do fornecimento de bens ou serviços de alojamento em empreendimentos turísticos ou estabelecimentos de alojamento local, é proibido a qualquer intermediário, que atue através de plataforma eletrónica, oferecer para venda um bem ou serviço a uma empresa ou a um consumidor por um preço inferior ao preço de venda ao público acordado com o fornecedor do bem ou o prestador do serviço, ainda que à custa de uma redução total ou parcial da remuneração do intermediário contratualmente acordada.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2021-175506671), em vigor a partir de 2022-01-01"
+  },
+  "175576080": {
+   "fragment_id": "70861283",
+   "type": 11,
+   "heading": "Artigo 6.º — Recusa de venda de bens ou de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Recusa de venda de bens ou de prestação de serviços\n\n1 - Sem prejuízo dos usos normais da respetiva atividade ou de disposições legais ou regulamentares aplicáveis, é proibido a uma empresa recusar a venda de bens ou a prestação de serviços a outra empresa, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado, exceto quando se verifique causa justificativa de recusa.\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - Para efeitos do disposto no n.º 1 do presente artigo, e sem prejuízo dos n.os 1 e 2 do artigo 19.º do Decreto-Lei n.º 92/2010, de 26 de julho, são consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A existência de acordos de distribuição exclusiva para determinado território, conformes ao Direito da Concorrência;\n\nh) A proteção da propriedade intelectual;\n\ni) As restrições vigentes no Direito da União Europeia e no Direito Internacional, nomeadamente para a repressão e combate da criminalidade e terrorismo;\n\nj) A dificuldade anormal de venda ou a prestação por motivos de força maior, nomeadamente em consequência de guerra, greve, lock-out, tumultos, comoções civis, assaltos, sequestros, sabotagem, terrorismo, atos de vandalismo, insurreições civis ou militares, assaltos ou fenómenos naturais de natureza catastrófica e imprevisível;\n\nk) A ocorrência de qualquer outra circunstância inerente às condições concretas da transação que, segundo os usos normais da respetiva atividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor ou para o comprador.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "175576081": {
+   "fragment_id": "70861284",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas negociais abusivas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Práticas negociais abusivas\n\n1 - Sem prejuízo das regras aplicáveis em matéria de cláusulas contratuais gerais, são proibidas quaisquer práticas negociais entre empresas que se traduzam:\n\na) No impedimento de venda a qualquer outra empresa a um preço mais baixo;\n\nb) Na obtenção de preços, condições de pagamento, modalidades de venda, sanções contratuais ou condições de cooperação comercial exorbitantes relativamente às suas condições contratuais gerais;\n\nc) Na imposição unilateral, direta ou indireta:\n\ni) de realização de uma promoção de um determinado produto;\n\nii) de quaisquer pagamentos enquanto contrapartida de uma promoção;\n\nd) Na obtenção de quaisquer contrapartidas por promoções em curso ou já ocorridas, ou quaisquer outras que não sejam efetivas e proporcionais, designadamente através da emissão de notas de crédito e débito com prazo superior a três meses da data da fatura a que se referem;\n\ne) Uma alteração retroativa, ainda que extracontratual, de condições estabelecidas em contratos de fornecimento.\n\nf) Na penalização do fornecedor pela dificuldade de fornecimento de encomendas desproporcionadas face às quantidades normais do consumo do adquirente ou aos volumes habituais de entregas do vendedor, quando o fornecimento que, em condições normais, seria concluído o não puder ser, por motivos imprevistos e de força maior, recaindo sobre o fornecedor o ónus de provar esse impedimento;\n\ng) Na aquisição, utilização ou divulgação ilegais de segredos comerciais do fornecedor, como tal configuradas no Código da Propriedade Industrial, aprovado em anexo ao Decreto-Lei n.º 110/2018, de 10 de dezembro, na sua redação atual;\n\nh) Na ameaça ou concretização de atos de retaliação comercial contra o fornecedor que exerce os seus direitos contratuais ou legais, nomeadamente ao apresentar uma queixa às autoridades competentes ou ao cooperar com as autoridades competentes no decurso de uma investigação.\n\n2 - Para efeitos da alínea b) do n.º 1, consideram-se como «exorbitantes relativamente às condições gerais de venda» os preços, condições de pagamento, modalidades de venda, sanções contratuais, ou condições de cooperação comercial que se traduzam na concessão de um benefício ao comprador, ou ao vendedor, não proporcional ao volume de compras ou vendas ou, se for caso disso, ao valor dos serviços prestados.\n\n3 - São ainda proibidas quaisquer práticas negociais entre empresas que se traduzam na dedução, por uma das partes, de valores aos montantes da faturação devidos pelo fornecimento de bens ou prestação de serviços, quando:\n\na) Não estejam devidamente discriminados os motivos a que se referem, e\n\nb) A outra parte se pronuncie desfavorável e fundamentadamente no prazo de 25 dias.\n\n4 - É igualmente proibida qualquer prática unilateral que vise ou consubstancie:\n\na) Uma imposição de antecipação de cumprimento de contratos, sem indemnização;\n\nb) Uma imposição de débitos não contratualmente previstos, após o fornecimento dos bens ou serviços.\n\n5 - São ainda proibidas as práticas negociais do comprador que se traduzam em impor um pagamento, diretamente ou sob a forma de desconto:\n\na) Pela não concretização das expectativas do comprador quanto ao volume ou valor das vendas;\n\nb) Para introdução ou reintrodução de produtos;\n\nc) Como compensação por custos decorrentes de uma queixa do consumidor, exceto quando o comprador demonstre que essa queixa se deve a negligência, falha ou incumprimento contratual do fornecedor;\n\nd) Por custos relativos a transporte e armazenamento posteriores à entrega do produto;\n\ne) Como contribuição para abertura de novos estabelecimentos ou remodelação dos existentes;\n\nf) Como condição para iniciar uma relação comercial com um fornecedor.\n\n6 - (Revogado.)\n\n7 - O prazo previsto na alínea d) do n.º 1 pode, excecionalmente, ser prolongado no caso de venda de veículos automóveis novos, embarcações de recreio e náutica, máquinas industriais, máquinas agrícolas e autocaravanas, desde que devidamente justificado, designadamente quando a complexidade logística impossibilite o seu cumprimento, e de mútuo acordo entre as partes, não podendo, no entanto, exceder os seis meses.\n\n8 - Qualquer cláusula contratual que viole o disposto no presente artigo é nula e tem-se por não escrita.\n\n9 - As práticas negociais não proibidas pelo presente artigo, nomeadamente em virtude da dimensão ou do setor de atividade dos intervenientes, devem ser objeto de autorregulação nos instrumentos a que se refere o artigo 16.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 220/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2015-70485721), em vigor a partir de 2015-12-08"
+  },
+  "175576082": {
+   "fragment_id": "124283170",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Fiscalização, investigação e denúncia",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Fiscalização, investigação e denúncia\n\n1 - A entidade fiscalizadora pode, mediante conhecimento da prática de infração, proceder à investigação e desencadear as ações inspetivas que entenda necessárias ao apuramento da verdade e à prossecução do interesse público na repressão de práticas restritivas do comércio.\n\n2 - Os denunciantes, sejam empresas ou associações empresariais que em nome dos seus associados apresentem denúncias, de práticas restritivas proibidas pelo presente decreto-lei têm direito à confidencialidade sobre a sua identidade, ou sobre a identidade dos associados em causa, consoante o caso, exceto perante a entidade fiscalizadora.\n\n3 - A disponibilização à entidade fiscalizadora das informações, documentos e demais elementos necessários à investigação não constitui incumprimento de qualquer dever de segredo imposto por regulamento ou contratualmente estabelecido.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "175576083": {
+   "fragment_id": "170337479",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Práticas negociais proibidas no setor agroalimentar",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-B — Práticas negociais proibidas no setor agroalimentar\n\nSem prejuízo do disposto nos artigos anteriores, são ainda proibidas as seguintes práticas negociais do comprador nas transações comerciais que tenham por objeto produtos agrícolas ou alimentares:\n\na) Notificação do cancelamento de encomendas de produtos perecíveis num prazo inferior a 30 dias antes da data prevista de entrega, entendendo-se como perecíveis os produtos suscetíveis de se tornarem impróprios para venda no prazo máximo de 30 dias após a sua colheita, produção ou transformação;\n\nb) Alteração unilateral do contrato relativamente à frequência, método, local, calendário ou volume do fornecimento ou entrega, assim como das normas de qualidade, preços, condições de pagamento ou prestação dos serviços intrinsecamente associados ao contrato, nos termos do artigo 7.º-C;\n\nc) Imposição de pagamentos, diretamente ou sob a forma de desconto:\n\ni) Não relacionados com a venda de produtos agrícolas ou alimentares do fornecedor;\n\nii) Pela deterioração, perda ou desperdício de produtos do fornecedor que ocorra nas instalações do comprador, após a transferência da sua propriedade para o comprador, exceto quando o comprador demonstre que tal se deve a negligência, dolo ou incumprimento contratual do fornecedor;\n\nd) Rejeição ou devolução de produtos entregues, com fundamento na menor qualidade de parte ou da totalidade da encomenda ou no atraso da entrega, sem que seja demonstrada, pelo comprador, a responsabilidade do fornecedor por esse facto;\n\ne) Recusa de confirmação por escrito dos termos de um acordo, quando tal tenha sido expressamente solicitado pelo fornecedor, exceto nas transações comerciais entre as cooperativas constituídas ao abrigo do Decreto-Lei n.º 335/99, de 20 de agosto, na sua redação atual, ou as organizações de produtores e respetivas associações, reconhecidas nos termos da Portaria n.º 298/2019, de 9 de setembro, e os seus respetivos membros, sempre que os respetivos estatutos ou decisões deles decorrentes incluam disposições de efeito semelhante aos termos do acordo de fornecimento.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "175576084": {
+   "fragment_id": "170337480",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Práticas negociais sujeitas a acordo no setor agroalimentar",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-C — Práticas negociais sujeitas a acordo no setor agroalimentar\n\n1 - Sem prejuízo do disposto nos artigos anteriores, são ainda proibidas as seguintes práticas negociais no âmbito de transações comerciais que tenham por objeto produtos agrícolas ou alimentares, salvo se as mesmas tiverem sido previamente estipuladas de forma clara e inequívoca no acordo de fornecimento ou em qualquer acordo posteriormente celebrado entre o fornecedor e o comprador:\n\na) Devolução pelo comprador de produtos não vendidos, sem efetuar o pagamento desses produtos, ou o pagamento do respetivo escoamento, ou de ambos;\n\nb) Cobrança ao fornecedor de um pagamento como condição pelo armazenamento, exposição ou inclusão no inventário dos seus produtos, ou pela disponibilização desses produtos no mercado;\n\nc) Exigência de que o fornecedor assuma a totalidade ou parte do custo dos descontos de produtos vendidos pelo comprador como parte de uma promoção, salvo se o comprador especificar antecipadamente ao início da promoção o período dessa promoção e a quantidade de produtos que prevê encomendar ao preço com desconto;\n\nd) Exigência de pagamento por parte do fornecedor por publicidade aos seus produtos ou por ações de comercialização que tenham sido efetuadas pelo comprador;\n\ne) Cobrança pelo comprador de remuneração devida a pessoal para arranjo das instalações utilizadas para a venda dos produtos do fornecedor.\n\n2 - Se forem acordados pagamentos nos termos das alíneas b) a e) do número anterior, o comprador deve facultar, por escrito, uma estimativa dos pagamentos por unidade ou globais, e no caso das alíneas b), d) e e) do mesmo número, também uma estimativa dos custos e das bases dessa estimativa, sempre que tal lhe seja requerido pelo fornecedor.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "175576085": {
+   "fragment_id": "170337481",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Denúncia e investigação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-D — Denúncia e investigação\n\n1 - A entidade fiscalizadora procede à investigação e desencadeia as ações inspetivas que entenda necessárias ao apuramento da verdade e à prossecução do interesse público na repressão de práticas restritivas do comércio.\n\n2 - Os denunciantes, sejam empresas ou associações que, em nome dos seus associados, apresentem denúncia sobre práticas restritivas proibidas pelo presente decreto-lei, têm direito à confidencialidade sobre a sua identidade, ou sobre a identidade dos associados em causa, exceto perante a entidade fiscalizadora.\n\n3 - O fornecedor pode apresentar queixa à autoridade competente do Estado-Membro em que está estabelecido ou à autoridade competente do Estado-Membro no qual está estabelecido o comprador suspeito de práticas individuais restritivas do comércio.\n\n4 - A autoridade competente a quem for endereçada a denúncia ou a queixa é responsável pela tramitação do respetivo processo.\n\n5 - A disponibilização à entidade fiscalizadora das informações, documentos e demais elementos necessários à investigação não constitui incumprimento de qualquer dever de segredo imposto por regulamento ou contratualmente estabelecido.\n\n6 - Recebida uma queixa nos termos do n.º 2, a entidade fiscalizadora informa o denunciante, dentro de um prazo razoável após a sua receção, sobre se foi, ou não, dado seguimento à mesma.\n\n7 - A entidade fiscalizadora pode abster-se de adotar as medidas necessárias à cessação da prática negocial proibida, caso exista o risco de estas revelarem a identidade do queixoso ou de divulgar qualquer outra informação que o queixoso considere lesiva dos seus interesses, desde que este tenha identificado as informações para as quais solicitou confidencialidade e assim o exija.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "175576086": {
+   "fragment_id": "70861285",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Medidas cautelares\n\n1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de uma prática restritiva do comércio suscetível de afetar o normal funcionamento do mercado, sempre que constate que existem indícios fortes da sua verificação, ainda que na forma tentada.\n\n2 - Após a aplicação de medida cautelar provisória nos termos do número anterior, a entidade fiscalizadora promove a audição do interessado no prazo máximo de cinco dias e decide sobre a conversão da medida cautelar provisória em definitiva no prazo máximo de 10 dias após a realização da audição.\n\n3 - Na ausência de promoção de audição ou de decisão nos prazos referidos no número anterior, a medida cautelar provisória e a sanção pecuniária compulsória a que se refere o artigo 11.º, caducam automaticamente.\n\n4 - A medida cautelar definitiva e a sanção pecuniária compulsória a que se refere o artigo 11.º vigoram até à sua revogação, por período não superior a 90 dias, salvo prorrogação, devidamente fundamentada, por igual período, devendo o despacho de acusação em processo contraordenacional ser notificado ao arguido prazo máximo de 180 dias.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "175576101": {
+   "fragment_id": "70861286",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2021-175506671), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave:\n\na) A violação do disposto no n.º 4 do artigo 4.º, no n.º 1 do artigo 5.º, no artigo 5.º-A, nas alíneas a) a h) do n.º 1 e nos n.os 3, 4 e 5 do artigo 7.º e nas alíneas a) a e) do artigo 7.º-B;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) A violação das medidas cautelares impostas pela entidade competente;\n\ne) (Revogada).\n\n2 - Constitui contraordenação económica grave:\n\na) A violação do disposto nos n.os 2 e 5 do artigo 4.º e no artigo 7.º-C;\n\nb) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora.\n\n3 - A tentativa e a negligência são puníveis nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2021-175506671), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "175576088": {
+   "fragment_id": "70861287",
+   "type": 11,
+   "heading": "Artigo 10.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Coimas\n\n1 - As contraordenações económicas muito graves previstas no n.º 1 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 750 EUR e máxima de 20 000 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 2 500 EUR e máxima de 50 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 3 000 EUR e máxima de 150 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 4 000 EUR e máxima de 450 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 5 000 EUR e máxima de 2 500 000 EUR.\n\n2 - As contraordenações económicas graves previstas no n.º 2 do artigo anterior são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, coima mínima de 250 EUR e máxima de 7500 EUR;\n\nb) Se praticadas por microempresa, coima mínima de 500 EUR e máxima de 10 000 EUR;\n\nc) Se praticadas por pequena empresa, coima mínima de 750 EUR e máxima de 25 000 EUR;\n\nd) Se praticadas por média empresa, coima mínima de 1 000 EUR e máxima de 100 000 EUR;\n\ne) Se praticadas por grande empresa, coima mínima de 2 500 EUR e máxima de 500 000 EUR.\n\n3 - (Revogado.)\n\n4 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos no RJCE.\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 421.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "175576089": {
+   "fragment_id": "70861288",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções pecuniárias compulsórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções pecuniárias compulsórias\n\n1 - A entidade competente pode aplicar uma sanção pecuniária compulsória no caso de o agente não cumprir a decisão que impõe a adoção de medidas cautelares ou a decisão a que se refere o n.º 1 do artigo 8.º\n\n2 - A sanção pecuniária compulsória referida no número anterior consiste no pagamento de uma quantia pecuniária por cada dia de incumprimento que se verifique para além do prazo fixado para o cumprimento da obrigação.\n\n3 - A sanção pecuniária compulsória é fixada segundo critérios de razoabilidade e proporcionalidade, atendendo ao volume de negócios do infrator realizado no ano civil anterior e ao impacto negativo causado no mercado e nos utilizadores pelo incumprimento, podendo o seu montante diário oscilar entre 2 000 EUR e 50 000 EUR.\n\n4 - Os montantes fixados podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar, cumulativamente:\n\na) Um período máximo de 30 dias;\n\nb) O montante máximo acumulado de 1 500 000 EUR."
+  },
+  "175576090": {
+   "fragment_id": "70861289",
+   "type": 11,
+   "heading": "Artigo 12.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Legislação subsidiária\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE, com exceção da norma relativa ao montante das coimas.\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "175576091": {
+   "fragment_id": "70861290",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização, instrução e decisão dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização, instrução e decisão dos processos\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos processos de contraordenação.\n\n2 - A decisão de aplicação das coimas compete ao inspetor-geral da ASAE."
+  },
+  "175576092": {
+   "fragment_id": "70861291",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino do montante das coimas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º — Destino do montante das coimas\n\n1 - O produto das coimas e sanções pecuniárias compulsórias cobradas por infração ao disposto no presente decreto-lei é repartido nos termos do RJCE.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 132.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "175576093": {
+   "fragment_id": "70861292",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório de execução\n\nA ASAE elabora, com uma periodicidade bienal, relatórios com indicação de todos os elementos estatísticos relevantes, relativos à aplicação do presente decreto-lei."
+  },
+  "175576094": {
+   "fragment_id": "70861293",
+   "type": 11,
+   "heading": "Artigo 16.º — Autorregulação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 16.º — Autorregulação\n\n1 - Sem prejuízo do disposto no presente decreto-lei, as estruturas representativas de todos ou de alguns dos setores de atividade económica podem adotar instrumentos de autorregulação tendentes a regular as respetivas transações comerciais.\n\n2 - Os instrumentos de autorregulação adotados nos termos do número anterior estão sujeitos a homologação pelos membros do Governo responsáveis pela área da economia e pelos setores de atividade representados nos referidos instrumentos.\n\n3 - Os membros do Governo responsáveis pelas áreas da economia e da agricultura podem criar um mecanismo de acompanhamento da autorregulação, por portaria, que também define as competências e o modo de funcionamento do mesmo.\n\n4 - O financiamento do mecanismo de acompanhamento da autorregulação é assegurado exclusivamente pelas entidades que dele beneficiem.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "175576095": {
+   "fragment_id": "70861294",
+   "type": 11,
+   "heading": "Artigo 17.º — Validade dos contratos de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Validade dos contratos de fornecimento\n\n1 - Todos os contratos de fornecimento vigentes à data de entrada em vigor do presente decreto-lei cessam no prazo máximo de 12 meses, salvo se, dentro daquele prazo, forem revistos e compatibilizados com o regime jurídico previsto no presente diploma.\n\n2 - As cláusulas dos novos contratos que estejam em desconformidade com o regime jurídico previsto no presente decreto-lei são nulas."
+  },
+  "175576096": {
+   "fragment_id": "70861295",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei compete à DGAE, cabendo-lhe elaborar e publicar, no seu sítio na Internet, no final do segundo ano a contar da data da respetiva entrada em vigor, e posteriormente com uma periodicidade bienal, em articulação com a ASAE e Autoridade da Concorrência, um relatório sobre a execução do diploma.\n\n2 - (Revogado.)\n\n3 - O Gabinete de Planeamento, Políticas e Administração Geral do Ministério da Agricultura elabora e publicita, no seu sítio na Internet, um relatório anual com base nos dados previstos no n.º 1 do artigo 10.º da Diretiva (UE) 2019/633, do Parlamento Europeu e do Conselho, de 17 de abril de 2019, que lhe devem ser remetidos pela ASAE até ao dia 15 de fevereiro de cada ano, relativo às ações de fiscalização efetuadas no ano anterior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152), em vigor a partir de 2020-01-01"
+  },
+  "175576097": {
+   "fragment_id": "70861296",
+   "type": 11,
+   "heading": "Artigo 19.º — Transição de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transição de processos\n\n1 - Os processos contraordenacionais por infração ao Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelos Decretos-Leis n.os 10/2003, de 18 de janeiro, e 140/98, de 16 de maio, que se encontrem pendentes em fase de instrução na Autoridade da Concorrência no 30.º dia anterior à data da entrada em vigor do presente decreto-lei são remetidos oficiosamente à ASAE.\n\n2 - Nos casos a que se refere o número anterior, os prazos processuais ou substantivos suspendem-se no 30.º dia anterior à data da entrada em vigor do presente decreto-lei, reiniciando-se a contagem no 30.º dia posterior à referida data."
+  },
+  "175576098": {
+   "fragment_id": "70861297",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 370/93, de 29 de outubro, alterado pelo Decretos-Leis n.os 140/98, de 16 de maio, e 10/2003, de 18 de janeiro;\n\nb) A alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º 10/2003, de 18 de janeiro."
+  },
+  "175576099": {
+   "fragment_id": "70861298",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior, o artigo 19.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "175576100": {
+   "fragment_id": "70861299",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de outubro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 16 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

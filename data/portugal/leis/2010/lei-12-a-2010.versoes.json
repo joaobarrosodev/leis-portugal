@@ -1,0 +1,406 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:292110:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2010-34467275",
+ "dre_path": "/dr/detalhe/lei/12-a-2010-292110",
+ "source_lastmod": "2025-01-03",
+ "versions": [
+  {
+   "date": "2010-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47219575",
+    "47219675",
+    "47219775",
+    "47219875",
+    "47219975",
+    "47220075",
+    "47220175",
+    "47220275",
+    "47220375",
+    "47220475",
+    "47220575",
+    "47220675",
+    "47220775",
+    "47220875",
+    "47220975",
+    "47221075",
+    "47221175",
+    "47221275",
+    "47221375",
+    "47221475",
+    "47221575",
+    "47221675",
+    "47221775",
+    "47221875",
+    "47221975",
+    "47222075",
+    "47222175",
+    "47222275",
+    "47222375",
+    "47222475",
+    "47222575",
+    "47222675",
+    "47222775",
+    "47222875"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "47219575",
+    "47219675",
+    "47219775",
+    "47219875",
+    "47219975",
+    "47220075",
+    "47220175",
+    "47220275",
+    "47220375",
+    "47220475",
+    "47220575",
+    "47220675",
+    "47220775",
+    "47220875",
+    "47220975",
+    "47221075",
+    "47221175",
+    "47221275",
+    "47221375",
+    "47221475",
+    "47221575",
+    "902120269",
+    "902120270",
+    "47221875",
+    "47221975",
+    "47222075",
+    "47222175",
+    "47222275",
+    "47222375",
+    "47222475",
+    "47222575",
+    "47222675",
+    "47222775",
+    "47222975",
+    "47222875"
+   ]
+  }
+ ],
+ "fragments": {
+  "47219575": {
+   "fragment_id": "35087075",
+   "type": 15,
+   "heading": "Diploma — Aprova um conjunto de medidas adicionais de consolidação orçamental que visam reforçar e acelerar a redução de défice excessivo e o controlo do crescimento da dívida pública previstos no Programa de Estabilidade e Crescimento (PEC).",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "47219675": {
+   "fragment_id": "35574875",
+   "type": 1,
+   "heading": "Capítulo I — Medidas fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Medidas fiscais"
+  },
+  "47219775": {
+   "fragment_id": "36970775",
+   "type": 8,
+   "heading": "Secção I — Imposto sobre o rendimento das pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Imposto sobre o rendimento das pessoas singulares"
+  },
+  "47219875": {
+   "fragment_id": "38594075",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares\n\nOs artigos 68.º, 71.º, 101.º e 102.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, abreviadamente designado por Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 68.º\n\n[...]\n\n1 - ...\n\n(ver documento original)\n\n2 - ...\n\nArtigo 71.º\n\n[...]\n\n1 - Estão sujeitos a retenção na fonte a título definitivo, à taxa liberatória de 21,5 %, os seguintes rendimentos obtidos em território português:\n\na) ...\n\nb) ...\n\nc) ...\n\n2 - Estão sujeitos a retenção na fonte a título definitivo, à taxa liberatória de 21,5 %, os rendimentos de valores mobiliários pagos ou colocados à disposição dos respectivos titulares, residentes em território português, devidos por entidades que não tenham aqui domicílio a que possa imputar-se o pagamento, por intermédio de entidades que estejam mandatadas por devedores ou titulares ou ajam por conta de uns ou outros.\n\n3 - ...\n\n4 - Estão sujeitos a retenção na fonte a título definitivo, à taxa liberatória de 21,5 %, os seguintes rendimentos obtidos em território português por não residentes:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\nArtigo 101.º\n\n[...]\n\n1 - ...\n\na) 16,5 %, tratando-se de rendimentos da categoria B referidos na alínea c) do n.º 1 do artigo 3.º, de rendimentos das categorias E e F ou de incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artigo 9.º;\n\nb) 21,5 %, tratando-se de rendimentos decorrentes das actividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º;\n\nc) 11,5 %, tratando-se de rendimentos da categoria B referidos na alínea b) do n.º 1 e nas alíneas g) e i) do n.º 2 do artigo 3.º, não compreendidos na alínea anterior.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - (Eliminado pelo Decreto-Lei n.º 80/2003, de 23 de Abril.)\n\n6 - (Eliminado pelo Decreto-Lei n.º 80/2003, de 23 de Abril.)\n\n7 - (Eliminado pelo Decreto-Lei n.º 80/2003, de 23 de Abril.)\n\nArtigo 102.º\n\n[...]\n\n1 - ...\n\n2 - A totalidade dos pagamentos por conta é igual a 76,5 % do montante calculado com base na seguinte fórmula:\n\n...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...»"
+  },
+  "47219975": {
+   "fragment_id": "36970875",
+   "type": 8,
+   "heading": "Secção II — Imposto sobre o rendimento das pessoas colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Imposto sobre o rendimento das pessoas colectivas"
+  },
+  "47220075": {
+   "fragment_id": "38594175",
+   "type": 11,
+   "heading": "Artigo 2.º — Aditamento ao Código do Imposto sobre o Rendimento das Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento ao Código do Imposto sobre o Rendimento das Pessoas Colectivas\n\nSão aditados ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, os artigos 87.º-A, 104.º-A e 105.º-A, com a seguinte redacção:\n\n«Artigo 87.º-A\n\nDerrama estadual\n\n1 - Sobre a parte do lucro tributável superior a (euro) 2 000 000 sujeito e não isento de imposto sobre o rendimento das pessoas colectivas apurado por sujeitos passivos residentes em território português que exerçam, a título principal, uma actividade de natureza comercial, industrial ou agrícola e por não residentes com estabelecimento estável em território português, incide uma taxa adicional de 2,5 %.\n\n2 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, a taxa a que se refere o número anterior incide sobre o lucro tributável apurado na declaração periódica individual de cada uma das sociedades do grupo, incluindo a da sociedade dominante.\n\n3 - Os sujeitos passivos referidos nos números anteriores devem proceder à liquidação da derrama adicional na declaração periódica de rendimentos a que se refere o artigo 120.º\n\nArtigo 104.º-A\n\nPagamento da derrama estadual\n\n1 - As entidades que exerçam, a título principal, uma actividade de natureza comercial, industrial ou agrícola e os não residentes com estabelecimento estável devem proceder ao pagamento da derrama estadual nos termos seguintes:\n\na) Em três pagamentos adicionais por conta, de acordo com as regras estabelecidas na alínea a) do n.º 1 do artigo 104.º;\n\nb) Até ao último dia do prazo fixado para o envio da declaração periódica de rendimentos a que se refere o artigo 120.º, pela diferença que existir entre o valor total da derrama estadual aí calculado e as importâncias entregues por conta nos termos do artigo 105.º-A;\n\nc) Até ao dia do envio da declaração de substituição a que se refere o artigo 122.º, pela diferença que existir entre o valor total da derrama estadual aí calculado e as importâncias já pagas.\n\n2 - Há lugar a reembolso ao sujeito passivo, pela respectiva diferença, quando o valor da derrama estadual apurado na declaração for inferior ao valor dos pagamentos adicionais por conta.\n\n3 - São aplicáveis às regras de pagamento da derrama estadual não referidas no presente artigo as regras de pagamento de imposto sobre o rendimento das pessoas colectivas, com as necessárias adaptações.\n\nArtigo 105.º-A\n\nCálculo do pagamento adicional por conta\n\n1 - As entidades obrigadas a efectuar pagamentos por conta e pagamentos especiais por conta devem efectuar o pagamento adicional por conta nos casos em que no período de tributação anterior fosse devida derrama estadual nos termos referidos no artigo 87.º-A.\n\n2 - O valor dos pagamentos adicionais por conta devidos nos termos da alínea a) do n.º 1 do artigo 104.º-A é igual a 2 % da parte do lucro tributável superior a (euro) 2 000 000 relativo ao período de tributação anterior.\n\n3 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, é devido pagamento adicional por conta por cada uma das sociedades do grupo, incluindo a sociedade dominante.»"
+  },
+  "47220175": {
+   "fragment_id": "36970975",
+   "type": 8,
+   "heading": "Secção III — Imposto sobre o valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Imposto sobre o valor acrescentado"
+  },
+  "47220275": {
+   "fragment_id": "38594275",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Código do Imposto sobre o Valor Acrescentado\n\nOs artigos 18.º e 49.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, abreviadamente designado por Código do IVA, passam a ter a seguinte redacção:\n\n«Artigo 18.º\n\n[...]\n\n1 - ...\n\na) Para as importações, transmissões de bens e prestações de serviços constantes da lista i anexa a este diploma, a taxa de 6 %;\n\nb) Para as importações, transmissões de bens e prestações de serviços constantes da lista ii anexa a este diploma, a taxa de 13 %;\n\nc) Para as restantes importações, transmissões de bens e prestações de serviços, a taxa de 21 %.\n\n2 - ...\n\n3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respectivamente, de 4 %, 9 % e 15 %, relativamente às operações que, de acordo com a legislação especial, se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\nArtigo 49.º\n\n[...]\n\nNos casos em que a facturação ou o seu registo sejam processados por valores com imposto incluído, nos termos dos artigos anteriores, o apuramento da base tributável correspondente será obtido através da divisão daqueles valores por 106 quando a taxa do imposto for 6 %, por 113 quando a taxa do imposto for 13 % e por 121 quando a taxa do imposto for 21 %, multiplicando o quociente por 100 e arredondando o resultado, por defeito ou por excesso, para a unidade mais próxima, sem prejuízo da adopção de qualquer outro método conducente a idêntico resultado.»"
+  },
+  "47220375": {
+   "fragment_id": "38594375",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 347/85, de 23 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 347/85, de 23 de Agosto\n\nO artigo 1.º do Decreto-Lei n.º 347/85, de 23 de Agosto, alterado pela Lei n.º 2/92, de 9 de Março, pelo Decreto-Lei n.º 166/94, de 9 de Junho, pela Lei n.º 39-B/94, de 27 de Dezembro, pelo Decreto-Lei n.º 91/96, de 12 de Julho, e pelas Leis n.os 16-A/2002, de 31 de Maio, 39/2005, de 24 de Junho, e 26-A/2008, de 27 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - São fixadas em 4 %, 9 % e 15 %, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas regiões.\n\n2 - ...\n\n3 - ...»"
+  },
+  "47220475": {
+   "fragment_id": "36971075",
+   "type": 8,
+   "heading": "Secção IV — Imposto do selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Imposto do selo"
+  },
+  "47220575": {
+   "fragment_id": "38594475",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Tabela Geral do Imposto do Selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Tabela Geral do Imposto do Selo\n\nA verba 17 da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de Setembro, passa a ter a seguinte redacção:\n\n«17 - ...\n\n17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude da concessão de crédito a qualquer título excepto nos casos referidos na verba 17.2, incluindo a cessão de créditos, o factoring e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente ou devedor, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato - sobre o respectivo valor, em função do prazo:\n\n17.1.1 - ...\n\n17.1.2 - ...\n\n17.1.3 - ...\n\n17.1.4 - ...\n\n17.2 - Pela utilização de crédito em virtude da concessão de crédito no âmbito de contratos de crédito a consumidores abrangidos pelo Decreto-Lei n.º 133/2009, de 2 de Junho, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato - sobre o respectivo valor, em função do prazo:\n\n17.2.1 - Crédito de prazo inferior a um ano - por cada mês ou fracção - 0,07 %.\n\n17.2.2 - Crédito de prazo igual ou superior a um ano - 0,90 %.\n\n17.2.3 - Crédito de prazo igual ou superior a cinco anos - 1 %.\n\n17.2.4 - Crédito utilizado sob a forma de conta corrente, descoberto bancário ou qualquer outra forma em que o prazo de utilização não seja determinado ou determinável, sobre a média mensal obtida através da soma dos saldos em dívida apurados diariamente, durante o mês, divididos por 30 - 0,07 %.\n\n17.3 - (Anterior verba 17.2.)»"
+  },
+  "47220675": {
+   "fragment_id": "36971175",
+   "type": 8,
+   "heading": "Secção V — Imposto especiais de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Imposto especiais de consumo"
+  },
+  "47220775": {
+   "fragment_id": "38594575",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Código dos Impostos Especiais de Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Código dos Impostos Especiais de Consumo\n\nO n.º 1 do artigo 85.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 85.º\n\n[...]\n\n1 - Aos cigarros consumidos nas Regiões Autónomas dos Açores e da Madeira e fabricados por pequenos produtores cuja produção anual não exceda, por cada um, 500 t serão aplicáveis, respectivamente, as seguintes taxas:\n\na) Região Autónoma dos Açores:\n\ni) Elemento específico - (euro) 9,28;\n\nii) Elemento ad valorem - 36,50 %;\n\nb) Região Autónoma da Madeira:\n\ni) Elemento específico - (euro) 15;\n\nii) Elemento ad valorem - 36,50 %.\n\n2 - ...»"
+  },
+  "47220875": {
+   "fragment_id": "35574975",
+   "type": 1,
+   "heading": "Capítulo II — Sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sector empresarial do Estado"
+  },
+  "47220975": {
+   "fragment_id": "36971275",
+   "type": 11,
+   "heading": "Artigo 7.º — Cativações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cativações\n\n1 - Ficam cativos (euro) 300 000 000 das verbas do capítulo 60.º do Ministério das Finanças e da Administração Pública a transferir do Orçamento do Estado, designadamente para empresas que integram o sector empresarial do Estado, seja a título de indemnização compensatória ou de aumento de capital e subsídios, qualquer que seja a sua natureza.\n\n2 - A descativação das verbas referidas no número anterior só pode realizar-se por razões excepcionais, estando sujeita a autorização do membro do Governo responsável pela área das finanças, que decide os montantes a descativar em função da evolução da execução orçamental."
+  },
+  "47221075": {
+   "fragment_id": "35575075",
+   "type": 1,
+   "heading": "Capítulo III — Entidades reguladoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Entidades reguladoras"
+  },
+  "47221175": {
+   "fragment_id": "36971375",
+   "type": 11,
+   "heading": "Artigo 8.º — Saldos de gerência e resultados transitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Saldos de gerência e resultados transitados\n\n1 - Constituem receita geral do Estado de 2010 85 % do valor acumulado dos saldos de gerência e resultados transitados apurados no final do exercício de 2009 das entidades reguladoras, designadamente:\n\na) Banco de Portugal;\n\nb) Instituto de Seguros de Portugal;\n\nc) Comissão do Mercado de Valores Mobiliários;\n\nd) Autoridade da Concorrência;\n\ne) Entidade Reguladora da Saúde;\n\nf) Entidade Reguladora dos Serviços Energéticos;\n\ng) Autoridade de Segurança Alimentar e Económica;\n\nh) ICP - Autoridade Nacional de Comunicações;\n\ni) Entidade Reguladora para a Comunicação Social;\n\nj) Comissão Nacional de Protecção de Dados;\n\nl) Instituto da Mobilidade e dos Transportes Terrestres, I. P.;\n\nm) Entidade Reguladora dos Serviços de Águas e Resíduos;\n\nn) Instituto da Construção e do Imobiliário, I. P.\n\n2 - A aplicação do número anterior será feita sem prejuízo das normas especiais constantes dos diplomas orgânicos das entidades abrangidas."
+  },
+  "47221275": {
+   "fragment_id": "35575175",
+   "type": 1,
+   "heading": "Capítulo IV — Trabalhadores em funções públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Trabalhadores em funções públicas"
+  },
+  "47221375": {
+   "fragment_id": "36971475",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo do recrutamento de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo do recrutamento de trabalhadores\n\n1 - Os órgãos e os serviços abrangidos pelo âmbito de aplicação objectivo definido no artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro, não podem proceder à abertura de procedimentos concursais com vista à constituição de relações jurídicas de emprego público por tempo indeterminado, determinado ou determinável, para carreira geral ou especial e carreiras que ainda não tenham sido objecto de extinção, de revisão ou de decisão de subsistência, destinados a candidatos que não possuam uma relação jurídica de emprego público por tempo indeterminado previamente constituída, sem prejuízo do disposto no número seguinte.\n\n2 - Em situações excepcionais, devidamente fundamentadas, os membros do Governo responsáveis pelas áreas das finanças e da Administração Pública podem, ao abrigo e nos termos do disposto nos n.os 6 e 7 do artigo 6.º da Lei n.º 12-A/2008, de 27 de Fevereiro, autorizar a abertura de procedimentos concursais a que se refere o número anterior, fixando, caso a caso, o número máximo de trabalhadores a recrutar.\n\n3 - O disposto no n.º 1 não é aplicável aos procedimentos concursais que, à data de entrada em vigor da presente lei, já tenham sido objecto de parecer favorável nos termos e para os efeitos do disposto nos n.os 6 e 7 do artigo 6.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n4 - Os instrumentos necessários à aplicação do disposto no presente artigo, incluindo os termos e elementos que devem integrar os pedidos de autorização excepcional a que se refere o n.º 2, são aprovados por despacho dos membros do Governo a que se refere o mesmo número.\n\n5 - Todos os órgãos e serviços competentes para a realização de acções de inspecção e auditoria devem, no âmbito das acções que venham a executar nos órgãos e serviços abrangidos pelo disposto no presente artigo, proceder à identificação das situações passíveis de constituir violação do disposto no presente artigo e comunicá-las aos membros do Governo a que se refere o n.º 2.\n\n6 - Sem prejuízo da produção plena dos seus efeitos durante o tempo em que tenham estado em execução, as contratações e as nomeações de trabalhadores efectuadas na sequência de procedimentos concursais realizados em violação do disposto no presente artigo são nulas e fazem incorrer os seus autores em responsabilidade civil, financeira e disciplinar.\n\n7 - Para efeitos da efectivação da responsabilidade financeira a que se refere o número anterior considera-se, designadamente, todos os pagamentos efectuados aos trabalhadores nomeados e contratados em violação do disposto no presente artigo como consequência desta violação e, como tal, pagamentos indevidos.\n\n8 - O disposto no presente artigo tem carácter excepcional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias."
+  },
+  "47221475": {
+   "fragment_id": "36971575",
+   "type": 11,
+   "heading": "Artigo 10.º — Controlo do recrutamento de trabalhadores nas administrações regionais e autárquicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Controlo do recrutamento de trabalhadores nas administrações regionais e autárquicas\n\n1 - A aplicação do disposto no artigo anterior aos órgãos e serviços das administrações regionais e autárquicas efectua-se com as necessárias adaptações, designadamente no que respeita às competências em matéria administrativa dos correspondentes órgãos de governo próprios.\n\n2 - No caso das autarquias locais, o recrutamento excepcional depende da verificação dos seguintes requisitos cumulativos:\n\na) Fundamentação na existência de relevante interesse público no recrutamento, ponderada a eventual carência dos recursos humanos no sector de actividade a que se destina o recrutamento bem como a evolução global dos recursos humanos do município ou freguesia em que o serviço se integra;\n\nb) Impossibilidade de ocupação dos postos de trabalho em causa nos termos previstos nos n.os 1 a 5 do artigo 6.º da Lei n.º 12-A/2008, de 27 de Fevereiro, ou por recurso a pessoal colocado em situação de mobilidade especial ou a outros instrumentos de mobilidade.\n\n3 - A autorização prevista no n.º 2 do artigo anterior compete, nas autarquias locais, sob proposta do presidente da câmara, ao órgão executivo.\n\n4 - As autarquias locais informam os membros do Governo responsáveis pelas áreas das finanças e da Administração Pública do recrutamento de trabalhadores a que se refere o n.º 2 do artigo anterior.\n\n5 - Sem prejuízo da aplicação, com as devidas adaptações, do disposto nos n.os 5, 6 e 7 do artigo anterior, são igualmente nulas as contratações e as nomeações de trabalhadores efectuadas na sequência de procedimentos concursais realizados em violação do disposto no n.º 2.\n\n6 - As autarquias locais remetem mensalmente à Direcção-Geral das Autarquias Locais, através do Sistema Integrado de Informação da Administração Local, a informação prevista no n.º 5 do artigo 50.º da Lei n.º 2/2007, de 15 de Janeiro.\n\n7 - Em caso de incumprimento do dever de informação previsto no número anterior, é aplicável o disposto no n.º 7 do artigo 50.º da Lei n.º 2/2007, de 15 de Janeiro.\n\n8 - As necessidades de recrutamento excepcional de pessoal resultantes do exercício de actividades advenientes da transferência de competências da administração central para a administração local no domínio da educação, não estão sujeitas ao regime constante no presente artigo, na parte relativa à alínea b) do n.º 2 e ao n.º 5.\n\n9 - O disposto no presente artigo tem carácter excepcional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias."
+  },
+  "47221575": {
+   "fragment_id": "35575275",
+   "type": 1,
+   "heading": "Capítulo V — Titulares de cargos políticos, gestores públicos e equiparados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Titulares de cargos políticos, gestores públicos e equiparados"
+  },
+  "47221675": {
+   "fragment_id": "36971675",
+   "type": 11,
+   "heading": "Artigo 11.º — Redução do vencimento dos titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Redução do vencimento dos titulares de cargos políticos\n\n1 - O vencimento mensal ilíquido dos titulares de cargos políticos é reduzido a título excepcional em 5 %.\n\n2 - Para efeitos do disposto na presente lei, são titulares de cargos políticos:\n\na) O Presidente da República;\n\nb) O Presidente da Assembleia da República;\n\nc) O Primeiro-Ministro;\n\nd) Os Deputados à Assembleia da República;\n\ne) Os membros do Governo;\n\nf) Os Representantes da República para as regiões autónomas;\n\ng) Os deputados às Assembleias Legislativas das regiões autónomas;\n\nh) Os membros dos governos regionais;\n\ni) O governador e vice-governador civil;\n\nj) O presidente e vereador a tempo inteiro das câmaras municipais.\n\n3 - O regime excepcional previsto no presente artigo não implica a alteração do vencimento dos titulares de cargos cujos vencimentos se encontram indexados aos de qualquer dos titulares de cargos políticos referidos no número anterior, tomando-se como referência, para efeitos da referida indexação, os valores em vigor antes da data de entrada em vigor da presente lei."
+  },
+  "47221775": {
+   "fragment_id": "36971775",
+   "type": 11,
+   "heading": "Artigo 12.º — Redução dos vencimentos dos gestores públicos e equiparados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Redução dos vencimentos dos gestores públicos e equiparados\n\n1 - A remuneração fixa mensal ilíquida dos gestores públicos executivos e não executivos, incluindo os pertencentes ao sector público local e regional, e dos equiparados a gestores públicos, é reduzida a título excepcional em 5 %.\n\n2 - Para efeitos do presente artigo, consideram-se equiparados a gestores públicos os membros dos conselhos directivos ou de administração dos institutos públicos, incluindo os de regime especial, com excepção daqueles cujo estatuto determine que a remuneração dos seus membros é estabelecida por referência à remuneração estabelecida para o cargo de director-geral."
+  },
+  "47221875": {
+   "fragment_id": "35575375",
+   "type": 1,
+   "heading": "Capítulo VI — Autarquias locais e regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Autarquias locais e regiões autónomas"
+  },
+  "47221975": {
+   "fragment_id": "36971875",
+   "type": 11,
+   "heading": "Artigo 13.º — Redução de transferências para as autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Redução de transferências para as autarquias locais\n\nAo abrigo do artigo 88.º da lei de enquadramento orçamental, aprovada pela Lei n.º 91/2001, de 20 de Agosto, republicada pela Lei n.º 48/2004, de 24 de Agosto, são reduzidas em (euro) 100 000 000 as transferências do Orçamento do Estado (OE) para as autarquias locais."
+  },
+  "47222075": {
+   "fragment_id": "36971975",
+   "type": 11,
+   "heading": "Artigo 14.º — Redução de transferências para as regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Redução de transferências para as regiões autónomas\n\nAo abrigo do artigo 88.º da lei de enquadramento orçamental, aprovada pela Lei n.º 91/2001, de 20 de Agosto, republicada pela Lei n.º 48/2004, de 24 de Agosto, são reduzidas em:\n\na) (euro) 2 500 000 as transferências do Orçamento do Estado para a Região Autónoma dos Açores;\n\nb) (euro) 2 500 000 as transferências do Orçamento do Estado para a Região Autónoma da Madeira."
+  },
+  "47222175": {
+   "fragment_id": "36972075",
+   "type": 11,
+   "heading": "Artigo 15.º — Limites de endividamento das autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Limites de endividamento das autarquias locais\n\n1 - Ao abrigo do artigo 87.º da lei de enquadramento orçamental, aprovada pela Lei n.º 91/2001, de 20 de Agosto, republicada pela Lei n.º 48/2004, de 24 de Agosto, as autarquias locais não podem acordar contratualmente novos empréstimos, incluindo todas as formas de dívida, que impliquem um aumento do seu endividamento líquido.\n\n2 - Para efeitos do disposto no número anterior, apenas se considera endividamento líquido a contratualização de novos empréstimos em montante superior ao valor da amortização da dívida que tenha ocorrido no mesmo exercício orçamental.\n\n3 - O disposto no n.º 1 não prejudica o previsto nos n.os 5 a 7 do artigo 39.º da Lei n.º 2/2007, de 15 de Janeiro, e na alínea c) do artigo 40.º da Lei n.º 3-B/2010, de 28 de Abril.\n\n4 - Podem excepcionar-se do disposto no n.º 1 outros empréstimos e amortizações, a autorizar por despacho do membro do Governo responsável pela área das finanças, em situações excepcionais devidamente fundamentadas."
+  },
+  "47222275": {
+   "fragment_id": "36972175",
+   "type": 11,
+   "heading": "Artigo 16.º — Incumprimento dos limites de endividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Incumprimento dos limites de endividamento\n\nAo abrigo do n.º 4 do artigo 92.º da lei de enquadramento orçamental, aprovada pela Lei n.º 91/2001, de 20 de Agosto, republicada pela Lei n.º 48/2004, de 24 de Agosto, o não cumprimento dos limites de endividamento fixados no artigo anterior e no n.º 1 do artigo 83.º da Lei n.º 3-B/2010, de 28 de Abril, determina a redução, na proporção do incumprimento, das transferências a efectuar."
+  },
+  "47222375": {
+   "fragment_id": "36972275",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração à Lei n.º 3-B/2010, de 28 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração à Lei n.º 3-B/2010, de 28 de Abril\n\nOs artigos 63.º e 78.º da Lei n.º 3-B/2010, de 28 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 63.º\n\nPrincípio da unidade de tesouraria\n\n1 - Toda a movimentação de fundos dos serviços e fundos autónomos, incluindo aqueles cuja gestão financeira e patrimonial se rege pelo regime jurídico do sector empresarial do Estado, exceptuando as entidades públicas do sector financeiro ou os fundos relacionados com a prestação de serviços financeiros ou outras situações como tal reconhecidas por despacho do membro do Governo responsável pela área das finanças, deve ser efectuada por recurso aos serviços bancários disponibilizados pelo Instituto de Gestão da Tesouraria e do Crédito Público, I. P. (IGCP, I. P.), salvo disposição legal em contrário.\n\n2 - ...\n\n3 - O incumprimento do disposto nos números anteriores pode constituir fundamento, por um lado, para retenção das transferências e recusa das antecipações de duodécimos, nos termos a fixar no decreto-lei de execução orçamental, e, por outro, para efeitos do disposto no n.º 1 do artigo 25.º do Decreto-Lei n.º 71/2007, de 27 de Março.\n\n4 - ...\n\n5 - As entidades que integram o sector empresarial do Estado, nos termos previstos no n.º 1, devem manter as suas disponibilidades e aplicações financeiras junto do IGCP, I. P., sendo-lhes para esse efeito aplicável o regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de Junho.\n\n6 - ...\n\nArtigo 78.º\n\nConcessão extraordinária de garantias pessoais do Estado\n\n1 - ...\n\n2 - O limite máximo para a autorização da concessão de garantias previsto no número anterior é de (euro) 22 775 000 000 e acresce ao limite fixado no n.º 1 do artigo 67.º»"
+  },
+  "47222475": {
+   "fragment_id": "36972375",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração aos mapas da Lei n.º 3-B/2010, de 28 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração aos mapas da Lei n.º 3-B/2010, de 28 de Abril\n\nAs alterações decorrentes da presente lei constam dos mapas xviii e xix a ela anexos, de que fazem parte integrante, e que substituem os correspondentes mapas a que se refere o artigo 1.º da Lei n.º 3-B/2010, de 28 de Abril."
+  },
+  "47222575": {
+   "fragment_id": "36972475",
+   "type": 11,
+   "heading": "Artigo 19.º — Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Região Autónoma da Madeira\n\nO disposto na presente lei não prejudica a aplicação das medidas excepcionais de apoio à Região Autónoma da Madeira, previstas na lei que fixa os meios que asseguram o financiamento das iniciativas de apoio e reconstrução da Região Autónoma da Madeira na sequência da intempérie de Fevereiro de 2010."
+  },
+  "47222675": {
+   "fragment_id": "35575475",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "47222775": {
+   "fragment_id": "36972575",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia seguinte ao da sua publicação, salvo o disposto nos números seguintes.\n\n2 - As alterações introduzidas pela presente lei ao Código do IVA e ao Decreto-Lei n.º 347/85, de 23 de Agosto, entram em vigor a 1 de Julho de 2010.\n\n3 - No caso das transmissões de bens e prestações de serviços de carácter continuado resultantes de contratos que dêem lugar a pagamentos sucessivos, as alterações introduzidas na presente lei a que se refere o número anterior apenas se aplicam às operações realizadas a partir da data aí prevista, derrogando-se, para este efeito, o disposto no n.º 9 do artigo 18.º do Código do IVA.\n\n4 - O disposto nos artigos 11.º e 12.º produz efeitos a partir de 1 de Junho de 2010."
+  },
+  "47222875": {
+   "fragment_id": "35575575",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nMapa XVIII\n\nTransferências para as regiões autónomas\n\n(ver documento original)\n\nMapa XIX\n\nTransferências para os municípios\n\nParticipação dos municípios nos impostos do Estado - 2010\n\n(ver documento original)"
+  },
+  "902120269": {
+   "fragment_id": "36971675",
+   "type": 11,
+   "heading": "Artigo 11.º — Redução do vencimento dos titulares de cargos políticos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 334.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Redução do vencimento dos titulares de cargos políticos\n\n1 - O vencimento mensal ilíquido dos titulares de cargos políticos é reduzido a título excepcional em 5 %.\n\n2 - Para efeitos do disposto na presente lei, são titulares de cargos políticos:\n\na) O Presidente da República;\n\nb) O Presidente da Assembleia da República;\n\nc) O Primeiro-Ministro;\n\nd) Os Deputados à Assembleia da República;\n\ne) Os membros do Governo;\n\nf) Os Representantes da República para as regiões autónomas;\n\ng) Os deputados às Assembleias Legislativas das regiões autónomas;\n\nh) Os membros dos governos regionais;\n\ni) O governador e vice-governador civil;\n\nj) O presidente e vereador a tempo inteiro das câmaras municipais.\n\n3 - O regime excepcional previsto no presente artigo não implica a alteração do vencimento dos titulares de cargos cujos vencimentos se encontram indexados aos de qualquer dos titulares de cargos políticos referidos no número anterior, tomando-se como referência, para efeitos da referida indexação, os valores em vigor antes da data de entrada em vigor da presente lei.\n\n> Revogado pelo/a Artigo 334.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+  },
+  "902120270": {
+   "fragment_id": "36971775",
+   "type": 11,
+   "heading": "Artigo 12.º — Redução dos vencimentos dos gestores públicos e equiparados",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 334.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Redução dos vencimentos dos gestores públicos e equiparados\n\n1 - A remuneração fixa mensal ilíquida dos gestores públicos executivos e não executivos, incluindo os pertencentes ao sector público local e regional, e dos equiparados a gestores públicos, é reduzida a título excepcional em 5 %.\n\n2 - Para efeitos do presente artigo, consideram-se equiparados a gestores públicos os membros dos conselhos directivos ou de administração dos institutos públicos, incluindo os de regime especial, com excepção daqueles cujo estatuto determine que a remuneração dos seus membros é estabelecida por referência à remuneração estabelecida para o cargo de director-geral.\n\n> Revogado pelo/a Artigo 334.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+  },
+  "47222975": {
+   "fragment_id": "35575675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 9 de Junho de 2010.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 28 de Junho de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 29 de Junho de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

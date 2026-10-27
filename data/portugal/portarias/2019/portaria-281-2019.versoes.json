@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124324705:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-168527126",
+ "dre_path": "/dr/detalhe/portaria/281-2019-124324705",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168527005",
+    "168527006",
+    "168527007",
+    "168527008",
+    "168527009",
+    "168527010",
+    "168527011",
+    "168527012",
+    "168527013",
+    "168527014",
+    "168527015",
+    "168527016"
+   ]
+  },
+  {
+   "date": "2021-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168561725:por",
+     "title": "Portaria n.º 163/2021",
+     "published": "2021-07-29",
+     "dre_path": "/dr/detalhe/portaria/163-2021-168561725"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "168527005",
+    "168527006",
+    "168527018",
+    "168527008",
+    "168527009",
+    "168527019",
+    "168527011",
+    "168527020",
+    "168527021",
+    "168527014",
+    "168527015",
+    "168527016",
+    "168527017"
+   ]
+  }
+ ],
+ "fragments": {
+  "168527005": {
+   "fragment_id": "168527127",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 281/2019\n\nde 30 de agosto\n\nSumário: Estabelece restrições à circulação rodoviária de automóveis pesados que transportem mercadorias perigosas em cisterna.\n\nO regime de restrições à circulação de veículos que transportam mercadorias perigosas, estabelecido na Portaria n.º 331-B/ 98, de 1 de junho, com a redação que lhe foi dada pelas Portarias n.º 578-A/99, de 28 de julho, e n.º 131/2006, de 16 de fevereiro, tem continuado a revelar-se, no essencial, apropriado à prossecução do objetivo visado, ou seja, conciliar nos períodos de maior densidade de tráfego níveis ajustados de fluidez da circulação com condições de segurança adequadas.\n\nCom efeito, as análises de tráfego confirmam que os picos de volume coincidem, com poucas variações, com os períodos de tempo previstos nos fins de semana e nas segundas-feiras de manhã nos acessos aos principais aglomerados urbanos.\n\nTreze anos volvidos sobre a última atualização do dispositivo legal em vigor, empreendeu-se um aturado trabalho de revisão do elenco de itinerários abrangidos pelas restrições previstas, tendo em conta os fins de segurança rodoviária e de fluidez do trânsito que se pretendem acautelar.\n\nAtravés do estabelecimento de uma matriz de classificação de riscos, foram cruzados os parâmetros considerados relevantes para a análise, a saber, a tipologia das vias, a intensidade de tráfego e a sinistralidade. Esta avaliação incidiu sobre as vias anteriormente abrangidas pelas restrições, e também sobre as novas vias de acesso a Lisboa e ao Porto, entretanto construídas.\n\nDessa análise, concluiu-se que podem ser desclassificadas algumas das vias até agora objeto de restrições, e que, simetricamente, devem ser acrescentadas duas novas vias à lista das abrangidas pelas restrições.\n\nMais se estabelece o sistema de adoção de restrições à circulação de veículos que transportem mercadorias perigosas através dos túneis rodoviários.\n\nConsiderando ainda o protocolo estabelecido entre o Governo, os sindicatos e as associações patronais do setor do transporte rodoviário de mercadorias perigosas, optou-se por uma reformulação integral da Portaria n.º 331-B/98, com a redação que lhe foi dada pelas Portarias n.º 578-A/99, de 28 de julho, e n.º 131/2006, de 16 de fevereiro.\n\nAssim, nos termos e ao abrigo do disposto no n.º 2 do artigo 10.º do Código da Estrada, na sua redação atual, e ainda na secção 1. 9. 2 do anexo I do Decreto-Lei n.º 41-A/2010, de 29 de abril, sucessivamente alterado.\n\nFoi ouvida a Comissão Nacional do Transporte de Mercadorias Perigosas.\n\nManda o Governo, pelo Ministro da Administração Interna, pelo Ministro das Infraestruturas e da Habitação e pelo Ministro do Ambiente e da Transição Energética, o seguinte:"
+  },
+  "168527006": {
+   "fragment_id": "168527128",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente portaria estabelece restrições à circulação rodoviária de automóveis pesados que transportem mercadorias perigosas em cisterna.\n\n2 - A presente portaria aplica-se ainda aos restantes automóveis pesados que transportem mercadorias perigosas e que devam ser sinalizados, com os painéis laranja previstos na secção 5. 3. 2 do anexo 1 do Decreto-Lei n.º 41-A/2010, de 29 de abril, sucessivamente alterado."
+  },
+  "168527007": {
+   "fragment_id": "168527129",
+   "type": 11,
+   "heading": "Artigo 2.º — Restrições nos domingos e feriados nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Restrições nos domingos e feriados nacionais\n\nÉ proibida a circulação dos veículos a que se refere o n.º 1 do artigo 1.º da presente portaria, entre as 0 e as 24 horas de domingos e as 0 e as 24 horas de feriados nacionais, em toda a rede viária pública nacional (do território continental)."
+  },
+  "168527008": {
+   "fragment_id": "168527130",
+   "type": 11,
+   "heading": "Artigo 3.º — Restrições nos fins de semana e feriados nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restrições nos fins de semana e feriados nacionais\n\n1 - É proibida a circulação dos veículos a que se refere o n.º 2 do artigo 1.º da presente portaria, entre as 18 e as 21 horas de sextas-feiras, de domingos, de feriados nacionais e de vésperas de feriados nacionais nas seguintes vias:\n\na) EN 6, entre Lisboa e Cascais;\n\nb) EN 10, entre o Infantado e Vila Franca de Xira;\n\nc) EN 14, entre Maia e Braga;\n\nd) IC 1, entre Coimbrões e Miramar;\n\ne) EN 209, entre o Porto e Gondomar;\n\nf) EN 1, entre Carvalhos e Vila Nova de Gaia (Santo Ovídio);\n\ng) EN 101, entre Braga e Vila Verde;\n\nh) IC 4 (EN 125), entre São João da Venda e Faro;\n\ni) EN 125, entre Faro e Olhão.\n\n2 - A proibição nas vias indicadas no número anterior aplica-se igualmente aos veículos referidos no n.º 1 do artigo 1.º, entre as 18 e as 21h de sextas-feiras e de vésperas de feriados nacionais."
+  },
+  "168527009": {
+   "fragment_id": "168527131",
+   "type": 11,
+   "heading": "Artigo 4.º — Restrições nas vias de acesso a Lisboa e Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Restrições nas vias de acesso a Lisboa e Porto\n\nÉ proibida a circulação dos veículos a que se refere a presente portaria, às segundas-feiras, entre as 7 e as 10 horas, salvo nos meses de julho e agosto, nas vias de acesso às cidades de Lisboa e Porto a seguir indicadas e apenas no sentido de entrada naquelas cidades:\n\na) A 1 entre Alverca e Lisboa;\n\nb) A 5, entre a ligação à CREL e Lisboa;\n\nc) A 8, entre Loures e Lisboa;\n\nd) IC 19, entre o nó da CREL e Lisboa (Damaia);\n\ne) EN 6, entre Cascais e Lisboa;\n\nf) EN 10, entre Vila Franca de Xira e Alverca;\n\ng) IC 22, ligação da A 9 a Odivelas;\n\nh) A 3, entre a ligação ao IC 24 e o Porto;\n\ni) A 4, entre o nó com a A 3 e Matosinhos;\n\nj) A 28, entre a Ponte da Arrábida e a A 4;\n\nk) EN 13, entre Moreira e o Porto;\n\nl) EN 209, entre Gondomar e o Porto;\n\nm) EN 222 (ER), entre Avintes e o Porto;\n\nn) A 20, entre a Ponte do Freixo e a A 3."
+  },
+  "168527010": {
+   "fragment_id": "168527132",
+   "type": 11,
+   "heading": "Artigo 5.º — Restrições na Ponte 25 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Restrições na Ponte 25 de Abril\n\nA circulação na Ponte 25 de Abril e viaduto norte dos veículos a que se refere a presente portaria apenas é permitida entre as 2 e as 5 horas de todos os dias úteis, sábados, domingos e feriados."
+  },
+  "168527011": {
+   "fragment_id": "168527133",
+   "type": 11,
+   "heading": "Artigo 6.º — Restrições nos túneis rodoviários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Restrições nos túneis rodoviários\n\n1 - A circulação nos túneis rodoviários dos veículos a que se refere a presente portaria é restringida em função da respetiva categoria de túnel a que os mesmos sejam afetos nos termos da secção 1. 9. 5 do anexo I do Decreto-Lei n.º 41-A/2010, de 29 de abril, sucessivamente alterado, sendo a categoria de túnel atribuída por deliberação do conselho diretivo do Instituto da Mobilidade e Transportes, I. P. (IMT, I. P.), sob proposta da entidade gestora do túnel, ouvida a Comissão Nacional do Transporte de Mercadorias Perigosas, e em respeito pelo disposto no Decreto-Lei n.º 75/2006, de 27 de março, que transpôs para a para a ordem jurídica nacional a Diretiva n.º 2004/54/CE, do Parlamento Europeu e do Conselho, de 29 de abril, relativa aos requisitos mínimos de segurança para os túneis da rede rodoviária transeuropeia.\n\n2 - Mantém-se a proibição de circulação dos veículos a que se refere a presente portaria no Túnel da Gardunha, localizado no IP2 entre Alpedrinha e Fundão, até deliberação do IMT, I. P., nos termos do número anterior."
+  },
+  "168527012": {
+   "fragment_id": "168527134",
+   "type": 11,
+   "heading": "Artigo 7.º — Exceções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exceções\n\n1 - Ficam excecionados das restrições previstas nos artigos 2.º e 3.º os veículos a que se refere a presente portaria que efetuem transportes de:\n\na) Mercadorias perigosas destinadas às unidades de saúde públicas ou privadas;\n\nb) Mercadorias perigosas destinadas às Forças Armadas, militarizadas e policiais;\n\nc) Combustíveis destinados ao abastecimento de aeroportos e portos marítimos;\n\nd) Mercadorias perigosas que provenham ou se destinem a refinarias e a navios;\n\ne) Gás natural liquefeito destinado ao abastecimento de unidades autónomas de gás (UAGNL);\n\nf) Reservas estratégicas em situação de crise energética, nos termos do Decreto-Lei n.º 165/2013, de 16 de dezembro.\n\n2 - Ficam ainda excecionados das restrições previstas nos artigos 2.º, 3.º e 4.º todos os veículos a que se refere a presente portaria:\n\na) Nos três dias que antecedem o início de uma greve que afete a distribuição de combustíveis e durante toda a duração da greve até à sua conclusão e incluindo o tempo necessário para reposição da normalidade, determinada por despacho do membro do Governo responsável pela área da transição energética;\n\nb) Durante o período em que vigore a situação de alerta declarada nos termos dos artigos 13.º e 14.º da Lei da Bases da Proteção Civil;\n\nc) Durante o período em que vigore a situação de crise energética declarada nos termos do artigo 3.º do Decreto-Lei n.º 114/2001, de 7 de abril, na sua redação atual."
+  },
+  "168527013": {
+   "fragment_id": "168527135",
+   "type": 11,
+   "heading": "Artigo 8.º — Autorizações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autorizações especiais\n\n1 - O presidente do conselho diretivo do IMT, I. P., pode conceder autorizações especiais de circulação para os veículos a que se refere a presente portaria:\n\na) Que efetuem cargas ou descargas durante os períodos previstos nos artigos 2.º e 3.º, desde que as instalações onde sejam efetuadas a carga ou a descarga sejam servidas unicamente por uma via sujeita a restrições e que a utilização dessa via permita o acesso direto a uma outra via não sujeita a restrições;\n\nb) Que transportem mercadorias perigosas imprescindíveis à laboração contínua de unidades de produção;\n\nc) Quando a sua deslocação seja indispensável e urgente, atentas razões de interesse público que importe salvaguardar.\n\n2 - Para efeitos do disposto no número anterior, o IMT, I. P., pode solicitar parecer de entidades oficiais competentes, quer quanto à indispensabilidade e urgência do transporte, quer quanto ao itinerário a percorrer.\n\n3 - Para efeitos de instrução do pedido de autorização, a entidade interessada no transporte deve apresentar requerimento fundamentado, onde conste:\n\na) Identificação do transportador;\n\nb) Identificação do(s) veículo(s) a utilizar;\n\nc) Identificação das mercadorias a transportar, mencionando o número de identificação ONU e a designação oficial de transporte;\n\nd) Indicação do(s) dia(s), hora(s) e via(s) previsto(s) para a circulação.\n\n4 - Excecionalmente, e em caso de não ser comprovadamente viável o recurso ao disposto no n.º 1, podem ser concedidas pelo posto policial mais próximo do local de início do transporte autorizações especiais, nos casos previstos naquele número."
+  },
+  "168527014": {
+   "fragment_id": "168527136",
+   "type": 11,
+   "heading": "Artigo 9.º — Motivos imprevistos e de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Motivos imprevistos e de força maior\n\nSe o transporte que, em condições normais, seria concluído antes do início de um período de restrição o não puder ser, por motivos imprevistos e de força maior, pode o posto policial mais próximo ou em melhores condições de verificar a ocorrência autorizar a conclusão desse transporte, em tempo devidamente determinado e nas condições que melhor acautelarem a segurança da circulação rodoviária."
+  },
+  "168527015": {
+   "fragment_id": "168527137",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogação\n\nÉ revogada a Portaria n.º 331-B/98, de 1 de junho, na redação que lhe foi dada pela Portaria n.º 578-A/99, de 28 de julho, e pela Portaria n.º 131/2006, de 16 de fevereiro."
+  },
+  "168527016": {
+   "fragment_id": "168527138",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor 120 dias após a sua publicação.\n\nEm 28 de agosto de 2019."
+  },
+  "168527018": {
+   "fragment_id": "168527129",
+   "type": 11,
+   "heading": "Artigo 2.º — Restrições nos domingos e feriados nacionais",
+   "in_force_from": "2021-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+   ],
+   "markdown": "###### Artigo 2.º — Restrições nos domingos e feriados nacionais\n\n1 - É proibida a circulação dos veículos a que se refere o n.º 1 do artigo anterior, entre as 00.00 horas e as 24.00 horas dos domingos e feriados nacionais, em toda a rede viária pública nacional do território continental.\n\n2 - As restrições referidas no número anterior não se aplicam a feriados nacionais que ocorram a um sábado ou a uma segunda-feira.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+  },
+  "168527019": {
+   "fragment_id": "168527132",
+   "type": 11,
+   "heading": "Artigo 5.º — Restrições na Ponte 25 de Abril",
+   "in_force_from": "2021-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+   ],
+   "markdown": "###### Artigo 5.º — Restrições na Ponte 25 de Abril\n\nNa Ponte 25 de Abril e viaduto norte, a circulação dos veículos a que se refere a presente portaria apenas é permitida entre as 2.00 horas e as 5.00 horas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+  },
+  "168527020": {
+   "fragment_id": "168527134",
+   "type": 11,
+   "heading": "Artigo 7.º — Exceções",
+   "in_force_from": "2021-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+   ],
+   "markdown": "###### Artigo 7.º — Exceções\n\n1 - Ficam excecionados das restrições previstas nos artigos 2.º, 3.º e 4.º os veículos a que se refere a presente portaria que efetuem transportes de:\n\na) Mercadorias perigosas destinadas às unidades de saúde públicas ou privadas;\n\nb) Mercadorias perigosas destinadas às Forças Armadas, militarizadas e policiais;\n\nc) Combustíveis destinados ao abastecimento de aeroportos e portos marítimos;\n\nd) Combustíveis destinados ao abastecimento de Centros de Meios Aéreos e de Bases de Apoio Logístico afetos à Autoridade Nacional de Emergência e Proteção Civil;\n\ne) Mercadorias perigosas que provenham ou se destinem a refinarias e a navios;\n\nf) Gás natural liquefeito destinado ao abastecimento de unidades autónomas de gás (UAGNL);\n\ng) Reservas estratégicas, nos termos do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual.\n\n2 - Ficam ainda excecionados das restrições previstas nos artigos 2.º, 3.º e 4.º todos os veículos a que se refere a presente portaria:\n\na) Nos três dias que antecedem o início de uma greve que afete a distribuição de combustíveis e durante toda a duração da greve até à sua conclusão e incluindo o tempo necessário para reposição da normalidade, determinada por despacho do membro do Governo responsável pela área da transição energética;\n\nb) Durante o período em que vigorem as situações de alerta, contingência ou calamidade, declaradas nos termos da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual;\n\nc) Durante o período em que vigore a situação de crise energética declarada nos termos do artigo 3.º do Decreto-Lei n.º 114/2001, de 7 de abril, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+  },
+  "168527021": {
+   "fragment_id": "168527135",
+   "type": 11,
+   "heading": "Artigo 8.º — Autorizações especiais",
+   "in_force_from": "2021-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+   ],
+   "markdown": "###### Artigo 8.º — Autorizações especiais\n\n1 - O presidente do conselho diretivo do IMT, I. P., pode conceder autorizações especiais de circulação para os veículos a que se refere a presente portaria:\n\na) Que efetuem cargas ou descargas durante os períodos previstos nos artigos 3.º e 4.º, desde que as instalações onde sejam efetuadas a carga ou a descarga sejam servidas unicamente por uma via sujeita a restrições e que a utilização dessa via permita o acesso direto a uma outra via não sujeita a restrições;\n\nb) Que transportem mercadorias perigosas imprescindíveis à laboração contínua de unidades de produção ou à satisfação de necessidades excecionais por períodos limitados;\n\nc) Quando a sua deslocação seja indispensável e urgente, atentas razões de interesse público que importe salvaguardar.\n\n2 - Para efeitos do disposto no número anterior, o IMT, I. P., pode solicitar parecer de entidades oficiais competentes sobre a indispensabilidade e urgência do transporte.\n\n3 - Para efeitos de instrução do pedido de autorização, a entidade interessada em receber a mercadoria perigosa ou com instalações servidas exclusivamente por vias sujeitas a restrições, deve apresentar requerimento fundamentado, onde conste:\n\na) As circunstâncias excecionais que fundamentam o pedido;\n\nb) O fornecedor e o expedidor da mercadoria;\n\nc) O local de carga e de descarga da mercadoria;\n\nd) No caso da alínea a) do n.º 1, a identificação dos veículos a utilizar e a indicação dos dias e horas previstos para a circulação;\n\ne) A identificação das mercadorias a transportar, mencionando o número de identificação ONU e a designação oficial de transporte.\n\n4 - O IMT, I. P., publica no seu sítio de Internet informações sobre os termos e a forma como os pedidos de autorização devem ser formulados.\n\n5 - O modelo da autorização especial de circulação, bem como os documentos que a acompanham e que, caso sejam solicitados, deverão ser apresentados às autoridades de fiscalização rodoviária, são aprovados por deliberação do conselho diretivo do IMT, I. P.\n\n6 - Em caso de urgência, o veículo pode circular sem a autorização concedida pelo IMT, I. P., desde que:\n\na) O pedido de autorização tenha dado entrada no IMT, I. P., antes da realização do transporte;\n\nb) A força de segurança territorialmente competente no local de início do transporte, tenha declarado, por escrito, a sua não objeção à realização do transporte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2021 - Diário da República n.º 146/2021, Série I de 2021-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/163-2021-168561725), em vigor a partir de 2021-07-30"
+  },
+  "168527017": {
+   "fragment_id": "168527139",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Eduardo Arménio do Nascimento Cabrita. - O Ministro das Infraestruturas e da Habitação, Pedro Nuno de Oliveira Santos. - O Ministro do Ambiente e da Transição Energética, João Pedro Soeiro de Matos Fernandes.\n\n112551925"
+  }
+ }
+}

@@ -1,0 +1,496 @@
+---
+schema_version: '1.0'
+id: eu:celex:32001D0172:por
+title: '2001/172/CE: Decisão da Comissão, de 1 de Março de 2001'
+short_title: null
+summary: '2001/172/CE: Decisão da Comissão, de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre
+  aftosa no Reino Unido e que revoga a Decisão 2001/145/CE (Texto relevante para efeitos do EEE) [notificada com o número
+  C(2001) 681]'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2001/172
+official_date: null
+publication_date: '2001-03-02'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 62 de 2.3.2001
+  number: '62'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/30a49800-c6a8-4573-9a0e-8ae0e76b9d92.0010.02/DOC_1
+entry_into_force_dates:
+- '2001-03-02'
+end_of_validity_date: '2001-04-04'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32001D0172
+  eli: http://data.europa.eu/eli/dec/2001/172/oj
+  oj: oj:JOL_2001_062_R_0022_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32001D0172:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32001D0172
+  metadata_url: http://publications.europa.eu/resource/cellar/30a49800-c6a8-4573-9a0e-8ae0e76b9d92.0010
+  content_url: http://publications.europa.eu/resource/cellar/30a49800-c6a8-4573-9a0e-8ae0e76b9d92.0010.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T14:03:12Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-03-20T05:34:12.237+01:00'
+integrity:
+  source_sha256: f0ee82161d4669a1b8478061d97d26d081c82a4869da10d1dfef448039395730
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T14:03:12Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Reino Unido
+- carne
+- febre aftosa
+- gado vivo
+- lacticínio
+- restrição à exportação
+relationships:
+- type: amended_by
+  target: celex:32001D0190
+  label: null
+  source: http://publications.europa.eu/resource/cellar/73ae5dbf-f7a6-404c-8be3-008965c41aef
+  date: '2001-03-13'
+- type: amended_by
+  target: celex:32001D0209
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e7c1f3d2-ae20-45cd-81fc-d712d293e8a0
+  date: '2001-03-19'
+- type: amended_by
+  target: celex:32001D0239
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a10b365b-7e68-4cf9-a8af-9b20c03be60a
+  date: '2001-03-28'
+- type: amended_by
+  target: celex:32001D0268
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b5626e5f-8d1d-40b1-8e14-1c09bcd242e4
+  date: '2001-04-05'
+- type: amended_by
+  target: celex:32001D0263
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d3e3cb58-3d57-4c8c-ba0c-35ea4b0411e9
+  date: '2001-04-11'
+- type: amended_by
+  target: celex:32001D0316
+  label: null
+  source: http://publications.europa.eu/resource/cellar/73aef668-5be4-4600-b406-a5c96c529a0f
+  date: '2001-04-20'
+- type: amended_by
+  target: celex:32001D0318
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8428a88b-1ace-4b67-b962-967a3db2c8c0
+  date: '2001-04-20'
+- type: based_on
+  target: celex:31990L0425
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab8624bc-b6de-43f3-9a99-83fc83c8d85f
+  date: '1990-08-18'
+- type: based_on
+  target: celex:31989L0662
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0c21eb0f-b405-4c20-8b0b-7e7c3bb1ee16
+  date: '2010-03-08'
+- type: cites
+  target: celex:31964L0432
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b4b312f4-ba77-4cc7-99cd-5fc19c85d2cd
+- type: cites
+  target: celex:31964L0433
+  label: null
+  source: http://publications.europa.eu/resource/cellar/759f2d2b-6b09-4d07-ae48-d56a16b166d6
+- type: cites
+  target: celex:31977L0099
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7c32d7ef-2983-4ed2-84c8-369af82bbef3
+- type: cites
+  target: celex:31980L0215
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e10cbb2a-7740-4579-b27d-70c0c1316970
+- type: cites
+  target: celex:31985L0511
+  label: null
+  source: http://publications.europa.eu/resource/cellar/00d8ae0d-4367-4309-9591-1a62ad42887c
+- type: cites
+  target: celex:31988L0407
+  label: null
+  source: http://publications.europa.eu/resource/cellar/37c9e3d8-0e5b-474e-a86a-af7c7ea5a3ef
+- type: cites
+  target: celex:31990D0424
+  label: null
+  source: http://publications.europa.eu/resource/cellar/00756999-790d-4576-a7a8-a53f20e33231
+- type: cites
+  target: celex:31991L0068
+  label: null
+  source: http://publications.europa.eu/resource/cellar/974e880f-1f19-4526-8f73-a5a0c073eeed
+- type: cites
+  target: celex:31992L0118
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b24e7cad-c821-4121-98da-f5d3479aea3d
+- type: repealed_by
+  target: celex:32001D0356
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ced05658-b251-4e1f-bb97-d7a3d5b36ba2
+  date: '2001-05-10'
+- type: repeals
+  target: celex:32001D0145
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0a8d271c-c6a1-4cbb-9bf2-d841e8ed506c
+  date: '2001-02-26'
+article_structure:
+  article_count: 15
+  section_count: 2
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T14:03:12Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 2001/172/CE: Decisão da Comissão, de 1 de Março de 2001
+
+**2001/172/CE: Decisão da Comissão, de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido e que revoga a Decisão 2001/145/CE (Texto relevante para efeitos do EEE) [notificada com o número C(2001) 681]** *Jornal Oficial nº L 062 de 02/03/2001 p. 0022 - 0027*
+
+Decisão da Comissão
+
+de 1 de Março de 2001
+
+relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido e que revoga a Decisão 2001/145/CE
+
+[notificada com o número C(2001) 681]
+
+(Texto relevante para efeitos do EEE)
+
+(2001/172/CE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno(1), com a última redacção que lhe foi dada pela Directiva 92/118/CEE(2), e, nomeadamente, o seu artigo 10.o,
+
+Tendo em conta a Directiva 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno(3), com a última redacção que lhe foi dada pela Directiva 92/118/CEE, e, nomeadamente, o seu artigo 9.o,
+
+Considerando o seguinte:
+
+(1) Foram declarados no Reino Unido surtos de febre aftosa.
+
+(2) A situação relativa à febre aftosa em determinadas regiões do Reino Unido pode pôr em perigo os efectivos de outros Estados-Membros e das regiões do Reino Unido não afectadas, atendendo à colocação no mercado e ao comércio de biungulados vivos e alguns dos seus produtos.
+
+(3) O Reino Unido adoptou medidas em conformidade com a Directiva 85/511/CEE do Conselho, de 18 de Novembro de 1985, que estabelece medidas comunitárias de luta contra a febre aftosa(4), com a última redacção que lhe foi dada pela Decisão 92/380/CEE da Comissão(5) e, além disso, introduziu outras medidas nas regiões afectadas, nomeadamente a proibição da circulação de animais sensíveis na Grã-Bretanha.
+
+(4) A situação sanitária em determinadas regiões do Reino Unido exige o reforço das medidas de combate à febre aftosa adoptadas pelo Reino Unido mediante a adopção de medidas comunitárias de protecção complementares.
+
+(5) Enquanto se aguarda a reunião do Comité Veterinário Permanente, a Comissão adoptou, em colaboração com o Estado-Membro em causa, medidas transitórias no âmbito da Decisão 2001/145/CE de 21 de Fevereiro de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido(6).
+
+(6) De modo a adaptar as medidas à situação epidemiológica actual, é necessário adoptar determinadas medidas de protecção e revogar a Decisão 2001/145/CE.
+
+(7) A situação será revista na reunião do Comité Veterinário Permanente prevista para 7 de Março de 2001 e as medidas adaptadas em função das necessidades.
+
+(8) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Sem prejuízo das medidas adoptadas pelo Reino Unido no âmbito da Directiva 85/511/CEE da Comissão, o Reino Unido assegurará que:
+
+1. Não sejam expedidos para as partes do seu território enumeradas nos anexos I e II animais vivos das espécies bovina, ovina, caprina e suína e outros biungulados;
+
+2. Não sejam expedidos das partes do seu território enumeradas nos anexos I e II, ou movimentados através das mesmas, animais vivos das espécies bovina, ovina, caprina e suína e outros biungulados;
+
+Sem prejuízo da proibição da movimentação de animais sensíveis na ou através da Grã-Bretanha aplicada pelas autoridades competentes do Reino Unido, e por derrogação ao disposto no primeiro parágrafo, as autoridades competentes podem autorizar o trânsito directo e ininterrupto de animais biungulados nas zonas enumeradas nos anexos I e II, através das principais estradas e linhas de caminho-de-ferro.
+
+3. Os certificados sanitários previstos na Directiva 64/432/CEE do Conselho(7), com a última redacção que lhe foi dada pela Directiva 2000/20/CE(8), que acompanha os animais vivos das espécies bovina e suína, e na Directiva 91/68/CEE do Conselho(9), com a última redacção que lhe foi dada pela Decisão 94/953/CE da Comissão(10), que acompanha os animais vivos das espécies ovina e caprina expedidos para outros Estados-Membros a partir de partes do território do Reino Unido não enumeradas nos anexos I e II, ostentem a seguinte menção: "Animais conformes à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido;"
+
+4. Os certificados sanitários relativos aos biungulados, excluindo os abrangidos pelos certificados mencionados no n.o 3, expedidos para outros Estados-Membros de partes do território do Reino Unido não enumeradas nos anexos I e II, ostentem a seguinte menção:"Biungulados vivos conformes à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido;"
+
+5. A expedição para outros Estados-Membros de animais acompanhados de certificados sanitários referidos nos n.os3 e 4 apenas seja permitida mediante notificação com três dias de antecedência da autoridade veterinária local às autoridades veterinárias central e local do Estado-Membro destinatário.
+
+###### Artigo 2.º
+
+1. O Reino Unido não expedirá carne fresca de animais das espécies bovina, ovina, caprina e suína e de outros biungulados provenientes das partes do seu território enumeradas no anexo I ou obtida a partir de animais originários dessas partes do seu território.
+
+2. As proibições previstas no n.o 1 não são aplicáveis à carne fresca:
+
+a) Obtida antes de 1 de Fevereiro de 2001, desde que esta seja claramente identificada e transportada e armazenada separadamente da carne não destinada a expedição para o exterior das zonas constantes do anexo I;
+
+b) Obtida de animais criados fora das zonas constantes dos anexos I e II e transportada, em derrogação ao n.o 1 do artigo 1.o, directamente e sob controlo oficial, em meios de transporte selados, para um matadouro situado na zona referida no anexo I, fora da zona de protecção de abate imediato. A carne em causa apenas deve ser colocada no mercado no Reino Unido.
+
+c) Obtida em instalações de desmancha situadas na zona mencionada no anexo I, nas seguintes condições:
+
+- só é transformada nesse estabelecimento a carne fresca referida na subalínea a) ou a carne fresca proveniente de animais criados e abatidos fora das zonas constantes do anexo I,
+
+- toda a carne fresca ostenta a marca sanitária em conformidade com o capítulo XI do anexo I da Directiva 64/433/CEE do Conselho(11) relativa às condições sanitárias de produção de carnes frescas e da sua colocação no mercado o estabelecimento funciona sob controlo veterinário rigoroso,
+
+- o estabelecimento funciona sob controlo veterinário rigoroso,
+
+- a carne fresca é claramente identificada, e transportada e armazenada separadamente da carne não destinada a partes da Comunidade exteriores às zonas constantes do anexo I,
+
+- o controlo do respeito das condições atrás referidas é efectuado pelas autoridades veterinárias competentes, sob fiscalização das autoridades veterinárias centrais, que comunicam aos demais Estados-Membros e à Comissão a lista dos estabelecimentos que aprovaram em aplicação das presentes disposições.
+
+3. A carne expedida do Reino Unido para outros Estados-Membros deve ser acompanhada de um certificado emitido por um veterinário oficial. O certificado deve ostentar a seguinte menção:"Carne conforme à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+###### Artigo 3.º
+
+1. O Reino Unido não expedirá produtos à base de carne de animais das espécies bovina, ovina, caprina e suína e de outros biungulados provenientes das partes do seu território enumeradas no anexo I ou preparados com carne obtida a partir de animais originários dessas partes do seu território.
+
+2. As proibições previstas no n.o 1 não são aplicáveis aos produtos à base de carne que tenham sido submetidos a um dos tratamentos definidos no n.o 1 do artigo 4.o da Directiva 80/215/CEE(12) do Conselho, com a última redacção que lhe foi dada pela Directiva 91/687/CEE do Conselho(13), nem aos produtos à base de carne definidos na Directiva 77/99/CEE do Conselho(14), com a última redacção que lhe foi dada pela Directiva 97/76/CE do Conselho(15), relativa aos problemas sanitários em matéria de comércio intracomunitário de produtos à base de carne que tenham sido submetidos durante a preparação, de um modo uniforme e completo, a um pH inferior a 6.
+
+3. As proibições previstas no n.o 1 não são aplicáveis aos produtos à base de carne:
+
+a) Obtidos a partir de carne de animais biungulados abatidos antes de 1 de Fevereiro de 2001, desde que sejam claramente identificados, e tenham sido, desde a referida data, transportados e armazenados separadamente dos produtos à base de carne não destinados a partes da Comunidade exteriores às zonas constantes do anexo I;
+
+b) Preparados em estabelecimentos que satisfaçam as seguintes condições:
+
+- toda a carne fresca utilizada no estabelecimento está em conformidade com o disposto no n.o 2 do artigo 2.o,
+
+- todos os produtos à base de carne utilizados no produto final estão em conformidade com o disposto na alínea a) ou são fabricados com carne fresca obtida a partir de animais criados e abatidos fora das zonas constantes do anexo I,
+
+- todos os produtos à base de carne ostentam a marca sanitária em conformidade com o capítulo VI do anexo A da Directiva 77/99/CEE,
+
+- o estabelecimento funciona sob controlo veterinário rigoroso,
+
+- os produtos à base de carne são claramente identificados, e transportados e armazenados separadamente dos produtos não destinados a partes da Comunidade exteriores às zonas constantes do anexo I,
+
+- o controlo do respeito das condições atrás referidas é efectuado pelas autoridades competentes, sob a responsabilidade das autoridades veterinárias centrais, que comunicam aos demais Estados-Membros e à Comissão a lista dos estabelecimentos que aprovaram em aplicação das presentes disposições.
+
+c) Preparados nas partes do território não incluídas no anexo I, utilizando carne obtida antes de 1 de Fevereiro de 2001 em partes do território referidas no anexo I, desde que a carne e os produtos à base de carne sejam claramente identificados, e transportados e armazenados separadamente da carne e dos produtos à base de carne não destinados a expedição para o exterior das zonas constantes do anexo I.
+
+4. Os produtos à base de carne expedidos do Reino Unido para outros Estados-Membros devem ser acompanhados de um certificado emitido por um veterinário oficial. O certificado deve ostentar a seguinte menção:"Carne conforme à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+5. Por derrogação ao disposto no n.o 4, no caso dos produtos à base de carne conformes às exigências do n.o 2 expedidos em recipientes hermeticamente selados, é suficiente que o respeito das condições de tratamento expressas no n.o 2 seja referido no documento comercial que acompanha a remessa, validado em conformidade com o artigo 9.o
+
+###### Artigo 4.º
+
+1. O Reino Unido não expedirá leite para consumo humano ou não-humano proveniente das partes do seu território enumeradas no anexo I.
+
+2. As proibições previstas no n.o 1 não são aplicáveis ao leite para consumo humano ou não-humano que, no mínimo, tenha sido submetido a:
+
+a) Uma pasteurização inicial, em conformidade com as normas definidas no capítulo 1, ponto 3 letra b), do anexo I da Directiva 92/118/CEE, seguida de um segundo tratamento pelo calor por pasteurização a alta temperatura, UHT, esterilização ou de um processo de secagem que inclui um tratamento pelo calor com um efeito equivalente ao acima referido, ou
+
+b) Uma pasteurização inicial, em conformidade com as normas definidas no capítulo 1, ponto 3 letra b), do anexo I da Directiva 92/118/CEE, combinada com o tratamento através do qual o pH é reduzido e mantido a um nível inferior a 6 durante pelo menos uma hora.
+
+3. As proibições previstas no n.o 1 não são aplicáveis ao leite preparado em estabelecimentos situados nas zonas enumeradas no anexo I, nas seguintes condições:
+
+a) Todo o leite utilizado no estabelecimento está em conformidade com o disposto no n.o 2 ou é obtido a partir de animais fora das zonas constantes do anexo I,
+
+b) O estabelecimento funciona sob controlo veterinário rigoroso,
+
+c) O leite é claramente identificado, e transportado e armazenado separadamente do leite e dos produtos lácteos não destinados a partes da Comunidade exteriores às zonas constantes do anexo I,
+
+d) O transporte de leite cru de explorações situadas fora das zonas mencionadas no anexo I para os estabelecimentos referidos supra é efectuado em veículos limpos e desinfectados antes da operação, que não tenham tido qualquer contacto subsequente com explorações situadas nas zonas mencionadas no anexo I que possuam animais de espécies sensíveis à febre aftosa,
+
+e) O controlo do respeito das condições atrás referidas é efectuado pelas autoridades veterinárias competentes, sob fiscalização das autoridades veterinárias centrais, que comunicam aos demais Estados-Membros e à Comissão a lista dos estabelecimentos que aprovaram em aplicação das presentes disposições.
+
+4. O leite expedido do Reino Unido para outros Estados-Membros deve ser acompanhado de um certificado oficial. O certificado deve ostentar a seguinte menção:"Leite conforme à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+5. Por derrogação ao disposto no n.o 4, no caso do leite conforme às exigências do n.o 2, alíneas a) e b), expedido em recipientes hermeticamente selados ou processado em sistemas automáticos que assegurem o cumprimento e o registo das normas de tratamento, é suficiente que o respeito das condições de tratamento expressas no n.o 2, alíneas a) e b), seja referido no documento comercial que acompanha a remessa, validado em conformidade com o artigo 9.o
+
+###### Artigo 5.º
+
+1. O Reino Unido não expedirá produtos lácteos para consumo humano ou não-humano provenientes das partes do seu território enumeradas no anexo I.
+
+2. As proibições previstas no n.o 1 não são aplicáveis aos produtos lácteos:
+
+a) Produzidos antes de 1 de Fevereiro de 2001;
+
+b) Preparados a partir de leite conforme às disposições dos n.os 2 ou 3 do artigo 4.o;
+
+c) Submetidos a um tratamento pelo calor a uma temperatura de, pelo menos, 71,7 °C durante, pelo menos, 15 segundos, entendendo-se que tal tratamento não seria necessário no caso de produtos acabados cujos ingredientes cumprem as exigências de sanidade animal estabelecidas na presente decisão.
+
+3. As proibições previstas no n.o 1 não são aplicáveis aos produtos lácteos:
+
+a) Preparados em estabelecimentos situados nas zonas enumeradas no anexo I, que satisfaçam as seguintes condições:
+
+- todo o leite utilizado no estabelecimento está em conformidade com o disposto no n.o 2 do artigo 4.o ou é obtido a partir de animais fora das zonas constantes do anexo I,
+
+- todos os produtos lácteos utilizados no produto final estão em conformidade com o disposto no n.o 2 ou são fabricados com leite obtido a partir de animais fora das zonas constantes do anexo I,
+
+- o estabelecimento funciona sob controlo veterinário rigoroso,
+
+- os produtos lácteos são claramente identificados, e transportados e armazenados separadamente do leite e dos produtos lácteos não destinados a partes da Comunidade exteriores às zonas constantes do anexo I,
+
+- o controlo do respeito das condições atrás referidas é efectuado pelas autoridades competentes, sob a responsabilidade das autoridades veterinárias centrais, que comunicam aos demais Estados-Membros e à Comissão a lista dos estabelecimentos que aprovaram em aplicação das presentes disposições.
+
+b) Preparados nas partes do território não mencionadas no anexo I, utilizando leite obtido antes de 1 de Fevereiro de 2001 em partes do território mencionadas no anexo I, desde que os produtos lácteos sejam claramente identificados, e transportados e armazenados separadamente dos produtos lácteos não destinados a expedição para o exterior das zonas constantes do anexo I.
+
+4. Os produtos lácteos expedidos do Reino Unido para outros Estados-Membros devem ser acompanhados de um certificado oficial. O certificado deve ostentar a seguinte menção:"Produtos lácteos conformes à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+5. Por derrogação ao disposto no n.o 4, no caso de produtos lácteos conformes às exigências do n.o 2 expedidos em recipientes hermeticamente selados ou processados em sistemas automáticos que assegurem o cumprimento e o registo das normas de tratamento, é suficiente que o respeito das condições de tratamento expressas no n.o 2 seja referido no documento comercial que acompanha a remessa, validado em conformidade com o artigo 9.o
+
+###### Artigo 6.º
+
+1. O Reino Unido não expedirá para outras partes do Reino Unido sémen, óvulos e embriões de animais das espécies bovina, ovina, caprina e suína e de outros biungulados provenientes das partes do seu território enumeradas no anexo I.
+
+2. O Reino Unido não expedirá sémen, óvulos e embriões de animais das espécies bovina, ovina, caprina e suína e de outros biungulados provenientes das partes do seu território enumeradas nos anexos I e II.
+
+3. A presente proibição não é aplicável ao sémen de bovino congelado, aos óvulos e aos embriões de bovino produzidos antes de 1 de Fevereiro de 2001.
+
+4. O certificado sanitário previsto na Directiva 88/407/CEE do Conselho(16), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, Finlândia e Suécia e que acompanha o sémen de bovino congelado expedido do Reino Unido para outros Estados-Membros deve ostentar a seguinte menção:"Sémen de bovino congelado conforme à Decisão 2001/172/CE da Comissão, de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+5. O certificado sanitário previsto na Directiva 89/556/CEE do Conselho(17), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, Finlândia e Suécia e que acompanha os embriões de bovino expedidos do Reino Unido para outros Estados-Membros deve ostentar a seguinte menção:"Embriões de bovino conformes à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+###### Artigo 7.º
+
+1. O Reino Unido não expedirá couros e peles de animais das espécies bovina, ovina, caprina e suína e de outros biungulados provenientes das partes do seu território enumeradas no anexo I.
+
+2. A proibição prevista no n.o 1 não é aplicável aos couros e peles que tenham sido produzidos até 1 de Fevereiro de 2001 ou que satisfaçam os requisitos previstos nos segundo a quinto travessões do ponto I.A ou nos terceiro e quarto travessões do ponto I.B do capítulo 3 do anexo I da Directiva 92/118/CEE. Deve proceder-se de modo a possibilitar uma separação eficaz entre os couros e peles tratados e os não tratados.
+
+3. O Reino Unido garantirá que os couros e peles de animais das espécies bovina, ovina, caprina e suína e de outros biungulados a expedir para outros Estados-Membros sejam acompanhados por um certificado que ostente a seguinte menção:"Couros e peles conformes à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+4. Por derrogação ao disposto no n.o 3, no caso de couros e peles conformes às exigências previstas nos segundo a quinto travessões do ponto I.A do capítulo 3 do anexo I da Directiva 92/118/CEE, é suficiente que os mesmos sejam acompanhados de um documento comercial que certifique o respeito das condições de tratamento expressas nos segundo a quinto travessões do ponto I.A do capítulo 3 do anexo I da Directiva 92/118/CEE.
+
+5. Por derrogação ao disposto no n.o 3, no caso de couros e peles conformes às exigências previstas nos terceiro e a quarto travessões do ponto I.B do capítulo 3 do anexo I da Directiva 92/118/CEE, é suficiente que o respeito das condições de tratamento expressas nos terceiro e a quarto travessões do ponto I.B do capítulo 3 do anexo I da Directiva 92/118/CEE seja referido no documento comercial que acompanha a remessa, validado em conformidade com o artigo 9.o
+
+###### Artigo 8.º
+
+1. O Reino Unido não expedirá produtos animais das espécies bovina, ovina, caprina e suína e de outros biungulados não mencionados nos artigos 2.o, 3.o, 4.o, 5.o, 6.o e 7.o, produzidos após 1 de Fevereiro de 2001, provenientes das partes do seu território enumeradas no anexo I.
+
+2. As proibições referidas no n.o 1 não são aplicáveis:
+
+a) Aos produtos animais referidos no n.o 1 que tenham sido sujeitos:
+
+- a um tratamento pelo calor num recipiente hermeticamente fechado, com um valor Fo igual ou superior a 3,00,
+
+- a um tratamento pelo calor em que a temperatura no centro atingiu, pelo menos, 70 °C;
+
+b) Ao sangue e aos produtos à base de sangue definidos no capítulo 7 do anexo I da Directiva 92/118/CEE do Conselho que tenham sido objecto de:
+
+- tratamento térmico à temperatura de 65 °C durante, pelo menos, três horas, seguido de um ensaio de eficácia;
+
+- irradiação a 2,5 megarads ou com raios gama, seguida de um ensaio de eficácia;
+
+- alteração do pH para valores não superiores a 5 durante, pelo menos, duas horas, seguida de um ensaio de eficácia.
+
+c) À banha e às gorduras fundidas que tenham sido objecto do tratamento térmico descrito no ponto II.A do capítulo 19 do anexo I da Directiva 92/118/CEE;
+
+d) Às tripas de animais às quais sejam aplicáveis mutatis mutandis as disposições do ponto B do capítulo 2 do anexo I da Directiva 92/118/CEE;
+
+e) À lã de ovelha e pêlos de ruminantes que não tenham sido transformados ou que estejam secos e acondicionados numa embalagem;
+
+f) Aos alimentos semi-húmidos e alimentos secos para animais de estimação conformes às exigências dos pontos 2 e 3, respectivamente, do capítulo 4 do anexo I da Directiva 92/118/CEE do Conselho;
+
+g) Aos produtos compostos, contendo produtos de origem animal, que não sejam objecto de tratamento posterior, entendendo-se que tal tratamento não seria necessário no caso de produtos acabados cujos ingredientes cumprem as exigências de sanidade animal estabelecidas na presente decisão.
+
+3. O Reino Unido garantirá que os produtos animais referidos no n.o 2 a expedir para outros Estados-Membros sejam acompanhados por um certificado oficial que inclua a seguinte menção:"Produtos animais conformes à Decisão 2001/172/CE de 1 de Março de 2001, relativa a determinadas medidas de protecção contra a febre aftosa no Reino Unido."
+
+4. Por derrogação ao disposto no n.o 3, no caso dos produtos referidos no n.o 2, alíneas b), c), d) e e), é suficiente que o respeito das condições de tratamento referidas no documento comercial exigido pela legislação comunitária aplicável seja validado em conformidade com o artigo 9.o
+
+###### Artigo 9.º
+
+Sempre que seja feita referência ao presente artigo, as autoridades competentes do Reino Unido assegurarão que o documento comercial exigido pela legislação comunitária para o comércio intracomunitário seja validado mediante a anexação de uma cópia de um certificado oficial que declare que o processo de produção foi inspeccionado e considerado conforme às exigências aplicáveis da legislação comunitária, bem como adequado à destruição do vírus da febre aftosa, tendo sido adoptadas disposições para evitar uma eventual recontaminação com o vírus da febre aftosa após o tratamento.
+
+O certificado de inspecção do processo de produção deve fazer referência à presente decisão, ser válido por trinta dias, especificar a data de termo e ser renovável após a inspecção do estabelecimento.
+
+###### Artigo 10.º
+
+O Reino Unido assegurará que os veículos utilizados no transporte de animais vivos sejam limpos e desinfectados após cada operação, devendo ser apresentadas provas da realização dessa desinfecção.
+
+###### Artigo 11.º
+
+1. Os Estados-Membros que não o Reino Unido não deverão expedir animais vivos de espécies sensíveis para a parte do território do Reino Unido referida no anexo I.
+
+2. Sem prejuízo das medidas já adoptadas pelos Estados-Membros, os Estados-Membros que não o Reino Unido deverão adoptar todas as medidas de precaução, incluindo o isolamento de animais sensíveis e o abate preventivo dos ovinos, caprinos, cervídeos e camelídeos expedidos do Reino Unido entre 1 e 21 de Fevereiro de 2001.
+
+As medidas de precaução referidas no primeiro parágrafo devem ser adoptadas sem prejuízo do disposto no artigo 6.o da Decisão 90/424/CEE do Conselho(18), com a última redacção que lhe foi dada pela Decisão 2001/12/CE do Conselho(19).
+
+###### Artigo 12.º
+
+É revogada a Decisão 2001/145/CE.
+
+###### Artigo 13.º
+
+Os Estados-Membros alterarão as medidas que apliquem ao comércio de modo a torná-las conformes com a presente decisão. Do facto informarão imediatamente a Comissão.
+
+###### Artigo 14.º
+
+A presente decisão é aplicável até à meia-noite de 9 de Março de 2001.
+
+###### Artigo 15.º
+
+Os Estados-Membros são os destinatários da presente decisão.
+
+Feito em Bruxelas, em 1 de Março de 2001.
+
+Pela Comissão
+
+David Byrne
+
+Membro da Comissão
+
+(1) JO L 224 de 18.8.1990, p. 29.
+
+(2) JO L 62 de 15.3.1993, p. 49.
+
+(3) JO L 395 de 30.12.1989, p. 13.
+
+(4) JO L 315 de 26.11.1985, p. 11.
+
+(5) JO L 198 de 17.7.1992, p. 54.
+
+(6) JO L 53 de 23.2.2001, p. 25.
+
+(7) JO 121 de 29.7.1964, p. 1977/64.
+
+(8) JO L 163 de 4.7.2000, p. 35.
+
+(9) JO L 46 de 19.2.1991, p. 19.
+
+(10) JO L 371 de 31.12.1994, p. 14.
+
+(11) JO 121 de 29.7.1964, p. 2012/64. Directiva actualizada pela Directiva 91/497/CEE (JO L 268 de 24.9.1991, p. 69), com a última redacção que lhe foi dada pela Directiva 95/23/CE (JO L 243 de 11.10.1995 p. 7.)
+
+(12) JO L 47 de 21.2.1980, p. 4.
+
+(13) JO L 377 de 31.12.1991, p. 16.
+
+(14) JO L 26, 31. 1. 1977, p. 85. Directiva actualizada pela Directiva 92/5/CEE (JO L 57 de 2.3.1992, p. 1), com a última redacção que lhe foi dada pela Directiva 92/45/CEE (JO L 268 de 14.9.1992, p. 35).
+
+(15) JO L 10 de 16.1.1998, p. 25.
+
+(16) JO L 194 de 22.7.1988, p. 10.
+
+(17) JO L 302 de 19.10.1989, p. 1.
+
+(18) JO L 224 de 18.8.1990, p. 19.
+
+(19) JO L 3 de 6.1.2001, p. 27.
+
+## ANEXO I — Reino Unido
+
+## ANEXO II — Reino Unido

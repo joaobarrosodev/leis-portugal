@@ -1,0 +1,369 @@
+---
+schema_version: '1.0'
+id: pt:dre:424522:por
+title: Decreto-Lei n.º 502/77
+short_title: null
+summary: Aprova os Estatutos da Empresa Pública Agência Noticiosa Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria de Estado da Comunicação Social
+proposing_entity: null
+official_number: 502/77
+official_date: null
+publication_date: '1977-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 276/1977, 2º Suplemento, Série I de 1977-11-29
+  number: '276'
+  series: I
+  supplement: null
+  pages: 2850-(3) a 2850-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27602/00030006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '424522'
+  dre_path: /dr/detalhe/decreto-lei/502-1977-424522
+  internal: pt:dre:424522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1977-424522
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1977-424522
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2999c1c9e21c9db2997e0068307286874654753da12003c5175a4536117c43fd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ANOP
+- Estatuto
+relationships:
+- type: amended_by
+  target: pt:dre:391474:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:425330:por
+  label: Ratificados, com emendas, o presente diploma, assim como os estatutos da ANOP, E.P. publicados em anexo, pela LEI.19/78.1978.04.11.AR,
+    DR.IS [84]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-1978-425330
+  date: '1978-04-11'
+- type: amended_by
+  target: pt:numero:lei:19/78
+  label: ': REVOGADO O ARTIGO 2 PELO DECRETO LEI NUMERO 96-A/84, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE, NUMERO 72, SUPLEMENTO,
+    DE 840326. ALTERADO O ESTATUTO E O RESPECTIVO DIPLOMA PELA LEI NUMERO 19/78, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE,
+    NUMERO 84, DE 11/4/78. 78.'
+  source: null
+  date: '1984-03-26'
+- type: cites
+  target: pt:dre:312176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391474:por
+  label: "Revogado o art. 2º pelo DEC LEI.96-A/84.1984.03.26.PCM DR.IS [72]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-a-1984-391474
+  date: '1984-03-26'
+article_structure:
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:08:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 502/77
+
+de 29 de Novembro
+
+A empresa pública Agência Noticiosa Portuguesa, criada pelo [Decreto-Lei n.º 330/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1975-337199), de 1 de Julho, tem por objecto a recolha e difusão de serviço noticioso, mediante a gestão do estabelecimento que o Estado adquiriu à ANI, Lda., em Novembro de 1974.
+
+O [Decreto-Lei n.º 523/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1975-312176), de 24 de Setembro, veio disciplinar a transferência para a Anop, E. P., da universalidade dos direitos e obrigações que constituíam o património da ANI, Lda., não tendo, porém, até hoje sido objecto de execução.
+
+Impõe-se também a publicação deste decreto-lei pelo facto de a Anop estar a funcionar com um estatuto administrativo e económico-financeiro pouco definido e sem demarcação rigorosa do papel que deverá desempenhar no sector em que se acha inserida.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - As dívidas passivas da empresa pública Agência Noticiosa Portuguesa - Anop, decorrentes da transferência de património operada pelo artigo 1.º do [Decreto-Lei n.º 523/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1975-312176), de 24 de Setembro, de que sejam credores o Estado, a Previdência, os organismos públicos, as empresas públicas, as empresas nacionalizadas e as empresas com maioria de capital público, são assumidas directamente pelo Estado.
+
+2 - Após a entrada em vigor do presente diploma, o Estado fará a entrega à Anop, E. P., de uma só vez, da verba de 16000 contos que integrará o capital estatutário inicial da empresa.
+
+Art. 2.º A Anop, E. P., passa a reger-se pelos estatutos anexos, que constituem parte integrante do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos.
+
+Promulgado em 24 de Novembro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ESTATUTOS DA EMPRESA PÚBLICA AGÊNCIA NOTICIOSA PORTUGUESA
+
+### CAPÍTULO I — Denominação, sede ou objecto e capacidade jurídica
+
+###### ARTIGO 1.º — (Denominação e natureza jurídica)
+
+A empresa pública Agência Noticiosa Portuguesa, criada pelo [Decreto-Lei n.º 330/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1975-337199), de 1 de Julho, e designada abreviadamente por Anop, é uma pessoa colectiva de direito público dotada de autonomia administrativa, financeira e patrimonial.
+
+###### ARTIGO 2.º — (Sede e delegações)
+
+A Anop tem a sua sede em Lisboa, podendo estabelecer delegações que considere necessárias à prossecução dos seus fins em qualquer ponto do território nacional ou no estrangeiro.
+
+###### ARTIGO 3.º — (Objecto)
+
+A Anop tem por objecto principal a prestação do serviço de informação noticiosa, através da recolha, tratamento e difusão do material informativo, nomeadamente de notícias e imagens para utilização na imprensa e em outros meios de comunicação social nacionais ou estrangeiros, podendo dedicar-se a outras actividades complementares ou com as mesmas relacionadas, desde que legalmente permitidas.
+
+###### ARTIGO 4.º — (Capacidade jurídica)
+
+1 - A capacidade jurídica da Anop abrange todos os direitos e obrigações, bem como todos os actos, incluindo os de gestão privada, necessários à prossecução do seu fim.
+
+2 - Em ordem à realização do seu objecto, a empresa pode exercer quaisquer actividades comerciais, quer directamente, quer através da sua participação noutras empresas.
+
+3 - No exercício da sua actividade, a Anop garantirá rigor e objectividade da informação, por forma a salvaguardar a sua independência perante o Governo e a possibilitar a expressão e o confronto das diversas correntes de opinião.
+
+### CAPÍTULO II — Constituição, competência e funcionamento dos órgãos
+
+###### ARTIGO 5.º — (Indicação e composição dos órgãos)
+
+1 - São órgãos da Anop o conselho de gerência e a comissão de fiscalização.
+
+2 - O conselho de gerência e a comissão de fiscalização são constituídos por três membros designados nos termos previstos no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+
+###### ARTIGO 6.º — (Competência do conselho de gerência)
+
+1 - O conselho de gerência tem os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património, incluindo a aquisição e a alienação de bens móveis e imóveis e a sua representação em juízo e fora dele.
+
+2 - Compete, nomeadamente, ao conselho de gerência:
+
+a) Submeter à apreciação do Ministro da Tutela os planos de actividades e financeiros e os orçamentos de exploração e investimento;
+
+b) Contratar a recepção e a prestação de serviços atinentes aos fins prosseguidos pela empresa;
+
+c) Constituir mandatários;
+
+d) Sustentar ou contestar acções judiciais, transigir, desistir ou confessar nelas, bem como comprometer-se em árbitros;
+
+e) Dirigir, em geral, toda a actividade dos serviços da empresa;
+
+f) Proceder à organização das redacções e traçar as respectivas linhas de orientação, ouvido o conselho de redacção;
+
+g) Velar pela disciplina da empresa, ordenando a instauração de processos disciplinares;
+
+h) Adquirir ou alienar, precedendo autorização do Ministro da Tutela, participações no capital de sociedades que excedam a centésima parte do seu capital estatutário.
+
+###### ARTIGO 7.º — (Competência da comissão de fiscalização)
+
+A comissão de fiscalização dispõe da competência fixada no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+
+###### ARTIGO 8.º — (Mandatos e substituições)
+
+1 - Os membros de qualquer dos órgãos desempenharão os seus mandatos por período de três anos, renováveis, continuando, porém, em exercício enquanto não tiverem sido designados novos titulares.
+
+2 - Os membros cujo mandato termine por morte, impossibilidade, renúncia ou destituição serão substituídos, cessando o mandato do substituto no momento em que cessaria o do substituído, salvo nos casos de impedimento temporário, previsto no despacho de nomeação do novo membro, em que o impedido possa regressar antes do fim do triénio.
+
+###### ARTIGO 9.º — (Posse)
+
+Os membros dos órgãos da Anop tomam posse perante o Secretário de Estado da Comunicação Social.
+
+###### ARTIGO 10.º — (Reuniões)
+
+1 - Tanto o conselho de gerência como a comissão de fiscalização reunirão obrigatoriamente uma vez por mês e extraordinariamente sempre que sejam convocados pelo respectivo presidente, ou a pedido de qualquer dos seus membros, ou do outro órgão.
+
+2 - A fixação da data das reuniões e a condução dos trabalhos competem aos respectivos presidentes, podendo às reuniões do conselho de gerência assistir, individual ou colectivamente, os membros da comissão de fiscalização, quando convocados pelo presidente do primeiro órgão.
+
+###### ARTIGO 11.º — (Deliberações)
+
+1 - Para que qualquer dos órgãos da Anop delibere validamente é necessário que esteja presente ou devidamente representada a maioria dos respectivos membros em exercício.
+
+2 - As deliberações são tomadas por maioria dos membros presentes ou representados, tendo o presidente voto de qualidade em caso de empate.
+
+3 - As reuniões dos órgãos da Anop, E. P., serão transcritas em acta, assinada por todos os presentes, na qual se identificarão obrigatoriamente os membros que votaram a favor e contra, ou se abstiveram, com as respectivas declarações de voto.
+
+4 - As recusas de visto da comissão de fiscalização e os votos discordantes dos seus membros serão sempre fundamentados.
+
+###### ARTIGO 12.º — (Forma de obrigar a empresa)
+
+1 - A Anop, E. P., obriga-se pela assinatura de dois dos membros do conselho de gerência, salvo nos casos de delegação de poderes, em que bastará a assinatura do delegado.
+
+2 - Os actos e documentos de mero expediente, bem como o endosso de cheques para depósito bancário, podem ser assinados apenas por um dos membros do conselho de gerência.
+
+###### ARTIGO 13.º — (Competência do conselho de redacção)
+
+1 - Haverá um conselho de redacção com a composição prevista em regulamento interno a aprovar pelo conselho de gerência.
+
+2 - Compete ao conselho de redacção:
+
+a) Cooperar com o conselho de gerência na definição das linhas de orientação das redacções;
+
+b) Pronunciar-se sobre todos os assuntos relativos à actividade e organização das redacções que se relacionem com o exercício da actividade profissional dos jornalistas;
+
+c) Pronunciar-se sobre as admissões e as conclusões dos processos disciplinares respeitantes a este sector.
+
+### CAPÍTULO III — Intervenção do Governo
+
+###### ARTIGO 14.º — (Finalidade e âmbito)
+
+1 - O Governo garante a prossecução dos objectivos da Anop e o enquadramento geral no qual se deve desenvolver a respectiva actividade de modo a assegurar a sua harmonização com as políticas globais e sectoriais e com o planeamento económico nacional, com respeito pela autonomia necessária a uma gestão eficiente e racional da empresa.
+
+2 - A tutela económica e financeira sobre a Anop é exercida pelo Secretário de Estado da Comunicação Social, que para o efeito é designado Ministro da Tutela.
+
+### CAPÍTULO IV — Gestão patrimonial e financeira
+
+###### ARTIGO 15.º — (Princípio fundamental e receitas)
+
+1 - Para a realização dos seus fins estatutários, a Anop administrará o seu património com plena autonomia sem sujeição às normas da contabilidade pública, mas de acordo com as regras de uma boa gestão empresarial que lhe é própria, compreendendo uma contabilidade industrial.
+
+2 - Pelas dívidas da empresa responde apenas o respectivo património.
+
+3 - Constituem receitas da Anop, E. P.:
+
+a) As receitas resultantes da sua actividade;
+
+b) O rendimento de bens próprios;
+
+c) O produto da alienação ou oneração dos seus bens ou de empréstimos;
+
+d) Quaisquer subsídios, comparticipações ou dotações do Estado ou de outras entidades públicas;
+
+e) As doações, heranças ou legados que lhe sejam destinados;
+
+f) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, lhe devam pertencer.
+
+4 - O preço dos serviços prestados pela Anop, E. P., a órgãos da comunicação social, ao Estado ou a quaisquer outras entidades, públicas ou privadas, será fixado livremente, por acordo das partes interessadas.
+
+5 - Para execução do disposto na alínea d) do número anterior, o Governo fará incluir anualmente na proposta de Orçamento Geral do Estado uma dotação destinada à Anop, E. P.
+
+###### ARTIGO 16.º — (Regras orçamentais)
+
+1 - A gestão económica e financeira da Anop será programada e disciplinada por planos de actividade e financeiros anuais e plurianuais e por orçamentos anuais de exploração e investimentos que consignem os recursos indispensáveis à cobertura das despesas neles previstas.
+
+2 - Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia da empresa a médio prazo.
+
+3 - Os orçamentos de exploração e investimento por grandes rubricas elaboradas pela Anop, acompanhados de um relatório do conselho de gerência e de um parecer da comissão de fiscalização, serão remetidos até 31 de Outubro de cada ano ao Ministro da Tutela, que os aprovará, depois de ouvido o Ministro do Plano, até 15 de Dezembro seguinte, considerando-se tacitamente aprovados uma vez decorrido aquele prazo.
+
+4 - A empresa deve enviar ao Ministro da Tutela e ao Ministro do Plano, até 31 de Agosto de cada ano, uma primeira versão dos elementos básicos dos seus planos de produção e investimento para o ano seguinte a fim de poderem ser considerados no processo de elaboração do plano económico nacional.
+
+###### ARTIGO 17.º — (Publicação do orçamento anual)
+
+O orçamento anual da Anop será publicado na parte complementar do Orçamento Geral do Estado, após o visto do Ministro das Finanças, nos casos em que sejam previstos subsídios do Estado.
+
+###### ARTIGO 18.º — (Transferências de verbas e aberturas de créditos)
+
+1 - As transferências de verbas orçamentais dependem de simples deliberação do conselho de gerência.
+
+2 - A abertura de créditos especiais e o reforço de dotações orçamentais, com compensação em excesso de receitas a cobrar, serão autorizados por deliberação do conselho de gerência, com parecer favorável da comissão de fiscalização.
+
+###### ARTIGO 19.º — (Resultados)
+
+1 - Quando a conta «Ganhos e perdas» encerre com lucros, o saldo, depois de completamente amortizados eventuais prejuízos transitados de exercícios anteriores, terá a seguinte distribuição:
+
+a) O remanescente para amortização da conta «Estado»;
+
+b) 10% para o fundo de reserva geral;
+
+c) 5% para o fundo social;
+
+d) 5% para o fundo de reserva de investimentos.
+
+2 - O destino a dar aos lucros pode ser alterado, dentro dos limites da lei, por despacho conjunto do Ministro da Tutela, do Ministro das Finanças e do Ministro do Plano e Coordenação Económica, sob proposta fundamentada do conselho de gerência.
+
+3 - No caso de a conta saldar com prejuízos que não possam ser suportados pela reserva geral, será esse prejuízo levado à conta do exercício seguinte.
+
+###### ARTIGO 20.º — (Prestação de contas)
+
+A Anop elaborará, com referência a 31 de Dezembro de cada ano, os documentos a que se refere o n.º 1 do artigo 28.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, cujos destino e publicação obedecem ao estabelecido nos n.os 2 e 3 do mesmo preceito legal.
+
+### CAPÍTULO V — Pessoal
+
+###### ARTIGO 21.º — (Estatuto do pessoal)
+
+1 - As relações entre a Anop e os trabalhadores ao seu serviço reger-se-ão pelo regime do contrato individual de trabalho, pela lei geral sobre contratação colectiva que envolva a empresa e pelas normas constantes do regulamento interno elaborado pelo conselho de gerência.
+
+2 - A participação dos trabalhadores no desenvolvimento e na actividade da empresa será feita de acordo com a respectiva legislação.
+
+###### ARTIGO 22.º — (Deveres especiais)
+
+1 - Os trabalhadores da Anop devem observar no exercício da sua actividade profissional as normas estatutárias e legais e as directivas do conselho de gerência, abstendo-se de todo o partidarismo susceptível de pôr em causa a independência e a objectividade inerentes ao fim prosseguido pela empresa.
+
+2 - São, nomeadamente, vedadas aos trabalhadores da Anop quaisquer formas de publicidade.
+
+3 - É vedado aos órgãos e trabalhadores da empresa censurar ou impedir a livre actividade dos seus jornalistas, sem prejuízo do respeito por estes devido às normas legais estatutárias e regulamentares e às directrizes do conselho de gerência.
+
+###### ARTIGO 23.º — (Infracção disciplinar grave)
+
+1 - A violação dos deveres previstos neste Estatuto e das normas deontológicas que pautem a actividade do jornalismo de agências consignadas na legislação vigente e no regulamento interno da Anop constitui infracção disciplinar grave.
+
+2 - Aos membros do conselho de gerência incumbe prevenir e sancionar a inobservância daqueles deveres e normas, respondendo disciplinarmente pelo incumprimento dos mesmos.
+
+###### ARTIGO 24.º — (Formação profissional)
+
+A Anop promoverá e assegurará, dentro das suas possibilidades, a formação e a actualização profissionais dos seus trabalhadores, nomeadamente através da frequência de cursos ministrados por escolas ou organizações nacionais e internacionais e por empresas estrangeiras da especialidade, de acordo com planos a estabelecer.
+
+###### ARTIGO 25.º — (Regime de previdência)
+
+O regime de previdência do pessoal da Anop é o regime geral da previdência para os trabalhadores das empresas privadas.
+
+### CAPÍTULO VI — Regime fiscal e legal
+
+###### ARTIGO 26.º — (Regime fiscal)
+
+1 - A Anop fica sujeita a tributação directa e indirecta.
+
+2 - Independentemente da tributação sobre ela incidente, será entregue ao Estado, nos termos da alínea a) do n.º 1 do artigo 19.º, o remanescente dos resultados apurados em cada exercício.
+
+3 - O pessoal da Anop fica sujeito à tributação que incide sobre as remunerações pagas aos trabalhadores das empresas privadas.
+
+### CAPÍTULO VII — Disposições finais
+
+###### ARTIGO 27.º — (Normas supletivas)
+
+Na parte não prevista neste Estatuto aplicam-se subsidiariamente à Anop o [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e as normas de direito privado.
+
+O Primeiro-Ministro, Mário Soares. - O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem Pasta, Joaquim Jorge de Pinho Campinos.

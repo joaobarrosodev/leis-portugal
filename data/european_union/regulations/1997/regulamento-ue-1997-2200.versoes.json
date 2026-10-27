@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2200:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2200-20111211",
+ "dre_path": null,
+ "source_lastmod": "2011-12-11",
+ "versions": [
+  {
+   "date": "1997-11-06",
+   "future": false,
+   "celex": "31997R2200",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d31c2749eb90b362",
+    "ba63b065aba2bb94",
+    "6e609596d44739e9",
+    "1610554e85d47fc2",
+    "94ece1ca1ee58576",
+    "e2b8bd7acd8a71f7",
+    "3482fde9322ce5f8",
+    "5251b1651038babc"
+   ]
+  },
+  {
+   "date": "1998-04-26",
+   "future": false,
+   "celex": "01997R2200-19980426",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1o",
+    "Adita Artigo 2o",
+    "Adita Artigo 3o",
+    "Adita Artigo 4o",
+    "Adita Artigo 5o",
+    "Adita Artigo 6o",
+    "Adita Artigo 7o",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º"
+   ],
+   "fragments": [
+    "bb3389e40edaffd4",
+    "adee34372ee4cb68",
+    "56154d7c7d734817",
+    "d881358a7bc158e7",
+    "1869f48801f91c8c",
+    "5695c3197e4345b1",
+    "55b785fbeb39c51d",
+    "1cc5b9379c6623dc"
+   ]
+  },
+  {
+   "date": "2011-12-11",
+   "future": false,
+   "celex": "01997R2200-20111211",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "49d7f0c81336e30a"
+   ]
+  }
+ ],
+ "fragments": {
+  "d31c2749eb90b362": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2200/97 do Conselho de 30 de Outubro de 1997 relativo ao saneamento da produção comunitária de maçãs, de peras, de pêssegos e de nectarinas** *Jornal Oficial nº L 303 de 06/11/1997 p. 0003 - 0004*\n\nREGULAMENTO (CE) Nº 2200/97 DO CONSELHO de 30 de Outubro de 1997 relativo ao saneamento da produção comunitária de maçãs, de peras, de pêssegos e de nectarinas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que o mercado comunitário das maçãs, das peras, dos pêssegos e das nectarinas continua marcado por uma certa inadaptação da oferta à procura; que esta situação justifica que sejam novamente postas em vigor, e tornadas extensivas às peras, acções de saneamento da produção comunitária já praticadas nas campanhas de 1990/1991 a 1994/1995, no que diz respeito às maçãs, e na campanha de 1995, no que diz respeito aos pêssegos e às nectarinas;\n\nConsiderando que é conveniente limitar as superfícies susceptíveis de beneficiar dessas acções e excluir destas os pomares menos produtivos; que deve ser feita uma repartição dessas superfícies entre os Estados-membros, com base na extensão dos pomares, na produção e nas retiradas de cada Estado-membro; que essa repartição deve poder ser alterada, a fim de optimizar a superfície arrancada; que é, além disso, necessário permitir que os Estados-membros determinem as regiões e as condições em que essas acções se aplicam, de modo a evitar que as mesmas perturbem o equilíbrio económico e ecológico de certas regiões;\n\nConsiderando que o montante do prémio único deve ser estabelecido tomando em consideração tanto o custo da operação de arranque como a perda de rendimentos por parte do produtor;\n\nConsiderando que o prémio de arranque se destina a concretizar os objectivos previstos pelo artigo 39º do Tratado; que é conveniente prever o financiamento dessa medida pelo Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA), secção «Garantia»,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ba63b065aba2bb94": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Os produtores de maçãs, de peras, de pêssegos e de nectarinas da Comunidade beneficiarão, a seu pedido e nas condições previstas no presente regulamento, de um prémio único ao arranque de macieiras, com excepção das macieiras destinadas à produção de sidra, de pereiras, com excepção das pereiras destinadas à produção de perada, de pessegueiros e de nectarineiras, a título da campanha de 1997/1998.\n\n2. O prémio de arranque será concedido pelo arranque de uma superfície máxima de 10 000 hectares por grupo de produtos, maçãs e peras por um lado, e pêssegos e nectarinas por outro, repartidos do seguinte modo:\n\n>POSIÇÃO NUMA TABELA>\n\nEsta repartição pode ser alterada pela Comissão nos termos do artigo 6º, a fim de optimizar a superfície que poderá beneficiar de um prémio de arranque, até ao limite da superfície máxima prevista no primeiro parágrafo.\n\n3. Os Estados-membros:\n\n- indicarão as regiões em que o prémio de arranque será concedido, com base em critérios económicos e ecológicos,\n\n- definirão as condições destinadas, nomeadamente, a garantir o equilíbrio económico e ecológico das regiões abrangidas,\n\n- poderão designar categorias prioritárias de produtores, com base em critérios objectivos estabelecidos de acordo com a Comissão.\n\nOs Estados-membros podem não designar qualquer região. Nesse caso, farão a respectiva comunicação à Comissão, no prazo de um mês a contar da data de entrada em vigor do presente regulamento."
+  },
+  "6e609596d44739e9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A concessão do prémio de arranque fica subordinada ao compromisso escrito do beneficiário de:\n\na) Arrancar ou mandar arrancar de uma só vez, antes de uma data fixada nos termos do artigo 6º, a totalidade ou parte do seu pomar de maçãs, de peras, de pêssegos ou de nectarinas, devendo a superfície arrancada ser de, pelo menos, 0,5 hectares quanto às macieiras e às pereiras e de, pelo menos, 0,4 hectares quanto aos pessegueiros e às nectarineiras;\n\nb) Não efectuar qualquer plantação de macieiras, de pereiras, de pessegueiros e de nectarineiras, de acordo com as disposições adoptadas nos termos do citado artigo 6º\n\n2. Para efeitos do presente regulamento, e em relação a cada um dos dois grupos a que se refere o nº 2 do artigo 1º, entende-se por «pomar» o conjunto de todas as parcelas da exploração plantadas com uma densidade igual ou superior a 300 árvores por hectare. Contudo, esta densidade máxima é reduzida a 150 árvores por hectare quanto às parcelas plantadas com macieiras da variedade Annurca."
+  },
+  "1610554e85d47fc2": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO montante do prémio de arranque será fixado tendo em conta, nomeadamente, os custos de arranque e a perda de rendimento dos produtores que tenham efectuado as operações de arranque."
+  },
+  "94ece1ca1ee58576": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros verificarão o cumprimento dos compromissos previstos no artigo 2º pelo beneficiário do prémio de arranque. Adoptarão as medidas complementares necessárias para assegurar a observância das disposições do presente regime. Comunicarão à Comissão as medidas que adoptarem."
+  },
+  "e2b8bd7acd8a71f7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nAs medidas previstas no presente regulamento são consideradas intervenções destinadas à regularização dos mercados agrícolas na acepção do artigo 3º do Regulamento (CEE) nº 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (3). Serão financiadas pelo FEOGA, secção «Garantia»."
+  },
+  "3482fde9322ce5f8": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO montante do prémio de arranque e as regras de execução do presente regulamento serão adoptados nos termos do artigo 46º do Regulamento (CE) nº 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (4)."
+  },
+  "5251b1651038babc": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 30 de Outubro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nF. BODEN\n\n(1) JO C 124 de 21. 4. 1997, p. 26.\n\n(2) Parecer emitido em 24 de Outubro de 1997 (ainda não publicado no Jornal Oficial).\n\n(3) JO L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1287/95 (JO L 125 de 8. 6. 1995, p. 1).\n\n(4) JO L 297 de 21. 11. 1996, p. 1."
+  },
+  "bb3389e40edaffd4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1997R2200 — PT — 26.04.1998 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2200:PT:NOT) [REGULAMENTO (CE) No 2200/97 DO CONSELHO de 30 de Outubro de 1997 relativo ao saneamento da produção comunitária de maçãs, de peras, de pêssegos e de nectarinas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2200:PT:NOT) (JO L 303, 6.11.1997, p.3)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0843:PT:NOT) | [Regulamento (CE) no 843/98 da Comissão de 22 de Abril de 1998](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0843:PT:NOT) | L 120 | 10 | 23.4.1998 |\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2200R(01):PT:NOT) [Rectificação, JO L 173, 18.6.1998, p. 54 (2200/97)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2200R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2200:PT:NOT)\n\nREGULAMENTO (CE) No 2200/97 DO CONSELHO\n\nde 30 de Outubro de 1997\n\nrelativo ao saneamento da produção comunitária de maçãs, de peras, de pêssegos e de nectarinas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#E0002)),\n\nConsiderando que o mercado comunitário das maçãs, das peras, dos pêssegos e das nectarinas continua marcado por uma certa inadaptação da oferta à procura; que esta situação justifica que sejam novamente postas em vigor, e tornadas extensivas às peras, acções de saneamento da produção comunitária já praticadas nas campanhas de 1990/1991 a 1994/1995, no que diz respeito às maçãs, e na campanha de 1995, no que diz respeito aos pêssegos e às nectarinas;\n\nConsiderando que é conveniente limitar as superfícies susceptíveis de beneficiar dessas acções e excluir destas os pomares menos produtivos; que deve ser feita uma repartição dessas superfícies entre os Estados-membros, com base na extensão dos pomares, na produção e nas retiradas de cada Estado-membro; que essa repartição deve poder ser alterada, a fim de optimizar a superfície arrancada; que é, além disso, necessário permitir que os Estados-membros determinem as regiões e as condições em que essas acções se aplicam, de modo a evitar que as mesmas perturbem o equilíbrio económico e ecológico de certas regiões;\n\nConsiderando que o montante do prémio único deve ser estabelecido tomando em consideração tanto o custo da operação de arranque como a perda de rendimentos por parte do produtor;\n\nConsiderando que o prémio de arranque se destina a concretizar os objectivos previstos pelo artigo 39o do Tratado; que é conveniente prever o financiamento dessa medida pelo Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA), secção «Garantia»,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "adee34372ee4cb68": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os produtores de maçãs, de peras, de pêssegos e de nectarinas da Comunidade beneficiarão, a seu pedido e nas condições previstas no presente regulamento, de um prémio único ao arranque de macieiras, com excepção das macieiras destinadas à produção de sidra, de pereiras, com excepção das pereiras destinadas à produção de perada, de pessegueiros e de nectarineiras, a título da campanha de 1997/1998.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R0843:PT:NOT)\n\n2.\n\nEsta repartição pode ser alterada pela Comissão nos termos do artigo 6o, a fim de optimizar a superfície que poderá beneficiar de um prémio de arranque, até ao limite da superfície máxima prevista no primeiro parágrafo.\n\n3. Os Estados-membros:\n\n— indicarão as regiões em que o prémio de arranque será concedido, com base em critérios económicos e ecológicos,\n\n— definirão as condições destinadas, nomeadamente, a garantir o equilíbrio económico e ecológico das regiões abrangidas,\n\n— poderão designar categorias prioritárias de produtores, com base em critérios objectivos estabelecidos de acordo com a Comissão.\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2200R(01):PT:NOT) Os Estados-membros comunicarão essas regiões, condições e, eventualmente, categorias à Comissão, a partir da respectiva aprovação ou designação. ◄\n\nOs Estados-membros podem não designar qualquer região. Nesse caso, farão a respectiva comunicação à Comissão, no prazo de um mês a contar da data de entrada em vigor do presente regulamento."
+  },
+  "56154d7c7d734817": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A concessão do prémio de arranque fica subordinada ao compromisso escrito do beneficiário de:\n\na) Arrancar ou mandar arrancar de uma só vez, antes de uma data fixada nos termos do artigo 6o, a totalidade ou parte do seu pomar de maçãs, de peras, de pêssegos ou de nectarinas, devendo a superfície arrancada ser de, pelo menos, 0,5 hectares quanto às macieiras e às pereiras e de, pelo menos, 0,4 hectares quanto aos pessegueiros e às nectarineiras;\n\nb) Não efectuar qualquer plantação de macieiras, de pereiras, de pessegueiros e de nectarineiras, de acordo com as disposições adoptadas nos termos do citado artigo 6o.\n\n2. Para efeitos do presente regulamento, e em relação a cada um dos dois grupos a que se refere o no 2 do artigo 1o, entende-se por «pomar» o conjunto de todas as parcelas da exploração plantadas com uma densidade igual ou superior a 300 árvores por hectare. Contudo, esta densidade máxima é reduzida a 150 árvores por hectare quanto às parcelas plantadas com macieiras da variedade Annurca."
+  },
+  "d881358a7bc158e7": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO montante do prémio de arranque será fixado tendo em conta, nomeadamente, os custos de arranque e a perda de rendimento dos produtores que tenham efectuado as operações de arranque."
+  },
+  "1869f48801f91c8c": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros verificarão o cumprimento dos compromissos previstos no artigo 2o pelo beneficiário do prémio de arranque. Adoptarão as medidas complementares necessárias para assegurar a observância das disposições do presente regime. Comunicarão à Comissão as medidas que adoptarem."
+  },
+  "5695c3197e4345b1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs medidas previstas no presente regulamento são consideradas intervenções destinadas à regularização dos mercados agrícolas na acepção do artigo 3o do Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum ([3](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#E0003)). Serão financiadas pelo FEOGA, secção «Garantia»."
+  },
+  "55b785fbeb39c51d": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO montante do prémio de arranque e as regras de execução do presente regulamento serão adoptados nos termos do artigo 46o do Regulamento (CE) no 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas ([4](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#E0004))."
+  },
+  "1cc5b9379c6623dc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#src.E0001)) JO C 124 de 21. 4. 1997, p. 26.\n\n([2](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#src.E0002)) Parecer emitido em 24 de Outubro de 1997 (ainda não publicado no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#src.E0003)) JO L 944 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) no 1287/95 (JO L 125 de 8. 6. 1995, p. 1).\n\n([4](http://publications.europa.eu/resource/cellar/cc686a79-1f5a-4233-856c-7c384917cd12.0018.02/DOC_1#src.E0004)) JO L 297 de 21. 11. 1996, p. 1."
+  },
+  "49d7f0c81336e30a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01997R2200 — PT — 11.12.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31997R2200) [REGULAMENTO (CE) Nº 2200/97 DO CONSELHO](http://publications.europa.eu/resource/celex/31997R2200) [de 30 de Outubro de 1997](http://publications.europa.eu/resource/celex/31997R2200) [relativo ao saneamento da produção comunitária de maçãs, de peras, de pêssegos e de nectarinas](http://publications.europa.eu/resource/celex/31997R2200) (JO L 303, 6.11.1997, p.3)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1229/2011 do Parlamento Europeu e do Conselho de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1229) — L 326 — 18 — 8.12.2011"
+  }
+ }
+}

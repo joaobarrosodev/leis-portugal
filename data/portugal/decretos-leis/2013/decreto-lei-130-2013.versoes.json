@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:500018:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-156104158",
+ "dre_path": "/dr/detalhe/decreto-lei/130-2013-500018",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156104899",
+    "156104900",
+    "156104901",
+    "156104902",
+    "156104903",
+    "156104904",
+    "156104905",
+    "156104906",
+    "156104907",
+    "156104908",
+    "156104909",
+    "156104910",
+    "156104911",
+    "156104912",
+    "156104913",
+    "156104914",
+    "156104915",
+    "156104916",
+    "156104917"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "156104899",
+    "156104900",
+    "156104901",
+    "156104902",
+    "156104903",
+    "156104904",
+    "156104905",
+    "156104906",
+    "156104907",
+    "156104908",
+    "156104909",
+    "156104910",
+    "156104923",
+    "156104924",
+    "156104913",
+    "156104925",
+    "156104915",
+    "156104916",
+    "156104917",
+    "156104918"
+   ]
+  }
+ ],
+ "fragments": {
+  "156104899": {
+   "fragment_id": "156104159",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 130/2013\n\nde 10 de setembro\n\nO Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2011&id=311R0305\" title=\"Link para Regulamento da Comunidade Europeia\">305/2011</a> do Parlamento Europeu e do Conselho, de 9 de março de 2011, que estabelece condições harmonizadas para a comercialização dos produtos de construção e que revoga a Diretiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0106\" title=\"Link para Directiva da Comunidade Europeia\">89/106/CEE</a> do Conselho, de 21 de dezembro de 1988, visa garantir que a colocação no mercado de produtos de construção obedece a regras harmonizadas para a expressão do desempenho dos produtos correspondente às suas características essenciais, de acordo com especificações técnicas harmonizadas elaboradas em função dos requisitos básicos das obras de construção, estabelecidas no referido regulamento e que substitui a legislação vigente nesta matéria.\n\nAlém disso, o mencionado regulamento define as condições necessárias para a aposição da marcação CE nos produtos de construção em conformidade com os princípios gerais definidos na legislação da União Europeia, nomeadamente o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0765\" title=\"Link para Regulamento da Comunidade Europeia\">765/2008</a> do Parlamento Europeu e do Conselho, de 9 de julho de 2008, cuja execução na ordem jurídica interna é assegurada pelo Decreto-Lei n.º 23/2011, de 11 de fevereiro, e a Decisão n.º <a href=\"eurlex.asp?ano=2008&id=308D0768\" title=\"Link para Decisão da Comunidade Europeia\">768/2008/CE</a> do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\nA marcação CE significa a conformidade do produto de construção com o desempenho declarado pelo fabricante, criando as condições para a livre circulação desses produtos em todo o Espaço Económico Europeu e na Turquia.\n\nAinda que o regulamento comunitário seja obrigatório e diretamente aplicável, torna-se necessário assegurar a sua efetiva execução na ordem jurídica interna, pelo que o presente decreto-lei adota as disposições necessárias para a concretização das exigências específicas cometidas aos Estados-Membros.\n\nEste decreto-lei define, nomeadamente, a forma de representação no Comité Permanente da Construção, os mecanismos de avaliação dos organismos de avaliação técnica e dos organismos notificados e a entidade competente para a sua designação e notificação, a entidade constituída como Ponto de Contacto para produtos do setor da construção, bem como as sanções aplicáveis ao incumprimento das disposições previstas no regulamento.\n\nNão obstante tratar-se de produtos cobertos por legislação de harmonização da União Europeia, a designação de Pontos de Contacto para produtos do setor da construção é necessária para a prestação de informações sobre as disposições aplicáveis no território de cada Estado-Membro, com vista ao cumprimento dos requisitos básicos das obras de construção aplicáveis à utilização prevista do produto de construção. A fim de evitar a proliferação de Pontos de Contacto, o Ponto de Contacto a designar para os produtos do setor da construção no âmbito da legislação harmonizada presta também as informações necessárias à aplicação do artigo 10.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0764\" title=\"Link para Regulamento da Comunidade Europeia\">764/2008</a> do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece procedimentos em matéria de aplicação de certas regras técnicas nacionais a produtos legalmente comercializados noutro Estado-Membro.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156104900": {
+   "fragment_id": "156104160",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei executa na ordem jurídica interna o disposto no Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2011&id=311R0305\" title=\"Link para Regulamento da Comunidade Europeia\">305/2011</a> do Parlamento Europeu e do Conselho, de 9 de março de 2011, que estabelece condições harmonizadas para a comercialização dos produtos de construção e que revoga a Diretiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0106\" title=\"Link para Directiva da Comunidade Europeia\">89/106/CEE</a> do Conselho, de 21 de dezembro de 1988, adiante designado por Regulamento."
+  },
+  "156104901": {
+   "fragment_id": "156104161",
+   "type": 11,
+   "heading": "Artigo 2.º — Representação no Comité Permanente da Construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Representação no Comité Permanente da Construção\n\n1 - A representação nacional no Comité Permanente da Construção (CPC) é assegurada pela Direção-Geral das Atividades Económicas (DGAE).\n\n2 - A DGAE pode ser coadjuvada na função de representação por outra entidade pública, a designar por despacho do membro do Governo responsável pela área da economia."
+  },
+  "156104902": {
+   "fragment_id": "156104162",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências da Direção-Geral das Atividades Económicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências da Direção-Geral das Atividades Económicas\n\nCompete à DGAE, no quadro das suas competências:\n\na) Acompanhar a execução do Regulamento e do presente decreto-lei;\n\nb) Publicitar as referências das normas harmonizadas, publicadas no Jornal Oficial da União Europeia, aplicáveis no âmbito do Regulamento;\n\nc) Assegurar as funções de autoridade competente para prestação de informações ao Ponto de Contacto para produtos do setor da construção;\n\nd) Notificar à Comissão Europeia e aos restantes Estados-Membros o Ponto de Contacto para produtos do setor da construção;\n\ne) Dinamizar a articulação entre os organismos com intervenção na aplicação do Regulamento."
+  },
+  "156104903": {
+   "fragment_id": "156104163",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do Laboratório Nacional de Engenharia Civil, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do Laboratório Nacional de Engenharia Civil, I. P.\n\nCompete ao Laboratório Nacional de Engenharia Civil, I. P. (LNEC, I. P.), no quadro das suas competências, cooperar com a DGAE na execução das atribuições que lhe são conferidas pela alínea c) do artigo anterior, nomeadamente no que se refere às informações relativas ao cumprimento dos requisitos básicos das obras aplicáveis à utilização prevista dos produtos de construção."
+  },
+  "156104904": {
+   "fragment_id": "156104164",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do Instituto Português da Qualidade, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do Instituto Português da Qualidade, I. P.\n\n1 - Compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), no que respeita aos organismos de avaliação técnica (OAT):\n\na) Designar os OAT, sem prejuízo do disposto no n.º 4;\n\nb) Garantir a ligação com a Comissão Europeia e com os outros Estados-Membros no que respeita aos OAT, designadamente:\n\ni) Comunicar à Comissão Europeia e aos outros Estados-Membros a denominação e o endereço dos OAT designados, bem como a gama de produtos a que se refere a designação;\n\nii) Informar a Comissão Europeia sobre os procedimentos nacionais adotados para designação e controlo dos OAT;\n\nc) Publicitar as referências dos Documentos de Avaliação Europeus publicadas no Jornal Oficial da União Europeia;\n\nd) Verificar a efetiva contribuição dos OAT para a organização destes, criada ao abrigo do artigo 31.º do Regulamento, no âmbito das suas funções de controlo das atividades destes organismos, nos termos do n.º 3 do artigo 29.º do Regulamento;\n\ne) Informar a Comissão e os restantes Estados-Membros sempre que um OAT deixe de cumprir os requisitos que suportaram a sua designação.\n\n2 - Compete ao IPQ, I. P., no quadro das suas competências enquanto autoridade notificadora:\n\na) Notificar à Comissão Europeia e aos restantes Estados-Membros os organismos autorizados a exercer as funções de avaliação e verificação da regularidade do desempenho, designados como organismos notificados (ON), nos termos do artigo 7.º, informando a Comissão de qualquer alteração nos domínios de notificação para que se encontram autorizados;\n\nb) Verificar a participação nacional nos trabalhos do grupo de organismos notificados, criados ao abrigo do artigo 55.º do Regulamento, no âmbito da sua função de controlo das atividades destes organismos.\n\n3 - Compete ainda ao IPQ, I. P.:\n\na) Cooperar com a DGAE na execução das atribuições que lhe são conferidas pela alínea c) do artigo 3.º;\n\nb) Assegurar a função de Ponto de Contacto para produtos do setor da construção, nos termos do artigo 10.º do Regulamento e do n.º 1 da Resolução do Conselho de Ministros n.º 44/2009, de 29 de maio.\n\n4 - Sempre que a designação de um OAT deva recair sobre uma entidade pública, esta é efetuada por despacho do membro do Governo responsável pela área da economia e do membro do Governo da respetiva tutela."
+  },
+  "156104905": {
+   "fragment_id": "156104165",
+   "type": 11,
+   "heading": "Artigo 6.º — Organismos de avaliação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Organismos de avaliação técnica\n\n1 - Para efeitos do presente decreto-lei e para aplicação do Regulamento só podem ser designados OAT os organismos que:\n\na) Declarem cumprir os requisitos constantes do quadro 2 do anexo iv ao Regulamento;\n\nb) Apresentem ao IPQ, I. P., o pedido de designação, com indicação da gama ou gamas de produtos constantes do quadro 1 do anexo iv ao Regulamento, para os quais pretendem ser designados, acompanhado de manual de procedimentos do sistema implementado, demonstrativo do cumprimento dos requisitos do quadro 2 do anexo iv ao Regulamento;\n\nc) Demonstrem o cumprimento das diretrizes aprovadas pela Comissão Europeia para a execução de avaliação dos OAT, de acordo com o n.º 4 do artigo 29.º do Regulamento;\n\nd) Declarem assumir o compromisso de contribuir para a organização dos OAT, como previsto no n.º 5 do artigo 31.º do Regulamento.\n\n2 - No âmbito da sua atividade, os organismos designados nos termos do número anterior ficam obrigados a enviar ao IPQ, I. P.:\n\na) Relatórios anuais específicos descritivos da atividade enquanto OAT, acompanhados de declaração de que se mantém o cumprimento dos requisitos constantes do quadro 2 do anexo iv ao Regulamento;\n\nb) Relatórios anuais descritivos da sua participação na organização dos OAT;\n\nc) Relatório com informação detalhada, sempre que se verifique alguma alteração das condições de atuação enquanto OAT."
+  },
+  "156104906": {
+   "fragment_id": "156104166",
+   "type": 11,
+   "heading": "Artigo 7.º — Organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organismos notificados\n\n1 - Para efeitos do presente decreto-lei e para aplicação do Regulamento são autorizados para agir enquanto organismos de avaliação e verificação da regularidade do desempenho os organismos que apresentem ao IPQ, I. P., pedido de notificação, acompanhado de:\n\na) Certificado de acreditação e respetivo anexo técnico válido emitido pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), nos termos do n.º 5 do artigo 2.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, compreendendo esse certificado e respetivo anexo técnico o âmbito das atividades para as quais os organismos pretendem ser notificados, atestando que cumprem os requisitos constantes do artigo 43.º do Regulamento;\n\nb) Descrição das atividades a realizar e dos procedimentos de avaliação ou verificação para os quais se consideram competentes e pretendam ser notificados;\n\nc) Declaração de compromisso de que assumem participar, diretamente ou através de representante designado, nos trabalhos do grupo de organismos notificados, nos termos do n.º 11 do artigo 43.º do Regulamento.\n\n2 - No âmbito da sua atividade, os organismos notificados nos termos do número anterior devem enviar ao IPQ, I. P.:\n\na) Cópia das eventuais alterações do certificado de acreditação e respetivo anexo técnico, no prazo de 10 dias a contar da data da alteração;\n\nb) Todas as informações a que se encontram obrigados no exercício da sua atividade, nomeadamente as previstas no n.º 1 do artigo 53.º do Regulamento, no prazo de 10 dias a contar da data do facto;\n\nc) Relatórios anuais específicos descritivos da sua atividade enquanto ON, acompanhados de declaração de que se mantém o cumprimento dos requisitos previstos no artigo 43.º do Regulamento;\n\nd) Relatórios anuais descritivos da sua participação no grupo de organismos notificados."
+  },
+  "156104907": {
+   "fragment_id": "156104167",
+   "type": 11,
+   "heading": "Artigo 8.º — Declaração de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Declaração de desempenho\n\nPara efeitos do n.º 4 do artigo 7.º do Regulamento, a declaração de desempenho deve ser entregue em língua portuguesa."
+  },
+  "156104908": {
+   "fragment_id": "156104168",
+   "type": 11,
+   "heading": "Artigo 9.º — Instruções e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instruções e informações\n\n1 - Para efeitos do n.º 6 do artigo 11.º, do n.º 4 do artigo 13.º e do n.º 2 do artigo 14.º do Regulamento, as instruções e informações de segurança que acompanhem um produto de construção são redigidas em língua portuguesa.\n\n2 - Para efeitos do n.º 8 do artigo 11.º, da alínea b) do n.º 2 do artigo 12.º, do n.º 9 do artigo 13.º e do n.º 5 do artigo 14.º do Regulamento, a documentação solicitada pelas autoridades competentes para a fiscalização do mercado, no exercício das suas funções de controlo deve ser disponibilizada em língua portuguesa ou inglesa, salvo indicação em contrário."
+  },
+  "156104909": {
+   "fragment_id": "156104169",
+   "type": 11,
+   "heading": "Artigo 10.º — Controlo na fronteira externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Controlo na fronteira externa\n\nCompete à Autoridade Tributária e Aduaneira, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo na fronteira externa dos produtos de construção abrangidos pelo Regulamento provenientes de países terceiros."
+  },
+  "156104910": {
+   "fragment_id": "156104170",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização do mercado\n\n1 - A fiscalização do disposto no Regulamento e no presente decreto-lei compete, no âmbito das suas atribuições, à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - A ASAE é a autoridade competente para a receção das informações referentes aos produtos que constituam um risco, nos termos do n.º 7 do artigo 11.º, do n.º 7 do artigo 13.º, do n.º 4 do artigo 14.º e do capítulo viii do Regulamento."
+  },
+  "156104911": {
+   "fragment_id": "156104171",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contraordenações e coimas\n\n1 - As infrações às regras de aposição da marcação CE nos produtos de construção previstas nos artigos 8.º e 9.º do Regulamento constituem contraordenação punível de acordo com o estabelecido no artigo 6.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, nos termos seguintes:\n\na) São puníveis com coima no valor de 1000,00 EUR a 3740,00 EUR, no caso de pessoas singulares, e de 2500,00 EUR a 44 890,00 EUR, no caso de pessoas coletivas, as seguintes infrações:\n\ni) Recusa pelos operadores económicos de apresentação de documentação e informação ou de acesso às suas instalações às autoridades de fiscalização;\n\nii) Aposição da marcação CE em produtos não conformes com os requisitos aplicáveis da legislação comunitária de harmonização aplicável que prevê a sua aposição;\n\niii) Falta de aposição da marcação CE em produtos para os quais esta marcação esteja prevista em disposição comunitária de harmonização específica;\n\niv) Aposição num produto de marcações, sinais e inscrições suscetíveis de induzir terceiros em erro quanto ao significado ou ao grafismo, ou a ambos, da marcação CE;\n\nv) Aposição de qualquer outra marcação que prejudique a visibilidade e a legibilidade da marcação CE.\n\nb) É punível com coima no valor de 1500,00 EUR a 3740,00 EUR, no caso de pessoas singulares, e de 5000,00 EUR a 44 890,00 EUR, no caso de pessoas coletivas, a violação do disposto no artigo 30.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0765\" title=\"Link para Regulamento da Comunidade Europeia\">765/2008</a> do Parlamento Europeu e do Conselho, de 9 de julho de 2008, quando se traduza na aposição da marcação CE em produtos para os quais esta marcação não esteja prevista em disposição comunitária de harmonização específica.\n\n2 - Constituem ainda contraordenação punível com coima no valor de 500,00 EUR a 3740,00 EUR, no caso de pessoas singulares, e de 2000,00 EUR a 44 890,00 EUR, no caso de pessoas coletivas, as seguintes infrações:\n\na) A falta de elaboração pelo fabricante de uma declaração de desempenho do produto aquando da sua colocação no mercado, nos termos do artigo 4.º do Regulamento;\n\nb) A não conformidade do conteúdo da declaração de desempenho com o disposto no artigo 6.º do Regulamento;\n\nc) O fornecimento pelo fabricante de declaração de desempenho em violação do disposto no artigo 7.º do Regulamento e do artigo 8.º do presente decreto-lei;\n\nd) A inexistência, incorreção ou incompletude da documentação técnica de suporte à declaração de desempenho de acordo com o disposto no parágrafo 2.º do n.º 1 do artigo 11.º do Regulamento;\n\ne) A não conservação pelo fabricante, ou seu mandatário, da documentação técnica e da declaração de desempenho durante o período estabelecido no parágrafo 1.º do n.º 2 do artigo 11.º do Regulamento, bem como a não conservação de cópia da declaração de desempenho pelo importador durante o mesmo período, nos termos do n.º 8 do artigo 13.º do Regulamento;\n\nf) A não aposição no produto ou, caso não seja possível, na embalagem ou em documento que o acompanhe, pelo fabricante, dos elementos de informação que permitam a identificação do produto, nos termos do n.º 4 do artigo 11.º do Regulamento;\n\ng) A não aposição no produto ou, caso não seja possível, na embalagem ou em documento que o acompanhe, da identificação do fabricante e do importador, de acordo com o disposto respetivamente no n.º 5 do artigo 11.º e no n.º 3 do artigo 13.º do Regulamento;\n\nh) A violação pelo fabricante da obrigação de redação em língua portuguesa das instruções e informações de segurança do produto a que se refere o n.º 6 do artigo 11.º do Regulamento, nos termos previstos no n.º 1 do artigo 9.º do presente decreto-lei;\n\ni) A colocação ou disponibilização no mercado de produtos de construção pelo importador sem que este tenha assegurado que os mesmos dispõem de declaração de desempenho e da respetiva documentação técnica de suporte, que ostentam a marcação CE, quando aplicável, que incluem os elementos de identificação referidos nos n.os 4 e 5 do artigo 11.º do Regulamento e que se encontram acompanhados de informações e instruções de segurança redigidas em língua portuguesa, nos termos dos n.os 1, 2 e 4 do artigo 13.º do Regulamento;\n\nj) A disponibilização no mercado pelo distribuidor de produtos da construção, sem que este tenha assegurado que os produtos ostentam a marcação CE, quando aplicável, que são acompanhados da declaração de desempenho e da respetiva documentação de suporte, que se encontram acompanhados de informações e instruções de segurança redigidas em língua portuguesa e que incluem os elementos de identificação referidos nos n.os 4 e 5 do artigo 11.º e no n.º 3 do artigo 13.º do Regulamento, em cumprimento do n.º 2 do artigo 14.º do mesmo Regulamento;\n\nk) O não fornecimento pelo fabricante ou seu mandatário, importador ou distribuidor da informação e documentação solicitadas por uma autoridade competente, em pedido devidamente fundamentado, respetivamente ao abrigo do n.º 8 do artigo 11.º, da alínea b) do n.º 2 do artigo 12.º, do n.º 9 do artigo 13.º e do n.º 5 do artigo 14.º do Regulamento, bem como a recusa da sua disponibilização nos termos previstos no n.º 2 do artigo 9.º do presente decreto-lei;\n\nl) A não disponibilização à autoridade de fiscalização do mercado pelo fabricante ou seu mandatário, importador ou distribuidor da identificação do operador económico a quem forneceu, ou que lhe forneceu, um determinado produto, durante o período referido no n.º 2 do artigo 11.º do Regulamento, nos termos previstos no artigo 16.º do mesmo Regulamento.\n\n3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "156104912": {
+   "fragment_id": "156104172",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nSempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade decisora, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "156104913": {
+   "fragment_id": "156104173",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução de processos e aplicação de sanções\n\nSem prejuízo das competências da Autoridade Tributária e Aduaneira, compete à ASAE a instrução dos processos de contraordenação, bem como a aplicação das coimas e das sanções acessórias previstas no presente decreto-lei."
+  },
+  "156104914": {
+   "fragment_id": "156104174",
+   "type": 11,
+   "heading": "Artigo 15.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Distribuição do produto das coimas\n\nO produto das coimas resultantes da aplicação do disposto no presente decreto-lei é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 10 % para a entidade que procedeu à instrução do processo;\n\nd) 10 % para a entidade decisora;\n\ne) 8 % para a DGAE;\n\nf) 2 % para o IPQ, I. P."
+  },
+  "156104915": {
+   "fragment_id": "156105075",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regiões Autónomas\n\n1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto resultante da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria."
+  },
+  "156104916": {
+   "fragment_id": "156105076",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 113/93, de 10 de abril, alterado pelos Decretos-Leis n.os 139/95, de 14 de junho, 374/98, de 24 de novembro, e 4/2007, de 8 de janeiro."
+  },
+  "156104917": {
+   "fragment_id": "156105077",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156104923": {
+   "fragment_id": "156104171",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A violação das regras de aposição da marcação CE nos produtos de construção previstas nos artigos 8.º e 9.º do Regulamento, designadamente quando se traduza em:\n\ni) Recusa pelos operadores económicos de apresentação de documentação e informação ou de acesso às suas instalações às autoridades de fiscalização;\n\nii) Aposição da marcação CE em produtos não conformes com os requisitos aplicáveis da legislação comunitária de harmonização aplicável que prevê a sua aposição;\n\niii) Falta de aposição da marcação CE em produtos para os quais esta marcação esteja prevista em disposição comunitária de harmonização específica;\n\niv) Aposição num produto de marcações, sinais e inscrições suscetíveis de induzir terceiros em erro quanto ao significado ou ao grafismo, ou a ambos, da marcação CE;\n\nv) Aposição de qualquer outra marcação que prejudique a visibilidade e a legibilidade da marcação CE.\n\nvi) Aposição da marcação CE em produtos para os quais esta marcação não esteja prevista em disposição comunitária de harmonização específica;\n\nb) A falta de elaboração pelo fabricante de uma declaração de desempenho do produto aquando da sua colocação no mercado, nos termos do artigo 4.º do Regulamento;\n\nc) A não conformidade do conteúdo da declaração de desempenho com o disposto no artigo 6.º do Regulamento;\n\nd) O fornecimento pelo fabricante de declaração de desempenho em violação do disposto no artigo 7.º do Regulamento e do artigo 8.º do presente decreto-lei;\n\ne) A inexistência, incorreção ou incompletude da documentação técnica de suporte à declaração de desempenho de acordo com o disposto no parágrafo 2.º do n.º 1 do artigo 11.º do Regulamento;\n\nf) A não conservação pelo fabricante, ou seu mandatário, da documentação técnica e da declaração de desempenho durante o período estabelecido no parágrafo 1.º do n.º 2 do artigo 11.º do Regulamento, bem como a não conservação de cópia da declaração de desempenho pelo importador durante o mesmo período, nos termos do n.º 8 do artigo 13.º do Regulamento;\n\ng) A não aposição no produto ou, caso não seja possível, na embalagem ou em documento que o acompanhe, pelo fabricante, dos elementos de informação que permitam a identificação do produto, nos termos do n.º 4 do artigo 11.º do Regulamento;\n\nh) A não aposição no produto ou, caso não seja possível, na embalagem ou em documento que o acompanhe, da identificação do fabricante e do importador, de acordo com o disposto respetivamente no n.º 5 do artigo 11.º e no n.º 3 do artigo 13.º do Regulamento;\n\ni) A violação pelo fabricante da obrigação de redação em língua portuguesa das instruções e informações de segurança do produto a que se refere o n.º 6 do artigo 11.º do Regulamento, nos termos previstos no n.º 1 do artigo 9.º do presente decreto-lei;\n\nj) A colocação ou disponibilização no mercado de produtos de construção pelo importador sem que este tenha assegurado que os mesmos dispõem de declaração de desempenho e da respetiva documentação técnica de suporte, que ostentam a marcação CE, quando aplicável, que incluem os elementos de identificação referidos nos n.os 4 e 5 do artigo 11.º do Regulamento e que se encontram acompanhados de informações e instruções de segurança redigidas em língua portuguesa, nos termos dos n.os 1, 2 e 4 do artigo 13.º do Regulamento;\n\nk) A disponibilização no mercado pelo distribuidor de produtos da construção, sem que este tenha assegurado que os produtos ostentam a marcação CE, quando aplicável, que são acompanhados da declaração de desempenho e da respetiva documentação de suporte, que se encontram acompanhados de informações e instruções de segurança redigidas em língua portuguesa e que incluem os elementos de identificação referidos nos n.os 4 e 5 do artigo 11.º e no n.º 3 do artigo 13.º do Regulamento, em cumprimento do n.º 2 do artigo 14.º do mesmo Regulamento;\n\nl) O não fornecimento pelo fabricante ou seu mandatário, importador ou distribuidor da informação e documentação solicitadas por uma autoridade competente, em pedido devidamente fundamentado, respetivamente ao abrigo do n.º 8 do artigo 11.º, da alínea c) do n.º 1 do artigo 12.º, do n.º 9 do artigo 13.º e do n.º 5 do artigo 14.º do Regulamento, bem como a recusa da sua disponibilização nos termos previstos no n.º 2 do artigo 9.º do presente decreto-lei;\n\nm) A não disponibilização à autoridade de fiscalização do mercado pelo fabricante ou seu mandatário, importador ou distribuidor da identificação do operador económico a quem forneceu, ou que lhe forneceu, um determinado produto, durante o período referido no n.º 2 do artigo 11.º do Regulamento, nos termos previstos no artigo 16.º do mesmo Regulamento.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104924": {
+   "fragment_id": "156104172",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nSempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade decisora, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.\n\n> Alterado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104925": {
+   "fragment_id": "156104174",
+   "type": 11,
+   "heading": "Artigo 15.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104918": {
+   "fragment_id": "156105078",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de agosto de 2013. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.\n\nPromulgado em 2 de setembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 4 de setembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

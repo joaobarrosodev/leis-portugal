@@ -1,0 +1,113 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:119366210:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-119373208",
+ "dre_path": "/dr/detalhe/portaria/50-2019-119366210",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-02-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "159210581",
+    "119379488",
+    "119379489",
+    "119379490",
+    "119379491"
+   ]
+  },
+  {
+   "date": "2020-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128726981:por",
+     "title": "Portaria n.º 30/2020",
+     "published": "2020-01-31",
+     "dre_path": "/dr/detalhe/portaria/30-2020-128726981"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "119379487",
+    "119379488",
+    "128765699",
+    "119379490",
+    "119379491",
+    "119379492"
+   ]
+  }
+ ],
+ "fragments": {
+  "159210581": {
+   "fragment_id": "119373209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 50/2019\n\nde 8 de fevereiro\n\nO Decreto-Lei n.º 187/2007, de 10 de outubro, na sua redação atual, estabelece no n.º 3, do artigo 20.º, que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro anos anteriores ao início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada através de portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9, do artigo 20.º, do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano 2000 e o ano anterior ao de início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2018, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2019, bem como a idade normal de acesso à pensão de velhice a vigorar em 2020.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2018, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2019 é de 0,8533.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2017 e 2018 na aplicação da fórmula prevista no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2020 é 66 anos e 5 meses.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Segurança Social, no âmbito da competência delegada pelo Despacho n.º 1300/2016, de 13 de janeiro de 2016, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016, o seguinte:"
+  },
+  "119379488": {
+   "fragment_id": "119373210",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2020\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2020, nos termos do disposto no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, na redação dada pela Lei n.º 64-A/2008, de 10 de maio, e pelos Decretos-Leis n.os 167-E/2013, de 31 de dezembro, 8/2015, de 14 de janeiro, 10/2016, de 8 de março, 126-B/2017, de 6 de outubro, 33/2018, de 15 de maio, e 73/2018, de 17 de setembro, é 66 anos e 5 meses."
+  },
+  "119379489": {
+   "fragment_id": "119373211",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar, nos termos do Decreto-Lei n.º 187/2007, de 10 de maio, ao montante estatutário das pensões de velhice do regime geral de segurança social é de 0,8533."
+  },
+  "119379490": {
+   "fragment_id": "119373212",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 99/2017, de 7 de março, e o artigo 2.º da Portaria n.º 25/2018, de 18 de janeiro."
+  },
+  "119379491": {
+   "fragment_id": "119373213",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2019."
+  },
+  "119379487": {
+   "fragment_id": "119373209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 50/2019\n\nde 8 de fevereiro\n\nO Decreto-Lei n.º 187/2007, de 10 de outubro, na sua redação atual, estabelece no n.º 3, do artigo 20.º, que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro anos anteriores ao início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada através de portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9, do artigo 20.º, do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano 2000 e o ano anterior ao de início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2018, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2019, bem como a idade normal de acesso à pensão de velhice a vigorar em 2020.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2018, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2019 é de 0,8533.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2017 e 2018 na aplicação da fórmula prevista no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2020 é 66 anos e 5 meses.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Segurança Social, no âmbito da competência delegada pelo Despacho n.º 1300/2016, de 13 de janeiro de 2016, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016, o seguinte:"
+  },
+  "128765699": {
+   "fragment_id": "119373211",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nRevogado\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+  },
+  "119379492": {
+   "fragment_id": "119373214",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 5 de fevereiro de 2019.\n\n112049733"
+  }
+ }
+}

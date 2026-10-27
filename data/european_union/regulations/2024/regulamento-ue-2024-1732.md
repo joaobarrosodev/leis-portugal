@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024R1732:por
+title: Regulamento (UE) 2024/1732 do Conselho, de 17 de junho de 2024
+short_title: null
+summary: Regulamento (UE) 2024/1732 do Conselho, de 17 de junho de 2024, que altera o Regulamento (UE) 2021/1173 no respeitante
+  a uma iniciativa EuroHPC para empresas em fase de arranque, a fim de reforçar a liderança europeia no domínio da inteligência
+  artificial de confiança
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2024/1732
+official_date: null
+publication_date: '2024-06-19'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/1732, 19.6.2024
+  number: '1732'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2024-07-09'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024R1732
+  eli: http://data.europa.eu/eli/reg/2024/1732/oj
+  oj: oj:L_202401732
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024R1732:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024R1732
+  metadata_url: http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T14:55:58Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-07-26T12:39:18.097+02:00'
+integrity:
+  source_sha256: c202bd67df2d6bcb3b31537573ad277726e36766ac7c56de2e4cf9bae53ba0f0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T14:55:58Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- computação de alto desempenho
+- cooperação científica
+- empresa comum europeia
+- empresa europeia
+- iniciativa da UE
+- inovação
+- inteligência artificial
+- investigação e desenvolvimento
+- nova empresa
+relationships:
+- type: amends
+  target: celex:32021R1173
+  label: null
+  source: http://publications.europa.eu/resource/cellar/25fe1b03-e85b-11eb-93a8-01aa75ed71a1
+  date: '2021-07-19'
+- type: based_on
+  target: celex:12016E187
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5643b40-a1f5-4b41-b1a7-0eed6277d7e3
+  date: '2016-06-09'
+- type: based_on
+  target: celex:12016E188
+  label: null
+  source: http://publications.europa.eu/resource/cellar/888246dc-d888-42b7-ac30-49e583aa3f18
+  date: '2016-06-09'
+- type: cites
+  target: celex:52024AE0926
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0e876776-1eea-11ef-a251-01aa75ed71a1
+- type: corrected_by
+  target: celex:32024R1732R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f1dc064d-885d-11f0-9af8-01aa75ed71a1
+  date: '2025-09-03'
+- type: corrected_by
+  target: celex:32024R1732R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9ec49b3a-fb22-11f0-8da5-01aa75ed71a1
+  date: '2026-01-27'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T14:55:58Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (UE) 2024/1732 DO CONSELHO
+
+de 17 de junho de 2024
+
+que altera o Regulamento (UE) 2021/1173 no respeitante a uma iniciativa EuroHPC para empresas em fase de arranque, a fim de reforçar a liderança europeia no domínio da inteligência artificial de confiança
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 187.º e o artigo 188.º, primeiro parágrafo,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Tendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1#ntr1-L_202401732PT.000101-E0001),
+
+Tendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1#ntr2-L_202401732PT.000101-E0002),
+
+Deliberando de acordo com um processo legislativo especial,
+
+Considerando o seguinte:
+
+(1) O regulamento do Parlamento Europeu e do Conselho sobre regras harmonizadas em matéria de inteligência artificial («Regulamento da Inteligência Artificial») tem por objetivo melhorar o funcionamento do mercado interno mediante o estabelecimento de um regime jurídico uniforme, em particular para o desenvolvimento, a colocação no mercado e a utilização da inteligência artificial em conformidade com os valores da União.
+
+(2) Desde 2021, ano em que foi adotado o Regulamento (UE) 2021/1173 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1#ntr3-L_202401732PT.000101-E0003), o domínio da inteligência artificial registou enormes progressos técnicos e tornou-se altamente estratégico e disputado a nível mundial. A União está na linha da frente dos esforços para apoiar a investigação e a inovação responsáveis em matéria de inteligência artificial ética e de confiança, criando simultaneamente salvaguardas e desenvolvendo uma governação eficaz.
+
+(3) Em 13 de setembro de 2023, no âmbito de uma abordagem alargada para apoiar a investigação e a inovação responsáveis em matéria de inteligência artificial, a Comissão anunciou uma nova iniciativa estratégica que visa disponibilizar a capacidade de computação de alto desempenho da União às empresas em fase de arranque europeias inovadoras no domínio da inteligência artificial de confiança para que possam treinar os seus modelos. Essa iniciativa complementa os trabalhos sobre a criação de salvaguardas para a inteligência artificial através do Regulamento da Inteligência Artificial, estabelece estruturas de governação e apoia a inovação através do Plano Coordenado para a Inteligência Artificial.
+
+(4) Uma vez que a capacidade de supercomputação mais potente da União, de craveira mundial, está localizada nas instalações da Empresa Comum para a Computação Europeia de Alto Desempenho (a seguir designada por «Empresa Comum»), importa conceder acesso a essas instalações para concretizar a iniciativa da União. Por conseguinte, é necessário adicionar um sétimo objetivo à Empresa Comum, para além dos seis já existentes, relativo à contribuição dos seus supercomputadores para a nova iniciativa da União em matéria de inteligência artificial.
+
+(5) O novo objetivo permitirá à Empresa Comum realizar atividades nos domínios da aquisição e operação de supercomputadores ou partições de supercomputadores otimizados para a inteligência artificial, a fim de permitir uma aprendizagem automática e um treino de modelos de inteligência artificial de finalidade geral. A Empresa Comum deverá ser autorizada a criar um novo modo de acesso aos seus recursos de computação para o ecossistema de empresas em fase de arranque no domínio da inteligência artificial e o ecossistema de investigação e inovação, bem como a desenvolver aplicações específicas de inteligência artificial que sejam otimizadas para funcionar nos seus supercomputadores. A Empresa Comum deverá também ser autorizada a nomear as entidades de acolhimento da Computação Europeia de Alto Desempenho existentes como fábricas de inteligência artificial, desde que essas entidades de acolhimento sejam capazes de demonstrar que o seu supercomputador dispõe de recursos de computação suficientes para treinar modelos de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial, e desde que essas entidades de acolhimento estejam a realizar toda a gama de atividades adicionais necessárias para desenvolver e apoiar o ecossistema da inteligência artificial. Essas alterações permitirão à Empresa Comum oferecer capacidade e serviços de computação adaptados para fomentar o treino, o desenvolvimento e a adoção da inteligência artificial em grande escala na União, algo que não é exequível ao abrigo do atual regulamento. As fábricas de inteligência artificial deverão interagir entre si e com iniciativas de inteligência artificial pertinentes da União e, se for caso disso, podem interagir com os ecossistemas e as iniciativas de inteligência artificial nacionais pertinentes.
+
+(6) A fim de coordenar a data de aplicação das alterações introduzidas pelo presente regulamento modificativo com a data de aplicação do Regulamento da Inteligência Artificial, o presente regulamento modificativo deverá ser aplicável sem demora injustificada.
+
+(7) O Regulamento (UE) 2021/1173 deverá, por conseguinte, ser alterado em conformidade,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O Regulamento (UE) 2021/1173 é alterado do seguinte modo:
+
+1) O artigo 2.º é alterado do seguinte modo: a) São inseridos os seguintes pontos: «3-A) “Supercomputador otimizado para a inteligência artificial”, um supercomputador concebido principalmente para treinar modelos de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial; 3-B) “Fábrica de inteligência artificial”, uma entidade centralizada ou distribuída que fornece uma infraestrutura de serviços de supercomputação para a inteligência artificial, composta por um supercomputador otimizado para a inteligência artificial ou uma partição de um supercomputador dedicada à inteligência artificial, um centro de dados associado, um acesso específico e serviços de supercomputação orientados para a inteligência artificial, atraindo e congregando talentos de modo a proporcionar as competências necessárias para a utilização dos supercomputadores para a inteligência artificial;»; b) O ponto 9 passa a ter a seguinte redação: «9) “Supercomputador da EuroHPC”, qualquer sistema de computação integralmente detido pela Empresa Comum ou que esta detenha em copropriedade com outros Estados participantes ou um consórcio de parceiros privados e que é um supercomputador clássico (supercomputador de topo de gama, supercomputador industrial, supercomputador otimizado para a inteligência artificial ou supercomputador de gama média), um computador híbrido clássico-quântico, um computador quântico ou um simulador quântico;»;
+
+a) São inseridos os seguintes pontos: «3-A) “Supercomputador otimizado para a inteligência artificial”, um supercomputador concebido principalmente para treinar modelos de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial; 3-B) “Fábrica de inteligência artificial”, uma entidade centralizada ou distribuída que fornece uma infraestrutura de serviços de supercomputação para a inteligência artificial, composta por um supercomputador otimizado para a inteligência artificial ou uma partição de um supercomputador dedicada à inteligência artificial, um centro de dados associado, um acesso específico e serviços de supercomputação orientados para a inteligência artificial, atraindo e congregando talentos de modo a proporcionar as competências necessárias para a utilização dos supercomputadores para a inteligência artificial;»;
+
+«3-A) “Supercomputador otimizado para a inteligência artificial”, um supercomputador concebido principalmente para treinar modelos de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial;
+
+3-B) “Fábrica de inteligência artificial”, uma entidade centralizada ou distribuída que fornece uma infraestrutura de serviços de supercomputação para a inteligência artificial, composta por um supercomputador otimizado para a inteligência artificial ou uma partição de um supercomputador dedicada à inteligência artificial, um centro de dados associado, um acesso específico e serviços de supercomputação orientados para a inteligência artificial, atraindo e congregando talentos de modo a proporcionar as competências necessárias para a utilização dos supercomputadores para a inteligência artificial;»
+
+b) O ponto 9 passa a ter a seguinte redação: «9) “Supercomputador da EuroHPC”, qualquer sistema de computação integralmente detido pela Empresa Comum ou que esta detenha em copropriedade com outros Estados participantes ou um consórcio de parceiros privados e que é um supercomputador clássico (supercomputador de topo de gama, supercomputador industrial, supercomputador otimizado para a inteligência artificial ou supercomputador de gama média), um computador híbrido clássico-quântico, um computador quântico ou um simulador quântico;»;
+
+«9) “Supercomputador da EuroHPC”, qualquer sistema de computação integralmente detido pela Empresa Comum ou que esta detenha em copropriedade com outros Estados participantes ou um consórcio de parceiros privados e que é um supercomputador clássico (supercomputador de topo de gama, supercomputador industrial, supercomputador otimizado para a inteligência artificial ou supercomputador de gama média), um computador híbrido clássico-quântico, um computador quântico ou um simulador quântico;»
+
+2) Ao artigo 3.º, n.º 2, é aditada a seguinte alínea: «h) desenvolver e explorar fábricas de inteligência artificial para apoiar o desenvolvimento de um ecossistema de inteligência artificial altamente competitivo e inovador na União.»;
+
+«h) desenvolver e explorar fábricas de inteligência artificial para apoiar o desenvolvimento de um ecossistema de inteligência artificial altamente competitivo e inovador na União.»
+
+3) Ao artigo 4.º, n.º 1, é aditada a seguinte alínea: «h) o pilar da fábrica de inteligência artificial para uma inteligência artificial ética e de confiança, que abrange atividades de fornecimento de uma infraestrutura de serviços de supercomputação orientados para a inteligência artificial com vista a desenvolver as capacidades, aptidões e competências de investigação e inovação do ecossistema de inteligência artificial; inclui as seguintes atividades: i) a aquisição e a operação de supercomputadores otimizados para a inteligência artificial, que partilham as instalações com grandes centros de dados ou estão ligados a centros de dados através de redes de muito alta velocidade, ii) a modernização dos supercomputadores da EuroHPC existentes com capacidades de inteligência artificial, iii) a concessão de acesso e de oportunidades de acesso equitativas aos supercomputadores otimizados para a inteligência artificial ou aos supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial, nomeadamente alargando a sua utilização a um grande número de utilizadores públicos e privados, incluindo empresas em fase de arranque e pequenas e médias empresas, iv) a exploração de centros de serviços de supercomputação orientados para a inteligência artificial, centralizados ou distribuídos, para apoiar o ecossistema das empresas em fase de arranque no domínio da inteligência artificial e o ecossistema da investigação e inovação, prestando apoio algorítmico, apoio à continuação do desenvolvimento, treino, ensaio, avaliação e validação de modelos e sistemas de treino de inteligência artificial e apoio ao desenvolvimento de aplicações emergentes de inteligência artificial em grande escala em domínios estratégicos como a saúde e a prestação de cuidados, as alterações climáticas, a robótica ou a condução conectada e automatizada, v) a exploração de instalações de programação adequadas para supercomputadores, inclusive para a paralelização de aplicações de inteligência artificial com vista a otimizar a utilização das capacidades de supercomputação, vi) a exploração de outros serviços de supercomputação facilitadores da inteligência artificial, vii) a atração, congregação e formação de talentos para desenvolver as suas competências e aptidões na utilização dos supercomputadores da EuroHPC para a inteligência artificial, viii) a interação com as outras fábricas de inteligência artificial, tornando os seus serviços acessíveis em toda a Europa e cooperando com os centros de competências da EuroHPC e os centros de excelência da EuroHPC, bem como com as iniciativas pertinentes da União em matéria de inteligência artificial, como os polos de empresas em fase de arranque no domínio da inteligência artificial, os ecossistemas de dados e de inteligência artificial, as instalações de ensaio e experimentação no domínio da inteligência artificial, a plataforma central europeia de inteligência artificial, os polos de inovação digital orientados para a inteligência artificial, o Instituto Europeu de Inovação e Tecnologia e as Comunidades de Conhecimento e Inovação no domínio da inteligência artificial, as infraestruturas europeias de investigação pertinentes e outras iniciativas conexas.»;
+
+«h) o pilar da fábrica de inteligência artificial para uma inteligência artificial ética e de confiança, que abrange atividades de fornecimento de uma infraestrutura de serviços de supercomputação orientados para a inteligência artificial com vista a desenvolver as capacidades, aptidões e competências de investigação e inovação do ecossistema de inteligência artificial; inclui as seguintes atividades: i) a aquisição e a operação de supercomputadores otimizados para a inteligência artificial, que partilham as instalações com grandes centros de dados ou estão ligados a centros de dados através de redes de muito alta velocidade, ii) a modernização dos supercomputadores da EuroHPC existentes com capacidades de inteligência artificial, iii) a concessão de acesso e de oportunidades de acesso equitativas aos supercomputadores otimizados para a inteligência artificial ou aos supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial, nomeadamente alargando a sua utilização a um grande número de utilizadores públicos e privados, incluindo empresas em fase de arranque e pequenas e médias empresas, iv) a exploração de centros de serviços de supercomputação orientados para a inteligência artificial, centralizados ou distribuídos, para apoiar o ecossistema das empresas em fase de arranque no domínio da inteligência artificial e o ecossistema da investigação e inovação, prestando apoio algorítmico, apoio à continuação do desenvolvimento, treino, ensaio, avaliação e validação de modelos e sistemas de treino de inteligência artificial e apoio ao desenvolvimento de aplicações emergentes de inteligência artificial em grande escala em domínios estratégicos como a saúde e a prestação de cuidados, as alterações climáticas, a robótica ou a condução conectada e automatizada, v) a exploração de instalações de programação adequadas para supercomputadores, inclusive para a paralelização de aplicações de inteligência artificial com vista a otimizar a utilização das capacidades de supercomputação, vi) a exploração de outros serviços de supercomputação facilitadores da inteligência artificial, vii) a atração, congregação e formação de talentos para desenvolver as suas competências e aptidões na utilização dos supercomputadores da EuroHPC para a inteligência artificial, viii) a interação com as outras fábricas de inteligência artificial, tornando os seus serviços acessíveis em toda a Europa e cooperando com os centros de competências da EuroHPC e os centros de excelência da EuroHPC, bem como com as iniciativas pertinentes da União em matéria de inteligência artificial, como os polos de empresas em fase de arranque no domínio da inteligência artificial, os ecossistemas de dados e de inteligência artificial, as instalações de ensaio e experimentação no domínio da inteligência artificial, a plataforma central europeia de inteligência artificial, os polos de inovação digital orientados para a inteligência artificial, o Instituto Europeu de Inovação e Tecnologia e as Comunidades de Conhecimento e Inovação no domínio da inteligência artificial, as infraestruturas europeias de investigação pertinentes e outras iniciativas conexas.»
+
+i) a aquisição e a operação de supercomputadores otimizados para a inteligência artificial, que partilham as instalações com grandes centros de dados ou estão ligados a centros de dados através de redes de muito alta velocidade,
+
+ii) a modernização dos supercomputadores da EuroHPC existentes com capacidades de inteligência artificial,
+
+iii) a concessão de acesso e de oportunidades de acesso equitativas aos supercomputadores otimizados para a inteligência artificial ou aos supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial, nomeadamente alargando a sua utilização a um grande número de utilizadores públicos e privados, incluindo empresas em fase de arranque e pequenas e médias empresas,
+
+iv) a exploração de centros de serviços de supercomputação orientados para a inteligência artificial, centralizados ou distribuídos, para apoiar o ecossistema das empresas em fase de arranque no domínio da inteligência artificial e o ecossistema da investigação e inovação, prestando apoio algorítmico, apoio à continuação do desenvolvimento, treino, ensaio, avaliação e validação de modelos e sistemas de treino de inteligência artificial e apoio ao desenvolvimento de aplicações emergentes de inteligência artificial em grande escala em domínios estratégicos como a saúde e a prestação de cuidados, as alterações climáticas, a robótica ou a condução conectada e automatizada,
+
+v) a exploração de instalações de programação adequadas para supercomputadores, inclusive para a paralelização de aplicações de inteligência artificial com vista a otimizar a utilização das capacidades de supercomputação,
+
+vi) a exploração de outros serviços de supercomputação facilitadores da inteligência artificial,
+
+vii) a atração, congregação e formação de talentos para desenvolver as suas competências e aptidões na utilização dos supercomputadores da EuroHPC para a inteligência artificial,
+
+viii) a interação com as outras fábricas de inteligência artificial, tornando os seus serviços acessíveis em toda a Europa e cooperando com os centros de competências da EuroHPC e os centros de excelência da EuroHPC, bem como com as iniciativas pertinentes da União em matéria de inteligência artificial, como os polos de empresas em fase de arranque no domínio da inteligência artificial, os ecossistemas de dados e de inteligência artificial, as instalações de ensaio e experimentação no domínio da inteligência artificial, a plataforma central europeia de inteligência artificial, os polos de inovação digital orientados para a inteligência artificial, o Instituto Europeu de Inovação e Tecnologia e as Comunidades de Conhecimento e Inovação no domínio da inteligência artificial, as infraestruturas europeias de investigação pertinentes e outras iniciativas conexas.»
+
+4) O artigo 9.º é alterado do seguinte modo: a) Ao n.º 5, é aditado o seguinte parágrafo: «No caso dos supercomputadores otimizados para a inteligência artificial, aplicam-se às entidades de acolhimento os seguintes critérios de seleção adicionais: a) proximidade a um centro de dados estabelecido, ou ligação, através de redes de muito alta velocidade, a um centro de dados estabelecido, b) visão, planos e capacidade da entidade de acolhimento para dar resposta aos desafios do ecossistema das empresas em fase de arranque no domínio da inteligência artificial, do ecossistema da investigação e inovação e da comunidade de utilizadores da inteligência artificial, prestando serviços de supercomputação de apoio orientados para a inteligência artificial, centralizados ou distribuídos, c) qualidade e pertinência da experiência e do saber-fazer da equipa que à partida será responsável pelo ambiente de serviços de supercomputação de apoio orientados para a inteligência artificial, d) planos de interação e cooperação com outras fábricas de inteligência artificial, com os centros de competências e os centros de excelência da EuroHPC e com iniciativas pertinentes no âmbito da inteligência artificial, como os polos de empresas em fase de arranque no domínio da inteligência artificial, os ecossistemas de dados e de inteligência artificial, as instalações de ensaio e experimentação no domínio da inteligência artificial, a plataforma central europeia de inteligência artificial, os polos de inovação digital orientados para a inteligência artificial e outras iniciativas conexas, e) as capacidades existentes e os planos futuros da entidade de acolhimento para contribuir para o desenvolvimento da reserva de talentos.»; b) São inseridos os seguintes números: «5-A. Uma entidade de acolhimento existente pode candidatar-se a ser considerada fábrica de inteligência artificial. Na sequência de um convite à manifestação de interesse, uma entidade de acolhimento existente é selecionada pelo Conselho de Administração, por meio de um processo justo e transparente, baseado, nomeadamente, nos critérios de seleção descritos no artigo 9.º, n.º 5, segundo parágrafo, e desde que essa entidade de acolhimento seja capaz de demonstrar que o seu supercomputador da EuroHPC dispõe de recursos de computação suficientes para treinar modelos de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial;»; c) É inserido o seguinte número: «6-A. No que respeita aos supercomputadores otimizados para a inteligência artificial a que se refere o artigo 12.º-A, a entidade de acolhimento deve criar um balcão único para os utilizadores, incluindo as empresas em fase de arranque, as pequenas e médias empresas e os utilizadores científicos, a fim de facilitar o acesso aos seus serviços de apoio.»;
+
+a) Ao n.º 5, é aditado o seguinte parágrafo: «No caso dos supercomputadores otimizados para a inteligência artificial, aplicam-se às entidades de acolhimento os seguintes critérios de seleção adicionais: a) proximidade a um centro de dados estabelecido, ou ligação, através de redes de muito alta velocidade, a um centro de dados estabelecido, b) visão, planos e capacidade da entidade de acolhimento para dar resposta aos desafios do ecossistema das empresas em fase de arranque no domínio da inteligência artificial, do ecossistema da investigação e inovação e da comunidade de utilizadores da inteligência artificial, prestando serviços de supercomputação de apoio orientados para a inteligência artificial, centralizados ou distribuídos, c) qualidade e pertinência da experiência e do saber-fazer da equipa que à partida será responsável pelo ambiente de serviços de supercomputação de apoio orientados para a inteligência artificial, d) planos de interação e cooperação com outras fábricas de inteligência artificial, com os centros de competências e os centros de excelência da EuroHPC e com iniciativas pertinentes no âmbito da inteligência artificial, como os polos de empresas em fase de arranque no domínio da inteligência artificial, os ecossistemas de dados e de inteligência artificial, as instalações de ensaio e experimentação no domínio da inteligência artificial, a plataforma central europeia de inteligência artificial, os polos de inovação digital orientados para a inteligência artificial e outras iniciativas conexas, e) as capacidades existentes e os planos futuros da entidade de acolhimento para contribuir para o desenvolvimento da reserva de talentos.»;
+
+a) proximidade a um centro de dados estabelecido, ou ligação, através de redes de muito alta velocidade, a um centro de dados estabelecido,
+
+b) visão, planos e capacidade da entidade de acolhimento para dar resposta aos desafios do ecossistema das empresas em fase de arranque no domínio da inteligência artificial, do ecossistema da investigação e inovação e da comunidade de utilizadores da inteligência artificial, prestando serviços de supercomputação de apoio orientados para a inteligência artificial, centralizados ou distribuídos,
+
+c) qualidade e pertinência da experiência e do saber-fazer da equipa que à partida será responsável pelo ambiente de serviços de supercomputação de apoio orientados para a inteligência artificial,
+
+d) planos de interação e cooperação com outras fábricas de inteligência artificial, com os centros de competências e os centros de excelência da EuroHPC e com iniciativas pertinentes no âmbito da inteligência artificial, como os polos de empresas em fase de arranque no domínio da inteligência artificial, os ecossistemas de dados e de inteligência artificial, as instalações de ensaio e experimentação no domínio da inteligência artificial, a plataforma central europeia de inteligência artificial, os polos de inovação digital orientados para a inteligência artificial e outras iniciativas conexas,
+
+e) as capacidades existentes e os planos futuros da entidade de acolhimento para contribuir para o desenvolvimento da reserva de talentos.»
+
+b) São inseridos os seguintes números: «5-A. Uma entidade de acolhimento existente pode candidatar-se a ser considerada fábrica de inteligência artificial. Na sequência de um convite à manifestação de interesse, uma entidade de acolhimento existente é selecionada pelo Conselho de Administração, por meio de um processo justo e transparente, baseado, nomeadamente, nos critérios de seleção descritos no artigo 9.º, n.º 5, segundo parágrafo, e desde que essa entidade de acolhimento seja capaz de demonstrar que o seu supercomputador da EuroHPC dispõe de recursos de computação suficientes para treinar modelos de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial;»;
+
+c) É inserido o seguinte número: «6-A. No que respeita aos supercomputadores otimizados para a inteligência artificial a que se refere o artigo 12.º-A, a entidade de acolhimento deve criar um balcão único para os utilizadores, incluindo as empresas em fase de arranque, as pequenas e médias empresas e os utilizadores científicos, a fim de facilitar o acesso aos seus serviços de apoio.»;
+
+5) No artigo 10.º, n.º 2, a alínea l) passa a ter a seguinte redação: «l) as condições específicas aplicáveis no caso de a entidade de acolhimento operar um supercomputador da EuroHPC para utilização industrial ou um supercomputador otimizado para a inteligência artificial.»;
+
+«l) as condições específicas aplicáveis no caso de a entidade de acolhimento operar um supercomputador da EuroHPC para utilização industrial ou um supercomputador otimizado para a inteligência artificial.»
+
+6) É inserido o seguinte artigo: «Artigo 12.º-A Aquisição e propriedade de supercomputadores otimizados para a inteligência artificial 1. A Empresa Comum adquire os supercomputadores otimizados para a inteligência artificial e é proprietária dos mesmos. 2. A contribuição financeira da União a que se refere o artigo 5.º, n.º 1, cobre até 50 % dos custos de aquisição e até 50 % dos custos operacionais dos supercomputadores otimizados para a inteligência artificial. Os custos operacionais incluem os custos dos serviços de supercomputação orientados para a inteligência artificial. O restante custo total de propriedade dos supercomputadores otimizados para a inteligência artificial é coberto pelo Estado participante onde está estabelecida a entidade de acolhimento ou pelos Estados participantes no consórcio de acolhimento, sendo eventualmente complementado pelas contribuições a que se refere o artigo 6.º. 3. A seleção do fornecedor dos supercomputadores otimizados para a inteligência artificial tem em conta a segurança da cadeia de abastecimento. Baseia-se nas especificações do concurso, as quais devem ser orientadas pela procura, e tem em conta os requisitos dos utilizadores e as especificações gerais de sistema fornecidas pela entidade de acolhimento selecionada na sua candidatura ao convite à manifestação de interesse. 4. A Empresa Comum pode atuar como primeiro utilizador de supercomputadores otimizados para a inteligência artificial que integrem tecnologias desenvolvidas principalmente na União. 5. No programa de trabalho, o Conselho de Administração pode decidir, se tal for devidamente justificado por razões de segurança, condicionar a participação dos fornecedores na aquisição dos supercomputadores otimizados para a inteligência artificial, em conformidade com o artigo 12.º, n.º 6, do Regulamento (UE) 2021/694, ou limitar a participação de fornecedores por razões de segurança ou ações diretamente relacionadas com a autonomia estratégica da União, em conformidade com o artigo 18.º, n.º 4, desse regulamento. 6. Os supercomputadores otimizados para a inteligência artificial são alojados numa entidade de acolhimento de um supercomputador da EuroHPC ou num centro de supercomputação situado na União. 7. Sem prejuízo da dissolução da Empresa Comum, referida no artigo 23.º, n.º 4, dos Estatutos, depois de decorridos cinco anos, no mínimo, desde o ensaio de aceitação do supercomputador otimizado para a inteligência artificial instalado numa entidade de acolhimento, a propriedade desse supercomputador otimizado para a inteligência artificial pode ser transferida para a dita entidade de acolhimento ou os supercomputadores otimizados para a inteligência artificial podem ser vendidos a outra entidade ou desativados, mediante decisão do Conselho de Administração e em conformidade com a convenção de acolhimento. Em caso de transferência de propriedade de um supercomputador otimizado para a inteligência artificial, a entidade de acolhimento reembolsa à Empresa Comum o valor residual do supercomputador transferido. Se não existir uma transferência de propriedade para a entidade de acolhimento, mas sim uma decisão de desativação do supercomputador otimizado para a inteligência artificial, os custos conexos são suportados em partes iguais pela Empresa Comum e pela entidade de acolhimento. A Empresa Comum não é responsável por quaisquer custos incorridos após a transferência da propriedade de um supercomputador otimizado pela inteligência artificial ou após a venda ou desativação do supercomputador otimizado para a inteligência artificial.»;
+
+7) O artigo 15.º é alterado do seguinte modo: a) O n.º 1 passa a ter a seguinte redação: «1. A Empresa Comum pode lançar um convite à manifestação de interesse com vista a modernizar os supercomputadores da EuroHPC de que é proprietária ou coproprietária, a fim de aumentar o desempenho do supercomputador para um nível próximo da exaescala, de reforçar as capacidades de inteligência artificial do supercomputador ou de aumentar o desempenho operacional do supercomputador por outros meios, incluindo através de aceleradores quânticos.»; b) O n.º 2 é suprimido; c) O n.º 5 passa a ter a seguinte redação: «5. A percentagem da contribuição financeira da União para os custos de aquisição da modernização é igual à percentagem da contribuição financeira da União para o supercomputador da EuroHPC original, amortizados ao longo da vida útil remanescente prevista do supercomputador original. A percentagem da contribuição financeira da União para os custos operacionais adicionais da modernização é igual à percentagem da contribuição financeira da União para o supercomputador da EuroHPC original. Para os supercomputadores à petaescala adquiridos durante o período de aplicação do Regulamento (UE) 2018/1488, a contribuição financeira da União para a modernização cobre até 35 % dos custos operacionais adicionais.»;
+
+a) O n.º 1 passa a ter a seguinte redação: «1. A Empresa Comum pode lançar um convite à manifestação de interesse com vista a modernizar os supercomputadores da EuroHPC de que é proprietária ou coproprietária, a fim de aumentar o desempenho do supercomputador para um nível próximo da exaescala, de reforçar as capacidades de inteligência artificial do supercomputador ou de aumentar o desempenho operacional do supercomputador por outros meios, incluindo através de aceleradores quânticos.»;
+
+b) O n.º 2 é suprimido;
+
+c) O n.º 5 passa a ter a seguinte redação: «5. A percentagem da contribuição financeira da União para os custos de aquisição da modernização é igual à percentagem da contribuição financeira da União para o supercomputador da EuroHPC original, amortizados ao longo da vida útil remanescente prevista do supercomputador original. A percentagem da contribuição financeira da União para os custos operacionais adicionais da modernização é igual à percentagem da contribuição financeira da União para o supercomputador da EuroHPC original. Para os supercomputadores à petaescala adquiridos durante o período de aplicação do Regulamento (UE) 2018/1488, a contribuição financeira da União para a modernização cobre até 35 % dos custos operacionais adicionais.»;
+
+8) O artigo 16.º é alterado do seguinte modo: a) É inserido o seguinte número: «1-A. Os supercomputadores otimizados para a inteligência artificial e os supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial devem ser utilizados principalmente para o desenvolvimento, ensaio, avaliação e validação de modelos de treino de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial, bem como para a continuação do desenvolvimento de soluções de inteligência artificial na União que exijam computação de alto desempenho e a execução de algoritmos de inteligência artificial em grande escala para a resolução de problemas científicos.»; b) É inserido o seguinte número: «2-A. O Conselho de Administração define condições especiais de acesso aos supercomputadores otimizados para a inteligência artificial e aos supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial, em conformidade com o artigo 17.º, tendo em conta as necessidades específicas do ecossistema de empresas em fase de arranque no domínio da inteligência artificial e do ecossistema de investigação e inovação. Tal inclui o acesso específico concedido a empresas em fase de arranque e a pequenas e médias empresas. Só são elegíveis para acesso as propostas de desenvolvimento de modelos, sistemas e aplicações de inteligência artificial éticos e de confiança que estejam em consonância com os valores da União.»;
+
+a) É inserido o seguinte número: «1-A. Os supercomputadores otimizados para a inteligência artificial e os supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial devem ser utilizados principalmente para o desenvolvimento, ensaio, avaliação e validação de modelos de treino de inteligência artificial de finalidade geral em grande escala e aplicações emergentes de inteligência artificial, bem como para a continuação do desenvolvimento de soluções de inteligência artificial na União que exijam computação de alto desempenho e a execução de algoritmos de inteligência artificial em grande escala para a resolução de problemas científicos.»;
+
+b) É inserido o seguinte número: «2-A. O Conselho de Administração define condições especiais de acesso aos supercomputadores otimizados para a inteligência artificial e aos supercomputadores da EuroHPC modernizados com capacidades de inteligência artificial, em conformidade com o artigo 17.º, tendo em conta as necessidades específicas do ecossistema de empresas em fase de arranque no domínio da inteligência artificial e do ecossistema de investigação e inovação. Tal inclui o acesso específico concedido a empresas em fase de arranque e a pequenas e médias empresas. Só são elegíveis para acesso as propostas de desenvolvimento de modelos, sistemas e aplicações de inteligência artificial éticos e de confiança que estejam em consonância com os valores da União.»;
+
+9) No artigo 17.º, o n.º 1, passa a ter a seguinte redação: «1. A quota do tempo de acesso a cada supercomputador de topo de gama, a cada supercomputador quântico e a cada supercomputador otimizado para a inteligência artificial da EuroHPC que cabe à União é diretamente proporcional à contribuição financeira da União, referida no artigo 5.º, n.º 1, para o custo total de propriedade do supercomputador da EuroHPC, pelo que não excede 50 % do tempo de acesso total ao supercomputador da EuroHPC.».
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito no Luxemburgo, em 17 de junho de 2024.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**A. MARON**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1#ntc1-L_202401732PT.000101-E0001) Parecer de 24 de abril de 2024 (ainda não publicado no Jornal Oficial).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1#ntc2-L_202401732PT.000101-E0002) Parecer de 20 de março de 2024 (ainda não publicado no Jornal Oficial).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0019.03/DOC_1#ntc3-L_202401732PT.000101-E0003) Regulamento (UE) 2021/1173 do Conselho, de 13 de julho de 2021, que cria a Empresa Comum para a Computação Europeia de Alto Desempenho e revoga o Regulamento (UE) 2018/1488 ([JO L 256 de 19.7.2021, p. 3](http://publications.europa.eu/resource/oj/JOL_2021_256_R_TOC)).

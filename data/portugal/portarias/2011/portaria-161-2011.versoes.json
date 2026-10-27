@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:276814:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-887063977",
+ "dre_path": "/dr/detalhe/portaria/161-2011-276814",
+ "source_lastmod": "2024-09-05",
+ "versions": [
+  {
+   "date": "2011-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887062151",
+    "887062131",
+    "887062132",
+    "887062133",
+    "887062134",
+    "887062135",
+    "887062136",
+    "887062137",
+    "887062138",
+    "887062139",
+    "887062140",
+    "887062141",
+    "887062142",
+    "887062143"
+   ]
+  },
+  {
+   "date": "2011-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670010:por",
+     "title": "Portaria n.º 233/2011",
+     "published": "2011-06-15",
+     "dre_path": "/dr/detalhe/portaria/233-2011-670010"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "887062130",
+    "887062131",
+    "887062132",
+    "887062133",
+    "887062134",
+    "887062135",
+    "887062150",
+    "887062137",
+    "887062138",
+    "887062139",
+    "887062140",
+    "887062141",
+    "887062142",
+    "887062143",
+    "887062144"
+   ]
+  },
+  {
+   "date": "2018-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115200303:por",
+     "title": "Portaria n.º 113/2018",
+     "published": "2018-04-30",
+     "dre_path": "/dr/detalhe/portaria/113-2018-115200303"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887062151",
+    "887062152",
+    "887062153",
+    "887062154",
+    "887062155",
+    "887062156",
+    "887062157",
+    "887062158",
+    "887062159",
+    "887062160",
+    "887062161",
+    "887062162",
+    "887062163",
+    "887062164",
+    "887062165"
+   ]
+  }
+ ],
+ "fragments": {
+  "887062151": {
+   "fragment_id": "887063978",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 161/2011\n\nde 18 de Abril\n\nO Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, que estabelece a organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»), institui uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos nos estabelecimentos de ensino, revogando o Regulamento (CE) n.º 1255/1999, do Conselho, de 17 de Maio, que tinha instituído o Programa de Leite Escolar.\n\nO Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho, estabeleceu as normas de execução do Regulamento (CE) n.º 1234/2007, no que respeita à concessão da referida ajuda.\n\nEm virtude da recente crise no sector dos produtos lácteos, verificou-se a inexistência no mercado de alguns dos produtos constantes do anexo ao Regulamento (CE) n.º 657/2008. Assim, o Regulamento (CE) n.º 966/2009, da Comissão, de 15 de Outubro, que veio alterar o referido Regulamento (CE) n.º 657/2008, passou a permitir a elegibilidade de uma gama mais vasta de produtos, sem alteração dos parâmetros de determinação dos montantes da referida ajuda, como medida susceptível de contribuir para apoiar a fileira e diversificar a oferta de produtos lácteos nas escolas.\n\nImporta pois, a nível nacional, estabelecer novas regras de aplicação do regime de concessão de ajudas à distribuição de leite e produtos lácteos à população escolar e proceder à revogação da Portaria n.º 398/2002, de 18 de Abril, que estabeleceu as regras de aplicação do regime de concessão de ajudas para o fornecimento de leite e produtos lácteos aos alunos dos estabelecimentos de ensino no continente e nas Regiões Autónomas dos Açores e da Madeira, no âmbito do Regulamento (CE) n.º 1255/1999, do Conselho.\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas.\n\nAssim:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, da Agricultura, do Desenvolvimento Rural e das Pescas e da Educação, ao abrigo do disposto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e no Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho, o seguinte:"
+  },
+  "887062131": {
+   "fragment_id": "887063979",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regulamenta o regime de concessão da ajuda comunitária estabelecida pelo artigo 102.º do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, destinada à distribuição de leite e produtos lácteos aos alunos dos estabelecimentos de ensino no continente e nas regiões autónomas, a seguir denominada «ajuda»."
+  },
+  "887062132": {
+   "fragment_id": "887063980",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários da ajuda\n\nOs beneficiários da ajuda são os alunos da educação pré-escolar, os do 1.º, do 2.º e do 3.º ciclos do ensino básico e os do ensino secundário."
+  },
+  "887062133": {
+   "fragment_id": "887063981",
+   "type": 11,
+   "heading": "Artigo 3.º — Produtos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos elegíveis\n\n1 - Para os alunos da educação pré-escolar e do 1.º ciclo do ensino básico, a ajuda é concedida aos produtos lácteos que constam das alíneas a) e b) da categoria i do anexo i do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho, alterado pelo Regulamento (CE) n.º 966/2009, da Comissão, de 15 de Outubro, com as seguintes especificações:\n\na) Leite meio gordo UHT distribuído em embalagens com capacidade entre 0,20 l e 0,25 l;\n\nb) Leite meio gordo UHT, achocolatado, com sumos de frutos ou aromatizado, com teor ponderal de leite meio gordo não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ou mel, em embalagens com capacidade entre 0,20 l e 0,25 l.\n\n2 - Para os alunos dos 2.º e 3.º ciclos do ensino básico e para os alunos do ensino secundário, o regime de ajuda abrange os produtos referidos no n.º 1 e ainda os que constam da alínea c) da categoria i do anexo i do referido Regulamento, bem como os produtos incluídos nas categorias ii, iii e v do mesmo anexo, com as seguintes especificações:\n\na) Iogurte meio gordo, com ou sem sumos de fruta aromatizado ou não, sólido em embalagens de 125 g, ou líquido em embalagens de 0,20 l, com teor ponderal de leite meio gordo não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ou mel;\n\nb) Produtos lácteos aromatizados ou não, com frutos, fermentados ou não, com teor ponderal de leite UHT não inferior a 75 % e com, no máximo, 7 % de açúcares adicionados ou mel;\n\nc) Queijos frescos e queijos fundidos ou outros queijos, com teor ponderal de ingredientes não lácteos não superior a 10 %.\n\n3 - O leite e os produtos lácteos referidos no número anterior devem estar em conformidade com a legislação aplicável a este tipo de produtos.\n\n4 - A ajuda comunitária só é concedida ao leite e produtos lácteos produzidos na Comunidade."
+  },
+  "887062134": {
+   "fragment_id": "887063982",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante e limites da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante e limites da ajuda\n\n1 - Os montantes das ajudas por produto elegível são os fixados no anexo ii do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n2 - Aos montantes referidos no n.º 1 pode ser adicionado um montante nacional, a assegurar pelo Ministério da Educação, destinado a garantir a distribuição gratuita dos produtos lácteos referidos no n.º 1 do artigo 3.º aos alunos da educação pré-escolar e do 1.º ciclo do ensino básico.\n\n3 - A quantidade de produto objecto de ajuda não pode ser superior a 0,25 l por aluno e por dia de aulas.\n\n4 - Para os produtos referidos nas alíneas b) e c) do n.º 2 do artigo 3.º, a quantidade de produto objecto de ajuda é determinada com base nas equivalências estabelecidas no n.º 2 do artigo 5.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho."
+  },
+  "887062135": {
+   "fragment_id": "887063983",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades requerentes\n\n1 - Podem requerer a concessão da ajuda:\n\na) As direcções regionais de educação (DRE), no continente, relativamente às despesas realizadas nos estabelecimentos de ensino das respectivas áreas de actuação;\n\nb) Os agrupamentos escolares, na Região Autónoma dos Açores (RAA);\n\nc) A Secretaria Regional de Educação, na Região Autónoma da Madeira (RAM).\n\n2 - As entidades referidas no número anterior são aprovadas para o efeito pelo Instituto de Financiamento da Agricultura e Pescas, I. P., (IFAP, I. P.), nos termos dos artigos 8.º e 9.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n3 - As entidades requerentes e as entidades responsáveis pela aquisição dos produtos referidos no artigo 3.º devem cumprir os normativos legais em matéria de contratação pública, sempre que aplicáveis."
+  },
+  "887062136": {
+   "fragment_id": "887063984",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pedido de pagamento\n\n1 - O pedido de pagamento é formalizado pelas entidades requerentes, através do preenchimento de formulário próprio disponível em www.ifap.pt., a apresentar junto do IFAP, I. P., no continente, no Instituto de Alimentação e Mercados Agrícolas (IAMA) da RAA e na Direcção Regional de Agricultura e Desenvolvimento Rural (DRADR) da RAM.\n\n2 - Para efeitos do disposto no número anterior, em cada ano lectivo, os pedidos relativos ao 1.º semestre devem ser apresentados até 31 de Maio e os pedidos relativos ao 2.º semestre até 31 de Outubro.\n\n3 - Na RAA e RAM, os pedidos de pagamento devem ser apresentados até 31 de Março e até 30 de Agosto ao IAMA e à DRADR, respectivamente."
+  },
+  "887062137": {
+   "fragment_id": "887063985",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pagamento\n\nO pagamento é efectuado às entidades requerentes pelo IFAP, I. P., duas vezes durante o ano lectivo, no prazo de três meses a contar da data de apresentação do pedido ao IFAP, I. P."
+  },
+  "887062138": {
+   "fragment_id": "887063986",
+   "type": 11,
+   "heading": "Artigo 8.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reduções e exclusões\n\nAo pagamento da ajuda são aplicáveis as reduções e exclusões previstas no artigo 11.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho."
+  },
+  "887062139": {
+   "fragment_id": "887063987",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo\n\nO IFAP, I. P., directamente ou através de outras entidades, procede aos controlos previstos no artigo 15.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho."
+  },
+  "887062140": {
+   "fragment_id": "887063988",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções\n\nO IFAP, I. P., aplica as sanções previstas nos n.os 9 e 10 do artigo 15.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho."
+  },
+  "887062141": {
+   "fragment_id": "887063989",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicações\n\n1 - O IFAP, I. P., transmite à Comissão as informações exigidas pelo artigo 17.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n2 - Para efeitos do disposto no número anterior, as DRE no continente, os agrupamentos escolares na RAA e a Secretaria Regional de Educação na RAM transmitem ao IFAP, I. P., as seguintes informações relativas ao ano lectivo transacto:\n\na) Até 30 de Outubro, o número de agrupamentos escolares e de estabelecimentos de ensino que participaram no regime de distribuição de leite às escolas;\n\nb) Até 31 de Dezembro, o montante da ajuda nacional prevista no n.º 2 do artigo 4.º que tenha sido despendido e o número de alunos que participaram no regime de distribuição de leite às escolas."
+  },
+  "887062142": {
+   "fragment_id": "887063990",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogada a Portaria n.º 398/2002, de 18 de Abril."
+  },
+  "887062143": {
+   "fragment_id": "887063991",
+   "type": 11,
+   "heading": "Artigo 13.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Produção de efeitos\n\nA presente portaria aplica-se a partir do ano lectivo de 2010-2011."
+  },
+  "887062130": {
+   "fragment_id": "887063978",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 161/2011\n\nde 18 de Abril\n\nO Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, que estabelece a organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»), institui uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos nos estabelecimentos de ensino, revogando o Regulamento (CE) n.º 1255/1999, do Conselho, de 17 de Maio, que tinha instituído o Programa de Leite Escolar.\n\nO Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho, estabeleceu as normas de execução do Regulamento (CE) n.º 1234/2007, no que respeita à concessão da referida ajuda.\n\nEm virtude da recente crise no sector dos produtos lácteos, verificou-se a inexistência no mercado de alguns dos produtos constantes do anexo ao Regulamento (CE) n.º 657/2008. Assim, o Regulamento (CE) n.º 966/2009, da Comissão, de 15 de Outubro, que veio alterar o referido Regulamento (CE) n.º 657/2008, passou a permitir a elegibilidade de uma gama mais vasta de produtos, sem alteração dos parâmetros de determinação dos montantes da referida ajuda, como medida susceptível de contribuir para apoiar a fileira e diversificar a oferta de produtos lácteos nas escolas.\n\nImporta pois, a nível nacional, estabelecer novas regras de aplicação do regime de concessão de ajudas à distribuição de leite e produtos lácteos à população escolar e proceder à revogação da Portaria n.º 398/2002, de 18 de Abril, que estabeleceu as regras de aplicação do regime de concessão de ajudas para o fornecimento de leite e produtos lácteos aos alunos dos estabelecimentos de ensino no continente e nas Regiões Autónomas dos Açores e da Madeira, no âmbito do Regulamento (CE) n.º 1255/1999, do Conselho.\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas.\n\nAssim:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, da Agricultura, do Desenvolvimento Rural e das Pescas e da Educação, ao abrigo do disposto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e no Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho, o seguinte:"
+  },
+  "887062150": {
+   "fragment_id": "887063984",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de pagamento",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 233/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/233-2011-670010), em vigor a partir de 2011-06-16, produz efeitos a partir de 2011-04-23"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido de pagamento\n\n1 - O pedido de pagamento é formalizado pelas entidades requerentes, através do preenchimento de formulário próprio disponível em www.ifap.pt., a apresentar junto do IFAP, I. P., no continente, no Instituto de Alimentação e Mercados Agrícolas (IAMA) da RAA e na Direcção Regional de Agricultura e Desenvolvimento Rural (DRADR) da RAM.\n\n2 - Para efeitos do disposto no número anterior, em cada ano lectivo, os pedidos relativos ao 1.º semestre devem ser apresentados até 31 de Maio e os pedidos relativos ao 2.º semestre até 31 de Outubro.\n\n3 - Na RAA e na RAM, os pedidos de pagamento relativos ao 1.º semestre devem ser apresentados até 31 de Março e até 30 de Agosto quando relativos ao 2.º semestre.\n\n4 - Os pedidos de pagamento relativos ao 1.º semestre do ano lectivo de 2010-2011, na RAA e na RAM, podem ser apresentados até 15 de Junho de 2011.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 233/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/233-2011-670010), em vigor a partir de 2011-06-16, produz efeitos a partir de 2011-04-23"
+  },
+  "887062144": {
+   "fragment_id": "887063992",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Abril de 2011. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 7 de Fevereiro de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 8 de Fevereiro de 2011."
+  },
+  "887062152": {
+   "fragment_id": "887063979",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regulamenta o regime de concessão da ajuda comunitária estabelecida pelo artigo 102.º do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, destinada à distribuição de leite e produtos lácteos aos alunos dos estabelecimentos de ensino no continente e nas regiões autónomas, a seguir denominada «ajuda».\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062153": {
+   "fragment_id": "887063980",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários da ajuda",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários da ajuda\n\nOs beneficiários da ajuda são os alunos da educação pré-escolar, os do 1.º, do 2.º e do 3.º ciclos do ensino básico e os do ensino secundário.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062154": {
+   "fragment_id": "887063981",
+   "type": 11,
+   "heading": "Artigo 3.º — Produtos elegíveis",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Produtos elegíveis\n\n1 - Para os alunos da educação pré-escolar e do 1.º ciclo do ensino básico, a ajuda é concedida aos produtos lácteos que constam das alíneas a) e b) da categoria i do anexo i do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho, alterado pelo Regulamento (CE) n.º 966/2009, da Comissão, de 15 de Outubro, com as seguintes especificações:\n\na) Leite meio gordo UHT distribuído em embalagens com capacidade entre 0,20 l e 0,25 l;\n\nb) Leite meio gordo UHT, achocolatado, com sumos de frutos ou aromatizado, com teor ponderal de leite meio gordo não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ou mel, em embalagens com capacidade entre 0,20 l e 0,25 l.\n\n2 - Para os alunos dos 2.º e 3.º ciclos do ensino básico e para os alunos do ensino secundário, o regime de ajuda abrange os produtos referidos no n.º 1 e ainda os que constam da alínea c) da categoria i do anexo i do referido Regulamento, bem como os produtos incluídos nas categorias ii, iii e v do mesmo anexo, com as seguintes especificações:\n\na) Iogurte meio gordo, com ou sem sumos de fruta aromatizado ou não, sólido em embalagens de 125 g, ou líquido em embalagens de 0,20 l, com teor ponderal de leite meio gordo não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ou mel;\n\nb) Produtos lácteos aromatizados ou não, com frutos, fermentados ou não, com teor ponderal de leite UHT não inferior a 75 % e com, no máximo, 7 % de açúcares adicionados ou mel;\n\nc) Queijos frescos e queijos fundidos ou outros queijos, com teor ponderal de ingredientes não lácteos não superior a 10 %.\n\n3 - O leite e os produtos lácteos referidos no número anterior devem estar em conformidade com a legislação aplicável a este tipo de produtos.\n\n4 - A ajuda comunitária só é concedida ao leite e produtos lácteos produzidos na Comunidade.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062155": {
+   "fragment_id": "887063982",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante e limites da ajuda",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Montante e limites da ajuda\n\n1 - Os montantes das ajudas por produto elegível são os fixados no anexo ii do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n2 - Aos montantes referidos no n.º 1 pode ser adicionado um montante nacional, a assegurar pelo Ministério da Educação, destinado a garantir a distribuição gratuita dos produtos lácteos referidos no n.º 1 do artigo 3.º aos alunos da educação pré-escolar e do 1.º ciclo do ensino básico.\n\n3 - A quantidade de produto objecto de ajuda não pode ser superior a 0,25 l por aluno e por dia de aulas.\n\n4 - Para os produtos referidos nas alíneas b) e c) do n.º 2 do artigo 3.º, a quantidade de produto objecto de ajuda é determinada com base nas equivalências estabelecidas no n.º 2 do artigo 5.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062156": {
+   "fragment_id": "887063983",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades requerentes",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entidades requerentes\n\n1 - Podem requerer a concessão da ajuda:\n\na) As direcções regionais de educação (DRE), no continente, relativamente às despesas realizadas nos estabelecimentos de ensino das respectivas áreas de actuação;\n\nb) Os agrupamentos escolares, na Região Autónoma dos Açores (RAA);\n\nc) A Secretaria Regional de Educação, na Região Autónoma da Madeira (RAM).\n\n2 - As entidades referidas no número anterior são aprovadas para o efeito pelo Instituto de Financiamento da Agricultura e Pescas, I. P., (IFAP, I. P.), nos termos dos artigos 8.º e 9.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n3 - As entidades requerentes e as entidades responsáveis pela aquisição dos produtos referidos no artigo 3.º devem cumprir os normativos legais em matéria de contratação pública, sempre que aplicáveis.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062157": {
+   "fragment_id": "887063984",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de pagamento",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 233/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/233-2011-670010), em vigor a partir de 2011-06-16, produz efeitos a partir de 2011-04-23"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido de pagamento\n\n1 - O pedido de pagamento é formalizado pelas entidades requerentes, através do preenchimento de formulário próprio disponível em www.ifap.pt., a apresentar junto do IFAP, I. P., no continente, no Instituto de Alimentação e Mercados Agrícolas (IAMA) da RAA e na Direcção Regional de Agricultura e Desenvolvimento Rural (DRADR) da RAM.\n\n2 - Para efeitos do disposto no número anterior, em cada ano lectivo, os pedidos relativos ao 1.º semestre devem ser apresentados até 31 de Maio e os pedidos relativos ao 2.º semestre até 31 de Outubro.\n\n3 - Na RAA e na RAM, os pedidos de pagamento relativos ao 1.º semestre devem ser apresentados até 31 de Março e até 30 de Agosto quando relativos ao 2.º semestre.\n\n4 - Os pedidos de pagamento relativos ao 1.º semestre do ano lectivo de 2010-2011, na RAA e na RAM, podem ser apresentados até 15 de Junho de 2011.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 233/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/233-2011-670010), em vigor a partir de 2011-06-16, produz efeitos a partir de 2011-04-23"
+  },
+  "887062158": {
+   "fragment_id": "887063985",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Pagamento\n\nO pagamento é efectuado às entidades requerentes pelo IFAP, I. P., duas vezes durante o ano lectivo, no prazo de três meses a contar da data de apresentação do pedido ao IFAP, I. P.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062159": {
+   "fragment_id": "887063986",
+   "type": 11,
+   "heading": "Artigo 8.º — Reduções e exclusões",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Reduções e exclusões\n\nAo pagamento da ajuda são aplicáveis as reduções e exclusões previstas no artigo 11.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062160": {
+   "fragment_id": "887063987",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Controlo\n\nO IFAP, I. P., directamente ou através de outras entidades, procede aos controlos previstos no artigo 15.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062161": {
+   "fragment_id": "887063988",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Sanções\n\nO IFAP, I. P., aplica as sanções previstas nos n.os 9 e 10 do artigo 15.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062162": {
+   "fragment_id": "887063989",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicações",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Comunicações\n\n1 - O IFAP, I. P., transmite à Comissão as informações exigidas pelo artigo 17.º do Regulamento (CE) n.º 657/2008, da Comissão, de 10 de Julho.\n\n2 - Para efeitos do disposto no número anterior, as DRE no continente, os agrupamentos escolares na RAA e a Secretaria Regional de Educação na RAM transmitem ao IFAP, I. P., as seguintes informações relativas ao ano lectivo transacto:\n\na) Até 30 de Outubro, o número de agrupamentos escolares e de estabelecimentos de ensino que participaram no regime de distribuição de leite às escolas;\n\nb) Até 31 de Dezembro, o montante da ajuda nacional prevista no n.º 2 do artigo 4.º que tenha sido despendido e o número de alunos que participaram no regime de distribuição de leite às escolas.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062163": {
+   "fragment_id": "887063990",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogada a Portaria n.º 398/2002, de 18 de Abril.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062164": {
+   "fragment_id": "887063991",
+   "type": 11,
+   "heading": "Artigo 13.º — Produção de efeitos",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Produção de efeitos\n\nA presente portaria aplica-se a partir do ano lectivo de 2010-2011.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  },
+  "887062165": {
+   "fragment_id": "887063992",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Abril de 2011. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 7 de Fevereiro de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 8 de Fevereiro de 2011.\n\n> Revogado pelo/a Artigo 24.º do/a [Portaria n.º 113/2018 - Diário da República n.º 83/2018, Série I de 2018-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/113-2018-115200303), em vigor a partir de 2018-05-01, produz efeitos a partir de 2017-08-01"
+  }
+ }
+}

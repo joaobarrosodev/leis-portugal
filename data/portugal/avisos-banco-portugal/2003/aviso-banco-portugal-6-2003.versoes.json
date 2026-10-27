@@ -1,0 +1,257 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176535:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-banco-portugal/2003-889143870",
+ "dre_path": "/dr/detalhe/aviso-banco-portugal/6-2003-176535",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "2003-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889144034",
+    "889144035",
+    "889144036",
+    "889144037",
+    "889144038",
+    "889144039",
+    "889144040"
+   ]
+  },
+  {
+   "date": "2005-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233952:por",
+     "title": "Aviso do Banco de Portugal n.º 9/2005",
+     "published": "2005-06-24",
+     "dre_path": "/dr/detalhe/aviso-banco-portugal/9-2005-233952"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "889144034",
+    "889144055",
+    "889144056",
+    "889144057",
+    "889144038",
+    "889144039",
+    "889144040",
+    "889144041"
+   ]
+  },
+  {
+   "date": "2006-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:538622:por",
+     "title": "Aviso do Banco de Portugal n.º 4/2006",
+     "published": "2006-08-08",
+     "dre_path": "/dr/detalhe/aviso-banco-portugal/4-2006-538622"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "889144034",
+    "889144058",
+    "889144059",
+    "889144060",
+    "889144063",
+    "889144064",
+    "889144065",
+    "889144066",
+    "889144067"
+   ]
+  }
+ ],
+ "fragments": {
+  "889144034": {
+   "fragment_id": "889143871",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso do Banco de Portugal n.º 6/2003\n\nConsiderando o disposto no n.º 3 do artigo 115.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com a alteração introduzida pelo Decreto-Lei n.º 201/2002, de 26 de Setembro, o Banco de Portugal determina o seguinte:\n\n> Nota: [Artigo 3.º, Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622) O presente aviso é aplicável à publicação das contas relativas ao exercício de 2006.\n\n> Nota: [4.º, Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952) O presente aviso é aplicável à publicação do balanço trimestral relativo a 31 de Março de 2005, a menos que já tenha sido solicitada a sua publicação em formato diferente."
+  },
+  "889144035": {
+   "fragment_id": "889143872",
+   "type": 11,
+   "heading": "Artigo 1.º — Contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Contas anuais\n\n1 - As instituições de crédito, as sociedades financeiras e as sociedades gestoras de participações sociais que adoptem o plano de contas para o sistema bancário (PCSB), anexo à instrução do Banco de Portugal n.º 4/96, devem proceder à publicação integral no Diário da República das suas contas anuais.\n\n2 - Para além de outros documentos previstos na lei geral, as contas anuais compreendem os seguintes documentos:\n\nO balanço relativo à actividade global, conforme modelo apresentado no anexo I do capítulo VI do PCSB;\n\nA demonstração de resultados, conforme modelo apresentado no anexo II do capítulo VI do PCSB;\n\nO anexo às contas, com o conteúdo indicado no capítulo VI do PCSB;\n\nO relatório de gestão;\n\nA certificação legal das contas, quando prevista na lei geral;\n\nO parecer do órgão de fiscalização, quando este exista.\n\n3 - O disposto no mesmo n.º 1 não é aplicável às caixas de crédito agrícola mútuo pertencentes ao sistema integrado do crédito agrícola mútuo (SICAM) nem às caixas económicas, com exclusão da Caixa Económica Montepio Geral.\n\n4 - As caixas de crédito agrícola mútuo pertencentes ao SICAM devem afixar em lugar visível, patente ao público, na sua sede e delegações, e publicar, num dos jornais mais lidos da localidade da sua sede ou, se aí não houver jornal, num dos jornais mais lidos nessa localidade, os documentos indicados no n.º 2 deste artigo.\n\n5 - As caixas económicas devem publicitar os seus elementos contabilísticos anuais nos termos do artigo 28.º do Decreto-Lei n.º 136/79, de 18 de Maio."
+  },
+  "889144036": {
+   "fragment_id": "889143873",
+   "type": 11,
+   "heading": "Artigo 2.º — Balanço trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Balanço trimestral\n\n1 - As instituições sujeitas à supervisão do Banco de Portugal, com excepção das agências de câmbio e das sociedades gestoras de participações sociais, devem publicar no Diário da República o balanço de situação relativo à actividade global, evidenciando os resultados provisórios, reportado ao final de cada um dos três primeiros trimestres do ano, conforme modelo apresentado no anexo I do capítulo VI do PCSB.\n\n2 - O n.º 1 deste artigo não é aplicável às caixas de crédito agrícola mútuo pertencentes ao SICAM nem às caixas económicas, com exclusão da Caixa Económica Montepio Geral.\n\n3 - As caixas de crédito agrícola mútuo pertencentes ao SICAM devem afixar, em lugar visível, patente ao público, na sua sede e delegações, os balanços de situação reportados ao fecho de cada trimestre.\n\n4 - As caixas económicas devem publicar os seus balancetes trimestrais nos termos do n.º 1 do artigo 28.º do Decreto-Lei n.º 136/79.\n\n5 - As instituições abrangidas pela obrigação constante do n.º 1 devem mandar publicar, directamente, no Diário da República o balanço relativo à actividade global, reportado a 31 de Dezembro de cada ano."
+  },
+  "889144037": {
+   "fragment_id": "889143874",
+   "type": 11,
+   "heading": "Artigo 3.º — Contas consolidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contas consolidadas\n\n1 - As contas consolidadas, elaboradas em conformidade com o Decreto-Lei n.º 36/92, de 28 de Março, devem ser objecto de publicação integral no Diário da República. Esta obrigatoriedade aplica-se, igualmente, às contas consolidadas do SICAM, sistema constituído pela Caixa Central de Crédito Agrícola Mútuo, pelas caixas de crédito agrícola mútua e pelas suas filiais e associadas.\n\n2 - Para além de outros documentos previstos na lei geral, as contas consolidadas compreendem os seguintes documentos:\n\nO balanço consolidado e a demonstração consolidada de resultados, de acordo com a estrutura apresentada na parte I do anexo à instrução do Banco de Portugal n.º 71/96;\n\nO anexo às contas consolidadas, com a informação exigida pelo n.º 14.2 da instrução n.º 71/96;\n\nO relatório de gestão;\n\nA certificação legal das contas consolidadas, quando aplicável pela lei geral;\n\nO parecer do órgão de fiscalização, quando este exista."
+  },
+  "889144038": {
+   "fragment_id": "889126975",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazos de publicação e prova perante o Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazos de publicação e prova perante o Banco de Portugal\n\n1 - As instituições devem fazer prova, perante o Banco de Portugal, do cumprimento da obrigação prevista no n.º 1 do artigo 1.º e no n.º 1 do artigo 3.º, no prazo de 10 dias a contar das seguintes datas:\n\na) Relativamente às instituições que sejam sociedades anónimas com capital aberto ao investimento do público, a data de entrega das contas anuais na Conservatória do Registo Comercial;\n\nb) Relativamente às restantes instituições, a data do pedido de publicação das contas anuais no Diário da República, quer através de conservatória do registo comercial quer directamente à Imprensa Nacional-Casa da Moeda. Aquele pedido deve ser efectuado no prazo de 30 dias a contar da deliberação da aprovação das contas.\n\n2 - A prova a que se refere o número anterior deve ser acompanhada, no caso previsto na alínea b), de declaração comprovativa de que o pedido se refere à publicação integral.\n\n3 - Os elementos referidos no n.º 1 do artigo 2.º devem ser enviados pelas instituições à Imprensa Nacional-Casa da Moeda, para publicação no Diário da República, no prazo de 60 dias após a data a que se reportam.\n\n4 - As obrigações a que se referem o n.º 4 do artigo 1.º e o n.º 5 do artigo 2.º devem ser cumpridas no prazo de 30 dias a contar da data da aprovação das contas, salvo, no segundo caso, se entretanto tiverem sido publicadas as contas anuais.\n\n5 - Nos casos indicados no n.º 3 deste artigo e no n.º 5 do artigo 2.º, as instituições devem remeter ao Banco de Portugal documento comprovativo do envio à Imprensa Nacional-Casa da Moeda dos documentos destinados a publicação no prazo de 10 dias a contar da data em que aquele tenha tido lugar.\n\n6 - As instituições abrangidas pelas obrigações constantes dos n.os 3 e 4 do artigo 2.º devem cumpri-las no prazo máximo de 30 dias a contar do último dia do trimestre em causa."
+  },
+  "889144039": {
+   "fragment_id": "889126976",
+   "type": 11,
+   "heading": "Artigo 5.º — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Outras disposições\n\nO Banco de Portugal poderá autorizar, por período limitado e a título excepcional, que as instituições procedam à suas publicações fora das condições previstas neste aviso, mediante pedido devidamente fundamentado das instituições que se encontrem impossibilitadas de lhes dar cumprimento, ou noutras circunstâncias relevantes."
+  },
+  "889144040": {
+   "fragment_id": "889126977",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente aviso entra em vigor na data da sua publicação, sendo aplicável à publicação das contas do exercício de 2002."
+  },
+  "889144055": {
+   "fragment_id": "889143872",
+   "type": 11,
+   "heading": "Artigo 1.º — Contas anuais em base individual",
+   "in_force_from": "2005-06-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 1.º — Contas anuais em base individual\n\n1 - As instituições de crédito, as sociedades financeiras e as sociedades gestoras de participações sociais sujeitas à disciplina do Aviso do Banco de Portugal n.º 1/2005, publicado no Diário da República, 1.ª série-B, de 28 de Fevereiro de 2005, devem proceder à publicação integral no Diário da República das suas contas anuais, em base individual, em conformidade com as normas contabilísticas que lhe são aplicáveis.\n\n2 - Para além de outros documentos previstos na lei geral, as contas anuais, em base individual, compreendem os seguintes documentos:\n\na) O balanço relativo à actividade global e a demonstração de resultados;\n\nb) O anexo às contas;\n\nc) O relatório de gestão;\n\nd) A certificação legal das contas, quando prevista na lei geral;\n\ne) O parecer do órgão de fiscalização, quando este exista.\n\n2-A - Os elementos mencionados nas alíneas a) e b) devem ser publicados de acordo com os modelos e conteúdo estabelecidos, por instrução do Banco de Portugal, para efeitos de reporte a este Banco.\n\n3 - O disposto no n.º 1 não é aplicável às caixas de crédito agrícola mútuo pertencentes ao sistema integrado do crédito agrícola mútuo (SICAM) nem às caixas económicas, com exclusão da Caixa Económica Montepio Geral e da Caixa Económica da Misericórdia de Angra do Heroísmo.\n\n4 - As caixas de crédito agrícola mútuo pertencentes ao SICAM devem afixar em lugar visível, patente ao público, na sua sede e delegações, e publicar, num dos jornais mais lidos da localidade da sua sede ou, se aí não houver jornal, num dos jornais mais lidos nessa localidade, os documentos indicados no n.º 2 deste artigo.\n\n5 - As caixas económicas devem publicitar os seus elementos contabilísticos anuais nos termos do artigo 28.º do Decreto-Lei n.º 136/79, de 18 de Maio.\n\n> Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+  },
+  "889144056": {
+   "fragment_id": "889143873",
+   "type": 11,
+   "heading": "Artigo 2.º — Balanço trimestral em base individual",
+   "in_force_from": "2005-06-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Balanço trimestral em base individual\n\n1 - As instituições sujeitas à supervisão do Banco de Portugal, com excepção das agências de câmbio e das sociedades gestoras de participações sociais, devem publicar no Diário da República o balanço de situação relativo à actividade global, evidenciando os resultados provisórios, reportado ao final de cada um dos três primeiros trimestres do ano, de acordo com os modelos estabelecidos, por instrução do Banco de Portugal, para efeitos de reporte a este Banco.\n\n2 - O n.º 1 deste artigo não é aplicável às caixas de crédito agrícola mútuo pertencentes ao SICAM nem às caixas económicas, com exclusão da Caixa Económica Montepio Geral e da Caixa Económica da Misericórdia de Angra do Heroísmo.\n\n3 - As caixas de crédito agrícola mútuo pertencentes ao SICAM devem afixar, em lugar visível, patente ao público, na sua sede e delegações, os balanços de situação reportados ao fecho de cada trimestre.\n\n4 - As caixas económicas devem publicar os seus balancetes trimestrais nos termos do n.º 1 do artigo 28.º do Decreto-Lei n.º 136/79.\n\n5 - As instituições abrangidas pela obrigação constante do n.º 1 devem mandar publicar, directamente, no Diário da República o balanço relativo à actividade global, reportado a 31 de Dezembro de cada ano.\n\n> Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+  },
+  "889144057": {
+   "fragment_id": "889143874",
+   "type": 11,
+   "heading": "Artigo 3.º — Contas anuais em base consolidada",
+   "in_force_from": "2005-06-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 3.º — Contas anuais em base consolidada\n\n1 - As contas consolidadas de instituições sujeitas à supervisão do Banco de Portugal devem ser objecto de publicação integral no Diário da República, em conformidade com as normas contabilísticas que lhe são aplicáveis. Esta obrigatoriedade aplica-se, igualmente, às contas consolidadas do SICAM, sistema constituído pela Caixa Central de Crédito Agrícola Mútuo, pelas caixas de crédito agrícola mútuo e pelas suas filiais e associadas.\n\n2 - Para além de outros documentos previstos na lei geral, as contas consolidadas compreendem os seguintes documentos:\n\na) O balanço consolidado e a demonstração consolidada de resultados;\n\nb) O anexo às contas consolidadas;\n\nc) O relatório de gestão;\n\nd) A certificação legal das contas consolidadas, quando aplicável pela lei geral;\n\ne) O parecer do órgão de fiscalização, quando este exista.\n\n> Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+  },
+  "889144041": {
+   "fragment_id": "889126978",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "7 de Janeiro de 2003. - O Governador, Vítor Constâncio."
+  },
+  "889144058": {
+   "fragment_id": "889143872",
+   "type": 11,
+   "heading": "Artigo 1.º — Contas anuais em base individual",
+   "in_force_from": "2006-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08",
+    "Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 1.º — Contas anuais em base individual\n\n1 - As instituições de crédito, as sociedades financeiras e as sociedades gestoras de participações sociais sujeitas à disciplina do Aviso do Banco de Portugal n.º 1/2005, publicado no Diário da República, 1.ª série-B, de 28 de Fevereiro de 2005, devem proceder à publicação integral das suas contas anuais, em base individual, em conformidade com as normas contabilísticas que lhe são aplicáveis.\n\n2 - Para além de outros documentos previstos na lei geral, as contas anuais, em base individual, compreendem os seguintes documentos:\n\na) O balanço relativo à actividade global e a demonstração de resultados;\n\nb) O anexo às contas;\n\nc) O relatório de gestão;\n\nd) A certificação legal das contas, quando prevista na lei geral;\n\ne) O parecer do órgão de fiscalização, quando este exista.\n\n2-A - Os elementos mencionados nas alíneas a) e b) devem ser publicados de acordo com os modelos e conteúdo estabelecidos, por instrução do Banco de Portugal, para efeitos de reporte a este Banco.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08\n\n> Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+  },
+  "889144059": {
+   "fragment_id": "889143873",
+   "type": 11,
+   "heading": "Artigo 2.º — Balanço trimestral em base individual",
+   "in_force_from": "2006-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08",
+    "Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 2.º — Balanço trimestral em base individual\n\nAs instituições sujeitas à supervisão do Banco de Portugal, com excepção das agências de câmbio e das sociedades gestoras de participações sociais, devem publicar o balanço de situação relativo à actividade global, evidenciando os resultados provisórios, reportado ao final de cada um dos três primeiros trimestres do ano, de acordo com os modelos estabelecidos, por instrução do Banco de Portugal, para efeitos de reporte a este Banco.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08\n\n> Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+  },
+  "889144060": {
+   "fragment_id": "889143874",
+   "type": 11,
+   "heading": "Artigo 3.º — Contas anuais em base consolidada",
+   "in_force_from": "2006-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08",
+    "Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 3.º — Contas anuais em base consolidada\n\n1 - As contas consolidadas de instituições sujeitas à supervisão do Banco de Portugal devem ser objecto de publicação integral, em conformidade com as normas contabilísticas que lhe são aplicáveis. Esta obrigatoriedade aplica-se, igualmente, às contas consolidadas do SICAM, sistema constituído pela Caixa Central de Crédito Agrícola Mútuo, pelas caixas de crédito agrícola mútuo e pelas suas filiais e associadas.\n\n2 - Para além de outros documentos previstos na lei geral, as contas consolidadas compreendem os seguintes documentos:\n\na) O balanço consolidado e a demonstração consolidada de resultados;\n\nb) O anexo às contas consolidadas;\n\nc) O relatório de gestão;\n\nd) A certificação legal das contas consolidadas, quando aplicável pela lei geral;\n\ne) O parecer do órgão de fiscalização, quando este exista.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08\n\n> Alterado pelo/a 1.º do/a [Aviso do Banco de Portugal n.º 9/2005 - Diário da República n.º 120/2005, Série I-B de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/9-2005-233952), em vigor a partir de 2005-06-24"
+  },
+  "889144063": {
+   "fragment_id": "889126995",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Forma de publicação",
+   "in_force_from": "2006-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08"
+   ],
+   "markdown": "###### Artigo 3.º-A — Forma de publicação\n\n1 - Os documentos referidos nos artigos 1.º e 3.º devem ser integralmente publicados no sítio da Internet do Banco de Portugal.\n\n2 - Sem prejuízo do disposto no número anterior, a publicação integral deve ainda ser efectuada num dos seguintes locais:\n\na) No sítio da Internet das respectivas instituições;\n\nb) No Diário da República;\n\nc) Num jornal não oficial de grande circulação nacional.\n\n3 - O disposto nos números anteriores não é aplicável às caixas económicas - com exclusão da Caixa Económica Montepio Geral e da Caixa Económica da Misericórdia de Angra do Heroísmo -, as quais devem publicitar os seus elementos contabilístios anuais e os balancetes trimestrais nos termos do artigo 28.º do Decreto-Lei n.º 136/79, de 18 de Maio.\n\n4 - Sem prejuízo do disposto nos n.os 1 e 2, os elementos referidos na alínea a) do n.º 2 do artigo 3.º devem ser objecto de publicação integral no Diário da República, a qual deve indicar como podem ser consultados os restantes documentos que integrem as contas consolidadas e o relatório consolidado de gestão.\n\n> Aditado pelo/a Artigo 2.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08"
+  },
+  "889144064": {
+   "fragment_id": "889126975",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazos de publicação e prova perante o Banco de Portugal",
+   "in_force_from": "2006-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08"
+   ],
+   "markdown": "###### Artigo 4.º — Prazos de publicação e prova perante o Banco de Portugal\n\n1 - As publicações previstas neste aviso devem ser efectuadas no prazo de 30 dias após a aprovação dos documentos referidos nos artigos anteriores.\n\n2 - As instituições devem fazer prova, perante o Banco de Portugal, do cumprimento das obrigações de publicação previstas neste aviso, no prazo de 10 dias, devendo remeter, consoante o caso, documento comprovativo da publicação no sítio da Internet, do envio dos documentos à Imprensa Nacional-Casa da Moeda ou a um jornal não oficial de grande circulação nacional.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08"
+  },
+  "889144065": {
+   "fragment_id": "889126976",
+   "type": 11,
+   "heading": "Artigo 5.º — Outras disposições",
+   "in_force_from": "2006-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08"
+   ],
+   "markdown": "###### Artigo 5.º — Outras disposições\n\n1 - O Banco de Portugal poderá autorizar, por período limitado e a título excepcional, que as instituições procedam às suas publicações fora das condições previstas neste aviso, mediante pedido devidamente fundamentado das instituições que se encontrem impossibilitadas de lhes dar cumprimento, ou em outras circunstâncias relevantes.\n\n2 - O Banco de Portugal pode definir, por instrução, as condições a observar pelas instituições para efeitos das publicações previstas neste aviso.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 4/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2006-538622), em vigor a partir de 2006-08-08"
+  },
+  "889144066": {
+   "fragment_id": "889126977",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente aviso entra em vigor na data da sua publicação, sendo aplicável à publicação das contas do exercício de 2002."
+  },
+  "889144067": {
+   "fragment_id": "889126978",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "7 de Janeiro de 2003. - O Governador, Vítor Constâncio."
+  }
+ }
+}

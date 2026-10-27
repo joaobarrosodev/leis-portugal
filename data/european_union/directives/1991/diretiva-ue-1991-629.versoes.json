@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0629:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0629-20090204",
+ "dre_path": null,
+ "source_lastmod": "2009-02-04",
+ "versions": [
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01991L0629-20030605",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ecdbb12127e2ba63",
+    "9e61a61101b3ed36",
+    "1ce7cb456640b0a6",
+    "ebf616258b6970cc",
+    "89d6a629b02b245d",
+    "b86decf3f6cc5d4f",
+    "248d9ab155e5c514",
+    "f5514efefb70d318",
+    "6e1125f77f676210",
+    "16936a85926d112d",
+    "716076cc27f23b94",
+    "603bf83e85866b5c",
+    "08b66beb65f6c7c3",
+    "9ce0e626493ced6d",
+    "56fc2d9a67887af9"
+   ]
+  },
+  {
+   "date": "2009-02-04",
+   "future": false,
+   "celex": "01991L0629-20090204",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "402504fefd9fc883"
+   ]
+  }
+ ],
+ "fragments": {
+  "ecdbb12127e2ba63": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Novembro de 1991\n\nrelativa às normas mínimas de protecção dos vitelos\n\n(91/629/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0003)),\n\nConsiderando que todos os Estados-membros ratificaram a convenção europeia sobre a protecção dos animais nas explorações de criação; que a Comunidade também aprovou essa convenção pela Decisão 78/923/CEE ([^4^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0004)) e depositou o seu instrumento de aprovação;\n\nConsiderando que o Parlamento Europeu, na sua resolução de 20 de Fevereiro de 1987, sobre as medidas relativas ao bem-estar dos animais ([^5^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0005)), solicitou à Comissão que apresentasse propostas sobre as normas mínimas para a criação intensiva de vitelos destinados ao abate;\n\nConsiderando que os vitelos, enquanto animais vivos, estão incluídos na lista de produtos estabelecida no anexo II do Tratado;\n\nConsiderando que a criação de vitelos constitui parte integrante da agricultura; que essa actividade constitui uma fonte de rendimentos para uma parte da população agrícola;\n\nConsiderando que as diferenças susceptíveis de distorcer as condições de concorrência interferem na gestão regular da organização comum de mercado no sector dos vitelos e dos produtos de vitelos;\n\nConsiderando que é necessário, por conseguinte, estabelecer normas mínimas comuns de protecção de vitelos de criação e de engorda, a fim de assegurar o desenvolvimento racional da produção;\n\nConsiderando que é necessário que os serviços oficiais, os produtores, os consumidores e outros interessados sejam mantidos informados acerca das evoluções registadas neste domínio; que a Comissão deve, por conseguinte, prosseguir activamente, com base em relatório do Comité Científico Veterinário, a investigação científica do sistema ou sistemas de criação de gado que melhor permitirão assegurar o bem-estar dos vitelos; e que, consequentemente, importa prever um período intercalar destinado a permitir à Comissão levar tal tarefa a bom termo,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9e61a61101b3ed36": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece as normas mínimas de protecção dos vitelos confinados para efeitos de criação e de engorda."
+  },
+  "1ce7cb456640b0a6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Vitelo»: um animal da espécie bovina até à idade de seis meses;\n\n2. «Autoridade competente»: a autoridade competente, na acepção do ponto 6 do artigo 2o. da Directiva 90/425/CEE ([^6^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0006))."
+  },
+  "ebf616258b6970cc": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros diligenciarão no sentido de que, durante um período transitório de quatro anos a contar de 1 de Janeiro de 1994, todas as explorações recém-construídas e/ou reconstruídas utilizadas pela primeira vez após essa data satisfaçam, pelo menos, as seguintes exigências:\n\n— os vitelos alojados em grupo devem dispor de suficiente espaço livre para se poderem virar e deitar sem dificuldade, bem como de, pelo menos, 1,5 m^2^ por cada animal com 150 kg de peso vivo,\n\n— quando os vitelos são alojados em compartimentos individuais ou amarrados em estábulos, os compartimentos individuais ou estábulos devem ter paredes com orifícios e a sua largura não deve ser inferior a 90 cm mais ou menos 10 % ou a 0,80 vezes a altura até ao garrote.\n\n2. O disposto no n.º 1 não se aplica às explorações com menos de seis vitelos.\n\n3. A partir de 1 de Janeiro de 1998, serão aplicáveis as seguintes disposições a todas as explorações novas ou reconstruídas, bem como a todas as explorações utilizadas pela primeira vez após essa data:\n\na) Nenhum vitelo com mais de oito semanas de idade pode ser confinado num compartimento individual, a menos que um veterinário tenha certificado que deve ser isolado, por razões de saúde ou de comportamento, e para efeitos de tratamento. A largura do compartimento individual deve ser pelo menos igual à altura do vitelo no garrote, medida com o vitelo em pé, devendo o comprimento ser pelo menos igual ao comprimento do corpo do vitelo, medido da ponta do nariz até à extremidade caudal do *tuber ischii* (osso ilíaco), multiplicado por 1,1.\n\nb) Relativamente aos vitelos criados em grupo, o espaço livre individual disponível para cada vitelo deve ser pelo menos igual a 1,5 m^2^ para os vitelos com um peso vivo inferior a 150 kg, pelo menos de 1,7 m^2^ para os vitelos com um peso vivo superior a 150 kg mas inferior a 220 kg e pelo menos de 1,8 m^2^ para os vitelos com um peso vivo superior a 220 kg.\n\nTodavia, o disposto no presente número não é aplicável:\n\n— às explorações com menos de seis vitelos,\n\n— aos vitelos que permanecem com as mães para aleitamento.\n\nA partir de 31 de Dezembro de 2006, as disposições acima previstas serão aplicáveis a todas as explorações.\n\n4. A duração de utilização das instalações construídas:\n\n— antes de 1 de Janeiro de 1994 e que não satisfaçam as exigências do n.º 1 é determinada pela autoridade competente, em função dos resultados das inspecções previstas no n.º 1 do artigo 7.º, e de modo algum ultrapassará o dia 31 de Dezembro de 2003."
+  },
+  "89d6a629b02b245d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros zelerão por que as condições de criação de vitelos sejam conformes com as disposições gerais constantes do anexo."
+  },
+  "b86decf3f6cc5d4f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs normas estipuladas no anexo podem ser alteradas nos termos do processo previsto no artigo 10.º, de modo a tomar em consideração os progressos científicos registados."
+  },
+  "248d9ab155e5c514": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO mais tardar em [**►M1**](http://publications.europa.eu/resource/celex/31997L0002) 1 de Janeiro de 2006**◄**, a Comissão apresentará ao Conselho um relatório elaborado com base num parecer do Comité Científico Veterinário, sobre o sistema ou sistemas de criação intensiva que satisfazem as exigências de bem-estar dos vitelos do ponto de vista patológico, zootécnico, psicológico e comportamental, e sobre as consequências socioeconómicas de cada um desses sistemas, eventualmente acompanhado das propostas adequadas em função das conclusões desse relatório.\n\nO Conselho deliberará sobre essas propostas por maioria qualificada o mais tardar decorridos três meses sobre a sua apresentação."
+  },
+  "f5514efefb70d318": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros velarão por que sejam efectuadas inspecções dos sistemas de criação sob a responsabilidade da autoridade central competente para verificar a observância do disposto na presente directiva e respectivo anexo.\n\nEssas inspecções, que podem ser feitas por ocasião de fiscalizações destinadas a outros fins, devem abranger, todos os anos, uma amostra estatisticamente representativa dos vários sistemas de criação de cada Estado-membro.\n\n2. A Comissão elaborará, de acordo com o processo previsto no artigo 10.º, um código com as normas a observar nas inspecções previstas no n.º 1.\n\n3. De dois em dois anos, antes do último dia útil do mês de Abril, e pela primeira vez antes de 30 de Abril de 1996, os Estados-membros informarão a Comissão dos resultados das inspecções feitas nos dois exercícios anteriores, nos termos do presente artigo, incluindo o número de inspecções efectuadas em relação ao número de explorações existentes no seu território."
+  },
+  "6e1125f77f676210": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara importação na Comunidade, os animais em proveniência de um país terceiro deverão ser acompanhados de um certificado emitido pela autoridade competente do país, que ateste que os animais beneficiaram de um tratamento pelo menos equivalente ao concedido aos animais de origem comunitária, tal como previsto pela presente directiva."
+  },
+  "16936a85926d112d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNa medida em que tal for necessário para a aplicação uniforme da presente directiva, podem ser efectuadas fiscalizações *in loco* por peritos veterinários da Comissão, em cooperação com as autoridades competentes. Nessa ocasião, os inspectores deverão aplicar para consigo próprios as medidas especiais de higiene adequadas à exclusão de quaisquer riscos de transmissão de doenças.\n\nO Estado-membro em cujo território for efectuada uma fiscalização deve proporcionar aos peritos todo o apoio necessário ao exercício das suas funções. A Comissão informará a autoridade central competente do Estado-membro em causa sobre o resultado das fiscalizações efectuadas.\n\nA autoridade competente do Estado-membro em causa tomará as medidas que se revelarem necessárias para atender aos resultasdos dessa inspecção.\n\nNo que se refere às relações com os países terceiros, será aplicável o disposto no capítulo III da Directiva 91/496/CEE ([^7^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0007)).\n\nAs regras gerais de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 10.º"
+  },
+  "716076cc27f23b94": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^8^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^9^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#E0009)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "603bf83e85866b5c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1994. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem estas disposições, elas deverão incluir uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-membros adoptarão as modalidades dessa referência.\n\n2. Todavia, a partir da data fixada no n.º 1, e no que se refere à protecção dos vitelos, os Estados-membros podem manter ou aplicar no seu território disposições mais rigorosas do que as previstas na presente directiva, desde que o façam nos termos das regras gerais do Tratado. Informarão imediatamente a Comissão de qualquer medida tomada nesse sentido."
+  },
+  "08b66beb65f6c7c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "9ce0e626493ced6d": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Os materiais utilizados na construção das instalações de estabulação com que os vitelos podem estar em contacto, em especial os das celas e equipamentos, não lhes devem ser prejudiciais e devem poder ser limpos e desinfectados a fundo.\n\n2. Enquanto não se estipularem normas comunitárias nessa matéria, os equipamentos e circuitos eléctricos devem ser instalados em conformidade com a regulamentação nacional em vigor para evitar qualquer choque eléctrico.\n\n3. O isolamento, o aquecimento e a ventilação do edifício devem assegurar que a circulação do ar, o teor de poeiras, a temperatura, a humidade relativa do ar e as concentrações de gases se mantenham dentro de limites que não sejam prejudiciais aos vitelos.\n\n4. Todo o equipamento automático ou mecânico indispensável para a saúde e o bem-estar dos vitelos deve ser inspeccionado, pelo menos, uma vez por dia. Se for detectada qualquer deficiência, esta deve ser imediatamente reparada; se tal for impossível, devem ser tomadas medidas adequadas, de modo a salvaguardar a saúde e o bem-estar dos vitelos até à reparação da deficiência, nomeadamente, mediante utilização de métodos alternativos de alimentação e manutenção de um ambiente satisfatório. Se for utilizado um sistema de ventilação artificial, deve prever-se um sistema de substituição adequado que garanta uma renovação de ar suficiente para preservar a saúde e o bem-estar dos vitelos em caso de avaria desse sistema, devendo existir igualmente um sistema de alarme que alerte o criador para a deficiência. O sistema de alarme deve ser testado regularmente.\n\n5. Os vitelos não devem ser mantidos permanentemente na obscuridade. Para isso, a fim de satisfazer as suas necessidades comportamentais e fisiológicas, deve prever-se, tendo em conta as diferentes condições climatéricas dos Estados-membros, uma iluminação adequada natural ou artificial que, neste último caso, deverá ser no mínimo equivalente à duração da iluminação natural normalmente disponível entre as 9 e as 17 horas. Além disso, deverá existir uma iluminação adequada (fixa ou amovível) suficientemente intensa para permitir a inspecção dos vitelos em qualquer momento.\n\n6. Todos os vitelos criados em estábulo devem ser inspeccionados pelo menos duas vezes por dia pelo proprietário ou pelo responsável pelos animais, devendo os vitelos criados ao ar livre ser inspeccionados pelo menos uma vez por dia. Qualquer vitelo que pareça estar doente ou ferido deve ser tratado adequadamente sem demora, devendo, logo que possível, consultar-se um veterinário no caso de o vitelo não reagir ao tratamento aplicado pelo criador. Quando seja necessário, os vitelos doentes ou feridos serão isolados em compartimentos adequados equipados com camas secas e confortáveis.\n\n7. As instalações para os vitelos devem ser construídas de modo a permitir que cada animal se deite, descanse e levante e satisfaça as suas necessidades fisiológicas sem dificuldades e sem perigo.\n\n8. Os vitelos não devem estar amarrados, com excepção dos vitelos alojados em grupo, que podem ser amarrados por períodos não superiores a uma hora na altura em que é administrado o leite ou leites de substituição. No caso de estarem amarrados, as amarras não devem provocar ferimentos nos vitelos, devendo ser inspeccionadas regularmente e, se necessário, ajustadas, de modo a não constituírem um incómodo. Todas as amarras devem ser de molde a excluir qualquer possibilidade de estrangulamento ou ferimento e a permitir que os animais se movimentem conforme descrito no ponto 7.\n\n9. As instalações, compartimentos, equipamento e utensílios destinados aos vitelos devem ser regularmente limpos e desinfectados, a fim de prevenir a contaminação cruzada e o desenvolvimento de organismos patogénicos. As fezes e a urina bem como os alimentos não consumidos ou derramados devem ser eliminados tão frequentemente quanto possível, para reduzir ao mínimo os cheiros e não atrair moscas e roedores.\n\n10. O pavimento deve ser antiderrapante mas sem arestas, para evitar que os animais se firam e ser concebido por forma a não causar ferimentos ou sofrimento quer quando os animais estão de pé quer quando estão deitados. O pavimento deve ser adequado ao tamanho e peso dos animais, e formar uma superfície rígida, plana e estável. A área de repouso deve ser confortável, limpa e convenientemente drenada e não prejudicar os vitelos. Deve haver uma cama para todos os vitelos com menos de duas semanas.\n\n11. Para favorecer a saúde e o bem-estar dos vitelos, deve-lhes ser ministrada uma alimentação adequada à sua idade, peso e necessidades comportamentais e fisiológicas. Para tal, essa alimentação deve fornecer uma quantidade suficiente de ferro para garantir um teor médio de hemoglobina no sangue de, pelo menos, 4,5 mmol/litro e incluir uma ração diária mínima de alimentos fibrosos para cada vitelo a partir da idade de duas semanas, a qual deve ser aumentada de 50 g para 250 g em relação aos vitelos com idade compreendida entre oito e 20 semanas. Os vitelos não devem ser açaimados.\n\n12. Todos os vitelos devem ser alimentados, pelo menos, [**►M2**](http://publications.europa.eu/resource/celex/31997D0182) duas vezes**◄** por dia. Quando os vitelos alojados em grupo não são alimentados *ad libitum* nem por meio de um sistema automático de alimentação, cada vitelo deve ter acesso aos alimentos ao mesmo tempo que os outros animais do grupo.\n\n13. Os vitelos com mais de duas semanas devem ter acesso diariamente a água fresca adequada, em quantidade suficiente ou poder satisfazer as suas necessidades de líquido com outras bebidas.[**►M2**](http://publications.europa.eu/resource/celex/31997D0182) No entanto, quando sujeitos a temperaturas elevadas por força das condições meteorológicas ou quando doentes, os vitelos devem dispor permanentemente de água fresca para abeberamento.**◄**\n\n14. O equipamento de alimentação e de abeberamento deve ser concebido, construído, colocado e mantido de modo a minimizar os riscos de contaminação dos alimentos e da água destinados aos animais.\n\n15. Todos os vitelos devem receber colostro de vaca logo que possível a seguir ao nascimento e, em qualquer caso, nas primeiras seis horas de vida.\n\n---"
+  },
+  "56fc2d9a67887af9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0001)) JO n.º C 214 de 21.8.1989, p. 28.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0002)) JO n.º C 113 de 7.5.1990, p. 180.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0003)) JO n.º C 62 de 12.3.1990, p. 37.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0004)) JO n.º L 323 de 17.11.1978, p. 12.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0005)) JO n.º C 76 de 23. 3. 1987, p. 185.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0006)) JO n.º L 224 de 18.8.1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO n.º L 268 de 24.9.1991, p. 56).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0007)) JO n.º L 268 de 24.9.1991, p. 56.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0008)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/674b7dfe-addd-4a70-a895-6c1806b00568.0018.03/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "402504fefd9fc883": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0629 — PT — 04.02.2009 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0629) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0629) [de 19 de Novembro de 1991](http://publications.europa.eu/resource/celex/31991L0629) [relativa às normas mínimas de protecção dos vitelos](http://publications.europa.eu/resource/celex/31991L0629) [(91/629/CEE)](http://publications.europa.eu/resource/celex/31991L0629) (JO L 340, 11.12.1991, p.28)\n\n**revogado por:**\n\n- [Directiva 2008/119/CE do Conselho de 18 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0119) — L 10 — 7 — 15.1.2009"
+  }
+ }
+}

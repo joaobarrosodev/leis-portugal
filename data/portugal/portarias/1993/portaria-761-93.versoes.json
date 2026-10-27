@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632070:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-945209569",
+ "dre_path": "/dr/detalhe/portaria/761-1993-632070",
+ "source_lastmod": "2025-11-11",
+ "versions": [
+  {
+   "date": "1993-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944876339",
+    "944876341",
+    "944876342",
+    "944876343",
+    "944876344",
+    "944876345",
+    "944876346",
+    "944876347",
+    "944876348",
+    "944876349",
+    "944876350"
+   ]
+  },
+  {
+   "date": "1993-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:664528:por",
+     "title": "Declaração de Rectificação n.º 222/93",
+     "published": "1993-10-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/222-1993-664528"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 10.º"
+   ],
+   "fragments": [
+    "944876339",
+    "944876341",
+    "944876353",
+    "944876343",
+    "944876344",
+    "944876355",
+    "944876346",
+    "944876347",
+    "944876348",
+    "944876349",
+    "944876354",
+    "944876340"
+   ]
+  }
+ ],
+ "fragments": {
+  "944876339": {
+   "fragment_id": "945209570",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 761/93\n\nde 27 de Agosto\n\nO Plano Regional de Ordenamento do Território do Litoral Alentejano (PROTALI), aprovado pelo Decreto Regulamentar Registo n.º 26/93, de 27 de Agosto, estabelece o regime de uso, ocupação e transformação do solo daquela sub-região.\n\nPara a faixa litoral, o PROTALI estabelece condicionantes rigorosas de edificação que visam compatibilizar as exigências do desenvolvimento da área com os imperativos de salvaguarda e de protecção dos valores em causa.\n\nAs áreas de desenvolvimento turístico previstas no PROTALI obedecem ao disposto nos artigos 39.º, 40.º e 41.º do decreto regulamentar referido, competindo ao Governo definir regras para a sua delimitação e ocupação.\n\nAssim, através da presente portaria, consagram-se normas que, sem pôr em causa os princípios de salvaguarda da faixa costeira, permitem uma real descontinuidade da edificação ao longo da costa e ainda disponibilizam ao sector do turismo um leque alargado de tipologias de alojamento, diversificando a oferta e valorizando o investimento mobilizador de uma actividade geradora de emprego.\n\nA capacidade máxima em termos populacionais ou de camas turísticas resulta da conjugação de quatro critérios de natureza distinta, nomeadamente biofísico, físico-social, económico e cultural, e corresponde ao limite máximo de ocupação a considerar para as áreas de desenvolvimento turístico, contabilizando as construções existentes e as previstas, quer estas digam respeito a empreendimentos turísticos, a operações de loteamento ou a construções isoladas.\n\nAssim, nos termos do n.º 2 do artigo 41.º do Decreto Regulamentar Registo n.º 26/93, de 27 de Agosto:\n\nManda o Governo, pelos Ministros do Planeamento e da Administração do Território, do Comércio e Turismo e do Ambiente e Recursos Naturais, o seguinte:"
+  },
+  "944876341": {
+   "fragment_id": "945209572",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nAs áreas de desenvolvimento turístico devem desenvolver-se em forma de «cunha», estreitando à medida que se aproximam da costa e alargando para o interior."
+  },
+  "944876342": {
+   "fragment_id": "945209573",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nEntre as áreas de desenvolvimento turístico será acautelada a existência de zonas naturais, florestais ou agrícolas com um mínimo de 5 km medidos paralelamente à costa, com excepção para as áreas de desenvolvimento turístico, a definir nas UNOR 5 e 6."
+  },
+  "944876343": {
+   "fragment_id": "945209574",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nAs ligações das áreas de desenvolvimento turístico às praias têm de ser efectuadas através das vias públicas a que se referem os n.os 7 e 8 do artigo 9.º do Decreto Regulamentar n.º 26/93, de 27 de Agosto, que também asseguram a ligação de tais áreas turísticas à rede rodoviária geral, não sendo permitido qualquer outro tipo de acesso não pedonal directo às praias."
+  },
+  "944876344": {
+   "fragment_id": "945460775",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nNas zonas envolventes das áreas de desenvolvimento turístico não podem ser previstos usos ou ocupações incompatíveis com um turismo de qualidade."
+  },
+  "944876345": {
+   "fragment_id": "945460776",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nOs planos de pormenor a elaborar para as áreas de desenvolvimento turístico devem obedecer aos parâmetros urbanísticos constantes das alíneas seguintes:\n\na) 55% das camas turísticas devem respeitar obrigatoriamente e estabelecimentos hoteleiros classificados nos grupos 1 (hotéis), 4 (estalagens) e 6 (hotéis-apartamentos) a que se refere o artigo 12.º do Decreto-Lei n.º 328/86, de 30 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 149/88, de 27 de Abril;\n\nb) Para os estabelecimentos hoteleiros classificados nos grupos 1 (hotéis), 4 (estalagens) e 6 (hotéis-apartamentos) a que se refere o artigo 12.º do Decreto-Lei n.º 328/86, de 30 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 149/88, de 27 de Abril, devem fixar-se os seguintes índices:\n\n1) Densidade populacional inferior ou igual a 70 habitantes/ha;\n\n2) Coeficiente de impermeabilização do solo (CIS) inferior ou igual a 0,30;\n\n3) Cércea máxima de 8 m, desde que devidamente enquadrada na paisagem envolvente;\n\nc) Para os loteamentos, construções e empreendimentos turísticos abrangidos pelo Decreto-Lei n.º 328/86, de 30 de Setembro, e não incluídos na alínea anterior devem fixar-se os seguintes índices:\n\n1) Densidade populacional inferior ou igual a 25 habitantes/ha;\n\n2) CIS inferior ou igual a 0,20;\n\n3) Cércea máxima de 6,50 m;\n\nd) A divisão entre parcelas ou lotes deve, em princípio, ser feita com arranjos paisagísticos devidamente integrados e, quando seja necessária a construção de muros de alvenaria ou tijolo, não poderão estes possuir altura superior a 0,80 m relativamente ao nível natural do terreno;\n\ne) As áreas de estacionamento devem, preferencialmente, ser construídas no subsolo;\n\nf) As áreas de estacionamento devem respeitar os parâmetros constantes da Portaria n.º 1182/92, de 22 de Dezembro, do Ministro do Planeamento e da Administração do Território, e ainda, no que diz respeito a empreendimentos turísticos, os seguintes:\n\nUm lugar por cada três camas, relativamente a estabelecimentos hoteleiros;\n\nUm lugar por apartamento;\n\nDois lugares por fogo, relativamente a moradias unifamiliares."
+  },
+  "944876346": {
+   "fragment_id": "945460777",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nAs áreas de desenvolvimento turístico devem ser dimensionadas considerando que cada UNOR tem como capacidade máxima:\n\na) Em termos de camas turísticas, os seguintes limites:\n\nUNOR 1 - 10000;\n\nUNOR 2 - 4500;\n\nUNOR 3 - 5700;\n\nUNOR 4 - 5175;\n\nUNOR 5 - 2100;\n\nUNOR 6 - 2250.\n\nb) Em termos populacionais, nomeadamente em segunda residência, os seguintes limites:\n\nUNOR 1 - 0;\n\nUNOR 2 - 1500;\n\nUNOR 3 - 1900;\n\nUNOR 4 - 1725;\n\nUNOR 5 - 700;\n\nUNOR 6 - 750."
+  },
+  "944876347": {
+   "fragment_id": "945460778",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nA capacidade máxima da UNOR 7, quer em termos de camas turísticas quer em termos populacionais, será definida em conformidade com o Plano de Ordenamento da Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina."
+  },
+  "944876348": {
+   "fragment_id": "945460779",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nA capacidade máxima definida no n.º 6.º será revista, ouvido o conselho de acompanhamento e avaliação, quando, encontrando-se a mesma esgotada por força de empreendimentos já construídos, o estudo de avaliação das respectivas incidências sobre o ordenamento do território e do ambiente conclua em sentido favorável à redefinição dos valores agora fixados."
+  },
+  "944876349": {
+   "fragment_id": "945460780",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nAs áreas de desenvolvimento turístico devem ser dimensionadas por forma a não ocupar mais de 7,5% da UNOR, com a excepção das situadas nas UNOR 1 e 6, que não poderão ocupar mais de, respectivamente, 20% e 10%."
+  },
+  "944876350": {
+   "fragment_id": "945460781",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nPara efeitos da presente portarias entende-se por:\n\n«Área total do terreno (AT)», a área de um prédio ou prédios, qualquer que seja o uso do solo preconizado, sobre a qual incide a operação urbanística;\n\n«Área urbanizável (AU)», a área definida como edificável de parte ou da totalidade de um ou mais prédios, que inclui as áreas de implantação das construções, dos logradouros e as destinadas às infra-estruturas e exclui, designadamente, as áreas das Reservas Agrícola e Ecológica Nacionais;\n\n«Área de impermeabilização (AI)», a área total de implantação mais a área resultante dos solos pavimentados com materiais impermeáveis ou que propiciem o mesmo efeito, designadamente para arruamentos, estacionamentos, equipamentos desportivos e outros, logradouros, etc.;\n\n«Coeficiente de impermeabilização do solo (CIS)», o quociente entre a área total de impermeabilização e a área urbanizável:\n\nCIS = (AI)/(AU)\n\n««Densidade populacional (D)», o quociente entre a população prevista e a área urbanizável:\n\nD = (Pp)/(Au)\n\n«Cércea (C)», a dimensão vertical da construção, contada a partir do ponto da cota média do terreno no alinhamento da fachada até à linha superior do beirado ou platibanda ou guarda do terraço;\n\n«Camas turísticas (CM)», os lugares (por pessoa) em estabelecimentos hoteleiros, em meios complementares do alojamento turístico e em conjuntos turísticos previstos no Decreto-Lei n.º 328/86, de 30 de Setembro."
+  },
+  "944876353": {
+   "fragment_id": "945209573",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1993-10-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 222/93 - Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1993-664528), em vigor a partir de 1993-10-30"
+   ],
+   "markdown": "###### 2.º\n\nEntre as áreas de desenvolvimento turístico será acautelada a existência de zonas naturais, florestais ou agrícolas, com o mínimo de 5 km medidos paralelamente à costa, com excepção para as áreas de desenvolvimento turístico, a definir nas UNOR 5 e 6.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 222/93 - Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1993-664528), em vigor a partir de 1993-10-30"
+  },
+  "944876355": {
+   "fragment_id": "945460776",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "1993-10-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 222/93 - Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1993-664528), em vigor a partir de 1993-10-30"
+   ],
+   "markdown": "###### 5.º\n\nOs planos de pormenor a elaborar para as áreas de desenvolvimento turístico devem obedecer aos parâmetros urbanísticos constantes das alíneas seguintes:\n\na) 55% das camas turísticas devem respeitar obrigatoriamente e estabelecimentos hoteleiros classificados nos grupos 1 (hotéis), 4 (estalagens) e 6 (hotéis-apartamentos) a que se refere o artigo 12.º do Decreto-Lei n.º 328/86, de 30 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 149/88, de 27 de Abril;\n\nb) Para os estabelecimentos hoteleiros classificados nos grupos 1 (hotéis), 4 (estalagens) e 6 (hotéis-apartamentos) a que se refere o artigo 12.º do Decreto-Lei n.º 328/86, de 30 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 149/88, de 27 de Abril, devem fixar-se os seguintes índices:\n\n1) Densidade populacional inferior ou igual a 70 habitantes/ha;\n\n2) Coeficiente de impermeabilização do solo (CIS) inferior ou igual a 0,30;\n\n3) Cércea máxima de 8 m, desde que devidamente enquadrada na paisagem envolvente;\n\nc) Para os loteamentos, construções e empreendimentos turísticos abrangidos pelo Decreto-Lei n.º 328/86, de 30 de Setembro, e não incluídos na alínea anterior devem fixar-se os seguintes índices:\n\n1) Densidade populacional inferior ou igual a 25 habitantes/ha;\n\n2) CIS inferior ou igual a 0,20;\n\n3) Cércea máxima de 6,50 m;\n\nd) A divisão entre parcelas ou lotes deve, em princípio, ser feita com arranjos paisagísticos devidamente integrados e, quando seja necessária a construção de muros de alvenaria ou tijolo, não poderão estes possuir altura superior a 0,80 m relativamente ao nível natural do terreno;\n\ne) As áreas de estacionamento devem, preferencialmente, ser construídas no subsolo;\n\nf) As áreas de estacionamento devem respeitar os parâmetros constantes da Portaria n.º 1182/92, de 22 de Dezembro, do Ministro do Planeamento e da Administração do Território, e ainda, no que diz respeito a empreendimentos turísticos, os seguintes:\n\nUm lugar por cada três camas, relativamente a estabelecimentos hoteleiros;\n\nUm lugar por apartamento;\n\nDois lugares por fogo, relativamente a moradias unifamiliares.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 222/93 - Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1993-664528), em vigor a partir de 1993-10-30"
+  },
+  "944876354": {
+   "fragment_id": "945460781",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "1993-10-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 222/93 - Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1993-664528), em vigor a partir de 1993-10-30"
+   ],
+   "markdown": "###### 10.º\n\nPara efeitos da presente portarias entende-se por:\n\n«Área total do terreno (AT)», a área de um prédio ou prédios, qualquer que seja o uso do solo preconizado, sobre a qual incide a operação urbanística;\n\n«Área urbanizável (AU)», a área definida como edificável de parte ou da totalidade de um ou mais prédios, que inclui as áreas de implantação das construções, dos logradouros e as destinadas às infra-estruturas e exclui, designadamente, as áreas das Reservas Agrícola e Ecológica Nacionais;\n\n«Área de impermeabilização (AI)», a área total de implantação mais a área resultante dos solos pavimentados com materiais impermeáveis ou que propiciem o mesmo efeito, designadamente para arruamentos, estacionamentos, equipamentos desportivos e outros, logradouros, etc.;\n\n«Coeficiente de impermeabilização do solo (CIS)», o quociente entre a área total de impermeabilização e a área urbanizável:\n\nCIS = (AI)/(AU)\n\n««Densidade populacional (D)», o quociente entre a população prevista e a área urbanizável:\n\nD = (Pp)/(Au)\n\n«Cércea (C)», a dimensão vertical da construção, contada a partir do ponto da cota média do terreno no alinhamento da fachada até à linha superior do beirado ou platibanda ou guarda do terraço;\n\n«Camas turísticas (CM)», os lugares (por pessoa) em estabelecimentos hoteleiros, em meios complementares do alojamento turístico e em conjuntos turísticos previstos no Decreto-Lei n.º 328/86, de 30 de Setembro.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 222/93 - Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1993-664528), em vigor a partir de 1993-10-30"
+  },
+  "944876340": {
+   "fragment_id": "945209571",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios do Planeamento e da Administração do Território, do Comércio e Turismo e do Ambiente e Recursos Naturais.\n\nAssinada em 15 de Julho de 1993.\n\nO Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia."
+  }
+ }
+}

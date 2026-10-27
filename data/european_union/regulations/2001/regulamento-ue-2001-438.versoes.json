@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R0438:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0438-20070116",
+ "dre_path": null,
+ "source_lastmod": "2007-01-16",
+ "versions": [
+  {
+   "date": "2001-03-03",
+   "future": false,
+   "celex": "32001R0438",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4fc7d3be44319f1a",
+    "09c58f24a89350b7",
+    "13ae1842d4504578",
+    "ce3ab362d57aeb5f",
+    "144af70dae426824",
+    "828d880d73074b01",
+    "b4e13b8672cdbb6b",
+    "db45a7f9da90fd57",
+    "52bda7ebb0e6947e",
+    "643b77e6ef6b8457",
+    "4cdb21e10d6310a8",
+    "780973a8677b5224",
+    "2c11d0d63cbd0d64",
+    "304c1f0ce73dd71a",
+    "442a561265c7af79",
+    "0dc5d1d0f1ebc0c3",
+    "1887018a126d3925",
+    "6f56713429656b28",
+    "cd88a8566e84c86f",
+    "bc95230b6623d4ca",
+    "ca067b598956df13",
+    "fcdcc4cf1fc9ef30",
+    "0832ad7b2d58f981",
+    "1ca8a8eb28fa216e",
+    "c2915df1feda9990",
+    "355c4ca657d4fa45",
+    "bb056bbab0b85e01",
+    "81cd0dfe830ab5a4",
+    "f96e80c7700de1e7",
+    "2f420780191fe9c6",
+    "3dcbe1f8887bec10",
+    "2a841b35a92cdb3f",
+    "929f569e5be14bad",
+    "d3f464ad32d045c7",
+    "76cec68a097c2130",
+    "2e200f3f458fe832"
+   ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "celex": "02001R0438-20070116",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Âmbito de aplicação",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II — Sistemas de gestão e de controlo",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime CAPÍTULO III — Certificação de despesas",
+    "Suprime Artigo 9.º",
+    "Suprime CAPÍTULO IV — Controlos por amostragem",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º — As disposições do presente capítulo aplicar-se-ão, mutatis mutandis, aos montantes a recuperar referidos no artigo 8.o",
+    "Suprime CAPÍTULO V — Declaração aquando do encerramento de uma intervenção",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime CAPÍTULO VI — Forma e conteúdo das informações contabilísticas a manter e a comunicar à Comissão se solicitadas",
+    "Suprime Artigo 18.º",
+    "Suprime CAPÍTULO VII — Disposições gerais e finais",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO SUFICIENTE (artigo 7.o)",
+    "Suprime ANEXO II — >PIC FILE= \"L_2001063PT.002802.EPS\">",
+    "Suprime ANEXO III — >PIC FILE= \"L_2001063PT.003402.EPS\">",
+    "Suprime ANEXO IV",
+    "Suprime ANEXO V — ESPECIFICAÇÕES TÉCNICAS PREFERIDAS PARA A TRANSMISSÃO DE FICHEIROS INFORMÁTICOS À COMISSÃO"
+   ],
+   "fragments": [
+    "42857f96917ea418"
+   ]
+  }
+ ],
+ "fragments": {
+  "4fc7d3be44319f1a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 438/2001 da Comissão, de 2 de Março de 2001, que estabelece as regras de execução do Regulamento (CE) n.° 1260/1999 do Conselho no que respeita aos sistemas de gestão e de controlo das intervenções no quadro dos Fundos estruturais** *Jornal Oficial nº L 063 de 03/03/2001 p. 0021 - 0043*\n\nRegulamento (CE) n.o 438/2001 da Comissão\n\nde 2 de Março de 2001\n\nque estabelece as regras de execução do Regulamento (CE) n.o 1260/1999 do Conselho no que respeita aos sistemas de gestão e de controlo das intervenções no quadro dos Fundos estruturais\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos estruturais(1), e, nomeadamente, o n.o 2 do seu artigo 53.o,\n\nApós consulta do Comité previsto no artigo 147.o do Tratado,\n\nApós consulta do Comité das Estruturas Agrícolas e do Desenvolvimento Rural,\n\nApós consulta do Comité do Sector da Pesca e da Aquicultura,\n\nConsiderando o seguinte:\n\n(1) O artigo 38.o do Regulamento (CE) n.o 1260/1999 exige que os Estados-Membros tomem medidas para garantir que os fundos comunitários são utilizados eficaz e correctamente, segundo os princípios de boa gestão financeira.\n\n(2) Para o efeito, é necessário que os Estados-Membros forneçam uma orientação adequada relativamente à organização das funções pertinentes das autoridades de gestão e de pagamento previstas pelos artigos 32.o e 34.o do Regulamento (CE) n.o 1260/1999.\n\n(3) O artigo 38.o do Regulamento (CE) n.o 1260/1999 prevê que os Estados-Membros cooperem com a Comissão para que esta se assegure de que dispõem de sistemas de gestão e de controlo que funcionam adequadamente e fornecer-lhe toda a assistência necessária para a realização de controlos, incluindo os controlos por amostragem.\n\n(4) Para harmonizar as normas relativas à certificação das despesas relativamente às quais são pedidos pagamentos a título dos n.os 3 e 4 do artigo 32.o do Regulamento (CE) n.o 1260/1999, o conteúdo de tais certificados devia ser definido e a natureza e a qualidade das informações em que se baseiam especificada.\n\n(5) Para que a Comissão possa realizar os controlos exigidos pelo n.o 2 do artigo 38.o do Regulamento (CE) n.o 1260/1999, os Estados-Membros deviam fornecer-lhe, a seu pedido, os dados de que as autoridades de gestão necessitam para cumprir os requisitos em matéria de gestão, acompanhamento e avaliação previstos no mesmo regulamento. É necessário definir o conteúdo desses dados, bem como o formato e meios para a transmissão dos ficheiros informáticos em conformidade com o n.o 3, alínea e), do artigo 18.o desse regulamento. A Comissão devia garantir a confidencialidade e a segurança dos dados, tanto informatizados como de outro tipo.\n\n(6) O Regulamento (CE) n.o 2064/97 da Comissão, de 15 de Outubro de 1997, que estabelece normas de execução do Regulamento (CEE) n.o 4253/88 do Conselho, no que respeita ao controlo financeiro, pelos Estados-Membros, das operações co-financiadas pelos Fundos estruturais(2), alterado pelo Regulamento (CE) n.o 2406/98(3) devia ser substituído. Todavia, as disposições do Regulamento (CE) n.o 2064/97 deviam continuar a aplicar-se às intervenções relativas ao período de programação 1994-1999, nos termos do Regulamento (CEE) n.o 2052/88 do Conselho(4), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3193/94(5).\n\n(7) O presente regulamento devia aplicar-se sem prejuízo das disposições relativas ao controlo in loco no domínio dos auxílios estatais estabelecidas no artigo 22.o do Regulamento (CE) n.o 659/1999 do Conselho, de 22 de Março de 1999, que estabelece as regras de execução do artigo 93.o do Tratado CE(6).\n\n(8) O presente regulamento devia aplicar-se sem prejuízo das disposições do Regulamento (Euratom, CE) n.o 2185/96 do Conselho, de 11 de Novembro de 1996, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades(7).\n\n(9) As disposições do Regulamento (CE) n.o 1681/94 da Comissão, de 11 de Julho de 1994, relativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio(8) aplicam-se às intervenções ao abrigo do Regulamento (CE) n.o 1260/1999, em virtude do n.o 2 do seu artigo 54.o e do n.o 1, alínea e) do seu artigo 38.o\n\n(10) O presente regulamento devia aplicar-se de acordo com o princípio da subsidiariedade, referido no n.o 3 do artigo 8.o do Regulamento (CE) n.o 1260/1999, e sem prejuízo dos sistemas institucionais, legais e financeiros do respectivo Estado-Membro, conforme se refere no último parágrafo do n.o 1 do artigo 34.o do mesmo regulamento.\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para o Desenvolvimento e a Reconversão das Regiões,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "09c58f24a89350b7": {
+   "fragment_id": "CAPÍTULO I — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação"
+  },
+  "13ae1842d4504578": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras de execução do Regulamento (CE) n.o 1260/1999 no que respeita aos sistemas de gestão e de controlo das intervenções no quadro dos Fundos estruturais que são geridas pelos Estados-Membros."
+  },
+  "ce3ab362d57aeb5f": {
+   "fragment_id": "CAPÍTULO II — Sistemas de gestão e de controlo",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Sistemas de gestão e de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Sistemas de gestão e de controlo"
+  },
+  "144af70dae426824": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Cada Estado-Membro garantirá que as autoridades de gestão e de pagamento e os organismos intermédios recebam uma orientação adequada relativamente à organização dos sistemas de gestão e de controlo necessários para garantir a boa gestão financeira dos Fundos estruturais, em conformidade com as normas e princípios geralmente aceites e, nomeadamente, para proporcionar uma garantia adequada da correcção, regularidade e elegibilidade dos pedidos de ajuda comunitária.\n\n2. Para efeitos do presente regulamento, por \"organismos intermédios\" entendem-se quaisquer organismos ou serviços, públicos ou privados, que actuem sob a responsabilidade das autoridades de gestão ou de pagamento ou realizem tarefas por conta destas últimas na relação com beneficiários finais ou orgãos ou empresas responsáveis pelas operações."
+  },
+  "828d880d73074b01": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs sistemas de gestão e de controlo das autoridades de gestão e de pagamento e de todos os organismos intermédios, tendo em conta a proporcionalidade em relação ao volume da ajuda administrada, proporcionarão:\n\na) Uma definição e atribuição claras e, sempre que necessário para garantir uma boa gestão financeira, uma separação adequada, das funções no âmbito da organização em causa;\n\nb) Sistemas eficazes que garantam que as funções sejam desempenhadas de um modo satisfatório;\n\nc) No caso dos organismos intermédios, a comunicação de informações à autoridade responsável sobre o desempenho das suas tarefas e os meios utilizados."
+  },
+  "b4e13b8672cdbb6b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs sistemas de gestão e de controlo incluirão procedimentos para verificação do fornecimento de bens e serviços co-financiados e da veracidade das despesas objecto de pedidos, bem como garantirão a conformidade com os termos da decisão pertinente da Comissão a título do artigo 28.o do Regulamento (CE) n.o 1260/1999 e com as regras nacionais e comunitárias aplicáveis relativas, nomeadamente, à elegibilidade das despesas para o apoio dos Fundos estruturais a título da intervenção em causa, aos contratos públicos, aos auxílios estatais (incluindo as regras sobre a acumulação de auxílios), à protecção do ambiente e à igualdade de oportunidades.\n\nOs procedimentos deverão prever a conservação da documentação relativa às verificações no local de operações individuais. Dos registos constará o trabalho efectuado, os resultados das verificações e as medidas tomadas relativamente a discrepâncias. No caso de verificações físicas ou administrativas não exaustivas, baseadas numa amostra de operações, os registos identificarão as operações seleccionadas e descreverão o método de amostragem adoptado."
+  },
+  "db45a7f9da90fd57": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, relativamente a cada intervenção, nos três meses seguintes à aprovação da intervenção, ou à entrada em vigor do presente regulamento se esta for posterior, a organização das autoridades de gestão e de pagamento e dos organismos intermédios, os sistemas de gestão e de controlo aplicados por essas autoridades e organismos e as melhorias previstas de acordo com a orientação referida no n.o 1 do artigo 2.o\n\n2. A comunicação conterá, relativamente a cada autoridade de gestão e de pagamento e a cada organismo intermédios, as seguintes informações:\n\na) As funções que lhe foram atribuídas;\n\nb) A repartição de funções entre os seus serviços ou no interior dos mesmos, incluindo entre a autoridade de gestão e a autoridade de pagamento quando se tratar do mesmo orgão;\n\nc) Os procedimentos de recepção, verificação e validação dos pedidos de pagamento de despesas, bem como os procedimentos de autorização, efectivação e contabilização de pagamentos aos beneficiários; e\n\nd) As disposições com vista à auditoria dos sistemas de gestão e de controlo.\n\n3. Sempre que se aplique um sistema comum a várias intervenções, pode ser comunicada uma descrição desse sistema comum."
+  },
+  "52bda7ebb0e6947e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Comissão, em cooperação com o Estado-Membro, assegurar-se-á de que os sistemas de gestão e de controlo a que se refere o artigo 5.o satisfazem as regras previstas pelo Regulamento (CE) n.o 1260/1999 e pelo presente regulamento e indicará os eventuais obstáculos que se apresentem no que se refere à transparência dos controlos do funcionamento dos Fundos e ao cumprimento das responsabilidades da Comissão a título do artigo 274.o do Tratado. A operacionalidade dos sistemas será examinada regularmente."
+  },
+  "643b77e6ef6b8457": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os sistemas de gestão e de controlo dos Estados-Membros assegurarão uma pista de controlo suficiente.\n\n2. Uma pista de controlo será considerada suficiente quando permita:\n\na) Reconciliar os montantes totais certificados comunicados à Comissão com os registos de despesas e documentos comprovativos aos diferentes níveis da administração e ao dos beneficiários finais, incluindo, quando estes não forem os últimos destinatários dos fundos, os organismos ou empresas que realizem as operações; e\n\nb) Verificar a atribuição e as transferências dos fundos comunitários e nacionais disponíveis.\n\nUma descrição indicativa das informações necessárias para uma pista de controlo suficiente figura no anexo I.\n\n3. A autoridade de gestão assegurar-se-á de que:\n\na) Existem procedimentos para garantir que todos os documentos pertinentes para determinadas despesas e pagamentos efectuados a título da intervenção em causa e exigidos para proporcionar uma pista de controlo suficiente são mantidos em conformidade com as exigências do n.o 6 do artigo 38.o do Regulamento (CE) n.o 1260/1999 e com o anexo I do presente regulamento;\n\nb) Existe um registo sobre o orgão que os detém e a sua localização; e\n\nc) Esses documentos se encontram disponíveis para efeitos de inspecção por pessoas ou organismos normalmente habilitados para tal.\n\nEssas pessoas e organismos serão:\n\ni) o pessoal das autoridades de gestão e de pagamento e dos organismos intermédios que processa os pedidos de pagamento,\n\nii) os serviços que realizam auditorias dos sistemas de gestão e de controlo,\n\niii) a pessoa ou o serviço da autoridade de pagamento responsável pela certificação dos pedidos de pagamento intermédios e finais a título dos n.os 3 e 4 do artigo 32.o do Regulamento (CE) n.o 1260/1999 e a pessoa ou serviço que emite a declaração prevista no n.o 1, alínea f), do artigo 38.o desse regulamento,\n\niv) os agentes mandatados das instituições nacionais de auditoria e da Comunidade Europeia.\n\nEssas pessoas e organismos podem exigir que lhes sejam fornecidos extractos ou cópias dos documentos ou dos registos contabilísticos referidos no presente número."
+  },
+  "4cdb21e10d6310a8": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA autoridade de gestão ou de pagamento manterá uma contabilidade dos montantes a recuperar relativamente a pagamentos da ajuda comunitária já efectuados e garantirá que esses montantes sejam recuperados sem demora injustificada. Depois da recuperação, a autoridade de pagamento reembolsará o pagamento irregular recuperado, juntamente com os juros de mora cobrados, deduzindo os montantes em causa da declaração de despesas e do pedido de pagamento seguintes a enviar à Comissão, ou, se esse montante for insuficiente, reembolsando a diferença à Comunidade. A autoridade de pagamento enviará anualmente à Comissão, em anexo ao quarto relatório trimestral sobre as recuperações fornecido a título do Regulamento (CE) n.o 1681/94, uma declaração com os montantes cuja recuperação se encontra pendente nessa data, classificados de acordo com o ano de início do procedimento de recuperação."
+  },
+  "780973a8677b5224": {
+   "fragment_id": "CAPÍTULO III — Certificação de despesas",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Certificação de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Certificação de despesas"
+  },
+  "2c11d0d63cbd0d64": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os certificados das declarações intermédias e finais de despesas referidos nos n.os 3 e 4 do artigo 32.o do Regulamento (CE) n.o 1260/1999 serão estabelecidos, de acordo com o modelo constante do anexo II, por uma pessoa ou serviço da autoridade de pagamento que seja funcionalmente independente dos serviços que autorizam os pagamentos.\n\n2. Antes da certificação de uma dada declaração de despesas, a autoridade de pagamento assegurar-se-á de que estão reunidas as seguintes condições:\n\na) A autoridade de gestão e os organismos intermédios respeitaram o disposto no Regulamento (CE) n.o 1260/1999, nomeadamente o n.o 1, alíneas c) e e), do seu artigo 38.o e os n.os 3 e 4 do seu artigo 32.o, bem como os termos da decisão da Comissão a título do artigo 28.o do mesmo regulamento;\n\nb) A declaração de despesas inclui exclusivamente despesas:\n\ni) que ocorreram efectivamente dentro do período de elegibilidade estabelecido na decisão sob a forma de despesas dos beneficiários finais, com o entendimento dos n.os 1.2, 1.3 e 2 da regra n.o 1 do anexo ao Regulamento (CE) n.o 1685/2000 da Comissão(9), que possam ser justificadas por facturas e respectivos recibos ou outros documentos contabilísticos de valor probatório equivalente,\n\nii) que foram realizadas no âmbito de operações que foram seleccionadas para financiamento a título da intervenção em causa de acordo com os respectivos critérios e procedimentos de selecção e respeitaram as regras comunitárias durante todo o período no decurso do qual as despesas foram realizadas, e\n\niii) relativas a medidas para as quais todos os auxílios estatais foram oficialmente aprovados pela Comissão, se for o caso.\n\n3. De modo que a suficiência do sistema de controlo e da pista de controlo possam ser sempre tidas em conta, antes da apresentação da declaração de despesas à Comissão, a autoridade de gestão garantirá que a autoridade de pagamento seja mantida informada dos procedimentos que ela e os organismos intermédios aplicam para:\n\na) A verificação do efectivo fornecimento de bens e serviços co-financiados e a veracidade das despesas declaradas;\n\nb) A garantia do respeito das regras em vigor; e\n\nc) A manutenção da pista de controlo.\n\n4. Nos casos em que a autoridade de gestão e a autoridade de pagamento seja o mesmo organismo ou a ele pertença, este garantirá que sejam aplicados procedimentos que facultem regras de controlo equivalentes às previstas nos n.os 2 e 3."
+  },
+  "304c1f0ce73dd71a": {
+   "fragment_id": "CAPÍTULO IV — Controlos por amostragem",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Controlos por amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Controlos por amostragem"
+  },
+  "442a561265c7af79": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Com base numa amostragem adequada, os Estados-Membros realizarão controlos de operações, com vista nomeadamente a:\n\na) Verificar a eficácia dos sistemas de gestão e de controlo instituídos;\n\nb) Verificar de um modo selectivo, com base numa análise de risco, as declarações de despesas estabelecidas aos vários níveis em causa.\n\n2. Os controlos realizados antes do encerramento de cada intervenção abrangerão, pelo menos, 5 % das despesas totais elegíveis e basear-se-ão numa amostra representativa das operações aprovadas, tendo em conta as exigências do n.o 3. Os Estados-Membros velarão por que a realização dos controlos se distribua de uma forma uniforme ao longo do período em causa. Assegurarão uma separação de tarefas adequada entre esses controlos e os procedimentos de execução ou de pagamento relativos às operações.\n\n3. A selecção da amostra de operações a submeter aos controlos terá em conta:\n\na) A necessidade de controlar uma variedade adequada de tipos e dimensões de operações;\n\nb) Eventuais factores de risco que tenham sido identificados pelos controlos nacionais ou comunitários;\n\nc) A concentração de operações no âmbito de certos organismos intermédios ou de certos beneficiários finais, de modo que os principais organismos intermédios e beneficiários finais sejam sujeitos, pelo menos, a um controlo antes do encerramento de cada intervenção."
+  },
+  "0dc5d1d0f1ebc0c3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAtravés dos controlos, os Estados-Membros velarão por que seja verificado o seguinte:\n\na) A aplicação prática e a eficácia dos sistemas de gestão e de controlo;\n\nb) Para um número adequado de registos contabilísticos, a correspondência dos mesmos com os documentos comprovativos mantidos pelos organismos intermédios, beneficiários finais e pelos organismos ou empresas que realizem as operações;\n\nc) A existência de uma pista de controlo suficiente;\n\nd) Para um número adequado de elementos de despesa, que a natureza e o período de realização da despesa em causa respeitam as disposições comunitárias e correspondem às especificações aprovadas da operação e aos trabalhos realmente executados;\n\ne) Que a utilização ou a utilização prevista da operação corresponde à utilização descrita no pedido de co-financiamento comunitário;\n\nf) Que as participações financeiras comunitárias respeitam os limites previstos no artigo 29.o do Regulamento (CE) n.o 1260/1999, bem como quaisquer outras disposições comunitárias aplicáveis, e são pagas aos beneficiários finais sem quaisquer reduções ou demoras injustificadas;\n\ng) Que o co-financiamento nacional adequado foi, de facto, disponibilizado; e\n\nh) Que as operações co-financiadas foram realizadas em conformidade com as regras e políticas comunitárias, conforme exigido pelo artigo 12.o do Regulamento (CE) n.o 1260/1999."
+  },
+  "1887018a126d3925": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs controlos estabelecerão se os problemas eventualmente encontrados são de natureza sistémica e se acarretam riscos para outras operações realizadas pelo mesmo beneficiário final ou geridas pelo mesmo organismo intermédio. Os controlos identificarão igualmente as causas de tais situações, os exames complementares que possam ser necessários e as medidas correctoras e preventivas exigidas."
+  },
+  "6f56713429656b28": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAté 30 de Junho de cada ano e pela primeira vez até 30 de Junho de 2001, os Estados-Membros informarão a Comissão sobre o modo como aplicaram os artigos 10.o a 12.o durante o anterior ano civil e, além disso, fornecerão quaisquer informações complementares ou actualizações da descrição dos seus sistemas de gestão e de controlo comunicada a título do artigo 5.o"
+  },
+  "cd88a8566e84c86f": {
+   "fragment_id": "Artigo 14.º — As disposições do presente capítulo aplicar-se-ão, mutatis mutandis, aos montantes a recuperar referidos no artigo 8.o",
+   "type": "artigo",
+   "heading": "Artigo 14.º — As disposições do presente capítulo aplicar-se-ão, mutatis mutandis, aos montantes a recuperar referidos no artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — As disposições do presente capítulo aplicar-se-ão, mutatis mutandis, aos montantes a recuperar referidos no artigo 8.o"
+  },
+  "bc95230b6623d4ca": {
+   "fragment_id": "CAPÍTULO V — Declaração aquando do encerramento de uma intervenção",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Declaração aquando do encerramento de uma intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Declaração aquando do encerramento de uma intervenção"
+  },
+  "ca067b598956df13": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA pessoa ou serviço designado para emitir declarações aquando do encerramento da intervenção a título do n.o 1, alínea f), do artigo 38.o do Regulamento (CE) n.o 1260/1999 será independente:\n\na) Da autoridade de gestão designada;\n\nb) Da pessoa ou serviço da autoridade de pagamento responsável pelo estabelecimento dos certificados referidos no n.o 1 do artigo 9.o;\n\nc) Dos organismos intermédios.\n\nRealizará o seu exame em conformidade com as normas de auditoria internacionalmente aceites. As autoridades de gestão e de pagamento e os organismos intermédios fornecer-lhe-ão todas as informações necessárias e dar-lhe-ão acesso aos registos e documentos comprovativos necessários para o estabelecimento da declaração."
+  },
+  "fcdcc4cf1fc9ef30": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs declarações basear-se-ão num exame dos sistemas de gestão e de controlo, nas constatações dos controlos já efectuados e, se necessário, num controlo complementar por amostragem das operações. A pessoa ou departamento que emite a declaração efectuará as verificações necessárias para obter uma garantia suficiente de que a declaração certificada de despesas é correcta e de que as operações correspondentes são legais e regulares.\n\nAs declarações serão estabelecidas com base num modelo indicativo constante do anexo III e serão acompanhadas de um relatório que conterá todas as informações pertinentes para justificar a declaração, incluindo um resumo das conclusões de todos os controlos realizados pelos organismos nacionais e comunitários de que o declarante tenha tido conhecimento."
+  },
+  "0832ad7b2d58f981": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nEm caso de existência de importantes deficiências de gestão ou de controlo ou se a elevada frequência de irregularidades detectadas não permitir obter uma garantia global positiva relativamente à validade do pedido de pagamento do balanço final e do certificado final de despesas, a declaração referirá essas circunstâncias e estabelecerá uma estimativa da importância do problema e do seu impacto financeiro.\n\nNesse caso, a Comissão pode solicitar a realização de um controlo complementar, com vista à identificação e rectificação das irregularidades num prazo especificado."
+  },
+  "1ca8a8eb28fa216e": {
+   "fragment_id": "CAPÍTULO VI — Forma e conteúdo das informações contabilísticas a manter e a comunicar à Comissão se solicitadas",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Forma e conteúdo das informações contabilísticas a manter e a comunicar à Comissão se solicitadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Forma e conteúdo das informações contabilísticas a manter e a comunicar à Comissão se solicitadas"
+  },
+  "c2915df1feda9990": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. As informações financeiras a que se refere o anexo I deverão, sempre que possível, existir sob a forma de registos informáticos. Essas informações serão colocadas à disposição da Comissão, mediante pedido desta, para efeitos de realização de controlos documentais e no local, sem prejuízo das exigências em matéria de comunicação das actualizações dos planos financeiros a título do n.o 3, alínea c), do artigo 18.o do Regulamento (CE) n.o 1260/1999, bem como das informações financeiras a título do artigo 32.o do mesmo.\n\n2. A Comissão acordará com cada Estado-Membro o conteúdo dos dados informáticos referidos no n.o 1, os meios para a sua transmissão e a duração do período eventualmente necessário para desenvolver os sistemas informáticos necessários, tendo em conta o acordo referido no n.o 3, alínea e), do artigo 18.o do Regulamento (CE) n.o 1260/1999. O alcance das informações que podem ser solicitadas e as especificações técnicas preferidas para a transmissão de ficheiros informáticos à Comissão são indicadas nos anexos IV e V.\n\n3. Mediante pedido escrito da Comissão, os Estados-Membros transmitir-lhe-ão os registos referidos no n.o 1 no prazo de 10 dias úteis seguintes à recepção do pedido. Um prazo diferente pode ser acordado entre a Comissão e o Estado-Membro, nomeadamente em caso de não disponibilidade de registos sob a forma de ficheiros informáticos.\n\n4. A Comissão garantirá a confidencialidade e a segurança das informações enviadas pelos Estados-Membros ou por ela recolhidas no decurso das inspecções no local, em conformidade com o artigo 287.o do Tratado e as regras da Comissão relativas à utilização e acesso à informação.\n\n5. Em conformidade com o direito nacional competente, os agentes da Comissão terão acesso a todos os documentos preparados com vista à realização dos controlos a título do presente regulamento, ou na sequência destes controlos, bem como aos dados armazenados, incluindo os dos sistemas informáticos."
+  },
+  "355c4ca657d4fa45": {
+   "fragment_id": "CAPÍTULO VII — Disposições gerais e finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições gerais e finais"
+  },
+  "bb056bbab0b85e01": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nNo caso de intervenções com beneficiários em mais de um Estado-Membro, os Estados-Membros concluirão entre si os acordos comuns necessários para garantir uma boa gestão financeira, tendo em conta o direito nacional, e informarão a Comissão desses mesmos acordos. A Comissão e os Estados-Membros em causa prestarão entre si toda a assistência administrativa necessária."
+  },
+  "81cd0dfe830ab5a4": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs disposições do presente regulamento não prejudicam a obrigação dos Estados-Membros, previstas no Regulamento (CE) n.o 1260/1999, de comunicar à Comissão informações suficientes que lhe permitam apreciar os planos, neles incluindo informações sobre as medidas tomadas em aplicação do n.o 1 do artigo 34.o daquele Regulamento, nem o direito da Comissão de solicitar informações complementares antes de adoptar as decisões a título do artigo 28.o do Regulamento."
+  },
+  "f96e80c7700de1e7": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAs disposições do presente regulamento não impedem os Estados-Membros de aplicar regras nacionais mais estritas que as do presente regulamento."
+  },
+  "2f420780191fe9c6": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nÉ revogado o Regulamento (CE) n.o 2064/97.\n\nContudo, continua a aplicar-se às intervenções no âmbito do período de programação 1994-1999, nos termos do Regulamento (CEE) n.o 2052/88."
+  },
+  "3dcbe1f8887bec10": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 2 de Março de 2001.\n\nPela Comissão\n\nMichel Barnier\n\nMembro da Comissão\n\n(1) JO L 161 de 26.6.1999, p. 1.\n\n(2) JO L 290 de 23.10.1997, p. 1.\n\n(3) JO L 298 de 7.11.1998, p. 15.\n\n(4) JO L 185 de 15.7.1988, p. 9.\n\n(5) JO L 337 de 24.12.1994, p. 11.\n\n(6) JO L 83 de 27.3.1999, p. 1.\n\n(7) JO L 292 de 15.11.1996, p. 2.\n\n(8) JO L 178 de 12.7.1994, p. 43.\n\n(9) JO L 193 de 29.7.2000, p. 39."
+  },
+  "2a841b35a92cdb3f": {
+   "fragment_id": "ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO SUFICIENTE (artigo 7.o)",
+   "type": "divisao",
+   "heading": "ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO SUFICIENTE (artigo 7.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO SUFICIENTE (artigo 7.o)\n\nExiste uma pista de controlo suficiente, conforme referido no n.o 2 do artigo 7.o, quando, para uma dada intervenção:\n\n1. Os registos contabilísticos, mantidos ao nível administrativo adequado, fornecem informações pormenorizadas sobre as despesas efectivamente suportadas, para cada operação co-financiada, pelos beneficiários finais, incluindo, quando estes não forem os últimos destinatários dos fundos, os organismos ou empresas que realizem as operações. Os registos contabilísticos mencionam a data em que foram criados, o montante de cada elemento de despesa, a natureza dos documentos comprovativos e a data e modo de pagamento. São anexadas as provas documentais necessárias (exemplo: facturas).\n\n2. No caso de elementos de despesa que apenas parcialmente se referem à operação co-financiada, é demonstrada a exactidão da repartição da despesa entre a operação co-financiada e as outras operações. O mesmo se aplica aos tipos de despesas consideradas elegíveis apenas dentro de determinados limites ou proporcionalmente a outros custos.\n\n3. As especificações técnicas e o plano financeiro da operação, os relatórios sobre o avanço, os documentos relativos à aprovação da ajuda, os procedimentos de concurso e de contratação, os relatórios de inspecções aos bens e serviços co-financiados na operação, também são conservados ao nível de gestão adequado.\n\n4. Nas declarações de despesas efectivamente suportadas, no âmbito de operações co-financiadas a organismos intermédios situados entre o beneficiário final ou o órgão ou empresa responsável pela operação e a autoridade de pagamento, as informações referidas no ponto 1 estão agregadas numa declaração pormenorizada de despesas que indica, para cada operação, todos os elementos constitutivos da despesa, com vista a permitir o cálculo do montante total certificado. Essas declarações de despesa pormenorizadas constituem documentos de apoio dos registos contabilísticos dos organismos intermédios.\n\n5. Os organismos intermédios mantêm registos contabilísticos para cada operação e em relação aos montantes de despesa totais certificados pelos beneficiários finais. Os organismos intermédios directamente responsáveis perante a autoridade de pagamento, referida na alínea o) do artigo 9.o do Regulamento (CE) n.o 1260/1999, apresentam a esta uma lista das operações aprovadas a título de cada intervenção, identificando pormenorizadamente cada operação e indicando o beneficiário final, a data de aprovação da ajuda, os montantes autorizados e pagos, o período de despesa e a despesa total por medida e subprograma ou eixo prioritário. Estas informações constituem a documentação de apoio dos registos contabilísticos da autoridade de pagamento e a base para a preparação das declarações de despesas a apresentar à Comissão.\n\n6. No caso de beneficiários finais directamente responsáveis perante a autoridade de pagamento, as declarações pormenorizadas de despesa referidas no ponto 4 constituem a documentação de apoio dos registos contabilísticos da mesma autoridade, a qual é responsável pelo estabelecimento da lista de operações co-financiadas referida no ponto 5.\n\n7. Caso existam vários organismos intermédios entre o beneficiário final ou o órgão ou empresa responsável pela operação e a autoridade de pagamento, cada organismo intermédio exige, em relação à sua área de responsabilidade, que o organismo ao nível imediatamente inferior lhe forneça declarações pormenorizadas de despesas a título de documentação de apoio dos seus próprios registos contabilísticos, a partir das quais apresenta, ao organismo que lhe é imediatamente superior, pelo menos uma síntese das despesas para cada operação.\n\n8. No caso de transferência informática de dados contabilísticos, todas as autoridades e organismos em causa devem obter informações suficientes a partir do nível inferior que comprovam os seus registos contabilísticos e as importâncias comunicadas para os níveis superiores, de forma a assegurar uma pista de controlo suficiente, a partir dos totais das sínteses de montantes certificadas apresentadas à Comissão até aos elementos de despesas e aos documentos de apoio ao nível do beneficiário final e dos organismos e empresas que realizam as operações."
+  },
+  "929f569e5be14bad": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2001063PT.002802.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2001063PT.002802.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2001063PT.002802.EPS\">\n\n>PIC FILE= \"L_2001063PT.002901.EPS\">\n\n>PIC FILE= \"L_2001063PT.003001.EPS\">\n\n>PIC FILE= \"L_2001063PT.003101.EPS\">\n\n>PIC FILE= \"L_2001063PT.003201.EPS\">\n\n>PIC FILE= \"L_2001063PT.003301.EPS\">"
+  },
+  "d3f464ad32d045c7": {
+   "fragment_id": "ANEXO III — >PIC FILE= \"L_2001063PT.003402.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO III — >PIC FILE= \"L_2001063PT.003402.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >PIC FILE= \"L_2001063PT.003402.EPS\">\n\n>PIC FILE= \"L_2001063PT.003501.EPS\">"
+  },
+  "76cec68a097c2130": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n1. INFORMAÇÕES SOBRE AS OPERAÇÕES QUE DEVEM SER POSTAS À DISPOSIÇÃO DA COMISSÃO, A SEU PEDIDO, PARA EFEITOS DOS CONTROLOS DOCUMENTAIS E NO LOCAL\n\nOs dados solicitados podem incluir os a seguir indicados, sendo o conteúdo exacto dos mesmos objecto de um acordo com o Estado-Membro relativamente ao Fundo em questão (FEDER, FSE, FEOGA, secção Orientação, IFOP). Os números dos campos representam a estrutura de registo preferida para a elaboração dos ficheiros informáticos a transmitir à Comissão(1).\n\nA. DADOS RELATIVOS À OPERAÇÃO (de acordo com a decisão de concessão de ajuda)\n\nCampo 1. Código CCI do programa operacional/documento único de programação (ver \"Código comum de identificação\")\n\nCampo 2. Designação do programa operacional/documento único de programação\n\nCampo 3. Código da prioridade (ou assistência técnica)\n\nCampo 4. Designação da prioridade (ou assistência técnica)\n\nCampo 5. Código do componente do programa (medida, submedida, acção, etc.)\n\nCampo 6. Designação do componente do programa (medida, submedida, acção, etc.)\n\nCampo 7. Fundo estrutural\n\nCampo 8. Autoridade de pagamento\n\nCampo 9. Autoridade de gestão\n\nCampo 10. Organismo ou organismos intermédios (com exclusão da autoridade de gestão) aos quais o beneficiário final declara as despesas\n\nCampo 11. Código da operação(2)\n\nCampo 12. Denominação da operação\n\nCampo 13. Nome da região ou zona em que a operação está localizada/é realizada\n\nCampo 14. Código da região ou zona\n\nCampo 15. Descrição resumida da operação\n\nCampo 16. Início do período de elegibilidade das despesas\n\nCampo 17. Termo do período de elegibilidade das despesas\n\nCampo 18. Organismo que aprova a concessão da ajuda(3)\n\nCampo 19. Data da aprovação\n\nCampo 20. Número de referência do beneficiário final(4)\n\nCampo 21. Número de referência do organismo ou empresa responsável perante o beneficiário final pela realização da operação (se este último não desempenhar essa função)\n\nCampo 22. Moeda (se diferente do euro)\n\nCampo 23. Custo total da operação(5)\n\nCampo 24. Custo elegível total da operação(6)\n\nCampo 25. Despesas para co-financiamento(7)\n\nCampo 26. Participação comunitária\n\nCampo 27. Participação comunitária em % (se registada adicionalmente ao campo 26)\n\nCampo 28. Financiamento público nacional\n\nCampo 29. Financiamento público nacional central\n\nCampo 30. Financiamento público nacional regional\n\nCampo 31. Financiamento público nacional local\n\nCampo 32. Outro financiamento público nacional\n\nCampo 33. Financiamento privado\n\nCampo 34. Financiamento do BEI\n\nCampo 35. Outro financiamento\n\nCampo 36. Intervenção por categoria e subcategoria, em conformidade com a secção 3 do presente anexo\n\nCampo 37. Localização em zonas urbanas/rurais(8)\n\nCampo 38. Efeitos no ambiente(9)\n\nCampo 39. Efeitos na igualdade de oportunidades(10)\n\nCampo 40. Indicador(11)\n\nCampo 41. Unidade de medida do indicador\n\nCampo 42. Indicador: valor quantificado da operação\n\nB. DESPESAS DECLARADAS PARA A OPERAÇÃO\n\nAs informações solicitadas podem limitar-se aos registos de despesas declaradas para a operação pelo beneficiário final (secção 1). Mediante acordo com o Estado-Membro, as informações solicitadas podem dizer respeito aos registos dos pagamentos individuais realizados pelo beneficiário final ou pelo organismo ou empresa que realiza a operação, no caso de o beneficiário final não desempenhar essa função (secção 2).\n\n1. Despesas declaradas pelo beneficiário final a fim de serem incluídas nas declarações de despesas a enviar à Comissão\n\nCampo 43. Código da operação (= campo 11)\n\nCampo 44. Código da operação (= campo 12)\n\nCampo 45. Número de referência do pedido\n\nCampo 46. Despesas declaradas elegíveis para co-financiamento\n\nCampo 47. Participação comunitária\n\nCampo 48. Participação comunitária em % (se registada adicionalmente ao campo 47)\n\nCampo 49. Financiamento público nacional\n\nCampo 50. Financiamento público nacional central\n\nCampo 51. Financiamento público nacional regional\n\nCampo 52. Financiamento público nacional local\n\nCampo 53. Outro financiamento público nacional\n\nCampo 54. Financiamento privado\n\nCampo 55. Financiamento do BEI\n\nCampo 56. Outro financiamento\n\nCampo 57. Nome do organismo que declara as despesas, no caso de o beneficiário final não desempenhar essa função(12)\n\nCampo 58. Data de contabilização (data de criação do registo)(13)\n\nCampo 59. Localização dos documentos de apoio do pedido apresentado pelo beneficiário final(14)\n\nCampo 60. Início do período em que as despesas foram realizadas\n\nCampo 61. Termo do período em que as despesas foram realizadas\n\nCampo 62. Eventuais receitas deduzidas das despesas declaradas\n\nCampo 63. Eventuais correcções financeiras deduzidas do pedido\n\nCampo 64. Despesas declaradas e certificadas pela autoridade de pagamento (euros)\n\nCampo 65. Data da declaração de despesas pela autoridade de pagamento\n\nCampo 66. Taxa ou taxas do euro aplicadas(15)\n\nCampo 67. Data de eventuais verificações no local\n\nCampo 68. Organismo que realizou a verificação no local\n\nCampo 69. Indicador(16) (= 40)\n\nCampo 70. Unidade de medida do indicador (= 41)\n\nCampo 71. Grau de realização do objectivo da operação na data da declaração ( %)\n\nCampo 72. Grau de realização do objectivo da operação na data da declaração relativamente ao avanço previsto no plano inicial ( %)\n\n2. Dados sobre os pagamentos individuais realizados pelo beneficiário final ou pelo organismo ou empresa que realiza a operação (mediante acordo)\n\nCampo 73. Montante do pagamento\n\nCampo 74. Número de referência do pagamento\n\nCampo 75. Data de pagamento(17)\n\nCampo 76. Data de contabilização(18)\n\nCampo 77. Localização dos documentos de apoio do pagamento realizado pelo beneficiário final(19)\n\nCampo 78. Beneficiário (fornecedor de bens ou serviços; contratante): nome\n\nCampo 79. Beneficiário: número de referência\n\n2. CLASSIFICAÇÃO DOS DOMÍNIOS DE INTERVENÇÃO\n\nA. Domínios de intervenção\n\nElaborada em conformidade com o artigo 36.o do Regulamento (CE) n.o 1260/1999, a lista de categorias de domínios de intervenção dos Fundos estruturais, em anexo, destina-se a ajudar os serviços da Comissão na sua missão de informação sobre as actividades dos Fundos estruturais.\n\nPara além da sua utilização nos relatórios anuais sobre os Fundos estruturais e do seu contributo para uma comunicação clara sobre as diversas políticas comunitárias, tais informações por categorias são necessárias para permitir à Comissão responder a pedidos de informação de instituições comunitárias, de Estados-Membros e do público em geral.\n\nEsta categorização integra-se nas actividades de gestão e de informação ao nível dos programas e não pretende substituir-se às tipologias definidas pelos eixos prioritários dos programas ou a categorias de impactos específicos identificados e medidos nos exercícios de avaliação.\n\nAo formular as medidas no âmbito dos programas que beneficiam dos Fundos estruturais, os Estados-Membros podem seguir uma categorização que, embora inspirada na da Comissão, se ajuste melhor à sua situação nacional e regional. Importa, contudo, que a Comissão possa elaborar sínteses sobre as actividades dos Fundos a partir das diversas intervenções. Assim, o complemento de programação deve mostrar a articulação entre cada medida e a categoria correspondente da lista da Comissão. Esta articulação poderá ser mostrada, por exemplo, através da afectação do código adequado a cada medida ou pela indicação da correspondência entre os códigos nacionais e a codificação da Comissão. Os relatórios anuais de execução dos programas devem, igualmente, mencionar essa articulação.\n\nA lista não é nova, uma vez que foi desenvolvida a partir das 14 categorias básicas utilizadas nos programas do objectivo n.o 1 no contexto do exercício de adicionalidade, durante o anterior período de programação.\n\nB. Informações complementares\n\nNote-se que, no âmbito da gestão financeira das operações, a Comissão indicou o tipo de informações que devem ser disponibilizadas pelo Estado-Membro. Trata-se de saber se um projecto:\n\n1. Se situa numa região a) urbana, ou b) rural, ou c) se o projecto não tem delimitações geográficas;\n\n2. É a) principalmente centrado no ambiente, b) positivo em termos ambientais, c) neutro em termos ambientais;\n\n3. É a) principalmente centrado na igualdade entre homens e mulheres, b) positivo em termos de igualdade entre homens e mulheres, c) neutro em termos de igualdade entre homens e mulheres.\n\nA disponibilidade destas informações no âmbito da gestão financeira e a exigência de utilização da classificação das intervenções permitirá à Comissão responder às exigências dos cidadãos europeus.\n\n3. CLASSIFICAÇÃO\n\n1. Enquadramento produtivo\n\n11 Agricultura\n\n111 Investimentos nas explorações agrícolas\n\n112 Instalação de jovens agricultores\n\n113 Formação profissional específica da agricultura\n\n114 Melhoramento da transformação e da comercialização dos produtos agrícolas\n\n12 Silvicultura\n\n121 Investimentos na silvicultura\n\n122 Melhoramento da colheita, da transformação e da comercialização dos produtos silvícolas\n\n123 Promoção de novos mercados para a utilização e comercialização dos produtos silvícolas;\n\n124 Criação de associações de proprietários florestais\n\n125 Reconstituição do potencial de produção silvícola afectado por catástrofes naturais e introdução de instrumentos de prevenção adequados\n\n126 Arborização de terras não agrícolas\n\n127 Melhoramento e preservação da estabilidade ecológica das florestas protegidas\n\n128 Formação profissional específica da silvicultura\n\n13 Promoção da adaptação e do desenvolvimento das zonas rurais\n\n1301 Melhoramento das terras\n\n1302 Emparcelamento\n\n1303 Serviços de substituição nas explorações e serviços de apoio à gestão\n\n1304 Comercialização de produtos agrícolas de qualidade\n\n1305 Serviços de base para a economia rural e população\n\n1306 Renovação e desenvolvimento das aldeias e protecção e conservação do património rural\n\n1307 Diversificação das actividades agrícolas e conexas para criar actividades múltiplas ou rendimentos complementares\n\n1308 Gestão dos recursos hídricos na agricultura\n\n1309 Desenvolvimento e melhoramento das infra-estruturas ligadas ao desenvolvimento da agricultura\n\n1310 Fomento das actividades de turismo\n\n1311 Fomento do artesanato nas explorações\n\n1312 Preservação do ambiente em ligação com a conservação das terras, das florestas e da paisagem e com o melhoramento do bem-estar dos animais\n\n1313 Reconstituição do potencial de produção agrícola afectado por catástrofes naturais e introdução de instrumentos de prevenção adequados\n\n1314 Engenharia financeira\n\n14 Pescas\n\n141 Ajustamento do esforço de pesca\n\n142 Renovação e modernização da frota de pesca\n\n143 Transformação, comercialização e promoção dos produtos da pesca\n\n144 Aquicultura\n\n145 Equipamento dos portos de pesca; protecção e desenvolvimento de recursos aquáticos\n\n146 Medidas socioeconómicas (incluindo ajudas à suspensão temporária de actividades e outras compensações financeiras)\n\n147 Operações a cargo de membros do comércio, da pequena pesca costeira e da pesca interior\n\n148 Medidas financiadas por outros Fundos estruturais (FEDER, FSE)\n\n15 Ajudas às grandes empresas\n\n151 Investimentos corpóreos (instalações e equipamentos, regimes de ajudas)\n\n152 Tecnologias ambientais, tecnologias energéticas limpas e económicas\n\n153 Serviços de aconselhamento às empresas (incluindo internacionalização, exportação, gestão ambiental, aquisição de tecnologias)\n\n154 Serviços de aconselhamento às pessoas a cargo (cuidados de saúde e segurança, guarda de pessoas dependentes)\n\n155 Engenharia financeira\n\n16 Ajudas às PME e ao artesanato\n\n161 Investimentos corpóreos (instalações e equipamentos, regimes de ajudas)\n\n162 Tecnologias ambientais, tecnologias energéticas limpas e económicas\n\n163 Serviços de aconselhamento às empresas (informação, plano de empresa, aconselhamento em matéria de organização, marketing, gestão, design, internacionalização, exportação, gestão ambiental, aquisição de tecnologias)\n\n164 Serviços comuns às empresas (parques de actividade, viveiros de empresas, animação, acções de promoção, ligação em rede, conferências, feiras comerciais)\n\n165 Engenharia financeira\n\n166 Serviços no sector da economia social (guarda de pessoas dependentes, cuidados de saúde e segurança, actividades culturais)\n\n167 Formação profissional específica das PME e do artesanato\n\n17 Turismo\n\n171 Investimentos corpóreos (centros de acolhimento, alojamento, restauração, equipamentos)\n\n172 Investimentos incorpóreos (concepção e organização de serviços turísticos, património, actividades desportivas, culturais e de lazer)\n\n173 Serviços comuns às empresas do sector turístico (incluindo acções de promoção, ligação em rede, conferências, feiras comerciais)\n\n174 Formação profissional específica do turismo\n\n18 Investigação, desenvolvimento e inovação tecnológicos (IDTI)\n\n181 Projectos de investigação em universidades e institutos de investigação\n\n182 Inovação e transferências de tecnologia, realizações em rede entre empresas e/ou institutos de investigação\n\n183 Infra-estruturas de IDTI\n\n184 Formação de investigadores\n\n2. Recursos humanos\n\n21 Políticas activas do mercado do trabalho\n\n22 Integração social\n\n23 Desenvolvimento da educação e da formação profissional não ligada a um sector específico (pessoas, empresas)\n\n24 Adaptabilidade, espírito de empresa e inovação, novas tecnologias da informação e da comunicação (pessoas, empresas)\n\n25 Acções positivas a favor das mulheres no mercado do trabalho\n\n3. Infra-estruturas de base\n\n31 Infra-estruturas de transportes\n\n311 Caminho-de-ferro\n\n312 Estradas\n\n3121 Estradas nacionais\n\n3122 Estradas regionais/locais\n\n3123 Pistas para ciclistas\n\n313 Auto-estradas\n\n314 Aeroportos\n\n315 Portos\n\n316 Vias navegáveis\n\n317 Transportes urbanos\n\n318 Transportes multimodais\n\n319 Sistemas de transporte inteligentes\n\n32 Infra-estruturas de telecomunicações e sociedade da informação\n\n321 Infra-estruturas de base\n\n322 Tecnologias de informação e comunicação (incluindo segurança e prevenção dos riscos)\n\n323 Serviços e aplicações para o cidadão (saúde, administração, educação)\n\n324 Serviços e aplicações para as PME (comércio electrónico, educação/formação, ligação em rede)\n\n33 Infra-estruturas no domínio das energias (produção e distribuição)\n\n331 Electricidade, gás, produtos petrolíferos e combustíveis sólidos\n\n332 Energias renováveis (eólica, solar, hidroeléctrica, biomassa)\n\n333 Eficácia energética, co-geração, controlo da energia\n\n34 Infra-estruturas ambientais (incluindo a água)\n\n341 Ar\n\n342 Ruído\n\n343 Resíduos urbanos e industriais (incluindo resíduos hospitalares e resíduos perigosos)\n\n344 Água potável (captação, distribuição, tratamento)\n\n345 Águas residuais, tratamento\n\n35 Ordenamento e requalificação\n\n351 Ordenamento e requalificação de zonas industriais e militares\n\n352 Reabilitação de zonas urbanas\n\n353 Protecção, requalificação e renovação do ambiente natural\n\n354 Manutenção e restauração de heranças culturais\n\n36 Infra-estruturas sociais e de saúde\n\n4. Diversos\n\n41 Assistência técnica e acções inovadoras (FEDER, FSE, FEOGA, IFOP)\n\n411 Preparação, execução, acompanhamento\n\n412 Avaliação\n\n413 Estudos\n\n414 Acções inovadoras\n\n415 Informação aos cidadãos\n\n(1) Ver instruções para a criação de ficheiros informáticos no ponto 2 do anexo V.\n\n(2) Uma \"operação\" é um projecto ou uma acção realizada pelo beneficiário final, ou, quando este não for o último destinatário dos fundos, pelo organismo ou empresa que actue sob a sua responsabilidade, que diz respeito a actividades semelhantes e que é normalmente objecto de uma única decisão de concessão da ajuda. São necessários os dados relativos às operações individuais, não indicar dados agregados envolvendo as actividades dos \"beneficiários finais\" que não realizaram eles próprios as operações (ver também o anexo I do presente regulamento e os n.os 1.2, 1.3 e 2 da regra n.o 1 do anexo ao Regulamento (CE) n.o 1685/2000 relativo à despesa elegível. Contudo, nos casos de vários pequenos beneficiários, o envio de dados agregados deverá ser autorizado.\n\n(3) Ponto 3 do anexo I.\n\n(4) Como previsto no n.o 1, terceiro parágrafo, do artigo 32.o do Regulamento (CE) n.o 1260/1999 para efeitos da declaração das despesas.\n\n(5) Incluindo os custos não elegíveis excluídos da base para o cálculo do financiamento público.\n\n(6) Custos incluídos na base para o cálculo do financiamento público.\n\n(7) N.o 2 do artigo 29.o do Regulamento (CE) n.o 1260/1999.\n\n(8) A operação está localizada em zona a) urbana, b) rural ou c) geograficamente não delimitada.\n\n(9) A operação a) tem o ambiente como objectivo principal, b) não tem efeitos negativos no ambiente, c) é neutra para o ambiente.\n\n(10) A operação a) tem a igualdade de oportunidades para os dois sexos como objectivo principal, b) tem efeitos positivos para a igualdade de oportunidades entre os dois sexos ou c) é neutra em termos dessa igualdade.\n\n(11) Indicar os principais indicadores de acompanhamento (sujeito a acordo do Estado-Membro).\n\n(12) Se o beneficiário final declarar despesas a organismos intermédios ou à autoridade de gestão, que transmitem o pedido à autoridade de pagamento, a Comissão pode solicitar dados pormenorizados das declarações de despesas a cada nível, para poder seguir a pista de controlo (ponto 5 do anexo 1).\n\n(13) Ponto 1 do anexo I.\n\n(14) Pista de controlo: ponto 8 do anexo I.\n\n(15) No caso de terem sido apresentadas várias declarações, indicar a taxa aplicada para cada montante declarado pelo beneficiário final.\n\n(16) Indicar os principais indicadores de acompanhamento (sujeito a acordo do Estado-Membro).\n\n(17) Ponto 1 do anexo I.\n\n(18) Ponto 1 do anexo I.\n\n(19) Ponto 8 do anexo I."
+  },
+  "2e200f3f458fe832": {
+   "fragment_id": "ANEXO V — ESPECIFICAÇÕES TÉCNICAS PREFERIDAS PARA A TRANSMISSÃO DE FICHEIROS INFORMÁTICOS À COMISSÃO",
+   "type": "divisao",
+   "heading": "ANEXO V — ESPECIFICAÇÕES TÉCNICAS PREFERIDAS PARA A TRANSMISSÃO DE FICHEIROS INFORMÁTICOS À COMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — ESPECIFICAÇÕES TÉCNICAS PREFERIDAS PARA A TRANSMISSÃO DE FICHEIROS INFORMÁTICOS À COMISSÃO\n\n1. Meios de transmissão\n\nA maioria dos meios em uso pode ser empregue após acordo da Comissão. A lista de meios seguinte não é exaustiva.\n\n1. Suportes magnéticos\n\n- Disquete: 3,5 polegadas 1,4 MB (Dos/Windows)\n\ncompressão facultativa em formato ZIP.\n\n- Cartucho DAT\n\n4 mm DDS-1 (90 m)\n\n- CD-ROM (WORM)\n\n2. Transmissão electrónica dos ficheiros\n\n- Comunicação directa por e-mail\n\npara ficheiros com até 5 Mb\n\ncompressão facultativa em formato ZIP\n\n- transferência por FTP\n\ncompressão facultativa em formato ZIP.\n\n2. Norma preferida para os ficheiros informáticos dos Estados-Membros\n\nOs ficheiros normalizados têm as seguintes características:\n\n1. Cada registo começa com um código de três caracteres que identifica as informações contidas nesse registo. Existem dois tipos de registos:\n\na) Registos sobre a operação, identificados pelo código \"PRJ\", que contêm informações gerais sobre essa operação. Os elementos do registo (campos 1 a 42) são os indicados no anexo IV;\n\nb) Registos sobre as despesas, identificados pelo código \"PAY\", que contêm informações pormenorizadas sobre a despesa efectuada no âmbito da operação. Os elementos do registo (campos 43 a 79) são os descritos no anexo IV.\n\n2. Os registos \"PRJ\", que contêm informações relativas a uma operação, são imediatamente seguidos por vários registos \"PAY\", que contêm informações sobre despesa efectuada nessa operação ou então os registos \"PRJ\" e \"PAY\" podem ser transmitidos em ficheiros separados.\n\n3. Os campos serão separados por um ponto e vírgula (\";\"). Dois ponto e vírgula seguidos significam que não há dados nesse campo (\"campo vazio\").\n\n4. Os registos têm dimensão variável. Cada registo termina com o código \"CR LF\" ou \"Carnage Return - Line Feed\" (em hexadecimal: \"0D 0A\").\n\n5. O ficheiro tem o formato ASCII.\n\n6. Campos numéricos, que representam montantes:\n\na) Separador decimal: \".\"\n\nb) Se necessário, o símbolo (\"+\" ou \"-\") aparece à esquerda e é imediatamente seguido pelos algarismos.\n\nc) Número fixo de casas decimais.\n\nd) Inexistência de espaços entre os algarismos; inexistência de espaços para indicar milhares.\n\n7. Campo da data: \"DDMMYYYY\" (dia em dois algarismos, mês em dois algarismos, ano em quatro algarismos).\n\n8. Os dados em formato texto não devem ser colocados entre aspas (\"\"). O ponto e vírgula \";\" também não deve ser utilizado nos dados em formato texto.\n\n9. Todos os campos: não devem existir espaços no início nem no fim dos campos.\n\n10. Os ficheiros que observam estas regras apresentarão a seguinte estrutura (exemplo):\n\nPRJ;1999FI161DO002;Objectivo 1 Este da Finlândia;2;Desenvolvimento Comercial;1;Apoio ao Investimento;...\n\nPAY;1234;Parque Comercial Joensuu;2315;103300;51650;50 %...\n\n11. No que respeita aos ficheiros provenientes da Grécia, solicita-se que seja utilizada a codificação ELOT-928 ou ISO 8859-7.\n\n3. Documentação\n\nTodos os ficheiros devem ser acompanhados pelos totais de controlo dos seguintes elementos:\n\n1. Número de registos\n\n2. Montante total\n\n3. Soma dos subtotais para cada intervenção\n\nNo que respeita aos campos expressos através de um código, deve ser anexado ao ficheiro o significado de tais códigos.\n\nA soma dos registos constantes do ficheiro informático, por intervenção e subprograma (prioridade), deve corresponder às declarações de pagamento apresentadas à Comissão para o período especificado no pedido de informação. Qualquer discrepância deve ser justificada numa nota anexada ao ficheiro."
+  },
+  "42857f96917ea418": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R0438 — PT — 16.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R0438) [REGULAMENTO (CE) N.º 438/2001 DA COMISSÃO](http://publications.europa.eu/resource/celex/32001R0438) [de 2 de Março de 2001](http://publications.europa.eu/resource/celex/32001R0438) [que estabelece as regras de execução do Regulamento (CE) n.º 1260/1999 do Conselho no que respeita aos sistemas de gestão e de controlo das intervenções no quadro dos Fundos estruturais](http://publications.europa.eu/resource/celex/32001R0438) (JO L 063, 3.3.2001, p.21)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1828/2006 da Comissão de 8 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1828) — L 371 — 1 — 27.12.2006"
+  }
+ }
+}

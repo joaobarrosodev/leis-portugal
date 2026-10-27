@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:642557:por
+title: Decreto Regulamentar n.º 14/2001
+short_title: null
+summary: Regulamenta a carreira de inspector superior de jogos da Inspecção-Geral de Jogos por força do disposto no Decreto-Lei
+  n.º 112/2001, de 6 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 14/2001
+official_date: null
+publication_date: '2001-09-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/2001, Série I-B de 2001-09-18
+  number: '217'
+  series: I
+  supplement: null
+  pages: 5962 - 5963
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/09/217b00/59625963.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/14/2001/09/18/p/dre/pt/html
+  oj: null
+  dre: '642557'
+  dre_path: /dr/detalhe/decreto-regulamentar/14-2001-642557
+  internal: pt:dre:642557:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2001-642557
+  metadata_url: https://data.dre.pt/eli/decregul/14/2001/09/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2001-642557
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:26:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 124e0c7b505cca14ae88f891d7ca5dd5e5e6b960027401af345e3ac595b5fb9e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Descrição de Funções
+- Estágio de Formação
+- Inspecção Geral de Jogos
+- Pessoal de Inspecção
+- Pessoal Técnico Superior de Inspecção
+relationships:
+- type: amended_by
+  target: pt:dre:2576615:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:2576615:por
+  label: "Alterado o quadro de pessoal pela PORT.1022/2003(2ªSÉRIE).2003.07.07.MF e MECO, DR.IIS [178] de 4/Ago/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1022-2003-2576615
+  date: '2003-08-04'
+- type: cites
+  target: pt:dre:301238:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2000/07/05/p/dre
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:566854:por
+  label: null
+  source: http://data.dre.pt/eli/lei/65/1998/09/02/p/dre
+- type: cites
+  target: pt:dre:572658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626426:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/325/1995/12/02/p/dre
+- type: cites
+  target: pt:dre:631251:por
+  label: null
+  source: http://data.dre.pt/eli/port/434/1991/05/27/p/dre
+- type: cites
+  target: pt:dre:678993:por
+  label: null
+  source: http://data.dre.pt/eli/port/1290/1995/10/31/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:26:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 14/2001
+
+de 18 de Setembro
+
+A publicação do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, obriga à regulamentação de determinadas matérias relativas à especificidade de cada inspecção-geral, nomeadamente as que se prendem com as carreiras e o respectivo conteúdo funcional, bem como explicitar da melhor forma as regras de transição das actuais para as futuras categorias.
+
+É para dar cumprimento ao disposto no artigo 14.º do referido diploma que se publica a presente regulamentação, relativa à carreira de inspector superior de jogos da Inspecção-Geral de Jogos, cuja Lei Orgânica foi aprovada pelo [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 191/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1990-575136), de 8 de Junho, e pelo [Decreto-Lei n.º 124/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2000-301238), de 5 de Julho.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente diploma define e regulamenta a carreira de inspector superior de jogos da Inspecção-Geral de Jogos (IGJ).
+
+###### Artigo 2.º — Carreira de inspector superior de jogos
+
+1 - A carreira de inspector superior de jogos é integrada pelas categorias de inspector superior principal de jogos, inspector superior de jogos, inspector principal de jogos e inspector de jogos.
+
+2 - As condições de ingresso e de acesso na carreira de inspector superior de jogos são as estabelecidas no artigo 4.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, sem prejuízo do disposto no artigo 7.º do mesmo diploma.
+
+###### Artigo 3.º — Conteúdo funcional
+
+Constituem competências dos inspectores superiores de jogos:
+
+a) Exercer a fiscalização permanente do funcionamento das salas de jogos dos casinos e de outros locais onde esteja concessionada a exploração de jogos de fortuna ou azar;
+
+b) Inspeccionar a movimentação de fundos e valores afectos ao funcionamento das salas de jogos;
+
+c) Liquidar o imposto especial de jogo e o imposto do selo devido, emitindo as guias respectivas para pagamento nas tesourarias da Fazenda Pública;
+
+d) Exercer a fiscalização da aposta mútua sobre os resultados das corridas de cavalos e de outras modalidades de jogo que estejam compreendidas nas atribuições da IGJ;
+
+e) Fiscalizar o cumprimento das obrigações previstas nos artigos 4.º e 7.º do [Decreto-Lei n.º 325/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1995-626426), de 2 de Dezembro, alterado pela [Lei n.º 65/98](https://diariodarepublica.pt/dr/detalhe/lei/65-1998-566854), de 2 de Setembro, referentes a medidas de natureza preventiva e repressiva contra o branqueamento de capitais nos casinos e através dos prémios de apostas e lotarias;
+
+f) Velar pela correcta execução dos contratos de concessão para exploração de jogos e informar superiormente acerca do cumprimento pelos concessionários das suas obrigações, sugerindo as providências que se justifiquem;
+
+g) Realizar exames técnicos à contabilidade de concessionários que explorem jogos de fortuna ou azar, por forma a garantir a correcta liquidação e entrega dos impostos que se mostrem devidos, nomeadamente do imposto especial sobre o jogo e do imposto incidente sobre os prémios do jogo do bingo e sobre os prémios das apostas mútuas desenvolvidas em corridas de cavalos;
+
+h) Proceder a auditorias, inquéritos ou outras averiguações respeitantes à gestão e à situação económica e financeira e ao regime tributário especial das entidades exploradoras de jogos;
+
+i) Verificar a observância das normas legais e instruções administrativas, quer por parte das referidas entidades, quer por parte dos seus empregados e agentes;
+
+j) Solicitar a intervenção e cooperar com as autoridades ou agentes policiais nas acções de fiscalização e repressão da prática e exploração de jogos ilícitos;
+
+l) Estudar e dar pareceres sobre as questões suscitadas no âmbito da exploração corrente dos jogos concessionados e sobre questões de natureza económica e financeira em matéria de jogo;
+
+m) Instruir os processos de inquérito, sindicância, disciplinares e contra-ordenacionais que lhe sejam distribuídos pelo inspector-geral;
+
+n) Conferir os valores liquidados como impostos, rendas e demais encargos legais e contratuais das entidades exploradoras de jogos, bem como as multas aplicadas;
+
+o) Assegurar a entrega oportuna às entidades beneficiárias das receitas provenientes da exploração do jogo do bingo;
+
+p) Garantir a entrega dos cartões utilizados nesta modalidade de jogo aos concessionários de salas do jogo do bingo e assegurar a gestão das existências dos mesmos cartões;
+
+q) Dar tratamento adequado aos dados estatísticos relativos à arrecadação e distribuição das receitas e outros provenientes da exploração dos jogos em casinos, em salas de bingo, na aposta mútua em corridas de cavalos, bem como aos relativos ao combate ao jogo clandestino, às modalidades afins dos jogos de fortuna e azar e às normas preventivas do branqueamento de capitais;
+
+r) Recolher e tratar informaticamente os dados relativos às explorações dos jogos em casinos e em salas de bingo;
+
+s) Dar apoio técnico aos Governos Regionais e aos governadores civis em matéria de legislação de jogo e no licenciamento de máquinas de diversão, bem como à autorização de modalidades afins de jogos de fortuna ou azar.
+
+2 - Compete ainda aos inspectores de jogos desempenhar as funções que superiormente lhes sejam atribuídas dentro do âmbito das competências da Inspecção-Geral de Jogos.
+
+###### Artigo 4.º — Transição para a carreira de inspector superior de jogos
+
+1 - O pessoal provido na carreira técnica superior de inspecção transita, conforme a tabela anexa, independentemente de quaisquer outros requisitos, para a carreira de inspector superior de jogos, de acordo com as seguintes regras:
+
+a) Os inspectores assessores principais transitam para a categoria de inspector superior principal de jogos;
+
+b) Os inspectores coordenadores transitam para a categoria de inspector superior de jogos;
+
+c) Os inspectores principais transitam para a categoria de inspector principal de jogos;
+
+d) Os inspectores de 1.ª e 2.ª classes transitam para a categoria de inspector de jogos.
+
+2 - Na contagem do tempo prestado na categoria de origem, nas transições efectuadas nos termos do número anterior, são aplicáveis as regras constantes dos n.os 4 e 5 do artigo 15.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
+
+###### Artigo 5.º — Estágio
+
+1 - O regulamento de estágio para ingresso na carreira de inspector superior de jogos é aprovado por despacho conjunto do Ministro da Economia e do Ministro da Reforma do Estado e da Administração Pública.
+
+2 - A frequência do estágio para ingresso na carreira de inspector superior de jogos é feita mediante regime de contrato administrativo de provimento, no caso de indivíduos não vinculados à função pública, e em comissão de serviço extraordinária, se o estagiário já estiver nomeado definitivamente noutra carreira.
+
+###### Artigo 6.º — Previsão de lugares
+
+1 - A dotação dos lugares da carreira de inspector superior de jogos consta do mapa anexo I a este diploma, que dele faz parte integrante.
+
+2 - O mapa referido no número anterior substitui o referente ao quadro de pessoal da Inspecção-Geral de Jogos, anexo ao [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio, com as alterações que lhe foram introduzidas pelas Portarias n.os [578/90](https://diariodarepublica.pt/dr/detalhe/portaria/578-1990-572658), de 21 de Julho, [434/91](https://diariodarepublica.pt/dr/detalhe/portaria/434-1991-631251), de 27 de Maio, e [1290/95](https://diariodarepublica.pt/dr/detalhe/portaria/1290-1995-678993), de 31 de Outubro, na parte respeitante à carreira técnica superior de inspecção.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, sem prejuízo do disposto no artigo 19.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
+
+Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2001. - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Alexandre António Cantigas Rosa.
+
+Promulgado em 29 de Agosto de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 30 de Agosto de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+TABELA ANEXA DE TRANSIÇÃO
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/217b00/59625963.pdf)
+
+MAPA ANEXO I
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/09/217b00/59625963.pdf)

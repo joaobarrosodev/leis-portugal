@@ -1,0 +1,820 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75150234:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-105635148",
+ "dre_path": "/dr/detalhe/decreto-lei/42-a-2016-75150234",
+ "source_lastmod": "2024-12-23",
+ "versions": [
+  {
+   "date": "2016-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "105628948",
+    "105628949",
+    "105628950",
+    "105628951",
+    "105628952",
+    "105628953",
+    "105628954",
+    "105628955",
+    "105628956",
+    "105628957",
+    "105628958",
+    "105628959",
+    "105628960",
+    "105628961",
+    "105628962",
+    "105628963",
+    "105628964",
+    "105628965",
+    "105628966",
+    "105628967",
+    "105628968",
+    "105628969",
+    "105628970",
+    "105628971",
+    "105628972",
+    "105628973",
+    "105628974",
+    "105639175",
+    "105639177"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-A"
+   ],
+   "fragments": [
+    "105628948",
+    "105628949",
+    "105628950",
+    "105628951",
+    "105628952",
+    "105628953",
+    "105628954",
+    "105628955",
+    "105628956",
+    "105628957",
+    "105628958",
+    "105628959",
+    "105628960",
+    "105628961",
+    "105628962",
+    "105628963",
+    "105628964",
+    "105628965",
+    "105628966",
+    "105628967",
+    "105628968",
+    "105628969",
+    "105628970",
+    "105628971",
+    "105628972",
+    "105628973",
+    "901145892",
+    "901145893",
+    "901145894",
+    "105639176",
+    "105639177"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150908012:por",
+     "title": "Decreto-Lei n.º 102-D/2020",
+     "published": "2020-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/102-d-2020-150908012"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "105628948",
+    "105628949",
+    "105628950",
+    "105628951",
+    "105628952",
+    "105628953",
+    "105628954",
+    "105628955",
+    "105628956",
+    "105628957",
+    "105628958",
+    "105628959",
+    "105628960",
+    "105628961",
+    "105628962",
+    "105628963",
+    "105628964",
+    "105628965",
+    "105628966",
+    "105628967",
+    "105628968",
+    "105628969",
+    "105628970",
+    "105628971",
+    "105628972",
+    "901145895",
+    "901145892",
+    "901145893",
+    "901145894",
+    "105639176",
+    "105639177"
+   ]
+  },
+  {
+   "date": "2021-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175923959:por",
+     "title": "Decreto-Lei n.º 114/2021",
+     "published": "2021-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2021-175923959"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 10.º-B",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "105628948",
+    "105628949",
+    "901145896",
+    "105628951",
+    "105628952",
+    "901145897",
+    "901145898",
+    "901145899",
+    "105628956",
+    "901145900",
+    "901145901",
+    "901145909",
+    "901145943",
+    "901145917",
+    "901145944",
+    "901145924",
+    "901145945",
+    "901145930",
+    "901145935",
+    "901145946",
+    "901145947",
+    "901145940",
+    "901145941",
+    "901145942",
+    "105628965",
+    "105628966",
+    "105628967",
+    "105628968",
+    "105628969",
+    "901145948",
+    "105628971",
+    "105628972",
+    "901145895",
+    "901145892",
+    "901145893",
+    "901145894",
+    "105639176",
+    "105639177"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    },
+    {
+     "id": "pt:dre:901661921:por",
+     "title": "Decreto-Lei n.º 122/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/122-2024-901661921"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º-A",
+    "Revoga Artigo 10.º-B",
+    "Revoga Artigo 12.º-A",
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "105628948",
+    "105628949",
+    "901145896",
+    "105628951",
+    "105628952",
+    "901145897",
+    "901145898",
+    "901900212",
+    "105628956",
+    "902104194",
+    "901145901",
+    "901145909",
+    "901145943",
+    "901145917",
+    "901145944",
+    "901145924",
+    "901145945",
+    "901900214",
+    "901966265",
+    "901145946",
+    "901145947",
+    "901966266",
+    "901145941",
+    "901966267",
+    "105628965",
+    "105628966",
+    "105628967",
+    "105628968",
+    "105628969",
+    "901145948",
+    "105628971",
+    "105628972",
+    "901145895",
+    "901145892",
+    "901145893",
+    "901145894",
+    "105639176",
+    "105639177"
+   ]
+  }
+ ],
+ "fragments": {
+  "105628948": {
+   "fragment_id": "105635149",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42-A/2016\n\nde 12 de agosto\n\nOs resultados evidenciados pela incipiente execução dos fundos existentes na esfera do Ministério do Ambiente - o Fundo Português de Carbono, o Fundo de Intervenção Ambiental, o Fundo de Proteção dos Recursos Hídricos e o Fundo para a Conservação da Natureza e da Biodiversidade - determinaram que, para garantir uma maior eficácia da política de ambiente, o Programa do XXI Governo Constitucional contemplasse a criação de um único fundo ambiental, concentrando os recursos daqueles fundos, de modo a obter um instrumento com maior capacidade financeira e uma maior adaptabilidade aos desafios que em cada momento se colocarem, para atuar na preservação dos recursos naturais, na prevenção de riscos e na reparação de danos ecológicos.\n\nDesta forma, num contexto de escassez de recursos e ambicionando atingir uma maior eficácia no financiamento transversal das políticas ambientais que permitam o cumprimento das metas nacionais e internacionais neste domínio, cria-se um único fundo ambiental para apoiar as atividades que contribuem tanto para atingir as metas que constituem o objeto dos fundos já existentes, como para o cumprimento dos objetivos a que a República Portuguesa se encontra internacionalmente vinculada.\n\nEntre estes, destacam-se os Objetivos de Desenvolvimento Sustentável da Agenda 2030, adotada ao nível das Nações Unidas em setembro de 2015, que vinculam Portugal nos seguintes domínios ambientais: «6. Água Potável e Saneamento», «11. Cidades e Comunidades Sustentáveis», «12. Produção e Consumo Sustentáveis» e «13. Ação Climática».\n\nNo âmbito da «Água potável e saneamento», os grandes objetivos passam por alcançar o acesso universal e equitativo à água potável, melhorando a sua qualidade, por reduzir as águas residuais não tratadas, e por aumentar a eficiência no uso da água em todos os setores, promovendo a reciclagem e reutilização de água e combatendo a sua escassez a nível global. É também estabelecido o objetivo de, até 2020, manter protegidos e restaurados os ecossistemas relacionados com a água, incluindo montanhas, florestas, pântanos, rios, aquíferos e lagos.\n\nNo que respeita às temáticas «Cidades e comunidades sustentáveis» e «Produção e consumo sustentáveis» os objetivos centram-se, entre outros, em garantir o acesso à habitação e serviços básicos, fornecer acesso a sistemas de transporte seguros, acessíveis e sustentáveis, melhorar a segurança rodoviária, nomeadamente através da expansão dos transportes públicos, reduzir o impacto ambiental negativo das cidades, prestando especial atenção à qualidade do ar e gestão de resíduos urbanos, alcançar um uso eficiente dos recursos naturais, efetuar uma gestão saudável dos produtos químicos em todo o seu ciclo de vida, diminuindo substancialmente a produção de resíduos através da prevenção, redução, reciclagem e reutilização. A nível europeu, foram já dadas indicações claras das novas exigências para estes domínios, a prosseguir até 2030, através do Plano de Ação para a Economia Circular.\n\nNo âmbito da «Ação climática», salienta-se que descarbonizar profundamente a economia é um dos principais eixos do Programa do XXI Governo Constitucional em matéria de ambiente. O novo paradigma de abordagem às alterações climáticas decorrente do Acordo de Paris relativo às Alterações Climáticas, de 12 de dezembro de 2015, é um marco para o futuro comum de Portugal e de todo o planeta. As metas e os objetivos delineados, bem como as consequências, atualmente conhecidas por todos, da emissão de gases de efeito de estufa (GEE), determinam a urgência em adotar medidas de mitigação que conduzam à sua redução e adaptação aos efeitos das alterações climáticas. O Estado Português, no decurso do Acordo de Paris, necessita de atingir metas ambiciosas de redução de GEE até 2030, bem como de se adaptar aos efeitos do aquecimento global, pelo que urge mobilizar recursos e torná-los eficientes na prossecução deste desígnio.\n\nDesta forma, o presente decreto-lei cria o Fundo Ambiental e extingue o Fundo Português de Carbono, o Fundo de Intervenção Ambiental, o Fundo de Proteção dos Recursos Hídricos e o Fundo para a Conservação da Natureza e da Biodiversidade, criados pelo Decreto-Lei n.º 71/2006, de 24 de março, pelo artigo 69.º da Lei n.º 50/2006, de 29 de agosto, pelo Decreto-Lei n.º 172/2009, de 3 de agosto, e pelo Decreto-Lei n.º 171/2009, de 3 de agosto, respetivamente.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "105628949": {
+   "fragment_id": "105635150",
+   "type": 1,
+   "heading": "Capítulo I — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto"
+  },
+  "105628950": {
+   "fragment_id": "105635151",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À criação do Fundo Ambiental, estabelecendo as regras para a atribuição, gestão, acompanhamento e execução das respetivas receitas e apoios a conceder;\n\nb) À terceira alteração à Lei n.º 50/2006, de 29 de agosto, alterada pelas Leis n.os 89/2009, de 31 de agosto, e 114/2015, de 28 de agosto, que aprova a lei quadro das contraordenações ambientais;\n\nc) À primeira alteração ao Decreto-Lei n.º 108/2007, de 12 de abril, que estabelece uma taxa ambiental sobre as lâmpadas de baixa eficiência energética;\n\nd) À segunda alteração ao Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, que estabelece o regime económico e financeiro dos recursos hídricos;\n\ne) À segunda alteração ao Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro, que estabelece o regime de comércio de licenças de emissão de gases com efeito de estufa das atividades da aviação, transpondo a Diretiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de novembro, que altera a Diretiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro;\n\nf) À segunda alteração ao Decreto-Lei n.º 135/2012, de 29 de junho, alterado pelo Decreto-Lei n.º 78/2015, de 13 de maio, que aprova a orgânica do Instituto da Conservação da Natureza e Florestas, I. P.;\n\ng) À primeira alteração ao Decreto-Lei n.º 38/2013, de 15 de março, que regula o regime de comércio de licenças de emissão de gases com efeito de estufa a partir de 2013, concluindo a transposição da Diretiva n.º 2009/29/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, a fim de melhorar e alargar o regime comunitário de comércio de licenças de emissão de gases com efeito de estufa;\n\nh) À extinção do Fundo Português de Carbono, do Fundo de Intervenção Ambiental, do Fundo de Proteção dos Recursos Hídricos e do Fundo para a Conservação da Natureza e da Biodiversidade, criados pelo Decreto-Lei n.º 71/2006, de 24 de março, pelo artigo 69.º da Lei n.º 50/2006, de 29 de agosto, pelo Decreto-Lei n.º 172/2009, de 3 de agosto, e pelo Decreto-Lei n.º 171/2009, de 3 de agosto, respetivamente."
+  },
+  "105628951": {
+   "fragment_id": "105635152",
+   "type": 1,
+   "heading": "Capítulo II — Criação do Fundo Ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Criação do Fundo Ambiental"
+  },
+  "105628952": {
+   "fragment_id": "105635153",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e natureza jurídica\n\n1 - O presente decreto-lei cria, na dependência do membro do Governo responsável pela área do ambiente, o Fundo Ambiental, doravante designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo, sem personalidade jurídica, e goza de autonomia administrativa, financeira e patrimonial e personalidade judiciária.\n\n3 - O Fundo sucede em todos os direitos e obrigações dos fundos previstos na alínea h) do artigo anterior, incluindo as respetivas posições em todos os contratos vigentes.\n\n4 - A criação do Fundo e a extinção dos fundos previstos na alínea h) do artigo anterior, bem como a sucessão legal determinada no número anterior, não carecem de qualquer formalidade e são plenamente eficazes e oponíveis a terceiros a partir da data da entrada em vigor do presente decreto-lei.\n\n5 - Todas as referências legais e regulamentares feitas aos fundos referidos na alínea h) do artigo anterior consideram-se feitas ao Fundo."
+  },
+  "105628953": {
+   "fragment_id": "105635154",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidade e objetivos\n\n1 - O Fundo tem por finalidade apoiar políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento dos objetivos e compromissos nacionais e internacionais, designadamente os relativos às alterações climáticas, aos recursos hídricos, aos resíduos e à conservação da natureza e biodiversidade, financiando entidades, atividades ou projetos que cumpram os seguintes objetivos:\n\na) Mitigação das alterações climáticas, através de ações que contribuam para a redução de emissões de gases com efeito de estufa (GEE) e, desta forma, para o cumprimento das metas, designadamente no domínio das energias renováveis e da eficiência energética nos setores residencial e produtivo no caso de pequenas e médias empresas, e no domínio dos transportes;\n\nb) Adaptação às alterações climáticas, dando especial relevo a ações na zona costeira e nas demais áreas dos recursos hídricos;\n\nc) Cooperação na área das alterações climáticas, nomeadamente para cumprimento de compromissos internacionais;\n\nd) Sequestro de carbono;\n\ne) Recurso ao mercado de carbono para cumprimento de metas internacionais;\n\nf) Fomento da participação de entidades no mercado de carbono;\n\ng) Uso eficiente da água e proteção dos recursos hídricos;\n\nh) Sustentabilidade dos serviços de águas;\n\ni) Prevenção e reparação de danos ambientais;\n\nj) Cumprimento dos objetivos e metas nacionais e comunitárias de gestão de resíduos urbanos;\n\nk) Transição para uma economia circular;\n\nl) Proteção e conservação da natureza e da biodiversidade;\n\nm) Capacitação e sensibilização em matéria ambiental;\n\nn) Investigação e desenvolvimento em matéria ambiental.\n\n2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais, relacionados com o desenvolvimento de políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável."
+  },
+  "105628954": {
+   "fragment_id": "105635155",
+   "type": 11,
+   "heading": "Artigo 4.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Receitas\n\n1 - Constituem receitas do Fundo:\n\na) O montante das receitas nacionais de leilões relativos ao Comércio Europeu de Licenças de Emissão (CELE) que lhe cabe nos termos do artigo 17.º do Decreto-Lei n.º 38/2013, de 15 de março;\n\nb) O montante das receitas de leilões para o sector da aviação que lhe cabe nos termos previstos no Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro;\n\nc) O montante das cobranças provenientes da harmonização fiscal entre o gasóleo de aquecimento e o gasóleo rodoviário, nos termos previstos na lei que aprova o Orçamento do Estado;\n\nd) A parcela da cobrança da taxa de recursos hídricos que lhe cabe nos termos do n.º 1 do artigo 18.º do Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro;\n\ne) A parcela da cobrança da taxa de gestão de resíduos que lhe cabe nos termos do artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto, pela Lei n.º 82-D/204, de 31 de dezembro, e pelos Decretos-Leis n.os 75/2015, de 11 de maio, e 103/2015, de 15 de junho, e pela Lei n.º 7-A/2016, de 30 de março;\n\nf) O montante das cobranças provenientes da taxa sobre lâmpadas de baixa eficiência energética, nos termos previstos no Decreto-Lei n.º 108/2007, de 12 de abril;\n\ng) As compensações pelo não cumprimento da obrigação de incorporação de biocombustíveis, nos termos previstos no Decreto-Lei n.º 49/2009, de 26 de fevereiro;\n\nh) A taxa sobre as garantias financeiras, obrigatórias ou não, constituídas para assumir a responsabilidade ambiental inerente a uma atividade ocupacional, previstas no n.º 2 do artigo 23.º do Decreto-Lei n.º 147/2008, de 29 de julho, alterado pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 29-A/2011, de 1 de março, 60/2012, de 14 de março, e 13/2016, de 9 de março;\n\ni) As contribuições que, nos termos da lei e regulamentação aplicáveis, visem a sustentabilidade dos serviços urbanos de águas;\n\nj) A parcela do produto das coimas que lhe seja afeta nos termos da lei, incluindo a afeta aos fundos extintos pelo presente decreto-lei;\n\nk) O montante das indemnizações e compensações que lhe sejam devidas em virtude do financiamento de medidas ou ações de prevenção ou reparação de danos ou de perigos de danos ambientais, incluindo o montante afeto aos fundos extintos pelo presente decreto-lei;\n\nl) O produto de quaisquer outras taxas, contribuições ou impostos que lhe sejam afetos, incluindo os afetos aos fundos extintos pelo presente decreto-lei;\n\nm) Os rendimentos provenientes da aplicação de recursos do Fundo;\n\nn) Os reembolsos de subsídios, apoios ou contrapartidas prestadas, quando aplicável;\n\no) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;\n\np) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos, designadamente contribuições mecenáticas, doações, heranças ou legados;\n\nq) Quaisquer contribuições do Estado, através de dotação que lhe seja atribuída por meio do Orçamento do Estado.\n\n2 - As receitas previstas nas alíneas a) a m) do número anterior ficam consignadas à prossecução dos objetivos referidos no artigo anterior.\n\n3 - O disposto no número anterior não prejudica a transferência do montante de parte da receita prevista no artigo 17.º do Decreto-Lei n.º 38/2013, de 15 de março, e no artigo 7.º do Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro, respetivamente, para o Sistema Elétrico Nacional e para a Autoridade Competente no âmbito do CELE, nos termos da lei e regulamentação aplicáveis.\n\n4 - O disposto no n.º 2 não prejudica as subalíneas i) e ii) da alínea k) do n.º 1 do artigo 8.º do Decreto-Lei n.º 16/2016, de 9 de março.\n\n5 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o orçamento do ano seguinte, nos termos do decreto-lei de execução orçamental."
+  },
+  "105628955": {
+   "fragment_id": "105635156",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo as despesas de gestão, o apoio técnico e o apoio administrativo.\n\n2 - O Fundo suporta ainda os encargos do Estado decorrentes da aplicação do regime jurídico da responsabilidade por danos ambientais aprovado pelo Decreto-Lei n.º 147/2008, de 29 de julho, alterado pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 29-A/2011, de 1 de março, 60/2012, de 14 de março, e 13/2016, de 9 de março."
+  },
+  "105628956": {
+   "fragment_id": "105635157",
+   "type": 11,
+   "heading": "Artigo 6.º — Condução estratégica do Fundo e planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condução estratégica do Fundo e planeamento\n\n1 - A condução estratégica do Fundo incumbe ao membro do Governo responsável pela área do ambiente.\n\n2 - A condução estratégica do Fundo concretiza-se através de orientações, gerais ou específicas, em qualquer domínio de intervenção do Fundo, constantes de despacho do membro do Governo responsável pela área do ambiente, sendo estas orientações vinculativas."
+  },
+  "105628957": {
+   "fragment_id": "105635158",
+   "type": 11,
+   "heading": "Artigo 7.º — Regras de atribuição de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regras de atribuição de apoios\n\n1 - A definição do plano anual de atribuição de apoios e utilização das receitas consta de despacho do membro do Governo responsável pela área do ambiente.\n\n2 - O plano anual referido no número anterior integra um programa de avisos para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.\n\n3 - O programa de avisos para apresentação de candidaturas previsto no número anterior deve prever, designadamente:\n\na) O procedimento de apresentação e os critérios de seleção de projetos, bem como a tipologia de apoios e beneficiários elegíveis;\n\nb) Os prazos, termos e condições do financiamento;\n\nc) As modalidades de financiamento, incluindo taxas de comparticipação;\n\nd) A forma de disponibilização dos financiamentos aprovados e as respetivas regras de pagamento;\n\ne) As condições que determinam a restituição dos montantes financiados, quando aplicável;\n\nf) O montante total anual disponível para cada tipologia de apoios integrados no programa de avisos para apresentação de candidaturas.\n\n4 - O disposto nos números anteriores não prejudica:\n\na) A publicação de avisos para candidaturas quando se verifiquem casos de força maior, designadamente situações de catástrofe, calamidade, ocorrências climatéricas ou ambientais extremas e adversas, ou ainda factos de natureza excecional e imprevisível, atendíveis face às exigências de boa gestão do Fundo, mediante despacho do membro do Governo responsável pela área do ambiente;\n\nb) O apoio do Fundo a intervenções urgentes ou de especial relevância, quando o membro do Governo responsável pela área do ambiente declare, mediante despacho, determinada intervenção como urgente ou de especial relevância;\n\nc) A atribuição de apoios pelo Fundo para efeitos da salvaguarda da sustentabilidade dos serviços urbanos de águas, nos termos da lei e da regulamentação aplicáveis."
+  },
+  "105628958": {
+   "fragment_id": "105635159",
+   "type": 11,
+   "heading": "Artigo 8.º — Pareceres prévios obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pareceres prévios obrigatórios\n\n1 - A proposta de programa de avisos para a apresentação de candidaturas deve ser enviada, para efeitos de emissão de parecer prévio, às seguintes entidades:\n\na) Nos domínios da eficiência energética e das energias renováveis, à Direção-Geral da Energia e Geologia, revestindo o parecer natureza vinculativa;\n\nb) No domínio dos transportes, ao Instituto da Mobilidade e dos Transportes, I. P.;\n\nc) Nos domínios dos recursos hídricos, das águas residuais e dos resíduos, à Agência Portuguesa do Ambiente, I. P. (APA, I. P.);\n\nd) No domínio da adaptação às alterações climáticas, à APA, I. P.;\n\ne) No âmbito da prevenção e reparação de danos ambientais, à APA, I. P.;\n\nf) No domínio da agricultura, uso do solo e florestas, ao Gabinete de Planeamento, Políticas e Administração-Geral;\n\ng) No domínio da proteção e da conservação da natureza e biodiversidade, ao Instituto da Conservação da Natureza e das Florestas, I. P.\n\n2 - A proposta de plano anual de atribuição de apoios e utilização das receitas é precedida de consulta às entidades intermunicipais territorialmente competentes, ou à Associação Nacional de Municípios Portugueses, em função do âmbito dos apoios a atribuir.\n\n3 - Os pareceres a que se referem os números anteriores devem ser emitidos no prazo máximo de 30 dias."
+  },
+  "105628959": {
+   "fragment_id": "105635160",
+   "type": 11,
+   "heading": "Artigo 9.º — Orientações para a atribuição de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Orientações para a atribuição de apoios\n\n1 - Os apoios financeiros a atribuir pelo Fundo dependem de uma análise custo-eficácia, sempre que aplicável.\n\n2 - Sem prejuízo do disposto no artigo 3.º, os apoios a atribuir por intermédio do Fundo no âmbito do programa de avisos para apresentação de candidaturas são os que constam do anexo ao presente decreto-lei, que dele faz parte integrante."
+  },
+  "105628960": {
+   "fragment_id": "105635161",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção do Fundo\n\n1 - O Fundo é dirigido por um diretor e coadjuvado por um subdiretor, que são, por inerência, o secretário-geral e o secretário-geral adjunto do Ministério do Ambiente.\n\n2 - Compete ao diretor do Fundo:\n\na) Cumprir e executar as orientações do membro do Governo responsável pela área do ambiente;\n\nb) Elaborar as propostas de regulamentos necessárias ao funcionamento do Fundo, com vista à sua aprovação pelo membro do Governo responsável pela área do ambiente;\n\nc) Aprovar os manuais de procedimentos internos e para os beneficiários dos apoios a atribuir;\n\nd) Elaborar, submeter à aprovação do membro do Governo responsável pela área do ambiente e publicar o programa de avisos para apresentação de candidaturas previsto no n.º 2 do artigo 7.º;\n\ne) Apreciar os montantes dos apoios a atribuir contemplados no plano anual de atribuição de apoios, bem como os apoios previstos no n.º 4 do artigo 7.º e respetivas candidaturas, para submissão a autorização do membro do Governo responsável pela área do ambiente;\n\nf) Verificar se o beneficiário tem capacidade administrativa, financeira e operacional para cumprir as condições definidas para a atribuição do apoio, de acordo com os critérios do programa de avisos, quando aplicável;\n\ng) Verificar se o objeto da candidatura ou do pedido de apoio tem enquadramento nas elegibilidades específicas, adequação técnica para prossecução dos objetivos e finalidades específicas visadas, bem como viabilidade e sustentabilidade económica e financeira, quando aplicável;\n\nh) Elaborar, para aprovação do membro do Governo responsável pela área do ambiente, os orçamentos anuais, bem como as contas e os relatórios de execução;\n\ni) Outorgar os contratos de que o Fundo seja parte, incluindo os relativos à atribuição de apoios;\n\nj) Preparar a proposta de decisão quanto ao pedido de apoio e fornecer todos os elementos necessários para a aprovação pelo membro do Governo responsável pela área do ambiente;\n\nk) Assegurar o acompanhamento da execução do contrato relativo à atribuição do apoio, incluindo o pagamento das despesas apresentadas e comprovadas pelos beneficiários, bem como a sua conformidade com a legislação e regulamentação aplicáveis;\n\nl) Garantir que os beneficiários utilizam um sistema contabilístico separado para todas as transações relacionadas com o apoio;\n\nm) Assegurar o funcionamento de um sistema de controlo interno que previna e detete irregularidades e permita a adoção das medidas corretivas oportunas e adequadas."
+  },
+  "105628961": {
+   "fragment_id": "105635162",
+   "type": 11,
+   "heading": "Artigo 11.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gestão financeira\n\n1 - Os serviços contabilísticos, orçamentais e de secretariado necessários ao funcionamento do Fundo são prestados pela Secretaria-Geral do Ministério do Ambiente.\n\n2 - A gestão financeira do Fundo realiza-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos."
+  },
+  "105628962": {
+   "fragment_id": "105635163",
+   "type": 11,
+   "heading": "Artigo 12.º — Gestão técnica e operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gestão técnica e operacional\n\n1 - O subdiretor exerce as competências que lhe sejam delegadas pelo diretor, designadamente as do n.º 2 do artigo 10.º relativas à gestão técnica e operacional do Fundo, competindo-lhe ainda substituir o diretor nos casos de ausência, falta ou impedimento.\n\n2 - O apoio técnico é prestado por trabalhadores em funções públicas, através do recurso aos instrumentos de mobilidade geral previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, sendo a sua remuneração integralmente suportada pelo orçamento do Fundo.\n\n3 - Sempre que seja suscitada qualquer questão de conformidade dos apoios com as normas de direito europeu e nacional da concorrência, o acompanhamento da decisão e do procedimento de atribuição de financiamento é efetuado pela Direção-Geral dos Assuntos Europeus.\n\n4 - No âmbito da preparação dos avisos para apresentação de candidaturas, bem como na sua avaliação e no procedimento de atribuição e monitorização dos apoios, e sem prejuízo do recurso a contratos de aquisição de serviços, o Fundo pode estabelecer protocolos de colaboração com entidades da administração direta e indireta do Estado, com atribuições nas diferentes áreas de intervenção do Fundo, ou com estabelecimentos de ensino superior e instituições de investigação científica e tecnológica."
+  },
+  "105628963": {
+   "fragment_id": "105635164",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscal único\n\n1 - O Fundo dispõe de um fiscal único, que deve ser um revisor oficial de contas ou uma sociedade de revisores oficiais, com inscrição na respetiva lista da Ordem dos Revisores Oficiais de Contas, que é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é designado para um mandato com a duração de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, o qual fixa os termos do exercício da função e a respetiva remuneração.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como sobre as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado o membro do Governo responsável pela área do ambiente e a direção do Fundo sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira, sempre que lhe seja solicitado pelo membro do Governo responsável pela área do ambiente ou pela direção do Fundo.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções.\n\n5 - No caso de cessação do mandato, o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções."
+  },
+  "105628964": {
+   "fragment_id": "105635165",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de controlo interno do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sistema de controlo interno do Fundo\n\n1 - A direção do Fundo é responsável pela implementação de um sistema de controlo interno para prevenir e detetar irregularidades, que seja apto a tomar as medidas corretivas adequadas, bem como por um sistema adequado de verificação da realização dos projetos e das intervenções e de validação das despesas, de modo a contribuir para a concretização dos objetivos de auditoria.\n\n2 - O sistema mencionado no número anterior deve definir as regras de avaliação formal e final de cada projeto, e de qualificação e quantificação dos impactos positivos e negativos do mesmo, quando aplicável."
+  },
+  "105628965": {
+   "fragment_id": "105635166",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "105628966": {
+   "fragment_id": "105635167",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração à Lei n.º 50/2006, de 29 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração à Lei n.º 50/2006, de 29 de agosto\n\nO artigo 70.º da Lei n.º 50/2006, de 29 de agosto, alterada pelas Leis n.os 89/2009, de 31 de agosto, e 113/2015, de 28 de agosto, passa a ter a seguinte redação:\n\n«Artigo 70.º\n\nFundo Ambiental\n\nO Fundo Ambiental arrecada parte das receitas provenientes das coimas aplicadas, nos termos definidos no artigo 73.º, que se destinam à prossecução dos objetivos estabelecidos no artigo 3.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto.»"
+  },
+  "105628967": {
+   "fragment_id": "105635168",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração ao Decreto-Lei n.º 108/2007, de 12 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração ao Decreto-Lei n.º 108/2007, de 12 de abril\n\nO artigo 5.º do Decreto-Lei n.º 108/2007, de 12 de abril, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\na) 80 %, ao Fundo Ambiental;\n\nb) 20 %, ao Fundo de Eficiência Energética, previsto no artigo 68.º do Decreto-Lei n.º 172/2006, de 23 de agosto.\n\n2 - As receitas do Fundo Ambiental derivadas da cobrança desta taxa destinam-se à prossecução dos objetivos estabelecidos no artigo 3.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto.\n\n3 - ...»"
+  },
+  "105628968": {
+   "fragment_id": "105635169",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Decreto-Lei n.º 97/2008, de 11 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Decreto-Lei n.º 97/2008, de 11 de junho\n\nO artigo 18.º do Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\n1 - As receitas resultantes da cobrança da taxa de recursos hídricos são afetas do seguinte modo:\n\na) 50 % para o Fundo Ambiental criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto;\n\nb) 50 % para a APA, I. P.;\n\nc) ...\n\n2 - As receitas resultantes da cobrança da taxa de recursos hídricos são aplicadas do seguinte modo:\n\na) No financiamento das atividades apoiadas pelo Fundo Ambiental;\n\nb) (Revogada.)\n\nc) ...\n\n3 - Sempre que a APA, I. P., delegue em entidades públicas ou privadas as competências para licenciamento e fiscalização da utilização de recursos hídricos, caberá a estas entidades a receita resultante da aplicação a terceiros da componente U da taxa de recursos hídricos.»"
+  },
+  "105628969": {
+   "fragment_id": "105635170",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Decreto-Lei n.º 93/2010, de 27 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao Decreto-Lei n.º 93/2010, de 27 de julho\n\nOs artigos 5.º e 7.º do Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O montante devido pela APA, I. P., à IGCP, E. P. E., pelo desempenho das funções referidas no número anterior, nos termos previstos no n.º 3 do artigo 6.º do Decreto-Lei n.º 200/2012, de 27 de agosto, é suportado através das receitas previstas na alínea a) do n.º 8 do artigo 7.º\n\n4 - ...\n\n5 - ...\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - A APA, I. P., comunica à Comissão Europeia a utilização dada às receitas geradas pelos leilões de licenças de emissão, de acordo com a informação prestada pelo Fundo Ambiental.\n\n7 - ...\n\n8 - As receitas geradas pelos leilões das licenças de emissão da aviação constituem receita do Fundo Ambiental e devem ser utilizadas na seguinte proporção:\n\na) 3 % são receita da Autoridade Nacional Competente no âmbito do CELE, para a cobertura de despesas resultantes do funcionamento do CELE, bem como, designadamente, no desenvolvimento das suas atribuições do domínio das alterações climáticas;\n\nb) O remanescente para a prossecução dos objetivos estabelecidos no artigo 3.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n9 - ...\n\n10 - O plano anual de utilização das receitas geradas é definido no quadro de funcionamento e de acordo com os mecanismos de gestão do Fundo Ambiental.\n\n11 - (Revogado.)\n\n12 - ...\n\n13 - O montante das receitas previsto na alínea a) do n.º 8, estimado de acordo com o número anterior é transferido para a APA, I. P., até ao décimo dia útil do mês de fevereiro de cada ano.\n\n14 - ...\n\n15 - A APA, I. P., fica autorizada a estabelecer acordos com o Eurocontrol para acesso à ferramenta EU ETS Support Facility, bem como a realizar a despesa inerente, com recurso às receitas previstas na alínea a) do n.º 8.\n\n16 - ...»"
+  },
+  "105628970": {
+   "fragment_id": "105635171",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Decreto-Lei n.º 135/2012, de 29 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Decreto-Lei n.º 135/2012, de 29 de junho\n\nO artigo 3.º do Decreto-Lei n.º 135/2012, de 29 de junho, alterado pelo Decreto-Lei n.º 78/2015, de 13 de maio, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O Fundo Florestal Permanente e o Conselho Florestal Nacional funcionam junto do ICNF, I. P., regendo-se por legislação própria.»"
+  },
+  "105628971": {
+   "fragment_id": "105635172",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 38/2013, de 15 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 38/2013, de 15 de março\n\nOs artigos 4.º, 5.º e 17.º do Decreto-Lei n.º 38/2013, de 15 de março, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Compete à APA, I. P., comunicar à Comissão Europeia as medidas que tenham sido aprovadas e a utilização dada às receitas previstas no n.º 3 do artigo 17.º, de acordo com a informação que lhe é prestada pelo Fundo Ambiental.\n\nArtigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O montante devido pela APA, I. P., ao IGCP, E. P. E., pelo desempenho das funções referidas no número anterior, nos termos previstos no n.º 3 do artigo 6.º do Decreto-Lei n.º 200/2012, de 27 de agosto, é suportado através das receitas previstas na alínea c) do n.º 3 do artigo 17.º\n\nArtigo 17.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - As receitas geradas pelos leilões das licenças de emissão constituem receita do Fundo Ambiental e devem ser utilizadas na seguinte proporção:\n\na) ...\n\nb) As receitas não utilizadas para os fins previstos na alínea anterior são utilizadas, na totalidade, para os objetivos estabelecidos no artigo 3.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto, sem prejuízo do disposto na alínea seguinte;\n\nc) 6 % das receitas não utilizadas para os fins previstos na alínea a) são receita da Autoridade Nacional Competente no âmbito do CELE, a transferir para esta até ao décimo dia útil do mês de fevereiro de cada ano, nos termos do artigo 6.º da Portaria n.º 3-A/2014, de 7 de janeiro, para utilização na cobertura de despesas resultantes do funcionamento do CELE, bem como, designadamente, no desenvolvimento das suas atribuições no domínio das alterações climáticas.\n\n4 - Os montantes referidos na alínea a) do número anterior constituem receitas a deduzir à tarifa de uso global do Sistema Elétrico Nacional, nos termos da legislação e regulamentação aplicáveis, devendo ser transferidas pelo Fundo Ambiental nos termos e prazos estabelecidos na portaria prevista no número seguinte.\n\n5 - A operacionalização do regime previsto no presente artigo, nomeadamente no tocante à definição do plano anual de utilização das receitas e do modo de articulação do Fundo Ambiental com outros organismos na alocação e utilização dessas receitas, consta de portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e do ambiente.\n\n6 - ...»"
+  },
+  "105628972": {
+   "fragment_id": "105635173",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "105628973": {
+   "fragment_id": "105635174",
+   "type": 11,
+   "heading": "Artigo 21.º — Receitas da taxa de gestão de resíduos entre 2010-2014",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Receitas da taxa de gestão de resíduos entre 2010-2014\n\n1 - Os montantes arrecadados pela APA, I. P., enquanto Autoridade Nacional de Resíduos, referentes à receita anual consignada da Taxa de Gestão de Resíduos (TGR) dos anos de 2011 a 2014, e pelas Autoridades Regionais de Resíduos, referentes à receita consignada da TGR de 2010 a 2014, para despesas com o financiamento de atividades dos sujeitos passivos que contribuam para o cumprimento dos objetivos nacionais em matéria de gestão de resíduos e que, por motivo superveniente, não puderam ser gastos para os fins estabelecidos, transitam para o Fundo, nos termos da lei, após autorização do membro do Governo responsável pela área das finanças.\n\n2 - As receitas previstas no número anterior ficam consignadas, no Fundo, à prossecução dos objetivos previstos no artigo 3.º"
+  },
+  "105628974": {
+   "fragment_id": "105639075",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n1 - São revogados:\n\na) O artigo 69.º da Lei n.º 50/2006, de 29 de agosto, alterada pelas Leis n.os 89/2009, de 31 de agosto, e 113/2015, de 28 de agosto;\n\nb) O Decreto-Lei n.º 71/2006, de 24 de março, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 29-A/2011, de 1 de março, e pelas Leis n.os 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, e 82-D/2014, de 31 de dezembro;\n\nc) A alínea b) do n.º 2 do artigo 18.º e o artigo 19.º do Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro;\n\nd) O artigo 37.º do Decreto-Lei n.º 142/2008, de 24 de julho, alterado pelo Decreto-Lei n.º 242/2015, de 15 de outubro;\n\ne) O Decreto-Lei n.º 150/2008, de 30 de julho, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 233/2015, de 13 de outubro;\n\nf) O Decreto-Lei n.º 171/2009, de 3 de agosto, alterado pela Lei n.º 82-D/2014, de 31 de dezembro;\n\ng) O Decreto-Lei n.º 172/2009, de 3 de agosto, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho;\n\nh) As alíneas c) a e) do n.º 8 e o n.º 11 do artigo 7.º do Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro.\n\n2 - De acordo com o disposto no Código do Procedimento Administrativo, a revogação dos diplomas referidos no número anterior determina a caducidade dos diplomas que os regulamentam."
+  },
+  "105639175": {
+   "fragment_id": "105639076",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2017."
+  },
+  "105639177": {
+   "fragment_id": "105639078",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 9.º)\n\nTipologias e orientações para a atribuição de apoios\n\nI - No âmbito da mitigação das alterações climáticas, o apoio prossegue as seguintes orientações:\n\na) No domínio da eficiência energética e energias renováveis no setor residencial e no setor produtivo para pequenas e médias empresas, e de forma a dar resposta a critérios de custo-eficácia na aplicação dos recursos e permitir o cumprimento dos critérios de adicionalidade financeira das ações a apoiar, bem como alavancar o efeito do financiamento na economia e no objetivo de redução de gases com efeito de estufa (GEE), o apoio deve:\n\ni) Privilegiar os projetos que concebam mecanismos de associação com entidades que se encontrem perto dos consumidores finais e que potenciem soluções de financiamento, com critérios de recuperação do investimento num prazo considerado razoável, entre 5 e 10 anos;\n\nii) Estipular uma taxa máxima de cofinanciamento a fundo perdido.\n\nb) No domínio dos transportes, o apoio deve:\n\ni) Enquadrar-se nas orientações nacionais e europeias de descarbonização do setor;\n\nii) Privilegiar as medidas que visem a remoção de barreiras de mercado à introdução da mobilidade elétrica, da mobilidade suave e da alternância e transferência modais, especialmente do transporte particular para o transporte coletivo;\n\niii) Considerar medidas no âmbito da eco-condução, especialmente ao nível do transporte de passageiros e mercadorias, numa perspetiva de remoção de barreiras de mercado;\n\niv) Integrar medidas de melhoria do desempenho energético das operações de transporte público de passageiros e de mercadorias.\n\nc) No domínio dos resíduos e águas residuais, o apoio deve:\n\ni) Ter por finalidade a redução das emissões de GEE;\n\nii) Respeitar o princípio do poluidor-pagador;\n\niii) Cumprir os objetivos e metas nacionais em matéria de política de resíduos e de águas residuais.\n\nd) No domínio agrícola e florestal, o apoio deve:\n\ni) Assegurar o princípio da demonstrabilidade do sequestro de carbono;\n\nii) Considerar valores máximos de apoio por tonelada sequestrada não superiores aos valores de mercado do CO(índice 2), nomeadamente os de referência, a nível internacional, para projetos de uso do solo, alterações do uso do solo e florestas (Land Use, Land-Use Change and Forestry).\n\nII - No domínio da adaptação às alterações climáticas, o apoio prossegue as seguintes orientações:\n\na) Assegurar a sustentabilidade e a promoção de ações nas áreas dos recursos hídricos, ordenamento do território, agricultura e florestas, biodiversidade, energia, saúde, segurança de pessoas e bens, transportes e comunicações, mar e zonas costeiras;\n\nb) Privilegiar as medidas que apresentem uma maior relação custo-eficácia longo prazo.\n\nIII - No domínio da cooperação no âmbito das alterações climáticas, o apoio prossegue as seguintes orientações:\n\na) Cumprir os compromissos internacionais;\n\nb) Considerar ações de capacitação, demonstração e transferência tecnológica, envolvendo os diferentes agentes económicos e organizações.\n\nIV - No domínio do recurso ao mercado de carbono para cumprimento das metas internacionais, o apoio prossegue as seguintes orientações:\n\na) Garantir a compatibilidade com os mecanismos que vierem a ser definidos e praticados no âmbito da Convenção Quadro das Nações Unidas sobre Alterações Climáticas;\n\nb) Estabelecer que a aquisição de «créditos de carbono» deve ter em conta critérios financeiros e de reputação dos projetos.\n\nV - No domínio das ações de fomento da participação de entidades no mercado de carbono, o apoio prossegue as seguintes orientações:\n\na) Considerar o impacto do projeto, a nível nacional e internacional;\n\nb) Privilegiar as soluções de cofinanciamento com outras entidades.\n\nVI - No domínio da utilização racional da água e da proteção dos recursos hídricos, o apoio prossegue as seguintes orientações:\n\na) Incorporar o princípio do utilizador-pagador, quando aplicável;\n\nb) Privilegiar as ações que contribuam para:\n\ni) Apoiar a gestão do ciclo da água, nomeadamente as plataformas eletrónicas;\n\nii) Melhorar a eficiência na captação, armazenamento, distribuição e utilização de água;\n\niii) Reduzir a carga rejeitada no meio hídrico, em articulação com a gestão da drenagem de águas pluviais, quando aplicável;\n\niv) Reduzir o impacto ambiental da ocupação do domínio público hídrico;\n\nv) Melhorar os ecossistemas hídricos;\n\nvi) Melhorar o controlo de cheias e outras intervenções de sistematização fluvial, não abrangidas no âmbito da adaptação às alterações climáticas;\n\nvii) Proteger e valorizar os recursos hídricos;\n\nVII - No domínio da prevenção e reparação de danos ambientais, o apoio prossegue as seguintes orientações:\n\na) Assegurar o respeito pelo princípio do poluidor-pagador e pela responsabilidade ambiental;\n\nb) Dar cumprimento ao princípio da subsidiariedade, restringindo o apoio a projetos que não possam mobilizar outros instrumentos jurídicos e financeiros;\n\nc) Privilegiar as seguintes áreas:\n\ni) Prevenção de ameaças graves e iminentes a componentes ambientais naturais ou humanos;\n\nii) Prevenção e reparação de danos a componentes ambientais naturais ou humanos resultantes de catástrofes ou acidentes naturais;\n\niii) Eliminação de passivos ambientais;\n\niv) Reparação de danos ambientais cuja prevenção ou reparação não possa ser concretizada nos termos do regime da responsabilidade civil ambiental;\n\nv) Atuação em quaisquer outras situações de mora, dificuldade ou impossibilidade de imputação ou ressarcimento de danos a componentes ambientais naturais ou humanos.\n\nVIII - No domínio da redução da produção de resíduos, o apoio deve privilegiar ações que incentivem a redução da produção de resíduos, nomeadamente através da remoção de falhas de mercado, como a adoção de sistemas de «Pay as you throw» (PAYT) ou outras soluções que permitam alcançar o mesmo objetivo.\n\nIX - No domínio do cumprimento dos objetivos e metas nacionais de gestão de resíduos, o apoio prossegue as seguintes orientações:\n\na) Assegurar o respeito pelo princípio do poluidor-pagador e pela responsabilidade alargada do produtor;\n\nb) Atribuir incentivos ao desempenho dos sistemas de gestão de resíduos no âmbito da reciclagem e reutilização de resíduos;\n\nc) Apoiar o empreendedorismo nas soluções e modelos de valorização de combustível derivado de resíduos;\n\nd) Apoiar o empreendedorismo nas soluções e modelos de valorização do biogás gerado em centrais de digestão anaeróbia para utilização como biometano e a inserção na rede de gás natural;\n\ne) Apoiar o empreendedorismo nas soluções e modelos de valorização de matérias fertilizantes e composto orgânico;\n\nf) Apoiar a inovação e o desenvolvimento de soluções de otimização em matéria de gestão de resíduos, nomeadamente a definição de subprodutos e fim de estatuto de resíduos;\n\ng) Promover ações de compostagem doméstica e valorização orgânica em cidades e para utilização em áreas degradadas ou florestas.\n\nX - No domínio da economia circular, o apoio deve privilegiar as ações que promovam a remoção de barreiras de mercado e que sejam inovadoras no âmbito da conceção ecológica dos produtos.\n\nXI - No domínio da proteção e da conservação da natureza, o apoio prossegue as seguintes orientações:\n\na) Incidir nas áreas que compõem a Rede Fundamental de Conservação da Natureza (RFCN) ou em áreas com valores identificados ao abrigo de atos europeus ou de convenção internacional;\n\nb) Contribuir para a melhoria do conhecimento das áreas incluídas ou a considerar na RFCN;\n\nc) Conservar habitats e espécies com estado de conservação desfavorável;\n\nd) Permitir a aquisição ou arrendamento, por entidades públicas, de terrenos nas áreas que compõem o Sistema Nacional de Áreas Classificadas (SNAC), ou fora delas quando os mesmos se revestirem de grande importância para a conservação da natureza;\n\ne) Participar em fundos ou sistemas de créditos de biodiversidade;\n\nf) Promover o empreendedorismo nas áreas que compõem o SNAC com relevância para a conservação da natureza e da biodiversidade;\n\ng) Recuperar áreas degradadas da RFCN e valorizar as áreas do SNAC.\n\nXII - No domínio da proteção da zona costeira, o apoio deve focar-se nas iniciativas de cariz estrutural que conduzam a um reforço da resiliência atual dos sistemas costeiros, aumentando a respetiva capacidade de adaptação às alterações climáticas e promovendo a reposição do equilíbrio da dinâmica sedimentar ao longo da costa, privilegiando:\n\na) Soluções de recarga de praias, de reforço de cordões dunares, de estabilização de arribas, de adequação de acessos, de drenagem e encaminhamento das águas afluentes à costa;\n\nb) Ações de recarga para reposição de sedimentos no trânsito litoral;\n\nc) A realização de intervenções de defesa costeira em situações pontuais de emergência;\n\nd) Ações de renaturalização de áreas do domínio público marítimo;\n\ne) Ações de investigação aplicada na procura de soluções inovadoras tendentes a aumentar a resiliência dos sistemas costeiros.\n\nXIII - No domínio da capacitação e sensibilização em matéria ambiental, o apoio deve privilegiar as ações que revelem maior impacto estimado.\n\nXIV - No domínio da investigação e desenvolvimento em matéria de ambiente, deve privilegiar-se a modalidade de apoio reembolsável."
+  },
+  "901145892": {
+   "fragment_id": "901183498",
+   "type": 11,
+   "heading": "Artigo 21.º-A",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 199.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 21.º-A\n\nEntre 2019 e 2021 o Fundo Ambiental apoia, nos termos de despacho do membro do Governo responsável pela área do ambiente, as intervenções previstas na Resolução do Conselho de Ministros n.º 50/2019, de 5 de março, que aprova o Plano de Intervenção nas Pedreiras em Situação Crítica, sem prejuízo do direito de regresso nas situações ali contempladas.\n\n> Aditado pelo/a Artigo 199.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "901145893": {
+   "fragment_id": "105639075",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n1 - São revogados:\n\na) O artigo 69.º da Lei n.º 50/2006, de 29 de agosto, alterada pelas Leis n.os 89/2009, de 31 de agosto, e 113/2015, de 28 de agosto;\n\nb) O Decreto-Lei n.º 71/2006, de 24 de março, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 29-A/2011, de 1 de março, e pelas Leis n.os 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, e 82-D/2014, de 31 de dezembro;\n\nc) A alínea b) do n.º 2 do artigo 18.º e o artigo 19.º do Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro;\n\nd) O artigo 37.º do Decreto-Lei n.º 142/2008, de 24 de julho, alterado pelo Decreto-Lei n.º 242/2015, de 15 de outubro;\n\ne) O Decreto-Lei n.º 150/2008, de 30 de julho, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 233/2015, de 13 de outubro;\n\nf) O Decreto-Lei n.º 171/2009, de 3 de agosto, alterado pela Lei n.º 82-D/2014, de 31 de dezembro;\n\ng) O Decreto-Lei n.º 172/2009, de 3 de agosto, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho;\n\nh) As alíneas c) a e) do n.º 8 e o n.º 11 do artigo 7.º do Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro.\n\n2 - De acordo com o disposto no Código do Procedimento Administrativo, a revogação dos diplomas referidos no número anterior determina a caducidade dos diplomas que os regulamentam."
+  },
+  "901145894": {
+   "fragment_id": "105639076",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2017."
+  },
+  "105639176": {
+   "fragment_id": "105639077",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - António Luís Santos da Costa - Carolina Maria Gomes Ferra - João Pedro Soeiro de Matos Fernandes - Manuel de Herédia Caldeira Cabral - Luís Manuel Capoulas Santos.\n\nPromulgado em 25 de julho de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de julho de 2016.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros."
+  },
+  "901145895": {
+   "fragment_id": "105635174",
+   "type": 11,
+   "heading": "Artigo 21.º — Receitas da taxa de gestão de resíduos entre 2010-2014",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102-D/2020 - Diário da República n.º 239/2020, 1º Suplemento, Série I de 2020-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Receitas da taxa de gestão de resíduos entre 2010-2014\n\n1 - Os montantes arrecadados pela APA, I. P., enquanto Autoridade Nacional de Resíduos, referentes à receita anual consignada da Taxa de Gestão de Resíduos (TGR) dos anos de 2011 a 2014, e pelas Autoridades Regionais de Resíduos, referentes à receita consignada da TGR de 2010 a 2014, para despesas com o financiamento de atividades dos sujeitos passivos que contribuam para o cumprimento dos objetivos nacionais em matéria de gestão de resíduos e que, por motivo superveniente, não puderam ser gastos para os fins estabelecidos, transitam, respetivamente, para o Fundo e para as Comissões de Coordenação e Desenvolvimento Regional, nos termos da lei, após autorização do membro do Governo responsável pela área das finanças.\n\n2 - As receitas previstas no número anterior ficam consignadas, no Fundo, à prossecução dos objetivos previstos no artigo 3.º\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102-D/2020 - Diário da República n.º 239/2020, 1º Suplemento, Série I de 2020-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), em vigor a partir de 2021-07-01"
+  },
+  "901145896": {
+   "fragment_id": "105635151",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À criação do Fundo Ambiental, estabelecendo as regras para a atribuição, gestão, acompanhamento e execução das respetivas receitas e apoios a conceder;\n\nb) À terceira alteração à Lei n.º 50/2006, de 29 de agosto, alterada pelas Leis n.os 89/2009, de 31 de agosto, e 114/2015, de 28 de agosto, que aprova a lei quadro das contraordenações ambientais;\n\nc) À primeira alteração ao Decreto-Lei n.º 108/2007, de 12 de abril, que estabelece uma taxa ambiental sobre as lâmpadas de baixa eficiência energética;\n\nd) À segunda alteração ao Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, que estabelece o regime económico e financeiro dos recursos hídricos;\n\ne) À segunda alteração ao Decreto-Lei n.º 93/2010, de 27 de julho, alterado pelo Decreto-Lei n.º 195/2015, de 14 de setembro, que estabelece o regime de comércio de licenças de emissão de gases com efeito de estufa das atividades da aviação, transpondo a Diretiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de novembro, que altera a Diretiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro;\n\nf) À segunda alteração ao Decreto-Lei n.º 135/2012, de 29 de junho, alterado pelo Decreto-Lei n.º 78/2015, de 13 de maio, que aprova a orgânica do Instituto da Conservação da Natureza e Florestas, I. P.;\n\ng) À primeira alteração ao Decreto-Lei n.º 38/2013, de 15 de março, que regula o regime de comércio de licenças de emissão de gases com efeito de estufa a partir de 2013, concluindo a transposição da Diretiva n.º 2009/29/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, a fim de melhorar e alargar o regime comunitário de comércio de licenças de emissão de gases com efeito de estufa;\n\nh) À extinção do Fundo Florestal Permanente, do Fundo Português de Carbono, do Fundo de Intervenção Ambiental, do Fundo de Apoio à Inovação, do Fundo de Proteção dos Recursos Hídricos e do Fundo para a Conservação da Natureza e da Biodiversidade, do Fundo de Eficiência Energética e do Fundo para a Sustentabilidade Sistémica do Setor Energético, criados pelo Decreto-Lei n.º 63/2004, de 22 de março, pelo Decreto-Lei n.º 71/2006, de 24 de março, pelo artigo 69.º da Lei n.º 50/2006, de 29 de agosto, pelo Despacho n.º 32276-A/2008, publicado no Diário da República, 2.ª série, n.º 243, de 17 de dezembro, na sua redação atual, pelo Decreto-Lei n.º 172/2009, de 3 de agosto, pelo Decreto-Lei n.º 171/2009, de 3 de agosto, pelo Decreto-Lei n.º 50/2010, de 20 de maio, e pelo Decreto-Lei n.º 55/2014, de 9 de abril, respetivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16"
+  },
+  "901145897": {
+   "fragment_id": "105635154",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade e objetivos",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 3.º — Finalidade e objetivos\n\n1 - O Fundo tem por finalidade apoiar políticas ambientais e de ação climática para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento dos objetivos e compromissos nacionais e internacionais, designadamente os relativos às alterações climáticas, às energias de fontes renováveis e à eficiência energética, aos recursos hídricos, aos resíduos, à conservação da natureza e biodiversidade, ao bem-estar dos animais de companhia, à floresta e gestão florestal, ao ordenamento e gestão da paisagem, financiando entidades, atividades ou projetos que se enquadrem nas seguintes áreas de atuação:\n\na) Mitigação das alterações climáticas, através de ações que contribuam para a redução de gases com efeito de estufa (GEE) e, desta forma, para o cumprimento das metas, designadamente no domínio das emissões de GEE, das energias renováveis e da eficiência energética;\n\nb) Adaptação às alterações climáticas, dando especial relevo a ações de aumento da resiliência e redução das vulnerabilidades do território às alterações climáticas;\n\nc) Sequestro e utilização de carbono;\n\nd) Mercados de carbono;\n\ne) Uso eficiente da água e proteção dos recursos hídricos;\n\nf) Sustentabilidade dos serviços de águas;\n\ng) Proteção do ambiente, proteção radiológica e gestão de riscos e danos ambientais;\n\nh) Gestão de resíduos;\n\ni) Transição para uma economia circular;\n\nj) Proteção e conservação da natureza e da biodiversidade;\n\nk) Promoção do bem-estar dos animais de companhia;\n\nl) Promoção da bioeconomia sustentável;\n\nm) Floresta e gestão florestal sustentável;\n\nn) Valorização do ordenamento do território e da paisagem;\n\no) Transportes e mobilidade sustentável;\n\np) Eficiência energética, energias de fontes renováveis, autoconsumo e comunidades de energia renovável, combate à pobreza energética e transição justa;\n\nq) Promoção do equilíbrio e sustentabilidade sistémica do setor energético e da política energética nacional;\n\nr) Monitorização da qualidade do ambiente;\n\ns) Capacitação e sensibilização em matéria de ambiente e ação climática;\n\nt) Projetos de investigação, desenvolvimento e inovação, desde o processo de investigação fundamental até à transferência para o mercado e eventual introdução no mercado nas áreas definidas no presente artigo;\n\nu) Cooperação na área do ambiente e da ação climática, nomeadamente para cumprimento de compromissos internacionais.\n\n2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais, relacionados com o desenvolvimento de políticas ambientais e de ação climática para a prossecução dos objetivos do desenvolvimento sustentável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16"
+  },
+  "901145898": {
+   "fragment_id": "105635155",
+   "type": 11,
+   "heading": "Artigo 4.º — Receitas",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Receitas\n\n1 - Constituem receitas do Fundo:\n\na) O montante das receitas nacionais de leilões relativos ao Comércio Europeu de Licenças de Emissão (CELE) que lhe cabe nos termos do artigo 23.º do Decreto-Lei n.º 12/2020, de 6 de abril;\n\nb) O montante das receitas de leilões para o setor da aviação que lhe cabe nos termos previstos no Decreto-Lei n.º 93/2010, de 27 de julho, na sua redação atual;\n\nc) O montante das cobranças provenientes da harmonização fiscal entre o gasóleo de aquecimento e o gasóleo rodoviário, nos termos previstos na lei que aprova o Orçamento do Estado;\n\nd) A parcela da cobrança da taxa de recursos hídricos que lhe cabe nos termos do n.º 1 do artigo 18.º do Decreto-Lei n.º 97/2008, de 11 de junho, na sua redação atual;\n\ne) A parcela da cobrança da taxa de gestão de resíduos que lhe cabe nos termos dos artigos 114.º e 115.º do Decreto-Lei n.º 102-D/2020, de 10 de dezembro, e do artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual;\n\nf) O montante das cobranças provenientes da taxa sobre lâmpadas de baixa eficiência energética, nos termos previstos no Decreto-Lei n.º 108/2007, de 12 de abril, na sua redação atual;\n\ng) As compensações pelo não cumprimento da obrigação de incorporação de biocombustíveis, nos termos previstos no Decreto-Lei n.º 49/2009, de 26 de fevereiro;\n\nh) A taxa sobre as garantias financeiras, obrigatórias ou não, constituídas para assumir a responsabilidade ambiental inerente a uma atividade ocupacional, previstas no n.º 2 do artigo 23.º do Decreto-Lei n.º 147/2008, de 29 de julho, na sua redação atual;\n\ni) A dotação restante da soma das contribuições prestadas nos termos do Despacho n.º 32276-A/2008, publicado no Diário da República, 2.ª série, n.º 243, de 17 de dezembro, na sua redação atual;\n\nj) O produto das penalidades previstas no n.º 3 do artigo 14.º, bem como o produto proveniente das coimas previstas no artigo 15.º, nos termos da alínea b) do n.º 2 do artigo 17.º, todos do Decreto-Lei n.º 71/2008, de 15 de abril, na sua redação atual;\n\nk) A percentagem dos valores devidos pelo registo de certificados energéticos no Portal do Sistema de Certificação Energética dos Edifícios definida nos termos do n.º 1 do artigo 28.º do Decreto-Lei n.º 101-D/2020, de 7 de dezembro, bem como a percentagem do produto de coimas, nos termos do n.º 3 do artigo 38.º do mesmo decreto-lei;\n\nl) As compensações previstas no artigo 27.º do Decreto-Lei n.º 117/2010, de 25 de outubro, na sua redação atual;\n\nm) O produto da contribuição extraordinária sobre o setor energético (CESE), prevista no artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, na sua redação atual;\n\nn) A percentagem do produto da contribuição sobre as embalagens de plástico ou alumínio de utilização única em refeições prontas que lhe cabe nos termos da alínea b) do n.º 5 do artigo 320.º da Lei n.º 75-B/2020, de 31 de dezembro, na sua redação atual;\n\no) A percentagem do produto da taxa de carbono sobre as viagens aéreas, marítimas e fluviais, nos termos previstos no artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro, na sua redação atual, e na alínea a) do n.º 1 do artigo 8.º da Portaria n.º 38/2021, de 16 de fevereiro;\n\np) O produto das taxas relativas aos atos e serviços prestados em matéria de animais de companhia ao abrigo dos Decretos-Leis n.os 276/2001, de 17 de outubro, e 314/2003, de 17 de dezembro, ambos na sua redação atual;\n\nq) O produto de uma percentagem das taxas relativas aos atos e serviços prestados em matéria de proteção radiológica, previstas no artigo 59.º do Decreto-Lei n.º 108/2018, de 3 de dezembro, na sua redação atual;\n\nr) Os rendimentos provenientes de aplicações financeiras;\n\ns) As contribuições que, nos termos da lei e regulamentação aplicáveis, visem a sustentabilidade dos serviços urbanos de águas;\n\nt) A parcela do produto das coimas que lhe seja afeta nos termos da lei, incluindo a afeta aos fundos extintos pelo presente decreto-lei;\n\nu) O montante das indemnizações e compensações que lhe sejam devidas em virtude do financiamento de medidas ou ações de prevenção ou reparação de danos ou de perigos de danos ambientais, incluindo o montante afeto aos fundos extintos pelo presente decreto-lei;\n\nv) O produto de quaisquer outras taxas, contribuições ou impostos que lhe sejam afetos, incluindo uma percentagem, a definir por lei, do imposto sobre os produtos petrolíferos e energéticos e do adicionamento sobre as emissões de CO (índice 2), previstos no Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, na sua redação atual, bem como os afetos aos fundos extintos pelo presente decreto-lei;\n\nw) Os rendimentos provenientes da aplicação de recursos do Fundo\n\nx) Os reembolsos de subsídios, apoios ou contrapartidas prestadas, quando aplicável;\n\ny) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;\n\nz) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos, designadamente contribuições mecenáticas, doações, heranças ou legados;\n\naa) Quaisquer contribuições do Estado, através de dotação que lhe seja atribuída por meio do Orçamento do Estado.\n\nbb) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico, incluindo aquelas que sejam provenientes de fundos europeus, podendo adotar qualquer tipo de forma, tal como subsídio, donativo ou comparticipação.\n\n2 - As receitas previstas no número anterior ficam consignadas à prossecução dos objetivos referidos no artigo anterior, sem prejuízo do disposto no número seguinte.\n\n3 - O produto da CESE, previsto na alínea m) do n.º 1, visa contribuir para a promoção do equilíbrio da sustentabilidade sistémica do setor energético e da política energética nacional, sendo a percentagem de alocação definida, anualmente, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia, considerando que:\n\na) Cobertura de encargos decorrentes da realização do objetivo de financiamento de políticas do setor energético de cariz social e ambiental, relacionadas com medidas de eficiência energética, no montante até um terço da receita;\n\nb) Cobertura de encargos decorrentes da realização do objetivo de redução da dívida tarifária do Sistema Elétrico Nacional (SEN), no montante remanescente;\n\nc) Para a prossecução dos objetivos de redução da dívida tarifária do SEN, o montante definido na alínea anterior é deduzido aos custos de interesse económico geral (CIEG) a repercutir em cada ano na tarifa de uso global do sistema aplicável aos clientes finais e comercializadores, em conformidade com o disposto na alínea seguinte;\n\nd) A repartição pelos CIEG do montante a deduzir nos termos da alínea anterior é definida por despacho do membro do Governo responsável pela área da energia.\n\n4 - O disposto no n.º 2 não prejudica a transferência do montante de parte da receita prevista no artigo 23.º do Decreto-Lei n.º 12/2020, de 6 de abril, e no artigo 7.º do Decreto-Lei n.º 93/2010, de 27 de julho, na sua redação atual, respetivamente, para o SEN e para a Autoridade Competente no âmbito do CELE, nos termos da lei e regulamentação aplicáveis.\n\n5 - O disposto no n.º 2 não prejudica as subalíneas i) e ii) da alínea k) do n.º 1 do artigo 8.º do Decreto-Lei n.º 16/2016, de 9 de março.\n\n6 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o orçamento do ano seguinte, nos termos do decreto-lei de execução orçamental.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145899": {
+   "fragment_id": "105635156",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo uma comissão anual para suportar as despesas de gestão, o apoio técnico, administrativo e logístico.\n\n2 - A comissão anual é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente e da ação climática, exarado até ao dia 30 de janeiro de cada ano, num valor não superior a 0,5 % do valor das receitas próprias do Fundo, inscritas em cada ano, e atribuída à Secretaria-Geral do Ministério do Ambiente.\n\n3 - O Fundo suporta ainda os encargos do Estado da aplicação do regime jurídico da responsabilidade por danos ambientais aprovado pelo Decreto-Lei n.º 147/2008, de 29 de julho, na sua redação atual.\n\n4 - O Fundo suporta ainda as ações de recuperação, gestão, controlo e eliminação de fontes órfãs, tal como disposto nos artigos 58.º e 59.º do Decreto-Lei n.º 108/2018, de 3 de dezembro, na sua redação atual.\n\n5 - O Fundo pode suportar eventuais contribuições internacionais no contexto de Convenções Internacionais em que Portugal seja Parte, nas áreas de atuação do Fundo, mediante despacho do membro do Governo responsável pela área do ambiente e da ação climática.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145900": {
+   "fragment_id": "105635158",
+   "type": 11,
+   "heading": "Artigo 7.º — Regras de atribuição de apoios",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regras de atribuição de apoios\n\n1 - A definição do plano anual de atribuição de apoios e utilização das receitas consta de despacho do membro do Governo responsável pela área do ambiente.\n\n2 - O plano anual referido no número anterior integra um programa de avisos para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.\n\n3 - O programa de apoios e avisos para apresentação de candidaturas previsto no número anterior deve prever, designadamente:\n\na) A tipologia de apoios e beneficiários elegíveis;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) O montante total anual disponível para cada tipologia de apoios integrados no programa de avisos para apresentação de candidaturas.\n\n4 - O disposto nos números anteriores não prejudica:\n\na) A publicação de avisos para candidaturas quando se verifiquem casos de força maior, designadamente situações de catástrofe, calamidade, ocorrências climatéricas ou ambientais extremas e adversas, ou ainda factos de natureza excecional e imprevisível, atendíveis face às exigências de boa gestão do Fundo, mediante despacho do membro do Governo responsável pela área do ambiente;\n\nb) O apoio do Fundo a intervenções urgentes ou de especial relevância, quando o membro do Governo responsável pela área do ambiente declare, mediante despacho, determinada intervenção como urgente ou de especial relevância;\n\nc) A atribuição de apoios pelo Fundo para efeitos da salvaguarda da sustentabilidade dos serviços urbanos de águas, nos termos da lei e da regulamentação aplicáveis.\n\nd) As transferências legalmente previstas.\n\n5 - Nos termos do número anterior, o plano anual de atribuição de apoios fixa o valor máximo para cada ano económico.\n\n6 - A proposta de plano anual de atribuição de apoios e utilização das receitas é precedida de consulta à Associação Nacional de Municípios Portugueses, a qual se deve pronunciar no prazo máximo de 10 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145901": {
+   "fragment_id": "901183500",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Forma dos apoios",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Forma dos apoios\n\n1 - Os apoios financeiros a conceder pelo Fundo podem revestir as formas de apoios reembolsáveis ou não reembolsáveis ou de linhas de crédito bonificado ou não bonificado.\n\n2 - As subvenções a atribuir pelo Fundo podem ser excecionalmente concedidas a título de adiantamento, desde que devidamente fundamentadas no aviso de abertura ou no protocolo de colaboração institucional, que pode ser condicionado à prestação de garantia bancária ou outra forma idónea de caucionamento.\n\n3 - Os apoios do Fundo podem ser atribuídos no âmbito de apoios prestados por outras entidades.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145909": {
+   "fragment_id": "901183501",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Avisos",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-B — Avisos\n\n1 - Os avisos promovidos pelo Fundo contemplam as regras gerais e específicas aplicáveis, designadamente quanto aos seguintes aspetos:\n\na) As regras para a apresentação de candidaturas;\n\nb) A tipologia de apoios e beneficiários elegíveis;\n\nc) Os critérios de seleção de candidaturas;\n\nd) A dotação disponível para financiamento de cada aviso;\n\ne) Os prazos, termos e condições do financiamento, incluindo as modalidades de financiamento e as taxas de comparticipação;\n\nf) A forma de disponibilização dos financiamentos aprovados e as respetivas regras de pagamento;\n\ng) A monitorização e acompanhamento da execução dos projetos;\n\nh) As regras aplicáveis em caso de irregularidades, fraudes e incumprimento, designadamente as condições que determinam a restituição dos montantes financiados, quando aplicável;\n\ni) Os indicadores de acompanhamento e de resultado.\n\n2 - Os resultados alcançados através dos avisos são objeto de relatório de execução que é publicado no sítio eletrónico do Fundo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145943": {
+   "fragment_id": "105635159",
+   "type": 11,
+   "heading": "Artigo 8.º — Pareceres prévios obrigatórios",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Pareceres prévios obrigatórios\n\n1 - A proposta de programa de avisos para a apresentação de candidaturas deve ser enviada, para efeitos de emissão de parecer prévio, às seguintes entidades:\n\na) Nos domínios da eficiência energética e das energias renováveis, à Direção-Geral da Energia e Geologia, revestindo o parecer natureza vinculativa;\n\nb) No domínio dos transportes, ao Instituto da Mobilidade e dos Transportes, I. P.;\n\nc) Nos domínios dos recursos hídricos, das águas residuais e dos resíduos, à Agência Portuguesa do Ambiente, I. P. (APA, I. P.);\n\nd) No domínio da adaptação às alterações climáticas, à APA, I. P.;\n\ne) No âmbito da prevenção e reparação de danos ambientais, à APA, I. P.;\n\nf) No domínio da agricultura, uso do solo e florestas, ao Gabinete de Planeamento, Políticas e Administração-Geral;\n\ng) No domínio da proteção e da conservação da natureza e biodiversidade, ao Instituto da Conservação da Natureza e das Florestas, I. P.\n\n2 - A proposta de plano anual de atribuição de apoios e utilização das receitas é precedida de consulta às entidades intermunicipais territorialmente competentes, ou à Associação Nacional de Municípios Portugueses, em função do âmbito dos apoios a atribuir.\n\n3 - Os pareceres a que se referem os números anteriores devem ser emitidos no prazo máximo de 30 dias.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145917": {
+   "fragment_id": "901183502",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Articulação",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Articulação\n\n1 - O Fundo pode solicitar apoio técnico a entidades, públicas e privadas, relevantes em função da matéria, podendo para o efeito ser estabelecidos protocolos de colaboração.\n\n2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas, privadas ou do terceiro setor, designadamente com outros instrumentos de financiamento, europeus ou internacionais, no âmbito das suas finalidades.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145944": {
+   "fragment_id": "105635160",
+   "type": 11,
+   "heading": "Artigo 9.º — Orientações para a atribuição de apoios",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Orientações para a atribuição de apoios\n\n1 - Os apoios financeiros a atribuir pelo Fundo dependem de uma análise custo-eficácia, sempre que aplicável.\n\n2 - Sem prejuízo do disposto no artigo 3.º, os apoios a atribuir por intermédio do Fundo no âmbito do programa de avisos para apresentação de candidaturas são os que constam do anexo ao presente decreto-lei, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145924": {
+   "fragment_id": "901183503",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Orientações para a atribuição de apoios",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Orientações para a atribuição de apoios\n\nOs apoios financeiros a atribuir pelo Fundo devem:\n\na) Permitir concretizar as disposições constantes dos instrumentos de política pública relevantes para as finalidades e objetivos de intervenção do Fundo;\n\nb) Contribuir para o cumprimento das metas nacionais, europeias ou internacionais com que Portugal se comprometeu em matéria de ambiente e ação climática;\n\nc) Garantir a coerência com os objetivos ambientais e de ação climática prosseguidos pelo Fundo, contribuindo para o desenvolvimento sustentável;\n\nd) Promover a coesão territorial e a igualdade de oportunidades no acesso aos apoios;\n\ne) Promover a aplicação do princípio do poluidor-pagador, quando aplicável;\n\nf) Ponderar a análise de custo-eficácia, quando aplicável;\n\ng) Contribuir para ultrapassar barreiras e falhas de mercado, quando aplicável;\n\nh) Estar alinhados com os princípios do Financiamento Sustentável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145945": {
+   "fragment_id": "105635161",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção do Fundo",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Direção do Fundo\n\n1 - O Fundo é dirigido por um diretor e coadjuvado por um subdiretor, que são, por inerência, o secretário-geral e o secretário-geral adjunto do Ministério do Ambiente.\n\n2 - Compete ao diretor do Fundo:\n\na) Cumprir e executar as orientações do membro do Governo responsável pela área do ambiente;\n\nb) Elaborar as propostas de regulamentos necessárias ao funcionamento do Fundo, com vista à sua aprovação pelo membro do Governo responsável pela área do ambiente;\n\nc) Aprovar os manuais de procedimentos internos e para os beneficiários dos apoios a atribuir;\n\nd) Elaborar, submeter à aprovação do membro do Governo responsável pela área do ambiente e publicar o programa de avisos para apresentação de candidaturas previsto no n.º 2 do artigo 7.º;\n\ne) Apreciar os montantes dos apoios a atribuir contemplados no plano anual de atribuição de apoios, bem como os apoios previstos no n.º 4 do artigo 7.º e respetivas candidaturas, para submissão a autorização do membro do Governo responsável pela área do ambiente;\n\nf) Verificar se o beneficiário tem capacidade administrativa, financeira e operacional para cumprir as condições definidas para a atribuição do apoio, de acordo com os critérios do programa de avisos, quando aplicável;\n\ng) Verificar se o objeto da candidatura ou do pedido de apoio tem enquadramento nas elegibilidades específicas, adequação técnica para prossecução dos objetivos e finalidades específicas visadas, bem como viabilidade e sustentabilidade económica e financeira, quando aplicável;\n\nh) Elaborar, para aprovação do membro do Governo responsável pela área do ambiente, os orçamentos anuais, bem como as contas e os relatórios de execução;\n\ni) Outorgar os contratos de que o Fundo seja parte, incluindo os relativos à atribuição de apoios;\n\nj) Preparar a proposta de decisão quanto ao pedido de apoio e fornecer todos os elementos necessários para a aprovação pelo membro do Governo responsável pela área do ambiente;\n\nk) Assegurar o acompanhamento da execução do contrato relativo à atribuição do apoio, incluindo o pagamento das despesas apresentadas e comprovadas pelos beneficiários, bem como a sua conformidade com a legislação e regulamentação aplicáveis;\n\nl) Garantir que os beneficiários utilizam um sistema contabilístico separado para todas as transações relacionadas com o apoio;\n\nm) Assegurar o funcionamento de um sistema de controlo interno que previna e detete irregularidades e permita a adoção das medidas corretivas oportunas e adequadas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145930": {
+   "fragment_id": "901183504",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Entidade gestora",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 10.º-A — Entidade gestora\n\n1 - A entidade gestora do Fundo é a Secretaria-Geral do Ministério do Ambiente, que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.\n\n2 - O Fundo é dirigido por um diretor e coadjuvado por um subdiretor, que são, por inerência, o secretário-geral e o secretário-geral adjunto do Ministério do Ambiente.\n\n3 - A gestão financeira é prestada pela Secretaria-Geral do Ministério do Ambiente, designadamente os serviços contabilísticos, orçamentais, sistemas de informação e de secretariados necessários ao funcionamento do Fundo, realizando-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n4 - O Fundo funciona em instalações para o efeito disponibilizadas pela Secretaria-Geral do Ministério do Ambiente.\n\n5 - O Fundo não possui mapa de pessoal.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145935": {
+   "fragment_id": "901183505",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Gestão do Fundo",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 10.º-B — Gestão do Fundo\n\n1 - Compete ao diretor do Fundo:\n\na) Cumprir e executar as orientações do membro do Governo responsável pela área do ambiente e da ação climática;\n\nb) Desenvolver as ações necessárias para cumprimento dos objetivos do Fundo;\n\nc) Assegurar o regular funcionamento do Fundo;\n\nd) Elaborar as propostas de regulamentos necessárias ao funcionamento do Fundo, com vista à sua aprovação pelo membro do Governo responsável pela área do ambiente e da ação climática;\n\ne) Aprovar os manuais de procedimentos internos e para os beneficiários dos apoios a atribuir;\n\nf) Elaborar, submeter à aprovação do membro do Governo responsável pela área do ambiente e da ação climática e publicar o programa de avisos para apresentação de candidaturas previsto no n.º 2 do artigo 7.º;\n\ng) Verificar se o objeto da candidatura ou do pedido de apoio tem enquadramento nas elegibilidades específicas, adequação técnica para prossecução dos objetivos e finalidades específicas visadas, bem como viabilidade e sustentabilidade económica e financeira, quando aplicável;\n\nh) Elaborar, para aprovação do membro do Governo responsável pela área do ambiente e da ação climática, os orçamentos anuais, bem como as contas e os relatórios de execução anuais, incluindo os resultados alcançados, recorrendo aos indicadores definidos, devendo estes relatórios ser publicitados no sítio eletrónico do Fundo;\n\ni) Outorgar os contratos de que o Fundo seja parte, incluindo os relativos à atribuição de apoios;\n\nj) Preparar a proposta de decisão quanto ao pedido de apoio e fornecer todos os elementos necessários para a aprovação pelo membro do Governo responsável pela área do ambiente e da ação climática;\n\nk) Assegurar o acompanhamento da execução do contrato relativo à atribuição do apoio, incluindo o pagamento das despesas apresentadas e comprovadas pelos beneficiários, bem como a sua conformidade com a legislação e regulamentação aplicáveis\n\nl) Assegurar o funcionamento de um sistema de controlo interno que previna e detete irregularidades, fraudes, corrupção e conflitos de interesse e que permita a adoção das medidas corretivas oportunas e adequadas;\n\nm) Manter por um período nunca inferior a seis anos após o termo dos programas de financiamento suportados por fundos europeus, os registos em sistema de informação, de todos os documentos relacionados com os projetos e a sua boa execução, bem como os resultados dos controlos e auditorias, mecanismos de tratamento e reporte de irregularidades graves e ainda os procedimentos de recuperação dos montantes indevidamente pagos.\n\n2 - O diretor do Fundo pode delegar no subdiretor as competências previstas no número anterior, competindo ainda a este substituir o diretor nas suas ausências, faltas ou impedimentos.\n\n3 - Sempre que seja suscitada qualquer questão de conformidade dos apoios com as normas de direito europeu e nacional da concorrência, o acompanhamento da decisão e do procedimento de atribuição de financiamento é efetuado pela Direção-Geral dos Assuntos Europeus.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145946": {
+   "fragment_id": "105635162",
+   "type": 11,
+   "heading": "Artigo 11.º — Gestão financeira",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Gestão financeira\n\n1 - Os serviços contabilísticos, orçamentais e de secretariado necessários ao funcionamento do Fundo são prestados pela Secretaria-Geral do Ministério do Ambiente.\n\n2 - A gestão financeira do Fundo realiza-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145947": {
+   "fragment_id": "105635163",
+   "type": 11,
+   "heading": "Artigo 12.º — Gestão técnica e operacional",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Gestão técnica e operacional\n\n1 - O subdiretor exerce as competências que lhe sejam delegadas pelo diretor, designadamente as do n.º 2 do artigo 10.º relativas à gestão técnica e operacional do Fundo, competindo-lhe ainda substituir o diretor nos casos de ausência, falta ou impedimento.\n\n2 - O apoio técnico é prestado por trabalhadores em funções públicas, através do recurso aos instrumentos de mobilidade geral previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, sendo a sua remuneração integralmente suportada pelo orçamento do Fundo.\n\n3 - Sempre que seja suscitada qualquer questão de conformidade dos apoios com as normas de direito europeu e nacional da concorrência, o acompanhamento da decisão e do procedimento de atribuição de financiamento é efetuado pela Direção-Geral dos Assuntos Europeus.\n\n4 - No âmbito da preparação dos avisos para apresentação de candidaturas, bem como na sua avaliação e no procedimento de atribuição e monitorização dos apoios, e sem prejuízo do recurso a contratos de aquisição de serviços, o Fundo pode estabelecer protocolos de colaboração com entidades da administração direta e indireta do Estado, com atribuições nas diferentes áreas de intervenção do Fundo, ou com estabelecimentos de ensino superior e instituições de investigação científica e tecnológica.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145940": {
+   "fragment_id": "901183506",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Comissão de Consulta e Acompanhamento",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Comissão de Consulta e Acompanhamento\n\n1 - A Comissão de Consulta e Acompanhamento tem como finalidade coadjuvar a direção do Fundo para uma maior celeridade na adoção, alinhamento estratégico e análise técnica das atividades prosseguidas pelo Fundo.\n\n2 - À Comissão de Consulta e Acompanhamento, mediante solicitação do Fundo, cabe:\n\na) Pronunciar-se sobre os instrumentos de gestão, designadamente o plano anual de atribuição de apoios e utilização das receitas, bem como o relatório de atividades e gestão;\n\nb) Prestar orientação técnica, em razão da matéria, incluindo na elaboração dos avisos;\n\nc) Pronunciar-se sobre outros aspetos identificados pelo Fundo.\n\n3 - A Comissão de Consulta e Acompanhamento é composta pelas seguintes entidades:\n\na) IAPMEI - Agência para a Competitividade e Inovação, I. P.;\n\nb) Agência Portuguesa do Ambiente, I. P.;\n\nc) Direção-Geral de Energia e Geologia;\n\nd) Direção-Geral do Território;\n\ne) Instituto da Conservação da Natureza e das Florestas, I. P.;\n\nf) Instituto da Mobilidade e dos Transportes, I. P.;\n\ng) Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n4 - Sem prejuízo dos números anteriores, podem ser convidadas a participar na Comissão de Consulta e Acompanhamento outras entidades relevantes, por decisão do diretor do Fundo.\n\n5 - Os participantes da Comissão de Consulta e Acompanhamento não auferem qualquer remuneração ou abono pela sua participação.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901145941": {
+   "fragment_id": "105635164",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscal único\n\n1 - O Fundo dispõe de um fiscal único, que deve ser um revisor oficial de contas ou uma sociedade de revisores oficiais, com inscrição na respetiva lista da Ordem dos Revisores Oficiais de Contas, que é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é designado para um mandato com a duração de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, o qual fixa os termos do exercício da função e a respetiva remuneração.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como sobre as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado o membro do Governo responsável pela área do ambiente e a direção do Fundo sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira, sempre que lhe seja solicitado pelo membro do Governo responsável pela área do ambiente ou pela direção do Fundo.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções.\n\n5 - No caso de cessação do mandato, o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções."
+  },
+  "901145942": {
+   "fragment_id": "105635165",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de controlo interno do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sistema de controlo interno do Fundo\n\n1 - A direção do Fundo é responsável pela implementação de um sistema de controlo interno para prevenir e detetar irregularidades, que seja apto a tomar as medidas corretivas adequadas, bem como por um sistema adequado de verificação da realização dos projetos e das intervenções e de validação das despesas, de modo a contribuir para a concretização dos objetivos de auditoria.\n\n2 - O sistema mencionado no número anterior deve definir as regras de avaliação formal e final de cada projeto, e de qualificação e quantificação dos impactos positivos e negativos do mesmo, quando aplicável."
+  },
+  "901145948": {
+   "fragment_id": "105635171",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Decreto-Lei n.º 135/2012, de 29 de junho",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Alteração ao Decreto-Lei n.º 135/2012, de 29 de junho\n\nO artigo 3.º do Decreto-Lei n.º 135/2012, de 29 de junho, alterado pelo Decreto-Lei n.º 78/2015, de 13 de maio, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O Fundo Florestal Permanente e o Conselho Florestal Nacional funcionam junto do ICNF, I. P., regendo-se por legislação própria.»\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901900212": {
+   "fragment_id": "105635156",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo uma comissão anual para suportar as despesas de gestão, o apoio técnico, administrativo e logístico.\n\n2 — A comissão anual é definida por despacho do membro do Governo responsável pela área do ambiente, exarado até ao dia 30 de janeiro de cada ano, e atribuída à Agência para o Clima, I. P. (ApC, I. P.).\n\n3 - O Fundo suporta ainda os encargos do Estado da aplicação do regime jurídico da responsabilidade por danos ambientais aprovado pelo Decreto-Lei n.º 147/2008, de 29 de julho, na sua redação atual.\n\n4 - O Fundo suporta ainda as ações de recuperação, gestão, controlo e eliminação de fontes órfãs, tal como disposto nos artigos 58.º e 59.º do Decreto-Lei n.º 108/2018, de 3 de dezembro, na sua redação atual.\n\n5 — O Fundo pode suportar eventuais contribuições internacionais no contexto de Convenções Internacionais em que Portugal seja parte, nas áreas de atuação do Fundo, mediante despacho do membro do Governo responsável pela área do ambiente.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "902104194": {
+   "fragment_id": "105635158",
+   "type": 11,
+   "heading": "Artigo 7.º — Regras de atribuição de apoios",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 325.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regras de atribuição de apoios\n\n1 — A definição do plano anual de atribuição de apoios e utilização das receitas compete ao conselho diretivo da ApC, I. P., o qual será objeto de aprovação pelo membro do Governo responsável pela área do ambiente, e deverá respeitar as orientações definidas nos termos do n.º 2 do artigo anterior.\n\n2 - O plano anual referido no número anterior integra um programa de avisos de âmbito nacional para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.\n\n3 - O programa de apoios e avisos para apresentação de candidaturas previsto no número anterior deve prever, designadamente:\n\na) A tipologia de apoios e beneficiários elegíveis;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) O montante total anual disponível para cada tipologia de apoios integrados no programa de avisos para apresentação de candidaturas.\n\n4 - O disposto nos números anteriores não prejudica:\n\na) A publicação de avisos para candidaturas quando se verifiquem casos de força maior, designadamente situações de catástrofe, calamidade, ocorrências climatéricas ou ambientais extremas e adversas, ou ainda factos de natureza excecional e imprevisível, atendíveis face às exigências de boa gestão do Fundo, mediante despacho do membro do Governo responsável pela área do ambiente;\n\nb) O apoio do Fundo a intervenções urgentes ou de especial relevância, quando o membro do Governo responsável pela área do ambiente declare, mediante despacho, determinada intervenção como urgente ou de especial relevância;\n\nc) A atribuição de apoios pelo Fundo para efeitos da salvaguarda da sustentabilidade dos serviços urbanos de águas, nos termos da lei e da regulamentação aplicáveis.\n\nd) As transferências legalmente previstas.\n\n5 - Nos termos do número anterior, o plano anual de atribuição de apoios fixa o valor máximo para cada ano económico.\n\n6 - A proposta de plano anual de atribuição de apoios e utilização das receitas é precedida de consulta à Associação Nacional de Municípios Portugueses, a qual se deve pronunciar no prazo máximo de 10 dias.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 325.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901900214": {
+   "fragment_id": "901183504",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Entidade gestora",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 10.º-A — Entidade gestora\n\n1 - A entidade gestora do Fundo é a ApC, I. P., que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.\n\n2 - (Revogado.)\n\n3 - A gestão financeira é prestada pela ApC, I. P., designadamente os serviços contabilísticos, orçamentais, sistemas de informação e de secretariados necessários ao funcionamento do Fundo, realizando-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n4 - O Fundo funciona em instalações para o efeito disponibilizadas pela ApC, I. P.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901966265": {
+   "fragment_id": "901183505",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Gestão do Fundo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 10.º-B — Gestão do Fundo\n\n1 - Compete ao diretor do Fundo:\n\na) Cumprir e executar as orientações do membro do Governo responsável pela área do ambiente e da ação climática;\n\nb) Desenvolver as ações necessárias para cumprimento dos objetivos do Fundo;\n\nc) Assegurar o regular funcionamento do Fundo;\n\nd) Elaborar as propostas de regulamentos necessárias ao funcionamento do Fundo, com vista à sua aprovação pelo membro do Governo responsável pela área do ambiente e da ação climática;\n\ne) Aprovar os manuais de procedimentos internos e para os beneficiários dos apoios a atribuir;\n\nf) Elaborar, submeter à aprovação do membro do Governo responsável pela área do ambiente e da ação climática e publicar o programa de avisos para apresentação de candidaturas previsto no n.º 2 do artigo 7.º;\n\ng) Verificar se o objeto da candidatura ou do pedido de apoio tem enquadramento nas elegibilidades específicas, adequação técnica para prossecução dos objetivos e finalidades específicas visadas, bem como viabilidade e sustentabilidade económica e financeira, quando aplicável;\n\nh) Elaborar, para aprovação do membro do Governo responsável pela área do ambiente e da ação climática, os orçamentos anuais, bem como as contas e os relatórios de execução anuais, incluindo os resultados alcançados, recorrendo aos indicadores definidos, devendo estes relatórios ser publicitados no sítio eletrónico do Fundo;\n\ni) Outorgar os contratos de que o Fundo seja parte, incluindo os relativos à atribuição de apoios;\n\nj) Preparar a proposta de decisão quanto ao pedido de apoio e fornecer todos os elementos necessários para a aprovação pelo membro do Governo responsável pela área do ambiente e da ação climática;\n\nk) Assegurar o acompanhamento da execução do contrato relativo à atribuição do apoio, incluindo o pagamento das despesas apresentadas e comprovadas pelos beneficiários, bem como a sua conformidade com a legislação e regulamentação aplicáveis\n\nl) Assegurar o funcionamento de um sistema de controlo interno que previna e detete irregularidades, fraudes, corrupção e conflitos de interesse e que permita a adoção das medidas corretivas oportunas e adequadas;\n\nm) Manter por um período nunca inferior a seis anos após o termo dos programas de financiamento suportados por fundos europeus, os registos em sistema de informação, de todos os documentos relacionados com os projetos e a sua boa execução, bem como os resultados dos controlos e auditorias, mecanismos de tratamento e reporte de irregularidades graves e ainda os procedimentos de recuperação dos montantes indevidamente pagos.\n\n2 - O diretor do Fundo pode delegar no subdiretor as competências previstas no número anterior, competindo ainda a este substituir o diretor nas suas ausências, faltas ou impedimentos.\n\n3 - Sempre que seja suscitada qualquer questão de conformidade dos apoios com as normas de direito europeu e nacional da concorrência, o acompanhamento da decisão e do procedimento de atribuição de financiamento é efetuado pela Direção-Geral dos Assuntos Europeus.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901966266": {
+   "fragment_id": "901183506",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Comissão de Consulta e Acompanhamento",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Comissão de Consulta e Acompanhamento\n\n1 - A Comissão de Consulta e Acompanhamento tem como finalidade coadjuvar a direção do Fundo para uma maior celeridade na adoção, alinhamento estratégico e análise técnica das atividades prosseguidas pelo Fundo.\n\n2 - À Comissão de Consulta e Acompanhamento, mediante solicitação do Fundo, cabe:\n\na) Pronunciar-se sobre os instrumentos de gestão, designadamente o plano anual de atribuição de apoios e utilização das receitas, bem como o relatório de atividades e gestão;\n\nb) Prestar orientação técnica, em razão da matéria, incluindo na elaboração dos avisos;\n\nc) Pronunciar-se sobre outros aspetos identificados pelo Fundo.\n\n3 - A Comissão de Consulta e Acompanhamento é composta pelas seguintes entidades:\n\na) IAPMEI - Agência para a Competitividade e Inovação, I. P.;\n\nb) Agência Portuguesa do Ambiente, I. P.;\n\nc) Direção-Geral de Energia e Geologia;\n\nd) Direção-Geral do Território;\n\ne) Instituto da Conservação da Natureza e das Florestas, I. P.;\n\nf) Instituto da Mobilidade e dos Transportes, I. P.;\n\ng) Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n4 - Sem prejuízo dos números anteriores, podem ser convidadas a participar na Comissão de Consulta e Acompanhamento outras entidades relevantes, por decisão do diretor do Fundo.\n\n5 - Os participantes da Comissão de Consulta e Acompanhamento não auferem qualquer remuneração ou abono pela sua participação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "901966267": {
+   "fragment_id": "105635165",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de controlo interno do Fundo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Sistema de controlo interno do Fundo\n\n1 - A direção do Fundo é responsável pela implementação de um sistema de controlo interno para prevenir e detetar irregularidades, que seja apto a tomar as medidas corretivas adequadas, bem como por um sistema adequado de verificação da realização dos projetos e das intervenções e de validação das despesas, de modo a contribuir para a concretização dos objetivos de auditoria.\n\n2 - O sistema mencionado no número anterior deve definir as regras de avaliação formal e final de cada projeto, e de qualificação e quantificação dos impactos positivos e negativos do mesmo, quando aplicável.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+  }
+ }
+}

@@ -1,0 +1,465 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69977685:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-156432251",
+ "dre_path": "/dr/detalhe/decreto-lei/155-2015-69977685",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156432397",
+    "156432398",
+    "156432399",
+    "156432400",
+    "156432401",
+    "156432402",
+    "156432403",
+    "156432404",
+    "156432405",
+    "156432406",
+    "156432407",
+    "156432408",
+    "156432409",
+    "156432410",
+    "156432411",
+    "156432412",
+    "156432413",
+    "156432414",
+    "156432415",
+    "156432416",
+    "156432417",
+    "156432418",
+    "156432419",
+    "156432420",
+    "156432421",
+    "156432422",
+    "156432423",
+    "156432424",
+    "156432425",
+    "156432426",
+    "156432427",
+    "156432428",
+    "156432429",
+    "156432430",
+    "156432431",
+    "156432432",
+    "156432433",
+    "156432434",
+    "156432435",
+    "156432436",
+    "156432438"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "156432397",
+    "156432398",
+    "156432399",
+    "156432400",
+    "156432401",
+    "156432402",
+    "156432403",
+    "156432404",
+    "156432405",
+    "156432406",
+    "156432407",
+    "156432408",
+    "156432409",
+    "156432410",
+    "156432411",
+    "156432412",
+    "156432413",
+    "156432414",
+    "156432415",
+    "156432416",
+    "156432417",
+    "156432418",
+    "156432419",
+    "156432420",
+    "156432421",
+    "156432422",
+    "156432423",
+    "156432424",
+    "156432439",
+    "156432426",
+    "156432427",
+    "156432428",
+    "156432429",
+    "156432430",
+    "156432431",
+    "156432432",
+    "156432433",
+    "156432434",
+    "156432435",
+    "156432436",
+    "156432437",
+    "156432438"
+   ]
+  }
+ ],
+ "fragments": {
+  "156432397": {
+   "fragment_id": "156432252",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 155/2015\n\nde 10 de agosto\n\nA atividade leiloeira tem vindo a proliferar nos últimos anos, em parte fruto da conjuntura económica desfavorável que se iniciou em 2008, o que conduziu a um crescente e decisivo papel desempenhado pelas empresas leiloeiras nos atos de liquidação empresarial, de execuções judiciais e de insolvências.\n\nEsta situação originou o surgimento de alguns intervenientes, nesta atividade, destituídos da preparação e da idoneidade necessárias ao seu desempenho, com prejuízo dos interesses públicos e privados que a atividade convoca.\n\nVerifica-se, assim, a necessidade de garantir a fiabilidade nas empresas leiloeiras de modo a proteger os interesses de todos os que com elas se relacionam, através da criação de um quadro regulamentador específico que estabelece um conjunto de requisitos considerados essenciais para a atividade leiloeira.\n\nAssim, atendendo à sua natureza e de modo a torná-la mais transparente, estabelecem-se requisitos de idoneidade e de qualificação e exige-se a obtenção de uma autorização prévia a atribuir pela Direção-Geral das Atividades Económicas (DGAE).\n\nInstitui-se, ainda, a obrigação de contratualização de um seguro de responsabilidade civil, garantia financeira ou instrumento equivalente, destinado a assegurar a correta indemnização e cobrir eventuais danos resultantes do exercício da atividade.\n\nEstabelecem-se também algumas regras que devem ser cumpridas no exercício da atividade, designadamente a obrigação de redução a escrito dos contratos de prestação de serviços de leilão, a tipificação de um conjunto de deveres da empresa para com os clientes e destinatários, algumas obrigações de registo e de publicitação de informação, bem como regras aplicáveis aos leilões eletrónicos, cuja realização é cada vez mais frequente.\n\nPor razões de transparência atribui-se à DGAE a responsabilidade de organização e registo das empresas leiloeiras e a disponibilização no seu sítio na Internet da listagem das empresas leiloeiras autorizadas a exercer a atividade e dos respetivos estabelecimentos de atendimento ao público.\n\nPrevê-se por fim a desmaterialização dos procedimentos e a dispensa da apresentação de documentos, quando a informação possa ser obtida diretamente junto da entidade competente detentora da mesma.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156432398": {
+   "fragment_id": "156432253",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "156432399": {
+   "fragment_id": "156432254",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime jurídico da atividade leiloeira, sem prejuízo do disposto em regimes especiais em vigor, designadamente o regime jurídico da ourivesaria e das contratarias, quando envolva a venda em leilão de artigos com metal precioso."
+  },
+  "156432400": {
+   "fragment_id": "156432255",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Atividade leiloeira», a atividade de venda de bens móveis e imóveis, corpóreos e incorpóreos, mediante mandato conferido pelo proprietário dos mesmos ou decorrente de decisão judicial, efetuado em leilão, através de um procedimento de licitação dirigido por um leiloeiro a quem compareça pessoalmente ou intervenha através de um meio de comunicação à distância, em que o bem é adjudicado à melhor oferta ficando o adjudicatário vinculado à aquisição do bem;\n\nb) «Cliente», a pessoa singular ou coletiva que celebra contrato de prestação de serviços de leilão com a empresa leiloeira para a organização e realização de um leilão, nos termos definidos no presente decreto-lei;\n\nc) «Destinatário», a pessoa singular ou coletiva que adquire um bem a cliente da empresa leiloeira na sequência de um leilão;\n\nd) «Empresa leiloeira», a pessoa singular ou coletiva que exerce a atividade leiloeira, nos termos do presente decreto-lei;\n\ne) «Leiloeiro», a pessoa singular que dirige o leilão, por conta ou em nome da empresa leiloeira;\n\nf) «Técnicos de leilão», os colaboradores das empresas leiloeiras que coadjuvam os leiloeiros, executando tarefas necessárias à preparação e ao cumprimento dos contratos celebrados no âmbito de um leilão."
+  },
+  "156432401": {
+   "fragment_id": "156432256",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da atividade leiloeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da atividade leiloeira"
+  },
+  "156432402": {
+   "fragment_id": "156432257",
+   "type": 8,
+   "heading": "Secção I — Regime de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime de autorização"
+  },
+  "156432403": {
+   "fragment_id": "156432258",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização para o exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização para o exercício\n\n1 - A atividade leiloeira só pode ser exercida em território nacional por pessoas, singulares ou coletivas, devidamente autorizadas pela Direção-Geral das Atividades Económicas (DGAE) e que reúnam condições de idoneidade.\n\n2 - Nos termos do disposto na alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente decreto-lei e os requisitos e controlos equivalentes, ou comparáveis quanto à sua finalidade, a que o interessado já tenha sido submetido em Portugal ou noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu."
+  },
+  "156432404": {
+   "fragment_id": "156432259",
+   "type": 11,
+   "heading": "Artigo 4.º — Pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedido de autorização\n\n1 - O pedido de autorização é apresentado no balcão único eletrónico, designado «Balcão do empreendedor», através de formulário próprio, que contém os seguintes elementos:\n\na) Identificação do requerente com menção do nome ou firma e número de identificação fiscal;\n\nb) Endereço da sede ou do domicílio fiscal, consoante se trate de pessoa coletiva ou de empresário em nome individual;\n\nc) Código da certidão permanente ou declaração de início de atividade, consoante se trate de pessoa coletiva ou empresário em nome individual;\n\nd) Certificado de registo criminal do requerente ou, tratando-se de pessoa coletiva, dos respetivos administradores, diretores ou gerentes;\n\ne) Declaração escrita, sob compromisso de honra, atestando que em relação ao requerente ou, tratando-se de pessoa coletiva, aos respetivos administradores, diretores ou gerentes não se verifica qualquer uma das circunstâncias que determina a inidoneidade.\n\n2 - A DGAE verifica a conformidade do pedido de autorização no prazo de cinco dias e, caso o mesmo não se encontre instruído com todos os elementos devidos, emite despacho de convite ao aperfeiçoamento do requerimento, via «Balcão do empreendedor», dispondo o requerente de um prazo máximo de 10 dias para corrigir ou completar o pedido, sob pena de indeferimento liminar."
+  },
+  "156432405": {
+   "fragment_id": "156432260",
+   "type": 11,
+   "heading": "Artigo 5.º — Decisão e emissão do título de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Decisão e emissão do título de autorização\n\n1 - Após verificação da correta instrução do processo, a DGAE comunica a decisão ao interessado, no prazo de 10 dias.\n\n2 - A decisão, quando favorável, é acompanhada de notificação ao requerente para apresentar, no prazo de 30 dias a contar da data da sua receção, prova da celebração do contrato de seguro obrigatório, garantia financeira ou instrumento equivalente, sem o qual não pode iniciar a atividade.\n\n3 - Rececionada a prova da celebração do contrato do seguro obrigatório, a DGAE disponibiliza ao requerente, no prazo de cinco dias, no «Balcão do empreendedor», o título de autorização para o exercício da atividade.\n\n4 - As pessoas singulares ou coletivas que possuam título de autorização para o exercício da atividade devem comunicar à DGAE, no prazo de 30 dias após a sua ocorrência, através do «Balcão do empreendedor», qualquer uma das seguintes situações:\n\na) Alterações ao contrato de seguro, garantia financeira ou instrumento equivalente;\n\nb) Alteração dos administradores, diretores ou gerentes, tratando-se de pessoa coletiva, acompanhada da respetiva prova de idoneidade;\n\nc) Alterações da denominação comercial, da natureza jurídica e da sede ou do domicílio fiscal.\n\n5 - As alterações referidas na alínea c) do número anterior dão lugar à emissão de novo título de autorização para o exercício da atividade."
+  },
+  "156432406": {
+   "fragment_id": "156432261",
+   "type": 11,
+   "heading": "Artigo 6.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Idoneidade\n\n1 - A atividade leiloeira só pode ser exercida por pessoas singulares ou coletivas consideradas idóneas.\n\n2 - Para efeitos do disposto no número anterior, entende-se que determina a inidoneidade da pessoa singular ou coletiva a verificação de alguma das seguintes circunstâncias:\n\na) Ter sido declarada insolvente por decisão judicial nos últimos cinco anos, encontrar-se em fase de liquidação, dissolução ou cessação de atividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, ou que tenha o respetivo processo pendente, salvo quando se encontrar abrangida por um plano especial de recuperação de empresas, sistema de recuperação de empresas por via extrajudicial, ou procedimento extrajudicial de conciliação, ao abrigo da legislação em vigor;\n\nb) Ter sido condenada, com trânsito em julgado, pela prática de um dos seguintes crimes, desde que puníveis com pena de prisão superior a seis meses:\n\ni) Crimes contra o património;\n\nii) Crime de tráfico de metais preciosos ou de gemas;\n\niii) Crime de associação criminosa;\n\niv) Crime de tráfico de estupefacientes;\n\nv) Crime de branqueamento de capitais;\n\nvi) Crime de administração danosa ou corrupção ativa;\n\nvii) Crimes de falsificação;\n\nviii) Crime de tráfico de influência;\n\nix) Crimes tributários ou aduaneiros previstos no Regime Geral das Infrações Tributárias (RGIT), aprovado pela Lei n.º 15/2001, de 5 de junho;\n\nx) Crimes previstos no Código da Propriedade Industrial;\n\nc) Ter sido condenada, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\nd) Encontrar-se inibida para o exercício do comércio, seja qual for a causa que o determine.\n\n3 - Determina ainda a inidoneidade da pessoa coletiva a verificação de alguma das circunstâncias previstas no número anterior relativamente aos seus administradores, diretores ou gerentes.\n\n4 - As condenações a que se refere a alínea b) do n.º 2 deixam de ser relevantes para os efeitos previstos nesse número e no n.º 3 a partir da data do cancelamento definitivo da sua inscrição no registo criminal.\n\n5 - Sempre que se considere existir uma situação de inidoneidade nos termos números anteriores deve a DGAE justificar de forma fundamentada as circunstâncias, de facto e de direito, em que se baseia o seu juízo de inidoneidade.\n\n6 - A falta superveniente do requisito de idoneidade implica a caducidade do título de autorização reportada à data da verificação da circunstância que determina a inidoneidade da pessoa singular ou coletiva."
+  },
+  "156432407": {
+   "fragment_id": "156432262",
+   "type": 11,
+   "heading": "Artigo 7.º — Verificação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Verificação permanente\n\n1 - As exigências estabelecidas nos artigos anteriores quanto ao exercício da atividade são de verificação permanente, devendo as empresas leiloeiras autorizadas comprovar o seu preenchimento sempre que tal lhes for solicitado.\n\n2 - A falta superveniente das exigências referidas no número anterior determina a caducidade do título de autorização para o exercício da atividade."
+  },
+  "156432408": {
+   "fragment_id": "156432263",
+   "type": 11,
+   "heading": "Artigo 8.º — Cessação da atividade e caducidade do título de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cessação da atividade e caducidade do título de autorização\n\n1 - Para efeitos de controlo da validade da autorização, a DGAE recolhe e analisa os elementos que possam ser obtidos oficiosamente, podendo, em caso de dúvida, notificar os interessados para apresentarem, em prazo que não pode ser inferior a 20 dias, os demais elementos necessários.\n\n2 - A empresa leiloeira deve comunicar a cessação da atividade à DGAE, no «Balcão do empreendedor», até 60 dias após a ocorrência desse facto.\n\n3 - A caducidade do título de autorização determina a resolução dos contratos de leilão em vigor, celebrados pela empresa leiloeira relativos ao exercício da atividade em território nacional."
+  },
+  "156432409": {
+   "fragment_id": "156432264",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo das empresas leiloeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo das empresas leiloeiras\n\n1 - A DGAE organiza e mantém atualizado o registo das empresas leiloeiras com base nos títulos de autorização concedidos para o exercício da atividade, disponibilizando no seu sítio na Internet a listagem das empresas leiloeiras autorizadas a exercer a atividade e dos respetivos estabelecimentos de atendimento ao público.\n\n2 - O registo tem como objetivo identificar e caracterizar o universo de pessoas singulares e coletivas que exercem a atividade leiloeira."
+  },
+  "156432410": {
+   "fragment_id": "156432265",
+   "type": 8,
+   "heading": "Secção II — Obrigações das empresas leiloeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Obrigações das empresas leiloeiras"
+  },
+  "156432411": {
+   "fragment_id": "156432266",
+   "type": 11,
+   "heading": "Artigo 10.º — Seguro de responsabilidade civil, garantia financeira ou instrumento equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Seguro de responsabilidade civil, garantia financeira ou instrumento equivalente\n\n1 - Para o exercício da atividade leiloeira é necessário dispor de seguro de responsabilidade civil, garantia financeira ou instrumento equivalente destinado a cobrir eventuais danos patrimoniais causados a terceiros resultantes do exercício da atividade, por ações ou omissões próprias ou dos seus operadores, representantes ou colaboradores, pelas quais possam ser civilmente responsáveis, nos termos definidos no anexo ao presente decreto-lei e do qual faz parte integrante.\n\n2 - O capital seguro, a garantia financeira ou o instrumento equivalente referidos no número anterior devem ser de valor mínimo obrigatório de (euro) 200 000,00, independentemente do número de sinistros ocorridos e do número de lesados, sendo este valor atualizado em cada ano civil pelo índice de preços do consumidor, quando positivo, referente ao ano civil anterior, publicado no Instituto Nacional de Estatística, I. P.\n\n3 - Os seguros, as garantias financeiras ou os instrumentos equivalentes celebrados em outro Estado-Membro da União Europeia ou do Espaço Económico Europeu são reconhecidos nos termos do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n4 - O seguro de responsabilidade civil, a garantia financeira ou instrumento equivalente, destina-se ao ressarcimento dos danos patrimoniais causados a terceiros, decorrentes de ações ou omissões no âmbito do exercício da atividade, dos operadores, seus representantes e colaboradores.\n\n5 - Para efeitos do presente artigo, são considerados «terceiros» todos os que, em resultado de um ato de um leiloeiro, venham a sofrer danos patrimoniais, ainda que não tenham tido intervenção no contrato celebrado por aquele.\n\n6 - Os documentos comprovativos do seguro, da garantia financeira ou do instrumento equivalente devem ser exibidos às autoridades policiais ou à Autoridade de Segurança Alimentar e Económica (ASAE), sempre que solicitados.\n\n7 - As empresas leiloeiras devem enviar à DGAE, anualmente, através do «Balcão do empreendedor», cópia da apólice de seguro, ou documento comprovativo da manutenção do contrato de garantia financeira ou instrumento equivalente, a fim de comprovar a vigência do instrumento destinado a assegurar a devida indemnização e cobrir eventuais danos resultantes do exercício da atividade."
+  },
+  "156432412": {
+   "fragment_id": "156432267",
+   "type": 11,
+   "heading": "Artigo 11.º — Deveres gerais das empresas leiloeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deveres gerais das empresas leiloeiras\n\n1 - As empresas leiloeiras são obrigadas a:\n\na) Disponibilizar no local de realização do leilão, bem como no seu sítio na Internet, o respetivo regulamento com as condições de funcionamento do leilão;\n\nb) Organizar e conservar atualizado um registo de todos os contratos de leilão celebrados no exercício da respetiva atividade;\n\nc) Conservar em arquivo cópia de todos os contratos de leilão celebrados no exercício da atividade, pelo período mínimo de cinco anos a contar da respetiva assinatura.\n\n2 - São livros obrigatórios das empresas leiloeiras:\n\na) Registo de entrada, por ordem, de todos os bens que lhe sejam remetidos para venda;\n\nb) Diário de saída, de todos os bens, efetivamente vendidos ou apenas devolvidos, com menção da data do leilão, nomes dos vendedores e compradores e dos preços obtidos;\n\nc) Diário de leilões, destinado à escrituração de todos os leilões realizados, por ordem cronológica, com indicação da data de leilão, nome do comitente, números dos lotes, nomes dos compradores e a soma total do produto bruto do leilão.\n\n3 - Os representantes das empresas leiloeiras e os respetivos técnicos de leilão devem, no exercício da atividade, estar devidamente identificados com cartão que identifique a empresa e tenha aposto o seu nome."
+  },
+  "156432413": {
+   "fragment_id": "156432268",
+   "type": 11,
+   "heading": "Artigo 12.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Livro de reclamações\n\n1 - As empresas leiloeiras devem dispor de livro de reclamações, nos termos e nas condições estabelecidas no respetivo regime jurídico.\n\n2 - O original da folha de reclamação deve ser enviado pela empresa leiloeira à ASAE."
+  },
+  "156432414": {
+   "fragment_id": "156432269",
+   "type": 11,
+   "heading": "Artigo 13.º — Identificação das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Identificação das empresas\n\nAs empresas leiloeiras devem evidenciar a sua identificação em todos os estabelecimentos de que disponham em território nacional, incluindo nos de caráter provisório e nos respetivos sítios na Internet, com indicação da denominação e do número da respetiva autorização ou do seu registo na DGAE."
+  },
+  "156432415": {
+   "fragment_id": "156432270",
+   "type": 11,
+   "heading": "Artigo 14.º — Estabelecimentos de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estabelecimentos de atendimento\n\n1 - A abertura, ou o encerramento dos estabelecimentos de atendimento ao público das leiloeiras devem ser comunicados à DGAE, através do «Balcão do empreendedor», no prazo de 30 dias a contar do facto respetivo.\n\n2 - A aquisição por trespasse ou a cessão de exploração de estabelecimentos de atendimento afetos à atividade leiloeira não conferem ao adquirente o direito ao exercício da mesma, salvo se for titular de autorização obtida nos termos do artigo 4.º"
+  },
+  "156432416": {
+   "fragment_id": "156432271",
+   "type": 1,
+   "heading": "Capítulo III — Leilões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Leilões"
+  },
+  "156432417": {
+   "fragment_id": "156432272",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de prestação de serviço de leilão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de prestação de serviço de leilão\n\n1 - O contrato de prestação de serviço de leilão é obrigatoriamente reduzido a escrito, de forma clara, precisa e com carateres legíveis, em formato digital com assinatura eletrónica, ou feito em dois exemplares, assinado por ambas as partes.\n\n2 - Do contrato constam, obrigatoriamente, os seguintes elementos:\n\na) A identificação da empresa leiloeira com indicação da sua sede, número de identificação fiscal ou de pessoa coletiva, consoante se trate de pessoa singular ou coletiva, bem como nome e número de identificação fiscal dos seus representantes legais;\n\nb) A identificação do cliente ou da entidade mandante, com menção do nome, residência, número de identificação civil e número fiscal de contribuinte e, quando caso disso, do processo judicial, no âmbito do qual o serviço é adjudicado;\n\nc) Indicação do tipo de bens a submeter a leilão, designadamente, se se trata de bens móveis ou imóveis;\n\nd) A remuneração da empresa leiloeira;\n\ne) A identificação do seguro de responsabilidade civil, da garantia financeira ou instrumento equivalente previsto no n.º 1 do artigo 10.º, com indicação da apólice ou documento comprovativo da manutenção do contrato de garantia financeira ou instrumento equivalente, da empresa de seguros e do capital seguro;\n\nf) A identificação discriminada de eventuais serviços acessórios a prestar pela empresa leiloeira;\n\ng) A referência ao regime de exclusividade, quando acordado, com especificação dos efeitos que do mesmo decorrem, quer para a empresa leiloeira quer para o cliente.\n\n3 - Quando o contrato for omisso sobre o respetivo prazo de duração, considera-se celebrado por um período de seis meses."
+  },
+  "156432418": {
+   "fragment_id": "156432273",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres para com os clientes e destinatários da venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deveres para com os clientes e destinatários da venda\n\n1 - A empresa leiloeira é obrigada a:\n\na) Certificar-se, no momento da celebração do contrato, de que os seus clientes têm capacidade e legitimidade para contratar nos negócios que irá promover;\n\nb) Respeitar as disposições previstas no Decreto-Lei n.º 24/2014, de 14 de fevereiro, alterado pela Lei n.º 47/2014, de 28 de julho, relativo aos contratos celebrados à distância e aos contratos celebrados fora do estabelecimento comercial, que lhes sejam aplicáveis, designadamente a disponibilização de informação pré-contratual;\n\nc) Comunicar imediatamente aos destinatários qualquer facto que possa pôr em causa a concretização do negócio visado;\n\nd) Avisar de imediato os clientes e destinatários sempre que constatem que o estado dos bens que lhes são confiados não corresponde à descrição constante nos documentos que titularam a entrega ou levantamento dos mesmos;\n\ne) Facultar ao público o exame das coisas a leiloar por um período mínimo de duas horas.\n\n2 - Está expressamente vedado à empresa leiloeira:\n\na) Intervir como parte interessada em qualquer negócio que incida sobre os bens compreendidos no contrato de leilão de que seja parte, sendo esta proibição igualmente aplicável nos casos em que o interessado no negócio seja sócio ou representante legal da empresa de leilão, ou cônjuge, ascendente ou descendente no 1.º grau;\n\nb) Vender a crédito sem autorização escrita dos clientes.\n\n3 - As proibições referidas no número anterior são extensíveis aos sócios ou representantes legais da empresa leiloeira, aos seus cônjuges, e aos ascendentes ou descendentes de qualquer destes."
+  },
+  "156432419": {
+   "fragment_id": "156432274",
+   "type": 11,
+   "heading": "Artigo 17.º — Quantias prestadas pelos destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quantias prestadas pelos destinatários\n\n1 - A empresa leiloeira pode exigir o registo prévio dos destinatários do leilão interessados em licitar os bens, bem como o pagamento de uma caução.\n\n2 - É expressamente vedado às empresas leiloeiras utilizar em proveito próprio as quantias referidas no número anterior.\n\n3 - O depósito efetuado nos termos do n.º 1 é gratuito, aplicando-se, com as necessárias adaptações, as disposições previstas no Código Civil para o contrato de depósito.\n\n4 - A conta de venda em leilão será fornecida aos clientes nos 10 dias posteriores à entrega dos bens adjudicados, devendo o pagamento devido ser efetuado nos oito dias subsequentes."
+  },
+  "156432420": {
+   "fragment_id": "156436675",
+   "type": 11,
+   "heading": "Artigo 18.º — Remuneração da empresa leiloeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Remuneração da empresa leiloeira\n\n1 - A remuneração da empresa leiloeira é devida com a conclusão do negócio visado com a realização do leilão.\n\n2 - O direito da empresa leiloeira à remuneração cujo pagamento caiba ao cliente proprietário dos bens objeto do leilão não é afastado pelo exercício de direito legal de preferência, nem pela anulação ou declaração de nulidade da venda efetuada, quando aquela não tenha contribuído para o vício que lhes deu causa, nem pudesse razoavelmente ter conhecimento do mesmo."
+  },
+  "156432421": {
+   "fragment_id": "156436676",
+   "type": 11,
+   "heading": "Artigo 19.º — Leilões eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Leilões eletrónicos\n\nSem prejuízo do cumprimento das demais obrigações aplicáveis aos leilões, a realização de leilões eletrónicos deve obedecer ao seguinte:\n\na) Divulgação, de forma clara e inequívoca, do dia e hora de abertura e de termo de cada leilão eletrónico com, pelo menos, três dias de antecedência face ao seu início;\n\nb) Indicação, no respetivo sítio na Internet, do local e do horário em que os bens podem ser examinados, quando aplicável;\n\nc) As ofertas de licitação, uma vez introduzidas no sistema, não podem ser retiradas;\n\nd) Divulgação do resultado do leilão eletrónico no sítio na Internet, com indicação do montante pelo qual os bens foram adjudicados, de forma clara e inequívoca;\n\ne) Comprovação da identidade dos participantes no leilão através de meios de autenticação segura, nomeadamente o cartão de cidadão ou a chave móvel digital."
+  },
+  "156432422": {
+   "fragment_id": "156436677",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "156432423": {
+   "fragment_id": "156436678",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidade competente para a fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entidade competente para a fiscalização\n\nSem prejuízo dos poderes de fiscalização cometidos a outras entidades públicas, cabe à ASAE a fiscalização do cumprimento do disposto no presente decreto-lei."
+  },
+  "156432424": {
+   "fragment_id": "156436679",
+   "type": 11,
+   "heading": "Artigo 21.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Medidas cautelares\n\n1 - Quando existam fortes indícios da prática de contraordenações consideradas muito graves, ou quando se verifique a existência de perigo de destruição de meios de prova necessários à instrução do processo de contraordenação ou de continuação da prática da infração, a ASAE pode determinar a aplicação das seguintes medidas cautelares:\n\na) Suspensão do exercício da atividade por um período até um ano;\n\nb) Encerramento preventivo e temporário de estabelecimento;\n\nc) Apreensão provisória de bens e documentos.\n\n2 - As medidas aplicadas nos termos do número anterior vigoram até ao seu levantamento pela ASAE ou por decisão judicial."
+  },
+  "156432425": {
+   "fragment_id": "156436680",
+   "type": 11,
+   "heading": "Artigo 22.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Contraordenações\n\n1 - Sem prejuízo da responsabilidade civil ou criminal a que houver lugar, designadamente pela prestação de falsas declarações ou por falsificação dos comprovativos de apresentação das comunicações, ou outros documentos obrigatórios previstos no presente decreto-lei, constituem:\n\na) Contraordenações muito graves:\n\ni) O exercício da atividade sem o título de autorização referido no n.º 3 do artigo 5.º;\n\nii) O exercício da atividade com o título de autorização caducado por aplicação do disposto no n.º 6 do artigo 6.º ou no n.º 2 do artigo 7.º;\n\niii) O incumprimento do disposto nos n.os 2 e 3 do artigo 16.º;\n\nb) Contraordenações graves:\n\ni) O incumprimento do disposto no n.º 4 do artigo 5.º e no n.º 7 do artigo 10.º;\n\nii) O incumprimento do disposto nos n.os 1 e 2 do artigo 11.º;\n\niii) O incumprimento do disposto no artigo 13.º;\n\niv) O incumprimento do disposto no n.º 1 do artigo 14.º;\n\nv) O incumprimento do disposto nos n.os 1 e 2 do artigo 15.º;\n\nvi) O incumprimento do disposto no n.º 1 do artigo 16.º;\n\nvii) O incumprimento do disposto nos n.os 2 e 3 do artigo 17.º;\n\nviii) O incumprimento do disposto no artigo 20.º;\n\nc) Contraordenações leves:\n\ni) O incumprimento do disposto no n.º 2 do artigo 8.º;\n\nii) O incumprimento do disposto no n.º 3 do artigo 11.º\n\n2 - As contraordenações muito graves são puníveis com coima de (euro) 1 500,00 a (euro) 3 740,00 ou de (euro) 10 000,00 a (euro) 44 000,00, consoante se trate de pessoa singular ou pessoa coletiva.\n\n3 - As contraordenações graves são puníveis com coima de (euro) 1 000,00 a (euro) 2 500,00 ou de (euro) 5 000,00 a (euro) 25 000,00, consoante se trate de pessoa singular ou pessoa coletiva.\n\n4 - As contraordenações leves são puníveis com coima de (euro) 750,00 a (euro) 1 500,00 ou de (euro) 2 000,00 a (euro) 20 000,00, consoante se trate de pessoa singular ou pessoa coletiva.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n6 - A negligência é punível, sendo os limites mínimos e máximos da coima reduzidos para metade."
+  },
+  "156432426": {
+   "fragment_id": "156436681",
+   "type": 11,
+   "heading": "Artigo 23.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sanções acessórias\n\n1 - Em função da gravidade das infrações e da culpa do agente, podem, em simultâneo com a coima, ser aplicadas as seguintes sanções acessórias:\n\na) Interdição do exercício da atividade por um período até dois anos;\n\nb) Encerramento do estabelecimento, até dois anos.\n\n2 - Pode ainda ser determinada a publicação de extrato da decisão condenatória em jornal de difusão nacional, regional ou local, consoante as circunstâncias da infração, e a afixação daquele extrato no estabelecimento, pelo período de 30 dias, em lugar e por forma bem visível.\n\n3 - As despesas resultantes da publicidade a que se refere o número anterior são suportadas pelo infrator."
+  },
+  "156432427": {
+   "fragment_id": "156436682",
+   "type": 11,
+   "heading": "Artigo 24.º — Instrução dos processos e aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Instrução dos processos e aplicação das coimas e sanções acessórias\n\nCabe à ASAE instaurar e instruir os processos relativos às contraordenações previstas no presente decreto-lei, competindo ao seu inspetor-geral a aplicação das respetivas coimas e sanções acessórias."
+  },
+  "156432428": {
+   "fragment_id": "156436683",
+   "type": 11,
+   "heading": "Artigo 25.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Destino do produto das coimas\n\nO produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 30 % para a ASAE;\n\nc) 10 % para a DGAE."
+  },
+  "156432429": {
+   "fragment_id": "156436684",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "156432430": {
+   "fragment_id": "156436685",
+   "type": 11,
+   "heading": "Artigo 26.º — Intervenção de notário ou profissional equiparado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Intervenção de notário ou profissional equiparado\n\n1 - A escritura pública ou o documento particular que titule negócio sobre bem leiloado deve mencionar se o mesmo foi objeto da intervenção de empresa leiloeira, com indicação, em caso afirmativo, da respetiva denominação social e número da autorização.\n\n2 - O notário ou profissional equiparado que intervenha em negócios sobre bens leiloados deve advertir os intervenientes do dever de fazerem constar dos documentos respetivos a intervenção referida no número anterior de que tenham conhecimento.\n\n3 - Quando, no exercício das respetivas funções, detete indícios de exercício da atividade leiloeira por pessoa singular ou coletiva que não esteja legalmente habilitada para o exercício daquela atividade, o notário ou profissional equiparado deve enviar à ASAE, no prazo de 15 dias, cópia dos documentos em que conste a intervenção do potencial infrator."
+  },
+  "156432431": {
+   "fragment_id": "156436686",
+   "type": 11,
+   "heading": "Artigo 27.º — Dispensa de apresentação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Dispensa de apresentação de documentos\n\n1 - No âmbito dos procedimentos administrativos previstos no presente decreto-lei, os requerentes podem solicitar que a apresentação de documentos em posse de qualquer serviço ou organismo da Administração Pública seja dispensada, nos termos do n.º 2 do artigo 116.º do Código do Procedimento Administrativo e do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.\n\n2 - A DGAE deve celebrar protocolos com entidades públicas intervenientes em ocorrências relevantes para os efeitos referidos nos n.os 1 e 3 do artigo 7.º e no artigo 11.º, com vista a tomar conhecimento oficioso dessas ocorrências.\n\n3 - Da vigência dos protocolos a que se refere o número anterior é obrigatoriamente dado conhecimento aos interessados, nomeadamente através de publicitação no sítio na Internet da DGAE e no «Balcão do empreendedor».\n\n4 - No caso de se pretender a obtenção e ou validação de elementos relativos a pessoas singulares constantes na base de dados da Autoridade Tributária e Aduaneira (AT), a informação relativa à identificação e localização, data de início e fim de atividade, e respetiva CAE, é confirmada através de ligação à base de dados da AT, nos termos a definir por protocolo a celebrar entre a AT, a Agência para a Modernização Administrativa, I. P., e a DGAE, sem prejuízo da observância dos demais requisitos legalmente necessários para o efeito."
+  },
+  "156432432": {
+   "fragment_id": "156436687",
+   "type": 11,
+   "heading": "Artigo 28.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regiões Autónomas\n\nAs competências conferidas no presente decreto-lei à DGAE e à ASAE são exercidas nas Regiões Autónomas pelos respetivos serviços regionais que exerçam competências análogas."
+  },
+  "156432433": {
+   "fragment_id": "156436688",
+   "type": 11,
+   "heading": "Artigo 29.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cooperação administrativa\n\nAs autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores já estabelecidos noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, nos termos do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno."
+  },
+  "156432434": {
+   "fragment_id": "156436689",
+   "type": 11,
+   "heading": "Artigo 30.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Avaliação\n\nO acompanhamento da aplicação do presente decreto-lei compete à DGAE, cabendo-lhe elaborar e publicar, no final do segundo ano a contar da data da respetiva entrada em vigor, e posteriormente com uma periodicidade bienal, com base em dados fornecidos pela ASAE, um relatório sobre a execução do diploma e avaliação do impacte da aplicação do mesmo."
+  },
+  "156432435": {
+   "fragment_id": "156436690",
+   "type": 11,
+   "heading": "Artigo 31.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Disposição transitória\n\nAs pessoas singulares ou coletivas que exercem atualmente a atividade leiloeira dispõem de um período de 180 dias para darem cumprimento ao disposto no presente decreto-lei, a contar da data da entrada em vigor deste."
+  },
+  "156432436": {
+   "fragment_id": "156436691",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "156432438": {
+   "fragment_id": "156436693",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 10.º)\n\nCondições mínimas do seguro de responsabilidade civil das empresas leiloeiras\n\n1 - O contrato de seguro de responsabilidade civil das empresas leiloeiras garante a obrigação de indemnizar terceiros por danos patrimoniais decorrentes de ações ou omissões próprias ou dos seus operadores, representantes ou colaboradores no exercício da atividade, pelas quais possam ser civilmente responsáveis, ainda que, sem prejuízo do disposto no número seguinte, se verifique:\n\na) A cessação da atividade leiloeira;\n\nb) A caducidade do título de autorização para o exercício da atividade leiloeira;\n\nc) A resolução do contrato de seguro de responsabilidade civil.\n\n2 - Da apólice de seguro deve constar expressamente que, nos casos previstos nas subalíneas do número anterior e independentemente da respetiva causa, o seguro responderá pelos danos ocorridos no decurso da vigência do contrato e reclamados até um ano após a data da cessação da atividade, da caducidade ou do cancelamento do título de autorização ou da resolução do contrato de seguro.\n\n3 - Nos casos previstos nas alíneas a) e b) do n.º 1 do presente anexo, o contrato de seguro caduca às 24 horas do próprio dia da sua verificação, devendo o tomador do seguro comunicar tal ocorrência à empresa de seguros no prazo de 24 horas.\n\n4 - O contrato de seguro pode excluir do seu âmbito de cobertura:\n\na) A responsabilidade por danos decorrentes da falta de capacidade e legitimidade para contratar dos clientes que intervenham em negócios promovidos pelas empresas leiloeiras, quando estes factos lhes sejam dolosamente ocultados e nos casos em que seja impossível o cumprimento do dever previsto na alínea a) do n.º 1 do artigo 16.º;\n\nb) A responsabilidade pelos danos decorrentes da impossibilidade de cumprimento de quaisquer obrigações legais por facto de força maior não imputável à empresa leiloeira;\n\nc) A responsabilidade pelo pagamento de danos decorrentes da aplicação de quaisquer fianças, taxas, multas ou coimas, impostas por autoridades competentes, bem como de outras penalidades de natureza sancionatória ou fiscal e por indemnizações fixadas, a título punitivo, de danos exemplares ou outras reclamações de natureza semelhante;\n\nd) Danos decorrentes da ocorrência de guerra, greve, lock-out, tumultos, comoções civis, assaltos em consequência de distúrbios laborais, sabotagem, terrorismo, atos de vandalismo, insurreições civis ou militares ou decisões de autoridades ou de forças usurpando a autoridade e hijacking;\n\ne) Danos causados aos sócios, gerentes, representantes legais ou agentes da pessoa coletiva cuja responsabilidade se garanta;\n\nf) Danos causados a quaisquer pessoas cuja responsabilidade esteja garantida pelo presente contrato, bem como ao cônjuge, pessoa que viva em união de facto com o segurado, ascendentes e descendentes ou pessoas que com eles coabitem ou vivam a seu cargo;\n\ng) Danos garantidos ao abrigo de qualquer outro tipo de seguro ou garantia obrigatório(a);\n\nh) Danos imputáveis ao próprio lesado, na medida dessa imputação;\n\ni) Danos aos bens confiados.\n\n5 - O contrato de seguro pode prever o direito de regresso da seguradora nos seguintes casos:\n\na) Quando a responsabilidade decorrer de factos praticados pela empresa leiloeira para obtenção de benefícios e ou redução de custos de natureza fiscal;\n\nb) Quando a responsabilidade decorrer de atos ou omissões praticados pelo segurado ou por pessoa por quem este seja civilmente responsável quando praticados em estado de demência ou sob a influência do álcool ou de outras substâncias ou estupefacientes ou psicotrópicas;\n\nc) Quando o contrato de leilão for nulo por vício de forma;\n\nd) Quando os danos decorram de atos ou omissões dolosas do segurado ou de pessoas por quem este seja civilmente responsável ou quando a omissão ou ato gerador de responsabilidade civil seja qualificado como crime ou contraordenação.\n\n6 - O contrato de seguro abrange a responsabilidade civil emergente de danos ocorridos no território nacional.\n\n7 - O período de vigência do contrato de seguro é anual, renovável por iguais períodos."
+  },
+  "156432439": {
+   "fragment_id": "156436680",
+   "type": 11,
+   "heading": "Artigo 22.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 144.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 22.º — Contraordenações\n\n1 - Sem prejuízo da responsabilidade civil ou criminal a que houver lugar, designadamente pela prestação de falsas declarações ou por falsificação dos comprovativos de apresentação das comunicações, ou outros documentos obrigatórios previstos no presente decreto-lei, constituem:\n\naa) Contraordenações económicas muito graves:\n\ni) O exercício da atividade sem o título de autorização referido no n.º 3 do artigo 5.º;\n\nii) O exercício da atividade com o título de autorização caducado por aplicação do disposto no n.º 6 do artigo 6.º ou no n.º 2 do artigo 7.º;\n\niii) O incumprimento do disposto nos n.os 2 e 3 do artigo 16.º;\n\nb) Contraordenações económicas graves:\n\ni) O incumprimento do disposto no n.º 4 do artigo 5.º e no n.º 7 do artigo 10.º;\n\nii) O incumprimento do disposto nos n.os 1 e 2 do artigo 11.º;\n\niii) O incumprimento do disposto no artigo 13.º;\n\niv) O incumprimento do disposto no n.º 1 do artigo 14.º;\n\nv) O incumprimento do disposto nos n.os 1 e 2 do artigo 15.º;\n\nvi) O incumprimento do disposto no n.º 1 do artigo 16.º;\n\nvii) O incumprimento do disposto nos n.os 2 e 3 do artigo 17.º;\n\nviii) O incumprimento do disposto no artigo 20.º;\n\nc) Contraordenações económicas leves:\n\ni) O incumprimento do disposto no n.º 2 do artigo 8.º;\n\nii) O incumprimento do disposto no n.º 3 do artigo 11.º\n\n2 - As contraordenações económicas previstas no número anterior são puníveis nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 144.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156432437": {
+   "fragment_id": "156436692",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima.\n\nPromulgado em 30 de julho de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 3 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

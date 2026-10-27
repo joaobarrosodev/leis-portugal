@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:302769:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-927638096",
+ "dre_path": "/dr/detalhe/decreto-lei/89-2002-302769",
+ "source_lastmod": "2025-08-01",
+ "versions": [
+  {
+   "date": "2002-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "927412159",
+    "927412160",
+    "927412161",
+    "927412164"
+   ]
+  }
+ ],
+ "fragments": {
+  "927412159": {
+   "fragment_id": "927638097",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/2002\n\nde 9 de Abril\n\nNo contexto da estratégia nacional e comunitária de uma gestão adequada de resíduos, o Plano Estratégico de Gestão de Resíduos Industriais (PESGRI 99), aprovado pelo Decreto-Lei n.º 516/99, de 2 de Dezembro, constituiu um importante instrumento de planeamento destinado a fornecer aos responsáveis políticos e da Administração Pública e a todos os agentes da indústria nacional um conjunto fundamentado de orientações e recomendações tendentes a apoiar decisões em matéria de recolha e tratamento de resíduos industriais.\n\nIntegrando a inventariação e a caracterização dos resíduos industriais produzidos ou existentes em Portugal, o PESGRI 99 assumiu como objectivos prioritários a sua redução, reutilização e reciclagem.\n\nEntretanto, e como consequência natural da dinâmica do processo de planeamento e à luz dos conhecimentos mais recentes sobre a gestão dos resíduos industriais, nomeadamente no que diz respeito à inventariação dos resíduos produzidos e armazenados, assim como dos melhores tipos de tratamento para cada resíduo industrial, na óptica do ambiente e da saúde pública, entendeu-se proceder à revisão do PESGRI 99.\n\nAssim, através do presente diploma, procede-se à revisão do PESGRI 99, que se passa a designar PESGRI 2001, dando-se simultaneamente cumprimento, por esta via, ao preceituado no artigo 3.º do Decreto-Lei n.º 516/99, de 2 de Dezembro, e no n.º 3 do artigo 6.º da Lei n.º 20/99, de 15 de Abril, na redacção dada pela Lei n.º 22/2000, de 10 de Agosto.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "927412160": {
+   "fragment_id": "927638098",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nPelo presente diploma, é revisto o Plano Estratégico de Gestão de Resíduos Industriais (PESGRI 99) aprovado pelo Decreto-Lei n.º 516/99, de 2 de Dezembro, passando a nova versão do referido Plano, a partir da entrada em vigor deste decreto-lei, a designar-se PESGRI 2001."
+  },
+  "927412161": {
+   "fragment_id": "927638099",
+   "type": 11,
+   "heading": "Artigo 2.º — Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Anexo\n\nO PRESGRI 2001 é publicado em anexo ao presente decreto-lei e dele faz parte integrante."
+  },
+  "927412164": {
+   "fragment_id": "927638102",
+   "type": 4,
+   "heading": "Parte I — Introdução e dados de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I — Introdução e dados de base"
+  }
+ }
+}

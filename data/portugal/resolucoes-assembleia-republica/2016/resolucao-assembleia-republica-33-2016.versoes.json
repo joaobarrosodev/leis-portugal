@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73643063:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2016-903114121",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/33-2016-73643063",
+ "source_lastmod": "2025-01-10",
+ "versions": [
+  {
+   "date": "2016-02-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "903110723"
+   ]
+  }
+ ],
+ "fragments": {
+  "903110723": {
+   "fragment_id": "903114122",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 33/2016\n\nEleição para o Conselho Superior de Informações\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição e da alínea g) do n.º 2 do artigo 18.º da Lei Quadro do Sistema de Informações da República Portuguesa, alterada e republicada pela Lei Orgânica n.º 4/2014, de 13 de agosto, eleger para o Conselho Superior de Informações os seguintes Deputados:\n\nEfetivos:\n\nTeresa de Andrade Leal Coelho (PSD).\n\nAscenso Luís Seixas Simões (PS).\n\nSuplentes:\n\nHugo Alexandre Lopes Soares (PSD).\n\nJoão Paulo de Loureiro Rebelo (PS)."
+  }
+ }
+}

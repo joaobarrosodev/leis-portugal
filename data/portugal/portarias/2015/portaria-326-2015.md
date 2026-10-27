@@ -1,0 +1,322 @@
+---
+schema_version: '1.0'
+id: pt:dre:70427490:por
+title: Portaria n.º 326/2015
+short_title: null
+summary: Aprova os requisitos e condições de exercício da atividade de verificador de pós-avaliação de projetos sujeitos a
+  avaliação de impacte ambiental
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 326/2015
+official_date: null
+publication_date: '2015-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/2015, Série I de 2015-10-02
+  number: '193'
+  series: I
+  supplement: null
+  pages: 8584 - 8586
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19300/0858408586.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-01-18'
+version_history:
+  file: portaria-326-2015.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-01-18'
+    amending: pt:dre:105761473:por
+    amending_title: Portaria n.º 30/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/326/2015/p/cons/20170117/pt/html
+  oj: null
+  dre: '70427490'
+  dre_path: /dr/detalhe/portaria/326-2015-70427490
+  internal: pt:dre:70427490:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-2015-70427490
+  metadata_url: https://data.dre.pt/eli/port/326/2015/p/cons/20170117/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-105769676
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-105769676
+  retrieved_at: '2026-10-22T12:09:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3a0994b76b0ed0544faa6d97316007fbf0d9ef27b35b988d4bbdb297880d8588
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:52Z'
+  notes: 2 versão(ões); histórico completo em portaria-326-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Formação Profissional
+- Certificação Profissional
+- Fiscalização
+- Projeto de Investimento
+- Avaliação de Impacte Ambiental
+- Verificador Ambiental
+- Agência Portuguesa do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:105761473:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/30-2017-105761473
+  date: '2017-01-17'
+- type: cites
+  target: celex:32011L0092
+  label: null
+  source: http://data.europa.eu/eli/dir/2011/92/oj
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/151-b/2013/10/31/p/dre
+- type: cites
+  target: pt:dre:572123:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/47/2014/03/24/p/dre
+- type: cites
+  target: pt:dre:70128402:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/179/2015/08/27/p/dre
+- type: transposes
+  target: celex:32011L0092
+  label: null
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:52Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 326/2015
+
+Portaria n.º 326/2015
+
+de 2 de outubro
+
+O Decreto-Lei n.º 151-B/2013, de 31 de outubro, alterado pelo Decreto-Lei n.º 47/2014, de 24 de março e pelo Decreto-Lei n.º 179/2015, de 27 de agosto, estabelece o regime jurídico da avaliação de impacte ambiental (AIA) dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente, transpondo para a ordem jurídica interna a Diretiva n.º 2011/92/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa à avaliação dos efeitos de determinados projetos públicos e privados no ambiente.
+
+O referido regime de AIA prevê, no procedimento de pós-avaliação, a realização de auditorias para verificação da implementação das condições impostas pela declaração de impacte ambiental (DIA), ou pela decisão da conformidade ambiental do projeto de execução (DCAPE), que devem ser realizadas por verificadores qualificados pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.).
+
+Os requisitos e condições de exercício da atividade de verificador de pós-avaliação são definidos por portaria a aprovar pelo membro do Governo responsável pela área do ambiente, ouvidos os responsáveis pelas áreas de tutela dos projetos abrangidos.
+
+Nesta conformidade, torna-se necessário fixar os requisitos e condições de exercício da atividade de verificador de pós-avaliação, nos termos e para os efeitos do disposto no n.º 3 do artigo 27.º do regime de AIA.
+
+Foram ouvidos os membros do Governo responsáveis pelas áreas da economia e da agricultura e do mar.
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 27.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, alterado pelo Decreto-Lei n.º 47/2014, de 24 de março, e pelo Decreto-Lei n.º 179/2015, de 27 de agosto, manda o Governo, pelo Secretário de Estado do Ambiente, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria aprova os requisitos e condições de exercício da atividade de verificador de pós-avaliação de projetos sujeitos a avaliação de impacte ambiental, constantes do anexo à presente portaria, da qual faz parte integrante, nos termos e para os efeitos do disposto no n.º 3 do artigo 27.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, alterado pelo Decreto-Lei n.º 47/2014, de 24 de março e pelo Decreto-Lei n.º 179/2015, de 27 de agosto.
+
+###### Artigo 2.º — Registo de verificadores de pós-avaliação
+
+A Agência Portuguesa do Ambiente, I. P. (APA, I. P.) mantém o registo dos verificadores em condições de exercer a atividade nos termos da presente portaria, e assegura a sua divulgação no seu sítio da internet.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 29 de setembro de 2015.
+
+## Anexo — (a que se refere o artigo 1.º)
+
+Requisitos e condições de exercício da atividade de verificador de pós-avaliação de projetos sujeitos a avaliação de impacte ambiental
+
+###### Artigo 1.º — Âmbito
+
+Os requisitos e condições de exercício da atividade de verificador de pós-avaliação de projetos sujeitos a avaliação de impacte ambiental (AIA), aprovados nos termos e para os efeitos do disposto no n.º 3 do artigo 27.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, alterado pelo Decreto-Lei n.º 47/2014, de 24 de março e pelo Decreto-Lei n.º 179/2015, de 27 de agosto, aplicam-se a verificadores de pós-avaliação de projetos sujeitos a AIA (verificador), entendidos como pessoas singulares que atuam em nome próprio ou de outrem, independentes do proponente e do projeto, devidamente qualificadas nos termos dos artigos seguintes.
+
+###### Artigo 2.º — Condições de acesso à qualificação de verificador
+
+Para aceder à qualificação de verificador os candidatos devem reunir, cumulativamente, as seguintes condições:
+
+a) Formação de grau superior em áreas de Ciências da Vida, Ciências Físicas, Engenharia e Técnicas Afins ou Proteção do Ambiente;
+
+b) Formação profissional, no mínimo de quarenta horas, que contemple, pelo menos, duas das seguintes áreas:
+
+i) Sistemas de gestão ambiental;
+
+ii) Acompanhamento ambiental de obra;
+
+iii) Metodologia de realização de auditorias;
+
+iv) Metodologias de identificação e avaliação de impactes ambientais;
+
+v) Enquadramento legislativo e regulamentar relevante em matéria de legislação ambiental, nomeadamente legislação nacional e comunitária relativa ao regime de AIA;
+
+c) A formação prevista na alínea anterior pode ser equiparada à formação ministrada pelo candidato, desde que devidamente comprovada.
+
+d) Experiência profissional de cinco anos que inclua, pelo menos, duas das seguintes áreas:
+
+i) Aplicação de metodologias de avaliação de impactes ambientais ou elaboração de estudos de impacte ambiental;
+
+ii) Definição, implementação e/ou verificação da implementação de planos de acompanhamento ambiental de obra;
+
+iii) Realização de auditorias a Sistemas de Gestão Ambiental;
+
+e) Participação, nos três anos que antecedem a candidatura, como auditor efetivo, em pelo menos quatro auditorias completas a Sistemas de Gestão, com a duração mínima de um dia cada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 30/2017 - Diário da República n.º 12/2017, Série I de 2017-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/30-2017-105761473), em vigor a partir de 2017-01-18
+
+###### Artigo 3.º — Deveres do verificador
+
+1 - São deveres do verificador:
+
+a) Verificar a implementação das condições impostas pela declaração de impacte ambiental (DIA) e pela decisão sobre a conformidade ambiental do projeto de execução (DCAPE) que se encontrem válidas à data da realização da auditoria;
+
+b) Conhecer a legislação e orientações nacionais e europeias em matéria de AIA e as aplicáveis em matéria de ambiente;
+
+c) Cumprir os procedimentos de qualificação e validação, aprovados e publicitados pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.) no seu sítio da internet;
+
+d) Elaborar os relatórios de auditoria e de atividade.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, o verificador faz-se acompanhar, sempre que considere necessário, dos peritos adequados à verificação da implementação das condições impostas pela DIA e pela DCAPE, os quais deverão ter comprovado mérito técnico e científico nas áreas que carecem de apoio especializado.
+
+3 - Para efeitos do disposto na alínea c) do n.º 1, considera-se o seguinte:
+
+a) O relatório de auditoria relativo à verificação de pós-avaliação de projetos sujeitos a AIA, a apresentar ao proponente, é elaborado de acordo com o "Modelo de relatório de auditoria de pós-avaliação", aprovado pela APA, I. P. e deve ser acompanhado de uma declaração de conformidade;
+
+b) O relatório da atividade do verificador é entregue anualmente até ao dia 31 de janeiro, e elaborado de acordo com o "Modelo de relatório da atividade do verificador de pós-avaliação", aprovado pela APA, I. P.
+
+###### Artigo 4.º — Impedimentos e incompatibilidades
+
+1 - São causas de impedimento para o acesso à qualificação de verificador:
+
+a) O estado de insolvência ou de cessação de atividade, ou a pendência do respetivo processo;
+
+b) A condenação, por sentença transitada em julgado, por qualquer delito que afete a honorabilidade profissional, ou a punição disciplinar por falta grave em matéria profissional, se entretanto não tiver ocorrido a reabilitação.
+
+2 - O verificador não pode exercer a sua atividade em projetos no âmbito dos quais o próprio, ou a pessoa coletiva que representa, tenha mantido relações laborais ou de prestação de serviços com o respetivo proponente, no âmbito do procedimento de AIA, da execução ou respetiva verificação das medidas impostas por esse procedimento, exceto as atividades de verificação como verificador qualificado pela APA, I. P.
+
+3 - No âmbito de uma auditoria, o verificador não pode contratar peritos que tenham mantido relações laborais ou de prestação de serviços com o proponente do projeto sujeito a auditoria, no âmbito do procedimento de AIA, da execução ou respetiva verificação das medidas impostas por esse procedimento, exceto as atividades de peritagem de apoio a verificador qualificado pela APA, I. P.
+
+###### Artigo 5.º — Formalização de candidatura
+
+1 - A candidatura à qualificação de verificador é realizada mediante requerimento dirigido ao Presidente do Conselho Diretivo da APA, I. P., instruído com os seguintes documentos:
+
+a) Formulário de candidatura, devidamente preenchido;
+
+b) Currículo profissional, datado, assinado e detalhado, designadamente, com a seguinte informação:
+
+i) Habilitações literárias;
+
+ii) Experiência profissional, descrevendo em especial as funções relevantes para o exercício da atividade de verificador a que se candidata;
+
+iii) Formação profissional, indicando data de realização, duração e entidade promotora;
+
+c) Declaração, sob compromisso de honra, de que reúne os requisitos de candidatura estabelecidos na presente portaria;
+
+d) Declaração, sob compromisso de honra, de que assegura em relação a si próprio a independência exigida para o exercício da função no âmbito do n.º 2 do artigo 4.º;
+
+e) Declaração, sob compromisso de honra, de que exige aos peritos referidos no n.º 2 do artigo 3.º a independência exigida para o exercício da função no âmbito do n.º 3 do artigo 4.º;
+
+f) Documentos comprovativos do cumprimento das condições definidas no artigo 2.º
+
+2 - Caso o candidato atue em nome de pessoa coletiva, para além dos documentos previstos no número anterior, deverá ainda instruir o requerimento com os seguintes elementos:
+
+a) Documento, emitido pela pessoa coletiva, que explicite as funções exercidas e o vínculo à data da candidatura;
+
+b) Declaração, sob compromisso de honra, emitida pela pessoa coletiva, que assegure a independência da mesma para efeitos do disposto no n.º 2 do artigo 4.º
+
+3 - As candidaturas à qualificação de verificador decorrem anualmente entre 1 de janeiro e 1 de março, podendo a APA, I. P., quando necessário, determinar períodos extraordinários de candidatura;
+
+4 - A APA, I. P. aprova a minuta do requerimento previsto no n.º 1 e publicita-o no seu sítio da internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 30/2017 - Diário da República n.º 12/2017, Série I de 2017-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/30-2017-105761473), em vigor a partir de 2017-01-18
+
+###### Artigo 6.º — Avaliação de candidatura e emissão do certificado de qualificação
+
+1 - A APA, I. P. analisa as candidaturas, seleciona os candidatos que reúnem as condições de acesso à qualificação de verificador de pós-avaliação, e emite os respetivos certificados.
+
+2 - O certificado de verificador emitido nos termos do número anterior é válido por quatro anos.
+
+3 - Em caso de alteração de elementos no certificado de qualificação, não imputável à APA, I. P., o verificador deve solicitar a respetiva atualização.
+
+###### Artigo 7.º — Validação da qualificação
+
+1 - O verificador que pretenda validar a sua qualificação por mais quatro anos, apresenta o respetivo pedido à APA, I.P até três meses antes da caducidade do certificado de qualificação ou da declaração de validação.
+
+2 - A APA, I. P. decide o pedido, de acordo com os procedimentos e critérios aplicáveis, tendo em conta o disposto nos números seguintes.
+
+3 - A validação da qualificação do verificador fica condicionada:
+
+a) À avaliação positiva de ações de verificação realizadas, sob a forma de auditorias de testemunho presenciais ou documentais;
+
+b) Ao cumprimento dos deveres previstos no artigo 3.º;
+
+c) À realização de formação de atualização, no mínimo de trinta horas, no período de quatro anos, nas áreas previstas na alínea b) do artigo 2.º ou em áreas específicas recomendadas pela APA, I. P., no seu sítio da internet ou durante o Encontro de Verificadores, a qual deve ser evidenciada em sede do relatório de atividade do verificador;
+
+d) À demonstração da atividade do verificador nos quatro anos anteriores à validação da qualificação;
+
+e) À participação no Encontro de Verificadores, e sempre que aplicável, com aproveitamento nos exercícios realizados.
+
+4 - Sempre que se justifique, designadamente, por necessidade de clarificação ou de harmonização de procedimentos decorrentes da aplicação de nova regulamentação, a APA, I. P. pode determinar a realização de ações de formação obrigatórias para a validação da qualificação do verificador de pós-avaliação.
+
+5 - A validação da qualificação do verificador é feita através da emissão de uma declaração pela APA, I. P.
+
+6 - Em caso de alteração de elementos na declaração de validação, não imputável à APA, I. P., o verificador deve solicitar a respetiva atualização.
+
+7 - A não validação da qualificação inibe o verificador de exercer a atividade.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 30/2017 - Diário da República n.º 12/2017, Série I de 2017-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/30-2017-105761473), em vigor a partir de 2017-01-18
+
+###### Artigo 8.º — Anulação do certificado de qualificação de verificador
+
+1 - A APA, I. P. pode revogar o certificado de qualificação de verificador quando verifique uma das seguintes situações:
+
+a) Falsas declarações, designadamente no âmbito dos procedimentos de candidatura à qualificação e validação da qualificação de verificador de pós-avaliação, ou nos relatórios de exercício da atividade de verificador de pós-avaliação;
+
+b) Condenação por sentença transitada em julgado por qualquer delito que afete a honorabilidade profissional ou punição disciplinar por falta grave em matéria profissional, se entretanto não tiver ocorrido a reabilitação;
+
+c) Exercício da atividade de verificador em violação ao disposto no n.º 2 do artigo 4.º;
+
+d) Utilização da qualificação de verificador em outros domínios que não a atividade de verificador de pós-avaliação.
+
+2 - A revogação do certificado inibe o verificador de exercer a atividade durante o período de quatro anos.

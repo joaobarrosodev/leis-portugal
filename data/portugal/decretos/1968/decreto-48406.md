@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:271227:por
+title: Decreto n.º 48406
+short_title: null
+summary: Define as condições em que a aprovação nos três primeiros anos das licenciaturas das Faculdades de Ciências confere
+  direito ao grau de bacharel
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: '48406'
+official_date: null
+publication_date: '1968-05-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 128/1968, Série I de 1968-05-29
+  number: '128'
+  series: I
+  supplement: null
+  pages: 839 - 840
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/05/12800/08390840.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '271227'
+  dre_path: /dr/detalhe/decreto/48406-1968-271227
+  internal: pt:dre:271227:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48406-1968-271227
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48406-1968-271227
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6aa4ea781f253ba354bc5b5a6c14b0076770467469e4eb848a67b9af2110f0ca
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:265329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579328:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:02:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48406
+
+Considerando que o [Decreto n.º 45840](https://diariodarepublica.pt/dr/detalhe/decreto/45840-1964-579328), de 31 de Julho de 1964, que reformou os planos de estudos das Faculdades de Ciências, estruturou esses planos em duas partes, uma geral e outra complementar, constituídas, respectivamente, pelos três primeiros anos e pelos dois últimos (artigo 2.º);
+
+Considerando que a parte geral, como se esclareceu no preâmbulo do referido diploma, foi delineada do modo a poder vir a constituir habilitação suficiente para o desempenho de certas funções públicas, em termos a definir;
+
+Considerando que convém proceder agora a essa definição, fazendo corresponder a aprovação na parte geral dos cursos um grau próprio, o bacharelato, e estabelecendo as regras pertinentes a este;
+
+Considerando que esta inovação vem satisfazer uma necessidade e corresponde a um anseio fortemente sentidos, integrando-se num sistema, muito generalizado lá fora, da existência de mais de um grau universitário, sistema por força do qual muitos alunos são lançados na vida mais ràpidamente para o exercício de actividades que não requerem preparação tão longa, podendo as atenções, no campo do ensino e da investigação, concentrar-se, subsequentemente, em número mais reduzido de estudantes;
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º A aprovação nos três primeiros anos das licenciaturas das Faculdades de Ciências confere direito ao grau de bacharel, nas condições seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12800/08390840.pdf)
+
+Art. 2.º - 1. A informação final do bacharelato é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo.
+
+2. O critério uniforme a seguir pelas três Faculdades de Ciências para a determinação da informação final do bacharelato será fixado por despacho ministerial, depois de ouvidos os conselhos escolares.
+
+Art. 3.º O diploma de bacharel será passado de harmonia com o modelo a aprovar pelo Ministro da Educação Nacional.
+
+Art. 4.º O bacharelato em Ciências constitui habilitação académica suficiente para:
+
+a) Admissão ao estágio de preparação de professores efectivos do ensino profissional industrial e comercial, nos termos seguintes: para o 1.º grupo,
+
+o bacharelato em Matemática, em Física ou em Química; para o 11.º grupo, o bacharelato em Geologia ou em Biologia;
+
+b) Admissão ao estágio de preparação de professores do ciclo preparatório do ensino secundário, nos termos constantes de diploma a publicar;
+
+c) Obtenção dos diplomas para o ensino particular a que se referem o n.º 1.º e a alínea a) do n.º 5.º do artigo 25.º do [Decreto n.º 37545](https://diariodarepublica.pt/dr/detalhe/decreto/37545-1949-265329), de 8 de Setembro de 1949;
+
+d) Provimento nos cargos públicos que forem designados por despacho do Ministro da Educação Nacional, proferido sob parecer da Junta Nacional da Educação, depois de ouvidos os serviços interessados.
+
+Art. 5.º O bacharelato em ciências passará ainda a constituir habilitação académica suficiente para a admissão ao estágio de preparação de professores do curso geral do ensino liceal, logo que sejam reorganizados os quadros do pessoal docente deste ensino.
+
+Art. 6.º Sempre que ao mesmo cargo público concorram doutores, licenciados e bacharéis em Ciências, os primeiros terão preferência sobre os restantes e os segundos sobre os últimos.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

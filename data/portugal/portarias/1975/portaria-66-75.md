@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:159535:por
+title: Portaria n.º 66/75
+short_title: null
+summary: Fixa normas relativas à participação emolumentar atribuída ao pessoal dos serviços de registo e do notariado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça - Secretaria de Estado da Justiça - Direcção-Geral dos Registos e do Notariado
+proposing_entity: null
+official_number: 66/75
+official_date: null
+publication_date: '1975-02-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 29/1975, Série I de 1975-02-04
+  number: '29'
+  series: I
+  supplement: null
+  pages: 155 - 155
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/02/02900/01550155.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '159535'
+  dre_path: /dr/detalhe/portaria/66-1975-159535
+  internal: pt:dre:159535:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-1975-159535
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-1975-159535
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1c419933f0a887687024d61cd970d4f58007a09b3a7c1190454dc3816aa98548
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:52:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685465:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:52:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 66/75
+
+de 4 de Fevereiro
+
+Nos termos previstos no n.º 7 do artigo 38.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, na redacção que lhe foi dada pelo [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), de 20 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Justiça, o seguinte:
+
+a) A participação emolumentar atribuída ao pessoal auxiliar dos serviços de registo e do notariado, a que se refere o n.º 6 do artigo 38.º do citado [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), continuará a ser abonada dentro dos limites e nos termos fixados pela [Portaria n.º 59/73](https://diariodarepublica.pt/dr/detalhe/portaria/59-1973-683266), de 31 de Janeiro;
+
+b) Aos técnicos providos e a prover nos lugares do quadro da Conservatória dos Registos Centrais, a partir da entrada em vigor da [Portaria n.º 425/74](https://diariodarepublica.pt/dr/detalhe/portaria/425-1974-476480), de 10 de Julho, bem como aos chefes de secção dos mesmos serviços, não é atribuída a percentagem emolumentar estabelecida na citada [Portaria n.º 59/73](https://diariodarepublica.pt/dr/detalhe/portaria/59-1973-683266);
+
+c) A presente portaria poderá ainda este ano ser revista se as circunstâncias o aconselharem e depois de apresentadas as conclusões das comissões de reforma dos registos e do notariado.
+
+Ministério da Justiça, 23 de Janeiro de 1975. - O Secretário de Estado da Justiça, Armando Bacelar.

@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:332926:por
+title: Decreto Regulamentar n.º 45-A/80
+short_title: null
+summary: Dá nova redacção ao artigo 15.º do regulamento aprovado pelo Decreto n.º 151/72, de 6 de Maio (exploração de petróleo)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Indústria e Energia
+proposing_entity: null
+official_number: 45-A/80
+official_date: null
+publication_date: '1980-09-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/1980, 1º Suplemento, Série I de 1980-09-09
+  number: '208'
+  series: I
+  supplement: null
+  pages: 2584-(1) a 2584-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20801/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '332926'
+  dre_path: /dr/detalhe/decreto-regulamentar/45-a-1980-332926
+  internal: pt:dre:332926:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-a-1980-332926
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-a-1980-332926
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 870c001faa49bfe7469699d6fe9b5b390a75ff1160d6204ec0131bc49e42ae76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contribuições e Impostos
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Imposto sobre a Produção de Petróleo
+- Imposto sobre o Rendimento do Petróleo
+- Petróleo
+- Prospecção de Petróleo
+- Regime Fiscal
+relationships:
+- type: amended_by
+  target: pt:dre:571214:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:165993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680180:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:02:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 45-A/80
+
+de 9 de Setembro
+
+Considerando os presentes condicionalismos da indústria da pesquisa e produção de petróleo, os quais têm vindo a modificar os mecanismos de estabelecimento dos preços das ramas na produção;
+
+Considerando que, nos termos da Constituição da República Portuguesa, o n.º 2 do artigo 107.º determina que a tributação das empresas incidirá fundamentalmente sobre o seu rendimento real;
+
+Considerando que algumas disposições do Regulamento do [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, que estabeleceu o regime tributário aplicável às concessões do direito de prospecção, pesquisa, desenvolvimento e exploração de petróleo, aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio, não se harmonizam, presentemente, quer com as tendências actuais da indústria para a determinação dos preços das ramas na produção, quer ainda com o espírito que informa a norma constitucional citada;
+
+Considerando, em consequência, que é necessário proceder a um reajustamento das disposições do citado regulamento com reflexos nestas matérias:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º O artigo 15.º do regulamento aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio, passa a ter a redacção que segue:
+
+Art. 15.º - 1 - Quando o imposto deva ser pago em dinheiro, o valor em escudos da produção tributável será determinado de acordo com o seguinte:
+
+a) Para as quantidades de ramas, gasolina natural, gás comercial e «outras substâncias» mencionadas no artigo 1.º produzidas e vendidas, as respectivas valorizações serão feitas aos preços reais de venda, em condições normais de mercado;
+
+b) Para as quantidades de ramas, gasolina natural, gás comercial e «outras substâncias» mencionadas no artigo 1.º produzidas e que se encontrem arrecadadas, a valorização respectiva será determinada na base da média dos preços de venda de tais bens, nas condições normais de mercado;
+
+c) Para as quantidades de ramas, gasolina natural, gás comercial e «outras substâncias» mencionadas no artigo 1.º vendidas a preços não determinados em condições normais de mercado, a valorização de tais vendas será efectuada na base da média dos preços reais estabelecidos em condições normais de mercado durante o período das referidas vendas.
+
+2 - Para efeito do disposto neste artigo, considera-se preço de venda em condições normais de mercado o preço obtido em transacções livres no mercado entre um comprador e um vendedor independentes.
+
+3 - O Gabinete para a Pesquisa e Exploração de Petróleo poderá efectuar as correcções que entender necessárias para a determinação do valor em escudos da produção tributável sempre que verifique que os preços realmente praticados pelo contribuinte se afastaram, em virtude da existência de posições de terceiros dominantes no capital ou interferências directas ou indirectas na gestão, dos preços normais, considerando-se como tais os susceptíveis de serem atribuídos em transacções efectuadas em mercado livre entre um comprador e um vendedor independentes.
+
+4 - As correcções efectuadas nos termos do número anterior serão notificadas ao contribuinte com indicação dos respectivos fundamentos e são susceptíveis de recurso hierárquico para o Ministro da Indústria e Energia a interpor no prazo de oito dias a contar da notificação.
+
+5 - Quando o recurso de que trata o número anterior for totalmente desatendido, o Ministro da Indústria e Energia poderá fixar, a título de custas, um agravamento ao imposto, graduado conforme as circunstâncias, mas nunca superior a 5%.
+
+Art. 2.º São revogados os n.os 3 a 7 do artigo 14.º, o artigo 16.º, o n.º 2 do artigo 26.º, o artigo 44.º e a alínea c) do artigo 80.º do regulamento aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio.
+
+Francisco Sá Carneiro - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
+
+Promulgado em 9 de Setembro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,92 @@
+---
+schema_version: '1.0'
+id: pt:dre:3157498:por
+title: Declaração de Rectificação n.º 2343/2010
+short_title: null
+summary: Se rectifica o despacho n.º 16325/2010, publicado no Diário da República, 2.ª série, n.º 210, de 28 de Outubro de
+  2010, a p. 53749
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Secretaria-Geral - Departamento Geral de Administração
+proposing_entity: null
+official_number: 2343/2010
+official_date: null
+publication_date: '2010-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/2010, Série II de 2010-11-17
+  number: '223'
+  series: II
+  supplement: null
+  pages: 56482 - 56482
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/11/223000000/5648256482.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3157498'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2343-2010-3157498
+  internal: pt:dre:3157498:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2343-2010-3157498
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2343-2010-3157498
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e38c5952079eca047d87e362fcf387c41632f799de035e05f36dc6ae0a2596bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:23:01Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 2343/2010
+
+Declaração de rectificação n.º 2343/2010
+
+Por ter sido publicado com inexactidão o despacho (extracto) n.º 16 325/2010 no Diário da República, 2.ª série, n.º 210, de 28 de Outubro de 2010, a p. 53 749, rectifica-se que onde se lê «[...] cessação a colocação.» deve ler-se «[...] foi determinada a cessação da colocação.» ou «[...] cessa a colocação.».
+
+8 de Novembro de 2010. - O Director, Francisco Guerra Tavares.
+
+203925158

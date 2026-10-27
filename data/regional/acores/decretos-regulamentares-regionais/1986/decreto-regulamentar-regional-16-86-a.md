@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:227196:por
+title: Decreto Regulamentar Regional n.º 16/86/A
+short_title: null
+summary: Define os quadros e regulamenta o funcionamento dos serviços na directa dependência da Secretaria Regional dos Assuntos
+  Sociais
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional dos Assuntos Sociais - Direcção Regional de Saúde
+proposing_entity: null
+official_number: 16/86/A
+official_date: null
+publication_date: '1986-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1986, Série I de 1986-05-14
+  number: '110'
+  series: I
+  supplement: null
+  pages: 1138 - 1140
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11000/11381140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227196'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/16-1986-227196
+  internal: pt:dre:227196:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1986-227196
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1986-227196
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:26:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f8d4870e349df17d4d70cf72442e6c20467e3a1f8a681908774214589d97281d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
+relationships:
+- type: amended_by
+  target: pt:dre:418189:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:26:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 16/86/A
+
+O aprofundamento do processo autonómico levou a que, de forma natural, a Secretaria Regional dos Assuntos Sociais venha assumindo maiores responsabilidades no âmbito dos sectores directamente a seu cargo.
+
+Esta Secretaria Regional, ao confrontar-se, neste momento, de forma quase exclusiva, com as atribuições que em matéria de saúde, segurança social e emigração cabem habitualmente ao Estado, logo na Região ao Governo Regional, tem de dispor, em simultâneo, dos meios que possam garantir o efectivo exercício daquelas atribuições. É o que gradualmente vem acontecendo, considerando-se agora adequado proceder à reorganização dos serviços comuns aos órgãos centrais da Secretaria Regional, dotando-os com os meios humanos que a experiência demonstra serem os necessários.
+
+Simultaneamente, introduzem-se nos quadros dos serviços acima referidos as alterações resultantes da aplicação do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, coloca-se todo o pessoal administrativo que exerce actividades comuns aos diversos órgãos centrais da Secretaria Regional no quadro da Repartição de Serviços Administrativos, a criar pelo presente decreto regulamentar regional, passando este diploma a ser o único que, de forma específica, define os quadros e regulamenta o funcionamento dos serviços na directa dependência do Secretário Regional.
+
+Assim, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Objectivos e estruturas da Secretaria Regional
+
+Artigo 1.º São objectivos da Secretaria Regional dos Assuntos Sociais (SRAS) orientar, dirigir e executar a política do Governo Regional nos sectores da saúde, segurança social e emigração.
+
+Art. 2.º A Secretaria Regional dos Assuntos Sociais compreende as seguintes direcções regionais:
+
+a) Direcção Regional de Saúde;
+
+b) Direcção Regional de Segurança Social.
+
+Art. 3.º Na dependência directa do Secretário Regional funcionam, além do respectivo Gabinete, os seguintes órgãos e serviços:
+
+a) Direcção de Serviços de Emigração;
+
+b) Gabinete Técnico;
+
+c) Repartição de Serviços Administrativos.
+
+### CAPÍTULO II — Competência do Secretário Regional e dos directores regionais
+
+Art. 4.º Compete ao Secretário Regional dos Assuntos Sociais, designadamente:
+
+a) Propor e fazer executar na Região as políticas de saúde, segurança social e emigração;
+
+b) Assegurar a orientação e a coordenação dos órgãos e serviços que estejam na sua directa dependência;
+
+c) Coordenar a elaboração de planos regionais integrados relativos à promoção do bem-estar físico, psíquico e social das populações da Região e acompanhar a respectiva execução;
+
+d) Superintender na gestão das dotações orçamentais para os sectores da saúde, segurança social e emigração;
+
+e) Traçar as grandes linhas de orientação de acção da Secretaria Regional e acompanhar superiormente a sua execução.
+
+Art. 5.º Compete aos directores regionais, designadamente:
+
+a) Coadjuvar o Secretário Regional na formulação e execução da política do respectivo sector;
+
+b) Praticar os actos da sua competência própria ou delegada;
+
+c) Orientar, coordenar e dirigir os serviços dependentes das respectivas direcções regionais;
+
+d) Superintender na administração das dotações orçamentais dos respectivos sectores.
+
+### CAPÍTULO III — Atribuições dos órgãos na dependência directa do Secretário Regional
+
+#### SECÇÃO I — Gabinete Técnico
+
+Art. 6.º O Gabinete Técnico é um órgão de apoio, estudo e planeamento da Secretaria Regional dos Assuntos Sociais, incumbindo-lhe, em colaboração com os órgãos competentes das direcções regionais, designadamente:
+
+a) Promover estudos com interesse para o fomento das actividades da Secretaria Regional, bem como elaborar os pareceres de natureza técnica que lhe forem solicitados;
+
+b) Promover a análise estrutural e conjuntural das actividades do sector, procedendo, nomeadamente, à determinação das tendências de evolução a curto, médio e longo prazo;
+
+c) Reunir a informação estatística relacionada com o sector e proceder aos apuramentos necessários, tendo em conta a elaboração de indicadores sociais;
+
+d) Compatibilizar e integrar os projectos do plano e orçamento do sector, numa perspectiva de harmonização global entre si e com sectores afins;
+
+e) Propor medidas adequadas ao aperfeiçoamento técnico-profissional do pessoal da SRAS, definindo-as em colaboração com a Secretaria Regional da Administração Pública.
+
+#### SECÇÃO II — Repartição dos Serviços Administrativos
+
+Art. 7.º A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de carácter administrativo referidos nos artigos seguintes, podendo ainda desempenhar outras funções de carácter técnico-administrativo que lhe sejam determinadas pelo Secretário Regional.
+
+Art. 8.º A Repartição dos Serviços Administrativos compreende as seguintes secções:
+
+a) Secção de Pessoal, Expediente e Arquivo;
+
+b) Secção de Contabilidade;
+
+Art. 9.º À Secção de Pessoal, Expediente e Arquivo compete:
+
+a) Administração de pessoal;
+
+b) Registo de correspondência, expediente, dactilografia e arquivo;
+
+c) Reprografia;
+
+d) Meios de comunicação e viaturas.
+
+Art. 10.º À Secção de Contabilidade compete:
+
+a) Contabilidade e orçamento;
+
+b) Património e aprovisionamento;
+
+c) Manutenção, beneficiação e conservação de instalações e bens duradouros.
+
+### CAPÍTULO IV — Do pessoal
+
+Art. 11.º O pessoal que integra a presente estrutura orgânica é o constante do quadro anexo a este diploma.
+
+Art. 12.º O pessoal do quadro é agrupado de acordo com a seguinte classificação:
+
+a) Pessoal técnico superior;
+
+b) Pessoal administrativo;
+
+c) Pessoal auxiliar.
+
+Art. 13.º As condições e regras de organização do quadro, de ingresso e acesso na carreira e da classificação e formação profissional dos funcionários e agentes são, para as respectivas categorias, as estabelecidas nos Decretos Legislativos Regionais n.os [15/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1983-311470) e [16/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1983-311595), de 27 e 28 de Abril, respectivamente, no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e na legislação complementar.
+
+### CAPÍTULO V — Disposições finais
+
+Art. 14.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
+
+2 - Para a execução deste diploma poderão ser aprovados pelo Secretário Regional dos Assuntos Sociais regulamentos internos.
+
+Art. 15.º O presente diploma revoga os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 7.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, bem como o quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 9/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1983-312398), de 6 de Abril, na parte respeitante ao pessoal dos serviços que agora são regulamentados.
+
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Fevereiro de 1986.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 21 de Abril de 1986.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
+
+Quadro de pessoal a que se refere o artigo 11.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11000/11381140.pdf)

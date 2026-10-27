@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:583377:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-168274867",
+ "dre_path": "/dr/detalhe/decreto-lei/284-2001-583377",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168275607",
+    "168275608",
+    "168275609",
+    "168275610",
+    "168275611",
+    "168275612",
+    "168275613",
+    "168275614"
+   ]
+  },
+  {
+   "date": "2004-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517230:por",
+     "title": "Decreto-Lei n.º 166/2004",
+     "published": "2004-07-07",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2004-517230"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "168275607",
+    "168275608",
+    "168275618",
+    "168275610",
+    "168275611",
+    "168275612",
+    "168275613",
+    "168275614",
+    "168275615"
+   ]
+  }
+ ],
+ "fragments": {
+  "168275607": {
+   "fragment_id": "168274868",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 284/2001\n\nde 26 de Outubro\n\nO presente diploma estabelece o enquadramento legal para as condições concretas de bonificação, e as demais condições financeiras, de que beneficiarão os empréstimos contraídos pelos clubes promotores ou pelas sociedades por si constituídas para financiamento dos estádios necessários à realização da fase final do Campeonato Europeu de Futebol de 2004, de acordo com o que foi definido no respectivo caderno de encargos.\n\nPretende-se, assim, garantir aos clubes promotores condições de financiamento semelhantes aos investimentos de natureza municipal e intermunicipal, no que se refere aos investimentos em infra-estruturas desportivas que esses clubes venham a realizar e que sejam decisivos para a boa realização do referido evento.\n\nCom vista à maior operacionalidade e eficácia do sistema estabelece-se uma relação directa entre o Estado e os beneficiários, de forma a conciliar a livre contratualização dos empréstimos assegurando-se as necessárias garantias do Estado.\n\nA bonificação directa aos promotores de uma compensação até 3% será realizada de acordo com a taxa Euribor a seis meses, de forma a evitar situações de desigualdade em função das diferentes taxas individualmente contratadas.\n\nEstatui-se ainda a suspensão da bonificação de forma imediata perante uma situação de incumprimento das respectivas obrigações mutuárias ou de outras obrigações do beneficiário para com o Estado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "168275608": {
+   "fragment_id": "168274869",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É atribuída uma bonificação de juros até 3 pontos percentuais aos empréstimos contraídos pelos clubes promotores que tenham celebrado com o Estado um contrato de desenvolvimento desportivo cujo objecto seja a remodelação ou construção de um estádio para integrar a fase final do Campeonato Europeu de Futebol de 2004.\n\n2 - As sociedades criadas pelos clubes para a remodelação ou construção dos estádios poderão igualmente beneficiar desta bonificação desde que os respectivos clubes detenham pelo menos 95% do seu capital social.\n\n3 - Para aplicação do presente diploma serão considerados os valores estipulados nos contratos de desenvolvimento desportivo celebrados entre o Estado, a Sociedade Euro 2004, S. A. - Sociedade Promotora da Realização em Portugal da Fase Final do Campeonato Europeu de Futebol de 2004 e os clubes promotores cujo objecto seja a construção ou remodelação dos respectivos estádios."
+  },
+  "168275609": {
+   "fragment_id": "168274870",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Aos empréstimos referidos no n.º 1 do artigo anterior é aplicável uma taxa de juro correspondente à taxa Euribor a seis meses verificada no penúltimo dia útil antes do início de cada período de contagem de juros acrescida do spread livremente negociado entre as partes.\n\n2 - A bonificação de juros efectuar-se-á através de uma dedução máxima de 3%, devendo os clubes beneficiários suportar, pelo menos, 1% da taxa de juro, reduzindo-se a bonificação até que se mantenha aquele valor.\n\n3 - Os complexos desportivos referidos no artigo anterior não podem ser comparticipados por investimentos de natureza municipal e ou intermunicipal.\n\n4 - O objecto da bonificação tem como limite máximo 37,5% do valor de referência dos contratos-programa de desenvolvimento desportivo assinados entre o Estado Português, a Sociedade Euro 2004, S. A., e os clubes promotores.\n\n5 - A bonificação processar-se-á durante a vigência do empréstimo, tendo como prazo máximo 10 anos, quando o acordado para a operação seja superior.\n\n6 - Os clubes promotores, para terem direito à bonificação de juros prevista no n.º 1 do artigo anterior, devem apresentar junto das instituições de crédito a adequada credenciação emitida pela Sociedade Euro 2004, S. A. - Sociedade Promotora da Realização em Portugal da Fase Final do Campeonato Europeu de Futebol de 2004, bem como cópias, devidamente autenticadas, dos contratos-programa de desenvolvimento desportivo e dos cronogramas financeiros, a emitir pela Sociedade Portugal 2004 - Sociedade de Acompanhamento e Fiscalização do Programa de Construção dos Estádios e Outras Infra-Estruturas para a Fase Final do Campeonato Europeu de Futebol de 2004, S. A."
+  },
+  "168275610": {
+   "fragment_id": "168274871",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimentos\n\nO procedimento para acesso à bonificação de juros prevista no n.º 1 do artigo 1.º será definido em regulamento elaborado pela Direcção-Geral do Tesouro."
+  },
+  "168275611": {
+   "fragment_id": "168274872",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações e suspensão da bonificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações e suspensão da bonificação\n\n1 - A bonificação de juros é processada enquanto se verificar o bom e pontual cumprimento de todas as obrigações contratualmente assumidas pelos mutuários.\n\n2 - Para beneficiarem da bonificação de juros, os mutuários ficam obrigados a apresentar trimestralmente às instituições de crédito prova documental do pontual cumprimento das obrigações perante a administração fiscal e a segurança social, devendo as declarações emitidas pela Direcção-Geral dos Impostos e pelo Instituto de Gestão Financeira da Segurança Social afirmar expressamente a inexistência de obrigações de pagamento e ou entrega de imposto e ou de outras prestações em atraso.\n\n3 - Ainda para efeito da concessão de bonificações, e durante a fase de desembolso, deverá também ser considerado o grau de execução dos projectos, definido em parecer elaborado mensalmente e apresentado junto das instituições de crédito mutuantes pela Sociedade Portugal 2004.\n\n4 - O incumprimento das obrigações referidas nos números anteriores implica a imediata suspensão da bonificação, cabendo aos mutuários pagar integralmente os juros calculados à taxa contratual.\n\n5 - O reinício do processamento da bonificação de juros carece do integral cumprimento das referidas obrigações, produzindo efeitos para as futuras prestações a partir dessa data.\n\n6 - No caso de se revelar manifestamente impossível a conclusão da obra em tempo útil para a boa realização do evento, os clubes promotores restituirão ao Estado todas as importâncias recebidas a título de bonificação de juros.\n\n7 - Na falta de pagamento voluntário e imediato dos montantes referidos no número anterior, o Estado tem o direito de se ressarcir, até ao montante global do que lhe é devido, sobre as importâncias a que, no âmbito de qualquer outro contrato-programa ou acordo celebrado com os clubes promotores, com vista à realização em Portugal da fase final do Campeonato Europeu de Futebol de 2004, estes teriam direito."
+  },
+  "168275612": {
+   "fragment_id": "168274873",
+   "type": 11,
+   "heading": "Artigo 5.º — Pagamento das bonificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pagamento das bonificações\n\n1 - O pagamento das bonificações previstas neste diploma será efectuado pela Direcção-Geral do Tesouro trimestralmente às instituições de crédito, de acordo com as instruções que vierem a ser por ela emitidas.\n\n2 - A Direcção-Geral do Tesouro não procede ao pagamento das bonificações correspondentes a empréstimos que verifique não observarem os requisitos e condições fixados no presente diploma.\n\n3 - Em caso de dúvida quanto ao preenchimento dos requisitos e condições legais, a Direcção-Geral do Tesouro pode suspender o pagamento das bonificações até completo esclarecimento pela instituição de crédito mutuante."
+  },
+  "168275613": {
+   "fragment_id": "168274874",
+   "type": 11,
+   "heading": "Artigo 6.º — Créditos anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Créditos anteriores\n\nOs mútuos contraídos pelos clubes promotores antes da entrada em vigor do presente diploma que sejam destinados ao financiamento dos estádios referidos no n.º 1 do artigo 1.º poderão vir a beneficiar da bonificação de juros nos termos referidos no presente diploma desde a data da contratação do empréstimo."
+  },
+  "168275614": {
+   "fragment_id": "168292575",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição orçamental\n\nAs verbas necessárias à cobertura dos encargos originados pela bonificação de juros dos empréstimos são inscritas no Orçamento do Estado, no capítulo 60 do Ministério das Finanças."
+  },
+  "168275618": {
+   "fragment_id": "168274870",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": "2004-07-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 166/2004 - Diário da República n.º 158/2004, Série I-A de 2004-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2004-517230), em vigor a partir de 2004-07-12"
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Aos empréstimos referidos no n.º 1 do artigo anterior é aplicável uma taxa de juro correspondente à taxa Euribor a seis meses verificada no penúltimo dia útil antes do início de cada período de contagem de juros acrescida do spread livremente negociado entre as partes.\n\n2 - A bonificação de juros efectuar-se-á através de uma dedução máxima de 3%, devendo os clubes beneficiários suportar, pelo menos, 1% da taxa de juro, reduzindo-se a bonificação até que se mantenha aquele valor.\n\n3 - (Revogado).\n\n4 - O objecto da bonificação tem como limite máximo 37,5% do valor de referência dos contratos-programa de desenvolvimento desportivo assinados entre o Estado Português, a Sociedade Euro 2004, S. A., e os clubes promotores.\n\n5 - A bonificação processar-se-á durante a vigência do empréstimo, tendo como prazo máximo 10 anos, quando o acordado para a operação seja superior.\n\n6 - Os clubes promotores, para terem direito à bonificação de juros prevista no n.º 1 do artigo anterior, devem apresentar junto das instituições de crédito a adequada credenciação emitida pela Sociedade Euro 2004, S. A. - Sociedade Promotora da Realização em Portugal da Fase Final do Campeonato Europeu de Futebol de 2004, bem como cópias, devidamente autenticadas, dos contratos-programa de desenvolvimento desportivo e dos cronogramas financeiros, a emitir pela Sociedade Portugal 2004 - Sociedade de Acompanhamento e Fiscalização do Programa de Construção dos Estádios e Outras Infra-Estruturas para a Fase Final do Campeonato Europeu de Futebol de 2004, S. A.\n\n> Alterado pelo/a [Decreto-Lei n.º 166/2004 - Diário da República n.º 158/2004, Série I-A de 2004-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2004-517230), em vigor a partir de 2004-07-12"
+  },
+  "168275615": {
+   "fragment_id": "168292576",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Manuel Lello Ribeiro de Almeida.\n\nPromulgado em 16 de Outubro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Outubro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,223 @@
+---
+schema_version: '1.0'
+id: pt:dre:200417:por
+title: Resolução do Conselho de Ministros n.º 15/2003
+short_title: null
+summary: Cria uma unidade de missão designada «Hospitais SA», com a finalidade de coordenar o processo global de lançamento
+  e a estratégia de empresarialização dos hospitais com a natureza jurídica de sociedades anónimas de capitais exclusivamente
+  públicos
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 15/2003
+official_date: null
+publication_date: '2003-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/2003, Série I-B de 2003-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 719 - 721
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/02/030b00/07190721.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/15/2003/02/05/p/dre/pt/html
+  oj: null
+  dre: '200417'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/15-2003-200417
+  internal: pt:dre:200417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2003-200417
+  metadata_url: https://data.dre.pt/eli/resolconsmin/15/2003/02/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2003-200417
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:47:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d36f98d53850d54f7a1117a416729806b0d2f1936d1a1a0e15e74a58a4be2beb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Acompanhamento
+- Definição de Competências
+- Encarregado de Missão
+- Estabelecimento Hospitalar
+- Estrutura de Apoio Técnico
+- Gestão Hospitalar
+- Hospitais SA
+- Ministro da Saúde
+- Nomeação
+- Sociedade Anónima
+relationships:
+- type: amended_by
+  target: pt:dre:1089886:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:1089886:por
+  label: "Exonerado o nomeado pelo presente diploma, pela RES.70/2004(2ªSérie).15.06.2004.PCM, DR.IIS [153] de 01.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/70-2004-1089886
+  date: '2004-06-15'
+- type: amended_by
+  target: pt:dre:624786:por
+  label: "Prorrogada por igual período a duração do mandato da unidade de missão Hospitais S.A. estabelecida no presente diploma,\
+    \ nos termos do nº 3 da RES.16/2005.15.12.2004.PCM, DR.IS-B [13] de 19.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/16-2005-624786
+  date: '2004-12-15'
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:47:50Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 15/2003
+
+A política de gestão hospitalar constitui um dos vectores prioritários e de maior impacte no programa de reforma do sector da saúde que o Governo está a levar a cabo.
+
+A satisfação das necessidades dos utentes em tempo útil e com qualidade e a contenção da despesa pública são objectivos essenciais que estão na origem da diversificação da natureza jurídica dos hospitais e da criação de novos modelos de gestão, devendo ser vistos como um meio de maximizar a eficiência das instituições que compõem a nossa rede hospitalar.
+
+A Lei de Bases da Saúde há muito que previa expressamente que, na medida do possível, a gestão das unidades de saúde devia obedecer a regras de gestão empresarial.
+
+Contudo, passado mais de uma década de vigência da Lei de Bases da Saúde, verificou-se que a gestão de natureza empresarial ficou circunscrita a um muito reduzido número de iniciativas, não tendo estas alcançado uma base de experiência suficientemente expressiva capaz de ter gerado um efeito regenerador no nosso sistema de saúde.
+
+O Governo pretende agora, por uma nova via, ao conferir ao Estado um papel de accionista, dinamizar e multiplicar a dimensão dessa experiência, fomentando um clima de competitividade e um novo nível de exigência e de profissionalismo de gestão que venha a permitir ganhos de eficiência significativos na nossa rede hospitalar.
+
+Com a transformação da natureza jurídica de alguns dos hospitais em sociedades anónimas de capitais exclusivamente públicos, pretende assim consagrar-se uma crescente autonomia de gestão dos hospitais, em moldes mais próximos da realidade empresarial, estabelecendo-se simultaneamente a separação da função de prestador de cuidados de saúde da função de financiador público do Serviço Nacional de Saúde, ficando assegurado o carácter geral, universal e tendencialmente gratuito do Serviço Nacional de Saúde.
+
+O processo que tem sido designado «empresarialização hospitalar» ganha, agora, nova urgência com a publicação da [Lei n.º 27/2002](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), de 8 de Novembro, que aprova o novo regime jurídico da gestão hospitalar, decorrendo da mesma a adopção de um novo estatuto para os hospitais, bem como um novo modelo de gestão, de contratação e financiamento das prestações de saúde, que implica um conjunto complementar de medidas e acções, no sentido de estabelecer um enquadramento jurídico-económico e administrativo adequado e favorável ao funcionamento do novo modelo empresarial de gestão hospitalar.
+
+A realidade empresarial tem também mostrado que um esforço desta natureza, abrangendo um considerável número de activos e entidades, tem como factor crítico de sucesso a capacidade de coordenação e de convergência de objectivos das diferentes unidades, para que o valor da iniciativa se não perca pelo desenvolvimento individual de acções não concertadas com uma lógica de conjunto que é imperioso manter.
+
+Essa lógica de convergência impõe novas competências e capacidades que urge desenvolver e cria oportunidades únicas de alavancagem na partilha de serviços de suporte à actividade das respectivas unidades hospitalares, com forte impacte nos seus custos, libertando as respectivas equipas de gestão para as funções nucleares de prestação de cuidados, afinal a essência da actividade hospitalar.
+
+Em estreita harmonia com as administrações regionais de saúde e demais serviços do Ministério da Saúde, e sem prejuízo das suas competências próprias, bem como das da Inspecção-Geral de Finanças, da Direcção-Geral do Orçamento e da Direcção-Geral do Tesouro, no que respeita ao acompanhamento financeiro da gestão dos hospitais, a presente resolução pretende criar os meios para apoiar e acolher esta nova filosofia e novo modelo de gestão hospitalar, estabelecendo a unidade executiva de apoio e o dispositivo nuclear para dinamizar e agilizar a implementação dos «hospitais, sociedade anónima» de capitais exclusivamente públicos.
+
+Assim:
+
+Ao abrigo do disposto no artigo 37.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - É criada, na dependência do Ministro da Saúde, uma unidade de missão para a condução do processo global de lançamento, coordenação e acompanhamento da estratégia de empresarialização dos hospitais com a natureza jurídica de sociedades anónimas de capitais exclusivamente públicos designados «hospitais, sociedade anónima».
+
+2 - À unidade de missão é conferida a designação «Hospitais SA».
+
+3 - Compete à unidade de missão:
+
+a) Coordenar o processo global de lançamento e implementação dos hospitais, sociedade anónima;
+
+b) Apoiar a avaliação das unidades hospitalares candidatas ao processo de empresarialização;
+
+c) Coordenar os processos de apoio à gestão accionista, designadamente o processo integrado de planeamento de actividades, o controlo de gestão e a avaliação de desempenho de cada unidade;
+
+d) Propor políticas gerais de melhoria, nomeadamente o desenvolvimento de programas de melhoria operacional das unidades e a promoção da transferência das melhores práticas;
+
+e) Promover o desenvolvimento de projectos especiais de carácter horizontal a todos os hospitais, sociedade anónima;
+
+f) Apoiar os hospitais, sociedade anónima, nos processos de contratação e desenvolvimento dos seus planos de actividade;
+
+g) Promover o lançamento de formas inovadoras de gestão dos serviços e de melhoria da articulação com outras unidades de prestação de cuidados, designadamente na área dos cuidados de saúde primários e continuados;
+
+h) Promover a divulgação do estatuto societário dos hospitais, sociedade anónima, bem como a formação de dirigentes e trabalhadores dos mesmos;
+
+i) Estabelecer relações institucionais adequadas ao acompanhamento da actuação de entidades congéneres no plano comunitário e internacional e acompanhar as políticas do sector;
+
+j) Propor uma orientação estratégica e técnica sobre a política de recursos humanos, sistema de objectivos, avaliação de desempenho e política de incentivos a desenvolver pelos hospitais, sociedade anónima;
+
+l) Propor e apoiar oportunidades de prestação de serviços partilhados às diferentes unidades, em estreita articulação com o Instituto de Gestão Informática e Financeira (IGIF), ou com outros serviços centrais ou personalizados do Ministério da Saúde.
+
+4 - A unidade de missão é dirigida por um encarregado de missão, coadjuvado por três adjuntos e assessorado por um gabinete técnico, designado «Gabinete de Gestão», constituído por, no máximo, 15 elementos.
+
+5 - Compete, em especial, ao encarregado de missão:
+
+a) Apresentar ao Ministro da Saúde recomendações relativas a alterações estatutárias das sociedades;
+
+b) Apresentar regularmente ao Ministro da Saúde e à comissão de acompanhamento um conjunto de indicadores de actividade e desempenho dos hospitais, sociedade anónima;
+
+c) Coordenar a actividade do Gabinete de Gestão;
+
+d) Organizar os concursos necessários à contratação de consultadoria externa de apoio à implementação da estratégia de empresarialização e programas de melhoria dos hospitais, sociedade anónima;
+
+e) Preparar os instrumentos necessários à selecção e avaliação de futuras unidades hospitalares a empresarializar;
+
+f) Propor aquisições de bens e serviços até ao montante atribuído aos órgãos máximos dos organismos dotados de autonomia administrativa e financeira, de harmonia com o disposto na alínea b) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho.
+
+6 - São ainda atribuídas ao encarregado de missão as competências conferidas ao cargo de director-geral no âmbito dos serviços e organismos da administração central do Estado, de harmonia com o disposto na [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.
+
+7 - O exercício de funções, no âmbito do Gabinete de Gestão, poderá fazer-se nos seguintes regimes:
+
+a) Comissão de serviço, destacamento ou requisição, para os casos de vínculo à função pública, a institutos públicos, a empresas públicas ou a outros organismos do sector público;
+
+b) Requisição a entidades do sector privado;
+
+c) Contrato de trabalho a termo certo.
+
+8 - Os contratos previstos na alínea c) do número anterior não conferem ao particular outorgante a qualidade de funcionário ou agente administrativo e caducarão necessariamente com o fim do mandato referido no n.º 16.
+
+9 - Os elementos do Gabinete de Gestão que sejam contratados a termo certo no âmbito da lei geral do trabalho vencem uma remuneração base mensal fixada por referência às escalas salariais das carreiras e categorias correspondentes às funções que vão desempenhar, definindo-se contratualmente os escalões e índices em que se integrarão.
+
+10 - O encarregado de missão é equiparado, para efeitos de estatuto remuneratório, a presidente do conselho de administração de empresa pública do grupo B, nível 1, e os adjuntos, a vogais de conselho de administração de empresa pública dos mesmos grupo e nível.
+
+11 - Todos os encargos orçamentais decorrentes da presente unidade de missão serão suportados pelo IGIF, integrando o seu património todos os bens por ela adquiridos.
+
+12 - É nomeado encarregado de missão o licenciado José António Mendes Ribeiro, sendo os adjuntos nomeados por despacho conjunto dos Ministros das Finanças e da Saúde.
+
+13 - Incumbe aos serviços do Ministério da Saúde o dever de colaboração com a unidade de missão criada por esta resolução, de acordo com o quadro de competências definido.
+
+14 - O apoio logístico à instalação e ao funcionamento da unidade de missão é assegurado pelo Departamento de Modernização e Recursos da Saúde.
+
+15 - Para o acompanhamento regular da actividade da unidade de missão e sua articulação com as administrações regionais de saúde (ARS), é criada uma comissão de acompanhamento composta por representantes dos Ministros das Finanças e da Saúde, pelos presidentes das ARS, pelo presidente do IGIF e pelo encarregado de missão da Hospitais SA, a qual reúne uma vez por mês.
+
+16 - A unidade de missão tem um mandato de dois anos, prorrogável por um ano, findo o qual se extinguirá automaticamente.
+
+17 - A presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 17 de Janeiro de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.

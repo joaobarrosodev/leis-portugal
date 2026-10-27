@@ -1,0 +1,302 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:634146:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2002-211248709",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/28-2002-634146",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211171820",
+    "211171821",
+    "211171822",
+    "211171823",
+    "211171824",
+    "211171825",
+    "211171826",
+    "211171827",
+    "211171828",
+    "211171829"
+   ]
+  },
+  {
+   "date": "2003-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:654709:por",
+     "title": "Decreto Regulamentar Regional n.º 25/2003/A",
+     "published": "2003-08-20",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/25-2003-654709"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "211171820",
+    "211171821",
+    "211171822",
+    "211171823",
+    "211171824",
+    "211171825",
+    "211171826",
+    "211171827",
+    "211171828",
+    "211171836",
+    "211171830"
+   ]
+  },
+  {
+   "date": "2006-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:346106:por",
+     "title": "Decreto Regulamentar Regional n.º 20/2006/A",
+     "published": "2006-06-08",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/20-2006-346106"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "211171820",
+    "211171858",
+    "211171859",
+    "211171823",
+    "211171824",
+    "211171825",
+    "211171826",
+    "211171827",
+    "211171828",
+    "211171860",
+    "211171830"
+   ]
+  },
+  {
+   "date": "2023-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211241823:por",
+     "title": "Decreto Regulamentar Regional n.º 12/2023/A",
+     "published": "2023-03-31",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "211171820",
+    "211171873",
+    "211171874",
+    "211171823",
+    "211171824",
+    "211311675",
+    "211171826",
+    "211311676",
+    "211171828",
+    "211311677",
+    "211171830"
+   ]
+  }
+ ],
+ "fragments": {
+  "211171820": {
+   "fragment_id": "211248710",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 28/2002/A\n\nNo Programa do VIII Governo Regional consta como importante desiderato a prosseguir pela acção governativa a reforma e modernização da administração pública regional, pelo que nele se prevê a criação de um conselho consultivo, órgão que tem por principal objectivo a reflexão e debate sobre as grandes linhas de orientação e de modernização a implementar naquela administração.\n\nConsequentemente, com o presente diploma visa-se a criação do Conselho Consultivo da Administração Pública Regional da Região Autónoma dos Açores, que funcionará na dependência directa do membro do Governo que tiver a seu cargo a função pública e cuja natureza consultiva assume um carácter reflexivo no que respeita ao sistema de estruturação, funcionamento e gestão dos serviços públicos e à política de emprego público, assim como à operacionalização da sociedade de informação na administração regional autónoma.\n\nTrata-se, pois, de um fórum que, embora dotado de uma estrutura flexível, assume um cariz representativo e participado pela sociedade civil, através de responsáveis máximos de alguns serviços públicos e de representantes de organizações sindicais, assim como de individualidades de reconhecido mérito.\n\nAssim, nos termos da alínea p) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 5 do artigo 231.º da Constituição, o Governo Regional decreta o seguinte:"
+  },
+  "211171821": {
+   "fragment_id": "211248711",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\n1 - É criado, na Presidência do Governo Regional, o Conselho Consultivo da Administração Pública Regional da Região Autónoma dos Açores, adiante designado por Conselho, na directa dependência do membro do Governo que tiver a seu cargo a Administração Pública, tendo por missão reflectir e debater as grandes linhas de orientação e de modernização da administração regional.\n\n2 - Compete, designadamente, ao Conselho:\n\na) Pronunciar-se sobre a organização, funcionamento e gestão da administração regional;\n\nb) Analisar e propor medidas relativas à política de emprego público e à gestão e qualificação dos recursos humanos;\n\nc) Pronunciar-se sobre as medidas respeitantes à sociedade de informação na administração regional;\n\nd) Emitir pareceres, propostas e recomendações, podendo determinar a realização de investigações e estudos, relativamente à administração regional dos Açores;\n\ne) Coordenar a recolha e tratamento dos indicadores do ambiente interno e externo à administração regional relativamente à sua organização e funcionamento, procedendo a diagnósticos regulares da situação;\n\nf) Discutir, aprovar e divulgar um relatório anual sobre a situação e evolução da administração regional e da função pública e sobre as medidas de reforma que tenham sido adoptadas no período por ele abrangido."
+  },
+  "211171822": {
+   "fragment_id": "211248712",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O Conselho é presidido pelo membro do Governo que tiver a seu cargo a Administração Pública e tem a seguinte composição:\n\na) O director regional da Organização e Administração Pública;\n\nb) O director regional do Orçamento e do Tesouro;\n\nc) O director regional da Ciência e Tecnologia;\n\nd) O inspector regional da Inspecção Administrativa Regional;\n\ne) O director regional de Saúde;\n\nf) O director regional da Educação;\n\ng) Representantes das organizações sindicais dos trabalhadores da administração regional, em número não inferior a um terço dos membros do Conselho, até ao limite de seis elementos, designados por aquelas e nomeados pelo membro do Governo que tiver a seu cargo a Administração Pública;\n\nh) Um representante da Associação de Consumidores da Região dos Açores - ACRA, designado por esta e nomeado pelo membro do Governo que tiver a seu cargo a Administração Pública;\n\ni) Até três individualidades de reconhecida competência nas áreas de actividade do Conselho, nomeados por despacho do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a tratar, individualidades não referidas no número anterior, sem direito a voto."
+  },
+  "211171823": {
+   "fragment_id": "211248713",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências do presidente\n\nCompete, designadamente, ao presidente:\n\na) Convocar e dirigir as reuniões;\n\nb) Fixar a respectiva ordem de trabalhos;\n\nc) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo;\n\nd) Representar o Conselho perante quaisquer entidades, públicas ou privadas."
+  },
+  "211171824": {
+   "fragment_id": "211248714",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretário do Conselho\n\n1 - O Conselho disporá de um secretário, a designar por despacho do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - Compete, designadamente, ao secretário:\n\na) Assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam;\n\nb) Orientar os meios técnicos e humanos a que alude o artigo 8.º;\n\nc) Assegurar a gestão corrente dos assuntos relativos ao Conselho e preparar as respectivas reuniões;\n\nd) Assessorar o membro do Governo competente em matéria de administração pública."
+  },
+  "211171825": {
+   "fragment_id": "211248715",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\n1 - O Conselho funciona em plenário.\n\n2 - O plenário do Conselho reúne em sessões ordinárias e extraordinárias, realizando-se as primeiras semestralmente e as segundas por iniciativa do seu presidente ou a requerimento da maioria dos seus membros."
+  },
+  "211171826": {
+   "fragment_id": "211248716",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento\n\nAs normas de funcionamento interno do Conselho constam de regulamento a aprovar pelo próprio Conselho."
+  },
+  "211171827": {
+   "fragment_id": "211248717",
+   "type": 11,
+   "heading": "Artigo 7.º — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colaboração com outras entidades\n\n1 - O Conselho pode solicitar a quaisquer entidades públicas ou privadas os elementos que julgue indispensáveis à realização das suas atribuições.\n\n2 - O Conselho poderá manter contactos e cooperação com o Conselho Superior da Reforma do Estado e da Administração, bem como com instituições e organismos internacionais, em especial os que se dediquem ao estudo das administrações insulares e das regiões periféricas da União Europeia."
+  },
+  "211171828": {
+   "fragment_id": "211248718",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoios técnicos e humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoios técnicos e humanos\n\nEm ordem à consecução das suas atribuições, o Conselho disporá dos meios técnicos e humanos disponibilizados pelo membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "211171829": {
+   "fragment_id": "211248719",
+   "type": 11,
+   "heading": "Artigo 9.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ajudas de custo\n\nO representante a que alude a alínea h) do n.º 1 do artigo 2.º bem como as individualidades referidas na alínea i) do mesmo preceito, sempre que sejam convocados e participem em reuniões do Conselho, têm direito a ajudas de custo, pelo montante mais elevado da tabela em vigor para os funcionários e agentes da Administração Pública."
+  },
+  "211171836": {
+   "fragment_id": "211248719",
+   "type": 11,
+   "heading": "Artigo 9.º — Encargos",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 25/2003/A - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2003-654709), em vigor a partir de 2003-08-21, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Encargos\n\n1 - As despesas com o transporte e alojamento das individualidades previstas na alínea i) do n.º 1 do artigo 2.º são suportadas, sempre que tal se justifique, pelo Gabinete do Secretário Regional Adjunto da Presidência.\n\n2 - O disposto no número anterior aplica-se, sempre que se justifique, às individualidades convidadas ao abrigo do n.º 2 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 25/2003/A - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2003-654709), em vigor a partir de 2003-08-21, produz efeitos a partir de 2003-01-01"
+  },
+  "211171830": {
+   "fragment_id": "211248720",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional dos Açores, em Santa Cruz da Graciosa, em 12 de Julho de 2002.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 13 de Agosto de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "211171858": {
+   "fragment_id": "211248711",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": "2006-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\n1 - É criado, na Presidência do Governo Regional, o Conselho Consultivo da Administração Pública Regional da Região Autónoma dos Açores, adiante designado por Conselho, na directa dependência do membro do Governo que tiver a seu cargo a Administração Pública, tendo por missão reflectir e debater as grandes linhas de orientação e de modernização da administração regional.\n\n2 - Compete, designadamente, ao Conselho:\n\na) Pronunciar-se sobre as medidas de modernização e racionalização administrativas respeitantes à administração pública regional;\n\nb) Pronunciar-se sobre projectos de qualidade dos serviços públicos promovidos pelos serviços e organismos da administração pública regional;\n\nc) Pronunciar-se sobre as medidas respeitantes à sociedade de informação na administração regional;\n\nd) Pronunciar-se sobre a organização, funcionamento e gestão da administração regional;\n\ne) Analisar e propor medidas relativas à política de emprego público e à gestão e qualificação dos recursos humanos;\n\nf) Emitir pareceres, propostas e recomendações, podendo determinar a realização de investigações e estudos, relativamente à administração regional dos Açores;\n\ng) Coordenar a recolha e tratamento dos indicadores do ambiente interno e externo à administração regional relativamente à sua organização e funcionamento, procedendo a diagnósticos regulares da situação;\n\nh) Discutir, aprovar e divulgar um relatório anual sobre a situação e evolução da administração regional e da função pública e sobre as medidas de reforma que tenham sido adoptadas no período por ele abrangido.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+  },
+  "211171859": {
+   "fragment_id": "211248712",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2006-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O Conselho é presidido pelo membro do Governo que tiver a seu cargo a administração pública regional e tem a seguinte composição:\n\na) O director regional com competência nas áreas da organização e da Administração Pública;\n\nb) O director regional com competência nas áreas do orçamento e do tesouro;\n\nc) O director regional com competência nas áreas da ciência e da tecnologia;\n\nd) O director regional com competência na área da saúde;\n\ne) O director regional com competência na área da educação;\n\nf) O director regional com competência nas áreas do emprego e da formação profissional;\n\ng) Um representante da Câmara do Comércio e Indústria dos Açores;\n\nh) Representantes das organizações sindicais dos trabalhadores da administração regional e local, em número não inferior a um terço dos membros do Conselho e até ao limite de cinco elementos, designados por aquelas e nomeados pelo membro do Governo que tiver a seu cargo a Administração Pública;\n\ni) Um representante da Associação de Consumidores da Região dos Açores - ACRA, designado por esta e nomeado pelo membro do Governo que tiver a seu cargo a Administração Pública;\n\nj) Até três individualidades de reconhecida competência nas áreas de actividade do Conselho, nomeados por despacho do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a tratar, individualidades não referidas no número anterior, sem direito a voto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+  },
+  "211171860": {
+   "fragment_id": "211248719",
+   "type": 11,
+   "heading": "Artigo 9.º — Encargos",
+   "in_force_from": "2006-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 25/2003/A - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2003-654709), em vigor a partir de 2003-08-21, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Encargos\n\n1 - As despesas com o transporte e alojamento das individualidades previstas na alínea j) do n.º 1 do artigo 2.º são suportadas, sempre que tal se justifique, pelo gabinete do membro do Governo que tiver a seu cargo a administração pública regional.\n\n2 - O disposto no número anterior aplica-se, sempre que se justifique, às individualidades convidadas ao abrigo do n.º 2 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 25/2003/A - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2003-654709), em vigor a partir de 2003-08-21, produz efeitos a partir de 2003-01-01"
+  },
+  "211171873": {
+   "fragment_id": "211248711",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza, missão e competências",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza, missão e competências\n\n1 - É criado o Conselho Consultivo da Administração Pública Regional da Região Autónoma dos Açores, adiante designado por Conselho, na direta dependência do membro do Governo Regional com competência em matéria de Administração Pública, tendo por missão refletir e debater as grandes linhas de orientação e de modernização da administração regional.\n\n2 - Compete, designadamente, ao Conselho:\n\na) Pronunciar-se sobre as medidas de modernização e racionalização administrativas respeitantes à administração pública regional;\n\nb) Pronunciar-se sobre projectos de qualidade dos serviços públicos promovidos pelos serviços e organismos da administração pública regional;\n\nc) Pronunciar-se sobre as medidas respeitantes à sociedade de informação na administração regional;\n\nd) Pronunciar-se sobre a organização, funcionamento e gestão da administração regional;\n\ne) Analisar e propor medidas relativas à política de emprego público e à gestão e qualificação dos recursos humanos;\n\nf) Emitir pareceres, propostas e recomendações, podendo determinar a realização de investigações e estudos, relativamente à administração regional dos Açores;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+  },
+  "211171874": {
+   "fragment_id": "211248712",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O Conselho é presidido pelo membro do Governo Regional com competência em matéria de Administração Pública e tem a seguinte composição:\n\na) O director regional com competência nas áreas da organização e da Administração Pública;\n\nb) O inspetor regional da Inspeção Administrativa Regional, da Transparência e do Combate à Corrupção;\n\nc) O director regional com competência nas áreas do orçamento e do tesouro;\n\nd) O diretor regional com competência na área das autarquias locais;\n\ne) O director regional com competência nas áreas da ciência e da tecnologia;\n\nf) O director regional com competência na área da saúde;\n\ng) O director regional com competência na área da educação;\n\nh) O director regional com competência nas áreas do emprego e da formação profissional;\n\ng) Um representante da Câmara do Comércio e Indústria dos Açores;\n\nh) Representantes das organizações sindicais dos trabalhadores da administração regional e local, em número não inferior a um terço dos membros do Conselho e até ao limite de cinco elementos, designados por aquelas e nomeados pelo membro do Governo que tiver a seu cargo a Administração Pública;\n\ni) O diretor do Serviço Regional de Estatística dos Açores;\n\nj) O presidente da direção da Agência para a Modernização e Qualidade do Serviço ao Cidadão (RIAC);\n\nk) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nl) Um representante da Associação Nacional de Freguesias (ANAFRE) - Delegação dos Açores;\n\nm) Um representante do Conselho Económico e Social dos Açores;\n\nn) Representantes das organizações sindicais dos trabalhadores da administração regional e local, em número não inferior a um terço dos membros do Conselho e até ao limite de seis elementos, designados por aquelas e nomeados pelo membro do Governo Regional que tiver a seu cargo a Administração Pública;\n\no) Até três individualidades de reconhecida competência nas áreas de actividade do Conselho, nomeados por despacho do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a tratar, individualidades não referidas no número anterior, sem direito a voto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09"
+  },
+  "211311675": {
+   "fragment_id": "211248715",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01"
+   ],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\n1 - O Conselho funciona em plenário ou em comissões restritas de acordo com o âmbito, a natureza e a especificidade dos assuntos a tratar.\n\n2 - O plenário reúne em sessões ordinárias e extraordinárias, realizando-se as primeiras semestralmente e as segundas por iniciativa do presidente ou a requerimento da maioria dos seus membros.\n\n3 - As comissões restritas têm a composição, o mandato e os prazos que forem fixados pelo plenário e visam preparar os estudos a submeter à sua apreciação.\n\n4 - As comissões restritas são presididas pelo membro para o efeito designado pelo plenário.\n\n5 - Para a realização das reuniões, sempre que não seja possível a presença física de todos os membros, utilizam-se os meios telemáticos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01"
+  },
+  "211311676": {
+   "fragment_id": "211248717",
+   "type": 11,
+   "heading": "Artigo 7.º — Colaboração com outras entidades",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01"
+   ],
+   "markdown": "###### Artigo 7.º — Colaboração com outras entidades\n\n1 - O Conselho pode solicitar a quaisquer entidades públicas ou privadas os elementos que julgue indispensáveis à realização das suas atribuições.\n\n2 - O Conselho pode manter contactos e cooperação com a entidade que a nível nacional prossiga idêntica missão e com instituições e organismos internacionais, em especial os que se dediquem ao estudo das administrações insulares e das regiões ultraperiféricas da União Europeia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01"
+  },
+  "211311677": {
+   "fragment_id": "211248719",
+   "type": 11,
+   "heading": "Artigo 9.º — Encargos",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 25/2003/A - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2003-654709), em vigor a partir de 2003-08-21, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Encargos\n\n1 - Os membros do Conselho a que se referem as alíneas k) a o) do n.º 1 do artigo 2.º têm direito a transporte e ajudas de custo pelo montante mais elevado da tabela em vigor para os trabalhadores que exercem funções públicas na administração pública regional, a suportar pelo gabinete do membro do Governo Regional com competência em matéria de Administração Pública.\n\n2 - O disposto no número anterior aplica-se, sempre que se justifique, às individualidades convidadas ao abrigo do n.º 2 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 12/2023/A - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-211241823), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 20/2006/A - Diário da República n.º 111/2006, Série I-B de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2006-346106), em vigor a partir de 2006-06-09\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 25/2003/A - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2003-654709), em vigor a partir de 2003-08-21, produz efeitos a partir de 2003-01-01"
+  }
+ }
+}

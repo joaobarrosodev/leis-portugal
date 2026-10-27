@@ -1,0 +1,57 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:915239715:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-915280953",
+ "dre_path": "/dr/detalhe/portaria/190-2025-915239715",
+ "source_lastmod": "2026-08-25",
+ "versions": [
+  {
+   "date": "2026-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154555259:por",
+     "title": "Portaria n.º 326/2026/1",
+     "published": "2026-08-06",
+     "dre_path": "/dr/detalhe/portaria/326-2026-1154555259"
+    }
+   ],
+   "changes": [
+    "Altera Artigo único"
+   ],
+   "fragments": [
+    "915239819",
+    "1154942275",
+    "915239820"
+   ]
+  }
+ ],
+ "fragments": {
+  "915239819": {
+   "fragment_id": "915280954",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 68/2024, de 8 de outubro, determina que o CEJURE, Centro Jurídico do Estado, se organiza em núcleos temáticos, que serão dirigidos por coordenadores e que integrarão, em função da sua especialidade, juristas consultores e associados, bem como técnicos superiores juristas, nomeadamente provenientes das secretarias-gerais ministeriais extintas no âmbito da reforma da Administração Pública em curso.\n\nVisa-se com esta organização uma otimização dos recursos existentes, que passarão a dar apoio jurídico transversal à totalidade dos membros do Governo, bem como aos órgãos e serviços integrados na administração direta do Estado ou a outras entidades da Administração Pública que sejam identificados por portaria.\n\nÉ indispensável definir agora esses núcleos temáticos, em função da experiência existente e das exigências decorrentes destas atribuições, de forma que o CEJURE esteja em condições de as exercer.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 5.º do Decreto-Lei n.º 68/2024, de 8 de outubro, manda o Governo, pelo Ministro da Presidência, no uso das competências delegadas pelo Primeiro-Ministro, pelo Despacho n.º 1277/2025, publicado no Diário da República, 2.ª série, de 29 de janeiro de 2025, o seguinte:"
+  },
+  "1154942275": {
+   "fragment_id": "915280961",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "2026-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 326/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2026-1154555259), em vigor a partir de 2026-08-11."
+   ],
+   "markdown": "###### Artigo único\n\nA organização interna do Centro Jurídico do Estado (CEJURE) compreende os seguintes núcleos temáticos:\n\na) Administrativo - Geral;\n\nb) Ambiente, Energia e Ordenamento do Território;\n\nc) Apoio à Direção;\n\nd) Arbitragem;\n\ne) Bancário e Financeiro;\n\nf) Centro de Estudos;\n\ng) Constitucional e Procedimento Legislativo;\n\nh) Contratos Públicos;\n\ni) Cooperativas;\n\nj) Emprego Público e Segurança Social;\n\nk) Fundações e Utilidade Pública;\n\nl) Fundos Europeus e Nacionais;\n\nm) Gestão Processual;\n\nn) Sancionatório.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 326/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2026-1154555259), em vigor a partir de 2026-08-11."
+  },
+  "915239820": {
+   "fragment_id": "915280955",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Presidência, António Leitão Amaro, em 11 de abril de 2025.\n\n118945142"
+  }
+ }
+}

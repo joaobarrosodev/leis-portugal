@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R0595:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R0595-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1991-03-14",
+   "future": false,
+   "celex": "31991R0595",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3d61331022cb7401",
+    "9909aa8aab8fb04e",
+    "5f58df3040186d07",
+    "3a55ec87ef420c2d",
+    "2b940c78a3aae43f",
+    "94ffe399540855f2",
+    "3d98ccb94ca10c4e",
+    "f15408ac597a9a3e",
+    "849af75a48b5616e",
+    "68d815289997ec96",
+    "edbeb4b24c510b95",
+    "7d6c483ccef850c3",
+    "15b12401e1dec845",
+    "91ed368993c9aee6",
+    "2e3394e4c52f4dfc",
+    "873d3b35fa2e0b2f"
+   ]
+  }
+ ],
+ "fragments": {
+  "3d61331022cb7401": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 14.3.1991 | PT | Jornal Oficial da União Europeia | L 67/11 |\n| --- | --- | --- | --- |\n\nREGULAMENTO (CEE) No 595/91 DO CONSELHO\n\nde 4 de Março de 1991\n\nrelativo às irregularidades e à recuperação das importâncias pagas indevidamente no âmbito da política agrícola comum, assim como à organização de um sistema de informação nesse domínio, e que revoga o Regulamento (CEE) n.o 283/72\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum[(1)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr1-L_1991067PT.01001101-E0001), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 2048/88[(2)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr2-L_1991067PT.01001101-E0002), e, nomeadamente, o n.o 3 do seu artigo 8.o,\n\nTendo em conta o Regulamento (CEE) n.o 1676/85 do Conselho, de 11 de Junho de 1985, relativo ao valor da unidade de conta e às taxas de conversão a aplicar no âmbito da política agrícola comum[(3)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr3-L_1991067PT.01001101-E0003), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 2205/90[(4)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr4-L_1991067PT.01001101-E0004), e, nomeadamente, o n.o 4 do seu artigo 2.o,\n\nTendo em conta a proposta da Comissão[(5)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr5-L_1991067PT.01001101-E0005),\n\nTendo em conta o parecer do Parlamento Europeu[(6)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr6-L_1991067PT.01001101-E0006),\n\nConsiderando que o artigo 8.o do Regulamento (CEE) n.o 729/70 definiu os princípios segundo os quais a Comunidade tenciona reforçar a luta contra as irregularidades e recuperar as somas perdidas; que, nos termos do n.o 3 desse artigo, o Conselho deve adoptar as respectivas regras gerais;\n\nConsiderando que é necessário alterar o Regulamento (CEE) n.o 283/72[(7)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntr7-L_1991067PT.01001101-E0007), a fim de harmonizar a sua aplicação nos Estados-membros e reforçar a luta contra as irregularidades em função da experiência adquirida; que, por razões de clareza, é oportuno substituir integralmente o Regulamento (CEE) n.o 283/72;\n\nConsiderando que, a fim de assegurar à Comunidade um melhor conhecimento das disposições tomadas pêlos Estados-membros para lutar contra as irregularidades, convém precisar as disposições nacionais que deverão ser comunicadas à Comissão;\n\nConsiderando que, a fim de conhecer a natureza das práticas fraudulentas e os efeitos financeiros das irregularidades, assim como de recuperar as importâncias, é necessário prever a comunicação trimestral à Comissão dos casos de irregularidade; que esta comunicação deve ser completada por indicação sobre o desenvolvimento dos procedimentos judiciais ou administrativos;\n\nConsiderando que é oportuno que a Comissão seja sistematicamente informada dos processos judiciais ou administrativos tendentes a punir as pessoas que tenham cometido irregularidades; que se afigura igualmente oportuno assegurar uma informação sistemática sobre as medidas tomadas pelos Estados-membros para salvaguardar os interesses financeiros da Comunidade;\n\nConsiderando que é conveniente especificar os processos entre os Estados-membros e a Comissão nos casos em que se verifique que os montantes perdidos na sequência de uma irregularidade são irrecuperáveis;\n\nConsiderando que é necessário que a Comissão, nos casos em que solicita ao Estado-membro a abertura de um inquérito, seja informada de forma completa da preparação do inquérito e dos seus resultados; que é conveniente definir os direitos dos agentes da Comissão que participam em tais inquéritos;\n\nConsiderando que as regras nacionais relativas ao processo penal e à cooperação judiciária entre Estados-membros em matéria penal não devem ser afectadas pelas disposições do presente regulamento;\n\nConsiderando que deve ser prevista uma participação financeira da Comunidade nas despesas de inquérito, com base nos montantes recuperados; que é igualmente oportuno prever a possibilidade de participação comunitária nas custas judiciais e nas despesas directamente relacionadas com o processo judicial;\n\nConsiderando que, a fim de prevenir casos de irregularidade, deve ser reforçada a cooperação entre os Estados--membros e a Comissão, zelando simultaneamente por que esta acção seja conduzida com grande discreção;\n\nConsiderando que convém transmitir, trimestralmente, os resultados de conjunto ao Comité do Fundo Europeu de Orientação e de Garantia Agrícola e, anualmente, ao Parlamento Europeu e ao Conselho;\n\nConsiderando que é conveniente aumentar o limiar mínimo a partir do qual os casos de irregularidades devem ser automaticamente comunicados pêlos Estados-membros; que esse limiar é determinado em derrogação do n.o 1 do artigo 2.o do Regulamento (CEE) n.o 1676/85, a fim de permitir uma abordagem uniforme e comparável, facilmente aplicável pelas administrações nacionais em questão, por meio de uma taxa de câmbio que reflicta a realidade económica;\n\nConsiderando que é conveniente especificar que as disposições do presente regulamento se aplicam igualmente nos casos em que um pagamento, que deveria ser efectuado no âmbito do Fundo Europeu de Orientação e de Garantia Agrícola, secção «Garantia», a seguir denominado «Fundo», por um operador, o não tenha sido na sequência de uma irregularidade,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9909aa8aab8fb04e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs medidas a que se refere o presente regulamento dizem respeito a todas as despesas do Fundo Europeu de Orientação e Garantia Agrícola, secção «Garantia».\n\nO presente regulamento permanece aplicável aos casos de irregularidades relativas às despesas do Fundo Europeu de Orientação e de Garantia Agrícola, secção «Orientação», comunicados antes de 1 de Janeiro de 1989.\n\nO presente regulamento não afecta a aplicação, nos Estados-membros, das regras relativas ao processo penal ou à cooperação judicial entre Estados-membros em matéria penal."
+  },
+  "5f58df3040186d07": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros comunicarão à Comissão, no prazo de três meses a contar da data da entrada em vigor do presente regulamento:\n\n— as disposições legislativas, regulamentares e administrativas relativas à aplicação das medidas estabelecidas no n.o l do artigo 8.o do Regulamento (CEE) n.o 729/70,\n\n— a relação dos serviços e organismos encarregados da aplicação dessas medidas, assim como as disposições essenciais sobre as funções e funcionamento desses serviços e organismos e sobre os procedimentos que lhes incumbem aplicar.\n\n2. Os Estados-membros comunicarão, sem demora, à Comissão as alterações respeitantes às indicações fornecidas em aplicação do n.o 1.\n\n3. A Comissão examinará as comunicações dos Estados-membros e informará o Comité do Fundo sobre as conclusões que entende serem de tirar. A Comissão manterá com os Estados-membros, se for caso disso, no seio do Comité do Fundo, os contactos apropriados necessários à aplicação do presente artigo."
+  },
+  "3a55ec87ef420c2d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No decurso dos dois meses seguintes ao final de cada trimestre, os Estados-membros enviarão à Comissão um relatório sobre os casos de irregularidade que tenham sido objecto de um primeiro auto administrativo ou judiciário.\n\nPara este fim, fornecerão em toda a medida do possível dados precisos relativamente:\n\n— à disposição que foi transgredida,\n\n— à natureza e à importância da despesa; nos casos em que não tenha sido efectuado qualquer pagamento, os montantes que teriam sido pagos indevidamente se a irregularidade não tivesse sido detectada, à excepção dos erros ou negligências cometidos pêlos operadores económicos, mas detectados antes do pagamento e que não dão lugar a qualquer sanção administrativa ou judicial,\n\n— às organizações comuns de mercado e ao ou aos produtos que interessam ou à medida em causa,\n\n— ao período durante o qual ou ao momento em que a irregularidade foi cometida,\n\n— às práticas utilizadas para cometer a irregularidade,\n\n— à maneira como foi descoberta a irregularidade,\n\n— aos serviços ou organismos nacionais que procederam à verificação da irregularidade,\n\n— às consequências financeiras e às possibilidades de recuperação,\n\n— à data e à fonte da primeira informação que permitiu suspeitar da existência de uma irregularidade,\n\n— à data da verificação da irregularidade,\n\n— se for caso disso, aos Estados-membros e aos países terceiros em causa,\n\n— à identificação das pessoas singulares e colectivas implicadas, excepto no caso de esta indicação não poder ser útil no âmbito da luta contra as irregularidades devido à natureza da irregularidade em causa.\n\n2. No caso de algumas destas informações, e nomeadamente as relativas às práticas utilizadas para cometer a irregularidade, assim como à maneira como foi descoberta, não estarem disponíveis, os Estados-membros completá-las-ão, em toda a medida do possível, na altura em que transmitirem à Comissão os relatórios trimestrais seguintes.\n\n3. Se as disposições nacionais previrem o segredo de Justiça, a comunicação destas informações fica sujeita à autorização da autoridade judicial competente."
+  },
+  "2b940c78a3aae43f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCada um dos Estados-membros comunicará sem demora aos demais Estados-membros interessados, assim como à Comissão, as irregularidades verificadas ou presumíveis de que se receiem efeitos muito rápidos fora do seu território, assim como as que revelem o emprego de nova prática fraudulenta."
+  },
+  "94ffe399540855f2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. No decurso dos dois meses seguintes ao final de cada trimestre, os Estados-membros informarão a Comissão dos processos instaurados na sequência das irregularidades comunicadas em aplicação do disposto no artigo 3.o, bem como das alterações significativas verificadas nesses processos, nomeadamente:\n\n— dos montantes das recuperações efectuadas ou esperadas,\n\n— das medidas cautelares tomadas pêlos Estados-membros para salvaguardar a recuperação dos montantes pagos indevidamente,\n\n— dos processos administrativos e judiciais instaurados com vista à recuperação dos montantes indevidamente pagos e à aplicação de sanções,\n\n— das razões do eventual abandono dos processos de recuperação; na medida do possível, a Comissão será informada antes de ser tomada uma decisão,\n\n— do eventual abandono das acções penais.\n\nOs Estados-membros comunicarão à Comissão as decisões administrativas ou judiciais, ou os elementos essenciais destas, relativos ao encerramento destes processos.\n\n2. Sempre que um Estado-membro considere que não se pode efectuar ou esperar a recuperação total de um montante informará a Comissão, numa comunicação especial, do montante não recuperado e das razões pelas quais esse montante ficará, na sua opinião, a cargo da Comunidade ou do Estado-membro.\n\nEstas informações devem ser suficientemente promenorizadas para permitir à Comissão a tomada de uma decisão sobre a imputabilidade das consequências financeiras, nos termos do n.o 2 do artigo 8.o do Regulamento (CEE) n.o 729/70. Esta decisão será tomada de acordo com o procedimento previsto no artigo 5.o do mesmo regulamento."
+  },
+  "3d98ccb94ca10c4e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Quando a Comissão considerar que foram cometidas irregularidades num ou mais Estados-membros, informará do facto o ou os Estados-membros em questão, procedendo este ou estes, no mais breve prazo, a um inquérito em que podem participar os agentes da Comissão.\n\nPara efeitos do presente artigo, entende-se por inquérito todos os controlos, verificações e acções desenvolvidos por agentes das administrações nacionais no exercício das suas funções e destinados a determinar a existência de uma irregularidade, com excepção das acções desenvolvidas a pedido ou sob a autoridade directa de uma autoridade judicial.\n\n2. O Estado-membro comunicará à Comissão, no mais breve prazo, as conclusões do inquérito.\n\nNo caso de um inquérito concluir pela existência de uma irregularidade, o Estado-membro deve informar desse facto a Comissão, em conformidade com o disposto nos artigos 3.o, 4.o e 5.o, e, se for caso disso, os Estados-membros em causa, em conformidade com o artigo 4.o\n\n3. No caso de os agentes da Comissão se associarem a um inquérito, o Estado-membro em questão será informado do facto. O Estado-membro informará a Comissão dos elementos essenciais do inquérito pelo menos uma semana antes da acção, excepto em caso de urgência.\n\n4. No caso de os agentes da Comissão participarem num inquérito, este será sempre conduzido por agentes dos Estados-membros; os agentes da Comissão não podem, por sua própria iniciativa, exercer os poderes de controlo reconhecidos aos agentes nacionais; em contrapartida, terão acesso, por intermédio destes últimos, aos mesmos locais e aos mesmos documentos que eles.\n\nNa medida em que as disposições nacionais em matéria de processo penal reservem certos actos a agentes especificamente designados pela legislação nacional, os agentes da Comissão não participarão nesses actos. De qualquer modo, não participarão nas visitas domiciliárias ou no interrogatório formal de pessoas no âmbito da lei penal do Estado-membro. Todavia, terão acesso às informações assim obtidas.\n\nPara cooperar nos controlos referidos no n.o 1, os agentes da Comissão apresentarão um mandato escrito indicando a sua identidade e qualidade."
+  },
+  "f15408ac597a9a3e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Quando os montantes recuperados forem postos à disposição do Fundo, o Estado-membro pode reter 20 % desses montantes, desde que as regras previstas no presente regulamento não tenham sido infringidas de modo significativo.\n\n2. No caso de as autoridades competentes de um Estado-membro, a pedido expresso da Comissão, decidirem intentar ou prosseguir uma acção judicial destinada a recuperar montantes pagos indevidamente, a Comissão pode comprometer-se a reembolsar inteira ou parcialmente ao Estado-membro as custas judiciais e as despesas directamente relacionadas com esse processo, mediante a apresentação de documentos comprovativos, mesmo que o referido processo não chegue ao seu termo."
+  },
+  "849af75a48b5616e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão manterá com os Estados-membros interessados os contactos apropriados para completar as informações fornecidas sobre as irregularidades referidas no artigo 3.o e os procedimentos previstos no artigo 5.o e, especialmente, sobre as possibilidades de recuperação.\n\n2. Sem prejuízo desses contactos, os assuntos serão submetidos à apreciação do Comité do Fundo, quando a natureza da irregularidade deixar presumir que se possa recorrer noutros Estados-membros a práticas idênticas ou similares.\n\n3. Além disso, a Comissão organizará, ao nível comunitário, reuniões de informação destinadas aos representantes dos Estados-membros interessados, a fim de com eles examinar as informações obtidas com base nos artigos 3.o, 4.o e 5.o e no n.o 1 do presente artigo, nomeadamente no que respeita aos ensinamentos a tirar relativamente a irregularidades, medidas de prevenção e processos judiciais. A Comissão manterá, quando necessário, o Comité do Fundo ao corrente destes trabalhos e consultá-lo-á acerca de qualquer proposta que entenda submeter ao Conselho em matéria de prevenção das irregularidades.\n\n4. No caso de a aplicação de certas disposições em vigor revelar qualquer lacuna prejudicial aos interesses da Comunidade, os Estados-membros consultar-se-ão, quer a pedido de um deles, quer a pedido da Comissão, nas condições previstas no n.o 3, e eventualmente no seio do Comité do Fundo ou de qualquer outra instância competente, com o fim de preencher essa lacuna."
+  },
+  "68d815289997ec96": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Comité do Fundo será informado trimestralmente pela Comissão acerca da ordem de grandeza das importâncias referentes às irregularidades descobertas e das diversas categorias de irregularidades, segundo a sua natureza e com indicação do respectivo número. Num capítulo especial do relatório anual sobre a administração do Fundo, referido no artigo 10.o do Regulamento (CEE) n.o 729/70, a Comissão comunicará o número de processos notificados e os que foram arquivados, assim como o montante das importâncias recuperadas e irrecuperáveis."
+  },
+  "edbeb4b24c510b95": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros e a Comissão tomarão todas as medidas de segurança necessárias para que sejam mantidas confidenciais as informações trocadas entre si.\n\n2. As informações referidas no n.o 1 não podem, designadamente, ser transmitidas a pessoas que não sejam as que, pela natureza das suas funções, devam conhecê-las, nos Estados-membros ou nas instituições comunitárias, a menos que o Estado-membro que as comunicar tenha expressamente consentido essa transmissão.\n\n3. Os nomes de pessoas singulares ou colectivas só podem ser comunicados a outro Estado-membro ou a outra instituição comunitária no caso de esta comunicação ser necessária com vista à prevenção ou à repressão de irregularidades ou à verificação de alegadas irregularidades.\n\n4. As informações, comunicadas ou obtidas, seja de que forma for, ao abrigo do presente regulamento, ficarão abrangidas pelo segredo profissional e beneficiarão da protecção concedida às informações análogas pela legislação nacional do Estado-membro que as recebeu e pelas disposições correspondentes aplicáveis às instituições comunitárias.\n\nAlém disso, essas informações não poderão ser utilizadas para fins diferentes dos previstos no presente regulamento, a menos que as autoridades que as forneceram tenham para tal dado o seu expresso consentimento, e na condição de as disposições em vigor no Estado-membro em que se encontram as autoridades que as receberam não se oporem a tal comunicação ou utilização.\n\n5. O disposto nos números anteriores não obsta à utilização das informações obtidas nos termos do presente regulamento no âmbito de acções judiciais ou de processos intentados na sequência do não cumprimento da regulamentação agrícola. A autoridade competente do Estado-membro que forneceu essas informações será informada sem demora de tal utilização.\n\n6. Sempre que um Estado-membro notificar a Comissão de que da continuação de um inquérito se concluiu que uma pessoa singular ou colectiva, cujo nome lhe foi comunicado por força do disposto no presente regulamento, não esteve implicada numa irregularidade, a Comissão informará do facto, sem demora, as entidades a quem comunicou esse nome nos termos do presente regulamento. Essa pessoa deixará de ser tratada como implicada na irregularidade em causa, com base na primeira notificação."
+  },
+  "7d6c483ccef850c3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nEm caso de co-financiamento pelo Fundo e por um Estado-membro, os montantes recuperados são repartidos entre a Comunidade e o Estado-membro, proporcionalmente às despesas respectivas."
+  },
+  "15b12401e1dec845": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. No caso de as irregularidades incidirem sobre importâncias inferiores a 4 000 ecus, os Estados-membros só transmitirão à Comissão as informações previstas nos artigos 3.o e 5.o se esta as pedir expressamente.\n\n2. O montante referido no n.o 1 será convertido em moeda nacional mediante a aplicação das taxas de câmbio publicadas no Jornal Oficial das Comunidades Europeias, série C, em vigor no primeiro dia útil do ano em que são transmitidas as informações sobre as irregularidades."
+  },
+  "91ed368993c9aee6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO disposto no presente regulamento aplica-se, mutatis mutandis, nos casos em que um montante a creditar ao Fundo não tenha sido pago em conformidade com as disposições em causa."
+  },
+  "2e3394e4c52f4dfc": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. É revogado o Regulamento (CEE) n.o 283/72.\n\n2. As remissões para o Regulamento (CEE) n.o 283/72 entendem-se como sendo feitas ao presente regulamento."
+  },
+  "873d3b35fa2e0b2f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nOs quatro últimos travessões do n.o l, segundo parágrafo, do artigo 3.o são aplicáveis a partir da comunicação relativa ao segundo trimestre de 1991.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 4 de Março de 1991.\n\nPelo Conselho\n\nO Presidente\n\nR. STEICHEN\n\n[(1)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc1-L_1991067PT.01001101-E0001) [JO n.o L 94 de 28. 4. 1970, p. 13](http://publications.europa.eu/resource/oj/JOL_1970_094_R_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc2-L_1991067PT.01001101-E0002) [JO n.o L 185 de 15. 7. 1988, p. 1.](http://publications.europa.eu/resource/oj/JOL_1988_185_R_TOC)\n\n[(3)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc3-L_1991067PT.01001101-E0003) [JO n.o L 164 de 24. 6. 1985, p. 1.](http://publications.europa.eu/resource/oj/JOL_1985_164_R_TOC)\n\n[(4)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc4-L_1991067PT.01001101-E0004) [JO n.o L 201 de 31. 7. 1990, p. 9.](http://publications.europa.eu/resource/oj/JOL_1990_201_R_TOC)\n\n[(5)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc5-L_1991067PT.01001101-E0005) [JO n.o C 138 de 7. 6. 1990, p. 6.](http://publications.europa.eu/resource/oj/JOC_1990_138_R_TOC)\n\n[(6)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc6-L_1991067PT.01001101-E0006) [JO n.o C 324 de 24. 12. 1990](http://publications.europa.eu/resource/oj/JOC_1990_324_R_TOC).\n\n[(7)](http://publications.europa.eu/resource/cellar/bcb1c513-c44b-4b1d-9e8e-cae9c9f414cf.0009.05/DOC_1#ntc7-L_1991067PT.01001101-E0007) [JO n.o L 36 de 10. 2. 1972, p. 1.](http://publications.europa.eu/resource/oj/JOL_1972_036_R_TOC)"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:204852260:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2022-1173552475",
+ "dre_path": "/dr/detalhe/despacho-extrato/14401-2022-204852260",
+ "source_lastmod": "2026-09-30",
+ "versions": [
+  {
+   "date": "2022-12-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1173553775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1173553775": {
+   "fragment_id": "1173552575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho do Presidente do Grupo Parlamentar do Partido Chega, Deputado Pedro Pinto, nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, são nomeados os seguintes funcionários:\n\nDespacho de 8 de novembro de 2022:\n\nAna Cristina Viegas Mendes - para o cargo de assessora de comunicação do Grupo Parlamentar do Chega, com efeitos a partir do dia 14 de novembro de 2022.\n\nDespacho de 9 de novembro de 2022:\n\nPaulo Alexandre Matos Pimenta - para o cargo de assessor de comunicação do Grupo Parlamentar do Chega, com efeitos a partir do dia 14 de novembro de 2022."
+  }
+ }
+}

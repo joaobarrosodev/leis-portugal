@@ -1,0 +1,288 @@
+---
+schema_version: '1.0'
+id: pt:dre:629149:por
+title: Decreto Legislativo Regional n.º 19/2007/M
+short_title: null
+summary: Estabelece as regras e procedimentos de gestão dos serviços externos da Direcção Regional da Administração da Justiça
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 19/2007/M
+official_date: null
+publication_date: '2007-11-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 219/2007, Série I de 2007-11-14
+  number: '219'
+  series: I
+  supplement: null
+  pages: 8467 - 8469
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21900/0846708469.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/19/2007/11/14/m/dre/pt/html
+  oj: null
+  dre: '629149'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/19-2007-629149
+  internal: pt:dre:629149:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-629149
+  metadata_url: https://data.dre.pt/eli/declegreg/19/2007/11/14/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-629149
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:40:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d182f0549fd7f4483de5c066af590dd2aea613d1981f690ce541c13e310b98de
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Conservador
+- Despesas Públicas
+- Direcção Regional da Administração da Justiça
+- Gestão Administrativa
+- Gestão Financeira
+- Madeira.região Autónoma
+- Receita Pública
+- Serviços de Registo e Notariado
+relationships:
+- type: amended_by
+  target: pt:dre:73727196:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2003/10/08/p/dre
+- type: cites
+  target: pt:dre:520980:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/129/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/2007/01/17/p/dre
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: repealed_by
+  target: pt:dre:73727196:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 8/2016/M - Diário da República n.º 40/2016, Série I de 2016-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2016-73727196
+  date: '2016-02-26'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:40:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 19/2007/M
+
+Estabelece as regras e procedimentos de gestão dos serviços externos da Direcção Regional da Administração da Justiça
+
+O [Decreto-Lei n.º 247/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2003-482474), de 8 de Outubro, operou a transferência para a Região Autónoma da Madeira das atribuições e competências administrativas que no âmbito territorial da mesma se encontravam cometidas ao Ministério da Justiça e exercidas pela Direcção-Geral dos Registos e Notariado.
+
+No termos do artigo 14.º do citado diploma, conjugado com o disposto no artigo 108.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional passou a gerir e administrar todas as receitas e despesas provenientes da actividade dos serviços dos registos e do notariado na Região, pautando a sua actuação num contexto de autonomia cooperativa com o Estado e no entendimento de que deve existir uniformidade no funcionamento nacional dos registos e notariado.
+
+O [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, que aprovou a nova orgânica do Ministério da Justiça, foi, entretanto, complementado pelo [Decreto-Lei n.º 129/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2007-520980), de 27 de Abril, que aprovou a orgânica do Instituto dos Registos e do Notariado, I. P., e cujos estatutos foram, por sua vez, aprovados através da Portaria n.º 520/2007, de 30 de Abril. Estes serviços têm vindo a sofrer nos últimos tempos diversas alterações decorrentes da privatização do notariado, das diversas medidas enquadradas no denominado «SIMPLEX» e do enorme desenvolvimento das aplicações informáticas.
+
+Em matéria de gestão administrativa e financeira, urge adaptar à Região as alterações legislativas recentemente levadas a cabo no [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, por força da aplicação da [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro, bem como as medidas publicadas no âmbito do «SIMPLEX», pelo [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), de 17 de Janeiro.
+
+A Direcção Regional da Administração da Justiça é um organismo que, pese embora dotado de autonomia administrativa, carece de autonomia financeira que permita a gestão própria das receitas e despesas dos serviços dos registos e do notariado. Por outro lado, a singularidade própria acrescida da diversidade de métodos e procedimentos, consoante a espécie de serviços externos no respeitante ao processamento de vencimentos e centralização e pagamento de despesas dos serviços externos, desaconselha vivamente a criação e a formação de um amplo corpo de recursos humanos no âmbito da Vice-Presidência do Governo Regional da Madeira destinado a esse fim, mais a mais atentos os constrangimentos orçamentais que actualmente ocorrem.
+
+Por outro lado, as mencionadas despesas não tiveram previsão orçamental regional, pois, até a publicação da mencionada [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro, as mesmas eram deduzidas directamente por cada serviço à receita ilíquida, no respeito das normas de contabilidade pública.
+
+Existem necessidades diárias dos serviços imprescindíveis ao seu cabal funcionamento em matérias como a informática, que não se compadecem com qualquer desfasamento com a realidade nacional. Há que assegurar a continuidade no bom funcionamento dos serviços, ajustando a autonomia financeira regional com os objectivos nacionais de modernização dos mesmos e reestruturação do Ministério da Justiça.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira, nos termos dos artigos 227.º, n.º 1, segunda parte da alínea d), e 232.º, n.º 1, da Constituição da República Portuguesa, dos artigos 12.º, 37.º, n.º 1, alínea c), e 41.º, n.º, 1 do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, alterado pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, e, ainda, do artigo 14.º do [Decreto-Lei n.º 247/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2003-482474), de 8 de Outubro, decreta o seguinte:
+
+###### Artigo 1.º — Receitas
+
+1 - Sem prejuízo do disposto no n.º 2 do artigo 14.º do [Decreto-Lei n.º 247/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2003-482474), de 8 de Outubro, e com excepção do disposto em lei especial e das receitas enumeradas no artigo 4.º do presente decreto legislativo regional, revertem integralmente para a Região Autónoma da Madeira todas as receitas cobradas nos serviços externos dos registos e do notariado dependentes da Direcção Regional da Administração da Justiça, nomeadamente as provenientes de emolumentos, de multas, de imposto do selo a que se refere o n.º 26 da Tabela Geral do Imposto do Selo e das receitas de correio.
+
+2 - Constitui, igualmente, receita da Região Autónoma da Madeira o eventual excesso de emolumentos pessoais apurados, com respeito pelos limites legalmente impostos, em cada serviço externo da Direcção Regional da Administração da Justiça, nos termos do artigo 9.º do Regulamento Emolumentar dos Registos e do Notariado, bem como os emolumentos pessoais arrecadados nos termos do n.º 9.10 do artigo 21.º e do n.º 22 do artigo 22.º do Regulamento Emolumentar dos Registos e do Notariado.
+
+3 - As receitas referidas nos n.os 1 e 2 são mensalmente remetidas pelos serviços externos para a conta do Governo Regional da Madeira, após liquidação dos encargos e despesas mencionados no presente diploma.
+
+###### Artigo 2.º — Despesas
+
+1 - Ficam a cargo da Região Autónoma da Madeira as seguintes despesas:
+
+a) Os ordenados e vencimentos de conservadores, notários, adjuntos de conservadores e notários e oficiais dos registos e do notariado, bem como dos interinamente nomeados;
+
+b) O pagamento de abono de família e de prestações complementares, nomeadamente subsídios de fixação e compensação, ao pessoal referido nas alíneas anteriores que a eles tenha direito;
+
+c) A reversão do vencimento de exercício perdido, após devidamente autorizado;
+
+d) Os vencimentos do pessoal eventual em regime de prestação de serviço;
+
+e) O subsídio de formação aos adjuntos estagiários;
+
+f) Os vencimentos, ajudas de custo e despesas de transporte dos inspectores extraordinários e dos secretários dos serviços de inspecção;
+
+g) O pagamento de ajudas de custo e despesas de transporte devidas aos funcionários destacados;
+
+h) As ajudas de custo e despesas de transporte devidas ao director regional da Administração da Justiça pelas suas deslocações em serviço;
+
+i) A reparação, quando devida nos termos da lei geral, aos funcionários dos serviços externos dos registos e do notariado da Direcção Regional da Administração da Justiça do vencimento perdido por motivo de procedimento disciplinar ou criminal;
+
+j) A aquisição de mobiliário para as conservatórias e cartórios;
+
+l) O fornecimento dos livros necessários ao início e funcionamento de novas conservatórias e as demais despesas com a transcrição oficiosa dos registos em todos os casos de alteração de área de competência territorial das conservatórias do registo predial;
+
+m) O pagamento de despesas com publicações que a Direcção Regional da Administração da Justiça venha a efectuar ou a contratar e o encargo com o fornecimento das mesmas;
+
+n) O encargo com despesas de formação, excluídas as reservadas ao Ministério da Justiça, seminários ou congressos que a Direcção Regional da Administração da Justiça entenda levar a cabo ou em que entenda participar, tendo em vista a cabal actualização e desenvolvimento dos seus recursos humanos em paridade com o que sucede a nível nacional.
+
+2 - Nas despesas de apetrechamento e aquisição de mobiliário a cargo da Região Autónoma da Madeira considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento do serviço.
+
+3 - Constitui ainda encargo da Região Autónoma da Madeira, a eventual insuficiência de receita dos serviços para fazerem face às despesas, nos termos previstos no artigo seguinte.
+
+4 - Não obstante as despesas com os ordenados e vencimentos a que se referem as alíneas a) a e) do n.º 1 ficarem da Região Autónoma da Madeira, deve o processamento e pagamento das mesmas, incluindo todos os descontos por lei devidos, ser efectuado por cada serviço, recorrendo, para o efeito, à receita emolumentar que reverte para a mesma e, sendo esta receita inexistente ou insuficiente, solicitar antecipadamente à Direcção Regional da Administração da Justiça o montante em falia para fazer face a essas despesas.
+
+###### Artigo 3.º — Dispensa de autorização para despesas
+
+1 - Para fazer face às despesas abaixo mencionadas e sem prejuízo de as mesmas constituírem, igualmente, encargo da Região Autónoma da Madeira, os conservadores e notários, sem necessidade de autorização superior, ficam autorizados a despender o quantitativo mensal máximo que, por despacho do Vice-Presidente do Governo Regional da Madeira, for respectivamente fixado, consoante se trate de repartições de 1.ª, 2.ª e 3.ª classes:
+
+a) Aquisição e encadernação dos livros bem como a sua reforma ou restauração;
+
+b) Aquisição de impressos, papeis, artigos de expediente e qualquer outro material de equipamento de secretaria e produtos de limpeza, estes últimos quando não incluídos nos contratos de limpeza;
+
+c) Aquisição de consumíveis para fotocopiadores, faxes, máquinas de escrever e material informático;
+
+d) Conservação e reparação corrente de mobiliário;
+
+e) Comunicações, compreendendo as de correio, telecópia, telefone, e eventualmente ligação à Internet e intranet;
+
+f) Despesas de rendas, condomínio, aquecimento, consumo de água e electricidade;
+
+g) Encargos com pessoal de limpeza;
+
+h) Pagamento de contratos de assistência, nomeadamente com fotocopiadores, faxes, centrais telefónicas ou material informático, superiormente autorizados;
+
+i) Pagamento de contratos de vigilância e segurança, superiormente autorizados;
+
+j) Despesas bancárias nomeadamente as derivadas de requisições de cheques, transferências ou outras comissões devidas no âmbito dos protocolos existentes;
+
+l) Reparações urgentes e inadiáveis de instalações e equipamento.
+
+2 - Para o limite a que se refere o n.º 1 não concorrem as despesas obrigatórias abaixo enumeradas:
+
+a) Electricidade, água, limpeza, renda e condomínio;
+
+b) Correio, telecópia e telefone, desde que não excedidos os limites que vierem a ser fixados por despacho do director regional da Administração da Justiça;
+
+c) Aquisição de impressos destinados a venda ao público;
+
+d) Contratos de assistência decorrentes da implementação do SIRIC, SIRP, SIRCOM, e antiga aplicação informática do registo predial, devidamente autorizados.
+
+3 - Todas as despesas a que se refere o presente artigo deverão ser devidamente enumeradas em livro próprio designado «Livro de despesas», que poderá ser informatizado, e referenciadas aos documentos que as suportem, arquivados em pasta própria anual. No livro, à margem de cada despesa, deverá ficar anotado o meio de pagamento utilizado.
+
+4 - No final de cada mês o total das despesas é abatido ao total a transferir para a conta do Governo Regional da Madeira e, sendo a receita do serviço insuficiente ou inexistente para lhes fazer face, deverá a repartição solicitar à Direcção Regional da Administração da Justiça uma quantia provisional suficiente para o efeito.
+
+###### Artigo 4.º — Remissão de receitas
+
+Os serviços externos da Direcção Regional da Administração da Justiça devem remeter às entidades competentes, nos prazos legais, entre outras legalmente previstas, as receitas provenientes de:
+
+a) Publicações online no âmbito do registo comercial;
+
+b) Emolumentos do Registo Nacional de Pessoas Colectivas;
+
+c) Emolumentos do Instituto Nacional da Propriedade Industrial;
+
+d) Emissão de certidões permanentes no âmbito do registo comercial;
+
+e) Emolumentos devidos às conservatórias de registo de automóveis;
+
+f) Taxas de emissão de bilhetes de identidade/cartão do cidadão;
+
+g) Produto da venda de impressos para reposição dos respectivos stocks;
+
+g) Emolumentos da Conservatória dos Registos Centrais;
+
+h) Requisição de actos ou documentos a outros serviços;
+
+i) Imposto do selo, excluído o referido no n.º 1 do artigo 1.º do presente diploma.
+
+###### Artigo 5.º — Liquidação e cancelamento das contas do serviço social
+
+Deverão os serviços externos liquidar e cancelar as contas do serviço social no final do mês seguinte ao da publicação do presente diploma, devendo os eventuais excessos ser depositados a favor do Governo Regional da Madeira.
+
+###### Artigo 6.º — Ratificação dos actos transitórios
+
+Ficam ratificados todos os actos transitoriamente praticados pela Direcção Regional da Administração da Justiça relativos ao conteúdo do presente diploma desde a entrada em vigor da [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação e os seus efeitos retroagem a 1 de Janeiro de 2007.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 2 de Outubro de 2007.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 31 de Outubro de 2007.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -1,0 +1,197 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:355949:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-860450402",
+ "dre_path": "/dr/detalhe/portaria/881-a-1994-355949",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "860450478"
+   ]
+  },
+  {
+   "date": "1995-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:668156:por",
+     "title": "Portaria n.º 1257/95",
+     "published": "1995-10-24",
+     "dre_path": "/dr/detalhe/portaria/1257-1995-668156"
+    }
+   ],
+   "changes": [
+    "Altera QUADRO I"
+   ],
+   "fragments": [
+    "860450478",
+    "860450479",
+    "860450484",
+    "860450481"
+   ]
+  },
+  {
+   "date": "1998-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302974:por",
+     "title": "Decreto Regulamentar n.º 22-A/98",
+     "published": "1998-10-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/22-a-1998-302974"
+    }
+   ],
+   "changes": [
+    "Revoga 1.º",
+    "Revoga 2.º",
+    "Revoga 5.º",
+    "Revoga 6.º",
+    "Revoga 7.º",
+    "Revoga 8.º",
+    "Revoga 9.º"
+   ],
+   "fragments": [
+    "860450478",
+    "860450494",
+    "860450495",
+    "860450487",
+    "860450488",
+    "860450496",
+    "860450497",
+    "860450498",
+    "860450499",
+    "860450500",
+    "860450479",
+    "860450484",
+    "860450481"
+   ]
+  }
+ ],
+ "fragments": {
+  "860450478": {
+   "fragment_id": "860450403",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 881-A/94\n\nde 30 de Setembro\n\nO artigo 6.º do Código da Estrada estabelece que os sinais de trânsito são fixados em regulamento.\n\nA sinalização vertical foi objecto de recente alteração legislativa, através da Portaria n.º 46-A/94, de 17 de Janeiro, carecendo apenas de ligeiros ajustamentos ao novo Código, para além da introdução de novos sinais de informação, cuja necessidade se faz sentir.\n\nImporta ainda compatibilizar as normas punitivas do Regulamento do Código da Estrada com o novo regime sancionatório previsto no Código da Estrada, designadamente no que diz respeito ao montante das sanções pecuniárias cujo máximo é superior ao limite fixado no artigo 149.º do novo Código da Estrada.\n\nAssim, nos termos dos artigos 6.º, 118.º e 121.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, e ao abrigo do disposto no n.º 3 do artigo 6.º do mesmo decreto-lei:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "860450479": {
+   "fragment_id": "860450404",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Administração Interna.\n\nAssinada em 29 de Setembro de 1994.\n\nPelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna."
+  },
+  "860450484": {
+   "fragment_id": "860450405",
+   "type": 14,
+   "heading": "QUADRO I",
+   "in_force_from": "1995-10-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1257/95 - Diário da República n.º 246/1995, Série I-B de 1995-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/1257-1995-668156), em vigor a partir de 1995-10-29"
+   ],
+   "markdown": "## QUADRO I\n\n(ver documento original)\n\n> Alterado pelo/a [Portaria n.º 1257/95 - Diário da República n.º 246/1995, Série I-B de 1995-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/1257-1995-668156), em vigor a partir de 1995-10-29"
+  },
+  "860450481": {
+   "fragment_id": "860450406",
+   "type": 14,
+   "heading": "QUADRO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## QUADRO II\n\n(ver documento original)"
+  },
+  "860450494": {
+   "fragment_id": "860450411",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 1.º\n\nOs sinais de trânsito a que se refere o artigo 6.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, são os previstos nos artigos 2.º a 9.º do Regulamento do Código da Estrada, aprovado pelo Decreto n.º 39 987, de 22 de Dezembro de 1954, e no Decreto Regulamentar n.º 33/88, de 12 de Setembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  },
+  "860450495": {
+   "fragment_id": "860450412",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 2.º\n\nOs referidos sinais devem respeitar a forma, a cor, o desenho, o significado, as dimensões e os sistemas de colocação previstos nas disposições legais mencionadas no número anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  },
+  "860450487": {
+   "fragment_id": "860450413",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nAs infracções às disposições do Regulamento do Código da Estrada, que se mantêm em vigor nos termos do disposto no artigo 7.º do Decreto-Lei n.º 114/94, de 3 de Maio, e do presente diploma, têm a natureza de contra-ordenações, puníveis com coimas, cujos limites mínimos e máximos serão iguais aos correspondentes limites fixados para as multas até agora previstas naquele Regulamento, salvo o que se dispõe nos números seguintes."
+  },
+  "860450488": {
+   "fragment_id": "860450414",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nAs infracções ao disposto no Regulamento do Código da Estrada para as quais estavam previstas multas com limite máximo superior a 50000$00 e não sejam qualificadas como contra-ordenações graves ou muito graves, nos termos dos artigos 148.º e 149.º do Código da Estrada, passam a ser punidas com coima de 20000$00 a 50000$00."
+  },
+  "860450496": {
+   "fragment_id": "860450415",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 5.º\n\nAs infracções previstas na primeira parte do n.º 16 do artigo 8.º do Regulamento do Código da Estrada são punidas com coima de 15000$00 a 75000$00.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  },
+  "860450497": {
+   "fragment_id": "860450416",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 6.º\n\nSão aditados à alínea a) do n.º 2 do artigo 5.º do Regulamento do Código da Estrada os seguintes sinais verticais:\n\nH40 - Via reservada a veículos automóveis com dupla faixa de rodagem: indicação de entrada numa via com dupla faixa de rodagem, destinada apenas ao trânsito de veículos automóveis;\n\nH41 - Fim de via reservada a veículos automóveis com dupla faixa de rodagem: indicação de que terminou a via reservada a veículos automóveis com dupla faixa de rodagem;\n\nH42 - Centro de inspecções: indicação da localização de um centro de inspecções periódicas para veículos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  },
+  "860450498": {
+   "fragment_id": "860450417",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 7.º\n\nNo quadro XIV-A, anexo ao Regulamento do Código da Estrada, é alterado o sinal H29 e são aditados três novos sinais, conforme consta do quadro I anexo à presente portaria.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  },
+  "860450499": {
+   "fragment_id": "860450418",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 8.º\n\nAo quadro XV anexo ao Regulamento do Código da Estrada, parte I, «Apoio ao utente», são aditados os símbolos constantes do quadro II anexo à presente portaria.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  },
+  "860450500": {
+   "fragment_id": "860450419",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": "1998-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+   ],
+   "markdown": "###### 9.º\n\nOs sinais referidos no n.º 6.º deverão obedecer às características constantes do quadro V-A anexo ao Regulamento do Código da Estrada, pelo que na parte superior daquele quadro a terceira coluna deverá passar a mencionar: «H10 a H24 e H42»; a quarta coluna: «H25 a H28 e H40», e a última coluna «H37 a H39 e H41».\n\nA largura e a altura do sinal H29, previstas no quadro V-A a que se refere o presente número, passam a ser de, respectivamente, 226 cm e 385 cm.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 22-A/98 - Diário da República n.º 227/1998, 1º Suplemento, Série I-B de 1998-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), em vigor a partir de 1998-10-06"
+  }
+ }
+}

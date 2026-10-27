@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:165228580:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 21/2021/M
+short_title: null
+summary: Recomenda que o Governo da República concretize, através da Navegação Aérea de Portugal, a aquisição e instalação,
+  no Aeroporto Internacional da Madeira - Cristiano Ronaldo, dos equipamentos identificados, em março de 2019, no «Wind Study
+  Group»
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 21/2021/M
+official_date: null
+publication_date: '2021-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2021, Série I de 2021-06-16
+  number: '115'
+  series: I
+  supplement: null
+  pages: 52 - 53
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11500/0005200053.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/21/2021/06/16/m/dre/pt/html
+  oj: null
+  dre: '165228580'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/21-2021-165228580
+  internal: pt:dre:165228580:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/21-2021-165228580
+  metadata_url: https://data.dre.pt/eli/resolalram/21/2021/06/16/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/21-2021-165228580
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 24360a257d7ff06bdaef4af494eac47e8bece842f0ec787cd05612bd8f8d6e6b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Aquisição de Bens e Serviços
+- Aquisição de Equipamento
+- Madeira.região Autónoma
+- NAV Portugal
+- Recomendação
+relationships:
+- type: cites
+  target: pt:dre:116090205:por
+  label: null
+  source: http://data.dre.pt/eli/resolalram/26/2018/08/17/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:53:14Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 21/2021/M
+
+Para que o Governo da República concretize, através da Navegação Aérea de Portugal, a aquisição e instalação, no Aeroporto Internacional da Madeira - Cristiano Ronaldo, dos equipamentos identificados, em março de 2019, no «Wind Study Group»
+
+As condições meteorológicas adversas têm provocado diversos problemas de inoperacionalidade no Aeroporto Internacional da Madeira - Cristiano Ronaldo.
+
+Entre 2000 e 2020, foram afetados 933 774 passageiros. O problema agravou-se a partir de 2015, sendo que, até 2020, essa inoperacionalidade registou-se em quase todos os meses do ano, alcançando mais de 50 % dos passageiros.
+
+Sabe-se que 72,85 % do tempo de inoperacionalidade deve-se a fenómenos de ventos com intensidade e rajada fora dos limites impostos pela ANAC - Autoridade Nacional da Aviação Civil (fenómenos de windshear).
+
+Nas situações em que a intensidade do vento se encontra fora dos limites definidos, os comandantes das aeronaves ficam impedidos de prosseguir para a aproximação, vendo-se obrigados a entrar em espera, divergir para aeroportos alternativos ou regressar à origem.
+
+Por outro lado, 27,15 % do tempo de inoperacionalidade está relacionado com situações de falta de visibilidade, que é requerida para a concretização de uma aproximação visual, sem recurso a instrumentos.
+
+Estes problemas de inoperacionalidade, que afetam a mobilidade dos passageiros, acarretam inúmeros prejuízos diretos e indiretos à economia regional, particularmente para o turismo.
+
+Por essa razão, em 2017, o Governo Regional da Madeira despoletou a criação de um grupo de trabalho, com alcance nacional - o «Wind Study Group» - para análise e discussão desta matéria, cuja coordenação coube à ANAC.
+
+Neste âmbito, para esclarecimento dos meios necessários para dotar o Aeroporto Internacional da Madeira, foi auscultado um conjunto de entidades com conhecimento técnico e competências na área do transporte aéreo, nomeadamente a ANA - Aeroportos de Portugal, a NAV Portugal, E. P. E. - Navegação Aérea de Portugal, o IPMA - Instituto Português do Mar e da Atmosfera, a APPLA - Associação dos Pilotos Portugueses de Linha Aérea, a TAP - Transportadora Aérea Portuguesa, a EasyJet e o LNEC - Laboratório Nacional de Engenharia Civil.
+
+Foram realizadas 11 reuniões ou visitas, entre novembro de 2017 e maio de 2019.
+
+Em abril de 2019, no seio deste grupo de trabalho, a NAV Portugal assumiu o compromisso do lançamento urgente do concurso internacional de aquisição, já em junho desse ano, dos equipamentos identificados pelo IPMA (um LIDAR, um radar de banda X e anemómetros complementares aos já existentes no Aeroporto da Madeira).
+
+Esses equipamentos seriam os mais adequados e permitiriam uma melhoria na aferição da intensidade e direção do vento em diversos pontos da envolvente ao Aeroporto, bem como potenciariam melhorias na operação sob visibilidade reduzida, o que conduziria a uma revisão aos atuais limites impostos à operação e a uma melhoria inequívoca dos índices de operacionalidade.
+
+Até hoje, apesar das diversas diligências permanentes adotadas pelo Executivo Regional, o assunto não evoluiu. O caderno de encargos foi concluído em maio de 2019, mas o concurso não foi lançado.
+
+Mais recentemente, o Despacho n.º 137/2021, do Gabinete do Secretário Adjunto e das Comunicações, publicado a 6 de janeiro de 2021, no Diário da República, comunicou a criação de «um grupo de trabalho para o estudo dos problemas da operação aérea no arquipélago da Madeira», «tendo em vista a proposta de soluções para os mesmos».
+
+Este grupo contemplaria, além da Secretaria Regional do Turismo e Cultura, o Ministério das Infraestruturas e da Habitação, a Secretaria de Estado Adjunta e das Comunicações, a NAV Portugal, a ANAC, a Câmara Municipal de Santa Cruz e a Câmara Municipal do Porto Santo.
+
+A sua primeira reunião teve lugar a 24 de fevereiro de 2021.
+
+Acontece que os objetivos que servem de base à criação deste último grupo de trabalho, promovido pelo Gabinete do Secretário de Estado Adjunto e das Comunicações, nomeadamente «a) Identificar os principais constrangimentos da operação aeroportuária no arquipélago da Madeira, relacionados com os ventos e a implicação que têm na operação aeroportuária»; e «b) Identificar possíveis soluções, técnica e economicamente viáveis [...]», já foram respondidos com o trabalho do «Wind Study Group».
+
+Também em 2018, decorriam os trabalhos do «Wind Study Group», o Grupo Parlamentar do Partido Social Democrata apresentou, nesta mesma Assembleia, uma recomendação ao, então, Ministro do Planeamento e das Infraestruturas e ao Presidente do Conselho de Administração da ANAC (que deu origem à Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º [26/2018/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/26-2018-116090205), de 17 de agosto).
+
+O objetivo, devidamente fundamentado, era instar a ANAC a «converter, de imediato, os atuais limites de vento para as operações aéreas no Aeroporto da Madeira - Cristiano Ronaldo de 'obrigatórios/mandatórios', com caráter sancionatório, para 'recomendações/alertas', por conseguinte, proceder à eliminação da referência no AIP Portugal: 'Compliance with operating limitations is mandatory'; e 'decidir, no prazo de um ano, sobre a revisão dos limites de vento para as operações aéreas no Aeroporto da Madeira - Cristiano Ronaldo'».
+
+Também a esta diligência nenhuma resposta foi dada.
+
+Hoje, mais do que nunca, urge proceder à aquisição e instalação dos equipamentos, nos termos do que havia sido concluído em abril de 2019, por ser essa, objetivamente, a solução que permitirá, à Região Autónoma da Madeira, ultrapassar os constrangimentos operacionais que se verificam, quase todos os meses, no Aeroporto Internacional da Madeira.
+
+O assunto foi já profundamente analisado e debatido por entidades com conhecimento técnico e competências na área do transporte aéreo, pelo que um novo grupo de trabalho apenas adia soluções que prejudicam a operacionalidade do Aeroporto, a mobilidade dos cidadãos e, consequentemente, a economia regional.
+
+Aliás, a manifesta urgência e interesse na aquisição dos referidos equipamentos ganha particular enfâse nesta fase de crise pandémica.
+
+Aquilo que se impõe é, por isso, que o Estado, através da NAV Portugal, E. P. E., concretize e operacionalize o investimento já referenciado, dotando esta entidade do orçamento necessário para aquele efeito e que não prejudique, uma vez mais, a Região Autónoma da Madeira.
+
+Pelo exposto, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, instar o Governo da República a concretizar, através da NAV Portugal, E. P. E., a aquisição e instalação, no Aeroporto Internacional da Madeira - Cristiano Ronaldo, dos equipamentos identificados, em março de 2019, no seio do grupo de trabalho «Wind Study Group».
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de abril de 2021.
+
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+114302659

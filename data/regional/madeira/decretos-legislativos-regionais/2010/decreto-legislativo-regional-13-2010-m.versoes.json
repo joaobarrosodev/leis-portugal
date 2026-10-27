@@ -1,0 +1,1291 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:333368:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166158763",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2010-333368",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "166150653",
+    "166158863",
+    "166158864",
+    "166158865",
+    "166158866",
+    "166158867",
+    "166158868",
+    "166158869",
+    "166158870",
+    "166158871",
+    "166158872",
+    "166158873",
+    "166158874",
+    "166157375",
+    "166157376",
+    "166157377",
+    "166157378",
+    "166157379",
+    "166157380",
+    "166157381",
+    "166157382",
+    "166157383",
+    "166157384",
+    "166157385",
+    "166157386",
+    "166157387",
+    "166157388",
+    "166157389",
+    "166157390",
+    "166157391",
+    "166157392",
+    "166157393",
+    "166157394",
+    "166157395",
+    "166157396",
+    "166157397",
+    "166157398",
+    "166157399",
+    "166157400",
+    "166157401",
+    "166157402",
+    "166157403",
+    "166157404",
+    "166157405",
+    "166157406",
+    "166157407",
+    "166157408",
+    "166157409",
+    "166157410",
+    "166157411",
+    "166157412",
+    "166157413",
+    "166157414",
+    "166157415",
+    "166157416",
+    "166157417",
+    "166157418"
+   ]
+  },
+  {
+   "date": "2011-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485631:por",
+     "title": "Decreto Legislativo Regional n.º 2/2011/M",
+     "published": "2011-01-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2011-485631"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "166158862",
+    "166158863",
+    "166158864",
+    "166158865",
+    "166158866",
+    "166158867",
+    "166158868",
+    "166158869",
+    "166158870",
+    "166158871",
+    "166150651",
+    "166158873",
+    "166158874",
+    "166157375",
+    "166157376",
+    "166157377",
+    "166157378",
+    "166157379",
+    "166157380",
+    "166157381",
+    "166157382",
+    "166157383",
+    "166150652",
+    "166157385",
+    "166157386",
+    "166157387",
+    "166157388",
+    "166157389",
+    "166157390",
+    "166157391",
+    "166157392",
+    "166157393",
+    "166157394",
+    "166157395",
+    "166157396",
+    "166157397",
+    "166157398",
+    "166157399",
+    "166157400",
+    "166157401",
+    "166157402",
+    "166157403",
+    "166157404",
+    "166157405",
+    "166157406",
+    "166157407",
+    "166157408",
+    "166157409",
+    "166157410",
+    "166157411",
+    "166157412",
+    "166157413",
+    "166157414",
+    "166157415",
+    "166157416",
+    "166157417",
+    "166157418",
+    "166157419"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:166099800:por",
+     "title": "Decreto Legislativo Regional n.º 15/2021/M",
+     "published": "2021-06-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2021-166099800"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "166150653",
+    "166150654",
+    "166150655",
+    "166150656",
+    "166150657",
+    "166150658",
+    "166150659",
+    "166150660",
+    "166150661",
+    "166150662",
+    "166150663",
+    "166150664",
+    "166150665",
+    "166150666",
+    "166150667",
+    "166150668",
+    "166150669",
+    "166150670",
+    "166150671",
+    "166150672",
+    "166150673",
+    "166150674",
+    "166159775",
+    "166159776",
+    "166159777",
+    "166159778",
+    "166159779",
+    "166159780",
+    "166159781",
+    "166159782",
+    "166159783",
+    "166159784",
+    "166159785",
+    "166159786",
+    "166159787",
+    "166159788",
+    "166159789",
+    "166159790",
+    "166159791",
+    "166159792",
+    "166159793",
+    "166159794",
+    "166159795",
+    "166159796",
+    "166159797",
+    "166159798",
+    "166159799",
+    "166159800",
+    "166159801",
+    "166159802",
+    "166159803",
+    "166159804",
+    "166159805",
+    "166159806",
+    "166159807",
+    "166159808",
+    "166159809",
+    "166159810"
+   ]
+  }
+ ],
+ "fragments": {
+  "166150653": {
+   "fragment_id": "166158764",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-01",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 13/2010/M\n\nEstabelece o regime jurídico do sector empresarial da Região Autónoma da Madeira\n\nO Decreto-Lei n.º 300/2007, de 23 de Agosto, veio, após quase oito anos de vigência do Decreto-Lei n.º 558/99, de 17 de Dezembro, proceder a alterações ao regime jurídico do sector empresarial do Estado, tendo em conta a experiência colhida na respectiva aplicação prática e a necessidade de assegurar a harmonia entre este regime e o novo estatuto do gestor público, entretanto aprovado pelo Decreto-Lei n.º 71/2007, de 27 de Março.\n\nNo artigo 5.º deste diploma prevê-se que, para além do Estado, apenas dispõem de sectores empresariais próprios as Regiões Autónomas, os municípios e as suas associações nos termos de legislação especial, relativamente à qual o Decreto-Lei n.º 558/99, de 17 de Dezembro, tem natureza supletiva.\n\nEncontram-se assim reunidas as condições para, pela primeira vez, criar o regime jurídico do sector empresarial da Região Autónoma da Madeira, estabelecendo-se em diploma próprio e de acordo com as directrizes estabelecidas a nível nacional para este sector, um regime jurídico que tenha em conta a diversidade económica e social desta Região, assim como a sua reduzida dimensão, por forma a melhor prover as suas necessidades nesta matéria, potenciando-se o desenvolvimento económico regional.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta ao abrigo da alínea c) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa, da alínea e) do n.º 1 do artigo 37.º e da alínea c) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pela Lei n.º 130/99, de 21 de Agosto, e pela Lei n.º 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "166158863": {
+   "fragment_id": "166158765",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "166158864": {
+   "fragment_id": "166158766",
+   "type": 8,
+   "heading": "Secção I — Sector empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Sector empresarial da Região Autónoma da Madeira"
+  },
+  "166158865": {
+   "fragment_id": "166158767",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma tem por objecto estabelecer o regime do sector empresarial da Região Autónoma da Madeira, adiante abreviadamente designado apenas por SERAM, com respeito pelas bases gerais do estatuto das empresas públicas do Estado previsto no Decreto-Lei n.º 558/99, de 17 de Dezembro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 300/2007, de 23 de Agosto.\n\n2 - O regime previsto no presente diploma aplica-se ainda às empresas detidas ou participadas, directa ou indirectamente, por quaisquer entidades públicas regionais."
+  },
+  "166158866": {
+   "fragment_id": "166158768",
+   "type": 11,
+   "heading": "Artigo 2.º — Sector empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sector empresarial da Região Autónoma da Madeira\n\nO SERAM integra as empresas públicas regionais, nos termos do artigo 3.º, e as empresas participadas da Região, nos termos do artigo 4.º do presente diploma."
+  },
+  "166158867": {
+   "fragment_id": "166158769",
+   "type": 11,
+   "heading": "Artigo 3.º — Empresas públicas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Empresas públicas regionais\n\n1 - Consideram-se empresas públicas regionais, as sociedades constituídas nos termos da lei comercial, nas quais a Região ou outras entidades públicas regionais possam exercer, isolada ou conjuntamente, de forma directa ou indirecta, uma influência dominante em virtude de alguma das seguintes circunstâncias:\n\na) Detenção da maioria do capital ou dos direitos de voto;\n\nb) Direito de designar ou de destituir a maioria dos membros dos órgãos de administração ou de fiscalização.\n\n2 - São também empresas públicas regionais, as entidades públicas empresariais da Região Autónoma da Madeira reguladas no capítulo iii, do presente diploma."
+  },
+  "166158868": {
+   "fragment_id": "166158770",
+   "type": 11,
+   "heading": "Artigo 4.º — Empresas participadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Empresas participadas\n\n1 - Empresas participadas são as organizações empresariais que tenham uma participação permanente da Região ou de quaisquer outras entidades públicas regionais, de carácter administrativo ou empresarial, por forma directa ou indirecta, desde que o conjunto das participações públicas regionais não origine qualquer situação prevista no n.º 1 do artigo 3.º\n\n2 - Consideram-se participações permanentes as que não tenham objectivos exclusivamente financeiros, sem qualquer intenção de influenciar a orientação ou a gestão da empresa por parte das entidades participantes, desde que a respectiva titularidade atinja a duração, contínua ou interpolada, superior a um ano.\n\n3 - Presume-se a natureza permanente das participações sociais representativas de mais de 10 % do capital social da entidade participada, com excepção daquelas que sejam detidas por empresas do sector financeiro."
+  },
+  "166158869": {
+   "fragment_id": "166158771",
+   "type": 11,
+   "heading": "Artigo 5.º — Missão das empresas do sector empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Missão das empresas do sector empresarial da Região Autónoma da Madeira\n\nA actividade das empresas do SERAM deve orientar-se no sentido da obtenção de níveis adequados de satisfação das necessidades da colectividade e desenvolver-se segundo parâmetros exigentes de qualidade, economia, eficiência e eficácia, contribuindo para o equilíbrio económico e financeiro do conjunto do sector público regional."
+  },
+  "166158870": {
+   "fragment_id": "166158772",
+   "type": 11,
+   "heading": "Artigo 6.º — Enquadramento das empresas participadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Enquadramento das empresas participadas\n\n1 - Sem prejuízo das autonomias atribuídas às entidades públicas, de carácter administrativo ou empresarial, detentoras de participações, ou reconhecidas às Regiões Autónomas, ao Estado, aos municípios e às suas associações, uma empresa participada por diversas entidades públicas integra-se no sector empresarial da entidade que, no conjunto das participações do sector público, seja titular da maior participação relativa.\n\n2 - Sem prejuízo do disposto no número seguinte, a integração das empresas participadas no SERAM aplica-se apenas à respectiva participação pública regional, designadamente no que se refere ao registo e controlo e ao exercício dos direitos de titular do capital cujo conteúdo deve levar em consideração os princípios decorrentes do presente decreto legislativo regional e demais legislação aplicável.\n\n3 - Os membros dos órgãos de gestão e administração das empresas participadas designados ou propostos pela Região, directamente ou através das sociedades a que se refere o n.º 3 do artigo 10.º ficam sujeitos ao regime jurídico aplicável aos gestores públicos, nos termos do estatuto do gestor público das empresas públicas da Região Autónoma da Madeira."
+  },
+  "166158871": {
+   "fragment_id": "166158773",
+   "type": 8,
+   "heading": "Secção II — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direito aplicável"
+  },
+  "166158872": {
+   "fragment_id": "166158774",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime jurídico geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime jurídico geral\n\n1 - As empresas públicas regionais regem-se pelo presente diploma, pelos seus diplomas de criação, respectivos estatutos e pelas normas aplicáveis às sociedades comerciais.\n\n2 - As empresas públicas regionais estão sujeitas a tributação directa e indirecta, nos termos gerais.\n\n3 - Sem prejuízo do previsto no presente diploma, as empresas participadas estão sujeitas ao regime jurídico comercial, laboral e fiscal, ou de outra natureza, aplicável às empresas cujo capital e controlo é exclusivamente privado."
+  },
+  "166158873": {
+   "fragment_id": "166157275",
+   "type": 11,
+   "heading": "Artigo 8.º — Sujeição às regras da concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sujeição às regras da concorrência\n\n1 - As empresas públicas regionais estão sujeitas às regras gerais de concorrência, nacionais e comunitárias.\n\n2 - Das relações entre empresas públicas regionais e a Região ou outros entes públicos não poderão resultar situações que, sob qualquer forma, sejam susceptíveis de impedir, falsear ou restringir a concorrência no todo ou em parte do território nacional.\n\n3 - As empresas públicas regionais regem-se pelo princípio da transparência financeira e a sua contabilidade deve ser organizada de modo a permitir a identificação de quaisquer fluxos financeiros entre elas e a Região ou outros entes públicos, bem como garantir o cumprimento das exigências nacionais e comunitárias em matéria de concorrência e auxílios públicos."
+  },
+  "166158874": {
+   "fragment_id": "166157276",
+   "type": 11,
+   "heading": "Artigo 9.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogações\n\nO disposto nos n.os 1 e 2 do artigo anterior não prejudica regimes derrogatórios especiais, devidamente justificados, sempre que a aplicação das normas gerais de concorrência seja susceptível de frustrar, de direito ou de facto, as missões confiadas às empresas públicas regionais incumbidas da gestão de serviços de interesse económico geral ou que apoiem a gestão do património da Região Autónoma da Madeira."
+  },
+  "166157375": {
+   "fragment_id": "166157277",
+   "type": 8,
+   "heading": "Secção III — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Outras disposições"
+  },
+  "166157376": {
+   "fragment_id": "166157278",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos de titular do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direitos de titular do capital\n\n1 - Os direitos da Região Autónoma da Madeira como titular do capital são exercidos por um ou mais representantes designados por resolução do Conselho do Governo Regional mediante proposta do membro do Governo Regional responsável pelo respectivo sector de actividade.\n\n2 - Os direitos de outras entidades públicas regionais como titulares do capital são exercidos pelos órgãos de gestão e administração respectivos, com respeito pelas orientações decorrentes da superintendência e pela tutela que sobre elas sejam exercidas.\n\n3 - Os direitos referidos nos números anteriores poderão ser exercidos indirectamente através de sociedades de capitais exclusivamente públicos.\n\n4 - As entidades responsáveis pelo exercício da função de titular do capital da Região, nos termos do presente artigo, devem estar representadas no órgão de gestão e administração das empresas públicas regionais ou no respectivo órgão de fiscalização."
+  },
+  "166157377": {
+   "fragment_id": "166157279",
+   "type": 11,
+   "heading": "Artigo 11.º — Orientações estratégicas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Orientações estratégicas de gestão\n\n1 - Com vista à definição do exercício da gestão das empresas públicas regionais, são emitidas orientações estratégicas de gestão destinadas à globalidade do sector empresarial da Região Autónoma da Madeira, através de resolução do Conselho do Governo Regional, sob proposta do membro do Governo responsável pela área das finanças.\n\n2 - Com essa finalidade, devem ser emitidas as seguintes orientações:\n\na) Orientações gerais, definidas através de despacho conjunto do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças, destinadas a um conjunto de empresas regionais no mesmo sector de actividade;\n\nb) Orientações específicas, definidas através de despacho conjunto do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças, ou de deliberação da respectiva assembleia geral consoante se trate de entidade pública regional ou de sociedade, respectivamente, definindo as metas e objectivos para uma empresa pública regional individualmente considerada, devendo estas ser revistas, pelo menos com referência ao período do mandato do órgão de gestão conforme fixado nos respectivos estatutos;\n\nc) Orientações sobre remunerações e benefícios dos gestores públicos, definidas através de resolução do Conselho do Governo Regional.\n\n3 - As orientações previstas nos números anteriores reflectem-se nas deliberações a tomar em assembleia geral pelos representantes públicos ou, tratando-se de entidades públicas empresariais regionais, na preparação e aprovação dos respectivos planos estratégicos plurianuais, bem como nos contratos de gestão a celebrar com os gestores públicos, nos termos do estatuto do gestor público das empresas públicas da Região Autónoma da Madeira.\n\n4 - As orientações estratégicas gerais e específicas podem envolver metas quantificadas e contemplar a celebração de contratos entre a Região e as empresas públicas regionais.\n\n5 - Compete ao membro do Governo Regional responsável pelo sector e ao membro do Governo Regional responsável pela área das finanças, que podem delegar, directamente ou através das sociedades previstas no n.º 3 do artigo anterior, a verificação do cumprimento das orientações previstas nos n.os 1 e 2 do presente artigo, assim como emitir recomendações para a sua prossecução.\n\n6 - O disposto nos números anteriores não prejudica a especificação nos estatutos das empresas públicas regionais, de outros poderes de tutela ou de superintendência."
+  },
+  "166157378": {
+   "fragment_id": "166157280",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo financeiro\n\n1 - As empresas públicas regionais estão sujeitas a controlo financeiro que compreende, designadamente, a análise da sustentabilidade e a avaliação da legalidade, economia, eficiência e eficácia da sua gestão.\n\n2 - Sem prejuízo das competências atribuídas pela lei ao Tribunal de Contas, o controlo financeiro das empresas públicas regionais compete à Inspecção Regional de Finanças.\n\n3 - As empresas públicas regionais adoptarão procedimentos de controlo interno adequados a garantir a fiabilidade das contas e demais informação financeira, bem como a articulação com as entidades referidas no número anterior."
+  },
+  "166157379": {
+   "fragment_id": "166157281",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres especiais de informação e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres especiais de informação e controlo\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos titulares do capital, devem as empresas públicas regionais facultar ao membro do Governo Regional responsável pelo sector e ao membro do Governo Regional responsável pela área das finanças, directamente ou através de sociedades previstas no n.º 3 do artigo 10.º, os seguintes elementos, visando o seu acompanhamento e controlo:\n\na) Projectos dos planos de actividades anuais e plurianuais;\n\nb) Projectos dos orçamentos anuais, incluindo estimativa das operações financeiras com a Região e com outras entidades públicas;\n\nc) Planos de investimento anuais e plurianuais e respectivas fontes de financiamento;\n\nd) Documentos de prestação anual de contas;\n\ne) Relatórios trimestrais de execução orçamental, acompanhados dos relatórios do órgão de fiscalização, sempre que exigíveis;\n\nf) Cópias das actas da assembleia geral;\n\ng) Quaisquer outras informações e documentos solicitados para o acompanhamento da situação da empresa e da sua actividade, com vista, designadamente, a assegurar a boa gestão dos fundos públicos e a evolução da sua situação económico-financeira.\n\n2 - O endividamento ou assunção de responsabilidades de natureza similar fora do Balanço, a curto, médio ou longo prazo, não aprovados nos respectivos orçamentos ou planos de investimento, estão sujeitos a autorização expressa do membro do governo regional responsável pelo sector e do membro do governo regional responsável pela área das finanças ou da assembleia geral, consoante se trate de Entidade Pública Empresarial da Região Autónoma da Madeira ou de sociedade comercial, respectivamente, tendo por base proposta do órgão de gestão e administração da respectiva empresa pública regional.\n\n3 - As informações abrangidas pelo n.º 1 são prestadas pelas empresas públicas regionais nas condições e prazos que forem estabelecidas por despacho conjunto do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças, sem prejuízo de serem prestadas sempre que solicitadas.\n\n4 - As empresas públicas regionais indirectamente participadas, designadamente através de sociedades de capitais exclusivamente públicos a que se refere o n.º 3 do artigo 10.º deste diploma, remetem através destas as informações abrangidas pelo n.º 1 do presente artigo."
+  },
+  "166157380": {
+   "fragment_id": "166157282",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Relatórios\n\nOs relatórios anuais das empresas públicas regionais, além dos elementos que caracterizam as respectivas situações económicas e financeiras, contêm:\n\na) As orientações de gestão fixadas ao abrigo do artigo 11.º que sejam aplicadas à empresa em causa;\n\nb) A estrutura e composição dos órgãos sociais;\n\nc) A identidade, os principais elementos curriculares e as funções exercidas por cada um dos membros do órgão de gestão e administração;\n\nd) Quando for caso disso, as funções exercidas por qualquer membro dos órgãos de gestão e administração noutra empresa;\n\ne) Informação sobre o modo e as condições de cumprimento, em cada exercício, de funções relacionadas com a gestão de serviços de interesse geral, sempre que esta se encontre cometida a determinadas empresas, nos termos dos artigos 29.º a 31.º;\n\nf) Informação sobre o efectivo exercício de poderes de autoridade por parte de empresas que sejam titulares desse tipo de poderes, nos termos previstos no artigo 16.º;\n\ng) A indicação do número de reuniões do órgão de gestão e administração com referência sucinta às decisões mais relevantes adoptadas pelo conselho de administração no exercício em causa;\n\nh) Os montantes das remunerações dos membros do órgão de gestão e administração e o modo como são determinados, incluindo todos os complementos remuneratórios de qualquer espécie, os regimes de previdência e eventuais planos complementares de reforma de que esses beneficiem, bem como o custo total dos encargos respeitantes a cada membro para a empresa em cada exercício;\n\ni) Os relatórios de auditoria externa, com indicação das pessoas e das entidades responsáveis."
+  },
+  "166157381": {
+   "fragment_id": "166157283",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigação de informação\n\nO órgão de gestão e administração das empresas públicas regionais dá a conhecer, até 60 dias após a eleição ou nomeação dos órgãos sociais da empresa, em aviso a publicar no Jornal Oficial da Região Autónoma da Madeira, as seguintes informações, sem prejuízo de, por despacho do membro do Governo Regional com a tutela das Finanças, determinar as condições da sua divulgação complementar:\n\na) A estrutura e composição dos órgãos sociais da empresa;\n\nb) Os principais elementos curriculares e as qualificações dos membros do órgão de gestão e administração das empresas;\n\nc) Quando seja o caso, os cargos ocupados pelos membros do órgão de gestão e administração noutras empresas;\n\nd) As remunerações totais, variáveis e fixas auferidas anualmente por cada um dos membros dos órgãos de gestão, bem como as remunerações auferidas por cada membro do órgão de fiscalização;\n\ne) Outros elementos que sejam fixados em resolução do Conselho de Governo Regional."
+  },
+  "166157382": {
+   "fragment_id": "166157284",
+   "type": 11,
+   "heading": "Artigo 16.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Poderes de autoridade\n\n1 - Poderão as empresas públicas regionais exercer poderes e prerrogativas de autoridade de que goza a Região, designadamente quanto a:\n\na) Expropriação por utilidade pública;\n\nb) Utilização, protecção e gestão das infra-estruturas afectas ao serviço público;\n\nc) Licenciamento e concessão, nos termos da legislação aplicável à utilização do domínio público, da ocupação ou do exercício de qualquer actividade nos terrenos, edificações e outras infra-estruturas que lhe estejam afectas.\n\n2 - Os poderes especiais serão atribuídos por diploma legal, em situações excepcionais e na medida do estritamente necessário à prossecução do interesse público, ou constarão de contrato de concessão."
+  },
+  "166157383": {
+   "fragment_id": "166157285",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestores públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestores públicos\n\nOs membros dos órgãos de gestão e administração das empresas públicas regionais, independentemente da respectiva forma jurídica, ficam sujeitos ao estatuto do gestor público das empresas públicas da Região Autónoma da Madeira."
+  },
+  "166157384": {
+   "fragment_id": "166157286",
+   "type": 11,
+   "heading": "Artigo 18.º — Estatuto do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estatuto do pessoal\n\n1 - O estatuto do pessoal das empresas públicas regionais é o do regime do contrato individual de trabalho.\n\n2 - A matéria relativa à contratação colectiva rege-se pela lei geral."
+  },
+  "166157385": {
+   "fragment_id": "166157287",
+   "type": 11,
+   "heading": "Artigo 19.º — Mobilidade do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mobilidade do pessoal\n\n1 - Podem exercer funções nas empresas públicas regionais, mediante acordo de cedência ou comissão de serviço, respectivamente os trabalhadores da administração regional, do Estado, dos institutos públicos e das autarquias locais, e os trabalhadores de quaisquer empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da cedência ou da comissão, como serviço prestado nesse quadro.\n\n2 - Os trabalhadores das empresas públicas regionais podem exercer, através de acordo de cedência funções na administração regional, institutos públicos regionais, autarquias locais, mantendo todos os direitos inerentes ao seu estatuto profissional na empresa de origem, considerando-se todo o período de cedência prestado na empresa de origem.\n\n3 - Os trabalhadores cedidos ou em comissão de serviço, nos termos dos números anteriores, poderão optar pelo vencimento correspondente ao seu quadro de origem ou pelo correspondente às funções que vão desempenhar.\n\n4 - O vencimento e demais encargos dos trabalhadores cedidos ou em comissão de serviço serão da responsabilidade da entidade onde se encontrem a exercer funções.\n\n5 - À cedência referida nos números anteriores é ainda aplicável o disposto no regime de mobilidade em vigor na Administração Regional da Região Autónoma da Madeira.\n\n6 - O disposto nos n.os 1 e 2 do presente artigo não prejudica a aplicação de outros instrumentos de mobilidade previstos em lei especial."
+  },
+  "166157386": {
+   "fragment_id": "166157288",
+   "type": 11,
+   "heading": "Artigo 20.º — Tribunais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Tribunais competentes\n\n1 - Para efeitos de determinação da competência para julgamento dos litígios, incluindo recursos contenciosos, respeitantes a actos praticados e a contratos celebrados no exercício dos poderes de autoridade a que se refere o artigo 16.º, serão as empresas públicas regionais equiparadas a entidades administrativas.\n\n2 - Nos demais litígios seguem-se as regras gerais de determinação da competência material dos tribunais."
+  },
+  "166157387": {
+   "fragment_id": "166157289",
+   "type": 8,
+   "heading": "Secção IV — Estruturas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Estruturas de gestão"
+  },
+  "166157388": {
+   "fragment_id": "166157290",
+   "type": 11,
+   "heading": "Artigo 21.º — Estruturas dos órgãos sociais das empresas públicas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estruturas dos órgãos sociais das empresas públicas regionais\n\nSem prejuízo da adopção das estruturas de gestão previstas no Código das Sociedades Comerciais, pode ser determinada por resolução do Conselho do Governo Regional mediante proposta do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças a adopção de estruturas de órgãos sociais para as empresas públicas regionais de acordo com a sua dimensão e complexidade da respectiva gestão."
+  },
+  "166157389": {
+   "fragment_id": "166157291",
+   "type": 11,
+   "heading": "Artigo 22.º — Membros dos órgãos de gestão e administração executivos e não executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Membros dos órgãos de gestão e administração executivos e não executivos\n\n1 - O órgão de gestão e administração das empresas públicas regionais deve compreender gestores executivos e não executivos, sempre em número impar.\n\n2 - O órgão de gestão e administração pode constituir em comissão executiva os gestores executivos, ou quando existir apenas um, constitui-lo como gestor executivo único.\n\n3 - O órgão de gestão e administração pode integrar exclusivamente administradores executivos, podendo ser, nesse caso, a sua actividade acompanhada por um conselho ou um órgão de supervisão.\n\n4 - Compete aos gestores executivos constituídos ou não em comissão assegurar a gestão quotidiana da empresa, bem como exercer as funções que o órgão de gestão e administração neles delegue.\n\n5 - Aos gestores não executivos ou alguns dentro de eles podem ser atribuídas funções específicas de controlo e fiscalização, nomeadamente através da criação nos termos do artigo seguinte de uma comissão de avaliação por eles constituída."
+  },
+  "166157390": {
+   "fragment_id": "166157292",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissões executivas, de auditoria e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comissões executivas, de auditoria e de avaliação\n\nCaso a dimensão e a complexidade da gestão da empresa pública regional o justifique, poderão ser criadas por resolução do Conselho do Governo Regional, nos termos do artigo 21.º, comissões executivas, de auditoria, de avaliação e de supervisão para integrarem as respectivas estruturas de gestão e administração, as quais se regerão nos termos previstos nos artigos 18.º-C a 18.º-G do Decreto-Lei n.º 558/99, de 17 de Dezembro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 300/2007, de 23 de Agosto."
+  },
+  "166157391": {
+   "fragment_id": "166157293",
+   "type": 11,
+   "heading": "Artigo 24.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Assembleia geral\n\nA mesa da assembleia geral das empresas públicas regionais deve ser composta por um presidente e um ou mais vogais e por um secretário."
+  },
+  "166157392": {
+   "fragment_id": "166157294",
+   "type": 11,
+   "heading": "Artigo 25.º — Órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Órgão de fiscalização\n\nO órgão de fiscalização das empresas públicas regionais poderá constituir-se em conselho fiscal, composto por um presidente e vogais, sempre em número impar, devendo um deles ser um revisor oficial de contas ou em alternativa por um fiscal único, nos termos do Código das Sociedades Comerciais."
+  },
+  "166157393": {
+   "fragment_id": "166157295",
+   "type": 11,
+   "heading": "Artigo 26.º — Representante da Região nas assembleias gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Representante da Região nas assembleias gerais\n\n1 - Compete ao representante da Região nas assembleias gerais das empresas públicas regionais zelar e assegurar que as orientações estratégicas são executadas de forma racionalmente económica.\n\n2 - O representante da Região é o elo privilegiado de comunicação entre as empresas públicas regionais sob a forma comercial e o Governo Regional, sem prejuízo de qualquer dos membros do Governo criar estruturas próprias de supervisão e avaliação da actividade das empresas do respectivo sector."
+  },
+  "166157394": {
+   "fragment_id": "166157296",
+   "type": 11,
+   "heading": "Artigo 27.º — Auditoria externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Auditoria externa\n\n1 - Sem prejuízo do disposto no Código das Sociedades Comerciais, a contratação de auditorias externas, pode ser determinada pelo membro do Governo Regional responsável pelo sector e pelo membro do Governo Regional responsável pela área das finanças.\n\n2 - Compete ao órgão de gestão e administração promover a contratação de auditores externos submetendo-a à aprovação da assembleia geral ou aos membros do Governo Regional com tutela sobre a empresa, consoante se trate de empresas sob a forma comercial ou entidade pública empresarial da Região Autónoma da Madeira, respectivamente."
+  },
+  "166157395": {
+   "fragment_id": "166157297",
+   "type": 11,
+   "heading": "Artigo 28.º — Dissolução dos órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Dissolução dos órgãos sociais\n\n1 - Os órgãos sociais das empresas públicas regionais podem ser dissolvidos em caso de:\n\na) Grave violação, por acção ou omissão, da lei ou dos estatutos da empresa;\n\nb) Não observância, nos orçamentos de exploração e investimento, dos objectivos fixados pela entidade de controlo ou pela tutela;\n\nc) Desvio substancial entre os orçamentos e a respectiva execução;\n\nd) Grave deterioração dos resultados do exercício ou da situação patrimonial, quando não provocada por razões alheias ao exercício das funções pelos gestores.\n\n2 - A dissolução compete aos órgãos de eleição ou de nomeação dos gestores públicos, e requer a audiência prévia, pelo menos, do presidente do órgão, devendo ser devidamente fundamentada.\n\n3 - A dissolução implica a cessação do mandato de todos os membros do órgão dissolvido, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções.\n\n4 - O conselho de administração, a comissão executiva, o conselho de administração executivo ou o conselho de supervisão podem ser livremente dissolvidos, ou o gestor público livremente demitido, conforme os casos, independentemente dos fundamentos constantes nos números anteriores."
+  },
+  "166157396": {
+   "fragment_id": "166157298",
+   "type": 1,
+   "heading": "Capítulo II — Empresas públicas encarregadas da gestão de serviços de interesse económico geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Empresas públicas encarregadas da gestão de serviços de interesse económico geral"
+  },
+  "166157397": {
+   "fragment_id": "166157299",
+   "type": 11,
+   "heading": "Artigo 29.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Noção\n\n1 - Para efeitos do presente diploma, são consideradas empresas encarregadas da gestão de serviços de interesse económico geral aquelas cujas actividades devam assegurar a universalidade e continuidade dos serviços prestados, a coesão económica e social local e regional e a protecção dos utentes, sem prejuízo da eficácia económica e do respeito dos princípios de não discriminação e transparência.\n\n2 - Salvo quando a lei dispuser diversamente, os termos em que a gestão é atribuída e exercida constarão de contrato de concessão."
+  },
+  "166157398": {
+   "fragment_id": "166157300",
+   "type": 11,
+   "heading": "Artigo 30.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Princípios orientadores\n\nAs empresas públicas regionais encarregadas da gestão de serviços de interesse económico geral devem prosseguir as missões que lhe estejam confiadas no sentido, consoante os casos, de:\n\na) Prestar os serviços de interesse económico geral à Região e no conjunto do território regional sem discriminação das zonas rurais e do interior;\n\nb) Promover o acesso da generalidade dos cidadãos, em condições financeiras equilibradas, a bens e serviços essenciais, procurando, na medida do possível, que todos os utilizadores tenham direito a tratamento idêntico e neutro, sem quaisquer discriminações, quer quanto ao funcionamento dos serviços, quer quanto a taxas ou contraprestações devidas, a menos que o interesse geral o justifique;\n\nc) Assegurar o cumprimento das exigências de prestação de serviços de carácter universal relativamente a actividades económicas cujo acesso se encontre legalmente vedado a empresas privadas e a outras entidades da mesma natureza;\n\nd) Garantir o fornecimento de serviços ou a gestão de actividades cuja rendibilidade não se encontra assegurada, em especial devido aos investimentos necessários ao desenvolvimento de infra-estruturas ou redes de distribuição ou, ainda, devido à necessidade de realizar actividades comprovadamente deficitárias;\n\ne) Zelar pela eficácia da gestão das redes de serviços públicos, procurando, designadamente, que a produção, o transporte e distribuição, a construção de infra-estruturas e a prestação do conjunto de tais serviços se procedam de forma articulada, tendo em atenção as modificações organizacionais impostas por inovações técnicas ou tecnológicas;\n\nf) Cumprir obrigações específicas, relacionadas com a segurança, com a continuidade e qualidade dos serviços e com a protecção do ambiente, devendo tais obrigações ser claramente definidas, transparentes, não discriminatórias e susceptíveis de controlo."
+  },
+  "166157399": {
+   "fragment_id": "166157301",
+   "type": 11,
+   "heading": "Artigo 31.º — Contratos com a Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Contratos com a Região\n\n1 - Para realização das finalidades previstas no artigo anterior poderá a Região recorrer à celebração de contratos com as empresas públicas regionais encarregadas da gestão de serviços de interesse económico geral, contemplando, designadamente, a atribuição de indemnizações compensatórias na medida do estritamente necessário à prossecução do interesse público.\n\n2 - Estes contratos visarão assegurar a adaptação permanente à evolução das circunstâncias, inclusive técnicas e tecnológicas, e à satisfação das necessidades colectivas, conciliando a eficácia económica dos operadores com a manutenção da coesão social e a luta contra a exclusão.\n\n3 - Os contratos a que se refere o presente artigo, que envolvam a assunção de obrigações ou de compromissos financeiros por parte da Região, deverão revestir a forma de contrato-programa, prever a respectiva quantificação e validação, cabendo aos serviços competentes da Secretaria Regional com a tutela das Finanças a emissão de parecer prévio à sua celebração, bem como o acompanhamento geral da execução das suas cláusulas financeiras.\n\n4 - O regime das indemnizações compensatórias consta de diploma próprio."
+  },
+  "166157400": {
+   "fragment_id": "166157302",
+   "type": 1,
+   "heading": "Capítulo III — Entidades públicas empresariais da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Entidades públicas empresariais da Região Autónoma da Madeira"
+  },
+  "166157401": {
+   "fragment_id": "166157303",
+   "type": 11,
+   "heading": "Artigo 32.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Âmbito de aplicação\n\n1 - A Região Autónoma da Madeira pode constituir pessoas colectivas de direito público, com natureza empresarial, doravante designadas por «Entidades públicas empresariais da Região Autónoma da Madeira», as quais se regem pelas disposições do presente capítulo e, subsidiariamente, pelas restantes normas deste diploma.\n\n2 - O disposto no número anterior é aplicável às entidades públicas empresariais constituídas ao abrigo do Decreto-Lei n.º 558/99, de 17 de Dezembro, existentes à data da entrada em vigor do presente diploma e que possuam sede na Região Autónoma da Madeira, as quais passam a adoptar a designação prevista no final do número anterior."
+  },
+  "166157402": {
+   "fragment_id": "166157304",
+   "type": 11,
+   "heading": "Artigo 33.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Criação\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira são criadas por decreto legislativo regional, o qual aprovará também os respectivos estatutos.\n\n2 - A denominação das entidades públicas empresariais da Região Autónoma da Madeira deve integrar a expressão «Entidade pública empresarial da Região Autónoma da Madeira» ou as iniciais «EPERAM»."
+  },
+  "166157403": {
+   "fragment_id": "166157305",
+   "type": 11,
+   "heading": "Artigo 34.º — Autonomia e capacidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Autonomia e capacidade jurídica\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira são dotadas de autonomia administrativa, financeira e patrimonial, não estando sujeitas às normas da contabilidade pública.\n\n2 - A capacidade jurídica das entidades públicas empresariais da Região Autónoma da Madeira abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto."
+  },
+  "166157404": {
+   "fragment_id": "166157306",
+   "type": 11,
+   "heading": "Artigo 35.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Capital\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira terão um capital, designado «capital estatutário», detido exclusivamente pela Região e destinado a responder às respectivas necessidades permanentes.\n\n2 - O capital estatutário poderá ser aumentado ou reduzido nos termos previstos nos estatutos.\n\n3 - A remuneração do capital estatutário é efectuada de acordo com o regime previsto para a distribuição dos lucros do exercício nas sociedades anónimas."
+  },
+  "166157405": {
+   "fragment_id": "166157307",
+   "type": 11,
+   "heading": "Artigo 36.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Órgãos sociais\n\n1 - A administração e a fiscalização das entidades públicas empresariais da Região Autónoma da Madeira devem estruturar-se segundo as modalidades e com as designações previstas para as sociedades anónimas.\n\n2 - Os órgãos de administração e fiscalização têm as competências genéricas previstas na lei comercial, sem prejuízo do disposto no presente diploma.\n\n3 - Os estatutos podem prever a existência de outros órgãos, deliberativos ou consultivos, definindo, nomeadamente, as respectivas competências, bem como o modo de designação dos respectivos membros.\n\n4 - Os estatutos regularão, com observância das normas legais aplicáveis, a competência e o modo de designação dos membros dos órgãos a que se referem os números anteriores."
+  },
+  "166157406": {
+   "fragment_id": "166157308",
+   "type": 11,
+   "heading": "Artigo 37.º — Registo comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Registo comercial\n\nAs entidades públicas empresariais da Região Autónoma da Madeira estão sujeitas ao registo comercial nos termos gerais, com as adaptações que se revelem necessárias."
+  },
+  "166157407": {
+   "fragment_id": "166157309",
+   "type": 11,
+   "heading": "Artigo 38.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Tutela\n\n1 - A tutela económica e financeira das entidades públicas empresariais da Região Autónoma da Madeira é exercida pelo membro do Governo Regional responsável pelo sector de actividade de cada empresa e pelo membro do Governo Regional responsável pela área das finanças, sem prejuízo do respectivo poder de superintendência.\n\n2 - A tutela abrange:\n\na) A aprovação dos planos estratégicos plurianuais, orçamentos anuais e contas, assim como de dotações para capital, subsídios e indemnizações compensatórias;\n\nb) A homologação de preços ou tarifas a praticar por empresas que explorem serviços de interesse económico geral ou exerçam a respectiva actividade em regime de exclusivo, salvo quando a sua definição competir a outras entidades independentes;\n\nc) Os demais poderes expressamente referidos nos estatutos."
+  },
+  "166157408": {
+   "fragment_id": "166157310",
+   "type": 11,
+   "heading": "Artigo 39.º — Regime especial de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regime especial de gestão\n\n1 - Em circunstâncias excepcionais devidamente justificadas, podem as entidades públicas empresariais da Região Autónoma da Madeira ser sujeitas a um regime especial de gestão, por prazo determinado que não exceda dois anos, em condições fixadas mediante resolução do Conselho do Governo Regional.\n\n2 - A resolução prevista no número anterior determina a cessação automática das funções dos titulares dos órgãos de administração em exercício."
+  },
+  "166157409": {
+   "fragment_id": "166157311",
+   "type": 11,
+   "heading": "Artigo 40.º — Orçamento anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Orçamento anual\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira prepararão para cada ano económico o orçamento anual, o qual deverá ser completado com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controlo de gestão.\n\n2 - As propostas do orçamento anual serão elaborados com respeito pelos pressupostos macroeconómicos, pelas orientações estratégicas de gestão previstas no artigo 11.º e pelas directrizes definidas pelo Governo Regional, bem como, quando for caso disso, por contratos celebrados com a Região, e deverão ser remetidos para aprovação, até 31 de Outubro do ano anterior, ao membro do Governo Regional responsável pelo sector de actividade e ao membro do Governo Regional responsável pela área das finanças.\n\n3 - O orçamento anual deverá ser objecto de aprovação expressa, através de despacho conjunto do membro do Governo Regional responsável pelo sector de actividade e do membro do Governo Regional responsável pela área das finanças, consagrando deste modo a autorização para a realização das actividades e respectivos custos previstos."
+  },
+  "166157410": {
+   "fragment_id": "166157312",
+   "type": 11,
+   "heading": "Artigo 41.º — Prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Prestação de contas\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira devem elaborar, com referência a 31 de Dezembro do ano anterior, os documentos de prestação de contas, remetendo-os à Inspecção Regional de Finanças e à Direcção Regional de Finanças, no prazo em que nas sociedades anónimas se deve proceder à disponibilização daqueles documentos aos titulares do capital.\n\n2 - Os documentos referidos no número anterior são submetidos à apreciação do membro do Governo Regional responsável pelo sector de actividade de cada uma das empresas e do membro do Governo Regional responsável pela área das finanças."
+  },
+  "166157411": {
+   "fragment_id": "166157313",
+   "type": 11,
+   "heading": "Artigo 42.º — Transformação, fusão e cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Transformação, fusão e cisão\n\nA transformação das entidades públicas empresariais da Região Autónoma da Madeira bem como a respectiva fusão ou cisão operam-se, em cada caso, através de decreto legislativo regional e nos termos especiais nele estabelecidos."
+  },
+  "166157412": {
+   "fragment_id": "166157314",
+   "type": 11,
+   "heading": "Artigo 43.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Extinção\n\n1 - Pode ser determinada por decreto legislativo regional a extinção de entidades públicas empresariais da Região Autónoma da Madeira, bem como o subsequente processo de liquidação.\n\n2 - Não são aplicáveis as regras gerais sobre dissolução e liquidação de sociedades, nem as dos processos especiais de recuperação e falência, salvo na medida do expressamente determinado pelo diploma referido no número anterior."
+  },
+  "166157413": {
+   "fragment_id": "166157315",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "166157414": {
+   "fragment_id": "166157316",
+   "type": 11,
+   "heading": "Artigo 44.º — Prevalência de normas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Prevalência de normas\n\nO disposto no presente diploma prevalece sobre os estatutos das entidades públicas regionais nesta data já constituídas, tendo-se por não escritas as normas que com ele se não conformem."
+  },
+  "166157415": {
+   "fragment_id": "166157317",
+   "type": 11,
+   "heading": "Artigo 45.º — Extensão a outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Extensão a outras entidades\n\n1 - Os direitos de titular do capital da Região Autónoma da Madeira a que se refere o presente diploma, nas sociedades em que, mesmo conjuntamente, não detenham influência dominante são exercidos, respectivamente, pela Direcção Regional de Finanças, pelo membro do Governo Regional responsável pelo sector ou pelos órgãos de gestão das entidades titulares.\n\n2 - As sociedades em que a Região exerça uma influência significativa, seja por detenção de acções que representam mais de 10 % do capital social, seja por detenção de direitos especiais de sócio, deverão apresentar na Direcção Regional de Finanças a informação destinada ao titular do capital, nas datas em que a estes deva ser disponibilizada, nos termos da legislação aplicável às sociedades comerciais.\n\n3 - Os direitos referidos nos números anteriores poderão ser exercidos, indirectamente, nos termos previstos no n.º 3 do artigo 10.º\n\n4 - Às empresas privadas encarregadas da gestão de serviços de interesse económico geral, por força de concessão ou da atribuição de direitos especiais ou exclusivos, é aplicável o disposto no capítulo ii do presente diploma.\n\n5 - Podem ser sujeitas ao regime estabelecido no presente diploma, no todo ou em parte, com excepção do constante do seu capítulo iii, as empresas nas quais a Região ou outras entidades públicas disponham de direitos especiais, desde que os respectivos estatutos assim o prevejam."
+  },
+  "166157416": {
+   "fragment_id": "166157318",
+   "type": 11,
+   "heading": "Artigo 46.º — Constituição de sociedade e aquisição ou alienação de partes de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Constituição de sociedade e aquisição ou alienação de partes de capital\n\n1 - Sem prejuízo do disposto em legislação especial, a participação da Região Autónoma da Madeira, bem como das empresas públicas regionais, na constituição de sociedades e na aquisição ou alienação de partes de capital está sujeita a autorização mediante resolução do Conselho do Governo Regional, excepto nas aquisições que decorram de dação em cumprimento, doação, renúncia ou abandono.\n\n2 - Para efeitos do disposto no número anterior, o pedido de autorização deve ser acompanhado por um estudo demonstrativo do interesse e viabilidade da operação pretendida.\n\n3 - O incumprimento do disposto no n.º 1 determina a nulidade do negócio jurídico em causa."
+  },
+  "166157417": {
+   "fragment_id": "166157319",
+   "type": 11,
+   "heading": "Artigo 47.º — Orientações estratégicas e contratos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Orientações estratégicas e contratos de gestão\n\n1 - O disposto nos artigos 12.º a 15.º do presente diploma entra apenas em vigor na data em que forem definidas as orientações estratégicas previstas no respectivo artigo 11.º, as quais deverão sê-lo no prazo de seis meses a contar da entrada em vigor deste decreto legislativo regional.\n\n2 - Simultaneamente à definição das orientações estratégicas referidas no número anterior deverão celebrar-se contratos de gestão envolvendo metas quantificadas, entre os gestores públicos e a Região, sempre que estes forem considerados necessários ou expressamente previstos na resolução do Conselho do Governo Regional, onde são definidas as orientações estratégicas específicas."
+  },
+  "166157418": {
+   "fragment_id": "166157320",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 60 dias após a sua publicação."
+  },
+  "166158862": {
+   "fragment_id": "166158764",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 13/2010/M\n\nEstabelece o regime jurídico do sector empresarial da Região Autónoma da Madeira\n\nO Decreto-Lei n.º 300/2007, de 23 de Agosto, veio, após quase oito anos de vigência do Decreto-Lei n.º 558/99, de 17 de Dezembro, proceder a alterações ao regime jurídico do sector empresarial do Estado, tendo em conta a experiência colhida na respectiva aplicação prática e a necessidade de assegurar a harmonia entre este regime e o novo estatuto do gestor público, entretanto aprovado pelo Decreto-Lei n.º 71/2007, de 27 de Março.\n\nNo artigo 5.º deste diploma prevê-se que, para além do Estado, apenas dispõem de sectores empresariais próprios as Regiões Autónomas, os municípios e as suas associações nos termos de legislação especial, relativamente à qual o Decreto-Lei n.º 558/99, de 17 de Dezembro, tem natureza supletiva.\n\nEncontram-se assim reunidas as condições para, pela primeira vez, criar o regime jurídico do sector empresarial da Região Autónoma da Madeira, estabelecendo-se em diploma próprio e de acordo com as directrizes estabelecidas a nível nacional para este sector, um regime jurídico que tenha em conta a diversidade económica e social desta Região, assim como a sua reduzida dimensão, por forma a melhor prover as suas necessidades nesta matéria, potenciando-se o desenvolvimento económico regional.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta ao abrigo da alínea c) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa, da alínea e) do n.º 1 do artigo 37.º e da alínea c) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pela Lei n.º 130/99, de 21 de Agosto, e pela Lei n.º 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "166150651": {
+   "fragment_id": "166158774",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime jurídico geral",
+   "in_force_from": "2011-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regime jurídico geral\n\n1 - As empresas públicas regionais regem-se pelo presente diploma, pelos seus diplomas de criação, respectivos estatutos e pelas normas aplicáveis às sociedades comerciais.\n\n2 - As empresas públicas regionais estão sujeitas a tributação directa e indirecta, nos termos gerais.\n\n3 - As empresas participadas estão plenamente sujeitas ao regime jurídico comercial, laboral ou de outra natureza, aplicável às empresas cujo capital é exclusivamente privado.\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+  },
+  "166150652": {
+   "fragment_id": "166157286",
+   "type": 11,
+   "heading": "Artigo 18.º — Estatuto do pessoal",
+   "in_force_from": "2011-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Estatuto do pessoal\n\n1 - O estatuto do pessoal das empresas públicas regionais é o do regime do contrato individual de trabalho, salvo o disposto no número seguinte.\n\n2 - É aplicável aos trabalhadores das entidades públicas empresariais e empresas públicas de capital exclusiva e maioritariamente público do SERAM o regime previsto para os trabalhadores em funções públicas do subsídio de refeição, do abono de ajudas de custo e transporte por deslocações em território português e ao estrangeiro, da remuneração do trabalho suplementar e do trabalho nocturno.\n\n3 - O disposto no número anterior tem natureza imperativa, prevalecendo sobre quaisquer outras normas, especiais ou excepcionais, em contrário e sobre instrumentos de regulamentação colectiva de trabalho, com excepção das disposições sobre trabalho suplementar e nocturno, constantes de legislação especial e de instrumentos de regulamentação colectiva de trabalho aplicáveis aos profissionais de saúde, não podendo ser afastado ou modificado pelos mesmos.\n\n4 - Sem prejuízo do disposto nos n.os 2 e 3, a matéria relativa à contratação colectiva rege-se pela lei geral.\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+  },
+  "166157419": {
+   "fragment_id": "166157321",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de Junho de 2010.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 28 de Julho de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "166150654": {
+   "fragment_id": "166158765",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150655": {
+   "fragment_id": "166158766",
+   "type": 8,
+   "heading": "Secção I — Sector empresarial da Região Autónoma da Madeira",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção I — Sector empresarial da Região Autónoma da Madeira\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150656": {
+   "fragment_id": "166158767",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma tem por objecto estabelecer o regime do sector empresarial da Região Autónoma da Madeira, adiante abreviadamente designado apenas por SERAM, com respeito pelas bases gerais do estatuto das empresas públicas do Estado previsto no Decreto-Lei n.º 558/99, de 17 de Dezembro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 300/2007, de 23 de Agosto.\n\n2 - O regime previsto no presente diploma aplica-se ainda às empresas detidas ou participadas, directa ou indirectamente, por quaisquer entidades públicas regionais.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150657": {
+   "fragment_id": "166158768",
+   "type": 11,
+   "heading": "Artigo 2.º — Sector empresarial da Região Autónoma da Madeira",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Sector empresarial da Região Autónoma da Madeira\n\nO SERAM integra as empresas públicas regionais, nos termos do artigo 3.º, e as empresas participadas da Região, nos termos do artigo 4.º do presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150658": {
+   "fragment_id": "166158769",
+   "type": 11,
+   "heading": "Artigo 3.º — Empresas públicas regionais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Empresas públicas regionais\n\n1 - Consideram-se empresas públicas regionais, as sociedades constituídas nos termos da lei comercial, nas quais a Região ou outras entidades públicas regionais possam exercer, isolada ou conjuntamente, de forma directa ou indirecta, uma influência dominante em virtude de alguma das seguintes circunstâncias:\n\na) Detenção da maioria do capital ou dos direitos de voto;\n\nb) Direito de designar ou de destituir a maioria dos membros dos órgãos de administração ou de fiscalização.\n\n2 - São também empresas públicas regionais, as entidades públicas empresariais da Região Autónoma da Madeira reguladas no capítulo iii, do presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150659": {
+   "fragment_id": "166158770",
+   "type": 11,
+   "heading": "Artigo 4.º — Empresas participadas",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Empresas participadas\n\n1 - Empresas participadas são as organizações empresariais que tenham uma participação permanente da Região ou de quaisquer outras entidades públicas regionais, de carácter administrativo ou empresarial, por forma directa ou indirecta, desde que o conjunto das participações públicas regionais não origine qualquer situação prevista no n.º 1 do artigo 3.º\n\n2 - Consideram-se participações permanentes as que não tenham objectivos exclusivamente financeiros, sem qualquer intenção de influenciar a orientação ou a gestão da empresa por parte das entidades participantes, desde que a respectiva titularidade atinja a duração, contínua ou interpolada, superior a um ano.\n\n3 - Presume-se a natureza permanente das participações sociais representativas de mais de 10 % do capital social da entidade participada, com excepção daquelas que sejam detidas por empresas do sector financeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150660": {
+   "fragment_id": "166158771",
+   "type": 11,
+   "heading": "Artigo 5.º — Missão das empresas do sector empresarial da Região Autónoma da Madeira",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Missão das empresas do sector empresarial da Região Autónoma da Madeira\n\nA actividade das empresas do SERAM deve orientar-se no sentido da obtenção de níveis adequados de satisfação das necessidades da colectividade e desenvolver-se segundo parâmetros exigentes de qualidade, economia, eficiência e eficácia, contribuindo para o equilíbrio económico e financeiro do conjunto do sector público regional.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150661": {
+   "fragment_id": "166158772",
+   "type": 11,
+   "heading": "Artigo 6.º — Enquadramento das empresas participadas",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Enquadramento das empresas participadas\n\n1 - Sem prejuízo das autonomias atribuídas às entidades públicas, de carácter administrativo ou empresarial, detentoras de participações, ou reconhecidas às Regiões Autónomas, ao Estado, aos municípios e às suas associações, uma empresa participada por diversas entidades públicas integra-se no sector empresarial da entidade que, no conjunto das participações do sector público, seja titular da maior participação relativa.\n\n2 - Sem prejuízo do disposto no número seguinte, a integração das empresas participadas no SERAM aplica-se apenas à respectiva participação pública regional, designadamente no que se refere ao registo e controlo e ao exercício dos direitos de titular do capital cujo conteúdo deve levar em consideração os princípios decorrentes do presente decreto legislativo regional e demais legislação aplicável.\n\n3 - Os membros dos órgãos de gestão e administração das empresas participadas designados ou propostos pela Região, directamente ou através das sociedades a que se refere o n.º 3 do artigo 10.º ficam sujeitos ao regime jurídico aplicável aos gestores públicos, nos termos do estatuto do gestor público das empresas públicas da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150662": {
+   "fragment_id": "166158773",
+   "type": 8,
+   "heading": "Secção II — Direito aplicável",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção II — Direito aplicável\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150663": {
+   "fragment_id": "166158774",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime jurídico geral",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regime jurídico geral\n\n1 - As empresas públicas regionais regem-se pelo presente diploma, pelos seus diplomas de criação, respectivos estatutos e pelas normas aplicáveis às sociedades comerciais.\n\n2 - As empresas públicas regionais estão sujeitas a tributação directa e indirecta, nos termos gerais.\n\n3 - As empresas participadas estão plenamente sujeitas ao regime jurídico comercial, laboral ou de outra natureza, aplicável às empresas cujo capital é exclusivamente privado.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+  },
+  "166150664": {
+   "fragment_id": "166157275",
+   "type": 11,
+   "heading": "Artigo 8.º — Sujeição às regras da concorrência",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Sujeição às regras da concorrência\n\n1 - As empresas públicas regionais estão sujeitas às regras gerais de concorrência, nacionais e comunitárias.\n\n2 - Das relações entre empresas públicas regionais e a Região ou outros entes públicos não poderão resultar situações que, sob qualquer forma, sejam susceptíveis de impedir, falsear ou restringir a concorrência no todo ou em parte do território nacional.\n\n3 - As empresas públicas regionais regem-se pelo princípio da transparência financeira e a sua contabilidade deve ser organizada de modo a permitir a identificação de quaisquer fluxos financeiros entre elas e a Região ou outros entes públicos, bem como garantir o cumprimento das exigências nacionais e comunitárias em matéria de concorrência e auxílios públicos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150665": {
+   "fragment_id": "166157276",
+   "type": 11,
+   "heading": "Artigo 9.º — Derrogações",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 9.º — Derrogações\n\nO disposto nos n.os 1 e 2 do artigo anterior não prejudica regimes derrogatórios especiais, devidamente justificados, sempre que a aplicação das normas gerais de concorrência seja susceptível de frustrar, de direito ou de facto, as missões confiadas às empresas públicas regionais incumbidas da gestão de serviços de interesse económico geral ou que apoiem a gestão do património da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150666": {
+   "fragment_id": "166157277",
+   "type": 8,
+   "heading": "Secção III — Outras disposições",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção III — Outras disposições\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150667": {
+   "fragment_id": "166157278",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos de titular do capital",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Direitos de titular do capital\n\n1 - Os direitos da Região Autónoma da Madeira como titular do capital são exercidos por um ou mais representantes designados por resolução do Conselho do Governo Regional mediante proposta do membro do Governo Regional responsável pelo respectivo sector de actividade.\n\n2 - Os direitos de outras entidades públicas regionais como titulares do capital são exercidos pelos órgãos de gestão e administração respectivos, com respeito pelas orientações decorrentes da superintendência e pela tutela que sobre elas sejam exercidas.\n\n3 - Os direitos referidos nos números anteriores poderão ser exercidos indirectamente através de sociedades de capitais exclusivamente públicos.\n\n4 - As entidades responsáveis pelo exercício da função de titular do capital da Região, nos termos do presente artigo, devem estar representadas no órgão de gestão e administração das empresas públicas regionais ou no respectivo órgão de fiscalização.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150668": {
+   "fragment_id": "166157279",
+   "type": 11,
+   "heading": "Artigo 11.º — Orientações estratégicas de gestão",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Orientações estratégicas de gestão\n\n1 - Com vista à definição do exercício da gestão das empresas públicas regionais, são emitidas orientações estratégicas de gestão destinadas à globalidade do sector empresarial da Região Autónoma da Madeira, através de resolução do Conselho do Governo Regional, sob proposta do membro do Governo responsável pela área das finanças.\n\n2 - Com essa finalidade, devem ser emitidas as seguintes orientações:\n\na) Orientações gerais, definidas através de despacho conjunto do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças, destinadas a um conjunto de empresas regionais no mesmo sector de actividade;\n\nb) Orientações específicas, definidas através de despacho conjunto do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças, ou de deliberação da respectiva assembleia geral consoante se trate de entidade pública regional ou de sociedade, respectivamente, definindo as metas e objectivos para uma empresa pública regional individualmente considerada, devendo estas ser revistas, pelo menos com referência ao período do mandato do órgão de gestão conforme fixado nos respectivos estatutos;\n\nc) Orientações sobre remunerações e benefícios dos gestores públicos, definidas através de resolução do Conselho do Governo Regional.\n\n3 - As orientações previstas nos números anteriores reflectem-se nas deliberações a tomar em assembleia geral pelos representantes públicos ou, tratando-se de entidades públicas empresariais regionais, na preparação e aprovação dos respectivos planos estratégicos plurianuais, bem como nos contratos de gestão a celebrar com os gestores públicos, nos termos do estatuto do gestor público das empresas públicas da Região Autónoma da Madeira.\n\n4 - As orientações estratégicas gerais e específicas podem envolver metas quantificadas e contemplar a celebração de contratos entre a Região e as empresas públicas regionais.\n\n5 - Compete ao membro do Governo Regional responsável pelo sector e ao membro do Governo Regional responsável pela área das finanças, que podem delegar, directamente ou através das sociedades previstas no n.º 3 do artigo anterior, a verificação do cumprimento das orientações previstas nos n.os 1 e 2 do presente artigo, assim como emitir recomendações para a sua prossecução.\n\n6 - O disposto nos números anteriores não prejudica a especificação nos estatutos das empresas públicas regionais, de outros poderes de tutela ou de superintendência.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150669": {
+   "fragment_id": "166157280",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo financeiro",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Controlo financeiro\n\n1 - As empresas públicas regionais estão sujeitas a controlo financeiro que compreende, designadamente, a análise da sustentabilidade e a avaliação da legalidade, economia, eficiência e eficácia da sua gestão.\n\n2 - Sem prejuízo das competências atribuídas pela lei ao Tribunal de Contas, o controlo financeiro das empresas públicas regionais compete à Inspecção Regional de Finanças.\n\n3 - As empresas públicas regionais adoptarão procedimentos de controlo interno adequados a garantir a fiabilidade das contas e demais informação financeira, bem como a articulação com as entidades referidas no número anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150670": {
+   "fragment_id": "166157281",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres especiais de informação e controlo",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Deveres especiais de informação e controlo\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos titulares do capital, devem as empresas públicas regionais facultar ao membro do Governo Regional responsável pelo sector e ao membro do Governo Regional responsável pela área das finanças, directamente ou através de sociedades previstas no n.º 3 do artigo 10.º, os seguintes elementos, visando o seu acompanhamento e controlo:\n\na) Projectos dos planos de actividades anuais e plurianuais;\n\nb) Projectos dos orçamentos anuais, incluindo estimativa das operações financeiras com a Região e com outras entidades públicas;\n\nc) Planos de investimento anuais e plurianuais e respectivas fontes de financiamento;\n\nd) Documentos de prestação anual de contas;\n\ne) Relatórios trimestrais de execução orçamental, acompanhados dos relatórios do órgão de fiscalização, sempre que exigíveis;\n\nf) Cópias das actas da assembleia geral;\n\ng) Quaisquer outras informações e documentos solicitados para o acompanhamento da situação da empresa e da sua actividade, com vista, designadamente, a assegurar a boa gestão dos fundos públicos e a evolução da sua situação económico-financeira.\n\n2 - O endividamento ou assunção de responsabilidades de natureza similar fora do Balanço, a curto, médio ou longo prazo, não aprovados nos respectivos orçamentos ou planos de investimento, estão sujeitos a autorização expressa do membro do governo regional responsável pelo sector e do membro do governo regional responsável pela área das finanças ou da assembleia geral, consoante se trate de Entidade Pública Empresarial da Região Autónoma da Madeira ou de sociedade comercial, respectivamente, tendo por base proposta do órgão de gestão e administração da respectiva empresa pública regional.\n\n3 - As informações abrangidas pelo n.º 1 são prestadas pelas empresas públicas regionais nas condições e prazos que forem estabelecidas por despacho conjunto do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças, sem prejuízo de serem prestadas sempre que solicitadas.\n\n4 - As empresas públicas regionais indirectamente participadas, designadamente através de sociedades de capitais exclusivamente públicos a que se refere o n.º 3 do artigo 10.º deste diploma, remetem através destas as informações abrangidas pelo n.º 1 do presente artigo.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150671": {
+   "fragment_id": "166157282",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatórios",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Relatórios\n\nOs relatórios anuais das empresas públicas regionais, além dos elementos que caracterizam as respectivas situações económicas e financeiras, contêm:\n\na) As orientações de gestão fixadas ao abrigo do artigo 11.º que sejam aplicadas à empresa em causa;\n\nb) A estrutura e composição dos órgãos sociais;\n\nc) A identidade, os principais elementos curriculares e as funções exercidas por cada um dos membros do órgão de gestão e administração;\n\nd) Quando for caso disso, as funções exercidas por qualquer membro dos órgãos de gestão e administração noutra empresa;\n\ne) Informação sobre o modo e as condições de cumprimento, em cada exercício, de funções relacionadas com a gestão de serviços de interesse geral, sempre que esta se encontre cometida a determinadas empresas, nos termos dos artigos 29.º a 31.º;\n\nf) Informação sobre o efectivo exercício de poderes de autoridade por parte de empresas que sejam titulares desse tipo de poderes, nos termos previstos no artigo 16.º;\n\ng) A indicação do número de reuniões do órgão de gestão e administração com referência sucinta às decisões mais relevantes adoptadas pelo conselho de administração no exercício em causa;\n\nh) Os montantes das remunerações dos membros do órgão de gestão e administração e o modo como são determinados, incluindo todos os complementos remuneratórios de qualquer espécie, os regimes de previdência e eventuais planos complementares de reforma de que esses beneficiem, bem como o custo total dos encargos respeitantes a cada membro para a empresa em cada exercício;\n\ni) Os relatórios de auditoria externa, com indicação das pessoas e das entidades responsáveis.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150672": {
+   "fragment_id": "166157283",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigação de informação",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigação de informação\n\nO órgão de gestão e administração das empresas públicas regionais dá a conhecer, até 60 dias após a eleição ou nomeação dos órgãos sociais da empresa, em aviso a publicar no Jornal Oficial da Região Autónoma da Madeira, as seguintes informações, sem prejuízo de, por despacho do membro do Governo Regional com a tutela das Finanças, determinar as condições da sua divulgação complementar:\n\na) A estrutura e composição dos órgãos sociais da empresa;\n\nb) Os principais elementos curriculares e as qualificações dos membros do órgão de gestão e administração das empresas;\n\nc) Quando seja o caso, os cargos ocupados pelos membros do órgão de gestão e administração noutras empresas;\n\nd) As remunerações totais, variáveis e fixas auferidas anualmente por cada um dos membros dos órgãos de gestão, bem como as remunerações auferidas por cada membro do órgão de fiscalização;\n\ne) Outros elementos que sejam fixados em resolução do Conselho de Governo Regional.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150673": {
+   "fragment_id": "166157284",
+   "type": 11,
+   "heading": "Artigo 16.º — Poderes de autoridade",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Poderes de autoridade\n\n1 - Poderão as empresas públicas regionais exercer poderes e prerrogativas de autoridade de que goza a Região, designadamente quanto a:\n\na) Expropriação por utilidade pública;\n\nb) Utilização, protecção e gestão das infra-estruturas afectas ao serviço público;\n\nc) Licenciamento e concessão, nos termos da legislação aplicável à utilização do domínio público, da ocupação ou do exercício de qualquer actividade nos terrenos, edificações e outras infra-estruturas que lhe estejam afectas.\n\n2 - Os poderes especiais serão atribuídos por diploma legal, em situações excepcionais e na medida do estritamente necessário à prossecução do interesse público, ou constarão de contrato de concessão.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166150674": {
+   "fragment_id": "166157285",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestores públicos",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 17.º — Gestores públicos\n\nOs membros dos órgãos de gestão e administração das empresas públicas regionais, independentemente da respectiva forma jurídica, ficam sujeitos ao estatuto do gestor público das empresas públicas da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159775": {
+   "fragment_id": "166157286",
+   "type": 11,
+   "heading": "Artigo 18.º — Estatuto do pessoal",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Estatuto do pessoal\n\n1 - O estatuto do pessoal das empresas públicas regionais é o do regime do contrato individual de trabalho, salvo o disposto no número seguinte.\n\n2 - É aplicável aos trabalhadores das entidades públicas empresariais e empresas públicas de capital exclusiva e maioritariamente público do SERAM o regime previsto para os trabalhadores em funções públicas do subsídio de refeição, do abono de ajudas de custo e transporte por deslocações em território português e ao estrangeiro, da remuneração do trabalho suplementar e do trabalho nocturno.\n\n3 - O disposto no número anterior tem natureza imperativa, prevalecendo sobre quaisquer outras normas, especiais ou excepcionais, em contrário e sobre instrumentos de regulamentação colectiva de trabalho, com excepção das disposições sobre trabalho suplementar e nocturno, constantes de legislação especial e de instrumentos de regulamentação colectiva de trabalho aplicáveis aos profissionais de saúde, não podendo ser afastado ou modificado pelos mesmos.\n\n4 - Sem prejuízo do disposto nos n.os 2 e 3, a matéria relativa à contratação colectiva rege-se pela lei geral.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01"
+  },
+  "166159776": {
+   "fragment_id": "166157287",
+   "type": 11,
+   "heading": "Artigo 19.º — Mobilidade do pessoal",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Mobilidade do pessoal\n\n1 - Podem exercer funções nas empresas públicas regionais, mediante acordo de cedência ou comissão de serviço, respectivamente os trabalhadores da administração regional, do Estado, dos institutos públicos e das autarquias locais, e os trabalhadores de quaisquer empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da cedência ou da comissão, como serviço prestado nesse quadro.\n\n2 - Os trabalhadores das empresas públicas regionais podem exercer, através de acordo de cedência funções na administração regional, institutos públicos regionais, autarquias locais, mantendo todos os direitos inerentes ao seu estatuto profissional na empresa de origem, considerando-se todo o período de cedência prestado na empresa de origem.\n\n3 - Os trabalhadores cedidos ou em comissão de serviço, nos termos dos números anteriores, poderão optar pelo vencimento correspondente ao seu quadro de origem ou pelo correspondente às funções que vão desempenhar.\n\n4 - O vencimento e demais encargos dos trabalhadores cedidos ou em comissão de serviço serão da responsabilidade da entidade onde se encontrem a exercer funções.\n\n5 - À cedência referida nos números anteriores é ainda aplicável o disposto no regime de mobilidade em vigor na Administração Regional da Região Autónoma da Madeira.\n\n6 - O disposto nos n.os 1 e 2 do presente artigo não prejudica a aplicação de outros instrumentos de mobilidade previstos em lei especial.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159777": {
+   "fragment_id": "166157288",
+   "type": 11,
+   "heading": "Artigo 20.º — Tribunais competentes",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 20.º — Tribunais competentes\n\n1 - Para efeitos de determinação da competência para julgamento dos litígios, incluindo recursos contenciosos, respeitantes a actos praticados e a contratos celebrados no exercício dos poderes de autoridade a que se refere o artigo 16.º, serão as empresas públicas regionais equiparadas a entidades administrativas.\n\n2 - Nos demais litígios seguem-se as regras gerais de determinação da competência material dos tribunais.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159778": {
+   "fragment_id": "166157289",
+   "type": 8,
+   "heading": "Secção IV — Estruturas de gestão",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "#### Secção IV — Estruturas de gestão\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159779": {
+   "fragment_id": "166157290",
+   "type": 11,
+   "heading": "Artigo 21.º — Estruturas dos órgãos sociais das empresas públicas regionais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Estruturas dos órgãos sociais das empresas públicas regionais\n\nSem prejuízo da adopção das estruturas de gestão previstas no Código das Sociedades Comerciais, pode ser determinada por resolução do Conselho do Governo Regional mediante proposta do membro do Governo Regional responsável pelo sector e do membro do Governo Regional responsável pela área das finanças a adopção de estruturas de órgãos sociais para as empresas públicas regionais de acordo com a sua dimensão e complexidade da respectiva gestão.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159780": {
+   "fragment_id": "166157291",
+   "type": 11,
+   "heading": "Artigo 22.º — Membros dos órgãos de gestão e administração executivos e não executivos",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Membros dos órgãos de gestão e administração executivos e não executivos\n\n1 - O órgão de gestão e administração das empresas públicas regionais deve compreender gestores executivos e não executivos, sempre em número impar.\n\n2 - O órgão de gestão e administração pode constituir em comissão executiva os gestores executivos, ou quando existir apenas um, constitui-lo como gestor executivo único.\n\n3 - O órgão de gestão e administração pode integrar exclusivamente administradores executivos, podendo ser, nesse caso, a sua actividade acompanhada por um conselho ou um órgão de supervisão.\n\n4 - Compete aos gestores executivos constituídos ou não em comissão assegurar a gestão quotidiana da empresa, bem como exercer as funções que o órgão de gestão e administração neles delegue.\n\n5 - Aos gestores não executivos ou alguns dentro de eles podem ser atribuídas funções específicas de controlo e fiscalização, nomeadamente através da criação nos termos do artigo seguinte de uma comissão de avaliação por eles constituída.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159781": {
+   "fragment_id": "166157292",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissões executivas, de auditoria e de avaliação",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 23.º — Comissões executivas, de auditoria e de avaliação\n\nCaso a dimensão e a complexidade da gestão da empresa pública regional o justifique, poderão ser criadas por resolução do Conselho do Governo Regional, nos termos do artigo 21.º, comissões executivas, de auditoria, de avaliação e de supervisão para integrarem as respectivas estruturas de gestão e administração, as quais se regerão nos termos previstos nos artigos 18.º-C a 18.º-G do Decreto-Lei n.º 558/99, de 17 de Dezembro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 300/2007, de 23 de Agosto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159782": {
+   "fragment_id": "166157293",
+   "type": 11,
+   "heading": "Artigo 24.º — Assembleia geral",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 24.º — Assembleia geral\n\nA mesa da assembleia geral das empresas públicas regionais deve ser composta por um presidente e um ou mais vogais e por um secretário.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159783": {
+   "fragment_id": "166157294",
+   "type": 11,
+   "heading": "Artigo 25.º — Órgão de fiscalização",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 25.º — Órgão de fiscalização\n\nO órgão de fiscalização das empresas públicas regionais poderá constituir-se em conselho fiscal, composto por um presidente e vogais, sempre em número impar, devendo um deles ser um revisor oficial de contas ou em alternativa por um fiscal único, nos termos do Código das Sociedades Comerciais.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159784": {
+   "fragment_id": "166157295",
+   "type": 11,
+   "heading": "Artigo 26.º — Representante da Região nas assembleias gerais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 26.º — Representante da Região nas assembleias gerais\n\n1 - Compete ao representante da Região nas assembleias gerais das empresas públicas regionais zelar e assegurar que as orientações estratégicas são executadas de forma racionalmente económica.\n\n2 - O representante da Região é o elo privilegiado de comunicação entre as empresas públicas regionais sob a forma comercial e o Governo Regional, sem prejuízo de qualquer dos membros do Governo criar estruturas próprias de supervisão e avaliação da actividade das empresas do respectivo sector.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159785": {
+   "fragment_id": "166157296",
+   "type": 11,
+   "heading": "Artigo 27.º — Auditoria externa",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Auditoria externa\n\n1 - Sem prejuízo do disposto no Código das Sociedades Comerciais, a contratação de auditorias externas, pode ser determinada pelo membro do Governo Regional responsável pelo sector e pelo membro do Governo Regional responsável pela área das finanças.\n\n2 - Compete ao órgão de gestão e administração promover a contratação de auditores externos submetendo-a à aprovação da assembleia geral ou aos membros do Governo Regional com tutela sobre a empresa, consoante se trate de empresas sob a forma comercial ou entidade pública empresarial da Região Autónoma da Madeira, respectivamente.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159786": {
+   "fragment_id": "166157297",
+   "type": 11,
+   "heading": "Artigo 28.º — Dissolução dos órgãos sociais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 28.º — Dissolução dos órgãos sociais\n\n1 - Os órgãos sociais das empresas públicas regionais podem ser dissolvidos em caso de:\n\na) Grave violação, por acção ou omissão, da lei ou dos estatutos da empresa;\n\nb) Não observância, nos orçamentos de exploração e investimento, dos objectivos fixados pela entidade de controlo ou pela tutela;\n\nc) Desvio substancial entre os orçamentos e a respectiva execução;\n\nd) Grave deterioração dos resultados do exercício ou da situação patrimonial, quando não provocada por razões alheias ao exercício das funções pelos gestores.\n\n2 - A dissolução compete aos órgãos de eleição ou de nomeação dos gestores públicos, e requer a audiência prévia, pelo menos, do presidente do órgão, devendo ser devidamente fundamentada.\n\n3 - A dissolução implica a cessação do mandato de todos os membros do órgão dissolvido, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções.\n\n4 - O conselho de administração, a comissão executiva, o conselho de administração executivo ou o conselho de supervisão podem ser livremente dissolvidos, ou o gestor público livremente demitido, conforme os casos, independentemente dos fundamentos constantes nos números anteriores.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159787": {
+   "fragment_id": "166157298",
+   "type": 1,
+   "heading": "Capítulo II — Empresas públicas encarregadas da gestão de serviços de interesse económico geral",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo II — Empresas públicas encarregadas da gestão de serviços de interesse económico geral\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159788": {
+   "fragment_id": "166157299",
+   "type": 11,
+   "heading": "Artigo 29.º — Noção",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 29.º — Noção\n\n1 - Para efeitos do presente diploma, são consideradas empresas encarregadas da gestão de serviços de interesse económico geral aquelas cujas actividades devam assegurar a universalidade e continuidade dos serviços prestados, a coesão económica e social local e regional e a protecção dos utentes, sem prejuízo da eficácia económica e do respeito dos princípios de não discriminação e transparência.\n\n2 - Salvo quando a lei dispuser diversamente, os termos em que a gestão é atribuída e exercida constarão de contrato de concessão.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159789": {
+   "fragment_id": "166157300",
+   "type": 11,
+   "heading": "Artigo 30.º — Princípios orientadores",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 30.º — Princípios orientadores\n\nAs empresas públicas regionais encarregadas da gestão de serviços de interesse económico geral devem prosseguir as missões que lhe estejam confiadas no sentido, consoante os casos, de:\n\na) Prestar os serviços de interesse económico geral à Região e no conjunto do território regional sem discriminação das zonas rurais e do interior;\n\nb) Promover o acesso da generalidade dos cidadãos, em condições financeiras equilibradas, a bens e serviços essenciais, procurando, na medida do possível, que todos os utilizadores tenham direito a tratamento idêntico e neutro, sem quaisquer discriminações, quer quanto ao funcionamento dos serviços, quer quanto a taxas ou contraprestações devidas, a menos que o interesse geral o justifique;\n\nc) Assegurar o cumprimento das exigências de prestação de serviços de carácter universal relativamente a actividades económicas cujo acesso se encontre legalmente vedado a empresas privadas e a outras entidades da mesma natureza;\n\nd) Garantir o fornecimento de serviços ou a gestão de actividades cuja rendibilidade não se encontra assegurada, em especial devido aos investimentos necessários ao desenvolvimento de infra-estruturas ou redes de distribuição ou, ainda, devido à necessidade de realizar actividades comprovadamente deficitárias;\n\ne) Zelar pela eficácia da gestão das redes de serviços públicos, procurando, designadamente, que a produção, o transporte e distribuição, a construção de infra-estruturas e a prestação do conjunto de tais serviços se procedam de forma articulada, tendo em atenção as modificações organizacionais impostas por inovações técnicas ou tecnológicas;\n\nf) Cumprir obrigações específicas, relacionadas com a segurança, com a continuidade e qualidade dos serviços e com a protecção do ambiente, devendo tais obrigações ser claramente definidas, transparentes, não discriminatórias e susceptíveis de controlo.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159790": {
+   "fragment_id": "166157301",
+   "type": 11,
+   "heading": "Artigo 31.º — Contratos com a Região",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 31.º — Contratos com a Região\n\n1 - Para realização das finalidades previstas no artigo anterior poderá a Região recorrer à celebração de contratos com as empresas públicas regionais encarregadas da gestão de serviços de interesse económico geral, contemplando, designadamente, a atribuição de indemnizações compensatórias na medida do estritamente necessário à prossecução do interesse público.\n\n2 - Estes contratos visarão assegurar a adaptação permanente à evolução das circunstâncias, inclusive técnicas e tecnológicas, e à satisfação das necessidades colectivas, conciliando a eficácia económica dos operadores com a manutenção da coesão social e a luta contra a exclusão.\n\n3 - Os contratos a que se refere o presente artigo, que envolvam a assunção de obrigações ou de compromissos financeiros por parte da Região, deverão revestir a forma de contrato-programa, prever a respectiva quantificação e validação, cabendo aos serviços competentes da Secretaria Regional com a tutela das Finanças a emissão de parecer prévio à sua celebração, bem como o acompanhamento geral da execução das suas cláusulas financeiras.\n\n4 - O regime das indemnizações compensatórias consta de diploma próprio.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159791": {
+   "fragment_id": "166157302",
+   "type": 1,
+   "heading": "Capítulo III — Entidades públicas empresariais da Região Autónoma da Madeira",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo III — Entidades públicas empresariais da Região Autónoma da Madeira\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159792": {
+   "fragment_id": "166157303",
+   "type": 11,
+   "heading": "Artigo 32.º — Âmbito de aplicação",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — Âmbito de aplicação\n\n1 - A Região Autónoma da Madeira pode constituir pessoas colectivas de direito público, com natureza empresarial, doravante designadas por «Entidades públicas empresariais da Região Autónoma da Madeira», as quais se regem pelas disposições do presente capítulo e, subsidiariamente, pelas restantes normas deste diploma.\n\n2 - O disposto no número anterior é aplicável às entidades públicas empresariais constituídas ao abrigo do Decreto-Lei n.º 558/99, de 17 de Dezembro, existentes à data da entrada em vigor do presente diploma e que possuam sede na Região Autónoma da Madeira, as quais passam a adoptar a designação prevista no final do número anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159793": {
+   "fragment_id": "166157304",
+   "type": 11,
+   "heading": "Artigo 33.º — Criação",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 33.º — Criação\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira são criadas por decreto legislativo regional, o qual aprovará também os respectivos estatutos.\n\n2 - A denominação das entidades públicas empresariais da Região Autónoma da Madeira deve integrar a expressão «Entidade pública empresarial da Região Autónoma da Madeira» ou as iniciais «EPERAM».\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159794": {
+   "fragment_id": "166157305",
+   "type": 11,
+   "heading": "Artigo 34.º — Autonomia e capacidade jurídica",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 34.º — Autonomia e capacidade jurídica\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira são dotadas de autonomia administrativa, financeira e patrimonial, não estando sujeitas às normas da contabilidade pública.\n\n2 - A capacidade jurídica das entidades públicas empresariais da Região Autónoma da Madeira abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159795": {
+   "fragment_id": "166157306",
+   "type": 11,
+   "heading": "Artigo 35.º — Capital",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 35.º — Capital\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira terão um capital, designado «capital estatutário», detido exclusivamente pela Região e destinado a responder às respectivas necessidades permanentes.\n\n2 - O capital estatutário poderá ser aumentado ou reduzido nos termos previstos nos estatutos.\n\n3 - A remuneração do capital estatutário é efectuada de acordo com o regime previsto para a distribuição dos lucros do exercício nas sociedades anónimas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159796": {
+   "fragment_id": "166157307",
+   "type": 11,
+   "heading": "Artigo 36.º — Órgãos sociais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 36.º — Órgãos sociais\n\n1 - A administração e a fiscalização das entidades públicas empresariais da Região Autónoma da Madeira devem estruturar-se segundo as modalidades e com as designações previstas para as sociedades anónimas.\n\n2 - Os órgãos de administração e fiscalização têm as competências genéricas previstas na lei comercial, sem prejuízo do disposto no presente diploma.\n\n3 - Os estatutos podem prever a existência de outros órgãos, deliberativos ou consultivos, definindo, nomeadamente, as respectivas competências, bem como o modo de designação dos respectivos membros.\n\n4 - Os estatutos regularão, com observância das normas legais aplicáveis, a competência e o modo de designação dos membros dos órgãos a que se referem os números anteriores.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159797": {
+   "fragment_id": "166157308",
+   "type": 11,
+   "heading": "Artigo 37.º — Registo comercial",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 37.º — Registo comercial\n\nAs entidades públicas empresariais da Região Autónoma da Madeira estão sujeitas ao registo comercial nos termos gerais, com as adaptações que se revelem necessárias.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159798": {
+   "fragment_id": "166157309",
+   "type": 11,
+   "heading": "Artigo 38.º — Tutela",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 38.º — Tutela\n\n1 - A tutela económica e financeira das entidades públicas empresariais da Região Autónoma da Madeira é exercida pelo membro do Governo Regional responsável pelo sector de actividade de cada empresa e pelo membro do Governo Regional responsável pela área das finanças, sem prejuízo do respectivo poder de superintendência.\n\n2 - A tutela abrange:\n\na) A aprovação dos planos estratégicos plurianuais, orçamentos anuais e contas, assim como de dotações para capital, subsídios e indemnizações compensatórias;\n\nb) A homologação de preços ou tarifas a praticar por empresas que explorem serviços de interesse económico geral ou exerçam a respectiva actividade em regime de exclusivo, salvo quando a sua definição competir a outras entidades independentes;\n\nc) Os demais poderes expressamente referidos nos estatutos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159799": {
+   "fragment_id": "166157310",
+   "type": 11,
+   "heading": "Artigo 39.º — Regime especial de gestão",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 39.º — Regime especial de gestão\n\n1 - Em circunstâncias excepcionais devidamente justificadas, podem as entidades públicas empresariais da Região Autónoma da Madeira ser sujeitas a um regime especial de gestão, por prazo determinado que não exceda dois anos, em condições fixadas mediante resolução do Conselho do Governo Regional.\n\n2 - A resolução prevista no número anterior determina a cessação automática das funções dos titulares dos órgãos de administração em exercício.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159800": {
+   "fragment_id": "166157311",
+   "type": 11,
+   "heading": "Artigo 40.º — Orçamento anual",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 40.º — Orçamento anual\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira prepararão para cada ano económico o orçamento anual, o qual deverá ser completado com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controlo de gestão.\n\n2 - As propostas do orçamento anual serão elaborados com respeito pelos pressupostos macroeconómicos, pelas orientações estratégicas de gestão previstas no artigo 11.º e pelas directrizes definidas pelo Governo Regional, bem como, quando for caso disso, por contratos celebrados com a Região, e deverão ser remetidos para aprovação, até 31 de Outubro do ano anterior, ao membro do Governo Regional responsável pelo sector de actividade e ao membro do Governo Regional responsável pela área das finanças.\n\n3 - O orçamento anual deverá ser objecto de aprovação expressa, através de despacho conjunto do membro do Governo Regional responsável pelo sector de actividade e do membro do Governo Regional responsável pela área das finanças, consagrando deste modo a autorização para a realização das actividades e respectivos custos previstos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159801": {
+   "fragment_id": "166157312",
+   "type": 11,
+   "heading": "Artigo 41.º — Prestação de contas",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 41.º — Prestação de contas\n\n1 - As entidades públicas empresariais da Região Autónoma da Madeira devem elaborar, com referência a 31 de Dezembro do ano anterior, os documentos de prestação de contas, remetendo-os à Inspecção Regional de Finanças e à Direcção Regional de Finanças, no prazo em que nas sociedades anónimas se deve proceder à disponibilização daqueles documentos aos titulares do capital.\n\n2 - Os documentos referidos no número anterior são submetidos à apreciação do membro do Governo Regional responsável pelo sector de actividade de cada uma das empresas e do membro do Governo Regional responsável pela área das finanças.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159802": {
+   "fragment_id": "166157313",
+   "type": 11,
+   "heading": "Artigo 42.º — Transformação, fusão e cisão",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 42.º — Transformação, fusão e cisão\n\nA transformação das entidades públicas empresariais da Região Autónoma da Madeira bem como a respectiva fusão ou cisão operam-se, em cada caso, através de decreto legislativo regional e nos termos especiais nele estabelecidos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159803": {
+   "fragment_id": "166157314",
+   "type": 11,
+   "heading": "Artigo 43.º — Extinção",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 43.º — Extinção\n\n1 - Pode ser determinada por decreto legislativo regional a extinção de entidades públicas empresariais da Região Autónoma da Madeira, bem como o subsequente processo de liquidação.\n\n2 - Não são aplicáveis as regras gerais sobre dissolução e liquidação de sociedades, nem as dos processos especiais de recuperação e falência, salvo na medida do expressamente determinado pelo diploma referido no número anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159804": {
+   "fragment_id": "166157315",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159805": {
+   "fragment_id": "166157316",
+   "type": 11,
+   "heading": "Artigo 44.º — Prevalência de normas",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 44.º — Prevalência de normas\n\nO disposto no presente diploma prevalece sobre os estatutos das entidades públicas regionais nesta data já constituídas, tendo-se por não escritas as normas que com ele se não conformem.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159806": {
+   "fragment_id": "166157317",
+   "type": 11,
+   "heading": "Artigo 45.º — Extensão a outras entidades",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 45.º — Extensão a outras entidades\n\n1 - Os direitos de titular do capital da Região Autónoma da Madeira a que se refere o presente diploma, nas sociedades em que, mesmo conjuntamente, não detenham influência dominante são exercidos, respectivamente, pela Direcção Regional de Finanças, pelo membro do Governo Regional responsável pelo sector ou pelos órgãos de gestão das entidades titulares.\n\n2 - As sociedades em que a Região exerça uma influência significativa, seja por detenção de acções que representam mais de 10 % do capital social, seja por detenção de direitos especiais de sócio, deverão apresentar na Direcção Regional de Finanças a informação destinada ao titular do capital, nas datas em que a estes deva ser disponibilizada, nos termos da legislação aplicável às sociedades comerciais.\n\n3 - Os direitos referidos nos números anteriores poderão ser exercidos, indirectamente, nos termos previstos no n.º 3 do artigo 10.º\n\n4 - Às empresas privadas encarregadas da gestão de serviços de interesse económico geral, por força de concessão ou da atribuição de direitos especiais ou exclusivos, é aplicável o disposto no capítulo ii do presente diploma.\n\n5 - Podem ser sujeitas ao regime estabelecido no presente diploma, no todo ou em parte, com excepção do constante do seu capítulo iii, as empresas nas quais a Região ou outras entidades públicas disponham de direitos especiais, desde que os respectivos estatutos assim o prevejam.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159807": {
+   "fragment_id": "166157318",
+   "type": 11,
+   "heading": "Artigo 46.º — Constituição de sociedade e aquisição ou alienação de partes de capital",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 46.º — Constituição de sociedade e aquisição ou alienação de partes de capital\n\n1 - Sem prejuízo do disposto em legislação especial, a participação da Região Autónoma da Madeira, bem como das empresas públicas regionais, na constituição de sociedades e na aquisição ou alienação de partes de capital está sujeita a autorização mediante resolução do Conselho do Governo Regional, excepto nas aquisições que decorram de dação em cumprimento, doação, renúncia ou abandono.\n\n2 - Para efeitos do disposto no número anterior, o pedido de autorização deve ser acompanhado por um estudo demonstrativo do interesse e viabilidade da operação pretendida.\n\n3 - O incumprimento do disposto no n.º 1 determina a nulidade do negócio jurídico em causa.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159808": {
+   "fragment_id": "166157319",
+   "type": 11,
+   "heading": "Artigo 47.º — Orientações estratégicas e contratos de gestão",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 47.º — Orientações estratégicas e contratos de gestão\n\n1 - O disposto nos artigos 12.º a 15.º do presente diploma entra apenas em vigor na data em que forem definidas as orientações estratégicas previstas no respectivo artigo 11.º, as quais deverão sê-lo no prazo de seis meses a contar da entrada em vigor deste decreto legislativo regional.\n\n2 - Simultaneamente à definição das orientações estratégicas referidas no número anterior deverão celebrar-se contratos de gestão envolvendo metas quantificadas, entre os gestores públicos e a Região, sempre que estes forem considerados necessários ou expressamente previstos na resolução do Conselho do Governo Regional, onde são definidas as orientações estratégicas específicas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159809": {
+   "fragment_id": "166157320",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 60 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  },
+  "166159810": {
+   "fragment_id": "166157321",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de Junho de 2010.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 28 de Julho de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01"
+  }
+ }
+}

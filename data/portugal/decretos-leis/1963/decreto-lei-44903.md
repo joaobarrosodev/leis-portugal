@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:193400:por
+title: Decreto-Lei n.º 44903
+short_title: null
+summary: Cria um posto da Polícia de Segurança Pública na sede do concelho de Vila Franca do Campo, do distrito de Ponta Delgada,
+  e aumenta de vário pessoal o quadro geral da mesma Polícia, a que se refere o mapa I do Decreto-Lei n.º 39497
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Comando-Geral da Polícia de Segurança Pública
+proposing_entity: null
+official_number: '44903'
+official_date: null
+publication_date: '1963-02-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 48/1963, Série I de 1963-02-26
+  number: '48'
+  series: I
+  supplement: null
+  pages: 230 - 230
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04800/02300230.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193400'
+  dre_path: /dr/detalhe/decreto-lei/44903-1963-193400
+  internal: pt:dre:193400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44903-1963-193400
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44903-1963-193400
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bdcc176912ef2266dcc101a6fcaf79bf7fbd8fb6e5931ed8754ccc736846565a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Ponta Delgada
+- PSP
+- Quadro de Pessoal
+- VILA Franca do Campo
+relationships:
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:44:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44903
+
+Considerando que no concelho de Vila Franca do Campo, do distrito de Ponta Delgada, não existem quaisquer forças encarregadas da manutenção da ordem e tranquilidade pública;
+
+Considerando o desenvolvimento económico, grandemente influenciado pela actividade piscatória de apreciável parte da população concelhia;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É criado um posto da Polícia de Segurança Pública na sede do concelho de Vila Franca do Campo, do distrito de Ponta Delgada.
+
+§ único. O quadro geral da Polícia de Segurança Pública, a que se refere o mapa I do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, é aumentado de um primeiro-subchefe, dois guardas de 1.ª classe e quatro guardas de 2.ª classe, com destino ao posto de Vila Franca do Campo.
+
+Art. 2.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos, no corrente ano económico, por conta das sobras que se verificarem nas respectivas dotações orçamentais.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 26 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

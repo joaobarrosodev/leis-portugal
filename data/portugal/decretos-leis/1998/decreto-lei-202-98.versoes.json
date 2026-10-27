@@ -1,0 +1,348 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485056:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-169035694",
+ "dre_path": "/dr/detalhe/decreto-lei/202-1998-485056",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1998-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169035886",
+    "169035887",
+    "169035888",
+    "169035889",
+    "169035890",
+    "169035891",
+    "169035892",
+    "169035893",
+    "169035894",
+    "169035895",
+    "169035896",
+    "169035897",
+    "169035898",
+    "169035899",
+    "169035900",
+    "169035901",
+    "169035902",
+    "169035903",
+    "169035904",
+    "169035905",
+    "169035906",
+    "169035907"
+   ]
+  },
+  {
+   "date": "1998-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182254:por",
+     "title": "Declaração de Rectificação n.º 11-Q/98",
+     "published": "1998-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-q-1998-182254"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 14.º",
+    "Retifica Artigo 17.º"
+   ],
+   "fragments": [
+    "169035886",
+    "169035887",
+    "921945059",
+    "169035889",
+    "169035890",
+    "169035891",
+    "169035892",
+    "169035893",
+    "169035894",
+    "169035895",
+    "169035896",
+    "169035897",
+    "169035898",
+    "169035899",
+    "921945060",
+    "169035901",
+    "169035902",
+    "921945061",
+    "169035904",
+    "169035905",
+    "169035906",
+    "169035907",
+    "169035908"
+   ]
+  },
+  {
+   "date": "2005-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573315:por",
+     "title": "Decreto-Lei n.º 64/2005",
+     "published": "2005-03-15",
+     "dre_path": "/dr/detalhe/decreto-lei/64-2005-573315"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "169035886",
+    "169035887",
+    "921945059",
+    "169035889",
+    "169035890",
+    "169035891",
+    "169035892",
+    "169035893",
+    "169035894",
+    "169035895",
+    "169035896",
+    "169035897",
+    "169035898",
+    "169035899",
+    "921945060",
+    "169035901",
+    "169035902",
+    "922108028",
+    "169035904",
+    "169035905",
+    "169035906",
+    "169035907",
+    "169035908"
+   ]
+  }
+ ],
+ "fragments": {
+  "169035886": {
+   "fragment_id": "169035695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 202/98\n\nde 10 de Julho\n\nAinda vigoram entre nós as normas do Código Comercial de 1888 que regulam a actuação do proprietário do navio e das principais figuras que, assumindo poderes de representação deste, ocupam lugar de destaque na actividade do navio e no relacionamento com os interessados na expedição marítima.\n\nTais normas, referentes a matéria que, de um modo geral, as convenções internacionais deixam às ordens jurídicas internas, não respondem adequadamente às exigências de uma realidade muito diversa surgida da evolução da técnica da navegação e dos correlativos sistemas de gestão e exploração dos navios.\n\nO presente diploma, revogando os artigos 492.º a 495.º e 509.º do Código Comercial, procura estabelecer uma linha que equilibre razoavelmente os vários aspectos em conjunto, com natural prevalência por soluções que melhor sirvam os actuais interesses de Portugal.\n\nAssim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o seguinte:"
+  },
+  "169035887": {
+   "fragment_id": "169035696",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições legais\n\nPara efeito do presente diploma, entende-se por:\n\na) Navio o engenho flutuante destinado à navegação por água;\n\nb) Proprietário do navio aquele que, nos termos da lei, goza de modo pleno e exclusivo dos direitos de uso, fruição e disposição do navio;\n\nc) Armador do navio aquele que, nos seu próprio interesse, procede ao armamento do navio;\n\nd) Armamento do navio o conjunto de actos jurídicos e materiais necessários para que o navio fique em condições de empreender viagem;\n\ne) Gestor de navio aquele que, contratualmente, foi encarregado pelo armador da prática de todos ou de parte dos actos referidos na alínea anterior;\n\nf) Agente de navegação aquele que, em representação do proprietário, do armador, do afretador ou do gestor, ou de alguns destes simultaneamente, se encarrega de despachar o navio em porto e das operações comerciais a que o mesmo se destina, bem como de assistir o capitão na prática dos actos jurídicos e materiais necessários à conservação do navio e à continuação da viagem;\n\ng) Afretador aquele que, tomando o navio de fretamento, fica a dispor dele mediante o pagamento de uma retribuição pecuniária, denominada «frete»;\n\nh) Fundo de limitação da responsabilidade o montante global a que o proprietário de um navio pode limitar a sua responsabilidade por danos causados a terceiros."
+  },
+  "169035888": {
+   "fragment_id": "169035697",
+   "type": 11,
+   "heading": "Artigo 2.º — Armador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Armador\n\n1 - Salvo prova em contrário, presume-se armador do navio:\n\na) O seu proprietário;\n\nb) O titular do segundo registo, havendo duplo registo;\n\nc) O afretador, no caso de fretamento em casco nu.\n\n2 - As prevenções referidas no número anterior só podem ser ilididas mediante prova de que aquele que as invoca sabe quem é o armador."
+  },
+  "169035889": {
+   "fragment_id": "169035698",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação do capitão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação do capitão\n\n1 - Compete ao armador designar o capitão do navio.\n\n2 - O armador pode despedir o capitão a todo o tempo, sem prejuízo dos direitos e obrigações decorrentes do contrato de trabalho."
+  },
+  "169035890": {
+   "fragment_id": "169035699",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade do proprietário armador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade do proprietário armador\n\n1 - O armador que seja proprietário do navio responde, independentemente de culpa, pelos danos derivados de actos e omissões:\n\na) Do capitão e da tripulação;\n\nb) Dos pilotos ou práticos tomados a bordo, ainda que o recurso ao piloto ou prático seja imposto por lei, regulamento ou uso;\n\nc) De qualquer outra pessoa ao serviço do navio.\n\n2 - São aplicáveis à responsabilidade prevista no número anterior as disposições da lei civil que regulam a responsabilidade do comitente pelos actos do comissário."
+  },
+  "169035891": {
+   "fragment_id": "169035700",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade do armador não proprietário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade do armador não proprietário\n\nO armador que não seja proprietário do navio responde, perante terceiros, nos mesmos termos do proprietário armador."
+  },
+  "169035892": {
+   "fragment_id": "169035701",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade do simples proprietário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade do simples proprietário\n\nO simples proprietário do navio responde subsidiariamente, perante terceiros, nos mesmos termos do proprietário armador, com sub-rogação total ou parcial nos direitos daqueles contra o armador."
+  },
+  "169035893": {
+   "fragment_id": "169035702",
+   "type": 11,
+   "heading": "Artigo 7.º — Responsabilidade pelos actos do gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Responsabilidade pelos actos do gestor\n\nO armador responde pelos actos do gestor relativos ao armamento do navio."
+  },
+  "169035894": {
+   "fragment_id": "169035703",
+   "type": 11,
+   "heading": "Artigo 8.º — Representação legal do proprietário e do armador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Representação legal do proprietário e do armador\n\n1 - Fora do local da sede do proprietário ou do armador, estes são representados, judicial e extrajudicialmente, pelo capitão do navio em tudo o que se relacionar com a expedição.\n\n2 - A representação prevista no número anterior não é afectada pela presença do proprietário, do armador ou de outros seus representantes."
+  },
+  "169035895": {
+   "fragment_id": "169035704",
+   "type": 11,
+   "heading": "Artigo 9.º — Agente de navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Agente de navegação\n\nA actividade do agente de navegação rege-se pelas disposições legais aplicáveis ao mandato com representação e, supletivamente, pelas disposições respeitantes ao contrato de agência."
+  },
+  "169035896": {
+   "fragment_id": "169035705",
+   "type": 11,
+   "heading": "Artigo 10.º — Citações e notificações judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Citações e notificações judiciais\n\nNos poderes do agente de navegação incluem-se sempre os de receber citações e notificações judiciais em representação dos proprietários, dos armadores e dos gestores dos navios cujo despacho o agente tenha requerido."
+  },
+  "169035897": {
+   "fragment_id": "169035706",
+   "type": 11,
+   "heading": "Artigo 11.º — Responsabilidade do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Responsabilidade do navio\n\n1 - Se o proprietário ou o armador não forem identificáveis com base no despacho de entrada da capitania, o navio responde, perante os credores interessados, nos mesmos termos em que aqueles responderiam.\n\n2 - Para efeitos do disposto no número anterior, é atribuída ao navio personalidade judiciária, cabendo a sua representação em juízo ao agente de navegação que requereu o despacho."
+  },
+  "169035898": {
+   "fragment_id": "169035707",
+   "type": 11,
+   "heading": "Artigo 12.º — Limites da responsabilidade do proprietário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Limites da responsabilidade do proprietário\n\nAlém das limitações da responsabilidade admitidas nos tratados e convenções internacionais vigentes em Portugal, e quando não estejam em causa pedidos de indemnização por estes abrangidos, o proprietário do navio pode restringir a sua responsabilidade ao navio e ao valor do frete a risco, abandonando-os aos credores, com vista à constituição de um fundo de limitação da responsabilidade."
+  },
+  "169035899": {
+   "fragment_id": "169035708",
+   "type": 11,
+   "heading": "Artigo 13.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo\n\nAplicam-se à limitação da responsabilidade prevista na segunda parte do artigo anterior, com as necessárias adaptações, as normas de processo relativas à limitação da responsabilidade referida na primeira parte do mesmo preceito, ressalvadas as alterações constantes dos artigos seguintes."
+  },
+  "169035900": {
+   "fragment_id": "169035709",
+   "type": 11,
+   "heading": "Artigo 14.º — Fundo de limitação da responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fundo de limitação da responsabilidade\n\n1 - A constituição do fundo de limitação da responsabilidade referido no artigo 12.º deve constar de requerimento em que se mencione:\n\na) O facto de que resultaram os prejuízos;\n\nb) O montante do frete a risco.\n\n2 - O requerimento deve ser acompanhado da relação dos credores conhecidos com direito a participar na repartição do fundo, indicando os respectivos domicílios e o montante dos seus créditos.\n\n3 - Não havendo lugar a indeferimento liminar, o juiz ordena que o requerente deposite o valor do frete a risco e que seja nomeado depositário para o navio.\n\n4 - Efectuado o depósito previsto no número anterior, é ordenada a venda judicial imediata do navio."
+  },
+  "169035901": {
+   "fragment_id": "169035710",
+   "type": 11,
+   "heading": "Artigo 15.º — Declaração de constituição do fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Declaração de constituição do fundo\n\nLogo que se mostre realizado o depósito do produto da venda do navio, o juiz declara constituído o fundo de limitação da responsabilidade."
+  },
+  "169035902": {
+   "fragment_id": "169035711",
+   "type": 11,
+   "heading": "Artigo 16.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prazo\n\nO requerimento a que se refere o n.º 1 do artigo 14.º deve ser apresentado até ao termo do prazo para contestação de acção fundada em crédito a que seja oponível a limitação de responsabilidade."
+  },
+  "169035903": {
+   "fragment_id": "169035712",
+   "type": 11,
+   "heading": "Artigo 17.º — Abandono do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Abandono do navio\n\n1 - Considera-se abandonado o navio que, encontrando-se na área de jurisdição dos tribunais portugueses, aí permaneça por um período superior a 30 dias, sem capitão ou quem desempenhe as correspondentes funções de comando e sem agente de navegação.\n\n2 - O navio deixa de ter agente de navegação a partir da data em que este notifique a capitania do porto respectivo de que cessou as suas funções.\n\n3 - O navio abandonado, nos termos do n.º 1, considera-se do património do Estado."
+  },
+  "169035904": {
+   "fragment_id": "169035713",
+   "type": 11,
+   "heading": "Artigo 18.º — Venda do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Venda do navio\n\n1 - O titular de crédito sobre navio abandonado ou de qualquer outro crédito de que seja devedor o seu anterior proprietário pode requerer a venda judicial do navio, desde que se encontre munido de título executivo ou tenha já proposto acção declarativa destinada a obtê-lo.\n\n2 - A venda a que se refere o número anterior rege-se pelas normas aplicáveis à venda antecipada em processo de execução.\n\n3 - Se o navio não tiver depositário nomeado, a sua nomeação deve ser pedida no requerimento a que se refere o n.º 1.\n\n4 - Efectuada a venda, seguem-se os demais termos do processo de execução.\n\n5 - O juiz pode fazer depender a venda antecipada da prestação de caução pelo requerente."
+  },
+  "169035905": {
+   "fragment_id": "169035714",
+   "type": 11,
+   "heading": "Artigo 19.º — Venda injustificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Venda injustificada\n\nSe o requerente da venda prevista no artigo anterior decair na acção declarativa, ou não agir com a diligência normal, é responsável pelos danos causados ao requerido."
+  },
+  "169035906": {
+   "fragment_id": "169035715",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nSão revogados os artigos 492.º a 495.º e 509.º do Código Comercial."
+  },
+  "169035907": {
+   "fragment_id": "169035716",
+   "type": 11,
+   "heading": "Artigo 21.º — Início de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Início de vigência\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "921945059": {
+   "fragment_id": "169035697",
+   "type": 11,
+   "heading": "Artigo 2.º — Armador",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 2.º — Armador\n\n1 - Salvo prova em contrário, presume-se armador do navio:\n\na) O seu proprietário;\n\nb) O titular do segundo registo, havendo duplo registo;\n\nc) O afretador, no caso de fretamento em casco nu.\n\n2 - As presunções referidas no número anterior só podem ser ilididas mediante prova de que aquele que as invoca sabe quem é o armador.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+  },
+  "921945060": {
+   "fragment_id": "169035709",
+   "type": 11,
+   "heading": "Artigo 14.º — Fundo de limitação da responsabilidade",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 14.º — Fundo de limitação da responsabilidade\n\n1 - A constituição do fundo de limitação da responsabilidade referido no artigo 12.º deve constar de requerimento em que se mencione:\n\na) O facto de que resultaram os prejuízos;\n\nb) O montante do frete a risco.\n\n2 - O requerimento deve ser acompanhado da relação dos credores conhecidos com direito a participar na repartição do fundo, indicando os respectivos domicílios e o montante dos seus créditos.\n\n3 - Não havendo lugar a indeferimento liminar, o juiz ordena que o requerente deposite o valor do frete a risco e nomeia depositário para o navio.\n\n4 - Efectuado o depósito previsto no número anterior, é ordenada a venda judicial imediata do navio.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+  },
+  "921945061": {
+   "fragment_id": "169035712",
+   "type": 11,
+   "heading": "Artigo 17.º — Abandono do navio",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 17.º — Abandono do navio\n\n1 - Considera-se abandonado o navio que, encontrando-se na área de jurisdição dos tribunais portugueses, aí permaneça, por um período superior a 30 dias, sem capitão ou quem desempenhe as correspondentes funções de comando e sem agente de navegação.\n\n2 - O navio deixa de ter agente de navegação a partir da data em que este notifique a capitania do porto respectivo de que cessou as suas funções.\n\n3 - O navio abandonado, nos termos do n.º 1, considera-se do património do Estado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+  },
+  "169035908": {
+   "fragment_id": "169035717",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 7 de Maio de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "922108028": {
+   "fragment_id": "169035712",
+   "type": 11,
+   "heading": "Artigo 17.º — Abandono do navio",
+   "in_force_from": "2005-03-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 64/2005 - Diário da República n.º 52/2005, Série I-A de 2005-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2005-573315), em vigor a partir de 2005-03-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 17.º — Abandono do navio\n\n1 - Considera-se abandonado o navio que, encontrando-se na área de jurisdição dos tribunais portugueses, aí permaneça, por um período superior a 30 dias, sem capitão ou quem desempenhe as correspondentes funções de comando e sem agente de navegação.\n\n2 - O navio deixa de ter agente de navegação a partir da data em que este notifique a capitania do porto respectivo de que cessou as suas funções.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 64/2005 - Diário da República n.º 52/2005, Série I-A de 2005-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2005-573315), em vigor a partir de 2005-03-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-Q/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-q-1998-182254), em vigor a partir de 1998-07-31"
+  }
+ }
+}

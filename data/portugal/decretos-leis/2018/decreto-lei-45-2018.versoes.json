@@ -1,0 +1,641 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115536002:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115536022",
+ "dre_path": "/dr/detalhe/decreto-lei/45-2018-115536002",
+ "source_lastmod": "2024-12-10",
+ "versions": [
+  {
+   "date": "2018-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1054961448",
+    "115531020",
+    "115531021",
+    "115531022",
+    "115531023",
+    "115531024",
+    "115531025",
+    "115531026",
+    "115531027",
+    "115531028",
+    "115531029",
+    "115531030",
+    "115531031",
+    "115531032",
+    "115531033",
+    "115531034",
+    "115531035",
+    "115531036",
+    "115531037"
+   ]
+  },
+  {
+   "date": "2021-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164712111:por",
+     "title": "Decreto-Lei n.º 44/2021",
+     "published": "2021-06-07",
+     "dre_path": "/dr/detalhe/decreto-lei/44-2021-164712111"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "115531019",
+    "115531020",
+    "115531021",
+    "115531022",
+    "899370988",
+    "899370989",
+    "899370990",
+    "115531026",
+    "115531027",
+    "899370991",
+    "115531029",
+    "115531030",
+    "115531031",
+    "115531032",
+    "115531033",
+    "115531034",
+    "115531035",
+    "115531036",
+    "115531037",
+    "115531038"
+   ]
+  },
+  {
+   "date": "2023-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864047:por",
+     "title": "Decreto-Lei n.º 139/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-2023-835864047"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "115531019",
+    "115531020",
+    "115531021",
+    "115531022",
+    "899370992",
+    "899370993",
+    "899370994",
+    "899370995",
+    "115531027",
+    "899370996",
+    "115531029",
+    "115531030",
+    "115531031",
+    "115531032",
+    "899370997",
+    "899370998",
+    "115531035",
+    "115531036",
+    "115531037",
+    "115531038"
+   ]
+  },
+  {
+   "date": "2026-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1053378382:por",
+     "title": "Decreto-Lei n.º 57/2026",
+     "published": "2026-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/57-2026-1053378382"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1054961448",
+    "1054961449",
+    "1054961450",
+    "1054961451",
+    "1054961452",
+    "1054961453",
+    "1054961454",
+    "1054961455",
+    "1054961456",
+    "1054961457",
+    "1054961458",
+    "1054961459",
+    "1054961460",
+    "1054961461",
+    "1054961462",
+    "1054961463",
+    "1054961464",
+    "1054961465",
+    "1054961466",
+    "1054961467"
+   ]
+  }
+ ],
+ "fragments": {
+  "1054961448": {
+   "fragment_id": "115536023",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-02-20",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 45/2018\n\nde 19 de junho\n\nO artigo 204.º da Lei n.º 114/2017, de 29 de dezembro, que aprovou o Orçamento do Estado para 2018, incumbe o Governo de constituir, junto do Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), um fundo que tem por objeto o apoio a ações, iniciativas e projetos que contribuam para o reforço do posicionamento de Portugal enquanto destino turístico, para a coesão do território, para a redução da sazonalidade e para a sustentabilidade no turismo, nomeadamente através do apoio à captação de grandes eventos internacionais e à captação de filmagens internacionais para Portugal, assim como através do desenvolvimento de instrumentos de engenharia financeira para apoio às empresas do turismo.\n\nO presente decreto-lei procede à criação do referido fundo, por via da articulação dos meios de intervenção do Turismo de Portugal, I. P., e do Instituto do Cinema e do Audiovisual, I. P., entidades às quais é confiada, em estreita colaboração, a gestão de um novo regime de apoio à produção cinematográfica e audiovisual e à captação de filmagens internacionais para Portugal. Procura-se valorizar a imagem do território e dos recursos nacionais e, simultaneamente, ir ao encontro dos objetivos de política cinematográfica e audiovisual enquanto atividade cultural, e das normas da União Europeia nesta matéria com relevância cultural e promocional.\n\nConsequentemente, no uso da competente autorização legislativa, procede-se à revogação do benefício fiscal à produção cinematográfica previsto no artigo 59.º-F do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual, da alínea h) do n.º 2 do artigo 92.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual, do Decreto-Lei n.º 22/2017, de 22 de fevereiro, e da Portaria n.º 89-A/2017, de 19 de abril.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 330.º da Lei n.º 114/2017, de 29 de dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115531020": {
+   "fragment_id": "115536024",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e natureza jurídica\n\n1 - O presente decreto-lei cria o Fundo de Apoio ao Turismo e ao Cinema, abreviadamente designado por Fundo, que tem a natureza de património autónomo sem personalidade jurídica, com autonomia administrativa, financeira e patrimonial e capacidade judiciária.\n\n2 - O Fundo é representado pelo Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.)."
+  },
+  "115531021": {
+   "fragment_id": "115536025",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO Fundo destina-se a apoiar ações, iniciativas e projetos que contribuam para o reforço do posicionamento do país enquanto destino turístico, para a coesão do território, para a redução da sazonalidade e para a sustentabilidade no turismo, através de:\n\na) Incentivo à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal, com um propósito de valorização e promoção da imagem do território e do país e em harmonia com os objetivos de política cinematográfica e audiovisual enquanto atividade cultural;\n\nb) Captação de grandes eventos internacionais;\n\nc) Criação e reforço de instrumentos de financiamento de pequenas e médias empresas privadas do setor do turismo, através de mecanismos de inovação financeira."
+  },
+  "115531022": {
+   "fragment_id": "115536026",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrumentos de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instrumentos de financiamento\n\n1 - A prossecução dos objetivos do Fundo concretiza-se através dos seguintes instrumentos de financiamento:\n\na) Concessão de apoios à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal, em articulação com o Instituto do Cinema e do Audiovisual, I. P. (ICA, I. P.), ao abrigo da portaria a que se refere o n.º 2 do artigo 5.º;\n\nb) Apoio à realização de grandes eventos internacionais ou na participação em entidades que os promovam, observado o disposto no número seguinte e em condições a estabelecer em regulamento próprio a aprovar por portaria do membro do Governo responsável pela área do turismo;\n\nc) Concessão de apoios a programas de reforço do posicionamento de Portugal enquanto destino turístico, de reforço da coesão do território ou de redução da sazonalidade, aprovados pelo membro do Governo responsável pela área do turismo;\n\nd) Reforço dos instrumentos de financiamento das empresas do setor do turismo, nomeadamente através de:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos de sindicação de capital de risco e fundos de investimento imobiliário, bem como por organismos de investimento alternativo em valores mobiliários e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Participação em instrumentos convertíveis de capital e dívida;\n\niii) Financiamento de empresas e investidores em fase de seed, start-up e early stages, para a participação em capital ou em instrumentos convertíveis em capital de risco em caso de sucesso;\n\niv) Constituição ou reforço de linhas de crédito especiais, incluindo aquelas criadas em parceria com o sistema financeiro.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o Fundo fica autorizado a tomar partes de capital ou a participar, sob qualquer outra forma, em entidades públicas ou privadas, bem como a converter apoios reembolsáveis em apoios não reembolsáveis em função do cumprimento de metas contratualmente definidas, na componente financiada por reembolsos de beneficiários de fundos europeus."
+  },
+  "115531023": {
+   "fragment_id": "115536027",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O capital inicial do Fundo é fixado em 30 milhões de euros, podendo atingir posteriormente até 50 milhões de euros, integralmente realizado pelo Turismo de Portugal, I. P., com recursos do respetivo saldo de gerência, incluindo 20 milhões de euros provenientes de reembolsos de beneficiários de fundos europeus.\n\n2 - O capital inicial do Fundo é afetado nos termos seguintes:\n\na) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus, são aplicados nas ações a que se refere a alínea a) do n.º 1 do artigo anterior, sem prejuízo do disposto no n.º 4 do artigo 5.º;\n\nb) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus são aplicados nas ações a que se referem as alíneas b) a d) do n.º 1 do artigo anterior;\n\nc) 10 milhões de euros são aplicados exclusivamente ao instrumento previsto na subalínea iv) da alínea d) do n.º 1 do artigo anterior, através de empréstimos integralmente reembolsáveis.\n\n3 - O montante previsto nos números anteriores pode ser reforçado em mais 20 milhões de euros entre 2018 e 2020, em função da sua execução e da avaliação do seu impacto, através da aplicação de saldos de gerência do Turismo de Portugal, I. P., e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas do turismo e das finanças.\n\n4 - O reforço previsto no número anterior é autorizado no prazo de 30 dias úteis após a receção do pedido de aplicação de saldos de gerência.\n\n5 - Os saldos de gerência transitam para o ano económico subsequente."
+  },
+  "115531024": {
+   "fragment_id": "115536028",
+   "type": 11,
+   "heading": "Artigo 5.º — Incentivo à produção cinematográfica e audiovisual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Incentivo à produção cinematográfica e audiovisual\n\n1 - O programa de incentivo à produção cinematográfica e audiovisual com relevância cultural e promocional e captação de filmagens internacionais para Portugal é um regime de apoio a fundo perdido, subordinado ao preenchimento de requisitos culturais e cinematográfico-audiovisuais, indexado à despesa de produção em território nacional, compatível com as normas da União Europeia nesta matéria.\n\n2 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura e do turismo, são definidas as tipologias e intensidades dos apoios a conceder, condições de elegibilidade e demais requisitos que as candidaturas devem observar, as obrigações dos beneficiários e, sem prejuízo do disposto nos números seguintes, os termos da articulação entre as entidades responsáveis pela gestão dos apoios.\n\n3 - Sem prejuízo dos objetivos do programa de incentivo à produção cinematográfica e audiovisual, parte do montante previsto para as ações a que se refere a alínea a) do n.º 2 do artigo anterior pode ser utilizado para a organização de ações de promoção do incentivo e de visitas de prospeção a Portugal, nos termos a definir pela portaria prevista no número anterior.\n\n4 - Para efeitos do presente artigo, o Fundo pode ser reforçado anualmente com recurso a saldos de gerência de reembolsos de beneficiários de fundos europeus do Turismo de Portugal, I. P., no valor correspondente à diferença entre 12 milhões de euros e o saldo transitado associado à despesa prevista na alínea a) do n.º 2 do artigo anterior, por exercício, de 2019 a 2022, para aplicação exclusiva na despesa a realizar com incentivos à produção cinematográfica e audiovisual.\n\n5 - O limite previsto no número anterior pode ser aumentado através de portaria dos membros do governo responsáveis pelas áreas das finanças, cultura e turismo, até ao limite previsto na alínea a) do n.º 1 do artigo 4.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014.\n\n6 - Os apoios são concedidos por decisão conjunta do ICA, I. P., e do Turismo de Portugal, I. P., nos termos da portaria a que se refere o n.º 2."
+  },
+  "115531025": {
+   "fragment_id": "115536029",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\nAs receitas do Fundo são asseguradas por:\n\na) Receitas de saldos de gerência do Turismo de Portugal, I. P., até ao limite de 50 milhões de euros, conforme previsto no n.º 1 do artigo 4.º;\n\nb) Receitas decorrentes da aplicação dos recursos do Fundo;\n\nc) Quaisquer outros meios financeiros que lhe venham a ser atribuídos pelo Estado, entidades públicas e privadas."
+  },
+  "115531026": {
+   "fragment_id": "115536030",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo as despesas de gestão, o apoio técnico e o apoio administrativo."
+  },
+  "115531027": {
+   "fragment_id": "115536031",
+   "type": 11,
+   "heading": "Artigo 8.º — Condução estratégica do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condução estratégica do Fundo\n\n1 - A condução estratégica do Fundo cabe ao membro do Governo responsável pela área do turismo.\n\n2 - A condução estratégica do Fundo concretiza-se através de orientações gerais e específicas, em qualquer domínio de ação do Fundo, sendo estas orientações vinculativas da atuação no quadro da gestão do Fundo."
+  },
+  "115531028": {
+   "fragment_id": "115536032",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão do Fundo\n\n1 - A gestão do Fundo cabe ao Turismo de Portugal, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas do membro do Governo responsável pela área do turismo, nos termos do artigo anterior, sem acréscimo de remuneração.\n\n2 - Compete ao conselho diretivo do Turismo de Portugal, I. P., no âmbito da gestão do Fundo, exercer todos os direitos relacionados com os bens do Fundo e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Autorizar a concessão de empréstimos e subvenções pelo Fundo no âmbito da prossecução das suas finalidades;\n\nb) Autorizar a utilização dos saldos do Fundo com origem em reembolsos de beneficiários de fundos europeus, nos seguintes termos:\n\ni) O saldo transitado referido no n.º 4 do artigo 5.º, até ao máximo anual de 12 milhões de euros, para aplicação na despesa prevista na alínea a) do n.º 1 do artigo 3.º;\n\nii) O saldo transitado do montante previsto na alínea b) do n.º 2 do artigo 4.º, até ao máximo anual de 10 milhões de euros, para aplicação na despesa prevista na alínea b) do n.º 1 do artigo 3.º;\n\nc) Autorizar as despesas a assumir pelo Fundo na celebração de contratos, desde que enquadradas nas dotações previstas até 2022, equiparando o Fundo ao mesmo regime de que beneficia o Turismo de Portugal, I. P.;\n\nd) Aprovar a distribuição de recursos a diferentes instrumentos de financiamento;\n\ne) Deliberar sobre a aplicação das disponibilidades do Fundo;\n\nf) Elaborar anualmente o plano de atividades, o orçamento, o relatório de atividade e as contas do exercício;\n\ng) Assegurar a contabilização dos fluxos financeiros referentes ao Fundo, bem como a identificação da respetiva origem e a correta segregação e afetação dos mesmos aos fins a que se destinam;\n\nh) Estabelecer um sistema de controlo interno para a prevenção, deteção e correção de irregularidades.\n\n3 - Para efeitos do disposto na subalínea ii) da alínea b) do número anterior, fica autorizada a aplicação em despesa dos saldos até que a execução acumulada de despesa na referida subalínea entre 2018 e anos seguintes atinja 10 milhões de euros.\n\n4 - O conselho diretivo do Turismo de Portugal, I. P., pode delegar poderes de gestão do Fundo em dirigentes de unidades orgânicas daquele instituto, não implicando tal delegação um aumento de despesa."
+  },
+  "115531029": {
+   "fragment_id": "115536033",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho Consultivo\n\n1 - O Fundo tem um Conselho Consultivo, presidido por um representante do Turismo de Portugal, I. P., que integra:\n\na) Um representante a designar pelo ICA, I. P.;\n\nb) Um representante a designar pelo Ministério das Finanças;\n\nc) Um representante de quaisquer outras entidades, públicas ou privadas, uma individualidade de reconhecido mérito, a designar por despacho dos membros do Governo responsáveis pelas áreas da cultura e do turismo, em razão da respetiva competência.\n\n2 - Compete ao Conselho Consultivo:\n\na) Acompanhar a administração do Fundo;\n\nb) Formular propostas para a criação de novos instrumentos de apoio ou de alteração dos instrumentos de apoio;\n\nc) Emitir parecer sobre o plano de atividades, o orçamento, o relatório de atividade e as contas do exercício do Fundo;\n\nd) Emitir parecer sobre quaisquer outras matérias relativas à atividade do Fundo, a solicitação do conselho diretivo do Turismo de Portugal, I. P.\n\n3 - O Conselho Consultivo reúne ordinariamente duas vezes por ano e sempre que para tanto for convocado pelo respetivo presidente, por iniciativa própria ou a pedido de qualquer dos seus membros.\n\n4 - Os membros do Conselho Consultivo não auferem quaisquer remunerações pelo exercício das suas funções."
+  },
+  "115531030": {
+   "fragment_id": "115536034",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio técnico e operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio técnico e operacional\n\nO apoio técnico e operacional ao Fundo é prestado pelos serviços do Turismo de Portugal, I. P."
+  },
+  "115531031": {
+   "fragment_id": "115536035",
+   "type": 11,
+   "heading": "Artigo 12.º — Regras específicas de gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regras específicas de gestão orçamental\n\nSem prejuízo da previsão no decreto-lei de execução orçamental de um regime simplificado de prestação de informação relativamente ao Fundo, o mesmo rege-se por um regime especial de controlo da execução orçamental, nos seguintes termos:\n\na) No que se refere a despesas com ativos financeiros e financiadas por fundos europeus, não está sujeito às regras relativas a:\n\ni) Cabimentação da despesa;\n\nii) Alterações orçamentais, com exceção das que envolvam a diminuição do saldo global, as que envolvam o reforço, a inscrição ou anulação de dotações relativas a ativos ou passivos financeiros, ou que respeitem a descativações, dotação provisional ou outras dotações centralizadas;\n\niii) Transição de saldos;\n\niv) Assunção de encargos plurianuais;\n\nb) Não está sujeito às regras relativas a:\n\ni) Fundos de maneio;\n\nii) Adoção do Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP);\n\niii) Prazos para autorização de pagamentos e cobrança de receita;\n\niv) Previsões mensais de execução, exceto a previsão inicial;\n\nv) Registo de informação sobre fundos disponíveis, contas a pagar e pagamentos em atraso."
+  },
+  "115531032": {
+   "fragment_id": "115536036",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano de contas\n\n1 - O plano de contas do Fundo é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador.\n\n2 - O Fundo não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, que prevê o SNC-AP, exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas."
+  },
+  "115531033": {
+   "fragment_id": "115536037",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscal único\n\nA fiscalização da atividade do Fundo é assegurada por fiscal único, que exerce as competências previstas na lei para a fiscalização dos institutos públicos, com as devidas adaptações."
+  },
+  "115531034": {
+   "fragment_id": "115536038",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afetos, apurados após a respetiva liquidação, é determinado por despacho do membro do Governo responsável pela área do turismo."
+  },
+  "115531035": {
+   "fragment_id": "115536039",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime transitório aplicável ao incentivo à produção cinematográfica e audiovisual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime transitório aplicável ao incentivo à produção cinematográfica e audiovisual\n\nO incentivo à produção cinematográfica e audiovisual estabelecido no presente decreto-lei é aplicável:\n\na) Aos projetos que não tenham sido concluídos até 31 de dezembro de 2017, na parte das despesas elegíveis incorridas a partir de 1 de janeiro de 2018, desde que reconhecidas pelo ICA, I. P., e pelo Turismo de Portugal, I. P.;\n\nb) Aos projetos entregues a partir de 1 de janeiro de 2018, independentemente de terem sido objeto de admissão ao benefício do incentivo."
+  },
+  "115531036": {
+   "fragment_id": "115536040",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 59.º-F do Estatuto dos Benefícios Fiscais, aprovado através do Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual;\n\nb) A alínea h) do artigo 92.º do Código do IRC, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual;\n\nc) O Decreto-Lei n.º 22/2017, de 22 de fevereiro;\n\nd) A Portaria n.º 89-A/2017, de 19 de abril."
+  },
+  "115531037": {
+   "fragment_id": "115536041",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115531019": {
+   "fragment_id": "115536023",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 45/2018\n\nde 19 de junho\n\nO artigo 204.º da Lei n.º 114/2017, de 29 de dezembro, que aprovou o Orçamento do Estado para 2018, incumbe o Governo de constituir, junto do Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), um fundo que tem por objeto o apoio a ações, iniciativas e projetos que contribuam para o reforço do posicionamento de Portugal enquanto destino turístico, para a coesão do território, para a redução da sazonalidade e para a sustentabilidade no turismo, nomeadamente através do apoio à captação de grandes eventos internacionais e à captação de filmagens internacionais para Portugal, assim como através do desenvolvimento de instrumentos de engenharia financeira para apoio às empresas do turismo.\n\nO presente decreto-lei procede à criação do referido fundo, por via da articulação dos meios de intervenção do Turismo de Portugal, I. P., e do Instituto do Cinema e do Audiovisual, I. P., entidades às quais é confiada, em estreita colaboração, a gestão de um novo regime de apoio à produção cinematográfica e audiovisual e à captação de filmagens internacionais para Portugal. Procura-se valorizar a imagem do território e dos recursos nacionais e, simultaneamente, ir ao encontro dos objetivos de política cinematográfica e audiovisual enquanto atividade cultural, e das normas da União Europeia nesta matéria com relevância cultural e promocional.\n\nConsequentemente, no uso da competente autorização legislativa, procede-se à revogação do benefício fiscal à produção cinematográfica previsto no artigo 59.º-F do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual, da alínea h) do n.º 2 do artigo 92.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual, do Decreto-Lei n.º 22/2017, de 22 de fevereiro, e da Portaria n.º 89-A/2017, de 19 de abril.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 330.º da Lei n.º 114/2017, de 29 de dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "899370988": {
+   "fragment_id": "115536027",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O capital inicial do Fundo é fixado em 30 milhões de euros, integralmente realizado pelo Turismo de Portugal, I. P., sem prejuízo dos reforços a que se refere o n.º 3 do presente artigo e o n.º 4 do artigo seguinte.\n\n2 - O capital inicial do Fundo é afetado nos termos seguintes:\n\na) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus, são aplicados nas ações a que se refere a alínea a) do n.º 1 do artigo anterior, sem prejuízo do disposto no n.º 4 do artigo 5.º;\n\nb) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus são aplicados nas ações a que se referem as alíneas b) a d) do n.º 1 do artigo anterior;\n\nc) 10 milhões de euros são aplicados exclusivamente ao instrumento previsto na subalínea iv) da alínea d) do n.º 1 do artigo anterior, através de empréstimos integralmente reembolsáveis.\n\n3 - O montante previsto nos números anteriores pode ser reforçado em mais 20 milhões de euros entre 2018 e 2020, em função da sua execução e da avaliação do seu impacto, através da aplicação de saldos de gerência do Turismo de Portugal, I. P., e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas do turismo e das finanças.\n\n4 - O reforço previsto no número anterior é autorizado no prazo de 30 dias úteis após a receção do pedido de aplicação de saldos de gerência.\n\n5 - Os saldos de gerência transitam para o ano económico subsequente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370989": {
+   "fragment_id": "115536028",
+   "type": 11,
+   "heading": "Artigo 5.º — Incentivo à produção cinematográfica e audiovisual",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 5.º — Incentivo à produção cinematográfica e audiovisual\n\n1 - O programa de incentivo à produção cinematográfica e audiovisual com relevância cultural e promocional e captação de filmagens internacionais para Portugal é um regime de apoio a fundo perdido, subordinado ao preenchimento de requisitos culturais e cinematográfico-audiovisuais, indexado à despesa de produção em território nacional, compatível com as normas da União Europeia nesta matéria.\n\n2 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura e do turismo, são definidas as tipologias e intensidades dos apoios a conceder, condições de elegibilidade e demais requisitos que as candidaturas devem observar, as obrigações dos beneficiários e, sem prejuízo do disposto nos números seguintes, os termos da articulação entre as entidades responsáveis pela gestão dos apoios.\n\n3 - Sem prejuízo dos objetivos do programa de incentivo à produção cinematográfica e audiovisual, parte do montante previsto para as ações a que se refere a alínea a) do n.º 2 do artigo anterior pode ser utilizado para a organização de ações de promoção do incentivo e de visitas de prospeção a Portugal, nos termos a definir pela portaria prevista no número anterior.\n\n4 - Para efeitos do presente artigo, o Fundo pode ser reforçado anualmente com recurso a saldos de gerência de reembolsos de beneficiários de fundos europeus do Turismo de Portugal, I. P., no valor correspondente à diferença entre 12 milhões de euros e o saldo transitado associado à despesa prevista na alínea a) do n.º 2 do artigo anterior, por exercício, de 2019 a 2023, para aplicação exclusiva na despesa a realizar com incentivos à produção cinematográfica e audiovisual.\n\n5 - O limite previsto no número anterior pode ser aumentado através de portaria dos membros do governo responsáveis pelas áreas das finanças, cultura e turismo, até ao limite previsto na alínea a) do n.º 1 do artigo 4.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014.\n\n6 - Os apoios são concedidos por decisão conjunta do ICA, I. P., e do Turismo de Portugal, I. P., nos termos da portaria a que se refere o n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370990": {
+   "fragment_id": "115536029",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\nAs receitas do Fundo são asseguradas por:\n\na) Receitas de saldos de gerência do Turismo de Portugal, I. P., conforme previsto no n.º 1 do artigo 4.º;\n\nb) Receitas decorrentes da aplicação dos recursos do Fundo;\n\nc) Quaisquer outros meios financeiros que lhe venham a ser atribuídos pelo Estado, entidades públicas e privadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370991": {
+   "fragment_id": "115536032",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do Fundo",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 9.º — Gestão do Fundo\n\n1 - A gestão do Fundo cabe ao Turismo de Portugal, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas do membro do Governo responsável pela área do turismo, nos termos do artigo anterior, sem acréscimo de remuneração.\n\n2 - Compete ao conselho diretivo do Turismo de Portugal, I. P., no âmbito da gestão do Fundo, exercer todos os direitos relacionados com os bens do Fundo e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Autorizar a concessão de empréstimos e subvenções pelo Fundo no âmbito da prossecução das suas finalidades;\n\nb) Autorizar a utilização dos saldos do Fundo com origem em reembolsos de beneficiários de fundos europeus, nos seguintes termos:\n\ni) O saldo transitado referido no n.º 4 do artigo 5.º, até ao máximo anual de 12 milhões de euros, para aplicação na despesa prevista na alínea a) do n.º 1 do artigo 3.º;\n\nii) O saldo transitado do montante previsto na alínea b) do n.º 2 do artigo 4.º, até ao máximo anual de 10 milhões de euros, para aplicação na despesa prevista na alínea b) do n.º 1 do artigo 3.º;\n\nc) Autorizar as despesas a assumir pelo Fundo na celebração de contratos, desde que enquadradas nas dotações previstas até 2023, equiparando o Fundo ao mesmo regime de que beneficia o Turismo de Portugal, I.\n\nd) Aprovar a distribuição de recursos a diferentes instrumentos de financiamento;\n\ne) Deliberar sobre a aplicação das disponibilidades do Fundo;\n\nf) Elaborar anualmente o plano de atividades, o orçamento, o relatório de atividade e as contas do exercício;\n\ng) Assegurar a contabilização dos fluxos financeiros referentes ao Fundo, bem como a identificação da respetiva origem e a correta segregação e afetação dos mesmos aos fins a que se destinam;\n\nh) Estabelecer um sistema de controlo interno para a prevenção, deteção e correção de irregularidades.\n\n3 - Para efeitos do disposto na subalínea ii) da alínea b) do número anterior, fica autorizada a aplicação em despesa dos saldos até que a execução acumulada de despesa na referida subalínea entre 2018 e anos seguintes atinja 10 milhões de euros.\n\n4 - O conselho diretivo do Turismo de Portugal, I. P., pode delegar poderes de gestão do Fundo em dirigentes de unidades orgânicas daquele instituto, não implicando tal delegação um aumento de despesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "115531038": {
+   "fragment_id": "115536042",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de março de 2018. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Luís Filipe Carrilho de Castro Mendes - Manuel de Herédia Caldeira Cabral.\n\nPromulgado em 7 de junho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 8 de junho de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111417747"
+  },
+  "899370992": {
+   "fragment_id": "115536027",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O capital inicial do Fundo é fixado em 30 milhões de euros, integralmente realizado pelo Turismo de Portugal, I. P., sem prejuízo dos reforços a que se refere o n.º 3 do presente artigo e dos reforços anuais previstos no n.º 4 do artigo seguinte.\n\n2 - O capital inicial do Fundo é afetado nos termos seguintes:\n\na) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus, são aplicados nas ações a que se refere a alínea a) do n.º 1 do artigo anterior, sem prejuízo do disposto no n.º 4 do artigo 5.º;\n\nb) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus são aplicados nas ações a que se referem as alíneas b) a d) do n.º 1 do artigo anterior;\n\nc) 10 milhões de euros são aplicados exclusivamente ao instrumento previsto na subalínea iv) da alínea d) do n.º 1 do artigo anterior, através de empréstimos integralmente reembolsáveis.\n\n3 - O montante previsto nos números anteriores pode ser reforçado em mais 20 milhões de euros entre 2018 e 2020, em função da sua execução e da avaliação do seu impacto, através da aplicação de saldos de gerência do Turismo de Portugal, I. P., e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas do turismo e das finanças.\n\n4 - O reforço previsto no número anterior é autorizado no prazo de 30 dias úteis após a receção do pedido de aplicação de saldos de gerência.\n\n5 - Os saldos de gerência transitam para o ano económico subsequente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370993": {
+   "fragment_id": "115536028",
+   "type": 11,
+   "heading": "Artigo 5.º — Incentivo à produção cinematográfica e audiovisual",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 5.º — Incentivo à produção cinematográfica e audiovisual\n\n1 - O programa de incentivo à produção cinematográfica e audiovisual com relevância cultural e promocional e captação de filmagens internacionais para Portugal é um regime de apoio a fundo perdido, subordinado ao preenchimento de requisitos culturais e cinematográfico-audiovisuais, indexado à despesa de produção em território nacional, compatível com as normas da União Europeia nesta matéria.\n\n2 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura e do turismo, são definidas as tipologias e intensidades dos apoios a conceder, condições de elegibilidade e demais requisitos que as candidaturas devem observar, as obrigações dos beneficiários e, sem prejuízo do disposto nos números seguintes, os termos da articulação entre as entidades responsáveis pela gestão dos apoios.\n\n3 - Sem prejuízo dos objetivos do programa de incentivo à produção cinematográfica e audiovisual, parte do montante previsto para as ações a que se refere a alínea a) do n.º 2 do artigo anterior pode ser utilizado para a organização de ações de promoção do incentivo e de visitas de prospeção a Portugal, nos termos a definir pela portaria prevista no número anterior.\n\n4 - Para efeitos do presente artigo, o Fundo pode ser reforçado, anualmente, até 2026, para aplicação exclusiva na despesa a realizar com incentivos à produção cinematográfica e audiovisual, com recurso a:\n\na) Saldos de gerência do programa orçamental da economia, designadamente de reembolsos de beneficiários de fundos europeus do Turismo de Portugal, I. P., até ao valor máximo de (euro) 12 000 000,00;\n\nb) Transferências do programa orçamental da cultura, até ao valor máximo de (euro) 2 000 000,00;\n\nc) Outros montantes que lhe possam ser afetos, nos termos da lei.\n\n5 - O limite previsto no número anterior pode ser aumentado através de portaria dos membros do governo responsáveis pelas áreas das finanças, cultura e turismo, até ao limite previsto na alínea a) do n.º 1 do artigo 4.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014.\n\n6 - Os apoios são concedidos por decisão conjunta do ICA, I. P., e do Turismo de Portugal, I. P., nos termos da portaria a que se refere o n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370994": {
+   "fragment_id": "115536029",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\nAs receitas do Fundo são asseguradas por:\n\na) Receitas de saldos de gerência do Turismo de Portugal, I. P., conforme previsto no n.º 1 do artigo 4.º;\n\nb) Receitas decorrentes da aplicação dos recursos do Fundo;\n\nc) Transferências do programa orçamental da cultura, nos termos previstos na alínea b) do n.º 4 do artigo anterior;\n\nd) Quaisquer outros meios financeiros que lhe venham a ser atribuídos pelo Estado, entidades públicas e privadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370995": {
+   "fragment_id": "115536030",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo as despesas de gestão, o apoio técnico e o apoio administrativo.\n\n2 - Constituem ainda despesas do Fundo as entregas ao Turismo de Portugal, I. P., dos reembolsos recebidos decorrentes dos instrumentos de financiamento previstos na alínea d) do n.º 1 do artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+  },
+  "899370996": {
+   "fragment_id": "115536032",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do Fundo",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 9.º — Gestão do Fundo\n\n1 - A gestão do Fundo cabe ao Turismo de Portugal, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas do membro do Governo responsável pela área do turismo, nos termos do artigo anterior, sem acréscimo de remuneração.\n\n2 - Compete ao conselho diretivo do Turismo de Portugal, I. P., no âmbito da gestão do Fundo, exercer todos os direitos relacionados com os bens do Fundo e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Autorizar a concessão de empréstimos e subvenções pelo Fundo no âmbito da prossecução das suas finalidades;\n\nb) Autorizar a utilização dos saldos do Fundo, nos seguintes termos:\n\ni) O saldo transitado referido na alínea a) do n.º 4 do artigo 5.º, para aplicação na despesa prevista na alínea a) do n.º 1 do artigo 3.º;\n\nii) O saldo transitado do montante previsto na alínea b) do n.º 2 do artigo 4.º, até ao máximo anual de 10 milhões de euros, para aplicação na despesa prevista na alínea b) do n.º 1 do artigo 3.º;\n\nc) Autorizar as despesas a assumir pelo Fundo na celebração de contratos, desde que enquadradas nas dotações previstas até 2026, equiparando o Fundo ao mesmo regime de que beneficia o Turismo de Portugal, I. P.;\n\nd) Aprovar a distribuição de recursos a diferentes instrumentos de financiamento;\n\ne) Deliberar sobre a aplicação das disponibilidades do Fundo;\n\nf) Elaborar anualmente o plano de atividades, o orçamento, o relatório de atividade e as contas do exercício;\n\ng) Assegurar a contabilização dos fluxos financeiros referentes ao Fundo, bem como a identificação da respetiva origem e a correta segregação e afetação dos mesmos aos fins a que se destinam;\n\nh) Estabelecer um sistema de controlo interno para a prevenção, deteção e correção de irregularidades.\n\n3 - Para efeitos do disposto na subalínea ii) da alínea b) do número anterior, fica autorizada a aplicação em despesa dos saldos até que a execução acumulada de despesa na referida subalínea entre 2018 e anos seguintes atinja 10 milhões de euros.\n\n4 - O conselho diretivo do Turismo de Portugal, I. P., pode delegar poderes de gestão do Fundo em dirigentes de unidades orgânicas daquele instituto, não implicando tal delegação um aumento de despesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "899370997": {
+   "fragment_id": "115536037",
+   "type": 11,
+   "heading": "Artigo 14.º — Revisor oficial de contas",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 14.º — Revisor oficial de contas\n\n1 - A fiscalização da atividade do Fundo é assegurada por um revisor oficial de contas (ROC) designado de entre os revisores oficiais de contas registados junto da Comissão do Mercado de Valores Mobiliários.\n\n2 - O mandato do ROC tem a duração de três anos e é renovável por uma única vez, por igual período.\n\n3 - O ROC fiscaliza a gestão do Fundo, devendo emitir pareceres sobre relatórios e contas da atividade do Fundo, os planos financeiros e os orçamentos anuais.\n\n4 - As despesas com o ROC são suportadas pelo Fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+  },
+  "899370998": {
+   "fragment_id": "115536038",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção do Fundo",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 15.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros afetos ao Fundo, apurados após a respetiva liquidação e ponderada a origem dos mesmos, é determinado por despacho do membro do Governo responsável pelo turismo, ouvido o membro do Governo responsável pela área da cultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+  },
+  "1054961449": {
+   "fragment_id": "115536024",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e natureza jurídica",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e natureza jurídica\n\n1 - O presente decreto-lei cria o Fundo de Apoio ao Turismo e ao Cinema, abreviadamente designado por Fundo, que tem a natureza de património autónomo sem personalidade jurídica, com autonomia administrativa, financeira e patrimonial e capacidade judiciária.\n\n2 - O Fundo é representado pelo Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.).\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961450": {
+   "fragment_id": "115536025",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO Fundo destina-se a apoiar ações, iniciativas e projetos que contribuam para o reforço do posicionamento do país enquanto destino turístico, para a coesão do território, para a redução da sazonalidade e para a sustentabilidade no turismo, através de:\n\na) Incentivo à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal, com um propósito de valorização e promoção da imagem do território e do país e em harmonia com os objetivos de política cinematográfica e audiovisual enquanto atividade cultural;\n\nb) Captação de grandes eventos internacionais;\n\nc) Criação e reforço de instrumentos de financiamento de pequenas e médias empresas privadas do setor do turismo, através de mecanismos de inovação financeira.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961451": {
+   "fragment_id": "115536026",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrumentos de financiamento",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 3.º — Instrumentos de financiamento\n\n1 - A prossecução dos objetivos do Fundo concretiza-se através dos seguintes instrumentos de financiamento:\n\na) Concessão de apoios à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal, em articulação com o Instituto do Cinema e do Audiovisual, I. P. (ICA, I. P.), ao abrigo da portaria a que se refere o n.º 2 do artigo 5.º;\n\nb) Apoio à realização de grandes eventos internacionais ou na participação em entidades que os promovam, observado o disposto no número seguinte e em condições a estabelecer em regulamento próprio a aprovar por portaria do membro do Governo responsável pela área do turismo;\n\nc) Concessão de apoios a programas de reforço do posicionamento de Portugal enquanto destino turístico, de reforço da coesão do território ou de redução da sazonalidade, aprovados pelo membro do Governo responsável pela área do turismo;\n\nd) Reforço dos instrumentos de financiamento das empresas do setor do turismo, nomeadamente através de:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos de sindicação de capital de risco e fundos de investimento imobiliário, bem como por organismos de investimento alternativo em valores mobiliários e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Participação em instrumentos convertíveis de capital e dívida;\n\niii) Financiamento de empresas e investidores em fase de seed, start-up e early stages, para a participação em capital ou em instrumentos convertíveis em capital de risco em caso de sucesso;\n\niv) Constituição ou reforço de linhas de crédito especiais, incluindo aquelas criadas em parceria com o sistema financeiro.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o Fundo fica autorizado a tomar partes de capital ou a participar, sob qualquer outra forma, em entidades públicas ou privadas, bem como a converter apoios reembolsáveis em apoios não reembolsáveis em função do cumprimento de metas contratualmente definidas, na componente financiada por reembolsos de beneficiários de fundos europeus.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961452": {
+   "fragment_id": "115536027",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O capital inicial do Fundo é fixado em 30 milhões de euros, integralmente realizado pelo Turismo de Portugal, I. P., sem prejuízo dos reforços a que se refere o n.º 3 do presente artigo e dos reforços anuais previstos no n.º 4 do artigo seguinte.\n\n2 - O capital inicial do Fundo é afetado nos termos seguintes:\n\na) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus, são aplicados nas ações a que se refere a alínea a) do n.º 1 do artigo anterior, sem prejuízo do disposto no n.º 4 do artigo 5.º;\n\nb) 10 milhões de euros, financiados por saldos de reembolsos de beneficiários de fundos europeus são aplicados nas ações a que se referem as alíneas b) a d) do n.º 1 do artigo anterior;\n\nc) 10 milhões de euros são aplicados exclusivamente ao instrumento previsto na subalínea iv) da alínea d) do n.º 1 do artigo anterior, através de empréstimos integralmente reembolsáveis.\n\n3 - O montante previsto nos números anteriores pode ser reforçado em mais 20 milhões de euros entre 2018 e 2020, em função da sua execução e da avaliação do seu impacto, através da aplicação de saldos de gerência do Turismo de Portugal, I. P., e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas do turismo e das finanças.\n\n4 - O reforço previsto no número anterior é autorizado no prazo de 30 dias úteis após a receção do pedido de aplicação de saldos de gerência.\n\n5 - Os saldos de gerência transitam para o ano económico subsequente.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "1054961453": {
+   "fragment_id": "115536028",
+   "type": 11,
+   "heading": "Artigo 5.º — Incentivo à produção cinematográfica e audiovisual",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 5.º — Incentivo à produção cinematográfica e audiovisual\n\n1 - O programa de incentivo à produção cinematográfica e audiovisual com relevância cultural e promocional e captação de filmagens internacionais para Portugal é um regime de apoio a fundo perdido, subordinado ao preenchimento de requisitos culturais e cinematográfico-audiovisuais, indexado à despesa de produção em território nacional, compatível com as normas da União Europeia nesta matéria.\n\n2 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura e do turismo, são definidas as tipologias e intensidades dos apoios a conceder, condições de elegibilidade e demais requisitos que as candidaturas devem observar, as obrigações dos beneficiários e, sem prejuízo do disposto nos números seguintes, os termos da articulação entre as entidades responsáveis pela gestão dos apoios.\n\n3 - Sem prejuízo dos objetivos do programa de incentivo à produção cinematográfica e audiovisual, parte do montante previsto para as ações a que se refere a alínea a) do n.º 2 do artigo anterior pode ser utilizado para a organização de ações de promoção do incentivo e de visitas de prospeção a Portugal, nos termos a definir pela portaria prevista no número anterior.\n\n4 - Para efeitos do presente artigo, o Fundo pode ser reforçado, anualmente, até 2026, para aplicação exclusiva na despesa a realizar com incentivos à produção cinematográfica e audiovisual, com recurso a:\n\na) Saldos de gerência do programa orçamental da economia, designadamente de reembolsos de beneficiários de fundos europeus do Turismo de Portugal, I. P., até ao valor máximo de (euro) 12 000 000,00;\n\nb) Transferências do programa orçamental da cultura, até ao valor máximo de (euro) 2 000 000,00;\n\nc) Outros montantes que lhe possam ser afetos, nos termos da lei.\n\n5 - O limite previsto no número anterior pode ser aumentado através de portaria dos membros do governo responsáveis pelas áreas das finanças, cultura e turismo, até ao limite previsto na alínea a) do n.º 1 do artigo 4.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014.\n\n6 - Os apoios são concedidos por decisão conjunta do ICA, I. P., e do Turismo de Portugal, I. P., nos termos da portaria a que se refere o n.º 2.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "1054961454": {
+   "fragment_id": "115536029",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\nAs receitas do Fundo são asseguradas por:\n\na) Receitas de saldos de gerência do Turismo de Portugal, I. P., conforme previsto no n.º 1 do artigo 4.º;\n\nb) Receitas decorrentes da aplicação dos recursos do Fundo;\n\nc) Transferências do programa orçamental da cultura, nos termos previstos na alínea b) do n.º 4 do artigo anterior;\n\nd) Quaisquer outros meios financeiros que lhe venham a ser atribuídos pelo Estado, entidades públicas e privadas.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "1054961455": {
+   "fragment_id": "115536030",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo as despesas de gestão, o apoio técnico e o apoio administrativo.\n\n2 - Constituem ainda despesas do Fundo as entregas ao Turismo de Portugal, I. P., dos reembolsos recebidos decorrentes dos instrumentos de financiamento previstos na alínea d) do n.º 1 do artigo 3.º\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+  },
+  "1054961456": {
+   "fragment_id": "115536031",
+   "type": 11,
+   "heading": "Artigo 8.º — Condução estratégica do Fundo",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 8.º — Condução estratégica do Fundo\n\n1 - A condução estratégica do Fundo cabe ao membro do Governo responsável pela área do turismo.\n\n2 - A condução estratégica do Fundo concretiza-se através de orientações gerais e específicas, em qualquer domínio de ação do Fundo, sendo estas orientações vinculativas da atuação no quadro da gestão do Fundo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961457": {
+   "fragment_id": "115536032",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do Fundo",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 9.º — Gestão do Fundo\n\n1 - A gestão do Fundo cabe ao Turismo de Portugal, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas do membro do Governo responsável pela área do turismo, nos termos do artigo anterior, sem acréscimo de remuneração.\n\n2 - Compete ao conselho diretivo do Turismo de Portugal, I. P., no âmbito da gestão do Fundo, exercer todos os direitos relacionados com os bens do Fundo e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Autorizar a concessão de empréstimos e subvenções pelo Fundo no âmbito da prossecução das suas finalidades;\n\nb) Autorizar a utilização dos saldos do Fundo, nos seguintes termos:\n\ni) O saldo transitado referido na alínea a) do n.º 4 do artigo 5.º, para aplicação na despesa prevista na alínea a) do n.º 1 do artigo 3.º;\n\nii) O saldo transitado do montante previsto na alínea b) do n.º 2 do artigo 4.º, até ao máximo anual de 10 milhões de euros, para aplicação na despesa prevista na alínea b) do n.º 1 do artigo 3.º;\n\nc) Autorizar as despesas a assumir pelo Fundo na celebração de contratos, desde que enquadradas nas dotações previstas até 2026, equiparando o Fundo ao mesmo regime de que beneficia o Turismo de Portugal, I. P.;\n\nd) Aprovar a distribuição de recursos a diferentes instrumentos de financiamento;\n\ne) Deliberar sobre a aplicação das disponibilidades do Fundo;\n\nf) Elaborar anualmente o plano de atividades, o orçamento, o relatório de atividade e as contas do exercício;\n\ng) Assegurar a contabilização dos fluxos financeiros referentes ao Fundo, bem como a identificação da respetiva origem e a correta segregação e afetação dos mesmos aos fins a que se destinam;\n\nh) Estabelecer um sistema de controlo interno para a prevenção, deteção e correção de irregularidades.\n\n3 - Para efeitos do disposto na subalínea ii) da alínea b) do número anterior, fica autorizada a aplicação em despesa dos saldos até que a execução acumulada de despesa na referida subalínea entre 2018 e anos seguintes atinja 10 milhões de euros.\n\n4 - O conselho diretivo do Turismo de Portugal, I. P., pode delegar poderes de gestão do Fundo em dirigentes de unidades orgânicas daquele instituto, não implicando tal delegação um aumento de despesa.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111), em vigor a partir de 2021-06-08"
+  },
+  "1054961458": {
+   "fragment_id": "115536033",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho Consultivo",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho Consultivo\n\n1 - O Fundo tem um Conselho Consultivo, presidido por um representante do Turismo de Portugal, I. P., que integra:\n\na) Um representante a designar pelo ICA, I. P.;\n\nb) Um representante a designar pelo Ministério das Finanças;\n\nc) Um representante de quaisquer outras entidades, públicas ou privadas, uma individualidade de reconhecido mérito, a designar por despacho dos membros do Governo responsáveis pelas áreas da cultura e do turismo, em razão da respetiva competência.\n\n2 - Compete ao Conselho Consultivo:\n\na) Acompanhar a administração do Fundo;\n\nb) Formular propostas para a criação de novos instrumentos de apoio ou de alteração dos instrumentos de apoio;\n\nc) Emitir parecer sobre o plano de atividades, o orçamento, o relatório de atividade e as contas do exercício do Fundo;\n\nd) Emitir parecer sobre quaisquer outras matérias relativas à atividade do Fundo, a solicitação do conselho diretivo do Turismo de Portugal, I. P.\n\n3 - O Conselho Consultivo reúne ordinariamente duas vezes por ano e sempre que para tanto for convocado pelo respetivo presidente, por iniciativa própria ou a pedido de qualquer dos seus membros.\n\n4 - Os membros do Conselho Consultivo não auferem quaisquer remunerações pelo exercício das suas funções.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961459": {
+   "fragment_id": "115536034",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio técnico e operacional",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio técnico e operacional\n\nO apoio técnico e operacional ao Fundo é prestado pelos serviços do Turismo de Portugal, I. P.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961460": {
+   "fragment_id": "115536035",
+   "type": 11,
+   "heading": "Artigo 12.º — Regras específicas de gestão orçamental",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 12.º — Regras específicas de gestão orçamental\n\nSem prejuízo da previsão no decreto-lei de execução orçamental de um regime simplificado de prestação de informação relativamente ao Fundo, o mesmo rege-se por um regime especial de controlo da execução orçamental, nos seguintes termos:\n\na) No que se refere a despesas com ativos financeiros e financiadas por fundos europeus, não está sujeito às regras relativas a:\n\ni) Cabimentação da despesa;\n\nii) Alterações orçamentais, com exceção das que envolvam a diminuição do saldo global, as que envolvam o reforço, a inscrição ou anulação de dotações relativas a ativos ou passivos financeiros, ou que respeitem a descativações, dotação provisional ou outras dotações centralizadas;\n\niii) Transição de saldos;\n\niv) Assunção de encargos plurianuais;\n\nb) Não está sujeito às regras relativas a:\n\ni) Fundos de maneio;\n\nii) Adoção do Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP);\n\niii) Prazos para autorização de pagamentos e cobrança de receita;\n\niv) Previsões mensais de execução, exceto a previsão inicial;\n\nv) Registo de informação sobre fundos disponíveis, contas a pagar e pagamentos em atraso.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961461": {
+   "fragment_id": "115536036",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de contas",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 13.º — Plano de contas\n\n1 - O plano de contas do Fundo é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador.\n\n2 - O Fundo não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, que prevê o SNC-AP, exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961462": {
+   "fragment_id": "115536037",
+   "type": 11,
+   "heading": "Artigo 14.º — Revisor oficial de contas",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 14.º — Revisor oficial de contas\n\n1 - A fiscalização da atividade do Fundo é assegurada por um revisor oficial de contas (ROC) designado de entre os revisores oficiais de contas registados junto da Comissão do Mercado de Valores Mobiliários.\n\n2 - O mandato do ROC tem a duração de três anos e é renovável por uma única vez, por igual período.\n\n3 - O ROC fiscaliza a gestão do Fundo, devendo emitir pareceres sobre relatórios e contas da atividade do Fundo, os planos financeiros e os orçamentos anuais.\n\n4 - As despesas com o ROC são suportadas pelo Fundo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+  },
+  "1054961463": {
+   "fragment_id": "115536038",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção do Fundo",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 15.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros afetos ao Fundo, apurados após a respetiva liquidação e ponderada a origem dos mesmos, é determinado por despacho do membro do Governo responsável pelo turismo, ouvido o membro do Governo responsável pela área da cultura.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2023-835864047), em vigor a partir de 2023-12-30"
+  },
+  "1054961464": {
+   "fragment_id": "115536039",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime transitório aplicável ao incentivo à produção cinematográfica e audiovisual",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 16.º — Regime transitório aplicável ao incentivo à produção cinematográfica e audiovisual\n\nO incentivo à produção cinematográfica e audiovisual estabelecido no presente decreto-lei é aplicável:\n\na) Aos projetos que não tenham sido concluídos até 31 de dezembro de 2017, na parte das despesas elegíveis incorridas a partir de 1 de janeiro de 2018, desde que reconhecidas pelo ICA, I. P., e pelo Turismo de Portugal, I. P.;\n\nb) Aos projetos entregues a partir de 1 de janeiro de 2018, independentemente de terem sido objeto de admissão ao benefício do incentivo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961465": {
+   "fragment_id": "115536040",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 59.º-F do Estatuto dos Benefícios Fiscais, aprovado através do Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual;\n\nb) A alínea h) do artigo 92.º do Código do IRC, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual;\n\nc) O Decreto-Lei n.º 22/2017, de 22 de fevereiro;\n\nd) A Portaria n.º 89-A/2017, de 19 de abril.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961466": {
+   "fragment_id": "115536041",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  },
+  "1054961467": {
+   "fragment_id": "115536042",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de março de 2018. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Luís Filipe Carrilho de Castro Mendes - Manuel de Herédia Caldeira Cabral.\n\nPromulgado em 7 de junho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 8 de junho de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111417747\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20"
+  }
+ }
+}

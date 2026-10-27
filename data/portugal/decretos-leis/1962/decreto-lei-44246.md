@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:516723:por
+title: Decreto-Lei n.º 44246
+short_title: null
+summary: Altera algumas disposições do Decreto-Lei n.º 41380, que reorganiza os serviços da Direcção-Geral dos Serviços Pecuários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Direcção-Geral dos Serviços Pecuários
+proposing_entity: null
+official_number: '44246'
+official_date: null
+publication_date: '1962-03-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 63/1962, Série I de 1962-03-21
+  number: '63'
+  series: I
+  supplement: null
+  pages: 273 - 274
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/03/06300/02730274.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '516723'
+  dre_path: /dr/detalhe/decreto-lei/44246-1962-516723
+  internal: pt:dre:516723:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44246-1962-516723
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44246-1962-516723
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4ed4534d11285c235ccccaecd9732e2ce9d6110943c2d45ad3b4222a64f92a88
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Administrativo
+- Direcção Geral dos Serviços Pecuários
+- Diretor
+- Estação Zootécnica Nacional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Ministério da Economia
+- Orgânica
+- Pessoal Administrativo
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540872:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:40:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44246
+
+De acordo com os ensinamentos colhidos na prática e tendo em vista o melhor rendimento dos serviços, torna-se indispensável proceder ao reajustamento de algumas disposições do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, que reorganizou a Direcção-Geral dos Serviços Pecuários.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os artigos 15.º, 40.º, 74.º, 82.º 86.º, 87.º, 99.º e 100.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, e bem assim a descrição das habilitações e condições de admissão para as categorias de aspirante do quadro do pessoal administrativo, analista, preparador, ajudante de laboratório e auxiliar de laboratório do quadro do pessoal auxiliar feita no mapa n.º 2 anexo ao mesmo decreto-lei, passam a ter a seguinte redacção:
+
+Art. 15.º O conselho administrativo é composto pelo director-geral, o chefe da Repartição dos Serviços Administrativos, um vogal com a categoria de chefe de repartição e um secretário, chefe de secção do quadro do pessoal administrativo, os dois últimos designados anualmente pelo Secretário de Estado da Agricultura, sob proposta do director-geral, podendo intervir como assistente, sempre que seja julgado útil, um vogal do Tribunal de Contas.
+
+...
+
+Art. 40.º O Conselho de Investigação e Habilitação Profissional, cuja presidência compete ao director-geral, é constituído por técnicos especializados em cada um dos ramos do conhecimento científico mais directamente aplicável ao estudo dos problemas veterinários, agrupados nas seguintes secções:
+
+1 - Patologia e anatomia patológica.
+
+2 - Bacteriologia.
+
+3 - Virulogia.
+
+4 - Parasitologia.
+
+5 - Micologia.
+
+6 - Imunologia.
+
+7 - Bioquímica.
+
+8 - Bromatologia.
+
+9 - Fisiologia da nutrição.
+
+10 - Fisiologia da reprodução.
+
+11 - Genética animal.
+
+12 - Zootecnia.
+
+13 - Tecnologia dos leites e lacticínios.
+
+14 - Tecnologia das carnes.
+
+15 - Radioisótopos.
+
+...
+
+Art. 74.º A admissão ao quadro do pessoal de investigação faz-se pela categoria de estagiário de 3.ª classe, mediante concurso documental e de provas práticas, a que podem concorrer os licenciados com os cursos de Medicina Veterinária, Medicina, Ciências Biológicas, Físico-Químicas, Farmácia, Matemática e Engenharia Química, de acordo com as necessidades da Direcção-Geral.
+
+§ único. O provimento dos lugares de investigador será feito mediante concurso documental e de provas práticas, a que poderão concorrer os estagiários e indivíduos estranhos aos serviços, desde que possuam passado científico destacado, além das habilitações referidas neste artigo.
+
+...
+
+Art. 82.º As promoções dos funcionários do quadro do pessoal técnico são feitas mediante concurso documental, podendo ser opositores os funcionários da classe imediatamente inferior que nela contem mais de três anos de serviço, com observância do § único do artigo 86.º
+
+...
+
+Art. 86.º A promoção às diferentes categorias do quadro do pessoal administrativo é feita por concurso documental e de provas práticas, a que serão obrigatòriamente concorrentes os funcionários da categoria imediatamente inferior com mais de três anos de serviço na categoria.
+
+§ único. Quando em concursos para promoção não houver candidatos em número suficiente para preencher as vagas, poderão ser opositores, em novo concurso, os funcionários da mesma categoria dos candidatos anteriormente admitidos, sem exigência de tempo de serviço.
+
+Art. 87.º As promoções no grupo dos ajudantes de pecuária do quadro do pessoal auxiliar são efectuadas mediante concurso documental, a que serão obrigatòriamente concorrentes os funcionários da classe imediatamente inferior com mais de três anos de bom e efectivo serviço na categoria.
+
+§ único. É aplicável aos concursos de promoção dos ajudantes de pecuária o disposto no único do artigo antecedente.
+
+...
+
+Art. 99.º A constituição dos quadros do pessoal assalariado de carácter permanente ao serviço da Direcção-Geral será determinada pelo Secretário de Estado da Agricultura, de acordo com o Ministro das Finanças, e publicada no Diário do Governo.
+
+§ 1.º Os quadros a que se refere o presente diploma comportarão as categorias ou funções consideradas necessárias ao serviço dos organismos a que pertencerem.
+
+§ 2.º A este pessoal poderá ser exigido o uso de fardamento de modelo regulamentar.
+
+§ 3.º As fardas, resguardos, distintivos e outros artigos de fardamento serão fornecidos nas condições estabelecidas no artigo 52.º e seus parágrafos do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956.
+
+§ 4.º Enquanto não forem constituídos os quadros poderão aplicar-se a determinadas categorias de pessoal assalariado as disposições dos §§ 2.º e 3.º anteriores.
+
+Art. 100.º Os directores da Estação Zootécnica Nacional, da Estação de Estudos de Reprodução Animal, da Estação de Avicultura Nacional e da Estação de Estudos de Tecnologia Animal serão escolhidos de preferência entre os técnicos pertencentes ao quadro do pessoal de investigação.
+
+§ 1.º Na falta de investigador especializado poderá a primeira nomeação de director da Estação Zootécnica Nacional recair em algum dos médicos veterinários de 1.ª classe, que transitará para o quadro do pessoal de investigação.
+
+§ 2.º Os técnicos que na Estação de Fomento Pecuário de Lisboa actualmente dirigem os serviços de reprodução animal e de avicultura transitam para o quadro do pessoal de investigação com a categoria de estagiário de 2.ª classe.
+
+...
+
+MAPA N.º 2
+
+Quadro do pessoal administrativo
+
+Aspirante. - Curso geral dos liceus ou habilitação legal equivalente.
+
+Quadro do pessoal auxiliar
+
+Analista. - Preparadores com, pelo menos, dez anos de bom e efectivo serviço como tal em laboratório da Direcção-Geral dos Serviços Pecuários, ou indivíduos nas condições do [Decreto-Lei n.º 40128](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40128-1955-540872), de 16 de Abril de 1955, com a reserva estabelecida no [Decreto-Lei n.º 42254](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42254-1959-423228), de 7 de Maio de 1959.
+
+Preparador. - Ajudante de laboratório com mais de cinco anos de bom e efectivo serviço prestado como tal num laboratório da Direcção-Geral dos Serviços Pecuários; ajudantes de laboratório habilitados com o curso geral dos liceus ou equivalente e um ano de exercício de funções nesta categoria; ou ainda indivíduos com aquela habilitação literária e seis meses de tirocínio de preparador, feito em laboratório da Direcção-Geral. O tempo de serviço dos primeiros poderá ser reduzido a três anos e o dos segundos dispensado quando o número de candidatos aprovados num concurso para preparador seja inferior ao das vagas anunciadas e haja, por isso, de se abrir novo concurso.
+
+Ajudante de laboratório. - Auxiliares de laboratório com mais de cinco anos de bom e efectivo serviço em laboratório da Direcção-Geral dos Serviços Pecuários; auxiliares de laboratório com o curso geral dos liceus, ou aprovação em todas as disciplinas de Química de curso de uma escola elementar industrial e um ano de exercício de funções nesta categoria; ou ainda indivíduos com aquela habilitação literária e seis meses de tirocínio de ajudante de laboratório, feito em laboratório da Direcção-Geral. O tempo de serviço dos primeiros poderá ser reduzido a três anos e o dos segundos dispensado quando o número de candidatos aprovados num concurso para ajudante de laboratório seja inferior ao das vagas anunciadas e haja, por isso, de se abrir novo concurso.
+
+Auxiliar de laboratório. - 1.º ciclo dos liceus ou habilitação legal equivalente.
+
+...
+
+Art. 2.º É eliminado o artigo 85.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957.
+
+Art. 3.º Os técnicos que, por força do § 2.º do artigo 100.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), passaram a fazer parte do grupo do pessoal de investigação com a categoria de estagiário de 2.ª classe, podem ser opositores nos concursos para promoção a médicos veterinários de 1.ª classe do respectivo grupo.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 21 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.
+
+Para ser presente à Assembleia Nacional.

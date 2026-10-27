@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:574954:por
+title: Decreto-Lei n.º 202/90
+short_title: null
+summary: Estabelece as normas relativas ao fabrico e comercialização do equipamento eléctrico destinado a ser utilizado em
+  atmosfera explosiva
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 202/90
+official_date: null
+publication_date: '1990-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/1990, Série I de 1990-06-19
+  number: '139'
+  series: I
+  supplement: null
+  pages: 2576 - 2578
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13900/25762578.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '574954'
+  dre_path: /dr/detalhe/decreto-lei/202-1990-574954
+  internal: pt:dre:574954:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1990-574954
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1990-574954
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: edf05b2389c534de1fdbc78cd6b3336308955c928e35022bcad8902912e6d719
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Certificado de Qualidade
+- Comércio
+- Contra-ordenação
+- Controlo de Qualidade
+- Definição de Competências
+- Direcção Geral de Energia
+- Equipamento Eléctrico
+- Fabrico Industrial
+- Fiscalização
+- Marca
+- Multa
+- Normalização
+- Segurança dos Edifícios
+relationships:
+- type: amended_by
+  target: pt:dre:410901:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: corrected_by
+  target: pt:dre:528470:por
+  label: Rectificado o art. 4º pela DECL.DD3427.1990.06.28.PCM, DR.IS [149]Supl de 30/Jun/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528470
+  date: '1990-06-28'
+- type: repealed_by
+  target: pt:dre:410901:por
+  label: "Revogado, com efeitos a partir de 01.07.2003, pelo DEC LEI.112/96.1996.08.05.MECO, DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-1996-410901
+  date: '1996-08-05'
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:00:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 202/90
+
+de 19 de Junho
+
+Com o objectivo de eliminar as divergências então existentes nas legislações nacionais relativas à segurança de equipamento eléctrico para utilização em «atmosfera explosiva», o Conselho das Comunidades Europeias adoptou as Directivas n.os [76/117/CEE](http://data.europa.eu/eli/dir/1976/117/oj?locale=pt) e [79/196/CEE](http://data.europa.eu/eli/dir/1979/196/oj?locale=pt), de 18 de Dezembro de 1975 e de 6 de Fevereiro de 1979, respectivamente.
+
+No campo da legislação nacional, a Lei n.º 29/81, de 22 de Agosto, prevê, na alínea a) do n.º 3 do seu artigo 5.º, que serão objecto de adequada regulamentação o fornecimento e a utilização de máquinas, aparelhos e equipamentos eléctricos.
+
+Tendo como base as supracitadas directivas, este diploma tem por finalidade estabelecer as disposições relativas ao fabrico e comercialização do equipamento eléctrico destinado a ser utilizado em «atmosfera explosiva», com excepção do equipamento destinado a minas com grisu e do equipamento destinado a electromedicina.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 29/81, de 22 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma aplica-se ao equipamento eléctrico destinado a ser utilizado em atmosfera explosiva, com excepção do equipamento destinado a minas com grisu e do equipamento destinado a electromedicina.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) Equipamento eléctrico - qualquer componente de uma instalação eléctrica ou qualquer dispositivo que utilize electricidade;
+
+b) Atmosfera explosiva - qualquer espaço em que possam existir substâncias inflamáveis no estado gasoso, vapor, partículas líquidas (nuvens) ou poeiras em quantidades susceptíveis de originarem, com o ar, misturas explosivas;
+
+c) Normas harmonizadas - as normas aprovadas pelo CENELEC (Comité Europeu de Normalização Electrotécnica) relativas ao âmbito do presente diploma, cuja lista constará de despacho a publicar pelo Ministro da Indústria e Energia;
+
+d) Utilização de acordo com o fim previsto - a utilização do equipamento em atmosfera explosiva, de acordo com o disposto nas normas harmonizadas e com o mencionado nos certificados de conformidade ou de controlo.
+
+###### Artigo 3.º — Condições de segurança do equipamento
+
+1 - Sem prejuízo do disposto nas directivas Comunitárias aplicáveis em razão da matéria, para que sejam garantidas as condições de segurança, o equipamento eléctrico destinado a ser utilizado em atmosfera explosiva deve obedecer a uma das seguintes condições:
+
+a) Ter obtido o certificado de conformidade previsto no n.º 1 do artigo 4.º e ter aposta a marcação identificadora referida no artigo 8.º;
+
+b) Ter obtido o certificado de controlo previsto no n.º 2 do artigo 4.º e ter aposta a marcação identificadora referida no artigo 8.º
+
+2 - Quando os serviços competentes constatarem, nomeadamente por circunstâncias supervenientes, de índole tecnológica ou de outra natureza, que um tipo de equipamento apresenta riscos para a segurança, pode o Ministro do Comércio e Turismo, mediante despacho fundamentado, sob proposta do Ministro da Indústria e Energia, proibir temporariamente, ou submeter a condições especiais, a comercialização do equipamento em causa.
+
+###### Artigo 4.º — Certificados de conformidade e de controlo
+
+1 - O certificado de conformidade, emitido por um dos organismos referidos no artigo 12.º, atesta a conformidade do equipamento eléctrico com as normas harmonizadas.
+
+2 - O certificado de controlo, emitido por um dos organismos referidos no artigo 11.º, atesta que o equipamento eléctrico, embora não conforme com as normas harmonizadas, assegura um nível de segurança equivalente, no mínimo, ao daquelas normas, comprovado por uma inspecção especial à sua fabricação.
+
+3 - Os certificados referidos nos números anteriores podem ser pedidos pelo fabricante ou pelo importador.
+
+###### Artigo 5.º — Instruções de utilização
+
+O certificado de conformidade ou de controlo pode impor que cada equipamento seja acompanhado de instruções que especifiquem condições especiais de utilização.
+
+###### Artigo 6.º — Condições de instalação
+
+As condições de instalação que não estejam previstas nas normas harmonizadas devem obedecer à regulamentação nacional.
+
+###### Artigo 7.º — Revogação e recusa de certificados
+
+1 - O organismo que emitir um certificado de conformidade ou de controlo pode proceder à sua revogação, fundamentada em termos precisos, quando:
+
+a) Se verifique que esse certificado não deveria ter sido emitido;
+
+b) As condições impostas não tiverem sido cumpridas dentro do prazo estabelecido;
+
+c) For colocado no mercado equipamento eléctrico não conforme com o protótipo aprovado.
+
+2 - A revogação, assim como a recusa de emitir um certificado de conformidade ou de controlo, devem ser imediatamente comunicados ao interessado, que disporá de um prazo de 30 dias para interpor recurso para o Ministro da Indústria e Energia.
+
+###### Artigo 8.º — Marcação identificadora
+
+1 - A marcação identificadora - marca comunitária -, cujo modelo é aprovado por despacho do Ministro da Indústria e Energia, deve ser aposta em cada equipamento de forma a ser visível, legível e durável.
+
+2 - A marcação identificadora, aposta pelo fabricante no equipamento, certifica que o mesmo está de acordo com o tipo de equipamento a que foi atribuído o certificado de conformidade ou de controlo e que foi submetido com sucesso às verificações e ensaios individuais eventualmente previstos pelas normas harmonizadas.
+
+3 - O fabricante só pode apor a marcação identificadora quando for detentor do respectivo certificado de conformidade ou de controlo.
+
+4 - É proibida a utilização no equipamento a que se refere este diploma de marcas ou inscrições susceptíveis de serem confundidas com a marcação identificadora.
+
+###### Artigo 90.º — Controlo do equipamento eléctrico
+
+1 - As verificações e ensaios de fabricação a que cada equipamento ou parte de equipamento deve ser submetido constarão de um registo, mantido à disposição das entidades fiscalizadoras e do Instituto Português da Qualidade.
+
+2 - As entidades fiscalizadoras e o Instituto Português da Qualidade podem, sempre que o entendam, fiscalizar as verificações e ensaios referidos no número anterior.
+
+3 - As entidades referidas no número anterior podem obter gratuitamente equipamento junto dos fabricantes, importadores ou revendedores para controlar a sua conformidade com o tipo de equipamento a que foi atribuído o certificado de conformidade ou de controlo, devendo os equipamentos ser devolvidos se as verificações e ensaios não tiverem sido destrutivos.
+
+###### Artigo 10.º — Responsabilidade pelos encargos
+
+1 - Os encargos decorrentes da realização das verificações e ensaios do equipamento eléctrico, destinados a controlar a sua conformidade com o tipo de equipamento a que foi atribuído o certificado de conformidade ou de controlo, são suportados pelas entidades que promoveram a verificação.
+
+2 - Caso se verifique que o equipamento não corresponde às condições de segurança exigíveis nos termos do presente diploma, os referidos encargos são suportados pelo agente económico em causa.
+
+###### Artigo 11.º — Organismos de certificação
+
+A lista dos organismos habilitados a conceder os certificados de conformidade ou de controlo, previstos no artigo 4.º, é aprovada por despacho do Ministro da Indústria e Energia, a publicar no Diário da República.
+
+###### Artigo 12.º — Contra-ordenações
+
+1 - A importação, salvo para efeitos do disposto no n.º 3 do artigo 4.º, a armazenagem para venda, a exposição para venda, a entrega após reparação ou a modificação, a exportação para países comunitários ou a entrega a terceiros, ainda que a título gratuito, de equipamento eléctrico que não obedeça às condições estabelecidas no artigo 3.º constituem Contra-ordenações puníveis com coima, cujos montantes mínimos e máximos são, respectivamente, de 20000$00 e 500000$00, para pessoas singulares, e de 50000$00 e 5000000$00, para pessoas colectivas.
+
+2 - Pode ser determinada, como sanção acessória das coimas previstas no número anterior, a apreensão do equipamento e a suspensão do direito do agente económico em causa a qualquer subsídio concedido por entidades ou serviços públicos.
+
+3 - Nas infracções previstas no n.º 1 é sempre punível a negligência.
+
+###### Artigo 13.º — Competência para aplicação das coimas
+
+A aplicação das coimas é da competência do director-geral de Energia, a quem devem ser enviados, após instrução, os processos por contra-ordenações.
+
+###### Artigo 14.º — Fiscalização e instrução dos processos por contra-ordenação
+
+1 - Sem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma incumbe, no âmbito do Ministério da Indústria e Energia, à Direcção-Geral de Energia.
+
+2 - Cada uma das entidades competentes para a aplicação do disposto no número anterior procederá à instrução dos processos relativos às contra-ordenações que tenha verificado.
+
+3 - As entidades fiscalizadoras podem exigir dos agentes económicos em causa as informações e demais apoios necessários ao exercício da sua acção fiscalizadora e solicitar das entidades policiais todo o auxílio de que necessitem para o mesmo efeito.
+
+###### Artigo 15.º — Distribuição do produto das coimas
+
+Do produto resultante da aplicação das coimas, 40% revertem para as entidades fiscalizadoras e 60% revertem a favor do Estado.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor decorridos 180 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 31 de Maio de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 31 de Maio de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

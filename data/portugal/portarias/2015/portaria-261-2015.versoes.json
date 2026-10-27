@@ -1,0 +1,787 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70128403:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-70845127",
+ "dre_path": "/dr/detalhe/portaria/261-2015-70128403",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70848124",
+    "70848125",
+    "70848126",
+    "70848127",
+    "70848128",
+    "70848129",
+    "70848130",
+    "70848131",
+    "70848132",
+    "70848133",
+    "70848134",
+    "70848135",
+    "70848136",
+    "70848137",
+    "70848138",
+    "70848139",
+    "70848140",
+    "70848141",
+    "70848142",
+    "70848143",
+    "70848144",
+    "70848145",
+    "70848146",
+    "70848147",
+    "70848148",
+    "70848149",
+    "70848150",
+    "70848151",
+    "70848152",
+    "70848153",
+    "70848154",
+    "70848155",
+    "70848156",
+    "70848157",
+    "70848158",
+    "70848159",
+    "70848160",
+    "70848161",
+    "70848162",
+    "70848163",
+    "70848164",
+    "70848165",
+    "70848166",
+    "70848167",
+    "70848168",
+    "70848169",
+    "70848170",
+    "70848171",
+    "70848172",
+    "70848173",
+    "70848174"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70811535:por",
+     "title": "Declaração de Retificação n.º 47-B/2015",
+     "published": "2015-10-26",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/47-b-2015-70811535",
+     "date": "2015-08-28"
+    }
+   ]
+  },
+  {
+   "date": "2016-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75341997:por",
+     "title": "Portaria n.º 249/2016",
+     "published": "2016-09-15",
+     "dre_path": "/dr/detalhe/portaria/249-2016-75341997"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "70848124",
+    "70848125",
+    "70848126",
+    "70848127",
+    "70848128",
+    "70848129",
+    "70848130",
+    "70848131",
+    "70848132",
+    "70848133",
+    "70848134",
+    "70848135",
+    "70848136",
+    "70852878",
+    "70848138",
+    "70848139",
+    "70848140",
+    "70848141",
+    "70848142",
+    "70848143",
+    "70848144",
+    "70848145",
+    "70848146",
+    "70848147",
+    "70848148",
+    "70848149",
+    "70852879",
+    "70848151",
+    "70848152",
+    "70848153",
+    "70848154",
+    "70848155",
+    "70848156",
+    "70848157",
+    "70848158",
+    "70848159",
+    "105826804",
+    "70848161",
+    "70848162",
+    "70848163",
+    "70848164",
+    "70848165",
+    "70848166",
+    "70848167",
+    "70848168",
+    "70848169",
+    "70848170",
+    "70852875",
+    "70848171",
+    "70848172",
+    "70848173",
+    "70848174"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 37.º",
+    "Revoga Artigo 30.º"
+   ],
+   "fragments": [
+    "70848124",
+    "70848125",
+    "70848126",
+    "70848127",
+    "70848128",
+    "70848129",
+    "70848130",
+    "70848131",
+    "70848132",
+    "70848133",
+    "70848134",
+    "70848135",
+    "70848136",
+    "70852878",
+    "70848138",
+    "70848139",
+    "70848140",
+    "70848141",
+    "70848142",
+    "70848143",
+    "70848144",
+    "70848145",
+    "70848146",
+    "70848147",
+    "70848148",
+    "70848149",
+    "70852879",
+    "70848151",
+    "70848152",
+    "70848153",
+    "70848154",
+    "70848155",
+    "70848156",
+    "70848157",
+    "70848158",
+    "70848159",
+    "117124067",
+    "70848161",
+    "70848162",
+    "70848163",
+    "70848164",
+    "70848165",
+    "70848166",
+    "117124066",
+    "70848168",
+    "70848169",
+    "70848170",
+    "70852875",
+    "70848171",
+    "70848172",
+    "70848173",
+    "70848174"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 37.º"
+   ],
+   "fragments": [
+    "70848124",
+    "70848125",
+    "70848126",
+    "70848127",
+    "70848128",
+    "70848129",
+    "70848130",
+    "70848131",
+    "70848132",
+    "70848133",
+    "70848134",
+    "70848135",
+    "70848136",
+    "70852878",
+    "70848138",
+    "70848139",
+    "70848140",
+    "70848141",
+    "70848142",
+    "70848143",
+    "70848144",
+    "70848145",
+    "70848146",
+    "70848147",
+    "70848148",
+    "70848149",
+    "70852879",
+    "70848151",
+    "70848152",
+    "70848153",
+    "70848154",
+    "117124068",
+    "70848156",
+    "70848157",
+    "70848158",
+    "70848159",
+    "117124067",
+    "70848161",
+    "70848162",
+    "117124069",
+    "70848164",
+    "70848165",
+    "70848166",
+    "117124070",
+    "70848168",
+    "70848169",
+    "70848170",
+    "70852875",
+    "70848171",
+    "70848172",
+    "70848173",
+    "70848174"
+   ]
+  }
+ ],
+ "fragments": {
+  "70848124": {
+   "fragment_id": "70845128",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 261/2015\n\nde 27 de agosto\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, à área relativa ao «Ambiente, eficiência no uso dos recursos e clima», corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da melhoria da gestão dos recursos naturais e da proteção do solo, água, ar, biodiversidade e paisagem.\n\nInserida na referida área encontra-se a ação 7.11, «Investimentos não produtivos», que compreende apoios a três tipos de investimentos: instalação ou recuperação de galerias ripícolas, erradicação de espécies invasoras lenhosas e recuperação de muros de pedra posta.\n\nEsta ação visa apoiar investimentos dos quais resulta um aumento do caráter de utilidade pública das áreas de intervenção no domínio agroambiental e da valorização e preservação da paisagem e que não se destinam a aumentar diretamente a rentabilidade ou o valor económico das explorações.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "70848125": {
+   "fragment_id": "70845129",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70848126": {
+   "fragment_id": "70845130",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da ação n.º 7.11, «Investimentos não produtivos», integrada na medida n.º 7, «Agricultura e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "70848127": {
+   "fragment_id": "70845131",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nb) «Espécie invasora lenhosa», a espécie suscetível de, por si própria, ocupar o território de uma forma excessiva, em área ou em número de indivíduos, provocando uma modificação significativa nos ecossistemas, como tal identificada no anexo I do Decreto-Lei n.º 565/99, de 21 de dezembro, alterado pelo Decreto-Lei n.º 205/2003, de 12 de setembro;\n\nc) «Exploração agrícola», o conjunto de unidades produtivas utilizadas para o exercício de atividades agrícolas, submetidas a uma gestão única;\n\nd) «Galeria ripícola», a formação de espécies lenhosas arbóreas ou arbustivas autóctones, de forma comprida e estreita, ao longo das margens das linhas de água;\n\ne) «Investimento não produtivo», o investimento do qual resulta um aumento do carácter de utilidade pública das áreas de intervenção, nomeadamente, no domínio agroambiental e da valorização e preservação da paisagem, e que não se destina a aumentar diretamente a rentabilidade ou o valor económico das explorações;\n\nf) «Mortórios», as superfícies ocupadas por matos mediterrânicos em socalco suportado por muro de pedra posta;\n\ng) «Muro de pedra posta», a estrutura artificial de pedra posta ligando dois locais de cotas diferentes, que atua como muro de suporte de superfícies agrícolas, conforme definidas no Despacho normativo n.º 6/2015, de 20 de fevereiro, incluindo mortórios localizados na Região Demarcada do Douro, impedindo o desmoronamento do solo;\n\nh) «Rede Nacional de Áreas Protegidas (RNAP)», o conjunto das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 142/2008, de 24 de julho, e dos respetivos diplomas regionais de classificação;\n\ni) «Rede Natura 2000», a rede ecológica para o espaço comunitário da União Europeia, que engloba zonas de proteção especial (ZPE), designadas ao abrigo da Diretiva 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), e sítios de importância comunitária (SIC), designados ao abrigo da Diretiva 92/43/CEE, do Conselho, de 21 de maio (Diretiva Habitats), transpostas para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis nºs. 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro;\n\nj) «Superfície agrícola», qualquer subparcela de terras aráveis, prados ou pastagens permanentes ou culturas permanentes."
+  },
+  "70848128": {
+   "fragment_id": "70845132",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as pessoas singulares ou coletivas que exerçam atividade agrícola, salvo o disposto no número seguinte.\n\n2 - Nas áreas de baldio, apenas podem beneficiar dos apoios previstos na presente portaria os órgãos de gestão de baldio, nos termos da Lei n.º 68/93, de 4 de setembro, alterada pelas Leis nºs. 89/97, de 30 de junho, e 72/2014, de 2 de setembro."
+  },
+  "70848129": {
+   "fragment_id": "70845133",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de investimentos não produtivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de investimentos não produtivos\n\nSão objeto de apoio no âmbito da ação prevista na presente portaria os seguintes investimentos não produtivos:\n\na) Instalação ou recuperação de galerias ripícolas;\n\nb) Erradicação de espécies invasoras lenhosas;\n\nc) Recuperação de muros de pedra posta."
+  },
+  "70848130": {
+   "fragment_id": "70845134",
+   "type": 1,
+   "heading": "Capítulo II — «Instalação ou recuperação de galerias ripícolas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — «Instalação ou recuperação de galerias ripícolas»"
+  },
+  "70848131": {
+   "fragment_id": "70845135",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nO apoio previsto no presente capítulo prossegue o objetivo de preservar as funções ecológicas das galerias ripícolas."
+  },
+  "70848132": {
+   "fragment_id": "70845136",
+   "type": 11,
+   "heading": "Artigo 6.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Área geográfica de aplicação\n\nO apoio previsto no presente capítulo é aplicável na área da Rede Natura 2000, da Rede Nacional de Áreas Protegidas e da rede de corredores ecológicos estabelecidos nos planos regionais de ordenamento florestal."
+  },
+  "70848133": {
+   "fragment_id": "70845137",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos ao apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Ter a situação regularizada em matéria de reposições no âmbito do financiamento do Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER) e do Fundo Europeu de Garantia Agrícola (FEAGA), ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP, I.P.);\n\nb) Não ter sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA, quando aplicável;\n\nc) Ter identificado, no Sistema de Identificação Parcelar (SIP), a superfície objeto de intervenção."
+  },
+  "70848134": {
+   "fragment_id": "70845138",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto no presente capítulo os projetos de investimento que se enquadrem na tipologia de investimento identificada na alínea a) do artigo 4.º e nos objetivos previstos no artigo 5.º e que preencham, cumulativamente, as seguintes condições:\n\na) Representem uma intervenção numa superfície agrícola mínima de 0,1 hectares (ha) de galerias ripícolas a instalar ou recuperar, com um comprimento mínimo de 25 metros e uma largura que varie entre 5 e 12 metros, a contar da margem da linha de água, localizada maioritariamente na área geográfica de aplicação definida no artigo 6.º;\n\nb) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;\n\nc) Incluam um plano de intervenção para a instalação ou recuperação das galerias ripícolas tendo por base orientações divulgadas pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), em www.icnf.pt, acompanhado dos respetivos elementos fotográficos e aprovado por esta entidade;\n\nd) Tenham início após a data de apresentação da candidatura."
+  },
+  "70848135": {
+   "fragment_id": "70845139",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo I à presente portaria, da qual faz parte integrante."
+  },
+  "70848136": {
+   "fragment_id": "70845140",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas ao apoio previsto no presente capítulo, são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a beneficiários do apoio 7.10.2, «Manutenção das galerias ripícolas», inserido na ação 7.10, «Silvoambientais», da medida n.º 7, «Agricultura e recursos naturais», do PDR 2020;\n\nb) Candidaturas respeitantes a explorações agrícolas que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação;\n\nc) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola ou florestal;\n\nd) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "70848137": {
+   "fragment_id": "70845141",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma, nível e limites dos apoios\n\n1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.\n\n2 - O nível do apoio é de 85% do valor do investimento elegível.\n\n3 - O apoio a conceder está limitado, durante o período de programação, a uma candidatura por superfície objeto de intervenção e a três candidaturas por beneficiário.\n\n4 - O montante máximo elegível, por beneficiário, no conjunto das candidaturas aprovadas, é de:\n\na) 30.000 euros ou de 45.000 euros, quando preveja a instalação de galerias ripícolas, no caso dos beneficiários previstos no nº 1 do artigo 3.º;\n\nb) 130.000 euros ou de 200.000 euros, quando preveja a instalação de galerias ripícolas, no caso dos beneficiários previstos no nº 2 do artigo 3.º."
+  },
+  "70848138": {
+   "fragment_id": "70845142",
+   "type": 1,
+   "heading": "Capítulo III — «Erradicação de espécies invasoras lenhosas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — «Erradicação de espécies invasoras lenhosas»"
+  },
+  "70848139": {
+   "fragment_id": "70845143",
+   "type": 11,
+   "heading": "Artigo 12.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Objetivos\n\nO apoio previsto no presente capítulo prossegue o objetivo de restaurar, valorizar e proteger a biodiversidade em zonas com valores naturais específicos no âmbito da Rede Natura 2000."
+  },
+  "70848140": {
+   "fragment_id": "70845144",
+   "type": 11,
+   "heading": "Artigo 13.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Área geográfica de aplicação\n\nO apoio previsto no presente capítulo é aplicável:\n\na) Na área geográfica correspondente ao designado «apoio zonal Peneda-Gerês» da ação 7.3, «Pagamentos Rede Natura», delimitada pelo polígono resultante da sobreposição:\n\ni) Do Parque Nacional da Peneda-Gerês, criado através do Decreto-Lei n.º 187/71, de 8 de maio;\n\nii) Do Sítio Peneda-Gerês, da lista nacional de sítios aprovada através da Resolução do Conselho de Ministros n.º 142/97, de 28 de agosto;\n\niii) Da ZPE Serra do Gerês, criada através do Decreto-Lei n.º 384-B/99, de 23 de setembro.\n\nb) Na área geográfica correspondente ao designado «apoio zonal Montesinho-Nogueira» da ação 7.3, «Pagamentos Rede Natura», delimitada pelo polígono resultante da sobreposição:\n\ni) Do Parque Natural de Montesinho, criado através do Decreto-Lei n.º 355/79, de 30 de agosto;\n\nii) Do Sítio Montesinho/Nogueira, da lista nacional de sítios aprovada através da Resolução do Conselho de Ministros n.º 142/97, de 28 de agosto;\n\niii) Da ZPE Montesinho/Nogueira, criada através do Decreto-Lei n.º 384-B/99 de 23 de setembro.\n\nc) Na área geográfica correspondente ao designado «apoio zonal Douro Internacional, Sabor, Maçãs e Vale do Côa» da ação 7.3, «Pagamentos Rede Natura», delimitada pelo polígono resultante da sobreposição:\n\ni) Do Sítio Douro Internacional, da lista nacional de sítios aprovada através da Resolução do Conselho de Ministros n.º 142/97, de 28 de agosto;\n\nii) Do Parque Natural do Douro Internacional, criado através do Decreto Regulamentar n.º 8/98, de 11 de maio;\n\niii) Da ZPE Douro Internacional e Vale do Águeda, criada através do Decreto-Lei n.º 384-B/99, de 23 de setembro;\n\niv) Do Sítio Rios Sabor e Maçãs, da lista nacional de sítios aprovada através da Resolução do Conselho de Ministros n.º 142/97, de 28 de agosto;\n\nv) Da ZPE Rios Sabor e Maçãs, criada através do Decreto-Lei nº 384-B/99, de 23 de setembro; vi) Da ZPE Vale do Côa, criada através do Decreto-Lei nº 384-B/99, de 23 de setembro."
+  },
+  "70848141": {
+   "fragment_id": "70845145",
+   "type": 11,
+   "heading": "Artigo 14.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos ao apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Ter a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do IFAP, I.P.;\n\nb) Não ter sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA, quando aplicável;\n\nc) Ter identificado no SIP a superfície objeto de intervenção."
+  },
+  "70848142": {
+   "fragment_id": "70845146",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto no presente capítulo os projetos de investimento que se enquadrem na tipologia de investimento não produtivo identificada na alínea b) do artigo 4.º e nos objetivos previstos no artigo 12.º e que preencham, cumulativamente, as seguintes condições:\n\na) Representem uma intervenção numa superfície agrícola mínima de 1 ha, localizada na área geográfica de aplicação definida no artigo 13.º;\n\nb) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;\n\nc) Incluam um plano de intervenção para erradicação de espécies invasoras lenhosas acompanhado dos respetivos elementos fotográficos e aprovado pela Estrutura Local de Apoio (ELA);\n\nd) Tenham início após a data de apresentação da candidatura."
+  },
+  "70848143": {
+   "fragment_id": "70845147",
+   "type": 11,
+   "heading": "Artigo 16.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "70848144": {
+   "fragment_id": "70845148",
+   "type": 11,
+   "heading": "Artigo 17.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas aos apoios previstos na presente portaria, são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a beneficiários dos designados apoios zonais da Peneda-Gerês, de Montesinho-Nogueira e Douro Internacional, Sabor, Maçãs e Vale do Côa, inseridos na ação 7.3, «Pagamentos Rede Natura», da medida n.º 7, «Agricultura e recursos naturais», do PDR 2020;\n\nb) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação;\n\nc) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola ou florestal;\n\nd) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "70848145": {
+   "fragment_id": "70845149",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Forma, nível e limites dos apoios\n\n1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.\n\n2 - O nível do apoio é de 85% do valor do investimento elegível.\n\n3 - O apoio a conceder está limitado, durante o período de programação, a três candidaturas por beneficiário.\n\n4 - O montante máximo elegível, por beneficiário, no conjunto das candidaturas aprovadas é de 30.000 euros."
+  },
+  "70848146": {
+   "fragment_id": "70845150",
+   "type": 1,
+   "heading": "Capítulo IV — «Recuperação de muros de pedra posta»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — «Recuperação de muros de pedra posta»"
+  },
+  "70848147": {
+   "fragment_id": "70845151",
+   "type": 11,
+   "heading": "Artigo 19.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Objetivos\n\nO apoio previsto no presente capítulo prossegue os seguintes objetivos:\n\na) Manter os sistemas tradicionais de culturas permanentes e o património genético vegetal e preservar as paisagens tradicionais da Região Demarcada do Douro;\n\nb) Restaurar, valorizar e proteger a biodiversidade e a paisagem em zonas com valores naturais específicos no âmbito da Rede Natura 2000."
+  },
+  "70848148": {
+   "fragment_id": "70845152",
+   "type": 11,
+   "heading": "Artigo 20.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Área geográfica de aplicação\n\nO apoio previsto no presente capítulo é aplicável:\n\na) Na área geográfica correspondente ao designado «apoio zonal Peneda-Gerês» da ação 7.3, «Pagamentos Rede Natura», delimitada pelo polígono resultante da sobreposição:\n\ni) Do Parque Nacional da Peneda-Gerês, criado através do Decreto-Lei n.º 187/71, de 8 de maio;\n\nii) Do Sítio Peneda-Gerês, da lista de sítios aprovada através da Resolução do Conselho de Ministros n.º 142/97, de 28 de agosto;\n\niii) Da ZPE Serra do Gerês, criada através do Decreto-Lei n.º 384-B/99, de 23 de setembro.\n\nb) Na Região Demarcada do Douro, cuja delimitação é definida pelo Decreto-Lei n.º 7934, de 10 de dezembro de 1921."
+  },
+  "70848149": {
+   "fragment_id": "70845153",
+   "type": 11,
+   "heading": "Artigo 21.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos ao apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Ter a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do IFAP, I.P.;\n\nb) Não ter sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA, quando aplicável;\n\nc) Não ter recebido apoios ou obtido aprovação de candidaturas para a mesma tipologia de investimento e superfície objeto de intervenção, no âmbito do Programa de Desenvolvimento Rural do Continente (PRODER) ou do regime de apoio à reestruturação e reconversão das vinhas (VITIS), nos últimos 10 anos;\n\nd) Ter identificado no SIP a superfície objeto de intervenção."
+  },
+  "70848150": {
+   "fragment_id": "70845154",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto no presente capítulo os projetos de investimento que se enquadrem na tipologia de investimento não produtivo identificada na alínea c) do artigo 4.º e nos objetivos previstos no artigo 19.º e que preencham, cumulativamente, as seguintes condições:\n\na) Representem uma intervenção numa superfície de culturas permanentes ou de mortórios, quando localizada na área geográfica de aplicação definida na alínea b), do artigo 20.º;\n\nb) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;\n\nc) Incluam um plano de recuperação dos muros de pedra posta a recuperar acompanhado dos respetivos elementos fotográficos e aprovado pela ELA ou pela Direção Regional de Agricultura e Pescas do Norte, consoante se localizem, respetivamente, na área geográfica definida na alínea a) ou na alínea b) do artigo 20.º;\n\nd) Tenham início após a data de apresentação da candidatura."
+  },
+  "70848151": {
+   "fragment_id": "70845155",
+   "type": 11,
+   "heading": "Artigo 23.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo III à presente portaria, da qual faz parte integrante."
+  },
+  "70848152": {
+   "fragment_id": "70845156",
+   "type": 11,
+   "heading": "Artigo 24.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas aos apoios previstos na presente portaria, são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a beneficiários dos designados «apoio zonal da Peneda-Gerês, inserido na ação 7.3, «Pagamentos Rede Natura», e apoio 7.6.2, «Culturas permanentes tradicionais - Douro Vinhateiro», inserido na ação 7.6, «Culturas permanentes tradicionais», ambos da medida 7, «Agricultura e recursos naturais», do PDR 2020;\n\nb) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação;\n\nc) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola ou florestal;\n\nd) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "70848153": {
+   "fragment_id": "70845157",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma, montantes, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Forma, montantes, nível e limites do apoio\n\n1 - O apoio previsto no presente capítulo, sob a forma de subvenção não reembolsável, assume a modalidade de custos simplificados a que se refere a alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n2 - O nível do apoio é de 85% do valor do investimento elegível, aplicado sobre os seguintes custos unitários:\n\na) 130 euros por metro cúbico (m3) de muro recuperado, quando este esteja localizado na área geográfica correspondente ao designado «apoio zonal Peneda-Gerês» definida na alínea a) do artigo 20.º;\n\nb) 200 euros por m3 de muro recuperado, quando este esteja localizado na área geográfica correspondente à Região Demarcada do Douro definida na alínea b) do artigo 20.º.\n\n3 - O apoio a conceder está limitado, durante o período de programação, a três candidaturas por beneficiário.\n\n4 - O montante máximo elegível, por beneficiário, no conjunto das candidaturas aprovadas, é de 30 000 euros, exceto para a Região Demarcada do Douro, cujo limite é de 70 000 euros."
+  },
+  "70848154": {
+   "fragment_id": "70845158",
+   "type": 1,
+   "heading": "Capítulo V — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Obrigações"
+  },
+  "70848155": {
+   "fragment_id": "70845159",
+   "type": 11,
+   "heading": "Artigo 26.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;\n\nh) Não locar ou alienar os investimentos cofinanciados, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) No caso dos apoios «Instalação ou recuperação de galerias ripícolas» e «Erradicação de espécies invasoras lenhosas», garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nk) Manter o registo da superfície objeto de investimento no SIP até à data da conclusão da operação;\n\nl) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável, ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior."
+  },
+  "70848156": {
+   "fragment_id": "70845160",
+   "type": 1,
+   "heading": "Capítulo VI — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Procedimento"
+  },
+  "70848157": {
+   "fragment_id": "70845161",
+   "type": 11,
+   "heading": "Artigo 27.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas, de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.pt-2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "70848158": {
+   "fragment_id": "70845162",
+   "type": 11,
+   "heading": "Artigo 28.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A área geográfica elegível;\n\nd) A dotação orçamental a atribuir;\n\ne) O número máximo de candidaturas admitidas por beneficiário, respeitando o disposto nos artigos 11.º, 18.º e 25.º;\n\nf) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\ng) A forma e o nível dos apoios a conceder, respeitando o disposto nos artigos 11.º, 18.º e 25.º.\n\n2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.\n\n3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.pt-2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social."
+  },
+  "70848159": {
+   "fragment_id": "70845163",
+   "type": 11,
+   "heading": "Artigo 29.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão ou as Direções Regionais de Agricultura e Pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, bem como a aplicação dos fatores referidos nos artigos 7.º, 8.º, 14.º, 15.º, 21.º e 22.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo máximo de 45 dias úteis a contar da data limite para a apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.\n\n4 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete ao gestor a decisão das candidaturas.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "70848160": {
+   "fragment_id": "70845164",
+   "type": 11,
+   "heading": "Artigo 30.º — Transição de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Transição de candidaturas\n\n1 - As candidaturas que tenham sido objeto de parecer favorável e que não tenham sido aprovadas por razões de insuficiência orçamental transitam para o período de apresentação de candidaturas seguinte, sendo sujeitas à aplicação dos critérios de seleção deste novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida."
+  },
+  "70848161": {
+   "fragment_id": "70845165",
+   "type": 11,
+   "heading": "Artigo 31.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I.P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "70848162": {
+   "fragment_id": "70845166",
+   "type": 11,
+   "heading": "Artigo 32.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Execução das operações\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações são, respetivamente, de 6 e 24 meses contados a partir da data da submissão autenticada do termo de aceitação.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "70848163": {
+   "fragment_id": "70845167",
+   "type": 11,
+   "heading": "Artigo 33.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, e no portal do IFAP, I.P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I.P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50% da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I.P., correspondente a 100 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O disposto nos n.os 2, 3, 5 e 6 não é aplicável às operações ou componentes de operações objeto de modalidade de custos simplificados relativas ao apoio «Recuperação de muros de pedra posta», sendo, neste caso, apresentado um único pedido de pagamento após a execução da operação sujeita a custo simplificado, para além do previsto no n.º 4.\n\n8 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do investimento, sob pena do seu indeferimento.\n\n9 - Em casos excecionais e devidamente justificados, o IFAP, I.P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n10 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I.P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt."
+  },
+  "70848164": {
+   "fragment_id": "70845168",
+   "type": 11,
+   "heading": "Artigo 34.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I.P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I.P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro."
+  },
+  "70848165": {
+   "fragment_id": "70845169",
+   "type": 11,
+   "heading": "Artigo 35.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária, para a conta referida na alínea i) do artigo 26.º e, no caso dos apoios \"Recuperação de muros de pedra posta\", para a conta identificada no termo de aceitação."
+  },
+  "70848166": {
+   "fragment_id": "70845170",
+   "type": 11,
+   "heading": "Artigo 36.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Controlo\n\nAs operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitas a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável."
+  },
+  "70848167": {
+   "fragment_id": "70845171",
+   "type": 11,
+   "heading": "Artigo 37.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 26.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo como previsto no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, rege-se pelo disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "70848168": {
+   "fragment_id": "70845172",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "70848169": {
+   "fragment_id": "70845173",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma transitória\n\n1 - As candidaturas apresentadas entre 19 de fevereiro e 30 de junho de 2014 à componente «Investimentos Não Produtivos» das ações n.º 2.4.3, «Intervenção Integrada Douro Vinhateiro», e 2.4.4, «Intervenção Integrada Peneda-Gerês», da medida n.º 2.4, «Intervenções Territoriais Integradas» do Subprograma n.º 2, «Gestão Sustentável do Espaço Rural» do PRODER, que ainda não foram objeto de decisão, são analisadas e decididas com base nos critérios estabelecidos na presente portaria, mantendo, para todos os efeitos, as respetivas data de apresentação e ordem de submissão.\n\n2 - Para efeitos do disposto no número anterior, podem ser solicitados aos candidatos os elementos complementares que se revelem necessários à adequação da candidatura para efeitos de monitorização do programa.\n\n3 - A autoridade de gestão prevê uma dotação específica para as operações referidas no n.º 1."
+  },
+  "70848170": {
+   "fragment_id": "70845174",
+   "type": 11,
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70848171": {
+   "fragment_id": "70852475",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis do apoio «Instalação ou recuperação de galerias ripícolas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis do apoio «Instalação ou recuperação de galerias ripícolas»\n\n(a que se refere o artigo 9.º)\n\nDespesas elegíveis:\n\nAquisição de materiais e serviços, atendendo aos respetivos valores normais de mercado, e contribuições em espécie, desde que se refiram ao fornecimento de equipamento ou de trabalho voluntário não remunerado, até ao limite de autofinanciamento, relativas a:\n\n1. Regularização e estabilização das margens;\n\n2. Plantação com espécies adequadas ou aproveitamento de regeneração natural;\n\n3. Aquisição e instalação de proteções individuais de plantas;\n\n4. Destruição e controlo de espécies invasoras;\n\n5. Remoção de vegetação desadequada;\n\n6. Desramações e podas;\n\n7. Destruição de cepos.\n\nDespesas não elegíveis:\n\n1. IVA recuperável nos termos da legislação fiscal;\n\n2. Aquisição de bens materiais em estado de uso;\n\n3. Juros e encargos com dívidas;\n\n4. Despesas e encargos com cauções;\n\n5. Serviços de consultadoria e custos associados à elaboração do projeto."
+  },
+  "70848172": {
+   "fragment_id": "70852476",
+   "type": 14,
+   "heading": "Anexo II — Despesas elegíveis e não elegíveis do apoio «Erradicação de espécies invasoras lenhosas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Despesas elegíveis e não elegíveis do apoio «Erradicação de espécies invasoras lenhosas»\n\n(a que se refere o artigo 16.º)\n\nDespesas elegíveis:\n\nAquisição de materiais e serviços, atendendo aos respetivos valores normais de mercado, e contribuições em espécie, desde que se refiram ao fornecimento de equipamento ou de trabalho voluntário não remunerado, até ao limite de autofinanciamento, relativas a:\n\n1. Intervenções de carácter preventivo e de gestão como desramações e podas, remoção de vegetação desadequada, fogo controlado e destruição de cepos;\n\n2. Tratamentos fitofarmacêuticos;\n\n3. Destruição e controlo de espécies invasoras.\n\nDespesas não elegíveis:\n\n1. IVA recuperável nos termos da legislação fiscal;\n\n2. Aquisição de bens materiais em estado de uso;\n\n3. Juros e encargos com dívidas;\n\n4. Despesas e encargos com cauções;\n\n5. Serviços de consultadoria e custos associados à elaboração do projeto."
+  },
+  "70848173": {
+   "fragment_id": "70852477",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis e não elegíveis do apoio «Recuperação de muros de pedra posta»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Despesas elegíveis e não elegíveis do apoio «Recuperação de muros de pedra posta»\n\n(a que se refere o artigo 23.º)\n\nDespesas elegíveis:\n\nAquisição de materiais e serviços, atendendo aos respetivos valores normais de mercado, e contribuições em espécie, desde que se refiram ao fornecimento de equipamento ou de trabalho voluntário não remunerado, até ao limite de autofinanciamento, relativos às despesas com a recuperação de muros de pedra posta.\n\nDespesas não elegíveis:\n\n1. IVA recuperável nos termos da legislação fiscal;\n\n2. Juros e encargos com dívidas;\n\n3. Despesas e encargos com cauções;\n\n4. Serviços de consultadoria e custos associados à elaboração do projeto."
+  },
+  "70848174": {
+   "fragment_id": "70852478",
+   "type": 14,
+   "heading": "Anexo IV — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 37.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 26.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\nReduções e exclusões\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt."
+  },
+  "70852878": {
+   "fragment_id": "70845141",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, nível e limites dos apoios",
+   "in_force_from": "2015-08-28",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 47-B/2015 - Diário da República n.º 209/2015, 1º Suplemento, Série I de 2015-10-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-b-2015-70811535), em vigor a partir de 2015-08-28"
+   ],
+   "markdown": "###### Artigo 11.º — Forma, nível e limites dos apoios\n\n1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.\n\n2 - O nível do apoio é de 85% do valor do investimento elegível.\n\n3 - O apoio a conceder está limitado, durante o período de programação, a uma candidatura por superfície objeto de intervenção e a três candidaturas por beneficiário.\n\n4 - O montante máximo elegível, por beneficiário, no conjunto das candidaturas aprovadas, é de:\n\na) 30.000 euros ou de 45.000 euros quando preveja a instalação de galerias ripícolas, no caso dos beneficiários previstos no n.º 1 do artigo 3.º;\n\nb) 130.000 euros ou de 200.000 euros quando preveja a instalação de galerias ripícolas, no caso dos beneficiários previstos no n.º 2 do artigo 3.º.\n\n> Rectificado pelo/a [Declaração de Retificação n.º 47-B/2015 - Diário da República n.º 209/2015, 1º Suplemento, Série I de 2015-10-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-b-2015-70811535), em vigor a partir de 2015-08-28"
+  },
+  "70852879": {
+   "fragment_id": "70845154",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2015-08-28",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 47-B/2015 - Diário da República n.º 209/2015, 1º Suplemento, Série I de 2015-10-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-b-2015-70811535), em vigor a partir de 2015-08-28"
+   ],
+   "markdown": "###### Artigo 22.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto no presente capítulo os projetos de investimento que se enquadrem na tipologia de investimento não produtivo identificada na alínea c) do artigo 4.º e nos objetivos previstos no artigo 19.º e que preencham, cumulativamente, as seguintes condições:\n\na) Representem uma intervenção, alternativamente:\n\ni) Numa superfície agrícola, quando localizada na área geográfica de aplicação definida na alínea a) do artigo 20.º;\n\nii) Numa superfície de culturas permanentes ou de mortórios, quando localizada na área geográfica de aplicação definida na alínea b) do artigo 20.º;\n\nb) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;\n\nc) Incluam um plano de recuperação dos muros de pedra posta a recuperar acompanhado dos respetivos elementos fotográficos e aprovado pela ELA ou pela Direção Regional de Agricultura e Pescas do Norte, consoante se localizem, respetivamente, na área geográfica definida na alínea a) ou na alínea b) do artigo 20.º;\n\nd) Tenham início após a data de apresentação da candidatura.\n\n> Rectificado pelo/a [Declaração de Retificação n.º 47-B/2015 - Diário da República n.º 209/2015, 1º Suplemento, Série I de 2015-10-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-b-2015-70811535), em vigor a partir de 2015-08-28"
+  },
+  "105826804": {
+   "fragment_id": "70845164",
+   "type": 11,
+   "heading": "Artigo 30.º — Transição de candidaturas",
+   "in_force_from": "2016-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+   ],
+   "markdown": "###### Artigo 30.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+  },
+  "70852875": {
+   "fragment_id": "70852479",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 18 de agosto de 2015."
+  },
+  "117124067": {
+   "fragment_id": "70845164",
+   "type": 11,
+   "heading": "Artigo 30.º — Transição de candidaturas",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13",
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+   ],
+   "markdown": "###### Artigo 30.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+  },
+  "117124066": {
+   "fragment_id": "70845171",
+   "type": 11,
+   "heading": "Artigo 37.º — Reduções e exclusões",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 37.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 26.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo como previsto no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n6 - A recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, rege-se pelo disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n> Alterado pelo/a Artigo 15.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "117124068": {
+   "fragment_id": "70845159",
+   "type": 11,
+   "heading": "Artigo 26.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 26.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;\n\nh) Não locar ou alienar os investimentos cofinanciados, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) No caso dos apoios «Instalação ou recuperação de galerias ripícolas» e «Erradicação de espécies invasoras lenhosas», garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nk) Manter o registo da superfície objeto de investimento no SIP até à data da conclusão da operação;\n\nl) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável, ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior.\n\nm) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso das candidaturas que contemplem exclusivamente despesas definidas através de custos simplificados.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117124069": {
+   "fragment_id": "70845167",
+   "type": 11,
+   "heading": "Artigo 33.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 33.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, e no portal do IFAP, I.P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I.P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50% da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I.P., correspondente a 100 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados até cinco pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O disposto nos n.os 2, 3, 5 e 6 não é aplicável às operações ou componentes de operações objeto de modalidade de custos simplificados relativas ao apoio «Recuperação de muros de pedra posta», sendo, neste caso, apresentado um único pedido de pagamento após a execução da operação sujeita a custo simplificado, para além do previsto no n.º 4.\n\n8 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do investimento, sob pena do seu indeferimento.\n\n9 - Em casos excecionais e devidamente justificados, o IFAP, I.P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n10 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I.P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117124070": {
+   "fragment_id": "70845171",
+   "type": 11,
+   "heading": "Artigo 37.º — Reduções e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 15.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 37.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 26.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo como previsto no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n6 - A recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, rege-se pelo disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n7 - A não comprovação do início da execução física da operação no prazo previsto na alínea m) do n.º 1 do artigo 26.º ou no n.º 2 do artigo 26.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 15.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  }
+ }
+}

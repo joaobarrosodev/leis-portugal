@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25345587:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-70902322",
+ "dre_path": "/dr/detalhe/portaria/125-2014-25345587",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70902267",
+    "70902268",
+    "70902269",
+    "70902270",
+    "70902271",
+    "70902272",
+    "70902273",
+    "70902274",
+    "70902475"
+   ]
+  },
+  {
+   "date": "2015-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70139956:por",
+     "title": "Portaria n.º 264/2015",
+     "published": "2015-08-31",
+     "dre_path": "/dr/detalhe/portaria/264-2015-70139956"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "70902267",
+    "70902496",
+    "70902483",
+    "70902498",
+    "70902500",
+    "70902505",
+    "70902507",
+    "70902510",
+    "70902492",
+    "70902493",
+    "70902494",
+    "70902495"
+   ]
+  },
+  {
+   "date": "2017-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105770336:por",
+     "title": "Portaria n.º 33/2017",
+     "published": "2017-01-18",
+     "dre_path": "/dr/detalhe/portaria/33-2017-105770336"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "70902267",
+    "70902496",
+    "70902483",
+    "70902498",
+    "70902500",
+    "70902505",
+    "70902507",
+    "70902510",
+    "70902492",
+    "178192591",
+    "70902494",
+    "70902495"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:178152680:por",
+     "title": "Portaria n.º 54/2022",
+     "published": "2022-01-25",
+     "dre_path": "/dr/detalhe/portaria/54-2022-178152680",
+     "date": "2022-01-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "70902267": {
+   "fragment_id": "70902323",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 125/2014\n\nde 25 de junho\n\nO Decreto-Lei n.º 54/2014, de 9 de abril, definiu a missão, atribuições e o tipo de organização interna da Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE). Importa agora, no desenvolvimento desse decreto-lei, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro do Ambiente, Ordenamento do Território e Energia, o seguinte:"
+  },
+  "70902268": {
+   "fragment_id": "70902324",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral\n\n1 - A Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia (SG) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Serviços de Prospetiva e Planeamento;\n\nb) Serviços de Relações Internacionais;\n\nc) Serviços de Administração Financeira e Patrimonial;\n\nd) Serviços de Recursos Humanos;\n\ne) Serviços de Apoio Jurídico.\n\n2 - As unidades referidas nas alíneas a) a e) do número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau."
+  },
+  "70902269": {
+   "fragment_id": "70902325",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços de Prospetiva e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviços de Prospetiva e Planeamento\n\nAos Serviços de Prospetiva e Planeamento, abreviadamente designados por SPP, compete:\n\na) Promover o estudo prospetivo e o acompanhamento de tendências de evolução política, económica, social, demográfica e tecnológica nos diversos domínios relevantes para a atuação do Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE), bem como a articulação e partilha de informação entre os serviços e organismos do MAOTE a esse respeito;\n\nb) Apoiar a ação do MAOTE na definição dos objetivos, estratégia e formulação das políticas;\n\nc) Promover a análise integrada da monitorização de políticas e medidas em curso, produzindo relatórios sobre o estado e pressões a que o ambiente está sujeito, nomeadamente o Relatório do Estado do Ambiente;\n\nd) Elaborar e participar em estudos sobre instrumentos e processos de avaliação económica, tecnológica, financeira e fiscal de suporte à aplicação das políticas ambientais e de desenvolvimento sustentável e promover e realizar análises custo-benefício sobre os efeitos de natureza socioeconómica da aplicação dessas políticas;\n\ne) Desenvolver os modelos e metodologias necessários à elaboração de cenários e projeções quantificadas para as principais variáveis económicas, sociais e ambientais, no médio e longo prazo;\n\nf) Desenhar, adaptar e implementar, em diálogo com atores especializados, metodologias para avaliação e simulação de efeitos macroeconómicos das políticas com impacto no ambiente, no ordenamento do território e na energia;\n\ng) Cooperar com outros serviços e organismos da Administração Pública, bem como com outras entidades, na conceção, gestão e implementação de processos de prospetiva e estratégia nas áreas do ambiente, do ordenamento do território, da sustentabilidade e da energia;\n\nh) Assegurar a coordenação e elaboração dos contributos do MAOTE para as Grandes Opções do Plano, em articulação com os demais serviços e organismos do MAOTE;\n\ni) Exercer as funções de entidade coordenadora do programa orçamental do MAOTE e acompanhar a sua execução, apoiando tecnicamente a elaboração de instrumentos de gestão e previsão orçamental, em articulação com outras entidades com competência neste domínio;\n\nj) Elaborar, difundir e apoiar a criação de instrumentos de planeamento e programação, assegurar o desenvolvimento do subsistema de avaliação dos serviços (SIADAP 1) no âmbito do MAOTE, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas por lei.\n\nk) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MAOTE;\n\nl) Desenvolver um sistema integrado de indicadores nos domínios relevantes para as funções do Ministério;\n\nm) Assegurar o acesso e disponibilização de informação, mediante articulação e a interoperabilidade com os sistemas de informação dos serviços e organismos do MAOTE, para apoiar a decisão política e estratégica."
+  },
+  "70902270": {
+   "fragment_id": "70902326",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços de Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços de Relações Internacionais\n\nAos Serviços de Relações Internacionais, abreviadamente designados por SRI, compete, em articulação com os competentes serviços do Ministério dos Negócios Estrangeiros sempre que necessário:\n\na) Acompanhar e apoiar tecnicamente a intervenção dos serviços e organismos do MAOTE nas instâncias comunitárias, europeias e multilaterais, assegurando a coordenação da participação e representação do Ministério e da definição das respetivas posições nacionais;\n\nb) Acompanhar o desenvolvimento das políticas da União Europeia da competência do MAOTE, coordenando a preparação da participação Ministerial nas reuniões do Conselho de Ministros da União Europeia;\n\nc) Acompanhar a transposição das diretivas comunitárias para o ordenamento jurídico interno e assegurar a gestão dos processos de pré-contencioso e contencioso comunitário do MAOTE;\n\nd) Colaborar na definição da política de cooperação internacional em matéria de ambiente, ordenamento do território e energia, e assegurar a sua execução;\n\ne) Coordenar e apoiar a intervenção do MAOTE no âmbito da cooperação para o desenvolvimento, em especial, com os países da CPLP, em matéria de ambiente, ordenamento do território e energia;\n\nf) Promover a coordenação da preparação e participação nas atividades de cooperação bilateral ou multilateral e de cooperação para o desenvolvimento, nomeadamente, Cimeiras Bilaterais e Fora Multilaterais;\n\ng) Coordenar a intervenção do Ministério nos aspetos jurídicos dos acordos multilaterais no domínio do MAOTE, competindo-lhe ainda desencadear os mecanismos de assinatura e ratificação das convenções e acordos internacionais em matéria de ambiente, ordenamento do território e energia;\n\nh) Assegurar o cumprimento de todas as obrigações financeiras decorrentes dos instrumentos de direito internacional referidos na alínea anterior."
+  },
+  "70902271": {
+   "fragment_id": "70902327",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços de Administração Financeira e Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviços de Administração Financeira e Patrimonial\n\nAos Serviços de Administração Financeira e Patrimonial, abreviadamente designados por SAFP, compete:\n\na) Elaborar as propostas de orçamento da SG e dos gabinetes dos membros do Governo que integram o Ministério, bem como dos serviços, comissões e grupos de trabalho a que presta apoio;\n\nb) Assegurar a execução dos orçamentos sob a sua responsabilidade, garantindo todos os procedimentos técnicos, administrativos e contabilísticos de acordo com princípios de boa gestão e com as disposições legais aplicáveis;\n\nc) Instruir os processos relativos a despesas referentes aos orçamentos geridos pela SG, verificar a conformidade legal e orçamental de todos os documentos de despesa e preparar o respetivo pagamento;\n\nd) Proceder à análise permanente da evolução da execução dos orçamentos sob a sua responsabilidade, prestando informações periódicas que permitam o seu controlo;\n\ne) Elaborar relatórios financeiros periódicos e preparar a prestação anual de contas;\n\nf) Apoiar a elaboração e acompanhamento do orçamento do Ministério em articulação com os demais serviços e organismos integrados no MAOTE;\n\ng) Assegurar as funções de unidade ministerial de compras e coordenar, no âmbito do Ministério, a aplicação dos normativos legais em vigor na Administração Pública, neste domínio;\n\nh) Organizar os procedimentos e a celebração de contratos para a realização de obras e para a aquisição de bens e serviços;\n\ni) Assegurar a gestão, distribuição, controlo e o inventário dos bens e equipamentos afetos à SG ou à sua guarda;\n\nj) Gerir o parque de viaturas automóveis afeto aos gabinetes dos membros do Governo, à SG e às restantes entidades a que presta apoio;\n\nk) Coordenar a gestão global dos recursos patrimoniais do Ministério, nomeadamente instalações e material de transporte, e exercer as funções de unidade de gestão patrimonial;\n\nl) Gerir o edifício sede do MAOTE, bem como outras instalações que lhe estejam afetas, assegurando a sua vigilância, segurança, limpeza e conservação."
+  },
+  "70902272": {
+   "fragment_id": "70902328",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços de Recursos Humanos\n\nAos Serviços de Recursos Humanos, abreviadamente designados por SRH, compete:\n\na) Promover a aplicação das medidas de política de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do Ministério na respetiva implementação, em articulação com as entidades centrais competentes nesta matéria;\n\nb) Emitir parecer em matéria de organização, recursos humanos, avaliação de desempenho e criação ou alteração de mapas de pessoal, nos termos legalmente fixados;\n\nc) Praticar os atos de administração e assegurar o processamento das remunerações e outros abonos do pessoal do mapa da SG, dos gabinetes dos membros do Governo que integram o Ministério, bem como dos órgãos, serviços e outras estruturas a que preste apoio;\n\nd) Organizar e manter atualizada a informação relativa aos recursos humanos do Ministério e à elaboração de indicadores de gestão;\n\ne) Propor, desenvolver e coordenar a política de formação e aperfeiçoamento profissional dos trabalhadores da SG e dos serviços a que presta apoio, bem como dos restantes serviços do Ministério, nas áreas de atuação comuns, identificando as necessidades de formação e aperfeiçoamento profissionais, numa perspetiva integrada, com vista ao enquadramento e desenvolvimento dos recursos humanos e elaborando o programa anual de formação;\n\nf) Programar e acompanhar as ações de seleção, recrutamento de pessoal;\n\ng) Promover, organizar e coordenar o processo de aplicação do SIADAP no âmbito da SG e assegurar a elaboração do relatório síntese da aplicação do sistema de avaliação ao nível do Ministério, relativamente aos seus subsistemas 2 e 3;\n\nh) Monitorizar a execução do QUAR, no âmbito da Secretaria-Geral;\n\ni) Coordenar a elaboração do plano e relatório de atividades e colaborar na preparação do orçamento;\n\nj) Elaborar o balanço social da SG e o balanço social consolidado do Ministério;\n\nk) Assegurar a observância das regras sobre higiene e segurança no trabalho;\n\nl) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, a modernização e a política de qualidade, no âmbito do Ministério, com vista à reorganização funcional dos serviços e à simplificação de procedimentos e dos respetivos métodos de trabalho, sem prejuízo das atribuições cometidas por lei a outros serviços."
+  },
+  "70902273": {
+   "fragment_id": "70902329",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços de Apoio Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços de Apoio Jurídico\n\nAos Serviços de Apoio Jurídico, abreviadamente designada por SAJ, compete:\n\na) Prestar apoio jurídico e contencioso aos membros do Governo do MAOTE;\n\nb) Assegurar a coordenação do processo legislativo do MAOTE, incluindo a elaboração de projetos legislativos e, quando tal lhe seja determinado, os prévios estudos jurídicos;\n\nc) Colaborar nas ações de natureza legislativa relativas à aplicação interna do direito comunitário nas áreas de competência do MAOTE, propondo as medidas necessárias para a simplificação, harmonização e atualização legislativa;\n\nd) Representar o Ministério nas ações administrativas e demais procedimentos de natureza contenciosa, sem prejuízo das competências dos Serviços de Relações Internacionais em matéria de contencioso comunitário;\n\ne) Prestar apoio ao Ministério Público, nos processos relacionados com a atividade do Ministério;\n\nf) Emitir parecer e elaborar projetos de resposta nos recursos hierárquicos interpostos para os membros do Governo do MAOTE;\n\ng) Intervir em quaisquer processos de sindicância, inquéritos, averiguações ou disciplinares e emitir parecer que habilite os membros do Governo a proferir decisão em processos disciplinares, quando solicitada para o efeito;\n\nh) Elaborar pareceres, informações e estudos de caráter jurídico sobre quaisquer assuntos de interesse para o MAOTE."
+  },
+  "70902274": {
+   "fragment_id": "70902330",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nÉ fixado em 12 o número máximo de unidades orgânicas flexíveis, com a denominação de divisão, gabinete ou unidade, aos quais correspondem cargos dirigentes intermédios de 2.º grau."
+  },
+  "70902475": {
+   "fragment_id": "70902331",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de junho de 2014."
+  },
+  "70902496": {
+   "fragment_id": "70902324",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Secretaria-Geral",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral\n\n1 - A Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia (SG) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Serviços de Prospetiva e Planeamento;\n\nb) Serviços de Relações Internacionais;\n\nc) Serviços de Administração Financeira e Patrimonial;\n\nd) Serviços de Recursos Humanos;\n\ne) Serviços de Apoio Jurídico.\n\nf) Unidade Ministerial de Compras.\n\n2 - As unidades referidas nas alíneas a) a f) do número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902483": {
+   "fragment_id": "70902340",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Prestação centralizada de serviços comuns",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 1.º-A — Prestação centralizada de serviços comuns\n\n1 - A SG assegura, nos termos do n.º 4 do artigo 2.º do Decreto-Lei n.º 54/2014, de 9 de abril, alterado pelo Decreto-Lei n.º 153/2015, de 7 de agosto, a prestação centralizada de serviços comuns nas seguintes áreas de atividade:\n\na) Gestão de recursos humanos;\n\nb) Gestão de recursos financeiros e patrimoniais;\n\nc) Apoio jurídico e de contencioso.\n\n2 - A prestação centralizada de serviços comuns a que se refere o número anterior é assegurada aos seguintes serviços do Ministério do Ambiente, Ordenamento do Território e Energia:\n\na) Inspeção-Geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar;\n\nb) Direção-Geral do Território;\n\nc) Direção-Geral de Energia e Geologia.\n\n3 - A prestação centralizada de serviços à Inspeção-Geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar não engloba as atividades compreendidas na alínea c) do n.º 1.\n\n4 - A prestação centralizada de serviços comuns não prejudica as competências próprias ou delegadas dos respetivos dirigentes máximos, sendo o seu funcionamento enquadrado por protocolos que estabelecem as regras necessárias à atuação de cada uma das partes intervenientes.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902498": {
+   "fragment_id": "70902325",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços de Prospetiva e Planeamento",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Serviços de Prospetiva e Planeamento\n\nAos Serviços de Prospetiva e Planeamento, abreviadamente designados por SPP, compete:\n\na) Promover o estudo prospetivo e o acompanhamento de tendências de evolução política, económica, social, demográfica e tecnológica nos diversos domínios relevantes para a atuação do Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE), bem como a articulação e partilha de informação entre os serviços e organismos do MAOTE a esse respeito;\n\nb) Apoiar a ação do MAOTE na definição dos objetivos, estratégia e formulação das políticas;\n\nc) Promover a análise integrada da monitorização de políticas e medidas em curso, produzindo relatórios sobre o estado e pressões a que o ambiente está sujeito, nomeadamente o Relatório do Estado do Ambiente;\n\nd) Elaborar e participar em estudos sobre instrumentos e processos de avaliação económica, tecnológica, financeira e fiscal de suporte à aplicação das políticas ambientais e de desenvolvimento sustentável e promover e realizar análises custo-benefício sobre os efeitos de natureza socioeconómica da aplicação dessas políticas;\n\ne) Desenvolver os modelos e metodologias necessários à elaboração de cenários e projeções quantificadas para as principais variáveis económicas, sociais e ambientais, no médio e longo prazo;\n\nf) Desenhar, adaptar e implementar, em diálogo com atores especializados, metodologias para avaliação e simulação de efeitos macroeconómicos das políticas com impacto no ambiente, no ordenamento do território e na energia;\n\ng) Cooperar com outros serviços e organismos da Administração Pública, bem como com outras entidades, na conceção, gestão e implementação de processos de prospetiva e estratégia nas áreas do ambiente, do ordenamento do território, da sustentabilidade e da energia;\n\nh) Assegurar a coordenação e elaboração dos contributos do MAOTE para as Grandes Opções do Plano, em articulação com os demais serviços e organismos do MAOTE;\n\ni) Exercer as funções de entidade coordenadora do programa orçamental do MAOTE e acompanhar a sua execução, apoiando tecnicamente a elaboração de instrumentos de gestão e previsão orçamental, em articulação com outras entidades com competência neste domínio;\n\nj) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MAOTE;\n\nk) Desenvolver um sistema integrado de indicadores nos domínios relevantes para as funções do Ministério;\n\nl) Assegurar o acesso e disponibilização de informação, mediante articulação e a interoperabilidade com os sistemas de informação dos serviços e organismos do MAOTE, para apoiar a decisão política e estratégica.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902500": {
+   "fragment_id": "70902326",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços de Relações Internacionais",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Serviços de Relações Internacionais\n\nAos Serviços de Relações Internacionais, abreviadamente designados por SRI, compete, em articulação com os competentes serviços do Ministério dos Negócios Estrangeiros sempre que necessário:\n\na) Acompanhar e apoiar tecnicamente a intervenção dos serviços e organismos do MAOTE nas instâncias comunitárias, europeias e multilaterais, assegurando a coordenação da participação e representação do Ministério e da definição das respetivas posições nacionais;\n\nb) Acompanhar o desenvolvimento das políticas da União Europeia da competência do MAOTE, coordenando a preparação da participação Ministerial nas reuniões do Conselho de Ministros da União Europeia;\n\nc) Colaborar na definição da política de cooperação internacional em matéria de ambiente, ordenamento do território e energia, e assegurar a sua execução;\n\nd) Coordenar e apoiar a intervenção do MAOTE no âmbito da cooperação para o desenvolvimento, em especial, com os países da CPLP, em matéria de ambiente, ordenamento do território e energia;\n\ne) Promover a coordenação da preparação e participação nas atividades de cooperação bilateral ou multilateral e de cooperação para o desenvolvimento, nomeadamente, Cimeiras Bilaterais e Fora Multilaterais;\n\nf) Coordenar a intervenção do Ministério nos aspetos jurídicos dos acordos multilaterais no domínio do MAOTE, competindo-lhe ainda desencadear os mecanismos de assinatura e ratificação das convenções e acordos internacionais em matéria de ambiente, ordenamento do território e energia;\n\ng) Assegurar o cumprimento de todas as obrigações financeiras decorrentes dos instrumentos de direito internacional referidos na alínea anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902505": {
+   "fragment_id": "70902327",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços de Administração Financeira e Patrimonial",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Serviços de Administração Financeira e Patrimonial\n\nAos Serviços de Administração Financeira e Patrimonial, abreviadamente designados por SAFP, compete:\n\na) Elaborar as propostas de orçamento da SG e dos gabinetes dos membros do Governo que integram o Ministério, bem como dos serviços, comissões e grupos de trabalho a que presta apoio;\n\nb) Assegurar a execução dos orçamentos sob a sua responsabilidade, garantindo todos os procedimentos técnicos, administrativos e contabilísticos de acordo com princípios de boa gestão e com as disposições legais aplicáveis;\n\nc) Instruir os processos relativos a despesas referentes aos orçamentos geridos pela SG, verificar a conformidade legal e orçamental de todos os documentos de despesa e preparar o respetivo pagamento;\n\nd) Proceder à análise permanente da evolução da execução dos orçamentos sob a sua responsabilidade, prestando informações periódicas que permitam o seu controlo;\n\ne) Elaborar relatórios financeiros periódicos e preparar a prestação anual de contas;\n\nf) Apoiar a elaboração e acompanhamento do orçamento do Ministério em articulação com os demais serviços e organismos integrados no MAOTE;\n\ng)Assegurar a gestão, distribuição, controlo e o inventário dos bens e equipamentos afetos à SG ou à sua guarda;\n\nh) Gerir o edifício sede do MAOTE, bem como outras instalações que lhe estejam afetas, assegurando a sua vigilância, segurança, limpeza e conservação;\n\ni) Coordenar a gestão global dos recursos patrimoniais do Ministério, nomeadamente instalações e material de transporte, e exercer as funções de unidade de gestão patrimonial;\n\nj) Gerir o parque de viaturas automóveis afeto aos gabinetes dos membros do Governo, à SG e às restantes entidades a que presta apoio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902507": {
+   "fragment_id": "70902328",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de Recursos Humanos",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Serviços de Recursos Humanos\n\nAos Serviços de Recursos Humanos, abreviadamente designados por SRH, compete:\n\na) Promover a aplicação das medidas de política de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do Ministério na respetiva implementação, em articulação com as entidades centrais competentes nesta matéria;\n\nb) Emitir parecer em matéria de organização, recursos humanos, avaliação de desempenho e criação ou alteração de mapas de pessoal, nos termos legalmente fixados;\n\nc) Praticar os atos de administração e assegurar o processamento das remunerações e outros abonos do pessoal do mapa da SG, dos gabinetes dos membros do Governo que integram o Ministério, bem como dos órgãos, serviços e outras estruturas a que preste apoio;\n\nd) Organizar e manter atualizada a informação relativa aos recursos humanos do Ministério e à elaboração de indicadores de gestão;\n\ne) Propor, desenvolver e coordenar a política de formação e aperfeiçoamento profissional dos trabalhadores da SG e dos serviços a que presta apoio, bem como dos restantes serviços do Ministério, nas áreas de atuação comuns, identificando as necessidades de formação e aperfeiçoamento profissionais, numa perspetiva integrada, com vista ao enquadramento e desenvolvimento dos recursos humanos e elaborando o programa anual de formação;\n\nf) Programar e acompanhar as ações de seleção, recrutamento de pessoal;\n\ng) Promover, organizar e coordenar o processo de aplicação do SIADAP no âmbito da SG e assegurar a elaboração do relatório síntese da aplicação do sistema de avaliação ao nível do Ministério, relativamente aos seus subsistemas 2 e 3;\n\nh) Promover, organizar e coordenar o processo de aplicação do SIADAP no âmbito da SG e assegurar a elaboração do relatório síntese da aplicação do sistema de avaliação ao nível do Ministério, relativamente aos seus subsistemas 2 e 3;\n\ni) Monitorizar a execução do QUAR, no âmbito da Secretaria-Geral;\n\nj) Coordenar a elaboração do plano e relatório de atividades e colaborar na preparação do orçamento;\n\nl) Assegurar a observância das regras sobre higiene e segurança no trabalho;\n\nm) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, a modernização e a política de qualidade, no âmbito do Ministério, com vista à reorganização funcional dos serviços e à simplificação de procedimentos e dos respetivos métodos de trabalho, sem prejuízo das atribuições cometidas por lei a outros serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902510": {
+   "fragment_id": "70902329",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços de Apoio Jurídico",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Serviços de Apoio Jurídico\n\nAos Serviços de Apoio Jurídico, abreviadamente designada por SAJ, compete:\n\na) Prestar apoio jurídico e contencioso aos membros do Governo do MAOTE;\n\nb) Assegurar a coordenação do processo legislativo do MAOTE, incluindo a elaboração de projetos legislativos e, quando tal lhe seja determinado, os prévios estudos jurídicos;\n\nc) Colaborar nas ações de natureza legislativa relativas à aplicação interna do direito comunitário nas áreas de competência do MAOTE, propondo as medidas necessárias para a simplificação, harmonização e atualização legislativa;\n\nd) Representar o Ministério nas ações administrativas e demais procedimentos de natureza contenciosa, sem prejuízo das competências dos Serviços de Relações Internacionais em matéria de contencioso comunitário;\n\ne) Prestar apoio ao Ministério Público, nos processos relacionados com a atividade do Ministério;\n\nf) Prestar apoio ao Ministério Público, nos processos relacionados com a atividade do Ministério;\n\ng) Emitir parecer e elaborar projetos de resposta nos recursos hierárquicos interpostos para os membros do Governo do MAOTE;\n\nh) Intervir em quaisquer processos de sindicância, inquéritos, averiguações ou disciplinares e emitir parecer que habilite os membros do Governo a proferir decisão em processos disciplinares, quando solicitada para o efeito;\n\ni) Elaborar pareceres, informações e estudos de caráter jurídico sobre quaisquer assuntos de interesse para o MAOTE.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902492": {
+   "fragment_id": "70902341",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Unidade Ministerial de Compras",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Unidade Ministerial de Compras\n\nÀ Unidade Ministerial de Compras, abreviadamente designada por UMC, compete:\n\na) Assegurar as funções de interlocutor entre os serviços do Ministério e a Entidade de Serviços Partilhados da Administração Pública, I. P., no âmbito do Sistema Nacional de Compras Públicas;\n\nb) Promover a centralização, ao nível ministerial, da celebração de contratos públicos, no âmbito dos acordos quadro celebrados pela Entidade de Serviços Partilhados da Administração Pública, I. P.;\n\nc) Promover a centralização, ao nível ministerial, da negociação e celebração de acordos quadro ou outros contratos públicos em matérias não centralizadas pela Entidade de Serviços Partilhados da Administração Pública, I. P.;\n\nd) Assegurar a prestação centralizada de serviços para os serviços integrados do Ministério;\n\ne) Elaborar o Plano Ministerial de Compras e promover o planeamento, em colaboração com os serviços do MAOTE, de ciclos de aquisição para o período;\n\nf) Efetuar a agregação de informação de compras ao nível do Ministério, nos termos definidos pela Entidade de Serviços Partilhados da Administração Pública, I. P.;\n\ng) Monitorizar os consumos e supervisionar a aplicação das condições negociadas, em articulação com as entidades compradoras;\n\nh) Supervisionar a execução orçamental de compras, nomeadamente com vista a assegurar que as reduções de custos unitários se traduzam em poupança efetiva;\n\ni) Assegurar as demais funções cometidas por lei ou superiormente determinadas.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 264/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/264-2015-70139956), em vigor a partir de 2015-09-01"
+  },
+  "70902493": {
+   "fragment_id": "70902330",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nÉ fixado em 12 o número máximo de unidades orgânicas flexíveis, com a denominação de divisão, gabinete ou unidade, aos quais correspondem cargos dirigentes intermédios de 2.º grau."
+  },
+  "70902494": {
+   "fragment_id": "70902331",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de junho de 2014."
+  },
+  "70902495": {
+   "fragment_id": "70902332",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 5 de junho de 2014.\n\nA Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva."
+  },
+  "178192591": {
+   "fragment_id": "70902330",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2017-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 33/2017 - Diário da República n.º 13/2017, Série I de 2017-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/33-2017-105770336), em vigor a partir de 2017-01-19"
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nÉ fixado em 13 o número máximo de unidades orgânicas flexíveis, com a denominação de divisão, gabinete ou unidade, aos quais correspondem cargos dirigentes intermédios de 2.º grau.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 33/2017 - Diário da República n.º 13/2017, Série I de 2017-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/33-2017-105770336), em vigor a partir de 2017-01-19"
+  }
+ }
+}

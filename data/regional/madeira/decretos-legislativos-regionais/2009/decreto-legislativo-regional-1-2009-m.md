@@ -1,0 +1,351 @@
+---
+schema_version: '1.0'
+id: pt:dre:397327:por
+title: Decreto Legislativo Regional n.º 1/2009/M
+short_title: null
+summary: Adapta à administração regional autónoma da Madeira a Lei n.º 12-A/2008, de 27 de Fevereiro, que estabelece os regimes
+  de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 1/2009/M
+official_date: null
+publication_date: '2009-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2009, Série I de 2009-01-12
+  number: '7'
+  series: I
+  supplement: null
+  pages: 233 - 233
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00700/0023300233.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-09-01'
+version_history:
+  file: decreto-legislativo-regional-1-2009-m.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-05'
+    amending: pt:dre:332756:por
+    amending_title: Decreto Legislativo Regional n.º 9/2010/M
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Altera Artigo 4.º
+  - date: '2012-09-04'
+    amending: pt:dre:174831:por
+    amending_title: Decreto Legislativo Regional n.º 26/2012/M
+    changes:
+    - Altera Artigo 5.º-A
+    - Altera Artigo 5.º-B
+    - Altera Artigo 8.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º-A
+    - Revoga Artigo 5.º
+    - Revoga Artigo 7.º
+  - date: '2018-09-01'
+    amending: pt:dre:115886134:por
+    amending_title: Decreto Legislativo Regional n.º 11/2018/M
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/1/2009/m/cons/20180803/pt/html
+  oj: null
+  dre: '397327'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/1-2009-397327
+  internal: pt:dre:397327:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2009-397327
+  metadata_url: https://data.dre.pt/eli/declegreg/1/2009/m/cons/20180803/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-115915158
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-115915158
+  retrieved_at: '2026-10-22T12:20:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 30287b760880ed4140eb80df26eb5ecadfaae05e3b63fd592851ffddab9892c3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:20:42Z'
+  notes: 4 versão(ões); histórico completo em decreto-legislativo-regional-1-2009-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Regime do Contrato de Trabalho em Funções Públicas
+- Concurso
+- Administração Pública
+- Recrutamento de Pessoal
+- Remuneração Acessória
+- Nomeação
+- Madeira.região Autónoma
+- Administração Local
+- Contrato de Trabalho
+- Regime Jurídico
+- Funcionário Público
+- Administração Regional
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+relationships:
+- type: amended_by
+  target: pt:dre:332756:por
+  label: Adita Artigo 4.º-A; Adita Artigo 5.º-A; Adita Artigo 5.º-B; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756
+  date: '2010-06-04'
+- type: amended_by
+  target: pt:dre:174831:por
+  label: Altera Artigo 5.º-A; Altera Artigo 5.º-B; Altera Artigo 8.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo
+    4.º-A; Revoga Artigo 5.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831
+  date: '2012-09-03'
+- type: amended_by
+  target: pt:dre:115886134:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134
+  date: '2018-08-03'
+- type: cites
+  target: pt:dre:246372:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/9/2008/03/27/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:389620:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/1991/12/05/m/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:20:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 1/2009/M
+
+Decreto Legislativo Regional n.º 1/2009/M
+
+Adapta à administração regional autónoma da Madeira a Lei n.º 12-A/2008, de 27 de Fevereiro, que estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas.
+
+A Lei n.º 12-A/2008, de 27 de Fevereiro, estabeleceu os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas e estatuiu no n.º 2 do artigo 3.º a sua adaptação às Regiões Autónomas, à qual se procede através do presente diploma.
+
+Nesse sentido, são introduzidas normas que adaptam competências em matérias de natureza orçamental e de gestão de despesas relativas às situações de emprego, já constituídas ou a constituir, e salvaguarda-se a validade de situações relativas ao recrutamento e mobilidade de pessoal que se encontrem pendentes.
+
+São também estabelecidas regras de vigência transitória relativas à manutenção ou conversão da relação jurídica de emprego público.
+
+Foram cumpridos os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea qq) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterado pela Lei n.º 130/99, de 21 de Agosto, e pela Lei n.º 12/2000, de 21 de Junho, e do n.º 2 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro, decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma adapta à administração regional autónoma da Madeira a Lei n.º 12-A/2008, de 27 de Fevereiro, que estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 2.º — Publicações
+
+Todas as referências a publicações a efectuar no Diário da República, constantes da Lei n.º 12-A/2008, de 27 de Fevereiro, reportam-se ao Jornal Oficial da Região Autónoma da Madeira.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 3.º — Orçamentação e gestão das despesas com pessoal
+
+A competência dos dirigentes máximos em matéria de orçamentação e gestão das despesas com pessoal abrange os chefes de gabinete que tenham competências em matéria de pessoal.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+###### Artigo 4.º — Manutenção e conversão da relação jurídica de emprego público
+
+1 - Os actuais trabalhadores da administração regional autónoma nomeados definitivamente mantêm a nomeação definitiva, sem prejuízo de poderem optar pela transição para o regime de contrato por tempo indeterminado, nos termos previstos na Lei n.º 12-A/2008, caso manifestem essa intenção por escrito, no prazo de 90 dias, contados da entrada em vigor do presente diploma ou do Regime do Contrato de Trabalho em Funções Públicas (RCTFP).
+
+2 - Os actuais trabalhadores provisoriamente nomeados ou em comissão de serviço durante o período probatório, bem como em contrato administrativo de provimento para a realização de estágio ou em comissão de serviço extraordinária, findos os respectivos períodos probatórios ou os estágios e reunidos os demais requisitos de ingresso previstos nos regimes que lhes deram origem, transitam para a modalidade de nomeação definitiva, aplicando-se o disposto na parte final do número anterior.
+
+3 - Os trabalhadores que actualmente se encontrem no exercício de funções nomeados em substituição, em cargos não dirigentes, mantêm essa situação no regime em que foi constituída, até à alteração do Decreto Legislativo Regional n.º 9/2008/M, de 27 de Março.
+
+4 - Os actuais trabalhadores que se encontrem requisitados, destacados ou abrangidos em alguma situação de mobilidade geral mantêm a respectiva situação em que se encontram até à alteração do diploma referido no número anterior.
+
+5 - Mantêm-se em vigor os regimes específicos de mobilidade e as regras definidoras da situação jurídico-funcional dos trabalhadores da administração pública regional que, por força da reestruturação dos serviços a que pertenciam ou da transformação daqueles serviços em empresas públicas, foram colocados a exercer funções em pessoas colectivas excluídas do âmbito de aplicação da Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+###### Artigo 4.º-A — Aplicação de diplomas de revisão de carreiras e corpos especiais
+
+Aos trabalhadores abrangidos nos n.os 1 e 2 do artigo anterior, que tenham mantido o vínculo de nomeação e estejam integrados em carreiras ou corpos especiais aos quais sejam aplicáveis regimes jurídicos de âmbito nacional, aplicam-se os diplomas legais que, em cumprimento do artigo 101.º da Lei n.º 12-A/2008, de 27 de Fevereiro, procedam à revisão das respectivas carreiras ou corpos especiais, independentemente do vínculo de emprego público a que respeite o âmbito de aplicação desses diplomas.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2010/M - Diário da República n.º 108/2010, Série I de 2010-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), em vigor a partir de 2010-06-05, produz efeitos a partir de 2010-06-05
+
+###### Artigo 5.º — Concursos, reclassificações e reconversões
+
+São válidos os procedimentos relativos a concursos de recrutamento e selecção, reclassificações e reconversões profissionais de pessoal pendentes à data da entrada em vigor do presente diploma ou do RCTFP.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+###### Artigo 5.º-A — Sistema centralizado de gestão
+
+1 - Sem prejuízo, designadamente, do disposto no título ii e no capítulo iv do título iv da Lei n.º 12-A/2008, de 27 de fevereiro, os departamentos do Governo Regional aplicam um sistema centralizado de gestão de recursos humanos, doravante designado por sistema centralizado de gestão, nas situações e termos previstos pelas respetivas orgânicas, observando o definido nos números seguintes.
+
+2 - O sistema centralizado de gestão consiste na concentração de trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, no respetivo departamento governamental, através de lista nominativa, e sua posterior afetação aos órgãos e serviços da administração regional direta e indireta que o integram, com exceção das entidades públicas empresariais, de acordo com as necessidades verificadas.
+
+3 - A lista nominativa a que se refere o número anterior é publicada na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
+
+4 - A afectação dos trabalhadores constantes da lista nominativa referida nos números anteriores é feita através de despacho do respectivo membro do Governo Regional, comunicado aos trabalhadores e tornado público por afixação no serviço e inserção na respectiva página electrónica.
+
+5 - A afectação determina a integração do trabalhador no órgão ou serviço a que respeite, para todos os efeitos legais, mantendo-se em tudo o mais a respectiva situação jurídico-funcional, nomeadamente a modalidade de relação jurídica de emprego público, carreira, categoria e posição remuneratória.
+
+6 - A afectação do trabalhador ao órgão ou serviço cessa com a verificação de qualquer situação de mobilidade, exercício de cargo em regime de comissão de serviço ou revisão do despacho de afectação.
+
+7 - A previsão de necessidades de pessoal dos departamentos do Governo Regional com sistema centralizado de gestão é feita através dos mapas de pessoal dos respectivos órgãos e serviços e neles devem constar os seguintes postos de trabalho:
+
+a) Os relativos a trabalhadores que já lhes estão afectos;
+
+b) Os referentes a trabalhadores do órgão ou serviço, quando o sistema centralizado de gestão do departamento governamental seja misto, isto é, centralizado relativamente a trabalhadores integrados em determinadas carreiras e descentralizado no que respeita a trabalhadores de carreiras ou corpos especiais ainda existentes, cujo conteúdo funcional respeite às atribuições do respectivo órgão ou serviço;
+
+c) Os relativos a cargos dirigentes;
+
+d) Os postos de trabalho referentes a relações jurídicas de emprego público constituídas por tempo determinado ou determinável;
+
+e) Os postos de trabalho relativos a necessidades de recrutamento.
+
+8 - Os mapas de pessoal devem ser acompanhados de informação que indique o número de postos de trabalho referidos na alínea a) do número anterior que podem ser disponibilizados para posterior afectação ou aplicação de medida de mobilidade geral.
+
+9 - A proposta orçamental dos órgãos e serviços nos termos do n.º 1 do artigo 4.º da Lei n.º 12-A/2008, de 27 de Fevereiro, deve contemplar as verbas necessárias para satisfazer os encargos com todos os postos de trabalho previstos no respectivo mapa de pessoal e com alterações de posicionamento remuneratório e prémios de desempenho.
+
+10 - O recrutamento de trabalhadores para postos de trabalho que se encontram abrangidos pelo sistema centralizado de gestão é feito para o respectivo departamento do Governo Regional, sendo, todavia, desde logo determinado no aviso de publicitação do procedimento, ou no pedido de utilização de reservas de recrutamento, o órgão ou serviço a que o trabalhador ficará afecto, através da referência ao respectivo mapa de pessoal onde o posto de trabalho se encontra previsto.
+
+11 - Os departamentos do Governo Regional que à data da entrada em vigor da Lei n.º 12-A/2008, de 27 de Fevereiro, dispunham de um sistema centralizado de gestão de recursos humanos, através da existência de um quadro único, substituirão o referido quadro por lista nominativa dos trabalhadores do departamento governamental, com relação jurídica de emprego público constituída por tempo indeterminado, que integram o sistema centralizado de gestão.
+
+12 - A lista nominativa a que se refere o n.º 2 e o número anterior será actualizada sempre que se verifique um recrutamento para constituição de relação de jurídica de emprego público por tempo indeterminado, cujo posto de trabalho esteja abrangido pelo sistema de gestão centralizado, depois de decorrido o respectivo período experimental.
+
+13 - No caso da opção pelo sistema centralizado de gestão, constará dos diplomas que consagram as orgânicas dos respectivos departamentos do Governo Regional a regulamentação da afectação definindo, designadamente, as carreiras e categorias abrangidas naquele sistema, bem como a indicação da adopção do sistema de gestão misto, nos termos definidos na alínea b) do n.º 7.
+
+14 - Aos trabalhadores mantidos no sistema centralizado do respetivo departamento e ou no quadro interdepartamental regional governamental durante mais de 15 dias, consecutivos ou interpolados, sem afetação aos órgãos e serviços da administração regional autónoma da Madeira, aplica-se a Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2010/M - Diário da República n.º 108/2010, Série I de 2010-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), em vigor a partir de 2010-06-05, produz efeitos a partir de 2010-06-05
+
+###### Artigo 5.º-B — Recrutamento
+
+1 - O recrutamento de trabalhadores para os órgãos e serviços da administração regional direta e indireta da Madeira, cuja área de recrutamento seja aberta a trabalhadores com relação jurídica constituída por tempo determinado ou determinável e a indivíduos sem relação jurídica de emprego público constituída, carece de autorização dos membros do Governo responsáveis pelas áreas da Administração Pública e das finanças.
+
+2 - (Revogado.)
+
+3 - A publicitação dos procedimentos concursais destinados ao recrutamento de trabalhadores para os órgãos e serviços da administração regional autónoma da Madeira é feita, obrigatoriamente e de forma integral, na 2.ª série do Jornal Oficial da Região Autónoma da Madeira e, por extracto, pelos seguintes meios:
+
+a) Na página electrónica da entidade responsável pela realização do concurso, a partir da data da publicação no Jornal Oficial;
+
+b) Na bolsa de emprego público da Madeira.
+
+4 - A constituição de reservas de recrutamento por entidade centralizada, destinada aos órgãos e serviços da administração regional autónoma da Madeira, será feita em condições a regulamentar.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2010/M - Diário da República n.º 108/2010, Série I de 2010-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), em vigor a partir de 2010-06-05, produz efeitos a partir de 2010-06-05
+
+###### Artigo 6.º — Complemento regional de remuneração
+
+O complemento regional de remuneração mantém o regime de atribuição definido no Decreto Legislativo Regional n.º 24/91/M, de 5 de Dezembro.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 7.º — Norma de prevalência
+
+O regime definido no presente diploma prevalece sobre quaisquer disposições relativas à mesma matéria.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+###### Artigo 8.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+2- (Revogado.)
+
+3- (Revogado.)
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 26/2012/M - Diário da República n.º 170/2012, Série I de 2012-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), em vigor a partir de 2012-09-04
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de Dezembro de 2008.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 29 de Dezembro de 2008.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01

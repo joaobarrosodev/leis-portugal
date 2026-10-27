@@ -1,0 +1,433 @@
+---
+schema_version: '1.0'
+id: pt:dre:517435:por
+title: Decreto-Lei n.º 162/2004
+short_title: null
+summary: Altera o Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 162/2004
+official_date: null
+publication_date: '2004-07-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2004, Série I-A de 2004-07-03
+  number: '155'
+  series: I
+  supplement: null
+  pages: 4048 - 4051
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/155a00/40484051.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/162/2004/07/03/p/dre/pt/html
+  oj: null
+  dre: '517435'
+  dre_path: /dr/detalhe/decreto-lei/162-2004-517435
+  internal: pt:dre:517435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2004-517435
+  metadata_url: https://data.dre.pt/eli/dec-lei/162/2004/07/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2004-517435
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b5202c9e3c9a1a8e6116d076a35740aff235671d7da39c53277d3f1f91a143f6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CE Países
+- Código dos Impostos Especiais de Consumo
+- Comércio
+- Consumo
+- Declaração de Exportação
+- Direcção Geral de Geologia e Energia
+- Documento Eletrónico
+- Exportação
+- Fiscalização
+- Garantia
+- Importação
+- Imposto Especial sobre o Consumo
+- Prazo
+- Reembolso
+relationships:
+- type: amended_by
+  target: pt:dre:335474:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 13.º e 14.º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os art. 30º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez, com a\
+    \ redacção constante do presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 28º, 30º e 35º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de\
+    \ 22-Dez, na redacção do presente diploma ( que aditou as als. e) aos arts. 28 e 30º), pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 27º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez, na redacção\
+    \ do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 35.º e 47.º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez,\
+    \ na redacção do presente diploma, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:662084:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o Dec Lei 566/99, de 22-Dez, na redacção do presente diploma, pelo DEC LEI.73/2010.21.06.2010.MFAP,\
+    \ DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:44:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 162/2004
+
+de 3 de Julho
+
+O Código dos Impostos Especiais de Consumo, aprovado pelo [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, carece de algumas alterações, nomeadamente no domínio das obrigações declarativas. O presente diploma visa colmatar algumas insuficiências nesta matéria prevendo-se que as obrigações declarativas possam ser cumpridas por meios electrónicos.
+
+Quanto à regulamentação dos reembolsos, nos casos em que os produtos anteriormente tributados são expedidos para outro Estado membro, tem suscitado problemas burocráticos no apuramento do pagamento do imposto, nomeadamente quando os produtos são sujeitos a transacções sucessivas. Assim, sem pôr em causa o direito ao reembolso, prevê-se que este seja efectuado após ter sido feita prova do pagamento do imposto através da declaração de introdução no consumo e do respectivo documento de pagamento.
+
+Prevê-se, ainda, a alteração dos prazos da apresentação das declarações, tendo em vista possibilitar o controlo das operações em tempo real, isto é, antes de os produtos saírem dos entrepostos fiscais ou serem introduzidos no consumo.
+
+Finalmente, no que respeita aos operadores registados e representantes fiscais estabelece-se a obrigatoriedade da apresentação de uma declaração junto da estância aduaneira mais próxima do local de entrada em território nacional.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alterações ao Código dos Impostos Especiais de Consumo
+
+Os artigos 8.º, 13.º, 14.º, 27.º, 35.º e 47.º do Código dos Impostos Especiais de Consumo, aprovado pelo [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 8.º
+
+Formalidades na introdução no consumo
+
+1 - A introdução no consumo deve ser formalizada através da declaração de introdução no consumo (DIC).
+
+2 - A DIC é processada por transmissão electrónica de dados, nos termos definidos por despacho normativo do Ministro das Finanças, podendo a autoridade aduaneira autorizar a apresentação de declarações, por particulares, em suporte de papel.
+
+3 - A DIC deve ser enviada à estância aduaneira competente até ao final do dia em que ocorreram as introduções no consumo.
+
+4 - A estância aduaneira competente pode autorizar o processamento de DIC global com periodicidade mensal, trimestral ou semestral para as introduções no consumo de produtos sujeitos à taxa zero ou isentos.
+
+Artigo 13.º
+
+Reembolso na expedição
+
+1 - ...
+
+a) Os expedidores devem apresentar um pedido de reembolso na estância aduaneira onde foi processada a respectiva DIC até dois dias úteis antes da expedição dos produtos, podendo aquele prazo ser reduzido mediante pedido devidamente fundamentado;
+
+b) O pedido de reembolso deve conter a indicação do local onde os produtos se encontram e se os mesmos possuem marcas fiscais ou marcas de identificação nacional;
+
+c) A prova do pagamento do imposto é feita mediante a apresentação da DIC, que mencionará as estampilhas especiais e as marcas de identificação nacional apostas nos produtos, discriminando as respectivas quantidades por entidade requisitante, e do respectivo documento de pagamento;
+
+d) Os expedidores apresentam à estância aduaneira onde foi solicitado o pedido de reembolso o exemplar n.º 3 do documento administrativo simplificado (DAS), devidamente anotado pelo destinatário e acompanhado de um documento que ateste a tomada a cargo do imposto no Estado membro de consumo, ou que inclua uma menção onde se refira o endereço do serviço competente das autoridades fiscais do Estado membro de destino e a data de aceitação da declaração, bem como o número de referência ou de registo dessa mesma declaração;
+
+e) ...
+
+2 - ...
+
+Artigo 14.º
+
+Reembolso na exportação
+
+1 - ...
+
+2 - ...
+
+a) Os operadores referidos no n.º 1 devem apresentar um pedido de reembolso, conjuntamente com a declaração de exportação e respectiva DIC, junto da estância aduaneira de exportação;
+
+b) O pedido de reembolso deve conter a indicação do local onde os produtos se encontram e se os mesmos possuem marcas fiscais ou marcas de identificação nacional;
+
+c) A prova do pagamento do imposto é efectuada mediante a apresentação da DIC, que mencionará as estampilhas especiais e as marcas de identificação nacional apostas nos produtos, discriminando as respectivas quantidades por entidade requisitante, e do respectivo documento de pagamento;
+
+d) A prova da saída efectiva do território da Comunidade é efectuada mediante a apresentação do exemplar n.º 3 da declaração de exportação devidamente anotado.
+
+3 - Verificadas as condições referidas nos n.os 1 e 2, a estância aduaneira de exportação poderá autorizar o reembolso do imposto, desde que a destruição das marcas fiscais ou das marcas de identificação nacional seja controlada pela autoridade aduaneira e o pedido seja apresentado no prazo de três anos a contar da data da liquidação do imposto.
+
+Artigo 27.º
+
+Autorização dos operadores registados e representantes fiscais
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Documento emitido pela Direcção-Geral de Geologia e Energia atestando o cumprimento das obrigações em matéria de reservas estratégicas ou de ter sido demonstrada a existência de condições para o seu cumprimento, em caso de início de actividade.
+
+2 - ...
+
+3 - ...
+
+Artigo 35.º
+
+Formalidades na circulação
+
+1 - O documento administrativo de acompanhamento é processado por transmissão electrónica de dados, devendo ser emitidos:
+
+a) Na circulação intracomunitária quatro exemplares, destinando-se:
+
+O exemplar n.º 1 ao expedidor;
+
+O exemplar n.º 2 ao destinatário;
+
+O exemplar n.º 3 a ser reenviado ao expedidor para apuramento;
+
+O exemplar n.º 4 às autoridades competentes do Estado membro de destino;
+
+b) Na circulação nacional, os exemplares n.os 1 e 2, destinando-se:
+
+O exemplar n.º 1 ao expedidor;
+
+O exemplar n.º 2 ao destinatário.
+
+2 - A transmissão electrónica do documento administrativo de acompanhamento deve ser efectuada nos seguintes prazos:
+
+a) Na expedição, com a antecedência mínima de seis horas em relação à partida do meio de transporte, sendo interrompida a contagem deste prazo fora das horas normais de funcionamento da estância aduaneira competente, incluindo sábados, domingos e feriados;
+
+b) Na recepção, de imediato, caso esta ocorra em dia útil ou, caso contrário, no 1.º dia útil seguinte à data da recepção.
+
+3 - Na circulação intracomunitária, quando o destino for o território nacional, o exemplar n.º 3 é visado pela estância aduaneira competente, devendo ser apresentado para o efeito até ao final do mês em que ocorreram as expedições, salvo nos casos previstos na alínea e) do artigo 28.º e na alínea e) do artigo 30.º, em que o meio de transporte e o documento administrativo de acompanhamento devem ser apresentados na estância aduaneira mais próxima do local de entrada em território nacional.
+
+4 - Os operadores referidos no n.º 1 do artigo 3.º devem enviar ao expedidor, para efeitos de apuramento, o exemplar referido no n.º 3 o mais tardar até ao dia 15 do mês seguinte ao da recepção.
+
+5 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Número de referência ou de registo atribuído pela estância aduaneira competente, bem como o respectivo visto;
+
+e) ...
+
+6 - O regime de suspensão do imposto é apurado:
+
+a) ...
+
+b) Após a recepção pelo expedidor do exemplar de reenvio do documento administrativo de acompanhamento ou de uma cópia do documento comercial de acompanhamento devidamente anotados;
+
+c) Na circulação nacional, pela confirmação electrónica da recepção.
+
+7 - ...
+
+8 - O expedidor deve informar a estância aduaneira competente no prazo de dois meses a contar da data de expedição dos produtos sobre os casos de não apuramento do regime.
+
+9 - Decorrido o prazo referido no número anterior e logo que seja constatada a situação de não apuramento, a estância aduaneira competente liquidará o imposto e notificará o sujeito passivo para efectuar o pagamento no prazo previsto no artigo 10.º
+
+10 - Os operadores referidos no n.º 1 do artigo 3.º devem ainda prestar à estância aduaneira competente, nos termos a determinar por despacho do director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, as informações necessárias ao cálculo do imposto devido pela eventual introdução no consumo dos produtos em circulação.
+
+Artigo 47.º
+
+Ajuste e alteração de garantias
+
+1 - Os montantes das garantias previstas no presente capítulo devem ser ajustados em função da alteração das circunstâncias, nomeadamente do número de operações efectuadas e do montante do imposto a garantir, não podendo o valor daí resultante ser inferior aos limites mínimos previstos nem superior a (euro) 2500000.
+
+2 - ...
+
+3 - Pode o Ministro das Finanças conceder uma redução extraordinária da garantia de armazenagem não inferior ao quádruplo do imposto médio mensal pago no ano anterior, com o limite mínimo de (euro) 50000, desde que:
+
+a) O estatuto tenha sido concedido há mais de um ano;
+
+b) O operador não tenha sido condenado pela prática de contra-ordenação tributária grave ou crime tributário;
+
+c) O imposto devido pelas introduções no consumo, em cada momento, não exceda o montante de garantia prestada.»
+
+###### Artigo 2.º — Aditamentos ao Código dos Impostos Especiais de Consumo
+
+1 - É aditada uma alínea e) ao n.º 2 do artigo 28.º do [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, que aprova o Código dos Impostos Especiais de Consumo, com a seguinte redacção:
+
+«Artigo 28.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Fazer uma declaração junto da estância aduaneira mais próxima do local de entrada do meio de transporte em território nacional, antes da expedição dos produtos com destino àquele território.»
+
+2 - É aditada uma alínea e) ao artigo 30.º do [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, que aprova o Código dos Impostos Especiais de Consumo, com a seguinte redacção:
+
+«Artigo 30.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Fazer uma declaração junto da estância aduaneira mais próxima do local de entrada do meio de transporte em território nacional, antes da expedição dos produtos com destino àquele território.»
+
+3 - É aditado o n.º 4 ao artigo 34.º do [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, que aprova o Código dos Impostos Especiais de Consumo, com a seguinte redacção:
+
+«Artigo 34.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O disposto nos números anteriores não pode ter por efeito transformar uma operação de circulação nacional numa operação de circulação intracomunitária.»
+
+4 - São aditados os n.os 10 e 11 ao artigo 44.º do [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, que aprova o Código dos Impostos Especiais de Consumo, com a seguinte redacção:
+
+«Artigo 44.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - No caso de importação, é prestada uma garantia isolada pelo declarante do DU que responderá pelas eventuais irregularidades cometidas durante a circulação até ao entreposto fiscal destinatário.
+
+11 - Em derrogação do disposto no n.º 4, o montante da garantia global de circulação, prestada pelo transportador, será calculado com base nas operações de circulação em suspensão em que interveio como garante, ou da sua previsão média mensal para o primeiro ano.»
+
+5 - São aditados os n.os 3, 4 e 5 ao artigo 88.º do [Decreto-Lei n.º 566/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), de 22 de Dezembro, que aprova o Código dos Impostos Especiais de Consumo, com a seguinte redacção:
+
+«Artigo 88.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Os operadores económicos que comercializem produtos de tabaco que não se destinem a ser introduzidos no consumo em território nacional devem comunicar previamente à estância aduaneira competente, no prazo previsto no n.º 1 do artigo 89.º, os elementos constantes das alíneas a) a c) do n.º 2 do mesmo artigo, bem como as subsequentes alterações.
+
+4 - Os operadores económicos deverão ainda indicar previamente à estância aduaneira competente os preços de venda que seriam praticados se os produtos se destinassem a ser introduzidos no consumo no território nacional, bem como as subsequentes alterações desses preços.
+
+5 - Às marcas referidas no presente artigo aplica-se, com as devidas adaptações, o disposto nos n.os 5 e 6 do artigo 89.º»
+
+6 - É aditado ao Código dos Impostos Especiais de Consumo o artigo 106.º, com a seguinte redacção:
+
+«Artigo 106.º
+
+Procedimentos de aplicação
+
+A regulamentação dos procedimentos de aplicação do presente Código será efectuada por portaria do Ministro das Finanças.»
+
+###### Artigo 3.º — Revogação
+
+É revogado o artigo 77.º do Código dos Impostos Especiais de Consumo.
+
+###### Artigo 4.º — Entrada em vigor e produção de efeitos
+
+1 - O presente diploma entra em vigor no 1.º dia do mês seguinte ao da data da sua publicação.
+
+2 - O n.º 3 do artigo 8.º, a alínea e) do n.º 2 do artigo 28.º, a alínea e) do artigo 30.º e o artigo 35.º produzem efeitos a partir do dia 1 de Outubro de 2004.
+
+Visto e aprovado em Conselho de Ministros de 27 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.
+
+Promulgado em 22 de Junho de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 23 de Junho de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:3659206:por
+title: Declaração de Rectificação n.º 3013/2009
+short_title: null
+summary: Declaração de rectificação do aviso (extracto) n.º 21 609/2009, publicado no Diário da República, 2.ª série, n.º
+  232, de 30 de Novembro de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direcção de Administração de Recursos Humanos - Repartição
+  de Pessoal Civil
+proposing_entity: null
+official_number: 3013/2009
+official_date: null
+publication_date: '2009-12-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 243/2009, Série II de 2009-12-17
+  number: '243'
+  series: II
+  supplement: null
+  pages: 50833 - 50834
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/12/243000000/5083350834.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3659206'
+  dre_path: /dr/detalhe/declaracao-rectificacao/3013-2009-3659206
+  internal: pt:dre:3659206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3013-2009-3659206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3013-2009-3659206
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:10:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 80812ea0708bc2c7f364c99bbec9b586d41db6f9839d2c404028b3670d4d50a9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:10:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:270806:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:10:25Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 3013/2009
+
+Por ter sido publicado com inexactidão o aviso (extracto) n.º 21 609/2009 no Diário da República, 2.ª série, n.º 232, de 30 de Novembro de 2009, a pp. 48 782 e 48 783, rectifica-se que onde se lê «3 - Âmbito do recrutamento - [...](com as alterações introduzidas pelo [Decreto-Lei n.º 118/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), de 21 de Maio)» deve ler-se «(com a actual redacção)», onde se lê «3.1 - Nos termos dos artigo 33.º do sobredito Regime de Incentivos, os militares que prestaram serviço em regime de contrato pelo período mínimo de três anos beneficiam nos seis anos subsequentes à data da cessação do contrato de um contingente mínimo de 30 % do número total de vagas de admissão no presente procedimento concursal» deve ler-se «3.1 - Nos termos do artigo 33.º do sobredito Regime de Incentivos, os militares que prestem ou tenham prestado serviço em regime de contrato pelo período mínimo de três anos beneficiam, durante e até ao limite dos dois anos subsequentes à data da cessação do contrato, de um contingente mínimo de 30 % do número total de vagas de admissão no presente procedimento concursal», na subalínea iii) da alínea b) do n.º 8, onde se lê «Não exercício de funções públicas ou não interdição para o exercício daquelas que propõe desempenhar» deve ler-se «Não inibição do exercício de funções públicas ou não interdição para o exercício daquelas que se propõe desempenhar» e onde se lê «19 de Novembro de 2009. - O Chefe da Repartição, Manuel Carlos Mira Martins, Cor TM» deve ler-se «19 de Novembro de 2009. - O Chefe da Repartição, Carlos Manuel Mira Martins, Cor TM».
+
+9 de Dezembro de 2009. - O Chefe da Repartição, Carlos Manuel Mira Martins, COR TM.
+
+202681451

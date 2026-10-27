@@ -1,0 +1,686 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1287:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1287-20060922",
+ "dre_path": null,
+ "source_lastmod": "2006-09-22",
+ "versions": [
+  {
+   "date": "2006-09-22",
+   "future": false,
+   "celex": "02006R1287-20060922",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c80c4e5fd307b3fe",
+    "226c39ffd0a88dad",
+    "82623720478b0b5c",
+    "304538cd88248b75",
+    "45108911dc518732",
+    "7d4e0e62a0910c06",
+    "f54522ec4ef20e35",
+    "0fc705fc998fd6c5",
+    "39559e708499424f",
+    "f0f8c960bfdbce9b",
+    "22f5112f8bda7313",
+    "ca03678272007393",
+    "d9b1ee434028edfc",
+    "1e7a0903d2eed348",
+    "e5260297b6949b69",
+    "a7d7fae60d64cf4d",
+    "f2fc1639259ad593",
+    "ba6b83f75d876853",
+    "2f6a738f145210a6",
+    "7df21a52f58c7031",
+    "0be84cdba60f1d2e",
+    "1de214561b4a6ffa",
+    "ac047e29b3787466",
+    "1ecfc79da3f1ac7f",
+    "c785c664409d0236",
+    "9b406af514eb9164",
+    "05ad17d8a6f57938",
+    "28e4685ba87cdda3",
+    "8c04b8ad8bf40ab7",
+    "d024a2b0e1a0a33d",
+    "7e8f08a373a872e5",
+    "c42c0c2b3cabd519",
+    "af79f5e4352b23ac",
+    "83f21b097b183e4c",
+    "254ebe77f4c278de",
+    "61424469eb23da91",
+    "d6e095ee78ccd2a8",
+    "989a4656d262ea17",
+    "3627f70f80f90ae8",
+    "ac8387eef8dd0a6f",
+    "96b079f51f6ab8bc",
+    "7f09e23cb1887f40",
+    "43a795e3346fb487",
+    "2a6934845bb7c573",
+    "bd7d1f50329aefed",
+    "790f59d9bd0d657c",
+    "2e0b5ed49d4c8bd4",
+    "5eec0c0d6709ebcd",
+    "03aadb98dfef223b",
+    "c872a24e4534605c",
+    "7a7b3e99508540da",
+    "40ed6b62e188ac6f",
+    "ff781876e155bb68",
+    "ef6c54c716f2f2eb",
+    "2431e2207d6c8842",
+    "bef69fd8178a1bed",
+    "b76d202a844f758e",
+    "c16988454a36daa8",
+    "7f2d449eb1a25011",
+    "8c6498aa8ffa64eb",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "367ee95e727e2c7d",
+    "b2141001e0f1e806",
+    "d664376e2a8dcecd",
+    "f77b46fd7b0144e2",
+    "abe0a16c785a3654",
+    "852174729551523b",
+    "a7b399a43b5eb7d8",
+    "984725b1c60ae112",
+    "0797b900a3a5af72",
+    "577f186b260acfd9",
+    "1b738aa854aff69d",
+    "1e22e397f9c51934"
+   ]
+  }
+ ],
+ "fragments": {
+  "c80c4e5fd307b3fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto de 2006\n\nque aplica a Directiva 2004/39/CE do Parlamento Europeu e do Conselho no que diz respeito às obrigações de manutenção de registos das empresas de investimento, à informação sobre transacções, à transparência dos mercados, à admissão à negociação dos instrumentos financeiros e aos conceitos definidos para efeitos da referida directiva\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros, que altera as Directivas 85/611/CEE e 93/6/CEE do Conselho e a Directiva 2000/12/CE do Parlamento Europeu e do Conselho e que revoga a Directiva 93/22/CEE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#E0001)), nomeadamente as alíneas 2) e 7) do n.º 1 e o n.º 2 do artigo 4.º, o n.º 10 do artigo 13.º, o n.º 7 do artigo 25.º, o n.º 7 do artigo 27.º, o n.º 3 do artigo 28.º, o n.º 3 do artigo 29.º, o n.º 3 do artigo 30.º, o n.º 6 do artigo 40.º, o n.º 3 do artigo 44.º, o n.º 3 do artigo 45.º, o n.º 5 do artigo 56.º e o n.º 4 do artigo 58.º,\n\n(1) A Directiva 2004/39/CE estabelece o enquadramento geral de um regime regulamentar para os mercados financeiros na Comunidade, prevendo nomeadamente: as condições de exercício de actividade relacionadas com a prestação pelas empresas de investimento de serviços e actividades de investimento e de serviços auxiliares de investimento; os requisitos em matéria de organização (incluindo as obrigações em matéria da manutenção de registos) das empresas de investimento que prestam esses serviços e exercem essas actividades a título profissional e dos mercados regulamentados; os requisitos em matéria de informação sobre transacções sobre instrumentos financeiros e os requisitos de transparência relativos às transacções de acções.\n\n(2) Considera-se adequado que as disposições do presente regulamento assumam essa forma legislativa, a fim de assegurar um regime harmonizado em todos os Estados-Membros, promover a integração dos mercados e a prestação transfronteiras de serviços de investimento e serviços auxiliares e contribuir para uma maior consolidação do mercado único. As disposições relativas a certos aspectos da manutenção de registos, da informação sobre transacções, da transparência e dos instrumentos derivados sobre mercadorias têm uma escassa correspondência com o direito nacional e com leis específicas que regem as relações com clientes.\n\n(3) Considera-se adequada a existência de requisitos em matéria de transparência e de regras em matéria de informação sobre transacções pormenorizados e plenamente harmonizados, a fim de assegurar condições de mercado equivalentes e o funcionamento eficiente dos mercados de valores mobiliários em toda a Comunidade e com vista a promover a sua integração efectiva. Certos aspectos da manutenção de registos estão intimamente interligados, dado se basearem nos mesmos conceitos definidos relativamente à informação sobre transacções e para efeitos de transparência.\n\n(4) O regime estabelecido pela Directiva 2004/39/CE, que rege os requisitos em matéria de informação sobre transacções sobre instrumentos financeiros, destina-se a assegurar que as autoridades competentes relevantes sejam devidamente informadas sobre as transacções objecto da sua supervisão. Para o efeito, é necessário garantir a recolha de um único conjunto de dados junto de todas as empresas de investimento com um grau mínimo de divergência entre os Estados-Membros, por forma a minimizar a medida em que as empresas que operam numa base transfronteiras estão sujeitas a diferentes obrigações de informação e a maximizar a proporção de dados detidos por uma autoridade competente que pode ser partilhada com outras autoridades competentes. As medidas destinam-se igualmente a assegurar que as autoridades competentes estejam em condições de respeitar as suas obrigações, de acordo com o previsto na referida directiva de forma tão rápida e eficiente quanto possível.\n\n(5) O regime estabelecido pela Directiva 2004/39/CE, que rege os requisitos em matéria de transparência relativamente às transacções de acções admitidas à negociação num mercado regulamentado, destina-se a assegurar que os investidores estejam adequadamente informados quanto ao nível real de transacções efectivas e potenciais sobre essas acções, independentemente de essas transacções serem realizadas ou não em mercados regulamentados, em sistemas de negociação multilateral (*Multilateral Trading Facility*), a seguir designados «MTF», em internalizadores sistemáticos ou fora desses espaços ou organizações de negociação. Esses requisitos fazem parte de um quadro mais lato de regras concebidas para fomentar a concorrência entre os espaços ou organizações de negociação relativamente aos serviços de execução, de modo a alargar a escolha dos investidores, incentivar a inovação, reduzir os custos de transacção e aumentar a eficiência do processo de formação de preços à escala comunitária. A necessidade de garantir um elevado grau de transparência faz parte integrante deste quadro, para assegurar um plano de igualdade entre os espaços ou organizações de negociação, a fim de que o mecanismo de fixação dos preços em relação a acções específicas não seja prejudicado pela fragmentação da liquidez e para evitar que os investidores sejam penalizados por esse facto. Por outro lado, a referida directiva reconhece que se poderão verificar circunstâncias em que podem ser necessárias isenções das obrigações de transparência pré-negociação ou o diferimento de obrigações de transparência pós-negociação. O presente regulamento especifica essas circunstâncias em pormenor, tendo em conta a necessidade de assegurar um nível elevado de transparência e que a liquidez dos espaços ou organizações de negociação e de outras plataformas não seja prejudicada devido a eventuais consequências imprevistas das obrigações de informação sobre transacções, divulgando assim publicamente as posições em risco.\n\n(6) Para efeitos das disposições relacionadas com a manutenção de registos, qualquer referência ao tipo de ordem deve ser entendida como uma referência ao seu estatuto de ordem com limites, ordem ao preço de mercado ou outro tipo específico de ordem. Para efeitos das disposições relacionadas com a manutenção de registos, qualquer referência à natureza de uma ordem ou transacção deve ser entendida como uma referência ao facto de se tratar de uma ordem de subscrição de títulos ou a uma subscrição de títulos, ou de uma ordem para o exercício de uma opção ou o exercício de uma opção, ou outras ordens ou transacções semelhantes de clientes.\n\n(7) Não é necessário, na presente fase, especificar ou prever pormenorizadamente o tipo, natureza e grau de sofisticação dos mecanismos de troca de informações entre as autoridades competentes.\n\n(8) Sempre que uma notificação efectuada por uma autoridade competente relacionada com a determinação alternativa do mercado mais relevante em termos de liquidez não tenha seguimento num prazo razoável ou sempre que uma autoridade competente não concorde com o cálculo feito pela outra autoridade, as autoridades competentes em causa devem procurar encontrar uma solução. Compete às autoridades competentes, sempre que for adequado, debater a questão no quadro do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários.\n\n(9) As autoridades competentes devem coordenar a concepção e o estabelecimento dos mecanismos destinados ao intercâmbio de informações sobre as transacções. Compete igualmente às autoridades competentes debater essas questões no quadro do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários. As autoridades competentes devem comunicar esses mecanismos à Comissão, que, por sua vez, deve informar o Comité Europeu dos Valores Mobiliários. Ao assegurar a coordenação, as autoridades competentes devem ponderar a necessidade de acompanhar efectivamente as actividades das empresas de investimento, a fim de garantir que estas actuem de uma forma honesta, equitativa e profissional e de modo a fomentar a integridade do mercado na Comunidade, a necessidade de as decisões se basearem numa análise exaustiva dos custos/benefícios, a necessidade de assegurar que a informação sobre as transacções seja apenas usada para a execução correcta das funções das autoridades competentes e, por último, a necessidade de dispor, relativamente a qualquer sistema comum que possa ser considerado necessário, de mecanismos de governo das sociedades eficazes que responsabilizem os intervenientes.\n\n(10) Considera-se adequado estabelecer os critérios que permitam determinar o momento em que as operações de um mercado regulamentado assumem uma importância substancial num Estado-Membro de acolhimento, bem como as consequências desse facto, de modo a evitar que um mercado regulamentado seja obrigado a dirigir-se ou esteja sujeito a mais do que uma autoridade competente, nos casos em que tal não se verificaria.\n\n(11) A norma ISO 10962 (Código de classificação dos instrumentos financeiros) constitui um exemplo de [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) norma uniforme internacionalmente aceite**◄** para a classificação dos instrumentos financeiros.\n\n(12) Caso se concedam derrogações em relação a requisitos de transparência pré-negociação, ou se autorize o diferimento das obrigações de transparência pós-negociação, as autoridades competentes devem tratar todos os mercados regulamentados e todos os MTF de uma forma igual e não discriminatória, de modo que a derrogação ou diferimento seja aplicável a todos os mercados regulamentados e a todos os MTF que autorizarem ao abrigo da Directiva 2004/39/CE ou a nenhum deles. As autoridades competentes que concederem derrogações ou deferimentos não devem impor requisitos adicionais.\n\n(13) É conveniente considerar que um algoritmo de negociação aplicado por um mercado regulamentado ou por um MTF deve normalmente ter como objectivo a maximização do volume negociado, sendo igualmente possível admitir outros algoritmos de negociação.\n\n(14) Uma derrogação das obrigações de transparência pré-negociação decorrentes dos artigos 29.º ou 44.º da Directiva 2004/39/CE, concedida por uma autoridade competente, não deve permitir às empresas de investimento contornarem as obrigações respeitantes às transacções sobre acções com liquidez que concluem numa base bilateral ao abrigo das regras de um mercado regulamentado ou de um MTF, caso essas transacções estivessem sujeitas aos requisitos de publicação das ofertas de preços previstos no artigo 27.º da referida directiva se fossem realizadas fora do âmbito das regras do mercado regulamentado ou do MTF.\n\n(15) Uma actividade deve ser considerada como tendo um papel comercial relevante para uma empresa de investimento, no caso de a actividade ser uma fonte significativa de receitas ou uma fonte significativa de custos. Para o efeito, uma avaliação do carácter significativo deve, em qualquer caso, ter em conta a medida em que a actividade é realizada ou organizada de modo separado, o valor pecuniário da actividade e o seu carácter significativo em termos relativos, por referência às actividades empresariais globais da empresa e às suas actividades globais relacionadas com a acção em causa no mercado em que opera. Deve ser possível considerar que uma actividade constitui uma fonte relevante de receitas para uma empresa, mesmo no caso de apenas serem relevantes um ou dois dos factores mencionados.\n\n(16) As acções que não sejam negociadas numa base diária não devem ser consideradas como tendo um mercado com liquidez para efeitos da Directiva 2004/39/CE. No entanto, se, por razões excepcionais a negociação de uma determinada acção for suspensa por motivos relacionados com a manutenção da ordem no mercado ou por motivos de força maior e, consequentemente, essa acção não for negociada durante alguns dias de negociação, isso não deve implicar automaticamente que essa acção não possa ser considerada como tendo um mercado com liquidez.\n\n(17) Os requisitos de divulgar publicamente certas ofertas de preços, ordens ou transacções nos termos dos artigos 27.º, 28.º, 29.º, 30.º, 44.º e 45.º da Directiva 2004/39/CE e do presente regulamento não devem impedir os mercados regulamentados e os MTF de requererem aos seus membros ou participantes que divulguem publicamente essas informações.\n\n(18) As informações que devem ser divulgadas, tanto quanto possível em tempo real, devem ser disponibilizadas de forma tão instantânea quanto tecnicamente viável, presumindo-se um nível razoável de eficiência e de despesas com sistemas por parte da pessoa em causa. As informações só devem ser publicadas perto do final do limite máximo de três minutos em casos excepcionais, quando os sistemas disponíveis não permitirem a publicação num período mais curto.\n\n(19) Para efeitos das disposições do presente regulamento relacionadas com a admissão à negociação num mercado regulamentado de um valor mobiliário definido pela alínea c) do n.º 1 do ponto 18 do artigo 4.º da Directiva 2004/39/CE, no caso de um título abrangido pela definição da Directiva 2003/71/CE do Parlamento Europeu e do Conselho, de 4 de Novembro de 2003, relativa ao prospecto a publicar em caso de oferta pública de valores mobiliários ou da sua admissão à negociação e que altera a Directiva 2001/34/CE ([^2^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#E0002)), deve considerar-se que existem à disposição do público informações suficientes do tipo necessário para avaliar o instrumento financeiro.\n\n(20) A admissão à negociação num mercado regulamentado de unidades de participação emitidas por organismos de investimento colectivo em valores mobiliários não deve possibilitar que sejam contornadas as disposições relevantes, constantes da Directiva 85/611/CEE do Conselho, de 20 de Dezembro de 1985, que coordena as disposições legislativas, regulamentares e administrativas respeitantes a alguns organismos de investimento colectivo em valores mobiliários (OICVM) ([^3^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#E0003)), nomeadamente os seus artigos 44.º a 48.º\n\n(21) Um contrato derivado só deve ser considerado um instrumento financeiro ao abrigo do ponto 7 da secção C do anexo I da Directiva 2004/39/CE, caso se relacione com uma mercadoria e respeite os critérios previstos no presente regulamento para determinar se um contrato deve ser considerado como tendo as características de outros instrumentos financeiros derivados e que não têm um objectivo comercial. Um contrato sobre derivados só deve ser considerado um instrumento financeiro ao abrigo do ponto 10 da secção C desse anexo, caso se relacione com um dos instrumentos subjacentes especificados no ponto 10 da secção C ou no presente regulamento e caso respeite os critérios previstos no presente regulamento para se determinar se deve ser considerado como tendo as características de outros instrumentos financeiros derivados.\n\n(22) As isenções previstas na Directiva 2004/39/CE que se relacionem com a negociação por conta própria ou a negociação por conta de terceiros ou a prestação de outros serviços de investimento em relação a instrumentos derivados sobre mercadorias, abrangidos pelos pontos 5, 6 e 7 da secção C do anexo I da referida directiva, ou com instrumentos derivados abrangidos pelo ponto 10 da secção C desse anexo I, podem ter como efeito a exclusão de um número significativo de produtores e consumidores comerciais de energia e de outras mercadorias, incluindo fornecedores de energia, as empresas de negociação de mercadorias e respectivas filiais do âmbito da referida directiva, eximindo, por conseguinte, esses participantes de aplicarem os critérios previstos no presente regulamento, a fim de determinar se os contratos que negoceiam constituem instrumentos financeiros.\n\n(23) De acordo com o ponto 7 da secção B do anexo I da Directiva 2004/39/CE, as empresas de investimento podem exercer a liberdade de prestação de serviços auxiliares num Estado-Membro que não o seu Estado-Membro de origem, prestando serviços e realizando actividades de investimento e serviços auxiliares do tipo incluído na secção A ou B do anexo I da referida directiva, relacionados com os instrumentos subjacentes aos instrumentos derivados incluídos nos pontos 5, 6, 7 e 10 da secção C desse anexo, caso estes se relacionem com a prestação de serviços de investimento ou auxiliares. Nessa base, uma empresa que preste serviços ou realize actividades de investimento e que efectue a negociação conexa de contratos a contado deve ter a possibilidade de tirar partido da liberdade de prestação de serviços auxiliares, no que diz respeito a essa negociação conexa.\n\n(24) A definição de mercadoria não deve afectar quaisquer outras definições desse termo constantes da legislação nacional e comunitária. Os critérios que determinam se um contrato deve ser considerado como tendo as características de outros instrumentos financeiros derivados e que não têm um objectivo comercial destinam-se unicamente a ser utilizados para efeitos de estabelecer se os contratos são abrangidos pelo ponto 7 ou pelo ponto 10 da secção C do anexo I da Directiva 2004/39/CE.\n\n(25) Um contrato derivado deve ser considerado como estando relacionado com uma mercadoria ou com outro factor, quando se verificar uma relação directa entre esse contrato e a mercadoria ou o factor subjacente relevante. Um contrato derivado que incida no preço de uma mercadoria deve, assim, ser considerado um contrato derivado associado à mercadoria, enquanto um contrato derivado sobre os custos de transporte de uma mercadoria não deve ser considerado um contrato sobre essa mercadoria. Um instrumento derivado que se relaciona com um instrumento derivado baseado em mercadorias, tal como uma opção sobre um futuro de mercadorias (um instrumento derivado relacionado com um instrumento derivado), constituirá um investimento indirecto em mercadorias, devendo por conseguinte continuar a ser considerado um instrumento derivado sobre mercadorias, para efeitos da Directiva 2004/39/CE.\n\n(26) O conceito de mercadoria não deve incluir serviços ou outros elementos que não sejam bens, tais como divisas ou direitos reais sobre imóveis, ou que sejam inteiramente incorpóreos.\n\n(27) O Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários, instituído pela Decisão 2001/527/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#E0004)), foi consultado para efeitos de aconselhamento técnico.\n\n(28) As medidas constantes do presente regulamento estão em conformidade com o parecer do Comité Europeu dos Valores Mobiliários,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "82623720478b0b5c": {
+   "fragment_id": "ASPECTOS GERAIS",
+   "type": "divisao",
+   "heading": "ASPECTOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASPECTOS GERAIS"
+  },
+  "304538cd88248b75": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAssunto e âmbito\n\n1. O presente regulamento estabelece as regras pormenorizadas de aplicação do n.º 1, alíneas 2) e 7), do artigo 4.º, do n.º 6 do artigo 13.º e dos artigos 25.º, 27.º, 28.º, 29.º, 30.º, 40.º, 44.º, 45.º, 56.º e 58.º da Directiva 2004/39/CE.\n\n2. Os artigos 7.º e 8.º aplicar-se-ão às sociedades gestoras, de acordo com o n.º 4 do artigo 5.º da Directiva 85/611/CEE."
+  },
+  "45108911dc518732": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDefinições\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\n1. «Mercadoria», quaisquer bens de natureza fungível susceptíveis de ser entregues, incluindo metais e seus minérios e ligas, produtos agrícolas e produtos energéticos, tais como a electricidade;\n\n2. «Emitente», uma entidade que emite valores mobiliários e, se for caso disso, outros instrumentos financeiros;\n\n3. «Emitente comunitário», um emitente cuja sede social se situe na Comunidade;\n\n4. «Emitente de um país terceiro», [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) um emitente que não um emitente comunitário**◄**;\n\n5. «Horário normal de negociação» de um espaço ou organização de negociação ou de uma empresa de investimento, as horas que o espaço ou organização de negociação ou a empresa de investimento estabelecem antecipadamente e que tinham divulgado publicamente como as suas horas de negociação;\n\n6. «Operação de carteira», uma transacção em mais do que um valor mobiliário em que esses valores estão agrupados e são negociados como um lote único, com base num preço de referência específico;\n\n7. «Autoridade competente relevante» relativamente a um instrumento financeiro, a autoridade competente do mercado mais relevante em termos de liquidez para esse instrumento;\n\n8. «Espaço ou organização de negociação», um mercado regulamentado, um MTF ou um internalizador sistemático que actue nessa qualidade e, quando aplicável, um sistema fora da Comunidade que tenha funções semelhantes às de um mercado regulamentado ou MTF;\n\n9. «Volume de transacções» relativamente a um instrumento financeiro, a adição dos resultados da multiplicação do número de unidades desse instrumento trocado entre compradores e vendedores, num período definido e no quadro de transacções realizadas em espaços ou organizações de negociação ou noutro local, pelo preço unitário aplicável a cada uma dessas transacções;\n\n10. «Operação de financiamento de valores mobiliários», uma operação de contracção ou concessão de um empréstimo de acções de outros instrumentos financeiros, uma transacção de recompra ou de revenda ou uma transacção de compra com o compromisso de venda ou de venda com o compromisso de compra."
+  },
+  "7d4e0e62a0910c06": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nTransacções relacionadas com uma acção específica numa operação de carteira e transacções realizadas ao preço médio ponderado pelo volume\n\n1. Uma transacção relacionada com uma acção específica no quadro de uma operação de carteira será considerada, para efeitos do n.º 1, ponto ii) da alínea b), do artigo 18.º, uma transacção sujeita a condições que não coincidem com o preço corrente de mercado.\n\nSerá igualmente considerada, para efeitos do n.º 1, alínea b), do artigo 27.º, uma transacção em que a troca de acções é determinada por outros factores que não o valor corrente de mercado da acção.\n\n2. Uma transacção realizada ao preço médio ponderado pelo volume será considerada, para efeitos do n.º 1, subalínea ii) da alínea b), do artigo 18.º, como uma transacção sujeita a condições que não coincidem com o preço corrente de mercado e, para efeitos do artigo 25.º, como uma ordem sujeita a condições que não o preço corrente de mercado.\n\nSerá igualmente considerada, para efeitos do n.º 1, alínea b), do artigo 27.º, uma transacção em que a troca de acções é determinada por outros factores que não o valor corrente de mercado da acção."
+  },
+  "f54522ec4ef20e35": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nReferências ao dia de negociação\n\n1. Deve entender-se por dia de negociação, em relação a um espaço ou organização de negociação ou às informações pós-negociação a divulgar publicamente, ao abrigo dos artigos 30.º ou 45.º da Directiva 2004/39/CE, relativamente a uma acção específica, qualquer dia em que o espaço ou organização de negociação esteja aberto para negociação.\n\nDeve entender-se por abertura do dia de negociação o início do horário normal de negociação do espaço ou organização de negociação.\n\nDeve entender-se por meio-dia do dia de negociação o meio-dia do fuso horário em que está estabelecido o espaço ou organização de negociação.\n\nDeve entender-se por final do dia de negociação o final do seu horário normal de negociação.\n\n2. Deve entender-se por dia de negociação, em relação ao mercado mais relevante em termos de liquidez de uma acção ou às informações pós-negociação a divulgar publicamente, ao abrigo do artigo 28.º da Directiva 2004/39/CE, relativamente a uma acção específica, qualquer dia de negociação normal em espaços ou organizações de negociação nesse mercado.\n\nDeve entender-se por abertura do dia de negociação a primeira vez que tem início no dia a negociação normal dessa acção nos espaços ou organizações de negociação nesse mercado.\n\nDeve entender-se por meio-dia do dia de negociação o meio-dia do fuso horário desse mercado.\n\n[**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) Deve entender-se por final do dia de negociação o momento**◄** em que termina a negociação normal dessa acção em espaços ou organizações de negociação nesse mercado.\n\n3. Deve entender-se por dia de negociação, em relação com um contrato a contado, na acepção do n.º 2 do artigo 38.º, qualquer dia de negociação normal desse contrato em espaços ou organizações de negociação."
+  },
+  "0fc705fc998fd6c5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nReferências a transacções\n\nPara efeitos do presente regulamento, qualquer referência a uma transacção representa uma referência exclusivamente à compra ou à venda de um instrumento financeiro. Para efeitos do presente regulamento, com exclusão do capítulo II, a compra e venda de um instrumento financeiro não inclui nenhuma das seguintes operações:\n\na) Operações de financiamento de valores mobiliários;\n\nb) Exercício de opções ou de *warrants* cobertos;\n\nc) Transacções no mercado primário (tais como emissão, atribuição ou subscrição) de instrumentos financeiros abrangidos pelo n.º 1, alíneas a) e b) do ponto 18, do artigo 4.º da Directiva 2004/39/CE."
+  },
+  "39559e708499424f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPrimeira admissão de uma acção à negociação num mercado regulamentado\n\nPara efeitos do presente regulamento, considerar-se-á que a primeira admissão de uma acção à negociação num mercado regulamentado, referida no artigo 40.º da Directiva 2004/39/CE, ocorre quando se verificar uma das seguintes condições:\n\na) A acção não foi previamente admitida à negociação num mercado regulamentado;\n\nb) A acção foi previamente admitida à negociação num ou mais mercados regulamentados, mas foi retirada da negociação em todos os mercados regulamentados que a admitiram à negociação."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "22f5112f8bda7313": {
+   "fragment_id": "MANUTENÇÃO DE REGISTOS: ORDENS DE CLIENTES E TRANSACÇÕES",
+   "type": "divisao",
+   "heading": "MANUTENÇÃO DE REGISTOS: ORDENS DE CLIENTES E TRANSACÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MANUTENÇÃO DE REGISTOS: ORDENS DE CLIENTES E TRANSACÇÕES"
+  },
+  "ca03678272007393": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n(N.º 6 do artigo 13.º da Directiva 2004/39/CE)\n\nManutenção dos registos de ordens de clientes e decisões de negociar\n\nNo que diz respeito a todas as ordens recebidas de um cliente e relativamente a todas as decisões de negociar tomadas no quadro da prestação do serviço de gestão de carteiras, as empresas de investimento registarão de imediato as informações apresentadas seguidamente, na medida em que sejam aplicáveis à ordem ou decisão de negociar em causa:\n\na) A denominação ou outros elementos identificadores do cliente;\n\nb) A denominação ou outros elementos identificadores de qualquer pessoa relevante que actue por conta do cliente;\n\nc) As informações especificadas nos pontos 4, 6 e 16 a 19 do quadro 1 do anexo I;\n\nd) A natureza da ordem, se não se tratar de uma ordem de compra ou de venda;\n\ne) O tipo de ordem;\n\nf) Quaisquer outras informações, condições e instruções específicas do cliente que determinem como a ordem deve ser executada;\n\ng) A data e a hora exacta da recepção da ordem ou da decisão de negociar tomada pela empresa de investimento."
+  },
+  "d9b1ee434028edfc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n(N.º 6 do artigo 13.º da Directiva 2004/39/CE)\n\nManutenção de registos das transacções\n\n1. Imediatamente após executar uma ordem de um cliente ou, no caso das empresas de investimento que transmitem as ordens a outra pessoa para efeitos de execução, imediatamente após a recepção da confirmação da execução da ordem, as empresas de investimento registarão as seguintes informações da transacção em causa:\n\na) A denominação ou outros elementos identificadores do cliente;\n\nb) As informações especificadas nos pontos 2, 3, 4, 6 e 16 a 21 do quadro 1 do anexo I;\n\nc) O preço total, ou seja, o valor do produto do preço unitário pela quantidade;\n\nd) A natureza da transacção, se não se tratar de uma compra ou venda;\n\ne) A pessoa singular que executou a transacção ou que é responsável pela sua execução.\n\n2. Caso a empresa de investimento transmita uma ordem a outra pessoa para efeitos de execução, a empresa de investimento registará de imediato as seguintes informações, após efectuar a transmissão:\n\na) A denominação ou outros elementos identificadores do cliente, cuja ordem foi transmitida;\n\nb) A denominação ou outros elementos identificadores da pessoa a quem a ordem foi transmitida;\n\nc) As condições da ordem transmitida;\n\nd) A data e a hora exacta da transmissão."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "e5260297b6949b69": {
+   "fragment_id": "INFORMAÇÃO SOBRE TRANSACÇÕES",
+   "type": "divisao",
+   "heading": "INFORMAÇÃO SOBRE TRANSACÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÃO SOBRE TRANSACÇÕES"
+  },
+  "a7d7fae60d64cf4d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n(N.º 3, segundo parágrafo, do artigo 25.º da Directiva 2004/39/CE)\n\nDeterminação do mercado mais relevante em termos de liquidez\n\n1. O mercado mais relevante, em termos de liquidez, de um instrumento financeiro admitido à comercialização num mercado regulamentado, designado seguidamente «mercado mais relevante», será determinado de acordo com o disposto nos n.^os^ 2 a 8.\n\n2. No caso de uma acção ou de um outro valor mobiliário abrangido pelo n.º 1, alínea a) do ponto 18, do artigo 4.º da Directiva 2004/39/CE ou de uma unidade de participação em organismos de investimento colectivo, o mercado mais relevante consistirá no Estado-Membro em que a acção ou a unidade de participação foi pela primeira vez admitida à negociação num mercado regulamentado.\n\n3. No caso de uma obrigação ou outro valor mobiliário abrangido pelo n.º 1, alínea b) do ponto 18, do artigo 4.º da Directiva 2004/39/CE ou de um instrumento do mercado monetário, que sejam emitidos por uma filial, na acepção da Sétima Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, relativa às contas consolidadas ([^5^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#E0005)), de uma entidade com sede social num Estado-Membro, o mercado mais relevante consistirá no Estado Membro em que se localiza a sede social da empresa-mãe.\n\n4. No caso de uma obrigação ou de um outro valor mobiliário abrangido pelo n.º 1, alínea b) do ponto 18, do artigo 4.º da Directiva 2004/39/CE ou de um instrumento do mercado monetário, que sejam emitidos por um emitente comunitário e que não estejam abrangidos pelo n.º 3 do presente artigo, o mercado mais relevante consistirá no Estado-Membro em que se localiza a sede social do emitente.\n\n5. No caso de uma obrigação ou de um outro valor mobiliário abrangido pelo n.º 1, alínea b) do ponto 18, do artigo 4.º da Directiva 2004/39/CE ou de um instrumento do mercado monetário, que sejam emitidos em ambos os casos por um emitente de um país terceiro e que não estejam abrangidos pelo n.º 3, o mercado mais relevante consistirá no Estado-Membro em que esse valor mobiliário foi admitido pela primeira vez à negociação num mercado regulamentado.\n\n6. No caso de um contrato derivado, de um contrato financeiro que incida sobre diferenças ou de um valor mobiliário abrangido pelo n.º 1, alínea c) do ponto 18, do artigo 4.º da Directiva 2004/39/CE, o mercado mais relevante consistirá no seguinte:\n\na) Se o activo subjacente consistir numa acção ou noutro valor mobiliário, abrangido pelo n.º 1, alínea a) do ponto 18, do artigo 4.º da Directiva 2004/39/CE, admitido à negociação num mercado regulamentado, o Estado-Membro considerado o mercado mais relevante em termos de liquidez para o título subjacente, de acordo com o n.º 2;\n\nb) Se o activo subjacente consistir numa obrigação ou noutro valor mobiliário, abrangido pelo n.º 1, [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) alínea b) do ponto 18, do artigo 4.º da Directiva 2004/39/CE**◄**, ou num instrumento do mercado monetário admitido à negociação num mercado regulamentado, o Estado-Membro considerado o mercado mais relevante em termos de liquidez para o título subjacente, de acordo com os n.^os^ 3, 4 ou 5;\n\nc) Se o activo subjacente for um índice composto de acções negociadas na sua totalidade num mercado regulamentado específico, o Estado-Membro em que se localiza esse mercado.\n\n7. Em qualquer caso não abrangido pelos n.^os^ 2 a 6, o mercado mais relevante consistirá no Estado-Membro em que se localiza o mercado regulamentado que admitiu pela primeira vez à negociação o valor mobiliário, o contrato derivado ou o contrato financeiro que incide sobre diferenças.\n\n8. Sempre que um instrumento financeiro abrangido pelos n.^os^ 2, 5 ou 7, ou o instrumento financeiro subjacente a um instrumento financeiro visado pelo n.º 6, relativamente ao qual seja relevante o n.º 2, o n.º 5 ou o n.º 7, seja admitido pela primeira vez à negociação em mais do que um mercado regulamentado em simultâneo e sempre que esses mercados regulamentados pertençam ao mesmo Estado-Membro de origem, esse Estado-Membro constituirá o mercado mais relevante.\n\nSempre que os mercados regulamentados em causa não pertençam ao mesmo Estado-Membro de origem, o mercado mais relevante em termos de liquidez desse instrumento consistirá no mercado em que o volume de transacções desse instrumento for o mais elevado.\n\nPara efeitos de determinação do mercado mais relevante em que o volume de transacções do instrumento é o mais elevado, cada uma das autoridades competentes que autorizaram um dos mercados regulamentados em causa calculará o volume de transacções desse instrumento no seu mercado respectivo relativamente ao ano civil anterior, desde que o instrumento tenha sido admitido à negociação no início desse ano.\n\nSempre que o volume de transacções do instrumento financeiro relevante não puder ser calculado, devido ao facto de os dados serem insuficientes ou inexistentes, e se o emitente tiver a sua sede social num Estado-Membro, o mercado mais relevante será o mercado do Estado-Membro em que se localiza a sede social do emitente.\n\nNo entanto, sempre que o emitente não tenha a sua sede social num Estado-Membro, o mercado mais relevante desse instrumento consistirá no mercado em que o volume de transacções dessa categoria relevante de instrumento for o mais elevado. Para efeitos de determinação desse mercado, cada uma das autoridades competentes que autorizaram um dos mercados regulamentados em causa calculará o volume de transacções sobre instrumentos da mesma categoria no seu mercado respectivo relativamente ao ano civil anterior.\n\nAs categorias relevantes de instrumentos financeiros são as seguintes:\n\na) Acções;\n\nb) Obrigações ou outras formas de títulos da dívida;\n\nc) Quaisquer outros instrumentos financeiros."
+  },
+  "f2fc1639259ad593": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n(N.º 3, segundo parágrafo, do artigo 25.º da Directiva 2004/39/CE)\n\nDeterminação alternativa do mercado mais relevante em termos de liquidez\n\n1. Uma autoridade competente pode notificar, em Janeiro de cada ano, à autoridade competente relevante para efeitos de um instrumento financeiro específico, que tenciona contestar a determinação, efectuada de acordo com o artigo 9.º, do mercado mais relevante desse instrumento.\n\n2. No prazo de quatro semanas após o envio da notificação, ambas as autoridades calcularão o volume de transacções desse instrumento financeiro nos respectivos mercados durante o ano civil anterior.\n\nSe o resultado desse cálculo indicar que o volume de transacções é superior no mercado das autoridades competentes que formularam a contestação, esse mercado será o mercado mais relevante desse instrumento financeiro. Caso esse instrumento financeiro seja de um dos tipos especificados no n.º 6, alíneas a) ou b), do artigo 9.º, esse mercado será o mercado mais relevante para qualquer contrato derivado, contrato financeiro que incida sobre diferenças ou valor mobiliário abrangido pelo n.º 1, alínea c) do ponto 18, do artigo 4.º da Directiva 2004/39/CE, do qual esse seja o instrumento financeiro subjacente."
+  },
+  "ba6b83f75d876853": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n(N.º 3 do artigo 25.º da Directiva 2004/39/CE)\n\nLista de instrumentos financeiros\n\nA autoridade competente relevante para um ou mais instrumentos financeiros assegurará a criação e manutenção de uma lista actualizada desses instrumentos financeiros. Essa lista será disponibilizada à autoridade competente única designada como ponto de contacto por cada Estado-Membro, de acordo com o artigo 56.º da Directiva 2004/39/CE. Essa lista será disponibilizada pela primeira vez no primeiro dia de negociação de Junho de 2007.\n\nA fim de assistir as autoridades competentes no que respeita ao cumprimento do disposto no primeiro parágrafo, cada mercado regulamentado apresentará às autoridades competentes do respectivo Estado-Membro de origem dados de referência que identifiquem cada um dos instrumentos financeiros admitidos à negociação, em formato electrónico e normalizado. Essa informação será apresentada, em relação a cada instrumento financeiro, antes de se iniciar a respectiva negociação. A autoridade competente do Estado-Membro de origem do mercado regulamentado garantirá a transmissão da informação à autoridade competente relevante em relação ao instrumento em causa. Os dados de referência serão actualizados sempre que se verifiquem alterações em relação a um determinado instrumento. O requisito deste parágrafo poderá ser objecto de derrogação nos casos em que a autoridade competente em relação ao instrumento financeiro em causa obtenha os dados de referência relevantes por outros meios."
+  },
+  "2f6a738f145210a6": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n(N.º 5 do artigo 25.º da Directiva 2004/39/CE)\n\nModalidades de prestação de informações\n\n1. A prestação de informações relativas a transacções sobre instrumentos financeiros será efectuada por meios electrónicos, excepto em circunstâncias excepcionais, em que pode ser efectuada por um meio não electrónico que permita o armazenamento das informações de forma a que fiquem acessíveis para futura consulta pelas autoridades competentes, devendo os métodos com base nos quais essa prestação de informações é efectuada satisfazer as seguintes condições:\n\na) Devem garantir a segurança e a confidencialidade dos dados apresentados;\n\nb) Devem incluir mecanismos destinados a identificar e a corrigir erros numa declaração de transacções;\n\nc) Devem incluir mecanismos destinados a autenticar a fonte da declaração de transacções;\n\nd) Devem incluir medidas cautelares adequadas, de modo a permitir o reatamento rápido das declarações de transacções em caso de falha do sistema;\n\ne) Devem assegurar a declaração das informações requeridas no artigo 13.º no formato exigido pela autoridade competente e em conformidade com o presente número, nos prazos previstos no n.º 3 do artigo 25.º da Directiva 2004/39/CE.\n\n2. As autoridades competentes aprovarão um sistema de confronto de ordens ou de declaração de transacções, para efeitos do n.º 5 do artigo 25.º da Directiva 2004/39/CE, no caso de os mecanismos para a declaração de transacções estabelecidos por esse sistema respeitarem as condições previstas no n.º 1 e de os mecanismos serem controlados por uma autoridade competente relativamente à continuidade do respeito das condições aplicáveis."
+  },
+  "7df21a52f58c7031": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n(N.^os^ 3 e 5 do artigo 25.º da Directiva 2004/39/CE)\n\nConteúdo da declaração de transacções\n\n1. As declarações de transacções referidas nos n.^os^ 3 e 5 do artigo 25.º da Directiva 2004/39/CE conterão as informações especificadas no quadro 1 do anexo I ao presente regulamento, que sejam relevantes para o tipo de instrumento financeiro em causa e que as autoridades competentes declarem não estar já na sua posse ou à sua disposição por outros meios.\n\n2. Para efeitos de identificação de uma contraparte de uma transacção que consista num mercado regulamentado, num MTF ou noutra contraparte central, tal como especificado no quadro 1 do anexo I, as autoridades competentes divulgarão publicamente uma lista de códigos de identificação dos mercados regulamentados e dos MTF relativamente aos quais, em cada caso específico, são as autoridades competentes do Estado-Membro de origem e de quaisquer entidades que actuem como contrapartes centrais desses mercados regulamentados e MTF.\n\n3. Os Estados-Membros podem requerer que a prestação de informações, efectuada de acordo com os n.^os^ 3 e 5 do artigo 25.º da Directiva 2004/39/CE, contenha informações relativas às transacções em causa, para além das especificadas no quadro 1 do anexo I, desde que essas informações sejam necessárias para permitir que as autoridades competentes exerçam a sua função de supervisão das actividades das empresas de investimento por forma a garantir que actuam de forma honesta, equitativa e profissional e de maneira a promover a integridade do mercado e desde que seja respeitado um dos seguintes critérios:\n\na) O instrumento financeiro objecto da prestação de informações ter características específicas a um instrumento desse tipo, que não sejam abrangidas pelos elementos informativos especificados nesse quadro;\n\nb) Os métodos de negociação específicos do espaço ou organização de negociação em que se realizou a transacção têm características não abrangidas pelos elementos informativos especificados nesse quadro.\n\n4. Os Estados-Membros podem igualmente requerer a prestação de informações relativamente a uma transacção de acordo com os n.^os^ 3 e 5 do artigo 25.º da Directiva 2004/39/CE, a fim de identificar os clientes por conta dos quais a transacção foi executada pela empresa de investimento."
+  },
+  "0be84cdba60f1d2e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n(N.^os^ 3 e 5 do artigo 25.º da Directiva 2004/39/CE)\n\nTroca de informações sobre transacções\n\n1. As autoridades competentes estabelecerão mecanismos destinados a assegurar que as informações recebidas de acordo com os n.^os^ 3 e 5 do artigo 25.º da Directiva 2004/39/CE sejam disponibilizadas:\n\na) À autoridade competente relevante relativamente ao instrumento financeiro em causa;\n\nb) No caso das sucursais, à autoridade competente que autorizou a empresa de investimento que presta as informações, sem prejuízo do respectivo direito a não receber essa informação, em conformidade com o n.º 6 do artigo 25.º da Directiva 2004/39/CE;\n\nc) A quaisquer outras autoridades competentes que requeiram as informações para a correcta execução das suas funções de supervisão, de acordo com o n.º 1 do artigo 25.º da Directiva 2004/39/CE.\n\n2. As informações a disponibilizar de acordo com o n.º 1 conterão os elementos informativos descritos nos quadros 1 e 2 do anexo I.\n\n3. As informações referidas no n.º 1 serão disponibilizadas logo que possível.\n\nA partir de 1 de Novembro de 2008, essas informações serão disponibilizadas, o mais tardar até ao final do dia útil, para as autoridades competentes que recebam a informação ou o pedido, seguinte ao dia em que os mesmos tenham sido recebidos.\n\n4. As autoridades competentes coordenarão o seguinte:\n\na) A concepção e o estabelecimento dos mecanismos destinados à troca entre si de informações sobre transacções, tal como requerido pela Directiva 2004/39/CE e pelo presente regulamento;\n\nb) Qualquer eventual actualização futura desses mecanismos.\n\n5. Antes de 1 de Fevereiro de 2007, as autoridades competentes enviarão um relatório à Comissão, que informará o Comité Europeu dos Valores Mobiliários, sobre a concepção dos mecanismos a estabelecer, de acordo com o n.º 1.\n\nAs autoridades competentes enviarão igualmente um relatório à Comissão, que informará o Comité Europeu dos Valores Mobiliários, sempre que forem propostas alterações significativas a esses mecanismos."
+  },
+  "1de214561b4a6ffa": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n(N.º 1 do artigo 58.º da Directiva 2004/39/CE)\n\nPedido de cooperação e de troca de informações\n\n1. Sempre que uma autoridade competente pretender que uma outra autoridade competente forneça ou troque informações, de acordo com o n.º 1 do artigo 58.º da Directiva 2004/39/CE, apresentará um pedido por escrito a essa autoridade competente com um grau suficiente de pormenorização, a fim de esta poder fornecer as informações solicitadas.\n\nEm caso de urgência, os pedidos podem todavia ser transmitidos oralmente, desde que sejam confirmados por escrito.\n\nA autoridade competente a quem foi endereçado o pedido confirmará a recepção do pedido logo que possível.\n\n2. Sempre que as informações solicitadas ao abrigo do n.º 1 estiverem disponíveis internamente na autoridade competente a quem foi endereçado o pedido, essa autoridade transmitirá imediatamente as informações solicitadas à autoridade competente que formulou o pedido.\n\nNo entanto, caso a autoridade competente a quem foi endereçado o pedido não possua as informações solicitadas, ou estas não estejam sob o seu controlo, tomará imediatamente as medidas necessárias para obter as informações e para assegurar o pleno cumprimento do pedido. A autoridade competente informará igualmente a autoridade competente que emitiu o pedido acerca das razões que justificaram o não envio imediato das informações solicitadas."
+  },
+  "ac047e29b3787466": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n(N.º 2 do artigo 56.º da Directiva 2004/39/CE)\n\nDeterminação da importância substancial das operações de um mercado regulamentado num Estado-Membro de acolhimento\n\nAs operações de um mercado regulamentado num Estado-Membro de acolhimento serão consideradas como tendo importância substancial para o funcionamento dos mercados de valores mobiliários e para a protecção dos investidores nesse Estado-Membro, sempre que seja satisfeito um dos seguintes critérios:\n\na) O Estado-Membro de acolhimento era anteriormente o Estado-Membro de origem do mercado regulamentado em causa;\n\nb) O mercado regulamentado em causa adquiriu, através de fusão, aquisição ou qualquer outra forma de cessão, as actividades de um mercado regulamentado, cuja sede social ou administração central se encontrava no Estado-Membro de acolhimento."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "c785c664409d0236": {
+   "fragment_id": "TRANSPARÊNCIA DO MERCADO",
+   "type": "divisao",
+   "heading": "TRANSPARÊNCIA DO MERCADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TRANSPARÊNCIA DO MERCADO"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "05ad17d8a6f57938": {
+   "fragment_id": "Transparência pré-negociação dos mercados regulamentados e dos MTF",
+   "type": "divisao",
+   "heading": "Transparência pré-negociação dos mercados regulamentados e dos MTF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Transparência pré-negociação dos mercados regulamentados e dos MTF"
+  },
+  "28e4685ba87cdda3": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n(Artigos 29.º e 44.º da Directiva 2004/39/CE)\n\nObrigações de transparência pré-negociação\n\n1. Uma empresa de investimento ou um operador de mercado, que façam a gestão de um MTF ou de um mercado regulamentado, tornarão públicas as informações previstas nos n.^os^ 2 a 6 relativamente a todas as acções admitidas à negociação num mercado regulamentado e negociadas num sistema por si operado e especificado no quadro 1 do anexo II.\n\n2. Sempre que uma das entidades referidas no n.º 1 explore um sistema de negociação por leilões contínuos com base numa carteira de ordens, tornará público numa base contínua, relativamente a cada acção especificada no n.º 1 e ao longo do seu horário normal de negociação, o número agregado de ordens e de acções que essas acções representam, correspondente a cada nível de preços, relativamente às cinco melhores ofertas de compra e de venda.\n\n3. Sempre que uma das entidades referidas no n.º 1 explore um sistema de negociação baseado em ofertas de preços tornará públicas, relativamente a cada acção especificada no n.º 1, numa base contínua ao longo do seu horário normal de negociação, as melhores ofertas de preços de compra e de venda correspondentes a cada nível de preços de cada criador de mercado para essa acção, bem como os volumes associados a esses preços.\n\nEstas ofertas de preços tornadas públicas consistirão nas que representam compromissos firmes de compra e de venda das acções e que indicam o preço e o volume de acções que os criadores de mercado registados tencionam comprar ou vender.\n\nNo entanto, em condições de mercado excepcionais, podem ser permitidos preços indicativos ou unilaterais durante um período limitado.\n\n4. Sempre que uma das entidades referidas no n.º 1 explore um sistema de negociação que se baseia em leilões periódicos, [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) tornará públicos, relativamente a cada acção especificada no n.º 1, numa base contínua**◄** ao longo do seu horário normal de negociação, o preço que melhor satisfaz o algoritmo de negociação do sistema e o volume que será potencialmente executável a esse preço pelos participantes nesse sistema.\n\n5. Sempre que uma das entidades referidas no n.º 1 explore um sistema de negociação não inteiramente abrangido pelos n.^os^ 2, 3 ou 4, devido ao facto de se tratar de um sistema híbrido abrangido por mais do que um desses números ou pelo facto de o processo de determinação de preços ser de natureza diferente, manterá um padrão de transparência pré-negociação que assegure a disponibilização pública de informações adequadas relativamente ao nível do preço das ordens ou das ofertas para cada uma das acções referidas no n.º 1, bem como do nível de interesse na negociação dessa acção.\n\nEm especial, serão tornados públicos os cinco melhores níveis de preços de compra e de venda e/ou ofertas de preços bilaterais de cada criador de mercado nessa acção, caso as características do mecanismo de determinação dos preços o permita.\n\n6. Encontra-se especificada no quadro 1 do anexo II uma síntese das informações a tornar públicas, de acordo com os n.^os^ 2 a 5."
+  },
+  "8c04b8ad8bf40ab7": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n(N.º 2 do artigo 29.º e n.º 2 do artigo 44.º da Directiva 2004/39/CE)\n\nDerrogações baseadas no modelo de mercado e no tipo de ordem ou de transacção\n\n1. As derrogações previstas no n.º 2 do artigo 29.º e no n.º 2 do artigo 44.º da Directiva 2004/39/CE podem ser concedidas pelas autoridades competentes relativamente a sistemas operados por um MTF ou por um mercado regulamentado, caso esses sistemas satisfaçam um dos seguintes critérios:\n\na) Os sistemas devem basear-se num método de negociação através da qual o preço seja determinado de acordo com um preço de referência gerado por um outro sistema, em que esse preço de referência seja objecto de uma divulgação generalizada e seja considerado pela generalidade dos participantes no mercado como um preço de referência fiável;\n\nb) Os sistemas formalizam transacções negociadas, respeitando cada uma delas um dos seguintes critérios:\n\ni) A transacção é efectuada aos valores-limites ou encontra-se dentro do intervalo corrente ponderado pelo volume que se reflecte na carteira de ordens ou nas ofertas de preços emitidas pelos criadores do mercado regulamentado ou do MTF que utilizam esse sistema ou, no caso de as acções não serem negociadas numa base contínua, a transacção encontra-se no intervalo definido por uma percentagem de variação adequada face ao preço de referência, sendo essa percentagem e o preço de referência fixados antecipadamente pelo operador do sistema;\n\nii) A transacção está sujeita a condições que não o preço corrente de mercado da acção.\n\nPara efeitos da alínea b), devem ser igualmente respeitadas as outras condições especificadas nas regras do mercado regulamentado ou do MTF, relativamente a uma transacção deste tipo.\n\nNo caso de sistemas que tenham funcionalidades que não correspondam às previstas nas alíneas a) ou b), a derrogação não se aplicará a essas funcionalidades.\n\n2. As derrogações, previstas no n.º 2 do artigo 29.º e no n.º 2 do artigo 44.º da Directiva 2004/39/CE, baseadas no tipo de ordens, apenas podem ser concedidas relativamente às ordens incluídas parcialmente num sistema de gestão de ordens mantido pelo mercado regulamentado ou pelo MTF, na pendência da sua divulgação ao mercado."
+  },
+  "d024a2b0e1a0a33d": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n(N.º 2 do artigo 29.º e n.º 2 do artigo 44.º da Directiva 2004/39/CE)\n\nReferências a transacções negociadas\n\nPara efeitos do n.º 1, alínea b), do artigo 18.º, por transacção negociada entende-se uma transacção que envolva membros ou participantes de um mercado regulamentado ou de um MTF, negociada em privado mas [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) executada nesse mercado regulamentado ou MTF**◄** e no quadro da qual o membro ou participante assume uma das seguintes funções:\n\na) Negociação por conta própria com um outro membro ou participante que actue por conta de um cliente;\n\nb) Negociação com um outro membro ou participante, executando ambos ordens por conta própria;\n\nc) Actuação simultaneamente por conta do comprador e do vendedor;\n\nd) Actuação por conta do comprador, actuando um outro membro ou participante por conta do vendedor;\n\ne) Negociação por conta própria face a uma ordem de um cliente."
+  },
+  "7e8f08a373a872e5": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n(N.º 2 do artigo 29.º, n.º 2 do artigo 44.º e n.º 1, quinto parágrafo, do artigo 27.º da Directiva 2004/39/CE)\n\nDerrogações relativas a transacções de volume elevado\n\nUma ordem será considerada como tendo um volume elevado relativamente ao volume normal de mercado, se for igual ou superior ao volume mínimo da ordem especificado no quadro 2 do anexo II. Para efeitos de determinação do facto de uma ordem ser de volume elevado relativamente ao volume normal de mercado, todas as acções admitidas à negociação num mercado regulamentado serão classificadas de acordo com a média diária do seu volume de transacções, que será calculada de acordo com o procedimento previsto no artigo 33.º"
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "af79f5e4352b23ac": {
+   "fragment_id": "Transparência pré-negociação para os internalizadores sistemáticos",
+   "type": "divisao",
+   "heading": "Transparência pré-negociação para os internalizadores sistemáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Transparência pré-negociação para os internalizadores sistemáticos"
+  },
+  "83f21b097b183e4c": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n(N.º 1, ponto 7, do artigo 4.º da Directiva 2004/39/CE)\n\nCritérios para determinar se uma empresa de investimento constitui um internalizador sistemático\n\n1. Sempre que uma empresa de investimento negoceia por conta própria na execução de ordens de clientes fora de um mercado regulamentado ou de um MTF, será tratada como internalizador sistemático se respeitar os critérios apresentados seguidamente, indicativos do facto de desenvolver essa actividade de modo organizado, frequente e sistemático:\n\na) A actividade tem um papel comercial relevante para a empresa e é realizada de acordo com procedimentos e regras não discricionários;\n\nb) A actividade é realizada por efectivos seus ou através de um sistema técnico automatizado, afectado para o efeito, independentemente de os efectivos ou esse sistema serem utilizados exclusivamente para esse objectivo;\n\nc) A actividade encontra-se à disposição dos clientes numa base regular ou contínua.\n\n2. Uma empresa de investimento deixará de ser um internalizador sistemático em uma ou mais acções, se deixar de realizar a actividade especificada no n.º 1 relativamente a essas acções, desde que tenha anunciado antecipadamente que tenciona cessar essa actividade, utilizando para esse anúncio os mesmos canais de informação que utiliza para publicar as suas ofertas de preços ou, no caso de tal não ser possível, utilizando um canal igualmente acessível para os seus clientes e outros participantes no mercado.\n\n3. A actividade de negociação por conta própria relacionada com a execução de ordens de clientes não será tratada como tendo sido desenvolvida de modo organizado, frequente e sistemático, sempre que se aplicarem as seguintes condições:\n\na) A actividade é desenvolvida numa base bilateral *ad hoc* e ocasional com contrapartes profissionais, no quadro de relações comerciais que se caracterizam, em si mesmas, por negociações superiores ao volume normal de mercado;\n\nb) As transacções não são realizadas no quadro dos sistemas normalmente utilizados pela empresa em causa para as actividades desenvolvidas a título de internalizador sistemático.\n\n4. Todas as autoridades competentes assegurarão a manutenção e a publicação de uma lista de todos os internalizadores sistemáticos, relativamente a acções admitidas à negociação num mercado regulamentado, que tenham sido por si autorizados a título de empresas de investimento.\n\nEssas autoridades assegurarão que a lista se mantém actualizada, procedendo à sua revisão pelo menos uma vez por ano.\n\nA lista será posta à disposição do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários. Considerar-se-á que a lista foi publicada quando for publicada pelo Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários, de acordo com o n.º 5 do artigo 34.º"
+  },
+  "254ebe77f4c278de": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n(Artigo 27.º da Directiva 2004/39/CE)\n\nDeterminação do carácter líquido das acções\n\n1. Considerar-se-á que uma acção admitida à negociação num mercado regulamentado dispõe de um mercado com liquidez, no caso de a acção ser negociada numa base diária, o volume de acções em circulação corresponder a um montante igual ou superior a 500 milhões de euros e de ser respeitada uma das seguintes condições:\n\na) O número médio diário de transacções sobre a acção é igual ou superior a 500;\n\nb) O volume médio diário de transacções sobre a acção é igual ou superior a 2 milhões de euros.\n\nNo entanto, um Estado-Membro pode, relativamente às acções para as quais constitui o mercado mais relevante, especificar com base num comunicado que ambas as condições devem ser aplicadas. Este comunicado será tornado público.\n\n2. Um Estado-Membro pode especificar o número mínimo de acções com liquidez em relação a si próprio. O número mínimo fixado não poderá ser superior a 5. O número adoptado deve ser tornado público.\n\n3. Sempre que, nos termos do n.º 1, um Estado-Membro constitui o mercado mais relevante para um número de acções com liquidez menor do que o número mínimo especificado em conformidade com o n.º 2, a autoridade competente desse Estado-Membro pode designar uma ou mais acções com liquidez adicionais, desde que o número total de acções consideradas como sendo acções com liquidez e para as quais [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) esse Estado-Membro constitua o mercado**◄** mais relevante não exceda o número mínimo especificado por esse Estado-Membro.\n\nA autoridade competente designará sucessivamente estas acções com liquidez adicionais por ordem decrescente do volume médio diário de transacções, de entre as acções para as quais constitui a autoridade competente relevante e que estão admitidas à negociação num mercado regulamentado e são negociadas numa base diária.\n\n4. Para efeitos do primeiro parágrafo do n.º 1, o cálculo do volume de títulos em circulação em relação a uma acção excluirá as participações que ultrapassam 5% dos direitos de voto totais do emitente, salvo se essa participação for detida por um organismo de investimento colectivo ou por um fundo de pensões.\n\nOs direitos de voto serão calculados com base em todas as acções às quais estão associados direitos de voto, inclusivamente se o exercício desse direito estiver suspenso.\n\n5. Não se considerará que uma acção dispõe de um mercado com liquidez para efeitos do artigo 27.º da Directiva 2004/39/CE antes de ter decorrido um prazo de [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) seis semanas**◄** após a sua admissão pela primeira vez à negociação num mercado regulamentado, caso a estimativa da capitalização total de mercado dessa acção no início do primeiro dia da negociação após a admissão, de acordo com o n.º 3 do artigo 33.º, seja inferior a 500 milhões de euros.\n\n6. As autoridades competentes assegurarão a manutenção e publicação de uma lista de todas as acções com liquidez, relativamente às quais são as autoridades competentes relevantes.\n\nEssas autoridades assegurarão que a lista se mantém actualizada, procedendo à sua revisão pelo menos uma vez por ano.\n\nA lista será posta à disposição do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários. Considerar-se-á que a lista foi publicada quando for publicada pelo Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários, de acordo com o n.º 5 do artigo 34.º"
+  },
+  "61424469eb23da91": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n(N.º 1, quarto parágrafo, do artigo 27.º da Directiva 2004/39/CE)\n\nVolume normal de mercado\n\nA fim de determinar o volume normal de mercado das acções com liquidez, essas acções serão agrupadas por categorias, com base no valor médio das ordens executadas em conformidade com o quadro 3 do anexo II."
+  },
+  "d6e095ee78ccd2a8": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n(N.º 1 do artigo 27.º da Directiva 2004/39/CE)\n\nOfertas de preços que reflectem as condições prevalecentes no mercado\n\nOs internalizadores sistemáticos manterão, para cada acção com liquidez [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) para a qual constituam um internalizador sistemático**◄**:\n\na) Uma oferta ou ofertas de preços que estejam próximas do preço de ofertas comparáveis relativamente à mesma acção noutros espaços ou organizações de negociação;\n\nb) Um registo dos seus preços oferecidos, que guardarão durante um período de 12 meses ou, se considerarem adequado, por um período mais longo.\n\nA obrigação prevista na alínea b) não prejudicará a obrigação prevista no n.º 2 do artigo 25.º da Directiva 2004/39/CE de a empresa de investimento manter à disposição das autoridades competentes durante um período de, pelo menos, cinco anos os dados relevantes de todas as transacções que tenha realizado."
+  },
+  "989a4656d262ea17": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n(N.º 3, quinto parágrafo, do artigo 27.º e n.º 6 do artigo 27.º da Directiva 2004/39/CE)\n\nExecução de ordens por internalizadores sistemáticos\n\n1. Para efeitos do n.º 3, quinto parágrafo, do artigo 27.º da Directiva 2004/39/CE, a execução que incida sobre vários títulos será considerada como integrando uma única transacção, se essa transacção consistir numa operação de carteira que envolva 10 ou mais títulos.\n\nPara o mesmo efeito, por ordem sujeita a condições diferentes do preço corrente de mercado entende-se qualquer ordem que não consista numa ordem de execução de uma transacção sobre acções pelo preço prevalecente no mercado nem numa ordem com limites.\n\n2. Para efeitos do n.º 6 do artigo 27.º da Directiva 2004/39/CE, o número ou o volume de ordens será considerado como ultrapassando consideravelmente a norma, caso o internalizador sistemático não possa executar essas ordens sem se expor a um grau indevido de risco.\n\nA fim de identificar o número e o volume de ordens que pode executar sem se expor a um grau indevido de risco, um internalizador sistemático manterá e aplicará, no quadro da sua política de gestão de risco a que se refere o artigo 7.º da Directiva 2006/73/CE da Comissão ([^6^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#E0006)), uma política não discriminatória que tenha em conta o volume das transacções, o capital disponível da empresa para cobrir o risco desse tipo de transacção e as condições prevalecentes no mercado em que a empresa opera.\n\n3. Sempre que, de acordo com o n.º 6 do artigo 27.º da Directiva 2004/39/CE, uma empresa de investimento limitar o número ou o volume de ordens que se compromete a executar, deve estabelecer por escrito e disponibilizar aos clientes efectivos e potenciais os mecanismos concebidos para assegurar que esse limite não implica um tratamento discriminatório dos clientes."
+  },
+  "3627f70f80f90ae8": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n(N.º 3, quarto parágrafo, do artigo 27.º da Directiva 2004/39/CE)\n\nDimensão das ordens de investidores não profissionais\n\nPara efeitos do n.º 3, quarto parágrafo, do artigo 27.º da Directiva 2004/39/CE, uma ordem será considerada como tendo uma dimensão superior às ordens habituais dos investidores não profissionais no caso de ultrapassar 7 500 euros."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "96b079f51f6ab8bc": {
+   "fragment_id": "Transparência pós-negociação dos mercados regulamentados, dos MTF e das empresas de investimento",
+   "type": "divisao",
+   "heading": "Transparência pós-negociação dos mercados regulamentados, dos MTF e das empresas de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Transparência pós-negociação dos mercados regulamentados, dos MTF e das empresas de investimento"
+  },
+  "7f09e23cb1887f40": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n(Artigos 28.º, 30.º e 45.º da Directiva 2004/39/CE)\n\nObrigação de transparência pós-negociação\n\n1. As empresas de investimento, os mercados regulamentados, as empresas de investimento e os operadores de mercado que operam um MTF devem tornar públicas as informações especificadas seguidamente em relação às transacções relativas a acções admitidas à negociação em mercados regulamentados, realizadas por si ou, no caso de mercados regulamentados ou de MTF, pelos seus sistemas:\n\na) As informações especificadas nos pontos 2, 3, 6, 16, 17, 18 e 21 do quadro 1 do anexo I;\n\nb) A indicação de que a troca de acções é determinada por factores que não o valor corrente de mercado da acção, caso aplicável;\n\nc) A indicação de que se tratou de uma transacção negociada, caso aplicável;\n\nd) Quaisquer alterações introduzidas nas informações anteriormente divulgadas, caso aplicável.\n\nEstas informações serão tornadas públicas, quer em relação a cada transacção quer agregando o volume e o preço de todas as transacções realizadas sobre a mesma acção ao mesmo preço e em simultâneo.\n\n2. A título de excepção, um internalizador sistemático será autorizado a utilizar a sigla «IS», em vez da identificação dos espaços ou organizações de negociação, referida na alínea a) do n.º 1, relativamente a uma transacção sobre uma acção por si executada na sua qualidade de internalizador sistemático.\n\nO internalizador sistemático só pode exercer esse direito se tiver divulgado ao público os dados trimestrais agregados relativos às transacções executadas na sua qualidade de internalizador sistemático no que diz respeito a essa acção, respeitantes ao último trimestre civil ou parte de trimestre civil durante o qual a empresa tenha actuado como um internalizador sistemático no que diz respeito a essa acção. Esses dados serão disponibilizados o mais tardar um mês após o final de cada trimestre civil.\n\nO internalizador sistemático pode igualmente exercer esse direito durante o período que decorre entre a data especificada no n.º 2 do artigo 41.º, ou a data na qual a empresa começa a ser um internalizador sistemático no que diz respeito a essa acção, prevalecendo a data que seja posterior, e a data em que devem ser publicados pela primeira vez os dados trimestrais agregados relativos a essa acção.\n\n3. Os dados trimestrais agregados referidos no segundo parágrafo do n.º 2 conterão as informações especificadas seguidamente relativas a essa acção em cada dia de negociação do trimestre civil em causa:\n\na) O preço mais elevado;\n\nb) O preço mais baixo;\n\nc) O preço médio;\n\nd) O número total de acções negociadas;\n\ne) O número total de transacções;\n\nf) As outras informações que o internalizador sistemático decidir disponibilizar.\n\n4. Se a transacção não for executada ao abrigo das regras de um mercado regulamentado ou de um MTF, a informação será, mediante acordo entre as partes, tornada pública por uma das seguintes empresas de investimento:\n\na) A empresa de investimento que vende a acção em causa;\n\nb) A empresa de investimento que actua por conta ou prepara a transacção para o vendedor;\n\nc) A empresa de investimento que actua por conta ou prepara a transacção para o comprador;\n\nd) A empresa de [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) investimento que compra a acção**◄** em causa.\n\nNa ausência de um tal acordo, as informações serão tornadas públicas pela empresa de investimento determinada com base na sequência iniciada na alínea a) e terminada na alínea d), até à primeira alínea que se aplicar ao caso em questão.\n\nAs partes tomarão todas as medidas razoáveis para assegurar que a transacção seja tornada pública como uma única operação. Para o efeito, duas operações que se compensem entre si, concluídas ao mesmo preço e em simultâneo, com uma única parte interposta, serão consideradas uma única transacção."
+  },
+  "43a795e3346fb487": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n(Artigos 28.º, 30.º e 45.º da Directiva 2004/39/CE)\n\nPublicação diferida de grandes transacções\n\nA publicação diferida de informações relativas a transacções pode ser autorizada por um período não superior ao especificado no quadro 4 do anexo II relativamente à categoria de acções e transacções em causa, desde que estejam satisfeitos os seguintes critérios:\n\na) A transacção seja realizada entre uma empresa de investimento que negoceia por conta própria e um cliente dessa empresa;\n\nb) A dimensão da transacção seja igual ou superior à dimensão mínima elegível relevante, tal como especificada no quadro 4 do anexo II.\n\nA fim de determinar a dimensão mínima elegível relevante, para efeitos da alínea b), todas as acções admitidas à negociação num mercado regulamentado serão classificadas de acordo com o respectivo volume médio diário de transacções, a calcular de acordo com o artigo 33.º"
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "bd7d1f50329aefed": {
+   "fragment_id": "Disposições comuns à transparência pré e pós-negociação",
+   "type": "divisao",
+   "heading": "Disposições comuns à transparência pré e pós-negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns à transparência pré e pós-negociação"
+  },
+  "790f59d9bd0d657c": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n(N.º 3 do artigo 27.º, n.º 1 do artigo 28.º, n.º 1 do artigo 29.º, n.º 1 do artigo 44.º e n.º 1 do artigo 45.º da Directiva 2004/39/CE)\n\nPublicação e disponibilidade de dados relativos à transparência pré e pós-negociação\n\n1. Considerar-se-á que um mercado regulamentado, um MTF ou um internalizador sistemático publica as informações de pré-negociação de forma contínua durante o horário normal de negociação, caso tenham sido publicadas logo que se tornaram disponíveis durante o horário normal de negociação do mercado regulamentado, do MTF ou do internalizador sistemático em causa e caso continuem a estar disponíveis até à sua actualização.\n\n2. As informações de pré e pós-negociação relativas a transacções realizadas num espaço ou organização de negociação durante o horário normal de negociação [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) serão disponibilizadas de forma tão próxima do tempo real quanto possível**◄**. As informações de pós-negociação relativas a tais transacções serão sempre disponibilizadas no prazo de três minutos a contar da conclusão da transacção relevante.\n\n3. As informações relativas a uma operação de carteira serão disponibilizadas de forma tão próxima do tempo real quanto possível, relativamente a cada uma das transacções que a compõem, tendo em conta a necessidade de atribuir preços a acções específicas. Cada uma dessas transacções será avaliada separadamente para determinar a eventual possibilidade da sua publicação diferida nos termos do artigo 28.º\n\n4. As informações de pós-negociação relativas a transacções realizadas num espaço ou organização de negociação, mas fora do seu horário normal de negociação, serão tornadas públicas antes da abertura do dia seguinte de negociação do espaço ou organização de negociação em que a transacção foi realizada.\n\n5. As informações pós-negociação relativas a transacções não realizadas num espaço ou organização de negociação serão tornadas públicas:\n\na) Quando a transacção tiver lugar durante um dia de negociação no mercado mais relevante para a acção em causa, ou durante o horário normal de negociação da empresa de investimentos, de forma tão próxima do tempo real quanto possível. As informações de pós-negociação relativas a tais transacções serão sempre disponibilizadas no prazo de três minutos a contar da conclusão da transacção relevante;\n\nb) Nos casos não abrangidos pela alínea a), imediatamente após o início do horário normal de negociação da [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) empresa de investimento**◄** ou, o mais tardar, antes da abertura do dia seguinte de negociação no mercado mais relevante para essa acção."
+  },
+  "2e0b5ed49d4c8bd4": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n(Artigos 27.º, 28.º, 29.º, 30.º, 44.º e 45.º da Directiva 2004/39/CE)\n\nDisponibilidade pública de informações de pré e pós-negociação\n\nPara efeitos dos artigos 27.º, 28.º, 29.º, 30.º, 44.º e 45.º da Directiva 2004/39/CE e do presente regulamento, as informações de pré e pós-negociação serão consideradas como tendo sido divulgadas ou disponibilizadas ao público, caso estejam disponíveis para os investidores localizados na Comunidade, em geral, através de um dos seguintes canais:\n\na) Infra-estruturas de um mercado regulamentado ou de um MTF;\n\nb) Infra-estruturas de um terceiro;\n\nc) Através de dispositivos próprios."
+  },
+  "5eec0c0d6709ebcd": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n(N.º 2 do artigo 22.º da Directiva 2004/39/CE)\n\nDivulgação de ordens com limites dadas por clientes\n\nConsiderar-se-á que uma empresa de investimento divulgou ordens com limites dadas por clientes não imediatamente executáveis, caso transmita a ordem a um mercado regulamentado ou a um MTF que opere [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) um sistema de negociação ou assegure**◄** que a ordem é divulgada publicamente e que possa ser facilmente executada logo que as condições do mercado o permitam."
+  },
+  "03aadb98dfef223b": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n(N.º 2 do artigo 22.º e artigos 27.º, 28.º, 29.º, 30.º, 44.º e 45.º da Directiva 2004/39/CE)\n\nDisposições destinadas a tornar públicas as informações\n\nQualquer disposição destinada a tornar públicas as informações, adoptada para efeitos dos artigos 30.º e 31.º, satisfará as seguintes condições:\n\na) Deve prever todas as medidas razoáveis, necessárias para assegurar que as informações a publicar sejam fiáveis, controladas numa base contínua no que diz respeito a erros e corrigidas logo que estes sejam detectados;\n\nb) Deve facilitar a consolidação dos dados com dados análogos de outras fontes;\n\nc) Deve disponibilizar as informações ao público numa base comercial não discriminatória e a um custo razoável."
+  },
+  "c872a24e4534605c": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n(Artigos 27.º, 28.º, 29.º, 30.º, 44.º e 45.º da Directiva 2004/39/CE)\n\nCálculos e estimativas de acções admitidas à negociação num mercado regulamentado\n\n1. Relativamente a cada acção admitida à negociação num mercado regulamentado, as autoridades competentes relevantes para essa acção assegurarão que sejam efectuados os seguintes cálculos relativamente a essa acção, logo após o final de cada ano civil:\n\na) O volume médio diário de transacções;\n\nb) O número médio diário de transacções;\n\nc) Para as acções que satisfazem as condições previstas no n.º 1, alínea a) ou b) (consoante a aplicável), do artigo 22.º, o volume de acções em circulação em 31 de Dezembro;\n\nd) Caso a acção seja uma acção com liquidez, o valor médio das ordens executadas.\n\nO presente número e o n.º 2 não serão aplicáveis a uma acção que seja admitida pela primeira vez à negociação num mercado regulamentado no período das quatro semanas anteriores ao final do ano civil.\n\n2. O cálculo do volume médio diário de transacções, do valor médio das ordens executadas e do número médio diário das transacções terá em conta a totalidade das ordens executadas na Comunidade relativamente à acção em causa entre 1 de Janeiro e 31 de Dezembro do ano anterior ou, caso seja aplicável, a parte do ano em que a acção esteve admitida à negociação num mercado regulamentado, sem que a sua negociação tenha sido suspensa.\n\nNos cálculos do volume médio diário de transacções, do valor médio das ordens executadas e do número médio diário de transacções sobre uma acção, excluir-se-ão os dias de não negociação no Estado-Membro da autoridade competente relevante para essa acção.\n\n3. Antes da primeira admissão de uma acção à negociação num mercado regulamentado, as autoridades competentes relevantes para essa acção devem garantir que tenham sido fornecidas estimativas do respectivo volume médio diário de transacções, da capitalização total de mercado dessa acção no início do primeiro dia de negociação e, quando o valor dessa estimativa da capitalização do mercado for igual ou superior a 500 milhões de euros:\n\na) Do número médio diário de transacções e, para as acções que satisfazem as condições previstas no n.º 1, alínea a) ou b) (consoante a aplicável), do artigo 22.º, o volume de acções em circulação;\n\nb) Caso a acção seja considerada uma acção com liquidez, do valor médio das ordens executadas.\n\nAs estimativas dirão respeito ao período de seis semanas seguinte à admissão à negociação ou ao final desse período, consoante o aplicável, e terão em conta qualquer eventual historial anterior de negociação da acção, bem como das acções que se considera terem características análogas.\n\n4. Após a admissão de uma acção à negociação num mercado regulamentado pela primeira vez, as autoridades competentes relevantes para essa acção assegurarão que sejam calculados, relativamente a essa acção, os valores referidos no n.º 1, alíneas a) a d), utilizando os dados relativos à negociação durante as primeiras quatro semanas, como se a referência à data de 31 de Dezembro que consta do n.º 1, alínea c), fosse uma referência ao final das primeiras quatro semanas de negociação, logo que exequível após a disponibilização desses dados e, de qualquer modo, antes do final do período de seis semanas referido no n.º 5 do artigo 22.º\n\n5. No decurso de um ano civil, as autoridades competentes relevantes assegurarão a análise e, se for necessário, um novo cálculo do volume médio diário de transacções, do valor médio das ordens executadas, do número médio diário de transacções executadas e do volume em circulação, sempre que se verificar uma alteração relativamente à acção ou ao emitente, susceptível de ter um impacto significativo e duradouro nos cálculos efectuados anteriormente.\n\n6. Os cálculos referidos nos n.^os^ 1 a 5, que devem ser publicados antes ou no primeiro dia de negociação de Março de 2009, serão efectuados com base nos dados relativos ao mercado ou mercados regulamentados do Estado-Membro com o mercado mais relevante em termos de liquidez, relativamente à acção em questão. Para o efeito, as transacções negociadas na acepção do artigo 19.º serão excluídas dos cálculos."
+  },
+  "7a7b3e99508540da": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n(Artigos 27.º, 28.º, 29.º, 30.º, 44.º e 45.º da Directiva 2004/39/CE)\n\nPublicação e impacto dos resultados dos cálculos e estimativas requeridos\n\n1. No primeiro dia de negociação de Março de cada ano, cada autoridade competente garantirá a publicação, em relação a cada acção para a qual seja a autoridade competente relevante e que tenha sido admitida à negociação num mercado regulamentado no final do ano civil anterior, das seguintes informações:\n\na) O volume médio diário de transacções e o número médio diário de transacções, calculados de acordo com os n.^os^ 1 e 2 do artigo 33.º;\n\nb) O volume em circulação e o valor médio das ordens executadas, sempre que devam ser calculados de acordo com os n.^os^ 1 e 2 do artigo 33.º\n\nO presente número não será aplicável às acções às quais seja aplicável o n.º 1, segundo parágrafo, do artigo 33.º\n\n2. Os resultados dos cálculos e estimativas requeridos ao abrigo dos n.^os^ 3, 4 ou 5 do artigo 33.º serão publicados logo que exequível, após a conclusão do cálculo ou da estimativa.\n\n3. Considerar-se-á que as informações referidas no n.º 1 ou 2 foram publicadas quando forem publicadas pelo Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários, de acordo com o n.º 5.\n\n4. Para efeitos do presente regulamento, aplicar-se-á o seguinte:\n\na) A classificação baseada na publicação referida no n.º 1 aplicar-se-á relativamente ao período de 12 meses com início no dia 1 de Abril após a publicação e que termina em 31 de Março seguinte;\n\nb) A classificação baseada nas estimativas previstas no n.º 3 do artigo 33.º aplicar-se-á desde a primeira admissão relevante à negociação até ao final do período de seis semanas referido no n.º 5 do artigo 22.º;\n\nc) A classificação baseada nos cálculos especificados no n.º 4 do artigo 33.º aplicar-se-á desde o final do período de seis semanas referido no n.º 5 do artigo 22.º:\n\ni) Até 31 de Março do ano seguinte quando o final do período de seis semanas tiver lugar entre 15 de Janeiro e 31 de Março (inclusive em relação a ambos) de um determinado ano;\n\nii) [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) Até ao dia 31 de Março que ocorra após o final**◄** desse período, nos restantes casos.\n\nNo entanto, a classificação baseada nos novos cálculos especificados no n.º 5 do artigo 33.º aplicar-se-á desde a data de publicação até 31 de Março seguinte, salvo se for objecto de novos cálculos ao abrigo desse número.\n\n5. O Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários publicará no seu sítio *web*, com base nos dados que lhe são fornecidos pelas autoridades competentes ou em seu nome, listas consolidadas e regularmente actualizadas em que são enumerados:\n\na) Todos os internalizadores sistemáticos relativamente a uma acção admitida à negociação num mercado regulamentado;\n\nb) Todas as acções admitidas à negociação num mercado regulamentado, especificando:\n\ni) O volume médio diário de transacções, o número médio diário de transacções e, para as acções que satisfazem as condições previstas no n.º 1, alínea a) ou b) (consoante a aplicável), do artigo 22.º, o volume de acções em circulação;\n\nii) No caso de uma acção com liquidez, o valor médio das ordens executadas e o volume normal de mercado para essa acção;\n\niii) No caso de uma acção com liquidez designada como acção com liquidez adicional, de acordo com o n.º 3 do artigo 22.º, a denominação da autoridade competente que assim a designou; e\n\niv) A autoridade competente relevante.\n\n6. As autoridades competentes assegurarão a publicação das informações referidas nas alíneas a) e b) do n.º 1, pela primeira vez, no primeiro dia de negociação de Julho de 2007, com base no período de referência de 1 de Abril de 2006 a 31 de Março de 2007. A título de derrogação do n.º 4, a classificação baseada nessa publicação aplicar-se-á relativamente ao período de 5 meses com início em 1 de Novembro de 2007 e com termo em 31 de Março de 2008."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "ff781876e155bb68": {
+   "fragment_id": "ADMISSÃO À NEGOCIAÇÃO DE INSTRUMENTOS FINANCEIROS",
+   "type": "divisao",
+   "heading": "ADMISSÃO À NEGOCIAÇÃO DE INSTRUMENTOS FINANCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ADMISSÃO À NEGOCIAÇÃO DE INSTRUMENTOS FINANCEIROS"
+  },
+  "ef6c54c716f2f2eb": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n(N.º 1 do artigo 40.º da Directiva 2004/39/CE)\n\nValores mobiliários\n\n1. Considerar-se-á que os valores mobiliários são livremente negociáveis, para efeitos do n.º 1 do artigo 40.º da Directiva 2004/39/CE, no caso de poderem ser negociados entre as partes de uma transacção e, [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) subsequentemente, transmitidos sem restrições e de todos os valores mobiliários da mesma categoria que o valor mobiliário em questão serem fungíveis**◄**.\n\n2. Os valores mobiliários objecto de uma restrição quanto à sua transferência não serão considerados livremente negociáveis, salvo se essa restrição não for susceptível de perturbar o mercado.\n\n3. Os valores mobiliários não inteiramente realizados podem ser considerados livremente negociáveis, caso existam disposições que assegurem que não esteja restringido o carácter negociável desses valores mobiliários e estejam publicamente disponíveis informações adequadas sobre o facto de esses valores não serem inteiramente realizados e as respectivas implicações para os accionistas.\n\n4. Aquando do exercício do seu poder discricionário quanto à eventual admissão de uma acção à negociação, os mercados regulamentados, ao avaliarem se uma acção é susceptível de ser negociada em condições equitativas, ordenadas e eficientes, terão em conta o seguinte:\n\na) A distribuição dessas acções ao público;\n\nb) As informações financeiras históricas, as informações relativas ao emitente e as informações que apresentem uma panorâmica das suas actividades, cuja elaboração é exigida pela Directiva 2003/71/CE, ou que, de outro modo, se encontrem ou venham a encontrar-se à disposição do público.\n\n5. Um valor mobiliário cotado oficialmente, de acordo com a Directiva 2001/34/CE, e cuja cotação não esteja suspensa, será considerado livremente negociável e susceptível de ser negociado em condições equitativas, ordenadas e eficientes.\n\n6. Para efeitos do n.º 1 do artigo 40.º da Directiva 2004/39/CE, sempre que avalia se os valores mobiliários referidos no n.º 1, alínea c) do ponto 18), do artigo 4.º da directiva são susceptíveis de ser negociados em condições equitativas, ordenadas e eficientes, o mercado regulamentado terá em conta, em função da natureza do título a ser objecto de admissão à negociação, se se encontram satisfeitos os seguintes critérios:\n\na) Se as condições do valor mobiliário são claras e inequívocas e permitem estabelecer uma correlação entre o seu preço e o preço ou outra medida do valor do instrumento subjacente;\n\nb) O preço ou outra medida do valor do instrumento subjacente são fiáveis e estão à disposição do público;\n\nc) Existem informações suficientes à disposição do público do tipo necessário para apreciar o respectivo valor;\n\nd) As disposições para a determinação do preço de liquidação do título asseguram que este reflecte de modo adequado o preço ou outra medida do valor do instrumento subjacente;\n\ne) No caso de a liquidação do valor mobiliário requerer ou prever a possibilidade de entrega de um activo ou do instrumento subjacente em vez da liquidação com base em numerário, existem procedimentos adequados de liquidação e de entrega relativamente a esse instrumento subjacente e disposições adequadas para obter as informações relevantes sobre esse instrumento subjacente."
+  },
+  "2431e2207d6c8842": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n(N.º 1 do artigo 40.º da Directiva 2004/39/CE)\n\nUnidades de participação em organismos de investimento colectivo\n\n1. Aquando da admissão à negociação de unidades de participação num organismo de investimento colectivo, independentemente de esse organismo ser constituído ou não de acordo com a Directiva 85/611/CE, um mercado regulamentado assegurar-se-á de que o organismo de investimento colectivo respeita ou tem respeitado os requisitos de registo e de notificação ou outros procedimentos, que constituem uma condição prévia, necessária para a comercialização do organismo de investimento colectivo no território cujo ordenamento jurídico abrange o mercado regulamentado.\n\n2. Sem prejuízo da Directiva 85/611/CEE ou de qualquer outra legislação comunitária ou nacional relativa a organismos de investimento colectivo, os Estados-Membros podem prever que o cumprimento dos requisitos referidos no n.º 1 não constitui uma condição prévia, necessária para a admissão à negociação num mercado regulamentado de unidades de participação num organismo de investimento colectivo.\n\n3. Sempre que avalia se as unidades de participação num organismo de investimento colectivo de tipo aberto são susceptíveis de ser negociadas em condições equitativas, ordenadas e eficientes, de acordo com o n.º 1 do artigo 40.º da Directiva 2004/39/CE, o mercado regulamentado terá em conta os seguintes aspectos:\n\na) A distribuição dessas unidades ao público;\n\nb) Se existem mecanismos adequados relativos aos criadores de mercado ou se a sociedade gestora do organismo prevê mecanismos alternativos adequados para que os investidores possam resgatar as unidades;\n\nc) Se o valor das unidades é dado a conhecer aos investidores de modo suficientemente transparente, através da publicação periódica do valor líquido dos activos.\n\n4. Sempre que avalia se as unidades de participação num organismo de investimento colectivo de tipo fechado são susceptíveis de ser negociadas em condições equitativas, ordenadas e eficientes, de acordo com o n.º 1 do artigo 40.º da Directiva 2004/39/CE, o mercado regulamentado terá em conta os seguintes aspectos:\n\na) A distribuição dessas unidades ao público;\n\nb) Se o valor das unidades é dado a conhecer aos investidores de modo suficientemente transparente, quer através da publicação de informações sobre a estratégia de investimento do fundo, quer através da publicação periódica do valor líquido dos seus activos."
+  },
+  "bef69fd8178a1bed": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n(N.^os^ 1 e 2 do artigo 40.º da Directiva 2004/39/CE)\n\nInstrumentos derivados\n\n1. Aquando da admissão à negociação de um instrumento financeiro do tipo mencionado nos pontos 4 a 10 da secção C do anexo I da Directiva 2004/39/CE, os mercados regulamentados verificarão se são respeitadas as seguintes condições:\n\na) As condições do contrato relativo ao instrumento financeiro devem ser claras e inequívocas e permitirem estabelecer uma correlação entre o preço do instrumento financeiro e o preço ou outra medida do valor do instrumento subjacente;\n\nb) O preço ou outra medida do valor do instrumento subjacente devem ser fiáveis e estarem à disposição do público;\n\nc) Devem estar à disposição do público informações suficientes do tipo necessário para avaliar o instrumento derivado;\n\nd) As disposições de determinação do preço de liquidação do contrato devem assegurar que este reflecte de modo adequado o preço ou outra medida do valor do activo subjacente;\n\ne) No caso de a liquidação do instrumento derivado requerer ou prever a possibilidade de entrega do valor mobiliário ou do activo subjacente em vez da liquidação com base em numerário, devem existir procedimentos adequados que permitam aos participantes no mercado obter as informações relevantes sobre esse valor ou activo subjacente, bem como para realizar a liquidação e entrega relativamente ao mesmo.\n\n2. Se os instrumentos financeiros em causa forem do tipo mencionado nos pontos 5, 6, 7 ou 10 da secção C do anexo I da Directiva 2004/39/CE, a alínea b) do n.º 1 não será aplicável se forem respeitadas as seguintes condições:\n\na) O contrato relativo a esse instrumento deve ser susceptível de permitir a divulgação ao mercado, ou a avaliação pelo mercado, do preço ou de outra medida do valor do instrumento subjacente, não se encontrando, de outro modo, à disposição do público esse preço ou medida do valor;\n\nb) O mercado regulamentado deve assegurar a existência de mecanismos adequados em matéria de supervisão da negociação e da liquidação desses instrumentos financeiros;\n\nc) O mercado regulamentado deve assegurar que a liquidação e a entrega, quer se trate de uma entrega física quer de uma liquidação com base em numerário, possam ser efectuadas em conformidade com as condições do contrato desses instrumentos financeiros."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "c16988454a36daa8": {
+   "fragment_id": "[►C1](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) INSTRUMENTOS FINANCEIROS DERIVADOS◄.",
+   "type": "divisao",
+   "heading": "[►C1](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) INSTRUMENTOS FINANCEIROS DERIVADOS◄.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [►C1](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) INSTRUMENTOS FINANCEIROS DERIVADOS◄."
+  },
+  "7f2d449eb1a25011": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n(N.º 1, ponto 2, do artigo 4.º da Directiva 2004/39/CE)\n\nCaracterísticas de outros instrumentos financeiros derivados\n\n1. Para efeitos do ponto 7 da secção C do anexo I da Directiva 2004/39/CE, um contrato, que não constitua um contrato a contado na acepção do n.º 2 do presente artigo e que se encontra abrangido pelo n.º 4, será considerado como tendo características de outros instrumentos financeiros derivados e como não tendo uma finalidade comercial, se satisfizer as seguintes condições:\n\na) O contrato respeita um dos seguintes conjuntos de critérios:\n\ni) É negociado numa estrutura de negociação de um país terceiro que desempenha uma função semelhante a um mercado regulamentado ou a um MTF;\n\nii) Está expressamente previsto que seja negociado ou esteja sujeito às regras de um mercado regulamentado, de um MTF ou de uma tal estrutura de negociação de um país terceiro;\n\niii) Está expressamente previsto que seja equivalente a um contrato negociado num mercado regulamentado, num MTF ou numa tal estrutura de negociação de um país terceiro;\n\nb) O contrato é compensado numa câmara de compensação ou noutra entidade com as mesmas funções de contraparte central, ou existem acordos quanto ao pagamento ou à prestação de margens relativamente ao contrato;\n\nc) Trata-se de um contrato normalizado em que, em especial, o preço, o lote, a data de entrega ou outras condições são determinados principalmente por referência a preços publicados regularmente, a lotes harmonizados ou a datas de entrega normalizadas.\n\n2. Por contrato a contado, para efeitos do n.º 1, entende-se um contrato relativo à venda de uma mercadoria, activo ou direito, de acordo com o qual a entrega é prevista para um período que será o mais longo dos seguintes períodos:\n\na) Dois dias de negociação;\n\nb) O período geralmente aceite no mercado para essa mercadoria, activo ou direito a título de período de entrega normalizado.\n\nNo entanto, um contrato não constitui um contrato a contado se, independentemente das suas condições expressas, se verificar um entendimento entre as partes no sentido de a entrega do instrumento subjacente dever ser adiada e não ser realizada no período mencionado no primeiro parágrafo.\n\n3. Para efeitos do ponto 10 da secção C do anexo I da Directiva 2004/39/CE, um contrato sobre instrumentos derivados, que tenha um instrumento subjacente referido nessa secção ou no artigo 39.º, será considerado como tendo as características de outros instrumentos financeiros derivados, se estiver satisfeita uma das seguintes condições:\n\na) O contrato é liquidado em numerário ou pode ser liquidado em numerário por opção de uma ou mais das partes, por uma razão diferente da insolvência ou de outro acontecimento que determina a rescisão;\n\nb) O contrato é negociado num mercado regulamentado ou num MTF;\n\nc) As condições previstas no n.º 1 estão satisfeitas relativamente a esse contrato.\n\n4. Considerar-se-á que um contrato tem um objectivo comercial, para efeitos do ponto 7 da secção C do anexo I da Directiva 2004/39/CE, e não tem as características de outros instrumentos financeiros derivados, para efeitos dos pontos 7 e 10 da secção C desse anexo, se for concluído com ou por um operador ou administrador de uma rede de transmissão de energia, um mecanismo de ajustamento dos fluxos de energia ou uma rede de oleodutos e se for necessário manter o equilíbrio entre a oferta e a procura de energia num determinado momento."
+  },
+  "8c6498aa8ffa64eb": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n(N.º 1, ponto 2, do artigo 4.º da Directiva 2004/39/CE)\n\nInstrumentos derivados no quadro do ponto 10 da secção C do anexo I da Directiva 2004/39/CE\n\nPara além dos contratos sobre instrumentos derivados do tipo referido no ponto 10 da secção C do anexo I da Directiva 2004/39/CE, um contrato sobre instrumentos derivados relativo a qualquer um dos elementos apresentados seguidamente será abrangido por essa secção, caso satisfaça os critérios nela previstos e no n.º 3 do artigo 38.º:\n\na) Largura de banda das telecomunicações;\n\nb) Capacidade de armazenamento de mercadorias;\n\nc) Capacidade de transmissão ou transporte de mercadorias, inclusive por cabo, oleoduto ou outro meio;\n\nd) Uma atribuição, crédito, autorização, direito ou activo análogo directamente relacionado com o fornecimento, a distribuição ou o consumo de energia com origem em fontes renováveis;\n\ne) Uma variável geológica, ambiental ou uma outra variável física;\n\nf) Qualquer outro activo ou direito de natureza fungível, que não um direito a receber [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) um serviço, susceptível**◄** de ser transferido;\n\ng) Um índice ou medida relacionada com o preço, o valor ou o volume das transacções com qualquer activo, direito, serviço ou obrigação."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "367ee95e727e2c7d": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nReexames\n\n1. A Comissão voltará a analisar a definição de «transacção» para efeitos do presente regulamento, os quadros incluídos no anexo II e os critérios de determinação das acções com liquidez referidos no artigo 22.º pelo menos de dois em dois anos, após consulta do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários.\n\n2. A Comissão voltará a analisar, após consulta do Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários, o disposto nos artigos 38.º e 39.º relativamente aos critérios de determinação dos instrumentos que devem ser tratados como tendo as características de outros instrumentos financeiros derivados, como tendo um objectivo comercial ou como estando abrangidos pelo ponto 10 da secção C do anexo I da Directiva 2004/39/CE, caso os outros critérios previstos nessa secção estejam satisfeitos em relação a esses instrumentos.\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório em simultâneo com os seus relatórios previstos no n.º 3, alíneas a) e d), do artigo 65.º da Directiva 2004/39/CE.\n\n3. O mais tardar dois anos após a data em que o presente regulamento passe a ser aplicável, a Comissão procederá, após consulta ao Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários, ao reexame do quadro 4 do anexo II e apresentará os resultados desse reexame ao Parlamento Europeu e ao Conselho."
+  },
+  "b2141001e0f1e806": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nEntrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Novembro de 2007, com excepção do artigo 11.º e dos n.^os^ 5 e 6 do artigo 34.º, que são aplicáveis a partir de 1 de Junho de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f77b46fd7b0144e2": {
+   "fragment_id": "Quadro 1",
+   "type": "divisao",
+   "heading": "Quadro 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro 1\n\nIdentificação de campo Descrição\n\n1. Identificação da empresa que apresenta a declaração Um código único para identificar a empresa que executou a transacção.\n\n2. Dia de negociação A dia de negociação em que a transacção foi executada.\n\n3. Hora de negociação A hora em que a transacção foi executada, expressa na hora local das autoridades competentes às quais a transacção [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) será comunicada, e a base em que a transacção foi declarada**◄**, expressa em termos de Tempo Universal Coordenado (TUC) +/- x horas.\n\n4. Indicador de venda/compra Identifica se a transacção consistiu numa compra ou numa venda na perspectiva da empresa de investimento que declara a transacção ou, no caso de uma prestação de informações a um cliente, na perspectiva deste.\n\n5. Qualidade do interveniente na negociação Identifica se a empresa executou a transacção: — por sua conta (em seu nome ou no de um cliente); — por conta e em nome de um cliente.\n\n6. Identificação de instrumentos Esta identificação consistirá: — num código único, a decidir pelas autoridades competentes (caso exista) a quem foi endereçada a declaração, identificando o instrumento financeiro objecto da transacção, — se o instrumento financeiro em questão não tem um código de identificação único, a declaração deve incluir a designação do instrumento ou, no caso de um contrato sobre instrumentos derivados, as características do contrato.\n\n7. Tipo de código do instrumento O tipo de código utilizado para declarar o instrumento.\n\n8. Identificação do instrumento subjacente A identificação dos instrumentos aplicável ao valor mobiliário que constitui o activo subjacente a um contrato sobre instrumentos derivados, bem como aos valores mobiliários abrangidos pelo n.º 1, alínea c) do ponto 18, do artigo 4.º da Directiva 2004/39/CE.\n\n9. Tipo de código de identificação dos instrumentos subjacentes O tipo de código utilizado para declarar o instrumento subjacente.\n\n10. Tipo de instrumento Classificação harmonizada do instrumento financeiro objecto da transacção. A descrição deve, pelo menos, indicar se o instrumento pertence a uma das categorias de nível superior definidas por uma norma uniforme internacionalmente aceite de classificação dos instrumentos financeiros.\n\n11. Data de vencimento A data de vencimento de uma obrigação ou outro tipo de título de dívida ou a data de exercício/vencimento de um contrato sobre instrumentos derivados.\n\n12. Tipo de instrumentos derivados A descrição harmonizada do tipo de instrumentos derivados deve ser feita em conformidade com uma das categorias de nível superior definidas por uma norma uniforme internacionalmente aceite de classificação dos instrumentos financeiros.\n\n13. Opção de compra/venda Especificação do facto de uma opção ou qualquer outro instrumento financeiro consistir numa opção de compra ou de venda.\n\n14. Preço de exercício O preço de exercício de uma opção ou de outro instrumento financeiro.\n\n15. Multiplicador de preços O número de unidades do instrumento financeiro em causa contidas num lote de negociação; por exemplo, o número de instrumentos derivados ou de títulos representados por um contrato.\n\n16. Preço unitário O preço por título ou por contrato sobre instrumentos derivados, deduzido das comissões e (quando relevante) dos juros vencidos. No caso de um instrumento de dívida, o preço pode ser expresso numa moeda ou numa percentagem.\n\n17. Notação do preço A moeda em que o preço é expresso. No caso de uma obrigação ou outro tipo de título de dívida, se o preço for expresso em percentagem, essa percentagem deve ser indicada.\n\n18. Quantidade O número de unidades dos instrumentos financeiros, o valor nominal das obrigações ou o número dos contratos sobre instrumentos derivados incluídos na transacção.\n\n19. Notação da quantidade Indicação do facto de a quantidade ser o número de unidades dos instrumentos financeiros, o valor nominal das obrigações ou o número de contratos sobre instrumentos derivados.\n\n20. Contraparte Identificação da contraparte da transacção. Essa identificação consistirá em: — se a contraparte for uma empresa de investimento, um código único dessa empresa, a estabelecer, se for caso disso, pelas autoridades competentes a quem é endereçada a declaração, — se a contraparte for um mercado regulamentado, um MTF ou uma entidade que actua como a sua contraparte central, o código único harmonizado de identificação desse mercado, MTF ou entidade que actua como contraparte central, tal como especificado na lista publicada pelas autoridades competentes do Estado-Membro de origem dessa entidade, em conformidade com o n.° 2 do artigo 13.°, — se a contraparte não for uma empresa de investimento, um mercado regulamentado, um MTF ou uma entidade que actua como contraparte central, deve ser identificado como «cliente» da empresa de investimento que executou a transacção.\n\n21. Identificação do espaço ou organização de negociação Identificação do espaço ou organização de negociação onde a transacção foi executada. Essa identificação consistirá em: — no caso de um espaço ou organização de negociação: o seu código único harmonizado de identificação, — nos restantes casos: o código «OTC».\n\n22. Número de referência das transacções Um número de identificação único da transacção fornecido pela empresa de investimento ou por um terceiro, que apresenta uma declaração em seu nome.\n\n23. Indicador de anulação Indicação do facto de a transacção ter ou não sido anulada."
+  },
+  "abe0a16c785a3654": {
+   "fragment_id": "Quadro 2",
+   "type": "divisao",
+   "heading": "Quadro 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro 2\n\nIdentificação de campo Descrição\n\n1. Identificação da empresa que apresenta a declaração Quando um código único, tal como referido no quadro 1 do anexo 1, não for suficiente para identificar a contraparte, as autoridades competentes devem tomar medidas adequadas para garantir a identificação da contraparte.\n\n6. Identificação de instrumentos Deve ser utilizado o código único, acordado entre todas as autoridades competentes e aplicável ao instrumento financeiro em causa.\n\n20. Contraparte Quando um código único, ou um código único harmonizado de identificação, a que se refere o quadro 1 do anexo 1, não forem suficientes para identificar a contraparte, as autoridades competentes devem tomar medidas adequadas para garantir a identificação da contraparte."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a7b399a43b5eb7d8": {
+   "fragment_id": "Quadro 1",
+   "type": "divisao",
+   "heading": "Quadro 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro 1\n\n| Tipo de sistema | Descrição do sistema | Síntese das informações a disponibilizar ao público, de acordo com o artigo 17.º |\n| --- | --- | --- |\n| Sistema de negociação por leilão contínuo com base numa carteira de ordens | Um sistema que, por meio de uma carteira de ordens e de um algoritmo de negociação operado sem intervenção humana, permite a correspondência entre as ordens de venda e as ordens de compra correspondentes, com base no melhor preço disponível, numa base contínua | O número agregado de ordens e das acções abrangidas, relativamente a cada nível de preço, para, pelo menos, as cinco melhores ofertas de preços de compra e de preços de venda |\n| Sistema de negociação baseado nas ofertas de preços | Um sistema em que as transacções são concluídas com base em ofertas de preços firmes, continuamente disponibilizadas aos participantes e que requer aos criadores de mercado que mantenham continuamente cotações para lotes com uma dimensão que dê resposta à necessidade dos membros e dos participantes em termos de negociação com uma dimensão comercial, e que tenha também em consideração o risco a que está exposto o criador de mercado | A melhor oferta de preços de compra e de venda por cada criador de mercado nessa acção, juntamente com os volumes correspondentes a esses preços |\n| Sistema de negociação por leilão periódico | Um sistema que permite o confronto entre ordens com base num leilão periódico e num algoritmo de negociação operado sem intervenção humana | O preço em que o sistema de negociação por leilão satisfaz da melhor forma o seu algoritmo de negociação e o volume que será potencialmente transaccionável a esse preço |\n| Sistema de negociação não coberto pelas três primeiras linhas | Um sistema híbrido abrangido por duas ou mais das três primeiras linhas ou um sistema em que o processo de determinação dos preços seja de natureza diferente do aplicável aos tipos de sistemas indicados nas três primeiras linhas | Informações adequadas relativamente ao nível de ordens ou de ofertas de preços e do interesse de negociação nessa acção, em especial, os cinco melhores níveis de preços de compra e de venda e/ou ofertas de preços bilaterais de cada criador de mercado nessa acção, caso as características do mecanismo de formação dos preços o permita |"
+  },
+  "984725b1c60ae112": {
+   "fragment_id": "Quadro 2",
+   "type": "divisao",
+   "heading": "Quadro 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro 2\n\n| *(em euros)* |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Categoria em termos de volume médio diário de transacções (VMDT) | VMDT < 500 000 | 500 000 ≤ VMDT < 1 000 000 | 1 000 000 ≤ VMDT < 25 000 000 | 25 000 000 ≤ VMDT < 50 000 000 | VMDT ≥ 50 000 000 |\n| Dimensão mínima da ordem que se classifica como de volume elevado, em comparação com o volume normal de mercado | 50 000 | 100 000 | 250 000 | 400 000 | 500 000 |"
+  },
+  "0797b900a3a5af72": {
+   "fragment_id": "Quadro 3",
+   "type": "divisao",
+   "heading": "Quadro 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro 3\n\n| *(em euros)* |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Categoria em termos de valor médio das transacções (VMT) | VMT < 10 000 | 10 000 ≤ VMT < 20 000 | 20 000 ≤ VMT < 30 000 | 30 000 ≤ VMT < 40 000 | 40 000 ≤ VMT < 50 000 | [**►C1**](http://publications.europa.eu/resource/celex/32006R1287R%2801%29) 50 000 ≤ VMT < 70 000 **◄** | 70 000 ≤ VMT < 90 000 | Etc. |\n| Volume normal de mercado | 7 500 | 15 000 | 25 000 | 35 000 | 45 000 | 60 000 | 80 000 | Etc. |"
+  },
+  "577f186b260acfd9": {
+   "fragment_id": "Quadro 4",
+   "type": "divisao",
+   "heading": "Quadro 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro 4"
+  },
+  "1b738aa854aff69d": {
+   "fragment_id": "Publicação diferida: limiares e diferimentos",
+   "type": "divisao",
+   "heading": "Publicação diferida: limiares e diferimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Publicação diferida: limiares e diferimentos\n\nO quadro seguinte apresenta, para cada diferimento autorizado na publicação e para cada categoria de acções em termos de volume médio diário de transacções (VMDT), a dimensão mínima da operação requerida para efeitos desse diferimento, relativamente a uma acção desse tipo.\n\n|  | Categoria de acções em termos de volume médio diário de transacções (VMDT) |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| VMDT < 100 000 EUR | 100 000 ≤ VMDT < 1 000 000 EUR | 1 000 000 ≤ VMDT < 50 000 000 EUR | VMDT ≥ 50 000 000 EUR |  |  |\n| Dimensão mínima requerida para a operação para efeitos do diferimento autorizado |  |  |  |  |  |\n| Diferimento autorizado para efeitos de publicação | 60 minutos | 10 000 EUR | 5 % do VMDT ou 25 000 EUR (o que for maior) | 10 % do VMDT ou 3 500 000 EUR (o que for menor) | 10 % do VMDT ou 7 500 000 EUR (o que for menor) |\n| 180 minutos | 25 000 EUR | 15 % do VMDT ou 75 000 EUR (o que for maior) | 15 % do VMDT ou 5 000 000 EUR (o que for menor) | 20 % do VMDT ou 15 000 000 EUR (o que for menor) |  |\n| Até ao final do dia de negociação (ou prolongamento até às doze horas do dia de negociação seguinte, caso a transacção seja realizada nas 2 últimas horas do dia de negociação) | 45 000 EUR | 25 % do VMDT ou 100 000 EUR (o que for maior) | 25 % do VMDT ou 10 000 000 EUR (o que for menor) | 30 % do VMDT ou 30 000 000 EUR (o que for menor) |  |\n| Até ao final do dia de negociação seguinte ao da transacção | 60 000 EUR | 50 % do VMDT ou 100 000 EUR (o que for maior) | 50 % do VMDT ou 1 000 000 EUR (o que for maior) | 100 % do VMDT |  |\n| Até ao final do segundo dia de negociação seguinte ao da transacção | 80 000 EUR | 100 % do VMDT | 100 % do VMDT | 250 % do VMDT |  |\n| Até ao final do terceiro dia de negociação seguinte ao da transacção |  | 250 % do VMDT | 250 % do VMDT |  |  |\n\n---"
+  },
+  "1e22e397f9c51934": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#src.E0001)) JO L 145 de 30.4.2004, p. 1. Directiva alterada pela Directiva 2006/31/EC (JO L 114 de 27.4.2006, p. 60).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#src.E0002)) JO L 345 de 31.12.2003, p. 64.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#src.E0003)) JO L 375 de 31.12.1985, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 2005/1/CE do Parlamento Europeu e do Conselho (JO L 79 de 24.3.2005, p. 9).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#src.E0004)) JO L 191 de 13.7.2001, p. 43.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#src.E0005)) JO L 193 de 18.7.1983, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ed87ebdb-7329-4b70-b59d-fc53c626d48c.0003.03/DOC_1#src.E0006)) Ver página 26 do presente Jornal Oficial."
+  }
+ }
+}

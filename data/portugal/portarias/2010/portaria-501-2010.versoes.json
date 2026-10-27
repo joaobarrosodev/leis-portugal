@@ -1,0 +1,552 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334292:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-966989529",
+ "dre_path": "/dr/detalhe/portaria/501-2010-334292",
+ "source_lastmod": "2026-02-02",
+ "versions": [
+  {
+   "date": "2010-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "967126775",
+    "967126975",
+    "967127175",
+    "967127375",
+    "967127575",
+    "967127775",
+    "967127975",
+    "967128175",
+    "967128375",
+    "967128575",
+    "967128775",
+    "967128975",
+    "967129175",
+    "967129375",
+    "967129575",
+    "967129775",
+    "967129975",
+    "967130175",
+    "967130375",
+    "967130575",
+    "967130775",
+    "967130975",
+    "967131175",
+    "967131375",
+    "967131575",
+    "967131775",
+    "967131975",
+    "967132175",
+    "967132375",
+    "967132575",
+    "967132775",
+    "967132975",
+    "967133175"
+   ]
+  },
+  {
+   "date": "2012-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178528:por",
+     "title": "Portaria n.º 201/2012",
+     "published": "2012-07-02",
+     "dre_path": "/dr/detalhe/portaria/201-2012-178528"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "967126775",
+    "967126975",
+    "967127175",
+    "967127375",
+    "967127575",
+    "967127775",
+    "967127975",
+    "967128175",
+    "967128375",
+    "967128575",
+    "967128775",
+    "1029684113",
+    "1029684093",
+    "967129375",
+    "1029684094",
+    "1029684114",
+    "1029684095",
+    "967130175",
+    "1029684096",
+    "1029684097",
+    "1029684098",
+    "1029684102",
+    "1029684103",
+    "1029684104",
+    "1029684105",
+    "1029684106",
+    "1029684107",
+    "1029684115",
+    "1029684109",
+    "1029684110",
+    "967132575",
+    "1029684116",
+    "967132975",
+    "967133175"
+   ]
+  }
+ ],
+ "fragments": {
+  "967126775": {
+   "fragment_id": "967126675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece no seu artigo 68.º que cada Estado membro deve criar uma rede rural nacional que reúna as organizações e administrações envolvidas no desenvolvimento rural, a financiar pela medida «Assistência técnica», nos termos do n.º 3 do artigo 66.º do mesmo regulamento.\n\nO Decreto-Lei n.º 2/2008, de 4 de Janeiro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho, definiu o modelo da governação dos instrumentos de programação do desenvolvimento rural para o período de 2007-2013, estabelecendo a estrutura orgânica relativa ao exercício das funções de gestão, controlo, informação, acompanhamento e avaliação, nos termos dos regulamentos comunitários aplicáveis, e instituiu o Programa para a Rede Rural Nacional (PRRN), procedendo também à criação da Rede Rural Nacional (RRN).\n\nO Programa para a Rede Rural Nacional, aprovado pela Decisão da Comissão C (2008) 7840, de 3 de Dezembro de 2008, visa apoiar a criação e o funcionamento da RRN, contribuindo para reforçar o intercâmbio entre todos os intervenientes no desenvolvimento rural e favorecendo o conhecimento e a transferência das boas práticas em coerência com as orientações comunitárias e com o Plano Estratégico Nacional de Desenvolvimento Rural (PENDR).\n\nTorna-se agora necessário operacionalizar o PRRN através de um instrumento que estabeleça regras de acesso ao financiamento das operações relativas à actividade e ao funcionamento da RRN.\n\nAssim:\n\nAo abrigo do n.º 3 do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho:\n\nManda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rural, no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas através do despacho n.º 78/2010, de 5 de Janeiro, o seguinte:"
+  },
+  "967126975": {
+   "fragment_id": "967126875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado, em anexo à presente portaria o Regulamento de Aplicação do Programa para a Rede Rural Nacional, abreviadamente designado por PRRN, bem como os anexos i e ii do Regulamento, dela fazendo parte integrante."
+  },
+  "967127175": {
+   "fragment_id": "967127075",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "967127375": {
+   "fragment_id": "967127275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 16 de Junho de 2010."
+  },
+  "967127575": {
+   "fragment_id": "967127475",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DO PROGRAMA PARA A REDE RURAL NACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DO PROGRAMA PARA A REDE RURAL NACIONAL"
+  },
+  "967127775": {
+   "fragment_id": "967127675",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "967127975": {
+   "fragment_id": "967127875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as condições e a regras gerais de financiamento, pelo Fundo Europeu Agrícola e de Desenvolvimento Rural, adiante designado por FEADER, das operações apresentadas no âmbito do Programa para a Rede Rural Nacional, abreviadamente designado por PRRN, previsto no artigo 68.º do Regulamento (CE) n.º 1698/2005, a financiar pela medida «Assistência técnica», nos termos do n.º 3 do artigo 66.º do mesmo Regulamento, que define o enquadramento nacional dos apoios a conceder no período de 2007-2013."
+  },
+  "967128175": {
+   "fragment_id": "967128075",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO Programa para a Rede Rural Nacional (PRRN) tem como objectivo apoiar as operações relativas às seguintes áreas de intervenção:\n\na) Capitalização da experiência e do conhecimento com vista a transferir para os agentes de desenvolvimento rural boas práticas e novos conhecimentos;\n\nb) Facilitação da cooperação com vista a incentivar as práticas de cooperação entre agentes e entre territórios em torno dos objectivos de desenvolvimento rural;\n\nc) Observação do mundo rural e da implementação das políticas de desenvolvimento rural para adequar a estratégia de desenvolvimento e as políticas, às necessidades e potencial de desenvolvimento rural;\n\nd) Facilitação do acesso à informação tendo em vista disponibilizar informação relevante para os agentes envolvidos no desenvolvimento do mundo rural."
+  },
+  "967128375": {
+   "fragment_id": "967128275",
+   "type": 11,
+   "heading": "Artigo 3.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área geográfica de aplicação\n\nO presente regulamento tem aplicação em todo o território nacional."
+  },
+  "967128575": {
+   "fragment_id": "967128475",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\na) «Acordo de parceria» - documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual membros da rede rural nacional, independentes uns dos outros, se obrigam a assegurar o desenvolvimento de actividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objectivos dessa parceria e as obrigações dos seus membros, bem como a designação da entidade gestora da parceria.\n\nb) «Candidatura em parceria» - pedido de apoio apresentado por dois ou mais membros da Rede Rural Nacional (RRN), protocolado entre as partes mediante a celebração de um acordo de parceria.\n\nc) «Entidade gestora da parceria» - entidade pública ou pessoa colectiva de natureza privada sem fins lucrativos responsável pela gestão administrativa e executiva da parceria, designada pelos respectivos membros para a representar.\n\nd) «Início da operação» - dia a partir do qual se inicia a execução da operação, sendo, em termos contabilísticos, definido pela data da factura, ou documento equivalente, mais antiga relativa a despesas elegíveis.\n\ne) «Membros da rede rural nacional» - entidades públicas e pessoas colectivas de natureza privada sem fins lucrativos, envolvidas no desenvolvimento do mundo rural, de âmbito nacional, regional ou local que formalizam a sua inscrição junto da rede rural.\n\nf) «Plano de acção da rede rural nacional» - plano que define a estratégia para operacionalização das áreas de intervenção a desenvolver no período de programação e implementado com base em planos de actividades.\n\ng) «Plano de actividades» - plano que define as actividades a desenvolver no âmbito de cada área de intervenção.\n\nh) «Termo da operação» - data de conclusão da operação, determinado no contrato de financiamento."
+  },
+  "967128775": {
+   "fragment_id": "967128675",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento as seguintes entidades, isoladamente ou em parceria:\n\na) Organismos, serviços e pessoas colectivas públicas do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, e das Secretarias Regionais das Regiões Autónomas que tutelam a área do desenvolvimento rural.\n\nb) Outros organismos, serviços públicos e pessoas colectivas públicas membros da RRN;\n\nc) Pessoas colectivas de natureza privada sem fins lucrativos membros da RRN;\n\nd) A autoridade de gestão do PRRN quando se trate da avaliação do Programa, integrada na alínea c) do artigo 2.º\n\n2 - As entidades referidas na alínea b) do número anterior devem celebrar acordos de parceria com as entidades previstas nas alíneas a) ou c) do mesmo número, para poderem beneficiar dos apoios previstos nas alíneas a), b) e d) do artigo 2.º\n\n3 - As entidades referidas nas alíneas b) e c) do n.º 1 devem celebrar acordos de parceria com as entidades previstas na alínea a) do mesmo número, para poderem beneficiar dos apoios previstos para a área de intervenção identificada na alínea c) do artigo 2.º"
+  },
+  "967128975": {
+   "fragment_id": "967128875",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nc) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nd) Disporem de contabilidade actualizada de acordo com a legislação em vigor;\n\ne) Assegurarem os meios humanos e materiais adequados à realização da operação, nomeadamente quadros com aptidão técnica e experiência para as actividades elegíveis;\n\nf) Apresentarem, quando aplicável, um acordo de parceria onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria.\n\n2 - Ao beneficiário a que se refere a alínea d) do n.º 1 do artigo 5.º não se aplica o disposto no número anterior."
+  },
+  "967129175": {
+   "fragment_id": "967129075",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que:\n\na) Tenham enquadramento nas áreas de intervenção previstas no artigo 2.º do presente Regulamento;\n\nb) Respeitem as tipologias definidas nos avisos de concurso a que se refere a alínea b) do n.º 1 do artigo 13.º;\n\nc) Tenham início após a data de apresentação do pedido de apoio, sem prejuízo do disposto no número seguinte e no artigo 23.º\n\n2 - Excepcionalmente, o aviso de abertura do concurso poderá considerar elegíveis operações com início antes da data de apresentação do pedido de apoio, desde que não estejam concluídas antes da data da aprovação do pedido, e sejam posteriores ao encerramento do último aviso relativo ao mesmo tipo de actividade."
+  },
+  "967129375": {
+   "fragment_id": "967129275",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são as constantes do anexo i ao presente Regulamento."
+  },
+  "967129575": {
+   "fragment_id": "967129475",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente regulamento devem cumprir as seguintes obrigações, sem prejuízo daquelas enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho:\n\na) Executar as operações nos termos e prazos definidos no contrato de financiamento;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações;\n\nc) Dispor de um dossier específico para a operação devidamente organizado;\n\nd) Proceder à publicitação dos apoios que lhe forem atribuídos, nos termos da legislação comunitária e orientações técnicas aplicáveis;\n\ne) Cumprir as obrigações legais designadamente as fiscais e para com a segurança social;\n\nf) Manter um sistema de contabilidade nos termos da alínea d) do n.º 1 do artigo 6.º;\n\ng) Não locar, alienar ou por qualquer forma onerar os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão do PRRN;\n\nh) Fornecer todos os elementos necessários à quantificação dos indicadores de realização e de resultado das operações apoiadas, quando exigíveis;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de uma conta bancária específica para o efeito.\n\n2 - Os beneficiários ou, em caso de parceria, a entidade gestora da mesma devem ainda, nos termos definidos em orientação técnica específica (OTE):\n\na) Elaborar relatórios de execução relativos a cada pedido de pagamento;\n\nb) Apresentar à autoridade de gestão, no prazo de quatro meses após o termo da operação, um relatório de avaliação relativo aos resultados da operação.\n\n3 - O incumprimento das obrigações previstas nos números anteriores determina a suspensão de todos os pagamentos ao beneficiário no âmbito do PRRN, até à regularização da situação."
+  },
+  "967129775": {
+   "fragment_id": "967129675",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, limite e montantes dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma, limite e montantes dos apoios\n\n1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis, de valor igual a 100 % das despesas elegíveis.\n\n2 - A taxa máxima de co-financiamento do FEADER para as operações aprovadas é de 50 %."
+  },
+  "967129975": {
+   "fragment_id": "967129875",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de selecção\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são avaliados de acordo com os seguintes critérios:\n\na) Entidade ou parceria promotora (E), que valoriza a adequação da entidade ou parceria promotora ao objectivo da operação, tendo em conta o seu domínio de actuação e experiência;\n\nb) Inovação (I), que valoriza o grau de inovação da operação;\n\nc) Impacto e abrangência (A), que valoriza a capacidade de resposta da operação aos objectivos e prioridades do Plano de Acção e do Plano de Actividades da RRN, o público-alvo beneficiado pela operação e a pertinência dos meios de difusão propostos para divulgação e transferência dos resultados da operação;\n\nd) Metodologia (M), que valoriza a qualidade do diagnóstico, a razoabilidade das metas e a pertinência e coerência do planeamento da operação;\n\ne) Custo (C), que valoriza a razoabilidade e a estrutura dos custos da operação em função dos resultados esperados.\n\n2 - Os pedidos de apoio mencionados no número anterior são hierarquizados por ordem decrescente em função do respectivo valor da operação calculada nos termos do anexo ii ao presente Regulamento.\n\n3 - Os pedidos de apoio relativos às operações com classificação de 0 em qualquer um dos parâmetros não são seleccionados."
+  },
+  "967130175": {
+   "fragment_id": "967130075",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "967130375": {
+   "fragment_id": "967130275",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\n1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho.\n\n2 - Os concursos são divulgados pela autoridade de gestão no sítio da Internet do PRRN, com uma antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.\n\n3 - A formalização dos pedidos de apoio efectua-se através da apresentação de formulário disponível no sítio da Internet do PRRN, o qual deve ser acompanhado da documentação no mesmo indicada.\n\n4 - Em derrogação do n.º 1, a apresentação dos pedidos de apoio relativos à avaliação do PRRN, efectua-se em contínuo."
+  },
+  "967130575": {
+   "fragment_id": "967130475",
+   "type": 11,
+   "heading": "Artigo 13.º — Avisos de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avisos de abertura\n\n1 - Os avisos de abertura dos concursos são aprovados pelo gestor e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) A tipologia das actividades em que se enquadram as operações;\n\nc) O prazo e local para apresentação dos pedidos de apoio;\n\nd) A dotação orçamental a atribuir;\n\ne) O número máximo de pedidos de apoio admitidos por beneficiário;\n\nf) A forma e níveis dos apoios a conceder, respeitando o disposto no artigo 10.º;\n\ng) A metodologia para a pontuação dos critérios de selecção.\n\n2 - Os avisos de abertura dos concursos são divulgados no sítio da Internet do PRRN."
+  },
+  "967130775": {
+   "fragment_id": "967130675",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão dos pedidos de apoio\n\n1 - O secretariado técnico analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos critérios referidos no artigo 11.º, bem como o apuramento do montante do custo total elegível por beneficiário e global, e procede à respectiva pontuação e hierarquização.\n\n2 - Em caso de igualdade de pontuações, os pedidos de apoio são hierarquizados por ordem de entrada.\n\n3 - Podem ser solicitados aos candidatos elementos complementares, que devem ser prestados no prazo de 10 dias úteis, se prazo superior não for fixado pelo gestor, decorrido o qual, a ausência de resposta constitui fundamento de indeferimento do pedido.\n\n4 - O parecer referido no n.º 1 é emitido no prazo máximo de 40 dias úteis a contar da data do termo do período de apresentação do pedido de apoio ao gestor.\n\n5 - Os pedidos de apoio são objecto de decisão pelo gestor, excepto se o beneficiário for a Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR) ou a autoridade de gestão do PRRN, em que serão objecto de decisão do membro do Governo responsável pela área do desenvolvimento rural.\n\n6 - O secretariado técnico notifica o beneficiário no prazo máximo de 15 dias úteis a contar da data da recepção da decisão prevista no número anterior.\n\n7 - O secretariado técnico comunica a decisão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), para efeitos de formalização do contrato."
+  },
+  "967130975": {
+   "fragment_id": "967130875",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre cada um dos beneficiários e o IFAP, I. P.\n\n2 - O IFAP, I. P., envia o contrato ao beneficiário no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor.\n\n3 - O beneficiário dispõe de 20 dias úteis para devolução do contrato devidamente assinado, sob pena de caducidade da decisão de aprovação, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho."
+  },
+  "967131175": {
+   "fragment_id": "967131075",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução das operações\n\n1 - O prazo máximo para os beneficiários iniciarem a execução física da operação é de seis meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido no número anterior."
+  },
+  "967131375": {
+   "fragment_id": "967131275",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração das operações\n\n1 - Em casos excepcionais e devidamente fundamentados, podem ser aceites alterações às operações aprovadas, desde que se mantenham os seus objectivos.\n\n2 - Os pedidos de alteração devem ser formalizados mediante a apresentação de formulário de substituição com indicação das alterações solicitadas, informação detalhada das rubricas a alterar e nota justificativa das mesmas.\n\n3 - As alterações às operações previstas no n.º 1 são objecto de decisão do gestor."
+  },
+  "967131575": {
+   "fragment_id": "967131475",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apresentação dos pedidos de pagamento\n\n1 - Podem ser apresentados quatro pedidos de pagamento por ano, através de preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues às entidades previstas nos n.os 1 e 2 do artigo 19.º, no prazo de cinco dias úteis a contar da data de apresentação do pedido.\n\n3 - Apenas são aceites os pedidos de pagamento relativos às despesas efectuadas por débito em conta, transferência bancária ou cheques, comprovados pelo respectivo extracto bancário ou mapa dos meios de pagamento, demonstrativos do pagamento, nos termos previstos nas cláusulas contratuais e nos números seguintes.\n\n4 - Quando previsto no contrato de financiamento podem ser apresentados pedidos de pagamento a título de adiantamento, até ao limite de 20 % do valor do investimento elegível."
+  },
+  "967131775": {
+   "fragment_id": "967131675",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento\n\n1 - Os pedidos de pagamento são objecto de análise pelas seguintes entidades:\n\na) Direcção Regional de Agricultura e Pescas, no caso das operações localizadas na respectiva área de intervenção no continente;\n\nb) Entidade a designar pela Secretaria Regional do Ambiente e Recursos Naturais, no caso das operações localizadas na Região Autónoma da Madeira;\n\nc) Entidade a designar pela Secretaria Regional da Agricultura e Florestas, no caso das operações localizadas na Região Autónoma dos Açores.\n\n2 - Os pedidos de pagamento apresentados pelas entidades mencionadas no n.º 1 ou pela autoridade de gestão do PRRN são analisados pelo secretariado técnico ou pelo IFAP, I. P., respectivamente.\n\n3 - Os relatórios de análise são emitidos no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos, deles resultando o apuramento do investimento elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - O prazo referido no número anterior suspende-se sempre que sejam solicitados aos beneficiários elementos complementares, sendo a ausência de resposta, no prazo de 10 dias úteis, fundamento para o indeferimento do pedido.\n\n5 - São realizadas visitas ao local ou ao promotor da operação, pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento."
+  },
+  "967131975": {
+   "fragment_id": "967131875",
+   "type": 11,
+   "heading": "Artigo 20.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pagamentos\n\n1 - O pagamento dos apoios é efectuado pelo IFAP, I. P., por transferência bancária para a conta bancária específica referida na alínea i) do n.º 1 do artigo 9.º no prazo de 15 dias úteis após a validação da despesa prevista no n.º 3 do artigo 19.º\n\n2 - Os pagamentos a título de adiantamento, são efectuados mediante a constituição de caução a favor do IFAP, correspondente a 110 % do montante do adiantamento, salvo quando o beneficiário for uma entidade pública.\n\n3 - O pagamento é proporcional à realização do investimento elegível, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % do investimento total elegível da operação.\n\n4 - Os adiantamentos concedidos a entidades públicas, não justificados até 31 de Janeiro do ano seguinte, são devolvidos ou colocados à ordem da entidade contratante (IFAP, I. P.), salvo autorização desta para que transitem para o novo exercício orçamental.\n\n5 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PRRN."
+  },
+  "967132175": {
+   "fragment_id": "967132075",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlo\n\nA operação está sujeita a controlo a partir da data da celebração de contrato de financiamento podendo ser efectuado sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de controlo."
+  },
+  "967132375": {
+   "fragment_id": "967132275",
+   "type": 11,
+   "heading": "Artigo 22.º — Incumprimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Incumprimentos\n\nEm caso de incumprimento ou de qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as disposições previstas nos artigos 10.º e 11º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho."
+  },
+  "967132575": {
+   "fragment_id": "967132475",
+   "type": 1,
+   "heading": "Capítulo III — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições transitórias"
+  },
+  "967132775": {
+   "fragment_id": "967132675",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - As despesas efectuadas após 1 de Janeiro de 2008 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:\n\na) Os candidatos apresentem os pedidos de apoio ao primeiro concurso em que se enquadrem;\n\nb) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.\n\n2 - Às despesas efectuadas referidas no n.º 1 não é aplicável o disposto na alínea i) do n.º 1 do artigo 9.º, desde que esse pagamento tenha sido efectuado anteriormente à data do aviso abertura do concurso."
+  },
+  "967132975": {
+   "fragment_id": "967132875",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º do Regulamento)\n\nOperações que contribuam para a execução do plano de acção da RRN e dos planos de actividades, no âmbito das áreas de intervenção referidas no artigo 2.º\n\nDespesas elegíveis\n\nInvestimentos materiais\n\n1 - Aquisição de material de escritório.\n\n2 - Aquisição de documentação técnica, nomeadamente bibliografia.\n\n3 - Aquisição de equipamento para a criação e desenvolvimento do sítio da Rede Rural Nacional.\n\n4 - Aquisição de serviços com:\n\na) Concepção e produção de material informativo e promocional;\n\nb) Aluguer de espaços e de material informático;\n\nc) Despesas de com a organização e a realização de acções de formação, seminários e similares;\n\nd) Seguros e outras aquisições de serviços indispensáveis para a realização das operações.\n\nInvestimentos imateriais\n\n5 - Recursos humanos - remunerações ou partes de remunerações e respectivos encargos associados, nomeadamente contribuições para a segurança social e seguro de acidentes de trabalho, de técnicos ou outro pessoal, na medida em que exerçam actividades no âmbito da operação.\n\n6 - Deslocações e estadas, até aos limites legais, de acordo com as regras da sua atribuição aos servidores do Estado, incluindo portagens, despesas de combustível relacionadas com deslocações em viaturas de serviço, subsídio de transporte em automóvel próprio e ajudas de custo.\n\n7 - Aquisição de programas informáticos.\n\n8 - Aquisição de serviços especializados.\n\n9 - Estudos, pareceres e consultoria em áreas específicas.\n\n10 - Despesas de transporte e comunicações.\n\n11 - Outras despesas directamente imputadas à operação.\n\nOutras despesas elegíveis\n\n12 - IVA - regime de isenção.\n\n13 - IVA - regimes mistos:\n\nAfectação real - o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário;\n\nPro rata - o IVA é elegível na percentagem em que não for dedutível.\n\nLimites às elegibilidades\n\n14 - As despesas relativas aos n.os 8 e 9 são definidas em OTE.\n\n15 - São elegíveis as despesas de IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA é não elegível.\n\nDespesas não elegíveis\n\nInvestimentos materiais\n\n16 - Edifícios - construção, adaptação, aquisição ou amortização.\n\n17 - Terrenos - aquisição ou amortização.\n\n18 - Bens em estado de uso.\n\n19 - Bens móveis e imóveis existentes - amortização.\n\n20 - Substituição de equipamentos.\n\nInvestimentos imateriais\n\n21 - Aquisição de serviços a entidades parceiras da operação.\n\n22 - Despesas notariais e de registos.\n\n23 - Bolsas e matrículas, propinas e deslocações, relativas à frequência de cursos que possibilitem a obtenção de graus académicos ou habilitações profissionais.\n\nOutras despesas não elegíveis\n\n24 - IVA - regime normal.\n\n25 - IVA - regimes mistos:\n\nAfectação real - o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\n26 - Pro rata - o IVA não é elegível na percentagem em que for dedutível.\n\n27 - IVA - regime dos sujeitos não passivos de IVA nos termos do artigo 2.º do CIVA.\n\n28 - Juros ou encargos com dívidas.\n\n29 - Despesas com a constituição de cauções, salvo as relativas aos adiantamentos referidos no n.º 2 do artigo 20.º\n\n30 - Custos gerais relacionados com contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro."
+  },
+  "967133175": {
+   "fragment_id": "967133075",
+   "type": 14,
+   "heading": "Anexo II — Cálculo do valor da operação para os pedidos de apoio relativos às operações de execução do plano de acção da RRN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Cálculo do valor da operação para os pedidos de apoio relativos às operações de execução do plano de acção da RRN\n\n(a que se refere o artigo 11.º do Regulamento)\n\nO valor da operação (VO) para os pedidos de apoio relativos às operações de execução do plano de acção da RRN é obtido por aplicação da seguinte fórmula, sendo a pontuação obtida arredondada à centésima:\n\nVO = 0,20 E + 0,20 I + 0,20 A + 0,20 M + 0,20 C\n\nOs critérios são pontuados entre 0 e 5."
+  },
+  "1029684113": {
+   "fragment_id": "967128875",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Encontrarem-se legalmente constituídos;\n\nb) [Revogada.]\n\nc) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nd) [Revogada.]\n\ne) Assegurarem os meios humanos e materiais adequados à realização da operação, nomeadamente quadros com aptidão técnica e experiência para as actividades elegíveis;\n\nf) Apresentarem, quando aplicável, um acordo de parceria onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria.\n\n2 - Ao beneficiário a que se refere a alínea d) do n.º 1 do artigo 5.º não se aplica o disposto no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+  },
+  "1029684093": {
+   "fragment_id": "967129075",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que:\n\na) Tenham enquadramento nas áreas de intervenção previstas no artigo 2.º do presente Regulamento;\n\nb) Respeitem as tipologias definidas nos avisos de concurso a que se refere a alínea b) do n.º 1 do artigo 13.º;\n\nc) Tenham início após a data de apresentação do pedido de apoio.\n\n2 - Excecionalmente os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio poderão considerar elegíveis despesas realizadas antes da data de apresentação do pedido de apoio, desde que sejam posteriores ao encerramento do último aviso ou anúncio relativo ao mesmo tipo de atividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684094": {
+   "fragment_id": "967129475",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente regulamento devem cumprir as seguintes obrigações, sem prejuízo daquelas enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho:\n\na) Executar as operações nos termos e prazos definidos no contrato de financiamento;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações;\n\nc) Dispor de um dossier específico para a operação devidamente organizado;\n\nd) Proceder à publicitação dos apoios que lhe forem atribuídos, nos termos da legislação comunitária e orientações técnicas aplicáveis;\n\ne) Cumprir as obrigações legais designadamente as fiscais e para com a segurança social;\n\nf) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;\n\ng) Não locar, alienar ou por qualquer forma onerar os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão do PRRN;\n\nh) Fornecer todos os elementos necessários à quantificação dos indicadores de realização e de resultado das operações apoiadas, quando exigíveis;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de uma conta bancária específica para o efeito.\n\n2 - Os beneficiários ou, em caso de parceria, a entidade gestora da mesma devem ainda, nos termos definidos em orientação técnica específica (OTE):\n\na) Elaborar relatórios de execução relativos a cada pedido de pagamento;\n\nb) Apresentar à autoridade de gestão, no prazo de quatro meses após o termo da operação, um relatório de avaliação relativo aos resultados da operação.\n\n3 - O incumprimento das obrigações previstas nos números anteriores determina a suspensão de todos os pagamentos ao beneficiário no âmbito do PRRN, até à regularização da situação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684114": {
+   "fragment_id": "967129675",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, limite e montantes dos apoios",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 10.º — Forma, limite e montantes dos apoios\n\n1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis, de valor igual a 100 % das despesas elegíveis.\n\n2 - (Revogada.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+  },
+  "1029684095": {
+   "fragment_id": "967129875",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 11.º — Critérios de selecção\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são avaliados de acordo com os seguintes critérios:\n\na) Entidade ou parceria promotora (E), que valoriza a adequação da entidade ou parceria promotora ao objectivo da operação, tendo em conta o seu domínio de actuação e experiência;\n\nb) Inovação (I), que valoriza o grau de inovação da operação;\n\nc) Impacto e abrangência (A), que valoriza a capacidade de resposta da operação aos objectivos e prioridades do Plano de Acção e do Plano de Actividades da RRN, o público-alvo beneficiado pela operação e a pertinência dos meios de difusão propostos para divulgação e transferência dos resultados da operação;\n\nd) Metodologia (M), que valoriza a qualidade do diagnóstico, a razoabilidade das metas e a pertinência e coerência do planeamento da operação;\n\ne) Custo (C), que valoriza a razoabilidade e a estrutura dos custos da operação em função dos resultados esperados.\n\n2 - Os pedidos de apoio mencionados no número anterior são hierarquizados por ordem decrescente em função do respectivo valor da operação calculada nos termos do anexo ii ao presente Regulamento.\n\n3 - Os pedidos de apoio relativos às operações com classificação de 0 em qualquer um dos parâmetros não são seleccionados.\n\n4 - A alteração dos critérios de seleção referidos no n.º 1, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRRN.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684096": {
+   "fragment_id": "967130275",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\n1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respetivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.\n\n2 - A formalização dos pedidos de apoio efectua-se através da apresentação de formulário disponível no sítio da Internet do PRRN, o qual deve ser acompanhado da documentação no mesmo indicada.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684097": {
+   "fragment_id": "967130475",
+   "type": 11,
+   "heading": "Artigo 13.º — Avisos de abertura e anúncios",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 13.º — Avisos de abertura e anúncios\n\n1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) A tipologia das actividades em que se enquadram as operações;\n\nc) O prazo e local para apresentação dos pedidos de apoio;\n\nd) A dotação orçamental a atribuir;\n\ne) O número máximo de pedidos de apoio admitidos por beneficiário;\n\nf) A forma e níveis dos apoios a conceder, respeitando o disposto no artigo 10.º;\n\ng) A metodologia para a pontuação dos critérios de selecção.\n\nh) Os critérios de seleção em função dos objetivos e prioridades fixados.\n\n2 - Os avisos de abertura dos concursos são divulgados no sítio da Internet do PRRN.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684098": {
+   "fragment_id": "967130675",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 14.º — Análise e decisão dos pedidos de apoio\n\n1 - O secretariado técnico analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos critérios referidos no artigo 11.º, bem como o apuramento do montante do custo total elegível por beneficiário e global, e procede à respectiva pontuação e hierarquização.\n\n2 - Em caso de igualdade de pontuações, os pedidos de apoio são hierarquizados por ordem de entrada.\n\n3 - São solicitados aos candidatos, quando se justifique, elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n4 - O parecer referido no n.º 1 é emitido no prazo máximo de 40 dias úteis a contar da data do termo do período de apresentação do pedido de apoio ao gestor.\n\n5 - Os pedidos de apoio são objeto de decisão pelo gestor, exceto se o beneficiário for a autoridade de gestão do PRRN, caso em que são objeto de decisão pelo membro do Governo responsável pelo PRRN.\n\n6 - O secretariado técnico notifica o beneficiário no prazo máximo de 15 dias úteis a contar da data da recepção da decisão prevista no número anterior.\n\n7 - O secretariado técnico comunica a decisão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), para efeitos de formalização do contrato.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684102": {
+   "fragment_id": "1029684018",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Readmissão de pedidos de apoio",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objeto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respetivo concurso ou período.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+  },
+  "1029684103": {
+   "fragment_id": "967130875",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre cada um dos beneficiários e o IFAP, I. P.\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de receção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de março.\n\n3 - O beneficiário dispõe de 20 dias úteis para devolução do contrato devidamente assinado, sob pena de caducidade da decisão de aprovação, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684104": {
+   "fragment_id": "967131075",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução das operações\n\n1 - O prazo máximo para os beneficiários iniciarem a execução física da operação é de seis meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido no número anterior."
+  },
+  "1029684105": {
+   "fragment_id": "967131275",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração das operações\n\n1 - Em casos excepcionais e devidamente fundamentados, podem ser aceites alterações às operações aprovadas, desde que se mantenham os seus objectivos.\n\n2 - Os pedidos de alteração devem ser formalizados mediante a apresentação de formulário de substituição com indicação das alterações solicitadas, informação detalhada das rubricas a alterar e nota justificativa das mesmas.\n\n3 - As alterações às operações previstas no n.º 1 são objecto de decisão do gestor."
+  },
+  "1029684106": {
+   "fragment_id": "967131475",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+   ],
+   "markdown": "###### Artigo 18.º — Apresentação dos pedidos de pagamento\n\n1 - Podem ser apresentados quatro pedidos de pagamento por ano, através de preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues às entidades previstas nos n.os 1 e 2 do artigo 19.º, no prazo de cinco dias úteis a contar da data de apresentação do pedido.\n\n3 - Apenas são aceites os pedidos de pagamento relativos às despesas efectuadas por débito em conta, transferência bancária ou cheques, comprovados pelo respectivo extracto bancário ou mapa dos meios de pagamento, demonstrativos do pagamento, nos termos previstos nas cláusulas contratuais e nos números seguintes.\n\n4 - Quando previsto no contrato de financiamento podem ser apresentados pedidos de pagamento a título de adiantamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03"
+  },
+  "1029684107": {
+   "fragment_id": "967131675",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento\n\n1 - Os pedidos de pagamento são objecto de análise pelas seguintes entidades:\n\na) Direcção Regional de Agricultura e Pescas, no caso das operações localizadas na respectiva área de intervenção no continente;\n\nb) Entidade a designar pela Secretaria Regional do Ambiente e Recursos Naturais, no caso das operações localizadas na Região Autónoma da Madeira;\n\nc) Entidade a designar pela Secretaria Regional da Agricultura e Florestas, no caso das operações localizadas na Região Autónoma dos Açores.\n\n2 - Os pedidos de pagamento apresentados pelas entidades mencionadas no n.º 1 ou pela autoridade de gestão do PRRN são analisados pelo secretariado técnico ou pelo IFAP, I. P., respectivamente.\n\n3 - Os relatórios de análise são emitidos no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos, deles resultando o apuramento do investimento elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n5 - São realizadas visitas ao local ou ao promotor da operação, pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+  },
+  "1029684115": {
+   "fragment_id": "967131875",
+   "type": 11,
+   "heading": "Artigo 20.º — Pagamentos",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 20.º — Pagamentos\n\n1 - O pagamento dos apoios é efectuado pelo IFAP, I. P., por transferência bancária para a conta bancária específica referida na alínea i) do n.º 1 do artigo 9.º no prazo de 15 dias úteis após a validação da despesa prevista no n.º 3 do artigo 19.º\n\n2 - Os pagamentos a título de adiantamento, são efectuados mediante a constituição de caução a favor do IFAP, correspondente a 110 % do montante do adiantamento, salvo quando o beneficiário for uma entidade pública.\n\n3 - O pagamento é proporcional à realização do investimento elegível, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % do investimento total elegível da operação.\n\n4 - (Revogado.)\n\n5 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PRRN.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+  },
+  "1029684109": {
+   "fragment_id": "967132075",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlo\n\nA operação está sujeita a controlo a partir da data da celebração de contrato de financiamento podendo ser efectuado sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de controlo."
+  },
+  "1029684110": {
+   "fragment_id": "967132275",
+   "type": 11,
+   "heading": "Artigo 22.º — Incumprimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Incumprimentos\n\nEm caso de incumprimento ou de qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as disposições previstas nos artigos 10.º e 11º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho."
+  },
+  "1029684116": {
+   "fragment_id": "967132675",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": "2012-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - As despesas efectuadas após 1 de Janeiro de 2008 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:\n\na) Os candidatos apresentem os pedidos de apoio ao primeiro concurso em que se enquadrem;\n\nb) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.\n\n2 - Às despesas efectuadas referidas no n.º 1 não é aplicável o disposto na alínea i) do n.º 1 do artigo 9.º, desde que esse pagamento tenha sido efectuado anteriormente à data do aviso abertura do concurso.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 201/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/201-2012-178528), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-02-01"
+  }
+ }
+}

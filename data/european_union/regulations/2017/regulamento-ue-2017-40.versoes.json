@@ -1,0 +1,568 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017R0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0040-20250131",
+ "dre_path": null,
+ "source_lastmod": "2025-01-31",
+ "versions": [
+  {
+   "date": "2017-01-10",
+   "future": false,
+   "celex": "32017R0040",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a6a1ed7d5a3ae676",
+    "226c39ffd0a88dad",
+    "88f83d76817db011",
+    "5967562f6e4f14d1",
+    "5c078c9cd91fabec",
+    "bc051b68701bf5d0",
+    "f6cb600e39bea90c",
+    "fc337c09beb78837",
+    "a380f571a0552979",
+    "35a283a9f60c8e44",
+    "e8101153652f511e",
+    "2bde5af15095bc75",
+    "f7494feed68c01a3",
+    "17240a77ef015b94",
+    "f33c356de31b75d4",
+    "f0f8c960bfdbce9b",
+    "c72876073b2f724b",
+    "8c42cbbc16801f77",
+    "ac0a53f45b8df314",
+    "f1e4c778b2d5e766",
+    "09c7f140353f573d",
+    "e69d830f2ba45d45"
+   ]
+  },
+  {
+   "date": "2020-09-04",
+   "future": false,
+   "celex": "02017R0040-20200904",
+   "acts": [
+    {
+     "id": "eu:celex:32020R1238:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/1238 DA COMISSÃO de 17 de junho de 2020",
+     "published": null,
+     "celex": "32020R1238"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação e definições",
+    "Altera Artigo 4.º — Custos elegíveis",
+    "Altera Artigo 9.º — Acompanhamento e avaliação",
+    "Altera Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014",
+    "Altera Artigo 15.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Requisitos mínimos para o cartaz a que se refere o artigo 12.º",
+    "Suprime «Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas"
+   ],
+   "fragments": [
+    "3de262442c983867",
+    "226c39ffd0a88dad",
+    "88f83d76817db011",
+    "c59195c7af2bd306",
+    "5c078c9cd91fabec",
+    "bc051b68701bf5d0",
+    "033ce82a72c2c62a",
+    "fc337c09beb78837",
+    "a380f571a0552979",
+    "35a283a9f60c8e44",
+    "e8101153652f511e",
+    "52f9eb8e5a5f3860",
+    "f7494feed68c01a3",
+    "17240a77ef015b94",
+    "f33c356de31b75d4",
+    "f0f8c960bfdbce9b",
+    "c72876073b2f724b",
+    "1aa824a5c50d07a5",
+    "f1e4c778b2d5e766",
+    "5ec772ef01ead850",
+    "10220b9774fa9034",
+    "88dfe4e56f9ffb85",
+    "e96ed64f8175e2b4"
+   ]
+  },
+  {
+   "date": "2022-02-25",
+   "future": false,
+   "celex": "02017R0040-20220225",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0245:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2022/245 DA COMISSÃO de 13 de dezembro de 2021",
+     "published": null,
+     "celex": "32022R0245"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Âmbito de aplicação e definições",
+    "Altera Artigo 3.º — Medidas educativas de acompanhamento",
+    "Altera Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "3de262442c983867",
+    "226c39ffd0a88dad",
+    "88f83d76817db011",
+    "8c8971f675c2e611",
+    "5c078c9cd91fabec",
+    "5fcfbcdc3ac877e8",
+    "d04f1051b61e8491",
+    "18d18506e1348597",
+    "46768dc6996c8611",
+    "35a283a9f60c8e44",
+    "e8101153652f511e",
+    "539cbe9805953570",
+    "f7494feed68c01a3",
+    "17240a77ef015b94",
+    "f33c356de31b75d4",
+    "f0f8c960bfdbce9b",
+    "c72876073b2f724b",
+    "1aa824a5c50d07a5",
+    "f1e4c778b2d5e766",
+    "5ec772ef01ead850",
+    "10220b9774fa9034",
+    "88dfe4e56f9ffb85",
+    "429a692d83f0a554"
+   ]
+  },
+  {
+   "date": "2022-08-01",
+   "future": false,
+   "celex": "02017R0040-20220801",
+   "acts": [],
+   "changes": [
+    "Altera Artigo 1.º — Âmbito de aplicação e definições",
+    "Altera Notas",
+    "Adita Artigo 6.º — Condições de aprovação dos requerentes de ajuda",
+    "Suprime Artigo 6.º — Condições de aprovação dos requerentes da ajuda"
+   ],
+   "fragments": [
+    "3de262442c983867",
+    "226c39ffd0a88dad",
+    "88f83d76817db011",
+    "bbebeaddbe423ba5",
+    "5c078c9cd91fabec",
+    "5fcfbcdc3ac877e8",
+    "d04f1051b61e8491",
+    "18d18506e1348597",
+    "297f15cd45ab30b7",
+    "35a283a9f60c8e44",
+    "e8101153652f511e",
+    "539cbe9805953570",
+    "f7494feed68c01a3",
+    "17240a77ef015b94",
+    "f33c356de31b75d4",
+    "f0f8c960bfdbce9b",
+    "c72876073b2f724b",
+    "1aa824a5c50d07a5",
+    "f1e4c778b2d5e766",
+    "5ec772ef01ead850",
+    "10220b9774fa9034",
+    "88dfe4e56f9ffb85",
+    "d97a5068b1eab5a8"
+   ]
+  },
+  {
+   "date": "2025-01-31",
+   "future": false,
+   "celex": "02017R0040-20250131",
+   "acts": [
+    {
+     "id": "eu:celex:32025R0162:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2025/162 DA COMISSÃO de 25 de novembro de 2024",
+     "published": null,
+     "celex": "32025R0162"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Âmbito de aplicação e definições",
+    "Altera Artigo 9.º — Acompanhamento e avaliação",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "3de262442c983867",
+    "226c39ffd0a88dad",
+    "88f83d76817db011",
+    "3fea6dc1a4c20b15",
+    "5c078c9cd91fabec",
+    "5fcfbcdc3ac877e8",
+    "d04f1051b61e8491",
+    "18d18506e1348597",
+    "297f15cd45ab30b7",
+    "35a283a9f60c8e44",
+    "e8101153652f511e",
+    "5f25b640f3377547",
+    "f7494feed68c01a3",
+    "17240a77ef015b94",
+    "f33c356de31b75d4",
+    "f0f8c960bfdbce9b",
+    "c72876073b2f724b",
+    "1aa824a5c50d07a5",
+    "f1e4c778b2d5e766",
+    "5ec772ef01ead850",
+    "10220b9774fa9034",
+    "88dfe4e56f9ffb85",
+    "68b265d52b04c18a"
+   ]
+  }
+ ],
+ "fragments": {
+  "a6a1ed7d5a3ae676": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de novembro de 2016\n\nque complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito à ajuda da União para a distribuição de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino e que altera o Regulamento Delegado (UE) n.º 907/2014 da Comissão\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2017005PT.01001101-E0001), nomeadamente o artigo 24.º e o artigo 223.º, n.º 2,\n\nTendo em conta o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga os Regulamentos (CEE) n.º 352/78, (CE) n.º 165/94, (CE) n.º 2799/98, (CE) n.º 814/2000, (CE) n.º 1290/2005 e (CE) n.º 485/2008 do Conselho [([^2])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2017005PT.01001101-E0002), nomeadamente o artigo 64.º, n.º 6, alínea a), e o artigo 106.º, n.º 5,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (UE) n.º 1308/2013 prevê, na parte II, título I, capítulo II, secção I, dois regimes de ajudas destinados a melhorar a distribuição de produtos agrícolas às crianças nos estabelecimentos de ensino. O primeiro regime diz respeito ao fornecimento de frutas e produtos hortícolas, frutas e produtos hortícolas transformados, e bananas (regime de distribuição de fruta e de produtos hortícolas nas escolas) e o segundo diz respeito ao fornecimento de leite e de produtos lácteos (regime de distribuição de leite nas escolas). Estes dois regimes são substituídos por um único regime introduzido pelo Regulamento (UE) 2016/791 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2017005PT.01001101-E0003), com efeitos a partir do ano letivo de 2017/2018. Este regime único estabelece um novo quadro comum no que respeita à ajuda da União para a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e produtos frescos do setor das bananas («distribuição de fruta e produtos hortícolas nas escolas») e a distribuição de leite e produtos lácteos («distribuição de leite nas escolas») às crianças nos estabelecimentos de ensino («regime de distribuição nas escolas»). O Regulamento (UE) n.º 1308/2013 do Conselho, com a redação que lhe foi dada pelo Regulamento (UE) 2016/791, habilita igualmente a Comissão a adotar atos delegados e de execução. A fim de garantir o bom funcionamento do regime de distribuição nas escolas em conformidade com o novo quadro jurídico, há que adotar determinadas regras por meio dos referidos atos. Esses atos devem substituir os Regulamentos Delegados (UE) n.º 1047/2014 [([^4])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2017005PT.01001101-E0004) e (UE) 2016/247 [([^5])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2017005PT.01001101-E0005), o Regulamento de Execução (UE) 2016/248 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2017005PT.01001101-E0006) e o Regulamento (CE) n.º 657/2008 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2017005PT.01001101-E0007). Esses atos devem, por conseguinte, ser revogados, devendo, no entanto, continuar a aplicar-se até ao fim do período de vigência do atual regime de distribuição de fruta e produtos hortícolas nas escolas e do regime de distribuição de leite nas escolas.\n\n(2) Em conformidade com o artigo 23.º, n.º 8, do Regulamento (UE) n.º 1308/2013, como condição para participarem no regime de distribuição nas escolas, os Estados-Membros devem elaborar previamente uma estratégia, a nível nacional ou regional, para a aplicação deste regime. De seis em seis anos deve ser elaborada uma nova estratégia. Os Estados-Membros que decidam aplicar o regime de distribuição nas escolas ao nível regional devem elaborar uma estratégia para cada região e prever um quadro de coordenação, de acordo com as suas disposições e procedimentos. Devem estabelecer um ponto de contacto único para o intercâmbio de informações com a Comissão, a fim de facilitar a apreciação das estratégias e o controlo e avaliação da aplicação no Estado-Membro em causa. É igualmente conveniente estabelecer disposições que definam os prazos de apresentação da estratégia e das correspondentes alterações à Comissão.\n\n(3) Devem ser estabelecidas condições específicas para a conceção e aplicação de medidas educativas de acompanhamento, em especial no que diz respeito à necessidade de apoiar a distribuição dos produtos. É necessário autorizar a possibilidade de essas medidas envolverem também os professores e os pais, com vista a reforçar a sua eficácia e a eficácia global do regime de distribuição nas escolas.\n\n(4) No interesse da segurança jurídica, é conveniente especificar os custos incorridos com a aplicação do regime de distribuição nas escolas que são elegíveis para a ajuda da União.\n\n(5) No interesse de uma boa administração, gestão orçamental e supervisão, importa precisar as condições de concessão da ajuda, bem como de seleção e aprovação dos requerentes da ajuda.\n\n(6) É necessário estabelecer condições específicas para a suspensão e retirada da aprovação e sanções administrativas contra os requerentes da ajuda que não cumpram as obrigações estabelecidas ao abrigo do regime de distribuição nas escolas.\n\n(7) Para apreciar a eficácia do regime de distribuição nas escolas e possibilitar avaliações interpares e intercâmbios de boas práticas, os Estados-Membros devem monitorizar e avaliar periodicamente a aplicação do regime de distribuição nas escolas e comunicar à Comissão os resultados desses exercícios. Para o efeito, é necessário especificar a natureza e o tipo de informações dos relatórios de acompanhamento. Além disso, o facto de os Estados-Membros não cumprirem os requisitos de acompanhamento e avaliação pode pôr em causa a avaliação da eficácia do regime de distribuição nas escolas e a garantia da correta gestão das ajudas da União. Devem, pois, prever-se disposições para uma redução dissuasora da ajuda a aplicar pela Comissão sempre que um Estado-Membro se atrase na apresentação do relatório de avaliação.\n\n(8) Com vista a garantir a avaliação e o controlo efetivos do regime de distribuição nas escolas, é necessário especificar a natureza e o tipo de informações que devem ser notificadas pelos Estados-Membros à Comissão.\n\n(9) A fim de assegurar que os produtos distribuídos ao abrigo do regime de distribuição nas escolas cumprem os objetivos de promoção de hábitos de alimentação saudáveis e garantir que as crianças se familiarizem com o sabor natural desses produtos, é conveniente especificar que o nível máximo de adição de açúcar aos produtos a que se refere o artigo 23.º, n.º 4, do Regulamento (UE) n.º 1308/2013, para os quais a adição de açúcar não é tecnicamente necessária para a sua preparação ou fabrico, deve ser igual a zero.\n\n(10) A fim de assegurar que os produtos distribuídos ao abrigo do regime de distribuição nas escolas cumprem os objetivos de promoção de hábitos de alimentação saudáveis, é adequado especificar o nível máximo de adição de açúcar e/ou mel aos produtos enumerados no anexo V do Regulamento (UE) n.º 1308/2013 que os Estados-Membros podem autorizar. Os Estados-Membros podem estabelecer limites inferiores.\n\n(11) É necessário estabelecer condições específicas para garantir o valor acrescentado e a visibilidade do regime da União de distribuição nas escolas sempre que os produtos que beneficiam da ajuda da União ao abrigo do regime de distribuição nas escolas são distribuídos com refeições escolares habituais nos estabelecimentos de ensino.\n\n(12) Em conformidade com o artigo 23.º-A, n.º 8, do Regulamento (UE) n.º 1308/2013, os Estados-Membros devem divulgar a sua participação no regime de distribuição nas escolas e o facto de o mesmo ser subsidiado pela União. Para esse efeito, os Estados-Membros devem poder afixar um cartaz nos estabelecimentos de ensino participantes. O cartaz deve ser produzido em conformidade com certos requisitos mínimos.\n\n(13) O capítulo V do Regulamento Delegado (UE) n.º 907/2014 da Comissão [([^8])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2017005PT.01001101-E0008) estabelece regras relativas ao facto gerador da taxa de câmbio aplicável aos montantes e pagamentos da ajuda da União. É, por conseguinte, necessário incluir disposições no que se refere à ajuda relacionada com a aplicação do regime de distribuição nas escolas. O Regulamento Delegado (UE) n.º 907/2014 deve, por conseguinte, ser alterado em conformidade,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "88f83d76817db011": {
+   "fragment_id": "REGRAS GERAIS SOBRE O REGIME DE DISTRIBUIÇÃO NAS ESCOLAS",
+   "type": "divisao",
+   "heading": "REGRAS GERAIS SOBRE O REGIME DE DISTRIBUIÇÃO NAS ESCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS GERAIS SOBRE O REGIME DE DISTRIBUIÇÃO NAS ESCOLAS"
+  },
+  "5967562f6e4f14d1": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e definições\n\n1. O presente regulamento estabelece normas que complementam o Regulamento (UE) n.º 1308/2013 no que respeita à ajuda da União para o fornecimento e a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e produtos frescos do setor das bananas («distribuição de fruta e produtos hortícolas nas escolas») e para o fornecimento e a distribuição de leite e produtos lácteos («distribuição de leite nas escolas») às crianças nos estabelecimentos de ensino, para as medidas educativas de acompanhamento e para certos custos conexos, no quadro do regime referido no artigo 23.º do referido regulamento («regime de distribuição nas escolas»).\n\n2. Para efeitos do presente regulamento, é aplicável a definição do ano escolar prevista no artigo 1.º, n.º 2, do Regulamento de Execução (UE) 2017/39 da Comissão [([^9])](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2017005PT.01001101-E0009)."
+  },
+  "5c078c9cd91fabec": {
+   "fragment_id": "Artigo 2.º — Estratégia dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Estratégia dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estratégia dos Estados-Membros\n\n1. Na elaboração da sua estratégia, a que se refere o artigo 23.º, n.º 8, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem escolher o nível administrativo a que pretendem aplicar o regime. Caso um Estado-Membro decida aplicar o regime de distribuição nas escolas ao nível regional, deve elaborar uma estratégia para cada região e prever um quadro de coordenação conexo ao nível do Estado-Membro. O Estado-Membro deve estabelecer um ponto de contacto único para o intercâmbio de informações com a Comissão.\n\n2. Se um Estado-Membro não colocar à disposição gratuitamente os produtos fornecidos ao abrigo do regime de distribuição nas escolas, deve explicar na sua estratégia as medidas adotadas para assegurar que a ajuda da União ao abrigo do regime de distribuição nas escolas se reflete no preço a que os produtos são disponibilizados.\n\n3. Os Estados-Membros que desejem participar no regime de distribuição nas escolas devem comunicar à Comissão as suas estratégias até ao dia 30 de abril que precede o início do primeiro ano letivo abrangido pela estratégia. No entanto, os Estados-Membros devem notificar à Comissão, o mais tardar até 1 de agosto de 2017, a sua estratégia para o período de seis anos com início no ano letivo de 2017/2018.\n\n4. Os Estados-Membros podem alterar a sua estratégia. Os Estados-Membros devem notificar à Comissão a nova estratégia no prazo de dois meses a contar da data de alteração."
+  },
+  "bc051b68701bf5d0": {
+   "fragment_id": "Artigo 3.º — Medidas educativas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Medidas educativas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Medidas educativas de acompanhamento\n\n1. As medidas educativas de acompanhamento a que se refere o artigo 23.º, n.º 10, do Regulamento (UE) n.º 1308/2013 devem estar diretamente ligadas aos objetivos do regime de distribuição nas escolas.\n\n2. As medidas educativas de acompanhamento devem apoiar a distribuição de fruta e produtos hortícolas nas escolas e a distribuição de leite nas escolas e, em caso de produtos agrícolas que não os referidos no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013, as medidas devem prever a degustação desses outros produtos.\n\n3. As medidas educativas de acompanhamento podem envolver também pais e professores."
+  },
+  "f6cb600e39bea90c": {
+   "fragment_id": "Artigo 4.º — Custos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Custos elegíveis\n\n1. São elegíveis para ajuda da União os seguintes custos:\n\na) Custo dos produtos fornecidos ao abrigo do regime de distribuição nas escolas e distribuídos às crianças nos estabelecimentos de ensino referidos no artigo 22.º do Regulamento (UE) n.º 1308/2013, incluindo os custos da compra, arrendamento, aluguer e locação financeira de equipamento utilizado no fornecimento e distribuição dos produtos, como previsto na estratégia do Estado-Membro;\n\nb) Os custos das medidas educativas de acompanhamento, incluindo: i) custos de organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura, ii) custos das medidas destinadas à educação das crianças sobre agricultura, hábitos alimentares saudáveis, cadeias alimentares locais, agricultura biológica, produção sustentável e à luta contra o desperdício alimentar;\n\ni) custos de organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura,\n\nii) custos das medidas destinadas à educação das crianças sobre agricultura, hábitos alimentares saudáveis, cadeias alimentares locais, agricultura biológica, produção sustentável e à luta contra o desperdício alimentar;\n\nc) Custos de publicidade do regime de distribuição nas escolas, que deve ter como objetivo direto a informação do público em geral sobre o regime, incluindo: i) o custo do cartaz a que se refere o artigo 12.º do presente regulamento, ii) o custo das campanhas de informação por meio de radiodifusão, comunicações eletrónicas, imprensa e outros meios similares de comunicação, iii) o custo de sessões de informação, conferências, seminários e grupos de trabalho destinados a informar o público em geral sobre o regime de distribuição nas escolas e eventos similares, iv) o custo de material de informação e promoção, como, por exemplo, cartas, folhetos, brochuras, brindes e similares;\n\ni) o custo do cartaz a que se refere o artigo 12.º do presente regulamento,\n\nii) o custo das campanhas de informação por meio de radiodifusão, comunicações eletrónicas, imprensa e outros meios similares de comunicação,\n\niii) o custo de sessões de informação, conferências, seminários e grupos de trabalho destinados a informar o público em geral sobre o regime de distribuição nas escolas e eventos similares,\n\niv) o custo de material de informação e promoção, como, por exemplo, cartas, folhetos, brochuras, brindes e similares;\n\nd) Os custos de formação de redes para a troca de experiências e boas práticas em matéria de aplicação do regime de distribuição nas escolas;\n\ne) Os custos relativos à obrigação de os Estados-Membros monitorizarem e avaliarem a eficácia do respetivo regime escolar;\n\nf) Os custos de transporte e distribuição dos produtos fornecidos ao abrigo do regime de distribuição nas escolas, na medida em que não sejam abrangidos pela alínea a) do presente número.\n\n2. Os custos a que se refere o n.º 1 não podem ser financiados no âmbito de qualquer outro regime de ajuda, programa, medida ou operação da União.\n\n3. O imposto sobre o valor acrescentado (IVA) não é elegível para ajuda.\n\n4. As despesas relacionadas com os custos de pessoal não são elegíveis para a ajuda da União se os custos de pessoal forem financiados por fundos públicos do Estado-Membro."
+  },
+  "fc337c09beb78837": {
+   "fragment_id": "Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda\n\n1. A ajuda concedida a um Estado-Membro ao abrigo do regime de distribuição nas escolas é distribuída aos requerentes que tenham sido aprovados pela autoridade competente do Estado-Membro em conformidade com o artigo 6.º, e cujo pedido esteja relacionado com a realização de um ou mais dos seguintes elementos:\n\na) Fornecimento ou distribuição de produtos às crianças nos estabelecimentos de ensino no âmbito do regime de distribuição nas escolas;\n\nb) Medidas educativas de acompanhamento;\n\nc) Monitorização e avaliação das ações;\n\nd) Publicidade.\n\n2. Os Estados-Membros podem selecionar os requerentes da ajuda de entre as seguintes entidades:\n\na) Estabelecimentos de ensino;\n\nb) Autoridades educativas;\n\nc) Fornecedores ou distribuidores dos produtos;\n\nd) Organizações que ajam em nome de um ou mais estabelecimentos de ensino ou autoridades educativas, que tenham sido constituídas especificamente para esse fim de gestão e organização de qualquer das atividades referidas no n.º 1;\n\ne) Qualquer outro organismo público ou privado que esteja envolvido na gestão e organização de qualquer das atividades referidas no n.º 1."
+  },
+  "a380f571a0552979": {
+   "fragment_id": "Artigo 6.º — Condições de aprovação dos requerentes da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições de aprovação dos requerentes da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de aprovação dos requerentes da ajuda\n\n1. Os requerentes da ajuda devem ser aprovados pela autoridade competente do Estado-Membro em cujo território se situa o estabelecimento de ensino onde os produtos são fornecidos e/ou distribuídos. A aprovação está sujeita aos seguintes compromissos, que devem ser assumidos pelos requerentes por escrito:\n\na) Garantia de que os produtos financiados ao abrigo do regime de distribuição nas escolas da União são disponibilizados para consumo pelas crianças nos estabelecimentos de ensino para os quais apresentam o pedido de ajuda;\n\nb) Utilização da ajuda concedida para as medidas educativas de acompanhamento, monitorização, avaliação e publicidade, em conformidade com os objetivos do regime de distribuição nas escolas;\n\nc) Reembolso das ajudas pagas indevidamente para as quantidades em questão, caso se verifique que os produtos em causa não foram distribuídos às crianças ou não são elegíveis para ajuda da União;\n\nd) Reembolso das ajudas pagas indevidamente para medidas educativas de acompanhamento, monitorização, avaliação e publicidade, caso se verifique que essas medidas ou atividades não foram corretamente executadas;\n\ne) Disponibilização às autoridades competentes, a seu pedido, de documentos comprovativos;\n\nf) Permissão de quaisquer verificações decididas pela autoridade competente, nomeadamente exame de registos e inspeções materiais.\n\nSempre que os pedidos de ajuda digam respeito a atividades sujeitas a procedimentos de adjudicação de contratos públicos, os Estados-Membros podem considerar a aprovação concedida desde que os compromissos referidos no primeiro parágrafo sejam incluídos nas condições de participação nos procedimentos de adjudicação de contratos públicos.\n\n2. Aos pedidos de ajuda relativos exclusivamente ao fornecimento e/ou distribuição de produtos não são aplicáveis as alíneas b) e d) do n.º 1. Os requerentes devem além disso comprometer-se por escrito a manter um registo dos nomes e endereços dos estabelecimentos de ensino ou das autoridades educativas que beneficiam dos seus produtos e um registo das quantidades dos produtos específicos vendidos ou fornecidos.\n\n3. Aos pedidos de ajuda relativos exclusivamente às medidas educativas de acompanhamento não são aplicáveis as alíneas a) e c) do n.º 1. As autoridades competentes podem especificar eventuais compromissos a assumir por escrito pelos requerentes, nomeadamente no que respeita a:\n\na) Medidas educativas de acompanhamento realizadas nas escolas, se essas escolas não forem requerentes de ajuda;\n\nb) Medidas educativas de acompanhamento que incluam a distribuição de produtos.\n\n4. Aos pedidos de ajuda relativos exclusivamente à monitorização, avaliação e publicidade não são aplicáveis as alíneas a) e c) do n.º 1.\n\n5. Os Estados-Membros podem considerar que as aprovações concedidas ao abrigo do regime de distribuição de fruta e produtos hortícolas nas escolas em conformidade com o Regulamento Delegado (UE) 2016/247 e/ou ao abrigo do regime de distribuição de leite nas escolas em conformidade com o Regulamento (CE) n.º 657/2008 são válidas se os critérios e as condições não forem alterados."
+  },
+  "35a283a9f60c8e44": {
+   "fragment_id": "Artigo 7.º — Suspensão e revogação da aprovação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Suspensão e revogação da aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Suspensão e revogação da aprovação\n\n1. Se um requerente de ajuda aprovado não cumprir as obrigações estabelecidas ao abrigo do regime de distribuição nas escolas, a autoridade competente deve suspender a sua aprovação por um período de um a doze meses, ou revogá-la, em função da gravidade do incumprimento e de acordo com o princípio da proporcionalidade.\n\n2. A suspensão ou retirada não devem ser impostas nos casos referidos no artigo 64.º, n.º 2, alíneas a) a d), do Regulamento (UE) n.º 1306/2013 nem se se tratar de um incumprimento menor.\n\n3. A pedido do requerente, e se as infrações que fundamentaram a retirada tiverem sido sanadas, a autoridade competente pode restabelecer a aprovação do requerente da ajuda após um período mínimo de doze meses a contar da data do saneamento daquelas infrações."
+  },
+  "e8101153652f511e": {
+   "fragment_id": "Artigo 8.º — Sanções administrativas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sanções administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções administrativas\n\nEm casos de incumprimento das obrigações estabelecidas ao abrigo do regime de distribuição nas escolas, com exceção dos referidos no artigo 64.º, n.º 2, alíneas a) a d), do Regulamento (UE) n.º 1306/2013, o requerente deve, para além da recuperação dos montantes indevidamente pagos, pagar uma sanção administrativa igual à diferença entre o montante inicialmente pedido e o montante a que o requerente teria direito."
+  },
+  "2bde5af15095bc75": {
+   "fragment_id": "Artigo 9.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento e avaliação\n\n1. Os Estados-Membros devem prever estruturas e formulários adequados para a monitorização anual da aplicação do regime de distribuição nas escolas.\n\n2. Os Estados-Membros devem avaliar a aplicação do regime de distribuição nas escolas a fim de apreciar a sua eficácia em função dos seus objetivos.\n\n3. Os relatórios de acompanhamento anuais dos Estados-Membros devem incluir informações sobre os fundos utilizados para o fornecimento e a distribuição de cada um dos grupos de produtos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 e para as medidas educativas de acompanhamento, o número de estabelecimentos de ensino e de crianças que participam no regime de distribuição nas escolas, o tamanho médio das doses e o preço médio por dose, a frequência de entrega de produtos, as quantidades de produtos discriminadas por grupos de produtos e, se for caso disso, de outros produtos para além dos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 que estão incluídos no âmbito das medidas educativas de acompanhamento em conformidade com o artigo 23.º, n.º 7, do referido regulamento, os tipos de comunicação e de medidas de acompanhamento implementadas, e as autoridades e partes interessadas envolvidas na conceção e execução do regime de distribuição nas escolas.\n\n4. Os relatórios de controlo anuais dos Estados-Membros sobre os controlos no local efetuados e as correspondentes constatações devem incluir informações sobre o montante das ajudas pedidas, pagas e objeto de controlos no local, a redução da ajuda na sequência de controlos administrativos, a redução da ajuda devido a apresentação tardia de pedidos, o montante da ajuda recuperado na sequência de controlos no local, e as sanções administrativas aplicadas.\n\n5. Os montantes da dotação definitiva seguinte dos Estados-Membros que, nos prazos referidos no artigo 8.º, n.º 2, do Regulamento de Execução (UE) 2017/39, não apresentem à Comissão o relatório de avaliação com os resultados da avaliação prevista no n.º 2 são reduzidos do seguinte modo:\n\na) 5 % se o prazo for excedido em 1 a 30 dias;\n\nb) 10 % se o prazo for excedido em 31 a 60 dias.\n\nSe o prazo for excedido em mais de 60 dias, a dotação definitiva é reduzida de 1 % por cada dia suplementar, calculada sobre o saldo remanescente."
+  },
+  "f7494feed68c01a3": {
+   "fragment_id": "Artigo 10.º — Níveis máximos de adição de ingredientes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Níveis máximos de adição de ingredientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Níveis máximos de adição de ingredientes\n\n1. O nível máximo adição de açúcar que pode ser autorizado pelos Estados-Membros por força do artigo 23.º, n.º 6, segundo parágrafo, para os produtos referidos no artigo 23.º, n.º 4, do Regulamento (UE) n.º 1308/2013 é igual a zero.\n\n2. O nível máximo adição de açúcar e/ou mel que pode ser autorizado pelos Estados-Membros por força do artigo 23.º, n.º 6, segundo parágrafo, do Regulamento (UE) n.º 1308/2013 para os produtos referidos no anexo V do Regulamento (UE) n.º 1308/2013 é 7 %. Para efeitos deste número, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Os açúcares adicionados aos frutos devem estar incluídos na percentagem máxima de 7 % de açúcares adicionados.\n\n3. O queijo pode conter, no máximo, 10 % de ingredientes não lácteos."
+  },
+  "17240a77ef015b94": {
+   "fragment_id": "Artigo 11.º — Distribuição de produtos juntamente com as refeições escolares habituais",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Distribuição de produtos juntamente com as refeições escolares habituais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Distribuição de produtos juntamente com as refeições escolares habituais\n\nEm casos devidamente justificados, sempre que o considerem mais eficaz para a realização dos objetivos da sua estratégia, os Estados-Membros podem autorizar as escolas a distribuir os produtos que beneficiem da ajuda da União ao abrigo do regime de distribuição nas escolas juntamente com as refeições escolares habituais.\n\nNesses casos, os Estados-Membros devem garantir que esses produtos:\n\na) Não são utilizados na preparação das refeições escolares habituais;\n\nb) Não são utilizados para substituir produtos que fazem parte das refeições escolares habituais através da contribuição financeira de entidades públicas e/ou privadas;\n\nc) Permanecem sempre claramente identificáveis como parte do regime de distribuição nas escolas, através de medidas de comunicação e de informação adequadas.\n\nA alínea b) não é aplicável sempre que os estabelecimentos de ensino distribuam gratuitamente as refeições escolares habituais."
+  },
+  "f33c356de31b75d4": {
+   "fragment_id": "Artigo 12.º — Publicidade",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicidade\n\nPara efeitos do disposto no artigo 23.º-A, n.º 8, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem utilizar um cartaz que preencha os requisitos mínimos estabelecidos no anexo do presente regulamento, o qual deve estar permanentemente situado num local claramente visível, na entrada principal dos estabelecimentos de ensino participantes."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "c72876073b2f724b": {
+   "fragment_id": "ALTERAÇÕES, REVOGAÇÃO E DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES, REVOGAÇÃO E DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES, REVOGAÇÃO E DISPOSIÇÕES FINAIS"
+  },
+  "8c42cbbc16801f77": {
+   "fragment_id": "Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014\n\nÉ aditado, no Regulamento Delegado (UE) n.º 907/2014, o seguinte artigo:"
+  },
+  "ac0a53f45b8df314": {
+   "fragment_id": "«Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas",
+   "type": "divisao",
+   "heading": "«Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas\n\nNo que respeita à ajuda para a aplicação do regime de distribuição nas escolas a que se refere a parte II, título I, capítulo II, secção I, do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o dia 1 de janeiro que precede o ano letivo em causa.»."
+  },
+  "f1e4c778b2d5e766": {
+   "fragment_id": "Artigo 14.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação\n\nSão revogados o Regulamento (CE) n.º 657/2008, os Regulamentos Delegados (UE) n.º 1047/2014 e (UE) 2016/247 e o Regulamento de Execução (UE) 2016/248. No entanto, esses regulamentos continuam a ser aplicáveis ao regime de distribuição de leite nas escolas e ao regime de distribuição de fruta e produtos hortícolas nas escolas para os anos letivos anteriores a 2017/2018, até esses regimes terminarem."
+  },
+  "09c7f140353f573d": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável às ajudas para o ano letivo de 2017/2018 e anos letivos seguintes.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 3 de novembro de 2016.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "e69d830f2ba45d45": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2017005PT.01001101-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2017005PT.01001101-E0002) [JO L 347 de 20.12.2013, p. 549](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2017005PT.01001101-E0003) Regulamento (UE) 2016/791 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, que altera os Regulamentos (UE) n.º 1308/2013 e (UE) n.º 1306/2013 no que respeita ao regime de ajuda à distribuição de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino ([JO L 135 de 24.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_135_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2017005PT.01001101-E0004) Regulamento Delegado (UE) n.º 1047/2014 da Comissão, de 29 de julho de 2014, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que respeita à estratégia nacional ou regional que os Estados-Membros devem elaborar para fins do regime de distribuição de leite nas escolas ([JO L 291 de 7.10.2014, p. 4](http://publications.europa.eu/resource/oj/JOL_2014_291_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2017005PT.01001101-E0005) Regulamento Delegado (UE) 2016/247 da Comissão, de 17 de dezembro de 2015, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito à ajuda da União para o fornecimento e a distribuição de fruta e produtos hortícolas, fruta e produtos hortícolas transformados, e produtos derivados das bananas, no quadro do regime de distribuição de fruta e de produtos hortícolas ([JO L 46 de 23.2.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_046_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2017005PT.01001101-E0006) Regulamento de Execução (UE) 2016/248 da Comissão, de 17 de dezembro de 2015, que estabelece as regras de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, no que diz respeito à ajuda da União para o fornecimento e a distribuição de produtos dos setores das frutas e produtos hortícolas, das frutas e produtos hortícolas transformados e das bananas, no quadro do regime de distribuição de fruta e produtos hortícolas nas escolas, e que fixa a repartição indicativa para a ajuda ([JO L 46 de 23.2.2016, p. 8](http://publications.europa.eu/resource/oj/JOL_2016_046_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2017005PT.01001101-E0007) Regulamento (CE) n.º 657/2008 da Comissão, de 10 de julho de 2008, que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos nos estabelecimentos de ensino ([JO L 183 de 11.7.2008, p. 17](http://publications.europa.eu/resource/oj/JOL_2008_183_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2017005PT.01001101-E0008) Regulamento Delegado (UE) n.º 907/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro ([JO L 255 de 28.8.2014, p. 18](http://publications.europa.eu/resource/oj/JOL_2014_255_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2017005PT.01001101-E0009) Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à ajuda da União ao fornecimento de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino (ver página 1 do presente Jornal Oficial)."
+  },
+  "3de262442c983867": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de novembro de 2016\n\nque complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito à ajuda da União para a distribuição de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino e que altera o Regulamento Delegado (UE) n.º 907/2014 da Comissão"
+  },
+  "c59195c7af2bd306": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e definições\n\n1. O presente regulamento estabelece normas que complementam o Regulamento (UE) n.º 1308/2013 no que respeita à ajuda da União para o fornecimento e a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e produtos frescos do setor das bananas («distribuição de fruta e produtos hortícolas nas escolas») e para o fornecimento e a distribuição de leite e produtos lácteos («distribuição de leite nas escolas») às crianças nos estabelecimentos de ensino, para as medidas educativas de acompanhamento e para certos custos conexos, no quadro do regime referido no artigo 23.º do referido regulamento («regime de distribuição nas escolas»).\n\n2. Para efeitos do presente regulamento, é aplicável a definição do ano escolar prevista no artigo 1.º, n.º 2, do Regulamento de Execução (UE) 2017/39 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/113707f7-f8cb-11ea-991b-01aa75ed71a1.0019.03/DOC_1#E0001))."
+  },
+  "033ce82a72c2c62a": {
+   "fragment_id": "Artigo 4.º — Custos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Custos elegíveis\n\n1. São elegíveis para ajuda da União os seguintes custos:\n\na) Custo dos produtos fornecidos ao abrigo do regime de distribuição nas escolas e distribuídos às crianças nos estabelecimentos de ensino referidos no artigo 22.º do Regulamento (UE) n.º 1308/2013, incluindo os custos da compra, arrendamento, aluguer e locação financeira de equipamento utilizado no fornecimento e distribuição dos produtos, como previsto na estratégia do Estado-Membro;\n\nb) Os custos das medidas educativas de acompanhamento, incluindo:\n\ni) custos de organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura,\n\nii) custos das medidas destinadas à educação das crianças sobre agricultura, hábitos alimentares saudáveis, cadeias alimentares locais, agricultura biológica, produção sustentável e à luta contra o desperdício alimentar;\n\nc) Custos de publicidade do regime de distribuição nas escolas, que deve ter como objetivo direto a informação do público em geral sobre o regime, incluindo:\n\ni) o custo do cartaz a que se refere o artigo 12.º do presente regulamento,\n\nii) o custo das campanhas de informação por meio de radiodifusão, comunicações eletrónicas, imprensa e outros meios similares de comunicação,\n\niii) o custo de sessões de informação, conferências, seminários e grupos de trabalho destinados a informar o público em geral sobre o regime de distribuição nas escolas e eventos similares,\n\niv) o custo de material de informação e promoção, como, por exemplo, cartas, folhetos, brochuras, brindes e similares;\n\nd) Os custos de formação de redes para a troca de experiências e boas práticas em matéria de aplicação do regime de distribuição nas escolas;\n\ne) Os custos relativos à obrigação de os Estados-Membros monitorizarem e avaliarem a eficácia do respetivo regime escolar;\n\nf) Os custos de transporte e distribuição dos produtos fornecidos ao abrigo do regime de distribuição nas escolas, na medida em que não sejam abrangidos pela alínea a) do presente número.\n\n2. Os custos a que se refere o n.º 1 não podem ser financiados no âmbito de qualquer outro regime de ajuda, programa, medida ou operação da União.\n\n3. O imposto sobre o valor acrescentado (IVA) não é elegível para ajuda.\n\n4. As despesas relacionadas com os custos de pessoal não são elegíveis para a ajuda da União se os custos de pessoal forem financiados por fundos públicos do Estado-Membro."
+  },
+  "52f9eb8e5a5f3860": {
+   "fragment_id": "Artigo 9.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento e avaliação\n\n1. Os Estados-Membros devem prever estruturas e formulários adequados para a monitorização anual da aplicação do regime de distribuição nas escolas.\n\n2. Os Estados-Membros devem avaliar a aplicação do regime de distribuição nas escolas para determinar a eficácia do mesmo quanto ao cumprimento dos seus objetivos de aumentar o consumo de fruta, produtos hortícolas, leite e produtos lácteos pelas crianças e de lhes ensinar hábitos alimentares saudáveis. Os resultados dessa avaliação devem ser apresentados à Comissão sob a forma de um relatório. Se um Estado-Membro aplicar o regime de distribuição nas escolas a nível regional, pode optar por apresentar um número correspondente de relatórios de avaliação.\n\n3. Os relatórios de acompanhamento anuais dos Estados-Membros devem incluir informações sobre os fundos utilizados para o fornecimento e a distribuição de cada um dos grupos de produtos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 e para as medidas educativas de acompanhamento, o número de estabelecimentos de ensino e de crianças que participam no regime de distribuição nas escolas, o tamanho médio das doses e o preço médio por dose, a frequência de entrega de produtos, as quantidades de produtos discriminadas por grupos de produtos e, se for caso disso, de outros produtos para além dos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 que estão incluídos no âmbito das medidas educativas de acompanhamento em conformidade com o artigo 23.º, n.º 7, do referido regulamento, os tipos de comunicação e de medidas de acompanhamento implementadas, e as autoridades e partes interessadas envolvidas na conceção e execução do regime de distribuição nas escolas.\n\n4. Os relatórios de controlo anuais dos Estados-Membros sobre os controlos no local efetuados e as correspondentes constatações devem incluir informações sobre o montante das ajudas pedidas, pagas e objeto de controlos no local, a redução da ajuda na sequência de controlos administrativos, a redução da ajuda devido a apresentação tardia de pedidos, o montante da ajuda recuperado na sequência de controlos no local, e as sanções administrativas aplicadas.\n\n5. [**►M1**](http://publications.europa.eu/resource/celex/32020R1238) No caso dos Estados-Membros que não apresentem à Comissão, nos prazos previstos no artigo 8.º, n.º 2, do Regulamento de Execução (UE) 2017/39, os seus relatórios com os resultados da avaliação prevista no n.º 2 do presente artigo, o montante da dotação definitiva seguinte é reduzido do seguinte modo:**◄**\n\na) 5 % se o prazo for excedido em 1 a 30 dias;\n\nb) 10 % se o prazo for excedido em 31 a 60 dias.\n\nSe o prazo for excedido em mais de 60 dias, a dotação definitiva é reduzida de 1 % por cada dia suplementar, calculada sobre o saldo remanescente."
+  },
+  "1aa824a5c50d07a5": {
+   "fragment_id": "Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014\n\nÉ aditado, no Regulamento Delegado (UE) n.º 907/2014, o seguinte artigo:\n\nNo que respeita à ajuda para a aplicação do regime de distribuição nas escolas a que se refere a parte II, título I, capítulo II, secção I, do Regulamento (UE) n.º 1308/2013, o facto gerador da taxa de câmbio é o dia 1 de janeiro que precede o ano letivo em causa.»."
+  },
+  "5ec772ef01ead850": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável às ajudas para o ano letivo de 2017/2018 e anos letivos seguintes.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "88dfe4e56f9ffb85": {
+   "fragment_id": "Requisitos mínimos para o cartaz a que se refere o artigo 12.º",
+   "type": "divisao",
+   "heading": "Requisitos mínimos para o cartaz a que se refere o artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos mínimos para o cartaz a que se refere o artigo 12.º\n\n| Dimensões do cartaz: | pelo menos A3; |\n| --- | --- |\n| Letras: | pelo menos 1 cm; |\n| Título: | Regime da União Europeia de distribuição nas escolas; |\n| Conteúdo: | O cartaz deve conter pelo menos a seguinte menção: |\n| O/A nosso/a [tipo de estabelecimento de ensino (por exemplo, infantário ou outro estabelecimento pré-escolar/escola primária ou secundária)] participa no regime da União Europeia de distribuição nas escolas com o apoio financeiro da União Europeia. |  |\n| O cartaz deve ostentar o emblema da União Europeia. |  |\n\n---"
+  },
+  "e96ed64f8175e2b4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/113707f7-f8cb-11ea-991b-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à ajuda da União ao fornecimento de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino (ver página 1 do presente Jornal Oficial)."
+  },
+  "8c8971f675c2e611": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e definições\n\n1. O presente regulamento estabelece normas que complementam o Regulamento (UE) n.º 1308/2013 no que respeita à ajuda da União para o fornecimento e a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e produtos frescos do setor das bananas («distribuição de fruta e produtos hortícolas nas escolas») e para o fornecimento e a distribuição de leite e produtos lácteos («distribuição de leite nas escolas») às crianças nos estabelecimentos de ensino, para as medidas educativas de acompanhamento e para certos custos conexos, no quadro do regime referido no artigo 23.º do referido regulamento («regime de distribuição nas escolas»).\n\n2. Para efeitos do presente regulamento, é aplicável a definição do ano escolar prevista no artigo 1.º, n.º 2, do Regulamento de Execução (UE) 2017/39 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/757d7d57-a4a5-11ec-83e1-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "5fcfbcdc3ac877e8": {
+   "fragment_id": "Artigo 3.º — Medidas educativas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Medidas educativas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Medidas educativas de acompanhamento\n\n1. As medidas educativas de acompanhamento a que se refere o artigo 23.º, n.º 10, do Regulamento (UE) n.º 1308/213 devem estar diretamente ligadas aos objetivos do regime de distribuição nas escolas de aumentar o consumo dos produtos agrícolas selecionados e de contribuir para a adoção de regimes alimentares mais saudáveis.\n\nAs medidas devem ter por fim sensibilizar as crianças para a agricultura e a diversidade de produtos agrícolas existente na União, nomeadamente os produzidos na região onde vivem, e educá-las sobre assuntos conexos, como hábitos alimentares saudáveis e as suas implicações na saúde pública, recomendações dietéticas nacionais, cadeias alimentares locais, agricultura biológica, produção e consumo de alimentos sustentáveis e luta contra o desperdício alimentar, podendo incluir atividades como:\n\na) visitas a explorações agrícolas, redes de pomares, organizações de produtores, unidades de transformação de produtos lácteos, mercados de agricultores, armazéns de triagem e acondicionamento de fruta e produtos hortícolas, museus agrícolas, entre outras;\n\nb) criação e manutenção de hortas e pomares nas escolas;\n\nc) preparação de alimentos, aulas de culinária e de degustação, ateliês, laboratórios, entre outras;\n\nd) cursos, seminários, conferências, ateliês, entre outras;\n\ne) materiais pedagógicos, concursos, jogos, jogos didáticos, dias ou semanas temáticos, entre outras.\n\nNo caso de as atividades educativas de acompanhamento incluírem produtos agrícolas que não os referidos no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013, as medidas devem prever a degustação desses outros produtos.\n\n2. Os Estados-Membros devem assegurar que todas as crianças que participam no regime de distribuição nas escolas podem tomar parte nas medidas educativas de acompanhamento.\n\nCaso os estabelecimentos de ensino prevejam medidas educativas diretamente relacionadas com os objetivos do regime de distribuição nas escolas no âmbito do sistema de ensino normal ou de outras políticas ou programas, os Estados-Membros podem decidir tê-las em conta para efeitos do primeiro parágrafo.\n\nAs medidas educativas de acompanhamento podem ser concebidas e adotadas a nível nacional, regional, local ou do estabelecimento de ensino, de acordo com a repartição de competências e a estratégia definida pelos Estados-Membros para a aplicação do regime de distribuição nas escolas. Os Estados-Membros devem assegurar que os estabelecimentos de ensino que participam no regime são devidamente informados sobre o sistema em vigor para as medidas educativas de acompanhamento e sobre os materiais e instrumentos disponíveis.\n\n3. As medidas educativas de acompanhamento podem envolver também pais e professores."
+  },
+  "d04f1051b61e8491": {
+   "fragment_id": "Artigo 4.º — Custos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Custos elegíveis\n\n1.\n\nSão elegíveis para ajuda da União os seguintes custos:\n\na) Custo dos produtos fornecidos ao abrigo do regime de distribuição nas escolas e distribuídos às crianças nos estabelecimentos de ensino referidos no artigo 22.º do Regulamento (UE) n.º 1308/2013, incluindo os custos da compra, arrendamento, aluguer e locação financeira de equipamento utilizado no fornecimento e distribuição dos produtos, como previsto na estratégia do Estado-Membro;\n\nb) Os custos das medidas educativas de acompanhamento, incluindo:\n\ni) custos de organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura,\n\nii) custos das medidas destinadas à educação das crianças sobre agricultura, hábitos alimentares saudáveis, cadeias alimentares locais, agricultura biológica, produção sustentável e à luta contra o desperdício alimentar;\n\nc) Custos de publicidade do regime de distribuição nas escolas, que deve ter como objetivo direto a informação do público em geral sobre o regime, incluindo:\n\ni) o custo do cartaz a que se refere o artigo 12.º do presente regulamento,\n\nii) o custo das campanhas de informação por meio de radiodifusão, comunicações eletrónicas, imprensa e outros meios similares de comunicação,\n\niii) o custo de sessões de informação, conferências, seminários e grupos de trabalho destinados a informar o público em geral sobre o regime de distribuição nas escolas e eventos similares,\n\niv) o custo de material de informação e promoção, como, por exemplo, cartas, folhetos, brochuras, brindes e similares;\n\nd) Os custos de formação de redes para a troca de experiências e boas práticas em matéria de aplicação do regime de distribuição nas escolas;\n\ne) Os custos relativos à obrigação de os Estados-Membros monitorizarem e avaliarem a eficácia do respetivo regime escolar;\n\nf) Os custos de transporte e distribuição dos produtos fornecidos ao abrigo do regime de distribuição nas escolas, na medida em que não sejam abrangidos pela alínea a) do presente número.\n\n2. Os custos a que se refere o n.º 1 não podem ser financiados no âmbito de qualquer outro regime de ajuda, programa, medida ou operação da União.\n\n3. O imposto sobre o valor acrescentado (IVA) não é elegível para ajuda.\n\n4. As despesas relacionadas com os custos de pessoal não são elegíveis para a ajuda da União se os custos de pessoal forem financiados por fundos públicos do Estado-Membro."
+  },
+  "18d18506e1348597": {
+   "fragment_id": "Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda\n\n1.\n\nA ajuda concedida a um Estado-Membro ao abrigo do regime de distribuição nas escolas é distribuída aos requerentes que tenham sido aprovados pela autoridade competente do Estado-Membro em conformidade com o artigo 6.º, e cujo pedido esteja relacionado com a realização de um ou mais dos seguintes elementos:\n\na) Fornecimento ou distribuição de produtos às crianças nos estabelecimentos de ensino no âmbito do regime de distribuição nas escolas;\n\nb) Medidas educativas de acompanhamento;\n\nc) Monitorização e avaliação das ações;\n\nd) Publicidade.\n\n2.\n\nOs Estados-Membros podem selecionar os requerentes da ajuda de entre as seguintes entidades:\n\na) Estabelecimentos de ensino;\n\nb) Autoridades educativas;\n\nc) Fornecedores ou distribuidores dos produtos;\n\nd) Organizações que ajam em nome de um ou mais estabelecimentos de ensino ou autoridades educativas, que tenham sido constituídas especificamente para esse fim de gestão e organização de qualquer das atividades referidas no n.º 1;\n\ne) Qualquer outro organismo público ou privado que esteja envolvido na gestão e organização de qualquer das atividades referidas no n.º 1.\n\nAo selecionar os requerentes de ajuda, os Estados-Membros devem assegurar o cumprimento da legislação aplicável, incluindo as regras em matéria de contratos públicos."
+  },
+  "46768dc6996c8611": {
+   "fragment_id": "Artigo 6.º — Condições de aprovação dos requerentes da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições de aprovação dos requerentes da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de aprovação dos requerentes da ajuda\n\n1.\n\nOs requerentes da ajuda devem ser aprovados pela autoridade competente do Estado-Membro em cujo território se situa o estabelecimento de ensino onde os produtos são fornecidos e/ou distribuídos. A aprovação está sujeita aos seguintes compromissos, que devem ser assumidos pelos requerentes por escrito:\n\na) Garantia de que os produtos financiados ao abrigo do regime de distribuição nas escolas da União são disponibilizados para consumo pelas crianças nos estabelecimentos de ensino para os quais apresentam o pedido de ajuda;\n\nb) Utilização da ajuda concedida para as medidas educativas de acompanhamento, monitorização, avaliação e publicidade, em conformidade com os objetivos do regime de distribuição nas escolas;\n\nc) Reembolso das ajudas pagas indevidamente para as quantidades em questão, caso se verifique que os produtos em causa não foram distribuídos às crianças ou não são elegíveis para ajuda da União;\n\nd) Reembolso das ajudas pagas indevidamente para medidas educativas de acompanhamento, monitorização, avaliação e publicidade, caso se verifique que essas medidas ou atividades não foram corretamente executadas;\n\ne) Disponibilização às autoridades competentes, a seu pedido, de documentos comprovativos;\n\nf) Permissão de quaisquer verificações decididas pela autoridade competente, nomeadamente exame de registos e inspeções materiais.\n\nSempre que os pedidos de ajuda digam respeito a atividades sujeitas a procedimentos de adjudicação de contratos públicos, os Estados-Membros podem considerar a aprovação concedida desde que os compromissos referidos no primeiro parágrafo sejam incluídos nas condições de participação nos procedimentos de adjudicação de contratos públicos.\n\n2. Aos pedidos de ajuda relativos exclusivamente ao fornecimento e/ou distribuição de produtos não são aplicáveis as alíneas b) e d) do n.º 1. Os requerentes devem além disso comprometer-se por escrito a manter um registo dos nomes e endereços dos estabelecimentos de ensino ou das autoridades educativas que beneficiam dos seus produtos e um registo das quantidades dos produtos específicos vendidos ou fornecidos.\n\n3.\n\nAos pedidos de ajuda relativos exclusivamente às medidas educativas de acompanhamento não são aplicáveis as alíneas a) e c) do n.º 1. As autoridades competentes podem especificar eventuais compromissos a assumir por escrito pelos requerentes, nomeadamente no que respeita a:\n\na) Medidas educativas de acompanhamento realizadas nas escolas, se essas escolas não forem requerentes de ajuda;\n\nb) Medidas educativas de acompanhamento que incluam a distribuição de produtos.\n\n4. Aos pedidos de ajuda relativos exclusivamente à monitorização, avaliação e publicidade não são aplicáveis as alíneas a) e c) do n.º 1.\n\n5. Os Estados-Membros podem considerar que as aprovações concedidas ao abrigo do regime de distribuição de fruta e produtos hortícolas nas escolas em conformidade com o Regulamento Delegado (UE) 2016/247 e/ou ao abrigo do regime de distribuição de leite nas escolas em conformidade com o Regulamento (CE) n.º 657/2008 são válidas se os critérios e as condições não forem alterados."
+  },
+  "539cbe9805953570": {
+   "fragment_id": "Artigo 9.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento e avaliação\n\n1. Os Estados-Membros devem prever estruturas e formulários adequados para a monitorização anual da aplicação do regime de distribuição nas escolas.\n\n2. Os Estados-Membros devem avaliar a aplicação do regime de distribuição nas escolas para determinar a eficácia do mesmo quanto ao cumprimento dos seus objetivos de aumentar o consumo de fruta, produtos hortícolas, leite e produtos lácteos pelas crianças e de lhes ensinar hábitos alimentares saudáveis. Os resultados dessa avaliação devem ser apresentados à Comissão sob a forma de um relatório. Se um Estado-Membro aplicar o regime de distribuição nas escolas a nível regional, pode optar por apresentar um número correspondente de relatórios de avaliação.\n\n3. Os relatórios de acompanhamento anuais dos Estados-Membros devem incluir informações sobre os fundos utilizados para o fornecimento e a distribuição de cada um dos grupos de produtos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 e para as medidas educativas de acompanhamento, o número de estabelecimentos de ensino e de crianças que participam no regime de distribuição nas escolas, o tamanho médio das doses e o preço médio por dose, a frequência de entrega de produtos, as quantidades de produtos discriminadas por grupos de produtos e, se for caso disso, de outros produtos para além dos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 que estão incluídos no âmbito das medidas educativas de acompanhamento em conformidade com o artigo 23.º, n.º 7, do referido regulamento, os tipos de comunicação e de medidas de acompanhamento implementadas, e as autoridades e partes interessadas envolvidas na conceção e execução do regime de distribuição nas escolas.\n\n4. Os relatórios de controlo anuais dos Estados-Membros sobre os controlos no local efetuados e as correspondentes constatações devem incluir informações sobre o montante das ajudas pedidas, pagas e objeto de controlos no local, a redução da ajuda na sequência de controlos administrativos, a redução da ajuda devido a apresentação tardia de pedidos, o montante da ajuda recuperado na sequência de controlos no local, e as sanções administrativas aplicadas.\n\n5.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32020R1238) No caso dos Estados-Membros que não apresentem à Comissão, nos prazos previstos no artigo 8.º, n.º 2, do Regulamento de Execução (UE) 2017/39, os seus relatórios com os resultados da avaliação prevista no n.º 2 do presente artigo, o montante da dotação definitiva seguinte é reduzido do seguinte modo:**◄**\n\na) 5 % se o prazo for excedido em 1 a 30 dias;\n\nb) 10 % se o prazo for excedido em 31 a 60 dias.\n\nSe o prazo for excedido em mais de 60 dias, a dotação definitiva é reduzida de 1 % por cada dia suplementar, calculada sobre o saldo remanescente."
+  },
+  "429a692d83f0a554": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/757d7d57-a4a5-11ec-83e1-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à ajuda da União ao fornecimento de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino (ver página 1 do presente Jornal Oficial)."
+  },
+  "bbebeaddbe423ba5": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e definições\n\n1. O presente regulamento estabelece normas que complementam o Regulamento (UE) n.º 1308/2013 no que respeita à ajuda da União para o fornecimento e a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e produtos frescos do setor das bananas («distribuição de fruta e produtos hortícolas nas escolas») e para o fornecimento e a distribuição de leite e produtos lácteos («distribuição de leite nas escolas») às crianças nos estabelecimentos de ensino, para as medidas educativas de acompanhamento e para certos custos conexos, no quadro do regime referido no artigo 23.º do referido regulamento («regime de distribuição nas escolas»).\n\n2. Para efeitos do presente regulamento, é aplicável a definição do ano escolar prevista no artigo 1.º, n.º 2, do Regulamento de Execução (UE) 2017/39 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/889ef90a-025c-11ed-acce-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "297f15cd45ab30b7": {
+   "fragment_id": "Artigo 6.º — Condições de aprovação dos requerentes de ajuda",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições de aprovação dos requerentes de ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de aprovação dos requerentes de ajuda\n\n1.\n\nOs requerentes de ajuda devem ser aprovados pela autoridade competente do Estado-Membro em cujo território se situa o estabelecimento de ensino onde os produtos são fornecidos e/ou distribuídos. A aprovação está sujeita aos seguintes compromissos, que devem ser assumidos pelos requerentes por escrito:\n\na) garantia de que os produtos financiados ao abrigo do regime de distribuição nas escolas da União são disponibilizados para consumo pelas crianças nos estabelecimentos de ensino para os quais apresentam o pedido de ajuda;\n\nb) utilização da ajuda concedida para as medidas educativas de acompanhamento, monitorização, avaliação e publicidade, em conformidade com os objetivos do regime de distribuição nas escolas e, sempre que as medidas educativas de acompanhamento digam respeito a temas ligados à saúde e à nutrição, em conformidade com os conselhos de saúde e as recomendações dietéticas ao nível nacional para o grupo etário em causa;\n\nc) reembolso das ajudas pagas indevidamente para as quantidades em questão, caso se verifique que os produtos em causa não foram distribuídos às crianças ou não são elegíveis para ajuda da União;\n\nd) reembolso das ajudas pagas indevidamente para medidas educativas de acompanhamento, monitorização, avaliação e publicidade, caso se verifique que essas medidas ou atividades não foram corretamente executadas;\n\ne) disponibilização às autoridades competentes, a seu pedido, de documentos comprovativos;\n\nf) permissão de quaisquer verificações decididas pela autoridade competente, nomeadamente exame de registos e inspeções materiais;\n\ng) manutenção de um registo dos nomes e endereços dos estabelecimentos de ensino ou das autoridades educativas que beneficiam dos seus produtos e um registo das quantidades de produtos específicos vendidos ou fornecidos, sempre que o requerente não seja um estabelecimento de ensino.\n\nAs autoridades competentes podem especificar eventuais compromissos a assumir por escrito pelos requerentes.\n\nSempre que os pedidos de ajuda digam respeito a atividades sujeitas a procedimentos de adjudicação de contratos públicos, os Estados-Membros podem considerar a aprovação concedida desde que os compromissos referidos no primeiro e segundo parágrafos sejam incluídos nas condições de participação nesses procedimentos de adjudicação.\n\n2. Aos requerentes de ajuda relativa exclusivamente ao fornecimento e/ou distribuição de produtos, não é aplicável o n.º 1, alíneas b) e d).\n\n3. Aos requerentes de ajuda relativa exclusivamente a medidas educativas de acompanhamento, não é aplicável o n.º 1, alíneas a), c) e g).\n\n4. Aos requerentes de ajuda relativa exclusivamente a medidas de monitorização, avaliação e publicidade, não é aplicável o n.º 1, alíneas a), c) e g).\n\n5. Se os critérios e as condições não forem alterados, os Estados-Membros podem considerar válidas as aprovações concedidas ao abrigo do regime de distribuição de fruta e produtos hortícolas nas escolas, em conformidade com o Regulamento Delegado (UE) 2016/247, e/ou ao abrigo do regime de distribuição de leite nas escolas, em conformidade com o Regulamento (CE) n.º 657/2008."
+  },
+  "d97a5068b1eab5a8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/889ef90a-025c-11ed-acce-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à ajuda da União ao fornecimento de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino (ver página 1 do presente Jornal Oficial)."
+  },
+  "3fea6dc1a4c20b15": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e definições\n\n1. O presente regulamento estabelece normas que complementam o Regulamento (UE) n.º 1308/2013 no que respeita à ajuda da União para o fornecimento e a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e produtos frescos do setor das bananas («distribuição de fruta e produtos hortícolas nas escolas») e para o fornecimento e a distribuição de leite e produtos lácteos («distribuição de leite nas escolas») às crianças nos estabelecimentos de ensino, para as medidas educativas de acompanhamento e para certos custos conexos, no quadro do regime referido no artigo 23.º do referido regulamento («regime de distribuição nas escolas»).\n\n2. Para efeitos do presente regulamento, é aplicável a definição do ano escolar prevista no artigo 1.º, n.º 2, do Regulamento de Execução (UE) 2017/39 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/0e67ef81-0988-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "5f25b640f3377547": {
+   "fragment_id": "Artigo 9.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento e avaliação\n\n1. Os Estados-Membros devem prever estruturas e formulários adequados para a monitorização anual da aplicação do regime de distribuição nas escolas.\n\n2. Os Estados-Membros devem avaliar a aplicação do regime de distribuição nas escolas para determinar a eficácia do mesmo quanto ao cumprimento dos seus objetivos de aumentar o consumo de fruta, produtos hortícolas, leite e produtos lácteos pelas crianças e de lhes ensinar hábitos alimentares saudáveis. Os resultados dessa avaliação devem ser apresentados à Comissão sob a forma de um relatório. Se um Estado-Membro aplicar o regime de distribuição nas escolas a nível regional, pode optar por apresentar um número correspondente de relatórios de avaliação.\n\n3. Os relatórios anuais de acompanhamento a apresentar pelos Estados-Membros devem incluir informações sobre os fundos utilizados para o fornecimento e a distribuição de cada um dos grupos de produtos enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013 e para a realização das medidas educativas de acompanhamento, o número de estabelecimentos de ensino e de crianças que participam no regime de distribuição de alimentos nas escolas, o tamanho médio das doses e o número de doses distribuídas e as quantidades, discriminadas por grupos de produtos bem como, quando aplicável, sobre os outros produtos, que não os enumerados no artigo 23.º, n.^os^ 3, 4 e 5, do Regulamento (UE) n.º 1308/2013, incluídos no âmbito das medidas educativas de acompanhamento em conformidade com o artigo 23.º, n.º 7, do referido regulamento, e os tipos de medidas de comunicação e de acompanhamento implementadas\n\n4. Os relatórios de controlo anuais dos Estados-Membros sobre os controlos no local efetuados e as correspondentes constatações devem incluir informações sobre o montante das ajudas pedidas, pagas e objeto de controlos no local, a redução da ajuda na sequência de controlos administrativos, a redução da ajuda devido a apresentação tardia de pedidos, o montante da ajuda recuperado na sequência de controlos no local, e as sanções administrativas aplicadas.\n\n5.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32020R1238) No caso dos Estados-Membros que não apresentem à Comissão, nos prazos previstos no artigo 8.º, n.º 2, do Regulamento de Execução (UE) 2017/39, os seus relatórios com os resultados da avaliação prevista no n.º 2 do presente artigo, o montante da dotação definitiva seguinte é reduzido do seguinte modo:**◄**\n\na) 5 % se o prazo for excedido em 1 a 30 dias;\n\nb) 10 % se o prazo for excedido em 31 a 60 dias.\n\nSe o prazo for excedido em mais de 60 dias, a dotação definitiva é reduzida de 1 % por cada dia suplementar, calculada sobre o saldo remanescente."
+  },
+  "68b265d52b04c18a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0e67ef81-0988-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere à ajuda da União ao fornecimento de fruta e produtos hortícolas, bananas e leite nos estabelecimentos de ensino (ver página 1 do presente Jornal Oficial)."
+  }
+ }
+}

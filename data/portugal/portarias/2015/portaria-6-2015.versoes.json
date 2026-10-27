@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66071365:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-903136227",
+ "dre_path": "/dr/detalhe/portaria/6-2015-66071365",
+ "source_lastmod": "2025-01-16",
+ "versions": [
+  {
+   "date": "2015-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902985021",
+    "902985022",
+    "902985023",
+    "902985024",
+    "902985025",
+    "902985026",
+    "902985027",
+    "902985028",
+    "902985030",
+    "902985031",
+    "902985032",
+    "902985033"
+   ]
+  }
+ ],
+ "fragments": {
+  "902985021": {
+   "fragment_id": "903136228",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 6/2015\n\nde 9 de janeiro\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho, que estabelece os termos da delimitação dos perímetros de proteção das captações destinadas ao abastecimento público de água para consumo humano, bem como os respetivos condicionamentos.\n\nNa sequência de um estudo apresentado pelo Município de Pombal, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção de quatro captações de água subterrânea do Sistema de Captação da Mata do Urso, concelho de Pombal, destinadas ao abastecimento público de água.\n\nCompete, agora, ao Governo aprovar as referidas zonas de proteção, revogando a Resolução do Conselho de Ministros n.º 58/2007, de 24 de abril, que aprovou a delimitação de dois perímetros de proteção de captações do Sistema de Captação da Mata do Urso, concelho de Pombal.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação dada pelo artigo 88.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas nos termos da subalínea ii) da alínea a) e da subalínea iv) da alínea b) do n.º 1 do Despacho n.º 13322/2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro de 2013, com a redação dada pela alínea c) do n.º 1 do Despacho n.º 1941-A/2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2014, e alterado pelo Despacho n.º 9478/2014, publicado no Diário da República, 2.ª série, n.º 139, de 22 de julho de 2014, o seguinte:"
+  },
+  "902985022": {
+   "fragment_id": "903136229",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação dos perímetros de proteção dos furos denominados por SO4, PS2, PS1 e SO3, situados na Mata do Urso, freguesia de Carriço, no concelho de Pombal, que captam na Massa de Água Subterrânea 'Leirosa-Monte Real' (PT_O10).\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante."
+  },
+  "902985023": {
+   "fragment_id": "903136230",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior corresponde à área da superfície do terreno limitada pelos círculos com o raio de 20 metros e centro em cada uma das captações.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007."
+  },
+  "902985024": {
+   "fragment_id": "903136231",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno envolvente à zona de proteção imediata e delimitada pelo polígono que resulta da união dos vértices cujas coordenadas constam dos quadros constantes do anexo II da presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, as seguintes atividades e instalações:\n\na) Espaços destinados a práticas desportivas;\n\nb) Parques de campismo;\n\nc) Caminhos de ferro;\n\nd) Atividades pecuárias;\n\ne) Infraestruturas aeronáuticas;\n\nf) Oficinas e estações de serviço de automóveis;\n\ng) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nh) Postos de abastecimento e áreas de serviço de combustíveis;\n\ni) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nj) Canalizações de produtos tóxicos;\n\nk) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nl) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\nm) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nn) Estações de tratamento de águas residuais;\n\no) Cemitérios;\n\np) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\nq) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo e a recolha e ou tratamento das águas de escorrência nas zonas de armazenamento;\n\nr) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea.\n\n3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Usos agrícolas, que podem ser permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nd) Estradas, que podem ser permitidas desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ne) Instalação de coletores de águas residuais, que pode ser permitida desde que respeite critérios rigorosos de estanqueidade."
+  },
+  "902985025": {
+   "fragment_id": "903136232",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através do polígono que resulta da união dos vértices cujas coordenadas estão indicadas no quadro constante do anexo III da presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nf) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\ng) Infraestruturas aeronáuticas;\n\nh) Depósitos de sucata, devendo nos existentes à data de entrada em vigor da presente portaria, ser assegurada a impermeabilização do solo e a recolha e ou tratamento das águas de escorrência, nas zonas de armazenamento;\n\ni) Cemitérios.\n\n3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nc) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, as quais podem ser permitidas desde que não provoquem a deterioração da qualidade da água e ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\nd) Instalação de coletores de águas residuais e de estações de tratamento de águas residuais, que pode ser permitida desde que respeite critérios rigorosos de estanqueidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\ne) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis, que podem ser permitidos desde que seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes;\n\nf) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas."
+  },
+  "902985026": {
+   "fragment_id": "903136233",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs zonas de proteção respeitantes aos perímetros mencionados no artigo 1.º encontram-se representadas na planta de localização que consta do anexo IV da presente portaria, que dela faz parte integrante."
+  },
+  "902985027": {
+   "fragment_id": "903136234",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Resolução do Conselho de Ministros n.º 58/2007, de 24 de abril."
+  },
+  "902985028": {
+   "fragment_id": "903136235",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "902985030": {
+   "fragment_id": "903136237",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)\n\nNota. - As coordenadas das captações encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central)."
+  },
+  "902985031": {
+   "fragment_id": "903136238",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 3.º)\n\nZona de proteção intermédia\n\nFuro SO4\n\n(ver documento original)\n\nFuro PS2\n\n(ver documento original)\n\nFuro PS1\n\n(ver documento original)\n\nFuro SO3\n\n(ver documento original)\n\nNota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central)."
+  },
+  "902985032": {
+   "fragment_id": "903136239",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 4.º)\n\nZona de proteção alargada\n\n(ver documento original)\n\nNota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central)."
+  },
+  "902985033": {
+   "fragment_id": "903136240",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o artigo 5.º)\n\nPlanta de localização com a representação das zonas de proteção\n\nExtrato da Carta Militar de Portugal - 1:25000 (IGeoE)\n\n(ver documento original)"
+  }
+ }
+}

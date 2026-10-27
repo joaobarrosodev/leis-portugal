@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:898553934:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-898587591",
+ "dre_path": "/dr/detalhe/portaria/309-2024-898553934",
+ "source_lastmod": "2024-12-10",
+ "versions": [
+  {
+   "date": "2024-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "899370980",
+    "898641883",
+    "898641884",
+    "898641885",
+    "898641886"
+   ]
+  }
+ ],
+ "fragments": {
+  "899370980": {
+   "fragment_id": "898587592",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 309/2024/1\n\nde 2 de dezembro\n\nOs incêndios de grandes dimensões que ocorreram no presente ano nas freguesias identificadas no n.º 1 da Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, assim como os incêndios de mais de 1000 ha ocorridos nos concelhos de Arcos de Valdevez, Miranda do Douro e Vimioso, afetaram significativamente, face à sua extensão, as populações de espécies cinegéticas estabelecidas naqueles espaços rurais, bem como as condições de alimentação e a reprodução das espécies migratórias, pelo que importa adotar medidas de proteção dos exemplares sobreviventes.\n\nConsiderando que o período legal de interdição do exercício da caça, em áreas percorridas por incêndios estabelecido na alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação, é, nestes casos, insuficiente para acautelar a preservação das espécies cinegéticas afetadas e tendo por objetivo o restabelecimento das espécies cinegéticas nas áreas acima identificadas é proibido o ato venatório nas áreas ardidas de todas as zonas de caça afetadas até ao termo da presente época venatória, excecionando desta proibição a caça ao javali pelo processo de espera, dado tratar-se de uma população com elevado número de efetivos, carecendo de uma gestão de adaptação destes aos parcos recursos existentes no meio.\n\nRevoga-se o n.º 2 do artigo 2.º da Portaria n.º 67/2024, de 22 de fevereiro, por se revelar inexequível a produção de uma listagem englobando todas as zonas húmidas permanentes e temporárias, existentes no País.\n\nTendo sido detetada uma incorreção no anexo da Portaria n.º 67/2024, de 22 de fevereiro, no que respeita ao período venatório à narceja-comum (Gallinago-gallinago) e narceja-galega (Lymnocryptes minimus) procede-se à alteração do mesmo.\n\nNestes termos, e ao abrigo do disposto no n.º 2 do artigo 3.º e no n.º 2 do artigo 91.º, ambos do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua redação atual, nas alíneas d) e e) do n.º 4 da Resolução do Conselho de Ministros n.º 88/2012, de 18 de outubro, e na alínea c) do n.º 4.3 do Despacho n.º 6739/2024, de 17 de junho, manda o Governo, pelo Secretário de Estado das Florestas, o seguinte:"
+  },
+  "898641883": {
+   "fragment_id": "898587593",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração da Portaria n.º 67/2024, de 22 de fevereiro, que fixa o calendário venatório para as épocas 2024-2025, 2025-2026 e 2026-2027."
+  },
+  "898641884": {
+   "fragment_id": "898587594",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da Portaria n.º 67/2024, de 22 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração da Portaria n.º 67/2024, de 22 de fevereiro\n\nO artigo 2.º da Portaria n.º 67/2024, de 22 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...]\n\n2 - (Revogado.)»"
+  },
+  "898641885": {
+   "fragment_id": "898587595",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao anexo da Portaria n.º 67/2024, de 22 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao anexo da Portaria n.º 67/2024, de 22 de fevereiro\n\nO anexo da Portaria n.º 67/2024, de 22 de fevereiro, passa a ter a seguinte redação:\n«ANEXO\n(a que se refere o n.º 1 do artigo 3.º)\n\n| Espécie | Período venatório | Limites diários de abate<br>por caçador |  |  |\n| --- | --- | --- | --- | --- |\n| Terreno ordenado | Terreno não ordenado | Terreno<br>ordenado | Terreno não ordenado |  |\n| Coelho-bravo (Oryctolagus cuniculus) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (3) | 1 |\n| Lebre (Lepus granatensis) (1) | 1 |  |  |  |\n| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | 1 |  |\n| Saca-rabos (Herpestes ichneumon) | 1 |  |  |  |\n| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro | - | 1 |  |\n| Faisão (Phasianus colchicus) | – |  |  |  |\n| Pombo-da-rocha (Columba livia) (2) | Do 3.º domingo de agosto a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de dezembro | 25 | 15 |\n| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | (3) | 1 |  |\n| Gralha-preta (Corvus corone) | 1 |  |  |  |\n| Frisada (Anas strepera) | De 1 de outubro a 20 de janeiro | - | 1 | – |\n| Pato-trombeteiro (Anas clypeata) |  |  |  |  |\n| Zarro-comum (Aythya ferina) |  |  |  |  |\n| Zarro-negrinha (Aythya fuligula) |  |  |  |  |\n| Marrequinha (Anas crecca) | 10 | Arrabio (Anas acuta) |  |  |\n| Piadeira (Anas penélope) |  |  |  |  |\n| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  |  |  |\n| Galeirão (Fulica atra) |  |  |  |  |\n| Galinha-d’água (Gallinula chloropus) | 5 |  |  |  |\n| Tarambola-dourada (Pluvialis apricaria) | De 1 de novembro a 20 de janeiro | 5 |  |  |\n| Narceja-comum (Gallinago gallinago) | De 1 de novembro a 20 de fevereiro | 8 | Narceja-galega (Lymnocryptes minimus) |  |\n| Galinhola (Scolopax rusticola) | De 1 de novembro a 10 de fevereiro | 3 |  |  |\n| Rola-comum (Streptopelia turtur) | Nos 3.º e 4.º domingos de agosto e nos 1.º e 2.º domingos de setembro (4) | 4 |  |  |\n| Codorniz (Coturnix coturnix) | De 1 de setembro a 30 de novembro | 10 |  |  |\n| Pombo-bravo (Columba oenas) | Do 3.º domingo de agosto a 20 de fevereiro | 50 |  |  |\n| Pombo-torcaz (Columba palumbus) |  |  |  |  |\n| Tordo-zornal (Turdus pilaris) | De 1 de novembro a 20 de fevereiro | 40 | Tordo-comum (Turdus philomelos) |  |\n| Tordo-ruivo (Turdus iliacus) |  |  |  |  |\n| Tordeia (Turdus viscivorus) |  |  |  |  |\n| Estorninho-malhado (Sturnus vulgaris) |  |  |  |  |\n| Javali (Sus scrofa) | De 1 de junho a 31 de maio | (3) | Gamo (Dama dama) |  |\n| Veado (Cervus elaphus) |  |  |  |  |\n| Corço (Capreolus capreolus) |  |  |  |  |\n| Muflão (Ovis amon) |  |  |  |  |\n\n(\n\n1\n\n) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.\n(\n\n2\n\n) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 31 de julho.\n(\n\n3\n\n) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.\n(\n\n4\n\n) A caça à rola-comum apenas é permitida durante o período da manhã, até às 13 horas.»"
+  },
+  "898641886": {
+   "fragment_id": "898587596",
+   "type": 11,
+   "heading": "Artigo 4.º — Aditamento à Portaria n.º 67/2024, de 22 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aditamento à Portaria n.º 67/2024, de 22 de fevereiro\n\nÉ aditado à Portaria n.º 67/2024, de 22 de fevereiro, o artigo 3.º-A, com a seguinte redação:\n\n«Artigo 3.º-A\n\nNorma transitória\n\n1 - Na época venatória 2024-2025, com exceção da caça ao javali pelo processo de espera em terrenos ordenados, é proibido o exercício da caça em todas as zonas de caça afetadas pelos incêndios ocorridos de 15 a 19 de setembro, nas freguesias identificadas no n.º 1 da Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, e por incêndios de área superior a 1000 ha ocorridos nos concelhos de Arcos de Valdevez, Miranda do Douro e Vimioso.\n\n2 - No ano de 2025, as zonas de caça associativas e turísticas concessionadas, cujos terrenos foram percorridos por incêndios de área superior a 1000 ha ocorridos nos concelhos de Arcos de Valdevez, Miranda do Douro e Vimioso, ficam isentas do pagamento da taxa anual a que se referem, respetivamente, as alíneas c) e d) do n.º 2 do artigo 8.º da Portaria n.º 431/2006, de 3 de maio, na sua redação atual.»\n\nArtigo 4.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

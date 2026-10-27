@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3769:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3769-20050818",
+ "dre_path": null,
+ "source_lastmod": "2005-08-18",
+ "versions": [
+  {
+   "date": "1992-12-29",
+   "future": false,
+   "celex": "31992R3769",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "531df938e381114e",
+    "772cc4509aa53f24",
+    "5e6f78ae61cca377",
+    "fb66ff22c9dbe9e5",
+    "fee5022cce8c81a6",
+    "299d0fceed396a33",
+    "ab3d7dad5d8d95a4",
+    "daa65524e2f889f1",
+    "f1dcd38a5979a2f4",
+    "17bd5a7b0a91ad4d",
+    "e1adc1d3542ad1cc",
+    "0004c1c8f74e98b3",
+    "02e64ca2280da893"
+   ]
+  },
+  {
+   "date": "2005-08-18",
+   "future": false,
+   "celex": "01992R3769-20050818",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1° — Dispensa da obrigação de registo relativamente às substâncias inventariadas enumeradas na categoria 3",
+    "Suprime Artigo 2° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 2",
+    "Suprime Artigo 3° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 3",
+    "Suprime Artigo 4° — Modelo de autorização de exportação",
+    "Suprime Artigo 5° — Autorizações gerais individuais",
+    "Suprime Artigo 6° — Substâncias classificadas",
+    "Suprime Artigo 7°",
+    "Suprime ANEXO I — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO IV — AUTORIZAÇÃO INDIVIDUAL PARA A EXPORTAÇÃO DE SUBSTÂNCIAS QUE FIGURAM NO ANEXO DO REGULAMENTO (CEE) N° 3677/90",
+    "Suprime ANEXO V"
+   ],
+   "fragments": [
+    "d77f288153b7ed97"
+   ]
+  }
+ ],
+ "fragments": {
+  "531df938e381114e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3769/92 da Comissão, de 21 de Dezembro de 1992, relativo à execução do Regulamento (CEE) nº 3677/90 que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico de estupefacientes e de substâncias psicotrópicas** *Jornal Oficial nº L 383 de 29/12/1992 p. 0017 - 0029 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0014 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0014*\n\nREGULAMENTO (CEE) No<?%> 3769/92 DA COMISSÃO\n\nde 21 de Dezembro de 1992\n\nrelativo à execução do Regulamento (CEE) n° 3677/90 que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico de estupefacientes e de substâncias psicotrópicas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n° 3677/90 do Conselho, de 13 de Dezembro de 1990, que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico ilegal de estupefacientes e de substâncias psicotrópicas (1), alterado pelo Regulamento (CEE) n° 900/92 (2), e, nomeadamente, o n° 3 do seu artigo 10o,\n\nConsiderando que é necessário estabelecer normas de execução do referido Regulamento (CEE) n° 3677/90, a seguir designado « regulamento de base »;\n\nConsiderando que os limites quantitativos das substâncias inventariadas enumeradas na categoria 3 do anexo do regulamento de base e a identificação das misturas que contêm tais substâncias devem ser determinadas para efeitos da aplicação do n° 2 do artigo 2oA;\n\nConsiderando que é necessário identificar os países e substâncias de acordo com o n° 2 do artigo 5° do regulamento de base, nomeadamente com base numa abordagem concertada com cada um dos países em causa;\n\nConsiderando que, em certos casos, em que não existe acordo formal com o país de destino nos termos do n° 2 do artigo 5oA do regulamento de base, as obrigações relativas à exportação das substâncias inventariadas enumeradas na categoria 3 devem ser determinadas, especialmente com base numa abordagem concertada com o país em causa;\n\nConsiderando que a identificação dos destinos sensíveis deve basear-se no facto de que o país é abrangido quer pelo fabrico ilícito de estupefacientes ou de substâncias psicotrópicas quer por outros factores pertinentes, tais como a proximidade geográfica dum país no qual esses estupefacientes ou substâncias são produzidos;\n\nConsiderando que a Comissão empreende tais contactos com um certo número de países; que as listas dos anexos II e III do presente regulamento devem, assim, ser gradualmente completadas à medida que estes contactos conduzam a resultados concretos;\n\nConsiderando que é necessário adoptar um modelo de autorização individual de exportação, bem como as normas de execução relativas à sua utilização e, além disso, adoptar as normas para a execução do sistema de autorização geral individual previsto para certas exportações de substâncias das categorias 2 e 3;\n\nConsiderando que a Comunidade deve aplicar a decisão tomada pela Comissão de Estupefacientes (CS) das Nações Unidas em Abril de 1992, tendo em vista a inclusão do safrol, piperonal e isosafrol no quadro I do anexo da Convenção das Nações Unidas contra o tráfico ilegal de estupefacientes e de substâncias psicotrópicas de 1988, transferindo as ditas substâncias da categoria 2 para a categoria 1 do anexo do regulamento de base e que, para maior clareza, é conveniente alterar o referido anexo; que a decisão se baseou no facto de que as características das citadas substâncias estão muito próximas das já contidas no quadro I assim como das da categoria 1 do relatório final do Grupo de acção sobre os produtos químicos (CATF); que os membros do CATF representados na Comissão de Estupefacientes estiveram de acordo com esta decisão considerada como uma medida excepcional relativa ao comércio internacional e que não constitui precedente tratando-se de divergências eventuais no que respeita à classificação prevista no relatório do CATF;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité internacional de precursores de drogas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "772cc4509aa53f24": {
+   "fragment_id": "Artigo 1° — Dispensa da obrigação de registo relativamente às substâncias inventariadas enumeradas na categoria 3",
+   "type": "artigo",
+   "heading": "Artigo 1° — Dispensa da obrigação de registo relativamente às substâncias inventariadas enumeradas na categoria 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1° — Dispensa da obrigação de registo relativamente às substâncias inventariadas enumeradas na categoria 3\n\n1. Os operadores envolvidos na exportação de substâncias inventariadas enumeradas na categoria 3 do anexo ao « regulamento de base », ficam dispensados da obrigação de registo prevista no n° 2 do artigo 2oA do referido regulamento, se a soma das quantidades das suas exportações no decurso do ano civil precedente (1 de Janeiro a 31 de Dezembro) não excederem as quantidades estabelecidas no anexo I do presente regulamento.\n\nTodavia, no caso de essas quantidades serem excedidas durante o ano civil em curso, a obrigação de registo deve ser imediatamente satisfeita.\n\n2. No caso de misturas, na acepção do primeiro trecho do n° 2, alínea a), do artigo 1° do regulamento de base, que contenham as substâncias enumeradas na categoria 3, os operadores ficam dispensados da obrigação de registo referida no n° 1 do presente artigo se as quantidades das substâncias inventariadas que as mesmas contêm não excederem, no decurso do ano civil precedente, as quantidades previstas no referido n° 1. Todavia, no caso de essas quantidades serem excedidas durante o ano civil em curso, a obrigação de registo deve ser imediatamente satisfeita.\n\n3. Para efeito de elaboração do registo, os operadores cujas exportações de substâncias da categoria 3 durante o ano de 1992 tenham ultrapassado as quantidades fixadas no anexo I e que tenham a intenção de continuar a exportar essas substâncias, devem comunicar às autoridades competentes, o mais tardar até ao dia 31 de Janeiro de 1993, as informações previstas no n° 2 do artigo 2oA do regulamento de base."
+  },
+  "5e6f78ae61cca377": {
+   "fragment_id": "Artigo 2° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 2",
+   "type": "artigo",
+   "heading": "Artigo 2° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 2\n\nNos termos do n° 2 do artigo 5° do regulamento de base, as exportações de substâncias inventariadas na categoria 2 e enumeradas no anexo II do presente regulamento estão sujeitas, mutatis mutandis, ao disposto no artigo 4° do regulamento de base, sempre que se destinem a um operador estabelecido num país incluído nesse anexo."
+  },
+  "fb66ff22c9dbe9e5": {
+   "fragment_id": "Artigo 3° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 3",
+   "type": "artigo",
+   "heading": "Artigo 3° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria 3\n\nSem prejuízo de obrigações mais específicas a determinar com base em acordos com os países em causa, as exportações de substâncias inventariadas enumeradas na categoria 3 estão sujeitas ao disposto no artigo 4° do regulamento de base, sempre que se destinem a um operador estabelecido num país incluído no anexo III do presente regulamento no que se refere à substância em causa, nos termos do n° 2 do artigo 5oA do regulamento de base, e não haja lugar à autorização geral individual dada nos termos do n° 3 desse artigo."
+  },
+  "fee5022cce8c81a6": {
+   "fragment_id": "Artigo 4° — Modelo de autorização de exportação",
+   "type": "artigo",
+   "heading": "Artigo 4° — Modelo de autorização de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4° — Modelo de autorização de exportação\n\n1. O formulário da autorização de exportação prevista no artigo 4° do regulamento de base deve corresponder ao modelo que constitui o anexo IV do presente regulamento. O formulário deve ser utilizado em conformidade com as prescrições estabelecidas para o efeito, podendo ser impresso numa ou em várias das línguas oficiais da Comunidade. As autorizações de exportação são emitidas numa dessas línguas, devendo obedecer às disposições do direito interno do Estado de exportação; caso sejam emitidas à mão, devem ser preenchidas a tinta e com letra de imprensa.\n\n2. O modelo de autorização deve ser emitido em formato A4, sendo revestido duma impressão de fundo guilhochado que torna visíveis as falsificações por meios mecânicos ou químicos.\n\n3. Os Estados-membros podem imprimir directamente os formulários da autorização de exportação ou confiar essa tarefa a impressores devidamente aprovados. Nesta última hipótese, sobre cada formulário da autorização de exportação deve ser feita referência à aprovação do Estado membro. O formulário da autorização de exportação deve conter a indicação do nome e do endereço da impressora ou dum símbolo que permita identificá-la. O formulário deve ainda conter um número de série, impresso ou não, destinado a individualizá-lo.\n\n4. O formulário da autorização é emitido em três exemplares numerados de 1 a 3: o n° 1 destina-se à autoridade que emitiu a autorização, o n° 2 acompanha as mercadorias para ser apresentado na estância aduaneira em que é feita a declaração de exportação e na estância aduaneira de saída do território aduaneiro da Comunidade das substâncias inventariadas e o n° 3 destina-se ao operador a quem a autorização foi concedida. Podem ser previstos exemplares suplementares se for necessário."
+  },
+  "299d0fceed396a33": {
+   "fragment_id": "Artigo 5° — Autorizações gerais individuais",
+   "type": "artigo",
+   "heading": "Artigo 5° — Autorizações gerais individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5° — Autorizações gerais individuais\n\n1. Cada requerente de uma autorização geral individual nos termos do n° 3 do artigo 5° e do n° 3 do artigo 5oA do regulamento de base, deve nomeadamente fornecer às autoridades competentes as seguintes informações:\n\na) Dados pormenorizados sobre as suas habilitações e experiência profissional, no domínio abrangido pelo presente regulamento e, no caso de uma pessoa colectiva, o nome, qualificações e experiência profissional pertinentes do dirigente ou da pessoa responsável pelo respeito das disposições do presente regulamento em relação às exportações das substâncias abrangidas;\n\nb) Uma síntese dos dados sobre as operações de exportação das substâncias inventariadas em causa efectuadas nos doze meses precedentes ao pedido, especificando, para cada substância, o número total de transacções e as quantidades exportadas para cada país para os quais é necessária uma autorização de exportação;\n\nc) Dados sobre as precauções tomadas para evitar que as referidas substâncias inventariadas fossem utilizadas no fabrico ilegal de estupefacientes e de substâncias psicotrópicas e, em especial, as medidas destinadas a dar cumprimento ao artigo 3° do regulamento de base.\n\n2. Sem prejuízo da eventual aplicação das medidas técnicas de carácter coercivo, a autorização referida no n° 1 será suspensa ou revogada, nos termos do n° 3 do artigo 5° e do n° 3 do artigo 5oA do regulamento de base, ou recusada, nomeadamente, se:\n\na) Existirem fortes razões para supor que as informações fornecidas em cumprimento do n° 1 são incorrectas;\n\nb) Existirem fortes razões para supor que as precauções adoptadas não são suficientes para evitar o desvio de substâncias inventariadas para o fabrico ilegal de estupefacientes e de substâncias psicotrópicas, ou para crer que a experiência do operador ou da pessoa responsável, no caso de uma pessoa colectiva, não oferece as garantias suficientes face aos riscos de desvio.\n\n3. Não obstante a existência da autorização prevista no n° 1, as operações individuais de exportação realizadas a coberto da autorização podem ser proibidas pelas autoridades competentes, nas condições fixadas no n° 2 do artigo 6° do regulamento de base.\n\n4. Sem prejuízo das obrigações previstas no artigo 2° do regulamento de base, o titular da autorização referida no n° 1 deve cumprir as seguintes obrigações:\n\na) Indicar o número da autorização nas declarações aduaneiras de exportação;\n\nb) Proceder aos registos pormenorizados referidos no n° 3 do artigo 2° do regulamento de base o mais tardar à data em que a remessa deixa as instalações do fornecedor com vista à sua exportação;\n\nc) Sempre que a emissão prévia de uma autorização de importação pelo país de destino é um requisito para a emissão de uma autorização de exportação, o registo atrás mencionado deve indicar o número (se existir) e o local e data de emissão da licença de importação emitida pelo país de destino; será guardada uma cópia dessa licença, em conformidade com o disposto no n° 4 do artigo 2° do regulamento de base;\n\nd) Assegurar-se aquando da conclusão do contrato com o transportador que a remessa está sempre acompanhada durante o transporte de uma cópia da autorização referida no n° 1 a qual é apresentada e guardada na estância aduaneira do ponto de saída do território aduaneiro da comunidade por um período não inferior a três anos a contar do termo do ano civil em que a operação ocorreu;\n\ne) Transmitir, no final de cada trimestre, informações resumidas sobre as operações de exportação efectuadas ao abrigo da autorização. Tal resumo, cujo conteúdo será determinado em pormenor pela autoridade competente do Estado-membro em questão deve conter, pelo menos, informações sobre o número de operações, as substâncias, as quantidades e os países de destino envolvidos.\n\nNos casos de não fornecimento desta informação, a autorização pode ser suspensa ou revogada;\n\nf) Informar as autoridades emissoras de qualquer alteração das informações fornecidas em conformidade com o n° 1 ou qualquer outra informação solicitada por essa autoridade.\n\n5. O formulário da autorização geral individual prevista no n° 1 é emitido em conformidade com as especificações enumeradas no anexo V."
+  },
+  "ab3d7dad5d8d95a4": {
+   "fragment_id": "Artigo 6° — Substâncias classificadas",
+   "type": "artigo",
+   "heading": "Artigo 6° — Substâncias classificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6° — Substâncias classificadas\n\nO anexo do regulamento de base é substituído pelo seguinte:\n\n« ANEXO >POSIÇÃO NUMA TABELA>\n\nOs sais das substâncias enumeradas na presente categoria, sempre que a sua existência seja possível. >POSIÇÃO NUMA TABELA>\n\nOs sais das substâncias enumeradas na presente categoria, sempre que a sua existência seja possível. >POSIÇÃO NUMA TABELA>\n\nOs sais das substâncias enumeradas nesta categoria, excepto o ácido sulfúrico e o ácido clorídrico, sempre que a existência desses sais seja possível. »"
+  },
+  "daa65524e2f889f1": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 21 de Dezembro de 1992. Pela Comissão\n\nChristiane SCRIVENER\n\nMembro da Comissão"
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "e1adc1d3542ad1cc": {
+   "fragment_id": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >POSIÇÃO NUMA TABELA>"
+  },
+  "0004c1c8f74e98b3": {
+   "fragment_id": "ANEXO IV — AUTORIZAÇÃO INDIVIDUAL PARA A EXPORTAÇÃO DE SUBSTÂNCIAS QUE FIGURAM NO ANEXO DO REGULAMENTO (CEE) N° 3677/90",
+   "type": "divisao",
+   "heading": "ANEXO IV — AUTORIZAÇÃO INDIVIDUAL PARA A EXPORTAÇÃO DE SUBSTÂNCIAS QUE FIGURAM NO ANEXO DO REGULAMENTO (CEE) N° 3677/90",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — AUTORIZAÇÃO INDIVIDUAL PARA A EXPORTAÇÃO DE SUBSTÂNCIAS QUE FIGURAM NO ANEXO DO REGULAMENTO (CEE) N° 3677/90\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\nNOTAS\n\n1. As casas 1, 3, 4 e 6 a 18 devem ser completadas pelo requerente aquando da apresentação do pedido; contudo, as informações solicitadas nas casas 9 a 12 e 17 podem ser prestadas posteriormente, caso ainda não se disponha de tais informações no momento da apresentação do pedido. Neste caso a informação a indicar na casa 17 deve ser prestada o mais tardar no momento da entrega da declaração aduaneira de exportação e as informações a indicar nas casas 9 a 12 devem ser prestadas às autoridades competentes do ponto de saída do território comunitário o mais tardar antes da saída efectiva das mercadorias.\n\n2. Casas 1, 4, 6 e 8: indicar os nomes e endereços completos, bem como o objecto social.\n\n3. Casa 6: indicar o nome e endereço completos de qualquer outro operador envolvido na operação de exportação como, por exemplo, o transportador, ou agente aduaneiro.\n\n4. Casa 8: indicar o nome e endereço completos da pessoa ou empresa a quem serão entregues as mercadorias no país de destino (não necessariamente o utilizador final).\n\n5. Casas 9 e 10: indicar o nome do porto, do aeroporto ou do ponto da fronteira.\n\n6. Casa 11: especificar todos os meios de transporte a utilizar (por exemplo camião, navio, avião, comboio, etc.).\n\n7. Casa 12: dar o máximo de pormenores possíveis sobre a rota a adoptar.\n\n8. Casas 13 e 14: indicar o nome da substância se o código NC em conformidade com o anexo ao regulamento de base.\n\n9. Casas 13a e b: identificar os volumes e substâncias com precisão (por exemplo, dois bidões de 5 litros). No caso de misturas, indicar a designação comercial e os dados quantitativos respectivos.\n\n10. Casa 18: indicar em letras de imprensa o nome do requerente e, sendo o caso, do seu representante devidamente autorizado que assina o pedido.\n\nA assinatura do requerente ou do seu representante deve incluir, em conformidade com as disposições previstas pelo Estado-membro, uma declaração em como todos os elementos fornecidos no pedido são correctos e completos. Sem prejuízo da aplicação eventual de disposições repressivas, esta declaração é equivalente a um compromisso de responsabilidade, em conformidade com as disposições em vigor no Estado-membro em relação:\n\n- à exactidão das indicações que figuram na declaração,\n\n- à autenticidade de qualquer documento junto, e\n\n- ao respeito do conjunto das obrigações relativas à exportação das substâncias inventariadas enumeradas no anexo do Regulamento (CEE) n° 3677/90, alterado.\n\nQuando a emissão da autorização for feita por processos informáticos, o documento de autorização que é emitido pode não conter a assinatura na casa 18, desde que o próprio pedido tenha essa assinatura."
+  },
+  "02e64ca2280da893": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nNotas relativas à autorização geral individual de exportação das substâncias que constam das categorias 2 e 3 do anexo ao Regulamento (CEE) n° 3677/90\n\n1. O modelo de autorização geral e individual é idêntico ao que figura no anexo IV.\n\n2. Sobre todo o documento será inscrita em diagonal a menção:\n\nLicencia genérica individual\n\nAAben individuel eksporttilladelse\n\nOffene Einzelgenehmigung\n\nÁíïéêôÞ êáôUE ðaañssðôùóç UEaeaaéá aaîáãùãÞò\n\nOpen individual export authorization\n\nAutorisation générale individuelle\n\nAutorizzazione singola aperta all'esportazione\n\nIndividuele open vergunning\n\nAutorização geral individual.\n\n3. Apenas as casas 1, 2, 5, 13 e 19 devem ser preenchidas. Todavia, na casa 13 deve figurar a lista das substâncias para as quais é solicitada autorização bem como os respectivos países de destino."
+  },
+  "d77f288153b7ed97": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R3769 — PT — 18.08.2005 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R3769) [REGULAMENTO (CEE) N.º 3769/92 DA COMISSÃO](http://publications.europa.eu/resource/celex/31992R3769) [de 21 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992R3769) [relativo à execução do Regulamento (CEE) n.º 3677/90 que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico de estupefacientes e de substâncias psicotrópicas](http://publications.europa.eu/resource/celex/31992R3769) (JO L 383, 29.12.1992, p.17)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1277/2005 da Comissão de 27 de Julho de 2005](http://publications.europa.eu/resource/celex/32005R1277) — L 202 — 7 — 3.8.2005"
+  }
+ }
+}

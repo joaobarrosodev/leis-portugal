@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012L0031:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0031-20121115",
+ "dre_path": null,
+ "source_lastmod": "2012-11-15",
+ "versions": [
+  {
+   "date": "2012-10-26",
+   "future": false,
+   "celex": "32012L0031",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9f48c53daa6ee819",
+    "4806b8553be8db56",
+    "d2d85cb52f532b34",
+    "9109a091b79074a2",
+    "13084e0f69b08921",
+    "162c74bf2fba892f"
+   ]
+  }
+ ],
+ "fragments": {
+  "9f48c53daa6ee819": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de outubro de 2012\n\nque altera o anexo IV da Diretiva 2006/88/CE do Conselho no que respeita à lista de espécies de peixes sensíveis à septicemia hemorrágica viral e à supressão da entrada relativa à síndrome ulcerativa epizoótica\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2006/88/CE do Conselho, de 24 de outubro de 2006, relativa aos requisitos zoossanitários aplicáveis aos animais de aquicultura e produtos derivados, assim como à prevenção e à luta contra certas doenças dos animais aquáticos [([^1])](http://publications.europa.eu/resource/cellar/fb3059d1-b8f6-4519-b6c0-ca029c6dbe1a.0021.03/DOC_1#ntr1-L_2012297PT.01002601-E0001), nomeadamente o artigo 61.º, n.º 2,\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2006/88/CE estabelece, entre outras, determinadas regras de sanidade animal aplicáveis aos animais de aquicultura e produtos derivados, incluindo disposições específicas relativas às doenças exóticas e não exóticas, bem como às espécies sensíveis a essas doenças, enumeradas no anexo IV, parte II, da referida diretiva.\n\n(2) A síndrome ulcerativa epizoótica (SUE) está incluída na lista de doenças exóticas constante do anexo IV, parte II, da Diretiva 2006/88/CE.\n\n(3) No anexo IV, parte I, da Diretiva 2006/88/CE estabelecem-se os critérios a aplicar para a inclusão de doenças na lista da parte II como doenças exóticas ou não exóticas. De acordo com esses critérios, uma doença exótica, se for introduzida na União, tem de poder ter repercussões económicas importantes, pelo facto de poder ocasionar perdas de produção na aquicultura da União ou restringir as potenciais trocas comerciais de animais de aquicultura e produtos derivados. Em alternativa, se for introduzida na União, tem de poder ter efeitos ambientais prejudiciais para as populações de animais aquáticos selvagens pertencentes a espécies que façam parte do património que deve ser protegido pelo direito da União ou por disposições do direito internacional.\n\n(4) Em 15 de setembro de 2011, o Painel da Saúde e Bem-Estar Animal da Autoridade Europeia para a Segurança dos Alimentos (AESA) adotou um parecer científico sobre a síndrome ulcerativa epizoótica [([^2])](http://publications.europa.eu/resource/cellar/fb3059d1-b8f6-4519-b6c0-ca029c6dbe1a.0021.03/DOC_1#ntr2-L_2012297PT.01002601-E0002) (o parecer da AESA). Nesse parecer, a AESA conclui que o impacto da SUE na aquicultura da União se situaria entre a ausência de impacto e um impacto reduzido.\n\n(5) Além disso, o parecer da AESA refere que é provável que a SUE tenha entrado reiteradamente na UE através da importação de peixes ornamentais provenientes de países terceiros e que esses peixes podem ter disseminado a doença nas águas da União. Nestas circunstâncias, e considerando que não se registaram surtos de SUE na União, não existem indícios que sugiram que a SUE tem potencial para apresentar efeitos ambientais prejudiciais.\n\n(6) Atendendo às conclusões da AESA e às provas científicas disponíveis, a SUE deixou de satisfazer os critérios constantes do anexo IV, parte I, da Diretiva 2006/88/CE para poder ser elencada na sua parte II.\n\n(7) Por conseguinte, é adequado suprimir a entrada relativa à síndrome ulcerativa epizoótica da lista de doenças exóticas constante do anexo IV, parte II, da Diretiva 2006/88/CE.\n\n(8) Adicionalmente, no anexo IV, parte II, da Diretiva 2006/88/CE enumera-se uma lista de espécies consideradas sensíveis à septicemia hemorrágica viral.\n\n(9) O falso-alabote-japonês (*Paralichthys olivaceus*) é sensível à doença não exótica septicemia hemorrágica viral. Confirmaram-se surtos clínicos dessa doença em determinadas regiões da Ásia.\n\n(10) É consequentemente adequado incluir o falso-alabote-japonês (*Paralichthys olivaceus*) na lista de espécies sensíveis à septicemia hemorrágica viral constante do anexo IV, parte II, da Diretiva 2006/88/CE.\n\n(11) O anexo IV da Diretiva 2006/88/CE deve, por conseguinte, ser alterado em conformidade.\n\n(12) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "4806b8553be8db56": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo IV da Diretiva 2006/88/CE é alterado em conformidade com o anexo da presente diretiva."
+  },
+  "d2d85cb52f532b34": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem adotar e publicar, até 1 de janeiro de 2013, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\n2. Os Estados-Membros devem aplicar as referidas disposições a partir de 1 de janeiro de 2013.\n\n3. As disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência.\n\n4. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "9109a091b79074a2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "13084e0f69b08921": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 25 de outubro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "162c74bf2fba892f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/fb3059d1-b8f6-4519-b6c0-ca029c6dbe1a.0021.03/DOC_1#ntc1-L_2012297PT.01002601-E0001) [JO L 328 de 24.11.2006, p. 14](http://publications.europa.eu/resource/oj/JOL_2006_328_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/fb3059d1-b8f6-4519-b6c0-ca029c6dbe1a.0021.03/DOC_1#ntc2-L_2012297PT.01002601-E0002) *EFSA Journal* 2011; 9(10):2387."
+  }
+ }
+}

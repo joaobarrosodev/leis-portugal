@@ -1,0 +1,515 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139472778:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-147104794",
+ "dre_path": "/dr/detalhe/portaria/180-a-2020-139472778",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "147103943",
+    "147103944",
+    "147103945",
+    "147103947",
+    "147103948",
+    "147103949",
+    "147103950",
+    "147103951",
+    "147103952",
+    "147103953",
+    "147103954",
+    "147103955",
+    "147103956",
+    "147103957",
+    "147103958",
+    "147103959",
+    "147103960",
+    "147103961",
+    "147103962",
+    "147103963",
+    "147103964",
+    "147103965",
+    "147103966",
+    "147103967",
+    "147103968",
+    "147103969",
+    "147103970",
+    "147103971",
+    "147103972",
+    "147103973",
+    "147103974",
+    "147219475",
+    "147219476",
+    "147219477",
+    "147219478",
+    "147219479",
+    "147219480",
+    "147219481",
+    "147219482",
+    "147219483",
+    "147219484",
+    "147219485",
+    "147219486",
+    "147219487",
+    "147219488",
+    "147219489"
+   ]
+  },
+  {
+   "date": "2020-11-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147101683:por",
+     "title": "Portaria n.º 257/2020",
+     "published": "2020-10-30",
+     "dre_path": "/dr/detalhe/portaria/257-2020-147101683"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "147103943",
+    "147103944",
+    "147103945",
+    "147103946",
+    "147103947",
+    "147103948",
+    "147103949",
+    "147103950",
+    "147103951",
+    "147219490",
+    "147103953",
+    "147103954",
+    "147103955",
+    "147103956",
+    "147103957",
+    "147103958",
+    "147103959",
+    "147103960",
+    "147103961",
+    "147103962",
+    "147103963",
+    "147103964",
+    "147103965",
+    "147103966",
+    "147103967",
+    "147103968",
+    "147103969",
+    "147103970",
+    "147103971",
+    "147103972",
+    "147103973",
+    "147103974",
+    "147219475",
+    "147219476",
+    "147219477",
+    "147219478",
+    "147219479",
+    "147219480",
+    "147219481",
+    "147219482",
+    "147219483",
+    "147219484",
+    "147219485",
+    "147219486",
+    "147219487",
+    "147219488",
+    "147219489"
+   ]
+  }
+ ],
+ "fragments": {
+  "147103943": {
+   "fragment_id": "147104795",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 180-A/2020\n\nde 3 de agosto\n\nSumário: Regulamento Geral dos Concursos Institucionais para Ingresso nos Cursos Ministrados em Estabelecimentos de Ensino Superior Privado para a Matrícula e Inscrição no Ano Letivo de 2020-2021.\n\nO regime geral de acesso ao ensino superior é regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho, e 11/2020, de 2 de abril.\n\nNos termos dos artigos 29.º e 30.º desse diploma, a candidatura aos cursos ministrados em estabelecimentos de ensino superior privado é feita através de concursos institucionais por estes organizados, competindo ao ministro da tutela do ensino superior, ouvida a Comissão Nacional de Acesso ao Ensino Superior, aprovar, por portaria, o regulamento geral dos concursos institucionais.\n\nO regulamento aprovado pela presente portaria foi colocado em consulta pública nos termos previstos na alínea c) do n.º 3 do artigo 100.º do Código do Procedimento Administrativo.\n\nAssim:\n\nConsiderando o disposto nas deliberações da Comissão Nacional de Acesso ao Ensino Superior;\n\nOuvida a Comissão Nacional de Acesso ao Ensino;\n\nAo abrigo do artigo 30.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, e do n.º 4 do artigo 2.º do Decreto-Lei n.º 33/2020, de 1 de julho, manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "147103944": {
+   "fragment_id": "147104796",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado o Regulamento Geral dos Concursos Institucionais para Ingresso nos Cursos Ministrados em Estabelecimentos de Ensino Superior Privado para a Matrícula e Inscrição no Ano Letivo de 2020-2021, cujo texto se publica em anexo a esta portaria e da qual faz parte integrante."
+  },
+  "147103945": {
+   "fragment_id": "147104797",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nEsta portaria entra em vigor no dia útil seguinte ao da sua publicação."
+  },
+  "147103947": {
+   "fragment_id": "147104799",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "147103948": {
+   "fragment_id": "147104800",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "147103949": {
+   "fragment_id": "147104801",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento disciplina os concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privado, a que se refere o artigo 29.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, para a matrícula e inscrição no ano letivo de 2020-2021."
+  },
+  "147103950": {
+   "fragment_id": "147104802",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs concursos institucionais objeto do presente Regulamento abrangem exclusivamente os pares estabelecimento/ciclo de estudos divulgados para o efeito no Guia da Candidatura ao Ensino Superior Privado, disponível no sítio da Internet da Direção-Geral do Ensino Superior (DGES)."
+  },
+  "147103951": {
+   "fragment_id": "147104803",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais de apresentação aos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições gerais de apresentação aos concursos\n\nPode apresentar-se aos concursos o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente concluído até ao ano letivo de 2019-2020, inclusive;\n\nb) Fazer prova de capacidade para a frequência do ensino superior;\n\nc) Não estar abrangido pelo estatuto do estudante internacional regulado pelo Decreto-Lei n.º 36/2014, de 10 de março, alterado e republicado pelo Decreto-Lei n.º 62/2018, de 6 de agosto."
+  },
+  "147103952": {
+   "fragment_id": "147104804",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazos\n\n1 - Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino, devendo ser objeto de divulgação pública prévia pelo mesmo.\n\n2 - O prazo para a matrícula e inscrição referente às colocações na última fase de candidatura que seja aberta nos termos do artigo 30.º não pode ultrapassar o último dia útil do mês de outubro."
+  },
+  "147103953": {
+   "fragment_id": "147104805",
+   "type": 11,
+   "heading": "Artigo 5.º — Validade dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Validade dos concursos\n\nOs concursos são válidos apenas para o ano a que respeitam."
+  },
+  "147103954": {
+   "fragment_id": "147104806",
+   "type": 1,
+   "heading": "Capítulo II — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Candidatura"
+  },
+  "147103955": {
+   "fragment_id": "147104807",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições para a candidatura a cada par estabelecimento/ciclo de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições para a candidatura a cada par estabelecimento/ciclo de estudos\n\n1 - Para a candidatura a cada par estabelecimento/ciclo de estudos, o estudante deve satisfazer cumulativamente as seguintes condições:\n\na) Ter realizado as provas de ingresso fixadas para esse par estabelecimento/ciclo de estudos;\n\nb) Ter obtido em cada uma das provas de ingresso fixadas para esse par estabelecimento/ciclo de estudos a classificação mínima fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino, nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual;\n\nc) Ter satisfeito os pré-requisitos quando fixados para ingresso nesse par estabelecimento/ciclo de estudos;\n\nd) Ter obtido, na nota de candidatura, a classificação mínima fixada para esse par estabelecimento/ciclo de estudos pelo órgão legal e estatutariamente competente do estabelecimento de ensino, nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.\n\n2 - As condições para a candidatura são divulgadas no sítio da Internet da DGES."
+  },
+  "147103956": {
+   "fragment_id": "147104808",
+   "type": 11,
+   "heading": "Artigo 7.º — Provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Provas de ingresso\n\n1 - As provas de ingresso realizam-se através dos exames finais nacionais do ensino secundário nos termos fixados por deliberação da Comissão Nacional de Acesso ao Ensino Superior (CNAES) publicada na 2.ª série do Diário da República e divulgada no sítio da Internet da DGES.\n\n2 - Os exames finais nacionais do ensino secundário que podem ser utilizados como provas de ingresso na 1.ª fase do concurso são os fixados por deliberação da CNAES publicada na 2.ª série do Diário da República e divulgada no sítio da Internet da DGES.\n\n3 - Os pares estabelecimento/ciclo de estudos a que se aplica o disposto no artigo 20.º-A do Decreto-Lei n.º 296-A/98, na sua redação atual, e os termos e condições em que esta norma se aplica, são os fixados por deliberação da CNAES publicada na 2.ª série do Diário da República e divulgada no sítio da Internet da DGES.\n\n4 - Sem prejuízo do disposto no artigo seguinte, na candidatura a cada um dos pares estabelecimento/ciclo de estudos a que se aplica o disposto no artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, os candidatos titulares dos cursos não portugueses, legalmente equivalentes ao ensino secundário português, indicados na deliberação da CNAES a que se refere o número anterior podem, nos termos e condições fixados na mesma, substituir as provas de ingresso por exames finais de disciplinas daqueles cursos."
+  },
+  "147103957": {
+   "fragment_id": "147104809",
+   "type": 11,
+   "heading": "Artigo 8.º — Substituição de provas em sistemas educativos sem exames finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Substituição de provas em sistemas educativos sem exames finais\n\n1 - Na candidatura a cada um dos pares instituição/ciclo de estudos a que se aplica o disposto no artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, os candidatos titulares de cursos de nível secundário da França, Reino Unido, Suíça, Canadá, Bélgica, Cabo Verde, Holanda e Noruega, dos cursos de nível secundário lecionados no âmbito das Escolas Europeias, International Baccalaureate e Cambridge Assessment International Education bem como outros países onde se tenha determinado o cancelamento dos exames finais do ensino secundário como medida de mitigação da pandemia COVID-19:\n\na) Devem comprovar a aprovação nas disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam;\n\nb) Utilizam para efeitos de cálculo de nota de candidatura, em substituição das provas de ingresso, a classificação final das disciplinas referidas na alínea anterior, convertida para a escala de 0 a 200.\n\n2 - A dispensa estabelecida pelo número anterior não abrange os exames terminais de ensino secundário concluídos em anos letivos anteriores sendo, nesses casos, utilizada a classificação do exame terminal já realizado, nem aqueles que não tenham sido considerados homólogos das provas de ingresso por deliberação da Comissão Nacional de Acesso ao Ensino Superior.\n\n3 - Em cada par instituição/ciclos de estudos, em cada fase, são criadas vagas autónomas destinadas exclusivamente a candidatos titulares de cursos não portugueses abrangidos pelo presente artigo cuja nota de candidatura seja superior à classificação do último colocado pelo contingente através do qual concorreu a esse par.\n\n4 - As vagas autónomas referidas no número anterior são fixadas até ao limite correspondente ao número mais elevado de vagas ocupadas nesse par instituição/ciclos de estudos, ou nos seus ciclos de estudos precedentes, nos anos letivos 2017-2018, 2018-2019 e 2019-2020, por candidatos titulares dos cursos não portugueses abrangidos pelo presente artigo.\n\n5 - Nos pares instituição/ciclos de estudo que não fixaram vagas nos anos letivos referidos no número anterior ou que, tendo-as fixado, não tenham sido as mesmas ocupadas em qualquer um dos anos por candidatos titulares dos cursos não portugueses abrangidos pelo presente artigo, são fixadas até duas vagas autónomas."
+  },
+  "147103958": {
+   "fragment_id": "147104810",
+   "type": 11,
+   "heading": "Artigo 9.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vagas\n\nAs vagas para os concursos são fixadas pelos órgãos legal e estatutariamente competentes de cada estabelecimento de ensino, nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, e divulgadas no sítio da Internet da DGES."
+  },
+  "147103959": {
+   "fragment_id": "147104811",
+   "type": 11,
+   "heading": "Artigo 10.º — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pré-requisitos\n\n1 - Os pares estabelecimento/ciclo de estudos para que é exigida a satisfação de pré-requisitos quando as aptidões físicas, funcionais ou vocacionais assumam particular relevância para o ingresso são os constantes de deliberação da CNAES publicada na 2.ª série do Diário da República e divulgada no sítio da Internet da DGES.\n\n2 - A avaliação e a comprovação dos pré-requisitos são feitas nos termos fixados por deliberação da CNAES publicada na 2.ª série do Diário da República e divulgada no sítio da Internet da DGES.\n\n3 - Os estabelecimentos de ensino que procedem à avaliação de pré-requisitos cuja satisfação é verificada através de provas de aptidão física, funcional ou vocacional certificam os resultados do pré-requisito através da ficha pré-requisitos 2020, de modelo aprovado pelo diretor-geral do Ensino Superior, que é entregue ao candidato, e comunicam, obrigatoriamente, à DGES os resultados dos mesmos, nos termos e prazos por esta fixados."
+  },
+  "147103960": {
+   "fragment_id": "147104812",
+   "type": 11,
+   "heading": "Artigo 11.º — Modo de realização da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Modo de realização da candidatura\n\n1 - A candidatura consiste na indicação, por ordem decrescente de preferência, dos cursos para os quais o estudante dispõe das condições de candidatura adequadas e onde se pretende inscrever.\n\n2 - As indicações referidas no n.º 1 são feitas no formulário de candidatura, nos termos fixados pelo estabelecimento de ensino.\n\n3 - Os erros ou omissões cometidos no preenchimento do formulário de candidatura, ou na instrução do processo de candidatura, são da exclusiva responsabilidade do candidato.\n\n4 - Têm-se como não inscritas, sem obrigatoriedade de notificação ou de comunicação expressa aos candidatos, as opções indicadas no formulário de candidatura que respeitem a cursos para os quais o candidato não comprove satisfazer qualquer uma das condições previstas no artigo 6.º"
+  },
+  "147103961": {
+   "fragment_id": "147104813",
+   "type": 11,
+   "heading": "Artigo 12.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura é apresentada no estabelecimento de ensino onde o candidato se pretende matricular e inscrever.\n\n2 - O prazo para a apresentação da candidatura é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino, devendo ser objeto de divulgação pública prévia pelo estabelecimento de ensino."
+  },
+  "147103962": {
+   "fragment_id": "147104814",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação da candidatura\n\nTêm legitimidade para efetuar a apresentação da candidatura:\n\na) O estudante;\n\nb) Um seu procurador bastante;\n\nc) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar."
+  },
+  "147103963": {
+   "fragment_id": "147104815",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura deve ser instruído com:\n\na) Formulário de candidatura, nos termos fixados pelo estabelecimento de ensino;\n\nb) Ficha ENES 2020: documento comprovativo da titularidade do curso de ensino secundário e da respetiva classificação e das classificações obtidas nos exames finais nacionais do ensino secundário correspondentes às provas de ingresso exigidas para os pares estabelecimento/ciclo de estudos a que concorre;\n\nc) Ficha pré-requisitos 2020: documento comprovativo da satisfação dos pré-requisitos que exigem a realização de provas de aptidão física, funcional ou vocacional, se necessários para os pares estabelecimento/ciclo de estudos a que concorre.\n\n2 - O processo de candidatura deve ser igualmente instruído, quando aplicável:\n\na) Com documento comprovativo da satisfação dos pré-requisitos que sejam de comprovação meramente documental não exigindo a realização de provas de aptidão física, funcional ou vocacional;\n\nb) Da satisfação do disposto nas alíneas a), b), c) ou d) do n.º 2 do artigo 3.º do Decreto-Lei n.º 36/2014, de 10 de março, alterado e republicado pelo Decreto-Lei n.º 62/2018, de 6 de agosto, conforme a situação em causa.\n\n3 - O disposto na alínea b) do n.º 1 também se aplica aos estudantes que pretendam utilizar exames nacionais do ensino secundário realizados em 2018 e 2019 correspondentes às provas de ingresso exigidas para os pares estabelecimento/ciclo de estudos a que concorrem, pelo que também devem instruir o processo de candidatura com a ficha ENES 2020, cuja emissão solicitam na escola secundária onde realizaram os exames finais nacionais.\n\n4 - Para os estudantes titulares de um curso de ensino secundário organizado em dois ciclos de dois e um anos, a ficha ENES 2020 deve conter a classificação obtida em cada um dos ciclos (10.º + 11.º e 12.º anos de escolaridade).\n\n5 - Os candidatos que tenham obtido a titularidade de um curso de ensino secundário através de equivalência devem apresentar, no estabelecimento de ensino secundário onde realizam os exames finais nacionais do ensino secundário correspondentes às provas de ingresso exigidas para os pares estabelecimento/ciclo de estudos a que concorrem, documento comprovativo daquela, emitido pela entidade legalmente competente, contendo todos os elementos necessários ao processo de candidatura, designadamente a classificação a que se refere o n.º 5 do artigo 21.º\n\n6 - Os candidatos que, nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, pretendam substituir as provas de ingresso por exames finais de cursos não portugueses legalmente equivalentes ao ensino secundário português devem preencher o formulário eletrónico disponibilizado no sítio da Internet da DGES nos termos do disposto no artigo 16.º\n\n7 - Os candidatos que, nos termos do artigo 8.º do presente Regulamento, pretendam substituir as provas de ingresso pelas classificações nas disciplinas correspondentes do respetivo ensino secundário, devem indicar esta pretensão, no local apropriado do formulário online.\n\n8 - No ato da candidatura, os serviços competentes do estabelecimento de ensino fazem a conferência dos dados de identificação do candidato através da apresentação obrigatória do cartão de cidadão ou do bilhete de identidade, podendo, em alternativa, o candidato entregar uma fotocópia simples de um destes documentos."
+  },
+  "147103964": {
+   "fragment_id": "147104816",
+   "type": 11,
+   "heading": "Artigo 15.º — Emigrantes portugueses e familiares que com eles residam Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Emigrantes portugueses e familiares que com eles residam Instrução do processo de candidatura\n\n1 - Para efeitos do disposto neste Regulamento:\n\na) É emigrante português o cidadão nacional que tenha residido durante, pelo menos, dois anos, com caráter permanente, em país estrangeiro onde tenha exercido atividade remunerada por conta própria ou por conta de outrem;\n\nb) É familiar de emigrante português o cônjuge, o parente ou afim em qualquer grau da linha reta e até ao 3.º grau da linha colateral que com ele tenha residido, com caráter permanente, no estrangeiro, por período não inferior a dois anos e que não tenha idade superior a 25 anos em 31 de dezembro de 2020;\n\nc) Considera-se como familiar de emigrante português, para efeitos da alínea anterior, desde que cumpridos os requisitos nela fixados, a pessoa que com ele viva em união de facto ou economia comum, nos termos previstos em legislação específica.\n\n2 - Os candidatos que sejam ou tenham sido emigrantes portugueses ou familiares que com eles residam ou tenham residido, devem apresentar:\n\na) Documento comprovativo da situação de emigrante ou de seu familiar, emitido por autoridade diplomática ou consular portuguesa;\n\nb) Quando concorrem com a titularidade do ensino secundário português:\n\ni) Ficha ENES 2020;\n\nii) Documento comprovativo de conclusão do curso de ensino secundário;\n\nc) Quando concorrem com a titularidade do diploma estrangeiro de curso de ensino secundário do respetivo país ou nele obtido:\n\ni) Documento comprovativo da titularidade do curso do ensino secundário obtido no país de emigração e da respetiva classificação, em substituição da ficha ENES 2020;\n\nii) Declaração, emitida pelos serviços oficiais de educação do país de emigração, atestando que a habilitação secundária de que são titulares, obtida nesse país, é suficiente para aí ingressar no ensino superior oficial em cursos congéneres daqueles a que se pretendem candidatar, ou certificado de equivalência ao ensino secundário português emitido pela entidade nacional competente;\n\nd) Quando concorrem com parte do curso do ensino secundário desse país e a totalidade do ciclo de ensino que precede o ensino secundário no sistema educativo em causa, devem apresentar documento comprovativo de ambas as situações, emitido pela entidade nacional competente.\n\n3 - Os documentos referidos na subalínea i) da alínea c) e na alínea d) do número anterior devem ser autenticados pelos serviços oficiais de educação do respetivo país e reconhecidos pela autoridade diplomática ou consular portuguesa ou trazer a apostilha da Convenção de Haia, o mesmo devendo acontecer relativamente às traduções de documentos cuja língua original não seja a espanhola, a francesa ou a inglesa.\n\n4 - A declaração referida na subalínea ii) da alínea c) do n.º 2 deve ser reconhecida pela autoridade diplomática ou consular portuguesa ou trazer a apostilha da Convenção de Haia, o mesmo devendo acontecer relativamente às traduções de declarações cuja língua original não seja a espanhola, a francesa ou a inglesa."
+  },
+  "147103965": {
+   "fragment_id": "147104817",
+   "type": 11,
+   "heading": "Artigo 16.º — Instrução do processo de candidatura - Candidatos que pretendem a substituição de provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instrução do processo de candidatura - Candidatos que pretendem a substituição de provas de ingresso\n\n1 - Os candidatos que, nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, pretendam substituir as provas de ingresso por exames finais de cursos não portugueses legalmente equivalentes ao ensino secundário português devem indicar essa pretensão, em cada fase do concurso, no formulário online disponibilizado no sítio da Internet da DGES, bem como os pares estabelecimento/ciclo de estudos e provas de ingresso a abranger, e submeter, através do formulário online, os originais dos seguintes documentos:\n\na) Em substituição da ficha ENES 2020, documento emitido pela entidade legalmente competente do país a que respeita a habilitação do ensino secundário não português, indicando:\n\ni) A classificação final do curso;\n\nii) As classificações obtidas, nos anos 2018, e ou 2019, e ou 2020, nos exames finais desse curso que pretendem que substituam as provas de ingresso;\n\nb) Documento comprovativo da equivalência do curso de ensino estrangeiro ao ensino secundário português, incluindo a classificação final do curso convertida para a escala de 0 a 200.\n\n2 - Os candidatos que, nos termos do artigo 8.º do presente Regulamento, pretendam substituir as provas de ingresso pelas classificações nas disciplinas correspondentes do respetivo ensino secundário devem indicar essa pretensão, em cada fase do concurso, no formulário online disponibilizado no sítio da Internet da DGES, bem como os pares instituição/ciclo de estudos e provas de ingresso a abranger, e submeter, através do sistema de candidatura online, os seguintes documentos:\n\na) Em substituição da ficha ENES 2020, documento emitido pela entidade legalmente competente do país a que respeita a habilitação do ensino secundário não português, indicando:\n\ni) A classificação final do curso;\n\nii) As classificações obtidas, nos anos de 2018, e ou 2019, nos exames finais desse curso que pretendem que substituam as provas de ingresso;\n\niii) As classificações obtidas no ano de 2020, nas disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam;\n\nb) Documento comprovativo da equivalência do curso de ensino estrangeiro ao ensino secundário português, incluindo a classificação final do curso convertida para a escala de 0 a 200.\n\n3 - Em caso de omissão ou erro no preenchimento do formulário online, referido no número anterior, o candidato não beneficia da substituição das provas de ingresso.\n\n4 - A decisão sobre os pedidos de substituição de provas de ingresso referidos nos n.os 1 e 2 é da competência do diretor-geral do Ensino Superior."
+  },
+  "147103966": {
+   "fragment_id": "147104818",
+   "type": 11,
+   "heading": "Artigo 17.º — Recibo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recibo\n\nDa candidatura é disponibilizado ao apresentante, como recibo, um duplicado do respetivo formulário de candidatura."
+  },
+  "147103967": {
+   "fragment_id": "147104819",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração da candidatura\n\n1 - Sempre que o resultado da reapreciação ou da reclamação de uma classificação de um exame final nacional do ensino secundário, ou de outro elemento considerado no cálculo da nota de candidatura, só seja conhecido após o fim do prazo da candidatura, e dele resulte uma alteração da classificação, é facultada, até três dias úteis após a respetiva divulgação:\n\na) A apresentação da candidatura, aos estudantes que só então reúnam condições para o fazer;\n\nb) A alteração da candidatura, aos candidatos que já a hajam apresentado.\n\n2 - A alteração da candidatura é requerida através do preenchimento de novo formulário de candidatura ou solicitada em impresso de modelo próprio do estabelecimento de ensino."
+  },
+  "147103968": {
+   "fragment_id": "147104820",
+   "type": 11,
+   "heading": "Artigo 19.º — Anulação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Anulação da candidatura\n\nÉ facultada ao candidato a anulação da candidatura dentro do prazo fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino."
+  },
+  "147103969": {
+   "fragment_id": "147104821",
+   "type": 1,
+   "heading": "Capítulo III — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Seriação"
+  },
+  "147103970": {
+   "fragment_id": "147104822",
+   "type": 11,
+   "heading": "Artigo 20.º — Cálculo da nota de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cálculo da nota de candidatura\n\n1 - A nota de candidatura é uma classificação na escala de 0 a 200, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como uma décima o valor não inferior a 0,05:\n\na) Se for exigida uma prova de ingresso:\n\n(S x ps) + (P x pp)\n\nb) Se forem exigidas duas provas de ingresso:\n\n(S x ps) + (P1 x pp1) + (P2 x pp2)\n\nem que:\n\nS = classificação do ensino secundário, fixada nos termos do artigo 21.º;\n\nps = peso atribuído pelo estabelecimento de ensino à classificação do ensino secundário;\n\nP, P1 e P2 = classificações, na escala inteira de 0 a 200, dos exames finais nacionais do ensino secundário correspondentes às provas de ingresso exigidas;\n\npp, pp1 e pp2 = pesos atribuídos pelo estabelecimento de ensino às classificações das provas de ingresso.\n\n2 - Nos cursos em que seja exigida a realização de um pré-requisito de seriação, ou de seleção e seriação, a fórmula é:\n\na) Se for exigida uma prova de ingresso:\n\n(S x ps) + (P x pp) + (pr x R)\n\nb) Se forem exigidas duas provas de ingresso:\n\n(S x ps) + (P1 x pp1) + (P2 x pp2) + (pr x R)\n\nem que:\n\npr = peso atribuído pelo estabelecimento de ensino à classificação do pré-requisito;\n\nR = classificação atribuída ao pré-requisito.\n\n3 - Todos os cálculos intermédios são efetuados sem arredondamento."
+  },
+  "147103971": {
+   "fragment_id": "147104823",
+   "type": 11,
+   "heading": "Artigo 21.º — Classificação do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Classificação do ensino secundário\n\n1 - Para os cursos do ensino secundário organizados num só ciclo de três anos, S tem o valor da classificação final do ensino secundário calculada nos termos das normas legais aplicáveis a cada caso no respetivo ano de conclusão, até às décimas, sem arredondamento, e convertida para a escala de 0 a 200.\n\n2 - Para os cursos referidos no número anterior que incluem disciplinas cuja aprovação foi sujeita a exame final obrigatório, são consideradas nos cálculos, como classificações finais dessas disciplinas, a melhor classificação entre a classificação interna e a classificação final da disciplina existente.\n\n3 - O valor da classificação final do ensino secundário dos cursos onde se encontre legalmente prevista uma classificação final específica para efeitos de prosseguimento de estudos é o fixado para este fim.\n\n4 - Para os cursos do ensino secundário regulados pelo Decreto-Lei n.º 139/2012, de 5 de julho, a classificação da disciplina de Educação Física é considerada no cálculo da classificação final do ensino secundário para efeitos de ingresso no ensino superior nos ciclos de estudos de licenciatura classificados, na área de educação e formação 813 (Desporto) da Classificação Nacional das Áreas de Educação e Formação, aprovada pela Portaria n.º 256/2005, de 16 de março.\n\n5 - Para os cursos de ensino secundário já extintos, anteriores ao Decreto-Lei n.º 286/89, de 29 de agosto, S tem o valor da classificação final do ensino secundário atribuída nos termos das normas legais aplicáveis a cada caso, convertida para a escala de 0 a 200.\n\n6 - Para os cursos do ensino secundário organizados em dois ciclos, de dois e um anos, S é calculada através da aplicação da seguinte fórmula:\n\n(0,6 x Sa) + (0,4 x Sb) x 10\n\nem que:\n\nSa = classificação final dos 10.º + 11.º anos de escolaridade ou 1.º + 2.º anos, conforme o caso, fixada nos termos da lei;\n\nSb = classificação final do 12.º ano de escolaridade, fixada nos termos da lei.\n\n7 - Para os cursos de ensino secundário não portugueses legalmente equivalentes a um curso do ensino secundário português, bem como para os cursos de ensino secundário a que se refere o n.º 1 do artigo 15.º, S tem o valor atribuído nos termos das normas que os regulam convertido para a escala de 0 a 200.\n\n8 - Para os candidatos emigrantes portugueses e familiares que com eles residam que concorram com a titularidade do 12.º ano de escolaridade português e que não sejam titulares dos 10.º ou 11.º anos de escolaridade portugueses, Sa é igual a Sb.\n\n9 - Para os candidatos cujo diploma do ensino secundário, nos termos da lei, não inclua a classificação final, essa classificação é fixada nos termos aprovados por deliberação da CNAES, publicada na 2.ª série do Diário da República e divulgada no sítio da Internet da DGES."
+  },
+  "147103972": {
+   "fragment_id": "147104824",
+   "type": 11,
+   "heading": "Artigo 22.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Seriação\n\n1 - A seriação dos candidatos a cada par estabelecimento/ciclo de estudos é realizada pela ordem decrescente das respetivas notas de candidatura.\n\n2 - Em caso de empate, aplicam-se, sucessivamente, as seguintes classificações:\n\na) (P x pp) ou [(P1 x pp1) + (P2 x pp2)], conforme o caso;\n\nb) S ou Sb;\n\nc) Se aplicável, S ou Sa.\n\n3 - A consulta das listas seriadas resultantes da aplicação das regras constantes dos números anteriores é facultada a todos os interessados nos respetivos estabelecimentos de ensino."
+  },
+  "147103973": {
+   "fragment_id": "147104825",
+   "type": 1,
+   "heading": "Capítulo IV — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Colocação"
+  },
+  "147103974": {
+   "fragment_id": "147104826",
+   "type": 11,
+   "heading": "Artigo 23.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas é feita pela ordem decrescente da lista seriada resultante da aplicação dos critérios de seriação a que se refere o artigo 22.º, tendo em consideração a ordem de preferência manifestada na candidatura."
+  },
+  "147219475": {
+   "fragment_id": "147104827",
+   "type": 11,
+   "heading": "Artigo 24.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate resultante da aplicação das regras de seriação a que se refere o artigo 22.º disputem a última vaga, ou o último conjunto de vagas, de um curso são abertas tantas vagas adicionais quantas as necessárias para os admitir."
+  },
+  "147219476": {
+   "fragment_id": "147104828",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência\n\nAs decisões sobre a candidatura são da competência do órgão legal e estatutariamente competente do estabelecimento de ensino."
+  },
+  "147219477": {
+   "fragment_id": "147104829",
+   "type": 11,
+   "heading": "Artigo 26.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Resultado final\n\n1 - O resultado final de cada fase do concurso exprime-se através de uma das seguintes situações:\n\na) Colocado (curso);\n\nb) Não colocado;\n\nc) Excluído da candidatura.\n\n2 - A decisão de não colocado e de excluído da candidatura deve ser fundamentada."
+  },
+  "147219478": {
+   "fragment_id": "147104830",
+   "type": 11,
+   "heading": "Artigo 27.º — Divulgação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Divulgação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado no estabelecimento de ensino e no respetivo sítio na Internet no prazo previamente fixado nos termos do artigo 4.º\n\n2 - Dos avisos afixados constam, relativamente a cada candidato que se tenha apresentado ao concurso:\n\na) Nome;\n\nb) Resultado final.\n\n3 - A menção da decisão de não colocado e de excluído da candidatura é acompanhada da respetiva fundamentação."
+  },
+  "147219479": {
+   "fragment_id": "147104831",
+   "type": 11,
+   "heading": "Artigo 28.º — Reclamações e alterações supervenientes das classificações do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reclamações e alterações supervenientes das classificações do ensino secundário\n\n1 - Do resultado final os candidatos podem apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 4.º, mediante exposição dirigida ao órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n2 - A reclamação é entregue no estabelecimento de ensino onde o reclamante apresentou a candidatura, ou enviada pelo correio, através de carta registada.\n\n3 - São liminarmente rejeitadas as reclamações não identificadas e aquelas cujo objeto seja ininteligível, bem como as que não hajam sido entregues no prazo e local devidos nos termos dos números anteriores.\n\n4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas nos termos do número anterior são notificadas aos reclamantes através de carta registada com aviso de receção, ou através de correio eletrónico desde que o reclamante dê o seu consentimento para este efeito.\n\n5 - Sempre que a decisão sobre a reclamação de uma classificação de um exame final nacional do ensino secundário, ou de outro elemento de que resulte uma alteração da classificação do exame ou da classificação do ensino secundário a que se refere o artigo 21.º, só seja conhecida em data em que já não possa ser considerada, quer para o cálculo da nota de candidatura quer para o exercício do direito a que se refere o artigo 18.º, é facultado, no prazo de três dias úteis após a respetiva divulgação:\n\na) Aos que se hajam candidatado, requerer a alteração do resultado da candidatura;\n\nb) Aos que não se hajam candidatado, apresentar a sua candidatura.\n\n6 - O requerimento de alteração do resultado da candidatura pode abranger a alteração das opções dela constantes.\n\n7 - À decisão sobre os pedidos a que se refere o número anterior aplicam-se, com as devidas adaptações, as regras de retificação de candidaturas estabelecidas no artigo 33.º\n\n8 - A alteração da candidatura é requerida através do preenchimento de novo formulário de candidatura ou solicitada em impresso de modelo próprio do estabelecimento de ensino."
+  },
+  "147219480": {
+   "fragment_id": "147104832",
+   "type": 1,
+   "heading": "Capítulo V — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Matrícula e inscrição"
+  },
+  "147219481": {
+   "fragment_id": "147104833",
+   "type": 11,
+   "heading": "Artigo 29.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Matrícula e inscrição\n\n1 - No prazo fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino, os candidatos têm o direito de proceder à matrícula e inscrição no estabelecimento e curso de ensino superior em que foram colocados no ano letivo de 2020-2021.\n\n2 - A colocação apenas tem efeito no ano letivo a que se refere, pelo que o direito à matrícula e inscrição no estabelecimento e ciclo de estudos em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado nos termos do número anterior."
+  },
+  "147219482": {
+   "fragment_id": "147104834",
+   "type": 11,
+   "heading": "Artigo 30.º — Vagas sobrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Vagas sobrantes\n\n1 - À divulgação dos resultados de cada concurso nos termos do artigo 27.º podem seguir-se uma ou mais fases de candidatura destinadas a ocupar as vagas eventualmente sobrantes.\n\n2 - Em cada uma dessas fases são colocadas a concurso:\n\na) As vagas sobrantes da fase anterior;\n\nb) As vagas ocupadas na fase anterior mas em que não se concretizou a matrícula e inscrição;\n\nc) As vagas ocupadas na fase anterior em que houve anulação da matrícula entretanto realizada, depois de deduzidas as vagas adicionais criadas nos termos do artigo 24.º e as que, até à assinatura do aviso a que se refere o n.º 4, hajam sido criadas ou utilizadas nos termos do n.º 1 do artigo 33.º\n\n3 - A decisão sobre a realização desta fase ou fases de candidatura e os prazos em que as mesmas decorrem compete ao órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4 - As vagas colocadas a concurso e os prazos em que cada fase decorre são objeto de divulgação pública através de aviso afixado no estabelecimento de ensino e divulgado no respetivo sítio na Internet.\n\n5 - As vagas sobrantes da última fase só podem ser utilizadas para a admissão no 1.º ano do par estabelecimento/ciclo de estudos em causa:\n\na) Através dos concursos especiais regulados pelo Decreto-Lei n.º 113/2014, de 16 de julho, alterado pelos Decretos-Leis n.os 63/2016, de 13 de setembro, e 11/2020, de 2 de abril;\n\nb) Através dos concursos para mudança de par estabelecimento/ciclo de estudos a que se refere o Regulamento dos Regimes de Reingresso e de Mudança de Par Instituição/Curso no Ensino Superior, aprovado pela Portaria n.º 181-D/2015, de 19 de junho, alterada pelas Portarias n.os 305/2016, de 6 de dezembro, 249-A/2019, de 5 de agosto, e 150/2020, de 22 de junho."
+  },
+  "147219483": {
+   "fragment_id": "147104835",
+   "type": 11,
+   "heading": "Artigo 31.º — Recolocação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Recolocação institucional\n\n1 - Nos casos em que, terminada a última fase do concurso, o número total de alunos matriculados num par estabelecimento/ciclo de estudos seja inferior a seis, pode haver lugar à recolocação institucional da totalidade dos alunos noutros pares estabelecimento/ciclo de estudos abrangidos por este Regulamento, nos termos dos números seguintes.\n\n2 - São condições cumulativas para a recolocação:\n\na) Quando terminada a última fase do concurso, a existência de vagas nos pares estabelecimento/ciclo de estudos onde se pretende recolocar os alunos;\n\nb) O preenchimento, por parte dos alunos, de todas as condições necessárias para a candidatura ao par estabelecimento/ciclo de estudos onde vão ser recolocados, designadamente:\n\ni) Terem realizado as provas de ingresso exigidas para esse par estabelecimento/ciclo de estudos;\n\nii) Terem a classificação mínima exigida nas provas de ingresso fixadas para esse par estabelecimento/ciclo de estudos;\n\niii) Terem a nota mínima de candidatura exigida para esse par estabelecimento/ciclo de estudos;\n\niv) Preencherem, se exigidos, os pré-requisitos fixados para ingresso nesse par estabelecimento/ciclo de estudos;\n\nc) A anuência dos alunos a recolocar;\n\nd) A anuência dos estabelecimentos de ensino onde os alunos vão ser recolocados;\n\ne) A recolocação da totalidade dos alunos que haviam sido colocados e se matricularam no par estabelecimento/ciclo de estudos em causa.\n\n3 - A decisão sobre o desencadeamento do processo de recolocação compete ao órgão legal e estatutariamente competente do estabelecimento de ensino onde ocorreu a situação referida no n.º 1.\n\n4 - A decisão de recolocação é tomada por decisão conjunta dos órgãos legal e estatutariamente competentes dos dois estabelecimentos de ensino, uma vez verificada a satisfação da totalidade das condições a que se refere o n.º 2.\n\n5 - O estabelecimento de ensino onde o aluno se encontrava colocado:\n\na) Comunica ao aluno, por carta registada com aviso de receção, a recolocação;\n\nb) Remete ao estabelecimento de ensino onde o aluno foi recolocado o respetivo processo, bem como as importâncias recebidas a título de propina de matrícula e de inscrição.\n\n6 - O disposto neste artigo aplica-se, com as necessárias adaptações, à recolocação noutro curso do mesmo estabelecimento de ensino."
+  },
+  "147219484": {
+   "fragment_id": "147104836",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições comuns"
+  },
+  "147219485": {
+   "fragment_id": "147104837",
+   "type": 11,
+   "heading": "Artigo 32.º — Exclusão de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Exclusão de candidatos\n\n1 - Para além dos casos em que, nos termos do presente Regulamento, há lugar à exclusão do concurso, são ainda excluídos deste, a todo o tempo, os candidatos que:\n\na) Não tenham preenchido corretamente o seu formulário de candidatura, quer por omitirem algum elemento, quer por indicarem outros que não correspondam aos constantes dos documentos entregues;\n\nb) Não reúnam as condições para se apresentarem a concurso;\n\nc) Não tenham, sem motivo devidamente justificado perante o órgão legal e estatutariamente competente do estabelecimento de ensino, e aceite por este, completado a instrução dos respetivos processos nos prazos devidos;\n\nd) Prestem falsas declarações.\n\n2 - A decisão sobre a exclusão a que se refere o número anterior é proferida pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n3 - Caso haja sido realizada matrícula e se confirme uma das situações previstas no n.º 1, aquela é anulada, bem como todos os atos praticados ao abrigo da mesma, pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4 - A DGES comunica aos estabelecimentos de ensino as situações que venha a detetar posteriormente à realização da matrícula."
+  },
+  "147219486": {
+   "fragment_id": "147104838",
+   "type": 11,
+   "heading": "Artigo 33.º — Retificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Retificações\n\n1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação, ou esta tenha ocorrido em desconformidade com o resultado aplicável ao caso concreto, o candidato é colocado pelo estabelecimento de ensino no curso em que teria obtido colocação, mesmo que para esse fim seja necessário criar vaga adicional.\n\n2 - A retificação pode ser acionada por iniciativa:\n\na) Do candidato, nos termos do artigo 28.º;\n\nb) Do estabelecimento de ensino;\n\nc) Da DGES.\n\n3 - A retificação pode revestir a forma de colocação, alteração da colocação, passagem à situação de não colocado ou passagem à situação de excluído da candidatura.\n\n4 - As alterações realizadas nos termos deste artigo são notificadas ao candidato através de carta registada com aviso de receção ou através de correio eletrónico desde que o reclamante dê o seu consentimento para este efeito.\n\n5 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos."
+  },
+  "147219487": {
+   "fragment_id": "147104839",
+   "type": 11,
+   "heading": "Artigo 34.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Informação\n\nA informação relevante acerca do acesso e ingresso no ensino superior privado é divulgada, nos termos do artigo 38.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual, através do sítio da Internet da DGES."
+  },
+  "147219488": {
+   "fragment_id": "147104840",
+   "type": 11,
+   "heading": "Artigo 35.º — Comunicação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comunicação de informação\n\n1 - Até 30 dias após a realização da última fase de candidatura, cada estabelecimento de ensino remete à DGES informação acerca dos candidatos nele colocados ao abrigo dos concursos regulados pela presente portaria.\n\n2 - A informação é remetida nos termos fixados em normas técnicas aprovadas pelo diretor-geral do Ensino Superior."
+  },
+  "147219489": {
+   "fragment_id": "147104841",
+   "type": 11,
+   "heading": "Artigo 36.º — Orientações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Orientações\n\nA DGES ou a CNAES, conforme os casos, expedem as orientações que se revelem necessárias à uniforme execução do presente Regulamento.\n\n113459158"
+  },
+  "147103946": {
+   "fragment_id": "147104798",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, em 31 de julho de 2020.\n\nREGULAMENTO GERAL DOS CONCURSOS INSTITUCIONAIS PARA INGRESSO NOS CURSOS MINISTRADOS EM ESTABELECIMENTOS DE ENSINO SUPERIOR PRIVADO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LETIVO DE 2020-2021"
+  },
+  "147219490": {
+   "fragment_id": "147104804",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazos",
+   "in_force_from": "2020-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 257/2020 - Diário da República n.º 212/2020, Série I de 2020-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/257-2020-147101683), em vigor a partir de 2020-11-02"
+   ],
+   "markdown": "###### Artigo 4.º — Prazos\n\n1 - Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino, devendo ser objeto de divulgação pública prévia pelo mesmo.\n\n2 - O prazo para a matrícula e inscrição referente às colocações na última fase de candidatura que seja aberta nos termos do artigo 30.º não pode ultrapassar o dia 16 de novembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 257/2020 - Diário da República n.º 212/2020, Série I de 2020-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/257-2020-147101683), em vigor a partir de 2020-11-02"
+  }
+ }
+}

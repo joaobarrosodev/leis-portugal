@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0117:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0117-20090121",
+ "dre_path": null,
+ "source_lastmod": "2009-01-21",
+ "versions": [
+  {
+   "date": "2009-01-20",
+   "future": false,
+   "celex": "32008L0117",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "95ccb1ed31ddbd5b",
+    "f291c62c62ee81a3",
+    "d15e67e98570af3d",
+    "995255f098bbb5d5",
+    "9e3c2902d524d095",
+    "48b641b70825631a",
+    "87a603cba7a27752"
+   ]
+  }
+ ],
+ "fragments": {
+  "95ccb1ed31ddbd5b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2008\n\nque altera a Directiva 2006/112/CE relativa ao sistema comum do imposto sobre o valor acrescentado, a fim de lutar contra a fraude fiscal ligada às operações intracomunitárias\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 93.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntr1-L_2009014PT.01000701-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntr2-L_2009014PT.01000701-E0002),\n\nConsiderando o seguinte:\n\n(1) A fraude ao imposto sobre o valor acrescentado (IVA) afecta de maneira significativa as receitas fiscais dos Estados-Membros e perturba a actividade económica no mercado interno, criando fluxos de bens não justificados e permitindo que sejam colocados no mercado bens a preços anormalmente baixos.\n\n(2) As deficiências do regime intracomunitário de IVA, nomeadamente as do sistema de intercâmbio de informações sobre as entregas de bens na Comunidade, previsto na Directiva 2006/112/CE da Comissão [([^3])](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntr3-L_2009014PT.01000701-E0003), são uma das causas desta fraude. Em especial, o prazo que decorre entre uma operação e o correspondente intercâmbio de informações no sistema de intercâmbio de informações sobre o IVA constitui um obstáculo à utilização eficaz dessas informações na luta contra a fraude.\n\n(3) A fim de lutar eficazmente contra esta fraude, é necessário que a administração do Estado-Membro no qual o IVA é exigível disponha no prazo máximo de um mês de informações sobre as entregas intracomunitárias de bens.\n\n(4) Para que a verificação cruzada das informações possa ser utilizada na luta contra a fraude, deverá garantir-se que tanto o fornecedor como o adquirente ou destinatário declarem as operações intracomunitárias relativas ao mesmo período fiscal.\n\n(5) Tendo em conta a evolução do contexto e dos instrumentos de trabalho dos operadores, deverá assegurar-se que as declarações possam ser efectuadas através de procedimentos electrónicos simples, a fim de reduzir tanto quanto possível os encargos administrativos.\n\n(6) A fim de preservar o equilíbrio entre os objectivos da UE em matéria de luta contra a fraude fiscal e de redução dos encargos administrativos dos operadores económicos, deverá prever-se a possibilidade de os Estados-Membros autorizarem os operadores a apresentar com uma periodicidade trimestral os mapas recapitulativos relativos às entregas intracomunitárias de bens quando o seu montante não for significativo. Os Estados-Membros que pretendam organizar uma aplicação progressiva da presente proposta deverão poder, a título transitório, fixar esse montante num nível mais elevado. Deverá igualmente prever-se a possibilidade de os Estados-Membros autorizarem os operadores a apresentar com uma periodicidade trimestral as informações relativas às prestações intracomunitárias de serviços.\n\n(7) O impacto da aceleração do intercâmbio de informações na capacidade dos Estados-Membros de lutarem contra a fraude ao IVA, bem como as opções, deverão ser avaliados pela Comissão decorrido um ano de aplicação das novas disposições, nomeadamente a fim de determinar se essas opções deverão ser mantidas.\n\n(8) Atendendo a que os objectivos da acção prevista em matéria de luta contra a fraude ao IVA não podem ser suficientemente realizados pelos Estados-Membros, cuja acção nesta matéria depende das informações recolhidas pelos outros Estados-Membros, e podem, pois, devido ao necessário compromisso de todos os Estados-Membros, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(9) A Directiva 2006/112/CE deverá, pois, ser alterada em conformidade.\n\n(10) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar melhor» [([^4])](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntr4-L_2009014PT.01000701-E0004), os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "f291c62c62ee81a3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 2006/112/CE é alterada do seguinte modo:\n\n1. No artigo 64.º, o n.º 2 passa a ter a seguinte redacção: «2. As prestações de serviços cujo destinatário seja devedor do imposto em aplicação do artigo 196.º, efectuadas de forma continuada ao longo de um período superior a um ano e que não impliquem pagamentos por conta ou pagamentos durante esse período, consideram-se concluídas no final de cada ano civil, enquanto não for posto termo à prestação de serviços. Os Estados-Membros podem prever que, em determinados casos, distintos dos previstos no primeiro parágrafo, as entregas de bens e as prestações de serviços efectuadas de forma continuada ao longo de determinado período sejam consideradas concluídas após o prazo de um ano.».\n\n2. Ao artigo 66.º é aditado o seguinte parágrafo: «Contudo, a derrogação prevista no primeiro parágrafo não é aplicável às prestações de serviços em relação às quais o imposto seja devido pelo destinatário de serviços em aplicação do artigo 196.º».\n\n3. O artigo 263.º passa a ter a seguinte redacção: «Artigo 263.º 1. Deve ser elaborado um mapa recapitulativo para cada mês de calendário, no prazo máximo de um mês e segundo procedimentos a determinar pelos Estados-Membros. 1-A. Todavia, os Estados-Membros podem autorizar os sujeitos passivos, em condições e dentro de limites que podem estabelecer, a apresentar o mapa recapitulativo para cada trimestre civil, no prazo máximo de um mês a contar do fim do trimestre, quando o montante total trimestral, líquido de IVA, das entregas de bens a que se referem a alínea d) do n.º 1 do artigo 264.º e a alínea c) do n.º 1 do artigo 265.º não exceda, nem relativamente ao trimestre em causa nem a qualquer dos quatro trimestres anteriores, o montante de 50 000 EUR ou o seu contravalor em moeda nacional. A faculdade prevista no primeiro parágrafo deixa de ser aplicável a partir do fim do mês durante o qual o montante total, líquido de IVA, das entregas de bens a que se referem a alínea d) do n.º 1 do artigo 264.º e a alínea c) do n.º 1 do artigo 265.º exceda, para o trimestre em curso, o montante de 50 000 EUR ou o seu contravalor em moeda nacional. Neste caso, é elaborado um mapa recapitulativo para o mês ou meses decorrido(s) desde o início do trimestre, no prazo máximo de um mês. 1-B. Até 31 de Dezembro de 2011, os Estados-Membros podem fixar o montante previsto no n.º 1-A em 100 000 EUR ou no seu contravalor em moeda nacional. 1-C. Relativamente às prestações de serviços a que se refere a alínea d) do n.º 1 do artigo 264.º, os Estados-Membros podem autorizar os sujeitos passivos, em condições e dentro de limites que podem estabelecer, a apresentar o mapa recapitulativo para cada trimestre civil no prazo máximo de um mês a contar do fim do trimestre. Os Estados-Membros podem em especial exigir que os sujeitos passivos que efectuem as entregas de bens e prestações de serviços a que se refere a alínea d) do n.º 1 do artigo 264.º apresentem o mapa recapitulativo no prazo resultante da aplicação dos n.^os^ 1 a 1-B. 2. Os Estados-Membros autorizam e podem exigir que o mapa recapitulativo referido no n.º 1 seja apresentado mediante transmissão electrónica do ficheiro, nas condições que estabelecerem.».\n\n4. No artigo 264.º, o n.º 2 passa a ter a seguinte redacção: «2. O montante referido na alínea d) do n.º 1 deve ser declarado relativamente ao período de apresentação estabelecido nos termos dos n.^os^ 1 a 1-C do artigo 263.º durante o qual o imposto se tenha tornado exigível. O montante referido na alínea f) do n.º 1 deve ser declarado relativamente ao período de apresentação estabelecido nos termos dos n.^os^ 1 a 1-C do artigo 263.º durante o qual a regularização tenha sido notificada ao adquirente.».\n\n5. No artigo 265.º, o n.º 2 passa a ter a seguinte redacção: «2. O montante referido na alínea c) do n.º 1 deve ser declarado relativamente ao período de apresentação estabelecido nos termos dos n.^os^ 1 a 1-B do artigo 263.º durante o qual o imposto se tenha tornado exigível.»."
+  },
+  "d15e67e98570af3d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCom base nas informações prestadas pelos Estados-Membros, a Comissão deve apresentar, até 30 de Junho de 2011, um relatório de avaliação do impacto do n.º 1 do artigo 263.º da Directiva 2006/112/CE na capacidade dos Estados-Membros de lutar contra a fraude ao IVA ligada às entregas de bens e às prestações de serviços intracomunitárias, bem como da utilidade das opções previstas nos n.^os^ 1 a 1-C do referido artigo, acompanhado, consoante as conclusões do relatório, das propostas legislativas adequadas."
+  },
+  "995255f098bbb5d5": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva com efeitos a partir de 1 de Janeiro de 2010. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e as disposições da presente directiva.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "9e3c2902d524d095": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "48b641b70825631a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Dezembro de 2008.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**R. BACHELOT-NARQUIN**\n\n---"
+  },
+  "87a603cba7a27752": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntc1-L_2009014PT.01000701-E0001) Parecer emitido em 4 de Dezembro de 2008 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntc2-L_2009014PT.01000701-E0002) Parecer emitido em 22 de Outubro de 2008 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntc3-L_2009014PT.01000701-E0003) [JO L 347 de 11.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_347_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0018.02/DOC_1#ntc4-L_2009014PT.01000701-E0004) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC)."
+  }
+ }
+}

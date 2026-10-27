@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:254594:por
+title: Decreto Legislativo Regional n.º 4/2002/A
+short_title: null
+summary: Adapta à Região Autónoma dos Açores o Decreto-Lei n.º 29/2001, de 3 de Fevereiro, que estabelece o sistema de quotas
+  de emprego para pessoas com deficiência nos serviços e organismos da Administração Pública
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 4/2002/A
+official_date: null
+publication_date: '2002-03-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2002, Série I-A de 2002-03-01
+  number: '51'
+  series: I
+  supplement: null
+  pages: 1686 - 1688
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/03/051a00/16861688.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/4/2002/03/01/a/dre/pt/html
+  oj: null
+  dre: '254594'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/4-2002-254594
+  internal: pt:dre:254594:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2002-254594
+  metadata_url: https://data.dre.pt/eli/declegreg/4/2002/03/01/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2002-254594
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2c8924ed934e3cc383f9bdfaaaffc4bc41ce34f66c387abe4673397ab44b4f25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Emprego
+- Açores
+- Administração Pública
+- Admissão de Pessoal
+- Deficiente
+- Proteção ao Deficiente
+- Quota de Emprego
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2001/02/03/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 4/2002/A
+
+Adaptação à Região Autónoma dos Açores do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, que estabelece o sistema de quotas de emprego para pessoas com deficiência nos serviços e organismos da Administração Pública.
+
+O artigo 47.º da Constituição da República Portuguesa determina, em sede de direitos, liberdades e garantias, a liberdade de escolha de profissão e acesso à função pública, definindo, claramente, que todos os cidadãos têm o direito de acesso à função pública em condições de igualdade e liberdade.
+
+O cidadão com deficiência, no pleno exercício da sua cidadania, goza de todos os direitos e está sujeito a todos os deveres consignados na Constituição, com excepção daqueles para os quais se encontre incapacitado, competindo ao Estado, nos termos do artigo 71.º do referido diploma fundamental, assumir o encargo com a efectiva realização desses direitos.
+
+No âmbito da política nacional de reabilitação e integração dos cidadãos portadores de deficiência, têm sido criadas e implementadas medidas específicas, nomeadamente no que concerne a adaptações de postos de trabalho, utilização de ajudas técnicas e apoios à contratação, que visam facilitar a integração profissional.
+
+Também nesse sentido, foi publicado o [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, que veio estabelecer o sistema de quotas de emprego para pessoas com deficiência, com um grau de incapacidade igual ou superior a 60%, nos serviços da administração central e local, assim como nos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
+
+Este diploma, ao decretar expressamente que vale como lei geral da República, conforme determina o n.º 5 do artigo 112.º da Constituição, preceitua no n.º 2 do artigo 2.º a sua aplicabilidade aos serviços e organismos da administração regional autónoma, mediante decreto legislativo regional.
+
+No que concerne à Região Autónoma dos Açores, revela-se determinante que se dê integral cumprimento àquele dispositivo constitucional, no sentido de permitir o ingresso nos quadros de pessoal dos serviços e organismos da administração pública regional de pessoas com deficiência, podendo esta medida constituir, também, um factor de maior motivação e exemplo a prosseguir por outras entidades empregadoras regionais.
+
+A adaptação legislativa que se leva a efeito, respeitando plenamente os princípios fundamentais daquela lei geral da República e em conformidade com o disposto no Estatuto Político-Administrativo da Região Autónoma dos Açores, visa, para além da adequação de competências face aos órgãos próprios regionais, fixar uma quota mais alargada relativamente à fixada no diploma nacional e assegurar a disponibilidade do apoio técnico necessário à prossecução dos objectivos visados.
+
+Assim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+A aplicação do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, relativo ao sistema de quotas de emprego para pessoas com deficiência, com um grau de incapacidade igual ou superior a 60%, aos serviços e organismos da administração regional autónoma e local da Região Autónoma dos Açores, bem como aos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, faz-se tendo presente as adaptações constantes do presente diploma.
+
+###### Artigo 2.º — Quota de emprego
+
+1 - A quota, a que se refere o n.º 1 do artigo 3.º do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, será, na Região Autónoma dos Açores, de 20% do total do número de lugares postos a concurso.
+
+2 - Os candidatos com deficiência têm preferência sempre que se verifique igualdade de classificação, a qual prevalece sobre qualquer outra preferência legal.
+
+###### Artigo 3.º — Aviso de abertura de concurso
+
+Toda a informação referente à abertura de concurso deve estar disponível em suporte que garanta aos candidatos com deficiência o acesso à informação.
+
+###### Artigo 4.º — Entidade de recurso técnico específico
+
+A entidade competente para o recurso técnico específico, a que se refere o artigo 5.º do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, é definida, na Região Autónoma dos Açores, por despacho conjunto dos secretários regionais com competência em matéria de educação, assuntos sociais e administração pública, a publicar no prazo de 90 dias contados a partir da data da publicação do presente diploma.
+
+###### Artigo 5.º — Processo de selecção
+
+Para efeitos do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, e do artigo 3.º do presente diploma, na Região Autónoma dos Açores, o apoio técnico que se revele necessário ao processo de selecção deverá ser assegurado pelos serviços dependentes do secretário regional com competência em matéria de educação ou por outras entidades, mediante celebração dos respectivos acordos.
+
+###### Artigo 6.º — Avaliação e acompanhamento
+
+1 - As referências feitas à Direcção-Geral da Administração Pública nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, reportam-se, na Região Autónoma dos Açores, à Direcção Regional de Organização e Administração Pública.
+
+2 - A informação a que se refere o n.º 2 do artigo 10.º do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, deverá, na Região Autónoma dos Açores, ser enviada ao Conselho Regional para a Integração e Cidadania.
+
+3 - O Conselho Regional para a Integração e Cidadania acompanha, na Região Autónoma dos Açores, conjuntamente com os serviços regionais de emprego, solidariedade social e organização e administração pública, a aplicação do presente diploma e promove a integração e adaptação das pessoas com deficiência nos serviços e organismos referidos no artigo 1.º
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Outubro de 2001.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 7 de Fevereiro de 2002.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

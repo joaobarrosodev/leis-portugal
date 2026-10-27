@@ -1,0 +1,256 @@
+---
+schema_version: '1.0'
+id: pt:dre:309740:por
+title: Portaria n.º 253/83
+short_title: null
+summary: Aprova a natureza, programa e condições de aplicação dos métodos de selecção a que se referem os artigos 67.º, n.º
+  1, e 68.º, n.º 1, do Decreto-Lei n.º 252-A/82, de 28 de Junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 253/83
+official_date: null
+publication_date: '1983-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/1983, Série I de 1983-03-05
+  number: '53'
+  series: I
+  supplement: null
+  pages: 822 - 824
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05300/08220824.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '309740'
+  dre_path: /dr/detalhe/portaria/253-1983-309740
+  internal: pt:dre:309740:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1983-309740
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1983-309740
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 069c308e1b2a54b21e4c1931a5a857971d9244eeb4d9757bcc2f0f1823db2b5f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação de Conhecimentos
+- Concurso
+- Direcção Geral das Alfândegas
+- Programa
+- Recrutamento de Pessoal
+- Reforma Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:35:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 253/83
+
+de 5 de Março
+
+Em execução do disposto no artigo 50.º, n.º 3, do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, que reestrutura a Direcção-Geral das Alfândegas:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, que a natureza, programa e condições de aplicação dos métodos de selecção a que se referem os artigos 67.º, n.º 1, e 68.º, n.º 1, daquele diploma legal sejam os seguintes:
+
+### CAPÍTULO I — Natureza e condições de aplicação dos métodos de selecção
+
+1 - As provas de selecção referidas no n.º 1 do artigo 68.º, constam de uma prova escrita e de uma prova oral sobre as matérias constantes do programa inserto no capítulo II.
+
+2 - A prova de selecção referida no n.º 1 do artigo 67.º consta de um exame de aptidão, que consiste numa prova escrita sobre as matérias tratadas no estágio, que deverá realizar-se no prazo de 10 dias a contar da data do termo deste, sendo a ele admitidos os verificadores estagiários que obtiverem aproveitamento nesse estágio.
+
+3 - As informações de aproveitamento constarão do relatório final das actividades desenvolvidas durante o estágio, a elaborar pelo coordenador.
+
+4 - As provas referidas nos n.os 1 e 2 deste capítulo são eliminatórias para os concorrentes que obtiverem menos de 9,5 valores.
+
+5 - A cada prova será dada a média dos valores que, de 0 a 20, lhe forem atribuídos por cada membro do júri, sem qualquer arredondamento.
+
+6 - Serão rescindidos os contratos dos verificadores estagiários que, à data da conclusão do estágio, não tenham obtido aproveitamento ou fiquem reprovados no exame de aptidão.
+
+7 - Os candidatos aprovados serão colocados nas categorias de segundos verificadores superiores pela ordem de classificação obtida no exame de aptidão.
+
+### CAPÍTULO II — Programa do concurso para verificadores estagiários
+
+A
+
+Economia internacional:
+
+1 - A teoria das trocas internacionais. Os fluxos e o multiplicador do comércio externo. A especialização internacional: ao nível dos produtos e ao nível dos factores. A dinâmica da especialização e a transmissão do crescimento em economia concorrencial.
+
+2 - Os pagamentos internacionais: a balança de pagamentos e os tipos de saldos; as contas externas e a contabilidade nacional; os mecanismos reequilibradores da balança de pagamentos; os movimentos de capitais.
+
+3 - A política económica e o comércio internacional: as correntes doutrinais e a mundialização da economia; as medidas de política comercial; as políticas de investimento.
+
+4 - A integração económica internacional: conceito e formas; a teoria das uniões aduaneiras.
+
+5 - A Comunidade Económica Europeia: a organização dos poderes públicos; as relações entre os poderes públicos; a função consultiva; a juridicidade; as instituições financeiras.
+
+As políticas sectoriais: a política aduaneira; a política de concorrência; a política comercial; a política fiscal; a política agrícola; a política industrial; a política energética; a política de transportes; a política monetária; a política regional; a política das relações externas.
+
+6 - O Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT): antecedentes imediatos; princípios fundamentais e estrutura do Acordo; institucionalização; os direitos aduaneiros e as negociações pautais; a cláusula da nação mais favorecida; os obstáculos não pautais às trocas; as negociações comerciais multilaterais; as Partes.
+
+7 - A UNCTAD e os sistemas preferenciais: os aspectos institucionais da UNCTAD; o sistema generalizado de preferências; as preferências inversas.
+
+8 - O Conselho de Cooperação Aduaneira: origens; actividade dos Comités da Nomenclatura, do Valor e Técnico Permanente.
+
+9 - O Fundo Monetário Internacional: origens; a organização; objectivos; as crises do sistema monetário.
+
+B
+
+1 - Serviços centrais: estrutura (generalidades).
+
+2 - Alfândegas: conceito, atribuições e jurisdição.
+
+3 - Estâncias aduaneiras e fiscais: classificação e atribuições.
+
+4 - Despacho das mercadorias (importação definitiva, importação temporária, reimportação, exportação definitiva, exportação temporária, trânsito, baldeação, reexportação e transferência): generalidades.
+
+5 - Direitos: pagamento e garantias.
+
+6 - Depósitos de regime aduaneiro e de regime livre: generalidades.
+
+7 - Regime de bagagem.
+
+8 - Draubaques.
+
+9 - Venda de mercadorias: generalidades.
+
+10 - Circulação de mercadorias nacionais e nacionalizadas.
+
+11 - Pessoas habilitadas a despachar.
+
+C
+
+1 - Pautas aduaneiras: nomenclatura do Conselho de Cooperação Aduaneira.
+
+2 - Valor aduaneiro: noção.
+
+3 - Aplicação dos direitos no espaço e no tempo.
+
+4 - Regimes pautais: pauta máxima, pauta mínima e direitos especiais.
+
+5 - Origem das mercadorias e respectiva prova.
+
+6 - Peso tributável.
+
+7 - Taras.
+
+8 - Avarias.
+
+D
+
+Noções e princípios de direito fiscal, máxime aduaneiro:
+
+1 - Noção de imposto.
+
+2 - Distinção entre imposto e taxa.
+
+3 - Categorias de impostos.
+
+4 - Fontes. Princípios constitucionais.
+
+5 - Interpretação e integração.
+
+6 - Aplicação da lei fiscal no tempo.
+
+7 - Aplicação da lei fiscal no espaço.
+
+8 - Natureza da obrigação fiscal.
+
+9 - Sujeitos passivos. Sujeição, não sujeição e isenções.
+
+10 - Constituição da obrigação e delimitação do imposto.
+
+11 - Formas de cumprimento.
+
+12 - Incumprimento.
+
+13 - Garantias.
+
+14 - Fraude, evasão e planeamento fiscal.
+
+E
+
+Infracções aduaneiras. Conceito, natureza e regime.
+
+F
+
+Legislação aduaneira internacional:
+
+1 - Convenção para a Criação de um Conselho de Cooperação Aduaneira (Bruxelas, 15 de Dezembro de 1950).
+
+2 - Convenção Aduaneira Relativa à Importação Temporária de Material Profissional (Bruxelas, 8 de Junho de 1961).
+
+3 - Convenção Aduaneira Relativa às Facilidades Concedidas para a Importação de Mercadorias Destinadas a Serem Apresentadas ou Utilizadas em Exposições, Feiras, Congressos ou Manifestações Semelhantes (Bruxelas, 8 de Junho de 1961).
+
+4 - Convenção Aduaneira sobre o Livrete ATA para a Importação Temporária de Mercadorias (Convenção ATA) (Bruxelas, 6 de Dezembro de 1961).
+
+5 - Convenção Aduaneira Relativa à Importação Temporária de Material Científico (Bruxelas, 11 de Junho de 1968).
+
+6 - Convenção Aduaneira Relativa à Importação Temporária de Material Pedagógico (Bruxelas, 8 de Junho de 1970).
+
+7 - Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros (Kyoto, 18 de Maio de 1973).
+
+8 - Convenção Aduaneira Relativa à Importação Temporária de Veículos Rodoviários Comerciais (Genebra, 18 de Maio de 1956).
+
+9 - Convenção Aduaneira sobre a Importação Temporária de Veículos Rodoviários Particulares (Nova Iorque, 4 de Junho de 1954).
+
+10 - Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao Abrigo de Cadernetas TIR (Convenção TIR) (Genebra, 14 de Novembro de 1975).
+
+11 - Convenção sobre as Facilidades Aduaneiras a Favor do Turismo (Nova Ioarque, 4 de Junho de 1954).
+
+12 - Convenção Internacional para Facilitar a Passagem das Fronteiras a Viajantes e Bagagens por Caminho de Ferro (Genebra, 10 de Janeiro de 1952).
+
+13 - Convenção Internacional para Facilitar a Passagem nas Fronteiras de Mercadorias Transportadas por Via Férrea (Genebra, 10 de Janeiro de 1952).
+
+14 - Convenção Sobre as Relações Diplomáticas (Viena, 18 de Abril de 1961).
+
+15 - Convenção sobre as Relações Consulares (Viena, 24 de Abril de 1963).
+
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 25 de Fevereiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

@@ -1,0 +1,2817 @@
+---
+schema_version: '1.0'
+id: pt:dre:306028:por
+title: Decreto-Lei n.º 252-A/82
+short_title: null
+summary: Estrutura a Direcção-Geral das Alfândegas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 252-A/82
+official_date: null
+publication_date: '1982-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/1982, 1º Suplemento, Série I de 1982-06-28
+  number: '146'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1866-(1) a 1866-(32)
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14601/00010032.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-01-01'
+version_history:
+  file: decreto-lei-252-a-82.versoes.json
+  count: 11
+  source_lastmod: '2024-11-11'
+  versions:
+  - date: '1982-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-09-20'
+    amending: pt:dre:375847:por
+    amending_title: Declaração
+    changes:
+    - Retifica Artigo 8.º
+    - Retifica Artigo 17.º
+    - Retifica Artigo 24.º
+    - Retifica Artigo 26.º
+    - Retifica Artigo 33.º
+    - Retifica Artigo 36.º
+    - Retifica Artigo 37.º
+    - Retifica Artigo 52.º
+    - Retifica Artigo 73.º
+    - Retifica Artigo 74.º
+    - Retifica Artigo 77.º
+    - Retifica Artigo 81.º
+    - Retifica Artigo 82.º
+    - Retifica Artigo 83.º
+    - Retifica Artigo 89.º
+    - Retifica Artigo 92.º
+    - Retifica Artigo 96.º
+    - Retifica Artigo 107.º
+    - Retifica Artigo 116.º
+    - Retifica Artigo 127.º
+    - Retifica Artigo 133.º
+    - Retifica Artigo 139.º
+    - Retifica Artigo 158.º
+  - date: '1985-01-05'
+    amending: pt:dre:389828:por
+    amending_title: Decreto-Lei n.º 401/84
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 63.º
+  - date: '1985-10-29'
+    amending: pt:dre:178086:por
+    amending_title: Decreto-Lei n.º 438/85
+    changes:
+    - Adita Artigo 34.º-B
+    - Adita Artigo 34.º-C
+    - Adita Artigo 34.º-D
+    - Adita Artigo 34.º-E
+    - Altera Artigo 6.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 66.º
+    - Altera Artigo 122.º
+  - date: '1986-12-04'
+    amending: pt:dre:221529:por
+    amending_title: Decreto-Lei n.º 400/86
+    changes:
+    - Altera Artigo 66.º
+  - date: '1988-02-22'
+    amending: pt:dre:283118:por
+    amending_title: Decreto-Lei n.º 49/88
+    changes:
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 22.º-C
+    - Adita Artigo 22.º-D
+    - Adita Artigo 40.º-A
+    - Adita Artigo 40.º-B
+    - Adita Artigo 40.º-C
+    - Adita Artigo 40.º-D
+    - Adita Artigo 68.º-A
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 37.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 24.º
+  - date: '1990-09-12'
+    amending: pt:dre:556665:por
+    amending_title: Decreto-Lei n.º 273/90
+    changes:
+    - Altera Artigo 66.º
+  - date: '1993-09-30'
+    amending: pt:dre:653126:por
+    amending_title: Decreto-Lei n.º 324/93
+    changes:
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Revoga Capítulo I
+    - Revoga Capítulo II
+    - Revoga Artigo 44.º
+    - Revoga Artigo 46.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 52.º
+    - Revoga Artigo 54.º
+    - Revoga Secção II
+    - Revoga Subsecção I
+    - Revoga Artigo 56.º
+    - Revoga Artigo 57.º
+    - Revoga Artigo 58.º
+    - Revoga Artigo 59.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 61.º
+    - Revoga Subsecção II
+    - Revoga Artigo 62.º
+    - Revoga Artigo 63.º
+    - Revoga Subsecção III
+    - Revoga Artigo 64.º
+    - Revoga Artigo 65.º
+    - Revoga Subsecção IV
+    - Revoga Artigo 66.º
+  - date: '1999-07-31'
+    amending: pt:dre:353338:por
+    amending_title: Decreto-Lei n.º 278/99
+    changes:
+    - Altera Artigo 49.º
+    - Revoga Artigo 82.º
+  - date: '2009-01-01'
+    amending: pt:dre:456561:por
+    amending_title: Decreto-Lei n.º 121/2008
+    changes:
+    - Revoga Artigo 69.º
+    - Revoga Artigo 72.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 112.º
+    - Revoga Artigo 114.º
+    - Revoga Artigo 115.º
+    - Revoga Artigo 117.º
+  - date: '2020-01-01'
+    amending: pt:dre:124324704:por
+    amending_title: Decreto-Lei n.º 132/2019
+    changes:
+    - Altera Artigo 45.º
+    - Altera Artigo 103.º
+    - Altera Artigo 121.º
+    - Revoga Artigo 55.º
+    - Revoga Artigo 67.º
+    - Revoga Artigo 68.º
+    - Revoga Artigo 68.º-A
+    - Revoga Artigo 69.º
+    - Revoga Artigo 70.º
+    - Revoga Artigo 71.º
+    - Revoga Artigo 72.º
+    - Revoga Artigo 73.º
+    - Revoga Artigo 74.º
+    - Revoga Artigo 75.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 77.º
+    - Revoga Artigo 90.º
+    - Revoga Artigo 91.º
+    - Revoga Artigo 93.º
+    - Revoga Artigo 94.º
+    - Revoga Artigo 104.º
+    - Revoga Artigo 105.º
+    - Revoga Artigo 111.º
+    - Revoga Artigo 112.º
+    - Revoga Artigo 113.º
+    - Revoga Artigo 114.º
+    - Revoga Artigo 115.º
+    - Revoga Artigo 116.º
+    - Revoga Artigo 117.º
+    - Revoga Artigo 118.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/252-a/1982/p/cons/20190830/pt/html
+  oj: null
+  dre: '306028'
+  dre_path: /dr/detalhe/decreto-lei/252-a-1982-306028
+  internal: pt:dre:306028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028
+  metadata_url: https://data.dre.pt/eli/dec-lei/252-a/1982/p/cons/20190830/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-896268528
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-896268528
+  retrieved_at: '2026-10-22T13:19:30Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-11-11T00:00:00Z'
+integrity:
+  source_sha256: 4eac5a3317ef5ef06f5395ffa0997d73b7c14eda8e539f7e485f3f3a2b74d0a6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:19:30Z'
+  notes: 11 versão(ões); histórico completo em decreto-lei-252-a-82.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
+- Quadro de Pessoal
+- Reforma Aduaneira
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:375847:por
+  label: Retifica Artigo 8.º; Retifica Artigo 17.º; Retifica Artigo 24.º; Retifica Artigo 26.º; Retifica Artigo 33.º; Retifica
+    Artigo 36.º; Retifica Artigo 37.º; Retifica Artigo 52.º; Retifica Artigo 73.º; Retifica Artigo 74.º; Retifica Artigo 77.º;
+    Retifica Artigo 81.º; Retifica Artigo 82.º; Retifica Artigo 83.º; Retifica Artigo 89.º; Retifica Artigo 92.º; Retifica
+    Artigo 96.º; Retifica Artigo 107.º; Retifica Artigo 116.º; Retifica Artigo 127.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847
+  date: '1982-09-20'
+- type: amended_by
+  target: pt:dre:389828:por
+  label: Altera Artigo 24.º; Altera Artigo 59.º; Altera Artigo 60.º; Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828
+  date: '1984-12-31'
+- type: amended_by
+  target: pt:dre:178086:por
+  label: Adita Artigo 34.º-B; Adita Artigo 34.º-C; Adita Artigo 34.º-D; Adita Artigo 34.º-E; Altera Artigo 6.º; Altera Artigo
+    28.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo
+    66.º; Altera Artigo 122.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086
+  date: '1985-10-24'
+- type: amended_by
+  target: pt:dre:221529:por
+  label: Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1986-221529
+  date: '1986-11-29'
+- type: amended_by
+  target: pt:dre:283118:por
+  label: Adita Artigo 22.º-A; Adita Artigo 22.º-B; Adita Artigo 22.º-C; Adita Artigo 22.º-D; Adita Artigo 40.º-A; Adita Artigo
+    40.º-B; Adita Artigo 40.º-C; Adita Artigo 40.º-D; Adita Artigo 68.º-A; Altera Artigo 19.º; Altera Artigo 21.º; Altera
+    Artigo 37.º; Revoga Artigo 20.º; Revoga Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118
+  date: '1988-02-17'
+- type: amended_by
+  target: pt:dre:556665:por
+  label: Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1990-556665
+  date: '1990-09-07'
+- type: amended_by
+  target: pt:dre:653126:por
+  label: Altera Artigo 49.º; Altera Artigo 50.º; Altera Artigo 51.º; Revoga Capítulo I; Revoga Capítulo II; Revoga Artigo
+    44.º; Revoga Artigo 46.º; Revoga Artigo 48.º; Revoga Artigo 52.º; Revoga Artigo 54.º; Revoga Secção II; Revoga Subsecção
+    I; Revoga Artigo 56.º; Revoga Artigo 57.º; Revoga Artigo 58.º; Revoga Artigo 59.º; Revoga Artigo 60.º; Revoga Artigo 61.º;
+    Revoga Subsecção II; Revoga Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126
+  date: '1993-09-25'
+- type: amended_by
+  target: pt:dre:353338:por
+  label: Altera Artigo 49.º; Revoga Artigo 82.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1999-353338
+  date: '1999-07-26'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: Revoga Artigo 69.º; Revoga Artigo 72.º; Revoga Artigo 76.º; Revoga Artigo 112.º; Revoga Artigo 114.º; Revoga Artigo
+    115.º; Revoga Artigo 117.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:124324704:por
+  label: Altera Artigo 45.º; Altera Artigo 103.º; Altera Artigo 121.º; Revoga Artigo 55.º; Revoga Artigo 67.º; Revoga Artigo
+    68.º; Revoga Artigo 68.º-A; Revoga Artigo 69.º; Revoga Artigo 70.º; Revoga Artigo 71.º; Revoga Artigo 72.º; Revoga Artigo
+    73.º; Revoga Artigo 74.º; Revoga Artigo 75.º; Revoga Artigo 76.º; Revoga Artigo 77.º; Revoga Artigo 90.º; Revoga Artigo
+    91.º; Revoga Artigo 93.º; Revoga Artigo 94.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704
+  date: '2019-08-30'
+article_structure:
+  article_count: 172
+  section_count: 36
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:19:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 252-A/82
+
+Decreto-Lei n.º 252-A/82
+
+de 28 de Junho
+
+1. A Direcção-Geral das Alfândegas assume, pelas suas atribuições, inserção e posicionamento no aparelho do Estado, papel de relevo particular no contexto da Administração Pública.
+
+Com efeito, a par das missões tradicionais, com destaque para a liquidação e cobrança de direitos e outros impostos e taxas (os montantes das receitas arrecadadas pelas alfândegas ascenderam, nos últimos 3 anos, em valores aproximados, a cerca de 26, 35 e 45 milhões de contos, respectivamente), a função aduaneira releva de enorme importância em domínios assaz diversificados (regulação do comércio externo, fiscalização aduaneira de pessoas e bens, controle do tráfego internacional de mercadorias e meios de transporte, luta contra a evasão e a fraude fiscais e o tráfico ilícito de estupefacientes, para mencionar apenas alguns dos mais significativos).
+
+Fundamental, por outro lado, para adequada realização dos fins próprios de outros organismos do Estado em áreas tão dispares como a economia, defesa, segurança, moral, higiene e saúde públicas, turismo, controle veterinário e fitopatológico, protecção de marcas e patentes e defesa do património artístico nacional, a função aduaneira ganha ainda importância fulcral no âmbito do processo de adesão às Comunidades Europeis, muito especialmente no que concerne à implementação da União Aduaneira.
+
+2. A organização interna da Direcção-Geral das Alfândegas, cuja última e significativa reestruturação foi levada a cabo em 1965, mas em que alguns órgãos e serviços remontam, pelo menos, a 1941, assenta, por esse facto, ainda hoje, não obstante as profundas transformações entretanto verificadas quer nos condicionalismos que envolvem o exercício da actividade aduaneira, quer na própria realidade a ela subjacente, num modelo orgânico estruturado para fazer face a necessidades e exigências que não são propriamente as actuais.
+
+Daí a oportunidade das profundas mutações estruturais que ora se institucionalizam, começando, prudentemente, atentas as implicações e complexidade do processo, pela orgânica central, mas reservando desde já para fase posterior, de que se delimita o horizonte temporal, a reestruturação dos serviços regionais e periféricos.
+
+3. Toda a estrutura orgânica central é objecto de extensa remodelação.
+
+Excepção feita ao serviço de inspecção, os demais órgãos e serviços ou são extintos, ou sofrem profundas transformações, com incidência particular na área técnico-normativa, em que são criadas 3 direcções de serviços, dimensionadas na perspectiva de obtenção de elevados níveis de especialização funcional, atento, em particular, o serviço que tem vindo a estudar a legislação aduaneira comunitária, num esforço de implementação das novas técnicas, na perspectiva de adesão de Portugal às Comunidades Europeias.
+
+4. Superam-se carências existentes no que respeita a serviços de apoio (designadamente nas áreas da organização e dos recursos humanos) com sérios riscos de bloqueamento institucional caso se não tomem rapidamente as medidas de fundo aconselháveis.
+
+Com efeito, para que seja possível a prossecução eficaz dos objectivos da Direcção-Geral, é imperioso melhorar a organização dos serviços, simplificar os métodos e os processos de trabalho e fomentar a aplicação de novas técnicas de gestão, com progressivo recurso ao tratamento automático da informação.
+
+Criam-se, em conformidade, novos serviços, quer de apoio técnico (nas áreas do planeamento, assessoria jurídica, organização e recursos humanos), quer de apoio instrumental (nas áreas da informação e do apoio documental), ao mesmo tempo que se confere adequada dimensão e nova orgânica aos serviços de administração geral.
+
+5. As considerações atrás expendidas aplicam-se, com as necessárias adaptações, ao estatuto do pessoal, designadamente quanto ao facto de nos últimos anos as alterações entretanto produzidas se terem circunscrito apenas a alguns ajustamentos pontuais.
+
+Será desnecessário, portanto, realçar a importância da reestruturação da função pessoal em termos de adaptação à conjuntura actual, interna e externa, e às exigências de simplificação e racionalização dos serviços, acréscimo de produtividade e melhoria da eficiência dos funcionários.
+
+Criam-se assim com o presente diploma as condições realistas e ao mesmo tempo necessárias à consecução, a curto prazo, de tais objectivos, sem se pretender constituir a medida definitiva, já que se tem como certo que as reformas não são actos instantâneos que se esgotam com a promulgação de um diploma legal e que, por outro lado, uma reestruturação integral da função pessoal só poderá ser plenamente definida em termos correlativos com uma reestruturação orgânica global.
+
+6. No reconhecimento destas realidades, algumas alterações significativas se prevêem desde já, com realce para as seguintes:
+
+Consagra-se a criação das carreiras já previstas nas Portarias n.os 730/79, de 31 de Dezembro, e 26-S/80, de 9 de Janeiro, de aplicação do Decreto-Lei n.º 191-C/79, de 25 de Junho;
+
+Criam-se as carreiras de tesoureiro, de secretário aduaneiro e do pessoal operário e auxiliar, em termos que melhor se adequam às funções efectivamente exercidas pelo pessoal que nelas se integra;
+
+Extingue-se o quadro do serviço fluvial e, marítimo, integrando-se os elementos daquele quadro, pouco numerosos, na carreira técnico-profissional, cujas funções, aliás, já vem desempenhando há vários anos;
+
+Aumenta-se significativamente o nível de exigência para efeitos de ingresso na carreira do pessoal aduaneiro técnico superior, prevendo-se provas de selecção rigorosas para efeitos de admissão ao próprio estágio, de que se eleva a duração para 1 ano, com formação adequada e avaliação final;
+
+Revêem-se as condições de exercício da actividade, compatibilizando-as com as exigências da função aduaneira, numa base mínima de dignidade;
+
+Leva-se a efeito uma reclassificação de funções, adaptando-as à realidade aduaneira e à nova dinâmica das carreiras, em termos que eliminam o mais possível a indiferenciação e, nalguns casos, a subvalorização existentes;
+
+Revêem-se os métodos de selecção para efeitos de ingresso e de acesso. Condicionam-se, em geral, as promoções nas diferentes carreiras à aprovação em cursos de formação adequados, a par de outras exigências, com o fim de garantir, manter e desenvolver o mérito profissional;
+
+Institucionaliza-se a formação permanente com o objectivo de conceder ao pessoal aduaneiro uma preparação técnica ampla e sólida que lhe permita exercer as respectivas funções com a maior eficiência.
+
+Tudo quanto ficou exposto justifica a oportunidade da presente reestruturação.
+
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118) Ao quadro de pessoal anexo ao presente diploma, são introduzidas as alterações constantes do quadro anexo ao Decreto-lei n.º 49/88, de 17 de fevereiro, e que dele faz parte integrante.
+
+### Capítulo I — Da natureza e atribuições
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 1.º — (Natureza)
+
+A Direcção-Geral das Alfândegas, adiante designada abreviadamente por DGA, é o departamento do Ministério das Finanças e do Plano que tem por objectivos fundamentais estudar, promover, coordenar e executar as medidas e acções de política aduaneira relativas à organização, gestão e aperfeiçoamento do sistema aduaneiro.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 2.º — (Atribuições)
+
+São atribuições da DGA:
+
+a) Elaborar estudos, formular propostas e definir normas e técnicas de actuação no âmbito dos seus objectivos;
+
+b) Definir o ordenamento aduaneiro do território;
+
+c) Assegurar a liquidação e a cobrança dos direitos aduaneiros e de quaisquer impostos, taxas ou imposições cuja percepção lhe caiba por lei;
+
+d) Definir e regulamentar os regimes aduaneiros aplicáveis à movimentação de pessoas e bens, na entrada, permanência, trânsito e saída do território aduaneiro, e velar pela regularidade da sua aplicação;
+
+e) Exercer a acção de fiscalização aduaneira sobre as pessoas e bens, nos termos das leis e regulamentos;
+
+f) Definir a política de fiscalização externa e coordenar a sua aplicação, promovendo, designadamente, a articulação dos serviços aduaneiros e da Guarda Fiscal, para melhor obtenção dos objectivos a alcançar;
+
+g) Combater a evasão e a fraude fiscais e em particular o tráfico ilícito de estupefacientes, armas e objectos de arte e antiguidades e colaborar com outros organismos nacionais, estrangeiros e internacionais nas actividades relacionadas com a sua prevenção, descoberta e repressão;
+
+h) Exercer em matéria de justiça fiscal as atribuições que lhe forem conferidas pelas leis e regulamentos;
+
+i) Estudar e dar parecer acerca das convenções, acordos e outros instrumentos normativos internacionais de carácter aduaneiro ou que contenham disposições com incidência aduaneira, acompanhar a sua execução e avaliar, no plano interno, as consequências decorrentes da sua aplicação;
+
+j) Assegurar a representação portuguesa em reuniões e nas actividades dos organismos estrangeiros e internacionais especializados no domínio aduaneiro;
+
+k) Colaborar com outros departamentos do Estado na prossecução dos seus objectivos próprios, designadamente nos domínios da economia, defesa, segurança, moral, higiene e saúde públicas, turismo, controle veterinário e fitopatológico, protecção de marcas e patentes e defesa do património artístico nacional, desde que essa cooperação seja indispensável à realização daqueles objectivos;
+
+l) Promover o esclarecimento dos utentes dos serviços, nomeadamente sobre o conteúdo e a interpretação da legislação aduaneira, de modo a facilitar o seu correcto cumprimento;
+
+m) Estudar e promover o aperfeiçoamento do sistema aduaneiro.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+### Capítulo II — Dos órgãos e serviços
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+#### Secção I — Da estrutura orgânica do sistema aduaneiro
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção I — Órgãos e serviços em geral
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 3.º — (Estrutura)
+
+A DGA estrutura-se verticalmente e compreende os seguintes órgãos e serviços:
+
+a) Director-geral;
+
+b) Serviços centrais;
+
+c) Serviços regionais;
+
+d) Serviços periféricos
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 4.º — (Director-geral)
+
+1 - A DGA é dirigida por um director-geral, coadjuvado por 2 subdirectores-gerais.
+
+2 - Compete ao director-geral a direcção, a inspecção, a superintendência e a disciplina dos serviços aduaneiros, designadamente:
+
+a) Definir as políticas a que deverá obedecer a gestão dos serviços;
+
+b) Assegurar as relações da DGA com os outros departamentos do Estado e com quaisquer entidades públicas ou privadas;
+
+c) Representar a DGA;
+
+d) Despachar todos os assuntos que caibam no âmbito das atribuições da DGA, submetendo a despacho ministerial aqueles que, por natureza ou disposição da lei, careçam de resolução superior.
+
+3 - O director-geral poderá delegar nos subdirectores-gerais, nos directores de serviço ou noutros funcionários que lhe estejam directamente subordinados o exercício da sua competência.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 5.º — (Subdirectores-gerais)
+
+Compete aos subdirectores-gerais colaborar com o director-geral em todos os assuntos para que forem solicitados e coadjuvá-lo no exercício das suas funções, designadamente:
+
+a) Coordenando a actividade dos serviços cuja orientação lhes tenha sido atribuída;
+
+b) Exercendo os poderes delegados nos termos do n.º 3 do artigo anterior;
+
+c) Substituindo o director-geral nas suas ausências e impedimentos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção II — Estrutura orgânica dos serviços centrais
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 6.º — (Estrutura orgânica)
+
+1 - A estrutura orgânica central compreende os seguintes serviços:
+
+A) Inspecção Aduaneira;
+
+B) De apoio técnico:
+
+a) Assessoria Jurídica;
+
+b) Laboratório;
+
+c) Direcção de Serviços de Organização e Recursos Humanos;
+
+C) De apoio instrumental:
+
+a) Divisão de Documentação e Informação;
+
+b) Núcleo de Informática;
+
+c) Direcção de Serviços de Administração;
+
+D) Técnico-normativos:
+
+a) Direcção de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos;
+
+b) Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas;
+
+c) Direcção de Serviços de Circulação de Mercadorias e de Polícia Agrícola;
+
+d) Direcção de Serviços de Prevenção e Repressão da Fraude;
+
+e) Direcção de Serviços de Tráfego, Armazenagem e Benefícios Fiscais.
+
+2 - Junto da DGA funcionam tribunais técnico-aduaneiros, aos quais serão afectos os processos de carácter técnico que se suscitem nas alfândegas.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 7.º — (Atribuições genéricas)
+
+Aos serviços centrais incumbe o apoio, a inspecção, o estudo e a coordenação da actividade da administração aduaneira, cabendo-lhes, consoante a área funcional em que se exerça a respectiva actividade, designadamente:
+
+a) A definição, a coordenação e a execução técnica das políticas aduaneiras;
+
+b) A realização de estudos e a preparação das normas inerentes ao exercício da actividade aduaneira, bem como o estudo das medidas de revisão e actualização que se mostrem necessárias;
+
+c) A análise da incidência na legislação interna e acompanhar a execução das convenções, acordos e outros instrumentos normativos internacionais de carácter aduaneiro;
+
+d) A elaboração de propostas de instruções para a correcta aplicação da legislação aduaneira, tendo em vista a eficiência dos serviços e uma adequada harmonização doutrinária;
+
+e) A elaboração de informações sobre a aplicação da lei aos casos concretos que lhes sejam cometidos para informação ou parecer;
+
+f) A elaboração de propostas ou pareceres sobre projectos de diploma;
+
+g) Assegurar a participação da DGA em reuniões e nas actividades de organismos estrangeiros internacionais especializados no domínio aduaneiro;
+
+h) Desempenhar as funções executivas que, por razões de hierarquia, não caibam na competência dos serviços regionais e periféricos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção III — Estrutura orgânica dos serviços regionais e periféricos
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 8.º — (Regiões aduaneiras)
+
+1 - Para efeitos aduaneiros, o País divide-se em regiões, a definir na reestrututração dos serviços prevista no artigo 150.º
+
+2 - Nas regiões aduaneiras existirão os seguintes órgãos e serviços:
+
+a) Direcção regional;
+
+b) Alfândegas;
+
+c) Delegações aduaneiras;
+
+d) Postos fiscais.
+
+3 - Na definição das regiões aduaneiras atender-se-á, em princípio, as circunscrições aduaneiras existentes, podendo, no entanto, aquelas vir a ser modificadas em função do que vier a ser legalmente definido relativamente às regiões Plano.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 9.º — (Direcção regional)
+
+A direcção regional é essencialmente um serviço de direcção, apoio e coordenação dos serviços periféricos na respectiva região, cabendo-lhe, ainda, o desempenho das funções executivas que, por razões de hierarquia, não caibam nas atribuições daqueles serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 10.º — (Serviços periféricos)
+
+1 - As alfândegas são serviços periféricos implantados, em regra, no interior do País, incluindo os aeroportos e, fora dos limites geográficos estabelecidos no número seguinte, nas linhas de fronteira marítima e terrestre, às quais incumbe, em geral, executar os actos e operações de gestão, controle e fiscalização aduaneiros relativos à desalfandegação de mercadorias e meios de transporte, à movimentação de pessoas e bens na entrada, permanência, trânsito e saída do território aduaneiro, assim como a prevenção e detecção das infracções fiscais.
+
+2 - As delegações aduaneiras são serviços periféricos implantados, em regra, dentro do perímetro urbano da cidade sede das regiões aduaneiras, às quais incumbe, essencialmente, executar os actos e operações de gestão, controle e fiscalização aduaneiros relativos a desalfandegação de mercadorias e meios de transporte.
+
+3 - Os postos fiscais estão agrupados em unidades militares dependentes do Comando-Geral da Guarda Fiscal, conforme legislação própria, aos quais incumbe, fundamentalmente, a vigilância e fiscalização dos edifícios aduaneiros e das zonas fiscais.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+#### Secção II — Dos serviços centrais
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção I — Inspecção Aduaneira
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 11.º — (Natureza)
+
+Directamente subordinado ao director-geral funcionará o serviço de Inspecção Aduaneira, dirigido pelo inspector-chefe.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 12.º — (Atribuições)
+
+Incumbe à Inspecção Aduaneira:
+
+a) Inspeccionar os serviços, averiguando se as diferentes tarefas são executadas em conformidade com as disposições legais e com as directivas e instruções emanadas dos órgãos e serviços competentes, podendo para esse fim efectuar sindicâncias ou inquéritos;
+
+b) Sugerir orientações correctoras das distorções encontradas na actividade dos serviços inspeccionados;
+
+c) Fornecer ao director-geral relatórios fundamentados sobre os resultados alcançados com as inspecções realizadas.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 13.º — (Âmbito)
+
+1 - A competência da Inspecção Aduaneira abrange os postos fiscais habilitados a despachar na parte referente ao serviço aduaneiro que desempenham.
+
+2 - Dos resultados das inspecções realizadas será dado conhecimento à Inspecção-Geral de Finanças na parte referente a tesouraria e contabilidade.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 14.º — (Regularidade)
+
+A inspecção dos serviços aduaneiros deverá ser executada com a necessária e possível regularidade.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 15.º — (Colaboração de pessoal aduaneiro estranho ao serviços de inspecção)
+
+Quando a natureza ou complexidade das tarefas de inspecção o aconselhem, poderá o inspector-chefe propor ao director-geral a colaboração de pessoal aduaneiro estranho à Inspecção Aduaneira.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 16.º — (Colaboração de outras entidades)
+
+Os comandantes das unidades da Guarda Fiscal e, em geral, as autoridades civis e militares facultarão ao pessoal em serviço de inspecção os esclarecimentos e meios ao seu dispor necessários ao bom desempenho das suas tarefas.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção II — Serviços de apoio técnico
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 17.º — (Assessoria Jurídica - Atribuições)
+
+À Assessoria Jurídica, com o nível orgânico de divisão, incumbe:
+
+a) Elaborar estudos, formular pareceres e preparar informações sobre matérias de natureza jurídica que lhe sejam superiormente cometidas;
+
+b) Preparar e redigir projectos de diplomas de acordo com as normas técnicas dos serviços e elaborar instruções de carácter geral de interpretação da legislação aduaneira tendo em vista a sua correcta aplicação e harmonização doutrinária;
+
+c) Intervir em quaisquer sindicâncias, inquéritos ou averiguações, sempre que para a instrução dos respectivos processos se torne indispensável o apoio da divisão;
+
+d) Apoiar o director-geral relativamente aos processos judiciais e de contencioso administrativo em que a DGA seja interessada;
+
+e) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina e de outra informação sobre matéria jurídica com interesse para os serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 18.º — (Laboratório - Atribuições)
+
+Ao Laboratório, com nível orgânico de divisão, incumbe:
+
+a) Assegurar o apoio laboratorial da DGA, habilitando os serviços com as instruções e dados técnicos necessários ao bom desempenho das suas actividades;
+
+b) Executar as análises dos corantes, desnaturantes e conservantes mandados adoptar, bem como as que se tornem necessárias à instrução dos processos de contencioso fiscal e de contencioso técnico-aduaneiro e ao desalfândegamento das mercadorias, as requisitadas por particulares e, ainda, as que forem julgadas necessárias à melhor realização dos objectivos do Laboratório;
+
+c) Proceder à colheita de amostras sempre que se julgue conveniente e necessário;
+
+d) Verificar a exactidão dos instrumentos utilizados pelo pessoal aduaneiro nas funções de desalfândegamento de mercadorias quando não exista outro serviço oficial a que legalmente deva competir tal verificação;
+
+e) Elaborar os estudos e outros trabalhos de investigação analítica e de selecção de métodos de análise necessários ao bom desempenho das suas actividades.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 19.º — Direcção de Serviços de Gestão de Recursos Humanos - Estrutura e atribuições
+
+1 - A Direcção de Serviços de Gestão de Recursos Humanos é um serviço que tem por objectivos estudar, propor e acompanhar tecnicamente as medidas tendentes à racionalização da gestão de pessoal, bem como implementar a formação e o desenvolvimento profissional.
+
+2 - Integram a Direcção de Serviços de Gestão de Recursos Humanos:
+
+a) A Divisão de Regimes de Pessoal;
+
+b) A Divisão de Formação.
+
+3 - A Direcção de Serviços de Gestão de Recursos Humanos cooperará estreitamente com a Direcção de Serviços de Administração, nomeadamente no exercício por esta das administrações de pessoal, financeira e dos equipamentos, de forma a obter-se uma integração das três componentes da gestão geral dos serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 20.º — (Divisão de Organização - Atribuições)
+
+Incumbe à Divisão de Organização:
+
+a) Preparar o plano e os programas anuais de actividades da DGA, acompanhar a sua execução e proceder à análise e avaliação dos resultados;
+
+b) Apoiar tecnicamente os serviços, em especial na preparação dos projectos parcelares do plano e dos programas de actividades;
+
+c) Preparar o relatório anual de actividades da DGA;
+
+d) Assegurar as ligações com os serviços congéneres do Ministério das Finanças e do Plano e com o Sistema Estatístico Nacional;
+
+e) Elaborar estudos e propostas de medidas conducentes à racionalização dos processos e dos métodos de trabalho, e à normalização e simplificação do funcionamento dos serviços, com vista à sua maior eficiência e eficácia;
+
+f) Elaborar estudos e formular propostas de ordenamento aduaneiro orientadas para a cobertura racional do território em função das finalidades da DGA;
+
+g) Propor ou pronunciar-se sobre a criação, modificação ou extinção de unidades orgânicas, tendo em conta o desenvolvimento das actividades necessárias à prossecução dos objectivos a atingir;
+
+h) Formular propostas relativamente à implantação racional dos serviços e assegurar, em articulação com a Direcção de Serviços de Administração, a execução de programas de aquisição de equipamentos;
+
+i) Articular com o Núcleo de Informática as formas de colaboração adequadas à implantação de sistemas de informação orientados para as necessidades dos serviços;
+
+j) Promover a aplicação de novas técnicas de organização e gestão;
+
+k) Prestar apoio técnico aos órgãos e serviços no domínio da sua especialização.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 21.º — Divisão de Regimes de Pessoal - Atribuições
+
+Incumbe à Divisão de Regimes de Pessoal:
+
+a) Elaborar estudos, inquéritos e outros trabalhos conducentes à definição das políticas de gestão de recursos humanos;
+
+b) Elaborar estudos e propostas para a execução e coordenação das políticas de gestão de recursos humanos definidas tendo em vista a valorização do pessoal e o seu empenhamento na realização dos objectivos da DGA;
+
+c) Elaborar e propor normas e instruções para a correcta aplicação da legislação relativa a pessoal, nomeadamente quanto aos regimes de recrutamento, selecção, acolhimento, movimentação, provimento, progressão e cessação da relação jurídica de emprego público;
+
+d) Promover o levantamento, análise, qualificação e actualização de funções em colaboração com a Divisão de Organização;
+
+e) Colaborar, sendo caso disso, na elaboração e difusão de manuais de trabalho;
+
+f) Estudar e propor a actualização de quadros de pessoal;
+
+g) Promover o estudo dos problemas humanos que afectem as relações de trabalho na DGA e propor as medidas adequadas à sua solução, numa perspectiva de correcta integração dos funcionários nos serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 22.º — (Divisão de Formação - Atribuições)
+
+Incumbe à Divisão de Formação:
+
+a) Elaborar estudos, inquéritos e outros trabalhos conducentes à identificação das necessidades formativas do pessoal e propor as políticas respectivas de formação e aperfeiçoamento profissional;
+
+b) Colaborar no planeamento e assegurar a programação das acções a desenvolver no domínio da formação e aperfeiçoamento profissional;
+
+c) Promover e assegurar a realização das acções de formação, tanto as necesárias ao ingresso e acesso como as de carácter permanente relativas à adaptação e aperfeiçoamento dos funcionários;
+
+d) Propor normas e instruções para a correcta execução das acções de formação programadas, assegurando as operações técnicas relacionadas com a sua execução, nomeadamente a definição de sistemas de avaliação de conhecimentos;
+
+e) Detectar as aspirações do pessoal em matéria de valorização e aperfeiçoamento profissional, promovendo periodicamente a realização de inquéritos de orientação.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 22.º-A — Direcção de Serviços de Organização e Informática - Estrutura e atribuições
+
+1 - A Direcção de Serviços de Organização e Informática é um serviço que tem por objectivos estudar, propor e desenvolver as medidas conducentes à adaptação orgânica e funcional dos serviços às novas formas de organização do trabalho, à implantação de novas tecnologias da informação e ao desenvolvimento e exploração de sistemas informáticos.
+
+2 - Integram a Direcção de Serviços de Organização e Informática:
+
+a) A Divisão de Organização e Desenvolvimento Tecnológico;
+
+b) A Divisão de Sistemas Informáticos;
+
+c) A Divisão de Exploração.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 22.º-B — Divisão de Organização e Desenvolvimento Tecnológico - Atribuições
+
+São atribuições da Divisão de Organização e Desenvolvimento Tecnológico:
+
+a) Proceder à elaboração do plano integrado e global de actividades para a Direcção-Geral das Alfândegas, tendo em conta as propostas formuladas pelos vários serviços;
+
+b) Elaborar relatórios anuais de execução do mesmo plano, com vista a aferir do grau de consecução dos resultados alcançados;
+
+c) Elaborar os estudos e formular as propostas de adequação da estrutura orgânica da Direcção-Geral das Alfândegas aos seus objectivos, nomeadamente no que concerne à implementação dos serviços periféricos e desconcentração de competência;
+
+d) Proceder à definição e à adopção de metodologias adequadas a um aproveitamento correcto das instalações dos serviços, tendo em vista a racionalização do trabalho e o enquadramento integral dos recursos humanos e materiais;
+
+e) Estudar, propor e implementar formas de organização do trabalho, nomeadamente através do recurso a novas tecnologias da informação, com vista à implementação de uma ambiência de trabalho baseada em escritório electrónico;
+
+f) Proceder ao levantamento e eventual redefinição dos sistemas de informação, com vista à adopção dos processos mais adequados ao seu tratamento;
+
+g) Proceder à uniformização de conceitos e normalização de suportes e procedimentos da informação;
+
+h) Colaborar com a Divisão de Sistemas Informáticos na elaboração de propostas de planos e na realização de estudos conducentes à informatização global da Direcção-Geral das Alfândegas.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 22.º-C — Divisão de Sistemas Informáticos - Atribuições
+
+São atribuições da Divisão de Sistemas Informáticos:
+
+a) Realizar os estudos necessários à elaboração das propostas de aquisição de equipamentos e suportes lógicos, procedendo ao planeamento e coordenação e controle de todas as fases inerentes;
+
+b) Realizar os estudos necessários à definição de redes e meios de comunicação entre os equipamentos instalados ou a instalar, com vista à sua mais correcta e eficiente exploração, segurança da informação e sua transmissão;
+
+c) Conceber e implementar aplicações informáticas adequadas à satisfação das necessidades de informatização da Direcção-Geral e respectiva manutenção;
+
+d) Promover a elaboração dos instrumentos documentais necessários à correcta exploração das aplicações;
+
+e) Colaborar com os utilizadores, tendo em vista a completa adequação dos meios disponíveis aos objectivos que presidam à sua instalação;
+
+f) Garantir a aplicação de metodologias e de normas de documentação e execução técnica de projectos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 22.º-D — Divisão de Exploração - Atribuições
+
+São atribuições da Divisão de Exploração:
+
+a) Planificar e executar as actividades inerentes a uma adequada exploração dos equipamentos, com vista ao cumprimento cabal e atempado das tarefas que lhe sejam cometidas;
+
+b) Assegurar a concretização das medidas necessárias ao bom funcionamento dos equipamentos, desencadeando em tempo oportuno as acções adequadas à correcção de anomalias;
+
+c) Garantir, em colaboração com os fornecedores, a execução dos planos de manutenção de todo o equipamento, procedendo ao registo de todas as acções executadas neste âmbito;
+
+d) Proceder à elaboração e actualização dos manuais de operação do equipamento sob a sua responsabilidade, garantindo a aplicação de todas as normas e procedimentos que nestes se contenham;
+
+e) Proceder à definição de normas de segurança e garantir a sua execução, tendo em vista a salvaguarda dos meios postos à sua disposição, bem como da informação à sua guarda;
+
+f) Planificar e executar as acções que lhe sejam cometidas, inerentes ao registo de dados, elaborando os normativos adequados à sua correcta e atempada execução;
+
+g) Assegurar o controle dos produtos resultantes do processamento de dados, garantindo a sua expedição oportuna para os serviços utilizadores;
+
+h) Manter informação adequada acerca da utilização dos equipamentos, com vista à definição de indicadores que fundamentem eventuais alterações da política de exploração;
+
+i) Estabelecer os mecanismos adequados à garantia do cumprimento das normas de acesso à informação.
+
+Artigo 40.º-A
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+##### Subsecção III — Serviços de apoio instrumental
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 23.º — (Divisão de Documentação e Informação - Atribuições)
+
+Incumbe à Divisão de Documentação e Informação:
+
+a) Organizar e assegurar o funcionamento da biblioteca central, do arquivo geral e do arquivo histórico;
+
+b) Promover a recolha, selecção e tratamento da documentação de conteúdo técnico ou técnico-administrativo de interesse para os serviços, assim como da documentação de carácter histórico referente à DGA;
+
+c) Promover a aquisição de espécies bibliográficas com interesse para as actividades da DGA;
+
+d) Manter actualizados os ficheiros de legislação técnico-aduaneira;
+
+e) Cooperar com serviços congéneres nacionais e estrangeiros e com organizações internacionais na permuta de documentação e informação bibliográfica;
+
+f) Organizar e executar as operações de microfilmagem de documentos;
+
+g) Assegurar o serviço de traduções na DGA;
+
+h) Coordenar a execução e assegurar a difusão do Boletim da Direcção-Geral das Alfândegas e de outras publicações que se promovam no seu âmbito;
+
+i) Promover a recolha e o tratamento da informação noticiosa difundida pelos órgãos de comunicação social com interesse para as actividades da DGA;
+
+j) Receber, analisar e encaminhar os pedidos de informação e esclarecimento formulados pelos utentes dos serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 24.º — (Núcleo de Informática)
+
+1 - O Núcleo de Informática é um serviço de apoio com o nível de direcção de serviços integrando uma divisão.
+
+2 - Ao Núcleo de Informática incumbem, fundamentalmente, as seguintes atribuições:
+
+a) Cooperar com os serviços do Instituto de Informática e outros serviços congéneres nas fases de levantamento e estudo prévio, bem como na implantação de novas aplicações informáticas;
+
+b) Estabelecer permanente ligação ao centro processador, com vista ao bom andamento das tarefas correntes;
+
+c) Executar e coordenar as actividades relacionadas com a exploração de equipamentos periféricos, nomeadamente para a obtenção, em suportes adequados, das informações a tratar;
+
+d) Transmitir aquelas informações ao centro processador em data oportuna e em condições controladas de exactidão;
+
+e) Receber do centro os produtos do tratamento e, após o respectivo controle, remetê-los aos vários serviços interessados.
+
+3 - Incumbe ao director do Núcleo de Informática a orientação dos serviços a seu cargo e, em especial:
+
+a) Submeter ao director-geral, para apreciação, os estudos realizados e as respectivas conclusões;
+
+b) Dirigir e coordenar a aplicação das medidas ou recomendações que forem aprovadas no domínio das atribuições do Núcleo;
+
+c) Informar o director-geral sobre irregularidades de mau funcionamento de qualquer sector da Direcção-Geral em relação às matérias da sua competência, em especial no que se refere aos circuitos estabelecidos;
+
+d) Prever a evolução dos serviços da Direcção-Geral das Alfândegas de acordo com as informações prestadas pelo Núcleo, pondo o director-geral permanentemente ao corrente dessa possível evolução.
+
+4 - Incumbe ao chefe de divisão do Núcleo de Informática planear e implementar, em colaboração com os serviços competentes, os projectos aprovados, constituindo equipas flexíveis consoante os trabalhos a executar e a fase de desenvolvimento em que se encontrem, e, em especial:
+
+a) Colaborar no planeamento, execução dos estudos de definição de viabilidade, concepção e lançamento;
+
+b) Colaborar na definição do conteúdo dos ficheiros e bases de dados e proceder à definição dos circuitos e suportes de transmissão de dados, incluindo o desenho das redes de teleprocessamento;
+
+c) Estabelecer a ligação com os utentes no que respeita a novas aplicações até à sua entrada em regime regular de processamento;
+
+d) Colaborar na elaboração dos manuais do utilizador e de operação;
+
+e) Propor a actualização e remodelação de rotinas e programas em exploração;
+
+f) Dar parecer sobre a aquisição de equipamento e serviços de informática;
+
+g) Desenvolver as aplicações comuns para os serviços e outras que lhe sejam cometidas;
+
+h) Coligir estatísticas de ocupação de pessoal e máquinas para efeitos de cálculo de custo/benefício, planeamento e acompanhamento de projectos e estabelecimento de padrões;
+
+i) Executar quaisquer outros trabalhos no campo informático que lhe sejam cometidos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 401/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828), em vigor a partir de 1985-01-05
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 25.º — (Direcção de Serviços de Administração - Estrutura e atribuições)
+
+1 - A Direcção de Serviços de Administração é um serviço de apoio cuja acção se exerce, fundamentalmente, nas áreas da administração do pessoal e da gestão financeira e patrimonial.
+
+2 - Integram a Direcção de Serviços de Administração:
+
+a) A Repartição Administrativa;
+
+b) A Repartição de Orçamento e Contabilidade.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 26.º — (Repartição Administrativa - Estrutura e atribuições)
+
+1 - Incumbe à Repartição Administrativa assegurar os procedimentos administrativos relacionados com a administração do pessoal e patrimonial, bem como o apoio gráfico.
+
+2 - Integram a Repartição Administrativa:
+
+a) A secção de administração de pessoal;
+
+b) A secção de administração patrimonial;
+
+c) As oficinas de reprografia.
+
+3 - Incumbe em especial à secção de administração de pessoal:
+
+a) Executar as acções administrativas e o expediente respeitante ao regime estatutário do pessoal, nomeadamente em matéria de recrutamento, selecção, movimentação, provimento, disciplina, assiduidade, benefícios sociais e cessação da relação jurídica de emprego;
+
+b) Organizar e manter permanentemente actualizado um registo central biográfico, técnico e disciplinar do pessoal da DGA;
+
+c) Elaborar a lista de antiguidade do pessoal.
+
+4 - São atribuições da secção de administração patrimonial:
+
+a) Identificar as carências da DGA na área infra-estrutural e acompanhar a execução das medidas adoptadas para a sua solução, incluindo a realização de arrendamentos e de obras de construção, reparação ou adaptação;
+
+b) Assegurar a gestão patrimonial e o apetrechamento dos serviços, propondo as aquisições necessárias, e providênciar pela sua oportuna efectivação;
+
+c) Superintender na organização das consultas e concursos públicos e na preparação de contratos escritos para aquisição de material;
+
+d) Satisfazer as requisições de material e assegurar a distribuição pelas alfândegas do material que deva ser adquirido a nível central;
+
+e) Velar pela guarda e conservação dos bens móveis e imóveis afectos aos serviços centrais;
+
+f) Organizar e manter actualizado o cadastro e o inventário do património da DGA;
+
+g) Propor e tomar as providências necessárias à segurança das instalações e equipamentos e à segurança no trabalho dos funcionários.
+
+5 - Incumbe às oficinas de reprografia a impressão ou reprodução de documentos, a impressão de manuais e de outros elementos destinados à formação e documentação dos funcionários e, em geral, de suportes de informação com interesse para as actividades da DGA.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 27.º — (Repartição de Orçamento e Contabilidade - Atribuições)
+
+1 - São atribuições da Repartição de Orçamento e Contabilidade:
+
+a) Elaborar o projecto de orçamento da despesa e as propostas de alteração e acompanhar a sua execução;
+
+b) Propor, realizar e processar as despesas de acordo com o orçamento aprovado e o programa de actividades, com observância das normas gerais referentes a contabilidade pública;
+
+c) Contabilizar todos os rendimentos arrecadados pela DGA e elaborar a estatística geral comprovativa desses rendimentos;
+
+d) Executar o expediente dos processos de restituição de receitas indevidamente cobradas pela DGA cujo reembolso não haja de processar-se por encontro;
+
+e) Recolher, tratar e encaminhar os elementos relativos à previsão de receitas fiscais a cobrar pela DGA por cada ano económico;
+
+f) Assegurar o expediente necessário ao processamento e pagamento das remunerações e abonos diversos aos funcionários;
+
+g) Determinar os custos de cada unidade orgânica e estabelecer e manter uma estatística financeira necessária a um efectivo controle de gestão.
+
+2 - A Repartição de Orçamento e Contabilidade compreende as secções de orçamento e de contabilidade.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 28.º — (Secretarias e núcleos de apoio administrativo)
+
+1 - Junto das Direcções de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos, de Nomenclatura, Política Pautal, Origens e Relações Externas, de Circulação de Mercadorias e de Política Agrícola, de Prevenção e Repressão da Fraude e de Tráfego, Armazenagem e Benefícios Fiscais são desde já criadas secretarias próprias, incumbidas:
+
+a) Da recepção, classificação, registo e distribuição da correspondência e demais documentação dirigida aos respectivos órgãos e serviços;
+
+b) Da execução do trabalho dactilográfico e expedição da correspondência e demais documentação emitida;
+
+c) Da arrumação, manutenção e controle dos respectivos processos e mais documentação.
+
+2 - Junto do director-geral, da Inspecção Aduaneira, dos tribunais técnicos, do Núcleo de Informática, da Assessoria Jurídica, do Laboratório e das Divisões de Gestão de Recursos Humanos, de Formação e de Documentação e Informação haverá núcleos de apoio administrativo, que terão a seu cargo o expediente respectivo.
+
+3 - O expediente da Direcção de Serviços de Administração é assegurado pelas secções que se encontram integradas nas Repartições Administrativa e de Orçamento e Contabilidade.
+
+4 - Junto dos restantes órgãos e serviços cuja natureza e volume de expediente o justifiquem poderá haver núcleos de apoio administrativo, encarregados da execução do expediente e do trabalho dactilográfico.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+##### Subsecção IV — Serviços técnico-normativos
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 29.º — (Natureza e atribuições)
+
+1 - Os serviços técnico-normativos são essencialmente departamentos de estudo e concepção, produção legislativa e coordenação das actividades da DGA na área técnico-aduaneira.
+
+2 - Além do disposto no artigo 7.º, incumbe aos serviços técnico-normativos em matéria de regimes aduaneiros:
+
+a) Concorrer para definir, regulamentar e coordenar tecnicamente a sua aplicação;
+
+b) Formular propostas de alteração aos regimes aduaneiros que caibam no âmbito da sua competência.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 30.º — (Direcção de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos - Estrutura).
+
+A Direcção de Serviços de Cooperação Aduaneira Internacional a elaboração de estudos, fornecimentos Administrativos compreende:
+
+a) A Divisão de Cooperação Aduaneira Internacional:
+
+b) A Divisão dos Regimes Aduaneiros e Procedimentos Administrativos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 31.º — (Divisão de Cooperação Aduaneira Internacional - Atribuições)
+
+São atribuições da Divisão de Cooperação Aduaneira Internacional a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+a) Estudo de questões relativas à cooperação aduaneira no plano internacional e propostas de medidas destinadas a criar ou a intensificar essa cooperação com as administrações de outros países;
+
+b) Estudo de tratados, convenções e acordos bilaterais ou multilaterais com incidência aduaneira cuja apreciação não seja da competência específica de outros serviços;
+
+c) Estudos comparados da legislação aduaneira de diversos países, com vista à actualização e aperfeiçoamento da legislação nacional;
+
+d) Elaboração, no domínio da sua competência, e difusão de instruções para os serviços relativamente à aplicação de tratados, convenções ou acordos de que o País seja parte contratante;
+
+e) Participação nos trabalhos dos comités comunitários.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 32.º — (Divisão dos Regimes Aduaneiros e Procedimentos Administrativos - Atribuições)
+
+São atribuições da Divisão dos Regimes Aduaneiros e Procedimentos Administrativos a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+1) Aplicação da legislação comunitária em matéria de:
+
+a) Regimes aduaneiros: zonas francas, entrepostos, depósitos provisórios, tráficos de aperfeiçoamento activo e passivo, transformação de mercadorias sob controle aduaneiro, importação temporária, regime de retorno, franquias, etc.;
+
+b) Procedimentos administrativos: dívida aduaneira, procedimentos de exportação, draubaque, etc.;
+
+2) Elaboração e difusão de instruções para os serviços;
+
+3) Participação nos trabalhos dos comités comunitários.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 33.º — (Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas - Estrutura)
+
+A Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas compreende:
+
+a) A Divisão da Nomenclatura e Política Pautal;
+
+b) A Divisão das Origens e das Relações Externas.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 34.º — (Divisão da Nomenclatura e Política Pautal - Atribuições)
+
+São atribuições da Divisão da Nomenclatura e Política Pautal a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+a) Manter actualizada a Pauta dos Direitos de Importação em função da Pauta Exterior Comum da CEE;
+
+b) Colaborar na elaboração da nomenclatura estatística das mercadorias do comércio externo (NEMCE), tendo em atenção a Pauta Exterior Comum e a Nomenclatura para as Estatísticas do Comércio Externo da Comunidade e do Comércio, entre os Estados Membros (NIMEXE);
+
+c) Elaborar e actualizar a Pauta de Serviço com os elementos preparados nos próprios serviços ou fornecidos por outros sectores;
+
+d) Estudar, compilar e difundir os pareceres sobre classificação pautal adoptados pelo Conselho de Cooperação Aduaneira no âmbito do Comité da Nomenclatura, do Comité do Sistema Harmonizado ou de outros comités especializados e ainda do Comité da Nomenclatura da CEE;
+
+e) Elaboração e difusão de instruções para os serviços;
+
+f) Participação nos trabalhos dos comités comunitários,
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 34.º-B — (Direcção de Serviços de Circulação de Mercadorias e de Política Agrícola - Estrutura)
+
+A Direcção de Serviços de Circulação de Mercadorias e de Política Agrícola compreende:
+
+a) A Divisão de Circulação de Mercadorias;
+
+b) A Divisão de Política Agrícola.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 34.º-C — (Divisão de Circulação de Mercadorias - Atribuições)
+
+São atribuições da Divisão de Circulação de Mercadorias a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação no âmbito da sua competência, designadamente:
+
+a) Aplicação do regime de trânsito comunitário;
+
+b) Aplicação do regime intercomunitário aplicável aos produtos pescados por navios dos Estados membros;
+
+c) Aplicação do regime de circulação intercomunitária de mercadorias expedidas, prevendo a sua utilização temporária em um ou vários outros Estados membros;
+
+d) Aplicação das medidas de simplificação de formalidades nas trocas intercomuinitárias;
+
+e) Apresentação das mercadorias às alfândegas e livre prática;
+
+f) Elaboração e difusão de instruções para os serviços;
+
+g) Participação nos trabalhos dos comités comunitários.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 34.º-D — (Divisão de Política Agrícola - Atribuições)
+
+São atribuições da Divisão de Política Agrícola a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação no âmbito da sua competência, designadamente:
+
+1) Aplicação das normas de política agrícola, comunitárias e nacionais, nomeadamente:
+
+a) Cálculo dos direitos niveladores e imposições assimiladas e dos montantes compensatórios (monetários e de adesão);
+
+b) Organização dos processos relativos ao pagamento de restituições à exportação e outras compensações monetárias:
+
+c) Regime de certificados de importação e exportação;
+
+2) Aplicação dos acordos internacionais relativos à organização dos mercados de determinados produtos agrícolas (café, cacau, etc.) e respectivos regimes de importação e exportação,
+
+3) Elaboração e difusão de instruções para os serviços;
+
+4) Participação nos trabalhos dos comités comunitários.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 34.º-E — (Divisão das Origens e das Relações Externas - Atribuições)
+
+São atribuições da Divisão das Origens e das Relações Externas a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+a) Aplicação no plano técnico-aduaneiro das regras de origem de âmbitos geral e preferencial;
+
+b) Análise e aplicação dos acordos preferenciais e do sistema de preferências generalizadas;
+
+c) Estudo das implicações aduaneiras resultantes das restrições quantitativas, nomeadamente dos contingentes e plafonds;
+
+d) Elaboração e difusão de instruções para os serviços;
+
+e) Participação nos trabalhos dos comités comunitários.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 35.º — (Direcção de Serviços de Prevenção e Repressão da Fraude - Atribuições)
+
+A Direcção de Serviços de Prevenção e Repressão da Fraude compreende:
+
+a) A Divisão de Investigação e Fiscalização;
+
+b) A Divisão do Valor Aduaneiro.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 36.º — (Divisão de Investigação e Fiscalização - Atribuições)
+
+São atribuições da Divisão de Investigação e Fiscalização:
+
+a) Estudar e propor as medidas necessárias ao combate à evasão e à fraude fiscais e, em particular, aos tráficos ilícitos de estupefacientes, armas, objectos de arte e antiguidades;
+
+b) Superintender nos serviços de fiscalização aduaneira ou que com ela se relacionem, incluindo a fiscalização externa, tanto no continente como nas regiões autónomas, e coordenar, a nível global, as respectivas actividades, nomeadamente as de vigilância e fiscalização das estâncias aduaneiras e suas dependências, rodovias, caminhos de ferro, aeroportos e aeródromos, ancoradouros e rios limítrofes, bem como de comboios, aeronaves, embarcações e outros veículos e das mercadorias neles transportadas;
+
+c) Prestar apoio técnico às alfândegas na execução das acções de investigação destinadas a prevenir e reprimir a evasão e a fraude fiscais e, em particular, o tráfico ilícito de estupefacientes, armas, objectos de arte e antiguidades;
+
+d) Colaborar, a solicitação da Divisão do Valor Aduaneiro, em investigações e inquéritos relacionados com o valor das mercadorias;
+
+e) Proceder à elaboração de relatórios em resultado das acções de investigação realizadas, com vista à fundamentação de medidas a propor no âmbito do combate à evasão e à fraude fiscais e ao tráfico ilícito de estupefacientes;
+
+f) Organizar e manter actualizado um registo fiscal central;
+
+g) Assegurar, a nível central, e promover ou apoiar tecnicamente, a nível das alfândegas, a realização de inquéritos destinados a averiguar ou a prevenir:
+
+A regularidade de aplicação, destino ou utilização de mercadorias importadas ao abrigo de regimes especiais de benefício fiscal;
+
+Situações de evasão e fraude fiscais, incidindo, nomeadamente, sobre a contabilidade e outros elementos da escrita das empresas importadoras e exportadoras, bem como de quaisquer utentes dos serviços aduaneiros que se encontrem ligados aos fluxos internacionais de mercadorias e dos respectivos representantes legais junto dos serviços aduaneiros;
+
+h) Cooperar com outros organismos nacionais, estrangeiros e internacionais em actividades de prevenção, investigação e repressão da evasão e fraude fiscais e, em particular, do tráfico ilícito de estupefacientes, armas, objectos de arte e antiguidades.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 37.º — Divisão do Valor Aduaneiro - Atribuições
+
+São atribuições da Divisão do Valor Aduaneiro:
+
+a) Estudar a legislação sobre valor aduaneiro e elaborar normas e instruções para os serviços a fim de assegurar uma avaliação exacta e uniforme;
+
+b) Estudar e, sendo caso disso, dar conhecimento aos serviços das recomendações e resoluções sobre o valor aduaneiro das mercadorias, elaboradas por organismos internacionais;
+
+c) Centralizar a informação necessária a uma correcta avaliação das mercadorias, promovendo, nomeadamente, a recolha e o tratamento sistemático de documentos inerentes ao despacho aduaneiro e de outros suportes de informação justificativos do valor;
+
+d) Emitir informações e pareceres sobre valor aduaneiro, em especial sobre as questões levantadas pelas alfândegas, que, pela sua complexidade ou necessidade de harmonização, não possam ser resolvidas a esse nível;
+
+e) Elaborar estudos e emitir pareceres sobre as questões anti-dumping;
+
+f) Proceder a investigações e inquéritos para o controle do valor aduaneiro das mercadorias com a colaboração, quando julgada necessária, da Divisão de Investigação e Fiscalização.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 38.º — (Direcção de Serviços de Tráfego, Armazenagem e Benefícios Fiscais - Estrutura)
+
+Integram a Direcção de Serviços de Tráfego, Armazenagem e Benefícios Fiscais:
+
+a) A Divisão de Tráfego e Armazenagem;
+
+b) A Divisão de Benefícios Fiscais.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 39.º — (Divisão de Tráfego e Armazenagem - Atribuições)
+
+São atribuições da Divisão de Tráfego e Armazenagem:
+
+a) Emitir pareceres sobre eventuais dificuldades de aplicação prática dos regimes aduaneiros relativos a operações de carga, descarga, transporte, acondicionamento e armazenagem de mercadorias sob controle aduaneiro e aos respectivos meios de transporte;
+
+b) Propor medidas para a aplicação uniforme do regime aduaneiro de bagagem;
+
+c) Propor instruções para a correcta interpretação da legislação relativa a impostos sobre a navegação, cuja liquidação e cobrança caibam aos serviços aduaneiros, e esclarecer as dúvidas que se levantem na sua aplicação;
+
+d) Pronunciar-se sobre a venda de mercadorias em hasta pública;
+
+e) Elaborar estudos sobre a simplificação do despacho aduaneiro.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 40.º — (Divisão de Benefícios Fiscais - Atribuições)
+
+São atribuições da Divisão de Benefícios Fiscais:
+
+a) Realizar os estudos de base preparatórios das tomadas de posição da DGA na definição da política de benefícios fiscais;
+
+b) Assegurar a execução e colaborar no controle de aplicação e na avaliação de resultados da política de benefícios fiscais a cargo da administração aduaneira;
+
+c) Instruir os processos e pronunciar-se sobre os pedidos de concessão de benefícios fiscais que devam ser apreciados a nível superior;
+
+d) Propor a adopção de mecanismos e processos de controle da utilização ou destino das mercadorias e outros bens objecto de tratamento fiscal favorável e velar pela sua aplicação;
+
+e) Propor as medidas convenientes ao melhor alcance dos objectivos económicos, fiscais e sociais visados pela política de benefícios fiscais.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 40.º-A — Direcção de Serviços de Administração dos Impostos Internos - Estrutura
+
+A Direcção de Serviços de Administração dos Impostos Internos compreende:
+
+a) A Divisão de Impostos sobre o Consumo;
+
+b) A Divisão de Administração do Imposto sobre os Produtos Petrolíferos;
+
+c) A Divisão de Regimes Aduaneiros de Importação de Veículos Automóveis.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 40.º-B — Divisão de Impostos sobre o Consumo - Atribuições
+
+São atribuições da Divisão de Impostos sobre o Consumo a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação, no âmbito da sua competência, designadamente:
+
+a) Estudo das implicações aduaneiras resultantes da adesão às Comunidades Europeias, harmonização da respectiva legislação nacional e sua actualização;
+
+b) Assegurar a execução e colaborar no controle da aplicação e na avaliação de resultados dos diversos impostos indirectos a cargo da administração aduaneira, nomeadamente do imposto sobre o valor acrescentado, do imposto sobre o café e do imposto de consumo sobre o tabaco;
+
+c) Preparar a cooperação com os demais serviços do Estado intervenientes na definição das políticas de fiscalidade através de estudos preparatórios informadores de tomada de posição da Direcção-Geral das Alfândegas, bem como a colaboração na elaboração da legislação e concepção de declarações e impressos que se mostrem necessários à boa administração dos regimes fiscais;
+
+d) Elaborar e difundir instruções para os serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 40.º-C — Divisão de Administração do Imposto sobre os Produtos Petrolíferos - Atribuições
+
+São atribuições da Divisão de Administração do Imposto sobre os Produtos Petrolíferos a elaboração de estudos, formulação de propostas e definição de normas técnicas e métodos de actuação, no âmbito da sua competência, designadamente:
+
+a) Proceder ao cálculo e coordenação da cobrança pelas alfândegas do imposto sobre produtos petrolíferos e determinar a sua incidência nas receitas do Estado;
+
+b) Fixar à refinadora nacional, em articulação com os demais serviços competentes, os valores das componentes de variação semestral da fórmula de cálculo do preço de venda ao público, de acordo com a legislação em vigor;
+
+c) Participar no estabelecimento, de acordo com a legislação em vigor, de margens de comercialização dos produtos de petróleo, com preços fixados administrativamente;
+
+d) Colaborar na realização de estudos, elaborar questionários e propor as medidas de actualização e simplificação que se mostrem necessárias à administração do imposto;
+
+e) Executar todas as actividades relacionadas com a administração corrente do imposto que caibam no âmbito das suas atribuições, bem como as que lhe forem ordenadas superiormente.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 40.º-D — Divisão de Regimes Aduaneiros de Importação de Veículos Automóveis - Atribuições
+
+São atribuições da Divisão de Regimes Aduaneiros de Importação de Veículos Automóveis a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação, no âmbito da sua competência, designadamente:
+
+a) Estudo das implicações aduaneiras resultantes da adesão à Comunidade Económica Europeia, harmonização da respectiva legislação nacional e sua actualização;
+
+b) Preparar a cooperação com os demais serviços do Estado intervenientes na definição da política fiscal automóvel através de estudos preparatórios informadores de tomada de posição da Direcção-Geral das Alfândegas, bem como colaborar na elaboração de diplomas, declarações, instruções e impressos que se tornem necessários à sua boa administração;
+
+c) Propor a adopção de procedimentos de controle da utilização e destino dos veículos automóveis que forem objecto de tratamento fiscal favorável e zelar pela sua aplicação;
+
+d) Preparar a previsão orçamental de receitas relativas ao imposto incidente sobre automóveis montados ou fabricados em Portugal ou importados já completos, por cada ano económico;
+
+e) Analisar e aplicar as medidas tendentes à harmonização da base de incidência tributária na importação de veículos automóveis;
+
+f) Manter actualizados os ficheiros e articular com a Direcção de Serviços de Organização e Informática as formas mais adequadas de tratamento informático dos mesmos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+#### Secção III — Do funcionamento
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 41.º — (Regras gerais)
+
+O funcionamento dos serviços da DGA subordinar-se-á:
+
+a) A critérios de direcção por objectivos tendo em vista o melhor aproveitamento dos recursos disponíveis e a sua valorização permanente e a maximização dos respectivos níveis de eficiência e eficácia;
+
+b) Ao princípio da desconcentração decisória, mediante a transição progressiva de poderes para os órgãos e serviços regionais e periféricos, de acordo com as atribuições e competências que lhes vierem a ser conferidas na reestruturação a que se alude no artigo 150.º
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 42.º — (Relações funcionais)
+
+Os serviços centrais manterão estreitas relações entre si no exercício das respectivas actividades e, dentro da orientação superiormente estabelecida, nos termos dos programas de actividade aprovados, tendo em vista a máxima eficiência na realização dos objectivos da DGA.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 43.º — (Trabalho por projectos)
+
+A actividade dos serviços da DGA será conjunta sempre que a natureza dos assuntos a tratar disser respeito a mais de um deles, e processar-se-á por projectos ou grupos de projectos quando a natureza dos objectivos o justificar.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+### Capítulo III — Do pessoal
+
+#### Secção I — Disposições gerais
+
+###### Artigo 44.º — (Quadro de pessoal)
+
+1 - O quadro de pessoal da DGA, suas designações e categorias, é o constante do mapa anexo ao presente diploma.
+
+2 - As categorias do pessoal, à excepção do pessoal dirigente e outro pessoal em cargos de direcção e chefia e do referido na secção IV do presente capítulo, integram-se em carreiras.
+
+3 - Os lugares do quadro serão preenchidos à medida das necessidades dos serviços.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 45.º — (Alterações ao quadro de pessoal)
+
+1 - Sempre que as exigências técnicas o imponham ou as necessidades de serviço o justifiquem, poderá, sob proposta do director-geral, ser revisto o quadro do pessoal da DGA mediante portaria conjunta do Ministro de Estado e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
+
+2 - A contingentação do pessoal para os serviços centrais e para as diferentes alfândegas será estabelecida nos termos do número anterior, sob proposta do director-geral.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 46.º — (Realização de estudos, projectos e outros trabalhos especiais)
+
+1 - A realização de estudos, projectos e outros trabalhos específicos de carácter excepcional poderá ser confiada, mediante contrato, a entidades, nacionais ou estrangeiras, de reconhecido mérito, cuja actividade ficará sempre sujeita à orientação técnica do director-geral.
+
+2 - Os contratos deverão ser sempre reduzidos a escrito e mencionar a natureza do trabalho, o montante da remuneração e o prazo previsto para a sua execução.
+
+3 - Os contratos referidos no número anterior não conferem em nenhum caso a qualidade de agente administrativo.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 47.º — (Requisição de pessoal)
+
+1 - Quando as necessidades do serviço o exijam ou se revelar indispensável para a realização de tarefas que requeiram formação e experiência em domínios especializados, poderá o Ministro de Estado e das Finanças e do Plano, por despacho e sob proposta do director-geral, requisitar pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam.
+
+2 - O período de requisição, que será previamente fixado, não poderá exceder a duração de um ano, prazo este que poderá ser prorrogado por uma só vez.
+
+3 - A requisição não depende da existência de vaga no quadro de pessoal da DGA nem dará lugar à abertura de vaga no quadro de origem, mas poderá o lugar ser provido interinamente pelo tempo que durar a requisição.
+
+4 - Os encargos com o pessoal requisitado serão suportados por conta das adequadas verbas inscritas no orçamento da DGA.
+
+5 - O pessoal da DGA poderá, nas condições previstas nos números anteriores, ser requisitado para outros departamentos da Administração Pública.
+
+6 - O pessoal requisitado não poderá ser prejudicado nos seus direitos e regalias.
+
+###### Artigo 48.º — (Pessoal da DGA em comissão de serviço noutros departamentos)
+
+1 - Os lugares dos funcionários da DGA que forem nomeados em comissão para quaisquer cargos ou funções públicas poderão ser providos interinamente.
+
+2 - O tempo de serviço prestado pelos funcionários referidos no número anterior será contado, para todos os efeitos, como se tivesse sido prestado na DGA.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 49.º — (Formas de provimento e situações do pessoal)
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 278/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1999-353338), em vigor a partir de 1999-07-31
+
+> Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 50.º — (Recrutamento)
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - A natureza, programas e condições de aplicação dos métodos de selecção a adoptar para capa categoria, bem como a tramitação dos concursos, serão definidos por portaria do Ministro de Estado das Finanças e do Plano e do membro do Governo que tiver a ser cargo a função pública, por proposta do director-geral, sem prejuízo dos princípios estabelecidos na lei geral e no presente diploma.
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 51.º — (Progressão nas carreiras)
+
+1 - Sem prejuízo do estabelecido para casos especiais nos números seguintes, o acesso à categoria superior fica em geral condicionado:
+
+a) À permanência de 3 anos na categoria imediatamente inferior;
+
+b) À classificação de serviço não inferior a Bom;
+
+c) (Revogado).
+
+2 - (Revogado).
+
+3 - O acesso à categoria superior do pessoal integrado nas carreiras de técnico superior de laboratório, de técnico analista e de técnico auxiliar analista e à categoria de tesoureiro da alfândega fica condicionado à satisfação dos requisitos referidos nas alíneas a) e b) do n.º 1 do presente artigo e à aprovação em provas de selecção adequadas.
+
+4 - (Revogado).
+
+5 - (Revogado).       l.
+
+6 - (Revogado).
+
+> Alterado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 52.º — (Posse)
+
+1 - A posse será tomada nos serviços centrais ou na alfândega onde o funcionário for colocado, salvo quando o director-geral, em casos justificados, autorizar outro procedimento.
+
+2 - A posse será conferida pelo director-geral aos directores de alfândega, juízes auditores fiscais e funcionários colocados nos serviços centrais e pelos directores de alfândega, nos restantes casos.
+
+3 - O prazo para a posse, contado do dia da publicação do respectivo despacho de nomeação no Diário da República, será de 30 dias.
+
+4 - O prazo previsto no número anterior poderá ser prorrogado por despacho ministerial, em casos de força maior, devidamente comprovados.
+
+5 - A não comparência ao acto da posse no prazo legal importa:
+
+a) A anulação automática da nomeação quando se trate de primeira nomeação na DGA;
+
+b) A impossibilidade de provimento noutros lugares ou cargos da DGA pelo período de 3 anos, a contar da data em que deveria ter ocorrido a posse, nos restantes casos.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 53.º — (Desistência de nomeação ou promoção)
+
+1 - Os candidatos aprovados em cursos de formação ou provas selectivas ou incluídos em listas de promoção poderão desistir da nomeação, passando, neste caso, para o último lugar das listas de classificação.
+
+2 - O pedido de desistência só será considerado uma vez para a mesma categoria ou cargo e se for apresentado antes de proferido o despacho de nomeação.
+
+###### Artigo 54.º — (Cadastro)
+
+1 - O cadastro de cada funcionário consiste no respectivo processo individual, constituído pelos documentos que se lhe refiram e pela folha de serviço com a indicação da idade, estado, naturalidade e morada, habilitações, lugar que exerce, dos que tenha exercido, datas das nomeações ou contratos, posses, licenças, faltas, promoções, transferências, aposentação, exoneração, louvores, distinções, penalidades, classificações de serviço e das provas ou cursos realizados, livros e artigos publicados e tudo o mais que possa interessar à carreira profissional.
+
+2 - Os dirigentes dos serviços são obrigados a comunicar, no prazo de 8 dias, a data da posse dos respectivos funcionários e todos os demais elementos que devam constar do processo individual e da folha de serviço, cumprindo aos próprios funcionários participar as alterações ao estado civil e as mudanças de residência.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 55.º — (Horário de trabalho e serviços extraordinários)
+
+1 - Quando a natureza do trabalho o justifique, poderá, sob proposta do director-geral e por despacho do Ministro de Estado e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, ser fixado um horário especial, sem prejuízo do cumprimento da duração semanal do trabalho estabelecida na lei geral.
+
+2 - O controle da assiduidade e da presença efectiva dos funcionários e a verificação da duração do trabalho serão realizados nos termos a definir por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, sem prejuízo do estabelecido na lei geral.
+
+3 - Os serviços extraordinários a requerimento das partes são, nas estâncias aduaneiras, sempre realizados fora das horas normais de expediente; fora das estâncias aduaneiras, serão também, em regra, executados fora daquelas horas.
+
+4 - Os serviços extraordinários referidos no número anterior não dão lugar à remuneração por trabalho extraordinário.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+#### Secção II — Pessoal dirigente e outro pessoal em cargos de direcção e chefia
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção I — Pessoal dirigente dos serviços centrais
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 56.º — (Director-geral)
+
+O cargo de director-geral será provido, por despacho conjunto do Primeiro-Ministro e do Ministro de Estado e das Finanças e do Plano, de entre indivíduos habilitados com licenciatura adequada, reconhecida competência e experiência válida para o exercício das funções e, preferentemente, pertencentes ao pessoal aduaneiro técnico superior.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 57.º — (Subdirector-geral)
+
+O cargo de subdirector-geral será provido, por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre reverificadores assessores ou reverificadores, licenciados, que possuam competência e experiência válidas para o exercício das funções, ou nos termos da lei geral.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 58.º — (Inspector-chefe)
+
+O cargo de inspector-chefe será provido, por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre reverificadores assessores ou reverificadores, licenciados, com reconhecido mérito para o exercício da função.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 59.º — (Directores de serviços)
+
+1 - O cargo de director de serviços ou equiparado será provido, por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre chefes de divisão, reverificadores-assessores ou reverificadores, licenciados, que revelem competência adequada ao exercício das funções.
+
+2 - Os cargos de directores dos serviços de administração, de organização e recursos humanos e do Núcleo de Informática poderão ainda ser providos nos termos da lei geral.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 401/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828), em vigor a partir de 1985-01-05
+
+###### Artigo 60.º — (Chefes de divisão)
+
+1 - O cargo de chefe de divisão ou equiparado será provido, por despacho do Ministro das Finanças e do Plano, sob proposta do director-geral, de entre o pessoal aduaneiro técnico superior com categoria não inferior a primeiro-verificador superior de reconhecida competência para o exercício das funções.
+
+2 - Os cargos dos chefes das Divisões de Organização, de Gestão de Recursos Humanos, de Formação, de Documentação e Informação e de Informática poderão ainda ser providos nos termos da lei geral.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 401/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828), em vigor a partir de 1985-01-05
+
+###### Artigo 61.º — (Director de laboratório)
+
+O cargo de director de laboratório será provido, por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre assessores e técnicos superiores principais de laboratório que revelem competência adequada para o exercício das funções.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção II — Pessoal de direcção e chefia das alfândegas
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 62.º — (Director de alfândega)
+
+O cargo de director de alfândega será provido, por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre reverificadores-assessores ou reverificadores, licenciados, que revelem competência adequada ao exercício das funções.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 63.º — (Subdirector de alfândega, chefe de serviço de despacho, chefe de serviço de fiscalização e chefe de serviço de contabilidade e pessoal.)
+
+Os cargos de subdirector de alfândega, chefe de serviço de despacho, chefe de serviço de fiscalização e chefe de serviço de contabilidade e pessoal serão providos por despacho do Ministro das Finanças e do Plano, sob proposta do director-geral, de entre o pessoal aduaneiro técnico superior com categoria não inferior a primeiro-verificador superior de reconhecida competência para o exercício das funções.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 401/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828), em vigor a partir de 1985-01-05
+
+##### Subsecção III — Chefes de repartição e secção
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 64.º — (Chefes de repartição)
+
+1 - O cargo de chefe de repartição será provido, mediante provas de selecção adequadas, de entre chefes de secção com 3 anos de efectivo serviço na categoria e classificação de serviço não inferior a Bom.
+
+2 - Quando se verifique a inexistência de funcionários da categoria prevista no número anterior com formação ou experiência adequadas ao exercício das respectivas funções, os lugares de chefe de repartição poderão ser preenchidos de entre diplomados com curso superior adequado.
+
+3 - O provimento previsto nos termos do número anterior fica condicionado à comprovação da formação e experiência exigidas através da apreciação curricular, a publicar no Diário da República, e à aprovação em provas de selecção adequadas.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 65.º — (Chefes de secção)
+
+O cargo de chefe de secção será provido, mediante provas de selecção adequadas, de entre o pessoal a seguir indicado, com 3 anos de efectivo serviço na categoria e classificação de serviço não inferior a Bom:
+
+1) Para secções com competência de natureza essencialmente técnico-administrativa, de entre secretários aduaneiros principais;
+
+2) Para secções com competência de natureza estritamente administrativa, de entre primeiros-oficiais.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+##### Subsecção IV — Equiparações
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+###### Artigo 66.º — Equiparação a director de serviços e a chefe de divisão
+
+1 - Consideram-se equiparados, para todos os efeitos:
+
+a) Ao cargo de director de serviços os cargos de inspector-chefe e de director das Alfândegas de Lisboa, do Porto, do Funchal e de Ponta Delgada;
+
+b) Ao cargo de chefe de divisão os cargos previstos nos artigos 61.º e 63.º e os de chefe das delegações do Aeroporto de Lisboa, Alverca, Elvas, Faro, Jardim do Tabaco, Setúbal, Vila Real de Santo António, Xabregas, Aeroporto de Pedras Rubras, Aveiro, Freixieiro, Leixões, Valença, Vilar Formoso, Angra do Heroísmo e Horta.
+
+2 - Para efeitos remuneratórios, os cargos de juiz dos tribunais técnicos são equiparados a director de serviços.
+
+3 - O disposto no n.º 5 do artigo 92.º não se aplica às chefias das delegações previstas na alínea b) do n.º 1.
+
+> Revogado pelo/a Artigo 71.º do/a [Decreto-Lei n.º 324/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), em vigor a partir de 1993-09-30
+
+> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 273/90 - Diário da República n.º 207/1990, Série I de 1990-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1990-556665), em vigor a partir de 1990-09-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 400/86 - Diário da República n.º 276/1986, Série I de 1986-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1986-221529), em vigor a partir de 1986-12-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+#### Secção III — Do pessoal integrado em carreiras
+
+###### Artigo 67.º — (Do pessoal aduaneiro técnico superior)
+
+1 - O ingresso na carreira do pessoal aduaneiro técnico superior far-se-á pela categoria de segundo-verificador superior, de entre os verificadores superiores estagiários que obtiverem aprovação nas provas ou cursos especialmente realizados para o efeito e após aproveitamento no respectivo estágio.
+
+2 - Sem prejuízo do disposto no número anterior, poderão ingressar nas vagas da categoria de segundo-verificador superior, com dispensa do estágio e mediante requerimento ao director-geral, os técnicos verificadores que satisfaçam os seguintes requisitos:
+
+a) Posse de licenciatura em curso superior estabelecido no n.º 1 do artigo 68.º;
+
+b) Permanência de um mínimo de 3 anos de efectivo serviço na respectiva carreira;
+
+c) Classificação de serviço não inferior a Bom nos últimos 3 anos;
+
+d) Aprovação nas provas ou cursos especialmente realizados para o efeito.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 68.º — (Admissão de verificadores superiores estagiários)
+
+1 - Os verificadores superiores estagiários serão nomeados de entre indivíduos que possuam licenciatura em Economia, Finanças, Organização e Gestão de Empresas ou Direito, mediante concurso documental e provas de selecção adequadas.
+
+2 - Poderão ser admitidos ao estágio tantos candidatos quantas as vagas existentes de segundo-verificador superior.
+
+3 - Até ao limite de um terço das vagas de segundo-verificador superior poderão, mediante concurso documental, ser admitidos a estágio os técnicos verificadores com mais de 1 ano de efectivo serviço na respectiva carreira e que satisfaçam os requisitos estabelecidos nas alíneas a) e c) do n.º 2 do artigo anterior.
+
+4 - O estágio terá a duração de 1 ano e será regulamentado nos termos previstos no n.º 3 do artigo 50.º do presente diploma.
+
+5 - Em qualquer momento poderão ser exonerados, ou regressar ao lugar de origem, os estagiários que revelem uma notória inadequação para o exercício das funções.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 68.º-A — Do pessoal técnico superior
+
+O ingresso na carreira de pessoal técnico superior far-se-á pela categoria de técnico superior de 2.ª classe, observados os requisitos previstos na lei geral.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/88 - Diário da República n.º 39/1988, Série I de 1988-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), em vigor a partir de 1988-02-22
+
+###### Artigo 69.º — (Do pessoal técnico superior de laboratório)
+
+O ingresso na carreira do pessoal técnico superior de laboratório far-se-á pela categoria de técnico superior de 2.ª classe, de entre indivíduos que possuam licenciatura em Química ou Engenharia Química.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 70.º — (Do pessoal técnico superior de BAD)
+
+O ingresso na carreira do pessoal técnico superior de BAD far-se-á pela categoria de técnico superior de 2.ª classe, de entre indivíduos habilitados com licenciatura e curso complementar previstos na lei geral.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 71.º — (Dos técnicos verificadores)
+
+O ingresso na carreira de técnico verificador far-se-á pela categoria de técnico verificador de 2.ª classe, de entre indivíduos que possuam curso superior adequado que não confira o grau de licenciatura.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 72.º — (Dos técnicos analistas de laboratório)
+
+O ingresso na carreira de técnico analista far-se-á pela categoria de técnico analista de 2.ª classe, de entre indivíduos que possuam curso superior de química laboratorial ou industrial que não confira o grau de licenciatura.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 73.º — (Dos tesoureiros)
+
+1 - O ingresso na carreira de tesoureiro far-se-á pela categoria de tesoureiro de 2.ª classe, de entre secretários aduaneiros de 2.ª classe habilitados com o curso geral do ensino secundário ou equiparado, com o mínimo de 3 anos na categoria e classificação de serviços não inferior a Bom.
+
+2 - Na falta de candidatos da categoria prevista no número anterior, os lugares de tesoureiro poderão ser preenchidos de entre indivíduos habilitados com o curso complementar do ensino secundário ou equiparado, mediante concurso documental e provas de selecção adequadas.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 74.º — (Dos secretários aduaneiros)
+
+1 - O ingresso na carreira de secretário aduaneiro far-se-á pela categoria de secretário aduaneiro de 2.ª classe, de entre secretários aduaneiros estagiários que obtiverem aproveitamento no respectivo estágio e aprovação nas provas ou cursos especialmente realizados para o efeito.
+
+2 - Poderão ingressar na categoria de secretário aduaneiro de 2.ª clase, até ao limite de metade do número de vagas nessa categoria, os técnicos auxiliares de verificação de 1.ª ou de 2.ª classe habilitados com o curso geral do ensino secundário ou equiparado, com o mínimo de 3 anos na respectiva carreira, classificação de serviço não inferior a Bom e aproveitamento nas provas ou cursos especialmente realizados para o efeito.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 75.º — (Admissão de secretários aduaneiros estagiários)
+
+1 - Os secretários aduaneiros estagiários serão nomeados de entre indivíduos habilitados com o curso complementar do ensino secundário ou equiparado, mediante concurso documental e provas de selecção adequadas.
+
+2 - O estágio terá a duração de 6 meses e será regulamentado nos termos previstos no n.º 3 do artigo 50.º do presente diploma.
+
+3 - Em qualquer momento poderão ser exonerados, ou regressar ao lugar de origem, os estagiários que revelem uma notória inadequação para o exercício das funções.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 76.º — (Dos técnicos auxiliares analistas de laboratório)
+
+O ingresso na carreira de técnico auxiliar analista de laboratório far-se-á pela categoria de técnico auxiliar analista de 2.ª classe, de entre indivíduos habilitados com o curso de formação técnico-profissional complementar de química ou equiparado.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 77.º — (Dos técnicos auxiliares de verificação)
+
+O ingresso na carreira de técnico auxiliar de verificação far-se-á pela categoria de técnico auxiliar de verificação de 2.ª classe, de entre indivíduos que possuam o curso geral do ensino secundário ou equiparado.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 78.º — (Dos técnicos auxiliares de BAD)
+
+O ingresso na carreira de técnico auxiliar de BAD far-se-á pela categoria de técnico auxiliar de 2.ª classe, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação complementar prevista na lei geral.
+
+###### Artigo 79.º — (Dos oficiais administrativos e dos escriturários-dactilógrafos)
+
+1 - O ingresso na carreira de oficiais administrativos far-se-á pela categoria de terceiro-oficial, de entre indivíduos que possuam o curso geral do ensino secundário ou equiparado.
+
+2 - O ingresso na carreira de escriturário-dactilógrafo far-se-á pela categoria de escriturário-dactilógrafo de 2.ª classe, de entre indivíduos que possuam a escolaridade obrigatória e prática de dactilografia.
+
+###### Artigo 80.º — (Do pessoal operário e auxiliar)
+
+O ingresso nas carreiras do pessoal operário e auxiliar far-se-á pela categoria mais baixa da respectiva carreira, observados os requisitos previstos na lei geral.
+
+#### Secção IV — Do pessoal não integrado em carreiras
+
+###### Artigo 81.º — (Dos juízes dos tribunais técnicos)
+
+Os juízes dos tribunais técnicos serão providos por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre reverificadores assessores ou reverificadores, licenciados, com reconhecido mérito para o exercício da função.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 82.º — (Dos inspectores)
+
+O inspector principal e os inspectores de 1.ª e 2.ª classe serão providos, por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, de entre, respectivamente, reverificadores e primeiros e segundos-verificadores superiores com reconhecido mérito para o exercício da função.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 278/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1999-353338), em vigor a partir de 1999-07-31
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 83.º — (Dos tradutores-correspondentes-intérpretes)
+
+Os tradutores-correspondentes-intérpretes serão providos de entre indivíduos que possuam o curso geral do ensino secundário ou equiparado e o domínio escrito e falado, pelo menos, das línguas francesa e inglesa, preferindo, pela ordem indicada, os que tiverem:
+
+a) Conhecimento de maior número de línguas, para além das acima indicadas;
+
+b) Grau de habilitações mais elevado.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+#### Secção V — Selecção
+
+###### Artigo 84.º — (Admissão às provas de selecção e aos cursos de formação)
+
+1 - Às provas de conhecimentos teóricos e práticos que visem o recrutamento para as diferentes categorias de acesso poderão candidatar-se os funcionários com o mínimo de 3 anos na categoria e média de classificação de serviço não inferior a Bom no último triénio, observado o disposto no n.º 6 do artigo 51.º
+
+2 - Sem prejuízo de casos especiais previstos no presente diploma, serão admitidos aos cursos de formação que visem o recrutamento para as diferentes categorias de acesso os funcionários que satisfaçam os seguintes requisitos:
+
+a) Permanência de um mínimo de 2 anos na categoria;
+
+b) Média de classificação de serviço não inferior a Bom nos últimos 2 anos;
+
+c) Aprovação em provas de selecção adequadas, a realizar nos casos em que o número de candidatos exceda largamente as vagas que se prevejam durante o período de validade desses cursos.
+
+3 - Sempre que se verifique o previsto na parte final da alínea c) do número anterior, será estabelecido, para cada caso, o número máximo de participantes nos cursos.
+
+###### Artigo 85.º — (Efeitos de reprovação nas provas selectivas)
+
+1 - Os candidatos reprovados nas provas referidas no n.º 1 do artigo anterior e nos cursos previstos no n.º 2 desse artigo só poderão ser admitidos a novas provas selectivas para a mesma categoria ou cargo decorrido o prazo de 1 ano sobre a data da última prova.
+
+2 - Os candidatos reprovados em 3 provas selectivas para o mesmo lugar só poderão ser admitidos a novas provas decorridos 3 anos sobre a data da última prova.
+
+3 - Para efeitos dos números anteriores, consideram-se reprovações as faltas não justificadas àquelas provas.
+
+###### Artigo 86.º — (Prazo de validade das provas selectivas)
+
+O prazo de validade dos cursos de formação e das diferentes provas de selecção será de 1 ano ou de 3 anos, conforme se destinem, respectivamente, ao ingresso ou acesso, a contar da data em que for publicada no Diário da República a respectiva lista de candidatos aprovados.
+
+###### Artigo 87.º — (Direito de recurso)
+
+1 - Os candidatos não admitidos ou reprovados nos cursos de formação ou noutras provas de selecção poderão recorrer para o Ministro de Estado e das Finanças e do Plano no prazo de 15 dias a contar da data da publicação no Diário da República das listas que, para o efeito, venham a ser elaboradas.
+
+2 - A decisão sobre os recursos será tomada no prazo de 15 dias.
+
+###### Artigo 88.º — (Determinação do mérito para efeitos de promoção)
+
+1 - Quando o recrutamento para as categorias de acesso dependa de aprovação em provas de conhecimentos teóricos e práticos ou cursos de formação, bem como de apresentação de trabalho nos termos da alínea d) do n.º 2 do artigo 51.º, a avaliação do mérito dos candidatos que obtenham aprovação naquelas provas ou cursos, tendo em vista a respectiva graduação, far-se-á com base nos seguintes factores:
+
+a) Nota ou média das notas obtidas nas respectivas provas, cursos ou trabalhos;
+
+b) Classificação de serviço referente à média dos 3 últimos anos;
+
+c) Antiguidade na categoria;
+
+d) Classificação atribuída a trabalhos, dissertações, sugestões ou outras formas de participação, por escrito, a que os funcionários não sejam obrigados no desempenho nornal das suas funções.
+
+2 - O factor referido na alínea a) do número anterior será ponderado com o coeficiente 2, o factor referido na alínea b) com o coeficiente 1, a antiguidade na categoria será valorizada com 0,1 valores por cada ano completo de serviço, até ao máximo de 10 anos, e o factor referido na alínea d) será valorizado com 0,1 valores por cada forma de participação, até ao máximo de 5, e que obtenha classificação não inferior a Muito bom.
+
+3 - A classificação final será a média dos factores mencionados nas alíneas a) e b) do n.º 1, aumentada das valorizações atribuídas aos factores c) e d), sendo desde logo excluídos os candidatos que obtiverem menos de 10 valores no factor referido na alínea a).
+
+4 - Quando o recrutamento para as categorias de acesso não dependa da realização de provas ou cursos, e sem prejuízo dos casos específicos previstos no presente diploma, a determinação do mérito dos candidatos, tendo em vista a respectiva graduação, far-se-á com base nos factores b) e c) indicados no n.º 1 deste artigo.
+
+###### Artigo 89.º — (Condições de preferência)
+
+1 - Os concursos para admissão a lugares do quadro serão abertos prioritariamente entre os funcionários da DGA que nela prestem serviço há mais de 1 ano e que possuam as habilitações literárias exigidas para as correspondentes categorias.
+
+2 - Sem prejuízo dos casos específicos previstos no presente diploma, o número de lugares a prover nos termos do número anterior não poderá exceder metade do número de vagas a preencher.
+
+3 - A ordenação dos candidatos nos concursos documentais para efeitos de admissão nos lugares do quadro da DGA será feita de acordo com o mais elevado nível de currículo e, em caso de igualdade, observando as condições de preferência a estabelecer nos termos do n.º 3 do artigo 50.º do presente diploma.
+
+4 - Quando os concursos documentais forem abertos para efeitos de provimento de pessoal da DGA, os candidatos serão classificados, para além do mais elevado nível de currículo, de acordo com a seguinte ordem de preferência:
+
+a) Mais elevada categoria dos opositores;
+
+b) Melhor classificação de serviço referente à média dos 3 últimos anos;
+
+c) Maior antiguidade na categoria;
+
+d) Maior antiguidade na DGA.
+
+5 - Quando se verificar igualdade na classificação obtida nos cursos, provas ou estágio obrigatórios que visem o provimento em lugares de ingresso ou em cargo de direcção ou chefia, será também de observar, conforme os casos:
+
+a) A ordem de preferência estabelecida no número anterior, na parte aplicável, no provimento por pessoal da DGA;
+
+b) A ordem de preferência a estabelecer nos termos da parte final do n.º 3 do presente artigo, nos restantes casos.
+
+6 - Verificando-se igualdade na classificação final ou na graduação prevista, respectivamente, nos n.os 3 e 4 do artigo anterior, será observada a seguinte ordem de preferência:
+
+a) Maior antiguidade na DGA;
+
+b) Maior antiguidade na função pública;
+
+c) Ter mais idade.
+
+7 - Nas admissões aos diferentes lugares do quadro terão sempre preferência, em igualdade de circunstâncias, os funcionários da DGA.
+
+8 - As disposições previstas neste artigo não prejudicam outras condições de preferência estabelecidas no presente diploma para casos especiais.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 90.º — (Classificação de serviço)
+
+Em cada ano civil os funcionários dos serviços a que se aplica o presente diploma serão classificados, relativamente ao serviço prestado, nos termos previstos na lei geral.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+#### Secção VI — Formação e aperfeiçoamento profissional
+
+###### Artigo 91.º — (Princípios gerais)
+
+1 - A DGA assegurará a concretização do direito à formação permanente aos funcionários dos seus serviços.
+
+2 - Para satisfação daqueles objectivos serão organizados os seguintes cursos, cuja frequência poderá ser obrigatória:
+
+a) Cursos de formação para acesso, destinados a ministrar aos funcionários os conhecimentos adequados com vista à sua promoção;
+
+b) Cursos de formação inicial;
+
+c) Cursos de formação complementar;
+
+d) Cursos de aperfeiçoamento profissional.
+
+3 - Poderão ainda ser organizados estágios, cursos e visitas de estudo realizadas por entidades nacionais ou estrangeiras, nomeadamente no âmbito da cooperação internacional.
+
+4 - As acções de formação referidas nos números anteriores poderão vir a ser apoiadas ou realizadas pelo Centro de Formação da Administração Pública e pelo Instituto Nacional de Administração, de harmonia com a política de formação que vier a ser estabelecida e com os respectivos planos gerais de acção.
+
+5 - Os cursos poderão ser professados por funcionários aduaneiros ou por indivíduos estranhos com especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas, mediante proposta do director-geral, por despacho do Ministro de Estado e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
+
+6 - Os cursos de cuja aprovação dependa o provimento nos diferentes lugares do quadro serão regulamentados nos termos previstos no n.º 3 do artigo 50.º
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+#### Secção VII — Transferências e deslocações
+
+###### Artigo 92.º — (Regime)
+
+1 - Os funcionários da DGA podem ser transferidos dos serviços centrais para as alfândegas, destas para aqueles ou de uma para outra alfândega, por despacho do director-geral, ouvidos os respectivos directores de alfândega.
+
+2 - A transferência dos funcionários a que alude o número anterior poderá ser feita a seu pedido, por conveniência de serviço ou por permuta.
+
+3 - Nas transferências a pedido do interessado observar-se-á a ordem de entrada dos respectivos requerimentos, preferindo, em caso de igualdade, pela ordem indicada, os funcionários mais antigos na categoria e os de melhor classificação de serviço reportada ao ano anterior.
+
+4 - Não obstante o disposto no número anterior, quando o interessado prove que o seu cônjuge exerce há mais de 1 ano funções públicas de carácter permanente no concelho ou concelhos limítrofes onde se dê a vaga, terá preferência absoluta.
+
+5 - A transferência por conveniência de serviço apenas terá lugar quando devidamente fundamentada e pelo período máximo de 1 ano, preferindo os mais modernos na categoria, de acordo com a última lista de antiguidades publicada.
+
+Esse período de transferência só poderá exceder o período de 1 ano com a anuência expressa dos serviços e do funcionário transferido.
+
+6 - Os funcionários podem requerer a permuta quando sejam da mesma categoria, que só será concedida se não houver inconveniência para os serviços, que deverá ser sempre devidamente fundamentada.
+
+7 - Os condicionalismos referidos no n.º 5 não se aplicam nos casos em que a transferência se der por motivos disciplinares.
+
+8 - As deslocações dos funcionários em regime de colocação temporária dentro de cada alfândega não se consideram transferências para efeitos dos números anteriores.
+
+9 - Não obstante o disposto no número anterior, às colocações temporárias em estâncias aduaneiras que distem mais de 30 km da sede da respectiva alfândega ou, tratando-se das Alfândegas do Funchal ou de Ponta Delgada, impliquem mudança de residência de uma para a outra ilha, será aplicado o estabelecido nos n.os 2, 3, 6 e ainda, quanto ao período de tempo, no n.º 5 do presente artigo.
+
+10 - As colocações a que se refere o número anterior deverão ainda obedecer a critérios objectivos a fixar por despacho do respectivo director de alfândega, nas seguintes condições:
+
+a) Os referidos critérios serão elaborados com base em princípios gerais a definir pela Direcção de Serviços de Organização e Recursos Humanos;
+
+b) As escalas de deslocação para cada ano serão elaboradas e publicadas, com a necessária antecedência, no ano anterior.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+#### Secção VIII — Condições do exercício da actividade
+
+###### Artigo 93.º — (Das condições em geral)
+
+1 - O pessoal dirigente e outro pessoal em cargos de direcção ou chefia, os juízes auditores fiscais, o pessoal aduaneiro técnico superior, os técnicos verificadores, os tesoureiros, os secretários aduaneiros e os técnicos auxiliares de verificação serão considerados, para todos os efeitos legais, constantemente investidos em funções de carácter fiscal.
+
+2 - Para o bom desempenho das suas funções ficam os funcionários referidos no número anterior:
+
+a) Com direito à detenção, uso e porte de arma de defesa, nos termos da legislação em vigor, não sendo responsáveis pelas consequências que resultem do uso legítimo que dela fizerem em protecção dos interesses do Estado ou em defesa própria, no exercício ou por motivo das suas funções;
+
+b) Autorizados a prender em flagrante delito os indivíduos que os ofenderem ou agredirem no exercício ou por motivo das suas funções, ou os que devam ser capturados pela prática de infracções fiscais, entregando-os às autoridades mais próximas juntamente com o auto de notícia, que faz fé em juízo até prova em contrário;
+
+c) Autorizados a ingressar ou transitar livremente nas gares de caminho de ferro, estações e cais de embarque, docas, aérodromos e aeroportos, navios, comboios, aeronaves e quaisquer outros veículos, bem como em quaisquer recintos sujeitos a fiscalização aduaneira, mediante a simples exibição do respectivo cartão de identificação profissional.
+
+3 - O disposto na alínea c) do n.º 2 do presente artigo é extensivo a todo o restante pessoal da DGA, quando em serviço.
+
+4 - Os funcionários aduaneiros usarão no desempenho de algumas das suas funções, nas condições a definir por portaria do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, uniforme e distintivo identificativo da respectiva qualificação profissional.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 94.º — (Funcionários afectos aos serviços externos)
+
+1 - Para assegurar a realização das atribuições da DGA em matéria de inspecção, fiscalização, reverificação, verificação e outros serviços externos, os funcionários aduaneiros, com competência expressa para o desempenho dessas funções, terão direito:
+
+a) A utilizar nos locais de trabalho, em quaisquer empresas públicas ou privadas ou demais entidades, por cedência dos respectivos responsáveis, instalações adequadas ao exercício, em condições de dignidade e eficácia, das respectivas funções;
+
+b) A obter das entidades referidas no número anterior, para auxílio das acções, a cedência de material e equipamento próprio, cuja falta impossibilite ou dificulte aquelas acções, bem como a colaboração dos funcionários ou agentes do respectivo quadro de pessoal que se mostrem indispensáveis;
+
+c) A proceder ao exame de quaisquer elementos em poder daquelas entidades, ou obter aí o seu fornecimento, quando se mostrem indispensáveis à realização das tarefas que legalmente lhes competirem, designadamente se estas respeitarem a exames às escritas, inquéritos e outras averiguações necessárias ao controle aduaneiro;
+
+d) A requisitar às autoridades civis ou militares a colaboração que se mostre necessária ao exercício das suas funções, designadamente nos casos de resistência a esse exercício por parte dos destinatários;
+
+e) A proceder, nos termos da lei, à selagem, retenção ou apreensão de mercadorias e meios de transporte, bem como à selagem de quaisquer instalações ou dependências, à apreensão, requisição ou reprodução de documentos em poder de empresas, pessoas ou serviços objecto de qualquer diligência, quando isso se mostre indispensável ao êxito desta, para o que será levantado o competente auto de notícia.
+
+2 - Aqueles que, por qualquer forma, dificultarem ou se opuserem ao cabal desempenho das funções a que, por lei, os funcionários estejam obrigados, incorrem no crime de desobediência qualificada previsto na lei penal, além da responsabilidade disciplinar a que haja lugar.
+
+3 - Para efeitos do disposto no número anterior, os funcionários aduaneiros participarão, por intermédio dos serviços, ao Ministério Público a recusa de quaisquer informações ou elementos solicitados nas condições da alínea c) do n.º 1, bem como a falta injustificada de colaboração solicitada ao abrigo das alíneas a) e b) desse mesmo número.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+#### Secção IX — Direitos e prerrogativas
+
+###### Artigo 95.º — (Dos direitos em geral)
+
+Para o bom desempenho das suas funções os funcionários aduaneiros, para além de outros previstos em legislação especial, gozam dos direitos e prerrogativas estabelecidos na presente secção.
+
+###### Artigo 96.º — (Transporte dos funcionários)
+
+1 - Os funcionários da DGA terão direito a transporte por conta do Estado:
+
+a) Quando transferidos, salvo se a transferência se der a seu pedido, por permuta ou por motivo disciplinar;
+
+b) Quando colocados, por efeitos de promoção ou comissão de serviço, em localidade diferente daquela em que exerciam as suas funções;
+
+c) Quando temporariamente deslocados por motivo de serviço;
+
+d) Quando deslocados para efeitos de frequência de cursos de formação, aperfeiçoamento ou promoção, estágio ou prestação de provas de selecção;
+
+e) Quando, tratando-se de admissão, os nomeados residirem no continente e forem colocados nas regiões autónomas, ou vice-versa, bem como a todo o pessoal que, embora dentro da mesma circunscrição aduaneira, seja colocado em estância fora da localidade onde se encontrava.
+
+2 - O transporte a que os funcionários aduaneiros têm direito nos termos do número anterior efectuar-se-á, quando em transporte público, de acordo com o estabelecido na lei geral.
+
+3 - Em caso de falta de ligação para transportes públicos ou quando a urgência o exigir e assim for superiormente reconhecido, utilizar-se-ão outros meios de transporte, cujo custo será reembolsado mediante apresentação do documento de despesa respectivo.
+
+4 - Se o funcionário utilizar transporte próprio, aplicar-se-á o disposto na lei geral.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 97.º — (Transporte de familiares)
+
+1 - Os familiares dos funcionários aduaneiros têm de igual modo, nos termos do artigo anterior, direito a transporte por conta do Estado, excepto nos casos referidos nas alíneas c) e d) do n.º 1 do mesmo artigo.
+
+2 - Para efeitos do disposto no número anterior, consideram-se como familiares o cônjuge e os parentes e afins na linha recta, bem como os irmãos menores, desde que vivam com o funcionário em comunhão de mesa e habitação e não tenham rendimentos suficientes.
+
+3 - Para efeitos de requisição de transporte dos seus familiares os funcionários deverão declarar, sob compromisso de honra, que aqueles se encontram nas condições fixadas no número anterior.
+
+###### Artigo 98.º — (Abonos devidos em caso de transferência e deslocações temporárias)
+
+1 - Os funcionários transferidos, por motivo que não seja o disciplinar ou a seu pedido, de uma alfândega para outra ou de qualquer circunscrição aduaneira, excepto da de Lisboa, para os serviços centrais e vice-versa, terão direito, independentemente do disposto nos artigos antecedentes, aos seguintes abonos:
+
+a) A um subsídio equivalente a 60 dias de ajudas de custo nas transferências verificadas dentro do continente e equivalente a 90 dias nas transferências entre o continente e as regiões autónomas;
+
+b) Ao transporte e seguro de móveis e bagagem por conta do Estado.
+
+2 - Terão direito à percepção de ajudas de custo, nos termos da lei geral, os funcionários que hajam de se deslocar temporariamente do serviço onde se mantêm colocados pelos motivos referidos nas alíneas c) e d) do n.º 1 do artigo 96.º
+
+###### Artigo 99.º — (Subsídio de fronteira)
+
+1 - As colocações temporárias nos termos previstos no n.º 9 do artigo 92.º por período de tempo não superior a 180 dias, ou a 1 ano, tratando-se da colocação de pessoal de direcção ou chefia, dão direito à percepção de um subsídio de fronteira.
+
+2 - O subsídio de fronteira será equivalente a 75% das ajudas de custo fixadas na lei geral, salvo no caso em que seja fornecida habitação por conta do Estado, em que aquele subsídio será equivalente a 50% da referida ajuda de custo.
+
+3 - O subsídio previsto no presente artigo não é acumulável com as ajudas de custo da lei geral.
+
+###### Artigo 100.º — (Subsídio de residência)
+
+1 - Enquanto não houver habitações fornecidas pelo Estado, os funcionários da DGA que tenham de mudar de residência por motivos de conveniência de serviço, progressão das respectivas carreiras ou nomeação para cargos de pessoal dirigente ou de direcção e chefia têm direito a um subsídio de residência.
+
+2 - O subsídio de residência não é acumulável com o abono de ajudas de custo ou qualquer outro abono que vise compensar despesas de alojamento nem será, de igual modo, atribuído aos funcionários:
+
+a) Que sejam transferidos por motivos disciplinares;
+
+b) Que tenham direito ao abono previsto no n.º 1 do artigo 98.º ou ao subsídio de fronteira;
+
+c) Que possuam habitação própria ou do cônjuge a menos de 30 km da nova colocação;
+
+d) Cujo cônjuge beneficie de subsídio idêntico e dele não prescinda e esteja colocado a menos de 30 km da residência;
+
+e) Cuja mudança não dê origem a uma deslocação superior a 30 km.
+
+3 - O subsídio de residência corresponderá à renda, ou à despesa de alojamento em hotel ou pensão, quando for impossível conseguir habitação, efectivamente paga pelo funcionário, até ao montante máximo de 6000$00 mensais.
+
+4 - O montante máximo referido no número anterior será actualizado por despacho do Ministro de Estado e das Finanças e do Plano, pelo menos de 2 em 2 anos.
+
+5 - As condições que impliquem a cessação ou a perda do subsídio de residência, as formalidades a cumprir para efeitos da sua concessão e outras disposições regulamentares serão fixadas por despacho do Ministro de Estado e das Finanças e do Plano.
+
+###### Artigo 101.º — (Seguros contra acidentes)
+
+1 - Fica a Direcção-Geral das Alfândegas autorizada a efectuar em companhias nacionais os seguros que for conveniente fazer em benefício dos funcionários afectos aos serviços a que se refere o n.º 1 do artigo 94.º, aos serviços de transporte e aos de carga, descarga, movimentação ou arrumação de mercadorias, bem como dos funcionários colocados no Laboratório e em demais deslocações em serviço.
+
+2 - O seguro destina-se a reparar eventuais danos emergentes de acidentes em resultado do exercício das respectivas funções.
+
+3 - A fixação do montante dos seguros e demais questões relativas à aplicação do presente artigo será efectuada por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral.
+
+###### Artigo 102.º — (Outros abonos)
+
+Os tesoureiros têm ainda direito ao abono para falhas, cujo quantitativo será fixado por portaria do Ministro de Estado e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, sob proposta do director-geral.
+
+#### Secção X — Remunerações
+
+###### Artigo 103.º — (Vencimentos e outros abonos)
+
+1 - Os funcionários da DGA têm direito aos vencimentos correspondentes às categorias que constam do quadro anexo.
+
+2 - (Revogado).
+
+3 - Para além dos abonos referidos no número anterior, são ainda devidos os previstos no artigo 318.º da Reforma Aduaneira, aprovado pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, sempre que os mesmos serviços sejam efectuados nos termos do n.º 3 do artigo 55.º, não podendo, contudo, ultrapassar anualmente o limite de 45% dos respectivos vencimentos.
+
+4 - Os abonos a que se referem os números anteriores não são acumuláveis com quaisquer outros de idêntica natureza previstos na lei geral.
+
+5 - Da aplicação do presente diploma não poderá resultar para qualquer funcionário diminuição das remunerações que presentemente aufere.
+
+> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+#### Secção XI — Deveres e incompatibilidades
+
+###### Artigo 104.º — (Deveres em geral)
+
+Além dos deveres gerais inerentes ao exercício da função pública, os funcionários aduaneiros devem:
+
+1) Velar pelo respeito do princípio da legalidade no domínio das atribuições exclusivas da DGA;
+
+2) Desempenhar com o maior escrúpulo, correcção e diligência os serviços de que estiverem encarregados;
+
+3) Usar da maior urbanidade e discrição nas suas relações com os utentes e o público em geral.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 105.º — (Incompatibilidades)
+
+1 - Para além da sujeição a outras proibições e incompatibilidades consignadas na lei geral, é ainda vedado ao pessoal aduaneiro:
+
+a) Desempenhar, ainda que por interposta pessoa, qualquer actividade susceptível de afectar a isenção e o prestígio exigidos no exercício das respectivas funções;
+
+b) Exercer advocacia ou qualquer espécie de procuradoria em assuntos que digam respeito aos serviços atribuídos à DGA;
+
+c) Exercer qualquer ramo de comércio ou indústria, por si ou por interposta pessoa;
+
+d) Desempenhar, sem prejuízo de casos especiais previstos na lei geral, funções ou comissões de serviço público estranho ao serviço aduaneiro, salvo quando previamente o autorize o Ministro de Estado e das Finanças e do Plano;
+
+e) Arrematar, directamente ou por interposta pessoa, qualquer objecto ou mercadoria nos leilões realizados pelos serviços da DGA;
+
+f) Comprar ou vender qualquer objecto ou mercadoria dentro das estâncias aduaneiras e levar para fora delas quaisquer mercadorias, ainda mesmo que sejam abandonadas ou oferecidas por seus donos ou representantes.
+
+2 - Sem prejuízo do disposto no número anterior, em casos especiais devidamente justificados poderá o Ministro de Estado e das Finanças e do Plano autorizar o desempenho de actividades profissionais estranhas à DGA, designadamente o exercício da advocacia e de outras profissões liberais.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+#### Secção XII — Competências
+
+###### Artigo 106.º — (Do inspector-chefe)
+
+Compete ao inspector-chefe:
+
+1) Dirigir, coordenar e assegurar o funcionamento das actividades da Inspecção Aduaneira, dentro da orientação geral superiormente estabelecida;
+
+2) Colaborar na definição do plano de inspecção a realizar anualmente, submetendo-o a aprovação superior, e assegurar o seu cumprimento;
+
+3) Apresentar ao director-geral, com o seu parecer, relatórios fundamentados das inspecções realizadas;
+
+4) Propor, apoiando-se nos resultados das inspecções realizadas, as medidas que entenda necessárias à melhoria do funcionamento e uniformização de procedimentos dos diversos órgãos e serviços.
+
+###### Artigo 107.º — (Dos directores de serviços)
+
+Compete aos directores de serviços:
+
+1) Colaborar com o director-geral ou com os subdirectores-gerais em todos os aspectos relacionados com a organização e funcionamento dos serviços;
+
+2) Orientar, coordenar e controlar a actividade das respectivas direcções de serviços, de de acordo com as disposições legais e regulamentares e com as directrizes superiores;
+
+3) Exercer a adequada acção formativa e disciplinar relativamente aos funcionários na sua dependência e colaborar com os serviços competentes na definição e desenvolvimento de uma eficiente política de gestão de recursos humanos;
+
+4) Promover a preparação dos planos de acção anuais das respectivas direcções de serviços, de harmonia com os objectivos superiormente fixados, acompanhando e avaliando a sua execução, e superintender na elaboração de um relatório anual que sintetize a actividade desenvolvida pelos serviços a seu cargo;
+
+5) Pronunciar-se sobre todos os assuntos que caibam na esfera da competência das respectivas direcções de serviços e despachar aqueles que, pela sua natureza, disposição da lei ou delegação, não devam ser submetidos a despacho superior;
+
+6) Colaborar na articulação funcional das direcções de serviços;
+
+7) Transmitir aos directores de alfândega ou a outros serviços, nos termos que forem estabelecidos pelo director-geral, as instruções ou comunicações que se compreendam na respectiva esfera de competência;
+
+8) Mandar passar as certidões que forem requeridas nos termos legais, mediante despacho permissivo do Ministro de Estado e das Finanças e do Plano ou do director-geral;
+
+9) Desempenhar outras funções que por lei ou determinação superior lhe sejam cometidas.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 108.º — (Dos chefes de divisão)
+
+Compete aos chefes de divisão:
+
+1) Orientar, coordenar e controlar a actividade das respectivas divisões nos termos das disposições legais e regulamentares, dentro da orientação geral superiormente estabelecida e de acordo com as directrizes do director de serviços;
+
+2) Elaborar os planos de acção anuais das respectivas divisões de acordo com os objectivos definidos pelo director de serviços, assim como o relatório anual da acividade desenvolvida;
+
+3) Colaborar na articulação funcional das diferentes divisões, nos termos que forem superiormente definidos;
+
+4) Desempenhar outras funções que por lei ou determinação superior lhes sejam cometidas.
+
+###### Artigo 109.º — (Dos chefes de repartição)
+
+Compete aos chefes de repartição:
+
+1) Assegurar e coordenar o funcionamento dos respectivos serviços, mediante a prática de todos os actos da sua competência própria ou delegada, dentro das linhas gerais superiormente estabelecidas;
+
+2) Dar parecer nos processos que devam ser submetidos a apreciação superior;
+
+3) Superintender na direcção do pessoal do seu sector de actividade;
+
+4) Efectuar quaisquer trabalhos que, na esfera da sua competência, lhes sejam determinados.
+
+###### Artigo 110.º — (Dos chefes de secção)
+
+Aos chefes de secção em geral cumpre:
+
+1) Assegurar o bom funcionamento das respectivas secções, promovendo a execução dos trabalhos que às mesmas incumbe, de conformidade com a orientação superiormente definida;
+
+2) Distribuir os trabalhos pelo pessoal da respectiva secção tendo em vista a eficiência dos serviços;
+
+3) Efectuar quaisquer trabalhos que, na esfera da sua competência, lhes sejam determinados.
+
+###### Artigo 111.º — (Do pessoal aduaneiro técnico superior)
+
+Compete ao pessoal aduaneiro técnico superior desempenhar as funções para que for designado superiormente, nos termos da lei ou dos regulamentos, nomeadamente:
+
+1) Exercer os cargos de direcção ou de chefia previstos na lei ou nos regulamentos;
+
+2) Proceder a estudos de carácter económico, jurídico e outros de natureza técnico-aduaneira de que forem encarregados;
+
+3) Proceder às inspecções, exames ou peritagens de que forem incumbidos;
+
+4) Superintender e coordenar as unidades orgânicas destinadas a conferir maior eficácia aos actos inerentes à desalfandegação das mercadorias, designadamente os que se referem à conferência de carga, descarga, verificação e reverificação;
+
+5) Fazer, nos termos que forem determinados, as reverificações assim com as verificações que, pela sua natureza ou quaisquer outras circunstâncias, o justifiquem;
+
+6) Superintender e proceder à conferência final dos bilhetes de despacho e dos documentos que com eles se relacionem.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 112.º — (Do pessoal técnico superior de laboratório)
+
+Ao pessoal técnico superior de laboratório compete desempenhar as funções para que for designado superiormente, nos termos da lei ou dos regulamentos, nomeadamente:
+
+1) Proceder a estudos de colaboração e apoio aos diversos sectores da DGA;
+
+2) Proceder a estudos de investigação analítica;
+
+3) Proceder à selecção de métodos analíticos;
+
+4) Executar as análises que requeiram técnicas de maior complexidade;
+
+5) Colaborar com o respectivo director na formação e aperfeiçoamento do respectivo pessoal.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 113.º — (Dos técnicos verificadores)
+
+Sem embargo de outras funções de carácter técnico que, pelas necessidades da orgânica dos serviços, lhes sejam cometidas, aos técnicos verificadores compete, nomeadamente:
+
+1) Exercer os cargos de chefia para que forem nomeados;
+
+2) Coadjuvar as chefias sempre que lhes for determinado;
+
+3) Coordenar e orientar as actividades de museu e de armazém sempre que, nos termos regulamentares, lhes seja determinado;
+
+4) Proceder às fiscalizações de que forem incumbidos;
+
+5) Fazer as verificações para que forem nomeados, sem prejuízo do disposto na parte final do n.º 5 do artigo 111.º
+
+6) Orientar directamente a execução dos serviços de conferência de carga e descarga e de revisão pessoal, de bagagem e de meios de transporte.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 114.º — (Dos técnicos analistas de laboratório)
+
+Aos técnicos analistas de laboratório compete desempenhar as funções para que forem designados superiormente, nos termos da lei ou dos regulamentos, nomeadamente:
+
+1) Coadjuvar o pessoal superior do Laboratório nos trabalhos de estudo e pesquisa, quando superiormente determinado;
+
+2) Participar na orientação e formação dos técnicos auxiliares analistas;
+
+3) Proceder à verificação da exactidão dos instrumentos;
+
+4) Executar as análises de maior complexidade e as que lhes forem superiormente distribuídas.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 115.º — (Dos tesoureiros)
+
+1 - Ao tesoureiro da alfândega compete:
+
+a) Orientar e controlar a actividade das respectivas tesourarias;
+
+b) Coordenar o exercício das funções cometidas aos tesoureiros;
+
+c) Propor a adequada acção formativa e disciplinar relativamente aos tesoureiros;
+
+d) Propor ao director da alfândega a colocação e transferência dos tesoureiros;
+
+e) Desempenhar outras funções que lhe sejam cometidas por lei ou pelos regulamentos.
+
+2 - Aos tesoureiros compete assegurar o funcionamento dos serviços da respectiva tesouraria, designadamente:
+
+a) O serviço de arrecadação e cobrança dos direitos e mais rendimentos liquidados nos serviços a seu cargo;
+
+b) O serviço de arrecadação e cobrança de outras receitas do Estado ou de outras pessoas colectivas de direito público;
+
+c) O serviço de pagamento das despesas do Estado que lhes seja cometido por lei;
+
+d) Efectuar outros pagamentos e as operações de tesouraria que lhes sejam determinados nos termos da lei ou dos regulamentos;
+
+e) O serviço de valores selados, designadamente a requisição aos estabelecimentos fornecedores, a venda e a revenda;
+
+f) Dar balanço geral à tesouraria no último dia de cada mês e fazer os balanços extraordinários que julguem necessários ou que, nos termos da lei ou dos regulamentos, lhes sejam determinados e elaborar os balancetes diários;
+
+g) Providenciar para que o cofre da respectiva tesouraria esteja sempre habilitado com os fundos necessários à satisfação dos pagamentos legalmente autorizados e abastecido com os valores selados indispensáveis;
+
+h) Providenciar para que a contabilidade do respectivo cofre se mantenha sempre em dia e devidamente arrumada de modo a permitir o controle adequado;
+
+i) Quaisquer outras funções que lhes sejam cometidas por lei ou pelos regulamentos.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 116.º — (Dos secretários aduaneiros)
+
+Compete aos secretários aduaneiros:
+
+1) A legalização dos títulos de propriedade;
+
+2) A conferência do pedido dos bilhetes de despacho com os respectivos títulos de propriedade;
+
+3) A conferência de manifestos;
+
+4) A abertura e fecho de armazéns externos;
+
+5) A assistência a exames prévios;
+
+6) As contas correntes de draubaque e de restituição de direitos;
+
+7) As garantias fiscais - controle dos depósitos e das fianças bancárias e elaboração dos termos de responsabilidade;
+
+8) A organização dos processos técnicos, fiscais e administrativos;
+
+9) A organização dos processos de entrada e saída de meios de transporte;
+
+10) A preparação e execução das contas de gerência e a organização dos mapas referentes ao controle das autorizações de pagamento a submeter ao Tribunal de Contas;
+
+11) A classificação e escrituração das receitas do Estado e de operações de tesouraria e a elaboração das respectivas tabelas;
+
+12) A classificação e processamento das despesas públicas e a elaboração das respectivas contas de pagamento;
+
+13) Outros serviços de contabilidade, nos termos da lei ou dos regulamentos;
+
+14) Outras tarefas de natureza técnica e administrativa que, na área de competência do respectivo serviço, lhes sejam superiormente determinadas.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 117.º — (Dos técnicos auxiliares analistas)
+
+Aos técnicos auxiliares analistas compete desempenhar as funções que, na esfera da sua competência, lhes sejam determinadas, designadamente:
+
+1) Coadjuvar o pessoal técnico superior e os técnicos analistas de laboratório, quando superiormente determinado;
+
+2) Proceder à preparação de soluções reagentes;
+
+3) Proceder à conservação e manutenção do material de laboratório;
+
+4) Organizar os stocks de material e reagentes;
+
+5) Executar as análises de carácter corrente.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 118.º — (Dos técnicos auxiliares de verificação)
+
+Compete aos técnicos auxiliares de verificação:
+
+1) Coadjuvar o pessoal aduaneiro técnico superior e os técnicos verificadores no exercício das funções da sua competência e executar os actos preparatórios e complementares da verificação e reverificação de mercadorias, designadamente:
+
+a) Participar nos serviços de conferência de carga e descarga de mercadoria;
+
+b) Participar em equipas de fiscalização da competência dos serviços aduaneiros;
+
+c) Orientar directamente a movimentação, abertura, manipulação e fecho de volumes;
+
+d) Proceder, quando circunstâncias excepcionais de serviço a isso obriguem, às operações previstas na alínea anterior;
+
+e) Proceder à marcação e selagem de volumes e à selagem dos meios de transporte;
+
+f) Efectuar a pesagem e medição de mercadorias;
+
+g) Conferir e controlar a entrada e saída dos volumes nas casas de despacho;
+
+h) Velar pela conservação e guarda do material afecto às operações de verificação e reverificação de mercadorias;
+
+2) Controlar a entrada, saída e permanência de volumes nos armazéns aduaneiros, nomeadamente a sua conferência, registo, arrumação, guarda e marcação, e assistir à abertura e fecho desses armazéns;
+
+3) Executar o serviço de revisão pessoal, de bagagem e de meios de transporte, nos termos definidos na lei e nos regulamentos;
+
+4) Desempenhar outras tarefas que, na esfera da sua competência, lhes sejam superiormente determinadas.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 119.º — (Dos oficiais administrativos e dos escriturários-dactilógrafos)
+
+1 - Aos oficiais administrativos cumpre executar os trabalhos de natureza estritamente administrativa compreendidos na área da competência do respectivo serviço.
+
+2 - Aos escriturários-dactilógrafos competem os trabalhos de dactilografia e outras tarefas auxiliares de carácter administrativo compatíveis com as suas habilitações, nos termos que lhes forem superiormente determinados.
+
+###### Artigo 120.º — (Competência do restante pessoal)
+
+Aos funcionários sem competência específica estabelecida no presente decreto-lei incumbe desempenhar as funções compatíveis com as suas habilitações e relacionadas com as atribuições dos respectivos serviços de que sejam encarregados pelos superiores hierárquicos, sem prejuízo de aquela competência vir a ser definida por despacho do director-geral.
+
+#### Secção XIII — Substituições
+
+###### Artigo 121.º — (Princípios gerais)
+
+Os cargos relativos ao pessoal dirigente e a outro pessoal de direcção e chefia previstos na presente secção podem ser exercidos em regime de substituição, de acordo com os seguintes princípios gerais:
+
+1) A substituição só poderá ser autorizada enquanto durar a vacatura do lugar, bem como a ausência ou impedimento do respectivo titular, quando se preveja que estas situações persistam por mais de 30 dias, sem prejuízo de, em todos os casos, deverem ser asseguradas as funções atribuídas aos dirigentes ausentes;
+
+2) A substituição cessará a qualquer momento, por interesse da administração ou a pedido do substituto, e caducará passados 6 meses sobre a data do seu início, salvo nos casos em que o lugar do substituído não possa ser provido por força de impedimento legal;
+
+3) O substituto terá direito à totalidade dos vencimentos e demais remunerações atribuídos pelo exercício do cargo do substituído, independentemente da libertação das respectivas verbas por este, sendo os respectivos encargos suportados pelas correspondentes dotações orçamentais;
+
+4) A substituição do pessoal da DGA processar-se-á nos termos indicados nos artigos seguintes;
+
+5) (Revogado).
+
+> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01
+
+###### Artigo 122.º — (Do pessoal dirigente dos serviços centrais)
+
+A substituição do pessoal dirigente dos serviços centrais processar-se-á nos seguintes termos:
+
+1) O director-geral, por um dos subdirectores-gerais designado por despacho do Ministro de Estado e das Finanças e do Plano, sob sua proposta;
+
+2) Os subdirectores-gerais, pelo director de serviços que o director-geral designar;
+
+3) O inspector-chefe, pelo inspector principal que o director-geral designar:
+
+4) Os directores de serviços onde existam divisões, por cada um dos chefes de divisão, atendendo à especificidade técnica inerente;
+
+5) Os directores de serviços onde não existam divisões, por cada um dos chefes de repartição;
+
+6) Os chefes de divisão, pelo técnico superior de categoria mais elevada, a designar mediante proposta do respectivo director de serviços e autorização do director-geral.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/85 - Diário da República n.º 245/1985, Série I de 1985-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), em vigor a partir de 1985-10-29
+
+###### Artigo 123.º — (Do pessoal de direcção e chefia das alfândegas)
+
+A substituição do pessoal de direcção e chefia das alfândegas processar-se-á nos seguintes termos:
+
+1) Os directores das Alfândegas de Lisboa e do Porto, pelo respectivo subdirector, mediante despacho do director-geral;
+
+2) Os directores das Alfândegas do Funchal e de Ponta Delgada, pelo técnico superior de categoria mais elevada, a designar mediante proposta do respectivo director de alfândega e autorização do director-geral;
+
+3) Os subdirectores, pelo respectivo chefe de serviço de despacho;
+
+4) Os chefes dos serviços de despacho, de fiscalização e de contabilidade e pessoal das Alfândegas de Lisboa e do Porto, pelo técnico superior de categoria mais elevada colocado no respectivo serviço, mediante proposta do director de alfândega e autorização do director-geral;
+
+5) Os chefes das delegações, mediante autorização do director de alfândega, pelo funcionário de categoria mais elevada em serviço na respectiva delegação;
+
+6) Em casos devidamente fundamentados e sempre que não seja possível proceder à substituição nos termos dos números anteriores, poderá o director de alfândega designar outro funcionário de categoria igual não pertencente à respectiva unidade orgânica.
+
+###### Artigo 124.º — (Dos chefes de repartição e de secção)
+
+A substituição dos chefes de repartição e de secção processar-se-á nos seguintes termos:
+
+1) Os chefes de repartição, pelo chefe de secção, a designar mediante proposta do director de serviço e autorização do director-geral;
+
+2) Os chefes de secção dos serviços centrais, pelo secretário aduaneiro de categoria mais elevada, a designar mediante proposta do respectivo director de serviço e autorização do director-geral;
+
+3) Os chefes de secção das alfândegas, por funcionário a designar nos termos do número anterior, mediante proposta do respectivo chefe do serviço e autorização do respectivo director.
+
+###### Artigo 125.º — (De outro pessoal)
+
+A substituição de pessoal de direcção e chefia não abrangido nos artigos anteriores processar-se-á nos termos a definir por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director-geral, sem prejuízo do estabelecido na lei geral e noutras disposições legais em vigor.
+
+### Capítulo IV — Disposições finais e transitórias
+
+#### Secção I — Disposições transitórias
+
+##### Subsecção I — Estrutura orgânica
+
+###### Artigo 126.º — (Tribunais aduaneiros)
+
+A organização e o funcionamento dos tribunais aduaneiros continuarão a reger-se pelas disposições aplicáveis à data da entrada em vigor do presente diploma, sem prejuízo das adaptações resultantes das alterações por ele introduzidas na estrutura dos respectivos órgãos de apoio administrativo e no regime estatutário do pessoal da DGA.
+
+##### Subsecção II — Transição de pessoal
+
+###### Artigo 127.º — (Regras gerais de transição)
+
+1 - Sem prejuízo do estabelecido na presente subsecção, para casos especiais, a transição do pessoal efectuar-se-á nos termos das regras gerais constantes do presente artigo.
+
+2 - Os funcionários e agentes que à data da entrada em vigor do presente diploma prestam serviço na DGA transitarão para os novos quadros estruturados nos termos do presente decreto-lei, observado o requisito das habilitações legais, de acordo com as seguintes regras gerais:
+
+a) Para categoria igual à que o funcionário ou agente já possui;
+
+b) Para categoria que integre as funções que o funcionário ou agente desempenha, remunerada pela mesma letra de vencimento;
+
+c) Para categoria que integre as funções que o funcionário ou agente desempenha, remunerada por letra de vencimento imediatamente superior, na respectiva carreira, quando não haja coincidência de remuneração, desde que se verifique extinção de carreiras ou categorias.
+
+3 - Os funcionários ou agentes que não possam transitar nos termos do número anterior por não possuírem as habilitações legais exigidas pelo presente diploma, manter-se-ão na sua actual categoria e carreira, extinguindo-se os lugares, da base para o topo, à medida que vagarem, de forma a permitir a normal progressão na carreira, sem prejuízo de lhes serem distribuídas novas tarefas.
+
+4 - O tempo de serviço prestado na categoria anterior conta como prestado na categoria de transição, desde que no exercício de funções correspondentes.
+
+5 - A correspondência funcional a que se referem as alíneas b) e c) será determinada por despacho do Ministro de Estado e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
+
+6 - A integração a que se refere o n.º 2 do presente artigo far-se-á sem prejuízo do disposto na alínea b) do n.º 3 do artigo 4.º do Decreto-Lei n.º 140/81, de 30 de Maio.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 128.º — (Primeiro preenchimento dos cargos de director de serviços e de chefe de divisão)
+
+1 - Quando para o primeiro preenchimento dos cargos de director de serviços e de chefe de divisão se verificar a inexistência de funcionários aduaneiros com as categorias previstas nos artigos 59.º e 60.º do presente diploma e possuidores de formação e experiência adequadas, o provimento será feito por concurso documental de entre funcionários pertencentes ao pessoal aduaneiro técnico superior com, pelo menos, 6 anos na respectiva carreira.
+
+2 - O despacho de nomeação que resultar da utilização do mecanismo previsto no número anterior deverá ser acompanhado, para publicação, do currículo do nomeado.
+
+###### Artigo 129.º — (Pessoal aduaneiro técnico superior)
+
+1 - Os primeiros-verificadores, segundos-verificadores e verificadores estagiários do pessoal aduaneiro técnico superior passam a designar-se, respectivamente, primeiros-verificadores superiores, segundos-verificadores superiores e verificadores superiores estagiários, nos termos do mapa em anexo ao presente diploma.
+
+2 - Durante o período de 3 anos, a contar da data da entrada em vigor do presente diploma, as vagas de segundo-verificador superior poderão ser preenchidas, à medida que o requeiram, pelos técnicos verificadores licenciados em Economia, Finanças, Organização e Gestão de Empresas ou Direito com mais de 6 anos de efectivo serviço na mesma área funcional.
+
+3 - Serão admitidos para as vagas de verificador superior estagiário, observados o requisito de habilitações e o período de tempo estabelecido no número anterior, à medida que o requeiram, os funcionários aduaneiros com mais de 6 anos de efectivo serviço nas alfândegas.
+
+4 - Para efeitos do presente artigo, considera-se serviço na mesma área funcional o exercício das funções quer no quadro orgânico, quer no quadro paralelo, designadamente a de verificação, desempenhadas nas carreiras do pessoal aduaneiro técnico superior e dos técnicos verificadores e nos extintos quadros do pessoal técnico-aduaneiro e auxiliar técnico-aduaneiro.
+
+###### Artigo 130.º — (Situação do director do Laboratório)
+
+O director do Laboratório, desde que o requeira ao director-geral e possua mais de 10 anos de efectivo serviço daquele cargo na DGA, poderá ser provido definitivamente na categoria de técnico superior assessor de laboratório.
+
+###### Artigo 131.º — (Técnicos verificadores)
+
+Durante o período de 1 ano, a contar da data da entrada em vigor do presente diploma, as vagas de técnico verificador de 2.ª classe poderão ser preenchidas, à medida que o requeiram, pelos actuais técnicos auxiliares de verificação e oficiais administrativos habilitados com qualquer licenciatura, curso superior ou bacharelato reconhecidos pelo Ministério da Educação, bem como com os requisitos exigidos de acordo com o artigo único do Decreto-Lei n.º 48916, de 19 de Março de 1969, desde que possuam o mínimo de 6 anos de efectivo serviço nas alfândegas e obtenham aprovação em provas de selecção realizadas para o efeito, em condições a definir pelo director-geral.
+
+###### Artigo 132.º — (Tesoureiros)
+
+1 - O primeiro provimento dos lugares de tesoureiro poderá ser feito com os funcionários que à data da entrada em vigor do presente diploma se encontrem a prestar serviço de tesouraria, desde que o requeiram ao director-geral no prazo de 30 dias, a contar da data da publicação o presente diploma, de acordo com as seguintes normas:
+
+a) Transitam para a categoria de tesoureiro das Alfândegas de Lisboa, do Porto, do Funchal e de Ponta Delgada, respectivamente, os actuais tesoureiros daquelas Alfândegas, nos termos do mapa anexo ao presente diploma;
+
+b) Transitam para a categoria de tesoureiro principal os actuais fiéis de tesoureiro que, sendo segundos-oficiais, tenham mais de 5 anos de exercício efectivo naquelas funções;
+
+c) Transitam para a categoria de tesoureiro de 1.ª classe os actuais fiéis de tesoureiro que, sendo segundos-oficiais, tenham menos de 5 anos de exercício efectivo nas mesmas funções e que, sendo terceiros-oficiais, tenham mais de 5 anos de exercício efectivo nas mesmas funções;
+
+d) Transitam para a categoria de tesoureiro de 2.ª classe os restantes fiéis de tesoureiro que tenham menos de 5 anos de exercício efectivo naquelas funções.
+
+2 - Na falta de fiéis de tesoureiro poderão as vagas de tesoureiro ser preenchidas, nos termos das alíneas b), c) e d) do número anterior, pelos actuais oficiais administrativos que, embora não providos naquele cargo, provem ter vindo a desempenhar, com carácter de continuidade, aquelas funções.
+
+###### Artigo 133.º — (Secretários aduaneiros)
+
+1 - O primeiro provimento dos lugares de secretário aduaneiro será feito de entre os oficiais administrativos que o requeiram ao director-geral no prazo de 30 dias, a contar da publicação do presente diploma.
+
+2 - Transitam, nos termos do número anterior, para a categoria de secretário aduaneiro principal, de 1.ª classe e de 2.ª classe, respectivamente, os actuais primeiros-oficiais, segundos-oficiais e terceiros-oficiais com, pelo menos, 6 anos de serviço efectivo nas alfândegas e 3 anos na categoria.
+
+3 - Poderão transitar para a categoria de secretário aduaneiro estagiário os escriturários-dactilógrafos que possuam ou venham a possuir, até ao final dos próximos 4 anos lectivos, com exclusão do que actualmente decorre, o curso geral do ensino secundário, ou habilitação equivalente, o mínimo de 6 anos de efectivo serviço nas alfândegas e que obtenham aprovação nas provas de selecção realizadas para o efeito, em condições a definir pelo director-geral.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 134.º — (Técnicos auxiliares analistas de laboratório)
+
+Os técnicos auxiliares analistas principais, de 1.ª classe e de 2.ª classe transitam para as correspondentes categorias, classificadas pelas letras I, K e L, desde que comprovem possuir o curso previsto no artigo 76.º do presente diploma ou habilitação equivalente.
+
+###### Artigo 135.º — (Técnicos auxiliares de verificação)
+
+1 - O pessoal do serviço fluvial e marítimo que vem desempenhando as funções cometidas aos técnicos auxiliares de verificação transitam para esta carreira, desde que o requeiram ao director-geral no prazo de 30 dias, a contar da data da publicação do presente diploma, nos seguintes termos:
+
+a) Para a categoria de técnico auxiliar de verificação de 1.ª classe, os actuais patrões e motoristas;
+
+b) Para a categoria de técnico auxiliar de verificação de 2.ª classe, os actuais marinheiros e ajudantes de motorista.
+
+2 - Transitam para a categoria de técnico auxiliar de verificação principal, desde que o requeiram ao director-geral no prazo de 30 dias, a contar da data da publicação do presente diploma, os técnicos auxiliares de verificação de 1.ª classe que satisfaçam os seguintes requisitos:
+
+a) Mínimo de 3 anos de efectivo serviço, cumulativamente, na categoria actual e na de fiel de balança de 1.ª classe;
+
+b) Mínimo de 20 anos de serviço na DGA;
+
+c) Não terem beneficiado da aplicação do Decreto-Lei n.º 206/77, de 25 de Maio.
+
+3 - Os funcionários do quadro paralelo que possuíram a categoria de auxiliar de verificação de 1.ª classe antes de ingressarem no quadro da DGA transitam, desde que o requeiram ao director-geral no prazo de 30 dias, a contar da data da publicação do presente diploma, para a categoria de técnico auxiliar de verificação de 1.ª classe.
+
+###### Artigo 136.º — (Outro pessoal)
+
+As transições previstas na presente subsecção aplicam-se igualmente ao pessoal integrado no quadro paralelo da DGA, bem como ao que se encontra requisitado ao quadro geral de adidos.
+
+##### Subsecção III — Primeiros concursos
+
+###### Artigo 137.º — (Regra geral para os primeiros concursos)
+
+1 - As vagas das categorias de ingresso de cada carreira poderão ser reservadas a concurso de provas de selecção aberto no prazo de 90 dias, a contar da data da publicação do presente diploma, a que serão únicos candidatos os funcionários e agentes da Direcção-Geral das Alfândegas possuidores das habilitações legais exigidas por lei.
+
+2 - Para os efeitos do número anterior, consideram-se habilitações legais exigíveis por lei, para além das definidas no presente diploma, as seguintes:
+
+a) Para a categoria de técnico superior de laboratório, a licenciatura em Engenharia;
+
+b) Para técnico superior de BAD de 2.ª classe, as licenciaturas que vierem a ser especificadas no respectivo aviso de abertura;
+
+c) Para técnico verificador de 2.ª classe ou técnico analista de 2.ª classe, os cursos superiores que vierem a ser mencionados no respectivo aviso de abertura;
+
+d) Para técnico auxiliar de BAD, o curso geral dos liceus.
+
+3 - Os funcionários referidos nas alíneas b) e d) do número anterior serão nomeados definitivamente ou regressarão ao lugar de origem, conforme tenham ou não concluído com aproveitamento os cursos complementares previstos na lei.
+
+4 - Os avisos de abertura referentes aos primeiros concursos realizados após a publicação do presente diploma especificarão as regras especiais a que ficam sujeitos relativamente a matéria não expressamente definida na lei geral ou no presente decreto-lei.
+
+###### Artigo 138.º — (Primeiros concursos de carreira técnica superior aduaneira)
+
+1 - Se à data da entrada em vigor do presente diploma não se tiver realizado concurso para efeito de preenchimento das vagas antes existentes nas categorias de reverificador e de primeiro-verificador superior do quadro de pessoal da DGA, serão os lugares providos mediante concurso a abrir no prazo de trinta dias, a contar da data da publicação deste diploma, obedecendo às seguintes condições:
+
+a) Poderão concorrer, desde que o requeiram, os funcionários de categoria imediatamente inferior com o mínimo de 3 anos de efectivo serviço na respectiva categoria;
+
+b) Os candidatos serão seleccionados mediante provas de apreciação curricular e discussão de trabalho escrito, individual, de carácter técnico-aduaneiro ou relacionado com a organização e gestão dos serviços, apresentado para o efeito no prazo de 30 dias após a publicação do aviso de abertura;
+
+c) A selecção dos candidatos deverá estar ultimada decorridos 90 dias a contar da data da publicação do aviso de abertura.
+
+2 - O limite de vagas a que se refere o n.º 3 do artigo 68.º do presente diploma não se reportará ao primeiro concurso, nos termos daquela disposição, a abrir no prazo de 30 dias após a entrada em vigor deste decreto-lei, para verificadores superiores estagiários, ao qual poderão também ser candidatos os funcionários que reúnam, cumulativamente, os seguintes requisitos:
+
+a) Sejam possuidores de licenciatura oficialmente reconhecida pelo Ministério da Educação;
+
+b) Tenham desempenhado durante, pelo menos, 3 anos bom e efectivo serviço na respectiva área funcional.
+
+3 - Para efeitos do disposto no número anterior, considera-se serviço na mesma área funcional o definido no n.º 4 do artigo 129.º do presente diploma.
+
+###### Artigo 139.º — (Alargamento de áreas de recrutamento para provimento excepcional)
+
+1 - Às primeiras provas de selecção ou cursos que se realizarem, após executado o estabelecido no artigo anterior, para o preenchimento das vagas de reverificador e de primeiro-verificador superior e ainda para o provimento dos lugares de técnico verificador principal, secretário aduaneiro principal e técnico auxiliar de verificação principal podem concorrer os funcionários da categoria imediatamente inferior com, pelo menos, 1 ano de efectivo serviço na categoria e que reúnam ainda os seguintes requisitos:
+
+a) Para reverificador e primeiro-verificador superior, os que possuam o mínimo de 6 anos de efectivo serviço, respectivamente na carreira ou na área funcional;
+
+b) Para técnico verificador principal, os que possuam o mínimo de 6 anos de efectivo serviço, cumulativamente, na carreira actual e nos quadros de pessoal auxiliar técnico-aduaneiro ou técnico-aduaneiro, conforme se trate, respectivamente, de pessoal sempre pertencente à DGA ou oriundo das alfândegas das ex-colónias;
+
+c) Para secretário aduaneiro principal, os que possuam o mínimo de 9 anos de efectivo serviço, cumulativamente, na categoria actual e nas categorias de oficial administrativo e de aspirante, tratando-se de pessoal sempre pertencente à DGA, ou nas de escriturário, tratando-se de pessoal oriundo das alfândegas das ex-colónias;
+
+d) Para técnico auxiliar de verificação principal os que possuam o mínimo de 9 anos de efectivo serviço, cumulativamente, na actual categoria e nas categorias de fiel de balança, tratando-se de pessoal sempre pertencente à DGA, ou nas de fiel de armazém e de auxiliar de verificação, tratando-se de pessoal oriundo das alfândegas das ex-colónias.
+
+2 - Às primeiras provas de selecção ou cursos que se realizarem após a publicação do presente diploma e que visem o primeiro provimento dos lugares de chefes de repartição e de secção podem concorrer os funcionários que reúnam os seguintes requisitos:
+
+a) Para chefe de repartição, os chefes de secção e os funcionários aduaneiros diplomados com curso superior e com o mínimo de 3 anos de efectivo serviço nas alfândegas;
+
+b) Para chefe de secção, os secretários aduaneiros principais com o mínimo de 10 anos de bom e efectivo serviço nas alfândegas.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+#### Secção II — Disposições finais
+
+###### Artigo 140.º — (Fiscalização aduaneira)
+
+A acção de fiscalização da DGA incide sobre a totalidade do território aduaneiro, mas reveste carácter habitual e permanente nas zonas fiscais, nos edifícios aduaneiros e nas suas dependências.
+
+###### Artigo 141.º — (Dever de colaboração)
+
+Todos os organismos e serviços do Estado e demais entidades públicas ou privadas e especialmente a Guarda Fiscal, corpo militar que tem a seu cargo o serviço de vigilância fiscal, prestarão à DGA a colaboração indispensável à realização das suas atribuições.
+
+###### Artigo 142.º — (Não ingerência)
+
+Salvo nos casos previstos na lei ou precedendo autorização expressa do Ministro de Estado e das Finanças e do Plano, nenhuma entidade estranha à DGA pode intervir nos serviços aduaneiros.
+
+###### Artigo 143.º — (Regras decorrentes da transição do pessoal)
+
+1 - O provimento das novas categorias e cargos decorrentes das transições estabelecidas no presente diploma será operado nos termos do disposto no artigo 5.º do Decreto-Lei n.º 146-C/80, de 22 de Maio, com dispensa de quaisquer formalidades, salvo o visto ou anotação do Tribunal de Contas e publicação no Diário da República.
+
+2 - A integração do pessoal que mantenha no novo quadro a mesma categoria e situação jurídica funcional anterior efectuar-se-á por lista nominativa, sujeita a anotação do Tribunal de Contas.
+
+3 - Nos casos em que a transição do pessoal a que se refere o n.º 1 deste artigo se encontre condicionada à existência de vagas na categoria para onde se pretende transitar e os interessados excedam o número dessas vagas, será observada, na parte aplicável, a seguinte ordem de preferência:
+
+a) A mais elevada categoria dos interessados;
+
+b) Maior grau de habilitações ou média mais elevada do concurso;
+
+c) Maior antiguidade na categoria;
+
+d) Maior antiguidade na DGA.
+
+###### Artigo 144.º — (Alteração transitória dos quadros do pessoal)
+
+1 - Quando da aplicação das disposições referentes à transição de pessoal constante do presente diploma resultarem excedentes de pessoal em cada categoria ou cargo relativamente ao número de lugares previstos no quadro anexo a este diploma, o quadro do pessoal da DGA será alterado nos termos do n.º 1 do artigo 45.º do presente diploma.
+
+2 - A redução de efectivos operada nas categorias indicadas nas observações ao quadro do pessoal referido no número anterior processar-se-á extinguindo um lugar por cada duas vagas verificadas após a data da entrada em vigor do presente diploma, até ao nível estabelecido naquelas observações.
+
+###### Artigo 145.º — (Integração do quadro paralelo)
+
+1 - É extinto o quadro paralelo previsto na Portaria n.º 298/77, de 25 de Maio, transitando o respectivo pessoal para o novo quadro criado pelo presente diploma, observado o disposto no artigo 136.º deste decreto-lei.
+
+2 - A integração estabelecida no presente artigo não prejudica a antiguidade que os funcionários possuam à data da publicação do presente diploma.
+
+3 - Os funcionários do quadro geral de adidos que prestam ou venham a prestar serviço na DGA e que obtenham as condições estabelecidas para o efeito de ingresso no actual quadro paralelo serão integrados nas vagas existentes no quadro de pessoal anexo ao presente diploma nos mesmos termos em que se processaram as anteriores integrações no quadro paralelo.
+
+###### Artigo 146.º — (Pessoal de informática)
+
+1 - Ao pessoal do Núcleo de Informática da DGA são aplicáveis as disposições do Decreto-Lei n.º 110-A/80, de 10 de Maio, e de outra legislação especial.
+
+2 - Não obstante o estabelecido no número anterior, serão aplicáveis ao pessoal de informática todas as disposições do presente diploma que não contrariem a referida legislação especial.
+
+3 - A reconversão funcional a que se refere o artigo 26.º do Decreto-Lei n.º 110-A/80, de 10 de Maio, far-se-á, para a carreira de secretário aduaneiro, para a categoria a que corresponda letra de vencimento idêntica ou imediatamente superior à que o funcionário possuir à data da reconversão, ainda que para além das respectivas vagas.
+
+###### Artigo 147.º — (Da aposentação, licenças, faltas e preceitos de carácter disciplinar)
+
+Ao pessoal aduaneiro serão aplicados os preceitos da lei geral sobre o regime jurídico dos funcionários, nomeadamente quanto a aposentação, licenças, faltas e todos os demais de carácter disciplinar, sem prejuízo do expressamente estabelecido no presente diploma.
+
+###### Artigo 148.º — (Caução dos tesoureiros)
+
+1 - A posse de tesoureiros da alfândega e de tesoureiros fica condicionada à prestação de caução nos termos da lei geral.
+
+2 - As importâncias das cauções serão fixadas por despacho do Ministro de Estado e das Finanças e do Plano.
+
+###### Artigo 149.º — (Alargamento da base da carreira)
+
+Poderão ser preenchidos tantos lugares da categoria mais baixa da respectiva carreira quantas as vagas de categorias superiores que não possam ser preenchidas por falta de candidatos que reúnam as condições legais de promoção.
+
+###### Artigo 150.º — (Reestruturação dos serviços regionais e periféricos)
+
+1 - A reestruturação dos serviços regionais e periféricos será elaborada no prazo de 6 a 12 meses, a contar da entrada em vigor do presente decreto-lei.
+
+2 - Sem prejuízo do disposto no número anterior, a criação, a extinção, a classificação, a orgânica interna, a competência e a delimitação das áreas de jurisdição das actuais alfândegas e, na parte aplicável, dos respectivos serviços poderão ser objecto de decreto.
+
+3 - Enquanto não forem reestruturados os serviços a que se refere o n.º 1 e sem prejuízo do disposto no n.º 2, mantêm-se em vigor as normas relacionadas com a organização e o funcionamento das actuais alfândegas contidas na Reforma Aduaneira aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, e na legislação complementar.
+
+###### Artigo 151.º — (Entrada em funcionamento das novas estruturas)
+
+1 - As novas estruturas orgânicas previstas no presente diploma poderão entrar em funcionamento por fases, de acordo com o que for definido em despacho do Ministro de Estado e das Finanças e do Plano.
+
+2 - O pessoal que tem vindo a desempenhar as competências que, por força do presente diploma, são cometidas a outras carreiras ou grupos profissionais deverá continuar a assegurar integralmente os serviços até ao preenchimento dos lugares do quadro em anexo ao presente diploma.
+
+###### Artigo 152.º — (Regulamento das provas de selecção de reverificador e de primeiro-verificador superior)
+
+Para os efeitos do disposto no n.º 1 do artigo 138.º do presente diploma, observar-se-á o seguinte:
+
+a) Os candidatos deverão apresentar o respectivo currículo englobando, devidamente discriminado, os seguintes elementos:
+
+Formação académica de base, com indicação da instituição ou instituições de ensino frequentadas, ano e classificação de curso;
+
+Preparação profissional alcançada para além da formação de base e acções de formação em que hajam participado;
+
+Resenha da actividade profissional, com indicação da sua natureza, características, tempo de serviço e demais elementos;
+
+Estudos e publicações elaborados, com indicação sumária dos assuntos nos mesmos tratados;
+
+Participação em missões de representação nacional no estrangeiro, bem como em comissões ou grupos de trabalho relacionados com a função aduaneira;
+
+Quaisquer outros elementos comprovativos de preparação especial que o candidato entenda deverem ser apreciados pelo júri;
+
+b) Os candidatos que tenham realizado trabalhos no exercício das respectivas funções na DGA poderão apresentá-los como substitutos daquele que é exigido no preceito acima referido, desde que esses trabalhos se enquadrem no definido nessa mesma disposição e nunca tenham sido classificados para efeitos de selecção;
+
+c) O currículo e o trabalho terão de ser dactilografados ou impressos e serão apresentados em quintuplicado;
+
+d) À avaliação curricular e à discussão oral do trabalho será dada a média dos valores que, de 0 a 20, lhes forem atribuídos por cada membro do júri, sem qualquer arredondamento;
+
+e) A classificação final será a média das classificações obtidas na avaliação curricular e na prova de selecção.
+
+###### Artigo 153.º — (Formação profissional)
+
+1 - Enquanto não se encontrar institucionalizada a formação profissional prevista no artigo 91.º do presente diploma ou ocorrendo circunstâncias que deficultem ou, de qualquer forma, desaconselhem a realização dos diferentes cursos que condicionam o ingresso ou acesso às diferentes categorias do pessoal, os referidos cursos poderão ser substituídos por outro método de selecção adequado.
+
+2 - O método de selecção a que se refere a parte final do número anterior será definido, sob proopsta do director-geral, por despacho do Ministro de Estado e das Finanças e do Plano, o qual regulará a respectiva natureza, programas e suas condições de aplicação.
+
+###### Artigo 154.º — (Falta de classificação de serviço)
+
+Enquanto não for atribuída ao pessoal da DGA a classificação de serviço nos termos previstos no artigo 90.º do presente diploma, o ingresso ou acesso aos diferentes lugares do quadro, assim como a admissão a cursos ou provas de selecção, não poderá ser prejudicado por falta desse requisito.
+
+###### Artigo 155.º — (Revisão)
+
+1 - O presente diploma será revisto no prazo máximo de 2 anos após a sua entrada em vigor, com vista a introduzir-lhe as alterações aconselháveis pela experiência decorrida da sua aplicação.
+
+2 - As matérias constantes da subsecção II da secção II e das secções V, VI, VII, XII e XIII do capítulo III do presente diploma poderão ser revistas por decreto regulamentar.
+
+###### Artigo 156.º — (Encargos financeiros)
+
+Os encargos decorrentes da aplicação do presente diploma serão suportados pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal das diversas carreiras aduaneiras e, na sua falta, pela que for inscrita para o efeito.
+
+###### Artigo 157.º — (Resolução de dúvidas)
+
+As dúvidas na aplicação deste diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, quando for caso disso.
+
+###### Artigo 158.º — (Legislação revogada)
+
+1 - Sem prejuízo do preceituado no n.º 2 deste artigo, prevalecem, com as necessárias adaptações, as disposições em vigor da Reforma Aduaneira e demais legislação aplicável, em tudo quanto não esteja previsto ou não contrarie o estabelecido no presente diploma.
+
+2 - São revogadas as disposições a seguir indicadas constantes da Reforma Aduaneira aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965:
+
+N.º 1.º do artigo 3.º, artigos 5.º a 34.º, 35.º, 43.º, 160.º, 161.º, 171.º a 175.º, § 3.º do artigo 176.º, corpo e seus §§ 1.º a 3.º do artigo 193.º artigos 194.º a 279.º, 294.º a 307.º, 313.º a 315.º, 317.º, 321.º, 323.º, 325.º e 326.º, n.os 1.º a 4.º, 18.º, 19.º, 21.º, 22.º, 29.º, 30.º e 31.º e §§ 1.º a 5.º do artigo 327.º, artigo 328.º, n.os 1.º e 2.º do artigo 329.º, artigos 330.º a 351.º, n.os 3.º, 4.º e 7.º e § 2.º do artigo 352.º, artigos 364.º a 386.º, 390.º a 407.º e 412.º
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375847), em vigor a partir de 1982-09-20
+
+###### Artigo 159.º — (Entrada em vigor)
+
+O presente diploma entra em vigor no dia 1 de Julho de 1982.
+
+Visto e aprovado em Conselho de Ministros de 6 de Junho de 1982. - Gonçalo Pereira Ribeiro Teles.
+
+Promulgado em 22 de Junho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Quadro do pessoal a que se refere o artigo 44.º
+
+(ver documento original)

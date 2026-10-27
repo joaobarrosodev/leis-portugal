@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:411792:por
+title: Portaria n.º 253/74
+short_title: null
+summary: Aprova novas tabelas de preços respeitantes ao ensino de condução de veículos automóveis
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral de Viação
+proposing_entity: null
+official_number: 253/74
+official_date: null
+publication_date: '1974-04-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 82/1974, Série I de 1974-04-06
+  number: '82'
+  series: I
+  supplement: null
+  pages: 500 - 501
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/04/08200/05000501.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '411792'
+  dre_path: /dr/detalhe/portaria/253-1974-411792
+  internal: pt:dre:411792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1974-411792
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1974-411792
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d36cb532ea685c2077a9f490ced690551405a7899a66563a48f4e01e331d1a50
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:502785:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:142350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502785:por
+  label: Revogada pelo(a) Portaria n.º 212/76 - Diário do Governo n.º 84/1976, Série I de 1976-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1976-502785
+  date: '1976-04-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:23:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 253/74
+
+de 6 de Abril
+
+Os agravamentos conjunturais dos custos, mormente dos combustíveis para veículos automóveis, justificam uma adaptação dos preços fixados na actual tabela de remuneração do ensino de condução automóvel que permita à respectiva indústria suportar os encargos daí decorrentes.
+
+Por outro lado, pretende dar-se às escolas de condução os meios financeiros que lhes permitam suportar os encargos derivados da modernização do seu equipamento e sistemas de ensino, necessários à melhoria dos níveis de formação dos candidatos a condutor.
+
+Assim, tendo em conta as solicitações do Grémio Nacional dos Industriais do Ensino de Condução Automóvel, entende-se ser oportuna a adopção de uma nova tabela de preços, conforme os estudos realizados justificam.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, ao abrigo do disposto no n.º 7 do artigo 51.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, o seguinte:
+
+1.º A remuneração devida pelo ensino de condução de veículos automóveis constará da tabela que, a requerimento de cada escola ou instrutor independente, for aprovada pela Direcção-Geral de Viação, de acordo com os termos e preços máximos das tabelas A, B e C anexas e que desta portaria fazem parte integrante.
+
+2.º As escolas e os instrutores independentes devem tornar conhecidas as tabelas que lhes tiverem sido aprovadas e aplicá-las a todos aqueles que pretendam aproveitar-se do seu ensino.
+
+3.º É da livre escolha dos alunos a modalidade de ensino entre as que se estabelecem nas tabelas A e C.
+
+4.º As importâncias cobradas aos instruendos devem ser discriminadas nos respectivos recibos.
+
+5.º Constitui obrigação da escola ou do instrutor independente:
+
+a) Fornecer aos instruendos os veículos de que necessitarem para o exame;
+
+b) Indemnizar os mesmos instruendos pelos prejuízos que resultarem da sua não comparência a exame ou da suspensão do exame, se este ou aquele facto se derem por falta ou avaria do veículo que seja imputável à escola ou ao instrutor.
+
+6.º Independentemente do disposto no n.º 7 do artigo 51.º do [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, a não observância da tabela de preços aprovada será punida com a multa de 10000$00.
+
+7.º A não observância pelas escolas e instrutores independentes de quaisquer outras obrigações previstas na presente portaria e nas observações das tabelas anexas será punida com a multa de 10000$00.
+
+8.º Esta portaria entra em vigor a partir de 1 de Maio do ano em curso.
+
+9.º Ficam revogadas as Portarias n.os [253/70](https://diariodarepublica.pt/dr/detalhe/portaria/253-1970-142350), de 23 de Maio, e [342/73](https://diariodarepublica.pt/dr/detalhe/portaria/342-1973-422065), de 16 de Maio.
+
+Ministério das Comunicações, 27 de Março de 1974. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
+
+Tabelas anexas à Portaria n.º 253/74
+
+TABELA A
+
+Preços máximos por lição ou por série de dez lições
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08200/05000501.pdf)
+
+Observações
+
+1) Cada lição terá a duração de cinquenta e cinco minutos, contados da hora marcada para o seu início.
+
+2) A aplicação desta tabela não dá lugar a qualquer reembolso, excepto nos casos de suspensão de ensino ou cancelamento do alvará e de interrupção da ministração do ensino a determinado instruendo imputável à escola de condução.
+
+TABELA B
+
+Preços máximos do fornecimento de veículos de instrução para exame
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08200/05000501.pdf)
+
+Observações
+
+No caso de deslocação do veículo para vários exames, o pagamento resultante da aplicação das taxas por quilómetro será rateado igualmente entre os interessados.
+
+TABELA C
+
+Preços máximos globais para habilitação completa comprovada em exame
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08200/05000501.pdf)
+
+Observações
+
+1) O compromisso de habilitação comprovada em exame que as escolas ou instrutores independentes contraem mediante o recebimento das taxas aprovadas de acordo com esta tabela cessa ao fim de cem dias contados da data desse recebimento, salvo se o ensino for suspenso por motivo fortuito ou de força maior que atinja qualquer das partes interessadas.
+
+Neste caso, o tempo de suspensão será excluído do prazo referido, e o mesmo se fará em relação aos dias em que, por impossibilidade de qualquer das partes, se não dê lição marcada.
+
+2) Dentro do prazo aludido no número anterior, e até que sejam aprovados no exame de condução, os alunos terão direito ao mínimo de quarenta e três lições correspondentes a três lições de prática de condução por cada período de seis dias úteis.
+
+3) Na habilitação prevista ficam compreendidas, além da prática de condução, as disciplinas de teoria e técnica, nos termos requeridos para as provas de profissionais e não profissionais.
+
+4) As taxas acima incluem o pagamento dos veículos de instrução para exame, com exclusão do encargo da deslocação do veículo quando esta se deva considerar nos termos da tabela B.
+
+5) As despesas de documentação para exame são sempre por conta dos alunos.
+
+6) A aplicação da presente tabela não dá lugar a qualquer reembolso, excepto nos casos de suspensão de ensino ou cancelamento do alvará e de interrupção da ministração do ensino a determinado instruendo imputável à escola de condução.
+
+7) O curso técnico destina-se a condutores não profissionais que pretendam habilitar-se para exame de condutores profissionais.
+
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

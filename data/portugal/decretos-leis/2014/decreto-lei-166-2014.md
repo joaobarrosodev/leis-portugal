@@ -1,0 +1,506 @@
+---
+schema_version: '1.0'
+id: pt:dre:58763440:por
+title: Decreto-Lei n.º 166/2014
+short_title: null
+summary: Estabelece o regime jurídico do Programa de Estágios Profissionais na Administração Local
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 166/2014
+official_date: null
+publication_date: '2014-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 215/2014, Série I de 2014-11-06
+  number: '215'
+  series: I
+  supplement: null
+  pages: 5665 - 5669
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21500/0566505669.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-04-11'
+version_history:
+  file: decreto-lei-166-2014.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-04-11'
+    amending: pt:dre:122059234:por
+    amending_title: Decreto-Lei n.º 46/2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/166/2014/p/cons/20190410/pt/html
+  oj: null
+  dre: '58763440'
+  dre_path: /dr/detalhe/decreto-lei/166-2014-58763440
+  internal: pt:dre:58763440:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2014-58763440
+  metadata_url: https://data.dre.pt/eli/dec-lei/166/2014/p/cons/20190410/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-122059247
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-122059247
+  retrieved_at: '2026-10-22T12:25:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 76e382f93e0f778d6164faca29afe1a4cdc697344741cf196486d0816a349d8e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:25:31Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-166-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Financiamento
+- Bolsa de Estágio
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Contrato de Formação
+- Definição de Competências
+- Direção Geral das Autarquias Locais
+- Administração Pública
+- SIADAP
+- Jovem
+- Bolsa de Emprego Público
+- Criação de Emprego
+- Programa Estágios Profissionais na Administração Local
+- Primeiro Emprego
+- Qualificação Profissional
+- Estágio de Formação
+- Política de Emprego
+- Administração Local
+relationships:
+- type: amended_by
+  target: pt:dre:122059234:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º;
+    Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234
+  date: '2019-04-10'
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:306895:por
+  label: null
+  source: http://data.dre.pt/eli/port/1236/2010/12/13/p/dre
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2001/02/03/p/dre
+- type: cites
+  target: pt:dre:335457:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/65/2010/06/11/p/dre
+- type: cites
+  target: pt:dre:483892:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2013/12/31/p/dre
+article_structure:
+  article_count: 23
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:25:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 166/2014
+
+Decreto-Lei n.º 166/2014
+
+de 6 de novembro
+
+A integração de jovens no mercado de trabalho e a melhoria das suas qualificações através da concretização de estágios profissionais é uma prioridade e um desiderato das atuais políticas públicas.
+
+Os programas de estágios profissionais na Administração Pública enquadram-se no âmbito das políticas ativas de emprego previstas no Programa do XIX Governo Constitucional e visam cumprir os objetivos e medidas do Plano Nacional de Implementação de uma Garantia Jovem (PNI-GJ), aprovado pela Resolução do Conselho de Ministros n.º 104/2013, de 31 de dezembro.
+
+Relativamente à administração local, o ponto 4.4 do PNI-GJ refere expressamente a «Dinamização do Programa de Estágios Profissionais na Administração Local (PEPAL), visando promover a integração dos estagiários no mercado de trabalho».
+
+O acordo entre o Governo e a Associação Nacional de Municípios Portugueses, celebrado em 8 de julho de 2014, também previu, em matéria de recursos humanos, o lançamento do PEPAL, com a disponibilização de 1500 estágios.
+
+No âmbito da referida medida do PNI-GJ e com o objetivo de proporcionar o desenvolvimento de uma experiência prática em contexto de trabalho a um leque mais abrangente de destinatários, potenciando a respetiva empregabilidade, o presente decreto-lei vem estabelecer o regime jurídico do PEPAL.
+
+O presente decreto-lei permite ainda uma aproximação aos critérios e objetivos da Iniciativa Emprego Jovem e estabelece o enquadramento legal da criação de programas de estágio específicos em função das condições particulares do setor local e reflete os ensinamentos das experiências anteriores dos programas de estágio na administração local.
+
+Considerando a especificidade de cada autarquia local, possibilita-se a seleção dos candidatos a estágio a nível local, onde as entidades promotoras passam a ser diretamente responsáveis no recrutamento e seleção dos candidatos, utilizando métodos de seleção diferenciados mas assegurando as suas transparência e isenção, através da integral publicitação dos critérios de avaliação, e garantindo um processo transparente e rigoroso na distribuição dos estágios pelas autarquias e no acompanhamento dos estágios.
+
+O regime jurídico aprovado pelo presente decreto-lei permite, por um lado, uma melhor adequação às necessidades e prioridades locais, disponibilizando aos estagiários acesso a áreas e atividades onde exista uma procura efetiva no mercado laboral local, e, por outro lado, possibilita a abertura da administração local à participação de jovens capacitados. Fica igualmente salvaguardada a possibilidade de alocar uma parte do contingente de estágios a certas prioridades estratégicas, como são atualmente o desenvolvimento económico local e a inclusão social.
+
+Foram ouvidas a Comissão Nacional de Proteção de Dados, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+O presente decreto-lei foi objeto de apreciação pública, tendo sido publicado na separata n.º 4 do Boletim do Trabalho e Emprego, de 31 de julho de 2014.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece o regime jurídico do Programa de Estágios Profissionais na Administração Local, doravante designado por PEPAL.
+
+2 - O PEPAL permite aos estagiários o desempenho de funções no contexto da administração local, prioritariamente as correspondentes à carreira de técnico superior do regime geral da função pública.
+
+3 - O PEPAL pode, por portaria do membro do Governo responsável pela área da administração local, ser alargado a outras carreiras do regime geral da função pública.
+
+4 - O PEPAL pode ser aplicável à realização de estágios para acesso a profissões reguladas, mediante decisão própria da respetiva associação pública profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 2.º — Âmbito
+
+1 - O regime estabelecido pelo presente decreto-lei aplica-se aos serviços e organismos da administração local.
+
+2 - Para efeitos do disposto no número anterior, considera-se administração local as autarquias locais, as entidades intermunicipais, e demais associações de municípios e de freguesias de direito público, e as empresas locais, designadas, para efeitos do disposto no presente decreto-lei, por entidades promotoras.
+
+###### Artigo 3.º — Objetivos
+
+São objetivos do PEPAL:
+
+a) Possibilitar aos jovens com qualificação superior a realização de um estágio profissional, em contexto real de trabalho, que crie condições para uma mais rápida e fácil integração no mercado de trabalho;
+
+b) Promover novas formações e novas competências profissionais, que possam potenciar a modernização dos serviços públicos;
+
+c) Garantir o início de um processo de aquisição de experiência profissional em contacto e aprendizagem com as regras, as boas práticas e o sentido de serviço público;
+
+d) Fomentar o contacto dos jovens com outros trabalhadores e atividades, evitando o risco do seu isolamento, desmotivação e marginalização, contribuindo para a melhoria do seu perfil de empregabilidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 4.º — Destinatários
+
+1 - O PEPAL destina-se a jovens que preencham, cumulativamente, os seguintes requisitos:
+
+a) Estejam inscritos nos serviços de emprego do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), na qualidade de desempregados;
+
+b) Tenham até 30 anos de idade, inclusive, aferidos à data de início do estágio;
+
+c) Possuam uma qualificação correspondente, pelo menos, ao nível 6 (licenciatura) da estrutura do Quadro Nacional de Qualificações, constante do anexo ii à Portaria n.º 782/2009, de 23 de julho.
+
+2 - Mediante requerimento devidamente fundamentado, com parecer favorável da Direção-Geral das Autarquias Locais (DGAL), as entidades promotoras podem solicitar a dispensa do requisito previsto na alínea b) do número anterior e no n.º 5.
+
+3 - (Revogado.)
+
+4 - No caso de estágios em funções correspondentes a carreira distinta da referida no n.º 2 do artigo 1.º, o PEPAL pode abranger jovens detentores de nível de qualificação inferior à prevista na alínea c) do n.º 1 do presente artigo.
+
+5 - No caso de pessoas com deficiência e ou incapacidade, o limite de idade estabelecido na alínea b) do n.º 1 é de 35 anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+### Capítulo II — Acesso ao Programa de Estágios Profissionais na Administração Local
+
+###### Artigo 5.º — Fixação do número de estagiários
+
+1 - O número máximo de estagiários a selecionar anualmente é fixado por portaria do membro do Governo responsável pela área da administração local.
+
+2 - A portaria referida no número anterior pode segmentar, por área temática, o contingente total de estágios ou estabelecer prioridades temáticas na distribuição dos mesmos.
+
+3 - Os estágios previstos nos números anteriores são distribuídos pelas entidades promotoras, por despacho do membro do Governo responsável pela área da administração local, tendo em conta a disponibilidade de acolhimento e acompanhamento dos estagiários demonstrada por cada entidade.
+
+4 - O despacho referido no número anterior fixa a data para as entidades promotoras darem início aos procedimentos de seleção dos estagiários e procederem à publicitação referida no n.º 1 do artigo 6.º
+
+5 - A portaria referida no n.º 1 pode prever que a distribuição de parte do número máximo de estagiários fixado se efetue posteriormente, em função do acompanhamento previsto na alínea e) do n.º 2 do artigo 19.º
+
+6 - Para efeitos do disposto no Decreto-Lei n.º 29/2001, de 3 de fevereiro, é assegurada, em cada edição do PEPAL, uma quota de 5% da totalidade dos estágios a ser preenchida por pessoas com deficiência, nos termos a fixar pela portaria prevista no artigo 22.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 6.º — Publicitação dos estágios
+
+1 - O lançamento dos estágios é publicitado no sítio na Internet da entidade promotora, se existir, e em, pelo menos, dois órgãos de comunicação social de expansão regional ou local, sendo ainda comunicado à DGAL, para efeitos de divulgação nos termos definidos por esta.
+
+2 - A publicitação referida no número anterior inclui, obrigatoriamente, informação sobre a entidade promotora, o local onde os estágios decorrem, nas hipóteses previstas no artigo 14.º, as áreas de formação exigidas, o plano de estágio, o prazo e a forma de apresentação da candidatura, o procedimento de seleção, os parâmetros e a fórmula de avaliação, a legislação aplicável e outros requisitos e elementos julgados relevantes.
+
+3 - A DGAL publicita a informação referida nos números anteriores no Portal Autárquico.
+
+4 - A DGAL divulga o lançamento dos estágios na bolsa de emprego público (BEP) e junto dos serviços do IEFP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 7.º — Candidaturas à frequência dos estágios
+
+1 - As candidaturas à frequência dos estágios profissionais, publicitados nos termos do artigo anterior, são apresentadas junto das entidades promotoras.
+
+2 - As candidaturas referidas no número anterior são formalizadas através do preenchimento de formulário e o candidato deve efetuar prova do cumprimento dos requisitos exigidos, ambos fixados pela portaria prevista no artigo 22.º
+
+3 - Os candidatos que tenham frequentado programas de estágios profissionais financiados por fundos públicos só podem frequentar um novo estágio ao abrigo do PEPAL caso se verifique, no processo de seleção para o estágio a que se candidatam, a inexistência de candidatos aprovados que nunca realizaram estágios financiados.
+
+###### Artigo 8.º — Seleção de estagiários
+
+1 - O procedimento de seleção dos candidatos é da responsabilidade da entidade promotora do estágio.
+
+2 - O prazo para a conclusão do procedimento de seleção é fixado em quatro meses, contados a partir da data da publicitação do aviso de abertura.
+
+3 - O prazo previsto no número anterior pode ser prorrogado, uma única vez, por um período não superior a 30 dias úteis, mediante despacho do membro do Governo responsável pela área da administração local, com possibilidade de delegação.
+
+4 - Na seleção dos candidatos são aplicados os métodos da avaliação curricular e da entrevista individual.
+
+5 - Os termos da avaliação curricular referida no número anterior são estabelecidos na portaria prevista no artigo 22.º, cabendo à entidade promotora a respetiva parametrização e a definição da fórmula da avaliação curricular.
+
+6 - A entidade promotora pode, no âmbito do procedimento concursal publicitado, dar preferência aos candidatos residentes na área do município.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+### Capítulo III — Desenvolvimento do estágio
+
+###### Artigo 9.º — Contrato de estágio
+
+1 - Em data anterior ao início do estágio, é celebrado entre a entidade promotora e o estagiário um contrato de estágio, sujeito à forma escrita, em conformidade com o modelo previsto na alínea c) do n.º 2 do artigo 19.º, dele fazendo parte integrante o plano individual de estágio.
+
+2 - Durante todo o período de desenvolvimento do estágio, os estagiários não podem exercer qualquer tipo de atividade profissional, por conta própria ou por conta de outrem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 10.º — Suspensão do contrato de estágio
+
+1 - O contrato de estágio suspende-se automaticamente:
+
+a) Por facto relativo à entidade promotora, desde que devidamente fundamentado nos termos legais aplicáveis, durante um período não superior a dois meses;
+
+b) Por facto relativo ao estagiário, nomeadamente doença, licença parental, licença por adoção ou acidente durante a execução do contrato de estágio, durante um período cumulativo não superior a seis meses.
+
+2 - (Revogado.)
+
+3 - Durante a suspensão do estágio não é devida a bolsa de estágio, nem o pagamento de alimentação.
+
+4 - No dia imediato à cessação do impedimento por facto relativo ao estagiário, este deve apresentar-se na entidade promotora para retomar a atividade.
+
+5 - A suspensão do estágio não altera a sua duração, mas pode adiar a data do seu termo, desde que não ultrapasse 18 meses após o seu início.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 11.º — Cessação do contrato de estágio
+
+1 - O contrato de estágio cessa por caducidade, por acordo das partes ou por resolução por alguma das partes, nos termos dos números seguintes.
+
+2 - A cessação do contrato de estágio por caducidade ocorre quando se verifique alguma das seguintes situações:
+
+a) Decurso do prazo correspondente ao seu período de duração;
+
+b) Impossibilidade superveniente, absoluta e definitiva, de o estagiário poder frequentar o estágio ou de a entidade promotora lho poder proporcionar;
+
+c) O estagiário atinja cinco dias seguidos ou 10 dias interpolados de faltas injustificadas, mediante comunicação escrita da entidade promotora dirigida ao estagiário;
+
+d) Incumprimento reiterado, por parte do estagiário, dos deveres previstos no contrato de estágio.
+
+3 - Para efeitos do disposto na alínea c) do número anterior, não releva o período de suspensão do estágio ocorrido nos termos do artigo anterior.
+
+4 - O contrato de estágio cessa por acordo das partes, expresso de forma clara e inequívoca em documento assinado por ambas, no qual se mencionam as datas da celebração desse acordo e do início da sua produção de efeitos.
+
+5 - O contrato de estágio cessa por resolução quando uma das partes comunicar à outra, mediante carta registada, com indicação da respetiva fundamentação e com antecedência não inferior a 30 dias, a sua intenção de não pretender a manutenção do contrato de estágio.
+
+6 - A resolução do contrato de estágio não confere o direito a qualquer indemnização, salvo se não for cumprido o prazo de aviso prévio previsto no número anterior.
+
+7 - Caso o prazo de comunicação da resolução não tenha sido integralmente cumprido, há lugar às seguintes indemnizações:
+
+a) Pagamento do montante correspondente aos dias em falta, caso o incumprimento seja da entidade promotora;
+
+b) Reposição dos montantes pagos ou pagamento dos dias em falta, caso o incumprimento seja do estagiário.
+
+###### Artigo 12.º — Estrutura do estágio
+
+1 - O estágio engloba uma componente de aplicação de conhecimentos no exercício das funções próprias da entidade promotora e correspondentes à carreira em causa e uma componente formativa, também a decorrer em contexto de trabalho.
+
+2 - Os objetivos e o plano do estágio são definidos pela entidade promotora.
+
+3 - As entidades promotoras estão obrigadas a assegurar aos estagiários o desenvolvimento exclusivo de atividades correspondentes à sua área de formação e para as quais foram admitidos.
+
+###### Artigo 13.º — Duração do estágio
+
+O estágio tem a duração de 12 meses, não prorrogáveis.
+
+###### Artigo 14.º — Local do estágio
+
+1 - O estágio pode desenvolver-se junto de entidades diferentes das entidades promotoras, nomeadamente entidades empresariais, de ensino ou de solidariedade social, mantendo a entidade promotora todos os encargos e obrigações com o estagiário, desde que:
+
+a) Exista entre a entidade promotora e aquelas entidades uma relação assente na concretização de um programa ou projeto conjunto; ou
+
+b) Aquelas entidades contribuam, de forma direta ou indireta, para a realização das atribuições das entidades promotoras.
+
+2 - Às entidades referidas no número anterior aplica-se o disposto no n.º 3 do artigo 12.º
+
+###### Artigo 15.º — Bolsas de estágio e outros apoios
+
+1 - Aos estagiários é concedida, por cada um dos meses de duração do estágio, uma bolsa de estágio de montante fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da administração local.
+
+2 - Aos estagiários são ainda concedidos os seguintes apoios:
+
+a) Subsídio de refeição de valor correspondente ao praticado para a generalidade dos trabalhadores que exercem funções públicas;
+
+b) Seguro que cubra os riscos de eventualidades que possam ocorrer durante e por causa das atividades correspondentes ao estágio profissional, bem como nas deslocações entre a residência e o local de estágio.
+
+3 - A bolsa de estágio e o subsídio de refeição não são devidos:
+
+a) Quando o estágio seja suspenso, nos termos do artigo 10.º
+
+b) Pelas faltas injustificadas;
+
+c) Pelas faltas justificadas por motivo de acidente, desde que a responsabilidade civil daí decorrente se encontre coberta pelo contrato de seguro previsto na alínea b) do número anterior.
+
+d) Pelas faltas justificadas por motivo de doença, licença parental ou licença por adoção durante a execução do contrato de estágio, que excedem o período previsto na alínea b) do n.º 1 do artigo 10.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 16.º — Efeitos do contrato de estágio
+
+1 - Os estágios desenvolvidos ao abrigo do presente decreto-lei estão sujeitos a tributação, nos termos da legislação aplicável.
+
+2 - A relação jurídica decorrente da celebração de um contrato de estágio ao abrigo do presente decreto-lei é equiparada, exclusivamente para efeitos de segurança social, a trabalho por conta de outrem.
+
+###### Artigo 17.º — Acompanhamento do plano de estágio
+
+1 - Sem prejuízo de a respetiva entidade promotora assegurar o acompanhamento do plano de estágio, o estagiário é acompanhado por um orientador, designado de entre titulares de cargos dirigentes, de chefia ou de outros trabalhadores com relevante experiência e aptidão para o efeito, devendo as funções de orientação ser consideradas no âmbito da fixação de objetivos, para efeitos do sistema integrado de gestão e avaliação de desempenho na Administração Pública (SIADAP), aprovado pela Lei n.º 66-B/2007, de 28 de dezembro.
+
+2 - Compete ao orientador, designadamente:
+
+a) Propor ao dirigente máximo da entidade promotora, para sua aprovação, os objetivos, o plano do estágio e a avaliação final do estagiário, nos termos do artigo seguinte;
+
+b) Inserir o estagiário no ambiente de trabalho;
+
+c) Efetuar o acompanhamento técnico e pedagógico do estagiário, supervisionando o seu progresso face aos objetivos e plano definidos;
+
+d) Efetuar o controlo da pontualidade e da assiduidade dos estagiários, dando conhecimento do resultado desse controlo à entidade responsável pelo processamento e pagamento dos valores pecuniários devidos aos estagiários.
+
+e) Dar conhecimento ao estagiário, por escrito, do plano individual de estágio, na data de celebração do contrato, e de todas as alterações que ocorram no decurso do estágio.
+
+3 - Para efeitos do disposto na alínea d) do número anterior, é aplicável ao estagiário, com as devidas adaptações, o regime de faltas e de descanso diário e semanal previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 18.º — Avaliação e classificação final dos estagiários
+
+1 - No fim do estágio é realizada uma avaliação do estagiário, efetuada de acordo com as regras e critérios estabelecidos pela DGAL nos termos da alínea d) do n.º 2 do artigo seguinte, a qual tem em conta o cumprimento dos objetivos e do plano de estágio.
+
+2 - A avaliação prevista no número anterior é sempre fundamentada e compete ao dirigente máximo da entidade promotora, mediante proposta do orientador do estágio, obedecendo a uma escala de 0 a 20 valores.
+
+3 - O resultado da avaliação prevista no n.º 1 é dado a conhecer ao estagiário, por escrito, no prazo de 15 dias úteis a contar do último dia de realização do estágio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+###### Artigo 19.º — Gestão e coordenação do Programa de Estágios Profissionais na Administração Local
+
+1 - A gestão do PEPAL é da responsabilidade da DGAL.
+
+2 - Enquanto responsável pela gestão do PEPAL, compete à DGAL, designadamente:
+
+a) Propor ao membro do Governo competente a realização das edições do PEPAL;
+
+b) Preparar os elementos necessários à fixação do número de estagiários e respetiva distribuição pelas diferentes entidades promotoras, para efeitos do disposto no n.º 3 do artigo 5.º;
+
+c) Estabelecer o modelo de contrato de estágio;
+
+d) Estabelecer as regras e os critérios de avaliação final dos estágios, bem como o modelo da respetiva ficha de avaliação;
+
+e) Efetuar, em articulação com as entidades promotoras, o acompanhamento da execução do PEPAL, tendo em conta, nomeadamente, o cumprimento dos objetivos e dos planos de estágio;
+
+f) Elaborar um relatório final de execução de cada edição do PEPAL, com base na informação recolhida junto de cada entidade promotora.
+
+3 - A DGAL organiza uma base de dados, onde constam os elementos pertinentes relativos aos estágios.
+
+### Capítulo IV — Termo do estágio
+
+###### Artigo 20.º — Termo do estágio e preferências
+
+1 - No termo do estágio é entregue pela entidade promotora ao estagiário um certificado comprovativo de frequência e avaliação final.
+
+2 - O certificado referido no número anterior deve ser entregue ao estagiário no prazo máximo de 10 dias úteis após a data mencionada no n.º 3 do artigo 18.º
+
+3 - A conclusão do estágio com avaliação positiva, nos termos do n.º 2 do artigo 18.º, não tem como efeito a constituição de uma relação jurídica de emprego público ou qualquer outro tipo de vinculação com o Estado.
+
+4 - Os estagiários que tenham obtido aproveitamento com avaliação não inferior a 14 valores, no âmbito dos procedimentos concursais a que se candidatem, publicitados pela entidade promotora onde realizaram o estágio e para ocupação de posto de trabalho da carreira de técnico superior cujas características funcionais se identifiquem com a atividade desenvolvida durante o estágio, e se candidatem, nos termos legais, a procedimento concursal de recrutamento publicitado no período de dois anos após o termo do estágio, têm preferência na lista de ordenação final dos candidatos, em caso de igualdade de classificação, sem prejuízo da aplicação de outras preferências que a lei já preveja.
+
+5 - Os estagiários que tenham obtido aproveitamento com avaliação não inferior a 14 valores e que venham, na sequência do respetivo procedimento concursal e no período de dois anos após o termo do estágio, a constituir uma relação jurídica de emprego público na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, no âmbito de carreiras gerais, beneficiam da redução, para 180 dias, do período experimental previsto na alínea c) do n.º 1 do artigo 49.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+### Capítulo V — Financiamento
+
+###### Artigo 21.º — Regime de financiamento
+
+1 - Em cada edição do PEPAL, os custos relativos a cada estagiário são suportados pela entidade promotora onde decorra o respetivo estágio.
+
+2 - O disposto no número anterior não prejudica o financiamento do PEPAL através de fundos europeus estruturais e de investimento, segundo as respetivas regras de elegibilidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2019 - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234), em vigor a partir de 2019-04-11
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 22.º — Regulamentação
+
+1 - O presente decreto-lei é regulamentado através de portaria do membro do Governo responsável pela área da administração local, designadamente em matéria de acesso ao programa de estágios e respetivos termos de execução.
+
+2 - A regulamentação prevista no número anterior deve assegurar que os estagiários não desenvolvam, no decurso do estágio, atividades que, em face das circunstâncias concretas, correspondam à supressão de carências de recursos humanos da entidade promotora.
+
+###### Artigo 23.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 65/2010, de 11 de junho;
+
+b) A Portaria n.º 1236/2010, de 13 de dezembro.
+
+Visto e aprovado em Conselho de Ministros de 18 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 30 de outubro de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 30 de outubro de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

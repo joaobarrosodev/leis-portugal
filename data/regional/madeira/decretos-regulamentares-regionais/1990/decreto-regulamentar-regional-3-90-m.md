@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:332406:por
+title: Decreto Regulamentar Regional n.º 3/90/M
+short_title: null
+summary: Procede às adaptações necessárias à aplicação na Região Autónoma da Madeira do Regulamento Geral sobre o Ruído, aprovado
+  pelo Decreto-Lei n.º 251/87, de 24 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 292/89, de 2 de Setembro
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 3/90/M
+official_date: null
+publication_date: '1990-03-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/1990, Série I de 1990-03-02
+  number: '51'
+  series: I
+  supplement: null
+  pages: 898 - 899
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05100/08980899.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '332406'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/3-1990-332406
+  internal: pt:dre:332406:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1990-332406
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1990-332406
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8be614ab36e2f233a26f643095b76a5f869ca769f9e50bf79a2a400770fd1302
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Madeira.região Autónoma
+- Poluição Sonora
+- Regulamento
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 3/90/M
+
+Procede às adaptações necessárias à aplicação na Região Autónoma da Madeira do Regulamento Geral sobre o Ruído, aprovado pelo Decreto-Lei n.º 251/87, de 24 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 292/89, de 2 de Setembro.
+
+A preservação do meio ambiente contra a poluição sonora, para salvaguarda da saúde e bem-estar da população, constituiu desde sempre preocupação dos órgãos de governo próprio da Região Autónoma da Madeira, o que determinou adopção de medidas conducentes à respectiva neutralização, ditadas pelos específicos condicionalismos regionais, e, por isso mesmo, mais rigorosas do que as vigentes a nível nacional.
+
+Recentemente, porém, o Decreto-Lei n.º 292/89, de 2 de Setembro, veio introduzir pequenas alterações ao Regulamento Geral sobre o Ruído, aprovado pelo Decreto-Lei n.º 251/87, de 24 de Junho, visando esclarecer alguns aspectos sobre os quais foram suscitadas questões, tornar mais exequíveis algumas das suas disposições e dar maior clareza às competências atribuídas aos serviços.
+
+Por outro lado, limita a concessão de licenças para realização de espectáculos ruidosos ou de divertimentos ao ar livre a um horário fixo e transpõe para o direito interno a Directiva n.º [87/56/CEE](http://data.europa.eu/eli/dir/1987/56/oj?locale=pt), do Conselho, de 18 de Dezembro de 1986, com vista à redução dos valores limite dos níveis sonoros dos motociclos.
+
+Na sua globalidade, o Regulamento Geral sobre o Ruído, particularmente com o novo alcance dado a algumas das suas normas, constitui um valioso instrumento de protecção da qualidade do ambiente, pelo que importa implementar as acções indispensáveis à sua execução no âmbito desta Região Autónoma, definindo quais as entidades e organismos que exercerão as competências nele cometidas a órgãos e serviços do Governo.
+
+Considera-se, no entanto, que o estatuído sobre a realização de espectáculos, diversões e actividades ruidosas, públicas ou privadas, não se adequa aos interesses regionais, pois a sua rigidez não se compatibiliza com as tradições populares nem com as condições que devem ser proporcionadas ao turismo. Neste âmbito, afiguram-se mais ajustadas à nossa realidade as normas até agora vigentes, constantes do Regulamento Policial da Região Autónoma da Madeira.
+
+Assim, o Governo Regional da Madeira, nos termos da alínea b) do artigo 33.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, decreta o seguinte:
+
+Artigo 1.º A aplicação na Região Autónoma da Madeira do Regulamento Geral sobre o Ruído, adiante designado por Regulamento, e seus anexos, aprovados pelo Decreto-Lei n.º 251/87, de 24 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 292/89, de 2 de Setembro, é efectuada com as adaptações constantes do artigo seguinte.
+
+Art. 2.º - 1 - O disposto no artigo 21.º do Regulamento não é aplicável a esta Região Autónoma, mantendo-se em vigor, neste âmbito o estatuído no Regulamento Policial da Região Autónoma da Madeira, aprovado pela Portaria n.º 22/79, de 29 de Março.
+
+2 - A competência atribuída à Direcção-Geral de Viação pela alínea c) do n.º 3 do artigo 22.º do Regulamento será exercida pela Direcção Regional dos Transportes Terrestres.
+
+3 - As competências atribuídas pelos artigos 33.º, n.º 1, e 37.º, n.os 2 e 3, do Regulamento aos directores regionais do ambiente e dos recursos naturais das comissões de coordenação regional cabem ao director regional do Ambiente e Urbanismo.
+
+4 - As competências atribuídas pelos n.os 2 e 3 do artigo 37.º do Regulamento às autoridades sanitárias concelhias ou distritais serão exercidas pelo director regional de Saúde Pública.
+
+5 - A referência feita pelo artigo 40.º do Regulamento ao Ministério do Planeamento e da Administração do Território e a competência atribuída ao respectivo Ministro considera-se reportada à Secretaria Regional do Equipamento Social e será exercida pelo respectivo Secretário Regional.
+
+6 - O produto das coimas aplicadas nos termos do Regulamento reverterá para o Orçamento da Região, sendo afectado a programas nos domínios do ambiente e da saúde.
+
+Art. 3.º - 1 - O presente diploma entra imediatamente em vigor, não afectando a validade das licenças e autorizações respeitantes a pedidos que tenham dado entrada nos serviços competentes até à presente data, ainda que as mesmas sejam concedidas ou prorrogadas em data posterior.
+
+2 - A classificação referida no artigo 4.º do Regulamento, na redacção dada pelo artigo 1.º do Decreto-Lei n.º 292/89, de 2 de Setembro, será realizada no prazo de um ano a contar da data da entrada em vigor do presente diploma pela Direcção Regional do Ambiente e Urbanismo e submetida, para homologação, ao Secretário Regional do Equipamento Social.
+
+Aprovado em Conselho do Governo Regional em 8 de Janeiro de 1990.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 29 de Janeiro de 1990.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -1,0 +1,247 @@
+---
+schema_version: '1.0'
+id: pt:dre:501254:por
+title: Portaria n.º 22452
+short_title: null
+summary: Estabelece as taxas a cobrar pela ocupação de terrenos e de instalações no aeroporto de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral da Aeronáutica Civil
+proposing_entity: null
+official_number: '22452'
+official_date: null
+publication_date: '1967-01-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 12/1967, Série I de 1967-01-14
+  number: '12'
+  series: I
+  supplement: null
+  pages: 77 - 78
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/01/01200/00770078.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '501254'
+  dre_path: /dr/detalhe/portaria/22452-1967-501254
+  internal: pt:dre:501254:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22452-1967-501254
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22452-1967-501254
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 92c8b936f5b10f7a59bce9cb127a7574d345d289c1f3d20e7d0d909e807e0da0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:413993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625592:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:25:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22452
+
+Pela [Portaria n.º 13862](https://diariodarepublica.pt/dr/detalhe/portaria/13862-1952-597730), de 18 de Setembro de 1951, foram estabelecidas, em execução do disposto no artigo 3.º do [Decreto-Lei n.º 38292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38292-1951-625592), de 8 de Junho de 1951, as taxas pela ocupação de terrenos e instalações no aeroporto de Lisboa, à excepção da devida pela concessão de terrenos para construção de edificações, que veio a ser fixada posteriormente, pela [Portaria n.º 14698](https://diariodarepublica.pt/dr/detalhe/portaria/14698-1954-413993), de 5 de Janeiro de 1954.
+
+Reconhecendo-se que, volvidos quinze anos, aquelas taxas se encontram desactualizadas:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 38292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38292-1951-625592), de 8 de Junho de 1951, o seguinte:
+
+I
+
+Taxas
+
+1.º As taxas a cobrar pela ocupação de terrenos e de instalações no aeroporto de Lisboa são as abaixo indicadas:
+
+1 - Instalações de combustíveis:
+
+1.1 - Taxa única de 2$50 por hectolitro de qualquer combustível fornecido às aeronaves pelas companhias abastecedoras, no aeroporto, pela utilização de terrenos, de condutas de combustível, da plataforma e de todas as demais instalações que o aeroporto venha a pôr à disposição das referidas companhias.
+
+1.2 - As fracções de hectolitro de combustível fornecido serão arredondadas, por excesso, para a unidade superior.
+
+1.3 - As taxas serão pagas no aeroporto, pelas empresas distribuidoras, de acordo com as quantidades fornecidas.
+
+2 - Parque de armazenagem ao ar livre (taxa mensal):
+
+Por metro quadrado de superfície do parque:
+
+Em área pavimentada ... 5$00
+
+Em área não pavimentada ...2$50
+
+3 - Terrenos destinados à construção de edificações pelos respectivos utentes (taxa mensal):
+
+Por metro quadrado de superfície coberta ocupada por edificação ... 2$50
+
+4 - Utilização de edifícios ou instalações do aeroporto (taxas mensais):
+
+a) Na aerogare:
+
+4.1 - Gabinetes ou escritórios para companhias de navegação aérea, de aprovisionamento de aeronaves, de telecomunicações aeronáuticas e estabelecimentos bancários:
+
+Por metro quadrado e por gabinete ou escritório, até 40 m2 ... 100$00
+
+Por metro quadrado a mais ... 80$00
+
+4.2 - Área de tráfego compreendida entre a frente dos balcões de tráfego, informações, tesouraria ou outras e a parede do edifício:
+
+Por metro quadrado ... 200$00
+
+4.3 - Estabelecimentos para actividades comerciais, industriais ou outras:
+
+Por metro quadrado e por estabelecimento, até 40 m2 ... 200$00
+
+Por cada metro quadrado a mais ... 160$00
+
+4.4 - Montras de exposição de produtos e de publicidade:
+
+Por metro cúbico ... 500$00
+
+Taxa mínima por montra ... 1000$00
+
+b) Nos hangares:
+
+4.5 - Gabinetes, escritórios ou outras áreas para companhias de navegação aérea, de aprovisionamento de aeronaves, de telecomunicações aeronáuticas ou outras:
+
+Por metro quadrado e por compartimento no rés-do-chão ... 25$00
+
+Por metro quadrado e por compartimento nos restantes pisos ... 15$00
+
+Por metro quadrado na nave do hangar ... 50$00
+
+4.6 - Gabinetes, escritórios ou outras áreas para actividades comerciais, industriais ou outras:
+
+Por metro quadrado e por compartimento no rés-do-chão ... 50$00
+
+Por metro quadrado e por compartimento nos restantes pisos ... 30$00
+
+Por metro quadrado na nave do hangar ... 100$00
+
+c) Noutros edifícios:
+
+4.7 - Gabinetes, escritórios, garagens, oficinas, arrecadações para companhias de navegação aérea, de aprovisionamento de aeronaves ou de telecomunicações aeronáuticas:
+
+Por metro quadrado e por compartimento, até 40 m2 ... 25$00
+
+Por cada metro quadrado a mais ... 20$00
+
+4.8 - Gabinetes, escritórios, garagens, oficinas ou arrecadações para actividades comerciais, industriais ou outras:
+
+Por metro quadrado e por compartimento, até 40 m2 ... 50$00
+
+Por cada metro quadrado a mais ... 40$00
+
+4.9 - Montras de exposição de produtos e publicidade:
+
+Por metro cúbico ... 400$00
+
+Taxa mínima por montra ... 800$00
+
+5 - Reclamos e letreiros (taxa mensal):
+
+5.1 - Para companhias de navegação aérea:
+
+Por metro quadrado de superfície de reclamo ou letreiro ... 200$00
+
+Por metro cúbico de volume ocupado ... 100$00
+
+Taxa mínima por reclamo ou letreiro ... 200$00
+
+5.2 - Para empresas de exploração comercial, industrial ou outras:
+
+Taxa a fixar, em cada caso, com o mínimo de ... 1000$00
+
+6 - Depósito de bagagens:
+
+Por período de 24 horas e por cada volume de bagagem do passageiro ... 4$00
+
+7 - Utilização das câmaras frigoríficas, no terminal de carga:
+
+Até 5 kg, 5$00/dia/volume;
+
+Mais de 5 kg e até 10 kg, 7$50/dia/volume;
+
+Mais de 10 kg e até 20 kg, 10$00/dia/volume;
+
+Mais de 20 kg, 12$50/dia/volume.
+
+2.º - 1. O Ministro das Corporações poderá fixar taxas diferentes das estabelecidas no artigo anterior, em casos especiais devidamente justificados e nomeadamente quando a licença se referir a um conjunto de instalações indispensáveis ao exercício de uma mesma actividade ou a edificações utilizadas totalmente por uma mesma entidade.
+
+2. As taxas fixadas nos termos deste artigo deverão, em qualquer caso, ter em conta a amortização razoável das instalações e respectivo equipamento.
+
+II
+
+Reduções e isenções
+
+3.º Estão isentos de taxas de ocupação de instalações de terrenos e de edificações os seguintes serviços do Estado, indispensáveis ao funcionamento regular do aeroporto: Direcção-Geral das Alfândegas, Direcção-Geral de Saúde, Polícia Internacional e de Defesa do Estado e Serviço Meteorológico Nacional.
+
+4.º Gozam de redução de 50 por cento nas taxas de ocupação os serviços do Estado cujo funcionamento no aeroporto, embora não indispensável, seja considerado conveniente, no âmbito das facilidades a proporcionar aos passageiros e ao público, por despacho do Ministro das Comunicações.
+
+5.º Em casos superiormente autorizados, poderão as companhias abastecedoras de combustíveis vir a ser dispensadas do pagamento da taxa de instalação de combustíveis relativamente a fornecimentos de combustíveis a determinadas entidades, mediante despacho do Ministro das Comunicações e confirmação dos fornecimentos por parte dessas mesmas entidades.
+
+III
+
+Prazo de pagamento
+
+6.º As taxas a cobrar pela ocupação de terrenos e instalações serão pagas dentro do prazo de dez dias, a contar da data da entrega da respectiva guia de pagamento.
+
+IV
+
+Entrada em vigor
+
+7.º A presente portaria entra em vigor em 1 de Março de 1967.
+
+Ministério das Comunicações, 14 de Janeiro de 1967. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971R2821:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R2821-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1971-12-29",
+   "future": false,
+   "celex": "31971R2821",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "91760af8df9dd9d0",
+    "11de4e9fcd94694c",
+    "f7270ae5e275f37b",
+    "98a321aff7bf50d0",
+    "22ce8880d7273a9a",
+    "1976ed77db0447ab",
+    "ddcf05de500bd456",
+    "d94b22738874f772"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01971R2821-20040501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Suprime Artigo 1",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "caa80dfac6e7353d",
+    "a692190c0e1e4fec",
+    "b52fba46afa13b75",
+    "81d9528bab4b9fed",
+    "03560cbef2d69a8b",
+    "cfd0b1339cfd3ca7",
+    "9c8433afa76f7444"
+   ]
+  }
+ ],
+ "fragments": {
+  "91760af8df9dd9d0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2821/71 do Conselho, de 20 de Dezembro de 1971, relativo à aplicação do nº 3 do artigo 85º do Tratado a certas categorias de acordos, decisões e práticas concertadas** *Jornal Oficial nº L 285 de 29/12/1971 p. 0046 - 0048 Edição especial finlandesa: Capítulo 8 Fascículo 1 p. 0043 Edição especial dinamarquesa: Série I Capítulo 1971(III) p. 0896 Edição especial sueca: Capítulo 8 Fascículo 1 p. 0043 Edição especial inglesa: Série I Capítulo 1971(III) p. 1032 Edição especial grega: Capítulo 08 Fascículo 1 p. 0088 Edição especial espanhola: Capítulo 08 Fascículo 2 p. 0014 Edição especial portuguesa: Capítulo 08 Fascículo 2 p. 0014*\n\nREGULAMENTO (CEE) No 2821/71 DO CONSELHO de 20 de Dezembro de 1971 relativo à aplicação do no 3 do artigo 85o do Tratado a certas categorias de acordos, decisões e práticas concertadas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 87o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que a declaração de inaplicabilidade do disposto no no 1 do artigo 85o do Tratado pode, de acordo com o no 3 do mesmo artigo, respeitar a quaisquer categorias de acordos, decisões e práticas concertadas que satisfaçam as condições exigidas por tais disposições;\n\nConsiderando que as regras de aplicação do no 3 do artigo 85o devem ser adoptadas por regulamento elaborado com base no artigo 87o;\n\nConsiderando que a criação de um mercado comum exige a adaptação das empresas às condições deste mercado alargado e que a cooperação entre empresas pode constituir um meio adequado para o conseguir;\n\nConsiderando que os acordos, as decisões e as práticas concertadas em matéria de cooperação entre empresas, que permitam a estas trabalhar mais racionalmente e adaptar a sua produtividade e competitividade ao mercado alargado podem, na medida em que sejam abrangidas pela proibição imposta pelo no 1 do artigo 85o, ser dela isentadas em certas condições; que a necessidade desta medida se impõe, especialmente, em relação a acordos, decisões e práticas concertadas, no âmbito da aplicação de normas e de tipos, no da investigação e desenvolvimento de produtos ou de processos até ao estádio da aplicação industrial ou da exploração dos seus resultados, assim como no da especialização;\n\nConsiderando que é conveniente colocar a Comissão em condições de poder declarar, por meio de regulamento, o disposto no no 1 do artigo 85o não inaplicável a certas categorias de acordos, decisões e práticas concertadas, com o objectivo de facilitar às empresas uma cooperação economicamente desejável e sem inconvenientes do ponto de vista da política de concorrência;\n\nConsiderando que convém precisar as condições em que a Comissão pode exercer este poder, em estreita e permanente colaboração com as autoridades competentes dos Estados-membros;\n\nConsiderando que, por força do artigo 6o do Regulamento no 17 (1), a Comissão pode estabelecer que uma decisão tomada nos termos do no 3 do artigo 85o se aplica com efeitos retroactivos; que é conveniente que a Comissão possa adoptar tal disposição igualmente por meio de regulamento;\n\nConsiderando que, por força do artigo 7o do Regulamento no 17, os acordos, decisões e práticas concertadas podem ser isentadas da proibição por decisão da Comissão, nomeadamente se forem modificados de modo a preencherem as condições de aplicação do no 3 do artigo 85o; que é oportuno que a Comissão possa conceder o mesmo benefício, por meio de regulamento, a estes acordos, decisões e práticas concertadas, se forem modificados de modo a ficarem abrangidos por uma categoria definida por um regulamento de isenção;\n\nConsiderando que não pode ser excluída a hipótese de, num caso determinado, não se encontrarem preenchidas as condições enumeradas no no 3 do artigo 85o; que a Comissão deve ter a faculdade de resolver tal caso, nos termos do Regulamento no 17, mediante decisão, com efeitos para o futuro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "11de4e9fcd94694c": {
+   "fragment_id": "Artigo 1",
+   "type": "artigo",
+   "heading": "Artigo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1\n\n1. Sem prejuízo da aplicação do Regulamento no 17, a Comissão pode declarar, por meio de regulamento e nos termos do no 3 do artigo 85o do Tratado, que o no 1 do artigo 85o não é aplicável a certas categorias de acordos entre empresas, de decisões de associações de empresas e de práticas concertadas que tenham por objecto:\n\na) A aplicação de normas e de tipos;\n\nb) A investigação e o desenvolvimento de produtos ou de processos até ao estádio da aplicação industrial, bem como a exploração de resultados, incluindo as disposições relativas ao direito de propriedade industrial e aos conhecimentos técnicos não divulgados;\n\nc) A especialização, incluindo os acordos necessários à sua realização.\n\n2. O regulamento deve conter uma definição das categorias de acordos, decisões e práticas concertadas aos quais se aplica e precisar, nomeadamente:\n\na) As restrições ou as cláusulas que podem, ou não, figurar nos acordos, decisões e práticas concertadas;\n\nb) As cláusulas que devem figurar nos acordos, decisões e práticas concertadas ou quaisquer outras condições que devam ser preenchidas."
+  },
+  "f7270ae5e275f37b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Qualquer regulamento adoptado por força do artigo 1o terá duração limitada.\n\n2. Pode ser revogado ou alterado quando as circunstâncias se alterarem em relação a um elemento que tenha sido essencial para a sua adopção; neste caso, será previsto um período de adaptação para os acordos, decisões e práticas concertadas abrangidos pelo regulamento anterior."
+  },
+  "98a321aff7bf50d0": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nQualquer regulamento adoptado por força do artigo 1o pode estabelecer que se aplica, com efeitos retroactivos, aos acordos, decisões e práticas concertadas que, no dia da sua entrada em vigor, tivessem podido beneficiar de uma decisão com efeitos retroactivos, nos termos do artigo 6o do Regulamento no 17."
+  },
+  "22ce8880d7273a9a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Qualquer regulamento adoptado por força do artigo 1o pode estabelecer que a proibição prevista no no 1 do artigo 85o do Tratado não se aplique, pelo período nele fixado, aos acordos, decisões e práticas concertadas existentes em 13 de Março de 1962 e que não preencham as condições do no 3 do artigo 85o, desde que:\n\n- sejam modificados, no prazo de seis meses após a entrada em vigor do regulamento, de tal modo que preencham as referidas condições, segundo as disposições do regulamento, e\n\n- essas modificações sejam levadas ao conhecimento da Comissão, no prazo fixado pelo regulamento.\n\n2. O no 1 só é aplicável aos acordos, decisões e práticas concertadas que deveriam ter sido notificados antes de 1 de Fevereiro de 1963, nos termos do artigo 5o do Regulamento no 17, se o tiverem sido antes dessa data.\n\n3. O benefício resultante das disposições tomadas por força do no 1 não pode ser invocado nos litígios pendentes à data da entrada em vigor de um regulamento adoptado por força do artigo 1o; não pode também ser invocado para fundamentar um pedido de indemnização contra terceiros."
+  },
+  "1976ed77db0447ab": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nQuando a Comissão se propuser adoptar um regulamento, fará publicar o respectivo projecto a fim de permitir a todas as pessoas e organizações interessadas apresentar-lhe as suas observações, no prazo que fixar e que não pode ser inferior a um mês."
+  },
+  "ddcf05de500bd456": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A Comissão consultará o Comité Consultivo em matéria de acordos, decisões e práticas concertadas e de posições dominantes:\n\na) Antes de publicar um projecto de regulamento;\n\nb) Antes de adoptar um regulamento.\n\n2. O disposto nos nOS 5 e 6 do artigo 10o do Regulamento no 17 relativamente à consulta do Comité Consultivo aplica-se por analogia, entendendo-se que as reuniões comuns com a Comissão não se realizarão antes de decorrido um mês após o envio da convocatória."
+  },
+  "d94b22738874f772": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nSe a Comissão verificar, oficiosamente ou a pedido de um Estado-membro ou de pessoas singulares ou colectivas que justifiquem um interesse legítimo que, em determinado caso, acordos, decisões ou práticas concertadas referidos num regulamento publicado por força do artigo 1o, têm, no entanto, certos efeitos que são incompatíveis com as condições previstas no no 3 do artigo 85o do Tratado, pode, retirando o benefício da aplicação de tal regulamento, tomar uma decisão, nos termos dos artigos 6o e 8o do Regulamento no 17, sem que seja exigida a notificação referida no no 1 do artigo 4o do Regulamento no 17.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 20 de Dezembro de 1971.\n\nPelo Conselho\n\nO Presidente\n\nM. PEDINI\n\n(1) JO no 13 de 21. 2. 1962, p. 204/62."
+  },
+  "caa80dfac6e7353d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1971R2821 — PT — 01.05.2004 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971R2821:PT:NOT) [REGULAMENTO (CEE) N.o 2821/71 DO CONSELHO de 20 de Dezembro de 1971 relativo à aplicação do n.o 3 do artigo 85.o do Tratado a certas categorias de acordos, decisões e práticas concertadas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971R2821:PT:NOT) (JO L 285, 29.12.1971, p.46)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R2743:PT:NOT) | [Regulamento (CEE) n.o 2743/72 do Conselho de 19 de Dezembro de 1972](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R2743:PT:NOT) | L 291 | 144 | 28.12.1972 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0001:PT:NOT) | [Regulamento (CE) n.o 1/2003 do Conselho de 16 de Dezembro de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0001:PT:NOT) | L 1 | 1 | 4.1.2003 |\n\nAlterado por:\n\n| [►A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:PT:NOT) | [Acto de Adesão da Grécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:PT:NOT) | L 291 | 17 | 19.11.1979 |\n| --- | --- | --- | --- | --- |\n| [►A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT) |  | L 302 | 23 | 15.11.1985 |\n| [A3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971R2821:PT:NOT)\n\nREGULAMENTO (CEE) N.o 2821/71 DO CONSELHO\n\nde 20 de Dezembro de 1971\n\nrelativo à aplicação do n.o 3 do artigo 85.o do Tratado a certas categorias de acordos, decisões e práticas concertadas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 87.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que a declaração de inaplicabilidade do disposto no n.o 1 do artigo 85.o do Tratado pode, de acordo com o n.o 3 do mesmo artigo, respeitar a quaisquer categorias de acordos, decisões e práticas concertadas que satisfaçam as condições exigidas por tais disposições;\n\nConsiderando que as regras de aplicação do n.o 3 do artigo 85.o devem ser adoptadas por regulamento elaborado com base no artigo 87.o;\n\nConsiderando que a criação de um mercado comum exige a adaptação das empresas às condições deste mercado alargado e que a cooperação entre empresas pode constituir um meio adequado para o conseguir;\n\nConsiderando que os acordos, as decisões e as práticas concertadas em matéria de cooperação entre empresas, que permitam a estas trabalhar mais racionalmente e adaptar a sua produtividade e competitividade ao mercado alargado podem, na medida em que sejam abrangidas pela proibição imposta pelo n.o 1 do artigo 85.o, ser dela isentadas em certas condições; que a necessidade desta medida se impõe, especialmente, em relação a acordos, decisões e práticas concertadas, no âmbito da aplicação de normas e de tipos, no da investigação e desenvolvimento de produtos ou de processos até ao estádio da aplicação industrial ou da exploração dos seus resultados, assim como no da especialização;\n\nConsiderando que é conveniente colocar a Comissão em condições de poder declarar, por meio de regulamento, o disposto no n.o 1 do artigo 85.o não inaplicável a certas categorias de acordos, decisões e práticas concertadas, com o objectivo de facilitar às empresas uma cooperação economicamente desejável e sem inconvenientes do ponto de vista da política de concorrência;\n\nConsiderando que convém precisar as condições em que a Comissão pode exercer este poder, em estreita e permanente colaboração com as autoridades competentes dos Estados-membros;\n\nConsiderando que, por força do artigo 6.o do Regulamento n.o 17 ([1](http://publications.europa.eu/resource/cellar/f9a23f75-d9a4-4530-adce-13d30540aa34.0018.02/DOC_1#E0001)), a Comissão pode estabelecer que uma decisão tomada nos termos do n.o 3 do artigo 85.o se aplica com efeitos retroactivos; que é conveniente que a Comissão possa adoptar tal disposição igualmente por meio de regulamento;\n\nConsiderando que, por força do artigo 7.o do Regulamento n.o 17, os acordos, decisões e práticas concertadas podem ser isentadas da proibição por decisão da Comissão, nomeadamente se forem modificados de modo a preencherem as condições de aplicação do n.o 3 do artigo 85.o; que é oportuno que a Comissão possa conceder o mesmo benefício, por meio de regulamento, a estes acordos, decisões e práticas concertadas, se forem modificados de modo a ficarem abrangidos por uma categoria definida por um regulamento de isenção;\n\nConsiderando que não pode ser excluída a hipótese de, num caso determinado, não se encontrarem preenchidas as condições enumeradas no n.o 3 do artigo 85.o; que a Comissão deve ter a faculdade de resolver tal caso, nos termos do Regulamento n.o 17, mediante decisão, com efeitos para o futuro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a692190c0e1e4fec": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Sem prejuízo da aplicação do Regulamento n.o 17, a Comissão pode declarar, por meio de regulamento e nos termos do n.o 3 do artigo 85.o do Tratado, que o n.o 1 do artigo 85.o não é aplicável a certas categorias de acordos entre empresas, de decisões de associações de empresas e de práticas concertadas que tenham por objecto:\n\na) A aplicação de normas e de tipos;\n\nb) A investigação e o desenvolvimento de produtos ou de processos até ao estádio da aplicação industrial, bem como a exploração de resultados, incluindo as disposições relativas ao direito de propriedade industrial e aos conhecimentos técnicos não divulgados;\n\nc) A especialização, incluindo os acordos necessários à sua realização.\n\n2. O regulamento deve conter uma definição das categorias de acordos, decisões e práticas concertadas aos quais se aplica e precisar, nomeadamente:\n\na) As restrições ou as cláusulas que podem, ou não, figurar nos acordos, decisões e práticas concertadas;\n\nb) As cláusulas que devem figurar nos acordos, decisões e práticas concertadas ou quaisquer outras condições que devam ser preenchidas."
+  },
+  "b52fba46afa13b75": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Qualquer regulamento adoptado por força do artigo 1.o terá duração limitada.\n\n2. Pode ser revogado ou alterado quando as circunstâncias se alterarem em relação a um elemento que tenha sido essencial para a sua adopção; neste caso, será previsto um período de adaptação para os acordos, decisões e práticas concertadas abrangidos pelo regulamento anterior."
+  },
+  "81d9528bab4b9fed": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQualquer regulamento adoptado por força do artigo 1.o pode estabelecer que se aplica, com efeitos retroactivos, aos acordos, decisões e práticas concertadas que, no dia da sua entrada em vigor, tivessem podido beneficiar de uma decisão com efeitos retroactivos, nos termos do artigo 6.o do Regulamento n.o17."
+  },
+  "03560cbef2d69a8b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Qualquer regulamento adoptado por força do artigo 1.o pode estabelecer que a proibição prevista no n.o1 do artigo 85.o do Tratado não se aplique, pelo período nele fixado, aos acordos, decisões e práticas concertadas existentes em 13 de Março de 1962 e que não preencham as condições do n.o 3 do artigo 85.o, desde que:\n\n— sejam modificados, no prazo de seis meses após a entrada em vigor do regulamento, de tal modo que preencham as referidas condições, segundo as disposições do regulamento, e\n\n— essas modificações sejam levadas ao conhecimento da Comissão, no prazo fixado pelo regulamento.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R2743:PT:NOT)\n\nQualquer regulamento adoptado por força do artigo 1.o pode estabelecer que a proibição imposta pelo n.o1 do artigo 85.o do Tratado não se aplique, pelo período que fixar, aos acordos e práticas concertadas existentes à data da adesão e que, em consequência da adesão, fiquem abrangidos pelo âmbito de aplicação do artigo 85.o e que não preencham as condições do n.o3 do artigo 85.o.\n\n[▼A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT)\n\nO disposto no parágrafo anterior é aplicável do mesmo modo no caso da adesão da República Helénica, do Reino de Espanha e da República Portuguesa.\n\n[▼](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT)\n\nAs disposições dos parágrafos anteriores serão igualmente aplicáveis em caso de adesão da Áustria, da Finlândia e da Suécia.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971R2821:PT:NOT)\n\n2. O n.o 1 só é aplicável aos acordos, decisões e práticas concertadas que deveriam ter sido notificados antes de 1 de Fevereiro de 1963, nos termos do artigo 5.o do Regulamento n.o 17, se o tiverem sido antes dessa data.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R2743:PT:NOT)\n\nO n.o 1 só é aplicável aos acordos e práticas concertadas que, em consequência da adesão, fiquem abrangidos pelo âmbito de aplicação do n.o 1 do artigo 85.o do Tratado e que devam ser notificados antes de 1 de Julho de 1973, nos termos dos artigos 5.o e 25.o do Regulamento n.o 17, se tiverem sido notificados antes desta data.\n\n[▼A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:PT:NOT)\n\nO n.o 1 só é aplicável aos acordos e práticas concertadas que, em consequência da adesão da República Helénica, fiquem abrangidos pelo disposto no n.o 1 do artigo 85.o do Tratado e que devem ser notificados antes de 1 de Julho de 1981, nos termos dos artigos 5.o e 25.o do Regulamento n.o 17, se tiverem sido notificados antes dessa data.\n\n[▼A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT)\n\nO n.o 1 só é aplicável aos acordos e práticas concertadas que, em consequência da adesão do Reino de Espanha e da República Portuguesa, fiquem abrangidos pelo n.o 1 do artigo 85.o do Tratado e quedevam ser notificados antes de 1 de Julho de 1986, nos termos dos artigos 5.o e 25.o do Regulamento n.o 17, se tiverem sido notificados antes dessa data.\n\n[▼](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT)\n\nO disposto no n.o 1 não é aplicável aos acordos e práticas concertadas a que é aplicável o n.o 1 do artigo 85.o do Tratado por força da adesão da Áustria, da Finlândia e da Suécia e que devem ser notificados dentro de seis meses após a adesão, nos termos dos artigos 5.o e 25.o do Regulamento n.o 17, a menos que tenham sido notificados durante aquele prazo. O presente parágrafo não é aplicável aos acordos e práticas concertadas que, à data da adesão, pertençam já ao âmbito do n.o 1 do artigo 53.o do Acordo EEE.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971R2821:PT:NOT)\n\n3. O benefício resultante das disposições tomadas por força do n.o 1 não pode ser invocado nos litígios pendentes à data da entrada em vigor de um regulamento adoptado por força do artigo 1.o; não pode também ser invocado para fundamentar um pedido de indemnização contra terceiros."
+  },
+  "cfd0b1339cfd3ca7": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nQuando a Comissão se propuser adoptar um regulamento, fará publicar o respectivo projecto a fim de permitir a todas as pessoas e organizações interessadas apresentar-lhe as suas observações, no prazo que fixar e que não pode ser inferior a um mês."
+  },
+  "9c8433afa76f7444": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão consultará o Comité Consultivo em matéria de acordos, decisões e práticas concertadas e de posições dominantes:\n\na) Antes de publicar um projecto de regulamento;\n\nb) Antes de adoptar um regulamento.\n\n2. O disposto nos n.os 5 e 6 do artigo 10.o do Regulamento n.o 17 relativamente à consulta do Comité Consultivo aplica-se por analogia, entendendo-se que as reuniões comuns com a Comissão não se realizarão antes de decorrido um mês após o envio da convocatória.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0001:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971R2821:PT:NOT)\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/f9a23f75-d9a4-4530-adce-13d30540aa34.0018.02/DOC_1#src.E0001)) JO n.o 13 de 21. 2. 1962, p. 204/62."
+  }
+ }
+}

@@ -1,0 +1,527 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0002-20241127",
+ "dre_path": null,
+ "source_lastmod": "2024-11-27",
+ "versions": [
+  {
+   "date": "1999-03-13",
+   "future": false,
+   "celex": "31999L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "103216461bf1c522",
+    "a2378f61f5977fdc",
+    "3f2e99cfcb03ec95",
+    "195bf83ba1ce16e3",
+    "9b27b982937ffaf1",
+    "c10b5f77b9aaf116",
+    "463e2ac8c78fa184",
+    "b48c6bb28554c795",
+    "aed35f53df6be753",
+    "0b43324983fcf7b4",
+    "06746716694cd8fa",
+    "94cc6becc9015c3c",
+    "1ce47a8c88e52439",
+    "542af07df39216bb",
+    "cf11d6899cc5b07c",
+    "075bcdfcdce08632",
+    "59f434cb963b1969",
+    "ca179a2112f6497b",
+    "0f5083dd7a3c76c3",
+    "09440c0cf08de687",
+    "85fe63a1579c5c35"
+   ]
+  },
+  {
+   "date": "2024-11-27",
+   "future": false,
+   "celex": "01999L0002-20241127",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    },
+    {
+     "id": "eu:celex:32024L2839:por",
+     "title": "DIRETIVA (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024",
+     "published": null,
+     "celex": "32024L2839"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO III",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita ANEXO I",
+    "Adita CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS",
+    "Adita ANEXO II",
+    "Adita FONTES DE RADIAÇÃO IONIZANTE",
+    "Adita 1. DOSIMETRIA",
+    "Adita Dose global média absorvida",
+    "Adita 2. PROCEDIMENTOS",
+    "Adita Notas",
+    "Suprime Artigo 1.°",
+    "Suprime Artigo 2.°",
+    "Suprime Artigo 3.°",
+    "Suprime Artigo 4.°",
+    "Suprime Artigo 5.°",
+    "Suprime Artigo 6.°",
+    "Suprime Artigo 7.°",
+    "Suprime Artigo 8.°",
+    "Suprime Artigo 9.°",
+    "Suprime Artigo 10.°",
+    "Suprime Artigo 11.°",
+    "Suprime Artigo 12.°",
+    "Suprime Artigo 13.°",
+    "Suprime Artigo 14.°",
+    "Suprime Artigo 15.°",
+    "Suprime Artigo 16.°",
+    "Suprime Artigo 17.°",
+    "Suprime ANEXO I — CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS",
+    "Suprime ANEXO II — FONTES DE RADIAÇÃO IONIZANTE"
+   ],
+   "fragments": [
+    "6cd349341613f9a2",
+    "c8c706d6613ab3c6",
+    "668c95845542bfbc",
+    "8412139a461594f7",
+    "024c3961166c2a61",
+    "afa7322b01e7c704",
+    "856b5e1363821520",
+    "55eaef531eff668b",
+    "ca9d19c5ac74ddff",
+    "43893c5862515ab4",
+    "700505aedf955773",
+    "37fc5753ebb8e267",
+    "8f88fdb90329be2f",
+    "c0e7fde7508e9154",
+    "d3fa77a52b688d62",
+    "cc9fe2daeed9c0cb",
+    "f35cd68241c5403d",
+    "d3bd341629b6f38c",
+    "d664376e2a8dcecd",
+    "58dfe59722794766",
+    "852174729551523b",
+    "390aa9c8989cd7e6",
+    "720af75c92791b10",
+    "5a7d0b559f0b371e",
+    "5adbb774ed11182d",
+    "64b6953cf96f834e",
+    "e3b7b947c2df5f21"
+   ]
+  }
+ ],
+ "fragments": {
+  "103216461bf1c522": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/2/CE do Parlamento Europeu e do Conselho de 22 de Fevereiro de 1999 relativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos e ingredientes alimentares tratados por radiação ionizante** *Jornal Oficial nº L 066 de 13/03/1999 p. 0016 - 0023*\n\nDIRECTIVA 1999/2/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Fevereiro de 1999 relativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos e ingredientes alimentares tratados por radiação ionizante\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.°A,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do artigo 189.°B do Tratado (3), segundo o projecto comum aprovado pelo Comité de Conciliação em 9 de Dezembro de 1998,\n\n(1) Considerando que as diferenças entre as legislações nacionais relativas ao tratamento por radiação ionizante de alimentos e ingredientes alimentares e às suas condições de utilização impedem a livre circulação de géneros alimentícios e podem criar desigualdades nas condições de concorrência, afectando assim directamente o funcionamento do mercado interno;\n\n(2) Considerando que é necessário adoptar medidas tendo em vista o funcionamento harmonioso do mercado interno; que este compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais; que tal não acontece actualmente devido a certas divergências de tratamento entre Estados-membros, sendo a irradiação de géneros alimentícios autorizada em alguns Estados-membros e proibida noutros;\n\n(3) Considerando que esta directiva-quadro será completada pela Directiva 1999/3/CE do Parlamento Europeu e do Conselho, de 22 de Fevereiro de 1999, relativa ao estabelecimento de uma lista comunitária de alimentos e ingredientes alimentares tratados por radiação ionizante (4), adiante denominada «directiva de execução»;\n\n(4) Considerando que em vários Estados-membros a irradiação dos géneros alimentícios é uma questão sensível junto da opinião pública e que os consumidores podem ter motivos de preocupação com as consequências da utilização da irradiação de alimentos;\n\n(5) Considerando que até à entrada em vigor da lista positiva comunitária de alimentos e ingredientes alimentares que podem ser tratados por radiação ionizante é oportuno que os Estados-membros, em conformidade com as disposições do Tratado, possam continuar a aplicar as restrições ou proibições nacionais existentes sobre a radiação ionizante de alimentos e ingredientes alimentares e sobre o comércio de géneros alimentícios irradiados que não estejam incluídos na lista positiva inicial estabelecida pela directiva de execução;\n\n(6) Considerando que as regras de utilização das radiações ionizantes no tratamento de géneros alimentícios devem ter primeiramente em consideração as exigências da saúde humana, mas também, dentro dos limites impostos pela protecção da saúde, as necessidades económicas e técnicas;\n\n(7) Considerando que a Directiva 96/29/Euratom do Conselho, de 13 de Maio de 1996, que fixa as normas de segurança de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes (5), é aplicável;\n\n(8) Considerando que as unidades de irradiação aprovadas deverão ser sujeitas a controlo oficial, mediante um sistema de inspecção a criar para efeitos do disposto na presente directiva;\n\n(9) Considerando que as unidades aprovadas deverão manter registos por forma a garantir que foram respeitadas as normas da presente directiva;\n\n(10) Considerando que a Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final (6), estabeleceu já regras relativas à rotulagem dos géneros alimentícios irradiados para venda ao consumidor final;\n\n(11) Considerando que, devem também ser estabelecidas regras adequadas para a rotulagem dos géneros alimentícios tratados por radiação ionizante e não destinados ao consumidor final;\n\n(12) Considerando que, sem prejuízo dos processos de tomada de decisão previstos no Tratado que institui a Comunidade Europeia ou na presente directiva, o Comité Científico da Alimentação Humana criado pela Decisão 74/234/CEE da Comissão (7) deve ser consultado sobre todas as questões relacionadas com a presente directiva que possam ter efeitos na saúde pública;\n\n(13) Considerando que os géneros alimentícios só poderão ser tratados por radiação ionizante se existir uma necessidade de higiene alimentar, uma vantagem, tecnológica ou outra, demonstrável ou ainda vantagens para o consumidor, e se os referidos géneros estiverem sãos e em boas condições, dado que as radiações ionizantes não devem ser utilizadas como substituto de práticas de higiene ou sanitárias ou de boas práticas agrícolas ou de produção;\n\n(14) Considerando que o processo não deve ser utilizado como substituto de uma boa prática de fabrico e que esta condição se encontra preenchida no que se refere aos géneros alimentícios enumerados no anexo da directiva de execução;\n\n(15) Considerando que, sempre que o Conselho encarregar a Comissão de aplicar regras relativas à irradiação de alimentos, se deverá prever um procedimento que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no Comité Permanente dos Géneros Alimentícios e, sempre que necessário, no Comité Veterinário Permanente ou no Comité Fitossanitário Permanente;\n\n(16) Considerando que, se se afigurar que a utilização do processo ou de um género alimentícios tratado por radiação ionizante nos termos da presente directiva constitui um risco para a saúde, os Estados-membros deverão ser autorizados a suspender ou limitar essa utilização ou ainda a reduzir os limites, enquanto se aguarda uma decisão a nível comunitário;\n\n(17) Considerando que a Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios (8), deixa às autoridades nacionais responsáveis a escolha dos meios e métodos de execução; que a Directiva 93/99/CEE do Conselho, de 29 de Outubro de 1993, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios (9), estabelece normas de qualidade dos laboratórios e impõe a utilização de métodos validados de análise sempre que estes existam; que o artigo 5.° desta última directiva é aplicável ao controlo da execução da presente directiva;\n\n(18) Considerando que em 20 de Dezembro de 1997 se concluiu um modus vivendi entre o Parlamento Europeu, o Conselho e a Comissão no que respeita às medidas de execução dos actos adoptados pelo procedimento previsto no artigo 189.°B do Tratado CE (10),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "a2378f61f5977fdc": {
+   "fragment_id": "Artigo 1.°",
+   "type": "artigo",
+   "heading": "Artigo 1.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.°\n\n1. A presente directiva aplica-se ao fabrico, à comercialização e à importação de alimentos e ingredientes alimentares, adiante denominados «géneros alimentícios», tratados por radiação ionizante.\n\n2. A presente directiva não se aplica:\n\na) Aos géneros alimentícios expostos a radiações ionizantes emitidas por instrumentos de medida ou de inspecção, desde que a dose absorvida não seja superior a 0,01 Gy para os instrumentos de inspecção que utilizam neutrões e a 0,5 Gy noutros casos, a um nível máximo de radiação de 10 MeV no caso dos raios X, de 14 MeV no caso dos neutrões e de 5 MeV noutros casos;\n\nb) Ao tratamento por irradiação de géneros alimentícios preparados, sob supervisão médica, para doentes que exijam uma alimentação esterilizada."
+  },
+  "3f2e99cfcb03ec95": {
+   "fragment_id": "Artigo 2.°",
+   "type": "artigo",
+   "heading": "Artigo 2.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.°\n\nOs Estados-membros tomarão todas as medidas necessárias para assegurar que os géneros alimentícios irradiados apenas possam ser comercializados se cumprirem as normas estabelecidas na presente directiva."
+  },
+  "195bf83ba1ce16e3": {
+   "fragment_id": "Artigo 3.°",
+   "type": "artigo",
+   "heading": "Artigo 3.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.°\n\n1. As condições a respeitar para a autorização do tratamento de géneros alimentícios por radiação ionizante estão enunciadas no anexo I. Esses géneros deverão encontrar-se, no momento do tratamento, em condições de salubridade adequadas.\n\n2. A irradiação só poderá ser efectuada com as fontes de radiação enumeradas no anexo II e de acordo com os requisitos do Código de Prática em matéria de irradiação a que se refere o n.° 2 do artigo 7.° A dose global média absorvida será calculada de acordo com o anexo III."
+  },
+  "9b27b982937ffaf1": {
+   "fragment_id": "Artigo 4.°",
+   "type": "artigo",
+   "heading": "Artigo 4.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.°\n\n1. A lista comunitária dos géneros alimentícios que podem ser tratados por radiação ionizante, com exclusão de todos os outros, bem como as doses máximas de irradiação autorizadas, serão definidas noutra directiva, que será adoptada de acordo com o procedimento previsto no artigo 100.°A do Tratado tendo em conta as condições de autorização enunciadas no anexo I.\n\n2. Essa lista será elaborada por fases.\n\n3. A Comissão examinará as autorizações nacionais em vigor e, após consulta ao Comité Científico da Alimentação Humana, apresentará, em conformidade com o disposto no artigo 100.°A do Tratado, propostas destinadas a elaborar a lista.\n\nAté 31 de Dezembro de 2000, a Comissão apresentará, nos termos do artigo 100.°A do Tratado, uma proposta destinada a completar a lista positiva prevista no n.° 1.\n\n4. Até à entrada em vigor da directiva adoptada com base na proposta referida no segundo parágrafo do n.° 3, os Estados-membros poderão manter as autorizações existentes relativas ao tratamento de géneros alimentícios por radiação ionizante, desde que:\n\na) O tratamento dos alimentos em causa tenha sido objecto do parecer favorável do Comité Científico da Alimentação Humana;\n\nb) A dose global média de radiação absorvida não ultrapasse os valores-limite recomendados pelo Comité Científico da Alimentação Humana;\n\nc) A radiação ionizante e a comercialização sejam realizadas de acordo com o disposto na presente directiva.\n\n5. Até à entrada em vigor da directiva adoptada com base na proposta referida no segundo parágrafo do n.° 3, os Estados-membros poderão igualmente autorizar o tratamento de géneros alimentícios relativamente aos quais foram mantidas autorizações por outros Estados-membros nos termos do n.° 4, sempre que estejam preenchidas as condições referidas no n.° 4.\n\n6. Os Estados-membros notificarão de imediato à Comissão e aos outros Estados-membros as autorizações mantidas nos termos do n.° 4 ou concedidas nos termos do n.° 5, bem como as condições a que estiverem subordinadas. Essas notificações serão publicadas pela Comissão no Jornal Oficial das Comunidades Europeias.\n\n7. Até à entrada em vigor da directiva adoptada com base na proposta referida no segundo parágrafo do n.° 3, os Estados-membros poderão, no respeito das regras do Tratado, continuar a aplicar as restrições ou proibições nacionais existentes sobre a radiação ionizante de géneros alimentícios e sobre o comércio de géneros alimentícios irradiados que não estejam incluídos na lista positiva inicial estabelecida na directiva de execução."
+  },
+  "c10b5f77b9aaf116": {
+   "fragment_id": "Artigo 5.°",
+   "type": "artigo",
+   "heading": "Artigo 5.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.°\n\n1. A dose máxima de radiação para os géneros alimentícios poderá ser administrada em doses parciais; no entanto, a dose máxima de radiação fixada nos termos do artigo 4.° não deverá ser excedida. O tratamento por irradiação não poderá ser utilizado em conjunto com qualquer tratamento químico que tenha o mesmo objectivo que a irradiação.\n\n2. Poderão ser decididas derrogações ao disposto no n.° 1 de acordo com o procedimento previsto no artigo 12.°"
+  },
+  "463e2ac8c78fa184": {
+   "fragment_id": "Artigo 6.°",
+   "type": "artigo",
+   "heading": "Artigo 6.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.°\n\nA rotulagem dos géneros alimentícios tratados por radiação ionizante reger-se-á pelas seguintes disposições:\n\n1. Produtos destinados ao consumidor final e a fornecedores de refeições:\n\na) Se os produtos forem vendidos à unidade, o rótulo deverá conter a menção «produto irradiado» ou «produto tratado por radiação ionizante», de acordo com o n.° 3 do artigo 5.° da Directiva 79/112/CEE.\n\nNo caso dos produtos vendidos a granel, a menção figurará junto da denominação do produto, num cartaz ou numa tabuleta, por cima ou ao lado do recipiente que o contém;\n\nb) Se o produto irradiado for utilizado como ingrediente, a sua denominação deverá ser acompanhada da mesma menção na lista dos ingredientes.\n\nNo caso dos produtos vendidos a granel, a menção figurará junto da denominação do produto, num cartaz ou numa tabuleta, por cima ou ao lado do recipiente que o contém;\n\nc) Em derrogação do disposto no n.° 7 do artigo 6.° da Directiva 79/112/CEE, a mesma menção deverá ser empregue para assinalar os ingredientes irradiados utilizados em ingredientes compostos em géneros alimentícios, mesmo que constituam menos de 25 % do produto final.\n\n2. Produtos não destinados ao consumidor final nem a fornecedores de refeições:\n\na) Deverá ser utilizada a menção prevista no ponto anterior para indicar o tratamento tanto dos alimentos como dos ingredientes contidos em géneros alimentícios não irradiados;\n\nb) É necessário indicar a identidade e o endereço da instalação onde foi feita a irradiação ou o respectivo número de referência previsto no artigo 7.°,\n\n3. A menção relativa ao tratamento deverá, em todos os casos, figurar nos documentos que acompanham os géneros alimentícios irradiados ou que a eles se referem."
+  },
+  "b48c6bb28554c795": {
+   "fragment_id": "Artigo 7.°",
+   "type": "artigo",
+   "heading": "Artigo 7.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.°\n\n1. Os Estados-membros comunicarão à Comissão os nomes da autoridade ou autoridades competentes responsáveis:\n\n- pela aprovação prévia das instalações de irradiação,\n\n- pela atribuição de um número de referência oficial às instalações de irradiação aprovadas,\n\n- pelo controlo e inspecção de carácter oficial,\n\n- pela revogação ou alteração da aprovação.\n\n2. A aprovação só será dada se a instalação:\n\n- satisfizer o Código de Prática Internacional recomendado pela Comissão conjunta do Codex Alimentarius FAO/OMS (ref. FAO/OMS/CAC/Vol.XV Ed. 1) para a exploração de instalações de irradiação utilizadas para o tratamento de alimentos, e outras exigências adicionais que possam ser adoptadas de acordo com o procedimento previsto no artigo 12.° da presente directiva,\n\n- designar uma pessoa responsável pela observância de todas as condições necessárias à aplicação do processo.\n\n3. Cada Estado-membro comunicará à Comissão:\n\n- os nomes, endereços e números de referência das instalações de irradiação por si aprovadas, o texto do documento de aprovação, bem como qualquer decisão que suspenda ou revogue a aprovação.\n\nAlém disso, os Estados-membros comunicarão anualmente à Comissão:\n\n- os resultados dos controlos efectuados nas instalações de irradiação, em especial no que diz respeito às categorias e quantidades de produtos tratados e às doses administradas,\n\n- os resultados dos controlos efectuados na fase de comercialização do produto. Os Estados-membros assegurarão que os métodos utilizados para detectar o tratamento por radiação ionizante cumpram o disposto nos pontos 1 e 2 do anexo da Directiva 85/591/CEE (11) e que os mesmos já estejam validados ou normalizados ou o sejam, logo que possível, até 1 de Janeiro de 2003, o mais tardar. Os Estados-membros informarão a Comissão dos métodos utilizados e esta avaliará a utilização e o desenvolvimento desses métodos, tomando em consideração um parecer do Comité Científico para a Alimentação Humana.\n\n4. Com base nas informações fornecidas nos termos do n.° 3, a Comissão fará publicar no Jornal Oficial das Comunidades Europeias:\n\n- indicações pormenorizadas sobre as instalações, bem como qualquer alteração da sua situação,\n\n- um relatório elaborado com base nas informações fornecidas anualmente pelas autoridades nacionais responsáveis pelo controlo."
+  },
+  "aed35f53df6be753": {
+   "fragment_id": "Artigo 8.°",
+   "type": "artigo",
+   "heading": "Artigo 8.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.°\n\n1. As instalações de irradiação aprovadas nos termos do disposto no artigo 7.° deverão, para cada fonte de radiação ionizante utilizada, manter um registo que indique, para cada lote de géneros alimentícios tratados:\n\na) A natureza e quantidade dos géneros alimentícios irradiados;\n\nb) O número do lote;\n\nc) O comitente do tratamento por irradiação;\n\nd) O destinatário dos géneros alimentícios tratados;\n\ne) A data da irradiação;\n\nf) O material de embalagem utilizado durante a irradiação;\n\ng) Os dados necessários ao controlo do tratamento por irradiação previstos no anexo III, os controlos dosimétricos efectuados e os resultados obtidos, com pormenores relativos, em especial, aos valores-limite inferior e superior da dose absorvida e ao tipo de radiação ionizante;\n\nh) As medições de validação realizadas antes da irradiação.\n\n2. Os registos referidos no n.° 1 devem ser conservados durante cinco anos.\n\n3. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 12.°"
+  },
+  "0b43324983fcf7b4": {
+   "fragment_id": "Artigo 9.°",
+   "type": "artigo",
+   "heading": "Artigo 9.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.°\n\n1. Os géneros alimentícios tratados por radiação ionizante só poderão ser importados de países terceiros, caso:\n\n- satisfaçam as condições que lhes são aplicáveis,\n\n- sejam acompanhados de documentos que indiquem o nome e o endereço da instalação que efectuou a irradiação e contenham os dados referidos no artigo 8.°,\n\n- tenham sido tratados numa das instalações de irradiação aprovadas pela Comunidade e que constem da lista referida no n.° 2 do presente artigo.\n\n2. a) De acordo com o procedimento previsto no artigo 12.°, a Comissão elaborará a lista das instalações aprovadas, cujo controlo oficial garantirá o cumprimento do disposto no artigo 7.°\n\nPara elaborar a referida lista, a Comissão poderá, de acordo com o disposto no artigo 5.° da Directiva 93/99/CEE, incumbir técnicos especializados de proceder, em seu nome, à avaliação e inspecção das instalações de irradiação de países terceiros.\n\nA Comissão fará publicar essa lista e as respectivas alterações no Jornal Oficial das Comunidades Europeias.\n\nb) A Comissão poderá celebrar com as autoridades competentes de países terceiros acordos técnicos sobre as regras a que deverão obedecer as avaliações e inspecções referidas na alínea a)."
+  },
+  "06746716694cd8fa": {
+   "fragment_id": "Artigo 10.°",
+   "type": "artigo",
+   "heading": "Artigo 10.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.°\n\nOs materiais utilizados na embalagem dos géneros alimentícios destinados a ser irradiados deverão ser adequados a esse fim."
+  },
+  "94cc6becc9015c3c": {
+   "fragment_id": "Artigo 11.°",
+   "type": "artigo",
+   "heading": "Artigo 11.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.°\n\nAs alterações dos anexos destinadas a ter em conta os progressos científicos e técnicos serão adoptadas de acordo com o procedimento previsto no artigo 100.°A do Tratado."
+  },
+  "1ce47a8c88e52439": {
+   "fragment_id": "Artigo 12.°",
+   "type": "artigo",
+   "heading": "Artigo 12.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.°\n\n1. Sempre que deva ser seguido o procedimento previsto no presente artigo, a Comissão será assistida pelo Comité Permanente dos Géneros Alimentícios, a seguir designado por «Comité».\n\nO presidente remeterá, sem demora, a questão para o comité, seja por sua própria iniciativa, seja a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a adoptar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no n.° 2 do artigo 148.° do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas consideradas quando estiverem em conformidade com o parecer do comité;\n\nb) Quando as medidas consideradas não estiverem em conformidade com o parecer do comité, ou na falta de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas."
+  },
+  "542af07df39216bb": {
+   "fragment_id": "Artigo 13.°",
+   "type": "artigo",
+   "heading": "Artigo 13.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.°\n\nO Comité Científico da Alimentação Humana será consultado sobre todas as questões relacionadas com a presente directiva que possam ter efeitos na saúde pública."
+  },
+  "cf11d6899cc5b07c": {
+   "fragment_id": "Artigo 14.°",
+   "type": "artigo",
+   "heading": "Artigo 14.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.°\n\n1. Se, em consequência de novas informações ou de uma reavaliação das informações disponíveis desde a adopção da presente directiva, um Estado-membro possuir elementos precisos que provem que a irradiação de certos géneros alimentícios pode pôr em risco a saúde humana, embora observe o disposto na presente directiva, poderá suspender ou restringir temporariamente a aplicação das disposições em causa no seu território. Desse facto informará imediatamente os restantes Estados-membros e a Comissão, indicando os motivos da sua decisão.\n\n2. A Comissão examinará, logo que possível, no âmbito do Comité Permanente dos Géneros Alimentícios, os motivos referidos no n.° 1, devendo adoptar as medidas adequadas nos termos do procedimento previsto no artigo 12.° O Estado-membro que tiver adoptado a decisão referida no n.° 1 poderá manté-la até à entrada em vigor dessas medidas.\n\n3. As alterações à presente directiva ou à directiva de execução só poderão ser efectuadas nos termos do procedimento previsto no artigo 12.° na medida do necessário para assegurar a protecção da saúde pública e deverão, em qualquer circunstância, limitar-se a proibições ou restrições relativamente à situação jurídica anterior."
+  },
+  "075bcdfcdce08632": {
+   "fragment_id": "Artigo 15.°",
+   "type": "artigo",
+   "heading": "Artigo 15.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.°\n\nOs Estados-membros aplicarão as respectivas disposições legislativas, regulamentares e administrativas para darem cumprimento à presente directiva de forma a:\n\n- autorizar, até, 20 de Setembro de 2000, a comercialização e a utilização de géneros alimentícios irradiados,\n\n- proibir, até 20 de Março de 2001, a comercialização e a utilização de géneros alimentícios irradiados que não observem o disposto na presente directiva.\n\nDesse facto informarão a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "59f434cb963b1969": {
+   "fragment_id": "Artigo 16.°",
+   "type": "artigo",
+   "heading": "Artigo 16.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.°\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "ca179a2112f6497b": {
+   "fragment_id": "Artigo 17.°",
+   "type": "artigo",
+   "heading": "Artigo 17.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.°\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Fevereiro de 1999.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ. M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nK.-H. FUNKE\n\n(1) JO C 336 de 30. 12. 1988, p. 7, e JO C 303 de 2. 12. 1989, p. 15.\n\n(2) JO C 194 de 31. 7. 1989, p. 14.\n\n(3) Parecer do Parlamento Europeu de 11 de Outubro de 1989 (JO C 291 de 20. 11. 1989, p. 58), posição comum do Conselho de 27 de Outubro de 1997 (JO C 389 de 22. 12. 1997, p. 36) e decisão do Parlamento Europeu de 18 de Fevereiro de 1998 (JO C 80 de 16. 3. 1998, p. 130). Decisão do Conselho de 25 de Janeiro de 1999. Decisão do Parlamento Europeu de 28 de Janeiro de 1999.\n\n(4) Ver página 24 do presente Jornal Oficial.\n\n(5) JO L 159 de 29. 6. 1996, p. 1.\n\n(6) JO L 33 de 8. 2. 1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE (JO L 43 de 14. 2. 1997, p. 21).\n\n(7) JO L 136 de 20. 5. 1974, p. 1.\n\n(8) JO L 186 de 30. 6. 1989, p. 23.\n\n(9) JO L 290 de 24. 11. 1993, p. 14.\n\n(10) JO C 102 de 4. 4. 1996, p. 1.\n\n(11) JO L 372 de 31. 12. 1985, p. 50."
+  },
+  "0f5083dd7a3c76c3": {
+   "fragment_id": "ANEXO I — CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS",
+   "type": "divisao",
+   "heading": "ANEXO I — CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS\n\n1. A irradiação de alimentos só poderá ser autorizada se:\n\n- for justificada e necessária do ponto de vista tecnológico,\n\n- for inofensiva para a saúde e praticada de acordo com as condições propostas,\n\n- for benéfica para o consumidor,\n\n- não for utilizada para substituir normas sanitárias e de higiene nem boas práticas de fabrico ou de cultivo.\n\n2. A irradiação de alimentos só pode ter os seguintes objectivos:\n\n- reduzir o risco de doenças de origem alimentar pela destruição de organismos patogénicos,\n\n- reduzir a alteração dos géneros alimentícios, retardando ou pondo termo aos processos de deterioração e destruindo os organismos responsáveis por essa deterioração,\n\n- reduzir a perda de géneros alimentícios pelo amadurecimento, germinação ou crescimento prematuros,\n\n- libertar os géneros alimentícios de organismos prejudiciais às plantas e produtos vegetais."
+  },
+  "09440c0cf08de687": {
+   "fragment_id": "ANEXO II — FONTES DE RADIAÇÃO IONIZANTE",
+   "type": "divisao",
+   "heading": "ANEXO II — FONTES DE RADIAÇÃO IONIZANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FONTES DE RADIAÇÃO IONIZANTE\n\nOs géneros alimentícios apenas podem ser tratados pelas seguintes fontes de radiação ionizante:\n\na) Raios gama emitidos por radionuclídeos 60Co ou 137Cs;\n\nb) Raios X produzidos por aparelhos que funcionem com uma energia nominal (energia quântica máxima) igual ou inferior a 5 MeV;\n\nc) Electrões produzidos por aparelhos que funcionem com uma energia nominal (energia quântica máxima) igual ou inferior a 10 MeV."
+  },
+  "85fe63a1579c5c35": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n1. DOSIMETRIA\n\nDose global média absorvida\n\nPara determinar a salubridade dos géneros alimentícios tratados com uma dose global média igual ou inferior a 10 kGy, pode-se considerar que todos os efeitos químicos da irradiação nessa gama de dose específica são proporcionais à dose.\n\nA dose global média >INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\ndefine-se pela seguinte integral para o volume total de alimentos tratados:\n\n>INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\n= >NUM>1\n\n>DEN>M\n\n&int; p (x,y,z) d (x,y,z) dV\n\nem que >POSIÇÃO NUMA TABELA>\n\nPara produtos homogéneos ou produtos a granel de densidade aparente homogénea, pode-se determinar a dose global média absorvida distribuindo, estratégica e aleatoriamente, uma quantidade adequada de dosímetros por todo o volume dos produtos. A partir da distribuição da dose assim determinada, pode calcular-se uma média, que constitui a dose global média absorvida.\n\nSe a forma da curva de distribuição da dose pelo produto for bem determinada, ficam a conhecer-se as posições das doses mínima e máxima. Podem utilizar-se medições da distribuição da dose nestas duas posições numa série de amostras do produto para se obter uma estimativa da dose global média.\n\nNalguns casos, a média aritmética dos valores médios das doses mínima (>INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\nmin) e máxima (>INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\nmax) constituirá uma boa estimativa da dose global média. Nesses casos:\n\ndose global média &ap; >NUM\"INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\nmax + >INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\nmin\n\n>DEN>2\n\nA relação >NUM\"INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\nmax\n\n>DEN\"INÍCIO DE GRÁFICO>\n\nFD>FIM DE GRÁFICO>\n\nmin\n\nnão pode exceder 3.\n\n2. PROCEDIMENTOS\n\n2.1. Antes de se proceder à irradiação de rotina de uma dada categoria de géneros alimentícios numa instalação de irradiação, determinam-se as posições das doses mínima e máxima fazendo medições de dose em todo o volume do produto. Estas medições de validação devem ser efectuadas um número adequado de vezes (por exemplo 3-5) para ter em conta as variações de densidade ou de geometria do produto.\n\n2.2. As medições devem ser repetidas sempre que o produto, a sua geometria ou as condições de irradiação sofram qualquer alteração.\n\n2.3. Durante o processo de irradiação, realizam-se medições de rotina para assegurar que os limites de dose não sejam excedidos. As medições devem ser feitas colocando dosímetros na posição da dose máxima ou mínima ou numa posição de referência. A dose na posição de referência deve estar quantitativamente ligada às doses máxima e mínima. A posição de referência deve ficar situada num ponto adequado, no interior ou à superfície do produto, em que as variações de dose sejam diminutas.\n\n2.4. Devem ser feitas medições de rotina em todos os lotes e a intervalos regulares durante o processo de produção.\n\n2.5. Nos casos em que são irradiados produtos fluidos e não embalados, não se pode determinar a posição das doses mínima e máxima. Nesse caso, é preferível proceder a uma amostragem para determinar os valores das doses limite.\n\n2.6. As medições de dose devem ser efectuadas utilizando dosímetros homologados e seguidamente cotejadas com as normas de base aplicáveis.\n\n2.7. Durante a irradiação, devem controlar-se e registar-se continuamente certos parâmetros da instalação de irradiação. Nas instalações com radionuclídeos, esses parâmetros incluem a velocidade de transporte do produto ou o tempo gasto na zona de irradiação, bem como indicações que confirmem a posição correcta da fonte. Nas instalações com aceleradores de partículas, os parâmetros incluem a velocidade de transporte do produto e o nível de energia, a corrente de electrões e a largura de varrimento da instalação.\n\nDECLARAÇÃO DA COMISSÃO\n\nConsiderando 17\n\nA Comissão salienta que, logo que for adoptada a nova decisão sobre a reforma da comitologia, proporá ao legislador que as disposições que regem os comités em todos os actos anteriores sejam alinhados pela nova decisão relativa à comitologia. A Comissão compromete-se a aplicar integralmente todo e qualquer acordo interinstitucional decorrente desta nova decisão.\n\nDECLARAÇÃO DO CONSELHO E DA COMISSÃO\n\nN.° 3, terceiro travessão, do artigo 7.°\n\nA fim de garantir que estes métodos existem para todos produtos, a Comissão e os Estados-membros favorecerão a continuação do aperfeiçoamento de métodos de controlo normalizados ou validados destinados a verificar se os alimentos são tratados por radiação ionizante. A Comissão confirma que o relatório anual referido no n.° 4 do artigo 7.° conterá informações sobre os desenvolvimentos em questão e incluirá no respectivo relatório anual relativo ao ano 2000 um balanço da aplicação destas disposições, a fim de determinar se a utilização de métodos validados ou normalizados levanta problemas. A Comissão tomará, se for caso disso e em conformidade com os processos decisionais definidos nos Tratados ou na presente directiva, medidas destinadas a resolver estes problemas e outros que venham a surgir. Estas informações serão igualmente facultadas ao Parlamento Europeu."
+  },
+  "6cd349341613f9a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro de 1999\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos e ingredientes alimentares tratados por radiação ionizante"
+  },
+  "c8c706d6613ab3c6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva aplica-se ao fabrico, à comercialização e à importação de alimentos e ingredientes alimentares, adiante denominados «géneros alimentícios», tratados por radiação ionizante.\n\n2.\n\nA presente directiva não se aplica:\n\na) Aos géneros alimentícios expostos a radiações ionizantes emitidas por instrumentos de medida ou de inspecção, desde que a dose absorvida não seja superior a 0,01 Gy para os instrumentos de inspecção que utilizam neutrões e a 0,5 Gy noutros casos, a um nível máximo de radiação de 10 MeV no caso dos raios X, de 14 MeV no caso dos neutrões e de 5 MeV noutros casos;\n\nb) Ao tratamento por irradiação de géneros alimentícios preparados, sob supervisão médica, para doentes que exijam uma alimentação esterilizada."
+  },
+  "668c95845542bfbc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros tomarão todas as medidas necessárias para assegurar que os géneros alimentícios irradiados apenas possam ser comercializados se cumprirem as normas estabelecidas na presente directiva."
+  },
+  "8412139a461594f7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As condições a respeitar para a autorização do tratamento de géneros alimentícios por radiação ionizante estão enunciadas no anexo I. Esses géneros deverão encontrar-se, no momento do tratamento, em condições de salubridade adequadas.\n\n2. A irradiação só poderá ser efectuada com as fontes de radiação enumeradas no anexo II e de acordo com os requisitos do Código de Prática em matéria de irradiação a que se refere o n.º 2 do artigo 7.º A dose global média absorvida será calculada de acordo com o anexo III."
+  },
+  "024c3961166c2a61": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A lista comunitária dos géneros alimentícios que podem ser tratados por radiação ionizante, com exclusão de todos os outros, bem como as doses máximas de irradiação autorizadas, serão definidas noutra directiva, que será adoptada de acordo com o procedimento previsto no artigo 100.ºA do Tratado tendo em conta as condições de autorização enunciadas no anexo I.\n\n2. Essa lista será elaborada por fases.\n\n3. A Comissão examinará as autorizações nacionais em vigor e, após consulta ao Comité Científico da Alimentação Humana, apresentará, em conformidade com o disposto no artigo 100.ºA do Tratado, propostas destinadas a elaborar a lista.\n\nAté 31 de Dezembro de 2000, a Comissão apresentará, nos termos do artigo 100.ºA do Tratado, uma proposta destinada a completar a lista positiva prevista no n.º 1.\n\n4.\n\nAté à entrada em vigor da directiva adoptada com base na proposta referida no segundo parágrafo do n.º 3, os Estados-membros poderão manter as autorizações existentes relativas ao tratamento de géneros alimentícios por radiação ionizante, desde que:\n\na) O tratamento dos alimentos em causa tenha sido objecto do parecer favorável do Comité Científico da Alimentação Humana;\n\nb) A dose global média de radiação absorvida não ultrapasse os valores-limite recomendados pelo Comité Científico da Alimentação Humana;\n\nc) A radiação ionizante e a comercialização sejam realizadas de acordo com o disposto na presente directiva.\n\n5. Até à entrada em vigor da directiva adoptada com base na proposta referida no segundo parágrafo do n.º 3, os Estados-membros poderão igualmente autorizar o tratamento de géneros alimentícios relativamente aos quais foram mantidas autorizações por outros Estados-membros nos termos do n.º 4, sempre que estejam preenchidas as condições referidas no n.º 4.\n\n6. Os Estados-membros notificarão de imediato à Comissão e aos outros Estados-membros as autorizações mantidas nos termos do n.º 4 ou concedidas nos termos do n.º 5, bem como as condições a que estiverem subordinadas. Essas notificações serão publicadas pela Comissão no *Jornal Oficial das Comunidades Europeias*.\n\n7. Até à entrada em vigor da directiva adoptada com base na proposta referida no segundo parágrafo do n.º 3, os Estados-membros poderão, no respeito das regras do Tratado, continuar a aplicar as restrições ou proibições nacionais existentes sobre a radiação ionizante de géneros alimentícios e sobre o comércio de géneros alimentícios irradiados que não estejam incluídos na lista positiva inicial estabelecida na directiva de execução."
+  },
+  "afa7322b01e7c704": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A dose máxima de radiação para os géneros alimentícios poderá ser administrada em doses parciais; no entanto, a dose máxima de radiação fixada nos termos do artigo 4.º não deverá ser excedida. O tratamento por irradiação não poderá ser utilizado em conjunto com qualquer tratamento químico que tenha o mesmo objectivo que a irradiação.\n\n2. Podem ser aprovadas excepções ao n.º 1 pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 12.º."
+  },
+  "856b5e1363821520": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA rotulagem dos géneros alimentícios tratados por radiação ionizante reger-se-á pelas seguintes disposições:\n\n1. Produtos destinados ao consumidor final e a fornecedores de refeições:\n\na) Se os produtos forem vendidos à unidade, o rótulo deverá conter a menção «produto irradiado» ou «produto tratado por radiação ionizante», de acordo com o n.º 3 do artigo 5.º da Directiva 79/112/CEE.\n\nb) Se o produto irradiado for utilizado como ingrediente, a sua denominação deverá ser acompanhada da mesma menção na lista dos ingredientes.\n\nc) Em derrogação do disposto no n.º 7 do artigo 6.º da Directiva 79/112/CEE, a mesma menção deverá ser empregue para assinalar os ingredientes irradiados utilizados em ingredientes compostos em géneros alimentícios, mesmo que constituam menos de 25 % do produto final.\n\n2. Produtos não destinados ao consumidor final nem a fornecedores de refeições:\n\na) Deverá ser utilizada a menção prevista no ponto anterior para indicar o tratamento tanto dos alimentos como dos ingredientes contidos em géneros alimentícios não irradiados;\n\nb) É necessário indicar a identidade e o endereço da instalação onde foi feita a irradiação ou o respectivo número de referência previsto no artigo 7.º,\n\n3. A menção relativa ao tratamento deverá, em todos os casos, figurar nos documentos que acompanham os géneros alimentícios irradiados ou que a eles se referem."
+  },
+  "55eaef531eff668b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1.\n\nOs Estados-membros comunicarão à Comissão os nomes da autoridade ou autoridades competentes responsáveis:\n\n— pela aprovação prévia das instalações de irradiação,\n\n— pela atribuição de um número de referência oficial às instalações de irradiação aprovadas,\n\n— pelo controlo e inspecção de carácter oficial,\n\n— pela revogação ou alteração da aprovação.\n\n2.\n\nA aprovação só será dada se a instalação:\n\n— satisfizer o Código de Prática Internacional recomendado pela Comissão conjunta do Codex Alimentarius FAO/OMS (ref. FAO/OMS/CAC/Vol. XV Ed. 1) para a exploração de instalações de irradiação utilizadas para o tratamento de alimentos, e outras exigências adicionais que possam ser aprovadas pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 12.º,\n\n— designar uma pessoa responsável pela observância de todas as condições necessárias à aplicação do processo.\n\n3. Cada Estado-Membro comunicará à Comissão os nomes, endereços e números de referência das instalações de irradiação por si aprovadas, o texto do documento de aprovação, bem como qualquer decisão que suspenda ou revogue a aprovação.\n\n4. Com base nas informações fornecidas nos termos do n.º 3, a Comissão fará publicar no *Jornal Oficial da União Europeia* indicações pormenorizadas sobre as instalações, bem como qualquer alteração da sua situação."
+  },
+  "ca9d19c5ac74ddff": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1.\n\nAs instalações de irradiação aprovadas nos termos do disposto no artigo 7.º deverão, para cada fonte de radiação ionizante utilizada, manter um registo que indique, para cada lote de géneros alimentícios tratados:\n\na) A natureza e quantidade dos géneros alimentícios irradiados;\n\nb) O número do lote;\n\nc) O comitente do tratamento por irradiação;\n\nd) O destinatário dos géneros alimentícios tratados;\n\ne) A data da irradiação;\n\nf) O material de embalagem utilizado durante a irradiação;\n\ng) Os dados necessários ao controlo do tratamento por irradiação previstos no anexo III, os controlos dosimétricos efectuados e os resultados obtidos, com pormenores relativos, em especial, aos valores-limite inferior e superior da dose absorvida e ao tipo de radiação ionizante;\n\nh) As medições de validação realizadas antes da irradiação.\n\n2. Os registos referidos no n.º 1 devem ser conservados durante cinco anos.\n\n3. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto [**►M2**](http://publications.europa.eu/resource/celex/32008R1137) no n.º 2 do artigo 12.º **◄**"
+  },
+  "43893c5862515ab4": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1.\n\nOs géneros alimentícios tratados por radiação ionizante só poderão ser importados de países terceiros, caso:\n\n— satisfaçam as condições que lhes são aplicáveis,\n\n— sejam acompanhados de documentos que indiquem o nome e o endereço da instalação que efectuou a irradiação e contenham os dados referidos no artigo 8.º,\n\n— tenham sido tratados numa das instalações de irradiação aprovadas pela Comunidade e que constem da lista referida no n.º 2 do presente artigo.\n\n2.\n\na) De acordo com o procedimento previsto [**►M2**](http://publications.europa.eu/resource/celex/32008R1137) no n.º 2 do artigo 12.º **◄**, a Comissão elaborará a lista das instalações aprovadas, cujo controlo oficial garantirá o cumprimento do disposto no artigo 7.º\n\nb) A Comissão poderá celebrar com as autoridades competentes de países terceiros acordos técnicos sobre as regras a que deverão obedecer as avaliações e inspecções referidas na alínea a)."
+  },
+  "700505aedf955773": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs materiais utilizados na embalagem dos géneros alimentícios destinados a ser irradiados deverão ser adequados a esse fim."
+  },
+  "37fc5753ebb8e267": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs alterações dos anexos destinadas a ter em conta os progressos científicos e técnicos serão adoptadas de acordo com o procedimento previsto no artigo 100.ºA do Tratado."
+  },
+  "8f88fdb90329be2f": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo Comité da Cadeia Alimentar e da Saúde Animal instituído pelo Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e6672d09-1b8f-11f0-b1a3-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n2.\n\nSempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4.\n\nSempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea b) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nOs prazos previstos na alínea c) do n.º 3 e nas alíneas b) e e) do n.º 4 do artigo 5.º-A da Decisão 1999/468/CE são de dois meses, um mês e dois meses, respectivamente.\n\n5. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "c0e7fde7508e9154": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO Comité Científico da Alimentação Humana será consultado sobre todas as questões relacionadas com a presente directiva que possam ter efeitos na saúde pública."
+  },
+  "d3fa77a52b688d62": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Se, em consequência de novas informações ou de uma reavaliação das informações disponíveis desde a adopção da presente directiva, um Estado-membro possuir elementos precisos que provem que a irradiação de certos géneros alimentícios pode pôr em risco a saúde humana, embora observe o disposto na presente directiva, poderá suspender ou restringir temporariamente a aplicação das disposições em causa no seu território. Desse facto informará imediatamente os restantes Estados-membros e a Comissão, indicando os motivos da sua decisão.\n\n2. A Comissão examinará, logo que possível, no âmbito do Comité Permanente dos Géneros Alimentícios, os motivos referidos no n.º 1, devendo adoptar as medidas adequadas nos termos do procedimento previsto [**►M2**](http://publications.europa.eu/resource/celex/32008R1137) no n.º 2 do artigo 12.º **◄** O Estado-membro que tiver adoptado a decisão referida no n.º 1 poderá manté-la até à entrada em vigor dessas medidas.\n\n3. As adaptações da presente directiva ou da directiva de execução só podem ser efectuadas pela Comissão na medida do necessário para assegurar a protecção da saúde pública e deverão, em qualquer circunstância, limitar-se a proibições ou restrições relativamente à situação jurídica anterior. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 5 do artigo 12.º."
+  },
+  "cc9fe2daeed9c0cb": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros aplicarão as respectivas disposições legislativas, regulamentares e administrativas para darem cumprimento à presente directiva de forma a:\n\n— autorizar, até, 20 de Setembro de 2000, a comercialização e a utilização de géneros alimentícios irradiados,\n\n— proibir, até 20 de Março de 2001, a comercialização e a utilização de géneros alimentícios irradiados que não observem o disposto na presente directiva.\n\nDesse facto informarão a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "f35cd68241c5403d": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "d3bd341629b6f38c": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "58dfe59722794766": {
+   "fragment_id": "CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS",
+   "type": "divisao",
+   "heading": "CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS\n\n1. A irradiação de alimentos só poderá ser autorizada se: — for justificada e necessária do ponto de vista tecnológico, — for inofensiva para a saúde e praticada de acordo com as condições propostas, — for benéfica para o consumidor, — não for utilizada para substituir normas sanitárias e de higiene nem boas práticas de fabrico ou de cultivo.\n\n2. A irradiação de alimentos só pode ter os seguintes objectivos: — reduzir o risco de doenças de origem alimentar pela destruição de organismos patogénicos, — reduzir a alteração dos géneros alimentícios, retardando ou pondo termo aos processos de deterioração e destruindo os organismos responsáveis por essa deterioração, — reduzir a perda de géneros alimentícios pelo amadurecimento, germinação ou crescimento prematuros, — libertar os géneros alimentícios de organismos prejudiciais às plantas e produtos vegetais."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "390aa9c8989cd7e6": {
+   "fragment_id": "FONTES DE RADIAÇÃO IONIZANTE",
+   "type": "divisao",
+   "heading": "FONTES DE RADIAÇÃO IONIZANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FONTES DE RADIAÇÃO IONIZANTE\n\nOs géneros alimentícios apenas podem ser tratados pelas seguintes fontes de radiação ionizante:\n\na) Raios gama emitidos por radionuclídeos ^60^Co ou ^137^Cs;\n\nb) Raios X produzidos por aparelhos que funcionem com uma energia nominal (energia quântica máxima) igual ou inferior a 5 MeV;\n\nc) Electrões produzidos por aparelhos que funcionem com uma energia nominal (energia quântica máxima) igual ou inferior a 10 MeV."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "5a7d0b559f0b371e": {
+   "fragment_id": "1. DOSIMETRIA",
+   "type": "divisao",
+   "heading": "1. DOSIMETRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. DOSIMETRIA"
+  },
+  "5adbb774ed11182d": {
+   "fragment_id": "Dose global média absorvida",
+   "type": "divisao",
+   "heading": "Dose global média absorvida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Dose global média absorvida\n\nPara determinar a salubridade dos géneros alimentícios tratados com uma dose global média igual ou inferior a 10 kGy, pode-se considerar que todos os efeitos químicos da irradiação nessa gama de dose específica são proporcionais à dose.\n\nem que\n\nM = massa total da amostra tratada\n\np = densidade local no ponto (x,y,z)\n\nd = dose local absorvida no ponto (x,y,z)\n\ndV = dx dy dz, o elemento de volume infinitesimal representado na prática pelas fracções de volume.\n\nPara produtos homogéneos ou produtos a granel de densidade aparente homogénea, pode-se determinar a dose global média absorvida distribuindo, estratégica e aleatoriamente, uma quantidade adequada de dosímetros por todo o volume dos produtos. A partir da distribuição da dose assim determinada, pode calcular-se uma média, que constitui a dose global média absorvida.\n\nSe a forma da curva de distribuição da dose pelo produto for bem determinada, ficam a conhecer-se as posições das doses mínima e máxima. Podem utilizar-se medições da distribuição da dose nestas duas posições numa série de amostras do produto para se obter uma estimativa da dose global média.\n\nNalguns casos, a média aritmética dos valores médios das doses mínima (\n\n) e máxima (\n\n) constituirá uma boa estimativa da dose global média. Nesses casos:"
+  },
+  "64b6953cf96f834e": {
+   "fragment_id": "2. PROCEDIMENTOS",
+   "type": "divisao",
+   "heading": "2. PROCEDIMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PROCEDIMENTOS\n\n2.1. Antes de se proceder à irradiação de rotina de uma dada categoria de géneros alimentícios numa instalação de irradiação, determinam-se as posições das doses mínima e máxima fazendo medições de dose em todo o volume do produto. Estas medições de validação devem ser efectuadas um número adequado de vezes (por exemplo 3-5) para ter em conta as variações de densidade ou de geometria do produto.\n\n2.2. As medições devem ser repetidas sempre que o produto, a sua geometria ou as condições de irradiação sofram qualquer alteração.\n\n2.3. Durante o processo de irradiação, realizam-se medições de rotina para assegurar que os limites de dose não sejam excedidos. As medições devem ser feitas colocando dosímetros na posição da dose máxima ou mínima ou numa posição de referência. A dose na posição de referência deve estar quantitativamente ligada às doses máxima e mínima. A posição de referência deve ficar situada num ponto adequado, no interior ou à superfície do produto, em que as variações de dose sejam diminutas.\n\n2.4. Devem ser feitas medições de rotina em todos os lotes e a intervalos regulares durante o processo de produção.\n\n2.5. Nos casos em que são irradiados produtos fluidos e não embalados, não se pode determinar a posição das doses mínima e máxima. Nesse caso, é preferível proceder a uma amostragem para determinar os valores das doses limite.\n\n2.6. As medições de dose devem ser efectuadas utilizando dosímetros homologados e seguidamente cotejadas com as normas de base aplicáveis.\n\n2.7. Durante a irradiação, devem controlar-se e registar-se continuamente certos parâmetros da instalação de irradiação. Nas instalações com radionuclídeos, esses parâmetros incluem a velocidade de transporte do produto ou o tempo gasto na zona de irradiação, bem como indicações que confirmem a posição correcta da fonte. Nas instalações com aceleradores de partículas, os parâmetros incluem a velocidade de transporte do produto e o nível de energia, a corrente de electrões e a largura de varrimento da instalação.\n\n---"
+  },
+  "e3b7b947c2df5f21": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e6672d09-1b8f-11f0-b1a3-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 31 de 1.2.2002, p. 1."
+  }
+ }
+}

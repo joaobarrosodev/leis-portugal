@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:407564:por
+title: Portaria n.º 766/76
+short_title: null
+summary: Sujeita ao regime de preços máximos a venda de azeite ao público e fixa as margens de comercialização por garrafa
+  de 1 l
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Comércio Interno
+proposing_entity: null
+official_number: 766/76
+official_date: null
+publication_date: '1976-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1976, Série I de 1976-12-27
+  number: '299'
+  series: I
+  supplement: null
+  pages: 2836 - 2836
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/12/29900/28362836.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '407564'
+  dre_path: /dr/detalhe/portaria/766-1976-407564
+  internal: pt:dre:407564:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-1976-407564
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-1976-407564
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:12:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6b669100c6ffb9e3b1ff5a3190882726b92fbca52509bc746ae212b9afb0aeb8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Azeite
+- Comércio
+- Margens de Comercialização
+- Preço Máximo
+relationships:
+- type: amended_by
+  target: pt:dre:279621:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279621:por
+  label: "Revogada pela PORT.761/77.1977.12.16.MCT DR.IS [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/761-1977-279621
+  date: '1977-12-16'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:12:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 766/76
+
+de 27 de Dezembro
+
+A forte dependência de produtos importados para satisfazer a procura crescente de bens alimentares, resultante dos aumentos da população e do seu poder de compra, leva o Governo a tomar medidas no sentido de apoiar e incentivar a produção nacional, com o fim de reduzir a importação.
+
+O azeite, dado tratar-se de um produto genuinamente nacional do qual vivem muitos milhares de trabalhadores, dadas as suas propriedades organolépticas e por arreigado nos hábitos de consumo da população, constitui um elemento de alto interesse na composição da alimentação dos Portugueses.
+
+Ao fixarem-se os preços à produção na presente campanha houve, porém, que ponderar os aumentos dos custos, especialmente os da mão-de-obra, e o facto de ser um ano de contra-safra, que, aliado às condições meteorológicas verificadas, conduziu a uma menor produção.
+
+Paralelamente, verificaram-se também a nível do engarrafamento e distribuição subidas nos custos, sendo as mais significativas as das embalagens, transportes e salários, quer a nível de armazenista, quer a nível de retalhistas.
+
+Devido não só aos factos atrás indicados, mas também porque na campanha passada não foram alterados os preços ao consumidor, embora se tivesse corrigido o preço à produção, torna-se indispensável fazê-lo agora, sob pena de não se remunerarem devidamente os intervenientes do circuito produtivo e comercial.
+
+A par desta medida, o Governo irá intensificar a fiscalização e o contrôle sobre a qualidade do produto, no sentido de garantir a sua genuinidade ao consumidor.
+
+Nestes termos:
+
+Ao abrigo do disposto no n.º 1 do artigo 2.º e da alínea c) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:
+
+1.º A venda de azeite fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+2.º Os preços máximos de venda ao público de azeite serão os seguintes, por litro:
+
+Azeite do tipo comercial extra, com graduação até 0,5º ... 70$80
+
+Azeite do tipo comercial extra, com graduação até 1º ... 69$80
+
+Azeite do tipo comercial fino, com graduação até 1,5º ... 68$80
+
+3.º São os tipos de azeite mencionados no artigo 2.º os únicos que podem ser vendidos ao público.
+
+4.º Na venda de azeite em embalagens com capacidade superior ou inferior a 1 l os preços máximos serão os correspondentes aos preços fixados nos números anteriores para as embalagens de 1 l.
+
+5.º As margens de comercialização repartem-se segundo o esquema seguinte, por garrafa de 1 l:
+
+Armazenista: 9$60, como se discrimina:
+
+Gastos de embalamento (incluindo materiais completos e custos operacionais) ... 3$55
+
+Quebras e derrames, filtragem e transporte desde o produtor ao armazenista, a cargo do armazenista ... 1$25
+
+Encargos de venda e margem de comercialização do armazenista ... 4$80
+
+Retalhista: ... 3$50.
+
+6.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Comércio e Turismo, 9 de Dezembro de 1976. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

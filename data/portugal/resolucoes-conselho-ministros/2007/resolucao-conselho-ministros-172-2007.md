@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:629448:por
+title: Resolução do Conselho de Ministros n.º 172/2007
+short_title: null
+summary: Aprova medidas de descongestionamento dos tribunais judiciais
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 172/2007
+official_date: null
+publication_date: '2007-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/2007, Série I de 2007-11-06
+  number: '213'
+  series: I
+  supplement: null
+  pages: 8063 - 8064
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21300/0806308064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/172/2007/11/06/p/dre/pt/html
+  oj: null
+  dre: '629448'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/172-2007-629448
+  internal: pt:dre:629448:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/172-2007-629448
+  metadata_url: https://data.dre.pt/eli/resolconsmin/172/2007/11/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/172-2007-629448
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:54:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e99cc1beeb9b9bb8f99e624d23eab368677a55e3666d5c690944f93759e320d9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Acidente de Transporte
+- Centro de Arbitragem
+- Custas Judiciais
+- Direito à Justiça
+- Embargo
+- Indemnização
+- Inventário
+- Julgado de Paz
+- Locação Financeira
+- Magistrado Judicial
+- Mediação Familiar
+- Obrigação Alimentar
+- Oficial de Justiça
+- Pensão de Sobrevivência
+- Processo Declarativo
+- Processo Judicial
+- Propriedade Industrial
+- Providencia Cautelar
+- Tribunal Judicial
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:54:50Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 172/2007
+
+Considerando o constante crescimento da pendência processual, que se cifrava em cerca de 100 000 processos por ano, o XVII Governo Constitucional aprovou, em 2005, o Plano de Acção para o Descongestionamento dos Tribunais (PADT) e, com ele, um conjunto de medidas que visaram, por um lado, prevenir ou eliminar certas causas que determinam o recurso em massa aos tribunais e, por outro, redefinir ou actualizar os mecanismos processuais existentes.
+
+O PADT consubstanciou um passo decisivo no sentido de restituir mais tempo e mais capacidade de resposta aos tribunais, quer na área cível, quer na área penal. Assim, foram aprovadas medidas legislativas sobre o contrato de seguro, o cheque sem provisão, o âmbito da injunção, o regime das férias judiciais, a conversão de transgressões e contravenções em contra-ordenações, o regime dos créditos incobráveis, o novo regime experimental de processo civil, o critério do domicílio do devedor como regra de competência territorial para a proposição de acções judiciais e incentivos à extinção de acções.
+
+Na sequência destas medidas, os resultados obtidos em 2006 foram significativos, destacando-se a eliminação do crónico aumento de cerca de uma centena de milhar de processos pendentes todos os anos.
+
+Todavia, o esforço de racionalização do sistema de justiça não está terminado. Pelo contrário, trata-se de uma tarefa contínua que deve ser periodicamente reponderada, nunca descurando as exigências do acesso ao direito e aos tribunais, constitucionalmente consagrados.
+
+Desta forma, importa prosseguir o esforço de identificação de novas medidas susceptíveis de melhorar os níveis de eficácia que o sistema jurídico e o acesso à justiça exigem. Identificadas as causas de congestionamento é possível encontrar respostas que as possam mitigar ou, mesmo, suprimir. As orientações e medidas que integram a presente resolução baseiam-se nesse trabalho de identificação de factores que concorrem para a actual sobrecarga do sistema, procurando contribuir para a qualificação da resposta judicial.
+
+Através da sua implementação será possível retirar dos tribunais processos que podem ser resolvidos por vias alternativas, ou até mesmo evitados, permitindo aliviar a pressão processual sobre as instâncias judiciais.
+
+As medidas agora adoptadas não dispensam outras que eventualmente possam vir a ser adoptadas, nomeadamente nos procedimentos e nas formas de processo associados ao julgamento de certos crimes como o crime de condução sem habilitação legal ou o crime de condução de veículo em estado de embriaguez e em matéria de criminalização de cheques sem provisão.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Com vista a garantir uma gestão racional do sistema de justiça, libertando os meios judiciais, magistrados e oficiais de justiça para a protecção de bens jurídicos que efectivamente mereçam a tutela judicial, adoptar as seguintes orientações e medidas:
+
+a) Estabelecimento de um regime temporário e especial de incentivo à extinção da instância por transacção, compromisso arbitral, confissão e desistência do pedido, tendo em conta o valor da acção, dispensando o pagamento das custas judiciais que normalmente seriam devidas por autores, réus ou terceiros intervenientes;
+
+b) Aprovação dos actos legislativos que viabilizem a criação de centros de arbitragem com competência em matéria de acção executiva;
+
+c) Revisão do regime jurídico da locação financeira no sentido de evitar acções judiciais desnecessárias nas seguintes situações:
+
+i) Extinguir a obrigatoriedade de propor uma acção declarativa para prevenir a caducidade de uma providência cautelar requerida por uma locadora financeira;
+
+ii) Eliminar a obrigatoriedade de recorrer a uma providência cautelar somente para efeitos de cancelamento do registo da locação financeira de bens móveis sujeitos a registo;
+
+iii) Evitar o recurso a embargos de terceiro por parte da locadora financeira para comprovar a propriedade do seu bem quando ocorra a penhora ou o arresto de bens móveis sujeitos a registo.
+
+d) Desjudicialização do processo de inventário, considerando que o tratamento pela via judicial deste processo resulta particularmente moroso, assegurando sempre o acesso aos tribunais em caso de conflito;
+
+e) Criação de um centro de arbitragem para dirimir litígios em matéria de propriedade industrial;
+
+f) Aprovação dos actos legislativos necessários à criação de, pelo menos, quatro julgados de paz em 2007 e, pelo menos, quatro em 2008;
+
+g) Alteração do regime das custas judiciais de forma que a parte que tenha inviabilizado a utilização dos mecanismos de resolução alternativa de litígios definidos em portaria do membro do Governo responsável pela área da justiça seja responsável pelo pagamento de custas;
+
+h) Revisão do regime jurídico aplicável aos processos de indemnização por acidente de viação, estabelecendo regras para a fixação do valor dos rendimentos auferidos pelos lesados para servir de base à definição do montante da indemnização, de forma que os rendimentos declarados para efeitos fiscais sejam o elemento mais relevante;
+
+i) Revisão do regime da concessão de pensões de alimentos ou de sobrevivência a pessoas que vivam em condições análogas às dos cônjuges, configurando tal concessão como um procedimento administrativo, a decorrer junto das instituições de segurança social, com possibilidade de impugnação judicial da decisão;
+
+j) Alargamento do sistema de mediação familiar a todo o território nacional;
+
+l) Alargamento do sistema de mediação laboral a todo o território nacional;
+
+m) Dispensa da necessidade de apresentação de uma acção judicial em matéria de acidentes de trabalho quando, após a realização dos exames médicos necessários, exista acordo entre trabalhador e empregador e decisão favorável de entidade administrativa ou equivalente, assegurando-se sempre o acesso aos tribunais em caso de conflito.
+
+2 - A iniciativa legislativa relativa à medida prevista na alínea a) do número anterior deve ser aprovada durante o mês de Outubro de 2007.
+
+3 - As iniciativas legislativas relativas às medidas previstas nas alíneas b) a d) do n.º 1 devem ser aprovadas até ao final de 2007.
+
+4 - A adopção dos actos necessários para a concretização da medida referida na alínea e) do n.º 1 deve verificar-se até ao final de 2007.
+
+5 - Os actos legislativos necessários à criação dos julgados de paz referidos na alínea f) do n.º 1 devem ser, quanto a, pelo menos, quatro julgados de paz, aprovados até ao final de 2007, e a, pelo menos, quatro julgados de paz, até ao final de Março de 2008.
+
+6 - A iniciativa legislativa relativa à medida prevista na alínea g) do n.º 1 deve ser aprovada até ao dia 23 de Janeiro de 2008.
+
+7 - As medidas previstas nas alíneas h) e i) do n.º 1 devem ser aprovadas até ao final de Junho de 2008.
+
+8 - A concretização das medidas previstas nas alíneas j) e l) do n.º 1 deve verificar-se até ao final de 2008.
+
+9 - A medida referida na alínea m) do n.º 1 deve ser aprovada até ao final de 2008.
+
+Presidência do Conselho de Ministros, 11 de Outubro de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

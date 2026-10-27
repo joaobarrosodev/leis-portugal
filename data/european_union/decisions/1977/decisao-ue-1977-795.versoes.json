@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977D0795:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977D0795-20071222",
+ "dre_path": null,
+ "source_lastmod": "2007-12-22",
+ "versions": [
+  {
+   "date": "1977-12-24",
+   "future": false,
+   "celex": "31977D0795",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ff3ed11856baa838",
+    "93d36fcfcc4062d2",
+    "5580698500c8e117",
+    "bedef722d3f83a01",
+    "e71d0486fb1143ea",
+    "8154518fb7aee812",
+    "7c1391d836090433",
+    "39411a36d7382046",
+    "13fc11b678370f25",
+    "1ed066e11cee6a02",
+    "7d90512e8de0df96",
+    "c03fe5763c7fab51"
+   ]
+  },
+  {
+   "date": "2007-12-22",
+   "future": false,
+   "celex": "01977D0795-20071222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime ANEXO I — LISTA DES ESTAÇÕES DE COLHEITA DE AMOSTRAS OU DE MEDIÇÃO QUE PARTICIPAM NA TROCA DE INFORMAÇÕES",
+    "Suprime ANEXO II — PARÂMETROS QUE SÃO OBJECTO DA TROCA DE INFORMAÇÕES"
+   ],
+   "fragments": [
+    "d69e7a844dff3efc"
+   ]
+  }
+ ],
+ "fragments": {
+  "ff3ed11856baa838": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**77/795/CEE: Decisão do Conselho, de 12 de Dezembro de 1977, que institui um procedimento comum de troca de informações relativas às águas doces superficiais na Comunidade** *Jornal Oficial nº L 334 de 24/12/1977 p. 0029 - 0036 Edição especial grega: Capítulo 15 Fascículo 1 p. 0146 Edição especial espanhola: Capítulo 15 Fascículo 2 p. 0084 Edição especial portuguesa: Capítulo 15 Fascículo 2 p. 0084 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0071 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0071*\n\nDECISÃO DO CONSELHO de 12 de Dezembro de 1977 que institui um procedimento comum de troca de informações relativas às àguas doces superficiais na Comunidade\n\n(77/795/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS.\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que os programas de acção das Comunidades Europeias em matéria de ambiente de 1973 (3) e 1977 (4) prevêm a instituição de um procedimento de troca de informações entre as redes de vigilância e de controlo da poluição;\n\nConsiderando que este procedimento é necessário para a caracterização dos níveis de poluição dos rios da Comunidade e, consequentemente, para orientar a luta contra as poluições e perturbações, que constitui um dos objectivos da Comunidade no que diz respeito ao melhoramento das condições de vida e ao desenvolvimento harmonioso das actividades económicas em toda a Comunidade; que os poderes de acção específicos necessários para o efeito não foram previstos no Tratado;\n\nConsiderando que esta troca de informações acerca dos níveis de poluição é um dos elementos que permite seguir as tendências a longo prazo e os melhoramentos decorrentes da aplicação das regulamentações nacionais e comunitárias em vigor;\n\nConsiderando que a troca de informações prevista na presente decisão deverá permitir uma comparação o mais significativa possível dos resultados das medidas efectuadas nas estações de colheita de amostras ou de medida;\n\nConsiderando que a troca de informações prevista na presente decisão lança as bases de um sistema de vigilância da poluição das águas doces superficiais a nível comunitário e poderá constituir um dos elementos do sistema global de vigilância do ambiente do Programa das Nações Unidas para o Ambiente;\n\nConsiderando que, a fim de atingir estes objectivos, é necessário que os Estados-membros transmitam à Comissão os dados relativos a certos parâmetros das águas doces superficiais; que a Comissão fará sobre estes um relatório de síntese do qual dará conhecimento aos Estados-membros;\n\nConsiderando que a lista das estações do Anexo I pode ser modificada pela Comissão com vantagem se tal lhe for solicitado pelo Estado-membro em causa, desde que sejam reunidos certos critérios;\n\nConsiderando que o progresso técnico carece de uma adaptação rápida das disposições técnicas definidas no Anexo II da presente decisão; que convém, para facilitar a aplicação das medidas necessárias para este efeito, prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Comissão no seio do Comité para a adaptação da presente decisão ao progresso técnico.\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "93d36fcfcc4062d2": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ instituído um procedimento comum de troca de informações relativamente à qualidade das águas doces superficiais na Comunidade."
+  },
+  "5580698500c8e117": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Na acepção da presente decisão, entende-se por estações de colheita de amostras ou medida as estações constantes do Anexo I.\n\n2. As informações relativas aos parâmetros que figuram na primeira coluna do Anexo II abarangidos pela troca de informações são:\n\na) Os resultados das medidas efectuadas nas estações de colheita de amostras ou de medida;\n\nb) A descrição dos métodos de colheita, de conservação das amostras e de medida utilizados bem como as frequências de amostragem."
+  },
+  "bedef722d3f83a01": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Cada Estado-membro designará um orgão central e desse facto informará a Comissão nos quinze dias seguintes à notificação da presente decisão.\n\n2. As informações referidas no no 2 do artigo 2o serão transmitidas à Comissão por intermédio do órgão central de cada Estado-membro.\n\n3. Os dados referidos no no 2, alínea a), do artigo 2o serão apresentados nas unidades e com os algarismos significativos especificados nas segunda e terceira colunas do Anexo II.\n\n4. A transmissão à Comissão das informações relativas a um ano civil faz-se pelo menos de doze em doze meses.\n\n5. A Comissão elaborará anualmente um relatório de síntese baseado nas informações referidas no no 2 do artigo 2o. A parte do projecto deste relatório referente às informações fornecidas por um Estado-membro é transmitida para verificação ao órgão central desse Estado-membro. As eventuais observações sobre o projecto são inseridas no relatório. A versão definitiva será comunicada aos Estados-membros.\n\n6. A Comissão avaliará a eficácia do processo de troca de informações e, num prazo máximo de três anos após a notificação da presente decisão, apresentará ao Conselho, se for caso disso, os métodos de medição."
+  },
+  "e71d0486fb1143ea": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros transmitirão por intermédio dos ógãos centrais as informações referidas no no 2 do artigo 2o, pela primeira vez dentro dos seis meses seguintes à notificação da presente decisão.\n\n2. As primeiras informações que serão objecto da troca de informações serão informações disponíveis ao longo do ano civil presedente à notificação da presente decisão."
+  },
+  "8154518fb7aee812": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A lista do Anexo I pode ser modificada pela Comissão a pedido do Estado-membro interessado.\n\n2. A Comissão procederá a essa modificação após se certificar que os critérios seguintes são respeitados:\n\n- a lista de estações de colheita de amostras ou de medição é, no que se refere a cada Estado-membro, suficientemente representativa no que diz respeito aos objectivos da presente decisão,\n\n- as estações estão situadas em pontos representativos das condições do meio aquático que as cerca e não se encontram sobre a influência directa e imediata de uma fonte de poluição,\n\n- as estações são capazes de medir periodicamente os parámetros do Anexo II.\n\n- as estações estão de um modo geral situadas a uma distância máxima de 100 km umas das outras nos rios principais, com exclusão dos afluentes.\n\n- estão situada a montante dos confluentes e não sofrem o efeito das marés.\n\n3. A Comissão informará o Conselho das alterações aceites.\n\n4. A Comissão submeterá à decisão do Conselho os pedidos de modificação que não pôde aceitar."
+  },
+  "7c1391d836090433": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nAs modificações necessárias para adaptar ao progresso técnico a lista dos parâmetros, o modo de expressão e os seus algarismos significativos especificados no Anexo II serão adoptados em conformidade com o procedimento estipulado no artigo 8o, desde que os aditamentos à lista não incluam parâmetros que sejam objecto da legislação comunitária e relativamente aos quais os dados estejam disponiveis em todas as estações de colheita de amostras ou de medida dos Estados-membros. As modificações do modo de expressão e dos algarismos significativos não devem acarretar modificações dos métodos de medida utilizados pelos Estados-membros nas diferentes estações do Anexo I."
+  },
+  "39411a36d7382046": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. É instituído um Comité para a adaptação ao progresso técnico da presente decisão, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelece o seu regulamento interno."
+  },
+  "13fc11b678370f25": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. No caso em que seja feita referência ao processo definido no presente artigo, o Comité será convocado pelo seu presidente, seja por iniciativa deste, seja a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete ao Comité um projecto de medidas a tomar. O Comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência do assunto em causa. Pronunciase por uma maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão estabelece as medidas previstas em conformidade com o parecer do comité;\n\nb) No caso das medidas previstas não estarem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão submete sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada;\n\nc) Se, decorrido um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este não tiver deliberado, as medidas propostas são adoptadas pela Comissão."
+  },
+  "1ed066e11cee6a02": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente decisão.\n\nFeito em Bruxelas em 12 de Dezembro de 1977.\n\nPelo Conselho\n\nO Presidente\n\nL. DHOORE\n\n(1) JO no C 178 de 2. 8. 1976, p. 48.(2) JO no C 285 de 2. 12. 1976, p. 10.(3) JO no C 112 de 20. 12. 1973, p. 3.(4) JO no C 139 de 13. 6. 1977, p. 3."
+  },
+  "7d90512e8de0df96": {
+   "fragment_id": "ANEXO I — LISTA DES ESTAÇÕES DE COLHEITA DE AMOSTRAS OU DE MEDIÇÃO QUE PARTICIPAM NA TROCA DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DES ESTAÇÕES DE COLHEITA DE AMOSTRAS OU DE MEDIÇÃO QUE PARTICIPAM NA TROCA DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DES ESTAÇÕES DE COLHEITA DE AMOSTRAS OU DE MEDIÇÃO QUE PARTICIPAM NA TROCA DE INFORMAÇÕES\n\nREPÚBLICA FEDERAL DA ALEMANHA\n\n\"\" ID=\"1\">Maxau 362,3 km depois da ponte do Reno em Constança> ID=\"2\">Reno\"> ID=\"1\">Mainz 498,5 km depois da ponte do Reno em Constança> ID=\"2\">Reno\"> ID=\"1\">Koblenz/Braubach 590,3 km depois da ponte do Reno em Constança> ID=\"2\">Reno\"> ID=\"1\">Palzem 230,3 km antes da confluência com o Reno> ID=\"2\">Mosela\"> ID=\"1\">Koblenz/Moselle 2 km antes da confluência com o Reno> ID=\"2\">Mosela\"> ID=\"1\">Kleve/Bimmen 864,95 km depois da ponte do Reno em Constança no ponto em que o rio sai da República Federal da Alemanha> ID=\"2\">Reno\"> ID=\"1\">Goch 21,4 km antes da confluência com o Mosa> ID=\"2\">Niers\"> ID=\"1\">Herbrum 284,9 km de distância a partir da nascente (canal-km 212,04)> ID=\"2\">Ems\"> ID=\"1\">Hemeln 11 km depois da confluência do Werra com o Fulda> ID=\"2\">Weser\"> ID=\"1\">Intschede 329,7 km depois da confluência do Werra com o Fulda> ID=\"2\">Weser\"> ID=\"1\">Geesthacht 113 km depois da entrada na República Federal da Alemanha (Elbe-km 584,5)> ID=\"2\">Elba\"> ID=\"1\">Jochenstein 2 203 km antes da foz do Danúbio> ID=\"2\">Danúbio\">\n\nBÉLGICA\n\n\"\" ID=\"1\">Warneton a jusante da confluência com o Deule> ID=\"2\">Lys\"> ID=\"1\">Leers-Nord à entrada na Bélgica> ID=\"2\">Espierre\"> ID=\"1\">Doel à saída da Bélgica> ID=\"2\">Escaut\"> ID=\"1\">Bléharies à entrada na Bélgica> ID=\"2\">Escaut\"> ID=\"1\">Erquelinnes à entrada na Bélgica> ID=\"2\">Sambre\"> ID=\"1\">Heer-Agimont à entrada na Bélgica> ID=\"2\">Mosa\"> ID=\"1\">Lanaye-Ternaaien à saída da Bélgica> ID=\"2\">Mosa\"> ID=\"1\">Martelange à saída da Bélgica> ID=\"2\">Sure\"> ID=\"1\">Zelzate à saída da Bélgica> ID=\"2\">Canal Grand-Terneuzen\">\n\nDINAMARCA\n\n\"\" ID=\"1\">Naaby estação no 57.12> ID=\"2\">Susaa\"> ID=\"1\">Nr Broby estação no 45.01> ID=\"2\">Odense AA\"> ID=\"1\">Tvilum bro estação no 21.01> ID=\"2\">Gudenaa\"> ID=\"1\">Ahlergaard estação no 25.05> ID=\"2\">Skjern AA\">\n\nFRANÇA\n\n\"\" ID=\"1\">Méry antes da confluência com o Aube (St 6 000)> ID=\"2\">Sena\"> ID=\"1\">Montereau antes da confluência com o Yonne (St 14 000)> ID=\"2\">Sena\"> ID=\"1\">Melun (St 47 000)> ID=\"2\">Sena\"> ID=\"1\">Paris ponte de Tolbiac (St 81 000)> ID=\"2\">Sena\"> ID=\"1\">Saint-Rambert ponte de Andrézieux a jusante de Saint-Rambert (St 9 000)> ID=\"2\">Loire\"> ID=\"1\">Roanne ponte de Villecrest a montante do Roanne (St 13 000)> ID=\"2\">Loire\"> ID=\"1\">Orléans a jusante de Orleans (St 51 000)> ID=\"2\">Loire\"> ID=\"1\">Nantes a montante de Nantes (St 137 000)> ID=\"2\">Loire\"> ID=\"1\">Toulouse a jusante de Toulouse (St 161 000)> ID=\"2\">Garona\"> ID=\"1\">Lamagistère depois da confluência com o Aveyron (St 117 000)> ID=\"2\">Garona\"> ID=\"1\">Couthures próximo de Couthures a jusante da confluência com o Avance (St 81 000)> ID=\"2\">Garona\"> ID=\"1\">Auxonne na ponte de França (St 11 000)> ID=\"2\">Saôna\"> ID=\"1\">Mulatière antes da confluència com o Rhone (St 59 000)> ID=\"2\">Saôna\"> ID=\"1\">Pont-Carnot a jusante do lago Leman a montante da barragem de Genissiat (St 67 000)> ID=\"2\">Ródano\"> ID=\"1\">Lyon a jusante da confluência com o Saône na ponte Poincaré (St 98 000)> ID=\"2\">Ródano\"> ID=\"1\">Saint-Vallier antes da confluência com o Isère (St 104 000)> ID=\"2\">Ródano\">\n\nIRLANDA\n\n\"\" ID=\"1\">Slane Bridge aproximadamente 12 km a jusante de Navan (N 96 74)> ID=\"2\">Boyne\"> ID=\"1\">Corofin Bridge aproximadamente 19 km a jusante de Tuam (M 42 43)> ID=\"2\">Clare\"> ID=\"1\">Graiguenamanagh Bridge aproximadamente 29 km a jusante de Muine Bheag (Bagenalstown) (S 71 44)> ID=\"2\">Barrow\"> ID=\"1\">Killavullen Bridge aproximadamente 13 km a jusante de Mallow (W 65 99)> ID=\"2\">Blackwater (Munster)\">\n\nITÁLIA\n\n\"\" ID=\"1\">Ponte d'Adige 308 km antes da foz> ID=\"2\">Adige\"> ID=\"1\">Trento 253 km antes da foz> ID=\"2\">Adige\"> ID=\"1\">Badia Polesine 66 km antes da foz> ID=\"2\">Adige\"> ID=\"1\">Meirano 591 km antes da foz> ID=\"2\">Pô\"> ID=\"1\">Cremona 281 km antes da foz> ID=\"2\">Pô\"> ID=\"1\">Boretto 216 km antes da foz> ID=\"2\">Pô\"> ID=\"1\">Borgo Forte 184 km antes da foz> ID=\"2\">Pô\"> ID=\"1\">Pontelagoscuro 91 km antes da foz> ID=\"2\">Pô\"> ID=\"1\">Ponte degli Albergi 38 km antes da foz> ID=\"2\">Metauro\"> ID=\"1\">Subbiano 178 km antes da foz> ID=\"2\">Arno\"> ID=\"1\">Nave di Rosano 120 km antes da foz> ID=\"2\">Arno\"> ID=\"1\">Capraia 70 km antes da foz> ID=\"2\">Arno\"> ID=\"1\">San Giovanni alla Vena 37 km antes da foz> ID=\"2\">Arno\"> ID=\"1\">Ponte Felcino 300 km antes da foz> ID=\"2\">Tibre\"> ID=\"1\">Ponte Nuovo 273 km antes da foz> ID=\"2\">Tibre\"> ID=\"1\">Roma 43 km antes da foz> ID=\"2\">Tibre\">\n\nGRAAO DUCADO DO LUXEMBURGO\n\n\"\" ID=\"1\">Wasserbillig antes da confluência com o Mosela> ID=\"2\">Sûre\">\n\nPAÍSES BAIXOS\n\n\"\" ID=\"1\">Lobith à entrada nos Países Baixos> ID=\"2\">Reno Superior\"> ID=\"1\">Kampen 133 km depois da entrada do Reno nos Países Baixos> ID=\"2\">Ijssel\"> ID=\"1\">Gorinchem 93,5 km depois da entrada do Reno nos Países Baixos> ID=\"2\">Merwede Superior\"> ID=\"1\">Vreeswijk 89 km depois da entrada do Reno nos Países Baixos> ID=\"2\">Lek\"> ID=\"1\">OM 42 Puttersho 120 km depois da entrada do Reno nos Países Baixos> ID=\"2\">Oude Maas\"> ID=\"1\">NM 34 Ao pé da ilha de Brienenoord, 134 km depois da entrada do Reno nos Países Baixos> ID=\"2\">Nieuwe Maas\">\n\nPAÍSES BAIXOS\n\n\"\" ID=\"1\">Eijsden 4,5 km depois da entrada do Mosa nos Países Baixos> ID=\"2\">Mosa\"> ID=\"1\">Lith 201 km depois da entrada do Mosa nos Países Baixos> ID=\"2\">Mosa\"> ID=\"1\">Keizersveer 248 km depois da entrada do Mosa nos Países Baixos> ID=\"2\">Bergse Maas\"> ID=\"1\">H 9 Haringvlietbrug (ponte de Haringvliet)> ID=\"2\">Haringvliet\"> ID=\"1\">H 12 perto do Haringvlietdam> ID=\"2\">Haringvliet\"> ID=\"1\">IJ 17 na foz do Ketelbbrug, 143 km depois da entrada do Reno nos Países Baixos> ID=\"2\">Ketelmeer\"> ID=\"1\">IJ 23 no centro do lago Ijssel> ID=\"2\">lago Ijssel\">\n\nREINO UNIDO\n\n\"\" ID=\"1\">Chollerford 6 km a montante do confluente (NY 919 706)> ID=\"2\">N Tyne\"> ID=\"1\">Warden Bridge 800 m a montante do confluente (NY 910 660)> ID=\"2\">S Tyne\"> ID=\"1\">Wylam Bridge imediatamente a montante do limite das marés (NZ 119 645)> ID=\"2\">Tyne\"> ID=\"1\">Derwenthaugh 1,3 km a montante do limite das marés (NZ 187 607)> ID=\"2\">Derwent\"> ID=\"1\">Whitford Bridge 3 km a montante do limite das marés (SY 262 953)> ID=\"2\">Axe\"> ID=\"1\">Tregony Gauging Station 6 km a montante do limite das marés (SW 921 445)> ID=\"2\">Fal\"> ID=\"1\">Devoran Bridge imediatamente a montante do limite das marés (SW 791 394)> ID=\"2\">Carnon\"> ID=\"1\">Forge Weir Halton 1,5 km a montante do limite das marés (SD 514 648)> ID=\"2\">Lune\"> ID=\"1\">St Michael's Weir imediatamente a montante do limite das marés (SD 462 411)> ID=\"2\">Wyre\"> ID=\"1\">Samlesbury 1,5 km a montante do limite das marés (SD 589 304)> ID=\"2\">Ribble\"> ID=\"1\">Teddington Weir (TQ 171 714)> ID=\"2\">Tamisa\"> ID=\"1\">Chetwynd (SK 187 138)> ID=\"2\">Tame\"> ID=\"1\">Nottingham (SK 581 383)> ID=\"2\">Trent\"> ID=\"1\">Yoxall (SK 131 177)> ID=\"2\">Trent\"> ID=\"1\">Fochabers 4 km a montante do limite das marés (NG 341 596)> ID=\"2\">Spey\"> ID=\"1\">Craigiehall 3 km a montante do limite das marés (NT 165 752)> ID=\"2\">Almond\"> ID=\"1\">Renton Footbridge imediatamente a montante do limite das marés (NS 389 783)> ID=\"2\">Leven\">"
+  },
+  "c03fe5763c7fab51": {
+   "fragment_id": "ANEXO II — PARÂMETROS QUE SÃO OBJECTO DA TROCA DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO II — PARÂMETROS QUE SÃO OBJECTO DA TROCA DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PARÂMETROS QUE SÃO OBJECTO DA TROCA DE INFORMAÇÕES\n\nModo de expressão e algarismos significativos para os dados relativos aos parâmetros\n\n\"\" ID=\"1\" ASSV=\"4\">Físicos> ID=\"2\">caudal (1) no momento da colheita> ID=\"3\">m3/sec> ID=\"4\">X X X X> ID=\"5\">X X\"> ID=\"2\">temperatura> ID=\"3\">C> ID=\"4\">X X> ID=\"5\">X\"> ID=\"2\">pH> ID=\"3\">pH> ID=\"4\">X X> ID=\"5\">X\"> ID=\"2\">condutividade a 20 ° C> ID=\"3\">µS cm-1> ID=\"4\">(< 100) X X\n\n(& ge; 100) X X X> ID=\"5\"\"\" ID=\"1\" ASSV=\"10\">Químicos> ID=\"2\">cloretos> ID=\"3\">mg/l Cl> ID=\"4\">(< 100) X X\n\n(& ge; 100) X X X> ID=\"5\"\"\" ID=\"2\">nitratos> ID=\"3\">mg/l NO3> ID=\"4\">X X X> ID=\"5\">X X\"> ID=\"2\">amónio> ID=\"3\">mg/l NH4> ID=\"4\">X X X> ID=\"5\">X X\"> ID=\"2\">oxigénio dissolvido> ID=\"3\">mg/l O2> ID=\"4\">X X> ID=\"5\">X\"> ID=\"2\">OBQ5> ID=\"3\">mg/l O2> ID=\"4\">X X X> ID=\"5\">X\"> ID=\"2\">OQ> ID=\"3\">mg/l O2> ID=\"4\">X X X> ID=\"5\">X\"> ID=\"2\">fósforo total> ID=\"3\">mg/l P> ID=\"4\">X X> ID=\"5\">X X\"> ID=\"2\">substâncias tensio-activas que reagem com azul demetileno> ID=\"3\">equivalente em mg/l de sulfato de laurilo Na> ID=\"4\">X X> ID=\"5\">X X\"> ID=\"2\">cádmio total> ID=\"3\">mg/l Cd> ID=\"4\">X> ID=\"5\">X X X\"> ID=\"2\">mercúrio> ID=\"3\">mg/l Hg> ID=\"4\">X> ID=\"5\">X X X\"> ID=\"1\" ASSV=\"4\">Microbiológicos> ID=\"2\">coliformes fecais> ID=\"3\">/ 100 ml> ID=\"4\">X X X X X X> ID=\"5\"\"\" ID=\"2\">coliformes totais (2)> ID=\"3\">/ 100 ml> ID=\"4\">X X X X X X> ID=\"5\"\"\" ID=\"2\">estreprococos fecais> ID=\"3\">/ 100 ml> ID=\"4\">X X X X X X> ID=\"5\"\"\" ID=\"2\">salmonelas> ID=\"3\">/ 1 l> ID=\"4\">X> ID=\"5\"\"\"\"\n\n(1) A data da amostragem deve estar indicada.\n\n(2) Os dados deste parâmetro serão objecto de troca de informações desde que este seja medido."
+  },
+  "d69e7a844dff3efc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977D0795 — PT — 22.12.2007 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977D0795) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31977D0795) [de 12 de Dezembro de 1977](http://publications.europa.eu/resource/celex/31977D0795) [que institui um procedimento comum de troca de informações relativas às àguas (SIC! àguas) doces superficiais na Comunidade](http://publications.europa.eu/resource/celex/31977D0795) [(77/795/CEE)](http://publications.europa.eu/resource/celex/31977D0795) (JO L 334, 24.12.1977, p.29)\n\n**revogado por:**\n\n- [DIRECTIVA 2000/60/CE do Parlamento Europeu e do Conselho de 23 de Outubro de 2000](http://publications.europa.eu/resource/celex/32000L0060) — L 327 — 1 — 22.12.2000"
+  }
+ }
+}

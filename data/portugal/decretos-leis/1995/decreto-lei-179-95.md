@@ -1,0 +1,307 @@
+---
+schema_version: '1.0'
+id: pt:dre:484986:por
+title: Decreto-Lei n.º 179/95
+short_title: null
+summary: Estabelece as normas para execução do Programa de Erradicação e Vigilância da Peste Suína Africana aprovado pela
+  Decisão 94/880/CE, de 21 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 179/95
+official_date: null
+publication_date: '1995-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/1995, Série I-A de 1995-07-26
+  number: '171'
+  series: I
+  supplement: null
+  pages: 4751 - 4753
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/07/171a00/47514753.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/179/1995/07/26/p/dre/pt/html
+  oj: null
+  dre: '484986'
+  dre_path: /dr/detalhe/decreto-lei/179-1995-484986
+  internal: pt:dre:484986:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1995-484986
+  metadata_url: https://data.dre.pt/eli/dec-lei/179/1995/07/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1995-484986
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a67334d52a5ddceefc86558ca3b951762e1595b52608660dbf832955999b324
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Comissão Consultiva
+- Contra-ordenação
+- Controlo Sanitário
+- Decisão CE
+- Definição de Competências
+- Direcção Regional de Agricultura
+- Doença Animal
+- Ifadap
+- Instituto de Protecção da Produção Agro-Alimentar
+- Legislação Veterinária
+- Multa
+- Política Agrícola Comum
+- Responsabilidade Financeira
+- Saúde Animal
+- Suinicultura
+relationships:
+- type: amended_by
+  target: pt:dre:487075:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31990D0424
+  label: null
+  source: http://data.europa.eu/eli/dec/1990/424/oj
+- type: cites
+  target: celex:31990D0638
+  label: null
+  source: http://data.europa.eu/eli/dec/1990/638/oj
+- type: cites
+  target: celex:31992L0065
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/65/oj
+- type: cites
+  target: celex:31993D0035
+  label: null
+  source: http://data.europa.eu/eli/dec/1993/35/oj
+- type: cites
+  target: celex:31993D0531
+  label: null
+  source: http://data.europa.eu/eli/dec/1993/531/oj
+- type: cites
+  target: celex:31993D0602
+  label: null
+  source: http://data.europa.eu/eli/dec/1993/602/oj
+- type: cites
+  target: celex:31994D0122
+  label: null
+  source: http://data.europa.eu/eli/dec/1994/122/oj
+- type: cites
+  target: celex:31994D0880
+  label: null
+  source: http://data.europa.eu/eli/dec/1994/880/oj
+- type: repealed_by
+  target: pt:dre:487075:por
+  label: "Revogado pelo DEC LEI.180/98.1998.07.03.MADRP, DR.IS-A [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1998-487075
+  date: '1998-07-03'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:38:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 179/95
+
+de 26 de Julho
+
+Portugal, considerado com o estatuto de país indemne de peste suína africana em Março de 1993, foi destinatário de certas medidas de protecção respeitantes a esta epizootia contidas na Decisão n.º [93/531/CE](https://data.europa.eu/eli/dec/1993/531/oj?locale=pt), da Comissão, de 15 de Outubro, em consequência de vários focos declarados em Agosto de 1993.
+
+Posteriormente, face à concentração geográfica dos focos e à evolução favorável do seu controlo, a zona de protecção que inicialmente abrangia 11 municípios, conforme o disposto no anexo I da Decisão n.º [93/602/CE](https://data.europa.eu/eli/dec/1993/602/oj?locale=pt), da Comissão, de 19 de Novembro, com a redacção que lhe foi dada pelas Decisões n.os [93/35/CE](https://data.europa.eu/eli/dec/1993/35/oj?locale=pt) e [94/122/CE](https://data.europa.eu/eli/dec/1994/122/oj?locale=pt), da Comissão, de 25 de Janeiro e 28 de Fevereiro, respectivamente, foi reduzida a uma zona que inclui quatro municípios, os quais, dada a sua peculiar situação geográfica necessitam de vigilância particularmente estrita, sem prejuízo da vigilância de carácter geral exercida em todo o território nacional.
+
+Na sequência da Decisão n.º [94/880/CE](https://data.europa.eu/eli/dec/1994/880/oj?locale=pt), da Comissão, de 21 de Dezembro, que revogou a Decisão n.º [93/602/CE](https://data.europa.eu/eli/dec/1993/602/oj?locale=pt), da Comissão, de 19 de Novembro, Portugal readquiriu o estatuto de país indemne de peste suína africana.
+
+O programa apresentado por Portugal para a erradicação e vigilância da peste suína africana, no âmbito da Decisão n.º [90/424/CEE](https://data.europa.eu/eli/dec/1990/424/oj?locale=pt), do Conselho, de 26 de Junho, que prevê a possibilidade de uma acção financeira comunitária, está em conformidade com os critérios técnicos comunitários para a erradicação desta doença e, nomeadamente, os referidos na Decisão n.º [90/638/CEE](https://data.europa.eu/eli/dec/1990/638/oj?locale=pt), do Conselho, de 27 de Novembro, com a redacção dada pela Directiva n.º [92/65/CEE](https://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho, de 13 de Julho.
+
+Tendo em consideração o artigo 2.º da Decisão n.º [94/880/CE](https://data.europa.eu/eli/dec/1994/880/oj?locale=pt), da Comissão, de 21 de Dezembro, que aprovou o Programa;
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º - 1 - A aplicação e execução do Programa de Erradicação e Vigilância da Peste Suína Africana (PEVPSA) compete:
+
+a) Ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA);
+
+b) Às direcções regionais de agricultura (DRA);
+
+c) Ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
+
+2 - O PEVPSA tem um coordenador nacional e gestores regionais, designados por despacho do Ministro da Agricultura, sob proposta do conselho directivo do IPPAA, mediante prévia consulta às direcções regionais de agricultura.
+
+3 - É criada uma comissão consultiva do PEVPSA, constituída pelo director do Centro Nacional de Protecção e Controlo Zoo-Sanitário do IPPAA, que preside, pelo director de Serviços de Saúde Animal do IPPAA, pelo director do Laboratório Nacional de Veterinária e pelo director regional de Agricultura do Alentejo, tendo como função prestar o apoio necessário ao coordenador nacional e proceder à avaliação periódica do Programa.
+
+4 - Para a prossecução dos objectivos previstos no número anterior, podem ainda ser convidadas a participar outras entidades ou personalidades, nomeadamente as ligadas à produção, comercialização e indústria de suínos.
+
+Art. 2.º Para efeitos do disposto no artigo anterior, compete ao IPPAA:
+
+a) Assegurar a direcção, a coordenação e o controlo das acções a desenvolver para a execução do presente diploma e respectivas disposições regulamentares;
+
+b) Promover a execução e o controlo da aplicação das medidas consagradas no presente diploma e respectivas disposições regulamentares;
+
+c) Promover e assegurar, em colaboração com as direcções regionais de agricultura, nas suas áreas respectivas, a elaboração do PEVPSA específico, bem como o necessário apoio técnico aos serviços envolvidos;
+
+d) Elaborar relatórios gerais sobre o resultado dos testes sorológicos efectuados e sua evolução, bem como sobre os focos verificados;
+
+e) Coordenar o controlo da epizootia e as medidas de erradicação e vigilância;
+
+f) Preparar e apresentar trimestralmente à Comissão Europeia o relatório sobre a execução técnica e financeira do Programa;
+
+g) Preparar e enviar à Comissão Europeia, até 1 de Junho de 1996, o relatório final da execução técnica e financeira do Programa acompanhado dos documentos justificativos referentes às despesas suportadas;
+
+h) Enviar ao IFADAP, no prazo máximo de 15 dias após o auto de occisão, a relação dos suinicultores com direito a indemnização nos termos da legislação em vigor.
+
+Art. 3.º Para efeitos do disposto na alínea b) do n.º 1 do artigo 1.º, compete às direcções regionais de agricultura:
+
+a) Executar, ao nível da sua respectiva área, as orientações do IPPAA e fiscalizar o cumprimento das medidas referentes ao Programa;
+
+b) Elaborar os relatórios sobre o resultado dos testes sorológicos efectuados e sua evolução, bem como dos focos verificados na sua área de competência;
+
+c) Preparar e enviar mensalmente ao IPPAA o relatório sobre a execução técnica e financeira do Programa na sua área de competência.
+
+Art. 4.º A responsabilidade financeira relativa ao Programa cabe ao IFADAP, que, para efeitos do disposto na alínea c) do n.º 1 do artigo 1.º, tem as seguintes competências:
+
+a) Centralizar, enquanto interlocutor do Fundo Europeu de Orientação e Garantia Agrícola - Secção Orientação, a documentação necessária à obtenção do reembolso das despesas efectuadas ao abrigo do referido Programa;
+
+b) Conceder adiantamentos de verbas para a execução de projectos de reestruturação das explorações localizadas na área dos municípios de Moura, Barrancos, Serpa e Mértola, nas condições a determinar por portaria do Ministro da Agricultura;
+
+c) Efectuar o pagamento das despesas decorrentes do Programa devidamente justificadas;
+
+d) Proceder a acções de fiscalização da execução dos movimentos e da aplicação das ajudas, devendo comunicar de imediato ao IPPAA qualquer incumprimento verificado;
+
+e) Prestar todas as informações que, no âmbito da sua competência e do presente Programa, lhe forem solicitadas pelo IPPAA;
+
+f) Proceder, nos prazos e de acordo com as condições previstas na lei, ao pagamento das indemnizações por abates sanitários de suínos.
+
+Art. 5.º - 1 - Compete ao coordenador nacional:
+
+a) Coordenar a elaboração e submeter à aprovação do IPPAA o programa anual, bem como o respectivo orçamento;
+
+b) Enviar ao IFADAP o orçamento atribuído a cada componente regional do Programa, bem como proceder a acertos decorrentes do desenvolvimento do mesmo;
+
+c) Promover e acompanhar a execução do Programa de Erradicação e Vigilância, bem como coordenar a elaboração do relatório anual de execução técnica.
+
+2 - Compete ao gestor regional:
+
+a) Analisar e aprovar os projectos de investimento no âmbito do Programa;
+
+b) Exercer directamente a competência prevista nas alíneas b) e e) do artigo 4.º em relação às acções que estiveram a seu cargo;
+
+c) Propor a celebração de contratos entre a direcção regional de agricultura e entidades singulares ou colectivas dos sectores empresarial do Estado, privado ou cooperativo, para execução das medidas previstas no Programa;
+
+d) Garantir, através da respectiva direcção regional de agricultura ou propondo a celebração de contratos com outras entidades, o acompanhamento e controlo de execução das medidas previstas no Programa, bem como o cumprimento dos contratos referidos na alínea anterior;
+
+e) Comunicar ao IFADAP qualquer situação de incumprimento verificada;
+
+f) Enviar ao coordenador nacional relatórios mensais de execução técnica e financeira;
+
+g) Certificar, perante o IFADAP, que o pagamento das despesas previstas no Programa se encontra em condições de ser efectuado, atestando, quando for caso disso, que verbas anteriormente avançadas foram correctamente aplicadas;
+
+h) Enviar ao IFADAP, para efeitos do respectivo pagamento, a relação devidamente detalhada e discriminada das despesas efectuadas e previstas no Programa;
+
+i) Comunicar ao coordenador nacional e ao IFADAP as medidas, acções e investimentos no âmbito do Programa que tenham sido concluídos, prestar-lhes as informações e enviar-lhes os documentos comprovativos da eventual aplicação de fundos que lhe forem solicitados.
+
+Art. 6.º - 1 - Compete ao IFADAP movimentar as verbas que anualmente forem afectas ao PEVPSA no Programa de Investimentos e Despesas e Desenvolvimento da Administração Central (PIDDAC), adicionadas dos reembolsos ou suas antecipações.
+
+2 - O IFADAP deve dar conhecimento, ao respectivo gestor regional, dos pagamentos efectuados directamente aos destinatários.
+
+Art. 7.º - 1 - Em caso de incumprimento, e sem prejuízo do previsto no artigo 9.º, o gestor regional do Programa notificará o beneficiário para, no prazo de 15 dias, restituir os montantes já recebidos acrescidos de juros de mora à taxa legal, contados da data em que tais importâncias foram colocadas à sua disposição.
+
+2 - Se a restituição não for feita no prazo indicado, passarão a incidir sobre as importâncias em dívida juros moratórios à taxa legalmente estabelecida, contados desde o início do referido prazo até ao efectivo reembolso.
+
+Art. 8.º - 1 - Constituem contra-ordenações:
+
+a) O incumprimento da obrigação de notificação da autoridade sanitária veterinária nacional (IPPAA) ou das autoridades sanitárias veterinárias regionais (DRA);
+
+b) A inobservância das medidas determinadas pela autoridade sanitária veterinária após a notificação da suspeita ou da confirmação oficial da existência de peste suína africana no local da sua verificação;
+
+c) O incumprimento das normas relativas ao abate, tratamento e destruição dos porcos, dos alimentos e dos objectos susceptíveis de estarem contaminados, bem como das relativas às desinfecções determinadas pela autoridade competente;
+
+d) O incumprimento das restrições impostas ao transporte a partir da exploração infectada ou com destino a ela, ao sequestro ou ao isolamento;
+
+e) O incumprimento das normas relativas ao transporte e à identificação de suínos provenientes da zona de monitoragem;
+
+f) O incumprimento das regras previstas para a reintrodução de porcos na exploração;
+
+g) A não apresentação das declarações de existências;
+
+h) A oposição ou a criação de impedimentos à realização de controlos ou inspecções.
+
+2 - As contra-ordenações previstas no número anterior são puníveis com coima cujo montante mínimo é de 10000$00 e máximo de 500000$00.
+
+3 - As coimas aplicadas às pessoas colectivas podem elevar-se até ao montante máximo de 6000000$00, em caso de dolo, e de 3000000$00, em caso de negligência.
+
+4 - A tentativa e a negligência são puníveis.
+
+Art. 9.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na lei.
+
+2 - Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares para o seu normal funcionamento.
+
+Art. 10.º - 1 - A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da área em que foi cometida a infracção, à qual serão enviados os autos de notícia levantados por outras entidades.
+
+2 - Finda a instrução, os processos são remetidos ao conselho directivo do IPPAA para decisão.
+
+3 - A competência para aplicação das coimas e sanções acessórias previstas nos artigos anteriores pertence ao conselho directivo do IPPAA.
+
+Art. 11.º - A afectação do produto das coimas cobradas em aplicação do presente diploma far-se-á da seguinte forma:
+
+a) Em 20% para a entidade que aplicou a coima (IPPAA);
+
+b) Em 10% para a entidade que levantou o auto;
+
+c) Em 10% para a entidade que instruiu o processo (DRA);
+
+d) Em 60% para o Estado.
+
+Art. 12.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+
+Art. 13.º É revogado o Decreto-Lei n.º 250/88, de 16 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - António Duarte Silva.
+
+Promulgado em 6 de Julho de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Julho de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

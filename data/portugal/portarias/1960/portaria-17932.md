@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:514641:por
+title: Portaria n.º 17932
+short_title: null
+summary: Abre um crédito destinado a reforçar a verba do n.º 1) do artigo 115.º, capítulo 4.º, da tabela de despesa ordinária
+  do orçamento geral da província ultramarina de Macau
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda - 1.ª Repartição
+proposing_entity: null
+official_number: '17932'
+official_date: null
+publication_date: '1960-09-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 207/1960, Série I de 1960-09-06
+  number: '207'
+  series: I
+  supplement: null
+  pages: 1937 - 1938
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/09/20700/19371938.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '514641'
+  dre_path: /dr/detalhe/portaria/17932-1960-514641
+  internal: pt:dre:514641:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17932-1960-514641
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17932-1960-514641
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:48:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c39e546df75bc4261ae04e3d3893b6e3ff1abf20b8edfcb031e542dcc0b49483
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:48:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17932
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, abrir em Macau um crédito especial de 66709$23 destinado a reforçar a verba do capítulo 4.º, artigo 115.º, n.º 1) «Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da tabela de despesa ordinária do orçamento geral da província para o corrente ano, tomando como contrapartida as disponibilidades que se discriminam da mesma tabela de despesa:
+
+### CAPÍTULO 2.º — Repartição do Gabinete
+
+Despesas com o pessoal:
+
+Artigo 12.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 12899$92
+
+### CAPÍTULO 4.º — Serviços de Administração Civil
+
+Despesas com o pessoal:
+
+Artigo 35.º «Remunerações certas ao pessoal em exercício»:
+
+N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 5722$53
+
+N.º 3) «Pessoal assalariado - Salários» ... 8316$00
+
+Artigo 36.º «Remunerações acidentais»:
+
+N.º 1) «Horas extraordinárias e serviços especiais» ... 18$26
+
+N.º 2) «Gratificações especiais anuais» ... 5280$00
+
+Liceu Nacional Infante D. Henrique
+
+Artigo 56.º, n.º 2) «Remunerações acidentais - Gratificações especiais anuais» ... 1339$47
+
+Imprensa Nacional
+
+Artigo 88.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado - Salários» ... 75$19
+
+Serviços de saúde e higiene
+
+Artigo 97.º «Remunerações certas ao pessoal em exercício»:
+
+N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 6113$41
+
+N.º 3) «Pessoal assalariado - Salários» ... 7292$84
+
+Artigo 98.º, n.º 2) «Remunerações acidentais - Gratificações especiais anuais» ... 10972$61
+
+### CAPÍTULO 7.º — Serviços de economia e estatística geral
+
+Despesas com o pessoal:
+
+Artigo 155.º «Remunerações certas ao pessoal em exercício»:
+
+N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 7145$71
+
+N.º 2) «Pessoal contratado - Vencimento contratual» ... 1521$85
+
+N.º 3) «Pessoal assalariado - Salários» ... 11$44
+
+... 66709$23
+
+Ministério do Ultramar, 6 de Setembro de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Macau. - A. Moreira.

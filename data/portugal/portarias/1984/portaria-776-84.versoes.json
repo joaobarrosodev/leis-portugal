@@ -1,0 +1,204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399864:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889622646",
+ "dre_path": "/dr/detalhe/portaria/776-1984-399864",
+ "source_lastmod": "2024-10-01",
+ "versions": [
+  {
+   "date": "1984-10-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889498772"
+   ]
+  },
+  {
+   "date": "1984-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220488:por",
+     "title": "Declaração",
+     "published": "1984-12-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-220488"
+    }
+   ],
+   "changes": [
+    "Retifica 4.º",
+    "Retifica 6.º"
+   ],
+   "fragments": [
+    "889498772",
+    "889623689",
+    "889623688",
+    "889623687",
+    "889623703",
+    "889623685",
+    "889623704",
+    "889623683",
+    "889623682",
+    "889623681",
+    "889623680",
+    "889623679",
+    "889623678",
+    "889623677",
+    "889623676",
+    "889623675",
+    "889498773",
+    "889498774"
+   ]
+  }
+ ],
+ "fragments": {
+  "889498772": {
+   "fragment_id": "889622647",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 776/84\n\nde 3 de Outubro\n\nNos últimos anos tem-se verificado um acentuado desenvolvimento sócio-económico global, em especial nos centros populacionais mais significativos do litoral e em alguns pólos do interior. Por outro lado, acresce o facto natural de as unidades espaciais mais relevantes se desenvolverem com maior intensidade e complexidade do que outras cujo desenvolvimento tem sido impedido quer por factores de ordem geográfico, quer de ordem estrutural.\n\nEste fenómeno evolutivo manifesta-se nas suas diversas facetas e, em primeiro plano, na área dos serviços fiscais, não só no campo das receitas como no do volume de serviço, pelo que há que preparar, atempadamente, as estruturas funcionais necessárias e adequadas à defesa dos interesses dos contribuintes e da Fazenda Nacional.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, nos termos dos artigos 12.º e 17.º do Decreto-Lei n.º 363/78, de 28 de Novembro, o seguinte:\n\n> Nota: [1.º, Portaria n.º 973/90 - Diário da República n.º 235/1990, Série I de 1990-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/973-1990-556023) São revogadas as disposições da presente Portaria, em tudo o que diga respeito aos desdobramentos das Repartições de Finanças dos Concelhos de Águeda, Ílhavo, Beja, Barcelos, Évora, Faro, Lagos, Olhão, Portimão, Guarda, Alcobaça, Caldas da Rainha, Paredes, Póvoa de Varzim, Vila do Conde, Santarém, Tomar, Moita, Palmela, Viana do Castelo, Chaves, Vila Real e Ponta Delgada, salvo no tocante a pessoal."
+  },
+  "889623689": {
+   "fragment_id": "889622665",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\n1 - O concelho de Abrantes é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área, das seguintes freguesias:\n\n1.ª Repartição - Aldeia do Mato, Alferrarede, Martinchel, Mouriscas, Rio de Moinhos, São João, São Vicente e Souto;\n\n2.ª Repartição - Alvega, Bemposta, Pego, Rossio ao sul do Tejo, São Facundo, São Miguel do Rio Torto e Tramagal."
+  },
+  "889623688": {
+   "fragment_id": "889622664",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\n1 - O concelho de Beja é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Albernoa, Beringel, Mombeja, Santa Clara do Louredo, Santa Maria da Feira, Santa Vitória, Santiago Maior, São Brissos, São Matias e Trindade;\n\n2.ª Repartição - Baleizão, Cabeça Gorda, Nossa Senhora das Neves, Quintos, Salvada, Salvador e São João Baptista."
+  },
+  "889623687": {
+   "fragment_id": "889622663",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\n1 - O concelho das Caldas da Rainha é dividido 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - A dos Francos, Alvorninha, Caldas da Rainha, Carvalhal Benfeito, Landal, Santa Catarina, São Gregório da Fanadia e Vidais;\n\n2.º Repartição - Coto, Foz do Arelho, Nadadouro, Salir de Matos, Salir do Porto, Santo Onofre, Serra do Bouro e Tornada."
+  },
+  "889623703": {
+   "fragment_id": "889622662",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "1984-12-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220488), em vigor a partir de 1984-12-31"
+   ],
+   "markdown": "###### 4.º\n\n1 - O concelho de Chaves é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Anelhe, Bustelo, Calvão, Curalha, Ervededo, Outeiro Seco, Redondelo, Sanjurge, Santa Maria Maior, Seara Velho, Soutelinho da Raia, Soutelo, Vale de Anta, Vilarelho da Raia e Vilela Seca;\n\n2.ª Repartição - Águas Frias, Arcossó, Bobadela, Cela, Cimo de Vila de Castanheira, Eiras, Faiões, Lama de Arcos, Loivos, Madalena, Mairos, Moreiras, Nogueira da Montanha, Oucidres, Oura, Paradela, Póvoa de Agrações, Roriz, Samaiões, Sanfins, Santa Leocádia, Santo António de Monforte, Santo Estêvão, São Julião de Montenegro, São Pedro de Agostém, São Vicente, Selhariz, Travancas, Tronco, Vidago, Vilar de Nantes, Vila Verde da Raia, Vilarinho das Paranheiras, Vilas Boas e Vilela do Tâmega.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220488), em vigor a partir de 1984-12-31"
+  },
+  "889623685": {
+   "fragment_id": "889622661",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\n1 - O concelho da Guarda é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Adão, Albardo, Aldeia do Bispo, Arrifana, Benespera, Carvalhal Meão, Casal de Cinza, Castanheira, Gagos, Gonçalo, Gonçalo Bocas, João Antão, Marmeleiro, Monte Margarida, Panoias de Cima, Pega, Pousada, Ramela, Ribeira dos Carinhos, Rochoso, Santana da Azinha, Jarmelo (São Miguel), Jarmelo (São Pedro), Sé, Vela, Vila Fernando e Vila Garcia;\n\n2.ª Repartição - Aldeia Viçosa, Alvendre, Avelãs de Ambom, Avelãs da Ribeira, Cavadoude, Codesseiro, Corujeira, Faia, Famalição, Fernão Joanes Maçainhas de Baixo, Meios, Mizarela, Péra do Moço, Pêro Soares, Porto da Carne, Rocamondo, São Vicente, Seixo Amarelo, Sobral da Serra, Trinta, Vale de Estrela, Valhelhas, Videmonte, Vila Cortês do Mondego, Vila Franca do Deão e Vila Soeiro."
+  },
+  "889623704": {
+   "fragment_id": "889622660",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "1984-12-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220488), em vigor a partir de 1984-12-31"
+   ],
+   "markdown": "###### 6.º\n\n1 - O concelho de Lagos é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n2.ª Repartição - Barão de São João, Luz e Santa Maria;\n\n1.ª Repartição - Bensafrim, Odiáxere e São Sebastião.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220488), em vigor a partir de 1984-12-31"
+  },
+  "889623683": {
+   "fragment_id": "889622659",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\n1 - O concelho de Olhão é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Olhão e Pechão;\n\n2.ª Repartição - Fuseta, Moncarapacho e Quelfes."
+  },
+  "889623682": {
+   "fragment_id": "889622658",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\n1 - O concelho da Póvoa de Varzim é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Argival e Póvoa de Varzim;\n\n2.ª Repartição - A Ver-o-Mar, Aguçadoura, Amorim, Balazar, Beiriz, Estela, Laundos, Navais, Rates e Terroso."
+  },
+  "889623681": {
+   "fragment_id": "889622657",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\n1 - O concelho de Santo Tirso é dividido em 3 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Agrela, Água Longa, Areias, Burgães, Carreira, Couto (Santa Cristina), Couto (São Miguel), Guimarei, Lama, Lamelas, Monte Córdova, Palmeira, Rebordões, Refojos de Riba de Ave, Reguenga, Santo Tirso e Sequeiró;\n\n2.ª Repartição - Alvarelhos, Bougado (Santiago), Bougado (São Martinho), Coronado (São Mamede), Coronado (São Romão), Covelas, Guidões e Muro;\n\n3.ª Repartição - Aves, Campo (São Martinho), Campo (São Salvador), Negrelos (São Mamede), Negrelos (São Tomé), Roriz e Vilarinho."
+  },
+  "889623680": {
+   "fragment_id": "889622656",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\n1 - O concelho de Tomar é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Asseisseira, Beselga, Carregueiros, Madalena, Paialvo, Pedreira, Sabacheira e São João Baptista;\n\n2.ª Repartição - Alviobeira, Casais, Junceira, Olalhas, Santa Maria dos Olivais, São Pedro de Tomar e Serra."
+  },
+  "889623679": {
+   "fragment_id": "889622655",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\n1 - O concelho de Vila Real é dividido em 2 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Adoufe, Borbela, Campeã, Lamas de Olo, Lordelo, Mondrões, Nossa Senhora da Conceição, Parada de Cunhos, Pena, Quintã, São Dinis, Torgueda, Vila Cova, Vila Marim e Vilarinho de Samardã.\n\n2.ª Repartição - Abaças, Andrães, Arroios, Constantim, Ermida, Folhadela, Guiães, Justes, Lamares, Mateus, Mouçós, Nogueira, São Pedro, São Tomé do Castelo e Vale de Nogueiras."
+  },
+  "889623678": {
+   "fragment_id": "889622654",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nAs repartições de finanças criadas têm competência plena para praticar todas as realidades fiscais na sua área."
+  },
+  "889623677": {
+   "fragment_id": "889622652",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nTodas as repartições de finanças criadas por desdobramento são consideradas de 1.ª classe."
+  },
+  "889623676": {
+   "fragment_id": "889622651",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º\n\nA entrada em funcionamento das novas repartições, por desdobramento das existentes, será estabelecida por despacho do Ministro das Finanças e do Plano, mediante proposta da Direcção-Geral das Contribuições e Impostos, ouvida a Direcção-Geral do Tesouro."
+  },
+  "889623675": {
+   "fragment_id": "889622650",
+   "type": 11,
+   "heading": "15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º\n\nO quadro de pessoal das repartições referidas nos números anteriores é alterado de acordo com o mapa anexo ao presente diploma.\n\nMinistério das Finanças e do Plano."
+  },
+  "889498773": {
+   "fragment_id": "889622648",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 12 de Setembro de 1984.\n\nPelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento."
+  },
+  "889498774": {
+   "fragment_id": "889622649",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nQuadro de pessoal\n\n(ver documento original)"
+  }
+ }
+}

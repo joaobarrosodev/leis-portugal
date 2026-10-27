@@ -1,0 +1,1028 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0067:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0067-20080227",
+ "dre_path": null,
+ "source_lastmod": "2008-02-27",
+ "versions": [
+  {
+   "date": "1998-01-21",
+   "future": false,
+   "celex": "31997L0067",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "798b6ee1a0a75ae6",
+    "7ecd0702e4b80583",
+    "fb82239517b36fdd",
+    "7933955948c81e7b",
+    "d8f6db3a8e6af657",
+    "45f86e6c6636cb70",
+    "fb724a3cc1b83ed4",
+    "9e8d53391449988e",
+    "a05331203b422274",
+    "f681aed24ed57594",
+    "3b0afba0de7afbcb",
+    "5a1bd252ade18dc1",
+    "7d06bfdabdfc8165",
+    "09a2ce1922b6106a",
+    "cafbaf5f4914e512",
+    "14e494e20b9dc44f",
+    "30e5ecd2076fee4f",
+    "4d5737b7721fe4ef",
+    "4037d1a561393e43",
+    "16c432c539021546",
+    "f7e09fba07fac98f",
+    "087102bd6c0de018",
+    "ca12e1f3186933bd",
+    "8b0e7f35a400895e",
+    "a9e2b678b5f4802d",
+    "13311c7a98da4d5e",
+    "94a306321f4a97f2",
+    "7b47fc89be7c4f09",
+    "7c839b536c636c67",
+    "6b224020146cd58a",
+    "2cedeb08ac97bf79",
+    "35080c00bb1781ed",
+    "8e1ad8688e1e15ad",
+    "c68d39b90539a2b3",
+    "8d67bf3eb2b7054d",
+    "b337b54b3f44cf54",
+    "04ee934bb34a316f",
+    "bb133bec0c9e111d",
+    "d7aa299fe0e951a2",
+    "41db2883f7bdd8ac"
+   ]
+  },
+  {
+   "date": "2008-02-27",
+   "future": false,
+   "celex": "01997L0067-20080227",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0039:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32002L0039"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32008L0006:por",
+     "title": "DIRECTIVA 2008/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008",
+     "published": null,
+     "celex": "32008L0006"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita CAPÍTULO 1",
+    "Adita Objectivo e âmbito de aplicação",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita CAPÍTULO 2",
+    "Adita Serviço universal",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita CAPÍTULO 3",
+    "Adita Financiamento do serviço universal",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita CAPÍTULO 4",
+    "Adita Condições relativas à prestação de serviços postais e ao acesso à rede",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 11.º-A",
+    "Adita CAPÍTULO 5",
+    "Adita Princípios tarifários e transparência das contas",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita CAPÍTULO 6",
+    "Adita Qualidade dos serviços",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita CAPÍTULO 7",
+    "Adita Harmonização das normas técnicas",
+    "Adita Artigo 20.º",
+    "Adita CAPÍTULO 8",
+    "Adita Comité",
+    "Adita Artigo 21.º",
+    "Adita CAPÍTULO 9",
+    "Adita Autoridade reguladora nacional",
+    "Adita Artigo 22.º",
+    "Adita CAPÍTULO 9-A",
+    "Adita Informações",
+    "Adita Artigo 22.º-A",
+    "Adita CAPÍTULO 10",
+    "Adita Disposições finais",
+    "Adita Artigo 23.º",
+    "Adita Artigo 23.º-A",
+    "Adita Artigo 28.º",
+    "Adita ANEXO I",
+    "Adita Orientações sobre o cálculo do eventual custo líquido do serviço universal",
+    "Adita Parte A: Definição das obrigações de serviço universal",
+    "Adita Parte B: Cálculo do custo líquido",
+    "Adita Parte C: Recuperação de todos os custos líquidos das obrigações de serviço universal",
+    "Adita [►M3](http://publications.europa.eu/resource/celex/32008L0006) ANEXO II◄",
+    "Adita Normas de qualidade para o correio transfronteiriço intracomunitário",
+    "Adita Notas",
+    "Suprime CAPÍTULO 1 — Objectivo e âmbito de aplicação",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime CAPÍTULO 2 — Serviço universal",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime CAPÍTULO 3 — Harmonização dos serviços susceptíveis de serem reservados",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime CAPÍTULO 4 — Condições relativas à prestação dos serviços não reservados e ao acesso à rede",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime CAPÍTULO 5 — Princípios tarifários e transparência das contas",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime CAPÍTULO 6 — Qualidade dos serviços",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime CAPÍTULO 7 — Harmonização das normas técnicas",
+    "Suprime Artigo 20º",
+    "Suprime CAPÍTULO 8 — Comité",
+    "Suprime Artigo 21º",
+    "Suprime CAPÍTULO 9 — Autoridade reguladora nacional",
+    "Suprime Artigo 22º",
+    "Suprime CAPÍTULO 10 — Disposições finais",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime Artigo 26º",
+    "Suprime Artigo 27º — A presente directiva, com excepção do artigo 26º, vigora até 31 de Dezembro de 2004, salvo decisão em contrário nos termos do nº 3 do artigo 7º",
+    "Suprime Artigo 28º",
+    "Suprime ANEXO — Normas de qualidade para o correio transfronteiriço intracomunitário"
+   ],
+   "fragments": [
+    "ebac3bc5ca7a7479",
+    "f6c2eb219fe1b284",
+    "a409dce01ae4ed72",
+    "6f69ac19a143a53d",
+    "024861a7a75cec71",
+    "8a6992ea3c104fd1",
+    "c30c9583ecf92d2c",
+    "7961a24e19967334",
+    "b27e585764014377",
+    "acbb4b07145d02a6",
+    "a2923f21c00ca313",
+    "a3b195c08c38f795",
+    "f5b6847ef225b615",
+    "fa2a1539d11a249b",
+    "39b8a5cb24e1bbd3",
+    "6cc3b57c1b453c93",
+    "1735847e3d9222a2",
+    "20d4ea953778387e",
+    "57ad4ec9a1ea2167",
+    "9ac7fd69f4628843",
+    "1ef0b671d183955f",
+    "ba538fa7b6eb44e8",
+    "59e6954afaa0f23d",
+    "61edea7bde3574ee",
+    "a99074ce87613017",
+    "f5dd67f23ff415d8",
+    "ed148dd815305c41",
+    "47858455157b62ca",
+    "c8cc4b4f0902bee6",
+    "1f6d2e983a035bdb",
+    "67b0a48664706e0d",
+    "2be770d772fe2d87",
+    "214a276e404c2c38",
+    "3c86a15ddc0878af",
+    "3ad15d4441b3c54d",
+    "982a7fa8e6ccd08a",
+    "906b320adabe224c",
+    "848318c71247c573",
+    "712ec15cd3e7d05f",
+    "0613c16964c68024",
+    "ebeb802221d29d77",
+    "cfd75a6c323fd250",
+    "389212f50331c4a9",
+    "ce84129cbeee0e3a",
+    "d2e87438200706ba",
+    "e02d368850817b2c",
+    "bbdde795c58f027f",
+    "cf9f720b43848901",
+    "06d11313c6918c9e",
+    "273cdef844235b46",
+    "d664376e2a8dcecd",
+    "dca8afa4b3ff16ed",
+    "b8db5580edb1438d",
+    "091b36cac23c82e5",
+    "292f7b2447968ccd",
+    "02bb12cbeafb5232",
+    "130310cf5f17ce49",
+    "23904577a8dd0150"
+   ]
+  }
+ ],
+ "fragments": {
+  "798b6ee1a0a75ae6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/67/CE do Parlamento Europeu e do Conselho de 15 de Dezembro de 1997 relativa às regras comuns para o desenvolvimento do mercado interno dos serviços postais comunitários e a melhoria da qualidade de serviço** *Jornal Oficial nº L 015 de 21/01/1998 p. 0014 - 0025*\n\nDIRECTIVA 97/67/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 1997 relativa às regras comuns para o desenvolvimento do mercado interno dos serviços postais comunitários e a melhoria da qualidade de serviço\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 57º e os artigos 66º e 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nTendo em conta o parecer do Comité das Regiões (3),\n\nTendo em conta a resolução do Parlamento Europeu, de 22 de Janeiro de 1993, relativa ao Livro Verde sobre o desenvolvimento do mercado único dos serviços postais (4),\n\nTendo em conta a resolução do Conselho, de 7 de Fevereiro de 1994, sobre o desenvolvimento dos serviços postais comunitários (5),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado, em função do projecto comum aprovado em 7 de Novembro de 1997 pelo Comité de Conciliação (6),\n\n(1) Considerando que nos termos do artigo 7ºA do Tratado devem ser tomadas medidas destinadas a estabelecer o mercado interno; que esse mercado compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\n(2) Considerando que o estabelecimento do mercado interno no sector postal é de comprovada importância para a coesão económica e social da Comunidade, uma vez que os serviços postais são um instrumento essencial de comunicação e de comércio;\n\n(3) Considerando que, em 11 de Junho de 1992, a Comissão apresentou um Livro Verde sobre o desenvolvimento do mercado único dos serviços postais e, em 2 de Junho de 1993, uma comunicação sobre as orientações para o desenvolvimento dos serviços postais comunitários;\n\n(4) Considerando que a Comissão procedeu a uma ampla consulta pública sobre os aspectos dos serviços postais que se revestem de interesse comunitário e que as partes interessadas do sector postal lhe comunicaram as suas observações;\n\n(5) Considerando que a dimensão actual dos serviço postal universal bem como as condições para a sua prestação variam consideravelmente de Estado-membro para Estado-membro; que, nomeadamente, o desempenho em termos de qualidade de serviço é bastante desigual nos diversos Estados-membros;\n\n(6) Considerando que as ligações postais transfronteiriças nem sempre correspondem às expectativas dos utilizadores e dos cidadãos europeus e que o desempenho em termos de qualidade de serviço dos serviços postais transfronteiriços comunitários é actualmente insatisfatório;\n\n(7) Considerando que as disparidades verificadas no sector postal têm implicações consideráveis nos sectores de actividade particularmente dependentes dos serviços postais e impedem efectivamente o processo de coesão interna da Comunidade, visto as regiões que não beneficiam de serviços postais de qualidade suficientemente elevada se encontrarem desfavorecidas, quer no serviço de correspondências, quer na distribuição de mercadorias;\n\n(8) Considerando que são necessárias medidas destinadas a garantir a liberalização gradual e controlada do mercado e a assegurar um justo equilíbrio na sua aplicação para garantir em toda a Comunidade, no respeito das obrigações e direitos dos prestadores do serviço universal, a livre prestação de serviços no próprio sector postal;\n\n(9) Considerando que se torna, pois, necessário desenvolver uma acção a nível comunitário que garanta uma maior harmonização das condições que regem o sector postal e que há que estabelecer, consequentemente, regras comuns;\n\n(10) Considerando que, de acordo com o princípio da subsidiariedade, deve ser estabelecido um quadro de princípios gerais a nível comunitário, cabendo a escolha de procedimentos precisos aos Estados-membros, que poderão escolher o regime que melhor se adapte à respectiva situação;\n\n(11) Considerando que é essencial garantir a nível da Comunidade um serviço postal universal que corresponda a um conjunto mínimo de serviços de qualidade especificada a prestar em todos os Estados-membros a um preço acessível a todos os utilizadores, independentemente da sua localização geográfica na Comunidade;\n\n(12) Considerando que o objectivo do serviço universal consiste em oferecer a todos os utilizadores um acesso fácil à rede postal pela prestação, nomeadamente, de um número suficiente de pontos de acesso e garantindo condições satisfatórias do ponto de vista da frequência da recolha e da distribuição; que a prestação dos serviço universal deve satisfazer a necessidade fundamental de garantir a continuidade do funcionamento, adaptando-se, simultaneamente, às necessidades dos utilizadores e garantido-lhes um tratamento equitativo e não discriminatório;\n\n(13) Considerando que o serviço universal deve abranger os serviços nacionais e os serviços transfronteiriços;\n\n(14) Considerando que os utilizadores do serviço universal devem ser adequadamente informados sobre o conjunto de serviços oferecidos, as condições para a sua prestação e utilização, a qualidade dos serviços prestados e as suas tarifas;\n\n(15) Considerando que as disposições da presente directiva em matéria de prestação do serviço universal não afectam o direito dos operadores do serviço universal de negociarem individualmente contratos com os clientes;\n\n(16) Considerando que, para assegurar o funcionamento do serviço universal em condições financeiras equilibradas, se afigura justificado manter um conjunto de serviços que podem ser reservados, no respeito das regras do Tratado e sem prejuízo da aplicação das regras de concorrência; que o processo de liberalização não deve impedir a prossecução da prestação contínua de determinados serviços gratuitos que foram introduzidos pelos Estados-membros para os cegos e os deficientes visuais;\n\n(17) Considerando que os envios de correspondência com peso igual ou superior a 350 gramas representam menos de 2 % do volume das correspondências e menos de 3 % das receitas dos operadores públicos; que o critério de preço (cinco vezes a tarifa de base) permitirá estabelecer melhor a distinção entre o serviço reservado e o serviço de correio expresso, que é liberalizado;\n\n(18) Considerando que, tendo em conta o facto de a diferença essencial entre o correio expresso e os serviços postais universais residir na mais-valia (seja qual for a sua forma) oferecida pelos serviços de correio expresso e notada pelos clientes, o modo mais eficaz de determinar a mais-valia registada consiste em apurar qual o preço adicional que os clientes estão dispostos a pagar, sem prejuízo, todavia, do preço-limite da área reservada que deve ser respeitado;\n\n(19) Considerando que é razoável permitir, numa base provisória, que a publicidade endereçada e o correio transfronteiriço continuem a poder ficar reservados, dentro dos limites de preço e de peso previstos; que, a fim de dar mais um passo no sentido da plena realização do mercado interno dos serviços postais, o Parlamento Europeu e o Conselho deverão decidir até 1 de Janeiro de 2000, sob proposta da Comissão na sequência de uma avaliação do sector, sobre uma ulterior liberalização gradual e controlada do mercado postal, tendo especialmente em vista a liberalização do correio transfronteiriço e da publicidade endereçada, e sobre uma nova revisão dos limites de preço e de peso;\n\n(20) Considerando que, por razões de ordem e de segurança públicas, os Estados-membros podem ter interesse legítimo em conferir a uma ou mais entidades por eles designadas o direito de colocar na via públia caixas e marcos de correio destinados à recepção de envios postais; que, pelas mesmas razões, têm direito a designar a entidade ou entidades encarregadas da emissão de selos postais que identificam o país de origem e a entidade ou entidades responsáveis pela prestação dos serviços de correio registado utilizados em procedimentos judiciais ou administrativos, em conformidade com a respectiva legislação nacional; que podem igualmente indicar que o país é membro da União Europeia através da integração do símbolo das doze estrelas;\n\n(21) Considerando que os novos serviços (serviços muito distintos dos serviços tradicionais) e a troca de documentos não fazem parte do serviço universal e que, por conseguinte, não há motivo para que sejam reservados aos prestadores do serviço universal; que estas considerações se aplicam igualmente à entrega pelo próprio (prestação de serviços postais pela pessoa singular ou colectiva que está na origem dos envios postais ou recolha e encaminhamento desses envios por terceiros que actuam exclusivamente em nome dessa pessoa), que não se insere na categoria dos serviços;\n\n(22) Considerando que os Estados-membros devem poder regular, através de processos de autorização adequados, no respectivo território, a prestação dos serviços postais não reservados aos prestadores do serviço universal; que tais processos devem ser transparentes, não discriminatórios, proporcionados e baseados em critérios objectivos;\n\n(23) Considerando que os Estados-membros devem ter a faculdade de subordinar a concessão de licenças a obrigações de prestação do serviço universal ou a contribuições financeiras para um fundo de compensação destinado a compensar o prestador do serviço universal pela prestação de serviços que representem encargos financeiros não razoáveis; que os Estados-membros devem poder incluir nas autorizações a obrigação de as actividades autorizadas não violarem os direitos especiais ou exclusivos concedidos aos prestadores do serviço universal no que se refere aos serviços reservados; que pode ser instituída, por motivos de controlo, a introdução de um sistema de identificação da publicidade endereçada no caso de este serviço ser liberalizado;\n\n(24) Considerando que terão de ser adoptadas as medidas necessárias à harmonização de determinados processos estabelecidos pelos Estados-membros para a oferta comercial ao público de serviços postais não reservados;\n\n(25) Considerando que, se tal for necessário, serão adoptadas medidas que assegurem o carácter transparente e não discriminatório das condições de acesso à rede postal pública nos Estados-membros;\n\n(26) Considerando que, para garantir uma gestão correcta do serviço universal e evitar distorções da concorrência, as tarifas aplicadas a esse serviço devem ser objectivas, transparentes, não discriminatórias e orientadas em função dos custos;\n\n(27) Considerando que a remuneração da prestação do serviço postal transfronteiriço intracomunitário, sem prejuízo do conjunto mínimo de obrigações decorrentes dos actos da União Postal Universal, deverá ser orientada por forma a cobrir os custos de entrega suportados pelos prestadores do serviço universal no país de destino; que esta remuneração deverá também criar um incentivo destinado a melhorar ou manter a qualidade do serviço transfronteiriço através de recurso a objectivos de qualidade de serviço; que isso justificará a criação de sistemas apropriados que proporcionem uma cobertura adequada dos custos e que se baseie especificamente na qualidade de serviço alcançada;\n\n(28) Considerando que é necessária a separação contabilística entre os diferentes serviços reservados e os serviços não reservados por forma a introduzir transparência nos custos reais dos diferentes serviços e a evitar que subvenções cruzadas do sector reservado para o sector não reservado afectem negativamente as condições de concorrência neste último;\n\n(29) Considerando que, a fim de assegurar a aplicação dos princípios enunciados nos três considerandos anteriores, os prestadores do serviço universal deverão pôr em prática, dentro de um prazo razoável, sistemas de contabilidade analítica que possam ser fiscalizados de forma independente, através dos quais os custos possam ser imputados aos serviços com o maior rigor possível e segundo processos transparentes; que tais requisitos poderão ser satisfeitos, por exemplo, através da aplicação do princípio da distribuição total dos custos; que esses sistemas de contabilidade analítica poderão não ser exigidos nos casos em que existam condições verdadeiras de concorrência aberta;\n\n(30) Considerando que se deve ter em conta o interesse dos utilizadores, que têm direito a serviços de elevada qualidade; que, por conseguinte, devem ser envidados todos os esforços para melhorar e elevar o nível de qualidade dos serviços prestados à escala da Comunidade; que essa melhoria da qualidade exige o estabelecimento de normas pelos Estados-membros para os serviços que integram o serviço universal, normas que os prestadores do serviço universal devem respeitar ou mesmo ultrapassar;\n\n(31) Considerando que a qualidade de serviço esperada pelos utilizadores constitui um aspecto essencial do serviço prestado; que as normas de avaliação desta qualidade de serviço e os níveis de qualidade alcançados devem ser publicados no interesse dos utilizadores; que é necessário dispor de normas harmonizadas da qualidade de serviço e de métodos de medição comuns para que possa avaliar-se a convergência da qualidade de serviço à escala comunitária;\n\n(32) Considerando que os Estados-membros deverão fixar normas de qualidade nacionais compatíveis com as normas comunitárias; que as normas de qualidade para os serviços transfronteiriços intracomunitários, que exigem um trabalho conjunto de, pelo menos, dois prestadores de serviço universal de dois Estados-membros diferentes, devem ser definidas à escala comunitária;\n\n(33) Considerando que o respeito dessas normas deve ser fiscalizado regularmente de forma independente e numa base harmonizada; que os utilizadores deverão ter direito a serem informados dos resultados dessa fiscalização e que os Estados-membros devem assegurar que sejam tomadas medidas de correcção caso esses resultados demonstrem que as normas não estão a ser cumpridas;\n\n(34) Considerando que a Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores (7), se aplica aos operadores postais;\n\n(35) Considerando que a necessidade de melhoria da qualidade de serviço exige a resolução rápida e eficaz de litígios; que, como complemento das vias de recurso abertas pelo direito nacional ou comunitário, se deve estabelecer um processo de tratamento de reclamações que seja transparente, simples e pouco dispendioso e que permita fazer intervir todas as partes interessadas;\n\n(36) Considerando que os progressos na interligação das redes postais e o interesse dos utilizadores exigem o encorajamento da normalização técnica; que a normalização técnica é indispensável para promover a interoperabilidade das redes nacionais e, consequentemente, um serviço universal comunitário eficaz;\n\n(37) Considerando que as directrizes em matéria de harmonização europeia estabelecem que se confiem estes trabalhos especializados de normalização técnica ao Comité Europeu de Normalização;\n\n(38) Considerando que deve ser instituído um comité encarregado de assistir a Comissão na aplicação da presente directiva, em especial no que se refere aos futuros trabalhos destinados a desenvolver medidas relativas à qualidade do serviço transfronteiriço comunitário e à normalização técnica;\n\n(39) Considerando que, para garantir o bom funcionamento do serviço universal e para garantir a concorrência leal no sector não reservado, convém separar as funções de regulador, por um lado, e de operador, por outro; que um operador postal não pode, simultaneamente, ser juiz e parte interessada; que compete ao Estado-membro definir o estatuto de uma ou mais autoridades reguladoras nacionais, que podem ser autoridades públicas ou entidades independentes designadas para o efeito;\n\n(40) Considerando que os efeitos das condições harmonizadas no funcionamento do mercado interno dos serviços postais deverão ser objecto de avaliação; que, por conseguinte, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva três anos após a data da sua entrada em vigor, e nunca depois de 31 de Dezembro de 2000, incluindo informações adequadas sobre a evoluação do sector, especialmente quanto aos aspectos ecónomicos, sociais, do emprego e tecnológicos, bem como sobre a qualidade de serviço;\n\n(41) Considerando que a presente directiva não prejudica a aplicação das regras do Tratado nomeadamente as suas regras de concorrência e de livre prestação de serviços;\n\n(42) Considerando que nada impedirá os Estados-membros de manterem em vigor ou de adoptarem medidas no sector postal mais liberais do que as previstas na presente directiva, nem de, caso a presente directiva caduque, manterem em vigor medidas que tenham adoptado para lhe dar execução, desde que, em qualquer destas circunstâncias, as medidas sejam compatíveis com o Tratado;\n\n(43) Considerando que se afigura adequado que a presente directiva se aplique até 31 de Dezembro de 2004, salvo decisão em contrário tomada pelo Parlamento Europeu e pelo Conselho, sob proposta da Comissão;\n\n(44) Considerando que a presente directiva não se aplica às actividades não abrangidas pelo direito comunitário, tais como as previstas nos títulos V e VI do Tratado da União Europeia, nem, em caso algum, às actividades relativas à segurança pública, defesa, segurança do Estado (incluindo o bem-estar económico do Estado quando as actividades se referirem a questões ligadas à segurança do Estado), nem às actividades do Estado nos domínios do diretio penal;\n\n(45) Considerando que, em relação às empresas não estabelecidas na Comunidade, a presente directiva não obsta à adopção de medidas simultaneamente conformes ao direito comunitário e aos compromissos internacionais em vigor que garantem aos nacionais dos Estados-membros um tratamento equivalente em países terceiros; que as empresas comunitárias devem beneficiar em países terceiros de um tratamento e acesso efectivo comparável ao tratamento e acesso ao mercado de que gozam os nacionais dos países em questão dentro do contexto comunitário,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "7ecd0702e4b80583": {
+   "fragment_id": "CAPÍTULO 1 — Objectivo e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 — Objectivo e âmbito de aplicação"
+  },
+  "fb82239517b36fdd": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva estabelece regras comuns relativas:\n\n- à prestação de um serviço postal universal na Comunidade,\n\n- os critérios que definem os serviços susceptíveis de serem reservados aos prestadores do serviço universal e as condições que regem a prestação dos servicços não reservados,\n\n- aos princípios tarifários e à transparência das contas para a prestação do serviço universal,\n\n- ao estabelecimento de normas de qualidade para a prestação do serviço universal e à instauração de um sistema destinado a garantir o cumprimento dessas normas,\n\n- à harmonização das normas técnicas,\n\n- à criação de autoridades reguladoras nacionais independentes."
+  },
+  "7933955948c81e7b": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Serviços postais, os serviços que consistem na recolha, triagem, transporte e entrega dos envios postais.\n\n2. Rede postal pública, o sistema de organização e meios de toda a ordem utilizados pelo prestador ou prestadores do serviço universal com vista, nomeadamente:\n\n- à recolha, nos pontos de acesso em todo o território, dos envios postais abrangidos por uma obrigação de serviço universal,\n\n- ao encaminhamento e tratamento desses envios postais desde o ponto de acesso da rede postal até ao centro de distribuição,\n\n- a distribuição no endereço indicado no envio postal.\n\n3. Ponto de acesso, os locais físicos, incluindo os marcos e caixas de correio à disposição do público quer na via pública, quer nas instalações do prestador do serviço universal, onde os clientes podem depositar os envios postais na rede postal pública.\n\n4. Recolha, a operação que consiste em recolher os envios postais depositados nos pontos de acesso.\n\n5. Distribuição, o processo desenvolvido desde a triagem no centro de distribuição até a entrega dos envios postais aos destinatários.\n\n6. Envio postal, o envio endereçado na forma definitiva sob a qual fica a cargo do prestador do serviço universal. Além dos envios de correspondência, compreende ainda por exemplo livros, catálogos, jornais e publicações periódicas, assim como as encomendas postais que contenham mercadorias com ou sem valor comercial.\n\n7. Envio de correspondência, a comunicação escrita num suporte físico de qualquer natureza a transportar e entregar no endereço indicado pelo remetente no próprio envio ou no seu acondicionamento. Os livros, catálogos, jornais e publicações periódicas não são considerados envios de correspondência.\n\n8. Publicidade endereçada, uma comunicaçãço constituída exclusivamente por material publicitário, de marketing ou de divulgação e que consista numa mensagem idêntica para todos os destinatários, excepto quanto ao nome, endereço e número identificativo de cada um deles ou outras modificações que não alterem a natureza da mensagem, enviada para um número significativo de destinatários e destinada a ser transportada e entregue na morada indicada pelo remetente no próprio envio ou no seu acondicionamento. A autoridade reguladora nacional deve interpretar a expressão «número significativo de destinatários» para o seu Estado-membro e publicar a definição adequada. Contas, facturas, declarações financeiras e outras mensagens não uniformizadas não serão consideradas publicidade endereçada. Uma comunicação que, dentro do mesmo acondicionamento, combine material de publicidade endereçada com outros envios não é considerada publicidade endereçada. A publicidade endereçada inclui tanto os envios tranfronteiriços como os nacionais.\n\n9. Envio registado, um serviço que compreenda uma garantia, de valor monetário fixo, contra os riscos de extravio, furto ou roubo, ou deterioração, e que forneça ao remetente quando apropriado e a seu pedido, uma prova do depósito do envio postal e/ou da sua entrega ao destinatário.\n\n10. Envio com valor declarado, um serviço que compreenda a garantia do envio postal, em caso de extravio, furto ou roubo, ou deterioração, até ao valor declarado pelo remetente.\n\n11. Correio transfronteiriço, o correio proveniente de outro Estado-membro ou de um país terceiro ou destinado a outro Estado-membro ou um país terceiro.\n\n12. Troca de documentos, a disponibilização de meios, incluindo o fornecimento de locais próprios e de transportes por terceiros, que permita a autodistribuição através de uma troca mútua de envios postais entre os utilizadores que subscrevam esse serviço.\n\n13. Prestador do serviço universal, a entidade pública ou privada que presta um serviço postal universal ou partes deste num Estado-membro e cuja identidade foi notificada à Comissão de acordo como o disposto no artigo 4º\n\n14. Autorizações, permissões em que se define os direitos e obrigações específicos do sector postal e se permite às empresas a prestação de serviços postais e, eventualmente, o estabelecimento e/ou exploração das redes postais necessárias à prestação desses serviços, sob a forma de «autorização geral» ou «licença individual», a seguir definidas:\n\n- «autorização geral», uma autorização que, independentemente de ser regida por uma «licença por categoria» ou pela legislação geral e de essas normas exigirem ou não procedimentos de registo ou declaração, não impõe à empresa em causa a obtenção de uma decisão expressa da autoridade reguladora nacional antes de exercer os direitos que lhe advém dessa autorização.\n\n- «licença individual», uma autorização concedida por uma autoridade reguladora nacional que confere direitos específicos a uma empresa, ou que submete as actividades dessa empresa a obrigações específicas complementando eventualmente as da autorização geral, não estando a empresa autorizada a exercer os direitos em causa antes de lhe ter sido comunicada a decisão da autoridade reguladora nacional.\n\n15. Encargos terminais, a remuneração dos prestadores do serviço universal pela distribuição do correio transfronteiriço de entrada constituído pelos envios postais provenientes de outro Estado-membro ou de um país terceiro.\n\n16. Remetente, a pessoa singular ou colectiva que está na origem dos envios postais.\n\n17. Utilizador, qualquer pessoa singular ou colectiva beneficiária de uma prestação de serviço universal enquanto remetente ou destinatária.\n\n18. Autoridade reguladora nacional, em cada Estado-membro, o organismo ou organismos a quem o Estado-membro confia, entre outras, as funções reguladoras decorrentes da presente directiva.\n\n19. Requisitos essenciais, as razões de interesse geral e de natureza não económica que podem levar um Estado-membro a impor condições à prestação de serviços postais. Essas razões são a confidencialidade da correspondência, a segurança da rede em matéria de transporte de substâncias perigosas e, sempre que se justificar, a protecção dos dados, a protecção do ambiente e o ordenamento do território.\n\nA protecção dos dados pode incluir a protecção dos dados pessoais, a confidencialidade das informações transmitidas ou armazenadas e a protecção da vida privada."
+  },
+  "d8f6db3a8e6af657": {
+   "fragment_id": "CAPÍTULO 2 — Serviço universal",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Serviço universal"
+  },
+  "45f86e6c6636cb70": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros devem assegurar que os utilizadores usufruam do direito a um serviço universal que envolva uma oferta permanente de serviços postais com uma qualidade especificada, prestados em todos os pontos do território, a preços acessíveis a todos os utilizadores.\n\n2. Para tanto, os Estados-membros devem providenciar para que a densidade dos pontos de contacto e dos pontos de acesso corresponda às necessidades dos utilizadores.\n\n3. Os Estados-membros devem providenciar para que o prestador ou prestadores do serviço universal garantam em todos os dias úteis e pelo menos cinco dias por semana, salvo circunstâncias ou condições geográficas excepcionais, consideradas como tal pelas autoridades reguladoras nacionais, no mínimo:\n\n- uma recolha,\n\n- uma distribuição ao domicílio de cada pessoa singular ou colectiva ou, por derrogação em condições a determinar pela autoridade reguladora nacional, em instalações apropriadas.\n\nToda e qualquer excepção ou derrogação concedida por uma autoridade reguladora nacional de acordo com o disposto no presente número deverá ser notificada à Comissão e a todas as autoridades reguladoras nacionais.\n\n4. Cada Estado-membro adopta as medidas necessárias para que o serviço universal inclua, no mínimo, as seguintes prestações:\n\n- recolha, triagem, transporte e distribuição dos envios postais até 2 kg.\n\n- recolha, triagem, transporte e distribuição das encomendas postais até 10 kg;\n\n- serviços de envios registados e de envios com valor declarado.\n\n5. As autoridades reguladoras nacionais podem aumentar o limite de peso da cobertura do serviço universal para as encomendas postais até um peso não superior a 20 kg e podem fixar regimes específicos para a distribuição ao domicílio dessas encomendas postais.\n\nNão obstante o limite de peso da cobertura do serviço universal para as encomendas postais estabelecido por um dado Estado-membro, os Estados-membros devem assegurar que as encomendas postais recebidas de outros Estados-membros com peso até 20 kg sejam entregues no respectivo território.\n\n6. As dimensões mínimas e máximas dos envios postais em causa são as fixadas na Covenção e no Acordo relativo às Encomendas Postais adoptados pela União Postal Universal.\n\n7. O serviço universal definido no presente artigo inclui tanto os serviços nacionais como os serviços transfronteiriços."
+  },
+  "fb724a3cc1b83ed4": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nCada Estado-membro deve assegurar a prestação do serviço universal e notificar a Comissão das medidas tomadas para o cumprimento dessa obrigação e, em especial a identidade do(s) seu(s) prestador(es) do serviço universal. Cada Estado-membro deve, nos termos do direito comunitário, determinar e publicar as obrigações e direitos atribuídos ao prestador ou prestadores do serviço universal."
+  },
+  "9e8d53391449988e": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Cada Estado-membro deve providenciar para que a aprestação do serviço universal satisfaça os seguintes requisitos:\n\n- a oferta de um serviço que garanta a observância dos requisitos essencias.\n\n- a oferta de um serviço idêntico aos utilizadores em condições comparáveis,\n\n- a prestação de um serviço sem qualquer tipo de discriminação, especialmente sem discriminação decorrente de considerações políticas, religiosas ou ideológicas,\n\n- a prestação não deve ser interrompida ou suspensa, salvo em caso de força maior,\n\n- a prestação deve evoluir em função do ambiente técnico, económico e social e das necessidades dos utilizadores.\n\n2. O nº 1 não afecta as medidas tomadas pelos Estados-membros em conformidade com as exigências de interesse público reconhecidas pelo Tratado, nomeadamente pelos artigos 36º e 56º, relativas, em particular, à moralidade pública, à segurança pública, incluindo a investigação de actos criminosos, e à ordem pública."
+  },
+  "a05331203b422274": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros devem providenciar para que o prestador ou prestadores do serviço universal forneçam regularmente aos utilizadores informações suficientemente precisas e actualizadas sobre as características dos serviços universais oferecidos, em especial quanto às condições gerais de acesso a esses serviços, aos preços e ao nível das normas de qualidade. Essas informações devem ser devidamente publicadas.\n\nNo prazo de 12 meses a contar da data de entrada em vigor da presente directiva, os Estados-membros devem notificar a Comissão dos moldes em que disponibilizam as informações a publicar nos termos do primeiro parágrafo. Qualquer alteração posterior deve ser notificada à Comissão o mais rapidamente possível."
+  },
+  "f681aed24ed57594": {
+   "fragment_id": "CAPÍTULO 3 — Harmonização dos serviços susceptíveis de serem reservados",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 — Harmonização dos serviços susceptíveis de serem reservados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 — Harmonização dos serviços susceptíveis de serem reservados"
+  },
+  "3b0afba0de7afbcb": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Na medida necessária à garantia da manutenção do serviço universal, os serviços que podem ser reservados por cada Estado-membro ao prestador ou prestadores do serviço universal são a recolha, triagem, transporte e entrega dos envios de correspondência interna, quer sejam ou não efectuados por distribuição acelerada, de preço inferior ao quíntuplo da tarifa pública de um envio de correspondência do primeiro escalão de peso da categoria normalizada mais rápida, se esta existir, desde que pesem menos de 350 g. No caso do serviço postal gratuito destinado a cegos e deficientes visuais, poderão ser admitidas excepções aos limites de peso e preço.\n\n2. Na medida necessária para garantir a manutenção do serviço universal, o correio transfronteiriço e a publicidade endereçada podem continuar a ser reservados, nos limites de preço e peso previstos no nº 1.\n\n3. A fim de dar mais um passo no sentido da plena realização do mercado interno dos serviços postais, o Parlamento Europeu e o Conselho devem decidir até 1 de Janeiro de 2000, e sem prejuízo da competência da Comissão, sobre uma ulterior liberalização gradual e controlada do mercado postal, em especial com vista à liberalização do correio transfronteiriço e da publicidade endereçada, bem como sobre uma nova revisão dos limites de preço e peso, com efeitos a partir de 1 de Janeiro de 2003, tendo em conta a evolução, em especial o desenvolvimento económico, social e tecnológico, registada até essa data e tendo em conta igualmente o equilíbrio financeiro do prestador ou prestadores do serviço universal, com vista à prossecução dos objectivos da presente directiva.\n\nEstas decisões assentam numa proposta da Comissão a apresentar antes do final de 1998, na sequência de uma análise do sector. A pedido da Comissão, os Estados-membros devem fornecer toda a informação necessária para levar a cabo essa análise.\n\n4. A troca de documentos não pode ser reservada."
+  },
+  "5a1bd252ade18dc1": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO artigo 7º não prejudica o direito de os Estados-membros organizarem a colocação de marcos e caixas de correio na via pública, a emissão de selos postais e o serviço de correio registado utilizado em procedimentos judiciais ou administrativos, em conformidade com a respectiva legislação nacional."
+  },
+  "7d06bfdabdfc8165": {
+   "fragment_id": "CAPÍTULO 4 — Condições relativas à prestação dos serviços não reservados e ao acesso à rede",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4 — Condições relativas à prestação dos serviços não reservados e ao acesso à rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 4 — Condições relativas à prestação dos serviços não reservados e ao acesso à rede"
+  },
+  "09a2ce1922b6106a": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Para os serviços não reservados e não abrangidos pelo conceito de serviço universal definido no artigo 3º, os Estados-membros podem estabelecer autorizações gerais na medida necessária para garantir o cumprimento dos requisitos essenciais.\n\n2. Para os serviços não reservados abrangidos pelo conceito de serviço universal definido no artigo 3º, os Estados-membros podem estabelecer processos de autorização, incluindo licenças individuais, na medida necessária para garantir o cumprimento dos requisitos essenciais e salvaguardar o serviço universal.\n\nA concessão de autorizações pode:\n\n- quando apropriado, ser subordinada a obrigações de serviço universal,\n\n- se necessário, impor requisitos relativamente à qualidade, disponibilidade e desempenho dos serviços em questão,\n\n- ser subordinada à obrigação de não violar os direitos exclusivos ou especiais concedidos ao prestador ou prestadores do serviço universal no que respeita aos serviços postais reservados nos termos dos nºs 1 e 2 do artigo 7º\n\n3. Os processos referidos nos nºs 1 e 2 devem ser transparentes, não discriminatórios, proporcionados e baseados em critérios objectivos. Os Estados-membros devem assegurar que os motivos da recusa total ou parcial de uma autorização sejam comunicados ao requerente e instituir um processo de recurso.\n\n4. A fim de assegurar a salvaguarda do serviço universal, sempre que um Estado-membro determinar que as obrigações de serviço universal, tal como previstas na presente directiva, representam encargos financeiros não razoáveis para o prestador do serviço universal, pode criar um fundo de compensação administrado para esse efeito por um organismo independente do beneficiário ou beneficiários. Nesse caso, pode subordinar a concessão das autorizações à obrigação de contribuir financeiramente para esse fundo. O Estado-membro deve assegurar que, aquando da criação do fundo de compensação e da fixação do nível das contribuições financeiras, sejam respeitados os princípios da transparência, não discriminação e proporcionalidade. Só os serviços referidos no artigo 3º podem beneficiar desta forma de financiamento.\n\n5. Os Estados-membros podem estabelecer um sistema de identificação da publicidade endereçada que permita o seu controlo, no caso de aquela ser liberalizada."
+  },
+  "cafbaf5f4914e512": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. O Parlamento Europeu e o Conselho, deliberando sob proposta da Comissão e com base no nº 2 do artigo 57º e nos artigos 66º e 100ºA do Tratado, devem adoptar as medidas necessárias à harmonização dos processos a que se refere o artigo 9º para a oferta comercial ao público de serviços postais não reservados.\n\n2. As medidas de harmonização referidas no nº 1 devem incidir, em especial, sobre critérios a respeitar pelo operador postal, os processos que deve seguir, as regras de publicação desses critérios e processos, e ainda sobre os processos de recurso."
+  },
+  "14e494e20b9dc44f": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO Parlamento Europeu e o Conselho, deliberando sob proposta da Comissão e com base no nº 2 do artigo 57º e nos artigos 66º e 100ºA do Tratado, devem adoptar as medidas de harmonização necessárias que assegurem aos utilizadores e ao prestador ou prestadores do serviço universal o acesso à rede postal pública em condições transparentes e não discriminatórias."
+  },
+  "30e5ecd2076fee4f": {
+   "fragment_id": "CAPÍTULO 5 — Princípios tarifários e transparência das contas",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5 — Princípios tarifários e transparência das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 5 — Princípios tarifários e transparência das contas"
+  },
+  "4d5737b7721fe4ef": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros devem providenciar para que, ao serem fixadas as tarifas para cada serviço compreendido na prestação do serviço universal, sejam observados os seguintes princípios:\n\n- os preços devem ser comportáveis e permitir o acesso de todos os utilizadores aos serviços prestados,\n\n- os preços devem ser orientados em função dos custos; os Estados-membros podem decidir que deverá ser aplicada uma tarifa única em todo o território nacional respectivo,\n\n- a aplicação de uma tarifa única não exclui o direito de o(s) prestador(es) do serviço universal celebrar(em) acordos individuais com clientes em matéria de preços,\n\n- as tarifas devem ser transparentes e não discriminatórias."
+  },
+  "4037d1a561393e43": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A fim de assegurarem a prestação transfronteiriça do serviço universal, os Estados-membros devem incentivar os respectivos prestadores de serviço universal a providenciar para que nos seus acordos sobre encargos terminais para o correio transfronteiriço intracomunitário sejam respeitados os seguintes princípios:\n\n- os encargos terminais devem ser fixados em função dos custos de tratamento e de distribuição do correio transfronteiriço de entrada,\n\n- os níveis de remuneração devem estar relacionados com a qualidade de serviço alcançada,\n\n- os encargos terminais devem ser transparentes e não discriminatórios.\n\n2. A aplicação destes princípios pode ser acompanhada de disposições transitórias, destinadas a evitar perturbações indevidas nos mercados postais ou consequências desfavoráveis aos agentes económicos, desde que exista acordo entre os operadores expedidores e receptores; essas disposições devem todavia, restringir-se ao mínimo necessário à consecução desses objectivos."
+  },
+  "16c432c539021546": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros devem tomar as medidas necessárias para garantir que, no prazo de dois anos a partir da data de entrada em vigor da presente directiva, os prestadores do serviço universal adoptem um sistema contabilístico em conformidade com as disposições do presente artigo.\n\n2. No seu sistema contabilístico interno, os prestadores do serviço universal terão contas separadas, discriminando, no mínimo, cada serviço incluído no sector reservado, por um lado, e os serviços não reservados, por outro. As contas dos serviços não reservados devem estabelecer uma distinção nítida entre os serviços que fazem parte do serviço universal e os que dele não fazem parte. A operação desse sistema contabilístico interno deve basear-se nos princípios da contabilidade analítica, coerentemente aplicados e objectivamente justificáveis.\n\n3. O sistema contabilístico referido no nº 2 deve, sem prejuízo do nº 4, imputar os custos a cada um dos serviços reservados ou não reservados, da seguinte forma:\n\na) Devem ser imputados a um serviço os custos que lhe sejam directamente atribuíveis;\n\nb) Os custos comuns, ou seja os custos que não possam ser directamente atribuídos a um serviço, devem ser imputados da seguinte forma:\n\ni) Sempre que possível, os custos comuns devem ser imputados com base na análise directa da origem dos próprios custos;\n\nii) Quando a análise directa não for possível, as categorias de custos comuns devem ser imputadas com base numa ligação indirecta a outra categoria ou grupo de categorias de custos relativamente aos quais seja possível efectuar uma imputação ou atribuição directa; a ligação indirecta deve basear-se em estruturas de custo comparáveis;\n\niii) Quando não for possível estabelecer medidas directas ou indirectas de repartição dos custos, a categoria de custos deve ser imputada com base numa chave de repartição geral calculada em função da relação entre todas as despesas directa ou indirectamente imputadas ou atribuídas, por um lado, a cada um dos serviços reservados e, por outro, aos outros serviços.\n\n4. Só podem ser aplicados outros sistemas de contabilidade analítica se forem compatíveis com o nº 2 e tiverem sido aprovados pela autoridade reguladora nacional. A Comissão deve ser previamente informada da sua aplicação.\n\n5. As autoridades reguladoras nacionais devem assegurar que a conformidade com um dos sistemas de contabilidade analítica descritos nos nºs 3 e 4 seja fiscalizada por um organismo competente independente do prestador de serviço universal. Os Estados-membros devem assegurar que seja periodicamente publicada uma declaração de comprovação da conformidade.\n\n6. A autoridade reguladora nacional deve manter disponíveis, com um adequado nível de pormenor, informações sobre os sistemas de contabilidade analítica aplicados pelos prestadores de serviço universal e deve submeter essa informação à apreciação da Comissão sempre que esta o requerer.\n\n7. A pedido, as informações contabilísticas pormenorizadas obtidas a partir desses sistemas devem ser facultadas confidencialmente à autoridade reguladora nacional e à Comissão.\n\n8. Sempre que um dado Estado-membro não tiver reservado qualquer dos serviços susceptíveis de reserva nos termos do artigo 7º e não tiver criado um fundo de compensação para a prestação do serviço universal, como autorizado nos termos do nº 4 do artigo 9º, e sempre que a autoridade reguladora nacional esteja certa de que nenhum dos prestadores de serviço universal designados nesse Estado-membro recebe subsídios do Estado, ocultos ou não, a autoridade reguladora nacional pode decidir não aplicar os requisitos dos nºs 2, 3, 4, 5, 6 e 7 do presente artigo. A autoridade reguladora nacional deve informar a Comissão de toda e qualquer decisão nesse sentido."
+  },
+  "f7e09fba07fac98f": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nAs contas de todos os prestadores de serviço universal devem ser elaboradas, submetidas à verificação de um auditor independente e publicadas nos termos das legislações comunitária e nacional pertinentes aplicáveis às empresas comerciais."
+  },
+  "087102bd6c0de018": {
+   "fragment_id": "CAPÍTULO 6 — Qualidade dos serviços",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6 — Qualidade dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 6 — Qualidade dos serviços"
+  },
+  "ca12e1f3186933bd": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros devem assegurar a fixação e a publicação de normas em matéria de qualidade de serviço para o serviço universal, a fim de garantir um serviço postal de boa qualidade.\n\nAs normas de qualidade devem incidir, em especial, nos prazos de encaminhamento, na regularidade e na fiabilidade dos serviços.\n\nEstas normas são fixadas:\n\n- pelos Estados-membros, para os serviços nacionais,\n\n- pelo Parlamento Europeu e pelo Conselho, para os serviços transfronteiriços intracomunitários (ver anexo). A futura adaptação destas normas ao progresso técnico ou à evolução do mercado será feita nos termos do procedimento previsto no artigo 21º\n\nO controlo do desempenho deve ser efectuado, pelo menos uma vez por ano, de forma independente, por organismos externos sem ligações aos prestadores do serviço universal, em condições normalizadas a especificar nos termos do procedimento previsto no artigo 21º Os seus resultados devem ser objecto de relatório publicado pelo menos uma vez por ano."
+  },
+  "8b0e7f35a400895e": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros devem fixar normas de qualidade para o correio nacional e devem assegurar a sua compatibilidade com as normas fixadas para os serviços transfronteiriços intracomunitários.\n\nOs Estados-membros devem notificar as suas normas de qualidade para os serviços nacionais à Comissão, que as deve publicar do mesmo modo que as normas para os serviços transfronteiriços intracomunitários referidas no artigo 18º\n\nAs autoridades reguladoras nacionais devem assegurar que o controlo independente do desempenho seja levado a cabo de acordo com o quarto parágrafo do artigo 16º, que os resultados sejam justificados e que sejam tomadas medidas de correcção sempre que necessário."
+  },
+  "a9e2b678b5f4802d": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Em conformidade com o artigo 16º, as normas de qualidade para os serviços transfronteiriços intracomunitários são fixadas no anexo.\n\n2. Caso situações excepcionais relacionadas com infra-estruturas ou aspectos geográficos o exijam, as autoridades reguladoras nacionais podem estabelecer derrogações às normas de qualidade previstas no anexo. Quando estabelecerem as referidas derrogações, as autoridades reguladoras nacionais devem notificar imediatamente a Comissão. A Comissão deve apresentar ao comité criado nos termos do artigo 21º um relatório anual sobre as notificações recebidas durante os 12 meses anteriores, para informação deste.\n\n3. A Comissão deve publicar no Jornal Oficial das Comunidades Europeias quaisquer adaptações das normas de qualidade para os serviços transfronteiriços intracomunitários e deve providenciar para que seja garantido o controlo periódico independente e a publicação dos níveis de desempenho que comprovem o respeito destas normas e os progressos realizados. As autoridades reguladoras nacionais devem assegurar que sejam tomadas medidas de correcção sempre que necessário."
+  },
+  "13311c7a98da4d5e": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros devem assegurar o estabelecimento de processos transparentes, simples e pouco dispendiosos para o tratamento das reclamações dos utilizadores, nomeadamente em caso de extravio, furto ou roubo, deterioração ou não observância das normas de qualidade de serviço.\n\nOs Estados-membros devem adoptar medidas para garantir que esses processos permitam resolver os litígios equitativa e prontamente, estabelecendo, sempre que preciso, um sistema de reembolso e/ou compensação.\n\nSem prejuízo de outras possibilidades de recurso previstas nas legislações nacional e comunitária, os Estados-membros devem assegurar a possibilidade de os utilizadores, agindo individualmente ou, caso o direito nacional o permita, em conjunto com as organizações representativas dos interesses dos utilizadores e/ou dos consumidores, apresentarem à autoridade nacional competente os casos em que as reclamações dos utilizadores ao prestador do serviço universal não tenham sido satisfatoriamente resolvidas.\n\nEm conformidade com o artigo 16º, os Estados-membros devem assegurar que os prestadores do serviço universal publiquem, juntamente com o relatório anual sobre o controlo do desempenho, as informações relativas ao número de reclamações e ao modo como foram tratadas."
+  },
+  "94a306321f4a97f2": {
+   "fragment_id": "CAPÍTULO 7 — Harmonização das normas técnicas",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7 — Harmonização das normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 7 — Harmonização das normas técnicas"
+  },
+  "7b47fc89be7c4f09": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nA harmonização das normas técnicas deve ser desenvolvida tendo em conta, nomeadamente, os interesses dos utilizadores.\n\nO estabelecimento de normas técnicas aplicáveis ao sector postal fica confiado ao Comité Europeu de Normalização com base em mandatos, de acordo com os princípios constantes da Directiva 83/189/CEE do Conselho, de 28 de Março de 1993, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (8).\n\nEste trabalho deve ser efectuado tendo em conta as medidas de harmonização adoptadas a nível internacional, especialmente as decididas no âmbito da União Postal Universal.\n\nAs normas aplicáveis são publicadas no Jornal Oficial das Comunidades Europeias uma vez por ano.\n\nOs Estados-membros devem assegurar que os prestadores do serviço universal façam referência às normas publicadas no Jornal Oficial das Comunidades Europeias sempre que tal seja do interesse dos utilizadores e, em especial, quando fornecerem as informações a que se refere o artigo 6º\n\nO comité previsto no artigo 21º deve ser informado das discussões no âmbito do Comité Europeu de Normalização, bem como dos progressos realizados neste domínio por este organismo."
+  },
+  "7c839b536c636c67": {
+   "fragment_id": "CAPÍTULO 8 — Comité",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8 — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 8 — Comité"
+  },
+  "6b224020146cd58a": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nA Comissão é assistida por um comité composto por representantes dos Estados-membros e presidido por um representante da Comissão. O comité adopta o seu regulamento interno.\n\nO representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submete sem demora ao Conselho uma proposta relativa às medidas a tomar.\n\nO Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último não tiver deliberado, a Comissão adopta as medidas propostas."
+  },
+  "2cedeb08ac97bf79": {
+   "fragment_id": "CAPÍTULO 9 — Autoridade reguladora nacional",
+   "type": "divisao",
+   "heading": "CAPÍTULO 9 — Autoridade reguladora nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 9 — Autoridade reguladora nacional"
+  },
+  "35080c00bb1781ed": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nCada Estado-membro designa uma ou mais autoridades reguladoras nacionais para o sector postal, juridicamente distintas e funcionalmente independentes dos operadores postais.\n\nOs Estados-membros devem notificar à Comissão as autoridades reguladoras nacionais que designaram para desempenhar as atribuições decorrentes da presente directiva.\n\nAs autoridades reguladoras nacionais têm por atribuição específica assegurar o cumprimento das obrigações decorrentes da presente directiva, podendo igualmente ter como atribuição assegurar o cumprimento das regras de concorrência no sector postal."
+  },
+  "8e1ad8688e1e15ad": {
+   "fragment_id": "CAPÍTULO 10 — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO 10 — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 10 — Disposições finais"
+  },
+  "c68d39b90539a2b3": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nSem prejuízo do nº 3 do artigo 7º três anos após a data de entrada em vigor da presente directiva, e nunca depois de 31 de Dezembro de 2000, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, incluindo informações adequadas sobre a evolução do sector, especialmente quanto aos aspectos económicos, sociais, do emprego e tecnológicos, bem como sobre a qualidade de serviço.\n\nEsse relatório deve ser acompanhado de eventuais propostas ao Parlamento Europeu e ao Conselho."
+  },
+  "8d67bf3eb2b7054d": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de 12 meses a contar da data da sua entrada em vigor. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial."
+  },
+  "b337b54b3f44cf54": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "04ee934bb34a316f": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\n1. A presente directiva não impede os Estados-membros de manterem ou introduzirem medidas mais liberais do que as estabelecidas na presente directiva. Tais medidas devem ser compatíveis com o Tratado.\n\n2. Se a presente directiva caducar, as medidas tomadas pelos Estados-membros para lhe dar execução podem ser mantidas, desde que sejam compatíveis com o Tratado."
+  },
+  "bb133bec0c9e111d": {
+   "fragment_id": "Artigo 27º — A presente directiva, com excepção do artigo 26º, vigora até 31 de Dezembro de 2004, salvo decisão em contrário nos termos do nº 3 do artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 27º — A presente directiva, com excepção do artigo 26º, vigora até 31 de Dezembro de 2004, salvo decisão em contrário nos termos do nº 3 do artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º — A presente directiva, com excepção do artigo 26º, vigora até 31 de Dezembro de 2004, salvo decisão em contrário nos termos do nº 3 do artigo 7º"
+  },
+  "d7aa299fe0e951a2": {
+   "fragment_id": "Artigo 28º",
+   "type": "artigo",
+   "heading": "Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 15 de Dezembro de 1997.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ. M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nJ.-C. JUNCKER\n\n(1) JO C 322 de 2. 12. 1995, p. 22, e\n\nJO C 300 de 10. 10. 1996, p. 22.\n\n(2) JO C 174 de 17. 6. 1996, p. 41.\n\n(3) JO C 337 de 11. 11. 1996, p. 28.\n\n(4) JO C 42 de 15. 2. 1993, p. 240.\n\n(5) JO C 48 de 16. 2. 1994, p. 3.\n\n(6) Parecer do Parlamento Europeu de 9 de Maio de 1996 (JO C 152 de 27. 5. 1996, p. 20), posição comum do Conselho de 29 de Abril de 1997 (JO C 188 de 19 de Junho de 1997, p. 9) e decisão do Parlamento Europeu de 16 de Setembro de 1997 (JO C 304 de 6. 10. 197, p. 34). Decisão do Parlamento Europeu de 19 de Novembro de 1997 e decisão do Conselho de 1 de Dezembro de 1997.\n\n(7) JO L 95 de 21. 4. 1993, p. 29.\n\n(8) JO L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Decisão 96/139/CE da Comissão (JO L 32 de 10. 2. 1996, p. 31)."
+  },
+  "41db2883f7bdd8ac": {
+   "fragment_id": "ANEXO — Normas de qualidade para o correio transfronteiriço intracomunitário",
+   "type": "divisao",
+   "heading": "ANEXO — Normas de qualidade para o correio transfronteiriço intracomunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Normas de qualidade para o correio transfronteiriço intracomunitário\n\nA norma de qualidade para o correio transfronteiriço intracomunitário em cada país deve ser definida em função do prazo de encaminhamento dos envios da categoria normalizada mais rápida, calculado ponto a ponto(*) segundo a fórmula D + n, sendo D a data do depósito (**) e no número de dias úteis decorridos entre essa data e a da entrega ao destinatário.\n\n>POSIÇÃO NUMA TABELA>\n\nAs normas devem ser atingidas não só em relação à totalidade do tráfego intracomunitário como também em relação a cada fluxo bilateral entre dois Estados-membros.\n\n(*) O prazo de encaminhamento calculado de ponto a ponto é o tempo gasto entre o ponto de acesso à rede e o ponto de entrega ao destinatário.\n\n(**) A data do depósito a ter em conta é a do dia do depósito do envio, se o depósito tiver sido feito antes da última recolha indicada para o ponto de acesso à rede em questão. Quando o depósito se fizer após esse prazo, a data de depósito a ter em conta é a do dia de recolha seguinte."
+  },
+  "ebac3bc5ca7a7479": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 1997\n\nrelativa às regras comuns para o desenvolvimento do mercado interno dos serviços postais comunitários e a melhoria da qualidade de serviço\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 57.º e os artigos 66.º e 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0003)),\n\nTendo em conta a resolução do Parlamento Europeu, de 22 de Janeiro de 1993, relativa ao Livro Verde sobre o desenvolvimento do mercado único dos serviços postais ([^4^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0004)),\n\nTendo em conta a resolução do Conselho, de 7 de Fevereiro de 1994, sobre o desenvolvimento dos serviços postais comunitários ([^5^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0005)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºB do Tratado, em função do projecto comum aprovado em 7 de Novembro de 1997 pelo Comité de Conciliação ([^6^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0006)),\n\n(1) Considerando que nos termos do artigo 7.ºA do Tratado devem ser tomadas medidas destinadas a estabelecer o mercado interno; que esse mercado compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\n(2) Considerando que o estabelecimento do mercado interno no sector postal é de comprovada importância para a coesão económica e social da Comunidade, uma vez que os serviços postais são um instrumento essencial de comunicação e de comércio;\n\n(3) Considerando que, em 11 de Junho de 1992, a Comissão apresentou um Livro Verde sobre o desenvolvimento do mercado único dos serviços postais e, em 2 de Junho de 1993, uma comunicação sobre as orientações para o desenvolvimento dos serviços postais comunitários;\n\n(4) Considerando que a Comissão procedeu a uma ampla consulta pública sobre os aspectos dos serviços postais que se revestem de interesse comunitário e que as partes interessadas do sector postal lhe comunicaram as suas observações;\n\n(5) Considerando que a dimensão actual dos serviço postal universal bem como as condições para a sua prestação variam consideravelmente de Estado-membro para Estado-membro; que, nomeadamente, o desempenho em termos de qualidade de serviço é bastante desigual nos diversos Estados-membros;\n\n(6) Considerando que as ligações postais transfronteiriças nem sempre correspondem às expectativas dos utilizadores e dos cidadãos europeus e que o desempenho em termos de qualidade de serviço dos serviços postais transfronteiriços comunitários é actualmente insatisfatório;\n\n(7) Considerando que as disparidades verificadas no sector postal têm implicações consideráveis nos sectores de actividade particularmente dependentes dos serviços postais e impedem efectivamente o processo de coesão interna da Comunidade, visto as regiões que não beneficiam de serviços postais de qualidade suficientemente elevada se encontrarem desfavorecidas, quer no serviço de correspondências, quer na distribuição de mercadorias;\n\n(8) Considerando que são necessárias medidas destinadas a garantir a liberalização gradual e controlada do mercado e a assegurar um justo equilíbrio na sua aplicação para garantir em toda a Comunidade, no respeito das obrigações e direitos dos prestadores do serviço universal, a livre prestação de serviços no próprio sector postal;\n\n(9) Considerando que se torna, pois, necessário desenvolver uma acção a nível comunitário que garanta uma maior harmonização das condições que regem o sector postal e que há que estabelecer, consequentemente, regras comuns;\n\n(10) Considerando que, de acordo com o princípio da subsidiariedade, deve ser estabelecido um quadro de princípios gerais a nível comunitário, cabendo a escolha de procedimentos precisos aos Estados-membros, que poderão escolher o regime que melhor se adapte à respectiva situação;\n\n(11) Considerando que é essencial garantir a nível da Comunidade um serviço postal universal que corresponda a um conjunto mínimo de serviços de qualidade especificada a prestar em todos os Estados-membros a um preço acessível a todos os utilizadores, independentemente da sua localização geográfica na Comunidade;\n\n(12) Considerando que o objectivo do serviço universal consiste em oferecer a todos os utilizadores um acesso fácil à rede postal pela prestação, nomeadamente, de um número suficiente de pontos de acesso e garantindo condições satisfatórias do ponto de vista da frequência da recolha e da distribuição; que a prestação dos serviço universal deve satisfazer a necessidade fundamental de garantir a continuidade do funcionamento, adaptando-se, simultaneamente, às necessidades dos utilizadores e garantido-lhes um tratamento equitativo e não discriminatório;\n\n(13) Considerando que o serviço universal deve abranger os serviços nacionais e os serviços transfronteiriços;\n\n(14) Considerando que os utilizadores do serviço universal devem ser adequadamente informados sobre o conjunto de serviços oferecidos, as condições para a sua prestação e utilização, a qualidade dos serviços prestados e as suas tarifas;\n\n(15) Considerando que as disposições da presente directiva em matéria de prestação do serviço universal não afectam o direito dos operadores do serviço universal de negociarem individualmente contratos com os clientes;\n\n(16) Considerando que, para assegurar o funcionamento do serviço universal em condições financeiras equilibradas, se afigura justificado manter um conjunto de serviços que podem ser reservados, no respeito das regras do Tratado e sem prejuízo da aplicação das regras de concorrência; que o processo de liberalização não deve impedir a prossecução da prestação contínua de determinados serviços gratuitos que foram introduzidos pelos Estados-membros para os cegos e os deficientes visuais;\n\n(17) Considerando que os envios de correspondência com peso igual ou superior a 350 gramas representam menos de 2 % do volume das correspondências e menos de 3 % das receitas dos operadores públicos; que o critério de preço (cinco vezes a tarifa de base) permitirá estabelecer melhor a distinção entre o serviço reservado e o serviço de correio expresso, que é liberalizado;\n\n(18) Considerando que, tendo em conta o facto de a diferença essencial entre o correio expresso e os serviços postais universais residir na mais-valia (seja qual for a sua forma) oferecida pelos serviços de correio expresso e notada pelos clientes, o modo mais eficaz de determinar a mais-valia registada consiste em apurar qual o preço adicional que os clientes estão dispostos a pagar, sem prejuízo, todavia, do preço-limite da área reservada que deve ser respeitado;\n\n(19) Considerando que é razoável permitir, numa base provisória, que a publicidade endereçada e o correio transfronteiriço continuem a poder ficar reservados, dentro dos limites de preço e de peso previstos; que, a fim de dar mais um passo no sentido da plena realização do mercado interno dos serviços postais, o Parlamento Europeu e o Conselho deverão decidir até 1 de Janeiro de 2000, sob proposta da Comissão na sequência de uma avaliação do sector, sobre uma ulterior liberalização gradual e controlada do mercado postal, tendo especialmente em vista a liberalização do correio transfronteiriço e da publicidade endereçada, e sobre uma nova revisão dos limites de preço e de peso;\n\n(20) Considerando que, por razões de ordem e de segurança públicas, os Estados-membros podem ter interesse legítimo em conferir a uma ou mais entidades por eles designadas o direito de colocar na via públia caixas e marcos de correio destinados à recepção de envios postais; que, pelas mesmas razões, têm direito a designar a entidade ou entidades encarregadas da emissão de selos postais que identificam o país de origem e a entidade ou entidades responsáveis pela prestação dos serviços de correio registado utilizados em procedimentos judiciais ou administrativos, em conformidade com a respectiva legislação nacional; que podem igualmente indicar que o país é membro da União Europeia através da integração do símbolo das doze estrelas;\n\n(21) Considerando que os novos serviços (serviços muito distintos dos serviços tradicionais) e a troca de documentos não fazem parte do serviço universal e que, por conseguinte, não há motivo para que sejam reservados aos prestadores do serviço universal; que estas considerações se aplicam igualmente à entrega pelo próprio (prestação de serviços postais pela pessoa singular ou colectiva que está na origem dos envios postais ou recolha e encaminhamento desses envios por terceiros que actuam exclusivamente em nome dessa pessoa), que não se insere na categoria dos serviços;\n\n(22) Considerando que os Estados-membros devem poder regular, através de processos de autorização adequados, no respectivo território, a prestação dos serviços postais não reservados aos prestadores do serviço universal; que tais processos devem ser transparentes, não discriminatórios, proporcionados e baseados em critérios objectivos;\n\n(23) Considerando que os Estados-membros devem ter a faculdade de subordinar a concessão de licenças a obrigações de prestação do serviço universal ou a contribuições financeiras para um fundo de compensação destinado a compensar o prestador do serviço universal pela prestação de serviços que representem encargos financeiros não razoáveis; que os Estados-membros devem poder incluir nas autorizações a obrigação de as actividades autorizadas não violarem os direitos especiais ou exclusivos concedidos aos prestadores do serviço universal no que se refere aos serviços reservados; que pode ser instituída, por motivos de controlo, a introdução de um sistema de identificação da publicidade endereçada no caso de este serviço ser liberalizado;\n\n(24) Considerando que terão de ser adoptadas as medidas necessárias à harmonização de determinados processos estabelecidos pelos Estados-membros para a oferta comercial ao público de serviços postais não reservados;\n\n(25) Considerando que, se tal for necessário, serão adoptadas medidas que assegurem o carácter transparente e não discriminatório das condições de acesso à rede postal pública nos Estados-membros;\n\n(26) Considerando que, para garantir uma gestão correcta do serviço universal e evitar distorções da concorrência, as tarifas aplicadas a esse serviço devem ser objectivas, transparentes, não discriminatórias e orientadas em função dos custos;\n\n(27) Considerando que a remuneração da prestação do serviço postal transfronteiriço intracomunitário, sem prejuízo do conjunto mínimo de obrigações decorrentes dos actos da União Postal Universal, deverá ser orientada por forma a cobrir os custos de entrega suportados pelos prestadores do serviço universal no país de destino; que esta remuneração deverá também criar um incentivo destinado a melhorar ou manter a qualidade do serviço transfronteiriço através de recurso a objectivos de qualidade de serviço; que isso justificará a criação de sistemas apropriados que proporcionem uma cobertura adequada dos custos e que se baseie especificamente na qualidade de serviço alcançada;\n\n(28) Considerando que é necessária a separação contabilística entre os diferentes serviços reservados e os serviços não reservados por forma a introduzir transparência nos custos reais dos diferentes serviços e a evitar que subvenções cruzadas do sector reservado para o sector não reservado afectem negativamente as condições de concorrência neste último;\n\n(29) Considerando que, a fim de assegurar a aplicação dos princípios enunciados nos três considerandos anteriores, os prestadores do serviço universal deverão pôr em prática, dentro de um prazo razoável, sistemas de contabilidade analítica que possam ser fiscalizados de forma independente, através dos quais os custos possam ser imputados aos serviços com o maior rigor possível e segundo processos transparentes; que tais requisitos poderão ser satisfeitos, por exemplo, através da aplicação do princípio da distribuição total dos custos; que esses sistemas de contabilidade analítica poderão não ser exigidos nos casos em que existam condições verdadeiras de concorrência aberta;\n\n(30) Considerando que se deve ter em conta o interesse dos utilizadores, que têm direito a serviços de elevada qualidade; que, por conseguinte, devem ser envidados todos os esforços para melhorar e elevar o nível de qualidade dos serviços prestados à escala da Comunidade; que essa melhoria da qualidade exige o estabelecimento de normas pelos Estados-membros para os serviços que integram o serviço universal, normas que os prestadores do serviço universal devem respeitar ou mesmo ultrapassar;\n\n(31) Considerando que a qualidade de serviço esperada pelos utilizadores constitui um aspecto essencial do serviço prestado; que as normas de avaliação desta qualidade de serviço e os níveis de qualidade alcançados devem ser publicados no interesse dos utilizadores; que é necessário dispor de normas harmonizadas da qualidade de serviço e de métodos de medição comuns para que possa avaliar-se a convergência da qualidade de serviço à escala comunitária;\n\n(32) Considerando que os Estados-membros deverão fixar normas de qualidade nacionais compatíveis com as normas comunitárias; que as normas de qualidade para os serviços transfronteiriços intracomunitários, que exigem um trabalho conjunto de, pelo menos, dois prestadores de serviço universal de dois Estados-membros diferentes, devem ser definidas à escala comunitária;\n\n(33) Considerando que o respeito dessas normas deve ser fiscalizado regularmente de forma independente e numa base harmonizada; que os utilizadores deverão ter direito a serem informados dos resultados dessa fiscalização e que os Estados-membros devem assegurar que sejam tomadas medidas de correcção caso esses resultados demonstrem que as normas não estão a ser cumpridas;\n\n(34) Considerando que a Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores ([^7^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0007)), se aplica aos operadores postais;\n\n(35) Considerando que a necessidade de melhoria da qualidade de serviço exige a resolução rápida e eficaz de litígios; que, como complemento das vias de recurso abertas pelo direito nacional ou comunitário, se deve estabelecer um processo de tratamento de reclamações que seja transparente, simples e pouco dispendioso e que permita fazer intervir todas as partes interessadas;\n\n(36) Considerando que os progressos na interligação das redes postais e o interesse dos utilizadores exigem o encorajamento da normalização técnica; que a normalização técnica é indispensável para promover a interoperabilidade das redes nacionais e, consequentemente, um serviço universal comunitário eficaz;\n\n(37) Considerando que as directrizes em matéria de harmonização europeia estabelecem que se confiem estes trabalhos especializados de normalização técnica ao Comité Europeu de Normalização;\n\n(38) Considerando que deve ser instituído um comité encarregado de assistir a Comissão na aplicação da presente directiva, em especial no que se refere aos futuros trabalhos destinados a desenvolver medidas relativas à qualidade do serviço transfronteiriço comunitário e à normalização técnica;\n\n(39) Considerando que, para garantir o bom funcionamento do serviço universal e para garantir a concorrência leal no sector não reservado, convém separar as funções de regulador, por um lado, e de operador, por outro; que um operador postal não pode, simultaneamente, ser juiz e parte interessada; que compete ao Estado-membro definir o estatuto de uma ou mais autoridades reguladoras nacionais, que podem ser autoridades públicas ou entidades independentes designadas para o efeito;\n\n(40) Considerando que os efeitos das condições harmonizadas no funcionamento do mercado interno dos serviços postais deverão ser objecto de avaliação; que, por conseguinte, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva três anos após a data da sua entrada em vigor, e nunca depois de 31 de Dezembro de 2000, incluindo informações adequadas sobre a evoluação do sector, especialmente quanto aos aspectos ecónomicos, sociais, do emprego e tecnológicos, bem como sobre a qualidade de serviço;\n\n(41) Considerando que a presente directiva não prejudica a aplicação das regras do Tratado nomeadamente as suas regras de concorrência e de livre prestação de serviços;\n\n(42) Considerando que nada impedirá os Estados-membros de manterem em vigor ou de adoptarem medidas no sector postal mais liberais do que as previstas na presente directiva, nem de, caso a presente directiva caduque, manterem em vigor medidas que tenham adoptado para lhe dar execução, desde que, em qualquer destas circunstâncias, as medidas sejam compatíveis com o Tratado;\n\n(43) Considerando que se afigura adequado que a presente directiva se aplique até 31 de Dezembro de 2004, salvo decisão em contrário tomada pelo Parlamento Europeu e pelo Conselho, sob proposta da Comissão;\n\n(44) Considerando que a presente directiva não se aplica às actividades não abrangidas pelo direito comunitário, tais como as previstas nos títulos V e VI do Tratado da União Europeia, nem, em caso algum, às actividades relativas à segurança pública, defesa, segurança do Estado (incluindo o bem-estar económico do Estado quando as actividades se referirem a questões ligadas à segurança do Estado), nem às actividades do Estado nos domínios do diretio penal;\n\n(45) Considerando que, em relação às empresas não estabelecidas na Comunidade, a presente directiva não obsta à adopção de medidas simultaneamente conformes ao direito comunitário e aos compromissos internacionais em vigor que garantem aos nacionais dos Estados-membros um tratamento equivalente em países terceiros; que as empresas comunitárias devem beneficiar em países terceiros de um tratamento e acesso efectivo comparável ao tratamento e acesso ao mercado de que gozam os nacionais dos países em questão dentro do contexto comunitário,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "a409dce01ae4ed72": {
+   "fragment_id": "Objectivo e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Objectivo e âmbito de aplicação"
+  },
+  "6f69ac19a143a53d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece regras comuns relativas:\n\n— às condições que regem a prestação de serviços postais,\n\n— à prestação de um serviço postal universal na Comunidade,\n\n— ao financiamento de serviços universais em condições que garantam a prestação permanente desses serviços,\n\n— aos princípios tarifários e à transparência das contas para a prestação do serviço universal,\n\n— ao estabelecimento de normas de qualidade para a prestação do serviço universal e à instauração de um sistema destinado a garantir o cumprimento dessas normas,\n\n— à harmonização das normas técnicas,\n\n— à criação de autoridades reguladoras nacionais independentes."
+  },
+  "024861a7a75cec71": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Serviços postais*, os serviços que consistem na recolha, triagem, transporte e distribuição dos envios postais.\n\n1-A. *Prestador de serviços postais*, a empresa que presta um ou vários serviços postais.\n\n2. [**►M3**](http://publications.europa.eu/resource/celex/32008L0006) *Rede postal* **◄**, o sistema de organização e meios de toda a ordem utilizados pelo prestador ou prestadores do serviço universal com vista, nomeadamente:\n\n— à recolha, nos pontos de acesso em todo o território, dos envios postais abrangidos por uma obrigação de serviço universal,\n\n— ao encaminhamento e tratamento desses envios postais desde o ponto de acesso da rede postal até ao centro de distribuição,\n\n— a distribuição no endereço indicado no envio postal.\n\n3. *Pontos de acesso*, os locais físicos, incluindo os marcos e caixas de correio à disposição do público, quer na via pública quer nas instalações do prestador ou prestadores do serviço postal, onde os remetentes podem depositar os envios postais na rede postal.\n\n4. *Recolha*, a operação de recolha de envios postais pelo prestador ou prestadores do serviço postal.\n\n5. *Distribuição,* o processo desenvolvido desde a triagem no centro de distribuição até a entrega dos envios postais aos destinatários.\n\n6. *Envio postal*, o envio endereçado na forma definitiva sob a qual fica a cargo do prestador do serviço postal. Além dos envios de correspondência, compreende ainda, por exemplo, livros, catálogos, jornais e publicações periódicas, assim como as encomendas postais que contenham mercadorias com ou sem valor comercial.\n\n7. *Envio de correspondência,* a comunicação escrita num suporte físico de qualuer natureza a transportar e entregar no endereço indicado pelo remetente no próprio envio ou no seu acondicionamento. Os livros, catálogos, jornais e publicações periódicas não são considerados envios de correspondência.\n\n9. *Envio registado,* um serviço que compreenda uma garantia, de valor monetário fixo, contra os riscos de extravio, furto ou roubo, ou deterioração, e que forneça ao remetente quando apropriado e a seu pedido, uma prova do depósito do envio postal e/ou da sua entrega ao destinatário.\n\n10. *Envio com valor declarado,* um serviço que compreenda a garantia do envio postal, em caso de extravio, furto ou roubo, ou deterioração, até ao valor declarado pelo remetente.\n\n11. *Correio transfronteiriço,* o correio proveniente de outro Estado-membro ou de um país terceiro ou destinado a outro Estado-membro ou um país terceiro.\n\n13. *Prestador de serviço universal*, a entidade pública ou privada prestadora de serviço postal que presta um serviço postal universal ou partes deste num Estado-Membro e cuja identidade foi notificada à Comissão, de acordo com o disposto no artigo 4.º\n\n14. *Autorizações*, permissões em que se definem os direitos e as obrigações específicos do sector postal e se permite às empresas a prestação de serviços postais e, eventualmente, o estabelecimento e/ou exploração das suas redes para a prestação desses serviços, sob a forma de «autorização geral» ou «licença individual», a seguir definidas:\n\n— «autorização geral», uma autorização que, independentemente de ser regida por uma «licença por categoria» ou pela legislação geral e de essas normas exigirem ou não procedimentos de registo ou declaração, não impõe ao prestador de serviços postais em causa a obtenção de uma decisão expressa da autoridade reguladora nacional antes de exercer os direitos decorrentes dessa autorização,\n\n— «licença individual», uma autorização concedida por uma autoridade reguladora nacional que confere direitos específicos a um prestador de serviços postais, ou que submete as actividades desse prestador a obrigações específicas, complementando eventualmente a autorização geral, caso o prestador de serviços postais não esteja autorizado a exercer os direitos em causa antes de lhe ter sido comunicada a decisão da autoridade reguladora nacional.\n\n15. *Encargos terminais,* a remuneração dos prestadores do serviço universal pela distribuição do correio transfronteiriço de entrada constituído pelos envios postais provenientes de outro Estado-membro ou de um país terceiro.\n\n16. *Remetente,* a pessoa singular ou colectiva que está na origem dos envios postais.\n\n17. *Utilizador*, qualquer pessoa singular ou colectiva beneficiária de uma prestação de serviço postal enquanto remetente ou destinatária.\n\n18. *Autoridade reguladora nacional,* em cada Estado-membro, o organismo ou organismos a quem o Estado-membro confia, entre outras, as funções reguladoras decorrentes da presente directiva.\n\n19. *Requisitos essenciais*, as razões de interesse geral e de natureza não económica que podem levar um Estado-Membro a impor condições à prestação de serviços postais. Essas razões são a confidencialidade da correspondência, a segurança da rede em matéria de transporte de substâncias perigosas, o respeito pelos termos e condições de emprego e pelos regimes de segurança social estabelecidos por lei, por regulamentação ou por disposições administrativas e/ou por acordo colectivo celebrado entre os parceiros sociais nacionais, nos termos da legislação comunitária e nacional e, sempre que se justificar, a protecção dos dados, a protecção do ambiente e o ordenamento do território. A protecção dos dados pode incluir a protecção dos dados pessoais, a confidencialidade das informações transmitidas ou armazenadas e a protecção da vida privada.\n\n20. *Serviços de tarifa avulsa*, os serviços postais para os quais a tarifa é fixada nos termos e condições gerais do prestador ou prestadores de serviço universal para os diversos envios postais."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "c30c9583ecf92d2c": {
+   "fragment_id": "Serviço universal",
+   "type": "divisao",
+   "heading": "Serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Serviço universal"
+  },
+  "7961a24e19967334": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros devem assegurar que os utilizadores usufruam do direito a um serviço universal que envolva uma oferta permanente de serviços postais com uma qualidade especificada, prestados em todos os pontos do território, a preços acessíveis a todos os utilizadores.\n\n2. Para tanto, os Estados-membros devem providenciar para que a densidade dos pontos de contacto e dos pontos de acesso corresponda às necessidades dos utilizadores.\n\n3. Os Estados-Membros devem procurar garantir que o serviço universal seja prestado pelo menos cinco dias úteis por semana, salvo em circunstâncias ou condições geográficas consideradas excepcionais, e que inclua, no mínimo:\n\n— uma recolha,\n\n— uma distribuição ao domicílio de cada pessoa singular ou colectiva ou, por derrogação, em condições a determinar pela autoridade reguladora nacional, uma distribuição a instalações apropriadas.\n\nToda e qualquer excepção ou derrogação concedida por uma autoridade reguladora nacional de acordo com o disposto no presente número deverá ser notificada à Comissão e a todas as autoridades reguladoras nacionais.\n\n4. Cada Estado-membro adopta as medidas necessárias para que o serviço universal inclua, no mínimo, as seguintes prestações:\n\n— recolha, triagem, transporte e distribuição dos envios postais até 2 kg.\n\n— recolha, triagem, transporte e distribuição das encomendas postais até 10 kg;\n\n— serviços de envios registados e de envios com valor declarado.\n\n5. As autoridades reguladoras nacionais podem aumentar o limite de peso da cobertura do serviço universal para as encomendas postais com um peso não superior a 20 kg e fixar regimes específicos para a distribuição ao domicílio dessas encomendas.\n\nNão obstante o limite de peso da cobertura do serviço universal para as encomendas postais estabelecido por um determinado Estado-Membro, os Estados-Membros devem garantir que as encomendas postais recebidas de outros Estados-Membros com peso até 20 kg sejam entregues no respectivo território.\n\n6. As dimensões mínimas e máximas dos envios postais em causa são as fixadas pelas disposições aplicáveis aprovadas pela União Postal Universal.\n\n7. O serviço universal definido no presente artigo inclui tanto os serviços nacionais como os serviços transfronteiriços."
+  },
+  "b27e585764014377": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Cada Estado-Membro deve assegurar a prestação do serviço universal e notificar a Comissão das medidas tomadas para o cumprimento dessa obrigação. O comité a que se refere o artigo 21.º é informado das medidas tomadas pelos Estados-Membros para assegurar a prestação do serviço universal.\n\n2. Os Estados-Membros podem designar uma ou mais empresas como prestadores do serviço universal, por forma a que todo o território nacional seja abrangido. Os Estados-Membros podem designar diferentes empresas para fornecerem diferentes elementos do serviço universal e/ou para cobrirem diversas partes do território nacional. Nesse caso, devem determinar, em conformidade com a legislação comunitária, as obrigações e direitos que lhes incumbem e publicá-los. Os Estados-Membros devem, em especial, tomar medidas para assegurar que as condições nas quais o serviço universal é atribuído se baseiam nos princípios da transparência, da não discriminação e da proporcionalidade, garantindo desse modo a continuidade da prestação do serviço universal, atendendo à importância do papel que este desempenha na coesão social e territorial.\n\nOs Estados-Membros devem notificar a Comissão da identidade do prestador ou prestadores do serviço universal que tiverem designado. A designação de um prestador de serviço universal deve ser revista periodicamente e analisada à luz das condições e dos princípios enunciados no presente artigo. Contudo, os Estados-Membros devem assegurar que a designação tenha uma duração suficiente para a rentabilização dos investimentos."
+  },
+  "acbb4b07145d02a6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Cada Estado-membro deve providenciar para que a aprestação do serviço universal satisfaça os seguintes requisitos:\n\n— a oferta de um serviço que garanta a observância dos requisitos essencias.\n\n— a oferta de um serviço idêntico aos utilizadores em condições comparáveis,\n\n— a prestação de um serviço sem qualquer tipo de discriminação, especialmente sem discriminação decorrente de considerações políticas, religiosas ou ideológicas,\n\n— a prestação não deve ser interrompida ou suspensa, salvo em caso de força maior,\n\n— a prestação deve evoluir em função do ambiente técnico, económico e social e das necessidades dos utilizadores.\n\n2. O n.º 1 não afecta as medidas tomadas pelos Estados-Membros em conformidade com as exigências de interesse público reconhecidas pelo Tratado, nomeadamente pelos artigos 30.º e 46.º, relativas, em particular, à moralidade pública, à segurança pública, incluindo a investigação de actos criminosos, e à ordem pública."
+  },
+  "a2923f21c00ca313": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros devem providenciar para que o prestador ou prestadores do serviço universal forneçam regularmente aos utilizadores e aos prestadores de serviços postais informações suficientemente precisas e actualizadas sobre as características dos serviços universais oferecidos, em especial quanto às condições gerais de acesso a esses serviços, bem como ao nível dos preços e das normas de qualidade. Essas informações devem ser devidamente publicadas.\n\nOs Estados-Membros comunicam à Comissão em que moldes são disponibilizadas as informações a publicar por força do primeiro parágrafo."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "f5b6847ef225b615": {
+   "fragment_id": "Financiamento do serviço universal",
+   "type": "divisao",
+   "heading": "Financiamento do serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Financiamento do serviço universal"
+  },
+  "fa2a1539d11a249b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros não concedem nem mantêm em vigor direitos exclusivos ou especiais para o estabelecimento e a prestação de serviços postais. Os Estados-Membros podem financiar a prestação do serviço universal de acordo com um ou mais dos meios previstos nos n.^os^ 2, 3 e 4 ou com outros meios compatíveis com o Tratado.\n\n2. Os Estados-Membros podem assegurar a prestação do serviço universal através da adjudicação desse serviço de acordo com as regras e a regulamentação aplicáveis aos contratos públicos, incluindo, como previsto na Diretiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação dos processos de adjudicação de contratos nos setores da água, da energia, dos transportes e dos serviços postais ([^8^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0008)), o diálogo concorrencial e os procedimentos diretamente negociados, com ou sem publicação de anúncio de concurso.\n\n3. Caso um Estado-Membro determine que as obrigações do serviço universal previstas na presente directiva implicam um custo líquido, calculado de acordo com o Anexo I, e representam um encargo financeiro não razoável para o prestador ou os prestadores do serviço universal, pode estabelecer:\n\na) Um mecanismo para compensar a empresa ou empresas em causa através de fundos públicos; ou\n\nb) Um mecanismo para partilhar o custo líquido das obrigações do serviço universal entre os prestadores de serviços e/ou os utilizadores.\n\n4. Quando o custo líquido é partilhado nos termos da alínea b) do n.º 3, os Estados-Membros podem criar um fundo de compensação que pode ser financiado por taxas aplicáveis aos prestadores de serviço e/ou aos utilizadores e que é gerido para esse efeito por um organismo independente do beneficiário ou beneficiários. Os Estados-Membros podem subordinar a concessão de autorizações aos prestadores de serviços, ao abrigo do n.º 2 do artigo 9.º, à obrigação de uma contribuição financeira para esse fundo ou ao cumprimento das obrigações do serviço universal. As obrigações de serviço universal do prestador ou prestadores de serviço universal estabelecidas no artigo 3.º podem beneficiar desta forma de financiamento.\n\n5. Os Estados-Membros devem assegurar que, aquando da criação do fundo de compensação e da fixação do nível das contribuições financeiras referidas nos n.^os^ 3 e 4, sejam respeitados os princípios da transparência, da não discriminação e da proporcionalidade. As decisões tomadas ao abrigo dos n.^os^ 3 e 4 devem basear-se em critérios objectivos e verificáveis e ser publicadas."
+  },
+  "39b8a5cb24e1bbd3": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO artigo 7.º não prejudica o direito de os Estados-membros organizarem a colocação de marcos e caixas de correio na via pública, a emissão de selos postais e o serviço de correio registado utilizado em procedimentos judiciais ou administrativos, em conformidade com a respectiva legislação nacional."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "1735847e3d9222a2": {
+   "fragment_id": "Condições relativas à prestação de serviços postais e ao acesso à rede",
+   "type": "divisao",
+   "heading": "Condições relativas à prestação de serviços postais e ao acesso à rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições relativas à prestação de serviços postais e ao acesso à rede"
+  },
+  "20d4ea953778387e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Para os serviços não abrangidos pelo conceito de serviço universal, os Estados-Membros podem estabelecer autorizações gerais na medida necessária para garantir o cumprimento dos requisitos essenciais.\n\n2. Para os serviços abrangidos pelo conceito de serviço universal, os Estados-Membros podem estabelecer procedimentos de autorização, incluindo licenças individuais, na medida necessária para garantir o cumprimento dos requisitos essenciais e assegurar a prestação do serviço universal.\n\nA concessão de autorizações pode:\n\n— ser subordinada às obrigações do serviço universal,\n\n— se necessário, impor requisitos relativamente à qualidade, disponibilidade e desempenho dos serviços relevantes,\n\n— quando apropriado, ser subordinada à obrigação de contribuir financeiramente para os mecanismos de partilha de custos referidos no artigo 7.º, se a prestação do serviço universal implicar um custo líquido e representar um encargo não razoável para o prestador ou prestadores de serviço universal designados nos termos do artigo 4.º,\n\n— quando apropriado, ser subordinada à obrigação de contribuir financeiramente para os custos de funcionamento da autoridade reguladora nacional a que se refere o artigo 22.º,\n\n— quando apropriado, ser subordinada ao cumprimento de condições de trabalho fixadas pela legislação nacional ou impor esse cumprimento.\n\nAs obrigações e os requisitos referidos no primeiro travessão e no artigo 3.º só podem ser impostos aos prestadores do serviço universal designados.\n\nExcepto no caso de empresas que tenham sido designadas prestadores do serviço universal nos termos do artigo 4.º, as autorizações não podem:\n\n— ser limitadas em número,\n\n— em relação aos mesmos elementos do serviço universal ou partes do território nacional, impor a obrigação de serviço universal e, simultaneamente, a contribuição financeira para um mecanismo de partilha de custos,\n\n— duplicar as condições aplicáveis às empresas por força de outra legislação nacional não específica do sector,\n\n— impor condições técnicas ou operacionais para além das necessárias ao cumprimento das obrigações decorrentes da presente directiva.\n\n3. Os procedimentos, as obrigações e os requisitos referidos nos n.^os^ 1 e 2 devem ser transparentes, acessíveis, não discriminatórios, proporcionados, exactos e inequívocos, publicados com a devida antecedência e baseados em critérios objectivos. Os Estados-Membros devem assegurar que os motivos do indeferimento ou da revogação total ou parcial de uma autorização sejam comunicados ao requerente, e instituir um processo de recurso."
+  },
+  "57ad4ec9a1ea2167": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O Parlamento Europeu e o Conselho, deliberando sob proposta da Comissão e com base no n.º 2 do artigo 47.º e nos artigos 55.º e 95.º do Tratado, devem adoptar as medidas necessárias à harmonização dos procedimentos a que se refere o artigo 9.º para a oferta comercial de serviços postais ao público.\n\n2. As medidas de harmonização referidas no n.º 1 devem incidir, em especial, sobre critérios a respeitar pelo operador postal, os processos que deve seguir, as regras de publicação desses critérios e processos, e ainda sobre os processos de recurso."
+  },
+  "9ac7fd69f4628843": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Parlamento Europeu e o Conselho, deliberando sob proposta da Comissão e com base no n.º 2 do artigo 47.º e nos artigos 55.º e 95.º do Tratado, devem adoptar as medidas de harmonização necessárias para assegurar aos utilizadores e ao prestador ou prestadores do serviço postal o acesso à rede postal em condições transparentes e não discriminatórias."
+  },
+  "1ef0b671d183955f": {
+   "fragment_id": "Artigo 11.º-A",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A\n\nSempre que tal se revele necessário para proteger os interesses dos utilizadores e/ou fomentar uma verdadeira concorrência, e com base nas condições e na legislação nacionais, os Estados-Membros devem assegurar condições de acesso transparentes e não discriminatórias a elementos de infra-estrutura postal ou serviços postais prestados no âmbito do serviço universal, tais como o sistema de código postal, a base de dados de endereços, os apartados, as caixas de correio, as informações sobre a mudança de endereço, o serviço de reencaminhamento e o serviço de devolução ao remetente. Esta disposição não prejudica o direito de os Estados-Membros adoptarem medidas para assegurar o acesso à rede postal em condições de transparência, proporcionalidade e não discriminação."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "59e6954afaa0f23d": {
+   "fragment_id": "Princípios tarifários e transparência das contas",
+   "type": "divisao",
+   "heading": "Princípios tarifários e transparência das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Princípios tarifários e transparência das contas"
+  },
+  "61edea7bde3574ee": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros devem procurar assegurar que, ao serem fixadas as tarifas para cada serviço compreendido na prestação do serviço universal, sejam observados os seguintes princípios:\n\n— os preços devem ser acessíveis e permitir o acesso de todos os utilizadores, independentemente da localização geográfica e tendo em conta as condições nacionais específicas, aos serviços prestados. Os Estados-Membros podem manter ou criar disposições que garantam a prestação de serviços postais gratuitos, destinados a serem utilizados por cegos e amblíopes,\n\n— os preços devem ser fixados em função dos custos e dar incentivos para uma prestação eficiente de serviço universal. Sempre que necessário por motivos de interesse público, os Estados-Membros podem aplicar uma tarifa única no seu território nacional e/ou além-fronteiras aos serviços de tarifa avulso e a outros envios postais,\n\n— a aplicação de uma tarifa única não exclui o direito de o prestador ou prestadores do serviço universal celebrarem acordos individuais em matéria de preços com os utilizadores,\n\n— as tarifas devem ser transparentes e não discriminatórias,\n\n— sempre que os prestadores do serviço universal aplicarem tarifas especiais, por exemplo para os serviços às empresas, para os remetentes de envios em quantidade ou para os intermediários responsáveis pelo agrupamento de envios de vários utilizadores, devem aplicar os princípios da transparência e da não discriminação no que se refere tanto às tarifas como às condições a elas associadas. As tarifas e as condições a elas associadas devem ser aplicadas de igual modo, tanto na relação entre terceiros como na relação entre terceiros e os prestadores do serviço universal que ofereçam serviços equivalentes. Também devem beneficiar dessas tarifas os utilizadores que efectuem envios em condições similares, especialmente os utilizadores individuais e as pequenas e médias empresas."
+  },
+  "a99074ce87613017": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A fim de assegurarem a prestação transfronteiriça do serviço universal, os Estados-membros devem incentivar os respectivos prestadores de serviço universal a providenciar para que nos seus acordos sobre encargos terminais para o correio transfronteiriço intracomunitário sejam respeitados os seguintes princípios:\n\n— os encargos terminais devem ser fixados em função dos custos de tratamento e de distribuição do correio transfronteiriço de entrada,\n\n— os níveis de remuneração devem estar relacionados com a qualidade de serviço alcançada,\n\n— os encargos terminais devem ser transparentes e não discriminatórios.\n\n2. A aplicação destes princípios pode ser acompanhada de disposições transitórias, destinadas a evitar perturbações indevidas nos mercados postais ou consequências desfavoráveis aos agentes económicos, desde que exista acordo entre os operadores expedidores e receptores; essas disposições devem todavia, restringir-se ao mínimo necessário à consecução desses objectivos."
+  },
+  "f5dd67f23ff415d8": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-Membros devem tomar as medidas necessárias para assegurar que a contabilidade dos prestadores do serviço universal seja efectuada em conformidade com o disposto no presente artigo.\n\n2. O prestador ou prestadores de serviço universal mantêm contas separadas nos respectivos sistemas contabilísticos para distinguir claramente entre os serviços e produtos que fazem parte do serviço universal e os que não fazem. Esta separação de contas contribui para que os Estados-Membros possam calcular o custo líquido do serviço universal. A aplicação deste sistema contabilístico interno deve basear-se nos princípios da contabilidade analítica, coerentemente aplicados e objectivamente justificáveis.\n\n3. Os sistemas contabilísticos referidos no n.º 2 devem, sem prejuízo do n.º 4, repartir os custos do seguinte modo:\n\na) Devem ser imputados a um determinado serviço ou produto os custos que lhe sejam directamente atribuíveis;\n\nb) Os custos comuns, ou seja, os custos que não possam ser directamente atribuídos a um serviço ou produto, devem ser imputados da seguinte forma:\n\ni) sempre que possível, os custos comuns devem ser imputados com base na análise directa da origem dos próprios custos,\n\nii) quando a análise directa não for possível, as categorias de custos comuns devem ser imputadas com base numa ligação indirecta a outra categoria ou grupo de categorias de custos relativamente aos quais seja possível efectuar uma imputação ou atribuição directa; a referida ligação indirecta deve basear-se em estruturas de custos comparáveis,\n\niii) quando não for possível estabelecer medidas directas ou indirectas de repartição dos custos, a categoria de custos deve ser imputada com base numa chave de repartição geral, calculada em função da relação entre todas as despesas directa ou indirectamente imputadas ou atribuídas, por um lado, a cada serviço universal e, por outro, aos outros serviços,\n\niv) os custos comuns necessários para prestar serviços universais e não universais devem ser correctamente atribuídos, devendo ser aplicados os mesmos factores de custo a ambos os serviços.\n\n4. Só podem ser aplicados outros sistemas de contabilidade analítica se forem compatíveis com o n.º 2 e tiverem sido aprovados pela autoridade reguladora nacional. A Comissão deve ser previamente informada da sua aplicação.\n\n5. As autoridades reguladoras nacionais devem assegurar que a conformidade com um dos sistemas de contabilidade analítica descritos nos n.^os^ 3 e 4 seja fiscalizada por um organismo competente independente do prestador de serviço universal. Os Estados-membros devem assegurar que seja periodicamente publicada uma declaração de comprovação da conformidade.\n\n6. A autoridade reguladora nacional deve manter disponíveis, com um adequado nível de pormenor, informações sobre os sistemas de contabilidade analítica aplicados pelos prestadores de serviço universal e deve submeter essa informação à apreciação da Comissão sempre que esta o requerer.\n\n7. A pedido, as informações contabilísticas pormenorizadas obtidas a partir desses sistemas devem ser facultadas confidencialmente à autoridade reguladora nacional e à Comissão.\n\n8. A autoridade reguladora nacional pode decidir não aplicar os requisitos do presente artigo se o Estado-Membro não tiver utilizado um mecanismo de financiamento para a prestação do serviço universal, como autorizado no artigo 7.º, e a autoridade reguladora nacional estiver certa de que nenhum dos prestadores de serviço universal designados nesse Estado-Membro recebe apoios do Estado, ocultos ou não, e de que existe efectivamente concorrência no mercado.\n\n9. Todavia, o presente artigo pode ser aplicado ao prestador do serviço universal designado antes da data final da abertura total do mercado, desde que não tenha sido designado nenhum outro prestador ou prestadores do serviço universal. A autoridade reguladora nacional deve informar com a devida antecedência a Comissão de tal decisão.\n\n10. Os Estados-Membros podem exigir aos prestadores de serviços postais que estão obrigados a contribuir para um fundo de compensação que efectuem uma separação de contas adequada para assegurar o funcionamento do fundo."
+  },
+  "ed148dd815305c41": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs contas de todos os prestadores de serviço universal devem ser elaboradas, submetidas à verificação de um auditor independente e publicadas nos termos das legislações comunitária e nacional pertinentes aplicáveis às empresas comerciais."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "c8cc4b4f0902bee6": {
+   "fragment_id": "Qualidade dos serviços",
+   "type": "divisao",
+   "heading": "Qualidade dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Qualidade dos serviços"
+  },
+  "1f6d2e983a035bdb": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros devem assegurar a fixação e a publicação de normas em matéria de qualidade de serviço para o serviço universal, a fim de garantir um serviço postal de boa qualidade.\n\nAs normas de qualidade devem incidir, em especial, nos prazos de encaminhamento, na regularidade e na fiabilidade dos serviços.\n\nEstas normas são fixadas:\n\n— pelos Estados-membros, para os serviços nacionais,\n\n— pelo Parlamento Europeu e pelo Conselho, para os serviços transfronteiriços intracomunitários (ver Anexo II). A futura adaptação destas normas ao progresso técnico ou à evolução do mercado é feita pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 21.º\n\nO controlo do desempenho deve ser efectuado, pelo menos uma vez por ano, de forma independente, por organismos externos sem ligações aos prestadores do serviço universal, em condições normalizadas a especificar pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 21.º. Os resultados devem ser objecto de relatório, publicado pelo menos uma vez por ano."
+  },
+  "67b0a48664706e0d": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros devem fixar normas de qualidade para o correio nacional e devem assegurar a sua compatibilidade com as normas fixadas para os serviços transfronteiriços intracomunitários.\n\nOs Estados-membros devem notificar as suas normas de qualidade para os serviços nacionais à Comissão, que as deve publicar do mesmo modo que as normas para os serviços transfronteiriços intracomunitários referidas no artigo 18.º\n\nAs autoridades reguladoras nacionais devem assegurar que o controlo independente do desempenho seja levado a cabo de acordo com o quarto parágrafo do artigo 16.º, que os resultados sejam justificados e que sejam tomadas medidas de correcção sempre que necessário."
+  },
+  "2be770d772fe2d87": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Em conformidade com o artigo 16.º, as normas de qualidade para os serviços transfronteiriços intracomunitários são fixadas no Anexo II.\n\n2. Caso situações excepcionais relacionadas com infra-estruturas ou aspectos geográficos o exijam, as autoridades reguladoras nacionais podem estabelecer derrogações às normas de qualidade previstas no Anexo II. Quando estabelecerem as referidas derrogações, as autoridades reguladoras nacionais devem notificar imediatamente a Comissão. A Comissão deve apresentar ao comité a que se refere o artigo 21.º, para conhecimento, um relatório anual sobre as notificações recebidas durante os 12 meses anteriores.\n\n3. A Comissão deve publicar no *Jornal Oficial das Comunidades Europeias* quaisquer adaptações das normas de qualidade para os serviços transfronteiriços intracomunitários e deve providenciar para que seja garantido o controlo periódico independente e a publicação dos níveis de desempenho que comprovem o respeito destas normas e os progressos realizados. As autoridades reguladoras nacionais devem assegurar que sejam tomadas medidas de correcção sempre que necessário."
+  },
+  "214a276e404c2c38": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os Estados-Membros devem assegurar que todos os prestadores de serviços postais proporcionem procedimentos transparentes, simples e económicos para o tratamento das reclamações dos utilizadores desses serviços, designadamente em caso de extravio, furto ou roubo, deterioração ou não cumprimento das normas de qualidade do serviço (incluindo procedimentos que permitam apurar a responsabilidade nos casos em que estejam envolvidos vários operadores), sem prejuízo das disposições nacionais e internacionais aplicáveis aos regimes de indemnização.\n\nOs Estados-Membros devem tomar medidas para garantir que os procedimentos referidos no primeiro parágrafo permitam resolver os litígios equitativa e prontamente, prevendo, sempre que se justifique, um sistema de reembolso e/ou compensação.\n\nOs Estados-Membros devem também incentivar o desenvolvimento de regimes extrajudiciais independentes para a resolução de litígios entre os prestadores de serviços postais e os utilizadores.\n\n2. Sem prejuízo de outras possibilidades de recurso ou compensação previstas na legislação nacional e comunitária, os Estados-Membros devem criar condições para que os utilizadores, agindo individualmente ou, caso o direito nacional o permita, em conjunto com as organizações representativas dos interesses dos utilizadores e/ou dos consumidores, possam levar à apreciação da autoridade nacional competente os casos em que as reclamações dos utilizadores às empresas prestadoras de serviços no âmbito do serviço universal não tenham sido satisfatoriamente resolvidas.\n\nEm conformidade com o artigo 16.º, os Estados-Membros devem assegurar que os prestadores do serviço universal e, sempre que adequado, as empresas prestadoras de serviços no âmbito do serviço universal publiquem, juntamente com o relatório anual sobre o controlo do desempenho, informações sobre o número de reclamações e o modo como foram tratadas."
+  },
+  "3c86a15ddc0878af": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 7"
+  },
+  "3ad15d4441b3c54d": {
+   "fragment_id": "Harmonização das normas técnicas",
+   "type": "divisao",
+   "heading": "Harmonização das normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Harmonização das normas técnicas"
+  },
+  "982a7fa8e6ccd08a": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA harmonização das normas técnicas deve ser desenvolvida tendo em conta, nomeadamente, os interesses dos utilizadores.\n\nO estabelecimento de normas técnicas aplicáveis ao sector postal fica confiado ao Comité Europeu de Normalização com base em mandatos, de acordo com os princípios constantes da Directiva 83/189/CEE do Conselho, de 28 de Março de 1993, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas ([^9^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0009)).\n\nEste trabalho deve ser efectuado tendo em conta as medidas de harmonização adoptadas a nível internacional, especialmente as decididas no âmbito da União Postal Universal.\n\nAs normas aplicáveis são publicadas no *Jornal Oficial das Comunidades Europeias* uma vez por ano.\n\nOs Estados-membros devem assegurar que os prestadores do serviço universal façam referência às normas publicadas no *Jornal Oficial das Comunidades Europeias* sempre que tal seja do interesse dos utilizadores e, em especial, quando fornecerem as informações a que se refere o artigo 6.º\n\nO comité previsto no artigo 21.º deve ser informado das discussões no âmbito do Comité Europeu de Normalização, bem como dos progressos realizados neste domínio por este organismo."
+  },
+  "906b320adabe224c": {
+   "fragment_id": "CAPÍTULO 8",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 8"
+  },
+  "848318c71247c573": {
+   "fragment_id": "Comité",
+   "type": "divisao",
+   "heading": "Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Comité"
+  },
+  "712ec15cd3e7d05f": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "0613c16964c68024": {
+   "fragment_id": "CAPÍTULO 9",
+   "type": "divisao",
+   "heading": "CAPÍTULO 9",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 9"
+  },
+  "ebeb802221d29d77": {
+   "fragment_id": "Autoridade reguladora nacional",
+   "type": "divisao",
+   "heading": "Autoridade reguladora nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Autoridade reguladora nacional"
+  },
+  "cfd75a6c323fd250": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Cada Estado-Membro designa uma ou mais autoridades reguladoras nacionais para o sector postal, juridicamente distintas e funcionalmente independentes dos operadores postais. Os Estados-Membros que mantenham a propriedade ou o controlo de prestadores de serviços postais devem assegurar uma separação estrutural efectiva entre as funções de regulação e as actividades ligadas à propriedade ou ao controlo.\n\nOs Estados-Membros devem notificar a Comissão das autoridades reguladoras nacionais que designarem para desempenhar as funções decorrentes da presente directiva. Devem tornar públicas, de modo facilmente acessível, as funções que incumbem às autoridades reguladoras nacionais, designadamente quando tais funções forem confiadas a vários organismos. Os Estados-Membros asseguram, sempre que adequado, as consultas e a cooperação entre essas autoridades e as autoridades nacionais responsáveis pela aplicação da legislação relativa à concorrência e à protecção dos consumidores em questões de interesse comum.\n\n2. As autoridades reguladoras nacionais têm como atribuição específica assegurar o cumprimento das obrigações decorrentes da presente directiva, em especial estabelecendo procedimentos de acompanhamento e de regulação para garantir a prestação do serviço universal. Podem igualmente ter como atribuição assegurar o cumprimento das regras de concorrência no sector postal.\n\nAs autoridades reguladoras nacionais dos Estados-Membros trabalham em estreita colaboração e prestam assistência mútua, a fim de facilitar a aplicação da presente directiva nas instâncias adequadas existentes.\n\n3. Os Estados-Membros devem garantir a existência de mecanismos eficazes, a nível nacional, através dos quais qualquer utilizador ou prestador de serviços postais que tenha sido prejudicado pela decisão de uma autoridade reguladora nacional tenha o direito de interpor recurso dessa decisão junto de um organismo de recurso independente das partes envolvidas. Enquanto não for conhecido o resultado do recurso, mantém-se a decisão da autoridade reguladora nacional, a não ser que o organismo de recurso decida em contrário."
+  },
+  "389212f50331c4a9": {
+   "fragment_id": "CAPÍTULO 9-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO 9-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 9-A"
+  },
+  "ce84129cbeee0e3a": {
+   "fragment_id": "Informações",
+   "type": "divisao",
+   "heading": "Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações"
+  },
+  "d2e87438200706ba": {
+   "fragment_id": "Artigo 22.º-A",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A\n\n1. Os Estados-Membros asseguram que os prestadores de serviços postais disponibilizem todas as informações, em particular às autoridades reguladoras nacionais, incluindo informações de carácter financeiro e sobre a prestação do serviço universal, nomeadamente para os seguintes fins:\n\na) Para que as autoridades reguladoras nacionais assegurem a conformidade com as disposições da presente directiva ou com as decisões tomadas ao abrigo da presente directiva;\n\nb) Para fins estatísticos claramente definidos.\n\n2. Os prestadores de serviços postais devem comunicar prontamente tais informações sempre que tal lhes seja solicitado, e confidencialmente, se necessário, dentro dos prazos e com o grau de pormenor exigido pela autoridade reguladora nacional. As informações pedidas pela autoridade reguladora nacional devem ser proporcionadas em relação às necessidades para o cumprimento das suas funções. A autoridade reguladora nacional deve fundamentar o seu pedido de informações.\n\n3. Os Estados-Membros devem assegurar que as autoridades reguladoras nacionais prestem à Comissão, a pedido desta, as informações adequadas e pertinentes necessárias para a execução das funções que lhe incumbem nos termos da presente directiva.\n\n4. Caso as informações sejam consideradas confidenciais por uma autoridade reguladora nacional nos termos das regras nacionais e comunitárias em matéria de sigilo comercial, a Comissão e as autoridades reguladoras nacionais devem preservar essa confidencialidade."
+  },
+  "e02d368850817b2c": {
+   "fragment_id": "CAPÍTULO 10",
+   "type": "divisao",
+   "heading": "CAPÍTULO 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 10"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "cf9f720b43848901": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA Comissão deve apresentar, de quatro em quatro anos e, pela primeira vez, até 31 de Dezembro de 2013, ao Parlamento Europeu e ao Conselho, um relatório sobre a aplicação da presente directiva, incluindo informações úteis sobre a evolução do sector, designadamente sobre os padrões económicos, sociais e de emprego e sobre os aspectos tecnológicos, bem como sobre a qualidade do serviço. Esse relatório deve ser acompanhado, se for caso disso, de propostas ao Parlamento Europeu e ao Conselho."
+  },
+  "06d11313c6918c9e": {
+   "fragment_id": "Artigo 23.º-A",
+   "type": "artigo",
+   "heading": "Artigo 23.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A\n\nA Comissão deve dar assistência aos Estados-Membros na aplicação da presente directiva, incluindo o cálculo de qualquer custo líquido do serviço universal."
+  },
+  "273cdef844235b46": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "dca8afa4b3ff16ed": {
+   "fragment_id": "Orientações sobre o cálculo do eventual custo líquido do serviço universal",
+   "type": "divisao",
+   "heading": "Orientações sobre o cálculo do eventual custo líquido do serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Orientações sobre o cálculo do eventual custo líquido do serviço universal"
+  },
+  "b8db5580edb1438d": {
+   "fragment_id": "Parte A: Definição das obrigações de serviço universal",
+   "type": "divisao",
+   "heading": "Parte A: Definição das obrigações de serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Definição das obrigações de serviço universal\n\nAs obrigações de serviço universal são as obrigações referidas no artigo 3.º, impostas ao prestador de serviços postais por um Estado-Membro e que implicam a oferta de serviços postais em toda uma área geográfica específica incluindo, quando necessário, preços únicos nessa área geográfica para a oferta desse serviço ou de determinados serviços gratuitos para os cegos e amblíopes.\n\nEntre essas obrigações contam-se, designadamente:\n\n— um número de dias de entrega superior aos estipulados na presente directiva,\n\n— a acessibilidade aos pontos de acesso, a fim de cumprir a obrigação do serviço universal,\n\n— a acessibilidade das tarifas do serviço universal,\n\n— preços uniformes para prestações de serviço universal,\n\n— a oferta de determinados serviços gratuitos para os cegos e amblíopes."
+  },
+  "091b36cac23c82e5": {
+   "fragment_id": "Parte B: Cálculo do custo líquido",
+   "type": "divisao",
+   "heading": "Parte B: Cálculo do custo líquido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Cálculo do custo líquido\n\nAs autoridades reguladoras nacionais deverão estudar todas as formas de proporcionar incentivos adequados para que os prestadores de serviços postais (designados ou não) cumpram as obrigações de serviço universal de forma economicamente eficiente.\n\nO custo líquido das obrigações de serviço universal é qualquer custo relacionado com a prestação do serviço universal e necessário para essa prestação. O custo líquido das obrigações de serviço universal deverá ser calculado como sendo a diferença entre os custos líquidos em que incorre o prestador do serviço universal designado, operando no âmbito das obrigações do serviço universal, e os custos líquidos do mesmo prestador de serviços postais, operando fora do âmbito dessas obrigações.\n\nO cálculo deve ter em conta todos os outros dados pertinentes, designadamente todos os benefícios não materiais e todos os benefícios de mercado que revertam para o prestador de serviços postais designado para prestar o serviço universal, o direito a obter um lucro razoável e os incentivos à rendibilidade.\n\nHá que ter em atenção a necessidade de avaliar correctamente os custos que qualquer prestador do serviço universal designado teria decidido evitar se não existisse obrigação de serviço universal. O cálculo do custo líquido deverá ter em conta os benefícios, incluindo os benefícios não materiais, obtidos pelo operador do serviço universal.\n\nO cálculo deverá basear-se nos custos imputáveis:\n\ni) aos elementos dos serviços identificados que só podem ser oferecidos com prejuízo ou em condições de custo que não se enquadram nas práticas comerciais normais; esta categoria pode incluir elementos de serviços como os definidos na Parte A,\n\nii) aos utilizadores finais ou grupos de utilizadores finais específicos que, atendendo ao custo da oferta do serviço especificado, às receitas geradas e aos eventuais preços únicos impostos pelo Estado-Membro, só podem ser prestados com prejuízo ou em condições de custo que não se enquadram nas práticas comerciais normais.\n\nEstão incluídos nesta categoria os utilizadores ou grupos de utilizadores que não seriam servidos por um operador comercial que não tivesse a obrigação de prestar o serviço universal.\n\nO cálculo do custo líquido de aspectos específicos das obrigações de serviço universal deverá ser efectuado separadamente e por forma a evitar a dupla contabilização de quaisquer benefícios ou custos directos ou indirectos. O custo líquido geral das obrigações de serviço universal para qualquer prestador do serviço universal designado deverá ser calculado como sendo a soma dos custos líquidos das componentes específicas das obrigações de serviço universal, tendo em conta todos os benefícios não materiais. A entidade reguladora nacional é responsável pela verificação do custo líquido, e o prestador ou prestadores do serviço universal devem colaborar com a entidade reguladora nacional para que esta possa verificar os custos líquidos."
+  },
+  "292f7b2447968ccd": {
+   "fragment_id": "Parte C: Recuperação de todos os custos líquidos das obrigações de serviço universal",
+   "type": "divisao",
+   "heading": "Parte C: Recuperação de todos os custos líquidos das obrigações de serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Recuperação de todos os custos líquidos das obrigações de serviço universal\n\nA recuperação ou o financiamento de todos os custos líquidos das obrigações de serviço universal pode implicar o pagamento de uma compensação aos prestadores do serviço universal pelos serviços que estes oferecem em condições não comerciais. Uma vez que essa compensação envolve transferências financeiras, os Estados-Membros devem garantir que estas se efectuem de forma objectiva, transparente, não discriminatória e proporcionada. Isto significa que as transferências devem causar a menor distorção possível na concorrência e na procura dos utilizadores.\n\nOs mecanismos de repartição baseados no fundo referido no n.º 4 do artigo 7.º deverão utilizar mecanismos transparentes e neutros para a cobrança das contribuições, que evitem a dupla imposição simultaneamente sobre os *inputs* e os *outputs* das empresas.\n\nO organismo independente que administra o fundo deverá ser responsável pela cobrança das contribuições das empresas que se considera deverem contribuir para o custo líquido das obrigações de serviço universal no Estado-Membro e supervisionar a transferência de verbas devidas às empresas com direito a receber pagamentos do fundo."
+  },
+  "02bb12cbeafb5232": {
+   "fragment_id": "[►M3](http://publications.europa.eu/resource/celex/32008L0006) ANEXO II◄",
+   "type": "divisao",
+   "heading": "[►M3](http://publications.europa.eu/resource/celex/32008L0006) ANEXO II◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## [►M3](http://publications.europa.eu/resource/celex/32008L0006) ANEXO II◄"
+  },
+  "130310cf5f17ce49": {
+   "fragment_id": "Normas de qualidade para o correio transfronteiriço intracomunitário",
+   "type": "divisao",
+   "heading": "Normas de qualidade para o correio transfronteiriço intracomunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Normas de qualidade para o correio transfronteiriço intracomunitário\n\nA norma de qualidade para o correio transfronteiriço intracomunitário em cada país deve ser definida em função do prazo de encaminhamento dos envios da categoria normalizada mais rápida, calculado ponto a ponto ([^10^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0010)) segundo a fórmula D + n, sendo D a data do depósito ([^11^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#E0011)) e n o número de dias úteis decorridos entre essa data e a da entrega ao destinatário.\n\n| Normas de qualidade para o correio transfronteiriço intracomunitário |  |\n| --- | --- |\n| Prazo | Objectivo |\n| D + 3 | 85 % dos envios |\n| D + 5 | 97 % dos envios |\n\nAs normas devem ser atingidas não só em relação à totalidade do tráfego intracomunitário como também em relação a cada fluxo bilateral entre dois Estados-membros.\n\n---"
+  },
+  "23904577a8dd0150": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0001)) JO C 322 de 2. 12. 1995, p. 22, e\n\n> JO C 300 de 10. 10. 1996, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0002)) JO C 174 de 17. 6. 1996, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0003)) JO C 337 de 11. 11. 1996, p. 28.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0004)) JO C 42 de 15. 2. 1993, p. 240.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0005)) JO C 48 de 16. 2. 1994, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0006)) Parecer do Parlamento Europeu de 9 de Maio de 1996 (JO C 152 de 27. 5. 1996, p. 20), posição comum do Conselho de 29 de Abril de 1997 (JO C 188 de 19 de Junho de 1997, p. 9) e decisão do Parlamento Europeu de 16 de Setembro de 1997 (JO C 304 de 6. 10. 197, p. 34). Decisão do Parlamento Europeu de 19 de Novembro de 1997 e decisão do Conselho de 1 de Dezembro de 1997.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0007)) JO L 95 de 21. 4. 1993, p. 29.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0008)) JO L 134 de 30.4.2004, p. 114.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0009)) JO L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Decisão 96/139/CE da Comissão (JO L 32 de 10. 2. 1996, p. 31).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0010)) O prazo de encaminhamento calculado de ponto a ponto é o tempo gasto entre o ponto de acesso à rede e o ponto de entrega ao destinatário.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1#src.E0011)) A data do depósito a ter em conta é a do dia do depósito do envio, se o depósito tiver sido feito antes da última recolha indicada para o ponto de acesso à rede em questão. Quando o depósito se fizer após esse prazo, a data de depósito a ter em conta é a do dia de recolha seguinte."
+  }
+ }
+}

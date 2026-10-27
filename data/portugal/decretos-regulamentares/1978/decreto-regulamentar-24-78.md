@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:434602:por
+title: Decreto Regulamentar n.º 24/78
+short_title: null
+summary: Estabelece os novos quantitativos das pensões do regime geral e dos regimes especiais de previdência social
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 24/78
+official_date: null
+publication_date: '1978-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/1978, 2º Suplemento, Série I de 1978-07-15
+  number: '161'
+  series: I
+  supplement: null
+  pages: 1314-(7) a 1314-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16102/00070009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '434602'
+  dre_path: /dr/detalhe/decreto-regulamentar/24-1978-434602
+  internal: pt:dre:434602:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1978-434602
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1978-434602
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:58:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: df3456067fd008a5690d221d11f077c1acd98cc36e31028b8546517a4fef1e0f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Actualização de Pensões
+- Caixa Geral de Aposentações
+- Caixa Nacional de Pensões
+- Cálculo de Pensões
+- Pensão de Invalidez
+- Pensão de Sobrevivência
+- Pensão de Velhice
+- Pensões
+- Previdência Social
+- Regime Especial de Previdência
+- Regime Geral de Previdência
+relationships:
+- type: cites
+  target: pt:dre:141806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:58:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 24/78
+
+de 15 de Julho
+
+Entre os objectivos fundamentais e globais da política social avulta, com carácter prioritário, a realização de uma política digna de terceira idade.
+
+Na perspectiva das disposições constitucionais, importa, pois, criar condições para o lançamento de uma verdadeira política orientada para a população idosa em termos da ponderação global dos seus problemas, necessidades e carências, por forma a assegurar respostas que se traduzam no exercício pelos idosos de direitos sociais fundamentais e numa efectiva participação na vida da comunidade.
+
+Com efeito, no Programa do Governo e no plano de acção do sector da segurança social, para o ano em curso, tendo em conta as agudas carências acumuladas quanto a equipamentos e acções específicas para aquela população, foram previstas concretas medidas, conducentes à resposta aos problemas existentes, estando umas já em execução e outras em vias de o serem.
+
+A concretização de algumas dessas medidas, mais concretamente as actualizações dos montantes das pensões por velhice, invalidez e sobrevivência, do valor do complemento da pensão por cônjuge e do valor do suplemento da pensão de grande inválido no regime geral e a uniformização e melhoria das pensões dos trabalhadores rurais, acabando-se com a diferenciação entre pensões para homens e mulheres, eis os objectivos deste diploma legal.
+
+Assim, aprovadas que foram pela Assembleia da República as linhas fundamentais de organização do orçamento da segurança social para o exercício de 1978, o Governo iniciou a preparação de vários diplomas que irão pôr em execução, no decurso deste ano, as alterações de esquemas de benefícios, dirigidos, na sua quase totalidade, à população idosa.
+
+No entanto, porque a capacidade financeira do sistema não comportaria, cumulativamente, revisões significativas dos actuais esquemas de prestações de segurança social, toda a possibilidade de esforço financeiro foi dirigida para os pensionistas de invalidez, velhice e sobrevivência, isto é, para o sector que maiores dificuldades vem atravessando, não sendo, porém, ainda possível colocar as pensões mínimas nos valores que, obviamente, seriam desejáveis, mas tendo-se procurado corrigir as distorções que mais significativamente ensombram o regime das pensões.
+
+Quanto ao regime especial de previdência dos trabalhadores rurais, fixou-se em 1100$00 o valor da pensão de invalidez ou velhice, daí decorrendo, por um lado, o nivelamento das pensões atribuíveis a homens e mulheres e, por outro, a concessão de um aumento de 500$00 a cada mulher pensionista, igual ao que no regime geral é estabelecido para os pensionistas com pensões iguais ou superiores a 2250$00.
+
+Quanto às pensões de invalidez ou velhice do regime geral, em curso no início do ano, beneficiam de um aumento uniforme de 500$00, ou da importância necessária para atingir a pensão mínima de 2750$00, as pensões de valor igual ou superior a 2250$00. Apenas as actuais pensões de 2000$00 são fixadas em 2250$00, considerando que as mesmas, tendo resultado de regimes contributivos simbólicos, são meras «pensões sociais».
+
+As pensões de invalidez ou velhice iniciadas a partir de 1 de Janeiro de 1978 são revistas em função das respectivas parcelas estatutárias.
+
+No que se refere às pensões de sobrevivência do regime geral, ser-lhes-ão acrescidas parcelas correspondentes ao aumento uniforme de 500$00 na pensão base de invalidez ou velhice ou à variação para essa pensão atingir o valor mínimo de 2750$00 por mês.
+
+Pelo presente diploma é também fixado em 600$00 o valor do complemento de pensão por cônjuge, independentemente do montante de cada pensão de invalidez ou velhice, porém sem prejuízo da manutenção de complementos mais elevados actualmente em curso.
+
+Igualmente se altera o valor do suplemento de pensão de grande inválido, o qual é fixado em 1000$00, sem qualquer dependência do quantitativo do salário mínimo nacional.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - São elevados para 1100$00 os quantitativos mensais das pensões de invalidez e velhice a que se referem os n.os 2, 3, 5 e 6 do artigo 2.º do Decreto-Lei n.º 174-B/75, de 1 de Abril.
+
+2 - É elevado para 660$00 o quantitativo mensal das pensões de sobrevivência atribuídas ao abrigo do disposto no n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril.
+
+3 - As pensões de sobrevivência atribuídas antes da entrada em vigor do presente diploma, ao abrigo dos n.os 1 e 2 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, são revistas tendo em conta a elevação da pensão base estabelecida no n.º 1.
+
+Art. 2.º - 1 - O n.º 4 do artigo 80.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com a nova redacção que lhe foi dada pelo [Decreto n.º 486/73](https://diariodarepublica.pt/dr/detalhe/decreto/486-1973-599971), de 27 de Setembro, passa a ter a seguinte redacção:
+
+4 - Se o pensionista tiver cônjuge a seu cargo, ao montante obtido nos termos do disposto nos números anteriores acrescerá a importância de 600$00.
+
+2 - O disposto no número anterior não prejudica os complementos porventura mais elevados que estejam a ser concedidos na data da entrada em vigor deste diploma.
+
+Art. 3.º Os quantitativos mensais das pensões regulamentares de invalidez, de velhice e de sobrevivência concedidas pela Caixa Nacional de Pensões e pelas caixas de previdência com entidades patronais contribuintes serão actualizados ou melhorados nas condições fixadas no presente diploma.
+
+Art. 4.º Com ressalva do disposto no n.º 2 do artigo 5.º, na alínea a) do artigo 6.º e nos artigos 7.º e 11.º, é aumentado para 2750$00 o quantitativo mínimo das pensões de invalidez e de velhice.
+
+Art. 5.º - 1 - São actualizadas, nos termos dos números seguintes, as pensões de invalidez e de velhice iniciadas antes de 1 de Janeiro de 1978, tomando-se por base as pensões regulamentares em vigor naquela data.
+
+2 - As pensões regulamentares de quantitativo igual a 2000$00 são elevadas para 2250$00.
+
+3 - As pensões regulamentares cujo quantitativo é superior a 2000$00 e igual ou inferior a 2250$00 são elevadas para 2750$00.
+
+4 - As pensões regulamentares de quantitativo superior a 2250$00 são aumentadas de 500$00.
+
+Art. 6.º As pensões de invalidez e de velhice iniciadas a partir de 1 de Janeiro de 1978 serão fixadas nos valores que resultam de somar ao respectivo quantitativo estatutário as seguintes importâncias:
+
+a) A necessária para atingir 2250$00, para as de quantitativo estatutário não superior a 500$00;
+
+b) 500$00 ou a necessária para atingir o mínimo de 2750$00, para as de quantitativo estatutário superior a 500$00.
+
+Art. 7.º Sem prejuízo dos quantitativos das pensões em curso, quando o beneficiário tenha direito a pensão de invalidez ou de velhice por mais do que um regime de previdência de inscrição obrigatória, incluindo o da Caixa Geral de Aposentações, o dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países, ou pensão por incapacidade permanente resultante de acidente de trabalho ou doença profissional, a importância a somar ao respectivo quantitativo estatutário para obter a pensão regulamentar será determinada por aplicação dos artigos 5.º e 6.º, considerando, porém, como valor da pensão estatutária o que resultar da adição ao quantitativo estatutário do regime geral da Caixa Nacional de Pensões do total das restantes pensões atrás referidas, excluídas apenas as prestações complementares, designadamente o complemento por cônjuge a cargo e o suplemento atribuído aos grandes inválidos.
+
+Art. 8.º - 1 - As pensões de sobrevivência iniciadas antes de 1 de Janeiro de 1978 são aumentadas dos valores resultantes da aplicação das correspondentes percentagens regulamentares à importância de 500$00.
+
+2 - O disposto no número anterior é igualmente aplicável às pensões de sobrevivência iniciadas em 1 de Janeiro de 1978, bem como às correspondentes a beneficiários falecidos de 1 de Janeiro a 30 de Junho de 1978 com pensão de invalidez ou velhice iniciada anteriormente a 1 de Janeiro de 1978.
+
+3 - Relativamente aos restantes beneficiários falecidos de 1 de Janeiro de 1978 a 30 de Junho do mesmo ano, a pensão de sobrevivência será calculada com base no disposto no artigo 6.º
+
+Art. 9.º - 1 - Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulta da aplicação da respectiva percentagem regulamentar à pensão mínima de invalidez ou de velhice, estabelecida no artigo 4.º
+
+2 - Ressalvam-se, no entanto, as excepções previstas na alínea a) do artigo 6.º e nos artigos 7.º, 10.º e 11.º
+
+Art. 10.º Para a aplicação do n.º 1 do artigo precedente considerar-se-á a pensão total quando o pensionista receba pensão de sobrevivência de mais do que um regime de previdência de inscrição obrigatória, incluindo o do Montepio dos Servidores do Estado, o dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países, ou pensão resultante de acidente de trabalho ou doença profissional.
+
+Art. 11.º As pensões reduzidas quer por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, quer por aplicação de convenções internacionais, englobarão também uma actualização ou melhoria conforme o caso que se obtém reduzindo os respectivos valores correspondentes à pensão estatutária total na mesma proporção em que o for esta.
+
+Art. 12.º O n.º 1 da [Portaria n.º 144/75](https://diariodarepublica.pt/dr/detalhe/portaria/144-1975-160548), de 3 de Março, passa a ter a seguinte redacção:
+
+1 - Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a uma prestação mensal suplementar na importância de 1000$00.
+
+Art. 13.º - 1 - Se o beneficiário receber pensão de invalidez ou de velhice por mais do que um regime de inscrição obrigatória que confira direito ao suplemento de pensão aos grandes inválidos, só terá direito a recebê-lo por um dos regimes.
+
+2 - Na hipótese de o pensionista receber o suplemento através de um regime não abrangido pelas instituições mencionadas no artigo 3.º, designadamente pelo de acidentes de trabalho ou doenças profissionais, essas instituições só concederão o suplemento na medida do necessário para completar o valor estabelecido para o respectivo regime, quando for caso disso.
+
+Art. 14.º - 1 - A tabela inserta no n.º 1 da norma XIV da [Portaria n.º 94/77](https://diariodarepublica.pt/dr/detalhe/portaria/94-1977-141806), de 23 de Fevereiro, é substituída pela seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16102/00070009.pdf)
+
+2 - Para os pensionistas da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa com pensões iniciadas antes de 1949 tomar-se-á como ano de início, para efeitos do número anterior, o ano de 1949.
+
+Art. 15.º Excluem-se das disposições constantes do artigo 2.º e artigos subsequentes:
+
+a) A Caixa de Previdência dos Empregados do Banco de Angola;
+
+b) Os grupos de beneficiários a que não sejam aplicáveis os regimes gerais de pensões previstas para a Caixa Nacional de Pensões, salvo no que respeita ao artigo 4.º, aos artigos 9.º, 10.º, 12.º e 13.º e ainda ao artigo 7.º, mas, quanto a este, apenas no que se refere à pensão mínima, os quais são extensivos aos beneficiários da Caixa de Previdência e Abono de Família dos Ferroviários sujeitos aos regulamentos anteriores a 1 de Julho de 1955 e aos da Caixa de Previdência e Abono de Família do Serviço de Transportes Colectivos do Porto admitidos anteriormente a 1 de Novembro de 1955.
+
+Art. 16.º O presente diploma entra em vigor em 1 de Julho de 1978, salvo no que respeita ao artigo 14.º que produz efeitos a partir de 1 de Janeiro de 1978.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Duarte Arnaut.
+
+Promulgado em 29 de Junho de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

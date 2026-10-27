@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:162666817:por
+title: Decreto Legislativo Regional n.º 13/2021/A
+short_title: null
+summary: Programa de apoio extraordinário à cultura na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 13/2021/A
+official_date: null
+publication_date: '2021-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/2021, Série I de 2021-05-04
+  number: '86'
+  series: I
+  supplement: null
+  pages: 4 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/05/08600/0000400006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/13/2021/05/04/a/dre/pt/html
+  oj: null
+  dre: '162666817'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/13-2021-162666817
+  internal: pt:dre:162666817:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-162666817
+  metadata_url: https://data.dre.pt/eli/declegreg/13/2021/05/04/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-162666817
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 445d772f0cd96d2006eb6598e948a4bcd5787f7b20de130f07bd7a5ebbc86c39
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Cultura
+- Doença Infecciosa
+- Epidemia
+- Programa de Apoio Extraordinário à Cultura
+- Região Autónoma
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:22:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 13/2021/A
+
+Programa de apoio extraordinário à cultura na Região Autónoma dos Açores
+
+Considerando o papel essencial da cultura nas dinâmicas sociais e comunitárias, na construção da identidade individual e coletiva, na assunção da defesa da pluralidade e democraticidade da sociedade, constituindo um dos principais pilares que sustenta as sociedades contemporâneas;
+
+Considerando a importância da cultura na produção de conhecimento, espírito crítico, inovação, criatividade e mudança social;
+
+Considerando que a construção de uns Açores mais resilientes, coesos e sustentáveis passa por priorizar medidas que atendam e protejam os públicos mais vulneráveis, entre eles os profissionais mais afetados pelas medidas que limitam e restringem o desenvolvimento da sua atividade profissional, colocando-os em situação de precariedade laboral, desemprego e crise socioeconómica;
+
+Considerando que as frágeis condições de instabilidade económica e social que este setor frequentemente enfrenta, em particular os seus agentes, produtores, promotores e profissionais, foram significativamente agravadas pela crise pandémica, pela situação de emergência e confinamento, afetando, indiferenciadamente, todos os produtores de bens culturais;
+
+Considerando a necessidade de complementar, reforçar e adequar à Região as respostas à crise pandémica do Programa Garantir a Cultura, especialmente vocacionado para a mitigação dos impactos da crise pandémica no setor cultural;
+
+Considerando que urge conhecer e reconhecer a situação de extrema emergência laboral que o setor enfrenta, em consequência do quadro de pandemia da doença COVID-19;
+
+Considerando, pois, a necessidade de apoiar pessoas singulares e entidades de todos os setores culturais e criativos na implementação das regras e recomendações das autoridades de saúde competentes no contexto da doença COVID-19, no âmbito da reorganização e adaptação da sua programação, produção, atividades, espaços e equipamentos e na perda de receita de bilheteira e da prestação de serviços artísticos;
+
+Considerando que o reforço da coesão social passa, também, por assegurar as respostas de combate à crise na cultura.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, conjugada com o n.º 4 do artigo 112.º da Constituição da República Portuguesa e do artigo 37.º, conjugado com o n.º 1 e a alínea c) do n.º 2 do artigo 63.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente diploma procede à criação de um Programa de Apoio Extraordinário à Cultura na Região Autónoma dos Açores, doravante designado por Programa, e define os termos e condições de acesso ao mesmo.
+
+2 - O presente Programa visa mitigar os efeitos da crise pandémica no setor cultural.
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente diploma aplica-se a todos os profissionais que exercem atividade, seja como pessoa singular ou pessoa coletiva, no setor da cultura na Região Autónoma dos Açores.
+
+2 - O CAE (Classificação das Atividades Económicas) ou o Código de IRS previsto na tabela a que se refere o artigo 151.º do Código do Imposto sobre o Rendimento das Pessoas Singulares de todas as atividades, abrangidas pelo número anterior, constam na regulamentação ao presente diploma.
+
+###### Artigo 3.º — Apoio financeiro
+
+O Programa traduz-se na atribuição dos seguintes apoios:
+
+a) Apoio a título excecional, temporário e a fundo perdido com um limite máximo de (euro) 2500 para pessoas singulares e (euro) 10 000 para pessoas coletivas, sendo este montante apurado em função da diminuição da faturação que, comprovadamente, esteja causal e diretamente associada ao cumprimento das restrições impostas à organização de eventos ou iniciativas de natureza artística e criativa, refletido em despesas de reorganização e adaptação da programação, produção, atividades, espaços e equipamentos culturais no contexto da COVID-19 ou em perda de receitas de bilheteira ou de prestação de serviços artísticos, desde o mês de março de 2020;
+
+b) Apoio aos profissionais da cultura, com atividade fiscal na Região Autónoma dos Açores, até 1 de janeiro de 2020, mediante a atribuição de um incentivo não reembolsável a todas as pessoas singulares (trabalhadores independentes) e pessoas coletivas com CAE ou Código de IRS principais do setor da cultura, conforme regulamentação ao presente diploma, no valor de 1 indexante dos apoios sociais (IAS) por cada trabalhador independente, posto de trabalho (incluindo os gerentes remunerados nas microempresas) ou pessoa coletiva;
+
+c) Apoio, através da criação de Bolsas de Apoio à Criação Artística Regional, semestrais ou anuais, com o valor individual de (euro) 7500 e (euro) 15 000, respetivamente, destinadas aos promotores, produtores e agentes culturais com domicílio fiscal na Região até 1 de janeiro de 2020, de modo a incentivar a criação de produtos culturais, os quais devem posteriormente ser apresentados e integrados na programação artística regional.
+
+###### Artigo 4.º — Candidatura
+
+1 - A solicitação dos apoios previstos no presente diploma é efetuada por candidatura, submetida junto do departamento do Governo Regional com competência na área da cultura, no prazo a estabelecer em regulamentação ao presente diploma.
+
+2 - O apoio previsto na alínea c) do artigo anterior fica sujeito a um processo de seleção, com critérios de avaliação que tenham em conta a experiência do candidato, a qualidade e consistência do projeto e a justificação da necessidade de bolsa.
+
+3 - Para efeitos dos números anteriores, o referido departamento do Governo Regional disponibiliza formulário próprio, cujos termos e local de disponibilização constam da regulamentação ao presente diploma.
+
+###### Artigo 5.º — Análise, decisão e publicitação
+
+1 - Cabe ao departamento do Governo Regional com competência em matéria de cultura proceder à análise das candidaturas ao Programa, nos termos e prazos a definir na regulamentação ao presente diploma.
+
+2 - O despacho de aprovação das candidaturas tem natureza urgente e é publicado no Jornal Oficial.
+
+###### Artigo 6.º — Cumulação de apoios
+
+O presente apoio não é cumulativo com outros apoios que tenham a mesma natureza e objetivo.
+
+###### Artigo 7.º — Regulamentação
+
+O Governo procede à regulamentação do presente diploma no prazo máximo de 15 dias a contar da sua publicação, através de Resolução do Conselho do Governo Regional dos Açores.
+
+###### Artigo 8.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia seguinte à sua publicação e produz efeitos à data da entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2021.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de março de 2021.
+
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+Assinado em Angra do Heroísmo em 28 de abril de 2021.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114192126

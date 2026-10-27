@@ -1,0 +1,399 @@
+---
+schema_version: '1.0'
+id: pt:dre:311445:por
+title: Decreto-Lei n.º 110/83
+short_title: null
+summary: Institucionaliza e regulamenta os Centros de Histocompatibilidade do Norte, Centro e Sul
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa
+proposing_entity: null
+official_number: 110/83
+official_date: null
+publication_date: '1983-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/1983, Série I de 1983-02-21
+  number: '42'
+  series: I
+  supplement: null
+  pages: 533 - 538
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04200/05330538.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311445'
+  dre_path: /dr/detalhe/decreto-lei/110-1983-311445
+  internal: pt:dre:311445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1983-311445
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1983-311445
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:49:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6c2e65b9feaaf13c781c1cb414bfc57388eb5032254600da4fec84cfaaaf2139
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Histocompatibilidade do Centro
+- Centro de Histocompatibilidade do Norte
+- Centro de Histocompatibilidade do SUL
+- Criação de Serviços
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:638525:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:666535:por
+  label: "Alterado o quadro de pessoal, pela PORT.245/87.1987.03.31.MF DR.IS [75]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1987-666535
+  date: '1987-03-31'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: "Alterado o quadro de pessoal, pela PORT.147/88.1988.03.09.MF DR.IS [57]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:616379:por
+  label: "Substituidos, na parte referente à Carreira Técnica Superior de Saúde, os quadros de pessoal dos Centros de Histocompatibilidade,\
+    \ pela PORT.1126/92.1992.12.10.MF DR.IS [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1126-1992-616379
+  date: '1992-12-10'
+- type: amended_by
+  target: pt:dre:406277:por
+  label: "Alterado o quadro de pessoal do Centro de Histocompatibilidade do Centro aprovado no presente diploma, com a redacção\
+    \ das Port 245/87, de 31-Mar, 147/88, de 09-Mar e 1126/92, de 10-Dez, pela PORT.1188/97.1997.11.21.PCM, DR.IS-B [270]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1188-1997-406277
+  date: '1997-11-21'
+- type: amended_by
+  target: pt:dre:225400:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.4/98.1998.01.06.PCM, MF e MS DR.IS-B [4]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1998-225400
+  date: '1998-01-06'
+- type: amended_by
+  target: pt:dre:566827:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, pela PORT.692/98.1998.09.03.PCM, DR.IS-B [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1998-566827
+  date: '1998-09-03'
+- type: amended_by
+  target: pt:dre:243875:por
+  label: "Alterado o quadro de pessoal do Centro de Histocompatibilidade do Centro pela PORT.720/98.1998.09.09.PCM, DR.IS-B\
+    \ [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1998-243875
+  date: '1998-09-09'
+- type: amended_by
+  target: pt:dre:241200:por
+  label: "Substituído o quadro de pessoal aprovado pelo presente diploma, pela PORT.751/98.1998.09.14.PCM DR.IS-B [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/751-1998-241200
+  date: '1998-09-14'
+- type: amended_by
+  target: pt:dre:673582:por
+  label: "Substituído o quadro de pessoal do Centro de Histocompatibilidade do Norte, aprovado pelo diploma, (com a redacção\
+    \ conferida pelas Port 245/87 de 31-Mar, 147/788 de 09-Mar e 1126/92 de 10-Mar) pela PORT.886/99.1999.10.11.PCM DR.IS-B\
+    \ [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-1999-673582
+  date: '1999-10-11'
+- type: amended_by
+  target: pt:dre:240062:por
+  label: "Alterado o quadro de pessoal do Centro de Histocompatibilidade do Centro, aprovado pelo presente diploma, pelo PORT.620/2005.28.07.2005.MFAP,\
+    \ DR.IS-B [144] de 28.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-2005-240062
+  date: '2005-07-28'
+- type: amended_by
+  target: pt:dre:545638:por
+  label: "Reestruturados os Centros de Histocompatibilidade do Norte, do Centro e do Sul, criados pelo presente diploma, que\
+    \ são integrados nas Administrações Regionais de Saúde, I.P, como entidades públicas prestadoras de cuidados de saúde,\
+    \ mantendo as suas atribuições, pelo DEC LEI.212/2006.27.10.2006.MS, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165211:por
+  label: Rectificado o título deste diploma - publicado como Portaria - pela DECL.DD2992.1983.03.14.PCM DR.IS [75]Supl de
+    31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165211
+  date: '1983-03-14'
+- type: corrected_by
+  target: pt:dre:326169:por
+  label: Rectificado pela DECL.DD5756.04.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326169
+  date: '1983-04-04'
+- type: repealed_by
+  target: pt:dre:638525:por
+  label: "Revogado pelo DEC LEI.222/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007, a partir de 01.06.2007 e determinado que\
+    \ as ARS, IP, sucedam nas atribuições dos Centros de Histocompatibilidade do Norte, Centro e Sul, previstos no presente\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2007-638525
+  date: '2007-05-29'
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:49:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 110/83
+
+de 21 de Fevereiro
+
+As transplantações de órgãos e os enxertos de tecidos constituem, actualmente, métodos insubstituíveis no tratamento de algumas afecções e representam, em outras, o processo menos oneroso da manutenção dos doentes em condições aceitáveis de sobrevivência.
+
+No entanto, a qualidade dos resultados obtidos com tais métodos e, bem assim, a sua rendibilidade dependem do número de intervenções praticadas, o que, considerada a população portuguesa e as características do País, impõe uma organização a nível nacional dos serviços relacionados com a execução das técnicas em causa. Entre esses serviços ocupam posição específica aqueles a que compete assegurar os estudos de histocompatibilidade, visto do seu funcionamento depender, em larga medida, o sucesso das intervenções.
+
+Nos países em que a prática da transportação de órgãos e enxertos de tecidos já beneficia de larga experiência foi adoptada, como vantajosa, a prática de se organizarem tais serviços sob a forma de centros, que, embora convenientemente articulados com os centros onde se praticam as intervenções, são dotados de independência em relação dos últimos e instalados em instituições onde a tecnologia de tecidular já atingiu, nos seus aspectos práticos e de investigação um elevado grau de desenvolvimento.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — (Natureza e atribuições)
+
+Artigo 1.º - 1 - São criados, sob tutela da Secretaria de Estado da Saúde, os de Histocompatibilidade do Norte, Centro e Sul, adiante designados por «Centros».
+
+2 - Os Centros são organismos de natureza para-hospitalar, aos quais incumbe a programação e a realização, na respectiva zona de influência, dos estudos de histocompatibilidade aplicada que visem a transplantação de tecidos e órgãos.
+
+3 - Os Centros gozam de independência científica e são serviços personalizados, dotados de autonomia administrativa e financeira.
+
+4 - Os Centros ficam localizados e funcionam nas seguintes instalações:
+
+a) Centro de Histocompatibilidade do Norte - em instalações próprias, na cerca do Hospital de S. João;
+
+b) Centro de Histocompatibilidade do Centro - em instalações cedidas pela Faculdade de Medicina de Coimbra;
+
+c) Centro de Histocompatibilidade do Sul - em instalações cedidas pela Faculdade de Ciências Médicas da Universidade Nova de Lisboa.
+
+5 - Cada Centro tem como zona de influência a área de jurisdição da actual comissão inter-hospitalar onde está localizado.
+
+Art. 2.º Compete aos Centros, no desempenho das suas atribuições:
+
+a) Realizar as tipagens tecidulares dos doentes candidatos a transplantação ou enxerto, avaliar o seu estado de tipo e pré-sensibilização;
+
+b) Realizar as tipagens tecidulares dos dadores vivos ou mortos;
+
+c) Proceder aos estudos imunológicos dos doentes candidatos ou já submetidos a transplantação ou enxertos que lhes sejam solicitados pelas instituições hospitalares ou outras;
+
+d) Organizar e manter actualizado um arquivo em que estejam referenciados todos os doentes da respectiva zona que aguardam transplantação ou enxerto e de que constem os parâmetros imunológicos desses doentes;
+
+e) Organizar e manter em funcionamento permanente um sistema de comunicação rápida com os outros centros de histocompatibilidade;
+
+f) Organizar e manter uma regular actividade de investigação no âmbito imunologia da histocompatibilidade, especialmente dedicada à pesquisa de soros adequados a tipagem tecidular, para consumo nacional e intercâmbio internacional.
+
+g) Assegurar o funcionamento permanente dos seus serviços laboratoriais.
+
+Art. 3.º - 1 - A actividade nacional dos 3 Centros exige, pelas suas características, uma coordenação que implica:
+
+a) Organizar e manter um arquivo de âmbito nacional dos doentes que aguardam transplantação ou enxerto e de que constarão os respectivos dados imunológicos;
+
+b) Assegurar baterias de soros para tipagem tecidular correspondentes aos utilizados nos outros centros de histocompatibilidade da Europa e nas organizações internacionais para permuta de órgãos;
+
+c) Organizar e manter em permanente funcionamento um sistema de comunicação rápido, que assegure a regular permuta de órgãos e tecidos a nível nacional e internacional.
+
+2 - As tarefas referidas no número anterior são cometidas ao Centro de Histocompatibilidade do Sul.
+
+3 - Dada a convergência de objectivos e a íntima colaboração, os 3 Centros, em conjunto, adoptarão a designação de Lusotransplante.
+
+Art. 4.º - 1 - Para o correcto e eficiente desempenho das atribuições referidas nos artigos anteriores, devem os diferentes serviços relacionados com a transplantação e enxerto de órgãos e tecidos enviar regularmente ao Centro de Histocompatibilidade da sua zona os produtos biológicos necessários para o estudo imunológico dos doentes candidatos a essas intervenções, acompanhados dos elementos indispensáveis para a organização dos arquivos referidos na alínea d) do artigo 2.º e na alínea a) do artigo 3.º
+
+2 - As informações a prestar pelos serviços em cumprimento do disposto no número antecedente devem ser actualizadas mensalmente, com indicação específica dos óbitos entretanto ocorridos e, bem assim, das circunstâncias transitórias ou definitivas que impeçam outros indivíduos constantes das listas de se submeterem a transplante ou enxerto.
+
+3 - As entidades responsáveis pela colheita de tecidos ou órgãos devem, igualmente, providenciar no sentido do envio para o centro de histocompatibilidade da respectiva zona dos produtos biológicos habituais dos dadores necessários à tipagem e aos demais estudos de histocompatibilidade.
+
+4 - A expedição de tecidos ou órgãos de cadáver a nível nacional e internacional, obtidos pelas equipas de colheita, ficará sob a responsabilidade dos centros de histocompatibilidade.
+
+### CAPÍTULO II — (Órgãos e serviços)
+
+Art. 5.º - 1 - A programação anual da histocompatibilidade aplicada à transplantação será da responsabilidade de um conselho nacional, na dependência do Secretário de Estado da Saúde, e constituída pelos directores dos 3 Centros, pelo presidente da Comissão Nacional de Diálise e Transplantação e pelo director do Instituto Nacional de Sangue.
+
+2 - A este conselho incumbirá, nomeadamente, estabelecer e manter actualizadas normas de controle de qualidade laboratorial para uso nacional, dar pareceres sobre matéria da sua área de competência que lhe sejam superiormente solicitados e incentivar e promover a cooperação técnico-científica em histocompatibilidade e imunologia da transplantação a nível nacional e internacional.
+
+3 - O conselho reunirá anualmente no dia e local da primeira reunião da Comissão Nacional de Diálise e Transplantação e deverá reunir também, por convocação da maioria dos seus membros ou por determinação superior, sempre que for achado necessário.
+
+Art. 6.º - 1 - São órgãos dos Centros o director e o conselho administrativo.
+
+2 - Para assegurar a gestão administrativa e financeira corrente, os Centros dispõem de uma secção administrativa.
+
+Art. 7.º - 1 - O director será licenciado em Medicina, possuirá qualificação não inferior à de chefe de serviço hospitalar, ou professor associado da carreira docente universitária, ou investigador auxiliar da carreira de investigação, e deverá ter experiência e autoridade científica comprovada no âmbito da histocompatibilidade.
+
+2 - O director é equiparado, para todos os efeitos, a subdirector-geral, nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+
+3 - O disposto no número anterior não prejudica a opção pelo titular em matéria de vencimentos e direitos correlativos quanto a remunerações relativas a categoria e regime de trabalho no serviço de origem.
+
+4 - O director poderá manter o exercício das suas competências no lugar de origem, desde que se trate de um serviço afim e haja conveniência de serviço por parte da instituição envolvida.
+
+5 - Compete ao director de cada Centro:
+
+a) Orientar, coordenar e controlar o funcionamento do Centro;
+
+b) Preparar e determinar a execução dos planos e programas de trabalho do Centro;
+
+c) Adoptar ou propor as disposições necessárias à melhoria do funcionamento do Centro e ao pleno aproveitamento da capacidade dos seus recursos materiais e humanos;
+
+d) Promover a elaboração do relatório anual do Centro e submetê-lo, após aprovação do conselho administrativo, à apreciação do Secretário de Estado da Saúde;
+
+e) Promover o recrutamento e reciclagem do pessoal e exercer a competência disciplinar que por lei lhe for atribuída;
+
+f) Submeter a despacho do Secretário de Estado da Saúde os assuntos que careçam de decisão superior;
+
+g) Assegurar a representação do Centro em juízo e fora dele;
+
+h) Tomar todas as iniciativas necessárias à prossecução das actividades do Centro e à sua valorização.
+
+Art. 8.º - 1 - O conselho administrativo é constituído pelo director do Centro, que presidirá, por um técnico superior do Centro e pelo responsável da secção administrativa. Caso se considere necessário, poderão ser nomeados para o conselho administrativo mais 2 vogais não pertencentes ao quadro do Centro.
+
+2 - Ao conselho administrativo, que é órgão deliberativo em matéria de gestão financeira, compete:
+
+a) O controle da gestão patrimonial e financeira do Centro;
+
+b) Fiscalizar a cobrança de receitas e o processamento das despesas;
+
+c) Fiscalizar a escrituração do Centro;
+
+d) Tomar as providências necessárias à conservação do património;
+
+e) Apreciar e dar sugestões em matéria de planos e programas de trabalho do Centro;
+
+f) Apreciar e aprovar os orçamentos anuais;
+
+g) Apreciar e aprovar as contas de gerência e o relatório anual do Centro;
+
+h) Pronunciar-se sobre a aquisição e alienação de móveis nos casos em que for legalmente viável e sob proposta do director do Centro;
+
+i) Autorizar, nos termos legais, a dispensa de concurso público ou limitado e de concurso escrito quanto a obras ou aquisição de material;
+
+j) Aceitar heranças, legados e donativos a favor do Centro;
+
+l) Proceder à verificação dos fundos em cofre e em depósito;
+
+m) Coadjuvar o director do Centro em todas as circunstâncias em que seja solicitado.
+
+3 - O conselho administrativo reunirá trimestralmente ou por convocação do presidente.
+
+### CAPÍTULO III — (Pessoal)
+
+Art. 9.º Os quadros de pessoal dos Centros constam dos anexos I, II e III ao presente diploma, dos quais fazem parte integrante.
+
+Art. 10.º - 1 - O provimento do lugar de director será feito por nomeação do Ministro dos Assuntos Sociais, sob proposta da Comissão Nacional de Diálise e Transplantação, em conformidade com os n.os 1, 2 e 3 do artigo 7.º
+
+2 - O pessoal médico será recrutado na área das especialidades de imunologia e alergologia (laboratorial), imuno-hemoterapia ou análises clínicas da carreira médica hospitalar, de harmonia com o disposto no [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, sendo prioritário o currículo em histocompatibilidade e imunologia da transplantação.
+
+3 - O recrutamento para o cargo de chefe de secção será feito de entre os primeiros-oficiais e técnicos auxiliares principais com um mínimo de 3 anos de bom e efectivo serviço na categoria ou indivíduos com curso superior adequado.
+
+4 - O recrutamento para os lugares da carreira de técnico auxiliar far-se-á da seguinte forma:
+
+a) Na categoria de ingresso, de entre os indivíduos habilitados com o curso geral do ensino secundário ou equiparado;
+
+b) Nas categorias de acesso, de entre funcionário de categoria imediatamente inferior com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+
+5 - Os demais lugares constantes dos quadros de pessoal dos Centros serão providos de acordo com o disposto na lei geral aplicável ou na lei específica para as carreiras que beneficiem de regime próprio.
+
+6 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória durante o período de 1 ano, findo o qual o funcionário será provido definitivamente ou exonerado, consoante tenha revelado ou não aptidão para o lugar.
+
+7 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá ser desde logo provido definitivamente, desde que exerça funções da mesma natureza.
+
+8 - O regime previsto nos números anteriores não prejudicará o disposto nas leis específicas aplicáveis às carreiras que beneficiem de regime próprio.
+
+Art. 11.º - 1 - O Ministro dos Assuntos Sociais poderá autorizar a celebração de contratos de tarefa para a realização de estudos, inquéritos, acções de formação e aperfeiçoamento ou outros trabalhos de carácter eventual com indivíduos ou outras entidades nacionais ou estrangeiras.
+
+2 - Os contratos referidos no número anterior serão obrigatoriamente reduzidos a escrito, deles constando o prazo, a remuneração, as condições de rescisão e a menção de que não conferem, em caso algum, a qualidade de funcionário ou agente administrativo.
+
+### CAPÍTULO IV — (Disposições gerais e transitórias)
+
+Art. 12.º - 1 - Os encargos resultantes do funcionamento dos Centros serão cobertos pelos donativos, produtos de herança, legados ou doações que lhes sejam feitos e por quaisquer outras receitas ou subsídios legalmente atribuídos.
+
+2 - O regime de instalação decorrente da publicação da [Portaria n.º 560/80](https://diariodarepublica.pt/dr/detalhe/portaria/560-1980-464006), de 3 de Setembro, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, cessará com a entrada em vigor do presente diploma.
+
+3 - O pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço nos Centros transitará para os lugares dos quadros a que se refere o artigo 9.º, com observância das disposições legais vigentes, de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que o funcionário já possui;
+
+b) Para categoria correspondente às funções que já desempenha remunerada por igual letra de vencimento ou imediatamente superior quando não se verifique coincidência de remuneração.
+
+4 - O tempo de serviço prestado na categoria que deu origem à transição conta como prestado na nova categoria para efeitos de progressão na carreira, desde que no exercício efectivo de função correspondente às da categoria para que transita.
+
+5 - As transições a que se refere o n.º 3 far-se-ão de acordo com o disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+
+6 - É revogada a [Portaria n.º 560/80](https://diariodarepublica.pt/dr/detalhe/portaria/560-1980-464006), de 3 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
+
+Promulgado em 1 de Fevereiro de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 2 de Fevereiro de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+## ANEXO I — Centro de Histocompatibilidade do Norte
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04200/05330538.pdf)
+
+## ANEXO II — Centro de Histocompatibilidade do Centro
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04200/05330538.pdf)
+
+## ANEXO III — Centro de Histocompatibilidade do Sul
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04200/05330538.pdf)

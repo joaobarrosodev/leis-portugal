@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:509223:por
+title: Portaria n.º 22613
+short_title: null
+summary: Cria o ramo de hidrografia e navegação (TCH) na subclasse dos oficiais técnicos da classe do serviço especial - Altera
+  a redacção da alínea i) do n.º 2.º da Portaria n.º 22008, que regula as condições de ingresso dos oficiais das reservas
+  naval e marítima na classe do serviço especial
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '22613'
+official_date: null
+publication_date: '1967-04-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 79/1967, Série I de 1967-04-03
+  number: '79'
+  series: I
+  supplement: null
+  pages: 705 - 706
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/04/07900/07050706.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '509223'
+  dre_path: /dr/detalhe/portaria/22613-1967-509223
+  internal: pt:dre:509223:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22613-1967-509223
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22613-1967-509223
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 49b1c5cb3e11f7bd5f76584d7b265d6517d1d7beb5ee3cf4faa785d1b3f109f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Curso de Especialização
+- Marinha
+- Militar
+- Quadro de Pessoal
+- Qualificação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:295096:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:295096:por
+  label: Alterada a al. i) do n.º 2.º da Port 22008 de 19-mai 1966, com a redacção dada pelo n.º 2.º do presente diploma,
+    pelo(a) Portaria n.º 324/78 - Diário da República n.º 136/1978, Série I de 1978-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-1978-295096
+  date: '1978-06-16'
+- type: cites
+  target: pt:dre:472757:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:29:20Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22613
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+1.º Criar, ao abrigo do disposto no § 2.º do artigo 15.º do Estatuto do Oficial da Armada, o ramo de hidrografia e navegação (TCH) na subclasse dos oficiais técnicos da classe do serviço especial, ao qual podem concorrer sargentos e praças da Armada de qualquer classe.
+
+2.º Alterar a redacção da alínea i) do n.º 2.º da [Portaria n.º 22008](https://diariodarepublica.pt/dr/detalhe/portaria/22008-1966-472757), de 19 de Maio de 1966, pela forma seguinte:
+
+2.º ...
+
+...
+
+i) Quando se destinem aos ramos da subclasse dos oficiais técnicos a seguir designados, estarem habilitados com os cursos seguintes:
+
+1) Ramo de artilharia - curso de especialização de artilharia;
+
+2) Ramo de armas submarinas - curso de especialização de armas submarinas;
+
+3) Ramo de electrotecnia - curso de especialização de electrotecnia;
+
+4) Ramo de comunicações - curso de especialização de comunicações;
+
+5) Ramo de mergulhador-sapador - curso de especialização de mergulhador-sapador;
+
+6) Ramo de hidrografia e navegação - curso de conversão ao ramo de hidrografia e navegação.
+
+Os cursos de especialização citados nos n.os 1), 2), 3), 4) e 5) desta alínea são os cursos a que se refere o artigo 16.º do Estatuto do Oficial da Armada; o curso de conversão indicado no n.º 6) será ministrado no Instituto Hidrográfico e a sua organização será fixada por despacho ministerial.
+
+Ministério da Marinha, 3 de Abril de 1967. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:137939969:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-137956086",
+ "dre_path": "/dr/detalhe/decreto-lei/37-2020-137939969",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202182758",
+    "137704461",
+    "137704462",
+    "137704463",
+    "137704464",
+    "137704465",
+    "137704466",
+    "137704467",
+    "137704468",
+    "137704469",
+    "137704470",
+    "137704471",
+    "137704472",
+    "137704473",
+    "137704474",
+    "138037375",
+    "138037376"
+   ]
+  },
+  {
+   "date": "2020-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144010968:por",
+     "title": "Decreto-Lei n.º 78-A/2020",
+     "published": "2020-09-29",
+     "dre_path": "/dr/detalhe/decreto-lei/78-a-2020-144010968"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "137704460",
+    "137704461",
+    "137704462",
+    "137704463",
+    "137704464",
+    "137704465",
+    "137704466",
+    "137704467",
+    "137704468",
+    "137704469",
+    "144137277",
+    "137704471",
+    "137704472",
+    "137704473",
+    "137704474",
+    "138037375",
+    "138037376",
+    "138037377"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202182758",
+    "202182759",
+    "202182760",
+    "202182761",
+    "202182762",
+    "202182763",
+    "202182764",
+    "202182765",
+    "202182766",
+    "202182767",
+    "202182768",
+    "202182769",
+    "202182770",
+    "202182771",
+    "202182772",
+    "202182773",
+    "202182774",
+    "202233275"
+   ]
+  }
+ ],
+ "fragments": {
+  "202182758": {
+   "fragment_id": "137956087",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 37/2020\n\nde 15 de julho\n\nSumário: Estabelece medidas de apoio social no âmbito do Programa de Estabilização Económica e Social.\n\nO Programa de Estabilização Económica e Social (PEES), aprovado pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, veio estabelecer as medidas adequadas para o período temporal subsequente ao estado de emergência e à situação de calamidade, declarados a respeito da pandemia da doença COVID-19, que importa corporizar, com vista ao reforço e retoma da economia e de proteção dos cidadãos em situação económica mais vulnerável por força da pandemia.\n\nA medida n.º 3.3 do PEES, relativa ao combate à pobreza, é densificada na definição dos rendimentos relevantes para acesso ao rendimento social de inserção e abono de família para crianças e jovens, e na prorrogação extraordinária do subsídio social de desemprego, alterando-se, neste âmbito, o Decreto-Lei n.º 20-C/2020, de 7 de maio.\n\nA medida n.º 3.3.1 do PEES, que visa encetar medidas de apoio à juventude e infância, é concretizada pela aprovação do pagamento de um montante complementar do abono de família para crianças e jovens.\n\nJá a medida n.º 5.5 do PEES, denominada «SIMPLEX SOS» é, no presente decreto-lei, concretizada na substituição da licença de funcionamento dos estabelecimentos de apoio social por mera comunicação prévia.\n\nO presente decreto-lei estabelece ainda outras medidas de caráter financeiro necessárias para reforço do apoio ao setor social, definindo regras no quadro da despesa do subsistema de ação social concedendo autorização ao Instituto de Gestão de Financeira da Segurança Social, I. P., para subscrever capital do Fundo de Contragarantia Mútuo.\n\nPor fim, no que respeita à redução ou suspensão do contrato de trabalho, altera-se o Decreto-Lei n.º 27-B/2020, de 19 de junho, que prorroga o apoio extraordinário à manutenção dos contratos de trabalho em situação de crise empresarial e cria outras medidas de proteção ao emprego, no âmbito do PEES, no sentido de clarificar que não é possível acumular o incentivo extraordinário à normalização da atividade empresarial com as medidas de redução ou suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137704461": {
+   "fragment_id": "137956088",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "137704462": {
+   "fragment_id": "137956089",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece medidas de apoio social no âmbito da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, que aprova o Programa de Estabilização Económica e Social.\n\n2 - O presente decreto-lei estabelece, ainda, medidas excecionais de reforço do setor social com vista à proteção das pessoas mais vulneráveis."
+  },
+  "137704463": {
+   "fragment_id": "137956090",
+   "type": 1,
+   "heading": "Capítulo II — Medidas de apoio social no âmbito do Programa de Estabilização Económica e Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Medidas de apoio social no âmbito do Programa de Estabilização Económica e Social"
+  },
+  "137704464": {
+   "fragment_id": "137956091",
+   "type": 11,
+   "heading": "Artigo 2.º — Prestação complementar de abono de família para crianças e jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prestação complementar de abono de família para crianças e jovens\n\n1 - Os titulares de abono de família para crianças e jovens que perfaçam até 16 anos, inclusive, até 31 de dezembro de 2020, correspondentes aos 1.º, 2.º e 3.º escalões de rendimentos do agregado familiar, têm direito a receber, no mês de setembro de 2020, uma prestação complementar nos termos dispostos no número seguinte.\n\n2 - A prestação complementar aos 1.º, 2.º e 3.º escalões de rendimentos a que se refere o número anterior corresponde, respetivamente, aos montantes estabelecidos na subalínea vi) da alínea a) do n.º 1, na subalínea vi) da alínea b) do n.º 1 e na subalínea vi) da alínea c) do n.º 1 do artigo 2.º da Portaria n.º 276/2019, de 28 de agosto.\n\n3 - O disposto no número anterior não prejudica a atribuição do abono de família que corresponde aos 1.º, 2.º e 3.º escalões de rendimentos e, quando aplicável, do montante adicional previsto no artigo 15.º do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual."
+  },
+  "137704465": {
+   "fragment_id": "137956092",
+   "type": 11,
+   "heading": "Artigo 3.º — Valor do rendimento do agregado familiar para cálculo de prestações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valor do rendimento do agregado familiar para cálculo de prestações sociais\n\n1 - Para efeitos da determinação do montante das prestações do rendimento social de inserção relativamente ao trabalho dependente é considerado, até dezembro de 2020, o valor da remuneração registada no último mês anterior à data do pedido, verificado após o termo do prazo de entrega das declarações de remunerações.\n\n2 - As prestações do rendimento social de inserção que foram prorrogadas extraordinariamente são objeto de reavaliação oficiosa em função dos rendimentos do mês anterior.\n\n3 - Aos agregados familiares beneficiários de prestações de abono de família para crianças e jovens que tenham registado uma queda abrupta de rendimentos nos três meses anteriores, o serviço competente da segurança social procede à reavaliação oficiosa das mesmas, tendo em conta os rendimentos de trabalho, pensões e outras prestações sociais constantes do sistema de informação da segurança social.\n\n4 - Para efeitos do disposto no número anterior, consideram-se os agregados familiares em que, pelo menos um dos seus elementos, com idade igual ou superior a 18 anos, não tenha obtido naquele período de referência rendimentos do trabalho, pensões ou prestações sociais substitutivas de rendimentos do trabalho.\n\n5 - Para os efeitos do disposto nos n.os 3 e 4, o valor anual a considerar na reavaliação do escalão de rendimento corresponde ao produto do valor mensal ilíquido das remunerações, pensões ou prestações sociais pelo número de meses em que esses valores serão pagos anualmente.\n\n6 - A reavaliação oficiosa a que se refere o n.º 3 aplica-se até dezembro de 2020, sendo efetuada com efeitos a janeiro de 2021 a prova anual de rendimentos e de composição do agregado familiar a que se refere o artigo 40.º do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual."
+  },
+  "137704466": {
+   "fragment_id": "137956093",
+   "type": 11,
+   "heading": "Artigo 4.º — Subsídio social de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Subsídio social de desemprego\n\n1 - É extraordinariamente prorrogada de forma automática, até 31 de dezembro de 2020, a atribuição do subsídio social de desemprego cujo período de concessão termine até essa data.\n\n2 - A prorrogação do período de concessão da prestação referida no número anterior não releva para a atribuição de outras prestações por desemprego nem para efeitos de registo de remunerações por equivalência à entrada de contribuições."
+  },
+  "137704467": {
+   "fragment_id": "137956094",
+   "type": 11,
+   "heading": "Artigo 5.º — Simplificação do processo de verificação de incapacidade no estatuto dos cuidadores informais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Simplificação do processo de verificação de incapacidade no estatuto dos cuidadores informais\n\n1 - Até 31 de dezembro de 2020, a certificação referida na alínea a) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, e na alínea d) do artigo 3.º da Portaria n.º 64/2020, de 10 de março, pode ser feita, a título provisório, por apenas um médico relator do serviço de verificação de incapacidades da segurança social.\n\n2 - O direito ao subsídio de apoio ao cuidador informal principal é reconhecido a partir da data de entrada em vigor da Portaria n.º 64/2020, de 10 de março, aos requerentes que naquela data reunissem todas as condições de atribuição do subsídio devendo, para este efeito, apresentar o requerimento até 31 de julho de 2020."
+  },
+  "137704468": {
+   "fragment_id": "137956095",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoios extraordinários no ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoios extraordinários no ensino superior\n\n1 - Os estudantes bolseiros de ação social no ano letivo 2019/2020 recebem a prestação mensal de ação social entre julho e setembro de 2020, designadamente sob a forma de auxílio de emergência e incluindo complemento de alojamento, nos casos em que:\n\na) Participem durante os meses de julho, agosto e setembro de 2020 em ações de formação superior presenciais passíveis de creditação nos termos da alínea a) a d) do n.º 1 do artigo 45.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, incluindo estágios profissionalizantes ou atividades de investigação e desenvolvimento em instituições de ensino superior, ou em unidades de investigação, ou em instituições públicas ou privadas;\n\nb) Estejam em formação durante o verão de 2020, incluindo estágios ou programas e diplomas de formação superior presenciais referentes ao ano letivo 2019/2020, que tenham sido adiados ou recalendarizados em virtude da pandemia da doença COVID-19.\n\n2 - Nos casos previstos na alínea b) do número anterior, o estudante não pode receber mais do que uma prestação, a título de bolsa de estudo ou complemento de alojamento, referente ao mesmo mês.\n\n3 - O Governo assegura a vigência, até ao final de 2020 e no ano letivo 2020/2021, de um mecanismo de atribuição automática de bolsas de estudo de ação social aos estudantes que, cumulativamente:\n\na) Sejam bolseiros de ação social no ano letivo 2019/2020 e continuem a cumprir os critérios de elegibilidade no ano letivo 2020/2021;\n\nb) Tenham concluído no ano letivo 2019/2020 o ciclo de estudos em que estavam inscritos;\n\nc) Prossigam estudos no ano letivo 2020/2021 em ciclos superiores de estudo, estando matriculados em instituição de ensino superior ou curso conferente de grau equivalente.\n\n4 - Para além do disposto nos números anteriores, a Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), em colaboração com a Direção-Geral do Ensino Superior, atribui um apoio especial a iniciativas integradas de investigação e desenvolvimento (I&D) e formação superior presenciais, incluindo estágios de investigação em unidades de I&D e/ou instituições públicas ou privadas, a desenvolver entre 1 de julho e 30 de outubro de 2020, em politécnicos e universidades, para:\n\na) Os estudantes e jovens que reúnam as condições para ser bolseiros de iniciação à investigação ou de investigação nos termos do Regulamento de Bolsas da FCT, I. P., assim como os estudantes bolseiros da ação social escolar;\n\nb) As instituições do ensino superior e seus institutos, laboratórios do Estado e outras instituições públicas de investigação, sociedades científicas ou associações científicas sem fins lucrativos, instituições públicas ou privadas sem fins lucrativos, ou entidades empresarias em parceria com instituições de investigação."
+  },
+  "137704469": {
+   "fragment_id": "137956096",
+   "type": 1,
+   "heading": "Capítulo III — Medidas excecionais de capacitação social e simplificação de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Medidas excecionais de capacitação social e simplificação de procedimentos"
+  },
+  "137704470": {
+   "fragment_id": "137956097",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social\n\nConstitui despesa do subsistema de ação social, independentemente da natureza jurídica das instituições destinatárias:\n\na) A despesa correspondente a atos realizados até à data de entrada em vigor do presente decreto-lei nos termos dos protocolos já celebrados, necessária para a capacitação para a manutenção da atividade das respostas sociais no âmbito da implementação de medidas de prevenção da pandemia da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações;\n\nb) A despesa a realizar, até 31 de dezembro de 2020, nos termos dos protocolos já celebrados, para a capacitação para a manutenção da atividade das respostas sociais para idosos, no âmbito da implementação de medidas de prevenção da pandemia da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações."
+  },
+  "137704471": {
+   "fragment_id": "137956098",
+   "type": 11,
+   "heading": "Artigo 8.º — Linha de financiamento ao setor social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Linha de financiamento ao setor social\n\n1 - O Instituto de Gestão Financeira da Segurança Social, I. P., fica autorizado a subscrever capital do Fundo de Contragarantia Mútuo e a conceder-lhe as necessárias garantias para efeitos da operacionalização da linha de financiamento das entidades que desenvolvem respostas sociais, até aos montantes máximos de (euro) 6 180 000,00 e de (euro) 18 500 000,00, respetivamente.\n\n2 - A linha de financiamento referida no número anterior destina-se a fazer face a dificuldades de tesouraria decorrentes da pandemia da doença COVID-19 em instituições particulares de solidariedade social ou entidades equiparadas sem fins lucrativos, mediante empréstimos a conceder até 31 de dezembro de 2020.\n\n3 - Os montantes referidos nos números anteriores relevam para efeitos do limite previsto no n.º 5 do artigo 161.º da Lei n.º 2/2020, de 31 de março, na sua redação atual."
+  },
+  "137704472": {
+   "fragment_id": "137956099",
+   "type": 11,
+   "heading": "Artigo 9.º — Simplificação do licenciamento dos estabelecimentos de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Simplificação do licenciamento dos estabelecimentos de apoio social\n\n1 - Até 31 de dezembro de 2020, no processo de licenciamento de funcionamento dos estabelecimentos de apoio social previsto no Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, a licença de funcionamento é substituída por mera comunicação prévia.\n\n2 - O requerimento do pedido deve ser instruído com os elementos previstos nos artigos 15.º e 16.º do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, acompanhados de declaração do requerente, assumindo o compromisso de ter entregado todos os elementos solicitados nos termos da lei, bem como de respeitar todas as disposições legais, regulamentares e técnicas relativas à atividade a desenvolver.\n\n3 - O documento comprovativo da regular submissão do pedido, instruído com os elementos e declaração previstos no número anterior, acompanhado pelo comprovativo de pagamento das taxas eventualmente devidas, constitui título válido de abertura e funcionamento para todos os efeitos legais."
+  },
+  "137704473": {
+   "fragment_id": "137956100",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares e finais"
+  },
+  "137704474": {
+   "fragment_id": "137956101",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 20-C/2020, de 7 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 20-C/2020, de 7 de maio\n\nO artigo 2.º do Decreto-Lei n.º 20-C/2020, de 7 de maio, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Nas situações previstas no n.º 1, o montante diário do subsídio social de desemprego a atribuir é igual à remuneração de referência líquida, calculada com base na remuneração de referência que é definida por R/(30 x n), em que R representa o total das remunerações registadas desde o início do período de referência até ao dia que antecede o desemprego e no número de meses a que as mesmas se reportam.»"
+  },
+  "138037375": {
+   "fragment_id": "137956102",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 27-B/2020, de 19 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 27-B/2020, de 19 de junho\n\nO artigo 6.º do Decreto-Lei n.º 27-B/2020, de 19 de junho, passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O empregador que recorra ao incentivo extraordinário à normalização da atividade empresarial previsto no presente decreto-lei não pode aceder ao apoio à retoma progressiva previsto na Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, nem, até ao fim do prazo estabelecido no n.º 4 do artigo anterior, às medidas de redução de suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho.»"
+  },
+  "138037376": {
+   "fragment_id": "137956103",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de julho de 2020."
+  },
+  "137704460": {
+   "fragment_id": "137956087",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 37/2020\n\nde 15 de julho\n\nSumário: Estabelece medidas de apoio social no âmbito do Programa de Estabilização Económica e Social.\n\nO Programa de Estabilização Económica e Social (PEES), aprovado pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, veio estabelecer as medidas adequadas para o período temporal subsequente ao estado de emergência e à situação de calamidade, declarados a respeito da pandemia da doença COVID-19, que importa corporizar, com vista ao reforço e retoma da economia e de proteção dos cidadãos em situação económica mais vulnerável por força da pandemia.\n\nA medida n.º 3.3 do PEES, relativa ao combate à pobreza, é densificada na definição dos rendimentos relevantes para acesso ao rendimento social de inserção e abono de família para crianças e jovens, e na prorrogação extraordinária do subsídio social de desemprego, alterando-se, neste âmbito, o Decreto-Lei n.º 20-C/2020, de 7 de maio.\n\nA medida n.º 3.3.1 do PEES, que visa encetar medidas de apoio à juventude e infância, é concretizada pela aprovação do pagamento de um montante complementar do abono de família para crianças e jovens.\n\nJá a medida n.º 5.5 do PEES, denominada «SIMPLEX SOS» é, no presente decreto-lei, concretizada na substituição da licença de funcionamento dos estabelecimentos de apoio social por mera comunicação prévia.\n\nO presente decreto-lei estabelece ainda outras medidas de caráter financeiro necessárias para reforço do apoio ao setor social, definindo regras no quadro da despesa do subsistema de ação social concedendo autorização ao Instituto de Gestão de Financeira da Segurança Social, I. P., para subscrever capital do Fundo de Contragarantia Mútuo.\n\nPor fim, no que respeita à redução ou suspensão do contrato de trabalho, altera-se o Decreto-Lei n.º 27-B/2020, de 19 de junho, que prorroga o apoio extraordinário à manutenção dos contratos de trabalho em situação de crise empresarial e cria outras medidas de proteção ao emprego, no âmbito do PEES, no sentido de clarificar que não é possível acumular o incentivo extraordinário à normalização da atividade empresarial com as medidas de redução ou suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "144137277": {
+   "fragment_id": "137956097",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social",
+   "in_force_from": "2020-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social\n\n1 - Constitui despesa do subsistema de ação social, independentemente da natureza jurídica das instituições destinatárias:\n\na) A despesa correspondente a atos realizados até à data de entrada em vigor do presente decreto-lei nos termos dos protocolos já celebrados, necessária para a capacitação para a manutenção da atividade das respostas sociais no âmbito da implementação de medidas de prevenção da pandemia da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações;\n\nb) A despesa a realizar, até 31 de dezembro de 2020, nos termos dos protocolos já celebrados, para a capacitação para a manutenção da atividade das respostas sociais para idosos, no âmbito da implementação de medidas de prevenção da pandemia da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações.\n\n2 - Constitui igualmente despesa do subsistema de ação social a despesa a realizar, nos termos dos protocolos a celebrar até 31 de dezembro de 2020, para a realização de testes de rastreio a profissionais afetos a estruturas residenciais, nos termos do disposto na alínea a) do artigo 23.º do anexo à Resolução do Conselho de Ministros n.º 70-A/2020, de 11 de setembro, ou outra que lhe vier a suceder na mesma matéria.\n\n3 - Podem ainda ser celebrados protocolos para capacitar a manutenção da atividade de respostas sociais no âmbito da implementação de medidas de prevenção da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações, através da cobertura de despesa com equipamentos de proteção individual, produtos de desinfeção e materiais de isolamento, nas instituições que apresentem dificuldades financeiras em assegurar esta despesa.\n\n4 - Os protocolos a que se referem os n.os 2 e 3, quando celebrados com entidades com as quais foram celebrados protocolos a que se refere a alínea b) do n.º 1, substituem esses protocolos de modo a que não se verifique interrupção na respetiva cobertura, sendo que, existindo verba não executada nos primeiros, a mesma é contemplada a título de adiantamento nos novos protocolos.\n\n5 - Os protocolos a que se referem os n.os 2 e 3 vigoram por um período de até seis meses.\n\n6 - A despesa realizada nos termos do disposto nos n.os 2 e 3 é suportada por verbas inscritas no orçamento da segurança social com fonte de financiamento resultante do disposto no n.º 5 do artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de março, na sua redação atual, e deve ser reembolsada caso venha a ser financiada por fundos europeus.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30"
+  },
+  "138037377": {
+   "fragment_id": "137956104",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Manuel Frederico Tojal de Valsassina Heitor - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 8 de julho de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 10 de julho de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113394585"
+  },
+  "202182759": {
+   "fragment_id": "137956088",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo I — Disposição geral\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182760": {
+   "fragment_id": "137956089",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece medidas de apoio social no âmbito da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, que aprova o Programa de Estabilização Económica e Social.\n\n2 - O presente decreto-lei estabelece, ainda, medidas excecionais de reforço do setor social com vista à proteção das pessoas mais vulneráveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182761": {
+   "fragment_id": "137956090",
+   "type": 1,
+   "heading": "Capítulo II — Medidas de apoio social no âmbito do Programa de Estabilização Económica e Social",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo II — Medidas de apoio social no âmbito do Programa de Estabilização Económica e Social\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182762": {
+   "fragment_id": "137956091",
+   "type": 11,
+   "heading": "Artigo 2.º — Prestação complementar de abono de família para crianças e jovens",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Prestação complementar de abono de família para crianças e jovens\n\n1 - Os titulares de abono de família para crianças e jovens que perfaçam até 16 anos, inclusive, até 31 de dezembro de 2020, correspondentes aos 1.º, 2.º e 3.º escalões de rendimentos do agregado familiar, têm direito a receber, no mês de setembro de 2020, uma prestação complementar nos termos dispostos no número seguinte.\n\n2 - A prestação complementar aos 1.º, 2.º e 3.º escalões de rendimentos a que se refere o número anterior corresponde, respetivamente, aos montantes estabelecidos na subalínea vi) da alínea a) do n.º 1, na subalínea vi) da alínea b) do n.º 1 e na subalínea vi) da alínea c) do n.º 1 do artigo 2.º da Portaria n.º 276/2019, de 28 de agosto.\n\n3 - O disposto no número anterior não prejudica a atribuição do abono de família que corresponde aos 1.º, 2.º e 3.º escalões de rendimentos e, quando aplicável, do montante adicional previsto no artigo 15.º do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182763": {
+   "fragment_id": "137956092",
+   "type": 11,
+   "heading": "Artigo 3.º — Valor do rendimento do agregado familiar para cálculo de prestações sociais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Valor do rendimento do agregado familiar para cálculo de prestações sociais\n\n1 - Para efeitos da determinação do montante das prestações do rendimento social de inserção relativamente ao trabalho dependente é considerado, até dezembro de 2020, o valor da remuneração registada no último mês anterior à data do pedido, verificado após o termo do prazo de entrega das declarações de remunerações.\n\n2 - As prestações do rendimento social de inserção que foram prorrogadas extraordinariamente são objeto de reavaliação oficiosa em função dos rendimentos do mês anterior.\n\n3 - Aos agregados familiares beneficiários de prestações de abono de família para crianças e jovens que tenham registado uma queda abrupta de rendimentos nos três meses anteriores, o serviço competente da segurança social procede à reavaliação oficiosa das mesmas, tendo em conta os rendimentos de trabalho, pensões e outras prestações sociais constantes do sistema de informação da segurança social.\n\n4 - Para efeitos do disposto no número anterior, consideram-se os agregados familiares em que, pelo menos um dos seus elementos, com idade igual ou superior a 18 anos, não tenha obtido naquele período de referência rendimentos do trabalho, pensões ou prestações sociais substitutivas de rendimentos do trabalho.\n\n5 - Para os efeitos do disposto nos n.os 3 e 4, o valor anual a considerar na reavaliação do escalão de rendimento corresponde ao produto do valor mensal ilíquido das remunerações, pensões ou prestações sociais pelo número de meses em que esses valores serão pagos anualmente.\n\n6 - A reavaliação oficiosa a que se refere o n.º 3 aplica-se até dezembro de 2020, sendo efetuada com efeitos a janeiro de 2021 a prova anual de rendimentos e de composição do agregado familiar a que se refere o artigo 40.º do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182764": {
+   "fragment_id": "137956093",
+   "type": 11,
+   "heading": "Artigo 4.º — Subsídio social de desemprego",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Subsídio social de desemprego\n\n1 - É extraordinariamente prorrogada de forma automática, até 31 de dezembro de 2020, a atribuição do subsídio social de desemprego cujo período de concessão termine até essa data.\n\n2 - A prorrogação do período de concessão da prestação referida no número anterior não releva para a atribuição de outras prestações por desemprego nem para efeitos de registo de remunerações por equivalência à entrada de contribuições.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182765": {
+   "fragment_id": "137956094",
+   "type": 11,
+   "heading": "Artigo 5.º — Simplificação do processo de verificação de incapacidade no estatuto dos cuidadores informais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Simplificação do processo de verificação de incapacidade no estatuto dos cuidadores informais\n\n1 - Até 31 de dezembro de 2020, a certificação referida na alínea a) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, e na alínea d) do artigo 3.º da Portaria n.º 64/2020, de 10 de março, pode ser feita, a título provisório, por apenas um médico relator do serviço de verificação de incapacidades da segurança social.\n\n2 - O direito ao subsídio de apoio ao cuidador informal principal é reconhecido a partir da data de entrada em vigor da Portaria n.º 64/2020, de 10 de março, aos requerentes que naquela data reunissem todas as condições de atribuição do subsídio devendo, para este efeito, apresentar o requerimento até 31 de julho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182766": {
+   "fragment_id": "137956095",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoios extraordinários no ensino superior",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Apoios extraordinários no ensino superior\n\n1 - Os estudantes bolseiros de ação social no ano letivo 2019/2020 recebem a prestação mensal de ação social entre julho e setembro de 2020, designadamente sob a forma de auxílio de emergência e incluindo complemento de alojamento, nos casos em que:\n\na) Participem durante os meses de julho, agosto e setembro de 2020 em ações de formação superior presenciais passíveis de creditação nos termos da alínea a) a d) do n.º 1 do artigo 45.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, incluindo estágios profissionalizantes ou atividades de investigação e desenvolvimento em instituições de ensino superior, ou em unidades de investigação, ou em instituições públicas ou privadas;\n\nb) Estejam em formação durante o verão de 2020, incluindo estágios ou programas e diplomas de formação superior presenciais referentes ao ano letivo 2019/2020, que tenham sido adiados ou recalendarizados em virtude da pandemia da doença COVID-19.\n\n2 - Nos casos previstos na alínea b) do número anterior, o estudante não pode receber mais do que uma prestação, a título de bolsa de estudo ou complemento de alojamento, referente ao mesmo mês.\n\n3 - O Governo assegura a vigência, até ao final de 2020 e no ano letivo 2020/2021, de um mecanismo de atribuição automática de bolsas de estudo de ação social aos estudantes que, cumulativamente:\n\na) Sejam bolseiros de ação social no ano letivo 2019/2020 e continuem a cumprir os critérios de elegibilidade no ano letivo 2020/2021;\n\nb) Tenham concluído no ano letivo 2019/2020 o ciclo de estudos em que estavam inscritos;\n\nc) Prossigam estudos no ano letivo 2020/2021 em ciclos superiores de estudo, estando matriculados em instituição de ensino superior ou curso conferente de grau equivalente.\n\n4 - Para além do disposto nos números anteriores, a Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), em colaboração com a Direção-Geral do Ensino Superior, atribui um apoio especial a iniciativas integradas de investigação e desenvolvimento (I&D) e formação superior presenciais, incluindo estágios de investigação em unidades de I&D e/ou instituições públicas ou privadas, a desenvolver entre 1 de julho e 30 de outubro de 2020, em politécnicos e universidades, para:\n\na) Os estudantes e jovens que reúnam as condições para ser bolseiros de iniciação à investigação ou de investigação nos termos do Regulamento de Bolsas da FCT, I. P., assim como os estudantes bolseiros da ação social escolar;\n\nb) As instituições do ensino superior e seus institutos, laboratórios do Estado e outras instituições públicas de investigação, sociedades científicas ou associações científicas sem fins lucrativos, instituições públicas ou privadas sem fins lucrativos, ou entidades empresarias em parceria com instituições de investigação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182767": {
+   "fragment_id": "137956096",
+   "type": 1,
+   "heading": "Capítulo III — Medidas excecionais de capacitação social e simplificação de procedimentos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo III — Medidas excecionais de capacitação social e simplificação de procedimentos\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182768": {
+   "fragment_id": "137956097",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social\n\n1 - Constitui despesa do subsistema de ação social, independentemente da natureza jurídica das instituições destinatárias:\n\na) A despesa correspondente a atos realizados até à data de entrada em vigor do presente decreto-lei nos termos dos protocolos já celebrados, necessária para a capacitação para a manutenção da atividade das respostas sociais no âmbito da implementação de medidas de prevenção da pandemia da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações;\n\nb) A despesa a realizar, até 31 de dezembro de 2020, nos termos dos protocolos já celebrados, para a capacitação para a manutenção da atividade das respostas sociais para idosos, no âmbito da implementação de medidas de prevenção da pandemia da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações.\n\n2 - Constitui igualmente despesa do subsistema de ação social a despesa a realizar, nos termos dos protocolos a celebrar até 31 de dezembro de 2020, para a realização de testes de rastreio a profissionais afetos a estruturas residenciais, nos termos do disposto na alínea a) do artigo 23.º do anexo à Resolução do Conselho de Ministros n.º 70-A/2020, de 11 de setembro, ou outra que lhe vier a suceder na mesma matéria.\n\n3 - Podem ainda ser celebrados protocolos para capacitar a manutenção da atividade de respostas sociais no âmbito da implementação de medidas de prevenção da doença COVID-19, quer no que respeita à destinada diretamente aos trabalhadores e utentes, quer na que respeita às instalações, através da cobertura de despesa com equipamentos de proteção individual, produtos de desinfeção e materiais de isolamento, nas instituições que apresentem dificuldades financeiras em assegurar esta despesa.\n\n4 - Os protocolos a que se referem os n.os 2 e 3, quando celebrados com entidades com as quais foram celebrados protocolos a que se refere a alínea b) do n.º 1, substituem esses protocolos de modo a que não se verifique interrupção na respetiva cobertura, sendo que, existindo verba não executada nos primeiros, a mesma é contemplada a título de adiantamento nos novos protocolos.\n\n5 - Os protocolos a que se referem os n.os 2 e 3 vigoram por um período de até seis meses.\n\n6 - A despesa realizada nos termos do disposto nos n.os 2 e 3 é suportada por verbas inscritas no orçamento da segurança social com fonte de financiamento resultante do disposto no n.º 5 do artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de março, na sua redação atual, e deve ser reembolsada caso venha a ser financiada por fundos europeus.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30"
+  },
+  "202182769": {
+   "fragment_id": "137956098",
+   "type": 11,
+   "heading": "Artigo 8.º — Linha de financiamento ao setor social",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Linha de financiamento ao setor social\n\n1 - O Instituto de Gestão Financeira da Segurança Social, I. P., fica autorizado a subscrever capital do Fundo de Contragarantia Mútuo e a conceder-lhe as necessárias garantias para efeitos da operacionalização da linha de financiamento das entidades que desenvolvem respostas sociais, até aos montantes máximos de (euro) 6 180 000,00 e de (euro) 18 500 000,00, respetivamente.\n\n2 - A linha de financiamento referida no número anterior destina-se a fazer face a dificuldades de tesouraria decorrentes da pandemia da doença COVID-19 em instituições particulares de solidariedade social ou entidades equiparadas sem fins lucrativos, mediante empréstimos a conceder até 31 de dezembro de 2020.\n\n3 - Os montantes referidos nos números anteriores relevam para efeitos do limite previsto no n.º 5 do artigo 161.º da Lei n.º 2/2020, de 31 de março, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182770": {
+   "fragment_id": "137956099",
+   "type": 11,
+   "heading": "Artigo 9.º — Simplificação do licenciamento dos estabelecimentos de apoio social",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Simplificação do licenciamento dos estabelecimentos de apoio social\n\n1 - Até 31 de dezembro de 2020, no processo de licenciamento de funcionamento dos estabelecimentos de apoio social previsto no Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, a licença de funcionamento é substituída por mera comunicação prévia.\n\n2 - O requerimento do pedido deve ser instruído com os elementos previstos nos artigos 15.º e 16.º do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, acompanhados de declaração do requerente, assumindo o compromisso de ter entregado todos os elementos solicitados nos termos da lei, bem como de respeitar todas as disposições legais, regulamentares e técnicas relativas à atividade a desenvolver.\n\n3 - O documento comprovativo da regular submissão do pedido, instruído com os elementos e declaração previstos no número anterior, acompanhado pelo comprovativo de pagamento das taxas eventualmente devidas, constitui título válido de abertura e funcionamento para todos os efeitos legais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182771": {
+   "fragment_id": "137956100",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares e finais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições complementares e finais\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182772": {
+   "fragment_id": "137956101",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 20-C/2020, de 7 de maio",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 20-C/2020, de 7 de maio\n\nO artigo 2.º do Decreto-Lei n.º 20-C/2020, de 7 de maio, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Nas situações previstas no n.º 1, o montante diário do subsídio social de desemprego a atribuir é igual à remuneração de referência líquida, calculada com base na remuneração de referência que é definida por R/(30 x n), em que R representa o total das remunerações registadas desde o início do período de referência até ao dia que antecede o desemprego e no número de meses a que as mesmas se reportam.»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182773": {
+   "fragment_id": "137956102",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 27-B/2020, de 19 de junho",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 27-B/2020, de 19 de junho\n\nO artigo 6.º do Decreto-Lei n.º 27-B/2020, de 19 de junho, passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O empregador que recorra ao incentivo extraordinário à normalização da atividade empresarial previsto no presente decreto-lei não pode aceder ao apoio à retoma progressiva previsto na Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, nem, até ao fim do prazo estabelecido no n.º 4 do artigo anterior, às medidas de redução de suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho.»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182774": {
+   "fragment_id": "137956103",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de julho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202233275": {
+   "fragment_id": "137956104",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Manuel Frederico Tojal de Valsassina Heitor - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 8 de julho de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 10 de julho de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113394585\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

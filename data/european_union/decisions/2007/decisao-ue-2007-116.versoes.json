@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007D0116:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0116-20230306",
+ "dre_path": null,
+ "source_lastmod": "2023-03-06",
+ "versions": [
+  {
+   "date": "2007-10-30",
+   "future": false,
+   "celex": "02007D0116-20071030",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0e4f3efaeb15dc8b",
+    "22c7e44de89d3181",
+    "e3b90bd85bc185fe",
+    "a649bc7fdbec8fa4",
+    "2e582f9d89340319",
+    "c87ae970a62a735e",
+    "a7738cc28cbeac19",
+    "9db02d35a5b0c3b7",
+    "3776a115226a8137",
+    "3440ea13905b5086"
+   ]
+  },
+  {
+   "date": "2009-12-03",
+   "future": false,
+   "celex": "02007D0116-20091203",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0884:por",
+     "title": "DECISÃO DA COMISSÃO de 30 de Novembro de 2009",
+     "published": null,
+     "celex": "32009D0884"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "3f50a05883a71335",
+    "22c7e44de89d3181",
+    "e3b90bd85bc185fe",
+    "a649bc7fdbec8fa4",
+    "2e582f9d89340319",
+    "c87ae970a62a735e",
+    "a7738cc28cbeac19",
+    "9db02d35a5b0c3b7",
+    "979d7cfdd53ab3da",
+    "5b38ed0f7dfbf3ee"
+   ]
+  },
+  {
+   "date": "2023-03-06",
+   "future": false,
+   "celex": "02007D0116-20230306",
+   "acts": [
+    {
+     "id": "eu:celex:32023D0468:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2023/468 DA COMISSÃO de 25 de novembro de 2022",
+     "published": null,
+     "celex": "32023D0468"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2c6a4e98d637c70b",
+    "22c7e44de89d3181",
+    "e3b90bd85bc185fe",
+    "a649bc7fdbec8fa4",
+    "2e582f9d89340319",
+    "c87ae970a62a735e",
+    "a7738cc28cbeac19",
+    "9db02d35a5b0c3b7",
+    "cac8e80d41e711f3"
+   ]
+  }
+ ],
+ "fragments": {
+  "0e4f3efaeb15dc8b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2007\n\nsobre a reserva da gama nacional de números começados por «116» para os números harmonizados destinados a serviços harmonizados de valor social\n\n[notificada com o número C(2007) 249]\n\n(Texto relevante para efeitos do EEE)\n\n(2007/116/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/21/CE do Parlamento Europeu e do Conselho, de 7 de Março de 2002, relativa a um quadro regulamentar comum para as redes e serviços de comunicações electrónicas (Directiva-Quadro) ([^1^](http://publications.europa.eu/resource/cellar/38f4abb2-59a9-4752-96c9-7627d4f9d6f7.0017.03/DOC_1#E0001)), nomeadamente o n.º 4 do artigo 10.º,\n\n(1) É de toda a conveniência que os cidadãos dos Estados-Membros, incluindo os viajantes e os deficientes, possam aceder a certos serviços que possuem um valor social utilizando os mesmos números, reconhecíveis em todos os Estados-Membros. Neste momento existe uma manta de retalhos de regimes de numeração e marcação nos Estados-Membros, não estando em vigor qualquer regime comum de numeração que reserve os mesmos números de telefone para tais serviços na Comunidade. É necessária, pois, uma acção comunitária para suprir essa lacuna.\n\n(2) Só a harmonização dos recursos de numeração permitirá que os utilizadores finais acedam aos serviços desse tipo oferecidos nos diversos Estados-Membros utilizando o mesmo número. A combinação «mesmo número — mesmo serviço» garantirá que um serviço específico, seja qual for o Estado-Membro em que é prestado, esteja sempre associado a um número específico dentro da Comunidade. Deste modo, o serviço ganhará uma identidade pan-europeia vantajosa para o cidadão europeu, que saberá que o mesmo número dará acesso ao mesmo tipo de serviço nos diferentes Estados-Membros. Esta medida incentivará o desenvolvimento de serviços pan-europeus.\n\n(3) Para reflectir a função social dos serviços em causa, os números harmonizados deverão ser números verdes (gratuitos), sem que tal signifique que os operadores serão obrigados a suportar eles próprios os encargos do transporte das chamadas efectuadas para números 116. A gratuitidade destas chamadas é, por conseguinte, uma componente essencial da harmonização a realizar.\n\n(4) É necessário impor condições estritamente relacionadas com o controlo da natureza do serviço oferecido, para garantir que os números harmonizados sejam utilizados para a oferta do tipo particular de serviço abrangido pela Decisão.\n\n(5) Pode ser necessário impor condições específicas no respeitante ao direito de utilização de um número harmonizado específico, por exemplo que o serviço associado a esse número seja oferecido 24 horas por dia, 7 dias por semana.\n\n(6) De acordo com a Directiva-Quadro, as autoridades reguladoras nacionais são responsáveis pela gestão dos planos nacionais de numeração e pelo controlo da atribuição de recursos de numeração nacionais a determinadas empresas. Nos termos do artigo 6.º e artigo 10.º da Directiva 2002/20/CE do Parlamento Europeu e do Conselho, de 7 de Março de 2002, relativa à autorização de redes e serviços de comunicações electrónicas (Directiva «Autorização») ([^2^](http://publications.europa.eu/resource/cellar/38f4abb2-59a9-4752-96c9-7627d4f9d6f7.0017.03/DOC_1#E0002)), podem ser impostas condições à utilização dos números e aplicadas sanções em caso de não cumprimento dessas condições.\n\n(7) A lista de números específicos pertencentes à gama começada por «116» deve ser regularmente actualizada segundo o procedimento previsto no n.º 3 do artigo 22.º da Directiva-Quadro. Os Estados-Membros devem dar a conhecer a existência desses números de um modo que seja acessível a todas as partes interessadas, através, por exemplo, de sítios *web* governamentais.\n\n(8) A Comissão colocará a hipótese de rever ou adaptar melhor a presente decisão face à experiência adquirida, baseando-se nos relatórios que lhe serão transmitidos pelos Estados-Membros, verificando, em especial, se um determinado serviço para o qual foi reservado um número se desenvolveu à escala pan-europeia.\n\n(9) As medidas previstas na presente decisão são conformes com o parecer do Comité das Comunicações,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "22c7e44de89d3181": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nA gama de números começados por «116» será reservada nos planos nacionais de numeração para os números harmonizados destinados a serviços harmonizados de valor social.\n\nOs números específicos pertencentes a essa série de números e os serviços para os quais cada número é reservado figuram no anexo."
+  },
+  "e3b90bd85bc185fe": {
+   "fragment_id": "Artigo 2.º — Serviço harmonizado de valor social",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Serviço harmonizado de valor social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviço harmonizado de valor social\n\n«Serviço harmonizado de valor social» é um serviço que corresponde a uma descrição comum, a que as pessoas podem aceder através de um número de telefone gratuito, que possui potencialmente valor para os visitantes de outros países e que responde a uma necessidade social específica, designadamente um serviço que contribui para o bem-estar ou a segurança dos cidadãos ou de determinados grupos de cidadãos, ou que ajuda os cidadãos em dificuldades."
+  },
+  "a649bc7fdbec8fa4": {
+   "fragment_id": "Artigo 3.º — Reserva de números específicos dentro da gama de números começados por «116»",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Reserva de números específicos dentro da gama de números começados por «116»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reserva de números específicos dentro da gama de números começados por «116»\n\nOs Estados-Membros devem assegurar que:\n\na) Os números que figuram no anexo apenas sejam utilizados para os serviços para os quais tenham sido reservados;\n\nb) Os números pertencentes à série de números começados por «116» que não figuram no anexo não sejam utilizados;\n\nc) O número 116112 não seja atribuído nem utilizado para nenhum serviço."
+  },
+  "2e582f9d89340319": {
+   "fragment_id": "Artigo 4.º — Condições a impor ao direito de utilização dos números harmonizados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Condições a impor ao direito de utilização dos números harmonizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições a impor ao direito de utilização dos números harmonizados\n\nOs Estados-Membros imporão as seguintes condições ao direito de utilização dos números harmonizados destinados à oferta de serviços harmonizados de valor social:\n\na) O serviço fornece aos cidadãos informações, assistência ou uma ferramenta de participação de ocorrências, ou qualquer combinação destes elementos;\n\nb) O serviço é aberto a todos os cidadãos sem exigir registo prévio;\n\nc) O serviço não é limitado no tempo;\n\nd) A utilização do serviço não está sujeita a qualquer requisito prévio de pagamento ou compromisso de pagamento;\n\ne) Durante uma chamada para o serviço, estão excluídas as seguintes actividades: publicidade, entretenimento, *marketing* e venda, utilização da chamada para futura venda de serviços comerciais.\n\nAlém disso, os Estados-Membros imporão condições específicas ao direito de utilização dos números harmonizados que figuram no anexo."
+  },
+  "c87ae970a62a735e": {
+   "fragment_id": "Artigo 5.º — Atribuição dos números harmonizados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Atribuição dos números harmonizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição dos números harmonizados\n\n1. Os Estados-Membros tomarão todas as medidas necessárias para garantir que, a partir de 31 de Agosto de 2007, a autoridade reguladora nacional competente atribua os números referidos no anexo.\n\n2. A inclusão na lista de um número específico e dos serviços harmonizados de valor social a ele associados não implica para os Estados-Membros a obrigação de garantirem que o serviço em causa seja oferecido no seu território.\n\n3. A partir do momento em que um número é incluído na lista do anexo, os Estados-Membros farão saber, a nível nacional, que esse número específico está disponível para a oferta do serviço harmonizado de valor social a ele associado e que podem ser apresentados pedidos para a obtenção do direito de utilização desse número específico.\n\n4. Os Estados-Membros garantirão a manutenção de um registo de todos os números harmonizados, com os correspondentes serviços harmonizados de valor social, disponíveis no seu território. O público deve ter acesso fácil ao registo."
+  },
+  "a7738cc28cbeac19": {
+   "fragment_id": "Artigo 6.º — Monitorização",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Monitorização\n\nOs Estados-Membros enviarão periodicamente à Comissão um relatório sobre a utilização efectiva dos números que figuram no anexo para aceder aos serviços correspondentes no seu território."
+  },
+  "9db02d35a5b0c3b7": {
+   "fragment_id": "Artigo 7.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "3776a115226a8137": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Número | Serviço para o qual este número está reservado | Condições específicas a impor ao direito de utilização deste número |\n| --- | --- | --- |\n| 116000 | *Nome do serviço:* Número grátis Crianças Desaparecidas *Descrição:* O serviço a) atende chamadas de quem quer comunicar o desaparecimento de crianças e transfere-as para a polícia; b) oferece orientação e apoio às pessoas responsáveis pela criança desaparecida; c) apoia a investigação. | Disponibilidade permanente (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional). |\n| 116111 | *Nome do serviço:* Linha de apoio à criança *Descrição:* O serviço ajuda as crianças que necessitam de cuidado e protecção e põe-nas em contacto com serviços e recursos; oferece às crianças a oportunidade de exporem os seus problemas, de falarem de questões que as afectam directamente e de pedirem ajuda em caso de emergência. | Se o serviço não estiver permanentemente disponivel (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e hora em que o serviço voltará a estar disponível. |\n| 116123 | *Nome do serviço:* Linha de apoio emocional *Descrição:* O serviço oferece a quem telefona um contacto verdadeiramente humano, uma escuta sem juízos de valor. Oferece apoio emocional a quem sofre de solidão, se encontra em situação de crise psicológica ou está a pensar pôr fim à vida. | Se o serviço não estiver permanentemente disponivel (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e hora em que o serviço voltará a estar disponível. |\n\n---"
+  },
+  "3440ea13905b5086": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/38f4abb2-59a9-4752-96c9-7627d4f9d6f7.0017.03/DOC_1#src.E0001)) JO L 108 de 24.4.2002, p. 33.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/38f4abb2-59a9-4752-96c9-7627d4f9d6f7.0017.03/DOC_1#src.E0002)) JO L 108 de 24.4.2002, p. 21."
+  },
+  "3f50a05883a71335": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2007\n\nsobre a reserva da gama nacional de números começados por «116» para os números harmonizados destinados a serviços harmonizados de valor social\n\n[notificada com o número C(2007) 249]\n\n(Texto relevante para efeitos do EEE)\n\n(2007/116/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/21/CE do Parlamento Europeu e do Conselho, de 7 de Março de 2002, relativa a um quadro regulamentar comum para as redes e serviços de comunicações electrónicas (Directiva-Quadro) ([^1^](http://publications.europa.eu/resource/cellar/049b6057-bac5-4187-94c2-086766d53f89.0019.03/DOC_1#E0001)), nomeadamente o n.º 4 do artigo 10.º,\n\n(1) É de toda a conveniência que os cidadãos dos Estados-Membros, incluindo os viajantes e os deficientes, possam aceder a certos serviços que possuem um valor social utilizando os mesmos números, reconhecíveis em todos os Estados-Membros. Neste momento existe uma manta de retalhos de regimes de numeração e marcação nos Estados-Membros, não estando em vigor qualquer regime comum de numeração que reserve os mesmos números de telefone para tais serviços na Comunidade. É necessária, pois, uma acção comunitária para suprir essa lacuna.\n\n(2) Só a harmonização dos recursos de numeração permitirá que os utilizadores finais acedam aos serviços desse tipo oferecidos nos diversos Estados-Membros utilizando o mesmo número. A combinação «mesmo número — mesmo serviço» garantirá que um serviço específico, seja qual for o Estado-Membro em que é prestado, esteja sempre associado a um número específico dentro da Comunidade. Deste modo, o serviço ganhará uma identidade pan-europeia vantajosa para o cidadão europeu, que saberá que o mesmo número dará acesso ao mesmo tipo de serviço nos diferentes Estados-Membros. Esta medida incentivará o desenvolvimento de serviços pan-europeus.\n\n(3) Para reflectir a função social dos serviços em causa, os números harmonizados deverão ser números verdes (gratuitos), sem que tal signifique que os operadores serão obrigados a suportar eles próprios os encargos do transporte das chamadas efectuadas para números 116. A gratuitidade destas chamadas é, por conseguinte, uma componente essencial da harmonização a realizar.\n\n(4) É necessário impor condições estritamente relacionadas com o controlo da natureza do serviço oferecido, para garantir que os números harmonizados sejam utilizados para a oferta do tipo particular de serviço abrangido pela Decisão.\n\n(5) Pode ser necessário impor condições específicas no respeitante ao direito de utilização de um número harmonizado específico, por exemplo que o serviço associado a esse número seja oferecido 24 horas por dia, 7 dias por semana.\n\n(6) De acordo com a Directiva-Quadro, as autoridades reguladoras nacionais são responsáveis pela gestão dos planos nacionais de numeração e pelo controlo da atribuição de recursos de numeração nacionais a determinadas empresas. Nos termos do artigo 6.º e artigo 10.º da Directiva 2002/20/CE do Parlamento Europeu e do Conselho, de 7 de Março de 2002, relativa à autorização de redes e serviços de comunicações electrónicas (Directiva «Autorização») ([^2^](http://publications.europa.eu/resource/cellar/049b6057-bac5-4187-94c2-086766d53f89.0019.03/DOC_1#E0002)), podem ser impostas condições à utilização dos números e aplicadas sanções em caso de não cumprimento dessas condições.\n\n(7) A lista de números específicos pertencentes à gama começada por «116» deve ser regularmente actualizada segundo o procedimento previsto no n.º 3 do artigo 22.º da Directiva-Quadro. Os Estados-Membros devem dar a conhecer a existência desses números de um modo que seja acessível a todas as partes interessadas, através, por exemplo, de sítios *web* governamentais.\n\n(8) A Comissão colocará a hipótese de rever ou adaptar melhor a presente decisão face à experiência adquirida, baseando-se nos relatórios que lhe serão transmitidos pelos Estados-Membros, verificando, em especial, se um determinado serviço para o qual foi reservado um número se desenvolveu à escala pan-europeia.\n\n(9) As medidas previstas na presente decisão são conformes com o parecer do Comité das Comunicações,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "979d7cfdd53ab3da": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Número | Serviço para o qual este número está reservado | Condições específicas a impor ao direito de utilização deste número |\n| --- | --- | --- |\n| 116 000 | *Nome do serviço:* Número verde Crianças Desaparecidas *Descrição:* O serviço a) atende chamadas de quem quer participar o desaparecimento de crianças e transfere-as para a polícia; b) oferece orientação e apoio às pessoas responsáveis pela criança desaparecida; c) apoia a investigação. | Disponibilidade permanente (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional). |\n| 116 006 | *Nome do serviço:* Linha de apoio a vítimas de crimes *Descrição:* O serviço oferece às vítimas de crimes a possibilidade de obterem apoio psicológico nessas circunstâncias, de serem informadas dos seus direitos e do modo de os fazerem valer e de serem encaminhadas para os organismos competentes. Concretamente, são-lhes prestadas informações sobre a) os procedimentos da polícia local e da justiça penal, b) possibilidades de indemnização e questões dos seguros. É também dado apoio na procura de outras fontes de ajuda. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço voltará a estar disponível. |\n| 116 111 | *Nome do serviço:* Linha de apoio à criança *Descrição:* O serviço ajuda as crianças que necessitam de cuidado e protecção e põe-nas em contacto com serviços e recursos; oferece às crianças a oportunidade de exporem os seus problemas, de falarem de questões que as afectam directamente e de pedirem ajuda em caso de emergência. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço voltará a estar disponível. |\n| 116 117 | *Nome do serviço:* Serviço de chamadas médicas não de emergência *Descrição:* O serviço encaminha a pessoa que telefona para a assistência médica adequada às suas necessidades, que são urgentes mas sem implicarem perigo de vida, especialmente, mas não exclusivamente, fora das horas normais de trabalho, nos fins-de-semana e nos feriados. A pessoa que telefona é atendida por um telefonista qualificado e devidamente assistido, ou directamente por um médico ou um profissional de saúde. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço voltará a estar disponível. |\n| 116 123 | *Nome do serviço:* Linha de apoio psicológico *Descrição:* O serviço oferece a quem telefona um contacto verdadeiramente humano, uma escuta sem juízos de valor. Oferece apoio psicológico a quem sofre de solidão, se encontra em situação de crise psicológica ou está a pensar pôr fim à vida. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço voltará a estar disponível. |\n\n---"
+  },
+  "5b38ed0f7dfbf3ee": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/049b6057-bac5-4187-94c2-086766d53f89.0019.03/DOC_1#src.E0001)) JO L 108 de 24.4.2002, p. 33.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/049b6057-bac5-4187-94c2-086766d53f89.0019.03/DOC_1#src.E0002)) JO L 108 de 24.4.2002, p. 21."
+  },
+  "2c6a4e98d637c70b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2007\n\nsobre a reserva da gama nacional de números começados por «116» para os números harmonizados destinados a serviços harmonizados de valor social\n\n[notificada com o número C(2007) 249]\n\n(Texto relevante para efeitos do EEE)\n\n(2007/116/CE)"
+  },
+  "cac8e80d41e711f3": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Número | Serviço para o qual este número está reservado | Condições específicas a impor ao direito de utilização deste número |\n| --- | --- | --- |\n| 116 000 | *Nome do serviço:* Número de emergência para crianças desaparecidas *Descrição:* O serviço a) atende chamadas de quem quer participar o desaparecimento de crianças e transfere-as para a polícia; b) oferece orientação e apoio às pessoas responsáveis pela criança desaparecida; c) apoia a investigação. | Disponibilidade permanente (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional). |\n| 116 006 | *Nome do serviço:* Linha de apoio a vítimas de crimes *Descrição:* O serviço oferece às vítimas de crimes a possibilidade de obterem apoio psicológico nessas circunstâncias, de serem informadas dos seus direitos e do modo de os fazerem valer e de serem encaminhadas para os organismos competentes. Em especial, fornece informações sobre a) os procedimentos da polícia local e da justiça penal; b) possibilidades de indemnização e questões dos seguros. É também dado apoio na procura de outras fontes de ajuda. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço volta a estar disponível. |\n| 116 016 | *Nome do serviço:* Linha de apoio a mulheres vítimas de violência *Descrição:* O serviço oferece às mulheres vítimas de violência a possibilidade de procurarem assistência e obterem apoio, de serem informadas dos seus direitos e do modo de os fazerem valer e de serem encaminhadas para os organismos competentes. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço volta a estar disponível. |\n| 116 111 | *Nome do serviço:* Linhas de apoio a crianças *Descrição:* O serviço ajuda as crianças que necessitam de cuidado e proteção e põe-nas em contacto com serviços e recursos; oferece às crianças a oportunidade de exporem os seus problemas, de falarem de questões que as afetam diretamente e de pedirem ajuda em caso de emergência. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço volta a estar disponível. |\n| 116 117 | *Nome do serviço:* Serviço de chamadas médicas não de emergência *Descrição:* O serviço encaminha a pessoa que telefona para a assistência médica adequada às suas necessidades, que são urgentes mas sem implicarem perigo de vida, especialmente, mas não exclusivamente, fora das horas normais de trabalho, nos fins-de-semana e nos feriados. A pessoa que telefona é atendida por um telefonista qualificado e devidamente assistido, ou diretamente por um médico ou um profissional de saúde. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço volta a estar disponível. |\n| 116 123 | *Nome do serviço:* Linhas de apoio psicológico *Descrição:* O serviço oferece a quem telefona um contacto verdadeiramente humano, uma escuta sem juízos de valor. Oferece apoio psicológico a quem sofre de solidão, se encontra em situação de crise psicológica ou está a pensar pôr fim à vida. | Se o serviço não estiver permanentemente disponível (ou seja, 24 horas por dia, 7 dias por semana, a nível nacional), o prestador do serviço tem de garantir que sejam tornadas públicas e facilmente acessíveis informações sobre a disponibilidade do serviço e que, durante os períodos de indisponibilidade, quem telefonar para o serviço seja informado da data e da hora em que o serviço volta a estar disponível. |"
+  }
+ }
+}

@@ -1,0 +1,346 @@
+---
+schema_version: '1.0'
+id: pt:dre:361507:por
+title: Decreto-Lei n.º 188/2001
+short_title: null
+summary: Regula o processo de liquidação da SILOPOR - Empresa de Silos Portuários, S. A., e estabelece um conjunto de regras
+  sobre a concessão da actividade da Empresa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 188/2001
+official_date: null
+publication_date: '2001-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2001, Série I-A de 2001-06-25
+  number: '145'
+  series: I
+  supplement: null
+  pages: 3789 - 3791
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/145a00/37893791.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-19'
+version_history:
+  file: decreto-lei-188-2001.versoes.json
+  count: 5
+  source_lastmod: '2025-04-17'
+  versions:
+  - date: '2001-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-01'
+    amending: pt:dre:534588:por
+    amending_title: Decreto-Lei n.º 242-A/2001
+    changes:
+    - Altera Artigo 2.º
+  - date: '2002-11-22'
+    amending: pt:dre:450618:por
+    amending_title: Decreto-Lei n.º 250/2002
+    changes:
+    - Repoe em Vigor Artigo 2.º
+  - date: '2003-02-17'
+    amending: pt:dre:198687:por
+    amending_title: Decreto-Lei n.º 29/2003
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+  - date: '2025-03-19'
+    amending: pt:dre:911131668:por
+    amending_title: Decreto-Lei n.º 13-B/2025
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 7.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/188/2001/p/cons/20250314/pt/html
+  oj: null
+  dre: '361507'
+  dre_path: /dr/detalhe/decreto-lei/188-2001-361507
+  internal: pt:dre:361507:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507
+  metadata_url: https://data.dre.pt/eli/dec-lei/188/2001/p/cons/20250314/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-911302990
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-911302990
+  retrieved_at: '2026-10-22T13:25:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-04-17T00:00:00Z'
+integrity:
+  source_sha256: cdb1109e9a93385dc2a55783f4222010582863648ad301c8c8ba90e6f8898089
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:25:37Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-188-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sociedade Anónima
+- Comissão Liquidatária
+- Concurso Público
+- Extinção de Empresas
+- Gestão do Património
+- Empresa de Silos Portuários
+relationships:
+- type: amended_by
+  target: pt:dre:534588:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588
+  date: '2001-08-31'
+- type: amended_by
+  target: pt:dre:450618:por
+  label: Repoe em Vigor Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618
+  date: '2002-11-21'
+- type: amended_by
+  target: pt:dre:198687:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687
+  date: '2003-02-12'
+- type: amended_by
+  target: pt:dre:911131668:por
+  label: Adita Artigo 7.º-A; Adita Artigo 7.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668
+  date: '2025-03-14'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:25:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 188/2001
+
+Decreto-Lei n.º 188/2001
+
+de 25 de Junho
+
+A criação da EPAC - Empresa Pública do Abastecimento dos Cereais, pelo Decreto-Lei n.º 663/76, de 4 de Agosto, culminou um processo de fusão de vários organismos de coordenação económica na área da produção e comercialização dos cereais. Esta empresa pública herdou uma estrutura de funcionamento sobredimensionada e subordinada a uma lógica própria de organismo de intervenção no mercado de cereais, estando obrigada por imperativo estatutário a «assegurar o abastecimento de cereais e sementes, tendo em conta a defesa da produção, as exigências do consumo e os superiores interesses da economia nacional».
+
+No período entre 1986 e 1989 iniciou-se, nos termos do Tratado de Adesão de Portugal às Comunidades Europeias, uma liberalização progressiva no mercado da importação de cereais que atingiu em 1991 a liberalização total, determinando, em consequência, a perda pela EPAC do monopólio de que até então beneficiava na importação de cereais.
+
+Entretanto, em 1986 é criada a SILOPOR - Empresa de Silos Portuários, S. A., como resultado de uma cisão e de um destaque de capital social e de património imobiliário e mobiliário da EPAC, tendo por objecto principal a prestação, aos operadores comerciais inseridos no seu ramo de actividade, de serviços de recepção, movimentação, armazenagem, expedição e transporte de matérias-primas alimentares e produtos conexos, mediante a utilização das suas infra-estruturas de armazenagem.
+
+Pelo valor do acervo de bens destacados do património imobiliário e mobiliário da EPAC para constituírem património da nova sociedade, deduzido da soma do capital social destacado da EPAC com o montante dos financiamentos transmitidos para a SILOPOR correspondentes a bens afectos à respectiva actividade, ficou a SILOPOR em dívida para com a EPAC, não tendo nunca disposto, no entanto, de fundos próprios nem tendo sido dotada de meios, pelo Estado, enquanto accionista, suficientes e necessários para solver a dívida junto daquela empresa.
+
+Este enquadramento, designadamente o processo de criação, a liberalização dos mercados de comércio de cereais decorrente da adesão de Portugal às Comunidades Europeias e a constituição da SILOPOR, potenciou o crescente desequilíbrio da estrutura financeira da EPAC - Empresa para a Agroalimentação e Cereais, S. A., que sucedeu à EPAC - Empresa Pública do Abastecimento dos Cereais.
+
+O processo de liquidação da EPAC - Empresa para a Agroalimentação e Cereais, S. A., e a impossibilidade de, por imperativo das regras comunitárias sobre auxílios públicos, o Estado se substituir, directa ou indirectamente, à SILOPOR no pagamento da dívida, determinam a dissolução e liquidação desta sociedade, que agora se regula.
+
+O reconhecimento da importância do serviço de descarga e armazenagem de matérias-primas alimentares actualmente prestado pela SILOPOR aos operadores do ramo agroalimentar justifica, no entanto, que se mantenha a concessão da exploração desta actividade, em regime de serviço público, mediante adjudicação a operadores privados, salvaguardando-se, ainda, em sede do processo de liquidação da SILOPOR, a continuidade da gestão corrente da respectiva actividade.
+
+De igual forma, o reconhecimento da importância da armazenagem de rectaguarda como apoio aos silos portuários, fundamenta a opção da concessão do silo do interior de Vale da Figueira, pertença da EPAC Comercial - Produtos para a Agricultura e Alimentação, S. A., em articulação com a atribuição da concessão do serviço público da exploração dos silos portuários actualmente explorados pela SILOPOR.
+
+Para o efeito, estabelece o presente diploma um conjunto de regras gerais que nortearão o lançamento de dois concursos públicos para a concessão deste serviço, prevendo a constituição de uma comissão encarregue de preparar e executar os procedimentos e actos necessários ao lançamento e tramitação dos concursos.
+
+Os concursos públicos deverão salvaguardar as condições de utilização dos silos, por forma que seja garantida a melhoria de qualidade e preço dos serviços prestados numa óptica de melhor servir os utilizadores dos silos e aumentar a competitividade do sector agro-alimentar. Neste sentido, é primordial proceder à instalação de bandas transportadoras de ligação directa dos cais de descarga aos silos portuários.
+
+Todos os trabalhadores da SILOPOR e do silo interior de Vale da Figueira mantêm, durante o período da liquidação, todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma, bem como aqueles que, após aquela, estejam afectos aos patrimónios que irão ser sujeitos a concurso público de concessão.
+
+Foram ouvidas as estruturas representativas dos trabalhadores da SILOPOR, S. A.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Dissolução e liquidação
+
+1 - É dissolvida, com efeitos reportados a 19 de Junho de 2000, a SILOPOR - Empresa de Silos Portuários, S. A., adiante designada SILOPOR, S. A.
+
+2 - A dissolução da SILOPOR, S. A., não carece de escritura pública, devendo o registo ser requerido no prazo de 7 dias após a data de entrada em vigor do presente diploma.
+
+3 - Sem prejuízo do disposto no número seguinte, a liquidação da SILOPOR, S. A., é efectuada nos termos do presente decreto-lei, do Código das Sociedades Comerciais e das deliberações da respectiva assembleia geral.
+
+4 - O prazo de liquidação da SILOPOR, S. A., pode, por deliberação da assembleia geral, ser prorrogado por tempo superior ao que resulta do disposto nos n.os 1 e 2 do artigo 150.º do Código das Sociedades Comerciais, na medida do necessário à conclusão das operações de liquidação, incluindo a concessão da respectiva actividade em regime de serviço público.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 2/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), produz efeitos a partir de 2005-07-15
+
+###### Artigo 2.º — Comissão liquidatária
+
+1 - A liquidação da SILOPOR, S. A., é cometida a uma comissão liquidatária até ser deliberada pela respectiva assembleia geral a transmissão global do património activo e passivo para o accionista Estado, através da Direcção-Geral do Tesouro.
+
+2 - A presidência da comissão liquidatária a que se refere o número anterior incumbe, por inerência, ao presidente do conselho directivo do Instituto Nacional de Intervenção e Garantia Agrícola (INGA).
+
+3 - Sem prejuízo do disposto no número anterior, a comissão liquidatária referida no n.º 1 é nomeada por despacho conjunto dos Ministros das Finanças e do Equipamento Social, o qual fixará as condições de prestação de serviço dos seus membros, incluindo a respectiva remuneração.
+
+4 - Compete à comissão liquidatária assegurar a continuidade da actividade da SILOPOR, S. A., até à data da sua efectiva extinção.
+
+> Reposto em Vigor pelo/a Artigo 11.º do/a [Decreto-Lei n.º 250/2002 - Diário da República n.º 269/2002, Série I-A de 2002-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), em vigor a partir de 2002-11-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 242-A/2001 - Diário da República n.º 202/2001, 2º Suplemento, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), em vigor a partir de 2001-09-01
+
+###### Artigo 3.º — Património
+
+1 - Por deliberação da assembleia geral, o património activo e passivo da SILOPOR, S. A., será liquidado por transmissão global para o accionista Estado, através da Direcção-Geral do Tesouro.
+
+2 - A Direcção-Geral do Tesouro, em representação do Estado, sucederá à SILOPOR, S. A., em todas as relações jurídicas contratuais e processuais que esta integre à data da sua extinção.
+
+3 - A Direcção-Geral do Tesouro fica depositária dos livros, documentos e demais elementos de escrituração da sociedade.
+
+4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.
+
+5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, poderá assumir, durante a liquidação e nos termos do número anterior, dívidas da sociedade, em casos devidamente fundamentados.
+
+###### Artigo 4.º — Trabalhadores
+
+1 - Os trabalhadores da SILOPOR e os afectos ao silo de Vale da Figueira mantêm, durante o período da liquidação, todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma, continuando a ser integralmente aplicável às respectivas relações de trabalho a regulamentação em vigor.
+
+2 - Os concessionários sucederão na posição da SILOPOR, S. A., relativamente aos trabalhadores afectos às concessões previstas no n.º 1 do artigo 7.º, os quais manterão perante aquelas entidades todos os direitos e regalias que detiverem à data da celebração do contrato de concessão.
+
+3 - O acordo de empresa vigente na SILOPOR, S. A., será mantido por um período de cinco anos a contar da data da celebração dos contratos de concessão que suportarão as concessões previstas no n.º 1 do artigo 7.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2003 - Diário da República n.º 36/2003, Série I-A de 2003-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), em vigor a partir de 2003-02-17
+
+###### Artigo 5.º — Acções judiciais
+
+Com a extinção da SILOPOR, S. A., a posição da Empresa nas acções judiciais pendentes em que seja parte será assumida pelo Estado, através da Direcção-Geral do Tesouro, não se suspendendo a instância, nem sendo necessária habilitação.
+
+###### Artigo 6.º — Forma
+
+1 - O presente diploma constitui, para todos os efeitos legais, inclusive para os de registo, título bastante para as transmissões de direitos e obrigações nele previstos, ficando a mesma isenta de quaisquer taxas ou emolumentos.
+
+2 - Os actos a praticar pela comissão liquidatária prevista no artigo 2.º respeitantes à dissolução, liquidação e extinção da sociedade são efectuados com dispensa de escritura e com isenção de quaisquer taxas ou emolumentos.
+
+###### Artigo 7.º — Concessões
+
+1 - Serão objecto de concessão em regime de serviço público, precedida de concurso público:
+
+a) A exploração da actividade da SILOPOR, S. A., no porto de Lisboa, com gestão integrada dos terminais da Trafaria e do Beato, e a exploração do silo do interior de Vale de Figueira;
+
+b) A exploração da actividade da SILOPOR, S. A., no porto de Leixões.
+
+2 - Os programas dos concursos e os respectivos cadernos de encargos são aprovados por portaria dos Ministros de Estado e das Finanças, da Segurança Social e do Trabalho e das Obras Públicas, Transportes e Habitação.
+
+3 - Do programa do concurso de cada um dos concursos públicos têm de constar obrigatoriamente:
+
+a) Os requisitos respeitantes à capacidade e aptidão dos concorrentes em termos financeiros, económicos e técnicos;
+
+b) Os critérios de apreciação e avaliação das propostas;
+
+c) As normas relativas à tramitação processual dos concursos;
+
+d) O montante das cauções a prestar pelos concorrentes;
+
+e) Os elementos mínimos do contrato de concessão.
+
+4 - Do caderno de encargos de cada um dos concursos públicos têm de constar obrigatoriamente:
+
+a) As condições gerais de exploração e tarifárias;
+
+b) A duração da concessão;
+
+c) O montante da caução a prestar pela concessionária;
+
+d) As regras quanto às contrapartidas a pagar pela concessionária;
+
+e) A indicação dos trabalhadores da SILOPOR, S. A., afectos à concessão.
+
+5 - Dos critérios de apreciação das propostas, a que se refere a alínea b) do n.º 3 do presente artigo, constam, como factor de avaliação das mesmas, as garantias apresentadas pelos concorrentes no sentido de salvaguardar os postos de trabalho transferidos à data da adjudicação das concessões.
+
+6 - As minutas dos contratos de concessão serão aprovadas por resolução do Conselho de Ministros e as respectivas bases por decreto-lei.
+
+7 - As bases gerais da concessão estabelecem os termos em que devem ser repartidos entre o concedente Estado e as administrações portuárias as contrapartidas financeiras a pagar pela concessionária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2003 - Diário da República n.º 36/2003, Série I-A de 2003-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), em vigor a partir de 2003-02-17
+
+###### Artigo 7.º-A — Transmissão de estabelecimento
+
+1 - A exploração da atividade da SILOPOR, S. A., em regime de serviço público, no porto de Lisboa, com gestão integrada dos terminais da Trafaria e do Beato e dos silos da Trafaria, do Beato e do interior de Vale de Figueira pode ser objeto de transmissão de estabelecimento a favor de sociedade a constituir pela APL - Administração do Porto de Lisboa, S. A., adiante designada APL, S. A., a qual sucede na posição da SILOPOR, S. A., nos respetivos contratos de concessão celebrados com a APL, S. A.
+
+2 - A transmissão de estabelecimento engloba os ativos e passivos da SILOPOR, S. A., relacionados com a exploração da atividade referida no número anterior.
+
+3 - O valor da contrapartida da transferência do estabelecimento nos termos do n.º 1, é fixado em função:
+
+a) Da avaliação do valor da atividade prosseguida pela SILOPOR, S. A., em regime de serviço público, no porto de Lisboa, com gestão integrada dos terminais da Trafaria e do Beato e dos silos da Trafaria, do Beato e do interior de Vale de Figueira, até ao final do prazo de concessão de exploração, em regime de serviço público, nos Terminais de Graneis Alimentares da Trafaria e do Beato, a determinar por revisor oficial de contas independente, a designar por comum acordo entre a SILOPOR, S. A., e a APL, S. A., e a confirmar pelo Estado, através da Direção-Geral do Tesouro e Finanças;
+
+b) Da avaliação dos bens a transmitir com o estabelecimento que não integram as concessões, designadamente o silo de Vale de Figueira, a efetuar por entidade(s) idónea(s), a designar por comum acordo entre a SILOPOR, S. A., e a APL, S. A., e a confirmar pelo Estado, através da Direção-Geral do Tesouro e Finanças.
+
+4 - A APL, S. A., assume o débito da sociedade a constituir perante a SILOPOR, S. A., por conta da contrapartida fixada nos termos do número anterior.
+
+5 - A minuta do contrato de transmissão do estabelecimento previsto nos números anteriores é aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças, do trabalho, solidariedade e segurança social e das infraestruturas, no qual deve constar obrigatoriamente a identificação dos ativos, ou direitos, e passivos, ou obrigações, que integram o estabelecimento a transmitir, bem como a indicação dos contratos vigentes a este afetos, designadamente dos contratos de trabalho.
+
+6 - A APL, S. A., deve, no prazo de um ano e seis meses após a concretização da transmissão do estabelecimento, promover o lançamento do procedimento através de concurso público internacional, para alienação do capital social da sociedade a constituir, com a qual deve previamente celebrar contrato de concessão da atividade em regime de serviço público, tendo em conta o caráter estratégico da infraestrutura.
+
+7 - A minuta do futuro contrato de concessão deve ser aprovada por resolução do Conselho de Ministros e as respetivas bases por decreto-lei.
+
+8 - No procedimento concursal do concurso indicado no n.º 6, são aplicadas, com as necessárias adaptações, as disposições previstas nos n.os 2 a 6 do artigo 7.º
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13-B/2025 - Diário da República n.º 52/2025, Suplemento, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), em vigor a partir de 2025-03-19
+
+###### Artigo 7.º-B — Transmissão dos contratos de trabalho
+
+1 - A sociedade a constituir pela APL, S. A., sucede na posição da SILOPOR, S. A., nos contratos vigentes a esta afetos, designadamente nos contratos de trabalho, mantendo os trabalhadores transmitidos ao adquirente todos os direitos contratuais e adquiridos, nomeadamente retribuição, antiguidade, categoria profissional e conteúdo funcional e benefícios sociais adquiridos, bem como os demais direitos constantes de instrumentos de regulamentação coletiva de trabalho, conforme previsto no artigo 498.º do Código do Trabalho, e de regulamentos de carreiras, nos termos previstos no n.º 3 do artigo 285.º do Código do Trabalho.
+
+2 - O acordo de empresa vigente na SILOPOR, S. A., é mantido por um período de cinco anos a contar da data da celebração do contrato de concessão referido nos n.os 6 e 7 do artigo anterior.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13-B/2025 - Diário da República n.º 52/2025, Suplemento, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), em vigor a partir de 2025-03-19
+
+###### Artigo 8.º — Comissão de acompanhamento dos concursos públicos
+
+1 - Por despacho conjunto dos Ministros do Equipamento Social e das Finanças é constituída uma comissão encarregue de:
+
+a) Preparar os programas dos concursos, dos cadernos de encargos e demais documentos necessários ao lançamento dos concursos públicos para concessionar a exploração dos silos actualmente explorados pela SILOPOR;
+
+b) Executar todos os actos necessários ao lançamento dos concursos, incluindo a prestação de esclarecimentos e demais contactos com os candidatos, a recepção das candidaturas e propostas e a realização dos actos relativos à habilitação dos concorrentes à abertura, exame e classificação das propostas;
+
+c) Superintender na análise técnica (financeira e jurídica) das propostas;
+
+d) Elaborar, negociar e propor à aprovação a minuta dos contratos de concessão.
+
+2 - A comissão será constituída:
+
+a) Pelo presidente da comissão liquidatária da SILOPOR, S. A., que coordenará;
+
+b) Por um representante do Ministro do Equipamento Social;
+
+c) Por um representante do Ministro das Finanças;
+
+d) Por um representante da Administração do Porto de Lisboa, S. A., ou da administração dos Portos do Douro e de Leixões, S. A., consoante se trate da concessão dos silos da Trafaria e do Beato, ou se trate da concessão do silo de Leixões;
+
+e) Por um representante da Inspecção-Geral de Finanças.
+
+3 - O apoio administrativo e técnico à comissão será prestado pela Administração do Porto de Lisboa, S. A., ou da administração dos Portos do Douro e de Leixões, S. A., consoante se trate da concessão dos silos da Trafaria e do Beato, ou se trate da concessão do silo de Leixões.
+
+4 - Na preparação dos programas e dos cadernos de encargos, a comissão pode propor a colaboração de técnicos especializados nas matérias em que tal intervenção se revele necessária, devendo ainda ouvir as associações representativas dos trabalhadores e dos sectores da economia interessados no lançamento dos concursos.
+
+Visto e aprovado em Conselho de Ministros de 26 de Abril de 2001. - António Manuel de Oliveira Guterres. - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Luís Manuel Capoulas Santos - Paulo José Fernandes Pedroso.
+
+Promulgado em 7 de Junho de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 8 de Junho de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
